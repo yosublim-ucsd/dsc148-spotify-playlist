@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-24",
-  "description": "La casa del trap chileno. Foto: ITHAN NY.",
+  "description": "La casa del trap chileno. Foto: Harry Nach & Aqua VS.",
   "name": "Trapperz Chile",
   "tracks": [
     {
@@ -1989,6 +1989,28 @@
     },
     {
       "album": {
+        "name": "Mafia Chilena: GUCCI GREMLIN",
+        "url": "https://open.spotify.com/album/4le82QUKPdaEI75sUfOrU8"
+      },
+      "artists": [
+        {
+          "name": "ITHAN NY",
+          "url": "https://open.spotify.com/artist/0LshXUmIub6xKvOq4QmtNs"
+        },
+        {
+          "name": "Pablo Chill-E",
+          "url": "https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "Mafia Chilena: GUCCI GREMLIN",
+      "url": "https://open.spotify.com/track/00nkC3hghUJB2ILdTAn44T"
+    },
+    {
+      "album": {
         "name": "Mafia Chilena: LOS CHICHOS",
         "url": "https://open.spotify.com/album/3gkPtGCboYoObv0k0dvw06"
       },
@@ -2004,6 +2026,24 @@
       "duration_ms": 122386,
       "name": "Mafia Chilena: LOS CHICHOS",
       "url": "https://open.spotify.com/track/1xbTJhhQ0zE9qsf4pAtxCe"
+    },
+    {
+      "album": {
+        "name": "Mafia Chilena: NEWYORK GABANA",
+        "url": "https://open.spotify.com/album/3koKjQhDGFhnic9KXMsmn0"
+      },
+      "artists": [
+        {
+          "name": "ITHAN NY",
+          "url": "https://open.spotify.com/artist/0LshXUmIub6xKvOq4QmtNs"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119712,
+      "name": "Mafia Chilena: NEWYORK GABANA",
+      "url": "https://open.spotify.com/track/6m9AQlbsgXtkdzInoGovOi"
     },
     {
       "album": {
@@ -2342,10 +2382,36 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 232320,
       "name": "Mi Trap",
       "url": "https://open.spotify.com/track/1ClVzLNM120B8JIWs6aF1x"
+    },
+    {
+      "album": {
+        "name": "Mi Trap",
+        "url": "https://open.spotify.com/album/64RG2dGK1oAHgsVQtrPRXJ"
+      },
+      "artists": [
+        {
+          "name": "King Savagge",
+          "url": "https://open.spotify.com/artist/7DXregrznS25AM30UY9sUU"
+        },
+        {
+          "name": "Cris Mj",
+          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
+        },
+        {
+          "name": "Moonkey",
+          "url": "https://open.spotify.com/artist/3qiQUUvazYmo7tBgQeb2rf"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232320,
+      "name": "Mi Trap",
+      "url": "https://open.spotify.com/track/1GWETx8pAGHNXYsLyB1asj"
     },
     {
       "album": {
@@ -4062,6 +4128,28 @@
       "duration_ms": 181625,
       "name": "Vacaciones",
       "url": "https://open.spotify.com/track/0vaMFncaiDlOXqTcoLW9FR"
+    },
+    {
+      "album": {
+        "name": "VIBRANDO ALTO",
+        "url": "https://open.spotify.com/album/2mjGSrHDnZB0J34FM4IeFk"
+      },
+      "artists": [
+        {
+          "name": "Aqua VS",
+          "url": "https://open.spotify.com/artist/0bcZsLQV8MCeU0ylWbw23p"
+        },
+        {
+          "name": "Harry Nach",
+          "url": "https://open.spotify.com/artist/0NnUMWDCDi1snuMja6IdxH"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161606,
+      "name": "VIBRANDO ALTO",
+      "url": "https://open.spotify.com/track/6gdXA0hjqp5B9VLilLmkRu"
     },
     {
       "album": {

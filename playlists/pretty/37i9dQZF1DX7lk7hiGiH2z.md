@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7lk7hiGiH2z.md) - [plain]
 
 > Zeit für Plätzchen backen, Schlittschuhlaufen und Schneemann bauen 🍪⛸️☃️
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,224 likes - 75 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,312 likes - 75 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7lk7hiGiH2z.md) - [plain]
 | 74 | [Kling Glöckchen](https://open.spotify.com/track/0FglULmN3H0yp3xMiiwt5e) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Weihnachten mit KIDZ BOP](https://open.spotify.com/album/2WH3rGNtsmTn3dk0y4kB1c) | 2:06 |
 | 75 | [Silvester](https://open.spotify.com/track/4I3O14VN10X7orM7h9xvhn) | [Stefanie Schrank](https://open.spotify.com/artist/0TtuoO8p89UbOviWtfxl5e) | [Unter meinem Bett\. Das Weihnachtsalbum](https://open.spotify.com/album/3AQbRqNj7LdKICSmwIrDQu) | 3:17 |
 
-Snapshot ID: `MCw0ZjI0YmY0MDAzZDA2ZWZmNzExZjA1NDlhMjJjNjVlOWYwMTBmZWY4`
+Snapshot ID: `MCwwNDdjZDNmY2RkMzM5ZjQ0MGRlMWVkNmVkMDg4ODE5ZmY2ZWMzZTY1`

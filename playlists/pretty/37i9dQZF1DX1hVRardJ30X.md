@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > All\-new releases by Latin artists! Cover: Danny Ocean
 
-[Spotify](https://open.spotify.com/user/spotify) - 586,079 likes - 60 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 586,132 likes - 60 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 59 | [SOLOS](https://open.spotify.com/track/13YhNghBwAKN9rGfNfAkD8) | [BRAVO](https://open.spotify.com/artist/7qtrIbvzw3v43TXqADisFd) | [SOLOS](https://open.spotify.com/album/1gLN3mimnYFosrReFBrxPz) | 2:18 |
 | 60 | [EL O YO](https://open.spotify.com/track/0BpjBMutkKy8AIEk3zxzSK) | [Pit Andre](https://open.spotify.com/artist/0OPADCRhYaBPCE4Mu8LOpt) | [EL O YO](https://open.spotify.com/album/7BWgRk3HBCjsWBuRWSCYQt) | 3:23 |
 
-Snapshot ID: `MCwxMjJiNjE2NDZlMzYwOTEyNGM1ODY2NDRlM2Y1ZjMxZjhjNTQzZjZj`
+Snapshot ID: `MCw2MzBiODczYThlMDhlZjk2MTE5NGMzOWViZGE3Nzg2OTY1OWJiM2Rj`

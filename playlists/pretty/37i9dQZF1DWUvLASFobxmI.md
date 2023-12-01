@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvLASFobxmI.md) - [plain]
 
 > Bravías, románticas y rancheras, las mejores canciones norteñas\. Los Primos del Este en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 431,481 likes - 125 songs - 6 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 431,575 likes - 125 songs - 6 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvLASFobxmI.md) - [plain]
 | 124 | [Varios Años](https://open.spotify.com/track/5bCibcsWBAsa4Pqjg4ZR9q) | [Diferente Nivel](https://open.spotify.com/artist/5dHdCFMXwl9JofjKjS1MW0) | [Varios Años](https://open.spotify.com/album/3l4D4Td34r9gRSkNkbzt1S) | 2:48 |
 | 125 | [Que Lloro](https://open.spotify.com/track/1UIsqFOatDUVOAIwogLkFE) | [Juan Moya Y Los Del Valle](https://open.spotify.com/artist/6FmKCCqWSQAhxF0bkObz4b) | [Que Lloro](https://open.spotify.com/album/6NgaaY7zUsCj2tL0Xraezq) | 4:14 |
 
-Snapshot ID: `MCwxM2Y0ODI0YjMzMzlkMmQzNjVlYmNiMTljZTljZjA1NmI3YTQ2NmU2`
+Snapshot ID: `MCw1ZWI0ZjIxYjJjMGE2ZDk0MDk1MzNkODA5N2I0MTMxMzY3OTAwYjBk`

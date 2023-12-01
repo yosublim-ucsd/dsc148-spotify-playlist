@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XNgsy4UFju.md) - [plain]
 
 > The best in indie\. Cover: Busty and the Bass
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,762 likes - 100 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,774 likes - 100 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XNgsy4UFju.md) - [plain]
 | 99 | [See the Ground](https://open.spotify.com/track/4wKgFTmvtBz3A9rybWA4q6) | [The Velveteins](https://open.spotify.com/artist/1jUEqf1F3oW4JGoMfYxCvN) | [Declarations of the 3am Freeway](https://open.spotify.com/album/7Cd1lfR6NxzCsHFSWCEy6Z) | 2:11 |
 | 100 | [Parallel](https://open.spotify.com/track/71yizzHrqEmKVdffU6BZbo) | [Emilie Kahn](https://open.spotify.com/artist/5m2lu7cT7DE9J21Guso5EO) | [Parallel](https://open.spotify.com/album/7EzyshmCFWJhje9N91PuFL) | 4:06 |
 
-Snapshot ID: `MCxlM2QwOGU2Mjc3ODJkODYxZjc1NTEzMWNmMjQ3MTg4M2Y4NjhiN2Yy`
+Snapshot ID: `MCw3YTg4YmNkNjVkNGM1MjY3OWVmYTNkZDJlNWEwZDQ5MjUwODk5YzE3`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWtVG5o02Mg3.md) - [plain]
 
 > These are the songs that have shaped <a href="https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv?si=afc0b53f965f42b8">Poppy's</a> alternative spirit\. Check out the latest COUNTER//CULTURE mixtape <a href="https://open.spotify.com/playlist/37i9dQZF1DX9n1dvGkpvfI"> here</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,016 likes - 30 songs - 1 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,088 likes - 30 songs - 1 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,11 +32,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWtVG5o02Mg3.md) - [plain]
 | 22 | [Time](https://open.spotify.com/track/3XdXixlx3MoVzfL7pu9hx6) | [Arca](https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj) | [KiCk i](https://open.spotify.com/album/6fumIfDEAppI5NCGHQEBSr) | 2:45 |
 | 23 | [Inertia Creeps](https://open.spotify.com/track/3N2UhXZI4Gf64Ku3cCjz2g) | [Massive Attack](https://open.spotify.com/artist/6FXMGgJwohJLUSr5nVlf9X) | [Mezzanine](https://open.spotify.com/album/49MNmJhZQewjt06rpwp6QR) | 5:57 |
 | 24 | [This Mess We're In](https://open.spotify.com/track/3vNFsxBbA4dPkymPF5Jm1b) | [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz), [Thom Yorke](https://open.spotify.com/artist/4CvTDPKA6W06DRfBnZKrau) | [Stories From The City, Stories From The Sea](https://open.spotify.com/album/0hBWhJEmVyNPG2Jq71CJXz) | 3:55 |
-| 25 | [Dissolved Girl](https://open.spotify.com/track/0oeEqyEAavgPfFxDYvjAP6) | [Massive Attack](https://open.spotify.com/artist/6FXMGgJwohJLUSr5nVlf9X) | [Mezzanine](https://open.spotify.com/album/49MNmJhZQewjt06rpwp6QR) | 6:06 |
+| 25 | [Dissolved Girl](https://open.spotify.com/track/0oeEqyEAavgPfFxDYvjAP6) | [Massive Attack](https://open.spotify.com/artist/6FXMGgJwohJLUSr5nVlf9X), [Sarah Jay Hawley](https://open.spotify.com/artist/0egMJiOtObjio7Y9H12r2V) | [Mezzanine](https://open.spotify.com/album/49MNmJhZQewjt06rpwp6QR) | 6:06 |
 | 26 | [Music Is Math](https://open.spotify.com/track/3MF9cjIlg3R9osw3SgRmEb) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Geogaddi](https://open.spotify.com/album/4T7JGfRryhw5POaXalkApE) | 5:21 |
 | 27 | [Audition](https://open.spotify.com/track/0Qm5uQR8XL6QHlsZu53ZF7) | [Mount Kimbie](https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl) | [Love What Survives](https://open.spotify.com/album/2QlIw88KfFlC3P0nLcWSKs) | 4:13 |
 | 28 | [The Killing Moon](https://open.spotify.com/track/0cOf4csnt4DeXSkFmBjULw) | [Echo & the Bunnymen](https://open.spotify.com/artist/0fgYKF9Avljex0L9Wt5b8Z) | [Ocean Rain](https://open.spotify.com/album/43jEYhOEU6eWL51lk4l3M7) | 5:48 |
 | 29 | [Become a Machine](https://open.spotify.com/track/6Xt6hMb6cxdZ29ULtdQIFl) | [Harms Way](https://open.spotify.com/artist/4ZycjRroJpEHjKMxs8zsek) | [Posthuman](https://open.spotify.com/album/1RIr3dLd64m8fh23p2gm9L) | 3:12 |
 | 30 | [Old Data in a Dead Machine](https://open.spotify.com/track/3ar2QgJBKzLfn0wQPOPDwG) | [Vein.fm](https://open.spotify.com/artist/5NU7mpGqMvlZpq63RajHOH) | [Errorzone](https://open.spotify.com/album/5KSIgVF5lx4JURkS50jRS9) | 2:09 |
 
-Snapshot ID: `MCwxMDBiYTRmOTNmODJkZmJhMDFiOTJhMDc5YjQ3YWE0MzFiZTBlNTNj`
+Snapshot ID: `MCw3NjlkYzU0NTRiNTQxNWRjM2VhY2NhYjFkOWE0OGE3Yzc3MTU5YzQ4`

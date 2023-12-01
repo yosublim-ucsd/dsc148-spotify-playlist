@@ -4,7 +4,7 @@
 
 > Keeping it lowkey with the best of today's chill pop\. Cover: Reneé Rapp
 
-1,493 songs - 3 day 8 hr 10 min
+1,494 songs - 3 day 8 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -972,7 +972,8 @@
 | [One Night](https://open.spotify.com/track/1U9Jp66F0x7IM3Gv09hoxq) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [One Night](https://open.spotify.com/album/1XTaJZrlBJp1gUDfcMhTCA) | 2:47 | 2021-08-28 | 2021-10-02 |
 | [One Of Those Girls](https://open.spotify.com/track/3IShDHcEMEBfaF3G9yn6Hs) | [Noelle Johnson](https://open.spotify.com/artist/2V17eU6gWyvIWAMxuDMoUJ) | [One Of Those Girls](https://open.spotify.com/album/2H7CqxwvVflqcA2fkdQYIQ) | 2:32 | 2022-09-23 | 2022-10-15 |
 | [One Of Your Girls](https://open.spotify.com/track/1Fav4xZn60uGM3XmiHJmvT) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Something To Give Each Other](https://open.spotify.com/album/5PsQkSZdGgr9jnuSKzSi5s) | 3:01 | 2023-10-13 |  |
-| [One On The Way](https://open.spotify.com/track/7FdTeoRDaIlNmcmpu1zX7T) | [Jake Scott](https://open.spotify.com/artist/0DxPHf2flBAcV2SnZPg3SV) | [One On The Way](https://open.spotify.com/album/38k1BuDRvqPmbD4Yq2MHXJ) | 3:44 | 2023-09-15 |  |
+| [One On The Way](https://open.spotify.com/track/4CYFGGc4EVyfktgY6Oli2B) | [Jake Scott](https://open.spotify.com/artist/0DxPHf2flBAcV2SnZPg3SV) | [Lavender](https://open.spotify.com/album/11v89Gklx5GvGK6zfhj5jA) | 3:44 | 2023-11-17 |  |
+| [One On The Way](https://open.spotify.com/track/7FdTeoRDaIlNmcmpu1zX7T) | [Jake Scott](https://open.spotify.com/artist/0DxPHf2flBAcV2SnZPg3SV) | [One On The Way](https://open.spotify.com/album/38k1BuDRvqPmbD4Yq2MHXJ) | 3:44 | 2023-09-15 | 2023-12-01 |
 | [one that got away](https://open.spotify.com/track/77sUiJV65TMner3XdAUYaD) | [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3), [mike.](https://open.spotify.com/artist/5G9kmDLg3OeUyj8KVBLzbu) | [one that got away](https://open.spotify.com/album/6mCna91JQmcByb5Rx4HoHR) | 2:21 | 2021-08-21 | 2022-01-08 |
 | [Only for a Moment](https://open.spotify.com/track/42B4Es8RTR5Owcfy3GHAQs) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [House on a Hill](https://open.spotify.com/album/5pIMKGoVmopQvVjsQF7NAQ) | 3:59 | 2023-09-08 |  |
 | [Only When I Look into Your Eyes](https://open.spotify.com/track/5MgXxIwMUkJQlv5WYxlUNS) | [Fiji Blue](https://open.spotify.com/artist/1e7K8jD3wRuQfnwDAOeGqe) | [Only When I Look into Your Eyes](https://open.spotify.com/album/45ZFRr0nHeDqhUI4Vi20lt) | 3:19 | 2021-08-07 | 2022-01-08 |

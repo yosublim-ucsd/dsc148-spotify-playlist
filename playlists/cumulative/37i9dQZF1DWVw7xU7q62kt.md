@@ -2,7 +2,7 @@
 
 ### [Jazzy Beats](https://open.spotify.com/playlist/37i9dQZF1DWVw7xU7q62kt)
 
-> Beats with a flavour of Jazz\. Cover: James Francis
+> Beats with a flavour of Jazz\. Cover: Blue Lab Beats
 
 139 songs - 7 hr 44 min
 

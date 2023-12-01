@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9RwfGbeGQwP.md) - [plain]
 
 > chill beats for cool coffeehouse vibes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 433,817 likes - 350 songs - 13 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 433,977 likes - 350 songs - 13 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -359,4 +359,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9RwfGbeGQwP.md) - [plain]
 | 349 | [Sailing](https://open.spotify.com/track/6TwQwNXuUqMoGma4iyDkNW) | [Cosmic Nuit](https://open.spotify.com/artist/46LH6chzwNfYqkt6AklmZk) | [Sailing](https://open.spotify.com/album/4txjb7Ss3tZeBZF9Hd763R) | 2:28 |
 | 350 | [I G S D](https://open.spotify.com/track/0lhV41i2VQmivlyW6Kwnqj) | [Nick's chill factory](https://open.spotify.com/artist/3QJraihPHVrl3gSNaXLEr9) | [I G S D](https://open.spotify.com/album/4mxHR55aIhn6Hf6FK3gFPX) | 2:20 |
 
-Snapshot ID: `MCw3YmVjZDJiZjY1YzZkNjFmNGZmMmQyZDE0NmNhMWI5YTI2OGVmZjVh`
+Snapshot ID: `MCwzYTlhY2ExZTIxNWE4NDliNWE5OGEzNWRhODQxMGRlZjE3YjM2NjVi`

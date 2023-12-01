@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-29",
-  "description": "New music off the beaten track. Cover: Sirens of Lesbos",
+  "description": "New music off the beaten track. Cover: WhoMadeWho",
   "name": "OFF POP",
   "tracks": [
     {
@@ -808,7 +808,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 208596,
       "name": "Bad Company - Edit",
       "url": "https://open.spotify.com/track/2TGts36e6e5c9z1FiJKuny"
@@ -1459,6 +1459,24 @@
     },
     {
       "album": {
+        "name": "Children",
+        "url": "https://open.spotify.com/album/4NH7dyo0xKA0Tw19ZIeeYR"
+      },
+      "artists": [
+        {
+          "name": "WhoMadeWho",
+          "url": "https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275655,
+      "name": "Children",
+      "url": "https://open.spotify.com/track/6iMyAaTKUoVOWSr4o0vESO"
+    },
+    {
+      "album": {
         "name": "Cinderblock",
         "url": "https://open.spotify.com/album/0rGPPNjLXKGxrqY6m3dYXr"
       },
@@ -1750,6 +1768,24 @@
       "duration_ms": 360734,
       "name": "Create-A-Dance",
       "url": "https://open.spotify.com/track/5UDaXmAjlI7d3DpYeDA4Gf"
+    },
+    {
+      "album": {
+        "name": "TROUBLESHOOTER",
+        "url": "https://open.spotify.com/album/1JVmdf4G8REy2wKs8M6n6t"
+      },
+      "artists": [
+        {
+          "name": "KUOKO",
+          "url": "https://open.spotify.com/artist/2h8Egzl8WxLijmpQtmuwHK"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140029,
+      "name": "CRISIS QUEEN",
+      "url": "https://open.spotify.com/track/1UnUdOXlw6WeRDconlDYEm"
     },
     {
       "album": {
@@ -3304,6 +3340,28 @@
       "duration_ms": 374379,
       "name": "Find You (Gerd Janson Remix)",
       "url": "https://open.spotify.com/track/3Jxo5oojrX6Xmm69sP7T51"
+    },
+    {
+      "album": {
+        "name": "Fine",
+        "url": "https://open.spotify.com/album/4yOv7Rc99hXBEg6B8dblFd"
+      },
+      "artists": [
+        {
+          "name": "RAC",
+          "url": "https://open.spotify.com/artist/4AGwPDdh1y8hochNzHy5HC"
+        },
+        {
+          "name": "Great Good Fine Ok",
+          "url": "https://open.spotify.com/artist/422RLznpwUa5FsQgnTlgUH"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206240,
+      "name": "Fine",
+      "url": "https://open.spotify.com/track/1tCkS9oiXu9gvSbv759DKy"
     },
     {
       "album": {
@@ -6258,7 +6316,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 178242,
       "name": "Mercy (feat. Jacob Lusk)",
       "url": "https://open.spotify.com/track/4ejCsNXh66YasBUiwfBhDg"
@@ -9532,7 +9590,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 234480,
       "name": "The Dark, The Light (Edit)",
       "url": "https://open.spotify.com/track/0lBXFOrDC2JlIPp6soVYpR"

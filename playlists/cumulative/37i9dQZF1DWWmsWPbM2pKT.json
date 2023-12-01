@@ -1483,6 +1483,24 @@
     },
     {
       "album": {
+        "name": "Heavens Lower",
+        "url": "https://open.spotify.com/album/3cw8dtylOAuH9CGY98020g"
+      },
+      "artists": [
+        {
+          "name": "R. Missing",
+          "url": "https://open.spotify.com/artist/4EVSMYb2zBDoSHSGEqeztu"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177186,
+      "name": "Heavens Lower",
+      "url": "https://open.spotify.com/track/1TDJSbzuAIAFQy2K7EBm7m"
+    },
+    {
+      "album": {
         "name": "Poverty",
         "url": "https://open.spotify.com/album/18y3DE8cX1ptDjRVwgnmfb"
       },
@@ -2514,6 +2532,24 @@
       "duration_ms": 208027,
       "name": "Nochnoe Randevu",
       "url": "https://open.spotify.com/track/3uf2do7Q44YhIP2DldU45I"
+    },
+    {
+      "album": {
+        "name": "Nostalgic Dreams",
+        "url": "https://open.spotify.com/album/21HP9KqTlmhvbL5WljGpKS"
+      },
+      "artists": [
+        {
+          "name": "Television Memories",
+          "url": "https://open.spotify.com/artist/4wXwTEW3wxfaZETwH2VW84"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184528,
+      "name": "Nostalgic Dreams",
+      "url": "https://open.spotify.com/track/6dK0pi0CMTkOzvWGPDCv4h"
     },
     {
       "album": {

@@ -70,7 +70,7 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 204881,
       "name": "Biscuit",
       "url": "https://open.spotify.com/track/4VerfQl7Y8UphNFBWEKMtV"
@@ -272,7 +272,7 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 223141,
       "name": "Masquerade",
       "url": "https://open.spotify.com/track/7qHYtDa9P6ebXN5UUXdfiO"
@@ -673,6 +673,24 @@
     },
     {
       "album": {
+        "name": "\u30ad\u30e9\u30fc\u30ef\u30fc\u30c9",
+        "url": "https://open.spotify.com/album/0hTDFgya1BSBjCucfBfaTQ"
+      },
+      "artists": [
+        {
+          "name": "chilldspot",
+          "url": "https://open.spotify.com/artist/4uJKSLGvdvinobijrcfKw4"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241203,
+      "name": "\u30ad\u30e9\u30fc\u30ef\u30fc\u30c9",
+      "url": "https://open.spotify.com/track/6lOrtgsvN9QKtN4h7S1Y5j"
+    },
+    {
+      "album": {
         "name": "\u30af\u30ed\u30ce\u30b9\u30bf\u30b7\u30b9",
         "url": "https://open.spotify.com/album/4upctURy2F1F2rVfltc2P6"
       },
@@ -720,7 +738,7 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-30",
+      "date_removed": null,
       "duration_ms": 227662,
       "name": "\u30b9\u30bf\u30fc\u30de\u30a4\u30f3",
       "url": "https://open.spotify.com/track/0akvgdebTkERlRqNKJZuFy"

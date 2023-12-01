@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxqgjSiQ9K.md) - [plain]
 
 > Las canciones de fe que más se escuchan en Latinoamérica\.  Foto: <a href="spotify:artist:2TkDdk47FGnvxcjQGDdPd0">Kike Pavón</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 597,346 likes - 100 songs - 8 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 597,507 likes - 100 songs - 8 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,7 +72,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxqgjSiQ9K.md) - [plain]
 | 62 | [Loco Corazón](https://open.spotify.com/track/3222yl84B3wPXBQ0VvEyux) | [Jay Kalyl](https://open.spotify.com/artist/0sHeKC0Zcxpz4wOHHE5oJ7) | [Recarga](https://open.spotify.com/album/3jAyk5Gqm3aTIoviY7Fx06) | 3:22 |
 | 63 | [Danza](https://open.spotify.com/track/2mp5lKkx5EP7fPlynWlpjP) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc), [Niko Eme](https://open.spotify.com/artist/4jLWtcGrESS5YvRip2ATmL), [Cardec Drums](https://open.spotify.com/artist/1uVtllLSmvkfPRozmSmxzG) | [Danza](https://open.spotify.com/album/5f8Rt45R3jvZxV00aNwxrW) | 3:23 |
 | 64 | [Presente Y Futuro](https://open.spotify.com/track/4Pt3XjZidq0ChEYpMdvMDC) | [NewSpring Worship](https://open.spotify.com/artist/1wUcqswHv80fp5nMF2hVwM), [Charlee Buitrago](https://open.spotify.com/artist/76g8gyIWxuCkaeiqynU9L8), [Dariann González](https://open.spotify.com/artist/1sgmTpjFhU8xeSlrDGpiSQ) | [Presente Y Futuro](https://open.spotify.com/album/7JMdznd473lSaMPvzqx0NR) | 3:52 |
-| 65 | [Confía \- En Vivo](https://open.spotify.com/track/7DjUWgkFpJVrTDL5m2bmqt) | [New Wine](https://open.spotify.com/artist/5W9IQJnGvBYP8VOChmSpU6) | [Lugar Secreto \(En Vivo\)](https://open.spotify.com/album/2p9jYFk29y9u9STPyWaqns) | 4:30 |
+| 65 | [Confía \- En Vivo](https://open.spotify.com/track/7GIv9QngRgd0oc12Umc3Pc) | [New Wine](https://open.spotify.com/artist/5W9IQJnGvBYP8VOChmSpU6) | [Lugar Secreto \(En Vivo\)](https://open.spotify.com/album/6ITdWQDRJ40si7dDr4tckE) | 4:30 |
 | 66 | [El Nazareno](https://open.spotify.com/track/5txVdEm05NVLR5uZWeezDW) | [Generación Gracia Música](https://open.spotify.com/artist/7qwXfWee0I0c9hgkJfzich) | [El Nazareno](https://open.spotify.com/album/0s0Krj62a0eEkLguJPygey) | 6:31 |
 | 67 | [Yo Danzo \- Live](https://open.spotify.com/track/2i4swkr4xuxCZwuMa36zWK) | [Waleska Morales](https://open.spotify.com/artist/6C0t2XuoPExvGxcVfo7aHc), [Christ For The Nations Worship](https://open.spotify.com/artist/4FGuhMc7yWmxgyIZNGSKN7) | [Yo Danzo \(Live\)](https://open.spotify.com/album/3wDBkstjrmiYdanWGsDaf7) | 6:52 |
 | 68 | [La Sangre Del Señor](https://open.spotify.com/track/5l5HJPeA15oPGZJUjuimXG) | [Mark & Sarah Tillman](https://open.spotify.com/artist/4GdeUL15baI90obDfYOvqX), [Wendy Vides](https://open.spotify.com/artist/4P2wGBgg1JVs58vQf0ziI7) | [La Sangre Del Señor](https://open.spotify.com/album/5GwclwyMpoEw1hznREkcKK) | 3:52 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxqgjSiQ9K.md) - [plain]
 | 99 | [Bello Jesús](https://open.spotify.com/track/6dj56LrLWhITcqkffJxI9s) | [Alisha Quinonez](https://open.spotify.com/artist/6QrruJcuTbmHWCZNxvnJR8) | [Bello Jesús](https://open.spotify.com/album/4BWWJQWNs265qa4NaED1gB) | 4:41 |
 | 100 | [Cordero y León](https://open.spotify.com/track/0dw8miCVMqM1nHamZuf4wj) | [Toma Tu Lugar](https://open.spotify.com/artist/7xJZNfI5Yks87tn3ebHy9h), [Joel Figueroa](https://open.spotify.com/artist/3TuURLCO7Vv4QTUtCTkwCl), [Lucas Conslie](https://open.spotify.com/artist/20uZDxss82sidLBxEyjnD1), [Raffi Greco](https://open.spotify.com/artist/01p8kdKJ0NXFqKym7SlOza) | [FLUIR 2](https://open.spotify.com/album/5pLu7Ml14FuBK8wa5W4OlZ) | 5:13 |
 
-Snapshot ID: `MCw4ZGJkYzliMTVmN2ZhNDY2OWViZTcyMjgzZjY0Y2VmMjgxOTQ2YjE0`
+Snapshot ID: `MCw4MzhkZTA1NzAzY2NkYjA0M2ZhZmM5NmU3ZjRiNDQwYjk0ZDNkNmIz`

@@ -233,6 +233,24 @@
     },
     {
       "album": {
+        "name": "Amigo",
+        "url": "https://open.spotify.com/album/0G1eZMhQdujsdZ5RSQQBYc"
+      },
+      "artists": [
+        {
+          "name": "Junim",
+          "url": "https://open.spotify.com/artist/2VSSpNdBUOGmNkrBLATwft"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155129,
+      "name": "Amigo",
+      "url": "https://open.spotify.com/track/100MjqTU5I7U0qPvYbrWFA"
+    },
+    {
+      "album": {
         "name": "Boemia, de Fato",
         "url": "https://open.spotify.com/album/6u6IGXmGZNngMOA4zxrrmd"
       },
@@ -747,6 +765,32 @@
     },
     {
       "album": {
+        "name": "Canal Laranja",
+        "url": "https://open.spotify.com/album/02C3OtPh10TYHuXsV8Qr2n"
+      },
+      "artists": [
+        {
+          "name": "Joni",
+          "url": "https://open.spotify.com/artist/6nZ4pcLtZYblB2ZwD7qvwe"
+        },
+        {
+          "name": "meot",
+          "url": "https://open.spotify.com/artist/20xtrfwLue7Sslipsez0NI"
+        },
+        {
+          "name": "Mochakk",
+          "url": "https://open.spotify.com/artist/0rTh1tAdrEbdKZBTiiAQSo"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300000,
+      "name": "Canal Laranja",
+      "url": "https://open.spotify.com/track/4MxIs8Uf9ca58TZaU1Afpq"
+    },
+    {
+      "album": {
         "name": "Capsula do Tempo",
         "url": "https://open.spotify.com/album/5DFSztWFj6wfvm19f2jSSA"
       },
@@ -902,7 +946,7 @@
       ],
       "date_added": "2023-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 139480,
       "name": "Castigo",
       "url": "https://open.spotify.com/track/5vemlYP97ehJmUD7Bz9gEX"
@@ -1847,6 +1891,24 @@
     },
     {
       "album": {
+        "name": "Fora de S\u00e9rie",
+        "url": "https://open.spotify.com/album/0VtGpgS7R3h1miGNzGap30"
+      },
+      "artists": [
+        {
+          "name": "Mari Blue",
+          "url": "https://open.spotify.com/artist/7aBl5vxlbA4Nr4A1pGZgbb"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198250,
+      "name": "Fora de S\u00e9rie",
+      "url": "https://open.spotify.com/track/321nrfz5F0VEjBhgo2mB8R"
+    },
+    {
+      "album": {
         "name": "Fuga",
         "url": "https://open.spotify.com/album/5DWzUkiahHCRG1X1GsWNA1"
       },
@@ -1950,6 +2012,24 @@
       "duration_ms": 226386,
       "name": "F\u00eanix",
       "url": "https://open.spotify.com/track/36kCYix5428TjxrCQkxqYV"
+    },
+    {
+      "album": {
+        "name": "GELO DE COCO",
+        "url": "https://open.spotify.com/album/5a145zRGOMbgM7HUVnr0eK"
+      },
+      "artists": [
+        {
+          "name": "Verdan",
+          "url": "https://open.spotify.com/artist/216WFAjGnzkqlbHfnPs36Y"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166045,
+      "name": "GELO DE COCO",
+      "url": "https://open.spotify.com/track/6BnwuIoxNjTJWjlzOcr7uu"
     },
     {
       "album": {
@@ -3038,7 +3118,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 160337,
       "name": "Nossa Hist\u00f3ria",
       "url": "https://open.spotify.com/track/1noeediw3cEtbwx5xHA3Gz"
@@ -3810,7 +3890,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 266126,
       "name": "Prisma",
       "url": "https://open.spotify.com/track/2vGxaToNoVKIi1XKvz9GLy"
@@ -5294,7 +5374,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 162045,
       "name": "V\u00edcio Que C\u00ea Tem Em Mim",
       "url": "https://open.spotify.com/track/7uSJeb5UvlZlPD0eTPaz9a"

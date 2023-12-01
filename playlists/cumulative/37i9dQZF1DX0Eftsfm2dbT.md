@@ -4,7 +4,7 @@
 
 > J\-Hip Hopカルチャーの「今」と「その先」を繋ぐプレイリスト。 cover: Kaneee
 
-283 songs - 14 hr 40 min
+285 songs - 14 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,6 +87,7 @@
 | [F.N.A.P.](https://open.spotify.com/track/2hvHJKYzUulhYtSauN0U6l) | [Skaai](https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E) | [F.N.A.P.](https://open.spotify.com/album/0uIapDw7UWY2omzVtBGUfE) | 2:51 | 2023-09-21 | 2023-10-04 |
 | [Family Sale](https://open.spotify.com/track/3sFhDmtCO39yZUzpk2o4Gs) | [PUNPEE](https://open.spotify.com/artist/0mP8A1qIoufScrsxq18Cw6), [親父](https://open.spotify.com/artist/7tvsTkLL1lt0D5QU8yIvdI) | [Family Sale](https://open.spotify.com/album/3JfuFVx4rgavnVvqXYqK3z) | 4:00 | 2023-10-17 |  |
 | [Feel](https://open.spotify.com/track/4xC2WC77ErmVSSXfBIdo5f) | [MVTEN](https://open.spotify.com/artist/0ViA0wrTM0BtMS9Nqr2PUz), [BOOGIE MASON](https://open.spotify.com/artist/7HGfozjLThy29nhBQp0GoX) | [Feel](https://open.spotify.com/album/6Q2bFgiFhQszouUE3M5YGx) | 3:49 | 2023-11-28 |  |
+| [FEEL OR BEEF BADPOP IS DEAD](https://open.spotify.com/track/437NTuFyPIGPZOySU5xS1n) | [舐達麻](https://open.spotify.com/artist/7nDfh01E30OkhgsPKSQzCx) | [FEEL OR BEEF BADPOP IS DEAD](https://open.spotify.com/album/2RC2ZF2OwNHPO1c2GwfunX) | 6:49 | 2023-12-01 |  |
 | [Feelin' It](https://open.spotify.com/track/6oRQWL5Ck9E3PEFozFuQtz) | [Dr\. Swing](https://open.spotify.com/artist/4bZkwoyHViea5n0WYk2JS4), [Ym3boi](https://open.spotify.com/artist/200hgruptiem9UnOCoU2fg), [Ja¥Da](https://open.spotify.com/artist/4NEe9L2w6hCQB8boWIvyV5), [D\-RAM](https://open.spotify.com/artist/6fPFcDd394Ozh1s8WdMCtk), [Jo junior](https://open.spotify.com/artist/5uZCJm4sE4YZZInkm2Jl9m), [MELLMWOR1D](https://open.spotify.com/artist/2ntpUnudJuitrCi950QadZ) | [Feelin' It](https://open.spotify.com/album/7dHHiZ0PIQF6NN8ReC3Lmz) | 4:07 | 2023-09-26 | 2023-10-11 |
 | [flash](https://open.spotify.com/track/4K6pJPtAgURhU1GGdjuHJa) | [chelmico](https://open.spotify.com/artist/6sAONleCsmAyP87OHsVAPV) | [I just wanna dance with you\- period](https://open.spotify.com/album/50sOlknlpkacgE0gSXrQQS) | 3:52 | 2023-10-03 | 2023-10-11 |
 | [Forever \(hallelujah\)](https://open.spotify.com/track/5egUfmo5xVQ6oFRjC2eJl4) | [Haiiro De Rossi](https://open.spotify.com/artist/7BKPOigBtNtPmk7w3ZuCw0) | [hallelujah](https://open.spotify.com/album/2oXVZzEnllAmk2EgEp9TYY) | 5:44 | 2023-11-07 | 2023-11-22 |
@@ -209,6 +210,7 @@
 | [RANDO](https://open.spotify.com/track/5fJZDfgIiQgjzTlRxR6Q5G) | [Watson](https://open.spotify.com/artist/0pq3BIPRIccDxXRCzlCePX) | [RANDO](https://open.spotify.com/album/4NQ2zVZ53ndO3XCMTuhOj5) | 2:26 | 2023-09-21 |  |
 | [RASEN in OKINAWA](https://open.spotify.com/track/0fMmPHi9En7OQBH08Zqxq9) | [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5), [Tsubaki](https://open.spotify.com/artist/1kTgsTapNxgD7vcgcBoxMx), [OZworld](https://open.spotify.com/artist/34tJ8UnaAbWcrug3Nym7ZO), [CHICO CARLITO](https://open.spotify.com/artist/074tUrKhXVuH4s5Mfg0zWz) | [THE UNION](https://open.spotify.com/album/2GQ5kEpbCY0dcHCfIvYMZp) | 4:49 | 2023-10-19 | 2023-11-01 |
 | [RASEN in OKINAWA](https://open.spotify.com/track/6JDDIx1vSs5GvMZXsy2aR2) | [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5), [tubakiii](https://open.spotify.com/artist/2Bi1XtdmndNK6V2nlpI2A1), [OZworld](https://open.spotify.com/artist/34tJ8UnaAbWcrug3Nym7ZO), [CHICO CARLITO](https://open.spotify.com/artist/074tUrKhXVuH4s5Mfg0zWz) | [098RADIO vol.1 Hosted by Awich](https://open.spotify.com/album/6jQI4R1D8sk5YXQnSju44y) | 4:49 | 2023-09-21 | 2023-10-28 |
+| [Raving In The Simulation](https://open.spotify.com/track/3C8fxlVxOtyofU9mS3j61X) | [Genick](https://open.spotify.com/artist/59JrOdJYiD9hbd5QjX0XKO), [Jacotanu](https://open.spotify.com/artist/0eWrRwbeLfOkcmIYwbA09T), [PeanutsKun](https://open.spotify.com/artist/5GITFRQqu23xgb82VKRWUc), [HAKU](https://open.spotify.com/artist/5e7WY3osdEKUSJy2LozHqC) | [Raving In The Simulation](https://open.spotify.com/album/2pUYtzjWnzP4s6MEnBY1LN) | 3:54 | 2023-12-01 |  |
 | [Reach \(feat\. C.O.S.A.\)](https://open.spotify.com/track/2esBmM9PGpDIjydVegNLy9) | [ANARCHY](https://open.spotify.com/artist/1zHcoqaTvlZdEd7CUjk2eI), [C.O.S.A.](https://open.spotify.com/artist/7kj57NIwoqvnBTSpSgrO3p) | [My Mind](https://open.spotify.com/album/6bbPfBJXoz1ISxx4T48krs) | 2:57 | 2023-10-19 |  |
 | [REMEMBER](https://open.spotify.com/track/3gafWlZ2JkzxjFMWekqcQk) | [ShowyVICTOR](https://open.spotify.com/artist/7wBFVrT9qEIi4FRjgqgPXA) | [REMEMBER](https://open.spotify.com/album/6tEEc0Afxp3keGmu7fItcy) | 2:22 | 2023-09-26 | 2023-09-28 |
 | [REMEMBER](https://open.spotify.com/track/6BENxiVRwDYnr8KlX5w1bB) | [ShowyVICTOR](https://open.spotify.com/artist/7wBFVrT9qEIi4FRjgqgPXA) | [REMEMBER](https://open.spotify.com/album/55eCIsQ6HPgugMaEmQbBbV) | 2:22 | 2023-09-26 | 2023-10-04 |

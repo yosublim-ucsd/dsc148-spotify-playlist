@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0MXH7aN4Pxn.md) - [plain]
 
 > 
 
-[Spotify](https://open.spotify.com/user/spotify) - 685,897 likes - 100 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 685,868 likes - 100 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0MXH7aN4Pxn.md) - [plain]
 | 99 | [Little Things](https://open.spotify.com/track/0S3b1jhjbkaeg3QYmfObXz) | [Sigma](https://open.spotify.com/artist/01pKrlgPJhm5dB4lneYAqS), [Queen Millz](https://open.spotify.com/artist/2pFjYsNEe6hIBcRH4PT8m0) | [Little Things](https://open.spotify.com/album/2bJ75kaDgkRHnPAfLDaz6n) | 2:42 |
 | 100 | [African Lady \(Antenna\)](https://open.spotify.com/track/182Av0m3TEXH9KcEy8G1Yt) | [RUDY](https://open.spotify.com/artist/2tFi8VSdCE13OM3yfr8qnp), [Fuse ODG](https://open.spotify.com/artist/374sWpAJsbZckf98df2jJJ) | [African Lady \(Antenna\)](https://open.spotify.com/album/2ikxyffOctYIQHMCBpteFS) | 1:56 |
 
-Snapshot ID: `MCw0MGQ3ODFhNmQ3MDYxNDU2YzQ4MDdjYTY0NzNjOGNkNjk2NmU5NDEx`
+Snapshot ID: `MCwyODZiMzRjMGY0YTNlZWQyYzNjYWViMmJhZTVhMmQ2MDg0YzQ5M2U2`

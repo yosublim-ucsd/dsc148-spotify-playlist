@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 
 > This week's essential new pop tracks\. Cover: Zara Larsson
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,046 likes - 102 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,085 likes - 102 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 | 101 | [Stop Looking at Me Like That](https://open.spotify.com/track/5bwKZfXDiLIx5v3guwEIrU) | [Abigail Osborn](https://open.spotify.com/artist/5gv5fvzy1TWJmDj7jyMiLO) | [Stop Looking at Me Like That](https://open.spotify.com/album/22ok0HtUav7MN1otSm48Jw) | 2:15 |
 | 102 | [ghost](https://open.spotify.com/track/0GcLkedOfpccI5VpIHhWUx) | [Jessica Baio](https://open.spotify.com/artist/0VMFTqmv0hYlWruyBERT95) | [ghost](https://open.spotify.com/album/4YTP4MQzeigSP2l9asDz0r) | 2:09 |
 
-Snapshot ID: `MCw4MDcyN2JjNDhmMzEzM2QzYjU3M2E2NWRjMTI1OWUyOThlNTRmMDVj`
+Snapshot ID: `MCxiODg4OWI5NTIyNTE3NWQ5YmM0OGNlNDZjYzYwMTRmOTg1OGI2MDQz`

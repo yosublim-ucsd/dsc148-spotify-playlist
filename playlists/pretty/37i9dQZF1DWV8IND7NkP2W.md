@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV8IND7NkP2W.md) - [plain]
 
 > The ultimate Lo\-Fi soundtrack for a long haul journey, to the bustling metropolis in Japan that never sleeps\. 日本のプロデューサーによるインスト楽曲を特集。
 
-[Spotify](https://open.spotify.com/user/spotify) - 431,154 likes - 100 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 431,127 likes - 100 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV8IND7NkP2W.md) - [plain]
 | 26 | [lone flower](https://open.spotify.com/track/6NsPMaIFOHVCLtmFcB3QJc) | [Sachiho](https://open.spotify.com/artist/5tf5EwCHOh2BP2zYdBvdqa) | [lone flower](https://open.spotify.com/album/3aKlMgXMYadkXqtjcVcVQN) | 1:46 |
 | 27 | [Rainbowtime Boy](https://open.spotify.com/track/5sA0YSGNDKCV6rf4WLMCwD) | [DE DE MOUSE](https://open.spotify.com/artist/1mZtAFuxFAgqmTCqfKLWoj), [Shin\-Ski](https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7), [Tiny Griffi](https://open.spotify.com/artist/3s3iwtc7ZcxbC9obdM5Tc0) | [Rainbowtime Boy](https://open.spotify.com/album/5xrmWCCYOJnDQgBB2dRqF8) | 2:29 |
 | 28 | [Rock](https://open.spotify.com/track/0YexmBFxPG2pLlSTBmiTvW) | [DisHand](https://open.spotify.com/artist/0fWugqSess3tlDdzjPu1gy), [tillDawn](https://open.spotify.com/artist/0LqQ7Y65LM0zomhoexwyzV) | [Rock](https://open.spotify.com/album/4ErwjOzz1tTmm8vVNBCMaO) | 2:03 |
-| 29 | [breakwater](https://open.spotify.com/track/3olOfiTQeXtxPkvgqT9cvl) | [hario island](https://open.spotify.com/artist/4SSYmqlXA8awmX7PHheCJN) | [breakwater](https://open.spotify.com/album/5gqlUho7dFtG6rnAokhOXb) | 2:24 |
+| 29 | [forest spirit](https://open.spotify.com/track/7pwsTQrw6Qtcv9FGyIVEPu) | [hario island](https://open.spotify.com/artist/4SSYmqlXA8awmX7PHheCJN) | [forest spirit](https://open.spotify.com/album/5xlc5btX8TPjfij55Ll9qb) | 2:18 |
 | 30 | [Passage \- KNOTT ADD VIBES](https://open.spotify.com/track/5p7i7uM9HcXdOy6TCH0NXt) | [KNOTT](https://open.spotify.com/artist/2NF3xtDv37VbHGizBsCQRh) | [Passage \(KNOTT ADD VIBES\)](https://open.spotify.com/album/7wBEl65P75MYTxo9R7Sequ) | 2:07 |
 | 31 | [Agua](https://open.spotify.com/track/1FxClYw5oCPtta2I6jsqP1) | [Casiio](https://open.spotify.com/artist/5zUSfxfP1NETZiaWt0Ui0a), [Kazuki Isogai](https://open.spotify.com/artist/0SIrNPNAXLUyzyvZqWZw4K), [yuhei miura](https://open.spotify.com/artist/6p9EJBuYNleKnGIll5vHA5) | [Agua](https://open.spotify.com/album/0O0cMYT5mf86GEswEyH3D0) | 2:00 |
 | 32 | [Club Galactica](https://open.spotify.com/track/5acrzaWCYDnt1An78q6y1N) | [MIDICRONICA 181](https://open.spotify.com/artist/3AlVoNtbPZPiNdpI1h8LlY) | [Club Galactica](https://open.spotify.com/album/209yTaZWkdVAaSOP9wEkXx) | 2:15 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV8IND7NkP2W.md) - [plain]
 | 99 | [YOU](https://open.spotify.com/track/4PqtfyBhGLQOgsDujv8mCN) | [Akio Watanabe](https://open.spotify.com/artist/1epOdFDcd9PEgkchlAUND4), [AYG](https://open.spotify.com/artist/7w9gDceqJGG2K8XBAiDhZu) | [YOU](https://open.spotify.com/album/5SATOLsULkQDOPUCL7c9ug) | 2:40 |
 | 100 | [Toucan](https://open.spotify.com/track/2znBuVaZLvA1Kn9xL5tVnT) | [NOA NOA](https://open.spotify.com/artist/1PXxhTpoWDxbQKCpEgUev0) | [Toucan](https://open.spotify.com/album/1AybPKANweher1ysHuXOC7) | 3:34 |
 
-Snapshot ID: `MCxhODFmNzA3ZjA3YTg5OWFjN2MzODQ2MzIxZWYwNjFjYWI4ZjY2NmEy`
+Snapshot ID: `MCw0MjBiYTg4ZjNjYTYyMzVkZWY2M2MyMmU2OTU1ZDU3NzY2YWJmZGQ1`

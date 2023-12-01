@@ -3771,6 +3771,24 @@
     },
     {
       "album": {
+        "name": "Fly",
+        "url": "https://open.spotify.com/album/4Yt0sVaP8O5GjRrhLjlB87"
+      },
+      "artists": [
+        {
+          "name": "Code Black",
+          "url": "https://open.spotify.com/artist/0I5is4tdxHhT3Ft2EzPjlB"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126093,
+      "name": "Fly",
+      "url": "https://open.spotify.com/track/3wA7idlHfIO8uClB6UoR0L"
+    },
+    {
+      "album": {
         "name": "Fly Away",
         "url": "https://open.spotify.com/album/4TLLwDOeOsSOXv0Q610O9f"
       },
@@ -4060,7 +4078,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 147000,
       "name": "Friedhof",
       "url": "https://open.spotify.com/track/2rISu5mCswBLYt4TTUFROQ"

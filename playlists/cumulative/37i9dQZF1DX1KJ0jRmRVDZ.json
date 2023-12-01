@@ -2436,7 +2436,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 196497,
       "name": "Haru wo Tsugeru",
       "url": "https://open.spotify.com/track/5QseXDzPvtjdeaWNhYbm0m"
@@ -16326,6 +16326,24 @@
       "duration_ms": 212373,
       "name": "\u82b1\u706b",
       "url": "https://open.spotify.com/track/445ClT4e6nCWUb8GzUXGjs"
+    },
+    {
+      "album": {
+        "name": "\u82b1\u8a00\u8449",
+        "url": "https://open.spotify.com/album/2qr8pltUPhaGQwYvfORaKj"
+      },
+      "artists": [
+        {
+          "name": "Amatsuki",
+          "url": "https://open.spotify.com/artist/5WbJGPIGG5oCaVgMsfXZgu"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215423,
+      "name": "\u82b1\u8a00\u8449",
+      "url": "https://open.spotify.com/track/0q1ScpYt0czxasJuw0GsSC"
     },
     {
       "album": {

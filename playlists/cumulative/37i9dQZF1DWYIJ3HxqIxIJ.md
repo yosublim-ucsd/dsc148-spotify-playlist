@@ -4,7 +4,7 @@
 
 > Vv Pete is our new RADAR artist to watch!
 
-265 songs - 13 hr 47 min
+271 songs - 14 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [Arc](https://open.spotify.com/track/1XvNkXo2iNQgNNxxqX7pIe) | [Pretty Girl](https://open.spotify.com/artist/6KkltYAOOGsCaW7dO9jF98) | [Arc](https://open.spotify.com/album/3eHNdHMGISbfsjN9J4USOm) | 4:34 | 2021-10-15 | 2022-08-16 |
 | [Area Baby](https://open.spotify.com/track/5BFaSmEPZSu4A7hcTtoNlP) | [Youngn Lipz](https://open.spotify.com/artist/36PxHmbx5QrRTpuCaw4FuV) | [Area Baby](https://open.spotify.com/album/722ZytuYgZwwGZLF04HPog) | 2:41 | 2021-10-15 | 2022-08-16 |
 | [Arizona](https://open.spotify.com/track/1mY2tkkszwkFccupfkOXe5) | [Charley](https://open.spotify.com/artist/7BL2IU83ZaHfvJTkIE90v2) | [Arizona](https://open.spotify.com/album/0t7Jb4Pk8yl7811JG5Khgg) | 2:57 | 2021-10-15 | 2022-08-16 |
+| [Bacardi Papi](https://open.spotify.com/track/2EyiuaItL3x16qi1zzEbzn) | [Vv Pete](https://open.spotify.com/artist/66IkoRt5JAg88LCnPuyxXr), [UTILITY](https://open.spotify.com/artist/07SL7uPXhqtBGz0Pqljjgi), [Kelman Duran](https://open.spotify.com/artist/6PIl48ctj6HDmqVM2uIikd) | [Bacardi Papi](https://open.spotify.com/album/4Ss42IUh5AjXZguuOQQMbK) | 3:23 | 2023-11-30 |  |
 | [Backbone](https://open.spotify.com/track/1DWWHqw2Uykp2OC9szKUUW) | [Blusher](https://open.spotify.com/artist/7AZm56bjPk0tYl6LTyJu9N) | [Backbone](https://open.spotify.com/album/3KiSUV7EetsmikzSUv2cGa) | 3:00 | 2023-06-22 |  |
 | [BAD LIKE RIRI](https://open.spotify.com/track/1rnTvRuAHx6NRcpC4fSXeg) | [Jesswar](https://open.spotify.com/artist/0A3iezHvtPZ8HxHn4RMmtl), [Erica Banks](https://open.spotify.com/artist/2SXhbucehn00OBVKhzxDyM) | [BAD LIKE RIRI](https://open.spotify.com/album/6plQgIsPgXrRsIa0zZCe5r) | 3:37 | 2021-10-15 | 2022-08-16 |
 | [Bang Bang](https://open.spotify.com/track/1jpf91ngq4RrkajGFOqaGt) | [AKOSIA](https://open.spotify.com/artist/0Oe5XB0pjnOZZo8snWSHoL) | [Bang Bang](https://open.spotify.com/album/78Df0kziilAoIaCTCvJtdA) | 4:03 | 2022-08-28 | 2023-03-02 |
@@ -40,7 +41,7 @@
 | [Broken Home](https://open.spotify.com/track/5950Y7Cc3c0I6QH6hpf9E2) | [Youngn Lipz](https://open.spotify.com/artist/36PxHmbx5QrRTpuCaw4FuV) | [Area Baby](https://open.spotify.com/album/722ZytuYgZwwGZLF04HPog) | 3:09 | 2021-10-15 | 2022-08-16 |
 | [BURNA FONE](https://open.spotify.com/track/64UgDo4Tp0Ny8rTZDlRh60) | [PANIA](https://open.spotify.com/artist/5amlDCKh0QTWhI6BOMn6Pf) | [BURNA FONE](https://open.spotify.com/album/7lzAdbjppaETpFOUnKeazg) | 2:39 | 2023-06-27 |  |
 | [C+A](https://open.spotify.com/track/6JMSuPOANWkvzhjlHB7P96) | [SAHXL](https://open.spotify.com/artist/4vPtTSgLvrvLnk1mYnTI7h) | [C+A](https://open.spotify.com/album/27yBMv7dvHS7Lvi3Mpfh6X) | 2:39 | 2023-10-05 |  |
-| [Cali4nia](https://open.spotify.com/track/6eCSJmiVIkFghWbDq6o0AN) | [KANADA THE LOOP](https://open.spotify.com/artist/0memvAGubR0iSAZmXnY4ta) | [Toyota Reckless](https://open.spotify.com/album/7pepybm5eWGHiQStayzHYy) | 2:56 | 2022-11-10 |  |
+| [Cali4nia](https://open.spotify.com/track/6eCSJmiVIkFghWbDq6o0AN) | [KANADA THE LOOP](https://open.spotify.com/artist/0memvAGubR0iSAZmXnY4ta) | [Toyota Reckless](https://open.spotify.com/album/7pepybm5eWGHiQStayzHYy) | 2:56 | 2022-11-10 | 2023-12-01 |
 | [Candy](https://open.spotify.com/track/79hX5auHsaio6gDOQcmeDy) | [Hans.](https://open.spotify.com/artist/41azuh0IUq4g2UPySoYp8A), [imugi 이무기](https://open.spotify.com/artist/2rQUmy9WBe1uoPy8y3Wsy8) | [Candy](https://open.spotify.com/album/1670DOyCe1tpTfBNuOswI9) | 3:05 | 2022-11-10 | 2023-06-23 |
 | [Casanova](https://open.spotify.com/track/07E34p59doB7zhxtcNQLqK) | [Blake Rose](https://open.spotify.com/artist/7wLyGTO9vUS7ndlq4BvBGe) | [Casanova](https://open.spotify.com/album/5ryxQvi2WP0hXoH92zgMnp) | 3:01 | 2021-10-15 | 2022-08-16 |
 | [Central Station](https://open.spotify.com/track/12k0MroOt3VGEoE7EzkB56) | [MAY\-A](https://open.spotify.com/artist/5J8UACGRZtDb4WdOzo9YJN) | [Don't Kiss Ur Friends](https://open.spotify.com/album/1UpmgLLg3w0pI5SGa0XaH4) | 3:28 | 2021-10-15 | 2022-08-16 |
@@ -53,10 +54,12 @@
 | [Concrete Jungle Fever](https://open.spotify.com/track/4W0fnALcD2rHODBvlUxZuU) | [Jerome Farah](https://open.spotify.com/artist/4a1J1CCs8vldNEl3MPsBPw) | [Concrete Jungle Fever](https://open.spotify.com/album/7yYDzYqRZjRxnSmb4tK95J) | 2:59 | 2021-10-15 | 2022-08-16 |
 | [Cotton Candy](https://open.spotify.com/track/4uA2YqAL6Pm2u8ECRUNJU8) | [JXN](https://open.spotify.com/artist/571VxoWCBMPacek7MmocqU) | [Cotton Candy](https://open.spotify.com/album/4hn9fzp2FQfVWbWi9LXje6) | 2:16 | 2021-10-15 | 2022-08-16 |
 | [Cry](https://open.spotify.com/track/2au4DyNFX59VLV5elmhagj) | [Cat & Calmell](https://open.spotify.com/artist/0SaaipFXHYbYDLDB6atAoR) | [Cry](https://open.spotify.com/album/0hble8eLgWuU9xMZVwn7EU) | 3:09 | 2022-08-15 | 2022-11-11 |
-| [DANCING ALL ALONE](https://open.spotify.com/track/3vHKqg3WDgtWA5unl5layh) | [Clinton Kane](https://open.spotify.com/artist/7okSU80WTrn4LXlyXYbX3P) | [DANCING ALL ALONE](https://open.spotify.com/album/6E1rMJkFB1eJwgyMQhN1mg) | 2:51 | 2023-03-02 |  |
+| [DANCING ALL ALONE](https://open.spotify.com/track/3vHKqg3WDgtWA5unl5layh) | [Clinton Kane](https://open.spotify.com/artist/7okSU80WTrn4LXlyXYbX3P) | [DANCING ALL ALONE](https://open.spotify.com/album/6E1rMJkFB1eJwgyMQhN1mg) | 2:51 | 2023-03-02 | 2023-12-01 |
+| [daydream](https://open.spotify.com/track/00QssnWjPr673yUTv18Rth) | [Kwame](https://open.spotify.com/artist/5ywIxMaX80lDjSzzj7wqto) | [daydream](https://open.spotify.com/album/29zx5mG7UmY2D6azEQ3OIJ) | 3:01 | 2023-11-30 |  |
 | [Dead End](https://open.spotify.com/track/6Vqw0rhS84CwHDG99e6dZx) | [Blusher](https://open.spotify.com/artist/7AZm56bjPk0tYl6LTyJu9N) | [Dead End](https://open.spotify.com/album/5KdJI0MvN0AtXb5oxXHXS9) | 2:58 | 2023-03-12 | 2023-06-23 |
 | [Deadweight](https://open.spotify.com/track/73g1ySW6QzK3u3iwTA6zBX) | [Olive Amun](https://open.spotify.com/artist/5pvcPGz8wKYEcV4cdXEZOv) | [Deadweight](https://open.spotify.com/album/0ip00vW7mfVphllwNShfUv) | 2:47 | 2021-10-15 | 2022-08-16 |
 | [Diss and Disappoint](https://open.spotify.com/track/1RXFZcTmIoG3BpYobw0eyu) | [flowerkid](https://open.spotify.com/artist/4VFDBAAO80bu4bTcVJ6M8i) | [Diss and Disappoint](https://open.spotify.com/album/7oaEeaY8WIXyHbV72oLHfk) | 2:57 | 2023-06-22 |  |
+| [Don't Let Him Say Goodbye \- Demo](https://open.spotify.com/track/1tTzJnFVZVuGJyFWDXFdE2) | [JACOTÉNE](https://open.spotify.com/artist/1vPK0KqkfnZzdpKDC2l3rd) | [Don't Let Him Say Goodbye \- Demo](https://open.spotify.com/album/3h8zMEpUS5xqCMloCaTRuc) | 2:41 | 2023-11-30 |  |
 | [Don't Stop the Car](https://open.spotify.com/track/72OrO3uJtMEGRlPyKLogvk) | [Blake Rose](https://open.spotify.com/artist/7wLyGTO9vUS7ndlq4BvBGe) | [You'll Get It When You're Older](https://open.spotify.com/album/3Cyholll5qarrrlnIlxiCu) | 2:39 | 2023-03-02 | 2023-06-23 |
 | [Drive Me Home](https://open.spotify.com/track/6p0QVqnCWpGw1nWdFoDFLe) | [The Buoys](https://open.spotify.com/artist/338GHPl8NnzUwqpm6wpqjc) | [Unsolicited Advice for Your DIY Disaster](https://open.spotify.com/album/4pbYeo7Ey0SMWKsPjnHpd2) | 3:12 | 2021-10-15 | 2022-08-16 |
 | [DUBAI](https://open.spotify.com/track/3DWLH5d8DWVwUmOY5c6TMM) | [Day1](https://open.spotify.com/artist/0iFJbJ7jMv5QAmA6hWm6Ic) | [DUBAI](https://open.spotify.com/album/6AAD0GN8FettJVhoGWejzj) | 2:38 | 2022-08-15 | 2023-03-02 |
@@ -139,6 +142,7 @@
 | [Lemon Lime](https://open.spotify.com/track/2WXkVx5MEJjZ7fpIbOGnJO) | [Jye](https://open.spotify.com/artist/2VXm4JOiSfNQJmo4IXjWOH) | [Lemon Lime](https://open.spotify.com/album/3ymqSQFuvE9pjyIcjcyIDM) | 4:38 | 2022-08-15 | 2022-11-11 |
 | [Life Feels Good](https://open.spotify.com/track/29ZE3uE9ezxblQUDORcVE4) | [Mikey Dam](https://open.spotify.com/artist/6U5CUX0APXFzqcfpoXxEyb) | [Life Feels Good](https://open.spotify.com/album/2JnKFRCfW7TgPgWA4y02jO) | 2:54 | 2021-10-15 | 2022-08-16 |
 | [Lost With You](https://open.spotify.com/track/2mk6QhfrmdoAgXzSaDifFx) | [AYDAN](https://open.spotify.com/artist/42QiPMyPh52FgtTOt2ckqs) | [Lost With You](https://open.spotify.com/album/1O2DzjE2xDi53qaKJn3TYw) | 2:54 | 2022-08-15 | 2023-06-28 |
+| [Loverman](https://open.spotify.com/track/7yMvCjdJkJFKclMFnlutoV) | [Go\-Jo](https://open.spotify.com/artist/7CslUrDCYnm3vMtKZJZGNv) | [Loverman](https://open.spotify.com/album/6UyQiKLbwj1rfvWK0ybprK) | 2:26 | 2023-11-30 |  |
 | [LOVEU2BITS](https://open.spotify.com/track/3R9Hr2ZYLusxkRSbFvwsrw) | [BOY SODA](https://open.spotify.com/artist/2gorlgsMUJH6TSfTPhaCdW) | [LOVEU2BITS](https://open.spotify.com/album/6LwFK82drTe6VmNl7GRJjN) | 3:02 | 2021-10-15 | 2022-08-16 |
 | [Lupa](https://open.spotify.com/track/0BdZGPjIfihtxbB8YfGgLe) | [King Stingray](https://open.spotify.com/artist/3hA0yUEuLvjqvxtMlqznDb) | [King Stingray](https://open.spotify.com/album/1I0ZpUzinqCX3rSEgADGJX) | 3:15 | 2022-08-15 |  |
 | [M1](https://open.spotify.com/track/4MZQpYHloIv9IhX1yAdi5J) | [Hp Boyz](https://open.spotify.com/artist/0JlQaGJZfrqYeZG1AQICxp) | [AFTERPARTY](https://open.spotify.com/album/2kQlpPlBMk65AQgCquhaDR) | 2:57 | 2021-10-15 | 2022-08-16 |
@@ -222,6 +226,7 @@
 | [Stay Blessed](https://open.spotify.com/track/6fReWEXkgRzOaLwT8fNbXb) | [Genesis Owusu](https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke) | [Stay Blessed](https://open.spotify.com/album/6AZBrqoAy25CLWRh8QgvV5) | 2:57 | 2023-10-05 |  |
 | [Stay Ready](https://open.spotify.com/track/4ifwIJr17nbW2zRE2cphhO) | [Jono](https://open.spotify.com/artist/5H2hBy6syEFjLqGwd4DdjR) | [Stay Ready](https://open.spotify.com/album/2fAUZwOFzi6PLWCMXWoIJX) | 2:30 | 2021-10-15 | 2022-08-16 |
 | [Stay The Night](https://open.spotify.com/track/6d7kUzdgmoUARPNpR0vim0) | [Daffodils](https://open.spotify.com/artist/7rd77Dy0EZx6577VFjK13T) | [Stay The Night](https://open.spotify.com/album/438mozSf9BsetYlooJQDMH) | 3:12 | 2022-08-15 | 2023-03-02 |
+| [Still Have Room](https://open.spotify.com/track/1CqISEsTc9TDUDyfAtJNmc) | [Hockey Dad](https://open.spotify.com/artist/1GJ1uwDfaA8GVVpVc2I2d2) | [Still Have Room](https://open.spotify.com/album/1GmmNjn5tr3pb4ka13c9V1) | 2:22 | 2023-11-30 |  |
 | [Stop & Stare](https://open.spotify.com/track/3HQkHblcaWYmYfP1jIRfsj) | [Logan](https://open.spotify.com/artist/7w8LS5pR81tvDOskUj8x1j) | [Stop & Stare](https://open.spotify.com/album/1NBIz4sWJZtw76e5D6issj) | 2:36 | 2023-06-22 |  |
 | [Stuck On You](https://open.spotify.com/track/1U675HGzKcVxVjdz522XYI) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [When We Were Younger](https://open.spotify.com/album/2G2NSV9SHG1WlgL4u5qZ9w) | 2:39 | 2023-06-22 |  |
 | [Sunday Morning](https://open.spotify.com/track/2btftog5enfQLHGvpqNd4N) | [Aidan Fine](https://open.spotify.com/artist/0KDjHOiKe5QcKHwpvKb33V) | [Sunday Morning](https://open.spotify.com/album/1eQ589pdoxuc82OSxCtk9j) | 2:07 | 2023-03-02 | 2023-11-08 |
@@ -230,6 +235,7 @@
 | [Susan's Son](https://open.spotify.com/track/4y1rLtIUSmxfHGzKDZseDd) | [Chillinit](https://open.spotify.com/artist/5TUXXyB6ZKCdd0vQx6yR2J) | [Susan’s Son](https://open.spotify.com/album/43VNGLvaaGcCsMT27J6GYO) | 3:17 | 2021-10-15 | 2022-08-16 |
 | [Sweat You Out My System](https://open.spotify.com/track/6PWJ0aOLUcQ1sqeqikPRjy) | [MAY\-A](https://open.spotify.com/artist/5J8UACGRZtDb4WdOzo9YJN) | [Sweat You Out My System](https://open.spotify.com/album/7FTGQ7UcBkyxH6c92dDLAi) | 3:09 | 2023-03-02 |  |
 | [Sweet Lime](https://open.spotify.com/track/6rV9pGgzQwdSzNTFAINfRh) | [Muroki](https://open.spotify.com/artist/3Nvjwz6gDry7Uume9kjCBT) | [Sweet Lime](https://open.spotify.com/album/4uJY86Adp7HO3Baczyps3U) | 2:59 | 2023-03-02 |  |
+| [Tale Of A Man](https://open.spotify.com/track/1rBmKmG7hM3gp4lpKQCmj1) | [Teenage Dads](https://open.spotify.com/artist/0GEHcYh6naBVfaLKy7CEhw) | [Tale of A Man](https://open.spotify.com/album/47fxxzNYoFylPsmR7xvrLy) | 2:46 | 2023-11-30 |  |
 | [Talk \(feat\. MAY\-A\)](https://open.spotify.com/track/2jY1ttXBDyw1NRZgkU3yQ8) | [Budjerah](https://open.spotify.com/artist/4hOb2WdQMQWyG6RQAhR7iE), [MAY\-A](https://open.spotify.com/artist/5J8UACGRZtDb4WdOzo9YJN) | [Talk \(feat\. MAY\-A\)](https://open.spotify.com/album/63XYvVcgT1ZcO0NtXBZfFI) | 3:27 | 2021-10-15 | 2022-08-16 |
 | [Teenage Dirtbag – Spotify Singles](https://open.spotify.com/track/2Ay91YgsEdMNV8eTzTT5sU) | [Peach PRC](https://open.spotify.com/artist/006j2rer9tZJCYniu7SaWS) | [Spotify Singles](https://open.spotify.com/album/0z8PfudkG3FoO5LrWW4akU) | 3:06 | 2022-08-15 | 2023-03-02 |
 | [Teenage Renegade](https://open.spotify.com/track/12UFOhdwV1STPKzAI39hUu) | [Robinson](https://open.spotify.com/artist/38CvLGTsjtoloDgv3OKQp8) | [Teenage Renegade](https://open.spotify.com/album/1MbxlBgw83NZbqcJuoAVnd) | 3:04 | 2022-08-15 | 2023-03-02 |

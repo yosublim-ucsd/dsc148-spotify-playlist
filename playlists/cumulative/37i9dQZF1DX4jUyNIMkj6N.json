@@ -1811,6 +1811,24 @@
     },
     {
       "album": {
+        "name": "Hymn",
+        "url": "https://open.spotify.com/album/5TXCV14ZfHcQrJTruMbQNp"
+      },
+      "artists": [
+        {
+          "name": "VELVET MOON",
+          "url": "https://open.spotify.com/artist/0hK1aI0UAC0cflUrMqsVjZ"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 335276,
+      "name": "Hymn",
+      "url": "https://open.spotify.com/track/2MXX8H5R8UMmI5oYzgqrYA"
+    },
+    {
+      "album": {
         "name": "The Green Stone",
         "url": "https://open.spotify.com/album/37IJFAwNwGt5EV8aTw0E22"
       },

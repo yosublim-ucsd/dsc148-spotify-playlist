@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX949uWWpmTjT.md) - [plain]
 
 > A soft and slow soundtrack to play in the background to all your activities.
 
-[Spotify](https://open.spotify.com/user/spotify) - 130,278 likes - 750 songs - 1 day 23 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 130,409 likes - 750 songs - 1 day 23 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -759,4 +759,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX949uWWpmTjT.md) - [plain]
 | 749 | [Dearly Beloved](https://open.spotify.com/track/5tJjgkORBtJ68L2ZSXHhcK) | [Andy Goodman](https://open.spotify.com/artist/2zsZdG7rQdh5YDhxCSeVJi) | [Dearly Beloved](https://open.spotify.com/album/75yf4jDzTpgPN2NSxul6jd) | 3:51 |
 | 750 | [Put on the Badge](https://open.spotify.com/track/2jYoYfXjP26mON92ffXYrH) | [Erik Moreau](https://open.spotify.com/artist/1S08oiBCDKPErHKaJ42YAG) | [Put on the Badge](https://open.spotify.com/album/7blUfTMgeMGVFLwPaKA5Uu) | 3:30 |
 
-Snapshot ID: `MCxhODJkYjViNDEyMDcwZmZjMTJlNDJiNTMyZDYyYThjNGJjMGFiZTRl`
+Snapshot ID: `MCxlYzgxYTdiNWU1OWVlMzZlNDljMmFhNjYzNzg2MmNhMzhiMjZlMGVm`

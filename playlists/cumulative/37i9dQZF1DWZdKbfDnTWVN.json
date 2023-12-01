@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "The best of bars, beats & rhymes from the 254. Cover: <a href=\"https://open.spotify.com/artist/4irem3YwBjOoB8CoYIPwRc?si=BmaM2uTuSgGN_LcRIPJcCw\"> Big Yasa</a>",
+  "description": "The best of bars, beats & rhymes from the 254. Cover: <a href=\"https://open.spotify.com/artist/10jefIr7Jj7c0dDJEqRcWK?si=OGTgUyZZTVmdTLzHMoNOHw\"> Wakadinali</a>",
   "name": "254 Flow",
   "tracks": [
     {
@@ -605,6 +605,32 @@
     },
     {
       "album": {
+        "name": "Complicated",
+        "url": "https://open.spotify.com/album/7snX6S8N4Jmwx0qPa1qgdK"
+      },
+      "artists": [
+        {
+          "name": "Polaris",
+          "url": "https://open.spotify.com/artist/04JfU1Q9ESK7m4yLUOR6lA"
+        },
+        {
+          "name": "Moeazy",
+          "url": "https://open.spotify.com/artist/7JYVVIJHFX48ERG4Wt6HJz"
+        },
+        {
+          "name": "Drop Boy",
+          "url": "https://open.spotify.com/artist/2VhB8HqjzPSe2pxNPBrGpJ"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236571,
+      "name": "Complicated",
+      "url": "https://open.spotify.com/track/6X7vxDcau5bwndcs58owCF"
+    },
+    {
+      "album": {
         "name": "Counter",
         "url": "https://open.spotify.com/album/5n4TN2oAgUev5OKitTplD8"
       },
@@ -1024,7 +1050,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 270000,
       "name": "Geri Inengi",
       "url": "https://open.spotify.com/track/3mMCfqlXkDzH8jE9mjIu7d"
@@ -1211,6 +1237,24 @@
     },
     {
       "album": {
+        "name": "Hizi Stance",
+        "url": "https://open.spotify.com/album/1dftTJocAgCxOiVIS0ZhBR"
+      },
+      "artists": [
+        {
+          "name": "Wakadinali",
+          "url": "https://open.spotify.com/artist/10jefIr7Jj7c0dDJEqRcWK"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241280,
+      "name": "Hizi Stance",
+      "url": "https://open.spotify.com/track/0er5e73HdzbwLqInLpakXm"
+    },
+    {
+      "album": {
         "name": "Horsepower",
         "url": "https://open.spotify.com/album/1tCHWBqHn6jATmkJ7lEFVY"
       },
@@ -1296,7 +1340,7 @@
       ],
       "date_added": "2023-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 106907,
       "name": "Judgment Day",
       "url": "https://open.spotify.com/track/7M358bpZKqYEf2kkvvo7n7"
@@ -1410,7 +1454,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 322391,
       "name": "Legit(Wakuu)",
       "url": "https://open.spotify.com/track/0kJfgiUBkxwlRtLGnjfbOA"
@@ -1805,6 +1849,24 @@
     },
     {
       "album": {
+        "name": "Midas Touch",
+        "url": "https://open.spotify.com/album/1aJN6BERgVwmJvRinhiDot"
+      },
+      "artists": [
+        {
+          "name": "Breeder LW",
+          "url": "https://open.spotify.com/artist/627ZPdDfhsaXctdPneB5Sy"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220273,
+      "name": "Midas Touch",
+      "url": "https://open.spotify.com/track/2eoyaHL33pdJ1e0IzUhuIG"
+    },
+    {
+      "album": {
         "name": "Minimal Pressure",
         "url": "https://open.spotify.com/album/2TfvT358xh2LsMPHZHbqeI"
       },
@@ -2052,6 +2114,28 @@
       "duration_ms": 224284,
       "name": "On My Own",
       "url": "https://open.spotify.com/track/66namJgY7uCzejV0yixkzy"
+    },
+    {
+      "album": {
+        "name": "Out The Way",
+        "url": "https://open.spotify.com/album/2NBcrGOeKAh0Pfo17Fw9ld"
+      },
+      "artists": [
+        {
+          "name": "King Kerby",
+          "url": "https://open.spotify.com/artist/7G7OkIfv61UXFzxzdyVA4Z"
+        },
+        {
+          "name": "Ta Eish",
+          "url": "https://open.spotify.com/artist/00EGROjlVSXEnfiH1oHFCe"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178690,
+      "name": "Out The Way",
+      "url": "https://open.spotify.com/track/3jMtpykjhURVfAHXmIpV7a"
     },
     {
       "album": {
@@ -2774,7 +2858,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 161730,
       "name": "So Gone Gfix",
       "url": "https://open.spotify.com/track/6oI7qnO61ysdOFBDemA13S"

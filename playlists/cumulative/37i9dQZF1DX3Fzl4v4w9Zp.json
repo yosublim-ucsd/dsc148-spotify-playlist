@@ -2768,7 +2768,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 167506,
       "name": "Find Your Way Out",
       "url": "https://open.spotify.com/track/3oLeXCuZOVGiDzj6rcsbVW"
@@ -6223,6 +6223,28 @@
     },
     {
       "album": {
+        "name": "The Hunger Games: The Ballad of Songbirds & Snakes (Music From & Inspired By)",
+        "url": "https://open.spotify.com/album/2yHTMVFGHODKJOjVL1hLgk"
+      },
+      "artists": [
+        {
+          "name": "Rachel Zegler",
+          "url": "https://open.spotify.com/artist/1q9hWC9JAJXjXwZN9aDKW3"
+        },
+        {
+          "name": "The Covey Band",
+          "url": "https://open.spotify.com/artist/4qH48Bc0oZ12M7TdGB7QVi"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193591,
+      "name": "Nothing You Can Take From Me (Boot-Stompin' Version) - from The Hunger Games: The Ballad of Songbirds & Snakes",
+      "url": "https://open.spotify.com/track/4ck5SWSXlSUVHhYjq9Cb8L"
+    },
+    {
+      "album": {
         "name": "Now is the Time",
         "url": "https://open.spotify.com/album/2LYm9NJMZYR8V3Ldq5Umh4"
       },
@@ -7379,6 +7401,24 @@
     },
     {
       "album": {
+        "name": "Ozarker",
+        "url": "https://open.spotify.com/album/1SVnulVrPEChMUHbMWhcgA"
+      },
+      "artists": [
+        {
+          "name": "Israel Nash",
+          "url": "https://open.spotify.com/artist/5skM4jc4QoEpHiWWl6OoW7"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242185,
+      "name": "Roman Candle",
+      "url": "https://open.spotify.com/track/29jhC7hhpcBKSomZYhn1zS"
+    },
+    {
+      "album": {
         "name": "Roman Candle",
         "url": "https://open.spotify.com/album/5Iue2ftvsBde2EScRcUMhD"
       },
@@ -7390,7 +7430,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 242185,
       "name": "Roman Candle",
       "url": "https://open.spotify.com/track/7B3ospxtMq2QWIJmwoeF0H"

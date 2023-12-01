@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvfPiFfb8Mi.md) - [plain]
 
 > <a href="spotify:genre:0JQ5DAqbMKFwT0m6BbKvGP">Disco</a>, house, funk and soul for the good times.
 
-[Spotify](https://open.spotify.com/user/spotify) - 545,447 likes - 100 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 545,492 likes - 100 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvfPiFfb8Mi.md) - [plain]
 | 99 | [Last Dance](https://open.spotify.com/track/7sYOC9FdWJ2Gf5O8bYuK9t) | [Satin Jackets](https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv), [Tensnake](https://open.spotify.com/artist/75nC6MXUalYZSOd7OfNkwq), [Kimchii](https://open.spotify.com/artist/78fCvlGi2BTqtk3wsjUsK3) | [Last Dance](https://open.spotify.com/album/1pGl9quH4KSsfSjPKz9TT9) | 3:29 |
 | 100 | [Take It Back \(feat\. Davie\)](https://open.spotify.com/track/60ILwSbZxEZ6qgYZMPAq4D) | [Mousse T.](https://open.spotify.com/artist/5N6EzjkOoyABhNZJggeXi6), [Davie](https://open.spotify.com/artist/3LtkIxt8EHLpuXMOpFYZ06) | [Take It Back \(feat\. Davie\)](https://open.spotify.com/album/5NN6jIlYaOhjirtYiGuPNr) | 3:36 |
 
-Snapshot ID: `MCwzNDc3NDY5ZTM1ODdkYmVlZmYzMDUyY2UzM2U3MjZjZWFlMTdkOGVm`
+Snapshot ID: `MCxhODNmMzIwOWI1MjYyMDU4NmQ2NGYxMjk4M2E3OTc4YmU2MzZiM2M1`

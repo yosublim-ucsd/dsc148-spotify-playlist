@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX089MWxS7QW5.md) - [plain]
 
 > 한국 R&B\. The new & fresh K\-R&B is here\. \(Cover: Moon Sujin\(문수진\)\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,845 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,955 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX089MWxS7QW5.md) - [plain]
 | 49 | [Blue](https://open.spotify.com/track/2UU11hvjN1JIn4iihEodNT) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [Layover](https://open.spotify.com/album/7ixOAT89NSsgUITYc5ByB5) | 2:29 |
 | 50 | [Adulting](https://open.spotify.com/track/6loqQEv0DKuPc4ztKG4gAR) | [Aylah](https://open.spotify.com/artist/1chOut2a9FJiw0pQFHsCBP) | [Comely](https://open.spotify.com/album/6yjwtup5l6X1YFEGfXtxNk) | 2:40 |
 
-Snapshot ID: `MCw4NzIzZDIxMDFmYWYzYTY3NWQwZGIzMWI5NzY0MzIxMjMyM2ExZDkz`
+Snapshot ID: `MCwzZDMzNDhlYjMzYTZkZDExM2QzMDE2MzcxMGMyZGYxYjkwNjk5Y2E1`

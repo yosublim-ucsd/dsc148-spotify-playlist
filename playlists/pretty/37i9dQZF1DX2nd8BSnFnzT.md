@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2nd8BSnFnzT.md) - [plain]
 | 28 | [Oq Sou pra Vc?](https://open.spotify.com/track/1bbIDW4Q09GDQKufvIkHRm) | [Luiz Lins](https://open.spotify.com/artist/0hWRVPGWjaXcEvg8l65Tx0), [Lucas Silveira](https://open.spotify.com/artist/0Nrw6GrosIRqqFRLeFQSWK) | [Plástico](https://open.spotify.com/album/6yW0G6JODPeXJf7QXiVP2S) | 2:59 |
 | 29 | [Lado Escuro da Rua](https://open.spotify.com/track/66BN5VkgpNRpqWRjGgE2qn) | [Blitz](https://open.spotify.com/artist/1POsQml4E21Ku75BirHFMQ) | [Lado Escuro da Rua](https://open.spotify.com/album/53s0hTKe8VsbQABmiPfhfG) | 4:46 |
 | 30 | [Stonehenge \(Live\)](https://open.spotify.com/track/4ZKiLTqCXQLvzzmnRu9LpY) | [Fresno](https://open.spotify.com/artist/2sFXe6NbmT3k7Qy4N8fE7f) | [Quarto dos Livros \(20 Anos; Live\)](https://open.spotify.com/album/7jmk1wr6sJdWCiQpw32iJ1) | 4:12 |
-| 31 | [v ø l t a c r i a n ç a](https://open.spotify.com/track/3tq4WqYbA7Rpt8fCI3Tw1V) | [Mauro Henrique](https://open.spotify.com/artist/3KypZFGzCHTbqXAAhFuLwd) | [v ø l t a c r i a n ç a](https://open.spotify.com/album/10mSwLFFuZ5f940TMGjBLF) | 4:00 |
+| 31 | [v ø l t a c r i a n ç a \- Aø ViVø](https://open.spotify.com/track/3tq4WqYbA7Rpt8fCI3Tw1V) | [Mauro Henrique](https://open.spotify.com/artist/3KypZFGzCHTbqXAAhFuLwd) | [v ø l t a c r i a n ç a \- Aø ViVø](https://open.spotify.com/album/10mSwLFFuZ5f940TMGjBLF) | 4:00 |
 | 32 | [Dia a dia](https://open.spotify.com/track/0fHAEHVcqD104hdGo9JfZC) | [O DOBRO](https://open.spotify.com/artist/1tCDW5YntrQPoGAKo52edW) | [Dia a dia](https://open.spotify.com/album/6sIPN7Do9PfxlS2LUAFD55) | 3:33 |
 | 33 | [Último Clichê](https://open.spotify.com/track/3n3aZ903Y3TjQseFJTOFin) | [Cine](https://open.spotify.com/artist/4MZmexF6g7Kk5nWAP8f5Zr) | [Último Clichê](https://open.spotify.com/album/6OhFYkE3KeUM6zRlhCE8vE) | 2:49 |
 | 34 | [Você Vai Lembrar de Mim](https://open.spotify.com/track/2bVt8bpiSBQn6HMizoRX4k) | [NX Zero](https://open.spotify.com/artist/1A3dFCPF68vh5lyxzBqLUH) | [Você Vai Lembrar de Mim](https://open.spotify.com/album/6POQpPegZbqAUtawoGW7wh) | 3:05 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2nd8BSnFnzT.md) - [plain]
 | 74 | [Inabalável](https://open.spotify.com/track/3972PNho0RmiNcpIm6hcYn) | [Mattilha](https://open.spotify.com/artist/1p5k3q7GkTTeSI3dundiSU) | [Inabalável](https://open.spotify.com/album/6PG3v6BBWyDyDR3BgBqXgw) | 4:23 |
 | 75 | [Primeiros Erros](https://open.spotify.com/track/7FWkuxnRVX16pkVmxtO2Lt) | [Capital Inicial](https://open.spotify.com/artist/4Z0yuwHVJBROVZqFpTIr0d), [Vitor Kley](https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U) | [Primeiros Erros](https://open.spotify.com/album/4Zjcmh7q0ShqZPHtAMcFDM) | 5:51 |
 
-Snapshot ID: `MCxhMTdjMDhiZGMxODdhZjg3ZGM2YTE5M2ZmODFmMDcyZTllYTNmNzE4`
+Snapshot ID: `MCw4ZDM5MDI0MjcwMTVkZTVjODNiZGFmMzBiZmVjMzVmMjFhOWE2MmVj`

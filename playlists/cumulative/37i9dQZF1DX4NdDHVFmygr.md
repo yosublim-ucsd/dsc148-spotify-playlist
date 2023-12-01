@@ -2,7 +2,7 @@
 
 ### [Maroc Hits](https://open.spotify.com/playlist/37i9dQZF1DX4NdDHVFmygr)
 
-> Les hits marocains du moment.
+> Les hits marocains du moment\. Cover: ElGrandeToto
 
 315 songs - 17 hr 3 min
 

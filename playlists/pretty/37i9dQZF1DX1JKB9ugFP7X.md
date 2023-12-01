@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1JKB9ugFP7X.md) - [plain]
 
 > Escucha lo mejor del pop electrónico en español.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,790 likes - 95 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,797 likes - 95 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,4 +104,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1JKB9ugFP7X.md) - [plain]
 | 94 | [FRIENDZONE](https://open.spotify.com/track/6ifxoXGBxLp7O967IDt67l) | [Lucas & The Woods](https://open.spotify.com/artist/4OIDWn0ASVx73rysnf6pqA) | [FRIENDZONE](https://open.spotify.com/album/1NHbPkbVifHFoUNUjds3rj) | 3:30 |
 | 95 | [Compañerx](https://open.spotify.com/track/1fzGUsPb2RAXOZDHzKXN5Q) | [Fonosida](https://open.spotify.com/artist/6HXJR7OM92v2ncgjL8gVkX) | [Compañera](https://open.spotify.com/album/4CiDkn8I1gRm8VQmffzhW4) | 4:33 |
 
-Snapshot ID: `MCw0MmJiNTEwNzUxZDY0NTE5YjAzZTg0MzczMjFmYmRkOGY0NTA4N2M0`
+Snapshot ID: `MCxmZTY5MTM1YzE5YzgwMTAxYjQzMmRiYTlkY2JhM2Y3MjkwYzZhZTZk`

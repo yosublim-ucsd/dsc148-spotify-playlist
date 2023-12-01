@@ -4,7 +4,7 @@
 
 > The full collection of Spotify Singles recordings\. Cover: Sabrina Carpenter
 
-1,133 songs - 2 day 21 hr 5 min
+1,134 songs - 2 day 21 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -246,7 +246,8 @@
 | [Don't Think Twice It's Alright \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/1GOwRXxYGZcUJ5TY88zk9l) | [Rebeudeter](https://open.spotify.com/artist/74Yd3n0K6G3m6T32Bl2A5y) | [Joshua Radin \(Spotify Singles\)](https://open.spotify.com/album/62oKyQ9ioMApSS1fhxYoIs) | 3:17 | 2022-08-24 | 2022-10-14 |
 | [Don’t Be Denied \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/5t3ZGxzqyS79oP7rpFfPio) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Spotify Singles](https://open.spotify.com/album/6uof38bF3vLCZgMhjQKZ5y) | 5:54 | 2022-01-19 |  |
 | [Don’t Stop \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/3nqV59JK49DkHGXvweDD0k) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU) | [Spotify Singles](https://open.spotify.com/album/6gj7iXOB1pGIaTASfjZYMT) | 2:12 | 2022-01-19 |  |
-| [Doo Wop \(That Thing\) \- Spotify Singles](https://open.spotify.com/track/0D9OkPTPIn9QkDucglW4DS) | [Tobe Nwigwe](https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3) | [Spotify Singles](https://open.spotify.com/album/6cZYUit3dBM00CccH1WNAZ) | 4:55 | 2023-02-01 |  |
+| [Doo Wop \(That Thing\) \- Spotify Singles](https://open.spotify.com/track/0D9OkPTPIn9QkDucglW4DS) | [Tobe Nwigwe](https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3) | [Spotify Singles](https://open.spotify.com/album/6cZYUit3dBM00CccH1WNAZ) | 4:55 | 2023-02-01 | 2023-12-01 |
+| [Doo Wop \(That Thing\) \- Spotify Singles](https://open.spotify.com/track/17wO4MVncoihafFeQ1Su7o) | [Tobe Nwigwe](https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3) | [Spotify Singles](https://open.spotify.com/album/6hT8SzWxxk6skgXDAa7cVG) | 4:55 | 2023-10-02 |  |
 | [Dooley's Farm \- Spotify Sessions](https://open.spotify.com/track/0wBAXKB1deM4RUJUbh3b4W) | [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE), [Molly Tuttle & Golden Highway](https://open.spotify.com/artist/1KVw3QwEmC8QMrpz0SV05n) | [good 4 u / Dooley's Farm \(Spotify Singles\)](https://open.spotify.com/album/65mrgLaC6S4drN9PoJRxKm) | 5:10 | 2023-02-01 |  |
 | [Dos Oruguitas \- From "Encanto" / Live from Spotify Los Angeles](https://open.spotify.com/track/4UCKq3C6M36Rl12UnKZGZi) | [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4) | [Spotify Singles](https://open.spotify.com/album/3bP5Yh9uXY110v936S656C) | 4:23 | 2023-03-29 |  |
 | [Doubt \- Recorded at HOB Studios, Toronto](https://open.spotify.com/track/10MkHbBBIHqr8GF6dKlP0S) | [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v) | [Spotify Singles](https://open.spotify.com/album/4zT3trMgbFpd8Bgc0rBxEa) | 3:37 | 2022-01-19 | 2022-07-29 |

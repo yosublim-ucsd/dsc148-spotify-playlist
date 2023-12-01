@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ohL85TE8TI.md) - [plain]
 
 > Hot & new K\-Drama OSTs are here! \(Cover: CASTAWAY DIVA\(무인도의 디바\)\) \(인기 있는 화제의 OST곡들을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,538,118 likes - 105 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,538,157 likes - 105 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ohL85TE8TI.md) - [plain]
 | 12 | [My Days](https://open.spotify.com/track/0vEy6yAnaRKNub6ReRIRhO) | [MeloMance](https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e) | [CASTAWAY DIVA OST Part.6](https://open.spotify.com/album/5hL2T779HTraXkK9393LCA) | 3:27 |
 | 13 | [We are](https://open.spotify.com/track/63LRh32O1eE0NbN2JsA8Rx) | [THE BOYZ](https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx) | [CASTAWAY DIVA OST Part.5](https://open.spotify.com/album/76PcyLQsYqziDN1tdw0mjt) | 3:15 |
 | 14 | [Night and Day](https://open.spotify.com/track/37x2x6UQfUcvbM8NVHRngO) | [Jung Seung Hwan](https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng) | [CASTAWAY DIVA OST Part.4](https://open.spotify.com/album/3MN6ZyB8yfxdfDtAHQ2LNF) | 3:01 |
-| 15 | [Stay In My Love](https://open.spotify.com/track/6V1P8SmEl4rk5UJKjLatgI) | [Nine \(OnlyOneOf\)](https://open.spotify.com/artist/0EZvqxQeBTaC5M7x5uZlO3) | [Bump Up Business \(Original Television Soundtrack\) Pt\. 3](https://open.spotify.com/album/55rQ2NQ1ncvIFaSLfP9z0Q) | 3:54 |
+| 15 | [Stay In My Love](https://open.spotify.com/track/6V1P8SmEl4rk5UJKjLatgI) | [Nine \(OnlyOneOf](https://open.spotify.com/artist/1rOsib3dwCJVmQJ7kVZOyi) | [Bump Up Business \(Original Television Soundtrack\) Pt\. 3](https://open.spotify.com/album/55rQ2NQ1ncvIFaSLfP9z0Q) | 3:54 |
 | 16 | [Can't Nobody](https://open.spotify.com/track/3krFQMGI0HMx1gu3hcf9lw) | [Woody](https://open.spotify.com/artist/37ZY7eIcTT28id2jfq8WYw) | [Can't Nobody \(From "A Good Day to be a Dog" Original Television Sountrack, Pt\. 1\)](https://open.spotify.com/album/3JZa4AaoddRiHoG741c3bf) | 2:57 |
 | 17 | [Like a Neighbor](https://open.spotify.com/track/0jTkMJs9sUY3IAXNLfaDqh) | [Yun DDanDDan](https://open.spotify.com/artist/0fnx3yyvXH5E0UATpygzzt) | [Like Good Neighbors OST](https://open.spotify.com/album/6SQnmOQOCVoHKGtBkpuZUV) | 3:14 |
 | 18 | [My Song](https://open.spotify.com/track/428XOGB2hGO7eBdWZG5c8x) | [5moon](https://open.spotify.com/artist/4akR4qv87vt6Fuqe0OuPc6) | [Twinkling Watermelon \(Original Television Soundtrack\) Pt\. 8](https://open.spotify.com/album/6cH55kGXjEjFw4VkOFkQ5w) | 4:06 |
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ohL85TE8TI.md) - [plain]
 | 104 | [wander](https://open.spotify.com/track/5gzuXMBkHADurR2quS47Dg) | [Mew](https://open.spotify.com/artist/4Y74dNwvq5TMzDHMtlcmYI) | [Romance by Romance \(Original Television Soundtrack\) Pt\. 2](https://open.spotify.com/album/6w4JkTuZJG5jo0IbORpCjC) | 4:07 |
 | 105 | [cracked](https://open.spotify.com/track/2HlTb0DQEKxcr2755iNRzh) | [DONGHAE](https://open.spotify.com/artist/4TSRZ3mVg0Lu0qmtJPiPEY) | [Oh! Youngsim Pt\. 2 \(Original Soundtrack\)](https://open.spotify.com/album/5dtQrhiiDad61r0TQq2Jlm) | 3:42 |
 
-Snapshot ID: `MCw4M2Y4Y2Q2Mzc5MDM3YmZjZWE1MDdjNjg2ODUwZDE4NDMyNjMzMTdm`
+Snapshot ID: `MCw2MDZlNzU5ZDg4ODVmYWRmMDFkYmVmYTNkMzY4NDJlMzljNmJiODU3`

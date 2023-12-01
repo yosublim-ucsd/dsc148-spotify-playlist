@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3N4mXY2MuSz.md) - [plain]
 
 > Holiday classics from your favourite punks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,355 likes - 100 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,787 likes - 100 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3N4mXY2MuSz.md) - [plain]
 | 99 | [Christmas Time Again](https://open.spotify.com/track/6ZBiqkomTsOLCAdblXZYH1) | [Amely](https://open.spotify.com/artist/6AjPiGacexlUKYQ3dePBjv) | [Christmas Time Again](https://open.spotify.com/album/1v4pc6q6grWqB4MO4uTlSH) | 4:09 |
 | 100 | [Lonely This Christmas](https://open.spotify.com/track/2Wln4Uit6bhUFT80kFmvFU) | [Traitors!](https://open.spotify.com/artist/5bZenVzKn4ZXbPWRNL7YAy) | [It's Better to Give Than Receive](https://open.spotify.com/album/4cT4OTGawl9xdboA8qWOhq) | 2:38 |
 
-Snapshot ID: `MCxjZjQ3MThkYzNiMWIzODZjZjdjMzViMzg5OGRlZmI0NGUzNjQ3MTg5`
+Snapshot ID: `MCxjYWJmMzhkZDhmMThiODA2ZmVmYzQ5Y2IxYzNhNWI3YWFlNzllYzAz`

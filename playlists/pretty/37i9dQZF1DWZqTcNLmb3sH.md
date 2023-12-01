@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqTcNLmb3sH.md) - [plain]
 
 > Check out the latest hits from Sandalwood!<br/>Cover : Sapta Sagaradaache Ello \- Side B
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,934 likes - 75 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,948 likes - 74 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,6 +82,5 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqTcNLmb3sH.md) - [plain]
 | 72 | [Samayave Saaladu](https://open.spotify.com/track/3XRMSg7cT5tgrzkRFYDDpE) | [Asha Bhat](https://open.spotify.com/artist/6cYELvB5Xi5UqGzitD1U96), [Kalyan Manjunath](https://open.spotify.com/artist/35Wzhm2uv7DeqM1xRQwcU6) | [Samayave Saaladu](https://open.spotify.com/album/6MlNNbgEbayMwkaLyZygar) | 4:55 |
 | 73 | [Yenidhu Hosa](https://open.spotify.com/track/3lgCFLGxttkoHVcMn0greF) | [Greeshma Tharavath](https://open.spotify.com/artist/38S7LZ9z3t1xYe8DLomnRY) | [Preetisabeda](https://open.spotify.com/album/5VrpAmC4Gz3hRShKLhmtxm) | 3:13 |
 | 74 | [Luv You Shankar \- Title Track \(Kannada\) \(From "Luv You Shankar"\)](https://open.spotify.com/track/5USiyt3zwXbm600onq3ijN) | [Vardan Singh](https://open.spotify.com/artist/4yeoysFmRgrJrMYtLlA7mF), [Shridevi Kalladka](https://open.spotify.com/artist/0aPeKQSd30fMdO5Nf4dqBh) | [Luv You Shankar \- Title Track \(Kannada\) \(From "Luv You Shankar"\)](https://open.spotify.com/album/2yVaS7goQ1uIxlLEkz9vWQ) | 3:57 |
-| 75 | [Hosa Vibe](https://open.spotify.com/track/4hLszBKKfmlSofhMcV4kZs) | [Nihal Tauro](https://open.spotify.com/artist/64KzOsbd6ajeLLswNgJ8RF), [Ritvik Muralidhar](https://open.spotify.com/artist/6WCsxUetmUxK3BinjpKIDH) | [Baang \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1lrjXieYG5pNO0ubgiCJDp) | 3:08 |
 
-Snapshot ID: `MCw4ZDcxOTQxMWFlZTA3OTdjNTZmNzBiNWMxZTBjMDY5ZmM0NjU1ZDU3`
+Snapshot ID: `MCwxMTQwYmU4Njg2OTBlN2ZhMzE2NjQzYTg1NzQ1MDU1NzcwODYyMTU0`

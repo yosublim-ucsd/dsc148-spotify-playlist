@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxoleDT3ILq.md) - [plain]
 
 > Todo el sonido indie de Chile\. Foto: Estoy Bien
 
-[Spotify](https://open.spotify.com/user/spotify) - 127,573 likes - 100 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 127,599 likes - 100 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxoleDT3ILq.md) - [plain]
 | 99 | [Que no se corte la cadena](https://open.spotify.com/track/5j2f1ZYDqLjUsePKpokkkg) | [Pedropiedra](https://open.spotify.com/artist/0WCbmGMzwvFFx0JT8k7THP) | [Que no se corte la cadena](https://open.spotify.com/album/70PkbVHGZ1OLMRTlSQ6aYu) | 2:36 |
 | 100 | [cuando pienses en el destino](https://open.spotify.com/track/6eGkYDbB2e5LOZ4jBnlfdS) | [gabriela arcos](https://open.spotify.com/artist/3SdRPRuSNLp9lj06iZuQlx) | [quién llama a esta hora](https://open.spotify.com/album/0kxhAbkGpkSqxQCV7Z1hzJ) | 3:45 |
 
-Snapshot ID: `MCw2NmVjMDRhOTYyMmJhOTYyMWEzNGI2ZDVjNjM3YzgzMjhmZGYxOTEx`
+Snapshot ID: `MCw3NGJmY2I2MzdjZWJhNGQ4OThjNzdjZDA4NGZiOTQxMDBjNzFhYzcw`

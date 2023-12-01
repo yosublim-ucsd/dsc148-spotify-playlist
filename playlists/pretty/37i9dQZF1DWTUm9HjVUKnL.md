@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTUm9HjVUKnL.md) - [plain]
 
 > The full collection of Spotify Singles recordings\. Cover: Sabrina Carpenter
 
-[Spotify](https://open.spotify.com/user/spotify) - 218,784 likes - 912 songs - 2 day 7 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 218,800 likes - 912 songs - 2 day 7 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,7 +94,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTUm9HjVUKnL.md) - [plain]
 | 84 | [Guess Who I Saw Today \- Spotify Singles](https://open.spotify.com/track/4y8HI6WI29umdAguVPwFpu) | [Samara Joy](https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq) | [Spotify Singles](https://open.spotify.com/album/6nsgXwSLcvYXr4RF2JiN7z) | 6:08 |
 | 85 | [Someone Like You \- Spotify Singles](https://open.spotify.com/track/2t96CFKbjUUd6Fc1OXQiKv) | [Samara Joy](https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq) | [Spotify Singles](https://open.spotify.com/album/6nsgXwSLcvYXr4RF2JiN7z) | 5:21 |
 | 86 | [I Choose You \- Spotify Singles](https://open.spotify.com/track/66nLILdBX8n6ODaN2PYok0) | [Tobe Nwigwe](https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3) | [Spotify Singles](https://open.spotify.com/album/6cZYUit3dBM00CccH1WNAZ) | 3:54 |
-| 87 | [Doo Wop \(That Thing\) \- Spotify Singles](https://open.spotify.com/track/0D9OkPTPIn9QkDucglW4DS) | [Tobe Nwigwe](https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3) | [Spotify Singles](https://open.spotify.com/album/6cZYUit3dBM00CccH1WNAZ) | 4:55 |
+| 87 | [Doo Wop \(That Thing\) \- Spotify Singles](https://open.spotify.com/track/17wO4MVncoihafFeQ1Su7o) | [Tobe Nwigwe](https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3) | [Spotify Singles](https://open.spotify.com/album/6hT8SzWxxk6skgXDAa7cVG) | 4:55 |
 | 88 | [help herself \(dnb remix\) \- spotify single](https://open.spotify.com/track/79tCD94biwEmzQ3g0Yqe5c) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz) | [spotify singles](https://open.spotify.com/album/4TXQYn8IgpqEsCsvSXiHTC) | 3:06 |
 | 89 | [feel good inc \(bbno$ re\-finessed\) \- spotify single](https://open.spotify.com/track/4NRCIrvUCK8KBn4RXOB0Fa) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz) | [spotify singles](https://open.spotify.com/album/4TXQYn8IgpqEsCsvSXiHTC) | 3:28 |
 | 90 | [hide and seak](https://open.spotify.com/track/68pQs9zjJNKUr09DVITaaG) | [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3) | [Spotify Singles](https://open.spotify.com/album/38GPVZYcg9yZWZQOLFn3NP) | 3:15 |
@@ -921,4 +921,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTUm9HjVUKnL.md) - [plain]
 | 911 | [Way down We Go \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/3inSmIa388icRdpDi5ecJd) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [Spotify Singles](https://open.spotify.com/album/0ePAbfGZqHBfhlQfX8ioGz) | 3:13 |
 | 912 | [All the Pretty Girls \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/2Sqv9Ne6ibOZsKxY7o0t6t) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [Spotify Singles](https://open.spotify.com/album/0ePAbfGZqHBfhlQfX8ioGz) | 5:07 |
 
-Snapshot ID: `MCw1NTA3Y2Y3NDM3MDdiYjZmMzMzOGRiNmVmOGJmN2ZjZTg0ZTA4Mzc5`
+Snapshot ID: `MCw1ODM2ZDc4M2U5Y2VjZWNjMzA5OTk5MjNjN2Q3MmQ4M2YxNGU2ZmM1`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXKWi9FunemC.md) - [plain]
 
 > Sometimes upbeat, sometimes chill, these songs will encourage you and warm your heart and soul.
 
-[Spotify](https://open.spotify.com/user/spotify) - 245,835 likes - 100 songs - 7 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 246,023 likes - 100 songs - 7 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXKWi9FunemC.md) - [plain]
 | 99 | [Thank God I Do](https://open.spotify.com/track/1V89zM9vgYVK4wyuasc74p) | [Caleb and Kelsey](https://open.spotify.com/artist/7l0sphz32GV0AjjEhECpVg) | [Thank God I Do](https://open.spotify.com/album/0E1Ip2z8HR4ZYobvGTSlbJ) | 2:49 |
 | 100 | [Up Again \(Acoustic Mix\)](https://open.spotify.com/track/0P7JFcfRbg69vyuVkMIori) | [Dan Bremnes](https://open.spotify.com/artist/235ZVf4thM2FFfyE4ACwB3), [Love & The Outcome](https://open.spotify.com/artist/1xU1V8I8pFrMOjtuSmjPBs) | [Up Again \(Acoustic Mix\)](https://open.spotify.com/album/6bxngQfzDAqyDJfjD7ynEq) | 3:33 |
 
-Snapshot ID: `MCw3OGYxZGFkNTk5ZTBhYTkwMTY0YTI1OGE5MmJjMGZkMDFiZTNmOWM1`
+Snapshot ID: `MCxkOTg1OTJiZTA4MjkxMzkwOGVkZjhlNzhjMWM3NWU3YzkyMDc2OGUz`

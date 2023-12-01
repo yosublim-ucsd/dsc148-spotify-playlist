@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5IOhx43PGIa.md) - [plain]
 
 > Illuminating Asian artists everywhere\. Cover: thuy.
 
-[Spotify](https://open.spotify.com/user/spotify) - 281,378 likes - 150 songs - 7 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 281,400 likes - 150 songs - 7 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5IOhx43PGIa.md) - [plain]
 | 149 | [If It's Time](https://open.spotify.com/track/6tl3V3Br8AFYE6q9khDdR6) | [Simu Liu](https://open.spotify.com/artist/50cRZOl5AL13akHdLc7nfP) | [If It's Time](https://open.spotify.com/album/2PgVfs8f6XAgI5AAdvirWW) | 2:47 |
 | 150 | [Flying Fish](https://open.spotify.com/track/5DGHfcMOCzfxiJnhybJHov) | [Sion](https://open.spotify.com/artist/2dEBKqLtvdFTnPcwpWEw0r) | [Flying Fish](https://open.spotify.com/album/2Q5XpQhGIyRB5TUHTqkWQl) | 3:01 |
 
-Snapshot ID: `MCwzNTllNzM0MTRjOGE1YWNlOGFiNDIxNzExYzY0NGRmMGMzZjI0NDQ4`
+Snapshot ID: `MCwxMzA4NzQ1NzA4ZTk1ODYyMmE3NTllOGI4NTRjNDEwYzVlZDVlYWM2`

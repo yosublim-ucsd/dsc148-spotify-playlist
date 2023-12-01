@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5T5XRP5VmUL.md) - [plain]
 
 > Dreaming of a white Christmas ✨❄️
 
-[Spotify](https://open.spotify.com/user/spotify) - 140,412 likes - 100 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 140,911 likes - 100 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5T5XRP5VmUL.md) - [plain]
 | 99 | [Sleigh Ride](https://open.spotify.com/track/6IXWwaxcBVLqSbU39Pqc19) | [Tim & The Glory Boys](https://open.spotify.com/artist/2TWquaofWA67mGmfN72csX) | [Sleigh Ride](https://open.spotify.com/album/76ZALfjfhhwd6WPW1JBhop) | 3:05 |
 | 100 | [Don't Hang The Mistletoe](https://open.spotify.com/track/2rosR0KdbTVUxuHuyPrhwG) | [Jojo Mason](https://open.spotify.com/artist/4IXAxCHuarvDtv7K0NS6x6) | [Don't Hang The Mistletoe](https://open.spotify.com/album/6zV0d09NsO7mGzIQAfiG4l) | 3:17 |
 
-Snapshot ID: `MCwyMDUzZTg2NDc4NTI5MWFhOWIxNzA3NzZlZTIxMmEyNzM1MTI1NzA5`
+Snapshot ID: `MCw4NzQzNjc1MjkyMGYxYTM4OTNjMWQ3OTUzMjQwMTAzZDkwZThiMmNh`

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Greece.
 
-1,352 songs - 3 day 0 hr 13 min
+1,353 songs - 3 day 0 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -441,6 +441,7 @@
 | [FRONTLINE](https://open.spotify.com/track/6CxQTTHKyP7Q07UilBO2AJ) | [RICTA](https://open.spotify.com/artist/4YiKEuOS5GwMujJMkIPGFN), [Night Grind](https://open.spotify.com/artist/4VMldqLa3majLarabWzuqk) | [BLESSED](https://open.spotify.com/album/4Q9oW9CToVGcsXmkgj1ykP) | 2:20 | 2023-05-13 | 2023-05-15 |
 | [FUCK DA POLICE](https://open.spotify.com/track/3BR2NAfPKrRaDPZ1SgIegf) | [RICTA](https://open.spotify.com/artist/4YiKEuOS5GwMujJMkIPGFN), [DJ.Silence](https://open.spotify.com/artist/4lpfvtAHLELZcezTOUHiQX) | [BLESSED](https://open.spotify.com/album/4Q9oW9CToVGcsXmkgj1ykP) | 2:47 | 2023-05-13 | 2023-06-14 |
 | [FUCK DA POLICE](https://open.spotify.com/track/6yyMD0sKGOovYrRaE1td8w) | [RICTA](https://open.spotify.com/artist/4YiKEuOS5GwMujJMkIPGFN), [DJ.Silence](https://open.spotify.com/artist/4lpfvtAHLELZcezTOUHiQX) | [FUCK DA POLICE](https://open.spotify.com/album/7wekxsnr8XwGU3TDRYBqG3) | 2:47 | 2023-01-25 | 2023-05-14 |
+| [Fuck The School](https://open.spotify.com/track/0TBGCEhZxqqJRn4L2VJAvc) | [Ross](https://open.spotify.com/artist/6edzJucoybDcMLdMYf8dTp), [Trannos](https://open.spotify.com/artist/6WzxopGY3sy97IeNFaDELc) | [Fuck The School](https://open.spotify.com/album/3siACYVOYE5UqIio3YM4tZ) | 2:30 | 2023-11-30 |  |
 | [FUEGO](https://open.spotify.com/track/6Z8QEJb16AegtjLQxHGBCe) | [RICTA](https://open.spotify.com/artist/4YiKEuOS5GwMujJMkIPGFN), [DJ.Silence](https://open.spotify.com/artist/4lpfvtAHLELZcezTOUHiQX) | [33:22](https://open.spotify.com/album/3Gsx4TDvO8KoZADPJxFEMO) | 2:46 | 2021-08-15 | 2021-08-19 |
 | [FUEGO](https://open.spotify.com/track/1HHcbLnFA4YHyh4a4tsCz3) | [RICTA](https://open.spotify.com/artist/4YiKEuOS5GwMujJMkIPGFN), [Kidd](https://open.spotify.com/artist/1RqOmrtivmvKrfBO81j1ou), [DJ.Silence](https://open.spotify.com/artist/4lpfvtAHLELZcezTOUHiQX) | [BLESSED](https://open.spotify.com/album/4Q9oW9CToVGcsXmkgj1ykP) | 2:19 | 2023-05-13 | 2023-05-21 |
 | [fukumean](https://open.spotify.com/track/4rXLjWdF2ZZpXCVTfWcshS) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [a Gift & a Curse](https://open.spotify.com/album/5qmZefgh78fN3jsyPPlvuw) | 2:05 | 2023-07-27 | 2023-10-14 |
@@ -1148,7 +1149,7 @@
 | [Streets](https://open.spotify.com/track/60ynsPSSKe6O3sfwRnIBRf) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Hot Pink](https://open.spotify.com/album/1MmVkhiwTH0BkNOU3nw5d3) | 3:46 | 2021-03-27\* | 2021-05-13 |
 | [Streets](https://open.spotify.com/track/10qewxzlAxbIdAdoDZPYbb) | [Mad Clip](https://open.spotify.com/artist/3KcZf8BFeFBtnGyOZmUggd), [Display](https://open.spotify.com/artist/2h5alBjyxfubD2ci4vSc28) | [Money and Drugs Can't Live In Poverty](https://open.spotify.com/album/4Q0nPhizN3vwTyzlvskQkC) | 3:28 | 2022-04-29 | 2022-05-26 |
 | [Streets Remix](https://open.spotify.com/track/1Wf2i5sk4zHhh0YbvYXBYN) | [Mad Clip](https://open.spotify.com/artist/3KcZf8BFeFBtnGyOZmUggd), [Trannos](https://open.spotify.com/artist/6WzxopGY3sy97IeNFaDELc), [Billy Sio](https://open.spotify.com/artist/29Bl0nvClztM0dpgY2vvcc) | [Money and Drugs Can't Live In Poverty](https://open.spotify.com/album/4Q0nPhizN3vwTyzlvskQkC) | 4:21 | 2022-04-29 | 2022-05-17 |
-| [Stress](https://open.spotify.com/track/3iMoGTwFBESWpqyrpsIO41) | [Mel](https://open.spotify.com/artist/0fo4hbtY8v9248tMgaR8i3), [Light](https://open.spotify.com/artist/1UdbiTrv73Dp7F0s3OHmn2) | [Stress](https://open.spotify.com/album/1Cg5PPGDUYBf0YaVxlFJ6g) | 3:45 | 2023-11-18 |  |
+| [Stress](https://open.spotify.com/track/3iMoGTwFBESWpqyrpsIO41) | [Mel](https://open.spotify.com/artist/0fo4hbtY8v9248tMgaR8i3), [Light](https://open.spotify.com/artist/1UdbiTrv73Dp7F0s3OHmn2) | [Stress](https://open.spotify.com/album/1Cg5PPGDUYBf0YaVxlFJ6g) | 3:45 | 2023-11-18 | 2023-12-01 |
 | [Stripclub](https://open.spotify.com/track/2Q3nTwMgXiVN5x9eAowbJJ) | [Roi 6/12](https://open.spotify.com/artist/1yBH6dqnD6xzSeCjXp9pKm) | [Stripclub \- Jimmy Choo](https://open.spotify.com/album/2IsryOQ53jlJXySKSghYXW) | 2:36 | 2023-09-02 | 2023-09-20 |
 | [Strippers](https://open.spotify.com/track/21XpNalPqaFWQD0SwpIH8S) | [Light](https://open.spotify.com/artist/1UdbiTrv73Dp7F0s3OHmn2), [1.Cuz](https://open.spotify.com/artist/5uvOG0MwnD2ANrxNBUPtNr) | [Strippers](https://open.spotify.com/album/2xXJ2jo6EKnvHCxe8Cgeeh) | 3:34 | 2023-04-08 | 2023-04-30 |
 | [STUDIO](https://open.spotify.com/track/6J6eNH31w5lmmx0pP5kaDs) | [ATC Nico](https://open.spotify.com/artist/1uENJBsvFjDUv7OrH3DaKR), [Trannos](https://open.spotify.com/artist/6WzxopGY3sy97IeNFaDELc), [Evan Spikes](https://open.spotify.com/artist/6p5qNRLXkVrmKVRPMaL6qP) | [STUDIO](https://open.spotify.com/album/5vcn2sepkT73D9PsAEUWWY) | 3:13 | 2022-07-02 | 2022-07-04 |

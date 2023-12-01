@@ -667,6 +667,24 @@
     },
     {
       "album": {
+        "name": "Dance All Day",
+        "url": "https://open.spotify.com/album/2lsdUrUduc391Eo4spdmWq"
+      },
+      "artists": [
+        {
+          "name": "Grafix",
+          "url": "https://open.spotify.com/artist/27YdXZOMLqvxI2pB5GyqyY"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223448,
+      "name": "Dance All Day",
+      "url": "https://open.spotify.com/track/2hXyNPbdCnQd5ZkHlBJh3k"
+    },
+    {
+      "album": {
         "name": "Dancing in the Dark",
         "url": "https://open.spotify.com/album/35bk4rPp9c8t7wEmXgrBFU"
       },
@@ -766,7 +784,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 204364,
       "name": "Do It Like Me",
       "url": "https://open.spotify.com/track/0X0owov4FrtP6JpK1rMuTZ"
@@ -788,6 +806,24 @@
       "duration_ms": 274292,
       "name": "Don't Let Go",
       "url": "https://open.spotify.com/track/2s2uRehkP1H5jqzwiiD8PI"
+    },
+    {
+      "album": {
+        "name": "Don't Stop",
+        "url": "https://open.spotify.com/album/0PPTQ6w442u34twxct76hc"
+      },
+      "artists": [
+        {
+          "name": "MUZZ",
+          "url": "https://open.spotify.com/artist/4UNnRb4LN2hGtbtMfPzMhg"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176914,
+      "name": "Don't Stop",
+      "url": "https://open.spotify.com/track/77Dn9E3WFNMzZGq7K1J6rR"
     },
     {
       "album": {
@@ -1174,7 +1210,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 271724,
       "name": "Hands Up",
       "url": "https://open.spotify.com/track/3xHyg6aNGOQawpeKeI1rFK"
@@ -1222,7 +1258,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-17",
+      "date_removed": null,
       "duration_ms": 241687,
       "name": "Headshot",
       "url": "https://open.spotify.com/track/69rb5Dk1Ivg386QQhyzrUX"
@@ -1284,7 +1320,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-29",
+      "date_removed": null,
       "duration_ms": 275862,
       "name": "High Roller",
       "url": "https://open.spotify.com/track/7DHBGIYp3wvsjtetJEpCHZ"
@@ -1336,6 +1372,28 @@
       "duration_ms": 219428,
       "name": "Hurt - Kendrick Remix",
       "url": "https://open.spotify.com/track/2G7P0r5rDpLHheJ0IN2CYc"
+    },
+    {
+      "album": {
+        "name": "I Don't Care",
+        "url": "https://open.spotify.com/album/139LIUJAUK7gbIuVr6gPSD"
+      },
+      "artists": [
+        {
+          "name": "FooR",
+          "url": "https://open.spotify.com/artist/0TgZuVgRBjg6iLkZafbfmr"
+        },
+        {
+          "name": "Ellie Evans",
+          "url": "https://open.spotify.com/artist/1Wy1TkDGbOlLxEwNVD9BKE"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187506,
+      "name": "I Don't Care",
+      "url": "https://open.spotify.com/track/1hti59rRsgErr8lhgMMHK7"
     },
     {
       "album": {
@@ -1394,7 +1452,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 364137,
       "name": "IMPULSE",
       "url": "https://open.spotify.com/track/1IHvLqS4SGHGoYpSZ4HX1K"
@@ -2022,7 +2080,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 270344,
       "name": "Nerd Starter Pack",
       "url": "https://open.spotify.com/track/3gMnzlM0E8z3RWFgRKGdhd"
@@ -2138,7 +2196,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 223448,
       "name": "Offender",
       "url": "https://open.spotify.com/track/39dkTH7uL26INRkJYxmPmz"
@@ -2318,6 +2376,24 @@
       "duration_ms": 237241,
       "name": "Reach Out",
       "url": "https://open.spotify.com/track/6OJDAylrlh1vl7effyxQio"
+    },
+    {
+      "album": {
+        "name": "Relapse EP",
+        "url": "https://open.spotify.com/album/3wIQC4FvRJKmrURVUwEVEV"
+      },
+      "artists": [
+        {
+          "name": "Skepsis",
+          "url": "https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263250,
+      "name": "Relapse",
+      "url": "https://open.spotify.com/track/75djESsa5AqCcroqOkkxsv"
     },
     {
       "album": {
@@ -2898,7 +2974,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 176914,
       "name": "The Weekend - Bou Remix",
       "url": "https://open.spotify.com/track/0bHzvICBdoUXsG4D0IntMb"

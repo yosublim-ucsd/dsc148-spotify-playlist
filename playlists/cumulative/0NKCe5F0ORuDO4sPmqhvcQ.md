@@ -4,7 +4,7 @@
 
 > selects from music we've been listening to @ Moving Castle\. Manila Killa's album, Dusk drops July 21st!
 
-557 songs - 1 day 7 hr 23 min
+558 songs - 1 day 7 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -216,6 +216,7 @@
 | [Halo](https://open.spotify.com/track/5CvVWD27KlJNkvzDLU1zPS) | [Hotel Garuda](https://open.spotify.com/artist/73tITL3u5T35u309PLpN6K) | [Halo](https://open.spotify.com/album/1aY0os7oA39KJiT4cfWf6x) | 3:46 | 2022-06-30 | 2023-10-06 |
 | [Handyman](https://open.spotify.com/track/4wykWbZswhsDAhiCaSdN9F) | [Teezo Touchdown](https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36) | [Handyman](https://open.spotify.com/album/583KpgaKbGKj6XqMjhfE4h) | 3:06 | 2022-02-28 | 2022-03-31 |
 | [Haunted](https://open.spotify.com/track/6OhmXq1u2nB8Wrm5wuPrqs) | [4B](https://open.spotify.com/artist/0LIl9fjMPEZp8UDiL8Yuo4) | [Haunted](https://open.spotify.com/album/25az9xpMDxpmAzCTCwX7hf) | 2:35 | 2023-10-20 |  |
+| [haze](https://open.spotify.com/track/2HfWwr1FyagotRzp7RDEms) | [Houis](https://open.spotify.com/artist/3bjJEXLyXKBFUx6MOj3wlF), [WEI](https://open.spotify.com/artist/2jOSQFHIeUc2OcPx8tSaTw), [JVLY](https://open.spotify.com/artist/52flspAUwzY59cow3QC53f) | [haze](https://open.spotify.com/album/13WO7BXMhRBtl19YlBpIBi) | 3:05 | 2023-11-30 |  |
 | [Head Low](https://open.spotify.com/track/0fJyqGqEJ2ljF9OVOhZi2K) | [Pritty](https://open.spotify.com/artist/1vJZhbUzq6DxjIxtikFk1v) | [Black Zebra](https://open.spotify.com/album/5bYDboirUS3rp1FhFSVcqE) | 2:24 | 2021-11-23 |  |
 | [Head Rush](https://open.spotify.com/track/6P7hgOGUCwxwMSBD2U5TaW) | [Benji Lewis](https://open.spotify.com/artist/1BPsbKiNgav1TY1ITIU8C5) | [Head Rush](https://open.spotify.com/album/4vusfXlDX1OWRRO3rfAJyq) | 2:32 | 2022-03-24 | 2022-04-19 |
 | [Headlights](https://open.spotify.com/track/3OLuiRmi5DtpHq8SZiCtW3) | [Snavs](https://open.spotify.com/artist/4xFadP7L1YVwVSjDDfjKjM), [John Alto](https://open.spotify.com/artist/0Xff4zAFYF0bHwnkSMlHCj) | [Headlights](https://open.spotify.com/album/7Fixp63EZJVwpQduqCJCBi) | 2:20 | 2023-09-25 | 2023-10-06 |

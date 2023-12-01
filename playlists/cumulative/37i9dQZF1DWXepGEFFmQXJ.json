@@ -77,6 +77,24 @@
     },
     {
       "album": {
+        "name": "3 Feet Tall",
+        "url": "https://open.spotify.com/album/4nh0KuO11MpP06u2P165QJ"
+      },
+      "artists": [
+        {
+          "name": "Cole Swindell",
+          "url": "https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222906,
+      "name": "3 Feet Tall",
+      "url": "https://open.spotify.com/track/2gwrfZzOjAinobFoOiy1T2"
+    },
+    {
+      "album": {
         "name": "5 Foot 9",
         "url": "https://open.spotify.com/album/5CTNA7y4WYhLcCd8ijsnRr"
       },
@@ -312,6 +330,24 @@
       "duration_ms": 198746,
       "name": "Ain't Goin' Home",
       "url": "https://open.spotify.com/track/4HpMCEkK2bAYTsIaMnVfsc"
+    },
+    {
+      "album": {
+        "name": "Ain't That The Way",
+        "url": "https://open.spotify.com/album/23q6Juae8S4qOuaQuhvskP"
+      },
+      "artists": [
+        {
+          "name": "Sammy White",
+          "url": "https://open.spotify.com/artist/3H2uDUlFVxsrI8wqBOIGEP"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190468,
+      "name": "Ain't That The Way",
+      "url": "https://open.spotify.com/track/5IF3W8ogC5kVT0N5wi7J5i"
     },
     {
       "album": {
@@ -1394,6 +1430,24 @@
       "duration_ms": 208987,
       "name": "Cheating On Me",
       "url": "https://open.spotify.com/track/42JCfqD9343rCiDTVwX30J"
+    },
+    {
+      "album": {
+        "name": "Any Less Anymore",
+        "url": "https://open.spotify.com/album/7kzmnHQbgOfSfAl5oYw0w5"
+      },
+      "artists": [
+        {
+          "name": "Travis Collins",
+          "url": "https://open.spotify.com/artist/1hB4sZ49ocIuwxPEBIV35m"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186871,
+      "name": "Chill",
+      "url": "https://open.spotify.com/track/1kTYELly3Zlf2zFWFu2oW4"
     },
     {
       "album": {
@@ -8170,6 +8224,24 @@
       "duration_ms": 171210,
       "name": "This Night Forever",
       "url": "https://open.spotify.com/track/1n3xrPkzczwahhYRKLvBRj"
+    },
+    {
+      "album": {
+        "name": "This Ol' Rodeo",
+        "url": "https://open.spotify.com/album/1yjrPK4BGFnfdZWmJpypsl"
+      },
+      "artists": [
+        {
+          "name": "Chayce Beckham",
+          "url": "https://open.spotify.com/artist/5ujvZU2thXjZgFKPUt1rDt"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258680,
+      "name": "This Ol' Rodeo",
+      "url": "https://open.spotify.com/track/4IhE9UIoeY1kzdIEJk5AfF"
     },
     {
       "album": {

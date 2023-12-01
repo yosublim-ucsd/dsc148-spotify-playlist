@@ -2,9 +2,9 @@
 
 ### [Int 'o Rione](https://open.spotify.com/playlist/37i9dQZF1DWYrg01Xmlew6)
 
-> Rap napoletano e il meglio della scena campana\. Geolier in cover.
+> Rap napoletano e il meglio della scena campana\. MV Killa in cover.
 
-261 songs - 12 hr 14 min
+262 songs - 12 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -127,6 +127,7 @@
 | [Mancav L'Aria](https://open.spotify.com/track/3bBflboYir1YamBJMVtBfZ) | [Henry Santan](https://open.spotify.com/artist/0o65LBM6mKwJEnMLpzdJSl), [JUNIOR](https://open.spotify.com/artist/5ijJ38xKUJfB5uhsEAg29W), [Murzett](https://open.spotify.com/artist/1BLdIHxq199j2K22h6zMWg) | [Tempo Al Tempo](https://open.spotify.com/album/1iiVXwsx3gbUUwoCg76npB) | 3:06 | 2023-05-04 | 2023-05-12 |
 | [Manteng A Calm](https://open.spotify.com/track/3HclkcB9MLNng9O5OrHbsW) | [Mooncler](https://open.spotify.com/artist/0BDxLYk6ELncPbNil9xCj7), [Rafilù](https://open.spotify.com/artist/3ylMgftNTGy7cZgkWL82fJ) | [Malalengua](https://open.spotify.com/album/4Vy5cYYQABxe0zZaCgU2bC) | 2:33 | 2023-06-08 | 2023-07-21 |
 | [MARADONA](https://open.spotify.com/track/1Bf3WnU7Y6YGP0k4RbbErB) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s) | [IL CORAGGIO DEI BAMBINI](https://open.spotify.com/album/5FAlSQMZ4j8pPa4sp0ZB4K) | 2:42 | 2023-01-06 | 2023-03-25 |
+| [MAY DAY](https://open.spotify.com/track/6t6x5aKlmeTXTQ0OlYr9lg) | [MV Killa](https://open.spotify.com/artist/0QqmgpgI0C1DyyDk49vnxY) | [MAY DAY](https://open.spotify.com/album/6ltDgsMJDZ9NU90XOc6TpP) | 2:46 | 2023-11-30 |  |
 | [ME STAJE APPENNENN' AMÒ](https://open.spotify.com/track/6ZeuLKwFxg10M4DhJPBjNm) | [LIBERATO](https://open.spotify.com/artist/4X89u81dkCXBSGo8i2DhMW) | [LIBERATO](https://open.spotify.com/album/6nuNEPqjdcumKXE0Nd99Wr) | 5:06 | 2022-05-10 | 2023-10-27 |
 | [ME VOGL BENE \(feat\. Geolier\)](https://open.spotify.com/track/6fJBFIo43hyaij2dWl7L6f) | [MV Killa](https://open.spotify.com/artist/0QqmgpgI0C1DyyDk49vnxY), [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s) | [ME VOGL BENE \(feat\. Geolier\)](https://open.spotify.com/album/5zRsIaSAVqjaskO9aH851E) | 3:06 | 2023-04-20 |  |
 | [ME VULEV FA RUOSS](https://open.spotify.com/track/5ZBIeRCyYvb0nGEtsvuth8) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s) | [IL CORAGGIO DEI BAMBINI](https://open.spotify.com/album/5FAlSQMZ4j8pPa4sp0ZB4K) | 2:53 | 2023-03-23 |  |
@@ -196,7 +197,7 @@
 | [PUORTEM RISPETT](https://open.spotify.com/track/0dT9EbREPPOhKlGTPN377A) | [MV Killa](https://open.spotify.com/artist/0QqmgpgI0C1DyyDk49vnxY) | [FEDE](https://open.spotify.com/album/2eV25SPEQ57dzp4Qs9FonT) | 3:25 | 2023-04-27 | 2023-05-19 |
 | [QUANNO ME NE SO JUTO, Pt\. II](https://open.spotify.com/track/0ZgM3SJ7xdLr0fj0l7lHN9) | [Kunta](https://open.spotify.com/artist/2yJDUGrAgtX7NyJ1RULAnX) | [QUANNO ME NE SO JUTO, Pt\. II](https://open.spotify.com/album/7tAZQpjOq08v3WE2IoEK3b) | 3:01 | 2023-04-13 | 2023-05-05 |
 | [RA SUL](https://open.spotify.com/track/0pwcRVxksO8iEAXjWsTd71) | [Vettosi](https://open.spotify.com/artist/0GaXpJSu3Ka0RPEVa35VPg), [Ceru167](https://open.spotify.com/artist/3XpabuerK4UATrLQKdE8S3) | [RA SUL](https://open.spotify.com/album/1ACfQpoG9EyNkg5yt8VyFD) | 2:28 | 2022-12-08 | 2023-01-13 |
-| [REPLAY \(feat\. CLARA\)](https://open.spotify.com/track/7kpOVh9aXFebATgVR5HGg7) | [MV Killa](https://open.spotify.com/artist/0QqmgpgI0C1DyyDk49vnxY), [CLARA](https://open.spotify.com/artist/6FPxOArEPVZUDv925qq8IQ) | [REPLAY \(feat\. CLARA\)](https://open.spotify.com/album/7zaIi38D3my8g10sIkaadq) | 2:44 | 2023-09-28 |  |
+| [REPLAY \(feat\. CLARA\)](https://open.spotify.com/track/7kpOVh9aXFebATgVR5HGg7) | [MV Killa](https://open.spotify.com/artist/0QqmgpgI0C1DyyDk49vnxY), [CLARA](https://open.spotify.com/artist/6FPxOArEPVZUDv925qq8IQ) | [REPLAY \(feat\. CLARA\)](https://open.spotify.com/album/7zaIi38D3my8g10sIkaadq) | 2:44 | 2023-09-28 | 2023-12-01 |
 | [Revenge \(feat\. Enzo Dong\)](https://open.spotify.com/track/5juO5QlcUYCwDEm8KG7V1x) | [Clementino](https://open.spotify.com/artist/0ba6wsfB7G2rhdHMebCdO3), [Enzo Dong](https://open.spotify.com/artist/7iCdyOeJYk06mKJ6nLrFQ6), [endly](https://open.spotify.com/artist/1cqb0IqRUO8HCpKFdMsdvI) | [Black Pulcinella](https://open.spotify.com/album/44BqX1Kc6bSgUb3SvWF0k6) | 3:09 | 2022-05-10 | 2022-09-02 |
 | [RFTS 2 \(Freestyle\)](https://open.spotify.com/track/0bhvxnFCiCm4p2iEdt2b5u) | [Vale Lambo](https://open.spotify.com/artist/26OG4ryQ7oFAbUNAvYCOgn) | [RFTS 2 \(Freestyle\)](https://open.spotify.com/album/2cgpTKFKtfQ52DYZnV6qJG) | 2:21 | 2022-05-10 | 2022-05-13 |
 | [RFTS 3: Transalp \(Freestyle\)](https://open.spotify.com/track/2ip5V8poyS2rkYlvfQ0mxw) | [Vale Lambo](https://open.spotify.com/artist/26OG4ryQ7oFAbUNAvYCOgn) | [RFTS 3: Transalp \(Freestyle\)](https://open.spotify.com/album/421OGAOihQdZuiXiVoCVV5) | 2:08 | 2022-05-12 | 2022-09-02 |

@@ -1,13 +1,29 @@
 {
   "description": "Go hard or go home. Cover: Kanine",
-  "num_followers": 51779,
+  "num_followers": 51816,
   "original_name": "Jump Up!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYTllZTE4ODcwMjg5OGYzZTg3ZGI4NmI0NjhkNmMyNTIxNTg0Y2Zm",
+  "snapshot_id": "MCxkYWRiZDVmN2ZhNmY2NzMyYzlhZmFmZTI3MmUwODI2ZWFiMzM1Y2Nl",
   "tracks": [
+    {
+      "added_at": "2023-12-01 00:01:00",
+      "album": {
+        "name": "Don't Stop",
+        "url": "https://open.spotify.com/album/0PPTQ6w442u34twxct76hc"
+      },
+      "artists": [
+        {
+          "name": "MUZZ",
+          "url": "https://open.spotify.com/artist/4UNnRb4LN2hGtbtMfPzMhg"
+        }
+      ],
+      "duration_ms": 176914,
+      "name": "Don't Stop",
+      "url": "https://open.spotify.com/track/77Dn9E3WFNMzZGq7K1J6rR"
+    },
     {
       "added_at": "2023-11-17 16:57:48",
       "album": {
@@ -33,48 +49,20 @@
       "url": "https://open.spotify.com/track/15BDY6GKFfk02WaoyytP9g"
     },
     {
-      "added_at": "2023-11-17 16:57:48",
+      "added_at": "2023-12-01 00:01:00",
       "album": {
-        "name": "No Warning (feat. Nathan Smoker)",
-        "url": "https://open.spotify.com/album/6YTh78z5vISxdh0blsF6WM"
+        "name": "Relapse EP",
+        "url": "https://open.spotify.com/album/3wIQC4FvRJKmrURVUwEVEV"
       },
       "artists": [
         {
-          "name": "James Hiraeth",
-          "url": "https://open.spotify.com/artist/13lPKi6IQrIyWyyovYUbtA"
-        },
-        {
-          "name": "Nathan Smoker",
-          "url": "https://open.spotify.com/artist/3nNXwfR504VYz5FoUdoYRN"
+          "name": "Skepsis",
+          "url": "https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC"
         }
       ],
-      "duration_ms": 171428,
-      "name": "No Warning (feat. Nathan Smoker)",
-      "url": "https://open.spotify.com/track/5pDC2piYrsuSIeEqiciB7B"
-    },
-    {
-      "added_at": "2023-11-17 16:57:48",
-      "album": {
-        "name": "The Weekend (Bou Remix)",
-        "url": "https://open.spotify.com/album/3XAKsF8KTg4Ete5WN3Hvso"
-      },
-      "artists": [
-        {
-          "name": "Stormzy",
-          "url": "https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd"
-        },
-        {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
-        },
-        {
-          "name": "Bou",
-          "url": "https://open.spotify.com/artist/35dxfY1wywqVRUEaVuMm13"
-        }
-      ],
-      "duration_ms": 176914,
-      "name": "The Weekend - Bou Remix",
-      "url": "https://open.spotify.com/track/0bHzvICBdoUXsG4D0IntMb"
+      "duration_ms": 263250,
+      "name": "Relapse",
+      "url": "https://open.spotify.com/track/75djESsa5AqCcroqOkkxsv"
     },
     {
       "added_at": "2023-11-17 16:57:48",
@@ -113,56 +101,20 @@
       "url": "https://open.spotify.com/track/65SsbtgsqPYv1p4Rq93fC9"
     },
     {
-      "added_at": "2023-11-17 16:57:48",
+      "added_at": "2023-12-01 00:01:00",
       "album": {
-        "name": "F*ck Jump Up (feat. B Live)",
-        "url": "https://open.spotify.com/album/1MPpDGXMybp6qXjA41frqh"
+        "name": "Dance All Day",
+        "url": "https://open.spotify.com/album/2lsdUrUduc391Eo4spdmWq"
       },
       "artists": [
         {
-          "name": "Bou",
-          "url": "https://open.spotify.com/artist/35dxfY1wywqVRUEaVuMm13"
-        },
-        {
-          "name": "B Live",
-          "url": "https://open.spotify.com/artist/5Dyi0c3gAWXi520W10rX1U"
+          "name": "Grafix",
+          "url": "https://open.spotify.com/artist/27YdXZOMLqvxI2pB5GyqyY"
         }
       ],
-      "duration_ms": 224914,
-      "name": "F*ck Jump Up (feat. B Live)",
-      "url": "https://open.spotify.com/track/0XaKIs5sTAhmhUfwsqTKiB"
-    },
-    {
-      "added_at": "2023-11-17 16:57:48",
-      "album": {
-        "name": "looking 4 me",
-        "url": "https://open.spotify.com/album/0KQfZKiNtU7gMdX9txha8j"
-      },
-      "artists": [
-        {
-          "name": "[IVY]",
-          "url": "https://open.spotify.com/artist/3bXszy3HMRqUhnON4Bpojw"
-        }
-      ],
-      "duration_ms": 147245,
-      "name": "looking 4 me",
-      "url": "https://open.spotify.com/track/5z0pJkbsGf6f95dKzd5OOk"
-    },
-    {
-      "added_at": "2023-11-17 16:57:48",
-      "album": {
-        "name": "Heaven",
-        "url": "https://open.spotify.com/album/5utKEyKtyUReHABwsSJtjV"
-      },
-      "artists": [
-        {
-          "name": "Tsuki",
-          "url": "https://open.spotify.com/artist/2yJbiseBZFvrCK5GueLnk7"
-        }
-      ],
-      "duration_ms": 205717,
-      "name": "Heaven",
-      "url": "https://open.spotify.com/track/29F8Xxbq2IVpb7GuyaCiiI"
+      "duration_ms": 223448,
+      "name": "Dance All Day",
+      "url": "https://open.spotify.com/track/2hXyNPbdCnQd5ZkHlBJh3k"
     },
     {
       "added_at": "2023-11-17 16:57:48",
@@ -187,38 +139,22 @@
     {
       "added_at": "2023-11-17 16:57:48",
       "album": {
-        "name": "Evolve",
-        "url": "https://open.spotify.com/album/6N2cAL092Va3dLV4wKWd6Y"
+        "name": "No Warning (feat. Nathan Smoker)",
+        "url": "https://open.spotify.com/album/6YTh78z5vISxdh0blsF6WM"
       },
       "artists": [
         {
-          "name": "Sub Focus",
-          "url": "https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO"
+          "name": "James Hiraeth",
+          "url": "https://open.spotify.com/artist/13lPKi6IQrIyWyyovYUbtA"
         },
         {
-          "name": "MC ID",
-          "url": "https://open.spotify.com/artist/71p78rJ0sEwTMlNjqln74R"
+          "name": "Nathan Smoker",
+          "url": "https://open.spotify.com/artist/3nNXwfR504VYz5FoUdoYRN"
         }
       ],
-      "duration_ms": 187240,
-      "name": "Alarm (feat. MC ID)",
-      "url": "https://open.spotify.com/track/4lI38Kj91ahnFG48FwVSrS"
-    },
-    {
-      "added_at": "2023-11-17 16:57:48",
-      "album": {
-        "name": "Last Time",
-        "url": "https://open.spotify.com/album/7KJtttL16IVKiP32hy8z3D"
-      },
-      "artists": [
-        {
-          "name": "Subsonic",
-          "url": "https://open.spotify.com/artist/4D6frglSGSAHoK7W5rp92j"
-        }
-      ],
-      "duration_ms": 201379,
-      "name": "Last Time",
-      "url": "https://open.spotify.com/track/2L1aZnDDgVANTgIKGCI5co"
+      "duration_ms": 171428,
+      "name": "No Warning (feat. Nathan Smoker)",
+      "url": "https://open.spotify.com/track/5pDC2piYrsuSIeEqiciB7B"
     },
     {
       "added_at": "2023-11-17 16:57:48",
@@ -247,6 +183,62 @@
     {
       "added_at": "2023-11-17 16:57:48",
       "album": {
+        "name": "Evolve",
+        "url": "https://open.spotify.com/album/6N2cAL092Va3dLV4wKWd6Y"
+      },
+      "artists": [
+        {
+          "name": "Sub Focus",
+          "url": "https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO"
+        },
+        {
+          "name": "MC ID",
+          "url": "https://open.spotify.com/artist/71p78rJ0sEwTMlNjqln74R"
+        }
+      ],
+      "duration_ms": 187240,
+      "name": "Alarm (feat. MC ID)",
+      "url": "https://open.spotify.com/track/4lI38Kj91ahnFG48FwVSrS"
+    },
+    {
+      "added_at": "2023-11-17 16:57:48",
+      "album": {
+        "name": "F*ck Jump Up (feat. B Live)",
+        "url": "https://open.spotify.com/album/1MPpDGXMybp6qXjA41frqh"
+      },
+      "artists": [
+        {
+          "name": "Bou",
+          "url": "https://open.spotify.com/artist/35dxfY1wywqVRUEaVuMm13"
+        },
+        {
+          "name": "B Live",
+          "url": "https://open.spotify.com/artist/5Dyi0c3gAWXi520W10rX1U"
+        }
+      ],
+      "duration_ms": 224914,
+      "name": "F*ck Jump Up (feat. B Live)",
+      "url": "https://open.spotify.com/track/0XaKIs5sTAhmhUfwsqTKiB"
+    },
+    {
+      "added_at": "2023-11-17 16:57:48",
+      "album": {
+        "name": "Last Time",
+        "url": "https://open.spotify.com/album/7KJtttL16IVKiP32hy8z3D"
+      },
+      "artists": [
+        {
+          "name": "Subsonic",
+          "url": "https://open.spotify.com/artist/4D6frglSGSAHoK7W5rp92j"
+        }
+      ],
+      "duration_ms": 201379,
+      "name": "Last Time",
+      "url": "https://open.spotify.com/track/2L1aZnDDgVANTgIKGCI5co"
+    },
+    {
+      "added_at": "2023-11-17 16:57:48",
+      "album": {
         "name": "Cobra / Riddim",
         "url": "https://open.spotify.com/album/47MY78pAUHzmtZuVWdX2JO"
       },
@@ -267,38 +259,42 @@
     {
       "added_at": "2023-11-17 16:57:48",
       "album": {
-        "name": "Take You Higher",
-        "url": "https://open.spotify.com/album/50rZcGSInCDVzBai5jQuo7"
+        "name": "Waiting For You",
+        "url": "https://open.spotify.com/album/4eeqWekeDRL40SWdsxQUte"
       },
       "artists": [
         {
-          "name": "Tsuki",
-          "url": "https://open.spotify.com/artist/2yJbiseBZFvrCK5GueLnk7"
+          "name": "Freaks & Geeks",
+          "url": "https://open.spotify.com/artist/6Qcn4TflUyLRoA6w44IQSU"
         }
       ],
-      "duration_ms": 204357,
-      "name": "Take You Higher",
-      "url": "https://open.spotify.com/track/2T3fASr8VAc8sCs9A31VUz"
+      "duration_ms": 226916,
+      "name": "Waiting For You",
+      "url": "https://open.spotify.com/track/5KATLe2Fizt1tV0qdw3mwh"
     },
     {
       "added_at": "2023-11-17 16:57:48",
       "album": {
-        "name": "Step It Up / Lights",
-        "url": "https://open.spotify.com/album/7cEDZxW0kaIjj5hUi8xkkj"
+        "name": "Absolute",
+        "url": "https://open.spotify.com/album/43KV6XPxBs3Th6EvhTXyJ9"
       },
       "artists": [
         {
-          "name": "K Motionz",
-          "url": "https://open.spotify.com/artist/6QYdXToMo4XHnG1AnEVZYJ"
+          "name": "Mr Traumatik",
+          "url": "https://open.spotify.com/artist/2ZKsAq380W6XWsyWyuKv3Z"
         },
         {
-          "name": "Comma Dee",
-          "url": "https://open.spotify.com/artist/2K2k6w3rhyifPmKC4U86VY"
+          "name": "Local",
+          "url": "https://open.spotify.com/artist/5pNualCkz8Fih2WjCYwEZ2"
+        },
+        {
+          "name": "Fernquest",
+          "url": "https://open.spotify.com/artist/7vUiDGA4jzsPS8RSTaiFrL"
         }
       ],
-      "duration_ms": 270312,
-      "name": "Step It Up",
-      "url": "https://open.spotify.com/track/608TATD49stSCcojEMTwmX"
+      "duration_ms": 184270,
+      "name": "Absolute",
+      "url": "https://open.spotify.com/track/6eCNeilo1YaFuxSWHQYBg9"
     },
     {
       "added_at": "2023-11-17 16:57:48",
@@ -355,150 +351,6 @@
     {
       "added_at": "2023-11-17 16:57:48",
       "album": {
-        "name": "Confliction",
-        "url": "https://open.spotify.com/album/1WS53YDSSfOFyJPUQ1SR1E"
-      },
-      "artists": [
-        {
-          "name": "CrossBreed",
-          "url": "https://open.spotify.com/artist/3ifKKKcUBOYQ64Un0bpjQL"
-        },
-        {
-          "name": "MTD",
-          "url": "https://open.spotify.com/artist/0DSkqLja3BBRvuoK0WcBDo"
-        },
-        {
-          "name": "Mr Traumatik",
-          "url": "https://open.spotify.com/artist/2ZKsAq380W6XWsyWyuKv3Z"
-        }
-      ],
-      "duration_ms": 200228,
-      "name": "Confliction",
-      "url": "https://open.spotify.com/track/1ExW4pjV1zROf5QveEk64S"
-    },
-    {
-      "added_at": "2023-11-17 16:57:48",
-      "album": {
-        "name": "Viper Style / Lana",
-        "url": "https://open.spotify.com/album/7Ad97zEHtyN7GNLN9lGhGc"
-      },
-      "artists": [
-        {
-          "name": "Halogenix",
-          "url": "https://open.spotify.com/artist/24eQxPRLv3UMwEIo6mawVW"
-        }
-      ],
-      "duration_ms": 206919,
-      "name": "Lana",
-      "url": "https://open.spotify.com/track/33VXCIGxpVYgntrRjhCsJo"
-    },
-    {
-      "added_at": "2023-11-17 16:57:48",
-      "album": {
-        "name": "Hands Up",
-        "url": "https://open.spotify.com/album/0KDRj5G1bqmjNieEHtzWBy"
-      },
-      "artists": [
-        {
-          "name": "Document One",
-          "url": "https://open.spotify.com/artist/70E0CLEf2H8hCo06gHJ7tu"
-        }
-      ],
-      "duration_ms": 271724,
-      "name": "Hands Up",
-      "url": "https://open.spotify.com/track/3xHyg6aNGOQawpeKeI1rFK"
-    },
-    {
-      "added_at": "2023-11-17 16:57:48",
-      "album": {
-        "name": "Ghosting Your Love",
-        "url": "https://open.spotify.com/album/0vGtSVO4QjFAOU0ojOYsJD"
-      },
-      "artists": [
-        {
-          "name": "Basstripper",
-          "url": "https://open.spotify.com/artist/1tSiIyp5dxfbEaS0nZGMEl"
-        }
-      ],
-      "duration_ms": 199728,
-      "name": "Ghosting Your Love",
-      "url": "https://open.spotify.com/track/08zuBTzQbwfmpLAfuEIV6R"
-    },
-    {
-      "added_at": "2023-11-17 16:57:48",
-      "album": {
-        "name": "Nerd Starter Pack",
-        "url": "https://open.spotify.com/album/1SidTD8IwbHh6UqVPYNbyv"
-      },
-      "artists": [
-        {
-          "name": "Teddy Killerz",
-          "url": "https://open.spotify.com/artist/4xaF2VIGwhWyEMbM6GuLdm"
-        }
-      ],
-      "duration_ms": 270344,
-      "name": "Nerd Starter Pack",
-      "url": "https://open.spotify.com/track/3gMnzlM0E8z3RWFgRKGdhd"
-    },
-    {
-      "added_at": "2023-11-17 16:57:48",
-      "album": {
-        "name": "Waiting For You",
-        "url": "https://open.spotify.com/album/4eeqWekeDRL40SWdsxQUte"
-      },
-      "artists": [
-        {
-          "name": "Freaks & Geeks",
-          "url": "https://open.spotify.com/artist/6Qcn4TflUyLRoA6w44IQSU"
-        }
-      ],
-      "duration_ms": 226916,
-      "name": "Waiting For You",
-      "url": "https://open.spotify.com/track/5KATLe2Fizt1tV0qdw3mwh"
-    },
-    {
-      "added_at": "2023-11-17 16:57:48",
-      "album": {
-        "name": "Absolute",
-        "url": "https://open.spotify.com/album/43KV6XPxBs3Th6EvhTXyJ9"
-      },
-      "artists": [
-        {
-          "name": "Mr Traumatik",
-          "url": "https://open.spotify.com/artist/2ZKsAq380W6XWsyWyuKv3Z"
-        },
-        {
-          "name": "Local",
-          "url": "https://open.spotify.com/artist/5pNualCkz8Fih2WjCYwEZ2"
-        },
-        {
-          "name": "Fernquest",
-          "url": "https://open.spotify.com/artist/7vUiDGA4jzsPS8RSTaiFrL"
-        }
-      ],
-      "duration_ms": 184270,
-      "name": "Absolute",
-      "url": "https://open.spotify.com/track/6eCNeilo1YaFuxSWHQYBg9"
-    },
-    {
-      "added_at": "2023-11-17 16:57:48",
-      "album": {
-        "name": "Complicated",
-        "url": "https://open.spotify.com/album/5zwbiBQP3sm4kqV1I1ThVM"
-      },
-      "artists": [
-        {
-          "name": "S.P.Y",
-          "url": "https://open.spotify.com/artist/6aJAd8zM1s3Slw64KfsmaF"
-        }
-      ],
-      "duration_ms": 266057,
-      "name": "Complicated",
-      "url": "https://open.spotify.com/track/4waq3ATMeZmOaHxHf9vLpp"
-    },
-    {
-      "added_at": "2023-11-17 16:57:48",
-      "album": {
         "name": "Finesse Riddim",
         "url": "https://open.spotify.com/album/5tQmcRslhxZE5hAMZbKUT9"
       },
@@ -527,22 +379,6 @@
       "duration_ms": 204342,
       "name": "Finesse Riddim",
       "url": "https://open.spotify.com/track/13Mgkz3Rk8t1XsMZ6JyIrG"
-    },
-    {
-      "added_at": "2023-11-17 16:57:48",
-      "album": {
-        "name": "IMPULSE",
-        "url": "https://open.spotify.com/album/1wjLLEUjAhTH7kQShxCazW"
-      },
-      "artists": [
-        {
-          "name": "Livsey",
-          "url": "https://open.spotify.com/artist/3NTztqzlD6wmkIMRwvurdL"
-        }
-      ],
-      "duration_ms": 364137,
-      "name": "IMPULSE",
-      "url": "https://open.spotify.com/track/1IHvLqS4SGHGoYpSZ4HX1K"
     },
     {
       "added_at": "2023-11-17 16:57:48",
@@ -591,18 +427,18 @@
     {
       "added_at": "2023-11-17 16:57:48",
       "album": {
-        "name": "Sundown",
-        "url": "https://open.spotify.com/album/1XevLzt5Tds3Cjbuz1oz0g"
+        "name": "Ghosting Your Love",
+        "url": "https://open.spotify.com/album/0vGtSVO4QjFAOU0ojOYsJD"
       },
       "artists": [
         {
-          "name": "Kanine",
-          "url": "https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV"
+          "name": "Basstripper",
+          "url": "https://open.spotify.com/artist/1tSiIyp5dxfbEaS0nZGMEl"
         }
       ],
-      "duration_ms": 268800,
-      "name": "Sundown",
-      "url": "https://open.spotify.com/track/5IiAyeg16Rk5holAyjwpLO"
+      "duration_ms": 199728,
+      "name": "Ghosting Your Love",
+      "url": "https://open.spotify.com/track/08zuBTzQbwfmpLAfuEIV6R"
     },
     {
       "added_at": "2023-11-17 16:57:48",
@@ -619,6 +455,54 @@
       "duration_ms": 226206,
       "name": "Brazil",
       "url": "https://open.spotify.com/track/3jrToiaGyx4o553AfgoofP"
+    },
+    {
+      "added_at": "2023-11-17 16:57:48",
+      "album": {
+        "name": "Heaven",
+        "url": "https://open.spotify.com/album/5utKEyKtyUReHABwsSJtjV"
+      },
+      "artists": [
+        {
+          "name": "Tsuki",
+          "url": "https://open.spotify.com/artist/2yJbiseBZFvrCK5GueLnk7"
+        }
+      ],
+      "duration_ms": 205717,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/29F8Xxbq2IVpb7GuyaCiiI"
+    },
+    {
+      "added_at": "2023-11-17 16:57:48",
+      "album": {
+        "name": "Sundown",
+        "url": "https://open.spotify.com/album/1XevLzt5Tds3Cjbuz1oz0g"
+      },
+      "artists": [
+        {
+          "name": "Kanine",
+          "url": "https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV"
+        }
+      ],
+      "duration_ms": 268800,
+      "name": "Sundown",
+      "url": "https://open.spotify.com/track/5IiAyeg16Rk5holAyjwpLO"
+    },
+    {
+      "added_at": "2023-11-17 16:57:48",
+      "album": {
+        "name": "Complicated",
+        "url": "https://open.spotify.com/album/5zwbiBQP3sm4kqV1I1ThVM"
+      },
+      "artists": [
+        {
+          "name": "S.P.Y",
+          "url": "https://open.spotify.com/artist/6aJAd8zM1s3Slw64KfsmaF"
+        }
+      ],
+      "duration_ms": 266057,
+      "name": "Complicated",
+      "url": "https://open.spotify.com/track/4waq3ATMeZmOaHxHf9vLpp"
     },
     {
       "added_at": "2023-11-17 16:57:48",
@@ -651,6 +535,22 @@
     {
       "added_at": "2023-11-17 16:57:48",
       "album": {
+        "name": "looking 4 me",
+        "url": "https://open.spotify.com/album/0KQfZKiNtU7gMdX9txha8j"
+      },
+      "artists": [
+        {
+          "name": "[IVY]",
+          "url": "https://open.spotify.com/artist/3bXszy3HMRqUhnON4Bpojw"
+        }
+      ],
+      "duration_ms": 147245,
+      "name": "looking 4 me",
+      "url": "https://open.spotify.com/track/5z0pJkbsGf6f95dKzd5OOk"
+    },
+    {
+      "added_at": "2023-11-17 16:57:48",
+      "album": {
         "name": "Come Around",
         "url": "https://open.spotify.com/album/2B81YZsWzPSLdgzSR3gF8O"
       },
@@ -667,22 +567,6 @@
       "duration_ms": 228706,
       "name": "Come Around",
       "url": "https://open.spotify.com/track/2EK2hR0X1XYrPnfLCgCIXl"
-    },
-    {
-      "added_at": "2023-11-17 16:57:48",
-      "album": {
-        "name": "Offender",
-        "url": "https://open.spotify.com/album/0HGC8S4h6lsfrPw2lWWbZh"
-      },
-      "artists": [
-        {
-          "name": "Dimension",
-          "url": "https://open.spotify.com/artist/1QMgre3BHX161ZHtWMUu6S"
-        }
-      ],
-      "duration_ms": 223448,
-      "name": "Offender",
-      "url": "https://open.spotify.com/track/39dkTH7uL26INRkJYxmPmz"
     },
     {
       "added_at": "2023-11-17 16:57:48",
@@ -827,6 +711,22 @@
     {
       "added_at": "2023-11-17 16:57:48",
       "album": {
+        "name": "Take You Higher",
+        "url": "https://open.spotify.com/album/50rZcGSInCDVzBai5jQuo7"
+      },
+      "artists": [
+        {
+          "name": "Tsuki",
+          "url": "https://open.spotify.com/artist/2yJbiseBZFvrCK5GueLnk7"
+        }
+      ],
+      "duration_ms": 204357,
+      "name": "Take You Higher",
+      "url": "https://open.spotify.com/track/2T3fASr8VAc8sCs9A31VUz"
+    },
+    {
+      "added_at": "2023-11-17 16:57:48",
+      "album": {
         "name": "Rampage Anthem VIP",
         "url": "https://open.spotify.com/album/69szID4oSWL2iSddE56ryG"
       },
@@ -867,6 +767,30 @@
     {
       "added_at": "2023-11-17 16:57:48",
       "album": {
+        "name": "Confliction",
+        "url": "https://open.spotify.com/album/1WS53YDSSfOFyJPUQ1SR1E"
+      },
+      "artists": [
+        {
+          "name": "CrossBreed",
+          "url": "https://open.spotify.com/artist/3ifKKKcUBOYQ64Un0bpjQL"
+        },
+        {
+          "name": "MTD",
+          "url": "https://open.spotify.com/artist/0DSkqLja3BBRvuoK0WcBDo"
+        },
+        {
+          "name": "Mr Traumatik",
+          "url": "https://open.spotify.com/artist/2ZKsAq380W6XWsyWyuKv3Z"
+        }
+      ],
+      "duration_ms": 200228,
+      "name": "Confliction",
+      "url": "https://open.spotify.com/track/1ExW4pjV1zROf5QveEk64S"
+    },
+    {
+      "added_at": "2023-11-17 16:57:48",
+      "album": {
         "name": "Freak (Used Remix)",
         "url": "https://open.spotify.com/album/0y7mYfre8eBAUSpHVCRFXY"
       },
@@ -903,6 +827,26 @@
       "duration_ms": 268939,
       "name": "Lightspeed",
       "url": "https://open.spotify.com/track/6uSlV69MsqwwLKcXy8GaXl"
+    },
+    {
+      "added_at": "2023-11-17 16:57:48",
+      "album": {
+        "name": "Step It Up / Lights",
+        "url": "https://open.spotify.com/album/7cEDZxW0kaIjj5hUi8xkkj"
+      },
+      "artists": [
+        {
+          "name": "K Motionz",
+          "url": "https://open.spotify.com/artist/6QYdXToMo4XHnG1AnEVZYJ"
+        },
+        {
+          "name": "Comma Dee",
+          "url": "https://open.spotify.com/artist/2K2k6w3rhyifPmKC4U86VY"
+        }
+      ],
+      "duration_ms": 270312,
+      "name": "Step It Up",
+      "url": "https://open.spotify.com/track/608TATD49stSCcojEMTwmX"
     },
     {
       "added_at": "2023-11-17 16:57:48",
@@ -1027,6 +971,22 @@
     {
       "added_at": "2023-11-17 16:57:48",
       "album": {
+        "name": "Viper Style / Lana",
+        "url": "https://open.spotify.com/album/7Ad97zEHtyN7GNLN9lGhGc"
+      },
+      "artists": [
+        {
+          "name": "Halogenix",
+          "url": "https://open.spotify.com/artist/24eQxPRLv3UMwEIo6mawVW"
+        }
+      ],
+      "duration_ms": 206919,
+      "name": "Lana",
+      "url": "https://open.spotify.com/track/33VXCIGxpVYgntrRjhCsJo"
+    },
+    {
+      "added_at": "2023-11-17 16:57:48",
+      "album": {
         "name": "Empire",
         "url": "https://open.spotify.com/album/33h47MZRYtzLnHjLTIPIFn"
       },
@@ -1069,28 +1029,24 @@
       "url": "https://open.spotify.com/track/3bDmXTnza1kblLGQrN5jvX"
     },
     {
-      "added_at": "2023-11-17 16:57:48",
+      "added_at": "2023-12-01 00:01:00",
       "album": {
-        "name": "Do It Like Me",
-        "url": "https://open.spotify.com/album/2IwrVf12tHGZCK0k5ORLbR"
+        "name": "I Don't Care",
+        "url": "https://open.spotify.com/album/139LIUJAUK7gbIuVr6gPSD"
       },
       "artists": [
         {
-          "name": "Grima x Azza",
-          "url": "https://open.spotify.com/artist/0B7mOOI1XegN3bz45dbD0R"
+          "name": "FooR",
+          "url": "https://open.spotify.com/artist/0TgZuVgRBjg6iLkZafbfmr"
         },
         {
-          "name": "Complex",
-          "url": "https://open.spotify.com/artist/2ibvDiUxAdyKlz0YrXFyZH"
-        },
-        {
-          "name": "TNA",
-          "url": "https://open.spotify.com/artist/5u6RylAtRAAxfm6Ahm2545"
+          "name": "Ellie Evans",
+          "url": "https://open.spotify.com/artist/1Wy1TkDGbOlLxEwNVD9BKE"
         }
       ],
-      "duration_ms": 204364,
-      "name": "Do It Like Me",
-      "url": "https://open.spotify.com/track/0X0owov4FrtP6JpK1rMuTZ"
+      "duration_ms": 187506,
+      "name": "I Don't Care",
+      "url": "https://open.spotify.com/track/1hti59rRsgErr8lhgMMHK7"
     },
     {
       "added_at": "2023-11-17 16:57:48",
@@ -1115,6 +1071,42 @@
       "duration_ms": 275862,
       "name": "Breathe (feat. RZA) (Ren\u00e9 LaVice Dark D&B Remix)",
       "url": "https://open.spotify.com/track/5tcRXiUko0JG2ciQfzJST5"
+    },
+    {
+      "added_at": "2023-11-17 16:57:48",
+      "album": {
+        "name": "High Roller",
+        "url": "https://open.spotify.com/album/5UeNqJ34X9HjC2szyJZkwM"
+      },
+      "artists": [
+        {
+          "name": "Turno",
+          "url": "https://open.spotify.com/artist/1TVDml0EOLsjUxBCFzqWes"
+        }
+      ],
+      "duration_ms": 275862,
+      "name": "High Roller",
+      "url": "https://open.spotify.com/track/7DHBGIYp3wvsjtetJEpCHZ"
+    },
+    {
+      "added_at": "2023-11-17 16:57:48",
+      "album": {
+        "name": "Shaolin Fist",
+        "url": "https://open.spotify.com/album/2qmrtp1vQ4AFI0rms52Bip"
+      },
+      "artists": [
+        {
+          "name": "Original Sin",
+          "url": "https://open.spotify.com/artist/3D71zH4KfjyILeWehJheDV"
+        },
+        {
+          "name": "Eksman",
+          "url": "https://open.spotify.com/artist/2654RQ9MP4lxi0PLQY3ig7"
+        }
+      ],
+      "duration_ms": 241687,
+      "name": "Headshot",
+      "url": "https://open.spotify.com/track/69rb5Dk1Ivg386QQhyzrUX"
     }
   ],
   "unique_name": "Jump Up!",

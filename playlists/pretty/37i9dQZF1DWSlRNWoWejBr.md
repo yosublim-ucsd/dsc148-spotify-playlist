@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSlRNWoWejBr.md) - [plain]
 
 > OU VC DANÇA OU O GRAVE T BALANÇA
 
-[Spotify](https://open.spotify.com/user/spotify) - 659,957 likes - 70 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 660,730 likes - 70 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,7 +62,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSlRNWoWejBr.md) - [plain]
 | 52 | [Aquecimento Senta Senta Suave](https://open.spotify.com/track/5WsM6qhZzRSD3oKbtorxzD) | [MC Kevin o Chris](https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ), [BUARQUE](https://open.spotify.com/artist/20MbZeDJcbXxkcZWumh9rC) | [Tamborzão Raiz](https://open.spotify.com/album/7qwJFRvShWMVg39UKWafzW) | 2:32 |
 | 53 | [Sem Aliança no Dedo](https://open.spotify.com/track/22sAwsBH0NoNJXnrBenQuO) | [MC Xenon](https://open.spotify.com/artist/5vcMPVDXTLhJ4UpOZKXZtg), [Os Gemeos da Putaria](https://open.spotify.com/artist/5ZEpz4ei1jHqvA4EHUeKqs) | [Sem Aliança no Dedo](https://open.spotify.com/album/1jrzYloHK7zn8n66qulEjn) | 2:00 |
 | 54 | [Saquarema](https://open.spotify.com/track/12R6npsSMx8g0k5GN19poM) | [MC Rogê](https://open.spotify.com/artist/3nD4yj5ojI0Xts9fhWw8ui), [DJ Meek](https://open.spotify.com/artist/2e3Qj18c2XIH9bHIVdoMYK), [Boladinho DJ](https://open.spotify.com/artist/07h4iWmJmlrSz6odV2mJgq), [Mc G Talibã](https://open.spotify.com/artist/3WqjZ3slxmWPlsKxJcAPMc) | [Saquarema](https://open.spotify.com/album/6iag686lb0KoIgWFuNdMws) | 3:21 |
-| 55 | [Vois](https://open.spotify.com/track/1qoy8HArv6VFchZB5KWXCm) | [Euphemism](https://open.spotify.com/artist/2LjnVIznJsfd8XzrUqXHTr) | [Vois](https://open.spotify.com/album/0zB2ihg6636WiNDK7ShIcZ) | 2:25 |
+| 55 | [MONTAGEM CORAL](https://open.spotify.com/track/7cE9DsAvDWlFXfnIAZ1RDG) | [fatit](https://open.spotify.com/artist/42zw1tQc4mHAo0Ejfd4HgT) | [MONTAGEM CORAL](https://open.spotify.com/album/0TTWmaMq5n2f9XzGRBvCIR) | 2:25 |
 | 56 | [Onlyfans](https://open.spotify.com/track/5lhoo6QYhXLYbUj3QkjWN7) | [DJ Lg do Sf](https://open.spotify.com/artist/72ipMVQcFmP8kVnlHbcV3q), [MC Fahah](https://open.spotify.com/artist/0MlMFTEEEk0uSwI4hYSxrq), [Kadu Martins](https://open.spotify.com/artist/57VQCKnZ9nhS7bvoviXuZK), [DJ Ws da Igrejinha](https://open.spotify.com/artist/0NB5wv4kn6A919CLHUKRmk), [MC Saci](https://open.spotify.com/artist/0kj68SnX4WCXwveyBbRX8p) | [G.O.N.D.P](https://open.spotify.com/album/1Nl7KHMglyUND0NJrDQJsh) | 2:35 |
 | 57 | [Sorrisin De Puto](https://open.spotify.com/track/2X5o4nRiocnoaaQ2wMwaeC) | [DJ Cayoo](https://open.spotify.com/artist/4cdmVPqOs2GXPoP4qJHJXv), [DJ ESCOBAR](https://open.spotify.com/artist/65tpb4BwAnD3HOUs8MC6TB), [Nilo](https://open.spotify.com/artist/5uD6uRKj2xYxpqx8bscaco), [MC Myres](https://open.spotify.com/artist/4GeitETxoipNor9MyEEbYz) | [Sorrisin De Puto](https://open.spotify.com/album/2JCWmfqubxXm3zuH4BQQXM) | 1:46 |
 | 58 | [Colo do pai](https://open.spotify.com/track/0iCA0rynWVmE5D9qWgas9s) | [Dj GBR](https://open.spotify.com/artist/0IhzJFf4QBEz0ifqLwScKV), [Mc Don Juan](https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL) | [No Pique do GBR](https://open.spotify.com/album/6yBdJ09hwSrlbftsxsBsDW) | 2:05 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSlRNWoWejBr.md) - [plain]
 | 69 | [É Só Um Lance Lero Lero](https://open.spotify.com/track/5DoYLtsVnNMcrgpMdEPOsI) | [DJ Dozabri](https://open.spotify.com/artist/06e0gXtUpvgPUZFrR2ywsg), [DJ Arana](https://open.spotify.com/artist/22RXQj1gd5zEbcRjdxiJbu), [Silva Mc](https://open.spotify.com/artist/7v4hw85pzG0M9kJHlBGsi3), [MC Luiggi](https://open.spotify.com/artist/3Ie7tlw7AZSqd9GNFjCRAP), [Meno Saaint](https://open.spotify.com/artist/6JX06TYY9weAIjfnzFWqZL) | [É Só Um Lance Lero Lero](https://open.spotify.com/album/4On1CDfCz6TG3oW3BTVySP) | 1:56 |
 | 70 | [Melodia Alucinógena](https://open.spotify.com/track/4x5q5T5mhE1xvoCVXY6qrN) | [DJ AK BR](https://open.spotify.com/artist/3JOwYU8Yv0wCe18FFanLEK), [Dj Darge](https://open.spotify.com/artist/4SKWDIWfEZbyMI8gzeeoXO), [Niack](https://open.spotify.com/artist/5uYe4bcAXlMP7d4mrOYkML) | [Melodia Alucinógena](https://open.spotify.com/album/1VFqnSA3BZQTxuW0EF5OYs) | 3:03 |
 
-Snapshot ID: `MCw0ZDJiMTQyMDdmYmFhNDBhMmJhZTJjZTZjMjdhMjc0OTUwNmQ1MGMw`
+Snapshot ID: `MCxlMzQ4ODZiN2RiZWI5ZDdmMWU0MzNjODUwMDFkNDBlZThkMGZkNjA4`

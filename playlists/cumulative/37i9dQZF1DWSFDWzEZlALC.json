@@ -1236,7 +1236,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 143484,
       "name": "Cabrio",
       "url": "https://open.spotify.com/track/2Uj3GZtgp8si3BAiai8kfK"
@@ -1983,6 +1983,24 @@
     },
     {
       "album": {
+        "name": "Wenn du weinst / Einmal verliebt (Outro)",
+        "url": "https://open.spotify.com/album/6BC1PLrKcbHzvTv36uNZas"
+      },
+      "artists": [
+        {
+          "name": "Berq",
+          "url": "https://open.spotify.com/artist/0eVixEZVW2PB1UogwTWXc1"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150993,
+      "name": "Einmal verliebt (Outro)",
+      "url": "https://open.spotify.com/track/2Ibp8UUZFcS6dnUXHR4ZIO"
+    },
+    {
+      "album": {
         "name": "Einsame Insel",
         "url": "https://open.spotify.com/album/2bA9VJUcbmzW47Nubm8yOJ"
       },
@@ -2214,6 +2232,24 @@
       "duration_ms": 187351,
       "name": "Eriesee",
       "url": "https://open.spotify.com/track/4rlSGxZkAnnD8nqUusFRyq"
+    },
+    {
+      "album": {
+        "name": "ersterplatz",
+        "url": "https://open.spotify.com/album/48ZvOk3LIgBW5IE3yfvZFf"
+      },
+      "artists": [
+        {
+          "name": "Aaron",
+          "url": "https://open.spotify.com/artist/1Z3Z5OW15EG3qwFaiqmXvQ"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126967,
+      "name": "ersterplatz",
+      "url": "https://open.spotify.com/track/5dvwBo83mtpZUmi9tf96pf"
     },
     {
       "album": {
@@ -2806,7 +2842,7 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 130039,
       "name": "Geisterfahrt",
       "url": "https://open.spotify.com/track/5jr0CVRzBNct2PuHKPN9mN"
@@ -4534,7 +4570,7 @@
       ],
       "date_added": "2023-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 135050,
       "name": "Liebe Gr\u00fc\u00dfe",
       "url": "https://open.spotify.com/track/2490ZIWKhabJ0or3Dor2xC"
@@ -7194,7 +7230,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 152000,
       "name": "streetsmart",
       "url": "https://open.spotify.com/track/0Qe3c6avosY3zD6m6nmK24"
@@ -7578,6 +7614,24 @@
       "duration_ms": 148588,
       "name": "ultimate team",
       "url": "https://open.spotify.com/track/3CMpFys8sKu5Y1Wtp1HLis"
+    },
+    {
+      "album": {
+        "name": "Underdog",
+        "url": "https://open.spotify.com/album/4h8HTXyIXhsRtDJ39mXUCA"
+      },
+      "artists": [
+        {
+          "name": "JUPYTER",
+          "url": "https://open.spotify.com/artist/4rmUcQqtKz1NLA2f23W041"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195385,
+      "name": "Underdog",
+      "url": "https://open.spotify.com/track/7lpwtFvlf5jhNZAfmzFFiY"
     },
     {
       "album": {
@@ -8258,6 +8312,24 @@
       "duration_ms": 230413,
       "name": "Wenn du tanzt",
       "url": "https://open.spotify.com/track/0G7vexduCvboPyIGjJXQIC"
+    },
+    {
+      "album": {
+        "name": "Wenn du weinst / Einmal verliebt (Outro)",
+        "url": "https://open.spotify.com/album/6BC1PLrKcbHzvTv36uNZas"
+      },
+      "artists": [
+        {
+          "name": "Berq",
+          "url": "https://open.spotify.com/artist/0eVixEZVW2PB1UogwTWXc1"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202426,
+      "name": "Wenn du weinst",
+      "url": "https://open.spotify.com/track/4P3DSLxQLg0il3pEBKsPTJ"
     },
     {
       "album": {

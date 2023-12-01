@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ee0ngF5ZVQ.md) - [plain]
 
 > New and trending tracks from Texas Country icons and rising stars\. Cover: Flatland Cavalry
 
-[Spotify](https://open.spotify.com/user/spotify) - 420,053 likes - 100 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 420,085 likes - 100 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ee0ngF5ZVQ.md) - [plain]
 | 99 | [Heartfelt](https://open.spotify.com/track/0OGcW962TOINe5X95LeAhl) | [Troy Cartwright](https://open.spotify.com/artist/24I45QsPZf5Gr7aVlVmTfr) | [Heartfelt](https://open.spotify.com/album/5sCBCyGbNmMg4PzIg674ge) | 3:15 |
 | 100 | [Can’t Cry Anymore \(feat\. Bri Bagwell\)](https://open.spotify.com/track/3yz6BlKzJ2baiuIUC6t3FS) | [Aaron Watson](https://open.spotify.com/artist/5BKzvAPtNXnt0LwzGvKOH3), [Bri Bagwell](https://open.spotify.com/artist/62D9vyyzOd1uIny0qRDLAo) | [Cover Girl](https://open.spotify.com/album/4tbA2NrQQetM0NUqszgn52) | 3:34 |
 
-Snapshot ID: `MCwzMDM3Njk1NDljOGIxZDQ1OWEzZDhmNzVlYTRkNTFmNzE5ZjRmODdj`
+Snapshot ID: `MCxkYmMwMmE5M2NkNDQ2ZTI2NTNlMjc1YzczNTZjODRjMWIyZmVhZmE4`

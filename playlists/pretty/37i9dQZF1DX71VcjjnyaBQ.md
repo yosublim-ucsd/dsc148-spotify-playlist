@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71VcjjnyaBQ.md) - [plain]
 
 > Jazz for breakfast to start your day right.
 
-[Spotify](https://open.spotify.com/user/spotify) - 391,892 likes - 100 songs - 8 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 391,969 likes - 100 songs - 8 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71VcjjnyaBQ.md) - [plain]
 | 99 | [Indian Summer](https://open.spotify.com/track/7ID8YBMZd8Cqi2fto81sP2) | [Anders Mogensen](https://open.spotify.com/artist/6WPu073KUfyLXE41VEW9Ik) | [Sideways](https://open.spotify.com/album/0nd4ki7GPhLrH5MjjdP7eP) | 4:04 |
 | 100 | [Root of the Matter](https://open.spotify.com/track/08N0F5H3AsH3w0kh8qeBry) | [Roelofs](https://open.spotify.com/artist/6FMjIGodIpXfHq3X5Mfry4) | [Root of the Matter](https://open.spotify.com/album/0M1fHUbSgAwWO4OhlSITof) | 5:17 |
 
-Snapshot ID: `MCwzMWQ5ZTkzZjYzZTliODdmYzQ5M2M3ZmNkZDg4NGJmMTdkYmJhMWJi`
+Snapshot ID: `MCxiODQ1N2VjNzA0MzkzNWM1OTA1ZWI4ZjQxOGZmYWNiMWM2MDE0MGU2`

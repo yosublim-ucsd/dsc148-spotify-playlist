@@ -2,7 +2,7 @@
 
 ### [Cozy Jazz](https://open.spotify.com/playlist/37i9dQZF1DX52ln8eMkne9)
 
-> Soft and cozy vocal and instrumental Jazz\. Cover: Melody Gardot
+> Soft and cozy vocal and instrumental Jazz\. Cover: Laufey
 
 313 songs - 23 hr 23 min
 

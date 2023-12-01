@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX06817kK7cRP.md) - [plain]
 
 > Soft Jazz beats in the background while you're studying or relaxing.
 
-[Spotify](https://open.spotify.com/user/spotify) - 153,214 likes - 125 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 154,003 likes - 125 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX06817kK7cRP.md) - [plain]
 | 124 | [Moonwalker](https://open.spotify.com/track/4YdD9UItuRNEXII4n7kNQB) | [Peter Olyni Jr.](https://open.spotify.com/artist/5HI6ncFklodHRqtdX7EFgO) | [Moonwalker](https://open.spotify.com/album/65NN6OIdeRV286VSOSgrgS) | 2:42 |
 | 125 | [Dream Away](https://open.spotify.com/track/5YpKD3BpyZu7ggk7byH2BO) | [Palm Beats](https://open.spotify.com/artist/1c9zS9phaYUjbZnzYfGoFx) | [Dream Away](https://open.spotify.com/album/4QEN19VnuysTfDKvMURjfh) | 1:57 |
 
-Snapshot ID: `MCw1N2ZhODgzMTk0N2E2YjY4OGFjZjM2Yjg3MjM2M2U0ZjgyZjFhZTM3`
+Snapshot ID: `MCxiNmE2NThkNjYzOTU0MWQ4NjM1NjIxZTVmZDM2N2ZjNDM2YjkyZTdk`

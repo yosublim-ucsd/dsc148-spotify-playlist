@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Les hits dancehall du moment. Photo : Bamby",
+  "description": "Les hits dancehall du moment. Photo : Meryl",
   "name": "Dancehall Station",
   "tracks": [
     {
@@ -462,6 +462,24 @@
       "duration_ms": 203636,
       "name": "Bad (Latin Remix)",
       "url": "https://open.spotify.com/track/5GoYi5Nx1ImQTjrCxVkwuk"
+    },
+    {
+      "album": {
+        "name": "Bad Barbie",
+        "url": "https://open.spotify.com/album/5wTo4uAaEr5SGmxNBLqIo8"
+      },
+      "artists": [
+        {
+          "name": "Jahlys",
+          "url": "https://open.spotify.com/artist/4AcFhqecUgQOUNmdcdngEq"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110769,
+      "name": "Bad Barbie",
+      "url": "https://open.spotify.com/track/0EldeQkAd3vWV7BEvT7oy3"
     },
     {
       "album": {
@@ -1302,7 +1320,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 177578,
       "name": "Cent",
       "url": "https://open.spotify.com/track/3s21wkLQFkjzv9yYEqHTvV"
@@ -3347,6 +3365,28 @@
     },
     {
       "album": {
+        "name": "La La (feat. Suarez)",
+        "url": "https://open.spotify.com/album/0WFGzRgEzfhQ6RDDkowkXc"
+      },
+      "artists": [
+        {
+          "name": "Byron Messia",
+          "url": "https://open.spotify.com/artist/3IDfJpj4YVkaBl7Dd52Pxv"
+        },
+        {
+          "name": "Suarez",
+          "url": "https://open.spotify.com/artist/6D40RuzdpIC5ip4yL2UUvD"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222120,
+      "name": "La La (feat. Suarez)",
+      "url": "https://open.spotify.com/track/7GlOrQ7xu2KbxWQKXQKcQA"
+    },
+    {
+      "album": {
         "name": "Laisse tomber",
         "url": "https://open.spotify.com/album/1tJEATN67cEfLK3M5k5svc"
       },
@@ -4444,6 +4484,24 @@
       "duration_ms": 158952,
       "name": "Pa mang\u00e9 bli\u00e9",
       "url": "https://open.spotify.com/track/5qIfWnn2PZ18z3wcDYEXmB"
+    },
+    {
+      "album": {
+        "name": "PAPA",
+        "url": "https://open.spotify.com/album/2s1k5Xgidmo3UdJc7jYdCl"
+      },
+      "artists": [
+        {
+          "name": "Jahyanai",
+          "url": "https://open.spotify.com/artist/09FXva53dWku8Gu5N73rR8"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216887,
+      "name": "PAPA",
+      "url": "https://open.spotify.com/track/7aQWrIsNNLXTO2BS5GoJfE"
     },
     {
       "album": {
@@ -5780,7 +5838,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 190344,
       "name": "St. Thomas Native (feat. Chronic Law)",
       "url": "https://open.spotify.com/track/0HvfKpQ3mn0903BoAwb3nB"
@@ -6472,7 +6530,7 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 106736,
       "name": "Turnup",
       "url": "https://open.spotify.com/track/2uqPERGb5PUiiNQljAW0dz"

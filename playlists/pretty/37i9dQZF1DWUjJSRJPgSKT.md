@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjJSRJPgSKT.md) - [plain]
 
 > Uptempo jazz classics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,789 likes - 65 songs - 6 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,857 likes - 65 songs - 6 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjJSRJPgSKT.md) - [plain]
 | 64 | [Roll Call \- Rudy Van Gelder Edition](https://open.spotify.com/track/1niBlhuYWv5D52E1z8PrmI) | [Hank Mobley](https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv) | [Roll Call](https://open.spotify.com/album/2wXfYEZKGQlfy2hKZbwtU7) | 10:33 |
 | 65 | [A Shade Of Jade \- Rudy Van Gelder Edition/2003 Digital Remaster/24 Bit Mastering](https://open.spotify.com/track/71xfEEzdq8Mu02l5zkArzi) | [Joe Henderson](https://open.spotify.com/artist/3BG0nwVh3Gc7cuT4XdsLtt) | [Mode For Joe \(Rudy Van Gelder Edition\)](https://open.spotify.com/album/5HC9Uo9bCl8uiWuSN3MfbD) | 7:08 |
 
-Snapshot ID: `MCxjNDM3ZWUzNDIxOTBhYzQ5ZjNjODg3NjM2YjJhMTU3OGQ1ZWUxN2M5`
+Snapshot ID: `MCw5MjUwNGE0NDIyNTE0ODcxZTc4YWI1MTExMjRkODIyNmQxMjY0NTFl`

@@ -4,7 +4,7 @@
 
 > back up in the sky
 
-251 songs - 15 hr 12 min
+253 songs - 15 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -232,6 +232,8 @@
 | [Teardrop](https://open.spotify.com/track/67Hna13dNDkZvBpTXRIaOJ) | [Massive Attack](https://open.spotify.com/artist/6FXMGgJwohJLUSr5nVlf9X) | [Mezzanine](https://open.spotify.com/album/49MNmJhZQewjt06rpwp6QR) | 5:30 | 2022-09-02 | 2023-05-25 |
 | [The American Experiment](https://open.spotify.com/track/0Zo5E6jjqPZgIvzZdWHxuc) | [MGNA Crrrta](https://open.spotify.com/artist/1pNs3qwMBJ0q4lyASth9Ye) | [New Jersey](https://open.spotify.com/album/3ryHJlyWJf8CjR7jrgIYqB) | 3:00 | 2022-12-12 | 2023-05-25 |
 | [The Clouds Will Drop Ladders](https://open.spotify.com/track/6Ky0MGU5rsXTUCXf7wrLcW) | [Valium Aggelein](https://open.spotify.com/artist/6SDzqJ9bJXWCYlgBl6zXWw) | [Black Moon](https://open.spotify.com/album/13wXdYJA77QJCbsSZeRpEm) | 5:57 | 2023-10-31 |  |
+| [theres this girl](https://open.spotify.com/track/6whOApl6TgeCGRwMM52tkl) | [sign crushes motorist](https://open.spotify.com/artist/02vrwnrNEeDRV96o9iPSYP) | [i'll be okay](https://open.spotify.com/album/3yLxcdaNKhpogNECAju75d) | 4:57 | 2023-12-01 |  |
+| [Think Of Me Once In A While, Take Care](https://open.spotify.com/track/4JdYapRlYv67LnjrkDhZVX) | [Take Care](https://open.spotify.com/artist/2HpfqDQ8DBQlnrbAsdIh7s) | [Agony](https://open.spotify.com/album/6hMR006RO5sOuA9Vgs4v9L) | 1:43 | 2023-12-01 |  |
 | [Tonight \(demo\)](https://open.spotify.com/track/1i2secJ8Pl16d59744WFEB) | [Amira Elfeky](https://open.spotify.com/artist/6Z4kwq0LOaYQW2CqudoOIk) | [Tonight \(demo\)](https://open.spotify.com/album/2CY6wMGNGCESBIRaaIDF1Y) | 3:13 | 2023-08-18 | 2023-08-30 |
 | [Tonight \(demo\)](https://open.spotify.com/track/6p5duPGjAdVYLq2kOGXYUD) | [Amira Elfeky](https://open.spotify.com/artist/6Z4kwq0LOaYQW2CqudoOIk) | [Tonight \(demo\)](https://open.spotify.com/album/4xqKuomusHqZlIfH7Ys1ag) | 3:14 | 2023-08-18 | 2023-11-11 |
 | [Too Late](https://open.spotify.com/track/6KYsdBZ0077Vf37ZL1ozrT) | [Lilts](https://open.spotify.com/artist/1FIiuU3QEVE9BolZFEL5FG) | [Waiting Around](https://open.spotify.com/album/1LO0pYpUdVmbRWESTKMx0d) | 3:20 | 2023-10-13 |  |

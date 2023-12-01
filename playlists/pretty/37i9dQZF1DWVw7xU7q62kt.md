@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVw7xU7q62kt.md) - [plain]
 
 ### [Jazzy Beats](https://open.spotify.com/playlist/37i9dQZF1DWVw7xU7q62kt)
 
-> Beats with a flavour of Jazz\. Cover: James Francis
+> Beats with a flavour of Jazz\. Cover: Blue Lab Beats
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,420 likes - 125 songs - 6 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,498 likes - 125 songs - 6 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVw7xU7q62kt.md) - [plain]
 | 124 | [stroll](https://open.spotify.com/track/48CXPSMqlczCjqHD3tWKRF) | [Cosmic Wildlife](https://open.spotify.com/artist/01yuxqHdzegJb5Aq4V8gsB) | [stroll](https://open.spotify.com/album/0az5tgCzDGhdWbhUmRTWyT) | 3:31 |
 | 125 | [Sun Go Down](https://open.spotify.com/track/67b8oUDiOzfPPN2xDj4G0x) | [John Carroll Kirby](https://open.spotify.com/artist/7FQiZr787umw7P5dO3zqld) | [Sun Go Down](https://open.spotify.com/album/6tGejsu1Row5Qg2MD6fRl3) | 3:12 |
 
-Snapshot ID: `MCw3NTZmOTM2MjkxNTg5ZmY2OWRmOGVjY2ZhMGQ5NDNiZDU0ZWVkMDk5`
+Snapshot ID: `MCwyYjRkZmZmN2Y4NDFlMDMxZGE2YzFmOGVmYjM3MTg4MjAwN2UzNmJl`

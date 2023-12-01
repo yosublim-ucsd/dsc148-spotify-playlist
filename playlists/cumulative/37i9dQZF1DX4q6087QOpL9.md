@@ -4,7 +4,7 @@
 
 > That real soulful house sound\. Cover: Kerri Chandler
 
-191 songs - 21 hr 46 min
+192 songs - 21 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,11 +95,12 @@
 | [I Can't Wait \- ATFC Main Vocal](https://open.spotify.com/track/7MSU8gtYyFZkZ9VXgDaqqF) | [Namy](https://open.spotify.com/artist/5b27ajyz5mxl84HYtPE4ih), [Barbara Tucker](https://open.spotify.com/artist/6txh5tFMJyxSwT0iE7wX2w), [ATFC](https://open.spotify.com/artist/04L4Y7Hkc1fULKhFbTnSSs) | [I Can't Wait](https://open.spotify.com/album/70CvoeJITpeEJrlkrBr8QE) | 7:23 | 2022-09-13 | 2023-11-07 |
 | [I Got Rhythm \(Original Mix\)](https://open.spotify.com/track/4RxPV1yqEbkobZDy3yudgK) | [Soul Fuzion](https://open.spotify.com/artist/3KKjVQbHpd2E5IQYrsNeLp) | [I Got Rhythm \(Remixes\)](https://open.spotify.com/album/59QaF98IvGfD6xHKn5E0To) | 6:12 | 2022-09-13 | 2023-09-07 |
 | [I Needed](https://open.spotify.com/track/4vyOcxU4oEyzEhBMFheHBj) | [Hanna](https://open.spotify.com/artist/0s7581IIWDf3wgPuifQeMB) | [I Needed / Intercession, On Behalf](https://open.spotify.com/album/5FyTGjsgSg6DCtg5oxui1p) | 6:37 | 2022-09-13 |  |
+| [I Never Knew Love \- Made In Detroit Mix](https://open.spotify.com/track/2PLQlE2zQKT3JfH3lWhIrz) | [Chez Damier](https://open.spotify.com/artist/6ElgoHFh30ap09Koe8jf7C) | [I Never Knew Love](https://open.spotify.com/album/2nIniMGpYsChZLPYNcvocw) | 3:49 | 2023-11-30 |  |
 | [I Shall Not Be Moved](https://open.spotify.com/track/5HhlBt20TqXAQEmI3wOB1p) | [Kenny Bobien](https://open.spotify.com/artist/6UaZuYX5K6yNTinUTBCWDS) | [Defined](https://open.spotify.com/album/2oISJK1pZ6iRNh5XsmEMCG) | 7:39 | 2022-09-13 | 2023-09-07 |
 | [I Think I'll Do Some Stepping \(On My Own\) \- OPOLOPO Rework](https://open.spotify.com/track/0q6bCDZ8YCM4QyGofrSiSy) | [Sandy Barber](https://open.spotify.com/artist/5smHFUSf9HBHBw8Ce0mh2s), [Opolopo](https://open.spotify.com/artist/5WaobPZaAjGIIlabFX3I94) | [I Think I'll Do Some Stepping \(On My Own\) \- OPOLOPO Rework](https://open.spotify.com/album/4xR1Tz7NKnqwaPYvt3VlSX) | 8:28 | 2022-09-13 |  |
 | [I'm A Blessed Man](https://open.spotify.com/track/4qJZP0xc9qgitasa1U1AzA) | [Leroy Styles](https://open.spotify.com/artist/2MoxYOhy9ooC8KRcdgIFif), [Mister Vi](https://open.spotify.com/artist/2kDrLqHECtvseToY2KBq2L) | [Rebirth](https://open.spotify.com/album/3A86ZfahL8jBCWGT1Put5n) | 9:56 | 2023-11-04 |  |
 | [I'm Free \- Main Mix](https://open.spotify.com/track/3ZW2pHUEgX65rINbaqzZA7) | [YASS](https://open.spotify.com/artist/1mChelK5fqmS7lxluoXP9C), [L.T\. Brown](https://open.spotify.com/artist/2ysRdZ0qk3lM9z1t8c4RSc) | [There Is Soul in My House](https://open.spotify.com/album/0mtSczfPaltwZlDzGEwD0M) | 8:08 | 2022-09-13 |  |
-| [I'm Gonna Miss You \(feat\. K.T\. Brooks\)](https://open.spotify.com/track/0vuDLKz7yeNhmIpSDJ1Gz4) | [Jovonn](https://open.spotify.com/artist/3sxYSXk6nwIqVweh5Lxa9V), [KT Brooks](https://open.spotify.com/artist/1mWHQjx7JR2Rbi4KUMcmV2) | [Blaque House](https://open.spotify.com/album/5vlYXrDm2pyyIpHQ9Uf33O) | 6:32 | 2022-09-13 |  |
+| [I'm Gonna Miss You \(feat\. K.T\. Brooks\)](https://open.spotify.com/track/0vuDLKz7yeNhmIpSDJ1Gz4) | [Jovonn](https://open.spotify.com/artist/3sxYSXk6nwIqVweh5Lxa9V), [KT Brooks](https://open.spotify.com/artist/1mWHQjx7JR2Rbi4KUMcmV2) | [Blaque House](https://open.spotify.com/album/5vlYXrDm2pyyIpHQ9Uf33O) | 6:32 | 2022-09-13 | 2023-12-01 |
 | [If She Only Knew](https://open.spotify.com/track/4uYEhYjwMCPCuqPbUz6MOm) | [Kevin Yost](https://open.spotify.com/artist/1FPV5yJGV2urezFSaXrYDV) | [One Starry Night](https://open.spotify.com/album/2A7TtLvMmgHy9UqK0dkGsz) | 6:59 | 2023-11-04 |  |
 | [In My Lifetime \- Deetron Remix](https://open.spotify.com/track/1AvYeMUagyfmUOTE7pKAVM) | [Ezel](https://open.spotify.com/artist/3QABEE2hggcdeYHN7K8an5), [Deetron](https://open.spotify.com/artist/0d4nL4lAEkHJIqLZSHBuav) | [Re\-Creation: Remixes Compiled](https://open.spotify.com/album/7lKjLBFlbZeepoECfianTG) | 7:16 | 2022-09-13 | 2023-11-08 |
 | [Inspiration](https://open.spotify.com/track/202tI4GzvovvGhMbqgmXDQ) | [Kerri Chandler](https://open.spotify.com/artist/7nqpEU6DCHkNtK1bYsyS3W), [Arnold Jarvis](https://open.spotify.com/artist/7KWmHJx8szSRWhzUHluYC5) | [House Classics V \(Presented by Harley & Muscle\)](https://open.spotify.com/album/7h7XZ78QlYAgRh69VlG3L9) | 6:12 | 2022-09-13 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1i11qSEWNoS.md) - [plain]
 
 > und macht laune
 
-[Spotify](https://open.spotify.com/user/spotify) - 528,689 likes - 90 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 528,941 likes - 90 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1i11qSEWNoS.md) - [plain]
 | 89 | [WILDES DING](https://open.spotify.com/track/2BssmP7ruTX7iZrWLm7EVk) | [Valexus](https://open.spotify.com/artist/7bzKgx8PQw6TCVDSD43pc1), [Culcha Candela](https://open.spotify.com/artist/3gemH8D6fpu12DmTmUZYAL) | [WILDES DING](https://open.spotify.com/album/6nnBMvIedNf19zjzk2KGhF) | 2:16 |
 | 90 | [ATZENMODUS](https://open.spotify.com/track/7BfRyF3eUgZxXBmt01PBZY) | [BHZ](https://open.spotify.com/artist/3mmI5HKArDwgggj4j0aJyC), [Ion Miles](https://open.spotify.com/artist/1OJvqVmekd5OPxlTeHmlBl), [Monk](https://open.spotify.com/artist/0jEyGu5QKLxQ2tIZVnRbfE), [Dead Dawg](https://open.spotify.com/artist/0vbfrsbTQsxmBTrvtZTFB4), [Big Pat](https://open.spotify.com/artist/1ZpLpz4tFdvUocboq1KX3M), [Longus Mongus](https://open.spotify.com/artist/0n1kV1G3NQrfuLGJosIGxb) | [HALB:VIER DELUXE](https://open.spotify.com/album/4pCTAzrlZXwxMzyMGOJEnN) | 4:21 |
 
-Snapshot ID: `MCxkY2E2NDI5MmQ0NDE0NmE3OWMwMjM5MTg4ZjJmMzIzMWM0OTc5NTIy`
+Snapshot ID: `MCxlYWRiZWRmYTRiZmQ5MDVlODRhOGU2N2VkZmMxZTFjZWQwNmUwMmM3`

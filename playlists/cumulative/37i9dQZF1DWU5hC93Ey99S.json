@@ -259,6 +259,24 @@
     },
     {
       "album": {
+        "name": "All My Friends Are Taking Drugs",
+        "url": "https://open.spotify.com/album/52kacpW2vuPJAmzKok0VyU"
+      },
+      "artists": [
+        {
+          "name": "Everyone You Know",
+          "url": "https://open.spotify.com/artist/4UAnAM35NDxEWd5WXKv7jM"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187897,
+      "name": "All My Friends Are Taking Drugs",
+      "url": "https://open.spotify.com/track/0ahdQLJh3jakCHUIfQxofO"
+    },
+    {
+      "album": {
         "name": "TANZPARTEI (Mixtape)",
         "url": "https://open.spotify.com/album/7hK3Or2cOHmkq9M5Di4cgE"
       },
@@ -684,6 +702,24 @@
       "duration_ms": 200788,
       "name": "Better When You're Here",
       "url": "https://open.spotify.com/track/6qcuf0AmQmrjPPc10Ovhax"
+    },
+    {
+      "album": {
+        "name": "Blessyou",
+        "url": "https://open.spotify.com/album/3YheYihN0ExFvL5atVNNtX"
+      },
+      "artists": [
+        {
+          "name": "Hotel Rubio",
+          "url": "https://open.spotify.com/artist/56VvsBH2eb84Qf4e4MDBX7"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200365,
+      "name": "Blessyou",
+      "url": "https://open.spotify.com/track/1NtxuDqsyMJfwk0K4wRpTN"
     },
     {
       "album": {
@@ -1334,6 +1370,24 @@
       "duration_ms": 210289,
       "name": "don\u2019t say",
       "url": "https://open.spotify.com/track/4bgUnmXFw3hsM5XTJ4tF5B"
+    },
+    {
+      "album": {
+        "name": "Down On My Love",
+        "url": "https://open.spotify.com/album/7bcZPO2KbqkCFEi2AAw3sb"
+      },
+      "artists": [
+        {
+          "name": "Snackbox",
+          "url": "https://open.spotify.com/artist/03NvCV8Gy0VLvUcIA8T0cJ"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169411,
+      "name": "Down On My Love",
+      "url": "https://open.spotify.com/track/4h8xS99iATPsBHqowFFF5U"
     },
     {
       "album": {
@@ -2051,6 +2105,24 @@
     },
     {
       "album": {
+        "name": "Arrived too early / Have you",
+        "url": "https://open.spotify.com/album/3I4Nk1wslBKALwENz11oea"
+      },
+      "artists": [
+        {
+          "name": "Meridian",
+          "url": "https://open.spotify.com/artist/29owBAmwvaDTUsoyT9N5fm"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172487,
+      "name": "Have you",
+      "url": "https://open.spotify.com/track/5ZPAYylfnIJJLAcH9uAvIg"
+    },
+    {
+      "album": {
         "name": "Helium",
         "url": "https://open.spotify.com/album/5MfSs8fY5iP5UStD5jsBYu"
       },
@@ -2150,6 +2222,28 @@
       "duration_ms": 220625,
       "name": "Hiding",
       "url": "https://open.spotify.com/track/3hcAYNfSHm1opoJ1Jhkrch"
+    },
+    {
+      "album": {
+        "name": "High and I Like It",
+        "url": "https://open.spotify.com/album/3zbFfZPvh2CZIaf8E6NATL"
+      },
+      "artists": [
+        {
+          "name": "it's murph",
+          "url": "https://open.spotify.com/artist/3zW0xazqnHoq9QV9zBROVC"
+        },
+        {
+          "name": "Evalyn",
+          "url": "https://open.spotify.com/artist/68WwJXWrpo1yVOOIZjLSeT"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223379,
+      "name": "High and I Like It",
+      "url": "https://open.spotify.com/track/0FBdJP7yzvq88bG1keGgt4"
     },
     {
       "album": {
@@ -4305,6 +4399,28 @@
     },
     {
       "album": {
+        "name": "Other Side",
+        "url": "https://open.spotify.com/album/1x58rOMA6gcxJdrgzbGVTo"
+      },
+      "artists": [
+        {
+          "name": "AVAION",
+          "url": "https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys"
+        },
+        {
+          "name": "BUNT.",
+          "url": "https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206884,
+      "name": "Other Side",
+      "url": "https://open.spotify.com/track/74qKLdiiTnXNqh2Co21RlJ"
+    },
+    {
+      "album": {
         "name": "A R I Z O N A (R E M I X E D)",
         "url": "https://open.spotify.com/album/3ab2NFkx4nCfOmgh8VFz7P"
       },
@@ -4386,6 +4502,32 @@
       "duration_ms": 121043,
       "name": "Paradise",
       "url": "https://open.spotify.com/track/307hEMkRtPyfOCiTi7NczM"
+    },
+    {
+      "album": {
+        "name": "Part Of Me",
+        "url": "https://open.spotify.com/album/1zDzf9fXQ9SVxxsmgoyYQx"
+      },
+      "artists": [
+        {
+          "name": "Rolipso",
+          "url": "https://open.spotify.com/artist/1EtBmvqGOtWnjDgCUFQRqI"
+        },
+        {
+          "name": "Giorgio Gee",
+          "url": "https://open.spotify.com/artist/2uNkbVQ2yfwLDR79cYe92R"
+        },
+        {
+          "name": "NALYRO",
+          "url": "https://open.spotify.com/artist/3XC1TzybOz2MUgUybEoUUf"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143709,
+      "name": "Part Of Me",
+      "url": "https://open.spotify.com/track/2RoSWh7aLeK5XA1iDKuv1s"
     },
     {
       "album": {
@@ -5972,6 +6114,28 @@
       "duration_ms": 230655,
       "name": "Trust Again",
       "url": "https://open.spotify.com/track/6UtNK0tycnvtCAPtCHxZ5b"
+    },
+    {
+      "album": {
+        "name": "Try",
+        "url": "https://open.spotify.com/album/4r5rI5k5ansCDpZ8tfRuv5"
+      },
+      "artists": [
+        {
+          "name": "MAFRO",
+          "url": "https://open.spotify.com/artist/2Y9v3pyVuYM0o8bSLAUUZm"
+        },
+        {
+          "name": "Qhairo",
+          "url": "https://open.spotify.com/artist/4iZFdVAuD09d0newPwscSk"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227580,
+      "name": "Try",
+      "url": "https://open.spotify.com/track/1YJ8Sx2YZjBFNWhvCDUEKa"
     },
     {
       "album": {

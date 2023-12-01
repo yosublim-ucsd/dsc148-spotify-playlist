@@ -364,7 +364,7 @@
       ],
       "date_added": "2023-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 213106,
       "name": "39 Minutes",
       "url": "https://open.spotify.com/track/3QmJn4aRv6DvNNvGLsb5Uq"
@@ -7622,6 +7622,24 @@
       "duration_ms": 355706,
       "name": "KANATA HALUKA",
       "url": "https://open.spotify.com/track/4O6htogl2A9ycNLwc9dVK1"
+    },
+    {
+      "album": {
+        "name": "Kayoesque",
+        "url": "https://open.spotify.com/album/4S6T3yQD7L4j88AJgkneKX"
+      },
+      "artists": [
+        {
+          "name": "Johnnivan",
+          "url": "https://open.spotify.com/artist/27JM9HvAAcjGJPZCoZLgWe"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203600,
+      "name": "Kayoesque",
+      "url": "https://open.spotify.com/track/3t5SYliIbQN92fQsIAeec7"
     },
     {
       "album": {
@@ -20403,6 +20421,28 @@
     },
     {
       "album": {
+        "name": "\u4e0d\u53ef\u601d\u8b70\u306e\u30ab\u30eb\u30c6",
+        "url": "https://open.spotify.com/album/1gzRr2DJsOd0FmJELNnKeY"
+      },
+      "artists": [
+        {
+          "name": "fox capture plan",
+          "url": "https://open.spotify.com/artist/7sEmXHrnEnX7PScoJAvSvo"
+        },
+        {
+          "name": "Chihiro Sings",
+          "url": "https://open.spotify.com/artist/7p0ll6CO1q1v7iJeqe3yeg"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247096,
+      "name": "\u4e0d\u53ef\u601d\u8b70\u306e\u30ab\u30eb\u30c6",
+      "url": "https://open.spotify.com/track/6Y09IA72eDQ6bP90uO1cHV"
+    },
+    {
+      "album": {
         "name": "\u4e0d\u601d\u8b70\u306a\u95a2\u4fc2",
         "url": "https://open.spotify.com/album/1W2FaF800M2nRqZlPFMhG9"
       },
@@ -21018,7 +21058,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 266900,
       "name": "\u591c\u3092\u30eb\u30fc\u30d7",
       "url": "https://open.spotify.com/track/5aF7JEshjhV8gsg8INAOYX"
@@ -21300,7 +21340,7 @@
       ],
       "date_added": "2023-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 235562,
       "name": "\u5e7d\u970a",
       "url": "https://open.spotify.com/track/4dKjOYrXQxuJ2C3VaoWZwJ"
@@ -21998,6 +22038,28 @@
       "duration_ms": 228573,
       "name": "\u6c38\u9060\u306e\u30d6\u30eb\u30fc",
       "url": "https://open.spotify.com/track/1MsgOy65pxeU7BZkDvqItH"
+    },
+    {
+      "album": {
+        "name": "\u6ce8\u610f",
+        "url": "https://open.spotify.com/album/1ZkdoyJNQyRSxAZt7Bc8ai"
+      },
+      "artists": [
+        {
+          "name": "Zainichi Funk",
+          "url": "https://open.spotify.com/artist/37hqgMV84m06updLlBFhIa"
+        },
+        {
+          "name": "\u6a4b\u672c\u7d75\u8389\u5b50",
+          "url": "https://open.spotify.com/artist/69k6tELwycdIAgvTInKNlM"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223025,
+      "name": "\u6ce8\u610f",
+      "url": "https://open.spotify.com/track/6zzNVKD5TcXxE68D9SR3Ml"
     },
     {
       "album": {

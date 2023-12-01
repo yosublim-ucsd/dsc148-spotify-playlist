@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-11",
-  "description": "Il meglio dell'R&B italiano. Cover: RAFFAELLI",
+  "description": "Il meglio dell'R&B italiano. Cover: Martino",
   "name": "anima R&B",
   "tracks": [
     {
@@ -350,6 +350,28 @@
       "duration_ms": 166918,
       "name": "Appassire",
       "url": "https://open.spotify.com/track/1ADuVuz7CXlewLNi5BDLjS"
+    },
+    {
+      "album": {
+        "name": "Aria",
+        "url": "https://open.spotify.com/album/4gVFzrfyJR8f4SzkK1q2m2"
+      },
+      "artists": [
+        {
+          "name": "Kuban",
+          "url": "https://open.spotify.com/artist/4Xy59tDL9bQYT98ExQihGG"
+        },
+        {
+          "name": "Simon Bayle",
+          "url": "https://open.spotify.com/artist/38c5fkv7JWziTzgp0Fj3Ay"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149575,
+      "name": "Aria",
+      "url": "https://open.spotify.com/track/7kF6GY9In7xN0Up5SZmHZZ"
     },
     {
       "album": {
@@ -1827,6 +1849,28 @@
     },
     {
       "album": {
+        "name": "Aurora Boreale",
+        "url": "https://open.spotify.com/album/5afOl4r5DZq2slkIrfN14I"
+      },
+      "artists": [
+        {
+          "name": "Shadaloo",
+          "url": "https://open.spotify.com/artist/2tibuALJsypDnCBzRGykYR"
+        },
+        {
+          "name": "Trusty",
+          "url": "https://open.spotify.com/artist/5yC9LA5cSmbG5y20u2Qxf7"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233064,
+      "name": "Diamanti solitari",
+      "url": "https://open.spotify.com/track/4XSJfPyaH9VytRjn8EUwc1"
+    },
+    {
+      "album": {
         "name": "Dipinto",
         "url": "https://open.spotify.com/album/1jPwyUAnIKDd6OicV6BQRH"
       },
@@ -2795,6 +2839,24 @@
     },
     {
       "album": {
+        "name": "God Is Good",
+        "url": "https://open.spotify.com/album/0QMymvAm1kRZ1t9bOTvqqO"
+      },
+      "artists": [
+        {
+          "name": "Martino",
+          "url": "https://open.spotify.com/artist/39zUfhpni3F1uedNxjSIt2"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148085,
+      "name": "God Is Good",
+      "url": "https://open.spotify.com/track/0KSMnvQjXjimr0eBa1zzOL"
+    },
+    {
+      "album": {
         "name": "Grazie",
         "url": "https://open.spotify.com/album/6avdsvWmlitDikFWDECKiT"
       },
@@ -3500,6 +3562,28 @@
       "duration_ms": 160000,
       "name": "l'alba che tornerai",
       "url": "https://open.spotify.com/track/3RYvA40J85jtXgQOs7yYcN"
+    },
+    {
+      "album": {
+        "name": "L'AMARO",
+        "url": "https://open.spotify.com/album/7pXYgKZXqPkeE1jkgD5v5R"
+      },
+      "artists": [
+        {
+          "name": "CONSI",
+          "url": "https://open.spotify.com/artist/0Pq8FvjlOce83Uz6sb8993"
+        },
+        {
+          "name": "Logos.Lux",
+          "url": "https://open.spotify.com/artist/3rGdjBtVPeHar0052yH97T"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181978,
+      "name": "L'AMARO",
+      "url": "https://open.spotify.com/track/0h5lX7Lb6VZWBlemG1vkbI"
     },
     {
       "album": {
@@ -4817,6 +4901,24 @@
     },
     {
       "album": {
+        "name": "Non c'\u00e8 vino",
+        "url": "https://open.spotify.com/album/6jeY2nHztiXwdq1of0IyKa"
+      },
+      "artists": [
+        {
+          "name": "Asiabel",
+          "url": "https://open.spotify.com/artist/491HAKV720PSqmM2Cii1F7"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "Non c'\u00e8 vino",
+      "url": "https://open.spotify.com/track/6jppOX6H6bwKOKDwPhX3Lt"
+    },
+    {
+      "album": {
         "name": "non ci sta",
         "url": "https://open.spotify.com/album/6vQiCy1LkSCCfwESVLe5a0"
       },
@@ -4890,6 +4992,32 @@
       "duration_ms": 170400,
       "name": "non me ne frega un ca",
       "url": "https://open.spotify.com/track/4kMROmt7ObJhRNeSyMj7w7"
+    },
+    {
+      "album": {
+        "name": "Non Mi Sembri Tu",
+        "url": "https://open.spotify.com/album/0DbwQqagnY37dNUTbqtv7x"
+      },
+      "artists": [
+        {
+          "name": "Gee Marchese",
+          "url": "https://open.spotify.com/artist/6NOryWbPcGZeujO5aHzAka"
+        },
+        {
+          "name": "Kinder",
+          "url": "https://open.spotify.com/artist/7Ll3iGPVXXh27DmeDkfV28"
+        },
+        {
+          "name": "J Valerix",
+          "url": "https://open.spotify.com/artist/4EcOFW30CqidrKMARI3I7u"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185256,
+      "name": "Non Mi Sembri Tu",
+      "url": "https://open.spotify.com/track/3heycD4XRr4QZ5zmUuy0Ue"
     },
     {
       "album": {
@@ -5110,6 +5238,36 @@
       "duration_ms": 172027,
       "name": "Nunn 'o voglio sape'",
       "url": "https://open.spotify.com/track/31i7zRLLh1MyLfk2mblk0d"
+    },
+    {
+      "album": {
+        "name": "Nuvola",
+        "url": "https://open.spotify.com/album/3dx4TZdU1MwdBPs3FTRrzS"
+      },
+      "artists": [
+        {
+          "name": "Ugo Crepa",
+          "url": "https://open.spotify.com/artist/2Dnl3zSlmEnQKW5bsqfROS"
+        },
+        {
+          "name": "foolviho",
+          "url": "https://open.spotify.com/artist/5jey6WrdNNxrVwujdDzDQY"
+        },
+        {
+          "name": "Alessandro Rase",
+          "url": "https://open.spotify.com/artist/5CXKssrGe7iT4wZfge8Vit"
+        },
+        {
+          "name": "Mazzariello",
+          "url": "https://open.spotify.com/artist/2EvBrGxfXTPDSZLkYAeiO1"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181525,
+      "name": "Nuvola",
+      "url": "https://open.spotify.com/track/7fkTZPZsTNvWhMt12NqWKh"
     },
     {
       "album": {
@@ -6016,6 +6174,24 @@
       "duration_ms": 223375,
       "name": "Resta qui (feat. Ensi)",
       "url": "https://open.spotify.com/track/10GPCVnfVihPpp8uOm1o49"
+    },
+    {
+      "album": {
+        "name": "American Femmena",
+        "url": "https://open.spotify.com/album/0ZnY6qxrNhcuE3gOedyBDb"
+      },
+      "artists": [
+        {
+          "name": "Cristina Lizzul",
+          "url": "https://open.spotify.com/artist/4Bn67qpfGeAhkbINuqnxze"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193333,
+      "name": "Rester\u00f2",
+      "url": "https://open.spotify.com/track/2x1OhhXXw3wrmXXSNioXk4"
     },
     {
       "album": {
@@ -7847,6 +8023,28 @@
     },
     {
       "album": {
+        "name": "Un motivo per piangere",
+        "url": "https://open.spotify.com/album/0aPaUV9hl1iDAXuueXDIYO"
+      },
+      "artists": [
+        {
+          "name": "Filippo Cattaneo Ponzoni",
+          "url": "https://open.spotify.com/artist/7LPEM878eDKFvrV5JejDXr"
+        },
+        {
+          "name": "Ma\u00eblys",
+          "url": "https://open.spotify.com/artist/4fuZBTq8KLPsKbYPQl0bZZ"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209467,
+      "name": "Un motivo per piangere",
+      "url": "https://open.spotify.com/track/5cqk26EGS39jEEjrMRMjOP"
+    },
+    {
+      "album": {
         "name": "Un'altra festa",
         "url": "https://open.spotify.com/album/0eYc4SuHZ26wkYQL0ygkDh"
       },
@@ -7920,6 +8118,28 @@
       "duration_ms": 163053,
       "name": "Universo",
       "url": "https://open.spotify.com/track/7ASGGiTB8dAfD0Qj7h2E6x"
+    },
+    {
+      "album": {
+        "name": "PUNTO ZERO",
+        "url": "https://open.spotify.com/album/3PcENwZrpHJ1mlFsoSo6Bv"
+      },
+      "artists": [
+        {
+          "name": "Arya",
+          "url": "https://open.spotify.com/artist/1Rr944KwI8GqDCdzdsHYok"
+        },
+        {
+          "name": "MaRie",
+          "url": "https://open.spotify.com/artist/34NnNxcbViVpdQn8VHYe5u"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163333,
+      "name": "USA LA MEMORIA",
+      "url": "https://open.spotify.com/track/0uCM9gbqQT4292zquIDJ39"
     },
     {
       "album": {

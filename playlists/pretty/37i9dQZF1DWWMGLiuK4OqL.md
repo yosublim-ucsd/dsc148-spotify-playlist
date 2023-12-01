@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWMGLiuK4OqL.md) - [plain]
 
 > The soft sound of some of the smoothest and sweetest vocal Jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 204,234 likes - 200 songs - 13 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 204,324 likes - 200 songs - 13 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWMGLiuK4OqL.md) - [plain]
 | 199 | [Cover Up](https://open.spotify.com/track/4uG1SPiRluQnbhRdfsgSYU) | [Caity Gyorgy](https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa), [Christine Jensen](https://open.spotify.com/artist/6ILqwG2NEsYuwmqIzZ1Spu) | [Cover Up](https://open.spotify.com/album/7JXds7hOl3z4LGfx8xTorg) | 6:06 |
 | 200 | [The Game](https://open.spotify.com/track/1g7bWSgup8GCqIGjdM2XfO) | [Lucy Yeghiazaryan](https://open.spotify.com/artist/4sXb22eyy3cbr6C2qNg6CB), [Vanisha Gould](https://open.spotify.com/artist/0z7qSkfrWXvgNrSgnidiag) | [The Game](https://open.spotify.com/album/4D18ZUei6YL7N0S2yOsKU3) | 2:06 |
 
-Snapshot ID: `MCxlNjJjNDQ5N2YzMGNkOGIxOTQwZmU2OTFkYWRjMGIxMTcyMTRiYzQ5`
+Snapshot ID: `MCw3ZmJjOTM2ZmJmMTNjZGYyYjI1ZDc0MDNjYWY4N2M4NGE0NDRlMWRm`

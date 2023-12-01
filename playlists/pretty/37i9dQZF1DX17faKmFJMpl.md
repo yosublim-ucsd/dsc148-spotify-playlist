@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX17faKmFJMpl.md) - [plain]
 
 > 한국 힙합의 뿌리, 올드스쿨 한국 힙합을 만나보세요\. \(커버: Tiger JK\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,259 likes - 100 songs - 6 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,266 likes - 100 songs - 6 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX17faKmFJMpl.md) - [plain]
 | 99 | [I Don't Give a F\*\*k \(With DEADP, DEEPFLOW\)](https://open.spotify.com/track/5JLuYzihQrbSUChde9wCFn) | [DEADP](https://open.spotify.com/artist/3hk800Fb8F8IQe1WfFGT1w), [DEEPFLOW](https://open.spotify.com/artist/4E7PyG6Vo26X1I9qURf45z), [Nastyz](https://open.spotify.com/artist/7i3DzAwRJW84LWLHGjzY6g) | [One Nation](https://open.spotify.com/album/6lspY215eSyzOThJHq0WFq) | 3:48 |
 | 100 | [인생 뭐 있어? \(feat\. 양동근\)](https://open.spotify.com/track/3NkbTBpGNKQSFLpHu1q9vd) | [Leo Kekoa](https://open.spotify.com/artist/3EWpIFAuWBMDamEARiUikk), [YDG](https://open.spotify.com/artist/3UV49ih8eDI8jZ4SdSVeqi) | [Ill Skill](https://open.spotify.com/album/3wluGULbyFDJrp41R7VdYf) | 3:24 |
 
-Snapshot ID: `MCxmNjE1NTNiNWZhZmZiMDgyYjJlOWNiMDlkN2IzZTc5NmYwZmQyNmFh`
+Snapshot ID: `MCwwMTBmOWNjNmNlZWNkMGM4OTdlODc5ZWZmNjBkYzZlOWQ5YzY5ZDVh`

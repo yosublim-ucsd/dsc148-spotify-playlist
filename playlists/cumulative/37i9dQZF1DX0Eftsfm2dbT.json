@@ -1811,6 +1811,24 @@
     },
     {
       "album": {
+        "name": "FEEL OR BEEF BADPOP IS DEAD",
+        "url": "https://open.spotify.com/album/2RC2ZF2OwNHPO1c2GwfunX"
+      },
+      "artists": [
+        {
+          "name": "\u8210\u9054\u9ebb",
+          "url": "https://open.spotify.com/artist/7nDfh01E30OkhgsPKSQzCx"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 409756,
+      "name": "FEEL OR BEEF BADPOP IS DEAD",
+      "url": "https://open.spotify.com/track/437NTuFyPIGPZOySU5xS1n"
+    },
+    {
+      "album": {
         "name": "Feelin' It",
         "url": "https://open.spotify.com/album/7dHHiZ0PIQF6NN8ReC3Lmz"
       },
@@ -4672,6 +4690,36 @@
       "duration_ms": 289846,
       "name": "RASEN in OKINAWA",
       "url": "https://open.spotify.com/track/6JDDIx1vSs5GvMZXsy2aR2"
+    },
+    {
+      "album": {
+        "name": "Raving In The Simulation",
+        "url": "https://open.spotify.com/album/2pUYtzjWnzP4s6MEnBY1LN"
+      },
+      "artists": [
+        {
+          "name": "Genick",
+          "url": "https://open.spotify.com/artist/59JrOdJYiD9hbd5QjX0XKO"
+        },
+        {
+          "name": "Jacotanu",
+          "url": "https://open.spotify.com/artist/0eWrRwbeLfOkcmIYwbA09T"
+        },
+        {
+          "name": "PeanutsKun",
+          "url": "https://open.spotify.com/artist/5GITFRQqu23xgb82VKRWUc"
+        },
+        {
+          "name": "HAKU",
+          "url": "https://open.spotify.com/artist/5e7WY3osdEKUSJy2LozHqC"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234857,
+      "name": "Raving In The Simulation",
+      "url": "https://open.spotify.com/track/3C8fxlVxOtyofU9mS3j61X"
     },
     {
       "album": {

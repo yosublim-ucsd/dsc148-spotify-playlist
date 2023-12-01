@@ -4,7 +4,7 @@
 
 > The cream of today's Country crop\. Cover: Zac & George
 
-505 songs - 1 day 3 hr 43 min
+509 songs - 1 day 3 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [23](https://open.spotify.com/track/1ZpPaBDswjV3VSUKqLDXPE) | [Chayce Beckham](https://open.spotify.com/artist/5ujvZU2thXjZgFKPUt1rDt) | [23](https://open.spotify.com/album/2LTt0pFwjPS5Zdc7tlmwyl) | 3:48 | 2023-11-09 |  |
 | [23](https://open.spotify.com/track/4PuAqZlL1tkidkuxfDlLbF) | [Sam Hunt](https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38) | [23](https://open.spotify.com/album/3i5LIueVgxjgCu1TIZOraP) | 2:59 | 2021-12-30 | 2022-04-01 |
 | [27 Club](https://open.spotify.com/track/0Ikbwd2FModLCQrZGJlRUI) | [Morgan Wade](https://open.spotify.com/artist/4eYE8Z6cfEHEdG22lTyucP) | [Psychopath](https://open.spotify.com/album/2BXF8oLlDBkgTRAHyeZvuO) | 3:43 | 2023-08-24 | 2023-11-10 |
+| [3 Feet Tall](https://open.spotify.com/track/2gwrfZzOjAinobFoOiy1T2) | [Cole Swindell](https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW) | [3 Feet Tall](https://open.spotify.com/album/4nh0KuO11MpP06u2P165QJ) | 3:42 | 2023-11-30 |  |
 | [5 Foot 9](https://open.spotify.com/track/6AqwH2Y9FJwhUE2dCSkw1u) | [Tyler Hubbard](https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V) | [5 Foot 9](https://open.spotify.com/album/5CTNA7y4WYhLcCd8ijsnRr) | 3:09 | 2022-05-26 | 2022-10-28 |
 | [5 Leaf Clover](https://open.spotify.com/track/2RbIoEQeXBoJzWt09eitEI) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [5 Leaf Clover](https://open.spotify.com/album/6Aa81tDuPFATzb61ZQNTmM) | 3:31 | 2023-03-16 | 2023-08-10 |
 | [A Boy That's Into Trucks](https://open.spotify.com/track/4EG8V97vcIWo6PbNcPTdHb) | [Sara Berki](https://open.spotify.com/artist/21L6MUgqitOTfF9t1PcNXd) | [A Boy That's Into Trucks](https://open.spotify.com/album/28wWwYIM2g1A407gF1iRar) | 3:25 | 2023-06-08 | 2023-08-18 |
@@ -25,6 +26,7 @@
 | [Admire](https://open.spotify.com/track/0wdFJP36ORnHvKNK0fEtTg) | [Jake Davey](https://open.spotify.com/artist/5dlylLGY11H1ekOD9hwHuK) | [Admire](https://open.spotify.com/album/6OpFEhugnMcaFwgVGoFFcg) | 3:34 | 2022-03-04 | 2022-07-18 |
 | [After the Breakdown](https://open.spotify.com/track/5XsBQNOToyIfL0dGp7KIna) | [McAlister Kemp](https://open.spotify.com/artist/3kYvlV6E961RxSCtavDXe6) | [After the Breakdown](https://open.spotify.com/album/6TDFO09pfq3OdtvKFEj9Ey) | 3:24 | 2022-03-31 | 2022-06-17 |
 | [Ain't Goin' Home](https://open.spotify.com/track/4HpMCEkK2bAYTsIaMnVfsc) | [Vixens Of Fall](https://open.spotify.com/artist/5E8CKxCEIm6vLESXqUExBt) | [Ain't Goin' Home](https://open.spotify.com/album/2BaCaOKP9hMhf68PTLKJY6) | 3:18 | 2022-07-21 | 2022-10-07 |
+| [Ain't That The Way](https://open.spotify.com/track/5IF3W8ogC5kVT0N5wi7J5i) | [Sammy White](https://open.spotify.com/artist/3H2uDUlFVxsrI8wqBOIGEP) | [Ain't That The Way](https://open.spotify.com/album/23q6Juae8S4qOuaQuhvskP) | 3:10 | 2023-11-30 |  |
 | [Ain't The One](https://open.spotify.com/track/0pI8ooKQA99dJOKxc4khYJ) | [Josh Ross](https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U) | [Ain't The One](https://open.spotify.com/album/3dxiEuuXYgLO8gCbXK2YaO) | 3:05 | 2023-10-12 |  |
 | [Ain't The One](https://open.spotify.com/track/1DMKxugJjRgFjEzUb6Sd62) | [Josh Ross](https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U) | [Ain't The One](https://open.spotify.com/album/6mgEILhlga6pdEns5qahoU) | 3:05 | 2023-09-28 | 2023-10-19 |
 | [Ain't Too Much To Ask](https://open.spotify.com/track/5i1zwHDWoKrUKOjfCOLxcv) | [Lane Pittman](https://open.spotify.com/artist/4amB7X5ESMq5PB1ve3HmYZ) | [Ain't Too Much To Ask](https://open.spotify.com/album/3OVvIjcMve3JjzJFsnjXT4) | 3:17 | 2023-11-09 |  |
@@ -82,6 +84,7 @@
 | [Cheap Liquor](https://open.spotify.com/track/5twCxGXVBfZ6gNtGLfJhNu) | [Andrew Swift](https://open.spotify.com/artist/428gAQRnMEaxHVT0VoUNCd) | [Lightning Strikes and Neon Nights](https://open.spotify.com/album/55HTZMTZo36Yg7C3O8EamR) | 4:13 | 2023-04-27 | 2023-06-30 |
 | [Cheap Moscato](https://open.spotify.com/track/0Sz3WfyjvMvAqjdZ8URlXH) | [Melanie Dyer](https://open.spotify.com/artist/159pZhqLdWf1ttWtw0zBoL) | [Cheap Moscato](https://open.spotify.com/album/1YVHfRtUC9nmqUTJlk2zEy) | 2:45 | 2022-02-06 | 2022-07-08 |
 | [Cheating On Me](https://open.spotify.com/track/42JCfqD9343rCiDTVwX30J) | [Melanie Dyer](https://open.spotify.com/artist/159pZhqLdWf1ttWtw0zBoL) | [Cheating On Me](https://open.spotify.com/album/3bQeWBXnHReJxagC67rkYJ) | 3:28 | 2022-08-05 | 2022-10-21 |
+| [Chill](https://open.spotify.com/track/1kTYELly3Zlf2zFWFu2oW4) | [Travis Collins](https://open.spotify.com/artist/1hB4sZ49ocIuwxPEBIV35m) | [Any Less Anymore](https://open.spotify.com/album/7kzmnHQbgOfSfAl5oYw0w5) | 3:06 | 2023-11-30 |  |
 | [Circles Around This Town](https://open.spotify.com/track/13G5xv1wUKvJYbK0wYmioN) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Circles Around This Town](https://open.spotify.com/album/2MeNs8IOs7udC2CuiFKmlZ) | 3:15 | 2022-01-06 | 2022-07-15 |
 | [City Girls In The Country](https://open.spotify.com/track/4R59AUuHpRuhI6A1CT6nzt) | [Rachael Fahim](https://open.spotify.com/artist/0l7PmxcaTok6bxl67BX6XT) | [City Girls In The Country](https://open.spotify.com/album/6aip6rm5QprYwSErt07SVe) | 3:13 | 2022-09-29 | 2023-03-10 |
 | [Coal](https://open.spotify.com/track/4dtIxANFBU6CfhI9c2hf2g) | [Dylan Gossett](https://open.spotify.com/artist/4H4M0Y4cN39zIVDHvdW53x) | [Coal](https://open.spotify.com/album/5c5a2dLd2qLVN5zlaOcKJQ) | 3:14 | 2023-10-05 |  |
@@ -446,6 +449,7 @@
 | [Thinking 'Bout You \(feat\. MacKenzie Porter\)](https://open.spotify.com/track/7DhvNzyMM8jJWcfykG3psB) | [Dustin Lynch](https://open.spotify.com/artist/1dID9zgn0OV0Y8ud7Mh2tS), [MacKenzie Porter](https://open.spotify.com/artist/6nXco5Q3cJJ0ZutnBOsSpq) | [Thinking 'Bout You \(feat\. MacKenzie Porter\)](https://open.spotify.com/album/2KwIVKnLZLilwl5mYKTtTH) | 2:50 | 2021-12-30 | 2022-06-03 |
 | [Thinkin’ Bout Me](https://open.spotify.com/track/0PAcdVzhPO4gq1Iym9ESnK) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [One Thing At A Time](https://open.spotify.com/album/6i7mF7whyRJuLJ4ogbH2wh) | 2:57 | 2023-11-02 |  |
 | [This Night Forever](https://open.spotify.com/track/1n3xrPkzczwahhYRKLvBRj) | [Hurricane Fall](https://open.spotify.com/artist/2PKMFahF0XfzJ3nYQiXcA8) | [This Night Forever](https://open.spotify.com/album/21uMl1aVKPmDS8ZU5pZBEo) | 2:51 | 2022-04-07 | 2022-07-12 |
+| [This Ol' Rodeo](https://open.spotify.com/track/4IhE9UIoeY1kzdIEJk5AfF) | [Chayce Beckham](https://open.spotify.com/artist/5ujvZU2thXjZgFKPUt1rDt) | [This Ol' Rodeo](https://open.spotify.com/album/1yjrPK4BGFnfdZWmJpypsl) | 4:18 | 2023-11-30 |  |
 | [This Summer's The One](https://open.spotify.com/track/7w2BUkoME2VxIZltz8zuqS) | [Bryce Sainty](https://open.spotify.com/artist/6FzcOBH2gzC2UyGt6cme0t) | [This Summer's The One](https://open.spotify.com/album/5FL5wCFvoZUvPYV7Ohgl43) | 2:43 | 2022-01-21 | 2022-04-15 |
 | [This Town](https://open.spotify.com/track/0UaE4ZxrfU5TGpe4Luzf7W) | [Brittany Maggs](https://open.spotify.com/artist/7nhHQaEhJJWxz51Eey1hQ0) | [This Town](https://open.spotify.com/album/0JujBFz9ERfluY6AFqVkI9) | 3:05 | 2023-11-09 |  |
 | [This Town's Been Too Good To Us](https://open.spotify.com/track/6vsa5VDsIaWC8oJnowU65l) | [Dylan Scott](https://open.spotify.com/artist/78YqeIji3mgAS2K1Maca6x) | [This Town's Been Too Good To Us](https://open.spotify.com/album/1QVjRGmRPZIbdlL22aUmol) | 3:11 | 2023-06-08 | 2023-10-06 |

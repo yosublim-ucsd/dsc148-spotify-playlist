@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 
 > 音楽メディア<a href="http://spincoaster.com/">Spincoaster</a>が厳選したホットな新曲を毎週月曜日にお届け！
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,264 likes - 60 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,268 likes - 60 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 | 59 | [On My Luv](https://open.spotify.com/track/6H9mffNOKeXnTGQ5xwUPGe) | [TeN](https://open.spotify.com/artist/13SGM3N74r68XG6d1OsECc) | [On My Luv](https://open.spotify.com/album/4MyDeuS50PrvyE0exx8tqb) | 2:27 |
 | 60 | [Ivy](https://open.spotify.com/track/1eBqCeR7Pf5aMD8uCbiTZR) | [tsubasa sasaki](https://open.spotify.com/artist/2FtdjGHCKCbbcciiHS0WMZ) | [Ivy](https://open.spotify.com/album/0fxQhDoIzwvgsI50arzKQa) | 2:48 |
 
-Snapshot ID: `MCxlYzlhY2RmMjE4YjQ5M2YwNDVhYzM5MWZjZTQ5N2I3YTY4MWI0ZDZh`
+Snapshot ID: `MCxmYTc4ZWJjM2RiZjk1OTI4MmRlNjM5MzkwZmY4MDE3MjU3MzFjYjNh`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1cAnQLHCOsG.md) - [plain]
 
 > Pa' las posadas y las fiestas, canciones navideñas con sazón mexa\. Panter Bélico en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,336 likes - 75 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,383 likes - 75 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1cAnQLHCOsG.md) - [plain]
 | 74 | [Unidos En Navidad](https://open.spotify.com/track/120fyL4fR64MjBNqGvj5hv) | [Aaron Y Su Grupo Ilusion](https://open.spotify.com/artist/1zVxAFV8uL5V816dzdHvYQ) | [Unidos En Navidad](https://open.spotify.com/album/1ThpEAdltcrkn3V68mb1iU) | 3:45 |
 | 75 | [El Burrito Sabanero](https://open.spotify.com/track/469MSmQG8v0E8p2JEX0mrY) | [Nora González](https://open.spotify.com/artist/0BVCyIztXUUpw2Ek7REmd9), [Iskander](https://open.spotify.com/artist/6qEHX4yRVZ5WP069VAaC2p), [SanJuan](https://open.spotify.com/artist/5COk5Ii3aTVBA7DsJLlNBq) | [El Burrito Sabanero](https://open.spotify.com/album/6d75W2OV6wICNxwSu4KCFU) | 3:51 |
 
-Snapshot ID: `MCxlYTI1M2UwNGI1OGFlYTk4NjY3ZDM2YmM0ZTBkZDI4ODBlNWM0ZWZm`
+Snapshot ID: `MCwzYjg0ZTQxZmUwNThmYjg5MGU5NWNlMTgwN2Y3NzcwN2ZhYmQxYzAy`

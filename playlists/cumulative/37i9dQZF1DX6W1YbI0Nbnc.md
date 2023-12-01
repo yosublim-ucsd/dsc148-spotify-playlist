@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX6W1YbI0Nbnc.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX6W1YbI0Nbnc) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX6W1YbI0Nbnc)
 
-### [EQUAL Hong Kong](https://open.spotify.com/playlist/37i9dQZF1DX6W1YbI0Nbnc)
+### [Best of EQUAL Hong Kong 2023](https://open.spotify.com/playlist/37i9dQZF1DX6W1YbI0Nbnc)
 
 > Highlights of 2023, listen to women at full volume\. 結集2023，香港EQUAL女聲力量！\(cover: Anita Mui 梅艷芳\)
 

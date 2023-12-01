@@ -401,6 +401,32 @@
     },
     {
       "album": {
+        "name": "Cold Night in New York",
+        "url": "https://open.spotify.com/album/0ZlsULVG0io8URAPXjXmm0"
+      },
+      "artists": [
+        {
+          "name": "Nova Jazzers",
+          "url": "https://open.spotify.com/artist/1Te8AXTImtNqHaOEpBFuOf"
+        },
+        {
+          "name": "Jazz Liberatorz",
+          "url": "https://open.spotify.com/artist/6wq0ypfSKR1Baqi4qoJWsq"
+        },
+        {
+          "name": "Space Jazz Trio",
+          "url": "https://open.spotify.com/artist/2sLufQ8lc6cZL6YIO1oD65"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317759,
+      "name": "Cold Night in New York",
+      "url": "https://open.spotify.com/track/2bxQ1MNNJxAjdtjiJ6MJx3"
+    },
+    {
+      "album": {
         "name": "Come Away With Me",
         "url": "https://open.spotify.com/album/4LnkT3vGIc1iifgGnblsc2"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSqBruwoIXkA.md) - [plain]
 
 > heartbreak feels good in a place like this Cover: Chance Peña
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,667,208 likes - 150 songs - 8 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,667,454 likes - 150 songs - 8 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSqBruwoIXkA.md) - [plain]
 | 149 | [At Your Worst](https://open.spotify.com/track/2k8qzTJTHY1m3osbMtayIy) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [Silence Between Songs](https://open.spotify.com/album/0Q0rJ81u7O4EFCpqkcwJJ2) | 2:58 |
 | 150 | [break my heart](https://open.spotify.com/track/4qQJIuWmMXbtMAy3pnBpso) | [Matt Hansen](https://open.spotify.com/artist/6wlhqnATSJIc0NQ64VxOVJ) | [break my heart](https://open.spotify.com/album/7tSgsBAq25fhQJ4yuddr7o) | 2:58 |
 
-Snapshot ID: `MCw1YzZlMTBmYjk4ZTI2ZmVjZDE4Mjk4Zjc0ZjU1MTU4YmY2NDE5ODQ3`
+Snapshot ID: `MCwxNzUxYzdlYWY2NWI1NGJiNDIxZDc5NjA0ZjY0YTI1ZjFkOTI5OWU3`

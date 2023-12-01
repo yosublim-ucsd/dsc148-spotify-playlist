@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0Rm77xvh8qMUOJ5pvmeoHm.md) - [plain]
 
 > Celebrate with these party tracks everyone knows and loves!
 
-[Topsify](https://open.spotify.com/user/topsify) - 189,754 likes - 93 songs - 4 hr 56 min
+[Topsify](https://open.spotify.com/user/topsify) - 189,742 likes - 93 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

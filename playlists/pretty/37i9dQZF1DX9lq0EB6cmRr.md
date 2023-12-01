@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9lq0EB6cmRr.md) - [plain]
 
 > Listen hot and new Korean classical & new age  music in here! \(Cover: Forestella\(포레스텔라\)\) 한국 클래식 음악 핫 & 최신 트랙들을 만나보세요!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,977 likes - 96 songs - 8 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,981 likes - 96 songs - 8 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9lq0EB6cmRr.md) - [plain]
 | 50 | [Piano Sonata No\. 16 in A Minor, D\. 845: I\. Moderato](https://open.spotify.com/track/1bFKVMn8dqPF5J4C8KaPQw) | [Franz Schubert](https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP), [William Youn](https://open.spotify.com/artist/7uWSy5aRJy75BSKdpYbp2R) | [Schubert: Piano Sonatas III](https://open.spotify.com/album/2eWZeuZu031ycRDsPdGEgX) | 10:28 |
 | 51 | [Impromptu Op.142, D.935, No.3 'Rosamunde'](https://open.spotify.com/track/0I438LZWCVHD8Z1wMG8hPK) | [Franz Schubert](https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP), [Hanbin Chyung](https://open.spotify.com/artist/00NlYVLrAW8rUegeNDJTgT) | [Lieber Franz](https://open.spotify.com/album/1BPSbLMI7UmjgPfG3VOGQo) | 11:11 |
 | 52 | [My Heart Will Go On](https://open.spotify.com/track/12Lo4EX0wt5uhUtKPwIaXe) | [Forestella](https://open.spotify.com/artist/4Phfy4o60wGqoPQFl5oCP8) | [The Forestella](https://open.spotify.com/album/6hs2qZO4ybDSIudDKpgxxU) | 4:44 |
-| 53 | [We Contain Multitudes — piano reworks](https://open.spotify.com/track/1rpF77jsLBMG2QjCuhe0Sr) | [Yiruma](https://open.spotify.com/artist/0fauHpmSHwodVYIjTqOGHz), [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [We Contain Multitudes — piano reworks](https://open.spotify.com/album/4vtunVFmIlrxIrkOobdfDH) | 4:24 |
+| 53 | [We Contain Multitudes — piano reworks](https://open.spotify.com/track/1eDy2A3euqy3axIdoKgQd5) | [Yiruma](https://open.spotify.com/artist/0fauHpmSHwodVYIjTqOGHz), [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [some kind of peace — piano reworks](https://open.spotify.com/album/79a34uOB7jdMrSECClgqOv) | 4:24 |
 | 54 | [Violin Concerto No\. 2, BB 117: I\. Allegro non troppo](https://open.spotify.com/track/7GZP28qyjxjNMI1d0jgEMf) | [Béla Bartók](https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd), [Lee Jong Eun](https://open.spotify.com/artist/3Z99KEDvrRSX1hRfYpcy4u) | [Bartok Violin Concerto](https://open.spotify.com/album/3Enk3LYRadSz1HjBKk11f4) | 16:55 |
 | 55 | [Solemn Love](https://open.spotify.com/track/1C4QeGKTj6uA8tcVW0IvKQ) | [Dan Jones](https://open.spotify.com/artist/3iADiUHE1zNtXMd8ZGLQho), [Esther Yoo](https://open.spotify.com/artist/5nxfecQzSK5KWsygb0IXiC), [BBC National Orchestra Of Wales](https://open.spotify.com/artist/1fhEh9FpKs42GFeqerlBUf) | [On Chesil Beach \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3LF217LOo5xzgLszre4jfl) | 1:36 |
 | 56 | [Lovely Night](https://open.spotify.com/track/5mMzR4exCSdokzXVQh2VOq) | [Hyunsoo Park](https://open.spotify.com/artist/5FFIobzpoENexOu1dXGd0s) | [Lovely Night](https://open.spotify.com/album/4lrTjfIh8foTGkaitpI39J) | 3:22 |
@@ -101,8 +101,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9lq0EB6cmRr.md) - [plain]
 | 91 | [Concert Fantasy on Themes from Gershwin's Porgy and Bess, Op\. 19](https://open.spotify.com/track/0wxEjB5smW1Y62T7nh8DMD) | [George Gershwin](https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4), [Kim Dami](https://open.spotify.com/artist/2qd87b0u1binbbeQPFh7eT) | [Timepass](https://open.spotify.com/album/1UKIVk5shyZCjcukuCuqnU) | 14:22 |
 | 92 | [Island baby](https://open.spotify.com/track/4KK9FI8mWKkbn6ryGdUY6k) | [Denis Sungho](https://open.spotify.com/artist/14AiQlh46InimcwmW3zXdp), [COAST82](https://open.spotify.com/artist/6gv9fIqO7Q8YrI7hUxH0pL) | [ISLAND](https://open.spotify.com/album/1P23X6A8ovWM89GeBOjxzT) | 4:39 |
 | 93 | [The Steps Of Tomorrow](https://open.spotify.com/track/4SGvRalrhEY1s389vbLK0x) | [Kai](https://open.spotify.com/artist/5zCtihKT8IsDqVS5WBbqHD) | [KAI ON MUSICAL](https://open.spotify.com/album/04B5WAQquyirwfdtBWrs6N) | 3:32 |
-| 94 | [We Contain Multitudes](https://open.spotify.com/track/2WzVKUgz02wA3OyPvxPhL0) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [We Contain Multitudes — piano reworks](https://open.spotify.com/album/4vtunVFmIlrxIrkOobdfDH) | 3:18 |
+| 94 | [We Contain Multitudes](https://open.spotify.com/track/4SrMWTrs3io7FJXAHSo43c) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [some kind of peace](https://open.spotify.com/album/6NW97EFYSQ9X1CulKyL7wf) | 3:18 |
 | 95 | [Suite No\. 2 in F Major, HWV 427: I\. Adagio](https://open.spotify.com/track/76PT3Wp1xEYDkMFeLj5H8d) | [George Frideric Handel](https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2), [Seong\-Jin Cho](https://open.spotify.com/artist/1p0J5PXJQMVqk5uVV4T1ja) | [Handel: Suite No\. 2 in F Major, HWV 427: I\. Adagio](https://open.spotify.com/album/4mlFghKBM97vHU1O1ij0XI) | 2:36 |
 | 96 | [Cello Sonata for Cello and Piano in g minor, op.19 : I\. Lento \- Allegro moderato](https://open.spotify.com/track/5GhyoZUW9XdWQOrbOODnD2) | [Sergei Rachmaninoff](https://open.spotify.com/artist/0Kekt6CKSo0m5mivKcoH51), [Yoosin Park](https://open.spotify.com/artist/0d06TjR29UBzbk5QaHRsBI), [Ilya Rashkovskiy](https://open.spotify.com/artist/1IikLqDNOPysAueQHmo3CB) | [White Night](https://open.spotify.com/album/7FB6YKYscqNfDvvJrDJtom) | 12:21 |
 
-Snapshot ID: `MCw0NzYwN2VlZmI5ZGI5YmUxYWE3ODZkM2U0YTAzZTZjZDc5MmMyNjEz`
+Snapshot ID: `MCw0Y2IwYjBhMjk1ZDUxYWRmZjkxOGJlNDAzMTg4MDkzNTI4MmFhYTBk`

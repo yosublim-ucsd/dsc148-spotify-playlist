@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3FJKV5EZtau.md) - [plain]
 
 > Electronic tunes for your virtual world.
 
-[Spotify](https://open.spotify.com/user/spotify) - 99,069 likes - 125 songs - 7 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 99,116 likes - 125 songs - 7 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3FJKV5EZtau.md) - [plain]
 | 124 | [4ever1](https://open.spotify.com/track/0GxANOXWo9oJRjH32EOYkW) | [caro♡](https://open.spotify.com/artist/3ypTgZWVLSkBaTjFNjSDE8) | [4ever1](https://open.spotify.com/album/07D2Gq848vkcj5T1Gpfoyl) | 2:36 |
 | 125 | [Echoes In Eternity](https://open.spotify.com/track/7ooTt6NVRZlH9AcHY4fTZm) | [Notaker](https://open.spotify.com/artist/0I7HgbIetYEIweWq7nD6En) | [Echoes In Eternity](https://open.spotify.com/album/7HNcC4FVhg4Fis8cVsZwNh) | 3:15 |
 
-Snapshot ID: `MCwyOTY3MzZkYmRhMDgzYmNmYjYyYWQzODhhZmQwMzZhNDY4OTk3YTk5`
+Snapshot ID: `MCxhMzRmZGFkYTk1ODViZGYwNGU5NGI4Y2I3ZTIyNmY2YWQ0NDgxYjdh`

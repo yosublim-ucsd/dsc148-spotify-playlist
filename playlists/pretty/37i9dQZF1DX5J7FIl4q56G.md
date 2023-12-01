@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 
 > This week's best new metal & hard rock tracks\. Cover: Dead by April
 
-[Spotify](https://open.spotify.com/user/spotify) - 711,773 likes - 40 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 711,829 likes - 40 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 20 | [After a Lie](https://open.spotify.com/track/3Y7PNgjJ1eExn0y6kVmKvp) | [STORM](https://open.spotify.com/artist/4AVgAZo5MgdaXUSCZEzWjZ) | [After a Lie](https://open.spotify.com/album/0vlmu5YNQTMBS6LlYvvVpi) | 3:29 |
 | 21 | [Say Your Lies](https://open.spotify.com/track/0DeTY0CCiXinaMZEWyyr1Y) | [Deaf Rat](https://open.spotify.com/artist/7p1KKyEJ3F0eavGA6SMrn7) | [Say Your Lies](https://open.spotify.com/album/7MraOPYA6dtm20qk7cFG7Z) | 4:23 |
 | 22 | [Kaneda](https://open.spotify.com/track/40CtKggBylHY7G3yUBYPyU) | [Smash Hit Combo](https://open.spotify.com/artist/7n9ZfBhbU4NJNSHNZWl76a) | [Kaneda](https://open.spotify.com/album/5td63N8Cvw2nCZ7HfV5OK3) | 3:08 |
-| 23 | [Plated Gold](https://open.spotify.com/track/32lwUZijRjRBDHjyUZeyx3) | [Future Static](https://open.spotify.com/artist/00IwRuoCtg1U25AGQxDleF), [Sean Harmanis](https://open.spotify.com/artist/294srHUKFQtIEzdvvAjjNL) | [Liminality](https://open.spotify.com/album/0EMnIPOou5LCTjqdeYv1UB) | 3:37 |
+| 23 | [Plated Gold](https://open.spotify.com/track/32lwUZijRjRBDHjyUZeyx3) | [Future Static](https://open.spotify.com/artist/00IwRuoCtg1U25AGQxDleF), [Sean Harmanis](https://open.spotify.com/artist/6sFaaNUaT2CyTFTwOs6soQ) | [Liminality](https://open.spotify.com/album/0EMnIPOou5LCTjqdeYv1UB) | 3:37 |
 | 24 | [Au revoir](https://open.spotify.com/track/2Ykk8aOMPZekkMrBWwNOrw) | [Frontières](https://open.spotify.com/artist/4LQCWMBhE1888kPXrl55Gc) | [Au revoir](https://open.spotify.com/album/7weraCe3GHxOIvccljO9It) | 3:57 |
 | 25 | [Haunt](https://open.spotify.com/track/734bdTP25gIHjdBGOylSNY) | [SAVE US](https://open.spotify.com/artist/4zg7MdBZ6o5IFIcB6qXZg1) | [Haunt](https://open.spotify.com/album/4qgWs0MOoShbh0atWQsKL7) | 3:52 |
 | 26 | [I Am](https://open.spotify.com/track/1gRarf8IEe0zljNQCiJBNl) | [Saint Agnes](https://open.spotify.com/artist/7c7LKkvEU9xLPyFmvV4njL) | [BLOODSUCKERS](https://open.spotify.com/album/78xfo3XQBKNBUzHXuXVYOb) | 3:38 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 39 | [Stench Of Demise](https://open.spotify.com/track/44tQD4lQZQmyyBxu3LDwC2) | [Omega Diatribe](https://open.spotify.com/artist/3PhlBs25cslOOkkFtQXXvT) | [Stench Of Demise](https://open.spotify.com/album/0kKwMGkzOXN6K8B4DD6WmA) | 4:04 |
 | 40 | [Hinter der Sonne](https://open.spotify.com/track/1f4A7xzv7PtcR7oWBe6E9H) | [Zorn](https://open.spotify.com/artist/0aFMxvVviIbGXHGmq0EbXk) | [Discography 1994\-1997](https://open.spotify.com/album/5YC5w9Tn0JvxCheaA0l3Yp) | 3:11 |
 
-Snapshot ID: `MCw1ZGYzZjZmY2Q0ZTRkZTYyZmViMDg4MjNkNDhjNTFkZjFmYjk4YmJl`
+Snapshot ID: `MCxiY2M2NDhmMWRiYTI2OWJhYjRjY2NjODU5NDMwNTM5ZjljZGQyZWY0`

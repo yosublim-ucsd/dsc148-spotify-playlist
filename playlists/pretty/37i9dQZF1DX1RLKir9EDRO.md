@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1RLKir9EDRO.md) - [plain]
 
 > Yılın favori keşifleri\. Kapak: M Lisa Çizim: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,417 likes - 75 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,639 likes - 75 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1RLKir9EDRO.md) - [plain]
 | 74 | [Koca koca çocuklar](https://open.spotify.com/track/0RFjRtxXpD6ITwcTfuRuMJ) | [Ferdinand](https://open.spotify.com/artist/5RkqmSvDQo2hqtBDZhLbwC) | [Koca koca çocuklar](https://open.spotify.com/album/1hIHzAFrsJ7DBgXOeIzCmm) | 3:42 |
 | 75 | [Pembe](https://open.spotify.com/track/0a41ZkguFMiqfmsZ6b4GFb) | [Afil](https://open.spotify.com/artist/3VLAvGTqIwUGu3Tq8uI4TQ) | [Pembe](https://open.spotify.com/album/1Sd7cRCqnXwqF2DwocoSVw) | 2:30 |
 
-Snapshot ID: `MCxlMjYwMmU1ZTdjZjBkMjE1YWI4NDY5ZGRiNGE1OWE5N2YzZWIxNDM4`
+Snapshot ID: `MCwxZmI1M2I1NzQxNmM1ZWRlMzRiYWU1Y2RhMTE5YmJmNGY4ZjI0NGNj`

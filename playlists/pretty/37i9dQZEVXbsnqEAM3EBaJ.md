@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbsnqEAM3EBaJ.md) - [plain]
 
 > Catch all the latest music from artists you follow, plus new singles picked for you\. Updates every Friday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 0 like - 31 songs - 2 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 0 like - 31 songs - 2 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,12 +21,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbsnqEAM3EBaJ.md) - [plain]
 | 11 | [Trial By Fire](https://open.spotify.com/track/6oIGM95s3TIyPqhHIH2AQ6) | [Judas Priest](https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I) | [Trial By Fire](https://open.spotify.com/album/0Tfz5EVaNE6oeAn4vttNEi) | 4:21 |
 | 12 | [Kid Ego \- Live 1989](https://open.spotify.com/track/3a4aiLOp7FCaML85w3Qf93) | [Extreme](https://open.spotify.com/artist/6w7j5wQ5AI5OQYlcM15s2L) | [Leave Me Blue \(Live\)](https://open.spotify.com/album/5DHLdDb2OAxCXGXlBK64rI) | 4:01 |
 | 13 | [Every Breath You Take](https://open.spotify.com/track/0olhDuJdwF3WbIu16hCE3S) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU), [Sting](https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk) | [Rockstar](https://open.spotify.com/album/2thjKwqPvHo5SWzSzudVB2) | 4:22 |
-| 14 | [And Still \- Bright\-Side Mix](https://open.spotify.com/track/1ITNKEIgQNWx1mkIZu9R3H) | [Peter Gabriel](https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I) | [And Still \(Bright\-Side Mix\)](https://open.spotify.com/album/68zGmkQetcDd6s5lcScxEp) | 7:42 |
-| 15 | [Going, Going, Gone \- Live at Nippon Budokan Hall, Tokyo, Japan \- February 28, 1978](https://open.spotify.com/track/2jaHpMuTVaEM2kFtAmkOHi) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [The Complete Budokan 1978 \(Live\)](https://open.spotify.com/album/6LosaBGHSd97BYSVI7x4ni) | 4:03 |
+| 14 | [Going, Going, Gone \- Live at Nippon Budokan Hall, Tokyo, Japan \- February 28, 1978](https://open.spotify.com/track/2jaHpMuTVaEM2kFtAmkOHi) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [The Complete Budokan 1978 \(Live\)](https://open.spotify.com/album/6LosaBGHSd97BYSVI7x4ni) | 4:03 |
+| 15 | [And Still \- Bright\-Side Mix](https://open.spotify.com/track/1ITNKEIgQNWx1mkIZu9R3H) | [Peter Gabriel](https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I) | [And Still \(Bright\-Side Mix\)](https://open.spotify.com/album/68zGmkQetcDd6s5lcScxEp) | 7:42 |
 | 16 | [DJ Play A Christmas Song \- 7th Heaven Club Mix](https://open.spotify.com/track/5kU3NesP9gTe1tqvbB9R05) | [Cher](https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt), [7th Heaven](https://open.spotify.com/artist/5pflJc47McwW2cNXOKCtSi) | [DJ Play A Christmas Song \(DJ Mixes\)](https://open.spotify.com/album/1qsVaIjStefGK4mJLwNHia) | 6:41 |
 | 17 | [Autopoiética](https://open.spotify.com/track/7vNHNUWpNNW9G5hokRWVpH) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Autopoiética](https://open.spotify.com/album/1P3veSTOBbA57c6nndi5xI) | 2:32 |
 | 18 | [Catfish Blues \- Live at The Hollywood Bowl, Hollywood, CA \- August 18, 1967](https://open.spotify.com/track/267hVJUi029ovd5X6rqTo1) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Jimi Hendrix Experience: Live At The Hollywood Bowl: August 18, 1967](https://open.spotify.com/album/0DtRXNeZDS03QOb4TsDVLP) | 8:13 |
-| 19 | [What’s The Frequency, Kenneth? \- Live At The Palace / 1999](https://open.spotify.com/track/096Cw6U4EUPLCTkkSmDczL) | [R.E.M.](https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg) | [Up \(25th Anniversary Edition\)](https://open.spotify.com/album/5kQu0kycLJGGRoqsDR3cv3) | 4:26 |
+| 19 | [Its The End Of The World As We Know It \(And I Feel Fine\) \- Live At The Palace / 1999](https://open.spotify.com/track/4xhpAHwF6dDuZxItA6dL0G) | [R.E.M.](https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg) | [Up \(25th Anniversary Edition\)](https://open.spotify.com/album/5kQu0kycLJGGRoqsDR3cv3) | 4:59 |
 | 20 | [A la Cima \- Remix](https://open.spotify.com/track/1DR7UyAbzyvWbtmfHrRtiS) | [Ana Tijoux](https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz), [Movimiento Original](https://open.spotify.com/artist/50u2mXgysmTttY0BizYWAo), [KYA](https://open.spotify.com/artist/1D1DNu1iQq7j7hFOlJZJyP), [Dj Bitman](https://open.spotify.com/artist/7FfKue3foqwcKAUi36xsh9) | [A la Cima \(Remix\)](https://open.spotify.com/album/1VqpdzhSfajFfSPiIAiL6B) | 3:05 |
 | 21 | [Witching Metal](https://open.spotify.com/track/6FFhcYF1E0tZNE7qiUfBTr) | [Sodom](https://open.spotify.com/artist/6SYbLA9utoNsllunR1TnkM) | [1982](https://open.spotify.com/album/41vrCbXFyOwLTHls46ugCV) | 3:28 |
 | 22 | [Screams \- Live](https://open.spotify.com/track/6IL4Ev4bnsUbwLIWrSvJKo) | [Blue Öyster Cult](https://open.spotify.com/artist/00tVTdpEhQQw1bqdu8RCx2) | [Screams \(Live\)](https://open.spotify.com/album/3p4CRzUioxQfCVOz9ROmsc) | 3:07 |
@@ -40,4 +40,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbsnqEAM3EBaJ.md) - [plain]
 | 30 | [Stir It Up \- Jamaican Extra Organ Version](https://open.spotify.com/track/3J9JUxKFWfck2gA1IDn4Bh) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Catch A Fire \(50th Anniversary\)](https://open.spotify.com/album/5fys4mnxoURHl9ThAEPoKU) | 3:50 |
 | 31 | [Hologramas](https://open.spotify.com/track/7fz3vtDl7DGXa5HLQTGXR1) | [Como Asesinar a Felipes](https://open.spotify.com/artist/17WostYl0Ep0nyJmA0m2ds) | [Endlos](https://open.spotify.com/album/4jW8H7KBRZuRalIQ43bQKy) | 5:32 |
 
-Snapshot ID: `MjgzNDY1ODAsMDAwMDAwMDBmMDIwMTY0YmY1ZDc4MmQyODg1MzQ2ZTI4NDMxNDM0ZQ==`
+Snapshot ID: `MjgzNDY1ODAsMDAwMDAwMDAyZmVjZGEyMWM2MmY5ZWRmNmVjYjY5ZTA1MWI1MDU4Ng==`

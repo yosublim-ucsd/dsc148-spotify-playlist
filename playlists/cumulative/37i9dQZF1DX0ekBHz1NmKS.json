@@ -402,7 +402,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 174560,
       "name": "Again and Again",
       "url": "https://open.spotify.com/track/0AzidKkUPGyBypvcwuKp0x"
@@ -4457,6 +4457,24 @@
     },
     {
       "album": {
+        "name": "Finally Home",
+        "url": "https://open.spotify.com/album/29qzETKSfxppvz3hk8VRUr"
+      },
+      "artists": [
+        {
+          "name": "Angelino",
+          "url": "https://open.spotify.com/artist/3PI9Zv8cDF0Fh0UlqohJir"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179555,
+      "name": "Finally Home",
+      "url": "https://open.spotify.com/track/50b4hGmCcAG4kFboxSEM3j"
+    },
+    {
+      "album": {
         "name": "Fine",
         "url": "https://open.spotify.com/album/53p4lvVH4RV76OQj6evdOx"
       },
@@ -7257,6 +7275,24 @@
     },
     {
       "album": {
+        "name": "Ingen sorg utan k\u00e4rlek",
+        "url": "https://open.spotify.com/album/2auZZDcYwsver6xSCrQRtX"
+      },
+      "artists": [
+        {
+          "name": "Kvarteret",
+          "url": "https://open.spotify.com/artist/6xBSrouGcMUDnoibs8MnlE"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187250,
+      "name": "Ingen sorg utan k\u00e4rlek",
+      "url": "https://open.spotify.com/track/6Z1JPK51S9kPWM3K1NF0zI"
+    },
+    {
+      "album": {
         "name": "Innocent Love",
         "url": "https://open.spotify.com/album/5p61tjKE3bf96LDICjSBa5"
       },
@@ -8284,7 +8320,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 187181,
       "name": "LIGHTS",
       "url": "https://open.spotify.com/track/1AoR3F9cAjoHm6qpB0wpFe"
@@ -10624,6 +10660,24 @@
     {
       "album": {
         "name": "Painkiller",
+        "url": "https://open.spotify.com/album/0IaCkrFp4j5trgWJLjR8XI"
+      },
+      "artists": [
+        {
+          "name": "Joselin",
+          "url": "https://open.spotify.com/artist/6QGSO53ZvBWWNInDC2anMt"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144160,
+      "name": "Painkiller",
+      "url": "https://open.spotify.com/track/2aEqEiwun5jNzh0fnkBBIc"
+    },
+    {
+      "album": {
+        "name": "Painkiller",
         "url": "https://open.spotify.com/album/2Ycb3yb7yRlTLuzZsf32AU"
       },
       "artists": [
@@ -12114,7 +12168,7 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 243703,
       "name": "Siri",
       "url": "https://open.spotify.com/track/6TpiEC8TyqjUqhX29msNFB"

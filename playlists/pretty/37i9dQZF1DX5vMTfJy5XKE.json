@@ -1,12 +1,12 @@
 {
   "description": "'Tis the season! All new holiday releases. Cover: Laufey",
-  "num_followers": 235997,
+  "num_followers": 236326,
   "original_name": "New Music Holiday",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMGIyOTMyYWI1MTQ3MzgxYTI5YmYyNTc1Yzc0YTdlYzJhY2UyYmEz",
+  "snapshot_id": "MCxjNWJhNjJjYWIwNGI5OTI3ZjkzMDYyMjkxZTgwYzIwNDc1ZGI5Nzkx",
   "tracks": [
     {
       "added_at": "2023-11-20 17:55:41",
@@ -511,6 +511,30 @@
       "duration_ms": 185557,
       "name": "I Don't Need It To Be Christmas At All",
       "url": "https://open.spotify.com/track/1wmPiEINk0ig3Q0Cit7Anh"
+    },
+    {
+      "added_at": "2023-11-30 04:17:39",
+      "album": {
+        "name": "A Carefree Christmas with Hoda & Jenna",
+        "url": "https://open.spotify.com/album/5gir22xU3qnp1KpxDVRx4U"
+      },
+      "artists": [
+        {
+          "name": "Hoda Kotb",
+          "url": "https://open.spotify.com/artist/2MlvkXQF6J6Gbe4uP40EsK"
+        },
+        {
+          "name": "Jenna Bush Hager",
+          "url": "https://open.spotify.com/artist/54GgSk0v94rL29Pj6gxme9"
+        },
+        {
+          "name": "Cheryl Porter",
+          "url": "https://open.spotify.com/artist/3BCwn8kef8LNrfMhOiTcYa"
+        }
+      ],
+      "duration_ms": 85500,
+      "name": "A Carefree Christmas with Hoda & Jenna",
+      "url": "https://open.spotify.com/track/1qDSz5LMnC5IjkolZybweC"
     },
     {
       "added_at": "2023-11-20 17:55:41",

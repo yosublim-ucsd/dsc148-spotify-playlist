@@ -4,7 +4,7 @@
 
 > Håll det 100.
 
-1,294 songs - 2 day 9 hr 2 min
+1,296 songs - 2 day 9 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,7 +113,8 @@
 | [aura](https://open.spotify.com/track/7A63dexDM5NCXlICgq8RUc) | [Josef Slunge](https://open.spotify.com/artist/1CcUIkJudKxfk8SZMLL1sd) | [ikväll, inatt, men aldrig imorgon](https://open.spotify.com/album/2iHZ5X0FRetrOOK6A97G9N) | 2:52 | 2023-02-23 | 2023-03-31 |
 | [AURAN](https://open.spotify.com/track/11Fze9zwzqVywYNJcuyZ3f) | [Denz](https://open.spotify.com/artist/3D0rwfKngK6Rr80niHDLP7), [Youzie](https://open.spotify.com/artist/5quSkKg59RI6NZPpaaApte) | [AURAN](https://open.spotify.com/album/0GkZESv7LpYO5FUBhk598W) | 2:18 | 2023-07-20 | 2023-10-07 |
 | [Aurinho](https://open.spotify.com/track/07ULdTS8i7EmTv6235EVfK) | [Abadai](https://open.spotify.com/artist/3EAX0xy2xS8pWLu8ZWXRMW) | [AURINHO](https://open.spotify.com/album/4QB2qpnzelipDvMc9ifKMj) | 2:53 | 2022-03-04 | 2022-03-25 |
-| [Automatic](https://open.spotify.com/track/7Fjz93GKhU5LlTacFAO8ze) | [C.Gambino](https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI) | [Automatic](https://open.spotify.com/album/6WABR1ifGFXjlVoK54LA3P) | 2:10 | 2023-09-21 |  |
+| [Automatic](https://open.spotify.com/track/7Fjz93GKhU5LlTacFAO8ze) | [C.Gambino](https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI) | [Automatic](https://open.spotify.com/album/6WABR1ifGFXjlVoK54LA3P) | 2:10 | 2023-09-21 | 2023-12-01 |
+| [Automatic RMX \(feat\. Baby Gang\)](https://open.spotify.com/track/0u3Hx0SSWhemODiuA7ZV14) | [C.Gambino](https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI), [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0) | [Automatic RMX \(feat\. Baby Gang\)](https://open.spotify.com/album/3j6szanjkO1lTjsL6xAPeo) | 2:10 | 2023-11-30 |  |
 | [AVION](https://open.spotify.com/track/1krKlD8QXqmcWiLxfwgK26) | [Jireel](https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6) | [AVION / BRING EM](https://open.spotify.com/album/5qAJzq0G49ZWOvWQPJeh6Z) | 2:52 | 2022-11-24 | 2023-02-17 |
 | [Avspärrningsband](https://open.spotify.com/track/0L38IKyEZbKXnpemYSADxp) | [AKI](https://open.spotify.com/artist/77FK5F2AWebXG5IiEnoHLv), [Mack Beats](https://open.spotify.com/artist/3GulSpXnCkqwVDg45tyly4) | [STHLM SNDRM](https://open.spotify.com/album/3O16hIFcU4moWbGF53J3Yu) | 2:58 | 2023-06-15 | 2023-09-08 |
 | [AXAR](https://open.spotify.com/track/69Zgo9cfCANqGHgKCBXzTJ) | [ADAAM](https://open.spotify.com/artist/7zLm9op6LgPqKL62d1FzhO), [william](https://open.spotify.com/artist/1UdLtKAD4FbM7r2XCfAWAs), [ICEKIID](https://open.spotify.com/artist/3RYYha3CC7js2PHbcBHewt), [takenoelz](https://open.spotify.com/artist/16U51AjPH40zvPxDA8FjVT), [Pablo Paz](https://open.spotify.com/artist/1MPDGl1VzA7muXZSIZ2Zc0) | [AXAR](https://open.spotify.com/album/6HsFZ60ry08QkWkuZ9tGAw) | 2:11 | 2023-03-16 | 2023-05-05 |
@@ -220,6 +221,7 @@
 | [BRING EM](https://open.spotify.com/track/1NwBoKLOfxUYTc0CsHfN3K) | [Jireel](https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6) | [AVION / BRING EM](https://open.spotify.com/album/5qAJzq0G49ZWOvWQPJeh6Z) | 2:55 | 2022-11-24 | 2023-01-27 |
 | [BRODIE](https://open.spotify.com/track/2P2KwUw2Tdhry4DX34WkSQ) | [Dani M](https://open.spotify.com/artist/5ILMkt5lW4KAyTXMNYWaGF), [Shenzi Beats](https://open.spotify.com/artist/5WYsyPCS4zOpvqAtBgrGqg) | [BRODIE](https://open.spotify.com/album/731Z71rhXYS6ZYR2cmqR2n) | 2:41 | 2022-08-18 | 2022-09-23 |
 | [Broke Dayz](https://open.spotify.com/track/1EoILXyGdwJkL4hZBSPfL0) | [Malik Dalasi](https://open.spotify.com/artist/1n3grwmOigAA2UYtlF91gc) | [Broke Dayz](https://open.spotify.com/album/4oXPkDePVLSJgGLhzYqF7X) | 2:49 | 2022-09-29 | 2022-10-28 |
+| [BROTHERS KEEPER](https://open.spotify.com/track/1Cf2bZMJfxE5TFXtExsEKF) | [GULEED](https://open.spotify.com/artist/1Mw40k757jZuiL0NIJpdO5) | [BROTHERS KEEPER](https://open.spotify.com/album/1LVbmwlLqi8tczAeulolF9) | 2:36 | 2023-11-30 |  |
 | [BROWSKI](https://open.spotify.com/track/5d3uBfGQIczWe9sTXyoj3y) | [Gaboro](https://open.spotify.com/artist/1sLnQclviHMISG1VaLtKHx) | [BROWSKI](https://open.spotify.com/album/5AWWvcnT3ypzv19CYjhdgf) | 2:18 | 2022-08-04 | 2022-09-09 |
 | [Bränd](https://open.spotify.com/track/1q14Q0vVh6YsR62XQ9z7Ip) | [RAHIMIC](https://open.spotify.com/artist/4rSe5VVdZX6GOPCcMYT7ZM), [Adam Aden](https://open.spotify.com/artist/3tEZ6bzTrFzApPwyyUlADz) | [Bränd](https://open.spotify.com/album/7xTXB00YMpPAae9DRzo9et) | 3:14 | 2023-05-18 | 2023-07-07 |
 | [Burna](https://open.spotify.com/track/7tSP6GfktCDSFH0mMNuDnm) | [Awave](https://open.spotify.com/artist/2zrzhtWVPEcj1btFiRDQlF) | [Burna](https://open.spotify.com/album/5MdxhgGDUrPfL3zWQQNZY3) | 2:16 | 2022-01-19 | 2022-03-05 |
@@ -806,7 +808,7 @@
 | [Min Tid](https://open.spotify.com/track/6RAKfOFmUcFJP96OkmYiPL) | [Owen](https://open.spotify.com/artist/0Q5gLNKbp5mpfEvquAaHCl) | [MUSIK ELLER METALL](https://open.spotify.com/album/5kfEEbJC2PxSVI6EmS9HQS) | 2:21 | 2022-02-25 | 2022-03-25 |
 | [MINA TANKAR](https://open.spotify.com/track/2UblHQxIaW0XmUNm0KRwCV) | [DANO](https://open.spotify.com/artist/1qid2RAqbRe7NvZ8tCxbOS) | [MINA TANKAR](https://open.spotify.com/album/1PRXEqj088BPBKE9p2Ym2p) | 3:13 | 2022-01-06 | 2022-02-18 |
 | [Mina Tankar](https://open.spotify.com/track/2TlMZBwY8mG8UhZ0A6d89G) | [Nineb Youk](https://open.spotify.com/artist/1tR8hI9nP55dVOK0DBvWbU) | [Mina Tankar](https://open.spotify.com/album/2AOfUQKCYyl6hRvnbrN1FW) | 2:30 | 2023-11-23 |  |
-| [Mina Ögon /Ta Matia Moy](https://open.spotify.com/track/6ZEcwUfqgQ22Ole6Vs2WyB) | [Nineb Youk](https://open.spotify.com/artist/1tR8hI9nP55dVOK0DBvWbU), [TOQUEL](https://open.spotify.com/artist/7AWAljMatr7bxddF4kWzXG), [Jo Lids](https://open.spotify.com/artist/57PaF8eOKR71jL7xlMSUhe) | [Mina Ögon /Ta Matia Moy](https://open.spotify.com/album/4pHDbLGWSwbcVCxhFtLoih) | 3:00 | 2023-08-10 |  |
+| [Mina Ögon /Ta Matia Moy](https://open.spotify.com/track/6ZEcwUfqgQ22Ole6Vs2WyB) | [Nineb Youk](https://open.spotify.com/artist/1tR8hI9nP55dVOK0DBvWbU), [TOQUEL](https://open.spotify.com/artist/7AWAljMatr7bxddF4kWzXG), [Jo Lids](https://open.spotify.com/artist/57PaF8eOKR71jL7xlMSUhe) | [Mina Ögon /Ta Matia Moy](https://open.spotify.com/album/4pHDbLGWSwbcVCxhFtLoih) | 3:00 | 2023-08-10 | 2023-12-01 |
 | [MIND GAME](https://open.spotify.com/track/6zHzaRHBp813fxXIspneRA) | [DANO](https://open.spotify.com/artist/1qid2RAqbRe7NvZ8tCxbOS) | [FRÖ TILL TRÄD](https://open.spotify.com/album/5LXvbb8ULvqzS48Xo9aIc6) | 2:57 | 2023-02-02 | 2023-03-18 |
 | [Misfits](https://open.spotify.com/track/3WO4lQR3umYRVyWs7z7bZm) | [Lucaz](https://open.spotify.com/artist/7n2WwvF0ngNkWVvh7EW6IZ) | [Misfits](https://open.spotify.com/album/2Q4KuOwjmZIqDTGF4SlVYJ) | 2:54 | 2022-11-17 | 2022-12-09 |
 | [MISSFÖRSTÅTT](https://open.spotify.com/track/4RRNw7trorJaxdJLWDZTZL) | [BELL](https://open.spotify.com/artist/2MnEe6M7ibhg3RAG0Ydtp4) | [MISSFÖRSTÅTT](https://open.spotify.com/album/6paodjmf7ivTOvJOgUJdaY) | 1:41 | 2022-06-23 | 2022-07-26 |

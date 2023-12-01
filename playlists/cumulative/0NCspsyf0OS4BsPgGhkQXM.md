@@ -4,7 +4,7 @@
 
 > The Official Trap Nation Playlist
 
-950 songs - 2 day 2 hr 10 min
+951 songs - 2 day 2 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -622,6 +622,7 @@
 | [Own Fire](https://open.spotify.com/track/6E4FVcaRP7U7xfMoKRAR7A) | [ADVENT](https://open.spotify.com/artist/6fOfSV7KcxCMt1Gol5DdIv), [Akacia](https://open.spotify.com/artist/4D9a1UPPFCoOm1kBtJfni5) | [Own Fire](https://open.spotify.com/album/26J3ipM0j5jBBHiYp45wBx) | 2:22 | 2022-11-10 | 2022-11-24 |
 | [Ozarks](https://open.spotify.com/track/6s86lNim2KGB5ytl1BNYhY) | [capshun](https://open.spotify.com/artist/1iHaJ84BqipzAefeXNAsdL), [broke](https://open.spotify.com/artist/79sjpbumf3CjvJJI2Jsb2b) | [LOGOS](https://open.spotify.com/album/6JHtjrlVhzMjXtP5ZLjPDP) | 2:27 | 2022-11-10 | 2023-09-23 |
 | [Pain](https://open.spotify.com/track/4IQbJSOLVAe6FWYF07UUO9) | [Jake Daniels](https://open.spotify.com/artist/3AYZMgvmzNKc3cGmJUSITh) | [Pain](https://open.spotify.com/album/2htCiITFkoo3V99rvrrsXk) | 2:42 | 2022-07-15 | 2022-08-14 |
+| [Pain](https://open.spotify.com/track/35aX4vMMSd78L1nwvGKvzq) | [NECROLX](https://open.spotify.com/artist/6IQCHQSopenTR9Tr9vIelQ) | [Pain](https://open.spotify.com/album/1dgSOt6tjcPbuoM283zuXw) | 2:31 | 2023-11-30 |  |
 | [Paradise](https://open.spotify.com/track/4ebr5AnOETSAEA44d7WPRq) | [Hopex](https://open.spotify.com/artist/0dE2azLipjakJifWO2xrOO) | [Paradise](https://open.spotify.com/album/2cT6yVZVQGvckVJmloq1by) | 2:38 | 2022-07-29 | 2022-09-07 |
 | [Paradise Lost](https://open.spotify.com/track/0rIJ266KNe5pnTo3vcRxZ3) | [Juelz](https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT) | [Paradise Lost](https://open.spotify.com/album/45IlRslbY2q1bvRMHSVDD9) | 2:29 | 2022-01-14 | 2022-09-15 |
 | [Paradox](https://open.spotify.com/track/5qbQGOd67ynl1xV489unE8) | [Emoter](https://open.spotify.com/artist/61YSVV1OUrF6VcwghVVggg) | [Paradox](https://open.spotify.com/album/1ObYB5nlniBKZbUrw0W8AU) | 5:09 | 2022-01-14 | 2022-02-17 |

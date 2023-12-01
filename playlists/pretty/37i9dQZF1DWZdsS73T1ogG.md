@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdsS73T1ogG.md) - [plain]
 
 > Descubre lo más nuevo del movimiento\. Cover: Alvaro Diaz & Quevedo
 
-[Spotify](https://open.spotify.com/user/spotify) - 521,514 likes - 100 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 521,602 likes - 100 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdsS73T1ogG.md) - [plain]
 | 99 | [Mata](https://open.spotify.com/track/1m43bKhTmsUVIVYEdRDzXn) | [Feefa](https://open.spotify.com/artist/52EfcUQ2nkatuNSusz3v7C) | [Mata](https://open.spotify.com/album/7i9x6F8kOA5AsQetVTMZoN) | 2:41 |
 | 100 | [Te Acuerdas](https://open.spotify.com/track/6Z9ZZGhn03kt8F6fd1blqM) | [Armez](https://open.spotify.com/artist/5SETXxt4h3XsZONZRoodOz) | [Te Acuerdas](https://open.spotify.com/album/195kQz5FnlCK1gA4EyuMrF) | 3:14 |
 
-Snapshot ID: `MCxhMmVhYWI2YmExMTQzYzg0ODMwNmQ3ODc5YTA5YjZjMjA3NzhkNTdi`
+Snapshot ID: `MCxjNWQzNzQzYTAzOGM0MjkzZmUxNDhmM2QxZjU5NDZlMGI2M2E1NWZj`

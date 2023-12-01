@@ -469,7 +469,7 @@
         },
         {
           "name": "Rashid",
-          "url": "https://open.spotify.com/artist/4RzzS0tS9p2D3IXXYsnOll"
+          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
         },
         {
           "name": "Altamira",
@@ -10998,10 +10998,36 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 147264,
       "name": "Sem Saber",
       "url": "https://open.spotify.com/track/4QgPMexFryXvDE6wn8NDIv"
+    },
+    {
+      "album": {
+        "name": "Sem Saber",
+        "url": "https://open.spotify.com/album/46lINY5OCcOLsUwPKHXZlI"
+      },
+      "artists": [
+        {
+          "name": "Cesar Mc",
+          "url": "https://open.spotify.com/artist/19JY4BpaJkAlSR4iDxB1MX"
+        },
+        {
+          "name": "THXLIS",
+          "url": "https://open.spotify.com/artist/2PE39uGtlGUQ1LgZnfGJFS"
+        },
+        {
+          "name": "Vitinho Olimpo",
+          "url": "https://open.spotify.com/artist/0StjexbxySAdLjte5fuhxU"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147264,
+      "name": "Sem Saber",
+      "url": "https://open.spotify.com/track/75eta61Ax81jQ9GoVxgvn7"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > The biggest festival songs of 2023\. emotional festival music \- mainstage music \- edm 2023 \- edm hits \- progressive house \- bigroom \- future rave \- techno \- festival music
 
-253 songs - 13 hr 4 min
+254 songs - 13 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -233,6 +233,7 @@
 | [This Time \(Never Be Alone Again\)](https://open.spotify.com/track/4NfNmtFPQwR7IYoKeBErOp) | [Dada Life](https://open.spotify.com/artist/00sAT5YX8W3xNd1EuqyHw9) | [This Time \(Never Be Alone Again\)](https://open.spotify.com/album/0ytdECFIEtdImFLONcZA8N) | 2:46 | 2022-07-29 |  |
 | [Thunder](https://open.spotify.com/track/2USlegnFJLrVLpoVfPimKB) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [LUM!X](https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy), [Prezioso](https://open.spotify.com/artist/3iMzbvXlgNUpoFccD60bvr) | [Thunder](https://open.spotify.com/album/35Q09Y0b7ZxOoCdF7sBiGf) | 2:40 | 2023-06-02 |  |
 | [Tides](https://open.spotify.com/track/4IHJ09f2VWAtnBZcDGkWKu) | [Holly](https://open.spotify.com/artist/6RwJwtGVyIGSs1oSAPnxYV), [LostVolts](https://open.spotify.com/artist/4Immb1MDqUWYJgqmvaehef), [Zack Torrez](https://open.spotify.com/artist/28Wd6TGd4pQWRk702jYWbJ) | [Tides](https://open.spotify.com/album/6NfzXnD8jaAHZ7PQe2K41n) | 3:09 | 2023-01-30 | 2023-04-22 |
+| [Tik Tok](https://open.spotify.com/track/7eDCIopPwtGWHuHsUUsNo4) | [ISEK](https://open.spotify.com/artist/2rnVvcXB98brPRns5FZZMC), [Revealed Recordings](https://open.spotify.com/artist/6aaMlV5Qz8DK66IWgwoUH8) | [Tik Tok](https://open.spotify.com/album/5q1KZ1ABNrZZHGuoDApdud) | 3:18 | 2023-11-30 |  |
 | [Till The Stars Come Out Again](https://open.spotify.com/track/11M4dB6YEtbucEmdwGlT1T) | [Blackcode](https://open.spotify.com/artist/2O0GPxVfZuYNQP0V6mJ3FL), [ASTER](https://open.spotify.com/artist/6Jt9U8bJ56jqNdEKdLZ7Yw), [Heleen](https://open.spotify.com/artist/71GRU9wS94BTdNwQWRMJV6) | [Darkness Into Light EP](https://open.spotify.com/album/3HuVxjs4Ht6LVyHvgRYANO) | 3:02 | 2022-07-29 | 2023-01-14 |
 | [Time After Time](https://open.spotify.com/track/0XtuymjmQU6KJ4KvQTplRK) | [MR.BLACK](https://open.spotify.com/artist/7tGP2lCt2Xkoc3BCN13NWU) | [Tranceformation](https://open.spotify.com/album/20n8FSFvvV8YiaYB5huDTL) | 2:41 | 2023-09-04 |  |
 | [Time And Time Again](https://open.spotify.com/track/6F3IKlEo3sFSxSJLesbOqF) | [Jacob Rodi](https://open.spotify.com/artist/6uHAm5LLdWb7f3Haw8ckfr), [Scottie V](https://open.spotify.com/artist/1mM7ZrKvc3EDwmd1BmLV0e), [Jetason](https://open.spotify.com/artist/26XBgogPEkkbkDLQLocwGe) | [Time And Time Again](https://open.spotify.com/album/0V6Ca5Hx9jBKuUFQXDfbVw) | 2:55 | 2023-02-09 | 2023-09-30 |

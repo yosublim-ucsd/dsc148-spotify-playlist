@@ -2751,6 +2751,24 @@
     },
     {
       "album": {
+        "name": "La Ola",
+        "url": "https://open.spotify.com/album/1lci4tOQrfZlde0PTecU6B"
+      },
+      "artists": [
+        {
+          "name": "Macapo",
+          "url": "https://open.spotify.com/artist/0HgJ2d0DC15I0Px7r6PWdF"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151986,
+      "name": "La Ola",
+      "url": "https://open.spotify.com/track/3qoPhKKrT7RDHNdSguYy2b"
+    },
+    {
+      "album": {
         "name": "La Rosa del Penal (Llamar)",
         "url": "https://open.spotify.com/album/0TgnR5s6e8YQMwQEZPvPuh"
       },
@@ -5996,6 +6014,32 @@
       "duration_ms": 178548,
       "name": "Vazilando",
       "url": "https://open.spotify.com/track/17Ci0qxBOeEQMadwb9qYNt"
+    },
+    {
+      "album": {
+        "name": "Veneno",
+        "url": "https://open.spotify.com/album/2EQauiLBwWg9SCzJ07bEHj"
+      },
+      "artists": [
+        {
+          "name": "Sofi Tukker",
+          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
+        },
+        {
+          "name": "Mari Merenda",
+          "url": "https://open.spotify.com/artist/07FaEsHIaVZAFFHvNElpbQ"
+        },
+        {
+          "name": "Sophia Ardessore",
+          "url": "https://open.spotify.com/artist/5XWPfS0p9Ow7IfTrlQhxhw"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143253,
+      "name": "Veneno",
+      "url": "https://open.spotify.com/track/7eUalfb6XYFlpM8LvHmsJD"
     },
     {
       "album": {

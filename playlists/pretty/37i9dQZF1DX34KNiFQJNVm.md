@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Pedro Sampaio, Simone Mendes, MC Hariel, DUDA BEAT, Chefin e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,921,987 likes - 100 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,922,090 likes - 100 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 36 | [Eu Ofereço Flores](https://open.spotify.com/track/7sYsluG2bZNHLqDMbfU5T5) | [Roberto Carlos](https://open.spotify.com/artist/7fAKtXSdNInWAIf0jVUz65) | [Eu Ofereço Flores](https://open.spotify.com/album/2pGWMaWZIlnKP0hwVX8SQb) | 4:10 |
 | 37 | [A Menina Da Felicidade](https://open.spotify.com/track/1ZPNgIHGgtoaY4wjdHOvIu) | [Erasmo Carlos](https://open.spotify.com/artist/6cHQUDAPGKRE2NbVjBlOcz), [Gaby Amarantos](https://open.spotify.com/artist/5kn7l4yaJxtNhj583LmL9L) | [A Menina Da Felicidade](https://open.spotify.com/album/6ntWpW5Vr7cEzvj3VIX0AT) | 3:31 |
 | 38 | [Eu Só Quero Seu Amor \(Riviera\)](https://open.spotify.com/track/2rR2VYk1VZNUM8z44DVW87) | [Tiramisù](https://open.spotify.com/artist/1G3FPBmMxwiwkzhd0zIS3U), [Maria Luiza Jobim](https://open.spotify.com/artist/0UBAjVKUJGkde9EeaoEyTM), [Julio Secchin](https://open.spotify.com/artist/0B0FipO3fLbLbHQz5RfTUs), [felipe fernandes](https://open.spotify.com/artist/6giujErjvzyeiG8Yi69khV) | [Tiramisù](https://open.spotify.com/album/7iQM2ARQbCxsRp6RBeFCRx) | 3:19 |
-| 39 | [Dança Do Amor](https://open.spotify.com/track/67JG2SdJoiG0mUJ1AxeNwB) | [Chico César](https://open.spotify.com/artist/3vlUveVfzPXzhiPGjHHxOH) | [Vêtu d'Amur \(Deluxe\)](https://open.spotify.com/album/7jTYwfGnPOdMkGuBshsMhY) | 3:35 |
+| 39 | [Dança Do Amor](https://open.spotify.com/track/67JG2SdJoiG0mUJ1AxeNwB) | [Chico César](https://open.spotify.com/artist/3vlUveVfzPXzhiPGjHHxOH) | [Vêtu d'Amur](https://open.spotify.com/album/7jTYwfGnPOdMkGuBshsMhY) | 3:35 |
 | 40 | [Eu Nunca Fui Embora](https://open.spotify.com/track/14CmAgvaO309e1erSWnRsJ) | [Fresno](https://open.spotify.com/artist/2sFXe6NbmT3k7Qy4N8fE7f) | [Eu Nunca Fui Embora](https://open.spotify.com/album/3waAqG5OQMuzBRZgGYG82h) | 3:05 |
 | 41 | [Tonto, Mole, Trouxa \(e meio devagar\)](https://open.spotify.com/track/58SoniG3NQ8ZyyTr4jkU4P) | [Hotelo](https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH) | [Tonto, Mole, Trouxa \(e meio devagar\)](https://open.spotify.com/album/4n8PxOVREWt1CjeCKnJmYB) | 2:11 |
 | 42 | [Obscuro](https://open.spotify.com/track/2Rh1qXTvyZ6u00yVS1kzhS) | [Scalene](https://open.spotify.com/artist/4PTd1rpXV7XDffOuLY7M0z) | [Obscuro](https://open.spotify.com/album/5Aj7XX2oSqwb5ZrxrntSb6) | 3:38 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 99 | [desanuviar](https://open.spotify.com/track/6dv427zxWatn55rEml3TlB) | [saudade](https://open.spotify.com/artist/5vjVK0Y2CBuicKqg4BgryA), [Bruna Mendez](https://open.spotify.com/artist/2MRNPdxSIFA9NJXNB0TTtc), [Fs.aiff](https://open.spotify.com/artist/5mCR2OZdHbeSAp7NuS4Rbp) | [desanuviar](https://open.spotify.com/album/1i6hCNGOrRxCCvKmE1cB8f) | 2:56 |
 | 100 | [Duas da Manhã](https://open.spotify.com/track/4njPGT7H3RNdAy1Lkh3cYI) | [Santaella](https://open.spotify.com/artist/6gTTzFaOz9AA7DpBnvMn4p) | [Duas da Manhã](https://open.spotify.com/album/00zcJl8VAUdohbTZfPJnY5) | 3:18 |
 
-Snapshot ID: `MCxhNjQwYmIzNTlkMzY4ZDYxNjA5MDJlNzY5ZmQ0YWNhZjJiZGI3ZmQ4`
+Snapshot ID: `MCwzNDlmYzYxYWM4ZGEyYTMwOWM0NDQ3ODUwMzRmZDM5YmMxM2I0OTM5`

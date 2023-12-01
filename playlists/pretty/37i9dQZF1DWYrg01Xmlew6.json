@@ -1,15 +1,15 @@
 {
-  "description": "Rap napoletano e il meglio della scena campana. Geolier in cover.",
-  "num_followers": 181172,
+  "description": "Rap napoletano e il meglio della scena campana. MV Killa in cover.",
+  "num_followers": 181254,
   "original_name": "Int 'o Rione",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ZTdlMjEyMmVlZTYzOTZmYjk5YWQxMmYxMmM3ZWY4ZjIyMjE5OGMy",
+  "snapshot_id": "MCxlMzJlODUxNTI5Y2RlZjUxYjM0MTliNWQwODRiMWRjZWYyODM1NmM2",
   "tracks": [
     {
-      "added_at": "2023-11-23 23:01:00",
+      "added_at": "2023-11-30 23:01:00",
       "album": {
         "name": "Campioni In Italia (Red Bull 64 Bars)",
         "url": "https://open.spotify.com/album/4pZLLjPkLo3LXhkxlOU4OX"
@@ -33,7 +33,7 @@
       "url": "https://open.spotify.com/track/0lmmsw2Z7uN1e5q93AHXbd"
     },
     {
-      "added_at": "2023-11-23 23:01:00",
+      "added_at": "2023-11-30 23:01:00",
       "album": {
         "name": "Napoletano RMX (feat. SLF)",
         "url": "https://open.spotify.com/album/2vwJ8mtsNwTYCZHxIKHTDl"
@@ -53,7 +53,23 @@
       "url": "https://open.spotify.com/track/3FDmJlbAtx6u7m0REfhTxQ"
     },
     {
-      "added_at": "2023-11-23 23:01:00",
+      "added_at": "2023-11-30 23:01:00",
+      "album": {
+        "name": "MAY DAY",
+        "url": "https://open.spotify.com/album/6ltDgsMJDZ9NU90XOc6TpP"
+      },
+      "artists": [
+        {
+          "name": "MV Killa",
+          "url": "https://open.spotify.com/artist/0QqmgpgI0C1DyyDk49vnxY"
+        }
+      ],
+      "duration_ms": 166285,
+      "name": "MAY DAY",
+      "url": "https://open.spotify.com/track/6t6x5aKlmeTXTQ0OlYr9lg"
+    },
+    {
+      "added_at": "2023-11-30 23:01:00",
       "album": {
         "name": "HOTEL MONTANA",
         "url": "https://open.spotify.com/album/1Fw2ymkiHpvnmJi8gjyZNG"
@@ -73,7 +89,7 @@
       "url": "https://open.spotify.com/track/34YxYcGtsAzI1K0SNAWMn1"
     },
     {
-      "added_at": "2023-11-23 23:01:00",
+      "added_at": "2023-11-30 23:01:00",
       "album": {
         "name": "PSG",
         "url": "https://open.spotify.com/album/2VTHXl42e8utykEVef79Uk"
@@ -89,7 +105,7 @@
       "url": "https://open.spotify.com/track/50sLmAcDOEkiMeTbZnDTLl"
     },
     {
-      "added_at": "2023-11-23 23:01:00",
+      "added_at": "2023-11-30 23:01:00",
       "album": {
         "name": "Genkidama",
         "url": "https://open.spotify.com/album/1VE2rt8pjEWu7kh1y6FqHY"
@@ -105,7 +121,7 @@
       "url": "https://open.spotify.com/track/5WUAZVcoe0g7MLnHA3akWy"
     },
     {
-      "added_at": "2023-11-23 23:01:00",
+      "added_at": "2023-11-30 23:01:00",
       "album": {
         "name": "IL CORAGGIO DEI BAMBINI - ATTO II",
         "url": "https://open.spotify.com/album/0aGXQkS5LTFhYswwXJ8vJ6"
@@ -125,7 +141,7 @@
       "url": "https://open.spotify.com/track/7Da5kjy5GByLHE5OPQ4tpg"
     },
     {
-      "added_at": "2023-11-23 23:01:00",
+      "added_at": "2023-11-30 23:01:00",
       "album": {
         "name": "FEDE",
         "url": "https://open.spotify.com/album/5y2UTfhxtOcFE1v5S585kK"
@@ -141,7 +157,7 @@
       "url": "https://open.spotify.com/track/7cIQHtaKW3l7OEEtFWm1pc"
     },
     {
-      "added_at": "2023-11-23 23:01:00",
+      "added_at": "2023-11-30 23:01:00",
       "album": {
         "name": "Forever Alone",
         "url": "https://open.spotify.com/album/2HS0wNjOG8w72WjiMlqFqw"
@@ -157,7 +173,7 @@
       "url": "https://open.spotify.com/track/4Ck5wIeWVH0EbtCsQoZ9sl"
     },
     {
-      "added_at": "2023-11-23 23:01:00",
+      "added_at": "2023-11-30 23:01:00",
       "album": {
         "name": "Dove Volano Le Aquile Vol. 2",
         "url": "https://open.spotify.com/album/5533SD7HXknP7vKdshypG1"
@@ -177,7 +193,7 @@
       "url": "https://open.spotify.com/track/5gNI6SVOOugp1KOrDpw3O4"
     },
     {
-      "added_at": "2023-11-23 23:01:00",
+      "added_at": "2023-11-30 23:01:00",
       "album": {
         "name": "IL CORAGGIO DEI BAMBINI",
         "url": "https://open.spotify.com/album/5FAlSQMZ4j8pPa4sp0ZB4K"
@@ -193,7 +209,7 @@
       "url": "https://open.spotify.com/track/5x9LonDyHxGUO2VzfHJHLE"
     },
     {
-      "added_at": "2023-11-23 23:01:00",
+      "added_at": "2023-11-30 23:01:00",
       "album": {
         "name": "WE THE SQUAD Vol. 1",
         "url": "https://open.spotify.com/album/2QQRt0wNQI4hN0pyFAfqxK"
@@ -221,7 +237,7 @@
       "url": "https://open.spotify.com/track/1xp1EsyBT4OAWWd8Gkhl60"
     },
     {
-      "added_at": "2023-11-23 23:01:00",
+      "added_at": "2023-11-30 23:01:00",
       "album": {
         "name": "FEDE",
         "url": "https://open.spotify.com/album/5y2UTfhxtOcFE1v5S585kK"
@@ -241,7 +257,7 @@
       "url": "https://open.spotify.com/track/14ZxYiB4WZvbma2Jr15MeP"
     },
     {
-      "added_at": "2023-11-23 23:01:00",
+      "added_at": "2023-11-30 23:01:00",
       "album": {
         "name": "Shawty (feat. ANNA)",
         "url": "https://open.spotify.com/album/0Lk62qOfyMoDWD4iIpNZjy"
@@ -261,7 +277,7 @@
       "url": "https://open.spotify.com/track/2FSyRgYesfoqC0xGVmHgeH"
     },
     {
-      "added_at": "2023-11-23 23:01:00",
+      "added_at": "2023-11-30 23:01:00",
       "album": {
         "name": "CHIAGNE (feat. Lazza & Takagi & Ketra)",
         "url": "https://open.spotify.com/album/4sWzb70s3E66veAlTi0hSr"
@@ -285,7 +301,7 @@
       "url": "https://open.spotify.com/track/36EFgeHW1tOUyMAhZ6cjfD"
     },
     {
-      "added_at": "2023-11-23 23:01:00",
+      "added_at": "2023-11-30 23:01:00",
       "album": {
         "name": "Sul'A Mia (feat. Enzo Dong)",
         "url": "https://open.spotify.com/album/04Z4Qz5AFiwy0B5li3mmFn"
@@ -309,7 +325,7 @@
       "url": "https://open.spotify.com/track/0py1kg1y5iSMWFTXPpjZI3"
     },
     {
-      "added_at": "2023-11-23 23:01:00",
+      "added_at": "2023-11-30 23:01:00",
       "album": {
         "name": "Tredici",
         "url": "https://open.spotify.com/album/2ZxTZlVQ0eZCeZP6BCTD7O"
@@ -329,7 +345,7 @@
       "url": "https://open.spotify.com/track/4TVsoRS3ziac6VczSnN8vD"
     },
     {
-      "added_at": "2023-11-23 23:01:00",
+      "added_at": "2023-11-30 23:01:00",
       "album": {
         "name": "Naples",
         "url": "https://open.spotify.com/album/2bpDU3tbbS3kvj17Ds34wC"
@@ -345,7 +361,7 @@
       "url": "https://open.spotify.com/track/6hOndc2UrGv7jU12S6IvS0"
     },
     {
-      "added_at": "2023-11-23 23:01:00",
+      "added_at": "2023-11-30 23:01:00",
       "album": {
         "name": "Lose Control",
         "url": "https://open.spotify.com/album/0ub5NaCeNKWDcRWUmb8yvQ"
@@ -361,7 +377,7 @@
       "url": "https://open.spotify.com/track/40l3gNOxcK4MWgHfQuOyAF"
     },
     {
-      "added_at": "2023-11-23 23:01:00",
+      "added_at": "2023-11-30 23:01:00",
       "album": {
         "name": "Sincer (feat. Lele Blade & Icy Subzero)",
         "url": "https://open.spotify.com/album/7BBkLJQiEzHkFDbHy48rjd"
@@ -385,7 +401,7 @@
       "url": "https://open.spotify.com/track/5NA6KErStFT0zPk1VJiSWI"
     },
     {
-      "added_at": "2023-11-23 23:01:00",
+      "added_at": "2023-11-30 23:01:00",
       "album": {
         "name": "Soprano",
         "url": "https://open.spotify.com/album/4Y08s8bqsT5lEPbquo3HhU"
@@ -401,7 +417,7 @@
       "url": "https://open.spotify.com/track/6wtYcRaHvDsuOi4xXGGaSy"
     },
     {
-      "added_at": "2023-11-23 23:01:00",
+      "added_at": "2023-11-30 23:01:00",
       "album": {
         "name": "Dove Volano Le Aquile",
         "url": "https://open.spotify.com/album/2fheBMJ0R15riUbISACz2F"
@@ -417,7 +433,7 @@
       "url": "https://open.spotify.com/track/3R3S0yqtESkFwJDpscvKfd"
     },
     {
-      "added_at": "2023-11-23 23:01:00",
+      "added_at": "2023-11-30 23:01:00",
       "album": {
         "name": "Fallimento",
         "url": "https://open.spotify.com/album/6UNrFhCWIluSg7ohTmtg4M"
@@ -437,7 +453,7 @@
       "url": "https://open.spotify.com/track/3sjBNn9CaNoYsgUjNsDhGR"
     },
     {
-      "added_at": "2023-11-23 23:01:00",
+      "added_at": "2023-11-30 23:01:00",
       "album": {
         "name": "Ma Xk\u00e8 A Me?",
         "url": "https://open.spotify.com/album/1MS0UQ61W1A77NTw77o1Ea"
@@ -453,7 +469,7 @@
       "url": "https://open.spotify.com/track/4jeP1FfZpmRa1TIxibtOx2"
     },
     {
-      "added_at": "2023-11-23 23:01:00",
+      "added_at": "2023-11-30 23:01:00",
       "album": {
         "name": "TUTT' APPOST'",
         "url": "https://open.spotify.com/album/5NrcqBcTO44gZq6hoNJucN"
@@ -473,7 +489,7 @@
       "url": "https://open.spotify.com/track/1x4c3uX52ae6HDhRjbLbyK"
     },
     {
-      "added_at": "2023-11-23 23:01:00",
+      "added_at": "2023-11-30 23:01:00",
       "album": {
         "name": "LIBERATO",
         "url": "https://open.spotify.com/album/6nuNEPqjdcumKXE0Nd99Wr"
@@ -489,7 +505,7 @@
       "url": "https://open.spotify.com/track/1901MP4sFYR617bT4hNcyW"
     },
     {
-      "added_at": "2023-11-23 23:01:00",
+      "added_at": "2023-11-30 23:01:00",
       "album": {
         "name": "TRAVESURAS (feat. MV Killa, Yung Snapp, Lele Blade, Vale Lambo)",
         "url": "https://open.spotify.com/album/068WIA490RGoZi1ZObrv9e"
@@ -521,7 +537,7 @@
       "url": "https://open.spotify.com/track/7IrtgihaMKV0DOVcB0TcBG"
     },
     {
-      "added_at": "2023-11-23 23:01:00",
+      "added_at": "2023-11-30 23:01:00",
       "album": {
         "name": "Topless",
         "url": "https://open.spotify.com/album/6Vy5xxdBNkTyOC9fXVHV5X"
@@ -545,7 +561,7 @@
       "url": "https://open.spotify.com/track/2HjM0ufsJtI0zBBeFIpEog"
     },
     {
-      "added_at": "2023-11-23 23:01:00",
+      "added_at": "2023-11-30 23:01:00",
       "album": {
         "name": "IERI, OGGI E DOMANI",
         "url": "https://open.spotify.com/album/5Vqyjj1Ijl1cqOUDqbZLC5"
@@ -569,7 +585,7 @@
       "url": "https://open.spotify.com/track/1BTMLhdA6ewk2uXuzMsQWQ"
     },
     {
-      "added_at": "2023-11-23 23:01:00",
+      "added_at": "2023-11-30 23:01:00",
       "album": {
         "name": "IL CORAGGIO DEI BAMBINI - ATTO II",
         "url": "https://open.spotify.com/album/0aGXQkS5LTFhYswwXJ8vJ6"
@@ -585,7 +601,7 @@
       "url": "https://open.spotify.com/track/4YM3Pxqe3FiapO16Myngww"
     },
     {
-      "added_at": "2023-11-23 23:01:00",
+      "added_at": "2023-11-30 23:01:00",
       "album": {
         "name": "ME VOGL BENE (feat. Geolier)",
         "url": "https://open.spotify.com/album/5zRsIaSAVqjaskO9aH851E"
@@ -605,7 +621,7 @@
       "url": "https://open.spotify.com/track/6fJBFIo43hyaij2dWl7L6f"
     },
     {
-      "added_at": "2023-11-23 23:01:00",
+      "added_at": "2023-11-30 23:01:00",
       "album": {
         "name": "Fallimento",
         "url": "https://open.spotify.com/album/6UNrFhCWIluSg7ohTmtg4M"
@@ -625,7 +641,7 @@
       "url": "https://open.spotify.com/track/4CjFxG87FemEd0Qaz4t5T4"
     },
     {
-      "added_at": "2023-11-23 23:01:00",
+      "added_at": "2023-11-30 23:01:00",
       "album": {
         "name": "A' vita senz' e te (Me fa paura)",
         "url": "https://open.spotify.com/album/0o862B9nqWJuGpEJwsQIsI"
@@ -641,7 +657,7 @@
       "url": "https://open.spotify.com/track/0aihKoR995mM6IO31vYd3I"
     },
     {
-      "added_at": "2023-11-23 23:01:00",
+      "added_at": "2023-11-30 23:01:00",
       "album": {
         "name": "0 In Tasca",
         "url": "https://open.spotify.com/album/6tZ1DGxKbvpbshXOredaKu"
@@ -661,7 +677,7 @@
       "url": "https://open.spotify.com/track/6TTX5dhUU8hyyrOADiy1KZ"
     },
     {
-      "added_at": "2023-11-23 23:01:00",
+      "added_at": "2023-11-30 23:01:00",
       "album": {
         "name": "999",
         "url": "https://open.spotify.com/album/5VmmhTJMQvJIXdb4pEgynz"
@@ -677,7 +693,7 @@
       "url": "https://open.spotify.com/track/7pVs5d0hPKE2RUruztOEx3"
     },
     {
-      "added_at": "2023-11-23 23:01:00",
+      "added_at": "2023-11-30 23:01:00",
       "album": {
         "name": "Perdoname",
         "url": "https://open.spotify.com/album/0xMLo63MMRVK7J5FG9f7vH"
@@ -701,7 +717,7 @@
       "url": "https://open.spotify.com/track/7w4aImyv2F7nDvmuNMvN1S"
     },
     {
-      "added_at": "2023-11-23 23:01:00",
+      "added_at": "2023-11-30 23:01:00",
       "album": {
         "name": "RHLM (feat. Rame)",
         "url": "https://open.spotify.com/album/40LRNKQCOgxasBBASHrISS"
@@ -725,7 +741,7 @@
       "url": "https://open.spotify.com/track/711TpNrKbnG0qJF7j21I0q"
     },
     {
-      "added_at": "2023-11-23 23:01:00",
+      "added_at": "2023-11-30 23:01:00",
       "album": {
         "name": "HOLLYWOOD",
         "url": "https://open.spotify.com/album/32Nb9JBPqfQthAwwBRjizS"
@@ -741,7 +757,7 @@
       "url": "https://open.spotify.com/track/3mwYpTNy6uYkyIakEvMcDW"
     },
     {
-      "added_at": "2023-11-23 23:01:00",
+      "added_at": "2023-11-30 23:01:00",
       "album": {
         "name": "MONEY",
         "url": "https://open.spotify.com/album/1L3BundfZgLB9db5496I4y"
@@ -757,7 +773,7 @@
       "url": "https://open.spotify.com/track/1EOTrGOcrCwTG1nhUnp0dV"
     },
     {
-      "added_at": "2023-11-23 23:01:00",
+      "added_at": "2023-11-30 23:01:00",
       "album": {
         "name": "IL CORAGGIO DEI BAMBINI",
         "url": "https://open.spotify.com/album/5FAlSQMZ4j8pPa4sp0ZB4K"
@@ -773,7 +789,7 @@
       "url": "https://open.spotify.com/track/5ZBIeRCyYvb0nGEtsvuth8"
     },
     {
-      "added_at": "2023-11-23 23:01:00",
+      "added_at": "2023-11-30 23:01:00",
       "album": {
         "name": "MILLIONAIRE (feat. MV Killa, Yung Snapp, Lele Blade, Vale Lambo)",
         "url": "https://open.spotify.com/album/0AFuYaehOV5NKGPvmxc4t2"
@@ -805,7 +821,7 @@
       "url": "https://open.spotify.com/track/3EWOOws0Ssrzo3vVFKn5M2"
     },
     {
-      "added_at": "2023-11-23 23:01:00",
+      "added_at": "2023-11-30 23:01:00",
       "album": {
         "name": "KRIRM",
         "url": "https://open.spotify.com/album/2SAb40pFyvOYpbPQDirxlL"
@@ -821,7 +837,7 @@
       "url": "https://open.spotify.com/track/0PupYO4b4ZA8tdihwNCUo9"
     },
     {
-      "added_at": "2023-11-23 23:01:00",
+      "added_at": "2023-11-30 23:01:00",
       "album": {
         "name": "300",
         "url": "https://open.spotify.com/album/3Hya24KHiKeSDruZiZRw84"
@@ -837,7 +853,7 @@
       "url": "https://open.spotify.com/track/6sGjCLGlRhFrPJ54i5b343"
     },
     {
-      "added_at": "2023-11-23 23:01:00",
+      "added_at": "2023-11-30 23:01:00",
       "album": {
         "name": "A VUO FRN\u00cc",
         "url": "https://open.spotify.com/album/2uZtsCmnf5aG7N70iTnsji"
@@ -853,7 +869,7 @@
       "url": "https://open.spotify.com/track/0ZNZzAfNAqTi6zvHmfcIp9"
     },
     {
-      "added_at": "2023-11-23 23:01:00",
+      "added_at": "2023-11-30 23:01:00",
       "album": {
         "name": "Botox",
         "url": "https://open.spotify.com/album/4nhZUFV7XuVY3hfsXB7EMt"
@@ -873,27 +889,7 @@
       "url": "https://open.spotify.com/track/1odrZy5kTuj3SGdfgzhMzq"
     },
     {
-      "added_at": "2023-11-23 23:01:00",
-      "album": {
-        "name": "REPLAY (feat. CLARA)",
-        "url": "https://open.spotify.com/album/7zaIi38D3my8g10sIkaadq"
-      },
-      "artists": [
-        {
-          "name": "MV Killa",
-          "url": "https://open.spotify.com/artist/0QqmgpgI0C1DyyDk49vnxY"
-        },
-        {
-          "name": "CLARA",
-          "url": "https://open.spotify.com/artist/6FPxOArEPVZUDv925qq8IQ"
-        }
-      ],
-      "duration_ms": 164000,
-      "name": "REPLAY (feat. CLARA)",
-      "url": "https://open.spotify.com/track/7kpOVh9aXFebATgVR5HGg7"
-    },
-    {
-      "added_at": "2023-11-23 23:01:00",
+      "added_at": "2023-11-30 23:01:00",
       "album": {
         "name": "SUD ITALIAN DREAM",
         "url": "https://open.spotify.com/album/4pGk4pX9muBUKwki6JnBut"
@@ -913,7 +909,7 @@
       "url": "https://open.spotify.com/track/35woYksQFAx5OhYKzNXxRy"
     },
     {
-      "added_at": "2023-11-23 23:01:00",
+      "added_at": "2023-11-30 23:01:00",
       "album": {
         "name": "Cuore Rotto",
         "url": "https://open.spotify.com/album/5BXkveR4dh0YJpV75rtPNY"
@@ -929,7 +925,7 @@
       "url": "https://open.spotify.com/track/5qAMsFqClevxs2nuZbReDW"
     },
     {
-      "added_at": "2023-11-23 23:01:00",
+      "added_at": "2023-11-30 23:01:00",
       "album": {
         "name": "RUN",
         "url": "https://open.spotify.com/album/6TfVxDaXGqSapRvP7TQETU"
@@ -945,7 +941,7 @@
       "url": "https://open.spotify.com/track/4b5wNTRKC0DhtvTFjohhBK"
     },
     {
-      "added_at": "2023-11-23 23:01:00",
+      "added_at": "2023-11-30 23:01:00",
       "album": {
         "name": "NO REGULAR MUSIC",
         "url": "https://open.spotify.com/album/2KiDg7QmIS9i9mqA2UXBi2"
@@ -977,7 +973,7 @@
       "url": "https://open.spotify.com/track/3S4tSMSUWE3EA5jKy5Vwwh"
     },
     {
-      "added_at": "2023-11-23 23:01:00",
+      "added_at": "2023-11-30 23:01:00",
       "album": {
         "name": "Rivoluzione",
         "url": "https://open.spotify.com/album/1bFodetEZ0nZP3A7COgZ9x"
@@ -993,7 +989,7 @@
       "url": "https://open.spotify.com/track/3ULxZjqSg06WTPjhurRA1G"
     },
     {
-      "added_at": "2023-11-23 23:01:00",
+      "added_at": "2023-11-30 23:01:00",
       "album": {
         "name": "U&Me",
         "url": "https://open.spotify.com/album/1puWVzOemxlp8c2QQGaar9"
@@ -1009,7 +1005,7 @@
       "url": "https://open.spotify.com/track/6jueM7b7fc7eWQcgnTu9Rr"
     },
     {
-      "added_at": "2023-11-23 23:01:00",
+      "added_at": "2023-11-30 23:01:00",
       "album": {
         "name": "MIEZZ E SCAL",
         "url": "https://open.spotify.com/album/1boAWBHklirSAaMJbjBXaj"
@@ -1033,7 +1029,7 @@
       "url": "https://open.spotify.com/track/0Rp1MD2LkA2Pd5EefrNrYR"
     },
     {
-      "added_at": "2023-11-23 23:01:00",
+      "added_at": "2023-11-30 23:01:00",
       "album": {
         "name": "Malessere",
         "url": "https://open.spotify.com/album/0I7gMWxRXgP273yDVq08sQ"
@@ -1049,7 +1045,7 @@
       "url": "https://open.spotify.com/track/6eGAGBUZTFUIdkwErazQ77"
     },
     {
-      "added_at": "2023-11-23 23:01:00",
+      "added_at": "2023-11-30 23:01:00",
       "album": {
         "name": "Peccati (feat. J Lord)",
         "url": "https://open.spotify.com/album/4YDkA7KQEWgRFBqt7uFDDb"
@@ -1069,7 +1065,7 @@
       "url": "https://open.spotify.com/track/5jmRPnT5jyMHDfhLsHzSrV"
     },
     {
-      "added_at": "2023-11-23 23:01:00",
+      "added_at": "2023-11-30 23:01:00",
       "album": {
         "name": "VANITAS",
         "url": "https://open.spotify.com/album/3cDE2dajma7EPMu5j9QKCT"

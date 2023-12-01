@@ -4,7 +4,7 @@
 
 > Svensk jazz när den är som bäst.
 
-167 songs - 12 hr 58 min
+168 songs - 13 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,6 +115,7 @@
 | [Pleiades](https://open.spotify.com/track/6RoVR8SltId73blRSyMrPQ) | [Emil Ingmar](https://open.spotify.com/artist/7p0xXqI5wsH4tLwPIEuZ5E), [Calle Rasmusson](https://open.spotify.com/artist/542yTnYI4To78OAWEblioM), [Fredrik Jonsson](https://open.spotify.com/artist/3BF0nbpUutRMtsV6O3f8a4) | [Vinterstjärnor](https://open.spotify.com/album/3LT8oXMx1ULFgOpTFPQjqS) | 3:04 | 2023-01-26 |  |
 | [Point of Life](https://open.spotify.com/track/7A4WyJ4qHATquuSzxfxyC2) | [Thomas Darelid](https://open.spotify.com/artist/3VgrYw0LQjgMkYa5kuYeaQ) | [Point of Life](https://open.spotify.com/album/43EjhSDByvdZwCNhme3fnZ) | 4:57 | 2021-11-08 |  |
 | [President](https://open.spotify.com/track/4XpyOXxSNOM4GMec79nMNz) | [The Calle Stenman Quintet](https://open.spotify.com/artist/33HmwOuCQt9l75KLBR557Y), [Oskar Schönning](https://open.spotify.com/artist/7B8n58KGwvuObuoNCpiFhZ), [Sara Parkman](https://open.spotify.com/artist/3QKspYZWuPR8sJ6WW1zAdw) | [President](https://open.spotify.com/album/4LQoy1UPFaaUV1AFtOqzdm) | 3:21 | 2021-11-08 |  |
+| [Promenad](https://open.spotify.com/track/2KxqFtkQA6jeQ87jP3K3mB) | [John Nilsson](https://open.spotify.com/artist/1YDWeRkesJIyKxLLfB3Ehr) | [Introduktion](https://open.spotify.com/album/3IBmy7fQbpPFUrYuCijPpD) | 6:06 | 2023-12-01 |  |
 | [Prélude C Minor](https://open.spotify.com/track/1cxzewcPOwz58W0sFHQ9r6) | [Bengt Hallberg](https://open.spotify.com/artist/5q3Zh4BS8gJVpcrcGOhk8J) | [Hallberg's Surprise](https://open.spotify.com/album/7cXni9CXht7tFagNUiWikb) | 3:57 | 2021-11-08 | 2022-07-29 |
 | [Prélude in C Minor](https://open.spotify.com/track/2Bl7sr1Nuc92CmSz1xg9mQ) | [Bengt Hallberg](https://open.spotify.com/artist/5q3Zh4BS8gJVpcrcGOhk8J) | [Hallberg's Surprise or Not Even The Old Masters Can Feel Safe \(Remastered\)](https://open.spotify.com/album/419wHxrrixrGZsk2N6bhfb) | 3:57 | 2022-06-22 |  |
 | [Ro](https://open.spotify.com/track/1KXMF4M4Ko3aB2x7joKUUy) | [Rymden](https://open.spotify.com/artist/2yxMIwcfg9qdyodUwirbRW) | [Valleys & Mountains](https://open.spotify.com/album/4tnbCSnePSEWvTejqy5nTu) | 5:24 | 2023-10-06 |  |

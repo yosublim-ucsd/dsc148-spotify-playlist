@@ -1232,7 +1232,7 @@
       ],
       "date_added": "2023-10-22",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-29",
+      "date_removed": null,
       "duration_ms": 141334,
       "name": "ALL MY FELLAS",
       "url": "https://open.spotify.com/track/1ckhUtD8nBH2ShPlU8w2nU"
@@ -1868,7 +1868,7 @@
       ],
       "date_added": "2023-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 236065,
       "name": "Aria",
       "url": "https://open.spotify.com/track/3M1r9ilL53PLcrLdIuyZ4J"
@@ -10490,7 +10490,7 @@
       ],
       "date_added": "2023-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 190173,
       "name": "Guilty",
       "url": "https://open.spotify.com/track/4jMwQaDiDICry8Ia1gFnAn"
@@ -15452,7 +15452,7 @@
       ],
       "date_added": "2023-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 210688,
       "name": "Lose Control",
       "url": "https://open.spotify.com/track/17phhZDn6oGtzMe56NuWvj"
@@ -16248,7 +16248,7 @@
       ],
       "date_added": "2023-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 178390,
       "name": "Mark\u00e9ta a Karol",
       "url": "https://open.spotify.com/track/1YLnvc9WRk9tfb4ptunIUy"
@@ -21188,7 +21188,7 @@
       ],
       "date_added": "2023-11-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-29",
+      "date_removed": null,
       "duration_ms": 68235,
       "name": "PEPPA PIG SONG - REMIX",
       "url": "https://open.spotify.com/track/5pTMNrHXKkplcS6mgcUYzA"
@@ -23030,7 +23030,7 @@
       ],
       "date_added": "2023-09-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-28",
+      "date_removed": null,
       "duration_ms": 186782,
       "name": "Re\u017eim neru\u0161it",
       "url": "https://open.spotify.com/track/6AZaXcXWfcFgJRgl4bsgvD"
@@ -23920,7 +23920,7 @@
       ],
       "date_added": "2023-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 237133,
       "name": "Say The Word (feat. Clementine Douglas)",
       "url": "https://open.spotify.com/track/1V83L9oCbfir9q75yNbB1V"
@@ -25103,6 +25103,24 @@
     },
     {
       "album": {
+        "name": "Slowdown (girl what's up)",
+        "url": "https://open.spotify.com/album/4B6I2s8qDymQLWT9qtJOtW"
+      },
+      "artists": [
+        {
+          "name": "YellowStraps",
+          "url": "https://open.spotify.com/artist/772hWD0N94gYjnVhrqE7lx"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123000,
+      "name": "Slowdown (girl what's up)",
+      "url": "https://open.spotify.com/track/4xexPtg7VSPCf9hM3aZdfZ"
+    },
+    {
+      "album": {
         "name": "Cottonwood 2",
         "url": "https://open.spotify.com/album/7l49L64CFakYuaV4EL11sP"
       },
@@ -25572,6 +25590,24 @@
     {
       "album": {
         "name": "Solitude Velocity - Slowed + Loop",
+        "url": "https://open.spotify.com/album/1M0lgOGBBrgJOvT3KuTAR7"
+      },
+      "artists": [
+        {
+          "name": "Luke Willies",
+          "url": "https://open.spotify.com/artist/3uIws1bbX1b53e0xJpz94r"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 358056,
+      "name": "Solitude Velocity - Slowed + Loop",
+      "url": "https://open.spotify.com/track/2sw4J9A1n7ZnzeDYkmitoh"
+    },
+    {
+      "album": {
+        "name": "Solitude Velocity - Slowed + Loop",
         "url": "https://open.spotify.com/album/5fjhpjLyKLcQnvLt4mUemp"
       },
       "artists": [
@@ -25582,7 +25618,7 @@
       ],
       "date_added": "2023-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 358060,
       "name": "Solitude Velocity - Slowed + Loop",
       "url": "https://open.spotify.com/track/5oU6orNT7tPCnGzfx392BF"
@@ -31550,6 +31586,24 @@
       "duration_ms": 165961,
       "name": "zn\u00e1my stav",
       "url": "https://open.spotify.com/track/4TbCXey1YnsUKwRHRsEB11"
+    },
+    {
+      "album": {
+        "name": "Zombie",
+        "url": "https://open.spotify.com/album/0UvQvAS3YtHcpsq7EKsq1X"
+      },
+      "artists": [
+        {
+          "name": "Amco",
+          "url": "https://open.spotify.com/artist/7AdyVsMxs5j9qkQV6UQtWg"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Zombie",
+      "url": "https://open.spotify.com/track/55pKv2ncV2eRVEbQOHIyS9"
     },
     {
       "album": {

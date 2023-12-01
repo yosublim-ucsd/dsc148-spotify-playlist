@@ -4,7 +4,7 @@
 
 > This fun, upbeat playlist will help get you up and ready to start your day!
 
-416 songs - 23 hr 23 min
+417 songs - 23 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -153,7 +153,8 @@
 | [Golden](https://open.spotify.com/track/37EENqOKD6uxLwthqxhKLt) | [Zella Day](https://open.spotify.com/artist/100sLnojEpcadRx4edEBA6) | [Golden](https://open.spotify.com/album/15y5YIZTkfg6tgoVCwPEoa) | 3:21 | 2021-07-30 | 2023-02-18 |
 | [Golden Ticket \(feat\. Masego & Common\)](https://open.spotify.com/track/31m0lsXwk8PllevpApeiK3) | [Brasstracks](https://open.spotify.com/artist/5sKvgmG84C0bIMWeS2SRPr), [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig), [Common](https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc) | [Golden Ticket \(feat\. Masego & Common\)](https://open.spotify.com/album/4J8jDp5JKuQwQhlwvq0h0v) | 3:38 | 2021-09-21 | 2022-04-18 |
 | [Good as Gold](https://open.spotify.com/track/5IKDh0vnVhvzOgQltv1ACE) | [The Shindellas](https://open.spotify.com/artist/2ymLCgoeNHbhPDwMb3N3iQ) | [Shindo](https://open.spotify.com/album/2bh7Q8cwGnCleeC8UhRmAM) | 4:15 | 2023-10-20 |  |
-| [Good Day](https://open.spotify.com/track/0FEXQUgIG0X2rhdT3nuQ3M) | [Jake Scott](https://open.spotify.com/artist/0DxPHf2flBAcV2SnZPg3SV) | [Good Day](https://open.spotify.com/album/1HSgWrfiiWkMNUr8abCu1c) | 2:53 | 2022-10-14 |  |
+| [Good Day](https://open.spotify.com/track/0FEXQUgIG0X2rhdT3nuQ3M) | [Jake Scott](https://open.spotify.com/artist/0DxPHf2flBAcV2SnZPg3SV) | [Good Day](https://open.spotify.com/album/1HSgWrfiiWkMNUr8abCu1c) | 2:53 | 2022-10-14 | 2023-12-01 |
+| [Good Day](https://open.spotify.com/track/5zsTxXxpVzWC9MqeNJ3Pes) | [Jake Scott](https://open.spotify.com/artist/0DxPHf2flBAcV2SnZPg3SV) | [Lavender](https://open.spotify.com/album/11v89Gklx5GvGK6zfhj5jA) | 2:53 | 2022-10-28 |  |
 | [Good Good](https://open.spotify.com/track/5ISFFwzDlnzcFrvhp0egaf) | [Blessing Offor](https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC) | [My Tribe \(Extended Edition\)](https://open.spotify.com/album/4xwLMnQG1UoZ4uP6DN8gG8) | 2:43 | 2023-09-01 |  |
 | [Good Mood](https://open.spotify.com/track/14Yvoau2QPIpHpI0uMJrOB) | [Lady Bri](https://open.spotify.com/artist/1p5FodMOL5gU5E1i9enTGO) | [Good Mood](https://open.spotify.com/album/4VPjKOf9J7LcqMv1gmp8GL) | 3:03 | 2022-01-14 | 2022-07-29 |
 | [Good Mood](https://open.spotify.com/track/3Kr8aPFBZ0Vs3ZcOyGBcGM) | [Lady Bri](https://open.spotify.com/artist/1p5FodMOL5gU5E1i9enTGO) | [Me](https://open.spotify.com/album/76O3m2z2IlxG5CKKjhzCGc) | 3:03 | 2022-01-21 |  |

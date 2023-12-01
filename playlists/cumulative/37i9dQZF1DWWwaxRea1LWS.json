@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-10-20",
-  "description": "Celebrate Blair Waldorf's favorite holiday with #SpotifyTBT this week. Cover: Leighton Meester/Blair Waldorf",
+  "description": "October is for the werewolves, but November is for the vampires. #SpotifyTBT is wrapping up the month with all your fave Twilight Saga songs.",
   "name": "Throwback Thursday",
   "tracks": [
     {
@@ -1429,6 +1429,24 @@
     },
     {
       "album": {
+        "name": "A Thousand Years",
+        "url": "https://open.spotify.com/album/15yvc643iYfQtb6zh9NEJo"
+      },
+      "artists": [
+        {
+          "name": "Christina Perri",
+          "url": "https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285120,
+      "name": "A Thousand Years",
+      "url": "https://open.spotify.com/track/6lanRgr6wXibZr8KgzXxBl"
+    },
+    {
+      "album": {
         "name": "Decade",
         "url": "https://open.spotify.com/album/4P6rgSkSEXFGrpTk9NZUAj"
       },
@@ -2272,6 +2290,28 @@
       "duration_ms": 305746,
       "name": "All I Want",
       "url": "https://open.spotify.com/track/0NlGoUyOJSuSHmngoibVAs"
+    },
+    {
+      "album": {
+        "name": "I'm Not Falling",
+        "url": "https://open.spotify.com/album/3yuOVb0BCrevLycIiHG6PE"
+      },
+      "artists": [
+        {
+          "name": "Paul McDonald",
+          "url": "https://open.spotify.com/artist/11VwS4DcdSlX7AkrhYz04b"
+        },
+        {
+          "name": "Nikki Reed",
+          "url": "https://open.spotify.com/artist/45NklvJsI093sxCqpmpmcy"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207360,
+      "name": "All I've Ever Needed",
+      "url": "https://open.spotify.com/track/1DlnkugBul5nh6dMDo5B4h"
     },
     {
       "album": {
@@ -3760,7 +3800,7 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 208106,
       "name": "Apologize",
       "url": "https://open.spotify.com/track/1NrJYpdAi7uosDRPmSYrsG"
@@ -4868,7 +4908,7 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 294466,
       "name": "Bad Romance",
       "url": "https://open.spotify.com/track/7kUOJYN2ynGfTYNlgNLpgY"
@@ -5672,7 +5712,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 225373,
       "name": "Beautiful Girls",
       "url": "https://open.spotify.com/track/1hGy2eLcmC8eKx7qr1tOqx"
@@ -6100,7 +6140,7 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 226346,
       "name": "Believe",
       "url": "https://open.spotify.com/track/4Wvr1YaxNsCujq77dKujys"
@@ -6714,6 +6754,24 @@
       "duration_ms": 148040,
       "name": "Bitter With The Sweet",
       "url": "https://open.spotify.com/track/6bMrfP9V5s5fgL3Z02tcES"
+    },
+    {
+      "album": {
+        "name": "Halcyon Nights",
+        "url": "https://open.spotify.com/album/1gKVOJVxDTqw9IaCbKaYd4"
+      },
+      "artists": [
+        {
+          "name": "Ellie Goulding",
+          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236173,
+      "name": "Bittersweet",
+      "url": "https://open.spotify.com/track/6PMBbwveuclVCMePlnbU0L"
     },
     {
       "album": {
@@ -11015,6 +11073,24 @@
     },
     {
       "album": {
+        "name": "Brothers (Deluxe Remastered Anniversary Edition)",
+        "url": "https://open.spotify.com/album/29bmuSuw3vsPILoexZy6MH"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145959,
+      "name": "Chop and Change",
+      "url": "https://open.spotify.com/track/1rNX7awGrFkjpCuwRIfY6X"
+    },
+    {
+      "album": {
         "name": "Toxicity",
         "url": "https://open.spotify.com/album/6jWde94ln40epKIQCd8XUh"
       },
@@ -11768,6 +11844,28 @@
       "duration_ms": 268213,
       "name": "Coffee",
       "url": "https://open.spotify.com/track/30GGIrrJdSNtecPiFcVP5O"
+    },
+    {
+      "album": {
+        "name": "The Twilight Saga: Breaking Dawn - Part 1 (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1iGIqDBXm5HpTqHCvdc4QP"
+      },
+      "artists": [
+        {
+          "name": "Aqualung",
+          "url": "https://open.spotify.com/artist/3uT7nEkZwWc2GBiqUZGoOe"
+        },
+        {
+          "name": "Lucy Schwartz",
+          "url": "https://open.spotify.com/artist/6f5Tjpxz9kTRj05LKWlOpf"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220240,
+      "name": "Cold",
+      "url": "https://open.spotify.com/track/7qxxr5CLf8rnIibe4eStzR"
     },
     {
       "album": {
@@ -12548,6 +12646,24 @@
       "duration_ms": 178626,
       "name": "Cover Girl",
       "url": "https://open.spotify.com/track/7jman10UPhzhtOOqZLjSsh"
+    },
+    {
+      "album": {
+        "name": "Cover Your Tracks - Single",
+        "url": "https://open.spotify.com/album/74GJzNFTbpARU9WmaaPNZR"
+      },
+      "artists": [
+        {
+          "name": "A Boy and His Kite",
+          "url": "https://open.spotify.com/artist/5JkAsTexi8F7wk7jsqmgWZ"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271912,
+      "name": "Cover Your Tracks",
+      "url": "https://open.spotify.com/track/60oxcPMghSlMJH2xM5SmUd"
     },
     {
       "album": {
@@ -13624,7 +13740,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 285973,
       "name": "Dancing On My Own",
       "url": "https://open.spotify.com/track/3Rc2ajBMInxeNGVkMPC92Y"
@@ -14134,7 +14250,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-17",
+      "date_removed": null,
       "duration_ms": 261959,
       "name": "Decode",
       "url": "https://open.spotify.com/track/1ZLtE9tSJdaUiIJ9YoKHQe"
@@ -14994,7 +15110,7 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 245760,
       "name": "Do You Wanna",
       "url": "https://open.spotify.com/track/0YY9bJCAk7eJliNKvlxGV4"
@@ -15897,6 +16013,24 @@
     },
     {
       "album": {
+        "name": "The Twilight Saga: New Moon (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2PDlvc7K51qC4Bkali3q0R"
+      },
+      "artists": [
+        {
+          "name": "Black Rebel Motorcycle Club",
+          "url": "https://open.spotify.com/artist/1tpXaFf2F55E7kVJON4j4G"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169533,
+      "name": "Done All Wrong",
+      "url": "https://open.spotify.com/track/0czSxdwBJhj9sCrfzvotXr"
+    },
+    {
+      "album": {
         "name": "WANT (Deluxe)",
         "url": "https://open.spotify.com/album/10xgy5KkSpP3prnygQmFoN"
       },
@@ -16038,7 +16172,7 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 206080,
       "name": "Down By The Water",
       "url": "https://open.spotify.com/track/6NFgv7jhNpbmiQhZqodx0w"
@@ -16635,6 +16769,24 @@
     },
     {
       "album": {
+        "name": "Eclipse (All Yours)",
+        "url": "https://open.spotify.com/album/1KPNKnqUNqFtpirx7fK9S3"
+      },
+      "artists": [
+        {
+          "name": "Metric",
+          "url": "https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201722,
+      "name": "Eclipse (All Yours)",
+      "url": "https://open.spotify.com/track/3gqFA8IMet7nSWtYPiVlS2"
+    },
+    {
+      "album": {
         "name": "It's My Life",
         "url": "https://open.spotify.com/album/2YBkamwn6VqpPO2wOfDVjS"
       },
@@ -16900,7 +17052,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 276920,
       "name": "Empire State Of Mind",
       "url": "https://open.spotify.com/track/2igwFfvr1OAGX9SKDCPBwO"
@@ -17821,6 +17973,24 @@
     },
     {
       "album": {
+        "name": "Life Of A Ghost",
+        "url": "https://open.spotify.com/album/5Chvs2hsJcGowLm4PgigEl"
+      },
+      "artists": [
+        {
+          "name": "Blue Foundation",
+          "url": "https://open.spotify.com/artist/1FWybrAwiSa0zKibdLfZZr"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302826,
+      "name": "Eyes on Fire",
+      "url": "https://open.spotify.com/track/3XHrTm6WE2BOHafLwTT3GR"
+    },
+    {
+      "album": {
         "name": "Rebel Yell",
         "url": "https://open.spotify.com/album/6yDq3SrTcstT7zD1hv3hgM"
       },
@@ -18662,7 +18832,7 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 151613,
       "name": "Fell In Love Without You",
       "url": "https://open.spotify.com/track/24zvL59ZN1uTkvuQheAR0V"
@@ -18961,6 +19131,24 @@
     },
     {
       "album": {
+        "name": "The Twilight Saga: Breaking Dawn - Part 2 (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6lJrqUXdCpEINx1fi5EqMa"
+      },
+      "artists": [
+        {
+          "name": "Feist",
+          "url": "https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150786,
+      "name": "Fire In The Water",
+      "url": "https://open.spotify.com/track/42YunpdquRjWicoxW971f4"
+    },
+    {
+      "album": {
         "name": "Ocean Eyes",
         "url": "https://open.spotify.com/album/3vf65wfk1EEjVhy6BjENsS"
       },
@@ -19182,6 +19370,24 @@
       "duration_ms": 188866,
       "name": "Flavor Of The Weak",
       "url": "https://open.spotify.com/track/5wjQihzWIKgBc1hzf5work"
+    },
+    {
+      "album": {
+        "name": "The Shepherd's Dog",
+        "url": "https://open.spotify.com/album/3fzjXU2SSKero9gVMcPivX"
+      },
+      "artists": [
+        {
+          "name": "Iron & Wine",
+          "url": "https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241917,
+      "name": "Flightless Bird, American Mouth",
+      "url": "https://open.spotify.com/track/1fEGtTZjrjJW8eUeewnNJR"
     },
     {
       "album": {
@@ -19863,6 +20069,24 @@
     },
     {
       "album": {
+        "name": "The Twilight Saga: New Moon (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2PDlvc7K51qC4Bkali3q0R"
+      },
+      "artists": [
+        {
+          "name": "Band Of Skulls",
+          "url": "https://open.spotify.com/artist/4ddt8PPvmWrI9mJQy1VrIG"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189826,
+      "name": "Friends",
+      "url": "https://open.spotify.com/track/1Oiawgs3gXm8NI6gLqKszk"
+    },
+    {
+      "album": {
         "name": "Some People's Lives",
         "url": "https://open.spotify.com/album/7s86va7L6qq82p0y7KVBeb"
       },
@@ -19878,6 +20102,24 @@
       "duration_ms": 276346,
       "name": "From a Distance",
       "url": "https://open.spotify.com/track/48eiLW57CqSmCYNZRM2J8M"
+    },
+    {
+      "album": {
+        "name": "The Twilight Saga: Breaking Dawn - Part 1 (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1iGIqDBXm5HpTqHCvdc4QP"
+      },
+      "artists": [
+        {
+          "name": "The Features",
+          "url": "https://open.spotify.com/artist/3FaKHeTy1zMZVtQAvwaF0x"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201213,
+      "name": "From Now On",
+      "url": "https://open.spotify.com/track/0kjFrdKtGNcYGzxFjxn978"
     },
     {
       "album": {
@@ -20038,6 +20280,24 @@
       "duration_ms": 248933,
       "name": "Full Moon",
       "url": "https://open.spotify.com/track/6QxuZMdsElzjC1NnXUfl8c"
+    },
+    {
+      "album": {
+        "name": "The Black Ghosts",
+        "url": "https://open.spotify.com/album/1YYrvq6ZlTGW2KDINRWS9J"
+      },
+      "artists": [
+        {
+          "name": "The Black Ghosts",
+          "url": "https://open.spotify.com/artist/6j0sVXUMU7BEZZ5cfEwjkq"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231333,
+      "name": "Full Moon",
+      "url": "https://open.spotify.com/track/0uwNtbl80CvP4EFio32PYv"
     },
     {
       "album": {
@@ -20720,6 +20980,24 @@
       "duration_ms": 216106,
       "name": "Ghost",
       "url": "https://open.spotify.com/track/2FiceoWDJ67rrmb5tGBpgE"
+    },
+    {
+      "album": {
+        "name": "The Twilight Saga: Breaking Dawn - Part 2 (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6lJrqUXdCpEINx1fi5EqMa"
+      },
+      "artists": [
+        {
+          "name": "James Vincent McMorrow",
+          "url": "https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224600,
+      "name": "Ghosts",
+      "url": "https://open.spotify.com/track/4RD9ieX3yq8OLW5tlf1KLL"
     },
     {
       "album": {
@@ -21408,7 +21686,7 @@
       ],
       "date_added": "2022-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 246573,
       "name": "Glamorous",
       "url": "https://open.spotify.com/track/4KTtYhxFtFL7mBwnjkKfLm"
@@ -21816,7 +22094,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 196413,
       "name": "Good Girls Go Bad (feat. Leighton Meester)",
       "url": "https://open.spotify.com/track/7kMfu3KUydmrFVGEAhjtyl"
@@ -22782,7 +23060,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 218786,
       "name": "Hang Me Up To Dry",
       "url": "https://open.spotify.com/track/3IXRdLsQib8m0hBbQpe7T8"
@@ -22836,7 +23114,7 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 288973,
       "name": "Happily Never After",
       "url": "https://open.spotify.com/track/0ElALDEYaW6NlvVwc1babg"
@@ -22962,7 +23240,7 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 276000,
       "name": "Happy Ending",
       "url": "https://open.spotify.com/track/1wl3u4FrzcuBv2LQ97Z6TQ"
@@ -23034,7 +23312,7 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 313706,
       "name": "Hard to Live in the City",
       "url": "https://open.spotify.com/track/6ezfInFyeBeoeKwpdo31cs"
@@ -23467,6 +23745,24 @@
     },
     {
       "album": {
+        "name": "Hearing Damage",
+        "url": "https://open.spotify.com/album/5SCfET4lGs65o4Jgb7hZ2f"
+      },
+      "artists": [
+        {
+          "name": "Thom Yorke",
+          "url": "https://open.spotify.com/artist/4CvTDPKA6W06DRfBnZKrau"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303360,
+      "name": "Hearing Damage",
+      "url": "https://open.spotify.com/track/1fTtPH0xGwFOXM5VlkxOX1"
+    },
+    {
+      "album": {
         "name": "Demi",
         "url": "https://open.spotify.com/album/6Kssm2LosQ0WyLukFZkEG5"
       },
@@ -23500,6 +23796,24 @@
       "duration_ms": 275733,
       "name": "Heart Of Glass - Special Mix",
       "url": "https://open.spotify.com/track/0a4agFmqHXxcZl1nho1BxM"
+    },
+    {
+      "album": {
+        "name": "Heart of Stone",
+        "url": "https://open.spotify.com/album/4BMjvnnX1N94Awilhbb31Z"
+      },
+      "artists": [
+        {
+          "name": "Iko",
+          "url": "https://open.spotify.com/artist/2uhxsH4AyYw4sWOR8peWLj"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233133,
+      "name": "Heart of Stone",
+      "url": "https://open.spotify.com/track/5wMF5Ol4ZqdAmzYDEeElNL"
     },
     {
       "album": {
@@ -23818,6 +24132,24 @@
       "duration_ms": 226364,
       "name": "Heavenly Day",
       "url": "https://open.spotify.com/track/5psDqAoIqNCpUke3SQcpdE"
+    },
+    {
+      "album": {
+        "name": "Lungs (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2FgknX5e7fJlriQtxvpLhZ"
+      },
+      "artists": [
+        {
+          "name": "Florence + The Machine",
+          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285493,
+      "name": "Heavy In Your Arms",
+      "url": "https://open.spotify.com/track/3YZ4ccGSysav9mPqbni9JU"
     },
     {
       "album": {
@@ -25583,6 +25915,24 @@
     },
     {
       "album": {
+        "name": "A Different Kind Of Fix",
+        "url": "https://open.spotify.com/album/4W6ztwnEbK92Arl8kI9c9N"
+      },
+      "artists": [
+        {
+          "name": "Bombay Bicycle Club",
+          "url": "https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210213,
+      "name": "How Can You Swallow So Much Sleep",
+      "url": "https://open.spotify.com/track/214Cj6UAEJvq9rocjbXqK1"
+    },
+    {
+      "album": {
         "name": "Greatest",
         "url": "https://open.spotify.com/album/5YHZaCxCuuK81h4Fimb9rT"
       },
@@ -26185,6 +26535,24 @@
     },
     {
       "album": {
+        "name": "The Twilight Saga: New Moon (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2PDlvc7K51qC4Bkali3q0R"
+      },
+      "artists": [
+        {
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191960,
+      "name": "I Belong to You - New Moon Remix",
+      "url": "https://open.spotify.com/track/3H41n3kvvAHcjmcP9CzpTR"
+    },
+    {
+      "album": {
         "name": "God's Son",
         "url": "https://open.spotify.com/album/3rV1aPkrWyMs6YTvTpSbIY"
       },
@@ -26214,7 +26582,7 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 259346,
       "name": "I Can Feel a Hot One",
       "url": "https://open.spotify.com/track/2pwdgph51JIwFkhmvZdgAn"
@@ -26334,6 +26702,24 @@
       "duration_ms": 208320,
       "name": "I Could Be The One (Avicii Vs. Nicky Romero) - Radio Edit",
       "url": "https://open.spotify.com/track/591nHHHzZl1NLt9PMKpinM"
+    },
+    {
+      "album": {
+        "name": "The Twilight Saga: Breaking Dawn - Part 1 (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1iGIqDBXm5HpTqHCvdc4QP"
+      },
+      "artists": [
+        {
+          "name": "The Belle Brigade",
+          "url": "https://open.spotify.com/artist/10QjFzenujarVaaOGrNXOk"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212760,
+      "name": "I Didn't Mean It - Soundtrack Version",
+      "url": "https://open.spotify.com/track/6NG0uwFdLTtuQRBdl51CNx"
     },
     {
       "album": {
@@ -26692,7 +27078,7 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 241520,
       "name": "I Got It From My Mama",
       "url": "https://open.spotify.com/track/2q2pZHWEQe6w9PgACCzMtC"
@@ -29444,7 +29830,7 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 208106,
       "name": "If It's Lovin' That You Want",
       "url": "https://open.spotify.com/track/4x2rgtSFOI4hRvEvDj02KP"
@@ -30777,6 +31163,24 @@
     },
     {
       "album": {
+        "name": "Sad Feelings",
+        "url": "https://open.spotify.com/album/0O1oz5l7raD7w4a9AI1JM3"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257720,
+      "name": "It Will Rain",
+      "url": "https://open.spotify.com/track/6ns0DIYkYygwMfyoTUtWjb"
+    },
+    {
+      "album": {
         "name": "Down The Road I Go",
         "url": "https://open.spotify.com/album/2ewYJg5AuA9bXWrvOs1mtB"
       },
@@ -31789,6 +32193,24 @@
     },
     {
       "album": {
+        "name": "Jonathan Low",
+        "url": "https://open.spotify.com/album/3l4z8EMLjNFKSGwmeoIGAg"
+      },
+      "artists": [
+        {
+          "name": "Vampire Weekend",
+          "url": "https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213466,
+      "name": "Jonathan Low",
+      "url": "https://open.spotify.com/track/69lbTYNxwof4CCUEpIONAt"
+    },
+    {
+      "album": {
         "name": "Cuz I Love You (Super Deluxe)",
         "url": "https://open.spotify.com/album/2KJjOBX280F3hZZE1xO33O"
       },
@@ -32442,7 +32864,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 302840,
       "name": "Kids",
       "url": "https://open.spotify.com/track/1jJci4qxiYcOHhQR247rEU"
@@ -32532,7 +32954,7 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 237998,
       "name": "Kill For Love",
       "url": "https://open.spotify.com/track/2mmHMj1WE6KuhwtbiU0aH5"
@@ -33719,6 +34141,24 @@
     },
     {
       "album": {
+        "name": "Minutes to Midnight",
+        "url": "https://open.spotify.com/album/2tlTBLz2w52rpGCLBGyGw6"
+      },
+      "artists": [
+        {
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209306,
+      "name": "Leave Out All The Rest",
+      "url": "https://open.spotify.com/track/0sp00HSXkQyqTa6QqM0O8V"
+    },
+    {
+      "album": {
         "name": "Departure - Recharged",
         "url": "https://open.spotify.com/album/2tDCfKFy2YW9N0IwNSRdOJ"
       },
@@ -34122,6 +34562,28 @@
       "duration_ms": 217733,
       "name": "Let's Get It Started - Spike Mix",
       "url": "https://open.spotify.com/track/4hfIVhq0F0zFUcrbecsYmo"
+    },
+    {
+      "album": {
+        "name": "Let's Get Lost",
+        "url": "https://open.spotify.com/album/4MNPgA7l0I2qkG2u2APPfy"
+      },
+      "artists": [
+        {
+          "name": "Beck",
+          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
+        },
+        {
+          "name": "Bat For Lashes",
+          "url": "https://open.spotify.com/artist/6l77PmL5iuEEcYjGl8K6s7"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250200,
+      "name": "Let's Get Lost",
+      "url": "https://open.spotify.com/track/0Z8ImgwAkYVob6mrpmua6p"
     },
     {
       "album": {
@@ -36005,6 +36467,24 @@
     },
     {
       "album": {
+        "name": "Love Is Worth The Fall",
+        "url": "https://open.spotify.com/album/2D2T5g26Bx5o3F4mAcbl1e"
+      },
+      "artists": [
+        {
+          "name": "O.A.R.",
+          "url": "https://open.spotify.com/artist/1Cq0LAHFfvUTBEtMPXUidI"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217666,
+      "name": "Love Is Worth The Fall",
+      "url": "https://open.spotify.com/track/0Zn7i8CWEa6LVK0SHl8V3D"
+    },
+    {
+      "album": {
         "name": "Keep the Faith",
         "url": "https://open.spotify.com/album/2jQdDSxc2T21OFC72lAMYL"
       },
@@ -36446,6 +36926,24 @@
       "duration_ms": 321666,
       "name": "Love Will Save the Day",
       "url": "https://open.spotify.com/track/4gDBc1RxPAvinJrZzZ9nYX"
+    },
+    {
+      "album": {
+        "name": "The Twilight Saga: Breaking Dawn - Part 1 (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1iGIqDBXm5HpTqHCvdc4QP"
+      },
+      "artists": [
+        {
+          "name": "Angus & Julia Stone",
+          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270040,
+      "name": "Love Will Take You",
+      "url": "https://open.spotify.com/track/0YyynezM9ylX7gJkfyTnBw"
     },
     {
       "album": {
@@ -37172,7 +37670,7 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 235653,
       "name": "Make Me Wanna Die",
       "url": "https://open.spotify.com/track/2opyAm6zOyjR0An5LkblfN"
@@ -37872,6 +38370,24 @@
       "duration_ms": 164205,
       "name": "Meant to Be (feat. Florida Georgia Line)",
       "url": "https://open.spotify.com/track/4e4fqjx0Izh4svvTef1z7e"
+    },
+    {
+      "album": {
+        "name": "The Twilight Saga: New Moon (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2PDlvc7K51qC4Bkali3q0R"
+      },
+      "artists": [
+        {
+          "name": "Death Cab for Cutie",
+          "url": "https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224133,
+      "name": "Meet Me on the Equinox",
+      "url": "https://open.spotify.com/track/4MeBn9GqDFZ4IgZQXWGa7o"
     },
     {
       "album": {
@@ -38862,6 +39378,24 @@
       "duration_ms": 314853,
       "name": "Monster Hospital (MSTRKRFT Remix)",
       "url": "https://open.spotify.com/track/1scPGYiD2SjAEfeQBRRC6R"
+    },
+    {
+      "album": {
+        "name": "Tonight Is The Ghost (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2Aa1tEuP3YyGdKigni3SKf"
+      },
+      "artists": [
+        {
+          "name": "Hurricane Bells",
+          "url": "https://open.spotify.com/artist/25Y86LR3xoaITq1XQ7NqlK"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197000,
+      "name": "Monsters",
+      "url": "https://open.spotify.com/track/5B0G5hiPZ3uU8gK0R6ECSv"
     },
     {
       "album": {
@@ -40649,6 +41183,24 @@
     },
     {
       "album": {
+        "name": "Neutron Star Collision [Love Is Forever]",
+        "url": "https://open.spotify.com/album/2tJXza5ryx9DKIsmAI8neb"
+      },
+      "artists": [
+        {
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230256,
+      "name": "Neutron Star Collision (Love Is Forever) - Soundtrack Version",
+      "url": "https://open.spotify.com/track/4AIazttPmHpd7p7pwJw692"
+    },
+    {
+      "album": {
         "name": "Nevada",
         "url": "https://open.spotify.com/album/35waq1Bkgy11OjZNGuk9Gj"
       },
@@ -40960,6 +41512,24 @@
       "duration_ms": 194733,
       "name": "New Disease",
       "url": "https://open.spotify.com/track/5xqi4X6J5PHwndSJc7YLYH"
+    },
+    {
+      "album": {
+        "name": "The Twilight Saga: Breaking Dawn - Part 2 (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6lJrqUXdCpEINx1fi5EqMa"
+      },
+      "artists": [
+        {
+          "name": "Reeve Carney",
+          "url": "https://open.spotify.com/artist/7qDUWeBzKcDnh15yhYBf2U"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188720,
+      "name": "New For You",
+      "url": "https://open.spotify.com/track/4r8slqwskSBYn72lZ127nD"
     },
     {
       "album": {
@@ -41515,6 +42085,24 @@
     },
     {
       "album": {
+        "name": "Violence",
+        "url": "https://open.spotify.com/album/7q0Fdj0jZDoYWIGWY64x3A"
+      },
+      "artists": [
+        {
+          "name": "Editors",
+          "url": "https://open.spotify.com/artist/6e9wIFWhBPHLE9bXK8gtBI"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267463,
+      "name": "No Sound but the Wind",
+      "url": "https://open.spotify.com/track/6LU15UdRHvUnHW8OyEbxy3"
+    },
+    {
+      "album": {
         "name": "Destiny's Child",
         "url": "https://open.spotify.com/album/3zB2PjaK4CDzxBErKvDvfo"
       },
@@ -41650,10 +42238,28 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 206760,
       "name": "Nolita Fairytale - Main",
       "url": "https://open.spotify.com/track/59d8G3noBayJU6fw34Ek1F"
+    },
+    {
+      "album": {
+        "name": "The Twilight Saga: Breaking Dawn - Part 1 (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1iGIqDBXm5HpTqHCvdc4QP"
+      },
+      "artists": [
+        {
+          "name": "Cider Sky",
+          "url": "https://open.spotify.com/artist/2BXH0hNga2gt2RztKKN5F9"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229626,
+      "name": "Northern Lights",
+      "url": "https://open.spotify.com/track/6tdEOtxBB9l8SXe108Aaux"
     },
     {
       "album": {
@@ -42956,7 +43562,7 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 164493,
       "name": "One Week of Danger",
       "url": "https://open.spotify.com/track/7k3WWvFj0CZJAYlQK9na9U"
@@ -43666,7 +44272,7 @@
       ],
       "date_added": "2022-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 208306,
       "name": "Paparazzi",
       "url": "https://open.spotify.com/track/7Hqig8kp32q2Ire3ECQvWM"
@@ -44833,6 +45439,24 @@
     },
     {
       "album": {
+        "name": "Possibility",
+        "url": "https://open.spotify.com/album/38pk7xhWyZNvTODl9fdSVP"
+      },
+      "artists": [
+        {
+          "name": "Lykke Li",
+          "url": "https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306440,
+      "name": "Possibility",
+      "url": "https://open.spotify.com/track/1sFbPuShR6R8v6vSMkx02x"
+    },
+    {
+      "album": {
         "name": "Rubberneck",
         "url": "https://open.spotify.com/album/7tFTqVGHceSlXOaz8IylBN"
       },
@@ -45242,7 +45866,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 242293,
       "name": "Promiscuous",
       "url": "https://open.spotify.com/track/2gam98EZKrF9XuOkU13ApN"
@@ -46745,6 +47369,24 @@
     },
     {
       "album": {
+        "name": "Requiem on Water - Single",
+        "url": "https://open.spotify.com/album/6dyCbI69sNcqVVfP4pzP4J"
+      },
+      "artists": [
+        {
+          "name": "Imperial Mammoth",
+          "url": "https://open.spotify.com/artist/2dyWUDNBU2kFuhcZ4Ki3F4"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145853,
+      "name": "Requiem On Water",
+      "url": "https://open.spotify.com/track/1T02TSO5HAzOGFUrZnu8JM"
+    },
+    {
+      "album": {
         "name": "F.L.M. (Deluxe Edition)",
         "url": "https://open.spotify.com/album/6mrIxuwdKXXao4SOgte0Lv"
       },
@@ -47648,7 +48290,7 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 228093,
       "name": "Rolling in the Deep",
       "url": "https://open.spotify.com/track/1c8gk2PeTE04A1pIDH9YMk"
@@ -47728,6 +48370,28 @@
       "duration_ms": 226738,
       "name": "Roses",
       "url": "https://open.spotify.com/track/3vv9phIu6Y1vX3jcqaGz5Z"
+    },
+    {
+      "album": {
+        "name": "The Twilight Saga: New Moon (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2PDlvc7K51qC4Bkali3q0R"
+      },
+      "artists": [
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        },
+        {
+          "name": "St. Vincent",
+          "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289560,
+      "name": "Rosyln",
+      "url": "https://open.spotify.com/track/4k7x3QKrc3h3U0Viqk0uop"
     },
     {
       "album": {
@@ -48352,6 +49016,24 @@
       "duration_ms": 182746,
       "name": "Santeria",
       "url": "https://open.spotify.com/track/2hnMS47jN0etwvFPzYk11f"
+    },
+    {
+      "album": {
+        "name": "Satellite Heart (Anya's Version)",
+        "url": "https://open.spotify.com/album/6rIAGnEYwFuhc4fvAwVjGB"
+      },
+      "artists": [
+        {
+          "name": "Anya Marina",
+          "url": "https://open.spotify.com/artist/6xYBLeSMu1AqPsnUzEvx5n"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216885,
+      "name": "Satellite Heart (Anya's Version)",
+      "url": "https://open.spotify.com/track/6598HgKzetO8sDSXTSq3lZ"
     },
     {
       "album": {
@@ -48998,7 +49680,7 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 229160,
       "name": "Secret",
       "url": "https://open.spotify.com/track/7eoC95sT8KxeZGPAikDOAm"
@@ -50269,6 +50951,24 @@
     },
     {
       "album": {
+        "name": "Of the Blue Colour of the Sky (Extra Nice Edition)",
+        "url": "https://open.spotify.com/album/5TuhfXz9e8R24EL0z6oePg"
+      },
+      "artists": [
+        {
+          "name": "OK Go",
+          "url": "https://open.spotify.com/artist/3hozsZ9hqNq7CoBGYNlFTz"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200773,
+      "name": "Shooting The Moon",
+      "url": "https://open.spotify.com/track/4StBMIFXJl9ObFMdeEQD6S"
+    },
+    {
+      "album": {
         "name": "Short Dick Man",
         "url": "https://open.spotify.com/album/3BQ6ifqB1pglyvEJQrcauT"
       },
@@ -50382,7 +51082,7 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 225520,
       "name": "Shove It (feat. Spank Rock)",
       "url": "https://open.spotify.com/track/2RBmWAhs6yX4SDYQX4zgF1"
@@ -50552,7 +51252,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 212280,
       "name": "Shut Up And Drive",
       "url": "https://open.spotify.com/track/4Tn2llBm1g0UlWctmgPL8Z"
@@ -50624,7 +51324,7 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 278674,
       "name": "Signs",
       "url": "https://open.spotify.com/track/2E3hdMguyNDQswLXyUotYR"
@@ -51156,7 +51856,7 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 218426,
       "name": "Slow",
       "url": "https://open.spotify.com/track/3DkJe7WzfORrqrwJjLIwAw"
@@ -51222,6 +51922,28 @@
       "duration_ms": 212146,
       "name": "Slow Jamz (feat. Kanye West & Jamie Foxx)",
       "url": "https://open.spotify.com/track/1boHm9rjmvzxpJASd9dnGK"
+    },
+    {
+      "album": {
+        "name": "The Twilight Saga: New Moon (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2PDlvc7K51qC4Bkali3q0R"
+      },
+      "artists": [
+        {
+          "name": "Grizzly Bear",
+          "url": "https://open.spotify.com/artist/2Jv5eshHtLycR6R8KQCdc4"
+        },
+        {
+          "name": "Victoria Legrand",
+          "url": "https://open.spotify.com/artist/0dSxUQB8QwdBtb49kVMadW"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261200,
+      "name": "Slow Life (with Victoria Legrand)",
+      "url": "https://open.spotify.com/track/02KGkBz8Tyc9TB2RqCd9Z5"
     },
     {
       "album": {
@@ -51912,7 +52634,7 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 212933,
       "name": "Somebody To Love",
       "url": "https://open.spotify.com/track/1fPp89nbZQiRar1f3a8lPe"
@@ -52559,6 +53281,24 @@
     },
     {
       "album": {
+        "name": "Spotlight EP",
+        "url": "https://open.spotify.com/album/1GKbjyJ0MCTFv1OqxQFmW6"
+      },
+      "artists": [
+        {
+          "name": "Mutemath",
+          "url": "https://open.spotify.com/artist/1J9Z9bhqkgyqseEi85cbyx"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200515,
+      "name": "Spotlight",
+      "url": "https://open.spotify.com/track/4AM7vsDNovx39wvuXFz7KH"
+    },
+    {
+      "album": {
         "name": "Spotlight",
         "url": "https://open.spotify.com/album/0qtUFrj4nTLSmvOVH0bnqM"
       },
@@ -52772,7 +53512,7 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 288573,
       "name": "Starpower",
       "url": "https://open.spotify.com/track/4m4Z6Rkz0XJcIrxz9vtMBQ"
@@ -53854,7 +54594,7 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 216786,
       "name": "Stripper",
       "url": "https://open.spotify.com/track/18tmaLcIWTagyzeoqa41Up"
@@ -54724,7 +55464,7 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 304760,
       "name": "Super Rich Kids",
       "url": "https://open.spotify.com/track/0725YWm6Z0TpZ6wrNk64Eb"
@@ -54796,7 +55536,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-09",
+      "date_removed": null,
       "duration_ms": 212439,
       "name": "Supermassive Black Hole",
       "url": "https://open.spotify.com/track/3lPr8ghNDBLc2uZovNyLs9"
@@ -55994,7 +56734,7 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 238826,
       "name": "Tell Me A Lie",
       "url": "https://open.spotify.com/track/22p38aU9hQqje7qupVq5OT"
@@ -56471,6 +57211,24 @@
     },
     {
       "album": {
+        "name": "The Twilight Saga: Breaking Dawn - Part 2 (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6lJrqUXdCpEINx1fi5EqMa"
+      },
+      "artists": [
+        {
+          "name": "St. Vincent",
+          "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219426,
+      "name": "The Antidote",
+      "url": "https://open.spotify.com/track/2rKP4A3wm8b5zLFyqSXCMY"
+    },
+    {
+      "album": {
         "name": "The Art Of Losing",
         "url": "https://open.spotify.com/album/2EqQIatD5JB7TplX0S2jup"
       },
@@ -56857,6 +57615,24 @@
     },
     {
       "album": {
+        "name": "\u00a1TR\u00c9!",
+        "url": "https://open.spotify.com/album/1t9rzuEEFVHPdqRYzsaWC8"
+      },
+      "artists": [
+        {
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298733,
+      "name": "The Forgotten",
+      "url": "https://open.spotify.com/track/1Of1g1PMt1wKW1L4Te6oDM"
+    },
+    {
+      "album": {
         "name": "The Fox (What Does the Fox Say?)",
         "url": "https://open.spotify.com/album/77QwsMRvonZJn7adV47V78"
       },
@@ -56886,7 +57662,7 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 322173,
       "name": "The Funeral",
       "url": "https://open.spotify.com/track/5lRzWDEe7UuedU2QPsFg0K"
@@ -56940,7 +57716,7 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 302066,
       "name": "The Gift",
       "url": "https://open.spotify.com/track/3MJdjsfekFs4kh04g2l6Zg"
@@ -57102,7 +57878,7 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 225200,
       "name": "The Ice Is Getting Thinner",
       "url": "https://open.spotify.com/track/204974mkLcxFNtq6EXLsJx"
@@ -57616,7 +58392,7 @@
       ],
       "date_added": "2022-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 267653,
       "name": "The Only Exception",
       "url": "https://open.spotify.com/track/7JIuqL4ZqkpfGKQhYlrirs"
@@ -58248,6 +59024,24 @@
       "duration_ms": 174360,
       "name": "The Tracks Of My Tears",
       "url": "https://open.spotify.com/track/6QyQmdvQ1ywNccYa0pwLNQ"
+    },
+    {
+      "album": {
+        "name": "The Twilight Saga: New Moon (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2PDlvc7K51qC4Bkali3q0R"
+      },
+      "artists": [
+        {
+          "name": "Sea Wolf",
+          "url": "https://open.spotify.com/artist/3ZllGjNdP5pS8UFnT5Jj2x"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212733,
+      "name": "The Violet Hour",
+      "url": "https://open.spotify.com/track/3707LHvB1Fnru7wRsXPfOZ"
     },
     {
       "album": {
@@ -60250,7 +61044,7 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 299933,
       "name": "Too Late",
       "url": "https://open.spotify.com/track/42dQ7b6T6zjTjndfzCY2Mo"
@@ -60697,6 +61491,24 @@
     },
     {
       "album": {
+        "name": "Dosage",
+        "url": "https://open.spotify.com/album/5YcqcN9ZyZIS2vYYT4WC66"
+      },
+      "artists": [
+        {
+          "name": "Collective Soul",
+          "url": "https://open.spotify.com/artist/4e5V1Q2dKCzbLVMQ8qbTn6"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232560,
+      "name": "Tremble For My Beloved",
+      "url": "https://open.spotify.com/track/7iG532WYz2Gr4ALnTpDECe"
+    },
+    {
+      "album": {
         "name": "Gold Skies",
         "url": "https://open.spotify.com/album/4EV2HGPHQpUu4cPxJTP0OT"
       },
@@ -61052,6 +61864,24 @@
       "duration_ms": 229360,
       "name": "Turn! Turn! Turn! (To Everything There Is a Season)",
       "url": "https://open.spotify.com/track/5qBqBdfTEIWJwAS0Jm2F5R"
+    },
+    {
+      "album": {
+        "name": "Turning Page",
+        "url": "https://open.spotify.com/album/7lh3v8GsuH6TKFQcTimkji"
+      },
+      "artists": [
+        {
+          "name": "Sleeping At Last",
+          "url": "https://open.spotify.com/artist/0MeLMJJcouYXCymQSHPn8g"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255893,
+      "name": "Turning Page",
+      "url": "https://open.spotify.com/track/2kfGoV9a5dbSKCNmUWH2ZF"
     },
     {
       "album": {
@@ -62104,7 +62934,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 281960,
       "name": "Video Games",
       "url": "https://open.spotify.com/track/24jvD83UgLmrdGjhWTFslY"
@@ -63074,7 +63904,7 @@
       ],
       "date_added": "2022-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 250626,
       "name": "We Are Young (feat. Janelle Mon\u00e1e)",
       "url": "https://open.spotify.com/track/7a86XRg84qjasly9f6bPSD"
@@ -63638,7 +64468,7 @@
       ],
       "date_added": "2022-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 448573,
       "name": "What Goes Around.../...Comes Around (Interlude)",
       "url": "https://open.spotify.com/track/3pD0f7hSJg2XdQ6udw5Tey"
@@ -64194,7 +65024,7 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 221253,
       "name": "Whatcha Say",
       "url": "https://open.spotify.com/track/67T6l4q3zVjC5nZZPXByU8"
@@ -64230,7 +65060,7 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 228907,
       "name": "Whatever You Like - Single Version",
       "url": "https://open.spotify.com/track/5qX2ZJoLEyFCTAdaCqUo7s"
@@ -64675,6 +65505,24 @@
     },
     {
       "album": {
+        "name": "The Twilight Saga: Breaking Dawn - Part 2 (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6lJrqUXdCpEINx1fi5EqMa"
+      },
+      "artists": [
+        {
+          "name": "Passion Pit",
+          "url": "https://open.spotify.com/artist/7gjAu1qr5C2grXeQFFOGeh"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219680,
+      "name": "Where I Come From",
+      "url": "https://open.spotify.com/track/2HLq0XpKeKuFi6mC1CZr6P"
+    },
+    {
+      "album": {
         "name": "Death to the Pixies",
         "url": "https://open.spotify.com/album/2A4zIVdm7JjHaNo9cop985"
       },
@@ -64994,7 +65842,7 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 178666,
       "name": "White Sky",
       "url": "https://open.spotify.com/track/1QdVwO5xqAI88pNn2qfNjU"
@@ -65564,7 +66412,7 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 291360,
       "name": "With Me",
       "url": "https://open.spotify.com/track/1OTvWduKQV0MQd2gnGM9He"
@@ -65640,6 +66488,24 @@
       "duration_ms": 203266,
       "name": "With You",
       "url": "https://open.spotify.com/track/5uuXtfqM7Wp3idCxyHeOll"
+    },
+    {
+      "album": {
+        "name": "Where Did The Night Fall: Another Night Out",
+        "url": "https://open.spotify.com/album/1zU4IVCraoTYwL4bFZ2Inh"
+      },
+      "artists": [
+        {
+          "name": "UNKLE",
+          "url": "https://open.spotify.com/artist/2nszamLjZFgu3Yx77mKxuC"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311786,
+      "name": "With You in My Head (feat. The Black Angels)",
+      "url": "https://open.spotify.com/track/2o5HusR6pQjjf5qXR86p5O"
     },
     {
       "album": {
@@ -67075,6 +67941,24 @@
     },
     {
       "album": {
+        "name": "Leaves in the River",
+        "url": "https://open.spotify.com/album/6WC3AqZcdJkfRxYRo2iXSL"
+      },
+      "artists": [
+        {
+          "name": "Sea Wolf",
+          "url": "https://open.spotify.com/artist/3ZllGjNdP5pS8UFnT5Jj2x"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215560,
+      "name": "You're a Wolf",
+      "url": "https://open.spotify.com/track/4cFMT3DwTYChrjBT71hqGy"
+    },
+    {
+      "album": {
         "name": "You're All I Need",
         "url": "https://open.spotify.com/album/1i1HqvvJk7zGpNDygYlXQd"
       },
@@ -67364,7 +68248,7 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 168666,
       "name": "You've Got The Love",
       "url": "https://open.spotify.com/track/6u9RqxALwkjJ1ukB1y8vuP"
@@ -67454,7 +68338,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 276693,
       "name": "Young Folks",
       "url": "https://open.spotify.com/track/4dyx5SzxPPaD8xQIid5Wjj"

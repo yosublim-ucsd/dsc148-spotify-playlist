@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7dXtI26GOnj.md) - [plain]
 
 > Todo o calor latino está aqui! 🔥  foto: Kali Uchis, KAROL G
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,184 likes - 90 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,252 likes - 90 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7dXtI26GOnj.md) - [plain]
 | 89 | [DÉJALO EN VISTO](https://open.spotify.com/track/5PrNsTfGhAxHcdg3AgqBNt) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [LOS MUCHACHOS](https://open.spotify.com/album/79TZva6XBzzPDcQggKgGaa) | 3:09 |
 | 90 | [Trendy](https://open.spotify.com/track/5MHk9RHabnoiiEeL8jplwa) | [Mc Fredd](https://open.spotify.com/artist/4UHmkWMHvZlj2ryO8gpwM5), [Planzo](https://open.spotify.com/artist/1LmK9yIJG5M5xfluNuFUbg) | [Trendy](https://open.spotify.com/album/6H4l2SjqMOvQIndddXgBXL) | 2:17 |
 
-Snapshot ID: `MCw0MzkzMjk1MzIyZTVjODhlNzVhYTc2ZmY5Nzk3ZTgxZjBhNmM5OTA3`
+Snapshot ID: `MCw0N2U5YmQ1ZGZlZTJkNDAyZDY5MDBiMTc5MjFjYTY4YzVkODEwMTFl`

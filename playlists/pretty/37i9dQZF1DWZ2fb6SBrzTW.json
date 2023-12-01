@@ -1,12 +1,12 @@
 {
   "description": "Your go to Afrobeats workout playlist ",
-  "num_followers": 24014,
+  "num_followers": 24072,
   "original_name": "Keep Fit Club ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYmZmZGNhZjJlOTI0ODAwZDkzYTY1ZDNiNzVlNTgyNzBjYWQzYWE1",
+  "snapshot_id": "MCwwOGZmNGQyNzdmNzY1ODFlM2E3ZWUzYTQzZjZhMTcwZDYzZWJkYWVm",
   "tracks": [
     {
       "added_at": "2023-11-24 00:01:00",
@@ -272,16 +272,16 @@
       },
       "artists": [
         {
-          "name": "Dj Consequence",
-          "url": "https://open.spotify.com/artist/1S28Xg1Txe8qgxku1sFrbh"
-        },
-        {
           "name": "Danny Brace",
           "url": "https://open.spotify.com/artist/3z5ugR0fqaXNQWzaXSbOc5"
         },
         {
           "name": "Runtown",
           "url": "https://open.spotify.com/artist/05GybwzsMqCk4a4Kq2Fqyw"
+        },
+        {
+          "name": "Dj Consequence",
+          "url": "https://open.spotify.com/artist/1S28Xg1Txe8qgxku1sFrbh"
         }
       ],
       "duration_ms": 156521,

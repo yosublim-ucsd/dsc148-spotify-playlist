@@ -155,6 +155,24 @@
     },
     {
       "album": {
+        "name": "Aran",
+        "url": "https://open.spotify.com/album/25Q0kKTebIuGemyCkTzKH1"
+      },
+      "artists": [
+        {
+          "name": "Cassian",
+          "url": "https://open.spotify.com/artist/1ChtRJ3f4rbv4vtz87i6CD"
+        }
+      ],
+      "date_added": "2023-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 342626,
+      "name": "Aran",
+      "url": "https://open.spotify.com/track/1smaJguPb8Psb3t4Jkds9X"
+    },
+    {
+      "album": {
         "name": "Realm Of Consciousness Pt. VI",
         "url": "https://open.spotify.com/album/69XacGhPgd7BbJCfnhUhob"
       },
@@ -166,7 +184,7 @@
       ],
       "date_added": "2023-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 342626,
       "name": "Aran",
       "url": "https://open.spotify.com/track/6Mb1Qr3Hs0MTyzyXeassQP"
@@ -304,10 +322,32 @@
       ],
       "date_added": "2023-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 249464,
       "name": "Basic",
       "url": "https://open.spotify.com/track/2sYvuF2sWVOEPc8iWtHIVQ"
+    },
+    {
+      "album": {
+        "name": "Basic",
+        "url": "https://open.spotify.com/album/6bkIZMvXXMgQC6P8D9BawB"
+      },
+      "artists": [
+        {
+          "name": "8Kays",
+          "url": "https://open.spotify.com/artist/6VJ8RuUWKIgm5p5uEvZCfQ"
+        },
+        {
+          "name": "braev",
+          "url": "https://open.spotify.com/artist/7mGCESDlw5ChfZQTQ3eUIS"
+        }
+      ],
+      "date_added": "2023-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249464,
+      "name": "Basic",
+      "url": "https://open.spotify.com/track/55EnpIL7MZDUTsfhp10VqA"
     },
     {
       "album": {
@@ -594,10 +634,28 @@
       ],
       "date_added": "2023-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 349053,
       "name": "Chronicles",
       "url": "https://open.spotify.com/track/14g73wfbQ4T26nvYTO3I7F"
+    },
+    {
+      "album": {
+        "name": "Chronicles",
+        "url": "https://open.spotify.com/album/6tlMEXycMSMclHRrJXs5qO"
+      },
+      "artists": [
+        {
+          "name": "David Lindmer",
+          "url": "https://open.spotify.com/artist/5aa2ZWUh5vpXHEWDmruKUY"
+        }
+      ],
+      "date_added": "2023-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 349053,
+      "name": "Chronicles",
+      "url": "https://open.spotify.com/track/2ncKJgHMV1kwoXSqfdAc7b"
     },
     {
       "album": {
@@ -890,10 +948,32 @@
       ],
       "date_added": "2023-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 317546,
       "name": "Desert Sun",
       "url": "https://open.spotify.com/track/2hEZYp3vO0qpVjOGwW6Ctv"
+    },
+    {
+      "album": {
+        "name": "Realm Of Consciouness Pt. VI",
+        "url": "https://open.spotify.com/album/4ufQcFRJtuzNHDx2Kpjax7"
+      },
+      "artists": [
+        {
+          "name": "CamelPhat",
+          "url": "https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W"
+        },
+        {
+          "name": "Innellea",
+          "url": "https://open.spotify.com/artist/71rqI5HtraA3qXBwatyG6e"
+        }
+      ],
+      "date_added": "2023-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317546,
+      "name": "Desert Sun",
+      "url": "https://open.spotify.com/track/5ho09ZAulykFu0SOw0IFjn"
     },
     {
       "album": {
@@ -1711,6 +1791,24 @@
     },
     {
       "album": {
+        "name": "Independence",
+        "url": "https://open.spotify.com/album/3gTody5aBTLm3YzTfhz6Wv"
+      },
+      "artists": [
+        {
+          "name": "Marino Canal",
+          "url": "https://open.spotify.com/artist/6qdVbTc8Uvy0VJyDZbYTd8"
+        }
+      ],
+      "date_added": "2023-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 369756,
+      "name": "Independence",
+      "url": "https://open.spotify.com/track/1nhtOnWnzXDnhfWZdqtu0m"
+    },
+    {
+      "album": {
         "name": "Realm Of Consciousness Pt. VI",
         "url": "https://open.spotify.com/album/69XacGhPgd7BbJCfnhUhob"
       },
@@ -1722,7 +1820,7 @@
       ],
       "date_added": "2023-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 369756,
       "name": "Independence",
       "url": "https://open.spotify.com/track/3HIAsHJMGqbe47pCAhybJC"
@@ -1795,6 +1893,28 @@
     },
     {
       "album": {
+        "name": "Jai",
+        "url": "https://open.spotify.com/album/4VoSGRyNmId6BOgNF6wcEE"
+      },
+      "artists": [
+        {
+          "name": "Fideles",
+          "url": "https://open.spotify.com/artist/39RaU9BN81x3KBo299bwXs"
+        },
+        {
+          "name": "N1RVAAN",
+          "url": "https://open.spotify.com/artist/1LhuBvyi63MWrNF5aBG9lA"
+        }
+      ],
+      "date_added": "2023-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 339346,
+      "name": "Jai",
+      "url": "https://open.spotify.com/track/0I2SMryhYP1uu2RyGW8Egs"
+    },
+    {
+      "album": {
         "name": "Realm Of Consciousness Pt. VI",
         "url": "https://open.spotify.com/album/69XacGhPgd7BbJCfnhUhob"
       },
@@ -1810,7 +1930,7 @@
       ],
       "date_added": "2023-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 339346,
       "name": "Jai",
       "url": "https://open.spotify.com/track/6HDoLdhrVeqJhyPZdXjwqG"
@@ -1879,6 +1999,24 @@
     },
     {
       "album": {
+        "name": "Laser Game",
+        "url": "https://open.spotify.com/album/1MokUEuCmz3fmQrz7YbCuy"
+      },
+      "artists": [
+        {
+          "name": "Dyzen",
+          "url": "https://open.spotify.com/artist/4iBwpHcklqLJMHgrTEHEYl"
+        }
+      ],
+      "date_added": "2023-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 346973,
+      "name": "Laser Game",
+      "url": "https://open.spotify.com/track/2CEEDN2WBpIOjLfltCFTbE"
+    },
+    {
+      "album": {
         "name": "Realm Of Consciousness Pt. VI",
         "url": "https://open.spotify.com/album/69XacGhPgd7BbJCfnhUhob"
       },
@@ -1890,7 +2028,7 @@
       ],
       "date_added": "2023-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 346973,
       "name": "Laser Game",
       "url": "https://open.spotify.com/track/5pTyEkGApxZq6IQCuU1Pej"
@@ -2377,6 +2515,24 @@
     },
     {
       "album": {
+        "name": "Odyssey",
+        "url": "https://open.spotify.com/album/65RPse0X4Vb1Hlk6FyOSLG"
+      },
+      "artists": [
+        {
+          "name": "Alfa Romero",
+          "url": "https://open.spotify.com/artist/5NYS4CtpiA1O9HahyjGfgE"
+        }
+      ],
+      "date_added": "2023-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 350933,
+      "name": "Odyssey",
+      "url": "https://open.spotify.com/track/71F0Vu1k8kaGGHjEjZFna3"
+    },
+    {
+      "album": {
         "name": "Realm Of Consciousness Pt. VI",
         "url": "https://open.spotify.com/album/69XacGhPgd7BbJCfnhUhob"
       },
@@ -2388,7 +2544,7 @@
       ],
       "date_added": "2023-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 350933,
       "name": "Odyssey",
       "url": "https://open.spotify.com/track/7uX9rxAQtQ0tUMhjCI3iSW"
@@ -3186,10 +3342,32 @@
       ],
       "date_added": "2023-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 359032,
       "name": "Tokyo Nights",
       "url": "https://open.spotify.com/track/1oJzfURANDsyf45jMrix5w"
+    },
+    {
+      "album": {
+        "name": "Tokyo Nights",
+        "url": "https://open.spotify.com/album/1TEX3nDXaEhgqJISxMiAa6"
+      },
+      "artists": [
+        {
+          "name": "Kevin de Vries",
+          "url": "https://open.spotify.com/artist/11aPF3sc8lDWNqPVInm4Zx"
+        },
+        {
+          "name": "Lehar",
+          "url": "https://open.spotify.com/artist/4uSLuEAH4lVnjAZwrlixk1"
+        }
+      ],
+      "date_added": "2023-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 359032,
+      "name": "Tokyo Nights",
+      "url": "https://open.spotify.com/track/5Qnlnqiq360QFO852tbYr0"
     },
     {
       "album": {
@@ -3306,10 +3484,28 @@
       ],
       "date_added": "2023-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 352500,
       "name": "Violla",
       "url": "https://open.spotify.com/track/0VoKAfkdSUkqDmqjKc2I1s"
+    },
+    {
+      "album": {
+        "name": "Violla",
+        "url": "https://open.spotify.com/album/75FczJL7wRSFasyQNbd5kQ"
+      },
+      "artists": [
+        {
+          "name": "Stylo",
+          "url": "https://open.spotify.com/artist/0e8a2RTD02fJ5lmCBOR7DI"
+        }
+      ],
+      "date_added": "2023-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 352500,
+      "name": "Violla",
+      "url": "https://open.spotify.com/track/33oUPomSazJALHB4T1DU6T"
     },
     {
       "album": {

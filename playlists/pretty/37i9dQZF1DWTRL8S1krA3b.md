@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTRL8S1krA3b.md) - [plain]
 
 > This year's new country holiday songs! Cover: Maddie & Tae
 
-[Spotify](https://open.spotify.com/user/spotify) - 763 likes - 79 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 839 likes - 79 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTRL8S1krA3b.md) - [plain]
 | 78 | [Hard Candy Christmas](https://open.spotify.com/track/70z0rebvMVZNPJwB2LYC8u) | [Lola Kirke](https://open.spotify.com/artist/1g5bYOQ7ZHGbn0tuUHxSgE) | [Hard Candy Christmas](https://open.spotify.com/album/59UntnrXY6QbVLQB8XuSXl) | 3:27 |
 | 79 | [Christmas By Myself](https://open.spotify.com/track/40UBf4GUXj80nfB91hCp5N) | [Tyler Halverson](https://open.spotify.com/artist/3oFu5CCLk4p4zLBNo3wrai) | [Christmas By Myself](https://open.spotify.com/album/6jqt6GqBIbyPbXRkmS0K2F) | 3:00 |
 
-Snapshot ID: `MCw2MDJkY2RhN2Y3ZDg0ZTljZDJmN2U3YmUyMWY3ODg0MTY4ZjQ4NDg4`
+Snapshot ID: `MCw5NTBjNjc5NDAyOGMxNDBjYTRjYjY0YmJiMTEyNWQxOGFhYjJmNmQz`

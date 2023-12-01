@@ -4,7 +4,7 @@
 
 > The wave of Latin Electronic music\. Cover: Joaquin Medina, Grupo Marca Registrada & Grupo Firme
 
-283 songs - 14 hr 42 min
+285 songs - 14 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -133,6 +133,7 @@
 | [La Luz](https://open.spotify.com/track/18BIUBXVi4c5HwNCjKeANr) | [Softest Hard](https://open.spotify.com/artist/1smczP1QDorQcyiGA69tF6), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [La Luz](https://open.spotify.com/album/5CA3UREgO8R0pJOqpsby3r) | 3:48 | 2023-01-27 | 2023-03-04 |
 | [La Luz](https://open.spotify.com/track/49SDbPxXIowntSFzL429SZ) | [Softest Hard](https://open.spotify.com/artist/1smczP1QDorQcyiGA69tF6), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [La Luz](https://open.spotify.com/album/4fY0BnLX8BHIJrMl1jIkfh) | 3:48 | 2022-06-06 | 2023-02-26 |
 | [La Marea](https://open.spotify.com/track/54vZw4nVa29TGRpokEkzl5) | [VOXMANA](https://open.spotify.com/artist/6WcZpC0pNkXMoFpcbBURka), [Natalia Clavier](https://open.spotify.com/artist/5eNBCrl6JL8r6QKkQu733b), [Andrei Matorin](https://open.spotify.com/artist/2rlX2YZWwnzPc9BIIh5kor) | [La Marea](https://open.spotify.com/album/4a0FeWgTcpRLoED9YCvSYi) | 5:36 | 2023-09-15 |  |
+| [La Ola](https://open.spotify.com/track/3qoPhKKrT7RDHNdSguYy2b) | [Macapo](https://open.spotify.com/artist/0HgJ2d0DC15I0Px7r6PWdF) | [La Ola](https://open.spotify.com/album/1lci4tOQrfZlde0PTecU6B) | 2:31 | 2023-11-30 |  |
 | [La Rosa del Penal \(Llamar\)](https://open.spotify.com/track/0MyOKtPKUEgvMz7SHHwf45) | [Sinego](https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb), [Delaporte](https://open.spotify.com/artist/1GDip5phlxYzeZ36vnf9kJ) | [La Rosa del Penal \(Llamar\)](https://open.spotify.com/album/0TgnR5s6e8YQMwQEZPvPuh) | 2:50 | 2022-03-22 | 2022-04-29 |
 | [La Tarde](https://open.spotify.com/track/0v2uMRnqJRCLGgnboVtq6A) | [Jose De Mara](https://open.spotify.com/artist/7ycNpmCg2CMaCLsOz830lV), [Fissure](https://open.spotify.com/artist/6TfNUv2LVCy7ep22sni9yV) | [La Tarde](https://open.spotify.com/album/2Gtkz11XYN5wtzafQFS8As) | 3:01 | 2022-06-23 | 2023-02-19 |
 | [La Tarde](https://open.spotify.com/track/7iMbt608G8Ez3SgusVoaYx) | [Jose De Mara](https://open.spotify.com/artist/7ycNpmCg2CMaCLsOz830lV), [Fissure](https://open.spotify.com/artist/6TfNUv2LVCy7ep22sni9yV) | [La Tarde](https://open.spotify.com/album/3sVeCZYLHgTt7mcVyVWgb2) | 3:01 | 2023-01-27 | 2023-05-27 |
@@ -279,6 +280,7 @@
 | [Used To Be](https://open.spotify.com/track/6I4keV6yQc4LHUNR7LwokK) | [Omar Andino](https://open.spotify.com/artist/6W7hzb76Wv2tCwX7mfFe0z) | [Used To Be](https://open.spotify.com/album/0yaPXXUWPQstI9CNWx8dd6) | 3:32 | 2023-05-25 | 2023-07-01 |
 | [Vamos a Beber \- Sak Noel Remix](https://open.spotify.com/track/4JRLNNdcgxmZOS6gziBIew) | [KD One](https://open.spotify.com/artist/2KsIqWw1S0S8L8f86GwEMb), [Lil Jon](https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK), [Sak Noel](https://open.spotify.com/artist/15jrieCvf3EklAScnD9kKl) | [Vamos a Beber \(Sak Noel Remix\)](https://open.spotify.com/album/4SG62I5xwZTEqQUX6W5ONW) | 3:06 | 2023-01-13 | 2023-05-27 |
 | [Vazilando](https://open.spotify.com/track/17Ci0qxBOeEQMadwb9qYNt) | [MOTi](https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W) | [Vazilando](https://open.spotify.com/album/6PLvwPVlATZi6iP9qgFAWp) | 2:58 | 2022-06-06 | 2023-05-27 |
+| [Veneno](https://open.spotify.com/track/7eUalfb6XYFlpM8LvHmsJD) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q), [Mari Merenda](https://open.spotify.com/artist/07FaEsHIaVZAFFHvNElpbQ), [Sophia Ardessore](https://open.spotify.com/artist/5XWPfS0p9Ow7IfTrlQhxhw) | [Veneno](https://open.spotify.com/album/2EQauiLBwWg9SCzJ07bEHj) | 2:23 | 2023-11-30 |  |
 | [Viaje](https://open.spotify.com/track/5b1je14Oz92lpIlIMLieWw) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Viaje](https://open.spotify.com/album/2Bm9LtZ5cQoxNmrHhqQtjO) | 5:03 | 2022-10-28 | 2023-05-27 |
 | [Vocation](https://open.spotify.com/track/70xKqgJOnicN4OsIB6hOXU) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Vocation](https://open.spotify.com/album/2wxhtvRbDXBBHnGXQ8HCqa) | 3:04 | 2023-11-29 |  |
 | [VOLVER](https://open.spotify.com/track/1ncGbGufa7aUaJ5zC4YP3y) | [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [DATA](https://open.spotify.com/album/6xRxlUUfg3M0QB1LUX89gA) | 3:05 | 2023-06-30 |  |

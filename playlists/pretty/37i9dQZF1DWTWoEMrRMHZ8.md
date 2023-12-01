@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTWoEMrRMHZ8.md) - [plain]
 
 > As belas novidades da MPB\. Foto: Marisa Monte
 
-[Spotify](https://open.spotify.com/user/spotify) - 347,605 likes - 99 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 347,655 likes - 99 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,7 +93,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTWoEMrRMHZ8.md) - [plain]
 | 83 | [Pra Lhe Dizer](https://open.spotify.com/track/3JFCXwHB6uc1K4A5GtFnW3) | [Adriana Calcanhotto](https://open.spotify.com/artist/72f733zGuCPEzCSLs9wOVi) | [Errante](https://open.spotify.com/album/6vrGTfdekueBX6lV9YJpSn) | 4:50 |
 | 84 | [Tigresa \- Ao Vivo no Coala Festival 2022](https://open.spotify.com/track/5LE9mtdwNWyZ1eLkfCB972) | [Gal Costa](https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD), [Rubel](https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW), [Coala.Records](https://open.spotify.com/artist/6JtpXINM32BgJ6MAJt6dCD), [Tim Bernardes](https://open.spotify.com/artist/5SVFuUaS3BKAdJs6I8rVa4) | [Ao Vivo no Coala Festival 2022](https://open.spotify.com/album/3L8EgCNxi6FElAJgmy9KiO) | 4:24 |
 | 85 | [De: Terra; Para: Humanidade](https://open.spotify.com/track/1n6VdycCDCT3LkTvVJF0vK) | [Madu](https://open.spotify.com/artist/0obN5KVtincDY4w79r7NmD), [Mariana Milani](https://open.spotify.com/artist/4ttqPTBzY21MfTI1C7uaF5) | [De: Terra; Para: Humanidade](https://open.spotify.com/album/6wj0zn5LC2fPFlkofnKaN6) | 3:50 |
-| 86 | [Dança Do Amor](https://open.spotify.com/track/67JG2SdJoiG0mUJ1AxeNwB) | [Chico César](https://open.spotify.com/artist/3vlUveVfzPXzhiPGjHHxOH) | [Vêtu d'Amur \(Deluxe\)](https://open.spotify.com/album/7jTYwfGnPOdMkGuBshsMhY) | 3:35 |
+| 86 | [Dança Do Amor](https://open.spotify.com/track/67JG2SdJoiG0mUJ1AxeNwB) | [Chico César](https://open.spotify.com/artist/3vlUveVfzPXzhiPGjHHxOH) | [Vêtu d'Amur](https://open.spotify.com/album/7jTYwfGnPOdMkGuBshsMhY) | 3:35 |
 | 87 | [Redescobrir](https://open.spotify.com/track/5reRLMr3vjzCCpZZmZ63eC) | [Bruna Caram](https://open.spotify.com/artist/3pSMpWqJo6X3uImKekyupo), [Zé Renato](https://open.spotify.com/artist/4qKsdS2IGIfnj00bQRP2mL) | [Redescobrir](https://open.spotify.com/album/42cmmfuVuaLEHUbQzbqsWU) | 3:27 |
 | 88 | [Espelho](https://open.spotify.com/track/51240EZPieH7ahE2B7IFJv) | [Chico Chico](https://open.spotify.com/artist/3mVWRyXgs9GEWLsgknbh9s) | [Espelho](https://open.spotify.com/album/5zn0vUxrEK2ffmPFKl41Nw) | 2:11 |
 | 89 | [Duas da Manhã](https://open.spotify.com/track/4njPGT7H3RNdAy1Lkh3cYI) | [Santaella](https://open.spotify.com/artist/6gTTzFaOz9AA7DpBnvMn4p) | [Duas da Manhã](https://open.spotify.com/album/00zcJl8VAUdohbTZfPJnY5) | 3:18 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTWoEMrRMHZ8.md) - [plain]
 | 98 | [Banho de Cheiro](https://open.spotify.com/track/4HdKCNf0qZ0weLDBsZKJl5) | [Alexia Bomtempo](https://open.spotify.com/artist/28HvZHehbCmYkf6o1W8vp9), [Roberta Sá](https://open.spotify.com/artist/4vKCAkbdulcqatglgbi5CG) | [Doce Carnaval](https://open.spotify.com/album/6yeamXA0Sxk8QvgOkRZXXB) | 3:13 |
 | 99 | [Bem Que Se Quis \- Ao Vivo](https://open.spotify.com/track/1nGI6ent4Eb8jmE4cnq3Gy) | [Silva](https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz) | [Ao Vivo Em Lisboa](https://open.spotify.com/album/6FQczUJwjqNAjBVTnwsn0k) | 4:16 |
 
-Snapshot ID: `MCw5NjMzYjQ3ZGU0OTExYWFlMGFhNTYxMjUzNTc0NTIzYzhiOTRlYjc3`
+Snapshot ID: `MCxjN2ZmYTFjODRhODEwNDRlNzc1YjEzMzY4YjUzMzBiOGZiM2FlNzU1`

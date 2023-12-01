@@ -188,7 +188,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 460800,
       "name": "Another Day",
       "url": "https://open.spotify.com/track/4HxxVwV18v5yIzHtmgBlfB"
@@ -459,6 +459,28 @@
     },
     {
       "album": {
+        "name": "Call A Wave (Tilman's Sunset Mix)",
+        "url": "https://open.spotify.com/album/3NJ5dcpWSfbfsORqYYM2C4"
+      },
+      "artists": [
+        {
+          "name": "Rhode & Brown",
+          "url": "https://open.spotify.com/artist/3tA0d4G3jC6CXf6MXEZE5T"
+        },
+        {
+          "name": "Tilman",
+          "url": "https://open.spotify.com/artist/7aFxKbiPGJHNrcrGuKW5X9"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 440378,
+      "name": "Call A Wave - Tilman's Sunset Mix",
+      "url": "https://open.spotify.com/track/5qWicSNFXBiSUmMLVbHBo7"
+    },
+    {
+      "album": {
         "name": "Can I See You Tonight (Young Marco Remix)",
         "url": "https://open.spotify.com/album/4OOzvrWoqfLqGbv6hGO3iO"
       },
@@ -724,7 +746,7 @@
       ],
       "date_added": "2023-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 372335,
       "name": "Deep Gone Far",
       "url": "https://open.spotify.com/track/39BOHYjYd5ZE6m5B1O88zu"
@@ -800,7 +822,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 352011,
       "name": "Desire",
       "url": "https://open.spotify.com/track/7BFEDDCUYqYXnVH5ItVvOo"
@@ -888,6 +910,50 @@
       "duration_ms": 351896,
       "name": "Don't Want It - Fouk Remix",
       "url": "https://open.spotify.com/track/15uutBzggXQsR19xARHl3f"
+    },
+    {
+      "album": {
+        "name": "Don't Ya",
+        "url": "https://open.spotify.com/album/7kE6qPwyjgDJveR3GrvNql"
+      },
+      "artists": [
+        {
+          "name": "Laurens S",
+          "url": "https://open.spotify.com/artist/42u45fO8FwwG5pJogrGShB"
+        },
+        {
+          "name": "LVDS",
+          "url": "https://open.spotify.com/artist/1bchORmrFrz4QUD9JhVm8s"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304125,
+      "name": "Don't Ya",
+      "url": "https://open.spotify.com/track/0FcXfEuPuFOdP7k8P8Z4dK"
+    },
+    {
+      "album": {
+        "name": "HOUSE OF GROOVE",
+        "url": "https://open.spotify.com/album/0SAEMNzphsLut3Z5OZlmAo"
+      },
+      "artists": [
+        {
+          "name": "Wantigga",
+          "url": "https://open.spotify.com/artist/6jAydcjNjyqbeVY9LU6ImF"
+        },
+        {
+          "name": "Maydien",
+          "url": "https://open.spotify.com/artist/52pcFWBKzTZUCJrBizvl1y"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217433,
+      "name": "Double Takes",
+      "url": "https://open.spotify.com/track/11IuzqdMsc4EnlwZBeG132"
     },
     {
       "album": {
@@ -1125,6 +1191,28 @@
     },
     {
       "album": {
+        "name": "Everybody Dancing",
+        "url": "https://open.spotify.com/album/7KHCBTSFeY0qhHq54thtYm"
+      },
+      "artists": [
+        {
+          "name": "Mark Farina",
+          "url": "https://open.spotify.com/artist/3Nk2T3DZVBvPRO5BBSrklE"
+        },
+        {
+          "name": "Homero Espinosa",
+          "url": "https://open.spotify.com/artist/3TBthGd3LrAFgEoZLSfCaI"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243902,
+      "name": "Everybody Dancing",
+      "url": "https://open.spotify.com/track/3vhU1GX1i6aZcCs9IsqmiP"
+    },
+    {
+      "album": {
         "name": "Everything",
         "url": "https://open.spotify.com/album/1FVWcVkKpJJVmZOseVnpnO"
       },
@@ -1154,7 +1242,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 583278,
       "name": "Extassy",
       "url": "https://open.spotify.com/track/2uK3ghC7nVXanDzeTL22Zw"
@@ -1230,6 +1318,24 @@
       "duration_ms": 246446,
       "name": "feel it yah",
       "url": "https://open.spotify.com/track/5qc24f2cFSzQybTHdnq6NQ"
+    },
+    {
+      "album": {
+        "name": "Feel So",
+        "url": "https://open.spotify.com/album/6uqmEzKyXxXk0OSS8ZmAc4"
+      },
+      "artists": [
+        {
+          "name": "Wally Lopez",
+          "url": "https://open.spotify.com/artist/52qx8aMzSqi7JTJUI2dJqZ"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301935,
+      "name": "Feel So",
+      "url": "https://open.spotify.com/track/4oP57A4ZDBL5Z5q2l5UJ9c"
     },
     {
       "album": {
@@ -1400,6 +1506,32 @@
       "duration_ms": 470427,
       "name": "Forever Whatever",
       "url": "https://open.spotify.com/track/1XMqiASp1EugE2Vzc7UmuH"
+    },
+    {
+      "album": {
+        "name": "Forget About You (Girls of the Internet Remix)",
+        "url": "https://open.spotify.com/album/0r1Ojd3xub8smhYYLPcqaP"
+      },
+      "artists": [
+        {
+          "name": "Kraak & Smaak",
+          "url": "https://open.spotify.com/artist/7c5qu1gNlg8jWDzzmlp89O"
+        },
+        {
+          "name": "Lee Fields",
+          "url": "https://open.spotify.com/artist/3MAzDpqE01xyUmzNsc0Ee0"
+        },
+        {
+          "name": "Girls of the Internet",
+          "url": "https://open.spotify.com/artist/5tGmvKTFVL9bGZTxtvopHE"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281610,
+      "name": "Forget About You - Girls of the Internet Remix",
+      "url": "https://open.spotify.com/track/7wm5X3Rf5OGZ8M0R2aA3tl"
     },
     {
       "album": {
@@ -1829,6 +1961,32 @@
     },
     {
       "album": {
+        "name": "How We Gonna Stop the Time (Brijean Remix)",
+        "url": "https://open.spotify.com/album/315WPYsYgAn5dFeih6XzCd"
+      },
+      "artists": [
+        {
+          "name": "Kraak & Smaak",
+          "url": "https://open.spotify.com/artist/7c5qu1gNlg8jWDzzmlp89O"
+        },
+        {
+          "name": "Stee Downes",
+          "url": "https://open.spotify.com/artist/1REIcVUKiv1NcVivFm1ufJ"
+        },
+        {
+          "name": "Brijean",
+          "url": "https://open.spotify.com/artist/2TRNyrjoKJnqSc9G8jCZfb"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279462,
+      "name": "How We Gonna Stop the Time - Brijean Remix",
+      "url": "https://open.spotify.com/track/5Ko55ikqzRbSbNfIbhF6YW"
+    },
+    {
+      "album": {
         "name": "Hurry Up [Ministry of Sound]",
         "url": "https://open.spotify.com/album/6Ps2zE7ihbS2UQeC4xnvxc"
       },
@@ -2240,7 +2398,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 224000,
       "name": "Let Go",
       "url": "https://open.spotify.com/track/67OC6FNZ7gfQ0FsXUr5gnI"
@@ -2436,6 +2594,24 @@
       "duration_ms": 363677,
       "name": "Mine Today",
       "url": "https://open.spotify.com/track/2kGKIrF61uP16n3GZIxjhg"
+    },
+    {
+      "album": {
+        "name": "Minor Fools",
+        "url": "https://open.spotify.com/album/1Av53Ax9wI3qTHSBpmYzKx"
+      },
+      "artists": [
+        {
+          "name": "Dam Swindle",
+          "url": "https://open.spotify.com/artist/6hJtgCB3L5cnJSND7sp6GU"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232598,
+      "name": "Minor Fools - Edit",
+      "url": "https://open.spotify.com/track/5Tnn9kaAshnriaS9jKeMio"
     },
     {
       "album": {
@@ -3299,6 +3475,24 @@
     },
     {
       "album": {
+        "name": "Routine",
+        "url": "https://open.spotify.com/album/53GEGTBLG55nQcY4ZSbegv"
+      },
+      "artists": [
+        {
+          "name": "Peffa",
+          "url": "https://open.spotify.com/artist/6f4PnTL7DA60ceSqN6I70k"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 427748,
+      "name": "Routine",
+      "url": "https://open.spotify.com/track/2XswifMGlLR9a4rGiRdvJM"
+    },
+    {
+      "album": {
         "name": "Regrowth",
         "url": "https://open.spotify.com/album/6Y2VniWR6cKbJ7IQwp0hdS"
       },
@@ -3416,6 +3610,24 @@
       "duration_ms": 249806,
       "name": "Serene",
       "url": "https://open.spotify.com/track/0KNrPsq3ny0d7pfI4Ujl2s"
+    },
+    {
+      "album": {
+        "name": "Set You Free",
+        "url": "https://open.spotify.com/album/55NADInZR3P0WdgcEBWoDE"
+      },
+      "artists": [
+        {
+          "name": "Fritz Kalkbrenner",
+          "url": "https://open.spotify.com/artist/08Ut1tYxtmgIInVyQqohkM"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204344,
+      "name": "Set You Free",
+      "url": "https://open.spotify.com/track/1hRTVpNilLWj2un5mlKUjh"
     },
     {
       "album": {
@@ -3544,7 +3756,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 364491,
       "name": "Soundsystem",
       "url": "https://open.spotify.com/track/1IVKj1yiSr1gqPYaCiYftF"
@@ -3606,7 +3818,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 297567,
       "name": "Strange Movement",
       "url": "https://open.spotify.com/track/0Uiixt84V1yXi45RSMF7VG"
@@ -3694,6 +3906,24 @@
       "duration_ms": 311974,
       "name": "Strobe Queen",
       "url": "https://open.spotify.com/track/5eQkvoZXhrs33aa0foQsnM"
+    },
+    {
+      "album": {
+        "name": "Submerge",
+        "url": "https://open.spotify.com/album/2hZNfOXSZBm7PflU4kTgCi"
+      },
+      "artists": [
+        {
+          "name": "Desmon",
+          "url": "https://open.spotify.com/artist/0ztg6IL54wUN8VTV04xO39"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 390625,
+      "name": "Submerge",
+      "url": "https://open.spotify.com/track/0cvN2gtMkN0J9DFqlhLxdg"
     },
     {
       "album": {
@@ -4158,7 +4388,7 @@
       ],
       "date_added": "2023-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 526416,
       "name": "Time To Smoke",
       "url": "https://open.spotify.com/track/685lvGCiR57tNoIZSZHyNX"
@@ -4434,7 +4664,7 @@
       ],
       "date_added": "2022-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 228818,
       "name": "Vaal",
       "url": "https://open.spotify.com/track/1VwrgkMDeccLvOdX9q5QJs"
@@ -4600,7 +4830,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 442263,
       "name": "When I Think Of You",
       "url": "https://open.spotify.com/track/2vi0ybMrsarWaxKFamBt1k"
@@ -4752,7 +4982,7 @@
       ],
       "date_added": "2023-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 238065,
       "name": "You - Edit",
       "url": "https://open.spotify.com/track/6sHAIXsj6mBA9r8u43Xhkk"

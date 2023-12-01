@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "La nuova generazione del rap italiano. Aggiornata ogni venerd\u00ec. Cover: Nerissima Serpe",
+  "description": "La nuova generazione del rap italiano. Aggiornata ogni venerd\u00ec. Cover: 18K",
   "name": "Raptopia",
   "tracks": [
     {
@@ -696,6 +696,28 @@
       "duration_ms": 182857,
       "name": "ADIOS (feat. Yunes LaGrintaa)",
       "url": "https://open.spotify.com/track/5F5STJurlkKk31rguyet4N"
+    },
+    {
+      "album": {
+        "name": "Adrenalina",
+        "url": "https://open.spotify.com/album/3jeA3LCdrI9XdDYIcrhVDF"
+      },
+      "artists": [
+        {
+          "name": "Daxter",
+          "url": "https://open.spotify.com/artist/7ml77C26I1LupIH1R4pEYa"
+        },
+        {
+          "name": "Tradez",
+          "url": "https://open.spotify.com/artist/39oUK0McNh3XvEG5MyU4lm"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156250,
+      "name": "Adrenalina",
+      "url": "https://open.spotify.com/track/7pT26uheHUHvjXhTz1UdVe"
     },
     {
       "album": {
@@ -4566,7 +4588,7 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 60000,
       "name": "DM 7",
       "url": "https://open.spotify.com/track/6R5II1wAAQ6D3p4vTa8oZR"
@@ -4614,6 +4636,24 @@
       "duration_ms": 122125,
       "name": "DOGS",
       "url": "https://open.spotify.com/track/6POMHazmbA3zSjSuBRaoVp"
+    },
+    {
+      "album": {
+        "name": "Domenica Italiana",
+        "url": "https://open.spotify.com/album/569cvdjCuU3A2H17AoMoE5"
+      },
+      "artists": [
+        {
+          "name": "RRARI DAL TACCO",
+          "url": "https://open.spotify.com/artist/30fnIb0InCgAp2IPY17nqd"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166750,
+      "name": "Domenica Italiana",
+      "url": "https://open.spotify.com/track/2a005lzsUL5wTu0CmrIkzp"
     },
     {
       "album": {
@@ -4959,6 +4999,28 @@
     },
     {
       "album": {
+        "name": "Emotions (feat. Tony Boy)",
+        "url": "https://open.spotify.com/album/5W4SVDrLe6pUIznOOxVTAb"
+      },
+      "artists": [
+        {
+          "name": "Don Pero",
+          "url": "https://open.spotify.com/artist/2KLafS2cc489GVGuYm5aE2"
+        },
+        {
+          "name": "Tony Boy",
+          "url": "https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166736,
+      "name": "Emotions (feat. Tony Boy)",
+      "url": "https://open.spotify.com/track/61hq3p5SiEuYUxNgKF93zq"
+    },
+    {
+      "album": {
         "name": "ENERGIA",
         "url": "https://open.spotify.com/album/6T7Eman1VdzGJ2yHL9uCHj"
       },
@@ -5106,7 +5168,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 183072,
       "name": "Esperienze Nuove",
       "url": "https://open.spotify.com/track/1LR432zhaAgcgpqdozne3O"
@@ -6746,7 +6808,7 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 136000,
       "name": "Guadagno x2",
       "url": "https://open.spotify.com/track/5DMzIWTK9HtRZOcJxxfUHq"
@@ -8715,6 +8777,24 @@
     },
     {
       "album": {
+        "name": "LAMBORGHINI URUS",
+        "url": "https://open.spotify.com/album/5zR0xE3ZlefSbTWjCybjhh"
+      },
+      "artists": [
+        {
+          "name": "Delaru\u00e0",
+          "url": "https://open.spotify.com/artist/0inlLzcyWLbJbPZuMzfTPt"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124195,
+      "name": "LAMBORGHINI URUS",
+      "url": "https://open.spotify.com/track/7dyOsHxaj8fSUI8QohzjpJ"
+    },
+    {
+      "album": {
         "name": "Lavapiatti",
         "url": "https://open.spotify.com/album/2XcORakF3XPhhzVjOVuuYT"
       },
@@ -9312,7 +9392,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 156190,
       "name": "MALADE (feat. Braco)",
       "url": "https://open.spotify.com/track/6GSIRwZ5EAsMB5ZKgUNP8T"
@@ -9708,6 +9788,36 @@
       "duration_ms": 186666,
       "name": "MARE D'INVERNO",
       "url": "https://open.spotify.com/track/4Swgi2Bhc5tOItkVV6kRWD"
+    },
+    {
+      "album": {
+        "name": "Identit\u00e0",
+        "url": "https://open.spotify.com/album/5nxW9sJlywI1NGdLfaXMAN"
+      },
+      "artists": [
+        {
+          "name": "Nerissima Serpe",
+          "url": "https://open.spotify.com/artist/08ppjXEpROUgrG1X0DEquB"
+        },
+        {
+          "name": "ARIETE",
+          "url": "https://open.spotify.com/artist/2T4kh33TYdnDesvlQyRst8"
+        },
+        {
+          "name": "VillaBanks",
+          "url": "https://open.spotify.com/artist/3ASAxVN1hNoYfoMcIkzZWL"
+        },
+        {
+          "name": "Fri2",
+          "url": "https://open.spotify.com/artist/4oLRpvu0D5poM84DoKU64v"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188400,
+      "name": "Mare d'Inverno (feat. ARIETE & VillaBanks)",
+      "url": "https://open.spotify.com/track/6jBojPXv2qWNMuiorvrGnX"
     },
     {
       "album": {
@@ -11345,6 +11455,24 @@
     },
     {
       "album": {
+        "name": "Non sai di me",
+        "url": "https://open.spotify.com/album/4Rg5xUoxzHyY4734IBTcrk"
+      },
+      "artists": [
+        {
+          "name": "Flaza",
+          "url": "https://open.spotify.com/artist/5jnf9se8FZG6U9NeP6r1fH"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192443,
+      "name": "Non sai di me",
+      "url": "https://open.spotify.com/track/3A9N1BNNayyIwV4TndhNbs"
+    },
+    {
+      "album": {
         "name": "NON TI SEI MAI DIVERTITA COS\u00cc",
         "url": "https://open.spotify.com/album/2GBE6xcPpKC1QoDu45277o"
       },
@@ -12392,10 +12520,28 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 162500,
       "name": "Perdonare questo",
       "url": "https://open.spotify.com/track/3LX8dHTRZnY1zHvFWOQLxs"
+    },
+    {
+      "album": {
+        "name": "PESOS",
+        "url": "https://open.spotify.com/album/3MFkzNUXkks5kMA5nd7eZM"
+      },
+      "artists": [
+        {
+          "name": "Helmi sa7bi",
+          "url": "https://open.spotify.com/artist/2mvMdmcLoPwfaUHlgwRJlj"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162857,
+      "name": "PESOS",
+      "url": "https://open.spotify.com/track/4XjE2Wrn7wIW6fZcsSXFAR"
     },
     {
       "album": {
@@ -12422,6 +12568,28 @@
       "duration_ms": 156938,
       "name": "Pesos (feat. 8blevrai)",
       "url": "https://open.spotify.com/track/1RY1d6oUioU8PG7GMIEcVB"
+    },
+    {
+      "album": {
+        "name": "Pezzo di Terra",
+        "url": "https://open.spotify.com/album/2sFB2Mdu0igpVXJpj3ETnu"
+      },
+      "artists": [
+        {
+          "name": "18K",
+          "url": "https://open.spotify.com/artist/5PVCzkHVhVLRLadPdJUdXB"
+        },
+        {
+          "name": "85Prod",
+          "url": "https://open.spotify.com/artist/7n6z8NXRn1fEM15LesQ2Fr"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154394,
+      "name": "Pezzo di Terra",
+      "url": "https://open.spotify.com/track/2OiatnaZgOAbVxFeywYYyU"
     },
     {
       "album": {
@@ -13882,6 +14050,24 @@
       "duration_ms": 128450,
       "name": "Rock\u2019n\u2019roll",
       "url": "https://open.spotify.com/track/2YrmLcCAL1TKde6P4zs0CR"
+    },
+    {
+      "album": {
+        "name": "Rolly Mami",
+        "url": "https://open.spotify.com/album/13oHJvGsqa5I6RFxqX4sSb"
+      },
+      "artists": [
+        {
+          "name": "YTN Maden",
+          "url": "https://open.spotify.com/artist/23kbFdbRpeUNQumiTA88NU"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139748,
+      "name": "Rolly Mami",
+      "url": "https://open.spotify.com/track/1tJ4indh8Qe1g8S3DvX7DZ"
     },
     {
       "album": {
@@ -15512,7 +15698,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 152216,
       "name": "SUPEREROI",
       "url": "https://open.spotify.com/track/06voYo8ivMLPvtJb2uPN96"
@@ -17020,6 +17206,24 @@
       "duration_ms": 171672,
       "name": "Vita",
       "url": "https://open.spotify.com/track/7unxZsFlo58iTbnxkoJ8lk"
+    },
+    {
+      "album": {
+        "name": "Vita Nuova",
+        "url": "https://open.spotify.com/album/3u3wHdWqQt4Xlkb9suOeq6"
+      },
+      "artists": [
+        {
+          "name": "Yunes LaGrintaa",
+          "url": "https://open.spotify.com/artist/2Ny7KtAFxJ0Ac3FPBiClWW"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153579,
+      "name": "Vita Nuova",
+      "url": "https://open.spotify.com/track/7L5AMtUojyMd0bpVyWePE1"
     },
     {
       "album": {

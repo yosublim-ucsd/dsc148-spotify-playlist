@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqNV5cS50j6.md) - [plain]
 
 > Not NOT pop\. Cover: beabadoobee, Mac Wetha, Aminé
 
-[Spotify](https://open.spotify.com/user/spotify) - 696,951 likes - 100 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 696,946 likes - 100 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqNV5cS50j6.md) - [plain]
 | 99 | [Safe to Say](https://open.spotify.com/track/1iz1IBtJeP01oOFloArdzM) | [Sherwyn](https://open.spotify.com/artist/4cxJUMXdHetYoijH951DRV) | [Safe to Say](https://open.spotify.com/album/1UjxntS9qkIbKpb0rqvhFX) | 2:24 |
 | 100 | [YOU COULDN'T LOVE IF YOU WANTED TO](https://open.spotify.com/track/2v5zmdCfuhl8kHe55yrtSC) | [Ryan Hall](https://open.spotify.com/artist/22bvUzi8MgkpSKBWGB2vTJ) | [POSTTEENANGST](https://open.spotify.com/album/10wsx8kwi44Ch78umaSChC) | 2:48 |
 
-Snapshot ID: `MCxkNzAzOTVlMjg1OTA0ZTdhOGIyZDg1N2IwYWMzYzBjZWRmMzA2Nzhk`
+Snapshot ID: `MCwzYzhiODAwYjEyYjJmNTdkMDhlNGRhMTNiN2VhYWJlNzY2MTg1YzFh`

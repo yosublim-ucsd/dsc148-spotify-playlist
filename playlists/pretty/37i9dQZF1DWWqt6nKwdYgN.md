@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqt6nKwdYgN.md) - [plain]
 
 > ¡Lo más fresco del hip\-hop en español! Franco Escamilla y McKlopedia en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,938 likes - 100 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,941 likes - 100 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqt6nKwdYgN.md) - [plain]
 | 21 | [Pegando Fuerte](https://open.spotify.com/track/6S0EASmUfBooCw6o5TeDE9) | [Solo Cadaver](https://open.spotify.com/artist/2pOyR8sdYfEmd4VIyeLDUy) | [Pegando Fuerte](https://open.spotify.com/album/55eR6SJi1PFKmconHqgmhd) | 3:21 |
 | 22 | [Tú Tienes el Son](https://open.spotify.com/track/5UBSfqsnxc2GW86eHEsuA2) | [Penyair](https://open.spotify.com/artist/0hKJVChUaok3RN4noo7G3c), [Alka Produce](https://open.spotify.com/artist/7g38keVpPTJYsgkh7I4V3q), [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL) | [Tú Tienes el Son](https://open.spotify.com/album/0YVNvh5zedGZ2cOmC6tD3E) | 3:01 |
 | 23 | [Prohibido](https://open.spotify.com/track/0t1aa9a3LsT9dsRZIJEL8J) | [No Deal](https://open.spotify.com/artist/35dFa02f8Yg6eZJz5N3wMF), [Gonzalo Genek](https://open.spotify.com/artist/4h0s1nZFTuIRkkTpAI1F7I), [Valeria](https://open.spotify.com/artist/2UjOBQK3HTHySKoYn12YKj) | [No Deal, No Drama](https://open.spotify.com/album/3Lwj2wWSBHJeHDbfzweBSz) | 3:09 |
-| 24 | [Viendo el Sol](https://open.spotify.com/track/09wBkuyFrE7TQHjxctzCn8) | [AFTER](https://open.spotify.com/artist/1BuMYUR29zAEsk5Z0vY90L), [Jaze](https://open.spotify.com/artist/5HUVDs80ZZCRRB9grwWzZc) | [Viendo el Sol](https://open.spotify.com/album/21yMNcPPAvc1Px0ge24ZiH) | 1:37 |
+| 24 | [Viendo el Sol](https://open.spotify.com/track/09wBkuyFrE7TQHjxctzCn8) | [AFTER](https://open.spotify.com/artist/6RGri3BX7P64gUBuf6uU7p), [Jaze](https://open.spotify.com/artist/5HUVDs80ZZCRRB9grwWzZc) | [Viendo el Sol](https://open.spotify.com/album/21yMNcPPAvc1Px0ge24ZiH) | 1:37 |
 | 25 | [La Mision 3](https://open.spotify.com/track/11cBc7p39GKbAzpN8izhbh) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0), [C\-Kan](https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu), [Fermin IV](https://open.spotify.com/artist/74OPWhLPyLylAzgqcJlNMm) | [La Mision 3](https://open.spotify.com/album/5gA4AFEjzYhqv1OxixVOK6) | 4:42 |
 | 26 | [400 Estrellas](https://open.spotify.com/track/7KoRTkn1EfYjEdmo0GbUOE) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [Sharif](https://open.spotify.com/artist/5pIapcAHb6WV4fUjfQchMf), [Caztro](https://open.spotify.com/artist/1YvkzmaJLVRHSJ8J5YzoaW) | [400 Estrellas](https://open.spotify.com/album/64jUlMiRacXh6dgXaA4Zfr) | 3:43 |
 | 27 | [Dale Suave](https://open.spotify.com/track/0UOv3dYas1tswNPKBqQFur) | [Sabino](https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy) | [Dale Suave](https://open.spotify.com/album/38FlfeLsbcYQmvjFwvNGLD) | 3:00 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqt6nKwdYgN.md) - [plain]
 | 99 | [REMEMBAH](https://open.spotify.com/track/2L1CLvJRne3YgAlD9KmWQy) | [Apache](https://open.spotify.com/artist/2pvyE8W9RWESQxkyAWZqgY) | [REMEMBAH](https://open.spotify.com/album/7FpOYLTCAPfsk9MQqCoHgR) | 2:20 |
 | 100 | [La Última Canción](https://open.spotify.com/track/6s6xMMFGXLntUYlgcKn0bD) | [Kodigo 36](https://open.spotify.com/artist/3NALGBTx0BvaR4z2eUZ9aR) | [La Última Canción](https://open.spotify.com/album/4ATSnu0qKCqM0U1Lw1qE0g) | 3:01 |
 
-Snapshot ID: `MCxhMzA4MDBlNzAyOGM4MzI4N2NjZGY4NGI3NmE4ZDUxNGNmOTBiYjdk`
+Snapshot ID: `MCw0NDBiNzhkYTJlZDk1N2ZmNWVmZTVkNmQ0ZGQ5OGZhYjk1YjVkNDkx`

@@ -4,7 +4,7 @@
 
 > The ultimate Lo\-Fi soundtrack for a long haul journey, to the bustling metropolis in Japan that never sleeps\. 日本のプロデューサーによるインスト楽曲を特集。
 
-687 songs - 1 day 6 hr 45 min
+688 songs - 1 day 6 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,7 +82,7 @@
 | [Bocuk](https://open.spotify.com/track/1lTfFxZjZG3Xagd4clrCBj) | [Zen Miyako](https://open.spotify.com/artist/7bQoGwzUNcgjhl5wn7gpOu) | [Bocuk](https://open.spotify.com/album/2n9E01iiTHEtmLZmjKWj6B) | 2:17 | 2023-07-25 | 2023-08-18 |
 | [bouquet](https://open.spotify.com/track/6DQeJ0buwVm5Y4a6ATogBn) | [Smika](https://open.spotify.com/artist/0aek9ZQsX0KemPlW7dkh2X) | [Opal](https://open.spotify.com/album/6J6EDFF8w2nRW2YGGxIMnh) | 2:25 | 2022-03-24 | 2022-04-20 |
 | [Breakin' up](https://open.spotify.com/track/3zuqP7sq9LOHeHIHJ0ElZy) | [SUKISHA](https://open.spotify.com/artist/2Ea7qJOrKOD6OYkXNEUwrs) | [Breakin' up](https://open.spotify.com/album/5BFxVlpvsWgSV3yv0fDr5H) | 1:36 | 2021-12-23 | 2022-12-24 |
-| [breakwater](https://open.spotify.com/track/3olOfiTQeXtxPkvgqT9cvl) | [hario island](https://open.spotify.com/artist/4SSYmqlXA8awmX7PHheCJN) | [breakwater](https://open.spotify.com/album/5gqlUho7dFtG6rnAokhOXb) | 2:24 | 2023-11-09 |  |
+| [breakwater](https://open.spotify.com/track/3olOfiTQeXtxPkvgqT9cvl) | [hario island](https://open.spotify.com/artist/4SSYmqlXA8awmX7PHheCJN) | [breakwater](https://open.spotify.com/album/5gqlUho7dFtG6rnAokhOXb) | 2:24 | 2023-11-09 | 2023-12-01 |
 | [Breathless](https://open.spotify.com/track/7K76pNICpiDDFttIaC6AC9) | [Goldusk](https://open.spotify.com/artist/1vhLM6xIiTjnhzb54G7lXc) | [Breathless](https://open.spotify.com/album/32rbFzTwhILmdD8Uly8z05) | 1:37 | 2021-12-23 | 2022-07-28 |
 | [Breezin](https://open.spotify.com/track/5nV7xJB5Lh4ks9PCdbfViA) | [Shin\-Ski](https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7) | [Breezin](https://open.spotify.com/album/3yAPYYlji22xOiK2NyJ1Ip) | 2:35 | 2022-08-25 | 2022-08-27 |
 | [Breezin](https://open.spotify.com/track/6a1Di4xqpSi4e55aympsT8) | [Shin\-Ski](https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7) | [Breezin](https://open.spotify.com/album/54pTH8QAMfeIaVzq7xMGVn) | 2:35 | 2022-08-25 | 2023-06-07 |
@@ -211,6 +211,7 @@
 | [Focused](https://open.spotify.com/track/4mOPtlru2v8bz73iIblJtx) | [ynkmr.](https://open.spotify.com/artist/0zWJ8seaNkOrZYzmO0twXU) | [Focused](https://open.spotify.com/album/0on7B8tzhDPY7iZhAdQzrh) | 3:48 | 2022-07-21 | 2022-07-29 |
 | [fog morning](https://open.spotify.com/track/0yqBPILqRFi1yE7ci9o3vV) | [The LASTTRAK](https://open.spotify.com/artist/27tedpw5lwTFuWL8i8xVqT) | [fog morning](https://open.spotify.com/album/6LtosFxYlXKsLfN3PSWUd3) | 2:38 | 2022-02-10 | 2022-07-28 |
 | [fog morning](https://open.spotify.com/track/1yzkFH5HZLVyH9imaRN1rG) | [The LASTTRAK](https://open.spotify.com/artist/27tedpw5lwTFuWL8i8xVqT) | [fog morning](https://open.spotify.com/album/3z2q7rEMB9VVQIiVOW1lVs) | 2:38 | 2022-07-28 |  |
+| [forest spirit](https://open.spotify.com/track/7pwsTQrw6Qtcv9FGyIVEPu) | [hario island](https://open.spotify.com/artist/4SSYmqlXA8awmX7PHheCJN) | [forest spirit](https://open.spotify.com/album/5xlc5btX8TPjfij55Ll9qb) | 2:18 | 2023-11-30 |  |
 | [fortitude](https://open.spotify.com/track/5JLAvVe385Xt7i3PIqAqRu) | [Goldusk](https://open.spotify.com/artist/1vhLM6xIiTjnhzb54G7lXc) | [fortitude](https://open.spotify.com/album/38LWDsfLVzomKtlOnBBBu5) | 1:32 | 2022-01-13 | 2022-07-09 |
 | [Freedom](https://open.spotify.com/track/67srAaUUWCfeCz4TFzmmC2) | [Allgood](https://open.spotify.com/artist/27axU7fE93Z7h8OhRFrD4r), [Kanimayo](https://open.spotify.com/artist/4SVWzWmrg2LqMlVrt0ZZq1) | [Freedom](https://open.spotify.com/album/66ncBKTGIriA52zkGJ3P7R) | 2:08 | 2022-07-14 |  |
 | [friday](https://open.spotify.com/track/1m095EDPerZmmxh2hiWbmb) | [Akio Watanabe](https://open.spotify.com/artist/1epOdFDcd9PEgkchlAUND4), [n'sawa\-saraca](https://open.spotify.com/artist/2qjQAfgSf4srD1QtETCX7v) | [friday](https://open.spotify.com/album/5AKOB83tfVe0V3RFKeq97N) | 3:28 | 2021-12-23 | 2022-07-11 |

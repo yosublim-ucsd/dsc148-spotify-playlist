@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41UmHm2vtav.md) - [plain]
 
 > Entre na onda com hits tropicais e remixes para curtir a praia com amigos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 452,324 likes - 70 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 452,420 likes - 70 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41UmHm2vtav.md) - [plain]
 | 69 | [Imprevisível \- Overdriver Duo e Guz Zanotto Remix](https://open.spotify.com/track/3z51kAmAca2StfedNebGNe) | [Jota Quest](https://open.spotify.com/artist/5re6NsyXzHg6uvNimzQ3F6), [Overdriver Duo](https://open.spotify.com/artist/37knAlDxPb6FSnBQJNzM18), [Guz Zanotto](https://open.spotify.com/artist/4s2oHxyGNA3QZBeWELgBJI) | [Imprevisível \(Overdriver Duo e Guz Zanotto Remix\)](https://open.spotify.com/album/1qa0nujY9Mf2HdbL86o7GW) | 3:35 |
 | 70 | [PQP A Vida É Boa Demais](https://open.spotify.com/track/3ArUQ2uOknm7t3xIKu4zFb) | [Xand Avião](https://open.spotify.com/artist/43DRDu6nLSeIedZ7T1A616), [Ralk](https://open.spotify.com/artist/5fL22gqogawtrDsvcNVyyC) | [PQP A Vida É Boa Demais](https://open.spotify.com/album/2JmmMClnqqzOqlT0uJOT3C) | 3:14 |
 
-Snapshot ID: `MCwwZDkzMDFhMzkxNjA1ZDhmOTJkZTVkZjlhN2M3YzgxYmM0MTUwMzE1`
+Snapshot ID: `MCw3ZmQzNzkxMDdhY2E1N2UwMjI1NGJiODllMWQ3ZDRlYzg2MTRjMGFm`

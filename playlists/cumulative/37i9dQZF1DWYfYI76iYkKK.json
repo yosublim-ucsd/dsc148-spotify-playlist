@@ -509,6 +509,24 @@
     },
     {
       "album": {
+        "name": "like a bird",
+        "url": "https://open.spotify.com/album/3OyRQfZRnHE3wzsCX18rbF"
+      },
+      "artists": [
+        {
+          "name": "Marcus Lee",
+          "url": "https://open.spotify.com/artist/18G699wFEzXLGHsgsDZyYj"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256324,
+      "name": "like a bird",
+      "url": "https://open.spotify.com/track/4s9FPuVXTYR6Eqc4oxO3sA"
+    },
+    {
+      "album": {
         "name": "Live House",
         "url": "https://open.spotify.com/album/4htEin94qouEbMiIyjoEb8"
       },
@@ -686,7 +704,7 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 167445,
       "name": "Not Good Enough",
       "url": "https://open.spotify.com/track/48eKVc1WyOJyE6HDdTngCD"
@@ -1166,6 +1184,24 @@
       "duration_ms": 211836,
       "name": "\u4e00\u7a2e\u8aaa\u6cd5(Acoustic Ver.) [\u300a\u6a21\u4eff\u72af\u300b\u63d2\u66f2]",
       "url": "https://open.spotify.com/track/30UaTs7vrVAyMOsstUO00T"
+    },
+    {
+      "album": {
+        "name": "\u4e00\u8def\u4ee5\u4f86(\u96fb\u5f71\u300a\u5bcc\u90fd\u9752\u5e74\u300b\u4e3b\u984c\u66f2)",
+        "url": "https://open.spotify.com/album/2nLLAf8AjxzireSZH3NDWr"
+      },
+      "artists": [
+        {
+          "name": "RYOTA \u7247\u5c71\u51c9\u592a",
+          "url": "https://open.spotify.com/artist/4AqWE3RWMUveYgB48txw9y"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236385,
+      "name": "\u4e00\u8def\u4ee5\u4f86(\u96fb\u5f71\u300a\u5bcc\u90fd\u9752\u5e74\u300b\u4e3b\u984c\u66f2)",
+      "url": "https://open.spotify.com/track/03igeRXC7dF2lA5yAA8h9U"
     },
     {
       "album": {
@@ -1738,7 +1774,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 266286,
       "name": "\u5047\u7537\u53cb",
       "url": "https://open.spotify.com/track/3EVdjgISSjvMSgPtov1vQX"
@@ -2928,6 +2964,24 @@
       "duration_ms": 248917,
       "name": "\u5df2\u96e2\u53bb",
       "url": "https://open.spotify.com/track/24bpoYjvE079hOuAKs0KRN"
+    },
+    {
+      "album": {
+        "name": "\u5df2\u96e2\u53bb (2023)",
+        "url": "https://open.spotify.com/album/7sqAYjV5i3oiu5QAVKAEMz"
+      },
+      "artists": [
+        {
+          "name": "\u66fe\u5609\u5049",
+          "url": "https://open.spotify.com/artist/6ZgzedIaClSQzNFBoF0Zq7"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267240,
+      "name": "\u5df2\u96e2\u53bb (2023)",
+      "url": "https://open.spotify.com/track/1H06LCOWBtL0rBKFyjscig"
     },
     {
       "album": {
@@ -4254,7 +4308,7 @@
       ],
       "date_added": "2022-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 269990,
       "name": "\u6700\u7f8e\u7684\u907a\u61be",
       "url": "https://open.spotify.com/track/7xLHcay4KRCdl9MqXnyrW0"
@@ -5636,7 +5690,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 265694,
       "name": "\u88dd\u98fe\u97f3",
       "url": "https://open.spotify.com/track/7iC1d22Q9zG0XQZvITqetB"
@@ -6532,6 +6586,28 @@
       "duration_ms": 62641,
       "name": "\u9ce5\u7378\u6563 - \u96fb\u5f71\u300a\u4ed6\u99ac\u514b\u8001\u95c6\u300b\u63d2\u66f2",
       "url": "https://open.spotify.com/track/5vUDLud67TpjMSVwSE4LtR"
+    },
+    {
+      "album": {
+        "name": "\u9cf3\u51f0\u6d85\u69c3 (acoustic version)",
+        "url": "https://open.spotify.com/album/7y11aSfuG6innOz8eqbXR9"
+      },
+      "artists": [
+        {
+          "name": "\u5f35\u82e1\u5bb8",
+          "url": "https://open.spotify.com/artist/3Ilo0pwvFIIPU0wD5DOtCX"
+        },
+        {
+          "name": "\u6728\u862d Mulan Yang",
+          "url": "https://open.spotify.com/artist/5o4e5jcoN8syDwv5QcqNuB"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147312,
+      "name": "\u9cf3\u51f0\u6d85\u69c3 - acoustic version",
+      "url": "https://open.spotify.com/track/3krL2RZFgMHPqcYZgR2o2X"
     },
     {
       "album": {

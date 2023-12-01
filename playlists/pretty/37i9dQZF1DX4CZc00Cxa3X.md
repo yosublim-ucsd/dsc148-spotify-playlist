@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4CZc00Cxa3X.md) - [plain]
 
 > Inspired by Listening Bars around the world, a finely chosen selection of Ambient to create your very own.
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,899 likes - 100 songs - 6 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,966 likes - 100 songs - 6 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4CZc00Cxa3X.md) - [plain]
 | 99 | [Tsukiyo](https://open.spotify.com/track/0LcM0jJCxhAOw8fjLjehes) | [kita kouhei](https://open.spotify.com/artist/3AFL0gBNnoNa2wb55tImS5) | [Knit Cap Theater "Fudarakutokaiki" Original Soundtrack](https://open.spotify.com/album/3a3WQWsj9JpQxmh3Y4rEM0) | 2:48 |
 | 100 | [Si'umim](https://open.spotify.com/track/7Cv1lFhTeK7U8Av8WFHoYF) | [David Cordero](https://open.spotify.com/artist/5yE5AG06GxRrh6Hw9qSJOQ), [Rhucle](https://open.spotify.com/artist/0y0cl3t1UlQf0730g7Zjkl) | [Recurrent Processes](https://open.spotify.com/album/1D2XSXKQF5FANxxrWHJtVC) | 5:15 |
 
-Snapshot ID: `MCw0MzkzMDRiNDU5MDFmMjM3YmU4OWQ1MTJjMWNlMGJjYTUzNjcwMjIy`
+Snapshot ID: `MCxjODVhNTU3NjA5YTcxNDk5MTdhN2UyNTFlZWMwZmJlMGZjY2I4ZDA4`

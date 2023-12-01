@@ -4,7 +4,7 @@
 
 > Headbangers of Bangladesh\. Cover \- Warfaze
 
-300 songs - 1 day 1 hr 48 min
+301 songs - 1 day 1 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,8 +48,9 @@
 | [Better Call Salt & The Walking Bread](https://open.spotify.com/track/0S88D4HoXcUhx0KU8OOXDv) | [Bassbaba Sumon](https://open.spotify.com/artist/0dWXQH3oFfiWhCLcXCwKh0), [Felix Pastorius](https://open.spotify.com/artist/0pVMIumaNFtp1mCC7yJ8XM) | [Soul Food, Pt\. 1](https://open.spotify.com/album/0IiyxBvkuwv2xHaYZ4S0zD) | 4:46 | 2022-06-16 | 2023-01-21 |
 | [Bhalo Theko \- Recreated](https://open.spotify.com/track/6xUbP2Xc1iBjTWFgxeInIa) | [Cactus](https://open.spotify.com/artist/2bsXJQ9uD4zTdcW4ZXo8hG) | [Bhalo Theko \- Recreated](https://open.spotify.com/album/0TfZqKjCSiebe3GHzAms0Y) | 5:57 | 2023-07-31 | 2023-08-08 |
 | [Bhalobasha Baki](https://open.spotify.com/track/0AEhTnH1nR8zJ2d3iwQyM3) | [Popeye Bangladesh](https://open.spotify.com/artist/1tOl4RqWQOpbUiKqnP14GF) | [Bhalobasha Baki](https://open.spotify.com/album/3Ur8B5hls6QERDg00K0qkF) | 5:11 | 2023-02-17 | 2023-03-16 |
-| [Bhober Pagol](https://open.spotify.com/track/4El1blqsazEurG6gpvyUtF) | [Nigar Sumi](https://open.spotify.com/artist/5v4ceNWjpPcck7V5tPbOn1), [Jalali Set](https://open.spotify.com/artist/1DUbMaHb0Qi0LutuodIxnN) | [Bhober Pagol](https://open.spotify.com/album/7k16lPrTnyK6Vj5I1lZghn) | 5:16 | 2022-08-29 |  |
+| [Bhober Pagol](https://open.spotify.com/track/4El1blqsazEurG6gpvyUtF) | [Nigar Sumi](https://open.spotify.com/artist/5v4ceNWjpPcck7V5tPbOn1), [Jalali Set](https://open.spotify.com/artist/1DUbMaHb0Qi0LutuodIxnN) | [Bhober Pagol](https://open.spotify.com/album/7k16lPrTnyK6Vj5I1lZghn) | 5:16 | 2022-08-29 | 2023-12-01 |
 | [Bhober Pagol](https://open.spotify.com/track/3IlpJeoqcBW3MU9lL2qf0L) | [Nigar Sumi](https://open.spotify.com/artist/5v4ceNWjpPcck7V5tPbOn1), [Jalali Set](https://open.spotify.com/artist/1DUbMaHb0Qi0LutuodIxnN) | [Bhober Pagol](https://open.spotify.com/album/3rwS1ScolLwpU7uuFDLb3t) | 5:22 | 2022-06-16 | 2022-08-19 |
+| [Bhober Pagol](https://open.spotify.com/track/13zHSdOzcrnu2KIpS29Bcl) | [Nigar Sumi](https://open.spotify.com/artist/5v4ceNWjpPcck7V5tPbOn1), [Jalali Set](https://open.spotify.com/artist/1DUbMaHb0Qi0LutuodIxnN) | [Bhober Pagol](https://open.spotify.com/album/3s8TxTwY3c6XbP5nLxR1fF) | 5:25 | 2023-11-21 |  |
 | [Bhober Pagol](https://open.spotify.com/track/7HUzW6Xv5cSWGbikS5MiAG) | [Nigar Sumi](https://open.spotify.com/artist/5v4ceNWjpPcck7V5tPbOn1), [Jalali Set](https://open.spotify.com/artist/1DUbMaHb0Qi0LutuodIxnN) | [Bhober Pagol](https://open.spotify.com/album/7wh9uFC8EvU6PuyYD4Webb) | 5:25 | 2022-07-29 | 2022-09-09 |
 | [Bhoboghure 2022](https://open.spotify.com/track/61g0LfYhsMLvrz6DXlLIek) | [Cryptic Fate](https://open.spotify.com/artist/7tJID3D9UVKLpJSleVaM0b) | [Bhoboghure 2022](https://open.spotify.com/album/0u8JsU2k3GaMyJwsFQHUds) | 4:38 | 2022-07-15 | 2023-09-13 |
 | [Bhondo](https://open.spotify.com/track/07qgJazJQyknsbmuJZDL6N) | [Oblique](https://open.spotify.com/artist/4UZiqcfIggY32IYR1j13fz) | [Aloron](https://open.spotify.com/album/3B7o0RIBaO8xsXFuEGOUzr) | 4:40 | 2022-06-16 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Mellow songs from the 90s. Cover: Sin\u00e9ad O'Connor",
-  "num_followers": 674718,
+  "num_followers": 675143,
   "original_name": "Soft 90s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NTU5MWE2MWFiYjA4ZjUwZGZlMGE1OTdjMGQ4YWQ4MThlYmY5M2Jm",
+  "snapshot_id": "MCw5YmNjOTY1ZWRlMDc5MjI1YzMxYzdkYWY5MGZiYjEwZTA3MDQ4ZmJi",
   "tracks": [
     {
       "added_at": "2022-03-21 23:00:00",
@@ -678,6 +678,10 @@
         {
           "name": "Massive Attack",
           "url": "https://open.spotify.com/artist/6FXMGgJwohJLUSr5nVlf9X"
+        },
+        {
+          "name": "Elizabeth Fraser",
+          "url": "https://open.spotify.com/artist/791Z3924aa619hZ3xsOJEx"
         }
       ],
       "duration_ms": 330773,

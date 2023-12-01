@@ -114,7 +114,7 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 140812,
       "name": "After Midnight",
       "url": "https://open.spotify.com/track/6Xs3cEaNJQIkUKvOmPaDs4"
@@ -220,7 +220,7 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 172500,
       "name": "Andromeda",
       "url": "https://open.spotify.com/track/4cXtPGaAVwKygE3vVdYfbT"
@@ -1034,6 +1034,24 @@
       "duration_ms": 207187,
       "name": "Call On Me (feat. Georgia Ku) - Justus Remix",
       "url": "https://open.spotify.com/track/5OFvLsXk7c0aBParNuigiL"
+    },
+    {
+      "album": {
+        "name": "Can You Feel It",
+        "url": "https://open.spotify.com/album/3r7fZsRIWMBDbiYP3R8FDI"
+      },
+      "artists": [
+        {
+          "name": "DubVision",
+          "url": "https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 97142,
+      "name": "Can You Feel It",
+      "url": "https://open.spotify.com/track/1jNLVHoxNFEWRTEaFuCUiT"
     },
     {
       "album": {
@@ -3868,7 +3886,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 163636,
       "name": "Lose It",
       "url": "https://open.spotify.com/track/0fWJG4fB5xWnpA7FWF6PXd"
@@ -7414,7 +7432,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-30",
+      "date_removed": null,
       "duration_ms": 185192,
       "name": "The Wave - Legacy Edit",
       "url": "https://open.spotify.com/track/5zcJw3n3pJKhTIf4Pr7VgF"
@@ -7436,6 +7454,28 @@
       "duration_ms": 168251,
       "name": "The Weekend",
       "url": "https://open.spotify.com/track/1mA59ka5t7zodO1FO0Xzzj"
+    },
+    {
+      "album": {
+        "name": "This Is What It Feels Like (Armin van Buuren 2023 Remix)",
+        "url": "https://open.spotify.com/album/1PYA8Uh3CwoUSuXtMrHhBL"
+      },
+      "artists": [
+        {
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        },
+        {
+          "name": "Trevor Guthrie",
+          "url": "https://open.spotify.com/artist/6NXk2pLFocS2OkNdT7ncBt"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219172,
+      "name": "This Is What It Feels Like - Armin van Buuren 2023 Remix",
+      "url": "https://open.spotify.com/track/2PnJd0B9YdOPvo96av2xJK"
     },
     {
       "album": {

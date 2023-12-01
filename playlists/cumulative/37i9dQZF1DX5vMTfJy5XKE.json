@@ -117,6 +117,32 @@
     },
     {
       "album": {
+        "name": "A Carefree Christmas with Hoda & Jenna",
+        "url": "https://open.spotify.com/album/5gir22xU3qnp1KpxDVRx4U"
+      },
+      "artists": [
+        {
+          "name": "Hoda Kotb",
+          "url": "https://open.spotify.com/artist/2MlvkXQF6J6Gbe4uP40EsK"
+        },
+        {
+          "name": "Jenna Bush Hager",
+          "url": "https://open.spotify.com/artist/54GgSk0v94rL29Pj6gxme9"
+        },
+        {
+          "name": "Cheryl Porter",
+          "url": "https://open.spotify.com/artist/3BCwn8kef8LNrfMhOiTcYa"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 85500,
+      "name": "A Carefree Christmas with Hoda & Jenna",
+      "url": "https://open.spotify.com/track/1qDSz5LMnC5IjkolZybweC"
+    },
+    {
+      "album": {
         "name": "A Christmas To Remember",
         "url": "https://open.spotify.com/album/5GpxJmTGJTOUhXFh9EM3zU"
       },

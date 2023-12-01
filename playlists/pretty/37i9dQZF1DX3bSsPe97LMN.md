@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bSsPe97LMN.md) - [plain]
 
 > Esta es la plebada que está marcando tendencia en la Música Mexicana\. Arriola en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,620 likes - 100 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,650 likes - 100 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bSsPe97LMN.md) - [plain]
 | 99 | [DÉJENME TOMAR](https://open.spotify.com/track/40SkbtGWQyvLpuve5bPfO2) | [ARRIOLA](https://open.spotify.com/artist/40C6ypaqw5koNMf06hVked) | [DÉJENME TOMAR](https://open.spotify.com/album/5c5y9U97aVoJKcGXZ8Dx91) | 2:25 |
 | 100 | [Toro Relajo](https://open.spotify.com/track/1N6XCVkEpYzLbKsO2BZt7P) | [Sherlyn Sánchez](https://open.spotify.com/artist/3rX2TVbHOjIfQg1o00kagl) | [Toro Relajo](https://open.spotify.com/album/6IluN3tRW1DIQg9mAOQI4q) | 3:38 |
 
-Snapshot ID: `MCwxOTAwNDEyZjgyNzllNzZiN2NjNDFkZGE4NWIwMGMzODgwNzNhYjU1`
+Snapshot ID: `MCxmZGFjNTI5ZGUyNGY2NjRkYmMzNjRjNDdiYjM3ZWIyYTAyYjcxZjI4`

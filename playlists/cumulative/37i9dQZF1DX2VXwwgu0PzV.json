@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-04",
-  "description": "Music for when you've got your Jesus on and your swag up . \nCover: <a href=\"https://open.spotify.com/artist/2nV5a438DY93kAsO6EdWWf?si=142KHl8DQJqxey_zQJW4kA\">Pastor Courage</a> ",
+  "description": "Music for when you've got your Jesus on and your swag up . \nCover: <a href=\"https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas?si=2aNAVs5GRtS8zAQIBnp6eQ\">Victor Thompson</a> ",
   "name": "Youth Service",
   "tracks": [
     {
@@ -258,7 +258,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 178666,
       "name": "All I Need",
       "url": "https://open.spotify.com/track/3POO6wDiNOISVDiPFsiY0l"
@@ -374,6 +374,28 @@
       "duration_ms": 163266,
       "name": "Alone",
       "url": "https://open.spotify.com/track/2Im4gW7xrTDqQFOIjxkb7j"
+    },
+    {
+      "album": {
+        "name": "Already Won",
+        "url": "https://open.spotify.com/album/6wJQFqrxl6EkCY9PyVFeHY"
+      },
+      "artists": [
+        {
+          "name": "Mo'Lola",
+          "url": "https://open.spotify.com/artist/2ejOctEUrvGWrMuTwZPdaO"
+        },
+        {
+          "name": "Mike Abdul",
+          "url": "https://open.spotify.com/artist/2xsK8uSdgTzy65SicS3LzK"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228979,
+      "name": "Already Won",
+      "url": "https://open.spotify.com/track/6iMeVb83BHP9IetgCLaf2q"
     },
     {
       "album": {
@@ -642,6 +664,32 @@
       "duration_ms": 162665,
       "name": "AYE",
       "url": "https://open.spotify.com/track/5wDtmZ8wKSUN6oozVrSjNA"
+    },
+    {
+      "album": {
+        "name": "Bad Guys",
+        "url": "https://open.spotify.com/album/0S12wI7pLhnliv8QKBKvHd"
+      },
+      "artists": [
+        {
+          "name": "Dj Horphuray",
+          "url": "https://open.spotify.com/artist/0VQxKhG5uvT0gIDqAuyl4L"
+        },
+        {
+          "name": "TGOD DaFlemSpitha",
+          "url": "https://open.spotify.com/artist/6ZMT1yC4USp2cyOsnKt2mb"
+        },
+        {
+          "name": "Aigbeh D'gong",
+          "url": "https://open.spotify.com/artist/18WJX25TgcCtvjNJxgkBTX"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163477,
+      "name": "Bad Guys",
+      "url": "https://open.spotify.com/track/6HCyIlIAnnhhvxTZDf81g8"
     },
     {
       "album": {
@@ -1151,6 +1199,24 @@
     },
     {
       "album": {
+        "name": "Blessed",
+        "url": "https://open.spotify.com/album/5wyDRKWKtPq3znLWVOtUIk"
+      },
+      "artists": [
+        {
+          "name": "Victor Thompson",
+          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192029,
+      "name": "Carry me like Baby",
+      "url": "https://open.spotify.com/track/2g5uy0nM9DW0JJJLefJFgJ"
+    },
+    {
+      "album": {
         "name": "Carry You",
         "url": "https://open.spotify.com/album/5l3HA0RBIsrOhZY87bykJH"
       },
@@ -1192,7 +1258,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 141818,
       "name": "Cassette",
       "url": "https://open.spotify.com/track/2h0Pp0TU3rh2Ytodzesxw1"
@@ -1468,6 +1534,24 @@
       "duration_ms": 164864,
       "name": "Come",
       "url": "https://open.spotify.com/track/0sqdvdLBjsP1T28PnNVkTb"
+    },
+    {
+      "album": {
+        "name": "Comfort and Joy",
+        "url": "https://open.spotify.com/album/28oYUHaZQJy7JbsUwFGpRn"
+      },
+      "artists": [
+        {
+          "name": "I-fee Sound",
+          "url": "https://open.spotify.com/artist/2KksbUKNi1zlUA3f2YEilP"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157980,
+      "name": "Comfort and Joy",
+      "url": "https://open.spotify.com/track/0CydbzErDvlNPsRfm3bpTV"
     },
     {
       "album": {
@@ -1754,7 +1838,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 144000,
       "name": "Daddy",
       "url": "https://open.spotify.com/track/6vbJ5IM4aUeoeBE7tUVTO6"
@@ -2094,7 +2178,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 91820,
       "name": "DITFK (Do it for the King)",
       "url": "https://open.spotify.com/track/0RhDNxkypORUcETtRzpM3O"
@@ -3465,6 +3549,32 @@
     },
     {
       "album": {
+        "name": "Get Up (Refix)",
+        "url": "https://open.spotify.com/album/3dAN2xmNKnjMlO0COMvyRR"
+      },
+      "artists": [
+        {
+          "name": "DJ Ernesty",
+          "url": "https://open.spotify.com/artist/0MGWyvcy2uXq5lVdATxcuj"
+        },
+        {
+          "name": "yoyo michael",
+          "url": "https://open.spotify.com/artist/2UJIApZoVW4enFYjW39Tfv"
+        },
+        {
+          "name": "Kerusso Records",
+          "url": "https://open.spotify.com/artist/1bXSwH3GPHWrNYCLDz1I2O"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193488,
+      "name": "Get Up - Refix",
+      "url": "https://open.spotify.com/track/2I7SGytzYZY3Cu0hliNToq"
+    },
+    {
+      "album": {
         "name": "Getaway (Bring Your Burdens)",
         "url": "https://open.spotify.com/album/1Bont56jabJnsYBLSi8AOx"
       },
@@ -3660,7 +3770,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 144000,
       "name": "Glorious",
       "url": "https://open.spotify.com/track/5CoFGig7qZFdTHikB8ZDWj"
@@ -4696,7 +4806,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 96650,
       "name": "I Have Jesus in My Life",
       "url": "https://open.spotify.com/track/7EHcx3eHcTA2dtfJWleJ6d"
@@ -4870,7 +4980,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 265683,
       "name": "I'm The One",
       "url": "https://open.spotify.com/track/0ZwA4ty0mTu4qC1zsm6s5Z"
@@ -5758,7 +5868,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 138866,
       "name": "Light Of The World",
       "url": "https://open.spotify.com/track/7AhjP010xlFuv929z4nem9"
@@ -5918,7 +6028,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 203889,
       "name": "Malaika",
       "url": "https://open.spotify.com/track/2uznTqRWArP0zVo3aq55ar"
@@ -6760,7 +6870,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 174995,
       "name": "Never Ending Love",
       "url": "https://open.spotify.com/track/6PTdosZg7sMabnr47NGdVE"
@@ -7358,6 +7468,32 @@
       "duration_ms": 226153,
       "name": "On my Mind",
       "url": "https://open.spotify.com/track/5qbE876DXDAM3QGjlaYyux"
+    },
+    {
+      "album": {
+        "name": "On My Side (Remix)",
+        "url": "https://open.spotify.com/album/1VDeXQO6HzzUWqhg56L88d"
+      },
+      "artists": [
+        {
+          "name": "Wiffi Drips",
+          "url": "https://open.spotify.com/artist/0t33ew007YWe1ufwvV1yX7"
+        },
+        {
+          "name": "Monaze",
+          "url": "https://open.spotify.com/artist/7JNHDlrPW4GTk61apyMASG"
+        },
+        {
+          "name": "Angeloh",
+          "url": "https://open.spotify.com/artist/16b0fWgIHXMM87ZaHe4ERg"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192051,
+      "name": "On My Side - Remix",
+      "url": "https://open.spotify.com/track/36wdiBQwjv3z30mcwhNxxY"
     },
     {
       "album": {
@@ -8246,7 +8382,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 175536,
       "name": "RISEN KING",
       "url": "https://open.spotify.com/track/5smUG9p1Q6FeLihZgxtJQy"
@@ -9147,6 +9283,28 @@
     },
     {
       "album": {
+        "name": "Thank You Jesus",
+        "url": "https://open.spotify.com/album/75sOpcC8vKAcE0W4cqmW3x"
+      },
+      "artists": [
+        {
+          "name": "Holy drill",
+          "url": "https://open.spotify.com/artist/3SN6XTw03dI5Cn49oeqz6j"
+        },
+        {
+          "name": "Dells TMX",
+          "url": "https://open.spotify.com/artist/5w4pU01c66v4DQc8mqGK0r"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171866,
+      "name": "Thank You Jesus",
+      "url": "https://open.spotify.com/track/1TmAG4vhedrQ64GznwECXb"
+    },
+    {
+      "album": {
         "name": "The Head",
         "url": "https://open.spotify.com/album/01ytqCBRi27L9mnCQrecQD"
       },
@@ -9458,7 +9616,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 213912,
       "name": "Turbulent Skies",
       "url": "https://open.spotify.com/track/42QA59YtaWyuRu3H94SUXY"
@@ -10156,7 +10314,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 176808,
       "name": "Your Baby",
       "url": "https://open.spotify.com/track/71PQ7kp54INFntc0r3J47y"

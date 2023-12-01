@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-19",
-  "description": "Tracks popping off in the Afro scene. Cover: Midas the Jagaban",
+  "description": "Tracks popping off in the Afro scene. Cover: ODUMODUBLVCK",
   "name": "Afro Station",
   "tracks": [
     {
@@ -236,6 +236,24 @@
       "duration_ms": 170000,
       "name": "Apollo",
       "url": "https://open.spotify.com/track/3OsZkVwyJhGLJ0KrdUx23o"
+    },
+    {
+      "album": {
+        "name": "Appel manqu\u00e9",
+        "url": "https://open.spotify.com/album/0WbwtVUVSy1YHMhJRNcdMp"
+      },
+      "artists": [
+        {
+          "name": "JDL",
+          "url": "https://open.spotify.com/artist/3aSOqB03AcdniBDFyhaQBq"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165000,
+      "name": "Appel manqu\u00e9",
+      "url": "https://open.spotify.com/track/7ul6BstETf3WQYYgsc3yIK"
     },
     {
       "album": {
@@ -546,7 +564,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 190394,
       "name": "Balenciaga",
       "url": "https://open.spotify.com/track/3mHz3yqx958dVb2BlLoePR"
@@ -1244,7 +1262,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 125035,
       "name": "C\u00e2lin",
       "url": "https://open.spotify.com/track/055A214tvDRBmiCcSWiQ2c"
@@ -1522,7 +1540,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 175412,
       "name": "Don't Say Much",
       "url": "https://open.spotify.com/track/09tqcm66azHdAwrH8V9ZAn"
@@ -2798,7 +2816,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 151899,
       "name": "Life Is Better Now",
       "url": "https://open.spotify.com/track/4MCEG0Krc0TjTFvNseZnen"
@@ -2938,6 +2956,28 @@
       "duration_ms": 166153,
       "name": "Lock That Door",
       "url": "https://open.spotify.com/track/4poAVGGbeNk2elYU5uIYdJ"
+    },
+    {
+      "album": {
+        "name": "Loner",
+        "url": "https://open.spotify.com/album/3wLWb1V6HmUW7h29NGydXg"
+      },
+      "artists": [
+        {
+          "name": "Elisha k",
+          "url": "https://open.spotify.com/artist/1Cu21RygYgMEO6uS7yXQTM"
+        },
+        {
+          "name": "Rinyu",
+          "url": "https://open.spotify.com/artist/6hkQE2Mjf72c4BXnawAcq7"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157337,
+      "name": "Loner",
+      "url": "https://open.spotify.com/track/36hwRicttksOhAu8m93811"
     },
     {
       "album": {
@@ -3480,6 +3520,32 @@
       "duration_ms": 193500,
       "name": "My Darling",
       "url": "https://open.spotify.com/track/1Lyo0G6hpTjWfWi8zjd9Wz"
+    },
+    {
+      "album": {
+        "name": "My Lady",
+        "url": "https://open.spotify.com/album/6kEv1XGrBDr51rMFaAGXYt"
+      },
+      "artists": [
+        {
+          "name": "Rayvanny",
+          "url": "https://open.spotify.com/artist/7G9dCn1mqomAa0ucJoBm6J"
+        },
+        {
+          "name": "Reekado Banks",
+          "url": "https://open.spotify.com/artist/3bxZkzk0PLHcetO9o4oxXn"
+        },
+        {
+          "name": "Lexsil",
+          "url": "https://open.spotify.com/artist/6Hld2ORUmr5945JQVc3N5h"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227297,
+      "name": "My Lady",
+      "url": "https://open.spotify.com/track/35AoIIs76dRUQnVcn2ydSn"
     },
     {
       "album": {
@@ -4322,7 +4388,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 212631,
       "name": "Rowanda",
       "url": "https://open.spotify.com/track/32W2XSNHGRMPm3GKEuHm3r"
@@ -4446,6 +4512,32 @@
       "duration_ms": 240000,
       "name": "Sans Toi - Remix",
       "url": "https://open.spotify.com/track/6BnDehrpsY3LQrrrANSEiF"
+    },
+    {
+      "album": {
+        "name": "Sant\u00e9",
+        "url": "https://open.spotify.com/album/6fjYYh9hPTXD652nXseuL2"
+      },
+      "artists": [
+        {
+          "name": "FUL",
+          "url": "https://open.spotify.com/artist/2iQnY6e0Mq4fepcLm7AHAZ"
+        },
+        {
+          "name": "Cysoul",
+          "url": "https://open.spotify.com/artist/212RAD04CL3a1XwexVB129"
+        },
+        {
+          "name": "GBC the Yemba",
+          "url": "https://open.spotify.com/artist/07yKhu1K2QOiWM9j7MYd92"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213651,
+      "name": "Sant\u00e9",
+      "url": "https://open.spotify.com/track/1XPQalXJbjYH9NdndXHxmU"
     },
     {
       "album": {
@@ -5023,6 +5115,24 @@
     },
     {
       "album": {
+        "name": "The One Who Descends",
+        "url": "https://open.spotify.com/album/6y3G0lel5n8pd29aTR41d9"
+      },
+      "artists": [
+        {
+          "name": "Yarden",
+          "url": "https://open.spotify.com/artist/1nN9bKS2bD4OHNrKkS0Djd"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141818,
+      "name": "Time",
+      "url": "https://open.spotify.com/track/534W5nlVhBthPSYSzrHYCM"
+    },
+    {
+      "album": {
         "name": "Stamina",
         "url": "https://open.spotify.com/album/0Ka05Dg15vP2Sc4VbRstVo"
       },
@@ -5464,6 +5574,28 @@
       "duration_ms": 247680,
       "name": "Won Da Mo",
       "url": "https://open.spotify.com/track/0xPz8qjfchKRCAmABJH65Z"
+    },
+    {
+      "album": {
+        "name": "EZIOKWU (UNCUT)",
+        "url": "https://open.spotify.com/album/59oUX928TvSEtKvCPREKVW"
+      },
+      "artists": [
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        },
+        {
+          "name": "Black Sherif",
+          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171089,
+      "name": "WOTOWOTO SEASONING (feat. Black Sherif)",
+      "url": "https://open.spotify.com/track/2LP8KwtvzUx1onvXKQCoKR"
     },
     {
       "album": {

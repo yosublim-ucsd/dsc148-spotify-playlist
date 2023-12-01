@@ -4,7 +4,7 @@
 
 > Just wanna Praise the Lord and chill\. Here is a perfect one! Cover: <a href="https://open.spotify.com/artist/43bV8yQzojEPet60WrZJau?si=tV19pJIgSkSq1IjoAZtWIQ">Anendlessocean</a>
 
-101 songs - 6 hr 43 min
+105 songs - 6 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [Big Stepper Pt\. 2](https://open.spotify.com/track/4HQxYIQangC0upgJ9psYgO) | [A Mose](https://open.spotify.com/artist/4ioJbpi0sNGUUq2b8tnH0X), [Festizie](https://open.spotify.com/artist/2uimm8D8LQw4mlFRGWPLQu) | [Big Stepper Pt\. 2](https://open.spotify.com/album/0ci3NNOgeqDg4ikDDaQgOD) | 2:49 | 2023-10-20 | 2023-11-03 |
 | [Brighter Days](https://open.spotify.com/track/34XwFfq1XGOF0HHyVQl1nx) | [Blessing Offor](https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC) | [Brighter Days](https://open.spotify.com/album/6KSuDvpfQOEt7aD55Krul6) | 3:28 | 2023-10-20 |  |
 | [Calling My Name \(I'm A Soldier\) \- Live](https://open.spotify.com/track/6pKrwKfT1IUq6GvO7xtlIW) | [Ebuka Songs](https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM) | [Calling My Name \(I'm A Soldier\) \[Live\]](https://open.spotify.com/album/43Ezc94qcwnX6mnmuUQnUO) | 10:38 | 2023-10-20 |  |
+| [Carry me like Baby](https://open.spotify.com/track/2g5uy0nM9DW0JJJLefJFgJ) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [Blessed](https://open.spotify.com/album/5wyDRKWKtPq3znLWVOtUIk) | 3:12 | 2023-12-01 |  |
 | [change me](https://open.spotify.com/track/2g891NqR60cX6EVNcjNzeD) | [Kojo Dave](https://open.spotify.com/artist/2SjA4XyWd56a9VEfOoXrce) | [change me](https://open.spotify.com/album/7eIDiSM5QwkWQ8JXWs7kTS) | 2:08 | 2023-10-20 |  |
 | [Clear the Hold Up](https://open.spotify.com/track/0B13p89MT1WRgDsUMxV6pE) | [ChinekeBoi](https://open.spotify.com/artist/2mfWVTZIMO5ZdxIzjqhTRp) | [Clear the Hold Up](https://open.spotify.com/album/1r2URzUCOcvnwE6DZt8zs0) | 3:37 | 2023-10-20 |  |
 | [Come](https://open.spotify.com/track/0sqdvdLBjsP1T28PnNVkTb) | [Sinmidele](https://open.spotify.com/artist/0xmUZqkqmJfezc0fzyfboj) | [Come](https://open.spotify.com/album/7zoGeEprSXQEAIrHxuMuJo) | 2:44 | 2023-10-20 |  |
@@ -72,11 +73,13 @@
 | [Nazarene](https://open.spotify.com/track/0Xgfoy0VTeCaR7jy8mzpQj) | [Anendlessocean](https://open.spotify.com/artist/43bV8yQzojEPet60WrZJau) | [Decagon](https://open.spotify.com/album/5zcepYAcGr8m0YEmd9k3kl) | 2:51 | 2023-10-20 |  |
 | [Nazarene](https://open.spotify.com/track/5DAi3gOoRMUU2Jn6QkyU1e) | [Anendlessocean](https://open.spotify.com/artist/43bV8yQzojEPet60WrZJau) | [Nazarene](https://open.spotify.com/album/6r98akghS6z03kYuYkO1oZ) | 2:51 | 2023-10-20 | 2023-11-03 |
 | [No Trouble](https://open.spotify.com/track/3boAIpm9pD0KF6IEJQHjBX) | [K3ndrick](https://open.spotify.com/artist/0ULEmCfIKnFCdZfZsTmxG5) | [No Trouble](https://open.spotify.com/album/0UiTQ1UQf6UmwUjvixptVB) | 2:50 | 2023-10-20 |  |
+| [Not Alone](https://open.spotify.com/track/4F9M0pKsSgkJIpyWRxvF9Y) | [Mbonelyn](https://open.spotify.com/artist/3romvxmdAxsvhY5vhf5NWE), [Awesome's Music Group](https://open.spotify.com/artist/6pT56YXMMA6sh3UyNMSDUO), [Paul\-Emmanuel](https://open.spotify.com/artist/4VLYFcmEJqb17kzkQ64wE3) | [Not Alone](https://open.spotify.com/album/7GRdLNNetjhHaz2dDdLfpz) | 2:46 | 2023-12-01 |  |
 | [Obinigwe](https://open.spotify.com/track/1zyQByOXDyQlFYzqTuax5l) | [Minister GUC](https://open.spotify.com/artist/5F9NFQsix9CwLRFKUbyCEL) | [To Yahweh's Delight](https://open.spotify.com/album/779P4ZNqRzXiiw2sIRTXva) | 9:12 | 2023-10-20 |  |
 | [Oil for my head](https://open.spotify.com/track/0Pm3mfKN8nrtf5WbeNl9sB) | [Imancee](https://open.spotify.com/artist/7FMKtYkyh6dGQ7TN1lTzc6), [Dj Penny](https://open.spotify.com/artist/0m8Pugts84dRwQV3sYSJuY) | [Oil for my head](https://open.spotify.com/album/0polHS9KAgh09ILA2GzJb3) | 2:38 | 2023-11-03 |  |
 | [Olorun Agbaye \- You Are Mighty](https://open.spotify.com/track/0gDyskuhux7JfUcGzn0gY9) | [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk), [Oba](https://open.spotify.com/artist/1WLvxeydcpCGxEpV9pQCP2) | [Hallelujah Again \(Revelation 19:3\)](https://open.spotify.com/album/5HjyQX3GmSbNBL1bG3D6Gf) | 7:16 | 2023-10-20 |  |
 | [Omemma](https://open.spotify.com/track/3t2o1njvVXz9IojLD1FTqk) | [Judikay](https://open.spotify.com/artist/5Ja8vZu9RqunrDS0uIFL5x) | [Man Of Galilee](https://open.spotify.com/album/6m1ZBEKGANGy4Tfgwhtk08) | 4:17 | 2023-10-20 |  |
 | [One Name \(Jesus\) \- Live](https://open.spotify.com/track/0C0mv7BaaLQtAUeOZwW47c) | [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD) | [One Name \(Jesus\) \[Live\]](https://open.spotify.com/album/3uCGAbiokcQ8BaLgQCgyzK) | 9:19 | 2023-10-20 |  |
+| [Only You](https://open.spotify.com/track/2PT3ESq3qvlwT2r7JPIG3b) | [Hills Music](https://open.spotify.com/artist/7zG8lYti0IvGed5TIPXATE), [Kinsu](https://open.spotify.com/artist/0ZH0SbRhX3D2vaRGvTU3Rh) | [Only You](https://open.spotify.com/album/3bChpC9nlS2fsxYJ6mmjh7) | 2:26 | 2023-12-01 |  |
 | [Overflow](https://open.spotify.com/track/3ERv48syFEopv0b1Lztn1Z) | [Rhema Onuoha](https://open.spotify.com/artist/5nsPtwNBlugfTFBzgSzgVX) | [Amen](https://open.spotify.com/album/5rt15Fv93aObicrRkMB1Z7) | 6:54 | 2023-11-24 |  |
 | [Owo Oluwa](https://open.spotify.com/track/2JKJWJyX3BbavWJ9mGCk6s) | [P.Daniel Olawande](https://open.spotify.com/artist/3oNl2csZbBr9DozLABsLTL) | [Owo Oluwa](https://open.spotify.com/album/27JyI1SfX9raMik8gMmTHu) | 6:10 | 2023-10-20 |  |
 | [Peace \(Open Verse\)](https://open.spotify.com/track/7jkOX2bZm2lrAn7vBtBysS) | [Holy drill](https://open.spotify.com/artist/3SN6XTw03dI5Cn49oeqz6j) | [Great God](https://open.spotify.com/album/4P3kOp9sw1SCMDuSFuibOB) | 2:26 | 2023-10-20 |  |
@@ -107,6 +110,7 @@
 | [You Are More](https://open.spotify.com/track/3ZdAm8njX4hyT2Q0IEnLPe) | [Noplace Home](https://open.spotify.com/artist/2Yhx8xS3bXnLTumdXeGWW7) | [Project 1920](https://open.spotify.com/album/7modcUKac3bHXTADzsTD7v) | 3:16 | 2023-10-20 |  |
 | [You are Yahweh](https://open.spotify.com/track/1FubXlwFRsFyyeqH5KodDG) | [Steve Crown](https://open.spotify.com/artist/6ssJ7jGUrvWN8XZjggRBF3) | [Faith is Rising](https://open.spotify.com/album/18nzvmXhBvp2i4Rj5kgkQs) | 4:39 | 2023-10-20 |  |
 | [Your Baby](https://open.spotify.com/track/71PQ7kp54INFntc0r3J47y) | [Echow Clay](https://open.spotify.com/artist/6L3FtVc42qiH1J9PUtdUDu), [A Mose](https://open.spotify.com/artist/4ioJbpi0sNGUUq2b8tnH0X), [Oba Reengy](https://open.spotify.com/artist/2p8Rrwmp4CLigLFsClVDVC) | [Your Baby](https://open.spotify.com/album/6u0kjDG6yQ7CVWbU23Ye45) | 2:56 | 2023-10-27 |  |
+| [Your Baby \(Paruto Sessions\)](https://open.spotify.com/track/4WDoX23maQicnPqtkXfDmo) | [Echow Clay](https://open.spotify.com/artist/6L3FtVc42qiH1J9PUtdUDu) | [Your Baby \(Paruto Sessions\)](https://open.spotify.com/album/3QBGaUringEPS3uOK6uqwI) | 3:34 | 2023-12-01 |  |
 | [Your Baby \- live Version](https://open.spotify.com/track/67mewy94QmXc3UqqzxNNju) | [A Mose](https://open.spotify.com/artist/4ioJbpi0sNGUUq2b8tnH0X), [Echow Clay](https://open.spotify.com/artist/6L3FtVc42qiH1J9PUtdUDu) | [Your Baby \(live Version\)](https://open.spotify.com/album/175VMq0jKgV2XIact14hUr) | 4:39 | 2023-11-10 |  |
 | [Your Love is Amazing](https://open.spotify.com/track/1sDLL1lKapOjUZBtdjp9CE) | [Folabi Nuel](https://open.spotify.com/artist/0zBTbtoYVNCJmbN3MWHcRe) | [Your Love is Amazing](https://open.spotify.com/album/1HFVwMq3e8eRqrX2n0kFTw) | 5:20 | 2023-11-17 |  |
 

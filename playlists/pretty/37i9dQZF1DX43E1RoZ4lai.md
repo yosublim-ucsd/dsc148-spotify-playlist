@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX43E1RoZ4lai.md) - [plain]
 
 > The best jazz pianists today\. Cover: Aaron Diehl
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,461 likes - 200 songs - 17 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,488 likes - 200 songs - 17 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX43E1RoZ4lai.md) - [plain]
 | 199 | [Cembalo Jump](https://open.spotify.com/track/41l8AAkC7pUepF7S4hlKxV) | [Nils Agnas](https://open.spotify.com/artist/5HbFG8La8D4a3AB2aj18s2), [Mauritz Agnas](https://open.spotify.com/artist/37cquj8T6GWH3AjTTluu8P), [Max Agnas](https://open.spotify.com/artist/3NptYnPBFtCemjoPPqkGwA) | [Red House Tapes](https://open.spotify.com/album/23DLpReECq2utI9C3mzKzQ) | 2:52 |
 | 200 | [Normal](https://open.spotify.com/track/21LPdnK8KHB0G23Jsrxc7X) | [Musicmusicmusic](https://open.spotify.com/artist/5mtFvnvImn9y9m8MaVxTZ8) | [Normal](https://open.spotify.com/album/7cMwT9KvJki2cxMjU7mJD1) | 5:56 |
 
-Snapshot ID: `MCw3MTI4ZTllMTkzNDFiZDZhNmEzNDZhODk5YmE4MzlmOThmMTQzYjgy`
+Snapshot ID: `MCxlMWQ5ZGZkMDVjNTM2YTJmMzRlMzFhOTIxY2IzMjYzYTdiYjg3ZWE4`

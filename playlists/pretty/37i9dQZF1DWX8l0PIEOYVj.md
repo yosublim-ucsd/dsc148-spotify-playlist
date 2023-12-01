@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX8l0PIEOYVj.md) - [plain]
 
 > Future & melodic bass\. Cover: Said The Sky, Terry Zhong, CVBZ.
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,256 likes - 150 songs - 8 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,285 likes - 150 songs - 8 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -152,11 +152,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX8l0PIEOYVj.md) - [plain]
 | 142 | [I'll Be Waiting](https://open.spotify.com/track/1qadEGAXKdavfGokWUaVzL) | [Ace Aura](https://open.spotify.com/artist/5o2KBzYUFierWmBhSemAhq), [NAZAAR](https://open.spotify.com/artist/6G1en7nfPSAWElhPgUOy0h), [Dani King](https://open.spotify.com/artist/3IoL23eRnUfAwnOTsbTLVp) | [I'll Be Waiting](https://open.spotify.com/album/2HFkHwcSgULeBwn78FapIh) | 4:08 |
 | 143 | [low](https://open.spotify.com/track/0MeVLXYXl55nom0wFD2hZm) | [Cadmium](https://open.spotify.com/artist/2jrBiKykLqcIp2S7GLiahy), [Andreas Stone](https://open.spotify.com/artist/4Z63ecu9ZjtVVsIuuOfua3) | [low](https://open.spotify.com/album/6aZcESFNYUK1sBs6Xf6VnS) | 3:52 |
 | 144 | [Odd Ones Out](https://open.spotify.com/track/1zJCUEHGrb6fDlkbw98CXB) | [Last Heroes](https://open.spotify.com/artist/3HHfEn7yPOy3IiHS6CHG97), [RUNN](https://open.spotify.com/artist/3l0H4QNiYYNdIsnZ4JgJAg), [Dia Frampton](https://open.spotify.com/artist/3ppkM4QtM781APpaX7H9t7) | [Odd Ones Out](https://open.spotify.com/album/1bGpF4kIfgBtjVATf6YROu) | 3:45 |
-| 145 | [Hold Me](https://open.spotify.com/track/14PyY68X7D0J6i2xtdajEo) | [SANE](https://open.spotify.com/artist/0whrGku1R2rWJvxEVFTfrQ), [2nd Life](https://open.spotify.com/artist/2j1Yftz0qNufy1z5jfNYab) | [Hold Me](https://open.spotify.com/album/5aUyuveFrtgWfyXcsTCoX8) | 2:26 |
+| 145 | [Hold Me](https://open.spotify.com/track/14PyY68X7D0J6i2xtdajEo) | [SANE](https://open.spotify.com/artist/6yVHCcCg5H7eycOZJzAbVT), [2nd Life](https://open.spotify.com/artist/2j1Yftz0qNufy1z5jfNYab) | [Hold Me](https://open.spotify.com/album/5aUyuveFrtgWfyXcsTCoX8) | 2:26 |
 | 146 | [When You Were Mine](https://open.spotify.com/track/493ydMYkpqzzn69ztUszv3) | [STAR SEED](https://open.spotify.com/artist/5xR2U3IJuuJP89isSMnxtd), [Eyezic](https://open.spotify.com/artist/1mUQNkBHUAOOesB3vc9p97), [Micah Martin](https://open.spotify.com/artist/4i8u1FZVapjZBcCyyrAnU3) | [When You Were Mine](https://open.spotify.com/album/4qH0ODF72DZORJwJU698p7) | 3:31 |
 | 147 | [THIEF](https://open.spotify.com/track/0NGDchCbd7icIC5L3jtb6A) | [OddKidOut](https://open.spotify.com/artist/6l6zabESz1QE4me8Cz3uux), [Young Viridii](https://open.spotify.com/artist/4Rm1nfclUTXCYusaJk7TA9) | [THIEF](https://open.spotify.com/album/1wmohIOqR2zVsarqJ1fvfz) | 2:09 |
 | 148 | [JSYK](https://open.spotify.com/track/3nOg31lPxRYK0Y0o1XoAf0) | [Pauline Herr](https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf) | [JSYK](https://open.spotify.com/album/6wAxJ3vyMI6RVLeVdqJpHe) | 3:48 |
 | 149 | [Just Like You](https://open.spotify.com/track/5XRvpUtk1ux7Tni2RAayDB) | [Kompany](https://open.spotify.com/artist/7dtX3ykcuyVmts2HQnWgSP), [KC](https://open.spotify.com/artist/0HnFImXmf8r1qmmyFwDXMt) | [Just Like You](https://open.spotify.com/album/4PPUdNjkbbVWrdby0AamEx) | 4:28 |
 | 150 | [We Fall Down](https://open.spotify.com/track/5He8dKCynZPFzBPG5M5Ajy) | [KEPIK](https://open.spotify.com/artist/43KdGzqdAQatWUdAFGS4Gn), [Shaley Scott](https://open.spotify.com/artist/1dkMJbf84C7saOwz1C7b4v) | [We Fall Down](https://open.spotify.com/album/5NwRnvEi6zKKMs41uX1CMu) | 4:23 |
 
-Snapshot ID: `MCw2Njg3Y2ZjNTBiYzIyZmMyNDc5ZDZmZjcwZTE1MTQzNTk2YWU3NzNi`
+Snapshot ID: `MCw5MjNjZTQwZWExZTk5ZDBmMzBiNGU2OWU3YmY2ZGUyMmFkZDJlOTQ3`

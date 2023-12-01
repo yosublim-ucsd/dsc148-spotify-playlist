@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXgtgITTKvYl.md) - [plain]
 
 > A collection of the best recent Prog Rock tracks\. Cover: Steve Vai
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,015 likes - 76 songs - 6 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,090 likes - 76 songs - 6 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,7 +70,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXgtgITTKvYl.md) - [plain]
 | 60 | [The Siren](https://open.spotify.com/track/7LpH7fhqWRhVqUJQ79EljR) | [Bjørn Riis](https://open.spotify.com/artist/0itkMtdd5OVeG2FFDE7J6z) | [Everything To Everyone](https://open.spotify.com/album/5ShIN83DOLD2KenemBnEOg) | 7:19 |
 | 61 | [Shoulders](https://open.spotify.com/track/18sNKn7b6TePLS8ufyc17y) | [Coheed and Cambria](https://open.spotify.com/artist/3utxjLheHaVEd9bPjQRsy8) | [Vaxis II: A Window of the Waking Mind](https://open.spotify.com/album/5YRtvIMApwxnUTcWUBcaON) | 3:24 |
 | 62 | [Becoming Human](https://open.spotify.com/track/1l4dlmvEmLKgEgpezRrgxH) | [Simon Collins](https://open.spotify.com/artist/7GXoTDCcMmarUIZtrdrTa9) | [Becoming Human](https://open.spotify.com/album/0oLJEU3ZuMqdzp09VdPdoP) | 4:17 |
-| 63 | [Act Like an Animal](https://open.spotify.com/track/21GyRkGNA6mLudwWvBJWca) | [6:33](https://open.spotify.com/artist/0oBPg2seHzVcAIOpdi1Ojj) | [Act Like an Animal](https://open.spotify.com/album/4qeXRafVd22N0LDAgG4AIa) | 3:51 |
+| 63 | [Act Like an Animal](https://open.spotify.com/track/44rcSxoUZHEO2zP6K9sZQw) | [6:33](https://open.spotify.com/artist/0oBPg2seHzVcAIOpdi1Ojj) | [Feary Tales For Strange Lullabies: The Dome](https://open.spotify.com/album/3u7skSbhFIW76N6AvwMfOW) | 3:51 |
 | 64 | [All Candy](https://open.spotify.com/track/5JbG05V0dUyHK6aDEmqsPA) | [Greyhaven](https://open.spotify.com/artist/1zmx3NwOp6vR4qEjmhSiLL) | [All Candy](https://open.spotify.com/album/34qdi9Fcsoeqy7QXU8K6uN) | 2:56 |
 | 65 | [Unravel](https://open.spotify.com/track/0unnpj2MpDXOz55oupWYUX) | [The Anchoress](https://open.spotify.com/artist/2Z4qmyxotDkAbZ0TpXyZyw) | [Unravel](https://open.spotify.com/album/5tySygjYcKLgDRfcpiynrB) | 4:04 |
 | 66 | [This Party's Over](https://open.spotify.com/track/0dDx5YWvL6WmlIOgdA3akc) | [Fish](https://open.spotify.com/artist/6bQfVk5fSJSp3JtGiQZGNI) | [This Party's Over](https://open.spotify.com/album/2xOcgXYuOsJvOIqHACNKtr) | 4:23 |
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXgtgITTKvYl.md) - [plain]
 | 75 | [Rise, Naianasha \(Cut The Cord\)](https://open.spotify.com/track/4N5o8PH1oxWVMbCDZqABqe) | [Coheed and Cambria](https://open.spotify.com/artist/3utxjLheHaVEd9bPjQRsy8) | [Vaxis II: A Window of the Waking Mind](https://open.spotify.com/album/5YRtvIMApwxnUTcWUBcaON) | 5:19 |
 | 76 | [Sand Castles](https://open.spotify.com/track/1veybHpjhAehZ9tM2ftDVD) | [Head First](https://open.spotify.com/artist/0afcetY24N4RXaaw7KgNaG) | [Head First](https://open.spotify.com/album/7EEhufz4k2e5Vvhe94QSl8) | 5:15 |
 
-Snapshot ID: `MCw1MDRmZDQ3NTU3M2Y0MjJjNjU2ZTQzYzU1YTcwNjIzZjM5NTVmNzQ4`
+Snapshot ID: `MCwwYzkzYTJlZjY1N2JhZDBlZDVkZTE1N2FkZmE0MjFmZWE0NmU2MTI0`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-01",
-  "description": "Le R&B fran\u00e7ais, nouvelle \u00e8re. Photo : Franglish",
+  "description": "Le R&B fran\u00e7ais, nouvelle \u00e8re. Photo : Lynda",
   "name": "R&Bae",
   "tracks": [
     {
@@ -476,7 +476,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 154666,
       "name": "Cardio",
       "url": "https://open.spotify.com/track/31L0exaoUdAnzx9emY9zYU"
@@ -1536,7 +1536,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 158352,
       "name": "Hollandaise",
       "url": "https://open.spotify.com/track/0rQV3d6ckeCZAQrIvOaICE"
@@ -1898,6 +1898,24 @@
       "duration_ms": 124906,
       "name": "Katana (feat. Jungeli)",
       "url": "https://open.spotify.com/track/7wdSNcLfqVXJHcECtEZ5ZI"
+    },
+    {
+      "album": {
+        "name": "Keisha",
+        "url": "https://open.spotify.com/album/4xowVeOMIfvQ88PXNMcuDd"
+      },
+      "artists": [
+        {
+          "name": "Tayron Kwidan's",
+          "url": "https://open.spotify.com/artist/1wlqglR1kdPF2T0Rxee11v"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172000,
+      "name": "Keisha",
+      "url": "https://open.spotify.com/track/2eIpm3C9VrZgVbJwa5v1Es"
     },
     {
       "album": {
@@ -2423,6 +2441,24 @@
     },
     {
       "album": {
+        "name": "Mama",
+        "url": "https://open.spotify.com/album/3zGYkyHUsFj4WNxKcZ7ktn"
+      },
+      "artists": [
+        {
+          "name": "Warren Saada",
+          "url": "https://open.spotify.com/artist/1gqvlpGMzW0ynXNMlu6pIM"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180040,
+      "name": "Mama",
+      "url": "https://open.spotify.com/track/0hoJWbyZNiZlXiJowTn5Q6"
+    },
+    {
+      "album": {
         "name": "Maman prie pour moi",
         "url": "https://open.spotify.com/album/5eyY7n2RVG8smbzZ0Gca3R"
       },
@@ -2456,6 +2492,24 @@
       "duration_ms": 156706,
       "name": "Manico",
       "url": "https://open.spotify.com/track/1hdUgNBjhrZrHHq8shkOPE"
+    },
+    {
+      "album": {
+        "name": "Mauvais gar\u00e7on",
+        "url": "https://open.spotify.com/album/1ZA1hPGaEm7bbUVt6oDOYQ"
+      },
+      "artists": [
+        {
+          "name": "Wensly",
+          "url": "https://open.spotify.com/artist/3w01B4w7nqtWsIX5ShvHSV"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121901,
+      "name": "Mauvais gar\u00e7on",
+      "url": "https://open.spotify.com/track/46N4tFPQSCIjEohElQWrJC"
     },
     {
       "album": {
@@ -3360,6 +3414,24 @@
       "duration_ms": 181224,
       "name": "Quelqu'un d'autre",
       "url": "https://open.spotify.com/track/4e4hmNgPXUzfoANBzZbV9h"
+    },
+    {
+      "album": {
+        "name": "Raison",
+        "url": "https://open.spotify.com/album/5aGS7j1Vjyh1d0mnvvPFAo"
+      },
+      "artists": [
+        {
+          "name": "Cristina",
+          "url": "https://open.spotify.com/artist/2otrzAaHAsniPlX95lxLbC"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142607,
+      "name": "Raison",
+      "url": "https://open.spotify.com/track/1qViJHPK9172gdxvkzuEoD"
     },
     {
       "album": {

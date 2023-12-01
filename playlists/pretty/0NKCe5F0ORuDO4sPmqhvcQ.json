@@ -1,12 +1,12 @@
 {
   "description": "selects from music we've been listening to @ Moving Castle. Manila Killa's album, Dusk drops July 21st!",
-  "num_followers": 20892,
+  "num_followers": 20891,
   "original_name": "Moving Castle Monthly",
   "owner": {
     "name": "Moving Castle",
     "url": "https://open.spotify.com/user/moving-castle"
   },
-  "snapshot_id": "MTA1NjcsZDQ4NGE1OThhY2FjOTgwZGJmYmE5NzkyMWM5NzQ0OTdlODI4OTFmZA==",
+  "snapshot_id": "MTA1NjgsYTQ1Y2NlYjI2ZmY4MDkxODY1Y2IxNGQyYzNjYjBkMzdlMzU0ODgzNg==",
   "tracks": [
     {
       "added_at": "2023-11-24 18:25:16",
@@ -2647,6 +2647,30 @@
       "duration_ms": 200575,
       "name": "Darkness",
       "url": "https://open.spotify.com/track/0l71depQtJ6g2t1LikvlzG"
+    },
+    {
+      "added_at": "2023-11-30 20:20:33",
+      "album": {
+        "name": "haze",
+        "url": "https://open.spotify.com/album/13WO7BXMhRBtl19YlBpIBi"
+      },
+      "artists": [
+        {
+          "name": "Houis",
+          "url": "https://open.spotify.com/artist/3bjJEXLyXKBFUx6MOj3wlF"
+        },
+        {
+          "name": "WEI",
+          "url": "https://open.spotify.com/artist/2jOSQFHIeUc2OcPx8tSaTw"
+        },
+        {
+          "name": "JVLY",
+          "url": "https://open.spotify.com/artist/52flspAUwzY59cow3QC53f"
+        }
+      ],
+      "duration_ms": 185643,
+      "name": "haze",
+      "url": "https://open.spotify.com/track/2HfWwr1FyagotRzp7RDEms"
     }
   ],
   "unique_name": "Moving Castle Monthly",

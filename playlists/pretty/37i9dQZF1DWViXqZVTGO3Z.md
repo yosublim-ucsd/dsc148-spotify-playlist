@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViXqZVTGO3Z.md) - [plain]
 
 > Get in the Christmas spirit while listening to some of your favorite Christian artists sing and celebrate the birth of Jesus.
 
-[Spotify](https://open.spotify.com/user/spotify) - 157,520 likes - 150 songs - 9 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 157,723 likes - 150 songs - 9 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViXqZVTGO3Z.md) - [plain]
 | 149 | [Angels We Have Heard on High \(We Won't Be Silent\)](https://open.spotify.com/track/4oS4cWE5d50Uj1kOjhvf9W) | [Cade Thompson](https://open.spotify.com/artist/0Rta8FGUn7TLTsFiumWoC4) | [Cade Thompson Christmas](https://open.spotify.com/album/5UZMSWBi7ppVTQeHm4SlTR) | 3:01 |
 | 150 | [O Come, All Ye Faithful](https://open.spotify.com/track/2ZzqVVAhzRb2uHaNGrWH5s) | [Matthew West](https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj) | [The Heart Of Christmas](https://open.spotify.com/album/1maddwERmAiVMeiSgsEx6g) | 3:45 |
 
-Snapshot ID: `MCw4MzY4ZGQ5NzY2NTExYWM1MTJjMDI1ZDY3Zjc3YmU2M2E5Y2UzOTg4`
+Snapshot ID: `MCwzNzZkYmU0NDA1Y2ZmZmNhOTA3NTI1ODc5ZDJiNGU4ZTc4MjBlYThl`

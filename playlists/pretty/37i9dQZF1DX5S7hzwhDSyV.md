@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5S7hzwhDSyV.md) - [plain]
 
 > The best instrumental versions of the american songbook classics\. Cover: Stan Getz
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,943 likes - 125 songs - 11 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,021 likes - 125 songs - 11 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5S7hzwhDSyV.md) - [plain]
 | 124 | [You Are Too Beautiful](https://open.spotify.com/track/0ncaOYFsDJ7X0HaVOESL2v) | [Lee Konitz](https://open.spotify.com/artist/4YNvbaOaqp5pzC5US5t48k) | [You And Lee](https://open.spotify.com/album/4zOW1zEMnDd4mH6Gs8dpFr) | 4:09 |
 | 125 | [My Romance \(take 2\) \- Alternate Take](https://open.spotify.com/track/4Ui4x5HkS80awaZRdjdGXd) | [Bill Evans Trio](https://open.spotify.com/artist/3VEG6gxFIMfl4Cdog26avS) | [Waltz For Debby \(Original Jazz Classics Remaster 2010\)](https://open.spotify.com/album/0MjlKhtsyax9HSWNkYaWM2) | 7:12 |
 
-Snapshot ID: `MCw4M2FmODMwNTc5NzA3OTYwMDcyNjNjYTEzZjA2M2E1OWEyMGIwMTEz`
+Snapshot ID: `MCxkZmE5MDY3MWEzYjNjY2I0ZTY3NTUyMGUyNWRiMzkxY2M0ODRiMDc2`

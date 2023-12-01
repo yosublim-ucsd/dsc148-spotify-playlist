@@ -2669,6 +2669,28 @@
     },
     {
       "album": {
+        "name": "Collision Data",
+        "url": "https://open.spotify.com/album/4nO6y2883sX0YudSNg9FEM"
+      },
+      "artists": [
+        {
+          "name": "Iglooghost",
+          "url": "https://open.spotify.com/artist/7LCDnUQYE07fnKbo46SVLB"
+        },
+        {
+          "name": "Marina Herlop",
+          "url": "https://open.spotify.com/artist/4ZG4S6skttdVhHz08AjMhR"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236000,
+      "name": "Collision Data - feat. Marina Herlop",
+      "url": "https://open.spotify.com/track/0Xc2rxkULvOz0v7H82yXQV"
+    },
+    {
+      "album": {
         "name": "COMATOSE",
         "url": "https://open.spotify.com/album/7bwRaPmS8a1owPXZcwPD2K"
       },
@@ -3044,7 +3066,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 102068,
       "name": "CUFFED",
       "url": "https://open.spotify.com/track/7HEk9oKloBPjXmNexeepxe"
@@ -4088,7 +4110,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 170078,
       "name": "Evergreen (feat. KLOE)",
       "url": "https://open.spotify.com/track/4Jvsedk3KnknusOF8RDC5C"
@@ -4980,6 +5002,28 @@
       "duration_ms": 151160,
       "name": "FUN",
       "url": "https://open.spotify.com/track/6Knk2SiTXcSFiVCzXmdev7"
+    },
+    {
+      "album": {
+        "name": "FUN",
+        "url": "https://open.spotify.com/album/2ZIsPbcWIz2dhi5YCTvTkv"
+      },
+      "artists": [
+        {
+          "name": "THIRST",
+          "url": "https://open.spotify.com/artist/48jyKugtgYM5RdzwF7zKde"
+        },
+        {
+          "name": "PiNKII",
+          "url": "https://open.spotify.com/artist/3PG2tJxxB6fh7o7YIGRrnM"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109125,
+      "name": "FUN",
+      "url": "https://open.spotify.com/track/5mlVnK8RkGob2oiFPXf0Ky"
     },
     {
       "album": {
@@ -6741,6 +6785,28 @@
     },
     {
       "album": {
+        "name": "idgaf",
+        "url": "https://open.spotify.com/album/6wMU9MnWIR1jM9xY5rt8zC"
+      },
+      "artists": [
+        {
+          "name": "Rome in Silver",
+          "url": "https://open.spotify.com/artist/0Hh9X3QxTHPE2dlAS1g8IN"
+        },
+        {
+          "name": "Lhasa Petik",
+          "url": "https://open.spotify.com/artist/4F6d5pVnChKy8CcMBaZ1Ja"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151473,
+      "name": "idgaf",
+      "url": "https://open.spotify.com/track/4Ej0ob9L6wzurJsEvbYNjF"
+    },
+    {
+      "album": {
         "name": "Manic Pixie Dream Girl",
         "url": "https://open.spotify.com/album/2FIrS3aP6Fd1NeEDLf8QNi"
       },
@@ -7050,7 +7116,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-24",
+      "date_removed": null,
       "duration_ms": 124751,
       "name": "Irresponsible",
       "url": "https://open.spotify.com/track/60SugyNV4FdewZfktXfXte"
@@ -8676,7 +8742,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 171279,
       "name": "Meteor",
       "url": "https://open.spotify.com/track/3q53rFJ6wnhLhm6W8VlA8P"
@@ -9508,7 +9574,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 155165,
       "name": "notice",
       "url": "https://open.spotify.com/track/6p2BRzlsChZJREL4oEqYar"
@@ -9562,7 +9628,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 206694,
       "name": "Off Wiv Ya Headz",
       "url": "https://open.spotify.com/track/29LpCEcWnk9lFfzR2o3YVW"
@@ -10434,7 +10500,7 @@
       ],
       "date_added": "2023-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 294754,
       "name": "Protection",
       "url": "https://open.spotify.com/track/1cxSMo4OGtRdld83p0FiXF"
@@ -12331,6 +12397,24 @@
     },
     {
       "album": {
+        "name": "Still Fall",
+        "url": "https://open.spotify.com/album/74e6pSi6iXw7TMut1Utb0f"
+      },
+      "artists": [
+        {
+          "name": "Felix Jaehn",
+          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209102,
+      "name": "Still Fall",
+      "url": "https://open.spotify.com/track/3JG1pGENyNtrVyPd1VPhN4"
+    },
+    {
+      "album": {
         "name": "Still Miss U",
         "url": "https://open.spotify.com/album/6Twb7nEWGMHnKHB4RKIHNu"
       },
@@ -12922,6 +13006,24 @@
       "duration_ms": 178829,
       "name": "That Feeling",
       "url": "https://open.spotify.com/track/3SZGQebN9xqyh5cUbUD5fN"
+    },
+    {
+      "album": {
+        "name": "The Garden",
+        "url": "https://open.spotify.com/album/0U4c4E1ZSNsv5HVoJ6QR0d"
+      },
+      "artists": [
+        {
+          "name": "Navos",
+          "url": "https://open.spotify.com/artist/6YCM9JwkqdEFQSzztmh4Kb"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161658,
+      "name": "The Garden",
+      "url": "https://open.spotify.com/track/6doL1BRkcTJtCTrdT2fKkV"
     },
     {
       "album": {
@@ -13879,6 +13981,24 @@
     },
     {
       "album": {
+        "name": "VROOM VROOM",
+        "url": "https://open.spotify.com/album/3KW0gP6AjfASCerVobXNtl"
+      },
+      "artists": [
+        {
+          "name": "B\u00c9BE YANA",
+          "url": "https://open.spotify.com/artist/6ozuxhSx8Ci0o8tPpgrCT2"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153146,
+      "name": "VROOM VROOM",
+      "url": "https://open.spotify.com/track/4Gh8BPpBGAk2REEhcHUUMG"
+    },
+    {
+      "album": {
         "name": "vulnerable",
         "url": "https://open.spotify.com/album/3jPe5MOEN0NG6dlMcMuNCg"
       },
@@ -14536,7 +14656,7 @@
       ],
       "date_added": "2023-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 186906,
       "name": "Without You - dj poolboi remix",
       "url": "https://open.spotify.com/track/2M4vjrQxQUhHx0Lee6gYGj"

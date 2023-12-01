@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ZPNS2aXuN4.md) - [plain]
 
 > An introduction to the music of Bartok, Hungary's greatest composer.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,898 likes - 60 songs - 6 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,911 likes - 60 songs - 6 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ZPNS2aXuN4.md) - [plain]
 | 59 | [Music for Strings, Percussion and Celesta, Sz\. 106: 3\. Adagio](https://open.spotify.com/track/5sGRmLMcs4MbkANPcLWcoY) | [Béla Bartók](https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd), [Saito Kinen Orchestra](https://open.spotify.com/artist/2Mi8xPOE8jSOZEeFjxVNdQ), [Seiji Ozawa](https://open.spotify.com/artist/0atCvjK2GL6ezQFGOQOYQo) | [Seiji Ozawa Anniversary](https://open.spotify.com/album/5FjUPEEtyxLtqkNQUW9wDC) | 6:53 |
 | 60 | [Suite, BB 70, Sz\. 62 \(Op\. 14\): 3\. Allegro molto](https://open.spotify.com/track/5pUTksPpy6ELqAwnbo7Laa) | [Béla Bartók](https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd), [Zoltán Kocsis](https://open.spotify.com/artist/5Gi9bw3svtZMwonzcQG2wm) | [Bartók: Complete Solo Piano Works](https://open.spotify.com/album/2QGqrHVhT67lWT1MYO4lqB) | 1:57 |
 
-Snapshot ID: `MCxkNjQzODc3OGQ5OGE4YWEzYjA4OWIxMGVjMmVhYjRmZTM3MDc5MWEy`
+Snapshot ID: `MCxiOTRjNDdkZDg1YzBlZTUwNjU0YWEzOTA1YzRjMGMwY2M3NGJiMTYy`

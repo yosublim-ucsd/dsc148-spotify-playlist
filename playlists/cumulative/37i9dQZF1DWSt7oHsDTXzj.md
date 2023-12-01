@@ -2,7 +2,7 @@
 
 ### [Indie Christmas](https://open.spotify.com/playlist/37i9dQZF1DWSt7oHsDTXzj)
 
-> The ultimate seasonal \(indie\) playlist.
+> The ultimate seasonal \(indie\) playlist\. Cover: boygenius
 
 224 songs - 12 hr 16 min
 

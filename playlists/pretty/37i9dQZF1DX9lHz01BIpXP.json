@@ -1,12 +1,12 @@
 {
   "description": "Die beste in Afrikaanse Hip Hop. Cover: <a href=\"https://open.spotify.com/artist/3cMa6RJNuOUYxyyQXLf10i?si=Tj2pMniQQDu3Zm2lEGp2NA\">Bigbforever</a> ",
-  "num_followers": 1292,
+  "num_followers": 1293,
   "original_name": "Afrikaanse Hip Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNDZiYWEzNTZlNWMwNDFhMzMwMWJlZWQzZmU4Y2JjYzJiYmFlZjU4",
+  "snapshot_id": "MCw4NTA4YmNmZWNkODAxZjk4M2ZiM2I3NDY4NGEyOWNhNTMyMzYxMWFl",
   "tracks": [
     {
       "added_at": "2023-11-09 22:00:00",
@@ -167,6 +167,26 @@
       "duration_ms": 152054,
       "name": "Noem My 'n Goen",
       "url": "https://open.spotify.com/track/2om26qoDFKWkPlkh07FiE1"
+    },
+    {
+      "added_at": "2023-11-30 22:00:00",
+      "album": {
+        "name": "Spitbraai",
+        "url": "https://open.spotify.com/album/6hF659wnX4n3St2jS6Wsmu"
+      },
+      "artists": [
+        {
+          "name": "Mr Heinz",
+          "url": "https://open.spotify.com/artist/1ONbGb6rAiwalf2VHjsdxL"
+        },
+        {
+          "name": "Early B",
+          "url": "https://open.spotify.com/artist/6CzVcrDqwjvTDr3uxyNgWG"
+        }
+      ],
+      "duration_ms": 198813,
+      "name": "Spitbraai",
+      "url": "https://open.spotify.com/track/7ByB1mMZcXGSlFOAwE5m0u"
     },
     {
       "added_at": "2023-09-15 03:59:21",
@@ -799,34 +819,6 @@
       "duration_ms": 245969,
       "name": "Raak Taatie",
       "url": "https://open.spotify.com/track/53iOtIBVhJwizCcfWWfCRb"
-    },
-    {
-      "added_at": "2023-06-02 07:29:20",
-      "album": {
-        "name": "The Republic Of Ghamstad",
-        "url": "https://open.spotify.com/album/4ClKDh5FGeE9trmJyQFw3i"
-      },
-      "artists": [
-        {
-          "name": "Mr Heinz",
-          "url": "https://open.spotify.com/artist/1ONbGb6rAiwalf2VHjsdxL"
-        },
-        {
-          "name": "YoungstaCPT",
-          "url": "https://open.spotify.com/artist/3QYKq7aMSiAu6gvfwNNFsv"
-        },
-        {
-          "name": "Early B",
-          "url": "https://open.spotify.com/artist/6CzVcrDqwjvTDr3uxyNgWG"
-        },
-        {
-          "name": "Jay Em",
-          "url": "https://open.spotify.com/artist/0zIl4civXJUhG3jlhyrcOw"
-        }
-      ],
-      "duration_ms": 234753,
-      "name": "Chy?s",
-      "url": "https://open.spotify.com/track/5MFCBXjKecUCoHXu03Zfzu"
     },
     {
       "added_at": "2022-09-08 21:59:00",

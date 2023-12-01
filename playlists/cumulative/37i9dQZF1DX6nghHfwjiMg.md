@@ -4,7 +4,7 @@
 
 > El futuro está acá\. Foto: Soui Uno
 
-160 songs - 8 hr 21 min
+161 songs - 8 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,7 +50,8 @@
 | [Divina](https://open.spotify.com/track/06WgKWhh02DQBtoHRy69dU) | [SOULFIA](https://open.spotify.com/artist/1Q9Sx5tOmwems0qwLJZ5Cy) | [Divina](https://open.spotify.com/album/5CyX6YevWHdid0U4XqGyYe) | 2:39 | 2023-06-01 |  |
 | [Dopamina](https://open.spotify.com/track/78ZxiCT7pdrtUUIsIxF5xQ) | [Winona Riders](https://open.spotify.com/artist/6ipac2Z0d0L6LWS7tTudcp) | [Esto es lo que Obtenés cuando te Cansás de lo que Ya Obtuviste](https://open.spotify.com/album/4N2YIuYGbn5P0pyTbrwend) | 6:15 | 2023-06-01 |  |
 | [Dosis](https://open.spotify.com/track/2jhNHAT2mKah55bfOPSarO) | [Comensales](https://open.spotify.com/artist/0z90qmO7Ma0JmLtRXUknn7) | [Dosis](https://open.spotify.com/album/2U01ndz6MxWJDMEFhvfCYV) | 3:12 | 2021-11-11 | 2023-06-02 |
-| [DRILL AR 4](https://open.spotify.com/track/2ZMzEgq2IAwPJKZR6i9bqP) | [Akim 88](https://open.spotify.com/artist/4TDr2te1ZvxbEchksH77Dp), [E.C.V](https://open.spotify.com/artist/3bz89tGLK59YTBYV8577IR) | [DRILL AR 4](https://open.spotify.com/album/24DkZ6r0rNwWdBMwmOHtPM) | 2:02 | 2023-06-01 |  |
+| [DRILL AR 4](https://open.spotify.com/track/1lAgT3yumaPp5Uedd1hB0P) | [Akim 88](https://open.spotify.com/artist/4TDr2te1ZvxbEchksH77Dp), [E.C.V](https://open.spotify.com/artist/3bz89tGLK59YTBYV8577IR) | [DRILL AR 4](https://open.spotify.com/album/0cC8aeRBldZolM7M0UHhE6) | 2:02 | 2023-10-05 |  |
+| [DRILL AR 4](https://open.spotify.com/track/2ZMzEgq2IAwPJKZR6i9bqP) | [Akim 88](https://open.spotify.com/artist/4TDr2te1ZvxbEchksH77Dp), [E.C.V](https://open.spotify.com/artist/3bz89tGLK59YTBYV8577IR) | [DRILL AR 4](https://open.spotify.com/album/24DkZ6r0rNwWdBMwmOHtPM) | 2:02 | 2023-06-01 | 2023-12-01 |
 | [EL PLOTTER](https://open.spotify.com/track/0RCnbUSbzP6NipEvi8vs1P) | [DT.Bilardo](https://open.spotify.com/artist/5kfMU816qY0ujqEt3xIHqR), [Perro Primo](https://open.spotify.com/artist/4MUsDaGK0nPDJvYSoaoFUA) | [EL PLOTTER](https://open.spotify.com/album/1F46me8TYsulA1dpAne3OU) | 3:28 | 2023-06-01 |  |
 | [Embriago](https://open.spotify.com/track/1hnVWXdhW9P17SpfnaN60C) | [Andres](https://open.spotify.com/artist/4eAz1Oum61CGHwMUl9CZ9f) | [Embriago](https://open.spotify.com/album/5WR3I7h22Dt5cYgU6VV0jX) | 3:36 | 2021-11-11 | 2023-06-02 |
 | [Emocional \(feat\. Marlku\)](https://open.spotify.com/track/21wToWcFmf43bfuLHqDRls) | [Asan](https://open.spotify.com/artist/6Nl4VXcX86fBMO4YE6oYfN), [Marlku](https://open.spotify.com/artist/4o3YJfgarCUSVyPH5HKRA5) | [Emocional](https://open.spotify.com/album/6TrcWCUDZuWU3Sf6YqHZAV) | 2:52 | 2021-11-11 | 2022-06-28 |

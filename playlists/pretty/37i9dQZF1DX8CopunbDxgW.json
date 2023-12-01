@@ -1,12 +1,12 @@
 {
   "description": "The best indie dance tracks of the moment. Cover: Mindchatter",
-  "num_followers": 864186,
+  "num_followers": 864199,
   "original_name": "metropolis",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyY2Y3MGExOTQ1YWY1MzhhMmVmMjRjOWIxMDA5YTIwN2MwNjgzNWFk",
+  "snapshot_id": "MCwyYTYzZDNmMjczYTJlNWM4NDZhNGU2MTlmNmJhYTg3N2ExZmRhZDNl",
   "tracks": [
     {
       "added_at": "2023-11-17 05:00:00",
@@ -67,26 +67,6 @@
       "duration_ms": 257940,
       "name": "I Won\u2019t Let You Down",
       "url": "https://open.spotify.com/track/2WmcCOU2xeScvCKrpui6EV"
-    },
-    {
-      "added_at": "2023-11-24 17:16:34",
-      "album": {
-        "name": "Higher Than Ever Before (Barry Can't Swim Remix)",
-        "url": "https://open.spotify.com/album/1836yEMpqljb7gddjMGyQE"
-      },
-      "artists": [
-        {
-          "name": "Disclosure",
-          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
-        },
-        {
-          "name": "Barry Can't Swim",
-          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
-        }
-      ],
-      "duration_ms": 254313,
-      "name": "Higher Than Ever Before - Barry Can't Swim Remix",
-      "url": "https://open.spotify.com/track/6CZOBFhBZTd8xw004Bj1lC"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -191,6 +171,26 @@
       "duration_ms": 134412,
       "name": "Uglyfisherman",
       "url": "https://open.spotify.com/track/0soF6Of8Zw4wsjkrFWyKf2"
+    },
+    {
+      "added_at": "2023-11-24 17:16:34",
+      "album": {
+        "name": "Higher Than Ever Before (Barry Can't Swim Remix)",
+        "url": "https://open.spotify.com/album/1836yEMpqljb7gddjMGyQE"
+      },
+      "artists": [
+        {
+          "name": "Disclosure",
+          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
+        },
+        {
+          "name": "Barry Can't Swim",
+          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
+        }
+      ],
+      "duration_ms": 254313,
+      "name": "Higher Than Ever Before - Barry Can't Swim Remix",
+      "url": "https://open.spotify.com/track/6CZOBFhBZTd8xw004Bj1lC"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -1791,26 +1791,6 @@
     {
       "added_at": "2023-10-02 15:19:18",
       "album": {
-        "name": "Show Me The Money (with Tkay Maidza)",
-        "url": "https://open.spotify.com/album/7L0qZYtIIxyo1B5omj6F4B"
-      },
-      "artists": [
-        {
-          "name": "Snakehips",
-          "url": "https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP"
-        },
-        {
-          "name": "Tkay Maidza",
-          "url": "https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK"
-        }
-      ],
-      "duration_ms": 187058,
-      "name": "Show Me The Money (with Tkay Maidza)",
-      "url": "https://open.spotify.com/track/7EA2tzWnu6i0Nai8PMUZgp"
-    },
-    {
-      "added_at": "2023-10-02 15:19:18",
-      "album": {
         "name": "Somebody",
         "url": "https://open.spotify.com/album/3jt8M4vaXSkrhi34KuFLuT"
       },
@@ -2147,42 +2127,6 @@
       "duration_ms": 247435,
       "name": "Avoiding Pain",
       "url": "https://open.spotify.com/track/5bJjMsfoU0EWtXcg03eY6u"
-    },
-    {
-      "added_at": "2023-10-02 15:19:18",
-      "album": {
-        "name": "Soy Gitano EP",
-        "url": "https://open.spotify.com/album/5pB761K03E09m3aZz9YFOM"
-      },
-      "artists": [
-        {
-          "name": "Paco Versailles",
-          "url": "https://open.spotify.com/artist/5VptPtXbT0T4imW6GcobiW"
-        }
-      ],
-      "duration_ms": 204848,
-      "name": "Our Way",
-      "url": "https://open.spotify.com/track/0CdNOaZUy8JAbx7cuDoks1"
-    },
-    {
-      "added_at": "2023-10-02 15:19:18",
-      "album": {
-        "name": "Staring In The Dark",
-        "url": "https://open.spotify.com/album/2jxqw18TEVeQ2GhNMq7Ht3"
-      },
-      "artists": [
-        {
-          "name": "Model Man",
-          "url": "https://open.spotify.com/artist/2T5NLCuN31j79zbxZ2XCSA"
-        },
-        {
-          "name": "Lyrah",
-          "url": "https://open.spotify.com/artist/5JyKQ4MQ2HkU1n1BYiKMWW"
-        }
-      ],
-      "duration_ms": 243521,
-      "name": "Staring In The Dark",
-      "url": "https://open.spotify.com/track/7JAVF82CR6L7SZzxiPPOM2"
     },
     {
       "added_at": "2023-10-06 04:00:00",

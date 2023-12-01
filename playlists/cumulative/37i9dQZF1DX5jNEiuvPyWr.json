@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-17",
-  "description": "Le meilleur du rap fran\u00e7ais version cloud. Photo : joysad",
+  "description": "Le meilleur du rap fran\u00e7ais version cloud. Photo : DTF",
   "name": "Cloud Rap",
   "tracks": [
     {
@@ -825,6 +825,24 @@
     },
     {
       "album": {
+        "name": "23 -",
+        "url": "https://open.spotify.com/album/5ncfRnCt3xSTJMnoAgplCI"
+      },
+      "artists": [
+        {
+          "name": "Khali",
+          "url": "https://open.spotify.com/artist/0rqQfmTWtmxzlrNmnruQXS"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187431,
+      "name": "BOTTEGA",
+      "url": "https://open.spotify.com/track/4N3H6Pe1BHEKGMx2U3vIjB"
+    },
+    {
+      "album": {
         "name": "Boulevard des Belges",
         "url": "https://open.spotify.com/album/4k6uAkPyFAcOAWIhRdgwUM"
       },
@@ -1086,6 +1104,32 @@
       "duration_ms": 181192,
       "name": "Chance",
       "url": "https://open.spotify.com/track/34mOxGOvrQ9shQ2lbPs6Lk"
+    },
+    {
+      "album": {
+        "name": "CHEMINS",
+        "url": "https://open.spotify.com/album/6ICJkCduEoZnmVzPVa8keo"
+      },
+      "artists": [
+        {
+          "name": "Charlie Pill",
+          "url": "https://open.spotify.com/artist/1F9opBvFsZhyjP67Dwj5V7"
+        },
+        {
+          "name": "Verso",
+          "url": "https://open.spotify.com/artist/2wadI8Occyuywvkq9rbbn7"
+        },
+        {
+          "name": "Nael C\u00e9leste",
+          "url": "https://open.spotify.com/artist/3WuIkKiG2lFgrDqcWvW4Bw"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175304,
+      "name": "CHEMINS",
+      "url": "https://open.spotify.com/track/01C3b59tdndDqaWlAb7Zyw"
     },
     {
       "album": {
@@ -1554,6 +1598,24 @@
       "duration_ms": 166585,
       "name": "DOPE & FLOW",
       "url": "https://open.spotify.com/track/2xEtaNqgy2PogrwrY4GjuJ"
+    },
+    {
+      "album": {
+        "name": "Dr. Surprise",
+        "url": "https://open.spotify.com/album/1EZFmNCKU4wn8tNk6sRsJg"
+      },
+      "artists": [
+        {
+          "name": "Surprise",
+          "url": "https://open.spotify.com/artist/0qvSqrreqXO98OunCDZN9r"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114381,
+      "name": "Dr. Surprise",
+      "url": "https://open.spotify.com/track/0lL5qRP6yOTkaCl9Hy48ZB"
     },
     {
       "album": {
@@ -2196,7 +2258,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 169903,
       "name": "HARMONIE",
       "url": "https://open.spotify.com/track/6nCjnp6Y2XMfwnK8EiT1ee"
@@ -2706,7 +2768,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 154960,
       "name": "L'Audacieuse",
       "url": "https://open.spotify.com/track/0qoimFw2hfFPt7G9X3dpdg"
@@ -3136,7 +3198,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 156050,
       "name": "LONELY",
       "url": "https://open.spotify.com/track/2SyJqs8ZvjZ6hcKSBi44RQ"
@@ -5452,10 +5514,28 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 160053,
       "name": "Triste temps",
       "url": "https://open.spotify.com/track/2EjucVZtebnlRYwMIOle3N"
+    },
+    {
+      "album": {
+        "name": "Triste temps",
+        "url": "https://open.spotify.com/album/2Ey1lsZAGC0ch5wd5qFF7v"
+      },
+      "artists": [
+        {
+          "name": "So La Lune",
+          "url": "https://open.spotify.com/artist/4ZW7BptOWzjNFLEqRiNCT7"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160053,
+      "name": "Triste temps",
+      "url": "https://open.spotify.com/track/5eogqa52u4P6TIzYsvLUqH"
     },
     {
       "album": {

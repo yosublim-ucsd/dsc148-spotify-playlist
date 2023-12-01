@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7MTlMMRl0MD.md) - [plain]
 
 > Tu lista favorita de Bachata ❤️ Cover: Sofía Reyes & Beéle
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,905,645 likes - 100 songs - 6 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,905,705 likes - 100 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7MTlMMRl0MD.md) - [plain]
 | 99 | [El Cuchillo](https://open.spotify.com/track/51sf8K5TcoLvuMF24c84Lv) | [Optimo](https://open.spotify.com/artist/37tpydsl5wICltyf0U7iHM) | [A World Tour](https://open.spotify.com/album/7M4TBKECznxg5dPL0tgI3U) | 3:41 |
 | 100 | [Clavada En Mi Cuerpo](https://open.spotify.com/track/2r8f3ojwoRpnz6Aszufnrt) | [Daniel Simo](https://open.spotify.com/artist/4HZGfCiVVgfmaKlvyIF65k) | [Clavada En Mi Cuerpo](https://open.spotify.com/album/5k3fW7bHYsk7dSDD89FZiJ) | 3:20 |
 
-Snapshot ID: `MCw2YzhiMzk0NjYzY2I3NmE2ZmJjZWMzZmIwNWZmYzZlMmZmNWE0ZTc3`
+Snapshot ID: `MCxiYTNlZjA2OGQ5NWRkMjU5ODYyZjkyMTYyN2Y4YmY4MDE4ZjNkNDNk`

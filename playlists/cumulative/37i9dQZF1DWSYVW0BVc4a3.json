@@ -649,6 +649,28 @@
     },
     {
       "album": {
+        "name": "Ando High",
+        "url": "https://open.spotify.com/album/3NebZzG6xjkmLE0wDiSbXH"
+      },
+      "artists": [
+        {
+          "name": "Tom & Collins",
+          "url": "https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta"
+        },
+        {
+          "name": "AM\u00c9M\u00c9",
+          "url": "https://open.spotify.com/artist/1txb9Qg5lJ3KATxPcIYyvO"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165875,
+      "name": "Ando High",
+      "url": "https://open.spotify.com/track/0wIZzK1cWw1CzYGxN1Og8m"
+    },
+    {
+      "album": {
         "name": "Ano EP",
         "url": "https://open.spotify.com/album/3X7duLBTg1yRaYk5rEMlvJ"
       },
@@ -2420,7 +2442,7 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 184596,
       "name": "Come Come",
       "url": "https://open.spotify.com/track/2vGpCrWU9nAvs2CFhw5TsA"
@@ -4172,7 +4194,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 228750,
       "name": "Forever (Solomun Remix)",
       "url": "https://open.spotify.com/track/6Y99Pdmhbg5GhAAxwjcbhR"
@@ -4682,6 +4704,28 @@
       "duration_ms": 393620,
       "name": "Going in Circles",
       "url": "https://open.spotify.com/track/1Qs5NlNCYCFndmydOy8CXw"
+    },
+    {
+      "album": {
+        "name": "Goodbye (DJ Seinfeld Remix)",
+        "url": "https://open.spotify.com/album/1d4OoBwqA4Ll4lKlO9kYdq"
+      },
+      "artists": [
+        {
+          "name": "The Chemical Brothers",
+          "url": "https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo"
+        },
+        {
+          "name": "DJ Seinfeld",
+          "url": "https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207291,
+      "name": "Goodbye - DJ Seinfeld Remix",
+      "url": "https://open.spotify.com/track/1G6yMiZEf1A3HzpjekA6RZ"
     },
     {
       "album": {
@@ -9120,7 +9164,7 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 238684,
       "name": "Overnight",
       "url": "https://open.spotify.com/track/2ckYzNOvjKVQX5ARttEhlo"
@@ -11107,6 +11151,28 @@
     },
     {
       "album": {
+        "name": "Skogen",
+        "url": "https://open.spotify.com/album/1io9HEqbF6pvjJBkE3sOl8"
+      },
+      "artists": [
+        {
+          "name": "Pretty Output",
+          "url": "https://open.spotify.com/artist/4FAoJpn4ia94ewEqXftG5o"
+        },
+        {
+          "name": "AN21",
+          "url": "https://open.spotify.com/artist/3wPBMtzFP84b7UN786Sxhn"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310410,
+      "name": "Skogen",
+      "url": "https://open.spotify.com/track/3aTNVxSQEN83WqKYQNPLt5"
+    },
+    {
+      "album": {
         "name": "Hold The Night EP",
         "url": "https://open.spotify.com/album/5ugE3kExl70pciBwPNbXym"
       },
@@ -11366,7 +11432,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 243013,
       "name": "Something On My Mind (Solomun Remix)",
       "url": "https://open.spotify.com/track/7qoIMEX58PlFTai18Uf1ic"
@@ -11722,6 +11788,24 @@
       "duration_ms": 206000,
       "name": "Stepper",
       "url": "https://open.spotify.com/track/6LWnD63tBcpnkWJRlOegja"
+    },
+    {
+      "album": {
+        "name": "Club Romantech (Deluxe)",
+        "url": "https://open.spotify.com/album/0xmI8Oy49CerKEajekFH4I"
+      },
+      "artists": [
+        {
+          "name": "Icona Pop",
+          "url": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275735,
+      "name": "Stick Your Tongue Out - Karma Fields Original Edit",
+      "url": "https://open.spotify.com/track/0RwOl1HNZDq7quGxq8sAGr"
     },
     {
       "album": {
@@ -14349,6 +14433,24 @@
     },
     {
       "album": {
+        "name": "what a place",
+        "url": "https://open.spotify.com/album/1sHRW6142tlZ9ksG2GyanA"
+      },
+      "artists": [
+        {
+          "name": "altrice",
+          "url": "https://open.spotify.com/artist/44lQJ512fu8nW7pa1FRmDF"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251076,
+      "name": "what a place",
+      "url": "https://open.spotify.com/track/3UhHRrNxPY3NKzsRDdN90T"
+    },
+    {
+      "album": {
         "name": "What Do Adults Say? EP",
         "url": "https://open.spotify.com/album/3JCHvVoHyWYYD5jsTS8uuG"
       },
@@ -14624,7 +14726,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 329318,
       "name": "With You",
       "url": "https://open.spotify.com/track/79uf4T9oqDNjPKd8eCKtha"

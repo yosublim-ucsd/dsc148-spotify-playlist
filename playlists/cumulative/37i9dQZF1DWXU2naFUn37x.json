@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "Solo il meglio dello street rap italiano. Cover: Digital Astro, Tony Boy, Artie 5ive",
+  "description": "Solo il meglio dello street rap italiano. Cover: Artie 5ive, Rondodasosa",
   "name": "Street Culto",
   "tracks": [
     {
@@ -884,6 +884,28 @@
       "duration_ms": 159840,
       "name": "Auto tedesca",
       "url": "https://open.spotify.com/track/4gKPKREX0hNzsm3jXdoLmh"
+    },
+    {
+      "album": {
+        "name": "Automatic RMX (feat. Baby Gang)",
+        "url": "https://open.spotify.com/album/3j6szanjkO1lTjsL6xAPeo"
+      },
+      "artists": [
+        {
+          "name": "C.Gambino",
+          "url": "https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI"
+        },
+        {
+          "name": "Baby Gang",
+          "url": "https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130666,
+      "name": "Automatic RMX (feat. Baby Gang)",
+      "url": "https://open.spotify.com/track/0u3Hx0SSWhemODiuA7ZV14"
     },
     {
       "album": {
@@ -2129,6 +2151,32 @@
     },
     {
       "album": {
+        "name": "Cheerleader (feat. MamboLosco)",
+        "url": "https://open.spotify.com/album/4rNXH9OKewtZdBqeWyjmL7"
+      },
+      "artists": [
+        {
+          "name": "Boro",
+          "url": "https://open.spotify.com/artist/1hHYi4Vy83BGo6TqKd98hu"
+        },
+        {
+          "name": "MamboLosco",
+          "url": "https://open.spotify.com/artist/4BFn4jmfqSNaHtPWHTcy41"
+        },
+        {
+          "name": "Andry The Hitmaker",
+          "url": "https://open.spotify.com/artist/6hb3ftxbKAFsOiNCdFbyzJ"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162705,
+      "name": "Cheerleader (feat. MamboLosco)",
+      "url": "https://open.spotify.com/track/0Fo0FNgaE0TkiunXZbrhvR"
+    },
+    {
+      "album": {
         "name": "Nove Chiamate",
         "url": "https://open.spotify.com/album/5r2DMxv3IGCkVIhksqgkFy"
       },
@@ -3280,6 +3328,32 @@
       "duration_ms": 157209,
       "name": "Fid\u00e8le",
       "url": "https://open.spotify.com/track/04nSLIugSHc12J7v4ansEL"
+    },
+    {
+      "album": {
+        "name": "Le cose cambiano",
+        "url": "https://open.spotify.com/album/50SWJ7Aq7XuSKl8SJYFnn9"
+      },
+      "artists": [
+        {
+          "name": "Massimo Pericolo",
+          "url": "https://open.spotify.com/artist/1El4YQA8oCXX7ynFSxRTFq"
+        },
+        {
+          "name": "Speranza",
+          "url": "https://open.spotify.com/artist/0W0oW3iaBwbtcXqdDrfC6F"
+        },
+        {
+          "name": "Rafil\u00f9",
+          "url": "https://open.spotify.com/artist/3ylMgftNTGy7cZgkWL82fJ"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205885,
+      "name": "Fils De Pute (feat. Speranza & Rafil\u00f9)",
+      "url": "https://open.spotify.com/track/24FFdPglqlH5uXwBwyY8kb"
     },
     {
       "album": {
@@ -4805,6 +4879,28 @@
     },
     {
       "album": {
+        "name": "PIZZA KEBAB Vol. 1",
+        "url": "https://open.spotify.com/album/36pfG4aLiawluO8PgGZkeh"
+      },
+      "artists": [
+        {
+          "name": "Ghali",
+          "url": "https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L"
+        },
+        {
+          "name": "Simba La Rue",
+          "url": "https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135652,
+      "name": "Machiavelli (feat. Simba La Rue)",
+      "url": "https://open.spotify.com/track/3KRwYDQt79HltHM1YHzQbl"
+    },
+    {
+      "album": {
         "name": "Madame",
         "url": "https://open.spotify.com/album/5di5PgxR4cs1PveHPkgKtr"
       },
@@ -5182,7 +5278,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 194675,
       "name": "MILANO",
       "url": "https://open.spotify.com/track/79gZiOMkdqpBquK2tClkbn"
@@ -5258,7 +5354,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 194250,
       "name": "Mocro Mafia (feat. Maes)",
       "url": "https://open.spotify.com/track/0r8Pe1yr2aw04IXFP00sC5"
@@ -5630,6 +5726,32 @@
       "duration_ms": 131830,
       "name": "NFT rmx (feat. SPOOKYPBL)",
       "url": "https://open.spotify.com/track/7qaLq0r4JWX1JWS3wnxfCH"
+    },
+    {
+      "album": {
+        "name": "NiHao - Red Bull Posse",
+        "url": "https://open.spotify.com/album/1hj2cATljXkoHqP5ZNd9JQ"
+      },
+      "artists": [
+        {
+          "name": "Slings",
+          "url": "https://open.spotify.com/artist/0XMi14343o5LtUKVdKmMUj"
+        },
+        {
+          "name": "Diss Gacha",
+          "url": "https://open.spotify.com/artist/4TKF8KSK6bgHgszFxu5xzu"
+        },
+        {
+          "name": "Ele A",
+          "url": "https://open.spotify.com/artist/2p8QkcgkfvIcUTpudqcqRM"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225392,
+      "name": "NiHao - Red Bull Posse",
+      "url": "https://open.spotify.com/track/1PZFIe6MbNx400t7oKDog3"
     },
     {
       "album": {
@@ -6184,7 +6306,7 @@
       ],
       "date_added": "2023-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 206769,
       "name": "Passa Il Tempo (feat. Nabi)",
       "url": "https://open.spotify.com/track/2eVBudzixqw5GDDXy7D9H7"
@@ -6206,6 +6328,36 @@
       "duration_ms": 144400,
       "name": "Passaggi Di Mano",
       "url": "https://open.spotify.com/track/4J1mgFkAYXbDV2Zm2X1LlB"
+    },
+    {
+      "album": {
+        "name": "PIZZA KEBAB Vol. 1",
+        "url": "https://open.spotify.com/album/36pfG4aLiawluO8PgGZkeh"
+      },
+      "artists": [
+        {
+          "name": "Ghali",
+          "url": "https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L"
+        },
+        {
+          "name": "Tony Effe",
+          "url": "https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF"
+        },
+        {
+          "name": "Dylan",
+          "url": "https://open.spotify.com/artist/7h1amg0X7Q5d0D5KfuyKTg"
+        },
+        {
+          "name": "Side Baby",
+          "url": "https://open.spotify.com/artist/6PXiPeUVFrlaC1n8511ijT"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184724,
+      "name": "Paura E Delirio A Milano (feat. Tony Effe, Dylan, Side Baby)",
+      "url": "https://open.spotify.com/track/44hjRBoW648rQndFHKlgXQ"
     },
     {
       "album": {
@@ -6398,7 +6550,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 150987,
       "name": "POLO (feat. Geolier)",
       "url": "https://open.spotify.com/track/1BTMLhdA6ewk2uXuzMsQWQ"
@@ -6566,7 +6718,7 @@
       ],
       "date_added": "2023-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 154744,
       "name": "PSG",
       "url": "https://open.spotify.com/track/50sLmAcDOEkiMeTbZnDTLl"
@@ -7177,6 +7329,28 @@
     },
     {
       "album": {
+        "name": "Le cose cambiano",
+        "url": "https://open.spotify.com/album/50SWJ7Aq7XuSKl8SJYFnn9"
+      },
+      "artists": [
+        {
+          "name": "Massimo Pericolo",
+          "url": "https://open.spotify.com/artist/1El4YQA8oCXX7ynFSxRTFq"
+        },
+        {
+          "name": "Baby Gang",
+          "url": "https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150693,
+      "name": "Senza Di Me (feat. Baby Gang)",
+      "url": "https://open.spotify.com/track/6JJksqiePG5LUjiayW0Kre"
+    },
+    {
+      "album": {
         "name": "Senza Regole",
         "url": "https://open.spotify.com/album/1ppC0wJWfC0XupPWLr7ErY"
       },
@@ -7420,7 +7594,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 146961,
       "name": "SLS (ft. Gu\u00e8, Bello Figo) - Red Bull Posse",
       "url": "https://open.spotify.com/track/0MblKd4Gk1ppUG5EOLnbUl"
@@ -8690,7 +8864,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 147310,
       "name": "Victoria's Secret (feat. Niky Savage)",
       "url": "https://open.spotify.com/track/6e6l7PYajMX9SVpbEDqowH"

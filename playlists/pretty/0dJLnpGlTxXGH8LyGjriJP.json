@@ -6,7 +6,7 @@
     "name": "skillstreet",
     "url": "https://open.spotify.com/user/skillstreet"
   },
-  "snapshot_id": "ODcwLDMzMjFiZDM0NzQxZDBhNjI2OGM4ZDcxZTU0YjkyYTFlZDgzNTJkYTQ=",
+  "snapshot_id": "ODcxLDQ0N2U0YjUzOWE3MDMzNjk2MjdhMWMxODdhNGYwYTVkMmU5N2NiNzk=",
   "tracks": [
     {
       "added_at": "2022-05-25 21:35:35",
@@ -13391,6 +13391,30 @@
       "duration_ms": 124941,
       "name": "MONSTER",
       "url": "https://open.spotify.com/track/29UGVk5EL1xdfwUup4xi2t"
+    },
+    {
+      "added_at": "2023-12-01 00:23:46",
+      "album": {
+        "name": "Brand New",
+        "url": "https://open.spotify.com/album/0p82QxkLngaHhRkbET3IZ0"
+      },
+      "artists": [
+        {
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+        },
+        {
+          "name": "YG",
+          "url": "https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        }
+      ],
+      "duration_ms": 182532,
+      "name": "Brand New",
+      "url": "https://open.spotify.com/track/3MbOT5mzE94Ne0Hv51akoS"
     }
   ],
   "unique_name": "locked tf in\ud83d\udd12",

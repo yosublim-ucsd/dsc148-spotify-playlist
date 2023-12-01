@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Fall in love with the sensual sounds of Kizomba! Cover: Irina Barros.  ",
+  "description": "Fall in love with the sensual sounds of Kizomba! Cover: Cubita.  ",
   "name": "Dancing Kizomba",
   "tracks": [
     {
@@ -688,7 +688,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 291960,
       "name": "Belissima",
       "url": "https://open.spotify.com/track/720YR0UhybUYFQUU4ZAWwP"
@@ -958,6 +958,24 @@
       "duration_ms": 206938,
       "name": "Bypass",
       "url": "https://open.spotify.com/track/2mQ3Z8eMnQ1JMuAvwlEG3S"
+    },
+    {
+      "album": {
+        "name": "Museu",
+        "url": "https://open.spotify.com/album/1aMmsWFPsp3xmSoOS6a1LH"
+      },
+      "artists": [
+        {
+          "name": "Cubita",
+          "url": "https://open.spotify.com/artist/22uy6DyvpF9Vt2PMWSm5di"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184242,
+      "name": "Cabo Verde",
+      "url": "https://open.spotify.com/track/4ZaJIFetJil7VcxS6v4acb"
     },
     {
       "album": {
@@ -4651,6 +4669,28 @@
     },
     {
       "album": {
+        "name": "Preta",
+        "url": "https://open.spotify.com/album/1PfAv5hpqTc0Zc6rrgTKJi"
+      },
+      "artists": [
+        {
+          "name": "Yasmine",
+          "url": "https://open.spotify.com/artist/1E1m4bwOYgSMH4Q8o7DJYr"
+        },
+        {
+          "name": "Neyna",
+          "url": "https://open.spotify.com/artist/6lrpKiPnrnPLeKxKqIq7A7"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203107,
+      "name": "Preta",
+      "url": "https://open.spotify.com/track/4aYX27PWIeyMVpxJhTMXjv"
+    },
+    {
+      "album": {
         "name": "Pronto para Te Dar",
         "url": "https://open.spotify.com/album/4yS7dpPZQz1bSmRz2yftQo"
       },
@@ -4854,7 +4894,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 218852,
       "name": "Reagi",
       "url": "https://open.spotify.com/track/28TKKqjvFEzjdySF7xqLr9"

@@ -4,7 +4,7 @@
 
 > Listen hot and new Korean classical & new age  music in here! \(Cover: Forestella\(포레스텔라\)\) 한국 클래식 음악 핫 & 최신 트랙들을 만나보세요!
 
-96 songs - 8 hr 2 min
+98 songs - 8 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,8 +98,10 @@
 | [Variations on a Theme of Corelli, Op\. 42: Var\. 1\. Poco più mosso](https://open.spotify.com/track/0N6gEgu138TistgGvFFaeW) | [Sergei Rachmaninoff](https://open.spotify.com/artist/0Kekt6CKSo0m5mivKcoH51), [Yekwon Sunwoo](https://open.spotify.com/artist/2pR8C1gs05nq2Wc9OL6irv) | [Rachmaninoff, A Reflection](https://open.spotify.com/album/1ETZFwejOUfhRVxkhG8WmC) | 0:41 | 2023-09-13 |  |
 | [Violin Concerto No\. 1 in G Minor, Op\. 26: III\. Finale\. Allegro energico](https://open.spotify.com/track/0grBNFBmjb8abbgcVuqygz) | [Max Bruch](https://open.spotify.com/artist/0521x50ZcNqqT1fKMJg5c5), [Esther Yoo](https://open.spotify.com/artist/5nxfecQzSK5KWsygb0IXiC), [Royal Philharmonic Orchestra](https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1), [Vasily Petrenko](https://open.spotify.com/artist/6H9eOWeGZkU9alBUYqNR7Q) | [Barber, Bruch](https://open.spotify.com/album/2BgZFALmsQgLCpIskqkIUk) | 7:28 | 2023-09-13 |  |
 | [Violin Concerto No\. 2, BB 117: I\. Allegro non troppo](https://open.spotify.com/track/7GZP28qyjxjNMI1d0jgEMf) | [Béla Bartók](https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd), [Lee Jong Eun](https://open.spotify.com/artist/3Z99KEDvrRSX1hRfYpcy4u) | [Bartok Violin Concerto](https://open.spotify.com/album/3Enk3LYRadSz1HjBKk11f4) | 16:55 | 2023-09-13 |  |
-| [We Contain Multitudes](https://open.spotify.com/track/2WzVKUgz02wA3OyPvxPhL0) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [We Contain Multitudes — piano reworks](https://open.spotify.com/album/4vtunVFmIlrxIrkOobdfDH) | 3:18 | 2023-09-13 |  |
-| [We Contain Multitudes — piano reworks](https://open.spotify.com/track/1rpF77jsLBMG2QjCuhe0Sr) | [Yiruma](https://open.spotify.com/artist/0fauHpmSHwodVYIjTqOGHz), [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [We Contain Multitudes — piano reworks](https://open.spotify.com/album/4vtunVFmIlrxIrkOobdfDH) | 4:24 | 2023-09-13 |  |
+| [We Contain Multitudes](https://open.spotify.com/track/2WzVKUgz02wA3OyPvxPhL0) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [We Contain Multitudes — piano reworks](https://open.spotify.com/album/4vtunVFmIlrxIrkOobdfDH) | 3:18 | 2023-09-13 | 2023-12-01 |
+| [We Contain Multitudes](https://open.spotify.com/track/4SrMWTrs3io7FJXAHSo43c) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [some kind of peace](https://open.spotify.com/album/6NW97EFYSQ9X1CulKyL7wf) | 3:18 | 2023-11-15 |  |
+| [We Contain Multitudes — piano reworks](https://open.spotify.com/track/1eDy2A3euqy3axIdoKgQd5) | [Yiruma](https://open.spotify.com/artist/0fauHpmSHwodVYIjTqOGHz), [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [some kind of peace — piano reworks](https://open.spotify.com/album/79a34uOB7jdMrSECClgqOv) | 4:24 | 2023-11-15 |  |
+| [We Contain Multitudes — piano reworks](https://open.spotify.com/track/1rpF77jsLBMG2QjCuhe0Sr) | [Yiruma](https://open.spotify.com/artist/0fauHpmSHwodVYIjTqOGHz), [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [We Contain Multitudes — piano reworks](https://open.spotify.com/album/4vtunVFmIlrxIrkOobdfDH) | 4:24 | 2023-09-13 | 2023-12-01 |
 | [We Will Be One](https://open.spotify.com/track/6d8FfbeQRPThAt4Xl5PQWT) | [Sumi Jo](https://open.spotify.com/artist/2QJJHCdkMmlbff1beZnAz6) | [We Will Be One](https://open.spotify.com/album/2u0bEo4WR4tvQHNlcvYQZV) | 3:03 | 2023-09-13 |  |
 | [Welcome To SMCU PALACE](https://open.spotify.com/track/3EyZKeSteCNatEQuVlkm9a) | [SM Classics TOWN Orchestra](https://open.spotify.com/artist/5uv1gQAOE14WiuRMvqfesF) | [2022 Winter SMTOWN : SMCU PALACE](https://open.spotify.com/album/1HwnXJfZx8N8qDfzwUbxcw) | 2:09 | 2023-09-13 |  |
 | [when it snows in May](https://open.spotify.com/track/26EiFb8JMXdwKWCkT4cc6Q) | [Yiruma](https://open.spotify.com/artist/0fauHpmSHwodVYIjTqOGHz) | [non è la fine](https://open.spotify.com/album/1McKSuePf6bCk42GhMWHOR) | 2:25 | 2023-09-13 |  |

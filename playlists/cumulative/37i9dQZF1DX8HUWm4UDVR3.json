@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-07-29",
-  "description": "La pop fran\u00e7aise annonce la couleur. Photo : Z\u00e9lie",
+  "description": "La pop fran\u00e7aise annonce la couleur. Photo : Ad\u00e9",
   "name": "Couleur Pop",
   "tracks": [
     {
@@ -195,6 +195,24 @@
     },
     {
       "album": {
+        "name": "BEST LIFE",
+        "url": "https://open.spotify.com/album/3lkMSvubaannkhFlv8lyg1"
+      },
+      "artists": [
+        {
+          "name": "Mauvaise Bouche",
+          "url": "https://open.spotify.com/artist/5kmLM9mSvPHT8SxGS9DqCo"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170546,
+      "name": "BEST LIFE",
+      "url": "https://open.spotify.com/track/5Qjk0a7VO87YfIVacHJVgG"
+    },
+    {
+      "album": {
         "name": "Nagasaki",
         "url": "https://open.spotify.com/album/7je4NzsgC07H1xxFZR0g8s"
       },
@@ -332,7 +350,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 165826,
       "name": "CONS\u2019 DE LOVE",
       "url": "https://open.spotify.com/track/73eih2FtSIuGkKvqZpMGnW"
@@ -624,6 +642,24 @@
       "duration_ms": 141496,
       "name": "F\u00eate des ann\u00e9es 70",
       "url": "https://open.spotify.com/track/2C8FoGkNZ59r0e4tkVTby5"
+    },
+    {
+      "album": {
+        "name": "Nuits bleues",
+        "url": "https://open.spotify.com/album/6qh5Kq92rJISNj2DpKpOpU"
+      },
+      "artists": [
+        {
+          "name": "Elena Copsi",
+          "url": "https://open.spotify.com/artist/5YafOG1cCGaf4dpzCNVPXm"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170721,
+      "name": "Heureux",
+      "url": "https://open.spotify.com/track/6g5rAr2XNdeTHz7XtSCb8l"
     },
     {
       "album": {
@@ -1065,6 +1101,24 @@
     },
     {
       "album": {
+        "name": "Meilleur",
+        "url": "https://open.spotify.com/album/03Wh09RLnT9UXIsKt140iV"
+      },
+      "artists": [
+        {
+          "name": "M\u00e9t\u00e9o Mirage",
+          "url": "https://open.spotify.com/artist/76eO2ty9LXEKOITbJq6pCc"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152932,
+      "name": "Meilleur",
+      "url": "https://open.spotify.com/track/1uWAA7bT9eqw0Na9iExWSK"
+    },
+    {
+      "album": {
         "name": "Regarde-moi",
         "url": "https://open.spotify.com/album/0yHJkjaOVLRH5VZajnYHr9"
       },
@@ -1492,7 +1546,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 192626,
       "name": "Rien que pour moi",
       "url": "https://open.spotify.com/track/0YybOkMiz3kJLimXFJaKhU"
@@ -1644,7 +1698,7 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 184119,
       "name": "SPQ",
       "url": "https://open.spotify.com/track/56LuwIO3bDdZNjbMIcbVGL"

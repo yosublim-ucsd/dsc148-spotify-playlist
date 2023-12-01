@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWnMZKMl7SWB.md) - [plain]
 
 > Bases suaves para inspirarte mientras trabajas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 621,639 likes - 650 songs - 1 day 0 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 621,594 likes - 650 songs - 1 day 0 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -659,4 +659,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWnMZKMl7SWB.md) - [plain]
 | 649 | [Moon Phase](https://open.spotify.com/track/5KOqtQpmBD6JutK8lVTsUK) | [Otis Neon](https://open.spotify.com/artist/3GMuWlPjxsaDOInrqPP1k5) | [Moon Phase](https://open.spotify.com/album/5lPRMxLfVtRwVgHH3XJmhd) | 1:47 |
 | 650 | [Off you go!](https://open.spotify.com/track/29szXKFMvX88CTRKJQ2S87) | [Wavy Naps](https://open.spotify.com/artist/0kFUFC571jik6K7viLxtPX) | [Off you go!](https://open.spotify.com/album/5lSDbRWbpOevHM0XD79OJ6) | 2:52 |
 
-Snapshot ID: `MCw1YTQ2MjM2MzcyYTVkNTdjMjgxZThlY2UxNWFkN2FmNTFjZGI3OTgy`
+Snapshot ID: `MCwyMDhhOTQ4NDEzMjY5NTEzMWRiZDkyYTQ5NDg2ZDViOGE3MzFmMjlh`

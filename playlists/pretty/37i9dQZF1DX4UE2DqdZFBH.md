@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4UE2DqdZFBH.md) - [plain]
 
 > Unwind to the real beauty of Instrumentals!
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,344 likes - 104 songs - 8 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,353 likes - 104 songs - 8 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -113,4 +113,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4UE2DqdZFBH.md) - [plain]
 | 103 | [Hues \(feat\. Seb Read & Sandeep Chowta\)](https://open.spotify.com/track/6sQVBmXclpJicLCPM2hZ6G) | [Abhay Nayampally](https://open.spotify.com/artist/6gMthCwlWiJ0dq7lvDitTa), [Sandeep Chowta](https://open.spotify.com/artist/4eqUmWQwI1nm86edvyGsXy), [Seb Read](https://open.spotify.com/artist/5IdebZbdwhXbLRj9dVVPOR) | [Abhay Nayampally](https://open.spotify.com/album/6QhwQscRUGJ0C4E1xj9Uga) | 5:43 |
 | 104 | [So...Now Hear This](https://open.spotify.com/track/0qA1raigGUBHtn8AIU1sj0) | [Abhay Nayampally](https://open.spotify.com/artist/6gMthCwlWiJ0dq7lvDitTa) | [Abhay Nayampally](https://open.spotify.com/album/6QhwQscRUGJ0C4E1xj9Uga) | 5:09 |
 
-Snapshot ID: `MCw4YmNkYmJhMjNiYThlZTExOWI1NzU1MjRkNzE1M2QwMjIwMWEwMDAz`
+Snapshot ID: `MCw3ZmFiNjc0M2RjYTIzOGE4MjA4NDUxNmIxNjU1NzNmNDI1OTE3YTAw`

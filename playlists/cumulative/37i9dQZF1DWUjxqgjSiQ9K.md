@@ -4,7 +4,7 @@
 
 > Las canciones de fe que más se escuchan en Latinoamérica\.  Foto: <a href="spotify:artist:2TkDdk47FGnvxcjQGDdPd0">Kike Pavón</a>
 
-512 songs - 1 day 15 hr 23 min
+513 songs - 1 day 15 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,7 +96,8 @@
 | [Come What May \(Spanish/English Version\)](https://open.spotify.com/track/5KxMKSeGHvTCL0cFRtUwPz) | [We Are Messengers](https://open.spotify.com/artist/5WcisvYoq6332gCUX039Jd), [Aaron Moses](https://open.spotify.com/artist/4QzrhxZWtXfuW6rZATPTE7) | [Come What May \(Spanish/English Version\)](https://open.spotify.com/album/6KKUvTtlXEepTEK2BYb2Yy) | 3:24 | 2022-09-16 | 2023-08-26 |
 | [Como Eh](https://open.spotify.com/track/2CTBMhHS3GIs8LlC1xXBwj) | [Niko Eme](https://open.spotify.com/artist/4jLWtcGrESS5YvRip2ATmL), [Lizzy Parra](https://open.spotify.com/artist/1Cm5r6LqrFQDuA0F4KUIQz) | [Como Eh](https://open.spotify.com/album/3Nt8Qr22mhCSOJ1jQXp9YI) | 2:49 | 2022-07-15 | 2022-08-20 |
 | [Con Qué Pagaré?](https://open.spotify.com/track/2LKYoKY35J9bd69QLbGOoG) | [Pablo Martinez](https://open.spotify.com/artist/5IirgPwhfjHp6MDFXbLRdz), [Cristóbal Fones, Sj](https://open.spotify.com/artist/4Jqs0PJ4Q5gmz1WzS1OUHk) | [Con Qué Pagaré?](https://open.spotify.com/album/5SOg5hB6NprWFePQ4uRcn7) | 3:32 | 2022-08-19 | 2022-09-17 |
-| [Confía \- En Vivo](https://open.spotify.com/track/7DjUWgkFpJVrTDL5m2bmqt) | [New Wine](https://open.spotify.com/artist/5W9IQJnGvBYP8VOChmSpU6) | [Lugar Secreto \(En Vivo\)](https://open.spotify.com/album/2p9jYFk29y9u9STPyWaqns) | 4:30 | 2023-04-14 |  |
+| [Confía \- En Vivo](https://open.spotify.com/track/7DjUWgkFpJVrTDL5m2bmqt) | [New Wine](https://open.spotify.com/artist/5W9IQJnGvBYP8VOChmSpU6) | [Lugar Secreto \(En Vivo\)](https://open.spotify.com/album/2p9jYFk29y9u9STPyWaqns) | 4:30 | 2023-04-14 | 2023-12-01 |
+| [Confía \- En Vivo](https://open.spotify.com/track/7GIv9QngRgd0oc12Umc3Pc) | [New Wine](https://open.spotify.com/artist/5W9IQJnGvBYP8VOChmSpU6) | [Lugar Secreto \(En Vivo\)](https://open.spotify.com/album/6ITdWQDRJ40si7dDr4tckE) | 4:30 | 2023-11-10 |  |
 | [Construiré Mi Vida](https://open.spotify.com/track/5m9T3o8tBpkFlqMlkwbVh7) | [Pat Barrett](https://open.spotify.com/artist/0289SkqAn0iOohwm0pIHv3) | [Construiré Mi Vida](https://open.spotify.com/album/2sqh2FQIadwmWaycktFzkr) | 4:28 | 2022-02-25 | 2022-06-11 |
 | [Construiré Mi Vida // Digno De Adorar](https://open.spotify.com/track/2Fjo0giimkpqgSdTOCwyRS) | [SioVera](https://open.spotify.com/artist/6mEJxv4yQ0uvEZ023sKEPt) | [Adoración](https://open.spotify.com/album/4kOjEbqrPJyucxl0eCqwkP) | 3:36 | 2023-11-03 |  |
 | [Construiré Mi Vida // Digno De Adorar](https://open.spotify.com/track/7vVOmQqBuI2vLQvOs3jK1S) | [SioVera](https://open.spotify.com/artist/6mEJxv4yQ0uvEZ023sKEPt) | [Construiré Mi Vida // Digno De Adorar](https://open.spotify.com/album/375WLK7rEnQhwwnhWQ3Wl9) | 3:36 | 2023-09-08 | 2023-11-10 |

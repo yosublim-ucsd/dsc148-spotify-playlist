@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "The best new indie music from South Africa and beyond. Cover: <a href=\"https://open.spotify.com/artist/3S9sb8w9r1iojdrAL1soiU?si=MhhOT8hQRVm7-aNkyYmJJw\">Beatenberg</a> ",
+  "description": "The best new indie music from South Africa and beyond. Cover: <a href=\"https://open.spotify.com/artist/7tYRwBffjJ0FiLIkPTCGMQ?si=aFtrFUI-Q_C9m5BTxRSR3g\">Corbon Amodio</a> ",
   "name": "SAlt",
   "tracks": [
     {
@@ -446,6 +446,24 @@
       "duration_ms": 202676,
       "name": "Amplified",
       "url": "https://open.spotify.com/track/7iAvEBj3p8VtXmMd68jdQx"
+    },
+    {
+      "album": {
+        "name": "Another Moon",
+        "url": "https://open.spotify.com/album/5I5zMDrXfXo548DYZoMS9Y"
+      },
+      "artists": [
+        {
+          "name": "M Field",
+          "url": "https://open.spotify.com/artist/2YCr3gD8aO0ck8k4i5vhU3"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228106,
+      "name": "Another Moon",
+      "url": "https://open.spotify.com/track/6hwQxKDVmYHnDxp1Qc8yOd"
     },
     {
       "album": {
@@ -1385,6 +1403,24 @@
     },
     {
       "album": {
+        "name": "Bugs",
+        "url": "https://open.spotify.com/album/5kB7reZs3LuqpBEqJkpIZl"
+      },
+      "artists": [
+        {
+          "name": "Sasha Dawe",
+          "url": "https://open.spotify.com/artist/3tnBZhxy5Dd7tqb8njoxNL"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170353,
+      "name": "Bugs",
+      "url": "https://open.spotify.com/track/0pzdkZUuzxPikHWfqxEOI8"
+    },
+    {
+      "album": {
         "name": "BULLSHIT",
         "url": "https://open.spotify.com/album/2leqLPJD8i4vkVzzvcZEUv"
       },
@@ -1400,6 +1436,24 @@
       "duration_ms": 147900,
       "name": "BULLSHIT",
       "url": "https://open.spotify.com/track/7fcL6j5ndJeVpjehFynz7I"
+    },
+    {
+      "album": {
+        "name": "buoy of the suns",
+        "url": "https://open.spotify.com/album/6roZV8sbxy2Z6c1EXBKgpW"
+      },
+      "artists": [
+        {
+          "name": "aboynamedblu",
+          "url": "https://open.spotify.com/artist/4DCRHW4ITYEaA0qmW3PYJj"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183616,
+      "name": "buoy of the suns",
+      "url": "https://open.spotify.com/track/3KF40oafjsqq2P2Fki8Lli"
     },
     {
       "album": {
@@ -2174,6 +2228,24 @@
       "duration_ms": 257000,
       "name": "Death Brought Me Back To Life",
       "url": "https://open.spotify.com/track/701QDuwaMyf6gcairQY97Z"
+    },
+    {
+      "album": {
+        "name": "Growing Pains",
+        "url": "https://open.spotify.com/album/1gsUXrjZs7qEjhO3SH8kf9"
+      },
+      "artists": [
+        {
+          "name": "Cailyn Shelby",
+          "url": "https://open.spotify.com/artist/5PoEZZBQBeImvPHCu7RH7N"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205845,
+      "name": "Demons",
+      "url": "https://open.spotify.com/track/1fK8bMrjQ20w3NDT0IshK9"
     },
     {
       "album": {
@@ -2960,7 +3032,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 143100,
       "name": "FEELING IT",
       "url": "https://open.spotify.com/track/5tKM15EmEHGRufPvR2Prqi"
@@ -3112,7 +3184,7 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 207245,
       "name": "Flatline",
       "url": "https://open.spotify.com/track/3ub3AsPkOLkLDQenm2pRTq"
@@ -3523,6 +3595,24 @@
     },
     {
       "album": {
+        "name": "love me i'm burning",
+        "url": "https://open.spotify.com/album/3Hu6LYnFe8okEM8hmkQTXH"
+      },
+      "artists": [
+        {
+          "name": "Corbon Amodio",
+          "url": "https://open.spotify.com/artist/7tYRwBffjJ0FiLIkPTCGMQ"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126879,
+      "name": "haunt me~",
+      "url": "https://open.spotify.com/track/4LPhSuFr2GKN11Mn0ssxYM"
+    },
+    {
+      "album": {
         "name": "Head Start (Fresh Start)",
         "url": "https://open.spotify.com/album/5HIe6iAa0joluCQmVuajkI"
       },
@@ -3570,7 +3660,7 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 205102,
       "name": "hearing faces",
       "url": "https://open.spotify.com/track/3aIOgiGUBjEBiVAoaRbEgx"
@@ -3606,7 +3696,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 187559,
       "name": "Hello!",
       "url": "https://open.spotify.com/track/3UTEuU57JBaP9JEIyz52vp"
@@ -3912,7 +4002,7 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 166400,
       "name": "Honey",
       "url": "https://open.spotify.com/track/3IFTcBFpRSB9GBg3cJzYmJ"
@@ -4184,6 +4274,24 @@
       "duration_ms": 181573,
       "name": "I Need You",
       "url": "https://open.spotify.com/track/1TOXyfF6p6coOOhmevQe70"
+    },
+    {
+      "album": {
+        "name": "I Probably Love You",
+        "url": "https://open.spotify.com/album/25O5cnVA8BXaic8QtRhlIe"
+      },
+      "artists": [
+        {
+          "name": "Sulene",
+          "url": "https://open.spotify.com/artist/3H0Mdkhat3ZJFgKxLHEymg"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167077,
+      "name": "I Probably Love You",
+      "url": "https://open.spotify.com/track/37meDLSNHtlpjjwRYavOus"
     },
     {
       "album": {
@@ -4848,7 +4956,7 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 148605,
       "name": "Last Night in Paradise",
       "url": "https://open.spotify.com/track/7hRtGpf7en7OtfEGdTShuo"
@@ -5380,7 +5488,7 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 270000,
       "name": "maipfi",
       "url": "https://open.spotify.com/track/4IsZWBSV0kkpmKG2FhM0Dg"
@@ -5665,6 +5773,24 @@
     },
     {
       "album": {
+        "name": "Mood Mirror",
+        "url": "https://open.spotify.com/album/5DYB3IdprbVY0dS6trMKe2"
+      },
+      "artists": [
+        {
+          "name": "Royalingo",
+          "url": "https://open.spotify.com/artist/1gQ0zDi6JkHvgL4VV4zswk"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220407,
+      "name": "Mood Mirror",
+      "url": "https://open.spotify.com/track/2gra58iF6hlaP738ul6Cr6"
+    },
+    {
+      "album": {
         "name": "Mother",
         "url": "https://open.spotify.com/album/6d27t0lgtkKkjjeJ55fHzq"
       },
@@ -5914,7 +6040,7 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 212142,
       "name": "next to me",
       "url": "https://open.spotify.com/track/21GXvxNrCD86TOCJSAy7wC"
@@ -8055,6 +8181,24 @@
     },
     {
       "album": {
+        "name": "Speed of Love",
+        "url": "https://open.spotify.com/album/2eq1ug5pXT9pH8yLOunhf6"
+      },
+      "artists": [
+        {
+          "name": "Neolodics",
+          "url": "https://open.spotify.com/artist/7xfyYeBJvTSOusMfKgMXH6"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164693,
+      "name": "Speed of Love",
+      "url": "https://open.spotify.com/track/5pdQ4Y1xvoBm0irEvF07gm"
+    },
+    {
+      "album": {
         "name": "Stagefright",
         "url": "https://open.spotify.com/album/3pHBAx4it2Z9LlqSJGJF4j"
       },
@@ -8222,7 +8366,7 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 153600,
       "name": "Still Here",
       "url": "https://open.spotify.com/track/6qNZb2B2C0G8fmz5CjwM93"
@@ -10078,6 +10222,24 @@
       "duration_ms": 264367,
       "name": "With You",
       "url": "https://open.spotify.com/track/15FipwvwpsyKDbTWQoEC3O"
+    },
+    {
+      "album": {
+        "name": "Legacy Of Love",
+        "url": "https://open.spotify.com/album/4nSeHpoIVpaNz5le6nX1Xo"
+      },
+      "artists": [
+        {
+          "name": "JPson",
+          "url": "https://open.spotify.com/artist/4s9YSRHrBFUpUZPWk2mwIG"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274971,
+      "name": "Wolves At War",
+      "url": "https://open.spotify.com/track/0U2LVmr7cqEmKfdSC5yo1I"
     },
     {
       "album": {

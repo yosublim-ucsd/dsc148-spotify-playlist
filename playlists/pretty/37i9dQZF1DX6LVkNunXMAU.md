@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6LVkNunXMAU.md) - [plain]
 
 > Dulce y ácido: indie pop latino en estado natural\. Foto: Paola Navarrete & Adanowsky.
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,743 likes - 100 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,767 likes - 100 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6LVkNunXMAU.md) - [plain]
 | 99 | [Amigos](https://open.spotify.com/track/3paGS7YujQAdNtfVUVMo7m) | [Cineplexx](https://open.spotify.com/artist/3lYwzzMJbMCXmBqjo0OdSz), [Sabina Odone](https://open.spotify.com/artist/6RCzTQcz74WFBYsX0xz9Pj) | [Amigos](https://open.spotify.com/album/4BZG3VdjcUO9c0fRoUaKHj) | 3:34 |
 | 100 | [Huracán](https://open.spotify.com/track/6Y6KYwYb1l5F0CgFtVG1sO) | [Andres](https://open.spotify.com/artist/4eAz1Oum61CGHwMUl9CZ9f) | [Huracán](https://open.spotify.com/album/3tIxBNnKOBFAVZuvaUQByf) | 2:41 |
 
-Snapshot ID: `MCw1ODM1M2E1N2VlNWI2MjQxZDU0NDY1ZDkzM2Y0ZjgxMmZlYjYyN2Qx`
+Snapshot ID: `MCw1NTY0MWU2YWZkZWU2ODZjMmE2ZDNmNzQzN2Y0YmY0MjBmYWEzYWYx`

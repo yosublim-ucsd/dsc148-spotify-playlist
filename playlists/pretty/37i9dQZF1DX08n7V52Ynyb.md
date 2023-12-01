@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX08n7V52Ynyb.md) - [plain]
 
 > Soft and smooth vocal Jazz to help you relax and unwind.
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,862 likes - 125 songs - 9 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,929 likes - 125 songs - 9 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX08n7V52Ynyb.md) - [plain]
 | 124 | [December](https://open.spotify.com/track/5nn9JFlelUmEz1oyuoMZaf) | [Ferruccio Spinetti](https://open.spotify.com/artist/2fhNoOh4SrsOEXPWXxpD1f), [Jeff Ballard](https://open.spotify.com/artist/76q6tJ5SRqReZwwCfdzr4I), [Giovanni Ceccarelli](https://open.spotify.com/artist/2z9cZflQ6YSCzLx9E39HgG), [Elena Romano](https://open.spotify.com/artist/1dvr2msLhESCag8R6xHnDE) | [Arie](https://open.spotify.com/album/41OhmZ2TLcw4W8yKQatoYT) | 4:25 |
 | 125 | [Bye Bye Blackbird](https://open.spotify.com/track/0ZdIvdu9qqSUDOyUth6zcK) | [Hila Hutmacher](https://open.spotify.com/artist/0jMVNWZAjSmbQffwsfrBtW) | [Just Friends](https://open.spotify.com/album/1cDB19llZ9d3TrdU2hRl2M) | 5:57 |
 
-Snapshot ID: `MCxlMTBmYTgyOWFkMWVhOTMzZjMzZDVjNTNlMTg5YmZlMzI3MDk2ODcw`
+Snapshot ID: `MCw0NjVlN2I0ZTA5NWRjY2QxYWUzMmRiMzZmMDE0ODczNzc1NzNjOGU0`

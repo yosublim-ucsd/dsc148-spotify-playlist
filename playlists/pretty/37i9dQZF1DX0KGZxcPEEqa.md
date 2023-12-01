@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KGZxcPEEqa.md) - [plain]
 
 > Digging deep into the history of 10s pop: Cover: Ariana Grande.
 
-[Spotify](https://open.spotify.com/user/spotify) - 186,788 likes - 400 songs - 23 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 186,871 likes - 400 songs - 23 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -409,4 +409,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KGZxcPEEqa.md) - [plain]
 | 399 | [Come Closer](https://open.spotify.com/track/78grBouzwHBGAXf7wkffwq) | [Lou and Matthew](https://open.spotify.com/artist/43Ij4TGofSYrrATCUydG6Z) | [Come Closer](https://open.spotify.com/album/4bx5gP3WA2wpkpE5zUrQZp) | 3:40 |
 | 400 | [Dancing \(Mumbai Wedding\)](https://open.spotify.com/track/4QfUafNI4ezTRvlLeOWZVr) | [NONONO](https://open.spotify.com/artist/513t0jZUP0K98C4h7KHtEb) | [Dancing \(Mumbai Wedding\)](https://open.spotify.com/album/3Zioqc5SIZJUUFudy9zkRk) | 3:27 |
 
-Snapshot ID: `MCxhY2ViNWI4YzI0YTFhNzkwYzliNjQ3ZDg0N2I0ZTI3NDIxZTY2YjM1`
+Snapshot ID: `MCxhMDEyMWE0ODVjZGQwODcyMGVjOGE4MDdhNjJkMjIwZTMxNjkzYTNi`

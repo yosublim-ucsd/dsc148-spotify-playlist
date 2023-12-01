@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUS3jbm4YExP.md) - [plain]
 
 > Groovy sounds from around the world.
 
-[Spotify](https://open.spotify.com/user/spotify) - 682,177 likes - 150 songs - 10 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 682,393 likes - 150 songs - 10 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUS3jbm4YExP.md) - [plain]
 | 149 | [Déjà vu](https://open.spotify.com/track/65AkOkjVMHm8gwdg0j2khw) | [Popa](https://open.spotify.com/artist/3v3PilwftiZCpC4msQRNyB) | [Déjà vu](https://open.spotify.com/album/4mMT077W7zWQvtBJQNABkm) | 3:05 |
 | 150 | [Afande](https://open.spotify.com/track/43m8rKCOHn5WIFnPLorqdI) | [Skinshape](https://open.spotify.com/artist/1itM5tXaK5THggpXA7ovAe), [Idd Aziz](https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk) | [Afande](https://open.spotify.com/album/4vYCv3i9i3jSe0EyZDsy5F) | 5:23 |
 
-Snapshot ID: `MCwxYzhjMTM4MGEzYzk5OGU5MTExMjFmNDFlNTkyM2MzN2JkMTZkMzFl`
+Snapshot ID: `MCxkYzZiODNiNjBlNDMzYjQwODhiNTU1ZGRiYjI3ZTZiZWI2MzA5ZDA0`

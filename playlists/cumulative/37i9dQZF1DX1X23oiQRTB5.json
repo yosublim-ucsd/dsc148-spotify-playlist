@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-10",
-  "description": "Gazo x Fav\u00e9 au top de la premi\u00e8re playlist de rap fran\u00e7ais !",
+  "description": "Gazo x Tiakola au top de la premi\u00e8re playlist de rap fran\u00e7ais !",
   "name": "PVNCHLNRS",
   "tracks": [
     {
@@ -1040,7 +1040,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 193270,
       "name": "Derni\u00e8re ligne droite (feat. Laylow)",
       "url": "https://open.spotify.com/track/25ph3mbSI8iOkaNGPtrUwk"
@@ -1752,6 +1752,24 @@
       "duration_ms": 171293,
       "name": "HRTBRK #6",
       "url": "https://open.spotify.com/track/4oujvmTUXlPr6jWTWuzfAK"
+    },
+    {
+      "album": {
+        "name": "HRTBRK #7",
+        "url": "https://open.spotify.com/album/13de85MorIzPbSp7cE2642"
+      },
+      "artists": [
+        {
+          "name": "Kaza",
+          "url": "https://open.spotify.com/artist/4MRRW42s9ymwa5zu4xTKJh"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184650,
+      "name": "HRTBRK #7",
+      "url": "https://open.spotify.com/track/3opEx8XXOQ9nv1tLdKhLdc"
     },
     {
       "album": {
@@ -2467,6 +2485,24 @@
     },
     {
       "album": {
+        "name": "LOYAL",
+        "url": "https://open.spotify.com/album/5ua3ScbhrRD4fPu8G9YOtf"
+      },
+      "artists": [
+        {
+          "name": "La F\u00e8ve",
+          "url": "https://open.spotify.com/artist/2sBKOwN0fSjx39VtL2WpjJ"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228192,
+      "name": "LOYAL",
+      "url": "https://open.spotify.com/track/5W9JWRvM5nTLCz8Z9aW2NS"
+    },
+    {
+      "album": {
         "name": "Ma Came",
         "url": "https://open.spotify.com/album/2R9xCcqvgr4UCFfN3JvviO"
       },
@@ -2810,7 +2846,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 152546,
       "name": "Meuda",
       "url": "https://open.spotify.com/track/4wNyrbY6B2Okii8VeKo2B2"
@@ -3113,6 +3149,28 @@
     },
     {
       "album": {
+        "name": "LA MELO EST GANGX",
+        "url": "https://open.spotify.com/album/4C9mVDiMHuxOZ2eORwkCE1"
+      },
+      "artists": [
+        {
+          "name": "Gazo",
+          "url": "https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I"
+        },
+        {
+          "name": "Tiakola",
+          "url": "https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216386,
+      "name": "NOTRE DAME",
+      "url": "https://open.spotify.com/track/5RJcEoBhxDo8QgmKfr3JG8"
+    },
+    {
+      "album": {
         "name": "On se reverra plus (feat. Gazo)",
         "url": "https://open.spotify.com/album/32VE0P5COsxE3H6siYNZxO"
       },
@@ -3346,7 +3404,7 @@
       ],
       "date_added": "2023-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 228575,
       "name": "Philly",
       "url": "https://open.spotify.com/track/0KZwbPHcktfHL3OCxXzoYu"
@@ -3422,7 +3480,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 181649,
       "name": "Quali",
       "url": "https://open.spotify.com/track/1FiWe3fM6toG3XapfJpJBY"
@@ -3934,6 +3992,24 @@
       "duration_ms": 231586,
       "name": "SPECIAL (feat. Nekfeu & Foushe\u00e9)",
       "url": "https://open.spotify.com/track/11HLDMuPD3wh88XHw4udKO"
+    },
+    {
+      "album": {
+        "name": "Sport Billy",
+        "url": "https://open.spotify.com/album/0ETFEUoh6Ii8Lhr8TJdjjV"
+      },
+      "artists": [
+        {
+          "name": "Booba",
+          "url": "https://open.spotify.com/artist/58wXmynHaAWI5hwlPZP3qL"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129908,
+      "name": "Sport Billy",
+      "url": "https://open.spotify.com/track/04NLVvskT61Zh6SODtr6ZP"
     },
     {
       "album": {

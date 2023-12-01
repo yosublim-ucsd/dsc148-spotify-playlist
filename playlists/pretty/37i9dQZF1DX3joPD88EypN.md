@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3joPD88EypN.md) - [plain]
 
 > The sound of Jazz from the nordics\. Cover: Jan Garbarek
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,133 likes - 100 songs - 9 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,180 likes - 100 songs - 9 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3joPD88EypN.md) - [plain]
 | 99 | [Melancholia](https://open.spotify.com/track/2CK1rKO7y9oKhQRGR48tKG) | [Fredrik Nordström](https://open.spotify.com/artist/5MvcFZC0PVjhkfCOdmBXTm), [Andreas Hourdakis](https://open.spotify.com/artist/0S0DsjhNNujgfny2GV71Wq), [Ilaria Capalbo](https://open.spotify.com/artist/36eAVpaL0KHjSI1adDdrwT), [Staffan Svensson](https://open.spotify.com/artist/11mFi4SwzgprnqEEIJpGCM) | [Melancholia](https://open.spotify.com/album/6rQSdtpLz0W1bKCySYeueo) | 5:14 |
 | 100 | [Sanctus](https://open.spotify.com/track/3spHdmdcQ1Qs3XnyGNZEYA) | [John Børge Askeland](https://open.spotify.com/artist/1UeZl6B4gsbDOigsEf7NVc), [Eyolf Dale](https://open.spotify.com/artist/60mPtMudgea65qERR3OxFS), [Arve Henriksen](https://open.spotify.com/artist/32pN1An13076I4PTMzn2g7) | [Sanctus](https://open.spotify.com/album/4bnFbID19CQHZDXyr61Qr9) | 5:08 |
 
-Snapshot ID: `MCxlYjJhNzUyNzVjYTBkMzQ1MzM1OTU5ZmNlY2MyYThjNmEyYzljMDM1`
+Snapshot ID: `MCxmOTJjNTMyMTA2NDU3NmMwMGIyMDc0YTlkZGIxNmUxODlmNzRkNzNi`

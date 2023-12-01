@@ -4,7 +4,7 @@
 
 > ❤️‍🩹 and I wouldn't marry me either, a pathological people pleaser!!!!
 
-1,302 songs - 2 day 20 hr 25 min
+1,303 songs - 2 day 20 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -191,7 +191,8 @@
 | [Call You in the Morning](https://open.spotify.com/track/6pmtIWAw69AvKnajOPGVtz) | [Tom Rosenthal](https://open.spotify.com/artist/1AgxgADPuRIW1wyaA4OKcB) | [Call You in the Morning](https://open.spotify.com/album/3IO0Epg4XkvOaES3dfTCXB) | 2:12 | 2022-06-09 |  |
 | [Calm Down](https://open.spotify.com/track/6hgoYQDUcPyCz7LcTUHKxa) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Calm Down](https://open.spotify.com/album/37iaWiKMa9YBbEDlw5c3Qh) | 3:39 | 2022-08-03 |  |
 | [Calm Down \(with Selena Gomez\)](https://open.spotify.com/track/0WtM2NBVQNNJLh6scP13H8) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Calm Down \(with Selena Gomez\)](https://open.spotify.com/album/2b2GHWESCWEuHiCZ2Skedp) | 3:59 | 2023-03-02 |  |
-| [Can You Remember the Rain \- Sequence Remix](https://open.spotify.com/track/0l95JINbiM4RwHLShtY15I) | [Elliot Norlander](https://open.spotify.com/artist/2vcH94PF19UypegwaEughz), [Garrett Atterberry](https://open.spotify.com/artist/0KppDOsHTsrrm0zAfRzZcC) | [Can You Remember the Rain \- Sequence Remix](https://open.spotify.com/album/2h4FD07ac1WYMj3Z5Pwfn1) | 3:06 | 2023-11-16 |  |
+| [Can You Remember the Rain](https://open.spotify.com/track/6y4BWzx0SeqZT9KhRD25y6) | [Elliot Norlander](https://open.spotify.com/artist/2vcH94PF19UypegwaEughz), [LofiClub](https://open.spotify.com/artist/1iTPP9IvIq7CDNiSfjaSoh) | [Can You Remember the Rain](https://open.spotify.com/album/4m7ZleWG5AkBedklwHOK5u) | 3:06 | 2023-11-30 |  |
+| [Can You Remember the Rain \- Sequence Remix](https://open.spotify.com/track/0l95JINbiM4RwHLShtY15I) | [Elliot Norlander](https://open.spotify.com/artist/2vcH94PF19UypegwaEughz), [Garrett Atterberry](https://open.spotify.com/artist/0KppDOsHTsrrm0zAfRzZcC) | [Can You Remember the Rain \- Sequence Remix](https://open.spotify.com/album/2h4FD07ac1WYMj3Z5Pwfn1) | 3:06 | 2023-11-16 | 2023-12-01 |
 | [Can You Remember The Rain \- Sequence Remix](https://open.spotify.com/track/5wHBA7ROxraWgOBcMwVJ7P) | [Garrett Atterberry](https://open.spotify.com/artist/0KppDOsHTsrrm0zAfRzZcC) | [Melodramatic](https://open.spotify.com/album/5W9Qrru4JRDToERv3xxmX1) | 3:05 | 2023-09-15 | 2023-11-16 |
 | [Can You Remember the Rain \- Sequence Remix](https://open.spotify.com/track/5jikmrFL7wzkaCvdUSePkB) | [Garrett Atterberry](https://open.spotify.com/artist/0KppDOsHTsrrm0zAfRzZcC) | [Melodramatic](https://open.spotify.com/album/68QwVLwpCilgbZorXibyd2) | 3:06 | 2023-02-23 | 2023-11-24 |
 | [Car's Outside](https://open.spotify.com/track/0otRX6Z89qKkHkQ9OqJpKt) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [YOU](https://open.spotify.com/album/0cm9LOQUBK3JUgyoRj238z) | 4:08 | 2022-07-28 | 2023-01-06 |

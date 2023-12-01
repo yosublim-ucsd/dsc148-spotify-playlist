@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vu1ck1olx9.md) - [plain]
 
 > Cool down with these chill beats
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,404 likes - 150 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,514 likes - 150 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vu1ck1olx9.md) - [plain]
 | 149 | [FLEETING](https://open.spotify.com/track/35IlMSTOjZ0JDIKeHhQUhM) | [Smitty Mamba](https://open.spotify.com/artist/4KLalspUgiWB3ZOrytNZ8Q), [ChillhopGuru](https://open.spotify.com/artist/5xoXrs44FwySC3ILOWqZts) | [Radiant Mix](https://open.spotify.com/album/3N5VGhJ0G8xgh1zO86hYOt) | 2:10 |
 | 150 | [Last Night](https://open.spotify.com/track/078xh9ZaaEt12G04mzyrqp) | [goosetaf](https://open.spotify.com/artist/46NCqFl8vhQZD77y7XkvJs), [anbuu](https://open.spotify.com/artist/00i4PzAbt6fpwgBqdtSP0q), [Philanthrope](https://open.spotify.com/artist/13ACz7DIictCpSYGglNTHs), [Lead Major](https://open.spotify.com/artist/0HePV5MBPoi502FIKslcBO) | [Last Night](https://open.spotify.com/album/2zoRfOYmkIGJmTTv0sbAuJ) | 2:10 |
 
-Snapshot ID: `MCwxMzI3MDU4Yjg3YWJmOWQ2MDcyNGQwMjU3OGE4MDhhMjM4M2JkYWQy`
+Snapshot ID: `MCw5NDJhNGU0MjZiYjkzZDg1MmI1NmM0ZjM2YjEyYjAwOGI0ZDI1NjUx`

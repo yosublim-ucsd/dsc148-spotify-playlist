@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTkIwO2HDifB.md) - [plain]
 
 > Baile do Bruxo e os funks mais 🔑 do Brasil\. Foto: Tropa do Bruxo, DJ Ws da Igrejinha, SMU, Triz, MC Menor Thalis
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,100,040 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,102,176 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTkIwO2HDifB.md) - [plain]
 | 49 | [A Semana Inteira](https://open.spotify.com/track/0wSFsliBwxevwTEXXag2ro) | [Mc Don Juan](https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL), [DJ BOY](https://open.spotify.com/artist/5ncITNKBT3RMa1U2NsuE7V) | [A Semana Inteira](https://open.spotify.com/album/0mcOvuCggLZ4TC32eXi68x) | 2:52 |
 | 50 | [Pagodeiro](https://open.spotify.com/track/3smtwkthoDwPYDtxS3UrIk) | [Mc Davi](https://open.spotify.com/artist/1cYhx7ZOhYoVmnDPb9KMwo), [Grupo Presença](https://open.spotify.com/artist/0HvttROjoLimYVYCrt5bC9), [Mc Paiva ZS](https://open.spotify.com/artist/0gHj4MPwwcZ8Zl9CY0hqT5), [Gabb MC](https://open.spotify.com/artist/5qyPbwqvOEp7FvR1EeTQQ2), [MC Paulin da Capital](https://open.spotify.com/artist/592JnViQ2tot63c1SbtgK2), [MC Cebezinho](https://open.spotify.com/artist/5Dz2FizMLqV0Cr3c8uhEcF) | [Pagodeiro](https://open.spotify.com/album/2SMhhX9Z0TUVdpON3nyrBR) | 7:38 |
 
-Snapshot ID: `MCxhMDQ2Mzk5YjZmMTkxZTBmNzI5ODE4NmNlZGRhY2QxZmYzYjZjMjkz`
+Snapshot ID: `MCxhNDI1Y2JkYWY1NDEwMTBiMTkwZWUxMDY2ZmJmMWIyNzczNDA2Njdi`

@@ -1,59 +1,31 @@
 {
-  "description": "DEN ENDA PROMENADEN SOM JAG TAR DEN \u00c4R TILL BAREN!!",
-  "num_followers": 152715,
+  "description": "JULEN P\u00c5 FYRA HJUL \u00c4R H\u00c4R!!",
+  "num_followers": 152742,
   "original_name": "30 km/h",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNmJlYzNiOGU1OTI4MWQ4MGU3OGY2NTg4NmNmYjgyNjhhMTNkMDg2",
+  "snapshot_id": "MCw4NDliY2FmZjY5ZjU2MjZhMzZjNmUxMDQ1NGEyMWYzMDAyODJjZWYx",
   "tracks": [
     {
-      "added_at": "2023-11-23 23:00:00",
+      "added_at": "2023-11-30 23:00:00",
       "album": {
-        "name": "Caramelldansen",
-        "url": "https://open.spotify.com/album/1T0okEHDf6UivFaFTD4ciY"
+        "name": "Jul I V\u00e5rat Hem",
+        "url": "https://open.spotify.com/album/7r70ISMldTSJo3YKRSBZrS"
       },
       "artists": [
-        {
-          "name": "Alfons",
-          "url": "https://open.spotify.com/artist/5f5mH9BDkeyXmDbzevu38d"
-        },
         {
           "name": "LOOKET",
           "url": "https://open.spotify.com/artist/4gYsIoRXPc0MnHDYIqEYVE"
-        },
-        {
-          "name": "DJ BERIT",
-          "url": "https://open.spotify.com/artist/2Ens93DBGHbUTJUm83TQRI"
         }
       ],
-      "duration_ms": 122181,
-      "name": "Caramelldansen",
-      "url": "https://open.spotify.com/track/1v7aZHBUwKxeCgmpe6fVUH"
+      "duration_ms": 144000,
+      "name": "Jul I V\u00e5rat Hem",
+      "url": "https://open.spotify.com/track/2k5MZjgBHLaoTFpoGwXHva"
     },
     {
-      "added_at": "2023-11-23 23:00:00",
-      "album": {
-        "name": "POWER WALK TILL BAREN",
-        "url": "https://open.spotify.com/album/3ECgEpKY5avON9CAjiIRTm"
-      },
-      "artists": [
-        {
-          "name": "Raggarligan",
-          "url": "https://open.spotify.com/artist/6uljULAp34CZrrwTVhImVH"
-        },
-        {
-          "name": "NESS",
-          "url": "https://open.spotify.com/artist/6oFrMdEZ9S3vGF7Cl83qE3"
-        }
-      ],
-      "duration_ms": 122250,
-      "name": "POWER WALK TILL BAREN",
-      "url": "https://open.spotify.com/track/5VcuPCPj2ZBA9S0ch2Aec3"
-    },
-    {
-      "added_at": "2023-11-23 23:00:00",
+      "added_at": "2023-11-30 23:00:00",
       "album": {
         "name": "Feliz Navidad",
         "url": "https://open.spotify.com/album/4AhJlpBAo88WDTcHzgbtaF"
@@ -77,7 +49,203 @@
       "url": "https://open.spotify.com/track/405KFcAcNc9qIx4OB3ymjz"
     },
     {
-      "added_at": "2023-11-23 23:00:00",
+      "added_at": "2023-11-30 23:00:00",
+      "album": {
+        "name": "HEJ TOMTEGUBBAR",
+        "url": "https://open.spotify.com/album/79v6HVrdfIocyZPcFgi6IO"
+      },
+      "artists": [
+        {
+          "name": "Perra & Berra",
+          "url": "https://open.spotify.com/artist/6YWMML4Yz4GNbHprht9tud"
+        }
+      ],
+      "duration_ms": 100000,
+      "name": "HEJ TOMTEGUBBAR",
+      "url": "https://open.spotify.com/track/3c0besSUqbItxZ9oWchwC2"
+    },
+    {
+      "added_at": "2023-11-30 23:00:00",
+      "album": {
+        "name": "Raggar-Ren",
+        "url": "https://open.spotify.com/album/5yztW4IgxhbtujBhwB9bfh"
+      },
+      "artists": [
+        {
+          "name": "Albatraoz",
+          "url": "https://open.spotify.com/artist/5wOlRsRt9ggoBDjjmhaF7x"
+        }
+      ],
+      "duration_ms": 142380,
+      "name": "Raggar-Ren",
+      "url": "https://open.spotify.com/track/1AU50cPvCOvuSrQ6CI1R2n"
+    },
+    {
+      "added_at": "2023-11-30 23:00:00",
+      "album": {
+        "name": "Gin och gl\u00f6gg",
+        "url": "https://open.spotify.com/album/2xeWhVD5EoeZIOVgalh0TF"
+      },
+      "artists": [
+        {
+          "name": "JulleMeck",
+          "url": "https://open.spotify.com/artist/5gBVgnVRYya7YzZSvHqy32"
+        }
+      ],
+      "duration_ms": 87750,
+      "name": "Gin och gl\u00f6gg",
+      "url": "https://open.spotify.com/track/7Fr1TbFRL3RGyqCRLu3fB0"
+    },
+    {
+      "added_at": "2023-11-30 23:00:00",
+      "album": {
+        "name": "FIRA JUL P\u00c5 FYRA HJUL",
+        "url": "https://open.spotify.com/album/0awUZ8J780WLiw4mezb4SR"
+      },
+      "artists": [
+        {
+          "name": "Elov & Beny",
+          "url": "https://open.spotify.com/artist/4uAXlCewJdAu44uAHehKfd"
+        }
+      ],
+      "duration_ms": 145250,
+      "name": "FIRA JUL P\u00c5 FYRA HJUL",
+      "url": "https://open.spotify.com/track/1Joq25O6JLg3vqG1F5SDGp"
+    },
+    {
+      "added_at": "2023-11-30 23:00:00",
+      "album": {
+        "name": "Stackars Tomten",
+        "url": "https://open.spotify.com/album/1kUqtRM2afvY7ogV73DLmN"
+      },
+      "artists": [
+        {
+          "name": "TRIPPEL TRUBBEL",
+          "url": "https://open.spotify.com/artist/6mpgc1oXQGoAY6X08CGOoE"
+        }
+      ],
+      "duration_ms": 167544,
+      "name": "Stackars Tomten",
+      "url": "https://open.spotify.com/track/0lCRFJLVVl6fJaEmFvqnwW"
+    },
+    {
+      "added_at": "2023-11-30 23:00:00",
+      "album": {
+        "name": "TOMTEN \u00c5KER RAGGARBIL",
+        "url": "https://open.spotify.com/album/6cgvK0WGvynSU5AjiwkVX3"
+      },
+      "artists": [
+        {
+          "name": "Studavig\u00e5",
+          "url": "https://open.spotify.com/artist/4dReOlQZoHTfnk2608Gwf6"
+        },
+        {
+          "name": "Maximus",
+          "url": "https://open.spotify.com/artist/7KXt61GtLmrIizwZkpZa5C"
+        }
+      ],
+      "duration_ms": 152285,
+      "name": "TOMTEN \u00c5KER RAGGARBIL",
+      "url": "https://open.spotify.com/track/0Lt3FH26hsa0d2S6d1W4Qu"
+    },
+    {
+      "added_at": "2023-11-30 23:00:00",
+      "album": {
+        "name": "JUL IGEN",
+        "url": "https://open.spotify.com/album/4JUiZaXeJyzGBvYknWkL4R"
+      },
+      "artists": [
+        {
+          "name": "Louise Andersson Bodin",
+          "url": "https://open.spotify.com/artist/23z00NPQmiYxmpZSiDlQAE"
+        }
+      ],
+      "duration_ms": 165931,
+      "name": "JUL IGEN",
+      "url": "https://open.spotify.com/track/6gZ2evMGSHjIzSLKid6XrP"
+    },
+    {
+      "added_at": "2023-11-30 23:00:00",
+      "album": {
+        "name": "Caramelldansen",
+        "url": "https://open.spotify.com/album/1T0okEHDf6UivFaFTD4ciY"
+      },
+      "artists": [
+        {
+          "name": "Alfons",
+          "url": "https://open.spotify.com/artist/5f5mH9BDkeyXmDbzevu38d"
+        },
+        {
+          "name": "LOOKET",
+          "url": "https://open.spotify.com/artist/4gYsIoRXPc0MnHDYIqEYVE"
+        },
+        {
+          "name": "DJ BERIT",
+          "url": "https://open.spotify.com/artist/2Ens93DBGHbUTJUm83TQRI"
+        }
+      ],
+      "duration_ms": 122181,
+      "name": "Caramelldansen",
+      "url": "https://open.spotify.com/track/1v7aZHBUwKxeCgmpe6fVUH"
+    },
+    {
+      "added_at": "2023-11-30 23:00:00",
+      "album": {
+        "name": "TA EN \u00d6L (DOH DAH)",
+        "url": "https://open.spotify.com/album/0aWSNqsyetGipemN5tnhyY"
+      },
+      "artists": [
+        {
+          "name": "Maximus",
+          "url": "https://open.spotify.com/artist/7KXt61GtLmrIizwZkpZa5C"
+        },
+        {
+          "name": "RIK1",
+          "url": "https://open.spotify.com/artist/0YnSx8xXces528yeQtNRuz"
+        }
+      ],
+      "duration_ms": 141629,
+      "name": "TA EN \u00d6L (DOH DAH)",
+      "url": "https://open.spotify.com/track/6DhMtmrn1rmxntTVQhvQrb"
+    },
+    {
+      "added_at": "2023-11-30 23:00:00",
+      "album": {
+        "name": "POWER WALK TILL BAREN",
+        "url": "https://open.spotify.com/album/3ECgEpKY5avON9CAjiIRTm"
+      },
+      "artists": [
+        {
+          "name": "Raggarligan",
+          "url": "https://open.spotify.com/artist/6uljULAp34CZrrwTVhImVH"
+        },
+        {
+          "name": "NESS",
+          "url": "https://open.spotify.com/artist/6oFrMdEZ9S3vGF7Cl83qE3"
+        }
+      ],
+      "duration_ms": 122250,
+      "name": "POWER WALK TILL BAREN",
+      "url": "https://open.spotify.com/track/5VcuPCPj2ZBA9S0ch2Aec3"
+    },
+    {
+      "added_at": "2023-11-30 23:00:00",
+      "album": {
+        "name": "Do Wah Diddy Diddy",
+        "url": "https://open.spotify.com/album/0ESlXyC5xb24wUoTRLhMCk"
+      },
+      "artists": [
+        {
+          "name": "N!NE",
+          "url": "https://open.spotify.com/artist/0RF3teBjUzbf1SDpnuR8Ro"
+        }
+      ],
+      "duration_ms": 112063,
+      "name": "Do Wah Diddy Diddy",
+      "url": "https://open.spotify.com/track/31FCjDzPxVgG9fxkq9kIIA"
+    },
+    {
+      "added_at": "2023-11-30 23:00:00",
       "album": {
         "name": "SKITER I DIN DALAH\u00c4ST (Greta Tuborg Remix)",
         "url": "https://open.spotify.com/album/4BuddnRvdrsOyD9o38MzgT"
@@ -101,23 +269,7 @@
       "url": "https://open.spotify.com/track/1dEkcEWOANqUbwJYPUrhRt"
     },
     {
-      "added_at": "2023-11-23 23:00:00",
-      "album": {
-        "name": "HEJ TOMTEGUBBAR",
-        "url": "https://open.spotify.com/album/79v6HVrdfIocyZPcFgi6IO"
-      },
-      "artists": [
-        {
-          "name": "Perra & Berra",
-          "url": "https://open.spotify.com/artist/6YWMML4Yz4GNbHprht9tud"
-        }
-      ],
-      "duration_ms": 100000,
-      "name": "HEJ TOMTEGUBBAR",
-      "url": "https://open.spotify.com/track/3c0besSUqbItxZ9oWchwC2"
-    },
-    {
-      "added_at": "2023-11-23 23:00:00",
+      "added_at": "2023-11-30 23:00:00",
       "album": {
         "name": "SYRGAS (Till Anna) [J.O.X Remix]",
         "url": "https://open.spotify.com/album/30rlNIYDWtCCYrLZZqwTG5"
@@ -137,7 +289,47 @@
       "url": "https://open.spotify.com/track/6LSEswtC2XA3fNjxwXzSMJ"
     },
     {
-      "added_at": "2023-11-23 23:00:00",
+      "added_at": "2023-11-30 23:00:00",
+      "album": {
+        "name": "TUSEN MIL",
+        "url": "https://open.spotify.com/album/1AWubcGeMvmVkOREXdkmKl"
+      },
+      "artists": [
+        {
+          "name": "Perra & Berra",
+          "url": "https://open.spotify.com/artist/6YWMML4Yz4GNbHprht9tud"
+        }
+      ],
+      "duration_ms": 122400,
+      "name": "TUSEN MIL",
+      "url": "https://open.spotify.com/track/0DJjdJGLhghWbPwzSmdl48"
+    },
+    {
+      "added_at": "2023-11-30 23:00:00",
+      "album": {
+        "name": "FATTAR INGENTING - (Mojnz Remix)",
+        "url": "https://open.spotify.com/album/36sLTcsTQghkNIxyTyMSm1"
+      },
+      "artists": [
+        {
+          "name": "Raggarligan",
+          "url": "https://open.spotify.com/artist/6uljULAp34CZrrwTVhImVH"
+        },
+        {
+          "name": "Perra & Berra",
+          "url": "https://open.spotify.com/artist/6YWMML4Yz4GNbHprht9tud"
+        },
+        {
+          "name": "Mojnz",
+          "url": "https://open.spotify.com/artist/61cp16xuPyKTvJYmaAY6st"
+        }
+      ],
+      "duration_ms": 122566,
+      "name": "FATTAR INGENTING - (Mojnz Remix)",
+      "url": "https://open.spotify.com/track/111LIGpkhjDHYQXv7jmKaj"
+    },
+    {
+      "added_at": "2023-11-30 23:00:00",
       "album": {
         "name": "EPA EPA",
         "url": "https://open.spotify.com/album/6isFJLes3gZndtQyhfvTvD"
@@ -161,7 +353,7 @@
       "url": "https://open.spotify.com/track/0SWGVCDhgFJcfwP2D2dxym"
     },
     {
-      "added_at": "2023-11-23 23:00:00",
+      "added_at": "2023-11-30 23:00:00",
       "album": {
         "name": "Hatar mig",
         "url": "https://open.spotify.com/album/5lwn8lZwWRbm3iPcRACiRM"
@@ -177,23 +369,7 @@
       "url": "https://open.spotify.com/track/6LbRmYMXgUx5hI8bo3EIXj"
     },
     {
-      "added_at": "2023-11-23 23:00:00",
-      "album": {
-        "name": "Raggar-Ren",
-        "url": "https://open.spotify.com/album/5yztW4IgxhbtujBhwB9bfh"
-      },
-      "artists": [
-        {
-          "name": "Albatraoz",
-          "url": "https://open.spotify.com/artist/5wOlRsRt9ggoBDjjmhaF7x"
-        }
-      ],
-      "duration_ms": 142380,
-      "name": "Raggar-Ren",
-      "url": "https://open.spotify.com/track/1AU50cPvCOvuSrQ6CI1R2n"
-    },
-    {
-      "added_at": "2023-11-23 23:00:00",
+      "added_at": "2023-11-30 23:00:00",
       "album": {
         "name": "Vart \u00e4r du nu?",
         "url": "https://open.spotify.com/album/30Jw0OY9n7NNToM8SDGwxC"
@@ -209,7 +385,23 @@
       "url": "https://open.spotify.com/track/7pkMqtGQx3XAQtDmPTwPQq"
     },
     {
-      "added_at": "2023-11-23 23:00:00",
+      "added_at": "2023-11-30 23:00:00",
+      "album": {
+        "name": "UT P\u00c5 TUR",
+        "url": "https://open.spotify.com/album/0hl04llIOD7q3WyQM5ttH0"
+      },
+      "artists": [
+        {
+          "name": "Lia Larsson",
+          "url": "https://open.spotify.com/artist/7wdEdhvMnmb3lqogWSY9xD"
+        }
+      ],
+      "duration_ms": 130451,
+      "name": "UT P\u00c5 TUR",
+      "url": "https://open.spotify.com/track/7EZPuUwZXxIItsRPjXGCSe"
+    },
+    {
+      "added_at": "2023-11-30 23:00:00",
       "album": {
         "name": "ABDULLAH, SVEN OCH LARS",
         "url": "https://open.spotify.com/album/5qcdpQWmAqIQYL8T8QBYbq"
@@ -233,7 +425,7 @@
       "url": "https://open.spotify.com/track/0A1EWgEq549Ik73Xj9rhgv"
     },
     {
-      "added_at": "2023-11-23 23:00:00",
+      "added_at": "2023-11-30 23:00:00",
       "album": {
         "name": "Bara brudar",
         "url": "https://open.spotify.com/album/6OIv1sgz6XPGqMyYsCl5p1"
@@ -249,7 +441,7 @@
       "url": "https://open.spotify.com/track/7AYv5Mn95cZm0JtGdQWRtm"
     },
     {
-      "added_at": "2023-11-23 23:00:00",
+      "added_at": "2023-11-30 23:00:00",
       "album": {
         "name": "Om du vill (J.O.X Remix)",
         "url": "https://open.spotify.com/album/19MHAGESlf6je7cc8PTOoc"
@@ -269,7 +461,23 @@
       "url": "https://open.spotify.com/track/6pjS1WqmHn1vkF5ZseaDMj"
     },
     {
-      "added_at": "2023-11-23 23:00:00",
+      "added_at": "2023-11-30 23:00:00",
+      "album": {
+        "name": "We Call It A Pilsner Car",
+        "url": "https://open.spotify.com/album/6uGupbOzu1hoiW7kFyl1N6"
+      },
+      "artists": [
+        {
+          "name": "Lohmann & Co",
+          "url": "https://open.spotify.com/artist/52Bhcaz5r8ZIIuAim0EXRb"
+        }
+      ],
+      "duration_ms": 129897,
+      "name": "We Call It A Pilsner Car",
+      "url": "https://open.spotify.com/track/13Nl0amQmDiJb2x8I1dAQY"
+    },
+    {
+      "added_at": "2023-11-30 23:00:00",
       "album": {
         "name": "Hon vill ha mig (Remix)",
         "url": "https://open.spotify.com/album/0Qpy7rAQcv4rwfh0sLQM98"
@@ -293,7 +501,7 @@
       "url": "https://open.spotify.com/track/7sKX5WSjQEPMzuIPFurvBO"
     },
     {
-      "added_at": "2023-11-23 23:00:00",
+      "added_at": "2023-11-30 23:00:00",
       "album": {
         "name": "VINBALLE",
         "url": "https://open.spotify.com/album/0ma6EgyQCcJZk0ahCTeahd"
@@ -313,7 +521,7 @@
       "url": "https://open.spotify.com/track/1XdMxUEDz7yG8zOEQKmZi5"
     },
     {
-      "added_at": "2023-11-23 23:00:00",
+      "added_at": "2023-11-30 23:00:00",
       "album": {
         "name": "LYSSNA P\u00c5 DANSBAND",
         "url": "https://open.spotify.com/album/0oaIlZp9PCHir7mnNyic3Q"
@@ -333,7 +541,7 @@
       "url": "https://open.spotify.com/track/7j3PRUN9gcgcRsxCDfseCU"
     },
     {
-      "added_at": "2023-11-23 23:00:00",
+      "added_at": "2023-11-30 23:00:00",
       "album": {
         "name": "Du \u00e4r s\u00e5 s\u00f6t, min k\u00e4ra lilla ponny",
         "url": "https://open.spotify.com/album/1oPeMx3wcZuzr6WM4720AB"
@@ -349,7 +557,7 @@
       "url": "https://open.spotify.com/track/3nlmYsWXQLcsXOWJEPc21E"
     },
     {
-      "added_at": "2023-11-23 23:00:00",
+      "added_at": "2023-11-30 23:00:00",
       "album": {
         "name": "DANSAR ALDRIG NYKTER",
         "url": "https://open.spotify.com/album/0W4QW4TQvbRM8GWCCttuC8"
@@ -369,7 +577,7 @@
       "url": "https://open.spotify.com/track/1JgM35QWMB4P8ZfhSBSgXx"
     },
     {
-      "added_at": "2023-11-23 23:00:00",
+      "added_at": "2023-11-30 23:00:00",
       "album": {
         "name": "Gratis \u00e4r gott",
         "url": "https://open.spotify.com/album/2bnByW6K5VSZBxGAK93K9x"
@@ -389,7 +597,7 @@
       "url": "https://open.spotify.com/track/56xw5DCaXRb8C5nfAXUl2C"
     },
     {
-      "added_at": "2023-11-23 23:00:00",
+      "added_at": "2023-11-30 23:00:00",
       "album": {
         "name": "Den lilla l\u00e5gan av eld",
         "url": "https://open.spotify.com/album/3qzU62442KiaSwYIaNJnPQ"
@@ -405,7 +613,7 @@
       "url": "https://open.spotify.com/track/2IRrBDGOZedNN5Kq0fFKIs"
     },
     {
-      "added_at": "2023-11-23 23:00:00",
+      "added_at": "2023-11-30 23:00:00",
       "album": {
         "name": "SKITER I DIN DALAH\u00c4ST (demz remix)",
         "url": "https://open.spotify.com/album/34xgBhEoyLrdAAJ68wJcWE"
@@ -429,7 +637,7 @@
       "url": "https://open.spotify.com/track/0d9lRyjzBFIeByheIyz53Y"
     },
     {
-      "added_at": "2023-11-23 23:00:00",
+      "added_at": "2023-11-30 23:00:00",
       "album": {
         "name": "HEM MED MIG",
         "url": "https://open.spotify.com/album/7a2YudCLVs5gTgRnPgbINJ"
@@ -449,23 +657,7 @@
       "url": "https://open.spotify.com/track/0oHXVZGEEo73TYZ0N1ow5F"
     },
     {
-      "added_at": "2023-11-23 23:00:00",
-      "album": {
-        "name": "FIRA JUL P\u00c5 FYRA HJUL",
-        "url": "https://open.spotify.com/album/0awUZ8J780WLiw4mezb4SR"
-      },
-      "artists": [
-        {
-          "name": "Elov & Beny",
-          "url": "https://open.spotify.com/artist/4uAXlCewJdAu44uAHehKfd"
-        }
-      ],
-      "duration_ms": 145250,
-      "name": "FIRA JUL P\u00c5 FYRA HJUL",
-      "url": "https://open.spotify.com/track/1Joq25O6JLg3vqG1F5SDGp"
-    },
-    {
-      "added_at": "2023-11-23 23:00:00",
+      "added_at": "2023-11-30 23:00:00",
       "album": {
         "name": "Oh boy (Vilket vackert v\u00e4der)",
         "url": "https://open.spotify.com/album/1HapPKi3tRRX7pf1IYvXvQ"
@@ -481,7 +673,7 @@
       "url": "https://open.spotify.com/track/0ObLNNL9n9fpnN9wTtk4hD"
     },
     {
-      "added_at": "2023-11-23 23:00:00",
+      "added_at": "2023-11-30 23:00:00",
       "album": {
         "name": "DANSAR DOM I HIMLEN",
         "url": "https://open.spotify.com/album/3nRmLK2DFdUe7SVmXVYbfm"
@@ -497,7 +689,7 @@
       "url": "https://open.spotify.com/track/5xpyEuc8pfYzEUaKlmEorf"
     },
     {
-      "added_at": "2023-11-23 23:00:00",
+      "added_at": "2023-11-30 23:00:00",
       "album": {
         "name": "L\u00c4GGA MIL",
         "url": "https://open.spotify.com/album/2WNYR18p1rEOU1Fz1kCriu"
@@ -517,23 +709,7 @@
       "url": "https://open.spotify.com/track/713RsSyYFRoTwa4cie2lvM"
     },
     {
-      "added_at": "2023-11-23 23:00:00",
-      "album": {
-        "name": "Stackars Tomten",
-        "url": "https://open.spotify.com/album/1kUqtRM2afvY7ogV73DLmN"
-      },
-      "artists": [
-        {
-          "name": "TRIPPEL TRUBBEL",
-          "url": "https://open.spotify.com/artist/6mpgc1oXQGoAY6X08CGOoE"
-        }
-      ],
-      "duration_ms": 167544,
-      "name": "Stackars Tomten",
-      "url": "https://open.spotify.com/track/0lCRFJLVVl6fJaEmFvqnwW"
-    },
-    {
-      "added_at": "2023-11-23 23:00:00",
+      "added_at": "2023-11-30 23:00:00",
       "album": {
         "name": "MULTIVITAMIN",
         "url": "https://open.spotify.com/album/77mu3DXC4AuplD8CG4qptZ"
@@ -557,7 +733,7 @@
       "url": "https://open.spotify.com/track/5LLY0yvNGk6FxADFydtpVW"
     },
     {
-      "added_at": "2023-11-23 23:00:00",
+      "added_at": "2023-11-30 23:00:00",
       "album": {
         "name": "Hos dig \u00e4r jag underbar",
         "url": "https://open.spotify.com/album/2B02aAIt8aJjg22EMFNx32"
@@ -573,7 +749,7 @@
       "url": "https://open.spotify.com/track/1hTBZKHhV76uepWpvZPUpn"
     },
     {
-      "added_at": "2023-11-23 23:00:00",
+      "added_at": "2023-11-30 23:00:00",
       "album": {
         "name": "RULLA MED MIG",
         "url": "https://open.spotify.com/album/46RVSyoZ87uLMJYc4Jo2YT"
@@ -597,7 +773,7 @@
       "url": "https://open.spotify.com/track/7AYd3bkvwgf4Z7lk8L9AG2"
     },
     {
-      "added_at": "2023-11-23 23:00:00",
+      "added_at": "2023-11-30 23:00:00",
       "album": {
         "name": "EPA ANTHEM",
         "url": "https://open.spotify.com/album/5GqiROXEJFxsK0bTOahh6K"
@@ -613,7 +789,7 @@
       "url": "https://open.spotify.com/track/1a2heLjas6cQZ3IV5hUEI0"
     },
     {
-      "added_at": "2023-11-23 23:00:00",
+      "added_at": "2023-11-30 23:00:00",
       "album": {
         "name": "Med detsamma",
         "url": "https://open.spotify.com/album/7zoWjbF26FFXEj80Akf1sF"
@@ -629,7 +805,7 @@
       "url": "https://open.spotify.com/track/6h1SQBaZ01GpCnYKiI1GNL"
     },
     {
-      "added_at": "2023-11-23 23:00:00",
+      "added_at": "2023-11-30 23:00:00",
       "album": {
         "name": "DESIGNER",
         "url": "https://open.spotify.com/album/2RBuWe0wMEXGJvTcx9gbBi"
@@ -649,7 +825,7 @@
       "url": "https://open.spotify.com/track/4CysBxV6dweKg1hJh9kYGa"
     },
     {
-      "added_at": "2023-11-23 23:00:00",
+      "added_at": "2023-11-30 23:00:00",
       "album": {
         "name": "GRISARNA TILL BACON",
         "url": "https://open.spotify.com/album/3iXqX8HmJPT7cjRGZq3yBq"
@@ -669,27 +845,7 @@
       "url": "https://open.spotify.com/track/6QfNgAVv0QpsmBcd51Alfw"
     },
     {
-      "added_at": "2023-11-23 23:00:00",
-      "album": {
-        "name": "TOMTEN \u00c5KER RAGGARBIL",
-        "url": "https://open.spotify.com/album/6cgvK0WGvynSU5AjiwkVX3"
-      },
-      "artists": [
-        {
-          "name": "Studavig\u00e5",
-          "url": "https://open.spotify.com/artist/4dReOlQZoHTfnk2608Gwf6"
-        },
-        {
-          "name": "Maximus",
-          "url": "https://open.spotify.com/artist/7KXt61GtLmrIizwZkpZa5C"
-        }
-      ],
-      "duration_ms": 152285,
-      "name": "TOMTEN \u00c5KER RAGGARBIL",
-      "url": "https://open.spotify.com/track/0Lt3FH26hsa0d2S6d1W4Qu"
-    },
-    {
-      "added_at": "2023-11-23 23:00:00",
+      "added_at": "2023-11-30 23:00:00",
       "album": {
         "name": "IN MED EN PRILLA",
         "url": "https://open.spotify.com/album/518DYZMBB8fLL3E8HKIMNR"
@@ -705,7 +861,7 @@
       "url": "https://open.spotify.com/track/4HgBgnmaUUKxMoQIxrslHZ"
     },
     {
-      "added_at": "2023-11-23 23:00:00",
+      "added_at": "2023-11-30 23:00:00",
       "album": {
         "name": "TRUCKER MOTHERFUCKER",
         "url": "https://open.spotify.com/album/1f1PdO6xQRI8nU32xDd0oq"
@@ -729,7 +885,7 @@
       "url": "https://open.spotify.com/track/0jgDRd5aI84kL8DqdKCS8T"
     },
     {
-      "added_at": "2023-11-23 23:00:00",
+      "added_at": "2023-11-30 23:00:00",
       "album": {
         "name": "ALLA SOM VILL LEKA",
         "url": "https://open.spotify.com/album/7CLvBf2yCLXR7nmzv3yaW1"
@@ -745,7 +901,7 @@
       "url": "https://open.spotify.com/track/2tF0hgXyVxUoWMOoUm97Va"
     },
     {
-      "added_at": "2023-11-23 23:00:00",
+      "added_at": "2023-11-30 23:00:00",
       "album": {
         "name": "Sista flaskan",
         "url": "https://open.spotify.com/album/2pjXF87QupfExLxUP1XUDx"
@@ -761,7 +917,7 @@
       "url": "https://open.spotify.com/track/2SuATJjKTbCxHFCLE10Gmh"
     },
     {
-      "added_at": "2023-11-23 23:00:00",
+      "added_at": "2023-11-30 23:00:00",
       "album": {
         "name": "FATTAR INGENTING",
         "url": "https://open.spotify.com/album/3LcAGTVd9cpvnsYAcAUXnh"
@@ -789,7 +945,7 @@
       "url": "https://open.spotify.com/track/4g3bOuXNmyMoRQjtMjTcok"
     },
     {
-      "added_at": "2023-11-23 23:00:00",
+      "added_at": "2023-11-30 23:00:00",
       "album": {
         "name": "VOLVO 142",
         "url": "https://open.spotify.com/album/5OY3p14hOJawBnOBSUgeec"
@@ -805,7 +961,7 @@
       "url": "https://open.spotify.com/track/0X9q2JqNNK93TEy4M8TWuT"
     },
     {
-      "added_at": "2023-11-23 23:00:00",
+      "added_at": "2023-11-30 23:00:00",
       "album": {
         "name": "Lyssna till ditt hj\u00e4rta",
         "url": "https://open.spotify.com/album/3XDNSrYfM6gupqsYXEeJOv"
@@ -821,7 +977,7 @@
       "url": "https://open.spotify.com/track/0wO2IVcC4M2CJuFkrVxgoz"
     },
     {
-      "added_at": "2023-11-23 23:00:00",
+      "added_at": "2023-11-30 23:00:00",
       "album": {
         "name": "Jag vill ha en \u00f6l",
         "url": "https://open.spotify.com/album/6XBslvkyR4G50YZ8RaroGk"
@@ -837,7 +993,7 @@
       "url": "https://open.spotify.com/track/1lroYBW4Z7wwHNotqRSMG2"
     },
     {
-      "added_at": "2023-11-23 23:00:00",
+      "added_at": "2023-11-30 23:00:00",
       "album": {
         "name": "FLICKORNA SOM BUSAR",
         "url": "https://open.spotify.com/album/6DZRSld6n6JMb2ebNEFES0"
@@ -853,7 +1009,7 @@
       "url": "https://open.spotify.com/track/2XuHrava3lXFaUVMIj95Jk"
     },
     {
-      "added_at": "2023-11-23 23:00:00",
+      "added_at": "2023-11-30 23:00:00",
       "album": {
         "name": "Fest i min raggarbil",
         "url": "https://open.spotify.com/album/6V5O7gFuhS8KD8UCSQOS9W"
@@ -869,7 +1025,7 @@
       "url": "https://open.spotify.com/track/3svreb8ckWGoo9MbOPEUqy"
     },
     {
-      "added_at": "2023-11-23 23:00:00",
+      "added_at": "2023-11-30 23:00:00",
       "album": {
         "name": "N\u00e4r vi tv\u00e5 blir en",
         "url": "https://open.spotify.com/album/74mF6OJ8A5yz6jdcWbH1Qx"
@@ -889,7 +1045,7 @@
       "url": "https://open.spotify.com/track/5wyAXCPg6uCYG4XKaIY1rr"
     },
     {
-      "added_at": "2023-11-23 23:00:00",
+      "added_at": "2023-11-30 23:00:00",
       "album": {
         "name": "INGEN CENSUR",
         "url": "https://open.spotify.com/album/761mj2u6r2z4ZkuHnL0jCa"
@@ -909,7 +1065,7 @@
       "url": "https://open.spotify.com/track/3idwXwGmz7rt56CidrYbUw"
     },
     {
-      "added_at": "2023-11-23 23:00:00",
+      "added_at": "2023-11-30 23:00:00",
       "album": {
         "name": "FULLAST (Dunk Edit)",
         "url": "https://open.spotify.com/album/0zV5klFjU2G07fmBIbDqGb"
@@ -929,7 +1085,7 @@
       "url": "https://open.spotify.com/track/49Cy0CTHBxVZDdtfunXcPw"
     },
     {
-      "added_at": "2023-11-23 23:00:00",
+      "added_at": "2023-11-30 23:00:00",
       "album": {
         "name": "Sl\u00e5 mig h\u00e5rt i ansiktet (Remix)",
         "url": "https://open.spotify.com/album/0TxbRCT2U8DDk8ClUINB7G"
@@ -949,7 +1105,7 @@
       "url": "https://open.spotify.com/track/1NlWefoGZ0dXBLGJJTrfTu"
     },
     {
-      "added_at": "2023-11-23 23:00:00",
+      "added_at": "2023-11-30 23:00:00",
       "album": {
         "name": "RAGG I MIN BIL",
         "url": "https://open.spotify.com/album/3cqm7wKv8mdIBFmMmagyTb"
@@ -969,7 +1125,7 @@
       "url": "https://open.spotify.com/track/2tLo4yMwozsxmFhJWQ80SC"
     },
     {
-      "added_at": "2023-11-23 23:00:00",
+      "added_at": "2023-11-30 23:00:00",
       "album": {
         "name": "L\u00c4PPGLANS FR\u00c5N DIOR",
         "url": "https://open.spotify.com/album/3jRXUkNegdStJM17jm6MlI"
@@ -989,47 +1145,7 @@
       "url": "https://open.spotify.com/track/3QoNMeLryCwlkvEbHPX0DM"
     },
     {
-      "added_at": "2023-11-23 23:00:00",
-      "album": {
-        "name": "BBY JAG VILL HA DIG",
-        "url": "https://open.spotify.com/album/1K7zEIQmIEeq1NAM3VYMZ2"
-      },
-      "artists": [
-        {
-          "name": "BR0D3R",
-          "url": "https://open.spotify.com/artist/0NSC3dpFINJlCOdJLSz2Ow"
-        },
-        {
-          "name": "Hietala",
-          "url": "https://open.spotify.com/artist/4xjsjg82NENOWmzF4bALs6"
-        }
-      ],
-      "duration_ms": 185633,
-      "name": "BBY JAG VILL HA DIG",
-      "url": "https://open.spotify.com/track/1TnI33nmY36mv1CvGVQd9O"
-    },
-    {
-      "added_at": "2023-11-23 23:00:00",
-      "album": {
-        "name": "FULLARE \u00c4N SATAN",
-        "url": "https://open.spotify.com/album/3cfTUoDsc5neQ1b26CVTLP"
-      },
-      "artists": [
-        {
-          "name": "Raggarligan",
-          "url": "https://open.spotify.com/artist/6uljULAp34CZrrwTVhImVH"
-        },
-        {
-          "name": "NESS",
-          "url": "https://open.spotify.com/artist/6oFrMdEZ9S3vGF7Cl83qE3"
-        }
-      ],
-      "duration_ms": 148322,
-      "name": "FULLARE \u00c4N SATAN",
-      "url": "https://open.spotify.com/track/6o8Eot8XTwsoIS9sQ6MVV1"
-    },
-    {
-      "added_at": "2023-11-23 23:00:00",
+      "added_at": "2023-11-30 23:00:00",
       "album": {
         "name": "Sl\u00e4pp alla sorger (DRESSD Remix)",
         "url": "https://open.spotify.com/album/6l3F2GeSNp46MAelcXrM7D"
@@ -1049,7 +1165,7 @@
       "url": "https://open.spotify.com/track/4zwr9jOmQY4jHlDzLXz4wr"
     },
     {
-      "added_at": "2023-11-23 23:00:00",
+      "added_at": "2023-11-30 23:00:00",
       "album": {
         "name": "FLICKOR BAK I BILEN",
         "url": "https://open.spotify.com/album/21BxTgtthTPefP1e7gXVtV"
@@ -1069,31 +1185,7 @@
       "url": "https://open.spotify.com/track/6l7E7Qe1YjGiAuumtj5R6U"
     },
     {
-      "added_at": "2023-11-23 23:00:00",
-      "album": {
-        "name": "UNIDUNK",
-        "url": "https://open.spotify.com/album/2G4qhLFJh1ryGtXli2Ts95"
-      },
-      "artists": [
-        {
-          "name": "BR0D3R",
-          "url": "https://open.spotify.com/artist/0NSC3dpFINJlCOdJLSz2Ow"
-        },
-        {
-          "name": "FESTEN",
-          "url": "https://open.spotify.com/artist/6kkPyeuOgSIKJGWbPCSW5h"
-        },
-        {
-          "name": "Crille",
-          "url": "https://open.spotify.com/artist/40HMc5TsB4jkjnSlDK0V9Z"
-        }
-      ],
-      "duration_ms": 146785,
-      "name": "UNIDUNK",
-      "url": "https://open.spotify.com/track/05flMhHC1if3YNdASWLNYs"
-    },
-    {
-      "added_at": "2023-11-23 23:00:00",
+      "added_at": "2023-11-30 23:00:00",
       "album": {
         "name": "MOTVIND",
         "url": "https://open.spotify.com/album/0Bpzk7XdNZi6ifWOMxKdCL"
@@ -1109,7 +1201,7 @@
       "url": "https://open.spotify.com/track/6rcTOCXzLFVMK9rxfm8WOu"
     },
     {
-      "added_at": "2023-11-23 23:00:00",
+      "added_at": "2023-11-30 23:00:00",
       "album": {
         "name": "Gasen i botten (N!NE EPA Remix)",
         "url": "https://open.spotify.com/album/5LpMaZgvDhU1EqidZmczok"
@@ -1129,27 +1221,7 @@
       "url": "https://open.spotify.com/track/0VThB1Vs0NSXBvosBjhE8a"
     },
     {
-      "added_at": "2023-11-23 23:00:00",
-      "album": {
-        "name": "SKITER P\u00c5 ARBETSTID",
-        "url": "https://open.spotify.com/album/3T9DrCA8QQKkBLy2xTR3aW"
-      },
-      "artists": [
-        {
-          "name": "Mr. P",
-          "url": "https://open.spotify.com/artist/5K6cIE6i4ZIWFlrpzi2T5u"
-        },
-        {
-          "name": "Jofa",
-          "url": "https://open.spotify.com/artist/3Wis8lYSGuybe6pMwUT7Ug"
-        }
-      ],
-      "duration_ms": 135141,
-      "name": "SKITER P\u00c5 ARBETSTID",
-      "url": "https://open.spotify.com/track/3FFfmjfbzCc4tUaKHAswM1"
-    },
-    {
-      "added_at": "2023-11-23 23:00:00",
+      "added_at": "2023-11-30 23:00:00",
       "album": {
         "name": "FUCKED UP (Hansell Remix)",
         "url": "https://open.spotify.com/album/4iNEU8AqrNa1dDYKcnp8o8"
@@ -1169,7 +1241,7 @@
       "url": "https://open.spotify.com/track/60S5aC7jL01SqODVWDhBWO"
     },
     {
-      "added_at": "2023-11-23 23:00:00",
+      "added_at": "2023-11-30 23:00:00",
       "album": {
         "name": "Dum i haue",
         "url": "https://open.spotify.com/album/3OLp95GgOiPnnmiU0C5SFU"
@@ -1189,7 +1261,7 @@
       "url": "https://open.spotify.com/track/02V2PBxnk14EbrOaDmI0gU"
     },
     {
-      "added_at": "2023-11-23 23:00:00",
+      "added_at": "2023-11-30 23:00:00",
       "album": {
         "name": "RIKTIGT J\u00c4VLA FULL (Dunka pl\u00e5t)",
         "url": "https://open.spotify.com/album/6L6GKBOLuxUA2qknoQ88ct"
@@ -1209,7 +1281,7 @@
       "url": "https://open.spotify.com/track/7306szl1WpxRboJ3lNAbe8"
     },
     {
-      "added_at": "2023-11-23 23:00:00",
+      "added_at": "2023-11-30 23:00:00",
       "album": {
         "name": "Fyll & Faenskap",
         "url": "https://open.spotify.com/album/4fOwJRo15Uc22mks6PsxVE"
@@ -1229,7 +1301,7 @@
       "url": "https://open.spotify.com/track/3r0aM0M0toxEPbkYtXhNAZ"
     },
     {
-      "added_at": "2023-11-23 23:00:00",
+      "added_at": "2023-11-30 23:00:00",
       "album": {
         "name": "FUCKING RAGGARBIL",
         "url": "https://open.spotify.com/album/257qnzt3brz53GLtA8ctQl"
@@ -1245,7 +1317,7 @@
       "url": "https://open.spotify.com/track/22F3ejBpo8VAW1uI7mq32G"
     },
     {
-      "added_at": "2023-11-23 23:00:00",
+      "added_at": "2023-11-30 23:00:00",
       "album": {
         "name": "Hon vill ha mig",
         "url": "https://open.spotify.com/album/1e1V1uzBnslJr81ZrPcXAq"
@@ -1261,7 +1333,7 @@
       "url": "https://open.spotify.com/track/2Cz4lkjCdohKfWEEmzMCOD"
     },
     {
-      "added_at": "2023-11-23 23:00:00",
+      "added_at": "2023-11-30 23:00:00",
       "album": {
         "name": "K\u00e5t, glad & tacksam - Br\u00e4nna Gummi Remix",
         "url": "https://open.spotify.com/album/56RkHoq2Yn5dOZuMOKpzwA"
@@ -1281,23 +1353,7 @@
       "url": "https://open.spotify.com/track/20vmozs3mYdI296TjIrPb7"
     },
     {
-      "added_at": "2023-11-23 23:00:00",
-      "album": {
-        "name": "ROM & COLA",
-        "url": "https://open.spotify.com/album/70s21vVO6lI3E8fWUU6siA"
-      },
-      "artists": [
-        {
-          "name": "Elov & Beny",
-          "url": "https://open.spotify.com/artist/4uAXlCewJdAu44uAHehKfd"
-        }
-      ],
-      "duration_ms": 166476,
-      "name": "ROM & COLA",
-      "url": "https://open.spotify.com/track/4jxmEBgLV1TFjvtoNpajSX"
-    },
-    {
-      "added_at": "2023-11-23 23:00:00",
+      "added_at": "2023-11-30 23:00:00",
       "album": {
         "name": "VILSE I SVERIGE",
         "url": "https://open.spotify.com/album/1J5SfQgH2bU9qWCqGTN0NZ"
@@ -1317,7 +1373,7 @@
       "url": "https://open.spotify.com/track/7cn7rgOwwpAvs9sBTTVtp2"
     },
     {
-      "added_at": "2023-11-23 23:00:00",
+      "added_at": "2023-11-30 23:00:00",
       "album": {
         "name": "SVEPA DUNKEN",
         "url": "https://open.spotify.com/album/0cOPmnuVvnyUCaEcqDcvT7"
@@ -1333,7 +1389,7 @@
       "url": "https://open.spotify.com/track/2DwFbwPD9YEcG0UqeTVkbC"
     },
     {
-      "added_at": "2023-11-23 23:00:00",
+      "added_at": "2023-11-30 23:00:00",
       "album": {
         "name": "STR\u00d6GET M\u00c5STE G\u00c5",
         "url": "https://open.spotify.com/album/1ydhniCfuAVEtWuGQONUUJ"
@@ -1349,7 +1405,7 @@
       "url": "https://open.spotify.com/track/4g3szqJcYbj0n5qbsD8m5D"
     },
     {
-      "added_at": "2023-11-23 23:00:00",
+      "added_at": "2023-11-30 23:00:00",
       "album": {
         "name": "Garaget",
         "url": "https://open.spotify.com/album/5wjNzkpZ8sgcoJiyRyEZGP"
@@ -1369,7 +1425,7 @@
       "url": "https://open.spotify.com/track/180Z4qutDFApJynfvi8T5x"
     },
     {
-      "added_at": "2023-11-23 23:00:00",
+      "added_at": "2023-11-30 23:00:00",
       "album": {
         "name": "ALKOHOL",
         "url": "https://open.spotify.com/album/76jwHf1OBMPy1AcJOKV4ZU"
@@ -1389,7 +1445,7 @@
       "url": "https://open.spotify.com/track/1VozMxhW4wB8Xhe29w6FTa"
     },
     {
-      "added_at": "2023-11-23 23:00:00",
+      "added_at": "2023-11-30 23:00:00",
       "album": {
         "name": "GYNEKOLOGEN",
         "url": "https://open.spotify.com/album/7d23m92LkZ0xV9w1abLemc"
@@ -1409,7 +1465,7 @@
       "url": "https://open.spotify.com/track/2naSGCjncbz8chvU2qwFzT"
     },
     {
-      "added_at": "2023-11-23 23:00:00",
+      "added_at": "2023-11-30 23:00:00",
       "album": {
         "name": "RAGGARBILAR (WARRA WARRA)",
         "url": "https://open.spotify.com/album/25wtWAZwZCTg3qIIhasZXh"
@@ -1433,7 +1489,7 @@
       "url": "https://open.spotify.com/track/1Rl4O8fqcMTBN8o2rilFBL"
     },
     {
-      "added_at": "2023-11-23 23:00:00",
+      "added_at": "2023-11-30 23:00:00",
       "album": {
         "name": "Kan Inte G\u00e5",
         "url": "https://open.spotify.com/album/1rOwYVdRnJW8rHhEkG6zfC"
@@ -1449,7 +1505,7 @@
       "url": "https://open.spotify.com/track/6KOzO2mUwSwe8a9GiJAn7X"
     },
     {
-      "added_at": "2023-11-23 23:00:00",
+      "added_at": "2023-11-30 23:00:00",
       "album": {
         "name": "DOMINO",
         "url": "https://open.spotify.com/album/0EMP9W1YZPOwEKeXM1hLi4"
@@ -1465,7 +1521,7 @@
       "url": "https://open.spotify.com/track/0afbMSmL4iLcrBukHIEPTS"
     },
     {
-      "added_at": "2023-11-23 23:00:00",
+      "added_at": "2023-11-30 23:00:00",
       "album": {
         "name": "DET \u00c4R JU DEJ JAG G\u00c5R OCH V\u00c4NTAR P\u00c5",
         "url": "https://open.spotify.com/album/484DSeiUk7NvezjWAvI2iP"
@@ -1485,7 +1541,7 @@
       "url": "https://open.spotify.com/track/4lkJBloFZ3aXhsezo8BgO1"
     },
     {
-      "added_at": "2023-11-23 23:00:00",
+      "added_at": "2023-11-30 23:00:00",
       "album": {
         "name": "Dynamit",
         "url": "https://open.spotify.com/album/2JEyGskhrHPavF0s17Vfwc"
@@ -1501,7 +1557,7 @@
       "url": "https://open.spotify.com/track/0kQ0nR6UWBVZvRRLpGSX3w"
     },
     {
-      "added_at": "2023-11-23 23:00:00",
+      "added_at": "2023-11-30 23:00:00",
       "album": {
         "name": "50/50",
         "url": "https://open.spotify.com/album/6vUTGS6AJ8mAIadZjGefoP"
@@ -1517,7 +1573,7 @@
       "url": "https://open.spotify.com/track/7wQKO9dOporjLvFD0TY5nG"
     },
     {
-      "added_at": "2023-11-23 23:00:00",
+      "added_at": "2023-11-30 23:00:00",
       "album": {
         "name": "SKEVA BIL",
         "url": "https://open.spotify.com/album/30I1erayJvUxp9pPEZSGRb"
@@ -1541,7 +1597,7 @@
       "url": "https://open.spotify.com/track/1tOSNNkVKi3AXyHqGsx8kR"
     },
     {
-      "added_at": "2023-11-23 23:00:00",
+      "added_at": "2023-11-30 23:00:00",
       "album": {
         "name": "F\u00d6RS\u00d6KER LE",
         "url": "https://open.spotify.com/album/5bcB7h6aFU9mQj3hUjLmre"
@@ -1557,7 +1613,7 @@
       "url": "https://open.spotify.com/track/3Jr1fTt0S8JZSVok1LwMR9"
     },
     {
-      "added_at": "2023-11-23 23:00:00",
+      "added_at": "2023-11-30 23:00:00",
       "album": {
         "name": "POPPAR TILLS VI LONG GONE",
         "url": "https://open.spotify.com/album/4O775DmabIlEW7J9RZOgzn"
@@ -1577,7 +1633,7 @@
       "url": "https://open.spotify.com/track/1lrOzFIVFTjSpy5XcjbN7T"
     },
     {
-      "added_at": "2023-11-23 23:00:00",
+      "added_at": "2023-11-30 23:00:00",
       "album": {
         "name": "Letkis-Jenka (J.O.X Remix)",
         "url": "https://open.spotify.com/album/6aNAIk2omYBIFdv81UP2kZ"
@@ -1597,7 +1653,7 @@
       "url": "https://open.spotify.com/track/4ohlsV71gpOkHUykUphfE9"
     },
     {
-      "added_at": "2023-11-23 23:00:00",
+      "added_at": "2023-11-30 23:00:00",
       "album": {
         "name": "TRUCKER MOTHERFUCKER",
         "url": "https://open.spotify.com/album/1f1PdO6xQRI8nU32xDd0oq"
@@ -1621,7 +1677,7 @@
       "url": "https://open.spotify.com/track/3VERP2rb6wFy5Qf8J2pcff"
     },
     {
-      "added_at": "2023-11-23 23:00:00",
+      "added_at": "2023-11-30 23:00:00",
       "album": {
         "name": "En j\u00e4vel p\u00e5 att ragga bil",
         "url": "https://open.spotify.com/album/5tsqsn7LIbz7dNsdrhs82C"
@@ -1637,7 +1693,7 @@
       "url": "https://open.spotify.com/track/1wzf0oO2OT51wljEGIprag"
     },
     {
-      "added_at": "2023-11-23 23:00:00",
+      "added_at": "2023-11-30 23:00:00",
       "album": {
         "name": "STUPA I ETT DIKE ( IKV\u00c4LL )",
         "url": "https://open.spotify.com/album/2SRJWJDYxAy9r5Riva5Bfp"
@@ -1661,7 +1717,7 @@
       "url": "https://open.spotify.com/track/5olOA9gDVIgB4aWBbf62HB"
     },
     {
-      "added_at": "2023-11-23 23:00:00",
+      "added_at": "2023-11-30 23:00:00",
       "album": {
         "name": "V\u00e4lkommen in",
         "url": "https://open.spotify.com/album/7Hf4qCMoZANvgHCbVlkNPd"
@@ -1677,31 +1733,7 @@
       "url": "https://open.spotify.com/track/0U27rCNgFuBlk9WwRyClOp"
     },
     {
-      "added_at": "2023-11-23 23:00:00",
-      "album": {
-        "name": "100 SHOTS",
-        "url": "https://open.spotify.com/album/4YzGFWj75uBuBRHDtgy04f"
-      },
-      "artists": [
-        {
-          "name": "Greta Tuborg",
-          "url": "https://open.spotify.com/artist/2hRvedA9zoAUee7DvkVZoQ"
-        },
-        {
-          "name": "Betty Becks",
-          "url": "https://open.spotify.com/artist/53tc97BjjvJ7MJT0GzLQsg"
-        },
-        {
-          "name": "EPA SATAN",
-          "url": "https://open.spotify.com/artist/1Tdt6GDut97A37pO8WFyMA"
-        }
-      ],
-      "duration_ms": 126940,
-      "name": "100 SHOTS",
-      "url": "https://open.spotify.com/track/7v04RskE6ULlYQwwk2X44F"
-    },
-    {
-      "added_at": "2023-11-23 23:00:00",
+      "added_at": "2023-11-30 23:00:00",
       "album": {
         "name": "\u00d6ver gr\u00e4nsen",
         "url": "https://open.spotify.com/album/5NmNTHYvTGmVOxRmuEr1YA"
@@ -1721,23 +1753,7 @@
       "url": "https://open.spotify.com/track/3MWFPfsyvLWKceLAPx0hHY"
     },
     {
-      "added_at": "2023-11-23 23:00:00",
-      "album": {
-        "name": "Raggare",
-        "url": "https://open.spotify.com/album/4x5SNzWjb9PpHNbMWTqSvU"
-      },
-      "artists": [
-        {
-          "name": "Grannen M\u00e5ns",
-          "url": "https://open.spotify.com/artist/1GOGNYD5gumMX6VHfZGXuJ"
-        }
-      ],
-      "duration_ms": 173571,
-      "name": "Raggare",
-      "url": "https://open.spotify.com/track/5IRI4JNziHEtTJoDkyotMO"
-    },
-    {
-      "added_at": "2023-11-23 23:00:00",
+      "added_at": "2023-11-30 23:00:00",
       "album": {
         "name": "DotA",
         "url": "https://open.spotify.com/album/3YdQwpnZdbUn9Pumk6Ul4N"
@@ -1757,7 +1773,7 @@
       "url": "https://open.spotify.com/track/2fVXj4OsaU6OG3gFROCzLe"
     },
     {
-      "added_at": "2023-11-23 23:00:00",
+      "added_at": "2023-11-30 23:00:00",
       "album": {
         "name": "LALA",
         "url": "https://open.spotify.com/album/6ZYs4yXaxTKuQVNsHkg2hD"
@@ -1773,7 +1789,7 @@
       "url": "https://open.spotify.com/track/32Sx8IL2UZKecO00G2LWj8"
     },
     {
-      "added_at": "2023-11-23 23:00:00",
+      "added_at": "2023-11-30 23:00:00",
       "album": {
         "name": "L\u00c4PPGLANS FR\u00c5N DIOR (EPA SATAN & GRETA TUBORG REMIX)",
         "url": "https://open.spotify.com/album/0ncmCdtYBNHVyTRcPs4QVI"
@@ -1797,7 +1813,7 @@
       "url": "https://open.spotify.com/track/04xFlIdZ0HoKIJQsPQ68Bj"
     },
     {
-      "added_at": "2023-11-23 23:00:00",
+      "added_at": "2023-11-30 23:00:00",
       "album": {
         "name": "Dyngnacke",
         "url": "https://open.spotify.com/album/47995xKC0dKYED6RYsAYpl"
@@ -1813,7 +1829,7 @@
       "url": "https://open.spotify.com/track/6OHWGN7KW22jczi6FVEBGE"
     },
     {
-      "added_at": "2023-11-23 23:00:00",
+      "added_at": "2023-11-30 23:00:00",
       "album": {
         "name": "Farv\u00e4l",
         "url": "https://open.spotify.com/album/3OBYM95WFMy24ZiWK5vPHQ"
@@ -1829,31 +1845,7 @@
       "url": "https://open.spotify.com/track/15vhsww4sVuzPOqN04DdBc"
     },
     {
-      "added_at": "2023-11-23 23:00:00",
-      "album": {
-        "name": "LAJF",
-        "url": "https://open.spotify.com/album/4AHW4VQOdx3jhMt5iXKA1Z"
-      },
-      "artists": [
-        {
-          "name": "250 kg k\u00e4rlek",
-          "url": "https://open.spotify.com/artist/4zLti6k7kpm9jwOVJv7wtT"
-        },
-        {
-          "name": "Louise Andersson Bodin",
-          "url": "https://open.spotify.com/artist/23z00NPQmiYxmpZSiDlQAE"
-        },
-        {
-          "name": "Alva Kedhammar",
-          "url": "https://open.spotify.com/artist/7IBhC43TZ5aOD1e4HZvz3g"
-        }
-      ],
-      "duration_ms": 230937,
-      "name": "LAJF",
-      "url": "https://open.spotify.com/track/4IcIfknW05DXBLlkQGMDAM"
-    },
-    {
-      "added_at": "2023-11-23 23:00:00",
+      "added_at": "2023-11-30 23:00:00",
       "album": {
         "name": "GPS",
         "url": "https://open.spotify.com/album/7wR0oq6vSBW4tBjYgHL01k"
@@ -1869,7 +1861,7 @@
       "url": "https://open.spotify.com/track/1raTAM5ZcDppB3x7CtDjF9"
     },
     {
-      "added_at": "2023-11-23 23:00:00",
+      "added_at": "2023-11-30 23:00:00",
       "album": {
         "name": "Ikv\u00e4ll Igen",
         "url": "https://open.spotify.com/album/1ivEkyr50tSXBwwZ8z7E32"
@@ -1885,7 +1877,7 @@
       "url": "https://open.spotify.com/track/4o5Ob60pz8QHcFKcr4MWyf"
     },
     {
-      "added_at": "2023-11-23 23:00:00",
+      "added_at": "2023-11-30 23:00:00",
       "album": {
         "name": "N\u00c4TTERNA P\u00c5 SM\u00d6GEN",
         "url": "https://open.spotify.com/album/0S97r72koBAgUPWmole90S"

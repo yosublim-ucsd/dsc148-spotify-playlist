@@ -4,7 +4,7 @@
 
 > 今週も話題の新曲を最速で。 Cover: King Gnu \*👉 <a href="https://spice.eplus.jp/articles/324212?utm\_source=spotify.com&utm\_medium=referral">SPICE連動記事</a>から新着情報をキャッチ!
 
-4,160 songs - 10 day 12 hr 48 min
+4,162 songs - 10 day 12 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -691,6 +691,7 @@
 | [DubStory](https://open.spotify.com/track/7rnbYYEaz20FaXfpzUHkqq) | [futures](https://open.spotify.com/artist/2wtFS2xpKzmzVCD1k9vhI6) | [TOKYO OLD SCHOOL](https://open.spotify.com/album/6MnBxETQ3RwIKPvqpU5ssb) | 4:30 | 2023-02-21 | 2023-03-01 |
 | [DURARA](https://open.spotify.com/track/0HxnxaGAtHmGs2W9FNJHtB) | [Lenny code fiction](https://open.spotify.com/artist/6nvlfxR3ZRCNzw39ZTcGSR) | [ハッピーエンドを始めたい](https://open.spotify.com/album/1ahHr0x8oLKdtnSNq2gXnZ) | 3:13 | 2023-07-25 | 2023-07-29 |
 | [DURARA](https://open.spotify.com/track/5sjMYTyQnrDixy5R19SYjN) | [Lenny code fiction](https://open.spotify.com/artist/6nvlfxR3ZRCNzw39ZTcGSR) | [ハッピーエンドを始めたい](https://open.spotify.com/album/1jGRkHKkoYkHjxt3cBWD9C) | 3:13 | 2023-07-28 | 2023-08-02 |
+| [Dynamics](https://open.spotify.com/track/7wi3S0J8v5uA12cXZI4xug) | [H ZETTRIO](https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY) | [Dynamics](https://open.spotify.com/album/2j45BDfC3FVhEbiExfU1oS) | 2:48 | 2023-11-30 |  |
 | [E\-R\-T\-H\-C\-Na\-H\-Q\-ka\-H\-K\-M\-B\-Ne\-Z\-Om](https://open.spotify.com/track/18mcIcXC3YMnF1akgaYGDR) | [BiS](https://open.spotify.com/artist/686Q2yJDYA5wjFy1PJXjGX) | [E\-R\-T\-H\-C\-Na\-H\-Q\-ka\-H\-K\-M\-B\-Ne\-Z\-Om](https://open.spotify.com/album/5OWUfCVXL9QZHzMIdipGdR) | 3:53 | 2023-06-28 | 2023-07-05 |
 | [ears](https://open.spotify.com/track/64iwMa5Iq6343hvufPTCOZ) | [Thiiird Place](https://open.spotify.com/artist/1p9jWKYjBCIfRSlaO7Ogxk) | [ears](https://open.spotify.com/album/7bzaC6fiUvH3XWd0azxDyf) | 3:43 | 2023-02-21 | 2023-03-01 |
 | [Easy come, easy go](https://open.spotify.com/track/2K86bbtVwFu3i7QoWRYK5u) | [FANTASTICS from EXILE TRIBE](https://open.spotify.com/artist/162Ols90jU4CctXQz15NxS) | [Easy come, easy go](https://open.spotify.com/album/1StKLiOe1dNomBIonIPx5d) | 3:17 | 2023-02-28 | 2023-03-08 |
@@ -3417,6 +3418,7 @@
 | [リミテッド](https://open.spotify.com/track/3rEDPenuFh9YLk7p4LEr6H) | [Kei Sugawara](https://open.spotify.com/artist/7xlTOxmnztZVNgoPlMV6YS) | [one way](https://open.spotify.com/album/7IT9whzqJkUhKuL2ALXa3q) | 2:43 | 2023-03-21 | 2023-03-23 |
 | [リンネリンネリンネ \(feat\. ロボ宙 & LUVRAW\)](https://open.spotify.com/track/4jxYt27FFFEawoXt95i0oQ) | [SCHA DARA PARR](https://open.spotify.com/artist/43hK0a9mmIS2ROhc0ukG7X), [ロボ宙](https://open.spotify.com/artist/0s5yE0zwGHYzAFG4B8u2i8), [Luvraw](https://open.spotify.com/artist/7rsAMcN0pwvhIsuEN0MS9z) | [リンネリンネリンネ \(feat\. ロボ宙 & LUVRAW\)](https://open.spotify.com/album/0rAXNyDVYGpvvJxClWpWes) | 5:07 | 2023-04-04 | 2023-04-12 |
 | [ルパン三世主題歌Ⅱ](https://open.spotify.com/track/6XEtXkDY8mIVFj6LgN4AOJ) | [山下穀雄](https://open.spotify.com/artist/2R2YOJvwaLrE32lLSkSqJI), [Otomo Yoshihide](https://open.spotify.com/artist/4P8VTkHWHX32b1xRa7uK03), [Tavito Nanao](https://open.spotify.com/artist/6OK5I4qMrrS3taSgczMS1a) | [ルパン三世主題歌Ⅱ](https://open.spotify.com/album/2VrwFGVZVQ6K9qslrC8HLi) | 6:12 | 2023-01-31 | 2023-02-08 |
+| [ルビー](https://open.spotify.com/track/61dKPB7KS5K0ydinagQy4U) | [satomoka](https://open.spotify.com/artist/0yFTQM79Y12E6J6aOPRoZg) | [ルビー](https://open.spotify.com/album/4XH4mGDiIMfSsr0peqj5F0) | 4:30 | 2023-11-30 |  |
 | [ルンルン](https://open.spotify.com/track/6WdmYOXOZPCTUXsPLDrnb1) | [H ZETTRIO](https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY) | [ルンルン](https://open.spotify.com/album/19U81Y3NPDXB6pJ16m8UXy) | 3:10 | 2023-10-03 | 2023-10-11 |
 | [ルーシー](https://open.spotify.com/track/4u2ssD8qpxwayjjghIMX4Z) | [ケプラ](https://open.spotify.com/artist/1vJQ33eLhZQw9PHiHoA8ZJ) | [ルーシー](https://open.spotify.com/album/1zkesL9M2wNq0qQJiIlOId) | 3:32 | 2023-02-21 | 2023-03-01 |
 | [ルージュ feat\. 向井太一](https://open.spotify.com/track/06KGPEWi5lFvv31MK7Qzu4) | [LUCKY TAPES](https://open.spotify.com/artist/7tyrh2CwSnilzMD8olQxcx), [Taichi Mukai](https://open.spotify.com/artist/2oNStf3CKKLM5lnzELWMcH) | [ルージュ feat\. 向井太一](https://open.spotify.com/album/1nUWMtWcOHFLlzVjFHOlIQ) | 3:37 | 2023-10-10 | 2023-10-12 |

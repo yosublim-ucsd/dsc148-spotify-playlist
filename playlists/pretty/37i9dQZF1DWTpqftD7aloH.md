@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTpqftD7aloH.md) - [plain]
 
 > No caminho para igreja, trabalho ou voltando para casa, louve ao Senhor em todo o tempo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 324,608 likes - 120 songs - 11 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 324,819 likes - 120 songs - 11 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTpqftD7aloH.md) - [plain]
 | 119 | [Não Dá Pra Viver Sem Ti \- Ao Vivo](https://open.spotify.com/track/2kfvjGjtxazlIz8Lxuwvy4) | [Régis Danese](https://open.spotify.com/artist/0eEbruEG13xwoZ0uT2rpll) | [Não Dá Pra Viver Sem Ti \(Ao Vivo\)](https://open.spotify.com/album/32H00NWDHMo9c8cdNpSfmD) | 5:38 |
 | 120 | [Pra Ti Eu Vou \- Ao Vivo](https://open.spotify.com/track/2U9pql1iLy9o3ZRKygbMwR) | [Matheus Goulart](https://open.spotify.com/artist/0ktFffygQwR4rvwb44CYMh), [LUDI](https://open.spotify.com/artist/5jaTnKaikL73O3eAQgtwde) | [Pra Ti Eu Vou \(Ao Vivo\)](https://open.spotify.com/album/1cpQFbRUBIAbX77LqwdkjB) | 5:03 |
 
-Snapshot ID: `MCxhNjI1YzkxMzJjOWY4OWUwOWE1NjkzNjVjZmI3NWJlMjM4OTdiNTMw`
+Snapshot ID: `MCxmNWMzN2I4MzA5Y2UyNGFjN2FkMjk0MzE5ODQ0YjgyMDQzMmU4MGI2`

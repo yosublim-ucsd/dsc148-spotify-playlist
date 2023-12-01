@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzTSrc7SiSZ.md) - [plain]
 
 > Get the chill vibes going and flowing ✨ Las vibras tranqui que ocupas en tu vida.
 
-[Spotify](https://open.spotify.com/user/spotify) - 669,920 likes - 100 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 669,961 likes - 100 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzTSrc7SiSZ.md) - [plain]
 | 99 | [Lonely](https://open.spotify.com/track/3Mcu3bSlSYJkckbZ1FpfEB) | [Sofía Valdés](https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT) | [Lonely](https://open.spotify.com/album/5kGzldKUiSGTRkINcNQ6tC) | 3:33 |
 | 100 | [7 de febrero](https://open.spotify.com/track/2S0RpAiBKgdVyelIjFDc0L) | [Yara](https://open.spotify.com/artist/4Yy7BNU597L8XTM2qjwgPv), [Yorkinson](https://open.spotify.com/artist/5a34fiAtb9hOllbTqKUvSK) | [7 de febrero](https://open.spotify.com/album/3drXdjre1aVmmXy43XDvbs) | 3:13 |
 
-Snapshot ID: `MCw2ODlhZTM5ZjM3OWE1YjQ3YTU0OWQ0ODU3N2M1ZTc4NWViNmFmNjJl`
+Snapshot ID: `MCxlMjhmOTM3NzE5NjUzZDI5N2RjYjljMWViM2EyYjVjOTBiODlkMzAx`

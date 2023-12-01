@@ -1,12 +1,12 @@
 {
   "description": "La sensibilidad a flor de piel.",
-  "num_followers": 63537,
+  "num_followers": 63633,
   "original_name": "C\u00e1ncer",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxM2M2MTYwNjNiNTUxZmQ2YTYyMTI1MDFlZDZkZWM0OTMxNWMwMTIz",
+  "snapshot_id": "MCxmOWY5YzFiOGNmZmE2MGYyZmJhNGNmYTk4MjNjMTdlZDNlYTcyMTNj",
   "tracks": [
     {
       "added_at": "2021-06-18 00:37:00",
@@ -414,6 +414,10 @@
         {
           "name": "Massive Attack",
           "url": "https://open.spotify.com/artist/6FXMGgJwohJLUSr5nVlf9X"
+        },
+        {
+          "name": "Elizabeth Fraser",
+          "url": "https://open.spotify.com/artist/791Z3924aa619hZ3xsOJEx"
         }
       ],
       "duration_ms": 330773,

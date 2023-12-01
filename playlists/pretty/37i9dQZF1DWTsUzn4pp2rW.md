@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTsUzn4pp2rW.md) - [plain]
 
 > Get into the mood with beautiful collections of Jazz Pop tunes\. Cover: Michael Bublé
 
-[Spotify](https://open.spotify.com/user/spotify) - 142,926 likes - 140 songs - 8 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 142,984 likes - 140 songs - 8 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -149,4 +149,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTsUzn4pp2rW.md) - [plain]
 | 139 | [Same Way Home](https://open.spotify.com/track/5lYlBcimTYIywerAwZnyi0) | [Rotem Sivan](https://open.spotify.com/artist/2OfJOtcTmunKs2iIXGC9Ak), [Mike Goldstein](https://open.spotify.com/artist/6qfMf8A1BZZsPeQdVkewVA) | [Same Way Home](https://open.spotify.com/album/4tzpMQQJ5JPI6n7xEsxs7e) | 2:58 |
 | 140 | [Snowflakes](https://open.spotify.com/track/3Hbylm12DZXnOJQBdBkOaf) | [Jorunn Westeraas](https://open.spotify.com/artist/6h4qPRsCLMPKVrW7nbLn18), [Hege Saugstad](https://open.spotify.com/artist/5qsnbEMK2eQMFSAyP6BsNT), [Monika Gellein Mathisen](https://open.spotify.com/artist/4ItYdjOC69BL5Y6yETcTym) | [Snowflakes](https://open.spotify.com/album/7M6CJaL7NXBG7EWRnsizuI) | 3:44 |
 
-Snapshot ID: `MCxiODk1YTlhMWY0YmY0Yjg3NmY4OTM5YjcwMDI1NTJlNDJmY2E3NmE1`
+Snapshot ID: `MCw5NjIxOTJkNGY2NTYzYTQ0ZGIzZWZmMzIyMWQyNjVlOWVlNmY5NGUy`

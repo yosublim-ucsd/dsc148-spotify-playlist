@@ -254,7 +254,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 221226,
       "name": "CHINWI",
       "url": "https://open.spotify.com/track/0KJjxv5b5sm0rJ3T1bdiVR"
@@ -370,6 +370,28 @@
       "duration_ms": 194429,
       "name": "Ena w Lil",
       "url": "https://open.spotify.com/track/6LtMDz7Nwtk96t4kcIECSC"
+    },
+    {
+      "album": {
+        "name": "FEL HAWA SAWA",
+        "url": "https://open.spotify.com/album/07uJOfbHCHwkQ3x3hlW1Es"
+      },
+      "artists": [
+        {
+          "name": "Larbi Imghrane",
+          "url": "https://open.spotify.com/artist/1YVSmUGMeeVFoA54ZX1vvg"
+        },
+        {
+          "name": "Zakaria Ghafouli",
+          "url": "https://open.spotify.com/artist/5m3exVDqKodrTlc3jECMTD"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192642,
+      "name": "FEL HAWA SAWA",
+      "url": "https://open.spotify.com/track/6dWnQFvP0rj5VgTdKEHtBE"
     },
     {
       "album": {
@@ -728,7 +750,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 202255,
       "name": "Laman Khalitini",
       "url": "https://open.spotify.com/track/5NuXWwTu9nT3qKnjwRIEVr"

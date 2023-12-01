@@ -6303,6 +6303,24 @@
     },
     {
       "album": {
+        "name": "Likkle Boy",
+        "url": "https://open.spotify.com/album/6UoEY8gw0sUG1YReQCc1O7"
+      },
+      "artists": [
+        {
+          "name": "Sarettii",
+          "url": "https://open.spotify.com/artist/4kUfJdASJDMPLuo1t1N2zi"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "Likkle Boy",
+      "url": "https://open.spotify.com/track/1Pbc670CnjRQT2z7W7WzDN"
+    },
+    {
+      "album": {
         "name": "Lilla B",
         "url": "https://open.spotify.com/album/28MPRpCxLmy4OTCvvhFtAW"
       },
@@ -7184,7 +7202,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 184606,
       "name": "Natten blir till dag",
       "url": "https://open.spotify.com/track/2cqyU75B4rXPHlU2X6WLCI"

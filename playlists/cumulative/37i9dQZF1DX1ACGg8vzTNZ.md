@@ -4,7 +4,7 @@
 
 > Chilled instrumentals to get you focused and ready for the day.
 
-107 songs - 6 hr 36 min
+108 songs - 6 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,7 +99,8 @@
 | [Solitude I](https://open.spotify.com/track/3KcxIhIMJD7jrsrpczNbfU) | [Tom Ashbrook](https://open.spotify.com/artist/481U7FXn2fSb0YXFqKdYtO) | [Solitude I](https://open.spotify.com/album/05wfC9H8BLS6pFtI8X0S3G) | 3:49 | 2022-07-11 | 2022-07-29 |
 | [Solregn](https://open.spotify.com/track/09kBa4sfszwK5MN1DWoOFw) | [Julia Gjertsen](https://open.spotify.com/artist/6dEpJk27D9ijwgvz33icCC) | [Solregn](https://open.spotify.com/album/3jd2zTBl6CJLIX8YTn7xhv) | 3:10 | 2023-02-01 |  |
 | [Somnia](https://open.spotify.com/track/3Q1jt1WHNwsszyEAJmyaRL) | [Peter Gregson](https://open.spotify.com/artist/71tFaKKy6x1inyCFHjpzUE) | [Somnia](https://open.spotify.com/album/7dtv2mPeog1e4VssWa3zh4) | 3:18 | 2022-10-28 | 2023-02-02 |
-| [Still / Sound – piano reworks](https://open.spotify.com/track/1n6ouOiQpRXaWVTeDOGxDW) | [Sophie Hutchings](https://open.spotify.com/artist/54MsweggxTxlfYUbhZNIQ0), [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [Still / Sound — piano reworks](https://open.spotify.com/album/5KmLU0k60tDKnEhgRAqG2N) | 4:51 | 2022-10-28 |  |
+| [Still / Sound – piano reworks](https://open.spotify.com/track/1n6ouOiQpRXaWVTeDOGxDW) | [Sophie Hutchings](https://open.spotify.com/artist/54MsweggxTxlfYUbhZNIQ0), [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [Still / Sound — piano reworks](https://open.spotify.com/album/5KmLU0k60tDKnEhgRAqG2N) | 4:51 | 2022-10-28 | 2023-12-01 |
+| [Still / Sound – piano reworks](https://open.spotify.com/track/4BlEJ8BG3efMsKKJMhiMar) | [Sophie Hutchings](https://open.spotify.com/artist/54MsweggxTxlfYUbhZNIQ0), [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [some kind of peace — piano reworks](https://open.spotify.com/album/79a34uOB7jdMrSECClgqOv) | 4:51 | 2023-04-21 |  |
 | [Still Blue](https://open.spotify.com/track/6qrRrLT4NGgnhjF0Ur4JnD) | [Olivia Belli](https://open.spotify.com/artist/3JU9NLB27wyGhbwbApR9uy), [Enrico Belli](https://open.spotify.com/artist/1AFiIuKX5f27Pmlpa2KHYB) | [Still Blue](https://open.spotify.com/album/5oGorJ69YAgPT4PtECGLpR) | 6:14 | 2022-07-11 | 2023-02-02 |
 | [Suite in D IV \(Dreamland\)](https://open.spotify.com/track/28sw29g4kMAqnsWHQkqRhZ) | [Martin Bloch](https://open.spotify.com/artist/2WJ5Jh2DxFhkyA3xRoq77z) | [Suite in D IV \(Dreamland\)](https://open.spotify.com/album/58GxfMDdj40e0aqBKEXrQP) | 2:54 | 2022-07-11 |  |
 | [Søndermarken \(Video Edit\)](https://open.spotify.com/track/6nr8pvjY7kvf0dVclOzNuj) | [Henrik Lindstrand](https://open.spotify.com/artist/1jdUu8RsoIhTGLeJvzoACP) | [Søndermarken \(Video Edit\)](https://open.spotify.com/album/4Fhv8iZsFv6ZRFNjbmOeSC) | 4:10 | 2022-07-11 | 2023-02-02 |

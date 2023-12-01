@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQGZ7yvpH00.md) - [plain]
 
 > guitarras agüitadas pa' cantarle al amor y al desamor 💔🙁 Officialalex425 y Oscar Maydon en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 739,948 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 740,784 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQGZ7yvpH00.md) - [plain]
 | 49 | [Me Pone Mal](https://open.spotify.com/track/02Qd3DnIB7HKHMeLYEomb2) | [Michelle BI](https://open.spotify.com/artist/2dUVZnenljNsORRkO4OnzM) | [Me Pone Mal](https://open.spotify.com/album/49o6s7X89JT5dR951SKoN2) | 2:21 |
 | 50 | [Solo Tú Nomas](https://open.spotify.com/track/6z3ntFQzzu0aGtrHAKcCiR) | [Lluvia Arámbula](https://open.spotify.com/artist/1GNHRCTZBHUf8rYfPTjT92) | [En Mi Soledad](https://open.spotify.com/album/5nVAi9SXCc6U2jouydyOOG) | 2:07 |
 
-Snapshot ID: `MCw2MTk4MzM0MzhjMzI5Njk3OTFlNzhiNGIxODg2MmEzNmUyNTM4NGYz`
+Snapshot ID: `MCwxYjUzYmZlNzIwZGFlNDRlMGZkZTg3ZDU1YzZjZmQ1NGMyMjU0NGYz`

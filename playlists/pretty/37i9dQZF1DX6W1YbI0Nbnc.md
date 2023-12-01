@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6W1YbI0Nbnc.md) - [plain](/playlists/plain/37i9dQZF1DX6W1YbI0Nbnc) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX6W1YbI0Nbnc)
 
-### [EQUAL Hong Kong](https://open.spotify.com/playlist/37i9dQZF1DX6W1YbI0Nbnc)
+### [Best of EQUAL Hong Kong 2023](https://open.spotify.com/playlist/37i9dQZF1DX6W1YbI0Nbnc)
 
 > Highlights of 2023, listen to women at full volume\. 結集2023，香港EQUAL女聲力量！\(cover: Anita Mui 梅艷芳\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,200 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,219 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6W1YbI0Nbnc.md) - [plain]
 | 49 | [恐懼蠶食心靈](https://open.spotify.com/track/5B5cFo2zP4DoPucjFLpiuj) | [Joyce Cheng](https://open.spotify.com/artist/1y4HuOPsPuo8bBIzk5CXsV) | [恐懼蠶食心靈](https://open.spotify.com/album/0FrVK9qBrzzP1WRDRgGL1M) | 3:30 |
 | 50 | [先哭為敬](https://open.spotify.com/track/7oVLiGq3yyLnGzlKvhgd3t) | [Joyce Cheng](https://open.spotify.com/artist/1y4HuOPsPuo8bBIzk5CXsV) | [Joyce To The World](https://open.spotify.com/album/7cFAV4DrbsYVLtLxVknIQF) | 4:10 |
 
-Snapshot ID: `MCw5MzIxYzUzZDNlNDliMTkzYzI1MWE2M2QyMGI5MWNhZDdhMDlkMjg5`
+Snapshot ID: `MCw3NGZlYjBiYTU1Zjg4MTg2MDQ3OGMxOGMyM2ZhYWE3ODIyYmYyZGZi`

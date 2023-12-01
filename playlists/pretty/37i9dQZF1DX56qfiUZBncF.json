@@ -1,12 +1,12 @@
 {
   "description": "Let these innovative tracks spark your creativity and inspiration.",
-  "num_followers": 380276,
+  "num_followers": 380290,
   "original_name": "Creativity Boost",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiOGM0MjkzNjgzMmQ0YTcxMjBmYzlmODI3ODMzMDRkN2YxOTI1ZjMz",
+  "snapshot_id": "MCw5YjcwOTJlNjEwOTU5Y2VmZmFkZjE4YzQwYWMxZjk3ZWM5NDY1ZDQx",
   "tracks": [
     {
       "added_at": "2023-01-11 21:01:15",
@@ -1619,22 +1619,6 @@
     {
       "added_at": "2023-01-11 21:01:15",
       "album": {
-        "name": "Tunnels and Planes",
-        "url": "https://open.spotify.com/album/0HCzdELOpFkRXIhqmZb8bm"
-      },
-      "artists": [
-        {
-          "name": "Nick Leng",
-          "url": "https://open.spotify.com/artist/2fR4D8OveDTHMvCvm7paAO"
-        }
-      ],
-      "duration_ms": 251294,
-      "name": "Tunnels and Planes",
-      "url": "https://open.spotify.com/track/4yjfM171SimZyctF5W3yoX"
-    },
-    {
-      "added_at": "2023-01-11 21:01:15",
-      "album": {
         "name": "Iridescent",
         "url": "https://open.spotify.com/album/7kHDeoEZxg9OfOMr13b2IU"
       },
@@ -1735,6 +1719,26 @@
       "duration_ms": 188866,
       "name": "Change Your Mind",
       "url": "https://open.spotify.com/track/0ryVvXd2EzVqNR0yTLCzNT"
+    },
+    {
+      "added_at": "2023-01-11 21:01:15",
+      "album": {
+        "name": "Interstellar Love (feat. Leon Bridges)",
+        "url": "https://open.spotify.com/album/4SLthaJgVwyX4yZDwLq6bS"
+      },
+      "artists": [
+        {
+          "name": "The Avalanches",
+          "url": "https://open.spotify.com/artist/3C8RpaI3Go0yFF9whvKoED"
+        },
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+        }
+      ],
+      "duration_ms": 218506,
+      "name": "Interstellar Love (feat. Leon Bridges)",
+      "url": "https://open.spotify.com/track/59lpmLRHEkHxufzKdOFRRA"
     }
   ],
   "unique_name": "Creativity Boost",

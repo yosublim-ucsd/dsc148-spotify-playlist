@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX52ln8eMkne9.md) - [plain]
 
 ### [Cozy Jazz](https://open.spotify.com/playlist/37i9dQZF1DX52ln8eMkne9)
 
-> Soft and cozy vocal and instrumental Jazz\. Cover: Melody Gardot
+> Soft and cozy vocal and instrumental Jazz\. Cover: Laufey
 
-[Spotify](https://open.spotify.com/user/spotify) - 142,447 likes - 180 songs - 13 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 142,567 likes - 180 songs - 13 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -189,4 +189,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX52ln8eMkne9.md) - [plain]
 | 179 | [The Two Lonely People](https://open.spotify.com/track/6unBECgGmFBtwNJbtbPTtn) | [Donatella Montinaro](https://open.spotify.com/artist/0C4L4Wip7dcoY9jYr5gn6G), [Danilo Tarso](https://open.spotify.com/artist/0HlyGInx05IRKHKDRVVaTY) | [Still We Dream](https://open.spotify.com/album/0k5jjWYe4MCUgU1oX4vo9l) | 4:22 |
 | 180 | [I'm Glad There Is You](https://open.spotify.com/track/5tXrETFfbMA1q6tgP7aSwz) | [Jamie Cullum](https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o) | [Catching Tales](https://open.spotify.com/album/2m7zerGZkKVyB192vMpvLr) | 4:09 |
 
-Snapshot ID: `MCw0OGRiMzNiMjkyOGI4ZWZjMGFhZTg5NmNkMWIzODU0NDBhOTdjNjFh`
+Snapshot ID: `MCxiZTkwYmI4Yzk5ZmUzYTI0MmU3MzZlMDQ4ZDNkNTIxMWE1NjU5MWNh`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX28npkgy2RE4.md) - [plain]
 
 > New styles, deep sounds\. Cover: Lucius
 
-[Spotify](https://open.spotify.com/user/spotify) - 414,087 likes - 150 songs - 9 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 414,150 likes - 150 songs - 9 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX28npkgy2RE4.md) - [plain]
 | 149 | [Under the Concrete](https://open.spotify.com/track/0P3tGih9Q0WCRZObKwCujT) | [Joshua Burnside](https://open.spotify.com/artist/244AFgFclA9c1IcjWOAqoV) | [Into the Depths of Hell](https://open.spotify.com/album/7BMZsEBUvcUTxTjnhXbl9c) | 3:25 |
 | 150 | [I Was Wrong](https://open.spotify.com/track/3UQKlahxsfacw8vKmTYSzb) | [BAILEN](https://open.spotify.com/artist/3sYoUB7tAeXO7sOAB8eaII) | [Thrilled To Be Here](https://open.spotify.com/album/03tlaFyvYYWHr16yGL01qZ) | 3:14 |
 
-Snapshot ID: `MCxiZGQwN2FhMDcwODQyY2YxMjAzMGU5NGI3NjEwMGI4ZTIzNDlmNzEx`
+Snapshot ID: `MCw3NjQ5MmFlYThlODU5NzBiZjQyZGNmMDdiMGI4YjI4Y2E5NTg2NDE1`

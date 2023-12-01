@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Pqxel6mitp.md) - [plain]
 
 > A cup of Joe and the raw Blues.
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,702 likes - 120 songs - 7 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,756 likes - 120 songs - 7 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Pqxel6mitp.md) - [plain]
 | 119 | [Smoke In Heaven](https://open.spotify.com/track/2qYV73ZzVbhgqGyhqP6myQ) | [Jhett Black](https://open.spotify.com/artist/4xz4YAqEHCJQsbrqBy4Iz2) | [Roots](https://open.spotify.com/album/5UThB2HUZQxIe2mhEV97qd) | 3:42 |
 | 120 | [Louis Collins](https://open.spotify.com/track/5hoYqvKHvdpZXk2WwlpSWq) | [Mississippi John Hurt](https://open.spotify.com/artist/1FdwVX3yL8ITuRnTZxetsA) | [Today!](https://open.spotify.com/album/2AijI0LujDEUd9smSk87Uw) | 4:08 |
 
-Snapshot ID: `MCw2N2M2ZDc4NWZiYmRhZDIzMTk2MGE3NWNkNWY3Y2U4N2RkYzdmOTMz`
+Snapshot ID: `MCwyZTUxYjAyYjMzYmFlN2M0MGQxMzc4ZWE3MDJhNTY0OWYwYTc4MmFk`

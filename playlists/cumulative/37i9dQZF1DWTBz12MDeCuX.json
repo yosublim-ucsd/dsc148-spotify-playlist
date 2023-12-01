@@ -129,6 +129,28 @@
     },
     {
       "album": {
+        "name": "10 sqm room",
+        "url": "https://open.spotify.com/album/2plFfOFUhmUJHPkPTujDzQ"
+      },
+      "artists": [
+        {
+          "name": "Moritz",
+          "url": "https://open.spotify.com/artist/67aMKJMVxYIbbVjzfJ5dPZ"
+        },
+        {
+          "name": "FRISO",
+          "url": "https://open.spotify.com/artist/4xAMTJFCMfH1AZNQexkYEt"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162000,
+      "name": "10 sqm room",
+      "url": "https://open.spotify.com/track/5csPMAamJbRjehlvKC34eT"
+    },
+    {
+      "album": {
         "name": "10/10 (KXXMA Remix)",
         "url": "https://open.spotify.com/album/54S1UWB1QeLUDVsQRWUoia"
       },
@@ -632,7 +654,7 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 182613,
       "name": "3Uhr19",
       "url": "https://open.spotify.com/track/3njyFzBMYYMnfYQKHMTCt5"
@@ -2032,7 +2054,7 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 172911,
       "name": "Atemlos durch die Nacht - 10 Year Anniversary Version",
       "url": "https://open.spotify.com/track/7B7X3R3d2qEIsJFgqICgNy"
@@ -5266,7 +5288,7 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 253076,
       "name": "Confidence",
       "url": "https://open.spotify.com/track/7to68V64Cu6zk0UDo5tyw3"
@@ -6595,6 +6617,24 @@
     },
     {
       "album": {
+        "name": "Freischwimmer",
+        "url": "https://open.spotify.com/album/0gsQ4zndeWzFIQbASQ9L3w"
+      },
+      "artists": [
+        {
+          "name": "Echt",
+          "url": "https://open.spotify.com/artist/6zjMMh0ijUZ0dr6w2Pfe9P"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261933,
+      "name": "Du tr\u00e4gst keine Liebe in dir",
+      "url": "https://open.spotify.com/track/21aT5lIYHjyBIFrXNbNY5U"
+    },
+    {
+      "album": {
         "name": "DU WAYST",
         "url": "https://open.spotify.com/album/5Aiq4lr1j8MlpwZ4F77OwD"
       },
@@ -7350,6 +7390,24 @@
       "duration_ms": 107932,
       "name": "erste ma verliebt </3",
       "url": "https://open.spotify.com/track/1tpDvNYpe7sISg9HFZqJ97"
+    },
+    {
+      "album": {
+        "name": "ersterplatz",
+        "url": "https://open.spotify.com/album/48ZvOk3LIgBW5IE3yfvZFf"
+      },
+      "artists": [
+        {
+          "name": "Aaron",
+          "url": "https://open.spotify.com/artist/1Z3Z5OW15EG3qwFaiqmXvQ"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126967,
+      "name": "ersterplatz",
+      "url": "https://open.spotify.com/track/5dvwBo83mtpZUmi9tf96pf"
     },
     {
       "album": {
@@ -8354,7 +8412,7 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 150441,
       "name": "Fluxxwave",
       "url": "https://open.spotify.com/track/5K2onWVFDevmZ5y9AgiEcr"
@@ -8394,6 +8452,28 @@
       "duration_ms": 136498,
       "name": "FOMO",
       "url": "https://open.spotify.com/track/7vJUbd7bLIc50cA0NJqzNB"
+    },
+    {
+      "album": {
+        "name": "FOMO",
+        "url": "https://open.spotify.com/album/5BVduvlVJN1gvw2fZ64esn"
+      },
+      "artists": [
+        {
+          "name": "REEZA",
+          "url": "https://open.spotify.com/artist/3Mfatql1PMmQrdB37eXO5e"
+        },
+        {
+          "name": "MANIS",
+          "url": "https://open.spotify.com/artist/6UTeoyE5DmlcRgYoV5e50n"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147200,
+      "name": "FOMO",
+      "url": "https://open.spotify.com/track/0cKSYTMDSprUy4VGyQaJV3"
     },
     {
       "album": {
@@ -12104,7 +12184,7 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 162373,
       "name": "If You Died Today",
       "url": "https://open.spotify.com/track/5HvkvFJeLOOEbCfHPatHAh"
@@ -12350,6 +12430,24 @@
       "duration_ms": 105120,
       "name": "In Love",
       "url": "https://open.spotify.com/track/5e6AR8ACevdfJHBi3xxNJn"
+    },
+    {
+      "album": {
+        "name": "in meinem kopf",
+        "url": "https://open.spotify.com/album/6wXQeOqPBpCRChEjOYjvXO"
+      },
+      "artists": [
+        {
+          "name": "3LNA",
+          "url": "https://open.spotify.com/artist/1emgDf5qBtbL909f2Pt7uP"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "in meinem kopf",
+      "url": "https://open.spotify.com/track/5gmF9JPBbeWd9NJaAR9e0C"
     },
     {
       "album": {
@@ -13390,7 +13488,7 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 149268,
       "name": "Kentern",
       "url": "https://open.spotify.com/track/39v1nqefueaCsMnFqZ97lz"
@@ -13750,7 +13848,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 163940,
       "name": "Kommissar",
       "url": "https://open.spotify.com/track/0djjZQPlvpOPNgnWTMVvli"
@@ -14470,7 +14568,7 @@
       ],
       "date_added": "2023-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 178119,
       "name": "LiEBE AUF DER R\u00dcCKBANK - Endzone",
       "url": "https://open.spotify.com/track/41ap50dcbzcjO7ZmNkBra3"
@@ -15384,7 +15482,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 202931,
       "name": "MAMACITA",
       "url": "https://open.spotify.com/track/4cQAhjxynTUlhVUJN5yhUb"
@@ -17324,7 +17422,7 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 171453,
       "name": "neue welt",
       "url": "https://open.spotify.com/track/4BahctFbZ15m6Yw1ZsSOuq"
@@ -18014,7 +18112,7 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 211000,
       "name": "Nothing's New",
       "url": "https://open.spotify.com/track/0EF1EE8zusg3Y869e56JFd"
@@ -19157,6 +19255,24 @@
     },
     {
       "album": {
+        "name": "Paris",
+        "url": "https://open.spotify.com/album/5DFNdBjKvIRlPl0i76yBSC"
+      },
+      "artists": [
+        {
+          "name": "Kenya Grace",
+          "url": "https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180527,
+      "name": "Paris",
+      "url": "https://open.spotify.com/track/3WzmwVmkRDTYroaLg0Klcb"
+    },
+    {
+      "album": {
         "name": "Paris Paris",
         "url": "https://open.spotify.com/album/69rUtSl9ZypyPH225w0TfD"
       },
@@ -19424,7 +19540,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 146490,
       "name": "pferdeenergie",
       "url": "https://open.spotify.com/track/2gzuC19W2r00KjfVCYrlG0"
@@ -20216,6 +20332,42 @@
       "duration_ms": 242026,
       "name": "Pussy & Millions (feat. Travis Scott)",
       "url": "https://open.spotify.com/track/2KLwPaRDOB87XOYAT2fgxh"
+    },
+    {
+      "album": {
+        "name": "r4ver girl",
+        "url": "https://open.spotify.com/album/6G5vDGdzRSuRyYnkMxJK0j"
+      },
+      "artists": [
+        {
+          "name": "skrt cobain",
+          "url": "https://open.spotify.com/artist/7rlplvcY6ubrKGdhRJUvuV"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116430,
+      "name": "r4ver girl",
+      "url": "https://open.spotify.com/track/3FG2KF53DvrOC6Zc7iaNIR"
+    },
+    {
+      "album": {
+        "name": "Radar",
+        "url": "https://open.spotify.com/album/3TPoZEepcDbc5b3HHM3uca"
+      },
+      "artists": [
+        {
+          "name": "TELESHOP",
+          "url": "https://open.spotify.com/artist/0Cr5IUi0VbocOLWgz8wiXx"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138461,
+      "name": "Radar",
+      "url": "https://open.spotify.com/track/2kkAjht9Fu0vUbmGRIGgGE"
     },
     {
       "album": {
@@ -21760,6 +21912,28 @@
       "duration_ms": 147656,
       "name": "Sektfr\u00fchst\u00fcck",
       "url": "https://open.spotify.com/track/164s1h9u0O4gWAGseDIBKR"
+    },
+    {
+      "album": {
+        "name": "Sektor C",
+        "url": "https://open.spotify.com/album/1YwWzAT4nZ3KuH0orm8em7"
+      },
+      "artists": [
+        {
+          "name": "\u00c6NY-1",
+          "url": "https://open.spotify.com/artist/1fYMBClShcFvuFBd9dJZZX"
+        },
+        {
+          "name": "Eight \u039b Eleven",
+          "url": "https://open.spotify.com/artist/14piLP687bcwtQTCOg6D6l"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195000,
+      "name": "Sektor C",
+      "url": "https://open.spotify.com/track/0bEYiDNNRdoSszfeH4OmTz"
     },
     {
       "album": {
@@ -24014,7 +24188,7 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 123865,
       "name": "SWEET BABY JESUS",
       "url": "https://open.spotify.com/track/0n29d99rxiJb0yG4iscrSj"
@@ -27745,6 +27919,24 @@
     },
     {
       "album": {
+        "name": "Wenn du weinst / Einmal verliebt (Outro)",
+        "url": "https://open.spotify.com/album/6BC1PLrKcbHzvTv36uNZas"
+      },
+      "artists": [
+        {
+          "name": "Berq",
+          "url": "https://open.spotify.com/artist/0eVixEZVW2PB1UogwTWXc1"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202426,
+      "name": "Wenn du weinst",
+      "url": "https://open.spotify.com/track/4P3DSLxQLg0il3pEBKsPTJ"
+    },
+    {
+      "album": {
         "name": "WENN ICH K\u00d6NNTE",
         "url": "https://open.spotify.com/album/04DRSNN9bzA2k7P912ZC4c"
       },
@@ -28327,6 +28519,50 @@
     },
     {
       "album": {
+        "name": "winterlove2.0",
+        "url": "https://open.spotify.com/album/6FVvZwks2Bz8xpYFUSbQrb"
+      },
+      "artists": [
+        {
+          "name": "Maikel",
+          "url": "https://open.spotify.com/artist/2T1zM7AtA0Cd9u1m3PBFEY"
+        },
+        {
+          "name": "badchieff",
+          "url": "https://open.spotify.com/artist/6GoNVmYCl0yUm4pEp80vn6"
+        },
+        {
+          "name": "Miksu / Macloud",
+          "url": "https://open.spotify.com/artist/76dRoxKtDwYkgCQePok9cU"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191730,
+      "name": "winterlove2.0",
+      "url": "https://open.spotify.com/track/1szS7JF64tEmQke86QpFDV"
+    },
+    {
+      "album": {
+        "name": "wish \u272e\u22c6\u02d9",
+        "url": "https://open.spotify.com/album/6ETjthotRkmnN8OnIB4NIe"
+      },
+      "artists": [
+        {
+          "name": "horsegiirL",
+          "url": "https://open.spotify.com/artist/0auP293abZeTWwMUi3fZw2"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131666,
+      "name": "wish \u272e\u22c6\u02d9",
+      "url": "https://open.spotify.com/track/5SmMwHlK9xylVRZ3si4xDd"
+    },
+    {
+      "album": {
         "name": "Without You",
         "url": "https://open.spotify.com/album/6RXrLreUG2FzqOSy1CHzy8"
       },
@@ -28544,7 +28780,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 230709,
       "name": "You Broke My Heart",
       "url": "https://open.spotify.com/track/5Se32hEA9raeboZerywxka"
@@ -28927,6 +29163,28 @@
     },
     {
       "album": {
+        "name": "Zu Viel Dopamin",
+        "url": "https://open.spotify.com/album/5VN59Ikgv2tiHJ8T9XipIk"
+      },
+      "artists": [
+        {
+          "name": "Housejunkee",
+          "url": "https://open.spotify.com/artist/7GDyQOWcC6put9QqYregzw"
+        },
+        {
+          "name": "Matterz",
+          "url": "https://open.spotify.com/artist/1y4sg1ayAaE5pCGeOvqhLP"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121600,
+      "name": "Zu Viel Dopamin",
+      "url": "https://open.spotify.com/track/44KEKRyMQIC4YBupZG2Li3"
+    },
+    {
+      "album": {
         "name": "Zu Viel Passiert",
         "url": "https://open.spotify.com/album/5VqUJPQQ5BdhW7P1crJQBG"
       },
@@ -29048,6 +29306,28 @@
       "duration_ms": 145043,
       "name": "ZWANNIS",
       "url": "https://open.spotify.com/track/3f2n0M2s1DovBN8DPoR0n5"
+    },
+    {
+      "album": {
+        "name": "Zwei Uhr Nachts",
+        "url": "https://open.spotify.com/album/6xdf3oKtUk5zNyckzm2u8r"
+      },
+      "artists": [
+        {
+          "name": "IIVEN",
+          "url": "https://open.spotify.com/artist/0ydBtmgupeHnGowYxRo6tq"
+        },
+        {
+          "name": "July",
+          "url": "https://open.spotify.com/artist/2lQUT7KTSpuj9z8PdtMdtz"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123157,
+      "name": "Zwei Uhr Nachts",
+      "url": "https://open.spotify.com/track/4FTHsubclCdTx7sZXssAnj"
     },
     {
       "album": {

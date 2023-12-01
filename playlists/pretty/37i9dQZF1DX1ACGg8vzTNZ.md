@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ACGg8vzTNZ.md) - [plain]
 
 > Chilled instrumentals to get you focused and ready for the day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,950 likes - 40 songs - 2 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,969 likes - 40 songs - 2 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Natural Light](https://open.spotify.com/track/1kKbVnjBHvRSMJUsNOQp2h) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj) | [Underwater](https://open.spotify.com/album/3DT821mYJb7Ore88vA8IOO) | 5:35 |
-| 2 | [Still / Sound – piano reworks](https://open.spotify.com/track/1n6ouOiQpRXaWVTeDOGxDW) | [Sophie Hutchings](https://open.spotify.com/artist/54MsweggxTxlfYUbhZNIQ0), [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [Still / Sound — piano reworks](https://open.spotify.com/album/5KmLU0k60tDKnEhgRAqG2N) | 4:51 |
+| 2 | [Still / Sound – piano reworks](https://open.spotify.com/track/4BlEJ8BG3efMsKKJMhiMar) | [Sophie Hutchings](https://open.spotify.com/artist/54MsweggxTxlfYUbhZNIQ0), [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [some kind of peace — piano reworks](https://open.spotify.com/album/79a34uOB7jdMrSECClgqOv) | 4:51 |
 | 3 | [Fragrant Olive](https://open.spotify.com/track/4dlvj037LmL4KXUTh1ODgJ) | [Shiori Sugaya](https://open.spotify.com/artist/2j9Dpexujg1dkE2q25iPPq) | [Fragrant Olive](https://open.spotify.com/album/4hqG4tT6fTZhiXOWwc0VIL) | 3:50 |
 | 4 | [Music For Growing Flowers \- Pt\. 8](https://open.spotify.com/track/0fqveSCZR2TqGAtEid72Ua) | [Erland Cooper](https://open.spotify.com/artist/636k3cBTCgdZfXzCj7Cuaa) | [Music For Growing Flowers](https://open.spotify.com/album/7nlNFxFHuJxLHtfGM2mAkD) | 1:13 |
 | 5 | [Existence](https://open.spotify.com/track/1HZrGW4uQDVVhI8SRfZy8o) | [Wataru Sato](https://open.spotify.com/artist/7M9OHZ1HUapqspMXEthkvb) | [Spaces](https://open.spotify.com/album/3ousrkrjhpoRMrDySi6h0K) | 4:46 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ACGg8vzTNZ.md) - [plain]
 | 39 | [Cute Kittens Lick Cream](https://open.spotify.com/track/4IprCxGPjCfhHCE0oaqym3) | [Gyða Valtýsdóttir](https://open.spotify.com/artist/35tWzCzjzv7skImbSeb2hc) | [Ox](https://open.spotify.com/album/0SMZ2ZvDwuqjHo9uUz04Hu) | 3:57 |
 | 40 | [the color of the sky \- sleep rework](https://open.spotify.com/track/2YfZhXTjnsNOXfSeVZdmqy) | [Chad Lawson](https://open.spotify.com/artist/72uoxerTvAd7x3cbfYmNc8) | [the color of the sky \(sleep rework\)](https://open.spotify.com/album/1Lv022YCTEYHI7B3lqLJ60) | 2:56 |
 
-Snapshot ID: `MCwyN2QwZWVhMjYxOGI2MDJiMmE0ODU5MTgzMjZmNzEyOGE4NjdjNzMy`
+Snapshot ID: `MCw2ZGE0NDY2NmY0YjY4NGE2ZTk0YTlmZjMxZTlmNjE5ZmZjNDQ4NDQy`

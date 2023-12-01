@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The best new music from the wide world of punk. Cover: Short Stack",
+  "description": "The best new music from the wide world of punk. Cover: Alkaline Trio",
   "name": "All New Punk",
   "tracks": [
     {
@@ -659,6 +659,24 @@
     },
     {
       "album": {
+        "name": "A Small Crowd Gathered To Watch Me",
+        "url": "https://open.spotify.com/album/1EYQBACInf5ukpirNcIpHC"
+      },
+      "artists": [
+        {
+          "name": "Humour",
+          "url": "https://open.spotify.com/artist/5ErUNpyxSBAdjZaKlefsUr"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199442,
+      "name": "A Small Crowd Gathered To Watch Me",
+      "url": "https://open.spotify.com/track/1ZVyKnbtK8bXkvRR3MFetX"
+    },
+    {
+      "album": {
         "name": "A Song Of Liberty",
         "url": "https://open.spotify.com/album/1CPfvtQRlMZZ3u2CItkV3G"
       },
@@ -1036,7 +1054,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 160806,
       "name": "All Grown Up",
       "url": "https://open.spotify.com/track/2Q9nOFPxxmgFULakzB3UXg"
@@ -1971,6 +1989,24 @@
     },
     {
       "album": {
+        "name": "Bad Time",
+        "url": "https://open.spotify.com/album/3QgyHF06SLRbdwjk1cBxty"
+      },
+      "artists": [
+        {
+          "name": "Alkaline Trio",
+          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175480,
+      "name": "Bad Time",
+      "url": "https://open.spotify.com/track/3ybguBEEMkpKz07SBefKW3"
+    },
+    {
+      "album": {
         "name": "Basement",
         "url": "https://open.spotify.com/album/0hWOLHDlMwS0hDhf1ITHVz"
       },
@@ -2436,7 +2472,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 109431,
       "name": "BISEXUAL AWAKENING",
       "url": "https://open.spotify.com/track/4LPZOecTVsIliFuUlRPSNd"
@@ -2560,6 +2596,28 @@
       "duration_ms": 176466,
       "name": "Black Wax",
       "url": "https://open.spotify.com/track/4V31QTDG2d8ljBOpp0Y0E4"
+    },
+    {
+      "album": {
+        "name": "blame me for everything",
+        "url": "https://open.spotify.com/album/1t8JBCtRzQaHY6ZQXEt3Z1"
+      },
+      "artists": [
+        {
+          "name": "LiL Lotus",
+          "url": "https://open.spotify.com/artist/2RJWS2Lmkw2uExDmFMe1Ry"
+        },
+        {
+          "name": "MOD SUN",
+          "url": "https://open.spotify.com/artist/3u2R8st1bb6zfBqNWceRXG"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133256,
+      "name": "blame me for everything",
+      "url": "https://open.spotify.com/track/5gdiHedipHaBBXcp7TkPmK"
     },
     {
       "album": {
@@ -6218,7 +6276,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 74990,
       "name": "Diritto Di Obbedire",
       "url": "https://open.spotify.com/track/5v2fyB3sLf7sB7CrLVqmnh"
@@ -6864,7 +6922,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 154396,
       "name": "Dysphoria Hoodie",
       "url": "https://open.spotify.com/track/4nchByjtPvq3iPYrgijp17"
@@ -7672,7 +7730,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 200401,
       "name": "FATHER JOHN",
       "url": "https://open.spotify.com/track/6QaakLNuvBzzd7vMT50xMS"
@@ -8358,6 +8416,24 @@
       "duration_ms": 139000,
       "name": "FTS (KYS)",
       "url": "https://open.spotify.com/track/5BsydUDVEjgyVv2IvKM16d"
+    },
+    {
+      "album": {
+        "name": "Fuck 'Em",
+        "url": "https://open.spotify.com/album/7gsQPfDVZL8A6dsmkTmOqH"
+      },
+      "artists": [
+        {
+          "name": "The Chisel",
+          "url": "https://open.spotify.com/artist/20jscDXkBqf0euv7zSsyTx"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 80856,
+      "name": "Fuck 'Em",
+      "url": "https://open.spotify.com/track/6T0UkiNLu35LetDjwQmUP5"
     },
     {
       "album": {
@@ -10246,7 +10322,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 164307,
       "name": "Here's Looking At You, Kid!",
       "url": "https://open.spotify.com/track/3qrdJp0kQATq1WvXW0GNML"
@@ -11649,6 +11725,24 @@
     },
     {
       "album": {
+        "name": "Out of Step Outtakes",
+        "url": "https://open.spotify.com/album/1tavrCAGxjtTcIec8eWLGV"
+      },
+      "artists": [
+        {
+          "name": "Minor Threat",
+          "url": "https://open.spotify.com/artist/07PiZYrhllpSXtELkUxlrf"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184724,
+      "name": "In My Eyes - Out of Step Outtake",
+      "url": "https://open.spotify.com/track/2RfBMHXYBoGXcVA3AtESkx"
+    },
+    {
+      "album": {
         "name": "In The Flesh",
         "url": "https://open.spotify.com/album/4COHHNiG8j5AoJ0a8fVpl6"
       },
@@ -12216,6 +12310,24 @@
       "duration_ms": 139875,
       "name": "JUST A MESS",
       "url": "https://open.spotify.com/track/70m0eHUsYW3Kgc9J5Ij3zL"
+    },
+    {
+      "album": {
+        "name": "Just A Place",
+        "url": "https://open.spotify.com/album/1fBBOnA4xp9moWmVdnizDo"
+      },
+      "artists": [
+        {
+          "name": "Glitterer",
+          "url": "https://open.spotify.com/artist/2bTjArGDYivNxnYFH5jUcj"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135186,
+      "name": "Just A Place",
+      "url": "https://open.spotify.com/track/4cUCD9jIocKwiGk1Bc6oP8"
     },
     {
       "album": {
@@ -13572,6 +13684,24 @@
       "duration_ms": 236653,
       "name": "Live Like This",
       "url": "https://open.spotify.com/track/5CkNMoWHtL0OxNqZSilmYU"
+    },
+    {
+      "album": {
+        "name": "Smoke And Mirrors",
+        "url": "https://open.spotify.com/album/3FuuaO0FB3WCSWZZkt6u3F"
+      },
+      "artists": [
+        {
+          "name": "Down And Out",
+          "url": "https://open.spotify.com/artist/7EfK0VXLHjPEysgWDnAyYH"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194129,
+      "name": "Livin' The Dream!",
+      "url": "https://open.spotify.com/track/7xV5o20O49iXYB3PxZYfJx"
     },
     {
       "album": {
@@ -15488,6 +15618,24 @@
       "duration_ms": 164167,
       "name": "My Anchor",
       "url": "https://open.spotify.com/track/76DOdPpL7iz7YFCiV5SeRv"
+    },
+    {
+      "album": {
+        "name": "Sick Sad World",
+        "url": "https://open.spotify.com/album/5TD2NgRf6UxGbn1VPewaCu"
+      },
+      "artists": [
+        {
+          "name": "Hotgirl",
+          "url": "https://open.spotify.com/artist/5PJ3v1rMpMsDS4UogImlis"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246400,
+      "name": "My Big Sister",
+      "url": "https://open.spotify.com/track/68R7OhQeIp4PLkMPlGRtAJ"
     },
     {
       "album": {
@@ -19124,7 +19272,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 198042,
       "name": "ring in ur ear",
       "url": "https://open.spotify.com/track/2iWGSNrMCPAebDQ78YmHGt"
@@ -21276,7 +21424,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 168263,
       "name": "Sometimes (My Brain Doesn't Work) [feat. Between You & Me]",
       "url": "https://open.spotify.com/track/0jDdAhIgHkzImkLzLw3J9S"
@@ -21586,7 +21734,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 198566,
       "name": "SSX Trickmont",
       "url": "https://open.spotify.com/track/7w13KZUxGmrPACC4s7NFRf"
@@ -23981,6 +24129,24 @@
     },
     {
       "album": {
+        "name": "This is Great Britain",
+        "url": "https://open.spotify.com/album/3X4Y7y1vVDCB9vaTLIFngU"
+      },
+      "artists": [
+        {
+          "name": "Hyphen",
+          "url": "https://open.spotify.com/artist/2Ktr0i8RmKTMlBFuqhMkAi"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147555,
+      "name": "This is Great Britain",
+      "url": "https://open.spotify.com/track/50DyQQ9sog4azZmF5tSJlK"
+    },
+    {
+      "album": {
         "name": "just in case the world ends",
         "url": "https://open.spotify.com/album/3X1H1Xq8rAcMQUE27sSSzi"
       },
@@ -25205,6 +25371,24 @@
     },
     {
       "album": {
+        "name": "ur dad",
+        "url": "https://open.spotify.com/album/2AS2zTtZ8dYQyzUcJSMZXw"
+      },
+      "artists": [
+        {
+          "name": "VIAL",
+          "url": "https://open.spotify.com/artist/7soK35m8BosPkMQ67t7bqf"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103700,
+      "name": "ur dad",
+      "url": "https://open.spotify.com/track/4jrSB8kextHUhAV5JHnczv"
+    },
+    {
+      "album": {
         "name": "Ur Ex Gf",
         "url": "https://open.spotify.com/album/2npT9vsQvViYBMMNKh8BPv"
       },
@@ -25910,7 +26094,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 154582,
       "name": "Weird Punx",
       "url": "https://open.spotify.com/track/0UsB58cZuu6C8x53SGdXId"
@@ -26690,7 +26874,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 161416,
       "name": "Would You Tell Picasso To Sell His Guitars?",
       "url": "https://open.spotify.com/track/3zw402HWF2JB4y7zvKCMvT"

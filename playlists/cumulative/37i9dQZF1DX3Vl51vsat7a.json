@@ -106,7 +106,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 181191,
       "name": "21st Century Princess",
       "url": "https://open.spotify.com/track/7t5szdTagFPMLCfTFKPG9c"
@@ -2826,7 +2826,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 163131,
       "name": "Mehr",
       "url": "https://open.spotify.com/track/1S4mtaq6HkZLJhlExIXLQd"
@@ -3531,6 +3531,24 @@
     },
     {
       "album": {
+        "name": "Retail Therapy",
+        "url": "https://open.spotify.com/album/6m0WgwY6xKMDwtDutoKgiI"
+      },
+      "artists": [
+        {
+          "name": "Cloudy June",
+          "url": "https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148671,
+      "name": "Retail Therapy",
+      "url": "https://open.spotify.com/track/6UvodWwiKAwVxXK2gfLru0"
+    },
+    {
+      "album": {
         "name": "Rich Girl",
         "url": "https://open.spotify.com/album/5invgj6RjVaDwh3Odvaj3v"
       },
@@ -3990,6 +4008,24 @@
       "duration_ms": 222230,
       "name": "Smile",
       "url": "https://open.spotify.com/track/2pxQTg8ecN1k3CXnEmpa8t"
+    },
+    {
+      "album": {
+        "name": "Details",
+        "url": "https://open.spotify.com/album/2hfaV0g2aEvB5hOduWzqPB"
+      },
+      "artists": [
+        {
+          "name": "Florentina",
+          "url": "https://open.spotify.com/artist/7adCbfW9aRcBxWhuuSNXTo"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153696,
+      "name": "Sorry Mama Papa",
+      "url": "https://open.spotify.com/track/0fF0IJSe5HVQnC6PFRPzEz"
     },
     {
       "album": {
@@ -4957,6 +4993,24 @@
     },
     {
       "album": {
+        "name": "GO TIME",
+        "url": "https://open.spotify.com/album/2v46Uqtl1mZWr3CUzZLXnP"
+      },
+      "artists": [
+        {
+          "name": "2LADE",
+          "url": "https://open.spotify.com/artist/2N5EUidcVv9pnicQFDeK5W"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173952,
+      "name": "Wir machen das",
+      "url": "https://open.spotify.com/track/45qb6m1SimXHGVp8s5UTHn"
+    },
+    {
+      "album": {
         "name": "WITCH",
         "url": "https://open.spotify.com/album/12kAESgAld7orprsv64J0k"
       },
@@ -5142,7 +5196,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 146616,
       "name": "\u00dcber dem Himmel",
       "url": "https://open.spotify.com/track/2L3haxcF7UmI94PEx25VZ4"

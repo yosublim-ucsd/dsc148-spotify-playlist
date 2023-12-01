@@ -2,9 +2,9 @@
 
 ### [Sunday Praise](https://open.spotify.com/playlist/37i9dQZF1DX59TepszZ0eE)
 
-> Proudly South African gospel goodness\. Cover: <a href="https://open.spotify.com/artist/4KNTHZMBcTrQxk5WWzZqM5?si=jFt0P\-mPQlCUwBwBAk1rRQ">Sneziey</a>
+> Proudly South African gospel goodness\. Cover: <a href="https://open.spotify.com/artist/3kSRqsGHRSxw2jBJ6DffE4?si=w5COGWuuThWSR57bXIsUzA">Xolly Mnchwango</a>
 
-177 songs - 17 hr 50 min
+178 songs - 17 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -146,6 +146,7 @@
 | [Umbhedesho \- Live](https://open.spotify.com/track/7jfZmf6vXtVyum8Fh8blx9) | [Joyous Celebration](https://open.spotify.com/artist/6jG7VTyXJjdrVP4jNjDX9W) | [Joyous Celebration, Vol\. 17 \(Grateful\) \[Live\]](https://open.spotify.com/album/7gTaZx47Gn8gh9n4p1KkHY) | 4:32 | 2023-06-09 |  |
 | [Umhlatshelo \(The Sacrifice\)](https://open.spotify.com/track/7gt15H6CRr94YljSVLK8H3) | [Oncemore Six](https://open.spotify.com/artist/2dvNUHcfNDLyItfiAB40Rd) | [Umhlatshelo \(The Sacrifice\)](https://open.spotify.com/album/50UIxQJzLuazRKXqWwCXd6) | 11:48 | 2023-07-07 |  |
 | [Umi Nami Engumthokozisi](https://open.spotify.com/track/0qUckWrZmSXvzn0m0kbyMI) | [Njabulo Masinga](https://open.spotify.com/artist/3Igz2e5CEXqo4l77TfX8Z3) | [Umi Nami Engumthokozisi](https://open.spotify.com/album/4iFzLQ51cRqqldRBg6zefy) | 4:45 | 2023-10-13 |  |
+| [Umuhle Baba \- Live At Cedarwoods of Sandton, 2023 / Reprise](https://open.spotify.com/track/4N2BsTLoKTUaGwX0aZ9CrY) | [Xolly Mncwango](https://open.spotify.com/artist/3kSRqsGHRSxw2jBJ6DffE4) | [Umuhle Baba \(Live At Cedarwoods of Sandton, 2023\)](https://open.spotify.com/album/0y7wG5mI49wut5VeLU02Kl) | 2:51 | 2023-12-01 |  |
 | [Ungamandla Ami \(Live\)](https://open.spotify.com/track/0mLaY1RrsYTNLtr0YlQwfB) | [Pastor Lungi Ndala](https://open.spotify.com/artist/5LpVjFP0GwCJRrPjyTo6ec) | [Ungamandla Ami \(Live\)](https://open.spotify.com/album/1JC8YX7rApVmJmeKWTwk3Q) | 5:33 | 2022-09-15 | 2023-03-18 |
 | [Ungikhathalele](https://open.spotify.com/track/6C6oM5DpJaeq2wyzQHAVRX) | [Jumbo](https://open.spotify.com/artist/3WsA13hdiZ1K7NwjemXvz9) | [Ungikhathalele](https://open.spotify.com/album/24bzMduuwBDsGtapX9lqnG) | 5:06 | 2018-09-24 | 2023-05-06 |
 | [Ungubaba](https://open.spotify.com/track/6e3EkJFMU2NALtPkC20IUp) | [Sneziey](https://open.spotify.com/artist/4KNTHZMBcTrQxk5WWzZqM5) | [Izulu](https://open.spotify.com/album/5fDaamO9Qaskd63LAMbiu0) | 4:17 | 2020-08-28 | 2023-06-16 |

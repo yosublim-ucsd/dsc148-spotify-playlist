@@ -2,9 +2,9 @@
 
 ### [T\-Pop Now](https://open.spotify.com/playlist/37i9dQZF1DX8peoGqrSg0H)
 
-> เพลงไทยป๊อปโดนใจ อัพเดตให้คุณฟังทุกสัปดาห์\. ศิลปิน: Bright Norraphat, FILM THANAPAT, Fluke Gawin, JAM RACHATA, KRIST, NANON, Peck Palitchoke, PERSES
+> เพลงไทยป๊อปโดนใจ อัพเดตให้คุณฟังทุกสัปดาห์\. ศิลปิน: PROXIE
 
-409 songs - 1 day 0 hr 34 min
+410 songs - 1 day 0 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,7 +101,7 @@
 | [กลับไปไม่รู้จักกัน \(Original Soundtrack "องศาสูญ"\)](https://open.spotify.com/track/2dSX5yD0y88IiRBqrVkOWH) | [NuNew](https://open.spotify.com/artist/5ZjDcrnjYCnD9G5nYKjGk5) | [กลับไปไม่รู้จักกัน \(Original Soundtrack "องศาสูญ"\)](https://open.spotify.com/album/7kKdaEyJr5OlvMWjZ1nqir) | 4:04 | 2023-09-01 | 2023-10-06 |
 | [กลัวฝน \- End.](https://open.spotify.com/track/3xga8upmhb7WQf8F2f24Sh) | [YourMOOD](https://open.spotify.com/artist/5YcdFv3OumeTW8cVW788gT) | [กลัวฝน \(End.\)](https://open.spotify.com/album/3rjpdGJzEw5yfsUIy7qxmM) | 3:31 | 2022-08-25 | 2022-09-24 |
 | [กอดได้ไหม](https://open.spotify.com/track/4hccrJgNG1BwPa3CWw4NNg) | [URBOYTJ](https://open.spotify.com/artist/1WLKjYJX9YHSlwufclauhg) | [Selfmade](https://open.spotify.com/album/79MikoRZW28D00Cr1o3gXd) | 3:29 | 2022-05-26 | 2022-07-23 |
-| [การจากลาที่ไม่มีวันจากไป](https://open.spotify.com/track/0u2y71Xe1vkQ9TKZUvdyWb) | [ATLAS](https://open.spotify.com/artist/2ARzYWm034BWgJNk2IZ2N9) | [การจากลาที่ไม่มีวันจากไป \(Still With You\)](https://open.spotify.com/album/3vBS6G22v9QwWqMkkRi6Ws) | 3:41 | 2023-11-09 |  |
+| [การจากลาที่ไม่มีวันจากไป](https://open.spotify.com/track/0u2y71Xe1vkQ9TKZUvdyWb) | [ATLAS](https://open.spotify.com/artist/2ARzYWm034BWgJNk2IZ2N9) | [การจากลาที่ไม่มีวันจากไป \(Still With You\)](https://open.spotify.com/album/3vBS6G22v9QwWqMkkRi6Ws) | 3:41 | 2023-11-09 | 2023-12-01 |
 | [การเดินทางที่สวยงาม](https://open.spotify.com/track/5NUcn9d8kMrcoMQyE2CctY) | [Billkin](https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj) | [การเดินทางที่สวยงาม \(A Beautiful Ride\)](https://open.spotify.com/album/1ydHr5YNHNe5zpI3Az62Os) | 3:33 | 2023-05-25 |  |
 | [ก็ฉันน่ะแอบชอบ \(For a while\)](https://open.spotify.com/track/4LJlTY8XrrrcNpfdExSF5C) | [MINDCLAZZ](https://open.spotify.com/artist/03QoOnekzBDpx7QbLatRwz) | [ก็ฉันน่ะแอบชอบ \(For a while\)](https://open.spotify.com/album/0qCrf2o0g0OMdYRC2fmexj) | 4:14 | 2022-06-02 | 2022-06-10 |
 | [ก็ดีอยู่แล้ว](https://open.spotify.com/track/1Zi6GCB54TY6ZZnmpnVzte) | [BELL WARISARA](https://open.spotify.com/artist/6rkiZwshBMorgls8PbDzSY) | [ก็ดีอยู่แล้ว](https://open.spotify.com/album/0goxQZJSyQWmsD46XCX2sy) | 4:11 | 2023-06-30 | 2023-07-17 |
@@ -173,6 +173,7 @@
 | [ซ้อมมีแฟน \(trial\)](https://open.spotify.com/track/5xdmFkq5uVLzhogUK8wRQk) | [Kinkaworn](https://open.spotify.com/artist/3UinDJmeOYHabAbh1SZadg), [bamm](https://open.spotify.com/artist/2ORibfYGMt8fuIimSDCTq1) | [ซ้อมมีแฟน \(trial\)](https://open.spotify.com/album/1X4Je0roqbsKnR5EQwUv4g) | 3:14 | 2022-10-12 |  |
 | [ดีไปหมด](https://open.spotify.com/track/4ry6ldKaFtoLOBgS6rAndh) | [CM Cafe](https://open.spotify.com/artist/3HIIbzo8qdutuxFS1yPCUz) | [ดีไปหมด](https://open.spotify.com/album/1viYiMdvWDes9eIAqwLF1p) | 4:00 | 2022-06-02 | 2022-06-10 |
 | [ตกหลุมรักรอบที่ล้าน](https://open.spotify.com/track/0h5J891lpMTlU4o6oPg3VJ) | [Kinkaworn](https://open.spotify.com/artist/3UinDJmeOYHabAbh1SZadg), [BELL WARISARA](https://open.spotify.com/artist/6rkiZwshBMorgls8PbDzSY) | [ตกหลุมรักรอบที่ล้าน](https://open.spotify.com/album/1J4dG82e0Pln7i5PxodQuV) | 3:18 | 2022-05-26 | 2023-07-01 |
+| [ตบปาก \(On That Day\)](https://open.spotify.com/track/4ctnDQ6saTXYs68AodmBZf) | [PROXIE](https://open.spotify.com/artist/4tNPboeMQnpoUX7IEbPLdF) | [ตบปาก \(On That Day\)](https://open.spotify.com/album/7HpfZWOU33tf9ht1UZ3nyp) | 3:32 | 2023-11-30 |  |
 | [ตอนนี้เลย \(Hurry Sickness\)](https://open.spotify.com/track/3UpJy2R1dtJXx6ESsQCG34) | [HatoBito](https://open.spotify.com/artist/7faqmODO7NSZSqbOA13nWa) | [ตอนนี้เลย \(Hurry Sickness\)](https://open.spotify.com/album/1pbWJ8pYHN41tc2DxQUuNS) | 3:07 | 2022-06-23 | 2022-07-02 |
 | [ตะเกียงวิเศษ \(One Wish\)](https://open.spotify.com/track/5MHTuKhXrorETiHPktRrBv) | [Minnie](https://open.spotify.com/artist/2x6enUQFXMXHGIg6NHkL0T), [Ai ATK](https://open.spotify.com/artist/44npKhVvoIKZBzZKOOgYHd) | [ตะเกียงวิเศษ \(One Wish\)](https://open.spotify.com/album/3PVNXYsNgkFeUklFOHDDem) | 3:50 | 2022-11-17 | 2022-12-02 |
 | [ตัวตึง \(No.1\) Feat.1Life](https://open.spotify.com/track/6nVi2WZlOE1XYhtYF4iAiQ) | [bonnadol](https://open.spotify.com/artist/19IYWJFjZPv3INWYpkavTc) | [ตัวตึง \(No.1\) Feat.1Life](https://open.spotify.com/album/6qCGUEFcpi4tz6So90xDFy) | 3:08 | 2023-02-23 | 2023-03-03 |

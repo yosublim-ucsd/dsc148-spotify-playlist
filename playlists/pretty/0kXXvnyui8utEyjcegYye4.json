@@ -6,7 +6,7 @@
     "name": "briannabalen",
     "url": "https://open.spotify.com/user/lewcz7zj2xr0jhm7vpwcfkec6"
   },
-  "snapshot_id": "ODE0LDQyMjA4MjgwMzVhMjI3Yjk2YWQ0NTFkM2U3NjA3YWI3NWE0NWY5Mzc=",
+  "snapshot_id": "ODE1LDdkY2Q4OTk5MGJkMzM1ZmU2MjBiZjNiM2NhNmM2ZGE0OWRmZjYxMjA=",
   "tracks": [
     {
       "added_at": "2021-10-01 04:28:43",
@@ -5051,6 +5051,22 @@
       "duration_ms": 188133,
       "name": "Born to Be Alive - The Original",
       "url": "https://open.spotify.com/track/3XIEWK1V9n25PS9Vb6axj5"
+    },
+    {
+      "added_at": "2023-11-30 02:03:22",
+      "album": {
+        "name": "The Rolling Stones Songbook",
+        "url": "https://open.spotify.com/album/7IWy1SFM2ueJXMZiuullVe"
+      },
+      "artists": [
+        {
+          "name": "Andrew Oldham Orchestra",
+          "url": "https://open.spotify.com/artist/3bT1LHMk4k4U4vGpVB17fQ"
+        }
+      ],
+      "duration_ms": 226586,
+      "name": "The Last Time",
+      "url": "https://open.spotify.com/track/7wLtyMDljwAziOVC9d3FOh"
     }
   ],
   "unique_name": "driving",

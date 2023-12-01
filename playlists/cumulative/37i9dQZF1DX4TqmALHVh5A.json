@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "La sc\u00e8ne fran\u00e7aise branch\u00e9e sur courant alternatif. Photo : Bagarre",
+  "description": "La sc\u00e8ne fran\u00e7aise branch\u00e9e sur courant alternatif. Photo : Gwendoline",
   "name": "Courant Alternatif",
   "tracks": [
     {
@@ -70,7 +70,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 365866,
       "name": "Aloha Baby",
       "url": "https://open.spotify.com/track/6U3pRWlzTqWbjBjBHfIvEI"
@@ -164,6 +164,24 @@
       "duration_ms": 144480,
       "name": "Bagarre",
       "url": "https://open.spotify.com/track/5E7GDG7h7WcIbDqbvpntoU"
+    },
+    {
+      "album": {
+        "name": "Birthday Party",
+        "url": "https://open.spotify.com/album/7E1aeTMLqIi9F7weLZAz82"
+      },
+      "artists": [
+        {
+          "name": "Metro Verlaine",
+          "url": "https://open.spotify.com/artist/2BYbt36s189UAMhaTUA1PX"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210080,
+      "name": "Birthday Party",
+      "url": "https://open.spotify.com/track/4YcBDlhIXz3reul1Z9WW8N"
     },
     {
       "album": {
@@ -344,6 +362,24 @@
       "duration_ms": 217640,
       "name": "Comme un idiot",
       "url": "https://open.spotify.com/track/5MW2D3rttNR84ivORyMvTV"
+    },
+    {
+      "album": {
+        "name": "Conspire",
+        "url": "https://open.spotify.com/album/3kuN93pe0gnDpztgTlIvX1"
+      },
+      "artists": [
+        {
+          "name": "Gwendoline",
+          "url": "https://open.spotify.com/artist/0KeEMBn34d4rKeACHxK9AF"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 353858,
+      "name": "Conspire",
+      "url": "https://open.spotify.com/track/5Ps5Ca2F1O7QqIo88C9WAH"
     },
     {
       "album": {
@@ -672,7 +708,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 182004,
       "name": "Je Voulais",
       "url": "https://open.spotify.com/track/26LEDUBccqiAj28QDjzOod"
@@ -852,7 +888,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 247496,
       "name": "Le soleil",
       "url": "https://open.spotify.com/track/2lktF3thBYKCdaaTmGbwHu"
@@ -870,7 +906,7 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 162076,
       "name": "Le t\u00e9l\u00e9phone",
       "url": "https://open.spotify.com/track/3NAx8hW6fdM9Tyt8RqplNM"
@@ -1457,6 +1493,24 @@
     },
     {
       "album": {
+        "name": "Monsters",
+        "url": "https://open.spotify.com/album/7MakO8Dpiuc5ZOA18dWey7"
+      },
+      "artists": [
+        {
+          "name": "Servo",
+          "url": "https://open.spotify.com/artist/6y5MFAfEupGez5ZLRYDHlN"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308233,
+      "name": "Stadium",
+      "url": "https://open.spotify.com/track/1U5ssXXbZ6TfzBJQzqneZo"
+    },
+    {
+      "album": {
         "name": "Stave II",
         "url": "https://open.spotify.com/album/4IwLrhUacdpFv13CSIEnZC"
       },
@@ -1566,6 +1620,24 @@
       "duration_ms": 281768,
       "name": "Tout eteindre",
       "url": "https://open.spotify.com/track/3TVR0qA8G8V30Ywtnf1Xgm"
+    },
+    {
+      "album": {
+        "name": "Tovsk",
+        "url": "https://open.spotify.com/album/2c6Y0gdj5J23TeQhEHJwq2"
+      },
+      "artists": [
+        {
+          "name": "Vip\u00e8res Sucr\u00e9es Sal\u00e9es",
+          "url": "https://open.spotify.com/artist/6CAIJHm9VUJsqMjRdRnBc5"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165500,
+      "name": "Tovsk",
+      "url": "https://open.spotify.com/track/3eE3crzsKJ2PaNQ8Ql0nzD"
     },
     {
       "album": {

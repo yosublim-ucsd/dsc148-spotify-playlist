@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bw5oBAFpuz.md) - [plain]
 
 > Ideale muziek voor de werkdag
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,617 likes - 230 songs - 13 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,631 likes - 230 songs - 13 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -239,4 +239,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bw5oBAFpuz.md) - [plain]
 | 229 | [She](https://open.spotify.com/track/5FMbo350dmyodXrct0XxyQ) | [Milow](https://open.spotify.com/artist/6mo0UbyIvIePdXNyLwQlk5) | [Lean into Me](https://open.spotify.com/album/1qMdxBw10qvEbt7Z7zufTt) | 2:49 |
 | 230 | [The Light](https://open.spotify.com/track/7hz3BdldMUmj81yy2JjYaj) | [RONDÉ](https://open.spotify.com/artist/4hj9dun9KpnBukLv7Hgfkr) | [The Light](https://open.spotify.com/album/5YFH2ZhzYhWltkgmMd1mmU) | 3:37 |
 
-Snapshot ID: `MCw3Nzc3YzY4ODM5ZTc2ZWMxM2NhNWYyNzVhMmU2YTZkMzRiMGUyZjky`
+Snapshot ID: `MCw2Yzg0ZTFhODliMmUxZGMyNzZkYWU5ZTc2ZWU0NDMzN2UzZDI1MDM1`

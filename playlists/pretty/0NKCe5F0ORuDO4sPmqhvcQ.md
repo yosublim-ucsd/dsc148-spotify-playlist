@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0NKCe5F0ORuDO4sPmqhvcQ.md) - [plain]
 
 > selects from music we've been listening to @ Moving Castle\. Manila Killa's album, Dusk drops July 21st!
 
-[Moving Castle](https://open.spotify.com/user/moving-castle) - 20,892 likes - 143 songs - 8 hr 10 min
+[Moving Castle](https://open.spotify.com/user/moving-castle) - 20,891 likes - 144 songs - 8 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -151,5 +151,6 @@ pretty - [cumulative](/playlists/cumulative/0NKCe5F0ORuDO4sPmqhvcQ.md) - [plain]
 | 141 | [Pondering Minds](https://open.spotify.com/track/36Pig1iSIarIq3NudqIPNM) | [Just A Gent](https://open.spotify.com/artist/1kwGj7uDO5WXVXtQLvGJr0), [Khai](https://open.spotify.com/artist/2nUgzaTpZZxmzOh2hGlp64) | [Pondering Minds](https://open.spotify.com/album/0rXMwYMIcqCsH7fmnsimlN) | 4:38 |
 | 142 | [InLuv](https://open.spotify.com/track/38ikGqZ3gwFWGSw2dzaS42) | [AOBeats](https://open.spotify.com/artist/2tfyKNBwTB41ArvliXX1zA) | [PraXis](https://open.spotify.com/album/33wang90IMoiP2zLalEAC9) | 3:09 |
 | 143 | [Darkness](https://open.spotify.com/track/0l71depQtJ6g2t1LikvlzG) | [Seven Lions](https://open.spotify.com/artist/6fcTRFpz0yH79qSKfof7lp), [Jason Ross](https://open.spotify.com/artist/6CCTvLyIHqUhY6VQizt150), [GG Magree](https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n) | [Darkness](https://open.spotify.com/album/4HQYlLQCrkwbLpxAaKhdC2) | 3:20 |
+| 144 | [haze](https://open.spotify.com/track/2HfWwr1FyagotRzp7RDEms) | [Houis](https://open.spotify.com/artist/3bjJEXLyXKBFUx6MOj3wlF), [WEI](https://open.spotify.com/artist/2jOSQFHIeUc2OcPx8tSaTw), [JVLY](https://open.spotify.com/artist/52flspAUwzY59cow3QC53f) | [haze](https://open.spotify.com/album/13WO7BXMhRBtl19YlBpIBi) | 3:05 |
 
-Snapshot ID: `MTA1NjcsZDQ4NGE1OThhY2FjOTgwZGJmYmE5NzkyMWM5NzQ0OTdlODI4OTFmZA==`
+Snapshot ID: `MTA1NjgsYTQ1Y2NlYjI2ZmY4MDkxODY1Y2IxNGQyYzNjYjBkMzdlMzU0ODgzNg==`

@@ -1448,7 +1448,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 144065,
       "name": "breakwater",
       "url": "https://open.spotify.com/track/3olOfiTQeXtxPkvgqT9cvl"
@@ -3880,6 +3880,24 @@
       "duration_ms": 158400,
       "name": "fog morning",
       "url": "https://open.spotify.com/track/1yzkFH5HZLVyH9imaRN1rG"
+    },
+    {
+      "album": {
+        "name": "forest spirit",
+        "url": "https://open.spotify.com/album/5xlc5btX8TPjfij55Ll9qb"
+      },
+      "artists": [
+        {
+          "name": "hario island",
+          "url": "https://open.spotify.com/artist/4SSYmqlXA8awmX7PHheCJN"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138960,
+      "name": "forest spirit",
+      "url": "https://open.spotify.com/track/7pwsTQrw6Qtcv9FGyIVEPu"
     },
     {
       "album": {

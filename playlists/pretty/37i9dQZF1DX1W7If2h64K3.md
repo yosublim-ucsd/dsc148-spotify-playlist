@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1W7If2h64K3.md) - [plain]
 
 > Discover the music of Schumann.
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,953 likes - 60 songs - 6 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,978 likes - 60 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1W7If2h64K3.md) - [plain]
 | 59 | [6 Gedichte und Requiem, Op\. 90: No\. 7\. Requiem](https://open.spotify.com/track/4zPZbj1sNxCOtU1CdgCK53) | [Robert Schumann](https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ), [Thomas E\. Bauer](https://open.spotify.com/artist/2CZtxZGpDalPgf7ZE2mXXq), [Uta Hielscher](https://open.spotify.com/artist/6C2UExBt8lQo1un3DBzZkq) | [Schumann: Lied Edition, Vol\. 6: Myrthen \- 6 Gedichte und Requiem](https://open.spotify.com/album/2T0I90L18QL0ycTnzuMPM6) | 4:20 |
 | 60 | [Minnespiel, Op\. 101: No\. 1: Meine Tone still und heiter](https://open.spotify.com/track/1xU1yjwGAGCCE3RiB8YKLe) | [Robert Schumann](https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ), [Thomas E\. Bauer](https://open.spotify.com/artist/2CZtxZGpDalPgf7ZE2mXXq), [Susanne Bernhard](https://open.spotify.com/artist/4QxzCi72edOOk6FNy00HDN), [Uta Hielscher](https://open.spotify.com/artist/6C2UExBt8lQo1un3DBzZkq) | [Schumann: Lied Edition, Vol\. 1: 12 Gedichte Aus "Liebesfruhling", Op\. 37 \- Lieder Und Gesange Aus Goethes Wilhelm Meister, Op\. 98A \- Minnespiel](https://open.spotify.com/album/3b76JBP8F5vSUIMEgZnKi3) | 3:21 |
 
-Snapshot ID: `MCw4OGE0ODQ1MThjY2JhZmFjZGUyMjRlMzExOTEyM2E4YjFmMDgyN2M3`
+Snapshot ID: `MCxhNjJjYTFjODI3ZWJkOGFlNjk4MTIzNDVmZDI5Y2NhMWQ2MDVkZGNk`

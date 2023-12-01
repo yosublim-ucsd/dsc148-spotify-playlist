@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWfxnl2EyBbd.md) - [plain]
 
 > The soft sound of a Jazz piano trio to help you relax and unwind.
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,944 likes - 400 songs - 1 day 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,984 likes - 400 songs - 1 day 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -409,4 +409,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWfxnl2EyBbd.md) - [plain]
 | 399 | [Polaris](https://open.spotify.com/track/6jcwViyJ0VxiyUe95nv4Dj) | [Aaron Diehl](https://open.spotify.com/artist/2FnwobtceU4Gt0REt02z2W) | [The Vagabond](https://open.spotify.com/album/2yeXOGHdLYgyazlRHFzTTM) | 6:08 |
 | 400 | [Red Milk](https://open.spotify.com/track/2S7VcpELtk2PK61IjHq0zO) | [Alessandro Galati](https://open.spotify.com/artist/3SdasE0Qww2dxPjuYobTuk), [Palle Danielsson](https://open.spotify.com/artist/7CyW7K2UrpjUNLVV698wvJ), [Peter Erskine](https://open.spotify.com/artist/3Bm6MhzPUczH3Pej2FNqGi) | [Traction Avant Vol.2](https://open.spotify.com/album/4SFScQIEdCjOpeg5PcqrMk) | 7:42 |
 
-Snapshot ID: `MCwzMDE5MDc4Mzk4ZTgxODMxNWJhNWEyNjY2ODE5ZmQxNWYzZDJmMjQ1`
+Snapshot ID: `MCwyM2NjYzVjMjEwMWFlZTcyMzc4ZmYzMWJjZGU0OTE1N2IxYjg3Njhk`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2iVTU1bf67i.md) - [plain]
 
 > The warm sound and the cozy mood of classic Jazz\. A soundtrack in the background for relaxing, dinner or focus\. Cover: Hank Mobley
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,849 likes - 125 songs - 8 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,202 likes - 125 songs - 8 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2iVTU1bf67i.md) - [plain]
 | 124 | [All About Ronnie](https://open.spotify.com/track/4s5MqP3R5MiKit4wauAGNH) | [Chris Connor](https://open.spotify.com/artist/5Q6PVXflC7LKN42bYupRJQ) | [All About Chris](https://open.spotify.com/album/0C82GvQXd2ls4jnK7Rf0UA) | 3:00 |
 | 125 | [I Concentrate On You](https://open.spotify.com/track/3NgTr2ajVlWGTUrSUiHq6J) | [Fred Astaire](https://open.spotify.com/artist/4BtDAwCZhR6nPrJtbVgQNX) | [Steppin'Out: Astaire Sings](https://open.spotify.com/album/2y3qfwH8IhIcWeRFBFArD6) | 2:47 |
 
-Snapshot ID: `MCw5NWY0OWZhYmMwZjFkNDIxMWUyYWRiOTAxNGI1ODc0YTNhYzk4YTgx`
+Snapshot ID: `MCw4NzljMjZlZWE5ZWNmM2M2ZmQ4YWNiN2Y3N2E3YjIzODI3MjhmM2Y5`

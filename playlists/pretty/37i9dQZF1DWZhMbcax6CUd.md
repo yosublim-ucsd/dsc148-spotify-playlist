@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZhMbcax6CUd.md) - [plain]
 
 > Explore the great works of Maurice Ravel.
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,950 likes - 69 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,001 likes - 69 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,4 +78,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZhMbcax6CUd.md) - [plain]
 | 68 | [L'enfant et les sortilèges, M\. 71, Tab\. I: "J'ai pas envie de faire ma page" \(L'enfant\)](https://open.spotify.com/track/2SN7i9WR8xdfgzWioHMfFK) | [Maurice Ravel](https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY), [Mikko Franck](https://open.spotify.com/artist/4NDdDDmlbZ0CNT7rxKUPGq), [Orchestre Philharmonique de Radio France](https://open.spotify.com/artist/2Mwa328GasJUju1YNDLSXd) | [Mikko Franck Plays Ravel](https://open.spotify.com/album/6c3oGoxumzF4FILKCMwWUy) | 2:29 |
 | 69 | [Valses nobles et sentimentales, M.61 \- for Orchestra: 2\. Assez lent](https://open.spotify.com/track/7Mq0Sz8UNRtZDCgbbz0MB1) | [Maurice Ravel](https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY), [Cleveland Orchestra](https://open.spotify.com/artist/0jJszR81GjA87jeRq0Jgwz), [Vladimir Ashkenazy](https://open.spotify.com/artist/20iZXzMb8LoWXOeca32i82) | [Classics for Autumn: Ravel](https://open.spotify.com/album/2HQGF44I64Ku9rKGjb7CEo) | 2:07 |
 
-Snapshot ID: `MCw5ODMwNTE4NTI3NjViMjFjMTFmNTRlN2ZmM2RlMWE4ZmUwZWFhMGYz`
+Snapshot ID: `MCxkZWY2OTIxNGM3Njk4ZTNiYzYzMGY4ZjExNGM1MjIyOGMzZjEyZWJk`

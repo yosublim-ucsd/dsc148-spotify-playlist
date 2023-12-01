@@ -4,7 +4,7 @@
 
 > Descubra Abbot e novos talentos brasileiros no horizonte.
 
-316 songs - 15 hr 54 min
+317 songs - 15 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -214,7 +214,8 @@
 | [Não, Não Vou](https://open.spotify.com/track/0xBQvhJAm6f7J142ympKOn) | [Mari Fernandez](https://open.spotify.com/artist/0BHm7qbh3ENxvXzkQAG7MP) | [Piseiro Sofrência](https://open.spotify.com/album/5rNhX35Cmsq568dSUTDPO5) | 2:53 | 2021-11-19 | 2022-02-15 |
 | [Nós](https://open.spotify.com/track/7FnhWYWAZKmMKQ3oDuqLaA) | [Ale Sater](https://open.spotify.com/artist/0zeEmlxF30MGOT16dM5vqx) | [Nós](https://open.spotify.com/album/4m7iZfV92nZxKeN5JMROvQ) | 3:46 | 2021-11-19 | 2022-02-13 |
 | [O Jeito É Ir Embora](https://open.spotify.com/track/1avOlhgHGzH7rtlsAcdnpR) | [Tuyo](https://open.spotify.com/artist/3Ujv6sa60JRiaxS8RVuNOj) | [Chegamos Sozinhos em Casa](https://open.spotify.com/album/3RAsslo5W29pWGYf3lxLO1) | 3:02 | 2021-11-19 | 2022-02-13 |
-| [O Justo Não Treme](https://open.spotify.com/track/032k6qsKSvNfdBndLe4rCD) | [Veigh](https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse), [Nagalli](https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk), [Supernova Ent](https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw) | [O Justo Não Treme](https://open.spotify.com/album/6aBT64xdKe8JcurjpmJTzA) | 2:49 | 2022-06-15 |  |
+| [O Justo Não Treme](https://open.spotify.com/track/032k6qsKSvNfdBndLe4rCD) | [Veigh](https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse), [Nagalli](https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk), [Supernova Ent](https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw) | [O Justo Não Treme](https://open.spotify.com/album/6aBT64xdKe8JcurjpmJTzA) | 2:49 | 2022-06-15 | 2023-12-01 |
+| [O Justo Não Treme](https://open.spotify.com/track/449BJmYTFxZiF3hIyRrrOw) | [Veigh](https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse), [Nagalli](https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk), [Supernova Ent](https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw) | [O Justo Não Treme](https://open.spotify.com/album/1pm3hj3qfoAE19oN5paIec) | 2:49 | 2023-10-05 |  |
 | [O Último Xote do Ano](https://open.spotify.com/track/23r1Kyn3hD7gRAgxWkW5Bb) | [Fi Barreto](https://open.spotify.com/artist/5hJ0ykBQGDxLmp3Lw7DpBe), [Cruvinel](https://open.spotify.com/artist/2TUCCtskhrTEMAAGyQaBaW) | [O Último Xote do Ano](https://open.spotify.com/album/6B04k65vhdRfHltr7Gy18s) | 3:12 | 2021-11-19 | 2023-04-25 |
 | [Oh Mãe](https://open.spotify.com/track/6z7sd8DYtV5ASB0qJvSgyJ) | [Carol & Vitoria](https://open.spotify.com/artist/5zA07XrRPmMYEAdwtfRtSD) | [PR3VIAS](https://open.spotify.com/album/72Ve6lm2RTjwGJjlxQQyAD) | 2:37 | 2022-02-14 | 2022-07-29 |
 | [Oompa Loompa](https://open.spotify.com/track/17YRNfsbyA7wTOEhANAyK7) | [Slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs) | [Malvatrem](https://open.spotify.com/album/1ZPKYFpymZKgLc0T0Z9WDL) | 3:14 | 2023-04-24 |  |

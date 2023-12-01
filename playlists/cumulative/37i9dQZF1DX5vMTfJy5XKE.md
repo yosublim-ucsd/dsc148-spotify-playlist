@@ -4,7 +4,7 @@
 
 > 'Tis the season! All new holiday releases\. Cover: Laufey
 
-514 songs - 1 day 2 hr 58 min
+515 songs - 1 day 2 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [12 Nights](https://open.spotify.com/track/2k5F4391ld0tzQCZf6vV7h) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Everyday Is Christmas \(Snowman Deluxe Edition\)](https://open.spotify.com/album/49kFmuCyxzpbtVfnpLcOP1) | 4:07 | 2022-11-11 | 2023-10-04 |
 | [2000 Miles](https://open.spotify.com/track/2wFwLE6yefjVZzUQSGGKM1) | [GRACEY](https://open.spotify.com/artist/7xBGi7Eign0fX7jGQj5KlJ) | [2000 Miles](https://open.spotify.com/album/1jSTa8MOmxE82tnRgyptV4) | 2:46 | 2021-12-24 | 2022-11-12 |
 | [25 de Diciembre](https://open.spotify.com/track/7m1nnKjSVpGUiJPw2WNqxW) | [YoSoyMatt](https://open.spotify.com/artist/0NYE6CFlP7ElQR6r395gbV) | [25 de Diciembre](https://open.spotify.com/album/08OQekJroE9E8h0wqerUWY) | 2:58 | 2022-12-09 | 2023-10-04 |
+| [A Carefree Christmas with Hoda & Jenna](https://open.spotify.com/track/1qDSz5LMnC5IjkolZybweC) | [Hoda Kotb](https://open.spotify.com/artist/2MlvkXQF6J6Gbe4uP40EsK), [Jenna Bush Hager](https://open.spotify.com/artist/54GgSk0v94rL29Pj6gxme9), [Cheryl Porter](https://open.spotify.com/artist/3BCwn8kef8LNrfMhOiTcYa) | [A Carefree Christmas with Hoda & Jenna](https://open.spotify.com/album/5gir22xU3qnp1KpxDVRx4U) | 1:25 | 2023-11-30 |  |
 | [A Christmas To Remember](https://open.spotify.com/track/6hvBmhDifLf4D2c7un98hi) | [Ryland James](https://open.spotify.com/artist/4WXIF211lYZfYEn0d13Ac0), [Ralph](https://open.spotify.com/artist/1Ss8sy3C3XXQgxYRwjDln8) | [A Christmas To Remember](https://open.spotify.com/album/5GpxJmTGJTOUhXFh9EM3zU) | 3:30 | 2021-12-24 | 2022-10-24 |
 | [A Timeless Christmas](https://open.spotify.com/track/39UYaCYN5NtZQjWsdsWsqF) | [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd) | [A Timeless Christmas](https://open.spotify.com/album/5IBq0A7yHPkYX9xf6tAEsi) | 3:35 | 2023-11-24 |  |
 | [After December](https://open.spotify.com/track/2VUQ2yGbUXztLvYVVsNVrR) | [Brooke Alexx](https://open.spotify.com/artist/76OGIUhWyFyKOvhRuueDa7) | [After December](https://open.spotify.com/album/5tSAIegNlT4NtdQJQqJ5Uu) | 2:13 | 2023-11-03 |  |

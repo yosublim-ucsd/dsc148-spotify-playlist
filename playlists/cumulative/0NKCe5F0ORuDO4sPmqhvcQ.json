@@ -4241,6 +4241,32 @@
     },
     {
       "album": {
+        "name": "haze",
+        "url": "https://open.spotify.com/album/13WO7BXMhRBtl19YlBpIBi"
+      },
+      "artists": [
+        {
+          "name": "Houis",
+          "url": "https://open.spotify.com/artist/3bjJEXLyXKBFUx6MOj3wlF"
+        },
+        {
+          "name": "WEI",
+          "url": "https://open.spotify.com/artist/2jOSQFHIeUc2OcPx8tSaTw"
+        },
+        {
+          "name": "JVLY",
+          "url": "https://open.spotify.com/artist/52flspAUwzY59cow3QC53f"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185643,
+      "name": "haze",
+      "url": "https://open.spotify.com/track/2HfWwr1FyagotRzp7RDEms"
+    },
+    {
+      "album": {
         "name": "Black Zebra",
         "url": "https://open.spotify.com/album/5bYDboirUS3rp1FhFSVcqE"
       },

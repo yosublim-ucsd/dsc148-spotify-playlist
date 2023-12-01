@@ -13447,6 +13447,24 @@
     },
     {
       "album": {
+        "name": "Dynamics",
+        "url": "https://open.spotify.com/album/2j45BDfC3FVhEbiExfU1oS"
+      },
+      "artists": [
+        {
+          "name": "H ZETTRIO",
+          "url": "https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Dynamics",
+      "url": "https://open.spotify.com/track/7wi3S0J8v5uA12cXZI4xug"
+    },
+    {
+      "album": {
         "name": "E-R-T-H-C-Na-H-Q-ka-H-K-M-B-Ne-Z-Om",
         "url": "https://open.spotify.com/album/5OWUfCVXL9QZHzMIdipGdR"
       },
@@ -66352,6 +66370,24 @@
       "duration_ms": 372858,
       "name": "\u30eb\u30d1\u30f3\u4e09\u4e16\u4e3b\u984c\u6b4c\u2161",
       "url": "https://open.spotify.com/track/6XEtXkDY8mIVFj6LgN4AOJ"
+    },
+    {
+      "album": {
+        "name": "\u30eb\u30d3\u30fc",
+        "url": "https://open.spotify.com/album/4XH4mGDiIMfSsr0peqj5F0"
+      },
+      "artists": [
+        {
+          "name": "satomoka",
+          "url": "https://open.spotify.com/artist/0yFTQM79Y12E6J6aOPRoZg"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270034,
+      "name": "\u30eb\u30d3\u30fc",
+      "url": "https://open.spotify.com/track/61dKPB7KS5K0ydinagQy4U"
     },
     {
       "album": {

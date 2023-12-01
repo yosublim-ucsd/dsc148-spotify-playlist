@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Uebhn9wzrS.md) - [plain]
 
 > The perfect study beats\. Find your focus, crush your productivity.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,296,821 likes - 600 songs - 22 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,297,483 likes - 600 songs - 22 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -609,4 +609,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Uebhn9wzrS.md) - [plain]
 | 599 | [wrapped arms](https://open.spotify.com/track/2ubSXCCGBqeqVmAO9MLtJC) | [LisaMadeIt](https://open.spotify.com/artist/5ViVYkn32Af29Mqim9TPj6) | [wrapped arms](https://open.spotify.com/album/23SKlJ7adcyLeKDQcjrZ5E) | 1:57 |
 | 600 | [ground effect](https://open.spotify.com/track/0WhbtGizjIV50QWb2mtII8) | [sentiment:lo](https://open.spotify.com/artist/1l0WI0auKXfzkkkk3QQT5g), [chill.farm](https://open.spotify.com/artist/4tPOKN9ZM2sn8f6F0cRVmF) | [ground effect](https://open.spotify.com/album/54P6qmX0AyBKJnHX67FlJJ) | 1:57 |
 
-Snapshot ID: `MCxkMjJmZGUyNDE4MjQ0ZTlmMjExYTg2NWQ1ODU5ZWQwMzdlYjE0MjUz`
+Snapshot ID: `MCw2ZjM4YzI0MGEzNjVkMjcwZGViNzVmNDY5MmM5MzRkZGViYTUyZWFj`

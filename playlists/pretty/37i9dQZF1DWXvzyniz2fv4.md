@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXvzyniz2fv4.md) - [plain]
 
 > Pôr do sol com pé na areia e aquela resenha com violão e muita rima.
 
-[Spotify](https://open.spotify.com/user/spotify) - 154,794 likes - 75 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 154,806 likes - 75 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXvzyniz2fv4.md) - [plain]
 | 74 | [Vários Planos](https://open.spotify.com/track/4p7fGgYN66OANZYwLjubv9) | [Altamira](https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ), [Hila Campelo](https://open.spotify.com/artist/5ekmhzyylAHmiQrzCS58vf), [Thebosh](https://open.spotify.com/artist/6NCFegwTfE1dbVEOPrAGxI) | [Vários Planos](https://open.spotify.com/album/48gdIpMmEfBWmJXOAQAazI) | 3:00 |
 | 75 | [A Volta Pra Casa](https://open.spotify.com/track/3RxTqlBbys7BqYfD2pu41p) | [Tas Mc](https://open.spotify.com/artist/75LrYEzGI5S9Akg3FwvK6H), [Júlia Rocha](https://open.spotify.com/artist/53UPZ6NI8MSbfP7DMtMjTq), [Raffa Muñoz](https://open.spotify.com/artist/7tWwVXeXi2Vhe8ekZoHo0m), [Baruan](https://open.spotify.com/artist/15kt3VcbrDtWgrmgCOyRsw) | [Sobre Verdades](https://open.spotify.com/album/6djVDlhWBuln5h0WoyJoHe) | 3:38 |
 
-Snapshot ID: `MCw4YmM4MzllOWM3NTg3Mzc0MTFlZTNmYjAzMzRjMTI2NGY4OWZkODE2`
+Snapshot ID: `MCw5MmI3NWUyYjVjMDQwMGNjOThjNjM4N2Y3Mzg5YTFhMjYxMTUwM2I2`

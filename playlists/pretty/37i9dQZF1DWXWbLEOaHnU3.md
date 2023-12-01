@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXWbLEOaHnU3.md) - [plain]
 
 > Lose yourself in the cosmic spheres of Psytrance.
 
-[Spotify](https://open.spotify.com/user/spotify) - 525,776 likes - 75 songs - 6 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 525,902 likes - 75 songs - 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXWbLEOaHnU3.md) - [plain]
 | 74 | [Home Alone \- Monod Remix](https://open.spotify.com/track/1buw9pvNITeKeknoXa8BAn) | [Querox](https://open.spotify.com/artist/6As8Iapr8t7LdWNBIGlTtn), [Monod](https://open.spotify.com/artist/0DTLDYZ7bYC0YAF1xV5VLO) | [Home Alone \(Monod Remix\)](https://open.spotify.com/album/5Ulmb846NA4czgUxJhFW7f) | 7:01 |
 | 75 | [Mystical Experience](https://open.spotify.com/track/6LPQmTty2Vnr2Im63pvmMd) | [Avalon](https://open.spotify.com/artist/0SFwBkGokPRtTX212zO7xo), [Flegma](https://open.spotify.com/artist/0BOdyY6GCTVhpxQmwJdcPC) | [Mystical Experience](https://open.spotify.com/album/1gTx8C7jJeaHNDFLc6i8Mj) | 9:10 |
 
-Snapshot ID: `MCwzMmMyYmM3ZmJmMjA0N2QxZmI1OWU3MjY3OTQ2MTZkN2Y0NjBkM2Yy`
+Snapshot ID: `MCxkMGE4NTA0YzFhNmRlYTgwYmViYzEwZTA5Y2U4YWNmNmRkOTIyMDYy`

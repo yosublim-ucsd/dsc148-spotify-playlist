@@ -4,7 +4,7 @@
 
 > Updated weekly \| Hardstyle \| Cover: Gunz For Hire \(Ran\-D & Adaro\)
 
-675 songs - 1 day 12 hr 50 min
+676 songs - 1 day 12 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -187,6 +187,7 @@
 | [FIGHTING DEMONS](https://open.spotify.com/track/0SHI54cOrosSZySfTGvN3n) | [Riot Shift](https://open.spotify.com/artist/5J3RIw3YwgyXeosItjR9GY) | [FIGHTING DEMONS](https://open.spotify.com/album/62MK9SQIv59nSjfOiksNfi) | 3:10 | 2023-02-16 | 2023-05-12 |
 | [Fitness Move \(Warrior Workout OST\)](https://open.spotify.com/track/2gwd44pmXiECtQM7EOKRQd) | [Primeshock](https://open.spotify.com/artist/0BtiMLqwAvO3yHcPh5BWCS), [Villain](https://open.spotify.com/artist/7iajTuviby3038TmfrpvZ3) | [Fitness Move \(Warrior Workout OST\)](https://open.spotify.com/album/0wSt9ElPEr8rHVUP8nYAEp) | 3:05 | 2023-06-18 | 2023-06-26 |
 | [Flow](https://open.spotify.com/track/63ZJtCRVf8akA75vrso6H9) | [D\-Sturb](https://open.spotify.com/artist/7E6DrjKJieOdJKO8mbwCMO) | [Flow](https://open.spotify.com/album/2AsgPfOW8KJbYNSTmxlKRy) | 3:12 | 2023-05-18 | 2023-09-08 |
+| [Fly](https://open.spotify.com/track/3wA7idlHfIO8uClB6UoR0L) | [Code Black](https://open.spotify.com/artist/0I5is4tdxHhT3Ft2EzPjlB) | [Fly](https://open.spotify.com/album/4Yt0sVaP8O5GjRrhLjlB87) | 2:06 | 2023-11-30 |  |
 | [Fly Away](https://open.spotify.com/track/4mlVxiiosqBiaS1hn4ytxq) | [AVA CROWN](https://open.spotify.com/artist/0jd43OPsT2l0NAXUSBY7xC), [Haley Maze](https://open.spotify.com/artist/5PlcCzule32PNZ0ZzXD6Ug) | [Fly Away](https://open.spotify.com/album/4TLLwDOeOsSOXv0Q610O9f) | 3:36 | 2023-06-25 | 2023-10-17 |
 | [FLYIN' HIGH](https://open.spotify.com/track/6UjTx1wIv9GuxMwyl1D6Q0) | [Rooler](https://open.spotify.com/artist/2lpFs8QJyIeVDb2Sq4vZYi), [Warface](https://open.spotify.com/artist/1wuQQfTDZhgNb4GJyhThUs) | [FLYIN' HIGH](https://open.spotify.com/album/6BOQuHrxkGTWt41OsSgod7) | 3:50 | 2023-03-23 | 2023-05-12 |
 | [FNKY SH!T](https://open.spotify.com/track/0grVheM1EIQ8boAeZkBkk9) | [ANDY SVGE](https://open.spotify.com/artist/4MciZ3SoIaHGhBecweONHp) | [FNKY SH!T](https://open.spotify.com/album/3Xlwq8kCRZis7cHVocPMtT) | 3:27 | 2023-09-28 | 2023-10-17 |
@@ -200,7 +201,7 @@
 | [Forget You Pt\. 2](https://open.spotify.com/track/1dblMQ3nClfC0r8HvWUvgA) | [ALYSSA](https://open.spotify.com/artist/75ZLyp0dI6PGiynBQS4rJp), [Dimatik](https://open.spotify.com/artist/2Zvo5BEkHyaHD1zk180kMz) | [Forget You Pt\. 2](https://open.spotify.com/album/0wwTguzCfUZ5KTQKFMvhzn) | 3:05 | 2023-02-09 | 2023-04-14 |
 | [Forgive Me](https://open.spotify.com/track/0ONdVHP8eoGupKl1KzM3xv) | [Coone](https://open.spotify.com/artist/1Wt63OMKtv6v2ivHuQLm2C), [Brennan Heart](https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC), [Max P](https://open.spotify.com/artist/7D76Zt5h5OIV4zHi1AtCqw) | [Forgive Me](https://open.spotify.com/album/2pJh2rIopxEeJZjBwrT3Sn) | 3:29 | 2023-11-02 |  |
 | [Free Fall](https://open.spotify.com/track/7BNuc3medoxeqd4qnOhGCA) | [Zombic](https://open.spotify.com/artist/6t0ofV5WMAz84Iqu0YkmTV), [Lawstylez](https://open.spotify.com/artist/6VBSwCRUCT6b3igxW6VfJZ) | [Free Fall](https://open.spotify.com/album/4gpWr19Zz1Et4GZmBKtYaS) | 3:15 | 2022-12-22 | 2023-03-31 |
-| [Friedhof](https://open.spotify.com/track/2rISu5mCswBLYt4TTUFROQ) | [Jebroer](https://open.spotify.com/artist/7jp5R1aY7kmwBYX3jIu9yk), [Teknoclash](https://open.spotify.com/artist/0Q900eSnku7mrRFfi1Eoyb) | [Friedhof](https://open.spotify.com/album/755xeeSvhZf2MlXfgnfqIB) | 2:27 | 2023-10-26 |  |
+| [Friedhof](https://open.spotify.com/track/2rISu5mCswBLYt4TTUFROQ) | [Jebroer](https://open.spotify.com/artist/7jp5R1aY7kmwBYX3jIu9yk), [Teknoclash](https://open.spotify.com/artist/0Q900eSnku7mrRFfi1Eoyb) | [Friedhof](https://open.spotify.com/album/755xeeSvhZf2MlXfgnfqIB) | 2:27 | 2023-10-26 | 2023-12-01 |
 | [From Star To Stardust](https://open.spotify.com/track/05SYnVLCdvhvJ96HykxN2p) | [Phuture Noize](https://open.spotify.com/artist/7AGSJihqYPhYy5QzMcwcQT) | [From Star To Stardust](https://open.spotify.com/album/0K7QlZSUAyNh5NDt7Hnd9H) | 2:55 | 2023-02-23 | 2023-04-14 |
 | [Frontrow](https://open.spotify.com/track/4KMWGXZnrn4GSKdBOo9hQR) | [Cryex](https://open.spotify.com/artist/5NkT0VLTEXldi82KVVnG1b), [Nolz](https://open.spotify.com/artist/6kudMw2A0xOBJHpW8VNaDA) | [Frontrow](https://open.spotify.com/album/1USRYjIm1mWDY6ZUtpQPwY) | 3:54 | 2023-09-01 | 2023-09-16 |
 | [Frontrow](https://open.spotify.com/track/6utKoO8KYpFWBnnu4ymJrS) | [Cryex](https://open.spotify.com/artist/5NkT0VLTEXldi82KVVnG1b), [Nolz](https://open.spotify.com/artist/6kudMw2A0xOBJHpW8VNaDA) | [Frontrow](https://open.spotify.com/album/5knZBXHk1XLTAAKVFqbL9F) | 3:54 | 2023-05-25 | 2023-09-03 |

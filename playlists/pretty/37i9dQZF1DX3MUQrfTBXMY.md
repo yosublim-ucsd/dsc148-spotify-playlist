@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3MUQrfTBXMY.md) - [plain]
 
 > Headbangers of Bangladesh\. Cover \- Warfaze
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,028 likes - 95 songs - 8 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,078 likes - 95 songs - 8 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3MUQrfTBXMY.md) - [plain]
 | 29 | [Meye](https://open.spotify.com/track/0mncMDi5ID5KTbeeBPBvzI) | [Ayub Bachchu](https://open.spotify.com/artist/7fP06sphQmnvvioXOWZMCF) | [Mixed Album Super Hit Vol\. 1](https://open.spotify.com/album/4PDa4Od5d6I6W8DZpDaPIW) | 5:53 |
 | 30 | [Tor Premete Ondho Holam](https://open.spotify.com/track/2NfzCLsMZ21npvmG43sxo5) | [James](https://open.spotify.com/artist/43DXfWPwwLghg7FIAfGmM8) | [Tor Premete Ondho Holam](https://open.spotify.com/album/5fU9HjoFqcKUESUn6ZBQfj) | 5:12 |
 | 31 | [Bishonno Shundor](https://open.spotify.com/track/4yg5KwOtT3UUjdlKR7zSnf) | [Popeye Bangladesh](https://open.spotify.com/artist/1tOl4RqWQOpbUiKqnP14GF) | [Bishonno Shundor](https://open.spotify.com/album/10aPVBagHNw3J0nJK3IIZG) | 5:54 |
-| 32 | [Bhober Pagol](https://open.spotify.com/track/4El1blqsazEurG6gpvyUtF) | [Nigar Sumi](https://open.spotify.com/artist/5v4ceNWjpPcck7V5tPbOn1), [Jalali Set](https://open.spotify.com/artist/1DUbMaHb0Qi0LutuodIxnN) | [Bhober Pagol](https://open.spotify.com/album/7k16lPrTnyK6Vj5I1lZghn) | 5:16 |
+| 32 | [Bhober Pagol](https://open.spotify.com/track/13zHSdOzcrnu2KIpS29Bcl) | [Nigar Sumi](https://open.spotify.com/artist/5v4ceNWjpPcck7V5tPbOn1), [Jalali Set](https://open.spotify.com/artist/1DUbMaHb0Qi0LutuodIxnN) | [Bhober Pagol](https://open.spotify.com/album/3s8TxTwY3c6XbP5nLxR1fF) | 5:25 |
 | 33 | [Avash](https://open.spotify.com/track/3OBSXEoKdsC0lT6RZuozYY) | [Avash](https://open.spotify.com/artist/1yg6sCbwRCFjo545X0qLgd) | [Avash](https://open.spotify.com/album/1jKCQ198KBaclhaXMQEXiq) | 4:14 |
 | 34 | [Bedona](https://open.spotify.com/track/6qMij3wV7GhTOP3hHhZ0WX) | [Shunno](https://open.spotify.com/artist/2S7h1jilqmzK8iyU47nmSk) | [Notun Srot](https://open.spotify.com/album/2NcFsal4cYid6BsZVTqFJy) | 4:09 |
 | 35 | [Epitaph](https://open.spotify.com/track/1U6tiLQYPT9C3GEhJlAsAQ) | [Shonar Bangla Circus](https://open.spotify.com/artist/0VunpVWO2MCBMR1qwGRWzh) | [Hyena Express](https://open.spotify.com/album/1y3dEPRfsbLgGelBKtXyuq) | 6:43 |
@@ -104,4 +104,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3MUQrfTBXMY.md) - [plain]
 | 94 | [Ondho Deyal](https://open.spotify.com/track/3t5RiZ8gNRK41NJucuL3ju) | [Shonar Bangla Circus](https://open.spotify.com/artist/0VunpVWO2MCBMR1qwGRWzh) | [Hyena Express](https://open.spotify.com/album/1y3dEPRfsbLgGelBKtXyuq) | 5:37 |
 | 95 | [Chaya](https://open.spotify.com/track/6YdezeXuIAkGaLRgbC08Ny) | [HIGHWAY](https://open.spotify.com/artist/62mZpB59RHyxLGNesP78Vg) | [Chaya](https://open.spotify.com/album/5DHclWpAoKJglHp93WrQ2F) | 6:25 |
 
-Snapshot ID: `MCw2YjExYjRhNzFhZmRiZjljYjgwMTQ3YmY1MDJmNDFkOTNmMzdlY2Ix`
+Snapshot ID: `MCwwMTgzMTM2NmRjOTk5YjM3ZjY2YzkwYTI0N2M1MDUxMmE1M2VkYzI2`

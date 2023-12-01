@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8mWv7JDZ0Ht.md) - [plain]
 
 > Novidades e hits do pop nacional pra te deixar mais leve! Foto: Melim
 
-[Spotify](https://open.spotify.com/user/spotify) - 434,702 likes - 90 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 434,696 likes - 90 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8mWv7JDZ0Ht.md) - [plain]
 | 89 | [Sintomas de Saudade](https://open.spotify.com/track/6QlevudYVANWjhtyyH2PJW) | [Geovanna Jainy](https://open.spotify.com/artist/0N8j1fdrTFzTCyzP4bGbSj) | [Sintomas de Saudade](https://open.spotify.com/album/5u16k6T8bhUwgI10rlCwVt) | 3:14 |
 | 90 | [colorida](https://open.spotify.com/track/6RmkIFg8AnHjG3rhITyGJV) | [Bruno Gadiol](https://open.spotify.com/artist/0UlEgLbUMrAuiWGptQzCJ3), [Ananda](https://open.spotify.com/artist/29hJAtMl7ryQc9QBxZWlVr) | [JOVEM \(DELUXE\)](https://open.spotify.com/album/7tDVAA2c0ipIHUaJD9kj0M) | 2:54 |
 
-Snapshot ID: `MCw0ZjJjNGFmMjk5MzVlMmFmNjYyNGRiOTBhOTg0OGI5Y2FhYTYxYWUx`
+Snapshot ID: `MCxlNTk4MWI2ZDYwMzU1NTNiZTFkY2EwNjg5Y2MyODUyZDJmYTU5ZmFk`

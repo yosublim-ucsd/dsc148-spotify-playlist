@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZkHEX2YHpDV.md) - [plain]
 
 > pop punk, emo, post\-hardcore, alt, & more\. Cover: Four Year Strong
 
-[Spotify](https://open.spotify.com/user/spotify) - 456,324 likes - 150 songs - 7 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 456,353 likes - 150 songs - 7 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZkHEX2YHpDV.md) - [plain]
 | 149 | [Figure 8](https://open.spotify.com/track/5RZ1CPAYA2q3gxHBkZuJ84) | [John Harvie](https://open.spotify.com/artist/6kTaghFWmvBbtenJUJks6h) | [Figure 8](https://open.spotify.com/album/6sdo6MlzIARRUlAqo8UMri) | 3:32 |
 | 150 | [My Friends](https://open.spotify.com/track/2xqvthP2FrDdUpa37fxNyB) | [No Love For The Middle Child](https://open.spotify.com/artist/7HWfshpjlGldmRa4gymvjX), [Zero 9:36](https://open.spotify.com/artist/1V599H9vfq6hWe2hGzyzI0), [Stand Atlantic](https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh) | [Say It Like You Mean It](https://open.spotify.com/album/0XvzRBqVK9dg7eCLZpQ5SH) | 3:12 |
 
-Snapshot ID: `MCw0MDNlNDExZjM1MmVhMDRiNzBjYjEzOTJlYzM4ODZmYjViZDRlMjEw`
+Snapshot ID: `MCwxYWFjODFlOTBjNzIyMzkzMWJjZTViM2FmNjBkM2JlNDViNjZkM2M0`

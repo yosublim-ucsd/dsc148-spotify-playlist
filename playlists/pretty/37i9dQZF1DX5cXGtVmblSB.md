@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5cXGtVmblSB.md) - [plain]
 
 > Soft music to calm down cats, kittens and their humans.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,522 likes - 79 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,655 likes - 79 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5cXGtVmblSB.md) - [plain]
 | 78 | [Bird Whisperer \(Just Relax\)](https://open.spotify.com/track/4urSQCLVwqibeOXbh7fzrd) | [Clouds Come Down](https://open.spotify.com/artist/6AqxTQj5IlWTwGCwPuxZu8) | [Grace](https://open.spotify.com/album/2IzduArXZVwnuqTPuYuxrT) | 3:48 |
 | 79 | [Ethereal in 528hz](https://open.spotify.com/track/2PiEsCiricooWn5a3CxuVU) | [Nairuz](https://open.spotify.com/artist/5Rl9GnnclvARcDxCUMO02Y) | [Ethereal in 528hz](https://open.spotify.com/album/5pqypFlXKBTOfxIxB1KrP2) | 2:50 |
 
-Snapshot ID: `MCxkZjZmN2U1M2EwYzVkMzAwMGQyOGYxZjkxMmMzYzA5Y2QxZGNiYWZj`
+Snapshot ID: `MCwwNjg4ZmU2YjFlYTEwOTM3NjIxMGFmMGNlYjg1Yzg5MjA1Njg2Zjk2`

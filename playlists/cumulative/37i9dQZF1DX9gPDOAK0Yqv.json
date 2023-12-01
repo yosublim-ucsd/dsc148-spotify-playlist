@@ -108,7 +108,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 320000,
       "name": "About My Dreams",
       "url": "https://open.spotify.com/track/0esqnRo6slUc3hjqppnVAn"
@@ -130,7 +130,7 @@
       ],
       "date_added": "2022-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 368386,
       "name": "Accordia",
       "url": "https://open.spotify.com/track/19pZBVcKIpZe6DqpzTEPCM"
@@ -388,7 +388,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 320000,
       "name": "Apocalypse",
       "url": "https://open.spotify.com/track/4o9XrRSQhyCi8O3jglCaIg"
@@ -533,6 +533,24 @@
     },
     {
       "album": {
+        "name": "Ashes in Paradise",
+        "url": "https://open.spotify.com/album/0GTW43ocEzYd18jSbdNU8z"
+      },
+      "artists": [
+        {
+          "name": "Lauren Mia",
+          "url": "https://open.spotify.com/artist/5HWKpmCYAFYybu5WKtxnnq"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 390243,
+      "name": "Ashes in Paradise",
+      "url": "https://open.spotify.com/track/2aa3mL5s2oZ5Z8irf9lDoI"
+    },
+    {
+      "album": {
         "name": "Atomic Heart",
         "url": "https://open.spotify.com/album/0luQU7YFJBr05uS279ifqf"
       },
@@ -566,7 +584,7 @@
       ],
       "date_added": "2023-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 211381,
       "name": "Aylyak",
       "url": "https://open.spotify.com/track/0iofhe3HgUtzq8yiPDKp1Z"
@@ -887,6 +905,32 @@
     },
     {
       "album": {
+        "name": "Close (Enamour Remix)",
+        "url": "https://open.spotify.com/album/0PRZBZ2Wf312uSWFW0PMGu"
+      },
+      "artists": [
+        {
+          "name": "Felix Raphael",
+          "url": "https://open.spotify.com/artist/4nknUpUYu4baxWwkunq81Z"
+        },
+        {
+          "name": "Fabian Sprungk",
+          "url": "https://open.spotify.com/artist/0WCaG0w6y05Cs7u3FvmrX5"
+        },
+        {
+          "name": "Enamour",
+          "url": "https://open.spotify.com/artist/6D1PUSzHf2Z4jTFIdhjJoO"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286666,
+      "name": "Close - Enamour Remix",
+      "url": "https://open.spotify.com/track/5VMDIeOg5gBVHAjv5tjdbR"
+    },
+    {
+      "album": {
         "name": "Close Your Eyes",
         "url": "https://open.spotify.com/album/0LcmOI4mgsVS545GrAcYE4"
       },
@@ -1182,7 +1226,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 245333,
       "name": "Dance for Me",
       "url": "https://open.spotify.com/track/6wJ22X7UZ56eCmrsibz6Td"
@@ -1352,7 +1396,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 317546,
       "name": "Desert Sun",
       "url": "https://open.spotify.com/track/2hEZYp3vO0qpVjOGwW6Ctv"
@@ -1374,7 +1418,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 199358,
       "name": "Desire",
       "url": "https://open.spotify.com/track/4RK3K3tMjzyLbszKzqyAsi"
@@ -2120,7 +2164,7 @@
       ],
       "date_added": "2022-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 240000,
       "name": "Freedom",
       "url": "https://open.spotify.com/track/2bHGHbsFmjQdmdE7hZSKr6"
@@ -2448,7 +2492,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 194754,
       "name": "Gravity - Adam Sellouk Remix",
       "url": "https://open.spotify.com/track/1fAEgL0FxWfNqxVZRHsm20"
@@ -2836,7 +2880,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 208601,
       "name": "Higher Power",
       "url": "https://open.spotify.com/track/7mQAjg2u5udWhnQ07jIHI7"
@@ -2862,7 +2906,7 @@
       ],
       "date_added": "2022-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 398095,
       "name": "Hold Me To The Light - Tale Of Us Remix",
       "url": "https://open.spotify.com/track/3Allgqu3MaHE8QFvzoP90S"
@@ -2884,7 +2928,7 @@
       ],
       "date_added": "2023-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 192000,
       "name": "Hold Onto This",
       "url": "https://open.spotify.com/track/6sdKjx7vqR50AY7KdVuK35"
@@ -3012,7 +3056,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 256721,
       "name": "Hyperreal",
       "url": "https://open.spotify.com/track/3NxY6I8zzqT2F2Ue2G8BRZ"
@@ -3166,6 +3210,24 @@
       "duration_ms": 371612,
       "name": "In White Rooms - 2023 Remix",
       "url": "https://open.spotify.com/track/0YHGkJUhWOw5OsvW3KCQBE"
+    },
+    {
+      "album": {
+        "name": "Inception",
+        "url": "https://open.spotify.com/album/4zt9MIGqd7tgXn3iTBsjUs"
+      },
+      "artists": [
+        {
+          "name": "Agents Of Time",
+          "url": "https://open.spotify.com/artist/6Jbyd4qzEtbFtswZP1o6Ht"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238095,
+      "name": "Inception",
+      "url": "https://open.spotify.com/track/5zaIHozEuaidkeysMFuKNu"
     },
     {
       "album": {
@@ -3672,7 +3734,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 225134,
       "name": "Listen",
       "url": "https://open.spotify.com/track/0L8WTNC0GLcfAXkGMPIolF"
@@ -3770,7 +3832,7 @@
       ],
       "date_added": "2022-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 439024,
       "name": "Loss Of Hope",
       "url": "https://open.spotify.com/track/5QRhs05R9MOXHQC2OOn5bq"
@@ -3828,7 +3890,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 301468,
       "name": "Luminous",
       "url": "https://open.spotify.com/track/7MptmD653XjVFIwjrdWykV"
@@ -3846,7 +3908,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 437891,
       "name": "Lyra",
       "url": "https://open.spotify.com/track/1Y4nxwSQr5jTMXKaQwiLOA"
@@ -4250,7 +4312,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 199047,
       "name": "My City's On Fire (Anyma & Cassian Remix)",
       "url": "https://open.spotify.com/track/30sR2mBD6VIUk1w93XDMOL"
@@ -4364,7 +4426,7 @@
       ],
       "date_added": "2022-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 424431,
       "name": "Mystery - Tale Of Us & Mathame Remix",
       "url": "https://open.spotify.com/track/3fdXEMBTjHNJ5Bug5c7rZi"
@@ -4488,7 +4550,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 235206,
       "name": "Ocean Drive",
       "url": "https://open.spotify.com/track/5p8w7JOwtF7brVkTIErUpT"
@@ -4974,7 +5036,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 361720,
       "name": "Posterity",
       "url": "https://open.spotify.com/track/0a8DmRInyjZqwG27pVhbC6"
@@ -5206,7 +5268,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 299293,
       "name": "Reflected Wisdom - Five Phases Project (4/5)",
       "url": "https://open.spotify.com/track/24yUM08mhAzWSLvCQultZY"
@@ -6288,7 +6350,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 174193,
       "name": "Sweet Moment",
       "url": "https://open.spotify.com/track/5CoUL7T9706eA3BIG2KbNA"
@@ -6466,7 +6528,7 @@
       ],
       "date_added": "2022-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 328780,
       "name": "Tataki",
       "url": "https://open.spotify.com/track/1vdYudatKL5iRIM7i6vkvG"
@@ -6564,7 +6626,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 222217,
       "name": "The Dark Sun",
       "url": "https://open.spotify.com/track/5PYCuH5qC1cUO7vhjw2yFh"
@@ -6630,6 +6692,28 @@
       "duration_ms": 421875,
       "name": "The First Rebirth",
       "url": "https://open.spotify.com/track/3p97W1BwtzC8aOcTHtOxKe"
+    },
+    {
+      "album": {
+        "name": "The Future Is Unknown",
+        "url": "https://open.spotify.com/album/0htK1OiP8v8kU6SSNEDaal"
+      },
+      "artists": [
+        {
+          "name": "Adriatique",
+          "url": "https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB"
+        },
+        {
+          "name": "Delhia De France",
+          "url": "https://open.spotify.com/artist/7A4TdwdnxfR9auD1yAmpWD"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263520,
+      "name": "The Future Is Unknown",
+      "url": "https://open.spotify.com/track/4CvvIoMzXxXTzvGPT9nBNO"
     },
     {
       "album": {
@@ -6720,7 +6804,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 213870,
       "name": "The Morning After",
       "url": "https://open.spotify.com/track/5XZwq5GzhyjjlMwtou1fWb"
@@ -6804,7 +6888,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 201290,
       "name": "The Pulse Of Machine",
       "url": "https://open.spotify.com/track/1cUOfO7FdFwz5U5Jhm4Jwo"
@@ -7138,7 +7222,7 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 405500,
       "name": "Tripchain",
       "url": "https://open.spotify.com/track/3wLIyQsH1vm9jmg0p5Dsga"
@@ -7578,7 +7662,7 @@
       ],
       "date_added": "2022-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 270967,
       "name": "Waiting For Too Long",
       "url": "https://open.spotify.com/track/0VsCw4IqlcJ2GeYnQbV5zx"
@@ -7702,7 +7786,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 245280,
       "name": "Welcome To The Opera (with Grimes)",
       "url": "https://open.spotify.com/track/7hV8vZMezoQdSdvsi70Ioa"
@@ -7764,6 +7848,28 @@
       "duration_ms": 192088,
       "name": "You Can't Find Me",
       "url": "https://open.spotify.com/track/2LOrH9gZi0WA2dU5hmZT4b"
+    },
+    {
+      "album": {
+        "name": "Your Heart (Melodic Techno Remix)",
+        "url": "https://open.spotify.com/album/0crQXvtyEUW4pRcWY2Ycfl"
+      },
+      "artists": [
+        {
+          "name": "Lynnic",
+          "url": "https://open.spotify.com/artist/1jpObIFmNOGfBc93WowfkT"
+        },
+        {
+          "name": "ItsArius",
+          "url": "https://open.spotify.com/artist/6ObJnVTLETeHSeKhYreB27"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226572,
+      "name": "Your Heart - Melodic Techno Remix",
+      "url": "https://open.spotify.com/track/3T0we2FGn8jdXeaGJs2zkK"
     },
     {
       "album": {

@@ -1940,7 +1940,7 @@
       ],
       "date_added": "2023-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 131886,
       "name": "ATTENTO",
       "url": "https://open.spotify.com/track/0OlWgFn52HD6ofpfOBFS1i"
@@ -2371,6 +2371,28 @@
     },
     {
       "album": {
+        "name": "BICCHIERE SENZA FONDO",
+        "url": "https://open.spotify.com/album/4nMBMkkBqOSNEsfgL55Q48"
+      },
+      "artists": [
+        {
+          "name": "CVMPO",
+          "url": "https://open.spotify.com/artist/5pmFaRNB5fn3DZlaAQEX1K"
+        },
+        {
+          "name": "Sedici",
+          "url": "https://open.spotify.com/artist/1XSigaqCmQp77DUMbf8Fxs"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145687,
+      "name": "BICCHIERE SENZA FONDO",
+      "url": "https://open.spotify.com/track/0TlQLPx4uCZJ5dOodT6YxM"
+    },
+    {
+      "album": {
         "name": "Big Babol",
         "url": "https://open.spotify.com/album/3YCGc7TsCL4rNGVHo8STCd"
       },
@@ -2722,6 +2744,24 @@
       "duration_ms": 212146,
       "name": "Buio",
       "url": "https://open.spotify.com/track/3dsMyJ5lR9ammFyy8G4RjE"
+    },
+    {
+      "album": {
+        "name": "Burrone",
+        "url": "https://open.spotify.com/album/4JyFlh34wPSfiPDJVrYAmf"
+      },
+      "artists": [
+        {
+          "name": "Arianna Pasini",
+          "url": "https://open.spotify.com/artist/0PvxzN9MSvVMYj0b0fuwzA"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182520,
+      "name": "Burrone",
+      "url": "https://open.spotify.com/track/1NaD3BZ3iokShwJjmRAvFz"
     },
     {
       "album": {
@@ -4516,7 +4556,7 @@
       ],
       "date_added": "2023-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 180758,
       "name": "D I S T A N T I",
       "url": "https://open.spotify.com/track/3UI3UeiZ5KBL4hFpbGoNxq"
@@ -6787,6 +6827,32 @@
     },
     {
       "album": {
+        "name": "G.O.O.D.",
+        "url": "https://open.spotify.com/album/6AoTT4AtgHelHVsfazFcEn"
+      },
+      "artists": [
+        {
+          "name": "Chris J Sandra",
+          "url": "https://open.spotify.com/artist/4IIzryWZ9OPgCjCWcErCM4"
+        },
+        {
+          "name": "Raffucs",
+          "url": "https://open.spotify.com/artist/4VmZQVUEWM65SsJf6W3qDo"
+        },
+        {
+          "name": "Itto",
+          "url": "https://open.spotify.com/artist/2LJFeWUIvW4OF583ZiqIRh"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128750,
+      "name": "G.O.O.D.",
+      "url": "https://open.spotify.com/track/5p0PQ2fhQEQCaW0MxBt1Hz"
+    },
+    {
+      "album": {
         "name": "Galatine",
         "url": "https://open.spotify.com/album/4HaskkZcwaUEd2dctlCnyj"
       },
@@ -8630,7 +8696,7 @@
       ],
       "date_added": "2023-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 140877,
       "name": "LA NIGHT",
       "url": "https://open.spotify.com/track/08o3UYTWcQZZo5o7ygl4OE"
@@ -9276,6 +9342,24 @@
       "duration_ms": 184050,
       "name": "Lui",
       "url": "https://open.spotify.com/track/3cTvU29740MTpmXHA08m82"
+    },
+    {
+      "album": {
+        "name": "Luna",
+        "url": "https://open.spotify.com/album/5sspKYPshLXmEoAu4RBNwi"
+      },
+      "artists": [
+        {
+          "name": "D'Arabia",
+          "url": "https://open.spotify.com/artist/1c9TqIKK8Ka0sUCqLz7Qa7"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206147,
+      "name": "Luna",
+      "url": "https://open.spotify.com/track/68yWgMc6jmumSyayv3JHoP"
     },
     {
       "album": {
@@ -10321,6 +10405,24 @@
     },
     {
       "album": {
+        "name": "Autunno 80",
+        "url": "https://open.spotify.com/album/7MSwtrNw5iC3LVA0x1Q4Lj"
+      },
+      "artists": [
+        {
+          "name": "Brando Madonia",
+          "url": "https://open.spotify.com/artist/3UAeF4girTzN2loV6WRsCh"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154161,
+      "name": "Mica Milano",
+      "url": "https://open.spotify.com/track/4GrlVUYliUaZI6ZDPvBKBv"
+    },
+    {
+      "album": {
         "name": "Mikado",
         "url": "https://open.spotify.com/album/6KX5rDPufOywxTe2S9LGkz"
       },
@@ -10570,7 +10672,7 @@
       ],
       "date_added": "2023-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 200594,
       "name": "Mondi sparsi",
       "url": "https://open.spotify.com/track/0Jz370blHFTaWrQMOO3qBy"
@@ -11113,6 +11215,24 @@
     },
     {
       "album": {
+        "name": "8:24",
+        "url": "https://open.spotify.com/album/4xWP6xpAI2mEMjDb9sGCbc"
+      },
+      "artists": [
+        {
+          "name": "Perlaluna",
+          "url": "https://open.spotify.com/artist/3wHLxvHmTh1egG7BKtagcb"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124203,
+      "name": "Nella Doccia",
+      "url": "https://open.spotify.com/track/6EFDRw03t2uPUyfv9FMDFE"
+    },
+    {
+      "album": {
         "name": "NEMICO PUBBLICO",
         "url": "https://open.spotify.com/album/2KNOrtZwOgmjEEatVfc7wg"
       },
@@ -11276,7 +11396,7 @@
       ],
       "date_added": "2023-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 199600,
       "name": "NEW_CLAR\u00ecTAS",
       "url": "https://open.spotify.com/track/0w1JoyyxMJq3sxttOpKb3i"
@@ -14152,7 +14272,7 @@
       ],
       "date_added": "2023-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 136220,
       "name": "Qualcosa da dirti",
       "url": "https://open.spotify.com/track/2PiiPU979kuXW0KGgn9fhK"

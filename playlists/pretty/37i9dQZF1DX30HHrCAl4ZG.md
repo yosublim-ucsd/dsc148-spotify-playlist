@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30HHrCAl4ZG.md) - [plain]
 
 > Explore all things indie rock right now\. Featuring new music by Kurt Vile
 
-[Spotify](https://open.spotify.com/user/spotify) - 843,529 likes - 100 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 843,463 likes - 100 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30HHrCAl4ZG.md) - [plain]
 | 99 | [Roly Poly](https://open.spotify.com/track/7uqvt9TCztQgtyQZoQdjrF) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [Orange Blood](https://open.spotify.com/album/3EP2uvI3t1m5UCCSA1iTtV) | 2:36 |
 | 100 | [Buttons \- Take 2](https://open.spotify.com/track/18wRejV2is4dNBoq1YDh7b) | [meija](https://open.spotify.com/artist/5Uc38SFcTd4bzDk3hhvRu1), [Harmless](https://open.spotify.com/artist/5dYGaoCO0iaUZKfl9K8Gtd) | [Buttons \(Take 2\)](https://open.spotify.com/album/6Q3s8s0cYWf10PP7IOh6iT) | 3:49 |
 
-Snapshot ID: `MCw3OTNjMmRlYTk2NjFmNTk2ODMwMzU0NzI0OGVmYjAwMjc4NmQ2YWFi`
+Snapshot ID: `MCw1MzE1MDc4OTRjMDFlN2NmNzAyZTFmYTlmMTVmM2ViZmViYWQ0ZWJm`

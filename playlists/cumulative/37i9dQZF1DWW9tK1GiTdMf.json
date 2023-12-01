@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-09",
-  "description": "\ud83e\ude78 Emo, punk e rock \ud83c\uddee\ud83c\uddf9 e \ud83c\udf0e!  Chakra in cover",
+  "description": "\ud83e\ude78 Emo, punk e rock \ud83c\uddee\ud83c\uddf9 e \ud83c\udf0e! Cover: Sally Cruz",
   "name": "sanguegiovane",
   "tracks": [
     {
@@ -46,6 +46,28 @@
       "duration_ms": 149629,
       "name": "0 SENTIMENTO",
       "url": "https://open.spotify.com/track/5WCw5MPG167COqxJu6c42Y"
+    },
+    {
+      "album": {
+        "name": "1 2 3",
+        "url": "https://open.spotify.com/album/49ZvUcbaT42V16avQQNJQx"
+      },
+      "artists": [
+        {
+          "name": "Sally Cruz",
+          "url": "https://open.spotify.com/artist/1zdw3hXWH7Ri55SoCVt7gc"
+        },
+        {
+          "name": "Mike Defunto",
+          "url": "https://open.spotify.com/artist/6uHOqShw2mIXcOK0jwnqHx"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159207,
+      "name": "1 2 3",
+      "url": "https://open.spotify.com/track/0qcq82wOBXvOnSngbddfgb"
     },
     {
       "album": {
@@ -951,6 +973,24 @@
     },
     {
       "album": {
+        "name": "Anche se fa male",
+        "url": "https://open.spotify.com/album/7ffTACBFs9ZZtAdi9e3umU"
+      },
+      "artists": [
+        {
+          "name": "ALBE.x",
+          "url": "https://open.spotify.com/artist/20pY261He7JCdV1FbbGZQb"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147692,
+      "name": "Anche se fa male",
+      "url": "https://open.spotify.com/track/0cgSCy6U9CzwNjT81n5dyC"
+    },
+    {
+      "album": {
         "name": "Stranger Teens",
         "url": "https://open.spotify.com/album/4TIE2btiJrQZmu8XYcGqG7"
       },
@@ -1080,6 +1120,24 @@
       "duration_ms": 176100,
       "name": "Anima Tormentata",
       "url": "https://open.spotify.com/track/7C1cnKPhNwieQsKORc0hE1"
+    },
+    {
+      "album": {
+        "name": "ANIME // LACRIME",
+        "url": "https://open.spotify.com/album/0nNR2YC1WWGwxjd4X4KbJU"
+      },
+      "artists": [
+        {
+          "name": "$uicide Gvng",
+          "url": "https://open.spotify.com/artist/08sHWmBiGMbrPSWDco4zfb"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178758,
+      "name": "ANIME // LACRIME",
+      "url": "https://open.spotify.com/track/2uXMhura9A8WAQ6hJhwWVb"
     },
     {
       "album": {
@@ -1674,7 +1732,7 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 236889,
       "name": "Bisogno D",
       "url": "https://open.spotify.com/track/30qpR8ZHrvbd5ilEyP6UcR"
@@ -1828,7 +1886,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 121411,
       "name": "BOYFRIEND",
       "url": "https://open.spotify.com/track/0Gz8JS4mdWf67lqbslmWZr"
@@ -2386,7 +2444,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 218181,
       "name": "chiaroscuro",
       "url": "https://open.spotify.com/track/0RfrHDSuwVNXeTz2Epoq8J"
@@ -2731,6 +2789,24 @@
     },
     {
       "album": {
+        "name": "Come Mi Guardi Tu",
+        "url": "https://open.spotify.com/album/5xh6eg5XgDgQsBuh4nCFEf"
+      },
+      "artists": [
+        {
+          "name": "Nyno",
+          "url": "https://open.spotify.com/artist/19Ii0dXgTYPulG9y9NaxTP"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137676,
+      "name": "Come Mi Guardi Tu",
+      "url": "https://open.spotify.com/track/1Za8L2L6QyV0nFMmoiVSNX"
+    },
+    {
+      "album": {
         "name": "COME NOI",
         "url": "https://open.spotify.com/album/6EIHEZs5kwOea8Vrm0k7Ac"
       },
@@ -3014,7 +3090,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 225527,
       "name": "crisi",
       "url": "https://open.spotify.com/track/0HZlp4bA707rkrHkNLHz49"
@@ -3546,7 +3622,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 139764,
       "name": "DIE YOUNG",
       "url": "https://open.spotify.com/track/2kvQMZIrlD0buXHvYVIXwl"
@@ -6716,7 +6792,7 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 169756,
       "name": "L'anima Nell'aria",
       "url": "https://open.spotify.com/track/3kTPRowdmtOYf9sy3Hu71E"
@@ -7124,7 +7200,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 176399,
       "name": "leave me for dead",
       "url": "https://open.spotify.com/track/3ItJaK3oSkvCE4QiLkaxbi"
@@ -7146,7 +7222,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 142588,
       "name": "LEI",
       "url": "https://open.spotify.com/track/6P1k9dyqSlRunYVjfXpFTT"
@@ -7284,7 +7360,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 133549,
       "name": "LIVIDI",
       "url": "https://open.spotify.com/track/30TgUm0WPcCU7srcV29rBE"
@@ -7634,7 +7710,7 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 126171,
       "name": "LUNA STORTA",
       "url": "https://open.spotify.com/track/0zB6zl9jFhFnpxEavLip0V"
@@ -7864,7 +7940,7 @@
       ],
       "date_added": "2023-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 170980,
       "name": "Manic pixie",
       "url": "https://open.spotify.com/track/3Xk9HrsLiKGut8pC78wl6Z"
@@ -8044,6 +8120,28 @@
       "duration_ms": 155432,
       "name": "MEGA PERDO",
       "url": "https://open.spotify.com/track/32cEfV473exUz1jtR5xDnx"
+    },
+    {
+      "album": {
+        "name": "MEMORIA",
+        "url": "https://open.spotify.com/album/0zu7wPnoddUrAoCYbSugIx"
+      },
+      "artists": [
+        {
+          "name": "LA SAD",
+          "url": "https://open.spotify.com/artist/1y5nSaw0Am7fIEDAkrfgjY"
+        },
+        {
+          "name": "bnkr44",
+          "url": "https://open.spotify.com/artist/1lwGYDWoXC7E5wDNYZBurw"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156807,
+      "name": "MEMORIA",
+      "url": "https://open.spotify.com/track/2Ey2SncqdHRkpVmoStBqj9"
     },
     {
       "album": {
@@ -9731,6 +9829,28 @@
     },
     {
       "album": {
+        "name": "Pezzo di Terra",
+        "url": "https://open.spotify.com/album/2sFB2Mdu0igpVXJpj3ETnu"
+      },
+      "artists": [
+        {
+          "name": "18K",
+          "url": "https://open.spotify.com/artist/5PVCzkHVhVLRLadPdJUdXB"
+        },
+        {
+          "name": "85Prod",
+          "url": "https://open.spotify.com/artist/7n6z8NXRn1fEM15LesQ2Fr"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154394,
+      "name": "Pezzo di Terra",
+      "url": "https://open.spotify.com/track/2OiatnaZgOAbVxFeywYYyU"
+    },
+    {
+      "album": {
         "name": "PHANTOM",
         "url": "https://open.spotify.com/album/5csLhunCpT6Pptq0UVvNop"
       },
@@ -9830,6 +9950,36 @@
       "duration_ms": 167368,
       "name": "Pillole",
       "url": "https://open.spotify.com/track/7gBO9lts9MZomcwuZnIXTy"
+    },
+    {
+      "album": {
+        "name": "Il Grande Fulmine",
+        "url": "https://open.spotify.com/album/0hc4ffZgsXwCzaOLdFqaCZ"
+      },
+      "artists": [
+        {
+          "name": "Thru Collected",
+          "url": "https://open.spotify.com/artist/2P0hl2Wx1Zb04shTLfdWrv"
+        },
+        {
+          "name": "SANO",
+          "url": "https://open.spotify.com/artist/1PZyTe8GphPoqw95oY5of3"
+        },
+        {
+          "name": "Lucky lapolo",
+          "url": "https://open.spotify.com/artist/10BLKtKUuaAx5mUu14ipFo"
+        },
+        {
+          "name": "Tripolare",
+          "url": "https://open.spotify.com/artist/4QOWxkUYIKvnV7AcjF4k6w"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229891,
+      "name": "Pistola (feat. Tripolare)",
+      "url": "https://open.spotify.com/track/1x4m8pipnJNqg3DnPzN54F"
     },
     {
       "album": {
@@ -12394,7 +12544,7 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 150647,
       "name": "strada di casa",
       "url": "https://open.spotify.com/track/04do8PIktJQGjaY5UbfzXx"
@@ -12412,7 +12562,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 149565,
       "name": "Strappami",
       "url": "https://open.spotify.com/track/2hwhhzr8w5BDJVYYLWINTV"
@@ -13362,7 +13512,7 @@
       ],
       "date_added": "2023-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 185386,
       "name": "TOXIC",
       "url": "https://open.spotify.com/track/4TF2IPm9ZNs4xowapURvKv"
@@ -13990,7 +14140,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 159157,
       "name": "Uragani",
       "url": "https://open.spotify.com/track/4dSbeUXG4uIqtMnGnIq7gx"
@@ -14116,7 +14266,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 137000,
       "name": "VENERE",
       "url": "https://open.spotify.com/track/056jYB4VJ8j4YbwRniD4Hr"
@@ -14490,7 +14640,7 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 148003,
       "name": "X DIMENTICARE",
       "url": "https://open.spotify.com/track/0sMBrUfNyZmh93rSPoiRbt"

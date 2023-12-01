@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhOxz0JuWS6.md) - [plain]
 
 > Any songs you forgot existed? Let's go deep into 80s rock! Cover: Def Leppard.
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,665 likes - 200 songs - 14 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,729 likes - 200 songs - 14 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhOxz0JuWS6.md) - [plain]
 | 199 | [Vital Signs](https://open.spotify.com/track/1k0GxoZYv3Yx5mNeXMOZN2) | [Rush](https://open.spotify.com/artist/2Hkut4rAAyrQxRdof7FVJq) | [Moving Pictures \(2011 Remaster\)](https://open.spotify.com/album/2xg7iIKoSqaDNpDbJnyCjY) | 4:46 |
 | 200 | [Everybody Wants You](https://open.spotify.com/track/1BUTAQyk9QsdvRDghyMTC9) | [Billy Squier](https://open.spotify.com/artist/3Fz2GbraVXhcpXnoi2Oe1r) | [Emotions In Motion](https://open.spotify.com/album/6BTnMApVGPP5qQ2TUteXjg) | 3:46 |
 
-Snapshot ID: `MCw2MGJiNDA4NWE3NWI5YzhjYTVmY2FlYTU5NzA0MmI4ZjkzNWRlZTcy`
+Snapshot ID: `MCxkMTUxOTYxMzk2ZDM4NWExZjU0NjhjNjA0M2Q2Y2IyY2QzYjFiNWQy`

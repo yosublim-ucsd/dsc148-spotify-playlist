@@ -1433,6 +1433,32 @@
     },
     {
       "album": {
+        "name": "Ain't I",
+        "url": "https://open.spotify.com/album/4wCjej94XDH2kKIc6vBqbI"
+      },
+      "artists": [
+        {
+          "name": "Yung L.A.",
+          "url": "https://open.spotify.com/artist/5xUMw9vaS567MBBjsoLslo"
+        },
+        {
+          "name": "Young Dro",
+          "url": "https://open.spotify.com/artist/3ZooCJzNMTLpmJaIRUEorI"
+        },
+        {
+          "name": "T.I.",
+          "url": "https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252093,
+      "name": "Ain't I - main voc up",
+      "url": "https://open.spotify.com/track/6cnufgF6qLJGZT2PRFZBr1"
+    },
+    {
+      "album": {
         "name": "Ain\u2019t Safe (feat. Don Toliver)",
         "url": "https://open.spotify.com/album/2XlxXuumhYX4lIU2nXoUXw"
       },

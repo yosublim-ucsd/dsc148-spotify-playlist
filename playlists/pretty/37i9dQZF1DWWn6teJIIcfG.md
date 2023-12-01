@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWn6teJIIcfG.md) - [plain]
 
 > Get your creative juices flowing with these instrumental masterpieces.
 
-[Spotify](https://open.spotify.com/user/spotify) - 183,800 likes - 60 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 183,882 likes - 60 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWn6teJIIcfG.md) - [plain]
 | 59 | [Sarabande et rigaudon, Op\. 93: Sarabande](https://open.spotify.com/track/5KwqOPqGO04tDkpppNklad) | [Camille Saint\-Saëns](https://open.spotify.com/artist/436sYg6CZhNefQJogaXeK0), [Orchestre National de Lille](https://open.spotify.com/artist/4tf4qUbwCkHR28VYqcpaUf), [Jun Markl](https://open.spotify.com/artist/69ZwC2PyjJXhXn3XJ86zgd) | [Saint\-Saëns: Symphonic Poems](https://open.spotify.com/album/20GQrDilCY1nkCfYQJ6jrD) | 6:16 |
 | 60 | [3 Gymnopedies \(orch\. Debussy\): Gymnopedie No\. 2](https://open.spotify.com/track/2euauaTvztPp2Ae6rCeTri) | [Erik Satie](https://open.spotify.com/artist/459INk8vcC0ebEef82WjIK), [Claude Debussy](https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP), [Slovak Radio Symphony Orchestra](https://open.spotify.com/artist/428GNN7qZnTsMaK3SfPo6D), [Ondrej Lenard](https://open.spotify.com/artist/1V8rAXmdVnkT0417znOkAs) | [French Festival](https://open.spotify.com/album/0T9YCy8TruLD6Z4qiCGSn6) | 3:41 |
 
-Snapshot ID: `MCw3OWRhNjNmMzc2OGNkNTRjYzJmOThkNjFhNDdmMmVjMjIwNmE5NTVi`
+Snapshot ID: `MCxiZTk3YTQyYmNlYTNlODU4ZmE5M2ZjMzBkMDlkNjE5ZDQwY2JkZjUy`

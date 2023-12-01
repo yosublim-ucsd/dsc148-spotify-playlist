@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4UAnLC6Pj3.md) - [plain]
 
 > ¡Los éxitos de banda que necesitas! Banda MS de Sergio Lizárraga y Gloria Trevi en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,143,499 likes - 125 songs - 6 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,143,676 likes - 125 songs - 6 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4UAnLC6Pj3.md) - [plain]
 | 124 | [A Como Yo Lo Veo](https://open.spotify.com/track/2M96oj1hBrNEIz8R1FLuQC) | [Cuisillos De Arturo Macias](https://open.spotify.com/artist/32lXHXuhXtdA2j3IDXNND4) | [A Como Yo Lo Veo](https://open.spotify.com/album/3NPPmTpVZH4yed40Ffrf6C) | 3:17 |
 | 125 | [Amor Ranchero](https://open.spotify.com/track/6usuEveqwUGH07BI7AWM7f) | [Banda Rancho Viejo De Julio Aramburo La Bandononona](https://open.spotify.com/artist/39dmt5DRpnyJKgz5bc4ZNV) | [Amor Ranchero](https://open.spotify.com/album/4l89Z2kzqjkEXxJclXIEsm) | 2:23 |
 
-Snapshot ID: `MCw4MmU2NjA5NDk1YjZlNzY3Zjc5NmY3MzhjODQ4NzE2YWUzNmY3ZTg3`
+Snapshot ID: `MCw0ZjQ2M2JjNTY3YzI1MWFkYWQ0Y2VhN2JmNTE4NDVmYmZmN2NmZDM4`

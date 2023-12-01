@@ -874,10 +874,28 @@
       ],
       "date_added": "2023-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 270281,
       "name": "aqua",
       "url": "https://open.spotify.com/track/2Txp8hmiT3aqzD7CBjILo2"
+    },
+    {
+      "album": {
+        "name": "Monster (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/39M30s6dzpTXxGepQJuWeZ"
+      },
+      "artists": [
+        {
+          "name": "Ryuichi Sakamoto",
+          "url": "https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273333,
+      "name": "Aqua",
+      "url": "https://open.spotify.com/track/617VzMK6UIWdMhLVZMeO0w"
     },
     {
       "album": {

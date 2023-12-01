@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWX93cOoPbrf.md) - [plain]
 
 > Lo más fresco de la cosecha 2023\. Código FN, Oscar Maydón, Brandon Reyes y Elvin en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 796,008 likes - 75 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 796,244 likes - 75 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWX93cOoPbrf.md) - [plain]
 | 74 | [Que las Cuartitos No Falten](https://open.spotify.com/track/5ZFk83GnBDgpzKpXGPllCg) | [La Bertiniza De Culiacan](https://open.spotify.com/artist/7ky1WrqzDILf6obnwFMc8J) | [Me Estoy Quemando por Tomar](https://open.spotify.com/album/3UytMWt8nhi6WjZZXInhTI) | 2:55 |
 | 75 | [Trece Cielos \(Con Cerveza Victoria\)](https://open.spotify.com/track/5pERaeSVsez6b98PIIBsN2) | [Joaquín Coronel](https://open.spotify.com/artist/5NoHhsqkBw0TMQFfig7eLT) | [Trece Cielos \(Con Cerveza Victoria\)](https://open.spotify.com/album/3PTy9kHj8C3TRja73LjVd2) | 3:27 |
 
-Snapshot ID: `MCwxNjFiYjc2Yjc2NzMyNjVlYjRjYjhkNDNkZjNlZGUzMDMwYzlmMGM2`
+Snapshot ID: `MCwyYmE5YzJmZDJkZWQyODA1YTk4MmI4ZWFiNjU3MGYyNDYzM2UyNjEy`

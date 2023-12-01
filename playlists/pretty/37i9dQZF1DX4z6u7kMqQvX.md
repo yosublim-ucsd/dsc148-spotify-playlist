@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4z6u7kMqQvX.md) - [plain]
 
 > Sin ataduras, pero con amor: la medida justa de romance independiente.
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,584 likes - 100 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,608 likes - 100 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4z6u7kMqQvX.md) - [plain]
 | 99 | [Para Mí](https://open.spotify.com/track/0BnNmxZQLByTlVlppl9g1b) | [César Pinzón](https://open.spotify.com/artist/6WmcwbAC7wUcuPzXzxxcG6), [Pablo Dazán](https://open.spotify.com/artist/5JnWZtst5VQxEy3MtP2mnF) | [Para Mí](https://open.spotify.com/album/03mEDwZlpO3dMicJBJ6EqN) | 3:18 |
 | 100 | [Mirándote \- Versión radio](https://open.spotify.com/track/2uQZbSjd91u02aIjSE77ew) | [Pedrina y Rio](https://open.spotify.com/artist/6JkcXRzUF8IXV78ATWAHRK) | [Mirándote \- Versión radio](https://open.spotify.com/album/2YSnahVyY6Aj6Xy2H04P4H) | 3:54 |
 
-Snapshot ID: `MCw3Y2NlY2M4NzQ2NmEwMTYyMGYwZTc0NjNiYTE5NTZkZmJjOWU2NDM5`
+Snapshot ID: `MCxmM2FmMmYwOWU4MGUxMzEyZmRkNDBiY2EyNjUxY2VjYmViZmVjNmRh`

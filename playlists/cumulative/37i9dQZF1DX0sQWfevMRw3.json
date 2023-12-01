@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "DEN ENDA PROMENADEN SOM JAG TAR DEN \u00c4R TILL BAREN!!",
+  "description": "JULEN P\u00c5 FYRA HJUL \u00c4R H\u00c4R!!",
   "name": "30 km/h",
   "tracks": [
     {
@@ -46,7 +46,7 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 126940,
       "name": "100 SHOTS",
       "url": "https://open.spotify.com/track/7v04RskE6ULlYQwwk2X44F"
@@ -1080,7 +1080,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 185633,
       "name": "BBY JAG VILL HA DIG",
       "url": "https://open.spotify.com/track/1TnI33nmY36mv1CvGVQd9O"
@@ -2903,6 +2903,24 @@
     },
     {
       "album": {
+        "name": "Do Wah Diddy Diddy",
+        "url": "https://open.spotify.com/album/0ESlXyC5xb24wUoTRLhMCk"
+      },
+      "artists": [
+        {
+          "name": "N!NE",
+          "url": "https://open.spotify.com/artist/0RF3teBjUzbf1SDpnuR8Ro"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112063,
+      "name": "Do Wah Diddy Diddy",
+      "url": "https://open.spotify.com/track/31FCjDzPxVgG9fxkq9kIIA"
+    },
+    {
+      "album": {
         "name": "Do You Know? (The Ping Pong Song)",
         "url": "https://open.spotify.com/album/78m6AfVtBvzvrquPyVDArl"
       },
@@ -4663,6 +4681,32 @@
     },
     {
       "album": {
+        "name": "FATTAR INGENTING - (Mojnz Remix)",
+        "url": "https://open.spotify.com/album/36sLTcsTQghkNIxyTyMSm1"
+      },
+      "artists": [
+        {
+          "name": "Raggarligan",
+          "url": "https://open.spotify.com/artist/6uljULAp34CZrrwTVhImVH"
+        },
+        {
+          "name": "Perra & Berra",
+          "url": "https://open.spotify.com/artist/6YWMML4Yz4GNbHprht9tud"
+        },
+        {
+          "name": "Mojnz",
+          "url": "https://open.spotify.com/artist/61cp16xuPyKTvJYmaAY6st"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122566,
+      "name": "FATTAR INGENTING - (Mojnz Remix)",
+      "url": "https://open.spotify.com/track/111LIGpkhjDHYQXv7jmKaj"
+    },
+    {
+      "album": {
         "name": "Fattoush",
         "url": "https://open.spotify.com/album/6fmv5wXnfVi6bL5G9LZMji"
       },
@@ -5584,7 +5628,7 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 148322,
       "name": "FULLARE \u00c4N SATAN",
       "url": "https://open.spotify.com/track/6o8Eot8XTwsoIS9sQ6MVV1"
@@ -6218,6 +6262,24 @@
       "duration_ms": 176190,
       "name": "Gimme! Gimme! Gimme! (A Man After Midnight)",
       "url": "https://open.spotify.com/track/3Ty6LPBgKjUtTmk14f2Ux4"
+    },
+    {
+      "album": {
+        "name": "Gin och gl\u00f6gg",
+        "url": "https://open.spotify.com/album/2xeWhVD5EoeZIOVgalh0TF"
+      },
+      "artists": [
+        {
+          "name": "JulleMeck",
+          "url": "https://open.spotify.com/artist/5gBVgnVRYya7YzZSvHqy32"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 87750,
+      "name": "Gin och gl\u00f6gg",
+      "url": "https://open.spotify.com/track/7Fr1TbFRL3RGyqCRLu3fB0"
     },
     {
       "album": {
@@ -8709,6 +8771,42 @@
     },
     {
       "album": {
+        "name": "Jul I V\u00e5rat Hem",
+        "url": "https://open.spotify.com/album/7r70ISMldTSJo3YKRSBZrS"
+      },
+      "artists": [
+        {
+          "name": "LOOKET",
+          "url": "https://open.spotify.com/artist/4gYsIoRXPc0MnHDYIqEYVE"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Jul I V\u00e5rat Hem",
+      "url": "https://open.spotify.com/track/2k5MZjgBHLaoTFpoGwXHva"
+    },
+    {
+      "album": {
+        "name": "JUL IGEN",
+        "url": "https://open.spotify.com/album/4JUiZaXeJyzGBvYknWkL4R"
+      },
+      "artists": [
+        {
+          "name": "Louise Andersson Bodin",
+          "url": "https://open.spotify.com/artist/23z00NPQmiYxmpZSiDlQAE"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165931,
+      "name": "JUL IGEN",
+      "url": "https://open.spotify.com/track/6gZ2evMGSHjIzSLKid6XrP"
+    },
+    {
+      "album": {
         "name": "Just In Case",
         "url": "https://open.spotify.com/album/4xiUAuEg25QIRiPrS2A0Bi"
       },
@@ -9434,7 +9532,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 230937,
       "name": "LAJF",
       "url": "https://open.spotify.com/track/4IcIfknW05DXBLlkQGMDAM"
@@ -12892,7 +12990,7 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 173571,
       "name": "Raggare",
       "url": "https://open.spotify.com/track/5IRI4JNziHEtTJoDkyotMO"
@@ -13508,7 +13606,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 166476,
       "name": "ROM & COLA",
       "url": "https://open.spotify.com/track/4jxmEBgLV1TFjvtoNpajSX"
@@ -14440,7 +14538,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 135141,
       "name": "SKITER P\u00c5 ARBETSTID",
       "url": "https://open.spotify.com/track/3FFfmjfbzCc4tUaKHAswM1"
@@ -16277,6 +16375,28 @@
     },
     {
       "album": {
+        "name": "TA EN \u00d6L (DOH DAH)",
+        "url": "https://open.spotify.com/album/0aWSNqsyetGipemN5tnhyY"
+      },
+      "artists": [
+        {
+          "name": "Maximus",
+          "url": "https://open.spotify.com/artist/7KXt61GtLmrIizwZkpZa5C"
+        },
+        {
+          "name": "RIK1",
+          "url": "https://open.spotify.com/artist/0YnSx8xXces528yeQtNRuz"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141629,
+      "name": "TA EN \u00d6L (DOH DAH)",
+      "url": "https://open.spotify.com/track/6DhMtmrn1rmxntTVQhvQrb"
+    },
+    {
+      "album": {
         "name": "TA MIG HELA NATTEN",
         "url": "https://open.spotify.com/album/3XPMm4co393lrFQbozwZu4"
       },
@@ -17335,6 +17455,24 @@
     },
     {
       "album": {
+        "name": "TUSEN MIL",
+        "url": "https://open.spotify.com/album/1AWubcGeMvmVkOREXdkmKl"
+      },
+      "artists": [
+        {
+          "name": "Perra & Berra",
+          "url": "https://open.spotify.com/artist/6YWMML4Yz4GNbHprht9tud"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122400,
+      "name": "TUSEN MIL",
+      "url": "https://open.spotify.com/track/0DJjdJGLhghWbPwzSmdl48"
+    },
+    {
+      "album": {
         "name": "Tv\u00e5 T\u00f6lver",
         "url": "https://open.spotify.com/album/4X7kcwcsUFzrIxtYuWZlEp"
       },
@@ -17464,7 +17602,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 146785,
       "name": "UNIDUNK",
       "url": "https://open.spotify.com/track/05flMhHC1if3YNdASWLNYs"
@@ -17534,6 +17672,24 @@
       "duration_ms": 151445,
       "name": "UT IKV\u00c4LL",
       "url": "https://open.spotify.com/track/6ONUKKgbNnfqMNgnS1Da4U"
+    },
+    {
+      "album": {
+        "name": "UT P\u00c5 TUR",
+        "url": "https://open.spotify.com/album/0hl04llIOD7q3WyQM5ttH0"
+      },
+      "artists": [
+        {
+          "name": "Lia Larsson",
+          "url": "https://open.spotify.com/artist/7wdEdhvMnmb3lqogWSY9xD"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130451,
+      "name": "UT P\u00c5 TUR",
+      "url": "https://open.spotify.com/track/7EZPuUwZXxIItsRPjXGCSe"
     },
     {
       "album": {
@@ -18290,6 +18446,24 @@
       "duration_ms": 181896,
       "name": "We Are Here Now",
       "url": "https://open.spotify.com/track/4UVuGgYk3qlAfR8DGH30C4"
+    },
+    {
+      "album": {
+        "name": "We Call It A Pilsner Car",
+        "url": "https://open.spotify.com/album/6uGupbOzu1hoiW7kFyl1N6"
+      },
+      "artists": [
+        {
+          "name": "Lohmann & Co",
+          "url": "https://open.spotify.com/artist/52Bhcaz5r8ZIIuAim0EXRb"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129897,
+      "name": "We Call It A Pilsner Car",
+      "url": "https://open.spotify.com/track/13Nl0amQmDiJb2x8I1dAQY"
     },
     {
       "album": {

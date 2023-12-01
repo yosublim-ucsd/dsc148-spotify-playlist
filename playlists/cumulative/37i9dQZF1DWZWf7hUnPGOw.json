@@ -1047,6 +1047,28 @@
     },
     {
       "album": {
+        "name": "Feels Like Home On Christmas Day",
+        "url": "https://open.spotify.com/album/2yCdqMV4y4dYx2tVsLUADb"
+      },
+      "artists": [
+        {
+          "name": "Andrew McDermid",
+          "url": "https://open.spotify.com/artist/3sMpMrMYIhPB3LBHyEEnRD"
+        },
+        {
+          "name": "Natalie Ramsay",
+          "url": "https://open.spotify.com/artist/7lAEMXlYfnfwG14oDqtozO"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135269,
+      "name": "Feels Like Home On Christmas Day",
+      "url": "https://open.spotify.com/track/6VlncaLfGeOmKfqrsulm5N"
+    },
+    {
+      "album": {
         "name": "dawn",
         "url": "https://open.spotify.com/album/13VsJYysq5tyeZiB0GY4oy"
       },
@@ -1422,6 +1444,24 @@
       "duration_ms": 197079,
       "name": "Have A Little Faith In Me",
       "url": "https://open.spotify.com/track/6CC7m07iUQA2oKr2Ky4gRl"
+    },
+    {
+      "album": {
+        "name": "Snowfall",
+        "url": "https://open.spotify.com/album/1NWnNK50HLjM19nqkISue4"
+      },
+      "artists": [
+        {
+          "name": "Ingrid Michaelson",
+          "url": "https://open.spotify.com/artist/2vm8GdHyrJh2O2MfbQFYG0"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225880,
+      "name": "Have Yourself A Merry Little Christmas",
+      "url": "https://open.spotify.com/track/1pJmTx6TCoHUFpwekGm9p0"
     },
     {
       "album": {
@@ -1855,6 +1895,24 @@
     },
     {
       "album": {
+        "name": "I Heard the Bells on Christmas Day",
+        "url": "https://open.spotify.com/album/3O5KnCG0dWxULlXBd2WS1l"
+      },
+      "artists": [
+        {
+          "name": "Echosmith",
+          "url": "https://open.spotify.com/artist/1PbBg2aYjWLKRk84zJK15x"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182253,
+      "name": "I Heard the Bells on Christmas Day",
+      "url": "https://open.spotify.com/track/6ppdPveJCdq0YTSJzkGUAT"
+    },
+    {
+      "album": {
         "name": "Half-Hearted",
         "url": "https://open.spotify.com/album/6vapmEwPkUIcTgrA0t1SJE"
       },
@@ -2089,6 +2147,24 @@
     },
     {
       "album": {
+        "name": "Christmas (Deluxe Special Edition)",
+        "url": "https://open.spotify.com/album/7uVimUILdzSZG4KKKWToq0"
+      },
+      "artists": [
+        {
+          "name": "Michael Bubl\u00e9",
+          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206639,
+      "name": "It's Beginning to Look a Lot like Christmas",
+      "url": "https://open.spotify.com/track/5a1iz510sv2W9Dt1MvFd5R"
+    },
+    {
+      "album": {
         "name": "Stardust Lodge",
         "url": "https://open.spotify.com/album/1oGVl1VtQvTEovLLIS5LOv"
       },
@@ -2104,6 +2180,42 @@
       "duration_ms": 262640,
       "name": "Jealous Girl",
       "url": "https://open.spotify.com/track/4hLrteplUKWELpWOosNm0P"
+    },
+    {
+      "album": {
+        "name": "Jingle Bell Rock -Spotify Singles Holiday",
+        "url": "https://open.spotify.com/album/4U8CZl7b1nxhmEAaM5AbWk"
+      },
+      "artists": [
+        {
+          "name": "MisterWives",
+          "url": "https://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142893,
+      "name": "Jingle Bell Rock -Spotify Singles Holiday",
+      "url": "https://open.spotify.com/track/7Ao5aouOwI94DuwcXa5X1i"
+    },
+    {
+      "album": {
+        "name": "Snow Angel",
+        "url": "https://open.spotify.com/album/3StV5cF5hyUlvJeIWmPlv6"
+      },
+      "artists": [
+        {
+          "name": "Sugar & The Hi Lows",
+          "url": "https://open.spotify.com/artist/3ocspfRKSu50vCoUYexOpy"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223826,
+      "name": "Jingle Bells",
+      "url": "https://open.spotify.com/track/0S53SaM17Z4nVLRnLoYr78"
     },
     {
       "album": {
@@ -2776,6 +2888,24 @@
       "duration_ms": 179848,
       "name": "November",
       "url": "https://open.spotify.com/track/3mM9vRlgBSZGyTLzJ4je5m"
+    },
+    {
+      "album": {
+        "name": "O Christmas Tree",
+        "url": "https://open.spotify.com/album/6MmOWTLFPU1VVf5p1s7Gdg"
+      },
+      "artists": [
+        {
+          "name": "Alyssa Mei",
+          "url": "https://open.spotify.com/artist/1VnGjWia3qntCt6U85yTA7"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166894,
+      "name": "O Christmas Tree",
+      "url": "https://open.spotify.com/track/5XM9gjSRcg3g2wAcIMINZy"
     },
     {
       "album": {
@@ -3457,6 +3587,24 @@
     },
     {
       "album": {
+        "name": "Somewhere Only We Know",
+        "url": "https://open.spotify.com/album/2BWTPrj9yBBC79fCByZ2Tv"
+      },
+      "artists": [
+        {
+          "name": "Lily Allen",
+          "url": "https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208154,
+      "name": "Somewhere Only We Know",
+      "url": "https://open.spotify.com/track/3DDGhkxq3FeUorZppSgeLE"
+    },
+    {
+      "album": {
         "name": "Sheezus",
         "url": "https://open.spotify.com/album/5Swr80WlTTC0PKExtoU4jU"
       },
@@ -3468,7 +3616,7 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 208504,
       "name": "Somewhere Only We Know",
       "url": "https://open.spotify.com/track/1mvfvDZOybiEgS1ecJxt9W"
@@ -4319,6 +4467,24 @@
     },
     {
       "album": {
+        "name": "Mono Singles",
+        "url": "https://open.spotify.com/album/7oMcO4p7P1JtJR2G1v2NoK"
+      },
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148146,
+      "name": "What Christmas Means To Me",
+      "url": "https://open.spotify.com/track/1V0qqWBbIWt8hlAjxTZedR"
+    },
+    {
+      "album": {
         "name": "MOJO",
         "url": "https://open.spotify.com/album/1xtL6ok6dwZ473pkdzgUy2"
       },
@@ -4482,6 +4648,24 @@
       "duration_ms": 250691,
       "name": "Whisper",
       "url": "https://open.spotify.com/track/40qRAspC3PnGM44LAh87j5"
+    },
+    {
+      "album": {
+        "name": "I Dream Of Christmas (Deluxe)",
+        "url": "https://open.spotify.com/album/1QGL60gbmLX8f4mWFP0xBw"
+      },
+      "artists": [
+        {
+          "name": "Norah Jones",
+          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185120,
+      "name": "White Christmas",
+      "url": "https://open.spotify.com/track/4j5ybw5yYBVKnyN9Ei0DF8"
     },
     {
       "album": {

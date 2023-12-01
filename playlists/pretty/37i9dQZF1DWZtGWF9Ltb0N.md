@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZtGWF9Ltb0N.md) - [plain]
 
 > Floor shattering bass and dark soundscapes to dive into.
 
-[Spotify](https://open.spotify.com/user/spotify) - 281,344 likes - 150 songs - 9 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 281,461 likes - 150 songs - 9 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZtGWF9Ltb0N.md) - [plain]
 | 149 | [Stardust](https://open.spotify.com/track/1JQAAHYcoeVsUDIhqa4FxV) | [Dayzero](https://open.spotify.com/artist/2gDHofVNQ4gpU815TrOiDd) | [VSD001](https://open.spotify.com/album/6ObtZlZgvDQGqBPE30yxou) | 5:42 |
 | 150 | [Probes](https://open.spotify.com/track/2Vqo5y7SvufrlLKcsNkYH8) | [Shanghai Doom](https://open.spotify.com/artist/0663ucUX5KdVY18dEYe0KC), [Tron3x](https://open.spotify.com/artist/4VkxUCarTjtPbHOBujBwlx) | [Failed Connections](https://open.spotify.com/album/5NgBfkQHTSUMuRxjg8ZGwC) | 3:30 |
 
-Snapshot ID: `MCwwZWM0ZWRmOThjN2VmYjE2YmI0MGVhZjc4ZTRhYjAyOGRjODMwMWIy`
+Snapshot ID: `MCw3YWE3ZjFiNDgxNWQ1OGNmODRhOWM0OTI0YzY2YjU1MmQ5NTFiYjY5`

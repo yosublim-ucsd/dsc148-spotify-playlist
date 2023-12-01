@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3rXtgePifMs.md) - [plain]
 
 > The official EA SPORTS FC 24 Soundtrack.
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,951 likes - 106 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,170 likes - 106 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -115,4 +115,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3rXtgePifMs.md) - [plain]
 | 105 | [fuera de vista \(feat\. Baco Exu Do Blues\) \(TROOKO’s Versión\)](https://open.spotify.com/track/1UHsGZoNGOROg2ZIiJYEjL) | [Run The Jewels](https://open.spotify.com/artist/4RnBFZRiMLRyZy0AzzTg2C), [Baco Exu do Blues](https://open.spotify.com/artist/78nr1pVnDR7qZH6QbVMYZf), [Trooko](https://open.spotify.com/artist/6mPl1Nq6hMkto7vsF0PfGi) | [RTJ CU4TRO](https://open.spotify.com/album/0Yu5v3c5K0tXG6HFKZdyek) | 4:04 |
 | 106 | [Follow the Cyborg](https://open.spotify.com/track/29Tr5faNVWpHHaN2JytX98) | [Miss Grit](https://open.spotify.com/artist/0kUsW40KML1SWGeOAvGtzD) | [Follow the Cyborg](https://open.spotify.com/album/1FzCOEjfRrJvwMWqEUCsNO) | 4:45 |
 
-Snapshot ID: `MCwyZDI2MGUyNGNiYTI3ZTZkZmUyYjQ1MzY1ODZjMjM1MGIxNjhiM2E4`
+Snapshot ID: `MCw4Y2Q4YjM4ZTFkNmQ2MTYyMzlmNTEzZmNlZmUwNTg3NTFmMmFlNDUz`

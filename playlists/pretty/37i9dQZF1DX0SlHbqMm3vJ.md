@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0SlHbqMm3vJ.md) - [plain]
 
 > A collection R&B and Afropop cuts from West Africa’s finest artists\. Cover: BOJ & Ajebutter
 
-[Spotify](https://open.spotify.com/user/spotify) - 218,176 likes - 80 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 218,226 likes - 80 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0SlHbqMm3vJ.md) - [plain]
 | 79 | [I Promise](https://open.spotify.com/track/1HkVdfq2nfRMHXkYHsmHma) | [Waje](https://open.spotify.com/artist/6RaKdMfhnMdLFXvsWSZaa0), [SESS](https://open.spotify.com/artist/339HZyD96hGNtsXM93tRip) | [I Promise](https://open.spotify.com/album/4nF47BcYm6MOhMbwhyi9EN) | 2:41 |
 | 80 | [21](https://open.spotify.com/track/2Nc7cDLjqgAFXNyFvJXOkS) | [KAESTYLE](https://open.spotify.com/artist/0o4t6y0LBJWs76vvuuzg50), [LeriQ](https://open.spotify.com/artist/18wUkq9ZzqAVgDfxnYhLTl) | [Asylum](https://open.spotify.com/album/4C4GoTj4U4QL9awtXxbFYv) | 2:25 |
 
-Snapshot ID: `MCw3Y2ZlMzJjNDg5OWU3NWEzMDQ0MGQ2NTk2YjdiMzU1OGI2NDY0OTE3`
+Snapshot ID: `MCw5NWIwMDhjZWY0MGY3MmNlMTJiMGRkZWQ5NWNiZTE0Y2ZlMmI4NjFm`

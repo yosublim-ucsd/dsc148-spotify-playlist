@@ -4,7 +4,7 @@
 
 > Have some chill house with your coffee
 
-142 songs - 10 hr 14 min
+143 songs - 10 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [April](https://open.spotify.com/track/6KmIwU5i6sCvyeNgP8QB4o) | [Janus Rasmussen](https://open.spotify.com/artist/0F2fFVawIwHt6W9az6SPaA) | [Vín](https://open.spotify.com/album/2N4UzYs2Qk7xRyc67kaehi) | 5:09 | 2022-09-15 |  |
 | [At The Horizon](https://open.spotify.com/track/2U47VRLzs7s5DSwpZSlQi2) | [Marc Hartman](https://open.spotify.com/artist/2ACJgAEcjpSAqR2TyGluyS) | [At The Horizon](https://open.spotify.com/album/1wCdaqAaCROkKGLHQ2htYw) | 4:54 | 2022-09-15 |  |
 | [Athena \- NTEIBINT Remix](https://open.spotify.com/track/0A4kpU4AJnf6l8TEni6RUh) | [Satin Jackets](https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv), [Anduze](https://open.spotify.com/artist/52uJn5izVG1gicalLRYGQn), [NTEIBINT](https://open.spotify.com/artist/6fJxi0zWcEG0argPVsSrXw) | [Solar Nights \- The Remixes](https://open.spotify.com/album/1ncN3KtEAVTlRXi7ITwnNV) | 4:21 | 2022-09-15 |  |
+| [Away](https://open.spotify.com/track/22QWx1WyniAV8veVxcLkom) | [Lenji](https://open.spotify.com/artist/4NyAVAttRLmlUpV7HpgLfR) | [Away](https://open.spotify.com/album/53ffmHurxQTIN3ZRZ3lVZx) | 2:10 | 2023-11-30 |  |
 | [Back 2 It](https://open.spotify.com/track/2QBnkgX7ekkoZtlR3ZzLHO) | [Teen Daze](https://open.spotify.com/artist/2GE6MAdyGzeXpY9TwIYd3l) | [Natural Movement](https://open.spotify.com/album/5YzvYAfuFbXc36n4do35Jn) | 5:17 | 2023-02-02 |  |
 | [Ballo Da Solo](https://open.spotify.com/track/78dqpHCQLKp9rwWAQpGBvM) | [Black Loops](https://open.spotify.com/artist/6AwGe2F49hD3ANXvmOwqQB) | [Proto/Emotions](https://open.spotify.com/album/4rr2Eq0wpYVm7vPEb4QsrY) | 5:19 | 2022-09-15 |  |
 | [Big Sur](https://open.spotify.com/track/6XpDacIn7QF5WGz9ALX1JA) | [Y.V.E\. 48](https://open.spotify.com/artist/5zSWGyWE5d0PYaYrtdVwOz) | [Big Sur](https://open.spotify.com/album/0TMwz5HbnoA6TSgTZd8GcJ) | 3:12 | 2022-09-15 | 2023-08-25 |
@@ -87,7 +88,7 @@
 | [Messin' Around \- Mogul Remix](https://open.spotify.com/track/2MuVffmR9wAEFbXFyd75W8) | [Berry Juice](https://open.spotify.com/artist/2V5pNnEusCUalcRoeG9uOL), [Josh Tobias](https://open.spotify.com/artist/51baoJSjBSHXbpgLMRReCt), [Mogul](https://open.spotify.com/artist/6sqiRzYTXxK2QixYmy3Ebz) | [Messin' Around \(Mogul Remix\)](https://open.spotify.com/album/29hveGpUSeZEDiYOw78PdX) | 3:53 | 2022-09-15 |  |
 | [Midnight \- Ambient Edit](https://open.spotify.com/track/6zWkS1HDW9k91fSvYsBheY) | [Alex Lustig](https://open.spotify.com/artist/5oLxJrktO7kOEJANS6nkZB) | [Edits 001](https://open.spotify.com/album/7KVQivbhzpMiRbQj4mNw4g) | 2:11 | 2022-09-15 | 2022-11-08 |
 | [Miss You](https://open.spotify.com/track/2OrmvwrqfGH0C0I70w4SRZ) | [Sebastian Davidson](https://open.spotify.com/artist/1uO4ut3M0hYeCfEEUdFnEp) | [Miss You](https://open.spotify.com/album/401BY5jGvGKB4xt7zomYRA) | 4:39 | 2023-08-24 |  |
-| [Moraine](https://open.spotify.com/track/68gG8lazvms6X0uC6MWmFz) | [Sebastian Davidson](https://open.spotify.com/artist/1uO4ut3M0hYeCfEEUdFnEp) | [Moraine](https://open.spotify.com/album/47dCDllqthOKWSyMw3yLQb) | 3:57 | 2022-09-15 |  |
+| [Moraine](https://open.spotify.com/track/68gG8lazvms6X0uC6MWmFz) | [Sebastian Davidson](https://open.spotify.com/artist/1uO4ut3M0hYeCfEEUdFnEp) | [Moraine](https://open.spotify.com/album/47dCDllqthOKWSyMw3yLQb) | 3:57 | 2022-09-15 | 2023-12-01 |
 | [Mr\. Magic](https://open.spotify.com/track/0dSoodH9dHclkP2kMec21H) | [Baka G](https://open.spotify.com/artist/7CfH9Pe1z2V3OuUCIH9ru4) | [Mr\. Magic](https://open.spotify.com/album/3ThYrWOxW8L6qdwwMBZBtk) | 5:45 | 2022-10-13 |  |
 | [NaturHaus](https://open.spotify.com/track/2ym03lsLfjcz4LMzHDn5Pm) | [MÒZÂMBÎQÚE](https://open.spotify.com/artist/1xRwYjmKXvMT5LerneSa9T), [Soft Palace](https://open.spotify.com/artist/1KiYF9PWPsFiCBes5YbUJy) | [NaturHaus](https://open.spotify.com/album/2fdwX91CMjhwhnbNqR891k) | 3:59 | 2023-06-15 |  |
 | [No Color \(Reimagined\)](https://open.spotify.com/track/3j7JyIQECpvg3UB6LAwu4m) | [Mayer Malik](https://open.spotify.com/artist/0WMRcmW4gPPbnJOR6XJXmc), [Boaz van de Beatz](https://open.spotify.com/artist/7Gl7G1JK7feTWHy1YJExfw) | [No Color \(Reimagined\)](https://open.spotify.com/album/1uDWCY3t0JATslapdFavnK) | 2:59 | 2022-09-15 | 2022-11-08 |

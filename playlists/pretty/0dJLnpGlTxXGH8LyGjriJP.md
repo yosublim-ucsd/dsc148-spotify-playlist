@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0dJLnpGlTxXGH8LyGjriJP.md) - [plain]
 
 > 
 
-[skillstreet](https://open.spotify.com/user/skillstreet) - 2 likes - 707 songs - 1 day 11 hr 52 min
+[skillstreet](https://open.spotify.com/user/skillstreet) - 2 likes - 708 songs - 1 day 11 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -715,5 +715,6 @@ pretty - [cumulative](/playlists/cumulative/0dJLnpGlTxXGH8LyGjriJP.md) - [plain]
 | 705 | [Nightcrawler \(feat\. Swae Lee & Chief Keef\)](https://open.spotify.com/track/3xby7fOyqmeON8jsnom0AT) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX), [Chief Keef](https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P) | [Rodeo](https://open.spotify.com/album/4PWBTB6NYSKQwfo79I3prg) | 5:21 |
 | 706 | [100 Grapes](https://open.spotify.com/track/5LFvCWD0wsTWbVrf3EYrMn) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [From Dark to Light](https://open.spotify.com/album/1Dp8DJTwLzqxscHc6nHrio) | 2:52 |
 | 707 | [MONSTER](https://open.spotify.com/track/29UGVk5EL1xdfwUup4xi2t) | [Kempton Zalen](https://open.spotify.com/artist/533FxOCnNtctm1LHR6sUj4) | [MONSTER](https://open.spotify.com/album/1otKeILDeZoK6WFqfKAH42) | 2:04 |
+| 708 | [Brand New](https://open.spotify.com/track/3MbOT5mzE94Ne0Hv51akoS) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Brand New](https://open.spotify.com/album/0p82QxkLngaHhRkbET3IZ0) | 3:02 |
 
-Snapshot ID: `ODcwLDMzMjFiZDM0NzQxZDBhNjI2OGM4ZDcxZTU0YjkyYTFlZDgzNTJkYTQ=`
+Snapshot ID: `ODcxLDQ0N2U0YjUzOWE3MDMzNjk2MjdhMWMxODdhNGYwYTVkMmU5N2NiNzk=`

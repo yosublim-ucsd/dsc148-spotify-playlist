@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-11",
-  "description": "La playlist che \u00e8 come andare ai concerti! Novit\u00e0 rock, indie, punk ed emo dall'Italia. Cover: M\u00e5neskin",
+  "description": "La playlist che \u00e8 come andare ai concerti! Novit\u00e0 rock, indie, punk ed emo dall'Italia. Cover: MILANOSPORT",
   "name": "Rock Italia",
   "tracks": [
     {
@@ -301,6 +301,24 @@
     },
     {
       "album": {
+        "name": "Adagio",
+        "url": "https://open.spotify.com/album/37Z7vBpzxRCYuFFfmYtZ47"
+      },
+      "artists": [
+        {
+          "name": "Subsonica",
+          "url": "https://open.spotify.com/artist/7DzxfMQ3VNYR5vw2UFjzSK"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230640,
+      "name": "Adagio",
+      "url": "https://open.spotify.com/track/3JdO0nrLUwrkKC4YhJkjYH"
+    },
+    {
+      "album": {
         "name": "AMICI COME PRIMA",
         "url": "https://open.spotify.com/album/3JWUk346U6XiB7Q1nlTybY"
       },
@@ -582,7 +600,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 175200,
       "name": "amore/squallore",
       "url": "https://open.spotify.com/track/1XnatIIfDsklJ9Mmz5qci0"
@@ -982,6 +1000,24 @@
       "duration_ms": 149250,
       "name": "Badabum",
       "url": "https://open.spotify.com/track/2PEwvgXfaQpa6bY749iqfm"
+    },
+    {
+      "album": {
+        "name": "Ballerina alla scala",
+        "url": "https://open.spotify.com/album/6OxrqzUfmYzlNokxaingLu"
+      },
+      "artists": [
+        {
+          "name": "I Pixel",
+          "url": "https://open.spotify.com/artist/2220b0Go6R2kvkRJi2ebnu"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236750,
+      "name": "Ballerina alla scala",
+      "url": "https://open.spotify.com/track/4prEDtnsiC2YdmhsNQox4f"
     },
     {
       "album": {
@@ -1454,7 +1490,7 @@
       ],
       "date_added": "2023-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 122843,
       "name": "Bureaucracy Apocalypse",
       "url": "https://open.spotify.com/track/3PcdEROHFmkaVzQLnlhNao"
@@ -3705,6 +3741,24 @@
     },
     {
       "album": {
+        "name": "Fermentazione",
+        "url": "https://open.spotify.com/album/1IdLgIxPONvy0LsJkNjHNN"
+      },
+      "artists": [
+        {
+          "name": "Nobraino",
+          "url": "https://open.spotify.com/artist/0j8bZPtWT5Nf60PEarotFf"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173231,
+      "name": "Fermentazione",
+      "url": "https://open.spotify.com/track/5upNMlM3X4rTywdgjkG8r5"
+    },
+    {
+      "album": {
         "name": "Fewdrops",
         "url": "https://open.spotify.com/album/2jupIKsTSSejvwI6ip0ADB"
       },
@@ -3980,6 +4034,24 @@
       "duration_ms": 199145,
       "name": "Fragili",
       "url": "https://open.spotify.com/track/7d322WMHpY6G4GHV6bas2Y"
+    },
+    {
+      "album": {
+        "name": "frammenti",
+        "url": "https://open.spotify.com/album/3MydVHbZ2qsOzjlnoiYqLl"
+      },
+      "artists": [
+        {
+          "name": "Aida",
+          "url": "https://open.spotify.com/artist/5uyVp3NFeumolvASoIWWXp"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152798,
+      "name": "frammenti",
+      "url": "https://open.spotify.com/track/68dZVzwtDwAb7hWsRPEbHl"
     },
     {
       "album": {
@@ -4742,6 +4814,24 @@
       "duration_ms": 194994,
       "name": "Hyperdrive",
       "url": "https://open.spotify.com/track/4uSa5FEquJTsmd9nqtQCuR"
+    },
+    {
+      "album": {
+        "name": "I Cinici",
+        "url": "https://open.spotify.com/album/4mHc1xxHdjcppEyMetNVqS"
+      },
+      "artists": [
+        {
+          "name": "Spaghetti Spezzati",
+          "url": "https://open.spotify.com/artist/79Q0AAnEw23K4hWcQQDHWz"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170000,
+      "name": "I Cinici",
+      "url": "https://open.spotify.com/track/36YiEcKhYLgyoPTe7LBl60"
     },
     {
       "album": {
@@ -6271,6 +6361,24 @@
     },
     {
       "album": {
+        "name": "Un glorioso disastro",
+        "url": "https://open.spotify.com/album/6xtMwAvJOmf1Fryi6r1wfa"
+      },
+      "artists": [
+        {
+          "name": "Cassandra",
+          "url": "https://open.spotify.com/artist/6V7y0aibviefBa86uY6KuL"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144548,
+      "name": "Malinconica movida",
+      "url": "https://open.spotify.com/track/4M5NGsrP3FBE59KlEwv7KV"
+    },
+    {
+      "album": {
         "name": "MAL\u00c8SSERE",
         "url": "https://open.spotify.com/album/7nMR7KTnz9DRtAdX5M2YWV"
       },
@@ -6506,6 +6614,24 @@
       "duration_ms": 233240,
       "name": "Meravigliosa (feat. Ditonellapiaga)",
       "url": "https://open.spotify.com/track/3Ji5zXZw7hDUgIp5IkLFiy"
+    },
+    {
+      "album": {
+        "name": "Metaverso",
+        "url": "https://open.spotify.com/album/7rliopC64eRNswUw2Xc3Le"
+      },
+      "artists": [
+        {
+          "name": "Astromare",
+          "url": "https://open.spotify.com/artist/1r3n1Aw68kcHF3YyDsWrI6"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Metaverso",
+      "url": "https://open.spotify.com/track/3cdxIBtLMgq01XrPBxWHjS"
     },
     {
       "album": {
@@ -7713,6 +7839,24 @@
     },
     {
       "album": {
+        "name": "Our Atoms",
+        "url": "https://open.spotify.com/album/3Bf3eD4nYH4G3KaHVnjtbO"
+      },
+      "artists": [
+        {
+          "name": "MILANOSPORT",
+          "url": "https://open.spotify.com/artist/5Om07vNuCtNPdkHuYKkSNl"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244741,
+      "name": "Our Atoms",
+      "url": "https://open.spotify.com/track/0GSQQqvJWQQUSoPkRD0oUt"
+    },
+    {
+      "album": {
         "name": "Our Fault",
         "url": "https://open.spotify.com/album/6ZmALkxIf4hVWPQR7LYSa9"
       },
@@ -8005,6 +8149,28 @@
     },
     {
       "album": {
+        "name": "Perch\u00e9 mi guardi?",
+        "url": "https://open.spotify.com/album/4nyzn61o9wyg0p8sNIAfhU"
+      },
+      "artists": [
+        {
+          "name": "Scaglia",
+          "url": "https://open.spotify.com/artist/61C1YBssJpV0rPGdoLjoJ7"
+        },
+        {
+          "name": "Moka",
+          "url": "https://open.spotify.com/artist/4NxXNoJqH1syvVs3279ZsY"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157792,
+      "name": "Perch\u00e9 mi guardi?",
+      "url": "https://open.spotify.com/track/7uUtgLyVinzi1pcnAbvtqF"
+    },
+    {
+      "album": {
         "name": "IN QUESTO BUIO IMMENSO",
         "url": "https://open.spotify.com/album/6rRWKOgDNz8VCnLk9wgFNl"
       },
@@ -8280,6 +8446,24 @@
       "duration_ms": 212526,
       "name": "Prigionia",
       "url": "https://open.spotify.com/track/1zAim4kAlqGntjUw6P6Sov"
+    },
+    {
+      "album": {
+        "name": "Prima di te",
+        "url": "https://open.spotify.com/album/6wbMBxHiNuQblUhPTUa6r9"
+      },
+      "artists": [
+        {
+          "name": "Lamante",
+          "url": "https://open.spotify.com/artist/2xeeRKVa5SjYer8xeOMHgd"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185234,
+      "name": "Prima di te",
+      "url": "https://open.spotify.com/track/2WOERJt8fA1SWlWxkiLaJi"
     },
     {
       "album": {
@@ -8749,6 +8933,24 @@
     },
     {
       "album": {
+        "name": "Roma (non mi chiederai pi\u00f9)",
+        "url": "https://open.spotify.com/album/0aBr40uPXgiknan7F4vtrf"
+      },
+      "artists": [
+        {
+          "name": "GIURO",
+          "url": "https://open.spotify.com/artist/24vsA6iQQPmtFxfpEU92vC"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210538,
+      "name": "Roma (non mi chiederai pi\u00f9)",
+      "url": "https://open.spotify.com/track/33d7jB1nMIaOL0WgZLlhg4"
+    },
+    {
+      "album": {
         "name": "Ronaldo",
         "url": "https://open.spotify.com/album/5Qav1GCe2ZOKcobjrQvDDG"
       },
@@ -8854,7 +9056,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 134576,
       "name": "Rumore bianco",
       "url": "https://open.spotify.com/track/6s7rr8yzAFv1ckxvbH8iai"
@@ -9218,7 +9420,7 @@
       ],
       "date_added": "2023-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 199066,
       "name": "Seduci",
       "url": "https://open.spotify.com/track/0CPsIehtiLTUnI85XGB4qP"
@@ -9568,6 +9770,24 @@
       "duration_ms": 139706,
       "name": "Silos",
       "url": "https://open.spotify.com/track/6N3eJ5VbK7wNpfDZNNJFuE"
+    },
+    {
+      "album": {
+        "name": "Storms",
+        "url": "https://open.spotify.com/album/4CQpBTw2yqBZAHnaXLWhyv"
+      },
+      "artists": [
+        {
+          "name": "Miss Chain & the Broken Heels",
+          "url": "https://open.spotify.com/artist/1BrYRk30V2dJbQdFR4WSPi"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198710,
+      "name": "Since You're Gone",
+      "url": "https://open.spotify.com/track/1s4ik30NKIFZItISE9Gn6g"
     },
     {
       "album": {
@@ -11549,6 +11769,24 @@
     },
     {
       "album": {
+        "name": "Mondo e antimondo",
+        "url": "https://open.spotify.com/album/7BmAJVoRafzgwn0gdAyYiW"
+      },
+      "artists": [
+        {
+          "name": "Umberto Maria Giardini",
+          "url": "https://open.spotify.com/artist/1jUnq1j9h7jwhefWzS8r95"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264986,
+      "name": "Versus minorenne",
+      "url": "https://open.spotify.com/track/6SXY9sSqrlQxZGZO589Ywx"
+    },
+    {
+      "album": {
         "name": "La Tosca dei Cani",
         "url": "https://open.spotify.com/album/40Fngltav0uIo6x6cw20bM"
       },
@@ -11900,6 +12138,24 @@
       "duration_ms": 147933,
       "name": "Will you come?",
       "url": "https://open.spotify.com/track/6lwrSCgFoucyAtezdsLfIr"
+    },
+    {
+      "album": {
+        "name": "WRONG HALF",
+        "url": "https://open.spotify.com/album/3Ih7Ca7veBiS3g7r0r8wQ4"
+      },
+      "artists": [
+        {
+          "name": "Blue Alaska",
+          "url": "https://open.spotify.com/artist/6IZCiqTePdDDwTzm25rSKN"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223854,
+      "name": "words i've never said",
+      "url": "https://open.spotify.com/track/2yx5Ted3nD6LbDO4KyWqAl"
     },
     {
       "album": {

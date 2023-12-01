@@ -207,6 +207,24 @@
     },
     {
       "album": {
+        "name": "27",
+        "url": "https://open.spotify.com/album/4v6DOkGMoF2SV76CZKWzwB"
+      },
+      "artists": [
+        {
+          "name": "BIZEN",
+          "url": "https://open.spotify.com/artist/704hcRbYskappGRP4s8bGz"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126759,
+      "name": "27",
+      "url": "https://open.spotify.com/track/3PcJpYWgLETjUx1anD13B7"
+    },
+    {
+      "album": {
         "name": "2\u4eba\u306f\u98db\u3073\u964d\u308a\u305f",
         "url": "https://open.spotify.com/album/2QpRd89ajCuOe0vZUWkPKb"
       },
@@ -1104,7 +1122,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 202746,
       "name": "Babychan",
       "url": "https://open.spotify.com/track/5RSInLIfZArNJ9oCxAFcy0"
@@ -2384,7 +2402,7 @@
       ],
       "date_added": "2023-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 189871,
       "name": "Ctrl Z (feat. Foi)",
       "url": "https://open.spotify.com/track/2eonLjVLwcaGt9GZT5urhI"
@@ -5971,6 +5989,24 @@
     },
     {
       "album": {
+        "name": "Kayoesque",
+        "url": "https://open.spotify.com/album/4S6T3yQD7L4j88AJgkneKX"
+      },
+      "artists": [
+        {
+          "name": "Johnnivan",
+          "url": "https://open.spotify.com/artist/27JM9HvAAcjGJPZCoZLgWe"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203600,
+      "name": "Kayoesque",
+      "url": "https://open.spotify.com/track/3t5SYliIbQN92fQsIAeec7"
+    },
+    {
+      "album": {
         "name": "Keepin Quiet",
         "url": "https://open.spotify.com/album/0wRtsuXvw05JKC1ccG7SQL"
       },
@@ -9022,7 +9058,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 181666,
       "name": "Rainy Day",
       "url": "https://open.spotify.com/track/22f48KIbKzgpOkAtVvyUQW"
@@ -9382,6 +9418,28 @@
       "duration_ms": 318464,
       "name": "Road",
       "url": "https://open.spotify.com/track/6f5OzmQxiXh6viB0WQP1C2"
+    },
+    {
+      "album": {
+        "name": "\u546a\u8a5b\u544a\u767d\u521d\u604b\u305d\u3057\u3066\u4e16\u754c",
+        "url": "https://open.spotify.com/album/6cwRhM0fLNBpubbnh4o8hX"
+      },
+      "artists": [
+        {
+          "name": "moreru",
+          "url": "https://open.spotify.com/artist/6YbQDmSNnb9RxI3NMk4BN4"
+        },
+        {
+          "name": "Birds Fear Death",
+          "url": "https://open.spotify.com/artist/65uuUPZ3mkqQ6gi0zfefHb"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153318,
+      "name": "ROCK'N'ROLL PHOENIX",
+      "url": "https://open.spotify.com/track/4Xx5GuQZ3YTC7fErN1Lcy0"
     },
     {
       "album": {
@@ -10146,7 +10204,7 @@
       ],
       "date_added": "2023-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 218148,
       "name": "sinister",
       "url": "https://open.spotify.com/track/7tR03ofElFzll0dVIgnIAm"
@@ -10720,6 +10778,24 @@
       "duration_ms": 289560,
       "name": "suddenly",
       "url": "https://open.spotify.com/track/60H06Uwpf1K7ZSzIPXloZr"
+    },
+    {
+      "album": {
+        "name": "sugar cannon ball / alcohol",
+        "url": "https://open.spotify.com/album/3s1VTJFQN3viRC9NEh2mfU"
+      },
+      "artists": [
+        {
+          "name": "\u30a4\u30f3\u30c7\u30a3\u30a2\u30ab\u30cc\u30fc",
+          "url": "https://open.spotify.com/artist/1KNT3mnqMTCRXaDHkGcm7r"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 318584,
+      "name": "sugar cannon ball",
+      "url": "https://open.spotify.com/track/6KF2HG0q8q7xighJaoKPvU"
     },
     {
       "album": {
@@ -11666,6 +11742,24 @@
       "duration_ms": 180827,
       "name": "The Local Pints",
       "url": "https://open.spotify.com/track/38gu4TRjE5N5WN6UeFlKki"
+    },
+    {
+      "album": {
+        "name": "The mark of destruction contained within the sparkle is a transparent \"sighted eye\" that approaches between the eyelids.",
+        "url": "https://open.spotify.com/album/36PEuFcjFJWA5FGWAqp4mX"
+      },
+      "artists": [
+        {
+          "name": "te'",
+          "url": "https://open.spotify.com/artist/1M2syHJsaNx83HYzXX0Ycp"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308100,
+      "name": "The mark of destruction contained within the sparkle is a transparent \"sighted eye\" that approaches between the eyelids.",
+      "url": "https://open.spotify.com/track/5ffBsmDlVYBD6kL6re8wN7"
     },
     {
       "album": {
@@ -13872,7 +13966,7 @@
       ],
       "date_added": "2023-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 291857,
       "name": "\u3055\u3088u\u306a\u3089",
       "url": "https://open.spotify.com/track/0bELtgWGunnj4aElCUgHje"
@@ -18319,6 +18413,28 @@
     },
     {
       "album": {
+        "name": "\u6ce8\u610f",
+        "url": "https://open.spotify.com/album/1ZkdoyJNQyRSxAZt7Bc8ai"
+      },
+      "artists": [
+        {
+          "name": "Zainichi Funk",
+          "url": "https://open.spotify.com/artist/37hqgMV84m06updLlBFhIa"
+        },
+        {
+          "name": "\u6a4b\u672c\u7d75\u8389\u5b50",
+          "url": "https://open.spotify.com/artist/69k6tELwycdIAgvTInKNlM"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223025,
+      "name": "\u6ce8\u610f",
+      "url": "https://open.spotify.com/track/6zzNVKD5TcXxE68D9SR3Ml"
+    },
+    {
+      "album": {
         "name": "\u6d41\u6d6a",
         "url": "https://open.spotify.com/album/7yJSa3B3S8j06vodDbGvAD"
       },
@@ -19640,7 +19756,7 @@
       ],
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 262100,
       "name": "\u96e8\u96f2\u3068\u6674\u308c\u306e\u3042\u3044\u3060",
       "url": "https://open.spotify.com/track/61YDVXG5hPUKFY3Duy3Pck"

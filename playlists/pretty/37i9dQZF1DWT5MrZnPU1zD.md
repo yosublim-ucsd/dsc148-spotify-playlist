@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT5MrZnPU1zD.md) - [plain]
 
 > Pass the sticks & press play.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,678,085 likes - 100 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,678,132 likes - 100 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT5MrZnPU1zD.md) - [plain]
 | 99 | [Whatchamacallit \(feat\. Luh Tyler\)](https://open.spotify.com/track/2MjhK44oBBWTwCEyKGFny3) | [Maxo Kream](https://open.spotify.com/artist/6xS5PpBWaVYraexEkEjjXv), [Luh Tyler](https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz) | [Whatchamacallit \(feat\. Luh Tyler\)](https://open.spotify.com/album/4OWtS7Ahtsh2foaV4gDMZZ) | 2:38 |
 | 100 | [Black Truck](https://open.spotify.com/track/3aOubX8YTVByNPQrqw6ZzK) | [Real Boston Richey](https://open.spotify.com/artist/1iwUuIOKYjV7SKIg27v4zi) | [Black Truck](https://open.spotify.com/album/4ZawUvODH9E2hA6UOLlUQy) | 2:35 |
 
-Snapshot ID: `MCw3MTA3ZGVmZjQ1NmVhNzQ5NjQwOGIyYjA3MGNlMmJmODYwNWRlNWU0`
+Snapshot ID: `MCwyODgwZjAwOTE2MTZlNDI2ODI4YzdhNzU0NTdlODE3NzM1ODYwYjBm`

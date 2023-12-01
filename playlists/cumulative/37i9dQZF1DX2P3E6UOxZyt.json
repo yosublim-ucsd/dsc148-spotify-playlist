@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "2023 \u5168\u65b0\u9663\u5bb9\u51fa\u5217\uff01\u53f0\u7063\u51fa\u767c\uff0c \u5c55\u671b\u4e16\u754c\uff0c\u4ed6\u5011\u5c31\u662f\u672a\u4f86\u7684\u5de8\u661f\uff01Cover: Jocelyn 9.4.0",
+  "description": "2023 \u5168\u65b0\u9663\u5bb9\u51fa\u5217\uff01\u53f0\u7063\u51fa\u767c\uff0c \u5c55\u671b\u4e16\u754c\uff0c\u4ed6\u5011\u5c31\u662f\u672a\u4f86\u7684\u5de8\u661f\uff01Cover: \u7504\u6fdf\u5982 (Jasmine Yen)",
   "name": "RADAR \u65b0\u52e2\u529b",
   "tracks": [
     {
@@ -1046,7 +1046,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 203424,
       "name": "Hate Myself",
       "url": "https://open.spotify.com/track/49CaHLWJB8Ot1vB2vAUcca"
@@ -1839,6 +1839,28 @@
     },
     {
       "album": {
+        "name": "Natural Smoke (feat.Andr)",
+        "url": "https://open.spotify.com/album/4Q9kcaFc6i1zOyjrpqCjrx"
+      },
+      "artists": [
+        {
+          "name": "ZENB\u00d8",
+          "url": "https://open.spotify.com/artist/4Rh3HXq1VRYzQJ3rl2MUfG"
+        },
+        {
+          "name": "Andr",
+          "url": "https://open.spotify.com/artist/2hEgcLvKaP0WVJbmmNpkVt"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221755,
+      "name": "Natural Smoke (feat.Andr)",
+      "url": "https://open.spotify.com/track/3fZ836Q4EVbV0cToLqtKqd"
+    },
+    {
+      "album": {
         "name": "Night Lotion\u300c\u878d\u300d",
         "url": "https://open.spotify.com/album/2H6nissJW4xMV28LLWfrBy"
       },
@@ -1850,7 +1872,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 223754,
       "name": "Night Lotion\u300c\u878d\u300d",
       "url": "https://open.spotify.com/track/1lMtUY5bgQMRmaFE99qaky"
@@ -2062,7 +2084,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 166008,
       "name": "Paradise",
       "url": "https://open.spotify.com/track/2NeOlhNFjlGymQiv7BmXoa"
@@ -2218,7 +2240,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-05",
+      "date_removed": null,
       "duration_ms": 214588,
       "name": "Sant\u00e9",
       "url": "https://open.spotify.com/track/0Ykbr3QGOHAYmuX5BIk1ig"
@@ -2450,7 +2472,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 131374,
       "name": "summer demo",
       "url": "https://open.spotify.com/track/78Yls33IMHwaRZbJfkdRJH"
@@ -2618,7 +2640,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 186323,
       "name": "tbh",
       "url": "https://open.spotify.com/track/3sSWFKh5tbvXmywz24H8rK"
@@ -5328,7 +5350,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-16",
+      "date_removed": null,
       "duration_ms": 172092,
       "name": "\u610f\u7336\u672a\u76e1 (feat. \u6d3e\u5049\u4fca)",
       "url": "https://open.spotify.com/track/4C6sMQ9maUCPzBrlOZUK39"
@@ -5390,6 +5412,24 @@
       "duration_ms": 215224,
       "name": "\u611b\u7684\u8fea\u601d\u53ef",
       "url": "https://open.spotify.com/track/1eS2RQqs6lknJHGAjfmiv4"
+    },
+    {
+      "album": {
+        "name": "\u6163\u6027\u5014\u5f37",
+        "url": "https://open.spotify.com/album/6PA61yQBp4q7w1PMRasrlG"
+      },
+      "artists": [
+        {
+          "name": "Jasmine Yen",
+          "url": "https://open.spotify.com/artist/4PQ0uJWdQam5rtXciDKVnS"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227000,
+      "name": "\u6163\u6027\u5014\u5f37",
+      "url": "https://open.spotify.com/track/0cFQjkOWJHL9Foigvlw0IQ"
     },
     {
       "album": {
@@ -6374,7 +6414,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-02",
+      "date_removed": null,
       "duration_ms": 160208,
       "name": "\u6c92\u6709\u95dc\u4fc2",
       "url": "https://open.spotify.com/track/79TMN9XqG2uwuhgVUw7siC"
@@ -6950,7 +6990,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 240705,
       "name": "\u7761\u4e0d\u8457",
       "url": "https://open.spotify.com/track/0GM2W66glRyOBd1Ckw43eF"
@@ -7178,7 +7218,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-19",
+      "date_removed": null,
       "duration_ms": 144000,
       "name": "\u7f8e",
       "url": "https://open.spotify.com/track/7637Rypif3OgNpr8EZoCnf"

@@ -2,7 +2,7 @@
 
 ### [Best of Kollywood Cream in 2023](https://open.spotify.com/playlist/37i9dQZF1DX0TyiNWW7uUQ)
 
-> Best Performed tracks of KC in 2023 \#SpotifyWrapped<br/>Cover : Jailer
+> Best performed tracks of Kollywood Cream in 2023 \#SpotifyWrapped<br/>Cover : Jailer
 
 158 songs - 10 hr 26 min
 

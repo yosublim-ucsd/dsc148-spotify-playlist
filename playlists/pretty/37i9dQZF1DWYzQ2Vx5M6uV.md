@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzQ2Vx5M6uV.md) - [plain]
 
 > Bringing you the hottest collaborations between Afro & Latin artists\. Cover: Feid & Rema
 
-[Spotify](https://open.spotify.com/user/spotify) - 115,035 likes - 70 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 115,050 likes - 70 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzQ2Vx5M6uV.md) - [plain]
 | 69 | [Diggy Dee \- Remix](https://open.spotify.com/track/6WRoMvvjhKsJjWJHXNJxtq) | [Charly Black](https://open.spotify.com/artist/5sK8BsvyDl4TFA6KaBf8or), [Sak Noel](https://open.spotify.com/artist/15jrieCvf3EklAScnD9kKl), [Cali Y El Dandee](https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK), [Tarik Jazzy T Thompson](https://open.spotify.com/artist/6sFoObgl1BzplimWTBt6sD) | [Diggy Dee \(Remix\)](https://open.spotify.com/album/1gcCnNk1xuCmeHW0v62ZoN) | 3:16 |
 | 70 | [GUERRA](https://open.spotify.com/track/66nfXAO6C4u5EFQ2DZR8MZ) | [Aissa](https://open.spotify.com/artist/6RWMnZmXs8Ob715qLr4374) | [GUERRA](https://open.spotify.com/album/7LMX8MddqoPLWjnm049mkt) | 3:52 |
 
-Snapshot ID: `MCw2MjhmODFiN2Q5M2RhYTdmZjMzZjdlZTYwNmUxZWFlNDEzMTIzMDhh`
+Snapshot ID: `MCwzN2NkOWI5ZjdmNWZmMTUwNWExZjMzZTRjNTFlNzg2ZTE5YWE4Yjdi`

@@ -4065,6 +4065,24 @@
     },
     {
       "album": {
+        "name": "Comeback",
+        "url": "https://open.spotify.com/album/4r6xUZFUwvsvPXPRBz18VX"
+      },
+      "artists": [
+        {
+          "name": "Sexmane",
+          "url": "https://open.spotify.com/artist/2JSX0lIYekUp6F301cTHkq"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250664,
+      "name": "Comeback",
+      "url": "https://open.spotify.com/track/1ySufTD0HSLj14eD1rKg66"
+    },
+    {
+      "album": {
         "name": "Cooped Up",
         "url": "https://open.spotify.com/album/6sjdohc8ouX9jHxIyqi6mi"
       },
@@ -6954,7 +6972,7 @@
       ],
       "date_added": "2023-11-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-26",
+      "date_removed": null,
       "duration_ms": 209677,
       "name": "FAMOUS",
       "url": "https://open.spotify.com/track/1t4IbqfmQQoLHAocILr2Aj"
@@ -11546,7 +11564,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 207199,
       "name": "It's Beginning to Look a Lot like Christmas",
       "url": "https://open.spotify.com/track/1rv46mRwDqMEhOBZ7vODg3"
@@ -12398,7 +12416,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-12",
+      "date_removed": null,
       "duration_ms": 156919,
       "name": "J\u00e4lkeek\u00e4\u00e4n",
       "url": "https://open.spotify.com/track/39RqJCSBMKkNGiNAnuUMH6"
@@ -12736,7 +12754,7 @@
       ],
       "date_added": "2023-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 168379,
       "name": "Kaikki j\u00e4rjestyy",
       "url": "https://open.spotify.com/track/0TMlvSx8j02Vw9feRHvy1v"
@@ -15240,7 +15258,7 @@
       ],
       "date_added": "2023-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 200858,
       "name": "K\u00c4VELL\u00c4\u00c4N",
       "url": "https://open.spotify.com/track/5nRvHcS144nOqGp672JfWw"
@@ -18122,7 +18140,7 @@
       ],
       "date_added": "2023-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-29",
+      "date_removed": null,
       "duration_ms": 174283,
       "name": "Meit ei oo",
       "url": "https://open.spotify.com/track/6gC4zm1oONWkl0zvo4Cwg6"
@@ -22544,7 +22562,7 @@
       ],
       "date_added": "2023-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 159410,
       "name": "Pari Muuttujaa",
       "url": "https://open.spotify.com/track/4L9bDVYGYCYIC8J0A0kYZn"
@@ -22566,7 +22584,7 @@
       ],
       "date_added": "2023-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-19",
+      "date_removed": null,
       "duration_ms": 154913,
       "name": "Pariisin kev\u00e4t",
       "url": "https://open.spotify.com/track/4NbcnW0v1yoeq2IAuWFriv"
@@ -26104,7 +26122,7 @@
       ],
       "date_added": "2023-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 175542,
       "name": "Shanghain valot (feat. Spekti & Annika Eklund)",
       "url": "https://open.spotify.com/track/5gdn1R6uPSpqlVS155bwLP"
@@ -30480,7 +30498,7 @@
       ],
       "date_added": "2023-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 165416,
       "name": "T\u00e4ss\u00e4 ja nyt (feat. william)",
       "url": "https://open.spotify.com/track/52Jcc0xkoJyguwYnfKUnFU"
@@ -33732,6 +33750,24 @@
       "duration_ms": 245896,
       "name": "Your Power",
       "url": "https://open.spotify.com/track/5qNh5WtzMbfpSj2jLlBkoD"
+    },
+    {
+      "album": {
+        "name": "You're Losing Me (From The Vault)",
+        "url": "https://open.spotify.com/album/5q3jthpn2h59P7pe2gmAl7"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277831,
+      "name": "You\u2019re Losing Me (From The Vault)",
+      "url": "https://open.spotify.com/track/3CWq0pAKKTWb0K4yiglDc4"
     },
     {
       "album": {

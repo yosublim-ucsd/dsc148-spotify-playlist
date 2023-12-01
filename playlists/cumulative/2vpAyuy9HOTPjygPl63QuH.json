@@ -4555,6 +4555,28 @@
     },
     {
       "album": {
+        "name": "Club Language",
+        "url": "https://open.spotify.com/album/088SYNnMuVe72jf3wZK3ns"
+      },
+      "artists": [
+        {
+          "name": "FREAK ON",
+          "url": "https://open.spotify.com/artist/2KujQ1kiORdmd4GCruc4sZ"
+        },
+        {
+          "name": "ANATTA",
+          "url": "https://open.spotify.com/artist/5YhPaiXN8biK8is4uCvcJ6"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180476,
+      "name": "Club Language",
+      "url": "https://open.spotify.com/track/2ECcZazMo87qVJvA11MgGN"
+    },
+    {
+      "album": {
         "name": "Dara Dum",
         "url": "https://open.spotify.com/album/6OhZImhLlsyq6H0TaMWHZd"
       },
@@ -4570,6 +4592,28 @@
       "duration_ms": 183425,
       "name": "Coldest",
       "url": "https://open.spotify.com/track/2U0Uk1A2PZ7ikFCiYN8Vzj"
+    },
+    {
+      "album": {
+        "name": "Collab",
+        "url": "https://open.spotify.com/album/3WhRJ0zccDoJqseYv1b9HU"
+      },
+      "artists": [
+        {
+          "name": "Cele",
+          "url": "https://open.spotify.com/artist/2bpkThEPVrkcoAJpTFAVLR"
+        },
+        {
+          "name": "MYMA",
+          "url": "https://open.spotify.com/artist/4ulrSQwgXFXA7JcEKG1TkK"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 365538,
+      "name": "Collab",
+      "url": "https://open.spotify.com/track/2xNzcfNDu70BBMWUqG0vD8"
     },
     {
       "album": {
@@ -6368,6 +6412,24 @@
       "duration_ms": 171968,
       "name": "Dive In (feat. Notelle)",
       "url": "https://open.spotify.com/track/27sxAuxRyXYwhwjPA5L0af"
+    },
+    {
+      "album": {
+        "name": "DNA / Fire",
+        "url": "https://open.spotify.com/album/5dl70z79HnPBuZWeggQsAj"
+      },
+      "artists": [
+        {
+          "name": "Emily Nash",
+          "url": "https://open.spotify.com/artist/6OaDL8ICMweuCQZfgYIKup"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164999,
+      "name": "DNA - Edit",
+      "url": "https://open.spotify.com/track/1gN4h4k7jraLSnWMaX5VUR"
     },
     {
       "album": {
@@ -10163,6 +10225,28 @@
     },
     {
       "album": {
+        "name": "Get It On (Radio Edit)",
+        "url": "https://open.spotify.com/album/6Dol5mYWRPWgYcN6cU0mxm"
+      },
+      "artists": [
+        {
+          "name": "Guz",
+          "url": "https://open.spotify.com/artist/2T86EVnDCP64EaVKRXIcRx"
+        },
+        {
+          "name": "Piem",
+          "url": "https://open.spotify.com/artist/08st4VKj9jjZJ5eKzAOHq8"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155624,
+      "name": "Get It On - Radio Edit",
+      "url": "https://open.spotify.com/track/4m9uVd1ujJAuYfLNKbQHei"
+    },
+    {
+      "album": {
         "name": "Get Mad",
         "url": "https://open.spotify.com/album/2wfPevhgjDq94RcShPIfL2"
       },
@@ -13757,6 +13841,28 @@
     },
     {
       "album": {
+        "name": "Jumpstarter",
+        "url": "https://open.spotify.com/album/0lprQMq8a7RpVNKC0xH7fN"
+      },
+      "artists": [
+        {
+          "name": "Ship Wrek",
+          "url": "https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif"
+        },
+        {
+          "name": "DLMT",
+          "url": "https://open.spotify.com/artist/5rG00A9pRANrMDzVI3DrmF"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173592,
+      "name": "Jumpstarter",
+      "url": "https://open.spotify.com/track/7er3MoyagC8W4YfCmENhRJ"
+    },
+    {
+      "album": {
         "name": "Junglist",
         "url": "https://open.spotify.com/album/7bk9B0wJbhPD3eCrPclPxB"
       },
@@ -15476,7 +15582,7 @@
       ],
       "date_added": "2023-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 181289,
       "name": "Little Perk",
       "url": "https://open.spotify.com/track/6Z0pACbh4jmSOL4d47FRHi"
@@ -16012,6 +16118,24 @@
       "duration_ms": 218095,
       "name": "Lost Identity",
       "url": "https://open.spotify.com/track/6bqmgDRpq9ulZkrUeCxTW6"
+    },
+    {
+      "album": {
+        "name": "Lotta Care EP",
+        "url": "https://open.spotify.com/album/28mhsbSCfeQPkVtcPawSwt"
+      },
+      "artists": [
+        {
+          "name": "Teko",
+          "url": "https://open.spotify.com/artist/6LYBTipBAHSpduixnHmWuS"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172734,
+      "name": "Lotta Dough",
+      "url": "https://open.spotify.com/track/4ylibekKTNdu4VeIChYUfL"
     },
     {
       "album": {
@@ -17670,6 +17794,24 @@
       "duration_ms": 211874,
       "name": "Move On",
       "url": "https://open.spotify.com/track/72zeI7xO4xTa77tB7CKPDF"
+    },
+    {
+      "album": {
+        "name": "Move With Tha",
+        "url": "https://open.spotify.com/album/35YXlOPsyhZtgcELZcN4nJ"
+      },
+      "artists": [
+        {
+          "name": "SUBSHIFT",
+          "url": "https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186933,
+      "name": "Move With Tha",
+      "url": "https://open.spotify.com/track/5voZGXGTFZBn3nKZ6UJyxK"
     },
     {
       "album": {
@@ -21131,6 +21273,24 @@
     },
     {
       "album": {
+        "name": "Power / Down Low",
+        "url": "https://open.spotify.com/album/0X1rXcIDBZgm1Nt5Kj9Rms"
+      },
+      "artists": [
+        {
+          "name": "Dale Howard",
+          "url": "https://open.spotify.com/artist/0SnbG2YfyykWmnsXwBXonJ"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180046,
+      "name": "Power - Radio Edit",
+      "url": "https://open.spotify.com/track/0HzVYobrBkcwQV1bFT78ii"
+    },
+    {
+      "album": {
         "name": "PPL",
         "url": "https://open.spotify.com/album/0iLCnQIjG3HZA4EVcyqu5q"
       },
@@ -21418,6 +21578,28 @@
       "duration_ms": 224526,
       "name": "Pumping Iron - TR710",
       "url": "https://open.spotify.com/track/0Jdz3oXx2Fj6gh0LJkf4i0"
+    },
+    {
+      "album": {
+        "name": "Pupils Pop",
+        "url": "https://open.spotify.com/album/4smkSZ7Y02IILC5xWiJ4fg"
+      },
+      "artists": [
+        {
+          "name": "Matt Sassari",
+          "url": "https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS"
+        },
+        {
+          "name": "Robbie Rise",
+          "url": "https://open.spotify.com/artist/7I3KcpUt82lD7bA5J7qQ8A"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137343,
+      "name": "Pupils Pop",
+      "url": "https://open.spotify.com/track/42W0qVtb1Aop43fmTqLmkR"
     },
     {
       "album": {
@@ -30204,6 +30386,28 @@
       "duration_ms": 195937,
       "name": "When I See It (feat. The Vic)",
       "url": "https://open.spotify.com/track/0ZNO8GpuqnGWSJAzqo3Dso"
+    },
+    {
+      "album": {
+        "name": "When the beat Bang",
+        "url": "https://open.spotify.com/album/12LyRM80nwhWdxAwACJeBf"
+      },
+      "artists": [
+        {
+          "name": "Tchami",
+          "url": "https://open.spotify.com/artist/1KpCi9BOfviCVhmpI4G2sY"
+        },
+        {
+          "name": "Malaa",
+          "url": "https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241875,
+      "name": "When the beat Bang",
+      "url": "https://open.spotify.com/track/3nj5UffFuqIdyy0BGrBI2l"
     },
     {
       "album": {

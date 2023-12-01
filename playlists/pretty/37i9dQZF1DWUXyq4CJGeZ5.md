@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUXyq4CJGeZ5.md) - [plain]
 
 > Piano music for fall vibes and autumnal moods.
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,489 likes - 430 songs - 19 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,481 likes - 430 songs - 19 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -439,4 +439,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUXyq4CJGeZ5.md) - [plain]
 | 429 | [Zarah](https://open.spotify.com/track/28vLvC18x4OjW9pNmlsO0x) | [Nicola Casalino](https://open.spotify.com/artist/3yfPBQP1jcsBr5LNlbipBR) | [Volatile](https://open.spotify.com/album/7yrDD8D5wJzMWnfkUXpjcG) | 3:28 |
 | 430 | [Baignade Joyeuse](https://open.spotify.com/track/1VndoWfgli0Vez1TL7MARp) | [Manuela Tigre](https://open.spotify.com/artist/2Ijh8zXrJXuH5k4u7UmSbw) | [Baignade Joyeuse](https://open.spotify.com/album/2kOsZnfnCYMhZaWz6s7ctN) | 2:37 |
 
-Snapshot ID: `MCxmNzMxMmQ4MjM3NDUxNGNjZWZiZDkxNTA3NGUwYjM1MTY0OTgzODU4`
+Snapshot ID: `MCxmOTdiN2YyNDliMmNmMTY3NmVlZWViYTBkYmYyNTZhZDRhMTBmYjJh`

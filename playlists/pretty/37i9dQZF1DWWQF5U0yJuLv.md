@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQF5U0yJuLv.md) - [plain]
 
 > Glitch and giggle with these whimsically warped bouncy bops 🤖
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,715 likes - 150 songs - 11 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,799 likes - 150 songs - 11 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQF5U0yJuLv.md) - [plain]
 | 149 | [Cat Friend](https://open.spotify.com/track/5KqCoQucFcqcUCzpA2MveP) | [Burēku](https://open.spotify.com/artist/4ZROS5RylFIQnzi4SRTHVH) | [First Lesson](https://open.spotify.com/album/40nSeTMuFMiMHvwIwncgQG) | 2:15 |
 | 150 | [Stereomission](https://open.spotify.com/track/2bEFcAISP2KpoWCiWI6Pzc) | [Mouse On Mars](https://open.spotify.com/artist/4ZgIWfyg9BkcqnJJ2xVR3f) | [Iaora Tahiti](https://open.spotify.com/album/1SyTP3tlVWLNc7FPUaEQii) | 4:38 |
 
-Snapshot ID: `MCw0ZjNkY2NkOWQ2NTg3ZTljODE5MGFkYzRkMGNiZjg4ZGQ2Mzg3NmZh`
+Snapshot ID: `MCw0YzJiYzhjYjVjZTNhNDVjMTk4YmJmZGQxYTYyNDcxMWJmNmU1ZGI1`

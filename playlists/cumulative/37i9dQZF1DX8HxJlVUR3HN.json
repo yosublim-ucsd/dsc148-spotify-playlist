@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "Les meilleures nouveaut\u00e9s de la sc\u00e8ne rock fran\u00e7aise. Photo : Best Case Scenario",
+  "description": "Les meilleures nouveaut\u00e9s de la sc\u00e8ne rock fran\u00e7aise. Photo : Stuck In The Sound",
   "name": "VOLUME FRANCE",
   "tracks": [
     {
@@ -88,7 +88,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 249487,
       "name": "Autodrama",
       "url": "https://open.spotify.com/track/3uvsiUdJ40LfqYQaok6aEI"
@@ -124,7 +124,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 157608,
       "name": "Baise tout seul",
       "url": "https://open.spotify.com/track/02NcPv5dsj3fCDPyLDtdrc"
@@ -146,6 +146,24 @@
       "duration_ms": 157608,
       "name": "Baise tout seul",
       "url": "https://open.spotify.com/track/5TE991wFPT4dLTlkvgJthg"
+    },
+    {
+      "album": {
+        "name": "Half Asleep Half Awake",
+        "url": "https://open.spotify.com/album/6ur6w7vngoC5G6I6IgS4Wr"
+      },
+      "artists": [
+        {
+          "name": "Howlin' Jaws",
+          "url": "https://open.spotify.com/artist/5i6iGHHnuGDlQR9PLaqikc"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142933,
+      "name": "Bewitched Me",
+      "url": "https://open.spotify.com/track/1kJdkrtByJFrUe3eIefo47"
     },
     {
       "album": {
@@ -348,6 +366,24 @@
       "duration_ms": 125675,
       "name": "Catch Me If You Can",
       "url": "https://open.spotify.com/track/7BiNhBP541SxqgX18naxpu"
+    },
+    {
+      "album": {
+        "name": "Childish World",
+        "url": "https://open.spotify.com/album/7CMKlkjgIYCxvYUPrQEfji"
+      },
+      "artists": [
+        {
+          "name": "I Me Mine",
+          "url": "https://open.spotify.com/artist/49Aanvac9LY0no4ysTsYvw"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193666,
+      "name": "Childish World",
+      "url": "https://open.spotify.com/track/2T90flkgMSkqHYTbbmE1xv"
     },
     {
       "album": {
@@ -596,7 +632,7 @@
       ],
       "date_added": "2023-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 232666,
       "name": "Far and Fast",
       "url": "https://open.spotify.com/track/3GmMda5bpuV1TVFTzpstdQ"
@@ -928,6 +964,24 @@
       "duration_ms": 209148,
       "name": "Joy Brings Me Down",
       "url": "https://open.spotify.com/track/7GMAT3z6PIY4mQ1pQkpfAX"
+    },
+    {
+      "album": {
+        "name": "Julia",
+        "url": "https://open.spotify.com/album/2R6iiNXY1zs1XkZ3WLZ2jI"
+      },
+      "artists": [
+        {
+          "name": "Astonvilla",
+          "url": "https://open.spotify.com/artist/3qNYZS3uNCwEA3Zn9gBsO7"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220240,
+      "name": "Julia",
+      "url": "https://open.spotify.com/track/7aK97PCxMNqp6XJHCPo03Q"
     },
     {
       "album": {
@@ -1428,7 +1482,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 187093,
       "name": "Splendore Evolution",
       "url": "https://open.spotify.com/track/6sWIbAepi2KBs2sLttYqeD"
@@ -1486,6 +1540,24 @@
       "duration_ms": 232453,
       "name": "Strange Feeling",
       "url": "https://open.spotify.com/track/1lQdGdF0LNzhy9v5os0pTS"
+    },
+    {
+      "album": {
+        "name": "Emptiness Takes Time",
+        "url": "https://open.spotify.com/album/7clwukTEsSttK4ZnGjj0lt"
+      },
+      "artists": [
+        {
+          "name": "Dro\u00efd Fant\u00f4m",
+          "url": "https://open.spotify.com/artist/7HrozFN6zYmxYBLejkkZuz"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180986,
+      "name": "Strong",
+      "url": "https://open.spotify.com/track/578U1WgUClk2l3yCiGqn96"
     },
     {
       "album": {

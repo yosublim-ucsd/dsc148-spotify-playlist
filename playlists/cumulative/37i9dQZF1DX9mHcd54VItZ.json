@@ -1456,6 +1456,28 @@
     {
       "album": {
         "name": "Die Lig",
+        "url": "https://open.spotify.com/album/1pqLIYA4P2uh9oJWUe9tRk"
+      },
+      "artists": [
+        {
+          "name": "Die Eindste",
+          "url": "https://open.spotify.com/artist/6gqvpFp2YBWmoPR5LURl3k"
+        },
+        {
+          "name": "Danie Re\u00ebnwolf",
+          "url": "https://open.spotify.com/artist/7vvYumgXzUPBNnwXtajb08"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317680,
+      "name": "Die Lig",
+      "url": "https://open.spotify.com/track/1uC1ABzL9eYbLhASZAiT4r"
+    },
+    {
+      "album": {
+        "name": "Die Lig",
         "url": "https://open.spotify.com/album/01fK6z5VKKuI8s209yzcnb"
       },
       "artists": [
@@ -2480,7 +2502,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 200129,
       "name": "Hey Jy",
       "url": "https://open.spotify.com/track/0xjkqCaJ1EbdcFUz9rnoCI"
@@ -3300,7 +3322,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 201684,
       "name": "Leave This Town",
       "url": "https://open.spotify.com/track/2UJNr5PUzkDpqqLriIJpqK"
@@ -4948,7 +4970,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-12",
+      "date_removed": null,
       "duration_ms": 210486,
       "name": "She's Heavenly",
       "url": "https://open.spotify.com/track/2AHhIcPVeEkjsZ5PWzRchd"

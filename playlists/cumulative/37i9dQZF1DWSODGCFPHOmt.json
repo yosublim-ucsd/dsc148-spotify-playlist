@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-11-26",
-  "description": "M\u00fasica navide\u00f1a para las fiestas decembrinas.\n",
+  "description": "M\u00fasica navide\u00f1a para las fiestas decembrinas. Cover: Panter Belico\n",
   "name": "La Posada",
   "tracks": [
     {
@@ -242,10 +242,28 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 149276,
       "name": "Blanca Navidad",
       "url": "https://open.spotify.com/track/6MM2yVmmVOtPKTDPGmmGy0"
+    },
+    {
+      "album": {
+        "name": "Blanca Navidad",
+        "url": "https://open.spotify.com/album/60psRCtYUyhUoelGEnIfVk"
+      },
+      "artists": [
+        {
+          "name": "Yerai R",
+          "url": "https://open.spotify.com/artist/1d9KyLzLJGWNVuWjNH4WmY"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151029,
+      "name": "Blanca Navidad",
+      "url": "https://open.spotify.com/track/3sXg5EsvBtERP2Dq1IW7rr"
     },
     {
       "album": {
@@ -768,7 +786,7 @@
       ],
       "date_added": "2022-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 215310,
       "name": "Esta Navidad",
       "url": "https://open.spotify.com/track/4NaX0GnWbYcgTSkmvRLYYC"
@@ -880,6 +898,28 @@
       "duration_ms": 155626,
       "name": "Jingle Bells (Vamos All The Way)",
       "url": "https://open.spotify.com/track/3h2EZK7QSmccERdtC665J7"
+    },
+    {
+      "album": {
+        "name": "JOJOJO",
+        "url": "https://open.spotify.com/album/3w8FEcSsFiXCO08UOY2Ji5"
+      },
+      "artists": [
+        {
+          "name": "La Adictiva",
+          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
+        },
+        {
+          "name": "''El Obama'' Carlos Anderson",
+          "url": "https://open.spotify.com/artist/3u2W429W7BHf3rjbdHUir1"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145800,
+      "name": "JOJOJO",
+      "url": "https://open.spotify.com/track/1tQ8yvYIwc8tWqDxesGn0O"
     },
     {
       "album": {
@@ -1168,6 +1208,24 @@
       "duration_ms": 176025,
       "name": "Los Peces en el R\u00edo - Edici\u00f3n Especial",
       "url": "https://open.spotify.com/track/1dWFzTAoqgvCxFQoE4bhom"
+    },
+    {
+      "album": {
+        "name": "Los Plebes En El R\u00edo",
+        "url": "https://open.spotify.com/album/1ElvdlX6KOY80peRUO78xN"
+      },
+      "artists": [
+        {
+          "name": "El Ezequiel",
+          "url": "https://open.spotify.com/artist/5fEXlQQjFkAH2xuBUGxOTw"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158773,
+      "name": "Los Plebes En El R\u00edo",
+      "url": "https://open.spotify.com/track/6rysHSjF5GptPktyORkVfQ"
     },
     {
       "album": {
@@ -1496,6 +1554,24 @@
     {
       "album": {
         "name": "Navidad, Navidad",
+        "url": "https://open.spotify.com/album/5aUUivtYfER9Cqpb1FT7es"
+      },
+      "artists": [
+        {
+          "name": "Grupo Maximo Grado",
+          "url": "https://open.spotify.com/artist/0ssx5sZQzc1nZZF2Ks8qXZ"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148845,
+      "name": "Navidad, Navidad",
+      "url": "https://open.spotify.com/track/2sWzSeji9T7goNXHMJMywW"
+    },
+    {
+      "album": {
+        "name": "Navidad, Navidad",
         "url": "https://open.spotify.com/album/6tx4tFu6cQDIk5pZVwLLxI"
       },
       "artists": [
@@ -1652,7 +1728,7 @@
       ],
       "date_added": "2023-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 213640,
       "name": "Regalo De Navidad",
       "url": "https://open.spotify.com/track/1E5oEmlbeddoiDxp3Z8eHI"
@@ -2168,7 +2244,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-01",
       "duration_ms": 236146,
       "name": "Ven A Mi Casa Esta Navidad",
       "url": "https://open.spotify.com/track/0Elh3shPTKaiUdIU3mBYsi"
