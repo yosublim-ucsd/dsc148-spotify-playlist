@@ -59,6 +59,24 @@
     },
     {
       "album": {
+        "name": "TRUSTFALL (Tour Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4hgincUyDza4A228fFQRiK"
+      },
+      "artists": [
+        {
+          "name": "P!nk",
+          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212306,
+      "name": "All Out Of Fight",
+      "url": "https://open.spotify.com/track/0ZtWVho1KKMD9w55XYoDPl"
+    },
+    {
+      "album": {
         "name": "Always",
         "url": "https://open.spotify.com/album/25vA0rbQezTpV1V2vRaXm7"
       },
@@ -164,7 +182,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 192000,
       "name": "As It Was - Harry Styles Cover",
       "url": "https://open.spotify.com/track/3TnI411IbdarMBCu8WChv7"
@@ -344,7 +362,7 @@
       ],
       "date_added": "2023-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 214768,
       "name": "Borderline",
       "url": "https://open.spotify.com/track/54SmecWdCNXBjAXBuVrSV6"
@@ -518,7 +536,7 @@
       ],
       "date_added": "2022-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 167386,
       "name": "Con La Brisa",
       "url": "https://open.spotify.com/track/2LSsSV7V33wM9EKQA2xjGS"
@@ -854,6 +872,28 @@
       "duration_ms": 163603,
       "name": "How Do I Say Goodbye",
       "url": "https://open.spotify.com/track/5hnGrTBaEsdukpDF6aZg8a"
+    },
+    {
+      "album": {
+        "name": "I don't need you anymore",
+        "url": "https://open.spotify.com/album/0IhOGuhSVrtnotXLsXdjuT"
+      },
+      "artists": [
+        {
+          "name": "Waffle",
+          "url": "https://open.spotify.com/artist/5f56SSkVvKsOzkHNSim6u4"
+        },
+        {
+          "name": "Emalyne",
+          "url": "https://open.spotify.com/artist/0rxFFHNfjjEu5TOTFHrSwT"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195974,
+      "name": "I don't need you anymore",
+      "url": "https://open.spotify.com/track/4jvO2qMj9z3CN1lyyQNnTz"
     },
     {
       "album": {
@@ -1311,6 +1351,24 @@
     },
     {
       "album": {
+        "name": "Paris",
+        "url": "https://open.spotify.com/album/5DFNdBjKvIRlPl0i76yBSC"
+      },
+      "artists": [
+        {
+          "name": "Kenya Grace",
+          "url": "https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180527,
+      "name": "Paris",
+      "url": "https://open.spotify.com/track/3WzmwVmkRDTYroaLg0Klcb"
+    },
+    {
+      "album": {
         "name": "Pray",
         "url": "https://open.spotify.com/album/0bIr7aFjLBuAkMbsUsWY3I"
       },
@@ -1466,7 +1524,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 189714,
       "name": "Saw It Coming",
       "url": "https://open.spotify.com/track/6gecBiCMM6BBttZ4r9BOma"
@@ -1658,6 +1716,24 @@
       "duration_ms": 263653,
       "name": "Sunflower",
       "url": "https://open.spotify.com/track/32uXuJF75lxy2gRY85aO9h"
+    },
+    {
+      "album": {
+        "name": "Take Me Home, Country Roads",
+        "url": "https://open.spotify.com/album/5qDjtBY8cC4bO6wytuGOuT"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166676,
+      "name": "Take Me Home, Country Roads",
+      "url": "https://open.spotify.com/track/7qF0FfuzBFwMe1lNHkEDxW"
     },
     {
       "album": {

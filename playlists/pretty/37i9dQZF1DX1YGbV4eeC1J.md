@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1YGbV4eeC1J.md) - [plain]
 
 > Exceptionally vivid Swahili love stories for you and yours\. Cover: Anjella
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,340 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,399 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1YGbV4eeC1J.md) - [plain]
 | 49 | [Morning Call](https://open.spotify.com/track/6EGQ8LxufhYEkN4btEJ1Vu) | [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL) | [Morning Call](https://open.spotify.com/album/0wwoKITOHIs013FQaMmwro) | 3:13 |
 | 50 | [My Babe](https://open.spotify.com/track/29qNcVV0QERBR5c6TSBEvv) | [Rayvanny](https://open.spotify.com/artist/7G9dCn1mqomAa0ucJoBm6J) | [Flowers III](https://open.spotify.com/album/4d2U5waYnl1NwFs0aQ5fhL) | 4:13 |
 
-Snapshot ID: `MCwyYWJmZDE5Y2FiMzVjNmJiMDQ4NzZlMGIyMjUwYWVlZjUwN2NhNjVk`
+Snapshot ID: `MCw0MTc3NTMwNDQ1NzNlNTNmYTEwYzUxMzU1NjhmYjc5NDZkMDBjMjhl`

@@ -1367,6 +1367,24 @@
     },
     {
       "album": {
+        "name": "Caelum",
+        "url": "https://open.spotify.com/album/4vweMdGkPlsXIlb4NR6MxK"
+      },
+      "artists": [
+        {
+          "name": "Kirabuo",
+          "url": "https://open.spotify.com/artist/56ncV7I51jTZIqwrCWsOu0"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137500,
+      "name": "Caelum",
+      "url": "https://open.spotify.com/track/2LpBVKEbFP9RLFQhPRP7WB"
+    },
+    {
+      "album": {
         "name": "Calm Wilderness",
         "url": "https://open.spotify.com/album/7zWm20YukYUpew9NhEmfLN"
       },
@@ -5948,6 +5966,24 @@
       "duration_ms": 192000,
       "name": "Mil Sonidos",
       "url": "https://open.spotify.com/track/11oVQ68B4PnVQHIY6svpXg"
+    },
+    {
+      "album": {
+        "name": "Million Voices",
+        "url": "https://open.spotify.com/album/5uu2THHQsRrFZOIA4pK2WT"
+      },
+      "artists": [
+        {
+          "name": "Lany Mokita",
+          "url": "https://open.spotify.com/artist/5A9ZWS5PafMTvNvLdKC8zB"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140795,
+      "name": "Million Voices",
+      "url": "https://open.spotify.com/track/7EprgKc6VuRNAC0OBLRKfF"
     },
     {
       "album": {

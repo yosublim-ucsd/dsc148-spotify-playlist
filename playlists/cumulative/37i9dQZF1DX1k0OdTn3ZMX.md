@@ -2,9 +2,9 @@
 
 ### [new nü](https://open.spotify.com/playlist/37i9dQZF1DX1k0OdTn3ZMX)
 
-> nü\-metal revival is happening here and now with Dope.
+> nü\-metal revival is happening here and now with P.O.D and Tatiana from Jinjer.
 
-81 songs - 4 hr 44 min
+82 songs - 4 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [A Devil More Damned](https://open.spotify.com/track/5y77tjYeVedKukqwsS3xx0) | [Drowning Pool](https://open.spotify.com/artist/1E4r4z7ivGUcSAnCbINJ9v) | [Strike A Nerve](https://open.spotify.com/album/1xSSkN2xi3XUZoSUKov941) | 4:54 | 2023-09-13 |  |
 | [A Million Watts](https://open.spotify.com/track/6EVq7Odm1pcur4ERtZssv6) | [Nonpoint](https://open.spotify.com/artist/6BdSOHfQ6kMg0tbAFlXR1z) | [Heartless](https://open.spotify.com/album/0BX61gwMlOKkAzSxrdtwye) | 3:30 | 2023-11-17 |  |
 | [A Million Watts](https://open.spotify.com/track/32FJsFEX94WIb5nio2jhnq) | [Nonpoint](https://open.spotify.com/artist/6BdSOHfQ6kMg0tbAFlXR1z) | [A Million Watts](https://open.spotify.com/album/1jw4j7wSJPz7Niz2B36cRw) | 3:30 | 2023-09-13 | 2023-11-19 |
+| [AFRAID TO DIE \(feat\. Tatiana Shmayluk from Jinjer\)](https://open.spotify.com/track/0MVhJOLU3VhNRzWLwTtA26) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU), [Tatiana Shmayluk](https://open.spotify.com/artist/4jUJBAkaX0Foc8fjhuyfpa), [Jinjer](https://open.spotify.com/artist/7o6cOczXTB8ioTAAJTbESf) | [AFRAID TO DIE](https://open.spotify.com/album/2kObu5MHhR6BCsvgtptz2T) | 3:04 | 2023-12-01 |  |
 | [AI \(Save Yourself\)](https://open.spotify.com/track/2MrnJVZSGAzz1IobfPEwHv) | [Kid Bookie](https://open.spotify.com/artist/7DiLiJ8nji6DslsFSzx0IV) | [AI \(Save Yourself\)](https://open.spotify.com/album/2PcWCQtSCQea2SDQbJmuqO) | 3:08 | 2023-11-24 |  |
 | [Am I The Only One](https://open.spotify.com/track/1KCOGedEDjeSdukGRKJZYI) | [Vended](https://open.spotify.com/artist/17pZeX1Vy9hugVufmKFbCQ) | [Am I The Only One](https://open.spotify.com/album/2mtJTmxgDYVqF2BsS9T8Wb) | 3:20 | 2023-09-13 | 2023-10-28 |
 | [Animal](https://open.spotify.com/track/1BO5Y7G9ukdTRVw1ER0HuC) | [Magnolia Park](https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY), [Ethan Ross](https://open.spotify.com/artist/59PupD35uDhgTCVfuV3GtN), [PLVTINUM](https://open.spotify.com/artist/4V2pR2iSd1g0RZCglrP3jn) | [Animal](https://open.spotify.com/album/45tUpXXzTSNp1QZ6Z1ENvX) | 3:38 | 2023-09-13 |  |
@@ -32,7 +33,7 @@
 | [DETOX](https://open.spotify.com/track/7a3dzgrNu32WXb1ymJmgm2) | [\(Hed\) P.E.](https://open.spotify.com/artist/0xIChbcTsuYLueN1oEsX9v) | [DETOX](https://open.spotify.com/album/6iLG5mKnCdfkObd5e1onm2) | 3:45 | 2023-09-13 | 2023-10-14 |
 | [Dirty Rotten Bizkit](https://open.spotify.com/track/0S6rmCEGfJhAf2vL6FE5pD) | [Limp Bizkit](https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb) | [STILL SUCKS](https://open.spotify.com/album/2lZ9RqGnGXH8gtH3DK02tJ) | 3:01 | 2023-09-13 | 2023-11-18 |
 | [DISDAIN](https://open.spotify.com/track/2hEI5r6nDn9ZdNqHluhbdq) | [CORPSE](https://open.spotify.com/artist/7yntSJ6uojO3z6GFUVwhAW) | [DISDAIN](https://open.spotify.com/album/7BPRvaesFamtH4Xo82I8nO) | 2:25 | 2023-10-27 |  |
-| [DROP \(feat\. Randy Blythe\)](https://open.spotify.com/track/0EYW7sCfFn9QnuFsSGAt33) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU), [Randy Blythe](https://open.spotify.com/artist/63JN4A4IroUvAN1fyWmsHB) | [DROP \(feat\. Randy Blythe\)](https://open.spotify.com/album/4NKRWnBsryI3hSVOSm5ihE) | 3:11 | 2023-09-22 |  |
+| [DROP \(feat\. Randy Blythe\)](https://open.spotify.com/track/0EYW7sCfFn9QnuFsSGAt33) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU), [Randy Blythe](https://open.spotify.com/artist/63JN4A4IroUvAN1fyWmsHB) | [DROP \(feat\. Randy Blythe\)](https://open.spotify.com/album/4NKRWnBsryI3hSVOSm5ihE) | 3:11 | 2023-09-22 | 2023-12-02 |
 | [EMPTY](https://open.spotify.com/track/1lU1D4ay1tarkjkyEhxiSN) | [Orgy](https://open.spotify.com/artist/4uYwLU7k03RCQSRXGtQGg0) | [EMPTY](https://open.spotify.com/album/539efTuyDDvj6njVfILi0G) | 3:12 | 2023-09-13 | 2023-10-14 |
 | [Everything](https://open.spotify.com/track/0aBFPOcQfWPQZvdLx2jWmq) | [Sevendust](https://open.spotify.com/artist/35Uu85Pq33mK8x1jYqsHY2) | [Truth Killer](https://open.spotify.com/album/6YKRSUJ7jo99IYvHeOx5aT) | 4:18 | 2023-09-13 |  |
 | [Everything She Wants](https://open.spotify.com/track/01pR1krOFbSYfTbSaxYHq0) | [Alien Ant Farm](https://open.spotify.com/artist/6TZdvF1kFzwnQLgHQynzsO) | [Everything She Wants](https://open.spotify.com/album/5fCJH4JORE9qWixhlniKem) | 3:41 | 2023-09-13 |  |

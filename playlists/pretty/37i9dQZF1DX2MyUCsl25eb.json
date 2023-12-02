@@ -1,13 +1,29 @@
 {
   "description": "Easy feels on your way to work, or wherever you're commuting to this morning.",
-  "num_followers": 984051,
+  "num_followers": 984045,
   "original_name": "Morning Commute",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ODYxY2E0M2EyODZhMTVkOTY0NGJkNDMyMzBmYzIyMDdmYjMxZjE1",
+  "snapshot_id": "MCxhYjBkMDZkOGVmZTVkM2EyNDViNDdjODcxOTRhODNjYWU4N2ZjOTRi",
   "tracks": [
+    {
+      "added_at": "2023-12-01 05:01:00",
+      "album": {
+        "name": "Don't Make Sense",
+        "url": "https://open.spotify.com/album/3pXvt9PNq59Rl7ZhHrLxOC"
+      },
+      "artists": [
+        {
+          "name": "Shannon Lauren Callihan",
+          "url": "https://open.spotify.com/artist/4bbW7o78JYMG9yuIZgPXD2"
+        }
+      ],
+      "duration_ms": 260394,
+      "name": "Don't Make Sense",
+      "url": "https://open.spotify.com/track/1PJiZjIcN08pjgJgKDHqUZ"
+    },
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
@@ -37,20 +53,20 @@
       "url": "https://open.spotify.com/track/4lIA2yIyg1nPmJ1rBwNFUG"
     },
     {
-      "added_at": "2023-11-24 05:00:00",
+      "added_at": "2023-12-01 05:01:00",
       "album": {
-        "name": "Homecoming",
-        "url": "https://open.spotify.com/album/3WHRzQYzTFmIVnYiqGWBra"
+        "name": "TRUSTFALL (Tour Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4hgincUyDza4A228fFQRiK"
       },
       "artists": [
         {
-          "name": "James Arthur",
-          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
+          "name": "P!nk",
+          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
         }
       ],
-      "duration_ms": 172059,
-      "name": "Homecoming",
-      "url": "https://open.spotify.com/track/6Q1VMEsgtuOXZxdduuj4lG"
+      "duration_ms": 212306,
+      "name": "All Out Of Fight",
+      "url": "https://open.spotify.com/track/0ZtWVho1KKMD9w55XYoDPl"
     },
     {
       "added_at": "2023-11-17 05:01:00",
@@ -69,20 +85,20 @@
       "url": "https://open.spotify.com/track/5TrIYP0VcwpwSs2Qk9G8Rn"
     },
     {
-      "added_at": "2023-11-24 05:00:00",
+      "added_at": "2023-12-01 05:01:00",
       "album": {
-        "name": "It Never Went Away (From the Netflix Documentary \u201cAmerican Symphony\u201d)",
-        "url": "https://open.spotify.com/album/5A6ONAnU3RT1vjOvqInUzm"
+        "name": "Lifeline (From the Original Motion Picture \u201cThe Color Purple\u201d)",
+        "url": "https://open.spotify.com/album/2ShbtQZa3nadKapi4DCIkV"
       },
       "artists": [
         {
-          "name": "Jon Batiste",
-          "url": "https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU"
+          "name": "Alicia Keys",
+          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
         }
       ],
-      "duration_ms": 228040,
-      "name": "It Never Went Away - From the Netflix Documentary \u201cAmerican Symphony\u201d",
-      "url": "https://open.spotify.com/track/2CcghfG9z26lruSjyRPZiK"
+      "duration_ms": 227224,
+      "name": "Lifeline - From the Original Motion Picture \u201cThe Color Purple\u201d",
+      "url": "https://open.spotify.com/track/66Z7xWbRpjO7mZJ8U8scrw"
     },
     {
       "added_at": "2023-11-17 05:01:00",
@@ -103,6 +119,54 @@
       "duration_ms": 242317,
       "name": "Some Things I'll Never Know (feat. Maren Morris)",
       "url": "https://open.spotify.com/track/3oSGigVd5RezNkTV9PRGmL"
+    },
+    {
+      "added_at": "2023-12-01 05:01:00",
+      "album": {
+        "name": "Ticket To Shangri-La (Deluxe Version)",
+        "url": "https://open.spotify.com/album/4CYFJzamIcEG44GjBceFp9"
+      },
+      "artists": [
+        {
+          "name": "Young Gun Silver Fox",
+          "url": "https://open.spotify.com/artist/3qQloBz05T6e0rKubNCmjG"
+        }
+      ],
+      "duration_ms": 178736,
+      "name": "Chances Are",
+      "url": "https://open.spotify.com/track/2826m2pGZTBue7SLyNzVeF"
+    },
+    {
+      "added_at": "2023-11-24 05:00:00",
+      "album": {
+        "name": "Homecoming",
+        "url": "https://open.spotify.com/album/3WHRzQYzTFmIVnYiqGWBra"
+      },
+      "artists": [
+        {
+          "name": "James Arthur",
+          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
+        }
+      ],
+      "duration_ms": 172059,
+      "name": "Homecoming",
+      "url": "https://open.spotify.com/track/6Q1VMEsgtuOXZxdduuj4lG"
+    },
+    {
+      "added_at": "2023-11-24 05:00:00",
+      "album": {
+        "name": "It Never Went Away (From the Netflix Documentary \u201cAmerican Symphony\u201d)",
+        "url": "https://open.spotify.com/album/5A6ONAnU3RT1vjOvqInUzm"
+      },
+      "artists": [
+        {
+          "name": "Jon Batiste",
+          "url": "https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU"
+        }
+      ],
+      "duration_ms": 228040,
+      "name": "It Never Went Away - From the Netflix Documentary \u201cAmerican Symphony\u201d",
+      "url": "https://open.spotify.com/track/2CcghfG9z26lruSjyRPZiK"
     },
     {
       "added_at": "2023-11-17 05:01:00",
@@ -1683,58 +1747,6 @@
       "duration_ms": 148645,
       "name": "Another Half",
       "url": "https://open.spotify.com/track/0sAPtWTy125jIkSDOT9YdO"
-    },
-    {
-      "added_at": "2023-07-07 04:00:00",
-      "album": {
-        "name": "Motorbike",
-        "url": "https://open.spotify.com/album/6HkKKesPG4HKw3J8mQhR9Z"
-      },
-      "artists": [
-        {
-          "name": "Johnny Stimson",
-          "url": "https://open.spotify.com/artist/00OF0nwYaoBSO3AnPVq3vE"
-        }
-      ],
-      "duration_ms": 201666,
-      "name": "Motorbike",
-      "url": "https://open.spotify.com/track/4eQkOn4sXPbxyTTqkLfplU"
-    },
-    {
-      "added_at": "2023-07-07 04:00:00",
-      "album": {
-        "name": "Hiding On The Moon",
-        "url": "https://open.spotify.com/album/0j8BOGYANd6au3xvdmQka0"
-      },
-      "artists": [
-        {
-          "name": "Cory Wong",
-          "url": "https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU"
-        },
-        {
-          "name": "O.A.R.",
-          "url": "https://open.spotify.com/artist/1Cq0LAHFfvUTBEtMPXUidI"
-        }
-      ],
-      "duration_ms": 233438,
-      "name": "Hiding On The Moon",
-      "url": "https://open.spotify.com/track/5tgY2SlsTLGMETzl2tIem4"
-    },
-    {
-      "added_at": "2023-06-23 04:00:00",
-      "album": {
-        "name": "Sandman",
-        "url": "https://open.spotify.com/album/0tdqSTY29oE3dMnk2A1PVc"
-      },
-      "artists": [
-        {
-          "name": "Tai Verdes",
-          "url": "https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I"
-        }
-      ],
-      "duration_ms": 212991,
-      "name": "Sandman",
-      "url": "https://open.spotify.com/track/3iXH8nRdc945PO0GlbOroA"
     }
   ],
   "unique_name": "Morning Commute",

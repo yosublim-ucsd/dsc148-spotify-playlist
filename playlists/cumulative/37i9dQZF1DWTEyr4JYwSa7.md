@@ -4,7 +4,7 @@
 
 > La playlist idéale pour vos fêtes cette année!
 
-326 songs - 17 hr 40 min
+327 songs - 17 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,7 @@
 | [All I Want For Christmas Is You](https://open.spotify.com/track/6r7dQe9qCH3ag5orO2WnJw) | [Laurence Nerbonne](https://open.spotify.com/artist/1fPc13ccCnGx3gdESGBhYQ) | [All I Want For Christmas Is You](https://open.spotify.com/album/3kc2Y4D6VJzCgpD7Nd1rHs) | 3:04 | 2021-12-17 | 2022-11-15 |
 | [All I Want for Christmas Is You](https://open.spotify.com/track/0bYg9bo50gSsH3LtXe2SQn) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Merry Christmas](https://open.spotify.com/album/61ulfFSmmxMhc2wCdmdMkN) | 4:01 | 2021-12-17 |  |
 | [Amoureux](https://open.spotify.com/track/4YvF9F72EMjqelsz380ytc) | [Matt Boudreau](https://open.spotify.com/artist/6r5xvxemxhGGIjDOqmO4wV) | [Noël \# 1](https://open.spotify.com/album/1Gn7pjm8t9Mr3YZjlTa9oA) | 3:05 | 2021-12-17 | 2022-07-27 |
-| [Angel](https://open.spotify.com/track/4K9fBu5r5xPHc90WXbRiyW) | [Adrien de la Salle](https://open.spotify.com/artist/24qlcGFRlSIGVpvWmWkCFN) | [Angel](https://open.spotify.com/album/0qc2lqhJAhnoCFoLJ70YaK) | 2:31 | 2021-12-17 |  |
+| [Angel](https://open.spotify.com/track/4K9fBu5r5xPHc90WXbRiyW) | [Adrien de la Salle](https://open.spotify.com/artist/24qlcGFRlSIGVpvWmWkCFN) | [Angel](https://open.spotify.com/album/0qc2lqhJAhnoCFoLJ70YaK) | 2:31 | 2021-12-17 | 2023-12-02 |
 | [Angel](https://open.spotify.com/track/4yvhsSIcQvMmcwyExJvVja) | [Adrien de la Salle](https://open.spotify.com/artist/24qlcGFRlSIGVpvWmWkCFN) | [Angel](https://open.spotify.com/album/5cIGSAUXb0LAjseafd3s0V) | 2:31 | 2021-12-17 | 2022-09-30 |
 | [Another Year Has Gone By](https://open.spotify.com/track/014An8mZt6hTR6bsN9fo2u) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [These are Special Times](https://open.spotify.com/album/5k27z7TrQn2O0mKMoiwHzN) | 3:24 | 2021-12-17 |  |
 | [Another Year Has Gone By](https://open.spotify.com/track/2SMjAnTaaJJjcXpLe9oPTw) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [These Are Special Times](https://open.spotify.com/album/32MpBKgfq3OJWbqEFcTwWP) | 3:24 | 2021-12-17 | 2022-07-11 |
@@ -122,6 +122,7 @@
 | [Joyeux Noël](https://open.spotify.com/track/6mrIW41E8OGpFpgvDDsROH) | [Nicola Ciccone](https://open.spotify.com/artist/7zEWmefU2120VHZaQhN6qM) | [Joyeux Noël \- Single](https://open.spotify.com/album/6vKDOTTka0ybxQXJ1wZEmM) | 3:38 | 2021-12-17 | 2022-07-29 |
 | [Joyeux noël et bonne année](https://open.spotify.com/track/10chugYLrW9d5HzLcpm0w2) | [Villeray](https://open.spotify.com/artist/3TpVDpx6jmUNyU7KqP4nYP) | [Joyeux noël et bonne année](https://open.spotify.com/album/2XGNMqMs4jnaNm6c2dIZAC) | 2:27 | 2021-12-17 |  |
 | [Joyeux Noël à toi mon coeur](https://open.spotify.com/track/7hXETOkibmEro2iXlmaIhg) | [Mc12](https://open.spotify.com/artist/0OOebPIB8ejer3GJlLskoN) | [Joyeux Noël à toi mon coeur](https://open.spotify.com/album/6lLzLbxJLwqMzVCnSrfGEC) | 3:00 | 2021-12-17 | 2022-07-29 |
+| [Jusqu'à Noël \(feat\. Gabrielle Shonk\)](https://open.spotify.com/track/2gInVV124wC37PWHHh4DgQ) | [Simon Kearney](https://open.spotify.com/artist/4ASltZkMZ5TIeu90OnHi1a), [Gabrielle Shonk](https://open.spotify.com/artist/5Vj7LABYdzz3ZBt1EhDIoQ) | [Jusqu'à Noël \(feat\. Gabrielle Shonk\)](https://open.spotify.com/album/1m0KMWTElAIQPcQVXErqn3) | 3:24 | 2023-12-01 |  |
 | [L'enfant au tambour](https://open.spotify.com/track/1xN0wrHJula3KfpgAs7eVc) | [Johanne Blouin](https://open.spotify.com/artist/1f8PCpHKhzkLb2y7wnijjd) | [Sainte Nuit](https://open.spotify.com/album/6EZsh8EPb6Hckb4Gi5D0Cc) | 2:54 | 2022-11-04 | 2022-11-30 |
 | [L'enfant au tambour](https://open.spotify.com/track/4jtna43xiyQKSghOBwh0l8) | [Johanne Blouin](https://open.spotify.com/artist/1f8PCpHKhzkLb2y7wnijjd) | [Sainte Nuit](https://open.spotify.com/album/3DCGt7eg6TFrAa5tVf9zja) | 2:54 | 2022-12-02 |  |
 | [L'enfant au tambour](https://open.spotify.com/track/5sALb1rfz4Z4GPEWBVzsdK) | [Johanne Blouin](https://open.spotify.com/artist/1f8PCpHKhzkLb2y7wnijjd) | [Noël avec Johanne Blouin](https://open.spotify.com/album/3ICqbJzXdMxLefiKylcBHf) | 2:56 | 2021-12-17 | 2022-07-29 |

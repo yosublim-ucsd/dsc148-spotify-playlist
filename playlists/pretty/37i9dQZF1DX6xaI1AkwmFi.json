@@ -1,12 +1,12 @@
 {
   "description": "\u30b9\u30c8\u30ed\u30dc\u30e9\u30a4\u30c8\u306e\u3088\u3046\u306b\u5149\u308a\u8f1d\u304f\u697d\u66f2\u3067\u3001\u4eca\u65e5\u3068\u3044\u3046\u65e5\u3092\u30b9\u30bf\u30fc\u30c8\u3057\u3088\u3046\u3002 Cover art painted by <a href=\"spotify:artist:2IUl3m1H1EQ7QfNbNWvgru\">Vaundy</a>",
-  "num_followers": 22385,
+  "num_followers": 22402,
   "original_name": "\u30b9\u30c8\u30ed\u30dc",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlM2I3ZTdkMmVlYTYwZWZhNWNlNTA4MjVlM2ZjNTE0YzU4MGNkY2Jm",
+  "snapshot_id": "MCwwMWNkNGI5YjQ1MjJmODNjOWFjYzI2NzEwMGQ2OWQ4YjJmOGY0MzYw",
   "tracks": [
     {
       "added_at": "2023-11-30 22:10:32",
@@ -139,8 +139,8 @@
     {
       "added_at": "2023-11-30 22:10:32",
       "album": {
-        "name": "Love Song",
-        "url": "https://open.spotify.com/album/2mR7pRFpeDSEWbd0jj05hm"
+        "name": "Candle",
+        "url": "https://open.spotify.com/album/1Dy7aa6yDhK1X0RdrVnHhq"
       },
       "artists": [
         {
@@ -148,9 +148,9 @@
           "url": "https://open.spotify.com/artist/7oQ6zxSp4eQjvVkk9rGIDV"
         }
       ],
-      "duration_ms": 256706,
+      "duration_ms": 258306,
       "name": "Love Song",
-      "url": "https://open.spotify.com/track/0nokJDMZpEnGbC09v5Fn6T"
+      "url": "https://open.spotify.com/track/7dPdKXZjt04R6Ne7vWXZIh"
     },
     {
       "added_at": "2023-11-30 22:10:32",
@@ -487,8 +487,8 @@
     {
       "added_at": "2023-11-30 22:10:32",
       "album": {
-        "name": "Mix",
-        "url": "https://open.spotify.com/album/00p5rwTYsV62tV3RXRYZAO"
+        "name": "Candle",
+        "url": "https://open.spotify.com/album/1Dy7aa6yDhK1X0RdrVnHhq"
       },
       "artists": [
         {
@@ -496,9 +496,9 @@
           "url": "https://open.spotify.com/artist/7oQ6zxSp4eQjvVkk9rGIDV"
         }
       ],
-      "duration_ms": 209333,
+      "duration_ms": 210920,
       "name": "Mix",
-      "url": "https://open.spotify.com/track/0ObVtzwc7YEuMjDQSTQyCW"
+      "url": "https://open.spotify.com/track/4VroMacNKHZjmi2OruZzmO"
     },
     {
       "added_at": "2023-11-30 22:10:32",
@@ -679,18 +679,18 @@
     {
       "added_at": "2023-11-30 22:10:32",
       "album": {
-        "name": "GRL GVNG",
-        "url": "https://open.spotify.com/album/0s6tMsTvOqtqmFxJogsIJS"
+        "name": "replica",
+        "url": "https://open.spotify.com/album/4LWbfv8uvEF3oz7YBFxmzn"
       },
       "artists": [
         {
-          "name": "XG",
-          "url": "https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA"
+          "name": "Vaundy",
+          "url": "https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru"
         }
       ],
-      "duration_ms": 188093,
-      "name": "GRL GVNG",
-      "url": "https://open.spotify.com/track/5OqMZ8In8CkCa0SbknnDPl"
+      "duration_ms": 229328,
+      "name": "\u8e0a\u308a\u5b50",
+      "url": "https://open.spotify.com/track/1YXot2MLAG9sttepCtBRM7"
     },
     {
       "added_at": "2023-11-30 22:10:32",
@@ -715,18 +715,18 @@
     {
       "added_at": "2023-11-30 22:10:32",
       "album": {
-        "name": "replica",
-        "url": "https://open.spotify.com/album/4LWbfv8uvEF3oz7YBFxmzn"
+        "name": "GRL GVNG",
+        "url": "https://open.spotify.com/album/0s6tMsTvOqtqmFxJogsIJS"
       },
       "artists": [
         {
-          "name": "Vaundy",
-          "url": "https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru"
+          "name": "XG",
+          "url": "https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA"
         }
       ],
-      "duration_ms": 229328,
-      "name": "\u8e0a\u308a\u5b50",
-      "url": "https://open.spotify.com/track/1YXot2MLAG9sttepCtBRM7"
+      "duration_ms": 188093,
+      "name": "GRL GVNG",
+      "url": "https://open.spotify.com/track/5OqMZ8In8CkCa0SbknnDPl"
     },
     {
       "added_at": "2023-11-30 22:10:32",

@@ -4,7 +4,7 @@
 
 > Have yourself a little cozy Christmas.
 
-209 songs - 12 hr 39 min
+211 songs - 12 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [A Child's Christmas in Wales](https://open.spotify.com/track/4KCmvWOJCXFCXyY4TvH7DE) | [Al Lewis](https://open.spotify.com/artist/6uOcVdgW1WKRk2K6ufcIi7) | [A Child's Christmas in Wales](https://open.spotify.com/album/4EHx0sAHOQT805dBoiiSpf) | 3:53 | 2021-11-09 | 2022-07-29 |
 | [A Child's Christmas in Wales](https://open.spotify.com/track/4gydEH2RTA91rV5F8NkonM) | [Al Lewis](https://open.spotify.com/artist/6uOcVdgW1WKRk2K6ufcIi7) | [A Child's Christmas in Wales](https://open.spotify.com/album/2ixBkmoRp6Mnt6irGcr9B1) | 3:53 | 2022-12-09 |  |
 | [A Dreamer's Holiday](https://open.spotify.com/track/61Z8rVzYJ1NHgTlI8Q5yIC) | [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip) | [A Dreamer's Holiday](https://open.spotify.com/album/6A9z2Vf7QPQVUNuJg0Jq8E) | 3:00 | 2021-11-09 |  |
+| [All I Want For Christmas Is You](https://open.spotify.com/track/2nuskenF2KBxUb9xWaqJI5) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3), [Justin Kawika Young](https://open.spotify.com/artist/12V3c5AeHKmadjjklZACbR) | [All I Want For Christmas Is You](https://open.spotify.com/album/2zZeckG6gOtpadwIgCA8vn) | 3:01 | 2023-12-01 |  |
 | [All Is Grace](https://open.spotify.com/track/7n8i5Srn6mjSZQhVHpUrJq) | [Gerard and the Watchmen](https://open.spotify.com/artist/1Zx6dcD3aCON2ch3IgVYNC) | [Wooden Castles](https://open.spotify.com/album/1ZfTOI23jmRq3CaJ8dtfhi) | 1:50 | 2021-11-09 |  |
 | [Angel \(Holiday\)](https://open.spotify.com/track/5mb6YQWIVJ44alLjCZmGTT) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3) | [This Warm December, A Brushfire Holiday Vol\. 2](https://open.spotify.com/album/4dTpeR3SNPSp77CztAXT7T) | 2:02 | 2022-11-21 |  |
 | [Angels We Have Heard on High](https://open.spotify.com/track/41acBwmsazBajcgBiJZtJP) | [Beta Radio](https://open.spotify.com/artist/0syIRg9MPSpJIC0QCPUaHB) | [The Songs the Season Brings, Vols\. 1\-4](https://open.spotify.com/album/6GLUn1i6c7EeyGemSgddOm) | 2:14 | 2021-11-09 |  |
@@ -173,6 +174,7 @@
 | [The Christmas Song \(Chestnuts Roasting On An Open Fire\)](https://open.spotify.com/track/6NBEjaO6uf9ZCxjylkazqh) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB) | [Holidays Rule](https://open.spotify.com/album/6WYKqCoezPOWXD9UxbXyGZ) | 3:35 | 2021-11-09 |  |
 | [The First Noel](https://open.spotify.com/track/0xo74ue4eAko2WXco63cfv) | [The Ruby Pines](https://open.spotify.com/artist/4KO4HRGHPSH7HtGn8gAOpl) | [Walker in a Winter Wonderland](https://open.spotify.com/album/0UhF379fa6PvnfLTsBngqa) | 2:21 | 2021-11-09 |  |
 | [The Little Drummer Boy](https://open.spotify.com/track/5buoO4z08iVTp3i8wxtYUK) | [Jamestown Revival](https://open.spotify.com/artist/4w1ZBtHF0HxrGqQdB7i1it) | [Songs That Sleigh](https://open.spotify.com/album/2H7rl2R2NoHyviqptvA8bz) | 4:32 | 2022-12-09 |  |
+| [The Little Drummer Boy](https://open.spotify.com/track/3PS3si74boOaOC6zxf858B) | [Villagers](https://open.spotify.com/artist/2m1l9MLSslzup4vvokKgvQ), [Lisa Hannigan](https://open.spotify.com/artist/0z7Yuv7DuDQ5SaVn4VSlLt) | [The Little Drummer Boy](https://open.spotify.com/album/31DWNerPyDK7QIpaT3FAWF) | 2:56 | 2023-12-01 |  |
 | [This December](https://open.spotify.com/track/03jjfF3WRY8cUOsf8yFIVw) | [Holley Maher](https://open.spotify.com/artist/3GDAPdQP9OYzIlhd7HkbJj) | [Sorted Noise Records: A Holiday Album, Vol\. 2](https://open.spotify.com/album/5Mj8SnxH6mYUdEIV7w6sbT) | 3:56 | 2021-11-09 |  |
 | [This December](https://open.spotify.com/track/1SNpdbPokipmCJ8rTqbnrm) | [Holley Maher](https://open.spotify.com/artist/3GDAPdQP9OYzIlhd7HkbJj) | [Sorted Noise Records: A Holiday Album, Vol\. 2](https://open.spotify.com/album/18GWTfG4zqCiTR3mxtDwqY) | 3:56 | 2021-11-09 | 2022-10-19 |
 | [This December](https://open.spotify.com/track/34u4F3zFM9aZgkyBetPR8D) | [Holley Maher](https://open.spotify.com/artist/3GDAPdQP9OYzIlhd7HkbJj) | [Sorted Noise Records: A Holiday Album, Vol\. 2](https://open.spotify.com/album/5IRX3MjFCSlyJdYszpz7hq) | 3:56 | 2021-11-09 | 2022-11-13 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Watch out for all the collaborations and cross-overs in the K-Pop world! (Cover: The Kid LAROI, Jung Kook, Central Cee)",
+  "description": "Watch out for all the collaborations and cross-overs in the K-Pop world! (Cover: VCHA)",
   "name": "K-Pop X-Overs",
   "tracks": [
     {
@@ -2135,6 +2135,24 @@
     },
     {
       "album": {
+        "name": "Ready for the World",
+        "url": "https://open.spotify.com/album/4AUH5o7KAs0BpvJwH1Je77"
+      },
+      "artists": [
+        {
+          "name": "VCHA",
+          "url": "https://open.spotify.com/artist/3k6TH9knHgthYJiEVDUC2s"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185386,
+      "name": "Ready for the World",
+      "url": "https://open.spotify.com/track/1zh1cJT5qzuhb0F2S6X9ba"
+    },
+    {
+      "album": {
         "name": "Real Love Still Exists",
         "url": "https://open.spotify.com/album/7pbhkjfyhay9oP0RxqCZKt"
       },
@@ -2446,6 +2464,28 @@
       "duration_ms": 157706,
       "name": "Sour Candy (with BLACKPINK)",
       "url": "https://open.spotify.com/track/1IWNylpZ477gIVUDpJL66u"
+    },
+    {
+      "album": {
+        "name": "Standing Next to You (Usher Remix)",
+        "url": "https://open.spotify.com/album/3bKfV6NFUOd6KMCkDJyEbh"
+      },
+      "artists": [
+        {
+          "name": "Jung Kook",
+          "url": "https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc"
+        },
+        {
+          "name": "USHER",
+          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214760,
+      "name": "Standing Next to You (Usher Remix)",
+      "url": "https://open.spotify.com/track/0VPFT123HKoQ2J6ipeDcI1"
     },
     {
       "album": {

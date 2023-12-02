@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 
 > 独自の進化を遂げる日本のポップ文化。「キラキラポップ」なナンバーをひとつのプレイリストに。Curated by ふくりゅう（音楽コンシェルジュ）Cover: Billyrrom
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,648 likes - 80 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,660 likes - 80 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 | 79 | [Heartbeat](https://open.spotify.com/track/4rZJHTkmgFQ5G0SEW4d2mo) | [元松美紅](https://open.spotify.com/artist/41N9Jebt998GWt7nlUadB3) | [Heartbeat](https://open.spotify.com/album/3DB4iAfEtK2uxU1WzlHvY4) | 4:40 |
 | 80 | [You & I](https://open.spotify.com/track/72ssNVSfuvYH39CLVDGh3F) | [Emerald](https://open.spotify.com/artist/1d7tus0MFvl8SEin6MIRAs) | [You & I](https://open.spotify.com/album/45N5Sz0eCAuU90MYKF61Xl) | 4:30 |
 
-Snapshot ID: `MCw2ODM0YWEzMGJjZjVhNWQ2MzdiZDVhNmYwN2M1M2JmOTM4NWMxY2Y5`
+Snapshot ID: `MCw4OWNjOTRjZTVjZmQyMWM3NjlhNDJhZGU2OGM0MGJhNzY3NWVhYzIx`

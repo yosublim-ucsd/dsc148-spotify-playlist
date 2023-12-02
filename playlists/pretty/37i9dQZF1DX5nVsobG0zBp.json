@@ -1,12 +1,12 @@
 {
   "description": "Os maiores hits do rap portugu\u00eas dos \u00faltimos anos. Foto: ProfJam.  ",
-  "num_followers": 56008,
+  "num_followers": 56057,
   "original_name": "Rap Tuga Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMjcwOWNiMGE0YmMyMzFlMjRiZDVmY2Y2NTYyY2IyZGFhMWZlY2E0",
+  "snapshot_id": "MCwwODQ4NDNkNWZlZjM5ZTRkMGM1OWExMDY3YmU1MjBlMDg3ZjQxN2Zl",
   "tracks": [
     {
       "added_at": "2023-12-01 00:00:00",
@@ -183,42 +183,6 @@
     {
       "added_at": "2023-12-01 00:00:00",
       "album": {
-        "name": "Mo\u00e7a",
-        "url": "https://open.spotify.com/album/4FLzhhnUwKwZHLGSTaX4vz"
-      },
-      "artists": [
-        {
-          "name": "Ivandro",
-          "url": "https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm"
-        }
-      ],
-      "duration_ms": 180340,
-      "name": "Mo\u00e7a",
-      "url": "https://open.spotify.com/track/57rx7d5tagl2wOWzj3eWJc"
-    },
-    {
-      "added_at": "2023-12-01 00:00:00",
-      "album": {
-        "name": "ROSAS",
-        "url": "https://open.spotify.com/album/2R7iGYEwaSDTW68ucY9W4E"
-      },
-      "artists": [
-        {
-          "name": "Kappa Jotta",
-          "url": "https://open.spotify.com/artist/2MREhFiavCOZXs0thPLuWu"
-        },
-        {
-          "name": "MUN",
-          "url": "https://open.spotify.com/artist/0XWmIDUMxka9p2aayQ9MOr"
-        }
-      ],
-      "duration_ms": 177272,
-      "name": "ROSAS",
-      "url": "https://open.spotify.com/track/0elz4WC9ZtAOzqP4fgt8T5"
-    },
-    {
-      "added_at": "2023-12-01 00:00:00",
-      "album": {
         "name": "3,14",
         "url": "https://open.spotify.com/album/6G62obmFgI2yyK36htUzOe"
       },
@@ -243,6 +207,42 @@
     {
       "added_at": "2023-12-01 00:00:00",
       "album": {
+        "name": "ROSAS",
+        "url": "https://open.spotify.com/album/2R7iGYEwaSDTW68ucY9W4E"
+      },
+      "artists": [
+        {
+          "name": "Kappa Jotta",
+          "url": "https://open.spotify.com/artist/2MREhFiavCOZXs0thPLuWu"
+        },
+        {
+          "name": "MUN",
+          "url": "https://open.spotify.com/artist/0XWmIDUMxka9p2aayQ9MOr"
+        }
+      ],
+      "duration_ms": 177272,
+      "name": "ROSAS",
+      "url": "https://open.spotify.com/track/0elz4WC9ZtAOzqP4fgt8T5"
+    },
+    {
+      "added_at": "2023-12-01 00:00:00",
+      "album": {
+        "name": "Mo\u00e7a",
+        "url": "https://open.spotify.com/album/4FLzhhnUwKwZHLGSTaX4vz"
+      },
+      "artists": [
+        {
+          "name": "Ivandro",
+          "url": "https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm"
+        }
+      ],
+      "duration_ms": 180340,
+      "name": "Mo\u00e7a",
+      "url": "https://open.spotify.com/track/57rx7d5tagl2wOWzj3eWJc"
+    },
+    {
+      "added_at": "2023-12-01 00:00:00",
+      "album": {
         "name": "Borboletas",
         "url": "https://open.spotify.com/album/1i51I1eMbdhkaH8AShzWjh"
       },
@@ -259,8 +259,8 @@
     {
       "added_at": "2023-12-01 00:00:00",
       "album": {
-        "name": "Tempo",
-        "url": "https://open.spotify.com/album/2pKQrzkVd8J95Ehh0pgRU3"
+        "name": "Imagina",
+        "url": "https://open.spotify.com/album/2C1S5oONnsIYEgvaNf1KWh"
       },
       "artists": [
         {
@@ -268,21 +268,17 @@
           "url": "https://open.spotify.com/artist/4p2ytjUztJseG5ujVkv5Po"
         },
         {
-          "name": "T-Rex",
-          "url": "https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk"
+          "name": "Slow J",
+          "url": "https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0"
         },
         {
-          "name": "LON3R JOHNY",
-          "url": "https://open.spotify.com/artist/1fV7Au7ymGP3uhDV1TfjSd"
-        },
-        {
-          "name": "Bispo",
-          "url": "https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY"
+          "name": "Ivandro",
+          "url": "https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm"
         }
       ],
-      "duration_ms": 250169,
-      "name": "Tempo",
-      "url": "https://open.spotify.com/track/19gFXFDAFUdsuaiAorKEbr"
+      "duration_ms": 223100,
+      "name": "Imagina",
+      "url": "https://open.spotify.com/track/2dWbucCC3cVXQWi6JaL7js"
     },
     {
       "added_at": "2023-12-01 00:00:00",
@@ -419,8 +415,8 @@
     {
       "added_at": "2023-12-01 00:00:00",
       "album": {
-        "name": "Imagina",
-        "url": "https://open.spotify.com/album/2C1S5oONnsIYEgvaNf1KWh"
+        "name": "Tempo",
+        "url": "https://open.spotify.com/album/2pKQrzkVd8J95Ehh0pgRU3"
       },
       "artists": [
         {
@@ -428,17 +424,21 @@
           "url": "https://open.spotify.com/artist/4p2ytjUztJseG5ujVkv5Po"
         },
         {
-          "name": "Slow J",
-          "url": "https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0"
+          "name": "T-Rex",
+          "url": "https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk"
         },
         {
-          "name": "Ivandro",
-          "url": "https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm"
+          "name": "LON3R JOHNY",
+          "url": "https://open.spotify.com/artist/1fV7Au7ymGP3uhDV1TfjSd"
+        },
+        {
+          "name": "Bispo",
+          "url": "https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY"
         }
       ],
-      "duration_ms": 223100,
-      "name": "Imagina",
-      "url": "https://open.spotify.com/track/2dWbucCC3cVXQWi6JaL7js"
+      "duration_ms": 250169,
+      "name": "Tempo",
+      "url": "https://open.spotify.com/track/19gFXFDAFUdsuaiAorKEbr"
     },
     {
       "added_at": "2023-12-01 00:00:00",
@@ -511,22 +511,18 @@
     {
       "added_at": "2023-12-01 00:00:00",
       "album": {
-        "name": "#FFFFFF",
-        "url": "https://open.spotify.com/album/4OltHlGzkBCjBkbWtJyO5E"
+        "name": "Galileu",
+        "url": "https://open.spotify.com/album/031weUuUvb1pPjah41hwyg"
       },
       "artists": [
         {
-          "name": "ProfJam",
-          "url": "https://open.spotify.com/artist/3DhsjXVgWmA6X26tUugAjP"
-        },
-        {
-          "name": "Lhast",
-          "url": "https://open.spotify.com/artist/46uaNKR4GSjmDEK732EeVw"
+          "name": "Dillaz",
+          "url": "https://open.spotify.com/artist/15p1isN7VcGsjeSq8s9YeP"
         }
       ],
-      "duration_ms": 191679,
-      "name": "Tou Bem (feat. Lhast)",
-      "url": "https://open.spotify.com/track/0gzwa0yJncSs29DjXajA5i"
+      "duration_ms": 182362,
+      "name": "Galileu",
+      "url": "https://open.spotify.com/track/3i7DYnwcLwCUHyaJlEh3od"
     },
     {
       "added_at": "2023-12-01 00:00:00",
@@ -547,18 +543,22 @@
     {
       "added_at": "2023-12-01 00:00:00",
       "album": {
-        "name": "Galileu",
-        "url": "https://open.spotify.com/album/031weUuUvb1pPjah41hwyg"
+        "name": "#FFFFFF",
+        "url": "https://open.spotify.com/album/4OltHlGzkBCjBkbWtJyO5E"
       },
       "artists": [
         {
-          "name": "Dillaz",
-          "url": "https://open.spotify.com/artist/15p1isN7VcGsjeSq8s9YeP"
+          "name": "ProfJam",
+          "url": "https://open.spotify.com/artist/3DhsjXVgWmA6X26tUugAjP"
+        },
+        {
+          "name": "Lhast",
+          "url": "https://open.spotify.com/artist/46uaNKR4GSjmDEK732EeVw"
         }
       ],
-      "duration_ms": 182362,
-      "name": "Galileu",
-      "url": "https://open.spotify.com/track/3i7DYnwcLwCUHyaJlEh3od"
+      "duration_ms": 191679,
+      "name": "Tou Bem (feat. Lhast)",
+      "url": "https://open.spotify.com/track/0gzwa0yJncSs29DjXajA5i"
     },
     {
       "added_at": "2023-12-01 00:00:00",
@@ -595,6 +595,22 @@
     {
       "added_at": "2023-12-01 00:00:00",
       "album": {
+        "name": "Juvena",
+        "url": "https://open.spotify.com/album/0C3QVzznGSXSAw9QmNVpbc"
+      },
+      "artists": [
+        {
+          "name": "Dillaz",
+          "url": "https://open.spotify.com/artist/15p1isN7VcGsjeSq8s9YeP"
+        }
+      ],
+      "duration_ms": 159452,
+      "name": "Juvena",
+      "url": "https://open.spotify.com/track/6vbFZuziJPaFPRCWyQxOxP"
+    },
+    {
+      "added_at": "2023-12-01 00:00:00",
+      "album": {
         "name": "Mechelas",
         "url": "https://open.spotify.com/album/0QMmMOUt3WxYg2BwZNn7F1"
       },
@@ -623,38 +639,6 @@
       "duration_ms": 233247,
       "name": "S\u00e3o Paulo",
       "url": "https://open.spotify.com/track/20cn2KYYgyuxXRC3WynYZn"
-    },
-    {
-      "added_at": "2023-12-01 00:00:00",
-      "album": {
-        "name": "Desconfinamento",
-        "url": "https://open.spotify.com/album/2gelzQflEo0NtA8xE7pHlI"
-      },
-      "artists": [
-        {
-          "name": "Deejay Telio",
-          "url": "https://open.spotify.com/artist/7BWNRZyZ9mhgp5t0m7Ny0n"
-        }
-      ],
-      "duration_ms": 186139,
-      "name": "Desconfinamento",
-      "url": "https://open.spotify.com/track/2uaceelHxzFYnhLec89RpE"
-    },
-    {
-      "added_at": "2023-12-01 00:00:00",
-      "album": {
-        "name": "Juvena",
-        "url": "https://open.spotify.com/album/0C3QVzznGSXSAw9QmNVpbc"
-      },
-      "artists": [
-        {
-          "name": "Dillaz",
-          "url": "https://open.spotify.com/artist/15p1isN7VcGsjeSq8s9YeP"
-        }
-      ],
-      "duration_ms": 159452,
-      "name": "Juvena",
-      "url": "https://open.spotify.com/track/6vbFZuziJPaFPRCWyQxOxP"
     },
     {
       "added_at": "2023-12-01 00:00:00",
@@ -711,6 +695,22 @@
     {
       "added_at": "2023-12-01 00:00:00",
       "album": {
+        "name": "Desconfinamento",
+        "url": "https://open.spotify.com/album/2gelzQflEo0NtA8xE7pHlI"
+      },
+      "artists": [
+        {
+          "name": "Deejay Telio",
+          "url": "https://open.spotify.com/artist/7BWNRZyZ9mhgp5t0m7Ny0n"
+        }
+      ],
+      "duration_ms": 186139,
+      "name": "Desconfinamento",
+      "url": "https://open.spotify.com/track/2uaceelHxzFYnhLec89RpE"
+    },
+    {
+      "added_at": "2023-12-01 00:00:00",
+      "album": {
         "name": "Lisabona",
         "url": "https://open.spotify.com/album/3xaElN6GIqBAmlNFrJGgHN"
       },
@@ -755,6 +755,22 @@
       "duration_ms": 168133,
       "name": "Mi\u00fada",
       "url": "https://open.spotify.com/track/1DHQcaZMENKPt8KBQgIr25"
+    },
+    {
+      "added_at": "2023-12-01 00:00:00",
+      "album": {
+        "name": "00 Fala Bonito",
+        "url": "https://open.spotify.com/album/0y2uZwLfbyL1FCwjmMb5Iv"
+      },
+      "artists": [
+        {
+          "name": "Papillon",
+          "url": "https://open.spotify.com/artist/0Mum6waR8P9WICLVTpSi1d"
+        }
+      ],
+      "duration_ms": 212093,
+      "name": "00 Fala Bonito",
+      "url": "https://open.spotify.com/track/3ZJC7xO1GdWF5rj8VqXU2C"
     },
     {
       "added_at": "2023-12-01 00:00:00",
@@ -835,22 +851,6 @@
     {
       "added_at": "2023-12-01 00:00:00",
       "album": {
-        "name": "00 Fala Bonito",
-        "url": "https://open.spotify.com/album/0y2uZwLfbyL1FCwjmMb5Iv"
-      },
-      "artists": [
-        {
-          "name": "Papillon",
-          "url": "https://open.spotify.com/artist/0Mum6waR8P9WICLVTpSi1d"
-        }
-      ],
-      "duration_ms": 212093,
-      "name": "00 Fala Bonito",
-      "url": "https://open.spotify.com/track/3ZJC7xO1GdWF5rj8VqXU2C"
-    },
-    {
-      "added_at": "2023-12-01 00:00:00",
-      "album": {
         "name": "MINA D'OURO",
         "url": "https://open.spotify.com/album/7uTknfX0WjeP7j1ucunTrF"
       },
@@ -907,42 +907,6 @@
     {
       "added_at": "2023-12-01 00:00:00",
       "album": {
-        "name": "Na Via",
-        "url": "https://open.spotify.com/album/7eCky9hSeUAwE8tKWWordR"
-      },
-      "artists": [
-        {
-          "name": "GROGNation",
-          "url": "https://open.spotify.com/artist/1rtrFjartQj3xws8TZ1dXu"
-        },
-        {
-          "name": "Filipe Gon\u00e7alves",
-          "url": "https://open.spotify.com/artist/63PA6qLxy0FJNUxT00SctL"
-        }
-      ],
-      "duration_ms": 290736,
-      "name": "Voodoo",
-      "url": "https://open.spotify.com/track/4siqPZx55JCfT7yhK19y9w"
-    },
-    {
-      "added_at": "2023-12-01 00:00:00",
-      "album": {
-        "name": "Tranquilo",
-        "url": "https://open.spotify.com/album/1qhBvfD0i324wwBlU0QZxD"
-      },
-      "artists": [
-        {
-          "name": "Arag\u00e3o",
-          "url": "https://open.spotify.com/artist/6uVPyqbCsr2hcfDwGTmdl4"
-        }
-      ],
-      "duration_ms": 263131,
-      "name": "Tranquilo",
-      "url": "https://open.spotify.com/track/1fobXPCu47gikLMIoyQBLy"
-    },
-    {
-      "added_at": "2023-12-01 00:00:00",
-      "album": {
         "name": "#FFFFFF",
         "url": "https://open.spotify.com/album/4OltHlGzkBCjBkbWtJyO5E"
       },
@@ -963,22 +927,6 @@
     {
       "added_at": "2023-12-01 00:00:00",
       "album": {
-        "name": "Dama & Vagabundo",
-        "url": "https://open.spotify.com/album/4BKUmz50VANU1McCxFG9oM"
-      },
-      "artists": [
-        {
-          "name": "X-Tense",
-          "url": "https://open.spotify.com/artist/7JajP35zM35gnAvTZbwxDF"
-        }
-      ],
-      "duration_ms": 313825,
-      "name": "Dama & Vagabundo",
-      "url": "https://open.spotify.com/track/2u1LLm7B1yUggZfMyaZjk9"
-    },
-    {
-      "added_at": "2023-12-01 00:00:00",
-      "album": {
         "name": "Pontos Finais",
         "url": "https://open.spotify.com/album/5kytfMGwFyzMPcwJfmmCzg"
       },
@@ -991,6 +939,58 @@
       "duration_ms": 194039,
       "name": "Pontos Finais",
       "url": "https://open.spotify.com/track/4YNdviC7wvO6oTdMm8z40S"
+    },
+    {
+      "added_at": "2023-12-01 00:00:00",
+      "album": {
+        "name": "Tranquilo",
+        "url": "https://open.spotify.com/album/1qhBvfD0i324wwBlU0QZxD"
+      },
+      "artists": [
+        {
+          "name": "Arag\u00e3o",
+          "url": "https://open.spotify.com/artist/6uVPyqbCsr2hcfDwGTmdl4"
+        }
+      ],
+      "duration_ms": 263131,
+      "name": "Tranquilo",
+      "url": "https://open.spotify.com/track/1fobXPCu47gikLMIoyQBLy"
+    },
+    {
+      "added_at": "2023-12-01 00:00:00",
+      "album": {
+        "name": "Na Via",
+        "url": "https://open.spotify.com/album/7eCky9hSeUAwE8tKWWordR"
+      },
+      "artists": [
+        {
+          "name": "GROGNation",
+          "url": "https://open.spotify.com/artist/1rtrFjartQj3xws8TZ1dXu"
+        },
+        {
+          "name": "Filipe Gon\u00e7alves",
+          "url": "https://open.spotify.com/artist/63PA6qLxy0FJNUxT00SctL"
+        }
+      ],
+      "duration_ms": 290736,
+      "name": "Voodoo",
+      "url": "https://open.spotify.com/track/4siqPZx55JCfT7yhK19y9w"
+    },
+    {
+      "added_at": "2023-12-01 00:00:00",
+      "album": {
+        "name": "Dama & Vagabundo",
+        "url": "https://open.spotify.com/album/4BKUmz50VANU1McCxFG9oM"
+      },
+      "artists": [
+        {
+          "name": "X-Tense",
+          "url": "https://open.spotify.com/artist/7JajP35zM35gnAvTZbwxDF"
+        }
+      ],
+      "duration_ms": 313825,
+      "name": "Dama & Vagabundo",
+      "url": "https://open.spotify.com/track/2u1LLm7B1yUggZfMyaZjk9"
     },
     {
       "added_at": "2023-12-01 00:00:00",
@@ -1103,26 +1103,6 @@
     {
       "added_at": "2023-12-01 00:00:00",
       "album": {
-        "name": "Bolero",
-        "url": "https://open.spotify.com/album/5rRtrYZiRhOcj6WDD4BhuT"
-      },
-      "artists": [
-        {
-          "name": "X-Tense",
-          "url": "https://open.spotify.com/artist/7JajP35zM35gnAvTZbwxDF"
-        },
-        {
-          "name": "Los Cavakitos",
-          "url": "https://open.spotify.com/artist/3maUA3E2H0Yyugw8MsEeJi"
-        }
-      ],
-      "duration_ms": 260301,
-      "name": "Bolero",
-      "url": "https://open.spotify.com/track/7mdE30Ov4in9UOCUcQiIK0"
-    },
-    {
-      "added_at": "2023-12-01 00:00:00",
-      "album": {
         "name": "Paz",
         "url": "https://open.spotify.com/album/2s1TkBbHp7JxsQGCG9cVKg"
       },
@@ -1155,6 +1135,62 @@
     {
       "added_at": "2023-12-01 00:00:00",
       "album": {
+        "name": "Dado",
+        "url": "https://open.spotify.com/album/5iEcD9LQ9XzPYL5E3fckjn"
+      },
+      "artists": [
+        {
+          "name": "Rony Fuego",
+          "url": "https://open.spotify.com/artist/0DxsiYPUEWLY4HjaUDM8Lk"
+        },
+        {
+          "name": "DreNaz",
+          "url": "https://open.spotify.com/artist/5urWzy2mamyT5sMTE5H00O"
+        }
+      ],
+      "duration_ms": 207720,
+      "name": "Dado",
+      "url": "https://open.spotify.com/track/2JfAp9d5Y1S4tfQTfgY6qJ"
+    },
+    {
+      "added_at": "2023-12-01 00:00:00",
+      "album": {
+        "name": "Bolero",
+        "url": "https://open.spotify.com/album/5rRtrYZiRhOcj6WDD4BhuT"
+      },
+      "artists": [
+        {
+          "name": "X-Tense",
+          "url": "https://open.spotify.com/artist/7JajP35zM35gnAvTZbwxDF"
+        },
+        {
+          "name": "Los Cavakitos",
+          "url": "https://open.spotify.com/artist/3maUA3E2H0Yyugw8MsEeJi"
+        }
+      ],
+      "duration_ms": 260301,
+      "name": "Bolero",
+      "url": "https://open.spotify.com/track/7mdE30Ov4in9UOCUcQiIK0"
+    },
+    {
+      "added_at": "2023-12-01 00:00:00",
+      "album": {
+        "name": "Conclus\u00e3o",
+        "url": "https://open.spotify.com/album/44Hs7uBI8i9aJlDp2nkQxE"
+      },
+      "artists": [
+        {
+          "name": "Julinho Ksd",
+          "url": "https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6"
+        }
+      ],
+      "duration_ms": 147820,
+      "name": "Conclus\u00e3o",
+      "url": "https://open.spotify.com/track/3POu1ffLnehBhpNGuaaOG3"
+    },
+    {
+      "added_at": "2023-12-01 00:00:00",
+      "album": {
         "name": "SAFE (feat. Lhast, LON3R JOHNY & 9 Miller)",
         "url": "https://open.spotify.com/album/4c327lXMvrvL8c5ChWcwq2"
       },
@@ -1183,22 +1219,6 @@
     {
       "added_at": "2023-12-01 00:00:00",
       "album": {
-        "name": "Conclus\u00e3o",
-        "url": "https://open.spotify.com/album/44Hs7uBI8i9aJlDp2nkQxE"
-      },
-      "artists": [
-        {
-          "name": "Julinho Ksd",
-          "url": "https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6"
-        }
-      ],
-      "duration_ms": 147820,
-      "name": "Conclus\u00e3o",
-      "url": "https://open.spotify.com/track/3POu1ffLnehBhpNGuaaOG3"
-    },
-    {
-      "added_at": "2023-12-01 00:00:00",
-      "album": {
         "name": "ES7\u00c1DIO",
         "url": "https://open.spotify.com/album/4ix8vvB3aP45fYYsZobRLq"
       },
@@ -1223,42 +1243,6 @@
     {
       "added_at": "2023-12-01 00:00:00",
       "album": {
-        "name": "P de Pablito",
-        "url": "https://open.spotify.com/album/7BkBkdAwb0X7pbIBjP9zzF"
-      },
-      "artists": [
-        {
-          "name": "X-Tense",
-          "url": "https://open.spotify.com/artist/7JajP35zM35gnAvTZbwxDF"
-        }
-      ],
-      "duration_ms": 182000,
-      "name": "P de Pablito",
-      "url": "https://open.spotify.com/track/5iZdN7FwGMBBaYsPP5DO8l"
-    },
-    {
-      "added_at": "2023-12-01 00:00:00",
-      "album": {
-        "name": "Dado",
-        "url": "https://open.spotify.com/album/5iEcD9LQ9XzPYL5E3fckjn"
-      },
-      "artists": [
-        {
-          "name": "Rony Fuego",
-          "url": "https://open.spotify.com/artist/0DxsiYPUEWLY4HjaUDM8Lk"
-        },
-        {
-          "name": "DreNaz",
-          "url": "https://open.spotify.com/artist/5urWzy2mamyT5sMTE5H00O"
-        }
-      ],
-      "duration_ms": 207720,
-      "name": "Dado",
-      "url": "https://open.spotify.com/track/2JfAp9d5Y1S4tfQTfgY6qJ"
-    },
-    {
-      "added_at": "2023-12-01 00:00:00",
-      "album": {
         "name": "Espiritual",
         "url": "https://open.spotify.com/album/7xTaxeHz6oesIEjdahzG7O"
       },
@@ -1279,6 +1263,22 @@
     {
       "added_at": "2023-12-01 00:00:00",
       "album": {
+        "name": "Malandro",
+        "url": "https://open.spotify.com/album/5HpKHknhyCUqa0dcToXWFe"
+      },
+      "artists": [
+        {
+          "name": "Arag\u00e3o",
+          "url": "https://open.spotify.com/artist/6uVPyqbCsr2hcfDwGTmdl4"
+        }
+      ],
+      "duration_ms": 210675,
+      "name": "Malandro",
+      "url": "https://open.spotify.com/track/1QBBBnxF3xD0Gu5kHXk8oB"
+    },
+    {
+      "added_at": "2023-12-01 00:00:00",
+      "album": {
         "name": "Hoji N'ka ta Rola",
         "url": "https://open.spotify.com/album/3IaC88OL226GYBYBTn3KBR"
       },
@@ -1295,18 +1295,18 @@
     {
       "added_at": "2023-12-01 00:00:00",
       "album": {
-        "name": "Malandro",
-        "url": "https://open.spotify.com/album/5HpKHknhyCUqa0dcToXWFe"
+        "name": "P de Pablito",
+        "url": "https://open.spotify.com/album/7BkBkdAwb0X7pbIBjP9zzF"
       },
       "artists": [
         {
-          "name": "Arag\u00e3o",
-          "url": "https://open.spotify.com/artist/6uVPyqbCsr2hcfDwGTmdl4"
+          "name": "X-Tense",
+          "url": "https://open.spotify.com/artist/7JajP35zM35gnAvTZbwxDF"
         }
       ],
-      "duration_ms": 210675,
-      "name": "Malandro",
-      "url": "https://open.spotify.com/track/1QBBBnxF3xD0Gu5kHXk8oB"
+      "duration_ms": 182000,
+      "name": "P de Pablito",
+      "url": "https://open.spotify.com/track/5iZdN7FwGMBBaYsPP5DO8l"
     },
     {
       "added_at": "2023-12-01 00:00:00",
@@ -1359,26 +1359,6 @@
       "duration_ms": 234893,
       "name": "STAY FLY",
       "url": "https://open.spotify.com/track/2QTqMOfniBv3Y0GWkJa5bZ"
-    },
-    {
-      "added_at": "2023-12-01 00:00:00",
-      "album": {
-        "name": "O Re$To",
-        "url": "https://open.spotify.com/album/6iXe2Fi1uFGc06A2LFEjGg"
-      },
-      "artists": [
-        {
-          "name": "X-Tense",
-          "url": "https://open.spotify.com/artist/7JajP35zM35gnAvTZbwxDF"
-        },
-        {
-          "name": "DJ HYPE MYKE",
-          "url": "https://open.spotify.com/artist/1QJNTcEVJfb5qVsMvtA5ch"
-        }
-      ],
-      "duration_ms": 304600,
-      "name": "O Re$To",
-      "url": "https://open.spotify.com/track/6Esm2XoX3JwEkCQLybx03R"
     },
     {
       "added_at": "2023-12-01 00:00:00",
@@ -1443,6 +1423,26 @@
       "duration_ms": 207658,
       "name": "Morte do Artista",
       "url": "https://open.spotify.com/track/049X01PzvnR4faZt2I3eXr"
+    },
+    {
+      "added_at": "2023-12-01 00:00:00",
+      "album": {
+        "name": "2020 (feat. Slow J)",
+        "url": "https://open.spotify.com/album/41L3sIZeJUDGhh2xMsSlEQ"
+      },
+      "artists": [
+        {
+          "name": "Lhast",
+          "url": "https://open.spotify.com/artist/46uaNKR4GSjmDEK732EeVw"
+        },
+        {
+          "name": "Slow J",
+          "url": "https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0"
+        }
+      ],
+      "duration_ms": 203812,
+      "name": "2020 (feat. Slow J)",
+      "url": "https://open.spotify.com/track/19J1fuhnZdlDM7UNM7SUjS"
     }
   ],
   "unique_name": "Rap Tuga Hits",

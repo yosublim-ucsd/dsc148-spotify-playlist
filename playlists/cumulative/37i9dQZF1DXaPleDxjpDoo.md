@@ -4,7 +4,7 @@
 
 > Bathe in Ambient and nature sounds and reconnect to nature, with the Japanese practice of shinrin yoku.
 
-119 songs - 6 hr 35 min
+120 songs - 6 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,7 +49,7 @@
 | [Forest Dwelling](https://open.spotify.com/track/0n7atpg512cdKCTxkVi2nR) | [Nailah Hunter](https://open.spotify.com/artist/6j9xL4IBj8sZNjRiQhx8oF) | [Forest Dwelling](https://open.spotify.com/album/0jNWQHzzYcS1fPjzNsTAGE) | 32:33 | 2022-09-15 | 2022-12-10 |
 | [Forest Meditation](https://open.spotify.com/track/7rbdKNARg0eWP3H1bvkZbi) | [Naturalists](https://open.spotify.com/artist/1sp0zRK6eY8NaAYAjBJoAf) | [Forest Meditation](https://open.spotify.com/album/3xkbtsbWXCVPsuJCORRtTO) | 2:34 | 2022-09-15 |  |
 | [Forest Retreat](https://open.spotify.com/track/2nwXJsVdoGX0HLhWhs1TPH) | [Memories of the Forgotten](https://open.spotify.com/artist/5OUR7rNt23Phqm1l40YCYD) | [Forest Retreat](https://open.spotify.com/album/6bAVs5tz1Egkv8hD5RV3zT) | 2:50 | 2023-11-24 |  |
-| [Forest Symphony](https://open.spotify.com/track/2BH393CXcxt4c8KgA77WZK) | [Sonic Being](https://open.spotify.com/artist/6IEjVEVLQvv1NLUyxyfL36) | [Forest Symphony](https://open.spotify.com/album/4aiuc9wKH99sGi7EO4W7LY) | 3:02 | 2022-09-15 |  |
+| [Forest Symphony](https://open.spotify.com/track/2BH393CXcxt4c8KgA77WZK) | [Sonic Being](https://open.spotify.com/artist/6IEjVEVLQvv1NLUyxyfL36) | [Forest Symphony](https://open.spotify.com/album/4aiuc9wKH99sGi7EO4W7LY) | 3:02 | 2022-09-15 | 2023-12-02 |
 | [Forest Winds](https://open.spotify.com/track/38NsLOCPyA8E4Q7IaAG43X) | [Verala Lux](https://open.spotify.com/artist/2zTDYjWYdea2V7ZXILRLKW) | [Forest Winds](https://open.spotify.com/album/0XMxYcUmfaQS4VTtfSljfe) | 2:00 | 2023-09-08 |  |
 | [Frozen Sunlight](https://open.spotify.com/track/02tb4HZydiOwErys8qitIc) | [Sun Echo](https://open.spotify.com/artist/4jhzzWw1hUD1WeZT73WW4D), [Whispering Landscapes](https://open.spotify.com/artist/7myvpdTsqwTbYbdaFcR5r9) | [Frozen Sunlight](https://open.spotify.com/album/585o7QhQ8LporxUlnbMR8b) | 3:30 | 2022-10-14 | 2023-11-11 |
 | [Gentle Gust \- Spa](https://open.spotify.com/track/2AGaTt3uGaf0DrZSwdr5Hy) | [Endel](https://open.spotify.com/artist/3JNr31WfX56vgwBuIcdOt4) | [Gentle Gust](https://open.spotify.com/album/3IXkjFISn7juqyt56lY9ao) | 3:12 | 2023-03-23 |  |
@@ -96,6 +96,7 @@
 | [Pristine Serenity](https://open.spotify.com/track/2CttcShYdFruE99bOglV8x) | [Calmatics](https://open.spotify.com/artist/37sS66WbTIbdn4ewquyWhw) | [Pristine Serenity](https://open.spotify.com/album/6AcVoBF3DeDJyDy8OrQXEM) | 2:40 | 2022-09-30 |  |
 | [Radiance](https://open.spotify.com/track/09j78GCloYLj0f1MG1V6h0) | [Coherent Energy](https://open.spotify.com/artist/7JjVTrxF7P0Vu0pXIIwsXP) | [Radiance](https://open.spotify.com/album/4bzmUK9MSQoKeQZk4VzpZQ) | 2:13 | 2022-10-14 |  |
 | [Recovery](https://open.spotify.com/track/2ieNJNNIwKIiT68JKVNv9I) | [Inner Purpose](https://open.spotify.com/artist/5Oy46V4li9PKCzp6bBxxd7) | [Recovery](https://open.spotify.com/album/31vutoDOOQeWJWo3B1s45F) | 3:12 | 2023-10-13 |  |
+| [Reverie in the Trees \(Sound Bath\)](https://open.spotify.com/track/5RWb9UQffYkIRJplHoZnQ5) | [Miyasato Mana](https://open.spotify.com/artist/5OcbNTR6HjYavfDrHplvav) | [Reverie in the Trees \(Sound Bath\)](https://open.spotify.com/album/6DEyaXzlZ8i2RhisVMLSdo) | 2:53 | 2023-12-01 |  |
 | [Sacred Groves](https://open.spotify.com/track/04cZKVBULr2VKl7VwquEUF) | [Forest for Rest](https://open.spotify.com/artist/2ZM2iTRxvp6d9QnnJvKpt3) | [Silent Mind](https://open.spotify.com/album/45La9VqG8XymSR0sul7XAp) | 2:01 | 2022-09-15 |  |
 | [Secrets of the Forest](https://open.spotify.com/track/7rVg5IaSVhulVdXpIUbZcR) | [Zonyoh](https://open.spotify.com/artist/7o9aQXbCxoLm0QqpQX5TZx) | [Secrets of the Forest](https://open.spotify.com/album/1MMXk8aJ4rCi8tBrKXa433) | 2:55 | 2022-09-15 | 2023-09-23 |
 | [Self Empathy \- Night Version](https://open.spotify.com/track/3M1zoke7AguNqJls0YVIGz) | [Raf21](https://open.spotify.com/artist/5fzZ93Y7teAEqppKqLAlR8), [Raphael Beaudon](https://open.spotify.com/artist/4XbEtxj5AxINGaASuk3KD6) | [Self Empathy](https://open.spotify.com/album/0F9UrVkjArSjtuLEpg4qiw) | 2:38 | 2022-10-14 | 2023-11-25 |

@@ -1,12 +1,12 @@
 {
   "description": "Blissful indie for dreamers.",
-  "num_followers": 298810,
+  "num_followers": 298874,
   "original_name": "Dreampop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzOWNlOTg0NDczYTcwMzRkYThhNzQ5MWQzMTNjYjg4NzQzMjQ4MjE4",
+  "snapshot_id": "MCxjOGFiMjQ2N2JiNzI1NTg4MWU1MTVhZGFiNzM1NTExZWE3Mzg0NmQx",
   "tracks": [
     {
       "added_at": "2023-07-21 10:37:28",
@@ -409,22 +409,6 @@
       "url": "https://open.spotify.com/track/4Y273Gix47holXvTP9hGpj"
     },
     {
-      "added_at": "2023-07-21 10:37:28",
-      "album": {
-        "name": "Days",
-        "url": "https://open.spotify.com/album/3jUF9M3uQuvXz1n7WUC3vc"
-      },
-      "artists": [
-        {
-          "name": "No Vacation",
-          "url": "https://open.spotify.com/artist/32zeX1IoVKAGWMyy1isKUq"
-        }
-      ],
-      "duration_ms": 320328,
-      "name": "Days",
-      "url": "https://open.spotify.com/track/77YVeXd29xVJrJdGQRJNYp"
-    },
-    {
       "added_at": "2023-09-29 10:51:04",
       "album": {
         "name": "Sit Down for Dinner",
@@ -439,6 +423,22 @@
       "duration_ms": 315005,
       "name": "Snowman",
       "url": "https://open.spotify.com/track/6gGKU1PSWNdLyjiURjfPil"
+    },
+    {
+      "added_at": "2023-07-21 10:37:28",
+      "album": {
+        "name": "Days",
+        "url": "https://open.spotify.com/album/3jUF9M3uQuvXz1n7WUC3vc"
+      },
+      "artists": [
+        {
+          "name": "No Vacation",
+          "url": "https://open.spotify.com/artist/32zeX1IoVKAGWMyy1isKUq"
+        }
+      ],
+      "duration_ms": 320328,
+      "name": "Days",
+      "url": "https://open.spotify.com/track/77YVeXd29xVJrJdGQRJNYp"
     },
     {
       "added_at": "2023-07-21 10:37:28",
@@ -667,22 +667,6 @@
     {
       "added_at": "2023-07-21 10:37:28",
       "album": {
-        "name": "Space Between Us",
-        "url": "https://open.spotify.com/album/6ZoG8UIgbpue4NGJ3x9VS8"
-      },
-      "artists": [
-        {
-          "name": "VHS Collection",
-          "url": "https://open.spotify.com/artist/2Nvaq4y2ygxIqfwXyz0HeH"
-        }
-      ],
-      "duration_ms": 239360,
-      "name": "Space Between Us",
-      "url": "https://open.spotify.com/track/0RuQddbj6LGbMq1CzzPgGj"
-    },
-    {
-      "added_at": "2023-07-21 10:37:28",
-      "album": {
         "name": "Ways To Get Out",
         "url": "https://open.spotify.com/album/54oELqxteSoJx5I6bqQ3vI"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 225848,
       "name": "Our Past Lives",
       "url": "https://open.spotify.com/track/25WP1r39qdLD9RQjlxgwDr"
+    },
+    {
+      "added_at": "2023-07-21 10:37:28",
+      "album": {
+        "name": "Space Between Us",
+        "url": "https://open.spotify.com/album/6ZoG8UIgbpue4NGJ3x9VS8"
+      },
+      "artists": [
+        {
+          "name": "VHS Collection",
+          "url": "https://open.spotify.com/artist/2Nvaq4y2ygxIqfwXyz0HeH"
+        }
+      ],
+      "duration_ms": 239360,
+      "name": "Space Between Us",
+      "url": "https://open.spotify.com/track/0RuQddbj6LGbMq1CzzPgGj"
     },
     {
       "added_at": "2023-07-21 10:37:28",
@@ -735,22 +735,6 @@
     {
       "added_at": "2023-07-21 10:37:28",
       "album": {
-        "name": "House Of Mirrors",
-        "url": "https://open.spotify.com/album/075wMeSFPWCvDVNKzRPOlC"
-      },
-      "artists": [
-        {
-          "name": "Softcult",
-          "url": "https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0"
-        }
-      ],
-      "duration_ms": 191072,
-      "name": "House Of Mirrors",
-      "url": "https://open.spotify.com/track/3zFqzq75hxehVM6DkCSORU"
-    },
-    {
-      "added_at": "2023-07-21 10:37:28",
-      "album": {
         "name": "Fantasy",
         "url": "https://open.spotify.com/album/7B6lEObl7aYkMjX8M89IRQ"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 400037,
       "name": "Earth To Sea",
       "url": "https://open.spotify.com/track/2njyI8ksGaS9H0K3OZxVpp"
+    },
+    {
+      "added_at": "2023-07-21 10:37:28",
+      "album": {
+        "name": "House Of Mirrors",
+        "url": "https://open.spotify.com/album/075wMeSFPWCvDVNKzRPOlC"
+      },
+      "artists": [
+        {
+          "name": "Softcult",
+          "url": "https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0"
+        }
+      ],
+      "duration_ms": 191072,
+      "name": "House Of Mirrors",
+      "url": "https://open.spotify.com/track/3zFqzq75hxehVM6DkCSORU"
     },
     {
       "added_at": "2023-07-21 10:37:28",
@@ -783,22 +783,6 @@
     {
       "added_at": "2023-07-21 10:37:28",
       "album": {
-        "name": "Pronounced McGee",
-        "url": "https://open.spotify.com/album/25mNgv9kcDpET9UWcCxu16"
-      },
-      "artists": [
-        {
-          "name": "Mk.gee",
-          "url": "https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz"
-        }
-      ],
-      "duration_ms": 226645,
-      "name": "Roll With The Punches",
-      "url": "https://open.spotify.com/track/0R1NENmGu9tjHRq1S0bXX8"
-    },
-    {
-      "added_at": "2023-07-21 10:37:28",
-      "album": {
         "name": "The Middle of Nowhere",
         "url": "https://open.spotify.com/album/222Te8JiZ4gbgurHkY0v1l"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 258876,
       "name": "Jeune",
       "url": "https://open.spotify.com/track/51tJQf4oxTMvONqstKnqmR"
+    },
+    {
+      "added_at": "2023-07-21 10:37:28",
+      "album": {
+        "name": "Pronounced McGee",
+        "url": "https://open.spotify.com/album/25mNgv9kcDpET9UWcCxu16"
+      },
+      "artists": [
+        {
+          "name": "Mk.gee",
+          "url": "https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz"
+        }
+      ],
+      "duration_ms": 226645,
+      "name": "Roll With The Punches",
+      "url": "https://open.spotify.com/track/0R1NENmGu9tjHRq1S0bXX8"
     },
     {
       "added_at": "2023-07-21 10:37:28",
@@ -847,22 +847,6 @@
     {
       "added_at": "2023-07-21 10:37:28",
       "album": {
-        "name": "Falling Apart Without You",
-        "url": "https://open.spotify.com/album/2ab1JYYysapgQgPeBPHoJr"
-      },
-      "artists": [
-        {
-          "name": "quickly, quickly",
-          "url": "https://open.spotify.com/artist/5XTn5Az9AcSKu0oaauC5ES"
-        }
-      ],
-      "duration_ms": 203625,
-      "name": "Falling Apart Without You",
-      "url": "https://open.spotify.com/track/10ANYWmxWwURWwjPqCUGo8"
-    },
-    {
-      "added_at": "2023-07-21 10:37:28",
-      "album": {
         "name": "Ways To Get Out (Deluxe)",
         "url": "https://open.spotify.com/album/7FmLx521t1FJ6bWggcuNCY"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 950210,
       "name": "Songs",
       "url": "https://open.spotify.com/track/0y15BMv8TXeAUsDhWIGQFl"
+    },
+    {
+      "added_at": "2023-07-21 10:37:28",
+      "album": {
+        "name": "Falling Apart Without You",
+        "url": "https://open.spotify.com/album/2ab1JYYysapgQgPeBPHoJr"
+      },
+      "artists": [
+        {
+          "name": "quickly, quickly",
+          "url": "https://open.spotify.com/artist/5XTn5Az9AcSKu0oaauC5ES"
+        }
+      ],
+      "duration_ms": 203625,
+      "name": "Falling Apart Without You",
+      "url": "https://open.spotify.com/track/10ANYWmxWwURWwjPqCUGo8"
     },
     {
       "added_at": "2023-07-21 10:37:28",
@@ -931,22 +931,6 @@
     {
       "added_at": "2023-07-21 10:37:28",
       "album": {
-        "name": "Cellar",
-        "url": "https://open.spotify.com/album/3SYtJKO826EDWOwvZvhdb8"
-      },
-      "artists": [
-        {
-          "name": "Sea Lemon",
-          "url": "https://open.spotify.com/artist/6Oy4STraI9APdMoCO5te6w"
-        }
-      ],
-      "duration_ms": 245998,
-      "name": "Cellar",
-      "url": "https://open.spotify.com/track/6PWjL98PtO7QBbMzBYszNY"
-    },
-    {
-      "added_at": "2023-07-21 10:37:28",
-      "album": {
         "name": "Gloomy Girl",
         "url": "https://open.spotify.com/album/4TzEXyEPMZZPXbjPPIdRWR"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 186410,
       "name": "Gloomy Girl",
       "url": "https://open.spotify.com/track/62Zgaht9Dx6HReIOamFMdN"
+    },
+    {
+      "added_at": "2023-07-21 10:37:28",
+      "album": {
+        "name": "Cellar",
+        "url": "https://open.spotify.com/album/3SYtJKO826EDWOwvZvhdb8"
+      },
+      "artists": [
+        {
+          "name": "Sea Lemon",
+          "url": "https://open.spotify.com/artist/6Oy4STraI9APdMoCO5te6w"
+        }
+      ],
+      "duration_ms": 245998,
+      "name": "Cellar",
+      "url": "https://open.spotify.com/track/6PWjL98PtO7QBbMzBYszNY"
     },
     {
       "added_at": "2023-07-21 10:37:28",
@@ -1059,6 +1059,22 @@
     {
       "added_at": "2023-07-21 10:37:28",
       "album": {
+        "name": "Leviosa",
+        "url": "https://open.spotify.com/album/4dZlnblHaQxVDbUKkdVuL3"
+      },
+      "artists": [
+        {
+          "name": "Reymour",
+          "url": "https://open.spotify.com/artist/6mlzYzLXQ7gQrMg3DydrAi"
+        }
+      ],
+      "duration_ms": 196985,
+      "name": "De ma Tour",
+      "url": "https://open.spotify.com/track/5mXgCx5JKyqsIapstWQ94b"
+    },
+    {
+      "added_at": "2023-07-21 10:37:28",
+      "album": {
         "name": "Full Hand",
         "url": "https://open.spotify.com/album/7ufXylXlduqkezq4Yu5XcK"
       },
@@ -1091,22 +1107,6 @@
     {
       "added_at": "2023-07-21 10:37:28",
       "album": {
-        "name": "Leviosa",
-        "url": "https://open.spotify.com/album/4dZlnblHaQxVDbUKkdVuL3"
-      },
-      "artists": [
-        {
-          "name": "Reymour",
-          "url": "https://open.spotify.com/artist/6mlzYzLXQ7gQrMg3DydrAi"
-        }
-      ],
-      "duration_ms": 196985,
-      "name": "De ma Tour",
-      "url": "https://open.spotify.com/track/5mXgCx5JKyqsIapstWQ94b"
-    },
-    {
-      "added_at": "2023-07-21 10:37:28",
-      "album": {
         "name": "Memoria",
         "url": "https://open.spotify.com/album/7w5COkBSsfMksBbXnDVog2"
       },
@@ -1123,6 +1123,22 @@
       "duration_ms": 259642,
       "name": "No More Kissing In The Rain",
       "url": "https://open.spotify.com/track/6euR55gwJ65nxIPeXLPPwo"
+    },
+    {
+      "added_at": "2023-07-21 10:37:28",
+      "album": {
+        "name": "rest up",
+        "url": "https://open.spotify.com/album/1ctBuXXFgblyXuqBzOH5Ue"
+      },
+      "artists": [
+        {
+          "name": "boy pablo",
+          "url": "https://open.spotify.com/artist/7wbkl3zgDZEoZer357mVIw"
+        }
+      ],
+      "duration_ms": 204464,
+      "name": "rest up",
+      "url": "https://open.spotify.com/track/5vFpDxSYbw2ooyuKFfXNPr"
     },
     {
       "added_at": "2023-09-29 10:51:04",
@@ -1143,18 +1159,18 @@
     {
       "added_at": "2023-07-21 10:37:28",
       "album": {
-        "name": "rest up",
-        "url": "https://open.spotify.com/album/1ctBuXXFgblyXuqBzOH5Ue"
+        "name": "Flora",
+        "url": "https://open.spotify.com/album/5MOsdLQs3Rx5ed7cnrH5Ku"
       },
       "artists": [
         {
-          "name": "boy pablo",
-          "url": "https://open.spotify.com/artist/7wbkl3zgDZEoZer357mVIw"
+          "name": "atmos bloom",
+          "url": "https://open.spotify.com/artist/5F6pjXWILFr4XnOngaKyo3"
         }
       ],
-      "duration_ms": 204464,
-      "name": "rest up",
-      "url": "https://open.spotify.com/track/5vFpDxSYbw2ooyuKFfXNPr"
+      "duration_ms": 195225,
+      "name": "Picnic In The Rain",
+      "url": "https://open.spotify.com/track/3tjTAQymCotMfHeoYqWjZh"
     },
     {
       "added_at": "2023-07-21 10:37:28",
@@ -1179,18 +1195,22 @@
     {
       "added_at": "2023-07-21 10:37:28",
       "album": {
-        "name": "Flora",
-        "url": "https://open.spotify.com/album/5MOsdLQs3Rx5ed7cnrH5Ku"
+        "name": "Future Falling",
+        "url": "https://open.spotify.com/album/4V0Xf9ER0qdXBY4erJEOSj"
       },
       "artists": [
         {
-          "name": "atmos bloom",
-          "url": "https://open.spotify.com/artist/5F6pjXWILFr4XnOngaKyo3"
+          "name": "The Album Leaf",
+          "url": "https://open.spotify.com/artist/02uPe16VFxPaiueQsPEDkE"
+        },
+        {
+          "name": "Bat For Lashes",
+          "url": "https://open.spotify.com/artist/6l77PmL5iuEEcYjGl8K6s7"
         }
       ],
-      "duration_ms": 195225,
-      "name": "Picnic In The Rain",
-      "url": "https://open.spotify.com/track/3tjTAQymCotMfHeoYqWjZh"
+      "duration_ms": 340000,
+      "name": "Near",
+      "url": "https://open.spotify.com/track/7IK0y5ni8yyfxoOfOitxul"
     },
     {
       "added_at": "2023-07-21 10:37:28",
@@ -1211,22 +1231,18 @@
     {
       "added_at": "2023-07-21 10:37:28",
       "album": {
-        "name": "Future Falling",
-        "url": "https://open.spotify.com/album/4V0Xf9ER0qdXBY4erJEOSj"
+        "name": "Fantasy",
+        "url": "https://open.spotify.com/album/7B6lEObl7aYkMjX8M89IRQ"
       },
       "artists": [
         {
-          "name": "The Album Leaf",
-          "url": "https://open.spotify.com/artist/02uPe16VFxPaiueQsPEDkE"
-        },
-        {
-          "name": "Bat For Lashes",
-          "url": "https://open.spotify.com/artist/6l77PmL5iuEEcYjGl8K6s7"
+          "name": "M83",
+          "url": "https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz"
         }
       ],
-      "duration_ms": 340000,
-      "name": "Near",
-      "url": "https://open.spotify.com/track/7IK0y5ni8yyfxoOfOitxul"
+      "duration_ms": 389948,
+      "name": "Deceiver",
+      "url": "https://open.spotify.com/track/272VxhXNv8vFjtZi3FC9eJ"
     },
     {
       "added_at": "2023-07-21 10:37:28",
@@ -1263,22 +1279,6 @@
     {
       "added_at": "2023-07-21 10:37:28",
       "album": {
-        "name": "Fantasy",
-        "url": "https://open.spotify.com/album/7B6lEObl7aYkMjX8M89IRQ"
-      },
-      "artists": [
-        {
-          "name": "M83",
-          "url": "https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz"
-        }
-      ],
-      "duration_ms": 389948,
-      "name": "Deceiver",
-      "url": "https://open.spotify.com/track/272VxhXNv8vFjtZi3FC9eJ"
-    },
-    {
-      "added_at": "2023-07-21 10:37:28",
-      "album": {
         "name": "Hyper-normal",
         "url": "https://open.spotify.com/album/3mQjXEpNYf3kXHXhRQt9YG"
       },
@@ -1295,18 +1295,22 @@
     {
       "added_at": "2023-07-21 10:37:28",
       "album": {
-        "name": "Smothered",
-        "url": "https://open.spotify.com/album/21zwExLy0H0BDbrIb0J2DC"
+        "name": "Humpty Dumpty",
+        "url": "https://open.spotify.com/album/1F68Q7RXXElRqb1nlklYKH"
       },
       "artists": [
         {
-          "name": "Oberhofer",
-          "url": "https://open.spotify.com/artist/5zb7wVUx1vTXLB6HX26EnX"
+          "name": "Hitch Von Cassen",
+          "url": "https://open.spotify.com/artist/4GFY0t6jiCfYgWDxTfCK4p"
+        },
+        {
+          "name": "Ana Ora",
+          "url": "https://open.spotify.com/artist/009y7OLLaB8PkJL8bUywC1"
         }
       ],
-      "duration_ms": 166453,
-      "name": "What Does It Mean To Me?",
-      "url": "https://open.spotify.com/track/0fQMFvcUD9j1SBFRoTHxnL"
+      "duration_ms": 254000,
+      "name": "I'm lost in a fishbowl",
+      "url": "https://open.spotify.com/track/2UInBM4KnSCz1bqb0NNO3q"
     },
     {
       "added_at": "2023-07-21 10:37:28",

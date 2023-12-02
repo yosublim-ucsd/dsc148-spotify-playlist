@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnyndhASBe.md) - [plain]
 
 > Największe rapowe kawałki w tej chwili\. Cover: PRO8L3M
 
-[Spotify](https://open.spotify.com/user/spotify) - 491,815 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 491,856 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnyndhASBe.md) - [plain]
 | 49 | [Siekiera \(Push Up\) \- Remix](https://open.spotify.com/track/0YyjrAD1ELu01JG2T5yQa9) | [Mr\. Polska](https://open.spotify.com/artist/1A6HQzOvtGaCYihOuIKjE6) | [Siekiera \(Push Up\) \[Remix\]](https://open.spotify.com/album/5X791Fi6v1kUWcjFt3lhIa) | 2:11 |
 | 50 | [BIBA](https://open.spotify.com/track/0t77FnN3xAxcYjW9v3dZeD) | [Żabson](https://open.spotify.com/artist/0QR764k0D36npmTMWx5bft), [Kronkel Dom](https://open.spotify.com/artist/1dkyORGHN0TOmjzu5qCO45), [Kizo](https://open.spotify.com/artist/2IHoZ3RrDJIikMRsYgHjhy), [Sir Mich](https://open.spotify.com/artist/77QIEno3j2L5WkrHkh2OnP) | [Macrodosing](https://open.spotify.com/album/01nWaHBDli91cOvKShpivr) | 1:58 |
 
-Snapshot ID: `MCxiNjIwMGMxZTdkMDdmMTY1NzI4NjUxNzZiYjE3MDkyYmNiYmNjZWY0`
+Snapshot ID: `MCw3YmQzZWU1NWJhNmY2YTljN2VmM2ExNjg5Y2E5YWRlZWI2NjFkODVk`

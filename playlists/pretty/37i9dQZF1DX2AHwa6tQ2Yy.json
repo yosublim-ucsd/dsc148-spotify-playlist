@@ -1,12 +1,12 @@
 {
   "description": "Let the music flow through you...",
-  "num_followers": 44834,
+  "num_followers": 44893,
   "original_name": "Soulful",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNGU2NmZlNWFhMWRkNGFkN2NlNzRhZWI1MjAxMDFmNTNiNTRlMDg5",
+  "snapshot_id": "MCwwZjdlYjRlNWI1MzgwYzYyY2RlMmEyYzgwODI1MDk0Y2EyOTNkZGJj",
   "tracks": [
     {
       "added_at": "2023-11-23 13:30:01",
@@ -575,22 +575,6 @@
     {
       "added_at": "2023-11-23 13:30:01",
       "album": {
-        "name": "Better With You",
-        "url": "https://open.spotify.com/album/6hNFfriiHoZFXIVx4UJ82v"
-      },
-      "artists": [
-        {
-          "name": "Jackson Owens",
-          "url": "https://open.spotify.com/artist/33jhdrAHX9sSFzdKpYd2ke"
-        }
-      ],
-      "duration_ms": 137046,
-      "name": "Better With You",
-      "url": "https://open.spotify.com/track/6eXNp3TwJsu67AEpWkU38O"
-    },
-    {
-      "added_at": "2023-11-23 13:30:01",
-      "album": {
         "name": "CLEAR 2: SOFT LIFE EP",
         "url": "https://open.spotify.com/album/034Q9kY3buGcizT3Xpj9Re"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 183160,
       "name": "Finding Peace",
       "url": "https://open.spotify.com/track/61OqwQ7gNNg5hdoN0yhGBG"
+    },
+    {
+      "added_at": "2023-11-23 13:30:01",
+      "album": {
+        "name": "Better With You",
+        "url": "https://open.spotify.com/album/6hNFfriiHoZFXIVx4UJ82v"
+      },
+      "artists": [
+        {
+          "name": "Jackson Owens",
+          "url": "https://open.spotify.com/artist/33jhdrAHX9sSFzdKpYd2ke"
+        }
+      ],
+      "duration_ms": 137046,
+      "name": "Better With You",
+      "url": "https://open.spotify.com/track/6eXNp3TwJsu67AEpWkU38O"
     },
     {
       "added_at": "2023-11-23 13:30:01",
@@ -659,22 +659,6 @@
     {
       "added_at": "2023-11-23 13:30:01",
       "album": {
-        "name": "Us Without Me",
-        "url": "https://open.spotify.com/album/7rQcfmaOYzHKmAlyeuwdTt"
-      },
-      "artists": [
-        {
-          "name": "grentperez",
-          "url": "https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe"
-        }
-      ],
-      "duration_ms": 200039,
-      "name": "Us Without Me",
-      "url": "https://open.spotify.com/track/7fEI29hmaWcCMPi8VJf33C"
-    },
-    {
-      "added_at": "2023-11-23 13:30:01",
-      "album": {
         "name": "It's A Long Road",
         "url": "https://open.spotify.com/album/6apSXr9z4mOLNrFYkeT6Sa"
       },
@@ -691,18 +675,18 @@
     {
       "added_at": "2023-11-23 13:30:01",
       "album": {
-        "name": "Something To Feel",
-        "url": "https://open.spotify.com/album/4vB6GN9VFxZU1mtBYlc3Ph"
+        "name": "Us Without Me",
+        "url": "https://open.spotify.com/album/7rQcfmaOYzHKmAlyeuwdTt"
       },
       "artists": [
         {
-          "name": "TEEKS",
-          "url": "https://open.spotify.com/artist/4ofg0wyo4TjuNtWQ5XxZhJ"
+          "name": "grentperez",
+          "url": "https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe"
         }
       ],
-      "duration_ms": 309786,
-      "name": "First Time",
-      "url": "https://open.spotify.com/track/69WrRBXGKP70NqXNOf8NIw"
+      "duration_ms": 200039,
+      "name": "Us Without Me",
+      "url": "https://open.spotify.com/track/7fEI29hmaWcCMPi8VJf33C"
     },
     {
       "added_at": "2023-11-23 13:30:01",
@@ -719,6 +703,22 @@
       "duration_ms": 211283,
       "name": "TMF",
       "url": "https://open.spotify.com/track/67OrF48gkNByr9HpRtSOSD"
+    },
+    {
+      "added_at": "2023-11-23 13:30:01",
+      "album": {
+        "name": "Something To Feel",
+        "url": "https://open.spotify.com/album/4vB6GN9VFxZU1mtBYlc3Ph"
+      },
+      "artists": [
+        {
+          "name": "TEEKS",
+          "url": "https://open.spotify.com/artist/4ofg0wyo4TjuNtWQ5XxZhJ"
+        }
+      ],
+      "duration_ms": 309786,
+      "name": "First Time",
+      "url": "https://open.spotify.com/track/69WrRBXGKP70NqXNOf8NIw"
     },
     {
       "added_at": "2023-11-23 13:30:01",
@@ -831,22 +831,6 @@
     {
       "added_at": "2023-11-23 13:30:01",
       "album": {
-        "name": "The Winding Way",
-        "url": "https://open.spotify.com/album/4JvUEoioE4Am9JKyoQrlXH"
-      },
-      "artists": [
-        {
-          "name": "The Teskey Brothers",
-          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
-        }
-      ],
-      "duration_ms": 261773,
-      "name": "I'm Leaving",
-      "url": "https://open.spotify.com/track/33mKFTO1V2QNyhuUBneHDZ"
-    },
-    {
-      "added_at": "2023-11-23 13:30:01",
-      "album": {
         "name": "Untidy Soul",
         "url": "https://open.spotify.com/album/7u5uWlp5UV9mdr7Rokotod"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 180523,
       "name": "Grow",
       "url": "https://open.spotify.com/track/2YyVFxsdtALHVaEJPC8mbA"
+    },
+    {
+      "added_at": "2023-11-23 13:30:01",
+      "album": {
+        "name": "The Winding Way",
+        "url": "https://open.spotify.com/album/4JvUEoioE4Am9JKyoQrlXH"
+      },
+      "artists": [
+        {
+          "name": "The Teskey Brothers",
+          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
+        }
+      ],
+      "duration_ms": 261773,
+      "name": "I'm Leaving",
+      "url": "https://open.spotify.com/track/33mKFTO1V2QNyhuUBneHDZ"
     },
     {
       "added_at": "2023-11-23 13:30:01",
@@ -927,22 +927,6 @@
     {
       "added_at": "2023-11-23 13:30:01",
       "album": {
-        "name": "Make It Happen (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5RbJ1jOe7KFVfbB5GOLhUT"
-      },
-      "artists": [
-        {
-          "name": "John Splithoff",
-          "url": "https://open.spotify.com/artist/7A2x4Urpc4VKF1pb7qnNqD"
-        }
-      ],
-      "duration_ms": 269626,
-      "name": "Raye",
-      "url": "https://open.spotify.com/track/1HCscV7IBGyxnaPh2jShMP"
-    },
-    {
-      "added_at": "2023-11-23 13:30:01",
-      "album": {
         "name": "Soul,PRESENT",
         "url": "https://open.spotify.com/album/2s8DZtGWeWaLFLvBI38MM6"
       },
@@ -959,6 +943,38 @@
     {
       "added_at": "2023-11-23 13:30:01",
       "album": {
+        "name": "Make It Happen (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5RbJ1jOe7KFVfbB5GOLhUT"
+      },
+      "artists": [
+        {
+          "name": "John Splithoff",
+          "url": "https://open.spotify.com/artist/7A2x4Urpc4VKF1pb7qnNqD"
+        }
+      ],
+      "duration_ms": 269626,
+      "name": "Raye",
+      "url": "https://open.spotify.com/track/1HCscV7IBGyxnaPh2jShMP"
+    },
+    {
+      "added_at": "2023-11-23 13:30:01",
+      "album": {
+        "name": "Everything's Fine",
+        "url": "https://open.spotify.com/album/2OOTl13Kx9KxMF1ESG2u58"
+      },
+      "artists": [
+        {
+          "name": "Matt Corby",
+          "url": "https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG"
+        }
+      ],
+      "duration_ms": 208250,
+      "name": "Reelin'",
+      "url": "https://open.spotify.com/track/0pZrbb5wNwxRA3mqsl1SWN"
+    },
+    {
+      "added_at": "2023-11-23 13:30:01",
+      "album": {
         "name": "The Winding Way",
         "url": "https://open.spotify.com/album/4JvUEoioE4Am9JKyoQrlXH"
       },
@@ -971,6 +987,22 @@
       "duration_ms": 157152,
       "name": "This Will Be Our Year",
       "url": "https://open.spotify.com/track/71KtVFmu7lY2AsKgdG1cZl"
+    },
+    {
+      "added_at": "2023-11-23 13:30:01",
+      "album": {
+        "name": "No Flowers",
+        "url": "https://open.spotify.com/album/6XGqMVKj10Cq6Du0NpnIGo"
+      },
+      "artists": [
+        {
+          "name": "Dallas Tamaira",
+          "url": "https://open.spotify.com/artist/7kA1tgOWHU6o4KedxlOStt"
+        }
+      ],
+      "duration_ms": 184557,
+      "name": "No Flowers",
+      "url": "https://open.spotify.com/track/3LhW1olpSXYzzQta9OpTSl"
     },
     {
       "added_at": "2023-11-23 13:30:01",
@@ -995,22 +1027,6 @@
     {
       "added_at": "2023-11-23 13:30:01",
       "album": {
-        "name": "No Flowers",
-        "url": "https://open.spotify.com/album/6XGqMVKj10Cq6Du0NpnIGo"
-      },
-      "artists": [
-        {
-          "name": "Dallas Tamaira",
-          "url": "https://open.spotify.com/artist/7kA1tgOWHU6o4KedxlOStt"
-        }
-      ],
-      "duration_ms": 184557,
-      "name": "No Flowers",
-      "url": "https://open.spotify.com/track/3LhW1olpSXYzzQta9OpTSl"
-    },
-    {
-      "added_at": "2023-11-23 13:30:01",
-      "album": {
         "name": "Chronicles of a Diamond",
         "url": "https://open.spotify.com/album/6dyoypKM3foYufyQWKN7dH"
       },
@@ -1027,22 +1043,6 @@
     {
       "added_at": "2023-11-23 13:30:01",
       "album": {
-        "name": "Everything's Fine",
-        "url": "https://open.spotify.com/album/2OOTl13Kx9KxMF1ESG2u58"
-      },
-      "artists": [
-        {
-          "name": "Matt Corby",
-          "url": "https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG"
-        }
-      ],
-      "duration_ms": 208250,
-      "name": "Reelin'",
-      "url": "https://open.spotify.com/track/0pZrbb5wNwxRA3mqsl1SWN"
-    },
-    {
-      "added_at": "2023-11-23 13:30:01",
-      "album": {
         "name": "Hold On",
         "url": "https://open.spotify.com/album/3WWfApLKg76DOgntZABET6"
       },
@@ -1055,22 +1055,6 @@
       "duration_ms": 203214,
       "name": "Hold On",
       "url": "https://open.spotify.com/track/0zcRUprLKw7LtndkBurb3S"
-    },
-    {
-      "added_at": "2023-11-23 13:30:01",
-      "album": {
-        "name": "The Winding Way",
-        "url": "https://open.spotify.com/album/4JvUEoioE4Am9JKyoQrlXH"
-      },
-      "artists": [
-        {
-          "name": "The Teskey Brothers",
-          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
-        }
-      ],
-      "duration_ms": 233298,
-      "name": "Oceans Of Emotions",
-      "url": "https://open.spotify.com/track/3bIdWXtBtDqES9h21vls42"
     },
     {
       "added_at": "2023-11-23 13:30:01",
@@ -1127,22 +1111,6 @@
     {
       "added_at": "2023-11-23 13:30:01",
       "album": {
-        "name": "Tomorrow's Gonna Come",
-        "url": "https://open.spotify.com/album/7v8VvueBjcukRvpMU0wxF0"
-      },
-      "artists": [
-        {
-          "name": "Dojo Cuts",
-          "url": "https://open.spotify.com/artist/0Vd8YQz8TYk2vSKEYVvIgL"
-        }
-      ],
-      "duration_ms": 230920,
-      "name": "Falling in Love Again",
-      "url": "https://open.spotify.com/track/6N0ViJHgMFaUt5TGXQizmn"
-    },
-    {
-      "added_at": "2023-11-23 13:30:01",
-      "album": {
         "name": "Most Wanted (Deluxe)",
         "url": "https://open.spotify.com/album/46fxxm1oHMPzR51GElXrAt"
       },
@@ -1163,6 +1131,38 @@
     {
       "added_at": "2023-11-23 13:30:01",
       "album": {
+        "name": "Tomorrow's Gonna Come",
+        "url": "https://open.spotify.com/album/7v8VvueBjcukRvpMU0wxF0"
+      },
+      "artists": [
+        {
+          "name": "Dojo Cuts",
+          "url": "https://open.spotify.com/artist/0Vd8YQz8TYk2vSKEYVvIgL"
+        }
+      ],
+      "duration_ms": 230920,
+      "name": "Falling in Love Again",
+      "url": "https://open.spotify.com/track/6N0ViJHgMFaUt5TGXQizmn"
+    },
+    {
+      "added_at": "2023-11-23 13:30:01",
+      "album": {
+        "name": "The Winding Way",
+        "url": "https://open.spotify.com/album/4JvUEoioE4Am9JKyoQrlXH"
+      },
+      "artists": [
+        {
+          "name": "The Teskey Brothers",
+          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
+        }
+      ],
+      "duration_ms": 233298,
+      "name": "Oceans Of Emotions",
+      "url": "https://open.spotify.com/track/3bIdWXtBtDqES9h21vls42"
+    },
+    {
+      "added_at": "2023-11-23 13:30:01",
+      "album": {
         "name": "TRAVELIN'",
         "url": "https://open.spotify.com/album/2y0dyhEYehIoXnEkXLuD7y"
       },
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2023-11-23 13:30:01",
       "album": {
-        "name": "you already know [demo_2021].wav",
-        "url": "https://open.spotify.com/album/4iXRAGPayHGQyBCfGvG210"
-      },
-      "artists": [
-        {
-          "name": "JACOT\u00c9NE",
-          "url": "https://open.spotify.com/artist/1vPK0KqkfnZzdpKDC2l3rd"
-        }
-      ],
-      "duration_ms": 182169,
-      "name": "you already know [demo_2021].wav",
-      "url": "https://open.spotify.com/track/6xZuNFT2XCM4TesLeKh9C6"
-    },
-    {
-      "added_at": "2023-11-23 13:30:01",
-      "album": {
         "name": "Falling",
         "url": "https://open.spotify.com/album/5QpKwmnzXq00f9W43yeAhY"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 210679,
       "name": "Falling",
       "url": "https://open.spotify.com/track/1HXdD31DZc3RI4HpkcTccZ"
+    },
+    {
+      "added_at": "2023-11-23 13:30:01",
+      "album": {
+        "name": "you already know [demo_2021].wav",
+        "url": "https://open.spotify.com/album/4iXRAGPayHGQyBCfGvG210"
+      },
+      "artists": [
+        {
+          "name": "JACOT\u00c9NE",
+          "url": "https://open.spotify.com/artist/1vPK0KqkfnZzdpKDC2l3rd"
+        }
+      ],
+      "duration_ms": 182169,
+      "name": "you already know [demo_2021].wav",
+      "url": "https://open.spotify.com/track/6xZuNFT2XCM4TesLeKh9C6"
     }
   ],
   "unique_name": "Soulful",

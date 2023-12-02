@@ -4,7 +4,7 @@
 
 > Gentle Ambient piano to help you fall asleep.
 
-889 songs - 1 day 20 hr 44 min
+893 songs - 1 day 20 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [Air](https://open.spotify.com/track/0y9DY0rp8MkJvF3JrQjLBp) | [Cloudway](https://open.spotify.com/artist/5mDpJ4cbmZv0gIfvwehaeZ) | [Air](https://open.spotify.com/album/1ACUlru8Q8t86Mvor3VAA3) | 2:35 | 2022-12-02 |  |
 | [Al Vanda](https://open.spotify.com/track/157498zKslcWTRJGqzx3ad) | [Natana Bach](https://open.spotify.com/artist/568DTgNHtIjbRfvgeQNDr4) | [Al Vanda](https://open.spotify.com/album/184oRUumTGWbZjRSM6EV7C) | 2:27 | 2022-09-30 |  |
 | [Alba](https://open.spotify.com/track/6ENapwu75Tswvvf6QTJpOq) | [Albin Urías](https://open.spotify.com/artist/5phmOQdhQEBnfAev0uSbX6) | [Alba](https://open.spotify.com/album/2SBc0Uq0p0ACrRFVcMKhiy) | 2:48 | 2020-10-20\* | 2021-05-04 |
+| [Aligned Adventures](https://open.spotify.com/track/0UgCoafyAS8LajrzmHzSid) | [Secret Medicine](https://open.spotify.com/artist/0tMQJ9EVT0vfsG67K867kR) | [Aligned Adventures](https://open.spotify.com/album/1BWgiMZ2SH72H41PY0VQOc) | 3:14 | 2023-12-01 |  |
 | [All Along](https://open.spotify.com/track/4I4fBBEhpLAHvnLhacIwdg) | [Tegan Riley](https://open.spotify.com/artist/545YowgDW1BqD0OUeoNP9L) | [All Along](https://open.spotify.com/album/7CRo25Q6dFAeZDTJ4Bgfgq) | 2:27 | 2023-01-27 |  |
 | [All is Forgiven](https://open.spotify.com/track/2MS0JjmoW9JAu9NmeRYmPO) | [Helike](https://open.spotify.com/artist/3EqRbbQlEglmQGw3p815YD) | [Sparkle of Your Smile](https://open.spotify.com/album/7qlWqpDN7bwzoZAPIGI2cu) | 2:32 | 2020-10-20\* | 2021-02-06 |
 | [Alleviation](https://open.spotify.com/track/6hz5qA35YWENEvi1qlb9xt) | [Sia Moon](https://open.spotify.com/artist/438yZZcqMapAevM5nIBGTG) | [Alleviation](https://open.spotify.com/album/5peWe4tisKmGmYXfymYHgS) | 3:28 | 2021-10-23 | 2023-03-22 |
@@ -359,6 +360,7 @@
 | [Going Back](https://open.spotify.com/track/0QCWhIYVGx3ousdsUZgy84) | [Koby Laver](https://open.spotify.com/artist/639xerhpqwPMYay6bkjz75) | [Going Back](https://open.spotify.com/album/5dLs93ATW8WYVlszbtKKRa) | 3:48 | 2021-10-30 | 2023-09-09 |
 | [Gone walkabout](https://open.spotify.com/track/7GJbZjIlTTgaHToArOsck5) | [Jordan Beggs](https://open.spotify.com/artist/2qHe4hsn9sRe5qm4uUVXwF) | [Gone walkabout](https://open.spotify.com/album/5zQOHBmizZaKLDr2Ojkohu) | 2:48 | 2020-10-20\* | 2020-12-12 |
 | [Goodnight Sky](https://open.spotify.com/track/7biv5RIAffkj7rYnvKc4NC) | [Astron](https://open.spotify.com/artist/6qiuwoB9ro3SX0ZjSXnr0y) | [Falling Deeply](https://open.spotify.com/album/3zbWYMOUTQ7NkicTxKmAJQ) | 3:12 | 2020-10-20\* | 2020-12-12 |
+| [Gradually](https://open.spotify.com/track/540ZE9jee98b10o3xrdM3c) | [Eône](https://open.spotify.com/artist/4kZXfTjEmv2pM1m4B5H1I7) | [Gradually](https://open.spotify.com/album/6eoonNNqD5BHEaFsP5K7JP) | 2:54 | 2023-12-01 |  |
 | [Grandmas Tune](https://open.spotify.com/track/2xwPqQD4nQEiEOh5dXi3H3) | [Aurelin](https://open.spotify.com/artist/4WxaQLOx5d0XXzj20fTd4X) | [Lights Out](https://open.spotify.com/album/7EP8MpkvPc78L7h0xefccS) | 2:45 | 2021-05-04 | 2021-08-17 |
 | [Gravity Shimmer](https://open.spotify.com/track/5t8M9QXP5SMe6hy6eG8dqh) | [John Goodlove](https://open.spotify.com/artist/1k9phNanPQ2ScqreRWpy2j) | [Total Surrender](https://open.spotify.com/album/5rsR8YlSkGutQK3voIBkU6) | 4:02 | 2020-10-20\* | 2020-12-12 |
 | [Haverzh](https://open.spotify.com/track/0GocVBngN9RHyWlfQnS4Th) | [Iota Psi](https://open.spotify.com/artist/6mkoUM994JIaNGMTix01yW) | [Haverzh](https://open.spotify.com/album/6Ecv6UjUXqs3fTQ5kPqGM3) | 3:07 | 2023-09-15 |  |
@@ -573,6 +575,7 @@
 | [Orison](https://open.spotify.com/track/3GJyYi78wUaUZgbrwipcpG) | [Szigeti Aliz](https://open.spotify.com/artist/5MYqSmIAMjoiBp8suHqGaA) | [Orison](https://open.spotify.com/album/3iaTv0CK057m9PxroFoi8g) | 3:02 | 2020-10-20\* | 2021-06-16 |
 | [Oroitzapenak](https://open.spotify.com/track/6yr16gxxdy0JLUx0dxx4DI) | [Leona Montoya](https://open.spotify.com/artist/5SoFygSAB3x2wUQbgqku06) | [Oroitzapenak](https://open.spotify.com/album/4b7lNPhmqIrFALnjCjn78z) | 2:25 | 2023-03-09 |  |
 | [Over skyerne](https://open.spotify.com/track/4FHNG73v2Ws7QQqR2kvIUp) | [Minik Knudsen](https://open.spotify.com/artist/0vPGOBFcfVsCzqsYTxubi6) | [Over skyerne](https://open.spotify.com/album/0ezMCGxdXrQbfDQDxjhaoL) | 2:51 | 2021-02-06 | 2022-03-25 |
+| [Overcome](https://open.spotify.com/track/3IyBMuidf0gi4WH13jaC6l) | [Anders\-Petter Carlskog](https://open.spotify.com/artist/1P42IGRkwBbq9f8W76tcK6) | [Overcome](https://open.spotify.com/album/0WWk3JRTKemXsRmK75j6iM) | 3:10 | 2023-12-01 |  |
 | [Oxygen](https://open.spotify.com/track/6LJueYS7PEtp9VEnClV0da) | [Joseph Alphane](https://open.spotify.com/artist/65IJPn3wYi35Qpov4MXcFr) | [Oxygen](https://open.spotify.com/album/5QTd2js25VRvD3ZK5DYWeu) | 2:43 | 2020-11-21 | 2021-06-16 |
 | [Pacific](https://open.spotify.com/track/5nrX2dmftdOXdhdGqdF9V8) | [Savannah De Lucia](https://open.spotify.com/artist/34RbwsKOFiGKnE7BE8zhQS) | [Pacific](https://open.spotify.com/album/0KfGQVHPN1FMGBDsBD5M1M) | 3:08 | 2021-03-14 | 2023-02-10 |
 | [Palms](https://open.spotify.com/track/7L2Jb9DnmWEFFqWRdlfEgz) | [Stella Oceans](https://open.spotify.com/artist/2U0xolFqCwKMyTO2kGNC3x) | [Ripples of Calm](https://open.spotify.com/album/2MeQghuoNpGehfTorkUvNc) | 3:28 | 2020-10-20\* | 2021-03-14 |
@@ -642,6 +645,7 @@
 | [Resting Minds](https://open.spotify.com/track/5Hof0DyNAt1u3NutmjZmjI) | [Soft Voyage](https://open.spotify.com/artist/4FDnFOfVVVFWDNecPIbaYo) | [Resting Minds](https://open.spotify.com/album/7u7JptXq6ywEFFL8XrMYvo) | 4:29 | 2020-10-20\* | 2020-12-12 |
 | [Resting Peace](https://open.spotify.com/track/0BWqXtl5RSRWEDfoL2HdV9) | [Geonose](https://open.spotify.com/artist/4HMimTAIfAny7O6iToeY3J) | [Ambioso](https://open.spotify.com/album/6WrK1ZkwCjDKfY8LrAbpt8) | 3:29 | 2020-11-21 | 2021-05-04 |
 | [Reticence](https://open.spotify.com/track/1VLKeNy3qUe8MNvejjTtoy) | [Fiona Kolev](https://open.spotify.com/artist/5gIsewE9wwowXLnCYMpzO4) | [Reticence](https://open.spotify.com/album/3r2Bjqzlzo9eGjzcFjT4Ox) | 2:33 | 2021-10-23 | 2023-06-10 |
+| [Retrospect](https://open.spotify.com/track/4RpF62shn8RYyf3DBk3fD7) | [Aveniós](https://open.spotify.com/artist/4DUA5cmKWH8fIMmPIQhWY1) | [Retrospect](https://open.spotify.com/album/1FzOrekTb5ucVOISuozDmT) | 3:04 | 2023-12-01 |  |
 | [Return to Solitude](https://open.spotify.com/track/4tY6vq0xdebZVaZ33OfPUi) | [Trinnie Deux](https://open.spotify.com/artist/2JExVfRCf2QZgspjnuXCWS) | [Return to Solitude](https://open.spotify.com/album/5XtaqxModVtWaB671MOZoI) | 2:18 | 2020-10-20\* | 2020-12-12 |
 | [Revival](https://open.spotify.com/track/28sltBUJ0po8xXWfTrFPe2) | [Brenda Latro](https://open.spotify.com/artist/0mHX6nwLN0iQCEGTNUkpFC) | [Revival](https://open.spotify.com/album/2I4Gb4vBDlszTW1sHT7MDT) | 3:28 | 2021-11-10 | 2022-03-25 |
 | [Ridges](https://open.spotify.com/track/6Q3WHEYkQ54apZl6WoFyQu) | [Jon Laer](https://open.spotify.com/artist/3XZArTk2vsNiSzawsfi3XW) | [Ridges](https://open.spotify.com/album/5QPmwgdpIy1rjFGazOFDpC) | 3:45 | 2021-05-04 | 2021-06-16 |

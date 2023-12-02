@@ -2,9 +2,9 @@
 
 ### [Jazz NXT](https://open.spotify.com/playlist/37i9dQZF1DX9zYTPIU0FeE)
 
-> Journey through the exciting and innovative sounds of South African Jazz\. Cover: <a href="https://open.spotify.com/artist/1CQAguK72YsRMOjz1ECeqq?si=gQyaDY81TYKBclXlWJQcZg">Zu.</a>
+> Journey through the exciting and innovative sounds of South African Jazz\. Cover: <a href="https://open.spotify.com/artist/4pJUoi3zUenJPBfOGfIQhs?si=TOE0uf8iTvqYTNht5twFPw">Bokang Ramatlapeng</a>
 
-188 songs - 20 hr 24 min
+190 songs - 20 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,7 @@
 | [Bamako Love Song](https://open.spotify.com/track/1kLnNSKAO9HxS4qKbR9aza) | [MABUTA](https://open.spotify.com/artist/4Z6IP9yKpOBbitoDKeMIFI), [Shane Cooper](https://open.spotify.com/artist/2NFkaT0OaYcQiY1UsW9JtZ), [Shabaka](https://open.spotify.com/artist/6ywMpa6AmGJpV5Sbyy58Js) | [Welcome to This World](https://open.spotify.com/album/42rE11bATq8xq7vID2ekDw) | 5:22 | 2022-04-28 | 2023-02-10 |
 | [Bayakhala](https://open.spotify.com/track/044VNnUGUaAOphHS0uHITs) | [The Brother Moves On](https://open.spotify.com/artist/1lk7zDKaonwqrwKwt8Krd7) | [Bayakhala](https://open.spotify.com/album/0X0kjZMbBYfMg00uuY6vkf) | 5:30 | 2022-08-18 | 2023-05-13 |
 | [Bela Bela \- Live Studio](https://open.spotify.com/track/29uC6WCV5q0jYJlfVw8IDc) | [Nkosi Zondo](https://open.spotify.com/artist/6fZnlEQhCdN5rTWuzKG7ao), [Bhekinkosi 'Soja' Hlatshwayo](https://open.spotify.com/artist/1pOOeJi41sMEExc6FXxWIR) | [Bela Bela \(Live Studio\)](https://open.spotify.com/album/7jwsvjLpVhlglv8Wy7NZOn) | 6:38 | 2023-10-19 |  |
-| [Bhaca Blue](https://open.spotify.com/track/4AncHenxnWxZS5ftGRZLc2) | [Steve Dyer](https://open.spotify.com/artist/61aqbPYgQBxkHz5zs4L1YO) | [Genesis of a Different World](https://open.spotify.com/album/1jpy0s4HMRWrT2RIJDWkp9) | 7:56 | 2022-04-28 |  |
+| [Bhaca Blue](https://open.spotify.com/track/4AncHenxnWxZS5ftGRZLc2) | [Steve Dyer](https://open.spotify.com/artist/61aqbPYgQBxkHz5zs4L1YO) | [Genesis of a Different World](https://open.spotify.com/album/1jpy0s4HMRWrT2RIJDWkp9) | 7:56 | 2022-04-28 | 2023-12-02 |
 | [Blues For Huey](https://open.spotify.com/track/4vKjCNZoidDX4HIeapr2oD) | [Hugh Masekela](https://open.spotify.com/artist/1b3F5FI7TX4IWTNA4P1kWp) | [Home Is Where The Music Is](https://open.spotify.com/album/7qfqgYcxCsLhu2xIRWKOdD) | 6:25 | 2023-11-01 | 2023-11-17 |
 | [Bo Molelekwa](https://open.spotify.com/track/1jpuXhtRTx0yj1vduv85TF) | [Moses Taiwa Molelekwa](https://open.spotify.com/artist/6Ev9BwLFnEmfDmR0jTqvq0) | [Finding One's Self](https://open.spotify.com/album/5DyjfYLKHdUPYSo14431dq) | 6:47 | 2023-11-01 | 2023-11-17 |
 | [Breathe](https://open.spotify.com/track/0Ybt7GtFdFutFAcDG8BadS) | [Zarcia](https://open.spotify.com/artist/3zXWyPAkoMFgr92LxUzPvR) | [THERAPY](https://open.spotify.com/album/2IST9MireQnJPgGwTbkWM9) | 4:59 | 2022-04-28 |  |
@@ -68,7 +68,7 @@
 | [House of the Rising Sun](https://open.spotify.com/track/2jMSBk8jNymJngmMj9jGxT) | [Somi](https://open.spotify.com/artist/6UYqtBD79GpmqjttbzV6iA) | [House of the Rising Sun](https://open.spotify.com/album/4ywreEPoWhZilE0Asy9Wof) | 3:45 | 2022-04-28 | 2023-10-30 |
 | [How Why When](https://open.spotify.com/track/4zPiJutnH4BoPlt4nYpsFi) | [Spha Mdlalose](https://open.spotify.com/artist/5zgK9I4L2Nwjm4mk3lphMO) | [Indlel'eyekhaya](https://open.spotify.com/album/6BprMXrD72oW5QF3hlS1m7) | 5:21 | 2022-04-28 |  |
 | [Hymn For Hani](https://open.spotify.com/track/1dyINry7aQw296piLxPzUB) | [Kujenga](https://open.spotify.com/artist/46zBMWkU58KyXCD5WuS3ha) | [Hymn For Hani](https://open.spotify.com/album/1ii3szb5NzB9ssDm4Vghvg) | 11:56 | 2023-08-25 |  |
-| [I Fall in Love Too Easily](https://open.spotify.com/track/6YKNvlxRImDvcNwA65N2mz) | [Seba Kaapstad](https://open.spotify.com/artist/6i1YUN2HJGtCdO3s17JV3V) | [Tagore's](https://open.spotify.com/album/1Ljp2q2Pk9gHrmrFfG6NfC) | 5:27 | 2022-04-28 |  |
+| [I Fall in Love Too Easily](https://open.spotify.com/track/6YKNvlxRImDvcNwA65N2mz) | [Seba Kaapstad](https://open.spotify.com/artist/6i1YUN2HJGtCdO3s17JV3V) | [Tagore's](https://open.spotify.com/album/1Ljp2q2Pk9gHrmrFfG6NfC) | 5:27 | 2022-04-28 | 2023-12-02 |
 | [I Long for You](https://open.spotify.com/track/54ab1ttBEwPhxMMZBJTXzH) | [Andrew Eagle](https://open.spotify.com/artist/0Eqm4hPvKPGbuTHsNFceal), [Romy Brauteseth](https://open.spotify.com/artist/7uKKrdYngR7kzq3byKECHE), [Sphelelo Mazibuko](https://open.spotify.com/artist/0GueyvsufjRXgZBARevbZT) | [A Grain of Truth](https://open.spotify.com/album/2ShgYaIeo4LVuoL3oXOOBN) | 4:56 | 2022-04-28 | 2023-03-18 |
 | [I Remember Bra Hugh](https://open.spotify.com/track/4mDhlkiDgOLH4iTdQ1fp2g) | [McCoy Mrubata](https://open.spotify.com/artist/1s3Cp2bZrnzP9rOFeIJvw5) | [Quiet Please](https://open.spotify.com/album/5BEpzAIZOCN7RzUNWf8IOe) | 5:43 | 2022-04-28 | 2023-03-18 |
 | [I Remember Somagwaza](https://open.spotify.com/track/2ZHk1ywkE3GN9YkUKrWIRn) | [Ayanda Sikade](https://open.spotify.com/artist/6F9LoTvwNSxtAVFj5i6Hnh) | [Movements](https://open.spotify.com/album/1yJSxgs0E82Ece15FZ86OX) | 6:38 | 2022-04-28 |  |
@@ -106,6 +106,7 @@
 | [Malume](https://open.spotify.com/track/0remaUvyhDjXE5OUFNmVsS) | [Tune Recreation Committee](https://open.spotify.com/artist/6lNEil3Rutgl0lscHp9pZx) | [Afrika Grooves With the Tune Recreation Committee](https://open.spotify.com/album/7etAEMYrH6A4M3Q7LvaycA) | 6:45 | 2022-04-28 | 2023-03-18 |
 | [Marabi](https://open.spotify.com/track/5X1eMB9DdFDR5IMqigxAMV) | [Malombo](https://open.spotify.com/artist/4bXWyXENW0qmuSg1Lnkj7q) | [Pele Pele](https://open.spotify.com/album/3Gc72EaS2NgCQzNeZI8PAS) | 7:30 | 2023-11-01 | 2023-11-17 |
 | [Mdantsane](https://open.spotify.com/track/31wngQeY1jLRdR1vLirax7) | [Ayanda Sikade](https://open.spotify.com/artist/6F9LoTvwNSxtAVFj5i6Hnh) | [Umakhulu](https://open.spotify.com/album/4OKxDZS6s45zQdFCeO2y7e) | 8:39 | 2023-11-01 | 2023-11-17 |
+| [Mindif \- Single Edit](https://open.spotify.com/track/0KfGdrpJ3Dn4eW7CQRqRgO) | [Abdullah Ibrahim](https://open.spotify.com/artist/39mb0I6tdTcCXkeigvzxOJ), [Noah Jackson](https://open.spotify.com/artist/5n3YSxzEv2ZTuEpCNAsUDe), [Cleve Guyton Jr.](https://open.spotify.com/artist/1y2Ch662bdySaXcG4lu77g) | [Mindif](https://open.spotify.com/album/0fGJTOhEGxKMIEFtsemF19) | 4:16 | 2023-11-30 |  |
 | [Mogaetsho](https://open.spotify.com/track/4cs9zPibRaJWnpinq2OCjA) | [Bokani Dyer](https://open.spotify.com/artist/1BEfHN0wvVGDXaQCWDqIyy) | [Radio Sechaba](https://open.spotify.com/album/0gJH7Mg6iDdjxFssLUHTGj) | 5:32 | 2023-05-12 | 2023-10-12 |
 | [Mogaetsho](https://open.spotify.com/track/6M7qRhvKFVoczT8Nlrasdq) | [Bokani Dyer](https://open.spotify.com/artist/1BEfHN0wvVGDXaQCWDqIyy) | [Radio Sechaba](https://open.spotify.com/album/5qK3CSS06KxQ7zF4xnFWJB) | 5:32 | 2023-10-05 |  |
 | [Molo Sisi](https://open.spotify.com/track/2Gi7DKVBgCMkWKKQgioOWZ) | [Mandisi Dyantyis](https://open.spotify.com/artist/6hNOG85RpnNVlDUvl6jNF0) | [Somandla](https://open.spotify.com/album/54L8Xvb3x6mVpFOg2io6rE) | 6:02 | 2022-04-28 | 2023-03-18 |
@@ -168,6 +169,7 @@
 | [The Panther](https://open.spotify.com/track/5duF6755ZRQ90ga0HUlirm) | [Simeon Davis Group](https://open.spotify.com/artist/4VpuhyxGT6WgAwOfI6OLqT), [Alex Hand](https://open.spotify.com/artist/1JHDHQilgJSwnEvwRmsFpL) | [Of Narratives & Nocturnes](https://open.spotify.com/album/52UFxrxnZAHFnzYmCLGoIE) | 12:26 | 2022-06-23 | 2023-02-04 |
 | [The Prayer](https://open.spotify.com/track/6Zr7F3b51giK0VapxTNjRS) | [Leagan Starchild](https://open.spotify.com/artist/463uy2bD1rR0u2GbG8AMxS), [Mangaliso Asi](https://open.spotify.com/artist/154yazp34Zc2hrkxo0YbTx), [DemiMa](https://open.spotify.com/artist/33YFO60EsYiELGlIxVioxD) | [Ekyoto](https://open.spotify.com/album/2Ga31FnP8JCHAncOn9MxgS) | 2:37 | 2022-04-28 | 2023-03-18 |
 | [The Rapture](https://open.spotify.com/track/7MHE2OM265GQ7TAGB5DnSo) | [Gabi Motuba](https://open.spotify.com/artist/0weIOOeTGcBXsHufTBahtC) | [Tefiti \- Goddess of Creation](https://open.spotify.com/album/7GAp6bCSVu0dbV5scjOa5M) | 2:46 | 2022-04-28 | 2023-08-25 |
+| [The Waters](https://open.spotify.com/track/3jJ4WhN4qNSM5dkV79C4JW) | [Bokang Ramatlapeng](https://open.spotify.com/artist/4pJUoi3zUenJPBfOGfIQhs) | [The Waters](https://open.spotify.com/album/6MSFydma7FJtUStM0FqTiU) | 5:02 | 2023-11-30 |  |
 | [Theme From "Proof Of The Man"](https://open.spotify.com/track/11MvAJkEOi1PfO2pxLjoGJ) | [Dollar Brand](https://open.spotify.com/artist/6qshOTFUQhvYrza4Sc85Tl), [Archie Shepp](https://open.spotify.com/artist/7C2DSqaNkh0w77O5Jz1FKh) | [Duet](https://open.spotify.com/album/3L5DqasQ3XCMfIiaxz4r6x) | 8:17 | 2023-11-01 | 2023-11-17 |
 | [Thokozile Queen Mother](https://open.spotify.com/track/3xIveLdbKx5x1SbUXPfxUs) | [Tumi Mogorosi](https://open.spotify.com/artist/4GOLjcxxywS6GSCI24fsf6) | [Project ELO](https://open.spotify.com/album/22mdGQMdG58pswyb3GkZL2) | 6:12 | 2022-04-28 | 2023-08-26 |
 | [Thongo Lam \(Iyeza\)](https://open.spotify.com/track/2udpeFRqsPPWLpWqXP7hW0) | [Thandiswa](https://open.spotify.com/artist/6Y5DNQAHBjLtlb7xPOmk3N) | [Ibokwe](https://open.spotify.com/album/4iCpOjGwWQzIbHPlna6QyM) | 4:38 | 2023-11-01 | 2023-11-17 |

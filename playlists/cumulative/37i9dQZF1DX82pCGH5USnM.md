@@ -4,7 +4,7 @@
 
 > Soft house music for your laidback moments.
 
-747 songs - 1 day 18 hr 24 min
+750 songs - 1 day 18 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -395,7 +395,7 @@
 | [Magic Touch](https://open.spotify.com/track/6K43OgWy4rxmz7iKHij6Ua) | [Tim Olsson](https://open.spotify.com/artist/3efoFjvdNKj8La91WgFA1j) | [Magic Touch](https://open.spotify.com/album/1ontJHV8Xqor2szB88YxDP) | 2:12 | 2022-09-16 |  |
 | [Majestic Diver](https://open.spotify.com/track/5kl9KNQIIV3xPGvBP2xPmw) | [Manatee Commune](https://open.spotify.com/artist/41JNAYVuPs7zwJbQBQ6tec) | [Majestic Diver](https://open.spotify.com/album/46HzGw31BxoYlARH6kIspC) | 4:10 | 2020-04-14 | 2020-10-16 |
 | [Mamanuca](https://open.spotify.com/track/3EFMCEcsRrfDiDIEUlBgRi) | [Naupaka](https://open.spotify.com/artist/5jKo4vIpQPd4YyTZKsBQuQ) | [Mamanuca](https://open.spotify.com/album/2Ay9ThhhF500zjiEWoXBJm) | 2:16 | 2023-01-13 |  |
-| [Marathia](https://open.spotify.com/track/6Vcmffnur4CAIFaV0Z1VHv) | [Cake](https://open.spotify.com/artist/55F92tNiRQa7dL6QXAJilc) | [Marathia](https://open.spotify.com/album/3AjVuMTqsXGR7vXNo9OwSu) | 2:13 | 2022-10-28 |  |
+| [Marathia](https://open.spotify.com/track/6Vcmffnur4CAIFaV0Z1VHv) | [Cake](https://open.spotify.com/artist/55F92tNiRQa7dL6QXAJilc) | [Marathia](https://open.spotify.com/album/3AjVuMTqsXGR7vXNo9OwSu) | 2:13 | 2022-10-28 | 2023-12-02 |
 | [Marbella Sun](https://open.spotify.com/track/4RiHR70ysOr82n2d5cAq8q) | [Marzell Paris](https://open.spotify.com/artist/7qzHrRTMwAhRARXZ2v0rwc) | [Marbella Sun](https://open.spotify.com/album/28Pm0uMfRZyKcaXhI2SynC) | 3:44 | 2021-04-15 | 2023-01-20 |
 | [Matter](https://open.spotify.com/track/5Rd1qrMQpuDcgmqrhC1OcM) | [Klejv](https://open.spotify.com/artist/491ZjutBNQPFA6hn5lDQW4) | [Matter](https://open.spotify.com/album/3AjQTfwlLHoiblJkFZPTCi) | 2:39 | 2021-04-21 | 2021-09-09 |
 | [Mediterranea](https://open.spotify.com/track/6WyxIRWwje9OjziaplhUVJ) | [Thirsty Ear](https://open.spotify.com/artist/6RqaxUVExoKE01pPo39A2e) | [Mediterranea](https://open.spotify.com/album/6XOJlEUYi2uRbPwWqBfm6u) | 4:21 | 2021-06-16 | 2023-01-20 |
@@ -490,6 +490,7 @@
 | [perspectives](https://open.spotify.com/track/7oMhsZbEo17nDpVLHM43sJ) | [4TB](https://open.spotify.com/artist/28REDqAxeVHbyo6Q6cwtkF) | [perspectives](https://open.spotify.com/album/48kHBZ4KhWzw4zBMebaMkR) | 3:21 | 2022-09-16 |  |
 | [Peyote](https://open.spotify.com/track/2UogGmSbe5uiGVJSoe3PcS) | [Beyhude](https://open.spotify.com/artist/65orViGnlMcbptdIGceZzo) | [Peyote](https://open.spotify.com/album/0Z90edv3cnFePD7TkayWkb) | 3:48 | 2020-04-14 | 2020-12-16 |
 | [Phase Off](https://open.spotify.com/track/4jnuEF4AKcTnJg0bpiVsKQ) | [West & Zander](https://open.spotify.com/artist/2Zjic6AMVbL0WvXf5ll1lA) | [Phase Off EP](https://open.spotify.com/album/2iEyHd5HSBeKQlRpHZMnar) | 3:32 | 2021-07-08 | 2021-08-20 |
+| [Phuket](https://open.spotify.com/track/3Sqk5b3LUnqjPVMA8BVkro) | [WickedWish](https://open.spotify.com/artist/7mAYh1GPFbyzFnRpmej9Xj) | [Phuket](https://open.spotify.com/album/16GUyxx81tkR744vMg3coF) | 2:55 | 2023-12-01 |  |
 | [Piano Park](https://open.spotify.com/track/7MYP5ACQrR73wJ4CQkzhaZ) | [Ben Jonovski](https://open.spotify.com/artist/01lzF0kz4osCQXfUDFmOnC) | [Piano Park](https://open.spotify.com/album/6u0PJfhQLlBRArcd2T5iNr) | 2:08 | 2022-02-10 |  |
 | [Piece Of Me](https://open.spotify.com/track/5AacqlxHPjBA5amhrkkdRR) | [Jorja X](https://open.spotify.com/artist/75eRLowc6cNPJmalbZoU6H) | [Piece Of Me](https://open.spotify.com/album/5egWJ1LnfvrNX3zBwyz28a) | 2:16 | 2021-03-06 | 2021-06-02 |
 | [Pigments](https://open.spotify.com/track/627bEjAmoEbLa4hVA04W3R) | [Norabel](https://open.spotify.com/artist/02weRmIvfXFNR4FAIXEQSo) | [Blue Pigments](https://open.spotify.com/album/0WAoYRTMUNd71Y2y5zbXfk) | 2:10 | 2020-04-03\* | 2021-03-25 |
@@ -604,6 +605,7 @@
 | [Smiling Falsifier](https://open.spotify.com/track/1yubV3KvZpkFXQWm5C7i5S) | [under.tone](https://open.spotify.com/artist/19rXpZkWhLrMTxEdqpOICe) | [Smiling Falsifier](https://open.spotify.com/album/1AP8iOyjLZXAMyhSosSHt1) | 3:08 | 2023-01-20 |  |
 | [Smoke N' Stuff](https://open.spotify.com/track/76GzwL91UGF3mczJ5rD1JU) | [Sum Wave](https://open.spotify.com/artist/0bfdnPaHczaQt6tYe8J4Ci) | [Smoke N' Stuff](https://open.spotify.com/album/2SPGcjGcimqvcsEKBbkCsj) | 3:17 | 2022-11-25 |  |
 | [Socorro & Jüpiter](https://open.spotify.com/track/4RNDmizeTDGJVqbX4nKSM1) | [Felipe Gordon](https://open.spotify.com/artist/7rQKvsWUOJgXmInx2JuaXj) | [Socorro & Jüpiter](https://open.spotify.com/album/67qEFDPztO2MNCmuDtwp84) | 6:55 | 2020-11-11 | 2020-12-02 |
+| [Soft and Nice](https://open.spotify.com/track/0vrQTP6dfQsQSohyIfB7SP) | [Calvin Durant](https://open.spotify.com/artist/7v3g6YWSgDGIsSZFlCznOL) | [Soft and Nice](https://open.spotify.com/album/6wYji9i4ZVFsz4kYOoVAtm) | 2:22 | 2023-12-01 |  |
 | [Soil](https://open.spotify.com/track/19QImmjKGCj2KNvJbFjwRd) | [Bush Lily](https://open.spotify.com/artist/6DegnHhrD8IyI7F7iDnXm4) | [Soil](https://open.spotify.com/album/1nr940JdureKTuemThNzQ4) | 2:17 | 2023-02-24 |  |
 | [Solana Beach](https://open.spotify.com/track/2VWrRpMicsoQo4I35w0e7W) | [SunZunSun](https://open.spotify.com/artist/5SKcOlTnoLFO3fKYCnLRWN) | [The Best](https://open.spotify.com/album/2CPNcUW9gY2qeWJquCPnHj) | 3:40 | 2022-01-21 | 2023-06-03 |
 | [solar bliss](https://open.spotify.com/track/5pmOBhY1ZyQwpebo3vfzes) | [Gabri From France](https://open.spotify.com/artist/4ybvTRsVimsKgk44cmwFSj) | [solar bliss](https://open.spotify.com/album/171awXr7cajam1zPKEh9XV) | 2:44 | 2022-09-02 |  |
@@ -620,6 +622,7 @@
 | [Spicy \- Disco Edit](https://open.spotify.com/track/01b16Z7WnxoK8EkZmj8yF6) | [Curacado](https://open.spotify.com/artist/3MnwSIICaUw2aBQiOklr1b) | [Spicy \- Disco Edit](https://open.spotify.com/album/5EVKank3vCy7E0ZW7Bo6XU) | 2:57 | 2021-11-08 |  |
 | [Spinn](https://open.spotify.com/track/0fyQrTaCAbbbTmRBbMxICv) | [Off Grand](https://open.spotify.com/artist/1O3Vddh08h7H2GWTqxbZ77) | [Spinn](https://open.spotify.com/album/46UKdbMr79aySMIiL5wXqd) | 2:52 | 2021-07-08 | 2022-09-17 |
 | [Spirals](https://open.spotify.com/track/2iLCFMUPpBkrluLl55RxI6) | [Ralf](https://open.spotify.com/artist/4UIhkghagHG8sGJ3GO75HR) | [Drine](https://open.spotify.com/album/2gDEjivLQAHFzY7OdUgy5n) | 3:58 | 2020-08-11 | 2021-06-02 |
+| [Sprout](https://open.spotify.com/track/7vjXqLwFaCHRjzwUKQI4lY) | [Yim](https://open.spotify.com/artist/79EyYkNpcR3MlT972PZoUc) | [Sprout](https://open.spotify.com/album/6t11JT9VfzCnvwmnSYhJXD) | 2:32 | 2023-12-01 |  |
 | [Star Within A Star](https://open.spotify.com/track/4qK7Xqqb6HMyRDe9NsNSNT) | [Himari Aoki](https://open.spotify.com/artist/5wymut0det0V9Vf6l8t0mD) | [Star Within A Star](https://open.spotify.com/album/7FzoqegjrhV7Hn5DOdWNVt) | 3:11 | 2022-12-23 |  |
 | [Stay](https://open.spotify.com/track/5CGsQsVx661ZGuxsoNYu5Y) | [My Ocean](https://open.spotify.com/artist/3QHeux68acRCH1mNlBrdoP) | [Southern Sky](https://open.spotify.com/album/2FND9HEcVEEmhGzfQuNnYH) | 3:47 | 2021-01-05 | 2021-05-06 |
 | [Stay Hazy](https://open.spotify.com/track/6kO1RFWTIgletNVPVj9H5S) | [Duckmaw](https://open.spotify.com/artist/4T1LvLyHdDj300MVNb6VyD) | [Stay Hazy / Insomnia](https://open.spotify.com/album/6jiv6wvCNTN6bHiloaS8mt) | 4:44 | 2021-11-08 |  |

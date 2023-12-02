@@ -2,9 +2,9 @@
 
 ### [Salsa Nation](https://open.spotify.com/playlist/37i9dQZF1DX4qKWGR9z0LI)
 
-> Lo último y lo mejor de la salsa\. Cover: Mon Laferte
+> Lo último y lo mejor de la salsa\. Cover: Gian Marco & Daniela Darcourt
 
-246 songs - 18 hr 31 min
+247 songs - 18 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,6 +116,7 @@
 | [La Pantera Mambo](https://open.spotify.com/track/6258We1xSV3M2oLVMwhirP) | [La\-33](https://open.spotify.com/artist/1Y2yzHPbBWZouNYTOGFq7u) | [La\-33](https://open.spotify.com/album/38sJtIZtuLAMfphGWBtHSt) | 6:14 | 2022-01-01 |  |
 | [La Película II](https://open.spotify.com/track/5WZPTq3NoLhIys3RyPF5Ye) | [Yan Collazo](https://open.spotify.com/artist/6D9rSZLgUiBRupCIsfhErW), [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1) | [Salsa Premier](https://open.spotify.com/album/0U0shFxqYSSjHADZ6N97FE) | 4:17 | 2022-01-01 | 2022-07-20 |
 | [La rebelion](https://open.spotify.com/track/00Ro1lnV3V6i87aY4t8Q43) | [Joe Arroyo](https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg) | [Sabor a Salsa](https://open.spotify.com/album/4168LZnMKT5rgITtNBbo5z) | 6:16 | 2022-01-01 | 2022-07-16 |
+| [LA RONDA](https://open.spotify.com/track/6LsXU5cUoOqC2YnUCu7b5E) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [LVEU: VIVE LA TUYA...NO LA MIA](https://open.spotify.com/album/1ZVJTCW5rxpHKNgsNL91J2) | 3:29 | 2023-12-01 |  |
 | [La Rumba Que Yo Te Traigo](https://open.spotify.com/track/1o2hixb9ZedXPpNANypMwd) | [Manyoma Brothers](https://open.spotify.com/artist/1jriNjegHWOysnyACg9Qe3) | [La Rumba Que Yo Te Traigo](https://open.spotify.com/album/5xC1o0vtWDY1etRTSnTIia) | 3:14 | 2022-05-20 | 2022-05-29 |
 | [La Vamo a Tumbar](https://open.spotify.com/track/2PshFuRSc4uiKik36z3xDy) | [Grupo Saboreo](https://open.spotify.com/artist/1jBovgyZEnLlMQIXRUN1G9) | [Exploring Latin Heritage, Vol.3](https://open.spotify.com/album/6mwGbnCkv1CfNJ5Y3e8Or6) | 5:35 | 2023-03-03 |  |
 | [La Vamo a Tumbar](https://open.spotify.com/track/2XqkEVVCSNHV8IYbAXVaG4) | [Grupo Saboreo](https://open.spotify.com/artist/1jBovgyZEnLlMQIXRUN1G9) | [Colombian Street Party](https://open.spotify.com/album/2Ff2R5yM4pblzzhyxnYpel) | 5:35 | 2022-01-01 | 2022-07-29 |
@@ -145,7 +146,7 @@
 | [Medley](https://open.spotify.com/track/0WwVA5yRSxSUBM3macPfJK) | [Louie Ramirez](https://open.spotify.com/artist/3ZRoChGFOnnQgeTiMo0o8L), [Ray De La Paz](https://open.spotify.com/artist/7vCuHLeYJEynulecY53BwH) | [Otra Noche Caliente](https://open.spotify.com/album/7zeeEkM8eS4wWZARO6QMaM) | 7:19 | 2022-01-01 | 2022-11-13 |
 | [Mi Confesión](https://open.spotify.com/track/4ogtFmfPM9dRoQpNXVxq78) | [Adolescent's Orquesta](https://open.spotify.com/artist/70nxnxEqDQIEWneRjg2Q4O), [Caceres](https://open.spotify.com/artist/2hh9vTDXej21Upds5nlJTn) | [Mi Confesión](https://open.spotify.com/album/0QrjJ4xZ1YOMRglUhSUxSq) | 3:18 | 2023-07-21 |  |
 | [Mi Propiedad Privada](https://open.spotify.com/track/3DAxwWtA3N41eNZ9pCsQnl) | [LA INDIA](https://open.spotify.com/artist/3NIZFmehJM8YiGpCdihlck) | [Mi Propiedad Privada](https://open.spotify.com/album/5wzCExW5NvwRMvDRav2taR) | 4:12 | 2022-01-01 | 2023-06-03 |
-| [Mira \- Versión Salsa](https://open.spotify.com/track/4nYuL6R1SuWAOJRwAWasct) | [Jerry Rivera](https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [Mira](https://open.spotify.com/album/2wrbLhESYlyhzIlhJ1Lo8X) | 3:36 | 2022-01-01 |  |
+| [Mira \- Versión Salsa](https://open.spotify.com/track/4nYuL6R1SuWAOJRwAWasct) | [Jerry Rivera](https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [Mira](https://open.spotify.com/album/2wrbLhESYlyhzIlhJ1Lo8X) | 3:36 | 2022-01-01 | 2023-12-02 |
 | [Mis Ojos Lloran por Tí](https://open.spotify.com/track/1hvtQqJSaRAWP0PCW3P80Q) | [You Salsa](https://open.spotify.com/artist/4kYoLs6okVQkRPGtrzMgcU) | [Mis Ojos Lloran por Tí](https://open.spotify.com/album/1Yfa4XmFw6Y7L7YIKSPG7R) | 4:18 | 2022-01-01 |  |
 | [Muchachita](https://open.spotify.com/track/1bZ3HVLOlIKEe7RPeq3ByD) | [Sabotage](https://open.spotify.com/artist/1KNORYnqVhiI74Daro0xop) | [Salsa Andina](https://open.spotify.com/album/4KoUwHSjUGM9nYM7cNEp9M) | 3:49 | 2022-01-21 | 2022-02-25 |
 | [Nada de Nada](https://open.spotify.com/track/4CX96IInUaO0d6COMz62Qp) | [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Pa'lla Voy](https://open.spotify.com/album/463Gp4DWFkicvZ3DCfgj0S) | 4:12 | 2022-03-18 | 2023-05-01 |

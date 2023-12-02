@@ -1,12 +1,12 @@
 {
   "description": "Hardcore and uptempo to get you pumped",
-  "num_followers": 67286,
+  "num_followers": 67423,
   "original_name": "Hardcore Rage 2023",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZGNkYWVhM2JkODQ5NTBjZmNjMjY3NGM2YTBkNTJhNjc3ODU3MWE3",
+  "snapshot_id": "MCw0MDY0Y2M5NmFhYWRlYmJhMDRkOWVjMDdiNDA2MDMxODkzOWI0MmMy",
   "tracks": [
     {
       "added_at": "2023-11-27 13:14:22",
@@ -787,18 +787,18 @@
     {
       "added_at": "2023-11-27 13:14:22",
       "album": {
-        "name": "Dynamite",
-        "url": "https://open.spotify.com/album/5F7aiiYykkbEHH4RvKBfp2"
+        "name": "Not Afraid to Fall",
+        "url": "https://open.spotify.com/album/45XBkkNEnLzgSQJFWMqo92"
       },
       "artists": [
         {
-          "name": "Major Conspiracy",
-          "url": "https://open.spotify.com/artist/0WjzjRwo3dcv6HCPs70Rnc"
+          "name": "Hyperverb",
+          "url": "https://open.spotify.com/artist/6wBNWFHe0PIG1p867KLihx"
         }
       ],
-      "duration_ms": 202575,
-      "name": "Dynamite",
-      "url": "https://open.spotify.com/track/7ecePzsLSoELyuQ3ZyKqMU"
+      "duration_ms": 185230,
+      "name": "Not Afraid to Fall",
+      "url": "https://open.spotify.com/track/6YLTwVpwO2OwuKPq5MC5oe"
     },
     {
       "added_at": "2023-11-27 13:14:22",
@@ -823,18 +823,18 @@
     {
       "added_at": "2023-11-27 13:14:22",
       "album": {
-        "name": "Not Afraid to Fall",
-        "url": "https://open.spotify.com/album/45XBkkNEnLzgSQJFWMqo92"
+        "name": "Dynamite",
+        "url": "https://open.spotify.com/album/5F7aiiYykkbEHH4RvKBfp2"
       },
       "artists": [
         {
-          "name": "Hyperverb",
-          "url": "https://open.spotify.com/artist/6wBNWFHe0PIG1p867KLihx"
+          "name": "Major Conspiracy",
+          "url": "https://open.spotify.com/artist/0WjzjRwo3dcv6HCPs70Rnc"
         }
       ],
-      "duration_ms": 185230,
-      "name": "Not Afraid to Fall",
-      "url": "https://open.spotify.com/track/6YLTwVpwO2OwuKPq5MC5oe"
+      "duration_ms": 202575,
+      "name": "Dynamite",
+      "url": "https://open.spotify.com/track/7ecePzsLSoELyuQ3ZyKqMU"
     },
     {
       "added_at": "2023-11-27 13:14:22",
@@ -935,38 +935,6 @@
     {
       "added_at": "2023-11-27 13:14:22",
       "album": {
-        "name": "Hardcore Chemical (Rulebreaking Hard Mix)",
-        "url": "https://open.spotify.com/album/0B5LofZay2fmX3K9pOIFcW"
-      },
-      "artists": [
-        {
-          "name": "Restrained",
-          "url": "https://open.spotify.com/artist/2ym6Gwn7qNzgiAm6VA3nsV"
-        }
-      ],
-      "duration_ms": 96000,
-      "name": "Hardcore Chemical - Rulebreaking Hard Mix",
-      "url": "https://open.spotify.com/track/4vaXwFEcHq4yBTMmRBdK35"
-    },
-    {
-      "added_at": "2023-11-27 13:14:22",
-      "album": {
-        "name": "LOSE STRESS",
-        "url": "https://open.spotify.com/album/2OKZCUdcVh8mCgPZEpQBhZ"
-      },
-      "artists": [
-        {
-          "name": "LunaKorpz",
-          "url": "https://open.spotify.com/artist/2OSIL8pcABTROov8XT74z1"
-        }
-      ],
-      "duration_ms": 168101,
-      "name": "LOSE STRESS",
-      "url": "https://open.spotify.com/track/1awFS7E8LutYumdpdYGq7M"
-    },
-    {
-      "added_at": "2023-11-27 13:14:22",
-      "album": {
         "name": "Go Insane",
         "url": "https://open.spotify.com/album/4R8s9MjRlSZvddk9uleGeG"
       },
@@ -987,6 +955,22 @@
     {
       "added_at": "2023-11-27 13:14:22",
       "album": {
+        "name": "LOSE STRESS",
+        "url": "https://open.spotify.com/album/2OKZCUdcVh8mCgPZEpQBhZ"
+      },
+      "artists": [
+        {
+          "name": "LunaKorpz",
+          "url": "https://open.spotify.com/artist/2OSIL8pcABTROov8XT74z1"
+        }
+      ],
+      "duration_ms": 168101,
+      "name": "LOSE STRESS",
+      "url": "https://open.spotify.com/track/1awFS7E8LutYumdpdYGq7M"
+    },
+    {
+      "added_at": "2023-11-27 13:14:22",
+      "album": {
         "name": "Fuego (Official Masters of Hardcore Spain 2022 Anthem)",
         "url": "https://open.spotify.com/album/11z5qFumjzdnEPFmPgAdWx"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 279157,
       "name": "Fuego - Official Masters of Hardcore Spain 2022 Anthem",
       "url": "https://open.spotify.com/track/28xaU1zdGofWCsxKwvIZ2o"
+    },
+    {
+      "added_at": "2023-11-27 13:14:22",
+      "album": {
+        "name": "Hardcore Chemical (Rulebreaking Hard Mix)",
+        "url": "https://open.spotify.com/album/0B5LofZay2fmX3K9pOIFcW"
+      },
+      "artists": [
+        {
+          "name": "Restrained",
+          "url": "https://open.spotify.com/artist/2ym6Gwn7qNzgiAm6VA3nsV"
+        }
+      ],
+      "duration_ms": 96000,
+      "name": "Hardcore Chemical - Rulebreaking Hard Mix",
+      "url": "https://open.spotify.com/track/4vaXwFEcHq4yBTMmRBdK35"
     },
     {
       "added_at": "2023-11-27 13:14:22",
@@ -1055,26 +1055,6 @@
     {
       "added_at": "2023-11-27 13:14:22",
       "album": {
-        "name": "The Roots (Official Harmony of Hardcore 2023 Anthem)",
-        "url": "https://open.spotify.com/album/7awpx7LqeMQlpGyu5CoBbA"
-      },
-      "artists": [
-        {
-          "name": "Dj Mad Dog",
-          "url": "https://open.spotify.com/artist/7oX7rzli18XsB2WFd88oW4"
-        },
-        {
-          "name": "Dave Revan",
-          "url": "https://open.spotify.com/artist/6lnLf5Y8uD0mP5dC0gXouZ"
-        }
-      ],
-      "duration_ms": 235734,
-      "name": "The Roots - Official Harmony of Hardcore 2023 Anthem",
-      "url": "https://open.spotify.com/track/6z0i14WyHNAdQq889bnSu8"
-    },
-    {
-      "added_at": "2023-11-27 13:14:22",
-      "album": {
         "name": "Fight Them All",
         "url": "https://open.spotify.com/album/7wY8Z4jVcMXECcIQ83docS"
       },
@@ -1095,18 +1075,22 @@
     {
       "added_at": "2023-11-27 13:14:22",
       "album": {
-        "name": "BE LOUDER",
-        "url": "https://open.spotify.com/album/6dTq1L6wEGnJWNaEVCsTGg"
+        "name": "The Roots (Official Harmony of Hardcore 2023 Anthem)",
+        "url": "https://open.spotify.com/album/7awpx7LqeMQlpGyu5CoBbA"
       },
       "artists": [
         {
-          "name": "Andy the Core",
-          "url": "https://open.spotify.com/artist/3GEDzLFDpKR3tsq72ZRTP7"
+          "name": "Dj Mad Dog",
+          "url": "https://open.spotify.com/artist/7oX7rzli18XsB2WFd88oW4"
+        },
+        {
+          "name": "Dave Revan",
+          "url": "https://open.spotify.com/artist/6lnLf5Y8uD0mP5dC0gXouZ"
         }
       ],
-      "duration_ms": 171428,
-      "name": "BE LOUDER",
-      "url": "https://open.spotify.com/track/6ckT6ox1soFZMQluYlF6uG"
+      "duration_ms": 235734,
+      "name": "The Roots - Official Harmony of Hardcore 2023 Anthem",
+      "url": "https://open.spotify.com/track/6z0i14WyHNAdQq889bnSu8"
     },
     {
       "added_at": "2023-11-27 13:14:22",
@@ -1131,6 +1115,22 @@
     {
       "added_at": "2023-11-27 13:14:22",
       "album": {
+        "name": "BE LOUDER",
+        "url": "https://open.spotify.com/album/6dTq1L6wEGnJWNaEVCsTGg"
+      },
+      "artists": [
+        {
+          "name": "Andy the Core",
+          "url": "https://open.spotify.com/artist/3GEDzLFDpKR3tsq72ZRTP7"
+        }
+      ],
+      "duration_ms": 171428,
+      "name": "BE LOUDER",
+      "url": "https://open.spotify.com/track/6ckT6ox1soFZMQluYlF6uG"
+    },
+    {
+      "added_at": "2023-11-27 13:14:22",
+      "album": {
         "name": "Birds Of Prey",
         "url": "https://open.spotify.com/album/47W7mse88m5QeXraSc28Ga"
       },
@@ -1151,6 +1151,22 @@
     {
       "added_at": "2023-11-27 13:14:22",
       "album": {
+        "name": "Beat My Drum",
+        "url": "https://open.spotify.com/album/0Ca81J3tS5KzIXPvvUAysq"
+      },
+      "artists": [
+        {
+          "name": "Dither",
+          "url": "https://open.spotify.com/artist/2CTPZndAY5BwdgHk8AX0B7"
+        }
+      ],
+      "duration_ms": 202124,
+      "name": "Beat My Drum",
+      "url": "https://open.spotify.com/track/17RJrhF02qbO7jN0jU5mdQ"
+    },
+    {
+      "added_at": "2023-11-27 13:14:22",
+      "album": {
         "name": "Psychopath",
         "url": "https://open.spotify.com/album/1lDlO2niOnrZPbzGwMez5e"
       },
@@ -1167,22 +1183,6 @@
       "duration_ms": 217411,
       "name": "Psychopath",
       "url": "https://open.spotify.com/track/5BQxtpXiJFMCqjKFklX7xo"
-    },
-    {
-      "added_at": "2023-11-27 13:14:22",
-      "album": {
-        "name": "Beat My Drum",
-        "url": "https://open.spotify.com/album/0Ca81J3tS5KzIXPvvUAysq"
-      },
-      "artists": [
-        {
-          "name": "Dither",
-          "url": "https://open.spotify.com/artist/2CTPZndAY5BwdgHk8AX0B7"
-        }
-      ],
-      "duration_ms": 202124,
-      "name": "Beat My Drum",
-      "url": "https://open.spotify.com/track/17RJrhF02qbO7jN0jU5mdQ"
     },
     {
       "added_at": "2023-11-27 13:14:22",
@@ -1243,6 +1243,22 @@
     {
       "added_at": "2023-11-27 13:14:22",
       "album": {
+        "name": "Adrenaline Kicks",
+        "url": "https://open.spotify.com/album/0CydGc9RB0mcPrEYEVOhoN"
+      },
+      "artists": [
+        {
+          "name": "Jur Terreur",
+          "url": "https://open.spotify.com/artist/1NNaj24msWMhbVRbLxga0u"
+        }
+      ],
+      "duration_ms": 160390,
+      "name": "Adrenaline Kicks",
+      "url": "https://open.spotify.com/track/5pgQRiuJ0dKnimS6wkpNfA"
+    },
+    {
+      "added_at": "2023-11-27 13:14:22",
+      "album": {
         "name": "Fvcking One",
         "url": "https://open.spotify.com/album/26DXvklEuDelfT7fLjyRCj"
       },
@@ -1287,22 +1303,6 @@
     {
       "added_at": "2023-11-27 13:14:22",
       "album": {
-        "name": "Adrenaline Kicks",
-        "url": "https://open.spotify.com/album/0CydGc9RB0mcPrEYEVOhoN"
-      },
-      "artists": [
-        {
-          "name": "Jur Terreur",
-          "url": "https://open.spotify.com/artist/1NNaj24msWMhbVRbLxga0u"
-        }
-      ],
-      "duration_ms": 160390,
-      "name": "Adrenaline Kicks",
-      "url": "https://open.spotify.com/track/5pgQRiuJ0dKnimS6wkpNfA"
-    },
-    {
-      "added_at": "2023-11-27 13:14:22",
-      "album": {
         "name": "After Dark",
         "url": "https://open.spotify.com/album/5NGidUj0aCwf9QLxMWomEy"
       },
@@ -1343,6 +1343,22 @@
     {
       "added_at": "2023-11-27 13:14:22",
       "album": {
+        "name": "The Ultimate Sound",
+        "url": "https://open.spotify.com/album/2yxYtxZZmQDIchjXz0gegW"
+      },
+      "artists": [
+        {
+          "name": "Neophyte",
+          "url": "https://open.spotify.com/artist/2AfGElfjqXuSyUny7dsj9p"
+        }
+      ],
+      "duration_ms": 161419,
+      "name": "The Ultimate Sound",
+      "url": "https://open.spotify.com/track/2Jum2ypFvxaNcLWHUyi17g"
+    },
+    {
+      "added_at": "2023-11-27 13:14:22",
+      "album": {
         "name": "Number One Thriller",
         "url": "https://open.spotify.com/album/0rguy92JmcRjE98uNQ9aIn"
       },
@@ -1359,22 +1375,6 @@
       "duration_ms": 192324,
       "name": "Number One Thriller",
       "url": "https://open.spotify.com/track/675l6GVF65IS81eznAR2po"
-    },
-    {
-      "added_at": "2023-11-27 13:14:22",
-      "album": {
-        "name": "The Ultimate Sound",
-        "url": "https://open.spotify.com/album/2yxYtxZZmQDIchjXz0gegW"
-      },
-      "artists": [
-        {
-          "name": "Neophyte",
-          "url": "https://open.spotify.com/artist/2AfGElfjqXuSyUny7dsj9p"
-        }
-      ],
-      "duration_ms": 161419,
-      "name": "The Ultimate Sound",
-      "url": "https://open.spotify.com/track/2Jum2ypFvxaNcLWHUyi17g"
     },
     {
       "added_at": "2023-11-27 13:14:22",
@@ -1647,6 +1647,26 @@
     {
       "added_at": "2023-11-27 13:14:22",
       "album": {
+        "name": "Het Verbond",
+        "url": "https://open.spotify.com/album/7cAnk9HFypHN1uxsU2d3EM"
+      },
+      "artists": [
+        {
+          "name": "Furyan",
+          "url": "https://open.spotify.com/artist/7KAMvC5fpPMWUgZYu3mEYJ"
+        },
+        {
+          "name": "Da Mouth of Madness",
+          "url": "https://open.spotify.com/artist/3QUpjXKcTee8KscFqpkSfv"
+        }
+      ],
+      "duration_ms": 256457,
+      "name": "Het Verbond",
+      "url": "https://open.spotify.com/track/1x9rkrQm68ZzhiO680mrS8"
+    },
+    {
+      "added_at": "2023-11-27 13:14:22",
+      "album": {
         "name": "DON'T BE SCARED",
         "url": "https://open.spotify.com/album/5beQxSHKyvH6FeYkRttFNn"
       },
@@ -1667,26 +1687,6 @@
       "duration_ms": 186098,
       "name": "DON'T BE SCARED",
       "url": "https://open.spotify.com/track/7acXF1WBYmFqqbgExXLQ98"
-    },
-    {
-      "added_at": "2023-11-27 13:14:22",
-      "album": {
-        "name": "Het Verbond",
-        "url": "https://open.spotify.com/album/7cAnk9HFypHN1uxsU2d3EM"
-      },
-      "artists": [
-        {
-          "name": "Furyan",
-          "url": "https://open.spotify.com/artist/7KAMvC5fpPMWUgZYu3mEYJ"
-        },
-        {
-          "name": "Da Mouth of Madness",
-          "url": "https://open.spotify.com/artist/3QUpjXKcTee8KscFqpkSfv"
-        }
-      ],
-      "duration_ms": 256457,
-      "name": "Het Verbond",
-      "url": "https://open.spotify.com/track/1x9rkrQm68ZzhiO680mrS8"
     },
     {
       "added_at": "2023-11-27 13:14:22",
@@ -1807,26 +1807,6 @@
     {
       "added_at": "2023-11-27 13:14:22",
       "album": {
-        "name": "Slugs 4 Snitches",
-        "url": "https://open.spotify.com/album/4g2EKX6UswnPDGqYVK1pBs"
-      },
-      "artists": [
-        {
-          "name": "Hellsystem",
-          "url": "https://open.spotify.com/artist/53EHsN2X6QI9xsmunKAW85"
-        },
-        {
-          "name": "Predator",
-          "url": "https://open.spotify.com/artist/39nubWTSdyGoDYpl3Wc5Zj"
-        }
-      ],
-      "duration_ms": 170742,
-      "name": "Slugs 4 Snitches",
-      "url": "https://open.spotify.com/track/6MHMcWZdrG6ZqqNdfLh2RM"
-    },
-    {
-      "added_at": "2023-11-27 13:14:22",
-      "album": {
         "name": "Go Wild Now",
         "url": "https://open.spotify.com/album/5SyasrNQvjgKmVuEPuyrH1"
       },
@@ -1851,6 +1831,26 @@
     {
       "added_at": "2023-11-27 13:14:22",
       "album": {
+        "name": "Slugs 4 Snitches",
+        "url": "https://open.spotify.com/album/4g2EKX6UswnPDGqYVK1pBs"
+      },
+      "artists": [
+        {
+          "name": "Hellsystem",
+          "url": "https://open.spotify.com/artist/53EHsN2X6QI9xsmunKAW85"
+        },
+        {
+          "name": "Predator",
+          "url": "https://open.spotify.com/artist/39nubWTSdyGoDYpl3Wc5Zj"
+        }
+      ],
+      "duration_ms": 170742,
+      "name": "Slugs 4 Snitches",
+      "url": "https://open.spotify.com/track/6MHMcWZdrG6ZqqNdfLh2RM"
+    },
+    {
+      "added_at": "2023-11-27 13:14:22",
+      "album": {
         "name": "TH3 FL0W",
         "url": "https://open.spotify.com/album/11ykfjfk1g4ZJjsx7tEM9J"
       },
@@ -1867,22 +1867,18 @@
     {
       "added_at": "2023-11-27 13:14:22",
       "album": {
-        "name": "Die For This",
-        "url": "https://open.spotify.com/album/1KQAvivjZXMwi4hBKWgpK1"
+        "name": "Ride With Me",
+        "url": "https://open.spotify.com/album/6lMQKunBm9GKk6QQfhRJQ4"
       },
       "artists": [
         {
-          "name": "Bulletproof",
-          "url": "https://open.spotify.com/artist/3Eby2L5JXvh1LLZhjOdea6"
-        },
-        {
-          "name": "Alee",
-          "url": "https://open.spotify.com/artist/07E7avQ9K8W8Gr6BCx8aU9"
+          "name": "Vandal!sm",
+          "url": "https://open.spotify.com/artist/34gGWxDix1DnDFwFWg4tn4"
         }
       ],
-      "duration_ms": 240300,
-      "name": "Die For This",
-      "url": "https://open.spotify.com/track/5RE1AIUAPa86jKiRENCpQG"
+      "duration_ms": 237818,
+      "name": "Ride With Me",
+      "url": "https://open.spotify.com/track/6QIvDOYiy1DiayGxMaPK6C"
     }
   ],
   "unique_name": "Hardcore Rage 2023",

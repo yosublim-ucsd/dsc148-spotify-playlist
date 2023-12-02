@@ -1,12 +1,12 @@
 {
   "description": "The best in classic and new UK Funky. Cover: Roska",
-  "num_followers": 102149,
+  "num_followers": 102151,
   "original_name": "UK Funky",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjOWVhYzlmODNmODU2YWYxZWRiZGY5YWNlMjNjZDc2NDNmZjAwODlm",
+  "snapshot_id": "MCw2ZDUyNjJiZmZmZmQzYjk0MjAxZjQ3NWM4ZGU3MjVlZTI5ZjAzOTVm",
   "tracks": [
     {
       "added_at": "2022-04-13 15:03:02",
@@ -607,22 +607,6 @@
     {
       "added_at": "2022-04-13 15:03:02",
       "album": {
-        "name": "Red Devil",
-        "url": "https://open.spotify.com/album/6up4KMMrMWCoNq6qqMFMeK"
-      },
-      "artists": [
-        {
-          "name": "DJ Motu",
-          "url": "https://open.spotify.com/artist/3kiWfO5TtNkHE3cshrJNdx"
-        }
-      ],
-      "duration_ms": 252633,
-      "name": "Red Devil",
-      "url": "https://open.spotify.com/track/0uEprpXfrUkQoa9pPK7G0F"
-    },
-    {
-      "added_at": "2022-04-13 15:03:02",
-      "album": {
         "name": "Diary of a Princess",
         "url": "https://open.spotify.com/album/1mzpEX5Ofcd8Vehzt8pGQe"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 235275,
       "name": "Frontline",
       "url": "https://open.spotify.com/track/6h05VHWDLN16kDBSWe0KpH"
+    },
+    {
+      "added_at": "2022-04-13 15:03:02",
+      "album": {
+        "name": "Red Devil",
+        "url": "https://open.spotify.com/album/6up4KMMrMWCoNq6qqMFMeK"
+      },
+      "artists": [
+        {
+          "name": "DJ Motu",
+          "url": "https://open.spotify.com/artist/3kiWfO5TtNkHE3cshrJNdx"
+        }
+      ],
+      "duration_ms": 252633,
+      "name": "Red Devil",
+      "url": "https://open.spotify.com/track/0uEprpXfrUkQoa9pPK7G0F"
     },
     {
       "added_at": "2022-04-13 15:03:02",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2022-04-13 15:03:02",
       "album": {
-        "name": "Limonata",
-        "url": "https://open.spotify.com/album/41XA8aTPXJnZig1wkoIOaS"
-      },
-      "artists": [
-        {
-          "name": "DJ Polo",
-          "url": "https://open.spotify.com/artist/2ZG0gXLgRGunF4fBMVGKK7"
-        }
-      ],
-      "duration_ms": 270000,
-      "name": "Swervin'",
-      "url": "https://open.spotify.com/track/5EIrCD2J9rcrTavGMRfQ0r"
-    },
-    {
-      "added_at": "2022-04-13 15:03:02",
-      "album": {
         "name": "Sensei EP",
         "url": "https://open.spotify.com/album/4eOUxNKQxKBdwIAoOpXHDf"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 281063,
       "name": "Feeling Funky",
       "url": "https://open.spotify.com/track/764vblH9EXsgdtrSpCGmL6"
+    },
+    {
+      "added_at": "2022-04-13 15:03:02",
+      "album": {
+        "name": "Limonata",
+        "url": "https://open.spotify.com/album/41XA8aTPXJnZig1wkoIOaS"
+      },
+      "artists": [
+        {
+          "name": "DJ Polo",
+          "url": "https://open.spotify.com/artist/2ZG0gXLgRGunF4fBMVGKK7"
+        }
+      ],
+      "duration_ms": 270000,
+      "name": "Swervin'",
+      "url": "https://open.spotify.com/track/5EIrCD2J9rcrTavGMRfQ0r"
     },
     {
       "added_at": "2022-04-13 15:03:02",
@@ -1067,42 +1067,38 @@
     {
       "added_at": "2022-04-13 15:03:02",
       "album": {
-        "name": "Sway(feat.Correigh)",
-        "url": "https://open.spotify.com/album/6gyv5RsnlDlTilgspcLUst"
+        "name": "Diary of a Princess",
+        "url": "https://open.spotify.com/album/1mzpEX5Ofcd8Vehzt8pGQe"
       },
       "artists": [
         {
-          "name": "Majora",
-          "url": "https://open.spotify.com/artist/6qJ9p5wCCLG6DhpUrSAdyM"
-        },
-        {
-          "name": "Correigh",
-          "url": "https://open.spotify.com/artist/4uqKfAQRTguryfR0sTWyAE"
+          "name": "Princess Nyah",
+          "url": "https://open.spotify.com/artist/0hqvQutG576D21W1yxkSsh"
         }
       ],
-      "duration_ms": 344036,
-      "name": "Sway feat.Correigh",
-      "url": "https://open.spotify.com/track/4i00utwlQ3IvkHedGMqWFn"
+      "duration_ms": 338267,
+      "name": "Hooligans",
+      "url": "https://open.spotify.com/track/3HgL89b9l6Iwt06BH01r9s"
     },
     {
       "added_at": "2022-04-13 15:03:02",
       "album": {
-        "name": "So Dangerous (2008)",
-        "url": "https://open.spotify.com/album/39Qtk9Qfzv8u9LsMBoZe1o"
+        "name": "Drmtrk II",
+        "url": "https://open.spotify.com/album/3Dh51hsahLEDBqRowPLvID"
       },
       "artists": [
         {
-          "name": "DJ Footloose",
-          "url": "https://open.spotify.com/artist/17s4oWHagNWfsl2tMHfLZI"
+          "name": "Scratcha DVA",
+          "url": "https://open.spotify.com/artist/4RsQj1228RD7TFtUGCKRg7"
         },
         {
-          "name": "Syren Rivers",
-          "url": "https://open.spotify.com/artist/3AqS9Lfs7nH8jm6KuT3A1T"
+          "name": "Lady Lykez",
+          "url": "https://open.spotify.com/artist/1nR7ltX9Vpms7eTzrTDkTw"
         }
       ],
-      "duration_ms": 212218,
-      "name": "So Dangerous - Radio Edit",
-      "url": "https://open.spotify.com/track/1PhVMk51cxAFJlYQFG7QNW"
+      "duration_ms": 144204,
+      "name": "Muhammad Ali - Original Mix",
+      "url": "https://open.spotify.com/track/0T0MJzkXiAvnnZ0XRyXZdZ"
     }
   ],
   "unique_name": "UK Funky",

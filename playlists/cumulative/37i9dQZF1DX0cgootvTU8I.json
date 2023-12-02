@@ -694,6 +694,28 @@
     {
       "album": {
         "name": "Hooversound Presents: Special Request and Tim Reaper",
+        "url": "https://open.spotify.com/album/6Q2HpsQaIOENWkvc2wo1L3"
+      },
+      "artists": [
+        {
+          "name": "Special Request",
+          "url": "https://open.spotify.com/artist/59xdAObFYuaKO2phzzz07H"
+        },
+        {
+          "name": "Tim Reaper",
+          "url": "https://open.spotify.com/artist/03KZUWKQujlCcgEdcrkvWd"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 412445,
+      "name": "Elysian Fields - Tim Reaper Remix",
+      "url": "https://open.spotify.com/track/39Z0mirXM0t0G61M8LLvPq"
+    },
+    {
+      "album": {
+        "name": "Hooversound Presents: Special Request and Tim Reaper",
         "url": "https://open.spotify.com/album/2Qtn6rWtRti5CknQiWh6pi"
       },
       "artists": [
@@ -806,7 +828,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 274953,
       "name": "Floating Inside",
       "url": "https://open.spotify.com/track/51zBQudzwBr3s0wAoOzvhD"

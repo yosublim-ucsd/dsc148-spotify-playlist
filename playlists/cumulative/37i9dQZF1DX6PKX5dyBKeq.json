@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-05-22",
-  "description": "The Best of Hip-Hop, Rap and Drill from the UK. Cover: Christale",
+  "description": "The Best of Hip-Hop, Rap and Drill from the UK. Cover: Cristale",
   "name": "Rap UK",
   "tracks": [
     {
@@ -12726,6 +12726,24 @@
       "duration_ms": 198620,
       "name": "Gotcha",
       "url": "https://open.spotify.com/track/0CIi58OW1Sho2zQO26SKx9"
+    },
+    {
+      "album": {
+        "name": "Gotham",
+        "url": "https://open.spotify.com/album/7xS8vowwGB3zOk4ps3XTs5"
+      },
+      "artists": [
+        {
+          "name": "Nino Uptown",
+          "url": "https://open.spotify.com/artist/1zzNqXwB3gRY3Ucm8dQnr8"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155200,
+      "name": "Gotham",
+      "url": "https://open.spotify.com/track/7ce57gIvxc353OwZyapw5e"
     },
     {
       "album": {
@@ -32072,6 +32090,28 @@
       "duration_ms": 145777,
       "name": "We Did",
       "url": "https://open.spotify.com/track/0iWEGpi8eNMEpiPmKYppkr"
+    },
+    {
+      "album": {
+        "name": "We Made It",
+        "url": "https://open.spotify.com/album/73ssqyLwb9cht2Y4GaOY11"
+      },
+      "artists": [
+        {
+          "name": "Maino",
+          "url": "https://open.spotify.com/artist/20apXQGKM00jJTvYfyKwlb"
+        },
+        {
+          "name": "Giggs",
+          "url": "https://open.spotify.com/artist/3S0tlB4fE7ChxI2pWz8Xip"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186206,
+      "name": "We Made It",
+      "url": "https://open.spotify.com/track/5vuMXy5DUyOY5kOvaiOrN1"
     },
     {
       "album": {

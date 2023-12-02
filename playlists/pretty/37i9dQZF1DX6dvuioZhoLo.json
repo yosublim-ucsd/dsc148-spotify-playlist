@@ -1,12 +1,12 @@
 {
   "description": "New makes old. Cover: Sierra Ferrell",
-  "num_followers": 289900,
+  "num_followers": 289965,
   "original_name": "Vintage Vibes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZWM4MmJkMWUxZDg1MWZjOGYwYjRhNjY0NDQyNWE0NTE3ZWY1NTU1",
+  "snapshot_id": "MCw3NzQ3MzFjYmFmYTIyNDc4MDIxOTUwN2QyZTc2M2U4OWFiMWE1ZmZk",
   "tracks": [
     {
       "added_at": "2023-10-06 04:00:00",
@@ -439,18 +439,18 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Midwest Farmer's Daughter",
-        "url": "https://open.spotify.com/album/55byaTflUCrOReQQukpctP"
+        "name": "Pony",
+        "url": "https://open.spotify.com/album/3950FHVErcINW3tjRgjebQ"
       },
       "artists": [
         {
-          "name": "Margo Price",
-          "url": "https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl"
+          "name": "Orville Peck",
+          "url": "https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo"
         }
       ],
-      "duration_ms": 252506,
-      "name": "Hurtin' (On the Bottle)",
-      "url": "https://open.spotify.com/track/161ih87Mf1Jsx6E6WgVPDu"
+      "duration_ms": 207938,
+      "name": "Take You Back (The Iron Hoof Cattle Call)",
+      "url": "https://open.spotify.com/track/6F6bUsLOJMoaTUky7LftrP"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -471,18 +471,18 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Pony",
-        "url": "https://open.spotify.com/album/3950FHVErcINW3tjRgjebQ"
+        "name": "Midwest Farmer's Daughter",
+        "url": "https://open.spotify.com/album/55byaTflUCrOReQQukpctP"
       },
       "artists": [
         {
-          "name": "Orville Peck",
-          "url": "https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo"
+          "name": "Margo Price",
+          "url": "https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl"
         }
       ],
-      "duration_ms": 207938,
-      "name": "Take You Back (The Iron Hoof Cattle Call)",
-      "url": "https://open.spotify.com/track/6F6bUsLOJMoaTUky7LftrP"
+      "duration_ms": 252506,
+      "name": "Hurtin' (On the Bottle)",
+      "url": "https://open.spotify.com/track/161ih87Mf1Jsx6E6WgVPDu"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -623,22 +623,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "The Order Of Time",
-        "url": "https://open.spotify.com/album/4TVWSt83FpSfocgA3omB0k"
-      },
-      "artists": [
-        {
-          "name": "Valerie June",
-          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
-        }
-      ],
-      "duration_ms": 166440,
-      "name": "Shakedown",
-      "url": "https://open.spotify.com/track/6vyVxWBHLIqNdhy4IGz1LN"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Robert Ellis",
         "url": "https://open.spotify.com/album/1cOWI3gTpBWdPp9Rhv4Ezt"
       },
@@ -655,6 +639,22 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
+        "name": "The Order Of Time",
+        "url": "https://open.spotify.com/album/4TVWSt83FpSfocgA3omB0k"
+      },
+      "artists": [
+        {
+          "name": "Valerie June",
+          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
+        }
+      ],
+      "duration_ms": 166440,
+      "name": "Shakedown",
+      "url": "https://open.spotify.com/track/6vyVxWBHLIqNdhy4IGz1LN"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
         "name": "You're Dreaming",
         "url": "https://open.spotify.com/album/4qGvK6eH2aTvYIu1WmSSxG"
       },
@@ -667,22 +667,6 @@
       "duration_ms": 143939,
       "name": "Powder Blue",
       "url": "https://open.spotify.com/track/4eml8c7ZKYbMPFNgtfiwou"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "Walk Through Fire (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0XOpyZAAkGomyeXBSQcFiL"
-      },
-      "artists": [
-        {
-          "name": "Yola",
-          "url": "https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14"
-        }
-      ],
-      "duration_ms": 213204,
-      "name": "Love All Night (Work All Day)",
-      "url": "https://open.spotify.com/track/5hU65O4zB6ZadLcFWApNf8"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -727,6 +711,22 @@
       "duration_ms": 174253,
       "name": "Got My Name Changed Back",
       "url": "https://open.spotify.com/track/2WPE0Z7u5PafvN2aWk5pFl"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Walk Through Fire (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0XOpyZAAkGomyeXBSQcFiL"
+      },
+      "artists": [
+        {
+          "name": "Yola",
+          "url": "https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14"
+        }
+      ],
+      "duration_ms": 213204,
+      "name": "Love All Night (Work All Day)",
+      "url": "https://open.spotify.com/track/5hU65O4zB6ZadLcFWApNf8"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -875,6 +875,22 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
+        "name": "My Gospel",
+        "url": "https://open.spotify.com/album/25uC3BzETi50E1xFm05JcK"
+      },
+      "artists": [
+        {
+          "name": "Paul Cauthen",
+          "url": "https://open.spotify.com/artist/6yHM0XQEdu9sIlbILMaKBp"
+        }
+      ],
+      "duration_ms": 261730,
+      "name": "I'll Be the One",
+      "url": "https://open.spotify.com/track/01JkrDSrakX5UO5knhpKNA"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
         "name": "Make Way for Love",
         "url": "https://open.spotify.com/album/69wIdpWYSwdYMkYdn6iviH"
       },
@@ -903,22 +919,6 @@
       "duration_ms": 208826,
       "name": "No One Has the Answers",
       "url": "https://open.spotify.com/track/58emzxS7apqOn2amBFfDyr"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "My Gospel",
-        "url": "https://open.spotify.com/album/25uC3BzETi50E1xFm05JcK"
-      },
-      "artists": [
-        {
-          "name": "Paul Cauthen",
-          "url": "https://open.spotify.com/artist/6yHM0XQEdu9sIlbILMaKBp"
-        }
-      ],
-      "duration_ms": 261730,
-      "name": "I'll Be the One",
-      "url": "https://open.spotify.com/track/01JkrDSrakX5UO5knhpKNA"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1164,9 +1164,9 @@
           "url": "https://open.spotify.com/artist/4ONwFcI8RGvYMG1vEIdS11"
         }
       ],
-      "duration_ms": 255986,
-      "name": "Better Way",
-      "url": "https://open.spotify.com/track/3VThpW3UX13QbXHDNQqxvo"
+      "duration_ms": 192266,
+      "name": "Dirty Rain",
+      "url": "https://open.spotify.com/track/2zRPDVAsXstoRC8pQjf79T"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Golden Eagle",
-        "url": "https://open.spotify.com/album/1mmQW9vAtSUvvNVzbJmUxL"
-      },
-      "artists": [
-        {
-          "name": "Holly Macve",
-          "url": "https://open.spotify.com/artist/2E51tnARTxTvmYznDHfE5V"
-        }
-      ],
-      "duration_ms": 247760,
-      "name": "Heartbreak Blues",
-      "url": "https://open.spotify.com/track/7lbCzpJx4waIGVSqLwH6tg"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Joni Was Right",
         "url": "https://open.spotify.com/album/4b9Jd0hGddS6xH6zjsCEV7"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 197192,
       "name": "Morgan, I Might",
       "url": "https://open.spotify.com/track/546zJv5pyapMZO5O0l0p4x"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Golden Eagle",
+        "url": "https://open.spotify.com/album/1mmQW9vAtSUvvNVzbJmUxL"
+      },
+      "artists": [
+        {
+          "name": "Holly Macve",
+          "url": "https://open.spotify.com/artist/2E51tnARTxTvmYznDHfE5V"
+        }
+      ],
+      "duration_ms": 247760,
+      "name": "Heartbreak Blues",
+      "url": "https://open.spotify.com/track/7lbCzpJx4waIGVSqLwH6tg"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1244,9 +1244,9 @@
           "url": "https://open.spotify.com/artist/4ONwFcI8RGvYMG1vEIdS11"
         }
       ],
-      "duration_ms": 192266,
-      "name": "Dirty Rain",
-      "url": "https://open.spotify.com/track/2zRPDVAsXstoRC8pQjf79T"
+      "duration_ms": 255986,
+      "name": "Better Way",
+      "url": "https://open.spotify.com/track/3VThpW3UX13QbXHDNQqxvo"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Family Reunion",
-        "url": "https://open.spotify.com/album/2rAOtJeqLd0RvfqmHoaYZv"
-      },
-      "artists": [
-        {
-          "name": "Della Mae",
-          "url": "https://open.spotify.com/artist/4v6KHXXFsmn8oREWFyodCh"
-        }
-      ],
-      "duration_ms": 162697,
-      "name": "Dry Town",
-      "url": "https://open.spotify.com/track/4ki94wKEhXYNW4ywgd4qLs"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Warning",
         "url": "https://open.spotify.com/album/4iIuJ6TeXFL23VOS0PcmEm"
       },
@@ -1487,6 +1471,22 @@
       "duration_ms": 207826,
       "name": "Warning",
       "url": "https://open.spotify.com/track/1DF2GgMnu0oOaeHs7ydCSA"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Family Reunion",
+        "url": "https://open.spotify.com/album/2rAOtJeqLd0RvfqmHoaYZv"
+      },
+      "artists": [
+        {
+          "name": "Della Mae",
+          "url": "https://open.spotify.com/artist/4v6KHXXFsmn8oREWFyodCh"
+        }
+      ],
+      "duration_ms": 162697,
+      "name": "Dry Town",
+      "url": "https://open.spotify.com/track/4ki94wKEhXYNW4ywgd4qLs"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1635,22 +1635,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Comeback",
-        "url": "https://open.spotify.com/album/59RQt16lLTsoUSn2FdHvNb"
-      },
-      "artists": [
-        {
-          "name": "The Reckless Electric",
-          "url": "https://open.spotify.com/artist/1x0DczFntbIchRLLSisGnM"
-        }
-      ],
-      "duration_ms": 206729,
-      "name": "Ice Cream and Liquor",
-      "url": "https://open.spotify.com/track/2JN0eElE3BnGsrbsyvzEhO"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Silver Tears",
         "url": "https://open.spotify.com/album/2JG1zKeTogtW6HUSJD0K6L"
       },
@@ -1663,6 +1647,22 @@
       "duration_ms": 218641,
       "name": "Memphis Rain",
       "url": "https://open.spotify.com/track/7pwi5x6uNPnOeG8vM9boCo"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Comeback",
+        "url": "https://open.spotify.com/album/59RQt16lLTsoUSn2FdHvNb"
+      },
+      "artists": [
+        {
+          "name": "The Reckless Electric",
+          "url": "https://open.spotify.com/artist/1x0DczFntbIchRLLSisGnM"
+        }
+      ],
+      "duration_ms": 206729,
+      "name": "Ice Cream and Liquor",
+      "url": "https://open.spotify.com/track/2JN0eElE3BnGsrbsyvzEhO"
     }
   ],
   "unique_name": "Vintage Vibes",

@@ -1,13 +1,77 @@
 {
   "description": "The best in blues right now. Cover: Robert Finley",
-  "num_followers": 52836,
+  "num_followers": 52853,
   "original_name": "Got Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZTBjMWQ2M2Q4YTNmNDBhZmE5ODUwMTRiOTVlMGJjMTQzMjA0MWYw",
+  "snapshot_id": "MCxlZDA0ZTE4NzgwYzJlYWVhMzJmYWM1ZjNlMTBhMWE0ZDYxNGRlZDk5",
   "tracks": [
+    {
+      "added_at": "2023-12-01 05:01:00",
+      "album": {
+        "name": "Rooster",
+        "url": "https://open.spotify.com/album/7htHDHnkAKQAJgDMTRhKgM"
+      },
+      "artists": [
+        {
+          "name": "JJ Grey & Mofro",
+          "url": "https://open.spotify.com/artist/1Jl8u1U1GtBlwocZK5LWZv"
+        }
+      ],
+      "duration_ms": 291335,
+      "name": "Rooster",
+      "url": "https://open.spotify.com/track/28A4wvtJNrfEUJ1OvKadpk"
+    },
+    {
+      "added_at": "2023-12-01 05:01:00",
+      "album": {
+        "name": "Devil In The Room",
+        "url": "https://open.spotify.com/album/4oVQNoMc9m6z9XPtaCbEO7"
+      },
+      "artists": [
+        {
+          "name": "Tinsley Ellis",
+          "url": "https://open.spotify.com/artist/56LMX8mqaIhJCaxjZBM1on"
+        }
+      ],
+      "duration_ms": 211732,
+      "name": "Devil In The Room",
+      "url": "https://open.spotify.com/track/72qo2qSJ0FkaTtbgRhPHqT"
+    },
+    {
+      "added_at": "2023-12-01 05:01:00",
+      "album": {
+        "name": "How Did We Get To Goodbye",
+        "url": "https://open.spotify.com/album/6oDyjJGpgwgvb3N19B8Gxq"
+      },
+      "artists": [
+        {
+          "name": "Danielle Nicole",
+          "url": "https://open.spotify.com/artist/34mu675oQQ5ZNuK1soZrIn"
+        }
+      ],
+      "duration_ms": 279138,
+      "name": "How Did We Get To Goodbye",
+      "url": "https://open.spotify.com/track/0QUij64RHqhEEPLFhFBDMc"
+    },
+    {
+      "added_at": "2023-12-01 05:01:00",
+      "album": {
+        "name": "Help Yourself",
+        "url": "https://open.spotify.com/album/3dRkh2xDogXlODckUjdnCF"
+      },
+      "artists": [
+        {
+          "name": "Robert Jon & the Wreck",
+          "url": "https://open.spotify.com/artist/4FXvPjJz57tIo23OpzHlYC"
+        }
+      ],
+      "duration_ms": 244306,
+      "name": "Help Yourself",
+      "url": "https://open.spotify.com/track/6i2EOHluVZewHGo1WivSnA"
+    },
     {
       "added_at": "2023-11-17 05:01:00",
       "album": {
@@ -1545,22 +1609,6 @@
       "url": "https://open.spotify.com/track/45DxmdLBAjYelavuazYJhg"
     },
     {
-      "added_at": "2022-02-25 05:02:00",
-      "album": {
-        "name": "Sand Castles",
-        "url": "https://open.spotify.com/album/2jxO3hbH29uTJiGWx7BOpr"
-      },
-      "artists": [
-        {
-          "name": "Rehab",
-          "url": "https://open.spotify.com/artist/1qh1aHXy7LRcb7eyriuJTS"
-        }
-      ],
-      "duration_ms": 196500,
-      "name": "Sand Castles",
-      "url": "https://open.spotify.com/track/01aamSYYax8Av0aHdsFkop"
-    },
-    {
       "added_at": "2022-03-11 05:02:00",
       "album": {
         "name": "The Future Ain't What It Used to Be",
@@ -1593,26 +1641,6 @@
       "url": "https://open.spotify.com/track/4omYnAPibSJVlUrc0vg9dN"
     },
     {
-      "added_at": "2022-02-04 05:02:00",
-      "album": {
-        "name": "Turquoise Blue",
-        "url": "https://open.spotify.com/album/4QBaAT90iqQxoR9TS2izPF"
-      },
-      "artists": [
-        {
-          "name": "Micki Free",
-          "url": "https://open.spotify.com/artist/5aH6fiMaVOktSbo2CBcK5l"
-        },
-        {
-          "name": "Christone \"Kingfish\" Ingram",
-          "url": "https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX"
-        }
-      ],
-      "duration_ms": 223334,
-      "name": "Judicator Blues",
-      "url": "https://open.spotify.com/track/4jlsa0OLIsdu1ETRpkX6QD"
-    },
-    {
       "added_at": "2022-03-04 05:01:00",
       "album": {
         "name": "Together",
@@ -1629,22 +1657,6 @@
       "url": "https://open.spotify.com/track/3RoRYcIHXzmsRoqP8S9qKQ"
     },
     {
-      "added_at": "2022-02-18 05:02:00",
-      "album": {
-        "name": "Love At First Sight",
-        "url": "https://open.spotify.com/album/17mDEDwEP1Stx3Rf1BxuDF"
-      },
-      "artists": [
-        {
-          "name": "Luke Winslow-King",
-          "url": "https://open.spotify.com/artist/1VN3hs1Ra3vupNT3zN3baC"
-        }
-      ],
-      "duration_ms": 208700,
-      "name": "Love At First Sight",
-      "url": "https://open.spotify.com/track/0I6iVnbnSri9baOqnjIeHQ"
-    },
-    {
       "added_at": "2022-02-25 05:02:00",
       "album": {
         "name": "Scoundrel",
@@ -1659,22 +1671,6 @@
       "duration_ms": 277733,
       "name": "Bonnie",
       "url": "https://open.spotify.com/track/1PNPixI2jwff1KZDJtStTz"
-    },
-    {
-      "added_at": "2022-01-21 05:02:00",
-      "album": {
-        "name": "Good To Be...",
-        "url": "https://open.spotify.com/album/0wcbmTdkb0bUmKvRQkG25S"
-      },
-      "artists": [
-        {
-          "name": "Keb' Mo'",
-          "url": "https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F"
-        }
-      ],
-      "duration_ms": 208173,
-      "name": "\u201962 Chevy",
-      "url": "https://open.spotify.com/track/4M9P0IpYx9kZmo07CcwVNT"
     },
     {
       "added_at": "2022-02-18 05:02:00",

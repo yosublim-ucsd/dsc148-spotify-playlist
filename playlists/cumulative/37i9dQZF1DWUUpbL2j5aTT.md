@@ -4,7 +4,7 @@
 
 > The best of Brazilian House\. Photo: Meca
 
-100 songs - 6 hr 18 min
+102 songs - 6 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,7 @@
 | [Bongoloco](https://open.spotify.com/track/3k45oaugo4fin6M1KrtO8f) | [Bruno Furlan](https://open.spotify.com/artist/6gssIbF04dCX3COZvyr0JF) | [Bongoloco](https://open.spotify.com/album/14L2mKGJukRn3jtAB04ZxV) | 3:26 | 2023-11-03 |  |
 | [Bring It](https://open.spotify.com/track/202FD57PWY2iEj7EknxD4D) | [Riro](https://open.spotify.com/artist/4NqnlCPDCBgLdVOY8lDark) | [Bring It](https://open.spotify.com/album/0Z5MIDlXE844e9KA6aIhYg) | 2:08 | 2023-08-04 |  |
 | [Brisa](https://open.spotify.com/track/1LvG5zrLHfYziFPjaNGpyw) | [Maz \(BR\)](https://open.spotify.com/artist/6gYwbDKcqhLitCTlgF1oZn), [Antdot](https://open.spotify.com/artist/3of9b8iUxyXtfnwwahfUNx), [Jéssica Gaspar](https://open.spotify.com/artist/6ungwDo99f5ZK7aNb2UTip) | [Brisa](https://open.spotify.com/album/4Fyza19j2d7Yb3aRICfX1q) | 5:33 | 2023-11-17 |  |
-| [Bump Bump Bump \- Radio Edit](https://open.spotify.com/track/74nFwxAEaYFOW4LpCvLVcX) | [Sandeville](https://open.spotify.com/artist/2l3hKaFThCf5oYsFUv25RH), [Astro](https://open.spotify.com/artist/0JahJweSrkgfC9tHhneWg8) | [Bump Bump Bump \(Radio Edit\)](https://open.spotify.com/album/2o6K63g3jNaY2JcXvaYlmC) | 2:52 | 2023-07-21 |  |
+| [Bump Bump Bump \- Radio Edit](https://open.spotify.com/track/74nFwxAEaYFOW4LpCvLVcX) | [Sandeville](https://open.spotify.com/artist/2l3hKaFThCf5oYsFUv25RH), [Astro](https://open.spotify.com/artist/0JahJweSrkgfC9tHhneWg8) | [Bump Bump Bump \(Radio Edit\)](https://open.spotify.com/album/2o6K63g3jNaY2JcXvaYlmC) | 2:52 | 2023-07-21 | 2023-12-02 |
 | [Circulator](https://open.spotify.com/track/1CGS1ivLi4e7ejfr7Qrgi0) | [Mojjo](https://open.spotify.com/artist/6AVyGjQ7gNzSkGlBldHS1j), [Future Class](https://open.spotify.com/artist/2jFK9ZXWDd7auJvfNfBcuC) | [Circulator](https://open.spotify.com/album/2qoGsSpsx5vYo5RdGLQ2eU) | 3:36 | 2023-11-17 |  |
 | [Closer \- Radio Edit](https://open.spotify.com/track/57YS2mQSZ2tvUMTbFlHvyC) | [Bruno Motta](https://open.spotify.com/artist/6rRHgYbcaw2xKpo7LjyGiK), [Only Fusion](https://open.spotify.com/artist/5T5Wm4YyqAy4DERFkdS3qi) | [Closer](https://open.spotify.com/album/4BXdb3T0TG7EiFldBaImfU) | 4:30 | 2023-07-21 | 2023-10-21 |
 | [Come Back](https://open.spotify.com/track/6XKAsu3Hu56kN6ighNsxiL) | [Softmal](https://open.spotify.com/artist/6q8mKMXDLqubwlUJo9J5pZ) | [Come Back](https://open.spotify.com/album/3r7PkLLbdscNV61NrOOOBe) | 3:17 | 2023-11-10 |  |
@@ -63,6 +63,7 @@
 | [LO QUE SOY](https://open.spotify.com/track/4uQHyvzFx0vXdAeHUm7ist) | [BUENO](https://open.spotify.com/artist/6Q7Te0tazncv3sZoqOEqBh) | [LO QUE SOY](https://open.spotify.com/album/3e4Ngl6nMTk9EI98ZdR9Je) | 2:54 | 2023-10-27 |  |
 | [Lollipop](https://open.spotify.com/track/2Pk3nfDwGDFGNvW6VKqLIP) | [CERES](https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic) | [Lollipop](https://open.spotify.com/album/5ObQAuIUluz1f1lNyGnkNE) | 1:53 | 2023-07-21 |  |
 | [Look at the Light \- Edit](https://open.spotify.com/track/093g7O9zhvt13iQ42onrJI) | [Peter Mac](https://open.spotify.com/artist/4Tet47xDCtFbmqBNR8MySc) | [Look At The Light](https://open.spotify.com/album/5m7cc0QqabgapOwriWbQYu) | 3:56 | 2023-07-21 |  |
+| [Love Is Coming Home](https://open.spotify.com/track/7h1wSUHZzCnHjnJcFtoYdW) | [Double MZK](https://open.spotify.com/artist/6xacomOfO7szsy6qZanBtI) | [Love Is Coming Home](https://open.spotify.com/album/26UlGeXQUOdzSptEKzo7Tp) | 2:54 | 2023-12-01 |  |
 | [Macaw](https://open.spotify.com/track/3IYIYvGLrVkeIcp2pSwNG2) | [Softmal](https://open.spotify.com/artist/6q8mKMXDLqubwlUJo9J5pZ) | [Macaw](https://open.spotify.com/album/21vjXg1CCyd4LCZZjZ5k2n) | 6:00 | 2023-07-21 |  |
 | [Master & Slave \- Mallover 2022 Remix](https://open.spotify.com/track/7vAkYFMtaga6xhAXhOc4Ni) | [Las Bibas From Vizcaya](https://open.spotify.com/artist/7GhwmwtgLfAAsjIHMEqhDg), [Zambianco](https://open.spotify.com/artist/1IrpwLy7avbOmU7WQN1jbO), [Mallover](https://open.spotify.com/artist/6TNjSsZPG5XaYEwBG8dQOM) | [Master & Slave \(Mallover 2022 Remix\)](https://open.spotify.com/album/7zhSFO8CcvpHJ5e8CNtkCI) | 2:39 | 2023-07-21 | 2023-11-25 |
 | [Memories](https://open.spotify.com/track/2HvljoRzNkP6xYpeeiomJK) | [Kubi](https://open.spotify.com/artist/6ePfLvMTRs5ma91LfsE523) | [Memories](https://open.spotify.com/album/3fSCXfh3vkKd7tc74TztDO) | 3:33 | 2023-08-04 |  |
@@ -93,10 +94,11 @@
 | [Smack Yo'](https://open.spotify.com/track/2UdCQIDwFvGhslUYZH5tRR) | [Beltran](https://open.spotify.com/artist/1jgSqmZTBltb5O2L7ErmEP) | [Smack Yo'](https://open.spotify.com/album/22zxJTlAohxTyPwxjrfwqm) | 4:05 | 2023-07-21 | 2023-11-25 |
 | [Something New](https://open.spotify.com/track/7AHDj60kuOh54SKmWm0TZJ) | [Bauhouse](https://open.spotify.com/artist/3W0ymz5go3eaOIclFYWyzz) | [Something New](https://open.spotify.com/album/28tXnhLKIIhmTsk3ZBAN2x) | 5:29 | 2023-07-21 | 2023-10-21 |
 | [Soul 2 Soul](https://open.spotify.com/track/6dJPfNdMAVOmxzXUEimjEY) | [Mendo](https://open.spotify.com/artist/0Vg2GA2WmLIPXILz95CS03), [Techin](https://open.spotify.com/artist/3PafwoNI6rsWQDLdH9LUjr) | [Soul 2 Soul](https://open.spotify.com/album/2iRG9QiTjecnlwdleP5B52) | 3:52 | 2023-10-27 |  |
+| [Space Bump](https://open.spotify.com/track/76oZNzrXQRRGW4imfrPB1R) | [Bruno Furlan](https://open.spotify.com/artist/6gssIbF04dCX3COZvyr0JF), [Deeft](https://open.spotify.com/artist/21pCbE79vQK4sEuuwW4XJ6) | [Space Bump](https://open.spotify.com/album/3hyeFEy3z2lB4Iq7oue2Ji) | 2:47 | 2023-12-01 |  |
 | [Spearwoman](https://open.spotify.com/track/2xK2J3vvigUdV92OVc3Atz) | [Guzz](https://open.spotify.com/artist/2M23z6FczyKLQFTTvB3EI8) | [Spearwoman](https://open.spotify.com/album/1YOFhohbSLmnUnSYfkYucb) | 4:15 | 2023-07-21 |  |
 | [Steven Hawking \- Luca Lush Remix](https://open.spotify.com/track/0G6THpMZjfai5fiQlCIg8x) | [RICCI](https://open.spotify.com/artist/1EUMh6DZo2CfpolG75YQBL), [Luca Lush](https://open.spotify.com/artist/5oAjLXTvB7VDWn3Up9LYcQ) | [Steven Hawking \(Luca Lush Remix\)](https://open.spotify.com/album/18nohNOHWVWvsiUaFrTSGx) | 4:01 | 2023-07-21 | 2023-08-05 |
 | [Swarm](https://open.spotify.com/track/55ojw2RLZaaUI3eVBOhR2z) | [Brisotti](https://open.spotify.com/artist/3L0kwteWrevLGtjvQVYLcl) | [Sarava](https://open.spotify.com/album/32hf6dpv1rxU5OcFtsg9R8) | 3:45 | 2023-11-24 |  |
-| [São Paulo](https://open.spotify.com/track/2B67hW6XshoWOIpHjDeVVI) | [Tropkillaz](https://open.spotify.com/artist/5bzWtCkjIAMgN93gLt56SO), [Deekapz](https://open.spotify.com/artist/7nsXkCzq2603Kc9SrJx1q0) | [São Paulo](https://open.spotify.com/album/2YwIr0IYdP5XpSG62W05gK) | 2:44 | 2023-07-21 |  |
+| [São Paulo](https://open.spotify.com/track/2B67hW6XshoWOIpHjDeVVI) | [Tropkillaz](https://open.spotify.com/artist/5bzWtCkjIAMgN93gLt56SO), [Deekapz](https://open.spotify.com/artist/7nsXkCzq2603Kc9SrJx1q0) | [São Paulo](https://open.spotify.com/album/2YwIr0IYdP5XpSG62W05gK) | 2:44 | 2023-07-21 | 2023-12-02 |
 | [Take It Slow](https://open.spotify.com/track/0MUHTAlNjILLyiLiCY9tM8) | [Newera](https://open.spotify.com/artist/78Bbgb8kaIDnW3GCeWlDDa) | [Take It Slow](https://open.spotify.com/album/2ZKbcXIhwxCnhT7hianBpf) | 2:45 | 2023-07-21 | 2023-07-27 |
 | [Take It Slow](https://open.spotify.com/track/4vl3yZOTqu7y2WMB0kMvND) | [Prophecy](https://open.spotify.com/artist/20p5YCG101lJcLPtPnOqAH), [Newera](https://open.spotify.com/artist/78Bbgb8kaIDnW3GCeWlDDa) | [New Era, Vol\. 3](https://open.spotify.com/album/2ZC5O12mhaLFmg9x5u5jaQ) | 2:45 | 2023-07-21 | 2023-10-21 |
 | [Take Me](https://open.spotify.com/track/0g7WVbBprvTUuRznA32ZU5) | [Scorsi](https://open.spotify.com/artist/0LQKGvxOXZHDCxuite9zcT) | [Take Me](https://open.spotify.com/album/5g3Ev0vfFzVB8G4O8iYsxj) | 3:26 | 2023-10-20 | 2023-10-28 |
@@ -107,6 +109,6 @@
 | [There Was Heaven](https://open.spotify.com/track/0hrOwGPRbgdatrxurTEf0r) | [HNQO](https://open.spotify.com/artist/6pkEHKolF0GKjOdbbIEuUg) | [There Was Heaven](https://open.spotify.com/album/2Yq99y3KW6SWkEcnAJHAxA) | 5:37 | 2023-07-21 |  |
 | [This or That](https://open.spotify.com/track/0wmQLBZ6rrvdNAaSIaRrlx) | [Plastic Robots](https://open.spotify.com/artist/7qd3q5BKu3lh5r0vVBWSzm) | [This or That](https://open.spotify.com/album/3U6m8Fdx291RToRuqqtspl) | 4:05 | 2023-07-21 |  |
 | [Waiting](https://open.spotify.com/track/0MwpOYPMBXRbd3SgQwf6u7) | [Vitor Bueno](https://open.spotify.com/artist/5iI1l0DvdS2382GUHF4bsi), [Castelani](https://open.spotify.com/artist/0aAZdI0nv5BNNmXmdYc3it), [Tallez](https://open.spotify.com/artist/2GV086sizQwsDGJHPqRXA8) | [Waiting](https://open.spotify.com/album/36KwdgtXlo4P3u6ZeEC6R8) | 2:55 | 2023-07-21 |  |
-| [Zaza](https://open.spotify.com/track/6cVCk99iVLiAHxX6Ys1hOI) | [Roddy Lima](https://open.spotify.com/artist/0Bg1joLOL52mJS0kf0pIDx), [Silva Mc](https://open.spotify.com/artist/7v4hw85pzG0M9kJHlBGsi3) | [Zaza](https://open.spotify.com/album/5zJ6WGi72B1REG9qXobyak) | 3:41 | 2023-07-21 |  |
+| [Zaza](https://open.spotify.com/track/6cVCk99iVLiAHxX6Ys1hOI) | [Roddy Lima](https://open.spotify.com/artist/0Bg1joLOL52mJS0kf0pIDx), [Silva Mc](https://open.spotify.com/artist/7v4hw85pzG0M9kJHlBGsi3) | [Zaza](https://open.spotify.com/album/5zJ6WGi72B1REG9qXobyak) | 3:41 | 2023-07-21 | 2023-12-02 |
 
 \*This playlist was first scraped on 2023-07-23. Prior content cannot be recovered.

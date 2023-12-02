@@ -1,12 +1,12 @@
 {
   "description": "music from the underworld",
-  "num_followers": 225542,
+  "num_followers": 226712,
   "original_name": "hexxed",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNmYyMzM4YTQzYmQ3ZGQ5ZWZiOGUxNGY3MWNhODkxYmRlODJjMzlm",
+  "snapshot_id": "MCw0MTVlYjQ2MDg1MmRmZDcyOGRjZjlmMmUwZWE2YTI5NGUzNmNhMTdh",
   "tracks": [
     {
       "added_at": "2023-11-08 18:50:26",
@@ -39,22 +39,6 @@
       "duration_ms": 126102,
       "name": "F\u039bSHION - Speed Up",
       "url": "https://open.spotify.com/track/2G5YPVwlqQxlflCwTdElH3"
-    },
-    {
-      "added_at": "2023-11-27 14:46:21",
-      "album": {
-        "name": "Night Killaz Vol. 1",
-        "url": "https://open.spotify.com/album/0BYXEDtEXZ1fMYXCOb9Pnw"
-      },
-      "artists": [
-        {
-          "name": "Snow Strippers",
-          "url": "https://open.spotify.com/artist/6TsAG8Ve1icEC8ydeHm3C8"
-        }
-      ],
-      "duration_ms": 134237,
-      "name": "Just A Hint",
-      "url": "https://open.spotify.com/track/7hE0JjXftoo3euDhjwgNIQ"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -137,20 +121,56 @@
       "url": "https://open.spotify.com/track/0zPlzJewGJ8iIxia2bEWDN"
     },
     {
-      "added_at": "2023-11-20 18:28:40",
+      "added_at": "2023-12-01 15:49:46",
       "album": {
-        "name": "XIII SORROWS",
-        "url": "https://open.spotify.com/album/7dfODAnexuCQljq6ewTjtB"
+        "name": "3x3",
+        "url": "https://open.spotify.com/album/32BvlHf3nCW7cOTH970V7t"
       },
       "artists": [
         {
           "name": "Odetari",
           "url": "https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc"
+        },
+        {
+          "name": "9lives",
+          "url": "https://open.spotify.com/artist/2MQN1o9W3ULxdT38vj8g4Q"
         }
       ],
-      "duration_ms": 121791,
-      "name": "ME N U DATE",
-      "url": "https://open.spotify.com/track/75cRI9V3cL94eZK2EKVQ30"
+      "duration_ms": 126600,
+      "name": "I LOVE YOU HOE (w/ 9lives)",
+      "url": "https://open.spotify.com/track/0NaUT74rJ0NHS62fewzatU"
+    },
+    {
+      "added_at": "2023-11-27 14:46:21",
+      "album": {
+        "name": "Night Killaz Vol. 1",
+        "url": "https://open.spotify.com/album/0BYXEDtEXZ1fMYXCOb9Pnw"
+      },
+      "artists": [
+        {
+          "name": "Snow Strippers",
+          "url": "https://open.spotify.com/artist/6TsAG8Ve1icEC8ydeHm3C8"
+        }
+      ],
+      "duration_ms": 134237,
+      "name": "Just A Hint",
+      "url": "https://open.spotify.com/track/7hE0JjXftoo3euDhjwgNIQ"
+    },
+    {
+      "added_at": "2023-12-01 15:48:54",
+      "album": {
+        "name": "yupyupyup!",
+        "url": "https://open.spotify.com/album/7tpUVeVU3i2FgYLhTwfYud"
+      },
+      "artists": [
+        {
+          "name": "fkbambam",
+          "url": "https://open.spotify.com/artist/1BZ5smaHoDSI2a61ErUch6"
+        }
+      ],
+      "duration_ms": 69397,
+      "name": "yupyupyup! - sped up",
+      "url": "https://open.spotify.com/track/06okRLQyfhbdVcAjVZjWyE"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -209,6 +229,26 @@
       "url": "https://open.spotify.com/track/0EqczV3o6fwksegAavIHpX"
     },
     {
+      "added_at": "2023-12-01 15:48:54",
+      "album": {
+        "name": "CRIME SCENE",
+        "url": "https://open.spotify.com/album/0BOvxHLcyWn1RvCzSqCsDj"
+      },
+      "artists": [
+        {
+          "name": "I'm Geist",
+          "url": "https://open.spotify.com/artist/3RBbPmeuOZUZK0xtR32fHy"
+        },
+        {
+          "name": "Tnvr",
+          "url": "https://open.spotify.com/artist/3yODxm6qLkDmpvw027HnPp"
+        }
+      ],
+      "duration_ms": 120000,
+      "name": "CRIME SCENE",
+      "url": "https://open.spotify.com/track/7c6Rp8BZF1o9cEPFQaGY32"
+    },
+    {
       "added_at": "2023-09-29 14:52:24",
       "album": {
         "name": "Ketamine Girl",
@@ -265,6 +305,22 @@
       "url": "https://open.spotify.com/track/1JgknGBbrfmEHeOZH051SS"
     },
     {
+      "added_at": "2023-12-01 15:48:54",
+      "album": {
+        "name": "Untitled #13 (Super Slowed)",
+        "url": "https://open.spotify.com/album/5a9uibuVUtMag0L3Fo8gkQ"
+      },
+      "artists": [
+        {
+          "name": "glwzbll",
+          "url": "https://open.spotify.com/artist/4xNuIo74R6m1eXaz7RlpZ6"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Untitled #13 (Super Slowed)",
+      "url": "https://open.spotify.com/track/3fC7BKJN66Tyq44x6Try2R"
+    },
+    {
       "added_at": "2023-09-22 04:00:00",
       "album": {
         "name": "Myspace Addiction",
@@ -307,6 +363,30 @@
       "duration_ms": 131262,
       "name": "JERK!",
       "url": "https://open.spotify.com/track/6FRiFD0r9Mnv9VFnW4A7wB"
+    },
+    {
+      "added_at": "2023-12-01 15:48:54",
+      "album": {
+        "name": "BUSCAPROBLEMAS",
+        "url": "https://open.spotify.com/album/2Nx24YM5PuTSmYQbNjbmWl"
+      },
+      "artists": [
+        {
+          "name": "pobre lucca",
+          "url": "https://open.spotify.com/artist/4JbQJha6cddW2i4dyS7UkA"
+        },
+        {
+          "name": "Talla",
+          "url": "https://open.spotify.com/artist/0xt6sVefZnVDysMgz4RzHI"
+        },
+        {
+          "name": "detunedfreq",
+          "url": "https://open.spotify.com/artist/3Arhn0WJKerUnT3OXU705K"
+        }
+      ],
+      "duration_ms": 164633,
+      "name": "BUSCAPROBLEMAS",
+      "url": "https://open.spotify.com/track/4XPojnLqugTqXuhGJJEytm"
     },
     {
       "added_at": "2023-09-26 15:59:33",
@@ -399,6 +479,22 @@
       "duration_ms": 145830,
       "name": "I LOVE YOU HOE (w/ Trippie Redd & 9lives)",
       "url": "https://open.spotify.com/track/7uKj06uEtQNK2znEv27u0V"
+    },
+    {
+      "added_at": "2023-12-01 15:48:54",
+      "album": {
+        "name": "locksmith",
+        "url": "https://open.spotify.com/album/2Pf0EJfpWDtpZkAWRN1lHP"
+      },
+      "artists": [
+        {
+          "name": "i9bonsai",
+          "url": "https://open.spotify.com/artist/7dqb1363wqRxJw9RfgQeo3"
+        }
+      ],
+      "duration_ms": 185386,
+      "name": "locksmith",
+      "url": "https://open.spotify.com/track/6MCcsG8UZOHNg3ekTP6zGA"
     },
     {
       "added_at": "2023-10-20 14:41:24",
@@ -659,6 +755,22 @@
       "duration_ms": 119373,
       "name": "2FAR",
       "url": "https://open.spotify.com/track/2AyX0Tlp2QhhdbDaHg6uV0"
+    },
+    {
+      "added_at": "2023-12-01 15:48:54",
+      "album": {
+        "name": "Continue",
+        "url": "https://open.spotify.com/album/1eMlU0dSndWo2uS6j3MPpB"
+      },
+      "artists": [
+        {
+          "name": "4s4ki",
+          "url": "https://open.spotify.com/artist/5yCWuaBlu42BKsnW89brND"
+        }
+      ],
+      "duration_ms": 205017,
+      "name": "Continue",
+      "url": "https://open.spotify.com/track/5OkBQPz8j5yndKOKkTzKJT"
     },
     {
       "added_at": "2023-09-22 04:00:00",

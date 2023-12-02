@@ -4,7 +4,7 @@
 
 > Relax and unwind with chill, ambient music.
 
-772 songs - 1 day 16 hr 28 min
+775 songs - 1 day 16 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -195,6 +195,7 @@
 | [Dharana Focus](https://open.spotify.com/track/5OpOdnNT8P4aMvYFsmidPN) | [Yolta](https://open.spotify.com/artist/1FcdysxmyKBfSOyVppN3sw) | [Dharana Focus](https://open.spotify.com/album/3YEErV3yJvdcUS8T1qUwrL) | 2:51 | 2019-05-26\* | 2020-01-03 |
 | [Digitalized Waves Of Unspoken Distances](https://open.spotify.com/track/2ibz7CAzOKyqgjo7sXeUU0) | [Ave Air](https://open.spotify.com/artist/2P6DMnuFgtU6UWuxTcF5nU) | [Suburban Call For Concrete Dreams](https://open.spotify.com/album/3kFtOGZWe1iJnIOw0Df37m) | 4:06 | 2019-05-26\* | 2020-01-09 |
 | [Distance](https://open.spotify.com/track/1HLhzy4HcqEe0UUXuscO0C) | [The Lay\-Backs](https://open.spotify.com/artist/3hcHU2Pwf2YPgQXqdEi83C) | [Distance](https://open.spotify.com/album/17HgykwOUqpDUlbcxsKZhl) | 3:36 | 2020-01-03 | 2023-05-03 |
+| [Distant Figures](https://open.spotify.com/track/4ykzKgjY6k1bcxixaYMsSy) | [Jonah Bjoern](https://open.spotify.com/artist/0BYrqsYWd4pHg2C21k1cBp) | [Distant Figures](https://open.spotify.com/album/6bE4mVz7YDVljT4p87UhK4) | 2:57 | 2023-12-01 |  |
 | [Distant Glow](https://open.spotify.com/track/2aBYVl2d2RFAPbYlZ7rIUf) | [Rannar Sillard](https://open.spotify.com/artist/3WIjOR36QpKStT6hfxguh5) | [Weightless Again](https://open.spotify.com/album/66ZFnHFTZ1NcORTEAGX0dG) | 2:11 | 2019-12-07 | 2023-01-07 |
 | [distant star](https://open.spotify.com/track/6IlOnQUzJckb3KXqUXAbVt) | [nite sky](https://open.spotify.com/artist/6zoOpIO7PCBlRaOP10TdJc) | [calm waters & distant star](https://open.spotify.com/album/2KbMBAAeKkXMokJB1yyOZQ) | 2:38 | 2022-09-02 |  |
 | [Divine](https://open.spotify.com/track/5BGDIilZ6mNq413WtAU2FR) | [Amaranth Cove](https://open.spotify.com/artist/1Gt39QnTBTndeyiJ5SO04q) | [All Around Us](https://open.spotify.com/album/2wL1Qgbzh1v5NDF4kpMbQC) | 3:14 | 2019-05-26\* | 2020-07-11 |
@@ -239,7 +240,7 @@
 | [Equinox](https://open.spotify.com/track/0ZzaDwLtsBeHilR13PMFcZ) | [Escape Velocity](https://open.spotify.com/artist/2tb72keD7ZfOudHYldg84Z) | [Trojan](https://open.spotify.com/album/2zXu0weQP2kQktWq6UmMJJ) | 3:29 | 2020-07-11 | 2021-09-14 |
 | [Essence](https://open.spotify.com/track/6dklA8QKFaS9iYIshadCPR) | [Miesha Berens](https://open.spotify.com/artist/59UumpxzWdl3DRy6muL6Ln) | [Essence](https://open.spotify.com/album/4qm5Gh0BzhDGJ3dt4dTIvW) | 2:57 | 2023-06-30 |  |
 | [Essentials](https://open.spotify.com/track/1GJb1W2u1XOC4NnTprGsGk) | [River Hall](https://open.spotify.com/artist/2fuR3LZlCAFO9u0DlORUag) | [Essentials](https://open.spotify.com/album/1k52LUN5DCwcsQB7tqlc48) | 3:00 | 2021-11-26 |  |
-| [Esthetic](https://open.spotify.com/track/5opY79ADHYjzc0F3jYUqFV) | [Martina Bower](https://open.spotify.com/artist/3Si4nV51fin9nrnvRCWDRK) | [Esthetic](https://open.spotify.com/album/2IMf7MJ23NWU7ip6xGghSY) | 2:43 | 2021-06-16 |  |
+| [Esthetic](https://open.spotify.com/track/5opY79ADHYjzc0F3jYUqFV) | [Martina Bower](https://open.spotify.com/artist/3Si4nV51fin9nrnvRCWDRK) | [Esthetic](https://open.spotify.com/album/2IMf7MJ23NWU7ip6xGghSY) | 2:43 | 2021-06-16 | 2023-12-02 |
 | [Eternal Self](https://open.spotify.com/track/5nkMUigFhTzLpvMkXI6kPk) | [Arush Mandal](https://open.spotify.com/artist/5WSATrMjcuhKibg0jp4uHI) | [Eternal Self](https://open.spotify.com/album/79CUupsxoVX30cRSdKJJWQ) | 4:25 | 2019-12-07 | 2022-12-21 |
 | [Eternalism](https://open.spotify.com/track/4ifPxJCobE5fygSy90ygxq) | [Ave Air](https://open.spotify.com/artist/2P6DMnuFgtU6UWuxTcF5nU) | [I Will Remember Everything Forever](https://open.spotify.com/album/0EMKIUx6PXzwCAfMeF9bct) | 4:18 | 2020-08-08 | 2020-10-27 |
 | [Eternalistic](https://open.spotify.com/track/28vgg790lTkfhaBgsSAaqq) | [Asabea Wheeler](https://open.spotify.com/artist/48ZJv6xlsgG8EdgJt4SOBZ) | [Eternalistic](https://open.spotify.com/album/7thB8MyVTdHo34FboEgwSI) | 2:26 | 2022-10-14 |  |
@@ -628,6 +629,7 @@
 | [Spatial Dreams](https://open.spotify.com/track/16p2gXFq1tUMuid42TCahy) | [Daron Robson](https://open.spotify.com/artist/4vJc8H12qzSFspaOVcN1dN) | [Human Touch](https://open.spotify.com/album/2CpdACxBkLfHqXxMKXbIot) | 2:30 | 2022-10-07 |  |
 | [Spatsmanium](https://open.spotify.com/track/7jUjRQpX5NCXhOgwtW5J47) | [Ben Jinn](https://open.spotify.com/artist/40ZZSzRJe2W6JFoAGOcrfP) | [Spatsmanium](https://open.spotify.com/album/5sEk9boEfqnmH7i4h3DxEx) | 3:11 | 2021-07-01 | 2023-05-20 |
 | [Spectral Vibrations](https://open.spotify.com/track/364Yxnly3Q1XvxWZRwFtS1) | [Paulo May](https://open.spotify.com/artist/1S2SOdkafLlGG0LrdubJz8) | [Spectral Vibrations](https://open.spotify.com/album/1HUU66yCQafwrpIxzyDsrF) | 2:26 | 2023-07-07 |  |
+| [Spectrum](https://open.spotify.com/track/6MC1ZvviTd531s7EOoZUA7) | [Il Sognatore](https://open.spotify.com/artist/7hmFAgrbDEAAIcGan0kxxM) | [Spectrum](https://open.spotify.com/album/1r1HMGVzOqFDiCDpj1dwun) | 3:13 | 2023-12-01 |  |
 | [Sphere](https://open.spotify.com/track/07CcNtxvGbffdU6wrwmqKq) | [Jakob Ahlbom](https://open.spotify.com/artist/2VZTNKYLnhbnV3FwGJlp3K) | [Distant Echo](https://open.spotify.com/album/7fFn2jrNGSSr8HFXHXzV8y) | 3:20 | 2019-05-26\* | 2021-09-14 |
 | [Spirals](https://open.spotify.com/track/2V44hSJNBbay5Xsxm5isjy) | [Liwia Antas](https://open.spotify.com/artist/2vDjp8PFFifCgAE0MZkHap) | [Spirals](https://open.spotify.com/album/6mNT1NjK9v4rtENleh3QPO) | 4:02 | 2020-01-03 | 2022-08-24 |
 | [Spiritual Awakening](https://open.spotify.com/track/5hD7Ezq0E8nwz7z2xNMlVH) | [Tejal Yann](https://open.spotify.com/artist/6eGKvCZdc06HkiwZKFlcBY) | [Divine](https://open.spotify.com/album/2BrKNAMeBGtlyRE4J5SERp) | 3:54 | 2019-05-26\* | 2022-10-01 |
@@ -710,6 +712,7 @@
 | [Trancendent Sleep](https://open.spotify.com/track/1NY2tT1A7uZwchez1vBShQ) | [Eleanor Arroway](https://open.spotify.com/artist/3x2VCXXsd5bySXXdbhLZPJ) | [Moving Mind](https://open.spotify.com/album/3BqwXPWyP3avzTWGxGEkHF) | 4:17 | 2019-05-26\* | 2019-06-29 |
 | [Tranquil](https://open.spotify.com/track/2abvtFxQLpWYqDSNnNrbRm) | [Sven Stierna](https://open.spotify.com/artist/5nOXbh86dUQBwqI8VZ1upA) | [Tranquil](https://open.spotify.com/album/2y5v7DSQIle4pMpl24C9ps) | 3:19 | 2019-12-07 | 2023-05-20 |
 | [Transformation](https://open.spotify.com/track/73YDqwVKSNwtzD9cLyUnKo) | [Occas](https://open.spotify.com/artist/24qhOh6WnSMUZFzeayfPXZ) | [Transformation](https://open.spotify.com/album/0EZ0y3S0PUAwz9A4HIPxZQ) | 2:32 | 2022-10-14 |  |
+| [Transparent](https://open.spotify.com/track/5eo60GfuidgbhoqrNesiRv) | [Airship Express](https://open.spotify.com/artist/57Inb370WrtJEz0OtdNwiG) | [Transparent](https://open.spotify.com/album/4gsev6Z65lZgE7CJAxGN5Q) | 3:05 | 2023-12-01 |  |
 | [Tremoland](https://open.spotify.com/track/13z3AL9gEDxGWr1sGk0UZe) | [Palacín](https://open.spotify.com/artist/4AFGBpC7hxvSJArGRadDoL) | [Tremoland](https://open.spotify.com/album/1PLLrdOtibrkAzPxV8j3jj) | 2:43 | 2020-08-08 | 2023-01-07 |
 | [Trust the Winds](https://open.spotify.com/track/4ZknZFZC856pglYDpLdGzS) | [Northern Lights](https://open.spotify.com/artist/0pJ7c6jclXmQmxW4Doz1Ny) | [Meditations for Woods & Winds](https://open.spotify.com/album/6z79twbAshQfUTVxUW8oJH) | 3:01 | 2020-01-03 | 2021-09-14 |
 | [Truth](https://open.spotify.com/track/373jqeSKtGiGgfMLwNoCcv) | [Peter Sandberg](https://open.spotify.com/artist/3LtlJprzuq0Ii8p8YFZXai) | [Nainsook](https://open.spotify.com/album/0c2uw96zlJP8jMui1HA38h) | 1:52 | 2019-05-26\* | 2020-01-03 |

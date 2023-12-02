@@ -667,6 +667,32 @@
     },
     {
       "album": {
+        "name": "Gold Dust Woman",
+        "url": "https://open.spotify.com/album/1jvxRIDR1nCdEw13R9Pv0S"
+      },
+      "artists": [
+        {
+          "name": "Warren Haynes",
+          "url": "https://open.spotify.com/artist/73iWh9WUMf0xK6cRkNJK4h"
+        },
+        {
+          "name": "Jim James",
+          "url": "https://open.spotify.com/artist/1MhtYlJvUqfd2EgHSQTGK4"
+        },
+        {
+          "name": "Grace Potter",
+          "url": "https://open.spotify.com/artist/1PJVVIeS5Wu0wbZDhtC0Ht"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180466,
+      "name": "Gold Dust Woman",
+      "url": "https://open.spotify.com/track/1FH9iCgUtZXnwodYzahivh"
+    },
+    {
+      "album": {
         "name": "Gonna Shine",
         "url": "https://open.spotify.com/album/56d6RiEgQQBFlkuEx6lmAi"
       },
@@ -811,6 +837,24 @@
     },
     {
       "album": {
+        "name": "How Did We Get To Goodbye",
+        "url": "https://open.spotify.com/album/6oDyjJGpgwgvb3N19B8Gxq"
+      },
+      "artists": [
+        {
+          "name": "Danielle Nicole",
+          "url": "https://open.spotify.com/artist/34mu675oQQ5ZNuK1soZrIn"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279138,
+      "name": "How Did We Get To Goodbye",
+      "url": "https://open.spotify.com/track/0QUij64RHqhEEPLFhFBDMc"
+    },
+    {
+      "album": {
         "name": "Huddle by the Fire",
         "url": "https://open.spotify.com/album/56cOKNhTkIwryEvl3QQNOq"
       },
@@ -822,7 +866,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 161033,
       "name": "Huddle by the Fire",
       "url": "https://open.spotify.com/track/5cmp99VIIXksQZGdDIf5sB"
@@ -1126,7 +1170,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 262286,
       "name": "Love to See You Cry",
       "url": "https://open.spotify.com/track/1OyaisllB9RSnmKa6tcPzY"

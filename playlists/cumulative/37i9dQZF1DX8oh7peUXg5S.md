@@ -2,7 +2,7 @@
 
 ### [Cantautores](https://open.spotify.com/playlist/37i9dQZF1DX8oh7peUXg5S)
 
-> El don de cantar y componer, una playlist llena de talento\. Foto: Pedro Guerra y Bunbury.
+> El don de cantar y componer, una playlist llena de talento\. Foto: Serrat.
 
 260 songs - 16 hr 38 min
 

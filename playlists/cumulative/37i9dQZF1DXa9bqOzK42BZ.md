@@ -4,7 +4,7 @@
 
 > Praise and worship from East Africa\. Your ultimate Swahili Spiritual nourishment here\. Cover: <a href="https://open.spotify.com/artist/3oGozFL9044me9JLarm8BI?si=cywZtkjkSPiy19VZJBVSvA">Joel Lwaga</a>
 
-127 songs - 12 hr 17 min
+128 songs - 12 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [Chanzo \- Live](https://open.spotify.com/track/5iG9Kx1j49PZxAgr9G7CAw) | [Rehema Simfukwe](https://open.spotify.com/artist/7qVRVoyILJ5XLMChYXIkKu) | [Chanzo \(Live\)](https://open.spotify.com/album/3GuJna16plebttcjo2CWWG) | 9:42 | 2022-06-24 |  |
 | [Chezea Bwana](https://open.spotify.com/track/4UZjS4dPAxofHLryDjOOO7) | [Moji Shortbabaa](https://open.spotify.com/artist/75LES04hIh8qYY8Oqdp7rn) | [Chezea Bwana](https://open.spotify.com/album/6S0IW8AHo9sqOioUn7ECKy) | 3:42 | 2023-07-21 |  |
 | [Conduis mes pas](https://open.spotify.com/track/1zGlgkEa3sONbUQISvtGtO) | [LORD LOMBO](https://open.spotify.com/artist/7LYWtUyWFb2GIE5sjigMvX), [Princesse Betu](https://open.spotify.com/artist/6BbWSslst8GBiQQHtDiMST), [BEN MAVINGA](https://open.spotify.com/artist/3QekiUqMIPwFSYGcoOJWCQ) | [Conduis mes pas](https://open.spotify.com/album/3TxaM33oOiLSwIwS7JC15h) | 4:58 | 2023-04-21 |  |
+| [Daima Milele](https://open.spotify.com/track/2cw73wKNCMZ0mYWhR8dnvb) | [Beda Andrew](https://open.spotify.com/artist/11VA7kqmrvG4yAs57K1h8Z) | [Daima Milele](https://open.spotify.com/album/17miwO9oyLABYvNNJ53ofy) | 4:55 | 2023-12-01 |  |
 | [Dawa Yangu \(feat\. Bony Mwaitege\)](https://open.spotify.com/track/2Tk34qaKsggZJNRzBnoBlR) | [Bahati Bukuku](https://open.spotify.com/artist/3T46Acf655h1bG3Zb8kcsF), [Bony Mwaitege](https://open.spotify.com/artist/1vh543t6ipbRMe1shJp0j1) | [Dawa Yangu](https://open.spotify.com/album/4qXfLDC8acsrrp82x3nXY2) | 5:40 | 2023-07-21 |  |
 | [Ebenezer](https://open.spotify.com/track/0FMRioTf40f4KVHSeVvqLh) | [Angela Chibalonza](https://open.spotify.com/artist/6o1Crwek2BEtkfAsI204iR) | [Nimekutana Na Yesu](https://open.spotify.com/album/7uG3igTPfTvad0ePaGCWM2) | 4:55 | 2022-06-24 |  |
 | [Egemeo](https://open.spotify.com/track/03k9zseKZJ8mu2nTWHuoHQ) | [Godwill Babette](https://open.spotify.com/artist/787HVRJFIkDBhj7HeHCVsG) | [Umenibeba](https://open.spotify.com/album/7lKfLz5d1olqce9qgqK1jB) | 5:34 | 2022-06-24 | 2023-04-07 |

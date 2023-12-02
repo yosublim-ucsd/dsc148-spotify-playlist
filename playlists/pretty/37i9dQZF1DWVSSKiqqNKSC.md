@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVSSKiqqNKSC.md) - [plain]
 
 > ¡Lo mejor de la Salsa Cubana! Celia Cruz en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 231,191 likes - 48 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 231,218 likes - 48 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVSSKiqqNKSC.md) - [plain]
 | 17 | [Pasaporte](https://open.spotify.com/track/14JmB4k9tBUcS5MYbi8y1M) | [Alexander Abreu](https://open.spotify.com/artist/2YnskQkgb6kTSXh9YcNzgu), [Havana D’Primera](https://open.spotify.com/artist/05qiwKzU1RgkyqkEH1ZFlA) | [Pasaporte](https://open.spotify.com/album/55bxux5NGwsurOUlXfT2cv) | 5:00 |
 | 18 | [La Llamada De Mi Ex](https://open.spotify.com/track/3DsOQD00s3Z6Km4WvtMkJt) | [Chiquito Team Band](https://open.spotify.com/artist/0vEYOFlkqy2FUy1UOF7RiV) | [Los Creadores Del Sonido](https://open.spotify.com/album/2tFZT8FiXb8GjEhTI03vCl) | 3:31 |
 | 19 | [Luna Negra](https://open.spotify.com/track/09Prj3ivNAC9Y80cP4eKnm) | [Rey Ruiz](https://open.spotify.com/artist/1S0uvW1rgvtkNGma9su3fJ) | [Oro Salsero](https://open.spotify.com/album/5X1QYXR9eQO3cYZrqeoIYE) | 4:44 |
-| 20 | [La Entrevista \- Remasterizado](https://open.spotify.com/track/4wL59G4Nur3paBanDT6egw) | [David Calzado y su Charanga Habanera](https://open.spotify.com/artist/1AqDIElf5SS51c2fpG6WQw) | [Charanga Light 2 \(Remasterizado\)](https://open.spotify.com/album/43l3qE1gOKj6mMuNsXJzej) | 4:52 |
-| 21 | [Amor Verdadero](https://open.spotify.com/track/4IC8qYktbAE9GX1lEZV37p) | [Afro\-Cuban All Stars](https://open.spotify.com/artist/5cvnQ2gtwZraxeE99Y8aOg) | [A Toda Cuba Le Gusta](https://open.spotify.com/album/4z8W6dVcSq2iFSbNBFwHR1) | 6:38 |
+| 20 | [Amor Verdadero](https://open.spotify.com/track/4IC8qYktbAE9GX1lEZV37p) | [Afro\-Cuban All Stars](https://open.spotify.com/artist/5cvnQ2gtwZraxeE99Y8aOg) | [A Toda Cuba Le Gusta](https://open.spotify.com/album/4z8W6dVcSq2iFSbNBFwHR1) | 6:38 |
+| 21 | [La Entrevista \- Remasterizado](https://open.spotify.com/track/4wL59G4Nur3paBanDT6egw) | [David Calzado y su Charanga Habanera](https://open.spotify.com/artist/1AqDIElf5SS51c2fpG6WQw) | [Charanga Light 2 \(Remasterizado\)](https://open.spotify.com/album/43l3qE1gOKj6mMuNsXJzej) | 4:52 |
 | 22 | [Cuba Isla Bella \(feat\. Gente de Zona, Leoni Torres, Isaac Delgado, Buena Fe, Descemer Bueno, Laritza Bacallao, Waldo Mendoza & Pedrito Martinez\)](https://open.spotify.com/track/6T9Cyj2tFiV1epQbQm0Gb2) | [Orishas](https://open.spotify.com/artist/2gKYxTUOqw9aPt7ljMwSHT), [Gente De Zona](https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL), [Leoni Torres](https://open.spotify.com/artist/1XXUv8GRyRqOXVuDwB5QaS), [Issac Delgado](https://open.spotify.com/artist/2NssDL7cTwvfQm01xvepBQ), [Buena Fe](https://open.spotify.com/artist/0vq2EzqxetHZj0NtymUtXm), [Descemer Bueno](https://open.spotify.com/artist/5luyt0SUvGkDMY4ILP6Qhl), [LARITZA BACALLAO](https://open.spotify.com/artist/61EgOa3zlnkzFNj2Xegxsu), [Waldo Mendoza](https://open.spotify.com/artist/0A3VPA9AS3HA5viKCKqRPu), [Pedrito Martinez](https://open.spotify.com/artist/3Ik2TovwBiWawoShYwa4Hh) | [Cuba Isla Bella \(feat\. Gente de Zona, Leoni Torres, Isaac Delgado, Buena Fe, Descemer Bueno, Laritza Bacallao, Waldo Mendoza & Pedrito Martinez\)](https://open.spotify.com/album/0ki5BFqVtshpdc2Vx3jGdc) | 4:44 |
 | 23 | [El Tren Bala](https://open.spotify.com/track/77yYv9YWmd8KLui0RRsTMF) | [Barbaro Fines y su Mayimbe](https://open.spotify.com/artist/3U5KffZYriorcfC62Lca43) | [De la Habana a Perú](https://open.spotify.com/album/01U5RgaIfsSHyB6yw4nRj0) | 5:30 |
 | 24 | [Tu Me Recordarás](https://open.spotify.com/track/1FWsQmSjs8www0PjwXDb2f) | [Manolito y Su Trabuco](https://open.spotify.com/artist/2UKgoW1uMnooKQtjLjnAWW) | [Marcando la Distancia \(La Nueva Generación de la musica Cubana\)](https://open.spotify.com/album/1atq4NCh5u5kzxbRVN5Uyo) | 6:32 |
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVSSKiqqNKSC.md) - [plain]
 | 47 | [Qué Pasa Loco](https://open.spotify.com/track/5evx5is4W5iLY7A5zv82Ut) | [Issac Delgado](https://open.spotify.com/artist/2NssDL7cTwvfQm01xvepBQ) | [Grandes Exitos Vol\. 1](https://open.spotify.com/album/2qIauTRLruweUbBVZrQkF9) | 6:18 |
 | 48 | [Yo Voy Pa Encima](https://open.spotify.com/track/6CyqA8KDBXprJxkbwBVuIz) | [Luis Enrique](https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI) | [Yo Voy Pa Encima \- Single](https://open.spotify.com/album/3X8Xfid9BomsVbXUB7isFJ) | 3:26 |
 
-Snapshot ID: `MCw4ZDc4NDJjOTBiMjExNWYyYTAxOWMzODY5ODJlZDQ1NTU0MTRiZTRk`
+Snapshot ID: `MCw1MWU2YjUyZWFkNTEyNzY1OTIyYTE3OWQzYjRhODEzNGRlMWRkNmNj`

@@ -4,7 +4,7 @@
 
 > Calm your mind from anxiety with gentle piano and ambient music.
 
-377 songs - 18 hr 34 min
+379 songs - 18 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,6 +73,7 @@
 | [Cohesion](https://open.spotify.com/track/4tX0TK8klpx4iRXB47pOFv) | [Boris Rosenbaum](https://open.spotify.com/artist/41hz9dfBrQt1zteqqTUrYd) | [Cohesion](https://open.spotify.com/album/5yAML82E28lWUo9LFWaaAN) | 2:01 | 2022-05-05 |  |
 | [Come Sei](https://open.spotify.com/track/1AX8VYV5Csn91n0a9R7tV0) | [Giulia De Luca](https://open.spotify.com/artist/7cEydhNzXHxSFYYZEB6Fmk) | [Come Sei](https://open.spotify.com/album/3hiy6R3RBznXqIGEr2Ghs2) | 2:56 | 2023-05-19 |  |
 | [Confidence](https://open.spotify.com/track/61LzaoAvJFI2N1qZKjWEfG) | [Jiao Ch'ien](https://open.spotify.com/artist/6cz6KGJs1Q28j0nknp9sck) | [Confidence](https://open.spotify.com/album/5Bhi1WTuw3gm08KC3iwi3v) | 2:42 | 2022-07-08 |  |
+| [Constellation](https://open.spotify.com/track/0HXhHWPuWIPELWMv5eXFaJ) | [Forsintha](https://open.spotify.com/artist/3YPvZWXdCmGaEVkMoCFYML) | [Constellation](https://open.spotify.com/album/4YiORfD4wrMrqLnPqdAU32) | 3:01 | 2023-12-01 |  |
 | [Continuation](https://open.spotify.com/track/6CtgSHDxivSLqi4vjYCUs8) | [Yonatan Awate](https://open.spotify.com/artist/6ptntg50Xz0ACYkxCIOHz0) | [Continuation](https://open.spotify.com/album/5Kgdlv5JbgHgtUo3zXiOGj) | 2:41 | 2021-12-17 | 2023-05-27 |
 | [Covering the Sun](https://open.spotify.com/track/1IUe9CBv83sg56rTorIVLp) | [Sleepy Clouds](https://open.spotify.com/artist/2VGcECsvRjugsMNJ2bVSsM) | [Ivory Clouds](https://open.spotify.com/album/4nYrgdNmIyEbayYyjdmppr) | 3:13 | 2021-12-17 |  |
 | [Cross A Line](https://open.spotify.com/track/1IkrL2wE6aWYzOmWjZmNO9) | [Sean Altar](https://open.spotify.com/artist/3Jo70Smt1IRBEAGBeXnczk) | [Cross A Line](https://open.spotify.com/album/32PoI04cGJfCgmH003knVN) | 2:18 | 2022-03-17 |  |
@@ -127,6 +128,7 @@
 | [Figuratives](https://open.spotify.com/track/07FdbSr9DEzo8QjEcHB7XD) | [Natalie Carlton](https://open.spotify.com/artist/5tskj9vtZkM605QJsLW9AH) | [Figuratives](https://open.spotify.com/album/1SCWwtBjWjQCkTS14TLoL4) | 2:16 | 2022-05-05 |  |
 | [Finalement](https://open.spotify.com/track/0X1yIZPqq7RJv3QtSy2W83) | [Nuit Pluie](https://open.spotify.com/artist/6fPF7rV8SX0fysuJVs7mZb) | [Finalement](https://open.spotify.com/album/7smRBKywYWDRKGrLQx5p4H) | 2:56 | 2021-12-17 |  |
 | [Fliessend](https://open.spotify.com/track/6USOZA7NMQwoL9LaNfBPJP) | [Solar Wash](https://open.spotify.com/artist/0Yh3qH3YP5YPSK9o1emQLC) | [Fliessend](https://open.spotify.com/album/1tZnE5teaXuwMXskg4VXV9) | 2:44 | 2022-04-07 |  |
+| [Flotatu](https://open.spotify.com/track/0EsJl0pCe0s5RwTHxAp4Ek) | [Laila Wollo](https://open.spotify.com/artist/1jmtNyWEYK79HFiie88kBj) | [Flotatu](https://open.spotify.com/album/2CPKKXkbq1vAmWIO7Oes1k) | 2:32 | 2023-12-01 |  |
 | [Flucht](https://open.spotify.com/track/2mPQlLpYdr2HFROOunOKH4) | [Elias Dome](https://open.spotify.com/artist/0jrRKY6KdJnLLOmF1FPb6p) | [Flucht](https://open.spotify.com/album/2NNkB8re9TnYdfcRmbv7Fn) | 2:42 | 2022-02-01 |  |
 | [Fondo](https://open.spotify.com/track/3YsadWxIYFPZY3D4LmXqZO) | [Cthulhu Ramón](https://open.spotify.com/artist/74jJkqez2clBfaCi76V7CW) | [Fondo](https://open.spotify.com/album/7jLqHed1TjbDIlIicn8jt9) | 2:53 | 2022-11-11 |  |
 | [For Your Relief](https://open.spotify.com/track/2bBNdeBMLLOrpzewcEQIPl) | [Calming Eyes](https://open.spotify.com/artist/32QebOlHD4A8nInyCK0wvf) | [Graceful](https://open.spotify.com/album/5qRo14dwWwk80r2UK4flJa) | 2:21 | 2022-02-15 |  |
@@ -264,7 +266,7 @@
 | [Polaris](https://open.spotify.com/track/15Q4tq0gvEelMr40CeBClA) | [Stellarscopees](https://open.spotify.com/artist/663VphTY3ZpSam1nra3WG6) | [Polaris](https://open.spotify.com/album/1O4hCDZOcxLITrYIocKgdt) | 3:28 | 2021-12-17 |  |
 | [Pomiri se](https://open.spotify.com/track/4RqQwKxM6mzWEJXl0DNiRn) | [Fabijan Spaći](https://open.spotify.com/artist/4zuaDhav8BE3DEkjJelFYX) | [Pomiri se](https://open.spotify.com/album/0258oNwoApLV1QwCGfZD9P) | 3:39 | 2021-12-17 |  |
 | [Porcelain](https://open.spotify.com/track/1p6B2W8oxPhLhkY9baZbi5) | [Unilow](https://open.spotify.com/artist/3zSgZfjvgK6sEyiEVa2vQa) | [Porcelain](https://open.spotify.com/album/4JM38aezOxi9ZN7dKawJcx) | 2:09 | 2022-11-11 |  |
-| [Protagonist](https://open.spotify.com/track/7roBeVcRtHZR8J00pX5Fw2) | [Global Hum](https://open.spotify.com/artist/3lifXuRT69XpJuFvuml4iu) | [Protagonist](https://open.spotify.com/album/0clnxOhPz384VGX6nbuCcp) | 2:40 | 2021-12-17 |  |
+| [Protagonist](https://open.spotify.com/track/7roBeVcRtHZR8J00pX5Fw2) | [Global Hum](https://open.spotify.com/artist/3lifXuRT69XpJuFvuml4iu) | [Protagonist](https://open.spotify.com/album/0clnxOhPz384VGX6nbuCcp) | 2:40 | 2021-12-17 | 2023-12-02 |
 | [Protection](https://open.spotify.com/track/7seUboMUYcCSjiuWfHRqkR) | [Arush Mandal](https://open.spotify.com/artist/5WSATrMjcuhKibg0jp4uHI) | [Pilgrimage](https://open.spotify.com/album/2XWMV5XBqmoPaPxOWLlJGq) | 2:57 | 2022-09-13 |  |
 | [Pulsar](https://open.spotify.com/track/1DS4QEIy4juYscI1xWYnad) | [Carufo](https://open.spotify.com/artist/19iZvlebGTx7MIFfXSbnb6) | [Pulsar](https://open.spotify.com/album/0EVavxdvKSfRqPKoS2gq6s) | 2:42 | 2023-06-16 |  |
 | [Quartz](https://open.spotify.com/track/6fEgQLmEhvE5Y04aldWGyd) | [Crystal Fragments](https://open.spotify.com/artist/3crlQoae3kpZFKLtSCxrnM) | [Gemstones, Vol\. 6](https://open.spotify.com/album/4ca7z1pgOg98DEiailChTn) | 2:36 | 2021-12-17 | 2022-09-03 |

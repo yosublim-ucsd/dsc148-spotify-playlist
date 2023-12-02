@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "The best in indie. Cover: Busty and the Bass",
+  "description": "The best in indie. Cover: Mustafa",
   "name": "Indie All Stars",
   "tracks": [
     {
@@ -882,7 +882,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 222741,
       "name": "Alien Love Call",
       "url": "https://open.spotify.com/track/5D7AFGloFpXtdT2PiKTEC3"
@@ -3170,6 +3170,24 @@
       "duration_ms": 241499,
       "name": "Broken Record",
       "url": "https://open.spotify.com/track/4LIxmoxqIUvlANwcNR9b3L"
+    },
+    {
+      "album": {
+        "name": "Bubblegum Dog",
+        "url": "https://open.spotify.com/album/6CWVALzNFLjaPvr8HW5S9Z"
+      },
+      "artists": [
+        {
+          "name": "MGMT",
+          "url": "https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261760,
+      "name": "Bubblegum Dog",
+      "url": "https://open.spotify.com/track/5MHNVfob6U5PBe8y15A4MG"
     },
     {
       "album": {
@@ -5772,7 +5790,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 242466,
       "name": "Do The Dance",
       "url": "https://open.spotify.com/track/7rMomVJTqGMjJnXRlgf4Wh"
@@ -12358,7 +12376,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 211734,
       "name": "Kansas",
       "url": "https://open.spotify.com/track/0x0OjST3CNulTlhzLybBc9"
@@ -13767,6 +13785,28 @@
     },
     {
       "album": {
+        "name": "Love Cocoon",
+        "url": "https://open.spotify.com/album/0B83pjm3j5wsTQn5aya1Uo"
+      },
+      "artists": [
+        {
+          "name": "Muroki",
+          "url": "https://open.spotify.com/artist/3Nvjwz6gDry7Uume9kjCBT"
+        },
+        {
+          "name": "BENEE",
+          "url": "https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203133,
+      "name": "Love Cocoon",
+      "url": "https://open.spotify.com/track/0Oq597Hz70L8ms63HlSZxl"
+    },
+    {
+      "album": {
         "name": "Love Is My Condition",
         "url": "https://open.spotify.com/album/1Gybu76KwSDNNyK2K13PlK"
       },
@@ -14312,6 +14352,24 @@
       "duration_ms": 195466,
       "name": "Measure of a Man (feat. Central Cee)",
       "url": "https://open.spotify.com/track/3gjKJ0RjjEddIJW0NDDZ1r"
+    },
+    {
+      "album": {
+        "name": "Medicine",
+        "url": "https://open.spotify.com/album/3JqcgkR1T0inYGixFDTmdO"
+      },
+      "artists": [
+        {
+          "name": "Loving",
+          "url": "https://open.spotify.com/artist/4ftctxasGrW5Ud5Pbw6kWq"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255414,
+      "name": "Medicine",
+      "url": "https://open.spotify.com/track/23k8mKYhjxN5iSw6nxOVkL"
     },
     {
       "album": {
@@ -18885,6 +18943,24 @@
     },
     {
       "album": {
+        "name": "Same Place",
+        "url": "https://open.spotify.com/album/7AxKNUtlwzMUkzJX5niGdw"
+      },
+      "artists": [
+        {
+          "name": "Blair Lee",
+          "url": "https://open.spotify.com/artist/1pYkoc6a3QKymoCVfAWuNc"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159781,
+      "name": "Same Place",
+      "url": "https://open.spotify.com/track/06iWqPVbWiaKR05SzCnYYw"
+    },
+    {
+      "album": {
         "name": "Satan / Jacob Rose",
         "url": "https://open.spotify.com/album/5nExpRArSDcibPvnuQQc3I"
       },
@@ -19214,7 +19290,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 131293,
       "name": "See the Ground",
       "url": "https://open.spotify.com/track/4wKgFTmvtBz3A9rybWA4q6"
@@ -20359,6 +20435,24 @@
     },
     {
       "album": {
+        "name": "Song For Franz",
+        "url": "https://open.spotify.com/album/1xKascFBIt5fwizJDm2Rh7"
+      },
+      "artists": [
+        {
+          "name": "Alex Nicol",
+          "url": "https://open.spotify.com/artist/7MlkcMZ5n9BgU5wNgYcNvu"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192426,
+      "name": "Song For Franz",
+      "url": "https://open.spotify.com/track/5K9nvLz7Y3mgxLNPJuWcjR"
+    },
+    {
+      "album": {
         "name": "Sorcery",
         "url": "https://open.spotify.com/album/28xNTR0Ay7FMqh5PShz1l8"
       },
@@ -20936,7 +21030,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 236933,
       "name": "Stupid 4 U",
       "url": "https://open.spotify.com/track/0XudTjuk5umhu2Q8KYEZDU"
@@ -21441,6 +21535,24 @@
     },
     {
       "album": {
+        "name": "Take Me Home, Country Roads",
+        "url": "https://open.spotify.com/album/5qDjtBY8cC4bO6wytuGOuT"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166676,
+      "name": "Take Me Home, Country Roads",
+      "url": "https://open.spotify.com/track/7qF0FfuzBFwMe1lNHkEDxW"
+    },
+    {
+      "album": {
         "name": "Taking Care",
         "url": "https://open.spotify.com/album/0BsBKyEWnX2pwTVrMlnMaT"
       },
@@ -21708,7 +21820,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 306214,
       "name": "The Absent Sea",
       "url": "https://open.spotify.com/track/6hQCfppZa3B4gs5TwytSDF"
@@ -21990,6 +22102,24 @@
       "duration_ms": 277466,
       "name": "The Extra Sees the Film",
       "url": "https://open.spotify.com/track/1dtzTEzZFYilvvriv0T7CI"
+    },
+    {
+      "album": {
+        "name": "The Fight",
+        "url": "https://open.spotify.com/album/0vm1RScuRpoQy6OwltHDLd"
+      },
+      "artists": [
+        {
+          "name": "Future Islands",
+          "url": "https://open.spotify.com/artist/1WvvwcQx0tj6NdDhZZ2zZz"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267400,
+      "name": "The Fight",
+      "url": "https://open.spotify.com/track/5dO7az8K6NveAArJRAGWm0"
     },
     {
       "album": {
@@ -22444,7 +22574,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 216866,
       "name": "The Tower",
       "url": "https://open.spotify.com/track/09eApSzdPkFadMVJ8LlA3D"
@@ -24317,6 +24447,24 @@
     },
     {
       "album": {
+        "name": "Water Underground",
+        "url": "https://open.spotify.com/album/4qpSwHfArylYxrXD9BK7lI"
+      },
+      "artists": [
+        {
+          "name": "Real Estate",
+          "url": "https://open.spotify.com/artist/41SQP16hv1TioVYqdckmxT"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206546,
+      "name": "Water Underground",
+      "url": "https://open.spotify.com/track/56UnwWtjPqJA2gQthNALiR"
+    },
+    {
+      "album": {
         "name": "Watercolor Eyes (From \u201cEuphoria\u201d An HBO Original Series)",
         "url": "https://open.spotify.com/album/12fNudihprFoc3Jj5nGFkF"
       },
@@ -24980,7 +25128,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 160613,
       "name": "Why You?",
       "url": "https://open.spotify.com/track/2eRMRIXoOSNLl3xHiztwBM"

@@ -2,9 +2,9 @@
 
 ### [Wild Country](https://open.spotify.com/playlist/37i9dQZF1DX5mB2C8gBeUM)
 
-> Country gone wild! You never know what you're gonna get\. Cover: Carter Faith
+> Country gone wild! You never know what you're gonna get\. Cover: Redferrin
 
-418 songs - 20 hr 58 min
+419 songs - 21 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -220,6 +220,7 @@
 | [Intertwined](https://open.spotify.com/track/6fp5VnTQX4esPpou7YmcYh) | [CHASE WRIGHT](https://open.spotify.com/artist/4P70LmF7PJwBGS9BV5dk2c), [Delaney Jane](https://open.spotify.com/artist/3fuxStOqQv8TiytHeuGiE8) | [INTERTWINED](https://open.spotify.com/album/23nMKl9EaTuOsQYX5ljJgs) | 3:02 | 2022-07-22 | 2022-09-12 |
 | [Islands To Nashville](https://open.spotify.com/track/59tIjrUIE6bdBfn0QRzmAs) | [Common Kings](https://open.spotify.com/artist/4j0qbafzqnGf4ARF8tY4VL) | [Islands To Nashville](https://open.spotify.com/album/7IDtDfgOiykmk79S7lcZiM) | 3:14 | 2021-12-10 | 2023-01-04 |
 | [I’ll Be Damned](https://open.spotify.com/track/69Asb7QVKn11cRDpbwPpcY) | [Riley Thomas](https://open.spotify.com/artist/5eBOFT8dGahqsNY97nwuJB) | [I’ll Be Damned](https://open.spotify.com/album/4PjzPyI2uEAnKW603XKKSc) | 3:08 | 2023-08-25 |  |
+| [Jack and Diet Coke](https://open.spotify.com/track/55a01VsdKH2OeSXLGy9wd5) | [Redferrin](https://open.spotify.com/artist/4oCk0xbmAtqXZFzXtH3AgF) | [Jack and Diet Coke](https://open.spotify.com/album/4JbUjpi4rUoHTxEtlkiFj5) | 3:13 | 2023-12-01 |  |
 | [James Dean \(Feat\. Lathan Warlick\)](https://open.spotify.com/track/28YeYqCPDyhmJ76h5OE139) | [Gabrielle Mooney](https://open.spotify.com/artist/33zGyZkIKniFsuzrFTkZwe), [Lathan Warlick](https://open.spotify.com/artist/6Wg68vsyRjVt7TRJsWNWSP) | [James Dean \(Feat\. Lathan Warlick\)](https://open.spotify.com/album/3t85iYWW2ZcXFvTJwW02nr) | 2:57 | 2023-08-25 |  |
 | [James Dean \(Feat\. Lathan Warlick\)](https://open.spotify.com/track/3bo6LIVTrJAyn0CJOeBxXK) | [Gabrielle Mooney](https://open.spotify.com/artist/33zGyZkIKniFsuzrFTkZwe), [Lathan Warlick](https://open.spotify.com/artist/6Wg68vsyRjVt7TRJsWNWSP) | [James Dean \(Feat\. Lathan Warlick\)](https://open.spotify.com/album/2ltEv5M5IiJEUkrQurPSVx) | 2:57 | 2023-08-11 | 2023-08-27 |
 | [Jenny's Song](https://open.spotify.com/track/7yY0HunOjMwS2ayLprriyT) | [David Morris](https://open.spotify.com/artist/23Pb3oXBOQj9WEziS6laUW) | [Jenny's Song](https://open.spotify.com/album/2RKCEj13IUvnlx3gA9wqwK) | 4:42 | 2023-05-26 | 2023-09-30 |

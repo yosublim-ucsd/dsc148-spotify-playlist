@@ -1,12 +1,12 @@
 {
   "description": "Songs from Canadian artists that dominated the 1990s. Cover: LEN",
-  "num_followers": 56578,
+  "num_followers": 56599,
   "original_name": "Canadian '90s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMzI3YWI1Mzg1ZTgwMmFmY2MxZTRkYzE4NWUzOWQ0NGFjYWJjY2Y4",
+  "snapshot_id": "MCw1ZDE2ZDI2N2UzMmYzNTMwZmQzODJjMGY1MzBhNDI1MDczYzBjNDYy",
   "tracks": [
     {
       "added_at": "2021-09-21 20:57:50",
@@ -463,6 +463,22 @@
     {
       "added_at": "2021-09-21 20:57:50",
       "album": {
+        "name": "Rockinghorse",
+        "url": "https://open.spotify.com/album/0mZ1ie97Erajm6EWYvOeIO"
+      },
+      "artists": [
+        {
+          "name": "Alannah Myles",
+          "url": "https://open.spotify.com/artist/6IYnSXO40Bh7Zdqhf6rQoj"
+        }
+      ],
+      "duration_ms": 303933,
+      "name": "Song Instead of a Kiss",
+      "url": "https://open.spotify.com/track/3vLC0USKtOIxMnQfnjb3rt"
+    },
+    {
+      "added_at": "2021-09-21 20:57:50",
+      "album": {
         "name": "Cash Crop + Bonus Track",
         "url": "https://open.spotify.com/album/5mJHJ4ycYgFtNK5mEF68MM"
       },
@@ -491,22 +507,6 @@
       "duration_ms": 247706,
       "name": "Northern Touch (feat. Kardinal Offishall, Thrust, Choclair & Checkmate)",
       "url": "https://open.spotify.com/track/4IfK0yQdVsWVoQO44DedEG"
-    },
-    {
-      "added_at": "2021-09-21 20:57:50",
-      "album": {
-        "name": "Rockinghorse",
-        "url": "https://open.spotify.com/album/0mZ1ie97Erajm6EWYvOeIO"
-      },
-      "artists": [
-        {
-          "name": "Alannah Myles",
-          "url": "https://open.spotify.com/artist/6IYnSXO40Bh7Zdqhf6rQoj"
-        }
-      ],
-      "duration_ms": 303933,
-      "name": "Song Instead of a Kiss",
-      "url": "https://open.spotify.com/track/3vLC0USKtOIxMnQfnjb3rt"
     },
     {
       "added_at": "2021-09-21 20:57:50",

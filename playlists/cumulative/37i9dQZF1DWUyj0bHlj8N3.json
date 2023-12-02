@@ -1437,24 +1437,6 @@
     },
     {
       "album": {
-        "name": "5 Years of mau5",
-        "url": "https://open.spotify.com/album/0PManGPRcHlL7fZBoQStK2"
-      },
-      "artists": [
-        {
-          "name": "deadmau5",
-          "url": "https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx"
-        }
-      ],
-      "date_added": "2021-12-17",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 401621,
-      "name": "Sofi Needs a Ladder",
-      "url": "https://open.spotify.com/track/0vMeJiwuTZL61CtF2OAQxW"
-    },
-    {
-      "album": {
         "name": "4x4=12",
         "url": "https://open.spotify.com/album/1rSvgtvNAFSl0AJt9NhJCU"
       },
@@ -1470,6 +1452,28 @@
       "duration_ms": 403088,
       "name": "Sofi Needs A Ladder",
       "url": "https://open.spotify.com/track/5pewxEBnMo72rY6pGH0HJz"
+    },
+    {
+      "album": {
+        "name": "5 Years of mau5",
+        "url": "https://open.spotify.com/album/0PManGPRcHlL7fZBoQStK2"
+      },
+      "artists": [
+        {
+          "name": "deadmau5",
+          "url": "https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx"
+        },
+        {
+          "name": "SOFI",
+          "url": "https://open.spotify.com/artist/5JQzXeT8vXc1N4Y6tGenCb"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 401621,
+      "name": "Sofi Needs a Ladder",
+      "url": "https://open.spotify.com/track/0vMeJiwuTZL61CtF2OAQxW"
     },
     {
       "album": {

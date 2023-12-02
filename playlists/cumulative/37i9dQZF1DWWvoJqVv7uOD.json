@@ -463,6 +463,24 @@
     },
     {
       "album": {
+        "name": "TRUSTFALL (Tour Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4hgincUyDza4A228fFQRiK"
+      },
+      "artists": [
+        {
+          "name": "P!nk",
+          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212306,
+      "name": "All Out Of Fight",
+      "url": "https://open.spotify.com/track/0ZtWVho1KKMD9w55XYoDPl"
+    },
+    {
+      "album": {
         "name": "All She Wanna Do",
         "url": "https://open.spotify.com/album/6TZegXA3acaeOUIh5fsV5M"
       },
@@ -2050,7 +2068,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 268653,
       "name": "Damage Gets Done (feat. Brandi Carlile)",
       "url": "https://open.spotify.com/track/2OLaeJRrRjFgLfTsccnzlM"
@@ -3068,7 +3086,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 163472,
       "name": "Feel Good",
       "url": "https://open.spotify.com/track/6PcVlezWXunO2Bh78iEq0W"
@@ -5225,6 +5243,24 @@
     },
     {
       "album": {
+        "name": "I Love You, Please Don't Hate Me",
+        "url": "https://open.spotify.com/album/3B9uBcAh5KePyRuVxny6V5"
+      },
+      "artists": [
+        {
+          "name": "Sam Fischer",
+          "url": "https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182791,
+      "name": "I Love You, Please Don't Hate Me",
+      "url": "https://open.spotify.com/track/1i1naQZbmJoF8ocBpTbRGl"
+    },
+    {
+      "album": {
         "name": "I Made It",
         "url": "https://open.spotify.com/album/6IEdMBcT6BR8cvNx8dneew"
       },
@@ -6346,7 +6382,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 176839,
       "name": "Life On The Moon",
       "url": "https://open.spotify.com/track/41da7D1IzeYqiFtLriTmdU"
@@ -9174,7 +9210,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 169123,
       "name": "Skeleton",
       "url": "https://open.spotify.com/track/0wdnfaD8CN0Yq97p63Ph4T"
@@ -9730,7 +9766,7 @@
       ],
       "date_added": "2023-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 185466,
       "name": "Still Have Love For You",
       "url": "https://open.spotify.com/track/2Lt4bMUuokKyC4r1puqefa"
@@ -9922,6 +9958,24 @@
       "duration_ms": 306423,
       "name": "Sweet Sounds Of Heaven (feat. Lady Gaga) - Edit",
       "url": "https://open.spotify.com/track/6HCUMOcGa4LyjcBXjl7z0Y"
+    },
+    {
+      "album": {
+        "name": "Take Me Home, Country Roads",
+        "url": "https://open.spotify.com/album/5qDjtBY8cC4bO6wytuGOuT"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166676,
+      "name": "Take Me Home, Country Roads",
+      "url": "https://open.spotify.com/track/7qF0FfuzBFwMe1lNHkEDxW"
     },
     {
       "album": {
@@ -10880,7 +10934,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 221226,
       "name": "We Should Get Married",
       "url": "https://open.spotify.com/track/2syH39iwALerO994Pod9dB"

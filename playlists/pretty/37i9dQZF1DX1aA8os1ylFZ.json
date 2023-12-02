@@ -1,12 +1,12 @@
 {
   "description": "get into your feels with some r&b magic",
-  "num_followers": 240553,
+  "num_followers": 240597,
   "original_name": "R&B Magic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhODZjNzBlNjk0NDI0ZDM3YzUyODBiODAzYzM5YzEzMzhmYzkzMTlm",
+  "snapshot_id": "MCxlOTFkZjg3YjUxM2ZkOTA1YzVlOTc4ZjMwMzQyZmE5YzBmODc3OWY3",
   "tracks": [
     {
       "added_at": "2023-11-30 23:00:00",
@@ -355,22 +355,6 @@
     {
       "added_at": "2023-11-30 23:00:00",
       "album": {
-        "name": "Heart On My Sleeve (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5PSR9tquibfWRiWVSkn6qD"
-      },
-      "artists": [
-        {
-          "name": "Ella Mai",
-          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
-        }
-      ],
-      "duration_ms": 206429,
-      "name": "This Is",
-      "url": "https://open.spotify.com/track/2zuDMKJ2rSgCMtJknUJBZ9"
-    },
-    {
-      "added_at": "2023-11-30 23:00:00",
-      "album": {
         "name": "What I Didn\u2019t Tell You (Deluxe)",
         "url": "https://open.spotify.com/album/0P7argSEQG9otkeG3welvZ"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 241624,
       "name": "ICU",
       "url": "https://open.spotify.com/track/3tpI98Yae25hSvhh6mitA9"
+    },
+    {
+      "added_at": "2023-11-30 23:00:00",
+      "album": {
+        "name": "Heart On My Sleeve (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5PSR9tquibfWRiWVSkn6qD"
+      },
+      "artists": [
+        {
+          "name": "Ella Mai",
+          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
+        }
+      ],
+      "duration_ms": 206429,
+      "name": "This Is",
+      "url": "https://open.spotify.com/track/2zuDMKJ2rSgCMtJknUJBZ9"
     },
     {
       "added_at": "2023-11-30 23:00:00",
@@ -643,22 +643,6 @@
     {
       "added_at": "2023-11-30 23:00:00",
       "album": {
-        "name": "Heartbreak & Other Stories",
-        "url": "https://open.spotify.com/album/3ZND79VBwdSp1g9jUndMXU"
-      },
-      "artists": [
-        {
-          "name": "Richie Campbell",
-          "url": "https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS"
-        }
-      ],
-      "duration_ms": 164706,
-      "name": "Heartless",
-      "url": "https://open.spotify.com/track/1q4F4KfUNY4nDkuHDVLQya"
-    },
-    {
-      "added_at": "2023-11-30 23:00:00",
-      "album": {
         "name": "Hennessy (feat. Blxst)",
         "url": "https://open.spotify.com/album/6yhGlErwPSocayEPnkT9Vk"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 144710,
       "name": "Hennessy (feat. Blxst)",
       "url": "https://open.spotify.com/track/61mRlOaLDoj6dhSuM81t3t"
+    },
+    {
+      "added_at": "2023-11-30 23:00:00",
+      "album": {
+        "name": "Heartbreak & Other Stories",
+        "url": "https://open.spotify.com/album/3ZND79VBwdSp1g9jUndMXU"
+      },
+      "artists": [
+        {
+          "name": "Richie Campbell",
+          "url": "https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS"
+        }
+      ],
+      "duration_ms": 164706,
+      "name": "Heartless",
+      "url": "https://open.spotify.com/track/1q4F4KfUNY4nDkuHDVLQya"
     },
     {
       "added_at": "2023-11-30 23:00:00",
@@ -755,22 +755,6 @@
     {
       "added_at": "2023-11-30 23:00:00",
       "album": {
-        "name": "Words of Affirmation",
-        "url": "https://open.spotify.com/album/4A6aWWPzVnNEjqm29C93A7"
-      },
-      "artists": [
-        {
-          "name": "Queen Naija",
-          "url": "https://open.spotify.com/artist/3nViOFa3kZW8OMSNOzwr98"
-        }
-      ],
-      "duration_ms": 186095,
-      "name": "Words of Affirmation",
-      "url": "https://open.spotify.com/track/4TeklWa1VJeKwDThRho8vy"
-    },
-    {
-      "added_at": "2023-11-30 23:00:00",
-      "album": {
         "name": "Little Blue Moon",
         "url": "https://open.spotify.com/album/4BRgkGx8jvMncKLgugeVYp"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 168146,
       "name": "Little Blue Moon",
       "url": "https://open.spotify.com/track/0Lmx2qlN2FbeGWgqTBzQ2k"
+    },
+    {
+      "added_at": "2023-11-30 23:00:00",
+      "album": {
+        "name": "Words of Affirmation",
+        "url": "https://open.spotify.com/album/4A6aWWPzVnNEjqm29C93A7"
+      },
+      "artists": [
+        {
+          "name": "Queen Naija",
+          "url": "https://open.spotify.com/artist/3nViOFa3kZW8OMSNOzwr98"
+        }
+      ],
+      "duration_ms": 186095,
+      "name": "Words of Affirmation",
+      "url": "https://open.spotify.com/track/4TeklWa1VJeKwDThRho8vy"
     },
     {
       "added_at": "2023-11-30 23:00:00",
@@ -867,26 +867,6 @@
     {
       "added_at": "2023-11-30 23:00:00",
       "album": {
-        "name": "After the Butterflies",
-        "url": "https://open.spotify.com/album/2fyaGl2f9n6oNUVhf7XJhM"
-      },
-      "artists": [
-        {
-          "name": "Queen Naija",
-          "url": "https://open.spotify.com/artist/3nViOFa3kZW8OMSNOzwr98"
-        },
-        {
-          "name": "Ella Mai",
-          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
-        }
-      ],
-      "duration_ms": 190498,
-      "name": "All or Nothing (feat. Ella Mai)",
-      "url": "https://open.spotify.com/track/1kCHMAf5TOU97HhuRHNyi1"
-    },
-    {
-      "added_at": "2023-11-30 23:00:00",
-      "album": {
         "name": "Look My Way",
         "url": "https://open.spotify.com/album/2GyWrPZ5ziSDUezZyhllEq"
       },
@@ -931,6 +911,26 @@
       "duration_ms": 155624,
       "name": "Stranger",
       "url": "https://open.spotify.com/track/4TRcHzOWfy7EmYYdci24jv"
+    },
+    {
+      "added_at": "2023-11-30 23:00:00",
+      "album": {
+        "name": "After the Butterflies",
+        "url": "https://open.spotify.com/album/2fyaGl2f9n6oNUVhf7XJhM"
+      },
+      "artists": [
+        {
+          "name": "Queen Naija",
+          "url": "https://open.spotify.com/artist/3nViOFa3kZW8OMSNOzwr98"
+        },
+        {
+          "name": "Ella Mai",
+          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
+        }
+      ],
+      "duration_ms": 190498,
+      "name": "All or Nothing (feat. Ella Mai)",
+      "url": "https://open.spotify.com/track/1kCHMAf5TOU97HhuRHNyi1"
     },
     {
       "added_at": "2023-11-30 23:00:00",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2023-11-30 23:00:00",
       "album": {
-        "name": "SOLO",
-        "url": "https://open.spotify.com/album/6tUdt4hvQmNtO0gh5fG8ce"
-      },
-      "artists": [
-        {
-          "name": "Shay Lia",
-          "url": "https://open.spotify.com/artist/3sJQwG0SsGRyv5C5kh4o9a"
-        }
-      ],
-      "duration_ms": 182400,
-      "name": "SOLO",
-      "url": "https://open.spotify.com/track/5UXbiwymPFSqbVhDefIeB7"
-    },
-    {
-      "added_at": "2023-11-30 23:00:00",
-      "album": {
         "name": "Overture",
         "url": "https://open.spotify.com/album/7k4SVvaEm2QbqE5d8jgw2L"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 221492,
       "name": "Say Yes (Turquoise) (feat. Joshua J)",
       "url": "https://open.spotify.com/track/2vkx4WjT1wMJyZu4EEseL3"
+    },
+    {
+      "added_at": "2023-11-30 23:00:00",
+      "album": {
+        "name": "SOLO",
+        "url": "https://open.spotify.com/album/6tUdt4hvQmNtO0gh5fG8ce"
+      },
+      "artists": [
+        {
+          "name": "Shay Lia",
+          "url": "https://open.spotify.com/artist/3sJQwG0SsGRyv5C5kh4o9a"
+        }
+      ],
+      "duration_ms": 182400,
+      "name": "SOLO",
+      "url": "https://open.spotify.com/track/5UXbiwymPFSqbVhDefIeB7"
     },
     {
       "added_at": "2023-11-30 23:00:00",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2023-11-30 23:00:00",
       "album": {
-        "name": "All I Need",
-        "url": "https://open.spotify.com/album/1CjPP5G4HZ9AuiJrMLHm6A"
-      },
-      "artists": [
-        {
-          "name": "Miss Lafamilia",
-          "url": "https://open.spotify.com/artist/5RUIxQGzPzXUD19Rb3W4e9"
-        }
-      ],
-      "duration_ms": 173909,
-      "name": "All I Need",
-      "url": "https://open.spotify.com/track/5V5MLWpaH416tfZl5e5z84"
-    },
-    {
-      "added_at": "2023-11-30 23:00:00",
-      "album": {
         "name": "Emotionally Unavailable",
         "url": "https://open.spotify.com/album/6GTubdptJMyDY8WBuWH7ws"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 174000,
       "name": "Loveloca",
       "url": "https://open.spotify.com/track/1JCKPYM0yFZfXeC04RmeiB"
+    },
+    {
+      "added_at": "2023-11-30 23:00:00",
+      "album": {
+        "name": "All I Need",
+        "url": "https://open.spotify.com/album/1CjPP5G4HZ9AuiJrMLHm6A"
+      },
+      "artists": [
+        {
+          "name": "Miss Lafamilia",
+          "url": "https://open.spotify.com/artist/5RUIxQGzPzXUD19Rb3W4e9"
+        }
+      ],
+      "duration_ms": 173909,
+      "name": "All I Need",
+      "url": "https://open.spotify.com/track/5V5MLWpaH416tfZl5e5z84"
     },
     {
       "added_at": "2023-11-30 23:00:00",
@@ -1575,38 +1575,6 @@
     {
       "added_at": "2023-11-30 23:00:00",
       "album": {
-        "name": "1+1",
-        "url": "https://open.spotify.com/album/6PGhknbHltteEYewVcwXx4"
-      },
-      "artists": [
-        {
-          "name": "Cyra Gwynth",
-          "url": "https://open.spotify.com/artist/73xasVLAvFrnbuhBdAucpp"
-        }
-      ],
-      "duration_ms": 172739,
-      "name": "1+1",
-      "url": "https://open.spotify.com/track/2TtiDn0UNM0x5O6wvcd7Kt"
-    },
-    {
-      "added_at": "2023-11-30 23:00:00",
-      "album": {
-        "name": "Say That",
-        "url": "https://open.spotify.com/album/1PQe82S6RF7feFvSBAn3yh"
-      },
-      "artists": [
-        {
-          "name": "Ast\u00e8r Fekre",
-          "url": "https://open.spotify.com/artist/4owtjBwXE8zpOk4ihtCXpK"
-        }
-      ],
-      "duration_ms": 227142,
-      "name": "Say That",
-      "url": "https://open.spotify.com/track/3I2OTaL3DTKB6MK24nKYJy"
-    },
-    {
-      "added_at": "2023-11-30 23:00:00",
-      "album": {
         "name": "Love On Film",
         "url": "https://open.spotify.com/album/7M5WPHQnvSZ53pnlzUkAGW"
       },
@@ -1623,6 +1591,22 @@
     {
       "added_at": "2023-11-30 23:00:00",
       "album": {
+        "name": "1+1",
+        "url": "https://open.spotify.com/album/6PGhknbHltteEYewVcwXx4"
+      },
+      "artists": [
+        {
+          "name": "Cyra Gwynth",
+          "url": "https://open.spotify.com/artist/73xasVLAvFrnbuhBdAucpp"
+        }
+      ],
+      "duration_ms": 172739,
+      "name": "1+1",
+      "url": "https://open.spotify.com/track/2TtiDn0UNM0x5O6wvcd7Kt"
+    },
+    {
+      "added_at": "2023-11-30 23:00:00",
+      "album": {
         "name": "Darkness",
         "url": "https://open.spotify.com/album/12WLtY1AOfYXPmVoYdulxZ"
       },
@@ -1635,6 +1619,22 @@
       "duration_ms": 181422,
       "name": "Darkness",
       "url": "https://open.spotify.com/track/4xNygvV9HtIisQlGQgATvN"
+    },
+    {
+      "added_at": "2023-11-30 23:00:00",
+      "album": {
+        "name": "Say That",
+        "url": "https://open.spotify.com/album/1PQe82S6RF7feFvSBAn3yh"
+      },
+      "artists": [
+        {
+          "name": "Ast\u00e8r Fekre",
+          "url": "https://open.spotify.com/artist/4owtjBwXE8zpOk4ihtCXpK"
+        }
+      ],
+      "duration_ms": 227142,
+      "name": "Say That",
+      "url": "https://open.spotify.com/track/3I2OTaL3DTKB6MK24nKYJy"
     },
     {
       "added_at": "2023-11-30 23:00:00",

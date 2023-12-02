@@ -1242,10 +1242,28 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 195789,
       "name": "Prawda o nas",
       "url": "https://open.spotify.com/track/5KTFOn80Y1tHAmBBb39sw9"
+    },
+    {
+      "album": {
+        "name": "Samotna w Wielkim Miescie",
+        "url": "https://open.spotify.com/album/3nTHYaPt2iLWUF93RTfPC5"
+      },
+      "artists": [
+        {
+          "name": "Kasia Kowalska",
+          "url": "https://open.spotify.com/artist/6VKh8iOViFBI7R8Bb9AilZ"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254933,
+      "name": "Prowadz mnie",
+      "url": "https://open.spotify.com/track/5d2WnlqT8zmD4WjZrwH5jh"
     },
     {
       "album": {

@@ -547,6 +547,24 @@
     },
     {
       "album": {
+        "name": "Black Mona Lisa",
+        "url": "https://open.spotify.com/album/5TjZrtwHeIxK4KUGZcQe27"
+      },
+      "artists": [
+        {
+          "name": "Billy Porter",
+          "url": "https://open.spotify.com/artist/3sjUEh7eXUEL5oZLAEZXD4"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180695,
+      "name": "Black Mona Lisa",
+      "url": "https://open.spotify.com/track/7lmZTo2AochYJZH1oRsdI2"
+    },
+    {
+      "album": {
         "name": "tick, tick... BOOM! (Soundtrack from the Netflix Film)",
         "url": "https://open.spotify.com/album/4d1XaejoQ5r4jdkV8k5SNJ"
       },
@@ -614,7 +632,7 @@
       ],
       "date_added": "2023-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 170034,
       "name": "Broke a Sweat",
       "url": "https://open.spotify.com/track/5taA6pnGkqh9LRvpRpcUgW"
@@ -778,6 +796,24 @@
       "duration_ms": 107852,
       "name": "Crushing Me - From the Paramount+ Series \u2018Grease: Rise of the Pink Ladies'",
       "url": "https://open.spotify.com/track/0RNBDMSTGssQIRsWjnANt7"
+    },
+    {
+      "album": {
+        "name": "Wild About You (World Premiere Recording)",
+        "url": "https://open.spotify.com/album/7yIhi0NBwYTItw2ln4zF6S"
+      },
+      "artists": [
+        {
+          "name": "Alex Newell",
+          "url": "https://open.spotify.com/artist/2vGaSKEDFsVPBgcnGxqlBN"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241920,
+      "name": "Dangerous Lines",
+      "url": "https://open.spotify.com/track/0X0rpLMflNvlMxuQ2qYgWt"
     },
     {
       "album": {
@@ -1031,6 +1067,24 @@
     },
     {
       "album": {
+        "name": "Wild About You (World Premiere Recording)",
+        "url": "https://open.spotify.com/album/7yIhi0NBwYTItw2ln4zF6S"
+      },
+      "artists": [
+        {
+          "name": "Katharine McPhee",
+          "url": "https://open.spotify.com/artist/5oWOx0BBDSMoFB8JDrjQre"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211440,
+      "name": "Floating and Falling",
+      "url": "https://open.spotify.com/track/6UmQE6MN92yrCQYjObOjxx"
+    },
+    {
+      "album": {
         "name": "Beauty and the Beast: A 30th Celebration (Original Soundtrack)",
         "url": "https://open.spotify.com/album/3KTw339NIoDSmkjvbxzA2N"
       },
@@ -1108,6 +1162,24 @@
       "duration_ms": 186373,
       "name": "Harlem Child",
       "url": "https://open.spotify.com/track/3YuIWJDJHcoxGM56TAp224"
+    },
+    {
+      "album": {
+        "name": "Wild About You (World Premiere Recording)",
+        "url": "https://open.spotify.com/album/7yIhi0NBwYTItw2ln4zF6S"
+      },
+      "artists": [
+        {
+          "name": "Lea Salonga",
+          "url": "https://open.spotify.com/artist/1GlMjIezcLwV3OFlX0uXOv"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282453,
+      "name": "Here",
+      "url": "https://open.spotify.com/track/4p2OWZwcCcgo3vYlUedtXf"
     },
     {
       "album": {
@@ -1701,6 +1773,24 @@
     },
     {
       "album": {
+        "name": "Lifeline (From the Original Motion Picture \u201cThe Color Purple\u201d)",
+        "url": "https://open.spotify.com/album/2ShbtQZa3nadKapi4DCIkV"
+      },
+      "artists": [
+        {
+          "name": "Alicia Keys",
+          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227224,
+      "name": "Lifeline - From the Original Motion Picture \u201cThe Color Purple\u201d",
+      "url": "https://open.spotify.com/track/66Z7xWbRpjO7mZJ8U8scrw"
+    },
+    {
+      "album": {
         "name": "Annie Live! (Original Soundtrack of the Live Television Event on NBC)",
         "url": "https://open.spotify.com/album/6o8oNoDE5gX3VqiEOTJbrJ"
       },
@@ -2184,7 +2274,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 226700,
       "name": "Out Alpha The Alpha",
       "url": "https://open.spotify.com/track/3GALk45nKwp5pg6zJp7nhm"
@@ -2488,6 +2578,28 @@
       "duration_ms": 235723,
       "name": "Shining Star",
       "url": "https://open.spotify.com/track/2ICxfKYY5R1EJTIE25r9rZ"
+    },
+    {
+      "album": {
+        "name": "When a Crooner Dies",
+        "url": "https://open.spotify.com/album/5M4DHf0xB5SfhWym8kkHuB"
+      },
+      "artists": [
+        {
+          "name": "Leslie Odom Jr.",
+          "url": "https://open.spotify.com/artist/3cR4rhS2hBWqI7rJEBacvN"
+        },
+        {
+          "name": "Tatiana Marie Clark",
+          "url": "https://open.spotify.com/artist/2ovAB32IEY5k4Mgdl5eSfq"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207878,
+      "name": "Show Me",
+      "url": "https://open.spotify.com/track/1aTjnWJwayQuxZwjaQ7i8N"
     },
     {
       "album": {

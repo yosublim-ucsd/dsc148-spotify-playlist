@@ -4,7 +4,7 @@
 
 > Muito romance, groove suave e R&B feitos no Brasil.
 
-66 songs - 3 hr 40 min
+67 songs - 3 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,13 +13,14 @@
 | [Always](https://open.spotify.com/track/4RVcEWtAcGr5TwbAk5oQhH) | [Victor Franco](https://open.spotify.com/artist/5sNbaOCPAZXHDCWobWHYWv), [Jacob Collier](https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD) | [Self Portrait](https://open.spotify.com/album/3anhy2RLYZnslzRhyjy0Ep) | 2:22 | 2023-09-15 | 2023-10-16 |
 | [Auge](https://open.spotify.com/track/63ft1sslYXqdYttGDQL99T) | [ALLIRA](https://open.spotify.com/artist/1YaRssOooph4Aj4faAS8VS), [WALL](https://open.spotify.com/artist/047ncrQayjiFjUVlWAAhLY), [iceton](https://open.spotify.com/artist/4YdNIaHjaCJJLynr1SP6Bj) | [Auge](https://open.spotify.com/album/3VeBQmFmne7gU4xU6jqlGu) | 3:10 | 2023-09-15 |  |
 | [Aurora](https://open.spotify.com/track/1IurzB42M5kCAuk0Otp36V) | [Doug O.](https://open.spotify.com/artist/1mj6W331lVCliU08OYyMg0) | [Aurora](https://open.spotify.com/album/7lyl9H9Dz6pSqZ7do5UNOL) | 2:31 | 2023-09-15 |  |
+| [Bandida](https://open.spotify.com/track/3gs7uYFl24VspXdi39Yy6l) | [Melly](https://open.spotify.com/artist/7a7n9ka0Mnevq19mOU8tcW) | [Bandida](https://open.spotify.com/album/1J4tkcMXQloJN4oWGH96JY) | 3:27 | 2023-12-01 |  |
 | [Brincava de Amar](https://open.spotify.com/track/2l2FbvWn2uathty65JcJCD) | [Carol Olly](https://open.spotify.com/artist/1eOQwXqT0DJ1XbXMdOp1QR), [Lil Glass](https://open.spotify.com/artist/3YE9TNf4ehxAyZtDvPPNkq) | [Brincava de Amar](https://open.spotify.com/album/3il965mOJh8Jk3KjcxX4fg) | 2:05 | 2023-10-13 | 2023-11-25 |
 | [Candeia](https://open.spotify.com/track/7v1TZLX1Xvwv3TtkiQBQ7v) | [Mericia](https://open.spotify.com/artist/2rbsGwF4WD9SlCqjo0Q2LS) | [Candeia](https://open.spotify.com/album/3gqDDktxBdBRdZVEPTHqq9) | 3:19 | 2023-11-24 |  |
 | [Canela e hortelã](https://open.spotify.com/track/2nEp5iuVr51yVjaepJjAOW) | [Gray C.](https://open.spotify.com/artist/2Zd5n8fw0Pvu1QxGozHfVl), [T\-Rex](https://open.spotify.com/artist/2ssUcgvdBhYI2EEYcc50WS) | [Canela e hortelã](https://open.spotify.com/album/2EEYfJdXVN07Al19zZ9WlQ) | 3:32 | 2023-09-15 |  |
 | [Carinho](https://open.spotify.com/track/18dRY86aWEyp7E2WzlhMLT) | [Doug O.](https://open.spotify.com/artist/1mj6W331lVCliU08OYyMg0) | [Carinho](https://open.spotify.com/album/35LwHQVDtxMoYGM6tYEYLC) | 2:58 | 2023-09-15 |  |
 | [Coisas Simples](https://open.spotify.com/track/4pvK5AbNctlQKAy2Fdvsmp) | [YOÙN](https://open.spotify.com/artist/42nEiwAAE2ypWbygM9iyJi) | [Coisas Simples](https://open.spotify.com/album/1ISojEpGOfxYmhLdALJR6s) | 2:37 | 2023-09-15 |  |
 | [Cola Comigo](https://open.spotify.com/track/1tByapKE4iJ52uQBc1V183) | [LUTHULY](https://open.spotify.com/artist/60FCr24uBUSiwk75v0vfVS) | [Cola Comigo](https://open.spotify.com/album/5eucL3nRasXK7SCOnOZjhw) | 3:28 | 2023-09-15 |  |
-| [Conexão](https://open.spotify.com/track/2EWaBErOpttybo792PEzIB) | [IVYSON](https://open.spotify.com/artist/4oZ941RuRcTCaWxV8YptJu) | [Conexão](https://open.spotify.com/album/3ZtPh7k9yk0F7f6KuiizWH) | 3:45 | 2023-09-22 |  |
+| [Conexão](https://open.spotify.com/track/2EWaBErOpttybo792PEzIB) | [IVYSON](https://open.spotify.com/artist/4oZ941RuRcTCaWxV8YptJu) | [Conexão](https://open.spotify.com/album/3ZtPh7k9yk0F7f6KuiizWH) | 3:45 | 2023-09-22 | 2023-12-02 |
 | [Correnteza \- A COLORS SHOW](https://open.spotify.com/track/3cDlYpaelgDahCMQlyJBgj) | [Ana Olic](https://open.spotify.com/artist/1gJq1KdpkUUygT6tgrnkiY) | [Correnteza \- A COLORS SHOW](https://open.spotify.com/album/3JwynjyDmYuvrZOFXhiUfU) | 3:22 | 2023-09-15 | 2023-10-16 |
 | [Dava Praia](https://open.spotify.com/track/1yBnU3fCQXflHioJWsdiDm) | [Guinu](https://open.spotify.com/artist/5ofL9KZec6IUhmMT7uSmXl), [Juliane Gamboa](https://open.spotify.com/artist/34Ew3QfjXTBeGWxylACsnA) | [Dava Praia](https://open.spotify.com/album/4s5wiro9Rxv3PNRw7LJMkT) | 2:43 | 2023-09-15 |  |
 | [Debochada](https://open.spotify.com/track/429MZRfRYM5RWR5Lie3beS) | [Leo Guima](https://open.spotify.com/artist/4i6YMhe65eKTuSFRKq0X1d) | [Só Vem](https://open.spotify.com/album/2ZgqjH8t5uH1BbJGtyOjaC) | 3:08 | 2023-10-13 | 2023-11-10 |

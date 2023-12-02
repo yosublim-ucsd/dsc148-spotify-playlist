@@ -2,9 +2,9 @@
 
 ### [Connexion Rap](https://open.spotify.com/playlist/37i9dQZF1DWXVOrABrZKBq)
 
-> Le rap francophone est en forme\. Photo: ElGrandeToto
+> Le rap francophone est en forme\. Photo: Gazo x Tiakola
 
-114 songs - 5 hr 58 min
+115 songs - 6 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,8 +83,9 @@
 | [Mr\. Ocho](https://open.spotify.com/track/1xLCwgQcF6bKncTJmRGGws) | [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB) | [Liens du 100](https://open.spotify.com/album/69njUAy8iu7QDMUYRYTQc2) | 3:46 | 2023-03-03 | 2023-07-01 |
 | [Mérité](https://open.spotify.com/track/5wd8lk4IpsqJomwYuzpCCy) | [Izzy\-S](https://open.spotify.com/artist/76DXtaWMXZQbRZUHkQEdDQ), [Shreez](https://open.spotify.com/artist/0qNrNX9FKJM0ZJFbcbMlMp) | [Mérité](https://open.spotify.com/album/32kQLDgEXAfljcw3wgOQxk) | 2:42 | 2023-03-03 |  |
 | [Même pas un grincement](https://open.spotify.com/track/7wNHu6h06KBh20KVYmnRKa) | [Ziak](https://open.spotify.com/artist/2ubn2zwyYaLdHOCKnTouU2) | [Même pas un grincement](https://open.spotify.com/album/3HRJy5fGgdgrCp8g6tEN8O) | 3:45 | 2023-03-03 | 2023-08-12 |
-| [NO LÈCHE](https://open.spotify.com/track/6D1HiF2e3Z0F8FwQ5uLxwn) | [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I), [Favé](https://open.spotify.com/artist/20JMfmzDb5cjHxEoMXXMyY), [Kerchak](https://open.spotify.com/artist/1nRbtbdYK51y71nVOxu332), [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY) | [NO LÈCHE 🚫👅 \(feat\. Favé, Kerchak & Leto\)](https://open.spotify.com/album/6HGMONyziFfUCEpMdwbzZn) | 3:14 | 2023-03-17 |  |
+| [NO LÈCHE](https://open.spotify.com/track/6D1HiF2e3Z0F8FwQ5uLxwn) | [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I), [Favé](https://open.spotify.com/artist/20JMfmzDb5cjHxEoMXXMyY), [Kerchak](https://open.spotify.com/artist/1nRbtbdYK51y71nVOxu332), [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY) | [NO LÈCHE 🚫👅 \(feat\. Favé, Kerchak & Leto\)](https://open.spotify.com/album/6HGMONyziFfUCEpMdwbzZn) | 3:14 | 2023-03-17 | 2023-12-02 |
 | [Nocif](https://open.spotify.com/track/4BZZTXcd5ROagKhynqj61X) | [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh), [Damso](https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie) | [Sincèrement](https://open.spotify.com/album/3lyj8hU0YKXZIuYK6e0O5Y) | 3:49 | 2023-03-03 |  |
+| [NOTRE DAME](https://open.spotify.com/track/5RJcEoBhxDo8QgmKfr3JG8) | [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [LA MELO EST GANGX](https://open.spotify.com/album/4C9mVDiMHuxOZ2eORwkCE1) | 3:36 | 2023-12-01 |  |
 | [PARANO](https://open.spotify.com/track/0ruI6MkAOhq597eZzFd3Ia) | [Lost](https://open.spotify.com/artist/5Pd7zqwUqC1INMJAT2Df7b), [Loud](https://open.spotify.com/artist/5DXzQwj6Kgr5kBjVlYdSHo) | [HÉRITAGE](https://open.spotify.com/album/1Vdftv3A2gkksVtZO6gM1K) | 4:44 | 2023-04-28 |  |
 | [Pas bête](https://open.spotify.com/track/3TVUW7bJJWDOonkVCZxfLV) | [Beendo Z](https://open.spotify.com/artist/7a35Zdc78bDXJv2vYf5hSO) | [L'Élu](https://open.spotify.com/album/6UiV6zQxitBwaQ6Kw72W1i) | 2:23 | 2023-03-03 |  |
 | [Peur \(feat\. Ziak\)](https://open.spotify.com/track/7IXQrRgmHxWYWitSlyFY7z) | [Kerchak](https://open.spotify.com/artist/1nRbtbdYK51y71nVOxu332), [Ziak](https://open.spotify.com/artist/2ubn2zwyYaLdHOCKnTouU2) | [Peur \(feat\. Ziak\)](https://open.spotify.com/album/5eL561zvNW6ZwbuOxGMSvR) | 3:10 | 2023-03-03 | 2023-07-29 |

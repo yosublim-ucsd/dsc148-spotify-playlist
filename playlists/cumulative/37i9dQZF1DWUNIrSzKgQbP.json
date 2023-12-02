@@ -4693,6 +4693,24 @@
     },
     {
       "album": {
+        "name": "Inner Sunset",
+        "url": "https://open.spotify.com/album/5hr8iqTG9RYpTMevwUEEez"
+      },
+      "artists": [
+        {
+          "name": "Winter Aid",
+          "url": "https://open.spotify.com/artist/15S89CUJtshT2P7WIa2M5l"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273364,
+      "name": "Inner Sunset",
+      "url": "https://open.spotify.com/track/43OYbclsgRzIsl3ti4hXOZ"
+    },
+    {
+      "album": {
         "name": "Tides of a Teardrop",
         "url": "https://open.spotify.com/album/09NM7gTdr3ij71aksxr4Qs"
       },

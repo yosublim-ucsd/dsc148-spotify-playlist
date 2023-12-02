@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYVURwQHUqnN.md) - [plain]
 
 > Photo: Jul
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,070,063 likes - 40 songs - 2 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,070,268 likes - 40 songs - 2 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYVURwQHUqnN.md) - [plain]
 | 13 | [Piranha \(feat\. Vacra\)](https://open.spotify.com/track/74x0GjLf1nolNFBYY8gddI) | [Nahir](https://open.spotify.com/artist/3x3gsBtmPOSQVqdBzO7N5E), [Vacra](https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu) | [Piranha \(feat\. Vacra\)](https://open.spotify.com/album/3Xbe6mnLoyn78J25dsXgwK) | 2:35 |
 | 14 | [C'est carré le S](https://open.spotify.com/track/2f8JQJctq8LZtaq6Hgdgb8) | [Naps](https://open.spotify.com/artist/6W5uA6CNMf3hd2j4a2XWCx), [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [En temps réel](https://open.spotify.com/album/3Axd0NV5EcNnWzkvHqijzQ) | 3:21 |
 | 15 | [RS5](https://open.spotify.com/track/00GSNnSxVhNlQiJwuRGIGr) | [Benab](https://open.spotify.com/artist/0qO3t2MHM5NIEJ5fw9VndY), [Timal](https://open.spotify.com/artist/2ptKt4yP4mYRZmvi09JYyi) | [Drapeau Blanc](https://open.spotify.com/album/1iLGxODx0ibLx8EFpZOAQu) | 2:56 |
-| 16 | [Solo Mi Madre](https://open.spotify.com/track/22LPuqKITi7z503Yj6XbX2) | [daviid\_328](https://open.spotify.com/artist/4mxv3XnN0fRgjMBdSWNSlP) | [Solo Mi Madre](https://open.spotify.com/album/4KS1K2A4w3ZvER8S9n765m) | 3:20 |
+| 16 | [Mi madre](https://open.spotify.com/track/1OadAxUa6KVPyKAwEv0Duy) | [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9), [Koba LaD](https://open.spotify.com/artist/1q7T9rFQ2a2ukA1PU51fo3), [SativaMusic](https://open.spotify.com/artist/6p46LxMXeRu3FRYN4tK5Lv) | [Mi madre](https://open.spotify.com/album/0WFyhZC7hwGuL402U8aovY) | 3:19 |
 | 17 | [Olala \(feat\. Naza\)](https://open.spotify.com/track/5M2CMmyYb0GrmUCxFxhycX) | [Alonzo](https://open.spotify.com/artist/2z2TRvloJt4EfUNQp9rHAi), [Naza](https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok) | [Olala \(feat\. Naza\)](https://open.spotify.com/album/2zFuzuLOoOxCYvmQ57Td2w) | 2:51 |
 | 18 | [760](https://open.spotify.com/track/2MrFSzJuda5Hwp40iQfcdR) | [Timal](https://open.spotify.com/artist/2ptKt4yP4mYRZmvi09JYyi) | [760](https://open.spotify.com/album/4434yKaCsQSw2tliaR2PvX) | 3:00 |
 | 19 | [Mon BB](https://open.spotify.com/track/3E2A0uk8xtCGqgTsiz8Qug) | [Gradur](https://open.spotify.com/artist/2tcoLkA9Hexz70Kuc1NTUl), [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh) | [Mon BB](https://open.spotify.com/album/3UWJlCOQbnwW72X4q052NL) | 3:08 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYVURwQHUqnN.md) - [plain]
 | 39 | [24](https://open.spotify.com/track/00anelAwwFxJXHD5MykhwG) | [Dj Quick](https://open.spotify.com/artist/4tjoob53d4b26AjGJ49kuF), [L2B](https://open.spotify.com/artist/4hYxvgmTzS29XAXlo5adgM) | [24](https://open.spotify.com/album/7AVDqdCOZMjUSZdcuEUitO) | 3:09 |
 | 40 | [Zaza](https://open.spotify.com/track/3OrivvMTlCxjFMCA4pTHWC) | [Lujipeka](https://open.spotify.com/artist/1eTRyiHsWMoWKPD6s4Kiqt) | [Weekend à Marseille](https://open.spotify.com/album/4a5CiieMuwTxkKcLqu0GdA) | 2:43 |
 
-Snapshot ID: `MCw0NjU4OGQ4NDQxZWVlZjg1YzU5NmUxZDlhNTA4Njg1ZGUyMzJiMzdh`
+Snapshot ID: `MCxhYzg0Y2UwYjNiYzM1ZjJjMDM5MGVmNDRlNzAwN2QxMTBkN2JlOGFi`

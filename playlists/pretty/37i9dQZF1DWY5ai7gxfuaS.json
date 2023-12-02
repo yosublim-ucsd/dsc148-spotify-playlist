@@ -1,12 +1,12 @@
 {
   "description": "The most innovative and forward thinking metal right now. Cover: Static-X",
-  "num_followers": 271436,
+  "num_followers": 271603,
   "original_name": "Alternative Metal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxYzRhZjI1YTA2OTIxNDMzZjk2MjBjOGI4MmFhMjQxMzU3OGYwMmI3",
+  "snapshot_id": "MCw0ZmE5OTc1NjYzODEzYWFhMWQ0ZGUwNmQ5NTdlMWRhM2U2Y2ZhY2Zj",
   "tracks": [
     {
       "added_at": "2023-07-11 13:39:19",
@@ -263,6 +263,26 @@
     {
       "added_at": "2022-11-18 01:42:16",
       "album": {
+        "name": "FAIRY PHONK",
+        "url": "https://open.spotify.com/album/305PTplSb0MkTkVEOgV6Kj"
+      },
+      "artists": [
+        {
+          "name": "Banshee",
+          "url": "https://open.spotify.com/artist/0DG7J8Q9Alnt65HJv6owzf"
+        },
+        {
+          "name": "ZAND",
+          "url": "https://open.spotify.com/artist/0zCrrgklotTrkkJDNUAury"
+        }
+      ],
+      "duration_ms": 125454,
+      "name": "KILL ALL PREDATORS",
+      "url": "https://open.spotify.com/track/0mH0iiNINYULYFwszeqWnW"
+    },
+    {
+      "added_at": "2022-11-18 01:42:16",
+      "album": {
         "name": "VAMPIR",
         "url": "https://open.spotify.com/album/0ZjZyPw9pHhOahynV7tSaW"
       },
@@ -283,26 +303,6 @@
       "duration_ms": 143551,
       "name": "VAMPIR (feat. Oli Sykes of Bring Me The Horizon)",
       "url": "https://open.spotify.com/track/3FQOmo61pO1ZnBT26d6WLQ"
-    },
-    {
-      "added_at": "2022-11-18 01:42:16",
-      "album": {
-        "name": "FAIRY PHONK",
-        "url": "https://open.spotify.com/album/305PTplSb0MkTkVEOgV6Kj"
-      },
-      "artists": [
-        {
-          "name": "Banshee",
-          "url": "https://open.spotify.com/artist/0DG7J8Q9Alnt65HJv6owzf"
-        },
-        {
-          "name": "ZAND",
-          "url": "https://open.spotify.com/artist/0zCrrgklotTrkkJDNUAury"
-        }
-      ],
-      "duration_ms": 125454,
-      "name": "KILL ALL PREDATORS",
-      "url": "https://open.spotify.com/track/0mH0iiNINYULYFwszeqWnW"
     },
     {
       "added_at": "2023-02-09 19:59:28",
@@ -437,22 +437,6 @@
       "url": "https://open.spotify.com/track/0BeWU3xxG2plP1lhphj660"
     },
     {
-      "added_at": "2023-02-09 19:59:28",
-      "album": {
-        "name": "Z0mbie",
-        "url": "https://open.spotify.com/album/39Lu0IyoWvizdSECrOOTLE"
-      },
-      "artists": [
-        {
-          "name": "Static-X",
-          "url": "https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf"
-        }
-      ],
-      "duration_ms": 243343,
-      "name": "Terrible Lie",
-      "url": "https://open.spotify.com/track/3toc6JLXh9637dAa1scPCf"
-    },
-    {
       "added_at": "2022-11-18 01:42:16",
       "album": {
         "name": "FAIRY METAL",
@@ -483,6 +467,22 @@
       "duration_ms": 241311,
       "name": "Dead World",
       "url": "https://open.spotify.com/track/5bvtxksI05MTxu62VRTNCO"
+    },
+    {
+      "added_at": "2023-02-09 19:59:28",
+      "album": {
+        "name": "Z0mbie",
+        "url": "https://open.spotify.com/album/39Lu0IyoWvizdSECrOOTLE"
+      },
+      "artists": [
+        {
+          "name": "Static-X",
+          "url": "https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf"
+        }
+      ],
+      "duration_ms": 243343,
+      "name": "Terrible Lie",
+      "url": "https://open.spotify.com/track/3toc6JLXh9637dAa1scPCf"
     },
     {
       "added_at": "2022-11-18 01:42:16",
@@ -521,22 +521,6 @@
       "url": "https://open.spotify.com/track/4LJ6NBnEKhZSBIC3PsBTFA"
     },
     {
-      "added_at": "2022-11-18 01:42:16",
-      "album": {
-        "name": "As They Bloom",
-        "url": "https://open.spotify.com/album/0SjpmCExNNFTd4zHxXuMFJ"
-      },
-      "artists": [
-        {
-          "name": "Unlike Pluto",
-          "url": "https://open.spotify.com/artist/4zjO8Jhi2pciJJzd8Q6rga"
-        }
-      ],
-      "duration_ms": 237259,
-      "name": "As They Bloom",
-      "url": "https://open.spotify.com/track/2VXox441YYAPS1srSR7mGI"
-    },
-    {
       "added_at": "2023-03-03 00:00:00",
       "album": {
         "name": "ANTAGONIST RETURNS",
@@ -563,6 +547,22 @@
       "duration_ms": 217308,
       "name": "ANTAGONIST RETURNS",
       "url": "https://open.spotify.com/track/2tCwpWtQsAFGafn1tZCcfm"
+    },
+    {
+      "added_at": "2022-11-18 01:42:16",
+      "album": {
+        "name": "As They Bloom",
+        "url": "https://open.spotify.com/album/0SjpmCExNNFTd4zHxXuMFJ"
+      },
+      "artists": [
+        {
+          "name": "Unlike Pluto",
+          "url": "https://open.spotify.com/artist/4zjO8Jhi2pciJJzd8Q6rga"
+        }
+      ],
+      "duration_ms": 237259,
+      "name": "As They Bloom",
+      "url": "https://open.spotify.com/track/2VXox441YYAPS1srSR7mGI"
     },
     {
       "added_at": "2022-11-18 01:42:16",
@@ -889,38 +889,6 @@
       "url": "https://open.spotify.com/track/0wPkG2Hq0PCnZpQFaPurfl"
     },
     {
-      "added_at": "2022-11-18 01:42:16",
-      "album": {
-        "name": "Lost",
-        "url": "https://open.spotify.com/album/3HcXn4sSYlHrNcMfEgP9qJ"
-      },
-      "artists": [
-        {
-          "name": "Crippled Black Phoenix",
-          "url": "https://open.spotify.com/artist/6WEyPcf9ezhNLm1xOBjbwH"
-        }
-      ],
-      "duration_ms": 491180,
-      "name": "Lost",
-      "url": "https://open.spotify.com/track/5GbEVRKvHeBEE8PARaRQOJ"
-    },
-    {
-      "added_at": "2022-11-18 01:42:16",
-      "album": {
-        "name": "Plantgazer",
-        "url": "https://open.spotify.com/album/4hE7EGO2njWxhAWS08BWsP"
-      },
-      "artists": [
-        {
-          "name": "Show Me A Dinosaur",
-          "url": "https://open.spotify.com/artist/1wou9vWv5PgrTn3pu3TydQ"
-        }
-      ],
-      "duration_ms": 576912,
-      "name": "Red River",
-      "url": "https://open.spotify.com/track/1WVXzE0JtaYmkJjhZzE7aS"
-    },
-    {
       "added_at": "2023-02-09 19:59:28",
       "album": {
         "name": "Don't Wait",
@@ -939,6 +907,38 @@
       "duration_ms": 128371,
       "name": "Don't Wait",
       "url": "https://open.spotify.com/track/4oOCcO06KEM6a8gEEBOh8x"
+    },
+    {
+      "added_at": "2022-11-18 01:42:16",
+      "album": {
+        "name": "Plantgazer",
+        "url": "https://open.spotify.com/album/4hE7EGO2njWxhAWS08BWsP"
+      },
+      "artists": [
+        {
+          "name": "Show Me A Dinosaur",
+          "url": "https://open.spotify.com/artist/1wou9vWv5PgrTn3pu3TydQ"
+        }
+      ],
+      "duration_ms": 576912,
+      "name": "Red River",
+      "url": "https://open.spotify.com/track/1WVXzE0JtaYmkJjhZzE7aS"
+    },
+    {
+      "added_at": "2022-11-18 01:42:16",
+      "album": {
+        "name": "Lost",
+        "url": "https://open.spotify.com/album/3HcXn4sSYlHrNcMfEgP9qJ"
+      },
+      "artists": [
+        {
+          "name": "Crippled Black Phoenix",
+          "url": "https://open.spotify.com/artist/6WEyPcf9ezhNLm1xOBjbwH"
+        }
+      ],
+      "duration_ms": 491180,
+      "name": "Lost",
+      "url": "https://open.spotify.com/track/5GbEVRKvHeBEE8PARaRQOJ"
     },
     {
       "added_at": "2023-03-03 00:00:00",
@@ -1023,6 +1023,22 @@
       "duration_ms": 193066,
       "name": "Camel Dancefloor",
       "url": "https://open.spotify.com/track/2Y4diJY7G623aDm3eHfqJA"
+    },
+    {
+      "added_at": "2022-11-18 01:42:16",
+      "album": {
+        "name": "Alone I...",
+        "url": "https://open.spotify.com/album/6b5mOy8LTM2pN8LQ5uspEj"
+      },
+      "artists": [
+        {
+          "name": "Synthetic Blast",
+          "url": "https://open.spotify.com/artist/20OWBlxvp4RbBfmibyOQ8b"
+        }
+      ],
+      "duration_ms": 280549,
+      "name": "Alone I Burn - Radio Edit",
+      "url": "https://open.spotify.com/track/5GvOnHHJz0BUnlExQdPnAE"
     },
     {
       "added_at": "2022-11-18 01:42:16",
@@ -1143,18 +1159,18 @@
     {
       "added_at": "2022-11-18 01:42:16",
       "album": {
-        "name": "Alone I...",
-        "url": "https://open.spotify.com/album/6b5mOy8LTM2pN8LQ5uspEj"
+        "name": "Shut Up",
+        "url": "https://open.spotify.com/album/7gjF3Ii5c3cfMKGf0rJaG9"
       },
       "artists": [
         {
-          "name": "Synthetic Blast",
-          "url": "https://open.spotify.com/artist/20OWBlxvp4RbBfmibyOQ8b"
+          "name": "Death Blooms",
+          "url": "https://open.spotify.com/artist/7zC8Dq1lkaEADdWmRiNV0j"
         }
       ],
-      "duration_ms": 280549,
-      "name": "Alone I Burn - Radio Edit",
-      "url": "https://open.spotify.com/track/5GvOnHHJz0BUnlExQdPnAE"
+      "duration_ms": 204848,
+      "name": "Shut Up",
+      "url": "https://open.spotify.com/track/7jLs9No4QDC0LWQFYjXtI9"
     },
     {
       "added_at": "2022-11-18 01:42:16",
@@ -1171,22 +1187,6 @@
       "duration_ms": 168160,
       "name": "WHATS UP?",
       "url": "https://open.spotify.com/track/4PY0g4DjsupZaOgEcyiZ5n"
-    },
-    {
-      "added_at": "2022-11-18 01:42:16",
-      "album": {
-        "name": "Shut Up",
-        "url": "https://open.spotify.com/album/7gjF3Ii5c3cfMKGf0rJaG9"
-      },
-      "artists": [
-        {
-          "name": "Death Blooms",
-          "url": "https://open.spotify.com/artist/7zC8Dq1lkaEADdWmRiNV0j"
-        }
-      ],
-      "duration_ms": 204848,
-      "name": "Shut Up",
-      "url": "https://open.spotify.com/track/7jLs9No4QDC0LWQFYjXtI9"
     },
     {
       "added_at": "2022-11-18 01:42:16",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2022-11-18 01:42:16",
       "album": {
-        "name": "\u00c1mr",
-        "url": "https://open.spotify.com/album/3fi6uKI0YHsgnnn9YezPYh"
-      },
-      "artists": [
-        {
-          "name": "Ihsahn",
-          "url": "https://open.spotify.com/artist/2E1jLcUfqd9w2XtybNB2Za"
-        }
-      ],
-      "duration_ms": 293173,
-      "name": "Arcana Imperii",
-      "url": "https://open.spotify.com/track/2OI2gIOnRe7TnErAoH2dUd"
-    },
-    {
-      "added_at": "2022-11-18 01:42:16",
-      "album": {
         "name": "DEADGIRL",
         "url": "https://open.spotify.com/album/48CPMZleL4rHMqtQN5opuV"
       },
@@ -1327,6 +1311,22 @@
       "duration_ms": 151911,
       "name": "ABYSS",
       "url": "https://open.spotify.com/track/7J7M7bscbyKo7WQSwnry7s"
+    },
+    {
+      "added_at": "2022-11-18 01:42:16",
+      "album": {
+        "name": "\u00c1mr",
+        "url": "https://open.spotify.com/album/3fi6uKI0YHsgnnn9YezPYh"
+      },
+      "artists": [
+        {
+          "name": "Ihsahn",
+          "url": "https://open.spotify.com/artist/2E1jLcUfqd9w2XtybNB2Za"
+        }
+      ],
+      "duration_ms": 293173,
+      "name": "Arcana Imperii",
+      "url": "https://open.spotify.com/track/2OI2gIOnRe7TnErAoH2dUd"
     },
     {
       "added_at": "2022-11-18 01:42:16",

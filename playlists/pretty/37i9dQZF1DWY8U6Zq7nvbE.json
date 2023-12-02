@@ -1,12 +1,12 @@
 {
   "description": "Soft and cozy acoustic covers of famous songs.",
-  "num_followers": 1133498,
+  "num_followers": 1133495,
   "original_name": "Chill Acoustic Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZWZmMDg0Mzk3YWYwYTQ4N2UwYjllNGU0ODMxOGEyNmYwZTJmOTk4",
+  "snapshot_id": "MCw4OWJiODAyYzMxZGMwZWJhZTBiYzcyZWY0NTE4ZTM1ODYxYTcwYzEx",
   "tracks": [
     {
       "added_at": "2023-11-24 00:01:00",
@@ -191,8 +191,8 @@
     {
       "added_at": "2023-11-24 00:01:00",
       "album": {
-        "name": "Overpass Graffiti",
-        "url": "https://open.spotify.com/album/3df7YWbL6GcTWdqht33UVC"
+        "name": "As It Was",
+        "url": "https://open.spotify.com/album/10UH2kVhtrXJ60nqlSap2V"
       },
       "artists": [
         {
@@ -200,9 +200,9 @@
           "url": "https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID"
         }
       ],
-      "duration_ms": 226603,
-      "name": "Overpass Graffiti",
-      "url": "https://open.spotify.com/track/3tob5ofeuvFKKSbOTldenC"
+      "duration_ms": 176542,
+      "name": "As It Was",
+      "url": "https://open.spotify.com/track/6Cvti10W0AzmzG9D1tpuKp"
     },
     {
       "added_at": "2023-11-24 00:01:00",
@@ -223,22 +223,6 @@
     {
       "added_at": "2023-11-24 00:01:00",
       "album": {
-        "name": "Complicated",
-        "url": "https://open.spotify.com/album/5DJqyKsCjkMaU3CiSOoTxA"
-      },
-      "artists": [
-        {
-          "name": "Ben & Tim",
-          "url": "https://open.spotify.com/artist/0gb9yVmQVwhLVMMGKgXYnv"
-        }
-      ],
-      "duration_ms": 182952,
-      "name": "Complicated",
-      "url": "https://open.spotify.com/track/7t24uFfZmiMrYMUIgaCQ3e"
-    },
-    {
-      "added_at": "2023-11-24 00:01:00",
-      "album": {
         "name": "Torn",
         "url": "https://open.spotify.com/album/0og0ExNcAjYK1nCWKyklL6"
       },
@@ -251,6 +235,22 @@
       "duration_ms": 223874,
       "name": "Torn",
       "url": "https://open.spotify.com/track/4INNiMO9R9UnwpLOtzizn6"
+    },
+    {
+      "added_at": "2023-11-24 00:01:00",
+      "album": {
+        "name": "Complicated",
+        "url": "https://open.spotify.com/album/5DJqyKsCjkMaU3CiSOoTxA"
+      },
+      "artists": [
+        {
+          "name": "Ben & Tim",
+          "url": "https://open.spotify.com/artist/0gb9yVmQVwhLVMMGKgXYnv"
+        }
+      ],
+      "duration_ms": 182952,
+      "name": "Complicated",
+      "url": "https://open.spotify.com/track/7t24uFfZmiMrYMUIgaCQ3e"
     },
     {
       "added_at": "2023-11-24 00:01:00",
@@ -323,8 +323,8 @@
     {
       "added_at": "2023-11-24 00:01:00",
       "album": {
-        "name": "As It Was",
-        "url": "https://open.spotify.com/album/10UH2kVhtrXJ60nqlSap2V"
+        "name": "Overpass Graffiti",
+        "url": "https://open.spotify.com/album/3df7YWbL6GcTWdqht33UVC"
       },
       "artists": [
         {
@@ -332,9 +332,9 @@
           "url": "https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID"
         }
       ],
-      "duration_ms": 176542,
-      "name": "As It Was",
-      "url": "https://open.spotify.com/track/6Cvti10W0AzmzG9D1tpuKp"
+      "duration_ms": 226603,
+      "name": "Overpass Graffiti",
+      "url": "https://open.spotify.com/track/3tob5ofeuvFKKSbOTldenC"
     },
     {
       "added_at": "2023-11-24 00:01:00",
@@ -355,22 +355,6 @@
     {
       "added_at": "2023-11-24 00:01:00",
       "album": {
-        "name": "Ysabelle",
-        "url": "https://open.spotify.com/album/1LzchyMzJU8dRzQhlcy8n1"
-      },
-      "artists": [
-        {
-          "name": "Ysabelle Cuevas",
-          "url": "https://open.spotify.com/artist/323nxrsc0C5JSsmlN2srN8"
-        }
-      ],
-      "duration_ms": 189673,
-      "name": "I Like Me Better",
-      "url": "https://open.spotify.com/track/2GzvzxXnyJ9l3obE4JskC2"
-    },
-    {
-      "added_at": "2023-11-24 00:01:00",
-      "album": {
         "name": "WHAT THE HELL ARE WE DYING FOR?",
         "url": "https://open.spotify.com/album/7pbeE2xmYADDOEjd3H62xA"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 202000,
       "name": "WHAT THE HELL ARE WE DYING FOR?",
       "url": "https://open.spotify.com/track/1fsOH02E5iqS6xZZY7UOpd"
+    },
+    {
+      "added_at": "2023-11-24 00:01:00",
+      "album": {
+        "name": "Ysabelle",
+        "url": "https://open.spotify.com/album/1LzchyMzJU8dRzQhlcy8n1"
+      },
+      "artists": [
+        {
+          "name": "Ysabelle Cuevas",
+          "url": "https://open.spotify.com/artist/323nxrsc0C5JSsmlN2srN8"
+        }
+      ],
+      "duration_ms": 189673,
+      "name": "I Like Me Better",
+      "url": "https://open.spotify.com/track/2GzvzxXnyJ9l3obE4JskC2"
     },
     {
       "added_at": "2023-11-24 00:01:00",
@@ -483,22 +483,6 @@
     {
       "added_at": "2023-11-24 00:01:00",
       "album": {
-        "name": "When I Get There",
-        "url": "https://open.spotify.com/album/5GSUtNK1MbDbmSWAlh8K6m"
-      },
-      "artists": [
-        {
-          "name": "Brandon Chase",
-          "url": "https://open.spotify.com/artist/3qXWWITvZcTD1M2QmXszJK"
-        }
-      ],
-      "duration_ms": 233150,
-      "name": "When I Get There",
-      "url": "https://open.spotify.com/track/6AmEwM3ioCs9zQZx3TcYNK"
-    },
-    {
-      "added_at": "2023-11-24 00:01:00",
-      "album": {
         "name": "Call Me Maybe - Acoustic",
         "url": "https://open.spotify.com/album/1iOPpvvfeNAslLpKHjw9Vr"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 210473,
       "name": "Call Me Maybe - Acoustic",
       "url": "https://open.spotify.com/track/1CSi4vh5zKb3bN2FtXHa8O"
+    },
+    {
+      "added_at": "2023-11-24 00:01:00",
+      "album": {
+        "name": "When I Get There",
+        "url": "https://open.spotify.com/album/5GSUtNK1MbDbmSWAlh8K6m"
+      },
+      "artists": [
+        {
+          "name": "Brandon Chase",
+          "url": "https://open.spotify.com/artist/3qXWWITvZcTD1M2QmXszJK"
+        }
+      ],
+      "duration_ms": 233150,
+      "name": "When I Get There",
+      "url": "https://open.spotify.com/track/6AmEwM3ioCs9zQZx3TcYNK"
     },
     {
       "added_at": "2023-11-24 00:01:00",
@@ -643,22 +643,6 @@
     {
       "added_at": "2023-11-24 00:01:00",
       "album": {
-        "name": "The Scientist",
-        "url": "https://open.spotify.com/album/4kDxuNIvOMJrQSDthpruse"
-      },
-      "artists": [
-        {
-          "name": "SKAAR",
-          "url": "https://open.spotify.com/artist/4NwacAakrdNGNinNP54KTQ"
-        }
-      ],
-      "duration_ms": 275732,
-      "name": "The Scientist",
-      "url": "https://open.spotify.com/track/4HYRVbQHz6xOtpoh9RB3pt"
-    },
-    {
-      "added_at": "2023-11-24 00:01:00",
-      "album": {
         "name": "Lovely",
         "url": "https://open.spotify.com/album/1oGHLQmlnDpmfwntNA5K7M"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 189650,
       "name": "Lovely",
       "url": "https://open.spotify.com/track/6jI7yZWYt9xcmF5iDBJnHL"
+    },
+    {
+      "added_at": "2023-11-24 00:01:00",
+      "album": {
+        "name": "The Scientist",
+        "url": "https://open.spotify.com/album/4kDxuNIvOMJrQSDthpruse"
+      },
+      "artists": [
+        {
+          "name": "SKAAR",
+          "url": "https://open.spotify.com/artist/4NwacAakrdNGNinNP54KTQ"
+        }
+      ],
+      "duration_ms": 275732,
+      "name": "The Scientist",
+      "url": "https://open.spotify.com/track/4HYRVbQHz6xOtpoh9RB3pt"
     },
     {
       "added_at": "2023-11-24 00:01:00",
@@ -723,22 +723,6 @@
     {
       "added_at": "2023-11-24 00:01:00",
       "album": {
-        "name": "Barbie Girl",
-        "url": "https://open.spotify.com/album/2dQVj6SJhxaKIlq2AaRJUD"
-      },
-      "artists": [
-        {
-          "name": "Jill & Jane",
-          "url": "https://open.spotify.com/artist/2XsNyprLTFSGhXfJCY8qYG"
-        }
-      ],
-      "duration_ms": 170931,
-      "name": "Barbie Girl",
-      "url": "https://open.spotify.com/track/2nWifBZb998ETUqTrriQR9"
-    },
-    {
-      "added_at": "2023-11-24 00:01:00",
-      "album": {
         "name": "Chemical",
         "url": "https://open.spotify.com/album/6yqPDHuIhpvgsb6ZCLSi64"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 187830,
       "name": "Chemical",
       "url": "https://open.spotify.com/track/5Gcd6lMtEEW6V9GpmQk6Rk"
+    },
+    {
+      "added_at": "2023-11-24 00:01:00",
+      "album": {
+        "name": "Barbie Girl",
+        "url": "https://open.spotify.com/album/2dQVj6SJhxaKIlq2AaRJUD"
+      },
+      "artists": [
+        {
+          "name": "Jill & Jane",
+          "url": "https://open.spotify.com/artist/2XsNyprLTFSGhXfJCY8qYG"
+        }
+      ],
+      "duration_ms": 170931,
+      "name": "Barbie Girl",
+      "url": "https://open.spotify.com/track/2nWifBZb998ETUqTrriQR9"
     },
     {
       "added_at": "2023-11-24 00:01:00",
@@ -899,22 +899,6 @@
     {
       "added_at": "2023-11-24 00:01:00",
       "album": {
-        "name": "Kiss An Angel Good Mornin'",
-        "url": "https://open.spotify.com/album/4UubPvWcnV1C4zxFQgC895"
-      },
-      "artists": [
-        {
-          "name": "Xochi Krausse",
-          "url": "https://open.spotify.com/artist/36u61FnGDFJVllsyOZ4tQh"
-        }
-      ],
-      "duration_ms": 164785,
-      "name": "Kiss An Angel Good Mornin'",
-      "url": "https://open.spotify.com/track/3RAqqEjitdBdItCphiZAdQ"
-    },
-    {
-      "added_at": "2023-11-24 00:01:00",
-      "album": {
         "name": "Got You (Where I Want You)",
         "url": "https://open.spotify.com/album/6sDxOln0tkqDXj8qy6t3Qd"
       },
@@ -963,6 +947,22 @@
     {
       "added_at": "2023-11-24 00:01:00",
       "album": {
+        "name": "Kiss An Angel Good Mornin'",
+        "url": "https://open.spotify.com/album/4UubPvWcnV1C4zxFQgC895"
+      },
+      "artists": [
+        {
+          "name": "Xochi Krausse",
+          "url": "https://open.spotify.com/artist/36u61FnGDFJVllsyOZ4tQh"
+        }
+      ],
+      "duration_ms": 164785,
+      "name": "Kiss An Angel Good Mornin'",
+      "url": "https://open.spotify.com/track/3RAqqEjitdBdItCphiZAdQ"
+    },
+    {
+      "added_at": "2023-11-24 00:01:00",
+      "album": {
         "name": "Ghost - acoustic",
         "url": "https://open.spotify.com/album/1m3Yz2bhM7W8F663BkXrJE"
       },
@@ -975,54 +975,6 @@
       "duration_ms": 151374,
       "name": "Ghost - Acoustic",
       "url": "https://open.spotify.com/track/3Z3ztvlGjx0lO0PesbKvzc"
-    },
-    {
-      "added_at": "2023-11-24 00:01:00",
-      "album": {
-        "name": "Kissing Other People (Acoustic)",
-        "url": "https://open.spotify.com/album/1OkuJQhcqBAbxBD7Hbhi0T"
-      },
-      "artists": [
-        {
-          "name": "Lennon Stella",
-          "url": "https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot"
-        }
-      ],
-      "duration_ms": 192374,
-      "name": "Kissing Other People - Acoustic",
-      "url": "https://open.spotify.com/track/0Otf6MBWU5vOqlwCl1ZIZY"
-    },
-    {
-      "added_at": "2023-11-24 00:01:00",
-      "album": {
-        "name": "Arcade",
-        "url": "https://open.spotify.com/album/0c5J1SUFA3rPbIZhK1kj62"
-      },
-      "artists": [
-        {
-          "name": "Bailey Jehl",
-          "url": "https://open.spotify.com/artist/3HX0wFvwBn3wbxrtHuEUus"
-        }
-      ],
-      "duration_ms": 148015,
-      "name": "Arcade",
-      "url": "https://open.spotify.com/track/1h80wgwF7yRWVL8hhcECwy"
-    },
-    {
-      "added_at": "2023-11-24 00:01:00",
-      "album": {
-        "name": "Crazy Love",
-        "url": "https://open.spotify.com/album/3ssxRD3YsdiESDBhp42uiy"
-      },
-      "artists": [
-        {
-          "name": "Xochi Krausse",
-          "url": "https://open.spotify.com/artist/36u61FnGDFJVllsyOZ4tQh"
-        }
-      ],
-      "duration_ms": 192461,
-      "name": "Crazy Love",
-      "url": "https://open.spotify.com/track/5zIJSNhDKaBsSlgbkcBS8Q"
     },
     {
       "added_at": "2023-11-24 00:01:00",
@@ -1043,18 +995,34 @@
     {
       "added_at": "2023-11-24 00:01:00",
       "album": {
-        "name": "Fake Plastic Trees",
-        "url": "https://open.spotify.com/album/6HeM8ZTANrAREphp6jQ5Ym"
+        "name": "Arcade",
+        "url": "https://open.spotify.com/album/0c5J1SUFA3rPbIZhK1kj62"
       },
       "artists": [
         {
-          "name": "Holly Humberstone",
-          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
+          "name": "Bailey Jehl",
+          "url": "https://open.spotify.com/artist/3HX0wFvwBn3wbxrtHuEUus"
         }
       ],
-      "duration_ms": 260000,
-      "name": "Fake Plastic Trees",
-      "url": "https://open.spotify.com/track/2wVoRTUczkumuqcgNlRnLa"
+      "duration_ms": 148015,
+      "name": "Arcade",
+      "url": "https://open.spotify.com/track/1h80wgwF7yRWVL8hhcECwy"
+    },
+    {
+      "added_at": "2023-11-24 00:01:00",
+      "album": {
+        "name": "Kissing Other People (Acoustic)",
+        "url": "https://open.spotify.com/album/1OkuJQhcqBAbxBD7Hbhi0T"
+      },
+      "artists": [
+        {
+          "name": "Lennon Stella",
+          "url": "https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot"
+        }
+      ],
+      "duration_ms": 192374,
+      "name": "Kissing Other People - Acoustic",
+      "url": "https://open.spotify.com/track/0Otf6MBWU5vOqlwCl1ZIZY"
     },
     {
       "added_at": "2023-11-24 00:01:00",
@@ -1071,6 +1039,22 @@
       "duration_ms": 242011,
       "name": "Lover",
       "url": "https://open.spotify.com/track/1g4d7RpKk65jnx2qKZXRH5"
+    },
+    {
+      "added_at": "2023-11-24 00:01:00",
+      "album": {
+        "name": "Fake Plastic Trees",
+        "url": "https://open.spotify.com/album/6HeM8ZTANrAREphp6jQ5Ym"
+      },
+      "artists": [
+        {
+          "name": "Holly Humberstone",
+          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
+        }
+      ],
+      "duration_ms": 260000,
+      "name": "Fake Plastic Trees",
+      "url": "https://open.spotify.com/track/2wVoRTUczkumuqcgNlRnLa"
     },
     {
       "added_at": "2023-11-24 00:01:00",
@@ -1119,6 +1103,22 @@
       "duration_ms": 190209,
       "name": "Because the Night",
       "url": "https://open.spotify.com/track/53b0UGKJrMVpyq5yF3Uaru"
+    },
+    {
+      "added_at": "2023-11-24 00:01:00",
+      "album": {
+        "name": "Crazy Love",
+        "url": "https://open.spotify.com/album/3ssxRD3YsdiESDBhp42uiy"
+      },
+      "artists": [
+        {
+          "name": "Xochi Krausse",
+          "url": "https://open.spotify.com/artist/36u61FnGDFJVllsyOZ4tQh"
+        }
+      ],
+      "duration_ms": 192461,
+      "name": "Crazy Love",
+      "url": "https://open.spotify.com/track/5zIJSNhDKaBsSlgbkcBS8Q"
     },
     {
       "added_at": "2023-11-24 00:01:00",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2023-11-24 00:01:00",
       "album": {
-        "name": "Beautiful People",
-        "url": "https://open.spotify.com/album/2ETALrfBaNSSZbFITODMkM"
-      },
-      "artists": [
-        {
-          "name": "Sara Farell",
-          "url": "https://open.spotify.com/artist/39S7Y72G0tdDPy2INGFicV"
-        }
-      ],
-      "duration_ms": 212624,
-      "name": "Beautiful People",
-      "url": "https://open.spotify.com/track/2G0MFuEXoxdDgBjfFXP65I"
-    },
-    {
-      "added_at": "2023-11-24 00:01:00",
-      "album": {
         "name": "Anyone",
         "url": "https://open.spotify.com/album/2cPbdPF0OhQXxL6PFbXbxg"
       },
@@ -1239,18 +1223,18 @@
     {
       "added_at": "2023-11-24 00:01:00",
       "album": {
-        "name": "Desperado",
-        "url": "https://open.spotify.com/album/6bhSX2BYFGgJ3iw4wnpkWZ"
+        "name": "Beautiful People",
+        "url": "https://open.spotify.com/album/2ETALrfBaNSSZbFITODMkM"
       },
       "artists": [
         {
-          "name": "Sarah Kristine",
-          "url": "https://open.spotify.com/artist/6WfvaZWV6UXdkzG9oQCxw9"
+          "name": "Sara Farell",
+          "url": "https://open.spotify.com/artist/39S7Y72G0tdDPy2INGFicV"
         }
       ],
-      "duration_ms": 191971,
-      "name": "Desperado",
-      "url": "https://open.spotify.com/track/0ReprZkqLJKjuBH0nowV44"
+      "duration_ms": 212624,
+      "name": "Beautiful People",
+      "url": "https://open.spotify.com/track/2G0MFuEXoxdDgBjfFXP65I"
     },
     {
       "added_at": "2023-11-24 00:01:00",
@@ -1267,6 +1251,22 @@
       "duration_ms": 211639,
       "name": "Jealous (Acoustic)",
       "url": "https://open.spotify.com/track/24De0ebxOCeIgrkuPknUUX"
+    },
+    {
+      "added_at": "2023-11-24 00:01:00",
+      "album": {
+        "name": "Desperado",
+        "url": "https://open.spotify.com/album/6bhSX2BYFGgJ3iw4wnpkWZ"
+      },
+      "artists": [
+        {
+          "name": "Sarah Kristine",
+          "url": "https://open.spotify.com/artist/6WfvaZWV6UXdkzG9oQCxw9"
+        }
+      ],
+      "duration_ms": 191971,
+      "name": "Desperado",
+      "url": "https://open.spotify.com/track/0ReprZkqLJKjuBH0nowV44"
     },
     {
       "added_at": "2023-11-24 00:01:00",
@@ -1315,6 +1315,22 @@
       "duration_ms": 175002,
       "name": "I'm Good (Blue)",
       "url": "https://open.spotify.com/track/0Kb3SXteauSCX2o6FmY6LP"
+    },
+    {
+      "added_at": "2023-11-24 00:01:00",
+      "album": {
+        "name": "Waterfalls",
+        "url": "https://open.spotify.com/album/2xoeY7T8uj7C0ITIPNBoPz"
+      },
+      "artists": [
+        {
+          "name": "Tobey Rosen",
+          "url": "https://open.spotify.com/artist/7xW6v5mmwGhWtoZ0x2AhLN"
+        }
+      ],
+      "duration_ms": 170884,
+      "name": "Waterfalls",
+      "url": "https://open.spotify.com/track/3lKlGhiNTsv3moOzbMXBUf"
     },
     {
       "added_at": "2023-11-24 00:01:00",
@@ -1419,22 +1435,6 @@
     {
       "added_at": "2023-11-24 00:01:00",
       "album": {
-        "name": "WITHOUT ME",
-        "url": "https://open.spotify.com/album/2aVLd13zIVKYBysTP5JTir"
-      },
-      "artists": [
-        {
-          "name": "Graham Carter",
-          "url": "https://open.spotify.com/artist/0A6NReVqiHGQlKWIpriTO3"
-        }
-      ],
-      "duration_ms": 180998,
-      "name": "WITHOUT ME",
-      "url": "https://open.spotify.com/track/5K17WcyVoqa4lugxn5RcxP"
-    },
-    {
-      "added_at": "2023-11-24 00:01:00",
-      "album": {
         "name": "How to save a life - Acoustic version",
         "url": "https://open.spotify.com/album/2EKwCG3Kl1zrhIPhLpC353"
       },
@@ -1447,6 +1447,22 @@
       "duration_ms": 207824,
       "name": "How to save a life - Acoustic version",
       "url": "https://open.spotify.com/track/7HGtkOGnbN42cQpktxHq1i"
+    },
+    {
+      "added_at": "2023-11-24 00:01:00",
+      "album": {
+        "name": "WITHOUT ME",
+        "url": "https://open.spotify.com/album/2aVLd13zIVKYBysTP5JTir"
+      },
+      "artists": [
+        {
+          "name": "Graham Carter",
+          "url": "https://open.spotify.com/artist/0A6NReVqiHGQlKWIpriTO3"
+        }
+      ],
+      "duration_ms": 180998,
+      "name": "WITHOUT ME",
+      "url": "https://open.spotify.com/track/5K17WcyVoqa4lugxn5RcxP"
     },
     {
       "added_at": "2023-11-24 00:01:00",
@@ -1483,22 +1499,6 @@
     {
       "added_at": "2023-11-24 00:01:00",
       "album": {
-        "name": "HURTFUL",
-        "url": "https://open.spotify.com/album/5c6oHmbHkTcOGWNwmPVuG8"
-      },
-      "artists": [
-        {
-          "name": "Linus Svenning",
-          "url": "https://open.spotify.com/artist/5NMwwvYHzJ9ItOWj8Xgth8"
-        }
-      ],
-      "duration_ms": 146000,
-      "name": "HURTFUL",
-      "url": "https://open.spotify.com/track/6TvQfcq2Q0w2t5W2oLfhIa"
-    },
-    {
-      "added_at": "2023-11-24 00:01:00",
-      "album": {
         "name": "Collide",
         "url": "https://open.spotify.com/album/6bKocfbVt1JCv4GNEQBGjG"
       },
@@ -1511,6 +1511,22 @@
       "duration_ms": 184402,
       "name": "Collide",
       "url": "https://open.spotify.com/track/0SA2U0sQmB52EJpCCtFxGi"
+    },
+    {
+      "added_at": "2023-11-24 00:01:00",
+      "album": {
+        "name": "HURTFUL",
+        "url": "https://open.spotify.com/album/5c6oHmbHkTcOGWNwmPVuG8"
+      },
+      "artists": [
+        {
+          "name": "Linus Svenning",
+          "url": "https://open.spotify.com/artist/5NMwwvYHzJ9ItOWj8Xgth8"
+        }
+      ],
+      "duration_ms": 146000,
+      "name": "HURTFUL",
+      "url": "https://open.spotify.com/track/6TvQfcq2Q0w2t5W2oLfhIa"
     },
     {
       "added_at": "2023-11-24 00:01:00",
@@ -1531,22 +1547,6 @@
     {
       "added_at": "2023-11-24 00:01:00",
       "album": {
-        "name": "Waterfalls",
-        "url": "https://open.spotify.com/album/2xoeY7T8uj7C0ITIPNBoPz"
-      },
-      "artists": [
-        {
-          "name": "Tobey Rosen",
-          "url": "https://open.spotify.com/artist/7xW6v5mmwGhWtoZ0x2AhLN"
-        }
-      ],
-      "duration_ms": 170884,
-      "name": "Waterfalls",
-      "url": "https://open.spotify.com/track/3lKlGhiNTsv3moOzbMXBUf"
-    },
-    {
-      "added_at": "2023-11-24 00:01:00",
-      "album": {
         "name": "Sparks",
         "url": "https://open.spotify.com/album/1qORB1Q8h63lnKR7Jsv8Cx"
       },
@@ -1559,6 +1559,22 @@
       "duration_ms": 256730,
       "name": "Sparks",
       "url": "https://open.spotify.com/track/5OKWAL4qNRUz28CBWEU411"
+    },
+    {
+      "added_at": "2023-11-24 00:01:00",
+      "album": {
+        "name": "Make You Feel My Love",
+        "url": "https://open.spotify.com/album/67BVLFInYTSKVAx4VCuq5L"
+      },
+      "artists": [
+        {
+          "name": "Morgan St. Douglas",
+          "url": "https://open.spotify.com/artist/4kwtiqubnECtzOECKGYJOT"
+        }
+      ],
+      "duration_ms": 189680,
+      "name": "Make You Feel My Love",
+      "url": "https://open.spotify.com/track/2pcoc3E6EKzKC1wTztiz4I"
     },
     {
       "added_at": "2023-11-24 00:01:00",
@@ -1607,22 +1623,6 @@
       "duration_ms": 187286,
       "name": "I Don't Want To Miss A Thing",
       "url": "https://open.spotify.com/track/28QoOJZgUI44vB0z9oThfH"
-    },
-    {
-      "added_at": "2023-11-24 00:01:00",
-      "album": {
-        "name": "LULU, Vol. 1",
-        "url": "https://open.spotify.com/album/4WNPWn19iZOFvDwVbjEcZG"
-      },
-      "artists": [
-        {
-          "name": "Hugo Helmig",
-          "url": "https://open.spotify.com/artist/27eEve8Mu7Zv8DGDIz4peE"
-        }
-      ],
-      "duration_ms": 225316,
-      "name": "All That I Need",
-      "url": "https://open.spotify.com/track/2htuDl6TWC2cxia8ZTdBSU"
     }
   ],
   "unique_name": "Chill Acoustic Covers",

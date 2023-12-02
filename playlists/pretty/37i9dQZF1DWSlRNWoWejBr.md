@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSlRNWoWejBr.md) - [plain]
 
 > OU VC DANÇA OU O GRAVE T BALANÇA
 
-[Spotify](https://open.spotify.com/user/spotify) - 660,730 likes - 70 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 661,466 likes - 70 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Tipo Hollywood](https://open.spotify.com/track/6zLBR9izBeZ1d0pfuwJgRa) | [Mc Ws da leste](https://open.spotify.com/artist/5Rs4gTYf15iES8jXZqhx2L), [Dj Chadin do C](https://open.spotify.com/artist/1vzbmGlmb0yoO6drUgxm5C), [MC Cothiê](https://open.spotify.com/artist/0TfWqqSFcyuhcNnp5oL83k) | [Tipo Hollywood](https://open.spotify.com/album/4KTN4Sx4Dp1G3MrgUTcZv6) | 2:11 |
+| 1 | [Tipo Hollywood](https://open.spotify.com/track/6zLBR9izBeZ1d0pfuwJgRa) | [Mc Ws da leste](https://open.spotify.com/artist/5Rs4gTYf15iES8jXZqhx2L), [Dj Chadin do C](https://open.spotify.com/artist/1vzbmGlmb0yoO6drUgxm5C), [MC Cothiê](https://open.spotify.com/artist/0TfWqqSFcyuhcNnp5oL83k) | [Tipo Hollywood](https://open.spotify.com/album/4KTN4Sx4Dp1G3MrgUTcZv6) | 1:50 |
 | 2 | [MAGRÃO SUPREMO](https://open.spotify.com/track/7eZE5ob4uWJkAZYQyAIFdP) | [DJ Idk](https://open.spotify.com/artist/5zKrn256dtGXDCpOVlr22G), [Mc Delux](https://open.spotify.com/artist/3l4fsEzoeabsET7ddv0lZW), [Mc Gw](https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2), [Mc Magrinho](https://open.spotify.com/artist/4JA9UvIYD3D5kL7utiGJMI), [Mc Pikachu](https://open.spotify.com/artist/6qFbBE8ubS4NxtxVPytxG5) | [MAGRÃO SUPREMO](https://open.spotify.com/album/6QxXpdAJWcNjwyFi9Xbewi) | 3:21 |
 | 3 | [Ela Não Presta](https://open.spotify.com/track/0GEagb54APuGgr0aKeJbAp) | [MC Rick](https://open.spotify.com/artist/1mvpEXClANunyiHFtAXCxt), [MC PH](https://open.spotify.com/artist/4PLdCloYxu2bMKfuuB9lI5), [GORDÃO DO PC](https://open.spotify.com/artist/34BnNmWVguXa3CigvfHJHS) | [RICKNELSO](https://open.spotify.com/album/2eKGskEpGoKMBahXHpM8ZR) | 2:46 |
 | 4 | [Eu Vou Cair na Noite](https://open.spotify.com/track/7z2hqtAyf6FR39ZZmVkvcO) | [DJ RENAN DA BL](https://open.spotify.com/artist/13VVAjO14WSrctkGL7U3xc), [Dj Jl Do Tp](https://open.spotify.com/artist/4mBT8Rbk2WUxiVxdRpX5hW), [Mc Pretchako](https://open.spotify.com/artist/5r3Fsh6QhUaKlr9CKgBxcv), [Mc Menor Thalis](https://open.spotify.com/artist/3qjoOrsHcxhgKyBsh4ZOEn) | [Eu Vou Cair na Noite](https://open.spotify.com/album/1sCX9he2eSwF1OcE3wWwOW) | 2:05 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSlRNWoWejBr.md) - [plain]
 | 69 | [É Só Um Lance Lero Lero](https://open.spotify.com/track/5DoYLtsVnNMcrgpMdEPOsI) | [DJ Dozabri](https://open.spotify.com/artist/06e0gXtUpvgPUZFrR2ywsg), [DJ Arana](https://open.spotify.com/artist/22RXQj1gd5zEbcRjdxiJbu), [Silva Mc](https://open.spotify.com/artist/7v4hw85pzG0M9kJHlBGsi3), [MC Luiggi](https://open.spotify.com/artist/3Ie7tlw7AZSqd9GNFjCRAP), [Meno Saaint](https://open.spotify.com/artist/6JX06TYY9weAIjfnzFWqZL) | [É Só Um Lance Lero Lero](https://open.spotify.com/album/4On1CDfCz6TG3oW3BTVySP) | 1:56 |
 | 70 | [Melodia Alucinógena](https://open.spotify.com/track/4x5q5T5mhE1xvoCVXY6qrN) | [DJ AK BR](https://open.spotify.com/artist/3JOwYU8Yv0wCe18FFanLEK), [Dj Darge](https://open.spotify.com/artist/4SKWDIWfEZbyMI8gzeeoXO), [Niack](https://open.spotify.com/artist/5uYe4bcAXlMP7d4mrOYkML) | [Melodia Alucinógena](https://open.spotify.com/album/1VFqnSA3BZQTxuW0EF5OYs) | 3:03 |
 
-Snapshot ID: `MCxlMzQ4ODZiN2RiZWI5ZDdmMWU0MzNjODUwMDFkNDBlZThkMGZkNjA4`
+Snapshot ID: `MCxiNmZiODQyNjE2NjQxMGM3NWIzYjViMjllYzAwNDQ1MWY3ZDUwMzhm`

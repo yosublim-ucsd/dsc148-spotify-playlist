@@ -4,7 +4,7 @@
 
 > La scène musicale montréalaise au premier plan\. Photo: Valence
 
-407 songs - 23 hr 34 min
+408 songs - 23 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -318,7 +318,7 @@
 | [Quand je veux je dors](https://open.spotify.com/track/2KXPeTD74nhijWrY9Qy539) | [Robert Robert](https://open.spotify.com/artist/2IzC3vT8yHOZ3Ne5HYQfM3) | [Silicone Villeray](https://open.spotify.com/album/4oSRtnpRl3vQ7N2fEn8dUZ) | 2:32 | 2022-03-25 | 2022-09-17 |
 | [Rappelle\-moi ton nom](https://open.spotify.com/track/3MtXsHcd0EjV30p8wxh0HW) | [Cédrik St\-Onge](https://open.spotify.com/artist/2g0Adwuc91HneRGB8jbEq6) | [Rappelle\-moi ton nom](https://open.spotify.com/album/7DScWywsdMi8hIELiaSk3t) | 3:29 | 2023-09-15 | 2023-11-11 |
 | [Real Love](https://open.spotify.com/track/3AEJ9PoZEC6ovIv9rZy7aI) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK), [Laylow](https://open.spotify.com/artist/0LnhY2fzptb0QEs5Q5gM7S) | [Une semaine à Paris](https://open.spotify.com/album/0bCd5P38zFjnlTYD6j569u) | 3:34 | 2023-11-17 |  |
-| [Redcup](https://open.spotify.com/track/4qzwmA5yyAaMQgezGFJhRu) | [Mike Clay](https://open.spotify.com/artist/0XkKzWXudWJloK6SWsH8B8), [Sara Diamond](https://open.spotify.com/artist/4azg4dtpH6PiewGHFzQEj0) | [Redcup](https://open.spotify.com/album/2JqC8e1k92ih07yaSzq8Yx) | 2:41 | 2022-11-25 |  |
+| [Redcup](https://open.spotify.com/track/4qzwmA5yyAaMQgezGFJhRu) | [Mike Clay](https://open.spotify.com/artist/0XkKzWXudWJloK6SWsH8B8), [Sara Diamond](https://open.spotify.com/artist/4azg4dtpH6PiewGHFzQEj0) | [Redcup](https://open.spotify.com/album/2JqC8e1k92ih07yaSzq8Yx) | 2:41 | 2022-11-25 | 2023-12-02 |
 | [Remparts](https://open.spotify.com/track/07AEDh8Ad6Ss60K1sWY15w) | [Thaïs](https://open.spotify.com/artist/6lliiJ1S813r1V4koJsGFh) | [Tout est parfait : acte un](https://open.spotify.com/album/1wVbEyyTPcnfFjawWBDjJC) | 3:20 | 2022-05-06 | 2022-10-08 |
 | [Rendez\-vous](https://open.spotify.com/track/4xc65AcTrsOvciwZCqGrtG) | [Gazoline](https://open.spotify.com/artist/0jmQKrs8Mir77PffQBo0Jt) | [Rendez\-vous](https://open.spotify.com/album/72Bq6erz2D2ieZQuvVvj1D) | 3:01 | 2023-10-27 | 2023-11-12 |
 | [Rendez\-vous](https://open.spotify.com/track/5KYF2blNXgss2n0k04Fyzu) | [Gazoline](https://open.spotify.com/artist/0jmQKrs8Mir77PffQBo0Jt) | [Rendez\-vous](https://open.spotify.com/album/3nQvTXgdKu3FHLFiuqwUky) | 3:01 | 2023-11-10 | 2023-11-20 |
@@ -337,6 +337,7 @@
 | [Search History](https://open.spotify.com/track/7tk9zuWVPMDXzAgYuKPNJ2) | [Emilie Kahn](https://open.spotify.com/artist/5m2lu7cT7DE9J21Guso5EO) | [Search History](https://open.spotify.com/album/2LpBl5PDQCYn3RF94j401j) | 2:55 | 2023-08-25 |  |
 | [Sentiments nouveaux](https://open.spotify.com/track/5Gf05sJ1T2JPaclXS1GK71) | [Le Couleur](https://open.spotify.com/artist/0ChUTSO3tfQSVKMOpWkCJy) | [Sentiments nouveaux](https://open.spotify.com/album/3mgWiKYNpcaaESQCp8SKqH) | 3:33 | 2023-03-10 | 2023-08-19 |
 | [Settle & Fly](https://open.spotify.com/track/1FVKdp9VPn9SFJfFwBYe14) | [Jesse Mac Cormack](https://open.spotify.com/artist/2H8M8TXbgq7ZF676K4Zm2C), [Gabrielle Shonk](https://open.spotify.com/artist/5Vj7LABYdzz3ZBt1EhDIoQ) | [Settle & Fly / O\(O\)O](https://open.spotify.com/album/2pzdEKJlR2dIS6BIlp248R) | 3:16 | 2023-07-28 |  |
+| [Seul](https://open.spotify.com/track/2peGnmfed1wADMPsG05EGo) | [Chapeaux pointus](https://open.spotify.com/artist/1MtFxRJcBcTSAXqgqiUojt) | [Seul](https://open.spotify.com/album/05qQ20faez845KfgBMURfG) | 3:46 | 2023-12-01 |  |
 | [Seul au monde](https://open.spotify.com/track/0YgsjiXvHW1ipRDWWVnlSz) | [Lucill](https://open.spotify.com/artist/16AIsiZAml6sFZCwiin97x) | [Seul au monde](https://open.spotify.com/album/0tZyUZXG6JcABtk1wmpMFm) | 3:08 | 2023-02-17 | 2023-10-21 |
 | [Sex & Candy](https://open.spotify.com/track/7M6HWJhPhHG4yICQGN5Bzi) | [pijama land](https://open.spotify.com/artist/4R5DOIzMI1Tv1Tqtmuh5NY) | [Sex & Candy](https://open.spotify.com/album/4ScRDKEIRM9HlNyZHIgpkm) | 3:22 | 2023-02-17 | 2023-07-01 |
 | [Shades of Blue](https://open.spotify.com/track/2SzMY8c3D8aY2csmLVfuRZ) | [Sophia Bel](https://open.spotify.com/artist/6WJnpSVDynCWGrhJcSQIm6) | [Anxious Avoidant Deluxe](https://open.spotify.com/album/5PBjnHGcfnEvAfa66w0eE7) | 3:28 | 2023-02-10 |  |

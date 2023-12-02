@@ -4,7 +4,7 @@
 
 > Les meilleurs titres du moment en version acoustique.
 
-84 songs - 4 hr 28 min
+85 songs - 4 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,7 +68,7 @@
 | [My Universe \- Acoustic Version](https://open.spotify.com/track/6nhc3daOpKaZBRj2ZFWfc7) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [My Universe](https://open.spotify.com/album/6iVS1t7wQUHItUnCxH7epG) | 3:43 | 2022-12-21 | 2023-09-13 |
 | [Never Seen the Rain \- Alternate Version](https://open.spotify.com/track/6MYNfMiLwCmA3bRdfzvfcs) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Never Seen The Rain \(Alternate Version\)](https://open.spotify.com/album/7oVHtPdIA5kcxLLiCu2t7N) | 5:00 | 2022-12-21 | 2023-06-17 |
 | [On My Love \- Live Acoustic](https://open.spotify.com/track/0CZ0NcS4jXLR4I2zM3FKGq) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [On My Love \(Live Acoustic\)](https://open.spotify.com/album/4dBBsaKdTO58KorP8Z9qc3) | 3:44 | 2023-10-05 |  |
-| [Onde Anda \- French Version \- Acoustic](https://open.spotify.com/track/3uy0p6o4ZEb5Oyom4zg337) | [Calema](https://open.spotify.com/artist/6PIIKavZx20FlVKyIvb4Um) | [Onde Anda \(French Version \- Acoustic\)](https://open.spotify.com/album/4JvVLOqRPa2C1lpX7RxAFi) | 3:00 | 2023-06-02 |  |
+| [Onde Anda \- French Version \- Acoustic](https://open.spotify.com/track/3uy0p6o4ZEb5Oyom4zg337) | [Calema](https://open.spotify.com/artist/6PIIKavZx20FlVKyIvb4Um) | [Onde Anda \(French Version \- Acoustic\)](https://open.spotify.com/album/4JvVLOqRPa2C1lpX7RxAFi) | 3:00 | 2023-06-02 | 2023-12-02 |
 | [Peaches \- Acoustic](https://open.spotify.com/track/1ChZ4mrSLP8HImCY6IyImf) | [Adam Christopher](https://open.spotify.com/artist/22QkuOmdRnasuuVgUjhrVw) | [Peaches \(Acoustic\)](https://open.spotify.com/album/3qfz0iDhRYXa0VFccGM8VY) | 3:10 | 2022-12-21 |  |
 | [Premier amour \- Version acoustique](https://open.spotify.com/track/1BxPyaqHGCAPUlfqtn5vuK) | [Nour](https://open.spotify.com/artist/2Z55seSc1gT7BWnV0ElFNL) | [Premier amour \(Version acoustique\)](https://open.spotify.com/album/1jRDvSPXUSi725IrT6FkvR) | 3:09 | 2023-03-09 | 2023-09-27 |
 | [RUNAWAY \- Acoustic](https://open.spotify.com/track/4Z3jnL8wjTptUo0OgxKa47) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [RUNAWAY \(Acoustic\)](https://open.spotify.com/album/6O4FUArVCjvgfvWMIwwPf3) | 2:22 | 2023-08-24 |  |
@@ -90,6 +90,7 @@
 | [THIS YEAR \(Blessings\) \- Acoustic Version](https://open.spotify.com/track/3TawMDALb9pwBKoBWkZWLE) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas), [Ehis 'D' Greatest](https://open.spotify.com/artist/6QdzKE9cMAEFZj1pYcxpsf) | [THIS YEAR \(Blessings\) \[Acoustic Version\]](https://open.spotify.com/album/3Zqrx0J4rWBHXpv4HZIlea) | 2:18 | 2023-06-02 |  |
 | [Wasted Love \(feat\. Lagique\) \- Acoustic](https://open.spotify.com/track/5Zn1K7j3DkB1akPiBLwKR9) | [Ofenbach](https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw), [Lagique](https://open.spotify.com/artist/1PbtWtrN7jZpd4toqxrjm2) | [Wasted Love \(feat\. Lagique\) \[Acoustic\]](https://open.spotify.com/album/2CgvyrhuhDiXBAmXQz52Js) | 2:07 | 2022-12-21 |  |
 | [Where Are You Now \- Acoustic](https://open.spotify.com/track/4jU6qkh8stB9uqXEPMqnJL) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Where Are You Now \(Acoustic\)](https://open.spotify.com/album/4Am155SZjwvCP6zPnnVZqH) | 2:42 | 2022-12-21 |  |
+| [Wish You The Best \- Guitar Version](https://open.spotify.com/track/3rOGAAipcIGs9p75v9wDPq) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Wish You The Best EP](https://open.spotify.com/album/46ksJlfXcOQTlSUo7EWIYE) | 3:29 | 2023-12-01 |  |
 | [You \(with Marshmello & Vance Joy\) \- Acoustic](https://open.spotify.com/track/2wcseriGAqeodDazDXgmaq) | [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa), [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [You \(with Marshmello & Vance Joy\) \[Main + Acoustic\]](https://open.spotify.com/album/0XqS6EE0TuqdLrhJVo06jL) | 2:31 | 2022-12-21 | 2023-01-06 |
 | [you broke me first \- Spotify Singles](https://open.spotify.com/track/4SBahN5KfX1RLG9XLNIlJA) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [Spotify Singles](https://open.spotify.com/album/4xhcTm06KVa15xIpVk1hQt) | 2:56 | 2022-12-21 |  |
 

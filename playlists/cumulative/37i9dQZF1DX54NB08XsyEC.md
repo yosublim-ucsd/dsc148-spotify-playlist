@@ -2,7 +2,7 @@
 
 ### [pov](https://open.spotify.com/playlist/37i9dQZF1DX54NB08XsyEC)
 
-> ela eh o momento  / Foto: Tyla
+> se até ele era carpenter imagina nois / Foto: Sabrina Carpenter
 
 288 songs - 15 hr 26 min
 

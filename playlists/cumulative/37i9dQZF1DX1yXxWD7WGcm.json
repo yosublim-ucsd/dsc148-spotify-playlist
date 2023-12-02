@@ -266,7 +266,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 191573,
       "name": "Ferme Tes Yeux",
       "url": "https://open.spotify.com/track/1B35BUUooPRXidBN21iAFi"
@@ -510,7 +510,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 266333,
       "name": "Le coup de soleil",
       "url": "https://open.spotify.com/track/1bL91d7y9VN31swIJEMCjl"
@@ -688,7 +688,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 197986,
       "name": "Ne m'en veux pas",
       "url": "https://open.spotify.com/track/5SU0bYX4XRBX8w3WcsI67Q"
@@ -823,6 +823,24 @@
     },
     {
       "album": {
+        "name": "Et si c'\u00e9tait vrai",
+        "url": "https://open.spotify.com/album/6PMElw849dIpW2LEAgUL5J"
+      },
+      "artists": [
+        {
+          "name": "Cyrielle",
+          "url": "https://open.spotify.com/artist/2RFrhCswhuz2J8ogmR180F"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242024,
+      "name": "Sa pran mwen trop tan",
+      "url": "https://open.spotify.com/track/1Ilkn5otcJsrf60DDEpuJ8"
+    },
+    {
+      "album": {
         "name": "Se Pa Pou Dat",
         "url": "https://open.spotify.com/album/0WT8Un2CLXF7CeALLeIOSn"
       },
@@ -838,6 +856,24 @@
       "duration_ms": 341346,
       "name": "Se Pa Pou dat",
       "url": "https://open.spotify.com/track/4tLvQ6fvnsWB6BGusXS03n"
+    },
+    {
+      "album": {
+        "name": "Sensasyon",
+        "url": "https://open.spotify.com/album/0rjyZp9fxNUAtMDYvN8vUd"
+      },
+      "artists": [
+        {
+          "name": "K-Reen",
+          "url": "https://open.spotify.com/artist/3zAlF5gQNQo3Cwv8uQu5aG"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268083,
+      "name": "Sensasyon",
+      "url": "https://open.spotify.com/track/19AvUQjwbsMVCdJnRdpINM"
     },
     {
       "album": {
@@ -874,6 +910,24 @@
       "duration_ms": 269266,
       "name": "Siwo",
       "url": "https://open.spotify.com/track/0femCfvGe5cE3kyRnRd9jK"
+    },
+    {
+      "album": {
+        "name": "Bien glac\u00e9 - Fresh Party",
+        "url": "https://open.spotify.com/album/6bDwtgfMFyqxiI2QXvsg2z"
+      },
+      "artists": [
+        {
+          "name": "V-Ro",
+          "url": "https://open.spotify.com/artist/684q4KjyZWoCp0Qibd30RY"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284120,
+      "name": "Softcore",
+      "url": "https://open.spotify.com/track/5LztlzY4RCTIeOFqf8fwLC"
     },
     {
       "album": {
@@ -942,10 +996,28 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 238226,
       "name": "Tu Kiffes Ca",
       "url": "https://open.spotify.com/track/4VjAINz190LKGIhlOyzbLh"
+    },
+    {
+      "album": {
+        "name": "Entre vous et moi (32 Hits)",
+        "url": "https://open.spotify.com/album/2FLvO78SIGxE9bDTliU2uB"
+      },
+      "artists": [
+        {
+          "name": "Harry Diboula",
+          "url": "https://open.spotify.com/artist/57BxOfFiszAxhvXp5gE5Hn"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267693,
+      "name": "Tu me manques",
+      "url": "https://open.spotify.com/track/2tjdUXAQO53oMqpRoA4bwP"
     },
     {
       "album": {

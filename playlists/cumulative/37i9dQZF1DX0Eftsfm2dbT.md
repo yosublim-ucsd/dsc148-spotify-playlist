@@ -4,7 +4,7 @@
 
 > J\-Hip Hopカルチャーの「今」と「その先」を繋ぐプレイリスト。 cover: Kaneee
 
-285 songs - 14 hr 50 min
+286 songs - 14 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,7 +87,8 @@
 | [F.N.A.P.](https://open.spotify.com/track/2hvHJKYzUulhYtSauN0U6l) | [Skaai](https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E) | [F.N.A.P.](https://open.spotify.com/album/0uIapDw7UWY2omzVtBGUfE) | 2:51 | 2023-09-21 | 2023-10-04 |
 | [Family Sale](https://open.spotify.com/track/3sFhDmtCO39yZUzpk2o4Gs) | [PUNPEE](https://open.spotify.com/artist/0mP8A1qIoufScrsxq18Cw6), [親父](https://open.spotify.com/artist/7tvsTkLL1lt0D5QU8yIvdI) | [Family Sale](https://open.spotify.com/album/3JfuFVx4rgavnVvqXYqK3z) | 4:00 | 2023-10-17 |  |
 | [Feel](https://open.spotify.com/track/4xC2WC77ErmVSSXfBIdo5f) | [MVTEN](https://open.spotify.com/artist/0ViA0wrTM0BtMS9Nqr2PUz), [BOOGIE MASON](https://open.spotify.com/artist/7HGfozjLThy29nhBQp0GoX) | [Feel](https://open.spotify.com/album/6Q2bFgiFhQszouUE3M5YGx) | 3:49 | 2023-11-28 |  |
-| [FEEL OR BEEF BADPOP IS DEAD](https://open.spotify.com/track/437NTuFyPIGPZOySU5xS1n) | [舐達麻](https://open.spotify.com/artist/7nDfh01E30OkhgsPKSQzCx) | [FEEL OR BEEF BADPOP IS DEAD](https://open.spotify.com/album/2RC2ZF2OwNHPO1c2GwfunX) | 6:49 | 2023-12-01 |  |
+| [FEEL OR BEEF BADPOP IS DEAD](https://open.spotify.com/track/46FKKQrKaQJVz1kZNr3Aid) | [NAMEDARUMAAZ](https://open.spotify.com/artist/6y1Kuh89ySfhDL6lXPshpi) | [FEEL OR BEEF BADPOP IS DEAD](https://open.spotify.com/album/64jZuo9pd3g1aisDw4vcDa) | 6:49 | 2023-12-01 |  |
+| [FEEL OR BEEF BADPOP IS DEAD](https://open.spotify.com/track/437NTuFyPIGPZOySU5xS1n) | [舐達麻](https://open.spotify.com/artist/7nDfh01E30OkhgsPKSQzCx) | [FEEL OR BEEF BADPOP IS DEAD](https://open.spotify.com/album/2RC2ZF2OwNHPO1c2GwfunX) | 6:49 | 2023-12-01 | 2023-12-02 |
 | [Feelin' It](https://open.spotify.com/track/6oRQWL5Ck9E3PEFozFuQtz) | [Dr\. Swing](https://open.spotify.com/artist/4bZkwoyHViea5n0WYk2JS4), [Ym3boi](https://open.spotify.com/artist/200hgruptiem9UnOCoU2fg), [Ja¥Da](https://open.spotify.com/artist/4NEe9L2w6hCQB8boWIvyV5), [D\-RAM](https://open.spotify.com/artist/6fPFcDd394Ozh1s8WdMCtk), [Jo junior](https://open.spotify.com/artist/5uZCJm4sE4YZZInkm2Jl9m), [MELLMWOR1D](https://open.spotify.com/artist/2ntpUnudJuitrCi950QadZ) | [Feelin' It](https://open.spotify.com/album/7dHHiZ0PIQF6NN8ReC3Lmz) | 4:07 | 2023-09-26 | 2023-10-11 |
 | [flash](https://open.spotify.com/track/4K6pJPtAgURhU1GGdjuHJa) | [chelmico](https://open.spotify.com/artist/6sAONleCsmAyP87OHsVAPV) | [I just wanna dance with you\- period](https://open.spotify.com/album/50sOlknlpkacgE0gSXrQQS) | 3:52 | 2023-10-03 | 2023-10-11 |
 | [Forever \(hallelujah\)](https://open.spotify.com/track/5egUfmo5xVQ6oFRjC2eJl4) | [Haiiro De Rossi](https://open.spotify.com/artist/7BKPOigBtNtPmk7w3ZuCw0) | [hallelujah](https://open.spotify.com/album/2oXVZzEnllAmk2EgEp9TYY) | 5:44 | 2023-11-07 | 2023-11-22 |

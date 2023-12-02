@@ -4,7 +4,7 @@
 
 > back up in the sky
 
-253 songs - 15 hr 19 min
+254 songs - 15 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -208,6 +208,7 @@
 | [Sextape](https://open.spotify.com/track/1EryAkZ0VHstC6haIxVBiE) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [Diamond Eyes](https://open.spotify.com/album/1GjjBpY2iDwSQs5bykQI5e) | 4:01 | 2023-10-06 |  |
 | [Shadow Lady](https://open.spotify.com/track/4yx91SkOX4OWjUmhEj4rDl) | [Portwave](https://open.spotify.com/artist/5g97nXsHBZDyY6wPKckqLc) | [Shadow Lady](https://open.spotify.com/album/5SqGemHRM0ZfooBHuC81qK) | 5:02 | 2023-03-22 |  |
 | [Shellshock \- Dubyshkin Feed Your Pet Mix](https://open.spotify.com/track/5DPoMqEbmuENT6EKpVY5OQ) | [Koreless](https://open.spotify.com/artist/3TsEEdpuuCN1G0dPxV4uOA), [Vladimir Dubyshkin](https://open.spotify.com/artist/1ZzmTycawZ9YbMeiKcfKLL) | [Joy Squad / Shellshock \(VTSS & Dubyshkin Remixes\)](https://open.spotify.com/album/3o8z9yU8EHtoQgzgdFR0Cp) | 4:07 | 2023-01-19 | 2023-05-25 |
+| [shutting me out](https://open.spotify.com/track/1XKLWx4XOnB6nMkl5qFtYi) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [shutting me out / goo lagoon](https://open.spotify.com/album/4WJsVZksTyP64i6fsH9Ocq) | 2:26 | 2023-12-01 |  |
 | [Singing To Let England Shake](https://open.spotify.com/track/4WgPnx0VIchYHqhIBK6I7y) | [Forever Honey](https://open.spotify.com/artist/4Cb3ba0NtoWqbwygQNCyjN) | [Singing To Let England Shake](https://open.spotify.com/album/6XvASASymN1EvsH5J3i4G9) | 3:36 | 2022-09-09 | 2023-05-25 |
 | [Slick Rick](https://open.spotify.com/track/4fYjk7xP6yiNrTxRrh27Hl) | [Spiritual Cramp](https://open.spotify.com/artist/6cpzd2aRLmkE06P4lFFMlj) | [Spiritual Cramp](https://open.spotify.com/album/3IkNZiLRC15x84CCPL4pIN) | 2:55 | 2023-11-21 |  |
 | [Slumbernumb](https://open.spotify.com/track/3bcQvxrW59PlemA7rrPm2G) | [heffy](https://open.spotify.com/artist/00YJFmTkMloy3dYPLExyRr) | [Slumbernumb](https://open.spotify.com/album/7ItF9Bbj5JzCVqNv1nOp4p) | 3:09 | 2023-09-29 |  |

@@ -4,7 +4,7 @@
 
 > Mujeres que brillaron en 2023\. Foto: Vesta Lugg
 
-793 songs - 1 day 20 hr 3 min
+794 songs - 1 day 20 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -774,6 +774,7 @@
 | [Volando en la Nube](https://open.spotify.com/track/0T6MzqYdTDGu0FG0aP8duW) | [Catana](https://open.spotify.com/artist/5M93gtdh8dIv85CDYnuP90) | [À PLUS](https://open.spotify.com/album/6fV1ZKfUAm1BvJzTe6yzdr) | 3:11 | 2022-04-06 | 2022-12-01 |
 | [Volando en la Nube](https://open.spotify.com/track/4kDO7SsBLzlXXNl1bKozFn) | [Catana](https://open.spotify.com/artist/5M93gtdh8dIv85CDYnuP90) | [Volando en la Nube](https://open.spotify.com/album/2dopJK4bzSHttm5bxMd495) | 3:11 | 2022-07-06 | 2023-04-06 |
 | [Volando en la Nube](https://open.spotify.com/track/77DqKtrU37Ozl58YtbP5Cm) | [Catana](https://open.spotify.com/artist/5M93gtdh8dIv85CDYnuP90), [Rehm](https://open.spotify.com/artist/3Gr8dpsjFSfA91T7z4FYXA), [Dirtyfingaz](https://open.spotify.com/artist/0hfxyYB8cJfwjMWGQZUBna) | [Volando en la Nube](https://open.spotify.com/album/4dZASYr5M9LGz4vH73AqFQ) | 3:11 | 2022-01-05 | 2022-07-29 |
+| [Volar](https://open.spotify.com/track/3qu7fBSjryb5kRTUAX4koC) | [Yorka](https://open.spotify.com/artist/71bG6LIwKMYALxV8WuIezn) | [Volar](https://open.spotify.com/album/1JdAQSX4XwFsgpaqXit3ly) | 3:19 | 2023-11-29 |  |
 | [Voy a Hacer las Cosas Lento](https://open.spotify.com/track/2giVbMc5SuyJedv7JaWr9o) | [Niña Tormenta](https://open.spotify.com/artist/0KJEHAoNtPaopqOHD6UIkY) | [Voy a Hacer las Cosas Lento](https://open.spotify.com/album/4is8Xi19Eijn9e16KgaipK) | 3:28 | 2022-03-08 | 2023-01-05 |
 | [Vuelvo a Sentir](https://open.spotify.com/track/23mZJnISPOH2u06cjVXNeH) | [Myriam Hernandez](https://open.spotify.com/artist/6NHTDaYSUeMaroI5U0jytT) | [Sinergia](https://open.spotify.com/album/5SjeP0UHafaTMnfrzx4Q95) | 3:57 | 2022-07-06 | 2022-08-04 |
 | [X Detra \(feat\. Saitoape\)](https://open.spotify.com/track/5ozANUJQBPX33q29RXGTJ6) | [Amikiraa](https://open.spotify.com/artist/3xCoO7TgLAuhKkNz0uRwo2), [Nihla](https://open.spotify.com/artist/74UNE9EF6heknm43N3LPMf), [Akatumamy](https://open.spotify.com/artist/38DOU02BQmlcooCqxr3aSd), [Saitoape](https://open.spotify.com/artist/1uXQ1A3Jy85T7cWKFvlgoU) | [X Detra \(feat\. Saitoape\)](https://open.spotify.com/album/78KwaH54fwPpOltpzc5hYM) | 3:37 | 2023-04-05 | 2023-06-06 |

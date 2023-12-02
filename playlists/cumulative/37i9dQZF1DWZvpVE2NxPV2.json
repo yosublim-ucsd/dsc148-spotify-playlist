@@ -779,6 +779,24 @@
     },
     {
       "album": {
+        "name": "Duduk Dreams",
+        "url": "https://open.spotify.com/album/4epyHlVlNDz5TuETXucJG3"
+      },
+      "artists": [
+        {
+          "name": "Vera Eikon",
+          "url": "https://open.spotify.com/artist/5GWPPcK9rmFZvw8Gy4TQOj"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155070,
+      "name": "Duduk Dreams",
+      "url": "https://open.spotify.com/track/71l4isqXmuzvbe4xOsGGxG"
+    },
+    {
+      "album": {
         "name": "Emersion",
         "url": "https://open.spotify.com/album/2AVFXtKshMtp06uEyDMx7Z"
       },
@@ -1132,7 +1150,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 148000,
       "name": "Fragility",
       "url": "https://open.spotify.com/track/76PJSFCBGkVazJvMcE3Uyi"

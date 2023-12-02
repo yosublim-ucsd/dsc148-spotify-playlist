@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX83Qd1EZ6qTs.md) - [plain]
 
 > Ease out your mind with the rhythmic Tabla sounds, from Indian maestros & modern geniuses\. Cover : Ishaan Ghosh
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,729 likes - 47 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,741 likes - 47 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX83Qd1EZ6qTs.md) - [plain]
 | 21 | [Peace and Meditation](https://open.spotify.com/track/2l1wiFcG92EeSuKOBlAoQm) | [Bhavani Shankar](https://open.spotify.com/artist/25fjGNyVfjtes1KDulSKME) | [Pakhawaj](https://open.spotify.com/album/3O6hXsYnDLB8BqbYHiypj4) | 6:15 |
 | 22 | [Indian Ethnic Tabla Sitar Drums](https://open.spotify.com/track/5pqZlpmPHlQudN0WE4Gy2E) | [Sandeep Khurana](https://open.spotify.com/artist/4KO6U4WNDEW0RjzQL7VuRj) | [Royalty Free Music For Films & TV \- Vol\. 2](https://open.spotify.com/album/7oKb2WESaZxsAHpH2VPMKq) | 0:51 |
 | 23 | [Tabla](https://open.spotify.com/track/3HDTDX3j2qpzGYvy3ELtPh) | [Alla Rakha](https://open.spotify.com/artist/5Y99HxXDOgGQ6diwjV7HDj) | [Ustad Alla Rakha \- The Multifaceted Genius](https://open.spotify.com/album/0RNf0UPZvB8MZKFfDmBkXk) | 10:40 |
-| 24 | [Tabla and the Beat](https://open.spotify.com/track/6CJS8wSAtOvd6oDSzPefCH) | [Drumspyder](https://open.spotify.com/artist/7dCTyOTIdbIvCxox9ocZlv) | [Harem: Club & Chillout Remixes](https://open.spotify.com/album/3tmsEhA1K6ZCp68mdOiocv) | 3:21 |
-| 25 | [Drut Tintâl](https://open.spotify.com/track/4AFjp9pi72ekK73f4XzTVG) | [Latif Ahmed Khan](https://open.spotify.com/artist/7o1px4JaKkGBGeGttSJ5cf), [Asif Ali Khan](https://open.spotify.com/artist/01WJRYrqBkkxXFPAreJVD8), [Ma Deva Prashanti](https://open.spotify.com/artist/7dgILeG3wG2476e4mrGDIf) | [Inde: Hommage à Latif Ahmed Khan \(India: A Tribute to Latif Ahmed Khan\)](https://open.spotify.com/album/0X7ABjctDytLyGlQIzjk3a) | 5:02 |
+| 24 | [Drut Tintâl](https://open.spotify.com/track/4AFjp9pi72ekK73f4XzTVG) | [Latif Ahmed Khan](https://open.spotify.com/artist/7o1px4JaKkGBGeGttSJ5cf), [Asif Ali Khan](https://open.spotify.com/artist/01WJRYrqBkkxXFPAreJVD8), [Ma Deva Prashanti](https://open.spotify.com/artist/7dgILeG3wG2476e4mrGDIf) | [Inde: Hommage à Latif Ahmed Khan \(India: A Tribute to Latif Ahmed Khan\)](https://open.spotify.com/album/0X7ABjctDytLyGlQIzjk3a) | 5:02 |
+| 25 | [Tabla and the Beat](https://open.spotify.com/track/6CJS8wSAtOvd6oDSzPefCH) | [Drumspyder](https://open.spotify.com/artist/7dCTyOTIdbIvCxox9ocZlv) | [Harem: Club & Chillout Remixes](https://open.spotify.com/album/3tmsEhA1K6ZCp68mdOiocv) | 3:21 |
 | 26 | [Tabla \- Dhwani \- Digitally Remastered](https://open.spotify.com/track/0c5Vqd09VAMMdrq3bnYOTc) | [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf), [Ravi Shankar](https://open.spotify.com/artist/4uE9TgBW0AaPDHL1qYbtd0) | [The Very Best of Ravi Shankar](https://open.spotify.com/album/0gzAYyDJW2HiIkcOoQCWjm) | 4:52 |
 | 27 | [Raag Bhupal Todi](https://open.spotify.com/track/4vZXN5gsRpEcsDJdIwTJJJ) | [Kamalesh Maitra](https://open.spotify.com/artist/3QumuwOoJQCbexmiDt9s51) | [The World's Musical Traditions, Vol\. 10: Tabla Tarang\-\-Melody on Drums](https://open.spotify.com/album/0DJueTg43GmAiEKG50wAIJ) | 9:48 |
 | 28 | [Tabla Duo](https://open.spotify.com/track/39YD8JklUkAWbUo1DywryB) | [K\. Shruthi Raj](https://open.spotify.com/artist/6zr6WfjrK1ZVWryFpJ3Yog), [A\. Kiran Kumar](https://open.spotify.com/artist/2Shi7KJal6btqCgTCVC3F1), [Saravanan](https://open.spotify.com/artist/4XdHGSJ3fJ8CKvE1fwWjq1) | [Authentic India: Indian Percussion](https://open.spotify.com/album/69wCZZ0ECtKoTJkHxdsGRO) | 1:02 |
@@ -56,4 +56,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX83Qd1EZ6qTs.md) - [plain]
 | 46 | [Ecstasy](https://open.spotify.com/track/3cpUVxVvbZ42OhVC7MF07h) | [Anuradha Pal](https://open.spotify.com/artist/3dwrhshMCjEwJxJDEbWXWT) | [Get Recharged!!!](https://open.spotify.com/album/7uAdx4T1tcIpMMSDFSiwdL) | 6:48 |
 | 47 | [Wander](https://open.spotify.com/track/7j53xRQzT5VXy5hz8WnQLT) | [Ishaan Ghosh](https://open.spotify.com/artist/6wyqjy0sSEo1nosRslokLL) | [Wander](https://open.spotify.com/album/0NtsRlMtC5jJiPwi8QxlJG) | 3:00 |
 
-Snapshot ID: `MCw3NjQ4YTlmYzg0MjNkNGQwMzM1M2M0NjMxNTk0MGVkNWY1YzM5ZDhi`
+Snapshot ID: `MCxiMGMwYWYwMTFhNzI3YWM5MTUyODIwYTZiODViNTgzMjRkMTM1OWMw`

@@ -4,7 +4,7 @@
 
 > Beats with a flavour of Jazz\. Cover: Blue Lab Beats
 
-139 songs - 7 hr 44 min
+140 songs - 7 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [Better Worlds](https://open.spotify.com/track/1QUykTReTicU0CXhHPm9Y0) | [Matt Wilde](https://open.spotify.com/artist/3zcRSyyzkg8qI2WPvXLaek), [Kissamilé](https://open.spotify.com/artist/7darGNapWiX3YbwJXwl0hR) | [Better Worlds](https://open.spotify.com/album/1f0IRafmVNgjl27cGRA4lC) | 3:01 | 2023-08-22 |  |
 | [BEZU](https://open.spotify.com/track/5Nvb6ZXeAoBDhXBlpDVNLK) | [Valaire](https://open.spotify.com/artist/3wW4s7QuPnmqVUhwkLSTkj), [Anomalie](https://open.spotify.com/artist/2ev6Cd0yJVCcpf2zezEQ8Z) | [BEZU](https://open.spotify.com/album/3hPUNBUJVZ6QLu29pMQ9FF) | 3:04 | 2023-08-22 |  |
 | [Bitter Suite](https://open.spotify.com/track/7GXxdVV5Tbel46PBO7YKES) | [Raffy Bushman](https://open.spotify.com/artist/4xX2QeWsypmEv9w4u9P6xC) | [Beginner's Mind](https://open.spotify.com/album/4BzI2Xv2bWiHpgnmefZBMb) | 5:46 | 2023-08-22 |  |
+| [Blue Heart](https://open.spotify.com/track/2sCmLqb2PhUeL4sHw6mp8l) | [Eric Diamond](https://open.spotify.com/artist/7uLxDJELvSU1oFe1V7jLhW), [RMB Justize](https://open.spotify.com/artist/2xLhxXgR236ZtWjZOfa0Kd) | [Blue Heart](https://open.spotify.com/album/2HtQz0eVFEMY8iZjK4NxOF) | 2:28 | 2023-12-01 |  |
 | [Blue Notes](https://open.spotify.com/track/7Gfidoax4lBjPGHkE4kCBK) | [Ajmw](https://open.spotify.com/artist/64StAk1W7veJKQ9x0rlE2R) | [Still Love](https://open.spotify.com/album/0p4sD08fHj8S8ZdFyXaVzn) | 2:05 | 2023-08-22 |  |
 | [Byzantine](https://open.spotify.com/track/71zcfefEk6z9LwMczxpp56) | [eun](https://open.spotify.com/artist/0L8slSjSjkpmY2vCCuXZ2r), [Protonebula](https://open.spotify.com/artist/79QsjitGhOGT7ixKYuWJun), [Glance](https://open.spotify.com/artist/4zsm9w2iVTLhuOIhnpqz9M), [Heem](https://open.spotify.com/artist/6P7RzcULDXBd32AI4Haw1m) | [Byzantine](https://open.spotify.com/album/6asKTaEIC7zt9Nb32ZaGV4) | 2:56 | 2023-08-22 |  |
 | [C.F.D.](https://open.spotify.com/track/3vitE6XRGDP8SdoDwu40Ty) | [Makaya McCraven](https://open.spotify.com/artist/5FnpXrrMdJVZCK54oHWqUa) | [Deciphering The Message](https://open.spotify.com/album/3yrDdyKK5WdYFAHUNmradZ) | 3:17 | 2023-08-22 |  |
@@ -118,7 +119,7 @@
 | [Stilo](https://open.spotify.com/track/3tBTtLW2GhWdwV42EQkBLO) | [Anthony Bruno](https://open.spotify.com/artist/1xHTfW0mULQmn6CM9f2wvN) | [Stilo](https://open.spotify.com/album/2rfVcCqLV42c7FCOyLSIm9) | 3:09 | 2023-08-22 |  |
 | [stroll](https://open.spotify.com/track/48CXPSMqlczCjqHD3tWKRF) | [Cosmic Wildlife](https://open.spotify.com/artist/01yuxqHdzegJb5Aq4V8gsB) | [stroll](https://open.spotify.com/album/0az5tgCzDGhdWbhUmRTWyT) | 3:31 | 2023-10-13 |  |
 | [Sun Drops](https://open.spotify.com/track/329x1AzCPqgaeiYLayRKQt) | [Midan](https://open.spotify.com/artist/1dYfhrPxJSeCJp8gGwN4qo) | [Sun Drops](https://open.spotify.com/album/6JhhmF9rjvZ7rIIMqsa91k) | 3:04 | 2023-08-22 |  |
-| [Sun Go Down](https://open.spotify.com/track/67b8oUDiOzfPPN2xDj4G0x) | [John Carroll Kirby](https://open.spotify.com/artist/7FQiZr787umw7P5dO3zqld) | [Sun Go Down](https://open.spotify.com/album/6tGejsu1Row5Qg2MD6fRl3) | 3:12 | 2023-10-13 |  |
+| [Sun Go Down](https://open.spotify.com/track/67b8oUDiOzfPPN2xDj4G0x) | [John Carroll Kirby](https://open.spotify.com/artist/7FQiZr787umw7P5dO3zqld) | [Sun Go Down](https://open.spotify.com/album/6tGejsu1Row5Qg2MD6fRl3) | 3:12 | 2023-10-13 | 2023-12-02 |
 | [Sunflowers \- Instrumental](https://open.spotify.com/track/4QbGLxnTppGc8Ezpj7sPz7) | [Adrian Younge](https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd), [Ali Shaheed Muhammad](https://open.spotify.com/artist/6adBZwsyxZuWDoty0Tg0lt), [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [Instrumentals JID009](https://open.spotify.com/album/1pgEGAlSKQqofycTIjSW4g) | 3:01 | 2023-08-25 |  |
 | [Sunset](https://open.spotify.com/track/5PAQ2JpAOHW8q7u17qqh58) | [Makaya McCraven](https://open.spotify.com/artist/5FnpXrrMdJVZCK54oHWqUa) | [Deciphering The Message](https://open.spotify.com/album/3yrDdyKK5WdYFAHUNmradZ) | 3:48 | 2023-10-13 |  |
 | [Superglue](https://open.spotify.com/track/71o5d6HO6CdRW899OkB0e1) | [Noflik](https://open.spotify.com/artist/4adNSdgdmFQ1vVIebJxwVt), [.multibeat](https://open.spotify.com/artist/4QQM0xwh18KQeE0CrnSqyj) | [Tool Box](https://open.spotify.com/album/60foAlPlTrG424X5Agh7Yh) | 2:32 | 2023-08-22 |  |

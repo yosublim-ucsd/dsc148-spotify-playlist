@@ -1,12 +1,12 @@
 {
   "description": "Tune in, bliss out",
-  "num_followers": 386534,
+  "num_followers": 386584,
   "original_name": "Just Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMjQyZTc0MGQ0Nzc0Y2NkMzIyMjg2N2E1MzY5NWRhYzZkNDQ4ZjM3",
+  "snapshot_id": "MCw0YmIwZGUxN2Q1MGM4OTBhNzBkMmNhNzg4MGY2MjlkYjg5YTRmNjRl",
   "tracks": [
     {
       "added_at": "2023-11-30 10:58:33",
@@ -507,8 +507,8 @@
     {
       "added_at": "2023-11-30 10:58:33",
       "album": {
-        "name": "Kahan (last year)",
-        "url": "https://open.spotify.com/album/215RCt9IFitsQ2fuDrnysX"
+        "name": "Secret Life",
+        "url": "https://open.spotify.com/album/1FJVbtVFLARPKbn1HepNh1"
       },
       "artists": [
         {
@@ -516,13 +516,13 @@
           "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
         },
         {
-          "name": "Kodak Black",
-          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+          "name": "Brian Eno",
+          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
         }
       ],
-      "duration_ms": 216000,
-      "name": "Kahan (last year)",
-      "url": "https://open.spotify.com/track/0fGsBRR1Am2H5nIQx9nFCT"
+      "duration_ms": 320533,
+      "name": "Cmon",
+      "url": "https://open.spotify.com/track/4kaiSmJrLgQq0w2qFuzAwy"
     },
     {
       "added_at": "2023-11-30 10:58:33",
@@ -647,42 +647,6 @@
     {
       "added_at": "2023-11-30 10:58:33",
       "album": {
-        "name": "All I've Ever Known",
-        "url": "https://open.spotify.com/album/4hFPQHIvNtt8c9pn1F25uK"
-      },
-      "artists": [
-        {
-          "name": "Vandelux",
-          "url": "https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k"
-        }
-      ],
-      "duration_ms": 218000,
-      "name": "All I've Ever Known",
-      "url": "https://open.spotify.com/track/2uBELhgylBRkmLI5B5yCbe"
-    },
-    {
-      "added_at": "2023-11-30 10:58:33",
-      "album": {
-        "name": "Secret Life",
-        "url": "https://open.spotify.com/album/1FJVbtVFLARPKbn1HepNh1"
-      },
-      "artists": [
-        {
-          "name": "Fred again..",
-          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
-        },
-        {
-          "name": "Brian Eno",
-          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
-        }
-      ],
-      "duration_ms": 320533,
-      "name": "Cmon",
-      "url": "https://open.spotify.com/track/4kaiSmJrLgQq0w2qFuzAwy"
-    },
-    {
-      "added_at": "2023-11-30 10:58:33",
-      "album": {
         "name": "Tidal Waves",
         "url": "https://open.spotify.com/album/5JUNGkyetUR1RC0svtR772"
       },
@@ -695,6 +659,42 @@
       "duration_ms": 190820,
       "name": "Tidal Waves",
       "url": "https://open.spotify.com/track/3YTZyDywwVOWOXw2d970Dx"
+    },
+    {
+      "added_at": "2023-11-30 10:58:33",
+      "album": {
+        "name": "Kahan (last year)",
+        "url": "https://open.spotify.com/album/215RCt9IFitsQ2fuDrnysX"
+      },
+      "artists": [
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        },
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "Kahan (last year)",
+      "url": "https://open.spotify.com/track/0fGsBRR1Am2H5nIQx9nFCT"
+    },
+    {
+      "added_at": "2023-11-30 10:58:33",
+      "album": {
+        "name": "All I've Ever Known",
+        "url": "https://open.spotify.com/album/4hFPQHIvNtt8c9pn1F25uK"
+      },
+      "artists": [
+        {
+          "name": "Vandelux",
+          "url": "https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k"
+        }
+      ],
+      "duration_ms": 218000,
+      "name": "All I've Ever Known",
+      "url": "https://open.spotify.com/track/2uBELhgylBRkmLI5B5yCbe"
     },
     {
       "added_at": "2023-11-30 10:58:33",
@@ -743,22 +743,6 @@
     {
       "added_at": "2023-11-30 10:58:33",
       "album": {
-        "name": "Back In Love",
-        "url": "https://open.spotify.com/album/6QqRF5zCtaC7QxClwaGUDf"
-      },
-      "artists": [
-        {
-          "name": "LEISURE",
-          "url": "https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R"
-        }
-      ],
-      "duration_ms": 281253,
-      "name": "Back In Love",
-      "url": "https://open.spotify.com/track/20aysL9kYxvNPuSWEzh8pl"
-    },
-    {
-      "added_at": "2023-11-30 10:58:33",
-      "album": {
         "name": "Sanctuary Point",
         "url": "https://open.spotify.com/album/2vnz72t4mSjrw1RhgfDSTN"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 224500,
       "name": "Wake Up Call",
       "url": "https://open.spotify.com/track/6HjoXmL9BiC1Cmb7oktz5N"
+    },
+    {
+      "added_at": "2023-11-30 10:58:33",
+      "album": {
+        "name": "Back In Love",
+        "url": "https://open.spotify.com/album/6QqRF5zCtaC7QxClwaGUDf"
+      },
+      "artists": [
+        {
+          "name": "LEISURE",
+          "url": "https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R"
+        }
+      ],
+      "duration_ms": 281253,
+      "name": "Back In Love",
+      "url": "https://open.spotify.com/track/20aysL9kYxvNPuSWEzh8pl"
     },
     {
       "added_at": "2023-11-30 10:58:33",
@@ -935,42 +935,6 @@
     {
       "added_at": "2023-11-30 10:58:33",
       "album": {
-        "name": "can you see me?",
-        "url": "https://open.spotify.com/album/6lvr2vceq0j5YhJUQTPSKE"
-      },
-      "artists": [
-        {
-          "name": "MARO",
-          "url": "https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn"
-        }
-      ],
-      "duration_ms": 197994,
-      "name": "can you see me?",
-      "url": "https://open.spotify.com/track/0PqyrHOwAMA43it710rAor"
-    },
-    {
-      "added_at": "2023-11-30 10:58:33",
-      "album": {
-        "name": "Deadbeat Gospel",
-        "url": "https://open.spotify.com/album/2idTKvVf3bPURpVdZ8k6ZH"
-      },
-      "artists": [
-        {
-          "name": "Barry Can't Swim",
-          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
-        },
-        {
-          "name": "somedeadbeat",
-          "url": "https://open.spotify.com/artist/3ZNGHjHAtesA1czp8QKYK6"
-        }
-      ],
-      "duration_ms": 254791,
-      "name": "Deadbeat Gospel",
-      "url": "https://open.spotify.com/track/3pSkRsuZv57a1yCxJPiBiT"
-    },
-    {
-      "added_at": "2023-11-30 10:58:33",
-      "album": {
         "name": "Actual Life 2 Piano EP (February 2 - October 15 2021)",
         "url": "https://open.spotify.com/album/7wAADcoEepJlzQPfKlX5S3"
       },
@@ -983,6 +947,22 @@
       "duration_ms": 309000,
       "name": "Faisal (London Bridge Station)",
       "url": "https://open.spotify.com/track/1kpaYlHQcazd3U3HpY7uhi"
+    },
+    {
+      "added_at": "2023-11-30 10:58:33",
+      "album": {
+        "name": "can you see me?",
+        "url": "https://open.spotify.com/album/6lvr2vceq0j5YhJUQTPSKE"
+      },
+      "artists": [
+        {
+          "name": "MARO",
+          "url": "https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn"
+        }
+      ],
+      "duration_ms": 197994,
+      "name": "can you see me?",
+      "url": "https://open.spotify.com/track/0PqyrHOwAMA43it710rAor"
     },
     {
       "added_at": "2023-11-30 10:58:33",
@@ -1023,6 +1003,26 @@
     {
       "added_at": "2023-11-30 10:58:33",
       "album": {
+        "name": "Deadbeat Gospel",
+        "url": "https://open.spotify.com/album/2idTKvVf3bPURpVdZ8k6ZH"
+      },
+      "artists": [
+        {
+          "name": "Barry Can't Swim",
+          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
+        },
+        {
+          "name": "somedeadbeat",
+          "url": "https://open.spotify.com/artist/3ZNGHjHAtesA1czp8QKYK6"
+        }
+      ],
+      "duration_ms": 254791,
+      "name": "Deadbeat Gospel",
+      "url": "https://open.spotify.com/track/3pSkRsuZv57a1yCxJPiBiT"
+    },
+    {
+      "added_at": "2023-11-30 10:58:33",
+      "album": {
         "name": "Ask",
         "url": "https://open.spotify.com/album/4FkzJu0EGu2Y5zz7XQpQQD"
       },
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2023-11-30 10:58:33",
       "album": {
-        "name": "Healing",
-        "url": "https://open.spotify.com/album/0A8OvnT0h2rXSqZjdSdwQF"
-      },
-      "artists": [
-        {
-          "name": "TWO LANES",
-          "url": "https://open.spotify.com/artist/7mnuMLgvXdCWzyB4sQCG7k"
-        }
-      ],
-      "duration_ms": 251694,
-      "name": "Healing",
-      "url": "https://open.spotify.com/track/6BFgRgJWIuIba0K5IKupnT"
-    },
-    {
-      "added_at": "2023-11-30 10:58:33",
-      "album": {
         "name": "Hope For Sale",
         "url": "https://open.spotify.com/album/2opiJIrYClkW7qD2vM6vSi"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 184906,
       "name": "Weightless",
       "url": "https://open.spotify.com/track/39ctmPVTtAMKeVJhMq5dS5"
+    },
+    {
+      "added_at": "2023-11-30 10:58:33",
+      "album": {
+        "name": "Healing",
+        "url": "https://open.spotify.com/album/0A8OvnT0h2rXSqZjdSdwQF"
+      },
+      "artists": [
+        {
+          "name": "TWO LANES",
+          "url": "https://open.spotify.com/artist/7mnuMLgvXdCWzyB4sQCG7k"
+        }
+      ],
+      "duration_ms": 251694,
+      "name": "Healing",
+      "url": "https://open.spotify.com/track/6BFgRgJWIuIba0K5IKupnT"
     },
     {
       "added_at": "2023-11-30 10:58:33",
@@ -1111,26 +1111,6 @@
     {
       "added_at": "2023-11-30 10:58:33",
       "album": {
-        "name": "Astray",
-        "url": "https://open.spotify.com/album/5T1KTLXebGps2jgsr7opyz"
-      },
-      "artists": [
-        {
-          "name": "CRi",
-          "url": "https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi"
-        },
-        {
-          "name": "Half Moon Run",
-          "url": "https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n"
-        }
-      ],
-      "duration_ms": 233000,
-      "name": "Astray",
-      "url": "https://open.spotify.com/track/6mN1BAzH2eM6Plt40q4BYf"
-    },
-    {
-      "added_at": "2023-11-30 10:58:33",
-      "album": {
         "name": "When The Light Breaks",
         "url": "https://open.spotify.com/album/3M6HrQ6zlE9wwcVmLB5r2h"
       },
@@ -1143,6 +1123,26 @@
       "duration_ms": 225272,
       "name": "Tulum",
       "url": "https://open.spotify.com/track/6mqkM04Ia7KAJUaivGXzH4"
+    },
+    {
+      "added_at": "2023-11-30 10:58:33",
+      "album": {
+        "name": "Hollow",
+        "url": "https://open.spotify.com/album/13R5GMY8KhoR2HNyYblrhU"
+      },
+      "artists": [
+        {
+          "name": "Emmit Fenn",
+          "url": "https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6"
+        },
+        {
+          "name": "Shallou",
+          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
+        }
+      ],
+      "duration_ms": 254608,
+      "name": "Hollow",
+      "url": "https://open.spotify.com/track/0QWfkVxD0iy0a8vRhQWm3s"
     },
     {
       "added_at": "2023-11-30 10:58:33",
@@ -1171,22 +1171,38 @@
     {
       "added_at": "2023-11-30 10:58:33",
       "album": {
-        "name": "Tides",
-        "url": "https://open.spotify.com/album/2ygrwR30mOdEfqh2eJcGNY"
+        "name": "Blue",
+        "url": "https://open.spotify.com/album/3DD7MzX5oOQhkOUpJhGIIP"
       },
       "artists": [
         {
-          "name": "Bonobo",
-          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
-        },
-        {
-          "name": "Jamila Woods",
-          "url": "https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B"
+          "name": "Daily J",
+          "url": "https://open.spotify.com/artist/5Eu1oxL5oJhJxbRZYuuJEs"
         }
       ],
-      "duration_ms": 226146,
-      "name": "Tides",
-      "url": "https://open.spotify.com/track/7rRYiBxeudiHMNmgptnne9"
+      "duration_ms": 206520,
+      "name": "Blue",
+      "url": "https://open.spotify.com/track/15oqkxMUZc8vrA7D2aV81v"
+    },
+    {
+      "added_at": "2023-11-30 10:58:33",
+      "album": {
+        "name": "Astray",
+        "url": "https://open.spotify.com/album/5T1KTLXebGps2jgsr7opyz"
+      },
+      "artists": [
+        {
+          "name": "CRi",
+          "url": "https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi"
+        },
+        {
+          "name": "Half Moon Run",
+          "url": "https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n"
+        }
+      ],
+      "duration_ms": 233000,
+      "name": "Astray",
+      "url": "https://open.spotify.com/track/6mN1BAzH2eM6Plt40q4BYf"
     },
     {
       "added_at": "2023-11-30 10:58:33",
@@ -1207,54 +1223,22 @@
     {
       "added_at": "2023-11-30 10:58:33",
       "album": {
-        "name": "Blue",
-        "url": "https://open.spotify.com/album/3DD7MzX5oOQhkOUpJhGIIP"
+        "name": "Tides",
+        "url": "https://open.spotify.com/album/2ygrwR30mOdEfqh2eJcGNY"
       },
       "artists": [
         {
-          "name": "Daily J",
-          "url": "https://open.spotify.com/artist/5Eu1oxL5oJhJxbRZYuuJEs"
-        }
-      ],
-      "duration_ms": 206520,
-      "name": "Blue",
-      "url": "https://open.spotify.com/track/15oqkxMUZc8vrA7D2aV81v"
-    },
-    {
-      "added_at": "2023-11-30 10:58:33",
-      "album": {
-        "name": "Above Me",
-        "url": "https://open.spotify.com/album/64djkjEvJa2DO3nhus3uHo"
-      },
-      "artists": [
-        {
-          "name": "LEISURE",
-          "url": "https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R"
-        }
-      ],
-      "duration_ms": 214440,
-      "name": "Above Me",
-      "url": "https://open.spotify.com/track/2SueOYex8L8EwV4CTKPMbA"
-    },
-    {
-      "added_at": "2023-11-30 10:58:33",
-      "album": {
-        "name": "Hollow",
-        "url": "https://open.spotify.com/album/13R5GMY8KhoR2HNyYblrhU"
-      },
-      "artists": [
-        {
-          "name": "Emmit Fenn",
-          "url": "https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6"
+          "name": "Bonobo",
+          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
         },
         {
-          "name": "Shallou",
-          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
+          "name": "Jamila Woods",
+          "url": "https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B"
         }
       ],
-      "duration_ms": 254608,
-      "name": "Hollow",
-      "url": "https://open.spotify.com/track/0QWfkVxD0iy0a8vRhQWm3s"
+      "duration_ms": 226146,
+      "name": "Tides",
+      "url": "https://open.spotify.com/track/7rRYiBxeudiHMNmgptnne9"
     },
     {
       "added_at": "2023-11-30 10:58:33",
@@ -1275,22 +1259,34 @@
     {
       "added_at": "2023-11-30 10:58:33",
       "album": {
-        "name": "malo okoma",
-        "url": "https://open.spotify.com/album/7LMiwsl0kMpnzRyQjzowCV"
+        "name": "Above Me",
+        "url": "https://open.spotify.com/album/64djkjEvJa2DO3nhus3uHo"
       },
       "artists": [
         {
-          "name": "dj poolboi",
-          "url": "https://open.spotify.com/artist/3uL9a8QRwQ6J8Sc7NYK7oJ"
-        },
-        {
-          "name": "Theresa Ng'ambi",
-          "url": "https://open.spotify.com/artist/1HhaUK3JlqgSpQ4noxzCHI"
+          "name": "LEISURE",
+          "url": "https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R"
         }
       ],
-      "duration_ms": 245437,
-      "name": "malo okoma - Radio Edit",
-      "url": "https://open.spotify.com/track/7tdviypkABEstu9z7gSB27"
+      "duration_ms": 214440,
+      "name": "Above Me",
+      "url": "https://open.spotify.com/track/2SueOYex8L8EwV4CTKPMbA"
+    },
+    {
+      "added_at": "2023-11-30 10:58:33",
+      "album": {
+        "name": "Loner",
+        "url": "https://open.spotify.com/album/0sFdU2ngIsxgpErPAwgbvq"
+      },
+      "artists": [
+        {
+          "name": "Alison Wonderland",
+          "url": "https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW"
+        }
+      ],
+      "duration_ms": 229213,
+      "name": "Something Real",
+      "url": "https://open.spotify.com/track/1Z0N9hxlzZRPAKI5Q33jsq"
     }
   ],
   "unique_name": "Just Chill",

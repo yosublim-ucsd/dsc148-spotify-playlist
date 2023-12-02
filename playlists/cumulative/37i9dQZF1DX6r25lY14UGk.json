@@ -188,7 +188,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 151146,
       "name": "Be Yourself",
       "url": "https://open.spotify.com/track/5dezcmeHDqLPVGpQ4Kflcf"
@@ -386,6 +386,24 @@
       "duration_ms": 82509,
       "name": "Burpin' Bob the Surfin' Frog",
       "url": "https://open.spotify.com/track/3Sjc0K3ehe7lXPzDKKelWM"
+    },
+    {
+      "album": {
+        "name": "Clap your hands",
+        "url": "https://open.spotify.com/album/1cAd8oEc0Dm980LLr6GnmU"
+      },
+      "artists": [
+        {
+          "name": "LooLoo Kids",
+          "url": "https://open.spotify.com/artist/2njkfzRhOJFKLWFTu8FNWx"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101124,
+      "name": "Clap your hands",
+      "url": "https://open.spotify.com/track/34qOyRkeL1iCxBvPSOkRm8"
     },
     {
       "album": {
@@ -1810,7 +1828,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 145384,
       "name": "Loon",
       "url": "https://open.spotify.com/track/0T5r5FKRfVQMqkDmhcAeGP"
@@ -2082,6 +2100,24 @@
       "duration_ms": 140367,
       "name": "Outside Time (My Favourite Time of Day)",
       "url": "https://open.spotify.com/track/62zIyjEJQV9ABAx9fc0ZoU"
+    },
+    {
+      "album": {
+        "name": "Songs for Peaceful Pandas, Vol. 2",
+        "url": "https://open.spotify.com/album/5TaNJtwnMN8XTpgxP3ioMs"
+      },
+      "artists": [
+        {
+          "name": "Kira Willey",
+          "url": "https://open.spotify.com/artist/6GSLe8wDhKFqIPqsB1Ricg"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119613,
+      "name": "Peaceful Like A Panda",
+      "url": "https://open.spotify.com/track/3jG4vgtODLrgLUdIJlD8Me"
     },
     {
       "album": {

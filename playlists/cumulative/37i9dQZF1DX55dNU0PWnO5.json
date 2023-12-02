@@ -2400,7 +2400,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 177906,
       "name": "Envy",
       "url": "https://open.spotify.com/track/6fvjWDduFww2xtnGDvoIqb"
@@ -3266,6 +3266,28 @@
       "duration_ms": 203597,
       "name": "I Love Her",
       "url": "https://open.spotify.com/track/7EuCAIsAs6yAA6zk7rHn1G"
+    },
+    {
+      "album": {
+        "name": "i've prepared my entire life for this",
+        "url": "https://open.spotify.com/album/562yLlE32KphWhkVjcMRpm"
+      },
+      "artists": [
+        {
+          "name": "cosmic collective",
+          "url": "https://open.spotify.com/artist/6ereX9sq3PEIBLASJA8YEW"
+        },
+        {
+          "name": "DESH",
+          "url": "https://open.spotify.com/artist/6nJ2MPazBFrwU07sGCpdcO"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177051,
+      "name": "i've prepared my entire life for this",
+      "url": "https://open.spotify.com/track/497DyJqfw3viIe75HjzcGH"
     },
     {
       "album": {
@@ -7909,6 +7931,24 @@
     },
     {
       "album": {
+        "name": "White Out",
+        "url": "https://open.spotify.com/album/2F0W8v3yo93XOmFSG40CDj"
+      },
+      "artists": [
+        {
+          "name": "FKAjazz",
+          "url": "https://open.spotify.com/artist/6a9Z8FfjrfedFsKkB8HYIr"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168413,
+      "name": "White Out",
+      "url": "https://open.spotify.com/track/4YZ9cfpQajbJksSLynprVr"
+    },
+    {
+      "album": {
         "name": "Who Feels It Knows It",
         "url": "https://open.spotify.com/album/4QFGpVgLpANQ6pgSxreb0d"
       },
@@ -8104,7 +8144,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 219795,
       "name": "yaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa!",
       "url": "https://open.spotify.com/track/1mzAaSebLHpG1iu7vC0jTJ"

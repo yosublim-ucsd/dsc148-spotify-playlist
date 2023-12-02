@@ -411,6 +411,28 @@
     },
     {
       "album": {
+        "name": "Diethylamide Remix",
+        "url": "https://open.spotify.com/album/2DDtDhk2ONqt28cUwqzNxg"
+      },
+      "artists": [
+        {
+          "name": "Capital Monkey",
+          "url": "https://open.spotify.com/artist/2iCpXbyRRpN1IMRUkuSyGA"
+        },
+        {
+          "name": "Konaefiz",
+          "url": "https://open.spotify.com/artist/7d2PyJyMVaEv9R4Uq3bzOr"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258206,
+      "name": "Diethylamide Remix",
+      "url": "https://open.spotify.com/track/3SiGpFJ0MEMJdseyUCrEJf"
+    },
+    {
+      "album": {
         "name": "DMT",
         "url": "https://open.spotify.com/album/2mIZCsIe92lDHxDC7BCxo5"
       },
@@ -1480,7 +1502,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 163885,
       "name": "Red Eagle",
       "url": "https://open.spotify.com/track/4QCKZtXp4l5NyelhtbOUjC"
@@ -1688,7 +1710,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 141548,
       "name": "Stranded",
       "url": "https://open.spotify.com/track/276yiDfuK6Fjd7b7ieE6LO"
@@ -1728,6 +1750,24 @@
       "duration_ms": 165600,
       "name": "Technical Journey",
       "url": "https://open.spotify.com/track/6pgLNcfT7CknMmjYYgBZwD"
+    },
+    {
+      "album": {
+        "name": "Oceano",
+        "url": "https://open.spotify.com/album/2vbNcfXCrDoJo5YpXrl7cy"
+      },
+      "artists": [
+        {
+          "name": "Vermont (BR)",
+          "url": "https://open.spotify.com/artist/7aS93G9e7XG0GCUATQjqv0"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 331034,
+      "name": "Temple Deep",
+      "url": "https://open.spotify.com/track/1anQDZ5Dxv25hrzKWoILXj"
     },
     {
       "album": {

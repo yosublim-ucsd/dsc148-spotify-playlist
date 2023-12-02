@@ -448,7 +448,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 148000,
       "name": "Clearly",
       "url": "https://open.spotify.com/track/4jQFk9HpGI7J4h8DqAUKsW"
@@ -1205,6 +1205,24 @@
     },
     {
       "album": {
+        "name": "Harmonic Science",
+        "url": "https://open.spotify.com/album/0cmCnqDEIZ6XamJnrqvz2U"
+      },
+      "artists": [
+        {
+          "name": "Dowling",
+          "url": "https://open.spotify.com/artist/0neKNhlcWSaKjxbRNRGczb"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "Harmonic Science",
+      "url": "https://open.spotify.com/track/5L51jltonR4PoeuaU9XnrF"
+    },
+    {
+      "album": {
         "name": "Hold On",
         "url": "https://open.spotify.com/album/1Yyshg4PD11md8uNRapu8x"
       },
@@ -1623,6 +1641,24 @@
     },
     {
       "album": {
+        "name": "New Life",
+        "url": "https://open.spotify.com/album/66S01dVXazALNqnaDa9qBw"
+      },
+      "artists": [
+        {
+          "name": "2 x 5",
+          "url": "https://open.spotify.com/artist/6iknkFhXG6lYtDYPE6LOof"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236132,
+      "name": "New Life",
+      "url": "https://open.spotify.com/track/3fH4OMcoE1TrQ8Jee2JsJn"
+    },
+    {
+      "album": {
         "name": "Night Riding",
         "url": "https://open.spotify.com/album/6fGErE6z1bpMnu6Qm2qRXP"
       },
@@ -1890,6 +1926,24 @@
       "duration_ms": 126101,
       "name": "Past Eleven",
       "url": "https://open.spotify.com/track/1VK0VKSSYrx8Mg3trmV8zL"
+    },
+    {
+      "album": {
+        "name": "Piano Man",
+        "url": "https://open.spotify.com/album/0n7wZMmkSV7FMmB1BO9r1S"
+      },
+      "artists": [
+        {
+          "name": "Piankow",
+          "url": "https://open.spotify.com/artist/3oiqntF7hzsfY8HghMi1rT"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186000,
+      "name": "Piano Man",
+      "url": "https://open.spotify.com/track/57nluTSCxSSYvgrWaqdE9J"
     },
     {
       "album": {
@@ -2380,6 +2434,24 @@
       "duration_ms": 177000,
       "name": "Skin Deep",
       "url": "https://open.spotify.com/track/1CAozfu6bPDxaKe39x030x"
+    },
+    {
+      "album": {
+        "name": "All Gassed Up",
+        "url": "https://open.spotify.com/album/4H8s4gLqdCQ1rGbnbg8T7L"
+      },
+      "artists": [
+        {
+          "name": "Larry Poppinz",
+          "url": "https://open.spotify.com/artist/16CYOuSOMLdhvKDWr5f65A"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196000,
+      "name": "Sober Is the New Drunk",
+      "url": "https://open.spotify.com/track/03JBa2jBWXqiAayEYuZZg0"
     },
     {
       "album": {

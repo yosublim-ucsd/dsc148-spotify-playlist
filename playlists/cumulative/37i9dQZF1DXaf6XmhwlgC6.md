@@ -4,7 +4,7 @@
 
 > Music from the ether to focus and study to.
 
-258 songs - 13 hr 28 min
+259 songs - 13 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -120,6 +120,7 @@
 | [Left Out In the Open](https://open.spotify.com/track/0vNaU0ExADulW8U7RXAP3T) | [Plaice Commes](https://open.spotify.com/artist/103iNifaFqCDUVVglaXb7D) | [Left Out In the Open](https://open.spotify.com/album/5akedcqnnolrF3uoK9jrxT) | 2:24 | 2023-09-08 |  |
 | [Les Paul Sanitarium](https://open.spotify.com/track/3HZOYhBlwuAVKO9wxT66B1) | [Chihei Hatakeyama](https://open.spotify.com/artist/4G1ZsxfEEztbE1VcnNInPg) | [Void XXI](https://open.spotify.com/album/2mIu9oDUCuMCdowK2ocHYt) | 1:57 | 2022-03-30 | 2023-08-25 |
 | [lessly](https://open.spotify.com/track/2U62UKX9kl7lHsLn5ANsZp) | [Leo Lind](https://open.spotify.com/artist/5msHhK18amqcRvl1iznOWr) | [Neighborly Nod](https://open.spotify.com/album/1C7RHVtYees2YEL00XSsbs) | 2:23 | 2023-03-31 |  |
+| [Levitate](https://open.spotify.com/track/1rGnzd7MyIyNW3BW7qaGf9) | [Lykke Juno](https://open.spotify.com/artist/6cJCpDjNQBjGqBNB453M9J) | [Levitate](https://open.spotify.com/album/3YL3vJTN2gvf61j8iJSfFI) | 2:26 | 2023-12-01 |  |
 | [Life Balance](https://open.spotify.com/track/5Fy3qUli32XAqwvMibwibE) | [Courtney Barnett](https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y) | [Start Somewhere](https://open.spotify.com/album/45Qh4kJ9fSnjo6awLgYew8) | 3:20 | 2023-08-04 |  |
 | [line up](https://open.spotify.com/track/4RQFT3aZPjhuafwXNUnL6x) | [Golden Horses](https://open.spotify.com/artist/5MXNb6vuHgdZalR71LkKgd) | [line up](https://open.spotify.com/album/1FzTPoHFZ0QDthxwSHCBgl) | 2:25 | 2022-03-30 |  |
 | [lips list](https://open.spotify.com/track/632FOOc5n5wRJbBvqWliwT) | [Däalo](https://open.spotify.com/artist/63MSacJKhcx4g646lJsDL7) | [lips list](https://open.spotify.com/album/3O4rUMESlirkPiWXU26MFO) | 3:12 | 2022-03-30 |  |
@@ -166,7 +167,7 @@
 | [Pendulum Man](https://open.spotify.com/track/31rWHoaORhEfXqqr6y48Hm) | [Bark Psychosis](https://open.spotify.com/artist/0QwH5InvCwfL4UbYkjP9pi) | [Hex](https://open.spotify.com/album/7j98uMKCZuBQU1SPcrQAxP) | 9:53 | 2022-03-30 |  |
 | [Perceptive](https://open.spotify.com/track/7Mi5eCOPGZI4jwlpzb0xSC) | [Ravndala](https://open.spotify.com/artist/40OmNBDYoyRn43AjGjJzlH) | [Perceptive](https://open.spotify.com/album/60jpACFvJmrcVpXft0PKH4) | 3:32 | 2023-05-19 |  |
 | [pound for pound](https://open.spotify.com/track/6QqlgQ6xSc4SrsP0vWlmpa) | [Garden Collective](https://open.spotify.com/artist/6rT3tJQmePSMr68mPaqyyp) | [pound for pound](https://open.spotify.com/album/7uFbEtssmk8DYTKqMwjAil) | 2:50 | 2022-11-11 |  |
-| [Prayer of Dreams](https://open.spotify.com/track/56Q6Ub5JGADQglD5FaKqfk) | [Videung](https://open.spotify.com/artist/5otZiXoT8hB9Gi1oFcz4h0) | [Prayer of Dreams](https://open.spotify.com/album/41MmwTxWQMuKWI8I2wWh8J) | 3:00 | 2022-03-30 |  |
+| [Prayer of Dreams](https://open.spotify.com/track/56Q6Ub5JGADQglD5FaKqfk) | [Videung](https://open.spotify.com/artist/5otZiXoT8hB9Gi1oFcz4h0) | [Prayer of Dreams](https://open.spotify.com/album/41MmwTxWQMuKWI8I2wWh8J) | 3:00 | 2022-03-30 | 2023-12-02 |
 | [Pure Flow](https://open.spotify.com/track/4lEkHSN5qOxdaEDeNHVRME) | [Hollow Light](https://open.spotify.com/artist/0ANrW9wJEthapCrJsd4i4F) | [Pure Flow](https://open.spotify.com/album/6gydX9nKC9C8PcDvmzaSRA) | 2:53 | 2023-03-10 |  |
 | [Quiet before the Tempest](https://open.spotify.com/track/64VfF4iKHho1Y5q5e2Ltwo) | [Across The Great Valley](https://open.spotify.com/artist/2P1TOog6e612HmJ9bugxav) | [Quiet before the Tempest](https://open.spotify.com/album/7AxACJsdvmSjhvB9RiiGWe) | 2:43 | 2023-02-17 |  |
 | [Reconnection](https://open.spotify.com/track/2pAZtBeTf2wd97g709xOXx) | [Enchanted Feel](https://open.spotify.com/artist/6Rfx3Kq2IphTcrtkQRejYX) | [Reconnection](https://open.spotify.com/album/6fqlzVb31jQJUJgdoLXsvc) | 1:54 | 2023-01-27 | 2023-07-29 |

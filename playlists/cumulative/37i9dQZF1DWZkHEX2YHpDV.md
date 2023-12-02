@@ -4,7 +4,7 @@
 
 > pop punk, emo, post\-hardcore, alt, & more\. Cover: Four Year Strong
 
-1,077 songs - 2 day 8 hr 54 min
+1,078 songs - 2 day 8 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -508,6 +508,7 @@
 | [James Dean](https://open.spotify.com/track/3KYA5PWMNOHa7ouykwXMgx) | [The Wrecks](https://open.spotify.com/artist/458aS6ALc3QkzwfR5USt34) | [Panic Vertigo \- EP](https://open.spotify.com/album/3rhcRidkGZFMGbnshUj7Qm) | 3:18 | 2021-12-10 | 2022-05-19 |
 | [Jessica](https://open.spotify.com/track/6yxywHX0rto296j9LsM3Pt) | [girlfriends](https://open.spotify.com/artist/4Dwhb9SL7iO3L27oXvEiO7) | [girlfriends](https://open.spotify.com/album/3cuyb6sSpCSEc6TLBh1sUQ) | 2:27 | 2021-12-10 | 2022-05-20 |
 | [Jessie's Girl 2 \- Director's Cut](https://open.spotify.com/track/1lZ86E2Dhleb9D6BhlMKvA) | [Coheed and Cambria](https://open.spotify.com/artist/3utxjLheHaVEd9bPjQRsy8) | [Jessie's Girl 2](https://open.spotify.com/album/5Zfdfa6sjhaLSCSsCDDis7) | 3:51 | 2021-12-10 | 2022-07-24 |
+| [Jesus](https://open.spotify.com/track/4ELaNiaXfb6V8RtGnPEjOv) | [Young Culture](https://open.spotify.com/artist/2LbKmGXwOFCFl4KJRAfMSr), [Daisy Grenade](https://open.spotify.com/artist/3Pj6dfWTnH3sYHctX0EZMH) | [Jesus](https://open.spotify.com/album/6tVYzz3VmqLcRSGGZu14pB) | 2:30 | 2023-11-10 |  |
 | [Jesus Can't Save You](https://open.spotify.com/track/3I0LB9kaFoeGl6pb2RHzDJ) | [DC The Don](https://open.spotify.com/artist/3YYbAExunnHv5pW7GUZefk) | [Jesus Can't Save You](https://open.spotify.com/album/0hccm7QD6LJXkY44eymod5) | 3:05 | 2022-02-04 | 2022-04-10 |
 | [Joy Notes](https://open.spotify.com/track/1wXMDIfGsQtercGl4X2qxe) | [Rich People](https://open.spotify.com/artist/5lSyekL7APqKdusY0pGcGf) | [Joy Notes](https://open.spotify.com/album/4DeJ2CdZDBlfNGA4QYHFXY) | 3:50 | 2021-12-10 | 2022-07-26 |
 | [jump](https://open.spotify.com/track/2NbTcTv3m8t7wAGUvPhhp0) | [Against The Current](https://open.spotify.com/artist/6yhD1KjhLxIETFF7vIRf8B) | [fever](https://open.spotify.com/album/4MwOuqjdK7OP1xaRPo83xT) | 2:40 | 2021-12-10 | 2022-02-12 |
@@ -629,7 +630,7 @@
 | [Mrs\. David](https://open.spotify.com/track/6kepVFnWcsvPl6s9oPNZBZ) | [Seaway](https://open.spotify.com/artist/0JXDwBs1sEp6UKoAP58UdF) | [Big Vibe](https://open.spotify.com/album/5vq4KjTtsUKmWWIlHoWZad) | 3:21 | 2022-07-08 | 2022-08-03 |
 | [My Bad](https://open.spotify.com/track/6HR9wV5qqubWypqNarnsRY) | [Gardenside](https://open.spotify.com/artist/0GiBy0hmGfT2u3tUb7gtkP) | [My Bad](https://open.spotify.com/album/2TTwORe4W9EfkBTBK7ULjy) | 3:29 | 2022-03-25 | 2022-04-20 |
 | [My Friends](https://open.spotify.com/track/1G9Z8qsHYfVE1sYn1NEIdF) | [No Love For The Middle Child](https://open.spotify.com/artist/7HWfshpjlGldmRa4gymvjX), [Zero 9:36](https://open.spotify.com/artist/1V599H9vfq6hWe2hGzyzI0), [Stand Atlantic](https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh) | [My Friends](https://open.spotify.com/album/5vjZK0lwnugxDziWPl7Pfz) | 3:12 | 2022-10-07 | 2022-10-14 |
-| [My Friends](https://open.spotify.com/track/2xqvthP2FrDdUpa37fxNyB) | [No Love For The Middle Child](https://open.spotify.com/artist/7HWfshpjlGldmRa4gymvjX), [Zero 9:36](https://open.spotify.com/artist/1V599H9vfq6hWe2hGzyzI0), [Stand Atlantic](https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh) | [Say It Like You Mean It](https://open.spotify.com/album/0XvzRBqVK9dg7eCLZpQ5SH) | 3:12 | 2022-10-07 |  |
+| [My Friends](https://open.spotify.com/track/2xqvthP2FrDdUpa37fxNyB) | [No Love For The Middle Child](https://open.spotify.com/artist/7HWfshpjlGldmRa4gymvjX), [Zero 9:36](https://open.spotify.com/artist/1V599H9vfq6hWe2hGzyzI0), [Stand Atlantic](https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh) | [Say It Like You Mean It](https://open.spotify.com/album/0XvzRBqVK9dg7eCLZpQ5SH) | 3:12 | 2022-10-07 | 2023-12-02 |
 | [My Friends](https://open.spotify.com/track/2yS6CimlH5ZIU61HsCtLxg) | [No Love For The Middle Child](https://open.spotify.com/artist/7HWfshpjlGldmRa4gymvjX), [Zero 9:36](https://open.spotify.com/artist/1V599H9vfq6hWe2hGzyzI0), [Stand Atlantic](https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh) | [My Friends](https://open.spotify.com/album/4ny79UyAfOylO1MiMQo8Pp) | 3:12 | 2022-08-02 | 2022-10-13 |
 | [My Friends](https://open.spotify.com/track/5KYHoITr17tokfevnDnMZJ) | [No Love For The Middle Child](https://open.spotify.com/artist/7HWfshpjlGldmRa4gymvjX), [Zero 9:36](https://open.spotify.com/artist/1V599H9vfq6hWe2hGzyzI0), [Stand Atlantic](https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh) | [Nightmares](https://open.spotify.com/album/1ErIOAz4OLXPKmCa7AAk4j) | 3:12 | 2022-11-04 | 2022-11-14 |
 | [My Name \(In Your Mouth\)](https://open.spotify.com/track/0kwM0tnvUAFrOim4oQ7YXh) | [John Harvie](https://open.spotify.com/artist/6kTaghFWmvBbtenJUJks6h) | [My Name \(In Your Mouth\)](https://open.spotify.com/album/3ECvrh6p1TrW3OGBdJhqil) | 2:02 | 2022-02-25 | 2022-07-28 |

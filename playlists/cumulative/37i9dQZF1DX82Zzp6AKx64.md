@@ -4,7 +4,7 @@
 
 > Emotional and powerful \- let your feelings out with these classic power ballads\. Cover: Tina Turner
 
-203 songs - 16 hr 8 min
+204 songs - 16 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -159,7 +159,7 @@
 | [Sleeping \(In The Fire\)](https://open.spotify.com/track/6uBO5ou5gJy8kDBUZrK9nR) | [W.A.S.P.](https://open.spotify.com/artist/3BVkDHWRvLJEyKdvhLbjsq) | [W.A.S.P.](https://open.spotify.com/album/25pbI5TFqt2tzGS4XSMnog) | 3:55 | 2022-01-21 |  |
 | [Slippin' Away](https://open.spotify.com/track/6VixoTtuyI6L6u9y55D3lB) | [Dokken](https://open.spotify.com/artist/09hNSPPOxDop4FRdr6UEnq) | [Under Lock and Key](https://open.spotify.com/album/7fzsiqMaaS469OzP59V86A) | 3:49 | 2022-01-21 | 2022-04-21 |
 | [Something To Believe In \- Remastered 2003](https://open.spotify.com/track/7pUYjnFTXMs0mFWsE9epqV) | [Poison](https://open.spotify.com/artist/1fBCIkoPOPCDLUxGuWNvyo) | [Flesh & Blood](https://open.spotify.com/album/7alngtync76VqYWSKxcBhB) | 5:28 | 2020-04-30 |  |
-| [Sometimes She Cries](https://open.spotify.com/track/0m5RdyFFcOKhut3sGkeWHG) | [Warrant](https://open.spotify.com/artist/7HLvzuM9p11k9lUQfSM4Rq) | [Dirty Rotten Filthy Stinking Rich](https://open.spotify.com/album/1HWrP6U3m3z23H5FxFsxYS) | 4:43 | 2020-04-30 |  |
+| [Sometimes She Cries](https://open.spotify.com/track/0m5RdyFFcOKhut3sGkeWHG) | [Warrant](https://open.spotify.com/artist/7HLvzuM9p11k9lUQfSM4Rq) | [Dirty Rotten Filthy Stinking Rich](https://open.spotify.com/album/1HWrP6U3m3z23H5FxFsxYS) | 4:43 | 2020-04-30 | 2023-12-02 |
 | [Still Loving You](https://open.spotify.com/track/7kjsCbksOZotNNHOvKsJJh) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Love At First Sting](https://open.spotify.com/album/71cfSO0iO1fjgQLEb3Wc6C) | 6:27 | 2022-01-21 |  |
 | [Still Loving You](https://open.spotify.com/track/6KGXbG5wEb6WlIFAGKDQh0) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Love At First Sting \(50th Anniversary Deluxe Edition\)](https://open.spotify.com/album/5mtL1sxFQ8vKzv1hk6t0xX) | 6:28 | 2020-04-30 | 2022-07-28 |
 | [Still Lovin’ You](https://open.spotify.com/track/6JeukHIbgOMHEmL4Qpyz7G) | [George Lynch](https://open.spotify.com/artist/4t9bqcZJUC9cAjgRRNVm6u), [Steve Whitman](https://open.spotify.com/artist/3kQb9aSULrdlZWFq1IfiLp) | [80s Metal Essentials](https://open.spotify.com/album/2TVw53GtUSghMd1GJ1rYNU) | 4:54 | 2022-01-21 | 2022-04-21 |
@@ -207,6 +207,7 @@
 | [Wild World \- 2009 Remastered Version](https://open.spotify.com/track/2kj5f1eRhUFhW6K0qUwoD8) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Bump Ahead \[Expanded\]](https://open.spotify.com/album/4CgsfLFMXaJVXz0k2mHkVA) | 3:28 | 2020-04-30 |  |
 | [Wind Of Change](https://open.spotify.com/track/3ovjw5HZZv43SxTwApooCM) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Crazy World](https://open.spotify.com/album/3dLKM8bD8R3H3XnSOXGjTF) | 5:12 | 2022-01-21 |  |
 | [Wind Of Change](https://open.spotify.com/track/6wjSNO6uJYlgbbfauyWhiw) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Crazy World](https://open.spotify.com/album/4mGV3pZqcrUk0OSC8HBT96) | 5:13 | 2020-04-30 | 2022-07-29 |
+| [Without You](https://open.spotify.com/track/2t8hAwOuHbNOl76LBWMU0R) | [Mötley Crüe](https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL) | [Dr\. Feelgood \(Deluxe Version\)](https://open.spotify.com/album/0VPad241NfcHMOXcRcLrDe) | 4:28 | 2023-05-24 |  |
 | [Without You](https://open.spotify.com/track/6BCGNM6wYG0SpXBlTpYkiS) | [Mötley Crüe](https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL) | [Dr Feelgood](https://open.spotify.com/album/4un307nFYL2FmJEy0GslW4) | 4:28 | 2020-04-30 | 2022-07-29 |
 | [Without You](https://open.spotify.com/track/2Pntw3RoGXhANFihOS8XyD) | [Mötley Crüe](https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL) | [Dr\. Feelgood \(Deluxe Version\)](https://open.spotify.com/album/23krn1eEy7o3u9laLI1PLD) | 4:30 | 2022-01-21 | 2023-11-18 |
 | [Woman](https://open.spotify.com/track/7m3sxdDtVDitSxPywPi8H8) | [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY) | [Under Cover](https://open.spotify.com/album/5yIXVMM70ay1mQ5kCWpidF) | 3:45 | 2022-01-21 | 2022-04-21 |

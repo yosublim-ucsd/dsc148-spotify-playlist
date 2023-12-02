@@ -1,12 +1,12 @@
 {
   "description": "Knees go down and the prayers go up",
-  "num_followers": 19246,
+  "num_followers": 19334,
   "original_name": "On Bended Knees",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1Y2IxYTViMmNhNWQ0YWM3MDM1MWViZDIwODI2OTUzNzA5MDgxOGJl",
+  "snapshot_id": "MCxmM2JkZGNhZDEwY2ZlMzMyNGEwYzBmMTIyMGQzMzA3M2JhMjgzYTQ1",
   "tracks": [
     {
       "added_at": "2023-09-14 23:00:00",
@@ -363,18 +363,26 @@
     {
       "added_at": "2023-09-14 23:00:00",
       "album": {
-        "name": "Return Rev. 2:4",
-        "url": "https://open.spotify.com/album/4thMivYYO5sTAfgCfSU7tI"
+        "name": "SATISFIED",
+        "url": "https://open.spotify.com/album/3CZq06hpGQ6cIUIUnPHhaU"
       },
       "artists": [
         {
-          "name": "Victoria Orenze",
-          "url": "https://open.spotify.com/artist/4NS4onS3tvVfCJk2sJ7vso"
+          "name": "Mercy Chinwo",
+          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
+        },
+        {
+          "name": "JJ Hairston",
+          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
+        },
+        {
+          "name": "Youthful Praise",
+          "url": "https://open.spotify.com/artist/6RHDefZfOAyKIPCLnwOOq0"
         }
       ],
-      "duration_ms": 531375,
-      "name": "On Fire",
-      "url": "https://open.spotify.com/track/2rn3SbXpuzacWTj6WQEB2W"
+      "duration_ms": 507376,
+      "name": "Excess Love (feat. JJ Hairston & Youthful Praise) - Remix",
+      "url": "https://open.spotify.com/track/02UAAdtYBua2p4Rj7qHjer"
     },
     {
       "added_at": "2023-09-14 23:00:00",
@@ -415,26 +423,18 @@
     {
       "added_at": "2023-09-14 23:00:00",
       "album": {
-        "name": "SATISFIED",
-        "url": "https://open.spotify.com/album/3CZq06hpGQ6cIUIUnPHhaU"
+        "name": "Return Rev. 2:4",
+        "url": "https://open.spotify.com/album/4thMivYYO5sTAfgCfSU7tI"
       },
       "artists": [
         {
-          "name": "Mercy Chinwo",
-          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
-        },
-        {
-          "name": "JJ Hairston",
-          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
-        },
-        {
-          "name": "Youthful Praise",
-          "url": "https://open.spotify.com/artist/6RHDefZfOAyKIPCLnwOOq0"
+          "name": "Victoria Orenze",
+          "url": "https://open.spotify.com/artist/4NS4onS3tvVfCJk2sJ7vso"
         }
       ],
-      "duration_ms": 507376,
-      "name": "Excess Love (feat. JJ Hairston & Youthful Praise) - Remix",
-      "url": "https://open.spotify.com/track/02UAAdtYBua2p4Rj7qHjer"
+      "duration_ms": 531375,
+      "name": "On Fire",
+      "url": "https://open.spotify.com/track/2rn3SbXpuzacWTj6WQEB2W"
     },
     {
       "added_at": "2023-09-14 23:00:00",
@@ -539,6 +539,22 @@
     {
       "added_at": "2023-09-14 23:00:00",
       "album": {
+        "name": "Suddenly + Amazing God (Double Single)",
+        "url": "https://open.spotify.com/album/79mjv5qhSTzJ3gMM8k7lMS"
+      },
+      "artists": [
+        {
+          "name": "Mercy Chinwo",
+          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
+        }
+      ],
+      "duration_ms": 296147,
+      "name": "Amazing God",
+      "url": "https://open.spotify.com/track/0NtWw4mWMpScT8b9m6unIu"
+    },
+    {
+      "added_at": "2023-09-14 23:00:00",
+      "album": {
         "name": "A Sound from Heaven",
         "url": "https://open.spotify.com/album/5nskXzeE3eYkoi48SEpeVo"
       },
@@ -563,22 +579,6 @@
       "duration_ms": 402782,
       "name": "Yes You Are the Lord",
       "url": "https://open.spotify.com/track/0ZNI3OqSxNAi3YGVd0ny2w"
-    },
-    {
-      "added_at": "2023-09-14 23:00:00",
-      "album": {
-        "name": "Suddenly + Amazing God (Double Single)",
-        "url": "https://open.spotify.com/album/79mjv5qhSTzJ3gMM8k7lMS"
-      },
-      "artists": [
-        {
-          "name": "Mercy Chinwo",
-          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
-        }
-      ],
-      "duration_ms": 296147,
-      "name": "Amazing God",
-      "url": "https://open.spotify.com/track/0NtWw4mWMpScT8b9m6unIu"
     },
     {
       "added_at": "2023-09-14 23:00:00",
@@ -715,18 +715,18 @@
     {
       "added_at": "2023-09-14 23:00:00",
       "album": {
-        "name": "Unlimited Verse 2",
-        "url": "https://open.spotify.com/album/20YMmzwkCTcSgbk4hB3Jj4"
+        "name": "Lost in His Glory",
+        "url": "https://open.spotify.com/album/5OcrjI1YzaqXYwLe3Eo9T5"
       },
       "artists": [
         {
-          "name": "Frank Edwards",
-          "url": "https://open.spotify.com/artist/5gOBGZay8Nt5orlQI8UDDg"
+          "name": "Sonnie Badu",
+          "url": "https://open.spotify.com/artist/52tpqX8Cxa7eiWUgHHSWBo"
         }
       ],
-      "duration_ms": 281093,
-      "name": "Mma Mma",
-      "url": "https://open.spotify.com/track/7mqy6OedwJcCY3LFvRziFW"
+      "duration_ms": 355800,
+      "name": "Baba",
+      "url": "https://open.spotify.com/track/0H5lLW8qybOadIxSO730jY"
     },
     {
       "added_at": "2023-09-14 23:00:00",
@@ -747,18 +747,18 @@
     {
       "added_at": "2023-09-14 23:00:00",
       "album": {
-        "name": "Lost in His Glory",
-        "url": "https://open.spotify.com/album/5OcrjI1YzaqXYwLe3Eo9T5"
+        "name": "Unlimited Verse 2",
+        "url": "https://open.spotify.com/album/20YMmzwkCTcSgbk4hB3Jj4"
       },
       "artists": [
         {
-          "name": "Sonnie Badu",
-          "url": "https://open.spotify.com/artist/52tpqX8Cxa7eiWUgHHSWBo"
+          "name": "Frank Edwards",
+          "url": "https://open.spotify.com/artist/5gOBGZay8Nt5orlQI8UDDg"
         }
       ],
-      "duration_ms": 355800,
-      "name": "Baba",
-      "url": "https://open.spotify.com/track/0H5lLW8qybOadIxSO730jY"
+      "duration_ms": 281093,
+      "name": "Mma Mma",
+      "url": "https://open.spotify.com/track/7mqy6OedwJcCY3LFvRziFW"
     },
     {
       "added_at": "2023-09-14 23:00:00",
@@ -811,6 +811,22 @@
     {
       "added_at": "2023-09-14 23:00:00",
       "album": {
+        "name": "Lost in His Glory",
+        "url": "https://open.spotify.com/album/5OcrjI1YzaqXYwLe3Eo9T5"
+      },
+      "artists": [
+        {
+          "name": "Sonnie Badu",
+          "url": "https://open.spotify.com/artist/52tpqX8Cxa7eiWUgHHSWBo"
+        }
+      ],
+      "duration_ms": 190946,
+      "name": "Covenant Keeping God",
+      "url": "https://open.spotify.com/track/3S37qaCmNR0ejVOFVBcZCo"
+    },
+    {
+      "added_at": "2023-09-14 23:00:00",
+      "album": {
         "name": "God of Miracles",
         "url": "https://open.spotify.com/album/3zf0GwGizuZX3G7HBoVwgF"
       },
@@ -855,22 +871,6 @@
       "duration_ms": 496285,
       "name": "Onye (Here by Your Grace)",
       "url": "https://open.spotify.com/track/75POWlcXylJsi50mqHxRoY"
-    },
-    {
-      "added_at": "2023-09-14 23:00:00",
-      "album": {
-        "name": "IBUKA",
-        "url": "https://open.spotify.com/album/60LewVA2ONlxDPAXOhfwCQ"
-      },
-      "artists": [
-        {
-          "name": "Frank Edwards",
-          "url": "https://open.spotify.com/artist/5gOBGZay8Nt5orlQI8UDDg"
-        }
-      ],
-      "duration_ms": 302608,
-      "name": "IBUKA",
-      "url": "https://open.spotify.com/track/1L6CfVaAwXZ2Btfial9Uo8"
     }
   ],
   "unique_name": "On Bended Knees",

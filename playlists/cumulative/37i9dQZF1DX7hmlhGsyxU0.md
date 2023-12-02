@@ -4,7 +4,7 @@
 
 > Strings and pianos to accompany your latest great read.
 
-166 songs - 9 hr 0 min
+167 songs - 9 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -173,6 +173,7 @@
 | [What If](https://open.spotify.com/track/7vXfjSymSmza9Boy5pUedX) | [Franco Robert](https://open.spotify.com/artist/3SmMFjYXeSKnh6JOJ1fpIx) | [Transcend](https://open.spotify.com/album/48TZuG4b6WDgNJgvM2IEI1) | 3:32 | 2022-08-12 |  |
 | [Woven Song — piano reworks](https://open.spotify.com/track/1wb6pRSvhekFyXO5j3fXol) | [Hania Rani](https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD), [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [Woven Song — piano reworks](https://open.spotify.com/album/27yZ8bTAOMlvnfU4vaIxvK) | 3:47 | 2022-07-01 | 2022-11-08 |
 | [You Will Never Walk Alone \- Glowworm Rework](https://open.spotify.com/track/1mR4Q4RBnZ7fBFStLKIbVG) | [Maciej Sadowski](https://open.spotify.com/artist/5NtUG4lcabgbge5bNJoX1J), [Glowworm](https://open.spotify.com/artist/6kPNTQ474Zvg8bq86OMutw) | [You Will Never Walk Alone \(Glowworm Rework\)](https://open.spotify.com/album/1KGcUdZHX9AQV7WpfcEwtM) | 3:53 | 2022-06-03 |  |
-| [Zerachiel](https://open.spotify.com/track/0APuGGovBTro3z0a3pdZUn) | [Igor Ferreira](https://open.spotify.com/artist/6w7RikrpXmwrnLc6udBXc1) | [Zerachiel](https://open.spotify.com/album/1qD1l9X0SPLyPhkjoE9C2R) | 3:11 | 2022-06-24 |  |
+| [Zerachiel](https://open.spotify.com/track/0APuGGovBTro3z0a3pdZUn) | [Igor Ferreira](https://open.spotify.com/artist/6w7RikrpXmwrnLc6udBXc1) | [Zerachiel](https://open.spotify.com/album/1qD1l9X0SPLyPhkjoE9C2R) | 3:11 | 2022-06-24 | 2023-12-02 |
+| [Zerachiel](https://open.spotify.com/track/75YWIrM2Veuz4Hlgnswhgp) | [Igor Ferreira](https://open.spotify.com/artist/6w7RikrpXmwrnLc6udBXc1) | [Zerachiel](https://open.spotify.com/album/2p6YgkjGx3GpY85QNQE3SF) | 3:11 | 2023-06-27 |  |
 
 \*This playlist was first scraped on 2022-04-20. Prior content cannot be recovered.

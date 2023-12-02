@@ -2,7 +2,7 @@
 
 ### [Latin Dinner](https://open.spotify.com/playlist/37i9dQZF1DX2zAr9vdmFlU)
 
-> You bring the ingredients\. We bring the flavor\. Enjoy la cena..\. Thanksgiving edition!
+> You bring the ingredients, we bring the flavor\. Enjoy la cena...
 
 241 songs - 15 hr 15 min
 
@@ -71,12 +71,12 @@
 | [Deixa A Vida Me Levar](https://open.spotify.com/track/3IGssOQU1XqizfaLUro3iE) | [Zeca Pagodinho](https://open.spotify.com/artist/3qZ2n5keOAat1SoF6bHwmb) | [Samba Goal \- Powered By R10 \(USA Version\)](https://open.spotify.com/album/6OhixhDKgwVl5SxEPrPX61) | 4:34 | 2022-01-01 | 2022-06-13 |
 | [Deixa A Vida Me Levar](https://open.spotify.com/track/3cVSl7SF1BNnCYUR3WYKd8) | [Zeca Pagodinho](https://open.spotify.com/artist/3qZ2n5keOAat1SoF6bHwmb) | [Zeca Pagodinho Em Casa](https://open.spotify.com/album/0ihjlZ6pyIMNly2O2OLIm0) | 4:35 | 2022-01-01 | 2023-03-08 |
 | [Desahogo](https://open.spotify.com/track/7JkPQQxNWuNbcy7aOp6dpR) | [Diego El Cigala](https://open.spotify.com/artist/7mLYMGXg84miYydKwi2aRi) | [Desahogo](https://open.spotify.com/album/5PHVNEt1OngzrWtaFNNlY9) | 4:20 | 2023-07-14 |  |
-| [Desde Lejos](https://open.spotify.com/track/4HCnxcNcKPDa1Mxq4DmCMO) | [Ley Line](https://open.spotify.com/artist/4vPbKW4M6Q3kvz8kUBuXrX) | [Desde Lejos](https://open.spotify.com/album/6G6B4oku3ddF4m8yNCMyMK) | 4:30 | 2023-06-16 |  |
+| [Desde Lejos](https://open.spotify.com/track/4HCnxcNcKPDa1Mxq4DmCMO) | [Ley Line](https://open.spotify.com/artist/4vPbKW4M6Q3kvz8kUBuXrX) | [Desde Lejos](https://open.spotify.com/album/6G6B4oku3ddF4m8yNCMyMK) | 4:30 | 2023-06-16 | 2023-12-02 |
 | [Despues de Almuerzo Parte 3](https://open.spotify.com/track/4uIJmaku85TiNpKyCFjuTD) | [Bitman & Roban](https://open.spotify.com/artist/5pNASbHJBVikbxzyXziGTe) | [Musica para Despues de Almuerzo](https://open.spotify.com/album/51tTFDkrYX6v1js0jEarj9) | 3:15 | 2021-12-09 | 2022-07-29 |
 | [Despues De Almuerzo Parte 3](https://open.spotify.com/track/4vFmMHwyLzIJ9GCY7yPiiJ) | [Bitman & Roban](https://open.spotify.com/artist/5pNASbHJBVikbxzyXziGTe) | [Musica Para Despues De Almuerzo](https://open.spotify.com/album/1exvDLSiFL6TncjgMrkOAP) | 3:15 | 2022-01-01 |  |
 | [Donde Está](https://open.spotify.com/track/0fjCKNenDu2DBaMcIp3rXS) | [Si\*Sé](https://open.spotify.com/artist/64CWqLWhLQhrerPastRKW9) | [Gold](https://open.spotify.com/album/01NDjxuV02b5rlRHyT3nUU) | 3:44 | 2021-12-09 |  |
 | [El Amor Después Del Amor](https://open.spotify.com/track/5s7y4yEb3TGIqRMjE32MZx) | [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [Origen](https://open.spotify.com/album/1pnliPS7mvHIMlBgwK7kgO) | 3:44 | 2021-12-09 | 2023-02-18 |
-| [El Amor Después Del Amor](https://open.spotify.com/track/0hqlx9C514EqYJ3OUIgNW1) | [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [El Amor Después Del Amor](https://open.spotify.com/album/7CLnc7ghDp9nX6zJy3Q7e6) | 3:45 | 2021-12-09 | 2023-11-16 |
+| [El Amor Después Del Amor](https://open.spotify.com/track/0hqlx9C514EqYJ3OUIgNW1) | [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [El Amor Después Del Amor](https://open.spotify.com/album/7CLnc7ghDp9nX6zJy3Q7e6) | 3:45 | 2021-12-09 |  |
 | [El Bombo](https://open.spotify.com/track/6Y8ezCRn008lOajLva47nN) | [Salomón Beda](https://open.spotify.com/artist/76oqoGaknr9WGOegYTjxdh) | [El Bombo](https://open.spotify.com/album/2cSlFeJYEyoyrM9AwjtSEc) | 3:20 | 2021-12-09 | 2023-03-08 |
 | [El Caudal](https://open.spotify.com/track/3Eofn5MhdnUYozRhcxGYLN) | [Monsieur Periné](https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK), [Guaynaa](https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq) | [El Caudal](https://open.spotify.com/album/57zjLKLycEw9ezNKgXBDtI) | 3:57 | 2023-04-14 |  |
 | [El Chuchumbé](https://open.spotify.com/track/5N7dYVrRW4FVvNpcAISp4f) | [Las Cafeteras](https://open.spotify.com/artist/2AeRVFWlYSW9zMUGULjPpz) | [It's Time](https://open.spotify.com/album/0o4Yp01humYmlsZ4Jnhs3g) | 3:26 | 2021-12-09 | 2022-07-29 |

@@ -1317,6 +1317,24 @@
     },
     {
       "album": {
+        "name": "Freestyle 2",
+        "url": "https://open.spotify.com/album/1xJkLFwNBBNoKSnXfwJzwV"
+      },
+      "artists": [
+        {
+          "name": "Lleflight",
+          "url": "https://open.spotify.com/artist/5GpRyfJV04fcnHBDzfVb8V"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165517,
+      "name": "Freestyle 2",
+      "url": "https://open.spotify.com/track/31sjR1a4RChnmDJxyspqUp"
+    },
+    {
+      "album": {
         "name": "Freestyle Session",
         "url": "https://open.spotify.com/album/1YDdNdnOQ0BrUGtOWgEo17"
       },
@@ -2011,6 +2029,24 @@
     },
     {
       "album": {
+        "name": "Mafia Chilena",
+        "url": "https://open.spotify.com/album/24XYnzLNNmWOhyVoLLmjJk"
+      },
+      "artists": [
+        {
+          "name": "ITHAN NY",
+          "url": "https://open.spotify.com/artist/0LshXUmIub6xKvOq4QmtNs"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145641,
+      "name": "Mafia Chilena: ITALIA",
+      "url": "https://open.spotify.com/track/2MKiUXYX1DHJRkuLKphm0B"
+    },
+    {
+      "album": {
         "name": "Mafia Chilena: LOS CHICHOS",
         "url": "https://open.spotify.com/album/3gkPtGCboYoObv0k0dvw06"
       },
@@ -2312,6 +2348,28 @@
       "duration_ms": 157793,
       "name": "Mi Bruja",
       "url": "https://open.spotify.com/track/6jU9HGQhLCUuA3jmwmxQCo"
+    },
+    {
+      "album": {
+        "name": "\u00c9NFASIS",
+        "url": "https://open.spotify.com/album/3Yg6mB7aDyVFTZBMcJPG5B"
+      },
+      "artists": [
+        {
+          "name": "Jere Klein",
+          "url": "https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9"
+        },
+        {
+          "name": "Drakomafia",
+          "url": "https://open.spotify.com/artist/20BNHnI2SfySwLwWCAu4ew"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190812,
+      "name": "MI BRUJA",
+      "url": "https://open.spotify.com/track/39ioahXgovoR6DlDsoEqbk"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "Descubre lo m\u00e1s fresco de la electr\u00f3nica mexicana. Lex en portada.",
-  "num_followers": 55452,
+  "num_followers": 55455,
   "original_name": "mint MX",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNjk2Mzc0ZWM3ZWFhMjNkOTAyMzRhMzNjOTQwOTFiY2VmYjU1MDc0",
+  "snapshot_id": "MCwzZTQyYTNlNmY3ODlkMmFkOWY5MTY3ODA4MjNmYTk1ZDY2YjBhMDVl",
   "tracks": [
     {
       "added_at": "2023-11-17 06:00:00",
@@ -343,22 +343,26 @@
     {
       "added_at": "2023-11-17 06:00:00",
       "album": {
-        "name": "Winter",
-        "url": "https://open.spotify.com/album/6lUdjya8BnAVg2mIF6tOuS"
+        "name": "Serena",
+        "url": "https://open.spotify.com/album/6Ri9fNMTIfBOfGyXtl6dom"
       },
       "artists": [
         {
-          "name": "Mariana BO",
-          "url": "https://open.spotify.com/artist/2cFzYhiHqYS7o8ZIM9WD22"
+          "name": "Tom & Collins",
+          "url": "https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta"
         },
         {
-          "name": "Flakk\u00eb",
-          "url": "https://open.spotify.com/artist/1sxPqLUpMnZDhO9QcMb7X1"
+          "name": "Thomas Newson",
+          "url": "https://open.spotify.com/artist/66MrdPDHTjnnMOTBmC81q5"
+        },
+        {
+          "name": "PAVE",
+          "url": "https://open.spotify.com/artist/2E0evCQS6WOlrWfnVGk3ny"
         }
       ],
-      "duration_ms": 144500,
-      "name": "Winter",
-      "url": "https://open.spotify.com/track/5DLust6tLTz5uyaTPhbu7r"
+      "duration_ms": 153875,
+      "name": "Serena",
+      "url": "https://open.spotify.com/track/34Cc71Twm8s2IICmiIdWPR"
     },
     {
       "added_at": "2023-11-17 06:00:00",
@@ -383,26 +387,22 @@
     {
       "added_at": "2023-11-17 06:00:00",
       "album": {
-        "name": "Serena",
-        "url": "https://open.spotify.com/album/6Ri9fNMTIfBOfGyXtl6dom"
+        "name": "Winter",
+        "url": "https://open.spotify.com/album/6lUdjya8BnAVg2mIF6tOuS"
       },
       "artists": [
         {
-          "name": "Tom & Collins",
-          "url": "https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta"
+          "name": "Mariana BO",
+          "url": "https://open.spotify.com/artist/2cFzYhiHqYS7o8ZIM9WD22"
         },
         {
-          "name": "Thomas Newson",
-          "url": "https://open.spotify.com/artist/66MrdPDHTjnnMOTBmC81q5"
-        },
-        {
-          "name": "PAVE",
-          "url": "https://open.spotify.com/artist/2E0evCQS6WOlrWfnVGk3ny"
+          "name": "Flakk\u00eb",
+          "url": "https://open.spotify.com/artist/1sxPqLUpMnZDhO9QcMb7X1"
         }
       ],
-      "duration_ms": 153875,
-      "name": "Serena",
-      "url": "https://open.spotify.com/track/34Cc71Twm8s2IICmiIdWPR"
+      "duration_ms": 144500,
+      "name": "Winter",
+      "url": "https://open.spotify.com/track/5DLust6tLTz5uyaTPhbu7r"
     },
     {
       "added_at": "2023-11-17 06:00:00",
@@ -763,6 +763,22 @@
     {
       "added_at": "2023-11-17 06:00:00",
       "album": {
+        "name": "Up & Down",
+        "url": "https://open.spotify.com/album/7gjjiVVsuez0UMZpu6LlnJ"
+      },
+      "artists": [
+        {
+          "name": "Chela Rivas",
+          "url": "https://open.spotify.com/artist/1NUXnGPzPYyTiaEegkod3n"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "Up & Down",
+      "url": "https://open.spotify.com/track/5EtCF40r2POQGEc9vNLXd7"
+    },
+    {
+      "added_at": "2023-11-17 06:00:00",
+      "album": {
         "name": "El Pana Dero",
         "url": "https://open.spotify.com/album/5HJNjbWyZqILeVwam3MV3I"
       },
@@ -779,18 +795,22 @@
     {
       "added_at": "2023-11-17 06:00:00",
       "album": {
-        "name": "Up & Down",
-        "url": "https://open.spotify.com/album/7gjjiVVsuez0UMZpu6LlnJ"
+        "name": "Brisa",
+        "url": "https://open.spotify.com/album/5mI4q6IaLxQiumiAQ69jmj"
       },
       "artists": [
         {
-          "name": "Chela Rivas",
-          "url": "https://open.spotify.com/artist/1NUXnGPzPYyTiaEegkod3n"
+          "name": "Tom & Collins",
+          "url": "https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta"
+        },
+        {
+          "name": "Dean Mickoski",
+          "url": "https://open.spotify.com/artist/51HLurY6ZdJtatIdyeOrBI"
         }
       ],
-      "duration_ms": 184000,
-      "name": "Up & Down",
-      "url": "https://open.spotify.com/track/5EtCF40r2POQGEc9vNLXd7"
+      "duration_ms": 165120,
+      "name": "Brisa",
+      "url": "https://open.spotify.com/track/1mhD6azpk9jqaSudGsNiXW"
     },
     {
       "added_at": "2023-11-17 06:00:00",
@@ -819,42 +839,18 @@
     {
       "added_at": "2023-11-17 06:00:00",
       "album": {
-        "name": "Trago a Trago",
-        "url": "https://open.spotify.com/album/6wJZCc4a0h220aD4oCkckl"
+        "name": "Sexy Velocity",
+        "url": "https://open.spotify.com/album/5iyQb5aoLeI01XMaU3GDRr"
       },
       "artists": [
         {
           "name": "Mr. Pig",
           "url": "https://open.spotify.com/artist/4psozRvxjEJEOANLHTwA7J"
-        },
-        {
-          "name": "Callejo",
-          "url": "https://open.spotify.com/artist/3uYSSIZzcfieOd4qFmB551"
         }
       ],
-      "duration_ms": 137829,
-      "name": "Trago a Trago",
-      "url": "https://open.spotify.com/track/0z61jZUmMPEGvdSrKBt3GX"
-    },
-    {
-      "added_at": "2023-11-17 06:00:00",
-      "album": {
-        "name": "Brisa",
-        "url": "https://open.spotify.com/album/5mI4q6IaLxQiumiAQ69jmj"
-      },
-      "artists": [
-        {
-          "name": "Tom & Collins",
-          "url": "https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta"
-        },
-        {
-          "name": "Dean Mickoski",
-          "url": "https://open.spotify.com/artist/51HLurY6ZdJtatIdyeOrBI"
-        }
-      ],
-      "duration_ms": 165120,
-      "name": "Brisa",
-      "url": "https://open.spotify.com/track/1mhD6azpk9jqaSudGsNiXW"
+      "duration_ms": 212280,
+      "name": "Sexy Velocity",
+      "url": "https://open.spotify.com/track/6alfVsrTE8o5nesHg7F9tz"
     },
     {
       "added_at": "2023-11-17 06:00:00",
@@ -931,6 +927,30 @@
     {
       "added_at": "2023-11-17 06:00:00",
       "album": {
+        "name": "Quem\u00e1",
+        "url": "https://open.spotify.com/album/5hKdaI14cybTq3muwkWHxB"
+      },
+      "artists": [
+        {
+          "name": "Tom & Collins",
+          "url": "https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta"
+        },
+        {
+          "name": "Mr. Pig",
+          "url": "https://open.spotify.com/artist/4psozRvxjEJEOANLHTwA7J"
+        },
+        {
+          "name": "Andrew Mathers",
+          "url": "https://open.spotify.com/artist/5rjFsTXq2iEMk09Pxtz2U0"
+        }
+      ],
+      "duration_ms": 149250,
+      "name": "Quem\u00e1",
+      "url": "https://open.spotify.com/track/0jyHpmD0quGHjILUqMftHa"
+    },
+    {
+      "added_at": "2023-11-17 06:00:00",
+      "album": {
         "name": "Addicted",
         "url": "https://open.spotify.com/album/7dqGsfYRubwBKhRdMHetlw"
       },
@@ -1003,42 +1023,22 @@
     {
       "added_at": "2023-11-17 06:00:00",
       "album": {
-        "name": "Sexy Velocity",
-        "url": "https://open.spotify.com/album/5iyQb5aoLeI01XMaU3GDRr"
+        "name": "Trago a Trago",
+        "url": "https://open.spotify.com/album/6wJZCc4a0h220aD4oCkckl"
       },
       "artists": [
         {
           "name": "Mr. Pig",
           "url": "https://open.spotify.com/artist/4psozRvxjEJEOANLHTwA7J"
-        }
-      ],
-      "duration_ms": 212280,
-      "name": "Sexy Velocity",
-      "url": "https://open.spotify.com/track/6alfVsrTE8o5nesHg7F9tz"
-    },
-    {
-      "added_at": "2023-11-17 06:00:00",
-      "album": {
-        "name": "Quem\u00e1",
-        "url": "https://open.spotify.com/album/5hKdaI14cybTq3muwkWHxB"
-      },
-      "artists": [
-        {
-          "name": "Tom & Collins",
-          "url": "https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta"
         },
         {
-          "name": "Mr. Pig",
-          "url": "https://open.spotify.com/artist/4psozRvxjEJEOANLHTwA7J"
-        },
-        {
-          "name": "Andrew Mathers",
-          "url": "https://open.spotify.com/artist/5rjFsTXq2iEMk09Pxtz2U0"
+          "name": "Callejo",
+          "url": "https://open.spotify.com/artist/3uYSSIZzcfieOd4qFmB551"
         }
       ],
-      "duration_ms": 149250,
-      "name": "Quem\u00e1",
-      "url": "https://open.spotify.com/track/0jyHpmD0quGHjILUqMftHa"
+      "duration_ms": 137829,
+      "name": "Trago a Trago",
+      "url": "https://open.spotify.com/track/0z61jZUmMPEGvdSrKBt3GX"
     },
     {
       "added_at": "2023-11-17 06:00:00",
@@ -1191,22 +1191,22 @@
     {
       "added_at": "2023-11-17 06:00:00",
       "album": {
-        "name": "I Saw You",
-        "url": "https://open.spotify.com/album/4gxbyW1dpyW55B5YxRzw8w"
+        "name": "Density",
+        "url": "https://open.spotify.com/album/2Bocmy767YuGNfbMPuMRGl"
       },
       "artists": [
         {
-          "name": "Fortu & Mendoza",
-          "url": "https://open.spotify.com/artist/1Hxlo5vn0d4y63L6C0kxex"
+          "name": "Guztavo MX",
+          "url": "https://open.spotify.com/artist/1WkYOyubVUMoS4YCIuqL9Q"
         },
         {
-          "name": "A-Dyad",
-          "url": "https://open.spotify.com/artist/11HbXAUaPyevfyRYnmHpX6"
+          "name": "Delove",
+          "url": "https://open.spotify.com/artist/70UpusffkLbUh9zPyOgvZt"
         }
       ],
-      "duration_ms": 228923,
-      "name": "I Saw You",
-      "url": "https://open.spotify.com/track/0S7Z61F0tievPImUOKNnXy"
+      "duration_ms": 161904,
+      "name": "Density",
+      "url": "https://open.spotify.com/track/6cPRAfTRZhnQjKtB5y8ucp"
     },
     {
       "added_at": "2023-11-17 06:00:00",
@@ -1227,22 +1227,22 @@
     {
       "added_at": "2023-11-17 06:00:00",
       "album": {
-        "name": "Density",
-        "url": "https://open.spotify.com/album/2Bocmy767YuGNfbMPuMRGl"
+        "name": "I Saw You",
+        "url": "https://open.spotify.com/album/4gxbyW1dpyW55B5YxRzw8w"
       },
       "artists": [
         {
-          "name": "Guztavo MX",
-          "url": "https://open.spotify.com/artist/1WkYOyubVUMoS4YCIuqL9Q"
+          "name": "Fortu & Mendoza",
+          "url": "https://open.spotify.com/artist/1Hxlo5vn0d4y63L6C0kxex"
         },
         {
-          "name": "Delove",
-          "url": "https://open.spotify.com/artist/70UpusffkLbUh9zPyOgvZt"
+          "name": "A-Dyad",
+          "url": "https://open.spotify.com/artist/11HbXAUaPyevfyRYnmHpX6"
         }
       ],
-      "duration_ms": 161904,
-      "name": "Density",
-      "url": "https://open.spotify.com/track/6cPRAfTRZhnQjKtB5y8ucp"
+      "duration_ms": 228923,
+      "name": "I Saw You",
+      "url": "https://open.spotify.com/track/0S7Z61F0tievPImUOKNnXy"
     },
     {
       "added_at": "2023-11-17 06:00:00",
@@ -1627,6 +1627,26 @@
     {
       "added_at": "2023-11-17 06:00:00",
       "album": {
+        "name": "Empty Words",
+        "url": "https://open.spotify.com/album/5y0WVHEW9q3N77kELEyvme"
+      },
+      "artists": [
+        {
+          "name": "SAMMY & LESEN",
+          "url": "https://open.spotify.com/artist/41haltKXF86Qj99kzlGZZE"
+        },
+        {
+          "name": "S & L",
+          "url": "https://open.spotify.com/artist/30FC2mjDus2hHWKrXFUlkL"
+        }
+      ],
+      "duration_ms": 167500,
+      "name": "Empty Words",
+      "url": "https://open.spotify.com/track/2MsiOygSrbmia1mSUD8xQn"
+    },
+    {
+      "added_at": "2023-11-17 06:00:00",
+      "album": {
         "name": "Windows",
         "url": "https://open.spotify.com/album/0EQINUTcp3sgpItQ5RQTFZ"
       },
@@ -1667,30 +1687,6 @@
       "duration_ms": 180918,
       "name": "Filosof\u00eda",
       "url": "https://open.spotify.com/track/3oD1kN8r6t3UWo4Edxvi6C"
-    },
-    {
-      "added_at": "2023-11-17 06:00:00",
-      "album": {
-        "name": "In Your Arms",
-        "url": "https://open.spotify.com/album/19068iWscfCtBIkmza7Mur"
-      },
-      "artists": [
-        {
-          "name": "SAMMY & LESEN",
-          "url": "https://open.spotify.com/artist/41haltKXF86Qj99kzlGZZE"
-        },
-        {
-          "name": "ML3NNON",
-          "url": "https://open.spotify.com/artist/1biSrwFYbwHLEzKBLgK7Na"
-        },
-        {
-          "name": "GeeKan",
-          "url": "https://open.spotify.com/artist/75RUOHHM8vVH1EEgeZOMMT"
-        }
-      ],
-      "duration_ms": 154687,
-      "name": "In Your Arms",
-      "url": "https://open.spotify.com/track/7bCdUjUeJfyYahngq7Bdbc"
     },
     {
       "added_at": "2023-11-17 06:00:00",
@@ -1771,26 +1767,6 @@
     {
       "added_at": "2023-11-17 06:00:00",
       "album": {
-        "name": "Empty Words",
-        "url": "https://open.spotify.com/album/5y0WVHEW9q3N77kELEyvme"
-      },
-      "artists": [
-        {
-          "name": "SAMMY & LESEN",
-          "url": "https://open.spotify.com/artist/41haltKXF86Qj99kzlGZZE"
-        },
-        {
-          "name": "S & L",
-          "url": "https://open.spotify.com/artist/30FC2mjDus2hHWKrXFUlkL"
-        }
-      ],
-      "duration_ms": 167500,
-      "name": "Empty Words",
-      "url": "https://open.spotify.com/track/2MsiOygSrbmia1mSUD8xQn"
-    },
-    {
-      "added_at": "2023-11-17 06:00:00",
-      "album": {
         "name": "KARMA",
         "url": "https://open.spotify.com/album/7s7so5vu0eAwu8ArWkKmDr"
       },
@@ -1831,6 +1807,22 @@
       "duration_ms": 178909,
       "name": "Space",
       "url": "https://open.spotify.com/track/2feFSrZALcQBjdDbTn5nz3"
+    },
+    {
+      "added_at": "2023-11-17 06:00:00",
+      "album": {
+        "name": "Eunoia",
+        "url": "https://open.spotify.com/album/6vvIKaVVvt3qHX94edFmmj"
+      },
+      "artists": [
+        {
+          "name": "Leimantour",
+          "url": "https://open.spotify.com/artist/23dJcrY31UxUxew6zHi02N"
+        }
+      ],
+      "duration_ms": 428000,
+      "name": "Eunoia",
+      "url": "https://open.spotify.com/track/2ki07Ir7ZDaQdJWnmYopFy"
     }
   ],
   "unique_name": "mint MX",

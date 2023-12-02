@@ -995,6 +995,24 @@
     },
     {
       "album": {
+        "name": "Carpathian Sleep",
+        "url": "https://open.spotify.com/album/24Zp8d03yydwVW7zwK8RAE"
+      },
+      "artists": [
+        {
+          "name": "Aca Malvina",
+          "url": "https://open.spotify.com/artist/7H3SyQlYDmgYpQlmkm0rsO"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136254,
+      "name": "Carpathian Sleep",
+      "url": "https://open.spotify.com/track/4SQBnSK3fa8uYVd7jgVSR4"
+    },
+    {
+      "album": {
         "name": "Catnap",
         "url": "https://open.spotify.com/album/4NTRDYA9fWjwHH2Wc2Jxxr"
       },
@@ -3922,7 +3940,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 182250,
       "name": "Orison",
       "url": "https://open.spotify.com/track/3GJyYi78wUaUZgbrwipcpG"

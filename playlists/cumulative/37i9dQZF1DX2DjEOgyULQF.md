@@ -4,7 +4,7 @@
 
 > Ambient with the soothing sounds of water, rain and birds.
 
-155 songs - 7 hr 37 min
+157 songs - 7 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -134,6 +134,7 @@
 | [Somos Tierra](https://open.spotify.com/track/7AVLKd5agjTZWrfjxBTMHX) | [Ancestral Beats](https://open.spotify.com/artist/5s5I6gLsXrfTFt91nIznYb) | [Somos Tierra](https://open.spotify.com/album/6xGYEZBKtcLC7KIKJOrXSM) | 2:54 | 2023-04-28 | 2023-05-27 |
 | [Song Of Nature](https://open.spotify.com/track/4LvTLzxeWPn6XUpCmE93iH) | [Ziwambe](https://open.spotify.com/artist/4C4pHnRWJY0ROkqEynVy7z) | [Song Of Nature](https://open.spotify.com/album/0nMiF2yBds8CV1LqnTHMsV) | 2:26 | 2023-09-22 |  |
 | [Soothing Ripples](https://open.spotify.com/track/7GBZtRWRBnA0zhnuNrvoct) | [Applied Rest](https://open.spotify.com/artist/2riZE0wAuN7vPwKnEo8eGX) | [Soothing Ripples](https://open.spotify.com/album/4c2ImLyXKB23EToI6NP8UE) | 2:49 | 2023-04-28 |  |
+| [Soothing River Currents](https://open.spotify.com/track/5wadEWywibUs6MUP61h8kE) | [Binaural Healing Frequencies](https://open.spotify.com/artist/0O3hasNaQ353zIkDpwn4Ul) | [Soothing River Currents](https://open.spotify.com/album/74sFp2e1f4L9PKjonje0J5) | 2:50 | 2023-12-01 |  |
 | [Sub Nubibus](https://open.spotify.com/track/7IoL1mOhd9J4yRQx5Rvq2n) | [Los Sobriles](https://open.spotify.com/artist/3JST5hIfjYPRqhKMJXqku2) | [Sub Nubibus](https://open.spotify.com/album/5ruwT199WJvJDnlTRxfIk3) | 2:27 | 2023-04-28 |  |
 | [Thankful](https://open.spotify.com/track/2UXjwMD5scjJzBh3nmQAX8) | [Regentum](https://open.spotify.com/artist/6gfKfJS89ZAy4mSAlwTXvc) | [Thankful](https://open.spotify.com/album/73ZOqAI2ARO0Chn2Vg3wrw) | 3:14 | 2023-04-28 |  |
 | [The Birds' Lullaby](https://open.spotify.com/track/1RqfOe6dyNeOdczSmz0PU9) | [Alma Forest](https://open.spotify.com/artist/5n7QXdkmXfGAz6srNlrF8l) | [The Birds' Lullaby](https://open.spotify.com/album/3FM8vHSAiC47KQwL1HVHNe) | 3:35 | 2023-04-28 |  |
@@ -149,6 +150,7 @@
 | [Tranquility](https://open.spotify.com/track/5jjwni9fUP9YT9AJsXFv3g) | [Elysio Stone](https://open.spotify.com/artist/3xmhBkdziYwrJhrlhyjEbp) | [Tranquility](https://open.spotify.com/album/0XN0oD4b0FwAy5URSvWFXk) | 2:43 | 2023-04-28 |  |
 | [Tremulous Rest](https://open.spotify.com/track/0OD5s7BZbIiHiA2wwjuuCI) | [Ethel Rohling](https://open.spotify.com/artist/4ZAnqmX1z5YWccy2P8YEya) | [Tremulous Rest](https://open.spotify.com/album/1dxcdpHa4Mv0sabHi33BvV) | 2:09 | 2023-04-28 |  |
 | [Tributary Balance](https://open.spotify.com/track/6iCoaYHHA82MZZnxi6nt9h) | [Ezmae Forrest](https://open.spotify.com/artist/6ruCfksOefHsnWf3TjGJYn) | [Tributary Balance](https://open.spotify.com/album/0jeMzKkXb7a3vVLn2EbBkX) | 3:07 | 2023-04-28 |  |
+| [Under the Maple Tree](https://open.spotify.com/track/5nlU4XAwnmZzqDuq3TucEY) | [Moon Garden](https://open.spotify.com/artist/3BXLBEYS53k3FXlvHUJsw7) | [Under the Maple Tree](https://open.spotify.com/album/3ew2zUnWSZDZH0DEYo5sRO) | 3:40 | 2023-12-01 |  |
 | [Up Above](https://open.spotify.com/track/3OIg6QE59Pye3cK1oRCp54) | [Amosento](https://open.spotify.com/artist/1TA2SmsBfupnHplKJkEajW) | [You are a miracle](https://open.spotify.com/album/0eZSO9dRfHPub2fkBev7nE) | 3:43 | 2023-04-28 |  |
 | [Vedana](https://open.spotify.com/track/4Bz2Y5mv3GEtxrlHQzheMB) | [Kamamatsu](https://open.spotify.com/artist/2MXArrDWK0b0kaxFz4OtCQ) | [Vedana](https://open.spotify.com/album/35JiT2cKAXYsielBXaC5Cz) | 2:23 | 2023-04-28 | 2023-07-29 |
 | [Verdancy](https://open.spotify.com/track/3mBcz9IUFbbZOWPBRcqSVQ) | [Harmonic Pathways](https://open.spotify.com/artist/50w3lD1tVFon2IBD8jRBOO), [Nature on Record](https://open.spotify.com/artist/4XC4r2EEPyi9Ox0ZinPaIV) | [Emergence](https://open.spotify.com/album/5npmxbN4pCm1CHhjxHmFuf) | 2:37 | 2023-04-28 |  |

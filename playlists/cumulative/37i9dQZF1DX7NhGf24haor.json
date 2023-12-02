@@ -263,6 +263,28 @@
     },
     {
       "album": {
+        "name": "Alive",
+        "url": "https://open.spotify.com/album/7fuqjlFjMIap3DDWz46zIV"
+      },
+      "artists": [
+        {
+          "name": "Dr Rude",
+          "url": "https://open.spotify.com/artist/5akubyqg9eYtnCtDEeJz2s"
+        },
+        {
+          "name": "Kane Scott",
+          "url": "https://open.spotify.com/artist/03Uxnv0S5yon8NjFeBF3Bu"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179612,
+      "name": "Alive",
+      "url": "https://open.spotify.com/track/7pq0Ysbjxmp1dMqLEiNIHz"
+    },
+    {
+      "album": {
         "name": "All Of The Lights",
         "url": "https://open.spotify.com/album/0wK6eSB5Q8rwc8cjkTUfov"
       },
@@ -1097,6 +1119,48 @@
     },
     {
       "album": {
+        "name": "Blackout",
+        "url": "https://open.spotify.com/album/3F8GYHZglKYMrJWiS3bHdv"
+      },
+      "artists": [
+        {
+          "name": "Kronos",
+          "url": "https://open.spotify.com/artist/2B3mYtzGes0f92Yfn4mVQD"
+        },
+        {
+          "name": "Level One",
+          "url": "https://open.spotify.com/artist/5gfLje7A2I9mMRVfuiphnh"
+        },
+        {
+          "name": "Imperatorz",
+          "url": "https://open.spotify.com/artist/7eS0sxPiRLeafMwpgLJml1"
+        },
+        {
+          "name": "D-Attack",
+          "url": "https://open.spotify.com/artist/79QnAdpXGrzcsIOFtW3gR4"
+        },
+        {
+          "name": "Imperial",
+          "url": "https://open.spotify.com/artist/2qx5TM5UVg3th3ZQ9Vkj2X"
+        },
+        {
+          "name": "Neroz",
+          "url": "https://open.spotify.com/artist/76WqyxPmL1KmO2up8jbYOC"
+        },
+        {
+          "name": "Disarray",
+          "url": "https://open.spotify.com/artist/5HzAVjYVX8EYbLnNv9Vrke"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167687,
+      "name": "Blackout",
+      "url": "https://open.spotify.com/track/5Oz55aVuZ3KbKMeHOhePdx"
+    },
+    {
+      "album": {
         "name": "Blast In Your Face",
         "url": "https://open.spotify.com/album/7Ay1R1bMxFVUkZJXmVWWoP"
       },
@@ -1402,6 +1466,28 @@
       "duration_ms": 231157,
       "name": "Break The Rules",
       "url": "https://open.spotify.com/track/1DI9mNWrW3LdQVWPprPRvm"
+    },
+    {
+      "album": {
+        "name": "Broken Dreams",
+        "url": "https://open.spotify.com/album/6IR0IsypKtxWm2UKyFXimX"
+      },
+      "artists": [
+        {
+          "name": "Re-Style",
+          "url": "https://open.spotify.com/artist/2kK1cYRoYo24RzsHADtD0E"
+        },
+        {
+          "name": "Hysta",
+          "url": "https://open.spotify.com/artist/5b4R0928g89y6qmOgtEN1O"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222631,
+      "name": "Broken Dreams",
+      "url": "https://open.spotify.com/track/08eoEMJAcewxsEGvole0gx"
     },
     {
       "album": {
@@ -2344,10 +2430,32 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 228077,
       "name": "Dead Or Alive",
       "url": "https://open.spotify.com/track/5hY8EYoOnN5aLdNymjBtGA"
+    },
+    {
+      "album": {
+        "name": "Dear Hardstyle",
+        "url": "https://open.spotify.com/album/0PW9WcbHGTDvK05sQ23lmK"
+      },
+      "artists": [
+        {
+          "name": "Showtek",
+          "url": "https://open.spotify.com/artist/3gk0OYeLFWYupGFRHqLSR7"
+        },
+        {
+          "name": "Earl St. Clair",
+          "url": "https://open.spotify.com/artist/0h9IuyuhaLBJWOpebvgTk5"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267204,
+      "name": "Dear Hardstyle",
+      "url": "https://open.spotify.com/track/1vFzkN48urpPfQPmjL2T5p"
     },
     {
       "album": {
@@ -2738,7 +2846,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 198193,
       "name": "Don't Stop",
       "url": "https://open.spotify.com/track/0h1mEjNzfgX3zmrM1FJNtz"
@@ -3076,7 +3184,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 219200,
       "name": "Echoes of Euphoria",
       "url": "https://open.spotify.com/track/0mTcyjUnQwrI6WhepW7IJd"
@@ -3138,7 +3246,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 250161,
       "name": "Embrace Your Sins - Official Ravechurch 2023 Anthem",
       "url": "https://open.spotify.com/track/2H5Ailem5pejRvutkaoRT5"
@@ -3884,7 +3992,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 196645,
       "name": "Follow Me",
       "url": "https://open.spotify.com/track/1qxTqA9hD5Jlk5JWqONikE"
@@ -4658,7 +4766,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 162774,
       "name": "Hardstyle Fanatics",
       "url": "https://open.spotify.com/track/3untbrbsiO4Mi50qNjuoa3"
@@ -5082,6 +5190,32 @@
       "duration_ms": 211354,
       "name": "House Music",
       "url": "https://open.spotify.com/track/1xutxLSIzJK9PKOV89pNxd"
+    },
+    {
+      "album": {
+        "name": "How We Rollin'",
+        "url": "https://open.spotify.com/album/6p2cfd8gK8nbidZVMOlFKm"
+      },
+      "artists": [
+        {
+          "name": "Ephoric",
+          "url": "https://open.spotify.com/artist/2KUdPowv9jaSB82rvKX80y"
+        },
+        {
+          "name": "Alee",
+          "url": "https://open.spotify.com/artist/07E7avQ9K8W8Gr6BCx8aU9"
+        },
+        {
+          "name": "Miriam Romeyn",
+          "url": "https://open.spotify.com/artist/0aWMgBK0XdINUoV4skvQlM"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267200,
+      "name": "How We Rollin'",
+      "url": "https://open.spotify.com/track/14jxwmNSkEDQw6WCjaW65S"
     },
     {
       "album": {
@@ -5716,7 +5850,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 205035,
       "name": "Interplanetary",
       "url": "https://open.spotify.com/track/4VU9luBrmsjxmQwBrEnJ20"
@@ -6606,7 +6740,7 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 140000,
       "name": "Lift Me Up - Hard Mix",
       "url": "https://open.spotify.com/track/7t0KwFT5N5r1cFJloJAHGn"
@@ -6994,7 +7128,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 238125,
       "name": "Lost",
       "url": "https://open.spotify.com/track/7gkilPgnvT3g0K0VF2BMVJ"
@@ -7104,7 +7238,7 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 192000,
       "name": "Love Death",
       "url": "https://open.spotify.com/track/1H2HyRY6Z4krifebdRQqNY"
@@ -7208,6 +7342,32 @@
       "duration_ms": 199741,
       "name": "Love Song - TESFY Remix",
       "url": "https://open.spotify.com/track/6B59BB1c8E3h1eq9h7Q2JK"
+    },
+    {
+      "album": {
+        "name": "LOVE THE WAY",
+        "url": "https://open.spotify.com/album/4g6S9RIdnxH7jaY4hDFX6a"
+      },
+      "artists": [
+        {
+          "name": "Rooler",
+          "url": "https://open.spotify.com/artist/2lpFs8QJyIeVDb2Sq4vZYi"
+        },
+        {
+          "name": "Sickmode",
+          "url": "https://open.spotify.com/artist/5PbgCU02dfdBCAzpOaNmYW"
+        },
+        {
+          "name": "D-Block & S-te-Fan",
+          "url": "https://open.spotify.com/artist/6L7a6wPGpvLtTwOsMLnF1z"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290199,
+      "name": "LOVE THE WAY",
+      "url": "https://open.spotify.com/track/5xPXUK6x8cWrL5xsqJv9eF"
     },
     {
       "album": {
@@ -7922,7 +8082,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 198974,
       "name": "Momentum",
       "url": "https://open.spotify.com/track/4AXO0nCqvp82u9Iwl8IQO1"
@@ -8032,7 +8192,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 219847,
       "name": "My Pain",
       "url": "https://open.spotify.com/track/0Iuu9xzvZPtqLUkpeMT78L"
@@ -8080,6 +8240,24 @@
       "duration_ms": 198005,
       "name": "My Time",
       "url": "https://open.spotify.com/track/2QG8mQwRQk3VRZFeEbx5rh"
+    },
+    {
+      "album": {
+        "name": "My Witness",
+        "url": "https://open.spotify.com/album/3FPO1GDAzVsAkYikTmawWQ"
+      },
+      "artists": [
+        {
+          "name": "Hardstyle Legends",
+          "url": "https://open.spotify.com/artist/7h1AK4oFSkeL6vlOa5NHb0"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207483,
+      "name": "My Witness",
+      "url": "https://open.spotify.com/track/7Btg1nNz5OuTMY7RTzKz20"
     },
     {
       "album": {
@@ -8812,7 +8990,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 144000,
       "name": "One Last Fight",
       "url": "https://open.spotify.com/track/3cAkvNWROdYyQrXw4P4jix"
@@ -9269,6 +9447,28 @@
     },
     {
       "album": {
+        "name": "Portals & Potatoes (Chapter V Remix)",
+        "url": "https://open.spotify.com/album/4jDout6il59bOlc91GemQM"
+      },
+      "artists": [
+        {
+          "name": "Vazard",
+          "url": "https://open.spotify.com/artist/5i4yVKvP6l6jRrb8H26bU5"
+        },
+        {
+          "name": "Chapter V",
+          "url": "https://open.spotify.com/artist/1YYs95M2z6CIPc0zWfMrab"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208935,
+      "name": "Portals & Potatoes - Chapter V Remix",
+      "url": "https://open.spotify.com/track/25AvyFeHCerOz83mk46hG4"
+    },
+    {
+      "album": {
         "name": "Power Hour",
         "url": "https://open.spotify.com/album/3Hjo3TI3WHUEsmwKHx56vl"
       },
@@ -9449,6 +9649,28 @@
     },
     {
       "album": {
+        "name": "Rave & Shout",
+        "url": "https://open.spotify.com/album/0Cp4eKx2ejQcrB8smwb9gq"
+      },
+      "artists": [
+        {
+          "name": "Scooter",
+          "url": "https://open.spotify.com/artist/0HlxL5hisLf59ETEPM3cUA"
+        },
+        {
+          "name": "Harris & Ford",
+          "url": "https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180599,
+      "name": "Rave & Shout",
+      "url": "https://open.spotify.com/track/3c8cmDpIKg3d7EIuTjNAAp"
+    },
+    {
+      "album": {
         "name": "Rave im Loop",
         "url": "https://open.spotify.com/album/2EUEUeH3spy2DzAT7JggTN"
       },
@@ -9614,7 +9836,7 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 320148,
       "name": "Raw Resurgence - Official Supremacy 2023 Anthem",
       "url": "https://open.spotify.com/track/54WsAt5kYg8GPi9s85yPuQ"
@@ -10517,6 +10739,24 @@
     },
     {
       "album": {
+        "name": "Sandstorm",
+        "url": "https://open.spotify.com/album/1Ec9A0eLelTeEpjC5lnE5a"
+      },
+      "artists": [
+        {
+          "name": "Sub Sonik",
+          "url": "https://open.spotify.com/artist/4FApejrnKXgmvrVmBMRO2l"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188774,
+      "name": "Sandstorm",
+      "url": "https://open.spotify.com/track/2yyaTlex3YaCat520CSzti"
+    },
+    {
+      "album": {
         "name": "Satellites",
         "url": "https://open.spotify.com/album/4CTKqkSwHk3N1nEDMnchrx"
       },
@@ -11120,6 +11360,28 @@
       "duration_ms": 211354,
       "name": "Starlight",
       "url": "https://open.spotify.com/track/45rQylJyBrOHRzDE53x8OQ"
+    },
+    {
+      "album": {
+        "name": "Starlight",
+        "url": "https://open.spotify.com/album/7skvKVqZAoS8lze3rpBdh8"
+      },
+      "artists": [
+        {
+          "name": "Luca Testa",
+          "url": "https://open.spotify.com/artist/0Dzj2bn9ivDSjvJVSKL4q7"
+        },
+        {
+          "name": "Marnage",
+          "url": "https://open.spotify.com/artist/1WVacTvQLSx5Kg3sji9WZP"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208800,
+      "name": "Starlight",
+      "url": "https://open.spotify.com/track/0UIfBAak10aJTzuT1tNoha"
     },
     {
       "album": {
@@ -12595,6 +12857,36 @@
     },
     {
       "album": {
+        "name": "This Deejay",
+        "url": "https://open.spotify.com/album/5Ee5i1mH1oGgm2NmfaYH9O"
+      },
+      "artists": [
+        {
+          "name": "Coone",
+          "url": "https://open.spotify.com/artist/1Wt63OMKtv6v2ivHuQLm2C"
+        },
+        {
+          "name": "TNT",
+          "url": "https://open.spotify.com/artist/1CqOLQmjzVWXQTiIN5Wucs"
+        },
+        {
+          "name": "Technoboy",
+          "url": "https://open.spotify.com/artist/37jL2LnGjAkadOCszr8v7C"
+        },
+        {
+          "name": "Tuneboy",
+          "url": "https://open.spotify.com/artist/3mZnhzeAyjpFhO3cIepzBr"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195698,
+      "name": "This Deejay",
+      "url": "https://open.spotify.com/track/7ae1RGOiNP5KaBBU5V4yUG"
+    },
+    {
+      "album": {
         "name": "This Is Who We Are (Power Hour Gospel Edit)",
         "url": "https://open.spotify.com/album/73FTNQIyNRhHnWn7xaCDJ7"
       },
@@ -13565,6 +13857,32 @@
     },
     {
       "album": {
+        "name": "Vois Sur Ton Chemin (Hardstyle)",
+        "url": "https://open.spotify.com/album/2ZmO15M5AqVAnO4zrVbeXR"
+      },
+      "artists": [
+        {
+          "name": "Bern-AT & WARLEX",
+          "url": "https://open.spotify.com/artist/4fNQc6qV93iAsDV4kxeQAf"
+        },
+        {
+          "name": "Enmity",
+          "url": "https://open.spotify.com/artist/0vMdRm1cBKsEK2vn1RY1Dh"
+        },
+        {
+          "name": "crypvolk",
+          "url": "https://open.spotify.com/artist/2fXtzvF2KPVENaAqFgicXS"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239034,
+      "name": "Vois Sur Ton Chemin - Hardstyle",
+      "url": "https://open.spotify.com/track/2mVgDjPX3OzJ0EP1Y5cSWa"
+    },
+    {
+      "album": {
         "name": "W.T.P.",
         "url": "https://open.spotify.com/album/4cp4EWMtnODstUJV0FBVW8"
       },
@@ -13700,7 +14018,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 211499,
       "name": "Wasted",
       "url": "https://open.spotify.com/track/0Trr3QSf9SvtFRtuAPVoBn"

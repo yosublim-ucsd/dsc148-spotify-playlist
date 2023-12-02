@@ -4,7 +4,7 @@
 
 > Soft \(the quietest of them all\), subtle, no words needed\. Take a sip and enjoy the music of composers from around the world.
 
-1,779 songs - 3 day 7 hr 40 min
+1,780 songs - 3 day 7 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,7 @@
 | [A New Day](https://open.spotify.com/track/2ZBrOKj7dDANWEA4DcXQ2N) | [Milo Stavos](https://open.spotify.com/artist/4qJYgLgyq8lH4yaQ4qrJYP) | [A New Day](https://open.spotify.com/album/5lF6GKix1t49qCXs9TASLh) | 2:59 | 2021-03-14 | 2021-12-21 |
 | [A New Path](https://open.spotify.com/track/6dG6b98wdolLoHdFaAusxR) | [Damien Jeunet](https://open.spotify.com/artist/4PLGZc5uRGoXxjzjVDzlPs) | [A New Path](https://open.spotify.com/album/3q36F69MAyybtWLlbdiCjw) | 1:53 | 2022-09-13 | 2023-04-16 |
 | [A New World's Dream](https://open.spotify.com/track/64Nktb1GhXgrEGtBD4oFRI) | [Milo Edale](https://open.spotify.com/artist/6ht27sA8oqmvcG4a2gcCsk) | [Motion Picture](https://open.spotify.com/album/0root1UoHuqQYlGdUGglOT) | 2:49 | 2021-03-10 | 2021-12-19 |
-| [A Place To Hide](https://open.spotify.com/track/0eMa3P0kQJjYqguUgKFt4y) | [Boil The Ocean](https://open.spotify.com/artist/2I5UjNu4WPindIoyWAPnXI) | [A Place To Hide](https://open.spotify.com/album/0MaWkUPlnRLcS7U5oXYp4F) | 2:27 | 2023-04-15 |  |
+| [A Place To Hide](https://open.spotify.com/track/0eMa3P0kQJjYqguUgKFt4y) | [Boil The Ocean](https://open.spotify.com/artist/2I5UjNu4WPindIoyWAPnXI) | [A Place To Hide](https://open.spotify.com/album/0MaWkUPlnRLcS7U5oXYp4F) | 2:27 | 2023-04-15 | 2023-12-02 |
 | [A Prominent Response](https://open.spotify.com/track/0jZxuq04x40gwFCCcg3J31) | [Piotr Miteska](https://open.spotify.com/artist/76vFPXp4WOuiv8ppkBcd4c) | [A Prominent Response](https://open.spotify.com/album/4wSAy40m5woUAi6BO3e0g3) | 2:53 | 2021-03-14 | 2022-04-18 |
 | [A Promise](https://open.spotify.com/track/552pZqHBTVj3hXRwiblvwB) | [Matti Paalanen](https://open.spotify.com/artist/0jLdYnsn20JUEoKEbzJGc1), [Frozen Silence](https://open.spotify.com/artist/2zYmFMkDco03qam6Nx4uir) | [A Promise](https://open.spotify.com/album/6qBvYqCeYu0SUcdVgnVqq3) | 2:17 | 2021-03-16 | 2021-12-21 |
 | [A Quiet Triumph](https://open.spotify.com/track/6z80w3KsiHTJioRQYGlPDx) | [Jean DeVoite](https://open.spotify.com/artist/66t8qvy2cOoSxmEjuiRPmf) | [A Quiet Triumph](https://open.spotify.com/album/5S8I0cMWopewNcq6xzlBzj) | 2:04 | 2021-04-08 | 2022-07-28 |
@@ -1052,6 +1052,7 @@
 | [Northern Light](https://open.spotify.com/track/6zcz6oiWnwX9PoTC1gIQBP) | [Billy Frame](https://open.spotify.com/artist/07q9fUFqljdAGwfPQ52YsP) | [Piano & Chill](https://open.spotify.com/album/68ypGrxQ3BTihCdY2eJqS2) | 3:11 | 2021-05-03 | 2021-05-04 |
 | [Northern light](https://open.spotify.com/track/4DtNX8gtZ5ocwjOggJUN0g) | [Stephan Berg](https://open.spotify.com/artist/17uFWG2FVYgtw7fUhgGo7G) | [Northern light](https://open.spotify.com/album/5uy0ny85kzzwirfgtbaghH) | 2:38 | 2021-04-22 | 2021-05-09 |
 | [Northern Lights](https://open.spotify.com/track/54MKow5YALnqRH3Ys1R31y) | [Robbie Hees](https://open.spotify.com/artist/4fqKvspIaxd4COwdpOVLPc) | [Northern Lights](https://open.spotify.com/album/5hkybBdDeN1RIvFzH1ph2c) | 4:07 | 2021-03-11 | 2021-05-25 |
+| [Nostalgia](https://open.spotify.com/track/391l8re8aew1rvyNOXUYDD) | [Floyd Nova](https://open.spotify.com/artist/4aPhtYq4FqnbM02GHtZHhz) | [Nostalgia](https://open.spotify.com/album/0rPZ302N1AwjJGO6llGHnK) | 2:52 | 2023-11-28 |  |
 | [Nostos](https://open.spotify.com/track/0W7B9MsXAJQerT6jE414cF) | [Jean\-Michel Blais](https://open.spotify.com/artist/2uHlq6ERoXk8dqRZmq2OEr), [BUFFLO](https://open.spotify.com/artist/53f0gOO8G7iK7hWJNFaLs2) | [Nostos](https://open.spotify.com/album/4OCe90oleqO7rXKkuRMqOs) | 4:31 | 2021-05-04 | 2022-04-20 |
 | [Not a Number](https://open.spotify.com/track/4nncPBsmSPNNeZ2nbd0QR7) | [Luca Bissette](https://open.spotify.com/artist/3dE26Q3xzd8o6XVd49FJpL) | [Not a Number](https://open.spotify.com/album/3d0tZ74PLQQyArqWi96Pqw) | 2:33 | 2022-09-29 | 2022-12-24 |
 | [Notes in the Stars](https://open.spotify.com/track/7tVXn05UnymHBVTXISx3sv) | [Laura Sherwin](https://open.spotify.com/artist/0bEESrhv84TNExJrfQ1LAT) | [Notes in the Stars](https://open.spotify.com/album/2Tr3KA6Ch1QwpgdQE83cDY) | 3:01 | 2021-06-16 | 2022-07-28 |

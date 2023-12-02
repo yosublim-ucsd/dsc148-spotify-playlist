@@ -4,7 +4,7 @@
 
 > No caminho para igreja, trabalho ou voltando para casa, louve ao Senhor em todo o tempo.
 
-251 songs - 23 hr 39 min
+252 songs - 23 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -186,11 +186,12 @@
 | [Pra Onde Eu Irei? \- Live Church](https://open.spotify.com/track/5l2nA65AMfg7GdZvFMyXI4) | [MORADA](https://open.spotify.com/artist/2tswayWsUGjUwpvN8KRwuN) | [Pra Onde Eu Irei? \(Live Church\)](https://open.spotify.com/album/0ZnX9cZRCa0CBfgPVgzB9Q) | 8:09 | 2022-09-09 | 2023-10-21 |
 | [Pra Sempre Com Você \- Ao Vivo](https://open.spotify.com/track/4QWZGsHLDNhonHSsic6dLc) | [Diante do Trono](https://open.spotify.com/artist/4AeWCU2yUgVFbqKmOezL75), [Ana Paula Valadão](https://open.spotify.com/artist/28rjo4eRvpmLW0EsCIy6FW), [Isaque Valadão Bessa](https://open.spotify.com/artist/054LTzkZ6sYAjYVmvYgyn9) | [Pra Sempre Com Você \(Ao Vivo\)](https://open.spotify.com/album/18IATy6wOZqgQJVC7hYXUI) | 4:46 | 2023-01-14 | 2023-02-04 |
 | [Pra Sempre YHWH](https://open.spotify.com/track/3WT5NnA09K10tgY7O17RF4) | [Julliany Souza](https://open.spotify.com/artist/0d71FlLkqZzdpEQifcngQq), [Tiffany Hudson](https://open.spotify.com/artist/0F58iilfZWiLrxyhsVOdQV) | [Pra Sempre YHWH](https://open.spotify.com/album/7FrnuDNVM4ME4NzotXKxlO) | 7:33 | 2023-11-24 |  |
-| [Pra Ti Eu Vou \- Ao Vivo](https://open.spotify.com/track/2U9pql1iLy9o3ZRKygbMwR) | [Matheus Goulart](https://open.spotify.com/artist/0ktFffygQwR4rvwb44CYMh), [LUDI](https://open.spotify.com/artist/5jaTnKaikL73O3eAQgtwde) | [Pra Ti Eu Vou \(Ao Vivo\)](https://open.spotify.com/album/1cpQFbRUBIAbX77LqwdkjB) | 5:03 | 2023-10-20 |  |
+| [Pra Ti Eu Vou \- Ao Vivo](https://open.spotify.com/track/2U9pql1iLy9o3ZRKygbMwR) | [Matheus Goulart](https://open.spotify.com/artist/0ktFffygQwR4rvwb44CYMh), [LUDI](https://open.spotify.com/artist/5jaTnKaikL73O3eAQgtwde) | [Pra Ti Eu Vou \(Ao Vivo\)](https://open.spotify.com/album/1cpQFbRUBIAbX77LqwdkjB) | 5:03 | 2023-10-20 | 2023-12-02 |
 | [Promises \(feat\. Joe L Barnes\)](https://open.spotify.com/track/5suRrn5N4HNeRXOpBTdmZt) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD), [Joe L Barnes](https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T) | [Maverick City Music, Vol\. 3: Pt\. 1](https://open.spotify.com/album/5S36YlqZz1FP7PYCgZG5pq) | 10:46 | 2022-09-09 | 2023-07-15 |
 | [Quando o Céu Invade a Terra \- Ao Vivo](https://open.spotify.com/track/1l7obBlq9HK2PjzvTo7GRT) | [Gabriell Júnior](https://open.spotify.com/artist/7MLz6FXaGXB3yfjb0baqDH), [Mateus Brito](https://open.spotify.com/artist/12sMRxeNux6TB0Kz1rVcLN) | [Quando o Céu Invade a Terra \(Ao Vivo\)](https://open.spotify.com/album/6QOtQcdneALMp3VOgFsmqE) | 6:02 | 2023-10-20 |  |
 | [Quarto Secreto](https://open.spotify.com/track/6wrNrFlUJEPUXWxIJQOluR) | [Marquinhos Gomes](https://open.spotify.com/artist/2llyl9OO3itnyIvJcIEaeP) | [Quarto Secreto](https://open.spotify.com/album/4it8ereveBK8yFE4Ja2R87) | 5:07 | 2023-03-17 | 2023-09-02 |
 | [Que Amor É Esse](https://open.spotify.com/track/4s4u2eH7wfzvxWV4CwKzsS) | [Luma Elpidio](https://open.spotify.com/artist/6S6ekwAUY7h8PALjCq9XjR) | [Que Amor É Esse](https://open.spotify.com/album/3XVKSVKOrCaoeQRED1yVpd) | 7:00 | 2022-09-09 | 2023-07-08 |
+| [Quem Te Guarda É Deus](https://open.spotify.com/track/2jK5rOxNUXibAJrHaFVDak) | [Anderson Freire](https://open.spotify.com/artist/1HxtfSGL8pWUwAyVgpbU5B) | [Quem Te Guarda É Deus](https://open.spotify.com/album/4vZcPGoLtOAbsvANPIdt5h) | 3:13 | 2023-11-24 |  |
 | [Quão Grande é o Meu Deus](https://open.spotify.com/track/7DhiPsmpu4kzIQyCtvWqzd) | [Soraya Moraes](https://open.spotify.com/artist/0IPQAIkLxcVSsxlTPPn3Bp) | [Grande É O Meu Deus](https://open.spotify.com/album/2ysGfbNjEcDLoCqP1u20cq) | 5:25 | 2023-02-03 |  |
 | [Raise a Hallelujah \(Studio Version\)](https://open.spotify.com/track/4LnHfZGEitmIVS17wndaUI) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Jonathan David Helser](https://open.spotify.com/artist/7vKyyJZVFb16NTWrUV1fGp), [Melissa Helser](https://open.spotify.com/artist/0cng44S55pPu1nDrtFFy7r) | [Raise a Hallelujah \(Studio Version\)](https://open.spotify.com/album/2lvpEuRkSNanccXya3JLG7) | 4:04 | 2022-09-09 | 2023-01-14 |
 | [Raridade](https://open.spotify.com/track/3Gam4UbOwnwQQQKuItui39) | [Anderson Freire](https://open.spotify.com/artist/1HxtfSGL8pWUwAyVgpbU5B) | [Raridade](https://open.spotify.com/album/1PqKeJJ5C79S4FfLvvFJtc) | 4:57 | 2022-09-09 |  |

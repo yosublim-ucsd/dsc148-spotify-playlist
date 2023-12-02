@@ -2,9 +2,9 @@
 
 ### [R&B Right Now](https://open.spotify.com/playlist/37i9dQZF1DX2WkIBRaChxW)
 
-> What's happening in R&B, right now – featuring Zeina زينة.
+> What's happening in R&B, right now – featuring Sean Leon & Jessie Reyez.
 
-663 songs - 1 day 12 hr 40 min
+664 songs - 1 day 12 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -135,6 +135,7 @@
 | [Die For You](https://open.spotify.com/track/2Ch7LmS7r2Gy2kc64wv3Bz) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Starboy](https://open.spotify.com/album/2ODvWsOgouMbaA5xf0RkJe) | 4:20 | 2022-07-15 | 2023-01-28 |
 | [Die For You \- Remix](https://open.spotify.com/track/7oDd86yk8itslrA9HRP2ki) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Die For You \(Remix\)](https://open.spotify.com/album/6Exo0MYoL3XammoTDeihFy) | 3:52 | 2023-02-24 | 2023-06-03 |
 | [Different \(With Majid Jordan\)](https://open.spotify.com/track/2U474RK9GnAqXXh5YqigaY) | [Nonso Amadi](https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV), [Majid Jordan](https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk) | [Different \(With Majid Jordan\)](https://open.spotify.com/album/0XRJnjejsA9YXjYGdek23k) | 2:26 | 2022-05-27 | 2022-09-03 |
+| [DISHONORED](https://open.spotify.com/track/1URH3DZOnsEx6TNqPYsYkk) | [Sean Leon](https://open.spotify.com/artist/5dtbsNKCK6Q9yZzdhZpaqW), [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [IN LOVING MEMORY](https://open.spotify.com/album/5yjvJzb9DJRtgArZhPs6uk) | 2:43 | 2023-12-01 |  |
 | [Distant Lover](https://open.spotify.com/track/7dKKGLfPUPPp4YsAke8iWE) | [Yung Bleu](https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Love Scars II](https://open.spotify.com/album/4bOSKl0Hlmi5jXWxcxhHgs) | 2:56 | 2023-04-14 | 2023-08-19 |
 | [DO 4 LOVE](https://open.spotify.com/track/3FImu2LpSuH6gDHBuFgIbS) | [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [Spotify Singles](https://open.spotify.com/album/28wKxlJocWCrrxUgYC2zEQ) | 3:09 | 2021-12-31 | 2022-05-28 |
 | [Do I Ever \(feat\. Chris Brown\)](https://open.spotify.com/track/4rvzmiYWfzfQ3tnXEt1KQv) | [Tone Stith](https://open.spotify.com/artist/756t7CBmWLNYsshVtS6P44), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Still FWM](https://open.spotify.com/album/5S4ajU7zbtGShTIECSpqRO) | 3:10 | 2021-12-31 | 2022-04-23 |
@@ -327,7 +328,7 @@
 | [Like Her Too](https://open.spotify.com/track/2prgEUNls0vlOlZoDzTw5m) | [Mario](https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w) | [Like Her Too](https://open.spotify.com/album/4oRAaZA9TrNiR3ARRkAvWl) | 2:58 | 2023-01-27 | 2023-02-18 |
 | [Like Her Too](https://open.spotify.com/track/1Nxx1LHMLKxC6yGaZjpPO5) | [Mario](https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w), [Sabrina Claudio](https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg) | [Like Her Too](https://open.spotify.com/album/2fw7ZZewq0CRvqwmoTmjIe) | 2:57 | 2023-05-12 | 2023-07-22 |
 | [Lindsay's Freestyle](https://open.spotify.com/track/0xOnej2rwWRGRAwXFvTaYa) | [RUSSELL!](https://open.spotify.com/artist/1cEcF3RdBDSBjhF5Udcmdb) | [Lindsay's Freestyle](https://open.spotify.com/album/5qU1eX4515l80GTqll49eV) | 2:56 | 2021-12-31 | 2022-02-12 |
-| [Link Up](https://open.spotify.com/track/5vsCD4vU93v7Y3HDVdGl4b) | [Ne\-Yo](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj) | [Link Up](https://open.spotify.com/album/2vlW2rFQ0V9EnzzYXuhPvg) | 2:33 | 2023-09-29 |  |
+| [Link Up](https://open.spotify.com/track/5vsCD4vU93v7Y3HDVdGl4b) | [Ne\-Yo](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj) | [Link Up](https://open.spotify.com/album/2vlW2rFQ0V9EnzzYXuhPvg) | 2:33 | 2023-09-29 | 2023-12-02 |
 | [Lipstick Lover](https://open.spotify.com/track/5c2jJgsGsnYWB6QdkK1ycR) | [Janelle Monáe](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs) | [The Age of Pleasure](https://open.spotify.com/album/76yGR9gMIP6BdHuWsb7Iun) | 2:49 | 2023-06-09 | 2023-09-09 |
 | [Lipstick Lover](https://open.spotify.com/track/6IhkXHtj7tJg5waF4utfX0) | [Janelle Monáe](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs) | [Lipstick Lover](https://open.spotify.com/album/6eg7CJ9fJAeLJ5PGB1Vf7T) | 2:49 | 2023-05-12 | 2023-06-12 |
 | [Liquor \(with Ari Lennox\)](https://open.spotify.com/track/0Phy2m1BWmxCB56byt2qvh) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3), [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [Girls Night Out](https://open.spotify.com/album/2GvkwzYNhDZaSyVoj8fxBw) | 3:18 | 2022-10-21 | 2022-12-10 |
@@ -517,7 +518,7 @@
 | [Solid \(feat\. Blxst & Kehlani\)](https://open.spotify.com/track/1XhaUSmhANVIRtDvs7p2UP) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Love, Damini](https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ) | 3:15 | 2022-07-10 | 2023-01-28 |
 | [solitude/martini on mars](https://open.spotify.com/track/7oCmZ0X7rg3CXh2YcpW4GQ) | [Lou Val](https://open.spotify.com/artist/6u3PN3PCsWLGsw1OffKQ2F) | [Goûter](https://open.spotify.com/album/4abjv34MTztlQVxJAmcfij) | 3:15 | 2022-07-29 | 2022-09-03 |
 | [SOLO](https://open.spotify.com/track/5UXbiwymPFSqbVhDefIeB7) | [Shay Lia](https://open.spotify.com/artist/3sJQwG0SsGRyv5C5kh4o9a) | [SOLO](https://open.spotify.com/album/6tUdt4hvQmNtO0gh5fG8ce) | 3:02 | 2023-06-16 | 2023-09-16 |
-| [Someone Else](https://open.spotify.com/track/2Wotno3Bbbyb1d1pv2SuCm) | [Hunnah](https://open.spotify.com/artist/5ALJQTH4K9eghzib4UhiqV) | [That's All For Now](https://open.spotify.com/album/1VQK4sDYIDVAQ8xyT1zZsH) | 3:44 | 2023-10-20 |  |
+| [Someone Else](https://open.spotify.com/track/2Wotno3Bbbyb1d1pv2SuCm) | [Hunnah](https://open.spotify.com/artist/5ALJQTH4K9eghzib4UhiqV) | [That's All For Now](https://open.spotify.com/album/1VQK4sDYIDVAQ8xyT1zZsH) | 3:44 | 2023-10-20 | 2023-12-02 |
 | [Sometimes](https://open.spotify.com/track/0vQZ4DMWUNyCqUJdqfEkfx) | [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL), [Zacari](https://open.spotify.com/artist/3qBKjEOanahMxlRojwCzhI) | [Sometimes](https://open.spotify.com/album/1iDx4jaQfX1ZN1HE7GpeJF) | 2:46 | 2022-03-04 | 2022-04-23 |
 | [Sossaup](https://open.spotify.com/track/6y5UMIVVJDsULZwfZ0bNRX) | [KAYTRAMINÉ](https://open.spotify.com/artist/5oifjQw72WO7Jut07fVWMy), [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [KAYTRAMINÉ](https://open.spotify.com/album/1plAqF2W8hwAhcpBAfGNsW) | 2:36 | 2023-05-19 | 2023-09-02 |
 | [Special](https://open.spotify.com/track/3m7IYU7ySuFMwdm7OCShQN) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Special](https://open.spotify.com/album/1NgFBv1PxMG1zhFDW1OrRr) | 2:54 | 2022-07-15 | 2022-09-24 |

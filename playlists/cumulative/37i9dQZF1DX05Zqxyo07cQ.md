@@ -4,7 +4,7 @@
 
 > A trilha perfeita pra embalar seu sono / Música perfecta para dormir
 
-353 songs - 17 hr 32 min
+354 songs - 17 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,7 +50,7 @@
 | [Blue Sphere](https://open.spotify.com/track/3aQ46BOZ8C3fOfSFfyEcwq) | [Sea of Waves](https://open.spotify.com/artist/4R8zw6rwLPscyd42vMpMmo) | [Blue Sphere](https://open.spotify.com/album/1mOqBOPa7rItQzoOrgokpL) | 2:42 | 2023-03-23 |  |
 | [Blume](https://open.spotify.com/track/1HOuETpEjrYbU5Azt6iKjZ) | [Forsintha](https://open.spotify.com/artist/3YPvZWXdCmGaEVkMoCFYML) | [Blume](https://open.spotify.com/album/7moo1Qd1CWo8DIcTLrZLqr) | 2:29 | 2023-03-23 |  |
 | [Breath in the wild](https://open.spotify.com/track/0tUbZj0kg8zXSHLtwnovuB) | [Ion Mihutz](https://open.spotify.com/artist/6YTzCIrWAXP9KgZCU6O89m) | [Breath in the wild](https://open.spotify.com/album/5yuWZILlLQTDhgseEyR6uS) | 2:00 | 2023-03-23 | 2023-07-29 |
-| [Breathe into the Still](https://open.spotify.com/track/0IsEyOQ5ObJcX1tnuXeXqX) | [Rnwy Lites](https://open.spotify.com/artist/6exNpXC777DwaiJHKM6Vy0) | [Breathe into the Still](https://open.spotify.com/album/7ocnlYwMZYzEGm1oGTeWj6) | 3:12 | 2023-03-23 |  |
+| [Breathe into the Still](https://open.spotify.com/track/0IsEyOQ5ObJcX1tnuXeXqX) | [Rnwy Lites](https://open.spotify.com/artist/6exNpXC777DwaiJHKM6Vy0) | [Breathe into the Still](https://open.spotify.com/album/7ocnlYwMZYzEGm1oGTeWj6) | 3:12 | 2023-03-23 | 2023-12-02 |
 | [Broken Ledge](https://open.spotify.com/track/6kM1BzE57Mt5ILbWqzMB14) | [Rubicon Fray](https://open.spotify.com/artist/26I6Wv05zdcv6tt43ruf5Z) | [Broken Ledge](https://open.spotify.com/album/6EunXIj9FEYNhXS597LXIa) | 2:22 | 2023-03-23 |  |
 | [Butterfly](https://open.spotify.com/track/5bKOctkwgdfCktzgabUPne) | [Penny Layn](https://open.spotify.com/artist/5vdwMnlyiOSVdpoabkKwjy) | [Butterfly](https://open.spotify.com/album/0z60NoGLU6RnvxUSCCskIW) | 3:01 | 2023-03-23 |  |
 | [Cadeau](https://open.spotify.com/track/1uDuwJazJz7RRgrrkkEonw) | [Benjin Blund](https://open.spotify.com/artist/4X7C94aG7ctqFboeUcc1Q1) | [Cadeau](https://open.spotify.com/album/0jLAqumtp6VUkT7ielt55m) | 3:09 | 2023-03-23 |  |
@@ -257,6 +257,7 @@
 | [Resolvation](https://open.spotify.com/track/6QsiRBMCsArD9PdKHGy2xJ) | [The Nowhows](https://open.spotify.com/artist/0yv3AGgMUbIJR6DROh35j1) | [Resolvation](https://open.spotify.com/album/78IWzcRF28DoxShxRrxrrT) | 2:56 | 2023-03-23 |  |
 | [Reticence](https://open.spotify.com/track/1VLKeNy3qUe8MNvejjTtoy) | [Fiona Kolev](https://open.spotify.com/artist/5gIsewE9wwowXLnCYMpzO4) | [Reticence](https://open.spotify.com/album/3r2Bjqzlzo9eGjzcFjT4Ox) | 2:33 | 2023-03-23 |  |
 | [Retrieved Moments](https://open.spotify.com/track/0VD4MkKGJcWdDsIOZSUyO0) | [Spring Euphemia](https://open.spotify.com/artist/2LTLJd4VIsqMpaoh9dn1ik) | [Retrieved Moments](https://open.spotify.com/album/0rtav09pOyz3h5xNWo3EAW) | 3:04 | 2023-03-23 |  |
+| [Retrospect](https://open.spotify.com/track/4RpF62shn8RYyf3DBk3fD7) | [Aveniós](https://open.spotify.com/artist/4DUA5cmKWH8fIMmPIQhWY1) | [Retrospect](https://open.spotify.com/album/1FzOrekTb5ucVOISuozDmT) | 3:04 | 2023-12-01 |  |
 | [Revival](https://open.spotify.com/track/28sltBUJ0po8xXWfTrFPe2) | [Brenda Latro](https://open.spotify.com/artist/0mHX6nwLN0iQCEGTNUkpFC) | [Revival](https://open.spotify.com/album/2I4Gb4vBDlszTW1sHT7MDT) | 3:28 | 2023-03-23 |  |
 | [Rippling](https://open.spotify.com/track/5NeVNbd1n8nNSNbNxUsAzL) | [August Parks](https://open.spotify.com/artist/3qMOfxCeQP5i24x2yOGnof) | [Simpler](https://open.spotify.com/album/04OQuL4urHrYZKc7716UVL) | 3:29 | 2023-03-23 |  |
 | [Rituals](https://open.spotify.com/track/6ijjVhsdUDrHWTkciKq0nD) | [Lorelle Paredes](https://open.spotify.com/artist/6ivO0lqiz77mOwRgh9UNev) | [Rituals](https://open.spotify.com/album/54PzqjmnzQhv0ylYYUSA6A) | 2:24 | 2023-03-23 |  |

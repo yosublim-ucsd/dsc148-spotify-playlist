@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTwzVdyRpXm1.md) - [plain]
 
 > Our editor’s picks for best Desi songs of the year\. Cover: Shae Gill, Ali Sethi
 
-[Spotify](https://open.spotify.com/user/spotify) - 762,197 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 762,552 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTwzVdyRpXm1.md) - [plain]
 | 49 | [Paani Paani](https://open.spotify.com/track/1myzcUZDmZ5m1EgGv19c76) | [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1), [Aastha Gill](https://open.spotify.com/artist/1BYjhAClGpBTLZfics0VRZ) | [Paani Paani](https://open.spotify.com/album/5fkjWQSbKMhpA7NMh3JEjJ) | 2:54 |
 | 50 | [Tip Tip \(From "Sooryavanshi"\)](https://open.spotify.com/track/5zfRl79umXWvKoA7p4KEPa) | [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt), [Udit Narayan](https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K), [Alka Yagnik](https://open.spotify.com/artist/3gBKY0y3dFFVRqicLnVZYz) | [Tip Tip \(From "Sooryavanshi"\)](https://open.spotify.com/album/5xhnmuzC2RnvShBs631Q2y) | 4:10 |
 
-Snapshot ID: `MCxkZDhjZTZiYTMzYWNmNzIzOTIwYjczYTc3ZmUxOTFmZGZhYzY2N2Fh`
+Snapshot ID: `MCw5OWYwZTMxOTljODkzZDNmNWQxOGY0NzBiNDA3YTNjN2MyZjNjN2U3`

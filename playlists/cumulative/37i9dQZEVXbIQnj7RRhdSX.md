@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Italy.
 
-1,494 songs - 3 day 4 hr 57 min
+1,495 songs - 3 day 5 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -732,7 +732,7 @@
 | [lady](https://open.spotify.com/track/1h9HxkDH67X8cig593BBOb) | [sangiovanni](https://open.spotify.com/artist/7dL0nOHwnSAsNAwpkPSGWP) | [sangiovanni](https://open.spotify.com/album/4glIx4caTnxFFuRP5tUFaz) | 2:36 | 2021-08-01 | 2021-09-11 |
 | [lady](https://open.spotify.com/track/2uyQXAGGwHuQVsu04OTVsB) | [sangiovanni](https://open.spotify.com/artist/7dL0nOHwnSAsNAwpkPSGWP) | [lady](https://open.spotify.com/album/2lJmpMgIEwYQuo9KDwYZU7) | 2:36 | 2021-03-27\* | 2021-05-15 |
 | [lady](https://open.spotify.com/track/7wXb66O5ZZU77xtqNDH0gl) | [sangiovanni](https://open.spotify.com/artist/7dL0nOHwnSAsNAwpkPSGWP) | [lady](https://open.spotify.com/album/3X7nxQaNFuK1W5QYVpIvUL) | 2:36 | 2021-05-15 | 2021-08-01 |
-| [LALA](https://open.spotify.com/track/7ABLbnD53cQK00mhcaOUVG) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [LA VIDA ES UNA](https://open.spotify.com/album/3puAvurwvtvi1rodndIPW8) | 3:17 | 2023-08-11 |  |
+| [LALA](https://open.spotify.com/track/7ABLbnD53cQK00mhcaOUVG) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [LA VIDA ES UNA](https://open.spotify.com/album/3puAvurwvtvi1rodndIPW8) | 3:17 | 2023-08-11 | 2023-12-02 |
 | [Lambada \(feat\. Paola & Chiara\)](https://open.spotify.com/track/1PmB6iBhWIS1zOMQLEFqyQ) | [Boomdabash](https://open.spotify.com/artist/4mAsWDGLUIEdo6imU77WG6), [Paola & Chiara](https://open.spotify.com/artist/6sXWE3eSY59H6zy1tiRPue) | [Venduti](https://open.spotify.com/album/0sAh6LuYBSiFz3PVSkWCbF) | 2:55 | 2023-07-15 | 2023-09-05 |
 | [Lambada \(feat\. Paola & Chiara\)](https://open.spotify.com/track/2rkatLP5xDNG4qeYBBWMW6) | [Boomdabash](https://open.spotify.com/artist/4mAsWDGLUIEdo6imU77WG6), [Paola & Chiara](https://open.spotify.com/artist/6sXWE3eSY59H6zy1tiRPue) | [Lambada \(feat\. Paola & Chiara\)](https://open.spotify.com/album/1KVIV9O1w1tB21rRYEXtuK) | 2:55 | 2023-07-09 | 2023-07-16 |
 | [Lamette \(feat\. Salmo\)](https://open.spotify.com/track/1NCyzQwhhBc2muaA3bjRvH) | [Rose Villain](https://open.spotify.com/artist/2aya6KuqjXEhHBqYKsTPLs), [Salmo](https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW) | [Radio Gotham](https://open.spotify.com/album/6hGUJpYzwN9DPqVUC2onlU) | 2:29 | 2023-01-21 | 2023-02-06 |
@@ -978,6 +978,7 @@
 | [Non lo Sai](https://open.spotify.com/track/0D3QZNAMH2d5MFkVlebo6h) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [Milano Demons](https://open.spotify.com/album/202T8cUT1c3oQarCOJBy6m) | 3:48 | 2022-11-26 | 2023-11-05 |
 | [Non mi va](https://open.spotify.com/track/6C7AP6DWA9UsMK3kIqMifX) | [Colla Zio](https://open.spotify.com/artist/5b7RP4RDJ37q5EPUs4nf59) | [Non mi va](https://open.spotify.com/album/663i249uQEykDjBkHT2zX7) | 2:26 | 2023-02-09 | 2023-02-20 |
 | [Non mi va](https://open.spotify.com/track/1i5KZuk9052PeWBEOgTbkG) | [Colla Zio](https://open.spotify.com/artist/5b7RP4RDJ37q5EPUs4nf59) | [ROCKABILLY CARTER](https://open.spotify.com/album/4JhRql5w7yWaRipBuUM7ar) | 2:29 | 2023-02-19 | 2023-02-24 |
+| [Non Parlarmi \(Outro\)](https://open.spotify.com/track/0MKaWjeFXU07DGJ2LtKhoC) | [Massimo Pericolo](https://open.spotify.com/artist/1El4YQA8oCXX7ynFSxRTFq) | [Non Parlarmi \(Outro\)](https://open.spotify.com/album/0Pgz00h9dyL1dQ1BKKIjlB) | 3:31 | 2023-12-01 |  |
 | [Non sai niente](https://open.spotify.com/track/5fHy3DnkZ3qngoahHovezq) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27) | [Dolce vita](https://open.spotify.com/album/0OLSFLGiMOPSFTZ3oWUj34) | 2:42 | 2021-06-27 | 2021-06-28 |
 | [Non Siamo Uguali \(feat\. CoCo\)](https://open.spotify.com/track/5gNI6SVOOugp1KOrDpw3O4) | [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4), [CoCo](https://open.spotify.com/artist/5FEh6KHK99CyLXp3qFvZFM) | [Dove Volano Le Aquile Vol\. 2](https://open.spotify.com/album/5533SD7HXknP7vKdshypG1) | 2:57 | 2023-05-11 | 2023-05-16 |
 | [Non è Easy](https://open.spotify.com/track/11xSNPqHx56g6C474UBaUo) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [Milano Demons](https://open.spotify.com/album/202T8cUT1c3oQarCOJBy6m) | 2:44 | 2022-11-26 | 2022-12-04 |

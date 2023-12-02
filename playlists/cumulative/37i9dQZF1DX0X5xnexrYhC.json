@@ -240,7 +240,7 @@
       ],
       "date_added": "2022-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 181706,
       "name": "Brad Pitt",
       "url": "https://open.spotify.com/track/603NmSpDReeERhC8heOeVB"
@@ -724,6 +724,24 @@
       "duration_ms": 222786,
       "name": "I Love You But I Love Me More (feat. Beach Bunny)",
       "url": "https://open.spotify.com/track/6CpeA8nhcJO9zdRsrJwLE8"
+    },
+    {
+      "album": {
+        "name": "hello this is the setlist for my tour",
+        "url": "https://open.spotify.com/album/1jUrf0KNgZirx7g7672X0s"
+      },
+      "artists": [
+        {
+          "name": "GAYLE",
+          "url": "https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9"
+        }
+      ],
+      "date_added": "2022-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146769,
+      "name": "indieedgycool",
+      "url": "https://open.spotify.com/track/1wo8pUckwcg6yQmwSuepvX"
     },
     {
       "album": {

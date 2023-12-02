@@ -4,7 +4,7 @@
 
 > Americana's artists and hits of tomorrow\. Cover: Margo Cilker
 
-197 songs - 12 hr 4 min
+198 songs - 12 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,7 +58,7 @@
 | [Generation Blues](https://open.spotify.com/track/11kRrvtqJYtjReYMTrJuod) | [Graham Sharp](https://open.spotify.com/artist/2VgjLUdJQfjmjy4qFSeftQ) | [Truer Picture](https://open.spotify.com/album/0AtGI45G4cbiVYwc7DNE8P) | 2:57 | 2023-04-07 | 2023-05-20 |
 | [Generation Blues](https://open.spotify.com/track/492j910IaKI0oMeZIbvxpa) | [Graham Sharp](https://open.spotify.com/artist/2VgjLUdJQfjmjy4qFSeftQ) | [Generation Blues](https://open.spotify.com/album/7nHTE11frwHTdD2D8oJIrO) | 2:57 | 2022-01-28 | 2023-04-30 |
 | [Georgia Dreamin'](https://open.spotify.com/track/2N3C3SQ1T7VNoYKOUWKWsT) | [Ben Chapman & Co.](https://open.spotify.com/artist/6caurkAUTAiE68wavYKUN8), [Ben Chapman](https://open.spotify.com/artist/1AbQ2l8a9JEh8FrJgf1OA9) | [Georgia Dreamin'](https://open.spotify.com/album/1BA9KEdF7nurksYJY1Lc3N) | 3:53 | 2023-01-27 |  |
-| [Get It Right](https://open.spotify.com/track/0ve68szQnWDaBxmXcW9JgY) | [Bo Armstrong](https://open.spotify.com/artist/0fQXuVLddGG08vaJrDJQmv) | [Get It Right](https://open.spotify.com/album/08WN5lGg3mobJaIzFCDoTQ) | 3:32 | 2022-01-28 |  |
+| [Get It Right](https://open.spotify.com/track/0ve68szQnWDaBxmXcW9JgY) | [Bo Armstrong](https://open.spotify.com/artist/0fQXuVLddGG08vaJrDJQmv) | [Get It Right](https://open.spotify.com/album/08WN5lGg3mobJaIzFCDoTQ) | 3:32 | 2022-01-28 | 2023-12-02 |
 | [Get It ‘Fore It’s Gone](https://open.spotify.com/track/0yEK6lJ4hZw1mx2nIQ5i66) | [Pokey LaFarge](https://open.spotify.com/artist/6hAUCkzZpoYGObd8qFW5TT) | [Get It ‘Fore It’s Gone](https://open.spotify.com/album/36rWb7X5e9PkWN8wpsVFXW) | 3:34 | 2022-01-28 | 2023-01-14 |
 | [Gettin' Outta My Mind](https://open.spotify.com/track/4q5wuUvUTOc5ujzbNTP4bi) | [Channing Wilson](https://open.spotify.com/artist/5LlJgNc8PgsXsloNEw2uDW) | [Dead Man](https://open.spotify.com/album/24ZU9yEJ7eHsXG6Tht1dyb) | 3:01 | 2023-06-30 |  |
 | [Gettin' Outta My Mind](https://open.spotify.com/track/5xVKhynmkODxlh6ol9GSN8) | [Channing Wilson](https://open.spotify.com/artist/5LlJgNc8PgsXsloNEw2uDW) | [Gettin' Outta My Mind](https://open.spotify.com/album/6DGQItiDkYwvpJNrvKdOZ4) | 3:01 | 2023-02-03 | 2023-07-08 |
@@ -116,7 +116,7 @@
 | [Lost & Lonesome](https://open.spotify.com/track/5nVK0rgBaHqRioBoWBWS8f) | [Buffalo Nichols](https://open.spotify.com/artist/5dT9JLuBwGNiHJQsY29Qmh) | [Buffalo Nichols](https://open.spotify.com/album/2P9z3iSo6T3NmaX5q4FjTc) | 3:42 | 2022-01-28 |  |
 | [Love Is A Place](https://open.spotify.com/track/0gX6FDCWsArTJwmbtX2AIr) | [Jaime Wyatt](https://open.spotify.com/artist/6QCJlDImUdyqBFXcMvm52U) | [Love Is A Place](https://open.spotify.com/album/5lzXvyf2j1KHvzanYAmBdE) | 3:05 | 2023-09-08 |  |
 | [Love Without Possession](https://open.spotify.com/track/738fOOmAzfEssdCzYRv6Un) | [Scout LaRue Willis](https://open.spotify.com/artist/3Ysxmjrlt0lcajmYoMZznN) | [Love Without Possession](https://open.spotify.com/album/3Ugdu51uh1xMeZkOoypBNL) | 4:01 | 2022-01-28 |  |
-| [Lungs](https://open.spotify.com/track/59yvm9n65pPkykLU3e0Kf0) | [S.G\. Goodman](https://open.spotify.com/artist/7hzn6FoCsEaUNPnPn7TJWd) | [Lungs](https://open.spotify.com/album/2gXXc2kHhKHtDpaXNi0M6g) | 2:57 | 2022-01-28 |  |
+| [Lungs](https://open.spotify.com/track/59yvm9n65pPkykLU3e0Kf0) | [S.G\. Goodman](https://open.spotify.com/artist/7hzn6FoCsEaUNPnPn7TJWd) | [Lungs](https://open.spotify.com/album/2gXXc2kHhKHtDpaXNi0M6g) | 2:57 | 2022-01-28 | 2023-12-02 |
 | [Lyin' Low](https://open.spotify.com/track/3g8UrwhapPBLVUU6WX6MH0) | [Charles Wesley Godwin](https://open.spotify.com/artist/2ErsJAz6qJ5cqjoVAvfvaC) | [How the Mighty Fall](https://open.spotify.com/album/0xSyaaBZ3hrYf8rROAs125) | 4:18 | 2023-05-05 |  |
 | [Lyin' Low](https://open.spotify.com/track/4zKzSlADNWYQ8dKOQ3eMf0) | [Charles Wesley Godwin](https://open.spotify.com/artist/2ErsJAz6qJ5cqjoVAvfvaC) | [Lyin' Low](https://open.spotify.com/album/20XVs57B5nrk68OGkSbWh4) | 4:18 | 2022-01-28 | 2023-05-11 |
 | [Mary Jane & Chardonnay](https://open.spotify.com/track/1Oa10qvMw6KP7VYtJUcsLi) | [Meg McRee](https://open.spotify.com/artist/2XXRe7XAVLJZUUOjlEdssy) | [Is It Just Me?](https://open.spotify.com/album/0wlwXhATsyfP9ZjqOCkTqi) | 3:21 | 2023-03-03 |  |
@@ -163,7 +163,8 @@
 | [So Damn Lucky](https://open.spotify.com/track/4TYu2jojSGxALs2YNWnnwr) | [Taylor McCall](https://open.spotify.com/artist/5f1cs8LexmMYbhNEIOsDLT) | [So Damn Lucky](https://open.spotify.com/album/5qCE1zhNO3S8Vo0nPCXdhu) | 4:03 | 2022-01-28 |  |
 | [Some Misty Morning \[Feat\. Erin Rae\]](https://open.spotify.com/track/4uLLyixpzZjyvZRFDdIPEa) | [Logan Ledger](https://open.spotify.com/artist/4KcXOZaofRdvBDl0b8LOYM), [Erin Rae](https://open.spotify.com/artist/167VlZ0C0ewQbgKexRFcs6) | [Golden State](https://open.spotify.com/album/1wKjZTg1gPmXWmcO79GVwn) | 4:25 | 2023-09-08 |  |
 | [Somewhere](https://open.spotify.com/track/5GQb6JXHTQW8Uz4xWo1lOi) | [Chris Kasper](https://open.spotify.com/artist/6Ood49EuwB8rTyIduHjSZr) | [Somewhere](https://open.spotify.com/album/2UlnHVnEnx9ZZ6nuQ4NXOH) | 3:14 | 2022-01-28 |  |
-| [Stolen Love](https://open.spotify.com/track/6PHlD7DXAfcCW2Rvp0K3OW) | [Josiah and the Bonnevilles](https://open.spotify.com/artist/3FMcVBx2TMq2f5gEPcUieC) | [Stolen Love](https://open.spotify.com/album/4SUHzoDXhSbdakZP4Fr635) | 3:43 | 2022-01-28 |  |
+| [Stolen Love](https://open.spotify.com/track/6PHlD7DXAfcCW2Rvp0K3OW) | [Josiah and the Bonnevilles](https://open.spotify.com/artist/3FMcVBx2TMq2f5gEPcUieC) | [Stolen Love](https://open.spotify.com/album/4SUHzoDXhSbdakZP4Fr635) | 3:43 | 2022-01-28 | 2023-12-02 |
+| [Suburban Outlaw](https://open.spotify.com/track/1guH0XpqZzQmRkpKCY3sdb) | [Maggie Antone](https://open.spotify.com/artist/6mEP6006jfAcrzLbxyEZxp) | [Suburban Outlaw](https://open.spotify.com/album/1dpKQmczm2H9hNt4lFMlYV) | 4:56 | 2023-12-01 |  |
 | [Sugar in the Creek](https://open.spotify.com/track/0Ppp8AhUasTiQxp4RHwyj5) | [Bendigo Fletcher](https://open.spotify.com/artist/6O8lpJl2nITlA3dJfT95pM) | [Fits Of Laughter](https://open.spotify.com/album/1SuYWmzfeZOnStKfSfnJ0D) | 4:11 | 2022-10-14 |  |
 | [Sugar in the Creek](https://open.spotify.com/track/7ceIJcA4Scip0WlJwwUnTS) | [Bendigo Fletcher](https://open.spotify.com/artist/6O8lpJl2nITlA3dJfT95pM) | [Sugar in the Creek](https://open.spotify.com/album/27apDe4nr7zwbz0ORbgrp1) | 4:11 | 2022-01-28 | 2022-10-23 |
 | [Summer](https://open.spotify.com/track/3qbWCni1577NA2kQdQHHKR) | [Jobi Riccio](https://open.spotify.com/artist/0iBeDti8V9DLGVPA2xHMeO) | [Whiplash](https://open.spotify.com/album/7JcEn5RIPlyhPNUtbht9mc) | 3:56 | 2023-09-08 |  |

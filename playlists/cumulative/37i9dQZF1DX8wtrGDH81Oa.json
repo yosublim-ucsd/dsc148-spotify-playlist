@@ -1215,6 +1215,24 @@
     },
     {
       "album": {
+        "name": "Echoes of Eden",
+        "url": "https://open.spotify.com/album/0VNrq14IGM6EBW4bDh67C9"
+      },
+      "artists": [
+        {
+          "name": "Lucifer Boko",
+          "url": "https://open.spotify.com/artist/4FoVsjrP1lkTLlRw8uSGF2"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148037,
+      "name": "Echoes of Eden",
+      "url": "https://open.spotify.com/track/2ZFntU1PuOyVKvggLHR4zJ"
+    },
+    {
+      "album": {
         "name": "Electric Moon",
         "url": "https://open.spotify.com/album/3FV2nTiKyWzRATZ1ghgeP6"
       },
@@ -1608,6 +1626,24 @@
       "duration_ms": 227500,
       "name": "Glow",
       "url": "https://open.spotify.com/track/70gpJ5jdQntbdwQD0Yg0wl"
+    },
+    {
+      "album": {
+        "name": "Good Intentions",
+        "url": "https://open.spotify.com/album/1qwwsNNztNK7wm0ndxwAYM"
+      },
+      "artists": [
+        {
+          "name": "Carlo Azure",
+          "url": "https://open.spotify.com/artist/1UosFEbzfi6fLIdQSYiL1Z"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 97143,
+      "name": "Good Intentions",
+      "url": "https://open.spotify.com/track/6GwgPFKL5IO1Zhjb9ZMLRm"
     },
     {
       "album": {
@@ -3537,6 +3573,24 @@
     },
     {
       "album": {
+        "name": "Summertide",
+        "url": "https://open.spotify.com/album/7vwqJPB3GrViym4oP1EEUm"
+      },
+      "artists": [
+        {
+          "name": "Edward The Eagle",
+          "url": "https://open.spotify.com/artist/2Un95yxT6GCP6qwydEfQ4d"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150857,
+      "name": "Summertide",
+      "url": "https://open.spotify.com/track/0PvtqPA5hhMktJGxZzCWJD"
+    },
+    {
+      "album": {
         "name": "Sun Glitches",
         "url": "https://open.spotify.com/album/2MkOSCMXM1BVOVKZQUrR6h"
       },
@@ -3696,6 +3750,24 @@
       "duration_ms": 182504,
       "name": "Telemagenta",
       "url": "https://open.spotify.com/track/6dIZ5m5HodQA0dv43zFbaQ"
+    },
+    {
+      "album": {
+        "name": "Terrace",
+        "url": "https://open.spotify.com/album/4ru0bf5aCnY7zXqbqRgAok"
+      },
+      "artists": [
+        {
+          "name": "Peyote",
+          "url": "https://open.spotify.com/artist/3GcLm6nLpo2oAbrfzYfRfr"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117735,
+      "name": "Terrace",
+      "url": "https://open.spotify.com/track/2fAfvKAkeBMNlO72CM4LN5"
     },
     {
       "album": {

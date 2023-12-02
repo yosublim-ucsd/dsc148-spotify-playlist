@@ -2,9 +2,9 @@
 
 ### [New Dance Hits 2023](https://open.spotify.com/playlist/2p24KuIbwho6IKwVb2VYiC)
 
-> The best Dance and EDM tracks right now!
+> The best Dance and EDM tracks right now! Cover: Dillon Francis
 
-115 songs - 5 hr 54 min
+117 songs - 6 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,6 +89,7 @@
 | [Pose](https://open.spotify.com/track/5LBemsCrsGqsXSGYA8i2z6) | [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx), [NEZ](https://open.spotify.com/artist/2Mwy2BwAUT3WU1cZa3pvEW) | [Salvation](https://open.spotify.com/album/34yu5063EpoaKKir1m0q9e) | 3:11 | 2023-10-27 | 2023-11-25 |
 | [Problems \- New Beat Order Remix](https://open.spotify.com/track/0ZixJ1wuQY8bmctfUNYFJT) | [Lyan Paris](https://open.spotify.com/artist/3KmJs3ery3PJQuQQ5FOllC), [New Beat Order](https://open.spotify.com/artist/0gQDOj4OisQbTq7FUEziea) | [Problems \(New Beat Order Remix\)](https://open.spotify.com/album/383sjk8WRE7ks2wgEiutBU) | 2:16 | 2023-10-27 | 2023-11-25 |
 | [Quiver](https://open.spotify.com/track/59AhbmCmtzcGVEYuzNXFIx) | [SILK](https://open.spotify.com/artist/01epL9hgF4G7guGkrnzR8a) | [Quiver](https://open.spotify.com/album/2VkVJMy7SwL3j758hgXbvO) | 3:01 | 2023-10-27 | 2023-11-25 |
+| [Rainy \(with REI AMI\)](https://open.spotify.com/track/4feAKLuq3ShnAA84HcUFvf) | [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf), [REI AMI](https://open.spotify.com/artist/6U1dV7aL68N7Gb0Naq34V5) | [This Mixtape is Fire TOO](https://open.spotify.com/album/5H1GCTOowyeZzBVBddvdFD) | 2:44 | 2023-12-01 |  |
 | [Ray Of Solar \- Tiësto Remix](https://open.spotify.com/track/4HfQpalNYBccGOio2lqFbW) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Ray Of Solar \(Tiësto Remix\)](https://open.spotify.com/album/2wu3YZ0c80fgq9IcKhyDHH) | 3:35 | 2023-10-27 |  |
 | [Reason \(with Paige Cavell\)](https://open.spotify.com/track/4OQL3tmaCuh2j6K29GgT37) | [SILK](https://open.spotify.com/artist/01epL9hgF4G7guGkrnzR8a), [Paige Cavell](https://open.spotify.com/artist/6K3xqGQiS7BLYG6llkAF24) | [Reason \(with Paige Cavell\)](https://open.spotify.com/album/5QWzNf3o2kqWwYeZo1ZKjE) | 2:34 | 2023-10-27 | 2023-11-25 |
 | [Ride It](https://open.spotify.com/track/5NRTboPmhyT36EkECwQZwO) | [Armand Van Helden](https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE), [Roc'Well](https://open.spotify.com/artist/24ymM2hmciAJvXw8mrXqY1), [Coco](https://open.spotify.com/artist/7q33wxvdJ95u6w3fY2q5ai), [Slayrizz](https://open.spotify.com/artist/2g9SWtMYaTDIqWxaOBe495) | [Ride It](https://open.spotify.com/album/0hpKj3ucwfMHnvf5xEwWfI) | 2:21 | 2023-10-27 | 2023-11-25 |
@@ -105,6 +106,7 @@
 | [Side Effects](https://open.spotify.com/track/5vOWdyk23iqRryEmbNCrCp) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK), [Lewis Thompson](https://open.spotify.com/artist/26OmQHradZrF0CS7DrgWDH) | [Side Effects](https://open.spotify.com/album/2LgiXusyrxXV3OqXJLK13j) | 2:33 | 2023-10-27 |  |
 | [Soufflé](https://open.spotify.com/track/39uEObHAieeaSLXpvz77Qw) | [King Cruff](https://open.spotify.com/artist/4OpO9CxjDD3HQ2g4NnTato) | [Soufflé](https://open.spotify.com/album/66MEZkQbD5D3awAKo5UnW2) | 2:30 | 2023-10-27 | 2023-11-25 |
 | [Stardust](https://open.spotify.com/track/64YqaPCvvnHxj96Qlo1a9w) | [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP) | [Constellations](https://open.spotify.com/album/4iYUh0Cw9bB5XSObj8AuQq) | 2:51 | 2023-10-27 |  |
+| [Still Fall](https://open.spotify.com/track/3JG1pGENyNtrVyPd1VPhN4) | [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG) | [Still Fall](https://open.spotify.com/album/74e6pSi6iXw7TMut1Utb0f) | 3:29 | 2023-12-01 |  |
 | [Suffer In Silence](https://open.spotify.com/track/6TMsLIRJQ7LkfFY3g0DGKS) | [Rezz](https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw) | [Suffer In Silence](https://open.spotify.com/album/7HS540iPPvyiOIwDbPGQGc) | 3:14 | 2023-10-27 |  |
 | [Sumthin Crazy \(with Rochelle Jordan\)](https://open.spotify.com/track/7ebsbZwgXRvssvuleJ3Ucl) | [Snakehips](https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP), [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [never worry](https://open.spotify.com/album/1ZXC6ylnVeo9H0jAu5ri4r) | 3:06 | 2023-10-27 |  |
 | [Sunglasses At Night](https://open.spotify.com/track/6eoY6XnhGFr3HInyECJdbx) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1) | [Sunglasses At Night](https://open.spotify.com/album/4hLi7mKyVQ3tL20otPQpk1) | 2:50 | 2023-10-27 |  |

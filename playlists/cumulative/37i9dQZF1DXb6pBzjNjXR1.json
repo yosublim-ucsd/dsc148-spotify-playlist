@@ -2619,6 +2619,32 @@
     },
     {
       "album": {
+        "name": "Yafaso (feat. Villa)",
+        "url": "https://open.spotify.com/album/3018AvgGDwngM2RRBueTgq"
+      },
+      "artists": [
+        {
+          "name": "Cornelius SA",
+          "url": "https://open.spotify.com/artist/7t6WmbNSAbZJj4NDKMxH9N"
+        },
+        {
+          "name": "Dee Cee",
+          "url": "https://open.spotify.com/artist/4rVjLPF02DFPN3mSBMgPdt"
+        },
+        {
+          "name": "Villa",
+          "url": "https://open.spotify.com/artist/0sZFV6TXt2oSQUfW37guTt"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229525,
+      "name": "Yafaso (feat. Villa)",
+      "url": "https://open.spotify.com/track/7dZD5roci3Ue5lRt0mSsKA"
+    },
+    {
+      "album": {
         "name": "Yoruba",
         "url": "https://open.spotify.com/album/5S65Qudj7Jk2YLiDUsWBJ9"
       },

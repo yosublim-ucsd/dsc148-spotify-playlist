@@ -1,12 +1,12 @@
 {
   "description": "Raw, sentimental feels.",
-  "num_followers": 444130,
+  "num_followers": 444131,
   "original_name": "sad lofi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZmQxNDI2ZWFhM2E0ZGQyNTI1ZmIwZGQ3ZDVmYjViZTExZTMwN2Qy",
+  "snapshot_id": "MCxjODEwYjYxOGI5ZTJkY2ZkY2IwMjhjZTJmNTA0ZjFlNzA5ZTdhZGM5",
   "tracks": [
     {
       "added_at": "2023-11-29 08:16:23",
@@ -75,22 +75,6 @@
     {
       "added_at": "2023-11-29 08:16:23",
       "album": {
-        "name": "roamwave",
-        "url": "https://open.spotify.com/album/5IbovMKmZTv0ikkb3qmnSy"
-      },
-      "artists": [
-        {
-          "name": "ai sayuri",
-          "url": "https://open.spotify.com/artist/5YohkWp4bq0IUw4c0StwjJ"
-        }
-      ],
-      "duration_ms": 138663,
-      "name": "roamwave",
-      "url": "https://open.spotify.com/track/5LaOfGGkGFUyUdULSwGzwc"
-    },
-    {
-      "added_at": "2023-11-29 08:16:23",
-      "album": {
         "name": "Burnt Coffee",
         "url": "https://open.spotify.com/album/7JLxezcgbxK6owUxAtJnsA"
       },
@@ -103,6 +87,22 @@
       "duration_ms": 126857,
       "name": "Burnt Coffee",
       "url": "https://open.spotify.com/track/754aGQqZJaznJc5fc2lTbG"
+    },
+    {
+      "added_at": "2023-11-29 08:16:23",
+      "album": {
+        "name": "roamwave",
+        "url": "https://open.spotify.com/album/5IbovMKmZTv0ikkb3qmnSy"
+      },
+      "artists": [
+        {
+          "name": "ai sayuri",
+          "url": "https://open.spotify.com/artist/5YohkWp4bq0IUw4c0StwjJ"
+        }
+      ],
+      "duration_ms": 138663,
+      "name": "roamwave",
+      "url": "https://open.spotify.com/track/5LaOfGGkGFUyUdULSwGzwc"
     },
     {
       "added_at": "2023-11-29 08:16:23",
@@ -155,22 +155,6 @@
     {
       "added_at": "2023-11-29 08:16:23",
       "album": {
-        "name": "kyoto dreams",
-        "url": "https://open.spotify.com/album/3msbu1P8p3H5umoFgmosLT"
-      },
-      "artists": [
-        {
-          "name": "WAIIFUU",
-          "url": "https://open.spotify.com/artist/4HW4cjXaCVyNsbxUjyikIY"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "kyoto dreams",
-      "url": "https://open.spotify.com/track/7EzZ5GTsVwWApFLJyv6znP"
-    },
-    {
-      "added_at": "2023-11-29 08:16:23",
-      "album": {
         "name": "Memories & Notes",
         "url": "https://open.spotify.com/album/3EeK9doDTJjMcpLw7gDQbt"
       },
@@ -183,6 +167,22 @@
       "duration_ms": 113357,
       "name": "Memories & Notes",
       "url": "https://open.spotify.com/track/0LJeA9BFfwRfsOTxzhWzCF"
+    },
+    {
+      "added_at": "2023-11-29 08:16:23",
+      "album": {
+        "name": "kyoto dreams",
+        "url": "https://open.spotify.com/album/3msbu1P8p3H5umoFgmosLT"
+      },
+      "artists": [
+        {
+          "name": "WAIIFUU",
+          "url": "https://open.spotify.com/artist/4HW4cjXaCVyNsbxUjyikIY"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "kyoto dreams",
+      "url": "https://open.spotify.com/track/7EzZ5GTsVwWApFLJyv6znP"
     },
     {
       "added_at": "2023-11-29 08:16:23",
@@ -215,22 +215,6 @@
       "duration_ms": 141000,
       "name": "Call It A Night",
       "url": "https://open.spotify.com/track/4T7oDgtpVj7mvGseuU7nyA"
-    },
-    {
-      "added_at": "2023-11-29 08:16:23",
-      "album": {
-        "name": "soul",
-        "url": "https://open.spotify.com/album/4uQ6ul2x84hfo75G4hl7EW"
-      },
-      "artists": [
-        {
-          "name": "Tatami Construct",
-          "url": "https://open.spotify.com/artist/3DS80e9pCgy5RyTztgncuC"
-        }
-      ],
-      "duration_ms": 215713,
-      "name": "memory",
-      "url": "https://open.spotify.com/track/3kp7TJruKzJUlr3entkFZ2"
     },
     {
       "added_at": "2023-11-29 08:16:23",
@@ -283,18 +267,18 @@
     {
       "added_at": "2023-11-29 08:16:23",
       "album": {
-        "name": "Blue Side",
-        "url": "https://open.spotify.com/album/2PPei5ygMvZ0Zk1tDSIxZX"
+        "name": "soul",
+        "url": "https://open.spotify.com/album/4uQ6ul2x84hfo75G4hl7EW"
       },
       "artists": [
         {
-          "name": "Qommodity",
-          "url": "https://open.spotify.com/artist/5Pts11yzPI5Qsl7PmTed5P"
+          "name": "Tatami Construct",
+          "url": "https://open.spotify.com/artist/3DS80e9pCgy5RyTztgncuC"
         }
       ],
-      "duration_ms": 128212,
-      "name": "Blue Side",
-      "url": "https://open.spotify.com/track/1PSbDjjGuMpfGeKaHZGiwh"
+      "duration_ms": 215713,
+      "name": "memory",
+      "url": "https://open.spotify.com/track/3kp7TJruKzJUlr3entkFZ2"
     },
     {
       "added_at": "2023-11-29 08:16:23",
@@ -315,6 +299,22 @@
       "duration_ms": 140762,
       "name": "reflections in water",
       "url": "https://open.spotify.com/track/5ZPeC07wnQMCVJ4FU6tee9"
+    },
+    {
+      "added_at": "2023-11-29 08:16:23",
+      "album": {
+        "name": "Blue Side",
+        "url": "https://open.spotify.com/album/2PPei5ygMvZ0Zk1tDSIxZX"
+      },
+      "artists": [
+        {
+          "name": "Qommodity",
+          "url": "https://open.spotify.com/artist/5Pts11yzPI5Qsl7PmTed5P"
+        }
+      ],
+      "duration_ms": 128212,
+      "name": "Blue Side",
+      "url": "https://open.spotify.com/track/1PSbDjjGuMpfGeKaHZGiwh"
     },
     {
       "added_at": "2023-11-29 08:16:23",
@@ -655,22 +655,6 @@
     {
       "added_at": "2023-11-29 08:16:23",
       "album": {
-        "name": "Soft Life",
-        "url": "https://open.spotify.com/album/6lddJ60eyGfolq2i9Y7HTV"
-      },
-      "artists": [
-        {
-          "name": "Laflov",
-          "url": "https://open.spotify.com/artist/6EFjl8owc4s7CFfcBcS9AH"
-        }
-      ],
-      "duration_ms": 132260,
-      "name": "Melatonin",
-      "url": "https://open.spotify.com/track/6GgEUzd0UDtcCTFh5tmuXI"
-    },
-    {
-      "added_at": "2023-11-29 08:16:23",
-      "album": {
         "name": "Magic Mind",
         "url": "https://open.spotify.com/album/2sqn4T8rIqQkc0WHBabWIC"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 155424,
       "name": "Magic Mind",
       "url": "https://open.spotify.com/track/3nqicEuiIvZvqtHeQtue74"
+    },
+    {
+      "added_at": "2023-11-29 08:16:23",
+      "album": {
+        "name": "Soft Life",
+        "url": "https://open.spotify.com/album/6lddJ60eyGfolq2i9Y7HTV"
+      },
+      "artists": [
+        {
+          "name": "Laflov",
+          "url": "https://open.spotify.com/artist/6EFjl8owc4s7CFfcBcS9AH"
+        }
+      ],
+      "duration_ms": 132260,
+      "name": "Melatonin",
+      "url": "https://open.spotify.com/track/6GgEUzd0UDtcCTFh5tmuXI"
     },
     {
       "added_at": "2023-11-29 08:16:23",
@@ -803,22 +803,6 @@
     {
       "added_at": "2023-11-29 08:16:23",
       "album": {
-        "name": "Free Trees",
-        "url": "https://open.spotify.com/album/377keRBbyFcp49RdaFw90Z"
-      },
-      "artists": [
-        {
-          "name": "Duos On Mars",
-          "url": "https://open.spotify.com/artist/22xfcNHhnZQfa6BWd209Az"
-        }
-      ],
-      "duration_ms": 150857,
-      "name": "Free Trees",
-      "url": "https://open.spotify.com/track/23xwWliB2C9ebh21I7kD0U"
-    },
-    {
-      "added_at": "2023-11-29 08:16:23",
-      "album": {
         "name": "Loofy",
         "url": "https://open.spotify.com/album/6V8ocqjbvuwO5bvVkCqgfK"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 96316,
       "name": "Memories Of You",
       "url": "https://open.spotify.com/track/6NGD8p3zd3ruxwCaD23tEz"
+    },
+    {
+      "added_at": "2023-11-29 08:16:23",
+      "album": {
+        "name": "Free Trees",
+        "url": "https://open.spotify.com/album/377keRBbyFcp49RdaFw90Z"
+      },
+      "artists": [
+        {
+          "name": "Duos On Mars",
+          "url": "https://open.spotify.com/artist/22xfcNHhnZQfa6BWd209Az"
+        }
+      ],
+      "duration_ms": 150857,
+      "name": "Free Trees",
+      "url": "https://open.spotify.com/track/23xwWliB2C9ebh21I7kD0U"
     },
     {
       "added_at": "2023-11-29 08:16:23",
@@ -927,6 +927,22 @@
     {
       "added_at": "2023-11-29 08:16:23",
       "album": {
+        "name": "Home Soon",
+        "url": "https://open.spotify.com/album/4CL7sl8FwxJ0HjYCf6Al0k"
+      },
+      "artists": [
+        {
+          "name": "yuzu blur",
+          "url": "https://open.spotify.com/artist/2NnBvycZmkfFgGyiWZEX3R"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "Home Soon",
+      "url": "https://open.spotify.com/track/0plIIWDys4UBGmura01RpY"
+    },
+    {
+      "added_at": "2023-11-29 08:16:23",
+      "album": {
         "name": "Prelude to the Dawn",
         "url": "https://open.spotify.com/album/6b8KFU2jTjCRJiCVuDYnJS"
       },
@@ -955,22 +971,6 @@
       "duration_ms": 121672,
       "name": "Bloom",
       "url": "https://open.spotify.com/track/7xqFOjNcp0NJFo9wGKGOpJ"
-    },
-    {
-      "added_at": "2023-11-29 08:16:23",
-      "album": {
-        "name": "Home Soon",
-        "url": "https://open.spotify.com/album/4CL7sl8FwxJ0HjYCf6Al0k"
-      },
-      "artists": [
-        {
-          "name": "yuzu blur",
-          "url": "https://open.spotify.com/artist/2NnBvycZmkfFgGyiWZEX3R"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "Home Soon",
-      "url": "https://open.spotify.com/track/0plIIWDys4UBGmura01RpY"
     },
     {
       "added_at": "2023-11-29 08:16:23",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2023-11-29 08:16:23",
       "album": {
-        "name": "Cinemotional, Vol. 2",
-        "url": "https://open.spotify.com/album/46BBiaHMDLvG25ei4TUIdf"
-      },
-      "artists": [
-        {
-          "name": "jalowo",
-          "url": "https://open.spotify.com/artist/2D78J8PPLKuEZqmArTFlQS"
-        }
-      ],
-      "duration_ms": 123076,
-      "name": "Gone",
-      "url": "https://open.spotify.com/track/1s5sE20grtcHlIDOo0V883"
-    },
-    {
-      "added_at": "2023-11-29 08:16:23",
-      "album": {
         "name": "Keep On Going",
         "url": "https://open.spotify.com/album/66bMNbYRV8vuMEbELg1UpD"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 131162,
       "name": "We Are Safe Here",
       "url": "https://open.spotify.com/track/54hB5NjjtjCMkfY7yaF9dR"
+    },
+    {
+      "added_at": "2023-11-29 08:16:23",
+      "album": {
+        "name": "Cinemotional, Vol. 2",
+        "url": "https://open.spotify.com/album/46BBiaHMDLvG25ei4TUIdf"
+      },
+      "artists": [
+        {
+          "name": "jalowo",
+          "url": "https://open.spotify.com/artist/2D78J8PPLKuEZqmArTFlQS"
+        }
+      ],
+      "duration_ms": 123076,
+      "name": "Gone",
+      "url": "https://open.spotify.com/track/1s5sE20grtcHlIDOo0V883"
     },
     {
       "added_at": "2023-11-29 08:16:23",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2023-11-29 08:16:23",
       "album": {
-        "name": "Distant",
-        "url": "https://open.spotify.com/album/4Hdki5EPcGWFmTr3UF6Xt8"
-      },
-      "artists": [
-        {
-          "name": "w00ds",
-          "url": "https://open.spotify.com/artist/5PgMKzd3GrAPFZUqxdX1jy"
-        }
-      ],
-      "duration_ms": 144892,
-      "name": "Distant",
-      "url": "https://open.spotify.com/track/5PTpamIgmhhvqkQaYyADu0"
-    },
-    {
-      "added_at": "2023-11-29 08:16:23",
-      "album": {
         "name": "Frostthrone",
         "url": "https://open.spotify.com/album/3WvdfonSJ1Rjz7hxHUcxcl"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 228000,
       "name": "Frostthrone",
       "url": "https://open.spotify.com/track/50wKmfNUZppZJsAunClnYF"
+    },
+    {
+      "added_at": "2023-11-29 08:16:23",
+      "album": {
+        "name": "Distant",
+        "url": "https://open.spotify.com/album/4Hdki5EPcGWFmTr3UF6Xt8"
+      },
+      "artists": [
+        {
+          "name": "w00ds",
+          "url": "https://open.spotify.com/artist/5PgMKzd3GrAPFZUqxdX1jy"
+        }
+      ],
+      "duration_ms": 144892,
+      "name": "Distant",
+      "url": "https://open.spotify.com/track/5PTpamIgmhhvqkQaYyADu0"
     },
     {
       "added_at": "2023-11-29 08:16:23",
@@ -1195,6 +1195,22 @@
     {
       "added_at": "2023-11-29 08:16:23",
       "album": {
+        "name": "Stay In Bed",
+        "url": "https://open.spotify.com/album/3US880QWOU3JqaIOguUilz"
+      },
+      "artists": [
+        {
+          "name": "Zap Strap",
+          "url": "https://open.spotify.com/artist/26um9QT84sVd1uLgI3K6lN"
+        }
+      ],
+      "duration_ms": 124821,
+      "name": "Stay In Bed",
+      "url": "https://open.spotify.com/track/1ZRiNz4OJFI1oJ8A5EBA7k"
+    },
+    {
+      "added_at": "2023-11-29 08:16:23",
+      "album": {
         "name": "Memories Fade",
         "url": "https://open.spotify.com/album/2nR1dUZXdvlBkcYzkRuloW"
       },
@@ -1211,22 +1227,6 @@
       "duration_ms": 147474,
       "name": "Memories Fade",
       "url": "https://open.spotify.com/track/25EgaBai9ozYbPtHVbsu8M"
-    },
-    {
-      "added_at": "2023-11-29 08:16:23",
-      "album": {
-        "name": "Stay In Bed",
-        "url": "https://open.spotify.com/album/3US880QWOU3JqaIOguUilz"
-      },
-      "artists": [
-        {
-          "name": "Zap Strap",
-          "url": "https://open.spotify.com/artist/26um9QT84sVd1uLgI3K6lN"
-        }
-      ],
-      "duration_ms": 124821,
-      "name": "Stay In Bed",
-      "url": "https://open.spotify.com/track/1ZRiNz4OJFI1oJ8A5EBA7k"
     },
     {
       "added_at": "2023-11-29 08:16:23",

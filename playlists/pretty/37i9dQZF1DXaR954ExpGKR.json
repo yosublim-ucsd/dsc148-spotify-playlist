@@ -1,12 +1,12 @@
 {
   "description": "The best Latin music from all around the world! Cover: Maria Becerra & Prabh Singh",
-  "num_followers": 173070,
+  "num_followers": 173204,
   "original_name": "Latino Global",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MjhiNjQ5OWIzMjg3MmMxNTFlODU1NjZkYzIwM2I2YzdjOTQ5ODBj",
+  "snapshot_id": "MCwxMWJmM2E5OTdhMzdiOTg0M2ZhNTU0ZTEwMWJiNmU3NTE2OTE3MTk3",
   "tracks": [
     {
       "added_at": "2023-09-22 07:16:39",
@@ -723,6 +723,26 @@
     {
       "added_at": "2023-09-22 07:16:39",
       "album": {
+        "name": "Dream Girl (Remix)",
+        "url": "https://open.spotify.com/album/0BeosbWOaMfZ5itwYQfw86"
+      },
+      "artists": [
+        {
+          "name": "Ir Sais",
+          "url": "https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88"
+        },
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "duration_ms": 192452,
+      "name": "Dream Girl - Remix",
+      "url": "https://open.spotify.com/track/099tjv6oy2opbpCOA3nBwX"
+    },
+    {
+      "added_at": "2023-09-22 07:16:39",
+      "album": {
         "name": "OASIS",
         "url": "https://open.spotify.com/album/6ylFfzx32ICw4L1A7YWNLN"
       },
@@ -743,26 +763,6 @@
       "duration_ms": 218826,
       "name": "COMO UN BEB\u00c9",
       "url": "https://open.spotify.com/track/7knLcYCOSaURD0d7HUULFM"
-    },
-    {
-      "added_at": "2023-09-22 07:16:39",
-      "album": {
-        "name": "Dream Girl (Remix)",
-        "url": "https://open.spotify.com/album/0BeosbWOaMfZ5itwYQfw86"
-      },
-      "artists": [
-        {
-          "name": "Ir Sais",
-          "url": "https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88"
-        },
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        }
-      ],
-      "duration_ms": 192452,
-      "name": "Dream Girl - Remix",
-      "url": "https://open.spotify.com/track/099tjv6oy2opbpCOA3nBwX"
     },
     {
       "added_at": "2023-09-22 07:16:39",
@@ -895,26 +895,6 @@
     {
       "added_at": "2023-09-22 07:16:39",
       "album": {
-        "name": "JOSE",
-        "url": "https://open.spotify.com/album/11GmvpYnbgK0rSryPaV5BP"
-      },
-      "artists": [
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        },
-        {
-          "name": "Skrillex",
-          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
-        }
-      ],
-      "duration_ms": 130666,
-      "name": "In Da Getto",
-      "url": "https://open.spotify.com/track/1q0PYXTbDsirp2l74ng6pn"
-    },
-    {
-      "added_at": "2023-09-22 07:16:39",
-      "album": {
         "name": "MIA (feat. Drake)",
         "url": "https://open.spotify.com/album/2xqopbc18kE4p2lIUzoO0G"
       },
@@ -935,26 +915,6 @@
     {
       "added_at": "2023-09-22 07:16:39",
       "album": {
-        "name": "LFG",
-        "url": "https://open.spotify.com/album/0Wjc11cdyOt2mvMCBrTTvU"
-      },
-      "artists": [
-        {
-          "name": "INJI",
-          "url": "https://open.spotify.com/artist/0Z4Ir8usNVcAdCSQl0fQki"
-        },
-        {
-          "name": "Eddie Zuko",
-          "url": "https://open.spotify.com/artist/4AxSQnOMPd42KI149MWsub"
-        }
-      ],
-      "duration_ms": 158837,
-      "name": "DROP TOP (feat. Eddie Zuko)",
-      "url": "https://open.spotify.com/track/4iVlQcJQfbp9CZVLZsfIoS"
-    },
-    {
-      "added_at": "2023-09-22 07:16:39",
-      "album": {
         "name": "Party Animal",
         "url": "https://open.spotify.com/album/3eOXiZ4HVNafqio5wKJRcG"
       },
@@ -971,6 +931,46 @@
       "duration_ms": 195813,
       "name": "Party Animal",
       "url": "https://open.spotify.com/track/5vc9YsAEBWbRVvgKUcA5vs"
+    },
+    {
+      "added_at": "2023-09-22 07:16:39",
+      "album": {
+        "name": "JOSE",
+        "url": "https://open.spotify.com/album/11GmvpYnbgK0rSryPaV5BP"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Skrillex",
+          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
+        }
+      ],
+      "duration_ms": 130666,
+      "name": "In Da Getto",
+      "url": "https://open.spotify.com/track/1q0PYXTbDsirp2l74ng6pn"
+    },
+    {
+      "added_at": "2023-09-22 07:16:39",
+      "album": {
+        "name": "LFG",
+        "url": "https://open.spotify.com/album/0Wjc11cdyOt2mvMCBrTTvU"
+      },
+      "artists": [
+        {
+          "name": "INJI",
+          "url": "https://open.spotify.com/artist/0Z4Ir8usNVcAdCSQl0fQki"
+        },
+        {
+          "name": "Eddie Zuko",
+          "url": "https://open.spotify.com/artist/4AxSQnOMPd42KI149MWsub"
+        }
+      ],
+      "duration_ms": 158837,
+      "name": "DROP TOP (feat. Eddie Zuko)",
+      "url": "https://open.spotify.com/track/4iVlQcJQfbp9CZVLZsfIoS"
     },
     {
       "added_at": "2023-09-22 07:16:39",
@@ -1035,22 +1035,22 @@
     {
       "added_at": "2023-09-22 07:16:39",
       "album": {
-        "name": "D\u00c9JALO EN VISTO",
-        "url": "https://open.spotify.com/album/5XtVHkEov3lgISXN8YUdbe"
+        "name": "CRIMINAL",
+        "url": "https://open.spotify.com/album/3YdTZioBhiGLgxd7lFiHnB"
       },
       "artists": [
         {
-          "name": "Piso 21",
-          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
+          "name": "Ana Mena",
+          "url": "https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl"
         },
         {
-          "name": "Nicky Jam",
-          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+          "name": "Fred De Palma",
+          "url": "https://open.spotify.com/artist/0QrUbsrL5imqntAfDl8i7q"
         }
       ],
-      "duration_ms": 189918,
-      "name": "D\u00c9JALO EN VISTO",
-      "url": "https://open.spotify.com/track/5phSp1VmzYJTvu1qZYdQS0"
+      "duration_ms": 180525,
+      "name": "CRIMINAL",
+      "url": "https://open.spotify.com/track/0dCddleAveCZYwVbkEAhYR"
     }
   ],
   "unique_name": "Latino Global",

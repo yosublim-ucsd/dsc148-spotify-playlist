@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4CB6zI8FWXS.md) - [plain]
 
 > R&Bの最新話題曲をまとめてお届けします。cover: KAYTRANADA
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,457 likes - 79 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,467 likes - 79 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4CB6zI8FWXS.md) - [plain]
 | 21 | [Lowkey](https://open.spotify.com/track/0Lp9XhHntpJRwm3K0r5TDT) | [DJ KANJI](https://open.spotify.com/artist/2pNpSANblSC6W1FgxkAAzN), [MALIYA](https://open.spotify.com/artist/1HpL1Q0ixotgDFMm7ZlRDU), [3House](https://open.spotify.com/artist/5hnSOpUeldFZV2lzs8TP1w), [IO](https://open.spotify.com/artist/7wJbfRQ42OuzAQfXMVidTd) | [Lowkey](https://open.spotify.com/album/4mjWtLPXnxZAihOkBJNtvf) | 3:56 |
 | 22 | [MOVE](https://open.spotify.com/track/1sPLAyCHQFi96LvYeRbW48) | [RIEHATA](https://open.spotify.com/artist/2O6eMK8WBPIaDVIPVNbs0v) | [MOVE](https://open.spotify.com/album/1fNi3gBEmbiyJqUAlrLJ4E) | 3:18 |
 | 23 | [Make Up Your Mind](https://open.spotify.com/track/1pi9osnCVKgqMuMrVfAcBM) | [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv) | [Make Up Your Mind](https://open.spotify.com/album/1Fb1bL19kIPe24nhMcpE80) | 2:52 |
-| 24 | [White Snow](https://open.spotify.com/track/4IcWXM0Nk9DyuLvWnYUje5) | [MALIYA](https://open.spotify.com/artist/1HpL1Q0ixotgDFMm7ZlRDU) | [White Snow](https://open.spotify.com/album/16J3o3firFKfgfBWZbWEh8) | 3:35 |
+| 24 | [White Snow](https://open.spotify.com/track/3VrvJqL0g4B2gfAvvzwJ2p) | [MALIYA](https://open.spotify.com/artist/1HpL1Q0ixotgDFMm7ZlRDU) | [White Snow](https://open.spotify.com/album/3NZc71lQ5slVbiwfLmsd8N) | 3:35 |
 | 25 | [LEFT RIGHT REMIXX \- FEAT\. CIARA & JACKSON WANG // PROD BY JAKOPS](https://open.spotify.com/track/4Fd2BjzdKHzrc2uY7zmMar) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA), [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX), [Jackson Wang](https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY), [JAKOPS](https://open.spotify.com/artist/5Rgh1bKqT34PM9G5kYmlgE) | [LEFT RIGHT REMIXX \(FEAT\. CIARA & JACKSON WANG // PROD BY JAKOPS\)](https://open.spotify.com/album/6BYq4jicnLns37lj7By6NX) | 4:31 |
 | 26 | [Let Me Remind You](https://open.spotify.com/track/2cRGl5JIn2RnpjKuJxUoG3) | [Raquel Rodriguez](https://open.spotify.com/artist/7CPwAwFBnruFlDqUQCrM1Q), [SammyB](https://open.spotify.com/artist/5GFqETG1gTsyg32HCBNmjQ) | [Let Me Remind You](https://open.spotify.com/album/1R9MUIcsyDYza6xkkXpm36) | 3:09 |
 | 27 | [Fly Girl \(feat\. Missy Elliott\)](https://open.spotify.com/track/2sITbbWIOeg2Lwp4WN2jqr) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO), [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk) | [Fly Girl \(feat\. Missy Elliott\)](https://open.spotify.com/album/0cfvGEzoMnxtDKCcugR6Tv) | 3:25 |
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4CB6zI8FWXS.md) - [plain]
 | 78 | [Nowhere](https://open.spotify.com/track/01V9616p11FWNcMYTQTg3j) | [Emotional Oranges](https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C), [Nonso Amadi](https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV) | [Nowhere](https://open.spotify.com/album/0gk7hvi9elX9iuiNuxmcNu) | 2:57 |
 | 79 | [Without You \(Blxst Interlude\)](https://open.spotify.com/track/4o37I9GMKgu8bTvt4Zd4Ny) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl), [Cardo](https://open.spotify.com/artist/592XleMjor8huE5Jfgks7p), [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL) | [Without You \(Blxst Interlude\)](https://open.spotify.com/album/7tYruPXBGvlRyeY6ShHX1C) | 2:44 |
 
-Snapshot ID: `MCxlZWRiNjU4MGExZTBlNDBlNGFiZTBhN2YyMWE1YTQ0NzRjOGM3YmUw`
+Snapshot ID: `MCxhNDU2ZGVmZjllODYwNThkNGI0YjdlNDc5MWIxYTM0NWNlOTQ1MDJm`

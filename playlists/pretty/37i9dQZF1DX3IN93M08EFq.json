@@ -1,12 +1,12 @@
 {
   "description": "Din egen indieklubb! Garanterad dans, dans, dans. #spelashoreline",
-  "num_followers": 62084,
+  "num_followers": 62100,
   "original_name": "Spela Shoreline!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1N2JjOThkY2NkNmU5NzUxYjQ4ZjYxNDE2ZWE2OWEyMDcyMDM0Nzkw",
+  "snapshot_id": "MCxjOGJkZmQ4MDQ4MjhkZDljZmE4MDA4NjdmZDUzOTA4MWUxOWY3YTNl",
   "tracks": [
     {
       "added_at": "2021-06-15 09:25:05",
@@ -283,22 +283,6 @@
     {
       "added_at": "2021-06-15 09:25:05",
       "album": {
-        "name": "Le Tigre",
-        "url": "https://open.spotify.com/album/0dSSZGzoukzrFBnG07J45i"
-      },
-      "artists": [
-        {
-          "name": "Le Tigre",
-          "url": "https://open.spotify.com/artist/2n6FviARgtjjimZXu18uRM"
-        }
-      ],
-      "duration_ms": 184626,
-      "name": "Deceptacon",
-      "url": "https://open.spotify.com/track/5773KSWFzg9kCc8yazjbSt"
-    },
-    {
-      "added_at": "2021-06-15 09:25:05",
-      "album": {
         "name": "Is This It",
         "url": "https://open.spotify.com/album/2k8KgmDp9oHrmu0MIj4XDE"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 193373,
       "name": "Last Nite",
       "url": "https://open.spotify.com/track/3SUusuA9jH1v6PVwtYMbdv"
+    },
+    {
+      "added_at": "2021-06-15 09:25:05",
+      "album": {
+        "name": "Le Tigre",
+        "url": "https://open.spotify.com/album/0dSSZGzoukzrFBnG07J45i"
+      },
+      "artists": [
+        {
+          "name": "Le Tigre",
+          "url": "https://open.spotify.com/artist/2n6FviARgtjjimZXu18uRM"
+        }
+      ],
+      "duration_ms": 184626,
+      "name": "Deceptacon",
+      "url": "https://open.spotify.com/track/5773KSWFzg9kCc8yazjbSt"
     },
     {
       "added_at": "2021-06-15 09:25:05",
@@ -347,22 +347,6 @@
     {
       "added_at": "2021-06-15 09:25:05",
       "album": {
-        "name": "The Coral",
-        "url": "https://open.spotify.com/album/6Fhnezpt7TKojq1ufkZ5qA"
-      },
-      "artists": [
-        {
-          "name": "The Coral",
-          "url": "https://open.spotify.com/artist/6OiHleP2bHM18dXq4aZQWt"
-        }
-      ],
-      "duration_ms": 141000,
-      "name": "Dreaming of You",
-      "url": "https://open.spotify.com/track/6ebxt3Iylxe0GcEuUGlIvb"
-    },
-    {
-      "added_at": "2021-06-15 09:25:05",
-      "album": {
         "name": "Whatever People Say I Am, That's What I'm Not",
         "url": "https://open.spotify.com/album/50Zz8CkIhATKUlQMbHO3k1"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 141133,
       "name": "Dancing Shoes",
       "url": "https://open.spotify.com/track/0hAMkY2kwdXPPDfQ1e3BmJ"
+    },
+    {
+      "added_at": "2021-06-15 09:25:05",
+      "album": {
+        "name": "The Coral",
+        "url": "https://open.spotify.com/album/6Fhnezpt7TKojq1ufkZ5qA"
+      },
+      "artists": [
+        {
+          "name": "The Coral",
+          "url": "https://open.spotify.com/artist/6OiHleP2bHM18dXq4aZQWt"
+        }
+      ],
+      "duration_ms": 141000,
+      "name": "Dreaming of You",
+      "url": "https://open.spotify.com/track/6ebxt3Iylxe0GcEuUGlIvb"
     },
     {
       "added_at": "2021-06-15 09:25:05",
@@ -539,26 +539,6 @@
     {
       "added_at": "2021-06-15 09:25:05",
       "album": {
-        "name": "Too-Rye-Ay (As It Should Have Sounded 2022)",
-        "url": "https://open.spotify.com/album/6JvOKlgjSQmr5BJnXSpI6h"
-      },
-      "artists": [
-        {
-          "name": "Dexys Midnight Runners",
-          "url": "https://open.spotify.com/artist/4QTVePrFu1xuGM9K0kNXkk"
-        },
-        {
-          "name": "Kevin Rowland",
-          "url": "https://open.spotify.com/artist/7ipGLKpbyUOKFaji4MY19m"
-        }
-      ],
-      "duration_ms": 205680,
-      "name": "Come On Eileen - Single Edit",
-      "url": "https://open.spotify.com/track/58VaIfHQzC0jflv7zEWyoZ"
-    },
-    {
-      "added_at": "2021-06-15 09:25:05",
-      "album": {
         "name": "Vilja Bli",
         "url": "https://open.spotify.com/album/2jCYbQBRefZrTeMXIMIsNp"
       },
@@ -587,6 +567,26 @@
       "duration_ms": 263426,
       "name": "Animal",
       "url": "https://open.spotify.com/track/6vSq5q5DCs1IvwKIq53hj2"
+    },
+    {
+      "added_at": "2021-06-15 09:25:05",
+      "album": {
+        "name": "Too-Rye-Ay (As It Should Have Sounded 2022)",
+        "url": "https://open.spotify.com/album/6JvOKlgjSQmr5BJnXSpI6h"
+      },
+      "artists": [
+        {
+          "name": "Dexys Midnight Runners",
+          "url": "https://open.spotify.com/artist/4QTVePrFu1xuGM9K0kNXkk"
+        },
+        {
+          "name": "Kevin Rowland",
+          "url": "https://open.spotify.com/artist/7ipGLKpbyUOKFaji4MY19m"
+        }
+      ],
+      "duration_ms": 205680,
+      "name": "Come On Eileen - Single Edit",
+      "url": "https://open.spotify.com/track/58VaIfHQzC0jflv7zEWyoZ"
     },
     {
       "added_at": "2021-06-15 09:25:05",

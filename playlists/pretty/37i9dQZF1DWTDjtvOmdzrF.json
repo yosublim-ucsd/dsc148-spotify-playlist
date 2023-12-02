@@ -1,12 +1,12 @@
 {
   "description": "Racikan akustik dalam secangkir kopi. ",
-  "num_followers": 572067,
+  "num_followers": 572161,
   "original_name": "Kopikustik",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlY2EwODIwNGFhMGM5NGQyMmMzZjIyMzJkMjdkOTJjZGM2YWJkZTQ5",
+  "snapshot_id": "MCw5NGFmZDczZTI5MmM1MTI0M2YwNDc4OTViMWRkNzgwMDg5ZWY5ZDYz",
   "tracks": [
     {
       "added_at": "2023-11-07 10:17:59",
@@ -1083,6 +1083,22 @@
     {
       "added_at": "2023-11-07 10:17:59",
       "album": {
+        "name": "Dunia Batas",
+        "url": "https://open.spotify.com/album/26FxxaKDiIGxEm549dRtaZ"
+      },
+      "artists": [
+        {
+          "name": "Payung Teduh",
+          "url": "https://open.spotify.com/artist/2Ooa3TrmlskyBftzenv6xQ"
+        }
+      ],
+      "duration_ms": 267000,
+      "name": "Berdua Saja",
+      "url": "https://open.spotify.com/track/7tZ69fC235bauF9Dyxk8Ps"
+    },
+    {
+      "added_at": "2023-11-07 10:17:59",
+      "album": {
         "name": "Ini Bukan Nosstress",
         "url": "https://open.spotify.com/album/5VDBGrroiUxwcjyd8fqKvy"
       },
@@ -1123,18 +1139,18 @@
     {
       "added_at": "2023-11-07 10:17:59",
       "album": {
-        "name": "Dunia Batas",
-        "url": "https://open.spotify.com/album/26FxxaKDiIGxEm549dRtaZ"
+        "name": "happy",
+        "url": "https://open.spotify.com/album/0pVXyvbdicfbAhqKaxsnkd"
       },
       "artists": [
         {
-          "name": "Payung Teduh",
-          "url": "https://open.spotify.com/artist/2Ooa3TrmlskyBftzenv6xQ"
+          "name": "Skinnyfabs",
+          "url": "https://open.spotify.com/artist/3f0GZTXzBCmd5IBiMfsh1H"
         }
       ],
-      "duration_ms": 267000,
-      "name": "Berdua Saja",
-      "url": "https://open.spotify.com/track/7tZ69fC235bauF9Dyxk8Ps"
+      "duration_ms": 173217,
+      "name": "happy",
+      "url": "https://open.spotify.com/track/6YTmsdqH5LZzCGIY0lqloD"
     },
     {
       "added_at": "2023-11-07 10:17:59",
@@ -1151,22 +1167,6 @@
       "duration_ms": 216448,
       "name": "Seamin Tak Seiman",
       "url": "https://open.spotify.com/track/26mwiyfmCKJBneTzlELpun"
-    },
-    {
-      "added_at": "2023-11-07 10:17:59",
-      "album": {
-        "name": "happy",
-        "url": "https://open.spotify.com/album/0pVXyvbdicfbAhqKaxsnkd"
-      },
-      "artists": [
-        {
-          "name": "Skinnyfabs",
-          "url": "https://open.spotify.com/artist/3f0GZTXzBCmd5IBiMfsh1H"
-        }
-      ],
-      "duration_ms": 173217,
-      "name": "happy",
-      "url": "https://open.spotify.com/track/6YTmsdqH5LZzCGIY0lqloD"
     },
     {
       "added_at": "2023-11-07 10:17:59",
@@ -1219,42 +1219,38 @@
     {
       "added_at": "2023-11-07 10:17:59",
       "album": {
-        "name": "Perspektif Bodoh, Vol. 2",
-        "url": "https://open.spotify.com/album/3HsbseyB7O4YOrvsSnryS1"
+        "name": "Dunia Batas",
+        "url": "https://open.spotify.com/album/26FxxaKDiIGxEm549dRtaZ"
       },
       "artists": [
         {
-          "name": "Nosstress",
-          "url": "https://open.spotify.com/artist/4XnnBdCt9Cg5W2wBgtD7co"
+          "name": "Payung Teduh",
+          "url": "https://open.spotify.com/artist/2Ooa3TrmlskyBftzenv6xQ"
         }
       ],
-      "duration_ms": 308349,
-      "name": "Pegang Tanganku",
-      "url": "https://open.spotify.com/track/6xHRfpo0kMRNuZ3v1e3xYF"
+      "duration_ms": 306428,
+      "name": "Menuju Senja",
+      "url": "https://open.spotify.com/track/6ctfCjsLBJfadmBH41SFkl"
     },
     {
       "added_at": "2023-11-07 10:17:59",
       "album": {
-        "name": "Menghapus Jejakmu",
-        "url": "https://open.spotify.com/album/4UOQ8yXRAdRDOpEcDgZdGq"
+        "name": "Memory Lane",
+        "url": "https://open.spotify.com/album/4kGiYX3VXOTPJPqCgphG0C"
       },
       "artists": [
         {
-          "name": "Noah",
-          "url": "https://open.spotify.com/artist/31aMmlq8isIAgojvmIwiS4"
+          "name": "TheOvertunes",
+          "url": "https://open.spotify.com/artist/3t4MHnVggiFLOuSSh4odBk"
         },
         {
-          "name": "Rejoz The GROOVE",
-          "url": "https://open.spotify.com/artist/1KRNLbbne7RT6ts0SK9lOv"
-        },
-        {
-          "name": "Rejoz",
-          "url": "https://open.spotify.com/artist/3dvTOKbRcDZ1xQ1b4bN8F9"
+          "name": "Monita Tahalea",
+          "url": "https://open.spotify.com/artist/1xQXTnhREkLm14Wvrogo1g"
         }
       ],
-      "duration_ms": 182414,
-      "name": "Menghapus Jejakmu",
-      "url": "https://open.spotify.com/track/3NuKl7HM691ycLcCa6Vbq2"
+      "duration_ms": 236394,
+      "name": "Bicara (feat. Monita Tahalea)",
+      "url": "https://open.spotify.com/track/1Dxb9nWV16f5PthsUsV1XZ"
     }
   ],
   "unique_name": "Kopikustik",

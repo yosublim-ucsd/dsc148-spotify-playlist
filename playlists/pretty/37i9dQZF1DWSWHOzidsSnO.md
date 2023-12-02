@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWHOzidsSnO.md) - [plain]
 
 > ¡Lo más Top de las mujeres de los Andes, a todo volumen! En portada Naïa Valdez.
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,416 likes - 85 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,434 likes - 85 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [TQG](https://open.spotify.com/track/0DWdj2oZMBFSzRsi2Cvfzf) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [MAÑANA SERÁ BONITO](https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5) | 3:17 |
-| 2 | [kunai](https://open.spotify.com/track/3k5F4Vn3Nq6rNF5YSww3MO) | [Naïa Valdez](https://open.spotify.com/artist/1WE5kYBn5jgJyzXroKVktA) | [kunai](https://open.spotify.com/album/7hTt5gR7X0HZ6YeoFglPmX) | 2:09 |
+| 2 | [tamagotchi](https://open.spotify.com/track/1vHxEzI1v51jIAQM7D5g6g) | [Naïa Valdez](https://open.spotify.com/artist/1WE5kYBn5jgJyzXroKVktA), [Blephs](https://open.spotify.com/artist/2YaIdd9nbLTUrHjwsh7c2o) | [nena kunai](https://open.spotify.com/album/723RPBWXK0P5zbstDACnfo) | 2:32 |
 | 3 | [Acróstico](https://open.spotify.com/track/7txjUEY6McJDJKqIo1Rxjp) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Acróstico](https://open.spotify.com/album/4ZQmQzeicvUGkLxFTI2Dvd) | 2:50 |
 | 4 | [A Fuego](https://open.spotify.com/track/2OBDbcbEoulxcvV7VIJVLu) | [Farina](https://open.spotify.com/artist/7cYik4OyfBXYV5Z2TI7p90) | [A Fuego](https://open.spotify.com/album/3rMdauQMPRGqfX7GeNIlRO) | 3:08 |
 | 5 | [Cómplices](https://open.spotify.com/track/6nnHFpDXW8VJyqsL6JOZd8) | [Paola Navarrete](https://open.spotify.com/artist/45nJ2GweSs0s4gWVGHLhYu) | [Aries](https://open.spotify.com/album/5UDENHnOZGZhPbjsItZaRx) | 3:39 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWHOzidsSnO.md) - [plain]
 | 84 | [El Favorcito](https://open.spotify.com/track/4nHJp4ynAQQZgSlurkpBen) | [La Muchacha](https://open.spotify.com/artist/74IAICxWfYBsjabuEbKQXV) | [Canciones Crudas](https://open.spotify.com/album/047ARD5KCqUWxg11bIll8Q) | 3:28 |
 | 85 | [Cubeta](https://open.spotify.com/track/1JDoIz8IWcNubVpKW2hXIR) | [Mayte Montero](https://open.spotify.com/artist/2Z3ytThcszxwnP0nR6ZafC) | [Cubeta](https://open.spotify.com/album/2pTRMkCYKcwVilF1OkC9il) | 3:40 |
 
-Snapshot ID: `MCwzOWJiMzllMTlmZWU2ZTI5YWUwOGQwNDIzNjcxOWZmZmY1YjQ0YWJj`
+Snapshot ID: `MCw1YzdiMDdjNTJkYzBkMDgyOWNjNWUwY2JiMTUxNjJjNmY2MGI4YjI0`

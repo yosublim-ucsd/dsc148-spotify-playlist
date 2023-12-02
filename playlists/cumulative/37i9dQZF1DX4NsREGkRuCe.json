@@ -681,6 +681,24 @@
     },
     {
       "album": {
+        "name": "Area Party",
+        "url": "https://open.spotify.com/album/29FyZCVFynYTLUDkMFkEZL"
+      },
+      "artists": [
+        {
+          "name": "Novemba",
+          "url": "https://open.spotify.com/artist/2Eiiy3N1dxC8elC8kIkoHJ"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122474,
+      "name": "Area Party",
+      "url": "https://open.spotify.com/track/3HhFNwoskRIUdj8nadvmzp"
+    },
+    {
+      "album": {
         "name": "Last Son of a Widow",
         "url": "https://open.spotify.com/album/5ggCK28dJNwpH58dNI8BFr"
       },
@@ -914,7 +932,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 143439,
       "name": "Backside",
       "url": "https://open.spotify.com/track/4NG1th0egF9bbKOGUKvca7"
@@ -1506,7 +1524,7 @@
       ],
       "date_added": "2023-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 154455,
       "name": "Body & Soul",
       "url": "https://open.spotify.com/track/1lrHmP6m1Qcmhwlg2yrjdU"
@@ -1760,6 +1778,24 @@
       "duration_ms": 136464,
       "name": "Carry Me Go",
       "url": "https://open.spotify.com/track/7qxtOyjZ2zSaxBPH8fLyNi"
+    },
+    {
+      "album": {
+        "name": "Blessed",
+        "url": "https://open.spotify.com/album/5wyDRKWKtPq3znLWVOtUIk"
+      },
+      "artists": [
+        {
+          "name": "Victor Thompson",
+          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192029,
+      "name": "Carry me like Baby",
+      "url": "https://open.spotify.com/track/2g5uy0nM9DW0JJJLefJFgJ"
     },
     {
       "album": {
@@ -3399,6 +3435,24 @@
     },
     {
       "album": {
+        "name": "Gbadun",
+        "url": "https://open.spotify.com/album/0jJ459dzmPpefkVtBf4NNO"
+      },
+      "artists": [
+        {
+          "name": "1da Banton",
+          "url": "https://open.spotify.com/artist/6dlzQ6fiPna40trq1Ek6cb"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Gbadun",
+      "url": "https://open.spotify.com/track/3MslJj39APOMPzF0ShKa9F"
+    },
+    {
+      "album": {
         "name": "Gbese",
         "url": "https://open.spotify.com/album/0BKZkxzh5KPV9CKQiQ23mC"
       },
@@ -4078,7 +4132,7 @@
       ],
       "date_added": "2023-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 142939,
       "name": "Humble",
       "url": "https://open.spotify.com/track/2d62z45BLOml6McRs5Y7zZ"
@@ -4140,7 +4194,7 @@
       ],
       "date_added": "2023-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 165663,
       "name": "I Pray",
       "url": "https://open.spotify.com/track/1Xlna9IA6XldZqXOjSpAcv"
@@ -4526,6 +4580,28 @@
       "duration_ms": 176470,
       "name": "Jowo",
       "url": "https://open.spotify.com/track/4ibxmEgdIWYAQjXl0ivFmW"
+    },
+    {
+      "album": {
+        "name": "Pheelz Good (Triibe Tape)",
+        "url": "https://open.spotify.com/album/1ZkAEtHY1UkPo9LguYVmMZ"
+      },
+      "artists": [
+        {
+          "name": "Pheelz",
+          "url": "https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg"
+        },
+        {
+          "name": "Olamide",
+          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165262,
+      "name": "JOY (feat. Olamide)",
+      "url": "https://open.spotify.com/track/29JDKOT4cf9fI6B52aTMKm"
     },
     {
       "album": {
@@ -5314,6 +5390,28 @@
       "duration_ms": 154631,
       "name": "Machala",
       "url": "https://open.spotify.com/track/2GiyNwLCSfXjsb1nwAg1Sq"
+    },
+    {
+      "album": {
+        "name": "RAVI",
+        "url": "https://open.spotify.com/album/2owJ8p6Y6XVkxyJKgPXGuQ"
+      },
+      "artists": [
+        {
+          "name": "Morravey",
+          "url": "https://open.spotify.com/artist/7CIv1IE8oNZQwpeQGHDofV"
+        },
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148400,
+      "name": "MAGICIAN",
+      "url": "https://open.spotify.com/track/1TNMWejP82ZdXQ7qVszEAo"
     },
     {
       "album": {
@@ -6424,7 +6522,7 @@
       ],
       "date_added": "2023-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 157230,
       "name": "Off The Planet (OTP)",
       "url": "https://open.spotify.com/track/5oObSi6drHYOKYjfyVQkC0"
@@ -6788,7 +6886,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 178909,
       "name": "Only God Can Save Me",
       "url": "https://open.spotify.com/track/3QnQAJkb10GQWnmUtJLBoq"
@@ -9908,6 +10006,28 @@
       "duration_ms": 247680,
       "name": "Won Da Mo",
       "url": "https://open.spotify.com/track/0xPz8qjfchKRCAmABJH65Z"
+    },
+    {
+      "album": {
+        "name": "EZIOKWU (UNCUT)",
+        "url": "https://open.spotify.com/album/59oUX928TvSEtKvCPREKVW"
+      },
+      "artists": [
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        },
+        {
+          "name": "Black Sherif",
+          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171089,
+      "name": "WOTOWOTO SEASONING (feat. Black Sherif)",
+      "url": "https://open.spotify.com/track/2LP8KwtvzUx1onvXKQCoKR"
     },
     {
       "album": {

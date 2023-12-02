@@ -1,12 +1,12 @@
 {
   "description": "New and classic Gospel songs to celebrate the Easter season.",
-  "num_followers": 53586,
+  "num_followers": 53582,
   "original_name": "Easter Gospel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1OWY4YTFjMmU3OTA5ZmY2ZWVjYzJiZGEwNjM1NzJhYmIyZDgzODg2",
+  "snapshot_id": "MCw3MzA5YWRjOGUwYmQ3NmFlNzIyMjg0Yjk5MDFkM2RhMGYzNTA3NjNj",
   "tracks": [
     {
       "added_at": "2023-04-09 08:49:39",
@@ -59,22 +59,6 @@
     {
       "added_at": "2023-04-09 08:49:39",
       "album": {
-        "name": "One Name (Jesus) [Live]",
-        "url": "https://open.spotify.com/album/3uCGAbiokcQ8BaLgQCgyzK"
-      },
-      "artists": [
-        {
-          "name": "Naomi Raine",
-          "url": "https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD"
-        }
-      ],
-      "duration_ms": 559267,
-      "name": "One Name (Jesus) - Live",
-      "url": "https://open.spotify.com/track/0C0mv7BaaLQtAUeOZwW47c"
-    },
-    {
-      "added_at": "2023-04-09 08:49:39",
-      "album": {
         "name": "The Hill",
         "url": "https://open.spotify.com/album/2RJxSCEQJGBeJHej3IM2cV"
       },
@@ -87,6 +71,22 @@
       "duration_ms": 591333,
       "name": "Made A Way",
       "url": "https://open.spotify.com/track/7gricPHxqsVEq1Lml7BFVu"
+    },
+    {
+      "added_at": "2023-04-09 08:49:39",
+      "album": {
+        "name": "One Name (Jesus) [Live]",
+        "url": "https://open.spotify.com/album/3uCGAbiokcQ8BaLgQCgyzK"
+      },
+      "artists": [
+        {
+          "name": "Naomi Raine",
+          "url": "https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD"
+        }
+      ],
+      "duration_ms": 559267,
+      "name": "One Name (Jesus) - Live",
+      "url": "https://open.spotify.com/track/0C0mv7BaaLQtAUeOZwW47c"
     },
     {
       "added_at": "2023-04-09 08:49:39",
@@ -587,22 +587,6 @@
     {
       "added_at": "2023-04-09 08:49:39",
       "album": {
-        "name": "Road to DeMaskUs",
-        "url": "https://open.spotify.com/album/6mLj2XS7RDNh9gyVxUSlT3"
-      },
-      "artists": [
-        {
-          "name": "Israel Houghton",
-          "url": "https://open.spotify.com/artist/7pUnaNwiKa3p27L1EwB4X6"
-        }
-      ],
-      "duration_ms": 322106,
-      "name": "Reckless Love",
-      "url": "https://open.spotify.com/track/6LSqdwX4xUzP619oYIJMH9"
-    },
-    {
-      "added_at": "2023-04-09 08:49:39",
-      "album": {
         "name": "The Rebirth Of Kirk Franklin (Live)",
         "url": "https://open.spotify.com/album/1OSCxbStNDOwBaZIXcivce"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 368560,
       "name": "Don't Cry - Live at Lakewood Church, Houston, TX - June 16, 2000",
       "url": "https://open.spotify.com/track/7H9ye7JTsRRlOFeOOlb1v6"
+    },
+    {
+      "added_at": "2023-04-09 08:49:39",
+      "album": {
+        "name": "Road to DeMaskUs",
+        "url": "https://open.spotify.com/album/6mLj2XS7RDNh9gyVxUSlT3"
+      },
+      "artists": [
+        {
+          "name": "Israel Houghton",
+          "url": "https://open.spotify.com/artist/7pUnaNwiKa3p27L1EwB4X6"
+        }
+      ],
+      "duration_ms": 322106,
+      "name": "Reckless Love",
+      "url": "https://open.spotify.com/track/6LSqdwX4xUzP619oYIJMH9"
     },
     {
       "added_at": "2023-04-09 08:49:39",
@@ -843,26 +843,6 @@
     {
       "added_at": "2023-04-09 08:49:39",
       "album": {
-        "name": "Evidence",
-        "url": "https://open.spotify.com/album/3X10R33baD5m8UJ0KeIfSo"
-      },
-      "artists": [
-        {
-          "name": "Elevation Collective",
-          "url": "https://open.spotify.com/artist/5FgYD1zmYTjBAGuVy0Hj3w"
-        },
-        {
-          "name": "The Walls Group",
-          "url": "https://open.spotify.com/artist/3UZQmKr3fkPDCdIRtdX1RV"
-        }
-      ],
-      "duration_ms": 130214,
-      "name": "Raised to Life (feat. The Walls Group)",
-      "url": "https://open.spotify.com/track/4boN2DqFBWlVTIQhBgNJBo"
-    },
-    {
-      "added_at": "2023-04-09 08:49:39",
-      "album": {
         "name": "Always Coko",
         "url": "https://open.spotify.com/album/51lawLjXQsEkVIjv61zTHe"
       },
@@ -891,18 +871,22 @@
     {
       "added_at": "2023-04-09 08:49:39",
       "album": {
-        "name": "Classics Vol. 1",
-        "url": "https://open.spotify.com/album/6XLI4B9L9q2wL9oUKLqzrE"
+        "name": "Evidence",
+        "url": "https://open.spotify.com/album/3X10R33baD5m8UJ0KeIfSo"
       },
       "artists": [
         {
-          "name": "Andrae Crouch",
-          "url": "https://open.spotify.com/artist/3pxLSxg8klHu1L9d93cpq7"
+          "name": "Elevation Collective",
+          "url": "https://open.spotify.com/artist/5FgYD1zmYTjBAGuVy0Hj3w"
+        },
+        {
+          "name": "The Walls Group",
+          "url": "https://open.spotify.com/artist/3UZQmKr3fkPDCdIRtdX1RV"
         }
       ],
-      "duration_ms": 303160,
-      "name": "Jesus Is the Answer",
-      "url": "https://open.spotify.com/track/6sXB1ObEFi5nCrncPp4uxO"
+      "duration_ms": 130214,
+      "name": "Raised to Life (feat. The Walls Group)",
+      "url": "https://open.spotify.com/track/4boN2DqFBWlVTIQhBgNJBo"
     },
     {
       "added_at": "2023-04-09 08:49:39",
@@ -919,6 +903,22 @@
       "duration_ms": 237280,
       "name": "Always Jesus",
       "url": "https://open.spotify.com/track/4aGRQYEtZySJ5KRnBU6Yfn"
+    },
+    {
+      "added_at": "2023-04-09 08:49:39",
+      "album": {
+        "name": "Classics Vol. 1",
+        "url": "https://open.spotify.com/album/6XLI4B9L9q2wL9oUKLqzrE"
+      },
+      "artists": [
+        {
+          "name": "Andrae Crouch",
+          "url": "https://open.spotify.com/artist/3pxLSxg8klHu1L9d93cpq7"
+        }
+      ],
+      "duration_ms": 303160,
+      "name": "Jesus Is the Answer",
+      "url": "https://open.spotify.com/track/6sXB1ObEFi5nCrncPp4uxO"
     },
     {
       "added_at": "2023-04-09 08:49:39",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2023-04-09 08:49:39",
       "album": {
-        "name": "Resilience",
-        "url": "https://open.spotify.com/album/65mjXtPcrYhjhc1JwfJTPt"
-      },
-      "artists": [
-        {
-          "name": "Brian Courtney Wilson",
-          "url": "https://open.spotify.com/artist/5K2BdUwQNqXy70BX2L8BQx"
-        }
-      ],
-      "duration_ms": 241413,
-      "name": "Worth Fighting For - 1 Mic 1 Take",
-      "url": "https://open.spotify.com/track/7qF4oWmfFcJZm1lWnTJB3S"
-    },
-    {
-      "added_at": "2023-04-09 08:49:39",
-      "album": {
         "name": "Revival Is In The Air (RIITA)",
         "url": "https://open.spotify.com/album/0orflQml5JM4Qj6C1OttFB"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 272000,
       "name": "Calvary",
       "url": "https://open.spotify.com/track/6VZNytD5nlpuLRV2btnA0w"
+    },
+    {
+      "added_at": "2023-04-09 08:49:39",
+      "album": {
+        "name": "Resilience",
+        "url": "https://open.spotify.com/album/65mjXtPcrYhjhc1JwfJTPt"
+      },
+      "artists": [
+        {
+          "name": "Brian Courtney Wilson",
+          "url": "https://open.spotify.com/artist/5K2BdUwQNqXy70BX2L8BQx"
+        }
+      ],
+      "duration_ms": 241413,
+      "name": "Worth Fighting For - 1 Mic 1 Take",
+      "url": "https://open.spotify.com/track/7qF4oWmfFcJZm1lWnTJB3S"
     },
     {
       "added_at": "2023-04-09 08:49:39",
@@ -1127,6 +1127,26 @@
     {
       "added_at": "2023-04-09 08:49:39",
       "album": {
+        "name": "Verity Records: The First Decade, A Celebration Of Christmas",
+        "url": "https://open.spotify.com/album/0nn0Wkf7YNHAZzgW0qirAx"
+      },
+      "artists": [
+        {
+          "name": "Hezekiah Walker",
+          "url": "https://open.spotify.com/artist/0pXt4sMs2oRnt528LTYgyd"
+        },
+        {
+          "name": "The Love Fellowship Crusade Choir",
+          "url": "https://open.spotify.com/artist/3xrX4BvsX5AqroXDkwVmw1"
+        }
+      ],
+      "duration_ms": 290026,
+      "name": "Born To Die",
+      "url": "https://open.spotify.com/track/5LhzfQIdF2E7WQvRQNH3TB"
+    },
+    {
+      "added_at": "2023-04-09 08:49:39",
+      "album": {
         "name": "The Encounter",
         "url": "https://open.spotify.com/album/4KKKZ8MCjt719jKxJnVhtS"
       },
@@ -1147,22 +1167,6 @@
     {
       "added_at": "2023-04-09 08:49:39",
       "album": {
-        "name": "Declarations",
-        "url": "https://open.spotify.com/album/09wHdrvpQ7dZmSQOVaaPHT"
-      },
-      "artists": [
-        {
-          "name": "Jonathan Nelson",
-          "url": "https://open.spotify.com/artist/4oI0W9neUi7nvxcQKDY5Xa"
-        }
-      ],
-      "duration_ms": 373986,
-      "name": "Jesus I Love You",
-      "url": "https://open.spotify.com/track/09AmIgDsJsjWSKJHebJrZg"
-    },
-    {
-      "added_at": "2023-04-09 08:49:39",
-      "album": {
         "name": "Easter Project",
         "url": "https://open.spotify.com/album/09ofZQBVrHv1cQoFJDdrTB"
       },
@@ -1175,6 +1179,22 @@
       "duration_ms": 273963,
       "name": "The Resurrection",
       "url": "https://open.spotify.com/track/6avTKEs6LUPsjfiA3w3uVm"
+    },
+    {
+      "added_at": "2023-04-09 08:49:39",
+      "album": {
+        "name": "Declarations",
+        "url": "https://open.spotify.com/album/09wHdrvpQ7dZmSQOVaaPHT"
+      },
+      "artists": [
+        {
+          "name": "Jonathan Nelson",
+          "url": "https://open.spotify.com/artist/4oI0W9neUi7nvxcQKDY5Xa"
+        }
+      ],
+      "duration_ms": 373986,
+      "name": "Jesus I Love You",
+      "url": "https://open.spotify.com/track/09AmIgDsJsjWSKJHebJrZg"
     },
     {
       "added_at": "2023-04-09 08:49:39",
@@ -1203,26 +1223,6 @@
     {
       "added_at": "2023-04-09 08:49:39",
       "album": {
-        "name": "Verity Records: The First Decade, A Celebration Of Christmas",
-        "url": "https://open.spotify.com/album/0nn0Wkf7YNHAZzgW0qirAx"
-      },
-      "artists": [
-        {
-          "name": "Hezekiah Walker",
-          "url": "https://open.spotify.com/artist/0pXt4sMs2oRnt528LTYgyd"
-        },
-        {
-          "name": "The Love Fellowship Crusade Choir",
-          "url": "https://open.spotify.com/artist/3xrX4BvsX5AqroXDkwVmw1"
-        }
-      ],
-      "duration_ms": 290026,
-      "name": "Born To Die",
-      "url": "https://open.spotify.com/track/5LhzfQIdF2E7WQvRQNH3TB"
-    },
-    {
-      "added_at": "2023-04-09 08:49:39",
-      "album": {
         "name": "Psalms, Hymns & Spiritual Songs",
         "url": "https://open.spotify.com/album/20Ahz7xI2IFw7bdl0FE6On"
       },
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2023-04-09 08:49:39",
       "album": {
-        "name": "My Very OWN Easter - EP",
-        "url": "https://open.spotify.com/album/3VxA6E1TAfW2Q5VHMvtDPB"
-      },
-      "artists": [
-        {
-          "name": "Fantasia",
-          "url": "https://open.spotify.com/artist/7xAcVHPiirnUqfdqo0USb1"
-        }
-      ],
-      "duration_ms": 467130,
-      "name": "The Blood Will Never Lose Its Power",
-      "url": "https://open.spotify.com/track/5Q7aK3pXH9l5mrjxrGiU9o"
-    },
-    {
-      "added_at": "2023-04-09 08:49:39",
-      "album": {
         "name": "Introducing Perfected Praise",
         "url": "https://open.spotify.com/album/5Y3JhsPmHYR31DRQOe4o96"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 371493,
       "name": "Worthy Is The Lamb Slain",
       "url": "https://open.spotify.com/track/0kBssWQicwNaU5jJ547luQ"
+    },
+    {
+      "added_at": "2023-04-09 08:49:39",
+      "album": {
+        "name": "My Very OWN Easter - EP",
+        "url": "https://open.spotify.com/album/3VxA6E1TAfW2Q5VHMvtDPB"
+      },
+      "artists": [
+        {
+          "name": "Fantasia",
+          "url": "https://open.spotify.com/artist/7xAcVHPiirnUqfdqo0USb1"
+        }
+      ],
+      "duration_ms": 467130,
+      "name": "The Blood Will Never Lose Its Power",
+      "url": "https://open.spotify.com/track/5Q7aK3pXH9l5mrjxrGiU9o"
     },
     {
       "added_at": "2023-04-09 08:49:39",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2023-04-09 08:49:39",
       "album": {
-        "name": "I Shall Know Him",
-        "url": "https://open.spotify.com/album/4mMN2C6hfUmvoiXNmGZpjJ"
-      },
-      "artists": [
-        {
-          "name": "Rev. Cleophus Robinson",
-          "url": "https://open.spotify.com/artist/2KBIwRiovYlac37ehvlF62"
-        }
-      ],
-      "duration_ms": 314373,
-      "name": "Because He Lives",
-      "url": "https://open.spotify.com/track/4V941Tt1pJKFPicJcZMYIy"
-    },
-    {
-      "added_at": "2023-04-09 08:49:39",
-      "album": {
         "name": "Blessed By Association",
         "url": "https://open.spotify.com/album/7Mlu5erqJLuAR4zWPIEIDx"
       },
@@ -1331,6 +1315,38 @@
       "duration_ms": 299586,
       "name": "At The Cross",
       "url": "https://open.spotify.com/track/0Dfrt8K6k2rUg1Jf4EbppZ"
+    },
+    {
+      "added_at": "2023-04-09 08:49:39",
+      "album": {
+        "name": "I Shall Know Him",
+        "url": "https://open.spotify.com/album/4mMN2C6hfUmvoiXNmGZpjJ"
+      },
+      "artists": [
+        {
+          "name": "Rev. Cleophus Robinson",
+          "url": "https://open.spotify.com/artist/2KBIwRiovYlac37ehvlF62"
+        }
+      ],
+      "duration_ms": 314373,
+      "name": "Because He Lives",
+      "url": "https://open.spotify.com/track/4V941Tt1pJKFPicJcZMYIy"
+    },
+    {
+      "added_at": "2023-04-09 08:49:39",
+      "album": {
+        "name": "Then Sings My Soul",
+        "url": "https://open.spotify.com/album/6iisYpnZhqiG0YV27QjJo9"
+      },
+      "artists": [
+        {
+          "name": "Mississippi Mass Choir",
+          "url": "https://open.spotify.com/artist/30aMh21vdYVIjdVgIgHaqW"
+        }
+      ],
+      "duration_ms": 337440,
+      "name": "He Didn't Have To Do It",
+      "url": "https://open.spotify.com/track/78qrs0P8o0u1MketFZ6YsV"
     },
     {
       "added_at": "2023-04-09 08:49:39",
@@ -1355,22 +1371,6 @@
       "duration_ms": 290432,
       "name": "Heaven's Here - Live",
       "url": "https://open.spotify.com/track/5B6mBys5g0csgDoBuKF1tZ"
-    },
-    {
-      "added_at": "2023-04-09 08:49:39",
-      "album": {
-        "name": "Then Sings My Soul",
-        "url": "https://open.spotify.com/album/6iisYpnZhqiG0YV27QjJo9"
-      },
-      "artists": [
-        {
-          "name": "Mississippi Mass Choir",
-          "url": "https://open.spotify.com/artist/30aMh21vdYVIjdVgIgHaqW"
-        }
-      ],
-      "duration_ms": 337440,
-      "name": "He Didn't Have To Do It",
-      "url": "https://open.spotify.com/track/78qrs0P8o0u1MketFZ6YsV"
     },
     {
       "added_at": "2023-04-09 08:49:39",
@@ -1455,6 +1455,26 @@
     {
       "added_at": "2023-04-09 08:49:39",
       "album": {
+        "name": "Common Hymnal (Live)",
+        "url": "https://open.spotify.com/album/4BClet3QGu0HwQy4KP3aCj"
+      },
+      "artists": [
+        {
+          "name": "Common Hymnal",
+          "url": "https://open.spotify.com/artist/1q6xQXmuTccwh7gBR7ToUN"
+        },
+        {
+          "name": "Justin Gray",
+          "url": "https://open.spotify.com/artist/3rvv9yt2IG7xESozkHcrLR"
+        }
+      ],
+      "duration_ms": 471217,
+      "name": "The Cross Made the Change - Live",
+      "url": "https://open.spotify.com/track/6h1yHgyZgOtmFNA3iN5yuH"
+    },
+    {
+      "added_at": "2023-04-09 08:49:39",
+      "album": {
         "name": "The Essential Fred Hammond",
         "url": "https://open.spotify.com/album/4tjopW7OcRx04doP9Pgke7"
       },
@@ -1503,26 +1523,6 @@
     {
       "added_at": "2023-04-09 08:49:39",
       "album": {
-        "name": "Common Hymnal (Live)",
-        "url": "https://open.spotify.com/album/4BClet3QGu0HwQy4KP3aCj"
-      },
-      "artists": [
-        {
-          "name": "Common Hymnal",
-          "url": "https://open.spotify.com/artist/1q6xQXmuTccwh7gBR7ToUN"
-        },
-        {
-          "name": "Justin Gray",
-          "url": "https://open.spotify.com/artist/3rvv9yt2IG7xESozkHcrLR"
-        }
-      ],
-      "duration_ms": 471217,
-      "name": "The Cross Made the Change - Live",
-      "url": "https://open.spotify.com/track/6h1yHgyZgOtmFNA3iN5yuH"
-    },
-    {
-      "added_at": "2023-04-09 08:49:39",
-      "album": {
         "name": "Trip Down Memory Lane",
         "url": "https://open.spotify.com/album/11OQ0AT4RDHJq8DqVQST9h"
       },
@@ -1535,22 +1535,6 @@
       "duration_ms": 443466,
       "name": "The Blood",
       "url": "https://open.spotify.com/track/46Iicv5lT8Z752kFlrQVWF"
-    },
-    {
-      "added_at": "2023-04-09 08:49:39",
-      "album": {
-        "name": "Live in Concert",
-        "url": "https://open.spotify.com/album/1DwIkkDUYWYgslR1McB65B"
-      },
-      "artists": [
-        {
-          "name": "Kim Burrell",
-          "url": "https://open.spotify.com/artist/0fW7wYpfi0yzlc8JPP12jA"
-        }
-      ],
-      "duration_ms": 573933,
-      "name": "Calvary",
-      "url": "https://open.spotify.com/track/02z20oTwSuEa4EBx8Q47Dj"
     },
     {
       "added_at": "2023-04-09 08:49:39",
@@ -1571,6 +1555,22 @@
       "duration_ms": 130306,
       "name": "Oh Happy Day (feat. Shirley Miller)",
       "url": "https://open.spotify.com/track/6PH0etRGVIaYBpKmXYCHYo"
+    },
+    {
+      "added_at": "2023-04-09 08:49:39",
+      "album": {
+        "name": "Live in Concert",
+        "url": "https://open.spotify.com/album/1DwIkkDUYWYgslR1McB65B"
+      },
+      "artists": [
+        {
+          "name": "Kim Burrell",
+          "url": "https://open.spotify.com/artist/0fW7wYpfi0yzlc8JPP12jA"
+        }
+      ],
+      "duration_ms": 573933,
+      "name": "Calvary",
+      "url": "https://open.spotify.com/track/02z20oTwSuEa4EBx8Q47Dj"
     },
     {
       "added_at": "2023-04-09 08:49:39",
@@ -1783,22 +1783,6 @@
     {
       "added_at": "2023-04-09 08:49:39",
       "album": {
-        "name": "Live In Detroit II (Video)",
-        "url": "https://open.spotify.com/album/2En34iMFWvBpbGKZDOwusQ"
-      },
-      "artists": [
-        {
-          "name": "Vickie Winans",
-          "url": "https://open.spotify.com/artist/3lRcuKNnP49qqc0AHfTTAR"
-        }
-      ],
-      "duration_ms": 545000,
-      "name": "Oh Holy Lamb",
-      "url": "https://open.spotify.com/track/68oQ1Wm0JOgBwjahOWqmYm"
-    },
-    {
-      "added_at": "2023-04-09 08:49:39",
-      "album": {
         "name": "Wanda Nero Butler & Yolanda Adams",
         "url": "https://open.spotify.com/album/2Cl4KsxZsmtURyKzXBDSL4"
       },
@@ -1815,6 +1799,22 @@
       "duration_ms": 220493,
       "name": "Just As I Am",
       "url": "https://open.spotify.com/track/6T9cKNsIuOE3p0mTVgZlIX"
+    },
+    {
+      "added_at": "2023-04-09 08:49:39",
+      "album": {
+        "name": "Live In Detroit II (Video)",
+        "url": "https://open.spotify.com/album/2En34iMFWvBpbGKZDOwusQ"
+      },
+      "artists": [
+        {
+          "name": "Vickie Winans",
+          "url": "https://open.spotify.com/artist/3lRcuKNnP49qqc0AHfTTAR"
+        }
+      ],
+      "duration_ms": 545000,
+      "name": "Oh Holy Lamb",
+      "url": "https://open.spotify.com/track/68oQ1Wm0JOgBwjahOWqmYm"
     },
     {
       "added_at": "2023-04-09 08:49:39",

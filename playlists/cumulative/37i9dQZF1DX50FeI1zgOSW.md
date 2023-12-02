@@ -4,7 +4,7 @@
 
 > Featuring up\-and\-coming Tamil artists from the Indie scene<br/>Cover : Sanathan Shree Krishnan
 
-175 songs - 10 hr 0 min
+177 songs - 10 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,6 +82,7 @@
 | [Kaveri](https://open.spotify.com/track/0FALUhuD469ZTYOlnqfafA) | [PRI](https://open.spotify.com/artist/3SdB1D3HlBKxhy5kOOQvit), [Bak n 4th](https://open.spotify.com/artist/0XZDSZnm55oXsRvKSsnPyv) | [Kaveri](https://open.spotify.com/album/7DLxE3Yrve0ktJbHMnkgU7) | 4:11 | 2023-07-04 | 2023-11-29 |
 | [Kavithai Nee](https://open.spotify.com/track/6UQdMKDC4kmfWo9LWbsWcw) | [Törk](https://open.spotify.com/artist/7xGyFtxJOldAjiu2bvDAsy), [AKSH](https://open.spotify.com/artist/4XuG5Czd9PgDg9GF87E137) | [Kavithai Nee](https://open.spotify.com/album/5AKSWXaPZJKKbmXwgFsry3) | 3:39 | 2023-06-22 | 2023-06-27 |
 | [Kazhivara](https://open.spotify.com/track/386Irrx3UfMmOwzmKX3b8m) | [San T](https://open.spotify.com/artist/6ATsGtHUNuw82AxZC3I8Bb), [Suppliers](https://open.spotify.com/artist/3nWI57X6Dtnu7lbHwl3amD) | [Lord Poetry](https://open.spotify.com/album/4illQIaW2DayH6iEItSC7x) | 3:04 | 2023-06-05 | 2023-11-16 |
+| [Kobama](https://open.spotify.com/track/1sJ5KxFAHrHIIPLa5rCqDV) | [Niranjan Pandian](https://open.spotify.com/artist/3aGnF6rGsN6tejUQLODWUN), [Bhoomika Selvaraj](https://open.spotify.com/artist/4u1sktFCR8p40GBp8VVL8o) | [Kobama](https://open.spotify.com/album/1GiaF2Fm8MI9q6H67OEJRz) | 4:28 | 2023-12-01 |  |
 | [Koothu](https://open.spotify.com/track/6tP9H2YghB2KaNdWZwlVTp) | [Siennor](https://open.spotify.com/artist/7llcZ59fwsSv4nEx3mgu31) | [Agappor](https://open.spotify.com/album/6AV0XvOWE51QL7LozwDy2T) | 1:48 | 2023-04-28 | 2023-10-04 |
 | [Lalala Cindrella](https://open.spotify.com/track/03tXg4jq1WCOvYLlb0GOq4) | [Chandar Karunakaran](https://open.spotify.com/artist/0n7QXUrwDAmArjWNgyrBmO), [Avinash Sivan](https://open.spotify.com/artist/5wCbzqnV8mRtQPNya06r1h) | [Enakkena Oru Ulagam](https://open.spotify.com/album/4MGM3Vn0QSI4VZUIVmqjiv) | 3:47 | 2023-03-21 | 2023-07-25 |
 | [Love Aala](https://open.spotify.com/track/3hEHVzkcQAGxrORQDdMxyJ) | [MC DEVESH](https://open.spotify.com/artist/3eelw9NJgb9Gx5X80SHhiT), [Urban Thozha](https://open.spotify.com/artist/3Dp5dANamboswrpWcetBRX) | [Love Aala](https://open.spotify.com/album/1qqnd5lZvHXYftKidVNbIp) | 2:47 | 2023-11-20 |  |
@@ -112,6 +113,7 @@
 | [Nee Dhaan Parisae \(From "Woh Kaun Thi"\)](https://open.spotify.com/track/1pWZsoNmKQSyV9fMcX5Dc4) | [Vikaas Vishwakarma](https://open.spotify.com/artist/3MusGpFITCdtSHEeugBc6e), [Jasraj Singh](https://open.spotify.com/artist/6qLuvyiWpMekEUpSwLUtlh), [Madan Mohan](https://open.spotify.com/artist/5Uvn1P3OFu268QovsUAnDu), [Raja Mehdi Ali Khan](https://open.spotify.com/artist/79A5doSmeSIdsm48RvSOcz), [Madhu Malaranban](https://open.spotify.com/artist/0cI1PkzZd4Ds4HLc2hXR19), [Dilann](https://open.spotify.com/artist/5QjykSLxNEX80EIlFZFeCR) | [Nee Dhaan Parisae \(From "Woh Kaun Thi"\) \- Single](https://open.spotify.com/album/4zpOiUaT8VbpnBaWDHelSE) | 3:46 | 2023-05-16 | 2023-07-25 |
 | [Neenguvadhale](https://open.spotify.com/track/6PUzpAsBuuKocDZfivBxtj) | [Srikanth KVB](https://open.spotify.com/artist/6W4s4ZE6Rxg7N8Tyj0vJtT), [Padmaja Sreenivasan](https://open.spotify.com/artist/5B9cyUBFtZz1XNbG2Kym1P) | [Neenguvadhale](https://open.spotify.com/album/57Soe8ciEFDrDqrqw3tC5g) | 4:31 | 2023-07-27 |  |
 | [Neethaano](https://open.spotify.com/track/0DkGBbQQcQMLwwqfqvXImf) | [Sanathan Shree Krishnan](https://open.spotify.com/artist/0FkY0miVokq6NnCKVg2Gko) | [Neethaano](https://open.spotify.com/album/0WAHE59iOrU7n2JdLJtplx) | 3:02 | 2023-09-29 |  |
+| [Neeye](https://open.spotify.com/track/1tBi5yC0ijRkKBcXc06MD7) | [Törk](https://open.spotify.com/artist/7xGyFtxJOldAjiu2bvDAsy), [AKSH](https://open.spotify.com/artist/4XuG5Czd9PgDg9GF87E137), [Kshia](https://open.spotify.com/artist/2sJDE8wstTiLCnffel2NOU) | [Neeye](https://open.spotify.com/album/4NjMmesAM5SuvD6yskYzFu) | 3:03 | 2023-12-01 |  |
 | [Neeye](https://open.spotify.com/track/10pQAPHnkCXsN3i6Ur1Ue8) | [Vishwajeet Deshpande](https://open.spotify.com/artist/6sSDUutJb0nbe2ikDJVM7U), [Prasad Mahadev](https://open.spotify.com/artist/4d4itLWsTshSfFSrba1AR2), [Riyaz MN](https://open.spotify.com/artist/26XD6i7V9Zq6OoTABiVjjw) | [Neeye](https://open.spotify.com/album/3pnvov3dH9shA0n6ddOy8R) | 3:07 | 2023-03-21 | 2023-06-24 |
 | [Neeye Vaanaai](https://open.spotify.com/track/0MwPSfb7P81ozhBTxlZJDR) | [SreRam Anand](https://open.spotify.com/artist/5ZOKFwFsIjoCEgdYwkymvm), [Ramya Sivaramakrishnan](https://open.spotify.com/artist/3jeAry1Pw76BN4rkC2dP7a) | [Neeye Vaanaai](https://open.spotify.com/album/1Apf739H6UcH2hBNkZI3Av) | 2:52 | 2023-06-22 |  |
 | [Nila](https://open.spotify.com/track/5R3eAT29cE067HIzlfdOeG) | [John Kennady](https://open.spotify.com/artist/3o6tDaMkBF30McTajB5d3W) | [Nila](https://open.spotify.com/album/3uQQfEQdXlqzB8NwLeOuf3) | 2:43 | 2023-06-20 |  |

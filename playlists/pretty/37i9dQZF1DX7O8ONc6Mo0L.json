@@ -1,12 +1,12 @@
 {
   "description": "Relaxe com hinos ac\u00fasticos. Foto: Theo Rubia",
-  "num_followers": 281185,
+  "num_followers": 281319,
   "original_name": "Gospel Ac\u00fastico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNzBlMzIxMzJjNjgwNzcyNWFiNDhmYmE1NWU3NzRlYmM3MzdjZmM3",
+  "snapshot_id": "MCw2Njk3YjE5MWRkZjY5YTgwM2E3MTU0NWY4MmUyYmYyM2U5OGEyODRl",
   "tracks": [
     {
       "added_at": "2023-11-24 14:22:43",
@@ -787,6 +787,22 @@
     {
       "added_at": "2023-11-24 14:22:43",
       "album": {
+        "name": "Espera S\u00f3 Mais um Pouquinho",
+        "url": "https://open.spotify.com/album/4XuNKNOhFdHsjtAGyrz9mu"
+      },
+      "artists": [
+        {
+          "name": "Ton Carfi",
+          "url": "https://open.spotify.com/artist/4IefiwlkKHUFoRdBsGj756"
+        }
+      ],
+      "duration_ms": 229759,
+      "name": "Espera S\u00f3 Mais um Pouquinho",
+      "url": "https://open.spotify.com/track/41NtlFmWQgIDWXv6mSgNrf"
+    },
+    {
+      "added_at": "2023-11-24 14:22:43",
+      "album": {
         "name": "Seu Amor: YOUnique (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/1279LGdx3pj2hv2p0hivMA"
       },
@@ -799,22 +815,6 @@
       "duration_ms": 444976,
       "name": "Seu Amor: YOUnique - Ac\u00fastico",
       "url": "https://open.spotify.com/track/3m0CtqEbzclwKxit7C48T3"
-    },
-    {
-      "added_at": "2023-11-24 14:22:43",
-      "album": {
-        "name": "Lugar Secreto / Qual \u00c9 O Pensamento",
-        "url": "https://open.spotify.com/album/1pJNA4RcbsPPY8Rpf8aJK6"
-      },
-      "artists": [
-        {
-          "name": "Trilo",
-          "url": "https://open.spotify.com/artist/76bLMQAatDGLJ8yyuyVPjD"
-        }
-      ],
-      "duration_ms": 211817,
-      "name": "Lugar Secreto / Qual \u00c9 O Pensamento",
-      "url": "https://open.spotify.com/track/6Kap705m9jHPY9CbyBopkk"
     },
     {
       "added_at": "2023-11-24 14:22:43",
@@ -855,18 +855,18 @@
     {
       "added_at": "2023-11-24 14:22:43",
       "album": {
-        "name": "Espera S\u00f3 Mais um Pouquinho",
-        "url": "https://open.spotify.com/album/4XuNKNOhFdHsjtAGyrz9mu"
+        "name": "Lugar Secreto / Qual \u00c9 O Pensamento",
+        "url": "https://open.spotify.com/album/1pJNA4RcbsPPY8Rpf8aJK6"
       },
       "artists": [
         {
-          "name": "Ton Carfi",
-          "url": "https://open.spotify.com/artist/4IefiwlkKHUFoRdBsGj756"
+          "name": "Trilo",
+          "url": "https://open.spotify.com/artist/76bLMQAatDGLJ8yyuyVPjD"
         }
       ],
-      "duration_ms": 229759,
-      "name": "Espera S\u00f3 Mais um Pouquinho",
-      "url": "https://open.spotify.com/track/41NtlFmWQgIDWXv6mSgNrf"
+      "duration_ms": 211817,
+      "name": "Lugar Secreto / Qual \u00c9 O Pensamento",
+      "url": "https://open.spotify.com/track/6Kap705m9jHPY9CbyBopkk"
     },
     {
       "added_at": "2023-11-24 14:22:43",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2023-11-24 14:22:43",
       "album": {
-        "name": "Nada vai me separar (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/2LEQUVyuNA0EveW6JSeIGw"
-      },
-      "artists": [
-        {
-          "name": "Thamires Garcia",
-          "url": "https://open.spotify.com/artist/00ZfdcYfOCXeygtGhbvy4w"
-        }
-      ],
-      "duration_ms": 278125,
-      "name": "Nada vai me separar (Ac\u00fastico)",
-      "url": "https://open.spotify.com/track/3lvW6YlRwTIhRkrFsqpXyD"
-    },
-    {
-      "added_at": "2023-11-24 14:22:43",
-      "album": {
         "name": "Impressionante (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/06eutKmnKz6rjmNzl4eK5p"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 331250,
       "name": "Impressionante - Ac\u00fastico",
       "url": "https://open.spotify.com/track/5UmFOEkYxmZQxnO2KMgZgn"
+    },
+    {
+      "added_at": "2023-11-24 14:22:43",
+      "album": {
+        "name": "Nada vai me separar (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/2LEQUVyuNA0EveW6JSeIGw"
+      },
+      "artists": [
+        {
+          "name": "Thamires Garcia",
+          "url": "https://open.spotify.com/artist/00ZfdcYfOCXeygtGhbvy4w"
+        }
+      ],
+      "duration_ms": 278125,
+      "name": "Nada vai me separar (Ac\u00fastico)",
+      "url": "https://open.spotify.com/track/3lvW6YlRwTIhRkrFsqpXyD"
     },
     {
       "added_at": "2023-11-24 14:22:43",
@@ -1319,38 +1319,18 @@
     {
       "added_at": "2023-11-24 14:22:43",
       "album": {
-        "name": "Rude Cruz (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1R8t64G5z3pRiAzlDSeA6C"
+        "name": "At\u00e9 Te Encontrar (Em Casa Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/019siXdjcZnRaYu461N7US"
       },
       "artists": [
         {
-          "name": "Pr. Lucas",
-          "url": "https://open.spotify.com/artist/5uBdPagL8e7AwfIzrM8zuS"
-        },
-        {
-          "name": "Bekah Costa",
-          "url": "https://open.spotify.com/artist/43GhsjEls2W0kceLxCK9cb"
+          "name": "Rebeca Carvalho",
+          "url": "https://open.spotify.com/artist/7ejjZWVYdXuGjkLsUPW4xL"
         }
       ],
-      "duration_ms": 303780,
-      "name": "Rude Cruz (Ao Vivo)",
-      "url": "https://open.spotify.com/track/583p2yhPa1VqXQiPH0yGzb"
-    },
-    {
-      "added_at": "2023-11-24 14:22:43",
-      "album": {
-        "name": "On Tape (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7vdwMqaBgN4HX0ElfzGMwL"
-      },
-      "artists": [
-        {
-          "name": "Os Meireles",
-          "url": "https://open.spotify.com/artist/4GvZo4MFJZPodaS1VXVEe1"
-        }
-      ],
-      "duration_ms": 228388,
-      "name": "Falar Com Deus - Faixa B\u00f4nus",
-      "url": "https://open.spotify.com/track/0hWrNzTck3XeSk05UGmd7b"
+      "duration_ms": 347727,
+      "name": "At\u00e9 Te Encontrar - Em Casa Ac\u00fastico",
+      "url": "https://open.spotify.com/track/1jCivgxesPgEoN5duKHZBc"
     },
     {
       "added_at": "2023-11-24 14:22:43",
@@ -1371,18 +1351,38 @@
     {
       "added_at": "2023-11-24 14:22:43",
       "album": {
-        "name": "At\u00e9 Te Encontrar (Em Casa Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/019siXdjcZnRaYu461N7US"
+        "name": "On Tape (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7vdwMqaBgN4HX0ElfzGMwL"
       },
       "artists": [
         {
-          "name": "Rebeca Carvalho",
-          "url": "https://open.spotify.com/artist/7ejjZWVYdXuGjkLsUPW4xL"
+          "name": "Os Meireles",
+          "url": "https://open.spotify.com/artist/4GvZo4MFJZPodaS1VXVEe1"
         }
       ],
-      "duration_ms": 347727,
-      "name": "At\u00e9 Te Encontrar - Em Casa Ac\u00fastico",
-      "url": "https://open.spotify.com/track/1jCivgxesPgEoN5duKHZBc"
+      "duration_ms": 228388,
+      "name": "Falar Com Deus - Faixa B\u00f4nus",
+      "url": "https://open.spotify.com/track/0hWrNzTck3XeSk05UGmd7b"
+    },
+    {
+      "added_at": "2023-11-24 14:22:43",
+      "album": {
+        "name": "Rude Cruz (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1R8t64G5z3pRiAzlDSeA6C"
+      },
+      "artists": [
+        {
+          "name": "Pr. Lucas",
+          "url": "https://open.spotify.com/artist/5uBdPagL8e7AwfIzrM8zuS"
+        },
+        {
+          "name": "Bekah Costa",
+          "url": "https://open.spotify.com/artist/43GhsjEls2W0kceLxCK9cb"
+        }
+      ],
+      "duration_ms": 303780,
+      "name": "Rude Cruz (Ao Vivo)",
+      "url": "https://open.spotify.com/track/583p2yhPa1VqXQiPH0yGzb"
     },
     {
       "added_at": "2023-11-24 14:22:43",

@@ -2,9 +2,9 @@
 
 ### [R&B Rising](https://open.spotify.com/playlist/37i9dQZF1DWUbo613Z2iWO)
 
-> R&B of the moment by the artists of the future\. Cover: RAAHiiM
+> R&B of the moment by the artists of the future\. Cover: Josh Levi
 
-722 songs - 1 day 13 hr 13 min
+727 songs - 1 day 13 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [About U](https://open.spotify.com/track/4bBdFSu4WcfJhWl1EsreVj) | [Savannah Ré](https://open.spotify.com/artist/3qfqqDpGv4XNfa3G0EfP9s) | [About U](https://open.spotify.com/album/48lbAUdEwFZFKWY2y4BfvB) | 2:42 | 2022-07-22 | 2023-05-13 |
 | [Achy](https://open.spotify.com/track/24yW63G9CzOVKm1SRfAXmV) | [Phabo](https://open.spotify.com/artist/5FdZDr2bMbEcnsEKRgO3rn) | [Before I Let Her Go EP](https://open.spotify.com/album/6hAC1PPv2WjG19Mru927Jg) | 2:47 | 2022-07-15 | 2023-03-04 |
 | [Achy](https://open.spotify.com/track/3BZEl44UzEcZA9t4lTCD6F) | [Phabo](https://open.spotify.com/artist/5FdZDr2bMbEcnsEKRgO3rn) | [Achy](https://open.spotify.com/album/2ObLlP6hOA8gKLBUy4e19O) | 2:47 | 2022-07-09 | 2022-07-16 |
+| [act i: stickerz "99"](https://open.spotify.com/track/24A1MxM364lveyyDomwIYq) | [4batz](https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7) | [act i: stickerz "99"](https://open.spotify.com/album/7zvLQaWpLG4rZSXgpTsfi9) | 1:44 | 2023-12-01 |  |
 | [AFTER HOURS](https://open.spotify.com/track/2ss03wfWSV9g3DdvDklHH2) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [AFTER HOURS](https://open.spotify.com/album/0C4vpjaKHhAAcd0fo9hWaT) | 2:53 | 2023-10-27 |  |
 | [Agua](https://open.spotify.com/track/3bZNQvIowjUMGdu6GHNGlK) | [Tempest](https://open.spotify.com/artist/2FBvlvG5TL6SPA2tCLiusa) | [Agua](https://open.spotify.com/album/4PTIzpb2IafRrTYdUjgJTr) | 2:49 | 2022-07-15 | 2022-07-30 |
 | [All For You](https://open.spotify.com/track/7rPWZTM7nnaySX8a6Pmeg7) | [Amaria](https://open.spotify.com/artist/2clS9uX2uOrHHqkyDMkzA1), [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [All For You](https://open.spotify.com/album/37dpSVOfI1x0CIiDzlIc6i) | 3:03 | 2022-10-07 | 2023-07-01 |
@@ -66,6 +67,7 @@
 | [Better](https://open.spotify.com/track/7o7psZFHfmAhMRCkBK5TNc) | [RealestK](https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx) | [Better](https://open.spotify.com/album/4tgsvviaNU3sRV1obVFzTq) | 3:06 | 2023-09-22 |  |
 | [Better Than Him](https://open.spotify.com/track/4O8LjiiXtsL0Jnb5xK4VxZ) | [Dende](https://open.spotify.com/artist/0xq4TZno4XwBzkbLnBAhlF) | [Before We Crash](https://open.spotify.com/album/0cIv8DfxokTzEUJAwlsyfP) | 3:49 | 2023-01-06 | 2023-01-21 |
 | [Big Steppa](https://open.spotify.com/track/0qNH2olGC2AUMMptYsdrK5) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [Fountain Baby](https://open.spotify.com/album/3dKdkVeR6hPjAOH5K2nYTh) | 2:56 | 2023-06-30 | 2023-10-28 |
+| [BIRTHDAY DANCE](https://open.spotify.com/track/0WkfQ4SJqsKrixNQNYSMsq) | [Josh Levi](https://open.spotify.com/artist/6NvsNA4Ea62yJh7ePTS8gz) | [DISC TWO \(SCRATCHED UP\)](https://open.spotify.com/album/2Dl2fPxFNqw7d3oFhHqHc3) | 2:24 | 2023-12-01 |  |
 | [Birthday Girl](https://open.spotify.com/track/4AmxBBozDJDeNcsPMcLrTq) | [FRVRFRIDAY](https://open.spotify.com/artist/2jwmP4TgzTGqjCfcXMDayW) | [Birthday Girl](https://open.spotify.com/album/1KfH7Htcq4ck6JNVZrozUa) | 2:23 | 2022-11-11 | 2023-01-21 |
 | [Bitter](https://open.spotify.com/track/4pBA16KT5vSpGiML9JC6wK) | [JAHKOY](https://open.spotify.com/artist/1c5SlzViAqsaB0kXygfSjh) | [Bitter](https://open.spotify.com/album/76WgHkdWwCDUkfeTABjGYp) | 2:18 | 2022-11-04 | 2023-01-21 |
 | [Bittersweet](https://open.spotify.com/track/6YIXb5R1nJ6DbSucyvAXYg) | [Elijah Waters](https://open.spotify.com/artist/4N4n2TRyL6exNfazJotLeH) | [Bittersweet](https://open.spotify.com/album/3YPSBfBdzyeOoQU72r1RH8) | 3:20 | 2022-04-08 | 2022-05-21 |
@@ -392,6 +394,7 @@
 | [love you more than me](https://open.spotify.com/track/3jc0jdopFsv3dYz5uo8OCr) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [love you more than me](https://open.spotify.com/album/5iA8uhhLMIfh8CUu6sJWd6) | 2:21 | 2022-07-01 | 2022-10-15 |
 | [Love, Today](https://open.spotify.com/track/1LoCwW6zCCmuLxDU8p06Q8) | [Preyé](https://open.spotify.com/artist/6dbTmlL5brq9B2fkUj2MQD), [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu) | [Don't Look Down!](https://open.spotify.com/album/6DEAfTTihu0p1nNkti8Bn0) | 3:26 | 2022-09-02 | 2022-10-15 |
 | [LOVE4FREE](https://open.spotify.com/track/3zoXpiq5f5q87a2xnGdAdQ) | [TyFontaine](https://open.spotify.com/artist/3U1jsFYwwJHv7VB4Frf3F4) | [B4BMG: The Experience](https://open.spotify.com/album/1EeapC8eRWGPZkfPJrvPSs) | 2:03 | 2022-03-25 | 2022-05-07 |
+| [Loveland](https://open.spotify.com/track/5c32p7UcaaZ4V4I5WegSvx) | [Raiche](https://open.spotify.com/artist/4yaRDENYr8yAAlEUf23DRI) | [Loveland](https://open.spotify.com/album/2IULukKg12fv5TyymGGeQz) | 3:27 | 2023-12-01 |  |
 | [Lovin' you](https://open.spotify.com/track/2rIrdCcmhbm7RLbBaVhIIQ) | [Tanerélle](https://open.spotify.com/artist/1r1n66Rkx4fzNCIUQhS6OH) | [82 Moons](https://open.spotify.com/album/4jRfeVlkvAvqgvGCGfPQ5Y) | 4:24 | 2022-04-15 | 2022-06-25 |
 | [Low Profile](https://open.spotify.com/track/0iyUSMsn7Qve6WotFA77Tr) | [Nakkia Gold](https://open.spotify.com/artist/2kPJ3uWBBRjfh0dZNEW7ET) | [Low Profile](https://open.spotify.com/album/6pWyGg9oyQJWaDOsBopf9N) | 2:44 | 2022-05-13 | 2022-07-10 |
 | [Lullaby](https://open.spotify.com/track/4YMuvI6faoxGj5bJur1dpy) | [Alicia Moffet](https://open.spotify.com/artist/5ph9A8j6xyDlLNZTqYgNV1) | [Lullaby](https://open.spotify.com/album/703gnSo3ZsJkpEIpkQCkLX) | 3:42 | 2022-03-25 | 2022-04-16 |
@@ -472,6 +475,7 @@
 | [Overgold](https://open.spotify.com/track/74vzcgYIdZhdyrgZcaVnAy) | [Sebastian Mikael](https://open.spotify.com/artist/4hknFHNFp3UMm2Rbc6Ansf) | [Overgold](https://open.spotify.com/album/5oW0Zsl8PcoaWXEENCIVi6) | 3:15 | 2022-09-09 | 2022-11-28 |
 | [Overrated](https://open.spotify.com/track/70Kv6vWsCZeQryTBebFvbX) | [Kenya Vaun](https://open.spotify.com/artist/34lwpzvwbRDx9hnbQkwbJk) | [Overrated](https://open.spotify.com/album/3AtfoVhfF6k3scHxvOz5iL) | 3:07 | 2023-03-10 | 2023-10-21 |
 | [P.B.J.](https://open.spotify.com/track/1KEXxYtfNyK08g2Pc4gcSh) | [Devin Morrison](https://open.spotify.com/artist/4AgZVM5339ZoMyg38nYyYW) | [P.B.J.](https://open.spotify.com/album/1dysgGdZKKCvtqyk9k455I) | 4:08 | 2023-01-20 | 2023-03-18 |
+| [Pain Club](https://open.spotify.com/track/2R5zaqscd2OfNKanP7Dq7E) | [Gemaine](https://open.spotify.com/artist/6WnCnGe06iOO6fTPYAPF03) | [Just Gemaine](https://open.spotify.com/album/1WDXudFoEOcmanWDcyD55i) | 2:28 | 2023-12-01 |  |
 | [Palace](https://open.spotify.com/track/3vkgn6CpM3UHEjyCrFj73C) | [Tora\-i](https://open.spotify.com/artist/4oJsWKOJCNMfUbIpR2jk8Z) | [Palace](https://open.spotify.com/album/7DAjdbPM5XfV7zSVnxUGcO) | 2:32 | 2023-03-24 | 2023-10-28 |
 | [Paraíso](https://open.spotify.com/track/0Dfmwxl6g35vW10qcU5UN1) | [Bairi](https://open.spotify.com/artist/2zCT4CABRrHliK2UmzjIUP) | [Paraíso](https://open.spotify.com/album/60zwZ3rcvhQZepAwfcpuYI) | 3:32 | 2022-02-12 | 2022-03-26 |
 | [Paris 2 Portland](https://open.spotify.com/track/31oYj5XLoi6AGn0BMFgcEK) | [Jaywop](https://open.spotify.com/artist/7LHBUDRMoLWz3aw9H3YSb9), [Bairi](https://open.spotify.com/artist/2zCT4CABRrHliK2UmzjIUP) | [Corduroy](https://open.spotify.com/album/3KPpIrJ5p3i8jl2uTGLYhW) | 3:03 | 2022-04-29 | 2022-05-14 |
@@ -561,6 +565,7 @@
 | [Selfish \(feat\. BEAM\)](https://open.spotify.com/track/0hKlMpG1YsUvUe4TE8qFdB) | [RINI](https://open.spotify.com/artist/2joIhhX3Feq47H4QXVDOr3), [BEAM](https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98) | [Selfish \(feat\. BEAM\)](https://open.spotify.com/album/7mNmUp5h4G9vHec9g6Ul3S) | 3:31 | 2022-10-07 | 2023-01-21 |
 | [Separate \(feat\. Bibi Bourelly\)](https://open.spotify.com/track/1tPZvWPG2WyOP69lD1wE4w) | [SAFE](https://open.spotify.com/artist/3bnpcWBcvlfq4hPFJjNPbz), [Bibi Bourelly](https://open.spotify.com/artist/3jDtqAKltRxJi64svLZGj7) | [GHS Pt\. 2](https://open.spotify.com/album/6O6sUvzt2rp0ZyKPpiOZtp) | 3:17 | 2023-10-27 |  |
 | [Serial Fboy](https://open.spotify.com/track/0841LwMiMNMa6GGTBqfh7j) | [Asha Maclean](https://open.spotify.com/artist/4uo6Vevug3g8cZIDuyigcb) | [Serial Fboy](https://open.spotify.com/album/4VcIRSsRXAs7e1Xy9rxmaM) | 2:59 | 2021-12-15 | 2022-03-12 |
+| [serial recluse](https://open.spotify.com/track/7rR8q7eE0UKUaJt3xsOMSJ) | [Samaria](https://open.spotify.com/artist/4FreKg40BVDMPRLGeubyku) | [serial recluse](https://open.spotify.com/album/30RN16wzgu4a8N9LvgUWQt) | 2:47 | 2023-12-01 |  |
 | [Shady Hills](https://open.spotify.com/track/7D77gQ7oEOUks2pHwGad7M) | [Samaria](https://open.spotify.com/artist/4FreKg40BVDMPRLGeubyku) | [Didn't Start With You](https://open.spotify.com/album/27RhvUoZNhFtggwX1pVSgr) | 2:40 | 2022-12-16 | 2023-07-15 |
 | [Shameless](https://open.spotify.com/track/2MJlhN2OockKCadeGS4AEP) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [Shameless](https://open.spotify.com/album/1cHm86on0UXY0KepCk1xui) | 2:55 | 2022-08-19 | 2022-10-22 |
 | [Shine](https://open.spotify.com/track/06TDTjD7efqsLwhXKv0bci) | [Elaine](https://open.spotify.com/artist/5ZkuGe2wkDbeL8JmmhvMOx) | [Shine](https://open.spotify.com/album/4dyua6pD9i0Ht460lB6JOG) | 3:02 | 2022-03-18 | 2022-04-29 |

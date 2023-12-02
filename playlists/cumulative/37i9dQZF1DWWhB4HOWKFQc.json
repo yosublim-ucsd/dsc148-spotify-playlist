@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-26",
-  "description": "Kumpulan lagu yang sedang menyebar luas. Cover: King Promise",
+  "description": "Kumpulan lagu yang sedang menyebar luas. Cover: Nadzira Shafa",
   "name": "Lagi Viral",
   "tracks": [
     {
@@ -128,7 +128,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 254316,
       "name": "A Thousand Years",
       "url": "https://open.spotify.com/track/5h5CQwgjgQrBUacsqR2zR7"
@@ -458,7 +458,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 261922,
       "name": "august",
       "url": "https://open.spotify.com/track/3hUxzQpSfdDqwM3ZTFQY0K"
@@ -556,7 +556,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 232942,
       "name": "Bass Body Party",
       "url": "https://open.spotify.com/track/0UEAwLwq9drkkrDfgxlGwK"
@@ -578,7 +578,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 227986,
       "name": "Beauty And A Beat",
       "url": "https://open.spotify.com/track/190jyVPHYjAqEaOGmMzdyk"
@@ -864,7 +864,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 225573,
       "name": "Cerita Tiba Tiba",
       "url": "https://open.spotify.com/track/6iNfcXYuTkHWarYUaKGnZX"
@@ -882,7 +882,7 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 131600,
       "name": "Cheap Cologne",
       "url": "https://open.spotify.com/track/2B4Da1gud3hAKcCwo0dNMG"
@@ -900,7 +900,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 266330,
       "name": "Cincin",
       "url": "https://open.spotify.com/track/7J0isBrUxhIYZVdrBOOlIh"
@@ -958,7 +958,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 234125,
       "name": "Cintanya Aku",
       "url": "https://open.spotify.com/track/53fKDMfQhWMSw7QKVDOTBP"
@@ -1100,7 +1100,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 178426,
       "name": "Cruel Summer",
       "url": "https://open.spotify.com/track/1BxfuPKGuaTgP7aM0Bbdwr"
@@ -1208,7 +1208,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 164790,
       "name": "DArkSide",
       "url": "https://open.spotify.com/track/19vHgVS1aukRiQWhTqfKnE"
@@ -1305,6 +1305,24 @@
     },
     {
       "album": {
+        "name": "Di Tepian Rindu",
+        "url": "https://open.spotify.com/album/3wcanKq3bDbrdvt6CvObPG"
+      },
+      "artists": [
+        {
+          "name": "Davisiumbing",
+          "url": "https://open.spotify.com/artist/6I0a3WIV63MtJskiaXUEYS"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221389,
+      "name": "Di Tepian Rindu",
+      "url": "https://open.spotify.com/track/624kdAdUsNsqIQIWEzRrdw"
+    },
+    {
+      "album": {
         "name": "Dia Masa Lalumu, Aku Masa Depanmu",
         "url": "https://open.spotify.com/album/31t2Ua284TmIA9ZjgEhQVl"
       },
@@ -1356,7 +1374,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 211544,
       "name": "Dinda",
       "url": "https://open.spotify.com/track/49aLn6dhgqf1XOjxQGG15w"
@@ -2198,7 +2216,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 278219,
       "name": "Jiwa Yang Bersedih",
       "url": "https://open.spotify.com/track/6XsFgTG4dY768oIB4Dmeu0"
@@ -2220,6 +2238,28 @@
       "duration_ms": 288333,
       "name": "Just Say Hello",
       "url": "https://open.spotify.com/track/1fflhv9kqRw6rm50KaXcYm"
+    },
+    {
+      "album": {
+        "name": "Kala Sang Surya Tenggelam (from the Netflix Series \"Gadis Kretek\")",
+        "url": "https://open.spotify.com/album/6KBxUSNGEAMLGxo9GwpGOt"
+      },
+      "artists": [
+        {
+          "name": "Gadis Kretek - Cast",
+          "url": "https://open.spotify.com/artist/4Vhjay9RCWFn14SVCpXY2a"
+        },
+        {
+          "name": "Nadin Amizah",
+          "url": "https://open.spotify.com/artist/20zafXaLhm5IcXnSU93rNn"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201000,
+      "name": "Kala Sang Surya Tenggelam (from the Netflix Series \"Gadis Kretek\")",
+      "url": "https://open.spotify.com/track/4Ssmc2huU8shKR9aO9PMQH"
     },
     {
       "album": {
@@ -2270,7 +2310,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 275250,
       "name": "Kau Rumahku",
       "url": "https://open.spotify.com/track/7nQoDLkzCcoIpKPQt3eCdN"
@@ -2364,7 +2404,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-11",
+      "date_removed": null,
       "duration_ms": 253333,
       "name": "Kerasnya Kota",
       "url": "https://open.spotify.com/track/6jkMvmZNH8vszD0dLbUMaj"
@@ -2616,7 +2656,7 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 240000,
       "name": "Lonely Holiday",
       "url": "https://open.spotify.com/track/3RfeTA7MpOuDdqe4H4eLAX"
@@ -3183,6 +3223,24 @@
     },
     {
       "album": {
+        "name": "Good God!",
+        "url": "https://open.spotify.com/album/3fIxJzinc2MADbgfkLrmYY"
+      },
+      "artists": [
+        {
+          "name": "Rio Romeo",
+          "url": "https://open.spotify.com/artist/22y08IZx7u6SWpsfap1Cub"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211000,
+      "name": "Nothing's New",
+      "url": "https://open.spotify.com/track/0EF1EE8zusg3Y869e56JFd"
+    },
+    {
+      "album": {
         "name": "Now And Then",
         "url": "https://open.spotify.com/album/2qQP2NgOoH6HqknnbpJmIk"
       },
@@ -3336,7 +3394,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 231750,
       "name": "Paint The Town Red",
       "url": "https://open.spotify.com/track/2IGMVunIBsBLtEQyoI1Mu7"
@@ -3625,6 +3683,24 @@
     },
     {
       "album": {
+        "name": "Rakit",
+        "url": "https://open.spotify.com/album/1Gca5YKBZFnKnhcaZYvzMM"
+      },
+      "artists": [
+        {
+          "name": "Nadzira Shafa",
+          "url": "https://open.spotify.com/artist/3XzmTEQR3TMBJWJqE4Vtos"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278000,
+      "name": "Rakit",
+      "url": "https://open.spotify.com/track/3fpqUsMNqKg6sLPEkOPW2w"
+    },
+    {
+      "album": {
         "name": "Cahaya Hati",
         "url": "https://open.spotify.com/album/6B5IzuaCS1U1RVLEmq0ewQ"
       },
@@ -3654,7 +3730,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 320000,
       "name": "Rayuan Perempuan Gila",
       "url": "https://open.spotify.com/track/1nYdkPCbHdYi4w7s2L6SHA"
@@ -3694,7 +3770,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 218293,
       "name": "Rewrite The Stars (with James Arthur & Anne-Marie)",
       "url": "https://open.spotify.com/track/6mQLN3zRtAp6ovjusyYKrV"
@@ -3824,7 +3900,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 290751,
       "name": "Saat Kau Telah Mengerti",
       "url": "https://open.spotify.com/track/22k5lgD5F7Pc7BodEMzDrY"
@@ -3990,7 +4066,7 @@
       ],
       "date_added": "2023-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 310625,
       "name": "Semua Aku Dirayakan",
       "url": "https://open.spotify.com/track/2x3vwXWuecPrRqgEUuSUJA"
@@ -4026,7 +4102,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 266306,
       "name": "Separuh Aku",
       "url": "https://open.spotify.com/track/4BDA2HN9dQtrXjk8b6zaTq"
@@ -4348,7 +4424,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 223957,
       "name": "Somebody's Pleasure",
       "url": "https://open.spotify.com/track/3e1rs346dsDDwpqTRGlRZR"
@@ -4540,7 +4616,7 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 179841,
       "name": "Tak Dianggap",
       "url": "https://open.spotify.com/track/2lMQOAKPam2JVEfNsZtWDe"
@@ -4648,7 +4724,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 231100,
       "name": "Tak Segampang Itu",
       "url": "https://open.spotify.com/track/26cvTWJq2E1QqN4jyH2OTU"
@@ -5010,7 +5086,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 218073,
       "name": "Trauma",
       "url": "https://open.spotify.com/track/6SITe0StjnWHjyNOVzyJTX"
@@ -5152,6 +5228,24 @@
     {
       "album": {
         "name": "Walking Back Home",
+        "url": "https://open.spotify.com/album/6CT1mfBRIKFU0mjn8YN7vS"
+      },
+      "artists": [
+        {
+          "name": "FUR",
+          "url": "https://open.spotify.com/artist/0e0z6v7dIm0XM7BgQTtB0a"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136666,
+      "name": "Walking Back Home",
+      "url": "https://open.spotify.com/track/7lu5yyLdgRTMTnYw8yCWvM"
+    },
+    {
+      "album": {
+        "name": "Walking Back Home",
         "url": "https://open.spotify.com/album/103U1ni9LPA8TkD4Q7U1q3"
       },
       "artists": [
@@ -5216,7 +5310,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 184153,
       "name": "we fell in love in october",
       "url": "https://open.spotify.com/track/6IPwKM3fUUzlElbvKw2sKl"
@@ -5234,7 +5328,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 189824,
       "name": "What It Is (Solo Version)",
       "url": "https://open.spotify.com/track/73RbfOTJIjHzi2pcVHjeHM"
@@ -5252,7 +5346,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 222369,
       "name": "What Was I Made For? [From The Motion Picture \"Barbie\"]",
       "url": "https://open.spotify.com/track/6wf7Yu7cxBSPrRlWeSeK0Q"

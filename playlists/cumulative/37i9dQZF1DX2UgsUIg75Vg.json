@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-07-10",
-  "description": "Chilled R&B jams for your most relaxed moods. Cover: Jorja Smith",
+  "description": "Chilled R&B jams for your most relaxed moods. Cover: Arin Ray",
   "name": "Chilled R&B",
   "tracks": [
     {
@@ -298,7 +298,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 206856,
       "name": "311!",
       "url": "https://open.spotify.com/track/4tQPhI1lvsqsyqT7AOwwdG"
@@ -3217,6 +3217,32 @@
     },
     {
       "album": {
+        "name": "this is no longer a dream [DELUXE]",
+        "url": "https://open.spotify.com/album/6jlID59b6Nin71hhY6DL6d"
+      },
+      "artists": [
+        {
+          "name": "anaiis",
+          "url": "https://open.spotify.com/artist/0OtS8ueEJDd0RZnHdHOJDl"
+        },
+        {
+          "name": "Chronixx",
+          "url": "https://open.spotify.com/artist/2oZcMYiKpjaA2Et5mU3RPP"
+        },
+        {
+          "name": "Luigie Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/4LnbeliLNOvcVCZZXtAyBG"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207391,
+      "name": "cry in your sleep (DJ Lulo remix) [with Chronixx]",
+      "url": "https://open.spotify.com/track/1KFHXzPGZp80ckQ3BWQj3m"
+    },
+    {
+      "album": {
         "name": "Land Of Nothing Real 2",
         "url": "https://open.spotify.com/album/0BP5Q9dJyOcDcfkL6ETFKX"
       },
@@ -4376,7 +4402,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 198425,
       "name": "Eve Gene",
       "url": "https://open.spotify.com/track/6eKpk5wa0sP4YgjoI1psFX"
@@ -8080,7 +8106,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 177533,
       "name": "Like Her Too",
       "url": "https://open.spotify.com/track/1Nxx1LHMLKxC6yGaZjpPO5"
@@ -9227,6 +9253,28 @@
     },
     {
       "album": {
+        "name": "IN LOVING MEMORY",
+        "url": "https://open.spotify.com/album/5yjvJzb9DJRtgArZhPs6uk"
+      },
+      "artists": [
+        {
+          "name": "Sean Leon",
+          "url": "https://open.spotify.com/artist/5dtbsNKCK6Q9yZzdhZpaqW"
+        },
+        {
+          "name": "Dylan Sinclair",
+          "url": "https://open.spotify.com/artist/45RZn1pAEvQYqkRnvFaIJx"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146774,
+      "name": "MEMORIES",
+      "url": "https://open.spotify.com/track/6jHQ6Eq1hsNU8bjmRIDfks"
+    },
+    {
+      "album": {
         "name": "Meu Amor",
         "url": "https://open.spotify.com/album/3V0PZAGyWeByeF4rVPP8L1"
       },
@@ -10353,6 +10401,24 @@
     },
     {
       "album": {
+        "name": "TYLA",
+        "url": "https://open.spotify.com/album/6cWVXZCgpDJhvFOqB6o0DP"
+      },
+      "artists": [
+        {
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167746,
+      "name": "On and On",
+      "url": "https://open.spotify.com/track/2bBaAOsFVQfKwMAe4wVQb6"
+    },
+    {
+      "album": {
         "name": "Closer (Deluxe)",
         "url": "https://open.spotify.com/album/6rByiyStzXd3JzGaVL8KTj"
       },
@@ -10884,6 +10950,24 @@
       "duration_ms": 176955,
       "name": "Pack Lite",
       "url": "https://open.spotify.com/track/3Q0U0QJEGjA2rZPoGVVaWY"
+    },
+    {
+      "album": {
+        "name": "Just Gemaine",
+        "url": "https://open.spotify.com/album/1WDXudFoEOcmanWDcyD55i"
+      },
+      "artists": [
+        {
+          "name": "Gemaine",
+          "url": "https://open.spotify.com/artist/6WnCnGe06iOO6fTPYAPF03"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148093,
+      "name": "Pain Club",
+      "url": "https://open.spotify.com/track/2R5zaqscd2OfNKanP7Dq7E"
     },
     {
       "album": {
@@ -11762,7 +11846,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 136384,
       "name": "Revelation",
       "url": "https://open.spotify.com/track/4zbESg1uRexM8P8K2SIqwq"
@@ -14850,7 +14934,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 164607,
       "name": "Touch Me Back",
       "url": "https://open.spotify.com/track/1FSetWBm1rFLb9sFgrCatD"
@@ -16164,6 +16248,24 @@
       "duration_ms": 201026,
       "name": "Where I Go (feat. H.E.R.)",
       "url": "https://open.spotify.com/track/3MlQPB0wJuopo3NTZGlMpI"
+    },
+    {
+      "album": {
+        "name": "Where R U Now (Acoustic)",
+        "url": "https://open.spotify.com/album/2NeC3shfWGxCcfAhdO69di"
+      },
+      "artists": [
+        {
+          "name": "Storm Ford",
+          "url": "https://open.spotify.com/artist/0On2yf7ZQXFJJ4CbZoYty2"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166829,
+      "name": "Where R U Now - Acoustic",
+      "url": "https://open.spotify.com/track/0nChB3pqbznFzQKiAlb9gu"
     },
     {
       "album": {

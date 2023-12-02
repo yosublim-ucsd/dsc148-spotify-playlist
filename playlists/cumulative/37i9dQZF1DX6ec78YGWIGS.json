@@ -169,6 +169,24 @@
     },
     {
       "album": {
+        "name": "Altar",
+        "url": "https://open.spotify.com/album/5Jnax9gcPF8BBjcAQ1r9bF"
+      },
+      "artists": [
+        {
+          "name": "Luz Gaggi",
+          "url": "https://open.spotify.com/artist/5wKQ8RnelEGULisF5rlbtm"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193021,
+      "name": "Altar",
+      "url": "https://open.spotify.com/track/1insvPZ3iQa5iTixWUpAMr"
+    },
+    {
+      "album": {
         "name": "An\u00edmate",
         "url": "https://open.spotify.com/album/2RaMQaXU0ZQgokm44kVgIq"
       },
@@ -429,6 +447,28 @@
     },
     {
       "album": {
+        "name": "1 1 1",
+        "url": "https://open.spotify.com/album/3AROvUBUe1mMAauVt73kRF"
+      },
+      "artists": [
+        {
+          "name": "Milo j",
+          "url": "https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3"
+        },
+        {
+          "name": "Yami Safdie",
+          "url": "https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178105,
+      "name": "CARENCIAS DE CORDURA",
+      "url": "https://open.spotify.com/track/3JZJ7hD74iOAB07Socju0h"
+    },
+    {
+      "album": {
         "name": "Cero Drama",
         "url": "https://open.spotify.com/album/5eEDf3AavlpMFoQrpnkgPV"
       },
@@ -524,6 +564,28 @@
       "duration_ms": 202735,
       "name": "Cold Heart - PNAU Remix",
       "url": "https://open.spotify.com/track/7rglLriMNBPAyuJOMGwi39"
+    },
+    {
+      "album": {
+        "name": "Come Back",
+        "url": "https://open.spotify.com/album/5lNVP2336w7BnIenG1TeXi"
+      },
+      "artists": [
+        {
+          "name": "Malena Narvay",
+          "url": "https://open.spotify.com/artist/6mL3mccPFjmWrHUTC2Cm3i"
+        },
+        {
+          "name": "Lucas Murua",
+          "url": "https://open.spotify.com/artist/5954OWgf6WfFMTHNNLraVJ"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163043,
+      "name": "Come Back",
+      "url": "https://open.spotify.com/track/23SHCMa4ploHHZHqNBK23D"
     },
     {
       "album": {
@@ -1574,7 +1636,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 166632,
       "name": "I'll Be There",
       "url": "https://open.spotify.com/track/0JwXH0xA7o7HUfVfyFh1H6"
@@ -2662,7 +2724,7 @@
       ],
       "date_added": "2023-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 198520,
       "name": "NEW DANCE",
       "url": "https://open.spotify.com/track/6Pjzy9avwlVr4UAbxkQQmh"
@@ -3144,7 +3206,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 232252,
       "name": "Quiero Verte",
       "url": "https://open.spotify.com/track/68hs0QwwcssOzKuqZgonw7"

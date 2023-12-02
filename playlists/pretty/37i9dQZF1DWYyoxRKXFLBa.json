@@ -1,12 +1,12 @@
 {
   "description": "Conoce a puras morras rifadas en La Marketa. \u00a1S\u00fabele al volumen, te esperamos el 6 de Agosto en Jard\u00edn Ju\u00e1rez! En portada: Now Girls Rule",
-  "num_followers": 8525,
+  "num_followers": 8531,
   "original_name": "Ruidosas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMjdiZWM3MTk2NjJiNzEwM2Q3OGY5ZDBhYzU5ZmY2MTMyZDJjOTc5",
+  "snapshot_id": "MCwzODVlNTJlNjRkNjU5ZWY2MGUwOGJmNGMwNDljY2E3MWRkNzdkMTgx",
   "tracks": [
     {
       "added_at": "2023-07-28 20:39:17",
@@ -527,6 +527,22 @@
     {
       "added_at": "2023-07-28 20:39:17",
       "album": {
+        "name": "todo lo que pasa",
+        "url": "https://open.spotify.com/album/3efcjft7NVnRr20mD5JveU"
+      },
+      "artists": [
+        {
+          "name": "babas tutsipop",
+          "url": "https://open.spotify.com/artist/0AkKSLTBRMdJBQU3olOlMv"
+        }
+      ],
+      "duration_ms": 222485,
+      "name": "todo lo que pasa",
+      "url": "https://open.spotify.com/track/0BkhmwWZOCcQEMO3je2lZQ"
+    },
+    {
+      "added_at": "2023-07-28 20:39:17",
+      "album": {
         "name": "Moxie (Music from the Netflix Film)",
         "url": "https://open.spotify.com/album/1u76mMnTzrzjxPYD37mMJq"
       },
@@ -555,22 +571,6 @@
       "duration_ms": 297530,
       "name": "Rester",
       "url": "https://open.spotify.com/track/0vRnV2qupCciz74lZSHSos"
-    },
-    {
-      "added_at": "2023-07-28 20:39:17",
-      "album": {
-        "name": "todo lo que pasa",
-        "url": "https://open.spotify.com/album/3efcjft7NVnRr20mD5JveU"
-      },
-      "artists": [
-        {
-          "name": "babas tutsipop",
-          "url": "https://open.spotify.com/artist/0AkKSLTBRMdJBQU3olOlMv"
-        }
-      ],
-      "duration_ms": 222485,
-      "name": "todo lo que pasa",
-      "url": "https://open.spotify.com/track/0BkhmwWZOCcQEMO3je2lZQ"
     },
     {
       "added_at": "2023-07-28 20:39:17",
@@ -623,22 +623,6 @@
     {
       "added_at": "2023-07-28 20:39:17",
       "album": {
-        "name": "Free Your Mind (Spanish Version)",
-        "url": "https://open.spotify.com/album/0nm8RYsOK1mCjJPn3yGH2i"
-      },
-      "artists": [
-        {
-          "name": "ATARASHII GAKKO!",
-          "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
-        }
-      ],
-      "duration_ms": 177450,
-      "name": "Free Your Mind - Spanish Version",
-      "url": "https://open.spotify.com/track/1cBFq8ArDimc2lnz7bI2Va"
-    },
-    {
-      "added_at": "2023-07-28 20:39:17",
-      "album": {
         "name": "Break!",
         "url": "https://open.spotify.com/album/3E6nSXNMIVy4wofjSstjka"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 173133,
       "name": "Break!",
       "url": "https://open.spotify.com/track/2PxLq9EhlNZyw08kZiqbq9"
+    },
+    {
+      "added_at": "2023-07-28 20:39:17",
+      "album": {
+        "name": "Free Your Mind (Spanish Version)",
+        "url": "https://open.spotify.com/album/0nm8RYsOK1mCjJPn3yGH2i"
+      },
+      "artists": [
+        {
+          "name": "ATARASHII GAKKO!",
+          "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
+        }
+      ],
+      "duration_ms": 177450,
+      "name": "Free Your Mind - Spanish Version",
+      "url": "https://open.spotify.com/track/1cBFq8ArDimc2lnz7bI2Va"
     },
     {
       "added_at": "2023-07-28 20:39:17",
@@ -739,6 +739,22 @@
     {
       "added_at": "2023-07-28 20:39:17",
       "album": {
+        "name": "DESTRUYA!",
+        "url": "https://open.spotify.com/album/1NXvepDJRwZ2zJNqMZNxdy"
+      },
+      "artists": [
+        {
+          "name": "Buenos Vampiros",
+          "url": "https://open.spotify.com/artist/3zJriU41e7xy7PVHIhflBo"
+        }
+      ],
+      "duration_ms": 142643,
+      "name": "Desmotivada",
+      "url": "https://open.spotify.com/track/5XXP7McoRRdfmplsrKGeBv"
+    },
+    {
+      "added_at": "2023-07-28 20:39:17",
+      "album": {
         "name": "Ghost In The Machine",
         "url": "https://open.spotify.com/album/3Yc31Lta4Yr3Sn0UlsdSPi"
       },
@@ -767,22 +783,6 @@
       "duration_ms": 194148,
       "name": "M\u00e1scara de Ni\u00f1a",
       "url": "https://open.spotify.com/track/14RubZ8E6S34PohWgJq21G"
-    },
-    {
-      "added_at": "2023-07-28 20:39:17",
-      "album": {
-        "name": "DESTRUYA!",
-        "url": "https://open.spotify.com/album/1NXvepDJRwZ2zJNqMZNxdy"
-      },
-      "artists": [
-        {
-          "name": "Buenos Vampiros",
-          "url": "https://open.spotify.com/artist/3zJriU41e7xy7PVHIhflBo"
-        }
-      ],
-      "duration_ms": 142643,
-      "name": "Desmotivada",
-      "url": "https://open.spotify.com/track/5XXP7McoRRdfmplsrKGeBv"
     },
     {
       "added_at": "2023-07-28 20:39:17",
@@ -883,22 +883,6 @@
     {
       "added_at": "2023-07-28 20:39:17",
       "album": {
-        "name": "xADR3N4LIN4x",
-        "url": "https://open.spotify.com/album/6nXUebcx7kYg6hnGlr8Wg0"
-      },
-      "artists": [
-        {
-          "name": "xHEIDIx",
-          "url": "https://open.spotify.com/artist/5cZ3ADw8t6lZQSyBXmFe4j"
-        }
-      ],
-      "duration_ms": 120773,
-      "name": "SUPERFICIAL",
-      "url": "https://open.spotify.com/track/3dHJrJdkNVVpYa4oOwIsX8"
-    },
-    {
-      "added_at": "2023-07-28 20:39:17",
-      "album": {
         "name": "CLAR%SCURO",
         "url": "https://open.spotify.com/album/27oMHySev9yNNTbME6hAJL"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 226960,
       "name": "Tu Color",
       "url": "https://open.spotify.com/track/5F5iYSIvNIZTfr2xInIz99"
+    },
+    {
+      "added_at": "2023-07-28 20:39:17",
+      "album": {
+        "name": "xADR3N4LIN4x",
+        "url": "https://open.spotify.com/album/6nXUebcx7kYg6hnGlr8Wg0"
+      },
+      "artists": [
+        {
+          "name": "xHEIDIx",
+          "url": "https://open.spotify.com/artist/5cZ3ADw8t6lZQSyBXmFe4j"
+        }
+      ],
+      "duration_ms": 120773,
+      "name": "SUPERFICIAL",
+      "url": "https://open.spotify.com/track/3dHJrJdkNVVpYa4oOwIsX8"
     },
     {
       "added_at": "2023-07-28 20:39:17",
@@ -963,22 +963,6 @@
     {
       "added_at": "2023-07-28 20:39:17",
       "album": {
-        "name": "San Juan",
-        "url": "https://open.spotify.com/album/0yTWbDuC3kIwhLwd4SlKnl"
-      },
-      "artists": [
-        {
-          "name": "Tigre Ulli",
-          "url": "https://open.spotify.com/artist/5BCAv8GCW0wT3cTY11dl5v"
-        }
-      ],
-      "duration_ms": 225587,
-      "name": "San Juan",
-      "url": "https://open.spotify.com/track/6DEYeMOEYnd0G5cKMrubRd"
-    },
-    {
-      "added_at": "2023-07-28 20:39:17",
-      "album": {
         "name": "Kill V. Maim",
         "url": "https://open.spotify.com/album/2VKbyz0lCi3tw7DBGAY5g6"
       },
@@ -995,18 +979,18 @@
     {
       "added_at": "2023-07-28 20:39:17",
       "album": {
-        "name": "Ikite Iru",
-        "url": "https://open.spotify.com/album/26U7D0QxDGkKhtw2sBCVRF"
+        "name": "San Juan",
+        "url": "https://open.spotify.com/album/0yTWbDuC3kIwhLwd4SlKnl"
       },
       "artists": [
         {
-          "name": "Neptuna",
-          "url": "https://open.spotify.com/artist/6zucgTdBIrQ7ULFhw7MG1G"
+          "name": "Tigre Ulli",
+          "url": "https://open.spotify.com/artist/5BCAv8GCW0wT3cTY11dl5v"
         }
       ],
-      "duration_ms": 200347,
-      "name": "Ikite Iru",
-      "url": "https://open.spotify.com/track/5mJzC72lhxY3Bh9mlOfd5S"
+      "duration_ms": 225587,
+      "name": "San Juan",
+      "url": "https://open.spotify.com/track/6DEYeMOEYnd0G5cKMrubRd"
     },
     {
       "added_at": "2023-07-28 20:39:17",
@@ -1059,18 +1043,18 @@
     {
       "added_at": "2023-07-28 20:39:17",
       "album": {
-        "name": "Art Collective",
-        "url": "https://open.spotify.com/album/41jKiqVGALvP1u9L8VDGdu"
+        "name": "Ikite Iru",
+        "url": "https://open.spotify.com/album/26U7D0QxDGkKhtw2sBCVRF"
       },
       "artists": [
         {
-          "name": "Rosk",
-          "url": "https://open.spotify.com/artist/6CQuPJVQKWgFVbp0EwjyxN"
+          "name": "Neptuna",
+          "url": "https://open.spotify.com/artist/6zucgTdBIrQ7ULFhw7MG1G"
         }
       ],
-      "duration_ms": 172923,
-      "name": "Art Collective",
-      "url": "https://open.spotify.com/track/5j5WM5gbUoSMY1gOIytv2T"
+      "duration_ms": 200347,
+      "name": "Ikite Iru",
+      "url": "https://open.spotify.com/track/5mJzC72lhxY3Bh9mlOfd5S"
     },
     {
       "added_at": "2023-07-28 20:39:17",
@@ -1087,6 +1071,22 @@
       "duration_ms": 237142,
       "name": "Hola Lola",
       "url": "https://open.spotify.com/track/5IfspIqcWREksXTijVm3M9"
+    },
+    {
+      "added_at": "2023-07-28 20:39:17",
+      "album": {
+        "name": "Art Collective",
+        "url": "https://open.spotify.com/album/41jKiqVGALvP1u9L8VDGdu"
+      },
+      "artists": [
+        {
+          "name": "Rosk",
+          "url": "https://open.spotify.com/artist/6CQuPJVQKWgFVbp0EwjyxN"
+        }
+      ],
+      "duration_ms": 172923,
+      "name": "Art Collective",
+      "url": "https://open.spotify.com/track/5j5WM5gbUoSMY1gOIytv2T"
     },
     {
       "added_at": "2023-07-28 20:39:17",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2023-07-28 20:39:17",
       "album": {
-        "name": "Corrida al Arco",
-        "url": "https://open.spotify.com/album/6o0XLbTOCvzBz7rH0kYZUk"
-      },
-      "artists": [
-        {
-          "name": "Nina Su\u00e1rez",
-          "url": "https://open.spotify.com/artist/1NQmLvlEcg6hE8CQ0r31GV"
-        }
-      ],
-      "duration_ms": 253456,
-      "name": "Corrida al Arco",
-      "url": "https://open.spotify.com/track/5QTBQvrTCudXdatBV3ycRF"
-    },
-    {
-      "added_at": "2023-07-28 20:39:17",
-      "album": {
         "name": "Contradicktion",
         "url": "https://open.spotify.com/album/7H75c5aOTznuxDg2fEt7wt"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 125250,
       "name": "Contradicktion",
       "url": "https://open.spotify.com/track/4ZRT63eSHEA1NmeyNzTliU"
+    },
+    {
+      "added_at": "2023-07-28 20:39:17",
+      "album": {
+        "name": "Corrida al Arco",
+        "url": "https://open.spotify.com/album/6o0XLbTOCvzBz7rH0kYZUk"
+      },
+      "artists": [
+        {
+          "name": "Nina Su\u00e1rez",
+          "url": "https://open.spotify.com/artist/1NQmLvlEcg6hE8CQ0r31GV"
+        }
+      ],
+      "duration_ms": 253456,
+      "name": "Corrida al Arco",
+      "url": "https://open.spotify.com/track/5QTBQvrTCudXdatBV3ycRF"
     },
     {
       "added_at": "2023-07-28 20:39:17",

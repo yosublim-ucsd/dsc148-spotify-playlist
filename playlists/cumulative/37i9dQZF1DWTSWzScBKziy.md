@@ -4,7 +4,7 @@
 
 > Find what's fresh & buzzing in Christian & Gospel music right here!  Cover:  K\-Anthony
 
-213 songs - 13 hr 56 min
+214 songs - 14 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -168,7 +168,7 @@
 | [Pursuit \(As The Deer\) \- Live](https://open.spotify.com/track/64uiNB4EjCTBD9PzYEhuUa) | [Citipointe Worship](https://open.spotify.com/artist/4QU2KMv8a76IHXUYruc3r2), [Chardon Lewis](https://open.spotify.com/artist/45LYhTlK3RpgFCIvO8fMcx) | [Pursuit \(As The Deer\) \[Live\]](https://open.spotify.com/album/3zhZEfigz0EQOISW37bx2F) | 6:14 | 2022-10-29 | 2023-10-09 |
 | [Rest In You](https://open.spotify.com/track/7jtl5N8T1YFvVXkbNypLDL) | [Point Of Grace](https://open.spotify.com/artist/5y1gFSVnE4DGxUxHeKrGk6) | [Beautiful Name](https://open.spotify.com/album/0Hv5gNQ7XVnYjJDaHlqkYI) | 3:48 | 2022-05-27 | 2022-10-30 |
 | [Rest On Us \- Single Version](https://open.spotify.com/track/0XLwjUJ1XEiQQ0nx7LVMZr) | [Elle Limebear](https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD) | [Rest On Us](https://open.spotify.com/album/5oijhJhsrP8CewlpbOpgiX) | 3:44 | 2022-10-29 |  |
-| [Revival](https://open.spotify.com/track/5UC1B9KaUWKFUYNFrklGxQ) | [Daniel Doss](https://open.spotify.com/artist/5KUNK8C0taPJnUD0xvPQaC) | [Revival](https://open.spotify.com/album/350DvgUbR83wdpqAIEAUeU) | 3:29 | 2022-05-27 |  |
+| [Revival](https://open.spotify.com/track/5UC1B9KaUWKFUYNFrklGxQ) | [Daniel Doss](https://open.spotify.com/artist/5KUNK8C0taPJnUD0xvPQaC) | [Revival](https://open.spotify.com/album/350DvgUbR83wdpqAIEAUeU) | 3:29 | 2022-05-27 | 2023-12-02 |
 | [Roar](https://open.spotify.com/track/6DHIjsUc8GcoouCCb0DWd0) | [Jonathan Cain](https://open.spotify.com/artist/6APhaZEvvKh99J2c3TVM3i) | [Arise](https://open.spotify.com/album/0x1dt3vWR5dfxcVj4SSfnk) | 3:54 | 2022-05-27 | 2022-10-30 |
 | [Run](https://open.spotify.com/track/3i6mOPwTpqgKm8VSkEoSoz) | [Apollo LTD](https://open.spotify.com/artist/2H3EMYFS69dhMmrX9JTkZp) | [Run](https://open.spotify.com/album/4gW7svxzPe5pOMRNwnqrWJ) | 2:59 | 2022-10-29 |  |
 | [S.O.S.](https://open.spotify.com/track/5sokFOC8fmkSuUTb7rbOYX) | [Rachael Nemiroff](https://open.spotify.com/artist/4w2fF5b9OiQBhh6Z34rL8t) | [S.O.S.](https://open.spotify.com/album/67ckMFbzbW9Xi9corJwScp) | 3:25 | 2022-10-29 | 2023-04-02 |
@@ -197,6 +197,7 @@
 | [The Healing](https://open.spotify.com/track/2At0XB6Jq68CBQLKvdRP6m) | [Blanca](https://open.spotify.com/artist/0GMSpOzEVXA4kboHiyvddO), [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz) | [The Healing](https://open.spotify.com/album/2rp4zkcLtJfaet6Yhc6YpZ) | 3:49 | 2022-05-27 |  |
 | [The Lion Still Roars](https://open.spotify.com/track/5zT6mPJHo9juu0gG5NKLrb) | [Shelly E\. Johnson](https://open.spotify.com/artist/51ivlzD9Vuy7pi21E3FF67) | [The Lion Still Roars](https://open.spotify.com/album/1DkUR3quzk0JN8tI9QlbDe) | 4:39 | 2022-05-27 | 2022-10-30 |
 | [The Lord's Prayer \(It's Yours\)](https://open.spotify.com/track/4x2z65CsWpM2Kuxt2RQ8rj) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [The Lord's Prayer \(It's Yours\)](https://open.spotify.com/album/2p61gKnDqDezHXQZC92oU5) | 3:23 | 2022-10-29 |  |
+| [The Word Is Working \(Refreshed\)](https://open.spotify.com/track/2ZdIyaCMPY5fTX3GL3DYe7) | [Ada Ehi](https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt) | [The Word Is Working \(Refreshed\)](https://open.spotify.com/album/3TyFoR8keShYsZIn60RZ8d) | 6:47 | 2022-10-29 |  |
 | [This House](https://open.spotify.com/track/5LehMttoY2seun4m7ezMNm) | [Evvie McKinney](https://open.spotify.com/artist/7G7JWOsGhDMily2HtfzcIZ) | [This House](https://open.spotify.com/album/4VZQEB5rYcIoXFySWRXjoN) | 4:23 | 2022-10-29 | 2023-04-09 |
 | [This I Know \(Jesus Loves Me\)](https://open.spotify.com/track/1dd52Rf0sGaWMLlDqDLZ2L) | [Lydia Laird](https://open.spotify.com/artist/6zuKZ8dwAsS828nS4xyZ9y) | [This I Know \(Jesus Loves Me\)](https://open.spotify.com/album/6fKtKDOTrHJoDgnDOwVXrP) | 3:42 | 2022-10-29 |  |
 | [This I Know \(Jesus Loves Me\)](https://open.spotify.com/track/71gmThHplhegRGnswUTD2O) | [Lydia Laird](https://open.spotify.com/artist/6zuKZ8dwAsS828nS4xyZ9y) | [This I Know \(Jesus Loves Me\)](https://open.spotify.com/album/7cYdBWyaoE8UCUW3cHlZhU) | 3:42 | 2022-10-29 | 2023-02-25 |

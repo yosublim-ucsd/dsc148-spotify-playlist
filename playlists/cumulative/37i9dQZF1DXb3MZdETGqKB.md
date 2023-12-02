@@ -4,7 +4,7 @@
 
 > All new, all blues\. Cover: Shanice Green
 
-252 songs - 14 hr 42 min
+253 songs - 14 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -190,7 +190,7 @@
 | [Something With Feel](https://open.spotify.com/track/2BUhdEhT7D11OSPw38IxDG) | [Josh Teskey](https://open.spotify.com/artist/4BGagHmgh8YwhvCuUQinnd), [Ash Grunwald](https://open.spotify.com/artist/04HjibunL2jGRLEqVEMfZY) | [Something With Feel](https://open.spotify.com/album/5iuYE1T3bzro4dvnA3Z5ln) | 3:07 | 2021-02-05 | 2022-03-26 |
 | [SOUL SURVIVOR](https://open.spotify.com/track/0kQTQQzTCf958lQCmPTraa) | [C.S\. Armstrong](https://open.spotify.com/artist/6MxR3Hjf2uTSew9wmKbOwO) | [THE SOUTHWESTERN BENEDICTION](https://open.spotify.com/album/47wufSb4ym1n1EhsJvYAOX) | 3:01 | 2023-06-23 | 2023-08-19 |
 | [SOUL SURVIVOR](https://open.spotify.com/track/73MKab27Y3FEniBWoBIyiT) | [C.S\. Armstrong](https://open.spotify.com/artist/6MxR3Hjf2uTSew9wmKbOwO), [Buddy](https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ) | [COME AS YOU ARE](https://open.spotify.com/album/4P5fBzAOk6fcsyzUHs8ce2) | 3:35 | 2023-08-18 |  |
-| [Spin Me Round](https://open.spotify.com/track/0iEo9wkzqOfVfVkezh8obQ) | [Augie Bello](https://open.spotify.com/artist/2z3k87BRV59rw56PwnOQsg), [Casey Abrams](https://open.spotify.com/artist/1UxNUybRFdtksz3l5HtCEG) | [Spin Me Round](https://open.spotify.com/album/4VegcvNuAqwaoVLpugOT2e) | 3:00 | 2022-02-25 |  |
+| [Spin Me Round](https://open.spotify.com/track/0iEo9wkzqOfVfVkezh8obQ) | [Augie Bello](https://open.spotify.com/artist/2z3k87BRV59rw56PwnOQsg), [Casey Abrams](https://open.spotify.com/artist/1UxNUybRFdtksz3l5HtCEG) | [Spin Me Round](https://open.spotify.com/album/4VegcvNuAqwaoVLpugOT2e) | 3:00 | 2022-02-25 | 2023-12-02 |
 | [State of Mind](https://open.spotify.com/track/2Y6FugxQpIz6Nj88w4Bfd5) | [Laura Evans](https://open.spotify.com/artist/5Da0bmelsF7cVnNaHoHHpS) | [State of Mind](https://open.spotify.com/album/5VbKTiwTdqTSRsHGlY8lyO) | 3:19 | 2022-07-01 |  |
 | [Stay away from me](https://open.spotify.com/track/16JoACcI9bpk65WeZdJaU9) | [Puff Kennedy](https://open.spotify.com/artist/6xmuIAos2H2ElKQl0ipsdw) | [Stay away from me](https://open.spotify.com/album/1RfLFbc81I36sfI4KI0fy2) | 2:42 | 2022-04-08 | 2023-10-08 |
 | [Stay away from me](https://open.spotify.com/track/77iBCaVqdOSmXtHk5OcwUg) | [Puff Kennedy](https://open.spotify.com/artist/6xmuIAos2H2ElKQl0ipsdw) | [Stay away from me](https://open.spotify.com/album/443tvXMsfPqlt82b5VmyzT) | 2:42 | 2022-04-08 | 2023-08-21 |
@@ -199,6 +199,7 @@
 | [Storms from My Eyes](https://open.spotify.com/track/5ZWk8lQd6PHrJUCEQJkFGj) | [Angelique Francis](https://open.spotify.com/artist/3AoZtg3XjzbONsDfAXCene) | [Long River](https://open.spotify.com/album/5i3kWvr8Yj4iETRXlrQNVN) | 4:54 | 2022-03-11 |  |
 | [Strike Gold](https://open.spotify.com/track/3g3vayoe4Y10leAHdrvTnM) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Strike Gold](https://open.spotify.com/album/5M6sqKBlKeBTACwzWexteZ) | 3:20 | 2022-10-07 | 2022-11-14 |
 | [Strike Gold](https://open.spotify.com/track/4vuqP2NPI5QaxvBJll1kCO) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Blood Harmony](https://open.spotify.com/album/0Xf5P65OiLJlSF9h6DmZqe) | 3:20 | 2022-10-07 |  |
+| [Sugar Man](https://open.spotify.com/track/0fxPI5BMCQYo0nPV7ysef4) | [Cobi](https://open.spotify.com/artist/4fuZypKGg7klMEF10KTuAN) | [Sugar Man](https://open.spotify.com/album/2EzBNH4CaSRJRL8fUjovip) | 3:29 | 2023-12-01 |  |
 | [Sundress Season](https://open.spotify.com/track/2UCJ0tbxu54jEgU48YmAff) | [Davis Chris](https://open.spotify.com/artist/22pJFdsUssxfZ6RB6NPztj), [Mr Foster](https://open.spotify.com/artist/3A0mmSV3bOnB4vCgtFVntm) | [Sundress Season](https://open.spotify.com/album/1mNHEGbZUdWu89QMma3bym) | 2:38 | 2023-05-05 |  |
 | [Sunlight Lover \(Moonshine Lover\)](https://open.spotify.com/track/55xFE3JPlWpKoqRGg9j4L0) | [Soldier Story](https://open.spotify.com/artist/6xUcGgLH1IwXKSoYe2EMr0) | [Sunlight Lover \(Moonshine Lover\)](https://open.spotify.com/album/20qgm11dR7wDnfauXFeuMx) | 2:13 | 2022-09-02 |  |
 | [Sunshine Blue](https://open.spotify.com/track/0BkwABV25tQHoh5s2C8rAw) | [Freedust](https://open.spotify.com/artist/5ToWfy4enD67CmqGlb7TZ5), [Bardo](https://open.spotify.com/artist/3oLUvU7PEhrBC6cieTRbYv) | [Sunshine Blue](https://open.spotify.com/album/3hGa85ef9Eo14ihzTHLEOC) | 2:40 | 2022-04-08 |  |

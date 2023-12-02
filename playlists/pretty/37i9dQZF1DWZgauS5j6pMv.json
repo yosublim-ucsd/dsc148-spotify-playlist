@@ -1,13 +1,53 @@
 {
   "description": "The best of today's funk. Cover: Kossisko",
-  "num_followers": 314185,
+  "num_followers": 314223,
   "original_name": "Nu-Funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhYTViN2YxN2YzYmQ3ZTc4MzVmNDJjYzhlMGVjNDI5NjU2ZjFjNTM5",
+  "snapshot_id": "MCwzM2FiMGE3YjdmNzcyNWNhZWZjZjQxZDhhMDFmNzc5ODBiYzU1MGJh",
   "tracks": [
+    {
+      "added_at": "2023-12-01 05:01:00",
+      "album": {
+        "name": "Freaky Toe (CC Mix feat. Derrick Taylor)",
+        "url": "https://open.spotify.com/album/3aoz9kCyQCn5wFTha0KbFb"
+      },
+      "artists": [
+        {
+          "name": "Smudge All Stars",
+          "url": "https://open.spotify.com/artist/5MFlcmLtTY9qSoLsrUmbwU"
+        },
+        {
+          "name": "Culture Club",
+          "url": "https://open.spotify.com/artist/6kz53iCdBSqhQCZ21CoLcc"
+        },
+        {
+          "name": "Richie Stevens",
+          "url": "https://open.spotify.com/artist/0EZnKWoAW1x51x8STsHhsl"
+        },
+        {
+          "name": "Mary Pearce",
+          "url": "https://open.spotify.com/artist/0bxWOv7vpuQ6ndnEzFPkhg"
+        },
+        {
+          "name": "Charlotte Kelly",
+          "url": "https://open.spotify.com/artist/2rKAvmLXx1LNSMz5WL38T4"
+        },
+        {
+          "name": "Trey Lewd",
+          "url": "https://open.spotify.com/artist/6T1ZLCrTSmLviH2wME84tD"
+        },
+        {
+          "name": "Derrick Taylor",
+          "url": "https://open.spotify.com/artist/0hY3bXijW2TBkCLNY2OJem"
+        }
+      ],
+      "duration_ms": 265806,
+      "name": "Freaky Toe (CC Mix feat. Derrick Taylor)",
+      "url": "https://open.spotify.com/track/1K65rsHQO17mdadr1l3ShZ"
+    },
     {
       "added_at": "2023-10-27 04:01:00",
       "album": {
@@ -31,6 +71,22 @@
       "duration_ms": 166133,
       "name": "Wherever I Go (feat. Lawrence & Michael McDonald)",
       "url": "https://open.spotify.com/track/77PlrIDSmmWwCj7vgNQiR4"
+    },
+    {
+      "added_at": "2023-12-01 05:01:00",
+      "album": {
+        "name": "Coronation",
+        "url": "https://open.spotify.com/album/5OymrKAPQ2iDQ0Oyt8rwKo"
+      },
+      "artists": [
+        {
+          "name": "Garth.",
+          "url": "https://open.spotify.com/artist/7aEP0AzwgG0Bs0Bw7I2sqI"
+        }
+      ],
+      "duration_ms": 205366,
+      "name": "Warning Sign",
+      "url": "https://open.spotify.com/track/4c0s18ptbeNyaDiepcLe6N"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -1915,26 +1971,6 @@
       "duration_ms": 196173,
       "name": "Nothing But Love",
       "url": "https://open.spotify.com/track/2QkKo7MwMQESbx2Fzcgf9t"
-    },
-    {
-      "added_at": "2022-06-17 04:02:00",
-      "album": {
-        "name": "Say Your Name",
-        "url": "https://open.spotify.com/album/5SzR4ahdi6DTBn3vevmw0j"
-      },
-      "artists": [
-        {
-          "name": "Osquello",
-          "url": "https://open.spotify.com/artist/6ScAPpYnDsH3Cu3TKmhUJr"
-        },
-        {
-          "name": "Akin Soul",
-          "url": "https://open.spotify.com/artist/2tU7aVBZIXzsKTPhm56266"
-        }
-      ],
-      "duration_ms": 215764,
-      "name": "Say Your Name",
-      "url": "https://open.spotify.com/track/46H4hZk0WHNC4fmVJaLfr6"
     },
     {
       "added_at": "2022-05-20 04:01:00",

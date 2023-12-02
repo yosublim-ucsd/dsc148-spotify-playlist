@@ -4,7 +4,7 @@
 
 > Uplifting, slow House music to work or relax to.
 
-341 songs - 17 hr 4 min
+342 songs - 17 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -244,7 +244,7 @@
 | [Sexy Sundays](https://open.spotify.com/track/6beX5xxj4FKaYexUBPsJxF) | [PRFCT BLU3](https://open.spotify.com/artist/4noR7KqhMB2raZYyC0FHen) | [Sexy Sundays](https://open.spotify.com/album/1SDB6TMf2NCDCvw34ml2fa) | 2:45 | 2023-05-22 |  |
 | [Shades of Purple](https://open.spotify.com/track/6HhgIkDQuAnBDIhBzF8qkj) | [Johannes Jungleson](https://open.spotify.com/artist/7ofvDzzumewLcN4apfxAxS), [Mia Mare](https://open.spotify.com/artist/1ipQqTFEzS2eS1ZFvgen8r) | [Sunrise to Sunset](https://open.spotify.com/album/7HFihb6S7u5tKSjoL92Tfp) | 2:49 | 2022-02-11 | 2022-09-09 |
 | [Shingo](https://open.spotify.com/track/3YegC72pbwviu6fy5zbPh3) | [The Graph](https://open.spotify.com/artist/4bwrakWnAq3spXK7FvNqwY) | [Shingo](https://open.spotify.com/album/7klo4BZCjEJT0158jeEamD) | 2:46 | 2021-10-12 | 2022-02-12 |
-| [Shiroi nami](https://open.spotify.com/track/2y140IkPF2JtztdvZvYs1F) | [Himari Aoki](https://open.spotify.com/artist/5wymut0det0V9Vf6l8t0mD) | [Shiroi nami](https://open.spotify.com/album/1VuMer80QiwepIgUqf8HPk) | 3:02 | 2022-02-11 |  |
+| [Shiroi nami](https://open.spotify.com/track/2y140IkPF2JtztdvZvYs1F) | [Himari Aoki](https://open.spotify.com/artist/5wymut0det0V9Vf6l8t0mD) | [Shiroi nami](https://open.spotify.com/album/1VuMer80QiwepIgUqf8HPk) | 3:02 | 2022-02-11 | 2023-12-02 |
 | [siesta session](https://open.spotify.com/track/3bG8hQQ9BwBgp8GkADPNJH) | [incovent](https://open.spotify.com/artist/7hxdstSD0iqnJwgwERrdDd) | [siesta session](https://open.spotify.com/album/7yuhXY4W2AFov0rqKqIGk7) | 3:04 | 2022-11-25 |  |
 | [Sleep Online](https://open.spotify.com/track/4njORatgD4DQOZsgio3Wiq) | [Barbatula](https://open.spotify.com/artist/7hn07YGWIDqLjXljHGI6t9) | [Sungaze](https://open.spotify.com/album/1qHZRhAkC4JTXgYVi8LUXT) | 4:06 | 2022-02-11 |  |
 | [sleep palace](https://open.spotify.com/track/4bDnBDaDdc9k3Hr1TNc7zP) | [Ramen Police](https://open.spotify.com/artist/0knrIAATZf0t428Hx8qmS9) | [sleep palace](https://open.spotify.com/album/1vXsP7xiL2Je9NuPFkn9Wa) | 3:06 | 2021-10-12 | 2022-02-12 |
@@ -270,6 +270,7 @@
 | [Summer Haze](https://open.spotify.com/track/1Rpb9M4NAROfBsuw0QAkUR) | [Innocent Panda](https://open.spotify.com/artist/4YxGTSc5GifPVUD3ILmbsv) | [Summer Haze](https://open.spotify.com/album/6QY9bO1j7bH2cI0BtMA4yV) | 3:28 | 2022-06-17 | 2023-07-15 |
 | [Summer Youth](https://open.spotify.com/track/2nj2H3Eq1BhxBkJIomPlIZ) | [Deeter K](https://open.spotify.com/artist/2NbPC2YJm6tBoFU3BJyXEo) | [Summer Youth](https://open.spotify.com/album/4HpLAXUjv7qQiDkYRb0LFH) | 2:37 | 2023-06-23 |  |
 | [Summerbreeze](https://open.spotify.com/track/1KXFkPjqBiOJzm8lk2Zrjz) | [Mative](https://open.spotify.com/artist/2HqeAlknsWkZNva1RsII8U) | [Summerbreeze](https://open.spotify.com/album/6zgDETRt2rzi2tOQwQZ6jV) | 1:50 | 2022-02-11 | 2023-07-29 |
+| [Summertide](https://open.spotify.com/track/0PvtqPA5hhMktJGxZzCWJD) | [Edward The Eagle](https://open.spotify.com/artist/2Un95yxT6GCP6qwydEfQ4d) | [Summertide](https://open.spotify.com/album/7vwqJPB3GrViym4oP1EEUm) | 2:30 | 2023-12-01 |  |
 | [Sun Meets Moon](https://open.spotify.com/track/3gEAPIikCAa8ch4IT1mmwe) | [Oscar Hollis](https://open.spotify.com/artist/15ZZypdx99YQ2lPB7o5wka) | [Sun Meets Moon](https://open.spotify.com/album/0CLlGhAKoLPlaHGkY6ttrv) | 2:38 | 2021-10-26 | 2022-02-12 |
 | [sunday afternoon tea](https://open.spotify.com/track/6dFt13csMtXDuLqjZdEqk7) | [moves like silk](https://open.spotify.com/artist/736t4hEChUnLa5ww5kpRWB) | [sunday afternoon tea](https://open.spotify.com/album/5F3u2s9zK0InbrDTAEmeIX) | 2:20 | 2021-10-12 | 2022-02-12 |
 | [Sundown](https://open.spotify.com/track/405vGJtY0S8ejGpCvVCM8v) | [Gaspar LeMarc](https://open.spotify.com/artist/0nkYC9uUfQuNB7xQ7N0e0j) | [Sundown](https://open.spotify.com/album/4bK89ukxMYliOwZj4IB5Y9) | 3:49 | 2022-10-28 |  |

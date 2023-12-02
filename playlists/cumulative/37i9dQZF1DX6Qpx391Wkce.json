@@ -342,7 +342,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 432584,
       "name": "Boundaries",
       "url": "https://open.spotify.com/track/0EIPOXPT93Yq8NclvoZD0N"
@@ -389,6 +389,28 @@
     },
     {
       "album": {
+        "name": "By Myself",
+        "url": "https://open.spotify.com/album/5yFzlgi72bbRvZdcVd0qi1"
+      },
+      "artists": [
+        {
+          "name": "Shlomi Aber",
+          "url": "https://open.spotify.com/artist/3A8XSMPreJlCBlpSZVHU5J"
+        },
+        {
+          "name": "Kashpitzky",
+          "url": "https://open.spotify.com/artist/1Emez61BnxzKMb3ygXnN9E"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 341025,
+      "name": "By Myself",
+      "url": "https://open.spotify.com/track/005b2t5FQmOIMixp3WBj63"
+    },
+    {
+      "album": {
         "name": "Choose Happiness",
         "url": "https://open.spotify.com/album/6lS7bn5C1jGy97CWW1SrqB"
       },
@@ -400,7 +422,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 200597,
       "name": "Choose Happiness",
       "url": "https://open.spotify.com/track/4cfP3sLcZHUkQxuF6l4lkU"
@@ -520,7 +542,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 422450,
       "name": "Colours",
       "url": "https://open.spotify.com/track/2rPORah5HuBMmSklwbFMoi"
@@ -755,6 +777,24 @@
     },
     {
       "album": {
+        "name": "Embodied",
+        "url": "https://open.spotify.com/album/3YZWZ2ddtjq4e5LZeBH55G"
+      },
+      "artists": [
+        {
+          "name": "Pleasurekraft",
+          "url": "https://open.spotify.com/artist/4ipS3ZbqP46bs124yqp9N4"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 400500,
+      "name": "Embodied",
+      "url": "https://open.spotify.com/track/7fHzuPcwP0U25WlqpLLgl1"
+    },
+    {
+      "album": {
         "name": "Everything Collapses",
         "url": "https://open.spotify.com/album/564l8RYKO06QPnjdfYplq0"
       },
@@ -969,6 +1009,32 @@
     },
     {
       "album": {
+        "name": "Hand In Hand (Reb\u016bke Remix)",
+        "url": "https://open.spotify.com/album/5wIL4TEUoXGtAaKWektbnc"
+      },
+      "artists": [
+        {
+          "name": "Tiga",
+          "url": "https://open.spotify.com/artist/5l9wiTZVfqQTfMDOt0HtwC"
+        },
+        {
+          "name": "K\u00f6lsch",
+          "url": "https://open.spotify.com/artist/2D9Oe8R9UhbMvFAsMJpXj0"
+        },
+        {
+          "name": "Reb\u016bke",
+          "url": "https://open.spotify.com/artist/113reBz1jA6rVxbXl55mlj"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165347,
+      "name": "Hand In Hand - Reb\u016bke Remix",
+      "url": "https://open.spotify.com/track/4z5TeX7iJyiBU0J0CbzToz"
+    },
+    {
+      "album": {
         "name": "In Memoro",
         "url": "https://open.spotify.com/album/4JCLZDz9EdRh48aRjDSNLm"
       },
@@ -1053,6 +1119,28 @@
     },
     {
       "album": {
+        "name": "Horsepower (Christian Smith Tronic Treatment Remix)",
+        "url": "https://open.spotify.com/album/5x9vrd3bJ9wvfu3N0Q0E56"
+      },
+      "artists": [
+        {
+          "name": "CJ Bolland",
+          "url": "https://open.spotify.com/artist/51OKtNtm24ALAjAHBMiFng"
+        },
+        {
+          "name": "Christian Smith",
+          "url": "https://open.spotify.com/artist/0Z2EpubIhxnq4B6PV0I8n3"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 351940,
+      "name": "Horsepower - Christian Smith Tronic Treatment Remix",
+      "url": "https://open.spotify.com/track/1r7ptP86QRPb37DUOPpCbb"
+    },
+    {
+      "album": {
         "name": "Human Robot",
         "url": "https://open.spotify.com/album/34PZAeNnEDiUH3OUw5hf6a"
       },
@@ -1072,6 +1160,24 @@
       "duration_ms": 416818,
       "name": "Human Robot",
       "url": "https://open.spotify.com/track/25VtvV3hr1j4VUr4KnTrQS"
+    },
+    {
+      "album": {
+        "name": "Hypnosis",
+        "url": "https://open.spotify.com/album/2ETc4E7o1CJVsojWiErK7s"
+      },
+      "artists": [
+        {
+          "name": "Drunken Kong",
+          "url": "https://open.spotify.com/artist/2c8K7cdY2IU2jBacPOxYqk"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 337851,
+      "name": "Hypnosis",
+      "url": "https://open.spotify.com/track/7HzhldCbuhio7KE746L66l"
     },
     {
       "album": {
@@ -1170,6 +1276,24 @@
       "duration_ms": 224944,
       "name": "Inertia",
       "url": "https://open.spotify.com/track/74utOOe35IIADzUxx6JuuD"
+    },
+    {
+      "album": {
+        "name": "Insomnia",
+        "url": "https://open.spotify.com/album/21l8PikLKnjDBvEtbtg9hm"
+      },
+      "artists": [
+        {
+          "name": "Nicolas Taboada",
+          "url": "https://open.spotify.com/artist/6dcbo1dJld5wdwLeno5MBE"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239989,
+      "name": "Insomnia",
+      "url": "https://open.spotify.com/track/54CN08RqyML43UbOHuGp1M"
     },
     {
       "album": {
@@ -1560,7 +1684,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 306501,
       "name": "Morgana - 2023 Edit",
       "url": "https://open.spotify.com/track/2IOaOQTxrtJf0clbcjXNua"
@@ -1622,7 +1746,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 481907,
       "name": "My Cosmos Is Mine - ANNA Remix",
       "url": "https://open.spotify.com/track/3K86NkImdmjzBYZamJvx4T"
@@ -1723,6 +1847,46 @@
     },
     {
       "album": {
+        "name": "One Love (2023 Edit)",
+        "url": "https://open.spotify.com/album/3lSVfXX7vj16HzbscmcetC"
+      },
+      "artists": [
+        {
+          "name": "Monika Kruse",
+          "url": "https://open.spotify.com/artist/2xeHjPrS4EnEUIXHV9pkeg"
+        },
+        {
+          "name": "Robert Owens",
+          "url": "https://open.spotify.com/artist/407nV5hO7mZap3UJdpTr4t"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228479,
+      "name": "One Love - 2023 edit",
+      "url": "https://open.spotify.com/track/33kXRY2IXNhfxGlmUiECkp"
+    },
+    {
+      "album": {
+        "name": "Outside Time",
+        "url": "https://open.spotify.com/album/6XskRNKES3V9dY2SSZ0H6s"
+      },
+      "artists": [
+        {
+          "name": "ANNA",
+          "url": "https://open.spotify.com/artist/3wkaDi2HJV3eCaBJ4iH6om"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 408661,
+      "name": "Outside Time",
+      "url": "https://open.spotify.com/track/5F8TBm0KnHfW2IVSgSlZrY"
+    },
+    {
+      "album": {
         "name": "Overdrive EP",
         "url": "https://open.spotify.com/album/6L9vJcQPmdPQC7KYAgpk3k"
       },
@@ -1792,7 +1956,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 404961,
       "name": "Perception",
       "url": "https://open.spotify.com/track/3ll4L5Dd6LIdYRvJnp9l7a"
@@ -1868,7 +2032,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 341125,
       "name": "Polished Chrome - DJ Dextro Remix",
       "url": "https://open.spotify.com/track/6eOcq6gvd9xZGOopSaaS7C"
@@ -1926,7 +2090,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 420644,
       "name": "Pria",
       "url": "https://open.spotify.com/track/5NLu9XiiF80Txfg2Pl8zE8"
@@ -1984,7 +2148,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 416452,
       "name": "Reminder",
       "url": "https://open.spotify.com/track/2XtWtuyUPlLljHpcTwWoli"
@@ -2032,7 +2196,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 189855,
       "name": "RIDE OR DIE",
       "url": "https://open.spotify.com/track/29uCsFSUSVktiMUZdzqpiD"
@@ -2072,7 +2236,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 311051,
       "name": "Rollercoaster - Aladarus Remix",
       "url": "https://open.spotify.com/track/2O30LF5pjVk7brwuotAddn"
@@ -2102,6 +2266,24 @@
       "duration_ms": 477030,
       "name": "Sal Sal",
       "url": "https://open.spotify.com/track/0IbGzLHAEuX7qqzq64VdJM"
+    },
+    {
+      "album": {
+        "name": "Scoop EP",
+        "url": "https://open.spotify.com/album/5EDjV6NQ1AWnrshClXxU5h"
+      },
+      "artists": [
+        {
+          "name": "Pagano",
+          "url": "https://open.spotify.com/artist/3j2JOqx0mLDrHZzm9TVT3G"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301333,
+      "name": "Scoop",
+      "url": "https://open.spotify.com/track/14i7E5Vb5fZfdqYv9P8jpO"
     },
     {
       "album": {
@@ -2185,6 +2367,28 @@
     },
     {
       "album": {
+        "name": "Global Underground #45: Danny Tenaglia - Brooklyn (DJ Mix)",
+        "url": "https://open.spotify.com/album/08NPt2t8kfzMwLPvRLTRsG"
+      },
+      "artists": [
+        {
+          "name": "Monika Kruse",
+          "url": "https://open.spotify.com/artist/2xeHjPrS4EnEUIXHV9pkeg"
+        },
+        {
+          "name": "Pig&Dan",
+          "url": "https://open.spotify.com/artist/04jj7dljPI0ixtNsz2pXWK"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147098,
+      "name": "So Good - Mixed",
+      "url": "https://open.spotify.com/track/35rdtaNeNBdllnMFSTPzig"
+    },
+    {
+      "album": {
         "name": "Solar Deity",
         "url": "https://open.spotify.com/album/259ZhVkGqI3NqzLKn4W9ZK"
       },
@@ -2236,7 +2440,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 240458,
       "name": "Something More",
       "url": "https://open.spotify.com/track/4YMxL3YsA943fie0W7viZO"
@@ -2276,7 +2480,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 287014,
       "name": "Stay - Josh Wink Remix",
       "url": "https://open.spotify.com/track/5M5GqUm5F6rSo2zJ6Ibhcf"
@@ -2306,6 +2510,28 @@
       "duration_ms": 349373,
       "name": "Stronger",
       "url": "https://open.spotify.com/track/4kLeI1f9UxfvKhszaWUsXe"
+    },
+    {
+      "album": {
+        "name": "Sunglasses at Night",
+        "url": "https://open.spotify.com/album/355umplV56zh1Or7ivsHj8"
+      },
+      "artists": [
+        {
+          "name": "Tiga",
+          "url": "https://open.spotify.com/artist/5l9wiTZVfqQTfMDOt0HtwC"
+        },
+        {
+          "name": "Zyntherius",
+          "url": "https://open.spotify.com/artist/5OOeDUipuqJcBKJFEVvrSM"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223506,
+      "name": "Sunglasses at Night - Radio Edit",
+      "url": "https://open.spotify.com/track/1F8IWVxyW60Crr06qhEBsl"
     },
     {
       "album": {
@@ -2346,6 +2572,28 @@
       "duration_ms": 260148,
       "name": "Take You Higher",
       "url": "https://open.spotify.com/track/2pgiLqOsWEhUfH8DUU2Uo1"
+    },
+    {
+      "album": {
+        "name": "33 Tours Et Puis S\u2019en Vont",
+        "url": "https://open.spotify.com/album/3XSKAzY7vrFudIP2aafoBE"
+      },
+      "artists": [
+        {
+          "name": "Laurent Garnier",
+          "url": "https://open.spotify.com/artist/3y1SoTOdrmRNTBVph5T0VZ"
+        },
+        {
+          "name": "Alan Watts",
+          "url": "https://open.spotify.com/artist/2CCcoAwiAwpIs1hcsqkk3b"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 656962,
+      "name": "Tales from The Real World",
+      "url": "https://open.spotify.com/track/5JuGY5qQy5byKT3RB04bYV"
     },
     {
       "album": {
@@ -2596,7 +2844,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 371886,
       "name": "Unparalleled - Alan Fitzpatrick Remix",
       "url": "https://open.spotify.com/track/3SkAU4S5dSGXadZXrBWvR0"
@@ -2705,6 +2953,28 @@
     },
     {
       "album": {
+        "name": "I Will Be A Devil Until I Am An Angel EP",
+        "url": "https://open.spotify.com/album/6zjVuZC8ISTcijr3okOKJN"
+      },
+      "artists": [
+        {
+          "name": "Chris Liebing",
+          "url": "https://open.spotify.com/artist/21444lX8gpmOX36icLmbFI"
+        },
+        {
+          "name": "Nicole Moudaber",
+          "url": "https://open.spotify.com/artist/7ixDtqtITfqx5lZQGh5gKe"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 473043,
+      "name": "Watch Me Choose You",
+      "url": "https://open.spotify.com/track/45DWEUKSrHBbQLbrDtKDnV"
+    },
+    {
+      "album": {
         "name": "Waveriders EP",
         "url": "https://open.spotify.com/album/38r01VO4vB927FYxYjXtTz"
       },
@@ -2764,6 +3034,28 @@
       "duration_ms": 259130,
       "name": "When I Rock - A.D.H.S. Remix",
       "url": "https://open.spotify.com/track/2RZUzI8KssitQ4SYPr1xUd"
+    },
+    {
+      "album": {
+        "name": "When My Heart Beats (Whack Edit)",
+        "url": "https://open.spotify.com/album/69xf05acyEhALOY7GevRtl"
+      },
+      "artists": [
+        {
+          "name": "Aitor Ronda",
+          "url": "https://open.spotify.com/artist/4Q6FHEKif7t06z6NGujL2D"
+        },
+        {
+          "name": "DJ Rush",
+          "url": "https://open.spotify.com/artist/6gBmUpKvNYtnQTSLK5vwS5"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 341333,
+      "name": "When My Heart Beats - Whack Edit",
+      "url": "https://open.spotify.com/track/4MnQGSBXAsH4FxIcAfnEwH"
     },
     {
       "album": {

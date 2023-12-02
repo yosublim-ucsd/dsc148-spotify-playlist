@@ -4,7 +4,7 @@
 
 > it's a vibe \(◡ ‿ ◡ ✿\).
 
-1,139 songs - 2 day 10 hr 27 min
+1,140 songs - 2 day 10 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -574,6 +574,7 @@
 | [Kids Who Stole The World](https://open.spotify.com/track/5Sv2qboXJ3GZUuLMVaZtie) | [New West](https://open.spotify.com/artist/69bG9tC62d8oTFC9aTTosn) | [Kids Who Stole The World](https://open.spotify.com/album/0KZeVw4TNjB6UMStp5B7tT) | 3:20 | 2021-10-30 | 2022-02-05 |
 | [Kill Your Pain \(with King Princess\)](https://open.spotify.com/track/4pmiEqiZKvQIJP7zquAzHg) | [Boyish](https://open.spotify.com/artist/6VgPyGeGO86DztjK7GCYT3), [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C) | [Kill Your Pain \(with King Princess\)](https://open.spotify.com/album/3hP1YYnCmiBD9tnpA42MrA) | 2:46 | 2023-06-23 |  |
 | [killer lover boy](https://open.spotify.com/track/4VWahNC3hzIZpJsb1aNBB8) | [SEB](https://open.spotify.com/artist/7oPxPZSk7y5q0fhzpmX5Gi) | [IT’S OKAY, WE’RE DREAMING](https://open.spotify.com/album/6D4oQ9pbC7MinAd5LdLr0l) | 2:14 | 2021-07-31 | 2021-10-09 |
+| [king of loathing](https://open.spotify.com/track/0615nSzOQDbLH9FvlYm5NI) | [Jonah Zed](https://open.spotify.com/artist/4mPkv3XVHp9mMeSXp5Ix3D) | [king of loathing](https://open.spotify.com/album/2kTnPqYQxVZpF3Y2UQEPQr) | 2:45 | 2023-12-01 |  |
 | [king of the nosebleeds](https://open.spotify.com/track/5CM1jEYAsLwhhQEUYwEBs7) | [gabriel black](https://open.spotify.com/artist/6lWQ8ff0y4b0fozjUcmvaJ) | [king of the nosebleeds](https://open.spotify.com/album/5SBNC9CXJt023DHcVAPUJH) | 2:42 | 2021-04-10 | 2021-05-29 |
 | [kiss me before u go.](https://open.spotify.com/track/1n6wEo9WEfUHm2VcOx67dw) | [will hyde](https://open.spotify.com/artist/3vNisYibo8wFyD4wxIbSbn), [Jess Benko](https://open.spotify.com/artist/6U53xCCVXmyimAgsBjCS8P) | [kiss me before u go.](https://open.spotify.com/album/0qXF4bLph1rkzuE1x6ZLcJ) | 4:03 | 2022-09-16 |  |
 | [Kiss Me on the Floor](https://open.spotify.com/track/5wIBA1lYaBIrycozAWCqyI) | [Laraw](https://open.spotify.com/artist/7vxKZcJkulVyFjO6Bb1Pq1) | [Kiss Me on the Floor](https://open.spotify.com/album/4X7CbXtYH209XThPd3sdSr) | 2:54 | 2023-11-10 |  |
@@ -816,7 +817,7 @@
 | [reel](https://open.spotify.com/track/1zrDMS6oE0jsPjIiOqJf4U) | [LORA](https://open.spotify.com/artist/3sJr6yhJiNvyTbgrNRDkr8) | [adulting](https://open.spotify.com/album/5wbhoRV9QvshCjBnnHBGc6) | 2:56 | 2022-04-05 | 2022-06-11 |
 | [Regret](https://open.spotify.com/track/31wjzoWF83uH7T2DmjTDTV) | [Emilee Moore](https://open.spotify.com/artist/21k39bIiVAame9O5MWRS4m), [Mark Diamond](https://open.spotify.com/artist/7Il2FrLyoQt0JlyhJRDL1c) | [Regret](https://open.spotify.com/album/7HArAYlGVWlWgpMbNHCqR8) | 2:45 | 2021-07-17 | 2021-09-11 |
 | [Renegade](https://open.spotify.com/track/61BicZpuh5MfsFn8iqCP5h) | [Pbenz](https://open.spotify.com/artist/0iTL62LjPPI99dA62aW0Ir) | [Renegade](https://open.spotify.com/album/6yKt8sXa6PqXNwEAlC3Klj) | 2:47 | 2022-04-08 | 2022-05-07 |
-| [Retriever](https://open.spotify.com/track/0PdEMny3zGvOKkDdXEDf07) | [Braids](https://open.spotify.com/artist/6JX35IQ1Yw84Yjzq2Y5p5i) | [Retriever](https://open.spotify.com/album/5kMoaZfmTKob0drD8HClXI) | 9:29 | 2022-08-12 |  |
+| [Retriever](https://open.spotify.com/track/0PdEMny3zGvOKkDdXEDf07) | [Braids](https://open.spotify.com/artist/6JX35IQ1Yw84Yjzq2Y5p5i) | [Retriever](https://open.spotify.com/album/5kMoaZfmTKob0drD8HClXI) | 9:29 | 2022-08-12 | 2023-12-02 |
 | [Revolver](https://open.spotify.com/track/3alJBylWqwz6zFDhzT9xO3) | [bülow](https://open.spotify.com/artist/5vBrKGOjN10BMwB0cJADj4) | [Revolver](https://open.spotify.com/album/5h5Phe6GYcTrFRyjfDcNPv) | 2:48 | 2021-06-05 | 2021-10-30 |
 | [Ring of Past](https://open.spotify.com/track/11sfRkHdvsop5DdHVmGpt1) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Ring of Past](https://open.spotify.com/album/4zTH06G28TKcid3B8Vhy8L) | 3:21 | 2023-02-16 |  |
 | [riptide](https://open.spotify.com/track/42Da30giIkPsirgWn3qMDP) | [One Hope](https://open.spotify.com/artist/1UyepeXL7LRzhk7a9p3Glj) | [XXI](https://open.spotify.com/album/5JsvLIkSY02w5LhyCGPb1n) | 3:32 | 2023-03-03 |  |

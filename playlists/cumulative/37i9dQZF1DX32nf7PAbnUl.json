@@ -5,6 +5,28 @@
   "tracks": [
     {
       "album": {
+        "name": "Ronisia (Version Deluxe)",
+        "url": "https://open.spotify.com/album/6n3BM7djoly8rX6AG9dnFW"
+      },
+      "artists": [
+        {
+          "name": "Ronisia",
+          "url": "https://open.spotify.com/artist/4krMq8pXkLVTGplpYgHlnV"
+        },
+        {
+          "name": "Gazo",
+          "url": "https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165746,
+      "name": "200 KM/H",
+      "url": "https://open.spotify.com/track/7DfBKw4PYAar1FXOFLqMFE"
+    },
+    {
+      "album": {
         "name": "MRTHN",
         "url": "https://open.spotify.com/album/1NDrCoEwYxndcqfRJ3vQ8g"
       },
@@ -31,6 +53,24 @@
     },
     {
       "album": {
+        "name": "Alicante",
+        "url": "https://open.spotify.com/album/6uKVQzzmUEFuc6GjWy1IQw"
+      },
+      "artists": [
+        {
+          "name": "Gambino",
+          "url": "https://open.spotify.com/artist/5Wf0eeUkR6rRAre6L7H7jW"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193777,
+      "name": "Alicante",
+      "url": "https://open.spotify.com/track/1xV89fEoj4JNCrbMq5rA7G"
+    },
+    {
+      "album": {
         "name": "Enna Boost",
         "url": "https://open.spotify.com/album/2INbsI9qbLPDqII4MNkowx"
       },
@@ -46,7 +86,7 @@
       ],
       "date_added": "2023-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 194266,
       "name": "Attentat",
       "url": "https://open.spotify.com/track/5ioieZofgvXQK70RFhVohl"
@@ -68,6 +108,24 @@
       "duration_ms": 170653,
       "name": "Autobahn",
       "url": "https://open.spotify.com/track/03o8WSqd2K5rkGvn9IsLy2"
+    },
+    {
+      "album": {
+        "name": "Automatique",
+        "url": "https://open.spotify.com/album/4vpq8EUrwPr7UePfuUeiZE"
+      },
+      "artists": [
+        {
+          "name": "Benab",
+          "url": "https://open.spotify.com/artist/0qO3t2MHM5NIEJ5fw9VndY"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184394,
+      "name": "Automatique",
+      "url": "https://open.spotify.com/track/3lT2yaxSLBWDbjcFDMLaUn"
     },
     {
       "album": {
@@ -241,6 +299,28 @@
     },
     {
       "album": {
+        "name": "Carolina",
+        "url": "https://open.spotify.com/album/4VsXxNxkWjYV6nlPPt6A64"
+      },
+      "artists": [
+        {
+          "name": "Ninho",
+          "url": "https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH"
+        },
+        {
+          "name": "REDVOLUTION",
+          "url": "https://open.spotify.com/artist/4hzO4p4VzL72ZFXF0YFYBn"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195459,
+      "name": "Carolina",
+      "url": "https://open.spotify.com/track/22IP2WKjuGYQ19JAz5GpAv"
+    },
+    {
+      "album": {
         "name": "Coeur De Pirate",
         "url": "https://open.spotify.com/album/6amYcdS4hW0H69JcDrK2wY"
       },
@@ -252,10 +332,32 @@
       ],
       "date_added": "2023-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 180760,
       "name": "Coeur De Pirate",
       "url": "https://open.spotify.com/track/2q2tG7xR37PNyqrXqooemZ"
+    },
+    {
+      "album": {
+        "name": "Losa",
+        "url": "https://open.spotify.com/album/1teNie7q2r9ik9SHyPkHJn"
+      },
+      "artists": [
+        {
+          "name": "Bramsito",
+          "url": "https://open.spotify.com/artist/1WDkNp8Duv9QhO246S4dDa"
+        },
+        {
+          "name": "Niska",
+          "url": "https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196653,
+      "name": "Criminel",
+      "url": "https://open.spotify.com/track/6JAezQjLfd5CopZ5klhzHu"
     },
     {
       "album": {
@@ -326,6 +428,42 @@
       "duration_ms": 168877,
       "name": "Filtr\u00e9",
       "url": "https://open.spotify.com/track/58PwCUkHNkODqp2tCehNSP"
+    },
+    {
+      "album": {
+        "name": "COCO JOJO",
+        "url": "https://open.spotify.com/album/5xaYQgs6VOTxlfGlhKmy7a"
+      },
+      "artists": [
+        {
+          "name": "Guy2Bezbar",
+          "url": "https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149360,
+      "name": "Full black",
+      "url": "https://open.spotify.com/track/1WcBhct7iVXliYorbEKTql"
+    },
+    {
+      "album": {
+        "name": "N'A STRAGIA",
+        "url": "https://open.spotify.com/album/4PxIHIjXAGQz2bYqy0CLtX"
+      },
+      "artists": [
+        {
+          "name": "Gambi",
+          "url": "https://open.spotify.com/artist/1lB3I3SI30v2ZOpR4XQqzJ"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138960,
+      "name": "GUETTE",
+      "url": "https://open.spotify.com/track/1Z0wEQ1f57DkljzYwInEqr"
     },
     {
       "album": {
@@ -474,7 +612,7 @@
       ],
       "date_added": "2023-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 200106,
       "name": "La street",
       "url": "https://open.spotify.com/track/29n9av2AJlYDHtqfuv0X04"
@@ -536,7 +674,7 @@
       ],
       "date_added": "2023-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 179868,
       "name": "Moulaga",
       "url": "https://open.spotify.com/track/5BfCoUcWNXcpyJfjXRIeyC"
@@ -602,6 +740,24 @@
       "duration_ms": 229386,
       "name": "Nocif",
       "url": "https://open.spotify.com/track/7FeWKPL2gj7xIRv5gyHejU"
+    },
+    {
+      "album": {
+        "name": "2069'",
+        "url": "https://open.spotify.com/album/50UFRkLAkzL731ZFWym4Vq"
+      },
+      "artists": [
+        {
+          "name": "PLK",
+          "url": "https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179653,
+      "name": "Nouvelles",
+      "url": "https://open.spotify.com/track/7d391WfC0HtftRcetDFQUy"
     },
     {
       "album": {
@@ -678,7 +834,7 @@
       ],
       "date_added": "2023-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 179573,
       "name": "PMW",
       "url": "https://open.spotify.com/track/73V8Goi8gRq2zwUkyWo8XE"
@@ -758,7 +914,7 @@
       ],
       "date_added": "2023-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 159357,
       "name": "Suavemente",
       "url": "https://open.spotify.com/track/4KHXk0rTD80mEf7bbdK29j"
@@ -798,7 +954,7 @@
       ],
       "date_added": "2023-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 174618,
       "name": "Toko Toko",
       "url": "https://open.spotify.com/track/11jljbDlwqMyvQdepjse5G"
@@ -864,7 +1020,7 @@
       ],
       "date_added": "2023-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 174670,
       "name": "Trucs de choses",
       "url": "https://open.spotify.com/track/3IR9wKWxI0TK1DLXvZq8uQ"

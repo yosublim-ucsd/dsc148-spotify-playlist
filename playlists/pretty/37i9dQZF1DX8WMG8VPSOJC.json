@@ -1,12 +1,12 @@
 {
   "description": "Nothing but beautiful country love songs. ",
-  "num_followers": 1696723,
+  "num_followers": 1696838,
   "original_name": "Country Kind of Love",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmODcyZmY4ZWZlOTc3ZmFkNDg3OTk3MzU3NTRlOWQ3MjcxOWNlZjI2",
+  "snapshot_id": "MCw3ZjU0NTdiMWE5NjViNjhhYmRkNDAwNWE3OGU0Y2M5YzJjZWU1MzRl",
   "tracks": [
     {
       "added_at": "2023-10-27 04:00:00",
@@ -255,22 +255,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Always & Forever",
-        "url": "https://open.spotify.com/album/28ZWOeiZ8l4Uydl3hZjvgv"
-      },
-      "artists": [
-        {
-          "name": "Randy Travis",
-          "url": "https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m"
-        }
-      ],
-      "duration_ms": 212640,
-      "name": "Forever and Ever, Amen",
-      "url": "https://open.spotify.com/track/1ipcb9qXpSHWhSUvdxJhsx"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "Your Man",
         "url": "https://open.spotify.com/album/5NATaOfEAcyQFATqWZRKLO"
       },
@@ -283,6 +267,22 @@
       "duration_ms": 211893,
       "name": "Your Man",
       "url": "https://open.spotify.com/track/1WzAeadSKJhqykZFbJNmQv"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "Always & Forever",
+        "url": "https://open.spotify.com/album/28ZWOeiZ8l4Uydl3hZjvgv"
+      },
+      "artists": [
+        {
+          "name": "Randy Travis",
+          "url": "https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m"
+        }
+      ],
+      "duration_ms": 212640,
+      "name": "Forever and Ever, Amen",
+      "url": "https://open.spotify.com/track/1ipcb9qXpSHWhSUvdxJhsx"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -475,18 +475,22 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Carrying Your Love With Me",
-        "url": "https://open.spotify.com/album/3YwF2y9Y3FfEy2NOtDuDZZ"
+        "name": "Blue In The Sky",
+        "url": "https://open.spotify.com/album/2u0DD4sNHOcgbuJrJyMUu3"
       },
       "artists": [
         {
-          "name": "George Strait",
-          "url": "https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd"
+          "name": "Dustin Lynch",
+          "url": "https://open.spotify.com/artist/1dID9zgn0OV0Y8ud7Mh2tS"
+        },
+        {
+          "name": "MacKenzie Porter",
+          "url": "https://open.spotify.com/artist/6nXco5Q3cJJ0ZutnBOsSpq"
         }
       ],
-      "duration_ms": 232426,
-      "name": "Carrying Your Love With Me",
-      "url": "https://open.spotify.com/track/7puxIVNdj5nsBJk43zM3bH"
+      "duration_ms": 171626,
+      "name": "Thinking 'Bout You (feat. MacKenzie Porter)",
+      "url": "https://open.spotify.com/track/5eUpUFdFaAeovPau6lQkqK"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -507,22 +511,18 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Blue In The Sky",
-        "url": "https://open.spotify.com/album/2u0DD4sNHOcgbuJrJyMUu3"
+        "name": "Carrying Your Love With Me",
+        "url": "https://open.spotify.com/album/3YwF2y9Y3FfEy2NOtDuDZZ"
       },
       "artists": [
         {
-          "name": "Dustin Lynch",
-          "url": "https://open.spotify.com/artist/1dID9zgn0OV0Y8ud7Mh2tS"
-        },
-        {
-          "name": "MacKenzie Porter",
-          "url": "https://open.spotify.com/artist/6nXco5Q3cJJ0ZutnBOsSpq"
+          "name": "George Strait",
+          "url": "https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd"
         }
       ],
-      "duration_ms": 171626,
-      "name": "Thinking 'Bout You (feat. MacKenzie Porter)",
-      "url": "https://open.spotify.com/track/5eUpUFdFaAeovPau6lQkqK"
+      "duration_ms": 232426,
+      "name": "Carrying Your Love With Me",
+      "url": "https://open.spotify.com/track/7puxIVNdj5nsBJk43zM3bH"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -639,18 +639,18 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Tennessee Orange",
-        "url": "https://open.spotify.com/album/1cdfMISICAlFDByLA2PYe3"
+        "name": "Dylan Scott (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2zSuxzKE7PIi9LhCk3uL6o"
       },
       "artists": [
         {
-          "name": "Megan Moroney",
-          "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
+          "name": "Dylan Scott",
+          "url": "https://open.spotify.com/artist/78YqeIji3mgAS2K1Maca6x"
         }
       ],
-      "duration_ms": 223119,
-      "name": "Tennessee Orange",
-      "url": "https://open.spotify.com/track/3fl4zil6HJ0N1FL3YIRwdC"
+      "duration_ms": 197640,
+      "name": "My Girl",
+      "url": "https://open.spotify.com/track/3izNaTiYdotdPL0Bs76JqO"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -675,34 +675,18 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Dylan Scott (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2zSuxzKE7PIi9LhCk3uL6o"
+        "name": "Tennessee Orange",
+        "url": "https://open.spotify.com/album/1cdfMISICAlFDByLA2PYe3"
       },
       "artists": [
         {
-          "name": "Dylan Scott",
-          "url": "https://open.spotify.com/artist/78YqeIji3mgAS2K1Maca6x"
+          "name": "Megan Moroney",
+          "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
         }
       ],
-      "duration_ms": 197640,
-      "name": "My Girl",
-      "url": "https://open.spotify.com/track/3izNaTiYdotdPL0Bs76JqO"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
-        "name": "Hallelujah Nights",
-        "url": "https://open.spotify.com/album/3he0Uva3KD5aNSHpJm9H90"
-      },
-      "artists": [
-        {
-          "name": "LANCO",
-          "url": "https://open.spotify.com/artist/2lRH2dgU5Kk4Bc5phmII4T"
-        }
-      ],
-      "duration_ms": 222573,
-      "name": "Greatest Love Story",
-      "url": "https://open.spotify.com/track/2yQZwi1P8AkkxxFhQ8rMEK"
+      "duration_ms": 223119,
+      "name": "Tennessee Orange",
+      "url": "https://open.spotify.com/track/3fl4zil6HJ0N1FL3YIRwdC"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -719,6 +703,22 @@
       "duration_ms": 193226,
       "name": "You Make It Easy",
       "url": "https://open.spotify.com/track/2TXtN9MoV308Y0z1HvyTfV"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "Hallelujah Nights",
+        "url": "https://open.spotify.com/album/3he0Uva3KD5aNSHpJm9H90"
+      },
+      "artists": [
+        {
+          "name": "LANCO",
+          "url": "https://open.spotify.com/artist/2lRH2dgU5Kk4Bc5phmII4T"
+        }
+      ],
+      "duration_ms": 222573,
+      "name": "Greatest Love Story",
+      "url": "https://open.spotify.com/track/2yQZwi1P8AkkxxFhQ8rMEK"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -883,18 +883,18 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Love,Heartbreak, & Everything in Between",
-        "url": "https://open.spotify.com/album/478FbS6cYoaEYreO0H4YOx"
+        "name": "Lambs & Lions",
+        "url": "https://open.spotify.com/album/2jynxUXDGPBkMgbXhL3KGQ"
       },
       "artists": [
         {
-          "name": "Tenille Arts",
-          "url": "https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu"
+          "name": "Chase Rice",
+          "url": "https://open.spotify.com/artist/6pBNfggcZZDCmb0p92OnGn"
         }
       ],
-      "duration_ms": 198208,
-      "name": "Somebody Like That",
-      "url": "https://open.spotify.com/track/4K7wet87HnlWKi0CXWvg1i"
+      "duration_ms": 182493,
+      "name": "Eyes On You",
+      "url": "https://open.spotify.com/track/4w95iGC6NrxZJ5o3D7bWyV"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -915,18 +915,18 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Lambs & Lions",
-        "url": "https://open.spotify.com/album/2jynxUXDGPBkMgbXhL3KGQ"
+        "name": "Love,Heartbreak, & Everything in Between",
+        "url": "https://open.spotify.com/album/478FbS6cYoaEYreO0H4YOx"
       },
       "artists": [
         {
-          "name": "Chase Rice",
-          "url": "https://open.spotify.com/artist/6pBNfggcZZDCmb0p92OnGn"
+          "name": "Tenille Arts",
+          "url": "https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu"
         }
       ],
-      "duration_ms": 182493,
-      "name": "Eyes On You",
-      "url": "https://open.spotify.com/track/4w95iGC6NrxZJ5o3D7bWyV"
+      "duration_ms": 198208,
+      "name": "Somebody Like That",
+      "url": "https://open.spotify.com/track/4K7wet87HnlWKi0CXWvg1i"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -1051,18 +1051,18 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Growing Old With You",
-        "url": "https://open.spotify.com/album/161OJ4mZwXGzdeLI2jibXZ"
+        "name": "American Saturday Night",
+        "url": "https://open.spotify.com/album/0GCQzPEkcFv8bR90sJf41x"
       },
       "artists": [
         {
-          "name": "Restless Road",
-          "url": "https://open.spotify.com/artist/5XLWHp9tjK7PWm7SMcvo2q"
+          "name": "Brad Paisley",
+          "url": "https://open.spotify.com/artist/13YmWQJFwgZrd4bf5IjMY4"
         }
       ],
-      "duration_ms": 196007,
-      "name": "Growing Old With You",
-      "url": "https://open.spotify.com/track/5n4kMW5dn7MHFhXQuJb9zG"
+      "duration_ms": 321640,
+      "name": "Then",
+      "url": "https://open.spotify.com/track/3XKbdb9GB6u3hsnUklQTav"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -1083,18 +1083,18 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "American Saturday Night",
-        "url": "https://open.spotify.com/album/0GCQzPEkcFv8bR90sJf41x"
+        "name": "Growing Old With You",
+        "url": "https://open.spotify.com/album/161OJ4mZwXGzdeLI2jibXZ"
       },
       "artists": [
         {
-          "name": "Brad Paisley",
-          "url": "https://open.spotify.com/artist/13YmWQJFwgZrd4bf5IjMY4"
+          "name": "Restless Road",
+          "url": "https://open.spotify.com/artist/5XLWHp9tjK7PWm7SMcvo2q"
         }
       ],
-      "duration_ms": 321640,
-      "name": "Then",
-      "url": "https://open.spotify.com/track/3XKbdb9GB6u3hsnUklQTav"
+      "duration_ms": 196007,
+      "name": "Growing Old With You",
+      "url": "https://open.spotify.com/track/5n4kMW5dn7MHFhXQuJb9zG"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Let's Do Country Right",
-        "url": "https://open.spotify.com/album/3iT8ACbErKCSxNmN19frzy"
-      },
-      "artists": [
-        {
-          "name": "Easton Corbin",
-          "url": "https://open.spotify.com/artist/070kGpqtESdDsLb3gdMIyx"
-        }
-      ],
-      "duration_ms": 190760,
-      "name": "Marry That Girl",
-      "url": "https://open.spotify.com/track/26J4fMdhFOh9NcYZCZOyAS"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "Good Person",
         "url": "https://open.spotify.com/album/3Ua9kX869krW1M3UjEJVPv"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 196162,
       "name": "Feel Like This",
       "url": "https://open.spotify.com/track/4QWXSTeUHFzU0INh7SNqSU"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "Let's Do Country Right",
+        "url": "https://open.spotify.com/album/3iT8ACbErKCSxNmN19frzy"
+      },
+      "artists": [
+        {
+          "name": "Easton Corbin",
+          "url": "https://open.spotify.com/artist/070kGpqtESdDsLb3gdMIyx"
+        }
+      ],
+      "duration_ms": 190760,
+      "name": "Marry That Girl",
+      "url": "https://open.spotify.com/track/26J4fMdhFOh9NcYZCZOyAS"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "All I Need Is You",
-        "url": "https://open.spotify.com/album/1tc6XshhetHi2jagwM3UhS"
-      },
-      "artists": [
-        {
-          "name": "Chris Janson",
-          "url": "https://open.spotify.com/artist/60gmlHZmT16wiO9GiXKYK9"
-        }
-      ],
-      "duration_ms": 162344,
-      "name": "All I Need Is You",
-      "url": "https://open.spotify.com/track/02FAxAwzApe6pAqfAL3dLr"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "Port Saint Joe",
         "url": "https://open.spotify.com/album/5V6FVW8sc8yyhmDZwaNm5T"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 192680,
       "name": "I Don't Remember Me (Before You)",
       "url": "https://open.spotify.com/track/6xrREPyyC5KESDhWfwqHiN"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "All I Need Is You",
+        "url": "https://open.spotify.com/album/1tc6XshhetHi2jagwM3UhS"
+      },
+      "artists": [
+        {
+          "name": "Chris Janson",
+          "url": "https://open.spotify.com/artist/60gmlHZmT16wiO9GiXKYK9"
+        }
+      ],
+      "duration_ms": 162344,
+      "name": "All I Need Is You",
+      "url": "https://open.spotify.com/track/02FAxAwzApe6pAqfAL3dLr"
     },
     {
       "added_at": "2023-10-27 04:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFuzhIOyS7z.md) - [plain]
 
 > インスタ音楽メディア『<a href="https://www.instagram.com/playlist\_of/">PLAYLIST</a>』が失恋をテーマに選曲。<br/>音楽はいつでもあなたに寄り添ってくれるから今はこのプレイリストを聴いてたくさん泣こう。
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,080 likes - 30 songs - 1 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,118 likes - 30 songs - 1 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFuzhIOyS7z.md) - [plain]
 | 29 | [BAKAYAROU](https://open.spotify.com/track/5aXwPIF4ekP4H2ogEmtoUR) | [push pull pot](https://open.spotify.com/artist/0777DLWkvCQkjaokIVNOEq) | [BAKAYAROU](https://open.spotify.com/album/3FIcKXJ2RYMuErFhB29ckJ) | 2:05 |
 | 30 | [satsuki](https://open.spotify.com/track/3T5n7TjFU5tmZSdNC76COv) | [amanojac](https://open.spotify.com/artist/4wPckOiu0CMAkhlQpAp1XM) | [Orange Blue.](https://open.spotify.com/album/0mE2rCjScnbYUo83QMxiXp) | 2:47 |
 
-Snapshot ID: `MCwwMzk0NTE4ZWNmNDM2NWZkODY5M2VkODRiNWFkNDM0OWI2MDE5ODc1`
+Snapshot ID: `MCxlZTA4ZDU5ZWQ2ZWU0ZTc1NzRmZTMzOTQyYmM2YTMxMTZmYmJjMmNk`

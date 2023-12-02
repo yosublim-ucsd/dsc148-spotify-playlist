@@ -1,13 +1,45 @@
 {
-  "description": "It's a main pop girl emergency \ud83c\udd98  Cover: Tate McRae",
-  "num_followers": 134885,
+  "description": "It's a main pop girl emergency \ud83c\udd98  Cover: Slayyyter",
+  "num_followers": 134964,
   "original_name": "OBSESSED",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkY2MwN2MzNzBhNDdmNDE0YjQyYWI2YThlNzJjYTE1MWYxYTI0Yjk2",
+  "snapshot_id": "MCwwMjgzN2E5ZDc5NTg3ZjU0ZWYzNmYyNGFlZTA1ZDI2MTcxMGQyYWU4",
   "tracks": [
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
+        "name": "STARFUCKER (Deluxe)",
+        "url": "https://open.spotify.com/album/28AykhX6LH9IJeE8U1zMNn"
+      },
+      "artists": [
+        {
+          "name": "Slayyyter",
+          "url": "https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC"
+        }
+      ],
+      "duration_ms": 149056,
+      "name": "James Dean",
+      "url": "https://open.spotify.com/track/0w2YzYzleND7wp3ib0zxXc"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
+        "name": "Christmas",
+        "url": "https://open.spotify.com/album/4Eeeg4yMb5qtMEm0lk6lDM"
+      },
+      "artists": [
+        {
+          "name": "Cher",
+          "url": "https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt"
+        }
+      ],
+      "duration_ms": 209106,
+      "name": "DJ Play A Christmas Song",
+      "url": "https://open.spotify.com/track/18uSfZqFBxQFi8CsXOIbhy"
+    },
     {
       "added_at": "2023-11-22 22:24:36",
       "album": {
@@ -75,6 +107,38 @@
     {
       "added_at": "2023-11-22 22:24:36",
       "album": {
+        "name": "SEX MACHINA",
+        "url": "https://open.spotify.com/album/6OcUMgJgqb5scFxtd7n4hq"
+      },
+      "artists": [
+        {
+          "name": "bludnymph",
+          "url": "https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX"
+        }
+      ],
+      "duration_ms": 129397,
+      "name": "SEX MACHINA",
+      "url": "https://open.spotify.com/track/5l8xjpKJW5Yj7mSSlSth3K"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
+        "name": "STARFUCKER (Deluxe)",
+        "url": "https://open.spotify.com/album/28AykhX6LH9IJeE8U1zMNn"
+      },
+      "artists": [
+        {
+          "name": "Slayyyter",
+          "url": "https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC"
+        }
+      ],
+      "duration_ms": 205626,
+      "name": "Starfucker",
+      "url": "https://open.spotify.com/track/1HBOsPD7SbbShkxh1qfTRn"
+    },
+    {
+      "added_at": "2023-11-22 22:24:36",
+      "album": {
         "name": "When We Were Young (The Logical Song)",
         "url": "https://open.spotify.com/album/3vT1YpvKNkGVN3XE1f3kQY"
       },
@@ -95,18 +159,70 @@
     {
       "added_at": "2023-11-22 22:24:36",
       "album": {
-        "name": "SEX MACHINA",
-        "url": "https://open.spotify.com/album/6OcUMgJgqb5scFxtd7n4hq"
+        "name": "Vogue",
+        "url": "https://open.spotify.com/album/6vCW931VRazG6Y49nzAwJz"
       },
       "artists": [
         {
-          "name": "bludnymph",
-          "url": "https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX"
+          "name": "Noizu",
+          "url": "https://open.spotify.com/artist/3VRyybsQu0MDG0F2LBxnv7"
         }
       ],
-      "duration_ms": 129397,
-      "name": "SEX MACHINA",
-      "url": "https://open.spotify.com/track/5l8xjpKJW5Yj7mSSlSth3K"
+      "duration_ms": 192187,
+      "name": "Vogue",
+      "url": "https://open.spotify.com/track/3FrlcqYxS1A3W7pCGAHai6"
+    },
+    {
+      "added_at": "2023-11-22 22:24:36",
+      "album": {
+        "name": "Against The Wall",
+        "url": "https://open.spotify.com/album/2xO8ur8yma45D2drHsPPR4"
+      },
+      "artists": [
+        {
+          "name": "1111",
+          "url": "https://open.spotify.com/artist/0CnZz6rvqYBualwWKuMiOE"
+        },
+        {
+          "name": "BIIANCO",
+          "url": "https://open.spotify.com/artist/4Axsf7QVnPabbam5y6NwLt"
+        }
+      ],
+      "duration_ms": 205061,
+      "name": "Against The Wall",
+      "url": "https://open.spotify.com/track/31KsPoBWtNNUWvBreMsLZG"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
+        "name": "Let Go",
+        "url": "https://open.spotify.com/album/5xB8GG0H8xMQO7hOqsjudz"
+      },
+      "artists": [
+        {
+          "name": "Tsatsamis",
+          "url": "https://open.spotify.com/artist/3z2RaxEObO8hXkvmG5xou0"
+        }
+      ],
+      "duration_ms": 217693,
+      "name": "Let Go",
+      "url": "https://open.spotify.com/track/20ZHGiItqZgOHhZGbTEtj9"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
+        "name": "(WHAT DID YOU EXPECT FROM) SEX WITH A STRANGER",
+        "url": "https://open.spotify.com/album/4vLrXibV3kr91I2deh6GUp"
+      },
+      "artists": [
+        {
+          "name": "Lynks",
+          "url": "https://open.spotify.com/artist/44tV2d4RDeMsS2sLOdcXHD"
+        }
+      ],
+      "duration_ms": 201144,
+      "name": "(WHAT DID YOU EXPECT FROM) SEX WITH A STRANGER",
+      "url": "https://open.spotify.com/track/2h15hDIwg3c0ojcpob5eHI"
     },
     {
       "added_at": "2023-11-22 22:24:36",
@@ -159,26 +275,6 @@
     {
       "added_at": "2023-11-22 22:24:36",
       "album": {
-        "name": "Against The Wall",
-        "url": "https://open.spotify.com/album/2xO8ur8yma45D2drHsPPR4"
-      },
-      "artists": [
-        {
-          "name": "1111",
-          "url": "https://open.spotify.com/artist/0CnZz6rvqYBualwWKuMiOE"
-        },
-        {
-          "name": "BIIANCO",
-          "url": "https://open.spotify.com/artist/4Axsf7QVnPabbam5y6NwLt"
-        }
-      ],
-      "duration_ms": 205061,
-      "name": "Against The Wall",
-      "url": "https://open.spotify.com/track/31KsPoBWtNNUWvBreMsLZG"
-    },
-    {
-      "added_at": "2023-11-22 22:24:36",
-      "album": {
         "name": "Houdini",
         "url": "https://open.spotify.com/album/5pTaRVLwZOFObIbRBubmeb"
       },
@@ -223,22 +319,6 @@
       "duration_ms": 149482,
       "name": "Goodnight Sleep Tight",
       "url": "https://open.spotify.com/track/1QbOzVxzYsqDIgFZLRSWOA"
-    },
-    {
-      "added_at": "2023-11-22 22:24:36",
-      "album": {
-        "name": "Vogue",
-        "url": "https://open.spotify.com/album/6vCW931VRazG6Y49nzAwJz"
-      },
-      "artists": [
-        {
-          "name": "Noizu",
-          "url": "https://open.spotify.com/artist/3VRyybsQu0MDG0F2LBxnv7"
-        }
-      ],
-      "duration_ms": 192187,
-      "name": "Vogue",
-      "url": "https://open.spotify.com/track/3FrlcqYxS1A3W7pCGAHai6"
     },
     {
       "added_at": "2023-11-22 22:24:36",
@@ -655,22 +735,6 @@
     {
       "added_at": "2023-11-22 22:24:36",
       "album": {
-        "name": "STARFUCKER",
-        "url": "https://open.spotify.com/album/5sjBJH8HZKiBGEa4guEHcL"
-      },
-      "artists": [
-        {
-          "name": "Slayyyter",
-          "url": "https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC"
-        }
-      ],
-      "duration_ms": 131307,
-      "name": "Purrr",
-      "url": "https://open.spotify.com/track/2nxR4gpUbRufqBEtIZuwSg"
-    },
-    {
-      "added_at": "2023-11-22 22:24:36",
-      "album": {
         "name": "KITTY",
         "url": "https://open.spotify.com/album/5elwfe8kBov1FNLAZmIZfl"
       },
@@ -1019,22 +1083,6 @@
       "duration_ms": 199512,
       "name": "ITALODISCO - English Version",
       "url": "https://open.spotify.com/track/2dscdzSfNdj2QLpZkPnKTQ"
-    },
-    {
-      "added_at": "2023-11-22 22:24:36",
-      "album": {
-        "name": "Erotic Electronic",
-        "url": "https://open.spotify.com/album/2HZkihcW7WfCMaok4rTCEk"
-      },
-      "artists": [
-        {
-          "name": "Slayyyter",
-          "url": "https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC"
-        }
-      ],
-      "duration_ms": 143618,
-      "name": "Erotic Electronic",
-      "url": "https://open.spotify.com/track/0TEoYWl2RLGbmsbB2Aoaa4"
     },
     {
       "added_at": "2023-11-22 22:24:36",

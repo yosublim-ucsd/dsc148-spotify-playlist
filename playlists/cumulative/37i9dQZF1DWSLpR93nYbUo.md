@@ -4,7 +4,7 @@
 
 > Ouça as novidades da cena eletrônica\. Foto: CEVITH
 
-144 songs - 8 hr 13 min
+146 songs - 8 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [Don't Call Me](https://open.spotify.com/track/0TdS0abXCuojh4OrrxfbRA) | [Samuel Davis](https://open.spotify.com/artist/3vyvxYznj1IlcfSkdoxT1w), [Levis Della](https://open.spotify.com/artist/0mz0ZT7rpJuWFxJ8lnxdB5), [Mayn](https://open.spotify.com/artist/3Bm2qmss0lQDGCO0NoH2zX) | [Don't Call Me](https://open.spotify.com/album/2JPhRx56x6QAr2kVLPAG5K) | 2:34 | 2023-07-21 | 2023-09-23 |
 | [Don't Forget Me](https://open.spotify.com/track/7cv39ln99vS8TV5yqYg7I1) | [Curol](https://open.spotify.com/artist/334DQtGwD8Ic96L1RjIhzX), [Kelly Moreira](https://open.spotify.com/artist/3HV2E92s3B3YhP4JkDncCT) | [Don't Forget Me](https://open.spotify.com/album/4F05bplJU3WVW0j3AWMB4t) | 4:39 | 2023-07-21 | 2023-08-19 |
 | [Electro Panic \- Raz Remix](https://open.spotify.com/track/0s7Exj7dYm3bRfwCQWcQSP) | [Yahel](https://open.spotify.com/artist/7CHdJ8rVKe6cez9PKlpKrF), [Raz](https://open.spotify.com/artist/6AaKVN1QdU3HMRWH7tDva3) | [Electro Panic \(Raz Remix\)](https://open.spotify.com/album/7hfskclosZivyNG3AeQA3C) | 5:00 | 2023-07-21 | 2023-09-16 |
+| [Everytime](https://open.spotify.com/track/3NFLTwrWOFF5dmJGiYOmFe) | [BAF](https://open.spotify.com/artist/1mhpQdXVCnq31AwzgCPxK9), [houselife](https://open.spotify.com/artist/2ZMVshOlD7ULhDmDjgOF3h) | [Everytime](https://open.spotify.com/album/3ECI1UlNJ2cMl8TmU82nDZ) | 2:57 | 2023-12-01 |  |
 | [Fall Through](https://open.spotify.com/track/1HEXrpLmq5JKUIKAztNnQt) | [STVNS](https://open.spotify.com/artist/1JbA7XjVOQHb2U2mK0RDJi), [ALLKNIGHT](https://open.spotify.com/artist/28Upea6Tkq0l5oTu0dtX1c), [EternalSub](https://open.spotify.com/artist/3dRGoXQUssZVV3gHOMVW48) | [Fall Through](https://open.spotify.com/album/7nok0I6cu6puv0cv1iXwzG) | 2:10 | 2023-07-21 | 2023-08-26 |
 | [Falling](https://open.spotify.com/track/1i5yqWsJBngtx3wzrcMgVi) | [Penubiz](https://open.spotify.com/artist/09mmLhlQsy6qsZ6xCxBPbE), [Stroiter](https://open.spotify.com/artist/3dGq1jN9SEGl5sdJVuaWPo), [NeverSleepSongs](https://open.spotify.com/artist/5G280fku98hJKVXuDbhC29) | [Falling](https://open.spotify.com/album/2U7U0SRvXfddiB9kouVsFX) | 2:49 | 2023-07-21 | 2023-10-14 |
 | [Falling Down](https://open.spotify.com/track/34p4fCmqhtRLRhmODfibZ4) | [Brannco](https://open.spotify.com/artist/27TqtA3DJFLCXv7o8h0GgL), [Lowdelic](https://open.spotify.com/artist/5Kddhc8aFjVx5Ab2MBCVnD) | [Falling Down](https://open.spotify.com/album/76deBFvpUGQkq3tnZdwHAj) | 3:21 | 2023-10-13 |  |
@@ -74,6 +75,7 @@
 | [Like That](https://open.spotify.com/track/25R67sd3GYqD6iGrbFOkmY) | [BRN](https://open.spotify.com/artist/3yujwOo5L5DZDOcGj8K9fj) | [Like That](https://open.spotify.com/album/5nBA9CbygJco08TqreFh4d) | 3:48 | 2023-08-18 |  |
 | [Lonely Boy](https://open.spotify.com/track/64UUBZx4UoftxSitKxx3yX) | [WADD](https://open.spotify.com/artist/1D8g0sSx3lKf9qZeFhYBku) | [Lonely Boy](https://open.spotify.com/album/36ArK5T5gAfzVKExQmCov4) | 3:38 | 2023-09-15 |  |
 | [Lorac](https://open.spotify.com/track/6BCIvGWOKKZJwXc9Hct21b) | [André Moret](https://open.spotify.com/artist/77TawwjtLlpegPo23bblci) | [Lorac](https://open.spotify.com/album/74AWF0pq8DW6ZplMMurVOx) | 7:40 | 2023-07-21 | 2023-09-30 |
+| [Lotta Dough](https://open.spotify.com/track/4ylibekKTNdu4VeIChYUfL) | [Teko](https://open.spotify.com/artist/6LYBTipBAHSpduixnHmWuS) | [Lotta Care EP](https://open.spotify.com/album/28mhsbSCfeQPkVtcPawSwt) | 2:52 | 2023-12-01 |  |
 | [LOVE](https://open.spotify.com/track/6uP5n5DKbRVCoiv2jBJraX) | [DEADLINE](https://open.spotify.com/artist/2EkuI6mftAAZAREUymRJqi) | [LOVE](https://open.spotify.com/album/7MGB5aBmpPgBW38PIl3DIw) | 3:21 | 2023-07-21 |  |
 | [Love & War](https://open.spotify.com/track/3Fry2XZgv6rVFPtJqHnh2V) | [Pontifexx](https://open.spotify.com/artist/7aFk8z1XCcKt2y9Z5PC17s) | [Love & War](https://open.spotify.com/album/7ujGtrXYKIqDCMgfKGUafe) | 2:59 | 2023-07-21 | 2023-10-28 |
 | [Love Me](https://open.spotify.com/track/0iv7Ez65HfYHtxfMKhpb0T) | [Gangbang](https://open.spotify.com/artist/4xAlQ5oAnU0WpbN23f9Dkz), [Brown](https://open.spotify.com/artist/552lqS4r6C6xfVbjowqGxY) | [Love Me](https://open.spotify.com/album/2rW1euwmia2MVUxN6Y4U6B) | 4:28 | 2023-08-18 | 2023-09-30 |

@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0ZPLNrlp88.md) - [plain]
 
 > インスタメディア『PLAYLIST』のトレンドプレイリスト。<br/>音楽好きの若者に支持されたインスタアカウント（Instagram：<a href="https://www.instagram.com/playlist\_of/">@playlist\_of</a>）の編集者が今話題の楽曲をピック。<br/>毎週土曜日更新中。
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,791 likes - 30 songs - 1 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,803 likes - 30 songs - 1 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Love Song](https://open.spotify.com/track/0nokJDMZpEnGbC09v5Fn6T) | [マルシィ](https://open.spotify.com/artist/7oQ6zxSp4eQjvVkk9rGIDV) | [Love Song](https://open.spotify.com/album/2mR7pRFpeDSEWbd0jj05hm) | 4:16 |
+| 1 | [Love Song](https://open.spotify.com/track/7dPdKXZjt04R6Ne7vWXZIh) | [マルシィ](https://open.spotify.com/artist/7oQ6zxSp4eQjvVkk9rGIDV) | [Candle](https://open.spotify.com/album/1Dy7aa6yDhK1X0RdrVnHhq) | 4:18 |
 | 2 | [Tanpen Shousetsu \- 2023.5.7 LIVE at NIPPON BUDOKAN](https://open.spotify.com/track/7dLmc79nJEowPO7dWHM3QL) | [Hump Back](https://open.spotify.com/artist/0zgpYPDY3hFaK1DqbWgCjI) | [Hump Back pre\. “UCHIAGEHIROEN” LIVE at NIPPON BUDOKAN](https://open.spotify.com/album/1OM5zm7zKDSoxR5OIzWSmG) | 3:25 |
 | 3 | [doll](https://open.spotify.com/track/4LbegEhpVETr2aAOoo6kP5) | [Chilli Beans.](https://open.spotify.com/artist/48apiuEaHdddhdRvfFjPB7) | [Welcome to My Castle](https://open.spotify.com/album/6DSelDneeVFEluC97trMur) | 3:33 |
 | 4 | [愛は並ぶ](https://open.spotify.com/track/45N3xuHhSnzaRDK3zzm5KY) | [pachae](https://open.spotify.com/artist/7lqLvJ6yvMDwu307APLILI) | [愛は並ぶ](https://open.spotify.com/album/4ckSXQdm93RohNeeMm9T9O) | 2:49 |
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0ZPLNrlp88.md) - [plain]
 | 29 | [夕暮れ](https://open.spotify.com/track/23eQdy6vYVdy6nkscPMCVG) | [KANA\-BOON](https://open.spotify.com/artist/3PWp9R5HvbQgxI5KBx5kVd) | [夕暮れ](https://open.spotify.com/album/0j9WDauhGREpUgekdrCE8d) | 4:17 |
 | 30 | [Hima](https://open.spotify.com/track/3tI1VcYJ0TYFJowY3z3IBg) | [3markets\[ \]](https://open.spotify.com/artist/0HxV66MjdNTz6E2oHZxS6g) | [Hima](https://open.spotify.com/album/7qSk3L32X9nRUI7YV6ELJy) | 2:52 |
 
-Snapshot ID: `MCw3OGNiY2Y2OGExM2FmZWE4ODlhZWExZWFjYTM1Nzk0MDk5MThlZDEz`
+Snapshot ID: `MCxjYWRlMTA4MTMwMmY3NDUwZGQ5NjdkNzhmMjAwNjVjNjA2ZDJkZmUx`

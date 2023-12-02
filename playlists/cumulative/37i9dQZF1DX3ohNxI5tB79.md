@@ -4,7 +4,7 @@
 
 > Start your morning right with this collection of funky, soulful, jazzy tunes.
 
-210 songs - 13 hr 39 min
+211 songs - 13 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,7 +76,7 @@
 | [He's Been Gone](https://open.spotify.com/track/3dXoXjTSjbcR1IVYUdo9YI) | [Amber Navran](https://open.spotify.com/artist/4akQZt0saex1UBmywlc1qH) | [Speak Up EP](https://open.spotify.com/album/3D53Q7mIXqlu40HW1jerWY) | 2:48 | 2021-12-13 | 2022-07-29 |
 | [He's Been Gone](https://open.spotify.com/track/7Apu2VeNNUlKivnI6BatoV) | [Amber Navran](https://open.spotify.com/artist/4akQZt0saex1UBmywlc1qH) | [Speak Up EP](https://open.spotify.com/album/5L0WOwTwEoXYlb4pC4IcZM) | 2:48 | 2022-07-05 | 2022-10-01 |
 | [Home](https://open.spotify.com/track/1ofGBwyRKtNKRi6NXRz1tg) | [Blue Lab Beats](https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR), [Pip Millett](https://open.spotify.com/artist/1QfEfvB62EEl4upf2ANKkR), [Dylan Jones](https://open.spotify.com/artist/4XoX7Wk4oPECLHHbGNMfhG) | [Motherland Journey](https://open.spotify.com/album/1Ot6KlRfnV6vGwcQPpr6eg) | 3:35 | 2022-12-05 |  |
-| [honest](https://open.spotify.com/track/1g8U8GIX2S3g3M8H2MtSpO) | [Bnnyhunna](https://open.spotify.com/artist/13itA83Wg0KCCk1odzFFpD) | [SINTHA](https://open.spotify.com/album/5nnsr7zbNqhtBUXl0vlQUU) | 3:53 | 2021-12-13 |  |
+| [honest](https://open.spotify.com/track/1g8U8GIX2S3g3M8H2MtSpO) | [Bnnyhunna](https://open.spotify.com/artist/13itA83Wg0KCCk1odzFFpD) | [SINTHA](https://open.spotify.com/album/5nnsr7zbNqhtBUXl0vlQUU) | 3:53 | 2021-12-13 | 2023-12-02 |
 | [How Long Do I Have to Wait for You?](https://open.spotify.com/track/113bLFbp3F9MVN0w2KJ1ma) | [Sharon Jones & The Dap\-Kings](https://open.spotify.com/artist/6LufpoVlIYKQCu9Gjpk8B7) | [Naturally](https://open.spotify.com/album/1xwNW7Q1daqJ8LNgymY04y) | 4:03 | 2021-12-13 | 2022-10-01 |
 | [Hurt](https://open.spotify.com/track/3OREiYBiC7wSpOLukQMDZR) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Hurt](https://open.spotify.com/album/1tKobwujSCKXeHTMmbwpfJ) | 3:36 | 2021-12-13 |  |
 | [I Can't Live Without You](https://open.spotify.com/track/03oKPuz3ykdddqan4z743d) | [Tony Momrelle](https://open.spotify.com/artist/4tw6cyhpVCq4wRHcM5o8XN) | [Best Is Yet To Come](https://open.spotify.com/album/2ZZ4BzqReo975qepeM0YTT) | 5:02 | 2021-12-13 | 2022-05-18 |
@@ -148,6 +148,7 @@
 | [Seasons](https://open.spotify.com/track/6bpJeNwIqNb22xu8km0Ok9) | [Astèr Fekre](https://open.spotify.com/artist/4owtjBwXE8zpOk4ihtCXpK) | [Seasons](https://open.spotify.com/album/31sPNFRpgyvcJ4sDX5qoqI) | 5:06 | 2022-05-17 |  |
 | [Seú Days](https://open.spotify.com/track/14A3i3kN1Ch5hbMnhDgCWg) | [Siegfried Hart](https://open.spotify.com/artist/4ltScyJGi3NVTEeSj0D4xP) | [Super\-Sonic Family Vol\. 2 \- Part 1](https://open.spotify.com/album/06WzFxDa5CjgpBhwRrvyKO) | 4:25 | 2023-10-03 |  |
 | [Shaquille Sama](https://open.spotify.com/track/5lBSxxvADqvpKTvbCi8ETo) | [QUANZA](https://open.spotify.com/artist/7hs8g3jBavjFRILV4XJlTy) | [ORCHIDEA](https://open.spotify.com/album/1x2TVjnEoSS2TBZdH2E0Bo) | 3:20 | 2022-06-16 |  |
+| [SHOULD'VE BEEN YOU](https://open.spotify.com/track/6XbfAA4NymHlQ52zeMitGK) | [Bnnyhunna](https://open.spotify.com/artist/13itA83Wg0KCCk1odzFFpD), [Tallulah Rose](https://open.spotify.com/artist/52K2wI1tA5kaRyQUKVhOaJ) | [SHOULD'VE BEEN YOU](https://open.spotify.com/album/3dlAyZb5RjxYAirDWSREwW) | 3:14 | 2023-12-01 |  |
 | [Side by Side](https://open.spotify.com/track/032JVeAfSSc7XK3bTZqK0z) | [Loren Nine](https://open.spotify.com/artist/5VbFVkVPJOoT0emDWoTaVO) | [Side by Side](https://open.spotify.com/album/5ckS8CEIF5eye3dcnfbd4Y) | 2:23 | 2021-12-13 |  |
 | [Silence is Golden](https://open.spotify.com/track/72pAdCNhYcGaKndmsJBbyz) | [Lettuce](https://open.spotify.com/artist/1fZXjUQEkVbB0TvZX4qFR8) | [Resonate](https://open.spotify.com/album/32wdlbMm4TWfi75n9qW1rs) | 5:43 | 2021-12-13 | 2022-06-17 |
 | [Smile](https://open.spotify.com/track/0Rliuj2FRErOzjvSSKTGLd) | [Durand Jones & The Indications](https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP) | [Durand Jones & The Indications \(Deluxe Edition\)](https://open.spotify.com/album/0CzFk2RSGJjhXLEGhk6K1E) | 3:49 | 2021-12-13 | 2022-07-29 |

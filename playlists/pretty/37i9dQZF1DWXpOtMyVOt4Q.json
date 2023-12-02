@@ -1,12 +1,12 @@
 {
   "description": "Chill tunes to soundtrack your gaming session.",
-  "num_followers": 251922,
+  "num_followers": 252006,
   "original_name": "Chill Gaming",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NzI3MWUzNzI2ODc2YTA1NTMwNDliZjRmNjlmZGFhZTBjZTE5NDMy",
+  "snapshot_id": "MCw1MWQ4ZDk2YzMzMjUzZDRkNDFhNDg3ZDY2N2ExZjE4NDg2YTAyOWMx",
   "tracks": [
     {
       "added_at": "2023-09-08 14:39:34",
@@ -223,22 +223,6 @@
     {
       "added_at": "2023-09-08 14:39:34",
       "album": {
-        "name": "Futari",
-        "url": "https://open.spotify.com/album/3LcqhYy1gPJflovJt9Fdi5"
-      },
-      "artists": [
-        {
-          "name": "Hentaidesu",
-          "url": "https://open.spotify.com/artist/4PElVVeU3CyivgTuY8i0bK"
-        }
-      ],
-      "duration_ms": 66611,
-      "name": "I'm Fine",
-      "url": "https://open.spotify.com/track/5YtcQQJOSf0a785PTaai7Y"
-    },
-    {
-      "added_at": "2023-09-08 14:39:34",
-      "album": {
         "name": "afterdark.",
         "url": "https://open.spotify.com/album/6SzfyFW0pQHh7MJxXp6N3I"
       },
@@ -259,6 +243,22 @@
       "duration_ms": 93133,
       "name": "afterdark.",
       "url": "https://open.spotify.com/track/1LEO99UJQTKugOVT62f6rf"
+    },
+    {
+      "added_at": "2023-09-08 14:39:34",
+      "album": {
+        "name": "Futari",
+        "url": "https://open.spotify.com/album/3LcqhYy1gPJflovJt9Fdi5"
+      },
+      "artists": [
+        {
+          "name": "Hentaidesu",
+          "url": "https://open.spotify.com/artist/4PElVVeU3CyivgTuY8i0bK"
+        }
+      ],
+      "duration_ms": 66611,
+      "name": "I'm Fine",
+      "url": "https://open.spotify.com/track/5YtcQQJOSf0a785PTaai7Y"
     },
     {
       "added_at": "2023-09-08 14:39:34",
@@ -399,6 +399,38 @@
     {
       "added_at": "2023-09-08 14:39:34",
       "album": {
+        "name": "sleepless",
+        "url": "https://open.spotify.com/album/6PRpxN0aYV7kHmSOAaGWRr"
+      },
+      "artists": [
+        {
+          "name": "\u00d8dyzon",
+          "url": "https://open.spotify.com/artist/0okIfQPBF07agcxdQM7WG9"
+        }
+      ],
+      "duration_ms": 149325,
+      "name": "sleepless",
+      "url": "https://open.spotify.com/track/2l3IMrkVUCUYLhSRGapTqu"
+    },
+    {
+      "added_at": "2023-09-08 14:39:34",
+      "album": {
+        "name": "i watch the moon",
+        "url": "https://open.spotify.com/album/2pe0JZv3mO7GYLnfv86QMM"
+      },
+      "artists": [
+        {
+          "name": "Flemish Bond",
+          "url": "https://open.spotify.com/artist/4DAPVs6oobdlMxB54nt0Ik"
+        }
+      ],
+      "duration_ms": 102857,
+      "name": "i watch the moon",
+      "url": "https://open.spotify.com/track/7yyO5lmOGN4l5TNl8AwDpV"
+    },
+    {
+      "added_at": "2023-09-08 14:39:34",
+      "album": {
         "name": "where did you go?",
         "url": "https://open.spotify.com/album/6hXY9yHknQ6mIca4ZOP1HG"
       },
@@ -419,22 +451,6 @@
     {
       "added_at": "2023-09-08 14:39:34",
       "album": {
-        "name": "sleepless",
-        "url": "https://open.spotify.com/album/6PRpxN0aYV7kHmSOAaGWRr"
-      },
-      "artists": [
-        {
-          "name": "\u00d8dyzon",
-          "url": "https://open.spotify.com/artist/0okIfQPBF07agcxdQM7WG9"
-        }
-      ],
-      "duration_ms": 149325,
-      "name": "sleepless",
-      "url": "https://open.spotify.com/track/2l3IMrkVUCUYLhSRGapTqu"
-    },
-    {
-      "added_at": "2023-09-08 14:39:34",
-      "album": {
         "name": "Long Whale Song",
         "url": "https://open.spotify.com/album/5VwTFSh4mFOM0VleoTFPZv"
       },
@@ -447,22 +463,6 @@
       "duration_ms": 1165355,
       "name": "Long Whale Song",
       "url": "https://open.spotify.com/track/47UkAwI7ygrMl6JZ5ZExPQ"
-    },
-    {
-      "added_at": "2023-09-08 14:39:34",
-      "album": {
-        "name": "i watch the moon",
-        "url": "https://open.spotify.com/album/2pe0JZv3mO7GYLnfv86QMM"
-      },
-      "artists": [
-        {
-          "name": "Flemish Bond",
-          "url": "https://open.spotify.com/artist/4DAPVs6oobdlMxB54nt0Ik"
-        }
-      ],
-      "duration_ms": 102857,
-      "name": "i watch the moon",
-      "url": "https://open.spotify.com/track/7yyO5lmOGN4l5TNl8AwDpV"
     },
     {
       "added_at": "2023-09-08 14:39:34",
@@ -571,22 +571,6 @@
     {
       "added_at": "2023-09-08 14:39:34",
       "album": {
-        "name": "The Beach",
-        "url": "https://open.spotify.com/album/0b7YKgSQgWkVxpYsbd4oBQ"
-      },
-      "artists": [
-        {
-          "name": "h\u00e9lix",
-          "url": "https://open.spotify.com/artist/0ro2QSQn9ViTKd2iuaygHj"
-        }
-      ],
-      "duration_ms": 156507,
-      "name": "The Beach",
-      "url": "https://open.spotify.com/track/41CMzNSRuMlxCxBiFMJhpC"
-    },
-    {
-      "added_at": "2023-09-08 14:39:34",
-      "album": {
         "name": "Novella",
         "url": "https://open.spotify.com/album/6N1QTJSMGI3hXRpfqNJdTP"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 298320,
       "name": "Starry Night",
       "url": "https://open.spotify.com/track/2CHU4jx0WDXqgid08iZOB6"
+    },
+    {
+      "added_at": "2023-09-08 14:39:34",
+      "album": {
+        "name": "The Beach",
+        "url": "https://open.spotify.com/album/0b7YKgSQgWkVxpYsbd4oBQ"
+      },
+      "artists": [
+        {
+          "name": "h\u00e9lix",
+          "url": "https://open.spotify.com/artist/0ro2QSQn9ViTKd2iuaygHj"
+        }
+      ],
+      "duration_ms": 156507,
+      "name": "The Beach",
+      "url": "https://open.spotify.com/track/41CMzNSRuMlxCxBiFMJhpC"
     },
     {
       "added_at": "2023-09-08 14:39:34",
@@ -633,22 +633,6 @@
       "url": "https://open.spotify.com/track/278zobyI14d3iaE39jGfHM"
     },
     {
-      "added_at": "2023-09-08 14:39:34",
-      "album": {
-        "name": "Dive",
-        "url": "https://open.spotify.com/album/4CBUbnGFz2iKFJjYqRIwst"
-      },
-      "artists": [
-        {
-          "name": "Tycho",
-          "url": "https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry"
-        }
-      ],
-      "duration_ms": 173337,
-      "name": "Melanine",
-      "url": "https://open.spotify.com/track/5uTnqjoCiHCZJ3TmQpOhpH"
-    },
-    {
       "added_at": "2023-11-29 20:21:28",
       "album": {
         "name": "A Collection of Soul Crushing Songs",
@@ -663,6 +647,22 @@
       "duration_ms": 47204,
       "name": "i'm tired",
       "url": "https://open.spotify.com/track/4JkoMKb96mV3nlXRq6yeTP"
+    },
+    {
+      "added_at": "2023-09-08 14:39:34",
+      "album": {
+        "name": "Dive",
+        "url": "https://open.spotify.com/album/4CBUbnGFz2iKFJjYqRIwst"
+      },
+      "artists": [
+        {
+          "name": "Tycho",
+          "url": "https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry"
+        }
+      ],
+      "duration_ms": 173337,
+      "name": "Melanine",
+      "url": "https://open.spotify.com/track/5uTnqjoCiHCZJ3TmQpOhpH"
     },
     {
       "added_at": "2023-09-08 14:39:34",
@@ -683,38 +683,6 @@
     {
       "added_at": "2023-09-08 14:39:34",
       "album": {
-        "name": "livin",
-        "url": "https://open.spotify.com/album/3EKBf6jNY2loEs6R7BBdsq"
-      },
-      "artists": [
-        {
-          "name": "yassprodd",
-          "url": "https://open.spotify.com/artist/0WZLL9XHd4QId3RNI2kZ6Y"
-        }
-      ],
-      "duration_ms": 91808,
-      "name": "livin",
-      "url": "https://open.spotify.com/track/2XgZ0iZEOrqjiXMUyPcFqJ"
-    },
-    {
-      "added_at": "2023-09-08 14:39:34",
-      "album": {
-        "name": "Dandelion's Lullaby",
-        "url": "https://open.spotify.com/album/3c9eWf9ONwSr9LKlwZ0ODW"
-      },
-      "artists": [
-        {
-          "name": "Raimu",
-          "url": "https://open.spotify.com/artist/4PMAJlYIlc9EafX6z8lwZ3"
-        }
-      ],
-      "duration_ms": 123870,
-      "name": "Dandelion's Lullaby",
-      "url": "https://open.spotify.com/track/4TLoYT6uaGydqUQRZ9hlxG"
-    },
-    {
-      "added_at": "2023-09-08 14:39:34",
-      "album": {
         "name": "Nirvana",
         "url": "https://open.spotify.com/album/4YakhJKIpxIx7HGD8WI4oz"
       },
@@ -727,6 +695,22 @@
       "duration_ms": 105000,
       "name": "No Time Left",
       "url": "https://open.spotify.com/track/1ZHRQbm7S54eSKEhKiw1rl"
+    },
+    {
+      "added_at": "2023-09-08 14:39:34",
+      "album": {
+        "name": "livin",
+        "url": "https://open.spotify.com/album/3EKBf6jNY2loEs6R7BBdsq"
+      },
+      "artists": [
+        {
+          "name": "yassprodd",
+          "url": "https://open.spotify.com/artist/0WZLL9XHd4QId3RNI2kZ6Y"
+        }
+      ],
+      "duration_ms": 91808,
+      "name": "livin",
+      "url": "https://open.spotify.com/track/2XgZ0iZEOrqjiXMUyPcFqJ"
     },
     {
       "added_at": "2023-11-29 20:21:28",
@@ -755,18 +739,18 @@
     {
       "added_at": "2023-09-08 14:39:34",
       "album": {
-        "name": "love within",
-        "url": "https://open.spotify.com/album/4NYnzOZDYMcQvA3Ome46ej"
+        "name": "Dandelion's Lullaby",
+        "url": "https://open.spotify.com/album/3c9eWf9ONwSr9LKlwZ0ODW"
       },
       "artists": [
         {
-          "name": "Linearwave",
-          "url": "https://open.spotify.com/artist/2wIeBTEs0AsPb74kYdEcNk"
+          "name": "Raimu",
+          "url": "https://open.spotify.com/artist/4PMAJlYIlc9EafX6z8lwZ3"
         }
       ],
-      "duration_ms": 97099,
-      "name": "love within",
-      "url": "https://open.spotify.com/track/6wv5lxSg3U9DSC5KvbQdfr"
+      "duration_ms": 123870,
+      "name": "Dandelion's Lullaby",
+      "url": "https://open.spotify.com/track/4TLoYT6uaGydqUQRZ9hlxG"
     },
     {
       "added_at": "2023-11-29 20:21:28",
@@ -783,6 +767,22 @@
       "duration_ms": 50664,
       "name": "i need to be honest",
       "url": "https://open.spotify.com/track/5pMTNM75nUpdfbV9N0MMGV"
+    },
+    {
+      "added_at": "2023-09-08 14:39:34",
+      "album": {
+        "name": "love within",
+        "url": "https://open.spotify.com/album/4NYnzOZDYMcQvA3Ome46ej"
+      },
+      "artists": [
+        {
+          "name": "Linearwave",
+          "url": "https://open.spotify.com/artist/2wIeBTEs0AsPb74kYdEcNk"
+        }
+      ],
+      "duration_ms": 97099,
+      "name": "love within",
+      "url": "https://open.spotify.com/track/6wv5lxSg3U9DSC5KvbQdfr"
     },
     {
       "added_at": "2023-09-08 14:39:34",
@@ -849,20 +849,20 @@
       "url": "https://open.spotify.com/track/1wkD1pgESRrQysLpioCew3"
     },
     {
-      "added_at": "2023-09-08 14:39:34",
+      "added_at": "2023-11-29 20:21:28",
       "album": {
-        "name": "for B.",
-        "url": "https://open.spotify.com/album/3l3JcGx513fCNPY6nGarLk"
+        "name": "The Lonely Tree Corecore Depressed",
+        "url": "https://open.spotify.com/album/5MS01aBztEzPQLUN5OZhpd"
       },
       "artists": [
         {
-          "name": "Linearwave",
-          "url": "https://open.spotify.com/artist/2wIeBTEs0AsPb74kYdEcNk"
+          "name": "Leox",
+          "url": "https://open.spotify.com/artist/7c4E98MuM8NBQGrSDC2n9r"
         }
       ],
-      "duration_ms": 89491,
-      "name": "for B.",
-      "url": "https://open.spotify.com/track/4eqYoFG2SGQqMFCvKrjtiu"
+      "duration_ms": 82526,
+      "name": "The Lonely Tree Corecore Depressed",
+      "url": "https://open.spotify.com/track/6op1kH6zHU9JJu7vRZwrap"
     }
   ],
   "unique_name": "Chill Gaming",

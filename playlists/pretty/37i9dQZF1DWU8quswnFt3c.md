@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 
 > Listen to the most streamed artists from EQUAL Global in 2023, at full volume\. Cover: INNA
 
-[Spotify](https://open.spotify.com/user/spotify) - 915,221 likes - 75 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 915,865 likes - 75 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 74 | [Przedwczoraj](https://open.spotify.com/track/2hKI4RRNXfgskJclk41vze) | [Lor](https://open.spotify.com/artist/0TwM0vzeyhAMTegVdIq8rx) | [Panny Młode](https://open.spotify.com/album/4220K6JLK2uQNIZAB6R5R0) | 3:00 |
 | 75 | [midnight rendezvous](https://open.spotify.com/track/6HE45emhCNakhzWWbkaeFG) | [Talitha.](https://open.spotify.com/artist/4wkxDp8esk6g2W9Fw7IQGY) | [Hello, Talitha.](https://open.spotify.com/album/16lI1PYLXHwIN2tDaKc8FD) | 2:36 |
 
-Snapshot ID: `MCw5YTA3MWMxMmIwMDMwYjg5OWRlNmM1YTU3OTExYTVjNWNjYWRmN2Jl`
+Snapshot ID: `MCxhNTA1YjE2ZThiOTNlYTMxM2IyYWMxOGEyOGI2ODIyMzdjMDc3MWRi`

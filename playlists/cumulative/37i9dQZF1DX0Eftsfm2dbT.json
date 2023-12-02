@@ -1812,6 +1812,24 @@
     {
       "album": {
         "name": "FEEL OR BEEF BADPOP IS DEAD",
+        "url": "https://open.spotify.com/album/64jZuo9pd3g1aisDw4vcDa"
+      },
+      "artists": [
+        {
+          "name": "NAMEDARUMAAZ",
+          "url": "https://open.spotify.com/artist/6y1Kuh89ySfhDL6lXPshpi"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 409756,
+      "name": "FEEL OR BEEF BADPOP IS DEAD",
+      "url": "https://open.spotify.com/track/46FKKQrKaQJVz1kZNr3Aid"
+    },
+    {
+      "album": {
+        "name": "FEEL OR BEEF BADPOP IS DEAD",
         "url": "https://open.spotify.com/album/2RC2ZF2OwNHPO1c2GwfunX"
       },
       "artists": [
@@ -1822,7 +1840,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 409756,
       "name": "FEEL OR BEEF BADPOP IS DEAD",
       "url": "https://open.spotify.com/track/437NTuFyPIGPZOySU5xS1n"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dYPM8db5Sz.md) - [plain]
 
 > The best new indie music from South Africa and beyond\. Cover: <a href="https://open.spotify.com/artist/7tYRwBffjJ0FiLIkPTCGMQ?si=aFtrFUI\-Q\_C9m5BTxRSR3g">Corbon Amodio</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,374 likes - 100 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,420 likes - 100 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dYPM8db5Sz.md) - [plain]
 | 99 | [Still A RockStar](https://open.spotify.com/track/0o0b7b1fpkdo0AcBE65Gk3) | [KVSE](https://open.spotify.com/artist/4IsB535rRnsghgHd9K4Iuz) | [Still A RockStar](https://open.spotify.com/album/2Tj3VYZ73mhSYMZwPmNZG2) | 2:26 |
 | 100 | [Quarter Life Crisis](https://open.spotify.com/track/3W7uzoZe8xxHVv75WvhHaZ) | [Baby Queen](https://open.spotify.com/artist/4VqlewwKZJoIcA88PYHUDd) | [Quarter Life Crisis](https://open.spotify.com/album/5bTGBed0FKungdHiISflgl) | 3:03 |
 
-Snapshot ID: `MCw3MDUyZTQzYjM1NGRmYmM3NWI2NzUxNzU1NWZmOTQ5N2E3YmE5ZmJm`
+Snapshot ID: `MCxjZDNmZTFhZTg0MTk3MjAwY2IwODk3MTc5N2EzYmYxNTllMWM3NDM5`

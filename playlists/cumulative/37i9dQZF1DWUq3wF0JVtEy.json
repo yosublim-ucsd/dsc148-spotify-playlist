@@ -322,7 +322,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 166380,
       "name": "Are You Feeling This?",
       "url": "https://open.spotify.com/track/4dd5zWyjZqBbXaQ0TMeBCb"
@@ -801,6 +801,50 @@
     },
     {
       "album": {
+        "name": "Body Move",
+        "url": "https://open.spotify.com/album/5TyjyT6103AqJNbUFukmuG"
+      },
+      "artists": [
+        {
+          "name": "Marc Benjamin",
+          "url": "https://open.spotify.com/artist/05KjvP5zdwtEIgEazqblZw"
+        },
+        {
+          "name": "Aries",
+          "url": "https://open.spotify.com/artist/6uj8itikYSe2m6oExXXSZH"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130500,
+      "name": "Body Move",
+      "url": "https://open.spotify.com/track/1INJXUsFg4bLYN9Wtw87EG"
+    },
+    {
+      "album": {
+        "name": "Bodymorph",
+        "url": "https://open.spotify.com/album/50YeWlWfzOaFYPJjeQsqm3"
+      },
+      "artists": [
+        {
+          "name": "SLUMBERJACK",
+          "url": "https://open.spotify.com/artist/55BFQS36sJYz2B0ClypIvS"
+        },
+        {
+          "name": "Serathrone",
+          "url": "https://open.spotify.com/artist/6VJx4L98UdyXINLjVYMHZt"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243333,
+      "name": "Bodymorph",
+      "url": "https://open.spotify.com/track/2ThE3B5ysWddfWZ4EXWjeR"
+    },
+    {
+      "album": {
         "name": "Bohemian Like You (feat. Alle The Dreamer)",
         "url": "https://open.spotify.com/album/4u1GOd1B9Dtf9rUiSgGoHT"
       },
@@ -904,6 +948,24 @@
       "duration_ms": 142857,
       "name": "Bring Et",
       "url": "https://open.spotify.com/track/1Vh2puNQGk1IpIjZoxoOYz"
+    },
+    {
+      "album": {
+        "name": "Bring It Back",
+        "url": "https://open.spotify.com/album/4x6tgZ0m8xyLbvQb2Px5kI"
+      },
+      "artists": [
+        {
+          "name": "FETISH",
+          "url": "https://open.spotify.com/artist/1r59KUMNZRw0M8FDnrHq0o"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138217,
+      "name": "Bring It Back",
+      "url": "https://open.spotify.com/track/29LzGsdnLy0p7PFYmtw6lW"
     },
     {
       "album": {
@@ -1156,7 +1218,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 175492,
       "name": "Certified",
       "url": "https://open.spotify.com/track/6ZvL9vA6ZbSCNdpgdYjW12"
@@ -1232,7 +1294,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 165245,
       "name": "Cheque",
       "url": "https://open.spotify.com/track/1CE0qHhs1ptJg01dGROO2c"
@@ -1882,6 +1944,28 @@
       "duration_ms": 125760,
       "name": "Drop It (feat. LUISAH)",
       "url": "https://open.spotify.com/track/6SK5X1cj2G3vFNb7iTmLfV"
+    },
+    {
+      "album": {
+        "name": "Droppin' It (La La La)",
+        "url": "https://open.spotify.com/album/7xYg6EaYOKlvp1rf1EPXX5"
+      },
+      "artists": [
+        {
+          "name": "BYOR",
+          "url": "https://open.spotify.com/artist/0Upxnyh9nIUNSOmNE8WF4R"
+        },
+        {
+          "name": "BURNERS!",
+          "url": "https://open.spotify.com/artist/6G31XehhFwtvxM36etz7zw"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156190,
+      "name": "Droppin' It (La La La)",
+      "url": "https://open.spotify.com/track/2rXuuV7atcaVO4cm4UZBZU"
     },
     {
       "album": {
@@ -3082,7 +3166,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 141692,
       "name": "Hello",
       "url": "https://open.spotify.com/track/4Sl7FLTwgrbbBaGYEEJ9ee"
@@ -3338,6 +3422,28 @@
       "duration_ms": 160297,
       "name": "How Ya Like Me Now",
       "url": "https://open.spotify.com/track/3tMf4R0lz5CEOUfliQiitr"
+    },
+    {
+      "album": {
+        "name": "Hustle For That Muscle",
+        "url": "https://open.spotify.com/album/2rKZ2mESWPeP7QnEydUdS2"
+      },
+      "artists": [
+        {
+          "name": "BODYWORX",
+          "url": "https://open.spotify.com/artist/6GIwyYD9kOim8j3M6jt4AM"
+        },
+        {
+          "name": "MOTi",
+          "url": "https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158095,
+      "name": "Hustle For That Muscle",
+      "url": "https://open.spotify.com/track/1WG93TGsMZasbfpuZ1dnxO"
     },
     {
       "album": {
@@ -4878,7 +4984,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 135238,
       "name": "Move It (with Luciana)",
       "url": "https://open.spotify.com/track/6tLoYXdgMy80QaS49kg9z9"
@@ -4958,7 +5064,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 239047,
       "name": "my luv - bonus track",
       "url": "https://open.spotify.com/track/6PFbJ9LyhPo5gbTpc08XGP"
@@ -5675,6 +5781,28 @@
     },
     {
       "album": {
+        "name": "On My Line",
+        "url": "https://open.spotify.com/album/63hVrszqSChih5vJ18lquM"
+      },
+      "artists": [
+        {
+          "name": "Zero",
+          "url": "https://open.spotify.com/artist/6ocDQwCTkVro3cmejcF1DH"
+        },
+        {
+          "name": "Flava D",
+          "url": "https://open.spotify.com/artist/682SntJ7VKoFfssPfDAmDZ"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202462,
+      "name": "On My Line",
+      "url": "https://open.spotify.com/track/3Y5iyIB6OVvhybwGoE9mGv"
+    },
+    {
+      "album": {
         "name": "One Chance",
         "url": "https://open.spotify.com/album/4whZCf4KZinQmHApTpVCn9"
       },
@@ -5742,6 +5870,28 @@
       "duration_ms": 171716,
       "name": "Other Side",
       "url": "https://open.spotify.com/track/00AM1H8UVnoPi3fOYvu5Nv"
+    },
+    {
+      "album": {
+        "name": "Out Of Time",
+        "url": "https://open.spotify.com/album/2KdW273wS4w0m8PSvpJpuM"
+      },
+      "artists": [
+        {
+          "name": "Cat Dealers",
+          "url": "https://open.spotify.com/artist/3q2dSq7VZnj8TmoJUyRm40"
+        },
+        {
+          "name": "Romeo Blanco",
+          "url": "https://open.spotify.com/artist/7oVSEUsFMvqBPpVKuRFSXQ"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203809,
+      "name": "Out Of Time",
+      "url": "https://open.spotify.com/track/3aTL9YroCEJ1em7VVOm9bK"
     },
     {
       "album": {
@@ -5980,7 +6130,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 134769,
       "name": "Pop That",
       "url": "https://open.spotify.com/track/2VEl3fZmYeoJacH1Sn4DS2"
@@ -6246,6 +6396,28 @@
       "duration_ms": 153749,
       "name": "Ravers",
       "url": "https://open.spotify.com/track/5YWxunBgmnSlEq2xz49FqI"
+    },
+    {
+      "album": {
+        "name": "Ravers Bounce",
+        "url": "https://open.spotify.com/album/0nj0CJnBAKK7gkrXQgczxi"
+      },
+      "artists": [
+        {
+          "name": "BRANDON",
+          "url": "https://open.spotify.com/artist/7HHxWuXHsKdcTbWDqqYbsY"
+        },
+        {
+          "name": "Lackmus",
+          "url": "https://open.spotify.com/artist/54ryBVbl5CbgFmiXixV6C1"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195357,
+      "name": "Ravers Bounce",
+      "url": "https://open.spotify.com/track/7bfznmPsfkfVtbunCYBmQJ"
     },
     {
       "album": {
@@ -6632,7 +6804,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 183434,
       "name": "Set The Tempo (feat. HQA)",
       "url": "https://open.spotify.com/track/4Fw9pEVsvkpwyIHoVKJ6yI"

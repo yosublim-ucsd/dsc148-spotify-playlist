@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Explore all things indie rock right now. Featuring new music by Kurt Vile",
+  "description": "Explore all things indie rock right now. Featuring new music by Slow Pulp",
   "name": "Today's Indie Rock",
   "tracks": [
     {
@@ -2223,6 +2223,24 @@
     },
     {
       "album": {
+        "name": "Bend",
+        "url": "https://open.spotify.com/album/78irEHjKQcrTg6wszSyY83"
+      },
+      "artists": [
+        {
+          "name": "Middle Kids",
+          "url": "https://open.spotify.com/artist/6AawJaQO4i99Be2A3w7BTW"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230217,
+      "name": "Bend",
+      "url": "https://open.spotify.com/track/1a8q6gXy8Dl5pSEWG69foi"
+    },
+    {
+      "album": {
         "name": "best friend",
         "url": "https://open.spotify.com/album/1PoLUKiOuc1DLqoYyTz3Zx"
       },
@@ -3403,6 +3421,24 @@
     },
     {
       "album": {
+        "name": "Bubblegum Dog",
+        "url": "https://open.spotify.com/album/6CWVALzNFLjaPvr8HW5S9Z"
+      },
+      "artists": [
+        {
+          "name": "MGMT",
+          "url": "https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261760,
+      "name": "Bubblegum Dog",
+      "url": "https://open.spotify.com/track/5MHNVfob6U5PBe8y15A4MG"
+    },
+    {
+      "album": {
         "name": "Buena Park",
         "url": "https://open.spotify.com/album/2u54J2qbqqzWHTebG9zBZC"
       },
@@ -3522,7 +3558,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 274000,
       "name": "Bupkis",
       "url": "https://open.spotify.com/track/2UloinNAnfNmUvNo9JkB3y"
@@ -4207,6 +4243,24 @@
     },
     {
       "album": {
+        "name": "Cheerleader",
+        "url": "https://open.spotify.com/album/459oCp5mTlqwSpFDKrdtAg"
+      },
+      "artists": [
+        {
+          "name": "carpetgarden",
+          "url": "https://open.spotify.com/artist/1rw5Io28PBVxMjikCwvevG"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201776,
+      "name": "Cheerleader",
+      "url": "https://open.spotify.com/track/25cnulf8xul2rIfLxKLyre"
+    },
+    {
+      "album": {
         "name": "Cherry Red",
         "url": "https://open.spotify.com/album/60ZLV64RaCWqJ6XgheBRKt"
       },
@@ -4272,7 +4326,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 124489,
       "name": "CIGARETTES",
       "url": "https://open.spotify.com/track/3mU9L9qqhMxRbXgMXUncig"
@@ -5414,7 +5468,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 175000,
       "name": "Dash of Speed",
       "url": "https://open.spotify.com/track/2sael07xH56q0Y1DsFkaJ1"
@@ -5828,7 +5882,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 165759,
       "name": "Devotion",
       "url": "https://open.spotify.com/track/5IcivgTMTJQFxh0ug2sg65"
@@ -6484,6 +6538,28 @@
       "duration_ms": 173933,
       "name": "Drew",
       "url": "https://open.spotify.com/track/67PZp26Jwm9iEM8nG864hk"
+    },
+    {
+      "album": {
+        "name": "Drive Baby",
+        "url": "https://open.spotify.com/album/0wqjIiiLFCcYkThNwsCOMQ"
+      },
+      "artists": [
+        {
+          "name": "Delacey",
+          "url": "https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb"
+        },
+        {
+          "name": "Valley Boy",
+          "url": "https://open.spotify.com/artist/46VzbEZDkCQKJX3o4g8gMD"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158460,
+      "name": "Drive Baby",
+      "url": "https://open.spotify.com/track/1ZMkpob9mAm4ydeDPEcQMR"
     },
     {
       "album": {
@@ -10372,7 +10448,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 170583,
       "name": "I Lied Again",
       "url": "https://open.spotify.com/track/3ZqRBncgNX4Ty8S9dk2RMk"
@@ -11150,7 +11226,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 166626,
       "name": "Impossible",
       "url": "https://open.spotify.com/track/6DrrY8ardpYRyF90mzN0jF"
@@ -11330,7 +11406,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 176522,
       "name": "Irish Goodbye",
       "url": "https://open.spotify.com/track/6t1Irvbvz3xb71iaqsac10"
@@ -14396,7 +14472,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 173344,
       "name": "Mythologize Me",
       "url": "https://open.spotify.com/track/1VnUj5C0dmpUGRGkHZ8yWr"
@@ -14574,6 +14650,24 @@
       "duration_ms": 296000,
       "name": "New Order T-Shirt",
       "url": "https://open.spotify.com/track/6bVQ9ygrzZj9B7Z5hLB1bk"
+    },
+    {
+      "album": {
+        "name": "newrules",
+        "url": "https://open.spotify.com/album/2blDLfji74IFcz24chuzCU"
+      },
+      "artists": [
+        {
+          "name": "Sjowgren",
+          "url": "https://open.spotify.com/artist/32Ko3nL0210QAt14S3Rs4Y"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198373,
+      "name": "newrules",
+      "url": "https://open.spotify.com/track/5R6MXypO60PCViBX5NBq9V"
     },
     {
       "album": {
@@ -14960,7 +15054,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 299943,
       "name": "Nothing Stays the Same",
       "url": "https://open.spotify.com/track/1e21RCz12vwZ0yurMrEZ5z"
@@ -16637,6 +16731,24 @@
     },
     {
       "album": {
+        "name": "One Night / Real I\u2019m Told",
+        "url": "https://open.spotify.com/album/7377ZR37x8x2qLVk5iHGcE"
+      },
+      "artists": [
+        {
+          "name": "Good Morning",
+          "url": "https://open.spotify.com/artist/2kMzxA8edU05hvMFU493zJ"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124373,
+      "name": "Real I\u2019m Told",
+      "url": "https://open.spotify.com/track/1ZT84SGqCu0So44tSJhG2l"
+    },
+    {
+      "album": {
         "name": "Real Pain",
         "url": "https://open.spotify.com/album/18FnwNR5eZ5RF1jRFnM7IB"
       },
@@ -17008,7 +17120,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 156800,
       "name": "Roly Poly",
       "url": "https://open.spotify.com/track/7uqvt9TCztQgtyQZoQdjrF"
@@ -17893,6 +18005,24 @@
     },
     {
       "album": {
+        "name": "dope girl chronicles",
+        "url": "https://open.spotify.com/album/26jwaa61sFHBjzpUm87NVH"
+      },
+      "artists": [
+        {
+          "name": "Field Medic",
+          "url": "https://open.spotify.com/artist/4wMfqR1EZagrSlYndItxGQ"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205175,
+      "name": "silver girl",
+      "url": "https://open.spotify.com/track/5uQ1aDnrTDrpTVXytOe1TK"
+    },
+    {
+      "album": {
         "name": "Dragon New Warm Mountain I Believe In You",
         "url": "https://open.spotify.com/album/7Ln81p86r5cCsesd3KBWIY"
       },
@@ -17922,7 +18052,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 175190,
       "name": "Since August",
       "url": "https://open.spotify.com/track/3Xd1JtZaloVCfKqMTF5C1Y"
@@ -19734,6 +19864,24 @@
       "duration_ms": 161631,
       "name": "Taking Time to Tell You",
       "url": "https://open.spotify.com/track/2vysdwbUZxT9t7gtUP4HGK"
+    },
+    {
+      "album": {
+        "name": "Tale of A Man",
+        "url": "https://open.spotify.com/album/47fxxzNYoFylPsmR7xvrLy"
+      },
+      "artists": [
+        {
+          "name": "Teenage Dads",
+          "url": "https://open.spotify.com/artist/0GEHcYh6naBVfaLKy7CEhw"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166076,
+      "name": "Tale Of A Man",
+      "url": "https://open.spotify.com/track/1rBmKmG7hM3gp4lpKQCmj1"
     },
     {
       "album": {
@@ -22075,6 +22223,24 @@
     },
     {
       "album": {
+        "name": "Water Underground",
+        "url": "https://open.spotify.com/album/4qpSwHfArylYxrXD9BK7lI"
+      },
+      "artists": [
+        {
+          "name": "Real Estate",
+          "url": "https://open.spotify.com/artist/41SQP16hv1TioVYqdckmxT"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206546,
+      "name": "Water Underground",
+      "url": "https://open.spotify.com/track/56UnwWtjPqJA2gQthNALiR"
+    },
+    {
+      "album": {
         "name": "Way Out",
         "url": "https://open.spotify.com/album/3BZhfnVEG17baY4InS7Ok2"
       },
@@ -22486,6 +22652,24 @@
       "duration_ms": 291141,
       "name": "When It Rains",
       "url": "https://open.spotify.com/track/1V20vefZTBfVRWsZHlL2sO"
+    },
+    {
+      "album": {
+        "name": "Where Are You Later On, Forever?",
+        "url": "https://open.spotify.com/album/3a513I3mLfr7s2rze2CB9f"
+      },
+      "artists": [
+        {
+          "name": "Rebounder",
+          "url": "https://open.spotify.com/artist/2g2HWripkxzRZDZJ4KTBSB"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205565,
+      "name": "Where Are You Later On, Forever?",
+      "url": "https://open.spotify.com/track/0i6iYbKAfDa9i7daY9bC2c"
     },
     {
       "album": {
@@ -22930,6 +23114,24 @@
       "duration_ms": 185944,
       "name": "Wonderful Life - Edit",
       "url": "https://open.spotify.com/track/3CrDdihSYMmQxSRUuLsPdY"
+    },
+    {
+      "album": {
+        "name": "Woolgathering",
+        "url": "https://open.spotify.com/album/23MLPEeA9PvusSP1iCdsEQ"
+      },
+      "artists": [
+        {
+          "name": "mercury",
+          "url": "https://open.spotify.com/artist/0MaDtBu4Hw0qLH95poDSCk"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187442,
+      "name": "Woolgathering",
+      "url": "https://open.spotify.com/track/7Ft23DcwyyiTeuiNvXyrSf"
     },
     {
       "album": {

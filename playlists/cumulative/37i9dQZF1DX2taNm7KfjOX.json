@@ -3148,27 +3148,11 @@
         {
           "name": "Complete Mountain Almanac",
           "url": "https://open.spotify.com/artist/4VBpeA30apDA7lpsay61FM"
-        },
-        {
-          "name": "Rebekka Karijord",
-          "url": "https://open.spotify.com/artist/4oPxnYcUKmm0pH33ibXd6u"
-        },
-        {
-          "name": "Bryce Dessner",
-          "url": "https://open.spotify.com/artist/5HHKeO04SOcxUxjruFXf5l"
-        },
-        {
-          "name": "Aaron Dessner",
-          "url": "https://open.spotify.com/artist/2hSyEBc9TBb9j38FOCdkIf"
-        },
-        {
-          "name": "Jessica Dessner",
-          "url": "https://open.spotify.com/artist/1j2GQSPTsa51lodwyvdKNm"
         }
       ],
       "date_added": "2023-01-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-01",
+      "date_removed": null,
       "duration_ms": 310626,
       "name": "February",
       "url": "https://open.spotify.com/track/48kuo7N0uwtsMRJwdO9s7n"
@@ -5888,7 +5872,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-27",
+      "date_removed": null,
       "duration_ms": 241552,
       "name": "Memory Palace",
       "url": "https://open.spotify.com/track/60wYARCUwuFlDHumkWOIv7"
@@ -7976,7 +7960,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 217439,
       "name": "Stone",
       "url": "https://open.spotify.com/track/7ByCBSiSnTIiI8E3wp6gof"
@@ -10024,7 +10008,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 325443,
       "name": "Words",
       "url": "https://open.spotify.com/track/5KWrRynsADgBtgqoPCh7kn"

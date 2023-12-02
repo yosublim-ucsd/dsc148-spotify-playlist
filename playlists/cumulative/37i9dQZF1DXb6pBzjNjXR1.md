@@ -4,7 +4,7 @@
 
 > Listen to the best in AfroTech that was born in South Africa, as it travels the world's dancefloors.
 
-119 songs - 12 hr 37 min
+120 songs - 12 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -123,6 +123,7 @@
 | [Weh Baba](https://open.spotify.com/track/0ILcrL9V6bMD797mmWvej5) | [Jabzz Dimitri](https://open.spotify.com/artist/4Eo18qlyb76spnDFlSc78c), [Yallunder](https://open.spotify.com/artist/4TT5ne6u5XRUIhTUKhZyOo) | [Weh Baba](https://open.spotify.com/album/6AZ2kzZBVysJtcXIbmzjOg) | 7:18 | 2022-08-11 | 2022-11-01 |
 | [White Noise](https://open.spotify.com/track/7ts1EPMjAOz1NtXqOxFj3g) | [GateMusique](https://open.spotify.com/artist/3BCZOoTsK22mqROsPZo15A) | [Nachalo EP](https://open.spotify.com/album/12cdq8uTrtO8VVlNVmUI0b) | 7:08 | 2022-10-03 | 2022-11-11 |
 | [XX XX \- Enoo Napa Remix](https://open.spotify.com/track/5ulVDD2bMcqMd4MgBAKYr6) | [Enoo Napa](https://open.spotify.com/artist/5KPid3HkjjnBN4PeUqllHC), [Chukku](https://open.spotify.com/artist/7tsGLSY4SLPBUJcw1DwhGa) | [XX XX \(Enoo Napa Remix\)](https://open.spotify.com/album/7nQpcH4F26cgvGeYfkKO9D) | 7:01 | 2022-10-31 |  |
+| [Yafaso \(feat\. Villa\)](https://open.spotify.com/track/7dZD5roci3Ue5lRt0mSsKA) | [Cornelius SA](https://open.spotify.com/artist/7t6WmbNSAbZJj4NDKMxH9N), [Dee Cee](https://open.spotify.com/artist/4rVjLPF02DFPN3mSBMgPdt), [Villa](https://open.spotify.com/artist/0sZFV6TXt2oSQUfW37guTt) | [Yafaso \(feat\. Villa\)](https://open.spotify.com/album/3018AvgGDwngM2RRBueTgq) | 3:49 | 2023-11-23 |  |
 | [Yoruba](https://open.spotify.com/track/6VNWwYYl9jCCIZD224ALSD) | [Yamil](https://open.spotify.com/artist/28ZgRJOXwmLwPRppMCcLWS) | [Yoruba](https://open.spotify.com/album/5S65Qudj7Jk2YLiDUsWBJ9) | 7:07 | 2022-11-10 | 2023-03-18 |
 | [Zamekile \- Club Edit](https://open.spotify.com/track/6lK80e4t6CNBlSCMKbrXfi) | [Vanco](https://open.spotify.com/artist/2KShewLkb92FKEZ6N4cVP9), [Cee ElAssaad](https://open.spotify.com/artist/1bzZEjHZUxOb0WvFsRfeKH), [Lizwi](https://open.spotify.com/artist/70PnxFjOBPqfF4CZSt3A3X) | [Zamekile](https://open.spotify.com/album/0LG7AnjJMlJvjAia17myir) | 8:24 | 2022-08-11 | 2022-11-11 |
 | [Zimbi Iindaba \(feat\. Natasha M\)](https://open.spotify.com/track/0FngU0lVyh6dNPxN49Wo1B) | [Mzux Maen](https://open.spotify.com/artist/3AqE17ZUeQYdJuQhb1gFZ0), [Natasha M](https://open.spotify.com/artist/2j18ZqJBvkcOVF35MWf2Lb) | [Amani EP](https://open.spotify.com/album/3R9b7M812Z2wnN8p6fJtIQ) | 5:20 | 2022-08-25 | 2023-03-18 |

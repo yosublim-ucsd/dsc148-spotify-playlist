@@ -658,7 +658,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 174998,
       "name": "Creep",
       "url": "https://open.spotify.com/track/0kDI42WWRwsrKAmE7wmQbt"
@@ -1149,6 +1149,28 @@
     },
     {
       "album": {
+        "name": "Walkerworld",
+        "url": "https://open.spotify.com/album/3bKcoHSsmTEWHAGXqwOneo"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        },
+        {
+          "name": "Daya",
+          "url": "https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189391,
+      "name": "Heart over Mind",
+      "url": "https://open.spotify.com/track/3duI7TT4kzLtoqf4PeUR3Z"
+    },
+    {
+      "album": {
         "name": "Heavy Metal Love",
         "url": "https://open.spotify.com/album/2WTW41lq0cDQjdsXhRhyqH"
       },
@@ -1530,7 +1552,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 154000,
       "name": "love like yours",
       "url": "https://open.spotify.com/track/5Kmf1S42VVFhs68l9VgUYr"
@@ -1985,6 +2007,24 @@
     },
     {
       "album": {
+        "name": "Slowdown (girl what's up)",
+        "url": "https://open.spotify.com/album/4B6I2s8qDymQLWT9qtJOtW"
+      },
+      "artists": [
+        {
+          "name": "YellowStraps",
+          "url": "https://open.spotify.com/artist/772hWD0N94gYjnVhrqE7lx"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123000,
+      "name": "Slowdown (girl what's up)",
+      "url": "https://open.spotify.com/track/4xexPtg7VSPCf9hM3aZdfZ"
+    },
+    {
+      "album": {
         "name": "Starlight",
         "url": "https://open.spotify.com/album/7xWgrLBIQVECzOsNvo2OHU"
       },
@@ -2264,7 +2304,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 149374,
       "name": "Through the Fire",
       "url": "https://open.spotify.com/track/0pJT9XkLwjXnYBi84DTKeL"
@@ -2334,6 +2374,28 @@
       "duration_ms": 177689,
       "name": "Where Did You Go? (feat. MNEK)",
       "url": "https://open.spotify.com/track/3sa06xVNmLLYIxdNNmVQN8"
+    },
+    {
+      "album": {
+        "name": "Where You Are",
+        "url": "https://open.spotify.com/album/25Bk5lhRcppzuyAqaqXuws"
+      },
+      "artists": [
+        {
+          "name": "Nico Santos",
+          "url": "https://open.spotify.com/artist/3A9B6c1CrSPauiOblw7pWz"
+        },
+        {
+          "name": "FAST BOY",
+          "url": "https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148885,
+      "name": "Where You Are",
+      "url": "https://open.spotify.com/track/4XFJmvM7x2Wkz6kXJr5LmO"
     },
     {
       "album": {

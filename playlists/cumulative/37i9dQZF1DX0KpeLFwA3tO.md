@@ -4,7 +4,7 @@
 
 > The best new music from the wide world of punk\. Cover: Alkaline Trio
 
-1,470 songs - 3 day 1 hr 28 min
+1,471 songs - 3 day 1 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -359,6 +359,7 @@
 | [Don't Fall In Love With Me](https://open.spotify.com/track/14U3GHjvw3Bk9HDeEBdrur) | [Story Untold](https://open.spotify.com/artist/0BOXARfvlX6FdiyMJUUn1Z) | [Don't Fall In Love With Me](https://open.spotify.com/album/5IQldAUzw7BjWe6fcg163u) | 2:28 | 2022-02-11 | 2022-04-01 |
 | [Don't Make Me Do It](https://open.spotify.com/track/3HNI0dwTStPSThqfEJW48M) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [Tomorrow Never Comes](https://open.spotify.com/album/53dtx3xI6FDGXG104fHqgD) | 0:58 | 2023-06-08 | 2023-06-30 |
 | [Don't Make Me Do It](https://open.spotify.com/track/5t63QRCWRg7ji6WTsDYVOn) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [Don't Make Me Do It](https://open.spotify.com/album/6Mf3wSY9Zy1WqRX8xy2mK7) | 0:58 | 2023-05-04 | 2023-06-11 |
+| [Don't Tempt Me Baby...](https://open.spotify.com/track/1qWdq5lpytNveivQlgs1fq) | [First and Forever](https://open.spotify.com/artist/4yoepOpyKCDc3xDj0fX21r), [Magnolia Park](https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY), [Joshua Roberts](https://open.spotify.com/artist/5KrUtVY5gE9p9U52TT42rR) | [Don't Tempt Me Baby...](https://open.spotify.com/album/6y5G5DVYchSEwlFui34a4N) | 2:36 | 2023-12-01 |  |
 | [Don't Try](https://open.spotify.com/track/3Oo0nqAD7dOIPExI8FZnyJ) | [Joyce Manor](https://open.spotify.com/artist/7qbvNcfTfckhCNM8NiR8nN) | [Don't Try](https://open.spotify.com/album/1BatTwoG80XJPrGk670SZX) | 1:40 | 2022-05-05 | 2022-06-18 |
 | [Done It Myself](https://open.spotify.com/track/6uMvIsrGwt40RLqRXyg7MC) | [CLAMM](https://open.spotify.com/artist/2QYx4UUKqLe1OUWFkjclqH) | [Care](https://open.spotify.com/album/5tMpTscKFmUYezymHgXF98) | 3:17 | 2022-08-18 | 2022-09-30 |
 | [dont wanna die](https://open.spotify.com/track/1UtvJgyt2sviZ5J3EGyLWN) | [Chad Tepper](https://open.spotify.com/artist/0Tcr6t5uyvDgOuNPCD36A3) | [dont wanna die](https://open.spotify.com/album/5XJSnPoCHqeng4OvkeejrH) | 2:49 | 2022-06-16 | 2022-07-29 |

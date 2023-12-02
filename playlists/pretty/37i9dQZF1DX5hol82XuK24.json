@@ -1,12 +1,12 @@
 {
   "description": "Are you afraid of the dark?",
-  "num_followers": 420381,
+  "num_followers": 420444,
   "original_name": "Spooky",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMzhmZmMzNGQ3M2NlZjU2NWFjYmVhYmFhMDNmNWFlMzAwOGZjNjhh",
+  "snapshot_id": "MCxhNDQ4NzNiNTc0NGY3MzliNDkzOTBmODVkNTY4NDVjNzA5YTNjZDA0",
   "tracks": [
     {
       "added_at": "2023-11-03 23:08:22",
@@ -123,22 +123,6 @@
     {
       "added_at": "2023-11-03 23:08:22",
       "album": {
-        "name": "Hotel",
-        "url": "https://open.spotify.com/album/0ykf7jcx3yY49RpkIO1byF"
-      },
-      "artists": [
-        {
-          "name": "Montell Fish",
-          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
-        }
-      ],
-      "duration_ms": 197333,
-      "name": "Hotel",
-      "url": "https://open.spotify.com/track/0JzG1wJuB4v9UPkSE7LMXi"
-    },
-    {
-      "added_at": "2023-11-03 23:08:22",
-      "album": {
         "name": "What Would I Do?",
         "url": "https://open.spotify.com/album/5UMCUhNtZ5bkz0Giv0SppV"
       },
@@ -151,6 +135,22 @@
       "duration_ms": 234000,
       "name": "What Would I Do?",
       "url": "https://open.spotify.com/track/5EJA7Rwkeuvm98CZg0XXNO"
+    },
+    {
+      "added_at": "2023-11-03 23:08:22",
+      "album": {
+        "name": "Hotel",
+        "url": "https://open.spotify.com/album/0ykf7jcx3yY49RpkIO1byF"
+      },
+      "artists": [
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        }
+      ],
+      "duration_ms": 197333,
+      "name": "Hotel",
+      "url": "https://open.spotify.com/track/0JzG1wJuB4v9UPkSE7LMXi"
     },
     {
       "added_at": "2023-11-03 23:08:22",
@@ -191,22 +191,6 @@
     {
       "added_at": "2023-11-03 23:08:22",
       "album": {
-        "name": "i walk this earth all by myself",
-        "url": "https://open.spotify.com/album/6tdl27ojBwZ5ZexzZOP4mG"
-      },
-      "artists": [
-        {
-          "name": "EKKSTACY",
-          "url": "https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH"
-        }
-      ],
-      "duration_ms": 145634,
-      "name": "i walk this earth all by myself",
-      "url": "https://open.spotify.com/track/5a8QUc4ubHJqQm7vzs2YhA"
-    },
-    {
-      "added_at": "2023-11-03 23:08:22",
-      "album": {
         "name": "Ultraviolence (Deluxe)",
         "url": "https://open.spotify.com/album/1ORxRsK3MrSLvh7VQTF01F"
       },
@@ -223,18 +207,18 @@
     {
       "added_at": "2023-11-03 23:08:22",
       "album": {
-        "name": "dc snuff film / waste yrself",
-        "url": "https://open.spotify.com/album/1QMZJabCAFTaiuq4toibdt"
+        "name": "i walk this earth all by myself",
+        "url": "https://open.spotify.com/album/6tdl27ojBwZ5ZexzZOP4mG"
       },
       "artists": [
         {
-          "name": "Teen Suicide",
-          "url": "https://open.spotify.com/artist/2cAvReLDmjFQtCJFDJbHBU"
+          "name": "EKKSTACY",
+          "url": "https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH"
         }
       ],
-      "duration_ms": 165671,
-      "name": "haunt me (x 3)",
-      "url": "https://open.spotify.com/track/1QUMpZT7HG6sO3RiBu1LAJ"
+      "duration_ms": 145634,
+      "name": "i walk this earth all by myself",
+      "url": "https://open.spotify.com/track/5a8QUc4ubHJqQm7vzs2YhA"
     },
     {
       "added_at": "2023-11-03 23:08:22",
@@ -251,6 +235,22 @@
       "duration_ms": 219266,
       "name": "Paper Bag",
       "url": "https://open.spotify.com/track/0IVkP59yJ9GFF6B7IrvrxA"
+    },
+    {
+      "added_at": "2023-11-03 23:08:22",
+      "album": {
+        "name": "dc snuff film / waste yrself",
+        "url": "https://open.spotify.com/album/1QMZJabCAFTaiuq4toibdt"
+      },
+      "artists": [
+        {
+          "name": "Teen Suicide",
+          "url": "https://open.spotify.com/artist/2cAvReLDmjFQtCJFDJbHBU"
+        }
+      ],
+      "duration_ms": 165671,
+      "name": "haunt me (x 3)",
+      "url": "https://open.spotify.com/track/1QUMpZT7HG6sO3RiBu1LAJ"
     },
     {
       "added_at": "2023-11-03 23:08:22",
@@ -287,22 +287,6 @@
     {
       "added_at": "2023-11-03 23:08:22",
       "album": {
-        "name": "Honeymoon",
-        "url": "https://open.spotify.com/album/2DpEBrjCur1ythIZ10gJWw"
-      },
-      "artists": [
-        {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
-        }
-      ],
-      "duration_ms": 295093,
-      "name": "Freak",
-      "url": "https://open.spotify.com/track/3sYDVtqO35oRSOIMx7dOqR"
-    },
-    {
-      "added_at": "2023-11-03 23:08:22",
-      "album": {
         "name": "Witches",
         "url": "https://open.spotify.com/album/2tqLyWHOTHOGRvEYXUHoqM"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 325852,
       "name": "Swimming Pool",
       "url": "https://open.spotify.com/track/0LB3XEhlEemMDjmEQwRJ3c"
+    },
+    {
+      "added_at": "2023-11-03 23:08:22",
+      "album": {
+        "name": "Honeymoon",
+        "url": "https://open.spotify.com/album/2DpEBrjCur1ythIZ10gJWw"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "duration_ms": 295093,
+      "name": "Freak",
+      "url": "https://open.spotify.com/track/3sYDVtqO35oRSOIMx7dOqR"
     },
     {
       "added_at": "2023-11-03 23:08:22",
@@ -535,22 +535,6 @@
     {
       "added_at": "2023-11-03 23:08:22",
       "album": {
-        "name": "It's All In Your Head",
-        "url": "https://open.spotify.com/album/68WgULHIkX1dsZYsFPOWWR"
-      },
-      "artists": [
-        {
-          "name": "dandelion hands",
-          "url": "https://open.spotify.com/artist/6mOWFF6HJ6krnIpW0CHLQm"
-        }
-      ],
-      "duration_ms": 167126,
-      "name": "I Like You",
-      "url": "https://open.spotify.com/track/4mlqHOqOXja92BT4M51lkj"
-    },
-    {
-      "added_at": "2023-11-03 23:08:22",
-      "album": {
         "name": "Blue",
         "url": "https://open.spotify.com/album/6yO5bLMCpNJAlIjkL59KE6"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 198426,
       "name": "Blue",
       "url": "https://open.spotify.com/track/5XOmmOQZFpzeHnWcsFAEiX"
+    },
+    {
+      "added_at": "2023-11-03 23:08:22",
+      "album": {
+        "name": "It's All In Your Head",
+        "url": "https://open.spotify.com/album/68WgULHIkX1dsZYsFPOWWR"
+      },
+      "artists": [
+        {
+          "name": "dandelion hands",
+          "url": "https://open.spotify.com/artist/6mOWFF6HJ6krnIpW0CHLQm"
+        }
+      ],
+      "duration_ms": 167126,
+      "name": "I Like You",
+      "url": "https://open.spotify.com/track/4mlqHOqOXja92BT4M51lkj"
     },
     {
       "added_at": "2023-11-03 23:08:22",
@@ -599,22 +599,6 @@
     {
       "added_at": "2023-11-03 23:08:22",
       "album": {
-        "name": "Dead Man's Bones",
-        "url": "https://open.spotify.com/album/4xGTfawtEfy5f2yGYtRqlr"
-      },
-      "artists": [
-        {
-          "name": "Dead Man's Bones",
-          "url": "https://open.spotify.com/artist/66uU7VPJQ8eC06LAZyqYYk"
-        }
-      ],
-      "duration_ms": 270986,
-      "name": "My Body's a Zombie For You",
-      "url": "https://open.spotify.com/track/14Vua5sMxKiPDcRS5pmoYW"
-    },
-    {
-      "added_at": "2023-11-03 23:08:22",
-      "album": {
         "name": "Space Heavy",
         "url": "https://open.spotify.com/album/31UtR7w5vJtg8AmBvWAwL5"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 127150,
       "name": "Empty Stomach Space Cadet",
       "url": "https://open.spotify.com/track/0cwE12SmWNLi8YNkoxmfGp"
+    },
+    {
+      "added_at": "2023-11-03 23:08:22",
+      "album": {
+        "name": "Dead Man's Bones",
+        "url": "https://open.spotify.com/album/4xGTfawtEfy5f2yGYtRqlr"
+      },
+      "artists": [
+        {
+          "name": "Dead Man's Bones",
+          "url": "https://open.spotify.com/artist/66uU7VPJQ8eC06LAZyqYYk"
+        }
+      ],
+      "duration_ms": 270986,
+      "name": "My Body's a Zombie For You",
+      "url": "https://open.spotify.com/track/14Vua5sMxKiPDcRS5pmoYW"
     },
     {
       "added_at": "2023-11-03 23:08:22",
@@ -791,22 +791,6 @@
     {
       "added_at": "2023-11-03 23:08:22",
       "album": {
-        "name": "Valley Ghoul",
-        "url": "https://open.spotify.com/album/5FxIFpKhK6juAjoMzYmypW"
-      },
-      "artists": [
-        {
-          "name": "Provoker",
-          "url": "https://open.spotify.com/artist/62s5q1tm3UAcRnbGY9CCI9"
-        }
-      ],
-      "duration_ms": 182778,
-      "name": "Valley Ghoul",
-      "url": "https://open.spotify.com/track/4Gpvffa23tFfBjbusONE01"
-    },
-    {
-      "added_at": "2023-11-03 23:08:22",
-      "album": {
         "name": "Bad Contestant",
         "url": "https://open.spotify.com/album/7I6d6PkjEJE50fnxhCwQ8M"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 113454,
       "name": "Hard Candy",
       "url": "https://open.spotify.com/track/4eEvoOiMlEaE2jbEPbYN7b"
+    },
+    {
+      "added_at": "2023-11-03 23:08:22",
+      "album": {
+        "name": "Valley Ghoul",
+        "url": "https://open.spotify.com/album/5FxIFpKhK6juAjoMzYmypW"
+      },
+      "artists": [
+        {
+          "name": "Provoker",
+          "url": "https://open.spotify.com/artist/62s5q1tm3UAcRnbGY9CCI9"
+        }
+      ],
+      "duration_ms": 182778,
+      "name": "Valley Ghoul",
+      "url": "https://open.spotify.com/track/4Gpvffa23tFfBjbusONE01"
     },
     {
       "added_at": "2023-11-03 23:08:22",
@@ -871,22 +871,6 @@
     {
       "added_at": "2023-11-03 23:08:22",
       "album": {
-        "name": "My Cosmos Is Mine",
-        "url": "https://open.spotify.com/album/2fpREMvhSct6c0Y52VRbiv"
-      },
-      "artists": [
-        {
-          "name": "Depeche Mode",
-          "url": "https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX"
-        }
-      ],
-      "duration_ms": 316899,
-      "name": "My Cosmos Is Mine",
-      "url": "https://open.spotify.com/track/4KsArIpW1fuKW6ULDI44lx"
-    },
-    {
-      "added_at": "2023-11-03 23:08:22",
-      "album": {
         "name": "Services",
         "url": "https://open.spotify.com/album/4uj1BNKsrRaeis2VjnVfvU"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 250211,
       "name": "Strange Harvest",
       "url": "https://open.spotify.com/track/3tpNnUzPHhN6kZfHUnoKfV"
+    },
+    {
+      "added_at": "2023-11-03 23:08:22",
+      "album": {
+        "name": "My Cosmos Is Mine",
+        "url": "https://open.spotify.com/album/2fpREMvhSct6c0Y52VRbiv"
+      },
+      "artists": [
+        {
+          "name": "Depeche Mode",
+          "url": "https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX"
+        }
+      ],
+      "duration_ms": 316899,
+      "name": "My Cosmos Is Mine",
+      "url": "https://open.spotify.com/track/4KsArIpW1fuKW6ULDI44lx"
     },
     {
       "added_at": "2023-11-03 23:08:22",
@@ -1087,6 +1087,22 @@
     {
       "added_at": "2023-11-03 23:08:22",
       "album": {
+        "name": "Flower of Devotion",
+        "url": "https://open.spotify.com/album/3K8xEI9zVLy7QqAHQZ4d7N"
+      },
+      "artists": [
+        {
+          "name": "Dehd",
+          "url": "https://open.spotify.com/artist/6yzuBFtT6dK2aQMZJZtcB1"
+        }
+      ],
+      "duration_ms": 177316,
+      "name": "Flood",
+      "url": "https://open.spotify.com/track/49WW6BCMjCCYt6V6UEhy4H"
+    },
+    {
+      "added_at": "2023-11-03 23:08:22",
+      "album": {
         "name": "Take Me Down (Nourished by Time Version)",
         "url": "https://open.spotify.com/album/3IixjGRUGeSJtzsA92Ybbr"
       },
@@ -1103,22 +1119,6 @@
       "duration_ms": 243387,
       "name": "Take Me Down - Nourished by Time Version",
       "url": "https://open.spotify.com/track/3biDGDnL1hdlXTHgLP3s4m"
-    },
-    {
-      "added_at": "2023-11-03 23:08:22",
-      "album": {
-        "name": "Flower of Devotion",
-        "url": "https://open.spotify.com/album/3K8xEI9zVLy7QqAHQZ4d7N"
-      },
-      "artists": [
-        {
-          "name": "Dehd",
-          "url": "https://open.spotify.com/artist/6yzuBFtT6dK2aQMZJZtcB1"
-        }
-      ],
-      "duration_ms": 177316,
-      "name": "Flood",
-      "url": "https://open.spotify.com/track/49WW6BCMjCCYt6V6UEhy4H"
     },
     {
       "added_at": "2023-11-03 23:08:22",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2023-11-03 23:08:22",
       "album": {
-        "name": "Spelling",
-        "url": "https://open.spotify.com/album/4h5jADzyNAA7MlHOpoMNoN"
-      },
-      "artists": [
-        {
-          "name": "Lolahol",
-          "url": "https://open.spotify.com/artist/1qw9DrknRpBITBeyhmeDSn"
-        }
-      ],
-      "duration_ms": 241133,
-      "name": "Spelling",
-      "url": "https://open.spotify.com/track/6pv0GmCpgk1wfRwrCD7WVt"
-    },
-    {
-      "added_at": "2023-11-03 23:08:22",
-      "album": {
         "name": "Debonair",
         "url": "https://open.spotify.com/album/1z6VwFw428tUIrrEqKktEn"
       },
@@ -1219,22 +1203,6 @@
     {
       "added_at": "2023-11-03 23:08:22",
       "album": {
-        "name": "Treat Her Strangely",
-        "url": "https://open.spotify.com/album/160v3MwjFlmnBYCFXbTxzH"
-      },
-      "artists": [
-        {
-          "name": "doubleVee",
-          "url": "https://open.spotify.com/artist/44ctaVe3os7HsW3ad0JbIt"
-        }
-      ],
-      "duration_ms": 205786,
-      "name": "Your Love Is It Real?",
-      "url": "https://open.spotify.com/track/5AGYajXy8psPb1d18TC20G"
-    },
-    {
-      "added_at": "2023-11-03 23:08:22",
-      "album": {
         "name": "Serfs Up!",
         "url": "https://open.spotify.com/album/3rCHThZSo7zO5dmmsPjTtQ"
       },
@@ -1247,6 +1215,38 @@
       "duration_ms": 342538,
       "name": "Tastes Good With The Money",
       "url": "https://open.spotify.com/track/2PVIlhwBem76mLR9qentnl"
+    },
+    {
+      "added_at": "2023-11-03 23:08:22",
+      "album": {
+        "name": "Spelling",
+        "url": "https://open.spotify.com/album/4h5jADzyNAA7MlHOpoMNoN"
+      },
+      "artists": [
+        {
+          "name": "Lolahol",
+          "url": "https://open.spotify.com/artist/1qw9DrknRpBITBeyhmeDSn"
+        }
+      ],
+      "duration_ms": 241133,
+      "name": "Spelling",
+      "url": "https://open.spotify.com/track/6pv0GmCpgk1wfRwrCD7WVt"
+    },
+    {
+      "added_at": "2023-11-03 23:08:22",
+      "album": {
+        "name": "Treat Her Strangely",
+        "url": "https://open.spotify.com/album/160v3MwjFlmnBYCFXbTxzH"
+      },
+      "artists": [
+        {
+          "name": "doubleVee",
+          "url": "https://open.spotify.com/artist/44ctaVe3os7HsW3ad0JbIt"
+        }
+      ],
+      "duration_ms": 205786,
+      "name": "Your Love Is It Real?",
+      "url": "https://open.spotify.com/track/5AGYajXy8psPb1d18TC20G"
     },
     {
       "added_at": "2023-11-03 23:08:22",
@@ -1331,6 +1331,22 @@
     {
       "added_at": "2023-11-03 23:08:22",
       "album": {
+        "name": "Double Negative",
+        "url": "https://open.spotify.com/album/0fWKkkVCj14CllpjPLjU9P"
+      },
+      "artists": [
+        {
+          "name": "Low",
+          "url": "https://open.spotify.com/artist/0wz0jO9anccPzH04N7FLBH"
+        }
+      ],
+      "duration_ms": 382674,
+      "name": "Dancing and Blood",
+      "url": "https://open.spotify.com/track/23r92m2ABmBYCjQ55hncxY"
+    },
+    {
+      "added_at": "2023-11-03 23:08:22",
+      "album": {
         "name": "Fire Leap",
         "url": "https://open.spotify.com/album/648ChSAlKMM1uPUvWjvpKr"
       },
@@ -1359,22 +1375,6 @@
     {
       "added_at": "2023-11-03 23:08:22",
       "album": {
-        "name": "Double Negative",
-        "url": "https://open.spotify.com/album/0fWKkkVCj14CllpjPLjU9P"
-      },
-      "artists": [
-        {
-          "name": "Low",
-          "url": "https://open.spotify.com/artist/0wz0jO9anccPzH04N7FLBH"
-        }
-      ],
-      "duration_ms": 382674,
-      "name": "Dancing and Blood",
-      "url": "https://open.spotify.com/track/23r92m2ABmBYCjQ55hncxY"
-    },
-    {
-      "added_at": "2023-11-03 23:08:22",
-      "album": {
         "name": "Flying Wig",
         "url": "https://open.spotify.com/album/1UGDY2YCY9kG8wMiafmTrm"
       },
@@ -1387,22 +1387,6 @@
       "duration_ms": 268659,
       "name": "Sirens",
       "url": "https://open.spotify.com/track/2Z8SlVNjMt0pWOqGYed79o"
-    },
-    {
-      "added_at": "2023-11-03 23:08:22",
-      "album": {
-        "name": "Dreamer",
-        "url": "https://open.spotify.com/album/1U0eun2BDlw7RyLomRJv0V"
-      },
-      "artists": [
-        {
-          "name": "Nabihah Iqbal",
-          "url": "https://open.spotify.com/artist/7pPOvwCq4bb2iObs8twDir"
-        }
-      ],
-      "duration_ms": 233600,
-      "name": "Dreamer",
-      "url": "https://open.spotify.com/track/4VwxfY2vOzrf0LXb4HFEvk"
     },
     {
       "added_at": "2023-11-03 23:08:22",
@@ -1439,6 +1423,22 @@
       "duration_ms": 339173,
       "name": "Deep Six Textbook",
       "url": "https://open.spotify.com/track/70NVkxI6kOjABDvRDkRLqQ"
+    },
+    {
+      "added_at": "2023-11-03 23:08:22",
+      "album": {
+        "name": "Dreamer",
+        "url": "https://open.spotify.com/album/1U0eun2BDlw7RyLomRJv0V"
+      },
+      "artists": [
+        {
+          "name": "Nabihah Iqbal",
+          "url": "https://open.spotify.com/artist/7pPOvwCq4bb2iObs8twDir"
+        }
+      ],
+      "duration_ms": 233600,
+      "name": "Dreamer",
+      "url": "https://open.spotify.com/track/4VwxfY2vOzrf0LXb4HFEvk"
     },
     {
       "added_at": "2023-11-03 23:08:22",

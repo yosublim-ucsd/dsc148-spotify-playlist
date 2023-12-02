@@ -1,12 +1,12 @@
 {
   "description": "Fuego y Pasi\u00f3n. Pasi\u00f3n Cordobesa, pasi\u00f3n Argentina. \nFoto: Abel Pintos & Luck Ra.",
-  "num_followers": 658284,
+  "num_followers": 658738,
   "original_name": "100% Cuarteto",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMTNmMWU5M2RhYmUwYTgxMzc1OTU4M2ZiNGVkNGM5MTRhZDUwNTY1",
+  "snapshot_id": "MCw5Yzg4NmY3NzAwODAxMGExNDc3YzA1ZTJmNGE5YmE3OTZmOTQwOGMx",
   "tracks": [
     {
       "added_at": "2023-11-24 03:00:00",
@@ -803,6 +803,22 @@
     {
       "added_at": "2023-11-24 03:00:00",
       "album": {
+        "name": "Te Suena?",
+        "url": "https://open.spotify.com/album/0Qz9FcH8lCWBbrZVYAiWQK"
+      },
+      "artists": [
+        {
+          "name": "Tru La La",
+          "url": "https://open.spotify.com/artist/1EsaxlwSz9CLqVRjZYnP3H"
+        }
+      ],
+      "duration_ms": 209453,
+      "name": "Mi Cama No Habla",
+      "url": "https://open.spotify.com/track/6wcnesWi7KJsghP4vP2fDb"
+    },
+    {
+      "added_at": "2023-11-24 03:00:00",
+      "album": {
         "name": "Que Agon\u00eda / Carne y Hueso",
         "url": "https://open.spotify.com/album/0238rKvgAcoYEs9ATsjn9O"
       },
@@ -819,22 +835,6 @@
       "duration_ms": 291313,
       "name": "Que Agonia - Carne y Hueso",
       "url": "https://open.spotify.com/track/58gpjoW1gjN1TzvWRU58Sm"
-    },
-    {
-      "added_at": "2023-11-24 03:00:00",
-      "album": {
-        "name": "Te Suena?",
-        "url": "https://open.spotify.com/album/0Qz9FcH8lCWBbrZVYAiWQK"
-      },
-      "artists": [
-        {
-          "name": "Tru La La",
-          "url": "https://open.spotify.com/artist/1EsaxlwSz9CLqVRjZYnP3H"
-        }
-      ],
-      "duration_ms": 209453,
-      "name": "Mi Cama No Habla",
-      "url": "https://open.spotify.com/track/6wcnesWi7KJsghP4vP2fDb"
     },
     {
       "added_at": "2023-11-24 03:00:00",
@@ -987,22 +987,18 @@
     {
       "added_at": "2023-11-24 03:00:00",
       "album": {
-        "name": "M\u00e1s",
-        "url": "https://open.spotify.com/album/6QbRKDIhCDGXo5f7Sz5m9i"
+        "name": "Tu Amante En Secreto",
+        "url": "https://open.spotify.com/album/1E4RRsJhsJKtkaFTKnDrOJ"
       },
       "artists": [
         {
-          "name": "Tru La La",
-          "url": "https://open.spotify.com/artist/1EsaxlwSz9CLqVRjZYnP3H"
-        },
-        {
-          "name": "La K'onga",
-          "url": "https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R"
+          "name": "Jean Carlos",
+          "url": "https://open.spotify.com/artist/3zkbEQouXdzjcD4cxoFuO9"
         }
       ],
-      "duration_ms": 244900,
-      "name": "M\u00e1s",
-      "url": "https://open.spotify.com/track/2QSGExkfdhQo5mj4dNjAqK"
+      "duration_ms": 224680,
+      "name": "Piensa en M\u00ed (En Vivo)",
+      "url": "https://open.spotify.com/track/6AThEqOUzeeJv6G2UPQJwK"
     },
     {
       "added_at": "2023-11-24 03:00:00",
@@ -1043,18 +1039,22 @@
     {
       "added_at": "2023-11-24 03:00:00",
       "album": {
-        "name": "Tu Amante En Secreto",
-        "url": "https://open.spotify.com/album/1E4RRsJhsJKtkaFTKnDrOJ"
+        "name": "M\u00e1s",
+        "url": "https://open.spotify.com/album/6QbRKDIhCDGXo5f7Sz5m9i"
       },
       "artists": [
         {
-          "name": "Jean Carlos",
-          "url": "https://open.spotify.com/artist/3zkbEQouXdzjcD4cxoFuO9"
+          "name": "Tru La La",
+          "url": "https://open.spotify.com/artist/1EsaxlwSz9CLqVRjZYnP3H"
+        },
+        {
+          "name": "La K'onga",
+          "url": "https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R"
         }
       ],
-      "duration_ms": 224680,
-      "name": "Piensa en M\u00ed (En Vivo)",
-      "url": "https://open.spotify.com/track/6AThEqOUzeeJv6G2UPQJwK"
+      "duration_ms": 244900,
+      "name": "M\u00e1s",
+      "url": "https://open.spotify.com/track/2QSGExkfdhQo5mj4dNjAqK"
     },
     {
       "added_at": "2023-11-24 03:00:00",
@@ -1155,6 +1155,22 @@
     {
       "added_at": "2023-11-24 03:00:00",
       "album": {
+        "name": "A Lo Largo Y A Lo Ancho",
+        "url": "https://open.spotify.com/album/2gt2L1ZqiYaTQpwVfD5f55"
+      },
+      "artists": [
+        {
+          "name": "Jean Carlos",
+          "url": "https://open.spotify.com/artist/3zkbEQouXdzjcD4cxoFuO9"
+        }
+      ],
+      "duration_ms": 230586,
+      "name": "Tu Vas a Volar",
+      "url": "https://open.spotify.com/track/5aarNSF6jcTWgC8L25kpYi"
+    },
+    {
+      "added_at": "2023-11-24 03:00:00",
+      "album": {
         "name": "A Pura Sangre",
         "url": "https://open.spotify.com/album/6F1Z5d0Hha07l3sfj2PrYh"
       },
@@ -1187,22 +1203,6 @@
       "duration_ms": 236543,
       "name": "La Mejor Version de M\u00ed (En Vivo)",
       "url": "https://open.spotify.com/track/6o3xMKoAm76DWLtoNuPhAu"
-    },
-    {
-      "added_at": "2023-11-24 03:00:00",
-      "album": {
-        "name": "A Lo Largo Y A Lo Ancho",
-        "url": "https://open.spotify.com/album/2gt2L1ZqiYaTQpwVfD5f55"
-      },
-      "artists": [
-        {
-          "name": "Jean Carlos",
-          "url": "https://open.spotify.com/artist/3zkbEQouXdzjcD4cxoFuO9"
-        }
-      ],
-      "duration_ms": 230586,
-      "name": "Tu Vas a Volar",
-      "url": "https://open.spotify.com/track/5aarNSF6jcTWgC8L25kpYi"
     },
     {
       "added_at": "2023-11-24 03:00:00",
@@ -1411,26 +1411,6 @@
     {
       "added_at": "2023-11-24 03:00:00",
       "album": {
-        "name": "Esto Se Acab\u00f3",
-        "url": "https://open.spotify.com/album/1usW30QraosvadgKpteABF"
-      },
-      "artists": [
-        {
-          "name": "DesaKTa2",
-          "url": "https://open.spotify.com/artist/3UdkBrbQWdMoMPI4XATTC0"
-        },
-        {
-          "name": "El Polaco",
-          "url": "https://open.spotify.com/artist/3ucYybVr1mTuB04HtoBDCc"
-        }
-      ],
-      "duration_ms": 199651,
-      "name": "Esto se Acab\u00f3",
-      "url": "https://open.spotify.com/track/35nkugOAny7dEuL3b3bNOf"
-    },
-    {
-      "added_at": "2023-11-24 03:00:00",
-      "album": {
         "name": "No Dire Que Si",
         "url": "https://open.spotify.com/album/6D9PhAmtEItNJZXHZHJoRj"
       },
@@ -1447,6 +1427,26 @@
       "duration_ms": 213920,
       "name": "No Dire Que Si",
       "url": "https://open.spotify.com/track/0FJIMGhZs0KgL2tiEgeYlV"
+    },
+    {
+      "added_at": "2023-11-24 03:00:00",
+      "album": {
+        "name": "Esto Se Acab\u00f3",
+        "url": "https://open.spotify.com/album/1usW30QraosvadgKpteABF"
+      },
+      "artists": [
+        {
+          "name": "DesaKTa2",
+          "url": "https://open.spotify.com/artist/3UdkBrbQWdMoMPI4XATTC0"
+        },
+        {
+          "name": "El Polaco",
+          "url": "https://open.spotify.com/artist/3ucYybVr1mTuB04HtoBDCc"
+        }
+      ],
+      "duration_ms": 199651,
+      "name": "Esto se Acab\u00f3",
+      "url": "https://open.spotify.com/track/35nkugOAny7dEuL3b3bNOf"
     },
     {
       "added_at": "2023-11-24 03:00:00",
@@ -1851,18 +1851,18 @@
     {
       "added_at": "2023-11-24 03:00:00",
       "album": {
-        "name": "Summer Pack",
-        "url": "https://open.spotify.com/album/6hbdZKUwC4l3Fee6NuxuAm"
+        "name": "La Fiesta Es de Primera",
+        "url": "https://open.spotify.com/album/72KFF6mZjbIlnO05xpT4tu"
       },
       "artists": [
         {
-          "name": "Juan Ingaramo",
-          "url": "https://open.spotify.com/artist/2XVoz4hoXgQ3C2BTGxl9V2"
+          "name": "La Fiesta",
+          "url": "https://open.spotify.com/artist/5WJWxdQGsrF1G1iX0ixLfb"
         }
       ],
-      "duration_ms": 236890,
-      "name": "Por Amarte",
-      "url": "https://open.spotify.com/track/6F5aVSame3xjIbO4bhzTsM"
+      "duration_ms": 319280,
+      "name": "Vuela (En Vivo)",
+      "url": "https://open.spotify.com/track/49nLdGkkDKFP86DGSCPfna"
     }
   ],
   "unique_name": "100% Cuarteto",

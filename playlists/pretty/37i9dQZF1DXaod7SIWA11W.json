@@ -1,12 +1,12 @@
 {
   "description": "Get lifted by the waves of faith-infused music.  Cover: <a href=\"spotify:artist:46CCmeVLrgc6MnyVpVMOzp\">Erica Campbell</a> ",
-  "num_followers": 64750,
+  "num_followers": 64866,
   "original_name": "Lifted Frequency",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YTAzMTM1NjZiMmYxNWQ0OGJiNjE0NDk1NDQ2MzhlZmUxOGJhNzM1",
+  "snapshot_id": "MCxhZDI1MjRmNGRiYTg2NTBmNWZiYjMxOTM5N2NlN2FjOTk5NjUwMGI4",
   "tracks": [
     {
       "added_at": "2023-11-02 09:06:49",
@@ -711,18 +711,22 @@
     {
       "added_at": "2023-11-02 09:06:49",
       "album": {
-        "name": "Glory Hour",
-        "url": "https://open.spotify.com/album/0P3o32VNf3DArR1I3TcSR4"
+        "name": "This I Know",
+        "url": "https://open.spotify.com/album/1KT8xnJzurscLm5UpElift"
       },
       "artists": [
         {
-          "name": "Victory",
-          "url": "https://open.spotify.com/artist/16lrbkOHEyh1SXN2FP9Xmr"
+          "name": "Eris Ford",
+          "url": "https://open.spotify.com/artist/1zZDuiPTuQzsbXPj4N58G4"
+        },
+        {
+          "name": "Evan and Eris",
+          "url": "https://open.spotify.com/artist/238va5VNKAEetJLTECq9vf"
         }
       ],
-      "duration_ms": 421320,
-      "name": "One Thing",
-      "url": "https://open.spotify.com/track/5VfQ6xXvgmm4Udi6Jf3AEk"
+      "duration_ms": 168236,
+      "name": "This I Know",
+      "url": "https://open.spotify.com/track/1Rdb8kU0idzzbLRTjj4mVv"
     },
     {
       "added_at": "2023-11-02 09:06:49",
@@ -743,26 +747,18 @@
     {
       "added_at": "2023-11-02 09:06:49",
       "album": {
-        "name": "Joy In The Morning (Remix)",
-        "url": "https://open.spotify.com/album/7Ach1ESfO3xhhhs8bOBcZp"
+        "name": "Glory Hour",
+        "url": "https://open.spotify.com/album/0P3o32VNf3DArR1I3TcSR4"
       },
       "artists": [
         {
-          "name": "Tauren Wells",
-          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
-        },
-        {
-          "name": "DOE",
-          "url": "https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW"
-        },
-        {
-          "name": "Lecrae",
-          "url": "https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW"
+          "name": "Victory",
+          "url": "https://open.spotify.com/artist/16lrbkOHEyh1SXN2FP9Xmr"
         }
       ],
-      "duration_ms": 233373,
-      "name": "Joy In The Morning - Remix",
-      "url": "https://open.spotify.com/track/0edWLFpD77Xw6wt0hJOswX"
+      "duration_ms": 421320,
+      "name": "One Thing",
+      "url": "https://open.spotify.com/track/5VfQ6xXvgmm4Udi6Jf3AEk"
     },
     {
       "added_at": "2023-11-02 09:06:49",
@@ -791,26 +787,6 @@
     {
       "added_at": "2023-11-02 09:06:49",
       "album": {
-        "name": "This I Know",
-        "url": "https://open.spotify.com/album/1KT8xnJzurscLm5UpElift"
-      },
-      "artists": [
-        {
-          "name": "Eris Ford",
-          "url": "https://open.spotify.com/artist/1zZDuiPTuQzsbXPj4N58G4"
-        },
-        {
-          "name": "Evan and Eris",
-          "url": "https://open.spotify.com/artist/238va5VNKAEetJLTECq9vf"
-        }
-      ],
-      "duration_ms": 168236,
-      "name": "This I Know",
-      "url": "https://open.spotify.com/track/1Rdb8kU0idzzbLRTjj4mVv"
-    },
-    {
-      "added_at": "2023-11-02 09:06:49",
-      "album": {
         "name": "OVER",
         "url": "https://open.spotify.com/album/7lhvGgOvFyFnVkEkIlsBTk"
       },
@@ -827,6 +803,30 @@
       "duration_ms": 162538,
       "name": "OVER",
       "url": "https://open.spotify.com/track/5vrl5DchHxFCkXWNRTZeRF"
+    },
+    {
+      "added_at": "2023-11-02 09:06:49",
+      "album": {
+        "name": "Joy In The Morning (Remix)",
+        "url": "https://open.spotify.com/album/7Ach1ESfO3xhhhs8bOBcZp"
+      },
+      "artists": [
+        {
+          "name": "Tauren Wells",
+          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
+        },
+        {
+          "name": "DOE",
+          "url": "https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW"
+        },
+        {
+          "name": "Lecrae",
+          "url": "https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW"
+        }
+      ],
+      "duration_ms": 233373,
+      "name": "Joy In The Morning - Remix",
+      "url": "https://open.spotify.com/track/0edWLFpD77Xw6wt0hJOswX"
     },
     {
       "added_at": "2023-11-02 09:06:49",
@@ -927,18 +927,18 @@
     {
       "added_at": "2023-11-02 09:06:49",
       "album": {
-        "name": "I Still Have You",
-        "url": "https://open.spotify.com/album/2de2aejtRsBb5cbnZB5Orc"
+        "name": "Way Home",
+        "url": "https://open.spotify.com/album/79EFevRLW7KIOovxgi5jTm"
       },
       "artists": [
         {
-          "name": "Smokie Norful",
-          "url": "https://open.spotify.com/artist/0sD8Amms4kSxs5tBV4CUmR"
+          "name": "Grace Tena",
+          "url": "https://open.spotify.com/artist/1W2fPbaUIDHflSKOe4S8QT"
         }
       ],
-      "duration_ms": 254208,
-      "name": "I Still Have You",
-      "url": "https://open.spotify.com/track/21ksdeytHBlKH3coDrDud9"
+      "duration_ms": 284800,
+      "name": "Way Home",
+      "url": "https://open.spotify.com/track/2ZKXBim3pDX8WTHmyFFUO6"
     },
     {
       "added_at": "2023-11-02 09:06:49",
@@ -959,18 +959,18 @@
     {
       "added_at": "2023-11-02 09:06:49",
       "album": {
-        "name": "Way Home",
-        "url": "https://open.spotify.com/album/79EFevRLW7KIOovxgi5jTm"
+        "name": "I Still Have You",
+        "url": "https://open.spotify.com/album/2de2aejtRsBb5cbnZB5Orc"
       },
       "artists": [
         {
-          "name": "Grace Tena",
-          "url": "https://open.spotify.com/artist/1W2fPbaUIDHflSKOe4S8QT"
+          "name": "Smokie Norful",
+          "url": "https://open.spotify.com/artist/0sD8Amms4kSxs5tBV4CUmR"
         }
       ],
-      "duration_ms": 284800,
-      "name": "Way Home",
-      "url": "https://open.spotify.com/track/2ZKXBim3pDX8WTHmyFFUO6"
+      "duration_ms": 254208,
+      "name": "I Still Have You",
+      "url": "https://open.spotify.com/track/21ksdeytHBlKH3coDrDud9"
     },
     {
       "added_at": "2023-11-02 09:06:49",
@@ -1115,18 +1115,18 @@
     {
       "added_at": "2023-11-02 09:06:49",
       "album": {
-        "name": "Glory",
-        "url": "https://open.spotify.com/album/0qAatrpLz8e3mTDfgehXCH"
+        "name": "Love, Evvie McKinney",
+        "url": "https://open.spotify.com/album/19TJHZlE3D6OZ6lNSYGMQb"
       },
       "artists": [
         {
-          "name": "Trip Lee",
-          "url": "https://open.spotify.com/artist/12H1Dmi64fAmmARrsyVFzy"
+          "name": "Evvie McKinney",
+          "url": "https://open.spotify.com/artist/7G7JWOsGhDMily2HtfzcIZ"
         }
       ],
-      "duration_ms": 154970,
-      "name": "Glory",
-      "url": "https://open.spotify.com/track/4srODfoVNeEl1Djn2ZAvKc"
+      "duration_ms": 230560,
+      "name": "But God",
+      "url": "https://open.spotify.com/track/2cRcWaw2Xg0RY7s5ZgrTZ3"
     },
     {
       "added_at": "2023-11-02 09:06:49",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2023-11-02 09:06:49",
       "album": {
-        "name": "Love, Evvie McKinney",
-        "url": "https://open.spotify.com/album/19TJHZlE3D6OZ6lNSYGMQb"
-      },
-      "artists": [
-        {
-          "name": "Evvie McKinney",
-          "url": "https://open.spotify.com/artist/7G7JWOsGhDMily2HtfzcIZ"
-        }
-      ],
-      "duration_ms": 230560,
-      "name": "But God",
-      "url": "https://open.spotify.com/track/2cRcWaw2Xg0RY7s5ZgrTZ3"
-    },
-    {
-      "added_at": "2023-11-02 09:06:49",
-      "album": {
         "name": "Keeper Of My Soul",
         "url": "https://open.spotify.com/album/5DbtcUFqwk0ydSUKkXsPC1"
       },
@@ -1187,18 +1171,18 @@
     {
       "added_at": "2023-11-02 09:06:49",
       "album": {
-        "name": "Positive",
-        "url": "https://open.spotify.com/album/0fDXqBt38kAOHMwRpdfmQC"
+        "name": "Glory",
+        "url": "https://open.spotify.com/album/0qAatrpLz8e3mTDfgehXCH"
       },
       "artists": [
         {
-          "name": "Erica Campbell",
-          "url": "https://open.spotify.com/artist/46CCmeVLrgc6MnyVpVMOzp"
+          "name": "Trip Lee",
+          "url": "https://open.spotify.com/artist/12H1Dmi64fAmmARrsyVFzy"
         }
       ],
-      "duration_ms": 211203,
-      "name": "Positive",
-      "url": "https://open.spotify.com/track/67LfMxyAh3vAwCR2yZPFhg"
+      "duration_ms": 154970,
+      "name": "Glory",
+      "url": "https://open.spotify.com/track/4srODfoVNeEl1Djn2ZAvKc"
     },
     {
       "added_at": "2023-11-02 09:06:49",
@@ -1227,6 +1211,22 @@
       "duration_ms": 194565,
       "name": "More On The Way (feat. nobigdyl.)",
       "url": "https://open.spotify.com/track/6ZcFR4CvTxdEjTKwgTNcg1"
+    },
+    {
+      "added_at": "2023-11-02 09:06:49",
+      "album": {
+        "name": "Positive",
+        "url": "https://open.spotify.com/album/0fDXqBt38kAOHMwRpdfmQC"
+      },
+      "artists": [
+        {
+          "name": "Erica Campbell",
+          "url": "https://open.spotify.com/artist/46CCmeVLrgc6MnyVpVMOzp"
+        }
+      ],
+      "duration_ms": 211203,
+      "name": "Positive",
+      "url": "https://open.spotify.com/track/67LfMxyAh3vAwCR2yZPFhg"
     },
     {
       "added_at": "2023-11-02 09:06:49",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2023-11-02 09:06:49",
       "album": {
-        "name": "Take Me to the Fire",
-        "url": "https://open.spotify.com/album/6dGBJgONjwN3BS3lxfmGc2"
-      },
-      "artists": [
-        {
-          "name": "Thunderstorm Artis",
-          "url": "https://open.spotify.com/artist/46G3SVc0bvgrmNOOTM5KV5"
-        }
-      ],
-      "duration_ms": 182552,
-      "name": "Take Me to the Fire",
-      "url": "https://open.spotify.com/track/7qNjvijiO9XIEnUV5hNnNk"
-    },
-    {
-      "added_at": "2023-11-02 09:06:49",
-      "album": {
         "name": "Cardio",
         "url": "https://open.spotify.com/album/5jDsJJZqCnGBoYC5lCv0yU"
       },
@@ -1307,26 +1291,6 @@
       "duration_ms": 216000,
       "name": "Cardio",
       "url": "https://open.spotify.com/track/3TFqmSj8f86nCBTTF0GjB6"
-    },
-    {
-      "added_at": "2023-11-02 09:06:49",
-      "album": {
-        "name": "Miracles (feat. Pastor Mike Jr.)",
-        "url": "https://open.spotify.com/album/33sy8ZsbmMJYER9v5Yw3xD"
-      },
-      "artists": [
-        {
-          "name": "Kierra Sheard",
-          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
-        },
-        {
-          "name": "Pastor Mike Jr.",
-          "url": "https://open.spotify.com/artist/1aNtFg4D7HdF8jOppyKpUS"
-        }
-      ],
-      "duration_ms": 358885,
-      "name": "Miracles (feat. Pastor Mike Jr.)",
-      "url": "https://open.spotify.com/track/5fATOdcoblNwc2cW4DTUok"
     },
     {
       "added_at": "2023-11-02 09:06:49",
@@ -1347,6 +1311,22 @@
     {
       "added_at": "2023-11-02 09:06:49",
       "album": {
+        "name": "Take Me to the Fire",
+        "url": "https://open.spotify.com/album/6dGBJgONjwN3BS3lxfmGc2"
+      },
+      "artists": [
+        {
+          "name": "Thunderstorm Artis",
+          "url": "https://open.spotify.com/artist/46G3SVc0bvgrmNOOTM5KV5"
+        }
+      ],
+      "duration_ms": 182552,
+      "name": "Take Me to the Fire",
+      "url": "https://open.spotify.com/track/7qNjvijiO9XIEnUV5hNnNk"
+    },
+    {
+      "added_at": "2023-11-02 09:06:49",
+      "album": {
         "name": "Ese",
         "url": "https://open.spotify.com/album/4tRwplns0Oy4hQZsoVQWdR"
       },
@@ -1359,6 +1339,26 @@
       "duration_ms": 157881,
       "name": "Ese",
       "url": "https://open.spotify.com/track/7lNo5JKa9o3Z7hFCnLoJWu"
+    },
+    {
+      "added_at": "2023-11-02 09:06:49",
+      "album": {
+        "name": "Miracles (feat. Pastor Mike Jr.)",
+        "url": "https://open.spotify.com/album/33sy8ZsbmMJYER9v5Yw3xD"
+      },
+      "artists": [
+        {
+          "name": "Kierra Sheard",
+          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
+        },
+        {
+          "name": "Pastor Mike Jr.",
+          "url": "https://open.spotify.com/artist/1aNtFg4D7HdF8jOppyKpUS"
+        }
+      ],
+      "duration_ms": 358885,
+      "name": "Miracles (feat. Pastor Mike Jr.)",
+      "url": "https://open.spotify.com/track/5fATOdcoblNwc2cW4DTUok"
     },
     {
       "added_at": "2023-11-02 09:06:49",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2023-11-02 09:06:49",
       "album": {
-        "name": "Nothing",
-        "url": "https://open.spotify.com/album/6bLyGhK2QLpi8yS3GWtRML"
-      },
-      "artists": [
-        {
-          "name": "Moses Bliss",
-          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "Nothing",
-      "url": "https://open.spotify.com/track/6BFVwjDZLLtmxaxsl1t3lP"
-    },
-    {
-      "added_at": "2023-11-02 09:06:49",
-      "album": {
         "name": "My Story",
         "url": "https://open.spotify.com/album/23AQ5yGbDMNicVmjP885QD"
       },
@@ -1447,6 +1431,22 @@
       "duration_ms": 169717,
       "name": "My Story",
       "url": "https://open.spotify.com/track/45Y0cUvEEOs1EBEdCnuMgz"
+    },
+    {
+      "added_at": "2023-11-02 09:06:49",
+      "album": {
+        "name": "Nothing",
+        "url": "https://open.spotify.com/album/6bLyGhK2QLpi8yS3GWtRML"
+      },
+      "artists": [
+        {
+          "name": "Moses Bliss",
+          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "Nothing",
+      "url": "https://open.spotify.com/track/6BFVwjDZLLtmxaxsl1t3lP"
     },
     {
       "added_at": "2023-11-02 09:06:49",
@@ -1487,6 +1487,22 @@
     {
       "added_at": "2023-11-02 09:06:49",
       "album": {
+        "name": "Motive",
+        "url": "https://open.spotify.com/album/6BwDhZVaF5BiXi9pLnP8rH"
+      },
+      "artists": [
+        {
+          "name": "Kennis Clark",
+          "url": "https://open.spotify.com/artist/3f0rz7vcRwXDBjkbBkkmSs"
+        }
+      ],
+      "duration_ms": 162500,
+      "name": "Motive",
+      "url": "https://open.spotify.com/track/3Sxbmguh06sHGiOedKYCqY"
+    },
+    {
+      "added_at": "2023-11-02 09:06:49",
+      "album": {
         "name": "Mansion",
         "url": "https://open.spotify.com/album/5M1yhftzJLwUKtj8xp06HN"
       },
@@ -1503,22 +1519,6 @@
       "duration_ms": 251490,
       "name": "Mansion",
       "url": "https://open.spotify.com/track/2b61pV5moornb1nvpPuK9N"
-    },
-    {
-      "added_at": "2023-11-02 09:06:49",
-      "album": {
-        "name": "Motive",
-        "url": "https://open.spotify.com/album/6BwDhZVaF5BiXi9pLnP8rH"
-      },
-      "artists": [
-        {
-          "name": "Kennis Clark",
-          "url": "https://open.spotify.com/artist/3f0rz7vcRwXDBjkbBkkmSs"
-        }
-      ],
-      "duration_ms": 162500,
-      "name": "Motive",
-      "url": "https://open.spotify.com/track/3Sxbmguh06sHGiOedKYCqY"
     },
     {
       "added_at": "2023-11-02 09:06:49",
@@ -1615,22 +1615,6 @@
     {
       "added_at": "2023-11-02 09:06:49",
       "album": {
-        "name": "Mr. McClure",
-        "url": "https://open.spotify.com/album/0q9anux1BAeqdaulGxibU7"
-      },
-      "artists": [
-        {
-          "name": "Pastor Mike Jr.",
-          "url": "https://open.spotify.com/artist/1aNtFg4D7HdF8jOppyKpUS"
-        }
-      ],
-      "duration_ms": 197254,
-      "name": "Mr. McClure",
-      "url": "https://open.spotify.com/track/32FopMR4tx27RZMkXmkyvV"
-    },
-    {
-      "added_at": "2023-11-02 09:06:49",
-      "album": {
         "name": "It's Alright",
         "url": "https://open.spotify.com/album/4EEMuP3WN69ObKivvZ8d5V"
       },
@@ -1643,6 +1627,22 @@
       "duration_ms": 205635,
       "name": "It's Alright",
       "url": "https://open.spotify.com/track/3INuuULY6TANh1Aov4Cxc8"
+    },
+    {
+      "added_at": "2023-11-02 09:06:49",
+      "album": {
+        "name": "Mr. McClure",
+        "url": "https://open.spotify.com/album/0q9anux1BAeqdaulGxibU7"
+      },
+      "artists": [
+        {
+          "name": "Pastor Mike Jr.",
+          "url": "https://open.spotify.com/artist/1aNtFg4D7HdF8jOppyKpUS"
+        }
+      ],
+      "duration_ms": 197254,
+      "name": "Mr. McClure",
+      "url": "https://open.spotify.com/track/32FopMR4tx27RZMkXmkyvV"
     },
     {
       "added_at": "2023-11-02 09:06:49",
@@ -1719,22 +1719,6 @@
     {
       "added_at": "2023-11-02 09:06:49",
       "album": {
-        "name": "Imprint (Live in Memphis)",
-        "url": "https://open.spotify.com/album/2J5NM9D4nvG4qyqVxRyuGk"
-      },
-      "artists": [
-        {
-          "name": "Zacardi Cortez",
-          "url": "https://open.spotify.com/artist/1e5OohAPdgqCeMq3eegvqp"
-        }
-      ],
-      "duration_ms": 570594,
-      "name": "You've Been Good To Me - Live",
-      "url": "https://open.spotify.com/track/38jmSzizGEhwJL7uZ7S6JU"
-    },
-    {
-      "added_at": "2023-11-02 09:06:49",
-      "album": {
         "name": "Take It",
         "url": "https://open.spotify.com/album/1yDiC9e4VJrVT8BA2AaGnZ"
       },
@@ -1775,6 +1759,22 @@
     {
       "added_at": "2023-11-02 09:06:49",
       "album": {
+        "name": "Imprint (Live in Memphis)",
+        "url": "https://open.spotify.com/album/2J5NM9D4nvG4qyqVxRyuGk"
+      },
+      "artists": [
+        {
+          "name": "Zacardi Cortez",
+          "url": "https://open.spotify.com/artist/1e5OohAPdgqCeMq3eegvqp"
+        }
+      ],
+      "duration_ms": 570594,
+      "name": "You've Been Good To Me - Live",
+      "url": "https://open.spotify.com/track/38jmSzizGEhwJL7uZ7S6JU"
+    },
+    {
+      "added_at": "2023-11-02 09:06:49",
+      "album": {
         "name": "Impossible",
         "url": "https://open.spotify.com/album/3j0Q2UsMetCz0GMPXnr4ai"
       },
@@ -1787,22 +1787,6 @@
       "duration_ms": 185382,
       "name": "Blak Sheep Freestyle",
       "url": "https://open.spotify.com/track/1AzvAbhRMCcebGkq6dkkx6"
-    },
-    {
-      "added_at": "2023-11-02 09:06:49",
-      "album": {
-        "name": "Won't Be Long Now",
-        "url": "https://open.spotify.com/album/6TWsl5HF5rEzq811eQOTGc"
-      },
-      "artists": [
-        {
-          "name": "Blessing Offor",
-          "url": "https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC"
-        }
-      ],
-      "duration_ms": 195541,
-      "name": "Won't Be Long Now",
-      "url": "https://open.spotify.com/track/0S26xmqTGCMH6ptrbQ8Gyd"
     },
     {
       "added_at": "2023-11-02 09:06:49",
@@ -1823,18 +1807,18 @@
     {
       "added_at": "2023-11-02 09:06:49",
       "album": {
-        "name": "The Encounter",
-        "url": "https://open.spotify.com/album/4KKKZ8MCjt719jKxJnVhtS"
+        "name": "Won't Be Long Now",
+        "url": "https://open.spotify.com/album/6TWsl5HF5rEzq811eQOTGc"
       },
       "artists": [
         {
-          "name": "Bri Babineaux",
-          "url": "https://open.spotify.com/artist/6YedxQjw8pGzw9B8owaEnF"
+          "name": "Blessing Offor",
+          "url": "https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC"
         }
       ],
-      "duration_ms": 397297,
-      "name": "Build My Life",
-      "url": "https://open.spotify.com/track/7csEy5mRiOb8ONsnjDnUkJ"
+      "duration_ms": 195541,
+      "name": "Won't Be Long Now",
+      "url": "https://open.spotify.com/track/0S26xmqTGCMH6ptrbQ8Gyd"
     },
     {
       "added_at": "2023-11-02 09:06:49",
@@ -1867,6 +1851,22 @@
       "duration_ms": 222315,
       "name": "Sunrise 2 Sunset",
       "url": "https://open.spotify.com/track/7EJOV089sJE935qHobWmxA"
+    },
+    {
+      "added_at": "2023-11-02 09:06:49",
+      "album": {
+        "name": "The Encounter",
+        "url": "https://open.spotify.com/album/4KKKZ8MCjt719jKxJnVhtS"
+      },
+      "artists": [
+        {
+          "name": "Bri Babineaux",
+          "url": "https://open.spotify.com/artist/6YedxQjw8pGzw9B8owaEnF"
+        }
+      ],
+      "duration_ms": 397297,
+      "name": "Build My Life",
+      "url": "https://open.spotify.com/track/7csEy5mRiOb8ONsnjDnUkJ"
     }
   ],
   "unique_name": "Lifted Frequency",

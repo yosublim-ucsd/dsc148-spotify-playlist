@@ -1,12 +1,12 @@
 {
   "description": "Find the path back to an era of enlightenment.",
-  "num_followers": 80831,
+  "num_followers": 80885,
   "original_name": "Early New Age",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNjU3ZWI0MjM1NjJkZTZiOTJlNjdjNGQ4OGEwMmFkMmFjMDA5NWU2",
+  "snapshot_id": "MCwzYWVlZDU3MDIyYmFiNjYyYTI0Yjk2YjdiZGIxNjA3MDdjOGIyYWVm",
   "tracks": [
     {
       "added_at": "2023-08-18 14:02:54",
@@ -91,6 +91,26 @@
     {
       "added_at": "2023-08-18 14:02:54",
       "album": {
+        "name": "Desert Vision",
+        "url": "https://open.spotify.com/album/77Dd8lk7HjusgSRJi0zwPy"
+      },
+      "artists": [
+        {
+          "name": "David Lanz",
+          "url": "https://open.spotify.com/artist/4A4X3dAnue0OcKTt9J5A9c"
+        },
+        {
+          "name": "Paul Speer",
+          "url": "https://open.spotify.com/artist/2VUPYdEFwt0kuKadgXhpRe"
+        }
+      ],
+      "duration_ms": 210600,
+      "name": "Desert Rain",
+      "url": "https://open.spotify.com/track/5wz4ls3Rik7XSKTgdNvFDn"
+    },
+    {
+      "added_at": "2023-08-18 14:02:54",
+      "album": {
         "name": "Down to the Moon",
         "url": "https://open.spotify.com/album/2DM9WPZiokvkAm4Y7xqXjF"
       },
@@ -123,26 +143,6 @@
       "duration_ms": 147240,
       "name": "Down to the Moon",
       "url": "https://open.spotify.com/track/6dsBkD1XP9EswRcUN0pOqN"
-    },
-    {
-      "added_at": "2023-08-18 14:02:54",
-      "album": {
-        "name": "Desert Vision",
-        "url": "https://open.spotify.com/album/77Dd8lk7HjusgSRJi0zwPy"
-      },
-      "artists": [
-        {
-          "name": "David Lanz",
-          "url": "https://open.spotify.com/artist/4A4X3dAnue0OcKTt9J5A9c"
-        },
-        {
-          "name": "Paul Speer",
-          "url": "https://open.spotify.com/artist/2VUPYdEFwt0kuKadgXhpRe"
-        }
-      ],
-      "duration_ms": 210600,
-      "name": "Desert Rain",
-      "url": "https://open.spotify.com/track/5wz4ls3Rik7XSKTgdNvFDn"
     },
     {
       "added_at": "2023-08-18 14:02:54",
@@ -247,30 +247,6 @@
     {
       "added_at": "2023-08-18 14:02:54",
       "album": {
-        "name": "Behind the Gardens, Behind the Wall, Under the Tree...",
-        "url": "https://open.spotify.com/album/1wDxqZZTnQNubYdiNKor9k"
-      },
-      "artists": [
-        {
-          "name": "Andreas Vollenweider",
-          "url": "https://open.spotify.com/artist/7MynOMOTsGz8NFcPUImWAp"
-        },
-        {
-          "name": "Walter Keiser",
-          "url": "https://open.spotify.com/artist/3LfEGh0Nwxa7mJ79Q1kTkX"
-        },
-        {
-          "name": "Pedro Haldemann",
-          "url": "https://open.spotify.com/artist/5hvDMqDnlZLm5opdeqgkE2"
-        }
-      ],
-      "duration_ms": 440440,
-      "name": "Behind the Gardens, Behind the Wall, Under the Tree...",
-      "url": "https://open.spotify.com/track/5mB5bx5TTaxawgHXbNhLtO"
-    },
-    {
-      "added_at": "2023-08-18 14:02:54",
-      "album": {
         "name": "Natural States",
         "url": "https://open.spotify.com/album/3HyH82W2IiahIKXnLXpg3K"
       },
@@ -307,6 +283,30 @@
       "duration_ms": 351533,
       "name": "Clair de Lune, No. 3",
       "url": "https://open.spotify.com/track/7cwPQGHgob1v9pek8WnQRx"
+    },
+    {
+      "added_at": "2023-08-18 14:02:54",
+      "album": {
+        "name": "Behind the Gardens, Behind the Wall, Under the Tree...",
+        "url": "https://open.spotify.com/album/1wDxqZZTnQNubYdiNKor9k"
+      },
+      "artists": [
+        {
+          "name": "Andreas Vollenweider",
+          "url": "https://open.spotify.com/artist/7MynOMOTsGz8NFcPUImWAp"
+        },
+        {
+          "name": "Walter Keiser",
+          "url": "https://open.spotify.com/artist/3LfEGh0Nwxa7mJ79Q1kTkX"
+        },
+        {
+          "name": "Pedro Haldemann",
+          "url": "https://open.spotify.com/artist/5hvDMqDnlZLm5opdeqgkE2"
+        }
+      ],
+      "duration_ms": 440440,
+      "name": "Behind the Gardens, Behind the Wall, Under the Tree...",
+      "url": "https://open.spotify.com/track/5mB5bx5TTaxawgHXbNhLtO"
     },
     {
       "added_at": "2023-08-18 14:02:54",
@@ -379,30 +379,6 @@
       "duration_ms": 196733,
       "name": "Oxygene, Pt. 3",
       "url": "https://open.spotify.com/track/2A1Xj74FRxsLuD2cloaCKO"
-    },
-    {
-      "added_at": "2023-08-18 14:02:54",
-      "album": {
-        "name": "White Winds (Seeker's Journey)",
-        "url": "https://open.spotify.com/album/3wrWgRYqBkpE5gE6Csl5FN"
-      },
-      "artists": [
-        {
-          "name": "Andreas Vollenweider",
-          "url": "https://open.spotify.com/artist/7MynOMOTsGz8NFcPUImWAp"
-        },
-        {
-          "name": "Walter Keiser",
-          "url": "https://open.spotify.com/artist/3LfEGh0Nwxa7mJ79Q1kTkX"
-        },
-        {
-          "name": "Pedro Haldemann",
-          "url": "https://open.spotify.com/artist/5hvDMqDnlZLm5opdeqgkE2"
-        }
-      ],
-      "duration_ms": 217933,
-      "name": "Flight Feet and Root Hands",
-      "url": "https://open.spotify.com/track/64iGkQy5fe5gKVTpIvPtOX"
     },
     {
       "added_at": "2023-08-18 14:02:54",
@@ -491,6 +467,30 @@
     {
       "added_at": "2023-08-18 14:02:54",
       "album": {
+        "name": "White Winds (Seeker's Journey)",
+        "url": "https://open.spotify.com/album/3wrWgRYqBkpE5gE6Csl5FN"
+      },
+      "artists": [
+        {
+          "name": "Andreas Vollenweider",
+          "url": "https://open.spotify.com/artist/7MynOMOTsGz8NFcPUImWAp"
+        },
+        {
+          "name": "Walter Keiser",
+          "url": "https://open.spotify.com/artist/3LfEGh0Nwxa7mJ79Q1kTkX"
+        },
+        {
+          "name": "Pedro Haldemann",
+          "url": "https://open.spotify.com/artist/5hvDMqDnlZLm5opdeqgkE2"
+        }
+      ],
+      "duration_ms": 217933,
+      "name": "Flight Feet and Root Hands",
+      "url": "https://open.spotify.com/track/64iGkQy5fe5gKVTpIvPtOX"
+    },
+    {
+      "added_at": "2023-08-18 14:02:54",
+      "album": {
         "name": "Albedo 0.39",
         "url": "https://open.spotify.com/album/7M2EhhKnJYcmluPNzmB35N"
       },
@@ -523,50 +523,6 @@
     {
       "added_at": "2023-08-18 14:02:54",
       "album": {
-        "name": "Caverna Magica (...Under The Tree - In The Cave...)",
-        "url": "https://open.spotify.com/album/6RL8XkIxNFhMEwXeiNepu4"
-      },
-      "artists": [
-        {
-          "name": "Andreas Vollenweider",
-          "url": "https://open.spotify.com/artist/7MynOMOTsGz8NFcPUImWAp"
-        },
-        {
-          "name": "Walter Keiser",
-          "url": "https://open.spotify.com/artist/3LfEGh0Nwxa7mJ79Q1kTkX"
-        },
-        {
-          "name": "Pedro Haldemann",
-          "url": "https://open.spotify.com/artist/5hvDMqDnlZLm5opdeqgkE2"
-        },
-        {
-          "name": "Corin Curschellas",
-          "url": "https://open.spotify.com/artist/6C4K00EeKEHDbezeRiEL4o"
-        }
-      ],
-      "duration_ms": 320493,
-      "name": "Belladonna",
-      "url": "https://open.spotify.com/track/1YQENHyvQPW2NZ9buace7G"
-    },
-    {
-      "added_at": "2023-08-18 14:02:54",
-      "album": {
-        "name": "Wolkenreise II",
-        "url": "https://open.spotify.com/album/0z4VCxSxe0oe5o4Zbz0RqM"
-      },
-      "artists": [
-        {
-          "name": "Eroc",
-          "url": "https://open.spotify.com/artist/7cRkblZrsjG5oxg9JKwZC4"
-        }
-      ],
-      "duration_ms": 272346,
-      "name": "Wolkenreise - 2012 Remastered Version",
-      "url": "https://open.spotify.com/track/299qULtMwzvUiUIfLyWArc"
-    },
-    {
-      "added_at": "2023-08-18 14:02:54",
-      "album": {
         "name": "Island",
         "url": "https://open.spotify.com/album/7FKNk8OPsuVSlAx9sBXtZr"
       },
@@ -583,6 +539,22 @@
       "duration_ms": 288333,
       "name": "Carnation Lily Lily Rose",
       "url": "https://open.spotify.com/track/41SpUaJByH1FIxiYeZUmSi"
+    },
+    {
+      "added_at": "2023-08-18 14:02:54",
+      "album": {
+        "name": "Wolkenreise II",
+        "url": "https://open.spotify.com/album/0z4VCxSxe0oe5o4Zbz0RqM"
+      },
+      "artists": [
+        {
+          "name": "Eroc",
+          "url": "https://open.spotify.com/artist/7cRkblZrsjG5oxg9JKwZC4"
+        }
+      ],
+      "duration_ms": 272346,
+      "name": "Wolkenreise - 2012 Remastered Version",
+      "url": "https://open.spotify.com/track/299qULtMwzvUiUIfLyWArc"
     },
     {
       "added_at": "2023-08-18 14:02:54",
@@ -655,6 +627,22 @@
     {
       "added_at": "2023-08-18 14:02:54",
       "album": {
+        "name": "Keys To Imagination",
+        "url": "https://open.spotify.com/album/6dMdlfK0kNBcJhadkzPO3n"
+      },
+      "artists": [
+        {
+          "name": "Yanni",
+          "url": "https://open.spotify.com/artist/72qxDp6R6v22pai96pZioz"
+        }
+      ],
+      "duration_ms": 314333,
+      "name": "Keys To Imagination",
+      "url": "https://open.spotify.com/track/55by06Lzd2VamPqPrSiPZl"
+    },
+    {
+      "added_at": "2023-08-18 14:02:54",
+      "album": {
         "name": "Spiral",
         "url": "https://open.spotify.com/album/6Tz3gRyPvHv8eDT5RZ2xXX"
       },
@@ -667,6 +655,34 @@
       "duration_ms": 546106,
       "name": "To the Unknown Man",
       "url": "https://open.spotify.com/track/0024tEymsoc9FyKUauQngQ"
+    },
+    {
+      "added_at": "2023-08-18 14:02:54",
+      "album": {
+        "name": "Caverna Magica (...Under The Tree - In The Cave...)",
+        "url": "https://open.spotify.com/album/6RL8XkIxNFhMEwXeiNepu4"
+      },
+      "artists": [
+        {
+          "name": "Andreas Vollenweider",
+          "url": "https://open.spotify.com/artist/7MynOMOTsGz8NFcPUImWAp"
+        },
+        {
+          "name": "Walter Keiser",
+          "url": "https://open.spotify.com/artist/3LfEGh0Nwxa7mJ79Q1kTkX"
+        },
+        {
+          "name": "Pedro Haldemann",
+          "url": "https://open.spotify.com/artist/5hvDMqDnlZLm5opdeqgkE2"
+        },
+        {
+          "name": "Corin Curschellas",
+          "url": "https://open.spotify.com/artist/6C4K00EeKEHDbezeRiEL4o"
+        }
+      ],
+      "duration_ms": 320493,
+      "name": "Belladonna",
+      "url": "https://open.spotify.com/track/1YQENHyvQPW2NZ9buace7G"
     },
     {
       "added_at": "2023-08-18 14:02:54",
@@ -687,18 +703,18 @@
     {
       "added_at": "2023-08-18 14:02:54",
       "album": {
-        "name": "Keys To Imagination",
-        "url": "https://open.spotify.com/album/6dMdlfK0kNBcJhadkzPO3n"
+        "name": "Blackouts",
+        "url": "https://open.spotify.com/album/140BMrMHrJKORgGdutEFde"
       },
       "artists": [
         {
-          "name": "Yanni",
-          "url": "https://open.spotify.com/artist/72qxDp6R6v22pai96pZioz"
+          "name": "Ashra",
+          "url": "https://open.spotify.com/artist/4qzIpmopZ2KVodpmw7uJKe"
         }
       ],
-      "duration_ms": 314333,
-      "name": "Keys To Imagination",
-      "url": "https://open.spotify.com/track/55by06Lzd2VamPqPrSiPZl"
+      "duration_ms": 410666,
+      "name": "77 Slightly Delayed",
+      "url": "https://open.spotify.com/track/1TmlYsvU6XoXn0Bs6p5CNC"
     },
     {
       "added_at": "2023-08-18 14:02:54",
@@ -719,18 +735,34 @@
     {
       "added_at": "2023-08-18 14:02:54",
       "album": {
-        "name": "Blackouts",
-        "url": "https://open.spotify.com/album/140BMrMHrJKORgGdutEFde"
+        "name": "Phaedra (Deluxe Version)",
+        "url": "https://open.spotify.com/album/6wugThEUTAa6BdI2hsqm5n"
       },
       "artists": [
         {
-          "name": "Ashra",
-          "url": "https://open.spotify.com/artist/4qzIpmopZ2KVodpmw7uJKe"
+          "name": "Tangerine Dream",
+          "url": "https://open.spotify.com/artist/1BGN1IdyiSR0ZYrkoKNchl"
         }
       ],
-      "duration_ms": 410666,
-      "name": "77 Slightly Delayed",
-      "url": "https://open.spotify.com/track/1TmlYsvU6XoXn0Bs6p5CNC"
+      "duration_ms": 477322,
+      "name": "Movements Of A Visionary - Remastered 2018",
+      "url": "https://open.spotify.com/track/76lbYpKnn31T0nnRs5AZXs"
+    },
+    {
+      "added_at": "2023-08-18 14:02:54",
+      "album": {
+        "name": "A Rainbow Path",
+        "url": "https://open.spotify.com/album/02DfyYuGqvXbVw5KcCcdqY"
+      },
+      "artists": [
+        {
+          "name": "Kay Gardner",
+          "url": "https://open.spotify.com/artist/2oF8YcqibVMuuSPLwSmEQ3"
+        }
+      ],
+      "duration_ms": 377200,
+      "name": "See My Wings Shining: Brow / 3rd Eye Chakra",
+      "url": "https://open.spotify.com/track/55QGndKaKmUFSLGejUj6k1"
     },
     {
       "added_at": "2023-08-18 14:02:54",
@@ -763,38 +795,6 @@
       "duration_ms": 206146,
       "name": "Crystal Cathedral - (Bonus Version) (Remastered)",
       "url": "https://open.spotify.com/track/3dojpUxqqqaUry2FPd6iWq"
-    },
-    {
-      "added_at": "2023-08-18 14:02:54",
-      "album": {
-        "name": "A Rainbow Path",
-        "url": "https://open.spotify.com/album/02DfyYuGqvXbVw5KcCcdqY"
-      },
-      "artists": [
-        {
-          "name": "Kay Gardner",
-          "url": "https://open.spotify.com/artist/2oF8YcqibVMuuSPLwSmEQ3"
-        }
-      ],
-      "duration_ms": 377200,
-      "name": "See My Wings Shining: Brow / 3rd Eye Chakra",
-      "url": "https://open.spotify.com/track/55QGndKaKmUFSLGejUj6k1"
-    },
-    {
-      "added_at": "2023-08-18 14:02:54",
-      "album": {
-        "name": "Phaedra (Deluxe Version)",
-        "url": "https://open.spotify.com/album/6wugThEUTAa6BdI2hsqm5n"
-      },
-      "artists": [
-        {
-          "name": "Tangerine Dream",
-          "url": "https://open.spotify.com/artist/1BGN1IdyiSR0ZYrkoKNchl"
-        }
-      ],
-      "duration_ms": 477322,
-      "name": "Movements Of A Visionary - Remastered 2018",
-      "url": "https://open.spotify.com/track/76lbYpKnn31T0nnRs5AZXs"
     },
     {
       "added_at": "2023-08-18 14:02:54",
@@ -883,22 +883,6 @@
     {
       "added_at": "2023-08-18 14:02:54",
       "album": {
-        "name": "Valley In The Clouds",
-        "url": "https://open.spotify.com/album/1iGU0qo9ux9uEJslDdHM3S"
-      },
-      "artists": [
-        {
-          "name": "David Arkenstone",
-          "url": "https://open.spotify.com/artist/21Uejbf0dmBe3tEOUhWWt0"
-        }
-      ],
-      "duration_ms": 215666,
-      "name": "Valley In The Clouds",
-      "url": "https://open.spotify.com/track/7HWWIxRF76VDkYE6gltmCs"
-    },
-    {
-      "added_at": "2023-08-18 14:02:54",
-      "album": {
         "name": "Mooncircles",
         "url": "https://open.spotify.com/album/5sL2xScjNONX3p8dBmgohk"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 90253,
       "name": "Inner Mood I",
       "url": "https://open.spotify.com/track/50Opcju39X1H46RK8Whe9A"
+    },
+    {
+      "added_at": "2023-08-18 14:02:54",
+      "album": {
+        "name": "Valley In The Clouds",
+        "url": "https://open.spotify.com/album/1iGU0qo9ux9uEJslDdHM3S"
+      },
+      "artists": [
+        {
+          "name": "David Arkenstone",
+          "url": "https://open.spotify.com/artist/21Uejbf0dmBe3tEOUhWWt0"
+        }
+      ],
+      "duration_ms": 215666,
+      "name": "Valley In The Clouds",
+      "url": "https://open.spotify.com/track/7HWWIxRF76VDkYE6gltmCs"
     },
     {
       "added_at": "2023-08-18 14:02:54",
@@ -979,22 +979,6 @@
     {
       "added_at": "2023-08-18 14:02:54",
       "album": {
-        "name": "Valley In The Clouds",
-        "url": "https://open.spotify.com/album/1iGU0qo9ux9uEJslDdHM3S"
-      },
-      "artists": [
-        {
-          "name": "David Arkenstone",
-          "url": "https://open.spotify.com/artist/21Uejbf0dmBe3tEOUhWWt0"
-        }
-      ],
-      "duration_ms": 225626,
-      "name": "Stepping Stars",
-      "url": "https://open.spotify.com/track/75MXJxeq3YutNAiSV8UXHd"
-    },
-    {
-      "added_at": "2023-08-18 14:02:54",
-      "album": {
         "name": "Passage",
         "url": "https://open.spotify.com/album/6g0mQNCdaaKBhwt9vGBckB"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 754103,
       "name": "Prism",
       "url": "https://open.spotify.com/track/5R5UMzC5qCkpCB6Q8ZMaFK"
+    },
+    {
+      "added_at": "2023-08-18 14:02:54",
+      "album": {
+        "name": "I Am the Center: Private Issue New Age Music in America, 1950-1990",
+        "url": "https://open.spotify.com/album/5J6elnQWSwhzzD6Zo6QZso"
+      },
+      "artists": [
+        {
+          "name": "Judith Tripp",
+          "url": "https://open.spotify.com/artist/39UAWS8qdun7e7RxOOioOJ"
+        }
+      ],
+      "duration_ms": 399560,
+      "name": "Li Sun",
+      "url": "https://open.spotify.com/track/3q7kVeMpz0lbcpBo0Qk2hr"
     },
     {
       "added_at": "2023-08-18 14:02:54",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2023-08-18 14:02:54",
       "album": {
-        "name": "I Am the Center: Private Issue New Age Music in America, 1950-1990",
-        "url": "https://open.spotify.com/album/5J6elnQWSwhzzD6Zo6QZso"
-      },
-      "artists": [
-        {
-          "name": "Judith Tripp",
-          "url": "https://open.spotify.com/artist/39UAWS8qdun7e7RxOOioOJ"
-        }
-      ],
-      "duration_ms": 399560,
-      "name": "Li Sun",
-      "url": "https://open.spotify.com/track/3q7kVeMpz0lbcpBo0Qk2hr"
-    },
-    {
-      "added_at": "2023-08-18 14:02:54",
-      "album": {
         "name": "Ki",
         "url": "https://open.spotify.com/album/3ctES7AdFJN5fbxs331VP9"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 418666,
       "name": "Chi",
       "url": "https://open.spotify.com/track/3kqSsqFv7wOY0yzR1pnXld"
+    },
+    {
+      "added_at": "2023-08-18 14:02:54",
+      "album": {
+        "name": "Valley In The Clouds",
+        "url": "https://open.spotify.com/album/1iGU0qo9ux9uEJslDdHM3S"
+      },
+      "artists": [
+        {
+          "name": "David Arkenstone",
+          "url": "https://open.spotify.com/artist/21Uejbf0dmBe3tEOUhWWt0"
+        }
+      ],
+      "duration_ms": 225626,
+      "name": "Stepping Stars",
+      "url": "https://open.spotify.com/track/75MXJxeq3YutNAiSV8UXHd"
     },
     {
       "added_at": "2023-08-18 14:02:54",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2023-08-18 14:02:54",
       "album": {
-        "name": "Sands of Time: Selected Studio & Concert Recordings 1974-1990",
-        "url": "https://open.spotify.com/album/4B9rJo0KUUVkWkyCeb7hpI"
-      },
-      "artists": [
-        {
-          "name": "Deuter",
-          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
-        }
-      ],
-      "duration_ms": 455333,
-      "name": "Alchemy",
-      "url": "https://open.spotify.com/track/6rOvoAtGJrlHavLh73Vgsu"
-    },
-    {
-      "added_at": "2023-08-18 14:02:54",
-      "album": {
         "name": "Fresh Aire I",
         "url": "https://open.spotify.com/album/3hL31GvqVxkVBORWWv8ufu"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 153706,
       "name": "Interlude II",
       "url": "https://open.spotify.com/track/74fBQYF9lWbnUq5xDWHzAf"
+    },
+    {
+      "added_at": "2023-08-18 14:02:54",
+      "album": {
+        "name": "Sands of Time: Selected Studio & Concert Recordings 1974-1990",
+        "url": "https://open.spotify.com/album/4B9rJo0KUUVkWkyCeb7hpI"
+      },
+      "artists": [
+        {
+          "name": "Deuter",
+          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
+        }
+      ],
+      "duration_ms": 455333,
+      "name": "Alchemy",
+      "url": "https://open.spotify.com/track/6rOvoAtGJrlHavLh73Vgsu"
     },
     {
       "added_at": "2023-08-18 14:02:54",
@@ -1371,6 +1371,22 @@
     {
       "added_at": "2023-08-18 14:02:54",
       "album": {
+        "name": "Ages",
+        "url": "https://open.spotify.com/album/1qJneJpWOOFSWUQckJZSaX"
+      },
+      "artists": [
+        {
+          "name": "Edgar Froese",
+          "url": "https://open.spotify.com/artist/2XP4UvuJoUxBIjO95l8Mlr"
+        }
+      ],
+      "duration_ms": 672226,
+      "name": "Metropolis",
+      "url": "https://open.spotify.com/track/1a1yDt54OpU4uvEcdIACac"
+    },
+    {
+      "added_at": "2023-08-18 14:02:54",
+      "album": {
         "name": "Meditation",
         "url": "https://open.spotify.com/album/0JSDPdBfLDLbKSbdSwS9ND"
       },
@@ -1387,22 +1403,6 @@
       "duration_ms": 720426,
       "name": "Silmarillion",
       "url": "https://open.spotify.com/track/04L2aKI6v8tNHhvxTGjtYE"
-    },
-    {
-      "added_at": "2023-08-18 14:02:54",
-      "album": {
-        "name": "Ages",
-        "url": "https://open.spotify.com/album/1qJneJpWOOFSWUQckJZSaX"
-      },
-      "artists": [
-        {
-          "name": "Edgar Froese",
-          "url": "https://open.spotify.com/artist/2XP4UvuJoUxBIjO95l8Mlr"
-        }
-      ],
-      "duration_ms": 672226,
-      "name": "Metropolis",
-      "url": "https://open.spotify.com/track/1a1yDt54OpU4uvEcdIACac"
     },
     {
       "added_at": "2023-08-18 14:02:54",
@@ -1563,6 +1563,22 @@
     {
       "added_at": "2023-08-18 14:02:54",
       "album": {
+        "name": "Procession",
+        "url": "https://open.spotify.com/album/6s8wTtA4phZHStyUIKmSt3"
+      },
+      "artists": [
+        {
+          "name": "Bernard Xolotl",
+          "url": "https://open.spotify.com/artist/1zPW8LJCZtjOljaZ6Fba1e"
+        }
+      ],
+      "duration_ms": 447000,
+      "name": "Procession",
+      "url": "https://open.spotify.com/track/0cHRNVH8Uo7CJL9QbPaZZB"
+    },
+    {
+      "added_at": "2023-08-18 14:02:54",
+      "album": {
         "name": "Glide/Star Gazer",
         "url": "https://open.spotify.com/album/2Rk837DGOC1KWlqBHjWz9K"
       },
@@ -1595,22 +1611,6 @@
     {
       "added_at": "2023-08-18 14:02:54",
       "album": {
-        "name": "Procession",
-        "url": "https://open.spotify.com/album/6s8wTtA4phZHStyUIKmSt3"
-      },
-      "artists": [
-        {
-          "name": "Bernard Xolotl",
-          "url": "https://open.spotify.com/artist/1zPW8LJCZtjOljaZ6Fba1e"
-        }
-      ],
-      "duration_ms": 447000,
-      "name": "Procession",
-      "url": "https://open.spotify.com/track/0cHRNVH8Uo7CJL9QbPaZZB"
-    },
-    {
-      "added_at": "2023-08-18 14:02:54",
-      "album": {
         "name": "A Rainbow Path",
         "url": "https://open.spotify.com/album/02DfyYuGqvXbVw5KcCcdqY"
       },
@@ -1627,6 +1627,22 @@
     {
       "added_at": "2023-08-18 14:02:54",
       "album": {
+        "name": "Collected Ambient & Textural Works 1977-1987",
+        "url": "https://open.spotify.com/album/0qTBGDCJp6R5BraUlhZlXq"
+      },
+      "artists": [
+        {
+          "name": "Michael Stearns",
+          "url": "https://open.spotify.com/artist/5KbIofwaAvbvvkzG2zbmGD"
+        }
+      ],
+      "duration_ms": 553800,
+      "name": "Elysian E",
+      "url": "https://open.spotify.com/track/27o1KeP2TefIvslGU9N2vQ"
+    },
+    {
+      "added_at": "2023-08-18 14:02:54",
+      "album": {
         "name": "Inter-Dimensional Music",
         "url": "https://open.spotify.com/album/59hWFsFOPOrXQMeTiXYGLr"
       },
@@ -1639,22 +1655,6 @@
       "duration_ms": 200080,
       "name": "Crystal Petals",
       "url": "https://open.spotify.com/track/58FEt2axLMIzvw6LtGZAZP"
-    },
-    {
-      "added_at": "2023-08-18 14:02:54",
-      "album": {
-        "name": "Soul Jazz Records Presents Space, Energy & Light: Experimental Electronic and Acoustic Soundscapes 1961-88",
-        "url": "https://open.spotify.com/album/4klqR6x6zW58RaW1y2ffSI"
-      },
-      "artists": [
-        {
-          "name": "Michael Stearns",
-          "url": "https://open.spotify.com/artist/5KbIofwaAvbvvkzG2zbmGD"
-        }
-      ],
-      "duration_ms": 481320,
-      "name": "In the Beginning",
-      "url": "https://open.spotify.com/track/1bHEqY4jyrGA1S4cC61scR"
     },
     {
       "added_at": "2023-08-18 14:02:54",

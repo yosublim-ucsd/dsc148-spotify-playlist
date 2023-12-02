@@ -4521,6 +4521,28 @@
     },
     {
       "album": {
+        "name": "I'm On Fire - Spotify Singles",
+        "url": "https://open.spotify.com/album/6Oe8Xx4xBMAAfPYisJZKKV"
+      },
+      "artists": [
+        {
+          "name": "Ian Munsick",
+          "url": "https://open.spotify.com/artist/7HjGPPtdNuHcK8crc7iNkn"
+        },
+        {
+          "name": "Riaan Benad\u00e9",
+          "url": "https://open.spotify.com/artist/7aijVRJ1wOqmLs6NucdtB7"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209586,
+      "name": "I'm On Fire - Spotify Singles",
+      "url": "https://open.spotify.com/track/68B1wXoTamV83njf2kLTmf"
+    },
+    {
+      "album": {
         "name": "P.S.",
         "url": "https://open.spotify.com/album/5HLVKjqh4u4a3NQhnxpz7i"
       },
@@ -9227,6 +9249,24 @@
     },
     {
       "album": {
+        "name": "Take Me Home, Country Roads",
+        "url": "https://open.spotify.com/album/5qDjtBY8cC4bO6wytuGOuT"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166676,
+      "name": "Take Me Home, Country Roads",
+      "url": "https://open.spotify.com/track/7qF0FfuzBFwMe1lNHkEDxW"
+    },
+    {
+      "album": {
         "name": "Take Me Out",
         "url": "https://open.spotify.com/album/6sJh3uH5blwXur99LVe2pQ"
       },
@@ -9556,7 +9596,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 177186,
       "name": "The Whiskey's Gone",
       "url": "https://open.spotify.com/track/1zSpONTt43MyPpw53vdfj2"
@@ -11412,7 +11452,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 180243,
       "name": "You're Still The One - Frank Walker Remix",
       "url": "https://open.spotify.com/track/78Rs4n8DEwaRh7CWeEySx5"

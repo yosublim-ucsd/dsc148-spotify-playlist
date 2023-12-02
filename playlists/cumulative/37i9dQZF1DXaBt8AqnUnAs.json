@@ -677,6 +677,32 @@
     },
     {
       "album": {
+        "name": "X Sem Peita (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/1JRsmSpxvmTiLD0tRdN9nz"
+      },
+      "artists": [
+        {
+          "name": "X Sem Peita",
+          "url": "https://open.spotify.com/artist/082vDMJAfkNZ3U13mjBYfY"
+        },
+        {
+          "name": "Chris MC",
+          "url": "https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY"
+        },
+        {
+          "name": "Luiz Brazil",
+          "url": "https://open.spotify.com/artist/4eVBI7aLNfxuynEDNki3wk"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131792,
+      "name": "Baby (Ac\u00fastico)",
+      "url": "https://open.spotify.com/track/2F2xRCvqBX064cb3sRzcjV"
+    },
+    {
+      "album": {
         "name": "BABY ME PEDE",
         "url": "https://open.spotify.com/album/0fxn3QRwIeAuxisw1Ng5jd"
       },
@@ -4438,7 +4464,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 221000,
       "name": "Louvre",
       "url": "https://open.spotify.com/track/3i6fLGNvs9r890mlKSystr"
@@ -4880,7 +4906,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 154285,
       "name": "ME APAIXONEI",
       "url": "https://open.spotify.com/track/4tenWkHTe3xPxhLefIghq5"
@@ -7502,6 +7528,32 @@
       "duration_ms": 128695,
       "name": "Romance de Novela",
       "url": "https://open.spotify.com/track/2fAp5BE5huI9De9vKFRMMx"
+    },
+    {
+      "album": {
+        "name": "Romance Fict\u00edcio",
+        "url": "https://open.spotify.com/album/42Q8CqejonHYPwJQkkNdfQ"
+      },
+      "artists": [
+        {
+          "name": "Lumi",
+          "url": "https://open.spotify.com/artist/06iLSWbv5uKVc6s8ofQPPi"
+        },
+        {
+          "name": "Thiago Kelbert",
+          "url": "https://open.spotify.com/artist/22kCWlXVaiBMYozPgHQhZM"
+        },
+        {
+          "name": "TheSaint",
+          "url": "https://open.spotify.com/artist/3opzNnMAbvtgVNV48G89oN"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129106,
+      "name": "Romance Fict\u00edcio",
+      "url": "https://open.spotify.com/track/5PJ7A3un9ZKtrCpMafh9D4"
     },
     {
       "album": {

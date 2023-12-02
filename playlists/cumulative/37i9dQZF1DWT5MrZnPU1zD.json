@@ -1520,7 +1520,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 159967,
       "name": "Balenciaga (with Fetty Wap & Lisa Mishra)",
       "url": "https://open.spotify.com/track/4QcZf0vBaw42ScHzEkxh5g"
@@ -2224,7 +2224,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 134344,
       "name": "Blick",
       "url": "https://open.spotify.com/track/0ZCfZ4o34HQiFvJAW7HyG6"
@@ -2380,7 +2380,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-25",
+      "date_removed": null,
       "duration_ms": 114036,
       "name": "Brand New Blues",
       "url": "https://open.spotify.com/track/6dGN5ani0pYe40kfS3wNcx"
@@ -3310,6 +3310,28 @@
       "duration_ms": 173269,
       "name": "CLEAR",
       "url": "https://open.spotify.com/track/3mVq27OXpmeldieDWOP2gx"
+    },
+    {
+      "album": {
+        "name": "THE BIGGEST",
+        "url": "https://open.spotify.com/album/2EZ8JL3dtb54VXi3k6E7k6"
+      },
+      "artists": [
+        {
+          "name": "BigXthaPlug",
+          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
+        },
+        {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170106,
+      "name": "Climate (feat. Offset)",
+      "url": "https://open.spotify.com/track/1c7MITQmNJTrvfbDSzWT6x"
     },
     {
       "album": {
@@ -6902,7 +6924,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-30",
+      "date_removed": null,
       "duration_ms": 173913,
       "name": "Heavy",
       "url": "https://open.spotify.com/track/43pjKTwerf0zk3WSj1TE7I"
@@ -7686,7 +7708,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 163696,
       "name": "I love freaks (Sexyy\u2019s Version)",
       "url": "https://open.spotify.com/track/4SC64uYq1eUnWhYbahqK6y"
@@ -10953,6 +10975,28 @@
     },
     {
       "album": {
+        "name": "Never Lose Me (feat. Lil Yachty)",
+        "url": "https://open.spotify.com/album/1W5CMjNWdlKdfOqLMuHV2w"
+      },
+      "artists": [
+        {
+          "name": "Flo Milli",
+          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
+        },
+        {
+          "name": "Lil Yachty",
+          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165245,
+      "name": "Never Lose Me (feat. Lil Yachty)",
+      "url": "https://open.spotify.com/track/2lXQX3uhFHRYGBE6xR3tic"
+    },
+    {
+      "album": {
         "name": "Never Sleep",
         "url": "https://open.spotify.com/album/4DTaEd8bTR412zUcBqv2VN"
       },
@@ -11012,7 +11056,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 162413,
       "name": "Nice to meet you (feat. Central Cee)",
       "url": "https://open.spotify.com/track/1jLVSavLHTeEixX6CIxqQR"
@@ -13747,6 +13791,24 @@
     },
     {
       "album": {
+        "name": "Running Late",
+        "url": "https://open.spotify.com/album/1zNusgtKW9KGyCBsd2NMpq"
+      },
+      "artists": [
+        {
+          "name": "KARRAHBOOO",
+          "url": "https://open.spotify.com/artist/3vXXs7JjWfPO0YHhDnj4SP"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127137,
+      "name": "Running Late",
+      "url": "https://open.spotify.com/track/1CwnEKPRLebumbHmZ3yZly"
+    },
+    {
+      "album": {
         "name": "Sad & Alone",
         "url": "https://open.spotify.com/album/4N4Y9kPh3kC3Ijb4Aa591Q"
       },
@@ -14922,7 +14984,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 140514,
       "name": "SPLASH BROTHERS",
       "url": "https://open.spotify.com/track/7GG5ykoATKxV9MjddEEpMz"
@@ -15496,6 +15558,32 @@
       "duration_ms": 102857,
       "name": "SUPERSTAR",
       "url": "https://open.spotify.com/track/2iJjs5CPZCgsAY368q23OA"
+    },
+    {
+      "album": {
+        "name": "The Forever Story (Extended Version)",
+        "url": "https://open.spotify.com/album/4rJDCELWL0fjdmN9Gn4f4g"
+      },
+      "artists": [
+        {
+          "name": "JID",
+          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        },
+        {
+          "name": "Baby Tate",
+          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229938,
+      "name": "Surround Sound (feat. 21 Savage & Baby Tate)",
+      "url": "https://open.spotify.com/track/1udwFobQ1JoOdWPQrp2b6u"
     },
     {
       "album": {
@@ -17266,7 +17354,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 139943,
       "name": "Westfield Galleria",
       "url": "https://open.spotify.com/track/2XBhKYKd5kMtKLi1xVPNUt"

@@ -4,7 +4,7 @@
 
 > The biggest Christmas songs of all time.
 
-216 songs - 11 hr 33 min
+217 songs - 11 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [A Holly Jolly Christmas](https://open.spotify.com/track/25ZZFXh8j7299tDrcRFXZv) | [Burl Ives](https://open.spotify.com/artist/0MHgLfmQdutffmvWe5XBTN) | [Cosy Christmas Tunes](https://open.spotify.com/album/7IrygJtjkpJj6z7lWm0vAr) | 2:13 | 2022-10-27 | 2022-11-13 |
 | [A Holly Jolly Christmas](https://open.spotify.com/track/77khP2fIVhSW23NwxrRluh) | [Burl Ives](https://open.spotify.com/artist/0MHgLfmQdutffmvWe5XBTN) | [Have A Holly Jolly Christmas](https://open.spotify.com/album/6MvKUOSuPdfH0WLeQjR3eR) | 2:15 | 2022-06-01 |  |
 | [A Holly Jolly Christmas \- Single Version](https://open.spotify.com/track/6XzpeMXDvLC86GvAfnUsIA) | [Burl Ives](https://open.spotify.com/artist/0MHgLfmQdutffmvWe5XBTN) | [Christmas Eve](https://open.spotify.com/album/4m8qezLhqm4sLy2lCxCATH) | 2:13 | 2021-12-16 | 2022-07-29 |
+| [A Nonsense Christmas](https://open.spotify.com/track/73ye7F9Ub51dQ3CrnCHFhr) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [fruitcake](https://open.spotify.com/album/7EisdwWcodpmHxgpGVE5Pg) | 2:33 | 2023-12-01 |  |
 | [All I Want \(For Christmas\)](https://open.spotify.com/track/7lbto9KYTHq5V1PetjIMOF) | [Liam Payne](https://open.spotify.com/artist/5pUo3fmmHT8bhCyHE52hA6) | [All I Want \(For Christmas\)](https://open.spotify.com/album/6hM2ulYVBbQiYDlEgliSaM) | 3:01 | 2021-12-16 | 2023-10-17 |
 | [All I Want for Christmas Is You](https://open.spotify.com/track/0bYg9bo50gSsH3LtXe2SQn) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Merry Christmas](https://open.spotify.com/album/61ulfFSmmxMhc2wCdmdMkN) | 4:01 | 2021-12-16 |  |
 | [Baby It's Cold Outside \(with Michael Bublé\)](https://open.spotify.com/track/0Ie5uiv54KgCr7P4sYDTHl) | [Idina Menzel](https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR), [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Holiday Wishes](https://open.spotify.com/album/0EGX5qfw6VEPOMoCUFJFHl) | 2:46 | 2021-12-16 |  |
@@ -54,7 +55,7 @@
 | [Frosty The Snowman](https://open.spotify.com/track/65irrLqfCMRiO3p87P4C0D) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Ella Wishes You A Swinging Christmas \(Expanded Edition\)](https://open.spotify.com/album/2UhPCUgK2IGUrg7lIvMYfb) | 2:11 | 2022-06-01 |  |
 | [Frosty The Snowman](https://open.spotify.com/track/6MPpnJDLk37GEIM0iGGITd) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Christmas](https://open.spotify.com/album/3cfRNKKs0by89V5C1uPDm3) | 2:13 | 2021-12-16 | 2022-07-29 |
 | [God Rest Ye Merry Gentlemen](https://open.spotify.com/track/02ibK22WhjAVzKBm7da7lm) | [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53) | [A Pentatonix Christmas Deluxe](https://open.spotify.com/album/3sId8sOH47yqOWopzbEtJn) | 2:29 | 2022-11-16 | 2022-12-03 |
-| [Grown\-Up Christmas List](https://open.spotify.com/track/1h9QQ7e222OSr93MRiMqGZ) | [Jordan Smith](https://open.spotify.com/artist/6TV0LZ3BaEun0OQEh96elP) | ['Tis The Season](https://open.spotify.com/album/15q3oOSeIVFQeAtwKWiWcn) | 3:31 | 2021-12-16 |  |
+| [Grown\-Up Christmas List](https://open.spotify.com/track/1h9QQ7e222OSr93MRiMqGZ) | [Jordan Smith](https://open.spotify.com/artist/6TV0LZ3BaEun0OQEh96elP) | ['Tis The Season](https://open.spotify.com/album/15q3oOSeIVFQeAtwKWiWcn) | 3:31 | 2021-12-16 | 2023-12-02 |
 | [Hallelujah](https://open.spotify.com/track/0HZk0QsXPhMNAWNDR3rYE8) | [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53) | [A Pentatonix Christmas Deluxe](https://open.spotify.com/album/3sId8sOH47yqOWopzbEtJn) | 4:28 | 2023-10-27 |  |
 | [Happy Xmas \(War Is Over\)](https://open.spotify.com/track/2ohR9Qj4TgZafZCptO9cly) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [These are Special Times](https://open.spotify.com/album/5k27z7TrQn2O0mKMoiwHzN) | 4:14 | 2022-06-01 |  |
 | [Happy Xmas \(War Is Over\)](https://open.spotify.com/track/4M3K1gnHJnE3cIrAcKZQr3) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [These Are Special Times](https://open.spotify.com/album/32MpBKgfq3OJWbqEFcTwWP) | 4:14 | 2021-12-16 | 2022-07-29 |

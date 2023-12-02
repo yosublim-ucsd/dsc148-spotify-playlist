@@ -4,7 +4,7 @@
 
 > Get your kids in the holiday spirit with this collection of Hanukkah tracks!
 
-46 songs - 2 hr 5 min
+48 songs - 2 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [Dreidel, Dreidel, Dreidel](https://open.spotify.com/track/2nJ7khC20N59Oo5gTALYHv) | [The Wiggles](https://open.spotify.com/artist/2JY5qzEozvTdogkDTkkOMf) | [Let's Eat!](https://open.spotify.com/album/4g7Q9tZW8LxneGkMTSQAWO) | 1:01 | 2022-12-13 |  |
 | [Feast of Lights](https://open.spotify.com/track/3EsiksrSSBmEuanX0WzD8X) | [They Might Be Giants](https://open.spotify.com/artist/6zB02lwP6L6ZH32nggQiJT) | [Holidayland](https://open.spotify.com/album/4bvXrtNvwSeuthHvMqR16Z) | 2:36 | 2022-12-13 |  |
 | [Five Little Latkes](https://open.spotify.com/track/2SDVRSq3vCDYa0cJnaADpB) | [Shira Kline](https://open.spotify.com/artist/6ep4Az6YtBXK0Qf6uknKQO) | [ShirLaLa Chanukah!](https://open.spotify.com/album/2h1Yy4sUMmKFsvs7H2WezR) | 1:51 | 2022-12-13 |  |
+| [Gimme a Gimel](https://open.spotify.com/track/7MUArkgGtdx50X1cdhrwP8) | [Bop Shabbat](https://open.spotify.com/artist/0PSRkQbWI0iF2AEFUIj7sr) | [Bop Hanukkah](https://open.spotify.com/album/1CaoInzHFKbR3CdWRuGHA2) | 1:57 | 2023-12-01 |  |
 | [Hanukkah Dance](https://open.spotify.com/track/0jgXTyAUSOLZh8JQb3wMGG) | [Watkins Family Hour](https://open.spotify.com/artist/6zoDxs0nnHuD3dKmi7xIIj) | [Hanukkah+](https://open.spotify.com/album/75tzhQxgxrZkqfIb4fE5rT) | 1:54 | 2022-12-13 |  |
 | [Hanukkah Dance \- Live](https://open.spotify.com/track/2Fgf3Y0wQv8Wm43nSb3h3B) | [Nefesh Mountain](https://open.spotify.com/artist/4JpW8a54yD77lNQAyis8EL) | [Live From Levon Helm Studios: A Hanukkah Holiday Concert](https://open.spotify.com/album/1J2KDHB5lLW91g6WJu8AG6) | 4:30 | 2022-12-13 |  |
 | [Hanukkah Medley](https://open.spotify.com/track/6dwS0GqDNVYJxzLXdR8Oz1) | [Julia Lester](https://open.spotify.com/artist/5aTwY2xyrJy4cS1jlFg1oG) | [High School Musical: The Musical: The Holiday Special \(Original Soundtrack\)](https://open.spotify.com/album/389VFKfgX6qu3L25ctkEFj) | 2:16 | 2022-12-13 |  |
@@ -47,6 +48,7 @@
 | [Matzoh Ball \(Don't Kick It\)](https://open.spotify.com/track/2tSaa9gdESyloY0ERcKesA) | [The Macaroons](https://open.spotify.com/artist/1AZTxBWb4pVLX7ODoWv3qd) | [Let's Go Coconuts!](https://open.spotify.com/album/2bEILkxVU6voGQcapZg7qs) | 2:25 | 2022-12-13 |  |
 | [My Dreidel](https://open.spotify.com/track/2V2N5i0GKSVqddS4kRPHxb) | [Barney](https://open.spotify.com/artist/4rB5wLJLaXdMrXaYsOYLmK) | [Happy Holidays Love, Barney](https://open.spotify.com/album/7vDEOl7V1HOt6k6Z5knqrT) | 1:09 | 2022-12-13 |  |
 | [Nine Little Candles](https://open.spotify.com/track/3yG9MIe4s0oDE4LHxiXROD) | [The Kiboomers](https://open.spotify.com/artist/1qKLikeNYpQFSsDAjg7HpI) | [Hanukkah Songs for Preschool & Kindergarten](https://open.spotify.com/album/1eIq16SWteejKSvRtKFWIt) | 1:56 | 2022-12-13 |  |
+| [O Hanukkah](https://open.spotify.com/track/0uMc6Pp9v3p0mntW0jm9qb) | [Mother Goose Club](https://open.spotify.com/artist/6h76MLMaPUoWVPC7VnEw86) | [O Hanukkah](https://open.spotify.com/album/3QlAmVcl07y8hDjdeezsWG) | 3:23 | 2023-12-01 |  |
 | [Oh Chanukah/Oy Chanike!](https://open.spotify.com/track/694YBZq7tN49PHOPZ6Yf4w) | [Shira Kline](https://open.spotify.com/artist/6ep4Az6YtBXK0Qf6uknKQO) | [ShirLaLa Chanukah!](https://open.spotify.com/album/2h1Yy4sUMmKFsvs7H2WezR) | 2:17 | 2022-12-13 |  |
 | [Oh Hanukkah](https://open.spotify.com/track/5ec60jot43VDKVDSyXGwaT) | [Jack Black](https://open.spotify.com/artist/0qpMYTgbXRi1ZcX6vend3T) | [Hanukkah+](https://open.spotify.com/album/75tzhQxgxrZkqfIb4fE5rT) | 1:55 | 2022-12-13 |  |
 | [Oh Hanukkah](https://open.spotify.com/track/1vK4S0PCGyPGpykjy1te2d) | [Maccabeats](https://open.spotify.com/artist/2plllpJj0sU7FsdZrn8EHq) | [A Maccabeats Hanukkah](https://open.spotify.com/album/4uhCOOmk62FJOMqMCzL1No) | 1:03 | 2022-12-13 |  |

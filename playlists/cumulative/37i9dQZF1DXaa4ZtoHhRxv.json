@@ -3425,6 +3425,28 @@
     },
     {
       "album": {
+        "name": "This Town's Been Too Good To Us (VAVO Remix)",
+        "url": "https://open.spotify.com/album/15NlctqXysjYS5fFGACncz"
+      },
+      "artists": [
+        {
+          "name": "Dylan Scott",
+          "url": "https://open.spotify.com/artist/78YqeIji3mgAS2K1Maca6x"
+        },
+        {
+          "name": "VAVO",
+          "url": "https://open.spotify.com/artist/44re77WwNG34C182Jq3WIK"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164000,
+      "name": "This Town's Been Too Good To Us (VAVO Remix)",
+      "url": "https://open.spotify.com/track/5hSJLszS7QUMQbVT3cwfEo"
+    },
+    {
+      "album": {
         "name": "Throw It Back (feat. Keith Urban)",
         "url": "https://open.spotify.com/album/56rScV2lFznLUGxqYYwUpo"
       },

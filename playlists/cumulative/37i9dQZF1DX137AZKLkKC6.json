@@ -205,6 +205,28 @@
     },
     {
       "album": {
+        "name": "ALCH SI",
+        "url": "https://open.spotify.com/album/7rCPyUIciqYswpRXTa1JYc"
+      },
+      "artists": [
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        },
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153953,
+      "name": "ALCH SI",
+      "url": "https://open.spotify.com/track/5cWgwbui8BasfjCXvBZ7UA"
+    },
+    {
+      "album": {
         "name": "Alguien M\u00e1s (Versi\u00f3n Regional)",
         "url": "https://open.spotify.com/album/6e6r99qv7LJue8WVljNOqk"
       },
@@ -220,7 +242,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 136125,
       "name": "Alguien M\u00e1s - Versi\u00f3n Regional",
       "url": "https://open.spotify.com/track/3Br6gkQqhN4obEhaucA7Sh"
@@ -638,7 +660,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 189208,
       "name": "Como Si Nada",
       "url": "https://open.spotify.com/track/6fxct5RZKGNgRMcXULezMW"
@@ -1972,7 +1994,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 156640,
       "name": "Lo Que No Sirve, Estorba",
       "url": "https://open.spotify.com/track/5kDmZruM2jWU1A8A0o1EmN"
@@ -3033,6 +3055,32 @@
     },
     {
       "album": {
+        "name": "Qu\u00e9 Pensaste",
+        "url": "https://open.spotify.com/album/1375E6oaMeXeSJM7Y0zWes"
+      },
+      "artists": [
+        {
+          "name": "Grupo Dominio",
+          "url": "https://open.spotify.com/artist/3AIAbiLXeCSSSqYqo8zMAi"
+        },
+        {
+          "name": "Jessi Uribe",
+          "url": "https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS"
+        },
+        {
+          "name": "Paola Jara",
+          "url": "https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200232,
+      "name": "Qu\u00e9 Pensaste",
+      "url": "https://open.spotify.com/track/1qde1NqHQno17MdNziaYmN"
+    },
+    {
+      "album": {
         "name": "Qu\u00e9date",
         "url": "https://open.spotify.com/album/6Jf2rqjSUSC6dYTwks1g9n"
       },
@@ -3204,7 +3252,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 180748,
       "name": "Si Dios Perdona",
       "url": "https://open.spotify.com/track/1RtvzGGRmDnATLCd3HrTFT"
@@ -3374,6 +3422,28 @@
       "duration_ms": 183491,
       "name": "Te Extra\u00f1o",
       "url": "https://open.spotify.com/track/41r4Bi95vksuMFgKx9yftT"
+    },
+    {
+      "album": {
+        "name": "1 1 1",
+        "url": "https://open.spotify.com/album/3AROvUBUe1mMAauVt73kRF"
+      },
+      "artists": [
+        {
+          "name": "Milo j",
+          "url": "https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3"
+        },
+        {
+          "name": "Yahritza Y Su Esencia",
+          "url": "https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153153,
+      "name": "TE FUI A SEGUIR",
+      "url": "https://open.spotify.com/track/2vRmz7wDDxRY4zPSzwEmIT"
     },
     {
       "album": {
@@ -3772,6 +3842,32 @@
       "duration_ms": 198985,
       "name": "Yo Se Cuando Miente",
       "url": "https://open.spotify.com/track/5l0DvSZ4nFtPoAgb05qW8v"
+    },
+    {
+      "album": {
+        "name": "\u00bfCulpa de Qui\u00e9n? (Remix)",
+        "url": "https://open.spotify.com/album/6p1oBzyenswryLUPHYeyXA"
+      },
+      "artists": [
+        {
+          "name": "Yohan Usuga",
+          "url": "https://open.spotify.com/artist/5XZHGnpHe7zHUjbZSlgIhJ"
+        },
+        {
+          "name": "Zion Hwang",
+          "url": "https://open.spotify.com/artist/6YcBooN3MXDrt8UL5DLQnZ"
+        },
+        {
+          "name": "Jessi Uribe",
+          "url": "https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173437,
+      "name": "\u00bfCulpa de Qui\u00e9n? (Remix)",
+      "url": "https://open.spotify.com/track/5zRc8LYoCkrBp8ryT2iN60"
     },
     {
       "album": {

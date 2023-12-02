@@ -1,12 +1,12 @@
 {
   "description": "Horns up for this metal soundtrack for headbangers of all ages!",
-  "num_followers": 91226,
+  "num_followers": 91381,
   "original_name": "Raised on Metal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMmMyYzI4ZjZlNTg1OTViZDczOTBhZGYzZGQ3YzA1Y2NjZTU3MzIw",
+  "snapshot_id": "MCw1NTUwODYxM2RjMjRkM2RiMzI4MjYyY2I0ZjcwNGM0YTZkNTc4NWU3",
   "tracks": [
     {
       "added_at": "2021-04-20 17:47:58",
@@ -251,22 +251,6 @@
     {
       "added_at": "2021-04-20 17:47:58",
       "album": {
-        "name": "Stay Hungry",
-        "url": "https://open.spotify.com/album/0dzqapIToiOhULGvzDKpXm"
-      },
-      "artists": [
-        {
-          "name": "Twisted Sister",
-          "url": "https://open.spotify.com/artist/7b85ve82Sh36a3UAx74wut"
-        }
-      ],
-      "duration_ms": 219666,
-      "name": "We're Not Gonna Take It",
-      "url": "https://open.spotify.com/track/1hlveB9M6ijHZRbzZ2teyh"
-    },
-    {
-      "added_at": "2021-04-20 17:47:58",
-      "album": {
         "name": "British Steel",
         "url": "https://open.spotify.com/album/5bqtZRbUZUxUps8mrO9tGY"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 153840,
       "name": "Breaking the Law",
       "url": "https://open.spotify.com/track/2RaA6kIcvomt77qlIgGhCT"
+    },
+    {
+      "added_at": "2021-04-20 17:47:58",
+      "album": {
+        "name": "Stay Hungry",
+        "url": "https://open.spotify.com/album/0dzqapIToiOhULGvzDKpXm"
+      },
+      "artists": [
+        {
+          "name": "Twisted Sister",
+          "url": "https://open.spotify.com/artist/7b85ve82Sh36a3UAx74wut"
+        }
+      ],
+      "duration_ms": 219666,
+      "name": "We're Not Gonna Take It",
+      "url": "https://open.spotify.com/track/1hlveB9M6ijHZRbzZ2teyh"
     },
     {
       "added_at": "2022-01-10 20:58:36",
@@ -297,22 +297,6 @@
       "url": "https://open.spotify.com/track/54bm2e3tk8cliUz3VSdCPZ"
     },
     {
-      "added_at": "2022-01-10 20:57:20",
-      "album": {
-        "name": "City of Evil",
-        "url": "https://open.spotify.com/album/55tK4Ab7XHTOKkw0xDz3AA"
-      },
-      "artists": [
-        {
-          "name": "Avenged Sevenfold",
-          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
-        }
-      ],
-      "duration_ms": 311813,
-      "name": "Bat Country",
-      "url": "https://open.spotify.com/track/3sHH7lklbfpcraDDvYnjo7"
-    },
-    {
       "added_at": "2021-04-20 17:47:58",
       "album": {
         "name": "Ace of Spades (Expanded Edition)",
@@ -327,6 +311,22 @@
       "duration_ms": 168320,
       "name": "Ace of Spades",
       "url": "https://open.spotify.com/track/3CIOopLwvyMvXk97ZEksKO"
+    },
+    {
+      "added_at": "2022-01-10 20:57:20",
+      "album": {
+        "name": "City of Evil",
+        "url": "https://open.spotify.com/album/55tK4Ab7XHTOKkw0xDz3AA"
+      },
+      "artists": [
+        {
+          "name": "Avenged Sevenfold",
+          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
+        }
+      ],
+      "duration_ms": 311813,
+      "name": "Bat Country",
+      "url": "https://open.spotify.com/track/3sHH7lklbfpcraDDvYnjo7"
     },
     {
       "added_at": "2021-04-20 17:47:58",
@@ -763,22 +763,6 @@
     {
       "added_at": "2021-04-20 17:47:58",
       "album": {
-        "name": "Billion Dollar Babies (Deluxe Reissue)",
-        "url": "https://open.spotify.com/album/4SlY4oyiPg6At7vyouZ7ep"
-      },
-      "artists": [
-        {
-          "name": "Alice Cooper",
-          "url": "https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS"
-        }
-      ],
-      "duration_ms": 187893,
-      "name": "No More Mr. Nice Guy",
-      "url": "https://open.spotify.com/track/5D2eCwqbHcqOnfHOCM6TnV"
-    },
-    {
-      "added_at": "2021-04-20 17:47:58",
-      "album": {
         "name": "Piece of Mind (2015 Remaster)",
         "url": "https://open.spotify.com/album/0wza6LbioNIj4FsDAIDz66"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 252733,
       "name": "The Trooper (2015 Remaster)",
       "url": "https://open.spotify.com/track/2C3B3dva983HPMojFqWLOp"
+    },
+    {
+      "added_at": "2021-04-20 17:47:58",
+      "album": {
+        "name": "Billion Dollar Babies (Deluxe Reissue)",
+        "url": "https://open.spotify.com/album/4SlY4oyiPg6At7vyouZ7ep"
+      },
+      "artists": [
+        {
+          "name": "Alice Cooper",
+          "url": "https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS"
+        }
+      ],
+      "duration_ms": 187893,
+      "name": "No More Mr. Nice Guy",
+      "url": "https://open.spotify.com/track/5D2eCwqbHcqOnfHOCM6TnV"
     },
     {
       "added_at": "2021-04-20 17:47:58",

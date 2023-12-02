@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">Dance music</a> for the heart <3
 
-1,226 songs - 2 day 23 hr 35 min
+1,227 songs - 2 day 23 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -237,6 +237,7 @@
 | [Crazy For Your Love](https://open.spotify.com/track/64yfxsO3tdPRx0y7eYOfm3) | [Tough Love](https://open.spotify.com/artist/16KSSLMXOdKQ2MHt9bOHTG) | [Crazy For Your Love](https://open.spotify.com/album/0VYNlfiqPIzFhhQ2aYg0Zm) | 2:46 | 2021-01-16 | 2021-09-25 |
 | [Crazy Love](https://open.spotify.com/track/6jQXpMHQNaGGFE03wRDiUM) | [Toby Romeo](https://open.spotify.com/artist/2XnY6NZ6rENbLMYabjkRey), [Leony](https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC) | [Crazy Love](https://open.spotify.com/album/0nFUcnT6Kdx9BWoM3RKAxh) | 3:06 | 2022-06-24 | 2022-12-03 |
 | [Crush](https://open.spotify.com/track/1qpMpd6otkEvU1X8o4rN54) | [Cannons](https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B) | [Crush](https://open.spotify.com/album/34uN9whtj0faUPaF9jrbDV) | 3:01 | 2023-10-13 |  |
+| [Cynical](https://open.spotify.com/track/0K44WSIFl2unqJEwKuLXGo) | [twocolors](https://open.spotify.com/artist/7ACEUD7UsmmXrnj4OLt8f9), [Safri Duo](https://open.spotify.com/artist/2UOx6w3eHpPKc3RBnNV3Rl), [Chris de Sarandy](https://open.spotify.com/artist/3xAB6KlDT1mrv1y74c3H3X) | [Cynical \(MistaJam Remix\)](https://open.spotify.com/album/5RSGGM4NroRRL5xU9Ow9qD) | 3:11 | 2023-12-01 |  |
 | [Cynical](https://open.spotify.com/track/2grS8y9w2vVp7sDJ3RnSx9) | [twocolors](https://open.spotify.com/artist/7ACEUD7UsmmXrnj4OLt8f9), [Safri Duo](https://open.spotify.com/artist/2UOx6w3eHpPKc3RBnNV3Rl), [Chris de Sarandy](https://open.spotify.com/artist/3xAB6KlDT1mrv1y74c3H3X) | [Cynical](https://open.spotify.com/album/2FSVbytdzBlR6SBT4AFewv) | 3:11 | 2023-06-30 | 2023-12-01 |
 | [Daisies](https://open.spotify.com/track/67k9neQm9nlnMnejMpRXSN) | [yetep](https://open.spotify.com/artist/20lmiQy576CSBPz0VJHmnC), [Olmos](https://open.spotify.com/artist/60cVbnHVILVFAO7tl3crPV) | [Daisies](https://open.spotify.com/album/37kDHVg9VwJgW5fbKkwzls) | 3:39 | 2022-07-08 | 2023-06-17 |
 | [Damage Each Other](https://open.spotify.com/track/6qKsaUc35vHfvlmPO0RAoK) | [Steve Brian](https://open.spotify.com/artist/4xSQ9zt3zGyyiCXazv4mhf), [Danni Baylor](https://open.spotify.com/artist/0c5oNauHHagLlEYpVVqMCK) | [Damage Each Other](https://open.spotify.com/album/6Ufe2rk8heTiontZ4dfWB0) | 3:24 | 2020-10-30 | 2021-09-25 |
@@ -1004,7 +1005,7 @@
 | [Take](https://open.spotify.com/track/07HrxwZqh0R2QGg0mABuYA) | [Echos](https://open.spotify.com/artist/6SnMMbLQ4iS8WIyt3ksmCR) | [Echos](https://open.spotify.com/album/0IMs2SyGSyl3fVRtFNeQdx) | 3:16 | 2019-08-09\* | 2019-09-14 |
 | [Take A Chance](https://open.spotify.com/track/75Nq7k2qnyeOlXIOiJ56HN) | [Rebecca & Fiona](https://open.spotify.com/artist/6rgEPiKjowlMKZC1DF6W75) | [Greatest Tits](https://open.spotify.com/album/3NV7lasFnUDfE4ZMvYKwQx) | 4:24 | 2023-06-30 | 2023-07-19 |
 | [Take A Chance On Me](https://open.spotify.com/track/6KJBwR1yrqviwL31XRpu3n) | [Rebecca & Fiona](https://open.spotify.com/artist/6rgEPiKjowlMKZC1DF6W75) | [Greatest Tits](https://open.spotify.com/album/3yZSOcz06tt6XFh5sWGnkI) | 4:24 | 2023-07-14 |  |
-| [Take Me Somewhere](https://open.spotify.com/track/6Qmalh6imfMxJAiO6HjiZh) | [Drove](https://open.spotify.com/artist/6gqVaWZY9PVt1Lf42j4sZI) | [Take Me Somewhere](https://open.spotify.com/album/5AyOo0oZOQmoDrU8dqyiNp) | 3:14 | 2023-08-11 |  |
+| [Take Me Somewhere](https://open.spotify.com/track/6Qmalh6imfMxJAiO6HjiZh) | [Drove](https://open.spotify.com/artist/6gqVaWZY9PVt1Lf42j4sZI) | [Take Me Somewhere](https://open.spotify.com/album/5AyOo0oZOQmoDrU8dqyiNp) | 3:14 | 2023-08-11 | 2023-12-02 |
 | [Take Me There](https://open.spotify.com/track/6cirkf76kYPUsdzQfjAFRw) | [Conro](https://open.spotify.com/artist/1BAdSa5cdtCNLbvT7gWmtJ) | [Take Me There](https://open.spotify.com/album/1u4DytoOvqrGjqVMfemZyY) | 4:28 | 2019-08-09\* | 2019-09-14 |
 | [Take Me To The Sunshine \(feat\. BullySongs\)](https://open.spotify.com/track/4peF3yGZAZfeOFDahi6Ig5) | [Matoma](https://open.spotify.com/artist/4YXycRbyyAE0wozTk7QMEq), [SUPER\-Hi](https://open.spotify.com/artist/2lJ6K4PTrrweXhRiqh1CZE), [BullySongs](https://open.spotify.com/artist/5YMqwPmb7ViNXM63g1MUH5) | [Take Me To The Sunshine \(feat\. BullySongs\)](https://open.spotify.com/album/20AY41HrcfdjRmHSpLLSgd) | 2:57 | 2022-02-04 |  |
 | [Take My Chance](https://open.spotify.com/track/3uD3HzG6tO8lWUIKtJKcxA) | [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9) | [Take My Chance](https://open.spotify.com/album/3xaAySZDsBeu2k12tDaLsZ) | 3:18 | 2023-11-17 |  |

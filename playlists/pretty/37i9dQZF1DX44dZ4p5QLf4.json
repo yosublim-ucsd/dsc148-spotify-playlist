@@ -1,13 +1,29 @@
 {
   "description": "A blend of new songs and artists in the soul space. Cover: vAn",
-  "num_followers": 477452,
+  "num_followers": 477472,
   "original_name": "Next Wave Soul",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMmUwNGU5ZGM5MmVlOTYzYjUyNTE1NDI5MDdkZWUxY2Q4YTg2MmU4",
+  "snapshot_id": "MCxjZTI4OWQ0YTZlMWZkZjg1MDlmMGQ5NDhmZTdmYjQwZmNlMjEyMDMx",
   "tracks": [
+    {
+      "added_at": "2023-11-16 23:20:05",
+      "album": {
+        "name": "Get Close",
+        "url": "https://open.spotify.com/album/75636FX5iYEcgCrLqcBtXr"
+      },
+      "artists": [
+        {
+          "name": "Ari Lennox",
+          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
+        }
+      ],
+      "duration_ms": 171218,
+      "name": "Get Close",
+      "url": "https://open.spotify.com/track/0Ani0foia32xeSDE2MdHWM"
+    },
     {
       "added_at": "2023-11-16 23:20:05",
       "album": {
@@ -63,22 +79,6 @@
       "duration_ms": 218732,
       "name": "SHIMMER",
       "url": "https://open.spotify.com/track/21PNdcOg9gWRsvfko3in1Q"
-    },
-    {
-      "added_at": "2023-11-16 23:20:05",
-      "album": {
-        "name": "Get Close",
-        "url": "https://open.spotify.com/album/75636FX5iYEcgCrLqcBtXr"
-      },
-      "artists": [
-        {
-          "name": "Ari Lennox",
-          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
-        }
-      ],
-      "duration_ms": 171218,
-      "name": "Get Close",
-      "url": "https://open.spotify.com/track/0Ani0foia32xeSDE2MdHWM"
     },
     {
       "added_at": "2023-11-16 23:20:05",

@@ -4,7 +4,7 @@
 
 > Lean back, close your eyes, and relax.
 
-295 songs - 13 hr 49 min
+296 songs - 13 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,6 +109,7 @@
 | [Gouldian Finch](https://open.spotify.com/track/1Zldb4ExDOShiURHT6q53b) | [Keira Conlon](https://open.spotify.com/artist/2PeXm2l3nGWuNKDr7ATimr) | [Gouldian Finch](https://open.spotify.com/album/73gIQgjaguRvVe6YhVeyBe) | 2:46 | 2021-12-10 |  |
 | [Grace](https://open.spotify.com/track/3kCv0qog8yLPc5P262zMOi) | [Carl Stark Willgold](https://open.spotify.com/artist/6NlWW71ojh1uY2qoQorYr9) | [Grace](https://open.spotify.com/album/3udJn7VqPSEv07WhZJ9x1P) | 2:15 | 2021-12-10 |  |
 | [Grain Of Sand](https://open.spotify.com/track/2WiuZ3Hn1qqvAoX7CUSfnm) | [Sol Aurora](https://open.spotify.com/artist/3gAQNBieKjVM4cpp5W470A) | [Grain Of Sand](https://open.spotify.com/album/0NdprMBVBSlzUK0w83q0l1) | 2:54 | 2021-12-10 |  |
+| [Grounded Winds](https://open.spotify.com/track/1ZYz1Dl8llnHM6mpVjBDSr) | [Phoenix Feels](https://open.spotify.com/artist/0CazI1GhvW5pqftM3uJA3l) | [Grounded Winds](https://open.spotify.com/album/0AZesErR8LwWqLjVz2fCAI) | 3:05 | 2023-12-01 |  |
 | [Guide](https://open.spotify.com/track/5seZHcpzWoUqYdpniMO4nc) | [Oscar Sol](https://open.spotify.com/artist/47EU0ZJnqLxIpe8EwyDDce) | [Returning](https://open.spotify.com/album/2IURCbVABsXFqFgP9ZFCd8) | 3:23 | 2021-12-10 |  |
 | [Haumea](https://open.spotify.com/track/2LXzGeoY2Cm8SFIaq5v0sJ) | [Sonic Slivers](https://open.spotify.com/artist/4DdKHvFkz6FdVks9TAdttM) | [Haumea](https://open.spotify.com/album/120dlLUe1LZ1j1X1n0Z9kH) | 3:02 | 2021-12-10 | 2022-09-03 |
 | [Haven](https://open.spotify.com/track/0XxpwWVXoNEi3e8ypMDjUk) | [Adriana Milou](https://open.spotify.com/artist/1hdDs4wK0nVxEMPc1IXXRb) | [Haven](https://open.spotify.com/album/3JP6iMuwfXasBbxNBqv4Ni) | 3:50 | 2021-12-10 |  |
@@ -146,7 +147,7 @@
 | [Loss Trancends to Gain](https://open.spotify.com/track/3KSS4USSsOhXesezYsbaMa) | [Eleanor Arroway](https://open.spotify.com/artist/3x2VCXXsd5bySXXdbhLZPJ) | [Spiritual Synchronicities](https://open.spotify.com/album/1YbA9gfaowEwRK64Se0Q5b) | 4:17 | 2021-12-10 | 2023-11-18 |
 | [Lost at Sea](https://open.spotify.com/track/13TlLMjvV0pZqBF7DKIs94) | [The Tides](https://open.spotify.com/artist/0Z3GVEGMJYq0nTdZNJAx4V) | [Wandering the Coast](https://open.spotify.com/album/2ufoGt7vrupWII9nAa2pfa) | 3:12 | 2021-12-10 | 2022-09-03 |
 | [Loveliness](https://open.spotify.com/track/5nMsoz257d3AbY8O8FC4Jx) | [Jean Petri](https://open.spotify.com/artist/5Nh6KbxCO5DFRmgQEllo2G) | [Moments of Tomorrow](https://open.spotify.com/album/3XnQ3WILZelBRsB20OkS7a) | 1:50 | 2021-12-10 | 2022-09-03 |
-| [Lyrebird](https://open.spotify.com/track/72mDETn3Ba8yVewAcqnlqQ) | [Keira Conlon](https://open.spotify.com/artist/2PeXm2l3nGWuNKDr7ATimr) | [Lyrebird](https://open.spotify.com/album/73YZiV6JEfhRBr855r2fvk) | 2:33 | 2021-12-10 |  |
+| [Lyrebird](https://open.spotify.com/track/72mDETn3Ba8yVewAcqnlqQ) | [Keira Conlon](https://open.spotify.com/artist/2PeXm2l3nGWuNKDr7ATimr) | [Lyrebird](https://open.spotify.com/album/73YZiV6JEfhRBr855r2fvk) | 2:33 | 2021-12-10 | 2023-12-02 |
 | [Maroon Lake](https://open.spotify.com/track/4Ck1myMt261ophVYeSOC84) | [Lundegard](https://open.spotify.com/artist/7Bd7PURdGa6srlW6VRpTiV) | [Outings](https://open.spotify.com/album/79gZ4wm7D1GfdC0yNWrKvL) | 2:50 | 2021-12-10 |  |
 | [Månsken](https://open.spotify.com/track/1XevHoke55cIgL4v7nzYiL) | [Månvarv](https://open.spotify.com/artist/3npr0emNGSWh2iyRvzEiRI) | [Månsken](https://open.spotify.com/album/336qA5VY516qiZQC4jV7Ak) | 3:01 | 2021-12-10 |  |
 | [Memorial](https://open.spotify.com/track/0HjdwMPiT1l7lB26RjQL7M) | [Everything Will Rust](https://open.spotify.com/artist/6ongOGTUwDaQjpqjnlkooi) | [Memorial](https://open.spotify.com/album/4IC6MxKrC9UgZy5I3adjP9) | 2:55 | 2021-12-10 |  |

@@ -1011,6 +1011,24 @@
     },
     {
       "album": {
+        "name": "Devil In The Room",
+        "url": "https://open.spotify.com/album/4oVQNoMc9m6z9XPtaCbEO7"
+      },
+      "artists": [
+        {
+          "name": "Tinsley Ellis",
+          "url": "https://open.spotify.com/artist/56LMX8mqaIhJCaxjZBM1on"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211732,
+      "name": "Devil In The Room",
+      "url": "https://open.spotify.com/track/72qo2qSJ0FkaTtbgRhPHqT"
+    },
+    {
+      "album": {
         "name": "Didn\u2019t We Have a Time",
         "url": "https://open.spotify.com/album/2pI0kBzadx6e9hYFBisRKL"
       },
@@ -1901,6 +1919,24 @@
     },
     {
       "album": {
+        "name": "Help Yourself",
+        "url": "https://open.spotify.com/album/3dRkh2xDogXlODckUjdnCF"
+      },
+      "artists": [
+        {
+          "name": "Robert Jon & the Wreck",
+          "url": "https://open.spotify.com/artist/4FXvPjJz57tIo23OpzHlYC"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244306,
+      "name": "Help Yourself",
+      "url": "https://open.spotify.com/track/6i2EOHluVZewHGo1WivSnA"
+    },
+    {
+      "album": {
         "name": "Here I'm Is",
         "url": "https://open.spotify.com/album/2FwkQp2elO2xN3MOs2XJL9"
       },
@@ -2174,6 +2210,24 @@
       "duration_ms": 238173,
       "name": "Hope You Realize It (Goodbye Again)",
       "url": "https://open.spotify.com/track/2cMKzAbQbKwHqYQgvRvGSw"
+    },
+    {
+      "album": {
+        "name": "How Did We Get To Goodbye",
+        "url": "https://open.spotify.com/album/6oDyjJGpgwgvb3N19B8Gxq"
+      },
+      "artists": [
+        {
+          "name": "Danielle Nicole",
+          "url": "https://open.spotify.com/artist/34mu675oQQ5ZNuK1soZrIn"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279138,
+      "name": "How Did We Get To Goodbye",
+      "url": "https://open.spotify.com/track/0QUij64RHqhEEPLFhFBDMc"
     },
     {
       "album": {
@@ -2868,7 +2922,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 223334,
       "name": "Judicator Blues",
       "url": "https://open.spotify.com/track/4jlsa0OLIsdu1ETRpkX6QD"
@@ -3172,7 +3226,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 208700,
       "name": "Love At First Sight",
       "url": "https://open.spotify.com/track/0I6iVnbnSri9baOqnjIeHQ"
@@ -4181,6 +4235,24 @@
     },
     {
       "album": {
+        "name": "Rooster",
+        "url": "https://open.spotify.com/album/7htHDHnkAKQAJgDMTRhKgM"
+      },
+      "artists": [
+        {
+          "name": "JJ Grey & Mofro",
+          "url": "https://open.spotify.com/artist/1Jl8u1U1GtBlwocZK5LWZv"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291335,
+      "name": "Rooster",
+      "url": "https://open.spotify.com/track/28A4wvtJNrfEUJ1OvKadpk"
+    },
+    {
+      "album": {
         "name": "Root City",
         "url": "https://open.spotify.com/album/3TnwdCTnQXlR3adEsOLoob"
       },
@@ -4246,7 +4318,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 196500,
       "name": "Sand Castles",
       "url": "https://open.spotify.com/track/01aamSYYax8Av0aHdsFkop"
@@ -6350,7 +6422,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 208173,
       "name": "\u201962 Chevy",
       "url": "https://open.spotify.com/track/4M9P0IpYx9kZmo07CcwVNT"

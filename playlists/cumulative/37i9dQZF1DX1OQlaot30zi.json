@@ -39546,7 +39546,7 @@
           "url": "https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF"
         },
         {
-          "name": "Dylan",
+          "name": "Pyrex",
           "url": "https://open.spotify.com/artist/7h1amg0X7Q5d0D5KfuyKTg"
         },
         {
@@ -52332,6 +52332,32 @@
       "duration_ms": 133635,
       "name": "Tema libero (feat. MadMan)",
       "url": "https://open.spotify.com/track/3rKbzq69rftvnEMCsoncv8"
+    },
+    {
+      "album": {
+        "name": "Tempesta",
+        "url": "https://open.spotify.com/album/5Fy6KGPNA6m65doFgXiAOZ"
+      },
+      "artists": [
+        {
+          "name": "XWOND",
+          "url": "https://open.spotify.com/artist/6sRzLtxCBCC0RCGsLNkd1g"
+        },
+        {
+          "name": "Reizon",
+          "url": "https://open.spotify.com/artist/0YpFRM0kzAZfjSdw0pTlDX"
+        },
+        {
+          "name": "Sike",
+          "url": "https://open.spotify.com/artist/1kUcmfCqDuYQDkokeHjUyZ"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175275,
+      "name": "Tempesta",
+      "url": "https://open.spotify.com/track/4uMmhSKniLClHn4Ekkdeob"
     },
     {
       "album": {

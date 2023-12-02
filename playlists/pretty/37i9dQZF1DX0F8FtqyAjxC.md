@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0F8FtqyAjxC.md) - [plain]
 
 > <a href="spotify:artist:3NKVm2Jedcf6ibJr6pMUVx">Jayda G</a>'s favorite tracks\. Updated regularly\. Curated by Jayda G\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,767 likes - 45 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,773 likes - 45 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Blue Lights \- Major League DJz Remix](https://open.spotify.com/track/7sLsdhg4lYmftExXvRv4C2) | [Jayda G](https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx), [Major League Djz](https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb) | [Blue Lights \(Major League DJz Remix\)](https://open.spotify.com/album/36ilkzGej6DS1vnWof1uT1) | 8:25 |
 | 2 | [I Found My Smile Again](https://open.spotify.com/track/5ctoE1eC1WgEacAPa6CoSC) | [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [Mood Hip Hop](https://open.spotify.com/album/6Vl3983otD4dXStQMHVlPo) | 6:15 |
 | 3 | [Promised Land](https://open.spotify.com/track/796T2ROxTNibXRjVhjSzCa) | [Joe Smooth](https://open.spotify.com/artist/4BIamAD25vwYldaOWTEsXd) | [Promised Land](https://open.spotify.com/album/1oyrymxXmhE2NaYczhS6NR) | 5:31 |
-| 4 | [Ngibambe \- Jayda G Remix](https://open.spotify.com/track/73FtRvqWb77kuYk40DYNNS) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Major League Djz](https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb), [Jayda G](https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx), [Gaba Cannal](https://open.spotify.com/artist/2Hj2zBCjnAnmLmNIyjuMGo), [Russell Zuma](https://open.spotify.com/artist/0juy2RagFC1qDPlMhEkepe) | [Ngibambe \(Jayda G Remix\)](https://open.spotify.com/album/2o0QaLNDnvx7Zoe9erwOzp) | 3:34 |
+| 4 | [Ngibambe \- Jayda G Remix](https://open.spotify.com/track/73FtRvqWb77kuYk40DYNNS) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Major League Djz](https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb), [Gaba Cannal](https://open.spotify.com/artist/2Hj2zBCjnAnmLmNIyjuMGo), [Russell Zuma](https://open.spotify.com/artist/0juy2RagFC1qDPlMhEkepe), [Jayda G](https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx) | [Ngibambe \(Jayda G Remix\)](https://open.spotify.com/album/2o0QaLNDnvx7Zoe9erwOzp) | 3:34 |
 | 5 | [We Magnify His Name](https://open.spotify.com/track/1l3K4IPHiL7IHfLMbDreHW) | [Floorplan](https://open.spotify.com/artist/0RBnTX5xoVa1bDYt9Qbies) | [Sanctified EP](https://open.spotify.com/album/3Imq0Z980HI5ukF3GvTESZ) | 9:15 |
 | 6 | [When She Dance \- David Ariza Club Edit](https://open.spotify.com/track/3xqU7Qvop66DaYfXKaJmXw) | [Jayda G](https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx), [David Ariza](https://open.spotify.com/artist/3l3BG1aNUKmVsV555tR0BI) | [When She Dance \(David Ariza Club Edit\)](https://open.spotify.com/album/2Y6yUZjNh8jtuQWqFWunvy) | 5:36 |
 | 7 | [Kemut \- Remastered](https://open.spotify.com/track/0E0ltU5sngFangrHzveNq0) | [Walterino 4 L.W.S.](https://open.spotify.com/artist/6udzHX1GnpIvtHrc7rT578) | [Jam Experience, Pt\. 1 \(2013 Remaster\)](https://open.spotify.com/album/5Hkd6unXtqyvEHnD1wMUP4) | 8:33 |
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0F8FtqyAjxC.md) - [plain]
 | 44 | [People](https://open.spotify.com/track/6XxJvG70zuktjFNyDxzLJ5) | [Moodymann](https://open.spotify.com/artist/6pohviZSNRueSX7uNu63ZX) | [Silence In The Secret Garden](https://open.spotify.com/album/37z6C0yEkeOzbIYR17kRqg) | 4:21 |
 | 45 | [Fool On The Street](https://open.spotify.com/track/0unXRZP4a8LrcXQGBCOPg9) | [Rick James](https://open.spotify.com/artist/0FrpdcVlJQqibaz5HfBUrL) | [Bustin' Out of L Seven \(Expanded Edition\)](https://open.spotify.com/album/4EsbzWIeUYpEF5Sv0yH8Ig) | 7:49 |
 
-Snapshot ID: `MCw4ZmQzZTM2NjliYTc2YjRhZjc4YmFlNDI0NDk2ZjQ4NGE0NjZiODY4`
+Snapshot ID: `MCxmMTc3NzE1YjUwNzQ5ZDM1YTYzMDFmNTYxOTM4NzBhNWIwZDQ2NTJh`

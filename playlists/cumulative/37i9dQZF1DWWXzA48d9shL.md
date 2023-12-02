@@ -4,7 +4,7 @@
 
 > Rap from hell\. Cover: $uicideboy$
 
-545 songs - 21 hr 29 min
+547 songs - 21 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -268,6 +268,7 @@
 | [in heat.](https://open.spotify.com/track/6T3sH1EuBMijU1MHe2WFJt) | [Hentai Xander](https://open.spotify.com/artist/7J67YP5oiObsKJkC7mrRWW) | [in heat.](https://open.spotify.com/album/0K4n11MU36fn5LewWZSOQ7) | 1:56 | 2021-09-17 | 2022-06-25 |
 | [In N Out \(feat\. TheHxliday & Rico Nasty\)](https://open.spotify.com/track/0RcKrEJIn4OhDGsaTW7g9K) | [Jasiah](https://open.spotify.com/artist/7502fDxg339jvGV08Jd4R0), [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU), [TheHxliday](https://open.spotify.com/artist/2e3LzbZx1VP4wBNFCaxZVD) | [War](https://open.spotify.com/album/5UthVBNdNdHyqHmSKUlegX) | 2:11 | 2021-09-17 | 2022-06-25 |
 | [IN THE MIDDLE](https://open.spotify.com/track/00I2ZzY3LBCOfWvyqgPsJb) | [TOKYO’S REVENGE](https://open.spotify.com/artist/5TbLOwv8BNnik3f03NZJlt) | [IN THE MIDDLE](https://open.spotify.com/album/6NcGjXe9oZn7WReMlwLQcD) | 3:23 | 2022-01-07 | 2022-06-04 |
+| [in your darkest nightmares, you'll see me](https://open.spotify.com/track/6i3NunmMCcqnYVWCna0k44) | [Savage Ga$p](https://open.spotify.com/artist/0x7qiZJaal6j8qS7yCydFk), [KAMAARA](https://open.spotify.com/artist/06d6Jun2N1hugnXeN98kQ0), [Grim Salvo](https://open.spotify.com/artist/5UogEGDRYo5Q9bRIMRjuEC) | [in your darkest nightmares, you'll see me](https://open.spotify.com/album/1RGXboLcIwKf1aYwchqZNk) | 4:35 | 2023-12-01 |  |
 | [INTENSIVE CARE UNIT](https://open.spotify.com/track/5jqh407cAc00xLMSrJ51os) | [HAARPER](https://open.spotify.com/artist/3v0QTRruILayLe5VsaYdvk) | [INTENSIVE CARE UNIT](https://open.spotify.com/album/5tvu9lbiNvbTILQhtwhB3G) | 1:39 | 2023-11-28 |  |
 | [INTERSTELLAR](https://open.spotify.com/track/74dlubUszN5adMaveJtYD2) | [LXVIATHXN](https://open.spotify.com/artist/2SJRVFLT1rSs5oKiqsZ04T) | [HYPNOTIZE](https://open.spotify.com/album/4qLSLJcI3PNVCvFhEFeXuN) | 2:35 | 2022-02-04 | 2022-04-21 |
 | [IPA](https://open.spotify.com/track/0Xs93WhrSOIDO2aKEVePV1) | [nascar aloe](https://open.spotify.com/artist/03LEDukdM723NRLz4UXeNv) | [IPA](https://open.spotify.com/album/0M0bIhPUqER2U4W84rLH6l) | 1:54 | 2022-04-01 | 2022-04-13 |
@@ -492,6 +493,7 @@
 | [There Goes My Mind](https://open.spotify.com/track/2N5xS8yA9NYU5UTduTpr2l) | [Derek Pope](https://open.spotify.com/artist/5wWvcn0hJXPhCw9eYUody0) | [There Goes My Mind](https://open.spotify.com/album/7fwRXiCAcXsWASv4XDzMY6) | 3:38 | 2023-07-28 |  |
 | [THIEF IN THE NIGHT](https://open.spotify.com/track/12kIpARSic31mwXTdUuMLU) | [Kelvin Krash](https://open.spotify.com/artist/4rjJpumNzqRUf75vCzSlQb), [COUCOU CHLOE](https://open.spotify.com/artist/5xmw3tD4MbvhA1ay1U0HEC) | [THIEF IN THE NIGHT](https://open.spotify.com/album/3ydrHaAw7BOX1gNcqd8Pc4) | 1:59 | 2023-10-16 |  |
 | [Told Ya](https://open.spotify.com/track/0O9azTQB2JhJJ0JtI6upoQ) | [WHIPPED CREAM](https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi), [Lil Xan](https://open.spotify.com/artist/3EXdLajEO02ziZ90P90bSW) | [WHO IS WHIPPED CREAM?](https://open.spotify.com/album/0UbawIfwVpyhGTb1YA55dp) | 1:43 | 2021-09-17 | 2022-04-18 |
+| [TOMORROW WILL NOT COME](https://open.spotify.com/track/5t9SAPZmW0zTmkYGLc4sTk) | [Pouya](https://open.spotify.com/artist/4nXOZlYoAD67hF9aUEncMY), [Terror Reid](https://open.spotify.com/artist/5No9X0ZejwFDnD1dVllwQA) | [TOMORROW WILL NOT COME](https://open.spotify.com/album/2urKBNTHSezfBsuJf4lLWi) | 2:37 | 2023-12-01 |  |
 | [TOOLIE BEAM](https://open.spotify.com/track/6wjR1iV0PmJRBJGsRyukSY) | [1nonly](https://open.spotify.com/artist/3ZHU5AKrUmIPnCFfr82QER), [Pouya](https://open.spotify.com/artist/4nXOZlYoAD67hF9aUEncMY) | [TOOLIE BEAM](https://open.spotify.com/album/0hnk0FclQcfKpAbKc9Qsxv) | 2:35 | 2023-06-23 |  |
 | [Torches](https://open.spotify.com/track/4OcOqImlsHL73c8Zn1VUu2) | [Lord Gasp](https://open.spotify.com/artist/26fmgj9vUob3WnTDojZxBw), [outsiderX](https://open.spotify.com/artist/6aAXv7UhOHDhgDB7fnhhOQ) | [Torches](https://open.spotify.com/album/7ffXmVaFkjizO3LvVdRnz3) | 2:26 | 2022-04-15 | 2022-05-21 |
 | [TOXIC](https://open.spotify.com/track/6ppHVhbg1b9HS0iggioYtt) | [NERONUS](https://open.spotify.com/artist/2J5FeaNi5K4F9xml5lWD0L) | [TOXIC](https://open.spotify.com/album/1ZG1rFrQimhJAIMZL84PKs) | 3:05 | 2022-02-11 | 2022-04-21 |

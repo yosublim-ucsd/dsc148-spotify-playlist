@@ -1,15 +1,31 @@
 {
-  "description": "P\u00e5 med fj\u00e4derboan och de gyllene skorna. Nu ska vi dansa i neon!",
-  "num_followers": 26909,
-  "original_name": "Schlagerfest",
+  "description": "Fj\u00e4derboa, dansgolv, alls\u00e5ng och tonartsh\u00f6jningar - nu \u00e4r det mellofest! \ud83e\udea9\u2728\ud83d\udc9c",
+  "num_followers": 26911,
+  "original_name": "Mellofest! ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NjU0MzA3ZWZiOTFkODI5OWI4MTc3YTE1ZjY2MDA3YmI5ODhjNWMy",
+  "snapshot_id": "MCwxODYxNTY2MGI5ZDVhMzFmOTYwMGRkYTY2ZDk4NGQ0Nzc4ZWJlYjEz",
   "tracks": [
     {
-      "added_at": "2023-02-26 01:59:39",
+      "added_at": "2023-12-01 11:30:00",
+      "album": {
+        "name": "Tattoo",
+        "url": "https://open.spotify.com/album/0LRTS7FyYLppkDLOZT02Xp"
+      },
+      "artists": [
+        {
+          "name": "Loreen",
+          "url": "https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl"
+        }
+      ],
+      "duration_ms": 183374,
+      "name": "Tattoo",
+      "url": "https://open.spotify.com/track/1DmW5Ep6ywYwxc2HMT5BG6"
+    },
+    {
+      "added_at": "2023-12-01 11:30:00",
       "album": {
         "name": "Waterloo",
         "url": "https://open.spotify.com/album/5gSBDA6ufk8UZejT4XR7av"
@@ -25,7 +41,7 @@
       "url": "https://open.spotify.com/track/3Dy4REq8O09IlgiwuHQ3sk"
     },
     {
-      "added_at": "2023-02-26 01:59:39",
+      "added_at": "2023-12-01 11:30:00",
       "album": {
         "name": "Fairytales",
         "url": "https://open.spotify.com/album/7k1b8wzjRsSTmIBuRlBrxp"
@@ -41,7 +57,7 @@
       "url": "https://open.spotify.com/track/6NgYIETQ8U72CVfkzYhK30"
     },
     {
-      "added_at": "2023-02-26 01:59:39",
+      "added_at": "2023-12-01 11:30:00",
       "album": {
         "name": "\u00c4r",
         "url": "https://open.spotify.com/album/1nfObC0Ykmpy6vYLwlsg4Z"
@@ -57,7 +73,7 @@
       "url": "https://open.spotify.com/track/7bVwUOySQGO2afJ0LArAMi"
     },
     {
-      "added_at": "2023-02-26 01:59:39",
+      "added_at": "2023-12-01 11:30:00",
       "album": {
         "name": "Heroes",
         "url": "https://open.spotify.com/album/6G6DMOiYMgVZLGs9nmNEJh"
@@ -73,23 +89,39 @@
       "url": "https://open.spotify.com/track/4ciaNqHWA2IzHphZaVRzHI"
     },
     {
-      "added_at": "2023-02-26 01:59:39",
+      "added_at": "2023-12-01 11:30:00",
       "album": {
-        "name": "Euphoria (The Alternative Mixes)",
-        "url": "https://open.spotify.com/album/6gWEIUmtUGPbLMbEcTCDxu"
+        "name": "Mer av dig",
+        "url": "https://open.spotify.com/album/3waGWjneO6tOSEAzfHusNp"
       },
       "artists": [
         {
-          "name": "Loreen",
-          "url": "https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl"
+          "name": "Theoz",
+          "url": "https://open.spotify.com/artist/5vBoU7A2kwbTXyUPZK5Gq1"
         }
       ],
-      "duration_ms": 181786,
-      "name": "Euphoria - Single Version",
-      "url": "https://open.spotify.com/track/2I0NkzwRH4Onzzg5UbmcpE"
+      "duration_ms": 164000,
+      "name": "Mer av dig",
+      "url": "https://open.spotify.com/track/7xzgJNufqvox5oQQa1dP1O"
     },
     {
-      "added_at": "2023-02-26 01:59:39",
+      "added_at": "2023-12-01 11:30:00",
+      "album": {
+        "name": "Air",
+        "url": "https://open.spotify.com/album/1RJ3zvMBc4NB9VSXEF1EUy"
+      },
+      "artists": [
+        {
+          "name": "Marcus & Martinus",
+          "url": "https://open.spotify.com/artist/3N4FiTxpPQRsrihmTMN349"
+        }
+      ],
+      "duration_ms": 172000,
+      "name": "Air",
+      "url": "https://open.spotify.com/track/7DBQIEXuFIXMWNAWyGsTTm"
+    },
+    {
+      "added_at": "2023-12-01 11:30:00",
       "album": {
         "name": "Fuego",
         "url": "https://open.spotify.com/album/1Kix2Ho3LgJI4tmtcFdNr8"
@@ -105,7 +137,23 @@
       "url": "https://open.spotify.com/track/4TwWOcvjY1qt3QJvtveAGm"
     },
     {
-      "added_at": "2023-02-26 01:59:39",
+      "added_at": "2023-12-01 11:30:00",
+      "album": {
+        "name": "Euphoria (The Alternative Mixes)",
+        "url": "https://open.spotify.com/album/6gWEIUmtUGPbLMbEcTCDxu"
+      },
+      "artists": [
+        {
+          "name": "Loreen",
+          "url": "https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl"
+        }
+      ],
+      "duration_ms": 181786,
+      "name": "Euphoria - Single Version",
+      "url": "https://open.spotify.com/track/2I0NkzwRH4Onzzg5UbmcpE"
+    },
+    {
+      "added_at": "2023-12-01 11:30:00",
       "album": {
         "name": "Genom Eld & Vatten",
         "url": "https://open.spotify.com/album/0IvnnD0YUy1yZuLMUHzUL4"
@@ -121,7 +169,7 @@
       "url": "https://open.spotify.com/track/20NfHnLzpw6qoAKOX8BFaQ"
     },
     {
-      "added_at": "2023-02-26 01:59:39",
+      "added_at": "2023-12-01 11:30:00",
       "album": {
         "name": "Run To The Hills",
         "url": "https://open.spotify.com/album/2JWYQBemvSb20WykqdApO0"
@@ -137,7 +185,31 @@
       "url": "https://open.spotify.com/track/6k4e5H3MbDzhEX3qJSWwpd"
     },
     {
-      "added_at": "2023-02-26 01:59:39",
+      "added_at": "2023-12-01 11:30:00",
+      "album": {
+        "name": "Where You Are (S\u00e1ve\u017ean)",
+        "url": "https://open.spotify.com/album/249haOgXpuQsUSQelQ5OoE"
+      },
+      "artists": [
+        {
+          "name": "Arc North",
+          "url": "https://open.spotify.com/artist/2kgvaYV2tbNyOonFI3YlfH"
+        },
+        {
+          "name": "Jon Henrik Fj\u00e4llgren",
+          "url": "https://open.spotify.com/artist/65lCLhmmyUwnPBD2Bq7FQx"
+        },
+        {
+          "name": "Adam Woods",
+          "url": "https://open.spotify.com/artist/5hmV66qKLsAbAoJcnogGyc"
+        }
+      ],
+      "duration_ms": 176960,
+      "name": "Where You Are (S\u00e1ve\u017ean)",
+      "url": "https://open.spotify.com/track/4zPqv04ddAFwk2Pgz3jC9U"
+    },
+    {
+      "added_at": "2023-12-01 11:30:00",
       "album": {
         "name": "My Number One",
         "url": "https://open.spotify.com/album/0JLlI8YNAvvrhHAwz5UCgI"
@@ -153,7 +225,7 @@
       "url": "https://open.spotify.com/track/6LkCvCc9oFoLDv4DLhzTox"
     },
     {
-      "added_at": "2023-02-26 01:59:39",
+      "added_at": "2023-12-01 11:30:00",
       "album": {
         "name": "Eloise",
         "url": "https://open.spotify.com/album/0zK4JYFfXuCAlWktGbniOR"
@@ -169,7 +241,7 @@
       "url": "https://open.spotify.com/track/4QZ6hp2CKRaZG5RI9zXQqg"
     },
     {
-      "added_at": "2023-02-26 01:59:39",
+      "added_at": "2023-12-01 11:30:00",
       "album": {
         "name": "If I Were Sorry",
         "url": "https://open.spotify.com/album/7e5vrZ4iPy74CmBgbIpQKX"
@@ -185,7 +257,7 @@
       "url": "https://open.spotify.com/track/6oDkCmfVcSd9NXAKk1b4Ll"
     },
     {
-      "added_at": "2023-02-26 01:59:39",
+      "added_at": "2023-12-01 11:30:00",
       "album": {
         "name": "Guld och gr\u00f6na skogar",
         "url": "https://open.spotify.com/album/7JVTdIGoQzBnzf8dwqE0HW"
@@ -201,7 +273,7 @@
       "url": "https://open.spotify.com/track/6EnNjWkk1YX3fsTXtwO773"
     },
     {
-      "added_at": "2023-02-26 01:59:39",
+      "added_at": "2023-12-01 11:30:00",
       "album": {
         "name": "L\u00e4ngtan",
         "url": "https://open.spotify.com/album/7bmBYDzXffP3R5lECEdzkH"
@@ -217,7 +289,23 @@
       "url": "https://open.spotify.com/track/000uPbEAb9tlFkCJ1DIOcw"
     },
     {
-      "added_at": "2023-02-26 01:59:39",
+      "added_at": "2023-12-01 11:30:00",
+      "album": {
+        "name": "On My Way",
+        "url": "https://open.spotify.com/album/0a2HYm0GJXfRRk2DsSWTVc"
+      },
+      "artists": [
+        {
+          "name": "Panetoz",
+          "url": "https://open.spotify.com/artist/7DXjp1eSv6Xf759gmCiApa"
+        }
+      ],
+      "duration_ms": 185688,
+      "name": "On My Way",
+      "url": "https://open.spotify.com/track/710xi8haZ3Os0wip67GcmY"
+    },
+    {
+      "added_at": "2023-12-01 11:30:00",
       "album": {
         "name": "Ingenting att f\u00f6rlora",
         "url": "https://open.spotify.com/album/7KW1wOSzVGdWs1aA3pzT1l"
@@ -233,7 +321,7 @@
       "url": "https://open.spotify.com/track/4IV8dOSLi26stONnuQg8Kf"
     },
     {
-      "added_at": "2023-02-26 01:59:39",
+      "added_at": "2023-12-01 11:30:00",
       "album": {
         "name": "Tropicalisera",
         "url": "https://open.spotify.com/album/0UQp20m1BlovpSh9zIowVB"
@@ -249,7 +337,7 @@
       "url": "https://open.spotify.com/track/3zNUWltBz3xrZhXkoSMgJX"
     },
     {
-      "added_at": "2023-02-26 01:59:39",
+      "added_at": "2023-12-01 11:30:00",
       "album": {
         "name": "Bra vibrationer",
         "url": "https://open.spotify.com/album/6pTczERNVTTxtoFjfOIKWU"
@@ -265,7 +353,7 @@
       "url": "https://open.spotify.com/track/0FSlaiuv4eBrrjz05jpxz6"
     },
     {
-      "added_at": "2023-02-26 01:59:39",
+      "added_at": "2023-12-01 11:30:00",
       "album": {
         "name": "Vem e som oss",
         "url": "https://open.spotify.com/album/2KX1IGf0NJMA3p1wh57Ccb"
@@ -281,7 +369,7 @@
       "url": "https://open.spotify.com/track/20052FYa2SF5Lkp9VZTLJX"
     },
     {
-      "added_at": "2023-02-26 01:59:39",
+      "added_at": "2023-12-01 11:30:00",
       "album": {
         "name": "Blue Virgin Isles",
         "url": "https://open.spotify.com/album/5xHCzowaod3845uvIfXAkg"
@@ -297,7 +385,7 @@
       "url": "https://open.spotify.com/track/10AwlsmVEASSiWORkKcgRo"
     },
     {
-      "added_at": "2023-02-26 01:59:39",
+      "added_at": "2023-12-01 11:30:00",
       "album": {
         "name": "Take Me To Your Heaven",
         "url": "https://open.spotify.com/album/6fgypOA8G33QMu1Fuufn7Y"
@@ -313,7 +401,7 @@
       "url": "https://open.spotify.com/track/6JIwvW8ioos5KFp0Q0mS3Y"
     },
     {
-      "added_at": "2023-02-26 01:59:39",
+      "added_at": "2023-12-01 11:30:00",
       "album": {
         "name": "Stand By For...",
         "url": "https://open.spotify.com/album/0Bt2FMVJpBg0g0fFiQjqoV"
@@ -329,23 +417,7 @@
       "url": "https://open.spotify.com/track/4vxn2p4GbiFhnVsIASACrf"
     },
     {
-      "added_at": "2023-02-26 01:59:39",
-      "album": {
-        "name": "En Samling 1981 - 2001",
-        "url": "https://open.spotify.com/album/0TcAev3EcjkrvhP3BoHlj9"
-      },
-      "artists": [
-        {
-          "name": "Tommy Nilsson",
-          "url": "https://open.spotify.com/artist/0PnNyzP7CgoDXZHr6cWOyq"
-        }
-      ],
-      "duration_ms": 198706,
-      "name": "En dag",
-      "url": "https://open.spotify.com/track/4y81ov9ojdBPu5eLhDKxS9"
-    },
-    {
-      "added_at": "2023-02-26 01:59:39",
+      "added_at": "2023-12-01 11:30:00",
       "album": {
         "name": "En helt vanlig Svensson",
         "url": "https://open.spotify.com/album/5yFU2tACu1Fp4dwSLY6NAO"
@@ -361,7 +433,23 @@
       "url": "https://open.spotify.com/track/7fsWDVy88i6gznoQtlbOio"
     },
     {
-      "added_at": "2023-02-26 01:59:39",
+      "added_at": "2023-12-01 11:30:00",
+      "album": {
+        "name": "En Samling 1981 - 2001",
+        "url": "https://open.spotify.com/album/0TcAev3EcjkrvhP3BoHlj9"
+      },
+      "artists": [
+        {
+          "name": "Tommy Nilsson",
+          "url": "https://open.spotify.com/artist/0PnNyzP7CgoDXZHr6cWOyq"
+        }
+      ],
+      "duration_ms": 198706,
+      "name": "En dag",
+      "url": "https://open.spotify.com/track/4y81ov9ojdBPu5eLhDKxS9"
+    },
+    {
+      "added_at": "2023-12-01 11:30:00",
       "album": {
         "name": "Alltid p\u00e5 v\u00e4g",
         "url": "https://open.spotify.com/album/3CDoUVCjpSa2N08MBL8Ovy"
@@ -377,7 +465,7 @@
       "url": "https://open.spotify.com/track/6LjXwyNIh30VWsnvT8JHhz"
     },
     {
-      "added_at": "2023-02-26 01:59:39",
+      "added_at": "2023-12-01 11:30:00",
       "album": {
         "name": "Ingenting att f\u00f6rlora",
         "url": "https://open.spotify.com/album/7KW1wOSzVGdWs1aA3pzT1l"
@@ -393,7 +481,23 @@
       "url": "https://open.spotify.com/track/6YGqMb6MmqcwIHaDSCA7Nq"
     },
     {
-      "added_at": "2023-02-26 01:59:39",
+      "added_at": "2023-12-01 11:30:00",
+      "album": {
+        "name": "Never Give Up",
+        "url": "https://open.spotify.com/album/13g0On9hQnYAQsVslilDhP"
+      },
+      "artists": [
+        {
+          "name": "Maria Sur",
+          "url": "https://open.spotify.com/artist/7eoVDCrNq6NirTBRrgSoNA"
+        }
+      ],
+      "duration_ms": 179893,
+      "name": "Never Give Up",
+      "url": "https://open.spotify.com/track/3Xov23KN1ztHZrLBnhFSc4"
+    },
+    {
+      "added_at": "2023-12-01 11:30:00",
       "album": {
         "name": "Dolly Styles b\u00e4sta",
         "url": "https://open.spotify.com/album/4UeSWAPwCYG0PUYXfTRMfE"
@@ -409,7 +513,7 @@
       "url": "https://open.spotify.com/track/0PcnMWhIgWga5G7pck1Fhb"
     },
     {
-      "added_at": "2023-02-26 01:59:39",
+      "added_at": "2023-12-01 11:30:00",
       "album": {
         "name": "The Best Of",
         "url": "https://open.spotify.com/album/7g8VSftiiJllTZkOZUoSFe"
@@ -425,7 +529,7 @@
       "url": "https://open.spotify.com/track/61hgZt5HEewtSjxibp01Vy"
     },
     {
-      "added_at": "2023-02-26 01:59:39",
+      "added_at": "2023-12-01 11:30:00",
       "album": {
         "name": "Sean den f\u00f6rste Banan",
         "url": "https://open.spotify.com/album/0rFpCQes32x4acvY6dmVOh"
@@ -441,7 +545,7 @@
       "url": "https://open.spotify.com/track/5J2UfqBylH8jDQZJnxby81"
     },
     {
-      "added_at": "2023-02-26 01:59:39",
+      "added_at": "2023-12-01 11:30:00",
       "album": {
         "name": "Bada Nakna",
         "url": "https://open.spotify.com/album/0byn7HEBmRx4OPUYQzbcas"
@@ -457,7 +561,7 @@
       "url": "https://open.spotify.com/track/68jkh9nqSjpmRtkkA9f0ld"
     },
     {
-      "added_at": "2023-02-26 01:59:39",
+      "added_at": "2023-12-01 11:30:00",
       "album": {
         "name": "N\u00e4r vindarna viskar mitt namn - Single",
         "url": "https://open.spotify.com/album/7oSqWiKS8F3GGIh6ihn50H"
@@ -473,7 +577,7 @@
       "url": "https://open.spotify.com/track/1nSyBcZr8IS9wZcFyvqqE7"
     },
     {
-      "added_at": "2023-02-26 01:59:39",
+      "added_at": "2023-12-01 11:30:00",
       "album": {
         "name": "La Det Swinge",
         "url": "https://open.spotify.com/album/0R1rwfjIEAx03Pi41JZxRa"
@@ -489,7 +593,7 @@
       "url": "https://open.spotify.com/track/3IgpWvgCqZjqhsiKwzw1Q7"
     },
     {
-      "added_at": "2023-02-26 01:59:39",
+      "added_at": "2023-12-01 11:30:00",
       "album": {
         "name": "Bail\u00e1 Bail\u00e1",
         "url": "https://open.spotify.com/album/3bcMrj2XzJl776OdDXmrnF"
@@ -505,7 +609,7 @@
       "url": "https://open.spotify.com/track/3MMJuk00QLVAjS6vwBZ67V"
     },
     {
-      "added_at": "2023-02-26 01:59:39",
+      "added_at": "2023-12-01 11:30:00",
       "album": {
         "name": "Fr\u00e5n nu till evighet",
         "url": "https://open.spotify.com/album/6WFBm5Or8TVQPN78wD2wzH"
@@ -521,23 +625,7 @@
       "url": "https://open.spotify.com/track/6XGIQNU8VmOBRIdL5OBYKp"
     },
     {
-      "added_at": "2023-02-26 01:59:39",
-      "album": {
-        "name": "R\u00f6k 'n Roll",
-        "url": "https://open.spotify.com/album/3GjCjRj6hI2tzAeKs5nIKD"
-      },
-      "artists": [
-        {
-          "name": "Brandsta City Sl\u00e4ckers",
-          "url": "https://open.spotify.com/artist/10bzvni38ThO7h6KOaHO9l"
-        }
-      ],
-      "duration_ms": 177160,
-      "name": "Kom och ta mig",
-      "url": "https://open.spotify.com/track/22T3LCFXjOfxkiq5JgJacE"
-    },
-    {
-      "added_at": "2023-02-26 01:59:39",
+      "added_at": "2023-12-01 11:30:00",
       "album": {
         "name": "As I Lay Me Down",
         "url": "https://open.spotify.com/album/6PaokH8pvKEe116al1OyCT"
@@ -553,7 +641,39 @@
       "url": "https://open.spotify.com/track/5VIZcrKXPd9wL4hqE4YN8z"
     },
     {
-      "added_at": "2023-02-26 01:59:39",
+      "added_at": "2023-12-01 11:30:00",
+      "album": {
+        "name": "R\u00f6k 'n Roll",
+        "url": "https://open.spotify.com/album/3GjCjRj6hI2tzAeKs5nIKD"
+      },
+      "artists": [
+        {
+          "name": "Brandsta City Sl\u00e4ckers",
+          "url": "https://open.spotify.com/artist/10bzvni38ThO7h6KOaHO9l"
+        }
+      ],
+      "duration_ms": 177160,
+      "name": "Kom och ta mig",
+      "url": "https://open.spotify.com/track/22T3LCFXjOfxkiq5JgJacE"
+    },
+    {
+      "added_at": "2023-12-01 11:30:00",
+      "album": {
+        "name": "Now I Know",
+        "url": "https://open.spotify.com/album/1uap95G6btqs1OZLmkN1Gc"
+      },
+      "artists": [
+        {
+          "name": "Tennessee Tears",
+          "url": "https://open.spotify.com/artist/1OepmLWhBeEx78WuUhnuHp"
+        }
+      ],
+      "duration_ms": 181633,
+      "name": "Now I Know",
+      "url": "https://open.spotify.com/track/591qy56kcfBuNgj1kregOM"
+    },
+    {
+      "added_at": "2023-12-01 11:30:00",
       "album": {
         "name": "Masquerade",
         "url": "https://open.spotify.com/album/29npkCplHvsX4VZ6POOwMp"
@@ -569,7 +689,23 @@
       "url": "https://open.spotify.com/track/4ut7uc5pTPixey8zomS5Ah"
     },
     {
-      "added_at": "2023-02-26 01:59:39",
+      "added_at": "2023-12-01 11:30:00",
+      "album": {
+        "name": "Rhythm Of My Show",
+        "url": "https://open.spotify.com/album/0kZuNbILNMuGH45keYqiYE"
+      },
+      "artists": [
+        {
+          "name": "Tone Sekelius",
+          "url": "https://open.spotify.com/artist/60ocUh2KF1ZOSqjkxyt6jl"
+        }
+      ],
+      "duration_ms": 165981,
+      "name": "Rhythm Of My Show",
+      "url": "https://open.spotify.com/track/48NRejAH4xS4PNTl3465O5"
+    },
+    {
+      "added_at": "2023-12-01 11:30:00",
       "album": {
         "name": "Diggiloo Diggiley",
         "url": "https://open.spotify.com/album/1aeO2MJZFZhk3E57aaYGlg"
@@ -585,7 +721,7 @@
       "url": "https://open.spotify.com/track/4NzirQ4BrNkVaPEla2ipG4"
     },
     {
-      "added_at": "2023-02-26 01:59:39",
+      "added_at": "2023-12-01 11:30:00",
       "album": {
         "name": "Kizunguzungu",
         "url": "https://open.spotify.com/album/5p95oQuomBWw9kZqWFsQXj"
@@ -601,7 +737,7 @@
       "url": "https://open.spotify.com/track/54xN08hKKJvg6p5vSXM26g"
     },
     {
-      "added_at": "2023-02-26 01:59:39",
+      "added_at": "2023-12-01 11:30:00",
       "album": {
         "name": "I Can't Go On",
         "url": "https://open.spotify.com/album/22O77Vq7bj0khJd5Blhjp3"
@@ -617,7 +753,7 @@
       "url": "https://open.spotify.com/track/715cD5vOTffsOR3MnNYveJ"
     },
     {
-      "added_at": "2023-02-26 01:59:39",
+      "added_at": "2023-12-01 11:30:00",
       "album": {
         "name": "Ashes To Ashes",
         "url": "https://open.spotify.com/album/3PdI7t8cuGziQ76P2ooFpR"
@@ -633,7 +769,23 @@
       "url": "https://open.spotify.com/track/1iqxk51n6yyc6OIXu7dX8o"
     },
     {
-      "added_at": "2023-02-26 01:59:39",
+      "added_at": "2023-12-01 11:30:00",
+      "album": {
+        "name": "All My Life (Where Have You Been)",
+        "url": "https://open.spotify.com/album/1IynmYnMto0IfvYfvuWTeU"
+      },
+      "artists": [
+        {
+          "name": "Wiktoria",
+          "url": "https://open.spotify.com/artist/3gbaHBYDy62irTs0ZsHNmi"
+        }
+      ],
+      "duration_ms": 172306,
+      "name": "All My Life (Where Have You Been)",
+      "url": "https://open.spotify.com/track/5zZr5MeTBHHyyOjGHo0TKo"
+    },
+    {
+      "added_at": "2023-12-01 11:30:00",
       "album": {
         "name": "Greatest of the Best",
         "url": "https://open.spotify.com/album/7sIUvDzyIz2F5AbmjaNWYo"
@@ -649,7 +801,23 @@
       "url": "https://open.spotify.com/track/28ghjLqAxD7g9fEmZNUsDh"
     },
     {
-      "added_at": "2023-02-26 01:59:39",
+      "added_at": "2023-12-01 11:30:00",
+      "album": {
+        "name": "Royals",
+        "url": "https://open.spotify.com/album/526vMx7SZDOiOPxh8RmNCd"
+      },
+      "artists": [
+        {
+          "name": "Paul Rey",
+          "url": "https://open.spotify.com/artist/5FjiYgLczmrP2j1gijAGWp"
+        }
+      ],
+      "duration_ms": 178453,
+      "name": "Royals",
+      "url": "https://open.spotify.com/track/7Cxq5B4XJt5FrpU4Uu2BxO"
+    },
+    {
+      "added_at": "2023-12-01 11:30:00",
       "album": {
         "name": "Lyssna till ditt hj\u00e4rta",
         "url": "https://open.spotify.com/album/1jWedFgADqAwwe3nP3RZlA"
@@ -665,7 +833,7 @@
       "url": "https://open.spotify.com/track/4BhEDrbVxPgu13SQFwoDCV"
     },
     {
-      "added_at": "2023-02-26 01:59:39",
+      "added_at": "2023-12-01 11:30:00",
       "album": {
         "name": "Om om och om igen",
         "url": "https://open.spotify.com/album/34VOvxhqnb5cGsO67IO3Rd"
@@ -679,180 +847,8 @@
       "duration_ms": 167346,
       "name": "Om om och om igen",
       "url": "https://open.spotify.com/track/1Lg5Qf47RERQQmfYbGZB43"
-    },
-    {
-      "added_at": "2023-02-26 01:59:39",
-      "album": {
-        "name": "La Dolce Vita",
-        "url": "https://open.spotify.com/album/7rELI4gV9vdWKbSDF7Jsmi"
-      },
-      "artists": [
-        {
-          "name": "After Dark",
-          "url": "https://open.spotify.com/artist/6IsSP3qzKVJziwtHkmKuRl"
-        }
-      ],
-      "duration_ms": 180800,
-      "name": "La Dolce Vita",
-      "url": "https://open.spotify.com/track/1b5yFVBwIbjKI2TULxtDoC"
-    },
-    {
-      "added_at": "2023-02-26 01:59:39",
-      "album": {
-        "name": "A",
-        "url": "https://open.spotify.com/album/6HDTuFOdtkETh4RnxIDNVm"
-      },
-      "artists": [
-        {
-          "name": "Anton Ewald",
-          "url": "https://open.spotify.com/artist/6HKV18fbiZPLNSoTUnTALb"
-        }
-      ],
-      "duration_ms": 182106,
-      "name": "Begging",
-      "url": "https://open.spotify.com/track/2sjZkR11bgYNjDOHqjvCK1"
-    },
-    {
-      "added_at": "2023-02-26 01:59:39",
-      "album": {
-        "name": "Lasse Holm",
-        "url": "https://open.spotify.com/album/6YqYUREfAQkDJmn2BfaCrQ"
-      },
-      "artists": [
-        {
-          "name": "Lasse Holm",
-          "url": "https://open.spotify.com/artist/4fYwnbPagtCH2o6prMmgoI"
-        },
-        {
-          "name": "Monica Th\u00f6rnell",
-          "url": "https://open.spotify.com/artist/2jC1JNttGelaaJn6QLyJYA"
-        }
-      ],
-      "duration_ms": 169783,
-      "name": "E' de' det h\u00e4r du kallar k\u00e4rlek",
-      "url": "https://open.spotify.com/track/5MBBQ7P9AozcQ8lF7So1B3"
-    },
-    {
-      "added_at": "2023-02-26 01:59:39",
-      "album": {
-        "name": "H\u00f6gt \u00f6ver havet",
-        "url": "https://open.spotify.com/album/0lTGL5FPRV2cL926HKbUaS"
-      },
-      "artists": [
-        {
-          "name": "Arja Saijonmaa",
-          "url": "https://open.spotify.com/artist/7eoFSuG70jwEpxd1LdKNxK"
-        }
-      ],
-      "duration_ms": 169226,
-      "name": "H\u00f6gt \u00f6ver havet",
-      "url": "https://open.spotify.com/track/4J5KXnvaoSPa7yHrsNnqda"
-    },
-    {
-      "added_at": "2023-02-26 01:59:39",
-      "album": {
-        "name": "My Way",
-        "url": "https://open.spotify.com/album/0pvbtMDkjdbU3XDKU6Zm6P"
-      },
-      "artists": [
-        {
-          "name": "Tone Sekelius",
-          "url": "https://open.spotify.com/artist/60ocUh2KF1ZOSqjkxyt6jl"
-        }
-      ],
-      "duration_ms": 182443,
-      "name": "My Way",
-      "url": "https://open.spotify.com/track/0tmMGxsxRd78NJGrMesWtx"
-    },
-    {
-      "added_at": "2023-02-26 01:59:39",
-      "album": {
-        "name": "X My Heart",
-        "url": "https://open.spotify.com/album/4GXyJ4D53Gx0I3lHzhDUxd"
-      },
-      "artists": [
-        {
-          "name": "Jan Johansen",
-          "url": "https://open.spotify.com/artist/4Nd6R1oljERR3D2893MpJf"
-        },
-        {
-          "name": "Pernilla Wahlgren",
-          "url": "https://open.spotify.com/artist/4tUajUzujJgjYQ6mMbsMRf"
-        }
-      ],
-      "duration_ms": 174733,
-      "name": "Let Your Spirit Fly",
-      "url": "https://open.spotify.com/track/1k8Licv2jaRTbRtAbJZ3In"
-    },
-    {
-      "added_at": "2023-02-26 01:59:39",
-      "album": {
-        "name": "90-talet",
-        "url": "https://open.spotify.com/album/5xdHq3shCsEXuyt3hTPBvn"
-      },
-      "artists": [
-        {
-          "name": "WAHL",
-          "url": "https://open.spotify.com/artist/5tDnwIxYT1LAYH37yBqg4Z"
-        },
-        {
-          "name": "SAMI",
-          "url": "https://open.spotify.com/artist/0GYJScAPulF6GTFYJOpHVr"
-        }
-      ],
-      "duration_ms": 176578,
-      "name": "90-talet",
-      "url": "https://open.spotify.com/track/6O27WBEqkGeyq3hNYE0BdS"
-    },
-    {
-      "added_at": "2023-02-26 01:59:39",
-      "album": {
-        "name": "Det g\u00f6r ont en stund p\u00e5 natten men inget p\u00e5 dan",
-        "url": "https://open.spotify.com/album/3CQHhvbYaNHJdfp8N79Nbr"
-      },
-      "artists": [
-        {
-          "name": "Lena Philipsson",
-          "url": "https://open.spotify.com/artist/7rZYHhxGKbe1XepzlpDlKm"
-        }
-      ],
-      "duration_ms": 183746,
-      "name": "Det g\u00f6r ont",
-      "url": "https://open.spotify.com/track/51md9KzX92LQh84mUsaPPD"
-    },
-    {
-      "added_at": "2023-02-26 01:59:39",
-      "album": {
-        "name": "Everyday",
-        "url": "https://open.spotify.com/album/3H8RhX7BEs0wvFLAkZXVlW"
-      },
-      "artists": [
-        {
-          "name": "Mendez",
-          "url": "https://open.spotify.com/artist/5z9PI0y6MRnL9BCHOI5ilL"
-        }
-      ],
-      "duration_ms": 185239,
-      "name": "Everyday",
-      "url": "https://open.spotify.com/track/7DgXgP8rZZuIgh8vjhiQ0c"
-    },
-    {
-      "added_at": "2023-02-26 01:59:39",
-      "album": {
-        "name": "Dance You Off",
-        "url": "https://open.spotify.com/album/0TDIGmEpqWpZiTCRW6133p"
-      },
-      "artists": [
-        {
-          "name": "Benjamin Ingrosso",
-          "url": "https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5"
-        }
-      ],
-      "duration_ms": 182134,
-      "name": "Dance You Off",
-      "url": "https://open.spotify.com/track/0s3P5PImfDZYWIseR3b39D"
     }
   ],
-  "unique_name": "Schlagerfest",
+  "unique_name": "Mellofest! ",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWYgwF78otcGY"
 }

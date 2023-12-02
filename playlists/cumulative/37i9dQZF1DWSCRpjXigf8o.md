@@ -4,7 +4,7 @@
 
 > 爽やかな1日を、スロー〜ミッドテンポな音楽と共に心地よくスタートしませんか？？
 
-465 songs - 1 day 4 hr 32 min
+466 songs - 1 day 4 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,7 +45,8 @@
 | [As It Was](https://open.spotify.com/track/6adP3vuwCZxxZzns0oDEEA) | [Us The Duo](https://open.spotify.com/artist/3QGKsAfhZdldQCLuLjk6zl) | [As It Was](https://open.spotify.com/album/5EXGvuSkshnysHOI7kPBTR) | 3:07 | 2023-02-28 | 2023-04-21 |
 | [Aselestine](https://open.spotify.com/track/2M7TQ7SQVGxLhIV43yTN8I) | [Yo La Tengo](https://open.spotify.com/artist/5hAhrnb0Ch4ODwWu4tsbpi) | [Aselestine](https://open.spotify.com/album/3YO4xzqS7a56VCkqxgsoy2) | 3:50 | 2023-01-10 | 2023-01-20 |
 | [Aselestine \- Bunker Session](https://open.spotify.com/track/5APOkC9qu8igSKMFnPWuV3) | [Yo La Tengo](https://open.spotify.com/artist/5hAhrnb0Ch4ODwWu4tsbpi) | [The Bunker Sessions](https://open.spotify.com/album/45egp7YH1xLEbj2OkVetsX) | 3:42 | 2023-11-07 | 2023-11-22 |
-| [Ashita Tenki Ni Nare \- Cover](https://open.spotify.com/track/7E95CpDp0MERvOhcPTDuv0) | [Lisa Halim](https://open.spotify.com/artist/52kXMSVvJpQ9RWABFBt9H9), [Kenny](https://open.spotify.com/artist/3i0SazQig71kiRdJLBkq9p) | [Ashita Tenki Ni Nare \(Cover\)](https://open.spotify.com/album/46oivT9zupslDZBLGCGBKR) | 4:29 | 2023-11-14 |  |
+| [Ashita Tenki Ni Nare \- Cover](https://open.spotify.com/track/78PYbReP6lbO2cWUfIKmkA) | [Lisa Halim](https://open.spotify.com/artist/52kXMSVvJpQ9RWABFBt9H9), [Kenny](https://open.spotify.com/artist/3i0SazQig71kiRdJLBkq9p) | [by the Sea 3](https://open.spotify.com/album/1h5gkqfacQ9cbtSPgj08cz) | 4:29 | 2023-11-30 |  |
+| [Ashita Tenki Ni Nare \- Cover](https://open.spotify.com/track/7E95CpDp0MERvOhcPTDuv0) | [Lisa Halim](https://open.spotify.com/artist/52kXMSVvJpQ9RWABFBt9H9), [Kenny](https://open.spotify.com/artist/3i0SazQig71kiRdJLBkq9p) | [Ashita Tenki Ni Nare \(Cover\)](https://open.spotify.com/album/46oivT9zupslDZBLGCGBKR) | 4:29 | 2023-11-14 | 2023-12-02 |
 | [Back Pocket](https://open.spotify.com/track/1DrlLvlYd1FIjNavRm6NdX) | [Vulfpeck](https://open.spotify.com/artist/7pXu47GoqSYRajmBCjxdD6), [Vulf](https://open.spotify.com/artist/1kkjXmcMmibTegsw0JtDwv) | [Thrill of the Arts](https://open.spotify.com/album/0LyGgFrZFXpRKpgj664Xu7) | 3:01 | 2023-03-07 | 2023-07-12 |
 | [back to me](https://open.spotify.com/track/2DKMdkAal5If57D4ltQQur) | [Vivien Yap](https://open.spotify.com/artist/71gWfXRZ2vs5cQ7Bfh9M53) | [back to me](https://open.spotify.com/album/2J7Utc8BqKvS4HWDOyRDlf) | 3:10 | 2023-05-25 | 2023-09-15 |
 | [Ballad Kibun](https://open.spotify.com/track/4so7Q5JTkr8wkW45MOeqVe) | [Keiichi Sokabe](https://open.spotify.com/artist/5L2Y03AcUOXCgvRMTy2Gwq) | [Hazard Of Love](https://open.spotify.com/album/618qCFzzmmL4iN3TlH2SPC) | 3:58 | 2023-11-28 |  |

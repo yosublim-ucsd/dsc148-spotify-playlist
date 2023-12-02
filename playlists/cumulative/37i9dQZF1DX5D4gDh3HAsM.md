@@ -4,7 +4,7 @@
 
 > Jazzy takes on your favorite Holiday songs\. Cover: Samara Joy
 
-140 songs - 8 hr 20 min
+141 songs - 8 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [Angels We Have Heard on High / Joy to the World](https://open.spotify.com/track/3ZtqRGAm0Q3hUjRKKGoDeA) | [Joe Pass](https://open.spotify.com/artist/4DuZTASH5eSyd0K73W6fuZ) | [Joe Pass \- Six String Santa](https://open.spotify.com/album/1SXRnss2fnudVkXZrVxIJX) | 4:35 | 2021-11-12 |  |
 | [Baby, It's Cold Outside](https://open.spotify.com/track/1zZGu0CZd3Sifl2GNECXWG) | [Jimmy Smith](https://open.spotify.com/artist/5GXruybcLmXPjR9rKKFyS6), [Wes Montgomery](https://open.spotify.com/artist/03YhcM6fxypfwckPCQV8pQ) | [Christmas Cookin'](https://open.spotify.com/album/0uhYdmdjyACeqr61Pf6gPC) | 6:00 | 2021-11-12 |  |
 | [Better Than Snow](https://open.spotify.com/track/74H6uHl17HLeYWshgDfMrX) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N), [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Christmas With You](https://open.spotify.com/album/2cWrkknTj4squbs2aANuHp) | 2:46 | 2023-11-10 |  |
+| [Candy Cane Lane](https://open.spotify.com/track/0TUVQt59Z1X4tWbdcQNTrO) | [Marcus Miller](https://open.spotify.com/artist/6fmq5mv6HnduZdlTOEYBC9) | [Candy Cane Lane \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6qkGM0bKCxCyX1u67xMBkm) | 3:53 | 2023-12-01 |  |
 | [Carol of the Bells](https://open.spotify.com/track/0aMkS3yNwY1wYgvsQTj7ZB) | [Aubrey Logan](https://open.spotify.com/artist/5GIBLQgzkZKjBDRhVQ4j1z) | [Carol of the Bells](https://open.spotify.com/album/1QxeDUAoZ6u9DIasmE1xGJ) | 3:46 | 2021-11-12 |  |
 | [Carol Of The Bells](https://open.spotify.com/track/4s6oQ7wdy7jOv53weBiPli) | [Wynton Marsalis](https://open.spotify.com/artist/375zxMmh2cSgUzFFnva0O7) | [Crescent City Christmas Card](https://open.spotify.com/album/2NByhuKF7RIqf9OQhs6rJ6) | 4:52 | 2021-11-12 |  |
 | [Christmas Calling \(Jolly Jones\)](https://open.spotify.com/track/43hPyoE1vsz3VnvBDupq5B) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [I Dream Of Christmas \(Deluxe\)](https://open.spotify.com/album/1QGL60gbmLX8f4mWFP0xBw) | 3:20 | 2023-09-29 |  |
@@ -108,7 +109,7 @@
 | [Silver Bells](https://open.spotify.com/track/1qUNMljTcCUraMU82IU7aN) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV) | [The Classic Christmas Album](https://open.spotify.com/album/6Djk03kVAeEzGpFpLbA141) | 3:15 | 2021-11-12 |  |
 | [Sleigh Ride](https://open.spotify.com/track/1YrVIuRdDYU9eWBBzw1QUC) | [Bill Cantos](https://open.spotify.com/artist/6WjNgC678BdeXKqJ1TrS9D) | [Sleigh Ride](https://open.spotify.com/album/0NvuVQK17mnmE4hzALEuDZ) | 3:00 | 2022-11-25 |  |
 | [Sleigh Ride](https://open.spotify.com/track/4ukUoXLuFzMixyZyabSGc4) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Ella Wishes You A Swinging Christmas \(Expanded Edition\)](https://open.spotify.com/album/2UhPCUgK2IGUrg7lIvMYfb) | 2:55 | 2021-11-12 |  |
-| [Sleigh Ride](https://open.spotify.com/track/7DvMep6G9cf4tJ85lGj0P3) | [Niclas Knudsen](https://open.spotify.com/artist/7ErSwiH3ISJy905okfPJU5), [The Jazz Seekers](https://open.spotify.com/artist/1K6IcbnI4HSwAjecks1vG1) | [Blue Christmas](https://open.spotify.com/album/51un0U9tdv3Tnz6fZWlEKL) | 4:29 | 2023-09-22 |  |
+| [Sleigh Ride](https://open.spotify.com/track/7DvMep6G9cf4tJ85lGj0P3) | [Niclas Knudsen](https://open.spotify.com/artist/7ErSwiH3ISJy905okfPJU5), [The Jazz Seekers](https://open.spotify.com/artist/1K6IcbnI4HSwAjecks1vG1) | [Blue Christmas](https://open.spotify.com/album/51un0U9tdv3Tnz6fZWlEKL) | 4:29 | 2023-09-22 | 2023-12-02 |
 | [Snowfall](https://open.spotify.com/track/1UWCJQJv0PbtWa2KXyN6yY) | [Don Sebesky](https://open.spotify.com/artist/4yr0fHJhSr7ZWlsoZIbg44) | [Let's Share Christmas](https://open.spotify.com/album/1NfiYHxoziSkGlC121fURe) | 3:12 | 2021-11-12 |  |
 | [Sugar Rum Cherry \(Dance of the Sugar\-Plum Fairy\)](https://open.spotify.com/track/2OyMysbUPsAV7W3ga8Lqr0) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [Three Suites](https://open.spotify.com/album/4YfEBSeidWGv2gn4LUUiVS) | 3:05 | 2021-11-12 |  |
 | [That Holiday Feeling](https://open.spotify.com/track/1bKVlbJLBpyyXM5SwJovPW) | [Jane Monheit](https://open.spotify.com/artist/7rwI5cbw9cUKFVul2rZMiZ), [John Pizzarelli](https://open.spotify.com/artist/5Yc3oYPNlABAj17eZiNJqf) | [The Merriest](https://open.spotify.com/album/3VoVYgeYB0L3ZwYx0ox2UF) | 3:57 | 2022-11-04 |  |

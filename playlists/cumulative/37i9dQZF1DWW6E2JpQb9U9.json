@@ -3712,7 +3712,7 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 410746,
       "name": "Pantalla Del Mundo Nuevo",
       "url": "https://open.spotify.com/track/4YbGxcfzDt4vDFUA3RcB5M"
@@ -5300,6 +5300,24 @@
       "duration_ms": 267240,
       "name": "Una Nueva Noche Fria - Vivo - Mezclado y Masterizado 2017",
       "url": "https://open.spotify.com/track/4Fckaw7KFh4qXmwwVp6mDJ"
+    },
+    {
+      "album": {
+        "name": "En Vivo en Chile Volumen 2",
+        "url": "https://open.spotify.com/album/6FDXSzTmfZ1sVYf6D81HGv"
+      },
+      "artists": [
+        {
+          "name": "Smitten",
+          "url": "https://open.spotify.com/artist/6b12ezIOzhz60P3CASuEtL"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145712,
+      "name": "Una Persona Especial (En Vivo)",
+      "url": "https://open.spotify.com/track/0ba0fBNrr6wuOzPXtIcvht"
     },
     {
       "album": {

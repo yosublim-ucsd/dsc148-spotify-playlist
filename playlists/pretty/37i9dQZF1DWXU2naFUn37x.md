@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXU2naFUn37x.md) - [plain]
 
 > Solo il meglio dello street rap italiano\. Cover: Artie 5ive, Rondodasosa
 
-[Spotify](https://open.spotify.com/user/spotify) - 876,432 likes - 50 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 876,686 likes - 50 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXU2naFUn37x.md) - [plain]
 | 17 | [G63](https://open.spotify.com/track/0lqGKcPzUX4RO4PYysoLes) | [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz), [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM), [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [X2VR](https://open.spotify.com/album/3ilgQgVMtxAxN2Jmb1OM29) | 3:49 |
 | 18 | [LEVANTE \(feat\. Paky\)](https://open.spotify.com/track/5J40VCMOSuXZZAGJZeFzQJ) | [Simba La Rue](https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO), [Paky](https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2) | [LEVANTE \(feat\. Paky\)](https://open.spotify.com/album/3eZqA45DiafIF7obBL69jg) | 2:19 |
 | 19 | [Spedizione punitiva](https://open.spotify.com/track/2RqyqoJTECRr2py03ZmTvF) | [Neima Ezza](https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK), [Simba La Rue](https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO), [Nko](https://open.spotify.com/artist/4kTOsBwxhA2Sn4PSs7PqnN) | [Spedizione punitiva](https://open.spotify.com/album/7GuR3OGl4rQ7RkFGPdcQHW) | 2:36 |
-| 20 | [Paura E Delirio A Milano \(feat\. Tony Effe, Dylan, Side Baby\)](https://open.spotify.com/track/44hjRBoW648rQndFHKlgXQ) | [Ghali](https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L), [Tony Effe](https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF), [Dylan](https://open.spotify.com/artist/7h1amg0X7Q5d0D5KfuyKTg), [Side Baby](https://open.spotify.com/artist/6PXiPeUVFrlaC1n8511ijT) | [PIZZA KEBAB Vol\. 1](https://open.spotify.com/album/36pfG4aLiawluO8PgGZkeh) | 3:04 |
+| 20 | [Paura E Delirio A Milano \(feat\. Tony Effe, Dylan, Side Baby\)](https://open.spotify.com/track/44hjRBoW648rQndFHKlgXQ) | [Ghali](https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L), [Tony Effe](https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF), [Pyrex](https://open.spotify.com/artist/7h1amg0X7Q5d0D5KfuyKTg), [Side Baby](https://open.spotify.com/artist/6PXiPeUVFrlaC1n8511ijT) | [PIZZA KEBAB Vol\. 1](https://open.spotify.com/album/36pfG4aLiawluO8PgGZkeh) | 3:04 |
 | 21 | [LE BAMBINE FANNO OH \(feat\. Nerissima Serpe, ANNA, Papa V, Artie 5ive\)](https://open.spotify.com/track/0bB8hmswtN9WvOQXV159CC) | [Sadturs](https://open.spotify.com/artist/4SRpFyqwIrO0xMX39HJnaU), [KIID](https://open.spotify.com/artist/5oKFHzk5mSd5uJpod1D8aB), [Nerissima Serpe](https://open.spotify.com/artist/08ppjXEpROUgrG1X0DEquB), [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u), [Papa V](https://open.spotify.com/artist/0vAALEhfbmllIOX1t7k5KU), [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF) | [NO REGULAR MUSIC](https://open.spotify.com/album/2KiDg7QmIS9i9mqA2UXBi2) | 3:16 |
 | 22 | [BIMBO \(feat\. Silent Bob\)](https://open.spotify.com/track/4c5wegs9dkCHNhEyHAunBB) | [Il Ghost](https://open.spotify.com/artist/2tOGpIgNsnDk6BxqFU2vCX), [Silent Bob](https://open.spotify.com/artist/4oEO6Ud3efrjTNSR9SMleI) | [1998](https://open.spotify.com/album/32PGcnp7IuxfO715MOt1Fm) | 2:46 |
 | 23 | [ABC \(feat\. Bello Figo\)](https://open.spotify.com/track/50qPOMP2Kw8qOD1dsExaKQ) | [Slings](https://open.spotify.com/artist/0XMi14343o5LtUKVdKmMUj), [Bello Figo](https://open.spotify.com/artist/59rqdbDiB9oXuZggah1syh) | [ABC \(feat\. Bello Figo\)](https://open.spotify.com/album/5N2chCw2KvN4O0CNZTkXzR) | 2:23 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXU2naFUn37x.md) - [plain]
 | 49 | [F\*\*k the club up \(feat\. Diss Gacha\)](https://open.spotify.com/track/0pSQ12PmPwGkrwbekf40UF) | [Side Baby](https://open.spotify.com/artist/6PXiPeUVFrlaC1n8511ijT), [Diss Gacha](https://open.spotify.com/artist/4TKF8KSK6bgHgszFxu5xzu) | [F\*\*k the club up \(feat\. Diss Gacha\)](https://open.spotify.com/album/6mQDsMcWWITYk79BxBGhnQ) | 2:20 |
 | 50 | [IMBORGHESI](https://open.spotify.com/track/08sKSGw1ADTFGbPfg8EtTY) | [167 Gang](https://open.spotify.com/artist/2m43lP1Wo0IPyxVG4ofE33), [MINUR](https://open.spotify.com/artist/7rylbiZO3rabYvIKu4Kcg0) | [IMBORGHESI](https://open.spotify.com/album/2MNYQ9zHQbjck8OtyaxKs5) | 2:44 |
 
-Snapshot ID: `MCxjNzBmZWY4ZTU2Mjg5YTQ3ZWFmYTA2YjlmMDIyM2I0MDBmNjNkMjQw`
+Snapshot ID: `MCwyZDAwYjg0MGYzN2JmMjEzM2U3Mzc3MjFiNzczNTU2ZjljZjI4YTli`

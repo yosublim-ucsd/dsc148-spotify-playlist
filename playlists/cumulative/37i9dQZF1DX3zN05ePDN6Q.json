@@ -1278,7 +1278,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 194542,
       "name": "Ca\u00e7a e Ca\u00e7adora",
       "url": "https://open.spotify.com/track/5TtztrnfY1e0GCILeeANue"
@@ -2256,6 +2256,24 @@
       "duration_ms": 223322,
       "name": "D\u00e1 um Tempo",
       "url": "https://open.spotify.com/track/3djugyrrA5PzsLBlwWJ7ro"
+    },
+    {
+      "album": {
+        "name": "E Essa Boca A\u00ed?",
+        "url": "https://open.spotify.com/album/4qpE0CGYQRNdKC8jOxCMBy"
+      },
+      "artists": [
+        {
+          "name": "Pedrosa",
+          "url": "https://open.spotify.com/artist/41iSmIaCOZWguy6ZVspcF2"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147007,
+      "name": "E Essa Boca A\u00ed?",
+      "url": "https://open.spotify.com/track/3DbJ5uxWaEuC0PJeFhw10i"
     },
     {
       "album": {
@@ -5730,7 +5748,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 138242,
       "name": "PQ?",
       "url": "https://open.spotify.com/track/3kTBFHVkQFY12Rx8Ao2AC1"
@@ -5914,6 +5932,32 @@
       "duration_ms": 154054,
       "name": "Pulsa",
       "url": "https://open.spotify.com/track/6Z2Cn9IheRLbCRrquBDcbS"
+    },
+    {
+      "album": {
+        "name": "Minha Zona",
+        "url": "https://open.spotify.com/album/3kQtp9lR4eixzvzvPzP0hG"
+      },
+      "artists": [
+        {
+          "name": "Pecaos",
+          "url": "https://open.spotify.com/artist/1P6YQ0gEs3NawlLhT7KtpG"
+        },
+        {
+          "name": "NEKTRASH",
+          "url": "https://open.spotify.com/artist/4jxiBeFywrrmqV7cpC9EWP"
+        },
+        {
+          "name": "lucasbin",
+          "url": "https://open.spotify.com/artist/7KYrffinPH0x6rrRIqIBid"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196626,
+      "name": "Puma e Pantera",
+      "url": "https://open.spotify.com/track/2zNxU5GD2ReI4K4v6OzVGr"
     },
     {
       "album": {
@@ -7708,7 +7752,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 259170,
       "name": "TUDO CULPA DO RNB",
       "url": "https://open.spotify.com/track/2nggP0zfWZb8QQf47LPv2z"
@@ -8650,6 +8694,24 @@
       "duration_ms": 135604,
       "name": "\u00c1gua no Feij\u00e3o",
       "url": "https://open.spotify.com/track/01iDxGokio8GbYW63DLVet"
+    },
+    {
+      "album": {
+        "name": "\u00c1rea",
+        "url": "https://open.spotify.com/album/0xuCDJc5OlUjwZcpSTJbIj"
+      },
+      "artists": [
+        {
+          "name": "Kamau",
+          "url": "https://open.spotify.com/artist/2oB7m9exCPwJ8jwDgKWjho"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 68712,
+      "name": "\u00c1rea",
+      "url": "https://open.spotify.com/track/0FoVg7mp463BHpgYNkYBmA"
     },
     {
       "album": {

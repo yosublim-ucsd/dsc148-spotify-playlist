@@ -1,12 +1,12 @@
 {
   "description": " songs that feel like new and old friends, all stitched together.",
-  "num_followers": 177807,
+  "num_followers": 177869,
   "original_name": "patchwork",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4OWFiNWI2OGU5NzUyZmVhMWZiNWM0ODdhNDFjOWQ4NDNmN2QwMmMy",
+  "snapshot_id": "MCw3ZThlZDBmM2Y2YjBlODhiZDI5NDQ1MzRlNTA2YjFlYWI3NjRkNDli",
   "tracks": [
     {
       "added_at": "2023-09-26 13:24:44",
@@ -435,22 +435,6 @@
     {
       "added_at": "2023-09-26 13:24:44",
       "album": {
-        "name": "Race",
-        "url": "https://open.spotify.com/album/3hY0WIR79EKnQcwUsyRy5m"
-      },
-      "artists": [
-        {
-          "name": "Alex G",
-          "url": "https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs"
-        }
-      ],
-      "duration_ms": 75524,
-      "name": "TV",
-      "url": "https://open.spotify.com/track/5gnOGcUA9Thwa611bn3Rp2"
-    },
-    {
-      "added_at": "2023-09-26 13:24:44",
-      "album": {
         "name": "MUNA",
         "url": "https://open.spotify.com/album/4ndTvTrNwgUfRw4g1R2B4l"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 206586,
       "name": "Silk Chiffon",
       "url": "https://open.spotify.com/track/5ECxiK4Vigo1yRRmAoZc1f"
+    },
+    {
+      "added_at": "2023-09-26 13:24:44",
+      "album": {
+        "name": "Race",
+        "url": "https://open.spotify.com/album/3hY0WIR79EKnQcwUsyRy5m"
+      },
+      "artists": [
+        {
+          "name": "Alex G",
+          "url": "https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs"
+        }
+      ],
+      "duration_ms": 75524,
+      "name": "TV",
+      "url": "https://open.spotify.com/track/5gnOGcUA9Thwa611bn3Rp2"
     },
     {
       "added_at": "2023-09-26 13:24:44",
@@ -615,22 +615,6 @@
     {
       "added_at": "2023-09-26 13:24:44",
       "album": {
-        "name": "if i could make it go quiet",
-        "url": "https://open.spotify.com/album/69p42ovQdwmYPLUsAQpeNn"
-      },
-      "artists": [
-        {
-          "name": "girl in red",
-          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
-        }
-      ],
-      "duration_ms": 195951,
-      "name": "You Stupid Bitch",
-      "url": "https://open.spotify.com/track/65wEZxhPlAERKLcSbTD7qc"
-    },
-    {
-      "added_at": "2023-09-26 13:24:44",
-      "album": {
         "name": "flounder",
         "url": "https://open.spotify.com/album/3AmWQhIXHawKYgthdEJSLJ"
       },
@@ -647,18 +631,18 @@
     {
       "added_at": "2023-09-26 13:24:44",
       "album": {
-        "name": "Spreading Rumours",
-        "url": "https://open.spotify.com/album/1VNBZDM7OxEQPFbEtVqUuf"
+        "name": "if i could make it go quiet",
+        "url": "https://open.spotify.com/album/69p42ovQdwmYPLUsAQpeNn"
       },
       "artists": [
         {
-          "name": "GROUPLOVE",
-          "url": "https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx"
+          "name": "girl in red",
+          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
         }
       ],
-      "duration_ms": 196026,
-      "name": "Raspberry",
-      "url": "https://open.spotify.com/track/1F5A4LpF8ylUVtPoMAvNvn"
+      "duration_ms": 195951,
+      "name": "You Stupid Bitch",
+      "url": "https://open.spotify.com/track/65wEZxhPlAERKLcSbTD7qc"
     },
     {
       "added_at": "2023-09-26 13:24:44",
@@ -675,6 +659,22 @@
       "duration_ms": 224266,
       "name": "Shampoo Bottles",
       "url": "https://open.spotify.com/track/2INUkDPCO1eQlOFmIN5VAC"
+    },
+    {
+      "added_at": "2023-09-26 13:24:44",
+      "album": {
+        "name": "Spreading Rumours",
+        "url": "https://open.spotify.com/album/1VNBZDM7OxEQPFbEtVqUuf"
+      },
+      "artists": [
+        {
+          "name": "GROUPLOVE",
+          "url": "https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx"
+        }
+      ],
+      "duration_ms": 196026,
+      "name": "Raspberry",
+      "url": "https://open.spotify.com/track/1F5A4LpF8ylUVtPoMAvNvn"
     },
     {
       "added_at": "2023-09-26 13:24:44",
@@ -871,22 +871,6 @@
     {
       "added_at": "2023-09-26 13:24:44",
       "album": {
-        "name": "Violet Street",
-        "url": "https://open.spotify.com/album/0ORZb7kyr8aaP2LpL3mhuY"
-      },
-      "artists": [
-        {
-          "name": "Local Natives",
-          "url": "https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ"
-        }
-      ],
-      "duration_ms": 264213,
-      "name": "When Am I Gonna Lose You",
-      "url": "https://open.spotify.com/track/5wCVLW9qMtIY9IkBeyYnh6"
-    },
-    {
-      "added_at": "2023-09-26 13:24:44",
-      "album": {
         "name": "Wet Leg",
         "url": "https://open.spotify.com/album/0r9awI5WRCZpwk0aVQ4bKO"
       },
@@ -903,18 +887,18 @@
     {
       "added_at": "2023-09-26 13:24:44",
       "album": {
-        "name": "Softly",
-        "url": "https://open.spotify.com/album/7qlt7zR5715v6Ey0lQsjcN"
+        "name": "Violet Street",
+        "url": "https://open.spotify.com/album/0ORZb7kyr8aaP2LpL3mhuY"
       },
       "artists": [
         {
-          "name": "Arlo Parks",
-          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+          "name": "Local Natives",
+          "url": "https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ"
         }
       ],
-      "duration_ms": 188780,
-      "name": "Softly",
-      "url": "https://open.spotify.com/track/3fpfQC77x3uwESSJ6VmUKM"
+      "duration_ms": 264213,
+      "name": "When Am I Gonna Lose You",
+      "url": "https://open.spotify.com/track/5wCVLW9qMtIY9IkBeyYnh6"
     },
     {
       "added_at": "2023-09-26 13:24:44",
@@ -935,6 +919,22 @@
     {
       "added_at": "2023-09-26 13:24:44",
       "album": {
+        "name": "Softly",
+        "url": "https://open.spotify.com/album/7qlt7zR5715v6Ey0lQsjcN"
+      },
+      "artists": [
+        {
+          "name": "Arlo Parks",
+          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+        }
+      ],
+      "duration_ms": 188780,
+      "name": "Softly",
+      "url": "https://open.spotify.com/track/3fpfQC77x3uwESSJ6VmUKM"
+    },
+    {
+      "added_at": "2023-09-26 13:24:44",
+      "album": {
         "name": "The King",
         "url": "https://open.spotify.com/album/27UVPGKePLLUlHX7xDQb7m"
       },
@@ -951,22 +951,6 @@
     {
       "added_at": "2023-09-26 13:24:44",
       "album": {
-        "name": "Alive!",
-        "url": "https://open.spotify.com/album/0lvFKHiygKiwhKHNYPmRzn"
-      },
-      "artists": [
-        {
-          "name": "Bakar",
-          "url": "https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H"
-        }
-      ],
-      "duration_ms": 232133,
-      "name": "Alive!",
-      "url": "https://open.spotify.com/track/6KzI6EM1QYyOq5oudPlcWT"
-    },
-    {
-      "added_at": "2023-09-26 13:24:44",
-      "album": {
         "name": "Can You Afford To Lose Me?",
         "url": "https://open.spotify.com/album/17XDDX3RYaIu56inOJzAWO"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 196226,
       "name": "Scarlett",
       "url": "https://open.spotify.com/track/5UqTWnG7YZAbj1SYMvnGsU"
+    },
+    {
+      "added_at": "2023-09-26 13:24:44",
+      "album": {
+        "name": "Alive!",
+        "url": "https://open.spotify.com/album/0lvFKHiygKiwhKHNYPmRzn"
+      },
+      "artists": [
+        {
+          "name": "Bakar",
+          "url": "https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H"
+        }
+      ],
+      "duration_ms": 232133,
+      "name": "Alive!",
+      "url": "https://open.spotify.com/track/6KzI6EM1QYyOq5oudPlcWT"
     },
     {
       "added_at": "2023-09-26 13:24:44",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2023-09-26 13:24:44",
       "album": {
-        "name": "Halo",
-        "url": "https://open.spotify.com/album/2VJD6kU8nmxXVrScRyddqV"
-      },
-      "artists": [
-        {
-          "name": "Bakar",
-          "url": "https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H"
-        }
-      ],
-      "duration_ms": 180933,
-      "name": "Right Here, for Now",
-      "url": "https://open.spotify.com/track/2LxRUWNqcKcTo7zOrctebE"
-    },
-    {
-      "added_at": "2023-09-26 13:24:44",
-      "album": {
         "name": "Backwards Directions",
         "url": "https://open.spotify.com/album/5mhk3C0cKun3x8MoIwkukF"
       },
@@ -1095,22 +1079,6 @@
     {
       "added_at": "2023-09-26 13:24:44",
       "album": {
-        "name": "Born To Die",
-        "url": "https://open.spotify.com/album/4vXt6IpMcSnqonljffWlMI"
-      },
-      "artists": [
-        {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
-        }
-      ],
-      "duration_ms": 222920,
-      "name": "Diet Mountain Dew",
-      "url": "https://open.spotify.com/track/21xo9jhNSsYyNk8TRKBkY0"
-    },
-    {
-      "added_at": "2023-09-26 13:24:44",
-      "album": {
         "name": "Coastal Grooves",
         "url": "https://open.spotify.com/album/5U2cyX2FRa8CjzdMpqZNJl"
       },
@@ -1123,6 +1091,38 @@
       "duration_ms": 292373,
       "name": "Champagne Coast",
       "url": "https://open.spotify.com/track/2KufM8PiQY4i52XhRL96Fd"
+    },
+    {
+      "added_at": "2023-09-26 13:24:44",
+      "album": {
+        "name": "Halo",
+        "url": "https://open.spotify.com/album/2VJD6kU8nmxXVrScRyddqV"
+      },
+      "artists": [
+        {
+          "name": "Bakar",
+          "url": "https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H"
+        }
+      ],
+      "duration_ms": 180933,
+      "name": "Right Here, for Now",
+      "url": "https://open.spotify.com/track/2LxRUWNqcKcTo7zOrctebE"
+    },
+    {
+      "added_at": "2023-09-26 13:24:44",
+      "album": {
+        "name": "Born To Die",
+        "url": "https://open.spotify.com/album/4vXt6IpMcSnqonljffWlMI"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "duration_ms": 222920,
+      "name": "Diet Mountain Dew",
+      "url": "https://open.spotify.com/track/21xo9jhNSsYyNk8TRKBkY0"
     },
     {
       "added_at": "2023-09-26 13:24:44",
@@ -1307,18 +1307,18 @@
     {
       "added_at": "2023-09-26 13:24:44",
       "album": {
-        "name": "Channel Orange In Your Living Room",
-        "url": "https://open.spotify.com/album/66JX3vC2VqYoDKXGMuokvd"
+        "name": "ABSOLUTE HEARTBREAK",
+        "url": "https://open.spotify.com/album/11Ax1twWIvL2xltYzbH3Up"
       },
       "artists": [
         {
-          "name": "Charlie Burg",
-          "url": "https://open.spotify.com/artist/0ubGY2CcC0tvR0eE6hJaT8"
+          "name": "khai dreams",
+          "url": "https://open.spotify.com/artist/0lawSNBxNgJFQYJnQzLH8c"
         }
       ],
-      "duration_ms": 158373,
-      "name": "Channel Orange In Your Living Room",
-      "url": "https://open.spotify.com/track/27AJf1VXuh3h6QsqQBOLxf"
+      "duration_ms": 154115,
+      "name": "Flowers",
+      "url": "https://open.spotify.com/track/6dv59ySen7al8c1xGC7wIv"
     },
     {
       "added_at": "2023-09-26 13:24:44",
@@ -1339,18 +1339,18 @@
     {
       "added_at": "2023-09-26 13:24:44",
       "album": {
-        "name": "ABSOLUTE HEARTBREAK",
-        "url": "https://open.spotify.com/album/11Ax1twWIvL2xltYzbH3Up"
+        "name": "Channel Orange In Your Living Room",
+        "url": "https://open.spotify.com/album/66JX3vC2VqYoDKXGMuokvd"
       },
       "artists": [
         {
-          "name": "khai dreams",
-          "url": "https://open.spotify.com/artist/0lawSNBxNgJFQYJnQzLH8c"
+          "name": "Charlie Burg",
+          "url": "https://open.spotify.com/artist/0ubGY2CcC0tvR0eE6hJaT8"
         }
       ],
-      "duration_ms": 154115,
-      "name": "Flowers",
-      "url": "https://open.spotify.com/track/6dv59ySen7al8c1xGC7wIv"
+      "duration_ms": 158373,
+      "name": "Channel Orange In Your Living Room",
+      "url": "https://open.spotify.com/track/27AJf1VXuh3h6QsqQBOLxf"
     },
     {
       "added_at": "2023-09-26 13:24:44",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2023-09-26 13:24:44",
       "album": {
-        "name": "Kiss Ur Face Forever",
-        "url": "https://open.spotify.com/album/5Ok9hJcXLgtUlJw7UUBQ2s"
-      },
-      "artists": [
-        {
-          "name": "Orla Gartland",
-          "url": "https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co"
-        }
-      ],
-      "duration_ms": 166556,
-      "name": "Kiss Ur Face Forever",
-      "url": "https://open.spotify.com/track/7lf5XQQCIQkzO15CqYDjo7"
-    },
-    {
-      "added_at": "2023-09-26 13:24:44",
-      "album": {
         "name": "Honeymoon",
         "url": "https://open.spotify.com/album/6QZyKchQivUBTSMcoBmlPa"
       },
@@ -1591,6 +1575,22 @@
       "duration_ms": 187185,
       "name": "Knock Me Off My Feet",
       "url": "https://open.spotify.com/track/3adNtom9Dn2NXmgHf0OwZR"
+    },
+    {
+      "added_at": "2023-09-26 13:24:44",
+      "album": {
+        "name": "Kiss Ur Face Forever",
+        "url": "https://open.spotify.com/album/5Ok9hJcXLgtUlJw7UUBQ2s"
+      },
+      "artists": [
+        {
+          "name": "Orla Gartland",
+          "url": "https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co"
+        }
+      ],
+      "duration_ms": 166556,
+      "name": "Kiss Ur Face Forever",
+      "url": "https://open.spotify.com/track/7lf5XQQCIQkzO15CqYDjo7"
     },
     {
       "added_at": "2023-09-26 13:24:44",
@@ -1659,22 +1659,22 @@
     {
       "added_at": "2023-09-26 13:24:44",
       "album": {
-        "name": "Diving (feat. Holly Humberstone)",
-        "url": "https://open.spotify.com/album/0P4hsKdP3Er6nIVtJOeV25"
+        "name": "Hold On Baby",
+        "url": "https://open.spotify.com/album/3Q998ztjKK3ybjToj0QL9c"
       },
       "artists": [
         {
-          "name": "Bombay Bicycle Club",
-          "url": "https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV"
+          "name": "King Princess",
+          "url": "https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C"
         },
         {
-          "name": "Holly Humberstone",
-          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
+          "name": "Foushe\u00e9",
+          "url": "https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH"
         }
       ],
-      "duration_ms": 215986,
-      "name": "Diving (feat. Holly Humberstone)",
-      "url": "https://open.spotify.com/track/5MEPCTNY7KfpM2FRCkvlQT"
+      "duration_ms": 161297,
+      "name": "Little Bother (feat. Foushe\u00e9)",
+      "url": "https://open.spotify.com/track/3aWWm6V15SPqSgdxtyRM2I"
     }
   ],
   "unique_name": "patchwork",

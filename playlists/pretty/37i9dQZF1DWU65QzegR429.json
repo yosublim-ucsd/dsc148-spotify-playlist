@@ -1,12 +1,12 @@
 {
   "description": "Latin music making waves. Cover: Polim\u00e1 Westcoast",
-  "num_followers": 10250,
+  "num_followers": 10252,
   "original_name": "Latin Frequency",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxYjBhZWU4YjZjOTE2ZWFmMzRkY2NiMWU5ZjJkNzZkMmM1MzI4ZDU1",
+  "snapshot_id": "MCw5NWRiMDhhNGY1MTNjMDVmZDU3N2QzMjA0MjJiNjQwZTViN2Q4ZDlm",
   "tracks": [
     {
       "added_at": "2023-07-24 18:55:43",
@@ -263,6 +263,22 @@
     {
       "added_at": "2023-07-24 18:55:43",
       "album": {
+        "name": "No Me Rajo",
+        "url": "https://open.spotify.com/album/3E1jqnbIn6u4GcPeyg9UIv"
+      },
+      "artists": [
+        {
+          "name": "Hadrian",
+          "url": "https://open.spotify.com/artist/2F9icYS5KP4Td9nbxIjo9q"
+        }
+      ],
+      "duration_ms": 165506,
+      "name": "No Me Rajo",
+      "url": "https://open.spotify.com/track/6DNJF3nPMoTh5g10xugYQz"
+    },
+    {
+      "added_at": "2023-07-24 18:55:43",
+      "album": {
         "name": "Adentro de la Disco (feat. Myke Towers)",
         "url": "https://open.spotify.com/album/2gRPPH31jHTGwhniJINHVr"
       },
@@ -279,22 +295,6 @@
       "duration_ms": 192720,
       "name": "Adentro de la Disco (feat. Myke Towers)",
       "url": "https://open.spotify.com/track/2QJQJEI9WvhqQViGS58gZ7"
-    },
-    {
-      "added_at": "2023-07-24 18:55:43",
-      "album": {
-        "name": "No Me Rajo",
-        "url": "https://open.spotify.com/album/3E1jqnbIn6u4GcPeyg9UIv"
-      },
-      "artists": [
-        {
-          "name": "Hadrian",
-          "url": "https://open.spotify.com/artist/2F9icYS5KP4Td9nbxIjo9q"
-        }
-      ],
-      "duration_ms": 165506,
-      "name": "No Me Rajo",
-      "url": "https://open.spotify.com/track/6DNJF3nPMoTh5g10xugYQz"
     },
     {
       "added_at": "2023-07-24 18:55:43",
@@ -563,22 +563,6 @@
     {
       "added_at": "2023-07-24 18:55:43",
       "album": {
-        "name": "Claramente",
-        "url": "https://open.spotify.com/album/4tOaBzNRKy3Dl0Kz6itXoH"
-      },
-      "artists": [
-        {
-          "name": "Ir Sais",
-          "url": "https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88"
-        }
-      ],
-      "duration_ms": 182542,
-      "name": "Claramente",
-      "url": "https://open.spotify.com/track/3aDFCQQfwcL4aaYEjybAKh"
-    },
-    {
-      "added_at": "2023-07-24 18:55:43",
-      "album": {
         "name": "Dembow Dominicano",
         "url": "https://open.spotify.com/album/1Q6G7NqJ3cN2rTtnNO25za"
       },
@@ -599,6 +583,22 @@
     {
       "added_at": "2023-07-24 18:55:43",
       "album": {
+        "name": "Claramente",
+        "url": "https://open.spotify.com/album/4tOaBzNRKy3Dl0Kz6itXoH"
+      },
+      "artists": [
+        {
+          "name": "Ir Sais",
+          "url": "https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88"
+        }
+      ],
+      "duration_ms": 182542,
+      "name": "Claramente",
+      "url": "https://open.spotify.com/track/3aDFCQQfwcL4aaYEjybAKh"
+    },
+    {
+      "added_at": "2023-07-24 18:55:43",
+      "album": {
         "name": "Rojo Rub\u00ed (Rompiendo La Cadera)",
         "url": "https://open.spotify.com/album/4A9lQhzAsRXLZ8LnArdAUs"
       },
@@ -611,22 +611,6 @@
       "duration_ms": 205000,
       "name": "Rojo Rub\u00ed - Rompiendo La Cadera",
       "url": "https://open.spotify.com/track/00vDTKx0x8foQnP4NfCR1D"
-    },
-    {
-      "added_at": "2023-07-24 18:55:43",
-      "album": {
-        "name": "Tempo",
-        "url": "https://open.spotify.com/album/26OPZGfHxJqhRd2cHrsjMB"
-      },
-      "artists": [
-        {
-          "name": "Jenn Morel",
-          "url": "https://open.spotify.com/artist/7iWWbIVw66I3hHVy9crw6a"
-        }
-      ],
-      "duration_ms": 145576,
-      "name": "Tempo",
-      "url": "https://open.spotify.com/track/1A9PL1Y2cc8aBs6uLSdMHW"
     },
     {
       "added_at": "2023-07-24 18:55:43",
@@ -655,22 +639,18 @@
     {
       "added_at": "2023-07-24 18:55:43",
       "album": {
-        "name": "Acurrucao",
-        "url": "https://open.spotify.com/album/0H4BRh7Cl8ErMlks9Wj80s"
+        "name": "Tempo",
+        "url": "https://open.spotify.com/album/26OPZGfHxJqhRd2cHrsjMB"
       },
       "artists": [
         {
-          "name": "Ir Sais",
-          "url": "https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88"
-        },
-        {
-          "name": "Sofia LaSanta",
-          "url": "https://open.spotify.com/artist/7FKAgyZsXEwIWvCC9uwRl0"
+          "name": "Jenn Morel",
+          "url": "https://open.spotify.com/artist/7iWWbIVw66I3hHVy9crw6a"
         }
       ],
-      "duration_ms": 186428,
-      "name": "Acurrucao",
-      "url": "https://open.spotify.com/track/7aOWxZ4KoVg4cKF8x2iiGI"
+      "duration_ms": 145576,
+      "name": "Tempo",
+      "url": "https://open.spotify.com/track/1A9PL1Y2cc8aBs6uLSdMHW"
     },
     {
       "added_at": "2023-07-24 18:55:43",
@@ -707,6 +687,26 @@
       "duration_ms": 255976,
       "name": "Sola",
       "url": "https://open.spotify.com/track/3pFvfrF9ye3Cn97rcZZv3q"
+    },
+    {
+      "added_at": "2023-07-24 18:55:43",
+      "album": {
+        "name": "Acurrucao",
+        "url": "https://open.spotify.com/album/0H4BRh7Cl8ErMlks9Wj80s"
+      },
+      "artists": [
+        {
+          "name": "Ir Sais",
+          "url": "https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88"
+        },
+        {
+          "name": "Sofia LaSanta",
+          "url": "https://open.spotify.com/artist/7FKAgyZsXEwIWvCC9uwRl0"
+        }
+      ],
+      "duration_ms": 186428,
+      "name": "Acurrucao",
+      "url": "https://open.spotify.com/track/7aOWxZ4KoVg4cKF8x2iiGI"
     },
     {
       "added_at": "2023-07-24 18:55:43",
@@ -887,22 +887,6 @@
     {
       "added_at": "2023-07-24 18:55:43",
       "album": {
-        "name": "Betty",
-        "url": "https://open.spotify.com/album/7kRpm1Ax9vG5Mc3ISEF9ve"
-      },
-      "artists": [
-        {
-          "name": "J Noa",
-          "url": "https://open.spotify.com/artist/4gknAwZk7sfjge8Bho6xre"
-        }
-      ],
-      "duration_ms": 173894,
-      "name": "Betty",
-      "url": "https://open.spotify.com/track/4vjxTax1lQvczaIlyVx5ME"
-    },
-    {
-      "added_at": "2023-07-24 18:55:43",
-      "album": {
         "name": "Maya",
         "url": "https://open.spotify.com/album/7pXHSP4BzhDOQvm6W3k00v"
       },
@@ -919,18 +903,18 @@
     {
       "added_at": "2023-07-24 18:55:43",
       "album": {
-        "name": "Holy Ghost $$$",
-        "url": "https://open.spotify.com/album/4pWMN5lBEFrwZde1kdCqrh"
+        "name": "Betty",
+        "url": "https://open.spotify.com/album/7kRpm1Ax9vG5Mc3ISEF9ve"
       },
       "artists": [
         {
-          "name": "Esty",
-          "url": "https://open.spotify.com/artist/5GRoRrY3Ug35hVuX3z5Rvq"
+          "name": "J Noa",
+          "url": "https://open.spotify.com/artist/4gknAwZk7sfjge8Bho6xre"
         }
       ],
-      "duration_ms": 157297,
-      "name": "Holy Ghost $$$",
-      "url": "https://open.spotify.com/track/4JNxvjgaJyYdRAc1yhUPKj"
+      "duration_ms": 173894,
+      "name": "Betty",
+      "url": "https://open.spotify.com/track/4vjxTax1lQvczaIlyVx5ME"
     },
     {
       "added_at": "2023-07-24 18:55:43",
@@ -951,6 +935,22 @@
     {
       "added_at": "2023-07-24 18:55:43",
       "album": {
+        "name": "Holy Ghost $$$",
+        "url": "https://open.spotify.com/album/4pWMN5lBEFrwZde1kdCqrh"
+      },
+      "artists": [
+        {
+          "name": "Esty",
+          "url": "https://open.spotify.com/artist/5GRoRrY3Ug35hVuX3z5Rvq"
+        }
+      ],
+      "duration_ms": 157297,
+      "name": "Holy Ghost $$$",
+      "url": "https://open.spotify.com/track/4JNxvjgaJyYdRAc1yhUPKj"
+    },
+    {
+      "added_at": "2023-07-24 18:55:43",
+      "album": {
         "name": "Haters y Fan\u00e1ticos",
         "url": "https://open.spotify.com/album/5ozdJlbZNDyinRp5MGXqsb"
       },
@@ -967,6 +967,38 @@
       "duration_ms": 250440,
       "name": "Kilo Kilo",
       "url": "https://open.spotify.com/track/6QBrMT3F1gAcvdS7wIEeFO"
+    },
+    {
+      "added_at": "2023-07-24 18:55:43",
+      "album": {
+        "name": "Deja Que Te Lleve",
+        "url": "https://open.spotify.com/album/36mgrUsQbHrpFcR7gA914n"
+      },
+      "artists": [
+        {
+          "name": "Sessi",
+          "url": "https://open.spotify.com/artist/6aPCzcaD2zGsu387By8SZX"
+        }
+      ],
+      "duration_ms": 203202,
+      "name": "Deja Que Te Lleve",
+      "url": "https://open.spotify.com/track/1cOCvJSFjmdvh4ByUGZf2V"
+    },
+    {
+      "added_at": "2023-07-24 18:55:43",
+      "album": {
+        "name": "KLK TE PASA A TI",
+        "url": "https://open.spotify.com/album/6BLCH4XUfASbKUCIZ5Zko3"
+      },
+      "artists": [
+        {
+          "name": "Rosaly Rubio",
+          "url": "https://open.spotify.com/artist/1RDmz5jLTAyj9onvIA4qv8"
+        }
+      ],
+      "duration_ms": 166533,
+      "name": "KLK TE PASA A TI",
+      "url": "https://open.spotify.com/track/4XSO2ESu4JENljsN2irGWz"
     },
     {
       "added_at": "2023-07-24 18:55:43",
@@ -1015,38 +1047,6 @@
       "duration_ms": 153680,
       "name": "94",
       "url": "https://open.spotify.com/track/6vsAfEwT8L9xsiSfXNnHpN"
-    },
-    {
-      "added_at": "2023-07-24 18:55:43",
-      "album": {
-        "name": "Probando Freestyle",
-        "url": "https://open.spotify.com/album/5Jb7CmfSS5MdsGZ5ZQtOFC"
-      },
-      "artists": [
-        {
-          "name": "Gailen La Moyeta",
-          "url": "https://open.spotify.com/artist/0a7DjyuupA55K2NqWItRir"
-        }
-      ],
-      "duration_ms": 65759,
-      "name": "Probando Freestyle",
-      "url": "https://open.spotify.com/track/6uy9W7BAXUR09pMnnix338"
-    },
-    {
-      "added_at": "2023-07-24 18:55:43",
-      "album": {
-        "name": "KLK TE PASA A TI",
-        "url": "https://open.spotify.com/album/6BLCH4XUfASbKUCIZ5Zko3"
-      },
-      "artists": [
-        {
-          "name": "Rosaly Rubio",
-          "url": "https://open.spotify.com/artist/1RDmz5jLTAyj9onvIA4qv8"
-        }
-      ],
-      "duration_ms": 166533,
-      "name": "KLK TE PASA A TI",
-      "url": "https://open.spotify.com/track/4XSO2ESu4JENljsN2irGWz"
     }
   ],
   "unique_name": "Latin Frequency",

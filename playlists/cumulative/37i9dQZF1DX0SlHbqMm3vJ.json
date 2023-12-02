@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "A collection R&B and Afropop cuts from West Africa\u2019s finest artists. Cover: BOJ & Ajebutter",
+  "description": "A collection R&B and Afropop cuts from West Africa\u2019s finest artists. Cover: Moelogo",
   "name": "Ginger Me",
   "tracks": [
     {
@@ -60,7 +60,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 145892,
       "name": "21",
       "url": "https://open.spotify.com/track/2Nc7cDLjqgAFXNyFvJXOkS"
@@ -634,6 +634,24 @@
       "duration_ms": 202626,
       "name": "Antidote (feat. Adekunle Gold)",
       "url": "https://open.spotify.com/track/1ndeyZurGdaWqLh3srX0ia"
+    },
+    {
+      "album": {
+        "name": "Area Party",
+        "url": "https://open.spotify.com/album/29FyZCVFynYTLUDkMFkEZL"
+      },
+      "artists": [
+        {
+          "name": "Novemba",
+          "url": "https://open.spotify.com/artist/2Eiiy3N1dxC8elC8kIkoHJ"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122474,
+      "name": "Area Party",
+      "url": "https://open.spotify.com/track/3HhFNwoskRIUdj8nadvmzp"
     },
     {
       "album": {
@@ -3836,7 +3854,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 161946,
       "name": "I Promise",
       "url": "https://open.spotify.com/track/1HkVdfq2nfRMHXkYHsmHma"
@@ -6809,6 +6827,28 @@
     },
     {
       "album": {
+        "name": "PRACTICE",
+        "url": "https://open.spotify.com/album/4X9lqbIDMJ2AQB9kF2rlYY"
+      },
+      "artists": [
+        {
+          "name": "AratheJay",
+          "url": "https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN"
+        },
+        {
+          "name": "BillyDray",
+          "url": "https://open.spotify.com/artist/059ZQRZt9SXMbrzJcyxM5k"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142152,
+      "name": "PRACTICE",
+      "url": "https://open.spotify.com/track/0P1T4HQzeG598FX3UVFtxs"
+    },
+    {
+      "album": {
         "name": "My WorlD With U",
         "url": "https://open.spotify.com/album/17B9cVbQfEIoi8k6sZnzDm"
       },
@@ -7008,6 +7048,28 @@
       "duration_ms": 203389,
       "name": "Rice & Peas",
       "url": "https://open.spotify.com/track/05M4QRmytVTEO58puxL6Tp"
+    },
+    {
+      "album": {
+        "name": "Point Of View",
+        "url": "https://open.spotify.com/album/1z4Q2kTsQxiGMlJjKSPBfc"
+      },
+      "artists": [
+        {
+          "name": "Moelogo",
+          "url": "https://open.spotify.com/artist/6mctsJBrfcWvWH7S8h716D"
+        },
+        {
+          "name": "Joeboy",
+          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204900,
+      "name": "RIDE N SING",
+      "url": "https://open.spotify.com/track/6ysrsFj81F7QRSZpGvGt2t"
     },
     {
       "album": {
@@ -7466,7 +7528,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 163413,
       "name": "Sharp Attack",
       "url": "https://open.spotify.com/track/2W45RFSn0zM0eH0GFHimHS"

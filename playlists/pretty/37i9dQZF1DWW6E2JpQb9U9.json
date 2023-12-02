@@ -1,15 +1,15 @@
 {
   "description": "Rock en vivo de la A a la Z, de ayer, de hoy y de siempre... \u00a1Canten ustedes! Foto: Eruca Sativa & Marilina Bertoldi",
-  "num_followers": 105562,
+  "num_followers": 105614,
   "original_name": "Vivo de Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3OTFkYTY5NGRkZDEyMGI5ZThjYjZlYzg4MzFmOWU2NDk4OGE3ZTc1",
+  "snapshot_id": "MCw4MDg2MDhkZmUxZGU2MGZmYWI0MTlkYTBkOWE3N2NhNWIyNjE2ZjQ5",
   "tracks": [
     {
-      "added_at": "2023-11-23 21:42:20",
+      "added_at": "2023-12-01 03:00:00",
       "album": {
         "name": "Solito Vas (En Vivo Movistar Arena)",
         "url": "https://open.spotify.com/album/38QI6JmQeHniZDcnB0EyIf"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/1AhVRKhqE0ScBSehPHmMWL"
     },
     {
-      "added_at": "2023-11-23 21:42:20",
+      "added_at": "2023-12-01 03:00:00",
       "album": {
         "name": "Otras Canciones",
         "url": "https://open.spotify.com/album/72SqrtijWJKq6ukitktd1D"
@@ -41,7 +41,7 @@
       "url": "https://open.spotify.com/track/68cko9zdsKwaxgb98sF36S"
     },
     {
-      "added_at": "2023-11-23 21:42:20",
+      "added_at": "2023-12-01 03:00:00",
       "album": {
         "name": "Cinco Siglos Igual (En Vivo Teatro Coliseo)",
         "url": "https://open.spotify.com/album/66xb8pQPGVe9j2f2LeAH5x"
@@ -61,7 +61,7 @@
       "url": "https://open.spotify.com/track/7BvZe1dKoDjB7cWaenTgkX"
     },
     {
-      "added_at": "2023-11-23 21:42:20",
+      "added_at": "2023-12-01 03:00:00",
       "album": {
         "name": "Spinetta y Las Bandas Eternas",
         "url": "https://open.spotify.com/album/3kuu5DGs4n815JjDI5dlNx"
@@ -81,7 +81,7 @@
       "url": "https://open.spotify.com/track/06pjQCIybMiGrgtHODGa2m"
     },
     {
-      "added_at": "2023-11-23 21:42:20",
+      "added_at": "2023-12-01 03:00:00",
       "album": {
         "name": "1982-1987 - Himnos Del Coraz\u00f3n",
         "url": "https://open.spotify.com/album/0DGCwJASSVCD2lJGyu0t9w"
@@ -97,7 +97,7 @@
       "url": "https://open.spotify.com/track/3fMYqdMKH84KeTnSuFi4Xf"
     },
     {
-      "added_at": "2023-11-23 21:42:20",
+      "added_at": "2023-12-01 03:00:00",
       "album": {
         "name": "El Ultimo Concierto B (Remastered)",
         "url": "https://open.spotify.com/album/0k9Oh11PrdeZ6ngoJGhWMk"
@@ -113,23 +113,7 @@
       "url": "https://open.spotify.com/track/3lWvP5u93wOdPlqIydFW7g"
     },
     {
-      "added_at": "2023-11-23 21:42:20",
-      "album": {
-        "name": "Pantalla Del Mundo Nuevo (En Vivo En B.A.Rock)",
-        "url": "https://open.spotify.com/album/6vt2QGdahU0tGtmXHqIv56"
-      },
-      "artists": [
-        {
-          "name": "Riff",
-          "url": "https://open.spotify.com/artist/3IyuxBX0pwXqbeFI4DWmhG"
-        }
-      ],
-      "duration_ms": 410746,
-      "name": "Pantalla Del Mundo Nuevo",
-      "url": "https://open.spotify.com/track/4YbGxcfzDt4vDFUA3RcB5M"
-    },
-    {
-      "added_at": "2023-11-23 21:42:20",
+      "added_at": "2023-12-01 03:00:00",
       "album": {
         "name": "En Vivo Gran Rex",
         "url": "https://open.spotify.com/album/20AJy90C3orLhXvUHid4iZ"
@@ -145,7 +129,23 @@
       "url": "https://open.spotify.com/track/3wPmnfALFXL8sAXUP7h1QK"
     },
     {
-      "added_at": "2023-11-23 21:42:20",
+      "added_at": "2023-12-01 03:00:00",
+      "album": {
+        "name": "En Vivo Obras",
+        "url": "https://open.spotify.com/album/2l7x79wrLp28jt7qRjErxT"
+      },
+      "artists": [
+        {
+          "name": "Almafuerte",
+          "url": "https://open.spotify.com/artist/6qYd7xlmeeeDkPfx6mZ9PV"
+        }
+      ],
+      "duration_ms": 228144,
+      "name": "Toro y Pampa - En Vivo",
+      "url": "https://open.spotify.com/track/43c4oelxnp0cVeFZZ4L4QL"
+    },
+    {
+      "added_at": "2023-12-01 03:00:00",
       "album": {
         "name": "Spinetta y Las Bandas Eternas",
         "url": "https://open.spotify.com/album/3kuu5DGs4n815JjDI5dlNx"
@@ -165,39 +165,7 @@
       "url": "https://open.spotify.com/track/6hFvPLfbASRL6DsRGCercA"
     },
     {
-      "added_at": "2023-11-23 21:42:20",
-      "album": {
-        "name": "En Vivo Obras",
-        "url": "https://open.spotify.com/album/2l7x79wrLp28jt7qRjErxT"
-      },
-      "artists": [
-        {
-          "name": "Almafuerte",
-          "url": "https://open.spotify.com/artist/6qYd7xlmeeeDkPfx6mZ9PV"
-        }
-      ],
-      "duration_ms": 228144,
-      "name": "Toro y Pampa - En Vivo",
-      "url": "https://open.spotify.com/track/43c4oelxnp0cVeFZZ4L4QL"
-    },
-    {
-      "added_at": "2023-11-23 21:42:20",
-      "album": {
-        "name": "Vivo",
-        "url": "https://open.spotify.com/album/49Y0JDS4o3itFl0aw1eD0o"
-      },
-      "artists": [
-        {
-          "name": "Las Pelotas",
-          "url": "https://open.spotify.com/artist/1Qv4E1VgZOGnOYd99Kp5Bs"
-        }
-      ],
-      "duration_ms": 238625,
-      "name": "Si Supieras - En Vivo en el Luna Park",
-      "url": "https://open.spotify.com/track/1aYjTQMHRpyhu0Yv0HBZuV"
-    },
-    {
-      "added_at": "2023-11-23 21:42:20",
+      "added_at": "2023-12-01 03:00:00",
       "album": {
         "name": "Alucinados como la primera vez",
         "url": "https://open.spotify.com/album/7HcdNaR29l7Ia06pPjz9SD"
@@ -213,7 +181,39 @@
       "url": "https://open.spotify.com/track/0AP4CI592TMd5YktR6XINJ"
     },
     {
-      "added_at": "2023-11-23 21:42:20",
+      "added_at": "2023-12-01 03:00:00",
+      "album": {
+        "name": "Vivo",
+        "url": "https://open.spotify.com/album/49Y0JDS4o3itFl0aw1eD0o"
+      },
+      "artists": [
+        {
+          "name": "Las Pelotas",
+          "url": "https://open.spotify.com/artist/1Qv4E1VgZOGnOYd99Kp5Bs"
+        }
+      ],
+      "duration_ms": 238625,
+      "name": "Si Supieras - En Vivo en el Luna Park",
+      "url": "https://open.spotify.com/track/1aYjTQMHRpyhu0Yv0HBZuV"
+    },
+    {
+      "added_at": "2023-12-01 03:00:00",
+      "album": {
+        "name": "En Vivo en Chile Volumen 2",
+        "url": "https://open.spotify.com/album/6FDXSzTmfZ1sVYf6D81HGv"
+      },
+      "artists": [
+        {
+          "name": "Smitten",
+          "url": "https://open.spotify.com/artist/6b12ezIOzhz60P3CASuEtL"
+        }
+      ],
+      "duration_ms": 145712,
+      "name": "Una Persona Especial (En Vivo)",
+      "url": "https://open.spotify.com/track/0ba0fBNrr6wuOzPXtIcvht"
+    },
+    {
+      "added_at": "2023-12-01 03:00:00",
       "album": {
         "name": "De La Cabeza Con Bersuit Vergarabat (Live In Buenos Aires / 2001)",
         "url": "https://open.spotify.com/album/7xdsaV2y15dItFMlsoWTqu"
@@ -229,7 +229,7 @@
       "url": "https://open.spotify.com/track/7a0yeeNookEFR7YjYAhyrf"
     },
     {
-      "added_at": "2023-11-23 21:42:20",
+      "added_at": "2023-12-01 03:00:00",
       "album": {
         "name": "Vivo Ac\u00e1",
         "url": "https://open.spotify.com/album/2EzmMJuPwDj8CSpSL7TieY"
@@ -245,7 +245,7 @@
       "url": "https://open.spotify.com/track/2aYsvqd1ZVh535accPDSSA"
     },
     {
-      "added_at": "2023-11-23 21:42:20",
+      "added_at": "2023-12-01 03:00:00",
       "album": {
         "name": "Otras Canciones",
         "url": "https://open.spotify.com/album/72SqrtijWJKq6ukitktd1D"
@@ -265,7 +265,7 @@
       "url": "https://open.spotify.com/track/4pGutablO7yfnXun3HW2qr"
     },
     {
-      "added_at": "2023-11-23 21:42:20",
+      "added_at": "2023-12-01 03:00:00",
       "album": {
         "name": "Comfort Y Musica Para Volar",
         "url": "https://open.spotify.com/album/5RJLKN7ucuVaRAUzNKtKB8"
@@ -281,7 +281,7 @@
       "url": "https://open.spotify.com/track/00TU7szqwBrxWTd9SO7ihK"
     },
     {
-      "added_at": "2023-11-23 21:42:20",
+      "added_at": "2023-12-01 03:00:00",
       "album": {
         "name": "Rezando Solo (En Vivo)",
         "url": "https://open.spotify.com/album/6xU4VN8x2AImGFY93l5c8A"
@@ -301,7 +301,7 @@
       "url": "https://open.spotify.com/track/0XSQ9yqkQ3Kx8U44QhkJ4b"
     },
     {
-      "added_at": "2023-11-23 21:42:20",
+      "added_at": "2023-12-01 03:00:00",
       "album": {
         "name": "3000 Vivos (En Vivo)",
         "url": "https://open.spotify.com/album/7G7RCFtdv9cTAmOijHn0j1"
@@ -321,7 +321,7 @@
       "url": "https://open.spotify.com/track/4EbfeFf88tna6YcInp1ugJ"
     },
     {
-      "added_at": "2023-11-23 21:42:20",
+      "added_at": "2023-12-01 03:00:00",
       "album": {
         "name": "El Cintur\u00f3n Gris (En Vivo)",
         "url": "https://open.spotify.com/album/0Zci88FWoEEkKiRdNg4IiL"
@@ -337,7 +337,7 @@
       "url": "https://open.spotify.com/track/7uDlTTxjH6r3iGqb3Gbxcv"
     },
     {
-      "added_at": "2023-11-23 21:42:20",
+      "added_at": "2023-12-01 03:00:00",
       "album": {
         "name": "No S\u00e9 Si Es Baires O Madrid",
         "url": "https://open.spotify.com/album/4WLwsEOqZXfYEJK9iLdGVs"
@@ -353,7 +353,7 @@
       "url": "https://open.spotify.com/track/3yukeTj5XXNASMuq2ybNNv"
     },
     {
-      "added_at": "2023-11-23 21:42:20",
+      "added_at": "2023-12-01 03:00:00",
       "album": {
         "name": "Los Lun\u00e1ticos Planes de una Mariposa Incandescente (Vivo en Luna Park)",
         "url": "https://open.spotify.com/album/4gPo6XbIQfVywsTVYrT42E"
@@ -369,7 +369,7 @@
       "url": "https://open.spotify.com/track/7lY5sUTwLclisN4n6iKBdz"
     },
     {
-      "added_at": "2023-11-23 21:42:20",
+      "added_at": "2023-12-01 03:00:00",
       "album": {
         "name": "Gira Me Ver\u00e1s Volver",
         "url": "https://open.spotify.com/album/1cwZmK0zXorTlALtgOajeC"
@@ -385,7 +385,7 @@
       "url": "https://open.spotify.com/track/3YqOTz8YqRKfxS64GyGUTB"
     },
     {
-      "added_at": "2023-11-23 21:42:20",
+      "added_at": "2023-12-01 03:00:00",
       "album": {
         "name": "El regreso",
         "url": "https://open.spotify.com/album/3hIwt5XJuGCaTgSO6DqL7N"
@@ -401,7 +401,7 @@
       "url": "https://open.spotify.com/track/7wZ0ik66T55ZFOIVWZ82sX"
     },
     {
-      "added_at": "2023-11-23 21:42:20",
+      "added_at": "2023-12-01 03:00:00",
       "album": {
         "name": "Tan (En Vivo)",
         "url": "https://open.spotify.com/album/1H5MsrfzzoiznKp4jj8WWz"
@@ -417,7 +417,7 @@
       "url": "https://open.spotify.com/track/6YNstobWK0Pio4NAumJkRH"
     },
     {
-      "added_at": "2023-11-23 21:42:20",
+      "added_at": "2023-12-01 03:00:00",
       "album": {
         "name": "Don Lucero",
         "url": "https://open.spotify.com/album/4L5xTcKgy8CrAc2H1kN9VY"
@@ -433,7 +433,7 @@
       "url": "https://open.spotify.com/track/46uMIpDYQBG6iSHDl5y2ft"
     },
     {
-      "added_at": "2023-11-23 21:42:20",
+      "added_at": "2023-12-01 03:00:00",
       "album": {
         "name": "Huracanes en Luna Plateada (En Vivo)",
         "url": "https://open.spotify.com/album/1z9HFVvWCXsY1BkmyGBiRx"
@@ -453,7 +453,7 @@
       "url": "https://open.spotify.com/track/1vbuhtvcvHBsbdFJgyZHCu"
     },
     {
-      "added_at": "2023-11-23 21:42:20",
+      "added_at": "2023-12-01 03:00:00",
       "album": {
         "name": "Gira Me Ver\u00e1s Volver",
         "url": "https://open.spotify.com/album/1cwZmK0zXorTlALtgOajeC"
@@ -469,7 +469,7 @@
       "url": "https://open.spotify.com/track/4i3gnxuqstxIUvnIZVDarh"
     },
     {
-      "added_at": "2023-11-23 21:42:20",
+      "added_at": "2023-12-01 03:00:00",
       "album": {
         "name": "No S\u00e9 Si Es Baires O Madrid",
         "url": "https://open.spotify.com/album/4WLwsEOqZXfYEJK9iLdGVs"
@@ -485,7 +485,7 @@
       "url": "https://open.spotify.com/track/4kO3ytUsym4fw60Szcglc5"
     },
     {
-      "added_at": "2023-11-23 21:42:20",
+      "added_at": "2023-12-01 03:00:00",
       "album": {
         "name": "Ciro Y los Persas En el Estadio de River",
         "url": "https://open.spotify.com/album/7DXwwQCZscyehAJoCC38jW"
@@ -501,7 +501,7 @@
       "url": "https://open.spotify.com/track/2U2zuUtilm9lk3zCA3fOnS"
     },
     {
-      "added_at": "2023-11-23 21:42:20",
+      "added_at": "2023-12-01 03:00:00",
       "album": {
         "name": "Otras Canciones en Vivo en Latinoam\u00e9rica",
         "url": "https://open.spotify.com/album/4UGpnKpfb814RkAWPUtSVP"
@@ -517,7 +517,7 @@
       "url": "https://open.spotify.com/track/3XsRIqq4RnHfTRrHdZnNIm"
     },
     {
-      "added_at": "2023-11-23 21:42:20",
+      "added_at": "2023-12-01 03:00:00",
       "album": {
         "name": "Vivo",
         "url": "https://open.spotify.com/album/49Y0JDS4o3itFl0aw1eD0o"
@@ -533,7 +533,7 @@
       "url": "https://open.spotify.com/track/3c8v1vkAFkEMn17asSMldf"
     },
     {
-      "added_at": "2023-11-23 21:42:20",
+      "added_at": "2023-12-01 03:00:00",
       "album": {
         "name": "Otra Noche en la Luna (Episodio II)",
         "url": "https://open.spotify.com/album/2i3jAjsGsoeP0Sq0DjF1vy"
@@ -549,23 +549,7 @@
       "url": "https://open.spotify.com/track/3ssaVppMVSm0WwO0Uz6NVe"
     },
     {
-      "added_at": "2023-11-23 21:42:20",
-      "album": {
-        "name": "Unplugged",
-        "url": "https://open.spotify.com/album/7vuvoAP3WxyXIvH64LDn1R"
-      },
-      "artists": [
-        {
-          "name": "Charly Garc\u00eda",
-          "url": "https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo"
-        }
-      ],
-      "duration_ms": 329893,
-      "name": "Demoliendo Hoteles - Live",
-      "url": "https://open.spotify.com/track/15dNGPxvzuCvTBzFGmveZi"
-    },
-    {
-      "added_at": "2023-11-23 21:42:20",
+      "added_at": "2023-12-01 03:00:00",
       "album": {
         "name": "Insoportablemente Vivo (En Directo Desde Estadio De Hurac\u00e1n Buenos Aires / 2001)",
         "url": "https://open.spotify.com/album/5cgGmPTXGyysE1ShAqPh0x"
@@ -581,7 +565,23 @@
       "url": "https://open.spotify.com/track/3uyCoLdG9s4fZGPoj8B2tn"
     },
     {
-      "added_at": "2023-11-23 21:42:20",
+      "added_at": "2023-12-01 03:00:00",
+      "album": {
+        "name": "Unplugged",
+        "url": "https://open.spotify.com/album/7vuvoAP3WxyXIvH64LDn1R"
+      },
+      "artists": [
+        {
+          "name": "Charly Garc\u00eda",
+          "url": "https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo"
+        }
+      ],
+      "duration_ms": 329893,
+      "name": "Demoliendo Hoteles - Live",
+      "url": "https://open.spotify.com/track/15dNGPxvzuCvTBzFGmveZi"
+    },
+    {
+      "added_at": "2023-12-01 03:00:00",
       "album": {
         "name": "De La Cabeza Con Bersuit Vergarabat (Live In Buenos Aires / 2001)",
         "url": "https://open.spotify.com/album/7xdsaV2y15dItFMlsoWTqu"
@@ -597,7 +597,7 @@
       "url": "https://open.spotify.com/track/3AjtTcyP76C5Cwb0qfvPM6"
     },
     {
-      "added_at": "2023-11-23 21:42:20",
+      "added_at": "2023-12-01 03:00:00",
       "album": {
         "name": "Bailando en el infierno (En Vivo)",
         "url": "https://open.spotify.com/album/1trxlnUc5BXdYd2TTX8Y6l"
@@ -613,7 +613,7 @@
       "url": "https://open.spotify.com/track/46rlMCKqElZwLwMyUO1k0Q"
     },
     {
-      "added_at": "2023-11-23 21:42:20",
+      "added_at": "2023-12-01 03:00:00",
       "album": {
         "name": "Salud! Los Perez Garcia en Vivo",
         "url": "https://open.spotify.com/album/7Ix5ulHLNIeVYw8ggqPUD6"
@@ -629,7 +629,7 @@
       "url": "https://open.spotify.com/track/3UetPSQ5yRz2dFTV5EuJkY"
     },
     {
-      "added_at": "2023-11-23 21:42:20",
+      "added_at": "2023-12-01 03:00:00",
       "album": {
         "name": "Ciro Y los Persas En el Estadio de River",
         "url": "https://open.spotify.com/album/7DXwwQCZscyehAJoCC38jW"
@@ -645,7 +645,7 @@
       "url": "https://open.spotify.com/track/4leJZ8hEr2cGDc3nIv8jfA"
     },
     {
-      "added_at": "2023-11-23 21:42:20",
+      "added_at": "2023-12-01 03:00:00",
       "album": {
         "name": "Crimen (En Vivo en el Estadio \u00danico de La Plata)",
         "url": "https://open.spotify.com/album/59CT9qCgsWkaHoFCSsCpYS"
@@ -665,7 +665,23 @@
       "url": "https://open.spotify.com/track/32VmKR8CWARcm5EistPADK"
     },
     {
-      "added_at": "2023-11-23 21:42:20",
+      "added_at": "2023-12-01 03:00:00",
+      "album": {
+        "name": "Concierto Obras 30 y 31 Julio, Parte Uno (En Vivo)",
+        "url": "https://open.spotify.com/album/7CiCajBytiFZ69hJUny0s4"
+      },
+      "artists": [
+        {
+          "name": "Callejeros",
+          "url": "https://open.spotify.com/artist/2osoVujXgV0PA8lhqDKYFw"
+        }
+      ],
+      "duration_ms": 267240,
+      "name": "Una Nueva Noche Fria - Vivo - Mezclado y Masterizado 2017",
+      "url": "https://open.spotify.com/track/4Fckaw7KFh4qXmwwVp6mDJ"
+    },
+    {
+      "added_at": "2023-12-01 03:00:00",
       "album": {
         "name": "Nada Salvaje (En Vivo Estadio Obras)",
         "url": "https://open.spotify.com/album/60zgn0XnSkJDP5teuPppPt"
@@ -685,23 +701,7 @@
       "url": "https://open.spotify.com/track/3eZFMz8hvp7ZjAtUwJE0pH"
     },
     {
-      "added_at": "2023-11-23 21:42:20",
-      "album": {
-        "name": "Concierto Obras 30 y 31 Julio, Parte Uno (En Vivo)",
-        "url": "https://open.spotify.com/album/7CiCajBytiFZ69hJUny0s4"
-      },
-      "artists": [
-        {
-          "name": "Callejeros",
-          "url": "https://open.spotify.com/artist/2osoVujXgV0PA8lhqDKYFw"
-        }
-      ],
-      "duration_ms": 267240,
-      "name": "Una Nueva Noche Fria - Vivo - Mezclado y Masterizado 2017",
-      "url": "https://open.spotify.com/track/4Fckaw7KFh4qXmwwVp6mDJ"
-    },
-    {
-      "added_at": "2023-11-23 21:42:20",
+      "added_at": "2023-12-01 03:00:00",
       "album": {
         "name": "Pepsi Music 2005",
         "url": "https://open.spotify.com/album/3tXQQLWOJSgvCHqmGGCd1N"
@@ -717,7 +717,7 @@
       "url": "https://open.spotify.com/track/7dF2tY2XnIJCfAn5xEegm0"
     },
     {
-      "added_at": "2023-11-23 21:42:20",
+      "added_at": "2023-12-01 03:00:00",
       "album": {
         "name": "El Amor Despu\u00e9s Del Amor 20 A\u00f1os ( En Vivo )",
         "url": "https://open.spotify.com/album/69hkXFR8jgVt1cLqfQmKEj"
@@ -733,7 +733,7 @@
       "url": "https://open.spotify.com/track/4lhtqmdz80xSAKWMwDUcuK"
     },
     {
-      "added_at": "2023-11-23 21:42:20",
+      "added_at": "2023-12-01 03:00:00",
       "album": {
         "name": "Repuesto de Fe (En Vivo)",
         "url": "https://open.spotify.com/album/37T4qeUVTpx7Ps3HhSKdKc"
@@ -749,7 +749,7 @@
       "url": "https://open.spotify.com/track/27CiyWWdkSAM6mWfaNYaxt"
     },
     {
-      "added_at": "2023-11-23 21:42:20",
+      "added_at": "2023-12-01 03:00:00",
       "album": {
         "name": "En Vivo Obras",
         "url": "https://open.spotify.com/album/2l7x79wrLp28jt7qRjErxT"
@@ -765,7 +765,7 @@
       "url": "https://open.spotify.com/track/5qmap4CQeX4rNCIi2rBOJ8"
     },
     {
-      "added_at": "2023-11-23 21:42:20",
+      "added_at": "2023-12-01 03:00:00",
       "album": {
         "name": "Ciro Y los Persas En el Estadio de River",
         "url": "https://open.spotify.com/album/7DXwwQCZscyehAJoCC38jW"
@@ -781,23 +781,7 @@
       "url": "https://open.spotify.com/track/5lOFksI7IFX1g96ekSGBiU"
     },
     {
-      "added_at": "2023-11-23 21:42:20",
-      "album": {
-        "name": "En Vivo en el Estadio \u00danico",
-        "url": "https://open.spotify.com/album/7GYnlBfQuUjK8ArBRMtYxp"
-      },
-      "artists": [
-        {
-          "name": "La Beriso",
-          "url": "https://open.spotify.com/artist/0Dy32zfSrQ332Bz8wsthKJ"
-        }
-      ],
-      "duration_ms": 341626,
-      "name": "Traicionero - En Vivo en el Estadio \u00danico",
-      "url": "https://open.spotify.com/track/64ovzYdza1i6uCLVxp7qWb"
-    },
-    {
-      "added_at": "2023-11-23 21:42:20",
+      "added_at": "2023-12-01 03:00:00",
       "album": {
         "name": "Otra Noche en la Luna (Episodio I)",
         "url": "https://open.spotify.com/album/49Dc7i19OTFHpmyqxdIGyI"
@@ -813,7 +797,23 @@
       "url": "https://open.spotify.com/track/4vBsZW0vafVcFmlG0ooRc4"
     },
     {
-      "added_at": "2023-11-23 21:42:20",
+      "added_at": "2023-12-01 03:00:00",
+      "album": {
+        "name": "En Vivo en el Estadio \u00danico",
+        "url": "https://open.spotify.com/album/7GYnlBfQuUjK8ArBRMtYxp"
+      },
+      "artists": [
+        {
+          "name": "La Beriso",
+          "url": "https://open.spotify.com/artist/0Dy32zfSrQ332Bz8wsthKJ"
+        }
+      ],
+      "duration_ms": 341626,
+      "name": "Traicionero - En Vivo en el Estadio \u00danico",
+      "url": "https://open.spotify.com/track/64ovzYdza1i6uCLVxp7qWb"
+    },
+    {
+      "added_at": "2023-12-01 03:00:00",
       "album": {
         "name": "Insoportablemente Vivo (En Directo Desde Estadio De Hurac\u00e1n Buenos Aires / 2001)",
         "url": "https://open.spotify.com/album/5cgGmPTXGyysE1ShAqPh0x"
@@ -829,7 +829,7 @@
       "url": "https://open.spotify.com/track/09MFq4vAtlRnC9dQVQJYln"
     },
     {
-      "added_at": "2023-11-23 21:42:20",
+      "added_at": "2023-12-01 03:00:00",
       "album": {
         "name": "Instante Eterno (ac\u00fastico en Vivo)",
         "url": "https://open.spotify.com/album/3strzjXT1o3fjp6TmC67ev"
@@ -849,7 +849,7 @@
       "url": "https://open.spotify.com/track/5En6kK2Xn4HgYQBhBgcxY0"
     },
     {
-      "added_at": "2023-11-23 21:42:20",
+      "added_at": "2023-12-01 03:00:00",
       "album": {
         "name": "Vivo De Pastillas: Locura Y Realidad (Live In Buenos Aires / 2016)",
         "url": "https://open.spotify.com/album/3l0v842H6eKkHsOmHUUcHe"
@@ -865,7 +865,7 @@
       "url": "https://open.spotify.com/track/5CbX94QcX74Xy0l4ArAIQI"
     },
     {
-      "added_at": "2023-11-23 21:42:20",
+      "added_at": "2023-12-01 03:00:00",
       "album": {
         "name": "Todo Eso Que Nos Queda (En Vivo en el Gran Rex)",
         "url": "https://open.spotify.com/album/1sD3x5nHHviRWDdjuaMCxT"
@@ -881,7 +881,7 @@
       "url": "https://open.spotify.com/track/37S1A1oGrwCs0R2K5fU9Ht"
     },
     {
-      "added_at": "2023-11-23 21:42:20",
+      "added_at": "2023-12-01 03:00:00",
       "album": {
         "name": "En Directo",
         "url": "https://open.spotify.com/album/7H3R1THjVZhSeEKK6S6MUE"
@@ -897,7 +897,7 @@
       "url": "https://open.spotify.com/track/2Cozh3ZhCsatIz9sWk59Y8"
     },
     {
-      "added_at": "2023-11-23 21:42:20",
+      "added_at": "2023-12-01 03:00:00",
       "album": {
         "name": "El Rock De Mi Vida",
         "url": "https://open.spotify.com/album/5UjmKvT1dxShYW7hbLRrym"
@@ -913,7 +913,7 @@
       "url": "https://open.spotify.com/track/5BtQSJAmxP3ezx5ZXR2p8s"
     },
     {
-      "added_at": "2023-11-23 21:42:20",
+      "added_at": "2023-12-01 03:00:00",
       "album": {
         "name": "Provincia Emergente Estadio Unico de La Plata (En Vivo)",
         "url": "https://open.spotify.com/album/2VPSdVQuuSNyYPIgzxruqi"
@@ -929,7 +929,7 @@
       "url": "https://open.spotify.com/track/7KEi5XL40fRcqyq9aUcDX6"
     },
     {
-      "added_at": "2023-11-23 21:42:20",
+      "added_at": "2023-12-01 03:00:00",
       "album": {
         "name": "En Vivo en el Teatro \u00d3pera",
         "url": "https://open.spotify.com/album/7x0aE1wk7VQYNFtCES9nL6"
@@ -949,7 +949,7 @@
       "url": "https://open.spotify.com/track/2hHQqvhYtA37U75p49nC4d"
     },
     {
-      "added_at": "2023-11-23 21:42:20",
+      "added_at": "2023-12-01 03:00:00",
       "album": {
         "name": "Ac\u00fastico,Teatro Opera, Buenos Aires, Argentina.",
         "url": "https://open.spotify.com/album/6j8Pylv9STVsYonxYxUoYE"
@@ -965,7 +965,7 @@
       "url": "https://open.spotify.com/track/26gc3gRiPBIpvvBP87sdxg"
     },
     {
-      "added_at": "2023-11-23 21:42:20",
+      "added_at": "2023-12-01 03:00:00",
       "album": {
         "name": "Fantasmas Pele\u00e1ndole al Viento (En Vivo)",
         "url": "https://open.spotify.com/album/5JG3SpaazCnXheOQQNXBjV"
@@ -981,7 +981,7 @@
       "url": "https://open.spotify.com/track/4IwoF68Px383RXNU4jTyzP"
     },
     {
-      "added_at": "2023-11-23 21:42:20",
+      "added_at": "2023-12-01 03:00:00",
       "album": {
         "name": "Ciro Y los Persas En el Estadio de River",
         "url": "https://open.spotify.com/album/7DXwwQCZscyehAJoCC38jW"
@@ -997,7 +997,7 @@
       "url": "https://open.spotify.com/track/51udgXvhgt7foEEU26KDzg"
     },
     {
-      "added_at": "2023-11-23 21:42:20",
+      "added_at": "2023-12-01 03:00:00",
       "album": {
         "name": "Vivo",
         "url": "https://open.spotify.com/album/7byqd7hsiFnu2cd4LQPlBm"
@@ -1013,7 +1013,7 @@
       "url": "https://open.spotify.com/track/4R924NQoTVx3BJxgghtDSm"
     },
     {
-      "added_at": "2023-11-23 21:42:20",
+      "added_at": "2023-12-01 03:00:00",
       "album": {
         "name": "Los Fundamentalistas del Aire Acondicionado en Hurac\u00e1n (En Vivo)",
         "url": "https://open.spotify.com/album/0HBXl0BoyqkfJmxjrLtnqL"
@@ -1029,7 +1029,7 @@
       "url": "https://open.spotify.com/track/5tZIvOjdd8tFekjvd8u83O"
     },
     {
-      "added_at": "2023-11-23 21:42:20",
+      "added_at": "2023-12-01 03:00:00",
       "album": {
         "name": "Todavia No Puedo Olvidarte (En Vivo)",
         "url": "https://open.spotify.com/album/5I7AvLn3SQ6HF14rf2MGVh"
@@ -1049,7 +1049,7 @@
       "url": "https://open.spotify.com/track/5gDt7Z2AY4Ft0qZVZ51X6y"
     },
     {
-      "added_at": "2023-11-23 21:42:20",
+      "added_at": "2023-12-01 03:00:00",
       "album": {
         "name": "Luces (En Vivo Luna Park 2006)",
         "url": "https://open.spotify.com/album/2vHwdJI0FKurPPmHjXj24Z"
@@ -1065,23 +1065,7 @@
       "url": "https://open.spotify.com/track/53UkQ1uvwBXgF3f0Ttd0J7"
     },
     {
-      "added_at": "2023-11-23 21:42:20",
-      "album": {
-        "name": "Ac\u00fastico,Teatro Opera, Buenos Aires, Argentina.",
-        "url": "https://open.spotify.com/album/6j8Pylv9STVsYonxYxUoYE"
-      },
-      "artists": [
-        {
-          "name": "Attaque 77",
-          "url": "https://open.spotify.com/artist/5rI6C5mJm6GYXbGHhpHTu9"
-        }
-      ],
-      "duration_ms": 212106,
-      "name": "Beatle - Ac\u00fastico en Vivo",
-      "url": "https://open.spotify.com/track/0HCcZ5tV6KCUOtcXjttwq8"
-    },
-    {
-      "added_at": "2023-11-23 21:42:20",
+      "added_at": "2023-12-01 03:00:00",
       "album": {
         "name": "En Directo",
         "url": "https://open.spotify.com/album/7H3R1THjVZhSeEKK6S6MUE"
@@ -1097,10 +1081,26 @@
       "url": "https://open.spotify.com/track/6LvWM7uIXgVG8FQWj5Gv1d"
     },
     {
-      "added_at": "2023-11-23 21:42:20",
+      "added_at": "2023-12-01 03:00:00",
       "album": {
-        "name": "Se Fue al Cielo (En Vivo Luna Park)",
-        "url": "https://open.spotify.com/album/5a6i5OQTh7QTNh6bNJvwXK"
+        "name": "Ac\u00fastico,Teatro Opera, Buenos Aires, Argentina.",
+        "url": "https://open.spotify.com/album/6j8Pylv9STVsYonxYxUoYE"
+      },
+      "artists": [
+        {
+          "name": "Attaque 77",
+          "url": "https://open.spotify.com/artist/5rI6C5mJm6GYXbGHhpHTu9"
+        }
+      ],
+      "duration_ms": 212106,
+      "name": "Beatle - Ac\u00fastico en Vivo",
+      "url": "https://open.spotify.com/track/0HCcZ5tV6KCUOtcXjttwq8"
+    },
+    {
+      "added_at": "2023-12-01 03:00:00",
+      "album": {
+        "name": "Otra Noche en la Luna (Episodio I)",
+        "url": "https://open.spotify.com/album/49Dc7i19OTFHpmyqxdIGyI"
       },
       "artists": [
         {
@@ -1108,12 +1108,12 @@
           "url": "https://open.spotify.com/artist/4VgvR7eu3k2T20mo6mXhXF"
         }
       ],
-      "duration_ms": 230528,
-      "name": "Se Fue al Cielo - En Vivo Luna Park",
-      "url": "https://open.spotify.com/track/20zqLQwGq2HArJgR9Osp3T"
+      "duration_ms": 244800,
+      "name": "Las Cosas Que No Se Tocan - En Vivo Luna Park",
+      "url": "https://open.spotify.com/track/0FgxJadnECY2W5cvt9tKVg"
     },
     {
-      "added_at": "2023-11-23 21:42:20",
+      "added_at": "2023-12-01 03:00:00",
       "album": {
         "name": "Silencio (Ft. Fito P\u00e1ez) (En Vivo Teatro \u00d3pera)",
         "url": "https://open.spotify.com/album/2k5KhI4SGsscifqsHjiRpg"
@@ -1133,7 +1133,7 @@
       "url": "https://open.spotify.com/track/2Shj8NDwydmHtOpWgjbvS6"
     },
     {
-      "added_at": "2023-11-23 21:42:20",
+      "added_at": "2023-12-01 03:00:00",
       "album": {
         "name": "Fantasmas Pele\u00e1ndole al Viento (En Vivo)",
         "url": "https://open.spotify.com/album/5JG3SpaazCnXheOQQNXBjV"
@@ -1149,7 +1149,7 @@
       "url": "https://open.spotify.com/track/0yxyblN8AAiOuSSktlLzMx"
     },
     {
-      "added_at": "2023-11-23 21:42:20",
+      "added_at": "2023-12-01 03:00:00",
       "album": {
         "name": "Vivo Ac\u00e1",
         "url": "https://open.spotify.com/album/2EzmMJuPwDj8CSpSL7TieY"
@@ -1165,7 +1165,7 @@
       "url": "https://open.spotify.com/track/6AaSvhWkYo2MMZX1o93TM8"
     },
     {
-      "added_at": "2023-11-23 21:42:20",
+      "added_at": "2023-12-01 03:00:00",
       "album": {
         "name": "Alucinados como la primera vez",
         "url": "https://open.spotify.com/album/7HcdNaR29l7Ia06pPjz9SD"
@@ -1181,7 +1181,7 @@
       "url": "https://open.spotify.com/track/3YeTUDReoVOsMmN9Vp8uRc"
     },
     {
-      "added_at": "2023-11-23 21:42:20",
+      "added_at": "2023-12-01 03:00:00",
       "album": {
         "name": "Sucio y Desprolijo (En Vivo Cosqu\u00edn Rock)",
         "url": "https://open.spotify.com/album/1PFc4pnap71P8RBNYxCfvR"
@@ -1201,7 +1201,7 @@
       "url": "https://open.spotify.com/track/76Bt5vjnbxyr0JmxZKToTW"
     },
     {
-      "added_at": "2023-11-23 21:42:20",
+      "added_at": "2023-12-01 03:00:00",
       "album": {
         "name": "XV A\u00f1os - En Vivo Estadio Obras",
         "url": "https://open.spotify.com/album/7unx0aGfSv4shjF38D3qwX"
@@ -1217,7 +1217,7 @@
       "url": "https://open.spotify.com/track/4dOghAt99V7KcMlPf7eKP7"
     },
     {
-      "added_at": "2023-11-23 21:42:20",
+      "added_at": "2023-12-01 03:00:00",
       "album": {
         "name": "En Vivo-Vol.2",
         "url": "https://open.spotify.com/album/5qdC9gg5lgiYpPu9OWUAnw"
@@ -1233,10 +1233,10 @@
       "url": "https://open.spotify.com/track/2R86XvRGehbGtBMJUJDYfC"
     },
     {
-      "added_at": "2023-11-23 21:42:20",
+      "added_at": "2023-12-01 03:00:00",
       "album": {
-        "name": "Otra Noche en la Luna (Episodio I)",
-        "url": "https://open.spotify.com/album/49Dc7i19OTFHpmyqxdIGyI"
+        "name": "Se Fue al Cielo (En Vivo Luna Park)",
+        "url": "https://open.spotify.com/album/5a6i5OQTh7QTNh6bNJvwXK"
       },
       "artists": [
         {
@@ -1244,12 +1244,12 @@
           "url": "https://open.spotify.com/artist/4VgvR7eu3k2T20mo6mXhXF"
         }
       ],
-      "duration_ms": 244800,
-      "name": "Las Cosas Que No Se Tocan - En Vivo Luna Park",
-      "url": "https://open.spotify.com/track/0FgxJadnECY2W5cvt9tKVg"
+      "duration_ms": 230528,
+      "name": "Se Fue al Cielo - En Vivo Luna Park",
+      "url": "https://open.spotify.com/track/20zqLQwGq2HArJgR9Osp3T"
     },
     {
-      "added_at": "2023-11-23 21:42:20",
+      "added_at": "2023-12-01 03:00:00",
       "album": {
         "name": "Yendo de la Cama al Living (En Vivo Teatro \u00d3pera)",
         "url": "https://open.spotify.com/album/3luYZNG2a6Y2qaKtEbZEzc"
@@ -1273,7 +1273,7 @@
       "url": "https://open.spotify.com/track/08qqssgwcz5zN5L9ev8BkZ"
     },
     {
-      "added_at": "2023-11-23 21:42:20",
+      "added_at": "2023-12-01 03:00:00",
       "album": {
         "name": "De No Olvidar (En Vivo)",
         "url": "https://open.spotify.com/album/5Za1fHcJlmlMZ6Y68qBWoE"
@@ -1289,7 +1289,7 @@
       "url": "https://open.spotify.com/track/4gbI9BleMGRBK9umkCWQr0"
     },
     {
-      "added_at": "2023-11-23 21:42:20",
+      "added_at": "2023-12-01 03:00:00",
       "album": {
         "name": "22/12/18 Flores (En Vivo)",
         "url": "https://open.spotify.com/album/0o5BP1cVS5ABQqCIkYvhMR"
@@ -1305,7 +1305,7 @@
       "url": "https://open.spotify.com/track/57fUo8bwVhsWKixgq6j88B"
     },
     {
-      "added_at": "2023-11-23 21:42:20",
+      "added_at": "2023-12-01 03:00:00",
       "album": {
         "name": "Desde Lejos No Se Ve (En Vivo)",
         "url": "https://open.spotify.com/album/2CwlD7JnikWHZOgZn67dSv"
@@ -1321,7 +1321,7 @@
       "url": "https://open.spotify.com/track/74hHbrJCc81drMDOvrXm4H"
     },
     {
-      "added_at": "2023-11-23 21:42:20",
+      "added_at": "2023-12-01 03:00:00",
       "album": {
         "name": "Fuego (En Vivo Luna Park)",
         "url": "https://open.spotify.com/album/1V8ku6WhML2Z15eiLqIoHA"
@@ -1337,7 +1337,7 @@
       "url": "https://open.spotify.com/track/6WtFW6voAmKo5QOf3KTj6K"
     },
     {
-      "added_at": "2023-11-23 21:42:20",
+      "added_at": "2023-12-01 03:00:00",
       "album": {
         "name": "Rata Blanca: Luna Park 2019 (En Vivo)",
         "url": "https://open.spotify.com/album/6kmuMZSsLz5rnlXCwp5UgE"
@@ -1353,7 +1353,7 @@
       "url": "https://open.spotify.com/track/5audspbxagSKYlsrmMdsvn"
     },
     {
-      "added_at": "2023-11-23 21:42:20",
+      "added_at": "2023-12-01 03:00:00",
       "album": {
         "name": "Barek (En Vivo Luna Park)",
         "url": "https://open.spotify.com/album/4qYSyuSs6ErU3W62tstxo5"
@@ -1369,23 +1369,7 @@
       "url": "https://open.spotify.com/track/3F6owj1sw7oPul8jedGkhT"
     },
     {
-      "added_at": "2023-11-23 21:42:20",
-      "album": {
-        "name": "Vivo X la 25",
-        "url": "https://open.spotify.com/album/3ALjIJVwq4AKqMaVPPSIM2"
-      },
-      "artists": [
-        {
-          "name": "La 25",
-          "url": "https://open.spotify.com/artist/6UAMLsapd2AyfEAEVFaxmc"
-        }
-      ],
-      "duration_ms": 262866,
-      "name": "Solo Voy - En Vivo",
-      "url": "https://open.spotify.com/track/6iFOuRmcqjqOKiM8daR9P6"
-    },
-    {
-      "added_at": "2023-11-23 21:42:20",
+      "added_at": "2023-12-01 03:00:00",
       "album": {
         "name": "Estadio Newell's Old Boys, 18 de Mayo de 2018 (En Vivo)",
         "url": "https://open.spotify.com/album/5WOqG6HvWWAd7YvlK6TObB"
@@ -1401,7 +1385,23 @@
       "url": "https://open.spotify.com/track/7J8rmygjDWHb3fpwIEJDnH"
     },
     {
-      "added_at": "2023-11-23 21:42:20",
+      "added_at": "2023-12-01 03:00:00",
+      "album": {
+        "name": "Vivo X la 25",
+        "url": "https://open.spotify.com/album/3ALjIJVwq4AKqMaVPPSIM2"
+      },
+      "artists": [
+        {
+          "name": "La 25",
+          "url": "https://open.spotify.com/artist/6UAMLsapd2AyfEAEVFaxmc"
+        }
+      ],
+      "duration_ms": 262866,
+      "name": "Solo Voy - En Vivo",
+      "url": "https://open.spotify.com/track/6iFOuRmcqjqOKiM8daR9P6"
+    },
+    {
+      "added_at": "2023-12-01 03:00:00",
       "album": {
         "name": "Sortilegio de Arrabal",
         "url": "https://open.spotify.com/album/4FMIICOCC7pmOdhDwIUkid"
@@ -1417,7 +1417,7 @@
       "url": "https://open.spotify.com/track/674zid6QdjoHzafff631N8"
     },
     {
-      "added_at": "2023-11-23 21:42:20",
+      "added_at": "2023-12-01 03:00:00",
       "album": {
         "name": "Fantasmas Pele\u00e1ndole al Viento (En Vivo)",
         "url": "https://open.spotify.com/album/5JG3SpaazCnXheOQQNXBjV"
@@ -1433,7 +1433,7 @@
       "url": "https://open.spotify.com/track/6IvGufWgArG0cd8WDeypdH"
     },
     {
-      "added_at": "2023-11-23 21:42:20",
+      "added_at": "2023-12-01 03:00:00",
       "album": {
         "name": "En Vivo en el Teatro Coliseo",
         "url": "https://open.spotify.com/album/2HPBjV6pfag0WSo7l1Y8oY"
@@ -1449,7 +1449,7 @@
       "url": "https://open.spotify.com/track/0L8j3R0I7PT6dPsITLMhdL"
     },
     {
-      "added_at": "2023-11-23 21:42:20",
+      "added_at": "2023-12-01 03:00:00",
       "album": {
         "name": "Vivo Paranoico",
         "url": "https://open.spotify.com/album/5CHgzhgDsOlwS1jPjRxe07"
@@ -1465,7 +1465,7 @@
       "url": "https://open.spotify.com/track/4V7EMmfiohP17t5ulxDCQF"
     },
     {
-      "added_at": "2023-11-23 21:42:20",
+      "added_at": "2023-12-01 03:00:00",
       "album": {
         "name": "Fr\u00e1gil (En Vivo)",
         "url": "https://open.spotify.com/album/1zsmfIrdaVCBnmLvwKPKYq"
@@ -1481,7 +1481,7 @@
       "url": "https://open.spotify.com/track/3fu3BMBP66gT5NklGqB9Cl"
     },
     {
-      "added_at": "2023-11-23 21:42:20",
+      "added_at": "2023-12-01 03:00:00",
       "album": {
         "name": "Razzmatazz (En directo)",
         "url": "https://open.spotify.com/album/0lhtRV9TKRZriNswVCca9q"
@@ -1497,7 +1497,23 @@
       "url": "https://open.spotify.com/track/1t3NbPBc8i2pQQnyneENrj"
     },
     {
-      "added_at": "2023-11-23 21:42:20",
+      "added_at": "2023-12-01 03:00:00",
+      "album": {
+        "name": "Vivire Viajando",
+        "url": "https://open.spotify.com/album/0A6UwA0TXPMBiJG0m3O1Rg"
+      },
+      "artists": [
+        {
+          "name": "Mancha De Rolando",
+          "url": "https://open.spotify.com/artist/4DuhYdfd2jHMdaqYVYZp04"
+        }
+      ],
+      "duration_ms": 253733,
+      "name": "Arde la ciudad",
+      "url": "https://open.spotify.com/track/4TAdfQJXaMWfJK63aGH2zJ"
+    },
+    {
+      "added_at": "2023-12-01 03:00:00",
       "album": {
         "name": "En Vivo en el Teatro \u00d3pera",
         "url": "https://open.spotify.com/album/7x0aE1wk7VQYNFtCES9nL6"
@@ -1513,7 +1529,23 @@
       "url": "https://open.spotify.com/track/1nYpwh84SyGAYDjOE5LNN0"
     },
     {
-      "added_at": "2023-11-23 21:42:20",
+      "added_at": "2023-12-01 03:00:00",
+      "album": {
+        "name": "Trascenlace (Vivo en Obras)",
+        "url": "https://open.spotify.com/album/3b9dOyIcbeR3847hEt9hVy"
+      },
+      "artists": [
+        {
+          "name": "El Plan De La Mariposa",
+          "url": "https://open.spotify.com/artist/3LY3yBRRL9yxCZxaxkdUir"
+        }
+      ],
+      "duration_ms": 317005,
+      "name": "El Riesgo (Vivo en Obras)",
+      "url": "https://open.spotify.com/track/4Jk2hUyD31f1mty7EvWWmj"
+    },
+    {
+      "added_at": "2023-12-01 03:00:00",
       "album": {
         "name": "Ped\u00eda Siempre Temas en la Radio\u2026 (En Vivo)",
         "url": "https://open.spotify.com/album/4lPT2G3v115JNbMqsfrYjn"
@@ -1533,39 +1565,7 @@
       "url": "https://open.spotify.com/track/66C4KiBFq72ehXJH43yQoc"
     },
     {
-      "added_at": "2023-11-23 21:42:20",
-      "album": {
-        "name": "Trascenlace (Vivo en Obras)",
-        "url": "https://open.spotify.com/album/3b9dOyIcbeR3847hEt9hVy"
-      },
-      "artists": [
-        {
-          "name": "El Plan De La Mariposa",
-          "url": "https://open.spotify.com/artist/3LY3yBRRL9yxCZxaxkdUir"
-        }
-      ],
-      "duration_ms": 317005,
-      "name": "El Riesgo (Vivo en Obras)",
-      "url": "https://open.spotify.com/track/4Jk2hUyD31f1mty7EvWWmj"
-    },
-    {
-      "added_at": "2023-11-23 21:42:20",
-      "album": {
-        "name": "Vivire Viajando",
-        "url": "https://open.spotify.com/album/0A6UwA0TXPMBiJG0m3O1Rg"
-      },
-      "artists": [
-        {
-          "name": "Mancha De Rolando",
-          "url": "https://open.spotify.com/artist/4DuhYdfd2jHMdaqYVYZp04"
-        }
-      ],
-      "duration_ms": 253733,
-      "name": "Arde la ciudad",
-      "url": "https://open.spotify.com/track/4TAdfQJXaMWfJK63aGH2zJ"
-    },
-    {
-      "added_at": "2023-11-23 21:42:20",
+      "added_at": "2023-12-01 03:00:00",
       "album": {
         "name": "Carretera Perdida (En Vivo)",
         "url": "https://open.spotify.com/album/2OD36U3WFqeLqD4rf8KuA3"
@@ -1581,7 +1581,7 @@
       "url": "https://open.spotify.com/track/6XcMzT3kroyNvOJ9vaOsHT"
     },
     {
-      "added_at": "2023-11-23 21:42:20",
+      "added_at": "2023-12-01 03:00:00",
       "album": {
         "name": "Hasta Estallar (En Vivo)",
         "url": "https://open.spotify.com/album/2VhaWI0G5kTWvafPAhgDCd"
@@ -1601,7 +1601,7 @@
       "url": "https://open.spotify.com/track/0xAHBxUFTNvajevhqgka2L"
     },
     {
-      "added_at": "2023-11-23 21:42:20",
+      "added_at": "2023-12-01 03:00:00",
       "album": {
         "name": "Una Vez M\u00e1s (En Vivo)",
         "url": "https://open.spotify.com/album/20akHhz1vnjUSwHcHjVnB2"
@@ -1621,7 +1621,7 @@
       "url": "https://open.spotify.com/track/34u37vgTwh2wl3ZH5u2nfs"
     },
     {
-      "added_at": "2023-11-23 21:42:20",
+      "added_at": "2023-12-01 03:00:00",
       "album": {
         "name": "Demonio Paraguayo (En Vivo)",
         "url": "https://open.spotify.com/album/3zGMwV9bHkvf4hcgUvPcdL"
@@ -1641,7 +1641,7 @@
       "url": "https://open.spotify.com/track/66vpazTiBR7b3vIl1E9wnW"
     },
     {
-      "added_at": "2023-11-23 21:42:20",
+      "added_at": "2023-12-01 03:00:00",
       "album": {
         "name": "Ahora Vengo (Vivo Luna Park)",
         "url": "https://open.spotify.com/album/2GkgmWl8aK8vCThHX8UWSz"
@@ -1661,7 +1661,7 @@
       "url": "https://open.spotify.com/track/1ZnRsIPcOyiDlua5lEIE0B"
     },
     {
-      "added_at": "2023-11-23 21:42:20",
+      "added_at": "2023-12-01 03:00:00",
       "album": {
         "name": "Aut\u00f3dromo de Buenos Aires, 19 de Junio de 2021 (En Vivo)",
         "url": "https://open.spotify.com/album/1Sxb0hpU35iLA3WeqEcMr8"
@@ -1677,7 +1677,7 @@
       "url": "https://open.spotify.com/track/6OgghyP8vbOsC2CBvKYArD"
     },
     {
-      "added_at": "2023-11-23 21:42:20",
+      "added_at": "2023-12-01 03:00:00",
       "album": {
         "name": "La Fuente (Vivo en Obras 11/06/2022)",
         "url": "https://open.spotify.com/album/0UAX7WjcXyGu4YQvg3DeVp"

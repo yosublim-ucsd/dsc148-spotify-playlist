@@ -1,12 +1,12 @@
 {
   "description": "Lagu-lagu mengsedih yang menyayat hati \ud83d\ude2d",
-  "num_followers": 1113832,
+  "num_followers": 1114051,
   "original_name": "Generasi Galau",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYTVlM2U2M2ZlODE2ZGQ4NjRlYTg5OWM0ZTY0NTI4YzY1MWU5NjZk",
+  "snapshot_id": "MCxkMjEyYzZhMjdkZDBkMTBmZjA1MGJjYmM2YzRjYWY1Yjk5YTdjNjdk",
   "tracks": [
     {
       "added_at": "2023-11-13 03:53:38",
@@ -759,22 +759,6 @@
     {
       "added_at": "2023-11-13 03:53:38",
       "album": {
-        "name": "Blue Jeans",
-        "url": "https://open.spotify.com/album/7sO28fbiEU3JbkTcY7vkZi"
-      },
-      "artists": [
-        {
-          "name": "GANGGA",
-          "url": "https://open.spotify.com/artist/4nd1IvFkUoQinjvYdUmOBI"
-        }
-      ],
-      "duration_ms": 211483,
-      "name": "Blue Jeans",
-      "url": "https://open.spotify.com/track/4kfjA6WfgKBt7I7YKuDCkU"
-    },
-    {
-      "added_at": "2023-11-13 03:53:38",
-      "album": {
         "name": "My First Love",
         "url": "https://open.spotify.com/album/43XE7IVshsrjvuTvcLA5Hz"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 263466,
       "name": "Seandainya",
       "url": "https://open.spotify.com/track/1FZQpbWv9WIi7xn2rguVDy"
+    },
+    {
+      "added_at": "2023-11-13 03:53:38",
+      "album": {
+        "name": "Blue Jeans",
+        "url": "https://open.spotify.com/album/7sO28fbiEU3JbkTcY7vkZi"
+      },
+      "artists": [
+        {
+          "name": "GANGGA",
+          "url": "https://open.spotify.com/artist/4nd1IvFkUoQinjvYdUmOBI"
+        }
+      ],
+      "duration_ms": 211483,
+      "name": "Blue Jeans",
+      "url": "https://open.spotify.com/track/4kfjA6WfgKBt7I7YKuDCkU"
     },
     {
       "added_at": "2023-11-13 03:53:38",

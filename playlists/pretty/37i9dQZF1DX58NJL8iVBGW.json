@@ -1,12 +1,12 @@
 {
   "description": "Deep, dark, dramatic. Roots rock, folk, and Americana\u2014with a gothic soul.",
-  "num_followers": 588604,
+  "num_followers": 588683,
   "original_name": "Southern Gothic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1Y2UxZTNmN2U4ZmMyYTQ5MWEzMmUzZjQ5MjI1MzIzNmJjZWZiMjk2",
+  "snapshot_id": "MCxjMzdjYzJlZmViY2VmNTk2MTdkMThiMTJlNDAxMzI1NGE3NWEyNDQ2",
   "tracks": [
     {
       "added_at": "2023-10-06 04:00:00",
@@ -187,22 +187,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Old Tyme Religion",
-        "url": "https://open.spotify.com/album/6Tolvy5sgnENXLNDNwQ9L6"
-      },
-      "artists": [
-        {
-          "name": "Hugo",
-          "url": "https://open.spotify.com/artist/3VSHFjwG94ubNcoST9hfxX"
-        }
-      ],
-      "duration_ms": 137426,
-      "name": "99 Problems",
-      "url": "https://open.spotify.com/track/7hN5TKSdRb56uytwIpcUES"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Singing Bones",
         "url": "https://open.spotify.com/album/1B1p6CMiuIqeNt3oYTS0Tj"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 166493,
       "name": "Far From Any Road",
       "url": "https://open.spotify.com/track/3LDkLpuxQlEuEiZmkxpr8S"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Old Tyme Religion",
+        "url": "https://open.spotify.com/album/6Tolvy5sgnENXLNDNwQ9L6"
+      },
+      "artists": [
+        {
+          "name": "Hugo",
+          "url": "https://open.spotify.com/artist/3VSHFjwG94ubNcoST9hfxX"
+        }
+      ],
+      "duration_ms": 137426,
+      "name": "99 Problems",
+      "url": "https://open.spotify.com/track/7hN5TKSdRb56uytwIpcUES"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -387,22 +387,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Jace Everett",
-        "url": "https://open.spotify.com/album/2bxVJbSsv2ldVqjnX58DtE"
-      },
-      "artists": [
-        {
-          "name": "Jace Everett",
-          "url": "https://open.spotify.com/artist/47DQBkDU2VieRG0aJUcPJs"
-        }
-      ],
-      "duration_ms": 164440,
-      "name": "Bad Things",
-      "url": "https://open.spotify.com/track/4VIDVd87GQcBSbofvDp8Pj"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Beat the Devil's Tattoo",
         "url": "https://open.spotify.com/album/7tSapn3n98ZkK3B1EXEGII"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 225760,
       "name": "Beat the Devil's Tattoo",
       "url": "https://open.spotify.com/track/61OOEzfcJvTLHhFiLZOGRN"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Jace Everett",
+        "url": "https://open.spotify.com/album/2bxVJbSsv2ldVqjnX58DtE"
+      },
+      "artists": [
+        {
+          "name": "Jace Everett",
+          "url": "https://open.spotify.com/artist/47DQBkDU2VieRG0aJUcPJs"
+        }
+      ],
+      "duration_ms": 164440,
+      "name": "Bad Things",
+      "url": "https://open.spotify.com/track/4VIDVd87GQcBSbofvDp8Pj"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -435,18 +435,18 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "An Honest Man",
-        "url": "https://open.spotify.com/album/6YqoghPHyDIIgSsAp7QFdj"
+        "name": "The Very Last Day",
+        "url": "https://open.spotify.com/album/71K6pqQC9BGomxvPDQVM3T"
       },
       "artists": [
         {
-          "name": "Fantastic Negrito",
-          "url": "https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13"
+          "name": "Parker Millsap",
+          "url": "https://open.spotify.com/artist/0MASTEXfUt3bpiyGOoEaur"
         }
       ],
-      "duration_ms": 246177,
-      "name": "An Honest Man",
-      "url": "https://open.spotify.com/track/01Cr7MlISmoh8gMlZBjpko"
+      "duration_ms": 156106,
+      "name": "Hades Pleads",
+      "url": "https://open.spotify.com/track/2Yf3wwS48rkAoBRXNJ34kz"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -467,18 +467,18 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "The Very Last Day",
-        "url": "https://open.spotify.com/album/71K6pqQC9BGomxvPDQVM3T"
+        "name": "An Honest Man",
+        "url": "https://open.spotify.com/album/6YqoghPHyDIIgSsAp7QFdj"
       },
       "artists": [
         {
-          "name": "Parker Millsap",
-          "url": "https://open.spotify.com/artist/0MASTEXfUt3bpiyGOoEaur"
+          "name": "Fantastic Negrito",
+          "url": "https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13"
         }
       ],
-      "duration_ms": 156106,
-      "name": "Hades Pleads",
-      "url": "https://open.spotify.com/track/2Yf3wwS48rkAoBRXNJ34kz"
+      "duration_ms": 246177,
+      "name": "An Honest Man",
+      "url": "https://open.spotify.com/track/01Cr7MlISmoh8gMlZBjpko"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -595,22 +595,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Live at the Old Quarter, Houston, Texas",
-        "url": "https://open.spotify.com/album/1SXpC0UH36YNCRSQMVRsoC"
-      },
-      "artists": [
-        {
-          "name": "Townes Van Zandt",
-          "url": "https://open.spotify.com/artist/3ZWab2LEVkNKiBPIClTwof"
-        }
-      ],
-      "duration_ms": 154186,
-      "name": "Lungs - Live",
-      "url": "https://open.spotify.com/track/0gctFhy7ZomaBNuUrFnjrU"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Sad But True",
         "url": "https://open.spotify.com/album/2Io6ybkhshdFUJhBgWQETk"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 128893,
       "name": "Death Don't Have No Mercy",
       "url": "https://open.spotify.com/track/0BCtG2fGjxoztlnetLoqBc"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Live at the Old Quarter, Houston, Texas",
+        "url": "https://open.spotify.com/album/1SXpC0UH36YNCRSQMVRsoC"
+      },
+      "artists": [
+        {
+          "name": "Townes Van Zandt",
+          "url": "https://open.spotify.com/artist/3ZWab2LEVkNKiBPIClTwof"
+        }
+      ],
+      "duration_ms": 154186,
+      "name": "Lungs - Live",
+      "url": "https://open.spotify.com/track/0gctFhy7ZomaBNuUrFnjrU"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Natural Conclusion",
-        "url": "https://open.spotify.com/album/6gig8cKPfwtSWOSSbZxGS2"
-      },
-      "artists": [
-        {
-          "name": "Rose Cousins",
-          "url": "https://open.spotify.com/artist/3DIk8KcmVKTr4uGw3AuCtJ"
-        }
-      ],
-      "duration_ms": 194570,
-      "name": "Chains",
-      "url": "https://open.spotify.com/track/4uGtVXkE0VG4rNmSEaFnde"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Salt For Salt",
         "url": "https://open.spotify.com/album/0SVsGgGApRYVXP466ywwsC"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 198132,
       "name": "Chairkickers",
       "url": "https://open.spotify.com/track/0O0T1NHzuTa12tNZ1hZ7db"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Natural Conclusion",
+        "url": "https://open.spotify.com/album/6gig8cKPfwtSWOSSbZxGS2"
+      },
+      "artists": [
+        {
+          "name": "Rose Cousins",
+          "url": "https://open.spotify.com/artist/3DIk8KcmVKTr4uGw3AuCtJ"
+        }
+      ],
+      "duration_ms": 194570,
+      "name": "Chains",
+      "url": "https://open.spotify.com/track/4uGtVXkE0VG4rNmSEaFnde"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Lions And Lambs",
-        "url": "https://open.spotify.com/album/5sUoqZHXyBK3dm0MR6uxaZ"
-      },
-      "artists": [
-        {
-          "name": "Cary Ann Hearst",
-          "url": "https://open.spotify.com/artist/2Fwqnm1kpxK4BZgWrsG5qm"
-        }
-      ],
-      "duration_ms": 216840,
-      "name": "Hell's Bells",
-      "url": "https://open.spotify.com/track/50MNCojhSwCd4QkJ7O80E5"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Billy Jack",
         "url": "https://open.spotify.com/album/30WtXdVFAmiTnuVn5WheWf"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 285680,
       "name": "Thin Line",
       "url": "https://open.spotify.com/track/1jgr7hrjegI0n8fEcY06vy"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Lions And Lambs",
+        "url": "https://open.spotify.com/album/5sUoqZHXyBK3dm0MR6uxaZ"
+      },
+      "artists": [
+        {
+          "name": "Cary Ann Hearst",
+          "url": "https://open.spotify.com/artist/2Fwqnm1kpxK4BZgWrsG5qm"
+        }
+      ],
+      "duration_ms": 216840,
+      "name": "Hell's Bells",
+      "url": "https://open.spotify.com/track/50MNCojhSwCd4QkJ7O80E5"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Hell Among The Yearlings",
-        "url": "https://open.spotify.com/album/7lj5fnqPOsrdANEyn9t8pM"
-      },
-      "artists": [
-        {
-          "name": "Gillian Welch",
-          "url": "https://open.spotify.com/artist/2H5elA2mJKrHmqkN9GSfkz"
-        }
-      ],
-      "duration_ms": 270893,
-      "name": "The Devil Had A Hold Of Me",
-      "url": "https://open.spotify.com/track/4oGtTW6RoaK9tMCNT5ZJcY"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Filthy Dirty South",
         "url": "https://open.spotify.com/album/5o4cfFDhtA8GMYGMsHXLiZ"
       },
@@ -1439,6 +1423,22 @@
       "duration_ms": 346333,
       "name": "Filthy Dirty South",
       "url": "https://open.spotify.com/track/2VifjGJJ8d0yGUk1LHn81y"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Hell Among The Yearlings",
+        "url": "https://open.spotify.com/album/7lj5fnqPOsrdANEyn9t8pM"
+      },
+      "artists": [
+        {
+          "name": "Gillian Welch",
+          "url": "https://open.spotify.com/artist/2H5elA2mJKrHmqkN9GSfkz"
+        }
+      ],
+      "duration_ms": 270893,
+      "name": "The Devil Had A Hold Of Me",
+      "url": "https://open.spotify.com/track/4oGtTW6RoaK9tMCNT5ZJcY"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1507,22 +1507,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Little Wing",
-        "url": "https://open.spotify.com/album/31ouv0slZULXCbafbGF0kF"
-      },
-      "artists": [
-        {
-          "name": "Valerie June",
-          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
-        }
-      ],
-      "duration_ms": 175960,
-      "name": "Little Wing",
-      "url": "https://open.spotify.com/track/6W6xbvrkBXRXALFVDYXeMq"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Heatstroke/The Wind and the War",
         "url": "https://open.spotify.com/album/4bU9I5NtFLbmChbhAqGKwJ"
       },
@@ -1535,6 +1519,22 @@
       "duration_ms": 158533,
       "name": "Boy Got It Bad",
       "url": "https://open.spotify.com/track/3k6QU7zzhlJ8ODb24uuLP9"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Little Wing",
+        "url": "https://open.spotify.com/album/31ouv0slZULXCbafbGF0kF"
+      },
+      "artists": [
+        {
+          "name": "Valerie June",
+          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
+        }
+      ],
+      "duration_ms": 175960,
+      "name": "Little Wing",
+      "url": "https://open.spotify.com/track/6W6xbvrkBXRXALFVDYXeMq"
     },
     {
       "added_at": "2023-10-06 04:00:00",

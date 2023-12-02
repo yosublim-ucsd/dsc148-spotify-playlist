@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/karencivil/?hl=en\">Karen Civil</a>",
-  "num_followers": 25910,
+  "num_followers": 25944,
   "original_name": "Karen Civil's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZTU3ZWU2NzQ0ZWJjMWY2MWIzMDFjY2ZmOGM0ZWI3MWI2Zjc5NDk0",
+  "snapshot_id": "MCxkMTAzYWVmNTg2YTRjOTgwOTM4OWIxZWNlODQ5Mzg1MTU2ZjQ5ZDgz",
   "tracks": [
     {
       "added_at": "2022-10-01 16:00:00",
@@ -799,8 +799,8 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Lonely Vibes",
-        "url": "https://open.spotify.com/album/1svFbTEhnqACSVV5JZSFxE"
+        "name": "Young Jefe 3",
+        "url": "https://open.spotify.com/album/2rnt0fBBFJ9ByEPnewCPr5"
       },
       "artists": [
         {
@@ -808,9 +808,9 @@
           "url": "https://open.spotify.com/artist/1DvtabXAjfrMihPP6JQdHs"
         }
       ],
-      "duration_ms": 196610,
-      "name": "Lonely Vibes",
-      "url": "https://open.spotify.com/track/0fH67n0kMHc2Zm6bHdagwG"
+      "duration_ms": 206768,
+      "name": "Paint The Town Red",
+      "url": "https://open.spotify.com/track/3ZX9CjDVbITSTlKqbLSDBk"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -883,8 +883,8 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Young Jefe 3",
-        "url": "https://open.spotify.com/album/2rnt0fBBFJ9ByEPnewCPr5"
+        "name": "Lonely Vibes",
+        "url": "https://open.spotify.com/album/1svFbTEhnqACSVV5JZSFxE"
       },
       "artists": [
         {
@@ -892,9 +892,9 @@
           "url": "https://open.spotify.com/artist/1DvtabXAjfrMihPP6JQdHs"
         }
       ],
-      "duration_ms": 206768,
-      "name": "Paint The Town Red",
-      "url": "https://open.spotify.com/track/3ZX9CjDVbITSTlKqbLSDBk"
+      "duration_ms": 196610,
+      "name": "Lonely Vibes",
+      "url": "https://open.spotify.com/track/0fH67n0kMHc2Zm6bHdagwG"
     }
   ],
   "unique_name": "Karen Civil's Taste",

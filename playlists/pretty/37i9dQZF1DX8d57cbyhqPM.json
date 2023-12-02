@@ -1,15 +1,15 @@
 {
-  "description": "Du Congo, au monde. \ud83c\udf0d Photo: Dadju, Tayc",
-  "num_followers": 29702,
+  "description": "Du Congo, au monde. \ud83c\udf0d Photo: Pierre Kwenders",
+  "num_followers": 29775,
   "original_name": "Biso Na Biso",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiOGUwOWU0OGQ5YjRjYjkwNzdjMzllNjZhM2MxMTNiZWQwNGFlMTBk",
+  "snapshot_id": "MCwzMWNjMTM2YjExNWNmYWRmYjQzYjM3MDNkMGJlN2NmZmQwNzU1MzQ0",
   "tracks": [
     {
-      "added_at": "2023-11-24 05:00:00",
+      "added_at": "2023-12-01 15:43:08",
       "album": {
         "name": "Makila : Wabl\u00e9",
         "url": "https://open.spotify.com/album/1RCo2Oha1mmxXBebMYwAap"
@@ -29,7 +29,7 @@
       "url": "https://open.spotify.com/track/1YQNuvUhIjaYbNi7FV2SVN"
     },
     {
-      "added_at": "2023-11-24 05:00:00",
+      "added_at": "2023-12-01 15:43:08",
       "album": {
         "name": "Fais \u00e7a bien",
         "url": "https://open.spotify.com/album/478AuAkwWnCZ2fJb34Ai6N"
@@ -45,23 +45,63 @@
       "url": "https://open.spotify.com/track/7lTpq4P6yA8YbldQ7CgcDx"
     },
     {
-      "added_at": "2023-11-24 05:00:00",
+      "added_at": "2023-12-01 15:43:08",
       "album": {
-        "name": "TIELA NGA NA SE",
-        "url": "https://open.spotify.com/album/35uWhaNeF8PnMTOb3eg9wU"
+        "name": "Sikoyo (feat. Branko & F\u00e9d\u00e9ration Internationale du Bruit)",
+        "url": "https://open.spotify.com/album/6Vm429SlVU0QkJaCF19Iah"
       },
       "artists": [
         {
-          "name": "Ferre Gola",
-          "url": "https://open.spotify.com/artist/0is7KJiz3t87LiJWUO1tNI"
+          "name": "Moonshine",
+          "url": "https://open.spotify.com/artist/6uZcG9ex8hJKEo3XUyMxEX"
+        },
+        {
+          "name": "Pierre Kwenders",
+          "url": "https://open.spotify.com/artist/04B6sMoIopTgUAQM3dcSxP"
+        },
+        {
+          "name": "Uproot Andy",
+          "url": "https://open.spotify.com/artist/2LAUi7E97pYUAnRzBx2vyc"
+        },
+        {
+          "name": "Branko",
+          "url": "https://open.spotify.com/artist/1lEBJGJgdoevi1Clv9CqLT"
+        },
+        {
+          "name": "F\u00e9d\u00e9ration Internationale du Bruit",
+          "url": "https://open.spotify.com/artist/66hejf9UqC4CcRtxOrA3XV"
         }
       ],
-      "duration_ms": 268121,
-      "name": "TIELA NGA NA SE",
-      "url": "https://open.spotify.com/track/0DCp7DhfRd5Mh3uD7yuyHz"
+      "duration_ms": 244904,
+      "name": "Sikoyo (feat. Branko & F\u00e9d\u00e9ration Internationale du Bruit)",
+      "url": "https://open.spotify.com/track/6nqe6iXrpAntPHHHNsK7nR"
     },
     {
-      "added_at": "2023-11-24 05:00:00",
+      "added_at": "2023-12-01 15:43:08",
+      "album": {
+        "name": "TRAP$TAR 3",
+        "url": "https://open.spotify.com/album/1Wk9tbsibudYX1zKKGdDV5"
+      },
+      "artists": [
+        {
+          "name": "Leto",
+          "url": "https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY"
+        },
+        {
+          "name": "Rsko",
+          "url": "https://open.spotify.com/artist/3L774tiJRvPmAS90pOLB44"
+        },
+        {
+          "name": "Tiakola",
+          "url": "https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh"
+        }
+      ],
+      "duration_ms": 281360,
+      "name": "God Bless",
+      "url": "https://open.spotify.com/track/5tFxDBCS5t0af9v9HiysLr"
+    },
+    {
+      "added_at": "2023-12-01 15:43:08",
       "album": {
         "name": "Petit g\u00e9nie",
         "url": "https://open.spotify.com/album/2jhcUs6UTxBncqB02VZpyD"
@@ -93,31 +133,7 @@
       "url": "https://open.spotify.com/track/6z0GwK274ToNmvxfyYPuHw"
     },
     {
-      "added_at": "2023-11-24 05:00:00",
-      "album": {
-        "name": "TRAP$TAR 3",
-        "url": "https://open.spotify.com/album/1Wk9tbsibudYX1zKKGdDV5"
-      },
-      "artists": [
-        {
-          "name": "Leto",
-          "url": "https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY"
-        },
-        {
-          "name": "Rsko",
-          "url": "https://open.spotify.com/artist/3L774tiJRvPmAS90pOLB44"
-        },
-        {
-          "name": "Tiakola",
-          "url": "https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh"
-        }
-      ],
-      "duration_ms": 281360,
-      "name": "God Bless",
-      "url": "https://open.spotify.com/track/5tFxDBCS5t0af9v9HiysLr"
-    },
-    {
-      "added_at": "2023-11-24 05:00:00",
+      "added_at": "2023-12-01 15:43:08",
       "album": {
         "name": "Renaissance",
         "url": "https://open.spotify.com/album/4prx4daG1yxE8HzDRxcrMT"
@@ -133,7 +149,7 @@
       "url": "https://open.spotify.com/track/2wNDQHCnQARthNpnEtRmzr"
     },
     {
-      "added_at": "2023-11-24 05:00:00",
+      "added_at": "2023-12-01 15:43:08",
       "album": {
         "name": "Posa na bina",
         "url": "https://open.spotify.com/album/1IP4dFk8PTKhyC2QUYBnw8"
@@ -149,7 +165,27 @@
       "url": "https://open.spotify.com/track/08mU4zr52hOJR7ZyqS6Jmr"
     },
     {
-      "added_at": "2023-11-24 05:00:00",
+      "added_at": "2023-12-01 15:43:08",
+      "album": {
+        "name": "Bokoko (Extra Musica)",
+        "url": "https://open.spotify.com/album/6UQuvYAa0xee2V2Wh4W3o6"
+      },
+      "artists": [
+        {
+          "name": "Roga Roga",
+          "url": "https://open.spotify.com/artist/2L1TvC8zgIymRxaa32TWug"
+        },
+        {
+          "name": "Extra Musica",
+          "url": "https://open.spotify.com/artist/5b93AJQpEWNI8b1X6Nu99K"
+        }
+      ],
+      "duration_ms": 252687,
+      "name": "Bokoko",
+      "url": "https://open.spotify.com/track/1DSdM1nslwDn8JlHElw6Yc"
+    },
+    {
+      "added_at": "2023-12-01 15:43:08",
       "album": {
         "name": "Mambo",
         "url": "https://open.spotify.com/album/0TyIDqKomocrUepDK60JsZ"
@@ -169,7 +205,7 @@
       "url": "https://open.spotify.com/track/0myEyvPyNgmMwVTHkWlXwX"
     },
     {
-      "added_at": "2023-11-24 05:00:00",
+      "added_at": "2023-12-01 15:43:08",
       "album": {
         "name": "Do It Yourself",
         "url": "https://open.spotify.com/album/3i4rvl2M0hEWLhFtKUskyr"
@@ -193,7 +229,7 @@
       "url": "https://open.spotify.com/track/0tMC1luTMsPf0aM47XzQRw"
     },
     {
-      "added_at": "2023-11-24 05:00:00",
+      "added_at": "2023-12-01 15:43:08",
       "album": {
         "name": "Kaka Boye",
         "url": "https://open.spotify.com/album/3J9fmDUqirc1fwyw2SbiGw"
@@ -213,7 +249,7 @@
       "url": "https://open.spotify.com/track/18qDtqnKrFshHeuMsGnGL0"
     },
     {
-      "added_at": "2023-11-24 05:00:00",
+      "added_at": "2023-12-01 15:43:08",
       "album": {
         "name": "Pieteron",
         "url": "https://open.spotify.com/album/2e1ZMyWJzNs7AYyswMeOsG"
@@ -229,7 +265,7 @@
       "url": "https://open.spotify.com/track/2hT7SV5QUhbO0p8T1dkHS6"
     },
     {
-      "added_at": "2023-11-24 05:00:00",
+      "added_at": "2023-12-01 15:43:08",
       "album": {
         "name": "What It Do Baby",
         "url": "https://open.spotify.com/album/2BNJwGkYA8mmSLAnVQQ2Cu"
@@ -245,7 +281,7 @@
       "url": "https://open.spotify.com/track/2cSlM8aBaXFNoj7QBSXLmZ"
     },
     {
-      "added_at": "2023-11-24 05:00:00",
+      "added_at": "2023-12-01 15:43:08",
       "album": {
         "name": "MWA MBUYI",
         "url": "https://open.spotify.com/album/7nkfOiaZr6MA0eDnhC9wNN"
@@ -261,7 +297,7 @@
       "url": "https://open.spotify.com/track/7vsDFUAI6IIgMcjPhyQgDD"
     },
     {
-      "added_at": "2023-11-24 05:00:00",
+      "added_at": "2023-12-01 15:43:08",
       "album": {
         "name": "D\u00e9sir f\u00e9minin Intense",
         "url": "https://open.spotify.com/album/0G7KfhQPFbv2hGFOGZiBrI"
@@ -281,7 +317,23 @@
       "url": "https://open.spotify.com/track/5JmG6cRX8yjjPU8QsTk1L1"
     },
     {
-      "added_at": "2023-11-24 05:00:00",
+      "added_at": "2023-12-01 15:43:08",
+      "album": {
+        "name": "Made in Congo",
+        "url": "https://open.spotify.com/album/4beChSKY6Kus1FUWc5Iazj"
+      },
+      "artists": [
+        {
+          "name": "LUVANGA",
+          "url": "https://open.spotify.com/artist/58J4IMKWK2gAYnNvPrHWpy"
+        }
+      ],
+      "duration_ms": 134453,
+      "name": "Made in Congo",
+      "url": "https://open.spotify.com/track/7soc4QPUnlZYfMgisPe6Cg"
+    },
+    {
+      "added_at": "2023-12-01 15:43:08",
       "album": {
         "name": "Boss",
         "url": "https://open.spotify.com/album/0wGVLoQ4igKEYOiTbMaEWr"
@@ -301,7 +353,23 @@
       "url": "https://open.spotify.com/track/3HeBKfgNiFgor7SjzzX85S"
     },
     {
-      "added_at": "2023-11-24 05:00:00",
+      "added_at": "2023-12-01 15:43:08",
+      "album": {
+        "name": "TIELA NGA NA SE",
+        "url": "https://open.spotify.com/album/35uWhaNeF8PnMTOb3eg9wU"
+      },
+      "artists": [
+        {
+          "name": "Ferre Gola",
+          "url": "https://open.spotify.com/artist/0is7KJiz3t87LiJWUO1tNI"
+        }
+      ],
+      "duration_ms": 268121,
+      "name": "TIELA NGA NA SE",
+      "url": "https://open.spotify.com/track/0DCp7DhfRd5Mh3uD7yuyHz"
+    },
+    {
+      "added_at": "2023-12-01 15:43:08",
       "album": {
         "name": "Toye Mabe",
         "url": "https://open.spotify.com/album/5HXawg742Wf07m3nR4ixwq"
@@ -325,7 +393,27 @@
       "url": "https://open.spotify.com/track/6RwlvDzQ4fmeZwpE3z0k4E"
     },
     {
-      "added_at": "2023-11-24 05:00:00",
+      "added_at": "2023-12-01 15:43:08",
+      "album": {
+        "name": "BAKO SIMBA",
+        "url": "https://open.spotify.com/album/4SEaMzRrXewuNTxnaYCy6z"
+      },
+      "artists": [
+        {
+          "name": "Bigal-J",
+          "url": "https://open.spotify.com/artist/20pLu8lCuYrNeVUhE3yUZN"
+        },
+        {
+          "name": "Touche",
+          "url": "https://open.spotify.com/artist/0xODvEWaBO5fmRGnuhRj4p"
+        }
+      ],
+      "duration_ms": 145923,
+      "name": "BAKO SIMBA",
+      "url": "https://open.spotify.com/track/4Gj20KOBHzOMzkOH5KvrRN"
+    },
+    {
+      "added_at": "2023-12-01 15:43:08",
       "album": {
         "name": "Ch\u00e9rie Coco",
         "url": "https://open.spotify.com/album/1qZRCgaHD4JJ9NMiYp3EQ8"
@@ -349,7 +437,7 @@
       "url": "https://open.spotify.com/track/7v8Ft7doJW1S6HRcZnLT79"
     },
     {
-      "added_at": "2023-11-24 05:00:00",
+      "added_at": "2023-12-01 15:43:08",
       "album": {
         "name": "Malembe",
         "url": "https://open.spotify.com/album/4snIDrzUugLqPucrFOHy9j"
@@ -365,7 +453,7 @@
       "url": "https://open.spotify.com/track/3vbx5h7ewP0FC342PIp1vV"
     },
     {
-      "added_at": "2023-11-24 05:00:00",
+      "added_at": "2023-12-01 15:43:08",
       "album": {
         "name": "QALF infinity",
         "url": "https://open.spotify.com/album/5Sb84P0BZuvCnYV0xJcNT1"
@@ -381,47 +469,7 @@
       "url": "https://open.spotify.com/track/5Zy87pKyQRlV2HIK8HZlAM"
     },
     {
-      "added_at": "2023-11-24 05:00:00",
-      "album": {
-        "name": "Mukongo",
-        "url": "https://open.spotify.com/album/5gfuY6txGvt4B32LE5F92L"
-      },
-      "artists": [
-        {
-          "name": "Hugo Kafumbi",
-          "url": "https://open.spotify.com/artist/4vtmFniIoQeD5t7oNfu4Te"
-        },
-        {
-          "name": "Bill Clinton Kalonji",
-          "url": "https://open.spotify.com/artist/7LuYI195pq8XPB6FutPLdD"
-        }
-      ],
-      "duration_ms": 170500,
-      "name": "Mukongo",
-      "url": "https://open.spotify.com/track/6WVDlfwQiquzD8daC0vCgI"
-    },
-    {
-      "added_at": "2023-11-24 05:00:00",
-      "album": {
-        "name": "Bokoko (Extra Musica)",
-        "url": "https://open.spotify.com/album/6UQuvYAa0xee2V2Wh4W3o6"
-      },
-      "artists": [
-        {
-          "name": "Roga Roga",
-          "url": "https://open.spotify.com/artist/2L1TvC8zgIymRxaa32TWug"
-        },
-        {
-          "name": "Extra Musica",
-          "url": "https://open.spotify.com/artist/5b93AJQpEWNI8b1X6Nu99K"
-        }
-      ],
-      "duration_ms": 252687,
-      "name": "Bokoko",
-      "url": "https://open.spotify.com/track/1DSdM1nslwDn8JlHElw6Yc"
-    },
-    {
-      "added_at": "2023-11-24 05:00:00",
+      "added_at": "2023-12-01 15:43:08",
       "album": {
         "name": "LAISSE MOI",
         "url": "https://open.spotify.com/album/2H2opHZttuBFqxhBNssSkD"
@@ -437,7 +485,7 @@
       "url": "https://open.spotify.com/track/2ImdwbujxKFxN1UxEvf2dD"
     },
     {
-      "added_at": "2023-11-24 05:00:00",
+      "added_at": "2023-12-01 15:43:08",
       "album": {
         "name": "Meridian & Special",
         "url": "https://open.spotify.com/album/2iz7b9HLy5aQ81tsMyedNn"
@@ -457,7 +505,7 @@
       "url": "https://open.spotify.com/track/09FcXaLu1BdrRNgxyBi6p5"
     },
     {
-      "added_at": "2023-11-24 05:00:00",
+      "added_at": "2023-12-01 15:43:08",
       "album": {
         "name": "Lipeka",
         "url": "https://open.spotify.com/album/4ic6LQoZ1bBuU3WMoXBWfp"
@@ -477,7 +525,7 @@
       "url": "https://open.spotify.com/track/5Q92Lz6MiwfmIIly1vs9ar"
     },
     {
-      "added_at": "2023-11-24 05:00:00",
+      "added_at": "2023-12-01 15:43:08",
       "album": {
         "name": "Laisse Les Parler",
         "url": "https://open.spotify.com/album/2XKyZWsuo0VKSauzWrJno6"
@@ -497,7 +545,7 @@
       "url": "https://open.spotify.com/track/0VtJ5iOQMj3of0RINj3fL7"
     },
     {
-      "added_at": "2023-11-24 05:00:00",
+      "added_at": "2023-12-01 15:43:08",
       "album": {
         "name": "BRUT4L",
         "url": "https://open.spotify.com/album/7FOTaCV4JRGvOazWA0dcfC"
@@ -517,7 +565,27 @@
       "url": "https://open.spotify.com/track/42koItqq5r5ZoXj8TTt36D"
     },
     {
-      "added_at": "2023-11-24 05:00:00",
+      "added_at": "2023-12-01 15:43:08",
+      "album": {
+        "name": "Mukongo",
+        "url": "https://open.spotify.com/album/5gfuY6txGvt4B32LE5F92L"
+      },
+      "artists": [
+        {
+          "name": "Hugo Kafumbi",
+          "url": "https://open.spotify.com/artist/4vtmFniIoQeD5t7oNfu4Te"
+        },
+        {
+          "name": "Bill Clinton Kalonji",
+          "url": "https://open.spotify.com/artist/7LuYI195pq8XPB6FutPLdD"
+        }
+      ],
+      "duration_ms": 170500,
+      "name": "Mukongo",
+      "url": "https://open.spotify.com/track/6WVDlfwQiquzD8daC0vCgI"
+    },
+    {
+      "added_at": "2023-12-01 15:43:08",
       "album": {
         "name": "La danse du ciel",
         "url": "https://open.spotify.com/album/05f8CA9xSV6npzBzok7AKa"
@@ -533,7 +601,7 @@
       "url": "https://open.spotify.com/track/6IW0hyI09W4wVCqE7TtQiq"
     },
     {
-      "added_at": "2023-11-24 05:00:00",
+      "added_at": "2023-12-01 15:43:08",
       "album": {
         "name": "\u00c7a va !",
         "url": "https://open.spotify.com/album/6XwsjQcPxdmNAS3a9QwaWT"
@@ -553,7 +621,27 @@
       "url": "https://open.spotify.com/track/5YmJ1Ts7Qv2GA2hKi8JxVv"
     },
     {
-      "added_at": "2023-11-24 05:00:00",
+      "added_at": "2023-12-01 15:43:08",
+      "album": {
+        "name": "Honey bee",
+        "url": "https://open.spotify.com/album/48Widtr5Le1phLHCCLu8bd"
+      },
+      "artists": [
+        {
+          "name": "Bader",
+          "url": "https://open.spotify.com/artist/1bcBNTeAi5f7rlUHpqYrZ4"
+        },
+        {
+          "name": "Ouzbek",
+          "url": "https://open.spotify.com/artist/35agMu466xyff2jEokqhes"
+        }
+      ],
+      "duration_ms": 163735,
+      "name": "Honey bee",
+      "url": "https://open.spotify.com/track/5MnOolAxJbVqRvFYruVIfS"
+    },
+    {
+      "added_at": "2023-12-01 15:43:08",
       "album": {
         "name": "Champion",
         "url": "https://open.spotify.com/album/5gFor2ZmO0Agv3isgcMPDl"
@@ -573,7 +661,7 @@
       "url": "https://open.spotify.com/track/7moGDROshDKDpuQxtQ3q4m"
     },
     {
-      "added_at": "2023-11-24 05:00:00",
+      "added_at": "2023-12-01 15:43:08",
       "album": {
         "name": "LMDB",
         "url": "https://open.spotify.com/album/7ywkrR5rlJ0Lj4jbsHVfU3"
@@ -593,7 +681,7 @@
       "url": "https://open.spotify.com/track/7AVgv2DjAjyybEEJLAnd29"
     },
     {
-      "added_at": "2023-11-24 05:00:00",
+      "added_at": "2023-12-01 15:43:08",
       "album": {
         "name": "El mayalove",
         "url": "https://open.spotify.com/album/7ohx2s4LEDhFSlieYpVBLy"
@@ -609,7 +697,7 @@
       "url": "https://open.spotify.com/track/6nB2jTxdEasmji0SqlU77Q"
     },
     {
-      "added_at": "2023-11-24 05:00:00",
+      "added_at": "2023-12-01 15:43:08",
       "album": {
         "name": "Mwinda",
         "url": "https://open.spotify.com/album/1oBCQkbNReIySY06NBdHgs"
@@ -625,7 +713,7 @@
       "url": "https://open.spotify.com/track/3qSfVR5ujV1SaomRSARWim"
     },
     {
-      "added_at": "2023-11-24 05:00:00",
+      "added_at": "2023-12-01 15:43:08",
       "album": {
         "name": "Bloqu\u00e9",
         "url": "https://open.spotify.com/album/5LZHW96lBwlzoqxYzEfVF8"
@@ -641,7 +729,7 @@
       "url": "https://open.spotify.com/track/6L6lwZwGzn6WWqeLbONWZf"
     },
     {
-      "added_at": "2023-11-24 05:00:00",
+      "added_at": "2023-12-01 15:43:08",
       "album": {
         "name": "Parcours",
         "url": "https://open.spotify.com/album/2f2tSZLBzav0f2YI1cKMIA"
@@ -657,7 +745,7 @@
       "url": "https://open.spotify.com/track/5SuJbEnNmNoBT44In361J2"
     },
     {
-      "added_at": "2023-11-24 05:00:00",
+      "added_at": "2023-12-01 15:43:08",
       "album": {
         "name": "\u00c7ava",
         "url": "https://open.spotify.com/album/06C3kwzKTthzgogsGkdrGQ"
@@ -673,7 +761,7 @@
       "url": "https://open.spotify.com/track/3fXrGNa9JmqlgGMcSINIpo"
     },
     {
-      "added_at": "2023-11-24 05:00:00",
+      "added_at": "2023-12-01 15:43:08",
       "album": {
         "name": "D\u00e9bloquer",
         "url": "https://open.spotify.com/album/3RaTe5Dfyw2h84iX4PMkSw"
@@ -693,23 +781,7 @@
       "url": "https://open.spotify.com/track/6GqDdQilljjSQtOIrJpjPc"
     },
     {
-      "added_at": "2023-11-24 05:00:00",
-      "album": {
-        "name": "Boma nga",
-        "url": "https://open.spotify.com/album/2KAD04YSQFHXya4NnpKjt7"
-      },
-      "artists": [
-        {
-          "name": "Gathorose",
-          "url": "https://open.spotify.com/artist/1YE9jrML8L9IhZyPq90uuZ"
-        }
-      ],
-      "duration_ms": 130000,
-      "name": "Boma nga",
-      "url": "https://open.spotify.com/track/3ptSWP4sc1j1sb3G6sTLsd"
-    },
-    {
-      "added_at": "2023-11-24 05:00:00",
+      "added_at": "2023-12-01 15:43:08",
       "album": {
         "name": "Meridian & Special",
         "url": "https://open.spotify.com/album/2iz7b9HLy5aQ81tsMyedNn"
@@ -729,7 +801,7 @@
       "url": "https://open.spotify.com/track/7AxbDCxi8MWazbVUR11nfK"
     },
     {
-      "added_at": "2023-11-24 05:00:00",
+      "added_at": "2023-12-01 15:43:08",
       "album": {
         "name": "Coup\u00e9 D\u00e9cal\u00e9 Zone (Sushiraw)",
         "url": "https://open.spotify.com/album/1Vc4xc4Gfc1RAK33LFMJlQ"
@@ -745,7 +817,7 @@
       "url": "https://open.spotify.com/track/3zt5Q6HRZOeLVVOPpOWnkJ"
     },
     {
-      "added_at": "2023-11-24 05:00:00",
+      "added_at": "2023-12-01 15:43:08",
       "album": {
         "name": "Sans nouvelle",
         "url": "https://open.spotify.com/album/6B5ks4O0TDE0LP8PBBilhM"
@@ -761,7 +833,7 @@
       "url": "https://open.spotify.com/track/1wlksYa0f0F5IXEt4DOXHC"
     },
     {
-      "added_at": "2023-11-24 05:00:00",
+      "added_at": "2023-12-01 15:43:08",
       "album": {
         "name": "Dendisa",
         "url": "https://open.spotify.com/album/1uSSXiCyplT46MTqfia54L"
@@ -781,7 +853,7 @@
       "url": "https://open.spotify.com/track/4pCgqcgvfx0VQwzgzY63Vw"
     },
     {
-      "added_at": "2023-11-24 05:00:00",
+      "added_at": "2023-12-01 15:43:08",
       "album": {
         "name": "Puzzle",
         "url": "https://open.spotify.com/album/3D0OJtFqBqjgfbsangQU2L"
@@ -801,27 +873,7 @@
       "url": "https://open.spotify.com/track/1YieXGaS4c81P4x02oUl61"
     },
     {
-      "added_at": "2023-11-24 05:00:00",
-      "album": {
-        "name": "Terminator",
-        "url": "https://open.spotify.com/album/4rlPB2WMMA6uSGOVtr7DA8"
-      },
-      "artists": [
-        {
-          "name": "DJ KEROZEN",
-          "url": "https://open.spotify.com/artist/6CPW7jlE6totfvrymgqV7W"
-        },
-        {
-          "name": "Koffi Olomide",
-          "url": "https://open.spotify.com/artist/7e14Bh8oZXNRmZxjhhTARb"
-        }
-      ],
-      "duration_ms": 182400,
-      "name": "Terminator",
-      "url": "https://open.spotify.com/track/7fzjepyW5Hdsk3MUqoNNs0"
-    },
-    {
-      "added_at": "2023-11-24 05:00:00",
+      "added_at": "2023-12-01 15:43:08",
       "album": {
         "name": "Afro Mbokalisation",
         "url": "https://open.spotify.com/album/5lv3btQPZawglTewcn1Y1h"
@@ -837,7 +889,7 @@
       "url": "https://open.spotify.com/track/3P5wVufq5aP1hDMl1W1qvO"
     },
     {
-      "added_at": "2023-11-24 05:00:00",
+      "added_at": "2023-12-01 15:43:08",
       "album": {
         "name": "Danger (RMX)",
         "url": "https://open.spotify.com/album/6Kchb3of3XRixZtMzpc5lc"
@@ -861,7 +913,7 @@
       "url": "https://open.spotify.com/track/1QBcLNVeXKU6Bzz3z5KPtD"
     },
     {
-      "added_at": "2023-11-24 05:00:00",
+      "added_at": "2023-12-01 15:43:08",
       "album": {
         "name": "Soldat",
         "url": "https://open.spotify.com/album/6B8xFNUP5v5zneQMo6eENp"
@@ -881,7 +933,7 @@
       "url": "https://open.spotify.com/track/0mMlg9IjOqcDYFIkWiJUnC"
     },
     {
-      "added_at": "2023-11-24 05:00:00",
+      "added_at": "2023-12-01 15:43:08",
       "album": {
         "name": "Linga Nga",
         "url": "https://open.spotify.com/album/7bpFRNNu19pJM5WKarDQjD"
@@ -901,7 +953,7 @@
       "url": "https://open.spotify.com/track/7IK4uieP9QrhMvlWF2drR4"
     },
     {
-      "added_at": "2023-11-24 05:00:00",
+      "added_at": "2023-12-01 15:43:08",
       "album": {
         "name": "Plus jamais",
         "url": "https://open.spotify.com/album/0gpLTk6qJsrvfxIU4M7h8X"
@@ -921,7 +973,7 @@
       "url": "https://open.spotify.com/track/7ghrmlvEtSS3fuHwgl3ePD"
     },
     {
-      "added_at": "2023-11-24 05:00:00",
+      "added_at": "2023-12-01 15:43:08",
       "album": {
         "name": "Bizorbi",
         "url": "https://open.spotify.com/album/6kVeYVPbvQ4WjmtzROIxXY"
@@ -937,7 +989,7 @@
       "url": "https://open.spotify.com/track/6IDHonEuHfYzjB3GqQDut5"
     },
     {
-      "added_at": "2023-11-24 05:00:00",
+      "added_at": "2023-12-01 15:43:08",
       "album": {
         "name": "NI",
         "url": "https://open.spotify.com/album/6sY6EuHMdhyD4dgZsYcKad"
@@ -957,31 +1009,7 @@
       "url": "https://open.spotify.com/track/3bmHBHh990jX1pTANKDPoe"
     },
     {
-      "added_at": "2023-11-24 05:00:00",
-      "album": {
-        "name": "TOUCHE MOI (Tindidi)",
-        "url": "https://open.spotify.com/album/557ibuoURcCgf5uONft8el"
-      },
-      "artists": [
-        {
-          "name": "5 car ecco",
-          "url": "https://open.spotify.com/artist/70tsfWFioo72yfJQ4wkk7N"
-        },
-        {
-          "name": "Mwinda Mannekin",
-          "url": "https://open.spotify.com/artist/6gIa2yUuciQy1hQQMk1o0l"
-        },
-        {
-          "name": "Afara Tsena",
-          "url": "https://open.spotify.com/artist/6DBlaKCGO6sSnjDopf2bwP"
-        }
-      ],
-      "duration_ms": 202314,
-      "name": "TOUCHE MOI - Tindidi",
-      "url": "https://open.spotify.com/track/104G7WYYF0YcrkzL6xMEz5"
-    },
-    {
-      "added_at": "2023-11-24 05:00:00",
+      "added_at": "2023-12-01 15:43:08",
       "album": {
         "name": "Diamant",
         "url": "https://open.spotify.com/album/6Tseko2czwOTsBe4A3ST5W"
@@ -1001,7 +1029,7 @@
       "url": "https://open.spotify.com/track/6KUZmPHPg2SGrINq8SVLI7"
     },
     {
-      "added_at": "2023-11-24 05:00:00",
+      "added_at": "2023-12-01 15:43:08",
       "album": {
         "name": "Maziwa",
         "url": "https://open.spotify.com/album/7wqLvH7cLXKw0YnVUoNyfz"
@@ -1029,23 +1057,7 @@
       "url": "https://open.spotify.com/track/09IfxlKqPL33hhPTfO6wfO"
     },
     {
-      "added_at": "2023-11-24 05:00:00",
-      "album": {
-        "name": "Pretty Girl Pack",
-        "url": "https://open.spotify.com/album/3Bc5Vgu3fmPIz2LWy6AV5N"
-      },
-      "artists": [
-        {
-          "name": "LU KALA",
-          "url": "https://open.spotify.com/artist/5R1cUyk9ysrruOo4ErpGjg"
-        }
-      ],
-      "duration_ms": 155571,
-      "name": "Pretty Girl Era - Version Fran\u00e7aise",
-      "url": "https://open.spotify.com/track/7czZJ0oMOdf5doqecs0CSi"
-    },
-    {
-      "added_at": "2023-11-24 05:00:00",
+      "added_at": "2023-12-01 15:43:08",
       "album": {
         "name": "Formule 7",
         "url": "https://open.spotify.com/album/4wIVgSLd2xKHdp3Bs6iVsf"
@@ -1061,7 +1073,7 @@
       "url": "https://open.spotify.com/track/2oswXAs7dpgNyJbjqUOZKB"
     },
     {
-      "added_at": "2023-11-24 05:00:00",
+      "added_at": "2023-12-01 15:43:08",
       "album": {
         "name": "Souvenirs",
         "url": "https://open.spotify.com/album/6aqa8GOrqhN63ac0NygKvi"
@@ -1077,7 +1089,7 @@
       "url": "https://open.spotify.com/track/59P7LifAtqA1rgmeztU6cU"
     },
     {
-      "added_at": "2023-11-24 05:00:00",
+      "added_at": "2023-12-01 15:43:08",
       "album": {
         "name": "Carr\u00e9 (feat. Fally Ipupa)",
         "url": "https://open.spotify.com/album/4oG5nKIyQXVKVozGUbOlnA"
@@ -1097,7 +1109,7 @@
       "url": "https://open.spotify.com/track/558wwMmRlaCXruzBg7s1QG"
     },
     {
-      "added_at": "2023-11-24 05:00:00",
+      "added_at": "2023-12-01 15:43:08",
       "album": {
         "name": "DNK",
         "url": "https://open.spotify.com/album/2sDLGR5LQ1pRmyCOT0alhN"
@@ -1117,7 +1129,7 @@
       "url": "https://open.spotify.com/track/4serT1J6lu8eTsMMG9VhF8"
     },
     {
-      "added_at": "2023-11-24 05:00:00",
+      "added_at": "2023-12-01 15:43:08",
       "album": {
         "name": "Femme Africaine",
         "url": "https://open.spotify.com/album/2vNXcv6Pa0IBvs70onbDqr"
@@ -1133,7 +1145,7 @@
       "url": "https://open.spotify.com/track/3SMheBG25pe8icrKQOPZbY"
     },
     {
-      "added_at": "2023-11-24 05:00:00",
+      "added_at": "2023-12-01 15:43:08",
       "album": {
         "name": "Mondongo",
         "url": "https://open.spotify.com/album/4xnSuFuoJNfg0c2n6tZuMc"
@@ -1149,7 +1161,7 @@
       "url": "https://open.spotify.com/track/0tjRxRv1JonYbxX0RD1Smw"
     },
     {
-      "added_at": "2023-11-24 05:00:00",
+      "added_at": "2023-12-01 15:43:08",
       "album": {
         "name": "MRTHN",
         "url": "https://open.spotify.com/album/1NDrCoEwYxndcqfRJ3vQ8g"
@@ -1173,7 +1185,7 @@
       "url": "https://open.spotify.com/track/3dAmEncotdt2zdvAJBSbCy"
     },
     {
-      "added_at": "2023-11-24 05:00:00",
+      "added_at": "2023-12-01 15:43:08",
       "album": {
         "name": "Amour & moi",
         "url": "https://open.spotify.com/album/2NAkbN7FQw4yTukP3NOvpb"
@@ -1189,7 +1201,7 @@
       "url": "https://open.spotify.com/track/5J9dOEHLNPwfbFlWPTkm8S"
     },
     {
-      "added_at": "2023-11-24 05:00:00",
+      "added_at": "2023-12-01 15:43:08",
       "album": {
         "name": "Nous deux",
         "url": "https://open.spotify.com/album/4P6ow8BZHDgWESXQMjUUzK"
@@ -1205,7 +1217,7 @@
       "url": "https://open.spotify.com/track/6APVzgDu9ni6rIcSubOZz3"
     },
     {
-      "added_at": "2023-11-24 05:00:00",
+      "added_at": "2023-12-01 15:43:08",
       "album": {
         "name": "Quand j'y repense",
         "url": "https://open.spotify.com/album/6UajBxdtW2cxG1Do4hzhpF"
@@ -1225,7 +1237,7 @@
       "url": "https://open.spotify.com/track/0sWCXDsedhClISQuKKMJcf"
     },
     {
-      "added_at": "2023-11-24 05:00:00",
+      "added_at": "2023-12-01 15:43:08",
       "album": {
         "name": "17%",
         "url": "https://open.spotify.com/album/0opPqJa8MofqpFXI7Eti8z"
@@ -1245,7 +1257,7 @@
       "url": "https://open.spotify.com/track/4QAv7uyOwIgqOVgzczomOo"
     },
     {
-      "added_at": "2023-11-24 05:00:00",
+      "added_at": "2023-12-01 15:43:08",
       "album": {
         "name": "Genkidama",
         "url": "https://open.spotify.com/album/3pzQi3OkoXi5xWgIcHmKfZ"
@@ -1261,7 +1273,7 @@
       "url": "https://open.spotify.com/track/1Jbim0t3F0TlAgBcza6tty"
     },
     {
-      "added_at": "2023-11-24 05:00:00",
+      "added_at": "2023-12-01 15:43:08",
       "album": {
         "name": "Yo Pe (Remix)",
         "url": "https://open.spotify.com/album/7jwHAuki1wn7hb23CVhNYV"
@@ -1281,7 +1293,7 @@
       "url": "https://open.spotify.com/track/16hivbAazfd7Li5o5WFguM"
     },
     {
-      "added_at": "2023-11-24 05:00:00",
+      "added_at": "2023-12-01 15:43:08",
       "album": {
         "name": "Jolie (feat. Ninho)",
         "url": "https://open.spotify.com/album/0S78h6ZbLzlZjpprrx6LO2"
@@ -1301,7 +1313,7 @@
       "url": "https://open.spotify.com/track/3q1FxEzXmsNmJrxaoICXzW"
     },
     {
-      "added_at": "2023-11-24 05:00:00",
+      "added_at": "2023-12-01 15:43:08",
       "album": {
         "name": "Fimbu",
         "url": "https://open.spotify.com/album/22BBi4bgCd0fPzkijhCmMa"
@@ -1317,7 +1329,7 @@
       "url": "https://open.spotify.com/track/44Lba4g6bftsoPiDnM1BJt"
     },
     {
-      "added_at": "2023-11-24 05:00:00",
+      "added_at": "2023-12-01 15:43:08",
       "album": {
         "name": "Waah! (feat. Koffi Olomide)",
         "url": "https://open.spotify.com/album/4Jk9lFqW5Jubq6RblSowLj"
@@ -1337,7 +1349,7 @@
       "url": "https://open.spotify.com/track/0ceJAvjokFWwhh0nsOM9QD"
     },
     {
-      "added_at": "2023-11-24 05:00:00",
+      "added_at": "2023-12-01 15:43:08",
       "album": {
         "name": "Ips\u00e9it\u00e9",
         "url": "https://open.spotify.com/album/7ovdjtmV0Bkm4Xb4pqtrZt"
@@ -1353,7 +1365,7 @@
       "url": "https://open.spotify.com/track/6YuSiFqJP4MUo88RtUAfAX"
     },
     {
-      "added_at": "2023-11-24 05:00:00",
+      "added_at": "2023-12-01 15:43:08",
       "album": {
         "name": "C'est dos\u00e9",
         "url": "https://open.spotify.com/album/5FY4VGL8QWWn3Vu6gNrKQ5"
@@ -1369,7 +1381,7 @@
       "url": "https://open.spotify.com/track/0UWLz61FiuLAEcpLebbvZB"
     },
     {
-      "added_at": "2023-11-24 05:00:00",
+      "added_at": "2023-12-01 15:43:08",
       "album": {
         "name": "Ya Jean",
         "url": "https://open.spotify.com/album/06Mr2L6kIAbYyvdqAhWmF8"
@@ -1385,7 +1397,7 @@
       "url": "https://open.spotify.com/track/0pezTTL2fjRJUdAzfoQmTm"
     },
     {
-      "added_at": "2023-11-24 05:00:00",
+      "added_at": "2023-12-01 15:43:08",
       "album": {
         "name": "Eloko",
         "url": "https://open.spotify.com/album/21U2ZROxX0JQiR91RQjt67"
@@ -1405,7 +1417,7 @@
       "url": "https://open.spotify.com/track/4OXLcfffBxIt4uqwjFVI9N"
     },
     {
-      "added_at": "2023-11-24 05:00:00",
+      "added_at": "2023-12-01 15:43:08",
       "album": {
         "name": "Maison m\u00e8re",
         "url": "https://open.spotify.com/album/5M8p6oL21ngPA4E5lSIGbU"

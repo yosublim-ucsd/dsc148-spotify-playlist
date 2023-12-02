@@ -1,12 +1,12 @@
 {
   "description": "Disco forever. Deeper cuts, forgotten gems and 8 minute versions.",
-  "num_followers": 56961,
+  "num_followers": 57018,
   "original_name": "Disco Decadence",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMjc2MTFkODZmODIwZjAyY2VmM2M3OGRlNzJhZGRhMWY3NjVjNjdl",
+  "snapshot_id": "MCxkNjM4ZjRlZDJjM2JmMjUzMmE1ZDVkMjkzOGE2NmU3MjJkNDkzMTNl",
   "tracks": [
     {
       "added_at": "2023-09-18 17:33:17",
@@ -811,22 +811,6 @@
     {
       "added_at": "2023-09-18 17:33:17",
       "album": {
-        "name": "The Changing Of The Gard",
-        "url": "https://open.spotify.com/album/4EGsIOg5ESHveA9g6InSto"
-      },
-      "artists": [
-        {
-          "name": "Stargard",
-          "url": "https://open.spotify.com/artist/5ZvV5BO4R5dwEUPfRKXdUI"
-        }
-      ],
-      "duration_ms": 317933,
-      "name": "Wear It Out",
-      "url": "https://open.spotify.com/track/0OmXNiWR8VZCsx2GfwpvCO"
-    },
-    {
-      "added_at": "2023-09-18 17:33:17",
-      "album": {
         "name": "Delusions (Bonus Version)",
         "url": "https://open.spotify.com/album/0TEdP49Slshj2dxALw1ONj"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 481506,
       "name": "Let No Man Put Asunder (Shep Pettibone 12\" Mix)",
       "url": "https://open.spotify.com/track/2wlCVIwRXV5i36yUpcoFiw"
+    },
+    {
+      "added_at": "2023-09-18 17:33:17",
+      "album": {
+        "name": "The Changing Of The Gard",
+        "url": "https://open.spotify.com/album/4EGsIOg5ESHveA9g6InSto"
+      },
+      "artists": [
+        {
+          "name": "Stargard",
+          "url": "https://open.spotify.com/artist/5ZvV5BO4R5dwEUPfRKXdUI"
+        }
+      ],
+      "duration_ms": 317933,
+      "name": "Wear It Out",
+      "url": "https://open.spotify.com/track/0OmXNiWR8VZCsx2GfwpvCO"
     },
     {
       "added_at": "2023-09-18 17:33:17",
@@ -859,22 +859,6 @@
     {
       "added_at": "2023-09-18 17:33:17",
       "album": {
-        "name": "Norma Jean",
-        "url": "https://open.spotify.com/album/7Bo2lPXUL79QoKPzbFT1TZ"
-      },
-      "artists": [
-        {
-          "name": "Norma Jean Wright",
-          "url": "https://open.spotify.com/artist/2Tq4xKjGkoZyAzdklz74oM"
-        }
-      ],
-      "duration_ms": 366160,
-      "name": "Saturday",
-      "url": "https://open.spotify.com/track/59n20ABic3nU1hqy2tDauE"
-    },
-    {
-      "added_at": "2023-09-18 17:33:17",
-      "album": {
         "name": "Risqu\u00e9 (2018 Remaster)",
         "url": "https://open.spotify.com/album/7rAk4WPpYlYr0fElVfXTOF"
       },
@@ -891,18 +875,18 @@
     {
       "added_at": "2023-09-18 17:33:17",
       "album": {
-        "name": "Hits, Remixes and Rarities: The Warner Brothers Years",
-        "url": "https://open.spotify.com/album/6CyWY15jDZy4sP82bLe5dY"
+        "name": "Norma Jean",
+        "url": "https://open.spotify.com/album/7Bo2lPXUL79QoKPzbFT1TZ"
       },
       "artists": [
         {
-          "name": "Ashford & Simpson",
-          "url": "https://open.spotify.com/artist/2EURsXo9qlt1aMWlviGCRi"
+          "name": "Norma Jean Wright",
+          "url": "https://open.spotify.com/artist/2Tq4xKjGkoZyAzdklz74oM"
         }
       ],
-      "duration_ms": 423240,
-      "name": "Found a Cure - 12\" Disco Mix",
-      "url": "https://open.spotify.com/track/3HfVnWKGvJnqb7Xonl8lvw"
+      "duration_ms": 366160,
+      "name": "Saturday",
+      "url": "https://open.spotify.com/track/59n20ABic3nU1hqy2tDauE"
     },
     {
       "added_at": "2023-09-18 17:33:17",
@@ -919,6 +903,22 @@
       "duration_ms": 225160,
       "name": "My Body Keeps Changing My Mind",
       "url": "https://open.spotify.com/track/2JJuLnRim5bNDMWEewpfcA"
+    },
+    {
+      "added_at": "2023-09-18 17:33:17",
+      "album": {
+        "name": "Hits, Remixes and Rarities: The Warner Brothers Years",
+        "url": "https://open.spotify.com/album/6CyWY15jDZy4sP82bLe5dY"
+      },
+      "artists": [
+        {
+          "name": "Ashford & Simpson",
+          "url": "https://open.spotify.com/artist/2EURsXo9qlt1aMWlviGCRi"
+        }
+      ],
+      "duration_ms": 423240,
+      "name": "Found a Cure - 12\" Disco Mix",
+      "url": "https://open.spotify.com/track/3HfVnWKGvJnqb7Xonl8lvw"
     },
     {
       "added_at": "2023-09-18 17:33:17",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2023-09-18 17:33:17",
       "album": {
-        "name": "Club Columbia",
-        "url": "https://open.spotify.com/album/6g7JRPx6SdrEDLQS2fQcsI"
-      },
-      "artists": [
-        {
-          "name": "Jackie Moore",
-          "url": "https://open.spotify.com/artist/1EialtL6J5R7O0exgdgQ1w"
-        }
-      ],
-      "duration_ms": 433093,
-      "name": "This Time Baby - Special 12\" Version",
-      "url": "https://open.spotify.com/track/1Ywkbr13F7cOzwHs8QKknI"
-    },
-    {
-      "added_at": "2023-09-18 17:33:17",
-      "album": {
         "name": "Cuchi-Cuchi",
         "url": "https://open.spotify.com/album/1SpaM5xsJmHfBmlvTOdzrR"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 377405,
       "name": "Dance A Little Bit Closer (12'' Mix)",
       "url": "https://open.spotify.com/track/2y4EEO7Y2X5wC9sQGqOKkQ"
+    },
+    {
+      "added_at": "2023-09-18 17:33:17",
+      "album": {
+        "name": "Club Columbia",
+        "url": "https://open.spotify.com/album/6g7JRPx6SdrEDLQS2fQcsI"
+      },
+      "artists": [
+        {
+          "name": "Jackie Moore",
+          "url": "https://open.spotify.com/artist/1EialtL6J5R7O0exgdgQ1w"
+        }
+      ],
+      "duration_ms": 433093,
+      "name": "This Time Baby - Special 12\" Version",
+      "url": "https://open.spotify.com/track/1Ywkbr13F7cOzwHs8QKknI"
     },
     {
       "added_at": "2023-09-18 17:33:17",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2023-09-18 17:33:17",
       "album": {
-        "name": "More, More, More",
-        "url": "https://open.spotify.com/album/4xQKeiJzX2EmCXt5XdGiTN"
-      },
-      "artists": [
-        {
-          "name": "Andrea True Connection",
-          "url": "https://open.spotify.com/artist/3GHovBcEWpbnwCZDPF9GpM"
-        }
-      ],
-      "duration_ms": 197096,
-      "name": "What's Your Name, What's Your Number",
-      "url": "https://open.spotify.com/track/0DFb31DLTYkgkNDJSqlPDH"
-    },
-    {
-      "added_at": "2023-09-18 17:33:17",
-      "album": {
         "name": "Delusions (Bonus Version)",
         "url": "https://open.spotify.com/album/0TEdP49Slshj2dxALw1ONj"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 457746,
       "name": "Doctor Love (Tom Moulton 12\" Mix)",
       "url": "https://open.spotify.com/track/1xifiLRb2Uo6kBzZruN6rw"
+    },
+    {
+      "added_at": "2023-09-18 17:33:17",
+      "album": {
+        "name": "More, More, More",
+        "url": "https://open.spotify.com/album/4xQKeiJzX2EmCXt5XdGiTN"
+      },
+      "artists": [
+        {
+          "name": "Andrea True Connection",
+          "url": "https://open.spotify.com/artist/3GHovBcEWpbnwCZDPF9GpM"
+        }
+      ],
+      "duration_ms": 197096,
+      "name": "What's Your Name, What's Your Number",
+      "url": "https://open.spotify.com/track/0DFb31DLTYkgkNDJSqlPDH"
     },
     {
       "added_at": "2023-09-18 17:33:17",

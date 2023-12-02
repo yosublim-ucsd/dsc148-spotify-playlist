@@ -2413,6 +2413,24 @@
     },
     {
       "album": {
+        "name": "We Wish You A Merry Christmas (From \"The Santa Clauses: Season 2\")",
+        "url": "https://open.spotify.com/album/1F06xtgHCyekJfrnKbklOV"
+      },
+      "artists": [
+        {
+          "name": "The Santa Clauses - Cast",
+          "url": "https://open.spotify.com/artist/1fcqHgM7myURz9HBW2jEQU"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112799,
+      "name": "We Wish You a Merry Christmas - From \"The Santa Clauses: Season 2\"",
+      "url": "https://open.spotify.com/track/0fMSRi3f7CBLQ6BROBqVhH"
+    },
+    {
+      "album": {
         "name": "What Christmas Means to Me",
         "url": "https://open.spotify.com/album/1RcoVRUDGhepaBcxeEp4A0"
       },

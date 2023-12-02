@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Leaders of the new school...Alternative R&B. Cover: MiLES",
+  "description": "Leaders of the new school...Alternative R&B. Cover: Sean Leon & Jessie Reyez",
   "name": "Vanguard",
   "tracks": [
     {
@@ -542,6 +542,24 @@
       "duration_ms": 237000,
       "name": "ACOUSCOUS",
       "url": "https://open.spotify.com/track/64lmE7hixqSVxMsk5nvG8e"
+    },
+    {
+      "album": {
+        "name": "act i: stickerz \"99\"",
+        "url": "https://open.spotify.com/album/7zvLQaWpLG4rZSXgpTsfi9"
+      },
+      "artists": [
+        {
+          "name": "4batz",
+          "url": "https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104468,
+      "name": "act i: stickerz \"99\"",
+      "url": "https://open.spotify.com/track/24A1MxM364lveyyDomwIYq"
     },
     {
       "album": {
@@ -4690,7 +4708,7 @@
       ],
       "date_added": "2023-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 272042,
       "name": "Devil\u2019s Advocate",
       "url": "https://open.spotify.com/track/2BhUsGExfyDXWiYgTeQqAB"
@@ -4730,6 +4748,28 @@
       "duration_ms": 169720,
       "name": "dirty dancer",
       "url": "https://open.spotify.com/track/1ciQU7ZQGHq129m3njp9en"
+    },
+    {
+      "album": {
+        "name": "IN LOVING MEMORY",
+        "url": "https://open.spotify.com/album/5yjvJzb9DJRtgArZhPs6uk"
+      },
+      "artists": [
+        {
+          "name": "Sean Leon",
+          "url": "https://open.spotify.com/artist/5dtbsNKCK6Q9yZzdhZpaqW"
+        },
+        {
+          "name": "Jessie Reyez",
+          "url": "https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163148,
+      "name": "DISHONORED",
+      "url": "https://open.spotify.com/track/1URH3DZOnsEx6TNqPYsYkk"
     },
     {
       "album": {
@@ -12222,7 +12262,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 208706,
       "name": "ODEE",
       "url": "https://open.spotify.com/track/1DJLf5CTIbjI8gPqfZZ6Wj"
@@ -14378,7 +14418,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 210910,
       "name": "Rodeo Clown",
       "url": "https://open.spotify.com/track/7MrklDIUaRUecz3RDCcjM5"
@@ -15040,6 +15080,24 @@
       "duration_ms": 149167,
       "name": "Sharlene",
       "url": "https://open.spotify.com/track/73eyDiyhnqsEeN2WYV7r3h"
+    },
+    {
+      "album": {
+        "name": "She'll Be OK",
+        "url": "https://open.spotify.com/album/04XpFnF73mrCeMAyjqFTYg"
+      },
+      "artists": [
+        {
+          "name": "4Fargo",
+          "url": "https://open.spotify.com/artist/33FcjtLCwlwxV9ImxJX2iK"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130626,
+      "name": "She'll Be OK",
+      "url": "https://open.spotify.com/track/1Aqw1EAisB2KYrE8m4pQqN"
     },
     {
       "album": {
@@ -16198,7 +16256,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 162724,
       "name": "Strawberry Perfume (feat. Essosa)",
       "url": "https://open.spotify.com/track/4Z6oFfVBqD2UT54NY6A4PT"
@@ -17364,6 +17422,24 @@
       "duration_ms": 188453,
       "name": "Them Changes",
       "url": "https://open.spotify.com/track/7CH99b2i1TXS5P8UUyWtnM"
+    },
+    {
+      "album": {
+        "name": "THERE FOR YOU",
+        "url": "https://open.spotify.com/album/5pPwpIKxjhYypUS9PG154v"
+      },
+      "artists": [
+        {
+          "name": "greek",
+          "url": "https://open.spotify.com/artist/23FgP9gxRT6QMcRhsV71kY"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184778,
+      "name": "THERE FOR YOU",
+      "url": "https://open.spotify.com/track/54rXzumZf6OS8jZHN7DUO9"
     },
     {
       "album": {

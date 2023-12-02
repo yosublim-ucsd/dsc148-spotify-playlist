@@ -1,13 +1,37 @@
 {
   "description": "The best of modern psychedelic rock,  neo-psychedelic, and psychedelic indie. ",
-  "num_followers": 879686,
+  "num_followers": 879655,
   "original_name": "Modern Psychedelia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjODJiODcwMzcyNmZhNTAxYjA1Mzc3ZWY0MjBlMzdkOGE5NTIzZjQz",
+  "snapshot_id": "MCw3MzZkNmZkNzdhOTVkYzZiN2FhZmQ3YTc2Yjc0OWM3ZjIyMzJhNDU3",
   "tracks": [
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
+        "name": "SUNSTRIKES",
+        "url": "https://open.spotify.com/album/116qceKwaUUDLL7qh1tJsO"
+      },
+      "artists": [
+        {
+          "name": "The South Hill Experiment",
+          "url": "https://open.spotify.com/artist/6PmrG14lGhCeDfxf40nbZX"
+        },
+        {
+          "name": "Baird",
+          "url": "https://open.spotify.com/artist/7GdGZWPHxDEu0ppvLoB4GO"
+        },
+        {
+          "name": "Goldwash",
+          "url": "https://open.spotify.com/artist/7yYa2im7sawSzuVkXx8W21"
+        }
+      ],
+      "duration_ms": 210948,
+      "name": "Alright, OK",
+      "url": "https://open.spotify.com/track/7hj2XcjFRk7CG1aL0GqTQP"
+    },
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
@@ -39,6 +63,74 @@
       "duration_ms": 446733,
       "name": "Two Generations of Excess",
       "url": "https://open.spotify.com/track/3yNBnPv3JbGxGvTiIhndvx"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
+        "name": "Was It The Wandering Chestnut Prince? / Constellation of Misty Contraband (The Tunnel of Zazar)",
+        "url": "https://open.spotify.com/album/4yC45tPz6dVqrA1cvNjPva"
+      },
+      "artists": [
+        {
+          "name": "Kinder Bloomen",
+          "url": "https://open.spotify.com/artist/6Myz6IelnH81UoSa6rvd7K"
+        }
+      ],
+      "duration_ms": 167050,
+      "name": "Was It The Wandering Chestnut Prince",
+      "url": "https://open.spotify.com/track/1U0WWy2wLJdvN7WvyFzmoG"
+    },
+    {
+      "added_at": "2023-10-21 16:39:26",
+      "album": {
+        "name": "Gong Song",
+        "url": "https://open.spotify.com/album/1d1xyzQiXuJQ3iv9MlzP12"
+      },
+      "artists": [
+        {
+          "name": "Dark Dazey",
+          "url": "https://open.spotify.com/artist/4hdbPv7t0amGbnuIMVcXja"
+        }
+      ],
+      "duration_ms": 347608,
+      "name": "Gong Song",
+      "url": "https://open.spotify.com/track/5JlIRHZiAxXR3cyhCOED47"
+    },
+    {
+      "added_at": "2023-10-10 18:55:59",
+      "album": {
+        "name": "Sorry Like You Mean It",
+        "url": "https://open.spotify.com/album/34eHflHLhK2wTKYZUlgSA0"
+      },
+      "artists": [
+        {
+          "name": "HONEYMOAN",
+          "url": "https://open.spotify.com/artist/5J9s2Y6roGagMAipTa5XqV"
+        }
+      ],
+      "duration_ms": 274918,
+      "name": "Pickup, Don't Pickup",
+      "url": "https://open.spotify.com/track/4E5P6ztlfq3jE9Df80jtND"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
+        "name": "Habitat",
+        "url": "https://open.spotify.com/album/3glCxDLdGv7lRijvfycOEC"
+      },
+      "artists": [
+        {
+          "name": "C'mon Tigre",
+          "url": "https://open.spotify.com/artist/1ntP294de9KGcB3pTfpGfJ"
+        },
+        {
+          "name": "Seun Kuti",
+          "url": "https://open.spotify.com/artist/1GQur7dDvAWhKT9u9YwBJZ"
+        }
+      ],
+      "duration_ms": 270586,
+      "name": "The Botanist",
+      "url": "https://open.spotify.com/track/7ezLCYYElreJTHe7KyuKTG"
     },
     {
       "added_at": "2023-11-10 05:01:00",
@@ -77,36 +169,24 @@
       "url": "https://open.spotify.com/track/400F8qcb3vxxk7iqRhV1tr"
     },
     {
-      "added_at": "2023-10-21 16:39:26",
+      "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "Gong Song",
-        "url": "https://open.spotify.com/album/1d1xyzQiXuJQ3iv9MlzP12"
+        "name": "Gamma Rays (Sean Ono Lennon Remix)",
+        "url": "https://open.spotify.com/album/0htTLQYeJhBADpJ0oQ8m8X"
       },
       "artists": [
         {
-          "name": "Dark Dazey",
-          "url": "https://open.spotify.com/artist/4hdbPv7t0amGbnuIMVcXja"
-        }
-      ],
-      "duration_ms": 347608,
-      "name": "Gong Song",
-      "url": "https://open.spotify.com/track/5JlIRHZiAxXR3cyhCOED47"
-    },
-    {
-      "added_at": "2023-10-10 18:55:59",
-      "album": {
-        "name": "Sorry Like You Mean It",
-        "url": "https://open.spotify.com/album/34eHflHLhK2wTKYZUlgSA0"
-      },
-      "artists": [
+          "name": "Temples",
+          "url": "https://open.spotify.com/artist/4ogwGU9VPWrnVBs1GEwZVV"
+        },
         {
-          "name": "HONEYMOAN",
-          "url": "https://open.spotify.com/artist/5J9s2Y6roGagMAipTa5XqV"
+          "name": "Sean Ono Lennon",
+          "url": "https://open.spotify.com/artist/5JUYSPkis2Mk6HUbmMqk1m"
         }
       ],
-      "duration_ms": 274918,
-      "name": "Pickup, Don't Pickup",
-      "url": "https://open.spotify.com/track/4E5P6ztlfq3jE9Df80jtND"
+      "duration_ms": 333173,
+      "name": "Gamma Rays (Sean Ono Lennon Remix)",
+      "url": "https://open.spotify.com/track/1u87YKsVkulCvckDBtTfqv"
     },
     {
       "added_at": "2023-10-21 16:39:26",
@@ -125,6 +205,22 @@
       "url": "https://open.spotify.com/track/5ylKFAdMokkhy9cZeshJQY"
     },
     {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
+        "name": "Piggies",
+        "url": "https://open.spotify.com/album/1MmtHO2F23nIID3DUI5Sn3"
+      },
+      "artists": [
+        {
+          "name": "The Amazing",
+          "url": "https://open.spotify.com/artist/16f3WYlA4miISj20MG5J30"
+        }
+      ],
+      "duration_ms": 231500,
+      "name": "Piggies",
+      "url": "https://open.spotify.com/track/0YmVJGxRW8VDvEoDYE8d0S"
+    },
+    {
       "added_at": "2023-10-21 16:39:26",
       "album": {
         "name": "Sad Dream",
@@ -141,36 +237,20 @@
       "url": "https://open.spotify.com/track/6k8jlEH1WssLwzXHfZGq3j"
     },
     {
-      "added_at": "2023-11-17 05:00:00",
+      "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "Tabadaboum",
-        "url": "https://open.spotify.com/album/0ajc0Cy1f3XqMxLojKZY1l"
+        "name": "Poisoned",
+        "url": "https://open.spotify.com/album/4GV7zlEZ8pxZ4uQEz9alvz"
       },
       "artists": [
         {
-          "name": "Japanese Television",
-          "url": "https://open.spotify.com/artist/5LLn18vxU1UTY1ypouVGNW"
+          "name": "Cousin Kula",
+          "url": "https://open.spotify.com/artist/1TuDUmw1jUuY1V5s78TNHd"
         }
       ],
-      "duration_ms": 212918,
-      "name": "Tabadaboum",
-      "url": "https://open.spotify.com/track/7qzj5s3D7Vo0FlEPqPOrD3"
-    },
-    {
-      "added_at": "2023-11-10 05:01:00",
-      "album": {
-        "name": "The Silver Cord",
-        "url": "https://open.spotify.com/album/7iY6PA1ftgY8OKOzc2vBdo"
-      },
-      "artists": [
-        {
-          "name": "King Gizzard & The Lizard Wizard",
-          "url": "https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn"
-        }
-      ],
-      "duration_ms": 226770,
-      "name": "Chang\u2019e",
-      "url": "https://open.spotify.com/track/3yyagteXLaWUhXcyLWQNGY"
+      "duration_ms": 245986,
+      "name": "Poisoned",
+      "url": "https://open.spotify.com/track/4QsDdmKODqrc9vr6Yb3jlZ"
     },
     {
       "added_at": "2023-10-10 18:55:59",
@@ -187,6 +267,22 @@
       "duration_ms": 279480,
       "name": "Sink or Swim",
       "url": "https://open.spotify.com/track/1lddVTsxR1k0waF1NqTbbn"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "Tabadaboum",
+        "url": "https://open.spotify.com/album/0ajc0Cy1f3XqMxLojKZY1l"
+      },
+      "artists": [
+        {
+          "name": "Japanese Television",
+          "url": "https://open.spotify.com/artist/5LLn18vxU1UTY1ypouVGNW"
+        }
+      ],
+      "duration_ms": 212918,
+      "name": "Tabadaboum",
+      "url": "https://open.spotify.com/track/7qzj5s3D7Vo0FlEPqPOrD3"
     },
     {
       "added_at": "2023-10-21 16:39:26",
@@ -235,6 +331,22 @@
       "duration_ms": 225946,
       "name": "Couldn't Be Me",
       "url": "https://open.spotify.com/track/7Hp0QPfWdAiONMDwggAkek"
+    },
+    {
+      "added_at": "2023-11-10 05:01:00",
+      "album": {
+        "name": "The Silver Cord",
+        "url": "https://open.spotify.com/album/7iY6PA1ftgY8OKOzc2vBdo"
+      },
+      "artists": [
+        {
+          "name": "King Gizzard & The Lizard Wizard",
+          "url": "https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn"
+        }
+      ],
+      "duration_ms": 226770,
+      "name": "Chang\u2019e",
+      "url": "https://open.spotify.com/track/3yyagteXLaWUhXcyLWQNGY"
     },
     {
       "added_at": "2023-10-10 18:55:59",
@@ -543,22 +655,6 @@
     {
       "added_at": "2023-10-10 18:55:59",
       "album": {
-        "name": "Glasshead",
-        "url": "https://open.spotify.com/album/6noSfxwRPvApqPSIcL9uGz"
-      },
-      "artists": [
-        {
-          "name": "Tommy Newport",
-          "url": "https://open.spotify.com/artist/7FvQR6QFfXmW18dyMqnHvv"
-        }
-      ],
-      "duration_ms": 203070,
-      "name": "Sunset For The Dead",
-      "url": "https://open.spotify.com/track/3E2qVqPW3FS2LXzCbss9yq"
-    },
-    {
-      "added_at": "2023-10-10 18:55:59",
-      "album": {
         "name": "DREAM SOUP",
         "url": "https://open.spotify.com/album/4rDFEnOjCq5M7JGCd2KIPP"
       },
@@ -643,22 +739,6 @@
     {
       "added_at": "2023-10-10 18:55:59",
       "album": {
-        "name": "RPG",
-        "url": "https://open.spotify.com/album/38eDGa0vn6Vta7fRYRlF15"
-      },
-      "artists": [
-        {
-          "name": "Me Lost Me",
-          "url": "https://open.spotify.com/artist/0B2o0hnGZALnMYau8xQmQO"
-        }
-      ],
-      "duration_ms": 231133,
-      "name": "Festive Day",
-      "url": "https://open.spotify.com/track/4JLRH65PoifRK6wwunuOBh"
-    },
-    {
-      "added_at": "2023-10-10 18:55:59",
-      "album": {
         "name": "Higher Self",
         "url": "https://open.spotify.com/album/7tQKPWJuOifYCvqhRf2bn0"
       },
@@ -719,26 +799,6 @@
       "duration_ms": 197590,
       "name": "LATELY",
       "url": "https://open.spotify.com/track/4TkHi2kB3VMRaOEEv25K4W"
-    },
-    {
-      "added_at": "2023-10-10 18:55:59",
-      "album": {
-        "name": "Zango",
-        "url": "https://open.spotify.com/album/2J92im3sUEJM3pvDqDeS7f"
-      },
-      "artists": [
-        {
-          "name": "WITCH",
-          "url": "https://open.spotify.com/artist/0LMkPoi2xIgpOPUSJMftqM"
-        },
-        {
-          "name": "Sampa the Great",
-          "url": "https://open.spotify.com/artist/7fw0E8WHdG3r9SuPBcGmWk"
-        }
-      ],
-      "duration_ms": 235840,
-      "name": "Avalanche Of Love",
-      "url": "https://open.spotify.com/track/1ypEcoMJdjba3Xh9QUIM7K"
     },
     {
       "added_at": "2023-10-10 18:55:59",
@@ -1127,22 +1187,6 @@
     {
       "added_at": "2023-10-10 18:55:59",
       "album": {
-        "name": "Late Riser",
-        "url": "https://open.spotify.com/album/1vZoAnLWsTLhR6r4sussA0"
-      },
-      "artists": [
-        {
-          "name": "Okey Dokey",
-          "url": "https://open.spotify.com/artist/3hSFS64223jyO9Ck66rLOf"
-        }
-      ],
-      "duration_ms": 250664,
-      "name": "Late Riser",
-      "url": "https://open.spotify.com/track/49oTazxdKGoxGTq9ZmqpPV"
-    },
-    {
-      "added_at": "2023-10-10 18:55:59",
-      "album": {
         "name": "Half Heard Melody",
         "url": "https://open.spotify.com/album/6WVwm3Jt13kkBIRUXTHY83"
       },
@@ -1175,22 +1219,6 @@
       "duration_ms": 287297,
       "name": "Silent",
       "url": "https://open.spotify.com/track/2S4ktHPpnD2dhC3d2MK1pJ"
-    },
-    {
-      "added_at": "2023-10-10 18:55:59",
-      "album": {
-        "name": "Zango",
-        "url": "https://open.spotify.com/album/2J92im3sUEJM3pvDqDeS7f"
-      },
-      "artists": [
-        {
-          "name": "WITCH",
-          "url": "https://open.spotify.com/artist/0LMkPoi2xIgpOPUSJMftqM"
-        }
-      ],
-      "duration_ms": 315426,
-      "name": "Waile",
-      "url": "https://open.spotify.com/track/7CrdlbRadEBmd16KQWt4xf"
     },
     {
       "added_at": "2023-10-10 18:55:59",
@@ -1623,26 +1651,6 @@
       "duration_ms": 273374,
       "name": "Petroglyph",
       "url": "https://open.spotify.com/track/2bzAmBp07YEFIxoc202Ug9"
-    },
-    {
-      "added_at": "2023-10-10 18:55:59",
-      "album": {
-        "name": "DAYS GO BY",
-        "url": "https://open.spotify.com/album/0sFfaz3GhoFX0eHUDjXtbw"
-      },
-      "artists": [
-        {
-          "name": "SBTRKT",
-          "url": "https://open.spotify.com/artist/1O10apSOoAPjOu6UhUNmeI"
-        },
-        {
-          "name": "Toro y Moi",
-          "url": "https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp"
-        }
-      ],
-      "duration_ms": 271756,
-      "name": "DAYS GO BY",
-      "url": "https://open.spotify.com/track/0IngWDycujRx7MPYCqImO0"
     },
     {
       "added_at": "2023-10-10 18:55:59",

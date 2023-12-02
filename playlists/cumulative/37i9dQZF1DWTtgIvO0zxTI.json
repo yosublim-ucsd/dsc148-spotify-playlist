@@ -843,6 +843,28 @@
     },
     {
       "album": {
+        "name": "Honesto",
+        "url": "https://open.spotify.com/album/3Ou22NCBta6IMiRhr0YuSK"
+      },
+      "artists": [
+        {
+          "name": "Robert Tiamo",
+          "url": "https://open.spotify.com/artist/7M4raOQ6EsBzMYM0oyKlTu"
+        },
+        {
+          "name": "Young Tiller",
+          "url": "https://open.spotify.com/artist/6LELaB0TSkf5DuYbhHYYiQ"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190344,
+      "name": "Culpable",
+      "url": "https://open.spotify.com/track/0iH52C7k07HUibOHBsxRta"
+    },
+    {
+      "album": {
         "name": "Un Koala En Una Palmera",
         "url": "https://open.spotify.com/album/3ZAYuvF9D2gG3Qflm4Ps4U"
       },
@@ -1616,7 +1638,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 196800,
       "name": "MAMI XULA",
       "url": "https://open.spotify.com/track/2t4WmF6VwrEnii30Cy1Ke3"
@@ -2446,7 +2468,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 140571,
       "name": "REMEMBAH",
       "url": "https://open.spotify.com/track/2L1CLvJRne3YgAlD9KmWQy"
@@ -2798,6 +2820,24 @@
       "duration_ms": 149787,
       "name": "T\u00fa no me conoces",
       "url": "https://open.spotify.com/track/2ENHU0Zzp2BwZLr3Cyesc1"
+    },
+    {
+      "album": {
+        "name": "Ukiyo",
+        "url": "https://open.spotify.com/album/0eX8CWb62DpZUdDllWU1iP"
+      },
+      "artists": [
+        {
+          "name": "Micro TDH",
+          "url": "https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149667,
+      "name": "Ukiyo",
+      "url": "https://open.spotify.com/track/2kapGymnbrzm8ZwWnQRYIm"
     },
     {
       "album": {

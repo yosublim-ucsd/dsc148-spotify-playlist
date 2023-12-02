@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-30",
-  "description": "Lo m\u00e1s potente del rock argentino, y algunos invitados de lujo. Foto: Ella Es Tan Cargosa",
+  "description": "Lo m\u00e1s potente del rock argentino, y algunos invitados de lujo. Foto: Babas\u00f3nicos",
   "name": "Rock Argentino",
   "tracks": [
     {
@@ -469,6 +469,24 @@
     },
     {
       "album": {
+        "name": "Vamos a Destruir",
+        "url": "https://open.spotify.com/album/0D04Gwef4aeN5bEGzsvenm"
+      },
+      "artists": [
+        {
+          "name": "Bestia Beb\u00e9",
+          "url": "https://open.spotify.com/artist/3j7kmtxJ0aptdHr9ZCnEkp"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250621,
+      "name": "Cangrejal",
+      "url": "https://open.spotify.com/track/4DNSjR34NzyowHIiNBpdrr"
+    },
+    {
+      "album": {
         "name": "Canibales",
         "url": "https://open.spotify.com/album/1gdjKzJ7iw1txlcAn0mXMf"
       },
@@ -600,6 +618,24 @@
       "duration_ms": 238806,
       "name": "Coleccionando Cicatrices",
       "url": "https://open.spotify.com/track/2bPWrKKz9TrV8Q6x5zEQEv"
+    },
+    {
+      "album": {
+        "name": "Colmena",
+        "url": "https://open.spotify.com/album/4rSdMBUFUJDmj6lYa0Jik6"
+      },
+      "artists": [
+        {
+          "name": "Cielo Razzo",
+          "url": "https://open.spotify.com/artist/7EgR8MOSpxSytMngVCVGEu"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258906,
+      "name": "Colmena",
+      "url": "https://open.spotify.com/track/3didqbZlbcOd3tEaLreWtp"
     },
     {
       "album": {
@@ -2412,7 +2448,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 212271,
       "name": "Lejos Estoy",
       "url": "https://open.spotify.com/track/7p9hMuHlKpiJoeoBWT1jic"
@@ -3703,6 +3739,24 @@
     },
     {
       "album": {
+        "name": "Tajada",
+        "url": "https://open.spotify.com/album/5hfg8YESqVnDHcOPiu4GSs"
+      },
+      "artists": [
+        {
+          "name": "Babas\u00f3nicos",
+          "url": "https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206429,
+      "name": "Tajada",
+      "url": "https://open.spotify.com/track/0HGchjSKUuMNsLg8zfwqFf"
+    },
+    {
+      "album": {
         "name": "Tan Distintos (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/4kn2pDF2SAuQGc9yUMp31n"
       },
@@ -4214,7 +4268,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 255840,
       "name": "Vino Tinto",
       "url": "https://open.spotify.com/track/5c4lchIbTBbrn3J6WBNH2z"
@@ -4232,7 +4286,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 199901,
       "name": "VOID",
       "url": "https://open.spotify.com/track/7ezLEpE3Q50zpVARzgA00f"

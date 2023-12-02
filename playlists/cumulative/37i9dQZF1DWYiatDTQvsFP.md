@@ -2,7 +2,7 @@
 
 ### [mid:nite storm ](https://open.spotify.com/playlist/37i9dQZF1DWYiatDTQvsFP)
 
-> it's scary hours...⛈️  cover: Busta Rhymes, Mariah Carey
+> it's scary hours...⛈️  cover: Outkast
 
 276 songs - 18 hr 39 min
 

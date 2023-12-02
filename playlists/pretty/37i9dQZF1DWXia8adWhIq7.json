@@ -1,12 +1,12 @@
 {
   "description": "Ou\u00e7a as novidades e sucessos do Pop Crist\u00e3o. Foto: Luma Elpidio",
-  "num_followers": 83206,
+  "num_followers": 83295,
   "original_name": "Pop Gospel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MmQ3MjkyMTI5NTIzMmIzNjg4MjljNGU5YzRjNDhmODliNGI4OGI5",
+  "snapshot_id": "MCxjMGRiYTFiZGEwYTg4MTI1ZTRkNDIzYTNhZThiODVhYjI1YmY5NDgw",
   "tracks": [
     {
       "added_at": "2023-11-24 14:25:40",
@@ -719,6 +719,26 @@
     {
       "added_at": "2023-11-24 14:25:40",
       "album": {
+        "name": "Deus \u00c9 Bom (Ao Vivo Em Lisboa)",
+        "url": "https://open.spotify.com/album/5DRGybcYnJ5pGlj3hGoDew"
+      },
+      "artists": [
+        {
+          "name": "Paulo Cesar Baruk",
+          "url": "https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD"
+        },
+        {
+          "name": "Alexandre Magnani",
+          "url": "https://open.spotify.com/artist/6mTGdkHV5pKO7VHGMuiKGu"
+        }
+      ],
+      "duration_ms": 238826,
+      "name": "Deus \u00c9 Bom - Ao Vivo Em Lisboa",
+      "url": "https://open.spotify.com/track/1F4oaBBPlKXYHtzsjByp6s"
+    },
+    {
+      "added_at": "2023-11-24 14:25:40",
+      "album": {
         "name": "Deus no Controle - Remix",
         "url": "https://open.spotify.com/album/5vE3dKmYcbc3yQ7lX4Grdn"
       },
@@ -739,26 +759,6 @@
       "duration_ms": 215856,
       "name": "Deus no Controle - Remix",
       "url": "https://open.spotify.com/track/5n2tjV0imDqsZhgBhCWdd2"
-    },
-    {
-      "added_at": "2023-11-24 14:25:40",
-      "album": {
-        "name": "Deus \u00c9 Bom (Ao Vivo Em Lisboa)",
-        "url": "https://open.spotify.com/album/5DRGybcYnJ5pGlj3hGoDew"
-      },
-      "artists": [
-        {
-          "name": "Paulo Cesar Baruk",
-          "url": "https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD"
-        },
-        {
-          "name": "Alexandre Magnani",
-          "url": "https://open.spotify.com/artist/6mTGdkHV5pKO7VHGMuiKGu"
-        }
-      ],
-      "duration_ms": 238826,
-      "name": "Deus \u00c9 Bom - Ao Vivo Em Lisboa",
-      "url": "https://open.spotify.com/track/1F4oaBBPlKXYHtzsjByp6s"
     },
     {
       "added_at": "2023-11-24 14:25:40",
@@ -795,22 +795,6 @@
     {
       "added_at": "2023-11-24 14:25:40",
       "album": {
-        "name": "\u00c9 de Cora\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/5i6tJzC8I16Rwc6YTsmFK4"
-      },
-      "artists": [
-        {
-          "name": "Welcson",
-          "url": "https://open.spotify.com/artist/24KBFgKuNtKpvYdxm5CAqN"
-        }
-      ],
-      "duration_ms": 196306,
-      "name": "\u00c9 de Cora\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/0GcE9fifKZiHDX0EroenSk"
-    },
-    {
-      "added_at": "2023-11-24 14:25:40",
-      "album": {
         "name": "Reconstituir",
         "url": "https://open.spotify.com/album/5FVMdmhaJfHB0o2ZDzb1SJ"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 262019,
       "name": "Reconstituir",
       "url": "https://open.spotify.com/track/3IZL1m4OR2XuljkOJrJPji"
+    },
+    {
+      "added_at": "2023-11-24 14:25:40",
+      "album": {
+        "name": "\u00c9 de Cora\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/5i6tJzC8I16Rwc6YTsmFK4"
+      },
+      "artists": [
+        {
+          "name": "Welcson",
+          "url": "https://open.spotify.com/artist/24KBFgKuNtKpvYdxm5CAqN"
+        }
+      ],
+      "duration_ms": 196306,
+      "name": "\u00c9 de Cora\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/0GcE9fifKZiHDX0EroenSk"
     },
     {
       "added_at": "2023-11-24 14:25:40",
@@ -855,22 +855,22 @@
     {
       "added_at": "2023-11-24 14:25:40",
       "album": {
-        "name": "Apenas Can\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/7JfcTaZohCXrarbXMox1Cg"
+        "name": "Epifania",
+        "url": "https://open.spotify.com/album/55tRKqircj6qHHB3tzMrGr"
       },
       "artists": [
         {
-          "name": "Patricia Romania",
-          "url": "https://open.spotify.com/artist/0ffURL6H2AXKNqc2yvTN5K"
+          "name": "Clovis",
+          "url": "https://open.spotify.com/artist/703PFYg5UbYSaUKry9NWhF"
         },
         {
-          "name": "Delino Mar\u00e7al",
-          "url": "https://open.spotify.com/artist/0MGbmpBm2Gzvy6ENd9D1qv"
+          "name": "Daniela Ara\u00fajo",
+          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
         }
       ],
-      "duration_ms": 266020,
-      "name": "Apenas Can\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/43ZMXD6nz8fDresDGJWcFV"
+      "duration_ms": 207667,
+      "name": "A Chave",
+      "url": "https://open.spotify.com/track/6kk7NYRUwebj54yAHZWU7j"
     },
     {
       "added_at": "2023-11-24 14:25:40",
@@ -899,22 +899,22 @@
     {
       "added_at": "2023-11-24 14:25:40",
       "album": {
-        "name": "Epifania",
-        "url": "https://open.spotify.com/album/55tRKqircj6qHHB3tzMrGr"
+        "name": "Apenas Can\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/7JfcTaZohCXrarbXMox1Cg"
       },
       "artists": [
         {
-          "name": "Clovis",
-          "url": "https://open.spotify.com/artist/703PFYg5UbYSaUKry9NWhF"
+          "name": "Patricia Romania",
+          "url": "https://open.spotify.com/artist/0ffURL6H2AXKNqc2yvTN5K"
         },
         {
-          "name": "Daniela Ara\u00fajo",
-          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
+          "name": "Delino Mar\u00e7al",
+          "url": "https://open.spotify.com/artist/0MGbmpBm2Gzvy6ENd9D1qv"
         }
       ],
-      "duration_ms": 207667,
-      "name": "A Chave",
-      "url": "https://open.spotify.com/track/6kk7NYRUwebj54yAHZWU7j"
+      "duration_ms": 266020,
+      "name": "Apenas Can\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/43ZMXD6nz8fDresDGJWcFV"
     },
     {
       "added_at": "2023-11-24 14:25:40",
@@ -1243,6 +1243,22 @@
     {
       "added_at": "2023-11-24 14:25:40",
       "album": {
+        "name": "Rota",
+        "url": "https://open.spotify.com/album/4YeDhdeWBJCA9CyQytxhoH"
+      },
+      "artists": [
+        {
+          "name": "Isabella Lopes",
+          "url": "https://open.spotify.com/artist/4Anc0OS4S3ZOLk295QoHds"
+        }
+      ],
+      "duration_ms": 196032,
+      "name": "Rota",
+      "url": "https://open.spotify.com/track/2ce659MS4j8MCjpebtgcL4"
+    },
+    {
+      "added_at": "2023-11-24 14:25:40",
+      "album": {
         "name": "Me Alcan\u00e7ou (Remix)",
         "url": "https://open.spotify.com/album/7rCwRGabV1EuDoZC1eDIfa"
       },
@@ -1259,22 +1275,6 @@
       "duration_ms": 331653,
       "name": "Me Alcan\u00e7ou (Remix)",
       "url": "https://open.spotify.com/track/1nB2rtGVCTZl1XazO4eTvV"
-    },
-    {
-      "added_at": "2023-11-24 14:25:40",
-      "album": {
-        "name": "Rota",
-        "url": "https://open.spotify.com/album/4YeDhdeWBJCA9CyQytxhoH"
-      },
-      "artists": [
-        {
-          "name": "Isabella Lopes",
-          "url": "https://open.spotify.com/artist/4Anc0OS4S3ZOLk295QoHds"
-        }
-      ],
-      "duration_ms": 196032,
-      "name": "Rota",
-      "url": "https://open.spotify.com/track/2ce659MS4j8MCjpebtgcL4"
     },
     {
       "added_at": "2023-11-24 14:25:40",
@@ -1399,6 +1399,42 @@
     {
       "added_at": "2023-11-24 14:25:40",
       "album": {
+        "name": "Casulo",
+        "url": "https://open.spotify.com/album/4qMEh38ilE4hFKebd2Akva"
+      },
+      "artists": [
+        {
+          "name": "Isabella Lopes",
+          "url": "https://open.spotify.com/artist/4Anc0OS4S3ZOLk295QoHds"
+        }
+      ],
+      "duration_ms": 219903,
+      "name": "Casulo",
+      "url": "https://open.spotify.com/track/74YwOpRL2QlSo4Z1c2XpZs"
+    },
+    {
+      "added_at": "2023-11-24 14:25:40",
+      "album": {
+        "name": "Hoje Eu Vivo",
+        "url": "https://open.spotify.com/album/71zFfgb78uhDc28Ym9v35b"
+      },
+      "artists": [
+        {
+          "name": "Yasmin Verissimo",
+          "url": "https://open.spotify.com/artist/1O6na9PsfEQLFmZHg8MEyE"
+        },
+        {
+          "name": "Babi Garcia",
+          "url": "https://open.spotify.com/artist/01sgeuHsummWMm330PtyM5"
+        }
+      ],
+      "duration_ms": 143417,
+      "name": "Hoje Eu Vivo",
+      "url": "https://open.spotify.com/track/6Iv1HNunu1jNHvwjoSTBhz"
+    },
+    {
+      "added_at": "2023-11-24 14:25:40",
+      "album": {
         "name": "Teu Calor",
         "url": "https://open.spotify.com/album/3vPE8PhgjRTYSJATjYDRNm"
       },
@@ -1431,22 +1467,6 @@
       "duration_ms": 187565,
       "name": "Me Chamar de Filho",
       "url": "https://open.spotify.com/track/6wJEeDU8gqDrX4yw2ggmo0"
-    },
-    {
-      "added_at": "2023-11-24 14:25:40",
-      "album": {
-        "name": "Casulo",
-        "url": "https://open.spotify.com/album/4qMEh38ilE4hFKebd2Akva"
-      },
-      "artists": [
-        {
-          "name": "Isabella Lopes",
-          "url": "https://open.spotify.com/artist/4Anc0OS4S3ZOLk295QoHds"
-        }
-      ],
-      "duration_ms": 219903,
-      "name": "Casulo",
-      "url": "https://open.spotify.com/track/74YwOpRL2QlSo4Z1c2XpZs"
     },
     {
       "added_at": "2023-11-24 14:25:40",
@@ -1499,26 +1519,6 @@
       "duration_ms": 193793,
       "name": "Luz do Mundo",
       "url": "https://open.spotify.com/track/6CDYoW7uZw3st6Fr5uSqSR"
-    },
-    {
-      "added_at": "2023-11-24 14:25:40",
-      "album": {
-        "name": "Hoje Eu Vivo",
-        "url": "https://open.spotify.com/album/71zFfgb78uhDc28Ym9v35b"
-      },
-      "artists": [
-        {
-          "name": "Yasmin Verissimo",
-          "url": "https://open.spotify.com/artist/1O6na9PsfEQLFmZHg8MEyE"
-        },
-        {
-          "name": "Babi Garcia",
-          "url": "https://open.spotify.com/artist/01sgeuHsummWMm330PtyM5"
-        }
-      ],
-      "duration_ms": 143417,
-      "name": "Hoje Eu Vivo",
-      "url": "https://open.spotify.com/track/6Iv1HNunu1jNHvwjoSTBhz"
     },
     {
       "added_at": "2023-11-24 14:25:40",

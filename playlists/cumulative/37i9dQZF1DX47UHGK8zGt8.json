@@ -45,6 +45,24 @@
     },
     {
       "album": {
+        "name": "A BELEZA \u00c9 VOC\u00ca MENINA",
+        "url": "https://open.spotify.com/album/0VIVSFkDikh8A0WBM0cN13"
+      },
+      "artists": [
+        {
+          "name": "Priscila Tossan",
+          "url": "https://open.spotify.com/artist/4EZLWNKsB2l3Lm6vqJDFoA"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207141,
+      "name": "A BELEZA \u00c9 VOC\u00ca MENINA",
+      "url": "https://open.spotify.com/track/7rNhzJJQaO1CQwDYsejFGP"
+    },
+    {
+      "album": {
         "name": "A Coisa Mais Linda Que Existe",
         "url": "https://open.spotify.com/album/2gi7OZoy2d0VHMQBeV8OJV"
       },
@@ -92,7 +110,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 155000,
       "name": "Absorvendo Tudo",
       "url": "https://open.spotify.com/track/5Ppn6TF1mFx5hEiRpjxEfY"
@@ -1045,6 +1063,28 @@
     },
     {
       "album": {
+        "name": "Cortejo",
+        "url": "https://open.spotify.com/album/61yXu0dB7zgnJE613AJQCF"
+      },
+      "artists": [
+        {
+          "name": "Filipe Toca",
+          "url": "https://open.spotify.com/artist/0jODqzGbGbc5yl0nfnGhVZ"
+        },
+        {
+          "name": "Clara Valverde",
+          "url": "https://open.spotify.com/artist/0Oyxj6T9BLAkfJmxEMbuFn"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169250,
+      "name": "Cortejo",
+      "url": "https://open.spotify.com/track/4DDcCzpOGXzS3MKV4piwdu"
+    },
+    {
+      "album": {
         "name": "Cruel",
         "url": "https://open.spotify.com/album/4cdC6A0Dhofn5M0Qm1tr6H"
       },
@@ -1212,7 +1252,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 189250,
       "name": "de volta pra casa",
       "url": "https://open.spotify.com/track/7H8fF2N1CXHUSiH4BHRmRJ"
@@ -1256,6 +1296,28 @@
       "duration_ms": 176025,
       "name": "Deixa (feat. Ana Gabriela)",
       "url": "https://open.spotify.com/track/3fLqmaO4vvZpFZSZy52VMp"
+    },
+    {
+      "album": {
+        "name": "Deixa Acender",
+        "url": "https://open.spotify.com/album/2Zzg1exvNmLqNCgZKHtAW8"
+      },
+      "artists": [
+        {
+          "name": "Barro",
+          "url": "https://open.spotify.com/artist/49Ymz7hkosffibefJioODe"
+        },
+        {
+          "name": "Rachel Reis",
+          "url": "https://open.spotify.com/artist/12i4XNuGj3mOnIsmeyw1HR"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155600,
+      "name": "Deixa Acender",
+      "url": "https://open.spotify.com/track/3D1d9aNhYHsgKSOHEVWsHn"
     },
     {
       "album": {
@@ -1904,7 +1966,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 156746,
       "name": "Feliz e Ponto",
       "url": "https://open.spotify.com/track/5I7NiZhyh9mvtdv33eBg94"
@@ -2524,7 +2586,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 238760,
       "name": "Mensagem de Amor - Ao Vivo",
       "url": "https://open.spotify.com/track/7oslptGlQaO6QQDutI7t7h"
@@ -3320,7 +3382,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-28",
+      "date_removed": null,
       "duration_ms": 245538,
       "name": "relic\u00e1rio",
       "url": "https://open.spotify.com/track/1fZgxJgmmOl8zCyHgcKAWE"
@@ -3408,6 +3470,24 @@
       "duration_ms": 178426,
       "name": "Se Todos Fossem Iguais a Voc\u00ea",
       "url": "https://open.spotify.com/track/5KCyS9wZaKo5T6AnKMQ1uG"
+    },
+    {
+      "album": {
+        "name": "Segredos da Vida",
+        "url": "https://open.spotify.com/album/4pProUWceVTYKHJEfvKs8u"
+      },
+      "artists": [
+        {
+          "name": "Zeeba",
+          "url": "https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142136,
+      "name": "Segredos da Vida",
+      "url": "https://open.spotify.com/track/3Z3H3L0BMPjnq8Ktsws8tm"
     },
     {
       "album": {
@@ -4124,7 +4204,7 @@
       ],
       "date_added": "2023-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 178023,
       "name": "Vida + leve",
       "url": "https://open.spotify.com/track/4dK3vpH7f9q8PHLfSp1qhb"

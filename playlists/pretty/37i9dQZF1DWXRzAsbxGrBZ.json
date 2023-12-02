@@ -1,12 +1,12 @@
 {
   "description": "Deep House speaks to the soul. Get revived with some of the best Deep House South Africa has to offer.",
-  "num_followers": 35817,
+  "num_followers": 36029,
   "original_name": "Deep House Session",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhM2U1M2M0ZTk3NWMyNTVmM2Q0MTk4NmYxZTUxYjYzYzIzZDI4MWRj",
+  "snapshot_id": "MCwzYjUyYTFlMzFmNGY1M2JjMTYwOGYwNWZjM2Y3MmEzMWMzY2ZlOTMx",
   "tracks": [
     {
       "added_at": "2023-11-23 23:00:00",
@@ -255,22 +255,6 @@
     {
       "added_at": "2023-11-23 23:00:00",
       "album": {
-        "name": "Far Away",
-        "url": "https://open.spotify.com/album/62T98SBUNdbswD0ESzcw4d"
-      },
-      "artists": [
-        {
-          "name": "DJ Odyccy",
-          "url": "https://open.spotify.com/artist/28iJq14GBXZYFOMpl99uaf"
-        }
-      ],
-      "duration_ms": 419465,
-      "name": "Far Away",
-      "url": "https://open.spotify.com/track/3tccOazIpUXPTWh40u5ryq"
-    },
-    {
-      "added_at": "2023-11-23 23:00:00",
-      "album": {
         "name": "Hold On",
         "url": "https://open.spotify.com/album/47cX0hSa1wxE5f1GPEMTcP"
       },
@@ -287,6 +271,22 @@
       "duration_ms": 417600,
       "name": "Hold On",
       "url": "https://open.spotify.com/track/1Zse0zhlLgLKRKqfqnmZbl"
+    },
+    {
+      "added_at": "2023-11-23 23:00:00",
+      "album": {
+        "name": "Far Away",
+        "url": "https://open.spotify.com/album/62T98SBUNdbswD0ESzcw4d"
+      },
+      "artists": [
+        {
+          "name": "DJ Odyccy",
+          "url": "https://open.spotify.com/artist/28iJq14GBXZYFOMpl99uaf"
+        }
+      ],
+      "duration_ms": 419465,
+      "name": "Far Away",
+      "url": "https://open.spotify.com/track/3tccOazIpUXPTWh40u5ryq"
     },
     {
       "added_at": "2023-11-23 23:00:00",
@@ -611,6 +611,26 @@
     {
       "added_at": "2023-11-23 23:00:00",
       "album": {
+        "name": "NEO",
+        "url": "https://open.spotify.com/album/5rW8PA2FAgoeOHOsO07986"
+      },
+      "artists": [
+        {
+          "name": "Jazzuelle",
+          "url": "https://open.spotify.com/artist/2jDw8yQFISqLWdK63ITATu"
+        },
+        {
+          "name": "Buddynice",
+          "url": "https://open.spotify.com/artist/2xjvb56AjGc8c8WwkPfJgp"
+        }
+      ],
+      "duration_ms": 436551,
+      "name": "Vertigo",
+      "url": "https://open.spotify.com/track/2ilBcYA2BTCaEz4a26h683"
+    },
+    {
+      "added_at": "2023-11-23 23:00:00",
+      "album": {
         "name": "With You",
         "url": "https://open.spotify.com/album/3uMa6fwSZyAlRZ6y9mffiE"
       },
@@ -635,22 +655,18 @@
     {
       "added_at": "2023-11-23 23:00:00",
       "album": {
-        "name": "NEO",
-        "url": "https://open.spotify.com/album/5rW8PA2FAgoeOHOsO07986"
+        "name": "Dafrotone",
+        "url": "https://open.spotify.com/album/5zNeFm1L1C6UALDQqnRg9N"
       },
       "artists": [
         {
-          "name": "Jazzuelle",
-          "url": "https://open.spotify.com/artist/2jDw8yQFISqLWdK63ITATu"
-        },
-        {
-          "name": "Buddynice",
-          "url": "https://open.spotify.com/artist/2xjvb56AjGc8c8WwkPfJgp"
+          "name": "Dafro",
+          "url": "https://open.spotify.com/artist/6gNmmm0Dyt4geB8W2Z4VXL"
         }
       ],
-      "duration_ms": 436551,
-      "name": "Vertigo",
-      "url": "https://open.spotify.com/track/2ilBcYA2BTCaEz4a26h683"
+      "duration_ms": 453453,
+      "name": "Four Lessons",
+      "url": "https://open.spotify.com/track/3RGbg9ENcRIYFGXpzLr8Xe"
     },
     {
       "added_at": "2023-11-23 23:00:00",
@@ -667,22 +683,6 @@
       "duration_ms": 375431,
       "name": "Before Everything",
       "url": "https://open.spotify.com/track/1RziJp45zr6MTOS9lSSJYg"
-    },
-    {
-      "added_at": "2023-11-23 23:00:00",
-      "album": {
-        "name": "Dafrotone",
-        "url": "https://open.spotify.com/album/5zNeFm1L1C6UALDQqnRg9N"
-      },
-      "artists": [
-        {
-          "name": "Dafro",
-          "url": "https://open.spotify.com/artist/6gNmmm0Dyt4geB8W2Z4VXL"
-        }
-      ],
-      "duration_ms": 453453,
-      "name": "Four Lessons",
-      "url": "https://open.spotify.com/track/3RGbg9ENcRIYFGXpzLr8Xe"
     },
     {
       "added_at": "2023-11-23 23:00:00",
@@ -719,26 +719,18 @@
     {
       "added_at": "2023-11-23 23:00:00",
       "album": {
-        "name": "Dark Snow",
-        "url": "https://open.spotify.com/album/5AfN5Q8rmWE5XZ8fUxJUlV"
+        "name": "The Savior",
+        "url": "https://open.spotify.com/album/5B6J3s8r9Qi3NyNGRfi3zc"
       },
       "artists": [
         {
-          "name": "The Rudeman",
-          "url": "https://open.spotify.com/artist/4Dqd0M9FVObaErF14Tgj2z"
-        },
-        {
-          "name": "Keegs Bantom",
-          "url": "https://open.spotify.com/artist/1XgMCVnnBJvz7djvk86Ry6"
-        },
-        {
-          "name": "Bones",
-          "url": "https://open.spotify.com/artist/40Vr9VUq5tVrKOOsd68ojn"
+          "name": "Zhane",
+          "url": "https://open.spotify.com/artist/0fPkUCch0uK79Ny9XZoO4p"
         }
       ],
-      "duration_ms": 367124,
-      "name": "Dark Snow - Bones Remix",
-      "url": "https://open.spotify.com/track/7ss7beYi753Sxs0fvvtC7T"
+      "duration_ms": 411127,
+      "name": "The Savior - Original Mix",
+      "url": "https://open.spotify.com/track/7BiStjhoLseP9zJC6mjkI5"
     },
     {
       "added_at": "2023-11-23 23:00:00",
@@ -759,18 +751,26 @@
     {
       "added_at": "2023-11-23 23:00:00",
       "album": {
-        "name": "The Savior",
-        "url": "https://open.spotify.com/album/5B6J3s8r9Qi3NyNGRfi3zc"
+        "name": "Dark Snow",
+        "url": "https://open.spotify.com/album/5AfN5Q8rmWE5XZ8fUxJUlV"
       },
       "artists": [
         {
-          "name": "Zhane",
-          "url": "https://open.spotify.com/artist/0fPkUCch0uK79Ny9XZoO4p"
+          "name": "The Rudeman",
+          "url": "https://open.spotify.com/artist/4Dqd0M9FVObaErF14Tgj2z"
+        },
+        {
+          "name": "Keegs Bantom",
+          "url": "https://open.spotify.com/artist/1XgMCVnnBJvz7djvk86Ry6"
+        },
+        {
+          "name": "Bones",
+          "url": "https://open.spotify.com/artist/40Vr9VUq5tVrKOOsd68ojn"
         }
       ],
-      "duration_ms": 411127,
-      "name": "The Savior - Original Mix",
-      "url": "https://open.spotify.com/track/7BiStjhoLseP9zJC6mjkI5"
+      "duration_ms": 367124,
+      "name": "Dark Snow - Bones Remix",
+      "url": "https://open.spotify.com/track/7ss7beYi753Sxs0fvvtC7T"
     },
     {
       "added_at": "2023-11-23 23:00:00",

@@ -2750,7 +2750,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 251266,
       "name": "Entra\u00eenement",
       "url": "https://open.spotify.com/track/5JwqiWLLvi0HGABtvw57eX"
@@ -5616,10 +5616,36 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-01",
+      "date_removed": null,
       "duration_ms": 202306,
       "name": "MEZZANOTTE (feat. Rondodasosa)",
       "url": "https://open.spotify.com/track/1TVrjQh9mfod3CMgG8eLqy"
+    },
+    {
+      "album": {
+        "name": "Mi madre",
+        "url": "https://open.spotify.com/album/0WFyhZC7hwGuL402U8aovY"
+      },
+      "artists": [
+        {
+          "name": "Morad",
+          "url": "https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9"
+        },
+        {
+          "name": "Koba LaD",
+          "url": "https://open.spotify.com/artist/1q7T9rFQ2a2ukA1PU51fo3"
+        },
+        {
+          "name": "SativaMusic",
+          "url": "https://open.spotify.com/artist/6p46LxMXeRu3FRYN4tK5Lv"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199939,
+      "name": "Mi madre",
+      "url": "https://open.spotify.com/track/1OadAxUa6KVPyKAwEv0Duy"
     },
     {
       "album": {
@@ -5734,6 +5760,24 @@
       "duration_ms": 261182,
       "name": "Missile - Acte II",
       "url": "https://open.spotify.com/track/1Piu78nUTeJScTY2RKvypU"
+    },
+    {
+      "album": {
+        "name": "Mmhmm",
+        "url": "https://open.spotify.com/album/1D3Uf2OkWYQytEbK3NpdMn"
+      },
+      "artists": [
+        {
+          "name": "BigXthaPlug",
+          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119015,
+      "name": "Mmhmm",
+      "url": "https://open.spotify.com/track/1nQaTUDJ7Rc4yOvZmg9Ozr"
     },
     {
       "album": {
@@ -6360,7 +6404,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 118356,
       "name": "NO FINSTA",
       "url": "https://open.spotify.com/track/59GEWDzQgCXM55aGZDWSrQ"
@@ -8658,7 +8702,7 @@
       ],
       "date_added": "2023-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 200051,
       "name": "Solo Mi Madre",
       "url": "https://open.spotify.com/track/22LPuqKITi7z503Yj6XbX2"

@@ -4,7 +4,7 @@
 
 > Chill afro music to study with.
 
-259 songs - 13 hr 13 min
+260 songs - 13 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [Afro Jigga](https://open.spotify.com/track/4z48XG61raE7WwbtJdIvqe) | [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Providence](https://open.spotify.com/album/6y0Jfh7dZgzKcxM2hP7PgF) | 3:06 | 2022-06-09 | 2022-07-27 |
 | [AG Baby](https://open.spotify.com/track/1iHqhI5BZ5LoV4DiG0c9Iv) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s), [Nailah Blackman](https://open.spotify.com/artist/1K23l3n63BTCtIMm0TyS4c) | [Afro Pop, Vol\. 1](https://open.spotify.com/album/6GHHoK6LC0Y36nYsouK8qR) | 2:38 | 2022-06-09 | 2022-10-19 |
 | [Again](https://open.spotify.com/track/6qk3jI8bKCgURI3h0d8zBZ) | [Wande Coal](https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla) | [Realms](https://open.spotify.com/album/0ZdiHNx2h4QTKwfF7fEM8j) | 2:36 | 2022-06-09 |  |
-| [Airplane Mode](https://open.spotify.com/track/3wrlAsyyrqVoC9fuDWyziG) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [APOLLO](https://open.spotify.com/album/6HdrMYu33mRMYPEDB8MbPq) | 2:57 | 2022-06-09 |  |
+| [Airplane Mode](https://open.spotify.com/track/3wrlAsyyrqVoC9fuDWyziG) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [APOLLO](https://open.spotify.com/album/6HdrMYu33mRMYPEDB8MbPq) | 2:57 | 2022-06-09 | 2023-12-02 |
 | [Alarm](https://open.spotify.com/track/273uUYBv3zZoqSR8VOk6vV) | [Mayorkun](https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd) | [Alarm](https://open.spotify.com/album/7bQn6pdb6524vpGGxftUA9) | 2:22 | 2022-12-02 | 2023-03-04 |
 | [Alert Your Boy](https://open.spotify.com/track/1i14NQ2jmAKxEIl2rFjlEq) | [PerryMetals](https://open.spotify.com/artist/36a7QNBn0Hgd0fpsxw4hCE) | [Alert Your Boy](https://open.spotify.com/album/0EJ1cKIOze9Oc2aYtaVeZ1) | 2:24 | 2022-06-09 | 2022-07-27 |
 | [AMEN](https://open.spotify.com/track/3GGqmMO9i3fS3kONWUsSxE) | [Moelogo](https://open.spotify.com/artist/6mctsJBrfcWvWH7S8h716D), [AYLØ](https://open.spotify.com/artist/3KIiecqeFZHnbLK2MeagZd) | [AMEN](https://open.spotify.com/album/1HNJe2oOOTJFm04zLVaOB5) | 2:08 | 2023-11-03 |  |
@@ -100,6 +100,7 @@
 | [Gateway Drug](https://open.spotify.com/track/7ajMHPi55sVjqunyK7Kj32) | [Rukmani](https://open.spotify.com/artist/4lz2CgyavcVw3XfnvID7FV) | [Gateway Drug](https://open.spotify.com/album/2Icsn7gs28Yplr9cNLy1N1) | 2:38 | 2023-04-20 | 2023-05-12 |
 | [Gone Girl](https://open.spotify.com/track/5InfSqyrnWkRMvrynG52I6) | [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h), [Sarz](https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ) | [Sweetness](https://open.spotify.com/album/4LIZDD51I8rr6OpdEX7S9a) | 4:13 | 2022-06-09 | 2022-07-26 |
 | [Good Girl](https://open.spotify.com/track/0ix0yhrZdHtrG7AwHEaXFi) | [Runda](https://open.spotify.com/artist/1ECPisHdyXxJzBSPaHCk0x) | [Good Girl](https://open.spotify.com/album/5KWvLxonPYNtgM6sfxxO26) | 2:57 | 2022-06-09 | 2022-07-21 |
+| [GRA GRA](https://open.spotify.com/track/78oMXP9n43ojXsFNOP2M9p) | [M\. Rumbi](https://open.spotify.com/artist/6ToQowXRJ5GkBPHDECCEoP), [Dolapo Martins](https://open.spotify.com/artist/4I7iWiZjm7vAJvePf3iRQT), [BasicCity](https://open.spotify.com/artist/6sBa5SlBIv8SOvupaE3gBY), [Saxian](https://open.spotify.com/artist/5zgbIZmH14mpue4x5Wu86J) | [GRA GRA](https://open.spotify.com/album/76ZizCnJx5OGlsUvcUUBKp) | 3:56 | 2023-12-01 |  |
 | [Handle Me \(feat\. Adekunle Gold\)](https://open.spotify.com/track/4dLfcjzMHZAVgnmuglRvhY) | [Lous and The Yakuza](https://open.spotify.com/artist/2HPiMwJktBXqakN0hnON2R), [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [Handle Me \(feat\. Adekunle Gold\)](https://open.spotify.com/album/3Cd3jHPeIl4euaDfPIccK4) | 2:47 | 2022-09-12 | 2023-02-17 |
 | [Healing](https://open.spotify.com/track/1RMMMuAV8WdmbQVIf5Eivv) | [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo) | [Healing](https://open.spotify.com/album/3M5dZ8GosZndWwOdrRuhlG) | 2:59 | 2023-02-24 | 2023-03-04 |
 | [Hide & Seek](https://open.spotify.com/track/7cFPWLFiE60sdgzPsyydUJ) | [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [Hide & Seek](https://open.spotify.com/album/1PTZnwfkh9YQUJLSdBOvFe) | 3:28 | 2022-10-13 |  |

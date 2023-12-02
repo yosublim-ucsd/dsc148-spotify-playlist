@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14EWeH2Pwf3.md) - [plain]
 
 > La playlist urban più grande d'Italia 🔥 Cover: Ghali\.  <a href="spotify:playlist:37i9dQZF1DWYQKKZPHGppf">Scopri il Best Of del 2023 qui!</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 908,414 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 908,881 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Parole Vuote \(La Solitudine\)](https://open.spotify.com/track/4QBfVk60RIBQg1uyox78Kh) | [Tedua](https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7), [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n), [SHUNE](https://open.spotify.com/artist/5YV5crRpcdknHgEzystZHr) | [La Divina Commedia](https://open.spotify.com/album/6V2ux3cV4NA4PWx2g1gm0u) | 4:11 |
 | 2 | [15 Piani](https://open.spotify.com/track/05wb6MEyJeG2z1MVCIXxC8) | [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz), [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7) | [X2VR](https://open.spotify.com/album/3ilgQgVMtxAxN2Jmb1OM29) | 3:26 |
-| 3 | [Paura E Delirio A Milano \(feat\. Tony Effe, Dylan, Side Baby\)](https://open.spotify.com/track/44hjRBoW648rQndFHKlgXQ) | [Ghali](https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L), [Tony Effe](https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF), [Dylan](https://open.spotify.com/artist/7h1amg0X7Q5d0D5KfuyKTg), [Side Baby](https://open.spotify.com/artist/6PXiPeUVFrlaC1n8511ijT) | [PIZZA KEBAB Vol\. 1](https://open.spotify.com/album/36pfG4aLiawluO8PgGZkeh) | 3:04 |
+| 3 | [Paura E Delirio A Milano \(feat\. Tony Effe, Dylan, Side Baby\)](https://open.spotify.com/track/44hjRBoW648rQndFHKlgXQ) | [Ghali](https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L), [Tony Effe](https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF), [Pyrex](https://open.spotify.com/artist/7h1amg0X7Q5d0D5KfuyKTg), [Side Baby](https://open.spotify.com/artist/6PXiPeUVFrlaC1n8511ijT) | [PIZZA KEBAB Vol\. 1](https://open.spotify.com/album/36pfG4aLiawluO8PgGZkeh) | 3:04 |
 | 4 | [Cadillac \(feat\. Artie 5ive\)](https://open.spotify.com/track/7IpsNYgP87QkLCSnctxSif) | [Boro](https://open.spotify.com/artist/1hHYi4Vy83BGo6TqKd98hu), [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF), [Andry The Hitmaker](https://open.spotify.com/artist/6hb3ftxbKAFsOiNCdFbyzJ) | [Cadillac \(feat\. Artie 5ive\)](https://open.spotify.com/album/3mG2cIIIftDcBHTtfQrMMz) | 2:35 |
 | 5 | [Straniero \(feat\. Tedua\)](https://open.spotify.com/track/4nKyIs9RnHzRJSyM5x7BEU) | [Massimo Pericolo](https://open.spotify.com/artist/1El4YQA8oCXX7ynFSxRTFq), [Tedua](https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7) | [Le cose cambiano](https://open.spotify.com/album/50SWJ7Aq7XuSKl8SJYFnn9) | 2:56 |
 | 6 | [EVERYDAY \(feat\. Shiva, ANNA, Geolier\)](https://open.spotify.com/track/20bTkdvyWZjO4ORHmzXQR4) | [Takagi & Ketra](https://open.spotify.com/artist/76UCIJTB0jcJvBaL0CdIqx), [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS), [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u), [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s) | [EVERYDAY \(feat\. Shiva, ANNA, Geolier\)](https://open.spotify.com/album/7qm8bQi1fUSQoo1jUjjLIs) | 3:10 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14EWeH2Pwf3.md) - [plain]
 | 49 | [Vegeta \(feat\. Néza\)](https://open.spotify.com/track/73TYUZ7vZ6hFP0p5NXin0g) | [Zefe](https://open.spotify.com/artist/3yNjXWi2WswJfuBZSouJRH), [Néza](https://open.spotify.com/artist/6cE2WyjXwngsJynb3uk1WO) | [Vegeta \(feat\. Néza\)](https://open.spotify.com/album/0kqfgJpLsbN2pysxJoNIfg) | 2:28 |
 | 50 | [RESPIRA \(feat\. Marracash\)](https://open.spotify.com/track/2zuRZkoWxoNtKaA4Q44f44) | [Salmo](https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW), [Noyz Narcos](https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY), [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7) | [CVLT](https://open.spotify.com/album/6HXtcSvv1AXivyZrZjEdG1) | 3:43 |
 
-Snapshot ID: `MCw5MTg5MzU3NmU0M2I0ZTEyODJjOWQ2MGFhNDc5MjQ5NDNlMWZjOWRm`
+Snapshot ID: `MCxkMDhjY2E0ZGI4NjY5NjAxZmI2NDIxYjBhOGUxNTczNWY4MmUxZDBh`

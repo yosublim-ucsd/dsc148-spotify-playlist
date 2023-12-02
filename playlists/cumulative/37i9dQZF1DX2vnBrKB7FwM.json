@@ -409,6 +409,32 @@
     },
     {
       "album": {
+        "name": "Erguirse",
+        "url": "https://open.spotify.com/album/56xfnP2QlEOV4tEWc9LJtX"
+      },
+      "artists": [
+        {
+          "name": "Maco Maat",
+          "url": "https://open.spotify.com/artist/29W1vGuAmmxv2FhBDxmCg9"
+        },
+        {
+          "name": "Rodesens",
+          "url": "https://open.spotify.com/artist/1ggnt5q0Sm1yZj7l45ovd8"
+        },
+        {
+          "name": "Afterclass",
+          "url": "https://open.spotify.com/artist/66Q5qHfWVPJDj6m1nmIK0N"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122847,
+      "name": "Contando Gotas",
+      "url": "https://open.spotify.com/track/7Fa30eh4kPGdNGBBYEoD9U"
+    },
+    {
+      "album": {
         "name": "Serenata Sin Mariachis",
         "url": "https://open.spotify.com/album/35t877YggZ2nnsg5lhC5JD"
       },
@@ -2214,7 +2240,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 240529,
       "name": "Siempre Recuerdos",
       "url": "https://open.spotify.com/track/0bKZbVfPE5vNKCw40ej9Cc"

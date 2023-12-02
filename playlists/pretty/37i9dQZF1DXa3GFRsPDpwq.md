@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa3GFRsPDpwq.md) - [plain]
 
 > This is Rkive of RM\. Indigo\. 💜
 
-[Spotify](https://open.spotify.com/user/spotify) - 373,394 likes - 35 songs - 2 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 374,236 likes - 35 songs - 2 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,4 +44,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa3GFRsPDpwq.md) - [plain]
 | 34 | [Buckubucku \(Feat\. EE, RM Of BTS, Dino\-J\)](https://open.spotify.com/track/4e3DIkvwzyWu3ZpZFZJb5o) | [MFBTY](https://open.spotify.com/artist/0YplwoXhpH25C92IduQ6RK), [EE](https://open.spotify.com/artist/4CzDpmJ3sq9cUDMX0p1g3E), [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs), [Dino\-J](https://open.spotify.com/artist/7EZqgfXkH28R2lDju3Shk5) | [WondaLand](https://open.spotify.com/album/58CvWtN9NU9MS80uPB026O) | 4:14 |
 | 35 | [A Song Make to You Smile](https://open.spotify.com/track/5blZcMwtCrPa7bp7lMBiTt) | [Lee Seung Gi](https://open.spotify.com/artist/12AUp9oqeJDhNfO6IhQiNi), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX), [Hareem](https://open.spotify.com/artist/5WWxAYrskMnRaWLDUbuY20) | [The Project](https://open.spotify.com/album/5ccCV9iNxUARYLfWDzALWn) | 3:09 |
 
-Snapshot ID: `MCwyZDVkNDg1ODEzMTMzNGY0MGI2N2NjOTEzZDAyNGVmMTU1OWYzMGM0`
+Snapshot ID: `MCw1NTI0YjZmZDNhYTdmZWQ4NTRkMGU5MGRlMWQ1YzE4ODM2ODQ2MmQ4`

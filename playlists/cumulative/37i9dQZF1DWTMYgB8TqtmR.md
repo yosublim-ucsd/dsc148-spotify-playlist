@@ -4,7 +4,7 @@
 
 > It's Hits – största och bästa hitsen just nu!
 
-615 songs - 1 day 6 hr 59 min
+616 songs - 1 day 7 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -456,7 +456,7 @@
 | [Satellit](https://open.spotify.com/track/0hQSNorAGipIT7lF8ssyIz) | [Darin](https://open.spotify.com/artist/1rKFeRryEci6cxNkdvHzNr) | [Satellit](https://open.spotify.com/album/69LrfrvfBFYag9DoBuXtep) | 3:01 | 2023-08-03 | 2023-09-01 |
 | [Satellite](https://open.spotify.com/track/0rzaRSujxA0bKyjJl6vHYq) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 3:38 | 2023-05-18 | 2023-07-01 |
 | [Satisfaction](https://open.spotify.com/track/54DtVqFHH5KalNbgPE8Rok) | [Darin](https://open.spotify.com/artist/1rKFeRryEci6cxNkdvHzNr) | [Satisfaction](https://open.spotify.com/album/2ymwX023ejRk9oIW34aMk1) | 3:07 | 2022-11-03 | 2022-11-18 |
-| [Saudade](https://open.spotify.com/track/1KB9MeVcnX2rjNGRYvP4aU) | [Hov1](https://open.spotify.com/artist/68dW5BU6sdVNf099EylxEt), [Håkan Hellström](https://open.spotify.com/artist/3H7Ez7cwaYw4L3ELy4v3Lc) | [Saudade](https://open.spotify.com/album/5ryLFHTIipAHhnxUVjmytI) | 3:17 | 2023-09-08 |  |
+| [Saudade](https://open.spotify.com/track/1KB9MeVcnX2rjNGRYvP4aU) | [Hov1](https://open.spotify.com/artist/68dW5BU6sdVNf099EylxEt), [Håkan Hellström](https://open.spotify.com/artist/3H7Ez7cwaYw4L3ELy4v3Lc) | [Saudade](https://open.spotify.com/album/5ryLFHTIipAHhnxUVjmytI) | 3:17 | 2023-09-08 | 2023-12-02 |
 | [Say Say Say \(feat\. Paul McCartney & Michael Jackson\)](https://open.spotify.com/track/16vUeW77F6Xiz1irHBvTAM) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB), [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Say Say Say \(feat\. Paul McCartney & Michael Jackson\)](https://open.spotify.com/album/1oIy8CYApH9VUB73DqUvPT) | 2:55 | 2023-03-31 | 2023-05-26 |
 | [Say Yes To Heaven](https://open.spotify.com/track/6GGtHZgBycCgGBUhZo81xe) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Say Yes To Heaven](https://open.spotify.com/album/6jVg0POvGYH1Pt6lISl3ok) | 3:29 | 2023-05-24 | 2023-07-21 |
 | [Search & Rescue](https://open.spotify.com/track/7aRCf5cLOFN1U7kvtChY1G) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Search & Rescue](https://open.spotify.com/album/67WUCOjyl44d8fAFzHONjW) | 4:32 | 2023-04-06 | 2023-05-05 |
@@ -608,6 +608,7 @@
 | [Wish You The Best](https://open.spotify.com/track/3gdPwk2wyOXNRnTA1KXnEr) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Broken By Desire To Be Heavenly Sent](https://open.spotify.com/album/0ECSyPejfD7oL95dD3jgoi) | 3:30 | 2023-05-24 | 2023-06-09 |
 | [Wish You Were Here \(feat\. Khalid\)](https://open.spotify.com/track/7up4SX2l8FAnisrUXoGupd) | [Lukas Graham](https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Wish You Were Here \(feat\. Khalid\)](https://open.spotify.com/album/6xStUI10NrOYMx3sKoIfBq) | 2:55 | 2022-08-18 | 2022-11-09 |
 | [Woke Up in Love](https://open.spotify.com/track/21H0pUV2uPIPcFnFhgTBjo) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Woke Up in Love](https://open.spotify.com/album/06q3cqjSYhkePDu6RW6Uoy) | 3:36 | 2022-09-08 | 2022-10-28 |
+| [Won't Be Sorry](https://open.spotify.com/track/1FBk6oJAkyt7rTShMlXbdA) | [Cimberly Wanyonyi](https://open.spotify.com/artist/1WLtJtZ5QHmix0VBdxMMns) | [Won't Be Sorry](https://open.spotify.com/album/5c6e1YrHqJzAuw0sv3doFK) | 2:29 | 2023-12-01 |  |
 | [Words \(feat\. Zara Larsson\)](https://open.spotify.com/track/1bgKMxPQU7JIZEhNsM1vFs) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Words \(feat\. Zara Larsson\)](https://open.spotify.com/album/66W7mt0wKGLFALilLBLfU6) | 2:22 | 2022-04-21 | 2022-11-11 |
 | [World We Used To Know](https://open.spotify.com/track/1I8pMiv8c8mTP0fvt0pqQs) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Winona Oak](https://open.spotify.com/artist/3XC57xz74X3xUi1hv4mge1) | [World We Used To Know](https://open.spotify.com/album/6EqrqJTBQ6JRFJQKY19sCE) | 2:42 | 2021-12-16 | 2022-02-18 |
 | [Worst Thing](https://open.spotify.com/track/1hETByUz0ynel44jvTOkdt) | [NOTD](https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy), [kenzie](https://open.spotify.com/artist/5pWUVnrc1y0FpWZ6VCy0Hg) | [Worst Thing](https://open.spotify.com/album/3CVVkF4c5r0Cz9rVb02FoT) | 2:38 | 2022-05-13 | 2022-06-10 |

@@ -1,12 +1,12 @@
 {
   "description": "Gospel music from across East Africa",
-  "num_followers": 3851,
+  "num_followers": 3870,
   "original_name": "Sunday Service",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZjQ3ZThjOGQxZmFmZTRkZGFmZDFjYWFhNDA1MmRhNWIwNjE3NmJj",
+  "snapshot_id": "MCxiZDI0YmRlYjVkZmU2ZWRlOTcwMzdlMTRkZTZhZDM5NDkwOTlkZTVj",
   "tracks": [
     {
       "added_at": "2023-11-17 00:01:00",
@@ -287,26 +287,6 @@
     {
       "added_at": "2023-11-17 00:01:00",
       "album": {
-        "name": "Moy\u2019 Oyingcwele (Live)",
-        "url": "https://open.spotify.com/album/2kxH7Iei0VyjWOGydkLUbu"
-      },
-      "artists": [
-        {
-          "name": "Spirit Of Praise",
-          "url": "https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa"
-        },
-        {
-          "name": "Ayanda Ntanzi",
-          "url": "https://open.spotify.com/artist/3NXb9zGCEqzY4iDccRB3Hw"
-        }
-      ],
-      "duration_ms": 500087,
-      "name": "Moy\u2019 Oyingcwele (Live)",
-      "url": "https://open.spotify.com/track/710zL5SAbc6dbHEsLiBwME"
-    },
-    {
-      "added_at": "2023-11-17 00:01:00",
-      "album": {
         "name": "My Matter",
         "url": "https://open.spotify.com/album/3yADLSdEDyjsn8ncyIJnaF"
       },
@@ -331,6 +311,26 @@
     {
       "added_at": "2023-11-17 00:01:00",
       "album": {
+        "name": "Moy\u2019 Oyingcwele (Live)",
+        "url": "https://open.spotify.com/album/2kxH7Iei0VyjWOGydkLUbu"
+      },
+      "artists": [
+        {
+          "name": "Spirit Of Praise",
+          "url": "https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa"
+        },
+        {
+          "name": "Ayanda Ntanzi",
+          "url": "https://open.spotify.com/artist/3NXb9zGCEqzY4iDccRB3Hw"
+        }
+      ],
+      "duration_ms": 500087,
+      "name": "Moy\u2019 Oyingcwele (Live)",
+      "url": "https://open.spotify.com/track/710zL5SAbc6dbHEsLiBwME"
+    },
+    {
+      "added_at": "2023-11-17 00:01:00",
+      "album": {
         "name": "Oke Mmiri",
         "url": "https://open.spotify.com/album/5baenpMXZnIbXczP9a9zMp"
       },
@@ -347,18 +347,18 @@
     {
       "added_at": "2023-11-17 00:01:00",
       "album": {
-        "name": "I Believe (Island Medley) - Single",
-        "url": "https://open.spotify.com/album/69PdhhgvSzawIe73yaItL8"
+        "name": "Shusha Nyavu",
+        "url": "https://open.spotify.com/album/2Tlcxf4JXImZRqiNnYCDKt"
       },
       "artists": [
         {
-          "name": "Jonathan Nelson",
-          "url": "https://open.spotify.com/artist/4oI0W9neUi7nvxcQKDY5Xa"
+          "name": "Christina Shusho",
+          "url": "https://open.spotify.com/artist/0yOSvlhtID1BtqO5UUv5SL"
         }
       ],
-      "duration_ms": 240204,
-      "name": "I Believe (Island Medley) [So Long Bye Bye] (Radio Edit)",
-      "url": "https://open.spotify.com/track/7bZCkTQ5qXrCgQvPbKF2gH"
+      "duration_ms": 226866,
+      "name": "Shusha Nyavu",
+      "url": "https://open.spotify.com/track/4OWverqpwi4P1BstWOjlS1"
     },
     {
       "added_at": "2023-11-17 00:01:00",
@@ -379,18 +379,18 @@
     {
       "added_at": "2023-11-17 00:01:00",
       "album": {
-        "name": "Shusha Nyavu",
-        "url": "https://open.spotify.com/album/2Tlcxf4JXImZRqiNnYCDKt"
+        "name": "I Believe (Island Medley) - Single",
+        "url": "https://open.spotify.com/album/69PdhhgvSzawIe73yaItL8"
       },
       "artists": [
         {
-          "name": "Christina Shusho",
-          "url": "https://open.spotify.com/artist/0yOSvlhtID1BtqO5UUv5SL"
+          "name": "Jonathan Nelson",
+          "url": "https://open.spotify.com/artist/4oI0W9neUi7nvxcQKDY5Xa"
         }
       ],
-      "duration_ms": 226866,
-      "name": "Shusha Nyavu",
-      "url": "https://open.spotify.com/track/4OWverqpwi4P1BstWOjlS1"
+      "duration_ms": 240204,
+      "name": "I Believe (Island Medley) [So Long Bye Bye] (Radio Edit)",
+      "url": "https://open.spotify.com/track/7bZCkTQ5qXrCgQvPbKF2gH"
     },
     {
       "added_at": "2023-11-17 00:01:00",
@@ -515,6 +515,22 @@
     {
       "added_at": "2023-11-17 00:01:00",
       "album": {
+        "name": "Sisi Ni Wale",
+        "url": "https://open.spotify.com/album/62kTShyCsFUxCyrqcs5Rb3"
+      },
+      "artists": [
+        {
+          "name": "Phina",
+          "url": "https://open.spotify.com/artist/1gFTuZHiQgl5NAgqNEK2Rl"
+        }
+      ],
+      "duration_ms": 228251,
+      "name": "Sisi Ni Wale",
+      "url": "https://open.spotify.com/track/7fw4Nzwa0FB7Qwu3zyFaY9"
+    },
+    {
+      "added_at": "2023-11-17 00:01:00",
+      "album": {
         "name": "AMENIWEKA HURU KWELI (Nyimbo za wokovu) ALBUM 2",
         "url": "https://open.spotify.com/album/5kBT5i8KJqCS9ka4RwEAKu"
       },
@@ -547,22 +563,6 @@
       "duration_ms": 186720,
       "name": "Tawala",
       "url": "https://open.spotify.com/track/6dvk6TqiOxnkLL3T7zkup5"
-    },
-    {
-      "added_at": "2023-11-17 00:01:00",
-      "album": {
-        "name": "Sisi Ni Wale",
-        "url": "https://open.spotify.com/album/62kTShyCsFUxCyrqcs5Rb3"
-      },
-      "artists": [
-        {
-          "name": "Phina",
-          "url": "https://open.spotify.com/artist/1gFTuZHiQgl5NAgqNEK2Rl"
-        }
-      ],
-      "duration_ms": 228251,
-      "name": "Sisi Ni Wale",
-      "url": "https://open.spotify.com/track/7fw4Nzwa0FB7Qwu3zyFaY9"
     },
     {
       "added_at": "2023-11-17 00:01:00",
@@ -663,26 +663,6 @@
     {
       "added_at": "2023-11-17 00:01:00",
       "album": {
-        "name": "Good",
-        "url": "https://open.spotify.com/album/0hoXUusEcoPlaMlclSn51i"
-      },
-      "artists": [
-        {
-          "name": "Nolly",
-          "url": "https://open.spotify.com/artist/1qDxmgIV0aTR4QGRL4zXWM"
-        },
-        {
-          "name": "Omojo",
-          "url": "https://open.spotify.com/artist/4RCjw7JlxYqW7jUHCO4QgC"
-        }
-      ],
-      "duration_ms": 216111,
-      "name": "Good",
-      "url": "https://open.spotify.com/track/6RM5xAAj92QSAIGTd2i267"
-    },
-    {
-      "added_at": "2023-11-17 00:01:00",
-      "album": {
         "name": "Wonder",
         "url": "https://open.spotify.com/album/6LGi14GqL0mpLw0HbphcAe"
       },
@@ -699,6 +679,26 @@
       "duration_ms": 196363,
       "name": "Wonder",
       "url": "https://open.spotify.com/track/5YfRrfnLf0rvsYlE7q1Jbf"
+    },
+    {
+      "added_at": "2023-11-17 00:01:00",
+      "album": {
+        "name": "Good",
+        "url": "https://open.spotify.com/album/0hoXUusEcoPlaMlclSn51i"
+      },
+      "artists": [
+        {
+          "name": "Nolly",
+          "url": "https://open.spotify.com/artist/1qDxmgIV0aTR4QGRL4zXWM"
+        },
+        {
+          "name": "Omojo",
+          "url": "https://open.spotify.com/artist/4RCjw7JlxYqW7jUHCO4QgC"
+        }
+      ],
+      "duration_ms": 216111,
+      "name": "Good",
+      "url": "https://open.spotify.com/track/6RM5xAAj92QSAIGTd2i267"
     },
     {
       "added_at": "2023-11-17 00:01:00",

@@ -2,9 +2,9 @@
 
 ### [Young Nashville](https://open.spotify.com/playlist/37i9dQZF1DWTvM9hRJYH10)
 
-> Music from Nashville's emerging Singers and Songwriters\. Cover: Graham Barham
+> Music from Nashville's emerging Singers and Songwriters\. Cover: The Castellows
 
-314 songs - 16 hr 37 min
+315 songs - 16 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -201,6 +201,7 @@
 | [Never Been in Love](https://open.spotify.com/track/4SACHtzLlcNaUKGYC9oX30) | [Haley Mae Campbell](https://open.spotify.com/artist/2NDqx1z4TTkFr0QOnk8nX3) | [Never Been in Love](https://open.spotify.com/album/25xDXodLiZRjEve55T9A8G) | 2:59 | 2021-12-31 | 2022-02-12 |
 | [Never Found You](https://open.spotify.com/track/0ejYonr6iCOveRWn2vBFJ0) | [Leaving Austin](https://open.spotify.com/artist/67igAZjBrO42dnYYbTT6WI) | [Never Found You](https://open.spotify.com/album/1bgekG3dViYKaPeiTyErnX) | 2:52 | 2021-12-31 | 2023-01-14 |
 | [Never Said Sorry](https://open.spotify.com/track/1h1XBqXVBQ5wLkdoWQet9m) | [Josh Kerr](https://open.spotify.com/artist/7tnICxEQkOML369POsUizq) | [Never Said Sorry](https://open.spotify.com/album/2MzUFAax9RwtKK8s6S9iXI) | 2:41 | 2022-02-11 | 2023-01-14 |
+| [No\. 7 Road](https://open.spotify.com/track/196gHiMKy67smff9ITYtQ5) | [The Castellows](https://open.spotify.com/artist/18RWefCHpRm4ccmNgKSHvG) | [No\. 7 Road](https://open.spotify.com/album/5ew2r7jhSR1oaCJinVXbwH) | 3:02 | 2023-12-01 |  |
 | [Not Supposed To Know Each Other](https://open.spotify.com/track/2K52TQ4HqTz2ZbCrhkFw0p) | [Taylor Edwards](https://open.spotify.com/artist/2LMvoFcHZ0G38iO4Jra8ki) | [Born in July](https://open.spotify.com/album/3Y22F7f6OISIYwTirf2E6R) | 2:41 | 2022-07-22 | 2023-02-25 |
 | [Not Supposed To Know Each Other](https://open.spotify.com/track/2OK9HiOcSsFBKynCdPRUvo) | [Taylor Edwards](https://open.spotify.com/artist/2LMvoFcHZ0G38iO4Jra8ki) | [Not Supposed To Know Each Other](https://open.spotify.com/album/56YMpDRIc0HTB7FDBq3IC8) | 2:41 | 2021-12-31 | 2022-07-29 |
 | [Not Supposed To Know Each Other](https://open.spotify.com/track/6jphhFUpKLzmptrwS35j0I) | [Taylor Edwards](https://open.spotify.com/artist/2LMvoFcHZ0G38iO4Jra8ki) | [Born in July \(The Album\)](https://open.spotify.com/album/6Xz5OPkS6RCcmQ1hA7JUaO) | 2:41 | 2022-11-02 | 2022-11-13 |

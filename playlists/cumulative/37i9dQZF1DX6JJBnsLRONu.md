@@ -4,7 +4,7 @@
 
 > Pushing the boundaries of instrumental Folk and Americana.
 
-100 songs - 6 hr 50 min
+105 songs - 7 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [Ai Du \(with Ry Cooder\)](https://open.spotify.com/track/5ksSzUpY892Gga1BlDN9ey) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL) | [Talking Timbuktu](https://open.spotify.com/album/0pOL9eM3BPolgD5jjQInAk) | 7:09 | 2023-09-15 |  |
 | [Ai Du \(with Ry Cooder\)](https://open.spotify.com/track/3c6wivu78aLN7ZXp8UbpaI) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL), [Ry Cooder](https://open.spotify.com/artist/1CPwHx5lgVxv0rfcp7UXLx) | [Talking Timbuktu \(with Ry Cooder\)](https://open.spotify.com/album/2MSgPFGGgIn5EqLezjLpt9) | 7:09 | 2022-04-22 | 2023-11-04 |
 | [American Dipper](https://open.spotify.com/track/1PJvxtfe6W1aeQKiXjGmSc) | [North Americans](https://open.spotify.com/artist/0SsM5OCOiiwycZIO63OT1S), [Joel Ford](https://open.spotify.com/artist/5XiDsZ4MdTGfZvUEVBGfiA) | [American Dipper](https://open.spotify.com/album/648j3s2wgIRU0v1YiVTLil) | 3:55 | 2022-02-10 |  |
+| [As We Remember](https://open.spotify.com/track/6JPoGBYmQNMYkMTZvSSb5i) | [Rebecca Mardal](https://open.spotify.com/artist/56PuDgywHPrbEFyujgPc9V) | [As We Remember](https://open.spotify.com/album/34lx6PhG4bw9PEplGgCepC) | 2:51 | 2023-12-01 |  |
 | [At the Edge of the World](https://open.spotify.com/track/1HNy9IZDRBBWOc2HYUSIJw) | [Marisa Anderson](https://open.spotify.com/artist/5j2d5CS0sh2LTpFsrKAFcW), [William Tyler](https://open.spotify.com/artist/3iexGtoBAyCUbxOKeru5py) | [At the Edge of the World](https://open.spotify.com/album/3pPEotWlGwWvmZfiMJvn8R) | 6:16 | 2022-02-10 |  |
 | [Basements](https://open.spotify.com/track/3LoD8YTXOM87GUWU7IhesV) | [John R\. Miller](https://open.spotify.com/artist/6VPZjyyur7ltEgkFdMnvz4) | [Basements](https://open.spotify.com/album/7f2B4dwq8gyPtytN6zFcNs) | 3:43 | 2023-09-15 |  |
 | [Black Eyed Susan](https://open.spotify.com/track/4O6qHINcYgFcyK5jj6GcRH) | [Shane Parish](https://open.spotify.com/artist/3cvqyc36Wu2EbRd2Wf8dgr) | [Black Eyed Susan](https://open.spotify.com/album/0JJyu6jluatrwYKbEXGHjC) | 6:20 | 2022-02-10 |  |
@@ -57,6 +58,7 @@
 | [In a Cistern](https://open.spotify.com/track/4l9qE7OMktnSUGwvU7kLNU) | [Devendra Banhart](https://open.spotify.com/artist/1YZEoYFXx4AxVv13OiOPvZ), [Noah Georgeson](https://open.spotify.com/artist/560GMyzlOxLgjvQdFjaHh8) | [In a Cistern b/w Into Clouds](https://open.spotify.com/album/6xlCxwfhcHoAB9QFPltjU3) | 4:20 | 2022-02-10 |  |
 | [Jericho](https://open.spotify.com/track/5oNvZprFIEffLJv5jVa9h9) | [Laurel Premo](https://open.spotify.com/artist/1xb97sU2gSPLt2TBtKQeVT) | [Jericho](https://open.spotify.com/album/0Vq9bdUGdZUCW2i1rmnjfk) | 4:52 | 2022-02-10 |  |
 | [Juvenescence](https://open.spotify.com/track/5KrUt55R9EGl9ZMl8BL8kV) | [Yasmin Williams](https://open.spotify.com/artist/4j8CsPzssbM8TCjSvgnmSs) | [Urban Driftwood](https://open.spotify.com/album/65a7yUVNDttPR2ioJOgyok) | 3:50 | 2023-11-10 |  |
+| [Last Days of April](https://open.spotify.com/track/1S7CCMZhklFA5qQQ7MpRoi) | [Lido Danielle](https://open.spotify.com/artist/4xfdrrJlyc8m3dJS5W59OP) | [Last Days of April](https://open.spotify.com/album/356KV0cpPpgKnxca5zQNPx) | 2:51 | 2023-12-01 |  |
 | [Lena's Spanish Fandango](https://open.spotify.com/track/3FknYgCiy9dsgoftmVgMIs) | [Cameron Knowler](https://open.spotify.com/artist/23AZoLIuQTmTt3jK7VOMkP) | [Places of Consequence](https://open.spotify.com/album/09rJ0SbyOwy3bjm8PUiiLG) | 2:13 | 2023-04-14 |  |
 | [Lena's Spanish Fandango](https://open.spotify.com/track/6OCTtpocRWu99aukOBx5Ho) | [Cameron Knowler](https://open.spotify.com/artist/23AZoLIuQTmTt3jK7VOMkP) | [Lena's Spanish Fandango](https://open.spotify.com/album/6l5BY7ev03UzlbJxKrq1bH) | 2:13 | 2022-02-10 | 2023-04-29 |
 | [Letting Go](https://open.spotify.com/track/0g6wylEFEz28As6I6iVmhh) | [Hayden Pedigo](https://open.spotify.com/artist/4OR0gbDLGgJ4fxoXB0ZCYZ) | [Letting Go](https://open.spotify.com/album/6kEte3BcsOoAwuGnVTkgME) | 3:24 | 2023-04-14 |  |
@@ -99,11 +101,14 @@
 | [The Nighthawks Are Out](https://open.spotify.com/track/2j2Uj2jGLu0IUg07oKaUnu) | [North Americans](https://open.spotify.com/artist/0SsM5OCOiiwycZIO63OT1S) | [Long Cool World](https://open.spotify.com/album/5y7H3tDoGqmw1w88QKGV8o) | 5:16 | 2023-04-07 |  |
 | [Twins](https://open.spotify.com/track/0SeCA3vPHuXGP6sizB05ZA) | [Matt Kivel](https://open.spotify.com/artist/2WkXhpsmgr8xeRpfF9Bl1w) | [Days of Being Wild](https://open.spotify.com/album/4OUF3bDg60cOEqlHLsLDA0) | 0:50 | 2022-02-10 |  |
 | [Ugly Orange](https://open.spotify.com/track/4O2JBu39WoNet8tz3xOS2P) | [yes/and](https://open.spotify.com/artist/7IxiRbidPWbGcs1K14lf98) | [Ugly Orange](https://open.spotify.com/album/5nRm1J2j9EqyHZrYVFCnho) | 4:19 | 2022-02-10 |  |
+| [Urban legends](https://open.spotify.com/track/2x4K624CyAI8DQShtVIypD) | [Andreas Horschel](https://open.spotify.com/artist/7jtXTNxn8Q0LVzvSjIlldV) | [Urban legends](https://open.spotify.com/album/3KXstkEWsSKCtwFKhaYyzo) | 2:36 | 2023-12-01 |  |
 | [Ursa Major](https://open.spotify.com/track/3BJnhpM9ItAefdMZGdGf1d) | [SUSS](https://open.spotify.com/artist/3qb5O9pLE0urqttdq4CqLS) | [High Line](https://open.spotify.com/album/5htTq0mezBLjTr0pja5jGK) | 4:10 | 2023-04-14 |  |
 | [Ursa Major](https://open.spotify.com/track/7jMmgzKA33wNfqwW99it4P) | [SUSS](https://open.spotify.com/artist/3qb5O9pLE0urqttdq4CqLS) | [High Line](https://open.spotify.com/album/4p5LlAKeW83lehTf5sUCUo) | 4:10 | 2022-02-10 | 2023-04-30 |
+| [View of the Park](https://open.spotify.com/track/61RiC53XYBjZmyW6u081HC) | [Roots and Recognition](https://open.spotify.com/artist/0pcVy4l3REi7JxDbLrZ37L) | [Letting the Light In](https://open.spotify.com/album/1eGxXdtkKb0os4MUacj89J) | 3:14 | 2023-12-01 |  |
 | [What Does It Matter Now?](https://open.spotify.com/track/4DpNmLojUrA9RqvdGLTr2M) | [Micah P\. Hinson](https://open.spotify.com/artist/6M5FR3JkFFVDkgwtO6Vtz6) | [What Does It Matter Now?](https://open.spotify.com/album/6MoxDbETwqsHJHg0T3GTmR) | 4:35 | 2022-11-18 |  |
 | [What Must Be Done](https://open.spotify.com/track/3buV0hT4g8GOIa8l2OJIJN) | [Nick Cave](https://open.spotify.com/artist/1RM5gp0RFfjpJhCYFPB30p), [Warren Ellis](https://open.spotify.com/artist/0A8tch4LePxVn1Cn60wGXu) | [The Assassination of Jesse James By the Coward Robert Ford](https://open.spotify.com/album/6RzRjlvdLSDwkx8bMHyPLs) | 1:57 | 2022-02-10 | 2023-11-03 |
 | [What Must Be Done](https://open.spotify.com/track/5AKymjcoEsBxrlJqH1nu4I) | [Nick Cave & Warren Ellis](https://open.spotify.com/artist/5cQYq4eJmOwUGCAjhajFg7) | [The Assassination of Jesse James By the Coward Robert Ford](https://open.spotify.com/album/5tHgLycauca1M9DF9YqsbJ) | 1:57 | 2023-09-15 |  |
+| [Winter Solstice](https://open.spotify.com/track/2qg21mlordJwzXKPjHWFyA) | [Michael Reiss](https://open.spotify.com/artist/0KuRSjM6OFX0mH6GW5Shvy) | [Abenddämmerung](https://open.spotify.com/album/05yJ8D8WooKWGfItq1NLOA) | 3:29 | 2023-12-01 |  |
 | [With News About Heaven](https://open.spotify.com/track/5AlvG6En5wNwVQRzxkgXyF) | [William Tyler](https://open.spotify.com/artist/3iexGtoBAyCUbxOKeru5py) | [New Vanitas](https://open.spotify.com/album/6Y9i01k1rGe69qVjWsGWNM) | 4:31 | 2022-02-10 | 2022-07-29 |
 | [With News About Heaven](https://open.spotify.com/track/74QHxzRk23oaNMsMtOw5GE) | [William Tyler](https://open.spotify.com/artist/3iexGtoBAyCUbxOKeru5py) | [New Vanitas](https://open.spotify.com/album/5EZWB44UxQvTllmmOvarXw) | 4:31 | 2022-04-22 |  |
 | [You'd Be So Nice to Come Home To](https://open.spotify.com/track/37RJq9ytdQqVltw1aOYIZj) | [Marisa Anderson](https://open.spotify.com/artist/5j2d5CS0sh2LTpFsrKAFcW), [Tara Jane O'Neil](https://open.spotify.com/artist/67S18PLepUFPvHhMgCJPZk) | [You'd Be So Nice to Come Home To](https://open.spotify.com/album/0jUyjOeULoz1T3QXbgIk6k) | 5:10 | 2022-02-10 | 2023-04-30 |

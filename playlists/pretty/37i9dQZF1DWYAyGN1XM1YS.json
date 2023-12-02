@@ -1,12 +1,12 @@
 {
   "description": "Do you remember when you fell in love with emo and post-hardcore? Cover: The Get Up Kids",
-  "num_followers": 125286,
+  "num_followers": 125348,
   "original_name": "mEMOries",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMzM1MjM1M2JhYmZmNzUxNWQ1ZjBjZTNkOTYyNGM2OGIxZGNlMDY2",
+  "snapshot_id": "MCxjY2Q4YjE0MTkzN2I2Nzc1OTJmZTEzYjdjNGYwNjE1ODhkNjYzNTZm",
   "tracks": [
     {
       "added_at": "2023-03-28 15:58:25",
@@ -379,22 +379,6 @@
     {
       "added_at": "2023-03-28 15:58:25",
       "album": {
-        "name": "Clarity (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0JfCEzWgcuUxrAUZw5eUT4"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Eat World",
-          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
-        }
-      ],
-      "duration_ms": 246560,
-      "name": "For Me This Is Heaven",
-      "url": "https://open.spotify.com/track/64Kk49W8HFh22diWSBVxCr"
-    },
-    {
-      "added_at": "2023-03-28 15:58:25",
-      "album": {
         "name": "Analphabetapolothology",
         "url": "https://open.spotify.com/album/4VgTw2LLWNMz1FIHkZuv5D"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 122880,
       "name": "Oh Messy Life",
       "url": "https://open.spotify.com/track/5UGOuPyoMT5XHNA75LJlQE"
+    },
+    {
+      "added_at": "2023-03-28 15:58:25",
+      "album": {
+        "name": "Clarity (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0JfCEzWgcuUxrAUZw5eUT4"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Eat World",
+          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
+        }
+      ],
+      "duration_ms": 229706,
+      "name": "Lucky Denver Mint",
+      "url": "https://open.spotify.com/track/2GtMBnQshzpr6kIInqTJVd"
     },
     {
       "added_at": "2023-03-28 15:58:25",
@@ -459,22 +459,6 @@
     {
       "added_at": "2023-03-28 15:58:25",
       "album": {
-        "name": "Orange Rhyming Dictionary",
-        "url": "https://open.spotify.com/album/5zaVtrjodNQru22Rj4FIcD"
-      },
-      "artists": [
-        {
-          "name": "Jets To Brazil",
-          "url": "https://open.spotify.com/artist/03xcT10aipgYbYqusG7GWY"
-        }
-      ],
-      "duration_ms": 335933,
-      "name": "Chinatown",
-      "url": "https://open.spotify.com/track/7iLR3XqK3d5WbHeurAB1d8"
-    },
-    {
-      "added_at": "2023-03-28 15:58:25",
-      "album": {
         "name": "Whenever, If Ever",
         "url": "https://open.spotify.com/album/40C7bBDW77dS5BBbNzcdmm"
       },
@@ -491,34 +475,18 @@
     {
       "added_at": "2023-03-28 15:58:25",
       "album": {
-        "name": "Cursive's Domestica",
-        "url": "https://open.spotify.com/album/215RKfiHGpOXzOxftk3fqs"
+        "name": "Orange Rhyming Dictionary",
+        "url": "https://open.spotify.com/album/5zaVtrjodNQru22Rj4FIcD"
       },
       "artists": [
         {
-          "name": "Cursive",
-          "url": "https://open.spotify.com/artist/1sylmUjlKYsLA49YtkNHW3"
+          "name": "Jets To Brazil",
+          "url": "https://open.spotify.com/artist/03xcT10aipgYbYqusG7GWY"
         }
       ],
-      "duration_ms": 210200,
-      "name": "The Casualty",
-      "url": "https://open.spotify.com/track/5kgwBCYQtJ3vS0RpCrI6jG"
-    },
-    {
-      "added_at": "2023-03-28 15:58:25",
-      "album": {
-        "name": "Clarity (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0JfCEzWgcuUxrAUZw5eUT4"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Eat World",
-          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
-        }
-      ],
-      "duration_ms": 229706,
-      "name": "Lucky Denver Mint",
-      "url": "https://open.spotify.com/track/2GtMBnQshzpr6kIInqTJVd"
+      "duration_ms": 335933,
+      "name": "Chinatown",
+      "url": "https://open.spotify.com/track/7iLR3XqK3d5WbHeurAB1d8"
     },
     {
       "added_at": "2023-03-28 15:58:25",
@@ -535,6 +503,38 @@
       "duration_ms": 153586,
       "name": "Caboose",
       "url": "https://open.spotify.com/track/4lIyRjVqJlN8naBv6Cd5Dw"
+    },
+    {
+      "added_at": "2023-03-28 15:58:25",
+      "album": {
+        "name": "Clarity (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0JfCEzWgcuUxrAUZw5eUT4"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Eat World",
+          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
+        }
+      ],
+      "duration_ms": 246560,
+      "name": "For Me This Is Heaven",
+      "url": "https://open.spotify.com/track/64Kk49W8HFh22diWSBVxCr"
+    },
+    {
+      "added_at": "2023-03-28 15:58:25",
+      "album": {
+        "name": "Cursive's Domestica",
+        "url": "https://open.spotify.com/album/215RKfiHGpOXzOxftk3fqs"
+      },
+      "artists": [
+        {
+          "name": "Cursive",
+          "url": "https://open.spotify.com/artist/1sylmUjlKYsLA49YtkNHW3"
+        }
+      ],
+      "duration_ms": 210200,
+      "name": "The Casualty",
+      "url": "https://open.spotify.com/track/5kgwBCYQtJ3vS0RpCrI6jG"
     },
     {
       "added_at": "2023-03-28 15:58:25",

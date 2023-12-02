@@ -1378,7 +1378,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 89491,
       "name": "for B.",
       "url": "https://open.spotify.com/track/4eqYoFG2SGQqMFCvKrjtiu"
@@ -3638,6 +3638,24 @@
       "duration_ms": 63262,
       "name": "The hall is dancing",
       "url": "https://open.spotify.com/track/6UnSlwVAEPblKJING6FH5Z"
+    },
+    {
+      "album": {
+        "name": "The Lonely Tree Corecore Depressed",
+        "url": "https://open.spotify.com/album/5MS01aBztEzPQLUN5OZhpd"
+      },
+      "artists": [
+        {
+          "name": "Leox",
+          "url": "https://open.spotify.com/artist/7c4E98MuM8NBQGrSDC2n9r"
+        }
+      ],
+      "date_added": "2023-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 82526,
+      "name": "The Lonely Tree Corecore Depressed",
+      "url": "https://open.spotify.com/track/6op1kH6zHU9JJu7vRZwrap"
     },
     {
       "album": {

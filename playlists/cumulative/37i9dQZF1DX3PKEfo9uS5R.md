@@ -4,7 +4,7 @@
 
 > Chill house tracks to power your pilates session.
 
-202 songs - 10 hr 22 min
+204 songs - 10 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [drift](https://open.spotify.com/track/15bdg1OPg7Se0f5aIYWUxR) | [Sin & Logo](https://open.spotify.com/artist/4nEsyYc3Si04SYob0Grvau) | [drift](https://open.spotify.com/album/61s9uzgpln4l7n81lM0UIw) | 3:57 | 2023-06-19 |  |
 | [Duane](https://open.spotify.com/track/6OFnPWtW3pANhBtcG8orIg) | [Baron Malice](https://open.spotify.com/artist/4gfiUPAVRdak4CJ8RCxaxe) | [Duane](https://open.spotify.com/album/51Hqtsc3EsOYeDIuYunnjd) | 3:12 | 2023-03-31 | 2023-10-13 |
 | [easy](https://open.spotify.com/track/3fcJHP9P1Jipkv9UBQZNTh) | [Triple Bulletin](https://open.spotify.com/artist/0g8pyizsQwlRvbDEazNSm3) | [easy](https://open.spotify.com/album/2xwuLtS6WGvYyphK7N7CYk) | 2:19 | 2023-04-07 |  |
+| [Equilibrium](https://open.spotify.com/track/6QNjAO54fSs8bZzF15wyVa) | [Moodyou](https://open.spotify.com/artist/76nnxHmvCdI2qqm4gHdOXH) | [Equilibrium](https://open.spotify.com/album/20MeBKAO12VIiRJlYH5pPO) | 2:33 | 2023-12-01 |  |
 | [Extrinsic](https://open.spotify.com/track/5NRnGOcVYxj01G7osJWKgV) | [DJ Eely](https://open.spotify.com/artist/1pWq7WE6SgN6KxOFXD3w80) | [Picturesque](https://open.spotify.com/album/1TLkNZ4uXScUE03mlYOnEe) | 5:23 | 2021-11-11 | 2022-05-20 |
 | [Fallen Angel](https://open.spotify.com/track/2HPpdNLzGv3sal6DYLRq5d) | [Wolfgang Laux](https://open.spotify.com/artist/1B7wnKyiBhdKUDAWQB5tHu) | [Fallen Angel](https://open.spotify.com/album/0RdQWXdOdLmWAKtnVgb0lJ) | 2:55 | 2021-11-11 |  |
 | [Faro](https://open.spotify.com/track/3UUVf6kCaIXaDADINeYQ4V) | [Afonso Jardim](https://open.spotify.com/artist/42tsH6bAB8RIb2qAZ2Y612) | [Faro](https://open.spotify.com/album/6PfCd47IGXI9k07OhWkJe4) | 2:23 | 2021-11-11 | 2022-07-01 |
@@ -200,6 +201,7 @@
 | [Washed Away](https://open.spotify.com/track/1e0Q9veokrlQKVTiKv3jLx) | [Leon Meier](https://open.spotify.com/artist/0DTofPSC4MRF3w1Z6G0Nca) | [Washed Away](https://open.spotify.com/album/3ZRqvvAjiVDWms9WPCebXq) | 3:35 | 2021-11-11 | 2022-05-11 |
 | [Watchtower](https://open.spotify.com/track/5cwjq1HlJEwOMOxFr8bPpT) | [Werlie](https://open.spotify.com/artist/6KQ7zOmEoEm2tgJsoYq55x) | [Watchtower](https://open.spotify.com/album/1l95gSxvw9QjvHnl6z0C6C) | 2:38 | 2021-11-11 | 2023-06-03 |
 | [Waves](https://open.spotify.com/track/1A2pH62d1USSUsxuoiRD8l) | [Navagio](https://open.spotify.com/artist/4IZVQx6ZkiGS5yIhLQvhf8) | [Waves](https://open.spotify.com/album/4bSGU58KwhgotZ3SETiZso) | 2:38 | 2021-11-11 | 2022-05-11 |
+| [What You Want](https://open.spotify.com/track/5EFUY2TbeUYah7R4esc1Y8) | [Sleap Year](https://open.spotify.com/artist/3rHbl02YzcYLfkNurILXKH) | [What You Want](https://open.spotify.com/album/34G54lkKLI877X7GYJXy12) | 2:24 | 2023-12-01 |  |
 | [White Dust](https://open.spotify.com/track/2zlmxxH4eHn2rmBZRQRwEY) | [Sun Mirage](https://open.spotify.com/artist/3wqjOyUcOsV0wSLgCsGwf4) | [It's all clear now](https://open.spotify.com/album/4nZ4IAl00PTqsNs0AmC0GA) | 4:02 | 2021-11-11 | 2022-05-11 |
 | [White Sand](https://open.spotify.com/track/5bJpgpe64yhSWpwtELoBh3) | [Maurea](https://open.spotify.com/artist/6GqXPQOxk9y94VmCzjZMEj) | [White Sand](https://open.spotify.com/album/1YEoHrS4r659ncmDAGU3rD) | 2:39 | 2022-10-07 |  |
 | [With My Feet On The Ground](https://open.spotify.com/track/5YOuzYXjNbONPE6dMsX8Wu) | [pxp pxp](https://open.spotify.com/artist/2tAwz8BUyvKg8mkCC7YTYO) | [With My Feet On The Ground](https://open.spotify.com/album/36irUhsNlmOTWa4A752d8q) | 3:03 | 2023-09-22 |  |

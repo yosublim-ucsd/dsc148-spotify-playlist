@@ -4,7 +4,7 @@
 
 > Driving electronic grooves for improved motivation and performance.
 
-156 songs - 8 hr 35 min
+160 songs - 8 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,7 @@
 | [Casa Commercial](https://open.spotify.com/track/4wwrQNY2AjrCt2mGc7HcQA) | [Palo Santo](https://open.spotify.com/artist/52lmTJ5n4YL6wqaVelJ3mJ) | [Casa Commercial](https://open.spotify.com/album/2TtYOujCGZcesSm6FEe24g) | 2:48 | 2023-03-10 |  |
 | [Chapter Two](https://open.spotify.com/track/0LOGcNCFLfCWLh9mzTmaG5) | [Far Orange](https://open.spotify.com/artist/1SIt7IjD8Q9RpwEklyMlUO) | [Chapter Two](https://open.spotify.com/album/2k4TuEENRlXWOp9sJLAnDr) | 5:11 | 2022-09-23 |  |
 | [Clearance](https://open.spotify.com/track/4Xs8dQwj1Ic4FyCcCyRKYq) | [Shiruky](https://open.spotify.com/artist/1Tr7ffkJ66E8bXTm2g7uEM) | [Clearance](https://open.spotify.com/album/32i7uXRwJK36jBrjndQ7m8) | 5:26 | 2022-10-07 |  |
-| [Clearly](https://open.spotify.com/track/4jQFk9HpGI7J4h8DqAUKsW) | [Vince Violet](https://open.spotify.com/artist/4rEFfTuw86reS4wKHIp9Np) | [Clearly](https://open.spotify.com/album/3QX8yDjkNZ2S0By7xwTL7r) | 2:28 | 2023-04-28 |  |
+| [Clearly](https://open.spotify.com/track/4jQFk9HpGI7J4h8DqAUKsW) | [Vince Violet](https://open.spotify.com/artist/4rEFfTuw86reS4wKHIp9Np) | [Clearly](https://open.spotify.com/album/3QX8yDjkNZ2S0By7xwTL7r) | 2:28 | 2023-04-28 | 2023-12-02 |
 | [cloudless](https://open.spotify.com/track/5XCUn3nfOkGJYOyGshdFhC) | [Paon Bleu](https://open.spotify.com/artist/4WYWCaNbo0tE3g7D3CEjzZ) | [cloudless](https://open.spotify.com/album/6HyFrG0HkKZILVZJCwXt8U) | 3:03 | 2023-02-17 |  |
 | [Clouds of Saturn](https://open.spotify.com/track/0P3NmkTGRUF0Asg8FuAOTv) | [Brendon Moeller](https://open.spotify.com/artist/3V3T5haMWZGfFxqVsAB9oB) | [Primordial](https://open.spotify.com/album/17yAydXl6iXvXJojFXYDVp) | 5:50 | 2022-09-23 | 2023-07-18 |
 | [Coconut Catch](https://open.spotify.com/track/0Aeg4DXpsdkHx5hEB9dybY) | [Caribbean Tiger](https://open.spotify.com/artist/06doN8kiUlhzC22kxfpmrU) | [Coconut Catch](https://open.spotify.com/album/3nK3B6WCVagAsC1y52Abl1) | 2:40 | 2023-05-22 |  |
@@ -74,6 +74,7 @@
 | [Godmode](https://open.spotify.com/track/0KZRx6da9VbIhwgVxVEhbu) | [Saintxx](https://open.spotify.com/artist/4xVatvwHKlUqYhraxZelaY) | [Godmode](https://open.spotify.com/album/4tS3AgOkWILCWZykIGdxp4) | 2:14 | 2022-12-23 |  |
 | [Grapefruit](https://open.spotify.com/track/7EC8AM9PK4WHwyD8WIdZPa) | [Young Community](https://open.spotify.com/artist/1dThUtszO1jevy1BfKlCcR) | [Grapefruit](https://open.spotify.com/album/6oUQuDi0THc5zLK2cpoO2q) | 4:03 | 2023-06-23 |  |
 | [Half\-Light](https://open.spotify.com/track/3VGEC6MUbZTRjg93etNpw8) | [Maudii](https://open.spotify.com/artist/4sh66zMHXR6pqwSnw82Tdj) | [Half\-Light](https://open.spotify.com/album/1OOB3nQBqEh34J0J1Ekbn2) | 2:47 | 2022-09-23 | 2023-07-18 |
+| [Harmonic Science](https://open.spotify.com/track/5L51jltonR4PoeuaU9XnrF) | [Dowling](https://open.spotify.com/artist/0neKNhlcWSaKjxbRNRGczb) | [Harmonic Science](https://open.spotify.com/album/0cmCnqDEIZ6XamJnrqvz2U) | 4:00 | 2023-12-01 |  |
 | [Hold On](https://open.spotify.com/track/3cBsoWySE5misjwiHXpe4h) | [Valter Knut](https://open.spotify.com/artist/4PjYynoChLbnYyhPVSMnbq) | [Hold On](https://open.spotify.com/album/1Yyshg4PD11md8uNRapu8x) | 2:32 | 2022-09-23 | 2023-07-18 |
 | [I Kinda Like It](https://open.spotify.com/track/5Z4zrfHfykFUhSqNnt2Ubd) | [Lofive](https://open.spotify.com/artist/2MIjUuqUlQPxk995OG41Tq) | [I Kinda Like It](https://open.spotify.com/album/4Fl0fWnj9sqmEI8mN3dIOu) | 2:27 | 2023-10-20 |  |
 | [I Need You](https://open.spotify.com/track/3owktfqOe8kZ9zCoTSZ0T8) | [Leon Jarvis](https://open.spotify.com/artist/7Iqe5ZQLFGySYpAFUDttXJ) | [I Need You](https://open.spotify.com/album/7dXyHoHeaB5K1hfWgtdMoA) | 2:42 | 2022-09-23 |  |
@@ -97,6 +98,7 @@
 | [narrow club](https://open.spotify.com/track/6hMCmAzbsXyzcfcR11429z) | [genelion](https://open.spotify.com/artist/2TMzn3AIEg6b4Nd28MjUNA) | [narrow club](https://open.spotify.com/album/6bDsCQR9bY1Q0Jvk06Js1j) | 2:26 | 2022-11-25 |  |
 | [Naymara](https://open.spotify.com/track/30cOun7g2v2GO6fLin6gPy) | [Damian Holden](https://open.spotify.com/artist/6VgyMZzlNejIhFh7Yn6SlM) | [Naymara](https://open.spotify.com/album/43ECTj9mRWwpMr5ehDBHzT) | 2:20 | 2022-09-23 |  |
 | [never mind](https://open.spotify.com/track/5jjRbQBPGIgR1h4GXni04h) | [dreem](https://open.spotify.com/artist/66cMjcY2f2B1omrVfxHIlG) | [never mind](https://open.spotify.com/album/19HVR0fbGl81JaABc5pNym) | 2:32 | 2023-01-06 | 2023-04-15 |
+| [New Life](https://open.spotify.com/track/3fH4OMcoE1TrQ8Jee2JsJn) | [2 x 5](https://open.spotify.com/artist/6iknkFhXG6lYtDYPE6LOof) | [New Life](https://open.spotify.com/album/66S01dVXazALNqnaDa9qBw) | 3:56 | 2023-12-01 |  |
 | [Night Riding](https://open.spotify.com/track/1lzBu9GwCyWPieEWTrqtnI) | [Twelwe](https://open.spotify.com/artist/0cXv4l0iCzhQrRljsAQyQW) | [Night Riding](https://open.spotify.com/album/6fGErE6z1bpMnu6Qm2qRXP) | 5:05 | 2022-09-23 |  |
 | [Nigiro](https://open.spotify.com/track/2aGpPdS5daiW8vQrTI3SgC) | [Klejv](https://open.spotify.com/artist/491ZjutBNQPFA6hn5lDQW4) | [Nigiro](https://open.spotify.com/album/3VNO5vtzrLIbN9IVlBNVO8) | 2:30 | 2022-09-23 |  |
 | [Nizm](https://open.spotify.com/track/3fMOE6PBOkIAEHlMAExlKj) | [Chico Rocket](https://open.spotify.com/artist/7IQwKCAaA9LPTctkNr3QmQ) | [Nizm](https://open.spotify.com/album/0pq3stQS2eEe1xRDpqDix8) | 2:29 | 2022-10-28 |  |
@@ -112,6 +114,7 @@
 | [Papaya Jam](https://open.spotify.com/track/18r0EwxSFYaA9D7Ja8T7PV) | [Vince Violet](https://open.spotify.com/artist/4rEFfTuw86reS4wKHIp9Np) | [Papaya Jam](https://open.spotify.com/album/6N7kr8dVsXln1zxE7lglLr) | 2:12 | 2023-03-17 |  |
 | [Paper Hearts](https://open.spotify.com/track/1BsdE859H1FaOnEfnm2A5X) | [Superbandy](https://open.spotify.com/artist/3QldRhGT9NdS8ehqa6g40b) | [Paper Hearts](https://open.spotify.com/album/2RZcdZ676S2NEEsmaYQxHL) | 2:40 | 2022-09-23 | 2023-07-18 |
 | [Past Eleven](https://open.spotify.com/track/1VK0VKSSYrx8Mg3trmV8zL) | [Tiles Square](https://open.spotify.com/artist/5d7LjYFnNNpIQbnh3zlFkI) | [Past Eleven](https://open.spotify.com/album/0kQhu6DLrWNJRY4qUa9moP) | 2:06 | 2023-02-17 |  |
+| [Piano Man](https://open.spotify.com/track/57nluTSCxSSYvgrWaqdE9J) | [Piankow](https://open.spotify.com/artist/3oiqntF7hzsfY8HghMi1rT) | [Piano Man](https://open.spotify.com/album/0n7wZMmkSV7FMmB1BO9r1S) | 3:06 | 2023-12-01 |  |
 | [Polar](https://open.spotify.com/track/3CkFs9nquXcv4VsHnsvhJ5) | [Hosini](https://open.spotify.com/artist/3DQ7WGIfJ4z4aQzNE1bNFF) | [Polar](https://open.spotify.com/album/40QMSxAcbxjVpqnsIorPMX) | 4:34 | 2023-04-14 |  |
 | [Pomegranate](https://open.spotify.com/track/2mwoZ2aQjHtzoyuTXkiQTt) | [Palo Santo](https://open.spotify.com/artist/52lmTJ5n4YL6wqaVelJ3mJ) | [Pomegranate](https://open.spotify.com/album/1M3AFo4YY0SMNxyb3Ih7pr) | 2:24 | 2023-10-02 |  |
 | [Portamento](https://open.spotify.com/track/563A3oAQnjkDEqEjlbs2bO) | [Stenkil](https://open.spotify.com/artist/0ZatGtzzVJiSlOiZkVU2ln) | [Hey Valentine](https://open.spotify.com/album/4oFLsHYWq3URi7y8zdDg6r) | 2:28 | 2022-10-14 |  |
@@ -139,6 +142,7 @@
 | [Shimone Shimone](https://open.spotify.com/track/4CXcplkSoeBK15TewprZMe) | [DEX 1200](https://open.spotify.com/artist/2roONpdgmZHRTpr1IFNw0d) | [Shimone Shimone / Dune](https://open.spotify.com/album/16pkWYptZHPk7hCJj4eY0C) | 3:53 | 2022-10-28 |  |
 | [Sinking Walls](https://open.spotify.com/track/4EH5JfnTScFvYhwadLbS3c) | [Gullen](https://open.spotify.com/artist/61k6okbUw17fpK27TFEXtI) | [Sinking Walls](https://open.spotify.com/album/4X6X9NKF0IUnXMtAHIgLSr) | 7:15 | 2022-09-23 | 2023-07-18 |
 | [Skin Deep](https://open.spotify.com/track/1CAozfu6bPDxaKe39x030x) | [Jay FM](https://open.spotify.com/artist/0XHQV1DM8cqEJrB4gRuogs) | [Skin Deep](https://open.spotify.com/album/3pejPyeMAWaEasm6SzmURn) | 2:57 | 2022-09-23 |  |
+| [Sober Is the New Drunk](https://open.spotify.com/track/03JBa2jBWXqiAayEYuZZg0) | [Larry Poppinz](https://open.spotify.com/artist/16CYOuSOMLdhvKDWr5f65A) | [All Gassed Up](https://open.spotify.com/album/4H8s4gLqdCQ1rGbnbg8T7L) | 3:16 | 2023-12-01 |  |
 | [Something in the Water](https://open.spotify.com/track/4mDWO0QP4kZ37nHonhCHtd) | [Jo Lange](https://open.spotify.com/artist/1IoUhC61gvcKQiYvbus1me) | [Rise Together](https://open.spotify.com/album/6v5H9zuekGF6sK9iDOd6vZ) | 3:19 | 2022-09-23 | 2023-07-18 |
 | [stories 13](https://open.spotify.com/track/6HNgWzpxQl1qukSKeIuqid) | [Kacey View](https://open.spotify.com/artist/5V6YChLiAxyybNfGTpdXOi) | [stories 13](https://open.spotify.com/album/56rTivunke1UwRpxEe8yMP) | 2:42 | 2023-01-06 | 2023-07-18 |
 | [Strando](https://open.spotify.com/track/5w7VoQPLh12DPLASLcd4ew) | [Pablo Funke](https://open.spotify.com/artist/2XsRJTf7BZQTrb3BumlhHm) | [Strando](https://open.spotify.com/album/00RDUWlShtyBYbZvdpB89W) | 2:57 | 2022-09-23 | 2023-07-18 |

@@ -2,9 +2,9 @@
 
 ### [Cumbia de Barrio](https://open.spotify.com/playlist/37i9dQZF1DX5463MYlHXHD)
 
-> Cumbia pa' volar la chapa con Marka Akme, DJ Tao, Lauty Gram, Migrantes & Peipper.
+> Cumbia pa' volar la chapa con Papichamp, The la Planta, El negro tecla, Lolo OG & Locura Mix.
 
-176 songs - 9 hr 33 min
+177 songs - 9 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [Ahi Ahi](https://open.spotify.com/track/5O9IqFNUVtjRlDpdKex3YH) | [El negro tecla](https://open.spotify.com/artist/6M6pyt8k3EjvbFo1pZFS75) | [Ahi Ahi](https://open.spotify.com/album/10b8qKyITW4qsKqatPr8q3) | 2:56 | 2023-09-06 |  |
 | [AL RITMO \| E2](https://open.spotify.com/track/1CPH4SeQjS6xIFYdDpPABA) | [DJ Alex](https://open.spotify.com/artist/7ygNQCdpQWW7iSWAxDhvhI), [Callejero Fino](https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr) | [AL RITMO \| E2](https://open.spotify.com/album/6LteX3gEtSFKhpiVBuHep7) | 2:56 | 2023-05-26 |  |
 | [Anoche Yo Me Fui](https://open.spotify.com/track/6Zk6ORgEAzGMfIyBBuCA2E) | [La Liga](https://open.spotify.com/artist/0WG7v7wcDK5ZsUHjnZo9E6) | [Anoche Yo Me Fui](https://open.spotify.com/album/1MYLcG9u7IRQqYfs4oUhcn) | 3:02 | 2023-05-29 | 2023-06-20 |
+| [Atorrante](https://open.spotify.com/track/1IbBMlx0zQsQBVivwBcIKy) | [Los Pibes del Penal](https://open.spotify.com/artist/23h9kiR8GTLVQyoGWVubqi) | [Atorrante](https://open.spotify.com/album/5Fk5Jivf8cdfhk1ZpgqG4F) | 3:16 | 2023-12-01 |  |
 | [Baila Sola](https://open.spotify.com/track/3umahkAeAgMSu0bf9gsdDA) | [Eh!!! Guacho](https://open.spotify.com/artist/2iRVMe7HOINAwwEpGCU2mF) | [Es Corta la Bocha](https://open.spotify.com/album/3G9FLQq5jEbBVfdsjxp1BM) | 2:32 | 2023-05-26 |  |
 | [Bailan Rochas y Chetas](https://open.spotify.com/track/3lC4mM6NiSLttfYTv1HTNQ) | [Nene Malo](https://open.spotify.com/artist/58UPAlQ4MRWEDLhfdP4VcN) | [Me Declaro Culpable](https://open.spotify.com/album/4yYNMESzEFHZ0aJkUWGkVn) | 2:58 | 2023-05-26 |  |
 | [Barra Libre](https://open.spotify.com/track/61nprE5601F6rxnEcTR5Dl) | [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq), [DT.Bilardo](https://open.spotify.com/artist/5kfMU816qY0ujqEt3xIHqR), [Gonzalo Nawel](https://open.spotify.com/artist/6SHszElyg65TSgaP3YsAZ5) | [Barra Libre](https://open.spotify.com/album/4BxwFfRR2mzpzvHXbeipOW) | 3:58 | 2023-05-26 | 2023-08-21 |
@@ -72,7 +73,7 @@
 | [Fua Mi Amor](https://open.spotify.com/track/2QT316zZ7jBNQ74eUsIuI0) | [Callejero Fino](https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr), [Four Plack](https://open.spotify.com/artist/3mEKRofaEAL1E4wmR1kCAW) | [Fua Mi Amor](https://open.spotify.com/album/1RIwnlL46NTomi13sv71QT) | 2:45 | 2023-05-26 |  |
 | [FUMAN TWO](https://open.spotify.com/track/2GhH5I2KqMwPMA0xdHsjog) | [DT.Bilardo](https://open.spotify.com/artist/5kfMU816qY0ujqEt3xIHqR), [Perro Primo](https://open.spotify.com/artist/4MUsDaGK0nPDJvYSoaoFUA) | [FUMAN TWO](https://open.spotify.com/album/6qwax9ljt11tiPcoHo4IGy) | 1:54 | 2023-08-25 |  |
 | [Gancia y Limon](https://open.spotify.com/track/7uGYENkWct1HfCf7Pmd06o) | [Smk\-2](https://open.spotify.com/artist/6gxMv3Vj5PBdDbWfycfVxt), [El Pepo](https://open.spotify.com/artist/2zCQFd804DNH07QAI3xa25) | [Gancia y Limon](https://open.spotify.com/album/7b0BcgTvSykRcLLVF3PhVa) | 3:53 | 2023-09-22 |  |
-| [Gobernada](https://open.spotify.com/track/51nQJy39tCUGvF6aCUJqW5) | [El Guachoon](https://open.spotify.com/artist/74f8yYPROjWNuz2WJOpQTr) | [25 Horas de Gira](https://open.spotify.com/album/3KDbFoymkpijR5jsI13zKL) | 3:13 | 2023-05-26 |  |
+| [Gobernada](https://open.spotify.com/track/51nQJy39tCUGvF6aCUJqW5) | [El Guachoon](https://open.spotify.com/artist/74f8yYPROjWNuz2WJOpQTr) | [25 Horas de Gira](https://open.spotify.com/album/3KDbFoymkpijR5jsI13zKL) | 3:13 | 2023-05-26 | 2023-12-02 |
 | [Gordo Rata \- En Vivo](https://open.spotify.com/track/1khfuo78lkXHfbohSTI5Oy) | [Mala Fama](https://open.spotify.com/artist/1AvkrI2S7knrbaZxydvc9B), [Dante Spinetta](https://open.spotify.com/artist/4Dcz7srpGyeBFxFpQTxlvC) | [Gordo Rata \(En Vivo\)](https://open.spotify.com/album/5th02ukwk1IHBNaaLqXDqO) | 3:40 | 2023-05-26 |  |
 | [Guerra](https://open.spotify.com/track/2SS3YF05rm1adWFAGXAZFh) | [Dj Plaga](https://open.spotify.com/artist/6fOcj0NbaZF1GNiI5XnPEr), [Tirri La Roca](https://open.spotify.com/artist/3fUItdzxV5l9jupo5FkFwB) | [Guerra](https://open.spotify.com/album/3nAcVpBeZ5MEaZmtNt1Uhf) | 2:57 | 2023-09-29 | 2023-10-14 |
 | [GUSTY DJ I Alejo Isakk Session en el Barrio \#5](https://open.spotify.com/track/3EuhCgpwvuxzpVRKerf9UN) | [Gusty dj](https://open.spotify.com/artist/5f9pQjPeDbuRF1GowQXo3L), [Alejo Isakk](https://open.spotify.com/artist/2cdoH2XFAhj0LlSo4P2fJJ) | [GUSTY DJ I Alejo Isakk Session en el Barrio \#5](https://open.spotify.com/album/4jeXKUAhhCVQm5qefqqjfT) | 2:45 | 2023-05-26 |  |

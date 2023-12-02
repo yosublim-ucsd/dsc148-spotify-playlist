@@ -4813,6 +4813,24 @@
     },
     {
       "album": {
+        "name": "Madrid",
+        "url": "https://open.spotify.com/album/6fp9VIOrvejpy2WKofJmL3"
+      },
+      "artists": [
+        {
+          "name": "Juhn",
+          "url": "https://open.spotify.com/artist/2LmcxBak1alK1bf7d1beTr"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177613,
+      "name": "Madrid",
+      "url": "https://open.spotify.com/track/49Br4XqYMOBlwM2YRGPQYy"
+    },
+    {
+      "album": {
         "name": "Mafia Chilena: GUCCI GREMLIN",
         "url": "https://open.spotify.com/album/4le82QUKPdaEI75sUfOrU8"
       },

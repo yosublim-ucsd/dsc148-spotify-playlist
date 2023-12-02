@@ -4,7 +4,7 @@
 
 > Breathe\. Sense\. Feel\. Transcend.
 
-501 songs - 1 day 1 hr 52 min
+503 songs - 1 day 1 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -267,6 +267,7 @@
 | [Midnight Meditations](https://open.spotify.com/track/539a3kHIja3EqwxK8C7EyZ) | [Nekane Silver](https://open.spotify.com/artist/4U43EfgJP8ydde513Puqat) | [Midnight Meditations](https://open.spotify.com/album/48x4J4Jn9Gf4Oh6nNCybBe) | 2:48 | 2023-04-06 |  |
 | [Miho no Matsubara](https://open.spotify.com/track/216t4yl7TJeh6nlmF7mBOK) | [Miu Hayashi](https://open.spotify.com/artist/3PeAcdPlMSYVJyaUprwEWS) | [Miho no Matsubara](https://open.spotify.com/album/4Rj6DPJPIkkJqI27djmanN) | 2:53 | 2021-03-24 | 2023-09-09 |
 | [Mind](https://open.spotify.com/track/7DvR34weBiIehUpND2sN6O) | [From Alfie](https://open.spotify.com/artist/6lqr9FKlo45VgiWOu6P6kT) | [The Thread](https://open.spotify.com/album/7zwuCg5viRTfN5xKAYgmSU) | 2:31 | 2021-04-24 | 2022-01-20 |
+| [Mind conqueror](https://open.spotify.com/track/1Rg5A2IKrEg2TbsrHsMZrY) | [Salen](https://open.spotify.com/artist/5KNC8OGbrY5TThciLb1ZpN) | [Mind conqueror](https://open.spotify.com/album/383Ht4u5M4KAy0v3wq0jgl) | 3:13 | 2023-12-01 |  |
 | [Mind Retreat](https://open.spotify.com/track/2c15DLDKQDhMVWk3CQ2GZ4) | [Leerseite](https://open.spotify.com/artist/7l8dnU5tDk33Zw78dgfwi5) | [Monument](https://open.spotify.com/album/05oo8Bv67GY4iClgCrG6jv) | 2:57 | 2020-09-30\* | 2021-09-14 |
 | [Mind Warrior \(Beta 13 Hz\)](https://open.spotify.com/track/7yMLsyHDOlIs3LjvEyolv4) | [Shaman](https://open.spotify.com/artist/35P36DZtjEMEP2KOO9759M) | [Binaural Beats For Focus](https://open.spotify.com/album/4EOJ0H7R7LEmsUzu72u9Bt) | 2:59 | 2020-09-30\* | 2021-09-14 |
 | [Mind\-Drift](https://open.spotify.com/track/53sNuDhuyhtVTPNXbk4dEN) | [Steven Goldmund](https://open.spotify.com/artist/3dwkO7z23scCJppeqHGTy3) | [Drift Off](https://open.spotify.com/album/6LMJYwLucOwVe1Nex4vxah) | 4:00 | 2020-09-30\* | 2021-09-14 |
@@ -324,6 +325,7 @@
 | [Patiently](https://open.spotify.com/track/5oHQkijiGG8oxR1FlyfNE1) | [Juno Reed](https://open.spotify.com/artist/5Ouz17H301vQh6K1snZRln) | [Patiently](https://open.spotify.com/album/3fOMieWSJiSkpXlM5l4vgm) | 2:59 | 2021-11-10 |  |
 | [Peace Of Mind](https://open.spotify.com/track/4v8uzYnHfHI4ppZLTqouhp) | [Xiaoming Chu](https://open.spotify.com/artist/3wWsMDO6XVcTyV9IvVhss9) | [Peace Of Mind](https://open.spotify.com/album/4C7Qoi3ymc44BakzPS07OJ) | 2:58 | 2020-09-30\* | 2022-10-01 |
 | [Peaceful Patterns \- Yoga Version](https://open.spotify.com/track/5LvTXUwvXcq348o5LdAVZJ) | [Hatha Priya](https://open.spotify.com/artist/3PrmIS6YRTKENfGH4xf8S6) | [Peaceful Patterns \- Yoga Version](https://open.spotify.com/album/5Ac4LwtFRHKe9j4qHJf9Gk) | 2:49 | 2022-09-13 |  |
+| [Peaceful Sensations](https://open.spotify.com/track/1Lzv93xUuJMP28dDMVPOjm) | [Amara Issawi](https://open.spotify.com/artist/2P9RNRqGbPoYGrT7wQTt8r) | [Peaceful Sensations](https://open.spotify.com/album/444Smw0uIl5I4mJ6CdkRQn) | 2:45 | 2023-12-01 |  |
 | [Peaks](https://open.spotify.com/track/08ZVl6IBiPemNOsVfkoIyv) | [Yves Alija](https://open.spotify.com/artist/6pUJ81I1hkjgVQ6TW448Lw) | [Peaks](https://open.spotify.com/album/2xv2cURnTpq0NdL39xJsCw) | 2:48 | 2022-11-11 |  |
 | [Pegasus](https://open.spotify.com/track/0N08dxkNnilnHjjRhCL9V1) | [Fleurs de Son](https://open.spotify.com/artist/4vlZU5f5zVuZsVk11MeDd3) | [Pegasus](https://open.spotify.com/album/45XW5GtxG6TdPEEgvA7Jul) | 3:31 | 2020-09-30\* | 2021-10-21 |
 | [Perfecta paz](https://open.spotify.com/track/61ZSs7yxiY93XMJ33h4mWK) | [Che Milk](https://open.spotify.com/artist/27eOiRby6feQRgULqf0V8Q) | [Perfecta paz](https://open.spotify.com/album/0ASgTzf5KZiF6A8MawqScN) | 2:59 | 2022-02-09 |  |

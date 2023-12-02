@@ -2602,7 +2602,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 169086,
       "name": "Imagina",
       "url": "https://open.spotify.com/track/3WZtq8zYjeL0xbuSjChnW2"
@@ -3506,7 +3506,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-27",
+      "date_removed": null,
       "duration_ms": 217426,
       "name": "New Light",
       "url": "https://open.spotify.com/track/4T6FWA703h6H7zk1FoSARw"
@@ -4080,6 +4080,24 @@
       "duration_ms": 157708,
       "name": "que mal que tem?",
       "url": "https://open.spotify.com/track/7I0Ysu8M7K8PEYeuhUi0Jl"
+    },
+    {
+      "album": {
+        "name": "Rara Flor",
+        "url": "https://open.spotify.com/album/1qQ4J7PUlwkRrSsA3o9VQc"
+      },
+      "artists": [
+        {
+          "name": "Big Up",
+          "url": "https://open.spotify.com/artist/246xfnz80PngiO9sZubyy0"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141471,
+      "name": "Rara Flor",
+      "url": "https://open.spotify.com/track/4xLiEMTUxYJegJUTRvEAGz"
     },
     {
       "album": {
@@ -4920,7 +4938,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-24",
+      "date_removed": null,
       "duration_ms": 245493,
       "name": "Superstition - Single Version",
       "url": "https://open.spotify.com/track/1h2xVEoJORqrg71HocgqXd"
@@ -5008,7 +5026,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 121800,
       "name": "te vi dan\u00e7ando",
       "url": "https://open.spotify.com/track/4mJ1TB0De5yAGi6QS8UboG"
@@ -5370,7 +5388,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 176239,
       "name": "Tudo Me Lembra Voc\u00ea",
       "url": "https://open.spotify.com/track/3PdwCmtzejJgjjLOEnbSEB"
@@ -5450,6 +5468,32 @@
       "duration_ms": 213693,
       "name": "Two High",
       "url": "https://open.spotify.com/track/3sJHkcxojoJD2Ytbo1yLLF"
+    },
+    {
+      "album": {
+        "name": "T\u00e3o Bem (Atemporal Remix)",
+        "url": "https://open.spotify.com/album/3nPik6VafRjWml3JEbEOBh"
+      },
+      "artists": [
+        {
+          "name": "Lulu Santos",
+          "url": "https://open.spotify.com/artist/0A1oy7PC7fdzURgaLaWkL1"
+        },
+        {
+          "name": "Papatinho",
+          "url": "https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv"
+        },
+        {
+          "name": "Ana Gabriela",
+          "url": "https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148728,
+      "name": "T\u00e3o Bem - Atemporal Remix",
+      "url": "https://open.spotify.com/track/4tVq0nZb8el6tdUvEzvl8N"
     },
     {
       "album": {
@@ -6018,7 +6062,7 @@
       ],
       "date_added": "2023-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 190652,
       "name": "Zero a Cem",
       "url": "https://open.spotify.com/track/5dpDnd3Nnw5dRql80RcI7M"

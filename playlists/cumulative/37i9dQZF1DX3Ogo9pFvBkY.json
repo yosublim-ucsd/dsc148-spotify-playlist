@@ -3371,6 +3371,24 @@
     },
     {
       "album": {
+        "name": "Distant Figures",
+        "url": "https://open.spotify.com/album/6bE4mVz7YDVljT4p87UhK4"
+      },
+      "artists": [
+        {
+          "name": "Jonah Bjoern",
+          "url": "https://open.spotify.com/artist/0BYrqsYWd4pHg2C21k1cBp"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177368,
+      "name": "Distant Figures",
+      "url": "https://open.spotify.com/track/4ykzKgjY6k1bcxixaYMsSy"
+    },
+    {
+      "album": {
         "name": "Weightless Again",
         "url": "https://open.spotify.com/album/66ZFnHFTZ1NcORTEAGX0dG"
       },
@@ -4174,7 +4192,7 @@
       ],
       "date_added": "2021-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 163000,
       "name": "Esthetic",
       "url": "https://open.spotify.com/track/5opY79ADHYjzc0F3jYUqFV"
@@ -11173,6 +11191,24 @@
     },
     {
       "album": {
+        "name": "Spectrum",
+        "url": "https://open.spotify.com/album/1r1HMGVzOqFDiCDpj1dwun"
+      },
+      "artists": [
+        {
+          "name": "Il Sognatore",
+          "url": "https://open.spotify.com/artist/7hmFAgrbDEAAIcGan0kxxM"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193026,
+      "name": "Spectrum",
+      "url": "https://open.spotify.com/track/6MC1ZvviTd531s7EOoZUA7"
+    },
+    {
+      "album": {
         "name": "Distant Echo",
         "url": "https://open.spotify.com/album/7fFn2jrNGSSr8HFXHXzV8y"
       },
@@ -12650,6 +12686,24 @@
       "duration_ms": 152000,
       "name": "Transformation",
       "url": "https://open.spotify.com/track/73YDqwVKSNwtzD9cLyUnKo"
+    },
+    {
+      "album": {
+        "name": "Transparent",
+        "url": "https://open.spotify.com/album/4gsev6Z65lZgE7CJAxGN5Q"
+      },
+      "artists": [
+        {
+          "name": "Airship Express",
+          "url": "https://open.spotify.com/artist/57Inb370WrtJEz0OtdNwiG"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185892,
+      "name": "Transparent",
+      "url": "https://open.spotify.com/track/5eo60GfuidgbhoqrNesiRv"
     },
     {
       "album": {

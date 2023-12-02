@@ -1038,7 +1038,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 146285,
       "name": "Best Of Me",
       "url": "https://open.spotify.com/track/2h9d7KuU0NppMPFiEEXbBx"
@@ -1438,7 +1438,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 239047,
       "name": "buttons!",
       "url": "https://open.spotify.com/track/5ekfEEnkAHxrn2KNvyZg7E"
@@ -2007,6 +2007,28 @@
     },
     {
       "album": {
+        "name": "Dangerous",
+        "url": "https://open.spotify.com/album/27gie4flupqJ5Ht5Y5KzNZ"
+      },
+      "artists": [
+        {
+          "name": "Don Diablo",
+          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
+        },
+        {
+          "name": "Paolo Pellegrino",
+          "url": "https://open.spotify.com/artist/3ewQZ4iDkC9CQzceitueXe"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160320,
+      "name": "Dangerous",
+      "url": "https://open.spotify.com/track/0IPyz9vpoyTB8LfECAasI5"
+    },
+    {
+      "album": {
         "name": "Darkness",
         "url": "https://open.spotify.com/album/4HQYlLQCrkwbLpxAaKhdC2"
       },
@@ -2074,6 +2096,24 @@
       "duration_ms": 245538,
       "name": "Desire",
       "url": "https://open.spotify.com/track/6dpgiVoEttQGpKd763nr4i"
+    },
+    {
+      "album": {
+        "name": "Dirty Blonde",
+        "url": "https://open.spotify.com/album/72p8LFXjfXEHqfmHoHoUDb"
+      },
+      "artists": [
+        {
+          "name": "Westend",
+          "url": "https://open.spotify.com/artist/4epc3Bd0DOBA0kDywkRAsu"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207067,
+      "name": "Dirty Blonde",
+      "url": "https://open.spotify.com/track/4xTFiSi0CmH8hrkMeMGca4"
     },
     {
       "album": {
@@ -2306,6 +2346,32 @@
       "duration_ms": 153276,
       "name": "Don't You Want Me",
       "url": "https://open.spotify.com/track/2FxJX5c1FkfLpladsgoLAD"
+    },
+    {
+      "album": {
+        "name": "Don\u2019t Let Me Let Go (with ILLENIUM & EVAN GIIA)",
+        "url": "https://open.spotify.com/album/7fHe7lst5i6lMPzgoIgwkf"
+      },
+      "artists": [
+        {
+          "name": "Dillon Francis",
+          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
+        },
+        {
+          "name": "ILLENIUM",
+          "url": "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
+        },
+        {
+          "name": "EVAN GIIA",
+          "url": "https://open.spotify.com/artist/0D6BtvIkN3P9GHTa8KR24t"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205479,
+      "name": "Don\u2019t Let Me Let Go (with ILLENIUM & EVAN GIIA)",
+      "url": "https://open.spotify.com/track/1Yqe3VYgjOhhJLtqkla2zc"
     },
     {
       "album": {
@@ -3086,6 +3152,28 @@
       "duration_ms": 217322,
       "name": "Fight For",
       "url": "https://open.spotify.com/track/6F3htwbMYqes3xVs5Vorkm"
+    },
+    {
+      "album": {
+        "name": "Fireflies",
+        "url": "https://open.spotify.com/album/3yOBi1aoViuYXqZmiEqqSM"
+      },
+      "artists": [
+        {
+          "name": "LUM!X",
+          "url": "https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy"
+        },
+        {
+          "name": "Jordan Rys",
+          "url": "https://open.spotify.com/artist/7voVuewp9js4Ru1FQCw2RI"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143117,
+      "name": "Fireflies",
+      "url": "https://open.spotify.com/track/2XJSKm7Ie15xQnoP1bY0Fp"
     },
     {
       "album": {
@@ -3928,7 +4016,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 131538,
       "name": "Hands Up",
       "url": "https://open.spotify.com/track/3WCxK21BE4ar25o8hYUsWn"
@@ -4690,7 +4778,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 192016,
       "name": "I'm My Only Friend (feat. Arden Jones)",
       "url": "https://open.spotify.com/track/7gOxYYw4HKBa89vAAagh9q"
@@ -4910,7 +4998,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 192619,
       "name": "It Burns",
       "url": "https://open.spotify.com/track/1ErBChhaYaWQuQ4zdnnx8C"
@@ -5074,7 +5162,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 170884,
       "name": "Keep Me Blind",
       "url": "https://open.spotify.com/track/2tsce0GARrjCB9RCOZJjH5"
@@ -6474,7 +6562,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 182769,
       "name": "Motor",
       "url": "https://open.spotify.com/track/59YkyPuZCXyiLmcmSNKRtH"
@@ -9923,6 +10011,24 @@
     },
     {
       "album": {
+        "name": "Still Fall",
+        "url": "https://open.spotify.com/album/74e6pSi6iXw7TMut1Utb0f"
+      },
+      "artists": [
+        {
+          "name": "Felix Jaehn",
+          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209102,
+      "name": "Still Fall",
+      "url": "https://open.spotify.com/track/3JG1pGENyNtrVyPd1VPhN4"
+    },
+    {
+      "album": {
         "name": "Summer.mp3",
         "url": "https://open.spotify.com/album/4PEgglaiWfxpCVatyQiCR9"
       },
@@ -9978,7 +10084,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 207360,
       "name": "Superhero",
       "url": "https://open.spotify.com/track/2vm52EstTRxGsvQ44gEFRL"
@@ -10326,6 +10432,44 @@
       "duration_ms": 171428,
       "name": "Tell Me Why - MEDUZA Remix",
       "url": "https://open.spotify.com/track/7jrMFjEq0t09f7m3HnnWXl"
+    },
+    {
+      "album": {
+        "name": "Thank You (Not So Bad)",
+        "url": "https://open.spotify.com/album/1J7XItLnNLegigdh4AjGKN"
+      },
+      "artists": [
+        {
+          "name": "Dimitri Vegas & Like Mike",
+          "url": "https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk"
+        },
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "Dido",
+          "url": "https://open.spotify.com/artist/2mpeljBig2IXLXRAFO9AAs"
+        },
+        {
+          "name": "W&W",
+          "url": "https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4"
+        },
+        {
+          "name": "Dimitri Vegas",
+          "url": "https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO"
+        },
+        {
+          "name": "Like Mike",
+          "url": "https://open.spotify.com/artist/4pwXiI7Z5ZStkgKowZyoKi"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140000,
+      "name": "Thank You (Not So Bad)",
+      "url": "https://open.spotify.com/track/09CnYHiZ5jGT1wr1TXJ9Zt"
     },
     {
       "album": {
@@ -10726,6 +10870,28 @@
       "duration_ms": 159404,
       "name": "This Is Our Legacy",
       "url": "https://open.spotify.com/track/32aKImKoiukzUxnWENXJXb"
+    },
+    {
+      "album": {
+        "name": "This Is What It Feels Like (Armin van Buuren 2023 Remix)",
+        "url": "https://open.spotify.com/album/1PYA8Uh3CwoUSuXtMrHhBL"
+      },
+      "artists": [
+        {
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        },
+        {
+          "name": "Trevor Guthrie",
+          "url": "https://open.spotify.com/artist/6NXk2pLFocS2OkNdT7ncBt"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219172,
+      "name": "This Is What It Feels Like - Armin van Buuren 2023 Remix",
+      "url": "https://open.spotify.com/track/2PnJd0B9YdOPvo96av2xJK"
     },
     {
       "album": {
@@ -11952,6 +12118,28 @@
       "duration_ms": 143055,
       "name": "WOW (feat. \u00c1SD\u00cdS)",
       "url": "https://open.spotify.com/track/318quSv1UJeamoAkEDjAuY"
+    },
+    {
+      "album": {
+        "name": "Written In The Sky",
+        "url": "https://open.spotify.com/album/55oKYr6Exi5r5PrHoOttjP"
+      },
+      "artists": [
+        {
+          "name": "Justin Mylo",
+          "url": "https://open.spotify.com/artist/7MFJyevu6jq0shwDuVLymu"
+        },
+        {
+          "name": "Jordan Shaw",
+          "url": "https://open.spotify.com/artist/6Z8vLeI1ZMj2kzTNWVOBXr"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230654,
+      "name": "Written In The Sky",
+      "url": "https://open.spotify.com/track/0vhatQLu9GSIIGDaREdvzi"
     },
     {
       "album": {

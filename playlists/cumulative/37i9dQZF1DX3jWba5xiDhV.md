@@ -4,7 +4,7 @@
 
 > When the dance floor calls your name, that's amore.
 
-169 songs - 14 hr 33 min
+170 songs - 14 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,7 @@
 | [Baby I Love You](https://open.spotify.com/track/0GpbUTVkLhMb200mH8WBOW) | [Easy Going](https://open.spotify.com/artist/3t1n3uomLdEAVdSc5WkVf1) | [Baby I Love You \(Original\) \- Single](https://open.spotify.com/album/7LZpZKT1adV23tV8AJe44U) | 8:23 | 2022-02-11 |  |
 | [Baila Bolero \- Marc Hartman Remix](https://open.spotify.com/track/35FPjkNAkXdp8cXgh6gBfH) | [Fun Fun](https://open.spotify.com/artist/44NpcgfV0tBVBVNzmtUBhZ), [Marc Hartman](https://open.spotify.com/artist/2ACJgAEcjpSAqR2TyGluyS) | [Baila Bolero \(Marc Hartman Remix\)](https://open.spotify.com/album/0xC161DAv1bnh3s2zYTFo4) | 5:00 | 2022-07-01 |  |
 | [Balla Ba](https://open.spotify.com/track/2DKZPAMk7EGSTjuInmNvZs) | [Franco Califano](https://open.spotify.com/artist/1Bkzb6WJ348VTlTrnJuqIz) | [Tac..!](https://open.spotify.com/album/6lIILYU3br7OMkgz8k9zMT) | 3:56 | 2022-02-11 |  |
-| [Bambina \(Original 12\-Inch Version\)](https://open.spotify.com/track/4x4Ip4xOCRGIBNsts7GUBD) | [David Lyme](https://open.spotify.com/artist/7dkuwtOl8Y2O2fcWy1vtV1) | [Bambina c/o Bye Bye Mi Amor](https://open.spotify.com/album/1fA8zx1Var0vhNP2uqMfcb) | 5:31 | 2022-07-01 |  |
+| [Bambina \(Original 12\-Inch Version\)](https://open.spotify.com/track/4x4Ip4xOCRGIBNsts7GUBD) | [David Lyme](https://open.spotify.com/artist/7dkuwtOl8Y2O2fcWy1vtV1) | [Bambina c/o Bye Bye Mi Amor](https://open.spotify.com/album/1fA8zx1Var0vhNP2uqMfcb) | 5:31 | 2022-07-01 | 2023-12-02 |
 | [Barbara](https://open.spotify.com/track/7vJs8fgxF2ONlzaIApPadv) | [Enzo Carella](https://open.spotify.com/artist/5OJ0DNeHpHq7b6fHWRaPp9) | [Barbara e altri Carella](https://open.spotify.com/album/21F0EWtwLcajf9MFKn1Tdo) | 4:06 | 2022-02-11 |  |
 | [Battle Stars \- K\-Effect Remix](https://open.spotify.com/track/0wsHHSPg9NEtE2fhrtTRh8) | [O'Cardio](https://open.spotify.com/artist/1sIh3c4omj8OL4Btx4EzBk), [K Effect](https://open.spotify.com/artist/2xXk1wjFbm9VJqhgbBoHRF) | [Battle Stars](https://open.spotify.com/album/5c5aLDIF1gEtwA9vghedm4) | 7:01 | 2022-02-11 | 2022-03-22 |
 | [Bluff Dance](https://open.spotify.com/track/6KDdJNlNKVelfAFJyeCkm9) | [Relmer](https://open.spotify.com/artist/2hxnHvKjsAHCGzsXTCKuvy) | [Relmer International](https://open.spotify.com/album/6QyBzCaQ52iUvfAV3RQuk5) | 5:48 | 2022-02-11 | 2022-07-29 |
@@ -46,6 +46,7 @@
 | [Disco For The Devil \- In Flagranti Mix](https://open.spotify.com/track/2fe70PK4YkLz893W4V59Vo) | [Bottin](https://open.spotify.com/artist/5raxAhTYYjNAtPT1mq3a2L), [In Flagranti](https://open.spotify.com/artist/7JmWc7RWsx9ga8HNet7sjx) | [Disco For The Devil](https://open.spotify.com/album/0IxnTpmpMu7e1CgHneUydz) | 6:30 | 2022-02-11 | 2022-07-27 |
 | [Disco Sole](https://open.spotify.com/track/4shVjgoOMa73JgBtZIDDz4) | [Nu Genea](https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ) | [Nuova Napoli](https://open.spotify.com/album/1NuMP2jrBeyxR3MqwengWD) | 4:23 | 2022-02-11 |  |
 | [Dolce Vita](https://open.spotify.com/track/2fv6Qeb7Z3uaqBeYINvJ0f) | [Ryan Paris](https://open.spotify.com/artist/3nRifdQMP5925XSkIN07oC) | [Ryan Paris](https://open.spotify.com/album/0xec3z3OhfBWG12UaFaz3t) | 3:49 | 2022-02-11 |  |
+| [E mò e mò \- Mixed By Erry Remix \(Radio Edit\)](https://open.spotify.com/track/0NOhqNiNfdtAWZdCYcu7K0) | [Peppino Di Capri](https://open.spotify.com/artist/4zg9VA3wNR2KFwpvPabqa4), [Mixed By Erry](https://open.spotify.com/artist/7vdZ66oXssJ9V5kNRE37UN) | [E mò e mò \(Mixed By Erry Remix\)](https://open.spotify.com/album/3oEAlLpsfnwQzGWH0kq4HA) | 3:12 | 2023-12-01 |  |
 | [Easy Lady](https://open.spotify.com/track/2ZMYFhiMAh41d01lB0KB6z) | [Ivana Spagna](https://open.spotify.com/artist/6RA9iJdNW5Lt7xTJhUBAno) | [Spagna & Spagna Greatest Hits](https://open.spotify.com/album/0k09ZVEEo2Kx1vusc1KB8b) | 4:51 | 2022-02-11 | 2022-03-22 |
 | [Electric Baile \- Enzo Elia Vocal Edit](https://open.spotify.com/track/1GCzhYzCo1FI08ixz1zVSn) | [Master Plan](https://open.spotify.com/artist/1jkQG6DsvVpiqACsIrPDKl), [Pepper Gomez](https://open.spotify.com/artist/3yw76fAoSQa5UNu4HXdZmF), [Enzo Elia](https://open.spotify.com/artist/0DY1hXIhEQqRJU9wDoHHu1) | [Electric Baile / Pushin' Too Hard \(Gerd Janson & Enzo Elia Edits\)](https://open.spotify.com/album/1xyEt7Vp57IFy1xrsyI2eV) | 5:22 | 2022-02-11 | 2022-08-19 |
 | [Enough! \- The Juan MacLean Remix](https://open.spotify.com/track/3EaXSUO5riDiAMLn7E3nu5) | [New World](https://open.spotify.com/artist/1qvooSyrog4MmPeRMADEeD), [The Juan Maclean](https://open.spotify.com/artist/7gG6LkU3pCSQmCIPR4aSBt) | [Souvenirs](https://open.spotify.com/album/0BYYRixh7rMvIQ3eUxNPRu) | 6:39 | 2022-02-11 | 2022-07-29 |

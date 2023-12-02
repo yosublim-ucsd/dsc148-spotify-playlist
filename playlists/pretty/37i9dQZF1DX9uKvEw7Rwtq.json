@@ -1,12 +1,12 @@
 {
   "description": "Soaring soundscapes from the most epic Post-Rock artists.",
-  "num_followers": 85605,
+  "num_followers": 85681,
   "original_name": "Ambient Post-Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MmJkOWQ1NTQ1Zjk0ZTZmYzQzZjJjYTVlOTg2OGU5NjY5NzYzMTY0",
+  "snapshot_id": "MCxlMWFjYmU2NzU2MGJmMTFiM2IzOWE1MDg3ZWExMjU4ZjU1MDMyZTRh",
   "tracks": [
     {
       "added_at": "2023-11-16 12:00:22",
@@ -403,22 +403,6 @@
     {
       "added_at": "2023-11-16 12:00:22",
       "album": {
-        "name": "Reanimation",
-        "url": "https://open.spotify.com/album/6L0fhAi5G9zXbmFelO96Zy"
-      },
-      "artists": [
-        {
-          "name": "Lights & Motion",
-          "url": "https://open.spotify.com/artist/3ff1CmU6qfTqRAmdrq8EEG"
-        }
-      ],
-      "duration_ms": 132472,
-      "name": "Requiem",
-      "url": "https://open.spotify.com/track/6M8tLLip6IdSyr8unJMFxP"
-    },
-    {
-      "added_at": "2023-11-16 12:00:22",
-      "album": {
         "name": "Passage",
         "url": "https://open.spotify.com/album/5KFRuWDL0crUoNfvBqMFyw"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 347636,
       "name": "Passage",
       "url": "https://open.spotify.com/track/1qjepM8Kvr049e9gE1fkdm"
+    },
+    {
+      "added_at": "2023-11-16 12:00:22",
+      "album": {
+        "name": "Reanimation",
+        "url": "https://open.spotify.com/album/6L0fhAi5G9zXbmFelO96Zy"
+      },
+      "artists": [
+        {
+          "name": "Lights & Motion",
+          "url": "https://open.spotify.com/artist/3ff1CmU6qfTqRAmdrq8EEG"
+        }
+      ],
+      "duration_ms": 132472,
+      "name": "Requiem",
+      "url": "https://open.spotify.com/track/6M8tLLip6IdSyr8unJMFxP"
     },
     {
       "added_at": "2023-11-16 12:00:22",
@@ -751,22 +751,6 @@
     {
       "added_at": "2023-11-16 12:00:22",
       "album": {
-        "name": "nothing is real, part XI",
-        "url": "https://open.spotify.com/album/09Z8BtKPBmpHhKoLzwCWvD"
-      },
-      "artists": [
-        {
-          "name": "my head is empty",
-          "url": "https://open.spotify.com/artist/7pxIYxdkx2675ZGKSAPBAy"
-        }
-      ],
-      "duration_ms": 187406,
-      "name": "i meet myself, again",
-      "url": "https://open.spotify.com/track/5OBR6IOU4nsn35cK6HThVr"
-    },
-    {
-      "added_at": "2023-11-16 12:00:22",
-      "album": {
         "name": "Looking at the World Through a Window",
         "url": "https://open.spotify.com/album/5uSadjfUdEaWhB1zs4m3TQ"
       },
@@ -783,18 +767,18 @@
     {
       "added_at": "2023-11-16 12:00:22",
       "album": {
-        "name": "Pure Phase",
-        "url": "https://open.spotify.com/album/1J5p5XuDMtA49FRmp7UK1a"
+        "name": "nothing is real, part XI",
+        "url": "https://open.spotify.com/album/09Z8BtKPBmpHhKoLzwCWvD"
       },
       "artists": [
         {
-          "name": "Spiritualized",
-          "url": "https://open.spotify.com/artist/6DKmuXxXASTF6xaJwcTfjv"
+          "name": "my head is empty",
+          "url": "https://open.spotify.com/artist/7pxIYxdkx2675ZGKSAPBAy"
         }
       ],
-      "duration_ms": 232266,
-      "name": "The Slide Song",
-      "url": "https://open.spotify.com/track/3V4rZhVqZ4EcaagkxUaqn0"
+      "duration_ms": 187406,
+      "name": "i meet myself, again",
+      "url": "https://open.spotify.com/track/5OBR6IOU4nsn35cK6HThVr"
     },
     {
       "added_at": "2023-11-16 12:00:22",
@@ -811,6 +795,22 @@
       "duration_ms": 203012,
       "name": "The Sun In The Trees",
       "url": "https://open.spotify.com/track/6lowTdwj7REPPWwq7xExRS"
+    },
+    {
+      "added_at": "2023-11-16 12:00:22",
+      "album": {
+        "name": "Pure Phase",
+        "url": "https://open.spotify.com/album/1J5p5XuDMtA49FRmp7UK1a"
+      },
+      "artists": [
+        {
+          "name": "Spiritualized",
+          "url": "https://open.spotify.com/artist/6DKmuXxXASTF6xaJwcTfjv"
+        }
+      ],
+      "duration_ms": 232266,
+      "name": "The Slide Song",
+      "url": "https://open.spotify.com/track/3V4rZhVqZ4EcaagkxUaqn0"
     },
     {
       "added_at": "2023-11-16 12:00:22",
@@ -847,6 +847,22 @@
     {
       "added_at": "2023-11-16 12:00:22",
       "album": {
+        "name": "Chronos",
+        "url": "https://open.spotify.com/album/4w6Khg9vi5Dsw9Si0M8fxn"
+      },
+      "artists": [
+        {
+          "name": "Ausklang",
+          "url": "https://open.spotify.com/artist/1ZcJinECNbDAgjHi91jf8Z"
+        }
+      ],
+      "duration_ms": 355360,
+      "name": "Abschied",
+      "url": "https://open.spotify.com/track/5l0a62AwHR4Im5HZ7uhMAy"
+    },
+    {
+      "added_at": "2023-11-16 12:00:22",
+      "album": {
         "name": "This Patch of Sky",
         "url": "https://open.spotify.com/album/1SADIGwbbHfTihT6DryNQM"
       },
@@ -859,22 +875,6 @@
       "duration_ms": 282981,
       "name": "Love Is in Beauty and Chaos",
       "url": "https://open.spotify.com/track/1vztv9K1JVzRzTT1d98aPN"
-    },
-    {
-      "added_at": "2023-11-16 12:00:22",
-      "album": {
-        "name": "Succour (Redux)",
-        "url": "https://open.spotify.com/album/0ZFh0hss22TukAygB7LufU"
-      },
-      "artists": [
-        {
-          "name": "Seefeel",
-          "url": "https://open.spotify.com/artist/0jyH4jtanxaysaxwDVhR6f"
-        }
-      ],
-      "duration_ms": 393195,
-      "name": "Monastic",
-      "url": "https://open.spotify.com/track/6hZtYl0fhKYJ3ptc6DiLnL"
     },
     {
       "added_at": "2023-11-16 12:00:22",
@@ -911,6 +911,22 @@
     {
       "added_at": "2023-11-16 12:00:22",
       "album": {
+        "name": "Succour (Redux)",
+        "url": "https://open.spotify.com/album/0ZFh0hss22TukAygB7LufU"
+      },
+      "artists": [
+        {
+          "name": "Seefeel",
+          "url": "https://open.spotify.com/artist/0jyH4jtanxaysaxwDVhR6f"
+        }
+      ],
+      "duration_ms": 393195,
+      "name": "Monastic",
+      "url": "https://open.spotify.com/track/6hZtYl0fhKYJ3ptc6DiLnL"
+    },
+    {
+      "added_at": "2023-11-16 12:00:22",
+      "album": {
         "name": "The American Dollar",
         "url": "https://open.spotify.com/album/3t9U8bBmsP58lh36ujoweF"
       },
@@ -923,22 +939,6 @@
       "duration_ms": 199813,
       "name": "Peterson",
       "url": "https://open.spotify.com/track/7gfMja30N1mYv2P0RWRXyE"
-    },
-    {
-      "added_at": "2023-11-16 12:00:22",
-      "album": {
-        "name": "Chronos",
-        "url": "https://open.spotify.com/album/4w6Khg9vi5Dsw9Si0M8fxn"
-      },
-      "artists": [
-        {
-          "name": "Ausklang",
-          "url": "https://open.spotify.com/artist/1ZcJinECNbDAgjHi91jf8Z"
-        }
-      ],
-      "duration_ms": 355360,
-      "name": "Abschied",
-      "url": "https://open.spotify.com/track/5l0a62AwHR4Im5HZ7uhMAy"
     },
     {
       "added_at": "2023-11-16 12:00:22",
@@ -975,22 +975,6 @@
     {
       "added_at": "2023-11-16 12:00:22",
       "album": {
-        "name": "Dust Bowl",
-        "url": "https://open.spotify.com/album/7JdA2JLTWnDf0IQfqALmN5"
-      },
-      "artists": [
-        {
-          "name": "The Aquaerials",
-          "url": "https://open.spotify.com/artist/4SSLrpx3uzgl5PYQLMzyFc"
-        }
-      ],
-      "duration_ms": 364166,
-      "name": "Dust Bowl",
-      "url": "https://open.spotify.com/track/4fL6NIQ4BxZuxotGZWORgM"
-    },
-    {
-      "added_at": "2023-11-16 12:00:22",
-      "album": {
         "name": "Enfold",
         "url": "https://open.spotify.com/album/3URn9GW2uXY7mTXLXs89oS"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 226760,
       "name": "Enfold",
       "url": "https://open.spotify.com/track/28NPBeo0MgVDYCJnu2C5Hq"
+    },
+    {
+      "added_at": "2023-11-16 12:00:22",
+      "album": {
+        "name": "Dust Bowl",
+        "url": "https://open.spotify.com/album/7JdA2JLTWnDf0IQfqALmN5"
+      },
+      "artists": [
+        {
+          "name": "The Aquaerials",
+          "url": "https://open.spotify.com/artist/4SSLrpx3uzgl5PYQLMzyFc"
+        }
+      ],
+      "duration_ms": 364166,
+      "name": "Dust Bowl",
+      "url": "https://open.spotify.com/track/4fL6NIQ4BxZuxotGZWORgM"
     },
     {
       "added_at": "2023-11-16 12:00:22",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2023-11-16 12:00:22",
       "album": {
-        "name": "Dreamer",
-        "url": "https://open.spotify.com/album/1faB36WLHliVa6xqjzTtcu"
-      },
-      "artists": [
-        {
-          "name": "Pray for Sound",
-          "url": "https://open.spotify.com/artist/3pmb6EnakP15oTPwkUndJx"
-        }
-      ],
-      "duration_ms": 332293,
-      "name": "Sleeper",
-      "url": "https://open.spotify.com/track/6BaIyArPOHgL2tvLFJ2mws"
-    },
-    {
-      "added_at": "2023-11-16 12:00:22",
-      "album": {
         "name": "Love in the Void",
         "url": "https://open.spotify.com/album/1zlinQtrWot4RrBtxB4UTX"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 392374,
       "name": "I Would Stare into the Sun with You Forever",
       "url": "https://open.spotify.com/track/4KS0VLY87D2eHBhuvYoUDc"
+    },
+    {
+      "added_at": "2023-11-16 12:00:22",
+      "album": {
+        "name": "Dreamer",
+        "url": "https://open.spotify.com/album/1faB36WLHliVa6xqjzTtcu"
+      },
+      "artists": [
+        {
+          "name": "Pray for Sound",
+          "url": "https://open.spotify.com/artist/3pmb6EnakP15oTPwkUndJx"
+        }
+      ],
+      "duration_ms": 332293,
+      "name": "Sleeper",
+      "url": "https://open.spotify.com/track/6BaIyArPOHgL2tvLFJ2mws"
     },
     {
       "added_at": "2023-11-16 12:00:22",
@@ -1231,18 +1231,22 @@
     {
       "added_at": "2023-11-16 12:00:22",
       "album": {
-        "name": "The Blurred Horizon",
-        "url": "https://open.spotify.com/album/5dV6WbZFE6pFBDty0iSHLi"
+        "name": "Love is a Shelter",
+        "url": "https://open.spotify.com/album/3fXswSDp0atec4RaaQxfwX"
       },
       "artists": [
         {
-          "name": "Tuesday The Sky",
-          "url": "https://open.spotify.com/artist/2uRoyJPNj6VqsIYhRQSa6Q"
+          "name": "All Stars Dying",
+          "url": "https://open.spotify.com/artist/28J3Xc87YW3bb8e5iWptNP"
+        },
+        {
+          "name": "Make Like A Tree",
+          "url": "https://open.spotify.com/artist/2FcYVCAttLCTrobIOwkxsk"
         }
       ],
-      "duration_ms": 236792,
-      "name": "The Blurred Horizon",
-      "url": "https://open.spotify.com/track/3VabinWYofsmVNxaqwEtaM"
+      "duration_ms": 360006,
+      "name": "Love is a Shelter",
+      "url": "https://open.spotify.com/track/1uPfdyNjqHB46zGj7CWoyk"
     },
     {
       "added_at": "2023-11-16 12:00:22",
@@ -1263,6 +1267,22 @@
       "duration_ms": 262285,
       "name": "Dusk",
       "url": "https://open.spotify.com/track/3iGE1kGYpyDTHVSVTS55os"
+    },
+    {
+      "added_at": "2023-11-16 12:00:22",
+      "album": {
+        "name": "The Blurred Horizon",
+        "url": "https://open.spotify.com/album/5dV6WbZFE6pFBDty0iSHLi"
+      },
+      "artists": [
+        {
+          "name": "Tuesday The Sky",
+          "url": "https://open.spotify.com/artist/2uRoyJPNj6VqsIYhRQSa6Q"
+        }
+      ],
+      "duration_ms": 236792,
+      "name": "The Blurred Horizon",
+      "url": "https://open.spotify.com/track/3VabinWYofsmVNxaqwEtaM"
     },
     {
       "added_at": "2023-11-16 12:00:22",
@@ -1299,22 +1319,6 @@
     {
       "added_at": "2023-11-16 12:00:22",
       "album": {
-        "name": "Home",
-        "url": "https://open.spotify.com/album/0qYTcGFEUHoPldbtmQS7Ig"
-      },
-      "artists": [
-        {
-          "name": "From Overseas",
-          "url": "https://open.spotify.com/artist/31PP2XORcCMGHAa8vzJEUV"
-        }
-      ],
-      "duration_ms": 230000,
-      "name": "Astronomer",
-      "url": "https://open.spotify.com/track/19XzE3XTdm2wwA6Y5OnK5L"
-    },
-    {
-      "added_at": "2023-11-16 12:00:22",
-      "album": {
         "name": "Nova",
         "url": "https://open.spotify.com/album/442jVeJ7yvYb1EiTcrKc7f"
       },
@@ -1347,38 +1351,18 @@
     {
       "added_at": "2023-11-16 12:00:22",
       "album": {
-        "name": "Love is a Shelter",
-        "url": "https://open.spotify.com/album/3fXswSDp0atec4RaaQxfwX"
+        "name": "Home",
+        "url": "https://open.spotify.com/album/0qYTcGFEUHoPldbtmQS7Ig"
       },
       "artists": [
         {
-          "name": "All Stars Dying",
-          "url": "https://open.spotify.com/artist/28J3Xc87YW3bb8e5iWptNP"
-        },
-        {
-          "name": "Make Like A Tree",
-          "url": "https://open.spotify.com/artist/2FcYVCAttLCTrobIOwkxsk"
+          "name": "From Overseas",
+          "url": "https://open.spotify.com/artist/31PP2XORcCMGHAa8vzJEUV"
         }
       ],
-      "duration_ms": 360006,
-      "name": "Love is a Shelter",
-      "url": "https://open.spotify.com/track/1uPfdyNjqHB46zGj7CWoyk"
-    },
-    {
-      "added_at": "2023-11-16 12:00:22",
-      "album": {
-        "name": "Cura",
-        "url": "https://open.spotify.com/album/2Eln7i165wjr38KNPIrzSU"
-      },
-      "artists": [
-        {
-          "name": "Call the Ocean",
-          "url": "https://open.spotify.com/artist/4EKrAbJrw0NND9p13uhYAr"
-        }
-      ],
-      "duration_ms": 439449,
-      "name": "Cura",
-      "url": "https://open.spotify.com/track/2jxIRC8w0dO8jfEVMs37On"
+      "duration_ms": 230000,
+      "name": "Astronomer",
+      "url": "https://open.spotify.com/track/19XzE3XTdm2wwA6Y5OnK5L"
     },
     {
       "added_at": "2023-11-16 12:00:22",
@@ -1403,6 +1387,38 @@
     {
       "added_at": "2023-11-16 12:00:22",
       "album": {
+        "name": "Cura",
+        "url": "https://open.spotify.com/album/2Eln7i165wjr38KNPIrzSU"
+      },
+      "artists": [
+        {
+          "name": "Call the Ocean",
+          "url": "https://open.spotify.com/artist/4EKrAbJrw0NND9p13uhYAr"
+        }
+      ],
+      "duration_ms": 439449,
+      "name": "Cura",
+      "url": "https://open.spotify.com/track/2jxIRC8w0dO8jfEVMs37On"
+    },
+    {
+      "added_at": "2023-11-16 12:00:22",
+      "album": {
+        "name": "Lakeshore",
+        "url": "https://open.spotify.com/album/1YgvjkUsjMJbJGxcvun4RM"
+      },
+      "artists": [
+        {
+          "name": "Lost Horse Mine",
+          "url": "https://open.spotify.com/artist/6IAXzJ1w04k1y0IoDujIBV"
+        }
+      ],
+      "duration_ms": 164589,
+      "name": "Lakeshore",
+      "url": "https://open.spotify.com/track/3HGFKsehiopbAKGrzWVjGc"
+    },
+    {
+      "added_at": "2023-11-16 12:00:22",
+      "album": {
         "name": "As She Bends Towards the Sun",
         "url": "https://open.spotify.com/album/0QAn5hfWiRk6VqAAmp8sF7"
       },
@@ -1415,22 +1431,6 @@
       "duration_ms": 287388,
       "name": "As She Bends Towards the Sun",
       "url": "https://open.spotify.com/track/4cOjEjKJjIefvdz66ejMOc"
-    },
-    {
-      "added_at": "2023-11-16 12:00:22",
-      "album": {
-        "name": "Offworld",
-        "url": "https://open.spotify.com/album/6tpZaw2NgfCBdGNHVaflwe"
-      },
-      "artists": [
-        {
-          "name": "Cahill Costello",
-          "url": "https://open.spotify.com/artist/2Hx8lclV6wl5gP4ronSGWm"
-        }
-      ],
-      "duration_ms": 481560,
-      "name": "Pavan II",
-      "url": "https://open.spotify.com/track/0RpvzpYNOegtn3k6MxiXav"
     },
     {
       "added_at": "2023-11-16 12:00:22",
@@ -1451,18 +1451,18 @@
     {
       "added_at": "2023-11-16 12:00:22",
       "album": {
-        "name": "Lakeshore",
-        "url": "https://open.spotify.com/album/1YgvjkUsjMJbJGxcvun4RM"
+        "name": "Offworld",
+        "url": "https://open.spotify.com/album/6tpZaw2NgfCBdGNHVaflwe"
       },
       "artists": [
         {
-          "name": "Lost Horse Mine",
-          "url": "https://open.spotify.com/artist/6IAXzJ1w04k1y0IoDujIBV"
+          "name": "Cahill Costello",
+          "url": "https://open.spotify.com/artist/2Hx8lclV6wl5gP4ronSGWm"
         }
       ],
-      "duration_ms": 164589,
-      "name": "Lakeshore",
-      "url": "https://open.spotify.com/track/3HGFKsehiopbAKGrzWVjGc"
+      "duration_ms": 481560,
+      "name": "Pavan II",
+      "url": "https://open.spotify.com/track/0RpvzpYNOegtn3k6MxiXav"
     },
     {
       "added_at": "2023-11-16 12:00:22",
@@ -1615,6 +1615,22 @@
     {
       "added_at": "2023-11-16 12:00:22",
       "album": {
+        "name": "Barren",
+        "url": "https://open.spotify.com/album/1wLiK2y7Ahf0p4gzmY5oZN"
+      },
+      "artists": [
+        {
+          "name": "McLarnan",
+          "url": "https://open.spotify.com/artist/0SQZ2Dcu8oLoNZs6Pwqrwt"
+        }
+      ],
+      "duration_ms": 616188,
+      "name": "Barren",
+      "url": "https://open.spotify.com/track/7kzMC5fRkZQjjF5jeW02HE"
+    },
+    {
+      "added_at": "2023-11-16 12:00:22",
+      "album": {
         "name": "In a Sad Red Dusk, We Were Finally Leaving",
         "url": "https://open.spotify.com/album/5kaGO4pw3kdASdMgve60vR"
       },
@@ -1635,34 +1651,18 @@
     {
       "added_at": "2023-11-16 12:00:22",
       "album": {
-        "name": "Barren",
-        "url": "https://open.spotify.com/album/1wLiK2y7Ahf0p4gzmY5oZN"
+        "name": "Northwarder",
+        "url": "https://open.spotify.com/album/43p0klhjyFgB5XOWqwsmku"
       },
       "artists": [
         {
-          "name": "McLarnan",
-          "url": "https://open.spotify.com/artist/0SQZ2Dcu8oLoNZs6Pwqrwt"
+          "name": "Cursebitten",
+          "url": "https://open.spotify.com/artist/77advwCNdJgfdi3QR8BF38"
         }
       ],
-      "duration_ms": 616188,
-      "name": "Barren",
-      "url": "https://open.spotify.com/track/7kzMC5fRkZQjjF5jeW02HE"
-    },
-    {
-      "added_at": "2023-11-16 12:00:22",
-      "album": {
-        "name": "I Wonder As I Wander",
-        "url": "https://open.spotify.com/album/375PRwWW8KXDcpiNBJMVNg"
-      },
-      "artists": [
-        {
-          "name": "Deerhoof",
-          "url": "https://open.spotify.com/artist/7AZwAitWq1KcFoIJhRWb6V"
-        }
-      ],
-      "duration_ms": 136846,
-      "name": "I Wonder As I Wander",
-      "url": "https://open.spotify.com/track/1WUI79LofTPndZDTs8r7dU"
+      "duration_ms": 211418,
+      "name": "The Biting Air, the Howling Wind",
+      "url": "https://open.spotify.com/track/3uVEwa1M8LSuDd6kR845SW"
     }
   ],
   "unique_name": "Ambient Post-Rock",

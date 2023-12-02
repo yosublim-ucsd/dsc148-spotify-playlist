@@ -1,12 +1,12 @@
 {
   "description": "The best new music from the wide world of punk. Cover: Alkaline Trio",
-  "num_followers": 298027,
+  "num_followers": 298056,
   "original_name": "All New Punk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NzFkZWRjMDk2YzBhMzA3OTljOGY4NjlkZGI1MGE5ZTVkOTViMjg1",
+  "snapshot_id": "MCxhMzcxYzE0OGJmOTFmNzY2ZjBlODVmMmRkYmQ2NDg3ZTkzOWRmY2Fk",
   "tracks": [
     {
       "added_at": "2023-12-01 00:00:00",
@@ -27,6 +27,30 @@
       "duration_ms": 133256,
       "name": "blame me for everything",
       "url": "https://open.spotify.com/track/5gdiHedipHaBBXcp7TkPmK"
+    },
+    {
+      "added_at": "2023-12-01 00:00:00",
+      "album": {
+        "name": "Don't Tempt Me Baby...",
+        "url": "https://open.spotify.com/album/6y5G5DVYchSEwlFui34a4N"
+      },
+      "artists": [
+        {
+          "name": "First and Forever",
+          "url": "https://open.spotify.com/artist/4yoepOpyKCDc3xDj0fX21r"
+        },
+        {
+          "name": "Magnolia Park",
+          "url": "https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY"
+        },
+        {
+          "name": "Joshua Roberts",
+          "url": "https://open.spotify.com/artist/5KrUtVY5gE9p9U52TT42rR"
+        }
+      ],
+      "duration_ms": 156395,
+      "name": "Don't Tempt Me Baby...",
+      "url": "https://open.spotify.com/track/1qWdq5lpytNveivQlgs1fq"
     },
     {
       "added_at": "2023-12-01 00:00:00",

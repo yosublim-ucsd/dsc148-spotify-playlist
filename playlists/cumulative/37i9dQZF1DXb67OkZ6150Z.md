@@ -4,7 +4,7 @@
 
 > Songs you love with an indie spin on it\. Cover: Arlo Parks
 
-424 songs - 1 day 2 hr 2 min
+425 songs - 1 day 2 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,7 +106,7 @@
 | [Don't Speak](https://open.spotify.com/track/5GFOBEhxOYCG2yM8vBgtdD) | [Leela James](https://open.spotify.com/artist/5sennRot4Ls82wfspEQuf2) | [A Change Is Gonna Come \(U.S\. Release\)](https://open.spotify.com/album/1PI1juIuPm3zq1nIOBJl5S) | 4:43 | 2021-03-12 | 2022-04-10 |
 | [Don't You Want Me](https://open.spotify.com/track/0bmDpMruiJpzV5eQ92W0Lq) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt), [The Weather Station](https://open.spotify.com/artist/39ZEMGRv3pIYTYKEhr4Abu) | [The Secret Life Of Walter Mitty \(Music From And Inspired By The Motion Picture\)](https://open.spotify.com/album/4zSB5nqKVh9jQcRByMUcMG) | 3:19 | 2021-03-12 | 2022-08-10 |
 | [Don't You Want Me](https://open.spotify.com/track/6gREYnl1rgTBE06YIDZheT) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt), [The Weather Station](https://open.spotify.com/artist/39ZEMGRv3pIYTYKEhr4Abu) | [The Secret Life Of Walter Mitty \(Music From And Inspired By The Motion Picture\)](https://open.spotify.com/album/7uFQTjB1C5Wa61owwtrYJ3) | 3:19 | 2021-03-12 | 2022-07-23 |
-| [Dreams](https://open.spotify.com/track/0tueLq12kgxw1s7Wd0WfIF) | [Azure Ryder](https://open.spotify.com/artist/5RTpt7F1M8N8w1JlnDBeH8) | [Dreams](https://open.spotify.com/album/7zuBYf3lEDOOpvRmSn7lSW) | 3:54 | 2021-03-19 |  |
+| [Dreams](https://open.spotify.com/track/0tueLq12kgxw1s7Wd0WfIF) | [Azure Ryder](https://open.spotify.com/artist/5RTpt7F1M8N8w1JlnDBeH8) | [Dreams](https://open.spotify.com/album/7zuBYf3lEDOOpvRmSn7lSW) | 3:54 | 2021-03-19 | 2023-12-02 |
 | [Dreams](https://open.spotify.com/track/0ZqTolRYHEfdsM5d3lNv0Q) | [Hether](https://open.spotify.com/artist/5O35zGUolf87RATk2NgSD3) | [Covered In Hether](https://open.spotify.com/album/6GqWvDxFxsvi8ieNRJCTas) | 2:55 | 2023-03-17 | 2023-04-29 |
 | [Dreams](https://open.spotify.com/track/5RWbKDWHNFzmGar0rIiEev) | [JST FRNDS](https://open.spotify.com/artist/7liK6kUh6nKLH7NpvU1PLQ) | [Dreams](https://open.spotify.com/album/524NcQjDgENatNMySqXIde) | 4:21 | 2021-03-12 | 2022-06-10 |
 | [Dreams](https://open.spotify.com/track/5Ppp9IJc7xKMImEhwBTR0n) | [Liza Anne](https://open.spotify.com/artist/426VSUSxx9puUYFgp7l7EQ) | [Dreams](https://open.spotify.com/album/0SSyy4oYR6KxnQN8bPeK6r) | 4:19 | 2021-03-12 | 2022-04-21 |
@@ -338,6 +338,7 @@
 | [Sweet Child O' Mine](https://open.spotify.com/track/16i6f7yJWs1j67fxBjfc7z) | [Taken By Trees](https://open.spotify.com/artist/0Xn4iSM6rXebCl4Ub50RFN) | [Sweet Child o’ Mine](https://open.spotify.com/album/4qD0tpu2Omt2OcYDxfyjd7) | 5:02 | 2021-03-12 | 2022-04-20 |
 | [Tainted Love](https://open.spotify.com/track/2LXUadnWS2ULbc67LeZtKE) | [Love, Alexa](https://open.spotify.com/artist/7J8IZ27EWG5xLNHwESuanz) | [Tainted Love](https://open.spotify.com/album/4JWHtgc5oyP8a2F9nO3T2X) | 3:02 | 2021-03-12 | 2022-04-12 |
 | [Take It With Me](https://open.spotify.com/track/3HqWGoi8pnK0YkqYR8Owlw) | [S\. Carey](https://open.spotify.com/artist/2LSJrlndCuTpdEluvYHc2E) | [Take It With Me](https://open.spotify.com/album/6i8Dp8VHJOawYl331h0qkl) | 4:59 | 2021-03-12 | 2022-07-29 |
+| [Take Me Home, Country Roads](https://open.spotify.com/track/7qF0FfuzBFwMe1lNHkEDxW) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Take Me Home, Country Roads](https://open.spotify.com/album/5qDjtBY8cC4bO6wytuGOuT) | 2:46 | 2023-12-01 |  |
 | [Take Me Home, Country Roads \(ft\. Waxahatchee\)](https://open.spotify.com/track/1XmhBZq2QahjdqebUbFwTW) | [Whitney](https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G), [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [Take Me Home, Country Roads \(ft\. Waxahatchee\)](https://open.spotify.com/album/6F92H0EuolbqbRUE4BygP8) | 2:45 | 2021-03-12 | 2022-07-29 |
 | [Take Me Home, Country Roads \(ft\. Waxahatchee\)](https://open.spotify.com/track/4pR4OUNzzhK3vDY89PN1Oa) | [Whitney](https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G), [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [Candid](https://open.spotify.com/album/02b3E6hkZ8TslA7nDnrrb2) | 2:45 | 2021-03-12 | 2023-08-09 |
 | [Teardrop](https://open.spotify.com/track/5bIKTQABee8vkLvOnqQf5j) | [Hayley Williams](https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM) | [Teardrop](https://open.spotify.com/album/42WoUwPPhODqJZHQ7iSh9y) | 3:26 | 2021-03-12 |  |

@@ -1160,7 +1160,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 269691,
       "name": "Dormir En Cadenas",
       "url": "https://open.spotify.com/track/27voMIbulE2GdVxchzuV0a"
@@ -4132,6 +4132,24 @@
       "duration_ms": 225478,
       "name": "Soldados",
       "url": "https://open.spotify.com/track/3TCj56rGlJRCmX7L8Kgwgk"
+    },
+    {
+      "album": {
+        "name": "Solo de Ti",
+        "url": "https://open.spotify.com/album/29MnwmnbfpgL9AqH4FDzBF"
+      },
+      "artists": [
+        {
+          "name": "Hermanos Ilabaca",
+          "url": "https://open.spotify.com/artist/0PyhxG9e14b5UvwUH0X3Qd"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237830,
+      "name": "Solo de Ti",
+      "url": "https://open.spotify.com/track/01pHsM5mHXLRT01w9wt1JT"
     },
     {
       "album": {

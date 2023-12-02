@@ -4,7 +4,7 @@
 
 > Unique versions of hit songs by other artists\. Cover: Dolly Parton and Lainey Wilson
 
-353 songs - 22 hr 11 min
+354 songs - 22 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -187,7 +187,7 @@
 | [Life is a Highway](https://open.spotify.com/track/2Fs18NaCDuluPG1DHGw1XG) | [Rascal Flatts](https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn) | [Me And My Gang](https://open.spotify.com/album/5XPdkIryKSpTKW21HUtvV0) | 4:36 | 2022-01-07 |  |
 | [Lift Me Up](https://open.spotify.com/track/0rYXSQ5SztqtP3DfBAHoA6) | [Darius Rucker](https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ) | [Lift Me Up](https://open.spotify.com/album/5ADQNJnzQw34bJAEL3bjWL) | 3:09 | 2023-02-10 |  |
 | [Lips Of An Angel](https://open.spotify.com/track/2tcHsNBkF0GYQKyFI2y3gE) | [Jack Ingram](https://open.spotify.com/artist/7HNEfHmDlFofG6YnMt8G7N) | [This Is It \(Standard Version\)](https://open.spotify.com/album/2En352QiA5q3MK0Ulso3Pq) | 3:47 | 2021-12-10 | 2022-07-28 |
-| [Listen To The Radio](https://open.spotify.com/track/6n9PvbAoQtDe3AEMbS8v70) | [Billy Strings](https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf), [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE) | [Listen To The Radio](https://open.spotify.com/album/6RdQfXUPxhbauUanaotuJg) | 4:00 | 2023-09-01 |  |
+| [Listen To The Radio](https://open.spotify.com/track/6n9PvbAoQtDe3AEMbS8v70) | [Billy Strings](https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf), [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE) | [Listen To The Radio](https://open.spotify.com/album/6RdQfXUPxhbauUanaotuJg) | 4:00 | 2023-09-01 | 2023-12-02 |
 | [Live Forever](https://open.spotify.com/track/4ofZpP3iFaQ1GRtxOPbySO) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3), [Lucinda Williams](https://open.spotify.com/artist/60ht0hWRy1yjUDfNsLuHuP) | [Live Forever](https://open.spotify.com/album/61IyMbppx5SvsZO0i3FJnf) | 3:00 | 2022-08-19 | 2023-09-02 |
 | [Long Cool Woman \(In a Black Dress\)](https://open.spotify.com/track/5w2rSFE0Z04cM5lARu56iu) | [Ronnie Dunn](https://open.spotify.com/artist/1iLuTmIgxCEiEllDSWkeIy) | [Re\-Dunn](https://open.spotify.com/album/3SgV10W3DzqU9ROOMSpxfo) | 3:36 | 2021-12-10 | 2023-02-05 |
 | [Lord, I Hope This Day Is Good](https://open.spotify.com/track/4cFvCa5PLr7HTVosmwX4iL) | [Caylee Hammack](https://open.spotify.com/artist/1ok6sI97SuTRNc7Hjj7Uj9), [Alan Jackson](https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS) | [Lord, I Hope This Day Is Good](https://open.spotify.com/album/0VtHnpHrd8gzt5T8FVmCGK) | 2:49 | 2021-12-10 | 2023-02-19 |
@@ -288,6 +288,7 @@
 | [Take Me Back to Tulsa \(feat\. George Strait and Willie Nelson\)](https://open.spotify.com/track/6ggNjeHvyMtEMSe7Es3EUB) | [Asleep At The Wheel](https://open.spotify.com/artist/54tWKkrjv4bQgKrQrNlecm), [George Strait](https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Take Me Back to Tulsa \(feat\. George Strait and Willie Nelson\)](https://open.spotify.com/album/6eLAOiOvVLfjNGkUv0wRMl) | 4:01 | 2021-12-10 | 2022-07-26 |
 | [Take Me Home, Country Roads](https://open.spotify.com/track/2h5LAoOPMnDhQQkUuOFUGf) | [Blanco Brown](https://open.spotify.com/artist/3yzRiNMZdTsSUgplcyYZ4i) | [Take Me Home, Country Roads](https://open.spotify.com/album/4PJxSZQAoTaPW8Rcnp9gN5) | 3:03 | 2023-11-03 |  |
 | [Take Me Home, Country Roads](https://open.spotify.com/track/7qdzU4nHajh0k9ziDnqX5G) | [Charles Wesley Godwin](https://open.spotify.com/artist/2ErsJAz6qJ5cqjoVAvfvaC) | [Family Ties](https://open.spotify.com/album/02EsOo5OwUGCPuBWuMkdY6) | 2:48 | 2023-11-17 |  |
+| [Take Me Home, Country Roads](https://open.spotify.com/track/7qF0FfuzBFwMe1lNHkEDxW) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Take Me Home, Country Roads](https://open.spotify.com/album/5qDjtBY8cC4bO6wytuGOuT) | 2:46 | 2023-12-01 |  |
 | [Teenage Dream](https://open.spotify.com/track/26lrynwoaN6Bz8oVU5VdO8) | [Chris Ruediger](https://open.spotify.com/artist/0MLe1DKmSKbDXw5zw45rJ7), [The 615 House](https://open.spotify.com/artist/2CjBXcTF8Jd9WHHA2rOg0q) | [Teenage Dream](https://open.spotify.com/album/1qP5WX9ynLx93VQadyYuN0) | 3:37 | 2022-11-04 |  |
 | [Tennessee Whiskey](https://open.spotify.com/track/3fqwjXwUGN6vbzIwvyFMhx) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Traveller](https://open.spotify.com/album/7lxHnls3yQNl8B9bILmHj7) | 4:53 | 2021-12-10 |  |
 | [Tequila](https://open.spotify.com/track/5vJq4IOPmNXBYa4sxuowNr) | [SixForty1](https://open.spotify.com/artist/4dcnHUWXWZAHfA8FvQBtJS) | [Acoustic Sessions](https://open.spotify.com/album/0nlQDrmzmr6aLzw3TkkEze) | 3:22 | 2022-03-25 | 2022-04-21 |

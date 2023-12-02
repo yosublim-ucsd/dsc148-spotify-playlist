@@ -2,9 +2,9 @@
 
 ### [Rock Argentino](https://open.spotify.com/playlist/37i9dQZF1DWTMU14XJYy0g)
 
-> Lo más potente del rock argentino, y algunos invitados de lujo\. Foto: Ella Es Tan Cargosa
+> Lo más potente del rock argentino, y algunos invitados de lujo\. Foto: Babasónicos
 
-228 songs - 14 hr 15 min
+231 songs - 14 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [Caer](https://open.spotify.com/track/76imPO6e12fh4HTzsbqYVm) | [Don Osvaldo](https://open.spotify.com/artist/09dpFW4ZcLR3GjeG7GOJR8) | [Flor de ceibo](https://open.spotify.com/album/3bX8ps73c1Ps2lroSYD2rV) | 2:08 | 2023-01-20 | 2023-09-02 |
 | [Camionero Blues](https://open.spotify.com/track/3vDmgKzZPrK4Hn7IHYCYWy) | [Mancha De Rolando](https://open.spotify.com/artist/4DuhYdfd2jHMdaqYVYZp04) | [Cintas Mágicas Volumen III](https://open.spotify.com/album/2ynkZW347XOVLIBdyGdmFp) | 3:50 | 2022-12-02 | 2023-07-29 |
 | [Canción para un Amigo](https://open.spotify.com/track/3WLY1xa2Izcof8CNaFK8QS) | [Guasones](https://open.spotify.com/artist/2wjmZuSHtRx96Qxb8HiP2o) | [Hasta el Final](https://open.spotify.com/album/5FDw24rKn2nDmcuYYCVuQJ) | 5:06 | 2022-06-24 | 2022-07-30 |
+| [Cangrejal](https://open.spotify.com/track/4DNSjR34NzyowHIiNBpdrr) | [Bestia Bebé](https://open.spotify.com/artist/3j7kmtxJ0aptdHr9ZCnEkp) | [Vamos a Destruir](https://open.spotify.com/album/0D04Gwef4aeN5bEGzsvenm) | 4:10 | 2023-12-01 |  |
 | [Canibales](https://open.spotify.com/track/4yGyV9C9RleOjWQdDWtUxW) | [Mancha De Rolando](https://open.spotify.com/artist/4DuhYdfd2jHMdaqYVYZp04) | [Canibales](https://open.spotify.com/album/1gdjKzJ7iw1txlcAn0mXMf) | 2:51 | 2023-06-02 |  |
 | [Cantar de la mala salud](https://open.spotify.com/track/2NYPExQi5gIQGX54iQoMoe) | [El Mister y Los Marsupiales Extintos](https://open.spotify.com/artist/7DakWF6Sq7Q4JjvMXqJu1N), [Indio Solari](https://open.spotify.com/artist/0nUGkxUncFeXt0Dr0hhrc4) | [Cantar de la mala salud](https://open.spotify.com/album/7iqxq7yEQ8w60Wc154NS16) | 3:46 | 2023-07-28 | 2023-09-23 |
 | [Casi casi](https://open.spotify.com/track/1KGKzr1V7uQwIbkwtzQxoZ) | [Árbol](https://open.spotify.com/artist/6OO01j5rLKCyPg4i3FuzIT) | [Casi casi](https://open.spotify.com/album/77cFHisp9WEUfGxEVZLKx5) | 2:12 | 2023-10-20 |  |
@@ -39,6 +40,7 @@
 | [Coleccionando cicatrices](https://open.spotify.com/track/2Ug1MOeq7WsZI3e3RmIXIQ) | [Cruzando El Charco](https://open.spotify.com/artist/4STEdt6oH8RopaxpfWrO5Z) | [Cicatrices](https://open.spotify.com/album/0B8RpNMbnIrTB8Q9Si7gYY) | 3:56 | 2022-07-15 | 2023-09-27 |
 | [Coleccionando Cicatrices](https://open.spotify.com/track/0nFNXj5EVrMR4q2Qm74CtP) | [Cruzando El Charco](https://open.spotify.com/artist/4STEdt6oH8RopaxpfWrO5Z) | [Coleccionando Cicatrices](https://open.spotify.com/album/732rZ7r8CfbcxZt7kiXpug) | 3:58 | 2022-11-02 | 2022-11-14 |
 | [Coleccionando Cicatrices](https://open.spotify.com/track/2bPWrKKz9TrV8Q6x5zEQEv) | [Cruzando El Charco](https://open.spotify.com/artist/4STEdt6oH8RopaxpfWrO5Z) | [Coleccionando Cicatrices](https://open.spotify.com/album/3ch8w03YXSOE0BTtul5uNr) | 3:58 | 2022-06-24 | 2022-07-29 |
+| [Colmena](https://open.spotify.com/track/3didqbZlbcOd3tEaLreWtp) | [Cielo Razzo](https://open.spotify.com/artist/7EgR8MOSpxSytMngVCVGEu) | [Colmena](https://open.spotify.com/album/4rSdMBUFUJDmj6lYa0Jik6) | 4:18 | 2023-12-01 |  |
 | [Con Vos](https://open.spotify.com/track/5DNRryBkStHmqKtwigXZFR) | [Los Caligaris](https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs) | [Con Vos](https://open.spotify.com/album/7xHsHJ5JbDXhiHhoCfeiN9) | 2:42 | 2022-06-24 |  |
 | [Conmigo](https://open.spotify.com/track/54wyNTp0qU0qJ9xBk3brnN) | [La Franela](https://open.spotify.com/artist/5P57GCRyvU7ln5GwNXU8ku) | [Conmigo](https://open.spotify.com/album/2YBbMqoVXGVWZEutpP5ous) | 4:24 | 2023-09-01 |  |
 | [Consuelo Eterno](https://open.spotify.com/track/77macJENdb7DleZ3TzeRsF) | [Pier](https://open.spotify.com/artist/7E0i3aKAcm8iGK15QePkog) | [Consuelo Eterno](https://open.spotify.com/album/7gdS0noL8pkq65xl9qIcqo) | 4:01 | 2023-05-05 | 2023-07-29 |
@@ -132,7 +134,7 @@
 | [Las Mañanas](https://open.spotify.com/track/1NlygPzTUj39B8jQUyUGjM) | [Ella Es Tan Cargosa](https://open.spotify.com/artist/2fGM1BtKeCWjnriro6BaPS), [Los Caligaris](https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs) | [Bellos Años](https://open.spotify.com/album/0QPof2smPENXXtfMhi81Au) | 2:26 | 2022-06-24 | 2023-01-21 |
 | [Le Di Sol](https://open.spotify.com/track/0vslbOoaPP1sglPchHGrX9) | [Vanthra](https://open.spotify.com/artist/3APvOv4wyrZTgdYZxtCZ8l), [Abril Sosa](https://open.spotify.com/artist/7roniIo6ZzxBLAlFCf5fcl) | [Le Di Sol](https://open.spotify.com/album/0puy8tSxqpaYpy4FHY0NK9) | 4:21 | 2022-06-24 | 2023-03-11 |
 | [Lejos de Acá](https://open.spotify.com/track/7I1bJimgthpduRHR4CIoKp) | [La Mississippi](https://open.spotify.com/artist/2haNFSI2XvHycF4x0nhp2w), [EL MISMO](https://open.spotify.com/artist/5SSPAJQe4pqnz9gKnRB9g3) | [Lejos de Acá](https://open.spotify.com/album/6Ujn6SsPlnTvDZJejYsapF) | 3:38 | 2023-07-28 |  |
-| [Lejos Estoy](https://open.spotify.com/track/7p9hMuHlKpiJoeoBWT1jic) | [2 minutos](https://open.spotify.com/artist/5sASmkskUJsvYDSYKRkkYd), [Ciro Pertusi](https://open.spotify.com/artist/1WfuDfBxYtT6FmhKaLKFJc) | [Lejos Estoy](https://open.spotify.com/album/6eBMJM8ZcUFxeP7rXMVgL8) | 3:32 | 2023-09-22 |  |
+| [Lejos Estoy](https://open.spotify.com/track/7p9hMuHlKpiJoeoBWT1jic) | [2 minutos](https://open.spotify.com/artist/5sASmkskUJsvYDSYKRkkYd), [Ciro Pertusi](https://open.spotify.com/artist/1WfuDfBxYtT6FmhKaLKFJc) | [Lejos Estoy](https://open.spotify.com/album/6eBMJM8ZcUFxeP7rXMVgL8) | 3:32 | 2023-09-22 | 2023-12-02 |
 | [Llevo la Palabra](https://open.spotify.com/track/7D5JntNLDnWLe02CCm6C7O) | [Pez](https://open.spotify.com/artist/00demsNI1p5KmzWGlrnrdh) | [Llevo la Palabra](https://open.spotify.com/album/5CEuuHQnySh405nqZ7Njzr) | 3:01 | 2023-09-01 | 2023-09-23 |
 | [Llévame](https://open.spotify.com/track/0BzARH6DR0vksVpTWm2RHN) | [Los Tipitos](https://open.spotify.com/artist/1SykQGBiBwkQ1fcGpJ1BJt), [Vale Acevedo](https://open.spotify.com/artist/4uM6IUL3hMaxnhAKCZCKQJ) | [Llévame](https://open.spotify.com/album/3TeYluIyLa3vhmWuvAMJ5C) | 3:35 | 2022-06-24 | 2023-09-23 |
 | [Lo Que Ves](https://open.spotify.com/track/4R5rg9XCEp7sX5jS6whkEa) | [La Mississippi](https://open.spotify.com/artist/2haNFSI2XvHycF4x0nhp2w) | [Lo Que Ves](https://open.spotify.com/album/6OBgrKk9tYCE6t7d0sHimH) | 3:16 | 2022-06-24 | 2023-04-22 |
@@ -199,6 +201,7 @@
 | [Suelto](https://open.spotify.com/track/6pCeEWCyIlOuwG5J3q2pKP) | [Rondamon](https://open.spotify.com/artist/3rFiEktiHH0wicgmF2HEMP), [Juanse](https://open.spotify.com/artist/5AQlQBU9LCmQwReukeom2I) | [Suelto](https://open.spotify.com/album/1Mb36xDeCUR5xmgIEt869k) | 3:43 | 2022-06-24 | 2023-09-23 |
 | [Suerte](https://open.spotify.com/track/45i5W1vz9hd0Msl6YjNJHO) | [Guasones](https://open.spotify.com/artist/2wjmZuSHtRx96Qxb8HiP2o) | [Suerte](https://open.spotify.com/album/4CT2Ci1lR8I4bjnd4nZyUB) | 3:03 | 2022-06-24 | 2022-07-09 |
 | [Sur Vigente](https://open.spotify.com/track/6ZHQobo4G0Ig3i8ZTYzQla) | [Vozenoff](https://open.spotify.com/artist/0hASTHk8Lmdj2zAHvkfsfW) | [Sur Vigente](https://open.spotify.com/album/6GV5oNdTZmTpaD4D4HhzES) | 3:42 | 2022-07-01 | 2022-09-03 |
+| [Tajada](https://open.spotify.com/track/0HGchjSKUuMNsLg8zfwqFf) | [Babasónicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [Tajada](https://open.spotify.com/album/5hfg8YESqVnDHcOPiu4GSs) | 3:26 | 2023-12-01 |  |
 | [Tan Distintos \- Acústico](https://open.spotify.com/track/6VVSQJKIS8QoS3ATKYZpI8) | [Guasones](https://open.spotify.com/artist/2wjmZuSHtRx96Qxb8HiP2o), [EMI](https://open.spotify.com/artist/6ITLgutvUhAIXVBbdr7FB1) | [Tan Distintos \(Acústico\)](https://open.spotify.com/album/4kn2pDF2SAuQGc9yUMp31n) | 3:38 | 2023-09-22 |  |
 | [Tantas Cosas Buenas](https://open.spotify.com/track/5FNvmP6LSxwbyQM3Dc7PkK) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [Súper Terror](https://open.spotify.com/album/7iOJ8uRQ1mylHA2ndpzYkS) | 3:58 | 2023-07-07 | 2023-09-23 |
 | [Tantas Cosas Buenas](https://open.spotify.com/track/6SOQ1rrcQL3UcGmsLOrXtd) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [Tantas Cosas Buenas](https://open.spotify.com/album/3sGo39318ViQM2ZHNporVo) | 3:58 | 2022-11-11 | 2023-07-11 |
@@ -225,8 +228,8 @@
 | [Veneno](https://open.spotify.com/track/1oEiPMu3QKXsFNvNE8EU2R) | [La Franela](https://open.spotify.com/artist/5P57GCRyvU7ln5GwNXU8ku) | [Veneno](https://open.spotify.com/album/40QUXWbQyuTJ98c0B1wJc8) | 2:41 | 2022-06-24 | 2023-09-27 |
 | [Venganza](https://open.spotify.com/track/0QBMEboyu2DxFTKGbI5nl7) | [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [Venganza](https://open.spotify.com/album/3tDmUK7yNLCQZF7e8kjiLZ) | 3:22 | 2022-06-24 |  |
 | [Vida de Topos](https://open.spotify.com/track/3lL9MHVJizb451IfV7h6pj) | [Divididos](https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx) | [Experiencia 432 \(Bulín Finoli\)](https://open.spotify.com/album/6giDhT2UzrxXWmDDALFskA) | 4:09 | 2022-06-24 | 2023-09-27 |
-| [Vino Tinto](https://open.spotify.com/track/5c4lchIbTBbrn3J6WBNH2z) | [Jóvenes Pordioseros](https://open.spotify.com/artist/6UYYp6Xo2NHP7AxNnR0rn4) | [Vino Tinto](https://open.spotify.com/album/4mfzTGo7zQpJ51ZxpGsISt) | 4:15 | 2023-09-29 |  |
-| [VOID](https://open.spotify.com/track/7ezLEpE3Q50zpVARzgA00f) | [Usted Señalemelo](https://open.spotify.com/artist/1a1v0OJC5GqtsLwzoqJm7j) | [Tripolar](https://open.spotify.com/album/6ud8dLSruWnM0i6qdIBHjS) | 3:19 | 2023-06-02 |  |
+| [Vino Tinto](https://open.spotify.com/track/5c4lchIbTBbrn3J6WBNH2z) | [Jóvenes Pordioseros](https://open.spotify.com/artist/6UYYp6Xo2NHP7AxNnR0rn4) | [Vino Tinto](https://open.spotify.com/album/4mfzTGo7zQpJ51ZxpGsISt) | 4:15 | 2023-09-29 | 2023-12-02 |
+| [VOID](https://open.spotify.com/track/7ezLEpE3Q50zpVARzgA00f) | [Usted Señalemelo](https://open.spotify.com/artist/1a1v0OJC5GqtsLwzoqJm7j) | [Tripolar](https://open.spotify.com/album/6ud8dLSruWnM0i6qdIBHjS) | 3:19 | 2023-06-02 | 2023-12-02 |
 | [Volver a Nacer](https://open.spotify.com/track/2IzKyyYTVmh5h6shdsawT1) | [Corvex](https://open.spotify.com/artist/2E94EJ7lzS7wlcvpYMelWy) | [Volver a Nacer](https://open.spotify.com/album/3b4LialsppSQBwax8zMLVz) | 4:24 | 2022-06-24 | 2022-07-02 |
 | [Vuelos](https://open.spotify.com/track/4UCKDmolB8SrPVGNAdeSTk) | [Bersuit Vergarabat](https://open.spotify.com/artist/6MxyNXnnmwQwdW2PD0gXYO), [Shinova](https://open.spotify.com/artist/6rRTrEHzGSDqhmFJQrNFMO) | [Vuelos](https://open.spotify.com/album/6Iq6olWskzadve5s35Sdiq) | 5:46 | 2023-03-31 | 2023-06-03 |
 | [Víctimas](https://open.spotify.com/track/4FeOc23B21fz3Z1pLnnKo6) | [Bersuit Vergarabat](https://open.spotify.com/artist/6MxyNXnnmwQwdW2PD0gXYO) | [Víctimas](https://open.spotify.com/album/4J21DOgMP48X3i1Bct05ON) | 3:58 | 2023-10-05 | 2023-10-27 |

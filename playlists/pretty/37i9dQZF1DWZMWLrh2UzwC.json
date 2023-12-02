@@ -1,12 +1,12 @@
 {
   "description": "The best newly released songs of the week. Cover: CLAUDIA",
-  "num_followers": 62261,
+  "num_followers": 62266,
   "original_name": "New Music Friday Malaysia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwODI0ZTg3NDBiYzRkZjYyMGYxNWUwNDUwZWI1OTkyYTY0ZmYxZGNi",
+  "snapshot_id": "MCw0YzBmMmMzODFlZjAyYjMzYTU2ZWE5NmYxNmJmNTgxMGI5NTljN2Vj",
   "tracks": [
     {
       "added_at": "2023-11-30 16:00:00",
@@ -23,6 +23,22 @@
       "duration_ms": 277831,
       "name": "You\u2019re Losing Me (From The Vault)",
       "url": "https://open.spotify.com/track/3CWq0pAKKTWb0K4yiglDc4"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
+        "name": "MY HOUSE",
+        "url": "https://open.spotify.com/album/1H1ivGeE2LjPjE71OITTZs"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "duration_ms": 262941,
+      "name": "MY HOUSE",
+      "url": "https://open.spotify.com/track/7omJfT9s6V2IpQNBYyq5C8"
     },
     {
       "added_at": "2023-11-30 16:00:00",
@@ -167,6 +183,22 @@
     {
       "added_at": "2023-11-30 16:00:00",
       "album": {
+        "name": "MOROS",
+        "url": "https://open.spotify.com/album/2pocOhTGmn654Tq5d2CJMk"
+      },
+      "artists": [
+        {
+          "name": "Ethan Low",
+          "url": "https://open.spotify.com/artist/09O5HSw8RO3aAnWNCADaKS"
+        }
+      ],
+      "duration_ms": 180921,
+      "name": "MOROS",
+      "url": "https://open.spotify.com/track/7gwDhjnhOF76bEY08H1of9"
+    },
+    {
+      "added_at": "2023-11-30 16:00:00",
+      "album": {
         "name": "To. X - The 5th Mini Album",
         "url": "https://open.spotify.com/album/0VciVDVU6NoqtQ0WAIlTmD"
       },
@@ -179,6 +211,22 @@
       "duration_ms": 170386,
       "name": "To. X",
       "url": "https://open.spotify.com/track/2gyCwrOcC6JBoaJ8JGJ7T8"
+    },
+    {
+      "added_at": "2023-11-30 16:00:00",
+      "album": {
+        "name": "THE WORLD EP.FIN : WILL",
+        "url": "https://open.spotify.com/album/1r0F1EzzNOaJyB7U0Jp5RH"
+      },
+      "artists": [
+        {
+          "name": "ATEEZ",
+          "url": "https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L"
+        }
+      ],
+      "duration_ms": 198365,
+      "name": "Crazy Form",
+      "url": "https://open.spotify.com/track/2KoeSRTm9cRulYnkaEyUaP"
     },
     {
       "added_at": "2023-11-30 16:00:00",
@@ -287,6 +335,26 @@
     {
       "added_at": "2023-11-30 16:00:00",
       "album": {
+        "name": "Standing Next to You (Usher Remix)",
+        "url": "https://open.spotify.com/album/3bKfV6NFUOd6KMCkDJyEbh"
+      },
+      "artists": [
+        {
+          "name": "Jung Kook",
+          "url": "https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc"
+        },
+        {
+          "name": "USHER",
+          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
+        }
+      ],
+      "duration_ms": 214760,
+      "name": "Standing Next to You (Usher Remix)",
+      "url": "https://open.spotify.com/track/0VPFT123HKoQ2J6ipeDcI1"
+    },
+    {
+      "added_at": "2023-11-30 16:00:00",
+      "album": {
         "name": "How Have You Been?",
         "url": "https://open.spotify.com/album/7vujHQJMYf23qpddPQy6tQ"
       },
@@ -367,6 +435,22 @@
       "duration_ms": 256324,
       "name": "like a bird",
       "url": "https://open.spotify.com/track/4s9FPuVXTYR6Eqc4oxO3sA"
+    },
+    {
+      "added_at": "2023-11-30 16:00:00",
+      "album": {
+        "name": "\u6163\u6027\u5014\u5f37",
+        "url": "https://open.spotify.com/album/6PA61yQBp4q7w1PMRasrlG"
+      },
+      "artists": [
+        {
+          "name": "Jasmine Yen",
+          "url": "https://open.spotify.com/artist/4PQ0uJWdQam5rtXciDKVnS"
+        }
+      ],
+      "duration_ms": 227000,
+      "name": "\u6163\u6027\u5014\u5f37",
+      "url": "https://open.spotify.com/track/0cFQjkOWJHL9Foigvlw0IQ"
     },
     {
       "added_at": "2023-11-30 16:00:00",
@@ -1075,6 +1159,22 @@
       "duration_ms": 175653,
       "name": "RE8EL",
       "url": "https://open.spotify.com/track/4zN0rgpBOcpXnp6EJkYmnM"
+    },
+    {
+      "added_at": "2023-11-30 16:00:00",
+      "album": {
+        "name": "Roy Kim X MY DEMON",
+        "url": "https://open.spotify.com/album/1JUS6lZNF4j7AHmRew2kLq"
+      },
+      "artists": [
+        {
+          "name": "Roy Kim",
+          "url": "https://open.spotify.com/artist/3ErHVJMsxTq2lLSmnONBm9"
+        }
+      ],
+      "duration_ms": 220773,
+      "name": "Whenever, Wherever",
+      "url": "https://open.spotify.com/track/1bWp8huMMumBSVfllWeRCw"
     },
     {
       "added_at": "2023-11-30 16:00:00",

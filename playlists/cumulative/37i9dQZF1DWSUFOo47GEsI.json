@@ -221,6 +221,24 @@
     },
     {
       "album": {
+        "name": "Aligned Adventures",
+        "url": "https://open.spotify.com/album/1BWgiMZ2SH72H41PY0VQOc"
+      },
+      "artists": [
+        {
+          "name": "Secret Medicine",
+          "url": "https://open.spotify.com/artist/0tMQJ9EVT0vfsG67K867kR"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194000,
+      "name": "Aligned Adventures",
+      "url": "https://open.spotify.com/track/0UgCoafyAS8LajrzmHzSid"
+    },
+    {
+      "album": {
         "name": "Alleviation",
         "url": "https://open.spotify.com/album/5peWe4tisKmGmYXfymYHgS"
       },

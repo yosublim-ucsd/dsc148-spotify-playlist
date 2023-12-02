@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-05-20",
-  "description": "Descubre los nuevos \u00e1lbumes de M\u00fasica Mexicana del 2023. Hit shuffle for a mixed listening experience. Cover: Los Farmerz",
+  "description": "Descubre los nuevos \u00e1lbumes de M\u00fasica Mexicana del 2023. Hit shuffle for a mixed listening experience. Cover: Chiquis",
   "name": "New M\u00fasica Mexicana Albums",
   "tracks": [
     {
@@ -465,6 +465,24 @@
     },
     {
       "album": {
+        "name": "Mariachi Y Tequila",
+        "url": "https://open.spotify.com/album/6qgjHcLSRHblBP7T2UyVGu"
+      },
+      "artists": [
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213413,
+      "name": "Aunque No Quiera",
+      "url": "https://open.spotify.com/track/4wthMC4Ui7lM2ITBgsOFXy"
+    },
+    {
+      "album": {
         "name": "Casa Lumbre",
         "url": "https://open.spotify.com/album/2sreILB4Eo77xBpLNrv8DT"
       },
@@ -484,6 +502,24 @@
       "duration_ms": 201770,
       "name": "Bandidos",
       "url": "https://open.spotify.com/track/7w745hWspVhIRlN3rIRvns"
+    },
+    {
+      "album": {
+        "name": "B.M.T",
+        "url": "https://open.spotify.com/album/3LcuQGx8YAispGsomWu2fF"
+      },
+      "artists": [
+        {
+          "name": "Nueva Marca",
+          "url": "https://open.spotify.com/artist/347cjywtc77d0NSfzullDJ"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133574,
+      "name": "Bendecido",
+      "url": "https://open.spotify.com/track/4MLY9J7WDizc9BTP12h5Nk"
     },
     {
       "album": {
@@ -550,6 +586,24 @@
       "duration_ms": 189506,
       "name": "Blindado El Carro",
       "url": "https://open.spotify.com/track/4qAKl0zErYCnWAFTw0azCm"
+    },
+    {
+      "album": {
+        "name": "B.M.T",
+        "url": "https://open.spotify.com/album/3LcuQGx8YAispGsomWu2fF"
+      },
+      "artists": [
+        {
+          "name": "Nueva Marca",
+          "url": "https://open.spotify.com/artist/347cjywtc77d0NSfzullDJ"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158158,
+      "name": "Bmt",
+      "url": "https://open.spotify.com/track/1WGd7fvotApc3ehj9VnUv7"
     },
     {
       "album": {
@@ -996,6 +1050,24 @@
       "duration_ms": 158549,
       "name": "Dame tiempo",
       "url": "https://open.spotify.com/track/2EjZLRk2G8ZY6iIHDp3Lg5"
+    },
+    {
+      "album": {
+        "name": "Mariachi Y Tequila",
+        "url": "https://open.spotify.com/album/6qgjHcLSRHblBP7T2UyVGu"
+      },
+      "artists": [
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180586,
+      "name": "De Lo Que Te Perdiste",
+      "url": "https://open.spotify.com/track/3byTwf4E9XF2pe5wQbHhmq"
     },
     {
       "album": {
@@ -1679,6 +1751,46 @@
     },
     {
       "album": {
+        "name": "El Pilot\u00f3n",
+        "url": "https://open.spotify.com/album/6X8FcbMWe7sh12T07RyXYY"
+      },
+      "artists": [
+        {
+          "name": "Grupo Recluta",
+          "url": "https://open.spotify.com/artist/2Dlvgi70UoJJicfKgoW5Vo"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158893,
+      "name": "El Pilot\u00f3n",
+      "url": "https://open.spotify.com/track/2OSC9jsFUoSxFBHT8zNqtq"
+    },
+    {
+      "album": {
+        "name": "Como en los Viejos Tiempos",
+        "url": "https://open.spotify.com/album/7kfuZtaN9zvpFhIIMZLvgI"
+      },
+      "artists": [
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        },
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137560,
+      "name": "El Que Quiere Puede",
+      "url": "https://open.spotify.com/track/4MGkZ1KQBirBI04UAo76pn"
+    },
+    {
+      "album": {
         "name": "Fiesta, Fiesta",
         "url": "https://open.spotify.com/album/5oMNdms9HuOfAtlUf3mF8J"
       },
@@ -1872,6 +1984,28 @@
       "duration_ms": 182133,
       "name": "En Corto",
       "url": "https://open.spotify.com/track/6PlLiHoRcjCgK5som2T3ph"
+    },
+    {
+      "album": {
+        "name": "Como en los Viejos Tiempos",
+        "url": "https://open.spotify.com/album/7kfuZtaN9zvpFhIIMZLvgI"
+      },
+      "artists": [
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        },
+        {
+          "name": "Gerardo Ortiz",
+          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180137,
+      "name": "En el Pedir Est\u00e1 el Dar (feat. Gerardo Ortiz)",
+      "url": "https://open.spotify.com/track/6TwhEVtDU2LZFnkwEPrqed"
     },
     {
       "album": {
@@ -2381,6 +2515,24 @@
     },
     {
       "album": {
+        "name": "1X1",
+        "url": "https://open.spotify.com/album/1GsbrXF9wVjtvZR4aP33j5"
+      },
+      "artists": [
+        {
+          "name": "Grupo Recluta",
+          "url": "https://open.spotify.com/artist/2Dlvgi70UoJJicfKgoW5Vo"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213266,
+      "name": "La Hija Del Sr.",
+      "url": "https://open.spotify.com/track/3uSnklocXnasLoqWMMMurP"
+    },
+    {
+      "album": {
         "name": "La Precopa (Desde las Pulgas) [En Vivo]",
         "url": "https://open.spotify.com/album/3aUSWyPo0m3BBK2iaQjUDO"
       },
@@ -2475,6 +2627,24 @@
     },
     {
       "album": {
+        "name": "CHIQUIS - BEE SIDE",
+        "url": "https://open.spotify.com/album/4HFQEBKPajKOqug9XxW4P4"
+      },
+      "artists": [
+        {
+          "name": "Chiquis",
+          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196146,
+      "name": "LA NEGRA TOMASA",
+      "url": "https://open.spotify.com/track/7eHrHMuCqBJSJvDChNvlob"
+    },
+    {
+      "album": {
         "name": "SS23",
         "url": "https://open.spotify.com/album/3lHvL6z4Xy7QNiRFfCMK6S"
       },
@@ -2516,6 +2686,24 @@
       "duration_ms": 125496,
       "name": "La Neta Ah\u00ed Te Ves",
       "url": "https://open.spotify.com/track/3pNU7sZtUW5o0XUt8Umq69"
+    },
+    {
+      "album": {
+        "name": "CHIQUIS - BEE SIDE",
+        "url": "https://open.spotify.com/album/4HFQEBKPajKOqug9XxW4P4"
+      },
+      "artists": [
+        {
+          "name": "Chiquis",
+          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158760,
+      "name": "LA QUE MANDA",
+      "url": "https://open.spotify.com/track/3ONXaciwwjXzDEhZ8GF5ra"
     },
     {
       "album": {
@@ -3525,6 +3713,24 @@
     },
     {
       "album": {
+        "name": "Nadie Como T\u00fa",
+        "url": "https://open.spotify.com/album/3JfApDXBer1RCuD8XhRye1"
+      },
+      "artists": [
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210333,
+      "name": "Nadie Como T\u00fa",
+      "url": "https://open.spotify.com/track/1ndseyLQi4OjwsmchDsLet"
+    },
+    {
+      "album": {
         "name": "Bienvenidos A Casa (En Vivo)",
         "url": "https://open.spotify.com/album/2OVAUCW5Zv1ISWd1lQW1qr"
       },
@@ -3879,6 +4085,24 @@
     },
     {
       "album": {
+        "name": "CHIQUIS - BEE SIDE",
+        "url": "https://open.spotify.com/album/4HFQEBKPajKOqug9XxW4P4"
+      },
+      "artists": [
+        {
+          "name": "Chiquis",
+          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190373,
+      "name": "PA' TI",
+      "url": "https://open.spotify.com/track/6lNB1znrjo8OtapJeUH1tS"
+    },
+    {
+      "album": {
         "name": "Nata Montana",
         "url": "https://open.spotify.com/album/1YzV3eSAyofYe6QqIaZrj7"
       },
@@ -4110,6 +4334,24 @@
       "duration_ms": 180072,
       "name": "Primero Tu (En Vivo)",
       "url": "https://open.spotify.com/track/0BdY26MnTcTepEnYIUMv1X"
+    },
+    {
+      "album": {
+        "name": "Como en los Viejos Tiempos",
+        "url": "https://open.spotify.com/album/7kfuZtaN9zvpFhIIMZLvgI"
+      },
+      "artists": [
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212563,
+      "name": "Pudiste pero No Quisiste",
+      "url": "https://open.spotify.com/track/4GW1xy7yINUnuEQHaETaVC"
     },
     {
       "album": {
@@ -4657,6 +4899,24 @@
     },
     {
       "album": {
+        "name": "1X1",
+        "url": "https://open.spotify.com/album/1GsbrXF9wVjtvZR4aP33j5"
+      },
+      "artists": [
+        {
+          "name": "Grupo Recluta",
+          "url": "https://open.spotify.com/artist/2Dlvgi70UoJJicfKgoW5Vo"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132080,
+      "name": "Sin Ver Atr\u00e1s",
+      "url": "https://open.spotify.com/track/2n65Bi6WzYhB8ZVGwUYrOd"
+    },
+    {
+      "album": {
         "name": "Pa las Baby's Y Belikeada",
         "url": "https://open.spotify.com/album/3zu0hJJew2qXZNlselIQk8"
       },
@@ -4928,6 +5188,24 @@
       "duration_ms": 141060,
       "name": "Tuve Que Marcar",
       "url": "https://open.spotify.com/track/2Xo9PICBQWOS5DnemG2IN9"
+    },
+    {
+      "album": {
+        "name": "B.M.T",
+        "url": "https://open.spotify.com/album/3LcuQGx8YAispGsomWu2fF"
+      },
+      "artists": [
+        {
+          "name": "Nueva Marca",
+          "url": "https://open.spotify.com/artist/347cjywtc77d0NSfzullDJ"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175897,
+      "name": "T\u00fa Persona T\u00f3xica",
+      "url": "https://open.spotify.com/track/5JZZen0GyG4EBiIhcVbGSh"
     },
     {
       "album": {

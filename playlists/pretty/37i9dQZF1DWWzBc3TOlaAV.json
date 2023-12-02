@@ -1,12 +1,12 @@
 {
   "description": "These songs rocked the '60s. Cover: Jimi Hendrix",
-  "num_followers": 882894,
+  "num_followers": 883019,
   "original_name": "60s Rock Anthems",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MmE1Nzk5MjU5YmU2YzJiMTMyNzc2MTVmYzU5Njc2MGZlOGRkODVl",
+  "snapshot_id": "MCw4MzJjMjVjNWFlNzQxYWIwMTBhN2VhZTMyNzI0MmNjNzJjZTUzY2Qw",
   "tracks": [
     {
       "added_at": "2023-01-18 21:00:56",
@@ -683,22 +683,6 @@
     {
       "added_at": "2023-01-18 21:00:56",
       "album": {
-        "name": "Days Of Future Passed (Deluxe Version)",
-        "url": "https://open.spotify.com/album/3JyYXOBRAuc3XFQxFxrEcM"
-      },
-      "artists": [
-        {
-          "name": "The Moody Blues",
-          "url": "https://open.spotify.com/artist/5BcZ22XONcRoLhTbZRuME1"
-        }
-      ],
-      "duration_ms": 269106,
-      "name": "Nights In White Satin - Single Version / Mono",
-      "url": "https://open.spotify.com/track/6L5BZEcZmD6RBJnimzlyKr"
-    },
-    {
-      "added_at": "2023-01-18 21:00:56",
-      "album": {
         "name": "Kinks (Deluxe Edition)",
         "url": "https://open.spotify.com/album/6HrqKlhAQiv4GjFjwmuxDQ"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 133933,
       "name": "You Really Got Me",
       "url": "https://open.spotify.com/track/6tZdL3Zp8JgrfDbsSeSV1S"
+    },
+    {
+      "added_at": "2023-01-18 21:00:56",
+      "album": {
+        "name": "Days Of Future Passed (Deluxe Version)",
+        "url": "https://open.spotify.com/album/3JyYXOBRAuc3XFQxFxrEcM"
+      },
+      "artists": [
+        {
+          "name": "The Moody Blues",
+          "url": "https://open.spotify.com/artist/5BcZ22XONcRoLhTbZRuME1"
+        }
+      ],
+      "duration_ms": 269106,
+      "name": "Nights In White Satin - Single Version / Mono",
+      "url": "https://open.spotify.com/track/6L5BZEcZmD6RBJnimzlyKr"
     },
     {
       "added_at": "2023-01-18 21:00:56",
@@ -923,22 +923,6 @@
     {
       "added_at": "2023-01-18 21:00:56",
       "album": {
-        "name": "Santana (Legacy Edition)",
-        "url": "https://open.spotify.com/album/2hQwyoPiM1G9iLWkXqC2Hu"
-      },
-      "artists": [
-        {
-          "name": "Santana",
-          "url": "https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P"
-        }
-      ],
-      "duration_ms": 238266,
-      "name": "Evil Ways",
-      "url": "https://open.spotify.com/track/5tmrnhMxx39jnu3kjopMdP"
-    },
-    {
-      "added_at": "2023-01-18 21:00:56",
-      "album": {
         "name": "Kinks (Deluxe Edition)",
         "url": "https://open.spotify.com/album/6HrqKlhAQiv4GjFjwmuxDQ"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 142226,
       "name": "All Day and All of the Night",
       "url": "https://open.spotify.com/track/1mfV2kv9RwFKVI8kEQlmOJ"
+    },
+    {
+      "added_at": "2023-01-18 21:00:56",
+      "album": {
+        "name": "Santana (Legacy Edition)",
+        "url": "https://open.spotify.com/album/2hQwyoPiM1G9iLWkXqC2Hu"
+      },
+      "artists": [
+        {
+          "name": "Santana",
+          "url": "https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P"
+        }
+      ],
+      "duration_ms": 238266,
+      "name": "Evil Ways",
+      "url": "https://open.spotify.com/track/5tmrnhMxx39jnu3kjopMdP"
     },
     {
       "added_at": "2023-01-18 21:00:56",
@@ -1039,6 +1039,22 @@
     {
       "added_at": "2023-01-18 21:00:56",
       "album": {
+        "name": "Face to Face (Deluxe)",
+        "url": "https://open.spotify.com/album/44tcGfOAI8iZc1U5BAgLkT"
+      },
+      "artists": [
+        {
+          "name": "The Kinks",
+          "url": "https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E"
+        }
+      ],
+      "duration_ms": 212946,
+      "name": "Sunny Afternoon",
+      "url": "https://open.spotify.com/track/09Plbz3Ja2gxU9xCsqA5KY"
+    },
+    {
+      "added_at": "2023-01-18 21:00:56",
+      "album": {
         "name": "Crying",
         "url": "https://open.spotify.com/album/21REQ6X34DCAcoxtj654TI"
       },
@@ -1087,22 +1103,6 @@
     {
       "added_at": "2023-01-18 21:00:56",
       "album": {
-        "name": "Face to Face (Deluxe)",
-        "url": "https://open.spotify.com/album/44tcGfOAI8iZc1U5BAgLkT"
-      },
-      "artists": [
-        {
-          "name": "The Kinks",
-          "url": "https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E"
-        }
-      ],
-      "duration_ms": 212946,
-      "name": "Sunny Afternoon",
-      "url": "https://open.spotify.com/track/09Plbz3Ja2gxU9xCsqA5KY"
-    },
-    {
-      "added_at": "2023-01-18 21:00:56",
-      "album": {
         "name": "Never To Be Forgotten - The Mustang Years",
         "url": "https://open.spotify.com/album/7KEDLBdqvyiV4D2uH9SgbV"
       },
@@ -1131,6 +1131,22 @@
       "duration_ms": 270293,
       "name": "Up On Cripple Creek",
       "url": "https://open.spotify.com/track/7aTCCNpHJD2Jgv0LLVJb8Y"
+    },
+    {
+      "added_at": "2023-01-18 21:00:56",
+      "album": {
+        "name": "Something Else (Deluxe)",
+        "url": "https://open.spotify.com/album/3n0mKh1yuR5QjX6Vm0GKj2"
+      },
+      "artists": [
+        {
+          "name": "The Kinks",
+          "url": "https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E"
+        }
+      ],
+      "duration_ms": 194520,
+      "name": "Waterloo Sunset",
+      "url": "https://open.spotify.com/track/3G0EALIIp5DAeIERxXBHmo"
     },
     {
       "added_at": "2023-01-18 21:00:56",
@@ -1215,6 +1231,22 @@
     {
       "added_at": "2023-01-18 21:00:56",
       "album": {
+        "name": "Needles & Pins",
+        "url": "https://open.spotify.com/album/09rvbOvN7ToOXX0CNlCJYF"
+      },
+      "artists": [
+        {
+          "name": "The Searchers",
+          "url": "https://open.spotify.com/artist/4QmkLL9JOqM9dusHS1Hghe"
+        }
+      ],
+      "duration_ms": 131880,
+      "name": "Needles and Pins",
+      "url": "https://open.spotify.com/track/0yGEtWW1560pa3KHMzh0uc"
+    },
+    {
+      "added_at": "2023-01-18 21:00:56",
+      "album": {
         "name": "Wipe Out",
         "url": "https://open.spotify.com/album/6m4OZ0vUzfZmNtr6bmExGn"
       },
@@ -1227,22 +1259,6 @@
       "duration_ms": 166092,
       "name": "Wipe Out",
       "url": "https://open.spotify.com/track/4SDGb2V6J2rEbxNujwNeMl"
-    },
-    {
-      "added_at": "2023-01-18 21:00:56",
-      "album": {
-        "name": "Something Else (Deluxe)",
-        "url": "https://open.spotify.com/album/3n0mKh1yuR5QjX6Vm0GKj2"
-      },
-      "artists": [
-        {
-          "name": "The Kinks",
-          "url": "https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E"
-        }
-      ],
-      "duration_ms": 194520,
-      "name": "Waterloo Sunset",
-      "url": "https://open.spotify.com/track/3G0EALIIp5DAeIERxXBHmo"
     },
     {
       "added_at": "2023-01-18 21:00:56",
@@ -1275,22 +1291,6 @@
       "duration_ms": 214640,
       "name": "Eight Miles High",
       "url": "https://open.spotify.com/track/2BGNomqCxEDcXyxf8bg27k"
-    },
-    {
-      "added_at": "2023-01-18 21:00:56",
-      "album": {
-        "name": "Needles & Pins",
-        "url": "https://open.spotify.com/album/09rvbOvN7ToOXX0CNlCJYF"
-      },
-      "artists": [
-        {
-          "name": "The Searchers",
-          "url": "https://open.spotify.com/artist/4QmkLL9JOqM9dusHS1Hghe"
-        }
-      ],
-      "duration_ms": 131880,
-      "name": "Needles and Pins",
-      "url": "https://open.spotify.com/track/0yGEtWW1560pa3KHMzh0uc"
     },
     {
       "added_at": "2023-01-18 21:00:56",

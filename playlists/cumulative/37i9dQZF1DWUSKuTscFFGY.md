@@ -4,7 +4,7 @@
 
 > Découvrez les meilleures nouveautés pop\. Photo : Dove Cameron
 
-210 songs - 10 hr 53 min
+211 songs - 10 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -145,6 +145,7 @@
 | [not a king](https://open.spotify.com/track/4FVzimiTl5SZXWMVgJ4nEe) | [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn) | [Gathered By The Lantern](https://open.spotify.com/album/5zkd8WmnZPaQUdFe360xfM) | 2:29 | 2023-10-05 | 2023-12-01 |
 | [older](https://open.spotify.com/track/75c2zaSdDBSX0A8Jyvm4fO) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [older](https://open.spotify.com/album/1CRkQ0NwUlzM4052uaZbtn) | 2:17 | 2023-09-29 |  |
 | [One Of Your Girls](https://open.spotify.com/track/1Fav4xZn60uGM3XmiHJmvT) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Something To Give Each Other](https://open.spotify.com/album/5PsQkSZdGgr9jnuSKzSi5s) | 3:01 | 2023-10-13 |  |
+| [One Way Flight](https://open.spotify.com/track/1fHmyExTgqR3FsiGAI7PGs) | [Aloe Blacc](https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl) | [One Way Flight](https://open.spotify.com/album/0ilIGAmm0OHY9xvVRePEpW) | 2:19 | 2023-11-30 |  |
 | [Only In My Mind](https://open.spotify.com/track/4PrGyX4YgCT6V3YqY7XEUw) | [Kenya Grace](https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2) | [Only In My Mind](https://open.spotify.com/album/4JWnSrjQv0zOW594N76PMf) | 2:41 | 2023-10-05 |  |
 | [orbit](https://open.spotify.com/track/1xMtUb8b1DxW89FJfxOwPN) | [Henry Moodie](https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5) | [orbit](https://open.spotify.com/album/5xLRIrNswkxjD0U0z47Rw2) | 3:09 | 2023-11-23 |  |
 | [Out Of My League](https://open.spotify.com/track/0O7V6ItLSmWsh8qisU8mTr) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [a beautiful blur](https://open.spotify.com/album/198gsVHJBnvsKSdLbucwVI) | 3:26 | 2023-09-29 |  |

@@ -1,12 +1,12 @@
 {
   "description": "A playlist driven from the islands, take the front seat as Soca meets Bashment \n\n",
-  "num_followers": 10209,
+  "num_followers": 10214,
   "original_name": "Soca Bashment",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMmJmNzRlZmE0Njk0NzQzYmY0YTQ4Yzk5OTA4YmM1MzQ2Y2IwZjkx",
+  "snapshot_id": "MCwzYzQ5Njc4ZGE3OGZhMzJhMjU5ODdhZjMxMmJmODY5MGQ4NzM1ZDdk",
   "tracks": [
     {
       "added_at": "2022-02-24 18:00:00",
@@ -955,30 +955,18 @@
     {
       "added_at": "2022-02-24 18:00:00",
       "album": {
-        "name": "Baby Bells Riddim",
-        "url": "https://open.spotify.com/album/71I3LHledB7nFklXLc0GCY"
+        "name": "Happy Music",
+        "url": "https://open.spotify.com/album/7gg7u9cvEVZayLtMLLbO6R"
       },
       "artists": [
         {
-          "name": "Skorch Bun It",
-          "url": "https://open.spotify.com/artist/7ylwp2wfBZGg6NhrqTKFqZ"
-        },
-        {
-          "name": "CoolBlaze",
-          "url": "https://open.spotify.com/artist/7MfpWE7ToeVCeyyQdcEdkf"
-        },
-        {
-          "name": "Salty",
-          "url": "https://open.spotify.com/artist/5wTiDWdoGJYXviy2rK8Out"
-        },
-        {
-          "name": "Sekon Sta",
-          "url": "https://open.spotify.com/artist/6Q08wCr0QX7xdn58DFJKLZ"
+          "name": "Ricardo Drue",
+          "url": "https://open.spotify.com/artist/1YxLPEyDduTjPEBWKA2BmF"
         }
       ],
-      "duration_ms": 227356,
-      "name": "Who Pay!? (Big Bumpa) [feat. Salty & Sekon Sta]",
-      "url": "https://open.spotify.com/track/1NXihWA24LSLJGWbkmK4D8"
+      "duration_ms": 169241,
+      "name": "Weak",
+      "url": "https://open.spotify.com/track/607EfTzykwvBsL3w9rBhyM"
     },
     {
       "added_at": "2022-02-24 18:00:00",
@@ -1007,18 +995,30 @@
     {
       "added_at": "2022-02-24 18:00:00",
       "album": {
-        "name": "Happy Music",
-        "url": "https://open.spotify.com/album/7gg7u9cvEVZayLtMLLbO6R"
+        "name": "Baby Bells Riddim",
+        "url": "https://open.spotify.com/album/71I3LHledB7nFklXLc0GCY"
       },
       "artists": [
         {
-          "name": "Ricardo Drue",
-          "url": "https://open.spotify.com/artist/1YxLPEyDduTjPEBWKA2BmF"
+          "name": "Skorch Bun It",
+          "url": "https://open.spotify.com/artist/7ylwp2wfBZGg6NhrqTKFqZ"
+        },
+        {
+          "name": "CoolBlaze",
+          "url": "https://open.spotify.com/artist/7MfpWE7ToeVCeyyQdcEdkf"
+        },
+        {
+          "name": "Salty",
+          "url": "https://open.spotify.com/artist/5wTiDWdoGJYXviy2rK8Out"
+        },
+        {
+          "name": "Sekon Sta",
+          "url": "https://open.spotify.com/artist/6Q08wCr0QX7xdn58DFJKLZ"
         }
       ],
-      "duration_ms": 169241,
-      "name": "Weak",
-      "url": "https://open.spotify.com/track/607EfTzykwvBsL3w9rBhyM"
+      "duration_ms": 227356,
+      "name": "Who Pay!? (Big Bumpa) [feat. Salty & Sekon Sta]",
+      "url": "https://open.spotify.com/track/1NXihWA24LSLJGWbkmK4D8"
     },
     {
       "added_at": "2022-02-24 18:00:00",
@@ -1243,22 +1243,22 @@
     {
       "added_at": "2022-02-24 18:00:00",
       "album": {
-        "name": "Feeling It",
-        "url": "https://open.spotify.com/album/40IyjtthaOItYrK8mcASuu"
+        "name": "Braff",
+        "url": "https://open.spotify.com/album/3KamCpPGnXLDePk5pKXb6E"
       },
       "artists": [
         {
-          "name": "Swappi",
-          "url": "https://open.spotify.com/artist/1FXS9zsrivPmCwagsuhPdJ"
+          "name": "Teejay",
+          "url": "https://open.spotify.com/artist/30hElzuHCZ1qzCl364SHma"
         },
         {
-          "name": "Ultimate Rejects",
-          "url": "https://open.spotify.com/artist/5XwdTXM2AN5sMV7Su8dUZA"
+          "name": "DING DONG",
+          "url": "https://open.spotify.com/artist/351x2S7CduShTNvtzgkMl7"
         }
       ],
-      "duration_ms": 247272,
-      "name": "Feeling It",
-      "url": "https://open.spotify.com/track/62pvKYjeztdIXbOoucJQfZ"
+      "duration_ms": 188842,
+      "name": "Braff",
+      "url": "https://open.spotify.com/track/0u1FgrJMjQ0G39uJUToYXh"
     }
   ],
   "unique_name": "Soca Bashment",

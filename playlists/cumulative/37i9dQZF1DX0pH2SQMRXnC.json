@@ -2909,6 +2909,24 @@
     },
     {
       "album": {
+        "name": "Don't Stop",
+        "url": "https://open.spotify.com/album/773dIrYYs0MoedYNxuGmzr"
+      },
+      "artists": [
+        {
+          "name": "Rejecta",
+          "url": "https://open.spotify.com/artist/2lmihUu4FzVOepdJpDDrof"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198193,
+      "name": "Don't Stop",
+      "url": "https://open.spotify.com/track/0h1mEjNzfgX3zmrM1FJNtz"
+    },
+    {
+      "album": {
         "name": "WELCOME TO THE GANG VOL. 2",
         "url": "https://open.spotify.com/album/0mC2Hi8MHgiuY03hJPbaxZ"
       },
@@ -4942,7 +4960,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 265489,
       "name": "Going Under",
       "url": "https://open.spotify.com/track/0RoQmGvoaqrE8pkfB5bQtq"
@@ -6914,7 +6932,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 193588,
       "name": "Legendary Days",
       "url": "https://open.spotify.com/track/1CJ55e1kyGUzTSiv8utzQw"
@@ -7176,7 +7194,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-18",
+      "date_removed": null,
       "duration_ms": 303586,
       "name": "Living For The Moment - 2020 Remix",
       "url": "https://open.spotify.com/track/4gZNHeY0uBX0f9VTV1VA3Y"
@@ -8210,7 +8228,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 230588,
       "name": "Never Coming Down",
       "url": "https://open.spotify.com/track/2UMkpNbyMD5JMHoDS2nYle"
@@ -9735,6 +9753,28 @@
     },
     {
       "album": {
+        "name": "Raw Resurgence (Official Supremacy 2023 Anthem)",
+        "url": "https://open.spotify.com/album/2Q5gYixfKgOf7kokByz6TN"
+      },
+      "artists": [
+        {
+          "name": "Rebelion",
+          "url": "https://open.spotify.com/artist/5JcSyYpBdqCmjJyVlKh7Yg"
+        },
+        {
+          "name": "Nolz",
+          "url": "https://open.spotify.com/artist/6kudMw2A0xOBJHpW8VNaDA"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320148,
+      "name": "Raw Resurgence - Official Supremacy 2023 Anthem",
+      "url": "https://open.spotify.com/track/54WsAt5kYg8GPi9s85yPuQ"
+    },
+    {
+      "album": {
         "name": "Reach For The Sky",
         "url": "https://open.spotify.com/album/2kQNfDNKvA4aRSUvxIkgdU"
       },
@@ -9864,7 +9904,7 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-24",
+      "date_removed": null,
       "duration_ms": 231292,
       "name": "Ready To Roll - Deluzion Remix",
       "url": "https://open.spotify.com/track/0MdU4Bbbwd3Z314HwZj4um"
@@ -10440,7 +10480,7 @@
       ],
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 254901,
       "name": "See You",
       "url": "https://open.spotify.com/track/57mgyauwTOeC725Xa0zJdw"
@@ -10564,7 +10604,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-07",
+      "date_removed": null,
       "duration_ms": 213200,
       "name": "Shake The Ground",
       "url": "https://open.spotify.com/track/26aTIeF87ZP7IprFP3vqbi"
@@ -12950,7 +12990,7 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 183638,
       "name": "United As One",
       "url": "https://open.spotify.com/track/5HiEqsOo0c9q1Ae9wODL6s"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ww9tisjowN.md) - [plain]
 
 > Best Gacha Pop Songs in 2023! 2023年のGacha Pop総まとめ！今年Gacha Popで再生された楽曲ベスト100! \#Spotifyまとめ cover: imase
 
-[Spotify](https://open.spotify.com/user/spotify) - 236,320 likes - 100 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 236,895 likes - 100 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ww9tisjowN.md) - [plain]
 | 99 | [Sugar Junky](https://open.spotify.com/track/6fMnx6sbjk9saMZGlSevrz) | [4s4ki](https://open.spotify.com/artist/5yCWuaBlu42BKsnW89brND) | [Castle in Madness](https://open.spotify.com/album/614jKHpWcmW6XcpU2OXRLc) | 2:05 |
 | 100 | [SNEAKING](https://open.spotify.com/track/4zYlju4viLB237Htiz3zgo) | [Mori Calliope](https://open.spotify.com/artist/1PhE6rv0146ZTQosoPDjk8) | [SNEAKING](https://open.spotify.com/album/39rmUoL2KGWuxRFQ28FfhN) | 2:36 |
 
-Snapshot ID: `MCwxMTEwYTNiZGVhYmFkNjkxYmYzZWZlYTEyNjg4YWVjNjE2MDRjYWMy`
+Snapshot ID: `MCw3NmE4ODgxNDBmNjJhNTA2NDY0Nzg5YzZhMTUzNGI2OWY4NjcwMTE4`

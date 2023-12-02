@@ -1451,6 +1451,28 @@
     },
     {
       "album": {
+        "name": "Everybody (Electro Swing Mix)",
+        "url": "https://open.spotify.com/album/6pb9CiKO2Bmhfh5DeGoTzS"
+      },
+      "artists": [
+        {
+          "name": "The Lost Fingers",
+          "url": "https://open.spotify.com/artist/6sp0EZC05wbJUlY1h8oOUc"
+        },
+        {
+          "name": "Wolfgang Lohr",
+          "url": "https://open.spotify.com/artist/5GImm0oU5MkW7OHkb91jwu"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219832,
+      "name": "Everybody - Electro Swing Mix",
+      "url": "https://open.spotify.com/track/6NOeBomPPFW0VCiSRfdbg8"
+    },
+    {
+      "album": {
         "name": "Voodoo Swing",
         "url": "https://open.spotify.com/album/3KX6WYtBTm0826dMFTplPE"
       },

@@ -1,12 +1,12 @@
 {
   "description": "La banda sonora para tus cenas en casa.",
-  "num_followers": 349631,
+  "num_followers": 349655,
   "original_name": "Cena con Amigos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MjkxMzMwOWU2NmI5ZTRkNGFlYmFhOTk0YmYzOGY2MGRjN2FmMWVj",
+  "snapshot_id": "MCxhNTNhODhiMTdmNmIzZWU3YzYxNjBlYmU4MjNkYTljMTFlMDNmNDhm",
   "tracks": [
     {
       "added_at": "2023-05-11 17:54:43",
@@ -679,22 +679,6 @@
     {
       "added_at": "2023-05-11 17:54:43",
       "album": {
-        "name": "Time Out",
-        "url": "https://open.spotify.com/album/0nTTEAhCZsbbeplyDMIFuA"
-      },
-      "artists": [
-        {
-          "name": "The Dave Brubeck Quartet",
-          "url": "https://open.spotify.com/artist/4iRZAbYvBqnxrbs6K25aJ7"
-        }
-      ],
-      "duration_ms": 324133,
-      "name": "Take Five",
-      "url": "https://open.spotify.com/track/1YQWosTIljIvxAgHWTp7KP"
-    },
-    {
-      "added_at": "2023-05-11 17:54:43",
-      "album": {
         "name": "Red Moon In Venus",
         "url": "https://open.spotify.com/album/5OZ44LaqZbpP3m9B3oT8br"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 178274,
       "name": "Fantasy (feat. Don Toliver)",
       "url": "https://open.spotify.com/track/1dvqHhLNccePPBHq11TW7v"
+    },
+    {
+      "added_at": "2023-05-11 17:54:43",
+      "album": {
+        "name": "Time Out",
+        "url": "https://open.spotify.com/album/0nTTEAhCZsbbeplyDMIFuA"
+      },
+      "artists": [
+        {
+          "name": "The Dave Brubeck Quartet",
+          "url": "https://open.spotify.com/artist/4iRZAbYvBqnxrbs6K25aJ7"
+        }
+      ],
+      "duration_ms": 324133,
+      "name": "Take Five",
+      "url": "https://open.spotify.com/track/1YQWosTIljIvxAgHWTp7KP"
     },
     {
       "added_at": "2023-05-11 17:54:43",
@@ -819,18 +819,18 @@
     {
       "added_at": "2023-05-11 17:54:43",
       "album": {
-        "name": "Moondance (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7diHYi0CglGJekoM3KaWBK"
+        "name": "Wasteland, Baby!",
+        "url": "https://open.spotify.com/album/2c7gFThUYyo2t6ogAgIYNw"
       },
       "artists": [
         {
-          "name": "Van Morrison",
-          "url": "https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A"
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
         }
       ],
-      "duration_ms": 274040,
-      "name": "Moondance - 2013 Remaster",
-      "url": "https://open.spotify.com/track/683b4ikwa62JevCjwrmfg6"
+      "duration_ms": 237800,
+      "name": "Movement",
+      "url": "https://open.spotify.com/track/1djzKW3eYLyzjjHXazEWWh"
     },
     {
       "added_at": "2023-05-11 17:54:43",
@@ -851,18 +851,18 @@
     {
       "added_at": "2023-05-11 17:54:43",
       "album": {
-        "name": "Wasteland, Baby!",
-        "url": "https://open.spotify.com/album/2c7gFThUYyo2t6ogAgIYNw"
+        "name": "Moondance (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7diHYi0CglGJekoM3KaWBK"
       },
       "artists": [
         {
-          "name": "Hozier",
-          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+          "name": "Van Morrison",
+          "url": "https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A"
         }
       ],
-      "duration_ms": 237800,
-      "name": "Movement",
-      "url": "https://open.spotify.com/track/1djzKW3eYLyzjjHXazEWWh"
+      "duration_ms": 274040,
+      "name": "Moondance - 2013 Remaster",
+      "url": "https://open.spotify.com/track/683b4ikwa62JevCjwrmfg6"
     },
     {
       "added_at": "2023-05-11 17:54:43",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2023-05-11 17:54:43",
       "album": {
-        "name": "Parsley, Sage, Rosemary And Thyme",
-        "url": "https://open.spotify.com/album/1sh32o99zA04PJIUJUpEj7"
-      },
-      "artists": [
-        {
-          "name": "Simon & Garfunkel",
-          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
-        }
-      ],
-      "duration_ms": 103560,
-      "name": "The 59th Street Bridge Song (Feelin' Groovy)",
-      "url": "https://open.spotify.com/track/0dzbfio3qTYG9uk40SJNcr"
-    },
-    {
-      "added_at": "2023-05-11 17:54:43",
-      "album": {
         "name": "The Astrud Gilberto Album",
         "url": "https://open.spotify.com/album/6haDxdERWK3rdVCGc2jr8E"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 138013,
       "name": "\u00c1gua de Beber",
       "url": "https://open.spotify.com/track/3QKJELWORZZ7rUZDWeMWSA"
+    },
+    {
+      "added_at": "2023-05-11 17:54:43",
+      "album": {
+        "name": "Parsley, Sage, Rosemary And Thyme",
+        "url": "https://open.spotify.com/album/1sh32o99zA04PJIUJUpEj7"
+      },
+      "artists": [
+        {
+          "name": "Simon & Garfunkel",
+          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
+        }
+      ],
+      "duration_ms": 103560,
+      "name": "The 59th Street Bridge Song (Feelin' Groovy)",
+      "url": "https://open.spotify.com/track/0dzbfio3qTYG9uk40SJNcr"
     },
     {
       "added_at": "2023-05-11 17:54:43",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2023-05-11 17:54:43",
       "album": {
-        "name": "Trouble",
-        "url": "https://open.spotify.com/album/2DQHgaOMVOs2OKLaksiMx9"
-      },
-      "artists": [
-        {
-          "name": "Ray LaMontagne",
-          "url": "https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj"
-        }
-      ],
-      "duration_ms": 306200,
-      "name": "Hold You in My Arms",
-      "url": "https://open.spotify.com/track/1U1GtaJeYwGsPgqV9Me5bb"
-    },
-    {
-      "added_at": "2023-05-11 17:54:43",
-      "album": {
         "name": "Tuesday Night Music Club",
         "url": "https://open.spotify.com/album/7dC6axVAeBDpRMmNtRbpwU"
       },
@@ -1447,6 +1431,22 @@
       "duration_ms": 189826,
       "name": "Strong Enough",
       "url": "https://open.spotify.com/track/25IRjWUZ60n7KXxcB4DiX9"
+    },
+    {
+      "added_at": "2023-05-11 17:54:43",
+      "album": {
+        "name": "Trouble",
+        "url": "https://open.spotify.com/album/2DQHgaOMVOs2OKLaksiMx9"
+      },
+      "artists": [
+        {
+          "name": "Ray LaMontagne",
+          "url": "https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj"
+        }
+      ],
+      "duration_ms": 306200,
+      "name": "Hold You in My Arms",
+      "url": "https://open.spotify.com/track/1U1GtaJeYwGsPgqV9Me5bb"
     },
     {
       "added_at": "2023-05-11 17:54:43",
@@ -1483,26 +1483,6 @@
     {
       "added_at": "2023-05-11 17:54:43",
       "album": {
-        "name": "Nouvelle vague",
-        "url": "https://open.spotify.com/album/5odsgd8X7BBy1azAyyKZGY"
-      },
-      "artists": [
-        {
-          "name": "Nouvelle Vague",
-          "url": "https://open.spotify.com/artist/4h7NLIlg1oYdEtfQJfyto0"
-        },
-        {
-          "name": "Camille",
-          "url": "https://open.spotify.com/artist/0gOsZcHl7H3ewXVIEnWFZX"
-        }
-      ],
-      "duration_ms": 238000,
-      "name": "In a Manner of Speaking",
-      "url": "https://open.spotify.com/track/3JaRjTNqNKiK8bWp3Dn7KB"
-    },
-    {
-      "added_at": "2023-05-11 17:54:43",
-      "album": {
         "name": "Julie Is Her Name",
         "url": "https://open.spotify.com/album/6hDZjN3iWJ95RIXnxbiG1P"
       },
@@ -1515,6 +1495,22 @@
       "duration_ms": 149826,
       "name": "I'm In The Mood For Love",
       "url": "https://open.spotify.com/track/6crfO56bDm0RjpctUuGs5X"
+    },
+    {
+      "added_at": "2023-05-11 17:54:43",
+      "album": {
+        "name": "Brenda Lee",
+        "url": "https://open.spotify.com/album/3DzEQCPg0Irz2vWUaBSEkm"
+      },
+      "artists": [
+        {
+          "name": "Brenda Lee",
+          "url": "https://open.spotify.com/artist/4cPHsZM98sKzmV26wlwD2W"
+        }
+      ],
+      "duration_ms": 161546,
+      "name": "I'm Sorry",
+      "url": "https://open.spotify.com/track/4LJcNiq2pBb8OeqrGdBJQw"
     }
   ],
   "unique_name": "Cena con Amigos",

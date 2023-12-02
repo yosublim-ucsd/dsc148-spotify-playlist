@@ -721,6 +721,24 @@
     },
     {
       "album": {
+        "name": "Let's Go",
+        "url": "https://open.spotify.com/album/53ljSpMqlS6b8p5dZfL9Pf"
+      },
+      "artists": [
+        {
+          "name": "Dilpreet Dhillon",
+          "url": "https://open.spotify.com/artist/5CGQa62CAweD76eHlDmp1m"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176428,
+      "name": "Bp Up Down",
+      "url": "https://open.spotify.com/track/4bLKGyKQ9wKGUYA64Jw4QE"
+    },
+    {
+      "album": {
         "name": "Versatile",
         "url": "https://open.spotify.com/album/4XJOG0BM4Lr0XfrscVLu9X"
       },
@@ -2596,7 +2614,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 157590,
       "name": "Khadaak",
       "url": "https://open.spotify.com/track/2l4WWoL2e7XL77hT3r4iee"
@@ -2618,6 +2636,28 @@
       "duration_ms": 216026,
       "name": "Kina Chir",
       "url": "https://open.spotify.com/track/6XPmY4hIb1RGRyNuq0UBsl"
+    },
+    {
+      "album": {
+        "name": "Ghost",
+        "url": "https://open.spotify.com/album/1d1FYLFpu2NITI6ilVaHDd"
+      },
+      "artists": [
+        {
+          "name": "Diljit Dosanjh",
+          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
+        },
+        {
+          "name": "thiarajxtt",
+          "url": "https://open.spotify.com/artist/54BjV0qctcWp8xOip7uaJD"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213344,
+      "name": "Kinni Kinni",
+      "url": "https://open.spotify.com/track/3F3ZuXYFXGM1V6pk3b3zmi"
     },
     {
       "album": {
@@ -4770,7 +4810,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 177391,
       "name": "Summer High",
       "url": "https://open.spotify.com/track/1aL9518P5G72N92b48tuKw"

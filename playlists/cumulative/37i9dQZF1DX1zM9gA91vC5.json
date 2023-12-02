@@ -3350,7 +3350,7 @@
       ],
       "date_added": "2020-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 191500,
       "name": "Dover",
       "url": "https://open.spotify.com/track/5OO8eMfRfnz1YbfQBww27q"
@@ -11744,7 +11744,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-25",
+      "date_removed": null,
       "duration_ms": 136591,
       "name": "Rianmarsi",
       "url": "https://open.spotify.com/track/3DG5USrBXKc74Hf8T1H2jn"
@@ -13317,6 +13317,24 @@
     },
     {
       "album": {
+        "name": "somewhere else, together",
+        "url": "https://open.spotify.com/album/1qLrUd6oXUZoNGZAVY8mDX"
+      },
+      "artists": [
+        {
+          "name": "Aquilegia",
+          "url": "https://open.spotify.com/artist/4XF98HJsL7ue3NksOvebiJ"
+        }
+      ],
+      "date_added": "2023-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189108,
+      "name": "somewhere else, together",
+      "url": "https://open.spotify.com/track/4Pl37bufUvxJOhLJIfLCcl"
+    },
+    {
+      "album": {
         "name": "Sonata del Giardino",
         "url": "https://open.spotify.com/album/1L0WoZmWBaqsMwbs8oa4wm"
       },
@@ -14358,7 +14376,7 @@
       ],
       "date_added": "2021-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 133256,
       "name": "The Hours",
       "url": "https://open.spotify.com/track/3oZOceAylTaZT8EKdz6M50"

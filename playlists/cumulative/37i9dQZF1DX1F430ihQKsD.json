@@ -5936,7 +5936,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 161000,
       "name": "Redcup",
       "url": "https://open.spotify.com/track/4qzwmA5yyAaMQgezGFJhRu"
@@ -6272,6 +6272,24 @@
       "duration_ms": 196607,
       "name": "Settle & Fly",
       "url": "https://open.spotify.com/track/1FVKdp9VPn9SFJfFwBYe14"
+    },
+    {
+      "album": {
+        "name": "Seul",
+        "url": "https://open.spotify.com/album/05qQ20faez845KfgBMURfG"
+      },
+      "artists": [
+        {
+          "name": "Chapeaux pointus",
+          "url": "https://open.spotify.com/artist/1MtFxRJcBcTSAXqgqiUojt"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226000,
+      "name": "Seul",
+      "url": "https://open.spotify.com/track/2peGnmfed1wADMPsG05EGo"
     },
     {
       "album": {

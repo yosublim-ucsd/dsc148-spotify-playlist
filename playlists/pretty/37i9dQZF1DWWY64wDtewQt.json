@@ -1,12 +1,12 @@
 {
   "description": "the beat of your drift",
-  "num_followers": 7105107,
+  "num_followers": 7110978,
   "original_name": "phonk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNjNhYTE1ZWQyMGM4MjY2NGI0ZTRhMmIzY2EzYTg1NDI3MTM5MzBh",
+  "snapshot_id": "MCw1ZGRhMmM1NGM0NzZmYzRiMWM2Yzg0ODVjMjRiOTQ4MzllOTM5MTFi",
   "tracks": [
     {
       "added_at": "2023-09-08 15:16:54",
@@ -189,22 +189,6 @@
       "url": "https://open.spotify.com/track/1A7qPfbcyRVEdcZiwTFhZI"
     },
     {
-      "added_at": "2023-10-06 14:17:07",
-      "album": {
-        "name": "BAIXO",
-        "url": "https://open.spotify.com/album/2Osz2h7ZjKHOZh5grL7o6G"
-      },
-      "artists": [
-        {
-          "name": "xxanteria",
-          "url": "https://open.spotify.com/artist/4nl0CCx6PpEOOr2Z2ThPdp"
-        }
-      ],
-      "duration_ms": 104013,
-      "name": "BAIXO",
-      "url": "https://open.spotify.com/track/0RVmg31gzlshCm356g0HF2"
-    },
-    {
       "added_at": "2023-10-20 10:30:53",
       "album": {
         "name": "Memphis Cult Vol. 6",
@@ -227,6 +211,22 @@
       "duration_ms": 86709,
       "name": "9mm",
       "url": "https://open.spotify.com/track/3K5KXm1uZjiyQk0J7op1xf"
+    },
+    {
+      "added_at": "2023-10-06 14:17:07",
+      "album": {
+        "name": "BAIXO",
+        "url": "https://open.spotify.com/album/2Osz2h7ZjKHOZh5grL7o6G"
+      },
+      "artists": [
+        {
+          "name": "xxanteria",
+          "url": "https://open.spotify.com/artist/4nl0CCx6PpEOOr2Z2ThPdp"
+        }
+      ],
+      "duration_ms": 104013,
+      "name": "BAIXO",
+      "url": "https://open.spotify.com/track/0RVmg31gzlshCm356g0HF2"
     },
     {
       "added_at": "2023-06-09 13:51:36",
@@ -513,6 +513,22 @@
       "url": "https://open.spotify.com/track/7KmbiagSkUbepU88x7NWjb"
     },
     {
+      "added_at": "2022-05-13 04:02:00",
+      "album": {
+        "name": "Phonkageddon",
+        "url": "https://open.spotify.com/album/3mBLmOCKHY1MAOD8fYmffg"
+      },
+      "artists": [
+        {
+          "name": "Kordhell",
+          "url": "https://open.spotify.com/artist/2W6WP4pHQTFlbr2z9S4n54"
+        }
+      ],
+      "duration_ms": 133565,
+      "name": "Live Another Day",
+      "url": "https://open.spotify.com/track/34lfu3S4fIcKZRNXzbdbo7"
+    },
+    {
       "added_at": "2023-02-04 02:41:25",
       "album": {
         "name": "Brazilian Phonk Mano",
@@ -555,22 +571,6 @@
       "duration_ms": 107044,
       "name": "vendetta!",
       "url": "https://open.spotify.com/track/5Sk39LuvdwuvL84jD01Dum"
-    },
-    {
-      "added_at": "2022-05-13 04:02:00",
-      "album": {
-        "name": "Phonkageddon",
-        "url": "https://open.spotify.com/album/3mBLmOCKHY1MAOD8fYmffg"
-      },
-      "artists": [
-        {
-          "name": "Kordhell",
-          "url": "https://open.spotify.com/artist/2W6WP4pHQTFlbr2z9S4n54"
-        }
-      ],
-      "duration_ms": 133565,
-      "name": "Live Another Day",
-      "url": "https://open.spotify.com/track/34lfu3S4fIcKZRNXzbdbo7"
     },
     {
       "added_at": "2022-08-05 04:01:00",
@@ -673,6 +673,26 @@
       "url": "https://open.spotify.com/track/3CLSHJv5aUROAN2vfOyCOh"
     },
     {
+      "added_at": "2023-10-13 15:24:44",
+      "album": {
+        "name": "YUMMI",
+        "url": "https://open.spotify.com/album/4J0FEQtbjPH1DA60p6bKe9"
+      },
+      "artists": [
+        {
+          "name": "LXNGVX",
+          "url": "https://open.spotify.com/artist/5IpS1TN1Crp8Ym4zjiIrtK"
+        },
+        {
+          "name": "YOUK3IV",
+          "url": "https://open.spotify.com/artist/4ftc3UZdpRIPlQVWZRnEg4"
+        }
+      ],
+      "duration_ms": 95996,
+      "name": "YUMMI",
+      "url": "https://open.spotify.com/track/3RlfkOE0lXMec08I6CaakR"
+    },
+    {
       "added_at": "2023-06-30 16:50:50",
       "album": {
         "name": "MTG - PISTA TOMA",
@@ -737,26 +757,6 @@
       "url": "https://open.spotify.com/track/684yJVwS41anCimZla5jk9"
     },
     {
-      "added_at": "2023-10-13 15:24:44",
-      "album": {
-        "name": "YUMMI",
-        "url": "https://open.spotify.com/album/4J0FEQtbjPH1DA60p6bKe9"
-      },
-      "artists": [
-        {
-          "name": "LXNGVX",
-          "url": "https://open.spotify.com/artist/5IpS1TN1Crp8Ym4zjiIrtK"
-        },
-        {
-          "name": "YOUK3IV",
-          "url": "https://open.spotify.com/artist/4ftc3UZdpRIPlQVWZRnEg4"
-        }
-      ],
-      "duration_ms": 95996,
-      "name": "YUMMI",
-      "url": "https://open.spotify.com/track/3RlfkOE0lXMec08I6CaakR"
-    },
-    {
       "added_at": "2023-08-25 14:35:59",
       "album": {
         "name": "ultraphunk",
@@ -801,20 +801,40 @@
       "url": "https://open.spotify.com/track/4B8gtpBuEtU9XUizl6BK2W"
     },
     {
-      "added_at": "2023-10-27 04:00:00",
+      "added_at": "2023-11-17 23:13:59",
       "album": {
-        "name": "A MILLION WAYS TO MURDER",
-        "url": "https://open.spotify.com/album/6Z2SO35cQqwmSsNe5Bj5nM"
+        "name": "BIBI PHONK BR",
+        "url": "https://open.spotify.com/album/4cfBuRZw1az5lIdTYxuOPq"
       },
       "artists": [
         {
-          "name": "Kordhell",
-          "url": "https://open.spotify.com/artist/2W6WP4pHQTFlbr2z9S4n54"
+          "name": "Bibi Babydoll",
+          "url": "https://open.spotify.com/artist/6R26kGib2ubbZJMh7kKVGV"
+        },
+        {
+          "name": "DJ FKU",
+          "url": "https://open.spotify.com/artist/3QMpCp3GHiHXgnX1LldXWe"
         }
       ],
-      "duration_ms": 119608,
-      "name": "A MILLION WAYS TO MURDER",
-      "url": "https://open.spotify.com/track/4O19jxR62IRuXW0g5kuegM"
+      "duration_ms": 119616,
+      "name": "BIBI PHONK BR",
+      "url": "https://open.spotify.com/track/1ytfbcVbSMHIgzijgt4z2e"
+    },
+    {
+      "added_at": "2023-12-01 14:11:37",
+      "album": {
+        "name": "robot rock (funk)",
+        "url": "https://open.spotify.com/album/4GX5gPDX5eZkPY7aDm1Cs4"
+      },
+      "artists": [
+        {
+          "name": "DJ Paulinho Mondi Da Baixa Baviera",
+          "url": "https://open.spotify.com/artist/648ZoUpTM6iIMTCgo3lLCE"
+        }
+      ],
+      "duration_ms": 153529,
+      "name": "robot rock (funk)",
+      "url": "https://open.spotify.com/track/5CzmDYSqoancLlV8vMGdPl"
     },
     {
       "added_at": "2022-05-13 04:02:00",
@@ -863,26 +883,6 @@
       "duration_ms": 141040,
       "name": "COWBELL GOTH",
       "url": "https://open.spotify.com/track/0zcvETeNHWNO050bqZAjOs"
-    },
-    {
-      "added_at": "2023-11-17 23:13:59",
-      "album": {
-        "name": "BIBI PHONK BR",
-        "url": "https://open.spotify.com/album/4cfBuRZw1az5lIdTYxuOPq"
-      },
-      "artists": [
-        {
-          "name": "Bibi Babydoll",
-          "url": "https://open.spotify.com/artist/6R26kGib2ubbZJMh7kKVGV"
-        },
-        {
-          "name": "DJ FKU",
-          "url": "https://open.spotify.com/artist/3QMpCp3GHiHXgnX1LldXWe"
-        }
-      ],
-      "duration_ms": 119616,
-      "name": "BIBI PHONK BR",
-      "url": "https://open.spotify.com/track/1ytfbcVbSMHIgzijgt4z2e"
     },
     {
       "added_at": "2023-09-22 18:14:49",
@@ -953,22 +953,6 @@
       "url": "https://open.spotify.com/track/5Y4OwloGr9QSxZLZ5DXGte"
     },
     {
-      "added_at": "2023-10-13 15:24:44",
-      "album": {
-        "name": "SOCA SOCA",
-        "url": "https://open.spotify.com/album/7Gf4assY5DRHSkEhnY77xm"
-      },
-      "artists": [
-        {
-          "name": "shonci",
-          "url": "https://open.spotify.com/artist/0PDEn6fqo7VEhexzDok9Dl"
-        }
-      ],
-      "duration_ms": 120000,
-      "name": "SOCA SOCA",
-      "url": "https://open.spotify.com/track/73hsuKcpEGujnjA1z5RE2m"
-    },
-    {
       "added_at": "2023-10-06 14:17:07",
       "album": {
         "name": "BACK2BACK",
@@ -989,58 +973,6 @@
       "url": "https://open.spotify.com/track/1cQnwmwwUDB1G64mIi78O0"
     },
     {
-      "added_at": "2023-11-17 23:13:59",
-      "album": {
-        "name": "Automotivo Ascend",
-        "url": "https://open.spotify.com/album/7kqxSeLnFqYGOI64PkEW9T"
-      },
-      "artists": [
-        {
-          "name": "Dezko",
-          "url": "https://open.spotify.com/artist/4FAahCBNlbpgoAhVfuUHPD"
-        },
-        {
-          "name": "Mc Vuk Vuk",
-          "url": "https://open.spotify.com/artist/2ZPJuxIhvGU9rduWAeNdRx"
-        },
-        {
-          "name": "DJ Patrick R",
-          "url": "https://open.spotify.com/artist/0WL2xTzoE0X3Uu0ewOsxaO"
-        },
-        {
-          "name": "MC Wender Pqn",
-          "url": "https://open.spotify.com/artist/6uY975rkczEz2UjiXxB1vp"
-        }
-      ],
-      "duration_ms": 179076,
-      "name": "AUTOMOTIVO ASCEND",
-      "url": "https://open.spotify.com/track/3LaG4LttHrYRlVTNpstmWw"
-    },
-    {
-      "added_at": "2023-11-06 21:14:14",
-      "album": {
-        "name": "ASTRO",
-        "url": "https://open.spotify.com/album/3c8QZL2igzmAcM8IfupjTC"
-      },
-      "artists": [
-        {
-          "name": "Slowboy",
-          "url": "https://open.spotify.com/artist/65FHTCI8EmW94W0TdWb8ja"
-        },
-        {
-          "name": "IVOXYGEN",
-          "url": "https://open.spotify.com/artist/6K9KevAu0cpln7xOsM3Wkm"
-        },
-        {
-          "name": "zaichkou888",
-          "url": "https://open.spotify.com/artist/7yzEddrxGDljtj9TmeCfte"
-        }
-      ],
-      "duration_ms": 144138,
-      "name": "ASTRO",
-      "url": "https://open.spotify.com/track/54sEjr0FU2YTPbEliJ1YPh"
-    },
-    {
       "added_at": "2023-07-07 17:01:13",
       "album": {
         "name": "THE AUTOTREM 1.0",
@@ -1059,6 +991,22 @@
       "duration_ms": 149106,
       "name": "THE AUTOTREM 1.0",
       "url": "https://open.spotify.com/track/1cOOhtwpwDFIjsuZkp2KYJ"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "A MILLION WAYS TO MURDER",
+        "url": "https://open.spotify.com/album/6Z2SO35cQqwmSsNe5Bj5nM"
+      },
+      "artists": [
+        {
+          "name": "Kordhell",
+          "url": "https://open.spotify.com/artist/2W6WP4pHQTFlbr2z9S4n54"
+        }
+      ],
+      "duration_ms": 119608,
+      "name": "A MILLION WAYS TO MURDER",
+      "url": "https://open.spotify.com/track/4O19jxR62IRuXW0g5kuegM"
     },
     {
       "added_at": "2023-09-15 14:15:29",
@@ -1103,30 +1051,6 @@
       "duration_ms": 151213,
       "name": "PSYCHO CRUISE",
       "url": "https://open.spotify.com/track/1tkHHqMZaVoNtQvC32Om8X"
-    },
-    {
-      "added_at": "2023-10-13 15:24:44",
-      "album": {
-        "name": "Oppa",
-        "url": "https://open.spotify.com/album/0MjCgPgOnJJKGvaaLINZig"
-      },
-      "artists": [
-        {
-          "name": "NECROLX",
-          "url": "https://open.spotify.com/artist/6IQCHQSopenTR9Tr9vIelQ"
-        },
-        {
-          "name": "YOUK3IV",
-          "url": "https://open.spotify.com/artist/4ftc3UZdpRIPlQVWZRnEg4"
-        },
-        {
-          "name": "Slowboy",
-          "url": "https://open.spotify.com/artist/65FHTCI8EmW94W0TdWb8ja"
-        }
-      ],
-      "duration_ms": 87000,
-      "name": "Oppa",
-      "url": "https://open.spotify.com/track/2YSBjsqZ2YxwwHi8xqf9ms"
     },
     {
       "added_at": "2023-09-29 15:36:46",
@@ -1217,6 +1141,26 @@
       "url": "https://open.spotify.com/track/7FoanMQjdrrecBH8YiIti2"
     },
     {
+      "added_at": "2023-12-01 14:11:37",
+      "album": {
+        "name": "DEMON\u00cdACO MANO",
+        "url": "https://open.spotify.com/album/3dAc7764DFSY7BanqbUVOU"
+      },
+      "artists": [
+        {
+          "name": "DJ FKU",
+          "url": "https://open.spotify.com/artist/3QMpCp3GHiHXgnX1LldXWe"
+        },
+        {
+          "name": "ENZYYYPHONK",
+          "url": "https://open.spotify.com/artist/2Ku04T3w1OrFWsJ3ahbZNF"
+        }
+      ],
+      "duration_ms": 84692,
+      "name": "DEMON\u00cdACO MANO",
+      "url": "https://open.spotify.com/track/1Ucdq5ig5JvlNis649Q7GY"
+    },
+    {
       "added_at": "2023-08-18 14:41:07",
       "album": {
         "name": "NXSTY BLOOD",
@@ -1231,6 +1175,30 @@
       "duration_ms": 114105,
       "name": "NXSTY BLOOD",
       "url": "https://open.spotify.com/track/7fuGHAXIjGGycKnIPlhG4L"
+    },
+    {
+      "added_at": "2023-12-01 14:11:37",
+      "album": {
+        "name": "Louca Encubada",
+        "url": "https://open.spotify.com/album/33FVoSEMQ47oaf4FYQURpL"
+      },
+      "artists": [
+        {
+          "name": "Dj Samir",
+          "url": "https://open.spotify.com/artist/6U0dJxYVB41L8WDZ02Nwuk"
+        },
+        {
+          "name": "Rodricci",
+          "url": "https://open.spotify.com/artist/0ngIeXf9eyYCjC1Nen0ux8"
+        },
+        {
+          "name": "Launch13",
+          "url": "https://open.spotify.com/artist/3TgsOVvQlRt3sBrIhQ7U9k"
+        }
+      ],
+      "duration_ms": 119221,
+      "name": "Louca Encubada",
+      "url": "https://open.spotify.com/track/0F22C2GRDrqxQFCEk7mds1"
     },
     {
       "added_at": "2023-06-23 15:45:22",
@@ -1267,30 +1235,6 @@
       "duration_ms": 101287,
       "name": "SIMPLE",
       "url": "https://open.spotify.com/track/1fdqbJTHS8cwGbHDU9YU9A"
-    },
-    {
-      "added_at": "2023-10-06 14:17:07",
-      "album": {
-        "name": "Montagem Dilata\u00e7\u00e3o Hipn\u00f3tica 5.0",
-        "url": "https://open.spotify.com/album/3PSJUPT4YdbepqHW7ZXsYD"
-      },
-      "artists": [
-        {
-          "name": "DJ Crazy 013",
-          "url": "https://open.spotify.com/artist/3LMb9Tf8kmQWdKoDmoQM29"
-        },
-        {
-          "name": "Dj Gk7 Original",
-          "url": "https://open.spotify.com/artist/7tiJgTm0H2F1qtsjzVVWqB"
-        },
-        {
-          "name": "DJ Lipe Da Zn",
-          "url": "https://open.spotify.com/artist/6AGAWCe3ACpl0wPBgcmxEv"
-        }
-      ],
-      "duration_ms": 150130,
-      "name": "Montagem Dilata\u00e7\u00e3o Hipn\u00f3tica 5.0",
-      "url": "https://open.spotify.com/track/2FtXfaiyJDRMoqXNLooqwU"
     },
     {
       "added_at": "2023-02-04 02:41:25",
@@ -1333,20 +1277,28 @@
       "url": "https://open.spotify.com/track/7gl5qUaVpN6xOg4mkzGHSl"
     },
     {
-      "added_at": "2023-10-06 14:17:07",
+      "added_at": "2023-10-13 15:24:44",
       "album": {
-        "name": "LEAVE 'EM",
-        "url": "https://open.spotify.com/album/2XFA6X7LSMlwy9xZp3meT8"
+        "name": "Oppa",
+        "url": "https://open.spotify.com/album/0MjCgPgOnJJKGvaaLINZig"
       },
       "artists": [
         {
-          "name": "NIVEK FFORHS",
-          "url": "https://open.spotify.com/artist/4PUbhYyuHOrbVt6SIA4QPG"
+          "name": "NECROLX",
+          "url": "https://open.spotify.com/artist/6IQCHQSopenTR9Tr9vIelQ"
+        },
+        {
+          "name": "YOUK3IV",
+          "url": "https://open.spotify.com/artist/4ftc3UZdpRIPlQVWZRnEg4"
+        },
+        {
+          "name": "Slowboy",
+          "url": "https://open.spotify.com/artist/65FHTCI8EmW94W0TdWb8ja"
         }
       ],
-      "duration_ms": 69357,
-      "name": "LEAVE 'EM",
-      "url": "https://open.spotify.com/track/0Kw4lElym53ZdiikZlr9ts"
+      "duration_ms": 87000,
+      "name": "Oppa",
+      "url": "https://open.spotify.com/track/2YSBjsqZ2YxwwHi8xqf9ms"
     },
     {
       "added_at": "2023-07-07 17:01:13",
@@ -1399,26 +1351,6 @@
       "duration_ms": 84138,
       "name": "Disaster",
       "url": "https://open.spotify.com/track/29e4KOBzZDOX6qnpYbjwoW"
-    },
-    {
-      "added_at": "2022-12-16 08:06:05",
-      "album": {
-        "name": "Slapper (Fast & Furious: Drift Tape/Phonk Vol 1)",
-        "url": "https://open.spotify.com/album/3c42aX4JhfAZHEj0VNNupM"
-      },
-      "artists": [
-        {
-          "name": "DVRST",
-          "url": "https://open.spotify.com/artist/0XFgyr4jwM0MGeZZW0VzA5"
-        },
-        {
-          "name": "Fast & Furious: The Fast Saga",
-          "url": "https://open.spotify.com/artist/1lpOgw56wZLDa8gaP6bSIs"
-        }
-      ],
-      "duration_ms": 67030,
-      "name": "Slapper - Fast & Furious: Drift Tape/Phonk Vol 1",
-      "url": "https://open.spotify.com/track/4Zf7vu8xsZeqOvel5fqyEK"
     },
     {
       "added_at": "2023-09-15 14:15:29",
@@ -1801,6 +1733,22 @@
       "url": "https://open.spotify.com/track/4oMyggIzClkOcCTvotFLkP"
     },
     {
+      "added_at": "2023-12-01 14:11:37",
+      "album": {
+        "name": "Stuck",
+        "url": "https://open.spotify.com/album/4cSPq6OoSJrGeCAdM6B2sa"
+      },
+      "artists": [
+        {
+          "name": "FindMyName",
+          "url": "https://open.spotify.com/artist/0TkciLiDPBbrwTrOG5Kvj2"
+        }
+      ],
+      "duration_ms": 128000,
+      "name": "Stuck",
+      "url": "https://open.spotify.com/track/6H5eT4GWJlYlSid0JIx6hS"
+    },
+    {
       "added_at": "2023-11-17 23:13:59",
       "album": {
         "name": "Salam 1996",
@@ -1835,6 +1783,22 @@
       "duration_ms": 128026,
       "name": "Own Paradise",
       "url": "https://open.spotify.com/track/0uLd2Bf1FBtBNQPsWIkpPG"
+    },
+    {
+      "added_at": "2023-12-01 14:11:37",
+      "album": {
+        "name": "BRODYAGA FUNK",
+        "url": "https://open.spotify.com/album/7EWDvEG6vKIjTBk3rGMtP0"
+      },
+      "artists": [
+        {
+          "name": "Eternxlkz",
+          "url": "https://open.spotify.com/artist/3Xd2WSaNywx5gn1pgRPFjF"
+        }
+      ],
+      "duration_ms": 134785,
+      "name": "BRODYAGA FUNK",
+      "url": "https://open.spotify.com/track/2V3hsJU3bTOATih0Fm4aDp"
     },
     {
       "added_at": "2023-09-15 14:15:29",
@@ -1919,6 +1883,22 @@
       "duration_ms": 113442,
       "name": "Mtg - Cora\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/4nyMoK6gePLzCJybQl4O2F"
+    },
+    {
+      "added_at": "2023-10-06 14:17:07",
+      "album": {
+        "name": "LEAVE 'EM",
+        "url": "https://open.spotify.com/album/2XFA6X7LSMlwy9xZp3meT8"
+      },
+      "artists": [
+        {
+          "name": "NIVEK FFORHS",
+          "url": "https://open.spotify.com/artist/4PUbhYyuHOrbVt6SIA4QPG"
+        }
+      ],
+      "duration_ms": 69357,
+      "name": "LEAVE 'EM",
+      "url": "https://open.spotify.com/track/0Kw4lElym53ZdiikZlr9ts"
     }
   ],
   "unique_name": "phonk",

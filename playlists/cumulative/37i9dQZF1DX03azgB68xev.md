@@ -4,7 +4,7 @@
 
 > Your music\. Your faith\. Your life\. This is Pop for life!  Cover artist: Blessing Offor
 
-350 songs - 19 hr 32 min
+351 songs - 19 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -156,7 +156,7 @@
 | [I Got You](https://open.spotify.com/track/6EPoaw4yFv3MvhaN8eygQB) | [Tasha Layton](https://open.spotify.com/artist/3yCv2yloJueOb4Y3HEYgSq) | [How Far](https://open.spotify.com/album/3gLjb9742smlCKDF42g7yy) | 3:01 | 2021-10-31 | 2023-01-14 |
 | [I Know You Can](https://open.spotify.com/track/5IVnZd5m8CRUAYvgPQ5cpU) | [Planetshakers](https://open.spotify.com/artist/5A0SFJQSdSjFHGcndiGT1s) | [I Know You Can](https://open.spotify.com/album/5YWErHX7eWgsa8ROa4ypGb) | 2:51 | 2023-01-13 |  |
 | [I Trust You \- Radio Edit](https://open.spotify.com/track/5qZREphIiL2VQ4IvuxgRnH) | [Jonathan Traylor](https://open.spotify.com/artist/7KcmdvVaaO7Y0pmHQjOEFo) | [I Trust You \(Radio Edit\)](https://open.spotify.com/album/1qE293EsHJeJdx0yNQDNYU) | 3:37 | 2021-10-31 | 2022-07-29 |
-| [I Will Follow You \- Live](https://open.spotify.com/track/3iYqdGDa5Si2ae9A0jEL66) | [planetboom](https://open.spotify.com/artist/3xDe2V5Jo2zjAT6oemUeDj) | [I Will Follow You \(Live\)](https://open.spotify.com/album/6cr9tcbIA8U3ZelOcClNR3) | 3:51 | 2023-01-13 |  |
+| [I Will Follow You \- Live](https://open.spotify.com/track/3iYqdGDa5Si2ae9A0jEL66) | [planetboom](https://open.spotify.com/artist/3xDe2V5Jo2zjAT6oemUeDj) | [I Will Follow You \(Live\)](https://open.spotify.com/album/6cr9tcbIA8U3ZelOcClNR3) | 3:51 | 2023-01-13 | 2023-12-02 |
 | [I'm Not Lucky, I'm Blessed](https://open.spotify.com/track/1dArj5ck1vZVgkDh3BskuP) | [Love & The Outcome](https://open.spotify.com/artist/1xU1V8I8pFrMOjtuSmjPBs) | [Only Ever Always](https://open.spotify.com/album/7yNjxXnq9rZH3QFStVKaUH) | 3:31 | 2023-01-13 |  |
 | [I'm Still Breathing](https://open.spotify.com/track/6saWL01T4ENiamU9HyBMmb) | [Kevin Quinn](https://open.spotify.com/artist/3HTHz4rj84gMMV8T3u81op) | [I'm Still Breathing](https://open.spotify.com/album/3xselxcmppcZRrOD5DdVWb) | 3:30 | 2021-10-31 | 2023-01-14 |
 | [I'm Yours](https://open.spotify.com/track/0wiYzdVeuQkcfjHArN43Em) | [CalledOut Music](https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH) | [Come Home](https://open.spotify.com/album/0RepEC2kqOu4cHOLfxEmiz) | 3:19 | 2021-10-31 | 2022-06-04 |
@@ -283,6 +283,7 @@
 | [So Alive](https://open.spotify.com/track/2aQZSSRvTDuUJS3Dv6zAOn) | [The Young Escape](https://open.spotify.com/artist/39ZuGmOP3orNn5Pf8S13VW) | [So Alive](https://open.spotify.com/album/2ZyM9mfB6vZRS7KEQX39mm) | 2:58 | 2021-10-31 | 2023-01-13 |
 | [Soldier On](https://open.spotify.com/track/7dDP7XYJvV3hi87evYSwz9) | [Apollo LTD](https://open.spotify.com/artist/2H3EMYFS69dhMmrX9JTkZp) | [Nothing is Ordinary\. Everything is Beautiful.](https://open.spotify.com/album/78lm2RBBywrBwkbxwIqL6P) | 3:02 | 2021-10-31 | 2023-01-14 |
 | [Something Like Love](https://open.spotify.com/track/77TAjJOkVGmgG3XD4oDgJx) | [Dani Miché](https://open.spotify.com/artist/1IAenyCYPeI3B4gpI6I6Cf) | [Something Like Love](https://open.spotify.com/album/3T6mnvfBIXgV8xsNpOQBjc) | 3:22 | 2021-10-31 | 2022-07-27 |
+| [Source](https://open.spotify.com/track/0YJFMeUJeibHyUNw8al76e) | [Landry Cantrell](https://open.spotify.com/artist/6WYJ7U3mOA7bzOMkkkT3N6) | [Lost On Me](https://open.spotify.com/album/3jISEw2vtj2ckkBt7f5OQu) | 3:04 | 2023-01-13 |  |
 | [Source](https://open.spotify.com/track/5P8f4IKLbTap8ua0DKepcX) | [Landry Cantrell](https://open.spotify.com/artist/6WYJ7U3mOA7bzOMkkkT3N6) | [Source](https://open.spotify.com/album/1dqLRB8MrN9zlkSEAhQtIZ) | 3:04 | 2023-01-13 | 2023-11-05 |
 | [Spring Theory](https://open.spotify.com/track/3sVffzt7erAmEJtWLAWevy) | [PEABOD](https://open.spotify.com/artist/07pdmGwYuT4ZOVDAxR6njL) | [Growing Up, Pt.2](https://open.spotify.com/album/095pCpYCaDjZF7txmFbhIr) | 3:41 | 2023-01-13 |  |
 | [Stages](https://open.spotify.com/track/2TSTDPh5i5MySwgmdJgxD4) | [Joseph O'Brien](https://open.spotify.com/artist/1ibVSKkKjRcDYXTJrUprGa) | [Stages](https://open.spotify.com/album/1QP1zErfad0lAsXvejJBb2) | 3:08 | 2021-10-31 | 2023-01-14 |

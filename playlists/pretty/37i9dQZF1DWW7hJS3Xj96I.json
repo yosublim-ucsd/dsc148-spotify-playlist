@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Baila con los mejores \u00e9xitos de los 90! Ricky Martin en portada.",
-  "num_followers": 1092699,
+  "num_followers": 1092919,
   "original_name": "Fiesta 90era",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZDk0N2I4MjEzMWYzYWIxOTkzNmQyNDg2YTczMDVjM2Q3OTc5ZTMx",
+  "snapshot_id": "MCwzZjM0MTA2MjIxYzAxMmY3ZWRlY2Y5Yjk0MjJkMGQwOWU1NDgyZjNm",
   "tracks": [
     {
       "added_at": "2023-10-24 19:18:22",
@@ -175,18 +175,18 @@
     {
       "added_at": "2023-10-24 19:18:22",
       "album": {
-        "name": "Bachata Rosa",
-        "url": "https://open.spotify.com/album/51y3USTITdNJmipX4kQEDS"
+        "name": "Aries",
+        "url": "https://open.spotify.com/album/6UFAOiLDzOOt75eJhrhFNC"
       },
       "artists": [
         {
-          "name": "Juan Luis Guerra 4.40",
-          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
         }
       ],
-      "duration_ms": 245120,
-      "name": "La Bilirrubina",
-      "url": "https://open.spotify.com/track/6M8horg7h52MPTxY0I3dQJ"
+      "duration_ms": 289600,
+      "name": "Suave",
+      "url": "https://open.spotify.com/track/4p7XH4NhQ25iGYrrbg93gt"
     },
     {
       "added_at": "2023-10-24 19:18:22",
@@ -207,18 +207,18 @@
     {
       "added_at": "2023-10-24 19:18:22",
       "album": {
-        "name": "Aries",
-        "url": "https://open.spotify.com/album/6UFAOiLDzOOt75eJhrhFNC"
+        "name": "Bachata Rosa",
+        "url": "https://open.spotify.com/album/51y3USTITdNJmipX4kQEDS"
       },
       "artists": [
         {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+          "name": "Juan Luis Guerra 4.40",
+          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
         }
       ],
-      "duration_ms": 289600,
-      "name": "Suave",
-      "url": "https://open.spotify.com/track/4p7XH4NhQ25iGYrrbg93gt"
+      "duration_ms": 245120,
+      "name": "La Bilirrubina",
+      "url": "https://open.spotify.com/track/6M8horg7h52MPTxY0I3dQJ"
     },
     {
       "added_at": "2023-10-24 19:18:22",
@@ -387,22 +387,6 @@
     {
       "added_at": "2023-10-24 19:18:22",
       "album": {
-        "name": "El Sapo",
-        "url": "https://open.spotify.com/album/4ym0QOQmTKoioL4QwlN2wB"
-      },
-      "artists": [
-        {
-          "name": "Azul Azul",
-          "url": "https://open.spotify.com/artist/0SWtMcmZLgP04Kj5x0eCxa"
-        }
-      ],
-      "duration_ms": 123960,
-      "name": "La Bomba",
-      "url": "https://open.spotify.com/track/0Tl84qfow6Dv0PM60zoBhb"
-    },
-    {
-      "added_at": "2023-10-24 19:18:22",
-      "album": {
         "name": "Mujer",
         "url": "https://open.spotify.com/album/4fbm0OYtjthyi4RlTQuT6l"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 227733,
       "name": "Desesperada",
       "url": "https://open.spotify.com/track/20WaSPMyeIO7NntPpn1FM5"
+    },
+    {
+      "added_at": "2023-10-24 19:18:22",
+      "album": {
+        "name": "El Sapo",
+        "url": "https://open.spotify.com/album/4ym0QOQmTKoioL4QwlN2wB"
+      },
+      "artists": [
+        {
+          "name": "Azul Azul",
+          "url": "https://open.spotify.com/artist/0SWtMcmZLgP04Kj5x0eCxa"
+        }
+      ],
+      "duration_ms": 123960,
+      "name": "La Bomba",
+      "url": "https://open.spotify.com/track/0Tl84qfow6Dv0PM60zoBhb"
     },
     {
       "added_at": "2023-10-24 19:18:22",
@@ -707,6 +707,22 @@
     {
       "added_at": "2023-10-24 19:18:22",
       "album": {
+        "name": "La M\u00e1s Completa Colecci\u00f3n",
+        "url": "https://open.spotify.com/album/6r62ZeOqHlT866I41gDQbA"
+      },
+      "artists": [
+        {
+          "name": "Ragazzi",
+          "url": "https://open.spotify.com/artist/1GtZbseNStljOLGycLUbpA"
+        }
+      ],
+      "duration_ms": 241773,
+      "name": "TBC",
+      "url": "https://open.spotify.com/track/6HJpRs15t69hbKxIhlWwgC"
+    },
+    {
+      "added_at": "2023-10-24 19:18:22",
+      "album": {
         "name": "Lo Mejor De OV7",
         "url": "https://open.spotify.com/album/3YEri67vvZWR0WJxbda8D0"
       },
@@ -735,22 +751,6 @@
       "duration_ms": 216421,
       "name": "Que Bueno Baila Usted",
       "url": "https://open.spotify.com/track/1R8upiSmv7U1rRv0qqvIbS"
-    },
-    {
-      "added_at": "2023-10-24 19:18:22",
-      "album": {
-        "name": "La M\u00e1s Completa Colecci\u00f3n",
-        "url": "https://open.spotify.com/album/6r62ZeOqHlT866I41gDQbA"
-      },
-      "artists": [
-        {
-          "name": "Ragazzi",
-          "url": "https://open.spotify.com/artist/1GtZbseNStljOLGycLUbpA"
-        }
-      ],
-      "duration_ms": 241773,
-      "name": "TBC",
-      "url": "https://open.spotify.com/track/6HJpRs15t69hbKxIhlWwgC"
     },
     {
       "added_at": "2023-10-24 19:18:22",

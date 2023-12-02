@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-05-16",
-  "description": "BM est\u00e1 en el Top \ud83d\udd25\n",
+  "description": "Alan Gomez & La T y La M est\u00e1n en el Top \ud83d\udd25\n",
   "name": "El Top 2023",
   "tracks": [
     {
@@ -2003,6 +2003,40 @@
     },
     {
       "album": {
+        "name": "El WhatsApp (Remix)",
+        "url": "https://open.spotify.com/album/7GM7fXU6oVahpfXoNjNbtg"
+      },
+      "artists": [
+        {
+          "name": "Papichamp",
+          "url": "https://open.spotify.com/artist/1qoJTYkRvsRJMTOxnUnpNW"
+        },
+        {
+          "name": "The La Planta",
+          "url": "https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS"
+        },
+        {
+          "name": "El negro tecla",
+          "url": "https://open.spotify.com/artist/6M6pyt8k3EjvbFo1pZFS75"
+        },
+        {
+          "name": "Lolo OG",
+          "url": "https://open.spotify.com/artist/1HAO6fqdAGX5CiWxBvhiyv"
+        },
+        {
+          "name": "Locura Mix",
+          "url": "https://open.spotify.com/artist/42cc22xiuvWzjmFHSKwwwv"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159900,
+      "name": "El WhatsApp - Remix",
+      "url": "https://open.spotify.com/track/0MDlIAcp1uuaf77uBUmnjh"
+    },
+    {
+      "album": {
         "name": "Ella Baila Sola",
         "url": "https://open.spotify.com/album/3Mm1P5CEEAiuJqBclr2EyU"
       },
@@ -2650,7 +2684,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 170568,
       "name": "L-GANTE | Mission 19",
       "url": "https://open.spotify.com/track/0DI87pDl42R0tPsCrR1rYd"
@@ -2888,6 +2922,28 @@
       "duration_ms": 140109,
       "name": "LA T Y LA M | DJ TAO Turreo Sessions #16",
       "url": "https://open.spotify.com/track/06lBXefqaA4ZUhJCNKkhIv"
+    },
+    {
+      "album": {
+        "name": "LA T Y LA M | Mission 20",
+        "url": "https://open.spotify.com/album/6CqaqF0VtqHJTEbLT16ezM"
+      },
+      "artists": [
+        {
+          "name": "Alan Gomez",
+          "url": "https://open.spotify.com/artist/6oMRQ5H3A2XA5I3RG3leni"
+        },
+        {
+          "name": "La T y La M",
+          "url": "https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152628,
+      "name": "LA T Y LA M | Mission 20",
+      "url": "https://open.spotify.com/track/0HHdDO4wXmxjZzBQFkj8mX"
     },
     {
       "album": {
@@ -3544,6 +3600,28 @@
       "duration_ms": 186666,
       "name": "Mejor Que Ayer",
       "url": "https://open.spotify.com/track/3fvOt4vIE0JMO8GtMlrKip"
+    },
+    {
+      "album": {
+        "name": "Mentirosa Remix",
+        "url": "https://open.spotify.com/album/73D3SBYlUHneMYQmSCWCnl"
+      },
+      "artists": [
+        {
+          "name": "Rafaga",
+          "url": "https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS"
+        },
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179405,
+      "name": "Mentirosa Remix",
+      "url": "https://open.spotify.com/track/5bgkgmz1bx7GxD6Kh6xeS8"
     },
     {
       "album": {
@@ -5093,6 +5171,28 @@
     },
     {
       "album": {
+        "name": "ROZE | DJ TAO Turreo Sessions #22",
+        "url": "https://open.spotify.com/album/5jpQWN1yr0LVt6ksILGFIP"
+      },
+      "artists": [
+        {
+          "name": "DJ Tao",
+          "url": "https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU"
+        },
+        {
+          "name": "Roze Oficial",
+          "url": "https://open.spotify.com/artist/2Hxu0Wmd7FUm0euCVInVrN"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155291,
+      "name": "ROZE | DJ TAO Turreo Sessions #22",
+      "url": "https://open.spotify.com/track/5wcghdKONQcc5TKx9jCcns"
+    },
+    {
+      "album": {
         "name": "RULO VERDE",
         "url": "https://open.spotify.com/album/2uCKqubbSSjFd0owGw7Rgo"
       },
@@ -5354,7 +5454,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 120759,
       "name": "Si Me Disculpo Ahora",
       "url": "https://open.spotify.com/track/3O9U11gu6g9yzYaOta36fF"
@@ -5514,7 +5614,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 143970,
       "name": "Tango De Crueldad",
       "url": "https://open.spotify.com/track/2yuoFc7FMd31eA0gaMmHxq"

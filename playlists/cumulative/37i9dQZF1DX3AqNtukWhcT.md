@@ -4,7 +4,7 @@
 
 > Global ambient with percussion to soundtrack your Yoga session.
 
-176 songs - 9 hr 16 min
+177 songs - 9 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [Chakra Flow Beat](https://open.spotify.com/track/2yVYWhj44F5uLKyTXtDAFP) | [Sun Of Sanny](https://open.spotify.com/artist/5luG8VudoiQNvcN2OEcdpC) | [Zone Out Beats](https://open.spotify.com/album/6sMoy5WKH2lqNzOP7UZWOY) | 3:00 | 2022-09-02 | 2023-08-12 |
 | [Chinese Herbs](https://open.spotify.com/track/1ROHEkrFviF2sg0JdlmsNi) | [Goa Gubhar](https://open.spotify.com/artist/6wcKtx6vCZVkuSjR4a7UaB) | [Holy River](https://open.spotify.com/album/6HhpIS459we5oHB8GTW8Q2) | 2:54 | 2022-11-25 |  |
 | [Come Hang With Me](https://open.spotify.com/track/3nkVPQqsAnSVfcwJ2tHXh1) | [Gadaragh](https://open.spotify.com/artist/2htCgKICdd3y3WpVjh5hyR) | [Come Hang With Me](https://open.spotify.com/album/6dhlzRNnvtYFO7lLomD8hS) | 1:55 | 2022-09-02 | 2023-06-22 |
+| [Compassion](https://open.spotify.com/track/1JC25MxOFnF1YyV4TpLr6q) | [Axel Pacem](https://open.spotify.com/artist/62RbCNMx3dAEBpaW4ev3iy) | [Compassion](https://open.spotify.com/album/1FOn0VvwCxcGzUkjnrbSMP) | 2:23 | 2023-12-01 |  |
 | [Danaus Genutia](https://open.spotify.com/track/0vRHzTymALeCeAL1l5dw5q) | [Star Lions](https://open.spotify.com/artist/3oyABNjDzJ2BL5tshlzpf0) | [Lines of Mauve](https://open.spotify.com/album/3f7SSz5LBqvz1Vqmkffk4V) | 3:34 | 2022-10-25 | 2023-06-22 |
 | [Dance of Calming Sun](https://open.spotify.com/track/21FOpLRPeaNDp4kLANJL9A) | [African Music Drums Collection](https://open.spotify.com/artist/1VZg5g46KNbpD7CsIxPrKo) | [African Healing Dance Therapy \- Tribal Trip, Ethno Lullaby, Vital Trance, Shamanic Serenity, Safari Sunrise](https://open.spotify.com/album/2BamWXOnKROZeTh0VW775W) | 3:31 | 2022-09-02 | 2022-10-26 |
 | [Deep Wellness](https://open.spotify.com/track/3n4QsPRpbkzgXwP8PprorS) | [Nagawa Meditation](https://open.spotify.com/artist/5YkvkEVx0z1r9HQ3mMTCQQ) | [Fountain of Life](https://open.spotify.com/album/1ipenLBGBc2xcdSKd4BF08) | 3:27 | 2022-09-02 | 2022-11-26 |
@@ -142,7 +143,7 @@
 | [Spadina Ave](https://open.spotify.com/track/1zQZnHwMSlP1eov6Lr4fTM) | [Vacant Cities](https://open.spotify.com/artist/4ln07OZWdNaIm0qb1fVOQ7) | [Spadina Ave](https://open.spotify.com/album/0AYKKATiUEWrX0mPzXZF8U) | 3:09 | 2023-08-11 |  |
 | [Spirit of Suvidha](https://open.spotify.com/track/4grKRzSE5X7wagEemdYcK6) | [Cling](https://open.spotify.com/artist/45cyu48KZ9TCcORA7W4Apw) | [Spirit of Suvidha](https://open.spotify.com/album/0Tcd5uwUY29RRqbLVjeF0m) | 2:44 | 2022-09-22 |  |
 | [Spring Flower](https://open.spotify.com/track/6wPoL3OrhS8NOOwWk9F7QW) | [I Haga Xela](https://open.spotify.com/artist/14l8W9RkIRqaYt89jWg6tT) | [Spring Flower](https://open.spotify.com/album/2E3hwDKb2jqMrS3oMqAyZp) | 3:00 | 2022-09-22 |  |
-| [State Of Mind](https://open.spotify.com/track/2kMq8XxAqO6ZVlx7wTfF7w) | [Vasts](https://open.spotify.com/artist/2SFcZyrJePTkkpGJ3auRCV) | [Until Dawn](https://open.spotify.com/album/5UCKkqlCwev6mlA8K3qtvf) | 2:43 | 2022-09-02 |  |
+| [State Of Mind](https://open.spotify.com/track/2kMq8XxAqO6ZVlx7wTfF7w) | [Vasts](https://open.spotify.com/artist/2SFcZyrJePTkkpGJ3auRCV) | [Until Dawn](https://open.spotify.com/album/5UCKkqlCwev6mlA8K3qtvf) | 2:43 | 2022-09-02 | 2023-12-02 |
 | [Still Holding Still](https://open.spotify.com/track/0IzgnldBjDUZwaUxbbfsRH) | [Galtritandos](https://open.spotify.com/artist/4QyQTLlakG31IZkXiacgpA) | [Still Holding Still](https://open.spotify.com/album/3DahldM8WQAFCPLoMW6yFc) | 1:54 | 2022-09-02 | 2023-06-22 |
 | [Stillness is Waiting](https://open.spotify.com/track/4lGwOa5uQ6NFjm1wTZODUo) | [Alex Couture](https://open.spotify.com/artist/25G0894RyKrGyKDqdG1pGu) | [Handpan Reflections](https://open.spotify.com/album/449GydnmUhqj6rKP6P8ufT) | 2:38 | 2022-09-02 | 2023-08-12 |
 | [Straight](https://open.spotify.com/track/3S157arhUxGRk5KMXQoH5I) | [Rhucle](https://open.spotify.com/artist/0y0cl3t1UlQf0730g7Zjkl) | [Royal Blue](https://open.spotify.com/album/6pmKXb63Osnj2DnCy0lb2z) | 4:21 | 2022-09-02 | 2023-08-12 |

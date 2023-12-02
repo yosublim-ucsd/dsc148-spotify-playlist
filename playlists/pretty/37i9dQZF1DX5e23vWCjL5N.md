@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5e23vWCjL5N.md) - [plain]
 
 > Tra storytelling e barre affilate, il meglio del rap game italiano\. Cover: Guè
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,055 likes - 59 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,190 likes - 59 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,4 +68,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5e23vWCjL5N.md) - [plain]
 | 58 | [Morto di fame \(feat\. Lazza\)](https://open.spotify.com/track/4hqi818jHZUJIbJ6OJllGI) | [Emis Killa](https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G), [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM) | [Keta Music, Vol\. 3](https://open.spotify.com/album/5XmLyPktaR9fYxYqtQukqa) | 2:43 |
 | 59 | [Noia](https://open.spotify.com/track/67eVdMdbm9cp8A1Thsdcr1) | [Fabri Fibra](https://open.spotify.com/artist/7u710e44HW3K7A5eTnRqHC), [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7) | [Caos](https://open.spotify.com/album/3uiWXB4lUCGo3QHxMVxGEB) | 4:44 |
 
-Snapshot ID: `MCxjOTRmMTIyOTExMDY4MzZjYWRmOWZmODM3YmViY2ZmZTNjNGYzNzZi`
+Snapshot ID: `MCxhNGVmYmY3ZWUyMDAyYjViNjU5ZGUyNTg2YTJjZTIwMjg3MTliZmY0`

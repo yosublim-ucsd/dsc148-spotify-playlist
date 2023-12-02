@@ -1,13 +1,221 @@
 {
   "description": "Listen to <a href=\"spotify:artist:3dE92yGWcrboP1kC5SWyqu\">Todd Terry</a>'s favorite tracks. Updated regularly. More track IDs <a href=\"spotify:genre:track_id\">here</a>.",
-  "num_followers": 43984,
+  "num_followers": 44001,
   "original_name": "Todd Terry's track IDs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MGNmODA1NThjOWUxOGE5NDU1NTBlZTc0YzBhNDFjYjY5NzQ0MzQ0",
+  "snapshot_id": "MCxhNWZiMzE2ZTljOWM0ZDg5ODYyMjkwZDcwYTg1NzZhMzIxNjczZTgy",
   "tracks": [
+    {
+      "added_at": "2023-12-01 14:30:50",
+      "album": {
+        "name": "Don't Bother Me EP",
+        "url": "https://open.spotify.com/album/5il50KYizwMVqyiiVwJrFE"
+      },
+      "artists": [
+        {
+          "name": "SYREETA",
+          "url": "https://open.spotify.com/artist/6NLeKpbb77Bgp6hPZjf6KJ"
+        }
+      ],
+      "duration_ms": 210822,
+      "name": "Don't Bother Me",
+      "url": "https://open.spotify.com/track/7sU97fZkuTXnQsv4qkUZIJ"
+    },
+    {
+      "added_at": "2023-12-01 14:30:50",
+      "album": {
+        "name": "On My Mind",
+        "url": "https://open.spotify.com/album/186uyD7sS54yFZ4viGrIz9"
+      },
+      "artists": [
+        {
+          "name": "Nic Fanciulli",
+          "url": "https://open.spotify.com/artist/7btR5VXutQv39SDEzcfXEk"
+        }
+      ],
+      "duration_ms": 188307,
+      "name": "On My Mind",
+      "url": "https://open.spotify.com/track/3srre2C7GNHuowM46tOe1J"
+    },
+    {
+      "added_at": "2023-12-01 14:30:50",
+      "album": {
+        "name": "The Greatest Thing Alive",
+        "url": "https://open.spotify.com/album/4pO9irtP1FElMi4HaIUct0"
+      },
+      "artists": [
+        {
+          "name": "Mark Knight",
+          "url": "https://open.spotify.com/artist/3h11MHQeCrcsUgRRijI1zL"
+        },
+        {
+          "name": "Green Velvet",
+          "url": "https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2"
+        },
+        {
+          "name": "James Hurr",
+          "url": "https://open.spotify.com/artist/2g9i2kA0jUr6sfAT28l2vL"
+        }
+      ],
+      "duration_ms": 176065,
+      "name": "The Greatest Thing Alive",
+      "url": "https://open.spotify.com/track/6As1zfxQHAgeQPBK2paaqh"
+    },
+    {
+      "added_at": "2023-12-01 14:30:50",
+      "album": {
+        "name": "What You Do",
+        "url": "https://open.spotify.com/album/1UOPdCTXo3t3FiKUymuEmG"
+      },
+      "artists": [
+        {
+          "name": "Todd Terry",
+          "url": "https://open.spotify.com/artist/3dE92yGWcrboP1kC5SWyqu"
+        },
+        {
+          "name": "Gene Chandler",
+          "url": "https://open.spotify.com/artist/52uMkSFt2RVO6XxTEt5VeW"
+        }
+      ],
+      "duration_ms": 167619,
+      "name": "What You Do - Edit",
+      "url": "https://open.spotify.com/track/0Y0OS0TWQcZupANt5PpVot"
+    },
+    {
+      "added_at": "2023-12-01 14:30:50",
+      "album": {
+        "name": "Jealous",
+        "url": "https://open.spotify.com/album/4Kka250AUtEvx1XUuoNHfZ"
+      },
+      "artists": [
+        {
+          "name": "Mochakk",
+          "url": "https://open.spotify.com/artist/0rTh1tAdrEbdKZBTiiAQSo"
+        }
+      ],
+      "duration_ms": 256406,
+      "name": "Jealous",
+      "url": "https://open.spotify.com/track/5Ir9mqfAUnXkSkXHF1yvM0"
+    },
+    {
+      "added_at": "2023-11-06 18:56:25",
+      "album": {
+        "name": "It's Not Over",
+        "url": "https://open.spotify.com/album/75SLCLB5QrWIf09VBOXx9e"
+      },
+      "artists": [
+        {
+          "name": "Alex Preston",
+          "url": "https://open.spotify.com/artist/0f8HuVIxsHG6bnEZsz0RuD"
+        }
+      ],
+      "duration_ms": 194328,
+      "name": "It's Not Over",
+      "url": "https://open.spotify.com/track/1zPPYVyBQitvuHTc8DOpUx"
+    },
+    {
+      "added_at": "2023-12-01 14:30:50",
+      "album": {
+        "name": "Wan Poku Moro",
+        "url": "https://open.spotify.com/album/1PNgB46lYo6dl3OwtQ7INQ"
+      },
+      "artists": [
+        {
+          "name": "2000 And One",
+          "url": "https://open.spotify.com/artist/030NUgrxJxZPLc7cXUhgvD"
+        },
+        {
+          "name": "Riva Starr",
+          "url": "https://open.spotify.com/artist/1TRFAJu3Cw64APToZaGk9D"
+        }
+      ],
+      "duration_ms": 366889,
+      "name": "Wan Poku Moro - Riva Starr 'Warehouse Love' Remix",
+      "url": "https://open.spotify.com/track/0FC3ixUuFjJLUlf20qWNTR"
+    },
+    {
+      "added_at": "2023-11-06 18:56:25",
+      "album": {
+        "name": "Colourblind",
+        "url": "https://open.spotify.com/album/11GNGqeQLQTGUTn8AewzDy"
+      },
+      "artists": [
+        {
+          "name": "Jess Bays",
+          "url": "https://open.spotify.com/artist/5xEJ7FQOtIUMLdnKyZrvPB"
+        },
+        {
+          "name": "Hayley May",
+          "url": "https://open.spotify.com/artist/1WcwbtAnG5HWNbPPK84ued"
+        }
+      ],
+      "duration_ms": 185120,
+      "name": "Colourblind",
+      "url": "https://open.spotify.com/track/1ZNaOGKAZKaZh7V87zDs1i"
+    },
+    {
+      "added_at": "2023-11-06 18:56:25",
+      "album": {
+        "name": "Million Dollar Bill",
+        "url": "https://open.spotify.com/album/1vu51AVRSHyaS3D2GxzsF7"
+      },
+      "artists": [
+        {
+          "name": "Beyond Chicago",
+          "url": "https://open.spotify.com/artist/1fU8WO9zbHN8ylxhoh9ix7"
+        },
+        {
+          "name": "Majestic",
+          "url": "https://open.spotify.com/artist/6QMABvTzixnxzsLYyhqRxI"
+        },
+        {
+          "name": "Alex Mills",
+          "url": "https://open.spotify.com/artist/6z9EDgWh3ZJZKIJI5Q71Cq"
+        }
+      ],
+      "duration_ms": 128024,
+      "name": "Million Dollar Bill",
+      "url": "https://open.spotify.com/track/33o5QF5ZEAllqV4jDnRYu7"
+    },
+    {
+      "added_at": "2023-11-06 18:56:25",
+      "album": {
+        "name": "Sweat",
+        "url": "https://open.spotify.com/album/56eNIDF7UTbl3Z8jw1Gofs"
+      },
+      "artists": [
+        {
+          "name": "ESSEL",
+          "url": "https://open.spotify.com/artist/2ucdZN7GyBGxIKHIzksnXc"
+        }
+      ],
+      "duration_ms": 200318,
+      "name": "Sweat",
+      "url": "https://open.spotify.com/track/5Ly2w3jKYFvHbOv6Jf4HNM"
+    },
+    {
+      "added_at": "2023-12-01 14:30:50",
+      "album": {
+        "name": "Apaga La Luz (Remixes)",
+        "url": "https://open.spotify.com/album/5gby8KUlTV2em1XFsuT9h8"
+      },
+      "artists": [
+        {
+          "name": "Tony Touch",
+          "url": "https://open.spotify.com/artist/19MNIbED5OlB4TxiAYStlH"
+        },
+        {
+          "name": "Mike Dunn",
+          "url": "https://open.spotify.com/artist/55UOywvWbUD9c6C3NSGdft"
+        }
+      ],
+      "duration_ms": 311081,
+      "name": "Apaga La Luz - Mike Dunn Re-Touch",
+      "url": "https://open.spotify.com/track/0WKgc9jgS3WlogJbbLOYig"
+    },
     {
       "added_at": "2023-11-06 18:56:25",
       "album": {
@@ -31,194 +239,42 @@
     {
       "added_at": "2023-11-06 18:56:25",
       "album": {
-        "name": "Dress Code",
-        "url": "https://open.spotify.com/album/4LvkMrD1HDDOzWHRS7GKE1"
+        "name": "Get On Down",
+        "url": "https://open.spotify.com/album/09D39Cwhfq3VNYp9gw16cz"
       },
       "artists": [
         {
-          "name": "Mau P",
-          "url": "https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv"
-        }
-      ],
-      "duration_ms": 203437,
-      "name": "Dress Code",
-      "url": "https://open.spotify.com/track/0rK3a7tLRVgJBoc2DP3tIX"
-    },
-    {
-      "added_at": "2023-11-06 18:56:25",
-      "album": {
-        "name": "RAW EP",
-        "url": "https://open.spotify.com/album/1ZWwjrnhtz8V1QIScYEXEK"
-      },
-      "artists": [
-        {
-          "name": "Oden & Fatzo",
-          "url": "https://open.spotify.com/artist/2YEnrpAWWaNRFumgde1lLH"
+          "name": "Ferreck Dawn",
+          "url": "https://open.spotify.com/artist/3cnAJv9gydgm52KFIsdvO8"
         },
-        {
-          "name": "THEOS",
-          "url": "https://open.spotify.com/artist/1hfqK3rF48A3CDcV8SAiyM"
-        },
-        {
-          "name": "Queen Rose",
-          "url": "https://open.spotify.com/artist/4ffLGz2xBwZ8DELkCT0T4h"
-        }
-      ],
-      "duration_ms": 214749,
-      "name": "Set You Free (feat. Queen Rose)",
-      "url": "https://open.spotify.com/track/34cdkQW4SdWcX1K5v8G2FP"
-    },
-    {
-      "added_at": "2023-11-06 18:56:25",
-      "album": {
-        "name": "The Walk To Church",
-        "url": "https://open.spotify.com/album/51D8zWZh1XZ2XREofvYF8Q"
-      },
-      "artists": [
-        {
-          "name": "Jack Back",
-          "url": "https://open.spotify.com/artist/4bXUaTjc7TQTvLqqCAlfYt"
-        },
-        {
-          "name": "Wh0",
-          "url": "https://open.spotify.com/artist/132Hhe61bhvXtkygENHZHA"
-        },
-        {
-          "name": "Roland Clark",
-          "url": "https://open.spotify.com/artist/4OGlp2UdUQGPJVbvJ82Cz5"
-        }
-      ],
-      "duration_ms": 198095,
-      "name": "The Walk To Church",
-      "url": "https://open.spotify.com/track/2mZRna9DI8dqUEt1JhZs6l"
-    },
-    {
-      "added_at": "2023-11-06 18:56:25",
-      "album": {
-        "name": "LALALA",
-        "url": "https://open.spotify.com/album/6hxVFjWlFEeezccloBHDKW"
-      },
-      "artists": [
-        {
-          "name": "Duck Sauce",
-          "url": "https://open.spotify.com/artist/0q8J3Yj810t5cpAYEJ7gxt"
-        },
-        {
-          "name": "Armand Van Helden",
-          "url": "https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE"
-        },
-        {
-          "name": "A-Trak",
-          "url": "https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt"
-        }
-      ],
-      "duration_ms": 169635,
-      "name": "LALALA",
-      "url": "https://open.spotify.com/track/0vMAY6AodrM6yXH8Gi9Xzq"
-    },
-    {
-      "added_at": "2023-11-06 18:56:25",
-      "album": {
-        "name": "To The Sky",
-        "url": "https://open.spotify.com/album/3NRoXf6bsDfw0rHvxEwIau"
-      },
-      "artists": [
-        {
-          "name": "Piero Pirupa",
-          "url": "https://open.spotify.com/artist/5FD9tbbiWd6th8FaOdCtnB"
-        }
-      ],
-      "duration_ms": 158095,
-      "name": "To The Sky - Edit",
-      "url": "https://open.spotify.com/track/5GkdchB8RZ5yABpqIMZTLY"
-    },
-    {
-      "added_at": "2023-11-06 18:56:25",
-      "album": {
-        "name": "Sunday School",
-        "url": "https://open.spotify.com/album/3ySVaJhq6NJhZ8Xk33RmCA"
-      },
-      "artists": [
-        {
-          "name": "Bushwacka!",
-          "url": "https://open.spotify.com/artist/3qME1ocYrJ5U6gjWn2Lw6h"
-        }
-      ],
-      "duration_ms": 198912,
-      "name": "Sunday School",
-      "url": "https://open.spotify.com/track/0zLgOvF38QWGmogMT06Tlw"
-    },
-    {
-      "added_at": "2023-11-06 18:56:25",
-      "album": {
-        "name": "Take My Hand (feat. Josh Barry)",
-        "url": "https://open.spotify.com/album/3FsMheFQtusAMlfV75Nbyc"
-      },
-      "artists": [
-        {
-          "name": "Sam Divine",
-          "url": "https://open.spotify.com/artist/029RjYsk0DU8LKC92sUyXZ"
-        },
-        {
-          "name": "Josh Barry",
-          "url": "https://open.spotify.com/artist/6oruQTIjrgFYzOSKhp7Kt6"
-        }
-      ],
-      "duration_ms": 171670,
-      "name": "Take My Hand (feat. Josh Barry)",
-      "url": "https://open.spotify.com/track/78zqqw3oLhwiifmbqHoBaN"
-    },
-    {
-      "added_at": "2023-11-06 18:56:25",
-      "album": {
-        "name": "It's Not Over",
-        "url": "https://open.spotify.com/album/75SLCLB5QrWIf09VBOXx9e"
-      },
-      "artists": [
-        {
-          "name": "Alex Preston",
-          "url": "https://open.spotify.com/artist/0f8HuVIxsHG6bnEZsz0RuD"
-        }
-      ],
-      "duration_ms": 194328,
-      "name": "It's Not Over",
-      "url": "https://open.spotify.com/track/1zPPYVyBQitvuHTc8DOpUx"
-    },
-    {
-      "added_at": "2023-11-06 18:56:25",
-      "album": {
-        "name": "Don't Wanna Fall In Love (DJ Rae VIP Mix)",
-        "url": "https://open.spotify.com/album/75awTLsNnJDyIEBgM1a8Wu"
-      },
-      "artists": [
         {
           "name": "Todd Terry",
           "url": "https://open.spotify.com/artist/3dE92yGWcrboP1kC5SWyqu"
-        },
-        {
-          "name": "DJ Rae",
-          "url": "https://open.spotify.com/artist/746LyYgFU6Gni4CMVPlFNa"
         }
       ],
-      "duration_ms": 170124,
-      "name": "Don't Wanna Fall In Love - DJ Rae VIP Edit",
-      "url": "https://open.spotify.com/track/0WXrLrl47M2nkfwqBX4mRb"
+      "duration_ms": 185760,
+      "name": "Get On Down",
+      "url": "https://open.spotify.com/track/7exHHOSg7JZ7BSmkeP5HaY"
     },
     {
       "added_at": "2023-11-06 18:56:25",
       "album": {
-        "name": "Sweat",
-        "url": "https://open.spotify.com/album/56eNIDF7UTbl3Z8jw1Gofs"
+        "name": "I Want You",
+        "url": "https://open.spotify.com/album/3Dh81kJfGeinI3r7YMNX3E"
       },
       "artists": [
         {
-          "name": "ESSEL",
-          "url": "https://open.spotify.com/artist/2ucdZN7GyBGxIKHIzksnXc"
+          "name": "Butch",
+          "url": "https://open.spotify.com/artist/5kLzaeSHrmS7okc5XNE6lv"
+        },
+        {
+          "name": "Nic Fanciulli",
+          "url": "https://open.spotify.com/artist/7btR5VXutQv39SDEzcfXEk"
         }
       ],
-      "duration_ms": 200318,
-      "name": "Sweat",
-      "url": "https://open.spotify.com/track/5Ly2w3jKYFvHbOv6Jf4HNM"
+      "duration_ms": 187286,
+      "name": "I Want You",
+      "url": "https://open.spotify.com/track/5UM6P3y6794GYNOzZvj2zh"
     },
     {
       "added_at": "2023-11-06 18:56:25",
@@ -241,72 +297,60 @@
       "url": "https://open.spotify.com/track/2mhtXfWljeoqCK9w2VjZkb"
     },
     {
-      "added_at": "2023-11-06 18:56:25",
+      "added_at": "2023-12-01 14:30:50",
       "album": {
-        "name": "Come On Over",
-        "url": "https://open.spotify.com/album/3KwrRdNOMHgBweH1eJuRrk"
+        "name": "Gettum",
+        "url": "https://open.spotify.com/album/0H9ant2mYdzp1SzYwqbOLc"
       },
       "artists": [
         {
-          "name": "Luke Solomon",
-          "url": "https://open.spotify.com/artist/25CzLz5CINIKfN2r2bcl11"
+          "name": "Pinto (NYC)",
+          "url": "https://open.spotify.com/artist/4rldFvbl9NIVFrsguo5epO"
         },
         {
-          "name": "Amp Fiddler",
-          "url": "https://open.spotify.com/artist/39g75EmRFeFbvHhsGjUpLU"
+          "name": "FIGHT CLVB",
+          "url": "https://open.spotify.com/artist/7d6RF1h3kPu6Ij0RXcTeJg"
         }
       ],
-      "duration_ms": 160900,
-      "name": "Come On Over",
-      "url": "https://open.spotify.com/track/6S0dDUoFZvgfg8VqZnB2S8"
+      "duration_ms": 204111,
+      "name": "Gettum",
+      "url": "https://open.spotify.com/track/3g1i6eu2HTT6hrhmdItrGx"
     },
     {
-      "added_at": "2023-11-06 18:56:25",
+      "added_at": "2023-12-01 14:30:50",
       "album": {
-        "name": "Giving Me",
-        "url": "https://open.spotify.com/album/0wTaLHasxRWB2VBwh9maAc"
+        "name": "LOVE DESIRE",
+        "url": "https://open.spotify.com/album/3o0mUc0qIqFIQE5q7qQZk3"
       },
       "artists": [
         {
-          "name": "Jazzy",
-          "url": "https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP"
+          "name": "CASSIMM",
+          "url": "https://open.spotify.com/artist/1dA7pt23MNLlDsLpABATtG"
         }
       ],
-      "duration_ms": 169000,
-      "name": "Giving Me",
-      "url": "https://open.spotify.com/track/1ACFweuuvf6MHtptObgreR"
+      "duration_ms": 171428,
+      "name": "LOVE DESIRE",
+      "url": "https://open.spotify.com/track/4N3yU64ssk2LKTB98nQvoA"
     },
     {
-      "added_at": "2023-11-06 18:56:25",
+      "added_at": "2023-12-01 14:30:50",
       "album": {
-        "name": "Dope",
-        "url": "https://open.spotify.com/album/3STZZzGrH6utEjSXI2q2uZ"
+        "name": "E-Soul",
+        "url": "https://open.spotify.com/album/16hF10iERvFSYxGV4ty43f"
       },
       "artists": [
         {
-          "name": "HP Vince",
-          "url": "https://open.spotify.com/artist/08Lep2BacHxwwnUaaiXvlW"
-        }
-      ],
-      "duration_ms": 200476,
-      "name": "Dope - Edit",
-      "url": "https://open.spotify.com/track/1OPEWAHQaogdd7uNALZ6Su"
-    },
-    {
-      "added_at": "2023-11-06 18:56:25",
-      "album": {
-        "name": "I Won\u2019t Stop (AVH Alt Mix)",
-        "url": "https://open.spotify.com/album/2aloZREpuaObicIh1QYuiX"
-      },
-      "artists": [
+          "name": "Darius Syrossian",
+          "url": "https://open.spotify.com/artist/6PDUdAoMV9dMy0wOt09Rsf"
+        },
         {
-          "name": "Armand Van Helden",
-          "url": "https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE"
+          "name": "Jena",
+          "url": "https://open.spotify.com/artist/5C4eCUR6V0Kbdn8g0y390j"
         }
       ],
-      "duration_ms": 176842,
-      "name": "I Won\u2019t Stop - AVH Alt Mix",
-      "url": "https://open.spotify.com/track/5yfqLS339JxAysunTFC202"
+      "duration_ms": 232520,
+      "name": "E-Soul",
+      "url": "https://open.spotify.com/track/7HtG4VfVor4wAktzmvRtnW"
     },
     {
       "added_at": "2023-11-06 18:56:25",
@@ -335,26 +379,62 @@
     {
       "added_at": "2023-11-06 18:56:25",
       "album": {
-        "name": "Move With Me (Todd Terry Extended Remix)",
-        "url": "https://open.spotify.com/album/3hpoG2nJnwKPMfPlY207pp"
+        "name": "I Need UUU",
+        "url": "https://open.spotify.com/album/3hyhOcw9qkWgq9nEdWVUgy"
       },
       "artists": [
-        {
-          "name": "Mia More",
-          "url": "https://open.spotify.com/artist/5LokU7BD5Ue4oLzjtUWYGU"
-        },
-        {
-          "name": "Able Faces",
-          "url": "https://open.spotify.com/artist/7nL523vzwv24ad0oFf2VZ2"
-        },
         {
           "name": "Todd Terry",
           "url": "https://open.spotify.com/artist/3dE92yGWcrboP1kC5SWyqu"
         }
       ],
-      "duration_ms": 186666,
-      "name": "Move With Me - Todd Terry Remix",
-      "url": "https://open.spotify.com/track/1ml3JWTEvWUJNj5tovHz75"
+      "duration_ms": 187200,
+      "name": "I Need UUU - Edit",
+      "url": "https://open.spotify.com/track/5Re4eNuNyORLbp6vPJIVt8"
+    },
+    {
+      "added_at": "2023-11-06 18:56:25",
+      "album": {
+        "name": "The Walk To Church",
+        "url": "https://open.spotify.com/album/51D8zWZh1XZ2XREofvYF8Q"
+      },
+      "artists": [
+        {
+          "name": "Jack Back",
+          "url": "https://open.spotify.com/artist/4bXUaTjc7TQTvLqqCAlfYt"
+        },
+        {
+          "name": "Wh0",
+          "url": "https://open.spotify.com/artist/132Hhe61bhvXtkygENHZHA"
+        },
+        {
+          "name": "Roland Clark",
+          "url": "https://open.spotify.com/artist/4OGlp2UdUQGPJVbvJ82Cz5"
+        }
+      ],
+      "duration_ms": 198095,
+      "name": "The Walk To Church",
+      "url": "https://open.spotify.com/track/2mZRna9DI8dqUEt1JhZs6l"
+    },
+    {
+      "added_at": "2023-11-06 18:56:25",
+      "album": {
+        "name": "Brutal",
+        "url": "https://open.spotify.com/album/5otl8SStNleWl0bdDOu5ev"
+      },
+      "artists": [
+        {
+          "name": "Mark Knight",
+          "url": "https://open.spotify.com/artist/3h11MHQeCrcsUgRRijI1zL"
+        },
+        {
+          "name": "Nitro Deluxe",
+          "url": "https://open.spotify.com/artist/6KcNmchIyvo5TqzjfJtwYR"
+        }
+      ],
+      "duration_ms": 151451,
+      "name": "Brutal",
+      "url": "https://open.spotify.com/track/78nZzYLqdPSNBYZW5vjiWM"
     },
     {
       "added_at": "2023-11-06 18:56:25",
@@ -375,6 +455,42 @@
       "duration_ms": 206520,
       "name": "It Started In Chicago",
       "url": "https://open.spotify.com/track/514qBya9LkMwPIELshKRiL"
+    },
+    {
+      "added_at": "2023-12-01 14:30:50",
+      "album": {
+        "name": "Housed IN My Soul",
+        "url": "https://open.spotify.com/album/6ZGZp2d2UwF1Z12xg2bdhJ"
+      },
+      "artists": [
+        {
+          "name": "Sweet LA",
+          "url": "https://open.spotify.com/artist/6JRHsD4RG2yWlpCzpB7VEM"
+        }
+      ],
+      "duration_ms": 186666,
+      "name": "Housed In My Soul - Edit",
+      "url": "https://open.spotify.com/track/2c68AzNYwHDIu1t45eeNKR"
+    },
+    {
+      "added_at": "2023-11-06 18:56:25",
+      "album": {
+        "name": "Salty",
+        "url": "https://open.spotify.com/album/7EquGOpg65HBsSzLmPVGWM"
+      },
+      "artists": [
+        {
+          "name": "Sam Divine",
+          "url": "https://open.spotify.com/artist/029RjYsk0DU8LKC92sUyXZ"
+        },
+        {
+          "name": "Dope Earth Alien",
+          "url": "https://open.spotify.com/artist/2wajUFt1bQDrz8A73tQrkN"
+        }
+      ],
+      "duration_ms": 176494,
+      "name": "Salty",
+      "url": "https://open.spotify.com/track/5lYubOsQ8GlApPS0m5jQLU"
     },
     {
       "added_at": "2023-11-06 18:56:25",
@@ -407,118 +523,26 @@
     {
       "added_at": "2023-11-06 18:56:25",
       "album": {
-        "name": "Million Dollar Bill",
-        "url": "https://open.spotify.com/album/1vu51AVRSHyaS3D2GxzsF7"
+        "name": "Move With Me (Todd Terry Extended Remix)",
+        "url": "https://open.spotify.com/album/3hpoG2nJnwKPMfPlY207pp"
       },
       "artists": [
         {
-          "name": "Beyond Chicago",
-          "url": "https://open.spotify.com/artist/1fU8WO9zbHN8ylxhoh9ix7"
+          "name": "Mia More",
+          "url": "https://open.spotify.com/artist/5LokU7BD5Ue4oLzjtUWYGU"
         },
         {
-          "name": "Majestic",
-          "url": "https://open.spotify.com/artist/6QMABvTzixnxzsLYyhqRxI"
-        },
-        {
-          "name": "Alex Mills",
-          "url": "https://open.spotify.com/artist/6z9EDgWh3ZJZKIJI5Q71Cq"
-        }
-      ],
-      "duration_ms": 128024,
-      "name": "Million Dollar Bill",
-      "url": "https://open.spotify.com/track/33o5QF5ZEAllqV4jDnRYu7"
-    },
-    {
-      "added_at": "2023-11-06 18:56:25",
-      "album": {
-        "name": "My Luvin",
-        "url": "https://open.spotify.com/album/2ZBqadvw1nFzR8VNuXevaJ"
-      },
-      "artists": [
-        {
-          "name": "Todd Terry",
-          "url": "https://open.spotify.com/artist/3dE92yGWcrboP1kC5SWyqu"
-        }
-      ],
-      "duration_ms": 171428,
-      "name": "My Luvin - Edit",
-      "url": "https://open.spotify.com/track/1xXCwcD2fR6Eql4lUDaJoH"
-    },
-    {
-      "added_at": "2023-11-06 18:56:25",
-      "album": {
-        "name": "Brutal",
-        "url": "https://open.spotify.com/album/5otl8SStNleWl0bdDOu5ev"
-      },
-      "artists": [
-        {
-          "name": "Mark Knight",
-          "url": "https://open.spotify.com/artist/3h11MHQeCrcsUgRRijI1zL"
-        },
-        {
-          "name": "Nitro Deluxe",
-          "url": "https://open.spotify.com/artist/6KcNmchIyvo5TqzjfJtwYR"
-        }
-      ],
-      "duration_ms": 151451,
-      "name": "Brutal",
-      "url": "https://open.spotify.com/track/78nZzYLqdPSNBYZW5vjiWM"
-    },
-    {
-      "added_at": "2023-11-06 18:56:25",
-      "album": {
-        "name": "Hurts On You",
-        "url": "https://open.spotify.com/album/2S5B7sMHhlIPTLSsR0WhWz"
-      },
-      "artists": [
-        {
-          "name": "Soul Avengerz",
-          "url": "https://open.spotify.com/artist/4Cx3Xgb8hVRlOlvjLNpUnS"
-        }
-      ],
-      "duration_ms": 186240,
-      "name": "Hurts On You - Edit",
-      "url": "https://open.spotify.com/track/1XG8oAWSNUVsr5kKcfQfW7"
-    },
-    {
-      "added_at": "2023-11-06 18:56:25",
-      "album": {
-        "name": "Get On Down",
-        "url": "https://open.spotify.com/album/09D39Cwhfq3VNYp9gw16cz"
-      },
-      "artists": [
-        {
-          "name": "Ferreck Dawn",
-          "url": "https://open.spotify.com/artist/3cnAJv9gydgm52KFIsdvO8"
+          "name": "Able Faces",
+          "url": "https://open.spotify.com/artist/7nL523vzwv24ad0oFf2VZ2"
         },
         {
           "name": "Todd Terry",
           "url": "https://open.spotify.com/artist/3dE92yGWcrboP1kC5SWyqu"
         }
       ],
-      "duration_ms": 185760,
-      "name": "Get On Down",
-      "url": "https://open.spotify.com/track/7exHHOSg7JZ7BSmkeP5HaY"
-    },
-    {
-      "added_at": "2023-11-06 18:56:25",
-      "album": {
-        "name": "Salty",
-        "url": "https://open.spotify.com/album/7EquGOpg65HBsSzLmPVGWM"
-      },
-      "artists": [
-        {
-          "name": "Sam Divine",
-          "url": "https://open.spotify.com/artist/029RjYsk0DU8LKC92sUyXZ"
-        },
-        {
-          "name": "Dope Earth Alien",
-          "url": "https://open.spotify.com/artist/2wajUFt1bQDrz8A73tQrkN"
-        }
-      ],
-      "duration_ms": 176494,
-      "name": "Salty",
-      "url": "https://open.spotify.com/track/5lYubOsQ8GlApPS0m5jQLU"
+      "duration_ms": 186666,
+      "name": "Move With Me - Todd Terry Remix",
+      "url": "https://open.spotify.com/track/1ml3JWTEvWUJNj5tovHz75"
     },
     {
       "added_at": "2023-11-06 18:56:25",
@@ -571,30 +595,6 @@
     {
       "added_at": "2023-11-06 18:56:25",
       "album": {
-        "name": "Caught My Heart",
-        "url": "https://open.spotify.com/album/0YKFzzVaSktiZZpKFqpJoM"
-      },
-      "artists": [
-        {
-          "name": "Todd Terry",
-          "url": "https://open.spotify.com/artist/3dE92yGWcrboP1kC5SWyqu"
-        },
-        {
-          "name": "Carly Wilford",
-          "url": "https://open.spotify.com/artist/0kDLD7hkKb5cLyEMMi8iFN"
-        },
-        {
-          "name": "Jessica Wilde",
-          "url": "https://open.spotify.com/artist/1C3Ft1dyv1hvSrsbCnRoij"
-        }
-      ],
-      "duration_ms": 182400,
-      "name": "Caught My Heart - Edit",
-      "url": "https://open.spotify.com/track/7759mGy72pjuJV6lJg9Wyx"
-    },
-    {
-      "added_at": "2023-11-06 18:56:25",
-      "album": {
         "name": "Lola\u2019s Theme (VIP)",
         "url": "https://open.spotify.com/album/0CpH0XG5uGunfnRpfiSyl0"
       },
@@ -611,6 +611,22 @@
     {
       "added_at": "2023-11-06 18:56:25",
       "album": {
+        "name": "Dress Code",
+        "url": "https://open.spotify.com/album/4LvkMrD1HDDOzWHRS7GKE1"
+      },
+      "artists": [
+        {
+          "name": "Mau P",
+          "url": "https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv"
+        }
+      ],
+      "duration_ms": 203437,
+      "name": "Dress Code",
+      "url": "https://open.spotify.com/track/0rK3a7tLRVgJBoc2DP3tIX"
+    },
+    {
+      "added_at": "2023-11-06 18:56:25",
+      "album": {
         "name": "Dirty Secret",
         "url": "https://open.spotify.com/album/3wj6rlwOQtvaRdvF60Y12B"
       },
@@ -623,6 +639,30 @@
       "duration_ms": 139888,
       "name": "Dirty Secret",
       "url": "https://open.spotify.com/track/7BnnEny1hfJYK8bkq45R0D"
+    },
+    {
+      "added_at": "2023-11-06 18:56:25",
+      "album": {
+        "name": "RAW EP",
+        "url": "https://open.spotify.com/album/1ZWwjrnhtz8V1QIScYEXEK"
+      },
+      "artists": [
+        {
+          "name": "Oden & Fatzo",
+          "url": "https://open.spotify.com/artist/2YEnrpAWWaNRFumgde1lLH"
+        },
+        {
+          "name": "THEOS",
+          "url": "https://open.spotify.com/artist/1hfqK3rF48A3CDcV8SAiyM"
+        },
+        {
+          "name": "Queen Rose",
+          "url": "https://open.spotify.com/artist/4ffLGz2xBwZ8DELkCT0T4h"
+        }
+      ],
+      "duration_ms": 214749,
+      "name": "Set You Free (feat. Queen Rose)",
+      "url": "https://open.spotify.com/track/34cdkQW4SdWcX1K5v8G2FP"
     },
     {
       "added_at": "2023-11-06 18:56:25",
@@ -763,6 +803,22 @@
     {
       "added_at": "2023-11-06 18:56:25",
       "album": {
+        "name": "Hurts On You",
+        "url": "https://open.spotify.com/album/2S5B7sMHhlIPTLSsR0WhWz"
+      },
+      "artists": [
+        {
+          "name": "Soul Avengerz",
+          "url": "https://open.spotify.com/artist/4Cx3Xgb8hVRlOlvjLNpUnS"
+        }
+      ],
+      "duration_ms": 186240,
+      "name": "Hurts On You - Edit",
+      "url": "https://open.spotify.com/track/1XG8oAWSNUVsr5kKcfQfW7"
+    },
+    {
+      "added_at": "2023-11-06 18:56:25",
+      "album": {
         "name": "Keep It Simple",
         "url": "https://open.spotify.com/album/3FETrBitCgpS9AgqEktISJ"
       },
@@ -779,42 +835,6 @@
       "duration_ms": 184781,
       "name": "Keep It Simple",
       "url": "https://open.spotify.com/track/4Fp3p14zeLSGF3MLAjSBUH"
-    },
-    {
-      "added_at": "2023-11-06 18:56:25",
-      "album": {
-        "name": "I Need UUU",
-        "url": "https://open.spotify.com/album/3hyhOcw9qkWgq9nEdWVUgy"
-      },
-      "artists": [
-        {
-          "name": "Todd Terry",
-          "url": "https://open.spotify.com/artist/3dE92yGWcrboP1kC5SWyqu"
-        }
-      ],
-      "duration_ms": 187200,
-      "name": "I Need UUU - Edit",
-      "url": "https://open.spotify.com/track/5Re4eNuNyORLbp6vPJIVt8"
-    },
-    {
-      "added_at": "2023-11-06 18:56:25",
-      "album": {
-        "name": "Larry Keeps On Dancing (Michael Gray Remix)",
-        "url": "https://open.spotify.com/album/2RbtJitzLCTPvgcRsUdYs7"
-      },
-      "artists": [
-        {
-          "name": "Joe Ventura",
-          "url": "https://open.spotify.com/artist/38B08MDKPMbi7CvO2pTfSs"
-        },
-        {
-          "name": "Michael Gray",
-          "url": "https://open.spotify.com/artist/2aM5jpQ0WTcQDeHsil8Ihz"
-        }
-      ],
-      "duration_ms": 205161,
-      "name": "Larry Keeps On Dancing - Michael Gray Edit",
-      "url": "https://open.spotify.com/track/11YVK4wGorm4k7m5nmUrfE"
     },
     {
       "added_at": "2023-11-06 18:56:25",
@@ -883,6 +903,26 @@
     {
       "added_at": "2023-11-06 18:56:25",
       "album": {
+        "name": "Larry Keeps On Dancing (Michael Gray Remix)",
+        "url": "https://open.spotify.com/album/2RbtJitzLCTPvgcRsUdYs7"
+      },
+      "artists": [
+        {
+          "name": "Joe Ventura",
+          "url": "https://open.spotify.com/artist/38B08MDKPMbi7CvO2pTfSs"
+        },
+        {
+          "name": "Michael Gray",
+          "url": "https://open.spotify.com/artist/2aM5jpQ0WTcQDeHsil8Ihz"
+        }
+      ],
+      "duration_ms": 205161,
+      "name": "Larry Keeps On Dancing - Michael Gray Edit",
+      "url": "https://open.spotify.com/track/11YVK4wGorm4k7m5nmUrfE"
+    },
+    {
+      "added_at": "2023-11-06 18:56:25",
+      "album": {
         "name": "The Sound",
         "url": "https://open.spotify.com/album/28B5eFQYYnRhYpqUkk7145"
       },
@@ -899,26 +939,6 @@
       "duration_ms": 187619,
       "name": "The Sound",
       "url": "https://open.spotify.com/track/6Bl0ROqU636RO6UHMU1NVg"
-    },
-    {
-      "added_at": "2023-11-06 18:56:25",
-      "album": {
-        "name": "I Want You",
-        "url": "https://open.spotify.com/album/3Dh81kJfGeinI3r7YMNX3E"
-      },
-      "artists": [
-        {
-          "name": "Butch",
-          "url": "https://open.spotify.com/artist/5kLzaeSHrmS7okc5XNE6lv"
-        },
-        {
-          "name": "Nic Fanciulli",
-          "url": "https://open.spotify.com/artist/7btR5VXutQv39SDEzcfXEk"
-        }
-      ],
-      "duration_ms": 187286,
-      "name": "I Want You",
-      "url": "https://open.spotify.com/track/5UM6P3y6794GYNOzZvj2zh"
     },
     {
       "added_at": "2023-11-06 18:56:25",
@@ -943,42 +963,6 @@
     {
       "added_at": "2023-11-06 18:56:25",
       "album": {
-        "name": "Colourblind",
-        "url": "https://open.spotify.com/album/11GNGqeQLQTGUTn8AewzDy"
-      },
-      "artists": [
-        {
-          "name": "Jess Bays",
-          "url": "https://open.spotify.com/artist/5xEJ7FQOtIUMLdnKyZrvPB"
-        },
-        {
-          "name": "Hayley May",
-          "url": "https://open.spotify.com/artist/1WcwbtAnG5HWNbPPK84ued"
-        }
-      ],
-      "duration_ms": 185120,
-      "name": "Colourblind",
-      "url": "https://open.spotify.com/track/1ZNaOGKAZKaZh7V87zDs1i"
-    },
-    {
-      "added_at": "2023-11-06 18:56:25",
-      "album": {
-        "name": "What",
-        "url": "https://open.spotify.com/album/6nVoH09T4a1v5kNeOnE63C"
-      },
-      "artists": [
-        {
-          "name": "Andy Reid",
-          "url": "https://open.spotify.com/artist/5znh0xqBQcvTfJVtget9Ca"
-        }
-      ],
-      "duration_ms": 205161,
-      "name": "What - Edit",
-      "url": "https://open.spotify.com/track/639bLgIaSblOK5PJHW2nCH"
-    },
-    {
-      "added_at": "2023-11-06 18:56:25",
-      "album": {
         "name": "Cada Vez (CASSIMM Remix)",
         "url": "https://open.spotify.com/album/4Xb782UmglZDXRXeIoE663"
       },
@@ -999,8 +983,8 @@
     {
       "added_at": "2023-11-06 18:56:25",
       "album": {
-        "name": "Music Is My Life (Giovi Remix)",
-        "url": "https://open.spotify.com/album/2tenUhrSivoUCnFKybI7Lt"
+        "name": "Don't Wanna Fall In Love (DJ Rae VIP Mix)",
+        "url": "https://open.spotify.com/album/75awTLsNnJDyIEBgM1a8Wu"
       },
       "artists": [
         {
@@ -1008,21 +992,13 @@
           "url": "https://open.spotify.com/artist/3dE92yGWcrboP1kC5SWyqu"
         },
         {
-          "name": "Supa from Aly-Us",
-          "url": "https://open.spotify.com/artist/4peEv9DMWKzs5tLkgKZYl5"
-        },
-        {
-          "name": "Giovi",
-          "url": "https://open.spotify.com/artist/3D2KnEWgwG5Iu8fTgdiflr"
-        },
-        {
-          "name": "Paolo Aliberti",
-          "url": "https://open.spotify.com/artist/4NlZV4YBrzohrwcKR3vOkV"
+          "name": "DJ Rae",
+          "url": "https://open.spotify.com/artist/746LyYgFU6Gni4CMVPlFNa"
         }
       ],
-      "duration_ms": 189840,
-      "name": "Music Is My Life - Giovi Remix",
-      "url": "https://open.spotify.com/track/3ecsy5AgyTHGG9OHeNfsEd"
+      "duration_ms": 170124,
+      "name": "Don't Wanna Fall In Love - DJ Rae VIP Edit",
+      "url": "https://open.spotify.com/track/0WXrLrl47M2nkfwqBX4mRb"
     }
   ],
   "unique_name": "Todd Terry's track IDs",

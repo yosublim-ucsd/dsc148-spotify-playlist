@@ -4,7 +4,7 @@
 
 > All your favourite country hits from Miranda Lambert, Luke Combs, Old Dominion, Kane Brown, Tenille Townes and more! Cover: Luke Combs
 
-61 songs - 3 hr 18 min
+63 songs - 3 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,12 +14,12 @@
 | [amen](https://open.spotify.com/track/5Qk9nO6Iat1XGxL04kKP5Y) | [Alana Springsteen](https://open.spotify.com/artist/4TPT9nwjRvEV49q7f8p4fy) | [TWENTY SOMETHING](https://open.spotify.com/album/47YHgGmxtAPS3fDmPPX1GG) | 3:09 | 2023-11-03 |  |
 | [BETTER WITH YOU](https://open.spotify.com/track/0cSRjbZWKzH1ggvN17XwBc) | [Niko Moon](https://open.spotify.com/artist/6Rw7DRa1dzChBvxGPCpOxU) | [BETTER WITH YOU](https://open.spotify.com/album/3JfRcR72m6SWfP4gB6REYF) | 2:39 | 2023-11-03 |  |
 | [Bigger Mistakes](https://open.spotify.com/track/1pmBuw9a3r467tlzVZj0P4) | [Mitchell Tenpenny](https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc) | [Bigger Mistakes](https://open.spotify.com/album/2uVwuhiaZ87g3vubWsYODw) | 2:59 | 2023-11-03 |  |
-| [Boot Scootin' Boogie](https://open.spotify.com/track/7Fq9RwQxSn3kW85PrDUf0M) | [Brooks & Dunn](https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz) | [\#1s ..\. and then some](https://open.spotify.com/album/1ZXM9jY3Bsg12KXgwftBrO) | 3:18 | 2023-11-03 |  |
+| [Boot Scootin' Boogie](https://open.spotify.com/track/7Fq9RwQxSn3kW85PrDUf0M) | [Brooks & Dunn](https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz) | [\#1s ..\. and then some](https://open.spotify.com/album/1ZXM9jY3Bsg12KXgwftBrO) | 3:18 | 2023-11-03 | 2023-12-02 |
 | [Breakin' in Boots](https://open.spotify.com/track/4usnf7irdy9PrVsmb82BXI) | [Matt Stell](https://open.spotify.com/artist/7EekKnlf2HwNaLLpL9Cpgy) | [Breakin' in Boots](https://open.spotify.com/album/1sHuCLfs5sMWVneNgcCoqS) | 2:35 | 2023-11-03 |  |
 | [Bury Me in Georgia \- Single Edit](https://open.spotify.com/track/2mltIbKkhQqyh8gCzaqxqA) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Bury Me in Georgia](https://open.spotify.com/album/5KiNzxNpSxplw7RxB9SSEo) | 2:50 | 2023-11-03 |  |
 | [Can't Break Up Now](https://open.spotify.com/track/3vsdSgCvepm6kroIPLa4Oz) | [Old Dominion](https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i), [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Can't Break Up Now](https://open.spotify.com/album/4mwTxDYJxiUMRdGhpiBbx8) | 3:20 | 2023-11-03 |  |
 | [Changing Me](https://open.spotify.com/track/2p9pk1ecXomNAC88DW7cCK) | [Andrew Jannakos](https://open.spotify.com/artist/6DAX5iORnv8nsZYYeZqket) | [Changing Me](https://open.spotify.com/album/1d2SMehUE9sbbBUhkJn8N1) | 3:14 | 2023-11-03 |  |
-| [Chattahoochee](https://open.spotify.com/track/59kHPbwyyCApYA8RQQEuXm) | [Alan Jackson](https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS) | [A Lot About Livin' \(And A Little 'Bout Love\)](https://open.spotify.com/album/79yCfWigSGt94zi1CIkkJZ) | 2:28 | 2023-11-03 |  |
+| [Chattahoochee](https://open.spotify.com/track/59kHPbwyyCApYA8RQQEuXm) | [Alan Jackson](https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS) | [A Lot About Livin' \(And A Little 'Bout Love\)](https://open.spotify.com/album/79yCfWigSGt94zi1CIkkJZ) | 2:28 | 2023-11-03 | 2023-12-02 |
 | [Countin Em Up](https://open.spotify.com/track/5jtMOAP2VSQJ2jtqlH9JRj) | [High Valley](https://open.spotify.com/artist/5sQqZtsAbXAoAnvA8iN9kN) | [Countin Em Up](https://open.spotify.com/album/00ydoOn1lwmkwOtBBUnpaZ) | 2:48 | 2023-11-03 |  |
 | [Dark Daze Blues](https://open.spotify.com/track/5CXQOTRrDepVYKROhaROTj) | [Cole Phillips](https://open.spotify.com/artist/2Ew91UUE0bjzHWCEnA8cHy) | [Dark Daze Blues](https://open.spotify.com/album/0b4tUVqtiR2VOoGqNjAsN0) | 3:48 | 2023-11-17 |  |
 | [Different About You](https://open.spotify.com/track/0S1fmk6xz49SHINeXXpStW) | [Old Dominion](https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i) | [Memory Lane](https://open.spotify.com/album/3PUA3xAHTsDAp11oAb33Mv) | 2:40 | 2023-11-03 |  |
@@ -52,6 +52,8 @@
 | [Psychopath](https://open.spotify.com/track/1pxzWiOrRbpXQkk4n0HRs3) | [Morgan Wade](https://open.spotify.com/artist/4eYE8Z6cfEHEdG22lTyucP) | [Psychopath](https://open.spotify.com/album/03nIJUuv47IXsP1oooCxPe) | 3:28 | 2023-11-03 |  |
 | [Rustin' In The Rain](https://open.spotify.com/track/7CYYZVnDYoUtNlSxNNz4P9) | [Tyler Childers](https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV) | [Rustin' In The Rain](https://open.spotify.com/album/7rSObXhKazzmeZFHuGX1mx) | 3:36 | 2023-11-03 |  |
 | [Small Town Somethin'](https://open.spotify.com/track/2PYiiO6tPLmuCqNH2sV7J6) | [High Valley](https://open.spotify.com/artist/5sQqZtsAbXAoAnvA8iN9kN) | [Small Town Somethin'](https://open.spotify.com/album/0U1acuLEmKlqtPoiCX7vqU) | 2:32 | 2023-11-03 |  |
+| [Sober Thing](https://open.spotify.com/track/6seAvadjjutVTkggYOh1to) | [Cody Jinks](https://open.spotify.com/artist/2v7wIbCkIzxOfT3GnqCexD) | [Sober Thing](https://open.spotify.com/album/6EY0avx8oulWJ9vSOB3oUZ) | 4:32 | 2023-12-01 |  |
+| [Southeast Oklahoma Pines](https://open.spotify.com/track/3vz0BqYh2UyLd8dOHLc861) | [Corey Kent](https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc) | [Southeast Oklahoma Pines](https://open.spotify.com/album/2zgewP1FAgRxn3oKs5UEQA) | 3:51 | 2023-12-01 |  |
 | [Take Me Backroad \(feat\. High Valley\)](https://open.spotify.com/track/1aqQ8YzJlkrfN7dqCYBTTg) | [Tim & The Glory Boys](https://open.spotify.com/artist/2TWquaofWA67mGmfN72csX), [High Valley](https://open.spotify.com/artist/5sQqZtsAbXAoAnvA8iN9kN) | [Take Me Backroad \(feat\. High Valley\)](https://open.spotify.com/album/1CyvTlYda5V9EnbwEUwUIa) | 3:13 | 2023-11-03 |  |
 | [Taylor Swift](https://open.spotify.com/track/0ymAJvTIbJraEti1rK6KiL) | [Walker Hayes](https://open.spotify.com/artist/7sKxqpSqbIzphAKAhrqvlf) | [New Money](https://open.spotify.com/album/6PgLrRwR0H7vgqHhuS5TMc) | 3:21 | 2023-11-03 |  |
 | [Tennessee Orange](https://open.spotify.com/track/0omYsJn4G901Aag7B0NHMp) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Girl in the Mirror](https://open.spotify.com/album/3pvp1aMU2i1lF6sFlsXV5J) | 3:43 | 2023-11-03 |  |

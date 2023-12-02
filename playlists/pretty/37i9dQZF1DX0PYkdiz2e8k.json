@@ -1,12 +1,12 @@
 {
   "description": "Hated is out! Foto: YUNGBLUD",
-  "num_followers": 66640,
+  "num_followers": 66753,
   "original_name": "do rockeeee",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2Y2E3YjlhMjczNTY0MzNiZDAwNTBhYjYzZTY0ZWQ2OGU3MDc2MTc1",
+  "snapshot_id": "MCwxZDg4MTdiMGYzODFiZTcxYmIxYzgzY2FlYjA0MjgxNjk0ZGU2MDQx",
   "tracks": [
     {
       "added_at": "2023-11-17 03:01:00",
@@ -455,18 +455,18 @@
     {
       "added_at": "2023-11-17 03:01:00",
       "album": {
-        "name": "MONO",
-        "url": "https://open.spotify.com/album/3FlWIVe5XsMGNqjAqI70ZM"
+        "name": "Everything I Do Is For You",
+        "url": "https://open.spotify.com/album/1isIpqlAXx9y1Q5JVTGiVC"
       },
       "artists": [
         {
-          "name": "K.Flay",
-          "url": "https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr"
+          "name": "Amira Elfeky",
+          "url": "https://open.spotify.com/artist/6Z4kwq0LOaYQW2CqudoOIk"
         }
       ],
-      "duration_ms": 194346,
-      "name": "Punisher",
-      "url": "https://open.spotify.com/track/5bCYvbaEVCEWrGZZONYitY"
+      "duration_ms": 156349,
+      "name": "Everything I Do Is For You",
+      "url": "https://open.spotify.com/track/1BO9znQb8BbJ5W8KPAqgWE"
     },
     {
       "added_at": "2023-11-17 03:01:00",
@@ -487,18 +487,18 @@
     {
       "added_at": "2023-11-17 03:01:00",
       "album": {
-        "name": "Everything I Do Is For You",
-        "url": "https://open.spotify.com/album/1isIpqlAXx9y1Q5JVTGiVC"
+        "name": "MONO",
+        "url": "https://open.spotify.com/album/3FlWIVe5XsMGNqjAqI70ZM"
       },
       "artists": [
         {
-          "name": "Amira Elfeky",
-          "url": "https://open.spotify.com/artist/6Z4kwq0LOaYQW2CqudoOIk"
+          "name": "K.Flay",
+          "url": "https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr"
         }
       ],
-      "duration_ms": 156349,
-      "name": "Everything I Do Is For You",
-      "url": "https://open.spotify.com/track/1BO9znQb8BbJ5W8KPAqgWE"
+      "duration_ms": 194346,
+      "name": "Punisher",
+      "url": "https://open.spotify.com/track/5bCYvbaEVCEWrGZZONYitY"
     },
     {
       "added_at": "2023-11-17 03:01:00",
@@ -535,6 +535,22 @@
     {
       "added_at": "2023-11-17 03:01:00",
       "album": {
+        "name": "Backtrack",
+        "url": "https://open.spotify.com/album/0X3WVWpooMcgdYUCGQDzJy"
+      },
+      "artists": [
+        {
+          "name": "Emei",
+          "url": "https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU"
+        }
+      ],
+      "duration_ms": 158840,
+      "name": "Backtrack",
+      "url": "https://open.spotify.com/track/6XFtHhrlPKL4qEVDVMOcd6"
+    },
+    {
+      "added_at": "2023-11-17 03:01:00",
+      "album": {
         "name": "Three Minutes More",
         "url": "https://open.spotify.com/album/4Ht4iaL8A3DwlmiduQLWNX"
       },
@@ -555,38 +571,6 @@
     {
       "added_at": "2023-11-17 03:01:00",
       "album": {
-        "name": "Backtrack",
-        "url": "https://open.spotify.com/album/0X3WVWpooMcgdYUCGQDzJy"
-      },
-      "artists": [
-        {
-          "name": "Emei",
-          "url": "https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU"
-        }
-      ],
-      "duration_ms": 158840,
-      "name": "Backtrack",
-      "url": "https://open.spotify.com/track/6XFtHhrlPKL4qEVDVMOcd6"
-    },
-    {
-      "added_at": "2023-11-17 03:01:00",
-      "album": {
-        "name": "Kiss Ur Face Forever",
-        "url": "https://open.spotify.com/album/5Ok9hJcXLgtUlJw7UUBQ2s"
-      },
-      "artists": [
-        {
-          "name": "Orla Gartland",
-          "url": "https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co"
-        }
-      ],
-      "duration_ms": 166556,
-      "name": "Kiss Ur Face Forever",
-      "url": "https://open.spotify.com/track/7lf5XQQCIQkzO15CqYDjo7"
-    },
-    {
-      "added_at": "2023-11-17 03:01:00",
-      "album": {
         "name": "Irish Goodbye (feat. Vic Fuentes of Pierce The Veil)",
         "url": "https://open.spotify.com/album/523PqkfY2F5mtL1Rdg0g84"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 182706,
       "name": "Irish Goodbye (feat. Vic Fuentes of Pierce The Veil)",
       "url": "https://open.spotify.com/track/2BtFhZlm9Sz5FAiYIjChUl"
+    },
+    {
+      "added_at": "2023-11-17 03:01:00",
+      "album": {
+        "name": "Kiss Ur Face Forever",
+        "url": "https://open.spotify.com/album/5Ok9hJcXLgtUlJw7UUBQ2s"
+      },
+      "artists": [
+        {
+          "name": "Orla Gartland",
+          "url": "https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co"
+        }
+      ],
+      "duration_ms": 166556,
+      "name": "Kiss Ur Face Forever",
+      "url": "https://open.spotify.com/track/7lf5XQQCIQkzO15CqYDjo7"
     },
     {
       "added_at": "2023-11-17 03:01:00",
@@ -655,6 +655,22 @@
     {
       "added_at": "2023-11-17 03:01:00",
       "album": {
+        "name": "you're not special",
+        "url": "https://open.spotify.com/album/7vvGNS9MRPrzfi0cHbDeQC"
+      },
+      "artists": [
+        {
+          "name": "Maggie Lindemann",
+          "url": "https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf"
+        }
+      ],
+      "duration_ms": 166758,
+      "name": "you're not special",
+      "url": "https://open.spotify.com/track/6Mc1snn8uClt3FzkUREymB"
+    },
+    {
+      "added_at": "2023-11-17 03:01:00",
+      "album": {
         "name": "under (feat. phem)",
         "url": "https://open.spotify.com/album/2zt2K0CSSWvSRAwVod6nHM"
       },
@@ -675,22 +691,6 @@
     {
       "added_at": "2023-11-17 03:01:00",
       "album": {
-        "name": "you're not special",
-        "url": "https://open.spotify.com/album/7vvGNS9MRPrzfi0cHbDeQC"
-      },
-      "artists": [
-        {
-          "name": "Maggie Lindemann",
-          "url": "https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf"
-        }
-      ],
-      "duration_ms": 166758,
-      "name": "you're not special",
-      "url": "https://open.spotify.com/track/6Mc1snn8uClt3FzkUREymB"
-    },
-    {
-      "added_at": "2023-11-17 03:01:00",
-      "album": {
         "name": "SANCTUARY",
         "url": "https://open.spotify.com/album/2puYP5GNAu26hWrgPXLfIl"
       },
@@ -707,22 +707,6 @@
     {
       "added_at": "2023-11-17 03:01:00",
       "album": {
-        "name": "Children In The Dark",
-        "url": "https://open.spotify.com/album/1JTKZkNMSUvvZy4hGsXJKI"
-      },
-      "artists": [
-        {
-          "name": "AViVA",
-          "url": "https://open.spotify.com/artist/50tDsT4wwq8FCMJNkn1D67"
-        }
-      ],
-      "duration_ms": 178842,
-      "name": "Children In The Dark",
-      "url": "https://open.spotify.com/track/1ZN3EnL4tP2Zkh8DovRgS6"
-    },
-    {
-      "added_at": "2023-11-17 03:01:00",
-      "album": {
         "name": "Nocturnal",
         "url": "https://open.spotify.com/album/0ZBgA8AktdUxgz54mAUxrN"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 166854,
       "name": "NOCTURNAL",
       "url": "https://open.spotify.com/track/2NNQrhFaCywALVivFzZQ0h"
+    },
+    {
+      "added_at": "2023-11-17 03:01:00",
+      "album": {
+        "name": "Children In The Dark",
+        "url": "https://open.spotify.com/album/1JTKZkNMSUvvZy4hGsXJKI"
+      },
+      "artists": [
+        {
+          "name": "AViVA",
+          "url": "https://open.spotify.com/artist/50tDsT4wwq8FCMJNkn1D67"
+        }
+      ],
+      "duration_ms": 178842,
+      "name": "Children In The Dark",
+      "url": "https://open.spotify.com/track/1ZN3EnL4tP2Zkh8DovRgS6"
     },
     {
       "added_at": "2023-11-17 03:01:00",

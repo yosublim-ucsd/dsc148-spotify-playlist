@@ -4,7 +4,7 @@
 
 > Welcome to the dark side of the club.
 
-598 songs - 2 day 10 hr 42 min
+600 songs - 2 day 10 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,6 +67,7 @@
 | [Battleaxe](https://open.spotify.com/track/5yO4x0CnwPIuIK4OdUxSHU) | [Simina Grigoriu](https://open.spotify.com/artist/1PjzNHCXycxUqsP2yqFqhU) | [Battleaxe](https://open.spotify.com/album/1L3rFhUedc3PyPR0P7gyfK) | 6:41 | 2020-06-13 | 2020-09-19 |
 | [Be a Human](https://open.spotify.com/track/6kJ9Bl0rey8TfxzuuTFhlM) | [Anahit Vardanyan](https://open.spotify.com/artist/3B0Z2WunAUciyiCc3DsnAa) | [Be a Human](https://open.spotify.com/album/3s11NDJr64QILeC3PLEoPR) | 7:02 | 2023-06-16 |  |
 | [Believe](https://open.spotify.com/track/40up5wCfwQXTDXyE18hJbJ) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU) | [Believe](https://open.spotify.com/album/3vUbTHFU39OGMaJ3VGD98N) | 6:48 | 2022-01-21 | 2022-08-06 |
+| [Bell](https://open.spotify.com/track/42iMxUFc8IoedPBcQySzW9) | [Mha Iri](https://open.spotify.com/artist/5VMXbzLVkLd4Cq4rBzx4T3) | [Bell](https://open.spotify.com/album/0wyKisLhaV7LDJPPkN8U4w) | 4:00 | 2023-12-01 |  |
 | [Black & White](https://open.spotify.com/track/0ocXmNWJB0FIxqBVfldnlO) | [Patrick Scuro](https://open.spotify.com/artist/6wfL4r7ReScDTARbtSRTvB), [TIWEA](https://open.spotify.com/artist/4qpycLwFvhnR0o3U9GsmwW) | [Black & White](https://open.spotify.com/album/16t53ko2zK600KU8fQ5Xcb) | 3:38 | 2023-10-27 |  |
 | [Black Hole](https://open.spotify.com/track/7gBAY3CXtQt67xKAciDd0q) | [Mario Ochoa](https://open.spotify.com/artist/2zviRwkdWgt0rjV3cxM7mg) | [Black Hole](https://open.spotify.com/album/5iy1T85K0SNSE2qcmwZdQN) | 6:58 | 2021-09-11 | 2022-03-26 |
 | [Black Spider](https://open.spotify.com/track/6DPSVTLOjfyGQ6OrhFl9hA) | [Harvey McKay](https://open.spotify.com/artist/6qB9lDPQ6tFbI1gZcSawCS) | [Black Spider](https://open.spotify.com/album/3QxgbaYVhUacALkPasXSa0) | 5:35 | 2022-07-08 | 2022-10-22 |
@@ -473,7 +474,7 @@
 | [Speed](https://open.spotify.com/track/2djrfJoMcMkeclcALeYHit) | [Justus](https://open.spotify.com/artist/0iPzFfhXb2ilEodYsMoUX4) | [Speed](https://open.spotify.com/album/7HFeb1OonbWxKEEBgiIHwG) | 3:43 | 2022-06-03 | 2022-09-10 |
 | [Speed of Light](https://open.spotify.com/track/1oS2KLeNQcz2AUr6ZqdV7K) | [Alex Stein](https://open.spotify.com/artist/0SCFEgshN89tlgOPM7lbSB) | [Speed of Light](https://open.spotify.com/album/5WV3j5PoBLPfVu1RTIrFpX) | 6:25 | 2020-05-24 | 2021-01-25 |
 | [Spule](https://open.spotify.com/track/21t50P2lLUDKXFnlekKBEX) | [Kaiserdisco](https://open.spotify.com/artist/2lPXenWgbh51R950CMdk6i) | [Spule EP](https://open.spotify.com/album/12pnv9scBrK2Gus9zqmfw9) | 7:16 | 2021-06-05 | 2021-12-04 |
-| [Steam Room](https://open.spotify.com/track/49vBCqsbEYutjf4klDISVT) | [T78](https://open.spotify.com/artist/5FgLkieOqGXPn01dnbJp9Z), [FOLUAL](https://open.spotify.com/artist/50xEou9cTjanfYp46mLhBw) | [Steam Room](https://open.spotify.com/album/2XXBZ5juCP3vLdWC1Jn5vj) | 6:13 | 2023-09-15 |  |
+| [Steam Room](https://open.spotify.com/track/49vBCqsbEYutjf4klDISVT) | [T78](https://open.spotify.com/artist/5FgLkieOqGXPn01dnbJp9Z), [FOLUAL](https://open.spotify.com/artist/50xEou9cTjanfYp46mLhBw) | [Steam Room](https://open.spotify.com/album/2XXBZ5juCP3vLdWC1Jn5vj) | 6:13 | 2023-09-15 | 2023-12-02 |
 | [Strange World \- Joyhauser Remix](https://open.spotify.com/track/29IGa4pfhldMYeYlbUJeiF) | [Push](https://open.spotify.com/artist/2Xy6YLSsHR6TdBUFm5bnLR), [Joyhauser](https://open.spotify.com/artist/59a1Bp0JQfL2mGnpL0lW2Y) | [Strange World \(Joyhauser Remix\)](https://open.spotify.com/album/5piz86w9SPA1YqoOPRRGrz) | 7:00 | 2020-12-18 | 2021-06-26 |
 | [Stream State](https://open.spotify.com/track/2rL6RiorPm6fWSEFUNX8cF) | [DJ Gigola](https://open.spotify.com/artist/7feJmqQ32fTIPKBmPXwHXf) | [Fluid Meditations](https://open.spotify.com/album/3Tb3OLF2gtWesqXDqFvEEM) | 6:04 | 2023-02-17 | 2023-11-23 |
 | [String Theory](https://open.spotify.com/track/50mVZbBcr6rYdt45OEPYlN) | [HI\-LO](https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd), [Reinier Zonneveld](https://open.spotify.com/artist/21A7bhIL1m6CNZn8y57PIZ), [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p) | [String Theory](https://open.spotify.com/album/64nnxFO6ZeVn19b7fGqOgN) | 4:21 | 2022-01-21 | 2022-07-09 |
@@ -516,6 +517,7 @@
 | [The Future Is Ours](https://open.spotify.com/track/4CENSp9X4lRjayWEfNWwyT) | [Christian Smith](https://open.spotify.com/artist/0Z2EpubIhxnq4B6PV0I8n3) | [The Future Is Ours](https://open.spotify.com/album/48WaIFVOegsZtorDL4W6JV) | 6:25 | 2021-06-05 | 2021-11-20 |
 | [The Game](https://open.spotify.com/track/2ULBxi4DNecLbc9u9qUuFc) | [Space 92](https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD) | [The Game](https://open.spotify.com/album/680SeRLyxi00pK4tLiKGPj) | 6:47 | 2021-06-05 | 2022-02-12 |
 | [The Greatest Question](https://open.spotify.com/track/1aTSDt9gINC9fuMMNKGmcN) | [Belocca](https://open.spotify.com/artist/3jcvzSheHd14vjraXHLGPN) | [The Greatest Question EP](https://open.spotify.com/album/2dWxRvuUgNDQAnzz7jzqBp) | 6:51 | 2022-05-13 | 2022-10-22 |
+| [The House of House \- 1994 Remix by Thomas Schumacher](https://open.spotify.com/track/56Cf6TQ24vaSfum7KW3jKj) | [Cherrymoon Trax](https://open.spotify.com/artist/61LAVgfVbkRLgNHEDveOyh), [Thomas Schumacher](https://open.spotify.com/artist/7KkV7dFoGEXr4M3fpb1FgD) | [The House of House \(1994 Remix by Thomas Schumacher\)](https://open.spotify.com/album/3xdslxjDIK3hHNwgxTIJBP) | 4:33 | 2023-12-01 |  |
 | [The Known Universe](https://open.spotify.com/track/4ssKfm1dqsr1cZm2ds8CNs) | [The YellowHeads](https://open.spotify.com/artist/3SEw2qamdOWyVZtzKxWTTg) | [The Known Universe](https://open.spotify.com/album/4wmDUWbnCYa1TyLY2zGweo) | 6:48 | 2020-11-03 | 2021-01-25 |
 | [The Night](https://open.spotify.com/track/0n2RE6RodXfLLy3QCh2NPI) | [Acid Asian](https://open.spotify.com/artist/4rYbneiWL3QPCzKfjFK3fe) | [The Night EP](https://open.spotify.com/album/4a3lICzN7Lar0M7AqyH0ac) | 6:37 | 2023-11-10 |  |
 | [The Past, The Future, The Present](https://open.spotify.com/track/3rObXMVDtPqJAw49GTcbxc) | [Juliet Fox](https://open.spotify.com/artist/7zH0EpzFgwmwpnEprtvDig) | [The Past, The Future, The Present](https://open.spotify.com/album/03bQP5zPOc0vPNu42hvrOZ) | 6:12 | 2022-06-03 | 2022-07-09 |
@@ -525,7 +527,7 @@
 | [The Second Law of Thermodynamics](https://open.spotify.com/track/6RLQjhD5qpNkFbh3zd7KyK) | [NoNameLeft](https://open.spotify.com/artist/7dOFFyV8UVZqmapj8yUDRT) | [Vision of Thermodynamics, Pt\. 2](https://open.spotify.com/album/3XxDvy4NvoAEjaPKMXi3Lo) | 6:20 | 2022-01-21 | 2022-08-06 |
 | [The Sound Of Space](https://open.spotify.com/track/7CYS0ibZaJm201ZKonnqih) | [Enrico Sangiuliano](https://open.spotify.com/artist/1u7DsNFbakULvxnDGtMm90) | [Sound Of Space EP](https://open.spotify.com/album/0CW5qDbO13Ax7GxwWNaeUT) | 8:18 | 2022-09-30 | 2023-05-27 |
 | [The Sound of the Underground](https://open.spotify.com/track/173zfO8W0VXRZwbfiCPnxr) | [Tom Wax](https://open.spotify.com/artist/1b0WGyps7QC5KqSSq57wXX) | [The Sound of the Underground](https://open.spotify.com/album/6PwbVy486OaTTLnVUMtYYI) | 7:36 | 2023-01-06 | 2023-05-13 |
-| [The Unexpected](https://open.spotify.com/track/4WSEpqcROxEExCChwHqoMf) | [Mha Iri](https://open.spotify.com/artist/5VMXbzLVkLd4Cq4rBzx4T3) | [The Unexpected](https://open.spotify.com/album/2sQexrsGSYkPFOf2Q9em0z) | 4:00 | 2023-09-08 |  |
+| [The Unexpected](https://open.spotify.com/track/4WSEpqcROxEExCChwHqoMf) | [Mha Iri](https://open.spotify.com/artist/5VMXbzLVkLd4Cq4rBzx4T3) | [The Unexpected](https://open.spotify.com/album/2sQexrsGSYkPFOf2Q9em0z) | 4:00 | 2023-09-08 | 2023-12-02 |
 | [The Unknown](https://open.spotify.com/track/0srWf8GaZoT1YC7VITHiGQ) | [KARVA](https://open.spotify.com/artist/01IuZ5qGBbM7vc6IglCSLM) | [The Unknown](https://open.spotify.com/album/0sfNiemV546yezkc0lF66f) | 5:15 | 2023-11-22 |  |
 | [The Violator](https://open.spotify.com/track/3WMSOkdBmgxgkQkZkkgqZc) | [Lilly Palmer](https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU) | [The Violator](https://open.spotify.com/album/1kLSXmk2rBzGoPizreKGnB) | 4:01 | 2023-09-15 |  |
 | [Their Blood \- Ellen Allien Remix](https://open.spotify.com/track/4VSV8oyD0wSDWZ36IcaP0i) | [Rosa Anschütz](https://open.spotify.com/artist/1kjoxeQwJmoCfXT6j58MTm), [Ellen Allien](https://open.spotify.com/artist/5lsC3H1vh9YSRQckyGv0Up) | [Goldener Strom Remixes 1](https://open.spotify.com/album/2Oa9B5Rlku6LgDvKahNhSj) | 5:13 | 2022-11-25 | 2023-04-09 |

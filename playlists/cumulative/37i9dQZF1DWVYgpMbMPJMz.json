@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "No need to wait!  Experience today's best Worship music right here, right now, on Spotify.  Cover: <a href=\"spotify:artist:48AVv3cw03WdSB5b4qmNCr\">Red Rocks Worship</a>",
+  "description": "No need to wait!  Experience today's best Worship music right here, right now, on Spotify.  Cover: <a href=\"spotify:artist:6piIAIurGAryW5h1rqQC16\">Passion</a>",
   "name": "WorshipNow",
   "tracks": [
     {
@@ -2198,7 +2198,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 271771,
       "name": "Fall Like Rain - Live From LIFT: Creative Conference",
       "url": "https://open.spotify.com/track/6MK94qHfqRZBK1EDmlHEu9"
@@ -3094,6 +3094,32 @@
       "duration_ms": 217435,
       "name": "He Wears A Crown",
       "url": "https://open.spotify.com/track/5lNo4SMJW33l7Izhu6CY9b"
+    },
+    {
+      "album": {
+        "name": "He Who Is To Come",
+        "url": "https://open.spotify.com/album/5zKF5mAt03NcwrTKa3Z5or"
+      },
+      "artists": [
+        {
+          "name": "Passion",
+          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
+        },
+        {
+          "name": "Kristian Stanfill",
+          "url": "https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx"
+        },
+        {
+          "name": "Cody Carnes",
+          "url": "https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 410958,
+      "name": "He Who Is To Come",
+      "url": "https://open.spotify.com/track/5HKXRikAE7tdWY0XR5J7z9"
     },
     {
       "album": {
@@ -8828,7 +8854,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 279440,
       "name": "To Be Loved",
       "url": "https://open.spotify.com/track/4hCyhlDZteeEkLzllLq9ur"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-11-24",
-  "description": "The home for alternative electronic music. Cover: Shygirl",
+  "description": "The home for alternative electronic music. Cover: KAYTRANADA",
   "name": "Altar",
   "tracks": [
     {
@@ -2464,7 +2464,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 265264,
       "name": "Call My Name",
       "url": "https://open.spotify.com/track/4vI94CkCfDXotFMcSPujvK"
@@ -4036,6 +4036,28 @@
       "duration_ms": 241979,
       "name": "Drugs",
       "url": "https://open.spotify.com/track/38N9pTBZ1OgC8WGkcuZQha"
+    },
+    {
+      "album": {
+        "name": "druzy@ (Scuba's Bassdrive Refix)",
+        "url": "https://open.spotify.com/album/08s7An3RglP3KfuFDWDiZA"
+      },
+      "artists": [
+        {
+          "name": "Baltra",
+          "url": "https://open.spotify.com/artist/2tEyBfwGBfQgLXeAJW0MgC"
+        },
+        {
+          "name": "Scuba",
+          "url": "https://open.spotify.com/artist/48hZklIMPklae2Mssfp8Cx"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282000,
+      "name": "druzy@ - Scuba's Bassdrive Refix",
+      "url": "https://open.spotify.com/track/6xBSfBYq1jxwML0cxwQup7"
     },
     {
       "album": {
@@ -7020,10 +7042,36 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 176524,
       "name": "I Believe In Love Again",
       "url": "https://open.spotify.com/track/4fZ9WECee9p7FEWOUP03jD"
+    },
+    {
+      "album": {
+        "name": "I Believe In Love Again (Jex Opolis Remix)",
+        "url": "https://open.spotify.com/album/5HRtN5JcxONyY8WlvayG2g"
+      },
+      "artists": [
+        {
+          "name": "Peggy Gou",
+          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
+        },
+        {
+          "name": "Lenny Kravitz",
+          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
+        },
+        {
+          "name": "Jex Opolis",
+          "url": "https://open.spotify.com/artist/6LKEDpmHSbVFGyL2OW0ZbQ"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199696,
+      "name": "I Believe In Love Again - Jex Opolis Remix Edit",
+      "url": "https://open.spotify.com/track/17t5Ba4T5CEYw2WG2clNeu"
     },
     {
       "album": {
@@ -8532,7 +8580,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 284551,
       "name": "Loading",
       "url": "https://open.spotify.com/track/2wueg8zb5SSaSxCyUpcKRJ"
@@ -8746,6 +8794,28 @@
       "duration_ms": 326819,
       "name": "Love Someone",
       "url": "https://open.spotify.com/track/0kcaKKnAbjtjWreExi0YtB"
+    },
+    {
+      "album": {
+        "name": "Lover/Friend",
+        "url": "https://open.spotify.com/album/1CS8eBSCVXMwYJytG5aYfX"
+      },
+      "artists": [
+        {
+          "name": "KAYTRANADA",
+          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
+        },
+        {
+          "name": "Rochelle Jordan",
+          "url": "https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212250,
+      "name": "Lover/Friend",
+      "url": "https://open.spotify.com/track/5ahq8vkzMznGmfN2EVOukP"
     },
     {
       "album": {
@@ -9811,6 +9881,28 @@
     },
     {
       "album": {
+        "name": "My Crew (feat. Flowdan)",
+        "url": "https://open.spotify.com/album/3wOiJZeH4xOCVejjMWk3Np"
+      },
+      "artists": [
+        {
+          "name": "DANNY AVILA",
+          "url": "https://open.spotify.com/artist/1Xv1qZHJ1hnRlWHRTZ3uci"
+        },
+        {
+          "name": "Flowdan",
+          "url": "https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205555,
+      "name": "My Crew (feat. Flowdan)",
+      "url": "https://open.spotify.com/track/0BX4SC4ZfRn2egJfxjcgKc"
+    },
+    {
+      "album": {
         "name": "My Life Dextrous",
         "url": "https://open.spotify.com/album/4ohJxT6DKGWmtOMBK9QDkY"
       },
@@ -10810,6 +10902,28 @@
       "duration_ms": 360077,
       "name": "Organ Belta",
       "url": "https://open.spotify.com/track/0Uo3ri0yFn2iUh2c3Z54uO"
+    },
+    {
+      "album": {
+        "name": "Other Side",
+        "url": "https://open.spotify.com/album/1x58rOMA6gcxJdrgzbGVTo"
+      },
+      "artists": [
+        {
+          "name": "AVAION",
+          "url": "https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys"
+        },
+        {
+          "name": "BUNT.",
+          "url": "https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206884,
+      "name": "Other Side",
+      "url": "https://open.spotify.com/track/74qKLdiiTnXNqh2Co21RlJ"
     },
     {
       "album": {
@@ -14814,7 +14928,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 271508,
       "name": "Time Machine",
       "url": "https://open.spotify.com/track/2W95I0bLSIEyuMepqUO522"
@@ -15030,10 +15144,32 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 430727,
       "name": "Touching My Body",
       "url": "https://open.spotify.com/track/57PvBFABJ1F5mX69oUt8Yh"
+    },
+    {
+      "album": {
+        "name": "L'Ecstasy",
+        "url": "https://open.spotify.com/album/5gHsDs3ofg8qejWBcIGtJv"
+      },
+      "artists": [
+        {
+          "name": "Tiga",
+          "url": "https://open.spotify.com/artist/5l9wiTZVfqQTfMDOt0HtwC"
+        },
+        {
+          "name": "Hudson Mohawke",
+          "url": "https://open.spotify.com/artist/6olWbKW2VLhFCHfOi0iEDb"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222000,
+      "name": "TR Smooth",
+      "url": "https://open.spotify.com/track/6NV9a8WK4MvuJZg6VSu2KD"
     },
     {
       "album": {
@@ -16388,7 +16524,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 232057,
       "name": "Woman",
       "url": "https://open.spotify.com/track/53Mar0XxfUNHeHlGymw52n"

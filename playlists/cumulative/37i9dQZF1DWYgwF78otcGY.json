@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "P\u00e5 med fj\u00e4derboan och de gyllene skorna. Nu ska vi dansa i neon!",
-  "name": "Schlagerfest",
+  "description": "Fj\u00e4derboa, dansgolv, alls\u00e5ng och tonartsh\u00f6jningar - nu \u00e4r det mellofest! \ud83e\udea9\u2728\ud83d\udc9c",
+  "name": "Mellofest! ",
   "tracks": [
     {
       "album": {
@@ -74,7 +74,7 @@
       ],
       "date_added": "2023-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 176578,
       "name": "90-talet",
       "url": "https://open.spotify.com/track/6O27WBEqkGeyq3hNYE0BdS"
@@ -132,6 +132,42 @@
       "duration_ms": 177413,
       "name": "Adrenaline",
       "url": "https://open.spotify.com/track/570MSgOGWpri3eG33OePzW"
+    },
+    {
+      "album": {
+        "name": "Air",
+        "url": "https://open.spotify.com/album/1RJ3zvMBc4NB9VSXEF1EUy"
+      },
+      "artists": [
+        {
+          "name": "Marcus & Martinus",
+          "url": "https://open.spotify.com/artist/3N4FiTxpPQRsrihmTMN349"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172000,
+      "name": "Air",
+      "url": "https://open.spotify.com/track/7DBQIEXuFIXMWNAWyGsTTm"
+    },
+    {
+      "album": {
+        "name": "All My Life (Where Have You Been)",
+        "url": "https://open.spotify.com/album/1IynmYnMto0IfvYfvuWTeU"
+      },
+      "artists": [
+        {
+          "name": "Wiktoria",
+          "url": "https://open.spotify.com/artist/3gbaHBYDy62irTs0ZsHNmi"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172306,
+      "name": "All My Life (Where Have You Been)",
+      "url": "https://open.spotify.com/track/5zZr5MeTBHHyyOjGHo0TKo"
     },
     {
       "album": {
@@ -344,7 +380,7 @@
       ],
       "date_added": "2019-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 182106,
       "name": "Begging",
       "url": "https://open.spotify.com/track/2sjZkR11bgYNjDOHqjvCK1"
@@ -506,7 +542,7 @@
       ],
       "date_added": "2019-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 182134,
       "name": "Dance You Off",
       "url": "https://open.spotify.com/track/0s3P5PImfDZYWIseR3b39D"
@@ -578,7 +614,7 @@
       ],
       "date_added": "2019-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 183746,
       "name": "Det g\u00f6r ont",
       "url": "https://open.spotify.com/track/51md9KzX92LQh84mUsaPPD"
@@ -636,7 +672,7 @@
       ],
       "date_added": "2019-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 169783,
       "name": "E' de' det h\u00e4r du kallar k\u00e4rlek",
       "url": "https://open.spotify.com/track/5MBBQ7P9AozcQ8lF7So1B3"
@@ -780,7 +816,7 @@
       ],
       "date_added": "2019-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 185239,
       "name": "Everyday",
       "url": "https://open.spotify.com/track/7DgXgP8rZZuIgh8vjhiQ0c"
@@ -1284,7 +1320,7 @@
       ],
       "date_added": "2019-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 169226,
       "name": "H\u00f6gt \u00f6ver havet",
       "url": "https://open.spotify.com/track/4J5KXnvaoSPa7yHrsNnqda"
@@ -1824,7 +1860,7 @@
       ],
       "date_added": "2023-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 180800,
       "name": "La Dolce Vita",
       "url": "https://open.spotify.com/track/1b5yFVBwIbjKI2TULxtDoC"
@@ -1940,7 +1976,7 @@
       ],
       "date_added": "2019-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 174733,
       "name": "Let Your Spirit Fly",
       "url": "https://open.spotify.com/track/1k8Licv2jaRTbRtAbJZ3In"
@@ -2016,6 +2052,24 @@
       "duration_ms": 180893,
       "name": "Manboy",
       "url": "https://open.spotify.com/track/4ut7uc5pTPixey8zomS5Ah"
+    },
+    {
+      "album": {
+        "name": "Mer av dig",
+        "url": "https://open.spotify.com/album/3waGWjneO6tOSEAzfHusNp"
+      },
+      "artists": [
+        {
+          "name": "Theoz",
+          "url": "https://open.spotify.com/artist/5vBoU7A2kwbTXyUPZK5Gq1"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164000,
+      "name": "Mer av dig",
+      "url": "https://open.spotify.com/track/7xzgJNufqvox5oQQa1dP1O"
     },
     {
       "album": {
@@ -2106,7 +2160,7 @@
       ],
       "date_added": "2023-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 182443,
       "name": "My Way",
       "url": "https://open.spotify.com/track/0tmMGxsxRd78NJGrMesWtx"
@@ -2167,6 +2221,24 @@
     },
     {
       "album": {
+        "name": "Never Give Up",
+        "url": "https://open.spotify.com/album/13g0On9hQnYAQsVslilDhP"
+      },
+      "artists": [
+        {
+          "name": "Maria Sur",
+          "url": "https://open.spotify.com/artist/7eoVDCrNq6NirTBRrgSoNA"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179893,
+      "name": "Never Give Up",
+      "url": "https://open.spotify.com/track/3Xov23KN1ztHZrLBnhFSc4"
+    },
+    {
+      "album": {
         "name": "Never Let It Go",
         "url": "https://open.spotify.com/album/7nbwgaAlzIqneeDFjoxxL4"
       },
@@ -2200,6 +2272,24 @@
       "duration_ms": 181133,
       "name": "Not A Sinner Nor A Saint",
       "url": "https://open.spotify.com/track/1mDmJ95y1W5UarAAJij5VK"
+    },
+    {
+      "album": {
+        "name": "Now I Know",
+        "url": "https://open.spotify.com/album/1uap95G6btqs1OZLmkN1Gc"
+      },
+      "artists": [
+        {
+          "name": "Tennessee Tears",
+          "url": "https://open.spotify.com/artist/1OepmLWhBeEx78WuUhnuHp"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181633,
+      "name": "Now I Know",
+      "url": "https://open.spotify.com/track/591qy56kcfBuNgj1kregOM"
     },
     {
       "album": {
@@ -2293,6 +2383,24 @@
     },
     {
       "album": {
+        "name": "On My Way",
+        "url": "https://open.spotify.com/album/0a2HYm0GJXfRRk2DsSWTVc"
+      },
+      "artists": [
+        {
+          "name": "Panetoz",
+          "url": "https://open.spotify.com/artist/7DXjp1eSv6Xf759gmCiApa"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185688,
+      "name": "On My Way",
+      "url": "https://open.spotify.com/track/710xi8haZ3Os0wip67GcmY"
+    },
+    {
+      "album": {
         "name": "Party Voice",
         "url": "https://open.spotify.com/album/1pEKFM1NMBE8Q4RNa0aw1X"
       },
@@ -2365,6 +2473,24 @@
     },
     {
       "album": {
+        "name": "Rhythm Of My Show",
+        "url": "https://open.spotify.com/album/0kZuNbILNMuGH45keYqiYE"
+      },
+      "artists": [
+        {
+          "name": "Tone Sekelius",
+          "url": "https://open.spotify.com/artist/60ocUh2KF1ZOSqjkxyt6jl"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165981,
+      "name": "Rhythm Of My Show",
+      "url": "https://open.spotify.com/track/48NRejAH4xS4PNTl3465O5"
+    },
+    {
+      "album": {
         "name": "Ring Ring",
         "url": "https://open.spotify.com/album/3Il2ad1NGO9zoY1FIVBuHD"
       },
@@ -2398,6 +2524,24 @@
       "duration_ms": 190211,
       "name": "Road Trip",
       "url": "https://open.spotify.com/track/53HCk0K40gzfdHnz0yMNE0"
+    },
+    {
+      "album": {
+        "name": "Royals",
+        "url": "https://open.spotify.com/album/526vMx7SZDOiOPxh8RmNCd"
+      },
+      "artists": [
+        {
+          "name": "Paul Rey",
+          "url": "https://open.spotify.com/artist/5FjiYgLczmrP2j1gijAGWp"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178453,
+      "name": "Royals",
+      "url": "https://open.spotify.com/track/7Cxq5B4XJt5FrpU4Uu2BxO"
     },
     {
       "album": {
@@ -2542,6 +2686,24 @@
       "duration_ms": 188293,
       "name": "Stad i ljus",
       "url": "https://open.spotify.com/track/7bVwUOySQGO2afJ0LArAMi"
+    },
+    {
+      "album": {
+        "name": "Tattoo",
+        "url": "https://open.spotify.com/album/0LRTS7FyYLppkDLOZT02Xp"
+      },
+      "artists": [
+        {
+          "name": "Loreen",
+          "url": "https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183374,
+      "name": "Tattoo",
+      "url": "https://open.spotify.com/track/1DmW5Ep6ywYwxc2HMT5BG6"
     },
     {
       "album": {
@@ -2816,6 +2978,32 @@
       "duration_ms": 151533,
       "name": "We Are the Winners - Original Version",
       "url": "https://open.spotify.com/track/2QNb0E7tUeL5fCQFY5Pf02"
+    },
+    {
+      "album": {
+        "name": "Where You Are (S\u00e1ve\u017ean)",
+        "url": "https://open.spotify.com/album/249haOgXpuQsUSQelQ5OoE"
+      },
+      "artists": [
+        {
+          "name": "Arc North",
+          "url": "https://open.spotify.com/artist/2kgvaYV2tbNyOonFI3YlfH"
+        },
+        {
+          "name": "Jon Henrik Fj\u00e4llgren",
+          "url": "https://open.spotify.com/artist/65lCLhmmyUwnPBD2Bq7FQx"
+        },
+        {
+          "name": "Adam Woods",
+          "url": "https://open.spotify.com/artist/5hmV66qKLsAbAoJcnogGyc"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176960,
+      "name": "Where You Are (S\u00e1ve\u017ean)",
+      "url": "https://open.spotify.com/track/4zPqv04ddAFwk2Pgz3jC9U"
     },
     {
       "album": {

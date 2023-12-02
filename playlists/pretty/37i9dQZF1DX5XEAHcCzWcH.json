@@ -1,12 +1,12 @@
 {
   "description": "The unmistakable sound of Blues piano: the best pianists to have pioneered the sound and shape the genre. Cover: Ray Charles",
-  "num_followers": 30783,
+  "num_followers": 30813,
   "original_name": "Blues Piano Legends",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMjUxNTc1M2QzMjgwZGExYTJiNTlmM2QwYTZkOWQzMjllZWY1ZTVh",
+  "snapshot_id": "MCwyODg3YzBkMTVlMTIxOWYzZDIwYjUzNWJhMTI3OGM0YzRhODY1MGJm",
   "tracks": [
     {
       "added_at": "2023-09-15 11:43:10",
@@ -279,22 +279,6 @@
     {
       "added_at": "2023-09-15 11:43:10",
       "album": {
-        "name": "Shake Rattle & Rock",
-        "url": "https://open.spotify.com/album/3srwW4zf3HJcOItxUokJgI"
-      },
-      "artists": [
-        {
-          "name": "Big Joe Turner",
-          "url": "https://open.spotify.com/artist/1DTgcOxytJHD8p17mhSgd7"
-        }
-      ],
-      "duration_ms": 177439,
-      "name": "Boogie Woogie Country Girl",
-      "url": "https://open.spotify.com/track/23QW9fg9KaWS4Jza41DuIT"
-    },
-    {
-      "added_at": "2023-09-15 11:43:10",
-      "album": {
         "name": "Junco Partner",
         "url": "https://open.spotify.com/album/4vrbtFQktShLb9fqcfWxYV"
       },
@@ -307,6 +291,22 @@
       "duration_ms": 310040,
       "name": "Junco Partner",
       "url": "https://open.spotify.com/track/6h42FqekL3vp5Hm3zbuSVK"
+    },
+    {
+      "added_at": "2023-09-15 11:43:10",
+      "album": {
+        "name": "Shake Rattle & Rock",
+        "url": "https://open.spotify.com/album/3srwW4zf3HJcOItxUokJgI"
+      },
+      "artists": [
+        {
+          "name": "Big Joe Turner",
+          "url": "https://open.spotify.com/artist/1DTgcOxytJHD8p17mhSgd7"
+        }
+      ],
+      "duration_ms": 177439,
+      "name": "Boogie Woogie Country Girl",
+      "url": "https://open.spotify.com/track/23QW9fg9KaWS4Jza41DuIT"
     },
     {
       "added_at": "2023-09-15 11:43:10",
@@ -399,22 +399,6 @@
     {
       "added_at": "2023-09-15 11:43:10",
       "album": {
-        "name": "Her New Orleans Music",
-        "url": "https://open.spotify.com/album/6KrB8Sf5g2WpCcWUOE9CpE"
-      },
-      "artists": [
-        {
-          "name": "Sweet Emma Barrett",
-          "url": "https://open.spotify.com/artist/0YLo7NrjjafYk8rbapwCZk"
-        }
-      ],
-      "duration_ms": 225928,
-      "name": "None of My Jelly Roll",
-      "url": "https://open.spotify.com/track/2fFhD3A1gSpm0liAvtvSdk"
-    },
-    {
-      "added_at": "2023-09-15 11:43:10",
-      "album": {
         "name": "The Chess Story 1947-1956",
         "url": "https://open.spotify.com/album/33Ow1zrnDZND0gJFibphEf"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 175640,
       "name": "Big Town Playboy",
       "url": "https://open.spotify.com/track/4hFZeihCVWuFsxMyal96k8"
+    },
+    {
+      "added_at": "2023-09-15 11:43:10",
+      "album": {
+        "name": "Her New Orleans Music",
+        "url": "https://open.spotify.com/album/6KrB8Sf5g2WpCcWUOE9CpE"
+      },
+      "artists": [
+        {
+          "name": "Sweet Emma Barrett",
+          "url": "https://open.spotify.com/artist/0YLo7NrjjafYk8rbapwCZk"
+        }
+      ],
+      "duration_ms": 225928,
+      "name": "None of My Jelly Roll",
+      "url": "https://open.spotify.com/track/2fFhD3A1gSpm0liAvtvSdk"
     },
     {
       "added_at": "2023-09-15 11:43:10",
@@ -447,22 +447,6 @@
     {
       "added_at": "2023-09-15 11:43:10",
       "album": {
-        "name": "Jumpin' With Joe",
-        "url": "https://open.spotify.com/album/20iEYnDg4FqOWLfomgxWhM"
-      },
-      "artists": [
-        {
-          "name": "Big Joe Turner",
-          "url": "https://open.spotify.com/artist/1DTgcOxytJHD8p17mhSgd7"
-        }
-      ],
-      "duration_ms": 175200,
-      "name": "Roll 'Em Pete",
-      "url": "https://open.spotify.com/track/4gqwSjQJBaqB1LYNyAfQsj"
-    },
-    {
-      "added_at": "2023-09-15 11:43:10",
-      "album": {
         "name": "Blues On The Prowl",
         "url": "https://open.spotify.com/album/3fQi3rgKy3U3udVg0ojE2N"
       },
@@ -479,18 +463,18 @@
     {
       "added_at": "2023-09-15 11:43:10",
       "album": {
-        "name": "X-Temporaneous Boogie",
-        "url": "https://open.spotify.com/album/7gKcCISq4MdFPIcslAvznp"
+        "name": "Jumpin' With Joe",
+        "url": "https://open.spotify.com/album/20iEYnDg4FqOWLfomgxWhM"
       },
       "artists": [
         {
-          "name": "Camille Howard",
-          "url": "https://open.spotify.com/artist/0QFOmSTku0zPMVoawXFCXX"
+          "name": "Big Joe Turner",
+          "url": "https://open.spotify.com/artist/1DTgcOxytJHD8p17mhSgd7"
         }
       ],
-      "duration_ms": 139133,
-      "name": "Fluff Boogie",
-      "url": "https://open.spotify.com/track/53JbbJdZKRifKvPhVAOVG9"
+      "duration_ms": 175200,
+      "name": "Roll 'Em Pete",
+      "url": "https://open.spotify.com/track/4gqwSjQJBaqB1LYNyAfQsj"
     },
     {
       "added_at": "2023-09-15 11:43:10",
@@ -507,6 +491,22 @@
       "duration_ms": 236733,
       "name": "Lovesick Soul",
       "url": "https://open.spotify.com/track/0E3Ck752Kw29gVpyAVDLDo"
+    },
+    {
+      "added_at": "2023-09-15 11:43:10",
+      "album": {
+        "name": "X-Temporaneous Boogie",
+        "url": "https://open.spotify.com/album/7gKcCISq4MdFPIcslAvznp"
+      },
+      "artists": [
+        {
+          "name": "Camille Howard",
+          "url": "https://open.spotify.com/artist/0QFOmSTku0zPMVoawXFCXX"
+        }
+      ],
+      "duration_ms": 139133,
+      "name": "Fluff Boogie",
+      "url": "https://open.spotify.com/track/53JbbJdZKRifKvPhVAOVG9"
     },
     {
       "added_at": "2023-09-15 11:43:10",
@@ -703,22 +703,18 @@
     {
       "added_at": "2023-09-15 11:43:10",
       "album": {
-        "name": "Fess at Home",
-        "url": "https://open.spotify.com/album/1r6jk6qVIYqPlTzvOXMPUE"
+        "name": "The King of Chicago Blues Piano",
+        "url": "https://open.spotify.com/album/7B0UpbAjvyWdS6ira2Ns5Z"
       },
       "artists": [
         {
-          "name": "Professor Longhair",
-          "url": "https://open.spotify.com/artist/2RyY5yFlJh6jIPfMDhHgyD"
-        },
-        {
-          "name": "Tipitina\u2019s Record Club",
-          "url": "https://open.spotify.com/artist/2obtJE8R0kU7EiJoyEXKAQ"
+          "name": "Big Maceo",
+          "url": "https://open.spotify.com/artist/6MaCG0Ef8DahWf6Mn0Ikve"
         }
       ],
-      "duration_ms": 231632,
-      "name": "Tipitina",
-      "url": "https://open.spotify.com/track/7acA74x4jbKVKBljh5Qt3L"
+      "duration_ms": 180026,
+      "name": "Things Have Changed",
+      "url": "https://open.spotify.com/track/5fY1xBMbBUwN1ejbK647Yi"
     },
     {
       "added_at": "2023-09-15 11:43:10",
@@ -739,18 +735,22 @@
     {
       "added_at": "2023-09-15 11:43:10",
       "album": {
-        "name": "The King of Chicago Blues Piano",
-        "url": "https://open.spotify.com/album/7B0UpbAjvyWdS6ira2Ns5Z"
+        "name": "Fess at Home",
+        "url": "https://open.spotify.com/album/1r6jk6qVIYqPlTzvOXMPUE"
       },
       "artists": [
         {
-          "name": "Big Maceo",
-          "url": "https://open.spotify.com/artist/6MaCG0Ef8DahWf6Mn0Ikve"
+          "name": "Professor Longhair",
+          "url": "https://open.spotify.com/artist/2RyY5yFlJh6jIPfMDhHgyD"
+        },
+        {
+          "name": "Tipitina\u2019s Record Club",
+          "url": "https://open.spotify.com/artist/2obtJE8R0kU7EiJoyEXKAQ"
         }
       ],
-      "duration_ms": 180026,
-      "name": "Things Have Changed",
-      "url": "https://open.spotify.com/track/5fY1xBMbBUwN1ejbK647Yi"
+      "duration_ms": 231632,
+      "name": "Tipitina",
+      "url": "https://open.spotify.com/track/7acA74x4jbKVKBljh5Qt3L"
     },
     {
       "added_at": "2023-09-15 11:43:10",
@@ -923,22 +923,6 @@
     {
       "added_at": "2023-09-15 11:43:10",
       "album": {
-        "name": "The Honeydripper",
-        "url": "https://open.spotify.com/album/6ItEdGX4FUD7O1MFPeUoLm"
-      },
-      "artists": [
-        {
-          "name": "Roosevelt Sykes",
-          "url": "https://open.spotify.com/artist/0K0qr72ojMFr5dMkUKgbW5"
-        }
-      ],
-      "duration_ms": 152000,
-      "name": "Pocketful Of Money",
-      "url": "https://open.spotify.com/track/0Y43UwP73ZgegwdVQh4oGY"
-    },
-    {
-      "added_at": "2023-09-15 11:43:10",
-      "album": {
         "name": "From North Dallas to the East Side",
         "url": "https://open.spotify.com/album/0y2COhaSasf9M8hQ0JwKb9"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 187160,
       "name": "Whistling Alex Moore's Blues",
       "url": "https://open.spotify.com/track/3HMJk1q9EfFSvvDPxqhAte"
+    },
+    {
+      "added_at": "2023-09-15 11:43:10",
+      "album": {
+        "name": "The Honeydripper",
+        "url": "https://open.spotify.com/album/6ItEdGX4FUD7O1MFPeUoLm"
+      },
+      "artists": [
+        {
+          "name": "Roosevelt Sykes",
+          "url": "https://open.spotify.com/artist/0K0qr72ojMFr5dMkUKgbW5"
+        }
+      ],
+      "duration_ms": 152000,
+      "name": "Pocketful Of Money",
+      "url": "https://open.spotify.com/track/0Y43UwP73ZgegwdVQh4oGY"
     },
     {
       "added_at": "2023-09-15 11:43:10",

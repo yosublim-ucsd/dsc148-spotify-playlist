@@ -4,7 +4,7 @@
 
 > Buscando um sono profundo? Essa playlist te ajuda a dormir melhor.
 
-272 songs - 13 hr 31 min
+273 songs - 13 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -258,6 +258,7 @@
 | [The Lost Key](https://open.spotify.com/track/5acpnondtQUm1FJDXNT66J) | [Clouded Transparency](https://open.spotify.com/artist/5vuqXzXIvJedvrLxiekZk7) | [The Lost Key](https://open.spotify.com/album/35gj3vp6JpqYF58z4VsA6q) | 2:40 | 2023-10-20 |  |
 | [The Nimrod Expedition](https://open.spotify.com/track/6FLcSrGp3mGIEQghonDxG3) | [Anthropological](https://open.spotify.com/artist/37OoTGz80W4Gd58QeXBmrh) | [Neomallodon](https://open.spotify.com/album/6vqMlHJ2f9jYcOuVY53g7C) | 3:36 | 2023-10-20 |  |
 | [The Riddle of Dreams](https://open.spotify.com/track/5HfIHltHzu31DBzxJwoVQg) | [Carligo](https://open.spotify.com/artist/6rcMboN5jrM7OzqcqIfLwd) | [The Riddle of Dreams](https://open.spotify.com/album/5gBFJ8RLzPdObOk4pQTiKj) | 2:27 | 2023-10-20 |  |
+| [The Sighting](https://open.spotify.com/track/6944fljgxULxU3FAXqp0Qz) | [Dalhem](https://open.spotify.com/artist/64Vb2P6lpNclAbQYxKC9d0) | [The Sighting](https://open.spotify.com/album/1ITsjzrvrAGxHHYsi19LyI) | 3:00 | 2023-12-01 |  |
 | [Through Your Eyes](https://open.spotify.com/track/1DERFIlUdiUtFCoLQIGdLj) | [Don Mazuck](https://open.spotify.com/artist/45zt0raIfZd0fb6yzSneno) | [Through Your Eyes](https://open.spotify.com/album/5yaMmCGAb7Auv5ZbX0flBQ) | 2:49 | 2023-10-20 |  |
 | [Tillbakalutande](https://open.spotify.com/track/4oAVmszDgIihib6QBxqjEh) | [Eleonora Feldt](https://open.spotify.com/artist/3N5bWM0Opalb3v1tWy6NJn) | [Tillbakalutande](https://open.spotify.com/album/6tJFLs7M0pE7ZTuCllaBDk) | 2:43 | 2023-10-20 |  |
 | [Tones](https://open.spotify.com/track/4qHvnvsZb43pDVNJiK14Z8) | [Elijah Sevan](https://open.spotify.com/artist/7xvxVsKZXEY0elcJ7i8HzN) | [Tones](https://open.spotify.com/album/4aHpLQWGS51gVc5vDtrQlw) | 2:48 | 2023-10-20 |  |

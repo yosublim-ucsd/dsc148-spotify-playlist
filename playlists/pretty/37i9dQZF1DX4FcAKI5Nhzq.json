@@ -1,12 +1,12 @@
 {
   "description": "Future K-Pop hits! Cover: DINO",
-  "num_followers": 791020,
+  "num_followers": 791297,
   "original_name": "K-Pop Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhOGRkOGI3YzA4YWRmNTkxNzQ2ODdmNDczYzg2NTNiZjFmMDhjYTBh",
+  "snapshot_id": "MCw4NTFjMjcwYjlhYWMyNmI5OGUzMGNiNDAxZWVlNWVjMTA5OTc1OWM3",
   "tracks": [
     {
       "added_at": "2023-11-28 01:53:10",
@@ -23,6 +23,22 @@
       "duration_ms": 158800,
       "name": "Wait",
       "url": "https://open.spotify.com/track/1KkC3Nzxv3OZorm5m1843p"
+    },
+    {
+      "added_at": "2023-12-01 03:01:38",
+      "album": {
+        "name": "\ubbf8\uccd0\ubc84\ub9ac\uaca0\ub2e4 (MAD)",
+        "url": "https://open.spotify.com/album/1CdiLd2ENEFje7ux0G23KT"
+      },
+      "artists": [
+        {
+          "name": "BE'O",
+          "url": "https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7"
+        }
+      ],
+      "duration_ms": 197373,
+      "name": "\ubbf8\uccd0\ubc84\ub9ac\uaca0\ub2e4 (MAD)",
+      "url": "https://open.spotify.com/track/7n1yuwnzs5jTEitJ7eecS8"
     },
     {
       "added_at": "2023-11-28 01:53:10",
@@ -57,6 +73,22 @@
       "url": "https://open.spotify.com/track/11YovYUVkZdLyOFncbecWL"
     },
     {
+      "added_at": "2023-12-01 03:01:38",
+      "album": {
+        "name": "Jingle Bell Rock",
+        "url": "https://open.spotify.com/album/7dSaBwUid0hjWdJ5QzIKyu"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        }
+      ],
+      "duration_ms": 130613,
+      "name": "Jingle Bell Rock",
+      "url": "https://open.spotify.com/track/0ijCESscFXtRc0dtDgu1Uv"
+    },
+    {
       "added_at": "2023-11-28 01:53:10",
       "album": {
         "name": "BABYMONSTER Debut Digital Single [BATTER UP]",
@@ -71,6 +103,22 @@
       "duration_ms": 188179,
       "name": "BATTER UP",
       "url": "https://open.spotify.com/track/3VBj0lzjmhTzVFPEDOjNCG"
+    },
+    {
+      "added_at": "2023-12-01 03:01:38",
+      "album": {
+        "name": "Crush!",
+        "url": "https://open.spotify.com/album/0clcYq3eLhpPzTF4TCp8XB"
+      },
+      "artists": [
+        {
+          "name": "xooos",
+          "url": "https://open.spotify.com/artist/0OqnFLmTWiVGm3Ifk6mahQ"
+        }
+      ],
+      "duration_ms": 128080,
+      "name": "Crush!",
+      "url": "https://open.spotify.com/track/6lZrMteR4f7nHrNW4ot3H1"
     },
     {
       "added_at": "2023-11-28 01:53:10",
@@ -89,6 +137,22 @@
       "url": "https://open.spotify.com/track/5izX3yhDZHqQFi8p2m6RHi"
     },
     {
+      "added_at": "2023-12-01 03:01:38",
+      "album": {
+        "name": "Draw (No Office Romance! X TAEMIN) (Original Webtoon Soundtrack)",
+        "url": "https://open.spotify.com/album/1IPkQ6fwPWjS6UPE6gV8Po"
+      },
+      "artists": [
+        {
+          "name": "TAEMIN",
+          "url": "https://open.spotify.com/artist/13rF01aOogvnkuQXOlgTW8"
+        }
+      ],
+      "duration_ms": 243866,
+      "name": "Draw",
+      "url": "https://open.spotify.com/track/6tb0S6rSzgrf5sgeUPL8sr"
+    },
+    {
       "added_at": "2023-11-28 01:53:10",
       "album": {
         "name": "ONLY ONE",
@@ -105,20 +169,20 @@
       "url": "https://open.spotify.com/track/00Ba2PRFeih7voe93Bf5mk"
     },
     {
-      "added_at": "2023-11-28 01:53:10",
+      "added_at": "2023-12-01 03:01:38",
       "album": {
-        "name": "wonderego",
-        "url": "https://open.spotify.com/album/7ikvq6MB2VhB2IPCDO6RnP"
+        "name": "Sleep",
+        "url": "https://open.spotify.com/album/6iap0f96nMrJ30TDGVz8Uz"
       },
       "artists": [
         {
-          "name": "Crush",
-          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+          "name": "GEMINI",
+          "url": "https://open.spotify.com/artist/67IWlRdLy3UcfY3q968euj"
         }
       ],
-      "duration_ms": 183826,
-      "name": "Hmm-cheat",
-      "url": "https://open.spotify.com/track/7hYGWflgiI2aa25jOgL6eg"
+      "duration_ms": 146146,
+      "name": "Sleep",
+      "url": "https://open.spotify.com/track/76JrGQqPhi5WnVjuvNGMtK"
     },
     {
       "added_at": "2023-11-28 01:53:10",
@@ -135,6 +199,22 @@
       "duration_ms": 194045,
       "name": "DIE 4 YOU",
       "url": "https://open.spotify.com/track/7yZD4AVfQtAZD4cG8eRnPk"
+    },
+    {
+      "added_at": "2023-11-28 01:53:10",
+      "album": {
+        "name": "wonderego",
+        "url": "https://open.spotify.com/album/7ikvq6MB2VhB2IPCDO6RnP"
+      },
+      "artists": [
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        }
+      ],
+      "duration_ms": 183826,
+      "name": "Hmm-cheat",
+      "url": "https://open.spotify.com/track/7hYGWflgiI2aa25jOgL6eg"
     },
     {
       "added_at": "2023-11-28 01:53:10",
@@ -551,26 +631,6 @@
     {
       "added_at": "2023-11-28 01:53:10",
       "album": {
-        "name": "An Iron Hand In A Velvet Glove",
-        "url": "https://open.spotify.com/album/1ZXkq2lRMEuEILb4XfEXAL"
-      },
-      "artists": [
-        {
-          "name": "JINI",
-          "url": "https://open.spotify.com/artist/5X8oV02v7yAe4gsI4Rxl5D"
-        },
-        {
-          "name": "Amin\u00e9",
-          "url": "https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ"
-        }
-      ],
-      "duration_ms": 193400,
-      "name": "C'mon (feat. Amin\u00e9)",
-      "url": "https://open.spotify.com/track/0mWIAujQDmtG5m7Mu0NTmK"
-    },
-    {
-      "added_at": "2023-11-28 01:53:10",
-      "album": {
         "name": "KARD 6th Mini Album 'ICKY'",
         "url": "https://open.spotify.com/album/5xRkcPqJ3KO578D11kj9jd"
       },
@@ -615,22 +675,6 @@
       "duration_ms": 206946,
       "name": "TROUBLE",
       "url": "https://open.spotify.com/track/6MSRu5wksC0Esn63XOgmI3"
-    },
-    {
-      "added_at": "2023-11-28 01:53:10",
-      "album": {
-        "name": "Over The Moon",
-        "url": "https://open.spotify.com/album/0WGMSrfOSPh1vctL94IWD3"
-      },
-      "artists": [
-        {
-          "name": "LEE CHAE YEON",
-          "url": "https://open.spotify.com/artist/2nkZR6LwPxaAVtaVitNIPT"
-        }
-      ],
-      "duration_ms": 173080,
-      "name": "KNOCK",
-      "url": "https://open.spotify.com/track/6KiEF5zqzHiFjzdm8gChz7"
     },
     {
       "added_at": "2023-11-28 01:53:10",
@@ -707,22 +751,6 @@
     {
       "added_at": "2023-11-28 01:53:10",
       "album": {
-        "name": "BOYS PLANET - ARTIST BATTLE",
-        "url": "https://open.spotify.com/album/1rIIbjGYbj2sRxAWZUfeoC"
-      },
-      "artists": [
-        {
-          "name": "Overdose",
-          "url": "https://open.spotify.com/artist/32jdgEsyvdXqUoReMyR0gl"
-        }
-      ],
-      "duration_ms": 192613,
-      "name": "Over Me",
-      "url": "https://open.spotify.com/track/59oJpXOayvcKGbTXbrZjzF"
-    },
-    {
-      "added_at": "2023-11-28 01:53:10",
-      "album": {
         "name": "INVITATION (Feat. Gaeko)",
         "url": "https://open.spotify.com/album/4WxRKPVsrzIaQ7ExLMvJ1u"
       },
@@ -791,22 +819,6 @@
     {
       "added_at": "2023-11-28 01:53:10",
       "album": {
-        "name": "DALALA",
-        "url": "https://open.spotify.com/album/0q2pMuNvBFB1NEwUhz4uDX"
-      },
-      "artists": [
-        {
-          "name": "YUJU",
-          "url": "https://open.spotify.com/artist/7Bu0r4MCDX3sbhcFD5IXyx"
-        }
-      ],
-      "duration_ms": 189813,
-      "name": "DALALA",
-      "url": "https://open.spotify.com/track/0Aa9I95cft2JJB1g7dmhNZ"
-    },
-    {
-      "added_at": "2023-11-28 01:53:10",
-      "album": {
         "name": "You're Beautiful",
         "url": "https://open.spotify.com/album/1WAhLhtqvSSjspHe2kzYhF"
       },
@@ -835,22 +847,6 @@
       "duration_ms": 175600,
       "name": "SUPERPOWERS",
       "url": "https://open.spotify.com/track/2T0cn0hvGrG8vqqB8sK4zX"
-    },
-    {
-      "added_at": "2023-11-28 01:53:10",
-      "album": {
-        "name": "Street Woman Fighter2 (SWF2) (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/46YdNSoIhb5AM8KOn3dana"
-      },
-      "artists": [
-        {
-          "name": "CAMO",
-          "url": "https://open.spotify.com/artist/2YkhzcYyxJvtl5W6pY0PuF"
-        }
-      ],
-      "duration_ms": 194453,
-      "name": "HEAT",
-      "url": "https://open.spotify.com/track/4NGxERsvOQ2ok6Co4LJfS4"
     }
   ],
   "unique_name": "K-Pop Rising",

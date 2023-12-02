@@ -3056,7 +3056,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 209262,
       "name": "Revival",
       "url": "https://open.spotify.com/track/5UC1B9KaUWKFUYNFrklGxQ"
@@ -3592,6 +3592,24 @@
       "duration_ms": 203266,
       "name": "The Lord's Prayer (It's Yours)",
       "url": "https://open.spotify.com/track/4x2z65CsWpM2Kuxt2RQ8rj"
+    },
+    {
+      "album": {
+        "name": "The Word Is Working (Refreshed)",
+        "url": "https://open.spotify.com/album/3TyFoR8keShYsZIn60RZ8d"
+      },
+      "artists": [
+        {
+          "name": "Ada Ehi",
+          "url": "https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt"
+        }
+      ],
+      "date_added": "2022-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 407811,
+      "name": "The Word Is Working (Refreshed)",
+      "url": "https://open.spotify.com/track/2ZdIyaCMPY5fTX3GL3DYe7"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Music from Nashville's emerging Singers and Songwriters. Cover: Graham Barham",
+  "description": "Music from Nashville's emerging Singers and Songwriters. Cover: The Castellows",
   "name": "Young Nashville",
   "tracks": [
     {
@@ -3496,6 +3496,24 @@
       "duration_ms": 161927,
       "name": "Never Said Sorry",
       "url": "https://open.spotify.com/track/1h1XBqXVBQ5wLkdoWQet9m"
+    },
+    {
+      "album": {
+        "name": "No. 7 Road",
+        "url": "https://open.spotify.com/album/5ew2r7jhSR1oaCJinVXbwH"
+      },
+      "artists": [
+        {
+          "name": "The Castellows",
+          "url": "https://open.spotify.com/artist/18RWefCHpRm4ccmNgKSHvG"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182531,
+      "name": "No. 7 Road",
+      "url": "https://open.spotify.com/track/196gHiMKy67smff9ITYtQ5"
     },
     {
       "album": {

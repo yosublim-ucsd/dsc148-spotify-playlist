@@ -4,7 +4,7 @@
 
 > rock alternativo argentino\. <br/>📷 Justo Antes de la Guerra con los Esquimales
 
-187 songs - 10 hr 41 min
+189 songs - 10 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [Blanco & Negro](https://open.spotify.com/track/4SwidOXMXm7I4hJMziEPfA) | [Riel](https://open.spotify.com/artist/4ys8P86LOOHUoO954p2Ciu) | [Blanco & Negro](https://open.spotify.com/album/4wG2YePvIfmyUN61cFXSzO) | 3:16 | 2022-03-25 | 2023-03-25 |
 | [Botas Texanas](https://open.spotify.com/track/3NRoOXIRa9IAwuPJIPtVvA) | [Playa Nudista](https://open.spotify.com/artist/5z3Yr06HtJ5NUAp9wp7vn3) | [Botas Fuego Desierto](https://open.spotify.com/album/6icLZ05smifqFPVRl2Q66L) | 2:37 | 2023-03-23 |  |
 | [Cancion de Julio Verne](https://open.spotify.com/track/2o8fDSQ7LV6X8rAKUcS5aE) | [Atrás Hay Truenos](https://open.spotify.com/artist/6KDozt8X774pjyp1oVMsmz) | [PAOLETTI..\. En la ruta del árbol, en busca de la canción perfecta..\. VERSIONES](https://open.spotify.com/album/3fw0qnrZlKJeg6Mco0LPCC) | 3:22 | 2022-03-25 | 2023-03-25 |
+| [Cangrejal](https://open.spotify.com/track/4DNSjR34NzyowHIiNBpdrr) | [Bestia Bebé](https://open.spotify.com/artist/3j7kmtxJ0aptdHr9ZCnEkp) | [Vamos a Destruir](https://open.spotify.com/album/0D04Gwef4aeN5bEGzsvenm) | 4:10 | 2023-12-01 |  |
 | [Casa](https://open.spotify.com/track/1xsVmjvuPgRGBR3beitH1q) | [Bosque Distopico](https://open.spotify.com/artist/5b7YW8oH41qs5ZMuSJeXQk), [Fede Distopico](https://open.spotify.com/artist/2cr1OQebP3TK8QWW3uVmNT), [Alilen](https://open.spotify.com/artist/5u7zkp9mba6XRa1YcPLDkH) | [Casa](https://open.spotify.com/album/5OUlO3NgOSS4xSPdyr1eza) | 3:44 | 2022-03-25 | 2023-03-25 |
 | [Casa](https://open.spotify.com/track/1m5Wbcikf7FVuXTMsMqhPQ) | [Playa Nudista](https://open.spotify.com/artist/5z3Yr06HtJ5NUAp9wp7vn3) | [Casa](https://open.spotify.com/album/7JU6sPEXRMbMxPg2iIq0h9) | 2:49 | 2023-03-23 |  |
 | [Catedral](https://open.spotify.com/track/67aui76AVhF2XwGNvRcK1N) | [Media Hermana](https://open.spotify.com/artist/0oa0TL1V6tfg7ERfm2sMiE), [Mariano Esain](https://open.spotify.com/artist/4bUov6Vu3oOOC1GFLYJ2u8) | [Una Línea Muy Fina Parecida a la Curva de un Corazón](https://open.spotify.com/album/2YisE6MYvZownFAhHqnGX8) | 2:53 | 2023-03-23 |  |
@@ -108,6 +109,7 @@
 | [La Otra Ciudad](https://open.spotify.com/track/4fycTqg8GHP5434ND7kKvq) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [Unas Vacaciones Raras](https://open.spotify.com/album/5QTe4ln96FBIbCgR0rSjdf) | 4:18 | 2022-03-25 | 2022-07-29 |
 | [Las Flores Violentas](https://open.spotify.com/track/1OMzTxGLi5eYtHIe36kGC5) | [Maria Codino](https://open.spotify.com/artist/7zuaGTLVm6z97wydRCyUdj) | [Las Flores Violentas](https://open.spotify.com/album/3Pwm5izC0NugLdgi5BLzIJ) | 3:12 | 2022-03-25 | 2023-03-25 |
 | [LATAS](https://open.spotify.com/track/6CidWSzeGzBIz82eS4sG4m) | [K4](https://open.spotify.com/artist/0yjlGMMFuIci8JCTAOb2AU), [Dillom](https://open.spotify.com/artist/4cJD9t5QBFTUQcd3xfbOb2), [Proyecto Gomez Casa](https://open.spotify.com/artist/2llTGhog6PYF3KfYg5sTYe) | [LATAS](https://open.spotify.com/album/3oDPZk5VVbahXJSq0HVhat) | 2:36 | 2023-03-23 |  |
+| [Liberación](https://open.spotify.com/track/0Qd0MPuE8LLAhgMyS3uJkB) | [Saturno y la Melancolía](https://open.spotify.com/artist/7v8JacKhFWsgGZGgdSRliT) | [Liberación](https://open.spotify.com/album/3rWW0AXe5G6JNOOsdcJ2nN) | 3:58 | 2023-12-01 |  |
 | [Llueve](https://open.spotify.com/track/1gnzgNCAULZMgU3vsEwb9w) | [Los Rusos Hijos de Puta](https://open.spotify.com/artist/7HMBGT3pyDCDQrBkDiKwkW) | [Llueve](https://open.spotify.com/album/0qo6T7TGB8uh0ddsKXNwzo) | 2:15 | 2023-07-28 |  |
 | [Lluvia](https://open.spotify.com/track/5IlTUPT1eAtt3QsrsaewdU) | [Revistas](https://open.spotify.com/artist/7awcB0RMHO3U7R0u8AKkNp), [Pasado Verde](https://open.spotify.com/artist/6I0h9J8iQTeXkAir3RAj9k) | [Drama](https://open.spotify.com/album/6WtmjqcRqwbQRVSzicqD3g) | 3:52 | 2022-03-25 | 2023-06-03 |
 | [Lo nuevo y lo inútil](https://open.spotify.com/track/6OkthLKgU7KtbUuX674HO0) | [Club de Haters](https://open.spotify.com/artist/5ViQWU29kpydoCB1UPAvRC) | [Lo nuevo y lo inútil](https://open.spotify.com/album/1gNnS20kz9qcQJ5ghIsNQK) | 3:02 | 2023-07-14 |  |

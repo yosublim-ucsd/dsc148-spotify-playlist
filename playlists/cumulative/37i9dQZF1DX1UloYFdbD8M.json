@@ -2361,6 +2361,24 @@
     },
     {
       "album": {
+        "name": "Seul",
+        "url": "https://open.spotify.com/album/0NjOXzGwKGb2ldmVqv3n5g"
+      },
+      "artists": [
+        {
+          "name": "Sangeeth Vijayan",
+          "url": "https://open.spotify.com/artist/2TPRb7Pr2jsn9U2QL9RQut"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231729,
+      "name": "Seul",
+      "url": "https://open.spotify.com/track/2zEcttmwTWpku8WMnSSEqo"
+    },
+    {
+      "album": {
         "name": "Shubha Mangalyam",
         "url": "https://open.spotify.com/album/1n0LIIlZryTZjICC2Jn5ar"
       },

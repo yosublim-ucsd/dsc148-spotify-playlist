@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "It's not a genre, it's a culture. Cover: <a href=\"https://open.spotify.com/artist/7lpGctutZNeN7UKIyEFbPg?si=TPB5yZCFQtmvkroLreCBnQ\">Sminofu</a>",
+  "description": "Khuphuka lapho\u2026 seku-late! Cover: <a href=\"https://open.spotify.com/artist/6wq5brCC7NSFUDJ8rL0fcF?si=V68FwFkMQsKXISH2sL7BdA\">Inkos'yamagcokama</a>",
   "name": "Bhinca Nation",
   "tracks": [
     {
@@ -312,7 +312,7 @@
       ],
       "date_added": "2021-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 260230,
       "name": "Asifani siyafanelana",
       "url": "https://open.spotify.com/track/61rcqq5Z6GSjVyhuFAMbiw"
@@ -360,6 +360,24 @@
       "duration_ms": 219693,
       "name": "Awusho Dali",
       "url": "https://open.spotify.com/track/3lJZPHew6QpHxZLutX6mc6"
+    },
+    {
+      "album": {
+        "name": "Chabo",
+        "url": "https://open.spotify.com/album/5PgmVQCCDKFiJV1F39QUAM"
+      },
+      "artists": [
+        {
+          "name": "Menzi",
+          "url": "https://open.spotify.com/artist/0PIYUjDZszDZSZGLhYvmyZ"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269482,
+      "name": "Babesihleka",
+      "url": "https://open.spotify.com/track/1ctSLtJlPa5sLMyiDnVo0R"
     },
     {
       "album": {
@@ -450,7 +468,7 @@
       ],
       "date_added": "2023-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 248987,
       "name": "BO GIRL",
       "url": "https://open.spotify.com/track/6CrL5WAQNE2a94i7tqbi67"
@@ -1501,6 +1519,24 @@
     },
     {
       "album": {
+        "name": "Aliboli Icala",
+        "url": "https://open.spotify.com/album/1abs0KR9WTKPBC7jpUKML8"
+      },
+      "artists": [
+        {
+          "name": "Khuzani",
+          "url": "https://open.spotify.com/artist/1ltbNKMXKKXkjaXCTGZYUs"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296796,
+      "name": "Isithembu Simnandi",
+      "url": "https://open.spotify.com/track/5VRvB38xJm4N1MZbpxqLAn"
+    },
+    {
+      "album": {
         "name": "KOA II Part 1",
         "url": "https://open.spotify.com/album/3DbMb03o8Wu2BCipvcdw7q"
       },
@@ -2427,6 +2463,28 @@
     },
     {
       "album": {
+        "name": "Sathane",
+        "url": "https://open.spotify.com/album/7EPDvA0KJ9bU7mN7tUFvhV"
+      },
+      "artists": [
+        {
+          "name": "Nomcebo Zikode",
+          "url": "https://open.spotify.com/artist/4cfKtwkefMW3aiXtxfw8w6"
+        },
+        {
+          "name": "Mbuzeni",
+          "url": "https://open.spotify.com/artist/7wayRI97YKruzv8kyy3zok"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223098,
+      "name": "Sathane",
+      "url": "https://open.spotify.com/track/55iexGpQPcxt8Gv3Ioi1aB"
+    },
+    {
+      "album": {
         "name": "Ukhamba",
         "url": "https://open.spotify.com/album/4VshKshG4GNIVueV0qoeiP"
       },
@@ -3070,6 +3128,24 @@
       "duration_ms": 318546,
       "name": "Usale Kanjani",
       "url": "https://open.spotify.com/track/1Na1tKjOtgF6Wzu1JlFSgj"
+    },
+    {
+      "album": {
+        "name": "NATIONAL ANTHEM",
+        "url": "https://open.spotify.com/album/1ALfXDK2aes4nEs0OWt4No"
+      },
+      "artists": [
+        {
+          "name": "Inkos'yamagcokama",
+          "url": "https://open.spotify.com/artist/6wq5brCC7NSFUDJ8rL0fcF"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302497,
+      "name": "UTHAND'OLUSHA",
+      "url": "https://open.spotify.com/track/4JqYjzSAjcPl7sc4cJtoaE"
     },
     {
       "album": {

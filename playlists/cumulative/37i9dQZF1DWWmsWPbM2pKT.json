@@ -2294,7 +2294,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 80153,
       "name": "MOTHS",
       "url": "https://open.spotify.com/track/198k5g8F2FYnwYbhHV4rRB"
@@ -2316,6 +2316,24 @@
       "duration_ms": 80153,
       "name": "MOTHS",
       "url": "https://open.spotify.com/track/2dT5M4bdibcfjLiqfzawi1"
+    },
+    {
+      "album": {
+        "name": "MOTHS",
+        "url": "https://open.spotify.com/album/5u0CMSfz7NxPrZW5IAClIf"
+      },
+      "artists": [
+        {
+          "name": "Nyxjvh",
+          "url": "https://open.spotify.com/artist/0qynm6lz4zZ8lJZygwfovX"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 80153,
+      "name": "MOTHS",
+      "url": "https://open.spotify.com/track/5QjDSwiE4HhAnYxExc8l65"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "Ingenting peppar en under ett tr\u00e4ningspass som riktigt bra musik.",
-  "num_followers": 6628,
+  "num_followers": 6648,
   "original_name": "Peppl\u00e5tar till tr\u00e4ningspasset",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YzU0ZDhiODk1ODgyNzJkOWRhZWY5ZmZlZDRhZGExMzE3MzBlNzlk",
+  "snapshot_id": "MCwyZjFmMjY3ZTNjMjE3NWVjYTE2ODYyODhmOGRiNzhkYmM2NGE1ZTQx",
   "tracks": [
     {
       "added_at": "2023-11-30 23:00:00",
@@ -387,26 +387,6 @@
     {
       "added_at": "2023-11-30 23:00:00",
       "album": {
-        "name": "Tattoo (Topic Remix)",
-        "url": "https://open.spotify.com/album/1nAJInWgfbBTHuK4osAGM9"
-      },
-      "artists": [
-        {
-          "name": "Loreen",
-          "url": "https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl"
-        },
-        {
-          "name": "Topic",
-          "url": "https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ"
-        }
-      ],
-      "duration_ms": 211400,
-      "name": "Tattoo - Topic Remix",
-      "url": "https://open.spotify.com/track/2HJBsWX5LQK8Y95JzPJ4zp"
-    },
-    {
-      "added_at": "2023-11-30 23:00:00",
-      "album": {
         "name": "Run Free (Countdown)",
         "url": "https://open.spotify.com/album/3RbeHKH3mbJ4wQ4Y9fcF3f"
       },
@@ -423,6 +403,26 @@
       "duration_ms": 152380,
       "name": "Run Free (Countdown)",
       "url": "https://open.spotify.com/track/4KB66xUZWvRDej628vf2J8"
+    },
+    {
+      "added_at": "2023-11-30 23:00:00",
+      "album": {
+        "name": "Tattoo (Topic Remix)",
+        "url": "https://open.spotify.com/album/1nAJInWgfbBTHuK4osAGM9"
+      },
+      "artists": [
+        {
+          "name": "Loreen",
+          "url": "https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl"
+        },
+        {
+          "name": "Topic",
+          "url": "https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ"
+        }
+      ],
+      "duration_ms": 211400,
+      "name": "Tattoo - Topic Remix",
+      "url": "https://open.spotify.com/track/2HJBsWX5LQK8Y95JzPJ4zp"
     },
     {
       "added_at": "2023-11-30 23:00:00",
@@ -563,6 +563,26 @@
     {
       "added_at": "2023-11-30 23:00:00",
       "album": {
+        "name": "Meet Her (Ti\u00ebsto vs. Da Hool)",
+        "url": "https://open.spotify.com/album/3FkgnEt5ecJiAGlFvPNZQT"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "Da Hool",
+          "url": "https://open.spotify.com/artist/0wOXK4GjUAFUDhd7mvKBbW"
+        }
+      ],
+      "duration_ms": 132000,
+      "name": "Meet Her - Ti\u00ebsto vs. Da Hool",
+      "url": "https://open.spotify.com/track/2ObP6OLXWzrmdVvgIFjjc2"
+    },
+    {
+      "added_at": "2023-11-30 23:00:00",
+      "album": {
         "name": "Take My Breath",
         "url": "https://open.spotify.com/album/6DmXKM13nNgIIby2FdK0f8"
       },
@@ -599,26 +619,6 @@
       "duration_ms": 163510,
       "name": "God Is In The Soundwaves",
       "url": "https://open.spotify.com/track/51w0BMC24JALh8uzwRzjMB"
-    },
-    {
-      "added_at": "2023-11-30 23:00:00",
-      "album": {
-        "name": "Meet Her (Ti\u00ebsto vs. Da Hool)",
-        "url": "https://open.spotify.com/album/3FkgnEt5ecJiAGlFvPNZQT"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        },
-        {
-          "name": "Da Hool",
-          "url": "https://open.spotify.com/artist/0wOXK4GjUAFUDhd7mvKBbW"
-        }
-      ],
-      "duration_ms": 132000,
-      "name": "Meet Her - Ti\u00ebsto vs. Da Hool",
-      "url": "https://open.spotify.com/track/2ObP6OLXWzrmdVvgIFjjc2"
     },
     {
       "added_at": "2023-11-30 23:00:00",
@@ -763,6 +763,22 @@
     {
       "added_at": "2023-11-30 23:00:00",
       "album": {
+        "name": "Musica",
+        "url": "https://open.spotify.com/album/6bjQOS2LqOWMo2sGUYCKpc"
+      },
+      "artists": [
+        {
+          "name": "MEDUZA",
+          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
+        }
+      ],
+      "duration_ms": 177142,
+      "name": "Musica",
+      "url": "https://open.spotify.com/track/207YcqxaFYsOdJarlqyjWl"
+    },
+    {
+      "added_at": "2023-11-30 23:00:00",
+      "album": {
         "name": "Only You",
         "url": "https://open.spotify.com/album/7HYcGsdfiY8AEOgGesSknZ"
       },
@@ -827,26 +843,6 @@
     {
       "added_at": "2023-11-30 23:00:00",
       "album": {
-        "name": "Dance All Over Me",
-        "url": "https://open.spotify.com/album/2UdthZopBNkIeFXEEUg9sQ"
-      },
-      "artists": [
-        {
-          "name": "George Ezra",
-          "url": "https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j"
-        },
-        {
-          "name": "Jax Jones",
-          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
-        }
-      ],
-      "duration_ms": 165120,
-      "name": "Dance All Over Me - Jax Jones Remix",
-      "url": "https://open.spotify.com/track/2GAIcRjMNkAiLaoXbNm0VW"
-    },
-    {
-      "added_at": "2023-11-30 23:00:00",
-      "album": {
         "name": "Hear Me Say",
         "url": "https://open.spotify.com/album/0mTHF0Grl8yVxVZHAMZn9V"
       },
@@ -867,38 +863,22 @@
     {
       "added_at": "2023-11-30 23:00:00",
       "album": {
-        "name": "Musica",
-        "url": "https://open.spotify.com/album/6bjQOS2LqOWMo2sGUYCKpc"
+        "name": "Dance All Over Me",
+        "url": "https://open.spotify.com/album/2UdthZopBNkIeFXEEUg9sQ"
       },
       "artists": [
         {
-          "name": "MEDUZA",
-          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
-        }
-      ],
-      "duration_ms": 177142,
-      "name": "Musica",
-      "url": "https://open.spotify.com/track/207YcqxaFYsOdJarlqyjWl"
-    },
-    {
-      "added_at": "2023-11-30 23:00:00",
-      "album": {
-        "name": "Weekend (feat. Emelie Cyr\u00e9us)",
-        "url": "https://open.spotify.com/album/3z7i4GvlZ92wwB06ZAGzqm"
-      },
-      "artists": [
-        {
-          "name": "LIZOT",
-          "url": "https://open.spotify.com/artist/12A83CWwFiyXy90ScLWPIe"
+          "name": "George Ezra",
+          "url": "https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j"
         },
         {
-          "name": "Emelie Cyr\u00e9us",
-          "url": "https://open.spotify.com/artist/0sbkGGlLYmgOzcxRqd257O"
+          "name": "Jax Jones",
+          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
         }
       ],
-      "duration_ms": 132775,
-      "name": "Weekend (feat. Emelie Cyr\u00e9us)",
-      "url": "https://open.spotify.com/track/4KPYXZUCKYLEEcGmKN4Exs"
+      "duration_ms": 165120,
+      "name": "Dance All Over Me - Jax Jones Remix",
+      "url": "https://open.spotify.com/track/2GAIcRjMNkAiLaoXbNm0VW"
     },
     {
       "added_at": "2023-11-30 23:00:00",
@@ -927,22 +907,22 @@
     {
       "added_at": "2023-11-30 23:00:00",
       "album": {
-        "name": "Fugazi (Robin Schulz Presents KOPPY)",
-        "url": "https://open.spotify.com/album/07g9RO7MnP7rV6K0vXBoTc"
+        "name": "Weekend (feat. Emelie Cyr\u00e9us)",
+        "url": "https://open.spotify.com/album/3z7i4GvlZ92wwB06ZAGzqm"
       },
       "artists": [
         {
-          "name": "Robin Schulz",
-          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+          "name": "LIZOT",
+          "url": "https://open.spotify.com/artist/12A83CWwFiyXy90ScLWPIe"
         },
         {
-          "name": "KOPPY",
-          "url": "https://open.spotify.com/artist/5SfqIMwBJ7wD419vvb33mO"
+          "name": "Emelie Cyr\u00e9us",
+          "url": "https://open.spotify.com/artist/0sbkGGlLYmgOzcxRqd257O"
         }
       ],
-      "duration_ms": 151279,
-      "name": "Fugazi (Robin Schulz Presents KOPPY)",
-      "url": "https://open.spotify.com/track/1As70eMQbPuG2cABqKZvq2"
+      "duration_ms": 132775,
+      "name": "Weekend (feat. Emelie Cyr\u00e9us)",
+      "url": "https://open.spotify.com/track/4KPYXZUCKYLEEcGmKN4Exs"
     },
     {
       "added_at": "2023-11-30 23:00:00",
@@ -999,6 +979,26 @@
       "duration_ms": 171265,
       "name": "FEMININE ENERGY",
       "url": "https://open.spotify.com/track/0RwUodOQMZwbJktcNYFq6x"
+    },
+    {
+      "added_at": "2023-11-30 23:00:00",
+      "album": {
+        "name": "Fugazi (Robin Schulz Presents KOPPY)",
+        "url": "https://open.spotify.com/album/07g9RO7MnP7rV6K0vXBoTc"
+      },
+      "artists": [
+        {
+          "name": "Robin Schulz",
+          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+        },
+        {
+          "name": "KOPPY",
+          "url": "https://open.spotify.com/artist/5SfqIMwBJ7wD419vvb33mO"
+        }
+      ],
+      "duration_ms": 151279,
+      "name": "Fugazi (Robin Schulz Presents KOPPY)",
+      "url": "https://open.spotify.com/track/1As70eMQbPuG2cABqKZvq2"
     },
     {
       "added_at": "2023-11-30 23:00:00",
@@ -1127,46 +1127,6 @@
     {
       "added_at": "2023-11-30 23:00:00",
       "album": {
-        "name": "Peru",
-        "url": "https://open.spotify.com/album/1wGjhakHpFEE3uPqGViTgI"
-      },
-      "artists": [
-        {
-          "name": "Tungevaag",
-          "url": "https://open.spotify.com/artist/49CE2ffZ6Z3zeYSDauSKck"
-        }
-      ],
-      "duration_ms": 147656,
-      "name": "Peru",
-      "url": "https://open.spotify.com/track/7t3cEJpYDi8tzNmBtxeHUj"
-    },
-    {
-      "added_at": "2023-11-30 23:00:00",
-      "album": {
-        "name": "On My Love (Felix Jaehn Remix)",
-        "url": "https://open.spotify.com/album/0LMyvKO91nmgBAb1JFpIQw"
-      },
-      "artists": [
-        {
-          "name": "Zara Larsson",
-          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
-        },
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        },
-        {
-          "name": "Felix Jaehn",
-          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "On My Love - Felix Jaehn Remix",
-      "url": "https://open.spotify.com/track/1CCjb1x6tRof8W6ApIJy6o"
-    },
-    {
-      "added_at": "2023-11-30 23:00:00",
-      "album": {
         "name": "So Close",
         "url": "https://open.spotify.com/album/7f0LueaWnRtuVHilsfVsjX"
       },
@@ -1187,6 +1147,38 @@
       "duration_ms": 168480,
       "name": "So Close",
       "url": "https://open.spotify.com/track/3wNt4DRane7yasbJEfR0hX"
+    },
+    {
+      "added_at": "2023-11-30 23:00:00",
+      "album": {
+        "name": "Peru",
+        "url": "https://open.spotify.com/album/1wGjhakHpFEE3uPqGViTgI"
+      },
+      "artists": [
+        {
+          "name": "Tungevaag",
+          "url": "https://open.spotify.com/artist/49CE2ffZ6Z3zeYSDauSKck"
+        }
+      ],
+      "duration_ms": 147656,
+      "name": "Peru",
+      "url": "https://open.spotify.com/track/7t3cEJpYDi8tzNmBtxeHUj"
+    },
+    {
+      "added_at": "2023-11-30 23:00:00",
+      "album": {
+        "name": "Dirt Femme (Extended Cut)",
+        "url": "https://open.spotify.com/album/4HqIEAaytAyzVPnnT0j9j3"
+      },
+      "artists": [
+        {
+          "name": "Tove Lo",
+          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
+        }
+      ],
+      "duration_ms": 190902,
+      "name": "I like u",
+      "url": "https://open.spotify.com/track/28XsFrUuLEcq9BnGlOHTyJ"
     },
     {
       "added_at": "2023-11-30 23:00:00",
@@ -1215,26 +1207,46 @@
     {
       "added_at": "2023-11-30 23:00:00",
       "album": {
-        "name": "Don't Cry For Me (with Jason Derulo)",
-        "url": "https://open.spotify.com/album/6ZPH8jjxr3QtODz3bXX4kP"
+        "name": "On My Love (Felix Jaehn Remix)",
+        "url": "https://open.spotify.com/album/0LMyvKO91nmgBAb1JFpIQw"
       },
       "artists": [
         {
-          "name": "Alok",
-          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
         },
         {
-          "name": "Martin Jensen",
-          "url": "https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB"
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
         },
         {
-          "name": "Jason Derulo",
-          "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
+          "name": "Felix Jaehn",
+          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
         }
       ],
-      "duration_ms": 155769,
-      "name": "Don't Cry For Me (with Jason Derulo)",
-      "url": "https://open.spotify.com/track/0FLwo3U1NrjocfK2FDisrX"
+      "duration_ms": 210000,
+      "name": "On My Love - Felix Jaehn Remix",
+      "url": "https://open.spotify.com/track/1CCjb1x6tRof8W6ApIJy6o"
+    },
+    {
+      "added_at": "2023-11-30 23:00:00",
+      "album": {
+        "name": "Pump Up The Jam",
+        "url": "https://open.spotify.com/album/5VehHhrEHz67LAT5hLFq8x"
+      },
+      "artists": [
+        {
+          "name": "Gabry Ponte",
+          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
+        },
+        {
+          "name": "HOSANNA",
+          "url": "https://open.spotify.com/artist/7M9O9v7kmiDSjN4eKFSik7"
+        }
+      ],
+      "duration_ms": 156923,
+      "name": "Pump Up The Jam",
+      "url": "https://open.spotify.com/track/2bazIDcL2XOCZE5rh58R7r"
     },
     {
       "added_at": "2023-11-30 23:00:00",
@@ -1259,6 +1271,30 @@
     {
       "added_at": "2023-11-30 23:00:00",
       "album": {
+        "name": "Don't Cry For Me (with Jason Derulo)",
+        "url": "https://open.spotify.com/album/6ZPH8jjxr3QtODz3bXX4kP"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Martin Jensen",
+          "url": "https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB"
+        },
+        {
+          "name": "Jason Derulo",
+          "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
+        }
+      ],
+      "duration_ms": 155769,
+      "name": "Don't Cry For Me (with Jason Derulo)",
+      "url": "https://open.spotify.com/track/0FLwo3U1NrjocfK2FDisrX"
+    },
+    {
+      "added_at": "2023-11-30 23:00:00",
+      "album": {
         "name": "La Isla Bonita",
         "url": "https://open.spotify.com/album/4ZZaPROmldjEyG060tD0sS"
       },
@@ -1279,22 +1315,6 @@
       "duration_ms": 192000,
       "name": "La Isla Bonita",
       "url": "https://open.spotify.com/track/6xXfYBNKBnJusUxemYMkKH"
-    },
-    {
-      "added_at": "2023-11-30 23:00:00",
-      "album": {
-        "name": "Dirt Femme (Extended Cut)",
-        "url": "https://open.spotify.com/album/4HqIEAaytAyzVPnnT0j9j3"
-      },
-      "artists": [
-        {
-          "name": "Tove Lo",
-          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
-        }
-      ],
-      "duration_ms": 190902,
-      "name": "I like u",
-      "url": "https://open.spotify.com/track/28XsFrUuLEcq9BnGlOHTyJ"
     },
     {
       "added_at": "2023-11-30 23:00:00",
@@ -1403,26 +1423,6 @@
     {
       "added_at": "2023-11-30 23:00:00",
       "album": {
-        "name": "Hollywood",
-        "url": "https://open.spotify.com/album/5SQuqccOnKASxj94o2C5ro"
-      },
-      "artists": [
-        {
-          "name": "Martin Jensen",
-          "url": "https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB"
-        },
-        {
-          "name": "Prezioso",
-          "url": "https://open.spotify.com/artist/3iMzbvXlgNUpoFccD60bvr"
-        }
-      ],
-      "duration_ms": 145591,
-      "name": "Hollywood",
-      "url": "https://open.spotify.com/track/1n2zcm9jlZA5g82K6rE9cB"
-    },
-    {
-      "added_at": "2023-11-30 23:00:00",
-      "album": {
         "name": "On A Trip (with Marten H\u00f8rger)",
         "url": "https://open.spotify.com/album/33vrpRLTSvd9YQHJBdgjw7"
       },
@@ -1443,22 +1443,22 @@
     {
       "added_at": "2023-11-30 23:00:00",
       "album": {
-        "name": "Pump Up The Jam",
-        "url": "https://open.spotify.com/album/5VehHhrEHz67LAT5hLFq8x"
+        "name": "Hollywood",
+        "url": "https://open.spotify.com/album/5SQuqccOnKASxj94o2C5ro"
       },
       "artists": [
         {
-          "name": "Gabry Ponte",
-          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
+          "name": "Martin Jensen",
+          "url": "https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB"
         },
         {
-          "name": "HOSANNA",
-          "url": "https://open.spotify.com/artist/7M9O9v7kmiDSjN4eKFSik7"
+          "name": "Prezioso",
+          "url": "https://open.spotify.com/artist/3iMzbvXlgNUpoFccD60bvr"
         }
       ],
-      "duration_ms": 156923,
-      "name": "Pump Up The Jam",
-      "url": "https://open.spotify.com/track/2bazIDcL2XOCZE5rh58R7r"
+      "duration_ms": 145591,
+      "name": "Hollywood",
+      "url": "https://open.spotify.com/track/1n2zcm9jlZA5g82K6rE9cB"
     },
     {
       "added_at": "2023-11-30 23:00:00",
@@ -1575,6 +1575,26 @@
     {
       "added_at": "2023-11-30 23:00:00",
       "album": {
+        "name": "Loca Loca",
+        "url": "https://open.spotify.com/album/2ijafytsdehzweHgZKv2mm"
+      },
+      "artists": [
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        },
+        {
+          "name": "Pelican",
+          "url": "https://open.spotify.com/artist/2uzcKKlZZ4eIanI41raEZ8"
+        }
+      ],
+      "duration_ms": 132386,
+      "name": "Loca Loca",
+      "url": "https://open.spotify.com/track/3JbxNrWdx6Di9I5E62vZzK"
+    },
+    {
+      "added_at": "2023-11-30 23:00:00",
+      "album": {
         "name": "Coffee (Give Me Something)",
         "url": "https://open.spotify.com/album/0AF75TND45TZytpXlwvVIe"
       },
@@ -1643,30 +1663,6 @@
       "duration_ms": 162983,
       "name": "Voices In My Head",
       "url": "https://open.spotify.com/track/5TPWOzPTIxCjqfqORrzoiO"
-    },
-    {
-      "added_at": "2023-11-30 23:00:00",
-      "album": {
-        "name": "Boom Boom Boom Boom",
-        "url": "https://open.spotify.com/album/0MY7UAFFOsR5mHgyfmNPfj"
-      },
-      "artists": [
-        {
-          "name": "LIZOT",
-          "url": "https://open.spotify.com/artist/12A83CWwFiyXy90ScLWPIe"
-        },
-        {
-          "name": "Amfree",
-          "url": "https://open.spotify.com/artist/72pJ6h8ZR3sS8S1vzv1SQE"
-        },
-        {
-          "name": "Ampris",
-          "url": "https://open.spotify.com/artist/7sn4p2ENk9UcN3QdnXAsN2"
-        }
-      ],
-      "duration_ms": 128524,
-      "name": "Boom Boom Boom Boom",
-      "url": "https://open.spotify.com/track/2mWsc7kD2lpFtMNndPEMOH"
     }
   ],
   "unique_name": "Peppl\u00e5tar till tr\u00e4ningspasset",

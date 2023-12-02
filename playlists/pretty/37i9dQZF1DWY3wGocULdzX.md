@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3wGocULdzX.md) - [plain]
 
 > ¡Qué rico el mambo! Cover: Machito
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,456 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,489 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3wGocULdzX.md) - [plain]
 | 18 | [El Manicero](https://open.spotify.com/track/4A0iCzLqX0bmDuDq1YAT59) | [Pérez Prado](https://open.spotify.com/artist/1ZKhPkCXXgtiGgALn4OYtT) | [La Historia del Mambo, Vol\. 2](https://open.spotify.com/album/6fJdrjyuTWOeZboh03i01n) | 2:39 |
 | 19 | [Rico Vacilon](https://open.spotify.com/track/22vnfqgJeAKZmVhhK6tXnk) | [Machito Orchestra](https://open.spotify.com/artist/38FHSGePCxtSwgzzInXhVe) | [Vacation At The Concord](https://open.spotify.com/album/7thOtRH5Z0D9WVyWs8LhWJ) | 2:44 |
 | 20 | [El Cayuco](https://open.spotify.com/track/3j05qtcQlRIVF0a2DOoO68) | [Tito Puente](https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX) | [Dance Mania Vol.1](https://open.spotify.com/album/1XjabdmwipT62cLSZV45SU) | 2:35 |
-| 21 | [Asia Minor](https://open.spotify.com/track/1ZU7un2BX6J98BibBv8cmO) | [Machito & His Orchestra](https://open.spotify.com/artist/14IhDLK3FnairSloyYjw9h) | [Asia Minor Cha Cha Cha](https://open.spotify.com/album/0OelWTAicp39Y93KJBWJA2) | 3:01 |
-| 22 | [Mambo Manila](https://open.spotify.com/track/0gyejcE44IsekC8hL6aylF) | [Tito Rodriguez & His Orchestra](https://open.spotify.com/artist/67HW6PKDXtSXN6ANTEQemN) | [Mambo Madness](https://open.spotify.com/album/37adSaGjRerybXzNjcry13) | 3:10 |
+| 21 | [Mambo Manila](https://open.spotify.com/track/0gyejcE44IsekC8hL6aylF) | [Tito Rodriguez & His Orchestra](https://open.spotify.com/artist/67HW6PKDXtSXN6ANTEQemN) | [Mambo Madness](https://open.spotify.com/album/37adSaGjRerybXzNjcry13) | 3:10 |
+| 22 | [Asia Minor](https://open.spotify.com/track/1ZU7un2BX6J98BibBv8cmO) | [Machito & His Orchestra](https://open.spotify.com/artist/14IhDLK3FnairSloyYjw9h) | [Asia Minor Cha Cha Cha](https://open.spotify.com/album/0OelWTAicp39Y93KJBWJA2) | 3:01 |
 | 23 | [Yo No Soy Guapo](https://open.spotify.com/track/5xg8xey3cg0LvsY72ssgeI) | [Eddie Palmieri](https://open.spotify.com/artist/2VviFtXYreO6Zn9n8Ibk6C) | [Solito](https://open.spotify.com/album/6AY69nRRUOsqIoQauepZM2) | 5:07 |
 | 24 | [Patricia](https://open.spotify.com/track/2bwhOdCOLgQ8v6xStAqnju) | [Pérez Prado](https://open.spotify.com/artist/1ZKhPkCXXgtiGgALn4OYtT) | [Coleccion Original](https://open.spotify.com/album/1hu7GjmtnChBUBDLZjb2Mb) | 2:20 |
 | 25 | [Separarla También](https://open.spotify.com/track/2uUimJq18JcrZjgkuvLuMa) | [La Playa Sextet](https://open.spotify.com/artist/2sOjbVJo60mStZl19NDcUn) | [A Little Bit Of Everything](https://open.spotify.com/album/49CPTtkajDw9XAcUafNgrY) | 2:35 |
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3wGocULdzX.md) - [plain]
 | 43 | [Kimbya \(feat\. Manny Roman\)](https://open.spotify.com/track/4gaeprgycCYuuSq2yvfuwh) | [Bobby Marin](https://open.spotify.com/artist/1M6SRxoB7bSY1M8WbwIeF3), [Manny Roman](https://open.spotify.com/artist/1ovL4YOHbcfY0OFDC5b8ap) | [Salsa With Me](https://open.spotify.com/album/5jAi3DPCaYYG9JDUwAnSZE) | 4:21 |
 | 44 | [Mi Jebita \(feat\. Just Betancourt\)](https://open.spotify.com/track/3Qt23kKNKJot7OaC2ywCFx) | [Orlando Marin](https://open.spotify.com/artist/1uH7tVnnXDsQWjtJOZH5ID), [Just Betancourt](https://open.spotify.com/artist/1qnB8QE8FRjCjrGgVehIwp) | [The Last Mambo King](https://open.spotify.com/album/3NqOdIbHCHnw1wbfYBWv9j) | 4:39 |
 | 45 | [Patricia](https://open.spotify.com/track/3Wuo44ejdseJkZ5eaAwr5D) | [Pérez Prado](https://open.spotify.com/artist/1ZKhPkCXXgtiGgALn4OYtT) | [Perez Prado \- Mambo](https://open.spotify.com/album/0W55Jt0adeRjt6AqB6rJdV) | 2:07 |
-| 46 | [Jamaiquino](https://open.spotify.com/track/5dE1fDEziJbrpYaMnQ45ER) | [Machito](https://open.spotify.com/artist/3mdrgtEX1xhiauu3Pn06LL) | [The Early Years](https://open.spotify.com/album/5Psz0qL5gppaidAzChMEZY) | 6:55 |
+| 46 | [The Herb Vendor](https://open.spotify.com/track/3ZIClXUDVFwnvUssqD3OKU) | [Machito](https://open.spotify.com/artist/3mdrgtEX1xhiauu3Pn06LL) | [La Herencia](https://open.spotify.com/album/3GOBlGfrkA9AmjdsBcRX3G) | 3:04 |
 | 47 | [Maria](https://open.spotify.com/track/1vywnMmHHTm8D4zpqq4TdP) | [Tito Rodriguez](https://open.spotify.com/artist/10n4KkyM4UDt4pf9H4aDlS) | [Tito Rodriguez..\. The Early Years](https://open.spotify.com/album/4k1RqHzMQgsODHYkMJHAMY) | 2:41 |
 | 48 | [Pachito E Che](https://open.spotify.com/track/5ZYO9ETsTxLMXfhzSmUTfA) | [Beny Moré](https://open.spotify.com/artist/1Sp47peMTI9na8FTY4yHJw), [Pérez Prado](https://open.spotify.com/artist/1ZKhPkCXXgtiGgALn4OYtT) | [Legends Of Cuban Music](https://open.spotify.com/album/6tviOtL10UFy6Or8rpjlfR) | 3:32 |
 | 49 | [Blen, Blen, Blen](https://open.spotify.com/track/0koL9KgFF8DiuNExstwl4X) | [Tito Rodriguez](https://open.spotify.com/artist/10n4KkyM4UDt4pf9H4aDlS) | [Tito No\. 1](https://open.spotify.com/album/7CRlAAlopAiJb5jimIkCGn) | 3:17 |
 | 50 | [No Cuentes Conmigo](https://open.spotify.com/track/55mhyCZbjoVCelyCmwR3du) | [Tito Rodriguez](https://open.spotify.com/artist/10n4KkyM4UDt4pf9H4aDlS) | [Tito Rodriguez..\. The Early Years](https://open.spotify.com/album/4k1RqHzMQgsODHYkMJHAMY) | 3:03 |
 
-Snapshot ID: `MCxjYjc1MDlhOWE0ZDUwNjA4OWU4Y2YxMzBkY2Y4NGU3MDIxY2JhOGEy`
+Snapshot ID: `MCw1Mjg0NmQzNThhZThlZWJjNzQwOTlmY2UyZTdiMDYzMjczZDQ0NTgz`

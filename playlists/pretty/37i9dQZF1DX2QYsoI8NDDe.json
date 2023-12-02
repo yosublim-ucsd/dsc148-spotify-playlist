@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Las poderosas, las reinas, las chacalosas! Estas son la mujeres quebrando barreras en la M\u00fasica Mexicana. Cover: Janely Rosa",
-  "num_followers": 500525,
+  "num_followers": 500546,
   "original_name": "Las Chacalosas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZDIxY2RlZTA0ZTVkNzM5MDdmNTRiNjVhZjI3MWJmOGVmNWRlYmYy",
+  "snapshot_id": "MCxjY2Q1ODYyZjA4ZmIwN2Y0OGQ4NWVjYjQ0YmY4ZGQxNjc1ZWQ5OGU0",
   "tracks": [
     {
       "added_at": "2023-11-24 05:00:00",
@@ -655,6 +655,22 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
+        "name": "No Me Lamentare",
+        "url": "https://open.spotify.com/album/7Bl7KTEP0tDvSLfLbYhn1O"
+      },
+      "artists": [
+        {
+          "name": "Cheli Madrid",
+          "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
+        }
+      ],
+      "duration_ms": 135806,
+      "name": "No Me Lamentare",
+      "url": "https://open.spotify.com/track/1Wmxfl6r5CVc8FplFZ8hxM"
+    },
+    {
+      "added_at": "2023-11-24 05:00:00",
+      "album": {
         "name": "Se Acabo (En Vivo)",
         "url": "https://open.spotify.com/album/2zFaRfokK5hhre6SV3EQEq"
       },
@@ -671,22 +687,6 @@
       "duration_ms": 158000,
       "name": "Se Acabo - En Vivo",
       "url": "https://open.spotify.com/track/34Z1nXTwSX6AF6soXdRHmb"
-    },
-    {
-      "added_at": "2023-11-24 05:00:00",
-      "album": {
-        "name": "No Me Lamentare",
-        "url": "https://open.spotify.com/album/7Bl7KTEP0tDvSLfLbYhn1O"
-      },
-      "artists": [
-        {
-          "name": "Cheli Madrid",
-          "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
-        }
-      ],
-      "duration_ms": 135806,
-      "name": "No Me Lamentare",
-      "url": "https://open.spotify.com/track/1Wmxfl6r5CVc8FplFZ8hxM"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -723,22 +723,6 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
-        "name": "Ahora Va La M\u00eda",
-        "url": "https://open.spotify.com/album/6oqlFEjgYbCrsMBPiH0NID"
-      },
-      "artists": [
-        {
-          "name": "Marisol Terrazas",
-          "url": "https://open.spotify.com/artist/3PRQE4Qyt7YF67ElSNxYok"
-        }
-      ],
-      "duration_ms": 206960,
-      "name": "Si Quieres Verme Llorar",
-      "url": "https://open.spotify.com/track/7pPa674i4GIa5v5nzwssk4"
-    },
-    {
-      "added_at": "2023-11-24 05:00:00",
-      "album": {
         "name": "Cambio De Canci\u00f3n",
         "url": "https://open.spotify.com/album/669yLYUn6jylypYi5lmge1"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 169548,
       "name": "Cambio De Canci\u00f3n",
       "url": "https://open.spotify.com/track/5vd0rJM8Z0TcL4bu68vL6Q"
+    },
+    {
+      "added_at": "2023-11-24 05:00:00",
+      "album": {
+        "name": "Ahora Va La M\u00eda",
+        "url": "https://open.spotify.com/album/6oqlFEjgYbCrsMBPiH0NID"
+      },
+      "artists": [
+        {
+          "name": "Marisol Terrazas",
+          "url": "https://open.spotify.com/artist/3PRQE4Qyt7YF67ElSNxYok"
+        }
+      ],
+      "duration_ms": 206960,
+      "name": "Si Quieres Verme Llorar",
+      "url": "https://open.spotify.com/track/7pPa674i4GIa5v5nzwssk4"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -823,22 +823,6 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
-        "name": "Lento",
-        "url": "https://open.spotify.com/album/7tw3cUyAi4VH9lg7Zl3Cru"
-      },
-      "artists": [
-        {
-          "name": "Katia Morales",
-          "url": "https://open.spotify.com/artist/5vvGAPzhwxeJzYaNwARBXg"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Lento",
-      "url": "https://open.spotify.com/track/24ntAnWA1WbHGsGvKmHho8"
-    },
-    {
-      "added_at": "2023-11-24 05:00:00",
-      "album": {
         "name": "Le Cale A Quien Le Cale",
         "url": "https://open.spotify.com/album/39KCoeSQExkWfgYx4UuvQn"
       },
@@ -855,18 +839,18 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
-        "name": "Empoderada",
-        "url": "https://open.spotify.com/album/5BO9Ecu5Qk8t5Z7MBhXSWD"
+        "name": "Lento",
+        "url": "https://open.spotify.com/album/7tw3cUyAi4VH9lg7Zl3Cru"
       },
       "artists": [
         {
-          "name": "Ivonne Galaz",
-          "url": "https://open.spotify.com/artist/3YXGxdYldEXVVlCdCkFD5G"
+          "name": "Katia Morales",
+          "url": "https://open.spotify.com/artist/5vvGAPzhwxeJzYaNwARBXg"
         }
       ],
-      "duration_ms": 164186,
-      "name": "Empoderada",
-      "url": "https://open.spotify.com/track/7n7NCdkIoSDB5VTazPcKFP"
+      "duration_ms": 180000,
+      "name": "Lento",
+      "url": "https://open.spotify.com/track/24ntAnWA1WbHGsGvKmHho8"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -891,6 +875,22 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
+        "name": "Empoderada",
+        "url": "https://open.spotify.com/album/5BO9Ecu5Qk8t5Z7MBhXSWD"
+      },
+      "artists": [
+        {
+          "name": "Ivonne Galaz",
+          "url": "https://open.spotify.com/artist/3YXGxdYldEXVVlCdCkFD5G"
+        }
+      ],
+      "duration_ms": 164186,
+      "name": "Empoderada",
+      "url": "https://open.spotify.com/track/7n7NCdkIoSDB5VTazPcKFP"
+    },
+    {
+      "added_at": "2023-11-24 05:00:00",
+      "album": {
         "name": "En Mil Cosas (En Vivo)",
         "url": "https://open.spotify.com/album/3ubgBWnTXQHbo9pGYvqyaL"
       },
@@ -907,18 +907,18 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
-        "name": "Pa' Dentro",
-        "url": "https://open.spotify.com/album/1KuZ2S6sbJF1BE3Uw70ncW"
+        "name": "Dije",
+        "url": "https://open.spotify.com/album/7p720aufoYrD4YoC0oh6m3"
       },
       "artists": [
         {
-          "name": "Lupita Infante",
-          "url": "https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ"
+          "name": "Natalia Corona",
+          "url": "https://open.spotify.com/artist/7G79nlCDum3JjrXUIVvxDa"
         }
       ],
-      "duration_ms": 152160,
-      "name": "Pa' Dentro - Versi\u00f3n Banda",
-      "url": "https://open.spotify.com/track/10Uc1hSwdM9RG9zMbIeJSz"
+      "duration_ms": 168528,
+      "name": "Dije",
+      "url": "https://open.spotify.com/track/2iaa3qdsbNieKVdcQRNb1P"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -939,18 +939,18 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
-        "name": "Dije",
-        "url": "https://open.spotify.com/album/7p720aufoYrD4YoC0oh6m3"
+        "name": "Pa' Dentro",
+        "url": "https://open.spotify.com/album/1KuZ2S6sbJF1BE3Uw70ncW"
       },
       "artists": [
         {
-          "name": "Natalia Corona",
-          "url": "https://open.spotify.com/artist/7G79nlCDum3JjrXUIVvxDa"
+          "name": "Lupita Infante",
+          "url": "https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ"
         }
       ],
-      "duration_ms": 168528,
-      "name": "Dije",
-      "url": "https://open.spotify.com/track/2iaa3qdsbNieKVdcQRNb1P"
+      "duration_ms": 152160,
+      "name": "Pa' Dentro - Versi\u00f3n Banda",
+      "url": "https://open.spotify.com/track/10Uc1hSwdM9RG9zMbIeJSz"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -1087,22 +1087,18 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
-        "name": "Soy Mala",
-        "url": "https://open.spotify.com/album/2TyCJUAgD4OkU6zSrPWFpe"
+        "name": "La Mesa Del Rinc\u00f3n",
+        "url": "https://open.spotify.com/album/2NUqSexHJyP9WOX1Gy7DT4"
       },
       "artists": [
         {
-          "name": "Victoria La Mala",
-          "url": "https://open.spotify.com/artist/67Ve4PFfgeDZuowPNJ42fc"
-        },
-        {
-          "name": "Chiquis",
-          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
+          "name": "Dueto Eleval",
+          "url": "https://open.spotify.com/artist/33gpRuqgapD4OaV9kcODrK"
         }
       ],
-      "duration_ms": 166333,
-      "name": "Sexo D\u00e9bil (TNMDQH)",
-      "url": "https://open.spotify.com/track/0qMENPFhmwopv8R8JaYQxr"
+      "duration_ms": 191862,
+      "name": "La Mesa Del Rinc\u00f3n",
+      "url": "https://open.spotify.com/track/6mHI2pjKDzYKawO8U0L9Bs"
     }
   ],
   "unique_name": "Las Chacalosas",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "New jazz for open minds. Cover: Nubiyan Twist",
+  "description": "New jazz for open minds. Cover: H ZETTRIO",
   "name": "State of Jazz",
   "tracks": [
     {
@@ -4678,7 +4678,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 219999,
       "name": "Coral Way",
       "url": "https://open.spotify.com/track/7e3U7b3CLSxIyMJVUIirai"
@@ -6398,6 +6398,24 @@
       "duration_ms": 242096,
       "name": "DYKWYD [Feat. Braxton Cook]",
       "url": "https://open.spotify.com/track/6CK3P6x1g6lfJ2yowBGOWz"
+    },
+    {
+      "album": {
+        "name": "Dynamics",
+        "url": "https://open.spotify.com/album/2j45BDfC3FVhEbiExfU1oS"
+      },
+      "artists": [
+        {
+          "name": "H ZETTRIO",
+          "url": "https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Dynamics",
+      "url": "https://open.spotify.com/track/7wi3S0J8v5uA12cXZI4xug"
     },
     {
       "album": {

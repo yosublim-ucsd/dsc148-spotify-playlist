@@ -4,7 +4,7 @@
 
 > Het beste van Pinkpop en een greep uit de line\-up van 2023
 
-551 songs - 1 day 13 hr 12 min
+552 songs - 1 day 13 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -367,7 +367,7 @@
 | [Papaoutai](https://open.spotify.com/track/1QFw2xxyQtgKjlrMCEqsNj) | [Stromae](https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR) | [Racine Carrée \(Standard US Version\)](https://open.spotify.com/album/22yd3bcffqUO7Pn5nsDaoj) | 3:52 | 2019-03-12 | 2023-05-31 |
 | [Papillon](https://open.spotify.com/track/7hYiX6LMP8w8d0kEc4KWuW) | [Editors](https://open.spotify.com/artist/6e9wIFWhBPHLE9bXK8gtBI) | [In This Light and on This Evening](https://open.spotify.com/album/4JO30GKQBd4SRLZSBwtTPY) | 5:24 | 2019-03-11 | 2023-05-31 |
 | [Passenger](https://open.spotify.com/track/7IoK6jZBxY7NMoQPoPXZCF) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [White Pony](https://open.spotify.com/album/5LEXck3kfixFaA3CqVE7bC) | 6:08 | 2019-03-11 | 2023-11-21 |
-| [Peaches](https://open.spotify.com/track/5huLMzIzFEdVcvEzt2hfk1) | [The Presidents Of The United States Of America](https://open.spotify.com/artist/1lZvg4fNAqHoj6I9N8naBM) | [The Presidents of The United States of America: Ten Year Super Bonus Special Anniversary Edition](https://open.spotify.com/album/7qh8188T5LB7bdCBlk6SO1) | 2:51 | 2019-03-11 |  |
+| [Peaches](https://open.spotify.com/track/5huLMzIzFEdVcvEzt2hfk1) | [The Presidents Of The United States Of America](https://open.spotify.com/artist/1lZvg4fNAqHoj6I9N8naBM) | [The Presidents of The United States of America: Ten Year Super Bonus Special Anniversary Edition](https://open.spotify.com/album/7qh8188T5LB7bdCBlk6SO1) | 2:51 | 2019-03-11 | 2023-12-02 |
 | [Pepper](https://open.spotify.com/track/1ng36571Iyov4HBxUClySn) | [Butthole Surfers](https://open.spotify.com/artist/62BcWP4fzR8axESibNQEhs) | [Electriclarryland](https://open.spotify.com/album/7nawZF1eeyTGbrL9OsOCwz) | 4:57 | 2019-03-11 | 2023-05-31 |
 | [Phat Planet](https://open.spotify.com/track/3cR4v4R9tl8vZkOAgqiMQh) | [Leftfield](https://open.spotify.com/artist/72hqBMsw7x5jnfxxwkii8L) | [Rhythm and Stealth](https://open.spotify.com/album/2rSsFpV6S1AKfcJIf6FYlE) | 5:23 | 2019-03-11 | 2023-05-31 |
 | [Pick Up the Pieces](https://open.spotify.com/track/2x1LQq8lsUzAA2wNj8yjC9) | [Average White Band](https://open.spotify.com/artist/3tx8fyu3c4OBP5nejYtUOb) | [AWB](https://open.spotify.com/album/5qZVqBEJSq2HkDMh2VCOQ6) | 3:59 | 2019-03-11 | 2023-05-31 |
@@ -470,7 +470,7 @@
 | [Take A Look Around](https://open.spotify.com/track/2avKuMN2QXkaG9vvHa2JLt) | [Limp Bizkit](https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb) | [Chocolate Starfish And The Hot Dog Flavored Water](https://open.spotify.com/album/5mi7FKaWE5CtcOjdyxScA7) | 5:21 | 2019-03-11 |  |
 | [Take Me Out](https://open.spotify.com/track/20I8RduZC2PWMWTDCZuuAN) | [Franz Ferdinand](https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A) | [Franz Ferdinand](https://open.spotify.com/album/0vi5ePiEHrGZJF7QhnDW2z) | 3:57 | 2019-03-11 |  |
 | [Talk Talk Talk](https://open.spotify.com/track/2YhXd0kSez8zBR1xssRK2Q) | [Blue Murder](https://open.spotify.com/artist/14O4ikLGE6ytLKNUFtdde9) | [La la Love](https://open.spotify.com/album/07JbMCRb6znM52iFIofwEB) | 3:00 | 2019-03-11 | 2023-05-31 |
-| [Teardrop](https://open.spotify.com/track/67Hna13dNDkZvBpTXRIaOJ) | [Massive Attack](https://open.spotify.com/artist/6FXMGgJwohJLUSr5nVlf9X) | [Mezzanine](https://open.spotify.com/album/49MNmJhZQewjt06rpwp6QR) | 5:30 | 2019-03-11 |  |
+| [Teardrop](https://open.spotify.com/track/67Hna13dNDkZvBpTXRIaOJ) | [Massive Attack](https://open.spotify.com/artist/6FXMGgJwohJLUSr5nVlf9X), [Elizabeth Fraser](https://open.spotify.com/artist/791Z3924aa619hZ3xsOJEx) | [Mezzanine](https://open.spotify.com/album/49MNmJhZQewjt06rpwp6QR) | 5:30 | 2019-03-11 |  |
 | [The Beautiful People](https://open.spotify.com/track/2aIB1CdRRG7YLBu9hNw9nR) | [Marilyn Manson](https://open.spotify.com/artist/2VYQTNDsvvKN9wmU5W7xpj) | [Antichrist Superstar](https://open.spotify.com/album/7APnZJwayR3lH9aUDPDYQB) | 3:38 | 2019-03-11 |  |
 | [The Best Is yet to Come](https://open.spotify.com/track/4GXhJ0OsAaPuRqkNlw7tVV) | [Novastar](https://open.spotify.com/artist/3r2qdoM2Ryp8aBb3S3qIG1) | [Novastar](https://open.spotify.com/album/3mlNFx9zCcWfQsq1rgyrMR) | 3:47 | 2019-03-11 | 2023-05-31 |
 | [The Boys Are Back In Town](https://open.spotify.com/track/43DeSV93pJPT4lCZaWZ6b1) | [Thin Lizzy](https://open.spotify.com/artist/6biWAmrHyiMkX49LkycGqQ) | [Jailbreak \(Deluxe Edition\)](https://open.spotify.com/album/6Cf545T4jkaiyvMnTRPOB2) | 4:26 | 2019-03-11 |  |
@@ -554,6 +554,7 @@
 | [You](https://open.spotify.com/track/67OhebffET8jFxLApBgddq) | [Das Pop](https://open.spotify.com/artist/6HvBsTSctQ8SGUzzfnMPcV) | [The Human Thing](https://open.spotify.com/album/0wqNHE2JkzVPN48jGopZjG) | 3:57 | 2019-03-11 | 2023-05-31 |
 | [You Give Me Something](https://open.spotify.com/track/28euH5Ny1JXxZAt2KjWp62) | [James Morrison](https://open.spotify.com/artist/3LpLGlgRS1IKPPwElnpW35) | [Undiscovered](https://open.spotify.com/album/00QEcKEqSmwP8odEMImIuz) | 3:32 | 2019-03-11 | 2023-05-31 |
 | [You Really Got Me](https://open.spotify.com/track/29SyMC0plk6qw8NMF7lfRL) | [The Kinks](https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E) | [Kinks \(Deluxe\)](https://open.spotify.com/album/08G3mGQXuHItbbsFAz50gJ) | 2:11 | 2019-03-11 | 2023-11-18 |
+| [You Really Got Me](https://open.spotify.com/track/6tZdL3Zp8JgrfDbsSeSV1S) | [The Kinks](https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E) | [Kinks \(Deluxe Edition\)](https://open.spotify.com/album/6HrqKlhAQiv4GjFjwmuxDQ) | 2:13 | 2023-06-14 |  |
 | [You're the Only One](https://open.spotify.com/track/5GdUQQ8WYOSwpgMad7k7Gy) | [Maria Mena](https://open.spotify.com/artist/3rTRHzFfbTk5GL3LpYZGHR) | [Mellow](https://open.spotify.com/album/1hZ41rjeSLNSo6miwQSjjx) | 2:45 | 2019-03-11 | 2023-05-31 |
 | [Younger Days](https://open.spotify.com/track/1hEeRFUwynarsuHUzWXXzG) | [The Fatal Flowers](https://open.spotify.com/artist/3jnFIpNQR0yaVWF5aKyzGp) | [Fatal Flowers/Younger Days](https://open.spotify.com/album/5DyKFlurFF4if4QgUkcJbg) | 3:08 | 2019-03-11 | 2023-05-31 |
 | [Youth of the Nation](https://open.spotify.com/track/0UrWr7Jnu1heq1o99ZwUd0) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU) | [Satellite \(U.S\. Version\)](https://open.spotify.com/album/4eUmncMYQRg0Ot29KKqbuk) | 4:16 | 2019-03-11 |  |

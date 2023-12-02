@@ -1,12 +1,12 @@
 {
   "description": "lofi beats by Latinxs.",
-  "num_followers": 8707,
+  "num_followers": 8746,
   "original_name": "lofi latino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3OTNlODBlOGQ0YzAwMTYyNDIyNjE1Y2FmM2MwODQ1ZjIwYTg4MmMx",
+  "snapshot_id": "MCxmOGYzZmY1ODQ5NGNjMTVjMGQ0YmFkNmNjMjc1ODIzZGJlNDc5YmMy",
   "tracks": [
     {
       "added_at": "2023-11-03 04:00:00",
@@ -259,30 +259,6 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
-        "name": "Bossa De Flauta",
-        "url": "https://open.spotify.com/album/5MwIh4cqWfS4U7XlStZU6e"
-      },
-      "artists": [
-        {
-          "name": "Papi Churro",
-          "url": "https://open.spotify.com/artist/4igGvshE0R9UvpobsKOsSK"
-        },
-        {
-          "name": "Smuv",
-          "url": "https://open.spotify.com/artist/0SM6zo7lSdqyplZo6XRX76"
-        },
-        {
-          "name": "Beats for Trees",
-          "url": "https://open.spotify.com/artist/3fMYtQwkblUGOAto35b82Y"
-        }
-      ],
-      "duration_ms": 114418,
-      "name": "Bossa De Flauta",
-      "url": "https://open.spotify.com/track/4bURJNtMormiqKdJoq2vcu"
-    },
-    {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
         "name": "Morena",
         "url": "https://open.spotify.com/album/4uxHO0UkGVUckaCScCgI5U"
       },
@@ -319,6 +295,30 @@
       "duration_ms": 135017,
       "name": "Ontem",
       "url": "https://open.spotify.com/track/6dz4i3NF00qBfygOvznDty"
+    },
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
+        "name": "Bossa De Flauta",
+        "url": "https://open.spotify.com/album/5MwIh4cqWfS4U7XlStZU6e"
+      },
+      "artists": [
+        {
+          "name": "Papi Churro",
+          "url": "https://open.spotify.com/artist/4igGvshE0R9UvpobsKOsSK"
+        },
+        {
+          "name": "Smuv",
+          "url": "https://open.spotify.com/artist/0SM6zo7lSdqyplZo6XRX76"
+        },
+        {
+          "name": "Beats for Trees",
+          "url": "https://open.spotify.com/artist/3fMYtQwkblUGOAto35b82Y"
+        }
+      ],
+      "duration_ms": 114418,
+      "name": "Bossa De Flauta",
+      "url": "https://open.spotify.com/track/4bURJNtMormiqKdJoq2vcu"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -411,22 +411,6 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
-        "name": "Floripa",
-        "url": "https://open.spotify.com/album/5Hs4R5iwptvstaChO7D6Ce"
-      },
-      "artists": [
-        {
-          "name": "Ray Ben Rue",
-          "url": "https://open.spotify.com/artist/0XBtKvTff8E8BIhtlxjVHv"
-        }
-      ],
-      "duration_ms": 119998,
-      "name": "Floripa",
-      "url": "https://open.spotify.com/track/6ZDo86HphrqZunbODFaQZm"
-    },
-    {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
         "name": "Parque de Bugambilias",
         "url": "https://open.spotify.com/album/2ZZd2fsm21NI6U3CYbxeW9"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 153857,
       "name": "Parque de Bugambilias",
       "url": "https://open.spotify.com/track/2AySbhync5bZgZ11BHXgJt"
+    },
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
+        "name": "Floripa",
+        "url": "https://open.spotify.com/album/5Hs4R5iwptvstaChO7D6Ce"
+      },
+      "artists": [
+        {
+          "name": "Ray Ben Rue",
+          "url": "https://open.spotify.com/artist/0XBtKvTff8E8BIhtlxjVHv"
+        }
+      ],
+      "duration_ms": 119998,
+      "name": "Floripa",
+      "url": "https://open.spotify.com/track/6ZDo86HphrqZunbODFaQZm"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -483,6 +483,26 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
+        "name": "Areca",
+        "url": "https://open.spotify.com/album/1gOTOnrWlkJVOod1DZATtR"
+      },
+      "artists": [
+        {
+          "name": "Ruth de las Plantas",
+          "url": "https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP"
+        },
+        {
+          "name": "Ozymandias' Dream",
+          "url": "https://open.spotify.com/artist/02fU9bl5biXBxxfNBfb3Bd"
+        }
+      ],
+      "duration_ms": 119741,
+      "name": "Areca",
+      "url": "https://open.spotify.com/track/34ECimOZN65vNIEDRauhhd"
+    },
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
         "name": "Mi Pueblo",
         "url": "https://open.spotify.com/album/02WfhEBpCed81725wg1lsx"
       },
@@ -503,26 +523,6 @@
       "duration_ms": 114000,
       "name": "Mi Pueblo",
       "url": "https://open.spotify.com/track/6dStpu70kmcpJmCtVD8vbB"
-    },
-    {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
-        "name": "Areca",
-        "url": "https://open.spotify.com/album/1gOTOnrWlkJVOod1DZATtR"
-      },
-      "artists": [
-        {
-          "name": "Ruth de las Plantas",
-          "url": "https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP"
-        },
-        {
-          "name": "Ozymandias' Dream",
-          "url": "https://open.spotify.com/artist/02fU9bl5biXBxxfNBfb3Bd"
-        }
-      ],
-      "duration_ms": 119741,
-      "name": "Areca",
-      "url": "https://open.spotify.com/track/34ECimOZN65vNIEDRauhhd"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -559,22 +559,6 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
-        "name": "En el Tianguis Lo-Fi",
-        "url": "https://open.spotify.com/album/6uf6pQtXpXFos4m5SIWDuF"
-      },
-      "artists": [
-        {
-          "name": "Bandido Beat",
-          "url": "https://open.spotify.com/artist/55DbcJhGcCqYhWlzAdSpvL"
-        }
-      ],
-      "duration_ms": 319062,
-      "name": "En el Tianguis Lo-Fi",
-      "url": "https://open.spotify.com/track/4yPhUf2mE2BacW6uckwfvw"
-    },
-    {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
         "name": "love in medell\u00edn",
         "url": "https://open.spotify.com/album/6IHUbJzZ2P4XMC9fq4O7TA"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 109723,
       "name": "love in medell\u00edn",
       "url": "https://open.spotify.com/track/5mGAQqsga5RzDp8NoQgmsH"
+    },
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
+        "name": "En el Tianguis Lo-Fi",
+        "url": "https://open.spotify.com/album/6uf6pQtXpXFos4m5SIWDuF"
+      },
+      "artists": [
+        {
+          "name": "Bandido Beat",
+          "url": "https://open.spotify.com/artist/55DbcJhGcCqYhWlzAdSpvL"
+        }
+      ],
+      "duration_ms": 319062,
+      "name": "En el Tianguis Lo-Fi",
+      "url": "https://open.spotify.com/track/4yPhUf2mE2BacW6uckwfvw"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -851,30 +851,6 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
-        "name": "Happy To Help",
-        "url": "https://open.spotify.com/album/4EZ4dKI2uWAZgF7Gf21rfp"
-      },
-      "artists": [
-        {
-          "name": "Lofi Fruits Music",
-          "url": "https://open.spotify.com/artist/1dABGukgZ8XKKOdd2rVSHM"
-        },
-        {
-          "name": "Fallen Roses",
-          "url": "https://open.spotify.com/artist/5I6WLC9Auo6aeTRHPQbdOv"
-        },
-        {
-          "name": "Orange Stick",
-          "url": "https://open.spotify.com/artist/2Ie3P7oklbSFxfrGtrkT9W"
-        }
-      ],
-      "duration_ms": 112065,
-      "name": "Happy To Help",
-      "url": "https://open.spotify.com/track/6daTLzt1uhoximZNMKoqlG"
-    },
-    {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
         "name": "Guaguansoul",
         "url": "https://open.spotify.com/album/7xaShaNw21kWDYAhamPXka"
       },
@@ -903,6 +879,30 @@
       "duration_ms": 129767,
       "name": "Ciudad de Papel",
       "url": "https://open.spotify.com/track/0I8Pn5LBI4TIydkOxOeEmE"
+    },
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
+        "name": "Happy To Help",
+        "url": "https://open.spotify.com/album/4EZ4dKI2uWAZgF7Gf21rfp"
+      },
+      "artists": [
+        {
+          "name": "Lofi Fruits Music",
+          "url": "https://open.spotify.com/artist/1dABGukgZ8XKKOdd2rVSHM"
+        },
+        {
+          "name": "Fallen Roses",
+          "url": "https://open.spotify.com/artist/5I6WLC9Auo6aeTRHPQbdOv"
+        },
+        {
+          "name": "Orange Stick",
+          "url": "https://open.spotify.com/artist/2Ie3P7oklbSFxfrGtrkT9W"
+        }
+      ],
+      "duration_ms": 112065,
+      "name": "Happy To Help",
+      "url": "https://open.spotify.com/track/6daTLzt1uhoximZNMKoqlG"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
-        "name": "are you kidding?",
-        "url": "https://open.spotify.com/album/7rdMOiMtmsgBwEfbX2I19v"
-      },
-      "artists": [
-        {
-          "name": "RUIDO",
-          "url": "https://open.spotify.com/artist/1GMJF1EIGaocbA7lBJkkzr"
-        }
-      ],
-      "duration_ms": 131091,
-      "name": "are you kidding?",
-      "url": "https://open.spotify.com/track/0hZq7KELxVZNX9y03D13K2"
-    },
-    {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
         "name": "El Comienzo",
         "url": "https://open.spotify.com/album/79gNd42o0NZ3DjhLyrL6ZN"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 236000,
       "name": "Estoy Ah\u00ed",
       "url": "https://open.spotify.com/track/2m5dELAxkaPzylB1NLdZIz"
+    },
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
+        "name": "are you kidding?",
+        "url": "https://open.spotify.com/album/7rdMOiMtmsgBwEfbX2I19v"
+      },
+      "artists": [
+        {
+          "name": "RUIDO",
+          "url": "https://open.spotify.com/artist/1GMJF1EIGaocbA7lBJkkzr"
+        }
+      ],
+      "duration_ms": 131091,
+      "name": "are you kidding?",
+      "url": "https://open.spotify.com/track/0hZq7KELxVZNX9y03D13K2"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -1087,18 +1087,22 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
-        "name": "Guaran\u00ed Landscape",
-        "url": "https://open.spotify.com/album/7oMarLxg3VXlAHHeXFCYPY"
+        "name": "Ocaso Sin Fin",
+        "url": "https://open.spotify.com/album/3lZRj273QqSBGw7hq2ctIz"
       },
       "artists": [
         {
-          "name": "Baco Beats",
-          "url": "https://open.spotify.com/artist/7MVKon23QCaCGUoM7Ay7mv"
+          "name": "Stc Beats VB",
+          "url": "https://open.spotify.com/artist/19Z4hoa8UlKhu0SbffIj2P"
+        },
+        {
+          "name": "DreamBetter",
+          "url": "https://open.spotify.com/artist/71CeLiuIiNZFUTnhVrutGi"
         }
       ],
-      "duration_ms": 189629,
-      "name": "Guaran\u00ed Landscape",
-      "url": "https://open.spotify.com/track/5BI586i4Pf3h9jveUJPMmm"
+      "duration_ms": 98832,
+      "name": "M\u00e9xico M\u00e1gico",
+      "url": "https://open.spotify.com/track/0HEBViSFSmzVzFd7kubqmp"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -1139,22 +1143,18 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
-        "name": "Ocaso Sin Fin",
-        "url": "https://open.spotify.com/album/3lZRj273QqSBGw7hq2ctIz"
+        "name": "Guaran\u00ed Landscape",
+        "url": "https://open.spotify.com/album/7oMarLxg3VXlAHHeXFCYPY"
       },
       "artists": [
         {
-          "name": "Stc Beats VB",
-          "url": "https://open.spotify.com/artist/19Z4hoa8UlKhu0SbffIj2P"
-        },
-        {
-          "name": "DreamBetter",
-          "url": "https://open.spotify.com/artist/71CeLiuIiNZFUTnhVrutGi"
+          "name": "Baco Beats",
+          "url": "https://open.spotify.com/artist/7MVKon23QCaCGUoM7Ay7mv"
         }
       ],
-      "duration_ms": 98832,
-      "name": "M\u00e9xico M\u00e1gico",
-      "url": "https://open.spotify.com/track/0HEBViSFSmzVzFd7kubqmp"
+      "duration_ms": 189629,
+      "name": "Guaran\u00ed Landscape",
+      "url": "https://open.spotify.com/track/5BI586i4Pf3h9jveUJPMmm"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -1191,6 +1191,38 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
+        "name": "Fr\u00edo",
+        "url": "https://open.spotify.com/album/5p6Tt6n1PF3lQ7d6sgjW7I"
+      },
+      "artists": [
+        {
+          "name": "L.Rey",
+          "url": "https://open.spotify.com/artist/7dod8f4FPtAxq3Pk7SiMRM"
+        }
+      ],
+      "duration_ms": 134400,
+      "name": "Fr\u00edo",
+      "url": "https://open.spotify.com/track/7JMPl4t5tc0Cf75VVorb3Z"
+    },
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
+        "name": "Safe Place",
+        "url": "https://open.spotify.com/album/2b6YC0q6UuMn23dtiNzsDa"
+      },
+      "artists": [
+        {
+          "name": "Fallen_Kid",
+          "url": "https://open.spotify.com/artist/3XrwWivF42Xahs2QhZhGOy"
+        }
+      ],
+      "duration_ms": 122273,
+      "name": "Safe Place",
+      "url": "https://open.spotify.com/track/5vWxZIYmcPSGsS4IMbEnCz"
+    },
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
         "name": "soltarte (instrumental)",
         "url": "https://open.spotify.com/album/5HyAL7Dc0sgIurgdN1swr9"
       },
@@ -1211,22 +1243,6 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
-        "name": "Fr\u00edo",
-        "url": "https://open.spotify.com/album/5p6Tt6n1PF3lQ7d6sgjW7I"
-      },
-      "artists": [
-        {
-          "name": "L.Rey",
-          "url": "https://open.spotify.com/artist/7dod8f4FPtAxq3Pk7SiMRM"
-        }
-      ],
-      "duration_ms": 134400,
-      "name": "Fr\u00edo",
-      "url": "https://open.spotify.com/track/7JMPl4t5tc0Cf75VVorb3Z"
-    },
-    {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
         "name": "El D\u00eda M\u00e1s Largo",
         "url": "https://open.spotify.com/album/5OtT7lgaBIPbXjpMYqcsMj"
       },
@@ -1239,22 +1255,6 @@
       "duration_ms": 146239,
       "name": "Cholomuco",
       "url": "https://open.spotify.com/track/1VACAmytiMZVFqjFB8dtWo"
-    },
-    {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
-        "name": "Safe Place",
-        "url": "https://open.spotify.com/album/2b6YC0q6UuMn23dtiNzsDa"
-      },
-      "artists": [
-        {
-          "name": "Fallen_Kid",
-          "url": "https://open.spotify.com/artist/3XrwWivF42Xahs2QhZhGOy"
-        }
-      ],
-      "duration_ms": 122273,
-      "name": "Safe Place",
-      "url": "https://open.spotify.com/track/5vWxZIYmcPSGsS4IMbEnCz"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -1279,6 +1279,26 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
+        "name": "Sample Saga: Brazil",
+        "url": "https://open.spotify.com/album/4TcMCBXsN0l6EQPGzwZnNe"
+      },
+      "artists": [
+        {
+          "name": "Beagle Bonnie",
+          "url": "https://open.spotify.com/artist/65HQEC5WeBptTMf5RSAoA3"
+        },
+        {
+          "name": "DJ No\u00e9",
+          "url": "https://open.spotify.com/artist/0MATnW9msuttarmwEUQYu3"
+        }
+      ],
+      "duration_ms": 117446,
+      "name": "Devagar",
+      "url": "https://open.spotify.com/track/2gexXPkOG9S65o5YpF1JRw"
+    },
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
         "name": "Monstera",
         "url": "https://open.spotify.com/album/30UdncbDNXsZjQUqXYKEg5"
       },
@@ -1299,26 +1319,6 @@
       "duration_ms": 144333,
       "name": "Monstera",
       "url": "https://open.spotify.com/track/3EFGb8vn5z3sYG8QTVLb70"
-    },
-    {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
-        "name": "Sample Saga: Brazil",
-        "url": "https://open.spotify.com/album/4TcMCBXsN0l6EQPGzwZnNe"
-      },
-      "artists": [
-        {
-          "name": "Beagle Bonnie",
-          "url": "https://open.spotify.com/artist/65HQEC5WeBptTMf5RSAoA3"
-        },
-        {
-          "name": "DJ No\u00e9",
-          "url": "https://open.spotify.com/artist/0MATnW9msuttarmwEUQYu3"
-        }
-      ],
-      "duration_ms": 117446,
-      "name": "Devagar",
-      "url": "https://open.spotify.com/track/2gexXPkOG9S65o5YpF1JRw"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -1419,6 +1419,46 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
+        "name": "Helado de Mango (Remix)",
+        "url": "https://open.spotify.com/album/34FM4pGswRvn6l3uHyFMS3"
+      },
+      "artists": [
+        {
+          "name": "Chill&Go",
+          "url": "https://open.spotify.com/artist/6EE1OjZRlv4jJJ1bUUvp5h"
+        },
+        {
+          "name": "neptune kid",
+          "url": "https://open.spotify.com/artist/7GjoXTEjUzwT08uo4DRMRA"
+        },
+        {
+          "name": "RNDN",
+          "url": "https://open.spotify.com/artist/5kM0MBsDCTwWZMO3nYYMkn"
+        }
+      ],
+      "duration_ms": 141825,
+      "name": "Helado de Mango (Remix)",
+      "url": "https://open.spotify.com/track/4cxQZLuYb1HLB3g6PpvBMK"
+    },
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
+        "name": "Aesthetic Beach",
+        "url": "https://open.spotify.com/album/58M5ZhKOSGd2ZHis9sZJsW"
+      },
+      "artists": [
+        {
+          "name": "Arkei",
+          "url": "https://open.spotify.com/artist/0zRhlnZOOvpAwow405hTFw"
+        }
+      ],
+      "duration_ms": 126857,
+      "name": "Orange Waves",
+      "url": "https://open.spotify.com/track/00L0ighVhKptSsIG49Ywnh"
+    },
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
         "name": "De La Selva",
         "url": "https://open.spotify.com/album/0nOAvowyJmiZVhMvN5Y3Li"
       },
@@ -1451,46 +1491,6 @@
       "duration_ms": 108564,
       "name": "Anoche",
       "url": "https://open.spotify.com/track/5ENIG7tqeqXEFPMegmqBLy"
-    },
-    {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
-        "name": "Aesthetic Beach",
-        "url": "https://open.spotify.com/album/58M5ZhKOSGd2ZHis9sZJsW"
-      },
-      "artists": [
-        {
-          "name": "Arkei",
-          "url": "https://open.spotify.com/artist/0zRhlnZOOvpAwow405hTFw"
-        }
-      ],
-      "duration_ms": 126857,
-      "name": "Orange Waves",
-      "url": "https://open.spotify.com/track/00L0ighVhKptSsIG49Ywnh"
-    },
-    {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
-        "name": "Helado de Mango (Remix)",
-        "url": "https://open.spotify.com/album/34FM4pGswRvn6l3uHyFMS3"
-      },
-      "artists": [
-        {
-          "name": "Chill&Go",
-          "url": "https://open.spotify.com/artist/6EE1OjZRlv4jJJ1bUUvp5h"
-        },
-        {
-          "name": "neptune kid",
-          "url": "https://open.spotify.com/artist/7GjoXTEjUzwT08uo4DRMRA"
-        },
-        {
-          "name": "RNDN",
-          "url": "https://open.spotify.com/artist/5kM0MBsDCTwWZMO3nYYMkn"
-        }
-      ],
-      "duration_ms": 141825,
-      "name": "Helado de Mango (Remix)",
-      "url": "https://open.spotify.com/track/4cxQZLuYb1HLB3g6PpvBMK"
     }
   ],
   "unique_name": "lofi latino",

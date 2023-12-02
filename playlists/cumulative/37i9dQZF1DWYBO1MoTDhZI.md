@@ -4,7 +4,7 @@
 
 > Just good vibes all day long
 
-730 songs - 1 day 15 hr 29 min
+731 songs - 1 day 15 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -675,6 +675,7 @@
 | [Trampoline \(with ZAYN\)](https://open.spotify.com/track/1iQDltZqI7BXnHrFy4Qo1k) | [SHAED](https://open.spotify.com/artist/3KwmxIhSe9UTSEF37kwngR), [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81) | [Trampoline \(with ZAYN\)](https://open.spotify.com/album/5QqqBZmdQmY1MvlnpBkagB) | 3:04 | 2019-10-16 | 2021-09-25 |
 | [Treat People With Kindness](https://open.spotify.com/track/03mMSLEJCPoGJwQhHpN5y0) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Fine Line](https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml) | 3:17 | 2022-11-13 | 2023-03-12 |
 | [Triple A \(feat\. NLE Choppa\)](https://open.spotify.com/track/7JKIP5eWwPfpijXDU5EmZf) | [Jubël](https://open.spotify.com/artist/4FcZfItjVIsfO9TynErl7X), [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [Triple A \(feat\. NLE Choppa\)](https://open.spotify.com/album/4pmJH9gH9yZxuPOMU0swI9) | 2:38 | 2023-06-02 | 2023-09-16 |
+| [Truth or Dare](https://open.spotify.com/track/1whAXVGN8AdfrnoXNIXfJf) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [TYLA](https://open.spotify.com/album/6cWVXZCgpDJhvFOqB6o0DP) | 3:10 | 2023-12-01 |  |
 | [Turn Up](https://open.spotify.com/track/3QEtSgpKhnCc37U7kgsEuI) | [Mike Posner](https://open.spotify.com/artist/2KsP6tYLJlTBvSUxnwlVWa), [The Futuristics](https://open.spotify.com/artist/0qiu2HDyU3u01mZXg5zS7t) | [Turn Up](https://open.spotify.com/album/0LPcMt88koQMtVEhy3aS85) | 2:21 | 2022-05-27 | 2022-06-11 |
 | [Turn Up The Sunshine \- From 'Minions: The Rise of Gru' Soundtrack](https://open.spotify.com/track/5FH5U5zlicxKUXK6DruWKM) | [Diana Ross](https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl), [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Turn Up The Sunshine \(From 'Minions: The Rise of Gru' Soundtrack\)](https://open.spotify.com/album/2q70l752ZOyY6kr7PZjAex) | 3:49 | 2022-05-20 | 2022-07-09 |
 | [Turn Up The Sunshine \- PNAU Remix / From 'Minions: The Rise of Gru' Soundtrack](https://open.spotify.com/track/3wR5OccDugBm5Od2NYcMaO) | [Diana Ross](https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl), [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb), [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u) | [Turn Up The Sunshine \(PNAU Remix / From 'Minions: The Rise of Gru' Soundtrack\)](https://open.spotify.com/album/0TJtS7EZReyGKsyXn08eOc) | 3:40 | 2022-07-08 | 2022-07-16 |
@@ -725,7 +726,7 @@
 | [Worth It.](https://open.spotify.com/track/7JgNAnCjJvL8hBR1kmCOFF) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [My 21st Century Blues](https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH) | 4:06 | 2023-02-03 | 2023-08-12 |
 | [Worth the Wait \(feat\. Omar Apollo\)](https://open.spotify.com/track/6V91Cctseyb8yz67YQMDw3) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM), [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Red Moon In Venus](https://open.spotify.com/album/5OZ44LaqZbpP3m9B3oT8br) | 2:30 | 2023-03-10 | 2023-04-01 |
 | [Yasmin you will never hear this](https://open.spotify.com/track/78IGDfiO57RIAYSV3LfaGa) | [Mikey Mike](https://open.spotify.com/artist/03TisRLz25RdilInRpqMZj) | [Mikey Mike’s Life on Earth: Vol\. 1](https://open.spotify.com/album/5EnLouCexQYqfXGNqymBqo) | 3:28 | 2019-10-16 | 2021-09-25 |
-| [YBGFA](https://open.spotify.com/track/5MUAhZVNZU4UF8FmhUBQYs) | [Teni](https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS) | [TEARS OF THE SUN](https://open.spotify.com/album/4yspRWwXpYeeQ2EoOmpLPJ) | 3:42 | 2023-11-17 |  |
+| [YBGFA](https://open.spotify.com/track/5MUAhZVNZU4UF8FmhUBQYs) | [Teni](https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS) | [TEARS OF THE SUN](https://open.spotify.com/album/4yspRWwXpYeeQ2EoOmpLPJ) | 3:42 | 2023-11-17 | 2023-12-02 |
 | [Yesterday](https://open.spotify.com/track/1l0cPiIm4i7AX7wukAP1GE) | [Mel Blue](https://open.spotify.com/artist/6GV5OpDaGm4sYeWlaXMHnJ) | [Yesterday](https://open.spotify.com/album/63qcqWhODFOmMA3in1WN0z) | 3:38 | 2020-10-13 | 2021-10-19 |
 | [yoga \(feat\. Rebecca Black\)](https://open.spotify.com/track/584h0fUq9maZhErREt79EA) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz), [Rebecca Black](https://open.spotify.com/artist/3Vl9fyKMIdLMswk8ai3mm9) | [yoga \(feat\. Rebecca Black\)](https://open.spotify.com/album/2Aj08j8VPdBBnGLQlXem78) | 2:37 | 2021-10-09 | 2022-04-07 |
 | [YOLO](https://open.spotify.com/track/5Z7z1depuCCpKLzhWNlyaz) | [Freedom Fry](https://open.spotify.com/artist/195hFqaTDENqLCcG8uGtM7) | [YOLO](https://open.spotify.com/album/6VNXZMYZDAmvgl3u8JV6hV) | 4:02 | 2023-08-11 | 2023-08-30 |

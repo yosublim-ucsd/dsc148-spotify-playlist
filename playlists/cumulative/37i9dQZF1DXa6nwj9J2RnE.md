@@ -4,7 +4,7 @@
 
 > edgy muziek met een rand uit eigen land\. cover: Naaz
 
-112 songs - 6 hr 13 min
+113 songs - 6 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,6 +66,7 @@
 | [M.I.A.](https://open.spotify.com/track/2k72CgD12K29xCHQrA9ToC) | [Jacin Trill](https://open.spotify.com/artist/4hKoG9QvxsFDLIntc6tZ0g) | [M.I.A.](https://open.spotify.com/album/50E2n5rDpO1uALeezN5M2W) | 2:07 | 2023-02-23 | 2023-04-01 |
 | [Marathon I](https://open.spotify.com/track/5VBT9JcgyoBvM7Uau4X57d) | [Jacht](https://open.spotify.com/artist/6idnmcf67erjR8vE9qLIoO) | [Marathon I](https://open.spotify.com/album/4bvQPPSsD0iGIjqf1OYEu5) | 2:11 | 2023-05-25 |  |
 | [MEISJE IN WIT](https://open.spotify.com/track/4HQBvGxtBz3R0C7gcUsVH0) | [ANNE](https://open.spotify.com/artist/7f3A2xHxiA9Zl8fIhdOoeS) | [MEISJE IN WIT](https://open.spotify.com/album/53Qe59ywnVMSrmOo9ofV3U) | 2:22 | 2023-03-31 |  |
+| [met de tijd](https://open.spotify.com/track/2AqLfjC2r4jBJZ95MqyUGa) | [Sandor Dayala](https://open.spotify.com/artist/34h516CVwMVPYFkeSLSW69), [TJ](https://open.spotify.com/artist/2keg5CqgRIEtw0VUYU7TLu) | [met de tijd](https://open.spotify.com/album/59XkvhOOonvoAZkgnHYCSg) | 2:38 | 2023-12-01 |  |
 | [Nog Steeds Dezelfde](https://open.spotify.com/track/0F4hPNXDZHw79Vxxxklcl6) | [Willem Ardui](https://open.spotify.com/artist/1Erb9tjg91Er5fXHWHUmyY), [Willem](https://open.spotify.com/artist/0QuIRxRWYAl4oRHSQYCYds) | [Nog Steeds Dezelfde](https://open.spotify.com/album/2BJ4ZpdRnUagLr4xRfNgmQ) | 3:39 | 2023-09-22 |  |
 | [Onbegrepen](https://open.spotify.com/track/2a2p471YjXXiCvpQtl8IHV) | [Fresku](https://open.spotify.com/artist/5m1cLmgZIfEYPLejhLFR10) | [Onbegrepen](https://open.spotify.com/album/0WNtBZDPbvqQue2UyLoTrL) | 2:29 | 2023-02-23 | 2023-06-09 |
 | [Onbezonnen](https://open.spotify.com/track/4dxWDDEkFq9VqsAcIM0IpT) | [Froukje](https://open.spotify.com/artist/0uBVyPbLZRDNEBiA4fZUlp) | [Licht En Donker](https://open.spotify.com/album/0YwrM4igfHYVfNLiIHfiLG) | 2:47 | 2023-02-23 | 2023-04-01 |

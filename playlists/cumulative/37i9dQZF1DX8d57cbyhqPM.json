@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-01",
-  "description": "Du Congo, au monde. \ud83c\udf0d Photo: Dadju, Tayc",
+  "description": "Du Congo, au monde. \ud83c\udf0d Photo: Pierre Kwenders",
   "name": "Biso Na Biso",
   "tracks": [
     {
@@ -397,6 +397,28 @@
     },
     {
       "album": {
+        "name": "BAKO SIMBA",
+        "url": "https://open.spotify.com/album/4SEaMzRrXewuNTxnaYCy6z"
+      },
+      "artists": [
+        {
+          "name": "Bigal-J",
+          "url": "https://open.spotify.com/artist/20pLu8lCuYrNeVUhE3yUZN"
+        },
+        {
+          "name": "Touche",
+          "url": "https://open.spotify.com/artist/0xODvEWaBO5fmRGnuhRj4p"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145923,
+      "name": "BAKO SIMBA",
+      "url": "https://open.spotify.com/track/4Gj20KOBHzOMzkOH5KvrRN"
+    },
+    {
+      "album": {
         "name": "BRUT4L",
         "url": "https://open.spotify.com/album/7FOTaCV4JRGvOazWA0dcfC"
       },
@@ -772,7 +794,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 130000,
       "name": "Boma nga",
       "url": "https://open.spotify.com/track/3ptSWP4sc1j1sb3G6sTLsd"
@@ -2419,6 +2441,28 @@
     },
     {
       "album": {
+        "name": "Honey bee",
+        "url": "https://open.spotify.com/album/48Widtr5Le1phLHCCLu8bd"
+      },
+      "artists": [
+        {
+          "name": "Bader",
+          "url": "https://open.spotify.com/artist/1bcBNTeAi5f7rlUHpqYrZ4"
+        },
+        {
+          "name": "Ouzbek",
+          "url": "https://open.spotify.com/artist/35agMu466xyff2jEokqhes"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163735,
+      "name": "Honey bee",
+      "url": "https://open.spotify.com/track/5MnOolAxJbVqRvFYruVIfS"
+    },
+    {
+      "album": {
         "name": "Hypnosia",
         "url": "https://open.spotify.com/album/3US94NljdsVB2HON8Y5YlM"
       },
@@ -3286,6 +3330,24 @@
       "duration_ms": 244615,
       "name": "Maboko Milayi",
       "url": "https://open.spotify.com/track/3oa2Af68PY4x3tvNaqhptZ"
+    },
+    {
+      "album": {
+        "name": "Made in Congo",
+        "url": "https://open.spotify.com/album/4beChSKY6Kus1FUWc5Iazj"
+      },
+      "artists": [
+        {
+          "name": "LUVANGA",
+          "url": "https://open.spotify.com/artist/58J4IMKWK2gAYnNvPrHWpy"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134453,
+      "name": "Made in Congo",
+      "url": "https://open.spotify.com/track/7soc4QPUnlZYfMgisPe6Cg"
     },
     {
       "album": {
@@ -4924,7 +4986,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 155571,
       "name": "Pretty Girl Era - Version Fran\u00e7aise",
       "url": "https://open.spotify.com/track/7czZJ0oMOdf5doqecs0CSi"
@@ -5239,6 +5301,40 @@
     },
     {
       "album": {
+        "name": "Sikoyo (feat. Branko & F\u00e9d\u00e9ration Internationale du Bruit)",
+        "url": "https://open.spotify.com/album/6Vm429SlVU0QkJaCF19Iah"
+      },
+      "artists": [
+        {
+          "name": "Moonshine",
+          "url": "https://open.spotify.com/artist/6uZcG9ex8hJKEo3XUyMxEX"
+        },
+        {
+          "name": "Pierre Kwenders",
+          "url": "https://open.spotify.com/artist/04B6sMoIopTgUAQM3dcSxP"
+        },
+        {
+          "name": "Uproot Andy",
+          "url": "https://open.spotify.com/artist/2LAUi7E97pYUAnRzBx2vyc"
+        },
+        {
+          "name": "Branko",
+          "url": "https://open.spotify.com/artist/1lEBJGJgdoevi1Clv9CqLT"
+        },
+        {
+          "name": "F\u00e9d\u00e9ration Internationale du Bruit",
+          "url": "https://open.spotify.com/artist/66hejf9UqC4CcRtxOrA3XV"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244904,
+      "name": "Sikoyo (feat. Branko & F\u00e9d\u00e9ration Internationale du Bruit)",
+      "url": "https://open.spotify.com/track/6nqe6iXrpAntPHHHNsK7nR"
+    },
+    {
+      "album": {
         "name": "SMT",
         "url": "https://open.spotify.com/album/03D2z5rFjWwL1menJGfcmQ"
       },
@@ -5432,7 +5528,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 182400,
       "name": "Terminator",
       "url": "https://open.spotify.com/track/7fzjepyW5Hdsk3MUqoNNs0"
@@ -5588,7 +5684,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 202314,
       "name": "TOUCHE MOI - Tindidi",
       "url": "https://open.spotify.com/track/104G7WYYF0YcrkzL6xMEz5"

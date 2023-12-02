@@ -1900,7 +1900,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 192077,
       "name": "\u518d\u966a\u6211\u4e00\u500b\u590f\u5929\u300a\u5730\u7344\u91cc\u9577\u300b\u63d2\u66f2",
       "url": "https://open.spotify.com/track/7jMnF7k6f9L1IWCOLnTQO1"
@@ -2527,6 +2527,24 @@
     },
     {
       "album": {
+        "name": "\u6697\u6d41",
+        "url": "https://open.spotify.com/album/35WbOyVHUlWYO4sTlc5DVW"
+      },
+      "artists": [
+        {
+          "name": "deca joins",
+          "url": "https://open.spotify.com/artist/5wbF4yfjaOjTSkrnucKA77"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234750,
+      "name": "\u5929\u5802\u8207\u6ce5\u571f",
+      "url": "https://open.spotify.com/track/0I1YidoarFCsbkHu8ZkfrN"
+    },
+    {
+      "album": {
         "name": "\u9e8b\u9e7f",
         "url": "https://open.spotify.com/album/3stIJfcy7gwLRdrxipRwp0"
       },
@@ -3021,6 +3039,24 @@
     },
     {
       "album": {
+        "name": "\u5eb8\u4eba\u81ea\u64fe",
+        "url": "https://open.spotify.com/album/4K2I3REUj4OlL3xxnjPYhh"
+      },
+      "artists": [
+        {
+          "name": "Xian Zi",
+          "url": "https://open.spotify.com/artist/2CBuGdj5Nmgx1VfrgLnGoJ"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222979,
+      "name": "\u5eb8\u4eba\u81ea\u64fe",
+      "url": "https://open.spotify.com/track/6rGHytgJzvLLe756KwRaqb"
+    },
+    {
+      "album": {
         "name": "\u5e0c\u5fd8Hope",
         "url": "https://open.spotify.com/album/3UEMDGalqaizcZmVkLdV51"
       },
@@ -3122,7 +3158,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 238336,
       "name": "\u5fd8\u4e86\u8aaa\uff0c\u4f60\u5df2\u7d93\u5f88\u597d\u4e86",
       "url": "https://open.spotify.com/track/5TzZwL4gU69qHiKKAkCXNo"

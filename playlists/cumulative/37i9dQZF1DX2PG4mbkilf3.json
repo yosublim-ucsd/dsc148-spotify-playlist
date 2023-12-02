@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-24",
-  "description": "This is R&B in Canada. Elevate your aura with RAAHiiM. ",
+  "description": "This is R&B in Canada. Elevate your aura with JRDN. ",
   "name": "Mood Ring ",
   "tracks": [
     {
@@ -926,7 +926,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 179006,
       "name": "Angel",
       "url": "https://open.spotify.com/track/1oCwqRH1deWph40WFy7zCB"
@@ -1208,7 +1208,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 216248,
       "name": "B.O.T.B.",
       "url": "https://open.spotify.com/track/4vfURYHZJEmlSYqZtFGdFn"
@@ -1450,6 +1450,24 @@
       "duration_ms": 185685,
       "name": "Beautifully Black",
       "url": "https://open.spotify.com/track/0EgaO4boPVHe3Kk1sNUdMB"
+    },
+    {
+      "album": {
+        "name": "been a long day",
+        "url": "https://open.spotify.com/album/0c7BQEPfu2VWawWVAlg0ry"
+      },
+      "artists": [
+        {
+          "name": "kaiyel",
+          "url": "https://open.spotify.com/artist/03rXop4hKhPSjd6S6oQNUn"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158181,
+      "name": "been a long day",
+      "url": "https://open.spotify.com/track/08AAf8wcx8aq1V9n2ROwqq"
     },
     {
       "album": {
@@ -1779,6 +1797,24 @@
     },
     {
       "album": {
+        "name": "blueprints of us",
+        "url": "https://open.spotify.com/album/3Z4RwK6UvR99QdiDlA3zuF"
+      },
+      "artists": [
+        {
+          "name": "Ouri",
+          "url": "https://open.spotify.com/artist/41gxyJbzbAaChEyrZ9j3rv"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198649,
+      "name": "blueprints of us",
+      "url": "https://open.spotify.com/track/165ZtkfUdMu36Wqw7YiyGW"
+    },
+    {
+      "album": {
         "name": "BUT IF iiM HONEST (Deluxe)",
         "url": "https://open.spotify.com/album/60IL3MSpGD0i92uo4K0fdI"
       },
@@ -1848,6 +1884,28 @@
       "duration_ms": 154900,
       "name": "Body Language",
       "url": "https://open.spotify.com/track/50jNARBU3p0YcvDx2LSM7L"
+    },
+    {
+      "album": {
+        "name": "Bordeaux",
+        "url": "https://open.spotify.com/album/10TXpC7OxsHnu8TtfOCU4Z"
+      },
+      "artists": [
+        {
+          "name": "SERAPHINE NOIR",
+          "url": "https://open.spotify.com/artist/2KD9QZ3u2oLgdRKsKVSW4I"
+        },
+        {
+          "name": "Nona Shipov",
+          "url": "https://open.spotify.com/artist/5TSx7SKUufxZFqkM0doMCG"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306880,
+      "name": "Bordeaux",
+      "url": "https://open.spotify.com/track/7F80jeq0Nn8QeyNufWeV3D"
     },
     {
       "album": {
@@ -1978,6 +2036,28 @@
       "duration_ms": 172388,
       "name": "Burning Desire",
       "url": "https://open.spotify.com/track/3qpT9U1rM6FPbW7X3xogK4"
+    },
+    {
+      "album": {
+        "name": "Butterflies (feat. Jon Kabongo)",
+        "url": "https://open.spotify.com/album/5sTHYveDNtmGSiNTtfrAq5"
+      },
+      "artists": [
+        {
+          "name": "Jada Hope",
+          "url": "https://open.spotify.com/artist/59uniRaSOJEqNwMnepeebq"
+        },
+        {
+          "name": "Jon Kabongo",
+          "url": "https://open.spotify.com/artist/5TV0Pt6R4nYsaPhlbgLJeO"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228352,
+      "name": "Butterflies (feat. Jon Kabongo)",
+      "url": "https://open.spotify.com/track/2VOKV4QkTWUiVffeEsyx4M"
     },
     {
       "album": {
@@ -2122,6 +2202,24 @@
       "duration_ms": 260497,
       "name": "Can\u2019t Be Replaced",
       "url": "https://open.spotify.com/track/7fIT6KXMgn8SJzg025oZh9"
+    },
+    {
+      "album": {
+        "name": "Can\u2019t Believe",
+        "url": "https://open.spotify.com/album/0B5wXB5ZKG8vjUbh9aeMqq"
+      },
+      "artists": [
+        {
+          "name": "B.ROB",
+          "url": "https://open.spotify.com/artist/1ok4DP80jKsX7GZZ6yr2xR"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157013,
+      "name": "Can\u2019t Believe",
+      "url": "https://open.spotify.com/track/0X8V8JuTzgSBHVdYZGI4rd"
     },
     {
       "album": {
@@ -2933,6 +3031,24 @@
     },
     {
       "album": {
+        "name": "Curious",
+        "url": "https://open.spotify.com/album/5kLXDsZRTG2vDhEcQ0uHWu"
+      },
+      "artists": [
+        {
+          "name": "CUBE",
+          "url": "https://open.spotify.com/artist/1r3YnMSGcT7Hnm76aStA3r"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176688,
+      "name": "Curious",
+      "url": "https://open.spotify.com/track/1RxE69amBRSa0ywQf5iCVB"
+    },
+    {
+      "album": {
         "name": "curious.",
         "url": "https://open.spotify.com/album/1hIe6IH9Uiy58WKLMo3DPO"
       },
@@ -3202,6 +3318,28 @@
       "duration_ms": 165000,
       "name": "Disconnected",
       "url": "https://open.spotify.com/track/2qkwyX05HzdQduZSlRFMYp"
+    },
+    {
+      "album": {
+        "name": "IN LOVING MEMORY",
+        "url": "https://open.spotify.com/album/5yjvJzb9DJRtgArZhPs6uk"
+      },
+      "artists": [
+        {
+          "name": "Sean Leon",
+          "url": "https://open.spotify.com/artist/5dtbsNKCK6Q9yZzdhZpaqW"
+        },
+        {
+          "name": "Jessie Reyez",
+          "url": "https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163148,
+      "name": "DISHONORED",
+      "url": "https://open.spotify.com/track/1URH3DZOnsEx6TNqPYsYkk"
     },
     {
       "album": {
@@ -4164,7 +4302,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 403948,
       "name": "EQUINOX",
       "url": "https://open.spotify.com/track/7c4xla1DQCKSv8VLKfap9X"
@@ -4378,6 +4516,24 @@
       "duration_ms": 200930,
       "name": "Fallback Queen (feat. Vory)",
       "url": "https://open.spotify.com/track/3w7AzChjtAtjLvVQll2Mjf"
+    },
+    {
+      "album": {
+        "name": "Fallin",
+        "url": "https://open.spotify.com/album/1EeN2rhse9oPfLZMJTBr4r"
+      },
+      "artists": [
+        {
+          "name": "JRDN",
+          "url": "https://open.spotify.com/artist/2YVjMQPHJLrs0zA0ILNoEs"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152000,
+      "name": "Fallin",
+      "url": "https://open.spotify.com/track/4vrng88ZcFQjykEpHnDKgm"
     },
     {
       "album": {
@@ -9818,7 +9974,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 196875,
       "name": "Notice It",
       "url": "https://open.spotify.com/track/1dYKS6bOekZjU3d1TLwyIr"
@@ -10206,7 +10362,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 176067,
       "name": "Only 2",
       "url": "https://open.spotify.com/track/5FBZzQJuI1jSNcCpUhjl8f"
@@ -10445,6 +10601,24 @@
     },
     {
       "album": {
+        "name": "Out Of Mine",
+        "url": "https://open.spotify.com/album/3GpvgbLFcEXNKFAOzOQ5yS"
+      },
+      "artists": [
+        {
+          "name": "Mighloe",
+          "url": "https://open.spotify.com/artist/44obblyrd8EsnfeDkJpiov"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199720,
+      "name": "Out Of Mine",
+      "url": "https://open.spotify.com/track/6HxbpPfwzMNU4Cewe4z6wI"
+    },
+    {
+      "album": {
         "name": "Dawn FM",
         "url": "https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC"
       },
@@ -10572,7 +10746,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 234813,
       "name": "Over",
       "url": "https://open.spotify.com/track/2ZirogXAOgTmV8MDbYywzH"
@@ -14720,7 +14894,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 210706,
       "name": "Thinking About You",
       "url": "https://open.spotify.com/track/3PARwjWtDcHivLn4CMDtLc"

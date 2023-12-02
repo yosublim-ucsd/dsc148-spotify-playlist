@@ -2,9 +2,9 @@
 
 ### [EL ROCK NO HA MUERTO](https://open.spotify.com/playlist/37i9dQZF1DX11wyL5eCLSa)
 
-> Sangre fresca en las escenas del indie y el rock\. Jonaz en Portada.
+> Sangre fresca en las escenas del indie y el rock\. Depresión Sonora en Portada.
 
-377 songs - 22 hr 49 min
+380 songs - 23 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,6 +110,7 @@
 | [El Duelo](https://open.spotify.com/track/1QYBZjQIHuWRRdKQ5An6jP) | [Zoé](https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI) | [El Duelo](https://open.spotify.com/album/3gRWgjHNPIxtZmRLBYOQTu) | 4:17 | 2021-12-17 |  |
 | [EL ELIXIR DE TUS LABIOS](https://open.spotify.com/track/6F1bYqnUYqkPEozNbERZQf) | [Daniel Quién](https://open.spotify.com/artist/3zxodnZ10PEbv27ixLeQdQ) | [EL ELIXIR DE TUS LABIOS](https://open.spotify.com/album/3IoZMNSHUsK6kSE80DLOZ4) | 4:02 | 2023-07-14 | 2023-09-02 |
 | [EL FINAL](https://open.spotify.com/track/2v0HNNJ3mijsvzOgHq8EHO) | [Hello Seahorse!](https://open.spotify.com/artist/3vKxuOGRkXJWpCZPf01Nj8) | [EL FINAL](https://open.spotify.com/album/6InT8SPpU1AIUXcQsbMZ00) | 3:52 | 2023-05-19 | 2023-10-14 |
+| [El Futuro Luce Brillante](https://open.spotify.com/track/7LVNF9GtJOoCJhfOl9mfKr) | [Comisario Pantera](https://open.spotify.com/artist/7eOGKFUwjDDem40BGPqnZR) | [Instinto Felino \(Deluxe\)](https://open.spotify.com/album/2rIbyvyTtqIpGc6POmzmrm) | 4:01 | 2023-12-01 |  |
 | [EL PUENTE](https://open.spotify.com/track/4FlHFjk6TR4RQNnI1oYGvQ) | [DLD](https://open.spotify.com/artist/7CwiLiC1S8B69RMPxbDb6S) | [Transcender](https://open.spotify.com/album/1MWFI4H59Zw7cq1JvobjOk) | 3:48 | 2022-04-20 | 2022-07-02 |
 | [El rock and roll pasó de moda](https://open.spotify.com/track/38V1ucCpi0TjlITJStqg5L) | [Bestia Bebé](https://open.spotify.com/artist/3j7kmtxJ0aptdHr9ZCnEkp), [Lucas Jaubet](https://open.spotify.com/artist/2l3yo52RkuDBVnalY9pBpr) | [El rock and roll pasó de moda](https://open.spotify.com/album/0njdapBFMgKnJQeE5g00UB) | 4:01 | 2023-10-13 |  |
 | [EL TIEMPO ES COMO UN RÍO \- PT II](https://open.spotify.com/track/20zcW0rsUvW2CHQVSnf0z1) | [Daniel Quién](https://open.spotify.com/artist/3zxodnZ10PEbv27ixLeQdQ) | [MAGIC EXPERIENCE BAND](https://open.spotify.com/album/6rMJCqRow0rYyceLLIxbDX) | 6:26 | 2023-09-01 | 2023-10-14 |
@@ -127,7 +128,7 @@
 | [Estrella Fugaz](https://open.spotify.com/track/6RapbxJ0fKZTb07u0q19S3) | [Astronomía Interior](https://open.spotify.com/artist/6PpHeERfTGHJnYErCOOdPY) | [Estrella Fugaz](https://open.spotify.com/album/7vTgP7uW2enAgL8eI6AqvY) | 2:54 | 2022-12-16 |  |
 | [Estrés](https://open.spotify.com/track/3LuEubnZA02nAjYPZYOKMW) | [La Texana](https://open.spotify.com/artist/7KXPjNDl2wveAmMIEZHQhB) | [Morro](https://open.spotify.com/album/2bGPirzXyUp4MrYozkRDeE) | 2:44 | 2023-03-10 | 2023-06-19 |
 | [Está Bien](https://open.spotify.com/track/7nNJjT0i00WGlpp4ELLEky) | [DLD](https://open.spotify.com/artist/7CwiLiC1S8B69RMPxbDb6S) | [Está Bien](https://open.spotify.com/album/14IWJB0UvZlZ6oePf1nrJ5) | 3:10 | 2022-08-13 | 2022-11-26 |
-| [Está todo mal](https://open.spotify.com/track/1TCuzqT6yRfNgS5tWNLEW7) | [Árbol](https://open.spotify.com/artist/6OO01j5rLKCyPg4i3FuzIT) | [Está todo mal](https://open.spotify.com/album/5uYVPB3uqQNzB5nHEpvRXc) | 2:44 | 2023-11-10 |  |
+| [Está todo mal](https://open.spotify.com/track/1TCuzqT6yRfNgS5tWNLEW7) | [Árbol](https://open.spotify.com/artist/6OO01j5rLKCyPg4i3FuzIT) | [Está todo mal](https://open.spotify.com/album/5uYVPB3uqQNzB5nHEpvRXc) | 2:44 | 2023-11-10 | 2023-12-02 |
 | [Estática](https://open.spotify.com/track/1tJy7CJuv33Tre4DmrZgx3) | [Vondré](https://open.spotify.com/artist/11uh9MySOy1TkjknybWRom) | [Estática](https://open.spotify.com/album/4epHlWTKUURK4kDlRcKASZ) | 3:53 | 2023-10-20 |  |
 | [Eutanasia](https://open.spotify.com/track/1FHMIhcJlNY3ecpKjd7FIj) | [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [Cuando Ella me Besó Probé a Dios](https://open.spotify.com/album/5J0TN8kwiPmJBAQKIYkx8V) | 2:34 | 2023-10-27 |  |
 | [Fantasma](https://open.spotify.com/track/6asMMsmhA6YXxu7YrYI8vr) | [Mujer Cebra](https://open.spotify.com/artist/6UZQzfJ09W8Dqmr0UoU5HL) | [Fantasma](https://open.spotify.com/album/02PKUPTxOOUw2aPJtvBHPo) | 3:20 | 2023-09-01 | 2023-09-30 |
@@ -138,7 +139,7 @@
 | [Fresno](https://open.spotify.com/track/3S1L6zZ7cPVdNiK2cYXc74) | [Los Romanticos de Zacatecas](https://open.spotify.com/artist/0xg0tZofneUYpE1HQS4gOg) | [Plaza Futura](https://open.spotify.com/album/7dmqZcDMJyCQuMapnNNkGP) | 3:10 | 2023-04-28 | 2023-07-01 |
 | [Fuentes de Ortiz](https://open.spotify.com/track/0akyEssGRVHstqCSWXusJL) | [Ed Maverick](https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT) | [mix pa llorar en tu cuarto](https://open.spotify.com/album/4VeKLLYPySVFaf6qzkfOYW) | 3:27 | 2021-12-17 | 2023-06-24 |
 | [Fuera de Control](https://open.spotify.com/track/22KvARMRAQ0i0F28lDUkTl) | [Out Of Control Army](https://open.spotify.com/artist/71j95n0DvSMJIYUcTk3lQy), [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [Fuera de Control](https://open.spotify.com/album/1ij0qU5LuG9HqJyMujjyWt) | 3:30 | 2023-09-01 |  |
-| [Fútbol Rock](https://open.spotify.com/track/1et2VDNG2yWvhM5hYmbUQP) | [CLUBZ](https://open.spotify.com/artist/6MoZZABXeQwEmzmcwICxwK), [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [Fútbol Rock](https://open.spotify.com/album/4RrNTXqxiZkwT1qAJVrdrR) | 4:13 | 2023-11-10 |  |
+| [Fútbol Rock](https://open.spotify.com/track/1et2VDNG2yWvhM5hYmbUQP) | [CLUBZ](https://open.spotify.com/artist/6MoZZABXeQwEmzmcwICxwK), [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [Fútbol Rock](https://open.spotify.com/album/4RrNTXqxiZkwT1qAJVrdrR) | 4:13 | 2023-11-10 | 2023-12-02 |
 | [Galáctica](https://open.spotify.com/track/3lARK85Nl9QAjH9uqY1XdL) | [Camilo Séptimo](https://open.spotify.com/artist/6hQHiviB4JUWVmfykjYzcB), [Francisca Valenzuela](https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt) | [Galáctica](https://open.spotify.com/album/7fDeOG3SJLd8kVMwp9J81m) | 3:27 | 2021-12-17 |  |
 | [Ghost in the Machine](https://open.spotify.com/track/2T94eayr7lubesYiSs4kyT) | [Marion Raw](https://open.spotify.com/artist/1BRIIX1uolmIQV9PrcedGj) | [Ghost In The Machine](https://open.spotify.com/album/3Yc31Lta4Yr3Sn0UlsdSPi) | 2:25 | 2022-07-11 | 2022-08-13 |
 | [Globos](https://open.spotify.com/track/4utNmwmHfwvzPBT3kMtwEN) | [Technicolor Fabrics](https://open.spotify.com/artist/2GtdjV9W8RmiI4W2AUl4Pl) | [Bahía Santiago](https://open.spotify.com/album/7p6sqvNdTInCL3bAAUoDlY) | 4:20 | 2021-12-17 |  |
@@ -205,7 +206,7 @@
 | [Luciana](https://open.spotify.com/track/1btgrD66tOkrj6C8NjnCWs) | [Los Flakos](https://open.spotify.com/artist/5Spl3u7hKTO5Osv8XNs4Ah) | [Flotador](https://open.spotify.com/album/2YhGmP5XIC2uMBfmuFK2M6) | 3:17 | 2022-09-28 | 2022-12-17 |
 | [Lunedad](https://open.spotify.com/track/48fTQdTObHQn1NjY4ftQk0) | [Hueso Colorado](https://open.spotify.com/artist/2xdzVFCqT6qAaKObPiH59W), [Caro Valenzuela](https://open.spotify.com/artist/1FnofQUJuuKmigKaan0XT3) | [Eva](https://open.spotify.com/album/2zb3I1hIU1kUHfoejnKOB6) | 3:08 | 2023-06-30 |  |
 | [Lxs Vampirxs](https://open.spotify.com/track/7BdvEr27dk6v2X8OY2ZPi0) | [Los Blenders](https://open.spotify.com/artist/19JX619qYCK7xfjaTxzhai) | [Lxs Vampirxs](https://open.spotify.com/album/7BzIXzDZRnFZEHo1OfYsfy) | 2:29 | 2023-11-17 |  |
-| [Mal Negocio](https://open.spotify.com/track/1cwTYi0DRI0QfCfYUImTE9) | [Jonaz](https://open.spotify.com/artist/3Qldsib1smRXVBihCbSKrV) | [Mal Negocio](https://open.spotify.com/album/1xPDCNo9ghP9xoCthbcvbn) | 3:22 | 2023-11-10 |  |
+| [Mal Negocio](https://open.spotify.com/track/1cwTYi0DRI0QfCfYUImTE9) | [Jonaz](https://open.spotify.com/artist/3Qldsib1smRXVBihCbSKrV) | [Mal Negocio](https://open.spotify.com/album/1xPDCNo9ghP9xoCthbcvbn) | 3:22 | 2023-11-10 | 2023-12-02 |
 | [Mamita Santa](https://open.spotify.com/track/2jLqTQadOF5w75Z23hztT7) | [Porter](https://open.spotify.com/artist/7eBQrhxTHcor6gcbcLhqE5), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Mamita Santa](https://open.spotify.com/album/0sw3hxYLMgoepONHVbAs0R) | 3:59 | 2023-03-31 | 2023-10-21 |
 | [Manía Cardiaca](https://open.spotify.com/track/7rhKh1Ool2Yel5JXmiemZB) | [Enjambre](https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR) | [El Segundo Es Felino](https://open.spotify.com/album/6MKWjtAaCgbK3AXFr8FMUe) | 4:08 | 2021-12-17 | 2022-04-23 |
 | [Mapa](https://open.spotify.com/track/0fRjGR7xRLVF2KmjZv4k2U) | [Siddhartha](https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x), [Ana Torroja](https://open.spotify.com/artist/5YekZn3GGnPIURNA6RG124) | [Mapa](https://open.spotify.com/album/6di6thiPTa8zxXTHTJRv6m) | 4:28 | 2021-12-17 | 2022-07-14 |
@@ -334,6 +335,7 @@
 | [Sue Me](https://open.spotify.com/track/4IKMHHkFZqRbSqQKPMwQcy) | [Base Stereo Club](https://open.spotify.com/artist/4WCxqglOLB9kHPSsTNap7q) | [Velvet Station](https://open.spotify.com/album/3RNcC6GLcijGOKZW8ogABN) | 2:50 | 2022-09-03 | 2022-09-28 |
 | [Sólo Eres Tú](https://open.spotify.com/track/0EqWWA2CnRwcJIt7czGB5Z) | [Caifanes](https://open.spotify.com/artist/1GImnM7WYVp95431ypofy9) | [Sólo Eres Tú](https://open.spotify.com/album/2Pa9kp6NPUH9H2Af0TTbVg) | 3:53 | 2022-02-15 | 2022-07-15 |
 | [Sólo Tú](https://open.spotify.com/track/7lruysdjllso0aWGM7qDGj) | [Kinky](https://open.spotify.com/artist/4WOIfFwyvx22jM0eg2fpKv) | [Sólo Tú](https://open.spotify.com/album/4P3K3YGnFdgj51xBMtavdS) | 3:16 | 2022-04-09 | 2022-07-12 |
+| [Tajada](https://open.spotify.com/track/0HGchjSKUuMNsLg8zfwqFf) | [Babasónicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [Tajada](https://open.spotify.com/album/5hfg8YESqVnDHcOPiu4GSs) | 3:26 | 2023-12-01 |  |
 | [Talismán](https://open.spotify.com/track/73xoyncM1YKM2z3u8JwCfV) | [Javier Blake](https://open.spotify.com/artist/7rWuyGabaLQSmsHpZJkMzx) | [Talismán](https://open.spotify.com/album/2Ys1y7SGhEGEwMokKhxMZd) | 4:51 | 2023-09-01 |  |
 | [Tantas Cosas Buenas](https://open.spotify.com/track/5FNvmP6LSxwbyQM3Dc7PkK) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [Súper Terror](https://open.spotify.com/album/7iOJ8uRQ1mylHA2ndpzYkS) | 3:58 | 2023-07-07 |  |
 | [Tantas Cosas Buenas](https://open.spotify.com/track/6SOQ1rrcQL3UcGmsLOrXtd) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [Tantas Cosas Buenas](https://open.spotify.com/album/3sGo39318ViQM2ZHNporVo) | 3:58 | 2022-11-11 | 2023-07-11 |
@@ -361,6 +363,7 @@
 | [Un día como hoy](https://open.spotify.com/track/1yfUatJAVvmmZh5sJyW3Re) | [La Texana](https://open.spotify.com/artist/7KXPjNDl2wveAmMIEZHQhB) | [Un día como hoy](https://open.spotify.com/album/3gaIbIdbKT8oMzfqqJFzh2) | 3:22 | 2023-02-08 | 2023-06-24 |
 | [Un Impulso](https://open.spotify.com/track/2icTVxrH50Cabwkl4MdkKw) | [iiis](https://open.spotify.com/artist/2bp4bYrLHmI6gekDL7433D), [Florencia Quinteros](https://open.spotify.com/artist/1OwhWlWU6IC0zmcbKRHlEW) | [Un Impulso](https://open.spotify.com/album/7eZzbLnjvSItgTbEYKNBib) | 3:53 | 2022-12-16 | 2023-08-05 |
 | [Un Manhattan](https://open.spotify.com/track/6n7X5k9JjHdREzjEVybBfl) | [Lázaro Cristóbal Comala](https://open.spotify.com/artist/1EMhjuJCWlHrX2owpcwvTK) | [Belmont](https://open.spotify.com/album/797ZnganZpmTHcULejYwDt) | 2:48 | 2022-07-13 | 2022-07-30 |
+| [Un Nuevo Sol](https://open.spotify.com/track/34IpEx8bOSBtuJEQ6VF9KX) | [Nacho Maldonado](https://open.spotify.com/artist/4K6VsMmNzvyjrkVFdncNRH), [Ely Guerra](https://open.spotify.com/artist/1ne2c2YEgt4MmJCJGCsfsZ) | [Un Nuevo Sol](https://open.spotify.com/album/6fqEKcSaECC1fVGzVGAP8Y) | 5:18 | 2023-12-01 |  |
 | [Un Pecado](https://open.spotify.com/track/6231K4fFlHPJGpsipCPW9U) | [Jonaz](https://open.spotify.com/artist/3Qldsib1smRXVBihCbSKrV) | [Un Pecado](https://open.spotify.com/album/3RIoz236bukwbpck1Xvqg6) | 3:31 | 2023-10-13 |  |
 | [Unstoppable](https://open.spotify.com/track/47pbvBtWtt7aMHENsw8ehQ) | [Sexy Pigeon](https://open.spotify.com/artist/4gnQSPui3dzrkaFdf18P6U) | [Polaroid Paradise](https://open.spotify.com/album/10NBQIh2ZteCveetOTwx01) | 2:00 | 2022-07-22 | 2022-07-30 |
 | [Velur](https://open.spotify.com/track/605QBjMSUyvXD5DKgjm8dT) | [Zoé](https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI) | [Velur](https://open.spotify.com/album/1DpzoHSXLnTEXiUEeM5K0E) | 4:09 | 2021-12-17 |  |

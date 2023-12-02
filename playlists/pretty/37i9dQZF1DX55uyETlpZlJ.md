@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX55uyETlpZlJ.md) - [plain]
 
 > Catch up with the Indie Songs from 'namma ooru'<br/>Cover : All OK
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,120 likes - 100 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,123 likes - 100 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,11 +12,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX55uyETlpZlJ.md) - [plain]
 | 2 | [SKY](https://open.spotify.com/track/3cnbXyiWN1YY80kIi6o3HR) | [Darshan Kumar](https://open.spotify.com/artist/7ivnUAjEiLvEjqUZppEpLb) | [SKY](https://open.spotify.com/album/3oca2qXY6YgVmtsxEfp0Ae) | 3:11 |
 | 3 | [Pataki Cypher](https://open.spotify.com/track/69SWabKnBArDWmPZrHbBcg) | [The Aura](https://open.spotify.com/artist/6M5ttnbVdNgAdybwmewX0N), [J.O.Y](https://open.spotify.com/artist/5kPJFxIz3zK6ViPvDPcVOb), [Yaaru](https://open.spotify.com/artist/5uIPe6WLxAprhUHVBME3hx) | [Pataki Cypher](https://open.spotify.com/album/4jsMijzc4aWVi2Sjbbmct0) | 2:40 |
 | 4 | [Abbabbaa](https://open.spotify.com/track/1o9S562QxYvL66rVHxxGOE) | [Ashwamedha Karthik](https://open.spotify.com/artist/1oFZ5cz8fiSp6fFDlRZwE2) | [Abbabbaa](https://open.spotify.com/album/2TNCNVlnDzBhSvqPcE0LTT) | 2:19 |
-| 5 | [HAARU HAARU](https://open.spotify.com/track/4qHbrhQkoKbQ4LSaq4nhd9) | [D shabdha](https://open.spotify.com/artist/3q7u9e1jJCYdvxkdjnfQgh) | [HAARU HAARU](https://open.spotify.com/album/41pJIGHGZBFZHDV9CFnyvL) | 2:59 |
-| 6 | [6ne Crossu](https://open.spotify.com/track/7C3DQb695Vt7vBcPTiSeOK) | [Kishore Vishwakarma](https://open.spotify.com/artist/4GwpJltWdpVEP4v7oeY8HZ), [Kishan D'Souza](https://open.spotify.com/artist/0MuPLm7QDoBgAKaxtJeyU6) | [6ne Crossu](https://open.spotify.com/album/13WU6iqMTXFRuMUa3B5ioG) | 2:48 |
-| 7 | [Ee Pattanakke Yenagide](https://open.spotify.com/track/4HCE5UBG5tZVdFBcHYhqHb) | [J.O.High](https://open.spotify.com/artist/5ToO1JaAY7BEqnoetruHBr) | [Ee Pattanakke Yenagide](https://open.spotify.com/album/4wC300ITmXGQzsV6RKzwvJ) | 2:58 |
-| 8 | [Khushiyaadenu Naa](https://open.spotify.com/track/6F6P4st3J11p2vfNepvRRn) | [Sahana Hegde](https://open.spotify.com/artist/6zFbnKp5WefatujgmaBGYm) | [Khushiyaadenu Naa](https://open.spotify.com/album/05F0QUtC0lmAyt0ozTB5L3) | 3:12 |
-| 9 | [Dinavella](https://open.spotify.com/track/3lgQcLrvO2wEk882hNcIeZ) | [Kishan D'Souza](https://open.spotify.com/artist/0MuPLm7QDoBgAKaxtJeyU6) | [Dinavella](https://open.spotify.com/album/1ztLQ6dcHw4rH88FDa1SOo) | 3:12 |
+| 5 | [Dinavella](https://open.spotify.com/track/3lgQcLrvO2wEk882hNcIeZ) | [Kishan D'Souza](https://open.spotify.com/artist/0MuPLm7QDoBgAKaxtJeyU6) | [Dinavella](https://open.spotify.com/album/1ztLQ6dcHw4rH88FDa1SOo) | 3:12 |
+| 6 | [HAARU HAARU](https://open.spotify.com/track/4qHbrhQkoKbQ4LSaq4nhd9) | [D shabdha](https://open.spotify.com/artist/3q7u9e1jJCYdvxkdjnfQgh) | [HAARU HAARU](https://open.spotify.com/album/41pJIGHGZBFZHDV9CFnyvL) | 2:59 |
+| 7 | [6ne Crossu](https://open.spotify.com/track/7C3DQb695Vt7vBcPTiSeOK) | [Kishore Vishwakarma](https://open.spotify.com/artist/4GwpJltWdpVEP4v7oeY8HZ), [Kishan D'Souza](https://open.spotify.com/artist/0MuPLm7QDoBgAKaxtJeyU6) | [6ne Crossu](https://open.spotify.com/album/13WU6iqMTXFRuMUa3B5ioG) | 2:48 |
+| 8 | [Ee Pattanakke Yenagide](https://open.spotify.com/track/4HCE5UBG5tZVdFBcHYhqHb) | [J.O.High](https://open.spotify.com/artist/5ToO1JaAY7BEqnoetruHBr) | [Ee Pattanakke Yenagide](https://open.spotify.com/album/4wC300ITmXGQzsV6RKzwvJ) | 2:58 |
+| 9 | [Khushiyaadenu Naa](https://open.spotify.com/track/6F6P4st3J11p2vfNepvRRn) | [Sahana Hegde](https://open.spotify.com/artist/6zFbnKp5WefatujgmaBGYm) | [Khushiyaadenu Naa](https://open.spotify.com/album/05F0QUtC0lmAyt0ozTB5L3) | 3:12 |
 | 10 | [Olave](https://open.spotify.com/track/5Be0E8MXsPkceRpnD9nV7n) | [Srivathsa K R](https://open.spotify.com/artist/01CJHgNeZTFlGq223sFeYE), [Sathya Radhakrishna](https://open.spotify.com/artist/1hXCszU9f1es4LZiW3Bk0N) | [Olave](https://open.spotify.com/album/38mNXjgN7bfNO6dvImUaKO) | 3:02 |
 | 11 | [Nanna Ee Manasali](https://open.spotify.com/track/18UgqzO5hjpMybau3AYAr6) | [Shravan Acharya](https://open.spotify.com/artist/6aQfYQu6gpW8wggY7ycFWi) | [Nanna Ee Manasali](https://open.spotify.com/album/3j6XqZfm7M268fshN0LOyC) | 3:59 |
 | 12 | [Bengaluru Kambala Theme Song](https://open.spotify.com/track/4d6yVH3lLLABq5evQ3P2LJ) | [Guru Kiran](https://open.spotify.com/artist/3xSxDireyobIryR5nIaHa0), [V\. Manohar](https://open.spotify.com/artist/2J5reHSIjjv6mtrbD9q1xN) | [Bengaluru Kambala Theme Song](https://open.spotify.com/album/1ScN9PVrjBoNYikbwRrSYc) | 2:25 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX55uyETlpZlJ.md) - [plain]
 | 99 | [Nenapaagiru](https://open.spotify.com/track/3pAb0JyhnVl8U6PGUpEmmL) | [Aakash Hebbar](https://open.spotify.com/artist/64hwvgmt8sru0GvBV5VMMJ), [Chethan Shrinivas](https://open.spotify.com/artist/0DxpPOSRAbFBkESXzM4yId) | [Nenapaagiru](https://open.spotify.com/album/5djLiHTiPKqbHxa6fhwYO8) | 3:44 |
 | 100 | [Ninnane Bayaside](https://open.spotify.com/track/2gVeV88YIQzA5zO0rTiyzu) | [Satvik C S](https://open.spotify.com/artist/5nqsLJcHlqXLCvvWjdEIoR) | [Ninnane Bayaside](https://open.spotify.com/album/65X3c2WdqKnrralQy9ccEm) | 2:52 |
 
-Snapshot ID: `MCxiYTkwZmRkMGU0NzYwZjg2OTY0OTgzNzA1NTE0MDIwMDUwODJhNjQ3`
+Snapshot ID: `MCwxYzZjZjRmYTFkMjRlYTgwMTFkYjAzMzY5MzZmZGY5NmMzODY3OTE5`

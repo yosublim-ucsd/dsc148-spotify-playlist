@@ -462,7 +462,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 172800,
       "name": "Bump Bump Bump - Radio Edit",
       "url": "https://open.spotify.com/track/74nFwxAEaYFOW4LpCvLVcX"
@@ -1151,6 +1151,24 @@
     },
     {
       "album": {
+        "name": "Love Is Coming Home",
+        "url": "https://open.spotify.com/album/26UlGeXQUOdzSptEKzo7Tp"
+      },
+      "artists": [
+        {
+          "name": "Double MZK",
+          "url": "https://open.spotify.com/artist/6xacomOfO7szsy6qZanBtI"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174240,
+      "name": "Love Is Coming Home",
+      "url": "https://open.spotify.com/track/7h1wSUHZzCnHjnJcFtoYdW"
+    },
+    {
+      "album": {
         "name": "Macaw",
         "url": "https://open.spotify.com/album/21vjXg1CCyd4LCZZjZ5k2n"
       },
@@ -1783,6 +1801,28 @@
     },
     {
       "album": {
+        "name": "Space Bump",
+        "url": "https://open.spotify.com/album/3hyeFEy3z2lB4Iq7oue2Ji"
+      },
+      "artists": [
+        {
+          "name": "Bruno Furlan",
+          "url": "https://open.spotify.com/artist/6gssIbF04dCX3COZvyr0JF"
+        },
+        {
+          "name": "Deeft",
+          "url": "https://open.spotify.com/artist/21pCbE79vQK4sEuuwW4XJ6"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167004,
+      "name": "Space Bump",
+      "url": "https://open.spotify.com/track/76oZNzrXQRRGW4imfrPB1R"
+    },
+    {
+      "album": {
         "name": "Spearwoman",
         "url": "https://open.spotify.com/album/1YOFhohbSLmnUnSYfkYucb"
       },
@@ -1856,7 +1896,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 164457,
       "name": "S\u00e3o Paulo",
       "url": "https://open.spotify.com/track/2B67hW6XshoWOIpHjDeVVI"
@@ -2074,7 +2114,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 221538,
       "name": "Zaza",
       "url": "https://open.spotify.com/track/6cVCk99iVLiAHxX6Ys1hOI"

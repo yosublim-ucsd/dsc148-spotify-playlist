@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTCHbho2Bfok.md) - [plain]
 
 > All the festive faves to soundtrack your very merry Christmas!
 
-[Spotify](https://open.spotify.com/user/spotify) - 488,441 likes - 53 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 489,582 likes - 53 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTCHbho2Bfok.md) - [plain]
 | 12 | [It's the Most Wonderful Time of the Year](https://open.spotify.com/track/2snThw2Vm8oCwfdsF9RZzg) | [David Campbell](https://open.spotify.com/artist/6tUwA7Nt6EoMLy48nNVrgq) | [Baby It's Christmas](https://open.spotify.com/album/7huxAleTWZqHj0WXclyGic) | 2:31 |
 | 13 | [Feliz Navidad](https://open.spotify.com/track/0oPdaY4dXtc3ZsaG17V972) | [José Feliciano](https://open.spotify.com/artist/7K78lVZ8XzkjfRSI7570FF) | [Feliz Navidad](https://open.spotify.com/album/3No96PtEFyRfX1oELmZTPu) | 3:02 |
 | 14 | [Baby It's Cold Outside \(with Michael Bublé\)](https://open.spotify.com/track/0Ie5uiv54KgCr7P4sYDTHl) | [Idina Menzel](https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR), [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Holiday Wishes](https://open.spotify.com/album/0EGX5qfw6VEPOMoCUFJFHl) | 2:46 |
-| 15 | [Blue Christmas](https://open.spotify.com/track/7C5MKu83YKO3QnCj2suvfz) | [Jimmy Barnes](https://open.spotify.com/artist/1k5aZWIOUbUfKcnMxtEivJ) | [Blue Christmas](https://open.spotify.com/album/3nDzeeosWy1TWYwVMRhRJJ) | 2:10 |
+| 15 | [Blue Christmas](https://open.spotify.com/track/0auIzEykQA9mQ5VZ4c0gMt) | [Jimmy Barnes](https://open.spotify.com/artist/1k5aZWIOUbUfKcnMxtEivJ) | [Blue Christmas \(Deluxe\)](https://open.spotify.com/album/0OxVXQp2wDXKrH4gAYr9I1) | 2:10 |
 | 16 | [Rockin' Around The Christmas Tree](https://open.spotify.com/track/2EjXfH91m7f8HiJN1yQg97) | [Brenda Lee](https://open.spotify.com/artist/4cPHsZM98sKzmV26wlwD2W) | [Merry Christmas From Brenda Lee](https://open.spotify.com/album/34wa3zf2prXFMk47t9zHFG) | 2:06 |
 | 17 | [Do They Know It's Christmas? \- 1984 Version](https://open.spotify.com/track/4Yg2w0P29BBBMixyeNjDtj) | [Band Aid](https://open.spotify.com/artist/35S20clEkkSNUo23ViaslZ) | [Do They Know It’s Christmas?](https://open.spotify.com/album/2WlRAsKdyYOwg2tdBjxVwq) | 3:42 |
 | 18 | [Thank God It's Christmas \- 2011 Remaster](https://open.spotify.com/track/3AymrUApW5JKKaNrHQhcBG) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [The Works \(Deluxe Remastered Version\)](https://open.spotify.com/album/7oHaj9jkWHByziQsqGAb8V) | 4:21 |
@@ -62,4 +62,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTCHbho2Bfok.md) - [plain]
 | 52 | [\(It Must've Been Ol'\) Santa Claus](https://open.spotify.com/track/54G7kjF8wbQAwG3WGmP6Ji) | [Harry Connick, Jr.](https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79) | [When My Heart Finds Christmas](https://open.spotify.com/album/1It3aEvCmT8UvUMmBm5DIV) | 4:36 |
 | 53 | [Silent Night](https://open.spotify.com/track/43EtTBgd5UPVkqPWiQCAnm) | [Delta Goodrem](https://open.spotify.com/artist/2g6fa86fL6oLcoDqanBbuR), [Gurrumul](https://open.spotify.com/artist/41U5QueLMyYyJ3Hoe4kKX4) | [Only Santa Knows \(Deluxe Edition\)](https://open.spotify.com/album/4HPh13sNS108WhMSmXgXjV) | 4:05 |
 
-Snapshot ID: `MCxjM2UzMGE1YTJjMzdmMWY4ZDE4NTA0ODNmNTcwYjAyNjZmMzJhYzhi`
+Snapshot ID: `MCwxNzkzMzkyNWQ5NTNjZjE5NmQzNWNkZTJiYWE3M2VjNmU3MzY4MjIz`

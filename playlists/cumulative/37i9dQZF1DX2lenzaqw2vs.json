@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Artistas LGBTQIA+ que brillan e inspiran.\nCover: Rubio",
+  "description": "Artistas LGBTQIA+ que brillan e inspiran.\nCover: Adrian Bello",
   "name": "BRILLO",
   "tracks": [
     {
@@ -2752,7 +2752,7 @@
       ],
       "date_added": "2022-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 189400,
       "name": "La isla de Lesbos",
       "url": "https://open.spotify.com/track/4lAHrUyPkXB19777s2tBNR"
@@ -4288,6 +4288,24 @@
       "duration_ms": 180026,
       "name": "OTRAS MUJERES",
       "url": "https://open.spotify.com/track/3TPyzaMVYGZq6PV1J4kXBV"
+    },
+    {
+      "album": {
+        "name": "Otros Ritmos",
+        "url": "https://open.spotify.com/album/04s9wRdnHcOxBsz2swbiNc"
+      },
+      "artists": [
+        {
+          "name": "Adrian Bello",
+          "url": "https://open.spotify.com/artist/0ZwjmGhps2YvUMzB7ihFV8"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222115,
+      "name": "Otros Ritmos",
+      "url": "https://open.spotify.com/track/090MzGykdRx3XjeQAuUOlE"
     },
     {
       "album": {

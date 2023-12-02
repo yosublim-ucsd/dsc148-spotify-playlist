@@ -977,6 +977,24 @@
     },
     {
       "album": {
+        "name": "Coconut Breeze",
+        "url": "https://open.spotify.com/album/3QoGyBUVm0IEbgwop3Ozlz"
+      },
+      "artists": [
+        {
+          "name": "Conte Prad",
+          "url": "https://open.spotify.com/artist/0ieNGPIGBwKTkc7fPXXigX"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148037,
+      "name": "Coconut Breeze",
+      "url": "https://open.spotify.com/track/4kO6yKGT81BjnfSCzH6HMc"
+    },
+    {
+      "album": {
         "name": "Concession",
         "url": "https://open.spotify.com/album/0W9VfRzTmuPzJmoIb39wzf"
       },
@@ -2680,7 +2698,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 193220,
       "name": "Magashi",
       "url": "https://open.spotify.com/track/7tONyJJejLCK78e4xX7xa8"

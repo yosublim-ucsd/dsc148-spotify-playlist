@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaYP4U0VPZgc.md) - [plain]
 
 > 作詞・作曲・編曲を手掛けるマルチ音楽コンポーザー。映画・アニメ・ゲーム・舞台・TVなど幅広い分野で活躍。Kalafinaのプロデュースや自身のユニットSee\-Saw、新プロジェクトFictionJunctionとしての活動でも知られ、ヨーロッパと東洋のエッセンスが融合した独自の世界観で熱い支持を集めている。
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,010 likes - 68 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,054 likes - 68 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaYP4U0VPZgc.md) - [plain]
 | 8 | [to the beginning](https://open.spotify.com/track/5aZYyAIBmLSXTlez59ZvZ7) | [Kalafina](https://open.spotify.com/artist/2otsTXVV2ZWZ8T5LPzsBhy) | [Consolation](https://open.spotify.com/album/6wUa2X4ZWE82DSpCn6zNsb) | 4:16 |
 | 9 | [君が見た夢の物語](https://open.spotify.com/track/3S53tu7z9QRZRE7KNW1kcV) | [ASCA](https://open.spotify.com/artist/5pjjlQXYjoMFWdjdKOre9s) | [君が見た夢の物語](https://open.spotify.com/album/1gMGknU5QYbl9q8OXFqGWD) | 4:21 |
 | 10 | [the sea and a pearl \(Japanese Ver\)](https://open.spotify.com/track/3xsyanQ2qccUr6HVd48jc5) | [JUNNA](https://open.spotify.com/artist/4l9mhLGvHBgUXIrDGUjy5d) | [5th Anniversary 3rd Full Album Dear](https://open.spotify.com/album/6wDj0XhwsypQ1ANwXTIN8z) | 4:39 |
-| 11 | [a small pearl](https://open.spotify.com/track/1r9KTd0OA5eK1FR3FCYdkn) | [Yuki Kajiura](https://open.spotify.com/artist/4HwQcrNsBSSFAonHpzhVRU) | [Fena: Pirate Princess ORIGINAL SOUNDTRACK](https://open.spotify.com/album/6ujRMr9i0cI839qXWCEsIr) | 1:47 |
+| 11 | [a small pearl](https://open.spotify.com/track/1r9KTd0OA5eK1FR3FCYdkn) | [梶浦 由記](https://open.spotify.com/artist/0BLHMPWOZ2aTI0ZCCbtZem) | [Fena: Pirate Princess ORIGINAL SOUNDTRACK](https://open.spotify.com/album/6ujRMr9i0cI839qXWCEsIr) | 1:47 |
 | 12 | [wonderland](https://open.spotify.com/track/2le6yHsjyys4h3mHs65tss) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [Walpurgis](https://open.spotify.com/album/3iFkNa8SRNFHD7La40UqUz) | 5:03 |
 | 13 | [白銀](https://open.spotify.com/track/0f5hcKLCRgpdVV424X4XDQ) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [白銀](https://open.spotify.com/album/3Y8xaDUTu15VRCE9TblUOy) | 4:24 |
 | 14 | [焔の扉](https://open.spotify.com/track/7bISXTD95bEN7oqD4LTmov) | [FictionJunction YUUKA](https://open.spotify.com/artist/3JGUu5XReRV4PnHYBNFbZf) | [circus](https://open.spotify.com/album/3uIPcjVMdZgVNFT0E8u4N9) | 4:52 |
@@ -77,4 +77,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaYP4U0VPZgc.md) - [plain]
 | 67 | [circus](https://open.spotify.com/track/18WaVPIBp3EpfqAWllHVKi) | [FictionJunction YUUKA](https://open.spotify.com/artist/3JGUu5XReRV4PnHYBNFbZf) | [circus](https://open.spotify.com/album/3uIPcjVMdZgVNFT0E8u4N9) | 4:51 |
 | 68 | [a farewell song](https://open.spotify.com/track/2Ika4tMvhzNBjChesucCnZ) | [笠原由里](https://open.spotify.com/artist/4JdLWtnqonXnI1pkrvfzHm) | [NOIR ORIGINAL SOUNDTRACK II](https://open.spotify.com/album/3ABOmL2EUVFrcMohZbmmdb) | 3:34 |
 
-Snapshot ID: `MCw2ZjFmYjEyY2EwNzNjOGFlMzFjODM2Y2RhZDk0ZjBmNjU3YzI5ZjMw`
+Snapshot ID: `MCwwMmI4Yzc0NTFiNTYxYTNmYjU3MTk2ZTllMzk4ZWIxZDhmMzU1N2Qx`

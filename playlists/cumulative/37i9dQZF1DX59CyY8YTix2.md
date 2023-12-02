@@ -4,7 +4,7 @@
 
 > 国内ロックシーンで活躍する女性アーティストたちを特集。Japanese women rock icons\. Cover: 名誉伝説
 
-1,277 songs - 3 day 8 hr 20 min
+1,278 songs - 3 day 8 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -276,6 +276,7 @@
 | [KICKASS](https://open.spotify.com/track/4LW5HsiZ9bWNnDtBEYVVuq) | [TRiDENT](https://open.spotify.com/artist/7rZdMuqbboWedMFTA5hsrh) | [Dream Up](https://open.spotify.com/album/5Vty5dumIvnNzf9SOGY7sW) | 3:02 | 2023-11-14 | 2023-11-22 |
 | [KICKS!KICKS!KICKS!](https://open.spotify.com/track/5PuOvSSnUz95P0sl4gpiqS) | [Q.I.S.](https://open.spotify.com/artist/28WPc8Ww4MrKCvUynmJ74C) | [KICKS!KICKS!KICKS!](https://open.spotify.com/album/1fRTpzxnoUG7Kh2isjxbzI) | 3:29 | 2023-09-05 | 2023-09-13 |
 | [Kiddy](https://open.spotify.com/track/0XnzXvYScKwURM2Jf4vMlT) | [ロクデナシ](https://open.spotify.com/artist/4kpQdAU7yPjqtiJsFcBTBb) | [Kiddy](https://open.spotify.com/album/52rgoVYXzK00nZMHDGHFSn) | 3:18 | 2023-08-24 |  |
+| [Killer Word](https://open.spotify.com/track/55YTEATvWRdjUXGkxfdlWB) | [chilldspot](https://open.spotify.com/artist/4uJKSLGvdvinobijrcfKw4) | [Killer Word](https://open.spotify.com/album/5nkuYDrndcdN41UN8QKgkP) | 4:01 | 2023-11-30 |  |
 | [KILLER,Muddy Greed](https://open.spotify.com/track/24YwAMhwJ6kqakYmQPs9aU) | [板歯目](https://open.spotify.com/artist/5DlTKCtag7pyzHlED3IGad) | [KILLER,Muddy Greed](https://open.spotify.com/album/4dgWKzRQiu0wDzD3hnniH5) | 2:59 | 2022-07-07 | 2022-07-20 |
 | [Kimi ni Sayonara](https://open.spotify.com/track/1XORfqcIaAjoEMLkR4GKou) | [Kaneyorimasaru](https://open.spotify.com/artist/5h5smZjPHUEDyYNuafjehf) | [Kimi ni Sayonara](https://open.spotify.com/album/1Kur4QhXrFJo651o4sBTxq) | 4:19 | 2023-10-17 | 2023-11-16 |
 | [kirakirayou](https://open.spotify.com/track/1r6QqsG9RXtpemNUt7DY5R) | [saba sister](https://open.spotify.com/artist/2E9ODwADhw1qvfO9BXAkGX) | [kirakirayou](https://open.spotify.com/album/384GpFtH2AIVEienGR2CgF) | 3:08 | 2023-09-19 | 2023-09-27 |
@@ -783,7 +784,7 @@
 | [キミにサンキュー](https://open.spotify.com/track/7Ckw4jc9csG6dxFinFivXx) | [POP ART TOWN](https://open.spotify.com/artist/6nu39YK7u99qv6JdygWuxG) | [ART MUSEUM](https://open.spotify.com/album/5MD0vuMyFCcPzc5qjryQfh) | 4:32 | 2022-11-15 | 2022-12-14 |
 | [キャラクター](https://open.spotify.com/track/1WkMPKhw6w2PAaZyKpITNi) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [キャラクター](https://open.spotify.com/album/2ylk0z5v9TVDEbexjpVh8c) | 4:09 | 2022-07-28 | 2022-08-17 |
 | [キャリーケースは重いままで](https://open.spotify.com/track/2ADl3dTfftKsYTVQjdY7iH) | [やましたりな](https://open.spotify.com/artist/1O235Li0262kkP7gfP6B5W) | [バイバイ、私 / キャリーケースは重いままで](https://open.spotify.com/album/6ywtlcRbSCR213Z70OZIgK) | 4:05 | 2022-05-26 | 2022-07-29 |
-| [キラーワード](https://open.spotify.com/track/6lOrtgsvN9QKtN4h7S1Y5j) | [chilldspot](https://open.spotify.com/artist/4uJKSLGvdvinobijrcfKw4) | [キラーワード](https://open.spotify.com/album/0hTDFgya1BSBjCucfBfaTQ) | 4:01 | 2023-11-30 |  |
+| [キラーワード](https://open.spotify.com/track/6lOrtgsvN9QKtN4h7S1Y5j) | [chilldspot](https://open.spotify.com/artist/4uJKSLGvdvinobijrcfKw4) | [キラーワード](https://open.spotify.com/album/0hTDFgya1BSBjCucfBfaTQ) | 4:01 | 2023-11-30 | 2023-12-02 |
 | [グッバイ来世でまた会おう](https://open.spotify.com/track/3tMAlCQkzdZaLY13drupYE) | [INNER JOURNEY](https://open.spotify.com/artist/19NLrvn6bFFk0R0UaSfGR9) | [グッバイ来世でまた会おう](https://open.spotify.com/album/7awpbwywwAClGnc8pMrCPf) | 4:01 | 2022-05-26 | 2022-07-29 |
 | [クジラのステージ](https://open.spotify.com/track/4GHRt13bE6FwsszVsXnOeh) | [Cocco](https://open.spotify.com/artist/3SBG08XwrIxXSPTxsbM0b6) | [クジラのステージ](https://open.spotify.com/album/7LqOws7ynv8xkqt9oJ0Qhs) | 5:24 | 2023-02-07 | 2023-02-09 |
 | [クラシックハイ](https://open.spotify.com/track/16JaSG5xDmwHczSCNdHMO9) | [Genie High](https://open.spotify.com/artist/1NdpjvRYsY6cwAVX9YWzAB) | [ジェニークラシック](https://open.spotify.com/album/3aE28znA0tYGoqxLwzaWxl) | 4:13 | 2023-06-27 | 2023-10-18 |

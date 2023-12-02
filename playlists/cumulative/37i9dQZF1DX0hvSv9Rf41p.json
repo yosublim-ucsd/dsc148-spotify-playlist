@@ -837,6 +837,32 @@
     },
     {
       "album": {
+        "name": "Back In Time",
+        "url": "https://open.spotify.com/album/7fsKyGmfki0E7u7t6KISeu"
+      },
+      "artists": [
+        {
+          "name": "Synymata",
+          "url": "https://open.spotify.com/artist/6mLoXZQPyVJgzOqKLkJQoC"
+        },
+        {
+          "name": "MmmCherry",
+          "url": "https://open.spotify.com/artist/2pjOLjJD4lElSnRaeYad57"
+        },
+        {
+          "name": "Leah Culver",
+          "url": "https://open.spotify.com/artist/0KEExJc1NKwmzJxQHbbkts"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290482,
+      "name": "Back In Time",
+      "url": "https://open.spotify.com/track/6APQnRyhLuPtpWyYDNSyCt"
+    },
+    {
+      "album": {
         "name": "BACK ONLINE",
         "url": "https://open.spotify.com/album/4Jo971sLoS2lO4bf9hKe2j"
       },
@@ -2882,7 +2908,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 169600,
       "name": "Defeated",
       "url": "https://open.spotify.com/track/0M1LWZK1kkiF2fbqt62pcf"
@@ -3418,6 +3444,28 @@
       "duration_ms": 216774,
       "name": "Don\u2019t You",
       "url": "https://open.spotify.com/track/22KuNvUTXHXMWVTAHOVA5g"
+    },
+    {
+      "album": {
+        "name": "SIDEQUEST",
+        "url": "https://open.spotify.com/album/23PvqNP9LBwte6EkdJQsBB"
+      },
+      "artists": [
+        {
+          "name": "INZO",
+          "url": "https://open.spotify.com/artist/18Eu7uJEMPWwwt1QUdCglQ"
+        },
+        {
+          "name": "LSDREAM",
+          "url": "https://open.spotify.com/artist/3Hrqjumb6WHg2aAUHJHLND"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309211,
+      "name": "Dopamine",
+      "url": "https://open.spotify.com/track/06SYPTeNIfBFGJDpGepz5v"
     },
     {
       "album": {
@@ -4268,7 +4316,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 189517,
       "name": "Fallen",
       "url": "https://open.spotify.com/track/3VvQKhWigoAD5pfM6zul48"
@@ -5339,6 +5387,28 @@
     },
     {
       "album": {
+        "name": "Godless",
+        "url": "https://open.spotify.com/album/3JbJ3sGuHEl4EY4Q3EhB6w"
+      },
+      "artists": [
+        {
+          "name": "One True God",
+          "url": "https://open.spotify.com/artist/35Of0m0cvpLYrmQ6qd5ocp"
+        },
+        {
+          "name": "AWAY",
+          "url": "https://open.spotify.com/artist/4I28YHp9GKyYMuHeD61uwb"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205714,
+      "name": "Godless",
+      "url": "https://open.spotify.com/track/1LLQXqalVEKNTkga1WHrx9"
+    },
+    {
+      "album": {
         "name": "Eyes Wide Open",
         "url": "https://open.spotify.com/album/3zgSMDDYMuWQJihpF9SFQX"
       },
@@ -5478,7 +5548,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 248147,
       "name": "Grenade",
       "url": "https://open.spotify.com/track/4tRDqT9CZtUGnjGAJNVqaQ"
@@ -5786,7 +5856,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 154400,
       "name": "Headshot (feat. Mikey Ceaser)",
       "url": "https://open.spotify.com/track/4ZImeX5bzp2EFkN2ClFBMo"
@@ -6602,7 +6672,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 142962,
       "name": "INSD",
       "url": "https://open.spotify.com/track/4BFONPyknhWomROCBDZTUp"
@@ -6796,6 +6866,28 @@
       "duration_ms": 268800,
       "name": "Just Like You",
       "url": "https://open.spotify.com/track/5XRvpUtk1ux7Tni2RAayDB"
+    },
+    {
+      "album": {
+        "name": "Just Too Numb (with Calivania)",
+        "url": "https://open.spotify.com/album/25fV2RjsDHHybEDIYtMfNC"
+      },
+      "artists": [
+        {
+          "name": "Sublab",
+          "url": "https://open.spotify.com/artist/3tjRdPCZTpme7vslZJYtJx"
+        },
+        {
+          "name": "Calivania",
+          "url": "https://open.spotify.com/artist/5BBJhaRxSKP3jeCjIoWdl1"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186000,
+      "name": "Just Too Numb (with Calivania)",
+      "url": "https://open.spotify.com/track/6qNqNm954aUmyNDKKnxdSm"
     },
     {
       "album": {
@@ -7899,6 +7991,32 @@
     },
     {
       "album": {
+        "name": "Mehndi",
+        "url": "https://open.spotify.com/album/4Jir9wLk09pu6IWca8Tp38"
+      },
+      "artists": [
+        {
+          "name": "MEMBA",
+          "url": "https://open.spotify.com/artist/7nJNuftnqwrFGFs3ZRRe0u"
+        },
+        {
+          "name": "Tisoki",
+          "url": "https://open.spotify.com/artist/0XW7mqhbaQnRtHmwfAVg64"
+        },
+        {
+          "name": "YUNG SAMMY",
+          "url": "https://open.spotify.com/artist/3N1efxORHI0hvpUGNr0QpW"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196965,
+      "name": "Mehndi",
+      "url": "https://open.spotify.com/track/21czWKpfSgbrcafbdKRA1h"
+    },
+    {
+      "album": {
         "name": "Mercy",
         "url": "https://open.spotify.com/album/7634SoS9OTz1egYy9CFG2e"
       },
@@ -8178,7 +8296,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 284137,
       "name": "Monsters",
       "url": "https://open.spotify.com/track/2baHywIRnkbKD7ff5C8Cuz"
@@ -9065,6 +9183,32 @@
     },
     {
       "album": {
+        "name": "This Mixtape is Fire TOO",
+        "url": "https://open.spotify.com/album/5H1GCTOowyeZzBVBddvdFD"
+      },
+      "artists": [
+        {
+          "name": "Dillon Francis",
+          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
+        },
+        {
+          "name": "IDK",
+          "url": "https://open.spotify.com/artist/6nyKhzPeKV9pzpYN0malXP"
+        },
+        {
+          "name": "Eptic",
+          "url": "https://open.spotify.com/artist/4dvZ0abeUaiHm7Fu9Gj0PQ"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141126,
+      "name": "Okay Okay (with Eptic and IDK)",
+      "url": "https://open.spotify.com/track/4bjyN1jFFC43cSTPtxqWpt"
+    },
+    {
+      "album": {
         "name": "Old School",
         "url": "https://open.spotify.com/album/5FPyXKsRMhaRLFNSvLA5jk"
       },
@@ -9134,7 +9278,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 140196,
       "name": "On & On",
       "url": "https://open.spotify.com/track/5OBxgQAkvL5INmylerFSWv"
@@ -10356,6 +10500,24 @@
       "duration_ms": 230000,
       "name": "Reddit",
       "url": "https://open.spotify.com/track/6Nde0nO9n04LpdCCE2dLqE"
+    },
+    {
+      "album": {
+        "name": "Redemption",
+        "url": "https://open.spotify.com/album/5F9fnBnigjsoo1ymn2Nnkj"
+      },
+      "artists": [
+        {
+          "name": "RIOT",
+          "url": "https://open.spotify.com/artist/0qPGd8tOMHlFZt8EA1uLFY"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228800,
+      "name": "Redemption",
+      "url": "https://open.spotify.com/track/4Xo0c4AtfUUuprVEKzyNYW"
     },
     {
       "album": {

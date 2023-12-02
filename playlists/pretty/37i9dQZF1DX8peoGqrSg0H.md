@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8peoGqrSg0H.md) - [plain]
 
 > เพลงไทยป๊อปโดนใจ อัพเดตให้คุณฟังทุกสัปดาห์\. ศิลปิน: PROXIE
 
-[Spotify](https://open.spotify.com/user/spotify) - 151,293 likes - 65 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 151,332 likes - 65 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8peoGqrSg0H.md) - [plain]
 | 64 | [ชอบใส่ใจ \(Just Curious\)](https://open.spotify.com/track/4vfWaUic7KKrOUR7kWy6RO) | [bamm](https://open.spotify.com/artist/2ORibfYGMt8fuIimSDCTq1) | [ชอบใส่ใจ \(Just Curious\)](https://open.spotify.com/album/38OWVUcsVAJjPXUdgGUpNd) | 3:25 |
 | 65 | [เลือกเค้าเลยได้มั้ย \(No Choice\)](https://open.spotify.com/track/4qVnHEFxfJvjT35d9CdOMc) | [PRETZELLE](https://open.spotify.com/artist/5imDin9uo07y7ZuUiJgOU7) | [เลือกเค้าเลยได้มั้ย \(No Choice\)](https://open.spotify.com/album/5yLgzmQrTpCqmH40sJu8B0) | 3:29 |
 
-Snapshot ID: `MCwxY2Q0ZjY1ZmVmNTFiZDNkZmE0OGY3Y2Q4ODI4OTcwMThjMzhiYTA4`
+Snapshot ID: `MCw5N2U1ZWRmMGFiMDQyYzUxMDc1MTExNDYyNzgyNDZmZDZhZGY2MjMz`

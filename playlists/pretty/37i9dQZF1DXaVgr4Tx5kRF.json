@@ -1,12 +1,12 @@
 {
   "description": "The songs that defined a golden era of British indie. ",
-  "num_followers": 638903,
+  "num_followers": 639089,
   "original_name": "Britpop, Etc.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlOTRiNjgyMzdiZTBmOTYzNWMwNjE0NzUwNjFlMmFkNThjNDgyZjMz",
+  "snapshot_id": "MCwxZTUzMzc4M2Y2NTNjZjU1NjgwNTExMjZiNzU1YzEwOWM2MDYyNzQ5",
   "tracks": [
     {
       "added_at": "2022-05-04 17:11:49",
@@ -459,6 +459,22 @@
     {
       "added_at": "2022-05-04 17:11:49",
       "album": {
+        "name": "1977",
+        "url": "https://open.spotify.com/album/1fxOFs3nc2mGf69PEbEQbf"
+      },
+      "artists": [
+        {
+          "name": "Ash",
+          "url": "https://open.spotify.com/artist/2evydP72Z45DouM4uMGsIE"
+        }
+      ],
+      "duration_ms": 210200,
+      "name": "Girl from Mars",
+      "url": "https://open.spotify.com/track/0cA41ydiosNCgmmGiCST65"
+    },
+    {
+      "added_at": "2022-05-04 17:11:49",
+      "album": {
         "name": "Free Peace Sweet",
         "url": "https://open.spotify.com/album/2C5AMWVyaTWboPCe49JVnl"
       },
@@ -471,22 +487,6 @@
       "duration_ms": 241306,
       "name": "Good Enough",
       "url": "https://open.spotify.com/track/3uvTySdxejOSPEACJsajdW"
-    },
-    {
-      "added_at": "2022-05-04 17:11:49",
-      "album": {
-        "name": "Let It Ride",
-        "url": "https://open.spotify.com/album/6CET3JYJyXlmfVLLQx2XeG"
-      },
-      "artists": [
-        {
-          "name": "Shed Seven",
-          "url": "https://open.spotify.com/artist/3iejrAcqxYoVgyxp6zkWgs"
-        }
-      ],
-      "duration_ms": 265133,
-      "name": "Chasing Rainbows",
-      "url": "https://open.spotify.com/track/4IFC2bM8SquqQYOu9tiQ8C"
     },
     {
       "added_at": "2022-05-04 17:11:49",
@@ -507,6 +507,22 @@
     {
       "added_at": "2022-05-04 17:11:49",
       "album": {
+        "name": "Let It Ride",
+        "url": "https://open.spotify.com/album/6CET3JYJyXlmfVLLQx2XeG"
+      },
+      "artists": [
+        {
+          "name": "Shed Seven",
+          "url": "https://open.spotify.com/artist/3iejrAcqxYoVgyxp6zkWgs"
+        }
+      ],
+      "duration_ms": 265133,
+      "name": "Chasing Rainbows",
+      "url": "https://open.spotify.com/track/4IFC2bM8SquqQYOu9tiQ8C"
+    },
+    {
+      "added_at": "2022-05-04 17:11:49",
+      "album": {
         "name": "Blur: The Best Of",
         "url": "https://open.spotify.com/album/1bgkxe4t0HNeLn9rhrx79x"
       },
@@ -519,22 +535,6 @@
       "duration_ms": 240120,
       "name": "The Universal",
       "url": "https://open.spotify.com/track/0qmCWYu7hOvriyuqXfPw7I"
-    },
-    {
-      "added_at": "2022-05-04 17:11:49",
-      "album": {
-        "name": "1977",
-        "url": "https://open.spotify.com/album/1fxOFs3nc2mGf69PEbEQbf"
-      },
-      "artists": [
-        {
-          "name": "Ash",
-          "url": "https://open.spotify.com/artist/2evydP72Z45DouM4uMGsIE"
-        }
-      ],
-      "duration_ms": 210200,
-      "name": "Girl from Mars",
-      "url": "https://open.spotify.com/track/0cA41ydiosNCgmmGiCST65"
     },
     {
       "added_at": "2022-05-04 17:11:49",
@@ -587,6 +587,22 @@
     {
       "added_at": "2022-05-04 17:11:49",
       "album": {
+        "name": "Ugly Beautiful",
+        "url": "https://open.spotify.com/album/0bqAqbOsbQ145KcqNXbWQT"
+      },
+      "artists": [
+        {
+          "name": "Babybird",
+          "url": "https://open.spotify.com/artist/1QCANeffsBIHjzhMqUIxBh"
+        }
+      ],
+      "duration_ms": 222440,
+      "name": "You're Gorgeous",
+      "url": "https://open.spotify.com/track/5IaJ6YghsvtGBDyF7H6vkU"
+    },
+    {
+      "added_at": "2022-05-04 17:11:49",
+      "album": {
         "name": "The Greatest Hits: Why Try Harder",
         "url": "https://open.spotify.com/album/6GSF3YIop0uuOUkSx8n9QJ"
       },
@@ -615,22 +631,6 @@
       "duration_ms": 230533,
       "name": "Movin' on Up",
       "url": "https://open.spotify.com/track/5Vx3e9PipiEceifVyBzCdj"
-    },
-    {
-      "added_at": "2022-05-04 17:11:49",
-      "album": {
-        "name": "Ugly Beautiful",
-        "url": "https://open.spotify.com/album/0bqAqbOsbQ145KcqNXbWQT"
-      },
-      "artists": [
-        {
-          "name": "Babybird",
-          "url": "https://open.spotify.com/artist/1QCANeffsBIHjzhMqUIxBh"
-        }
-      ],
-      "duration_ms": 222440,
-      "name": "You're Gorgeous",
-      "url": "https://open.spotify.com/track/5IaJ6YghsvtGBDyF7H6vkU"
     },
     {
       "added_at": "2022-05-04 17:11:49",

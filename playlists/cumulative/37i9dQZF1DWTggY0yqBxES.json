@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "New, leftfield, and for the real hip-hop stans! Cover: Danny Brown",
+  "description": "New, leftfield, and for the real hip-hop stans! Cover: AG Club",
   "name": "Alternative Hip-Hop",
   "tracks": [
     {
@@ -28,6 +28,28 @@
       "duration_ms": 225453,
       "name": "$WISH ft. G-Eazy and Chance The Rapper",
       "url": "https://open.spotify.com/track/2xWTbOsDclkxRarvshyReu"
+    },
+    {
+      "album": {
+        "name": "'96 Bulls (feat. Drezus)",
+        "url": "https://open.spotify.com/album/6NHaN1FJALiFBGxHJFdeBI"
+      },
+      "artists": [
+        {
+          "name": "Snotty Nose Rez Kids",
+          "url": "https://open.spotify.com/artist/16T3el1CEjX49qFA7UT2n5"
+        },
+        {
+          "name": "Drezus",
+          "url": "https://open.spotify.com/artist/08G2YWw73h9tgNN1CcqTOZ"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184543,
+      "name": "'96 Bulls (feat. Drezus)",
+      "url": "https://open.spotify.com/track/0cNLTORxh13lT9QQQlI9jG"
     },
     {
       "album": {
@@ -2343,6 +2365,24 @@
     },
     {
       "album": {
+        "name": "CAN'T STOP NOW",
+        "url": "https://open.spotify.com/album/1aMojrUQGbKvNeSYUhKdMk"
+      },
+      "artists": [
+        {
+          "name": "Joey Valence & Brae",
+          "url": "https://open.spotify.com/artist/1q4618qKswelCGLoanFKQh"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169384,
+      "name": "CAN'T STOP NOW",
+      "url": "https://open.spotify.com/track/1YmLbryGwdP25VbPqzizbC"
+    },
+    {
+      "album": {
         "name": "CAN'T TELL ME NOTHING",
         "url": "https://open.spotify.com/album/4KzvzrVvk26wrGl1irb2Xi"
       },
@@ -2866,7 +2906,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 212282,
       "name": "cracked screen",
       "url": "https://open.spotify.com/track/74iw3OCAb3it0SjOVw4Dnq"
@@ -3458,7 +3498,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 178676,
       "name": "Die Today",
       "url": "https://open.spotify.com/track/2AVrcU1B8cpy66ycCnkYvv"
@@ -3974,7 +4014,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 118815,
       "name": "EASY",
       "url": "https://open.spotify.com/track/4o6SGTg4z3W43JO8OOI2Id"
@@ -4704,7 +4744,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 137653,
       "name": "Free Throws",
       "url": "https://open.spotify.com/track/0u95F8vAopCSVl3egr5lZK"
@@ -4780,10 +4820,28 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 140626,
       "name": "Gentleman's Sweep",
       "url": "https://open.spotify.com/track/3e6PTJYRmgMBASVVl2l9Gd"
+    },
+    {
+      "album": {
+        "name": "Gentleman's Sweep",
+        "url": "https://open.spotify.com/album/6cNCc8EptZdKibhexZIyGe"
+      },
+      "artists": [
+        {
+          "name": "Akintoye",
+          "url": "https://open.spotify.com/artist/1EgCxqT8GgE5oXX3PkeGhq"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140626,
+      "name": "Gentleman's Sweep",
+      "url": "https://open.spotify.com/track/5kLIeJyblsWIWQ6nfyZNrq"
     },
     {
       "album": {
@@ -5230,6 +5288,24 @@
       "duration_ms": 201733,
       "name": "Griffith Park",
       "url": "https://open.spotify.com/track/2QyOjjcHa5OY31zBlZOF2z"
+    },
+    {
+      "album": {
+        "name": "Grove",
+        "url": "https://open.spotify.com/album/6tG0BshFlg8Hm9eZqiWmRC"
+      },
+      "artists": [
+        {
+          "name": "Ahmad Anonimis",
+          "url": "https://open.spotify.com/artist/3wnsNFtqQ75UEUAN3PwkPH"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149130,
+      "name": "Grove",
+      "url": "https://open.spotify.com/track/7ChGbr5eO2BKBz3cw3Kqsr"
     },
     {
       "album": {
@@ -6892,7 +6968,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 205320,
       "name": "Kingdom Hearts Key (ft. redveil)",
       "url": "https://open.spotify.com/track/0VA5FzFlysCcSG1IdOkhUb"
@@ -8240,7 +8316,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 145965,
       "name": "MOVE (RIDE) [Feat. Jay Prince] - Single Edit",
       "url": "https://open.spotify.com/track/2InnJyF8XRi5h6HiCoTRUP"
@@ -9528,7 +9604,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 156000,
       "name": "Petty",
       "url": "https://open.spotify.com/track/4a5KwvStfugKQAOdBlO8N4"
@@ -11977,6 +12053,32 @@
     },
     {
       "album": {
+        "name": "The Forever Story (Extended Version)",
+        "url": "https://open.spotify.com/album/4rJDCELWL0fjdmN9Gn4f4g"
+      },
+      "artists": [
+        {
+          "name": "JID",
+          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        },
+        {
+          "name": "Baby Tate",
+          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229938,
+      "name": "Surround Sound (feat. 21 Savage & Baby Tate)",
+      "url": "https://open.spotify.com/track/1udwFobQ1JoOdWPQrp2b6u"
+    },
+    {
+      "album": {
         "name": "Survivors Guilt",
         "url": "https://open.spotify.com/album/5XGzCRfgCbpaMPLpDYvUNF"
       },
@@ -12785,6 +12887,28 @@
     },
     {
       "album": {
+        "name": "TOMORROW WILL NOT COME",
+        "url": "https://open.spotify.com/album/2urKBNTHSezfBsuJf4lLWi"
+      },
+      "artists": [
+        {
+          "name": "Pouya",
+          "url": "https://open.spotify.com/artist/4nXOZlYoAD67hF9aUEncMY"
+        },
+        {
+          "name": "Terror Reid",
+          "url": "https://open.spotify.com/artist/5No9X0ZejwFDnD1dVllwQA"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157090,
+      "name": "TOMORROW WILL NOT COME",
+      "url": "https://open.spotify.com/track/5t9SAPZmW0zTmkYGLc4sTk"
+    },
+    {
+      "album": {
         "name": "Too Close (Love Is Free)",
         "url": "https://open.spotify.com/album/1n4RZBgK4tySWakLbCZ9sv"
       },
@@ -13544,6 +13668,24 @@
       "duration_ms": 221797,
       "name": "Westside Story (with Duckwrth)",
       "url": "https://open.spotify.com/track/11tIIx1IhWCa4CzMtKhvai"
+    },
+    {
+      "album": {
+        "name": "What It Do",
+        "url": "https://open.spotify.com/album/7CPV08Fhdf7N8SYyMdhnes"
+      },
+      "artists": [
+        {
+          "name": "MAKAVELIGODD",
+          "url": "https://open.spotify.com/artist/6ODBnKbicdw1rDq8P2lBzO"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111507,
+      "name": "What It Do",
+      "url": "https://open.spotify.com/track/1VWoUgwdh1FSuF0KKRJU1E"
     },
     {
       "album": {

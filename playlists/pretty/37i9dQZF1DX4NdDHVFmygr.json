@@ -1,12 +1,12 @@
 {
   "description": "Les hits marocains du moment. Cover: ElGrandeToto",
-  "num_followers": 230495,
+  "num_followers": 230693,
   "original_name": "Maroc Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MTEzZWJiZTkxZmEyMmY1MjVhZTRlYWVlM2RhMmE5M2M4MWJlOTIz",
+  "snapshot_id": "MCw4ZDY1ZTU5NWE1YjU2NTM5M2Y5OWE2MDIwZDAyNDUyMzA3N2YxN2Fk",
   "tracks": [
     {
       "added_at": "2023-11-30 20:09:43",
@@ -578,6 +578,10 @@
         {
           "name": "F1rstman",
           "url": "https://open.spotify.com/artist/0IA4SdCS8HBDX6oBoOlgaf"
+        },
+        {
+          "name": "YAM",
+          "url": "https://open.spotify.com/artist/7KpyU32bL0qN4pY9wNSu7E"
         }
       ],
       "duration_ms": 122972,

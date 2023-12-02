@@ -4,7 +4,7 @@
 
 > Chanson alterno, rock festif, ska ou reggae, peu importe le genre : crie\-le bien fort, use tes cordes vocales !
 
-61 songs - 3 hr 45 min
+62 songs - 3 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,7 @@
 | [Kana diskan](https://open.spotify.com/track/3DDozsIhKdjaOhnEPwn9H3) | [Rasta Bigoud](https://open.spotify.com/artist/6bEut48ficVPo2kEIuxwSY) | [Kana diskan](https://open.spotify.com/album/3GH2MvtPq2yI84Em13I0GU) | 3:46 | 2022-12-06 | 2023-11-21 |
 | [L'accordéoniste](https://open.spotify.com/track/5zdsWxGjYO8Su7lAKwzvR3) | [Les Hurlements D'leo](https://open.spotify.com/artist/5WclEPgvoYK28a034NNa8s) | [Le café des jours heureux](https://open.spotify.com/album/4f0WbqM9lzf3ygfNzVKnG8) | 3:02 | 2022-12-06 |  |
 | [L'hymne de nos campagnes \- Live](https://open.spotify.com/track/0tcFkV7zLOGWgUbYtD6ROz) | [Tryo](https://open.spotify.com/artist/4ZP3CHz28XWVLGiaVVWuLj) | [Mamagubida](https://open.spotify.com/album/5nFS7n7hpqlDOXI8e4ggsL) | 3:25 | 2022-12-06 |  |
-| [L'odyssée du réel](https://open.spotify.com/track/6T8JxxGowkAfXH6YfwL2II) | [La Ruda Salska](https://open.spotify.com/artist/5wLQgAe9uO150K07T2MYvl) | [Passager du réel](https://open.spotify.com/album/2CtHL2zu55v3Xu1K1PUCvZ) | 4:55 | 2022-12-06 |  |
+| [L'odyssée du réel](https://open.spotify.com/track/6T8JxxGowkAfXH6YfwL2II) | [La Ruda Salska](https://open.spotify.com/artist/5wLQgAe9uO150K07T2MYvl) | [Passager du réel](https://open.spotify.com/album/2CtHL2zu55v3Xu1K1PUCvZ) | 4:55 | 2022-12-06 | 2023-12-02 |
 | [La déclaration](https://open.spotify.com/track/2FjRMq1w9EEhelyBtTjCE8) | [Debout Sur Le Zinc](https://open.spotify.com/artist/2IScPq8PNlEgMrxY22iufh) | [Les promesses](https://open.spotify.com/album/5AcVrPhhrMyFAgQNRkhK9B) | 4:15 | 2022-12-06 |  |
 | [La gueule du patrimoine](https://open.spotify.com/track/1W1fQ84xvzfdMuFLBPy6Jh) | [Z.E.P](https://open.spotify.com/artist/4XAzJCyr0H69x6RkEnb2Go) | [Zone d'expression populaire](https://open.spotify.com/album/4RJzRt68IPvg9BZc53mpiN) | 4:45 | 2022-12-06 |  |
 | [La main verte \- Live](https://open.spotify.com/track/6t84yOrkPAouma0bbGGYOO) | [Tryo](https://open.spotify.com/artist/4ZP3CHz28XWVLGiaVVWuLj) | [Mamagubida](https://open.spotify.com/album/5nFS7n7hpqlDOXI8e4ggsL) | 2:13 | 2022-12-06 |  |
@@ -57,6 +57,7 @@
 | [One by One](https://open.spotify.com/track/4lXuYj6x2DndhCnpqtN4Sf) | [K2R Riddim](https://open.spotify.com/artist/79Kiacg7nm9B7bMxATP6U0) | [Carnet de roots](https://open.spotify.com/album/4MnzbdyxZOinzS4udFuWOp) | 3:58 | 2022-12-06 | 2023-10-07 |
 | [Plantation](https://open.spotify.com/track/3mdfBcdD8C3NbJ0SUBjA5i) | [Kana](https://open.spotify.com/artist/0O8CZw2zjGlq2coR7Nj33Q) | [Entre Frères...](https://open.spotify.com/album/1RhTC6PKCNZmNMiblUu9Ng) | 3:33 | 2022-12-06 |  |
 | [Poupine et Thierry](https://open.spotify.com/track/6dvdKdZzqrajkhlCOFrEYo) | [Les Wriggles](https://open.spotify.com/artist/0GtJweTzG1ECJ78loPQxzl) | [Ah bas ouais mais bon](https://open.spotify.com/album/3FR7crJTVDJrOmqbGCfeAA) | 1:48 | 2022-12-06 | 2023-11-06 |
+| [Poupine et Thierry](https://open.spotify.com/track/76tXsaonHTv3eDSnUIbimx) | [Les Wriggles](https://open.spotify.com/artist/0GtJweTzG1ECJ78loPQxzl) | [Ah bas ouais mais bon](https://open.spotify.com/album/3NDFDsdrcZxC3xYzBwweLw) | 1:48 | 2023-10-06 |  |
 | [Quand plus rien ne va \- La turlute](https://open.spotify.com/track/6hrbyZLZePWb6nCsgVpjLp) | [Mes Souliers Sont Rouges](https://open.spotify.com/artist/4IyUYsH5XMy3tgfBfeHRO6) | [Proches](https://open.spotify.com/album/5BWfaMWJVTKzX9NQEc0CrT) | 3:36 | 2022-12-06 |  |
 | [Rongrakatikatong](https://open.spotify.com/track/33COLW0pVVZq6wgR8zK8aj) | [Soviet Suprem](https://open.spotify.com/artist/2X2ePjwsB7PMG1FbbbLK6C) | [L'Internationale](https://open.spotify.com/album/3KTunf9B8ArXtfpuvi3fbb) | 2:36 | 2022-12-06 |  |
 | [Serre\-moi](https://open.spotify.com/track/2uxTJ3a5PfQK4YuWOXPwFm) | [Tryo](https://open.spotify.com/artist/4ZP3CHz28XWVLGiaVVWuLj) | [Grain de sable](https://open.spotify.com/album/7GMBb8Rly9ZSCIBMlN8Jhw) | 3:49 | 2022-12-06 |  |

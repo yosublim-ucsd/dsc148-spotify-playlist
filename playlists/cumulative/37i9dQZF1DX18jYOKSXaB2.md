@@ -4,7 +4,7 @@
 
 > consider this an RSVP to littest wedding parties
 
-87 songs - 4 hr 32 min
+88 songs - 4 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [CCTV](https://open.spotify.com/track/6t2gwKDfIKmpB52te0mmXM) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf), [Mugeez](https://open.spotify.com/artist/2xU6IU13MYie8RcM54Ovt0), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [As Promised](https://open.spotify.com/album/11sPQhjZhUDue2hWycZJyX) | 4:13 | 2022-02-11 |  |
 | [Colors \(My Baby\)](https://open.spotify.com/track/0lTUcfkmtQPp6mhjC6EBPq) | [Magixx](https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142) | [Colors \(My Baby\) / Loyal](https://open.spotify.com/album/3BNffda5IHaWQe5YVC986B) | 2:44 | 2023-03-24 |  |
 | [Come and See My Moda \(feat\. Yemi Alade\)](https://open.spotify.com/track/5W4iLxBJknbKAjNAUSH2L5) | [MzVee](https://open.spotify.com/artist/5KaayuYfGzUkFP7PfrwVu9), [Yemi Alade](https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW) | [Come and See My Moda \(feat\. Yemi Alade\)](https://open.spotify.com/album/6SHyTplp5zoiYCtmCjCSSi) | 3:40 | 2022-02-11 |  |
+| [Daberechi](https://open.spotify.com/track/1crExoYD5sOsGOr1CLkYND) | [Flavour](https://open.spotify.com/artist/0oKNR4ahj1CPnK2kQmbOfo) | [African Royalty](https://open.spotify.com/album/2bh6NRrRmiKVSST5ia5JpK) | 2:24 | 2023-12-01 |  |
 | [Dollar On You](https://open.spotify.com/track/6ftfTiJhWNZskedEv5ZYM0) | [Kuami Eugene](https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl) | [Dollar On You](https://open.spotify.com/album/2eZBiiR0ojio53AhwS3JPF) | 3:09 | 2022-02-11 | 2022-11-25 |
 | [Duro](https://open.spotify.com/track/4t59zVbRoCgnvyQ9hM3xP1) | [Tekno](https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut) | [Duro](https://open.spotify.com/album/6CIcLjMo4Wjnj2zp6dQSTH) | 3:32 | 2022-02-11 | 2022-10-15 |
 | [Eminado \(feat\. Don Jazzy\)](https://open.spotify.com/track/3Gxold2xHisD55irEJ7du7) | [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc), [Don Jazzy](https://open.spotify.com/artist/3orxvFDFViCLknRO2O2m8a) | [Once Upon a Time](https://open.spotify.com/album/26VFfANkR1FYyyTwtCi4eG) | 3:50 | 2022-02-11 | 2022-09-02 |
@@ -59,7 +60,7 @@
 | [More Of You](https://open.spotify.com/track/0bVugkWRfHhHLPfFFVkHpL) | [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq) | [More Of You](https://open.spotify.com/album/4TLRQqrw55Rq7SFoA3OHic) | 3:00 | 2023-02-03 | 2023-05-20 |
 | [My Darling](https://open.spotify.com/track/1EOCegpfqI77GcoJMo0NdH) | [Akwaboah](https://open.spotify.com/artist/6v01kW0IoqZBoLYu8ZS46Y), [Kwabena Kwabena](https://open.spotify.com/artist/6zKu61RG80pBKOMUbBKNMr) | [My Darling](https://open.spotify.com/album/5kKcj1ekmHXMhqKlXIToml) | 3:19 | 2023-01-29 | 2023-11-10 |
 | [My Man](https://open.spotify.com/track/6VaZy3CmYDMafPC6myZDeZ) | [Yemi Alade](https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW), [Kranium](https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S) | [My Man](https://open.spotify.com/album/2P0BnbvscGJpuGBlCUEIUA) | 3:38 | 2022-04-07 | 2023-03-31 |
-| [My Only Baby](https://open.spotify.com/track/6ZF8NhfpndsCZeCW20i3AH) | [Ric Hassani](https://open.spotify.com/artist/5twTCOm58CXYCqCny4gYcQ) | [My Only Baby](https://open.spotify.com/album/0eWaXC5Yxcwjf4ieDMFUI9) | 2:38 | 2023-01-12 |  |
+| [My Only Baby](https://open.spotify.com/track/6ZF8NhfpndsCZeCW20i3AH) | [Ric Hassani](https://open.spotify.com/artist/5twTCOm58CXYCqCny4gYcQ) | [My Only Baby](https://open.spotify.com/album/0eWaXC5Yxcwjf4ieDMFUI9) | 2:38 | 2023-01-12 | 2023-12-02 |
 | [Naked Wire](https://open.spotify.com/track/5sFwnVasc8RuDlatiNHOXN) | [Simi](https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0) | [Naked Wire](https://open.spotify.com/album/1GOlHRebm95q6OxmRwYdKG) | 2:42 | 2022-05-19 | 2023-03-25 |
 | [Nobody](https://open.spotify.com/track/7MtpW10epOD3sUtURL5ZDu) | [DJ Neptune](https://open.spotify.com/artist/3L4ZO0ZaSe1qeucpQK8tBR), [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Nobody](https://open.spotify.com/album/0ZLCpl3DOiOgsbSssovdgt) | 2:25 | 2022-02-11 |  |
 | [Ohemaa](https://open.spotify.com/track/0kRy7nW9uIdvBK0Xr90U9W) | [Kuami Eugene](https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl), [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V) | [Ohemaa](https://open.spotify.com/album/0gOlMRtoFxvMUAfyLtIJ1h) | 4:05 | 2022-02-11 | 2023-04-15 |

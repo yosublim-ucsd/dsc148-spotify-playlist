@@ -1,12 +1,12 @@
 {
   "description": "F\u00fcr ein bisschen mehr Leichtigkeit.",
-  "num_followers": 349009,
+  "num_followers": 349024,
   "original_name": "Feelgood Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhODRiYjRmNDI4NzQwYjRmMDIzOTljYTY0ZGJiNDkyODk1NjI4Njdm",
+  "snapshot_id": "MCxkOTBmYjA0YzM2YzExZWM1NWYzMzk1MjU3ZTFmNzIxYzIwOTExNDM5",
   "tracks": [
     {
       "added_at": "2023-11-17 17:02:42",
@@ -303,6 +303,22 @@
     {
       "added_at": "2023-11-17 17:02:42",
       "album": {
+        "name": "One Foot In Front Of The Other",
+        "url": "https://open.spotify.com/album/6CR4ozv4yOdaA3f6PPQepA"
+      },
+      "artists": [
+        {
+          "name": "Griff",
+          "url": "https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff"
+        }
+      ],
+      "duration_ms": 152894,
+      "name": "Walk",
+      "url": "https://open.spotify.com/track/6tHISnh1biy5luSS9cvaNc"
+    },
+    {
+      "added_at": "2023-11-17 17:02:42",
+      "album": {
         "name": "All I Know So Far",
         "url": "https://open.spotify.com/album/0uVOhoZbkmOIM4kxJFT2IH"
       },
@@ -331,22 +347,6 @@
       "duration_ms": 182121,
       "name": "Good Without",
       "url": "https://open.spotify.com/track/15OCqNPYoLziEAsbVnqRj5"
-    },
-    {
-      "added_at": "2023-11-17 17:02:42",
-      "album": {
-        "name": "One Foot In Front Of The Other",
-        "url": "https://open.spotify.com/album/6CR4ozv4yOdaA3f6PPQepA"
-      },
-      "artists": [
-        {
-          "name": "Griff",
-          "url": "https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff"
-        }
-      ],
-      "duration_ms": 152894,
-      "name": "Walk",
-      "url": "https://open.spotify.com/track/6tHISnh1biy5luSS9cvaNc"
     },
     {
       "added_at": "2023-11-17 17:02:42",
@@ -383,6 +383,22 @@
     {
       "added_at": "2023-11-17 17:02:42",
       "album": {
+        "name": "If Anything's Left",
+        "url": "https://open.spotify.com/album/6A49EyetnYOdFfM8IWKCqY"
+      },
+      "artists": [
+        {
+          "name": "Jamie Fine",
+          "url": "https://open.spotify.com/artist/4uwJ3NRArTb8VlKbuAFyFG"
+        }
+      ],
+      "duration_ms": 174915,
+      "name": "If Anything's Left",
+      "url": "https://open.spotify.com/track/1CViD4tJqNMF4jjgP5Ug62"
+    },
+    {
+      "added_at": "2023-11-17 17:02:42",
+      "album": {
         "name": "Our Song",
         "url": "https://open.spotify.com/album/0zocAVUSizQ74Cn8nCsN3a"
       },
@@ -399,22 +415,6 @@
       "duration_ms": 163733,
       "name": "Our Song",
       "url": "https://open.spotify.com/track/5zqObw7wjBgL9TDiAymxPn"
-    },
-    {
-      "added_at": "2023-11-17 17:02:42",
-      "album": {
-        "name": "If Anything's Left",
-        "url": "https://open.spotify.com/album/6A49EyetnYOdFfM8IWKCqY"
-      },
-      "artists": [
-        {
-          "name": "Jamie Fine",
-          "url": "https://open.spotify.com/artist/4uwJ3NRArTb8VlKbuAFyFG"
-        }
-      ],
-      "duration_ms": 174915,
-      "name": "If Anything's Left",
-      "url": "https://open.spotify.com/track/1CViD4tJqNMF4jjgP5Ug62"
     },
     {
       "added_at": "2023-11-17 17:02:42",
@@ -467,22 +467,18 @@
     {
       "added_at": "2023-11-17 17:02:42",
       "album": {
-        "name": "Ride",
-        "url": "https://open.spotify.com/album/7dPtQ96HtsmPSq8oWsmkJv"
+        "name": "20s",
+        "url": "https://open.spotify.com/album/4CAB4B2b8yi1NYcqmz3ZDc"
       },
       "artists": [
         {
-          "name": "Nico Santos",
-          "url": "https://open.spotify.com/artist/3A9B6c1CrSPauiOblw7pWz"
-        },
-        {
-          "name": "ClockClock",
-          "url": "https://open.spotify.com/artist/4NSzuIc0eGOftqr0tEOhJk"
+          "name": "Bow Anderson",
+          "url": "https://open.spotify.com/artist/6ObN9YNBliscJOImQp4UZO"
         }
       ],
-      "duration_ms": 169866,
-      "name": "Changes",
-      "url": "https://open.spotify.com/track/0JmcyemnP0RT5C6QdOMjxA"
+      "duration_ms": 184457,
+      "name": "20s",
+      "url": "https://open.spotify.com/track/62Vz24WH66GYadBPFJKwT7"
     },
     {
       "added_at": "2023-11-17 17:02:42",
@@ -503,18 +499,22 @@
     {
       "added_at": "2023-11-17 17:02:42",
       "album": {
-        "name": "20s",
-        "url": "https://open.spotify.com/album/4CAB4B2b8yi1NYcqmz3ZDc"
+        "name": "Ride",
+        "url": "https://open.spotify.com/album/7dPtQ96HtsmPSq8oWsmkJv"
       },
       "artists": [
         {
-          "name": "Bow Anderson",
-          "url": "https://open.spotify.com/artist/6ObN9YNBliscJOImQp4UZO"
+          "name": "Nico Santos",
+          "url": "https://open.spotify.com/artist/3A9B6c1CrSPauiOblw7pWz"
+        },
+        {
+          "name": "ClockClock",
+          "url": "https://open.spotify.com/artist/4NSzuIc0eGOftqr0tEOhJk"
         }
       ],
-      "duration_ms": 184457,
-      "name": "20s",
-      "url": "https://open.spotify.com/track/62Vz24WH66GYadBPFJKwT7"
+      "duration_ms": 169866,
+      "name": "Changes",
+      "url": "https://open.spotify.com/track/0JmcyemnP0RT5C6QdOMjxA"
     },
     {
       "added_at": "2023-11-17 17:02:42",
@@ -719,6 +719,22 @@
     {
       "added_at": "2023-11-17 17:02:42",
       "album": {
+        "name": "99 Nights",
+        "url": "https://open.spotify.com/album/5RHDcbKUJ0isLtDr97nP9P"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Cardin",
+          "url": "https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK"
+        }
+      ],
+      "duration_ms": 183195,
+      "name": "Jim Carrey",
+      "url": "https://open.spotify.com/track/6nTTiI03SJDXC9252gWGrN"
+    },
+    {
+      "added_at": "2023-11-17 17:02:42",
+      "album": {
         "name": "Mehr davon",
         "url": "https://open.spotify.com/album/7u16dLnOhtHtBXt9FAVImm"
       },
@@ -751,38 +767,6 @@
     {
       "added_at": "2023-11-17 17:02:42",
       "album": {
-        "name": "99 Nights",
-        "url": "https://open.spotify.com/album/5RHDcbKUJ0isLtDr97nP9P"
-      },
-      "artists": [
-        {
-          "name": "Charlotte Cardin",
-          "url": "https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK"
-        }
-      ],
-      "duration_ms": 183195,
-      "name": "Jim Carrey",
-      "url": "https://open.spotify.com/track/6nTTiI03SJDXC9252gWGrN"
-    },
-    {
-      "added_at": "2023-11-17 17:02:42",
-      "album": {
-        "name": "Best Night Ever",
-        "url": "https://open.spotify.com/album/1fPkLLMbiHl9v9L2JyBVoJ"
-      },
-      "artists": [
-        {
-          "name": "Laurell",
-          "url": "https://open.spotify.com/artist/69Pm1OWlxk1tbYphlkcKHR"
-        }
-      ],
-      "duration_ms": 133142,
-      "name": "Best Night Ever",
-      "url": "https://open.spotify.com/track/3WPLO5uBmbT050ogKdxT5C"
-    },
-    {
-      "added_at": "2023-11-17 17:02:42",
-      "album": {
         "name": "Sie",
         "url": "https://open.spotify.com/album/1cX0czWPIRtDrC5kdMiNB1"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 184915,
       "name": "miss me (when you're gone)",
       "url": "https://open.spotify.com/track/33eSunUHnta6mPW3EoTuRw"
+    },
+    {
+      "added_at": "2023-11-17 17:02:42",
+      "album": {
+        "name": "Best Night Ever",
+        "url": "https://open.spotify.com/album/1fPkLLMbiHl9v9L2JyBVoJ"
+      },
+      "artists": [
+        {
+          "name": "Laurell",
+          "url": "https://open.spotify.com/artist/69Pm1OWlxk1tbYphlkcKHR"
+        }
+      ],
+      "duration_ms": 133142,
+      "name": "Best Night Ever",
+      "url": "https://open.spotify.com/track/3WPLO5uBmbT050ogKdxT5C"
     },
     {
       "added_at": "2023-11-17 17:02:42",
@@ -1043,38 +1043,6 @@
     {
       "added_at": "2023-11-17 17:02:42",
       "album": {
-        "name": "How Many Moons",
-        "url": "https://open.spotify.com/album/52UTuP81SsIORoHYbDjWc9"
-      },
-      "artists": [
-        {
-          "name": "LUI HILL",
-          "url": "https://open.spotify.com/artist/3fuo46vtxoWxN4jo0irBTS"
-        }
-      ],
-      "duration_ms": 183635,
-      "name": "How Many Moons",
-      "url": "https://open.spotify.com/track/6iF73wEQMGzFeSh8hob5so"
-    },
-    {
-      "added_at": "2023-11-17 17:02:42",
-      "album": {
-        "name": "Remember Roses",
-        "url": "https://open.spotify.com/album/2Dpk21DBj28JDsfpkrPj5Z"
-      },
-      "artists": [
-        {
-          "name": "Lola Marsh",
-          "url": "https://open.spotify.com/artist/56UIK6wmbbxuQ6VA20vrWD"
-        }
-      ],
-      "duration_ms": 192613,
-      "name": "Wishing Girl",
-      "url": "https://open.spotify.com/track/2iawlVRHk4Q9aPg0OgG20D"
-    },
-    {
-      "added_at": "2023-11-17 17:02:42",
-      "album": {
         "name": "Somewhere in Between",
         "url": "https://open.spotify.com/album/2ioXVlyRQygY6wU5V04IUv"
       },
@@ -1103,6 +1071,38 @@
       "duration_ms": 151307,
       "name": "Last Call",
       "url": "https://open.spotify.com/track/4EXfwVdsRBBcyuSSy3CMlT"
+    },
+    {
+      "added_at": "2023-11-17 17:02:42",
+      "album": {
+        "name": "Remember Roses",
+        "url": "https://open.spotify.com/album/2Dpk21DBj28JDsfpkrPj5Z"
+      },
+      "artists": [
+        {
+          "name": "Lola Marsh",
+          "url": "https://open.spotify.com/artist/56UIK6wmbbxuQ6VA20vrWD"
+        }
+      ],
+      "duration_ms": 192613,
+      "name": "Wishing Girl",
+      "url": "https://open.spotify.com/track/2iawlVRHk4Q9aPg0OgG20D"
+    },
+    {
+      "added_at": "2023-11-17 17:02:42",
+      "album": {
+        "name": "How Many Moons",
+        "url": "https://open.spotify.com/album/52UTuP81SsIORoHYbDjWc9"
+      },
+      "artists": [
+        {
+          "name": "LUI HILL",
+          "url": "https://open.spotify.com/artist/3fuo46vtxoWxN4jo0irBTS"
+        }
+      ],
+      "duration_ms": 183635,
+      "name": "How Many Moons",
+      "url": "https://open.spotify.com/track/6iF73wEQMGzFeSh8hob5so"
     },
     {
       "added_at": "2023-11-17 17:02:42",
@@ -1159,18 +1159,18 @@
     {
       "added_at": "2023-11-17 17:02:42",
       "album": {
-        "name": "Year of the Young",
-        "url": "https://open.spotify.com/album/0WNXPe1PeWAhFMfsXj1iPi"
+        "name": "ROOKERY",
+        "url": "https://open.spotify.com/album/28WPMClVfDtMHaNrrjbPcX"
       },
       "artists": [
         {
-          "name": "Smith & Thell",
-          "url": "https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90"
+          "name": "Giant Rooks",
+          "url": "https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb"
         }
       ],
-      "duration_ms": 164200,
-      "name": "Year of the Young",
-      "url": "https://open.spotify.com/track/6J7U49QGecWb3WqIqfSYc0"
+      "duration_ms": 194480,
+      "name": "Wild Stare",
+      "url": "https://open.spotify.com/track/6NZUOG0R0uxIBkcQ6BIqfq"
     }
   ],
   "unique_name": "Feelgood Pop",

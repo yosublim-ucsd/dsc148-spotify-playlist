@@ -2,7 +2,7 @@
 
 ### [Mixto](https://open.spotify.com/playlist/37i9dQZF1DX7qRKBHjmYIE)
 
-> De aquí y de allá \~ un poquito de todo ✨ en un vibe con Cami.
+> De aquí y de allá \~ un poquito de todo ✨ en un vibe con RaiNao.
 
 601 songs - 1 day 8 hr 42 min
 
@@ -55,7 +55,7 @@
 | [Bagels y Café](https://open.spotify.com/track/1bkMM9f67Taz4VhE0eswro) | [Ben Aler](https://open.spotify.com/artist/0jMMS87c4v40JITdDE0c1R) | [Bagels y Café](https://open.spotify.com/album/0LxNYYgAewdpU7HQiPYtg4) | 2:46 | 2023-08-25 | 2023-09-30 |
 | [Bahía](https://open.spotify.com/track/03qTulY2kLiHtDAPle9Kni) | [Disco Bahía](https://open.spotify.com/artist/31Wb354M8kymhMPAvwF7I4), [Coco Santos](https://open.spotify.com/artist/1RE9sQKBfhkaeNVSJ0q6Sg), [Noah Pino Palo](https://open.spotify.com/artist/5AxhSiFtedc06KsccxoC21) | [Bahía](https://open.spotify.com/album/7KzRg7ILqnaKK3XtxtgGp3) | 3:01 | 2023-02-17 | 2023-07-22 |
 | [Bailarina](https://open.spotify.com/track/00OfXYqKd5xrXPuNnn5Icc) | [La Dame Blanche](https://open.spotify.com/artist/6u4VjE5cKZRnY451pcfhbG), [Mula](https://open.spotify.com/artist/7bWZkUZ5drGDoGAFhGoYGE) | [Bailarina](https://open.spotify.com/album/7CQIunrfn8Rus0IljNgQe1) | 3:06 | 2023-07-21 | 2023-08-05 |
-| [Barbed Wire](https://open.spotify.com/track/0Q5D0qPpJ30jLY9l5GK5Dm) | [Sofía Valdés](https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT) | [Silvia](https://open.spotify.com/album/1wI1VI8bdgUsK7HhQO0s3l) | 3:22 | 2023-08-25 | 2023-11-29 |
+| [Barbed Wire](https://open.spotify.com/track/0Q5D0qPpJ30jLY9l5GK5Dm) | [Sofía Valdés](https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT) | [Silvia](https://open.spotify.com/album/1wI1VI8bdgUsK7HhQO0s3l) | 3:22 | 2023-08-25 |  |
 | [Barco](https://open.spotify.com/track/2x6pJL7zRMTT4GMLWcUTLL) | [Noa Sainz](https://open.spotify.com/artist/3kN2uYBnEM2IqRxa69sxkr), [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu) | [Barco](https://open.spotify.com/album/4kBwg7WWtpNMnm4LfNYXkK) | 3:58 | 2023-06-23 | 2023-08-26 |
 | [Be Mine](https://open.spotify.com/track/2obd4xYbCzz5mj6PMED9RR) | [boy pablo](https://open.spotify.com/artist/7wbkl3zgDZEoZer357mVIw) | [Be Mine](https://open.spotify.com/album/0tzapKoaFjcoNf3smm1Stm) | 2:44 | 2023-01-10 | 2023-02-17 |
 | [Bebé](https://open.spotify.com/track/6S7MMCxzavFIbqXEleji7X) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2), [Simon Grossmann](https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ) | [Bebé](https://open.spotify.com/album/31K2ZG9GMEVrUrVqyO94KP) | 2:55 | 2023-07-07 | 2023-09-16 |
@@ -375,7 +375,7 @@
 | [Nela](https://open.spotify.com/track/1E1TL6lHV2jwnuqRbzSAKx) | [LATENIGHTJIGGY](https://open.spotify.com/artist/34OTRVwyaE8DkOrGMQa7Ah) | [Nela](https://open.spotify.com/album/4nf0rIuMZG82HUKYWCzzID) | 2:43 | 2022-07-22 | 2022-10-28 |
 | [Nervios de Acero](https://open.spotify.com/track/5AtOFc69R8iYQlShJoXB3n) | [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw) | [Nervios de Acero](https://open.spotify.com/album/0Q1CgNC7kxF5R1Ln5LfTO2) | 3:07 | 2023-11-24 |  |
 | [Never Felt So Alone](https://open.spotify.com/track/2NbsBSshscKIPRG3kwBbfo) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Never Felt So Alone](https://open.spotify.com/album/33JqWTchq6piiQddrRIvJX) | 2:40 | 2023-04-13 | 2023-05-13 |
-| [neverland](https://open.spotify.com/track/6xFXHnsyPE53Um8AwsQuyy) | [Pink Pablo](https://open.spotify.com/artist/6grKEGFYz5bqq0IQraQhsQ) | [road 2 neverland](https://open.spotify.com/album/1c6VYaOgWJtYX7emSWJNp8) | 2:24 | 2023-11-10 |  |
+| [neverland](https://open.spotify.com/track/6xFXHnsyPE53Um8AwsQuyy) | [Pink Pablo](https://open.spotify.com/artist/6grKEGFYz5bqq0IQraQhsQ) | [road 2 neverland](https://open.spotify.com/album/1c6VYaOgWJtYX7emSWJNp8) | 2:24 | 2023-11-10 | 2023-12-02 |
 | [Ni bien ni mal](https://open.spotify.com/track/6KUQvfFKLMF2fL3xFXoZbG) | [Vic Mirallas](https://open.spotify.com/artist/08VkVB0giqumfUMl4Ea922), [Sabino](https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy) | [Ni bien ni mal](https://open.spotify.com/album/6rWFTuLNpePpP8cCx83uVs) | 2:50 | 2023-02-17 | 2023-03-02 |
 | [Nieve](https://open.spotify.com/track/66uR26h9WTxwKhJCWnz5J9) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Nieve](https://open.spotify.com/album/4axBgdQOZogTmpgKNQQr1C) | 2:20 | 2022-05-06 | 2022-10-29 |
 | [Nights](https://open.spotify.com/track/7eqoqGkKwgOaWNNHx90uEZ) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [Blonde](https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf) | 5:07 | 2023-01-10 | 2023-02-03 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-15",
-  "description": "n\u00fc-metal revival is happening here and now with Dope.",
+  "description": "n\u00fc-metal revival is happening here and now with P.O.D and Tatiana from Jinjer.",
   "name": "new n\u00fc",
   "tracks": [
     {
@@ -74,6 +74,32 @@
       "duration_ms": 210133,
       "name": "A Million Watts",
       "url": "https://open.spotify.com/track/32FJsFEX94WIb5nio2jhnq"
+    },
+    {
+      "album": {
+        "name": "AFRAID TO DIE",
+        "url": "https://open.spotify.com/album/2kObu5MHhR6BCsvgtptz2T"
+      },
+      "artists": [
+        {
+          "name": "P.O.D.",
+          "url": "https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU"
+        },
+        {
+          "name": "Tatiana Shmayluk",
+          "url": "https://open.spotify.com/artist/4jUJBAkaX0Foc8fjhuyfpa"
+        },
+        {
+          "name": "Jinjer",
+          "url": "https://open.spotify.com/artist/7o6cOczXTB8ioTAAJTbESf"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184215,
+      "name": "AFRAID TO DIE (feat. Tatiana Shmayluk from Jinjer)",
+      "url": "https://open.spotify.com/track/0MVhJOLU3VhNRzWLwTtA26"
     },
     {
       "album": {
@@ -472,7 +498,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 191208,
       "name": "DROP (feat. Randy Blythe)",
       "url": "https://open.spotify.com/track/0EYW7sCfFn9QnuFsSGAt33"

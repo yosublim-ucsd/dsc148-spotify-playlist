@@ -4,7 +4,7 @@
 
 > ¡Rolas pa' sacar las chelas y el tequila!
 
-484 songs - 1 day 1 hr 57 min
+485 songs - 1 day 2 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -151,7 +151,7 @@
 | [El Compa Carlos \- En Vivo](https://open.spotify.com/track/0oZgRqBtQbfB8zkJNQGUTr) | [Panchito Arredondo](https://open.spotify.com/artist/1enyvmNKgt4BIIkVnt9FAV) | [Golpe de Estado \(En Vivo\)](https://open.spotify.com/album/4HKp5Ouc9lHtJvwlYhlcFg) | 2:15 | 2022-08-05 | 2022-10-15 |
 | [El Costal Lleno de Piedras](https://open.spotify.com/track/16fL1etDVvRrk2iMUIIP9m) | [Los Alegres Del Barranco](https://open.spotify.com/artist/2TSslwx9J30KElgEr68sdv) | [Me Dan Celos](https://open.spotify.com/album/3xE8t0KYA1jmAjjMNxid2Y) | 3:05 | 2022-10-14 | 2022-10-22 |
 | [El Del Palenque](https://open.spotify.com/track/1xSNfnlL5T1sS4TExHjJv1) | [Los Alegres Del Barranco](https://open.spotify.com/artist/2TSslwx9J30KElgEr68sdv) | [El Del Palenque](https://open.spotify.com/album/4KRYoYUVQeKVkQSSQBnN6u) | 3:12 | 2022-10-21 |  |
-| [El Dia Que Puedas](https://open.spotify.com/track/2irOqljUpmxU16GCq8mZ6U) | [Sergio Vega "El Shaka"](https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L) | [Atraves de la Luna](https://open.spotify.com/album/5WTFgzxPRmlbYtoiZK8xk2) | 4:09 | 2022-10-21 |  |
+| [El Dia Que Puedas](https://open.spotify.com/track/2irOqljUpmxU16GCq8mZ6U) | [Sergio Vega "El Shaka"](https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L) | [Atraves de la Luna](https://open.spotify.com/album/5WTFgzxPRmlbYtoiZK8xk2) | 4:09 | 2022-10-21 | 2023-12-02 |
 | [El Diablo en una Botella](https://open.spotify.com/track/06Ag46XtTh7tej1R8INHAK) | [Voces Del Rancho](https://open.spotify.com/artist/1fGlKY2s0o51QUA9gScpWR) | [Chiquilla Hermosa](https://open.spotify.com/album/5xaiMSDAGhq2W6UuOqoXZ7) | 3:13 | 2022-05-20 | 2022-08-06 |
 | [El Dinero Los Cambio](https://open.spotify.com/track/4kgZoTVXtWLcDgs0M5Coiz) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [El Dinero Los Cambio](https://open.spotify.com/album/5qVzF9aMHohPPTb2wO6gh4) | 3:04 | 2022-05-20 | 2023-01-01 |
 | [El Disgusto](https://open.spotify.com/track/4iqtAVs3kzqqPCri14en3D) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [40 Éxitos](https://open.spotify.com/album/7L9TeAqSwkvSkFzyogoVxd) | 2:27 | 2022-05-20 | 2023-10-07 |
@@ -315,6 +315,7 @@
 | [Mis Palomitas](https://open.spotify.com/track/6a4xUMxKcyHvtaJwfvsw1a) | [Patricio Valdez](https://open.spotify.com/artist/1pbATczMMPRMFSWYfF2PG5) | [Mis Palomitas](https://open.spotify.com/album/0j28oOMVatkcdWKt6mSN6I) | 4:06 | 2023-04-14 | 2023-05-16 |
 | [Mis Raíces](https://open.spotify.com/track/6d0JsZ14cVI4pkFFJl8wb5) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv), [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Cabrones y Vagos](https://open.spotify.com/album/0L6b2Rdy7a4OTY092E5Ei1) | 2:33 | 2022-05-20 | 2023-08-26 |
 | [Mis Tres Animales](https://open.spotify.com/track/3bDjUO2LwwEOZsTQotZ1in) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [Corridos A Quema Ropa](https://open.spotify.com/album/6roTGjh0yLNKpZil7EZCVK) | 2:43 | 2022-05-20 | 2023-11-25 |
+| [Modo Bélico](https://open.spotify.com/track/3CgxeAyptLB0YyusCdfcoD) | [Gerardo Coronel](https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC), [Mariano Rubio](https://open.spotify.com/artist/74B8j6nP547jnC3BgQkNVX) | [Modo Bélico](https://open.spotify.com/album/0w61HjlC1WbULi8XS0Y1y1) | 3:13 | 2023-11-24 |  |
 | [Modo Crudo \- Versión Banda](https://open.spotify.com/track/21VxcprEejJWPVNHxA23Hs) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Modo Crudo \(Versión Banda\)](https://open.spotify.com/album/2miY1Si17V3AvA1YXe8O5k) | 2:08 | 2022-12-24 |  |
 | [Mood Malandro](https://open.spotify.com/track/0zhymr6RqNuvp0RMIvdpdA) | [Código FN](https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Mood Malandro](https://open.spotify.com/album/6x60IHS4WQeKN2xSxPSJbr) | 3:11 | 2023-10-06 |  |
 | [Muchacho Alegre \- En Vivo Desde Los Mochis, Sinaloa Mexico/2009](https://open.spotify.com/track/3V0ku0m2uSRdHCosSdaQMg) | [Chuy Lizarraga y Su Banda Tierra Sinaloense](https://open.spotify.com/artist/1DA8SLXtp8MMVpgaOWzMQr) | [15 Exitos](https://open.spotify.com/album/2UvvgAy7KExgLA8BVLEtjS) | 2:44 | 2022-05-20 | 2022-08-06 |

@@ -2,9 +2,9 @@
 
 ### [Spilled Ink](https://open.spotify.com/playlist/37i9dQZF1DWSTeI2WWFaia)
 
-> Lyrical, lo\-fi, and lowlife raps\. Cover: Westside Gunn
+> Lyrical, lo\-fi, and lowlife raps\. Cover: Mark Battles
 
-574 songs - 1 day 6 hr 32 min
+575 songs - 1 day 6 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,7 +58,7 @@
 | [Bash money \(feat\. Lil Wayne\)](https://open.spotify.com/track/7KOV7goz91wTufZxO51Ebn) | [Westside Gunn](https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Hitler Wears Hermes 8: Sincerely Adolf](https://open.spotify.com/album/0M5cyXHBV0en8q02019vaC) | 2:27 | 2021-09-03 | 2022-02-25 |
 | [Beat Breaks \(feat\. Nas\)](https://open.spotify.com/track/34rwJDeFgvZXd9KtiBkQKI) | [DJ Premier](https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7), [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q) | [Hip Hop 50: Vol\. 1](https://open.spotify.com/album/3YQRfcAxfqX4KJt4o0yCTm) | 2:39 | 2022-07-15 | 2022-07-30 |
 | [beautiful brixton](https://open.spotify.com/track/3oh4wdsN5xVsKcWlIvgQH2) | [Goya Gumbani](https://open.spotify.com/artist/0Up93b7Ut6uacH5Zv8sBkx) | [beautiful brixton](https://open.spotify.com/album/6dedBIUKeKk7kGRxZ1rKy3) | 1:27 | 2021-09-03 | 2022-02-23 |
-| [beauty supply](https://open.spotify.com/track/4oevXziJVFARkGMty2HdFF) | [Noname](https://open.spotify.com/artist/1EpyA68dKpjf7jXmQL88Hy) | [Sundial](https://open.spotify.com/album/1RThtoZbeE7OQHMBzaBCJt) | 3:13 | 2023-08-11 |  |
+| [beauty supply](https://open.spotify.com/track/4oevXziJVFARkGMty2HdFF) | [Noname](https://open.spotify.com/artist/1EpyA68dKpjf7jXmQL88Hy) | [Sundial](https://open.spotify.com/album/1RThtoZbeE7OQHMBzaBCJt) | 3:13 | 2023-08-11 | 2023-12-02 |
 | [Because \(feat\. Joey Bada$$, Russ, and Dylan Cartlidge\)](https://open.spotify.com/track/7ulKIiSeTO1P4kY6vh7RhV) | [Danger Mouse](https://open.spotify.com/artist/2dBj3prW7gP9bCCOIQeDUf), [Black Thought](https://open.spotify.com/artist/6DJEUXZm0e2rAohdoZ5Voo), [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS), [Dylan Cartlidge](https://open.spotify.com/artist/0ofvvakxXcRhIy5fgIoB9z), [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH) | [Because \(feat\. Joey Bada$$, Russ, and Dylan Cartlidge\)](https://open.spotify.com/album/1L87V0tvYy44z5A0F8dyUr) | 4:41 | 2022-06-10 | 2022-08-06 |
 | [Becoming](https://open.spotify.com/track/3XnjwiaFgTM45NmfCtDldk) | [Millyz](https://open.spotify.com/artist/7dDYME7Y3GoEQotd8gUvQg), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Blanco 6](https://open.spotify.com/album/2yRwXVqJ8Bz1jYUEghIsTk) | 2:51 | 2023-04-07 | 2023-05-13 |
 | [Been To War \(feat\. Swizz Beatz, DMX & French Montana\)](https://open.spotify.com/track/3Eeekirm1H9JfvnAMvajph) | [Godfather of Harlem](https://open.spotify.com/artist/6ss7NRk9Y2P9n8q1yH2HXA), [Swizz Beatz](https://open.spotify.com/artist/2cADQgiLMjNhbsfeN52Bf3), [DMX](https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG), [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv) | [Been To War \(feat\. Swizz Beatz, DMX & French Montana\)](https://open.spotify.com/album/1rXLrVXI5ijoJoLjGa67Sz) | 3:07 | 2022-03-25 | 2022-04-20 |
@@ -278,6 +278,7 @@
 | [Kill Switch](https://open.spotify.com/track/6L7vf5MEgmwnfkSnNdI84y) | [Navy Blue](https://open.spotify.com/artist/5qRbfEf4Ooo19aRXKQzvUV), [J Rocc](https://open.spotify.com/artist/76Bkn226zbX3IMiEiLC2h2) | [Ways of Knowing](https://open.spotify.com/album/65buOcLOPAzBGLeW46tIDO) | 3:21 | 2023-04-21 | 2023-05-04 |
 | [Kill Us All \(K.U.A.\)](https://open.spotify.com/track/4khHOhzkrjNSiRzusudtJG) | [Meechy Darko](https://open.spotify.com/artist/5QRlmTynCos8JyojtmgNq6) | [Kill Us All \(K.U.A.\)](https://open.spotify.com/album/45pno56u3r8vGvDh2oijn6) | 3:42 | 2022-06-17 | 2022-07-28 |
 | [King's Blvd 2](https://open.spotify.com/track/7pQXGnceGhu1hRQkG5g7I7) | [Nana](https://open.spotify.com/artist/40mGQmqwScWdeqW08ff7vu) | [Save Yourself](https://open.spotify.com/album/084WGSgugXmYrsJRMeIRaB) | 3:08 | 2021-09-03 | 2022-06-06 |
+| [Kobe Season](https://open.spotify.com/track/0x3uu7hZ4AzK91djvxPagF) | [Millyz](https://open.spotify.com/artist/7dDYME7Y3GoEQotd8gUvQg), [Benny The Butcher](https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T) | [Holy Water](https://open.spotify.com/album/0vvsV9PgoX1kSkwjmHTN2A) | 3:18 | 2023-12-01 |  |
 | [LALO \(feat\. 38 Spesh\)](https://open.spotify.com/track/3EIlWD3juq0RGLIeRGFdYp) | [Conway the Machine](https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS), [Benny The Butcher](https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T), [38 Spesh](https://open.spotify.com/artist/32cT1WQRSDg4xsReG7eqyT) | [LALO \(feat\. 38 Spesh\)](https://open.spotify.com/album/7Gi78mhePGXf2ILo3Kj7Tn) | 4:40 | 2023-06-30 | 2023-08-09 |
 | [Laps Around the Sun](https://open.spotify.com/track/4zS1GPmECl7sac60w9ntFm) | [Jim Jones](https://open.spotify.com/artist/6AMa1VFQ7qCi61tCRtVWXe), [Harry Fraud](https://open.spotify.com/artist/37ASGd4rWpHjuVonnYAN6S) | [Laps Around the Sun](https://open.spotify.com/album/7C1pWGjpYTmFBcQ2fp0mWw) | 2:02 | 2021-09-03 | 2022-06-22 |
 | [Latex Gloves](https://open.spotify.com/track/74sE79ReizotiesesgUm90) | [38 Spesh](https://open.spotify.com/artist/32cT1WQRSDg4xsReG7eqyT), [Conway the Machine](https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS), [Lloyd Banks](https://open.spotify.com/artist/3vDUJHQtqT3jFRZ2ECXDTi) | [Latex Gloves](https://open.spotify.com/album/4KSSTRoBSZNdEFeVHUZpMB) | 3:18 | 2023-08-25 | 2023-09-23 |

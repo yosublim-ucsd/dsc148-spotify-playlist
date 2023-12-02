@@ -1,32 +1,60 @@
 {
-  "description": "Keep your finger on the pulse of Americana. Cover: The War & Treaty",
-  "num_followers": 613767,
+  "description": "Keep your finger on the pulse of Americana. Cover: Jess Williamson",
+  "num_followers": 613790,
   "original_name": "The Pulse of Americana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNmNlMDBiZTMzYzMyODQyNmFiNWQwMmJkZmYyZmQyZjJjN2E0NzM1",
+  "snapshot_id": "MCw2ODIwMzE3ODc3OTFmMDRlNzk1YjQ2ZDFjMThlNDNmZDZmZDRiYTIy",
   "tracks": [
     {
-      "added_at": "2023-11-17 05:00:00",
+      "added_at": "2023-11-10 20:04:35",
       "album": {
-        "name": "Crossing Lines",
-        "url": "https://open.spotify.com/album/0iXQJDkspV7JKEcpm6G1uu"
+        "name": "Strangers No More",
+        "url": "https://open.spotify.com/album/5tnxqWDBONuqqZ3vLSUSJV"
       },
       "artists": [
         {
-          "name": "Tanner Usrey",
-          "url": "https://open.spotify.com/artist/1ZGVS1OWpdvELiQyx3vkO7"
-        },
-        {
-          "name": "Ella Langley",
-          "url": "https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8"
+          "name": "Drew Holcomb & The Neighbors",
+          "url": "https://open.spotify.com/artist/4RwbDag6jWIYJnEGH6Wte9"
         }
       ],
-      "duration_ms": 232763,
-      "name": "Beautiful Lies",
-      "url": "https://open.spotify.com/track/4CJQwcIon6uKc3gfIivuhS"
+      "duration_ms": 194093,
+      "name": "Find Your People",
+      "url": "https://open.spotify.com/track/5htghP7rThIe6oXBN6uYI5"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
+        "name": "Time Ain't Accidental",
+        "url": "https://open.spotify.com/album/3T3RUDuZbP288R9a92JVFB"
+      },
+      "artists": [
+        {
+          "name": "Jess Williamson",
+          "url": "https://open.spotify.com/artist/784kOgkd1H6jU4KgPMYHi9"
+        }
+      ],
+      "duration_ms": 228760,
+      "name": "Hunter",
+      "url": "https://open.spotify.com/track/6MT3BGYBY4J7rbr4TEvqml"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
+        "name": "Country Covers",
+        "url": "https://open.spotify.com/album/2f8UzftZMxyzkv3bqhssAp"
+      },
+      "artists": [
+        {
+          "name": "Josiah and the Bonnevilles",
+          "url": "https://open.spotify.com/artist/3FMcVBx2TMq2f5gEPcUieC"
+        }
+      ],
+      "duration_ms": 198274,
+      "name": "Jersey Giant",
+      "url": "https://open.spotify.com/track/0Mq6UjfEgvHkNDv6DPow94"
     },
     {
       "added_at": "2023-11-10 20:04:35",
@@ -49,20 +77,84 @@
       "url": "https://open.spotify.com/track/4pCbJC43j3gSqG6Fen6upD"
     },
     {
-      "added_at": "2023-11-17 05:00:00",
+      "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "Life Lessons",
-        "url": "https://open.spotify.com/album/7pvSshGK1UHAQEQAC1o7yv"
+        "name": "Weathervanes",
+        "url": "https://open.spotify.com/album/2gL0IM5SYhCxJebPaKdDkx"
       },
       "artists": [
         {
-          "name": "Wyatt Flores",
-          "url": "https://open.spotify.com/artist/46lEQmDJLJeyltECJYJv1Y"
+          "name": "Jason Isbell and the 400 Unit",
+          "url": "https://open.spotify.com/artist/3Lg3FGwBxOGuefqekQzRUf"
         }
       ],
-      "duration_ms": 195505,
-      "name": "Life Lessons",
-      "url": "https://open.spotify.com/track/0VFwBPIBEuveQTxrm5OerM"
+      "duration_ms": 204014,
+      "name": "Cast Iron Skillet",
+      "url": "https://open.spotify.com/track/30xTTsQlMrkhisyvxzEIpX"
+    },
+    {
+      "added_at": "2023-11-10 20:04:35",
+      "album": {
+        "name": "Mountain Song",
+        "url": "https://open.spotify.com/album/2LSEZyWtzulIr0vS1mD4Xy"
+      },
+      "artists": [
+        {
+          "name": "Flatland Cavalry",
+          "url": "https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav"
+        }
+      ],
+      "duration_ms": 249920,
+      "name": "Mountain Song",
+      "url": "https://open.spotify.com/track/2mDdkeVuUsyIepwzLCxuu6"
+    },
+    {
+      "added_at": "2023-11-10 20:04:35",
+      "album": {
+        "name": "Kid",
+        "url": "https://open.spotify.com/album/5LqoF8G9MsNme4b8DpBExe"
+      },
+      "artists": [
+        {
+          "name": "The Revivalists",
+          "url": "https://open.spotify.com/artist/5kuJibJcwOC53s3OkoGMRA"
+        }
+      ],
+      "duration_ms": 208253,
+      "name": "Kid",
+      "url": "https://open.spotify.com/track/24TzmWrz2HHWV3UO5PlvNb"
+    },
+    {
+      "added_at": "2023-11-10 20:04:35",
+      "album": {
+        "name": "Mean Old Sun",
+        "url": "https://open.spotify.com/album/3iQR8qK9tsam26456UNnmk"
+      },
+      "artists": [
+        {
+          "name": "Turnpike Troubadours",
+          "url": "https://open.spotify.com/artist/1YSA4byX5AL1zoTsSTlB03"
+        }
+      ],
+      "duration_ms": 248706,
+      "name": "Mean Old Sun",
+      "url": "https://open.spotify.com/track/4kXeBpZekIq5f6I6hFcNk5"
+    },
+    {
+      "added_at": "2023-11-10 20:04:35",
+      "album": {
+        "name": "Kentucky Blue",
+        "url": "https://open.spotify.com/album/5vLD7cTnfTa8407z7ljNsX"
+      },
+      "artists": [
+        {
+          "name": "Brit Taylor",
+          "url": "https://open.spotify.com/artist/5TEiV7NyfVSUuVGxTVEHYC"
+        }
+      ],
+      "duration_ms": 227573,
+      "name": "No Cowboys",
+      "url": "https://open.spotify.com/track/19fuc8JoaMoK5dNpKNTwVu"
     },
     {
       "added_at": "2023-11-30 17:49:27",
@@ -83,6 +175,74 @@
       "duration_ms": 193591,
       "name": "Nothing You Can Take From Me (Boot-Stompin' Version) - from The Hunger Games: The Ballad of Songbirds & Snakes",
       "url": "https://open.spotify.com/track/4ck5SWSXlSUVHhYjq9Cb8L"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
+        "name": "Celebrants",
+        "url": "https://open.spotify.com/album/2ruZGj3O7oL91f9re3BXLq"
+      },
+      "artists": [
+        {
+          "name": "Nickel Creek",
+          "url": "https://open.spotify.com/artist/3bcLBxvaI7GsBzGp3WHnwQ"
+        }
+      ],
+      "duration_ms": 203506,
+      "name": "Celebrants",
+      "url": "https://open.spotify.com/track/2oiIZsx8TsmnKF5TvY42aq"
+    },
+    {
+      "added_at": "2023-11-10 20:04:35",
+      "album": {
+        "name": "The Returner",
+        "url": "https://open.spotify.com/album/1gQi88Gj1UGV8ZBzYJjJ3i"
+      },
+      "artists": [
+        {
+          "name": "Allison Russell",
+          "url": "https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6"
+        }
+      ],
+      "duration_ms": 230920,
+      "name": "The Returner",
+      "url": "https://open.spotify.com/track/4qNolArPDQFWFDY9CV6gho"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "Crossing Lines",
+        "url": "https://open.spotify.com/album/0iXQJDkspV7JKEcpm6G1uu"
+      },
+      "artists": [
+        {
+          "name": "Tanner Usrey",
+          "url": "https://open.spotify.com/artist/1ZGVS1OWpdvELiQyx3vkO7"
+        },
+        {
+          "name": "Ella Langley",
+          "url": "https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8"
+        }
+      ],
+      "duration_ms": 232763,
+      "name": "Beautiful Lies",
+      "url": "https://open.spotify.com/track/4CJQwcIon6uKc3gfIivuhS"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "Life Lessons",
+        "url": "https://open.spotify.com/album/7pvSshGK1UHAQEQAC1o7yv"
+      },
+      "artists": [
+        {
+          "name": "Wyatt Flores",
+          "url": "https://open.spotify.com/artist/46lEQmDJLJeyltECJYJv1Y"
+        }
+      ],
+      "duration_ms": 195505,
+      "name": "Life Lessons",
+      "url": "https://open.spotify.com/track/0VFwBPIBEuveQTxrm5OerM"
     },
     {
       "added_at": "2023-11-10 20:04:35",
@@ -119,22 +279,6 @@
       "duration_ms": 168705,
       "name": "Alibi",
       "url": "https://open.spotify.com/track/67LSydi0LL1jlubbA7F5st"
-    },
-    {
-      "added_at": "2023-11-10 20:04:35",
-      "album": {
-        "name": "The Returner",
-        "url": "https://open.spotify.com/album/1gQi88Gj1UGV8ZBzYJjJ3i"
-      },
-      "artists": [
-        {
-          "name": "Allison Russell",
-          "url": "https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6"
-        }
-      ],
-      "duration_ms": 230920,
-      "name": "The Returner",
-      "url": "https://open.spotify.com/track/4qNolArPDQFWFDY9CV6gho"
     },
     {
       "added_at": "2023-11-10 20:04:35",
@@ -467,22 +611,6 @@
     {
       "added_at": "2023-11-10 20:04:35",
       "album": {
-        "name": "Strangers No More",
-        "url": "https://open.spotify.com/album/5tnxqWDBONuqqZ3vLSUSJV"
-      },
-      "artists": [
-        {
-          "name": "Drew Holcomb & The Neighbors",
-          "url": "https://open.spotify.com/artist/4RwbDag6jWIYJnEGH6Wte9"
-        }
-      ],
-      "duration_ms": 194093,
-      "name": "Find Your People",
-      "url": "https://open.spotify.com/track/5htghP7rThIe6oXBN6uYI5"
-    },
-    {
-      "added_at": "2023-11-10 20:04:35",
-      "album": {
         "name": "Mornings With You (with Kaitlin Butts)",
         "url": "https://open.spotify.com/album/1UkSXpE3GpdEPenT83tsnW"
       },
@@ -599,22 +727,6 @@
     {
       "added_at": "2023-11-10 20:04:35",
       "album": {
-        "name": "Weathervanes",
-        "url": "https://open.spotify.com/album/2gL0IM5SYhCxJebPaKdDkx"
-      },
-      "artists": [
-        {
-          "name": "Jason Isbell and the 400 Unit",
-          "url": "https://open.spotify.com/artist/3Lg3FGwBxOGuefqekQzRUf"
-        }
-      ],
-      "duration_ms": 237703,
-      "name": "When We Were Close",
-      "url": "https://open.spotify.com/track/4QsXlCYFMNpVUzSR9UwWup"
-    },
-    {
-      "added_at": "2023-11-10 20:04:35",
-      "album": {
         "name": "BOOTCUT",
         "url": "https://open.spotify.com/album/5vnnhrkeLqHWuM7cuqgHCK"
       },
@@ -643,22 +755,6 @@
       "duration_ms": 294306,
       "name": "I Remember Carolina",
       "url": "https://open.spotify.com/track/6MhVZANIUROF3ZiKYBh6eN"
-    },
-    {
-      "added_at": "2023-11-10 20:04:35",
-      "album": {
-        "name": "Burn",
-        "url": "https://open.spotify.com/album/1kO9MPo6In7ZCfcFYTy9p6"
-      },
-      "artists": [
-        {
-          "name": "Luke Grimes",
-          "url": "https://open.spotify.com/artist/7Cezk2wEDBPfYCwEuKum1Y"
-        }
-      ],
-      "duration_ms": 200957,
-      "name": "Burn",
-      "url": "https://open.spotify.com/track/2Ba6D8yeOe14QoHwMaQkAK"
     },
     {
       "added_at": "2023-11-10 20:04:35",
@@ -923,22 +1019,6 @@
     {
       "added_at": "2023-11-10 20:04:35",
       "album": {
-        "name": "Movin'",
-        "url": "https://open.spotify.com/album/02iPeaTe80HSdxgFrkVUNB"
-      },
-      "artists": [
-        {
-          "name": "Colby Acuff",
-          "url": "https://open.spotify.com/artist/2L9DVKDXY3W8uRl5TwLbMC"
-        }
-      ],
-      "duration_ms": 161484,
-      "name": "Movin'",
-      "url": "https://open.spotify.com/track/2BjoPGw339b87PMwe8g9FT"
-    },
-    {
-      "added_at": "2023-11-10 20:04:35",
-      "album": {
         "name": "When Country Came Back to Town",
         "url": "https://open.spotify.com/album/7HBlZRPrkD77WNrWjEgXId"
       },
@@ -1007,22 +1087,6 @@
       "duration_ms": 311892,
       "name": "Haunted Mountain",
       "url": "https://open.spotify.com/track/45d44VPCRIW07tywccH8ii"
-    },
-    {
-      "added_at": "2023-11-10 20:04:35",
-      "album": {
-        "name": "Kid",
-        "url": "https://open.spotify.com/album/5LqoF8G9MsNme4b8DpBExe"
-      },
-      "artists": [
-        {
-          "name": "The Revivalists",
-          "url": "https://open.spotify.com/artist/5kuJibJcwOC53s3OkoGMRA"
-        }
-      ],
-      "duration_ms": 208253,
-      "name": "Kid",
-      "url": "https://open.spotify.com/track/24TzmWrz2HHWV3UO5PlvNb"
     },
     {
       "added_at": "2023-11-10 20:04:35",
@@ -1359,22 +1423,6 @@
     {
       "added_at": "2023-11-10 20:04:35",
       "album": {
-        "name": "Time Ain't Accidental",
-        "url": "https://open.spotify.com/album/2fiBxxI8M8UlThKvXcKizN"
-      },
-      "artists": [
-        {
-          "name": "Jess Williamson",
-          "url": "https://open.spotify.com/artist/784kOgkd1H6jU4KgPMYHi9"
-        }
-      ],
-      "duration_ms": 187742,
-      "name": "God in Everything",
-      "url": "https://open.spotify.com/track/4WQ62VYzVa7oEllqXE8vse"
-    },
-    {
-      "added_at": "2023-11-10 20:04:35",
-      "album": {
         "name": "Love You Anyway",
         "url": "https://open.spotify.com/album/3yDRYiQJHgrzUxztqO5hrG"
       },
@@ -1387,22 +1435,6 @@
       "duration_ms": 222080,
       "name": "All I Really Wanna Do",
       "url": "https://open.spotify.com/track/2pdN1F1hOI1At7GepafDMT"
-    },
-    {
-      "added_at": "2023-11-10 20:04:35",
-      "album": {
-        "name": "Mean Old Sun",
-        "url": "https://open.spotify.com/album/3iQR8qK9tsam26456UNnmk"
-      },
-      "artists": [
-        {
-          "name": "Turnpike Troubadours",
-          "url": "https://open.spotify.com/artist/1YSA4byX5AL1zoTsSTlB03"
-        }
-      ],
-      "duration_ms": 248706,
-      "name": "Mean Old Sun",
-      "url": "https://open.spotify.com/track/4kXeBpZekIq5f6I6hFcNk5"
     },
     {
       "added_at": "2023-11-10 20:04:35",
@@ -1779,22 +1811,6 @@
     {
       "added_at": "2023-11-10 20:04:35",
       "album": {
-        "name": "Kentucky Blue",
-        "url": "https://open.spotify.com/album/5vLD7cTnfTa8407z7ljNsX"
-      },
-      "artists": [
-        {
-          "name": "Brit Taylor",
-          "url": "https://open.spotify.com/artist/5TEiV7NyfVSUuVGxTVEHYC"
-        }
-      ],
-      "duration_ms": 227573,
-      "name": "No Cowboys",
-      "url": "https://open.spotify.com/track/19fuc8JoaMoK5dNpKNTwVu"
-    },
-    {
-      "added_at": "2023-11-10 20:04:35",
-      "album": {
         "name": "A Traveler's Lament",
         "url": "https://open.spotify.com/album/5Y9jJvKOoXP2AtjrePET8o"
       },
@@ -1911,22 +1927,6 @@
       "duration_ms": 130988,
       "name": "Take It Away - Pt. B",
       "url": "https://open.spotify.com/track/7DsQSKvFdDz2FkEy8n22hy"
-    },
-    {
-      "added_at": "2023-11-10 20:04:35",
-      "album": {
-        "name": "Mountain Song",
-        "url": "https://open.spotify.com/album/2LSEZyWtzulIr0vS1mD4Xy"
-      },
-      "artists": [
-        {
-          "name": "Flatland Cavalry",
-          "url": "https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav"
-        }
-      ],
-      "duration_ms": 249920,
-      "name": "Mountain Song",
-      "url": "https://open.spotify.com/track/2mDdkeVuUsyIepwzLCxuu6"
     },
     {
       "added_at": "2023-11-10 20:04:35",

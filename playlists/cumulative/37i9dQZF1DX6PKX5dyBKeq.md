@@ -2,9 +2,9 @@
 
 ### [Rap UK](https://open.spotify.com/playlist/37i9dQZF1DX6PKX5dyBKeq)
 
-> The Best of Hip\-Hop, Rap and Drill from the UK\. Cover: Christale
+> The Best of Hip\-Hop, Rap and Drill from the UK\. Cover: Cristale
 
-1,613 songs - 3 day 10 hr 15 min
+1,615 songs - 3 day 10 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -610,6 +610,7 @@
 | [Goon](https://open.spotify.com/track/502NleSAkJyQNQRhUoODGU) | [Joe Grind](https://open.spotify.com/artist/4e8opWGsP5Yvc80ThFWoMW) | [Goon](https://open.spotify.com/album/1i61FRdv0fLZ9JKEDTh4r8) | 2:41 | 2020-10-02 | 2020-10-24 |
 | [Gorilla](https://open.spotify.com/track/31kE0Epw1WK2qZxAxJLzzh) | [Rimzee](https://open.spotify.com/artist/65QlWmtWjcK3CPBung0ATT), [Tiggs Da Author](https://open.spotify.com/artist/0S2dfczvN0sOxEw559snHT) | [Gorilla](https://open.spotify.com/album/7EwikeoUfXNYmpvDQ5ccav) | 2:42 | 2023-11-03 |  |
 | [Gotcha](https://open.spotify.com/track/0CIi58OW1Sho2zQO26SKx9) | [Unknown T](https://open.spotify.com/artist/3iAhNz3e31lBuXYOsqGsf3), [Vybz Kartel](https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76), [Digga D](https://open.spotify.com/artist/57n1OF36WvtOeATY6WQ6iw), [Sean D](https://open.spotify.com/artist/1c7QqJoKtLjjQoBdp7A1vS) | [Gotcha](https://open.spotify.com/album/610mjyWnCbxvgSa2AqvKiz) | 3:18 | 2020-11-06 | 2020-12-18 |
+| [Gotham](https://open.spotify.com/track/7ce57gIvxc353OwZyapw5e) | [Nino Uptown](https://open.spotify.com/artist/1zzNqXwB3gRY3Ucm8dQnr8) | [Gotham](https://open.spotify.com/album/7xS8vowwGB3zOk4ps3XTs5) | 2:35 | 2023-12-01 |  |
 | [Grace](https://open.spotify.com/track/3wahvuwYj1jNEsG72kOLiu) | [FLOHIO](https://open.spotify.com/artist/7qffELscxpltKCso3ByH67) | [Out of Heart](https://open.spotify.com/album/4Qq7OS4FiIXkwyFaFUiJxW) | 3:48 | 2023-03-08 | 2023-03-09 |
 | [Gracie Brothers](https://open.spotify.com/track/7HqteSzusv7R2lRMFWI2ka) | [Jevon](https://open.spotify.com/artist/1cwNKCIuq12wLqAAsC1Zyi) | [Gracie Brothers](https://open.spotify.com/album/33hhERXpqborOC9K6xSZHe) | 2:48 | 2020-08-15 | 2020-08-30 |
 | [Grandma's Kitchen](https://open.spotify.com/track/2BU9FTy2ctWdTjiPiXLZZr) | [KwolleM](https://open.spotify.com/artist/5SFnJjOMV4N33wEpGvDwik), [AJ Tracey](https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U) | [Melo](https://open.spotify.com/album/3m8xFZm5azXCXreTC3rJ0Q) | 2:27 | 2023-11-06 |  |
@@ -1551,6 +1552,7 @@
 | [Waze \(feat\. SL\) \- Edit](https://open.spotify.com/track/3p6ydJJHynHAR4p8Ty1hvs) | [Avelino](https://open.spotify.com/artist/039zhJoEkboZ8Ii6K40Fb6), [SL](https://open.spotify.com/artist/0wY1K9SgxbaRfoFRmSR5x5) | [Waze \(feat\. SL\) \[Edit\]](https://open.spotify.com/album/1151XLA4i8NiXnLtne5iac) | 3:05 | 2021-06-12 | 2021-07-23 |
 | [WDYM](https://open.spotify.com/track/5yUBDuIUCq1goFwlFLYqNG) | [SwitchOTR](https://open.spotify.com/artist/6Xz6ZnGZZ1KKct4jTyKKZv) | [WDYM](https://open.spotify.com/album/2HVIZGP4NsRUIH08JwVoon) | 2:01 | 2023-07-20 | 2023-08-04 |
 | [We Did](https://open.spotify.com/track/0iWEGpi8eNMEpiPmKYppkr) | [M'Way](https://open.spotify.com/artist/4a9smiC3FdklrSyh5akDHP) | [We Did](https://open.spotify.com/album/5OpS6VKJhvrofCMkwbDRkk) | 2:25 | 2021-08-13 | 2021-09-03 |
+| [We Made It](https://open.spotify.com/track/5vuMXy5DUyOY5kOvaiOrN1) | [Maino](https://open.spotify.com/artist/20apXQGKM00jJTvYfyKwlb), [Giggs](https://open.spotify.com/artist/3S0tlB4fE7ChxI2pWz8Xip) | [We Made It](https://open.spotify.com/album/73ssqyLwb9cht2Y4GaOY11) | 3:06 | 2023-12-01 |  |
 | [We Won](https://open.spotify.com/track/1GpLHbaD73S3FZavoEmz0A) | [D\-Block Europe](https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y) | [We Won](https://open.spotify.com/album/60RGpTyf8yktcVpIJBqR5b) | 3:00 | 2020-08-07 | 2020-10-02 |
 | [Welcome To Brixton](https://open.spotify.com/track/7kQUdVjev73xIuwu7W6YW9) | [SR](https://open.spotify.com/artist/2NZN0JDhWXmMmhSXTbhm1h) | [Welcome To Brixton](https://open.spotify.com/album/2cJGDIj1sw0CRisyitZqdQ) | 3:00 | 2021-01-12 | 2022-01-08 |
 | [Welcome To The Hood](https://open.spotify.com/track/1befpLovh2OI2Z5cb9CnLG) | [Bugzy Malone](https://open.spotify.com/artist/4Dokdwa3WB7ilQ2c2qvIBL), [Emeli Sandé](https://open.spotify.com/artist/7sfgqEdoeBTjd8lQsPT3Cy) | [Welcome To The Hood](https://open.spotify.com/album/2LJBzPp5oAAG14uYnR00NQ) | 4:24 | 2021-03-19 | 2021-04-26 |

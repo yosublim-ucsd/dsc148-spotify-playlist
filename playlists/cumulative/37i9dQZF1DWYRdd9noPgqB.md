@@ -4,7 +4,7 @@
 
 > La playlist qui fait du bien ☀️
 
-90 songs - 5 hr 6 min
+91 songs - 5 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,7 +54,8 @@
 | [Many Lives](https://open.spotify.com/track/3RGO73FmSCNy4ttRjuRZIJ) | [Courrier Sud](https://open.spotify.com/artist/2qR0Z9tF5eXGAyZFWQWtOm), [Kazy Lambist](https://open.spotify.com/artist/41Ue54Vb6iWx2dcdRCM6oH) | [Many Lives](https://open.spotify.com/album/59bHilulRFxXPtzqocpXoX) | 3:38 | 2023-10-26 |  |
 | [Massilia \(feat\. Adrien Gallo\)](https://open.spotify.com/track/3uyff2dTTwyOKsHnAK300y) | [Corine](https://open.spotify.com/artist/6vs7gfG3OVDyBiY7loLsyQ), [Adrien Gallo](https://open.spotify.com/artist/784dNRnP2BcgctoGnFKsZl) | [Massilia \(feat\. Adrien Gallo\)](https://open.spotify.com/album/7vXq8ytmwhwgPjnFuw7GBM) | 3:55 | 2023-11-30 |  |
 | [Melody](https://open.spotify.com/track/5boPX5zFKequxpCqEvzy4C) | [Kids Return](https://open.spotify.com/artist/5U4QUWaCwxvtUz2hTu0Bkq) | [Forever Melodies](https://open.spotify.com/album/6m0x1fumKRq1gV9ssXIF8d) | 3:12 | 2023-09-28 | 2023-10-13 |
-| [Milk & Honey](https://open.spotify.com/track/0KCmXW5HH4pqNHRMHiAVou) | [Hollow Coves](https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6) | [Milk & Honey](https://open.spotify.com/album/1KUlIZ2aYZpircoQqXpqIg) | 3:52 | 2023-11-30 |  |
+| [Milk & Honey](https://open.spotify.com/track/0LbRbiN6RTRzxTvmmjfeCg) | [Hollow Coves](https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6) | [Milk & Honey](https://open.spotify.com/album/00qsnkOHVr38BOpUOTmmCN) | 3:51 | 2023-11-30 |  |
+| [Milk & Honey](https://open.spotify.com/track/0KCmXW5HH4pqNHRMHiAVou) | [Hollow Coves](https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6) | [Milk & Honey](https://open.spotify.com/album/1KUlIZ2aYZpircoQqXpqIg) | 3:52 | 2023-11-30 | 2023-12-02 |
 | [More Than a Friend](https://open.spotify.com/track/0LZ0gm2rOvGTPnvmHg92aL) | [Please](https://open.spotify.com/artist/07xx8lFWESVjZnqCpm43ku) | [More Than a Friend](https://open.spotify.com/album/0UGe2LoLG5ecv0CZLy1QLf) | 3:40 | 2023-11-16 |  |
 | [More Than a Love Song](https://open.spotify.com/track/2LflS98n1TRQb0Fcj1910h) | [Black Pumas](https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6) | [More Than a Love Song](https://open.spotify.com/album/4mKa3XUlzWNoUub36qy9mX) | 4:47 | 2023-09-28 | 2023-10-31 |
 | [More Than a Love Song](https://open.spotify.com/track/38D3zXvwHjwtGMUSO4mOmv) | [Black Pumas](https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6) | [Chronicles of a Diamond](https://open.spotify.com/album/6dyoypKM3foYufyQWKN7dH) | 4:47 | 2023-10-26 |  |

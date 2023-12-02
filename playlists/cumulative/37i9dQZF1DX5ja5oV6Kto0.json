@@ -2156,7 +2156,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 215217,
       "name": "CINDERELLA GIRL (WHERE YOU DEY) [feat. Ludacris]",
       "url": "https://open.spotify.com/track/1E4ed73l5iopAIr9UkAlGy"
@@ -4171,6 +4171,24 @@
     },
     {
       "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/38ltBimsfXSIt42l5wXP9W"
+      },
+      "artists": [
+        {
+          "name": "Shaun Mbah",
+          "url": "https://open.spotify.com/artist/2DVTucl8LFfbSZXbMZdvWb"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173617,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/5XA5kCHbrnwNYGrcUXxHak"
+    },
+    {
+      "album": {
         "name": "Red Sea",
         "url": "https://open.spotify.com/album/3gsX3n5VvRvqZQUAxPPQ6c"
       },
@@ -5107,6 +5125,24 @@
     },
     {
       "album": {
+        "name": "JUST LIKE DETO",
+        "url": "https://open.spotify.com/album/1aLAoQ1BZMQMIh2IxVaHxL"
+      },
+      "artists": [
+        {
+          "name": "DETO BLACK",
+          "url": "https://open.spotify.com/artist/2Hgj50QKDLwDTRjb42hRIT"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131133,
+      "name": "JUST LIKE DETO",
+      "url": "https://open.spotify.com/track/5vxETGyeKhT0atQECpWcMt"
+    },
+    {
+      "album": {
         "name": "Palmwine Music 3",
         "url": "https://open.spotify.com/album/2BeECcZnwLsaYOndRSO9fF"
       },
@@ -5257,6 +5293,28 @@
     },
     {
       "album": {
+        "name": "Lifestyle",
+        "url": "https://open.spotify.com/album/70USnNa3bAg0XAoaukW1x1"
+      },
+      "artists": [
+        {
+          "name": "Fresh L.",
+          "url": "https://open.spotify.com/artist/5Req3092u4LKlAcv6kZALj"
+        },
+        {
+          "name": "Odunsi (The Engine)",
+          "url": "https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 97832,
+      "name": "Lackin",
+      "url": "https://open.spotify.com/track/4xChpii9VTLnxj7AM9DO0t"
+    },
+    {
+      "album": {
         "name": "Last Thing",
         "url": "https://open.spotify.com/album/0OZATi1efmtpFw6d7ivEzf"
       },
@@ -5290,6 +5348,28 @@
       "duration_ms": 162230,
       "name": "Last Thing",
       "url": "https://open.spotify.com/track/7rTj4pKVamxPkaHooEE23Z"
+    },
+    {
+      "album": {
+        "name": "Roadman and Folks",
+        "url": "https://open.spotify.com/album/3gZJDhBIWDDAcJHmcbUomZ"
+      },
+      "artists": [
+        {
+          "name": "Tommy W\u00c1",
+          "url": "https://open.spotify.com/artist/17e35Wp915ZK8I2wCBT1Kd"
+        },
+        {
+          "name": "SuperJazzClub",
+          "url": "https://open.spotify.com/artist/5CINjDZoikcuTmtw3wgPfp"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "Late Night On Lokko Street",
+      "url": "https://open.spotify.com/track/4kHSBFk0AuUCVCYnyiYYOO"
     },
     {
       "album": {
@@ -8459,6 +8539,40 @@
     },
     {
       "album": {
+        "name": "SHE WAAN",
+        "url": "https://open.spotify.com/album/3bA2DgGpky4EeSr6VnOPhh"
+      },
+      "artists": [
+        {
+          "name": "kalibwani",
+          "url": "https://open.spotify.com/artist/6x5ayc2nUnF0bySx8ipDUk"
+        },
+        {
+          "name": "mwami",
+          "url": "https://open.spotify.com/artist/0efcioCBRBzfxRC6Ax0zXq"
+        },
+        {
+          "name": "Chxf Barry",
+          "url": "https://open.spotify.com/artist/4vMmIzBBucgN0Hend2wz0S"
+        },
+        {
+          "name": "mau from nowhere",
+          "url": "https://open.spotify.com/artist/7MZ8Hh17R6vfPDn9UCkvuf"
+        },
+        {
+          "name": "MAUIM\u00d8ON",
+          "url": "https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230500,
+      "name": "SHE WAAN",
+      "url": "https://open.spotify.com/track/2r8fW6t21bMrrfQW20OKF8"
+    },
+    {
+      "album": {
         "name": "SHEGE",
         "url": "https://open.spotify.com/album/7ynX70WRFESVn0SSQR9iaH"
       },
@@ -8830,6 +8944,28 @@
       "duration_ms": 235950,
       "name": "SOHO",
       "url": "https://open.spotify.com/track/1zOmNW1oXzasCZSoaVDFiv"
+    },
+    {
+      "album": {
+        "name": "SOIR\u00c9E",
+        "url": "https://open.spotify.com/album/0OKuWoLx1Z3iKlE2gFDkqR"
+      },
+      "artists": [
+        {
+          "name": "ALL MY COUSINS",
+          "url": "https://open.spotify.com/artist/0sFj0XrhYtB62oLzheZ8Bm"
+        },
+        {
+          "name": "Kikelomo",
+          "url": "https://open.spotify.com/artist/4HLQ6ZHKvMKlD3VR1vVQkE"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177560,
+      "name": "SOIR\u00c9E",
+      "url": "https://open.spotify.com/track/0pnp80an09IZPrMMFwcPzx"
     },
     {
       "album": {
@@ -10190,7 +10326,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 149002,
       "name": "Wa Ba Milo",
       "url": "https://open.spotify.com/track/7enpwC4JCOV84YREv5XZnC"

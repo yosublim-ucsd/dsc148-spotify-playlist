@@ -4,7 +4,7 @@
 
 > Photo: Jul
 
-58 songs - 2 hr 54 min
+59 songs - 2 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [Localisé](https://open.spotify.com/track/1jJHvMdaI0B3tmiCgFNpeK) | [Heuss L'enfoiré](https://open.spotify.com/artist/3YwqjMyrRfuixi2pbgTGCE), [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK) | [Chef D'orchestre](https://open.spotify.com/album/10BPtugQncuVXNT8CVu0f1) | 2:51 | 2023-09-28 |  |
 | [Long time \(feat\. Ninho\)](https://open.spotify.com/track/6XCrAL7AKz34KxvhsoW2UF) | [Kaneki](https://open.spotify.com/artist/6y9D9asiDbnfHSZETC6pkZ), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [4Real](https://open.spotify.com/album/2vhc1P6jEANs15mbrxe9Mj) | 4:45 | 2023-10-05 |  |
 | [MAÑANA](https://open.spotify.com/track/1sv3oqZL49le641hfHgtpX) | [Gambi](https://open.spotify.com/artist/1lB3I3SI30v2ZOpR4XQqzJ) | [N'A STRAGIA](https://open.spotify.com/album/4PxIHIjXAGQz2bYqy0CLtX) | 2:24 | 2023-09-28 | 2023-11-24 |
+| [Mi madre](https://open.spotify.com/track/1OadAxUa6KVPyKAwEv0Duy) | [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9), [Koba LaD](https://open.spotify.com/artist/1q7T9rFQ2a2ukA1PU51fo3), [SativaMusic](https://open.spotify.com/artist/6p46LxMXeRu3FRYN4tK5Lv) | [Mi madre](https://open.spotify.com/album/0WFyhZC7hwGuL402U8aovY) | 3:19 | 2023-11-30 |  |
 | [Mon BB](https://open.spotify.com/track/3E2A0uk8xtCGqgTsiz8Qug) | [Gradur](https://open.spotify.com/artist/2tcoLkA9Hexz70Kuc1NTUl), [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh) | [Mon BB](https://open.spotify.com/album/3UWJlCOQbnwW72X4q052NL) | 3:08 | 2023-09-28 |  |
 | [Méchant](https://open.spotify.com/track/1h8484CNhIZqhMsqD0ljkl) | [Maes](https://open.spotify.com/artist/6L34dW6SKMSDaGIfYDU19j) | [Méchant](https://open.spotify.com/album/0qnEbi793qwTHRjUIsNQxD) | 2:21 | 2023-09-28 |  |
 | [No love](https://open.spotify.com/track/1JvMPB1mkcrQsnasBGMBYd) | [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [NI](https://open.spotify.com/album/6sY6EuHMdhyD4dgZsYcKad) | 3:22 | 2023-09-28 |  |
@@ -55,7 +56,7 @@
 | [Se Grita](https://open.spotify.com/track/55Q180Og5mkW2XeGPjB7yn) | [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9), [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [Reinsertado](https://open.spotify.com/album/6h5tdNdOnnFL6zbeMeeqdk) | 4:19 | 2023-09-28 |  |
 | [Sensations](https://open.spotify.com/track/5Y8Zbqlmx97hTM8y5kqo0x) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [Sensations](https://open.spotify.com/album/4mJQmamNVYsJ9FF5tKq71C) | 4:21 | 2023-11-23 |  |
 | [Seya](https://open.spotify.com/track/5EVY9jwZDhgyLDyNGCGWYh) | [SativaMusic](https://open.spotify.com/artist/6p46LxMXeRu3FRYN4tK5Lv), [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9), [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK) | [Seya](https://open.spotify.com/album/2VJcmi0iisyLekBIgoKKvw) | 3:08 | 2023-10-05 |  |
-| [Solo Mi Madre](https://open.spotify.com/track/22LPuqKITi7z503Yj6XbX2) | [daviid\_328](https://open.spotify.com/artist/4mxv3XnN0fRgjMBdSWNSlP) | [Solo Mi Madre](https://open.spotify.com/album/4KS1K2A4w3ZvER8S9n765m) | 3:20 | 2023-11-30 |  |
+| [Solo Mi Madre](https://open.spotify.com/track/22LPuqKITi7z503Yj6XbX2) | [daviid\_328](https://open.spotify.com/artist/4mxv3XnN0fRgjMBdSWNSlP) | [Solo Mi Madre](https://open.spotify.com/album/4KS1K2A4w3ZvER8S9n765m) | 3:20 | 2023-11-30 | 2023-12-02 |
 | [T'as capté \(feat\. Bryan Mg\)](https://open.spotify.com/track/1qStFguolAbU8pPFoZu8xy) | [Lyna Mahyem](https://open.spotify.com/artist/0Yj3N31EWXHc6e3eDyJPLP), [Bryan Mg](https://open.spotify.com/artist/1PyToLP6F2rzV0ZSR71lgl) | [T'as capté \(feat\. Bryan Mg\)](https://open.spotify.com/album/1sluSODxoTSXYJbLJVl4uB) | 2:51 | 2023-09-28 | 2023-10-06 |
 | [TESLA \(feat\. DaChoyce\)](https://open.spotify.com/track/4E6tv93xB55kTFRtNKxMo1) | [Lacrim](https://open.spotify.com/artist/7DUTsWY3RBd64vh8UtgtYA), [DaChoyce](https://open.spotify.com/artist/6nStjcAtMWhraEtrTrePkl) | [TESLA \(feat\. DaChoyce\)](https://open.spotify.com/album/1Dch6Gn8vANXc18qHo2uB9) | 2:11 | 2023-09-28 | 2023-10-13 |
 | [TP](https://open.spotify.com/track/4aslqUfhnz7lYd8mEMIToq) | [Sadek](https://open.spotify.com/artist/63MCBZRiUdnqRsAOJwijiB), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [Ouvert tout l'été](https://open.spotify.com/album/7LfBmtNJPmxMReRrUHPzxB) | 2:58 | 2023-09-28 |  |

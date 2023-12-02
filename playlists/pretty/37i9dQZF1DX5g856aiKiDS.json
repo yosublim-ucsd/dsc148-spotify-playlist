@@ -1,12 +1,12 @@
 {
   "description": "Chill Korean tunes that's perfect with your latte or americano. (\uce74\ud398\uc640 \uc5b4\uc6b8\ub9ac\ub294 \ud3b8\uc548\ud55c \uc74c\uc545\ub4e4\uc744 \uac10\uc0c1\ud558\uc138\uc694.)",
-  "num_followers": 481317,
+  "num_followers": 481355,
   "original_name": "Dalkom Cafe",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhM2RlMDk0NWU5NTA1MjExYzk4MzAwYmEwMjhhNWRjNjA1ZTYyOTFj",
+  "snapshot_id": "MCw1MmM2M2Q5MzkwZTQ4NGE0Y2VmN2Y2MDQ5ZTA3NzdmMjU4ZTJkYWUy",
   "tracks": [
     {
       "added_at": "2023-11-14 13:05:29",
@@ -371,6 +371,26 @@
     {
       "added_at": "2023-11-14 13:05:29",
       "album": {
+        "name": "Don't Forget",
+        "url": "https://open.spotify.com/album/1MSev7n5ZJvkZiEXV4R9bt"
+      },
+      "artists": [
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        },
+        {
+          "name": "TAEYEON",
+          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
+        }
+      ],
+      "duration_ms": 219106,
+      "name": "Don\u2019t Forget",
+      "url": "https://open.spotify.com/track/0THW04vlFAkfflASMFam0t"
+    },
+    {
+      "added_at": "2023-11-14 13:05:29",
+      "album": {
         "name": "Can I Love ?",
         "url": "https://open.spotify.com/album/3RMvO654eEqnwdmZCwHFs5"
       },
@@ -391,26 +411,6 @@
       "duration_ms": 229750,
       "name": "Can I Love ? (feat. youra, Meego)",
       "url": "https://open.spotify.com/track/4T2cOfemKB0owJS2JOu7dF"
-    },
-    {
-      "added_at": "2023-11-14 13:05:29",
-      "album": {
-        "name": "Don't Forget",
-        "url": "https://open.spotify.com/album/1MSev7n5ZJvkZiEXV4R9bt"
-      },
-      "artists": [
-        {
-          "name": "Crush",
-          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
-        },
-        {
-          "name": "TAEYEON",
-          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
-        }
-      ],
-      "duration_ms": 219106,
-      "name": "Don\u2019t Forget",
-      "url": "https://open.spotify.com/track/0THW04vlFAkfflASMFam0t"
     },
     {
       "added_at": "2023-11-14 13:05:29",
@@ -483,22 +483,6 @@
     {
       "added_at": "2023-11-14 13:05:29",
       "album": {
-        "name": "It's Raining",
-        "url": "https://open.spotify.com/album/43x4oosPjmsGbyG4vVKMFE"
-      },
-      "artists": [
-        {
-          "name": "Vincent Blue",
-          "url": "https://open.spotify.com/artist/2AZgVjkPB4a4ULepFyPPgZ"
-        }
-      ],
-      "duration_ms": 214326,
-      "name": "It's Raining",
-      "url": "https://open.spotify.com/track/3woXnjYYyZ66vPg3lutPDj"
-    },
-    {
-      "added_at": "2023-11-14 13:05:29",
-      "album": {
         "name": "Sun And Moon",
         "url": "https://open.spotify.com/album/0AsQlY5YENtlvd8SLnrSxX"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 257631,
       "name": "It's You (Feat. ZICO)",
       "url": "https://open.spotify.com/track/6pm3SR1vvrV54AOJWsN7y7"
+    },
+    {
+      "added_at": "2023-11-14 13:05:29",
+      "album": {
+        "name": "It's Raining",
+        "url": "https://open.spotify.com/album/43x4oosPjmsGbyG4vVKMFE"
+      },
+      "artists": [
+        {
+          "name": "Vincent Blue",
+          "url": "https://open.spotify.com/artist/2AZgVjkPB4a4ULepFyPPgZ"
+        }
+      ],
+      "duration_ms": 214326,
+      "name": "It's Raining",
+      "url": "https://open.spotify.com/track/3woXnjYYyZ66vPg3lutPDj"
     },
     {
       "added_at": "2023-11-14 13:05:29",
@@ -727,18 +727,22 @@
     {
       "added_at": "2023-11-14 13:05:29",
       "album": {
-        "name": "IU 5th Album 'LILAC'",
-        "url": "https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R"
+        "name": "Angel",
+        "url": "https://open.spotify.com/album/75p1IsJ8OoM61yE9b6jOhs"
       },
       "artists": [
         {
-          "name": "IU",
-          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
+          "name": "Chancellor",
+          "url": "https://open.spotify.com/artist/0u06YeydlBk3awnk5KgdBx"
+        },
+        {
+          "name": "TAEYEON",
+          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
         }
       ],
-      "duration_ms": 188293,
-      "name": "Flu",
-      "url": "https://open.spotify.com/track/2j0MsDAMJ2ahsxP3z86ChI"
+      "duration_ms": 264052,
+      "name": "Angel (feat. TAEYEON)",
+      "url": "https://open.spotify.com/track/2bNTtfRuUYgt32fe1X2zaD"
     },
     {
       "added_at": "2023-11-14 13:05:29",
@@ -759,22 +763,18 @@
     {
       "added_at": "2023-11-14 13:05:29",
       "album": {
-        "name": "Angel",
-        "url": "https://open.spotify.com/album/75p1IsJ8OoM61yE9b6jOhs"
+        "name": "IU 5th Album 'LILAC'",
+        "url": "https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R"
       },
       "artists": [
         {
-          "name": "Chancellor",
-          "url": "https://open.spotify.com/artist/0u06YeydlBk3awnk5KgdBx"
-        },
-        {
-          "name": "TAEYEON",
-          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
+          "name": "IU",
+          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
         }
       ],
-      "duration_ms": 264052,
-      "name": "Angel (feat. TAEYEON)",
-      "url": "https://open.spotify.com/track/2bNTtfRuUYgt32fe1X2zaD"
+      "duration_ms": 188293,
+      "name": "Flu",
+      "url": "https://open.spotify.com/track/2j0MsDAMJ2ahsxP3z86ChI"
     },
     {
       "added_at": "2023-11-14 13:05:29",

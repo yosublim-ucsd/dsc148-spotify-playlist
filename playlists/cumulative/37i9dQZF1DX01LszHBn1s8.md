@@ -4,7 +4,7 @@
 
 > ❤️‍🩹 and I wouldn't marry me either, a pathological people pleaser!!!!
 
-1,303 songs - 2 day 20 hr 28 min
+1,304 songs - 2 day 20 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -962,6 +962,7 @@
 | [RICH BOY](https://open.spotify.com/track/5BEZtiV4ClWO0L2J0Mw7Hf) | [payton](https://open.spotify.com/artist/0wrbaNL900CWaR5DYERLze) | [RICH BOY](https://open.spotify.com/album/6iihdebiznsKuJbDvFpG9W) | 1:51 | 2022-10-06 |  |
 | [Rich Flex](https://open.spotify.com/track/1bDbXMyjaUIooNwFE9wn0N) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Her Loss](https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6) | 3:59 | 2022-11-05 |  |
 | [Right Down the Line](https://open.spotify.com/track/7sJ5JL0c0cba0tJBmy3tw7) | [Sam Evian](https://open.spotify.com/artist/5MXsi1oKkm8LuStuKkMdzu) | [Right Down the Line](https://open.spotify.com/album/0xMvVtSsEL5HMYql9ZiRoI) | 4:27 | 2022-05-19 |  |
+| [Right Round](https://open.spotify.com/track/3GpbwCm3YxiWDvy29Uo3vP) | [Flo Rida](https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY) | [R.O.O.T.S\. \(Route of Overcoming the Struggle\)](https://open.spotify.com/album/2vBLKFrI1rZqB7VtGxcsR5) | 3:24 | 2023-12-01 |  |
 | [right where you left me](https://open.spotify.com/track/3IxAFD3NO9vUqJpL0xH3kc) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [the "ladies lunching" chapter](https://open.spotify.com/album/29TDKlVwdu8TqifC3WN86l) | 4:05 | 2023-09-20 |  |
 | [Rise Up](https://open.spotify.com/track/0tV8pOpiNsKqUys0ilUcXz) | [Andra Day](https://open.spotify.com/artist/1c4rxrxy8eDLvMVL1DTiBe) | [Cheers to the Fall](https://open.spotify.com/album/6Blubl1glavmervPJa3QVs) | 4:13 | 2022-05-19 |  |
 | [rises the moon](https://open.spotify.com/track/51Grh1RyUDcMBbpuyUIUHI) | [Liana Flores](https://open.spotify.com/artist/5zVu34ozw0BzXIcNHqkO0u) | [recently](https://open.spotify.com/album/295qW3R6DSM1WfePwUpgux) | 2:41 | 2022-11-01 |  |

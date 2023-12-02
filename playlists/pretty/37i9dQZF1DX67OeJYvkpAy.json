@@ -1,12 +1,12 @@
 {
   "description": "the best of the deep end. cover: Prinz",
-  "num_followers": 90183,
+  "num_followers": 90194,
   "original_name": "lofi rap",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMzQ1NjA2YTkxMWU5M2I1YWQ3NjEyY2VmYzdjNzljZGZiN2JiZjY1",
+  "snapshot_id": "MCwzNDliYWIzN2UyOWVkOGM3YjI1NmY5MjhhZDBjNmVkYjQxOWVlZjRh",
   "tracks": [
     {
       "added_at": "2023-08-01 17:14:44",
@@ -787,18 +787,18 @@
     {
       "added_at": "2023-08-01 17:14:44",
       "album": {
-        "name": "Love Me",
-        "url": "https://open.spotify.com/album/74RU62iSSe3neoBz4z5nXe"
+        "name": "Broken Hearted Crook",
+        "url": "https://open.spotify.com/album/6FxWacdUVFgdyDjbuRxTFR"
       },
       "artists": [
         {
-          "name": "ArtistRD",
-          "url": "https://open.spotify.com/artist/3cdy10Sdneled46d13A74S"
+          "name": "yknowdavibez",
+          "url": "https://open.spotify.com/artist/5l6rN84ztH0XVlOs2IcQA9"
         }
       ],
-      "duration_ms": 190615,
-      "name": "Love Me",
-      "url": "https://open.spotify.com/track/3LQpbD8HlWyQV3X7Ie6sEj"
+      "duration_ms": 168135,
+      "name": "Broken Hearted Crook",
+      "url": "https://open.spotify.com/track/60clenfS2gkpTwndV2a8Cv"
     },
     {
       "added_at": "2023-08-01 17:14:44",
@@ -819,18 +819,18 @@
     {
       "added_at": "2023-08-01 17:14:44",
       "album": {
-        "name": "Broken Hearted Crook",
-        "url": "https://open.spotify.com/album/6FxWacdUVFgdyDjbuRxTFR"
+        "name": "Love Me",
+        "url": "https://open.spotify.com/album/74RU62iSSe3neoBz4z5nXe"
       },
       "artists": [
         {
-          "name": "yknowdavibez",
-          "url": "https://open.spotify.com/artist/5l6rN84ztH0XVlOs2IcQA9"
+          "name": "ArtistRD",
+          "url": "https://open.spotify.com/artist/3cdy10Sdneled46d13A74S"
         }
       ],
-      "duration_ms": 168135,
-      "name": "Broken Hearted Crook",
-      "url": "https://open.spotify.com/track/60clenfS2gkpTwndV2a8Cv"
+      "duration_ms": 190615,
+      "name": "Love Me",
+      "url": "https://open.spotify.com/track/3LQpbD8HlWyQV3X7Ie6sEj"
     },
     {
       "added_at": "2023-08-01 17:14:44",
@@ -847,6 +847,42 @@
       "duration_ms": 189781,
       "name": "If I Die Young",
       "url": "https://open.spotify.com/track/48oASW55itK9LQ5YFVSna4"
+    },
+    {
+      "added_at": "2023-08-01 17:14:44",
+      "album": {
+        "name": "Never Been Ordinary",
+        "url": "https://open.spotify.com/album/64qtcm4JdwhwtLDJjfSrmF"
+      },
+      "artists": [
+        {
+          "name": "French The Kid",
+          "url": "https://open.spotify.com/artist/4k1cMkJjG3UCRptckbpAnC"
+        }
+      ],
+      "duration_ms": 194693,
+      "name": "Window Blues",
+      "url": "https://open.spotify.com/track/1RCRhvOyJFhZFpXdqHGzZQ"
+    },
+    {
+      "added_at": "2023-08-01 17:14:44",
+      "album": {
+        "name": "Trust Issues",
+        "url": "https://open.spotify.com/album/6ogdhmuZyJzHxtNd010qZo"
+      },
+      "artists": [
+        {
+          "name": "Ronzo",
+          "url": "https://open.spotify.com/artist/5i6r27cMI5xAJHs3awxmmd"
+        },
+        {
+          "name": "BlixzBeatz",
+          "url": "https://open.spotify.com/artist/6PJkfSkEh4Su3utDeRI6MT"
+        }
+      ],
+      "duration_ms": 120000,
+      "name": "Trust Issues",
+      "url": "https://open.spotify.com/track/0f6YeGWZMfFJ0PieTY6Y2R"
     },
     {
       "added_at": "2023-08-01 17:14:44",
@@ -879,58 +915,6 @@
     {
       "added_at": "2023-08-01 17:14:44",
       "album": {
-        "name": "Trust Issues",
-        "url": "https://open.spotify.com/album/6ogdhmuZyJzHxtNd010qZo"
-      },
-      "artists": [
-        {
-          "name": "Ronzo",
-          "url": "https://open.spotify.com/artist/5i6r27cMI5xAJHs3awxmmd"
-        },
-        {
-          "name": "BlixzBeatz",
-          "url": "https://open.spotify.com/artist/6PJkfSkEh4Su3utDeRI6MT"
-        }
-      ],
-      "duration_ms": 120000,
-      "name": "Trust Issues",
-      "url": "https://open.spotify.com/track/0f6YeGWZMfFJ0PieTY6Y2R"
-    },
-    {
-      "added_at": "2023-08-01 17:14:44",
-      "album": {
-        "name": "Never Been Ordinary",
-        "url": "https://open.spotify.com/album/64qtcm4JdwhwtLDJjfSrmF"
-      },
-      "artists": [
-        {
-          "name": "French The Kid",
-          "url": "https://open.spotify.com/artist/4k1cMkJjG3UCRptckbpAnC"
-        }
-      ],
-      "duration_ms": 194693,
-      "name": "Window Blues",
-      "url": "https://open.spotify.com/track/1RCRhvOyJFhZFpXdqHGzZQ"
-    },
-    {
-      "added_at": "2023-08-01 17:14:44",
-      "album": {
-        "name": "Up all night",
-        "url": "https://open.spotify.com/album/5hRXQWmzDZiFPdt878nWF4"
-      },
-      "artists": [
-        {
-          "name": "LBSZN",
-          "url": "https://open.spotify.com/artist/0f4fUl6px5XFPGW9FXi5Ff"
-        }
-      ],
-      "duration_ms": 161425,
-      "name": "Up all night",
-      "url": "https://open.spotify.com/track/76ldXW0puAk2q8YhpFASxH"
-    },
-    {
-      "added_at": "2023-08-01 17:14:44",
-      "album": {
         "name": "9AM",
         "url": "https://open.spotify.com/album/1ucTQSkMf86AVwVfkpZZK8"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 172199,
       "name": "9AM",
       "url": "https://open.spotify.com/track/3DogHIsWZ7blJBVgBtjbGf"
+    },
+    {
+      "added_at": "2023-08-01 17:14:44",
+      "album": {
+        "name": "Up all night",
+        "url": "https://open.spotify.com/album/5hRXQWmzDZiFPdt878nWF4"
+      },
+      "artists": [
+        {
+          "name": "LBSZN",
+          "url": "https://open.spotify.com/artist/0f4fUl6px5XFPGW9FXi5Ff"
+        }
+      ],
+      "duration_ms": 161425,
+      "name": "Up all night",
+      "url": "https://open.spotify.com/track/76ldXW0puAk2q8YhpFASxH"
     },
     {
       "added_at": "2023-08-01 17:14:44",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2023-08-01 17:14:44",
       "album": {
-        "name": "Scorpio Trait",
-        "url": "https://open.spotify.com/album/6p8BPSJzlmggZCMWCPovq7"
-      },
-      "artists": [
-        {
-          "name": "Fabz",
-          "url": "https://open.spotify.com/artist/7LXCcM3l2atOFVrLyhQMOW"
-        }
-      ],
-      "duration_ms": 249600,
-      "name": "Scorpio Trait",
-      "url": "https://open.spotify.com/track/1s0afz1Dafp3gn8odpXL9t"
-    },
-    {
-      "added_at": "2023-08-01 17:14:44",
-      "album": {
         "name": "In my head",
         "url": "https://open.spotify.com/album/3bt2qFTBQtl5wYzBPNrIk4"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 155725,
       "name": "Champions League",
       "url": "https://open.spotify.com/track/2AqwxWjRr1H5ZoPLHLCVFX"
+    },
+    {
+      "added_at": "2023-08-01 17:14:44",
+      "album": {
+        "name": "Scorpio Trait",
+        "url": "https://open.spotify.com/album/6p8BPSJzlmggZCMWCPovq7"
+      },
+      "artists": [
+        {
+          "name": "Fabz",
+          "url": "https://open.spotify.com/artist/7LXCcM3l2atOFVrLyhQMOW"
+        }
+      ],
+      "duration_ms": 249600,
+      "name": "Scorpio Trait",
+      "url": "https://open.spotify.com/track/1s0afz1Dafp3gn8odpXL9t"
     },
     {
       "added_at": "2023-08-01 17:14:44",
@@ -1107,18 +1107,18 @@
     {
       "added_at": "2023-08-01 17:14:44",
       "album": {
-        "name": "Lies",
-        "url": "https://open.spotify.com/album/7bI6MVn2einWQk8mvuKdVe"
+        "name": "Day and Night",
+        "url": "https://open.spotify.com/album/6f0CmOgIRoUFipHtcT3oP5"
       },
       "artists": [
         {
-          "name": "AMB",
-          "url": "https://open.spotify.com/artist/75m92kcvwKBpXtBnqrJiB7"
+          "name": "Otis Lloyid",
+          "url": "https://open.spotify.com/artist/0us4QqkjwND1o2fDahODKk"
         }
       ],
-      "duration_ms": 203964,
-      "name": "Lies",
-      "url": "https://open.spotify.com/track/0DZ2oAxxLtD76a5gxGj92k"
+      "duration_ms": 191611,
+      "name": "Day and Night",
+      "url": "https://open.spotify.com/track/4foQk41zscf2ya3sDW7sDx"
     },
     {
       "added_at": "2023-08-01 17:14:44",
@@ -1139,6 +1139,22 @@
     {
       "added_at": "2023-08-01 17:14:44",
       "album": {
+        "name": "Lies",
+        "url": "https://open.spotify.com/album/7bI6MVn2einWQk8mvuKdVe"
+      },
+      "artists": [
+        {
+          "name": "AMB",
+          "url": "https://open.spotify.com/artist/75m92kcvwKBpXtBnqrJiB7"
+        }
+      ],
+      "duration_ms": 203964,
+      "name": "Lies",
+      "url": "https://open.spotify.com/track/0DZ2oAxxLtD76a5gxGj92k"
+    },
+    {
+      "added_at": "2023-08-01 17:14:44",
+      "album": {
         "name": "Love Never Dies",
         "url": "https://open.spotify.com/album/7BMBAvfTPih5rtTD9SYcwi"
       },
@@ -1151,22 +1167,6 @@
       "duration_ms": 200035,
       "name": "Toxic Veins",
       "url": "https://open.spotify.com/track/0Z0KbIXUAsMW4pm3tTPjnj"
-    },
-    {
-      "added_at": "2023-08-01 17:14:44",
-      "album": {
-        "name": "Day and Night",
-        "url": "https://open.spotify.com/album/6f0CmOgIRoUFipHtcT3oP5"
-      },
-      "artists": [
-        {
-          "name": "Otis Lloyid",
-          "url": "https://open.spotify.com/artist/0us4QqkjwND1o2fDahODKk"
-        }
-      ],
-      "duration_ms": 191611,
-      "name": "Day and Night",
-      "url": "https://open.spotify.com/track/4foQk41zscf2ya3sDW7sDx"
     },
     {
       "added_at": "2023-08-01 17:14:44",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2023-08-01 17:14:44",
       "album": {
-        "name": "Love Never Dies",
-        "url": "https://open.spotify.com/album/7BMBAvfTPih5rtTD9SYcwi"
-      },
-      "artists": [
-        {
-          "name": "K1",
-          "url": "https://open.spotify.com/artist/5WUPK2bOwlRrSeoC87ygC4"
-        }
-      ],
-      "duration_ms": 161466,
-      "name": "Different Man",
-      "url": "https://open.spotify.com/track/2QrSmaKPoBg4TGXHfQtott"
-    },
-    {
-      "added_at": "2023-08-01 17:14:44",
-      "album": {
         "name": "Akhirah",
         "url": "https://open.spotify.com/album/4xRb5029doJ6mT2qQLVOPW"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 221570,
       "name": "Akhirah",
       "url": "https://open.spotify.com/track/7xISI5fsxScOXZ39TgbTSx"
+    },
+    {
+      "added_at": "2023-08-01 17:14:44",
+      "album": {
+        "name": "Home For Winter",
+        "url": "https://open.spotify.com/album/3kwtdJBUZM22W5YCD7BftR"
+      },
+      "artists": [
+        {
+          "name": "Teks Sinatra",
+          "url": "https://open.spotify.com/artist/51Bf6K0RQJiZBXFKQroC57"
+        }
+      ],
+      "duration_ms": 199799,
+      "name": "Role Model",
+      "url": "https://open.spotify.com/track/5MiItmmuxxSuOaPy5ry3hA"
     },
     {
       "added_at": "2023-08-01 17:14:44",
@@ -1307,18 +1307,18 @@
     {
       "added_at": "2023-08-01 17:14:44",
       "album": {
-        "name": "Home For Winter",
-        "url": "https://open.spotify.com/album/3kwtdJBUZM22W5YCD7BftR"
+        "name": "Love Never Dies",
+        "url": "https://open.spotify.com/album/7BMBAvfTPih5rtTD9SYcwi"
       },
       "artists": [
         {
-          "name": "Teks Sinatra",
-          "url": "https://open.spotify.com/artist/51Bf6K0RQJiZBXFKQroC57"
+          "name": "K1",
+          "url": "https://open.spotify.com/artist/5WUPK2bOwlRrSeoC87ygC4"
         }
       ],
-      "duration_ms": 199799,
-      "name": "Role Model",
-      "url": "https://open.spotify.com/track/5MiItmmuxxSuOaPy5ry3hA"
+      "duration_ms": 161466,
+      "name": "Different Man",
+      "url": "https://open.spotify.com/track/2QrSmaKPoBg4TGXHfQtott"
     },
     {
       "added_at": "2023-08-01 17:14:44",

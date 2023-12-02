@@ -118,7 +118,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 262375,
       "name": "10\u00b0C",
       "url": "https://open.spotify.com/track/2gKuOZoUGk56md4lgf9eq9"
@@ -1609,6 +1609,24 @@
     },
     {
       "album": {
+        "name": "New Blue Sun",
+        "url": "https://open.spotify.com/album/33Ek6daAL3oXyQIV1uoItD"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9 3000",
+          "url": "https://open.spotify.com/artist/74V3dE1a51skRkdII8y2C6"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 402473,
+      "name": "Ants To You, Gods To Who ?",
+      "url": "https://open.spotify.com/track/1M4x0ug19s7nSFYzjhBKTI"
+    },
+    {
+      "album": {
         "name": "anytime but now, anywhere but here",
         "url": "https://open.spotify.com/album/200rDpm6JozrPaQLyYhGfD"
       },
@@ -2138,6 +2156,24 @@
       "duration_ms": 263186,
       "name": "Atria",
       "url": "https://open.spotify.com/track/3fB2VetEU3qpyXqw7DDSnA"
+    },
+    {
+      "album": {
+        "name": "Au couchant",
+        "url": "https://open.spotify.com/album/5L2MRm6DXOTGEasWuOKta5"
+      },
+      "artists": [
+        {
+          "name": "Flore Laurentienne",
+          "url": "https://open.spotify.com/artist/05ElmDRcpwbAIRmLqRw1Bv"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 344493,
+      "name": "Au couchant",
+      "url": "https://open.spotify.com/track/7DozGDrYgAFPULqQNU7RMM"
     },
     {
       "album": {
@@ -3553,6 +3589,24 @@
     },
     {
       "album": {
+        "name": "Cinco",
+        "url": "https://open.spotify.com/album/1i3Qeu4cBxecY6qyxSbxoB"
+      },
+      "artists": [
+        {
+          "name": "C\u00e9sar Hern\u00e1ndez Mart\u00ednez",
+          "url": "https://open.spotify.com/artist/2YQhbjGak4eGVvZjQXLTjP"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244450,
+      "name": "Cinco",
+      "url": "https://open.spotify.com/track/7CKUI4URr6aECdBGtQPcoS"
+    },
+    {
+      "album": {
         "name": "Full Circle",
         "url": "https://open.spotify.com/album/6gk3iwAWUaGJXZtLqbjpQI"
       },
@@ -4502,7 +4556,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 174461,
       "name": "Dandelion",
       "url": "https://open.spotify.com/track/7mf0RPciPBlMazFOxIaKbI"
@@ -7692,7 +7746,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 74181,
       "name": "Golden Waxcap",
       "url": "https://open.spotify.com/track/0NP6SNyOxJnvjNIvMVNDPt"
@@ -8702,6 +8756,24 @@
       "duration_ms": 337116,
       "name": "Imitation",
       "url": "https://open.spotify.com/track/0UARftAOvuyUUbK4sa9m6U"
+    },
+    {
+      "album": {
+        "name": "Songs of Silence",
+        "url": "https://open.spotify.com/album/3WNHfcR03NSfUg4ZcZJG7t"
+      },
+      "artists": [
+        {
+          "name": "Vince Clarke",
+          "url": "https://open.spotify.com/artist/7zkGCcaPSB7nLCtaxEWWE1"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296724,
+      "name": "Imminent",
+      "url": "https://open.spotify.com/track/4GYWbWRnrGBkXOOTp3bqyi"
     },
     {
       "album": {
@@ -11468,7 +11540,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 197777,
       "name": "Movement VII",
       "url": "https://open.spotify.com/track/1KnHu2HptVLiKUPn90842Z"
@@ -12286,7 +12358,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 139200,
       "name": "nothing is real",
       "url": "https://open.spotify.com/track/5BirxDD0oRxIzzg6Dh4Y5h"
@@ -13270,6 +13342,28 @@
       "duration_ms": 134493,
       "name": "paradox",
       "url": "https://open.spotify.com/track/4GbOIpoNo5zhsAd6ksrQ4p"
+    },
+    {
+      "album": {
+        "name": "oceanspace",
+        "url": "https://open.spotify.com/album/7ubOfygfn6VvsPCU4mGEY1"
+      },
+      "artists": [
+        {
+          "name": "The Field Tapes",
+          "url": "https://open.spotify.com/artist/4LeF3SUf7hytyGQJoLJbym"
+        },
+        {
+          "name": "illi mel",
+          "url": "https://open.spotify.com/artist/2cpa8rq1DM4WGuFdNHWUnP"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194064,
+      "name": "paragraphs",
+      "url": "https://open.spotify.com/track/2ArCbHznzZtJvWwUJu4tac"
     },
     {
       "album": {
@@ -16438,6 +16532,28 @@
       "duration_ms": 384000,
       "name": "Space for Two",
       "url": "https://open.spotify.com/track/0VWNucGNl6Yk8UklayMWPE"
+    },
+    {
+      "album": {
+        "name": "Space Oracle (aus Remix)",
+        "url": "https://open.spotify.com/album/0k4bUIwiHR0F8Wsb0iPtsW"
+      },
+      "artists": [
+        {
+          "name": "Seahawks",
+          "url": "https://open.spotify.com/artist/6WHCgS2g18qWw45K66DdRZ"
+        },
+        {
+          "name": "aus",
+          "url": "https://open.spotify.com/artist/2JHQIdLnjfyobZpDbVGdKV"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 318320,
+      "name": "Space Oracle - aus Remix",
+      "url": "https://open.spotify.com/track/1eM2EGmwytpLoX5APjhp9n"
     },
     {
       "album": {
@@ -20198,7 +20314,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 112204,
       "name": "Waterfalling",
       "url": "https://open.spotify.com/track/7Mh2MCqhXQprlpdnu630Si"

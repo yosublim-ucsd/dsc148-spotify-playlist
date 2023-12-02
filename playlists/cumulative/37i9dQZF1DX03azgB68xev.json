@@ -2956,7 +2956,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 231123,
       "name": "I Will Follow You - Live",
       "url": "https://open.spotify.com/track/3iYqdGDa5Si2ae9A0jEL66"
@@ -5388,6 +5388,24 @@
       "duration_ms": 202411,
       "name": "Something Like Love",
       "url": "https://open.spotify.com/track/77TAjJOkVGmgG3XD4oDgJx"
+    },
+    {
+      "album": {
+        "name": "Lost On Me",
+        "url": "https://open.spotify.com/album/3jISEw2vtj2ckkBt7f5OQu"
+      },
+      "artists": [
+        {
+          "name": "Landry Cantrell",
+          "url": "https://open.spotify.com/artist/6WYJ7U3mOA7bzOMkkkT3N6"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184385,
+      "name": "Source",
+      "url": "https://open.spotify.com/track/0YJFMeUJeibHyUNw8al76e"
     },
     {
       "album": {

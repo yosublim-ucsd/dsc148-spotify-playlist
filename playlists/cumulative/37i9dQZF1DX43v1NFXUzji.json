@@ -11051,6 +11051,28 @@
     },
     {
       "album": {
+        "name": "Suena El Bajo",
+        "url": "https://open.spotify.com/album/4kOzvLDpRWFQtwyj1tEBIP"
+      },
+      "artists": [
+        {
+          "name": "Casper Magico",
+          "url": "https://open.spotify.com/artist/1fux65HMCBvfJHqlBc4Nno"
+        },
+        {
+          "name": "Brray",
+          "url": "https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194968,
+      "name": "Suena el Bajo",
+      "url": "https://open.spotify.com/track/0BZPshjB0SXlplST6GzpG2"
+    },
+    {
+      "album": {
         "name": "Super Gremlin (El Diablo Mix)",
         "url": "https://open.spotify.com/album/4gjKdtYzPBmVZPEZJ7aBPe"
       },
@@ -12366,7 +12388,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 177230,
       "name": "Una Ruedita",
       "url": "https://open.spotify.com/track/2D9WyuykuMo5MvU5grpXpI"

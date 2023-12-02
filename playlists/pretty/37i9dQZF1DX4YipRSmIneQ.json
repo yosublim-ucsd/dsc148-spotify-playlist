@@ -1,12 +1,12 @@
 {
   "description": "\ud83d\ude08 turn anywhere into a sexy club \ud83d\ude08",
-  "num_followers": 75534,
+  "num_followers": 75590,
   "original_name": "Sweat.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwYTdiNmU1ODRlY2RmM2Q4NTE2MjZjNWQ1ZTViMThmYzU1NThiNDIw",
+  "snapshot_id": "MCxhYmExYThjZmQwMTllYzhiMTRmYThkNDYxYTU3MzI0MTExY2E1M2Vm",
   "tracks": [
     {
       "added_at": "2023-08-18 04:00:00",
@@ -283,26 +283,6 @@
     {
       "added_at": "2023-07-24 14:56:33",
       "album": {
-        "name": "Short Dick Man",
-        "url": "https://open.spotify.com/album/3BQ6ifqB1pglyvEJQrcauT"
-      },
-      "artists": [
-        {
-          "name": "20 Fingers",
-          "url": "https://open.spotify.com/artist/0OarfYzJPCi3lAVZ4nhTTd"
-        },
-        {
-          "name": "Gillette",
-          "url": "https://open.spotify.com/artist/20ldWECcOHmOWwKwAwvn4y"
-        }
-      ],
-      "duration_ms": 290933,
-      "name": "Short Dick Man - Club Mix",
-      "url": "https://open.spotify.com/track/6ZZr5ew0DvA6xda9T5owOU"
-    },
-    {
-      "added_at": "2023-07-24 14:56:33",
-      "album": {
         "name": "WIZZ (COBRAH REMIX)",
         "url": "https://open.spotify.com/album/2LARgSJUXDdSE3U5FQbOyS"
       },
@@ -319,6 +299,26 @@
       "duration_ms": 160000,
       "name": "WIZZ - COBRAH REMIX",
       "url": "https://open.spotify.com/track/3b6ZWKonZcaHlhivx6M63z"
+    },
+    {
+      "added_at": "2023-07-24 14:56:33",
+      "album": {
+        "name": "Short Dick Man",
+        "url": "https://open.spotify.com/album/3BQ6ifqB1pglyvEJQrcauT"
+      },
+      "artists": [
+        {
+          "name": "20 Fingers",
+          "url": "https://open.spotify.com/artist/0OarfYzJPCi3lAVZ4nhTTd"
+        },
+        {
+          "name": "Gillette",
+          "url": "https://open.spotify.com/artist/20ldWECcOHmOWwKwAwvn4y"
+        }
+      ],
+      "duration_ms": 290933,
+      "name": "Short Dick Man - Club Mix",
+      "url": "https://open.spotify.com/track/6ZZr5ew0DvA6xda9T5owOU"
     },
     {
       "added_at": "2023-07-24 14:56:33",
@@ -507,22 +507,26 @@
     {
       "added_at": "2023-07-24 14:56:33",
       "album": {
-        "name": "Hott Boyz",
-        "url": "https://open.spotify.com/album/1Um9iDs4Iicg0mwa67yqDV"
+        "name": "Joyful Death",
+        "url": "https://open.spotify.com/album/37RBUO05YPPvrIHcEst8Kg"
       },
       "artists": [
         {
-          "name": "Breaking Beattz",
-          "url": "https://open.spotify.com/artist/0eRxVzLBxZGMZcsSoMESfX"
+          "name": "SONIKKU",
+          "url": "https://open.spotify.com/artist/31iYRMOM5mUFDxPMMljOZ9"
         },
         {
-          "name": "Kzn",
-          "url": "https://open.spotify.com/artist/0RycZwNOoEzo6mh88IKFQW"
+          "name": "LIZ",
+          "url": "https://open.spotify.com/artist/6t2Rja6dihuxH6Mrgyynp6"
+        },
+        {
+          "name": "SOPHIE",
+          "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
         }
       ],
-      "duration_ms": 190476,
-      "name": "Guud Gurls",
-      "url": "https://open.spotify.com/track/6yTAycvx2hDqGYerNaphfI"
+      "duration_ms": 258340,
+      "name": "Sweat - SOPHIE Remix",
+      "url": "https://open.spotify.com/track/1CUCnTJVZy68TS34DX6kCx"
     },
     {
       "added_at": "2023-07-24 14:56:33",
@@ -547,26 +551,22 @@
     {
       "added_at": "2023-07-24 14:56:33",
       "album": {
-        "name": "Joyful Death",
-        "url": "https://open.spotify.com/album/37RBUO05YPPvrIHcEst8Kg"
+        "name": "Hott Boyz",
+        "url": "https://open.spotify.com/album/1Um9iDs4Iicg0mwa67yqDV"
       },
       "artists": [
         {
-          "name": "SONIKKU",
-          "url": "https://open.spotify.com/artist/31iYRMOM5mUFDxPMMljOZ9"
+          "name": "Breaking Beattz",
+          "url": "https://open.spotify.com/artist/0eRxVzLBxZGMZcsSoMESfX"
         },
         {
-          "name": "LIZ",
-          "url": "https://open.spotify.com/artist/6t2Rja6dihuxH6Mrgyynp6"
-        },
-        {
-          "name": "SOPHIE",
-          "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
+          "name": "Kzn",
+          "url": "https://open.spotify.com/artist/0RycZwNOoEzo6mh88IKFQW"
         }
       ],
-      "duration_ms": 258340,
-      "name": "Sweat - SOPHIE Remix",
-      "url": "https://open.spotify.com/track/1CUCnTJVZy68TS34DX6kCx"
+      "duration_ms": 190476,
+      "name": "Guud Gurls",
+      "url": "https://open.spotify.com/track/6yTAycvx2hDqGYerNaphfI"
     },
     {
       "added_at": "2023-07-24 14:56:33",
@@ -899,22 +899,22 @@
     {
       "added_at": "2023-07-24 14:56:33",
       "album": {
-        "name": "Pillow Princess Remixes I",
-        "url": "https://open.spotify.com/album/0qealHFPGDb0uG4dBrW6qR"
+        "name": "Hoe",
+        "url": "https://open.spotify.com/album/3WVWxLyo3jYBbUi2orG7RF"
       },
       "artists": [
         {
-          "name": "Manni Dee",
-          "url": "https://open.spotify.com/artist/3WKDW1ASiWSa1T1nX01dUr"
+          "name": "Partiboi69",
+          "url": "https://open.spotify.com/artist/0CutULGVZ24wOr1HHYoEOL"
         },
         {
-          "name": "TAAHLIAH",
-          "url": "https://open.spotify.com/artist/2pGARcnqDa3WoicxemVeqU"
+          "name": "CHRIST DILLINGER",
+          "url": "https://open.spotify.com/artist/5wtRHmD5xeAYuwxiteR5t3"
         }
       ],
-      "duration_ms": 168240,
-      "name": "Pillow Princess - TAAHLIAH Remix",
-      "url": "https://open.spotify.com/track/6mEYqfF76mM7tCcvuYpL4Z"
+      "duration_ms": 283900,
+      "name": "Hoe",
+      "url": "https://open.spotify.com/track/2SM5nyVFHtqGBsVfK23zlK"
     }
   ],
   "unique_name": "Sweat.",

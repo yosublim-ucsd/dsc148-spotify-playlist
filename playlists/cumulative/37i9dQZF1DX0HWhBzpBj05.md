@@ -4,7 +4,7 @@
 
 > Spread some cheer with this list of new and old seasonal favorites\. Cover: Brenda Lee
 
-167 songs - 9 hr 22 min
+169 songs - 9 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,7 +63,7 @@
 | [Hard Candy Christmas](https://open.spotify.com/track/0uTVChzibEWKrXojPaJ9y1) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Once Upon A Christmas](https://open.spotify.com/album/5JWR4pqfxra6JEeUqNMPO7) | 3:37 | 2021-12-20 |  |
 | [Hark! The Herald Angels Sing \- Remastered 1999](https://open.spotify.com/track/2BLwLAc1swTc4TC7K3J506) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [A Jolly Christmas From Frank Sinatra](https://open.spotify.com/album/0ny6mZMBrYSO0s8HAKbcVq) | 2:21 | 2021-12-20 |  |
 | [Have Yourself a Merry Little Christmas](https://open.spotify.com/track/3MKyA6s2XFSC70CTRHyDDe) | [Andy Williams](https://open.spotify.com/artist/4sj6D0zlMOl25nprDJBiU9) | [Merry Christmas](https://open.spotify.com/album/7zCvEkPCZcGWa1RHWjo2e0) | 3:23 | 2022-12-05 |  |
-| [Have Yourself A Merry Little Christmas](https://open.spotify.com/track/5glfPRHTaZm1oyyfKlFC6e) | [Renée Zellweger](https://open.spotify.com/artist/4ZYtO7K6tpQGNgoRRseDOg), [Rufus Wainwright](https://open.spotify.com/artist/2PfBzriIMRsCXPDtSy9vg8) | [Judy \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6kehYSGwHGUl5Sm1vDcRLm) | 2:58 | 2023-11-06 |  |
+| [Have Yourself A Merry Little Christmas](https://open.spotify.com/track/5glfPRHTaZm1oyyfKlFC6e) | [Renée Zellweger](https://open.spotify.com/artist/4ZYtO7K6tpQGNgoRRseDOg), [Rufus Wainwright](https://open.spotify.com/artist/2PfBzriIMRsCXPDtSy9vg8) | [Judy \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6kehYSGwHGUl5Sm1vDcRLm) | 2:58 | 2023-11-06 | 2023-12-02 |
 | [Have Yourself A Merry Little Christmas](https://open.spotify.com/track/1Qi2wh8fFgDV7tl4Sj3f2K) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Have Yourself A Merry Little Christmas](https://open.spotify.com/album/3nCpXy6LlyXWuFR08tMycK) | 2:50 | 2021-12-20 | 2022-12-06 |
 | [Have Yourself A Merry Little Christmas](https://open.spotify.com/track/6CHeVxecD2clOIpCpG0Nrm) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Play Christmas Music](https://open.spotify.com/album/3qPh58Q0uzQEzwrKsAMCVM) | 2:50 | 2022-10-23 | 2022-11-13 |
 | [Have Yourself A Merry Little Christmas](https://open.spotify.com/track/7Hz6LLOVxrojLPIHJJ1S0E) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Have Yourself A Merry Little Christmas](https://open.spotify.com/album/6aT8FGBTfyAhIDQ0IDaebz) | 2:50 | 2021-12-20 | 2022-07-29 |
@@ -113,6 +113,7 @@
 | [O Tannenbaum](https://open.spotify.com/track/34rzJNfTd5e9s3TICFMPD0) | [Vince Guaraldi Trio](https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS) | [A Charlie Brown Christmas \[2012 Remastered & Expanded Edition\]](https://open.spotify.com/album/7DuJYWu66RPdcekF5TuZ7w) | 5:09 | 2021-12-20 | 2022-09-19 |
 | [O Tannenbaum](https://open.spotify.com/track/4YhY2qHdBmSX33uj8ms0oq) | [Vince Guaraldi Trio](https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS) | [A Charlie Brown Christmas \[2012 Remastered & Expanded Edition\]](https://open.spotify.com/album/2XnNY3GEkbWHor5kyvXLu4) | 5:09 | 2021-12-20 |  |
 | [O Tannenbaum](https://open.spotify.com/track/5IYTUm06pUdo1DHjtijVRW) | [Vince Guaraldi Trio](https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS) | [Classic Christmas Hits 2022](https://open.spotify.com/album/7ILcxLRAchjzznQVoD0ESK) | 5:09 | 2022-10-23 | 2022-11-13 |
+| [Perfect Holiday](https://open.spotify.com/track/44db5yiEjupwyZxXSRoyK8) | [Robin Thicke](https://open.spotify.com/artist/0ZrpamOxcZybMHGg1AYtHP) | [Perfect Holiday](https://open.spotify.com/album/00M3oIJTaN91qcnp0RZHMP) | 3:13 | 2023-12-01 |  |
 | [Please Come Home For Christmas](https://open.spotify.com/track/2iBWfWGVv8MbL1Q4NCCk1z) | [Cher](https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt) | [Christmas](https://open.spotify.com/album/4Eeeg4yMb5qtMEm0lk6lDM) | 2:55 | 2023-10-20 |  |
 | [Please Come Home For Christmas](https://open.spotify.com/track/3cZRpCsi78sk2u4XW0vosp) | [Ryland James](https://open.spotify.com/artist/4WXIF211lYZfYEn0d13Ac0) | [Please Come Home For Christmas](https://open.spotify.com/album/08IMJctnRCU6sW75YKjbpw) | 3:17 | 2021-12-20 | 2023-10-21 |
 | [Please Come Home for Christmas \(Bells Will Be Ringing\)](https://open.spotify.com/track/2mTtNTa2fnj9m4uyBbKPDr) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Wrapped In Red](https://open.spotify.com/album/7Jahqd1kx9Qau0E9x9iZj6) | 3:19 | 2022-12-05 | 2023-10-21 |
@@ -133,6 +134,7 @@
 | [Silver Bells](https://open.spotify.com/track/4QX5pZQpQTgVlkqfUTDim0) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [The Dean Martin Christmas Album](https://open.spotify.com/album/4Kd6niUoyuNkcLRVmThm0H) | 2:22 | 2021-12-20 | 2022-12-06 |
 | [Silver Bells](https://open.spotify.com/track/745vzVj6vhA5LqfqOfqBci) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [A Legendary Christmas](https://open.spotify.com/album/4rvtCloap7CfNl2Ogl8B87) | 3:16 | 2022-12-05 |  |
 | [Sleigh Ride \(with Percy Faith & His Orchestra\)](https://open.spotify.com/track/6XAdcAseYtijN0QUnQFsH2) | [Johnny Mathis](https://open.spotify.com/artist/21LGsW7bziR4Ledx7WZ1Wf), [Percy Faith & His Orchestra](https://open.spotify.com/artist/24DQLSng7bKZD4GXLIaQbv) | [Merry Christmas \(with Percy Faith & His Orchestra\)](https://open.spotify.com/album/3pHNZvjNOHJX8G9Y0OmIzG) | 2:58 | 2021-12-20 |  |
+| [Snow Day](https://open.spotify.com/track/0L3gQfMRW4TzEQzfln36bi) | [Caitlyn Smith](https://open.spotify.com/artist/3uikSah4dwqwuk0EidFI4R) | [Snow Day](https://open.spotify.com/album/5NGeFxVVtV6OG2NmMBdiGH) | 3:54 | 2023-12-01 |  |
 | [Someday At Christmas](https://open.spotify.com/track/2X5noCM9Klrm4zXfyyPdRN) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Mono Singles](https://open.spotify.com/album/7oMcO4p7P1JtJR2G1v2NoK) | 2:48 | 2022-12-05 |  |
 | [Step Into Christmas](https://open.spotify.com/track/5AG7WObBQyMrmAfP5X9FKw) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Happy Navidad](https://open.spotify.com/album/1PpiyGryY19O7Lk6L1IbFu) | 4:32 | 2022-10-23 | 2022-11-13 |
 | [Step Into Christmas](https://open.spotify.com/track/2uEiuFTudAg6mYwuLWTfZh) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Goodbye Yellow Brick Road \(40th Anniversary Celebration/ Super Deluxe Edition\)](https://open.spotify.com/album/6Gp6qSE1ywXCLjal5NUWUE) | 4:32 | 2021-12-20 | 2022-07-29 |

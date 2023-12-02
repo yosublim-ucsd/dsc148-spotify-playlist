@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2JKi7oFC6Jv.md) - [plain]
 
 > The best in classic and new UK Funky\. Cover: Roska
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,149 likes - 60 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,151 likes - 60 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2JKi7oFC6Jv.md) - [plain]
 | 31 | [Devil in a Blue Dress](https://open.spotify.com/track/6mXvnvgtkVjXlg8bjzN71g) | [Donae'o](https://open.spotify.com/artist/3xcx9CcYTM4M1890B8o9Bp) | [Party Hard](https://open.spotify.com/album/4HkdumZIdnXHQMYgwtG1VV) | 4:40 |
 | 32 | [Bongo Jam \- Club Mix](https://open.spotify.com/track/43MvSFYL99yAvRi4a3Ln8U) | [Crazy Cousinz](https://open.spotify.com/artist/6VXB0WH4MfmhZyongoEYZr), [Calista](https://open.spotify.com/artist/6A2nY049pOVi16IhBf5Ui2) | [Bongo Jam](https://open.spotify.com/album/6xWb3uW2YtedtmnBWYKUMN) | 7:41 |
 | 33 | [In The Morning \(Let Your Love Come In\) \- Sticky Radio Edit](https://open.spotify.com/track/1nneW6gCqP7U9BPQ4F3Adg) | [Egypt](https://open.spotify.com/artist/3GhpUqhcaWVF5OdPb4KH86), [Richard Forbes](https://open.spotify.com/artist/0zz4dNczrASgFx0fkXrjJB) | [In The Morning \(Let Your Love Come In\)](https://open.spotify.com/album/0MT0W3eXcBOsBxTRguRnEk) | 2:53 |
-| 34 | [Red Devil](https://open.spotify.com/track/0uEprpXfrUkQoa9pPK7G0F) | [DJ Motu](https://open.spotify.com/artist/3kiWfO5TtNkHE3cshrJNdx) | [Red Devil](https://open.spotify.com/album/6up4KMMrMWCoNq6qqMFMeK) | 4:12 |
-| 35 | [Frontline](https://open.spotify.com/track/6h05VHWDLN16kDBSWe0KpH) | [Princess Nyah](https://open.spotify.com/artist/0hqvQutG576D21W1yxkSsh) | [Diary of a Princess](https://open.spotify.com/album/1mzpEX5Ofcd8Vehzt8pGQe) | 3:55 |
+| 34 | [Frontline](https://open.spotify.com/track/6h05VHWDLN16kDBSWe0KpH) | [Princess Nyah](https://open.spotify.com/artist/0hqvQutG576D21W1yxkSsh) | [Diary of a Princess](https://open.spotify.com/album/1mzpEX5Ofcd8Vehzt8pGQe) | 3:55 |
+| 35 | [Red Devil](https://open.spotify.com/track/0uEprpXfrUkQoa9pPK7G0F) | [DJ Motu](https://open.spotify.com/artist/3kiWfO5TtNkHE3cshrJNdx) | [Red Devil](https://open.spotify.com/album/6up4KMMrMWCoNq6qqMFMeK) | 4:12 |
 | 36 | [Sentah](https://open.spotify.com/track/3ozyBc00Z3ZARwbvSYHBjP) | [Mina](https://open.spotify.com/artist/2KvWE2yC2SS2fck2WOm8Kv), [Bryte](https://open.spotify.com/artist/4LFakjYAIBquTKsvvLNiGi) | [Sentah](https://open.spotify.com/album/3wkIHYwO7iSF8NGzaS89p2) | 3:08 |
 | 37 | [WYWD \- Remix](https://open.spotify.com/track/3Q6AwSkDHoNVDqNrfwuQPG) | [Girl Unit](https://open.spotify.com/artist/3Jq7bBEptoqWjGQwrkLTWp), [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60) | [Song Feel](https://open.spotify.com/album/5x0YjKmysDAXaAjxq8HLip) | 3:30 |
 | 38 | [Stuck On You](https://open.spotify.com/track/2Xb7RtwHMkdNF5nCDWS1W5) | [Pedro da Linha](https://open.spotify.com/artist/4vRdcYRuZQC84SzNnxSNLh), [Bryte](https://open.spotify.com/artist/3l3kDKYrIrWoPDA5R0VWEO) | [Da Linha](https://open.spotify.com/album/6SL6Sd07xhv6Rsr6TrFjPh) | 2:50 |
@@ -63,10 +63,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2JKi7oFC6Jv.md) - [plain]
 | 53 | [So Derobe](https://open.spotify.com/track/0HlQ8eP4Xdovcw4f235zTQ) | [Joy Orbison](https://open.spotify.com/artist/0aIpJqqTLf683ojWREc5lg) | [The Shrew Would Have Cushioned The Blow / So Derobe](https://open.spotify.com/album/0Q0xQqRk5NCMzv4LLn1D6B) | 6:10 |
 | 54 | [Quicktime \- Roska Remix](https://open.spotify.com/track/1FDicxg7GVUtCqhF4xgdcI) | [DJ Naughty](https://open.spotify.com/artist/5SThGnsHuNHE99IzvbfKgo) | [Firepower EP](https://open.spotify.com/album/4o2FL2jtRxupHPOGX7Af5U) | 7:19 |
 | 55 | [Galiium](https://open.spotify.com/track/4yCJxYCe7tIw0lCx68yQq0) | [Wookie](https://open.spotify.com/artist/4MswQnojZK1oRaxNsACqjv) | [Gallium](https://open.spotify.com/album/4sq8Tr818HVyApngtRX6nP) | 7:36 |
-| 56 | [Swervin'](https://open.spotify.com/track/5EIrCD2J9rcrTavGMRfQ0r) | [DJ Polo](https://open.spotify.com/artist/2ZG0gXLgRGunF4fBMVGKK7) | [Limonata](https://open.spotify.com/album/41XA8aTPXJnZig1wkoIOaS) | 4:30 |
-| 57 | [Feeling Funky](https://open.spotify.com/track/764vblH9EXsgdtrSpCGmL6) | [Karen Nyame KG](https://open.spotify.com/artist/2TsxAQQq0xVbjBOPXozFVz) | [Sensei EP](https://open.spotify.com/album/4eOUxNKQxKBdwIAoOpXHDf) | 4:41 |
+| 56 | [Feeling Funky](https://open.spotify.com/track/764vblH9EXsgdtrSpCGmL6) | [Karen Nyame KG](https://open.spotify.com/artist/2TsxAQQq0xVbjBOPXozFVz) | [Sensei EP](https://open.spotify.com/album/4eOUxNKQxKBdwIAoOpXHDf) | 4:41 |
+| 57 | [Swervin'](https://open.spotify.com/track/5EIrCD2J9rcrTavGMRfQ0r) | [DJ Polo](https://open.spotify.com/artist/2ZG0gXLgRGunF4fBMVGKK7) | [Limonata](https://open.spotify.com/album/41XA8aTPXJnZig1wkoIOaS) | 4:30 |
 | 58 | [Move & Breathe](https://open.spotify.com/track/0tUBJgHumIS69lTHJ94bRM) | [Sam Interface](https://open.spotify.com/artist/04dcWSXP57PDMzOuQ2tgMw), [Serocee](https://open.spotify.com/artist/6eccR9J1A0lXF0AFvj5JO9) | [3:33](https://open.spotify.com/album/6DzzvDoOqxVBuUmAniObKb) | 3:25 |
-| 59 | [Sway feat.Correigh](https://open.spotify.com/track/4i00utwlQ3IvkHedGMqWFn) | [Majora](https://open.spotify.com/artist/6qJ9p5wCCLG6DhpUrSAdyM), [Correigh](https://open.spotify.com/artist/4uqKfAQRTguryfR0sTWyAE) | [Sway\(feat.Correigh\)](https://open.spotify.com/album/6gyv5RsnlDlTilgspcLUst) | 5:44 |
-| 60 | [So Dangerous \- Radio Edit](https://open.spotify.com/track/1PhVMk51cxAFJlYQFG7QNW) | [DJ Footloose](https://open.spotify.com/artist/17s4oWHagNWfsl2tMHfLZI), [Syren Rivers](https://open.spotify.com/artist/3AqS9Lfs7nH8jm6KuT3A1T) | [So Dangerous \(2008\)](https://open.spotify.com/album/39Qtk9Qfzv8u9LsMBoZe1o) | 3:32 |
+| 59 | [Hooligans](https://open.spotify.com/track/3HgL89b9l6Iwt06BH01r9s) | [Princess Nyah](https://open.spotify.com/artist/0hqvQutG576D21W1yxkSsh) | [Diary of a Princess](https://open.spotify.com/album/1mzpEX5Ofcd8Vehzt8pGQe) | 5:38 |
+| 60 | [Muhammad Ali \- Original Mix](https://open.spotify.com/track/0T0MJzkXiAvnnZ0XRyXZdZ) | [Scratcha DVA](https://open.spotify.com/artist/4RsQj1228RD7TFtUGCKRg7), [Lady Lykez](https://open.spotify.com/artist/1nR7ltX9Vpms7eTzrTDkTw) | [Drmtrk II](https://open.spotify.com/album/3Dh51hsahLEDBqRowPLvID) | 2:24 |
 
-Snapshot ID: `MCxjOWVhYzlmODNmODU2YWYxZWRiZGY5YWNlMjNjZDc2NDNmZjAwODlm`
+Snapshot ID: `MCw2ZDUyNjJiZmZmZmQzYjk0MjAxZjQ3NWM4ZGU3MjVlZTI5ZjAzOTVm`

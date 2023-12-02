@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVfUtaeUAwqa.md) - [plain]
 
 > Dixieland, Chicago Style and upbeat traditional jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,570 likes - 55 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,571 likes - 55 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVfUtaeUAwqa.md) - [plain]
 | 5 | [When The Saints Go Marching In](https://open.spotify.com/track/5VEIQ7S6AJehhbXAsnT27j) | [Fats Domino](https://open.spotify.com/artist/09C0xjtosNAIXP36wTnWxd) | [They Call Me The Fat Man \(The Legendary Imperial Recordings\)](https://open.spotify.com/album/52A7NjOBoLub7fgaqeWBOr) | 2:28 |
 | 6 | [I Found A New Baby](https://open.spotify.com/track/666dKdmoRCRcBNY6BwB98J) | [Sidney Bechet](https://open.spotify.com/artist/1RsmXc1ZqW3WBs9iwxiSwk) | [The Best Of Sidney Bechet](https://open.spotify.com/album/1DNkzO3Wq6tXBmlg7Xrpj1) | 3:08 |
 | 7 | [Bourbon Street Parade](https://open.spotify.com/track/4QbweORkjDpipFhhLdEnYR) | [The Dukes Of Dixieland](https://open.spotify.com/artist/0GLjY74A6lDzGCGg2J73aq) | [New Orleans Jazz Collection \- French Quarter Favorites](https://open.spotify.com/album/0c0lFgqkh99UuCQM9qNYmL) | 2:34 |
-| 8 | [Walkin' The Dog](https://open.spotify.com/track/28OtBc3ImfLCHi3GVdZrrL) | [Edmond Hall](https://open.spotify.com/artist/0ObFsHKsujQRFXqEL6Q0Jc) | [Jazz Foundations Vol\. 25](https://open.spotify.com/album/2EojFqvzd0GKRG1j8j7Dkn) | 4:34 |
-| 9 | [Tiger Rag](https://open.spotify.com/track/4lpABAEz6pviy9jbCRyEhU) | [Original Dixieland Jazz Band](https://open.spotify.com/artist/112yP6AwAT6QG34fiGGpmh) | [1917\-36](https://open.spotify.com/album/3jgqADR5t7Fr7OLlnxAsbE) | 2:46 |
+| 8 | [Tiger Rag](https://open.spotify.com/track/4lpABAEz6pviy9jbCRyEhU) | [Original Dixieland Jazz Band](https://open.spotify.com/artist/112yP6AwAT6QG34fiGGpmh) | [1917\-36](https://open.spotify.com/album/3jgqADR5t7Fr7OLlnxAsbE) | 2:46 |
+| 9 | [Walkin' The Dog](https://open.spotify.com/track/28OtBc3ImfLCHi3GVdZrrL) | [Edmond Hall](https://open.spotify.com/artist/0ObFsHKsujQRFXqEL6Q0Jc) | [Jazz Foundations Vol\. 25](https://open.spotify.com/album/2EojFqvzd0GKRG1j8j7Dkn) | 4:34 |
 | 10 | [I Wish I Could Shimmy Like My Sister Kate](https://open.spotify.com/track/0UmWAlvkmfqaHdAYPfNlFX) | [Muggsy Spanier](https://open.spotify.com/artist/0u61vtGdkaLTguZ5mVxLjK) | [1939\-1944](https://open.spotify.com/album/7EwAhN0zF9PtbLdRmRsomC) | 2:55 |
 | 11 | [Bill Bailey](https://open.spotify.com/track/6rt4DeIXU3bgJVYknEpZZa) | [Albert Burbank](https://open.spotify.com/artist/1H5jbTPAiHEJv3tWdLlXLk), [Kid Ory](https://open.spotify.com/artist/7fvNIXXszS6FTHROnZVsK4) | [Sounds Of New Orleans](https://open.spotify.com/album/4NdsoKTZ03ZcbyIPH3RZTJ) | 2:31 |
 | 12 | [Tin Roof Blues](https://open.spotify.com/track/0BmQMebBEQYcboEyyz9slj) | [Sidney Bechet](https://open.spotify.com/artist/1RsmXc1ZqW3WBs9iwxiSwk) | [Runnin' Wild](https://open.spotify.com/album/2B0XxmVHkk92cbblc6ZRTh) | 2:58 |
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVfUtaeUAwqa.md) - [plain]
 | 34 | [Bugle Boy March](https://open.spotify.com/track/3fbvU3HoMviq8NaxeL6lA2) | [Paul Barbarin & His New Orleans Jazz Band](https://open.spotify.com/artist/3FE6ZZKTPt5j31R5uPkTYS) | [Paul Barbarin & His New Orleans Jazz Band](https://open.spotify.com/album/3zRlKQfk8NNRwWumbt6FMx) | 5:15 |
 | 35 | [Roses of Picardy](https://open.spotify.com/track/2eksoro6WHBtJzAO4HdXar) | [George Girard](https://open.spotify.com/artist/2SmPgpPN8GmVdFBYgsRsud), [Stanley Mendelson](https://open.spotify.com/artist/5JJlaaIvTD9K58QNw8nBFG), [Johnny Senac](https://open.spotify.com/artist/1996CQ5it5fbdZQMLZu3e0), [Abbie Brunies](https://open.spotify.com/artist/2KeWtakcNFeypauMJeqxcI), [Raymond Burke](https://open.spotify.com/artist/1k9qij2IWERN0mwiWfwynE), [Jack Delaney](https://open.spotify.com/artist/2F1gi8KBOgDVX4oRbes9bU) | [George Girard's Band](https://open.spotify.com/album/0pSfyYcO5ik5MklfWkVkpr) | 2:59 |
 | 36 | [While We Danced at Mardi Gras](https://open.spotify.com/track/3lpUzWKVWykt3fDIPp7P9d) | [Sharkey Bonano](https://open.spotify.com/artist/4o2zkCpWF0zLf7NNpm7ZJM) | [Mardi Gras Parade Music from New Orleans](https://open.spotify.com/album/6NCyS4G2gDofmdtpSSoR6o) | 4:45 |
-| 37 | [Ain't She Sweet](https://open.spotify.com/track/2Yiwql4Qw3wFJjrE1XuJE8) | [Preservation Hall Hot 4 with Duke Dejan](https://open.spotify.com/artist/6BM1PL11hO27q6qvFbKP1x) | [Preservation Hall Hot 4 With Duke Dejan](https://open.spotify.com/album/6zcn7J6jypQujdpAqOy8ZD) | 4:10 |
-| 38 | [Livery Stable Blues \(Barnyard Blues\)](https://open.spotify.com/track/6xoBzYhLzG3yBgDbmD0rwn) | [Muggsy Spanier](https://open.spotify.com/artist/0u61vtGdkaLTguZ5mVxLjK) | [1939\-1944](https://open.spotify.com/album/7EwAhN0zF9PtbLdRmRsomC) | 3:01 |
+| 37 | [Livery Stable Blues \(Barnyard Blues\)](https://open.spotify.com/track/6xoBzYhLzG3yBgDbmD0rwn) | [Muggsy Spanier](https://open.spotify.com/artist/0u61vtGdkaLTguZ5mVxLjK) | [1939\-1944](https://open.spotify.com/album/7EwAhN0zF9PtbLdRmRsomC) | 3:01 |
+| 38 | [Ain't She Sweet](https://open.spotify.com/track/2Yiwql4Qw3wFJjrE1XuJE8) | [Preservation Hall Hot 4 with Duke Dejan](https://open.spotify.com/artist/6BM1PL11hO27q6qvFbKP1x) | [Preservation Hall Hot 4 With Duke Dejan](https://open.spotify.com/album/6zcn7J6jypQujdpAqOy8ZD) | 4:10 |
 | 39 | [Ring On Her Fingers](https://open.spotify.com/track/0bLM6cdigteELpTKlD2rqI) | [Dixieland Band](https://open.spotify.com/artist/71UbbCG8OqxYBuXcMhQA5E) | [Kings Of Dixieland](https://open.spotify.com/album/6kvwhPapltlF6gvuIgdz71) | 2:19 |
 | 40 | [Old Time Religion](https://open.spotify.com/track/1plVFdbU55lutOgsvH9Wir) | [Papa Celestin](https://open.spotify.com/artist/2Nn7FP7OOiT3NZEoBKhDHx) | [Marie Laveau](https://open.spotify.com/album/6pF59BdkYmZh6n56gLWWKw) | 3:19 |
 | 41 | [Lassa's Trombone](https://open.spotify.com/track/40GGKzPCqYCqhydSjk3d6Y) | [The Kings Of Dixieland](https://open.spotify.com/artist/0c2LcuGtYHJWSMtAZrx1Bg) | [The Best Of Dixieland Volume 2](https://open.spotify.com/album/1RB0fpiwqDNTEn6OECBiTV) | 2:47 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVfUtaeUAwqa.md) - [plain]
 | 54 | [Washington Post March](https://open.spotify.com/track/0HAyFITVG4G4X5RBhAxw2Q) | [Pete Fountain and The Kings Of Dixieland](https://open.spotify.com/artist/4DiuBrdftGJabfEaPk45So) | [The Best Of Dixieland Volume 1](https://open.spotify.com/album/4uuTStbaZ9PvYt5wHphSb4) | 3:12 |
 | 55 | [Semper Fidelis](https://open.spotify.com/track/2xWLN4RW1XR7nYXZLBaRzG) | [The Kings Of Dixieland](https://open.spotify.com/artist/0c2LcuGtYHJWSMtAZrx1Bg) | [4th of July Parade: 30 Patriotic Marches for Independence Day](https://open.spotify.com/album/432LmWXgVvgFmHJRc1WQIj) | 3:09 |
 
-Snapshot ID: `MCw3YjY0ODczNjI4ZjQzN2VlYTQxOTI1MjlmMTNlNmVkMmMyYjE2NDc4`
+Snapshot ID: `MCxkM2M5MDA3MmM4ZjY1OTYwODhkMzEzY2VlMDdlZjRjOTM3MzVmYTk2`

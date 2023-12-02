@@ -4,7 +4,7 @@
 
 > Amigo, ven te invito una copa...
 
-103 songs - 6 hr 31 min
+104 songs - 6 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,7 +97,8 @@
 | [Theme From New York, New York](https://open.spotify.com/track/2nk3bgTFohbTB4ENN9agSy) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Crooners Hits](https://open.spotify.com/album/5yh0ofdTBCKlDmV9xxQ1xn) | 3:25 | 2020-09-10 | 2022-11-13 |
 | [Theme From New York, New York](https://open.spotify.com/track/2uXn30sSSGCcCRvyuf5F3E) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Trilogy: Past, Present & Future](https://open.spotify.com/album/7gChBuHze71yZc6aOTXQpV) | 3:26 | 2020-09-10 | 2022-07-29 |
 | [Theme From New York, New York](https://open.spotify.com/track/3QksrtI9VFCBHWA4rgvcV8) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Trilogy: Past, Present & Future](https://open.spotify.com/album/4Cv61B08yHx3fwkylkhCxe) | 3:26 | 2020-09-10 |  |
-| [Tu Cárcel](https://open.spotify.com/track/0LNn2O06dvsZqvWaS870xJ) | [Los Bukis](https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf) | [Me Volvi A Acordar De Ti](https://open.spotify.com/album/5UDp9amJcdxcM86mM0Hwiy) | 3:32 | 2020-09-10 |  |
+| [Tu Cárcel](https://open.spotify.com/track/2UZorOnrzxgIs5z5RhAqLA) | [Los Bukis](https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf) | [Desamor y Despecho](https://open.spotify.com/album/2usbwzhhwnrkBhKy87KXzT) | 3:31 | 2020-09-10 |  |
+| [Tu Cárcel](https://open.spotify.com/track/0LNn2O06dvsZqvWaS870xJ) | [Los Bukis](https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf) | [Me Volvi A Acordar De Ti](https://open.spotify.com/album/5UDp9amJcdxcM86mM0Hwiy) | 3:32 | 2020-09-10 | 2023-12-02 |
 | [Tómame o Déjame \- Remasterizado](https://open.spotify.com/track/1ZJe2q23LXHnE79UjnJqyx) | [Mocedades](https://open.spotify.com/artist/4Sm7JCttzWMwHJtb3UJ8SY) | [Mocedades 5](https://open.spotify.com/album/09wkGIEU9667gEzg6Ywsbx) | 3:07 | 2020-09-10 |  |
 | [Un Buen Perdedor](https://open.spotify.com/track/0T7JubkdjBXNDVadRIq2ck) | [Franco De Vita](https://open.spotify.com/artist/4NEYQeEYBUjfaXgDQGvFvu) | [Franco de Vita](https://open.spotify.com/album/2ijctTdGOOLFI9wMzeG3jb) | 4:00 | 2020-09-10 |  |
 | [Un Buen Perdedor](https://open.spotify.com/track/6SveL3Sk9ObjoAZ7tPexnl) | [Franco De Vita](https://open.spotify.com/artist/4NEYQeEYBUjfaXgDQGvFvu) | [No Hay Cielo](https://open.spotify.com/album/3MNyovabzwapPKpE09eL71) | 4:02 | 2020-09-10 | 2022-07-29 |

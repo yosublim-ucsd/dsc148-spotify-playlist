@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59TepszZ0eE.md) - [plain]
 
 > Proudly South African gospel goodness\. Cover: <a href="https://open.spotify.com/artist/3kSRqsGHRSxw2jBJ6DffE4?si=w5COGWuuThWSR57bXIsUzA">Xolly Mnchwango</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,620 likes - 91 songs - 9 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,772 likes - 91 songs - 9 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,7 +91,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59TepszZ0eE.md) - [plain]
 | 81 | [You Are \- Live](https://open.spotify.com/track/6Ez80l5EUlu2DrjsNdxLTo) | [HLE](https://open.spotify.com/artist/7bSO8mze1FilCh2kZimKLD) | [You Are \(Live\)](https://open.spotify.com/album/7dw3lt5NxWooPoTPJBi1es) | 6:37 |
 | 82 | [I Need Thee \(Live\)](https://open.spotify.com/track/0k72g6s6faEERwGTSENvB2) | [Benjamin Dube](https://open.spotify.com/artist/2Bjh5lfBvG5Oy6gCtpSGy2) | [Legendary in His Presence \(Live\)](https://open.spotify.com/album/2P7NaOnVBSjHgmrbAFUM4G) | 2:16 |
 | 83 | [Konyana ya Modimo \- Live](https://open.spotify.com/track/3k7yZ0KzbklXi4FwFkjPkW) | [David TheKing](https://open.spotify.com/artist/2U5BkItwy4iRjlDjemdAgi) | [Hymns of Faith \(Live\)](https://open.spotify.com/album/4P7hoE9mBHjwNgJTLtrlWo) | 10:18 |
-| 84 | [Wonderful Love](https://open.spotify.com/track/2fkBDYfU5ZxaAkjQca4fZN) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Wonderful Love](https://open.spotify.com/album/4HJR0OT5NzqpjyW7sTzQIV) | 3:17 |
+| 84 | [Wonderful Love \- Live](https://open.spotify.com/track/2fkBDYfU5ZxaAkjQca4fZN) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Wonderful Love \(Live\)](https://open.spotify.com/album/4HJR0OT5NzqpjyW7sTzQIV) | 3:17 |
 | 85 | [Isazelo Singishiye Ngedwa](https://open.spotify.com/track/7LWLrnHh0nMayLZblimXMy) | [Mpumelelo Dumisa](https://open.spotify.com/artist/7JE5R4Et8meMNLK64ENFmN) | [Isazelo Singishiye Ngedwa](https://open.spotify.com/album/4CXvH3FjVBhDiLKiEcjjLe) | 11:15 |
 | 86 | [Yaze Yafika leyomini](https://open.spotify.com/track/40EBB0o68HaO8gAUHfb1sQ) | [Mpumelelo Dumisa](https://open.spotify.com/artist/7JE5R4Et8meMNLK64ENFmN) | [Yaze Yafika Leyomini](https://open.spotify.com/album/31ow4h4QzGFia8ODrPBVeA) | 8:02 |
 | 87 | [Izulu Namafu](https://open.spotify.com/track/2HdBnHBcws3jgAL66NP2pJ) | [Mpumelelo Dumisa](https://open.spotify.com/artist/7JE5R4Et8meMNLK64ENFmN) | [Izulu Namafu](https://open.spotify.com/album/3ybwmG4efxqlHlvrT48unW) | 4:35 |
@@ -100,4 +100,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59TepszZ0eE.md) - [plain]
 | 90 | [Ngiphe Baba Izindlebe](https://open.spotify.com/track/7BEN78AfaIw5d7BXPanX9s) | [Mpumelelo Dumisa](https://open.spotify.com/artist/7JE5R4Et8meMNLK64ENFmN) | [Ngiphe Baba Izindlebe](https://open.spotify.com/album/6GstVqXZsRARDQqwYgftj2) | 7:24 |
 | 91 | [Hold On \(Live\)](https://open.spotify.com/track/3g6sGNlPxe6dPn1jMUQkVO) | [Sibusiso Nzima](https://open.spotify.com/artist/6AtfG1qMpauT1Z4JXcaJ8b), [Bobo Jay Nzima](https://open.spotify.com/artist/02A9pWLktquvrirqhv0jt1) | [Hold On \(Live\)](https://open.spotify.com/album/0vZ05bOnla5UbYCdWAkgmS) | 6:45 |
 
-Snapshot ID: `MCxlOTZlZjQwMGQ3MTAyMWZjMThjMjk5ZmRkM2QxZDRlYjFkNjcxOTRj`
+Snapshot ID: `MCxmOGViMzk2NzE4ODg1MTk3YTFhMzNmOTliYzZiMDQ5MDhjMzQ1OWY5`

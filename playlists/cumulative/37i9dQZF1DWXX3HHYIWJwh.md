@@ -4,13 +4,14 @@
 
 > ホームパーティーを楽しむためのプレイリスト。女子会、ガールズナイトのお供に。
 
-60 songs - 3 hr 11 min
+61 songs - 3 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\(wanna vibe\) with you](https://open.spotify.com/track/16Hfgakfi5BH52Uq6giV9P) | [aimi](https://open.spotify.com/artist/4YejPGH3QAUl4dj1ZZk6e7), [Modesty Beats](https://open.spotify.com/artist/13FbrmsM0RLfPPbiqh7iCQ) | [\(wanna vibe\) with you](https://open.spotify.com/album/4CiHbABkYhLKYNtlB4ifla) | 3:02 | 2023-11-23 | 2023-11-29 |
 | [2002](https://open.spotify.com/track/2BgEsaKNfHUdlh97KmvFyo) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [Speak Your Mind \(Deluxe\)](https://open.spotify.com/album/7lPoGKpCGgdKFAxpudhAH5) | 3:06 | 2023-11-23 |  |
 | [Anti\-Hero](https://open.spotify.com/track/0V3wPSX9ygBnCm8psDIegu) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 3:20 | 2023-11-23 | 2023-11-29 |
+| [ARRIBA](https://open.spotify.com/track/5wZu9Hw69jORB2OxeX3qC6) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [THE WORLD EP.FIN : WILL](https://open.spotify.com/album/1r0F1EzzNOaJyB7U0Jp5RH) | 3:37 | 2023-11-30 |  |
 | [BABY CHAOS](https://open.spotify.com/track/6ufv6uhkSARQyDDtglYpj9) | [GIRLS HERO](https://open.spotify.com/artist/2MxT61zWTWlcqPTIuDWWzA) | [BABY CHAOS](https://open.spotify.com/album/5iE0UUNuhxeIUqRo8rrpKe) | 2:22 | 2023-11-23 |  |
 | [Baby Don't Hurt Me](https://open.spotify.com/track/3BKD1PwArikchz2Zrlp1qi) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Baby Don't Hurt Me](https://open.spotify.com/album/327tc3Eruk1HP1w62iqROy) | 2:20 | 2023-11-23 | 2023-11-29 |
 | [Back for More \(with Anitta\)](https://open.spotify.com/track/6uTPA1xlcsk6dbchB2dhzl) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Back for More \(with Anitta\)](https://open.spotify.com/album/5zhfCotijpaEJfQNVAC8mV) | 2:11 | 2023-11-23 | 2023-12-01 |

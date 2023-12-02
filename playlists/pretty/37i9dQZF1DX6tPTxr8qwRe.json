@@ -1,13 +1,61 @@
 {
-  "description": "Dark, hard hitting pop. Cover: emlyn",
-  "num_followers": 394709,
+  "description": "Dark, hard hitting pop. Cover: audalei",
+  "num_followers": 394725,
   "original_name": "SALT",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0OGMxMjM4N2QxYTY5OGQ1ODQ3NmYxNGU3MjgwMDUzNTcyNDdmY2Yx",
+  "snapshot_id": "MCw5MWY1NTM0ZDFmMDdjODdhOWI5OTFjNTBmNjUxNjE2NTk2OGRiOWRh",
   "tracks": [
+    {
+      "added_at": "2023-11-10 05:00:00",
+      "album": {
+        "name": "little miss misogyny",
+        "url": "https://open.spotify.com/album/1NZCWSVnjkbrWpCK8YgkbS"
+      },
+      "artists": [
+        {
+          "name": "audalei",
+          "url": "https://open.spotify.com/artist/5kVRPeQHKUoQ7ooGlewyXP"
+        }
+      ],
+      "duration_ms": 147205,
+      "name": "little miss misogyny",
+      "url": "https://open.spotify.com/track/6uKxavyhKpvneaIAx0ve4D"
+    },
+    {
+      "added_at": "2023-12-01 05:04:14",
+      "album": {
+        "name": "Alchemical: Volume 1",
+        "url": "https://open.spotify.com/album/4kC5hseZbGaAjiJvr9Hk55"
+      },
+      "artists": [
+        {
+          "name": "Dove Cameron",
+          "url": "https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE"
+        }
+      ],
+      "duration_ms": 150413,
+      "name": "White Glove",
+      "url": "https://open.spotify.com/track/6NIlYycjhvtKGKtiABymF3"
+    },
+    {
+      "added_at": "2023-12-01 05:06:28",
+      "album": {
+        "name": "MY HOUSE",
+        "url": "https://open.spotify.com/album/1H1ivGeE2LjPjE71OITTZs"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "duration_ms": 262941,
+      "name": "MY HOUSE",
+      "url": "https://open.spotify.com/track/7omJfT9s6V2IpQNBYyq5C8"
+    },
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
@@ -29,54 +77,6 @@
       "url": "https://open.spotify.com/track/59BEuButSI6B9CZuPYZjNa"
     },
     {
-      "added_at": "2023-11-24 05:00:00",
-      "album": {
-        "name": "inhale - E.P.",
-        "url": "https://open.spotify.com/album/6g4KDMX0EEAUiH6bSltjlL"
-      },
-      "artists": [
-        {
-          "name": "Lili-Ann De Francesco",
-          "url": "https://open.spotify.com/artist/5oWPqJjzXP3A0RCsASbEbA"
-        }
-      ],
-      "duration_ms": 167533,
-      "name": "the girl (that you can't get over)",
-      "url": "https://open.spotify.com/track/5rvkNjOc5Q6rV26iqdTWwB"
-    },
-    {
-      "added_at": "2023-11-10 05:00:00",
-      "album": {
-        "name": "little miss misogyny",
-        "url": "https://open.spotify.com/album/1NZCWSVnjkbrWpCK8YgkbS"
-      },
-      "artists": [
-        {
-          "name": "audalei",
-          "url": "https://open.spotify.com/artist/5kVRPeQHKUoQ7ooGlewyXP"
-        }
-      ],
-      "duration_ms": 147205,
-      "name": "little miss misogyny",
-      "url": "https://open.spotify.com/track/6uKxavyhKpvneaIAx0ve4D"
-    },
-    {
-      "added_at": "2023-11-24 05:00:00",
-      "album": {
-        "name": "HATE 2 LUV U",
-        "url": "https://open.spotify.com/album/5exZjAvyfhdDdssxOcWfRj"
-      },
-      "artists": [
-        {
-          "name": "AViVA",
-          "url": "https://open.spotify.com/artist/50tDsT4wwq8FCMJNkn1D67"
-        }
-      ],
-      "duration_ms": 177479,
-      "name": "HATE 2 LUV U",
-      "url": "https://open.spotify.com/track/0cg2EwJcOFj4S7ZDoDhBMc"
-    },
-    {
       "added_at": "2023-11-10 05:00:00",
       "album": {
         "name": "Better On Mute",
@@ -93,20 +93,20 @@
       "url": "https://open.spotify.com/track/4PUoS8YRJCKdG76cYjbdpL"
     },
     {
-      "added_at": "2023-11-17 07:30:59",
+      "added_at": "2023-12-01 05:04:14",
       "album": {
-        "name": "I AM",
-        "url": "https://open.spotify.com/album/386kgx8oUr4TFpLXuEMzBh"
+        "name": "Hype Song",
+        "url": "https://open.spotify.com/album/1z6jjSoP7UC4Sb3AHkBS4v"
       },
       "artists": [
         {
-          "name": "Ashley Sienna",
-          "url": "https://open.spotify.com/artist/2dfNhCW7cElnUBvmDvKGGi"
+          "name": "Olivia Knox",
+          "url": "https://open.spotify.com/artist/6nR3bxU4P6KV6678GbfhLk"
         }
       ],
-      "duration_ms": 156800,
-      "name": "Siren",
-      "url": "https://open.spotify.com/track/5psxNqlcbQhHuMLY7NT5Hr"
+      "duration_ms": 207568,
+      "name": "Hype Song",
+      "url": "https://open.spotify.com/track/7dgRK8IwI02y7MiBNd5a1b"
     },
     {
       "added_at": "2023-11-10 05:00:00",
@@ -125,6 +125,118 @@
       "url": "https://open.spotify.com/track/799zCg04fIPgcbmplT3ecQ"
     },
     {
+      "added_at": "2023-12-01 05:04:14",
+      "album": {
+        "name": "Heaven",
+        "url": "https://open.spotify.com/album/6yeOGs3rN9il6xHVcERw59"
+      },
+      "artists": [
+        {
+          "name": "CARYS",
+          "url": "https://open.spotify.com/artist/7sNr4UxauWqLRElKZufDRU"
+        }
+      ],
+      "duration_ms": 145154,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/0GLEKwNRP5cW30x0WTNfoX"
+    },
+    {
+      "added_at": "2023-11-24 05:00:00",
+      "album": {
+        "name": "inhale - E.P.",
+        "url": "https://open.spotify.com/album/6g4KDMX0EEAUiH6bSltjlL"
+      },
+      "artists": [
+        {
+          "name": "Lili-Ann De Francesco",
+          "url": "https://open.spotify.com/artist/5oWPqJjzXP3A0RCsASbEbA"
+        }
+      ],
+      "duration_ms": 167533,
+      "name": "the girl (that you can't get over)",
+      "url": "https://open.spotify.com/track/5rvkNjOc5Q6rV26iqdTWwB"
+    },
+    {
+      "added_at": "2023-12-01 05:25:09",
+      "album": {
+        "name": "Retail Therapy",
+        "url": "https://open.spotify.com/album/6m0WgwY6xKMDwtDutoKgiI"
+      },
+      "artists": [
+        {
+          "name": "Cloudy June",
+          "url": "https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa"
+        }
+      ],
+      "duration_ms": 148671,
+      "name": "Retail Therapy",
+      "url": "https://open.spotify.com/track/6UvodWwiKAwVxXK2gfLru0"
+    },
+    {
+      "added_at": "2023-11-10 05:00:00",
+      "album": {
+        "name": "SEX MACHINA",
+        "url": "https://open.spotify.com/album/6OcUMgJgqb5scFxtd7n4hq"
+      },
+      "artists": [
+        {
+          "name": "bludnymph",
+          "url": "https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX"
+        }
+      ],
+      "duration_ms": 129397,
+      "name": "SEX MACHINA",
+      "url": "https://open.spotify.com/track/5l8xjpKJW5Yj7mSSlSth3K"
+    },
+    {
+      "added_at": "2023-11-24 05:00:00",
+      "album": {
+        "name": "HATE 2 LUV U",
+        "url": "https://open.spotify.com/album/5exZjAvyfhdDdssxOcWfRj"
+      },
+      "artists": [
+        {
+          "name": "AViVA",
+          "url": "https://open.spotify.com/artist/50tDsT4wwq8FCMJNkn1D67"
+        }
+      ],
+      "duration_ms": 177479,
+      "name": "HATE 2 LUV U",
+      "url": "https://open.spotify.com/track/0cg2EwJcOFj4S7ZDoDhBMc"
+    },
+    {
+      "added_at": "2023-11-17 07:30:59",
+      "album": {
+        "name": "I AM",
+        "url": "https://open.spotify.com/album/386kgx8oUr4TFpLXuEMzBh"
+      },
+      "artists": [
+        {
+          "name": "Ashley Sienna",
+          "url": "https://open.spotify.com/artist/2dfNhCW7cElnUBvmDvKGGi"
+        }
+      ],
+      "duration_ms": 156800,
+      "name": "Siren",
+      "url": "https://open.spotify.com/track/5psxNqlcbQhHuMLY7NT5Hr"
+    },
+    {
+      "added_at": "2023-12-01 05:04:14",
+      "album": {
+        "name": "IDK Her",
+        "url": "https://open.spotify.com/album/10TQ4wvoqfXlpmJRSkNRMJ"
+      },
+      "artists": [
+        {
+          "name": "Lillian Hepler",
+          "url": "https://open.spotify.com/artist/6lvijTtp1Fm1apavL6hG5I"
+        }
+      ],
+      "duration_ms": 133055,
+      "name": "IDK Her",
+      "url": "https://open.spotify.com/track/2qPrqTrbIldabTPUxJjEHJ"
+    },
+    {
       "added_at": "2023-11-17 05:00:00",
       "album": {
         "name": "not ur baby",
@@ -139,6 +251,26 @@
       "duration_ms": 169445,
       "name": "not ur baby",
       "url": "https://open.spotify.com/track/5xP6KmGWbPdz5ICUT7apYt"
+    },
+    {
+      "added_at": "2023-12-01 05:04:14",
+      "album": {
+        "name": "Bad Bitch (ft. Sage Charmaine)",
+        "url": "https://open.spotify.com/album/47DLnNkEDCgZWfd4yDIL3W"
+      },
+      "artists": [
+        {
+          "name": "Stileto",
+          "url": "https://open.spotify.com/artist/2iwUUr9Udu8z6L2ZJcYr6i"
+        },
+        {
+          "name": "Sage Charmaine",
+          "url": "https://open.spotify.com/artist/7Gm2KFPebqb5rGV3XrLqGn"
+        }
+      ],
+      "duration_ms": 114558,
+      "name": "Bad Bitch (ft. Sage Charmaine)",
+      "url": "https://open.spotify.com/track/0eqarBH40z9GUTRQXfv68E"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -207,22 +339,6 @@
     {
       "added_at": "2023-11-10 05:00:00",
       "album": {
-        "name": "SEX MACHINA",
-        "url": "https://open.spotify.com/album/6OcUMgJgqb5scFxtd7n4hq"
-      },
-      "artists": [
-        {
-          "name": "bludnymph",
-          "url": "https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX"
-        }
-      ],
-      "duration_ms": 129397,
-      "name": "SEX MACHINA",
-      "url": "https://open.spotify.com/track/5l8xjpKJW5Yj7mSSlSth3K"
-    },
-    {
-      "added_at": "2023-11-10 05:00:00",
-      "album": {
         "name": "OPPOSITE DAY",
         "url": "https://open.spotify.com/album/71Prwf90wNmOQoWJc3w5QR"
       },
@@ -235,22 +351,6 @@
       "duration_ms": 132283,
       "name": "OPPOSITE DAY",
       "url": "https://open.spotify.com/track/10B1APcee1P6DJqO15nA70"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
-        "name": "Red Flag",
-        "url": "https://open.spotify.com/album/1Hefm7MGT5MeV0bvdDjZHc"
-      },
-      "artists": [
-        {
-          "name": "Cloudy June",
-          "url": "https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa"
-        }
-      ],
-      "duration_ms": 148074,
-      "name": "Red Flag",
-      "url": "https://open.spotify.com/track/0fNzU26XiTKY2lhmOpokgR"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -775,26 +875,6 @@
       "duration_ms": 201167,
       "name": "Eve",
       "url": "https://open.spotify.com/track/4VWJqXO2lnHTPrDze7zeQe"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "Other Boys",
-        "url": "https://open.spotify.com/album/3eb9d46lBCh5p1XBn66jBQ"
-      },
-      "artists": [
-        {
-          "name": "Marshmello",
-          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
-        },
-        {
-          "name": "Dove Cameron",
-          "url": "https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE"
-        }
-      ],
-      "duration_ms": 137065,
-      "name": "Other Boys",
-      "url": "https://open.spotify.com/track/5WZlorRUxgryaweu7kqeHd"
     },
     {
       "added_at": "2023-10-06 04:00:00",

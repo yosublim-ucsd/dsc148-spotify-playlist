@@ -2619,6 +2619,24 @@
     },
     {
       "album": {
+        "name": "One Way Flight",
+        "url": "https://open.spotify.com/album/0ilIGAmm0OHY9xvVRePEpW"
+      },
+      "artists": [
+        {
+          "name": "Aloe Blacc",
+          "url": "https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139618,
+      "name": "One Way Flight",
+      "url": "https://open.spotify.com/track/1fHmyExTgqR3FsiGAI7PGs"
+    },
+    {
+      "album": {
         "name": "Only In My Mind",
         "url": "https://open.spotify.com/album/4JWnSrjQv0zOW594N76PMf"
       },

@@ -52,7 +52,7 @@
       ],
       "date_added": "2022-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 148680,
       "name": "Caballito De Otate - En Vivo Desde El Rancho",
       "url": "https://open.spotify.com/track/71OGhd0HAEQvQzrOPTIJ1j"
@@ -106,7 +106,7 @@
       ],
       "date_added": "2022-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 164821,
       "name": "Caballo R-15 - En Vivo",
       "url": "https://open.spotify.com/track/3jhRsmwoJnL8wVB66FPOtU"
@@ -473,6 +473,24 @@
     },
     {
       "album": {
+        "name": "El cantador (En vivo)",
+        "url": "https://open.spotify.com/album/214cTuturC6CHUNgH5P9E3"
+      },
+      "artists": [
+        {
+          "name": "El Komander",
+          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200093,
+      "name": "El cantador - En vivo",
+      "url": "https://open.spotify.com/track/2cidQAJb7tlZqWSmUbkLgr"
+    },
+    {
+      "album": {
         "name": "Para Vivir Contigo",
         "url": "https://open.spotify.com/album/2a9iYk1aBjr7hExMNr2ZDe"
       },
@@ -622,6 +640,28 @@
       "duration_ms": 176066,
       "name": "El Herradero - En Vivo Desde El Rancho",
       "url": "https://open.spotify.com/track/1XSQE1KKdfIO8auVrK2l2s"
+    },
+    {
+      "album": {
+        "name": "Como en los Viejos Tiempos",
+        "url": "https://open.spotify.com/album/7kfuZtaN9zvpFhIIMZLvgI"
+      },
+      "artists": [
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        },
+        {
+          "name": "Grupo Laberinto",
+          "url": "https://open.spotify.com/artist/24z2EWgF5nVUKnbJHd9ku2"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156834,
+      "name": "El Mikima",
+      "url": "https://open.spotify.com/track/2CBfHu8O0jRDnJuUaQWVkg"
     },
     {
       "album": {
@@ -874,6 +914,28 @@
       "duration_ms": 206053,
       "name": "El Pulmon",
       "url": "https://open.spotify.com/track/7BJAA9HmsJhMB66Sd9MLrW"
+    },
+    {
+      "album": {
+        "name": "El Pulm\u00f3n",
+        "url": "https://open.spotify.com/album/5elWI9k1RB0IJo1uWG1Ihu"
+      },
+      "artists": [
+        {
+          "name": "Contrafuego",
+          "url": "https://open.spotify.com/artist/4fIgrneRiDbwrGD3AE722x"
+        },
+        {
+          "name": "Alex Ramirez Y Su Grupo Profetas",
+          "url": "https://open.spotify.com/artist/60MZiJnAYJd1QOj1woIm0R"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212813,
+      "name": "El Pulm\u00f2n",
+      "url": "https://open.spotify.com/track/7pCq5BIgSQtbCeE4XwBHlR"
     },
     {
       "album": {
@@ -1173,6 +1235,24 @@
     },
     {
       "album": {
+        "name": "La Panchita",
+        "url": "https://open.spotify.com/album/2fZDHIZm16tWGay2uuBmTX"
+      },
+      "artists": [
+        {
+          "name": "Serapio Ramirez",
+          "url": "https://open.spotify.com/artist/5zEu1AEBrzoPsIGwH0weYW"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213437,
+      "name": "La Panchita",
+      "url": "https://open.spotify.com/track/1NSNeV7Woy6cBc69wxfzLr"
+    },
+    {
+      "album": {
         "name": "Narco Corridos",
         "url": "https://open.spotify.com/album/0eFkLgjzIQj3RuIXdXoCSe"
       },
@@ -1292,7 +1372,7 @@
       ],
       "date_added": "2022-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 210800,
       "name": "Mi Potrillo",
       "url": "https://open.spotify.com/track/5zTaXVHRh7w35lRiDdLxKw"
@@ -1524,7 +1604,7 @@
       ],
       "date_added": "2022-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 200280,
       "name": "Yegua Sebruna",
       "url": "https://open.spotify.com/track/7gSZDWpZIdWvhuXHtFE1Xe"

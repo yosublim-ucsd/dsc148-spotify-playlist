@@ -5929,6 +5929,40 @@
     },
     {
       "album": {
+        "name": "Illumination",
+        "url": "https://open.spotify.com/album/4MmAnWcCqMKw1NUjpnkRSI"
+      },
+      "artists": [
+        {
+          "name": "Lauren Henderson",
+          "url": "https://open.spotify.com/artist/32l2cWGDfGIqFPxUAogD5l"
+        },
+        {
+          "name": "Joel Ross",
+          "url": "https://open.spotify.com/artist/5OSxNS2UGq8dW38T57o78l"
+        },
+        {
+          "name": "Sean Mason",
+          "url": "https://open.spotify.com/artist/1M58n49ePEbvVICvpKXB5Z"
+        },
+        {
+          "name": "Jonathan Michel",
+          "url": "https://open.spotify.com/artist/2G2WfpJo95sdb8Djp7xzd8"
+        },
+        {
+          "name": "Joe Dyson",
+          "url": "https://open.spotify.com/artist/62eXeNUScwDhx0IsHwfxKS"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269294,
+      "name": "Illumination",
+      "url": "https://open.spotify.com/track/5KyhsJIdx0okcY0OjfrfvL"
+    },
+    {
+      "album": {
         "name": "In a Mellow Tone",
         "url": "https://open.spotify.com/album/7DXr7QMH9a88Ll6r81vCJK"
       },
@@ -12548,7 +12582,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 231349,
       "name": "Tormento",
       "url": "https://open.spotify.com/track/5hUQiYplc53Z5zqW7OMQdn"

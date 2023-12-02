@@ -1,12 +1,12 @@
 {
   "description": "Work or rest with these gems from the 80s.",
-  "num_followers": 221549,
+  "num_followers": 221670,
   "original_name": "Chilled 80s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzYjk3MjQ4YjFlMzNmMjhmM2I0YmJhOTcxYTQ2NDQ5MjBhMjVkNjEw",
+  "snapshot_id": "MCw5OThjNjYxZDZhMWM4Y2E3ODM1MmM2NTcyYmM3ZWViNWMzMjUyNGYx",
   "tracks": [
     {
       "added_at": "2018-12-12 11:36:39",
@@ -139,22 +139,6 @@
     {
       "added_at": "2018-12-12 11:36:39",
       "album": {
-        "name": "Christopher Cross",
-        "url": "https://open.spotify.com/album/43L4t2oVmuJsudEls5C6Gh"
-      },
-      "artists": [
-        {
-          "name": "Christopher Cross",
-          "url": "https://open.spotify.com/artist/695W5F2Ih8dYahLdjVOIoH"
-        }
-      ],
-      "duration_ms": 258866,
-      "name": "Sailing",
-      "url": "https://open.spotify.com/track/4ogaI0XfmAunA0LyjveMSF"
-    },
-    {
-      "added_at": "2018-12-12 11:36:39",
-      "album": {
         "name": "Welcome To The Pleasuredome",
         "url": "https://open.spotify.com/album/0FU4Eo42Oyg1We3eRrOf4m"
       },
@@ -167,6 +151,22 @@
       "duration_ms": 332506,
       "name": "The Power Of Love",
       "url": "https://open.spotify.com/track/1GbyYL0B0Mjn3kSbrEwKKI"
+    },
+    {
+      "added_at": "2018-12-12 11:36:39",
+      "album": {
+        "name": "Christopher Cross",
+        "url": "https://open.spotify.com/album/43L4t2oVmuJsudEls5C6Gh"
+      },
+      "artists": [
+        {
+          "name": "Christopher Cross",
+          "url": "https://open.spotify.com/artist/695W5F2Ih8dYahLdjVOIoH"
+        }
+      ],
+      "duration_ms": 258866,
+      "name": "Sailing",
+      "url": "https://open.spotify.com/track/4ogaI0XfmAunA0LyjveMSF"
     },
     {
       "added_at": "2018-12-12 11:36:39",
@@ -271,22 +271,6 @@
     {
       "added_at": "2018-12-12 11:36:39",
       "album": {
-        "name": "A Real Hero EP",
-        "url": "https://open.spotify.com/album/1fpoZQUSFwlfSve4rkFjCI"
-      },
-      "artists": [
-        {
-          "name": "College & Electric Youth",
-          "url": "https://open.spotify.com/artist/3moPFBjUsSSJAC92afLgOH"
-        }
-      ],
-      "duration_ms": 267859,
-      "name": "A Real Hero",
-      "url": "https://open.spotify.com/track/1aJrVsHwcQMZ8TZ6mlvT5J"
-    },
-    {
-      "added_at": "2018-12-12 11:36:39",
-      "album": {
         "name": "The End Of The Innocence",
         "url": "https://open.spotify.com/album/12lDqJuZIqMk6DNe1fInFl"
       },
@@ -299,6 +283,22 @@
       "duration_ms": 315306,
       "name": "The End Of The Innocence",
       "url": "https://open.spotify.com/track/3NWcFiL6oCEagrFiTdDr1m"
+    },
+    {
+      "added_at": "2018-12-12 11:36:39",
+      "album": {
+        "name": "A Real Hero EP",
+        "url": "https://open.spotify.com/album/1fpoZQUSFwlfSve4rkFjCI"
+      },
+      "artists": [
+        {
+          "name": "College & Electric Youth",
+          "url": "https://open.spotify.com/artist/3moPFBjUsSSJAC92afLgOH"
+        }
+      ],
+      "duration_ms": 267859,
+      "name": "A Real Hero",
+      "url": "https://open.spotify.com/track/1aJrVsHwcQMZ8TZ6mlvT5J"
     },
     {
       "added_at": "2018-12-12 11:36:39",
@@ -431,18 +431,18 @@
     {
       "added_at": "2018-12-12 11:36:39",
       "album": {
-        "name": "Stay on These Roads",
-        "url": "https://open.spotify.com/album/6lka22PtQOmCt5ri8GPSZm"
+        "name": "...By Appointment",
+        "url": "https://open.spotify.com/album/7on9pbqcvWOX46FjzuaumM"
       },
       "artists": [
         {
-          "name": "a-ha",
-          "url": "https://open.spotify.com/artist/2jzc5TC5TVFLXQlBNiIUzE"
+          "name": "The Korgis",
+          "url": "https://open.spotify.com/artist/69zRcOlNdSZ17VfIZe4VU3"
         }
       ],
-      "duration_ms": 171573,
-      "name": "There's Never a Forever Thing",
-      "url": "https://open.spotify.com/track/5OWV0zaieHKpIW5O2EbRjy"
+      "duration_ms": 251946,
+      "name": "Everybody's Got To Learn Sometime",
+      "url": "https://open.spotify.com/track/1bP8oWk4crQOlwlG5DKeGY"
     },
     {
       "added_at": "2018-12-12 11:36:39",
@@ -463,18 +463,18 @@
     {
       "added_at": "2018-12-12 11:36:39",
       "album": {
-        "name": "...By Appointment",
-        "url": "https://open.spotify.com/album/7on9pbqcvWOX46FjzuaumM"
+        "name": "Stay on These Roads",
+        "url": "https://open.spotify.com/album/6lka22PtQOmCt5ri8GPSZm"
       },
       "artists": [
         {
-          "name": "The Korgis",
-          "url": "https://open.spotify.com/artist/69zRcOlNdSZ17VfIZe4VU3"
+          "name": "a-ha",
+          "url": "https://open.spotify.com/artist/2jzc5TC5TVFLXQlBNiIUzE"
         }
       ],
-      "duration_ms": 251946,
-      "name": "Everybody's Got To Learn Sometime",
-      "url": "https://open.spotify.com/track/1bP8oWk4crQOlwlG5DKeGY"
+      "duration_ms": 171573,
+      "name": "There's Never a Forever Thing",
+      "url": "https://open.spotify.com/track/5OWV0zaieHKpIW5O2EbRjy"
     },
     {
       "added_at": "2018-12-12 11:36:39",
@@ -639,22 +639,6 @@
     {
       "added_at": "2018-12-12 11:36:39",
       "album": {
-        "name": "It'll End In Tears (Remastered)",
-        "url": "https://open.spotify.com/album/5gMiiXVgUFVUIHKXC57a0j"
-      },
-      "artists": [
-        {
-          "name": "This Mortal Coil",
-          "url": "https://open.spotify.com/artist/5OK8j1JnhoBlivN32G7yOO"
-        }
-      ],
-      "duration_ms": 209093,
-      "name": "Kangaroo - Remastered",
-      "url": "https://open.spotify.com/track/2HsOICaAi5bwnqyG7uO1Fo"
-    },
-    {
-      "added_at": "2018-12-12 11:36:39",
-      "album": {
         "name": "Tango In the Night (Deluxe Edition)",
         "url": "https://open.spotify.com/album/4AsXQ17Arq1cUVoa9dKJ3F"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 189760,
       "name": "Mystified - 2017 Remaster",
       "url": "https://open.spotify.com/track/524nCOIQg9fi0pETVnbpv8"
+    },
+    {
+      "added_at": "2018-12-12 11:36:39",
+      "album": {
+        "name": "It'll End In Tears (Remastered)",
+        "url": "https://open.spotify.com/album/5gMiiXVgUFVUIHKXC57a0j"
+      },
+      "artists": [
+        {
+          "name": "This Mortal Coil",
+          "url": "https://open.spotify.com/artist/5OK8j1JnhoBlivN32G7yOO"
+        }
+      ],
+      "duration_ms": 209093,
+      "name": "Kangaroo - Remastered",
+      "url": "https://open.spotify.com/track/2HsOICaAi5bwnqyG7uO1Fo"
     },
     {
       "added_at": "2018-12-12 11:36:39",
@@ -751,22 +751,6 @@
     {
       "added_at": "2018-12-12 11:36:39",
       "album": {
-        "name": "Hounds Of Love",
-        "url": "https://open.spotify.com/album/5G5UwqPsxDKpxJLX4xsyuh"
-      },
-      "artists": [
-        {
-          "name": "Kate Bush",
-          "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
-        }
-      ],
-      "duration_ms": 165773,
-      "name": "And Dream Of Sheep",
-      "url": "https://open.spotify.com/track/12p03gHqut5vzucZt4uzJk"
-    },
-    {
-      "added_at": "2018-12-12 11:36:39",
-      "album": {
         "name": "Thirty Thousand Feet Over China",
         "url": "https://open.spotify.com/album/5Obv3KwOfysf310dXYqXQH"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 241320,
       "name": "I'm In Love With A German Film Star",
       "url": "https://open.spotify.com/track/7A3rywP8wA9HbL36NMnD81"
+    },
+    {
+      "added_at": "2018-12-12 11:36:39",
+      "album": {
+        "name": "Hounds Of Love",
+        "url": "https://open.spotify.com/album/5G5UwqPsxDKpxJLX4xsyuh"
+      },
+      "artists": [
+        {
+          "name": "Kate Bush",
+          "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
+        }
+      ],
+      "duration_ms": 165773,
+      "name": "And Dream Of Sheep",
+      "url": "https://open.spotify.com/track/12p03gHqut5vzucZt4uzJk"
     },
     {
       "added_at": "2018-12-12 11:36:39",
@@ -963,22 +963,6 @@
     {
       "added_at": "2018-12-12 11:36:39",
       "album": {
-        "name": "October (Deluxe Edition Remastered)",
-        "url": "https://open.spotify.com/album/59O7CFxLYBBKYtrO61LyqF"
-      },
-      "artists": [
-        {
-          "name": "U2",
-          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
-        }
-      ],
-      "duration_ms": 141040,
-      "name": "October - Remastered 2008",
-      "url": "https://open.spotify.com/track/1UlQqRd3NoMYUI29v6DFb5"
-    },
-    {
-      "added_at": "2018-12-12 11:36:39",
-      "album": {
         "name": "Let It Loose",
         "url": "https://open.spotify.com/album/1QFhYMcCFGK1pVVwStxf4x"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 235760,
       "name": "Can't Stay Away from You",
       "url": "https://open.spotify.com/track/3JeTD3IfCntCx3nLSAv56U"
+    },
+    {
+      "added_at": "2018-12-12 11:36:39",
+      "album": {
+        "name": "October (Deluxe Edition Remastered)",
+        "url": "https://open.spotify.com/album/59O7CFxLYBBKYtrO61LyqF"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "duration_ms": 141040,
+      "name": "October - Remastered 2008",
+      "url": "https://open.spotify.com/track/1UlQqRd3NoMYUI29v6DFb5"
     },
     {
       "added_at": "2018-12-12 11:36:39",

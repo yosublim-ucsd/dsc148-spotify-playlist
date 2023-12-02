@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZjVBCh3y4ph.md) - [plain]
 
 > Les hits zouk du moment\. Photo : Joé Dwèt Filé
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,979 likes - 40 songs - 2 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,048 likes - 40 songs - 2 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZjVBCh3y4ph.md) - [plain]
 | 39 | [LOUD](https://open.spotify.com/track/4jJBZuAd8KHFS9ALEZsAM3) | [Kelly Krow](https://open.spotify.com/artist/1RG2FZvpca9J9VjnCtmD4p), [Magdala](https://open.spotify.com/artist/3uadfXnnMTKpzaGo96mRFz) | [LOUD](https://open.spotify.com/album/1YrHvEby37Qg6RkeB0Kdyg) | 3:00 |
 | 40 | [Ny fitiavanay \(Notre amour\)](https://open.spotify.com/track/0e23qMbeMafeUQsuaqsIBh) | [Taylor Gasy](https://open.spotify.com/artist/547AvIcjAqi3Vz78SppsjN), [Jayneziss](https://open.spotify.com/artist/2gQcVMHBDwjdYAEOzubaHV) | [Ny fitiavanay \(Notre amour\)](https://open.spotify.com/album/7DMZmlKJXnqN6lL3AK51Qt) | 2:31 |
 
-Snapshot ID: `MCw2OTI4YjNkNzFlOTJjYTk2NWI1ZTYwZDgwZGIzODhlN2Y3NDRkYWZl`
+Snapshot ID: `MCw5NmEzNWQyZTVjZThiNzYzYmUxZTU0NzRlYTZiMWU5YjhjNTIyMjky`

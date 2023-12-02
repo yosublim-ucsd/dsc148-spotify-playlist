@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HUWm4UDVR3.md) - [plain]
 
 > La pop française annonce la couleur\. Photo : Adé
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,670 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,705 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HUWm4UDVR3.md) - [plain]
 | 49 | [Carabine](https://open.spotify.com/track/2z1EwCtvjaqa0AK5hQqvD0) | [Alice et Moi](https://open.spotify.com/artist/1NcCVE1FRpBSlN3LcAfhn3) | [Photographie](https://open.spotify.com/album/3OUdDelS2copkJpYt7LEP2) | 3:21 |
 | 50 | [Idiot](https://open.spotify.com/track/6JOlXpSpvjk6wi2pFJhhau) | [SAM](https://open.spotify.com/artist/7c5GqUF44K4Hmx77zhALdR), [Allen B](https://open.spotify.com/artist/4IMbOxi9R1vkvUZqPClKt8) | [Idiot](https://open.spotify.com/album/7w44o7QHPANWTfn8qa66Cs) | 2:56 |
 
-Snapshot ID: `MCw2YWRhZjBkODU2OTk1MmI4ODFjYzY2ODU0MDE2ZDcyMDk1YWQyNmUz`
+Snapshot ID: `MCw0NzQ1NzA5MGVkMDg3ZGM0OTM2ZTI3YTdiNDYyMjYzODUxNDQyOTRh`

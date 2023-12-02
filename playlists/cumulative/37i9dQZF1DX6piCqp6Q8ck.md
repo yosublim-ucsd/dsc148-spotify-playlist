@@ -4,7 +4,7 @@
 
 > Uplifting and happy jazz christmas classics.
 
-127 songs - 6 hr 13 min
+128 songs - 6 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,7 +94,8 @@
 | [O Little Town Of Bethlehem](https://open.spotify.com/track/5MffZmB9xOhY7N4kfmEFjE) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [Christmas With Ella & Friends](https://open.spotify.com/album/0wEWuRUrwhSlDyqUZGgHqI) | 2:24 | 2021-12-21 | 2022-07-29 |
 | [O Little Town Of Bethlehem](https://open.spotify.com/track/3ByuNcneVdsdaq5ew953fg) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [Trending Holiday Hits Volume 1](https://open.spotify.com/album/5sWwQPaXXoDcVufSoQeNH4) | 2:26 | 2022-11-09 | 2022-11-13 |
 | [O Little Town Of Bethlehem](https://open.spotify.com/track/6V23uUPhBn3NZuUVq1aOlz) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [Gospel Train \(Expanded Edition\)](https://open.spotify.com/album/3OGOZW8wCyD0zj254FZ0Ei) | 2:26 | 2022-01-03 |  |
-| [O Tannenbaum](https://open.spotify.com/track/2mvo1rm7jcZdcKRWEGD917) | [Nils Landgren](https://open.spotify.com/artist/6B3ZWSop1mrJd71rwFozVP), [Ida Sand](https://open.spotify.com/artist/2xlu6WzVa7WHwHhRptqq7c), [Clas Lassbo](https://open.spotify.com/artist/23eGVdEKiBmGYKEvFVlyzP), [Johan Norberg](https://open.spotify.com/artist/2awA1B7HXmbpuyMEJQkEyr), [Jonas Knutsson](https://open.spotify.com/artist/4epZWwhakogZTfyKbGpvQa) | [O Tannenbaum](https://open.spotify.com/album/5gvEyLq9MnZJBsWLDly7TG) | 3:16 | 2023-10-13 |  |
+| [O Tannenbaum](https://open.spotify.com/track/2mvo1rm7jcZdcKRWEGD917) | [Nils Landgren](https://open.spotify.com/artist/6B3ZWSop1mrJd71rwFozVP), [Ida Sand](https://open.spotify.com/artist/2xlu6WzVa7WHwHhRptqq7c), [Clas Lassbo](https://open.spotify.com/artist/23eGVdEKiBmGYKEvFVlyzP), [Johan Norberg](https://open.spotify.com/artist/2awA1B7HXmbpuyMEJQkEyr), [Jonas Knutsson](https://open.spotify.com/artist/4epZWwhakogZTfyKbGpvQa) | [O Tannenbaum](https://open.spotify.com/album/5gvEyLq9MnZJBsWLDly7TG) | 3:16 | 2023-10-13 | 2023-12-02 |
+| [O Tannenbaum](https://open.spotify.com/track/3CJ2KbL3dQ3UBlcOwvrBw4) | [Nils Landgren](https://open.spotify.com/artist/6B3ZWSop1mrJd71rwFozVP), [Ida Sand](https://open.spotify.com/artist/2xlu6WzVa7WHwHhRptqq7c), [Clas Lassbo](https://open.spotify.com/artist/23eGVdEKiBmGYKEvFVlyzP), [Johan Norberg](https://open.spotify.com/artist/2awA1B7HXmbpuyMEJQkEyr), [Jonas Knutsson](https://open.spotify.com/artist/4epZWwhakogZTfyKbGpvQa) | [Christmas with My Friends VIII](https://open.spotify.com/album/3FozTn1Z7wjqbIz0TUa9aw) | 3:16 | 2023-12-01 |  |
 | [O Tannenbaum](https://open.spotify.com/track/2uNFJN1qsfvZ3xepAGNoca) | [Vanguard Jazz Sextet](https://open.spotify.com/artist/5vAzmGwvrItLXbcCquKOQz) | [Hot Jazz for a Cool Night: a Jazz Christmas](https://open.spotify.com/album/02iLLB1FrzSb0V0pRqpjHS) | 4:54 | 2021-12-21 | 2023-10-13 |
 | [Perfect Time Of Year](https://open.spotify.com/track/5UI0toFLwTpXiWoN4AWi7p) | [Caity Gyorgy](https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa) | [Perfect Time of Year](https://open.spotify.com/album/5mx9avVIm8VDmOwwOjmN9y) | 3:26 | 2023-11-10 |  |
 | [Poppa Santa Claus](https://open.spotify.com/track/6xF6R6029v5XsSL0yFFW2X) | [Bing Crosby](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S), [The Andrews Sisters](https://open.spotify.com/artist/2NCGI6dLTxLdI9XHdv7QfM) | [Their Complete Recordings Together](https://open.spotify.com/album/59FWajrRYfw3QEoR3VSNc7) | 3:13 | 2022-01-03 |  |

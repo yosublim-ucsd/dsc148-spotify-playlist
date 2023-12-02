@@ -4,7 +4,7 @@
 
 > The best side! Cover: Snoop Dogg
 
-131 songs - 9 hr 43 min
+132 songs - 9 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,6 +56,7 @@
 | [Getto Jam](https://open.spotify.com/track/2mGxDOaHdBWnJY7V0In8Vx) | [Domino](https://open.spotify.com/artist/31jkjldc2rO3Ko4O6gGAl1) | [Domino](https://open.spotify.com/album/0RePnBPZPGezxSLMAKXBzR) | 4:19 | 2020-05-04 | 2023-03-11 |
 | [Gin and Juice](https://open.spotify.com/track/39QBkWKnap8wRSW4WB9OK0) | [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Doggystyle](https://open.spotify.com/album/5IFOummNcGXY3qCBWRchqP) | 3:31 | 2023-03-10 |  |
 | [Gin N Juice \(feat\. Dat Nigga Daz\)](https://open.spotify.com/track/7sPt2cfrg7DrVP52zfvS1i) | [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [Daz Dillinger](https://open.spotify.com/artist/5Jz9kKRnCRLTodCH58MyB4) | [Doggystyle](https://open.spotify.com/album/57elsC8jWIydd3qGLf5w8C) | 3:31 | 2022-02-11 | 2023-03-11 |
+| [Gz Up, Hoes Down](https://open.spotify.com/track/0cCLG47Bxcj7GpCXmkKP5r) | [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Doggystyle \(30th Anniversary Edition\)](https://open.spotify.com/album/2QioUoh1jheynkUHP4XsCN) | 2:21 | 2023-12-01 |  |
 | [Hate It Or Love It](https://open.spotify.com/track/2wGSgTmgSF3xjRrHkTc25R) | [The Game](https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI), [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh) | [The Documentary](https://open.spotify.com/album/4PrPbmm0gKvaD3rerOXFg8) | 3:26 | 2021-08-27 | 2022-02-12 |
 | [HiiiPower](https://open.spotify.com/track/4WEuEfFiczWxblHyuucSBL) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Section.80](https://open.spotify.com/album/1bkN9nIkkCnXeG4yitVS1J) | 4:39 | 2021-07-02 | 2022-01-30 |
 | [Hit 'Em Up \- Single Version](https://open.spotify.com/track/0Z2J91b2iTGLVTZC4fKgxf) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh), [Outlawz](https://open.spotify.com/artist/2jp3Fk52x0HbymU0lNYbSC) | [Greatest Hits](https://open.spotify.com/album/1WBZyULtlANBKed7Zf9cDP) | 5:12 | 2022-01-25 |  |
@@ -80,7 +81,7 @@
 | [Keep Ya Head Up](https://open.spotify.com/track/0XRbYXQUymj9SJkrr8YK5B) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh) | [Strictly 4 My N.I.G.G.A.Z...](https://open.spotify.com/album/7FK1855C3n1Q0RKbmvl7ll) | 4:22 | 2022-02-11 |  |
 | [La Raza](https://open.spotify.com/track/3zCg6CUmhxHukbUs0nd7ar) | [Kid Frost](https://open.spotify.com/artist/6OxjXk1y4QXXRUJyldFIIG) | [Hispanic Causing Panic](https://open.spotify.com/album/54du51RSgc4enNk2K2E2JX) | 3:29 | 2021-08-27 |  |
 | [Late Night Hype](https://open.spotify.com/track/79hH8RuVS9af6ixS97wREx) | [Compton's Most Wanted](https://open.spotify.com/artist/0SAPzv3jNXclYYSHOnJyjg) | [It's A Compton Thang!](https://open.spotify.com/album/53AUJ8HnXA7i8PrC8maxTY) | 4:54 | 2022-02-11 | 2023-03-19 |
-| [Lay Low](https://open.spotify.com/track/0YHI5hydPPth6J5UOzdLDX) | [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [Master P](https://open.spotify.com/artist/7zICaxnDB9ZprDSiFpvbbW), [Nate Dogg](https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h), [Butch Cassidy](https://open.spotify.com/artist/3uISNNuONokIh21KiNharS), [Tha Eastsidaz](https://open.spotify.com/artist/51FyBBOW464toW099BsW8z) | [Tha Last Meal](https://open.spotify.com/album/71VPCdeQQs1dmyVbflhPjX) | 3:43 | 2023-06-03 |  |
+| [Lay Low](https://open.spotify.com/track/0YHI5hydPPth6J5UOzdLDX) | [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [Master P](https://open.spotify.com/artist/7zICaxnDB9ZprDSiFpvbbW), [Nate Dogg](https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h), [Butch Cassidy](https://open.spotify.com/artist/3uISNNuONokIh21KiNharS), [Tha Eastsidaz](https://open.spotify.com/artist/51FyBBOW464toW099BsW8z) | [Tha Last Meal](https://open.spotify.com/album/71VPCdeQQs1dmyVbflhPjX) | 3:43 | 2023-06-03 | 2023-12-02 |
 | [Let Me Ride](https://open.spotify.com/track/36yUCSB9OaMz0RMUQDOSpT) | [Dr\. Dre](https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7), [Jewell](https://open.spotify.com/artist/05cqfWVtssCo3KVcqEAYG3) | [The Chronic](https://open.spotify.com/album/2V5rhszUpCudPcb01zevOt) | 4:20 | 2022-12-09 |  |
 | [Let Me Ride](https://open.spotify.com/track/1pjDKRg5WddCDSlG5PXcKy) | [Dr\. Dre](https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7), [Jewell](https://open.spotify.com/artist/05cqfWVtssCo3KVcqEAYG3) | [The Chronic](https://open.spotify.com/album/6vdFSyhPjL4dZFkgRtToXH) | 4:21 | 2020-05-04 | 2022-07-29 |
 | [Let's Play House](https://open.spotify.com/track/3IrIfSxQaRgLCTKp6ru4ez) | [Tha Dogg Pound](https://open.spotify.com/artist/60CFNa0ggWjV8OSDey8aGT) | [Dogg Food](https://open.spotify.com/album/37VmP0VgIeJWHMurcTMeJL) | 3:24 | 2021-08-27 | 2022-07-27 |

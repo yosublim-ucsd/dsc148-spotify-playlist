@@ -1242,7 +1242,7 @@
       ],
       "date_added": "2023-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 306847,
       "name": "Angel Numbers / Ten Toes",
       "url": "https://open.spotify.com/track/3XqM8hLCEYlbnFjoWwqtFv"
@@ -2898,7 +2898,7 @@
       ],
       "date_added": "2023-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 129130,
       "name": "Blendende Lys (Sprut)",
       "url": "https://open.spotify.com/track/12QUi7THQxSfpaULkKGt1x"
@@ -3932,7 +3932,7 @@
       ],
       "date_added": "2023-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 205483,
       "name": "Can\u2019t Catch Me Now - from The Hunger Games: The Ballad of Songbirds & Snakes",
       "url": "https://open.spotify.com/track/17cia5k4BpGVlyEfqrFH50"
@@ -7692,7 +7692,7 @@
       ],
       "date_added": "2023-11-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-29",
+      "date_removed": null,
       "duration_ms": 266328,
       "name": "Falle til ro (From the Original Netflix Series \"Home For Christmas\")",
       "url": "https://open.spotify.com/track/6oJLgaS6Py1tSKAJTKSe5K"
@@ -11260,7 +11260,7 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-28",
+      "date_removed": null,
       "duration_ms": 225817,
       "name": "Home To You (This Christmas)",
       "url": "https://open.spotify.com/track/1SBo8LdLGOieucdStHz6iV"
@@ -15204,7 +15204,7 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-29",
+      "date_removed": null,
       "duration_ms": 126200,
       "name": "Let It Snow, Let It Snow, Let It Snow",
       "url": "https://open.spotify.com/track/74yQRKUunP1sRjnnMks4SG"
@@ -19472,7 +19472,7 @@
       ],
       "date_added": "2023-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 230480,
       "name": "Paint The Town Red",
       "url": "https://open.spotify.com/track/56y1jOTK0XSvJzVv9vHQBK"
@@ -20660,6 +20660,40 @@
       "duration_ms": 235555,
       "name": "Ramenez la coupe \u00e0 la maison",
       "url": "https://open.spotify.com/track/1m0UFnuTktOkksvjbF9z0m"
+    },
+    {
+      "album": {
+        "name": "Ramperuss (Hjemmesnekk)",
+        "url": "https://open.spotify.com/album/69TTvZzULfJCxmH0XDayZH"
+      },
+      "artists": [
+        {
+          "name": "Keiser Augustus",
+          "url": "https://open.spotify.com/artist/2SOkJ0Z04Fc9FKZK35e2G4"
+        },
+        {
+          "name": "Kremily",
+          "url": "https://open.spotify.com/artist/7sNyG2RaPjNb7ytzUqR8bf"
+        },
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1rmV1xUZ2cyN4Sbz6Y0LVQ"
+        },
+        {
+          "name": "Hunken",
+          "url": "https://open.spotify.com/artist/6xW52UM8EdimPbltVNpflg"
+        },
+        {
+          "name": "Maximizer",
+          "url": "https://open.spotify.com/artist/3LV9MGwUFrCBZXic9C3HR6"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157983,
+      "name": "Ramperuss (Hjemmesnekk)",
+      "url": "https://open.spotify.com/track/2RypXhnpt7MbxdVQATVgvm"
     },
     {
       "album": {
@@ -23348,7 +23382,7 @@
       ],
       "date_added": "2023-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 194545,
       "name": "Sportskrave (Stag 2024)",
       "url": "https://open.spotify.com/track/0R7rw7i4pd27isZrMen0X7"
@@ -23666,7 +23700,7 @@
       ],
       "date_added": "2022-11-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-29",
+      "date_removed": null,
       "duration_ms": 198045,
       "name": "Stjernest\u00f8v",
       "url": "https://open.spotify.com/track/2g7kOfDm0QfGHICnvJfP0e"

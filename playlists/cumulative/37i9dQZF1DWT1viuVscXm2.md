@@ -4,7 +4,7 @@
 
 > y de la buena!
 
-258 songs - 15 hr 2 min
+259 songs - 15 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -142,6 +142,7 @@
 | [Mentirosa](https://open.spotify.com/track/3Iw4UVS7fo2TdD6Spmgqaj) | [Rafaga](https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS) | [Imparables](https://open.spotify.com/album/7jfg9E2mgCCUgeRAHRJuIG) | 3:14 | 2022-09-09 |  |
 | [Mentirosa](https://open.spotify.com/track/5l84vnSjoeOeMFNVbyRKVH) | [Rafaga](https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS) | [Lo mejor de Ráfaga](https://open.spotify.com/album/4qECJweYNVyAPvZNT6fd1T) | 3:14 | 2022-10-28 | 2022-11-13 |
 | [Mentirosa](https://open.spotify.com/track/2e3fohSwZ9nU6Q2tks0fFz) | [Rafaga](https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS) | [Imparables](https://open.spotify.com/album/0Rjblvwx7OfldgNEJQ6xcm) | 3:15 | 2021-12-24 | 2022-09-11 |
+| [Mentirosa Remix](https://open.spotify.com/track/5bgkgmz1bx7GxD6Kh6xeS8) | [Rafaga](https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Mentirosa Remix](https://open.spotify.com/album/73D3SBYlUHneMYQmSCWCnl) | 2:59 | 2023-12-01 |  |
 | [MI EX TENÍA RAZÓN](https://open.spotify.com/track/54zcJnb3tp9c5OVKREZ1Is) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [MAÑANA SERÁ BONITO \(BICHOTA SEASON\)](https://open.spotify.com/album/0FqAaUEyKCyUNFE1uQPZ7i) | 2:34 | 2023-08-18 |  |
 | [Mi Fórmula de Amor](https://open.spotify.com/track/4CVsyjUiuddcgeUPiAK2Z7) | [Super Quinteto](https://open.spotify.com/artist/4ArkxyeBPg8alE9CcBf86X) | [Mi Formula de Amor](https://open.spotify.com/album/7oTd7Mu8VHDaxaKJ5QZkWy) | 2:55 | 2023-02-03 | 2023-04-20 |
 | [Mi Historia Entre Tus Dedos](https://open.spotify.com/track/3mrRVpo3r93hi6qdQm2bLw) | [18 Kilates](https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC) | [Mi Historia Entre Tus Dedos](https://open.spotify.com/album/1om4tN4zbd13XwYmFk6B7O) | 3:24 | 2023-10-06 |  |
@@ -191,7 +192,7 @@
 | [Quedate](https://open.spotify.com/track/0NxxoaArPqmo2ivluHFCPD) | [Marito](https://open.spotify.com/artist/6635eN3p3KGQiPdlFFvred) | [Quedate](https://open.spotify.com/album/6KLtoJE5SMa2NpeV3DmW91) | 3:28 | 2022-08-26 | 2023-01-28 |
 | [Quieres Ser Mi Amante](https://open.spotify.com/track/6ZIHXMuIfggpBH9vhpTusl) | [Nestor En Bloque](https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg) | [Rompiendo el Silencio](https://open.spotify.com/album/5tV5Ufq4DosqkKprcC3KFB) | 2:56 | 2022-06-30 |  |
 | [Qué Agonía](https://open.spotify.com/track/5opUwRIhCuOG0AA8H3gFQL) | [Jambao](https://open.spotify.com/artist/37zUz0gjTaNCWTOymnuWGG) | [Qué Agonía](https://open.spotify.com/album/74lyeT4vwsCCOiScrFz5xy) | 3:37 | 2023-09-08 |  |
-| [Qué Ironía](https://open.spotify.com/track/5FmJy09OizHiP0440KL1S7) | [Karina](https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq) | [Qué Ironía](https://open.spotify.com/album/6q2RlNPqDohxAfpcc5cVno) | 4:27 | 2022-12-02 |  |
+| [Qué Ironía](https://open.spotify.com/track/5FmJy09OizHiP0440KL1S7) | [Karina](https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq) | [Qué Ironía](https://open.spotify.com/album/6q2RlNPqDohxAfpcc5cVno) | 4:27 | 2022-12-02 | 2023-12-02 |
 | [Regresa](https://open.spotify.com/track/7p8SFNiZjUjbGrA9nK8tGW) | [Nahuel Pennisi](https://open.spotify.com/artist/4IjHltwoSKbUeZLPeULyDe), [Luciano Pereyra](https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU) | [Regresa](https://open.spotify.com/album/43cwThRaGvMa8NIYPL663p) | 3:08 | 2023-08-18 | 2023-09-09 |
 | [Roto](https://open.spotify.com/track/5SInsDoEw0bovpyJnVWfF8) | [Rodrigo Tapari](https://open.spotify.com/artist/1wkImvL5XLLhrNcmX7sVt4) | [Roto](https://open.spotify.com/album/7nWdrfnpgCMWK4PoJdFvHn) | 3:40 | 2022-10-28 | 2023-07-29 |
 | [Sabrosón](https://open.spotify.com/track/5qcW5UQBIsVdudxjWILt8s) | [La Base](https://open.spotify.com/artist/2WXllWJylpBWxIAHHcTEQ0) | [Parulo](https://open.spotify.com/album/27c6V4uv7IxUHR9tGB5jeY) | 2:54 | 2022-10-28 | 2022-11-13 |

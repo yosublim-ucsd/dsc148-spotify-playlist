@@ -4,7 +4,7 @@
 
 > Éxitos del Trap Latino\. Foto: Bad Bunny.
 
-403 songs - 22 hr 52 min
+404 songs - 22 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -218,6 +218,7 @@
 | [Los Tiempos Cambian](https://open.spotify.com/track/53nAFsYHR43IlJ4h8G1ybd) | [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [Sentimiento, Elegancia y Más Maldad](https://open.spotify.com/album/21TAcmAXy0OY0U7B9LlwlY) | 3:25 | 2023-11-17 |  |
 | [LOUD \(feat\. Piero 47, 3TRIPLE J, JulianoChieff\)](https://open.spotify.com/track/4urZ3ocnvCpgU0Rv1P6Pd5) | [Drakomafia](https://open.spotify.com/artist/20BNHnI2SfySwLwWCAu4ew), [Il Nene De Oro](https://open.spotify.com/artist/6WzyAaCTzd5YoVMwdin58T), [Lleflight](https://open.spotify.com/artist/5GpRyfJV04fcnHBDzfVb8V), [Piero 47](https://open.spotify.com/artist/4xZrvfK8khgRIXk63gSFeB), [3TRIPLE J](https://open.spotify.com/artist/2lvn0dSSamgNsFZPaJPzoR), [JulianoChieff](https://open.spotify.com/artist/1GiKprzvYnLD4hBNxaA50l) | [LOUD \(feat\. Piero 47, 3TRIPLE J, JulianoChieff\)](https://open.spotify.com/album/6FtE6zJfTCiDMh0ju5B8nN) | 5:41 | 2023-06-30 |  |
 | [Ma' G](https://open.spotify.com/track/4iFSDLdPrWIaYo2VQeCv4f) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Ma' G](https://open.spotify.com/album/4jSlgVZD4bbTuxOYrXTPWe) | 3:46 | 2021-12-06 | 2022-04-16 |
+| [Madrid](https://open.spotify.com/track/49Br4XqYMOBlwM2YRGPQYy) | [Juhn](https://open.spotify.com/artist/2LmcxBak1alK1bf7d1beTr) | [Madrid](https://open.spotify.com/album/6fp9VIOrvejpy2WKofJmL3) | 2:57 | 2023-12-01 |  |
 | [Mafia Chilena: GUCCI GREMLIN](https://open.spotify.com/track/00nkC3hghUJB2ILdTAn44T) | [ITHAN NY](https://open.spotify.com/artist/0LshXUmIub6xKvOq4QmtNs), [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D) | [Mafia Chilena: GUCCI GREMLIN](https://open.spotify.com/album/4le82QUKPdaEI75sUfOrU8) | 2:56 | 2023-11-24 |  |
 | [Mafia Chilena: WHIPPING](https://open.spotify.com/track/30O2NJ4xRG91Y50dI8A6mT) | [ITHAN NY](https://open.spotify.com/artist/0LshXUmIub6xKvOq4QmtNs), [Piero 47](https://open.spotify.com/artist/4xZrvfK8khgRIXk63gSFeB) | [Mafia Chilena: WHIPPING](https://open.spotify.com/album/2zbI7iT8G0YhWntW7bvFnN) | 3:00 | 2023-11-24 |  |
 | [Malbec](https://open.spotify.com/track/6KEb17S00Inf0v1qYDgUAj) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36) | [Desde el Fin del Mundo](https://open.spotify.com/album/3MKQjYpaES80tFP7Qo2zH0) | 2:55 | 2021-12-06 |  |

@@ -1,12 +1,12 @@
 {
   "description": "El cholo se hizo buch\u00f3n \ud83d\ude0e\ud83e\udd20 Tomas Ballardo en portada.",
-  "num_followers": 112666,
+  "num_followers": 113023,
   "original_name": "Trap Corridos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNGIxMWUxZmY3MGY3YTYwYjdhZjQzMWU3YWI5YTRlZTlmNTNlMDFh",
+  "snapshot_id": "MCxhOWE1NWYxZGQ0ZDk1NWMwM2MwZjhkNzUyNTBkM2FjZmYyODE3N2Q4",
   "tracks": [
     {
       "added_at": "2023-11-10 15:24:01",
@@ -1035,6 +1035,22 @@
     {
       "added_at": "2023-11-10 15:24:01",
       "album": {
+        "name": "Seguimos Dejando Marca (En Vivo)",
+        "url": "https://open.spotify.com/album/2Jcr40zW9fKWCsMgB7Ov2k"
+      },
+      "artists": [
+        {
+          "name": "Cuatro De Oro",
+          "url": "https://open.spotify.com/artist/5jY3TOEPLD2fIt4hipYCU9"
+        }
+      ],
+      "duration_ms": 147781,
+      "name": "Gente Corriente - En Vivo",
+      "url": "https://open.spotify.com/track/3dy01NchIH3wWN2EJP3HTa"
+    },
+    {
+      "added_at": "2023-11-10 15:24:01",
+      "album": {
         "name": "El Pickles",
         "url": "https://open.spotify.com/album/2zJwQTD8HeEMsnxVIa4ssq"
       },
@@ -1051,22 +1067,6 @@
       "duration_ms": 182634,
       "name": "El Pickles",
       "url": "https://open.spotify.com/track/1xcFgv2NqLU17sc2ri5TTG"
-    },
-    {
-      "added_at": "2023-11-10 15:24:01",
-      "album": {
-        "name": "Seguimos Dejando Marca (En Vivo)",
-        "url": "https://open.spotify.com/album/2Jcr40zW9fKWCsMgB7Ov2k"
-      },
-      "artists": [
-        {
-          "name": "Cuatro De Oro",
-          "url": "https://open.spotify.com/artist/5jY3TOEPLD2fIt4hipYCU9"
-        }
-      ],
-      "duration_ms": 147781,
-      "name": "Gente Corriente - En Vivo",
-      "url": "https://open.spotify.com/track/3dy01NchIH3wWN2EJP3HTa"
     },
     {
       "added_at": "2023-11-10 15:24:01",
@@ -1315,22 +1315,22 @@
     {
       "added_at": "2023-11-10 15:24:01",
       "album": {
-        "name": "So\u00f1ando",
-        "url": "https://open.spotify.com/album/1tl182IgEgAOhTOgp1rooN"
+        "name": "El After",
+        "url": "https://open.spotify.com/album/7jxa0KY12QrVsMcmLt4YB7"
       },
       "artists": [
         {
-          "name": "El Wiko",
-          "url": "https://open.spotify.com/artist/711tZI6sxBPYHe5FvbLQjs"
+          "name": "Ricky Barajas",
+          "url": "https://open.spotify.com/artist/4xPyMG3TRjeYwXiD0SIZoe"
         },
         {
-          "name": "Simpson Ahuevo",
-          "url": "https://open.spotify.com/artist/6viZnVSHavFUcW0blu6Mvw"
+          "name": "El Padrinito Toys",
+          "url": "https://open.spotify.com/artist/04mzq9GH08zOBRdV2gzmXm"
         }
       ],
-      "duration_ms": 188964,
-      "name": "So\u00f1ando",
-      "url": "https://open.spotify.com/track/1ZZ2jOHKjKGUGGSOj7LsaD"
+      "duration_ms": 131172,
+      "name": "El After",
+      "url": "https://open.spotify.com/track/21OxiAu3VXFTrXhUkhryYb"
     },
     {
       "added_at": "2023-11-10 15:24:01",
@@ -1355,22 +1355,22 @@
     {
       "added_at": "2023-11-10 15:24:01",
       "album": {
-        "name": "El After",
-        "url": "https://open.spotify.com/album/7jxa0KY12QrVsMcmLt4YB7"
+        "name": "So\u00f1ando",
+        "url": "https://open.spotify.com/album/1tl182IgEgAOhTOgp1rooN"
       },
       "artists": [
         {
-          "name": "Ricky Barajas",
-          "url": "https://open.spotify.com/artist/4xPyMG3TRjeYwXiD0SIZoe"
+          "name": "El Wiko",
+          "url": "https://open.spotify.com/artist/711tZI6sxBPYHe5FvbLQjs"
         },
         {
-          "name": "El Padrinito Toys",
-          "url": "https://open.spotify.com/artist/04mzq9GH08zOBRdV2gzmXm"
+          "name": "Simpson Ahuevo",
+          "url": "https://open.spotify.com/artist/6viZnVSHavFUcW0blu6Mvw"
         }
       ],
-      "duration_ms": 131172,
-      "name": "El After",
-      "url": "https://open.spotify.com/track/21OxiAu3VXFTrXhUkhryYb"
+      "duration_ms": 188964,
+      "name": "So\u00f1ando",
+      "url": "https://open.spotify.com/track/1ZZ2jOHKjKGUGGSOj7LsaD"
     },
     {
       "added_at": "2023-11-10 15:24:01",

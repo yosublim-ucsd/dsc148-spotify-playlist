@@ -139,6 +139,24 @@
     },
     {
       "album": {
+        "name": "The Boy and the Heron - Original Soundtrack",
+        "url": "https://open.spotify.com/album/6oXCKKghd9Shmz2iU7ebbW"
+      },
+      "artists": [
+        {
+          "name": "Joe Hisaishi",
+          "url": "https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108533,
+      "name": "Ask Me Why (Mother's Message)",
+      "url": "https://open.spotify.com/track/104EutLydSehDHiEjmtdBo"
+    },
+    {
+      "album": {
         "name": "\u541b\u305f\u3061\u306f\u3069\u3046\u751f\u304d\u308b\u304b\u3000\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
         "url": "https://open.spotify.com/album/4OGf5cOhoHWaXEu0XnsF1t"
       },
@@ -150,7 +168,7 @@
       ],
       "date_added": "2023-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 108533,
       "name": "Ask me why(\u6bcd\u306e\u601d\u3044)",
       "url": "https://open.spotify.com/track/1ej3rD4t8Fb2n6tZskXFIu"
@@ -971,6 +989,28 @@
     },
     {
       "album": {
+        "name": "Reversal Orchestra Original Soundtrack",
+        "url": "https://open.spotify.com/album/5rlEtouzgzbIcIGOA280lr"
+      },
+      "artists": [
+        {
+          "name": "Shinya Kiyozuka",
+          "url": "https://open.spotify.com/artist/2acDvNu4hqCoCPlUdehoj2"
+        },
+        {
+          "name": "\u557c\u9d6c",
+          "url": "https://open.spotify.com/artist/1FI9S6aeJTuR7md0tSBo5h"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264733,
+      "name": "Reversal Orchestra Main Theme",
+      "url": "https://open.spotify.com/track/0pv2Mv5hHkYf6VZWvfA6us"
+    },
+    {
+      "album": {
         "name": "The Vision of Escaflowne (Original Motion Picture Soundtrack 2)",
         "url": "https://open.spotify.com/album/58nXdeGgTmfIfVjMdkwbGo"
       },
@@ -1078,6 +1118,24 @@
       "duration_ms": 220360,
       "name": "The Four Seasons / Violin Concerto in E Major, RV 269 \"Spring\": I. Allegro",
       "url": "https://open.spotify.com/track/1vPYvku7fpwbz1k6vYtw0p"
+    },
+    {
+      "album": {
+        "name": "The Boy and the Heron - Original Soundtrack",
+        "url": "https://open.spotify.com/album/6oXCKKghd9Shmz2iU7ebbW"
+      },
+      "artists": [
+        {
+          "name": "Joe Hisaishi",
+          "url": "https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174800,
+      "name": "The Last Smile",
+      "url": "https://open.spotify.com/track/3upwv1DPliAh0ACVYBGNIg"
     },
     {
       "album": {

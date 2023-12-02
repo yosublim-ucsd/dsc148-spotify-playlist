@@ -2,9 +2,9 @@
 
 ### [soda](https://open.spotify.com/playlist/37i9dQZF1DXaK0O81Xtkis)
 
-> make it pop! cover: Mark Ambor
+> make it pop! cover: Knox
 
-811 songs - 1 day 16 hr 25 min
+816 songs - 1 day 16 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -240,6 +240,7 @@
 | [Free Love](https://open.spotify.com/track/3hX0cncUUZ3A6cx9w1dW4w) | [Felly](https://open.spotify.com/artist/2848adRcxvgWNRcz1g1tQD) | [Free Love](https://open.spotify.com/album/6XJGZ5RmmHVvOJEDFPL8f3) | 2:53 | 2023-02-24 | 2023-07-22 |
 | [Friend Right Now](https://open.spotify.com/track/1525qKTOc3G2KJNYRG3rSQ) | [Caleb Hearn](https://open.spotify.com/artist/0EiNdCUwM4B5GkTInLAyuj) | [Friend Right Now](https://open.spotify.com/album/4F7oZLETHlEAovFGgp4VAI) | 2:33 | 2022-07-08 | 2022-08-13 |
 | [Friends](https://open.spotify.com/track/1Vt4oAoHBIopxekC8KhT6X) | [emma løv](https://open.spotify.com/artist/7eCvJy2JvEw2s087UHlJdx), [Loote](https://open.spotify.com/artist/00TKPo9MxwZ0j4ooveIxWZ), [JORDY](https://open.spotify.com/artist/0p9SPN0Vhv6aDRZCz4W13E) | [Friends](https://open.spotify.com/album/6OmzUBIzFkenjd3dJQhROK) | 2:50 | 2022-04-29 | 2022-07-30 |
+| [From the Start](https://open.spotify.com/track/6BJHsLiE47Sk0wQkuppqhr) | [Good Kid](https://open.spotify.com/artist/38SKxCyfrmNWqWunb9wGHP) | [From the Start](https://open.spotify.com/album/5SUqRbAHrcEGeLPb38L85v) | 2:30 | 2023-12-01 |  |
 | [frown](https://open.spotify.com/track/0P2CBPHJsD0BgdsqHedugp) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [rising](https://open.spotify.com/album/4Ozq72UWig4PdVy3yGyzAE) | 2:19 | 2022-05-20 | 2022-08-20 |
 | [FUNERAL GREY](https://open.spotify.com/track/29zvr7PRPQhE8plnBZ44nZ) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu) | [FUNERAL GREY](https://open.spotify.com/album/4BCWDiQzz9tE9KilNixcld) | 2:44 | 2022-05-13 | 2022-07-30 |
 | [FYTY](https://open.spotify.com/track/53XQLHcvLkKAxTvz0Py1wC) | [Dylan Matthew](https://open.spotify.com/artist/6d0ZjIp5L7Ygy2l02HskRX) | [FYTY](https://open.spotify.com/album/3Yp9S2bM34ia7nXn3qUcBX) | 2:52 | 2023-09-15 |  |
@@ -456,6 +457,7 @@
 | [Love You When You’re Gone](https://open.spotify.com/track/54liA2Xwyb7ZCrh9sDGQ3B) | [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [Love You When You’re Gone](https://open.spotify.com/album/3DtAEhLFoQSftobryAhftd) | 3:04 | 2022-09-09 | 2023-02-04 |
 | [Love!](https://open.spotify.com/track/21nLUVmQSUVd6qsFZRB416) | [Hallie](https://open.spotify.com/artist/0I0VahDFplPkGInkRvoXPW) | [Love!](https://open.spotify.com/album/0fTcODKOu5ujhJDJ2XltDN) | 3:19 | 2023-01-20 | 2023-02-18 |
 | [Lover or an Enemy](https://open.spotify.com/track/5bJvk3oiSK1QvDT7tFijgR) | [FRENSHIP](https://open.spotify.com/artist/7xEFii6utZmQ61kX59HmLH) | [Lover or an Enemy](https://open.spotify.com/album/51HxAKNk0UR0JITtYpq12L) | 3:19 | 2023-09-22 |  |
+| [Loverman](https://open.spotify.com/track/7yMvCjdJkJFKclMFnlutoV) | [Go\-Jo](https://open.spotify.com/artist/7CslUrDCYnm3vMtKZJZGNv) | [Loverman](https://open.spotify.com/album/6UyQiKLbwj1rfvWK0ybprK) | 2:26 | 2023-12-01 |  |
 | [Lucky \- Edit](https://open.spotify.com/track/2MHkpE8EdENJyhsW80MVXf) | [Two Door Cinema Club](https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl) | [Lucky](https://open.spotify.com/album/5xuxGrVtAlSz5c8W2gkvLl) | 3:16 | 2022-07-29 | 2022-09-03 |
 | [Magic](https://open.spotify.com/track/1ozTHWtYAhhLeJ2CejjNyF) | [Will Linley](https://open.spotify.com/artist/3xnCBQeZDec3FFo8vUSt4N) | [Magic](https://open.spotify.com/album/4ArIrhbEuQiYmNsePoj1OJ) | 3:13 | 2023-11-10 |  |
 | [make you sick](https://open.spotify.com/track/7Ec2TmAp6LQhPP21ioIEh1) | [Jake Cornell](https://open.spotify.com/artist/6zf13X0QDPkbKT2bQAcKyV) | [make you sick](https://open.spotify.com/album/59wTseGXxX8DibgCwwMzDP) | 2:01 | 2023-03-03 | 2023-06-24 |
@@ -545,6 +547,7 @@
 | [Over](https://open.spotify.com/track/6kI1yeiuf4DbAhrRb4Hq4v) | [KAIRO](https://open.spotify.com/artist/74fcIBekHLf4hucCT3My0v) | [Over](https://open.spotify.com/album/5JqFpeJ12d0fGEfUHGIuXM) | 2:53 | 2022-09-23 | 2022-11-12 |
 | [OVER EVERYTHING](https://open.spotify.com/track/3lOVMfy4wexOrOKEXW2mhV) | [Dreamer Boy](https://open.spotify.com/artist/1UJKiAI4Evnhh1ExDse25D) | [OVER EVERYTHING](https://open.spotify.com/album/50jAXDzoQmhAKojgDXY8fM) | 3:11 | 2022-03-18 | 2022-05-28 |
 | [Palm Springs for the Weekend](https://open.spotify.com/track/3fgXmDeOKrwEqnocqvQMdZ) | [Devin Kennedy](https://open.spotify.com/artist/6xRlQCMpg8bmkHlluqDF7Z) | [Palm Springs for the Weekend](https://open.spotify.com/album/136BiEvn24KBjdb2mEPRP0) | 2:00 | 2022-04-22 | 2022-05-20 |
+| [parachute](https://open.spotify.com/track/0mgAY5KtzQbG8BOIo8Kag4) | [Arden Jones](https://open.spotify.com/artist/3mMogqf2JyBUQZxFZlC79w) | [parachute](https://open.spotify.com/album/07KH3Fjsp0soupFKOhd025) | 2:55 | 2023-12-01 |  |
 | [Paradise Calling](https://open.spotify.com/track/6FDPJaI8UySXCTSWKMsXZj) | [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Paradise Calling](https://open.spotify.com/album/4eO6jrqvUJMfIGOQV6HmmB) | 3:06 | 2023-07-14 | 2023-08-26 |
 | [Paralyzed](https://open.spotify.com/track/6KOQLj5dcYuFSN6srNs96u) | [Big Time Rush](https://open.spotify.com/artist/0GWCNkPi54upO9WLlwjAHd) | [Paralyzed](https://open.spotify.com/album/4b5VmGfGFXxivUx1vshO9o) | 3:04 | 2022-11-25 | 2023-03-25 |
 | [Paris](https://open.spotify.com/track/4057hA5K1RLBIVjE4sdQUi) | [Gatlin](https://open.spotify.com/artist/1KGcdM5KxCVydaHe29QAj9) | [Paris](https://open.spotify.com/album/0t1vCr6b7CmKEjGOZNOR5p) | 2:47 | 2023-08-08 | 2023-10-14 |
@@ -601,6 +604,7 @@
 | [Same Team](https://open.spotify.com/track/3kL40teEoVA3IBmYkKslSV) | [Alice Merton](https://open.spotify.com/artist/7f0OLhGgBMX9fUjm1dcPip) | [Same Team](https://open.spotify.com/album/26HH6ki6j4Z7MtVbAFSn8i) | 3:31 | 2022-03-04 | 2022-03-18 |
 | [Sandman](https://open.spotify.com/track/3iXH8nRdc945PO0GlbOroA) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [Sandman](https://open.spotify.com/album/0tdqSTY29oE3dMnk2A1PVc) | 3:32 | 2023-06-23 | 2023-09-16 |
 | [Saturday](https://open.spotify.com/track/60dwJ8dnqZ4WrIdiu7LkNR) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Scaled And Icy](https://open.spotify.com/album/0Q5XBpCYFgUWiG9DUWyAmJ) | 2:52 | 2022-04-01 | 2022-04-09 |
+| [Save My Soul](https://open.spotify.com/track/4EcGbkv46bCvSzEPmQvQkj) | [Jonah Kagen](https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp) | [The Roads](https://open.spotify.com/album/74Kn48bZ6koe1cWM3x29lU) | 3:10 | 2023-12-01 |  |
 | [Scarlett](https://open.spotify.com/track/6dIU41Lx5NqUncAnPOJDco) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [The Walls Are Way Too Thin](https://open.spotify.com/album/3fnXTtLgkjHv2HmqOODSW8) | 3:16 | 2022-04-01 | 2022-04-09 |
 | [Searching For The Light](https://open.spotify.com/track/0QVZBtrQavTRm7yqWFwm7n) | [VHS Collection](https://open.spotify.com/artist/2Nvaq4y2ygxIqfwXyz0HeH) | [Searching For The Light](https://open.spotify.com/album/7GFUOjsy0ae2MH8YqNDR0O) | 3:07 | 2021-10-29 | 2022-01-08 |
 | [SEASONS](https://open.spotify.com/track/0LewCveaX3x2WWdJr0OQVu) | [Britton](https://open.spotify.com/artist/2VjEhHV3KaZlYg2js0Mqr0) | [SEASONS](https://open.spotify.com/album/6SfEC8qfzS8BlRZhoKnLNw) | 2:40 | 2023-08-18 |  |
@@ -692,6 +696,7 @@
 | [talking to yourself](https://open.spotify.com/track/15v3hWfg1p3gfjMZ3wJ4WA) | [remy](https://open.spotify.com/artist/4DsVKs4W72RTKOfD3CtTaw) | [you only call when you want something](https://open.spotify.com/album/0BuooxaM5TypVtfhdyAA14) | 2:38 | 2021-10-29 | 2022-01-08 |
 | [Tangerine](https://open.spotify.com/track/2JSwrpnYbxzKJVmc69cGZ9) | [Anthony Watts](https://open.spotify.com/artist/52S7chJRLMM0ueWjN6hhn1), [Anthony Russo](https://open.spotify.com/artist/6PFcrRZezCL5p9A0nwb7ki) | [Tangerine](https://open.spotify.com/album/61vdGknCYTjcsJFBc6KYcq) | 3:07 | 2022-05-20 | 2022-08-27 |
 | [Tears in the Moonlight](https://open.spotify.com/track/2MAz9mZH3n9nVGZWUC2VUh) | [Kelechi](https://open.spotify.com/artist/0c62xvYMgfzgFPOXg8uhEU) | [Tears in the Moonlight](https://open.spotify.com/album/5VMt4kmFV2RghvnTx9DCyu) | 2:59 | 2023-05-19 | 2023-07-29 |
+| [Tell Her](https://open.spotify.com/track/0WFccOR9KoNU0SXQ3mY7e5) | [Mia Wray](https://open.spotify.com/artist/3pol9num4gn7ifeZrENp2E) | [Tell Her](https://open.spotify.com/album/5r8xf0HbtvpK61fsiZ4x7I) | 3:12 | 2023-12-01 |  |
 | [Test Drive](https://open.spotify.com/track/0uNfVfWPTXc0OQpenU2Ejk) | [Dulcie](https://open.spotify.com/artist/5mizYbdTNtmQlU97XqxJOe) | [Test Drive](https://open.spotify.com/album/3P1kvhiXildaFMUSrxSdG4) | 2:52 | 2023-01-27 | 2023-03-25 |
 | [thank god](https://open.spotify.com/track/1ISqxcKx6GHXjomB4NfkpF) | [Christian French](https://open.spotify.com/artist/7naAJDAh7AZnf18YYfQruM) | [thank god](https://open.spotify.com/album/2ImBrGMid90VfbhErSEL7w) | 2:39 | 2023-03-03 | 2023-03-25 |
 | [Thank God!](https://open.spotify.com/track/0AzV6bXHxPJQdyabx62qF9) | [Dylan Matthew](https://open.spotify.com/artist/6d0ZjIp5L7Ygy2l02HskRX) | [no rain, no flowers](https://open.spotify.com/album/6ze4gb3v4vNgMtpyLQFaMi) | 2:39 | 2023-09-22 | 2023-11-25 |
@@ -792,7 +797,7 @@
 | [Wild Things](https://open.spotify.com/track/23IorJ28ZIRUI7VpKCaTSV) | [EEVAH](https://open.spotify.com/artist/3yJNIN3Ih9pFuG4cgfzCRL) | [Wild Things](https://open.spotify.com/album/1GgOyUSPYBz9682lLJWBWj) | 3:39 | 2022-12-23 | 2023-02-04 |
 | [Win Anyway](https://open.spotify.com/track/3ybYCEZBzVasEAHpix0ihF) | [WALK THE MOON](https://open.spotify.com/artist/6DIS6PRrLS3wbnZsf7vYic) | [Win Anyway](https://open.spotify.com/album/4JreOb3v50NkRrGyZxNRXC) | 2:56 | 2021-12-24 | 2022-02-26 |
 | [Wintering](https://open.spotify.com/track/4FxeY2UZeP3kpdBPbpGggN) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Being Funny In A Foreign Language](https://open.spotify.com/album/6dVCpQ7oGJD1oYs2fv1t5M) | 2:45 | 2022-12-23 | 2023-01-06 |
-| [Wish It Was Me](https://open.spotify.com/track/5znIh3KjSph3m7wCJsGgRY) | [Aidan Bissett](https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe) | [Supernova](https://open.spotify.com/album/1fTspDmdJN3MlqyxnBO9GT) | 2:33 | 2023-10-06 |  |
+| [Wish It Was Me](https://open.spotify.com/track/5znIh3KjSph3m7wCJsGgRY) | [Aidan Bissett](https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe) | [Supernova](https://open.spotify.com/album/1fTspDmdJN3MlqyxnBO9GT) | 2:33 | 2023-10-06 | 2023-12-02 |
 | [Wish You the Worst](https://open.spotify.com/track/0JBtSBz5wwJYIYkGpRk4wS) | [Ryan Mack](https://open.spotify.com/artist/5LGo1zHegJTWzqVXgeNplt) | [Wish You the Worst](https://open.spotify.com/album/3CJXPqgGd9igKie4C0YyiJ) | 2:23 | 2022-05-20 | 2022-08-19 |
 | [Wish You the Worst](https://open.spotify.com/track/0cOwPdK6FsqXz967daLc4k) | [Ryan Mack](https://open.spotify.com/artist/5LGo1zHegJTWzqVXgeNplt) | [Wish You the Worst](https://open.spotify.com/album/4JsqUzG5orBKjf3LC0d6We) | 2:23 | 2022-06-10 | 2022-08-27 |
 | [Wish You Were Here](https://open.spotify.com/track/5HH4smD2ZGTGx0H7rHTutW) | [Jack Newsome](https://open.spotify.com/artist/0JWzjpVD9Y6AJKIEg1JkYj) | [Wish You Were Here](https://open.spotify.com/album/4RlftpZGhEgnraSN2vUV2h) | 2:10 | 2022-06-17 | 2022-08-27 |

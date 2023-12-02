@@ -1,12 +1,12 @@
 {
   "description": "The best of current & contemporary Reggae. Welcome To Jamrock Reggae Cruise. Cover: Kabaka Pyramid",
-  "num_followers": 125119,
+  "num_followers": 125172,
   "original_name": "Irie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZjNmYmE5YmQ3Njk5YmUyNjI4Yzk3M2E3OGNiNjk5NDIxOGM3NGM0",
+  "snapshot_id": "MCxiZDE4MTA5OTMzYjkwYzVlNTU3ZDYwZGZkZWY0MzllOWVjYTlhZTVk",
   "tracks": [
     {
       "added_at": "2023-11-24 14:56:26",
@@ -527,26 +527,22 @@
     {
       "added_at": "2023-11-24 14:56:26",
       "album": {
-        "name": "Diamonds and Gold",
-        "url": "https://open.spotify.com/album/15muGQPID5opsEsRptvSDz"
+        "name": "Pressure (feat. Buju Banton) [Remix]",
+        "url": "https://open.spotify.com/album/4ECWzBSar0g4vOfVZJRjp2"
       },
       "artists": [
         {
-          "name": "Marlon Asher",
-          "url": "https://open.spotify.com/artist/4DeCJnS3fuqohKk4FCVl0y"
+          "name": "Koffee",
+          "url": "https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32"
         },
         {
-          "name": "Tarrus Riley",
-          "url": "https://open.spotify.com/artist/4frHO7KPcfMjhnVdIMJ98c"
-        },
-        {
-          "name": "Capleton",
-          "url": "https://open.spotify.com/artist/21J3YJTyq1biE3SvSNjzuf"
+          "name": "Buju Banton",
+          "url": "https://open.spotify.com/artist/4wLAjfeqAsV66AocWNcowA"
         }
       ],
-      "duration_ms": 227495,
-      "name": "Diamonds and Gold",
-      "url": "https://open.spotify.com/track/2XMeQMiOJgKRoWcC3CHFtJ"
+      "duration_ms": 238576,
+      "name": "Pressure (feat. Buju Banton) - Remix",
+      "url": "https://open.spotify.com/track/3mjsWpaYzIWJQcYgO7VtUA"
     },
     {
       "added_at": "2023-11-24 14:56:26",
@@ -579,22 +575,26 @@
     {
       "added_at": "2023-11-24 14:56:26",
       "album": {
-        "name": "Pressure (feat. Buju Banton) [Remix]",
-        "url": "https://open.spotify.com/album/4ECWzBSar0g4vOfVZJRjp2"
+        "name": "Diamonds and Gold",
+        "url": "https://open.spotify.com/album/15muGQPID5opsEsRptvSDz"
       },
       "artists": [
         {
-          "name": "Koffee",
-          "url": "https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32"
+          "name": "Marlon Asher",
+          "url": "https://open.spotify.com/artist/4DeCJnS3fuqohKk4FCVl0y"
         },
         {
-          "name": "Buju Banton",
-          "url": "https://open.spotify.com/artist/4wLAjfeqAsV66AocWNcowA"
+          "name": "Tarrus Riley",
+          "url": "https://open.spotify.com/artist/4frHO7KPcfMjhnVdIMJ98c"
+        },
+        {
+          "name": "Capleton",
+          "url": "https://open.spotify.com/artist/21J3YJTyq1biE3SvSNjzuf"
         }
       ],
-      "duration_ms": 238576,
-      "name": "Pressure (feat. Buju Banton) - Remix",
-      "url": "https://open.spotify.com/track/3mjsWpaYzIWJQcYgO7VtUA"
+      "duration_ms": 227495,
+      "name": "Diamonds and Gold",
+      "url": "https://open.spotify.com/track/2XMeQMiOJgKRoWcC3CHFtJ"
     },
     {
       "added_at": "2023-11-24 14:56:26",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2023-11-24 14:56:26",
       "album": {
-        "name": "The Golden Hour",
-        "url": "https://open.spotify.com/album/5KvwBh1yyh6HiaTGDBzP78"
-      },
-      "artists": [
-        {
-          "name": "Jaz Elise",
-          "url": "https://open.spotify.com/artist/1KcAq7rtxXV2RJ7BsFFItA"
-        }
-      ],
-      "duration_ms": 264960,
-      "name": "Good Over Evil",
-      "url": "https://open.spotify.com/track/3DkzTVZLHifYPaIlBw0x0f"
-    },
-    {
-      "added_at": "2023-11-24 14:56:26",
-      "album": {
         "name": "Good Good",
         "url": "https://open.spotify.com/album/2GM76ogRNK5hfjWAL6rEIX"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 236000,
       "name": "Good Good",
       "url": "https://open.spotify.com/track/2AgxNfN57Dzc69VbFwlUJ6"
+    },
+    {
+      "added_at": "2023-11-24 14:56:26",
+      "album": {
+        "name": "The Golden Hour",
+        "url": "https://open.spotify.com/album/5KvwBh1yyh6HiaTGDBzP78"
+      },
+      "artists": [
+        {
+          "name": "Jaz Elise",
+          "url": "https://open.spotify.com/artist/1KcAq7rtxXV2RJ7BsFFItA"
+        }
+      ],
+      "duration_ms": 264960,
+      "name": "Good Over Evil",
+      "url": "https://open.spotify.com/track/3DkzTVZLHifYPaIlBw0x0f"
     },
     {
       "added_at": "2023-11-24 14:56:26",
@@ -1291,18 +1291,18 @@
     {
       "added_at": "2023-11-24 14:56:26",
       "album": {
-        "name": "Too Much Lulaa Lay",
-        "url": "https://open.spotify.com/album/6XSpVUYLGWdImR2eIFweLb"
+        "name": "Energy",
+        "url": "https://open.spotify.com/album/3ecvu0AVEQIUFEIrC2Cjgb"
       },
       "artists": [
         {
-          "name": "Wayne Wonder",
-          "url": "https://open.spotify.com/artist/3kc5AFnL1TQQdNaMdSW2UO"
+          "name": "Mystic Marley",
+          "url": "https://open.spotify.com/artist/5WhXMSMSiOyEhXBNI6Lf2h"
         }
       ],
-      "duration_ms": 233778,
-      "name": "Too Much Lulaa Lay",
-      "url": "https://open.spotify.com/track/3DDaP7VsKqjrO6uE0Cer1G"
+      "duration_ms": 157974,
+      "name": "Energy",
+      "url": "https://open.spotify.com/track/6iH3aLFWxvjl4XfoDPfpNP"
     },
     {
       "added_at": "2023-11-24 14:56:26",
@@ -1331,18 +1331,18 @@
     {
       "added_at": "2023-11-24 14:56:26",
       "album": {
-        "name": "Six Miles Riddim",
-        "url": "https://open.spotify.com/album/26F2DJwryT3drRoc3EVuby"
+        "name": "Too Much Lulaa Lay",
+        "url": "https://open.spotify.com/album/6XSpVUYLGWdImR2eIFweLb"
       },
       "artists": [
         {
-          "name": "Christopher Martin",
-          "url": "https://open.spotify.com/artist/3dXC1YPbnQPsfHPVkm1ipj"
+          "name": "Wayne Wonder",
+          "url": "https://open.spotify.com/artist/3kc5AFnL1TQQdNaMdSW2UO"
         }
       ],
-      "duration_ms": 227112,
-      "name": "How Could You",
-      "url": "https://open.spotify.com/track/3Sag8mEE8Kh22DQs9jaraT"
+      "duration_ms": 233778,
+      "name": "Too Much Lulaa Lay",
+      "url": "https://open.spotify.com/track/3DDaP7VsKqjrO6uE0Cer1G"
     }
   ],
   "unique_name": "Irie",

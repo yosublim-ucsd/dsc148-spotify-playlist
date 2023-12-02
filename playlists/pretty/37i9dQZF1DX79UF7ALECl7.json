@@ -1,12 +1,12 @@
 {
   "description": "Have some chill house with your coffee\n",
-  "num_followers": 120976,
+  "num_followers": 121003,
   "original_name": "Coffee Club",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NjlkOWJhNzdkNjc4MmY3MGU1MTdjNGNmNTM0NTBhMTJmZDZhMTAx",
+  "snapshot_id": "MCw5OWMyOGQzOTU3Yjk1OTdmM2QwMjM1ZDI4NWIwNzM1YmViNWQ1MWZj",
   "tracks": [
     {
       "added_at": "2023-11-30 16:06:40",
@@ -47,22 +47,6 @@
     {
       "added_at": "2023-11-30 16:06:40",
       "album": {
-        "name": "House Shit",
-        "url": "https://open.spotify.com/album/4G3XZqQsuKeQmfYuT5OsgD"
-      },
-      "artists": [
-        {
-          "name": "YellowStraps",
-          "url": "https://open.spotify.com/artist/772hWD0N94gYjnVhrqE7lx"
-        }
-      ],
-      "duration_ms": 107586,
-      "name": "House Shit",
-      "url": "https://open.spotify.com/track/4jw0Ezk1j8xaAdKNdkgX22"
-    },
-    {
-      "added_at": "2023-11-30 16:06:40",
-      "album": {
         "name": "When the Sun Goes Down",
         "url": "https://open.spotify.com/album/2cWBcF4eIjTTJGBaAb7xXr"
       },
@@ -87,18 +71,18 @@
     {
       "added_at": "2023-11-30 16:06:40",
       "album": {
-        "name": "Now You're Gone",
-        "url": "https://open.spotify.com/album/2wYWPmW2sxUo047gtSg8Fg"
+        "name": "House Shit",
+        "url": "https://open.spotify.com/album/4G3XZqQsuKeQmfYuT5OsgD"
       },
       "artists": [
         {
-          "name": "ARTO",
-          "url": "https://open.spotify.com/artist/3T70Dxzh4RhkD3jPvkRLxn"
+          "name": "YellowStraps",
+          "url": "https://open.spotify.com/artist/772hWD0N94gYjnVhrqE7lx"
         }
       ],
-      "duration_ms": 144000,
-      "name": "Now You're Gone",
-      "url": "https://open.spotify.com/track/32ivmY7bC6SU6j6mYgWTJW"
+      "duration_ms": 107586,
+      "name": "House Shit",
+      "url": "https://open.spotify.com/track/4jw0Ezk1j8xaAdKNdkgX22"
     },
     {
       "added_at": "2023-11-30 16:06:40",
@@ -115,6 +99,22 @@
       "duration_ms": 130171,
       "name": "Away",
       "url": "https://open.spotify.com/track/22QWx1WyniAV8veVxcLkom"
+    },
+    {
+      "added_at": "2023-11-30 16:06:40",
+      "album": {
+        "name": "Now You're Gone",
+        "url": "https://open.spotify.com/album/2wYWPmW2sxUo047gtSg8Fg"
+      },
+      "artists": [
+        {
+          "name": "ARTO",
+          "url": "https://open.spotify.com/artist/3T70Dxzh4RhkD3jPvkRLxn"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "Now You're Gone",
+      "url": "https://open.spotify.com/track/32ivmY7bC6SU6j6mYgWTJW"
     },
     {
       "added_at": "2023-11-30 16:06:40",
@@ -411,26 +411,6 @@
     {
       "added_at": "2023-11-30 16:06:40",
       "album": {
-        "name": "Let Me",
-        "url": "https://open.spotify.com/album/4mNntEEGm90nZKu3AaYmcD"
-      },
-      "artists": [
-        {
-          "name": "Luminous",
-          "url": "https://open.spotify.com/artist/3ZqiOLqjaluKDLdKxQFn6u"
-        },
-        {
-          "name": "R.O",
-          "url": "https://open.spotify.com/artist/7HjjdBLZHCZEIjlLbGVLi0"
-        }
-      ],
-      "duration_ms": 220800,
-      "name": "Let Me",
-      "url": "https://open.spotify.com/track/2uLNusBKHvDrY5kH2Ymu4f"
-    },
-    {
-      "added_at": "2023-11-30 16:06:40",
-      "album": {
         "name": "Our Language",
         "url": "https://open.spotify.com/album/5MsxvhXIJxpiXJI2MNF3VE"
       },
@@ -447,6 +427,26 @@
       "duration_ms": 364226,
       "name": "Of Sea",
       "url": "https://open.spotify.com/track/5XYSBPFLufUCyMo3hXD9uP"
+    },
+    {
+      "added_at": "2023-11-30 16:06:40",
+      "album": {
+        "name": "Let Me",
+        "url": "https://open.spotify.com/album/4mNntEEGm90nZKu3AaYmcD"
+      },
+      "artists": [
+        {
+          "name": "Luminous",
+          "url": "https://open.spotify.com/artist/3ZqiOLqjaluKDLdKxQFn6u"
+        },
+        {
+          "name": "R.O",
+          "url": "https://open.spotify.com/artist/7HjjdBLZHCZEIjlLbGVLi0"
+        }
+      ],
+      "duration_ms": 220800,
+      "name": "Let Me",
+      "url": "https://open.spotify.com/track/2uLNusBKHvDrY5kH2Ymu4f"
     },
     {
       "added_at": "2023-11-30 16:06:40",
@@ -575,22 +575,6 @@
     {
       "added_at": "2023-11-30 16:06:40",
       "album": {
-        "name": "Gaia",
-        "url": "https://open.spotify.com/album/5JRX3f42FwJdGRawM04Vsp"
-      },
-      "artists": [
-        {
-          "name": "Yamil",
-          "url": "https://open.spotify.com/artist/28ZgRJOXwmLwPRppMCcLWS"
-        }
-      ],
-      "duration_ms": 245202,
-      "name": "Gaia - Radio Edit",
-      "url": "https://open.spotify.com/track/4ZbY3tViWurTa5JmaitOxX"
-    },
-    {
-      "added_at": "2023-11-30 16:06:40",
-      "album": {
         "name": "Forms / Objects",
         "url": "https://open.spotify.com/album/25f72Bhjb3GOERoGTNAnMu"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 386508,
       "name": "Objects",
       "url": "https://open.spotify.com/track/4FxDO7idxRd2P8sri4gNif"
+    },
+    {
+      "added_at": "2023-11-30 16:06:40",
+      "album": {
+        "name": "Gaia",
+        "url": "https://open.spotify.com/album/5JRX3f42FwJdGRawM04Vsp"
+      },
+      "artists": [
+        {
+          "name": "Yamil",
+          "url": "https://open.spotify.com/artist/28ZgRJOXwmLwPRppMCcLWS"
+        }
+      ],
+      "duration_ms": 245202,
+      "name": "Gaia - Radio Edit",
+      "url": "https://open.spotify.com/track/4ZbY3tViWurTa5JmaitOxX"
     },
     {
       "added_at": "2023-11-30 16:06:40",
@@ -707,22 +707,6 @@
     {
       "added_at": "2023-11-30 16:06:40",
       "album": {
-        "name": "Falling",
-        "url": "https://open.spotify.com/album/2WqkuyYDmZuiRDe9Y9MgfL"
-      },
-      "artists": [
-        {
-          "name": "Road Kahan",
-          "url": "https://open.spotify.com/artist/3YR1VNcG6ld2CHMSkia9Xs"
-        }
-      ],
-      "duration_ms": 182407,
-      "name": "Falling",
-      "url": "https://open.spotify.com/track/0s2ca6bYZBcJYIkD69p50I"
-    },
-    {
-      "added_at": "2023-11-30 16:06:40",
-      "album": {
         "name": "Too Many Questions (Remix)",
         "url": "https://open.spotify.com/album/7k3U9b32T6jfEvb7FhdjpH"
       },
@@ -747,6 +731,22 @@
     {
       "added_at": "2023-11-30 16:06:40",
       "album": {
+        "name": "After Midnyte",
+        "url": "https://open.spotify.com/album/0cDfru0PQCiZP3HOucjWny"
+      },
+      "artists": [
+        {
+          "name": "Giants' Nest",
+          "url": "https://open.spotify.com/artist/31WBcBz5f7Od21JVn20Ajn"
+        }
+      ],
+      "duration_ms": 191819,
+      "name": "Got to Fall Out",
+      "url": "https://open.spotify.com/track/5jrITUm4fDGar2kVdYTsAH"
+    },
+    {
+      "added_at": "2023-11-30 16:06:40",
+      "album": {
         "name": "Golden Cage EP",
         "url": "https://open.spotify.com/album/4rF9lZgtSHe1blrCPGFyGY"
       },
@@ -763,18 +763,18 @@
     {
       "added_at": "2023-11-30 16:06:40",
       "album": {
-        "name": "Petricor",
-        "url": "https://open.spotify.com/album/0IVYH4XuCGwV5Xdw6oL1nG"
+        "name": "Falling",
+        "url": "https://open.spotify.com/album/2WqkuyYDmZuiRDe9Y9MgfL"
       },
       "artists": [
         {
-          "name": "Sinego",
-          "url": "https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb"
+          "name": "Road Kahan",
+          "url": "https://open.spotify.com/artist/3YR1VNcG6ld2CHMSkia9Xs"
         }
       ],
-      "duration_ms": 204427,
-      "name": "Petricor",
-      "url": "https://open.spotify.com/track/5d4DtQUmvFYubKmOhL0p7m"
+      "duration_ms": 182407,
+      "name": "Falling",
+      "url": "https://open.spotify.com/track/0s2ca6bYZBcJYIkD69p50I"
     },
     {
       "added_at": "2023-11-30 16:06:40",
@@ -799,18 +799,18 @@
     {
       "added_at": "2023-11-30 16:06:40",
       "album": {
-        "name": "After Midnyte",
-        "url": "https://open.spotify.com/album/0cDfru0PQCiZP3HOucjWny"
+        "name": "Petricor",
+        "url": "https://open.spotify.com/album/0IVYH4XuCGwV5Xdw6oL1nG"
       },
       "artists": [
         {
-          "name": "Giants' Nest",
-          "url": "https://open.spotify.com/artist/31WBcBz5f7Od21JVn20Ajn"
+          "name": "Sinego",
+          "url": "https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb"
         }
       ],
-      "duration_ms": 191819,
-      "name": "Got to Fall Out",
-      "url": "https://open.spotify.com/track/5jrITUm4fDGar2kVdYTsAH"
+      "duration_ms": 204427,
+      "name": "Petricor",
+      "url": "https://open.spotify.com/track/5d4DtQUmvFYubKmOhL0p7m"
     },
     {
       "added_at": "2023-11-30 16:06:40",
@@ -895,26 +895,6 @@
     {
       "added_at": "2023-11-30 16:06:40",
       "album": {
-        "name": "You Just Danced",
-        "url": "https://open.spotify.com/album/17d0PBIogEhv6lGBTgYXKV"
-      },
-      "artists": [
-        {
-          "name": "El Mundo",
-          "url": "https://open.spotify.com/artist/2P98rkELDQVyC1olsD2Cej"
-        },
-        {
-          "name": "Zazou",
-          "url": "https://open.spotify.com/artist/7jXNReRQIMcQpWsWCNjeV1"
-        }
-      ],
-      "duration_ms": 452611,
-      "name": "You Just Danced",
-      "url": "https://open.spotify.com/track/0deFjGhPrCgPUqsgZxU8i5"
-    },
-    {
-      "added_at": "2023-11-30 16:06:40",
-      "album": {
         "name": "Hey Papi (Kraak & Smaak Remix)",
         "url": "https://open.spotify.com/album/38vxMgf3OrvZfbHOfazb9s"
       },
@@ -935,6 +915,26 @@
     {
       "added_at": "2023-11-30 16:06:40",
       "album": {
+        "name": "You Just Danced",
+        "url": "https://open.spotify.com/album/17d0PBIogEhv6lGBTgYXKV"
+      },
+      "artists": [
+        {
+          "name": "El Mundo",
+          "url": "https://open.spotify.com/artist/2P98rkELDQVyC1olsD2Cej"
+        },
+        {
+          "name": "Zazou",
+          "url": "https://open.spotify.com/artist/7jXNReRQIMcQpWsWCNjeV1"
+        }
+      ],
+      "duration_ms": 452611,
+      "name": "You Just Danced",
+      "url": "https://open.spotify.com/track/0deFjGhPrCgPUqsgZxU8i5"
+    },
+    {
+      "added_at": "2023-11-30 16:06:40",
+      "album": {
         "name": "Late Night Obsession",
         "url": "https://open.spotify.com/album/30Wa2MaR7XuSsd4g79tNE4"
       },
@@ -947,50 +947,6 @@
       "duration_ms": 166798,
       "name": "Slow Goods",
       "url": "https://open.spotify.com/track/66D24YMI6FMRRGHO8QoBhO"
-    },
-    {
-      "added_at": "2023-11-30 16:06:40",
-      "album": {
-        "name": "Solar Nights - The Remixes",
-        "url": "https://open.spotify.com/album/1ncN3KtEAVTlRXi7ITwnNV"
-      },
-      "artists": [
-        {
-          "name": "Satin Jackets",
-          "url": "https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv"
-        },
-        {
-          "name": "Anduze",
-          "url": "https://open.spotify.com/artist/52uJn5izVG1gicalLRYGQn"
-        },
-        {
-          "name": "NTEIBINT",
-          "url": "https://open.spotify.com/artist/6fJxi0zWcEG0argPVsSrXw"
-        }
-      ],
-      "duration_ms": 261908,
-      "name": "Athena - NTEIBINT Remix",
-      "url": "https://open.spotify.com/track/0A4kpU4AJnf6l8TEni6RUh"
-    },
-    {
-      "added_at": "2023-11-30 16:06:40",
-      "album": {
-        "name": "Echo Of Youth Remodel",
-        "url": "https://open.spotify.com/album/736ZHBrEbC3XvvacaoA1t6"
-      },
-      "artists": [
-        {
-          "name": "Menke",
-          "url": "https://open.spotify.com/artist/56fiEsX7uP1maw2NajHZXJ"
-        },
-        {
-          "name": "Satin Jackets",
-          "url": "https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv"
-        }
-      ],
-      "duration_ms": 298440,
-      "name": "Youth - Satin Jackets Remix",
-      "url": "https://open.spotify.com/track/3Vm1sSi0FyIpQ7fYHHMW8Q"
     },
     {
       "added_at": "2023-11-30 16:06:40",
@@ -1039,6 +995,50 @@
       "duration_ms": 213611,
       "name": "Don't Stop the Dance - Kraak & Smaak Radio Edit",
       "url": "https://open.spotify.com/track/1zoI4kALck0KVXw8wYJEfY"
+    },
+    {
+      "added_at": "2023-11-30 16:06:40",
+      "album": {
+        "name": "Solar Nights - The Remixes",
+        "url": "https://open.spotify.com/album/1ncN3KtEAVTlRXi7ITwnNV"
+      },
+      "artists": [
+        {
+          "name": "Satin Jackets",
+          "url": "https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv"
+        },
+        {
+          "name": "Anduze",
+          "url": "https://open.spotify.com/artist/52uJn5izVG1gicalLRYGQn"
+        },
+        {
+          "name": "NTEIBINT",
+          "url": "https://open.spotify.com/artist/6fJxi0zWcEG0argPVsSrXw"
+        }
+      ],
+      "duration_ms": 261908,
+      "name": "Athena - NTEIBINT Remix",
+      "url": "https://open.spotify.com/track/0A4kpU4AJnf6l8TEni6RUh"
+    },
+    {
+      "added_at": "2023-11-30 16:06:40",
+      "album": {
+        "name": "Echo Of Youth Remodel",
+        "url": "https://open.spotify.com/album/736ZHBrEbC3XvvacaoA1t6"
+      },
+      "artists": [
+        {
+          "name": "Menke",
+          "url": "https://open.spotify.com/artist/56fiEsX7uP1maw2NajHZXJ"
+        },
+        {
+          "name": "Satin Jackets",
+          "url": "https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv"
+        }
+      ],
+      "duration_ms": 298440,
+      "name": "Youth - Satin Jackets Remix",
+      "url": "https://open.spotify.com/track/3Vm1sSi0FyIpQ7fYHHMW8Q"
     },
     {
       "added_at": "2023-11-30 16:06:40",
@@ -1359,18 +1359,22 @@
     {
       "added_at": "2023-11-30 16:06:40",
       "album": {
-        "name": "Mr. Magic",
-        "url": "https://open.spotify.com/album/3ThYrWOxW8L6qdwwMBZBtk"
+        "name": "Aftergold (5 Year Anniversary)",
+        "url": "https://open.spotify.com/album/5QMSCiDAPdRfU27M7N7Ro2"
       },
       "artists": [
         {
-          "name": "Baka G",
-          "url": "https://open.spotify.com/artist/7CfH9Pe1z2V3OuUCIH9ru4"
+          "name": "Big Wild",
+          "url": "https://open.spotify.com/artist/0PxzGnCYBpSuaI49OR94cA"
+        },
+        {
+          "name": "obli",
+          "url": "https://open.spotify.com/artist/5bVwCv4C9KQXdUVTCVSjy4"
         }
       ],
-      "duration_ms": 345534,
-      "name": "Mr. Magic",
-      "url": "https://open.spotify.com/track/0dSoodH9dHclkP2kMec21H"
+      "duration_ms": 228573,
+      "name": "Aftergold - obli Remix",
+      "url": "https://open.spotify.com/track/2HmehsWbm1mZDIxe50Jpod"
     },
     {
       "added_at": "2023-11-30 16:06:40",
@@ -1387,22 +1391,6 @@
       "duration_ms": 252234,
       "name": "Reconnect",
       "url": "https://open.spotify.com/track/5f81kMkgmZLBsio8pAM6oA"
-    },
-    {
-      "added_at": "2023-11-30 16:06:40",
-      "album": {
-        "name": "Chill Executive Officer (CEO), Vol. 7 [Selected by Maykel Piron]",
-        "url": "https://open.spotify.com/album/4wvrrh7LugJVuufRSpE4pt"
-      },
-      "artists": [
-        {
-          "name": "B\u00f8lling",
-          "url": "https://open.spotify.com/artist/3lTVwL069q4XSE9pcacCXS"
-        }
-      ],
-      "duration_ms": 199346,
-      "name": "Nothing Happened",
-      "url": "https://open.spotify.com/track/7aMBDyba2YVpoKWHXBijrG"
     },
     {
       "added_at": "2023-11-30 16:06:40",
@@ -1427,42 +1415,34 @@
     {
       "added_at": "2023-11-30 16:06:40",
       "album": {
-        "name": "Aftergold (5 Year Anniversary)",
-        "url": "https://open.spotify.com/album/5QMSCiDAPdRfU27M7N7Ro2"
+        "name": "Chill Executive Officer (CEO), Vol. 7 [Selected by Maykel Piron]",
+        "url": "https://open.spotify.com/album/4wvrrh7LugJVuufRSpE4pt"
       },
       "artists": [
         {
-          "name": "Big Wild",
-          "url": "https://open.spotify.com/artist/0PxzGnCYBpSuaI49OR94cA"
-        },
-        {
-          "name": "obli",
-          "url": "https://open.spotify.com/artist/5bVwCv4C9KQXdUVTCVSjy4"
+          "name": "B\u00f8lling",
+          "url": "https://open.spotify.com/artist/3lTVwL069q4XSE9pcacCXS"
         }
       ],
-      "duration_ms": 228573,
-      "name": "Aftergold - obli Remix",
-      "url": "https://open.spotify.com/track/2HmehsWbm1mZDIxe50Jpod"
+      "duration_ms": 199346,
+      "name": "Nothing Happened",
+      "url": "https://open.spotify.com/track/7aMBDyba2YVpoKWHXBijrG"
     },
     {
       "added_at": "2023-11-30 16:06:40",
       "album": {
-        "name": "Do This",
-        "url": "https://open.spotify.com/album/4z82w201UQTrLSxaEHKrgl"
+        "name": "Mr. Magic",
+        "url": "https://open.spotify.com/album/3ThYrWOxW8L6qdwwMBZBtk"
       },
       "artists": [
         {
-          "name": "Keljet",
-          "url": "https://open.spotify.com/artist/0aF0pIALJDBCfFgqiTaK2g"
-        },
-        {
-          "name": "Hyara",
-          "url": "https://open.spotify.com/artist/1Q0xi0vgcIdvtRdx2qtfi0"
+          "name": "Baka G",
+          "url": "https://open.spotify.com/artist/7CfH9Pe1z2V3OuUCIH9ru4"
         }
       ],
-      "duration_ms": 231593,
-      "name": "Do This",
-      "url": "https://open.spotify.com/track/5zrISuhxhXCp4Tnm6gjWZl"
+      "duration_ms": 345534,
+      "name": "Mr. Magic",
+      "url": "https://open.spotify.com/track/0dSoodH9dHclkP2kMec21H"
     },
     {
       "added_at": "2023-11-30 16:06:40",
@@ -1503,6 +1483,26 @@
       "duration_ms": 453559,
       "name": "Deneb Cygni - Original Mix",
       "url": "https://open.spotify.com/track/7w3TeiGbzbfvPE192wpKdX"
+    },
+    {
+      "added_at": "2023-11-30 16:06:40",
+      "album": {
+        "name": "Do This",
+        "url": "https://open.spotify.com/album/4z82w201UQTrLSxaEHKrgl"
+      },
+      "artists": [
+        {
+          "name": "Keljet",
+          "url": "https://open.spotify.com/artist/0aF0pIALJDBCfFgqiTaK2g"
+        },
+        {
+          "name": "Hyara",
+          "url": "https://open.spotify.com/artist/1Q0xi0vgcIdvtRdx2qtfi0"
+        }
+      ],
+      "duration_ms": 231593,
+      "name": "Do This",
+      "url": "https://open.spotify.com/track/5zrISuhxhXCp4Tnm6gjWZl"
     },
     {
       "added_at": "2023-11-30 16:06:40",
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2023-11-30 16:06:40",
       "album": {
-        "name": "small talk",
-        "url": "https://open.spotify.com/album/0gnsZmbviCp5VN6QFcihfh"
-      },
-      "artists": [
-        {
-          "name": "Seb Wildblood",
-          "url": "https://open.spotify.com/artist/51Rlwvwkj8L3zakIRr6dUV"
-        }
-      ],
-      "duration_ms": 325680,
-      "name": "small talk",
-      "url": "https://open.spotify.com/track/2C7VzkQt8CEqr2qkueHiCP"
-    },
-    {
-      "added_at": "2023-11-30 16:06:40",
-      "album": {
         "name": "The Island",
         "url": "https://open.spotify.com/album/7Lq4U7ZWU1Xm7u9OKoHKU9"
       },
@@ -1611,6 +1595,22 @@
       "duration_ms": 247933,
       "name": "Float",
       "url": "https://open.spotify.com/track/2U6OKVqexxZKLwQe7purlV"
+    },
+    {
+      "added_at": "2023-11-30 16:06:40",
+      "album": {
+        "name": "small talk",
+        "url": "https://open.spotify.com/album/0gnsZmbviCp5VN6QFcihfh"
+      },
+      "artists": [
+        {
+          "name": "Seb Wildblood",
+          "url": "https://open.spotify.com/artist/51Rlwvwkj8L3zakIRr6dUV"
+        }
+      ],
+      "duration_ms": 325680,
+      "name": "small talk",
+      "url": "https://open.spotify.com/track/2C7VzkQt8CEqr2qkueHiCP"
     },
     {
       "added_at": "2023-11-30 16:06:40",

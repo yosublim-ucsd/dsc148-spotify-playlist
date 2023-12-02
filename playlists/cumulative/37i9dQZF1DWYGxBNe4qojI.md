@@ -2,9 +2,9 @@
 
 ### [I Love My East Coast Classics](https://open.spotify.com/playlist/37i9dQZF1DWYGxBNe4qojI)
 
-> Where it all started\. Cover: A Tribe Called Quest
+> Where it all started\. Cover: Wu\-Tang
 
-190 songs - 13 hr 21 min
+191 songs - 13 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,7 +116,7 @@
 | [Money Ain't A Thang](https://open.spotify.com/track/3dT126FgdirenOn5aDXHBE) | [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB), [Jermaine Dupri](https://open.spotify.com/artist/6nfYGe7IIuuP5bMY1jkJP6) | [Vol.2..\. Hard Knock Life](https://open.spotify.com/album/3j1xCJdBMCl6wYQXurz2tb) | 4:13 | 2022-07-01 | 2022-07-28 |
 | [Money, Power & Respect \(feat\. DMX & Lil' Kim\)](https://open.spotify.com/track/3MbBa8FMMgp9D39s7Cozl9) | [The LOX](https://open.spotify.com/artist/0A7g2YbCA9FlyZvAG6VmKP), [DMX](https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG), [Lil' Kim](https://open.spotify.com/artist/5tth2a3v0sWwV1C7bApBdX) | [Money, Power & Respect](https://open.spotify.com/album/1fkGVz3LWxjax7F0Mrj3f5) | 4:30 | 2021-06-25 | 2022-02-16 |
 | [Ms\. Fat Booty](https://open.spotify.com/track/0IVAlb0cFCH1cQ974iR1TU) | [Mos Def](https://open.spotify.com/artist/0Mz5XE0kb1GBnbLQm2VbcO) | [Black On Both Sides](https://open.spotify.com/album/5gK2l2LgWY0BA4p9uy27z6) | 3:43 | 2021-06-25 | 2022-02-22 |
-| [N.Y\. State of Mind](https://open.spotify.com/track/5zwz05jkQVT68CjUpPwFZe) | [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q) | [Illmatic XX](https://open.spotify.com/album/6oSHgr3TZJPCFshYUfBDqE) | 4:53 | 2021-06-25 |  |
+| [N.Y\. State of Mind](https://open.spotify.com/track/5zwz05jkQVT68CjUpPwFZe) | [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q) | [Illmatic XX](https://open.spotify.com/album/6oSHgr3TZJPCFshYUfBDqE) | 4:53 | 2021-06-25 | 2023-12-02 |
 | [Nappy Heads \- Remix](https://open.spotify.com/track/0hKr166QnNZ0a37G4UO0VY) | [Fugees](https://open.spotify.com/artist/2WKdxPFRD7IqZvlIAvhMgY), [Salaam Remi](https://open.spotify.com/artist/0rlS0SzVFk8BoiAW0fGBbN) | [Blunted On Reality](https://open.spotify.com/album/0SHdsrvo4oGJiUlYLaqCcu) | 5:22 | 2021-06-25 | 2022-02-02 |
 | [Next Level \- Nyte Time Mix](https://open.spotify.com/track/2mehHNForRahnPueLQAgfv) | [Showbiz & A.G.](https://open.spotify.com/artist/1U0EFT6jsUpEXAaWesmxAz) | [Goodfellas](https://open.spotify.com/album/1DKIWe0KC9j4psJ7pi7CDu) | 4:09 | 2022-02-21 | 2023-02-24 |
 | [Nothin'](https://open.spotify.com/track/5ZKVNTG7yu7gbX4vryqS2X) | [N.O.R.E.](https://open.spotify.com/artist/4GMgdB3vwbBOc42hbXEi9p) | [God's Favorite](https://open.spotify.com/album/4Gb8Xs87uYNhBwh5wfG7qt) | 4:24 | 2021-06-25 | 2022-02-19 |
@@ -133,6 +133,7 @@
 | [Party And Bullshit](https://open.spotify.com/track/0hSgKDMPSucWMaOOTTuchT) | [jazyxd](https://open.spotify.com/artist/5aj7D6owUlXgCAour8ulCY), [restsanchez](https://open.spotify.com/artist/3qTmEMShcMqSabvCs78Zen), [Leopanforte](https://open.spotify.com/artist/72ptKrXdQG9VlKwtwzwpi7) | [Party And Bullshit](https://open.spotify.com/album/6U6tX7k9GFIMQWm2PYDSBh) | 3:37 | 2023-05-05 | 2023-06-04 |
 | [Party And Bullshit](https://open.spotify.com/track/5mqPg2dyqb1gBNyg9ycGcT) | [The Notorious B.I.G.](https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb) | [Whos The Man ? Soundtrack](https://open.spotify.com/album/2lka9gSjkghBBSjktHnN6o) | 3:39 | 2022-10-07 |  |
 | [Party and Bullshit \- 2008 Remaster](https://open.spotify.com/track/6jCGzZn0gFeRlbqdaJhw6T) | [The Notorious B.I.G.](https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb) | [NOTORIOUS Music From and Inspired by the Original Motion Picture](https://open.spotify.com/album/37pqxCN5TmoEc26GWYvol4) | 3:37 | 2022-05-20 | 2022-07-29 |
+| [Poppin' Them Thangs](https://open.spotify.com/track/4E5IFAXCob6QqZaJMTw5YN) | [G\-Unit](https://open.spotify.com/artist/6evKD5JWJON3qPBJtUEmtY) | [Beg For Mercy](https://open.spotify.com/album/0BolFrIcCXXppUK50ETvgy) | 4:00 | 2023-12-01 |  |
 | [Proceed](https://open.spotify.com/track/6iRtbpHOfLvItuLXuGu05F) | [The Roots](https://open.spotify.com/artist/78xUyw6FkVZrRAtziFdtdu) | [Do You Want More?!!!??! \(Deluxe Version\)](https://open.spotify.com/album/4CUBkEbEXZnhuOjFfaWcg9) | 4:35 | 2022-02-21 | 2022-07-29 |
 | [Protect Ya Neck \(feat\. RZA, Method Man, Inspectah Deck, Raekwon, U\-God, Ol' Dirty Bastard, Ghostface Killah & GZA\)](https://open.spotify.com/track/1Sgj10byiGzPpI2IrXSFEn) | [Wu\-Tang Clan](https://open.spotify.com/artist/34EP7KEpOjXcM2TCat1ISk), [RZA](https://open.spotify.com/artist/4iCwCMnqsNZ6atvRiADgtn), [Method Man](https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt), [Inspectah Deck](https://open.spotify.com/artist/4OBbOrkD4geIjOLrICN3wO), [Raekwon](https://open.spotify.com/artist/2yQf6b8hxahZaT5dHlWaB1), [U\-God](https://open.spotify.com/artist/0G070wUUUBptmqGEKAAUVx), [Ol' Dirty Bastard](https://open.spotify.com/artist/50NoVNy9GU1lCrDV8iGpyu), [Ghostface Killah](https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe), [GZA](https://open.spotify.com/artist/6ns6XAOsw4B0nDUIovAOUO) | [Enter The Wu\-Tang \(36 Chambers\) \[Expanded Edition\]](https://open.spotify.com/album/3tQd5mwBtVyxCoEo4htGAV) | 4:51 | 2022-02-24 |  |
 | [Put It On](https://open.spotify.com/track/6JI5wNWYdBw68GZjOMmgK5) | [Big L](https://open.spotify.com/artist/30fiiwr2EeZp1tAhzYCmyM) | [Lifestylez Ov Da Poor & Dangerous](https://open.spotify.com/album/7xvBUHu5jJ7X0wdRHudLFD) | 3:37 | 2022-02-21 |  |

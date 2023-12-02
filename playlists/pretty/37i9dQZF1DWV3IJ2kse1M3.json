@@ -1,12 +1,12 @@
 {
   "description": "\u5728\u97f3\u6a02\u7684\u61f7\u62b1\u88e1\uff0c\u4f60\u60f3\u54ed\u5c31\u54ed\u3002\n\u751f\u547d\u592a\u77ed\u4fc3 \u75db\u592a\u6e05\u695a \u624d\u8b93\u4f60\u8b93\u6211 \u611b\u5230\u7121\u9000\u8def\u3002",
-  "num_followers": 192126,
+  "num_followers": 192122,
   "original_name": "\u60b2\u50b7\u91cb\u653e",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MGYwMWYwNDJmYjQ2OGI1ZTA5YzBhY2FhMGFjNjRhOWU4ODQzMzk1",
+  "snapshot_id": "MCxhYzcxZWNmYTFkNmUzMThiNWMzMGY4NzJiMGVlMGNkYjcxMzI5NmVj",
   "tracks": [
     {
       "added_at": "2023-03-31 13:22:19",
@@ -411,22 +411,6 @@
     {
       "added_at": "2023-03-31 13:22:19",
       "album": {
-        "name": "\u96e2\u958b\u4f60\u4ee5\u5f8c (\u96fb\u5f71\u300a\u4f60\u7684\u5a5a\u79ae\u300b\u63d2\u66f2)",
-        "url": "https://open.spotify.com/album/5CPLcd9fvDNZz4xkAuoovk"
-      },
-      "artists": [
-        {
-          "name": "Eric Chou",
-          "url": "https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi"
-        }
-      ],
-      "duration_ms": 309840,
-      "name": "\u96e2\u958b\u4f60\u4ee5\u5f8c - \u96fb\u5f71\u300a\u4f60\u7684\u5a5a\u79ae\u300b\u63d2\u66f2",
-      "url": "https://open.spotify.com/track/4cSCMlCcY65zlz1ZPhqsCe"
-    },
-    {
-      "added_at": "2023-03-31 13:22:19",
-      "album": {
         "name": "\u521d\u5b78\u8005",
         "url": "https://open.spotify.com/album/4IlbFUwa4Fd5laEAD3H6lQ"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 250482,
       "name": "\u525b\u525b\u597d",
       "url": "https://open.spotify.com/track/3urogUGoBidulMDDoucJBB"
+    },
+    {
+      "added_at": "2023-03-31 13:22:19",
+      "album": {
+        "name": "\u96e2\u958b\u4f60\u4ee5\u5f8c (\u96fb\u5f71\u300a\u4f60\u7684\u5a5a\u79ae\u300b\u63d2\u66f2)",
+        "url": "https://open.spotify.com/album/5CPLcd9fvDNZz4xkAuoovk"
+      },
+      "artists": [
+        {
+          "name": "Eric Chou",
+          "url": "https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi"
+        }
+      ],
+      "duration_ms": 309840,
+      "name": "\u96e2\u958b\u4f60\u4ee5\u5f8c - \u96fb\u5f71\u300a\u4f60\u7684\u5a5a\u79ae\u300b\u63d2\u66f2",
+      "url": "https://open.spotify.com/track/4cSCMlCcY65zlz1ZPhqsCe"
     },
     {
       "added_at": "2023-03-31 13:22:19",
@@ -539,22 +539,6 @@
     {
       "added_at": "2023-03-31 13:22:19",
       "album": {
-        "name": "\u963f\u62c9\u65af\u52a0\u6d77\u6e7e",
-        "url": "https://open.spotify.com/album/3pkuo2CnLMggHIWUtNgScR"
-      },
-      "artists": [
-        {
-          "name": "\u8521\u6069\u96e8 Priscilla Abby",
-          "url": "https://open.spotify.com/artist/0zFBdI3ErhNDcIPAKiGoL0"
-        }
-      ],
-      "duration_ms": 237840,
-      "name": "\u963f\u62c9\u65af\u52a0\u6d77\u6e7e",
-      "url": "https://open.spotify.com/track/5DCNAwyomUF3LXunq4NSpJ"
-    },
-    {
-      "added_at": "2023-03-31 13:22:19",
-      "album": {
         "name": "\u672a\u5b8c\u6210",
         "url": "https://open.spotify.com/album/1kOV94kOm4oCBzloDcW9ry"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 320400,
       "name": "\u6211\u4e0d\u96e3\u904e",
       "url": "https://open.spotify.com/track/4XrWar13kLO1jr535AzKrQ"
+    },
+    {
+      "added_at": "2023-03-31 13:22:19",
+      "album": {
+        "name": "\u963f\u62c9\u65af\u52a0\u6d77\u6e7e",
+        "url": "https://open.spotify.com/album/3pkuo2CnLMggHIWUtNgScR"
+      },
+      "artists": [
+        {
+          "name": "\u8521\u6069\u96e8 Priscilla Abby",
+          "url": "https://open.spotify.com/artist/0zFBdI3ErhNDcIPAKiGoL0"
+        }
+      ],
+      "duration_ms": 237840,
+      "name": "\u963f\u62c9\u65af\u52a0\u6d77\u6e7e",
+      "url": "https://open.spotify.com/track/5DCNAwyomUF3LXunq4NSpJ"
     },
     {
       "added_at": "2023-03-31 13:22:19",
@@ -651,22 +651,6 @@
     {
       "added_at": "2023-03-31 13:22:19",
       "album": {
-        "name": "\u9ed1\u8272\u67f3\u4e01",
-        "url": "https://open.spotify.com/album/3u5zGr9TFLRi2wXeHmNclY"
-      },
-      "artists": [
-        {
-          "name": "David Tao",
-          "url": "https://open.spotify.com/artist/40tNK2YedBV2jRFAHxpifB"
-        }
-      ],
-      "duration_ms": 269000,
-      "name": "Melody",
-      "url": "https://open.spotify.com/track/6A4wVKbcg0mRriCFjZzX0Z"
-    },
-    {
-      "added_at": "2023-03-31 13:22:19",
-      "album": {
         "name": "Just Sing It",
         "url": "https://open.spotify.com/album/7Jx7AkjH18dy4gnaqCMNNz"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 248573,
       "name": "\u8857\u89d2\u7684\u795d\u798f",
       "url": "https://open.spotify.com/track/1M5MN2PnMtf7YhnqukD4xa"
+    },
+    {
+      "added_at": "2023-03-31 13:22:19",
+      "album": {
+        "name": "\u9ed1\u8272\u67f3\u4e01",
+        "url": "https://open.spotify.com/album/3u5zGr9TFLRi2wXeHmNclY"
+      },
+      "artists": [
+        {
+          "name": "David Tao",
+          "url": "https://open.spotify.com/artist/40tNK2YedBV2jRFAHxpifB"
+        }
+      ],
+      "duration_ms": 269000,
+      "name": "Melody",
+      "url": "https://open.spotify.com/track/6A4wVKbcg0mRriCFjZzX0Z"
     },
     {
       "added_at": "2023-03-31 13:22:19",
@@ -763,22 +763,6 @@
     {
       "added_at": "2023-03-31 13:22:19",
       "album": {
-        "name": "\u96e8\u611b",
-        "url": "https://open.spotify.com/album/6SH07iXCRCVUTYtHW5k8y8"
-      },
-      "artists": [
-        {
-          "name": "Rainie Yang",
-          "url": "https://open.spotify.com/artist/0MEchSWR9pJvw1S5CV3Kuk"
-        }
-      ],
-      "duration_ms": 261880,
-      "name": "\u533f\u540d\u7684\u597d\u53cb",
-      "url": "https://open.spotify.com/track/0o9XsvHqGY2L8E6LRztDv1"
-    },
-    {
-      "added_at": "2023-03-31 13:22:19",
-      "album": {
         "name": "\u610f\u5916",
         "url": "https://open.spotify.com/album/6fdVEfGvTcT7TgipOorHD5"
       },
@@ -795,18 +779,34 @@
     {
       "added_at": "2023-03-31 13:22:19",
       "album": {
-        "name": "\u6709\u4e00\u7a2e\u60b2\u50b7 (\u96fb\u5f71\u300a\u6bd4\u60b2\u50b7\u66f4\u60b2\u50b7\u7684\u6545\u4e8b\u300b\u4e3b\u984c\u66f2)",
-        "url": "https://open.spotify.com/album/68NAOLFISOsBsyMLA2fUPf"
+        "name": "\u96e8\u611b",
+        "url": "https://open.spotify.com/album/6SH07iXCRCVUTYtHW5k8y8"
       },
       "artists": [
         {
-          "name": "A-Lin",
-          "url": "https://open.spotify.com/artist/28gf2piFx6cAKOMIwcky5a"
+          "name": "Rainie Yang",
+          "url": "https://open.spotify.com/artist/0MEchSWR9pJvw1S5CV3Kuk"
         }
       ],
-      "duration_ms": 237000,
-      "name": "\u6709\u4e00\u7a2e\u60b2\u50b7 - \u96fb\u5f71\u300a\u6bd4\u60b2\u50b7\u66f4\u60b2\u50b7\u7684\u6545\u4e8b\u300b\u4e3b\u984c\u66f2",
-      "url": "https://open.spotify.com/track/3ayrHkyorPEpeOBvZ76SwG"
+      "duration_ms": 261880,
+      "name": "\u533f\u540d\u7684\u597d\u53cb",
+      "url": "https://open.spotify.com/track/0o9XsvHqGY2L8E6LRztDv1"
+    },
+    {
+      "added_at": "2023-03-31 13:22:19",
+      "album": {
+        "name": "\u5077\u6545\u4e8b\u7684\u4eba",
+        "url": "https://open.spotify.com/album/181c4IPOvcJphA0ZKAZIeW"
+      },
+      "artists": [
+        {
+          "name": "A-Mei Chang",
+          "url": "https://open.spotify.com/artist/6noxsCszBEEK04kCehugOp"
+        }
+      ],
+      "duration_ms": 266557,
+      "name": "\u8eab\u5f8c",
+      "url": "https://open.spotify.com/track/5niImrS3tokLyQ8uHKswt1"
     }
   ],
   "unique_name": "\u60b2\u50b7\u91cb\u653e",

@@ -4,10 +4,11 @@
 
 > Modernas, rebeldes y divertidas, ¡Así son ellas!
 
-88 songs - 3 hr 42 min
+88 songs - 3 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [](https://open.spotify.com/track/1NV2n81StzrL8svv01aZaA) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/4NmjPjTRWoQa33BLUyYPv5) | 0:00 | 2021-01-18 |  |
 | [Ahora Te Puedes Marchar \- Remastered](https://open.spotify.com/track/4xfF88HtFcohZYbuNUl2Ag) | [Lita Torelló](https://open.spotify.com/artist/220JuDukvxjcVJeEC1o3mx) | [Grandes Éxitos \(Remastered\)](https://open.spotify.com/album/6M4RDtWU6nyWwo2EG7aSkv) | 2:40 | 2021-01-18 |  |
 | [Boogaloo Smith](https://open.spotify.com/track/1CYfqpy4TmfTBSZSll6Vhq) | [James Clarke](https://open.spotify.com/artist/5ooAHetwsdFoL1RaRcfDXG) | [Blow Up presents Exclusive Blend Volume 1](https://open.spotify.com/album/4cZe6XeALxQjhc2Mh778Sg) | 1:36 | 2021-01-18 | 2022-12-01 |
 | [Boogaloo Smith](https://open.spotify.com/track/69d3Gm32wJVEIjzR554yvM) | [James Clarke](https://open.spotify.com/artist/5ooAHetwsdFoL1RaRcfDXG) | [Kpm 1000 Series: Progressive Pop](https://open.spotify.com/album/7GVgvor1nx7BAu9XA1mvie) | 1:38 | 2021-01-18 |  |
@@ -62,7 +63,6 @@
 | [Pourquoi Pas Moi](https://open.spotify.com/track/40PaVbkEZY0sz6m4P4NdfH) | [Stella](https://open.spotify.com/artist/0ZPDnYMSbQCDhIZ3KTkhTA) | [Swinging Mademoiselles](https://open.spotify.com/album/7CkK9z6Cd7xH2Yz0cOPnnb) | 2:53 | 2021-01-18 |  |
 | [Pourquoi Pas Moi](https://open.spotify.com/track/4k1Ijlm5OZ3lQ46QsZg0DQ) | [Stella](https://open.spotify.com/artist/002oyMRzxTzEsBRLzACi8d) | [Swinging Mademoiselles \- Groovy French Sounds from the 60s](https://open.spotify.com/album/02JILwWQUcZ0MILSOIy6BO) | 2:53 | 2021-01-18 | 2023-03-01 |
 | [Profesor](https://open.spotify.com/track/5JZSW0sHsLPoEPye1jQc4A) | [Alicia Granados](https://open.spotify.com/artist/4MdLsOw1fEglZyW9qkEaft) | [Profesor](https://open.spotify.com/album/1bqkkVj2oGYrp9832YeIfc) | 1:51 | 2021-01-18 |  |
-| [Quiero Quedarme Aquí \- Remastered](https://open.spotify.com/track/1NV2n81StzrL8svv01aZaA) | [Eydie Gormé](https://open.spotify.com/artist/6HnHBbeScFiQKXt3sUQA3Z) | [My Best \(Remastered\)](https://open.spotify.com/album/4NmjPjTRWoQa33BLUyYPv5) | 2:18 | 2021-01-18 |  |
 | [Roller Girl](https://open.spotify.com/track/7fxZpBlviGbIQ3MdWr2Nch) | [Anna Karina](https://open.spotify.com/artist/5Hdnj4ih6VtuvwwNFUAMEC) | [BOF Anna](https://open.spotify.com/album/7lamDMJGneBZtJBtfwas9v) | 2:23 | 2021-01-18 |  |
 | [Romeo y Julieta](https://open.spotify.com/track/5G16h0fFvNuQmwA6y78QM6) | [Karina](https://open.spotify.com/artist/7kL7lbaqaHIUB3Ol5YU69a) | [Colores](https://open.spotify.com/album/1Scgivd40jqSf5QybT3Itq) | 2:34 | 2021-01-18 |  |
 | [Siempre es domingo \- 2015 Remaster](https://open.spotify.com/track/0JyL6nklvYdBAxpfLmvZBp) | [Gelu](https://open.spotify.com/artist/2yjN5JRnodrl8NsktcIZ8A) | [Los EP's Originales \(Remastered 2015\)](https://open.spotify.com/album/1KmBro1fKa2NTUyuGqo3VS) | 2:02 | 2021-01-18 |  |

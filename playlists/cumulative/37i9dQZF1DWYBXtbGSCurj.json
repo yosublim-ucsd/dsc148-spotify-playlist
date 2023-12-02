@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-18",
-  "description": "O Trap brasileiro puro ouro, entre lan\u00e7amentos e hits. Foto: Chefin",
+  "description": "O Trap brasileiro puro ouro, entre lan\u00e7amentos e hits. Foto: Ebony",
   "name": "Trap Ouro",
   "tracks": [
     {
@@ -110,6 +110,10 @@
         {
           "name": "Chefin",
           "url": "https://open.spotify.com/artist/68PYmgkbRP1qZnEWOry7sB"
+        },
+        {
+          "name": "Mainstreet",
+          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
         }
       ],
       "date_added": "2023-11-24",
@@ -468,7 +472,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 168960,
       "name": "3 Doses",
       "url": "https://open.spotify.com/track/7vd6iYAjjZuGPStuiCNGmg"
@@ -594,6 +598,28 @@
       "duration_ms": 190000,
       "name": "7 Meiota",
       "url": "https://open.spotify.com/track/7GlKZPZ02XIhVCSwHboMTb"
+    },
+    {
+      "album": {
+        "name": "7 VIDAS",
+        "url": "https://open.spotify.com/album/6ACGFZIyEh2rQrKx070iMH"
+      },
+      "artists": [
+        {
+          "name": "Welisson",
+          "url": "https://open.spotify.com/artist/0a7FE3vf12P5MRkp6eYwBQ"
+        },
+        {
+          "name": "thiaguin que isso?",
+          "url": "https://open.spotify.com/artist/3BjAAcPl3hKcBb0GqDtusU"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176018,
+      "name": "7 VIDAS",
+      "url": "https://open.spotify.com/track/6mRAHhaKxKvETSWdoxtJgO"
     },
     {
       "album": {
@@ -1840,7 +1866,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 121031,
       "name": "Atlanta - Spotify Singles",
       "url": "https://open.spotify.com/track/40gXrlLYOAK6O4QVunjRRp"
@@ -2022,7 +2048,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 149028,
       "name": "B.O",
       "url": "https://open.spotify.com/track/3TABo0pBUu2Tx1xp6DoMCP"
@@ -2642,6 +2668,28 @@
       "duration_ms": 148363,
       "name": "Baw Baw",
       "url": "https://open.spotify.com/track/3WkQB4dC44RqD7P33z0Ck9"
+    },
+    {
+      "album": {
+        "name": "2 L3Trinha",
+        "url": "https://open.spotify.com/album/4cbEBTjZqyqvjADtg2mgBN"
+      },
+      "artists": [
+        {
+          "name": "LH CHUCRO",
+          "url": "https://open.spotify.com/artist/3Im4m6K9QvxFBUJIOttSuH"
+        },
+        {
+          "name": "prodmelo!",
+          "url": "https://open.spotify.com/artist/2g6DsXyUDFSxE6ld7WzAFZ"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151562,
+      "name": "Bb Simon$",
+      "url": "https://open.spotify.com/track/7mC3yedRbAHl7XyVPiQGlH"
     },
     {
       "album": {
@@ -3472,7 +3520,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 107055,
       "name": "CALA-BOCA VADIA",
       "url": "https://open.spotify.com/track/1dzzdWpDKbZzZWVfNM8Zk5"
@@ -3768,6 +3816,24 @@
       "duration_ms": 173142,
       "name": "Carro Chefe da Leste",
       "url": "https://open.spotify.com/track/3MDve8fTNpGOGdhZ7wvMdf"
+    },
+    {
+      "album": {
+        "name": "Carta Aberta",
+        "url": "https://open.spotify.com/album/7yGXpufcJyZEZ5fcyv2NGq"
+      },
+      "artists": [
+        {
+          "name": "MC Cabelinho",
+          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262258,
+      "name": "Carta Aberta",
+      "url": "https://open.spotify.com/track/4VI4yOAb7fWrFCnuGBIaeG"
     },
     {
       "album": {
@@ -4390,7 +4456,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-28",
+      "date_removed": null,
       "duration_ms": 153281,
       "name": "Cheiro de Riqueza",
       "url": "https://open.spotify.com/track/2uUIYTeyhSDfjgWN4HCCOA"
@@ -6878,7 +6944,7 @@
       ],
       "date_added": "2023-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 136258,
       "name": "DOMINICANA",
       "url": "https://open.spotify.com/track/5tOoWYZ0G9YFqiteziCtzI"
@@ -7272,6 +7338,32 @@
       "duration_ms": 236727,
       "name": "Ela Ama, Ela Gosta",
       "url": "https://open.spotify.com/track/3p8ROtueBgRAZ4RJJMmqs7"
+    },
+    {
+      "album": {
+        "name": "2 L3Trinha",
+        "url": "https://open.spotify.com/album/4cbEBTjZqyqvjADtg2mgBN"
+      },
+      "artists": [
+        {
+          "name": "LH CHUCRO",
+          "url": "https://open.spotify.com/artist/3Im4m6K9QvxFBUJIOttSuH"
+        },
+        {
+          "name": "1ukazzoff",
+          "url": "https://open.spotify.com/artist/3dzH8o24SFoHLMdFzKtxUs"
+        },
+        {
+          "name": "Zion",
+          "url": "https://open.spotify.com/artist/4mzvw0V6YE2OkbXZmIXnh6"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121850,
+      "name": "Ela Gostou do Trap!!",
+      "url": "https://open.spotify.com/track/3DToQG8kY8mrmBDVOFFdut"
     },
     {
       "album": {
@@ -7825,6 +7917,28 @@
     },
     {
       "album": {
+        "name": "Espero Que Entendam (Freestyle)",
+        "url": "https://open.spotify.com/album/2omPP6U3sAgy10Q4wZtswu"
+      },
+      "artists": [
+        {
+          "name": "Ebony",
+          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
+        },
+        {
+          "name": "LARINHX",
+          "url": "https://open.spotify.com/artist/00kQ5yo7yxd5KC1ihuH77i"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211859,
+      "name": "Espero Que Entendam - Freestyle",
+      "url": "https://open.spotify.com/track/3MEMW13ORJh94KnERm44JM"
+    },
+    {
+      "album": {
         "name": "O Menino do Cabelo Rosa",
         "url": "https://open.spotify.com/album/0zkILF7vLuScNU2SqLGr37"
       },
@@ -8077,6 +8191,28 @@
     },
     {
       "album": {
+        "name": "Eu j\u00e1 me vi",
+        "url": "https://open.spotify.com/album/5QN345qS310NSgX1ovzqRH"
+      },
+      "artists": [
+        {
+          "name": "Reid",
+          "url": "https://open.spotify.com/artist/0YWKYHR1rKdnPRlYvisCqo"
+        },
+        {
+          "name": "Marquinho no Beat",
+          "url": "https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151942,
+      "name": "Eu j\u00e1 me vi",
+      "url": "https://open.spotify.com/track/3iZDBIcAXnSVriFGRNKhw5"
+    },
+    {
+      "album": {
         "name": "Eu Mereci (Freestyle Asfalto Rec)",
         "url": "https://open.spotify.com/album/62g2tur7hQbVe8u6LSG2zY"
       },
@@ -8096,6 +8232,24 @@
       "duration_ms": 196374,
       "name": "Eu Mereci (Freestyle Asfalto Rec)",
       "url": "https://open.spotify.com/track/30SrvC2dfGID4P7GbfK17u"
+    },
+    {
+      "album": {
+        "name": "Eu Nem Te Conto",
+        "url": "https://open.spotify.com/album/05R8x3TQqc08me9OXe1Bla"
+      },
+      "artists": [
+        {
+          "name": "NGC Daddy",
+          "url": "https://open.spotify.com/artist/2iNFFCEAFdfAV5hPdpMk6x"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158828,
+      "name": "Eu Nem Te Conto",
+      "url": "https://open.spotify.com/track/3eJmouGVRqLXy7WIXIc6PX"
     },
     {
       "album": {
@@ -8588,7 +8742,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 130690,
       "name": "Fases",
       "url": "https://open.spotify.com/track/7jEi9ueOKZkwsnqIuWB2PB"
@@ -9232,7 +9386,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 190529,
       "name": "flashbacks",
       "url": "https://open.spotify.com/track/0NBIGAt94TcyjQygI8YmDL"
@@ -9574,6 +9728,24 @@
       "duration_ms": 521142,
       "name": "Freestyle 2022",
       "url": "https://open.spotify.com/track/49imQJoGDnAxIgVudtpTtc"
+    },
+    {
+      "album": {
+        "name": "Freestyle 2023",
+        "url": "https://open.spotify.com/album/2byE3IsJzD5MXBEYBi96Ft"
+      },
+      "artists": [
+        {
+          "name": "Aka Rasta",
+          "url": "https://open.spotify.com/artist/1beK7BpUs2hTagfzLUb1HB"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180804,
+      "name": "Freestyle 2023",
+      "url": "https://open.spotify.com/track/6BBADGNPT20pFk6B3aMPME"
     },
     {
       "album": {
@@ -10048,6 +10220,28 @@
       "duration_ms": 130285,
       "name": "Gatinha",
       "url": "https://open.spotify.com/track/1IEeLrx7gxX23sgjL2pzFv"
+    },
+    {
+      "album": {
+        "name": "Bem Vindo Natal Mixtape 2",
+        "url": "https://open.spotify.com/album/3uMKaRHfxppABibJFJi0mr"
+      },
+      "artists": [
+        {
+          "name": "Raffa Moreira",
+          "url": "https://open.spotify.com/artist/4xUawweuqhjMvoScRGbveR"
+        },
+        {
+          "name": "Jay Kay",
+          "url": "https://open.spotify.com/artist/1hMrgRIkEemGJWByc74Kki"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136615,
+      "name": "Gato Preto",
+      "url": "https://open.spotify.com/track/3iCz1xQzu2BeklLyMCKICr"
     },
     {
       "album": {
@@ -14033,6 +14227,28 @@
     },
     {
       "album": {
+        "name": "Mem\u00f3rias",
+        "url": "https://open.spotify.com/album/7my2cDisuMdwgJMeVsWOLb"
+      },
+      "artists": [
+        {
+          "name": "Luchinha Jr",
+          "url": "https://open.spotify.com/artist/5v2bQ2dsdQmr2ARUYwnDHX"
+        },
+        {
+          "name": "Caio Luccas",
+          "url": "https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198620,
+      "name": "Mem\u00f3rias",
+      "url": "https://open.spotify.com/track/0E67inU7SHBeWxMmrecO0X"
+    },
+    {
+      "album": {
         "name": "Meneghel",
         "url": "https://open.spotify.com/album/09T67MUP2Ss2bz3WH4Qt9w"
       },
@@ -15991,6 +16207,28 @@
     },
     {
       "album": {
+        "name": "Nosso Lance",
+        "url": "https://open.spotify.com/album/5HEh622ffeLHgN4R0VChlS"
+      },
+      "artists": [
+        {
+          "name": "UCL\u00c3",
+          "url": "https://open.spotify.com/artist/4zP89WNloauEX8v8JdZbxP"
+        },
+        {
+          "name": "Sobs",
+          "url": "https://open.spotify.com/artist/0zuan1WYTIhlisigYXsqY9"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195692,
+      "name": "Nosso Lance",
+      "url": "https://open.spotify.com/track/5GWeVMAWLoMZz7WrZrOXxb"
+    },
+    {
+      "album": {
         "name": "Nova Era",
         "url": "https://open.spotify.com/album/3hq3aCPwcTVnR3vWK3EJzy"
       },
@@ -16702,6 +16940,40 @@
       "duration_ms": 206557,
       "name": "O Chamado",
       "url": "https://open.spotify.com/track/56xYjxmkJxnpBVQi6pLSiL"
+    },
+    {
+      "album": {
+        "name": "O Crime e a M\u00fasica",
+        "url": "https://open.spotify.com/album/3v3cwXZhmUYIUrxxs7lpFZ"
+      },
+      "artists": [
+        {
+          "name": "Rock Danger",
+          "url": "https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb"
+        },
+        {
+          "name": "LEALL",
+          "url": "https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz"
+        },
+        {
+          "name": "Xam\u00e3",
+          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
+        },
+        {
+          "name": "Ryu, the Runner",
+          "url": "https://open.spotify.com/artist/1ZzJx2AgPmbnOE6OXhnn5K"
+        },
+        {
+          "name": "Babidi",
+          "url": "https://open.spotify.com/artist/1S2Wiv7Swqnnvp1ktoWaul"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199173,
+      "name": "O Crime e a M\u00fasica",
+      "url": "https://open.spotify.com/track/5GtWzXQ423s75pn5n0OmGb"
     },
     {
       "album": {
@@ -17633,6 +17905,28 @@
     },
     {
       "album": {
+        "name": "ZB' EL GUAPO",
+        "url": "https://open.spotify.com/album/054FZ3RdeyN6cFyKBNKyQK"
+      },
+      "artists": [
+        {
+          "name": "Zamba",
+          "url": "https://open.spotify.com/artist/2kVeAspVSVt3sEHuNENapY"
+        },
+        {
+          "name": "Arede",
+          "url": "https://open.spotify.com/artist/0C75wtl2XuUJCfZx8wk601"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106191,
+      "name": "PAQ, DOLLA & $$",
+      "url": "https://open.spotify.com/track/2oBv5Z9Spa8nXuIJIDhr8i"
+    },
+    {
+      "album": {
         "name": "Para de Mentir",
         "url": "https://open.spotify.com/album/0nMw6EngQqlOJXLxt53jpQ"
       },
@@ -18444,7 +18738,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 164262,
       "name": "Plano B",
       "url": "https://open.spotify.com/track/7bWT2YwUUjcFri48alHwMJ"
@@ -19184,6 +19478,28 @@
       "duration_ms": 153020,
       "name": "Pretchuka",
       "url": "https://open.spotify.com/track/2L8yK9YF7NtVJ4DiCn92wf"
+    },
+    {
+      "album": {
+        "name": "Primeiro de Maio (Gostosas Inteligentes)",
+        "url": "https://open.spotify.com/album/3sPEyvePf2VVTs3QF0OZSt"
+      },
+      "artists": [
+        {
+          "name": "Duquesa",
+          "url": "https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx"
+        },
+        {
+          "name": "THS",
+          "url": "https://open.spotify.com/artist/3mI838insJsm1g7P3EsQW4"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130369,
+      "name": "Primeiro de Maio (Gostosas Inteligentes)",
+      "url": "https://open.spotify.com/track/2DaHDTiB8DhBDIM7csF7Ny"
     },
     {
       "album": {
@@ -20630,7 +20946,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 322298,
       "name": "Rival",
       "url": "https://open.spotify.com/track/56V2S0c5x60HACG3HBuWEi"
@@ -20730,6 +21046,32 @@
       "duration_ms": 202545,
       "name": "Ronda",
       "url": "https://open.spotify.com/track/31WO5KyloADrEOP61iLm4i"
+    },
+    {
+      "album": {
+        "name": "Fra\u00e7\u00e3o 3/4",
+        "url": "https://open.spotify.com/album/387TbDSzjAzUK1kfVlZaRh"
+      },
+      "artists": [
+        {
+          "name": "Mc Luanna",
+          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
+        },
+        {
+          "name": "Mello Santana",
+          "url": "https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY"
+        },
+        {
+          "name": "Greezy",
+          "url": "https://open.spotify.com/artist/3exY81LSlWqpL03GFPTEgB"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136000,
+      "name": "Ro\u00e7a na Pe\u00e7a",
+      "url": "https://open.spotify.com/track/3FbBLeDmrYdOgJKSiTxzqr"
     },
     {
       "album": {
@@ -23313,6 +23655,32 @@
     },
     {
       "album": {
+        "name": "O Cara Do Momento",
+        "url": "https://open.spotify.com/album/2GJl4ruFhOBOghvHKVv6wV"
+      },
+      "artists": [
+        {
+          "name": "MC PH",
+          "url": "https://open.spotify.com/artist/4PLdCloYxu2bMKfuuB9lI5"
+        },
+        {
+          "name": "Borges",
+          "url": "https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX"
+        },
+        {
+          "name": "WIU",
+          "url": "https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232258,
+      "name": "Tenho Que Me Decidir",
+      "url": "https://open.spotify.com/track/697gwO5YoSGVAnlfREIZll"
+    },
+    {
+      "album": {
         "name": "Terra Prometida",
         "url": "https://open.spotify.com/album/3JQ0qcFa7gDWy2MULfJ1RY"
       },
@@ -25172,7 +25540,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 212682,
       "name": "Viv\u00eancia de Morro (feat. Cax Camp, Lotta & Fp)",
       "url": "https://open.spotify.com/track/65MVkxrTJIjKtla2e5oJoe"
@@ -25606,7 +25974,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 132413,
       "name": "X6",
       "url": "https://open.spotify.com/track/7mBvm8Btuuki2jsh6y1d6L"

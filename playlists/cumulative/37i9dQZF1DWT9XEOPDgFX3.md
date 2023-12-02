@@ -4,7 +4,7 @@
 
 > Walk the bridge between indie and folk\. Cover: Abby Sage
 
-417 songs - 1 day 1 hr 55 min
+419 songs - 1 day 2 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,7 +110,7 @@
 | [Don't Kiss Me](https://open.spotify.com/track/3uPYk9jdFzAeEmQPYVb7Gq) | [Maple Glider](https://open.spotify.com/artist/1Y3IqLN3JkfppIbJG2IWHk) | [Don't Kiss Me](https://open.spotify.com/album/03SqzAAXXolzq7XYIARZOj) | 4:04 | 2023-05-19 | 2023-07-16 |
 | [Dove](https://open.spotify.com/track/2UBvTL4FRQd7CgBFJiZkWH) | [Tash Sultana](https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf) | [SUGAR EP.](https://open.spotify.com/album/2ue0uFTFAFxETZEtLBphmJ) | 6:09 | 2023-08-18 |  |
 | [Dr\. Johann Averies](https://open.spotify.com/track/0FXTj56OeM7A1FDV6N3bmw) | [Daneshevskaya](https://open.spotify.com/artist/5vvsVz8bgdx1y9YaguZkxF) | [Dr\. Johann Averies](https://open.spotify.com/album/1t2aKCQheAqrUtItw1T2K3) | 3:53 | 2022-01-21 | 2023-05-05 |
-| [Dr\. Johann Averies](https://open.spotify.com/track/6XnocPwfmJ1Sr1ZstHOTTg) | [Daneshevskaya](https://open.spotify.com/artist/5vvsVz8bgdx1y9YaguZkxF) | [Bury Your Horses](https://open.spotify.com/album/0p9h901vVxQXkcdPwNt2bS) | 3:53 | 2023-05-12 |  |
+| [Dr\. Johann Averies](https://open.spotify.com/track/6XnocPwfmJ1Sr1ZstHOTTg) | [Daneshevskaya](https://open.spotify.com/artist/5vvsVz8bgdx1y9YaguZkxF) | [Bury Your Horses](https://open.spotify.com/album/0p9h901vVxQXkcdPwNt2bS) | 3:53 | 2023-05-12 | 2023-12-02 |
 | [Dream](https://open.spotify.com/track/5J8aJjjiY3VCsnIwSNRtFS) | [Lou Roy](https://open.spotify.com/artist/4SXS92sCu5twnCUx4Dy44H) | [Pure Chaos](https://open.spotify.com/album/4VqJz0zUGsibswB2Q1OgHj) | 3:13 | 2022-04-29 | 2022-07-16 |
 | [Dreamers change the world](https://open.spotify.com/track/1n9UwCcEyiqNfx7AtJbwBF) | [El Perro del Mar](https://open.spotify.com/artist/0bnwha8WPTU2sf4Q4P6vE0) | [Dreamers change the world](https://open.spotify.com/album/6CLpVWkVbs53ggO5IvdBR7) | 4:47 | 2022-04-13 | 2022-07-29 |
 | [EC](https://open.spotify.com/track/4ara6WrjgXw8brIIigyRNR) | [PACKS](https://open.spotify.com/artist/1ZgzpPiODfKa4B9Fkw1dWm) | [EC](https://open.spotify.com/album/58gMbwi6r3hOpkbcBsqVcO) | 1:53 | 2023-03-24 | 2023-04-12 |
@@ -311,11 +311,13 @@
 | [Sandhills](https://open.spotify.com/track/6dBkJ5LGEm5oaR3CxAR7yg) | [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [Sandhills](https://open.spotify.com/album/1ZTd9cM6FPWW4ZP0qUwhpF) | 3:15 | 2023-08-25 |  |
 | [Santa Barbara](https://open.spotify.com/track/0v6lbGn9fC1YEa7WQZjFNX) | [Angelo De Augustine](https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi) | [Santa Barbara](https://open.spotify.com/album/3uyniBJKkgZfYsM25bBa8T) | 3:14 | 2022-01-21 | 2022-07-28 |
 | [Santa Barbara](https://open.spotify.com/track/4yuVmMynbF6qBDsT3w6aXy) | [Angelo De Augustine](https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi) | [Santa Barbara](https://open.spotify.com/album/24TRZ0557IVU06q4TaYgNI) | 3:14 | 2022-04-29 |  |
+| [Send It To Oslo](https://open.spotify.com/track/5vVma4c4Yr5kBj9C3UtmU0) | [Sparky Deathcap](https://open.spotify.com/artist/2Ru6erK9heeCeWQDx0sDmR) | [Tear Jerky](https://open.spotify.com/album/1AfHTpAigqkGzSGwu9avlm) | 2:59 | 2023-12-01 |  |
 | [Separate Bills](https://open.spotify.com/track/6vunTc3ElwejXHngcut7el) | [Field Guide](https://open.spotify.com/artist/3m8lmJWxlk9SPTFFCdxJVz) | [The Way It Would Be](https://open.spotify.com/album/4vd5ISaBt9DKezwJ8PKnDj) | 2:18 | 2022-04-13 | 2022-07-27 |
 | [Shades Of You](https://open.spotify.com/track/5P0xYk06k6jT5Cujyx5TLX) | [Eleni Drake](https://open.spotify.com/artist/2y7pPMQioLwMFUKhK9Pyow) | [Surf The Sun](https://open.spotify.com/album/4P86SbCNGivegXvti0I0hX) | 4:14 | 2023-05-19 | 2023-07-03 |
 | [Shell](https://open.spotify.com/track/2DDJuBWHY6SluN5RczGp7L) | [Ethan Tasch](https://open.spotify.com/artist/5QeOEXfGjdzdEsUOHODPCw) | [Shell](https://open.spotify.com/album/6esFCGuOOIckYOmpFPxpBL) | 2:20 | 2023-07-28 |  |
 | [Shine Your Light on Me](https://open.spotify.com/track/2mgf213BYLDjWPPthhQ7nk) | [Natalie Bergman](https://open.spotify.com/artist/6YP6iGwynI5kEyNYxfxVeC) | [Shine Your Light on Me](https://open.spotify.com/album/6RS8ZU3E0tfqM9OqKXLd6o) | 3:56 | 2022-01-21 | 2022-07-28 |
 | [Shove](https://open.spotify.com/track/3zY86yn3L9l2OvDaVju6iP) | [Mali Velasquez](https://open.spotify.com/artist/2LNfVxxm5kfNQa95GS25xP) | [Shove](https://open.spotify.com/album/1Zn4cAAjfE9ymJ6PYA34Jb) | 2:39 | 2023-09-15 |  |
+| [silver girl](https://open.spotify.com/track/5uQ1aDnrTDrpTVXytOe1TK) | [Field Medic](https://open.spotify.com/artist/4wMfqR1EZagrSlYndItxGQ) | [dope girl chronicles](https://open.spotify.com/album/26jwaa61sFHBjzpUm87NVH) | 3:25 | 2023-12-01 |  |
 | [Simple Life](https://open.spotify.com/track/5JdkPxWojjdgoJyKXmKH7U) | [Maybe Babs](https://open.spotify.com/artist/3S1vxfO28NzR0pVVLqJkZf) | [Simple Life](https://open.spotify.com/album/00zDlsowht5s6cIeQJn4xL) | 4:12 | 2022-04-13 | 2022-07-26 |
 | [Simulation Swarm](https://open.spotify.com/track/2FwDApgXk91kXvqy2oB7dz) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Dragon New Warm Mountain I Believe In You](https://open.spotify.com/album/7Ln81p86r5cCsesd3KBWIY) | 4:12 | 2022-04-29 |  |
 | [Sink;Swim](https://open.spotify.com/track/6XilwiQW59LeUbn6mGxhkg) | [Briston Maroney](https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd) | [Ultrapure](https://open.spotify.com/album/1KLpFZbmz9I4irFMe9sht9) | 2:57 | 2023-09-22 |  |
@@ -374,7 +376,7 @@
 | [This Is A Photograph](https://open.spotify.com/track/1hj8os1Xxiuo95atpJzfCp) | [Kevin Morby](https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF) | [This Is A Photograph](https://open.spotify.com/album/6NMzokKOYpPO9VXDjmc5y6) | 3:30 | 2022-04-29 |  |
 | [This Is A Photograph](https://open.spotify.com/track/6R3eECv1wptTUHATHSogu7) | [Kevin Morby](https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF) | [This Is A Photograph](https://open.spotify.com/album/1OKW5mdYIJ2gqDMIHCzpRE) | 3:30 | 2022-04-13 | 2022-07-29 |
 | [Thompson's Station](https://open.spotify.com/track/6iYq8a6idPPaJsm9DxQ3uF) | [Noah Floersch](https://open.spotify.com/artist/6fU24B4K9kWmFt5WTwwsLF) | [Thompson's Station](https://open.spotify.com/album/4zaSYI7zjDbqxz3KjJEXcV) | 3:24 | 2023-05-26 | 2023-11-16 |
-| [Three Hours](https://open.spotify.com/track/7iGcDYlAdinPkG3zLrtZTX) | [John Parish](https://open.spotify.com/artist/1UAM4fJFTeyMZbhTVUKiXk), [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [Three Hours](https://open.spotify.com/album/2mYlWSBNyu22LyQ9qy50hT) | 4:32 | 2023-05-26 |  |
+| [Three Hours](https://open.spotify.com/track/7iGcDYlAdinPkG3zLrtZTX) | [John Parish](https://open.spotify.com/artist/1UAM4fJFTeyMZbhTVUKiXk), [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [Three Hours](https://open.spotify.com/album/2mYlWSBNyu22LyQ9qy50hT) | 4:32 | 2023-05-26 | 2023-12-02 |
 | [Till The Moon Don't Shine \- Cover](https://open.spotify.com/track/3KTGcgACVFQVXxdEc8Outr) | [Le Ren](https://open.spotify.com/artist/338ANSuWEHPphBye1qDGvF) | [Till The Moon Don't Shine](https://open.spotify.com/album/0pD1d9bNZTOG2glLcdXlhH) | 2:29 | 2022-04-29 | 2022-11-13 |
 | [Time Ain't Accidental](https://open.spotify.com/track/1qK4COAu95yDuWWnWEN0IZ) | [Jess Williamson](https://open.spotify.com/artist/784kOgkd1H6jU4KgPMYHi9) | [Time Ain't Accidental](https://open.spotify.com/album/2fiBxxI8M8UlThKvXcKizN) | 3:27 | 2023-06-09 | 2023-08-25 |
 | [Time Ain't Accidental](https://open.spotify.com/track/2UOah6lDYg5ilSrVec8Gkz) | [Jess Williamson](https://open.spotify.com/artist/784kOgkd1H6jU4KgPMYHi9) | [Time Ain't Accidental](https://open.spotify.com/album/3T3RUDuZbP288R9a92JVFB) | 3:27 | 2023-05-26 | 2023-06-12 |

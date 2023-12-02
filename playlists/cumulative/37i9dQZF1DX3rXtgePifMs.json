@@ -107,6 +107,24 @@
     },
     {
       "album": {
+        "name": "When Will We Land?",
+        "url": "https://open.spotify.com/album/5LASDBDtLLEt3QqVtgOoaM"
+      },
+      "artists": [
+        {
+          "name": "Barry Can't Swim",
+          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246840,
+      "name": "Always Get Through To You",
+      "url": "https://open.spotify.com/track/0g8nIlk2ltpZP8lYlPvRx1"
+    },
+    {
+      "album": {
         "name": "Fantasy",
         "url": "https://open.spotify.com/album/7B6lEObl7aYkMjX8M89IRQ"
       },
@@ -1136,7 +1154,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 161800,
       "name": "Move On",
       "url": "https://open.spotify.com/track/1uD1DhAEZ2XzU8psOERt54"
@@ -1699,6 +1717,28 @@
     },
     {
       "album": {
+        "name": "Shame",
+        "url": "https://open.spotify.com/album/2o4dcRZUBuseVy8omv6CaO"
+      },
+      "artists": [
+        {
+          "name": "Dahi",
+          "url": "https://open.spotify.com/artist/5BozIJTTNCufaZpjhy2der"
+        },
+        {
+          "name": "Elmiene",
+          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152610,
+      "name": "Shame (with Elmiene)",
+      "url": "https://open.spotify.com/track/28Ir6VUbomCsKRYXJDS8pW"
+    },
+    {
+      "album": {
         "name": "Show Me The Money (with Tkay Maidza)",
         "url": "https://open.spotify.com/album/7L0qZYtIIxyo1B5omj6F4B"
       },
@@ -1721,6 +1761,28 @@
     },
     {
       "album": {
+        "name": "Shut It Down",
+        "url": "https://open.spotify.com/album/50WI8N9WqWFJ13nfogGsQB"
+      },
+      "artists": [
+        {
+          "name": "TroyBoi",
+          "url": "https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI"
+        },
+        {
+          "name": "Armani White",
+          "url": "https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162352,
+      "name": "Shut It Down",
+      "url": "https://open.spotify.com/track/6k1JXdWW1ZGAcTUtjao9d6"
+    },
+    {
+      "album": {
         "name": "Shut Shit Down",
         "url": "https://open.spotify.com/album/74HGGYuCtUANyifLwRIZhQ"
       },
@@ -1736,7 +1798,7 @@
       ],
       "date_added": "2023-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 162373,
       "name": "Shut Shit Down",
       "url": "https://open.spotify.com/track/7rIfWHDoTPLNtTtkorbs3h"
@@ -1762,6 +1824,24 @@
       "duration_ms": 242983,
       "name": "Sigo Tus Pasos",
       "url": "https://open.spotify.com/track/12WuJATJtln4wMEQ1EEMOO"
+    },
+    {
+      "album": {
+        "name": "smile",
+        "url": "https://open.spotify.com/album/0uZJPZPqhHyTacaugkeg4a"
+      },
+      "artists": [
+        {
+          "name": "Insincere",
+          "url": "https://open.spotify.com/artist/3IkzWxjxkhMaIlMbvTIRXI"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165307,
+      "name": "smile",
+      "url": "https://open.spotify.com/track/5t8Rq9zn8w41gRpNtVjzdx"
     },
     {
       "album": {
@@ -2114,6 +2194,32 @@
       "duration_ms": 169831,
       "name": "V I B R A T I O N",
       "url": "https://open.spotify.com/track/2t3FV5IpL1uWeMjt7vOomW"
+    },
+    {
+      "album": {
+        "name": "Vem com tudo",
+        "url": "https://open.spotify.com/album/53ycsc2CcgfoTgYtBWtEY8"
+      },
+      "artists": [
+        {
+          "name": "Rael",
+          "url": "https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd"
+        },
+        {
+          "name": "Gloria Groove",
+          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
+        },
+        {
+          "name": "Tropkillaz",
+          "url": "https://open.spotify.com/artist/5bzWtCkjIAMgN93gLt56SO"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194026,
+      "name": "Vem com tudo",
+      "url": "https://open.spotify.com/track/3KBeevk3IGoAdoktaH1OBJ"
     },
     {
       "album": {

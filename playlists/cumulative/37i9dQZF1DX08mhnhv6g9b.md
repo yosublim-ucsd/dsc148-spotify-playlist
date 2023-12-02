@@ -4,7 +4,7 @@
 
 > What are your <a href="https://spotify.com/top5">Top 5: BTS Songs</a>? Share your favorite member and tracks with the universe\. \(spotify.com/top5\)
 
-483 songs - 1 day 4 hr 47 min
+485 songs - 1 day 4 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [21st Century Girl](https://open.spotify.com/track/3ROFgxvjni5xjdOLUSTLlq) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [WINGS](https://open.spotify.com/album/6CqQEpTYDf64ku45E3ry7d) | 3:12 | 2022-06-10 | 2022-06-18 |
 | [24/7=Heaven](https://open.spotify.com/track/17SBD4aDKo9ZeahcQJ6j72) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Dark & Wild](https://open.spotify.com/album/35voVqYGkotyJ945O9egDY) | 3:46 | 2022-05-27 |  |
 | [3D \(feat\. Jack Harlow\)](https://open.spotify.com/track/6ehWdR7cGDXnT7aKEASJxE) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [3D \(feat\. Jack Harlow\)](https://open.spotify.com/album/4DKnznk5VbGVvAOYBbQrZJ) | 3:21 | 2023-09-30 |  |
+| [3D \(Justin Timberlake Remix\)](https://open.spotify.com/track/2mHw0KoEyDw8Yaw3yPoke6) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [3D \(Justin Timberlake Remix\)](https://open.spotify.com/album/4SNBgrYqk2aV4LyXbTSkYA) | 2:40 | 2023-12-01 |  |
 | [A Brand New Day \(BTS World Original Soundtrack\) \(Pt\. 2\)](https://open.spotify.com/track/3amNzwQ9muL0ZwDCbe9gWy) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX), [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [A Brand New Day \(BTS World Original Soundtrack\) \(Pt\. 2\)](https://open.spotify.com/album/7AksZp2xptzhgOaiwJxjkh) | 3:25 | 2023-07-14 |  |
 | [A Brand New Day \(BTS World Original Soundtrack\) \[Pt\. 2\]](https://open.spotify.com/track/4g4ME9bHxuhzZMfNHlHlb5) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX), [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [BTS WORLD \(Original Soundtrack\)](https://open.spotify.com/album/3LgNJmZ4QPkSvdt9JB8Tb8) | 3:25 | 2022-06-23 | 2023-07-24 |
 | [A Brand New Day \(BTS World Original Soundtrack\) \[Pt\. 2\]](https://open.spotify.com/track/5XkyZyKMdFungjDb9cUKc3) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX), [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [A Brand New Day \(BTS World Original Soundtrack\) \[Pt\. 2\]](https://open.spotify.com/album/0rjtptJthJcLrK7uYcDH2Z) | 3:25 | 2022-06-10 | 2022-06-18 |
@@ -428,6 +429,7 @@
 | [Spring Day](https://open.spotify.com/track/02q0ZnV2L4XByzEvWZJqBC) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [YOU NEVER WALK ALONE](https://open.spotify.com/album/64WayBZ9Mrx8iGOpME5vpI) | 4:34 | 2022-06-10 | 2022-06-18 |
 | [Spring Day](https://open.spotify.com/track/2j1fFjWHCI9KJSwcuYAOyF) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [You Never Walk Alone](https://open.spotify.com/album/6THpewjqJ15ORBJkh5CEYb) | 4:34 | 2022-05-27 |  |
 | [Standing Next to You](https://open.spotify.com/track/2KslE17cAJNHTsI2MI0jb2) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc) | [GOLDEN](https://open.spotify.com/album/5pSk3c3wVwnb2arb6ohCPU) | 3:26 | 2023-11-03 |  |
+| [Standing Next to You \(Usher Remix\)](https://open.spotify.com/track/0VPFT123HKoQ2J6ipeDcI1) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [Standing Next to You \(Usher Remix\)](https://open.spotify.com/album/3bKfV6NFUOd6KMCkDJyEbh) | 3:34 | 2023-12-01 |  |
 | [Stay](https://open.spotify.com/track/0TdWVbcerMAcvljXrl9gpG) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [BE](https://open.spotify.com/album/6nYfHQnvkvOTNHnOhDT3sr) | 3:24 | 2022-06-03 |  |
 | [Stay](https://open.spotify.com/track/3ndCsZfq8OVwwkz9mmZvUz) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [BE](https://open.spotify.com/album/2qehskW9lYGWfYb0xPZkrS) | 3:24 | 2022-06-10 | 2022-06-18 |
 | [Stay Alive \(Prod\. SUGA of BTS\)](https://open.spotify.com/track/7CAdT0HdiQNlt1C7xk2hep) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc) | [Stay Alive \(Prod\. SUGA of BTS\)](https://open.spotify.com/album/6nvSZLAsbg56fGSCVm8fL9) | 3:30 | 2022-06-10 |  |

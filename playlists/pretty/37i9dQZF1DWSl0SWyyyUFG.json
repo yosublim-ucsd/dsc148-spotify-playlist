@@ -1,12 +1,12 @@
 {
   "description": "Recordando a los \u00eddolos de la m\u00fasica de banda. Julio Preciado en portada.",
-  "num_followers": 220145,
+  "num_followers": 220439,
   "original_name": "Banda: Viejitas Pero Bonitas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NjQ4YTQzODAzNzRlMDBhMWVhZDgwNTUyMWE3YWZhMDM2NDFjYzIy",
+  "snapshot_id": "MCw1ZDExNjJkNjBkOTY3MTA4ZWNmOWZhMTU5MTU1NWI1Y2I2YjMxMTdj",
   "tracks": [
     {
       "added_at": "2023-10-11 23:54:18",
@@ -531,22 +531,6 @@
     {
       "added_at": "2023-10-11 23:54:18",
       "album": {
-        "name": "De Mexico para el Mundo",
-        "url": "https://open.spotify.com/album/32TIJn1x8SCsHVCswGnQZQ"
-      },
-      "artists": [
-        {
-          "name": "Banda El Recodo",
-          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
-        }
-      ],
-      "duration_ms": 188310,
-      "name": "Vamonos de Fiesta",
-      "url": "https://open.spotify.com/track/2WBdwIbWx9glAFgzuwqCEI"
-    },
-    {
-      "added_at": "2023-10-11 23:54:18",
-      "album": {
         "name": "Tesoros De Coleccion",
         "url": "https://open.spotify.com/album/3COLgk4Sk5EwFVXm4P6Mo3"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 226813,
       "name": "Voy a Pintar Mi Raya",
       "url": "https://open.spotify.com/track/0JFOXqd9N6RlMaAFlaaqFw"
+    },
+    {
+      "added_at": "2023-10-11 23:54:18",
+      "album": {
+        "name": "De Mexico para el Mundo",
+        "url": "https://open.spotify.com/album/32TIJn1x8SCsHVCswGnQZQ"
+      },
+      "artists": [
+        {
+          "name": "Banda El Recodo",
+          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
+        }
+      ],
+      "duration_ms": 188310,
+      "name": "Vamonos de Fiesta",
+      "url": "https://open.spotify.com/track/2WBdwIbWx9glAFgzuwqCEI"
     },
     {
       "added_at": "2023-10-11 23:54:18",
@@ -620,25 +620,25 @@
           "url": "https://open.spotify.com/artist/7IUkPNJ8qmoD5i3TcRYpXF"
         }
       ],
-      "duration_ms": 169958,
-      "name": "Ni El Dinero Ni Nada",
-      "url": "https://open.spotify.com/track/6uUKXjEQzx1YNuDSm38tzY"
+      "duration_ms": 151742,
+      "name": "Debajo De Los Laureles",
+      "url": "https://open.spotify.com/track/45TkoeSmoScX2TYzLWnSSK"
     },
     {
       "added_at": "2023-10-11 23:54:18",
       "album": {
-        "name": "Homenaje A Ramon Ayala",
-        "url": "https://open.spotify.com/album/3Duc8M0fBz1UT53deyiec4"
+        "name": "Banda Cuisillos",
+        "url": "https://open.spotify.com/album/38q7dgG8vDm5FGaC1HC6Ww"
       },
       "artists": [
         {
-          "name": "Julio Preciado Y Su Banda Perla Del Pacifico",
-          "url": "https://open.spotify.com/artist/1skKkfQtM2dprTwRld9p3p"
+          "name": "Cuisillos De Arturo Macias",
+          "url": "https://open.spotify.com/artist/32lXHXuhXtdA2j3IDXNND4"
         }
       ],
-      "duration_ms": 215400,
-      "name": "Un Rinconcito en el Cielo",
-      "url": "https://open.spotify.com/track/7wLxUIRidKDDIOBmq0TSyl"
+      "duration_ms": 174265,
+      "name": "C\u00f3mo Sufro",
+      "url": "https://open.spotify.com/track/2AAsziSTEQoTMIyXAunJbY"
     },
     {
       "added_at": "2023-10-11 23:54:18",
@@ -675,24 +675,24 @@
     {
       "added_at": "2023-10-11 23:54:18",
       "album": {
-        "name": "Banda Cuisillos",
-        "url": "https://open.spotify.com/album/38q7dgG8vDm5FGaC1HC6Ww"
+        "name": "Homenaje A Ramon Ayala",
+        "url": "https://open.spotify.com/album/3Duc8M0fBz1UT53deyiec4"
       },
       "artists": [
         {
-          "name": "Cuisillos De Arturo Macias",
-          "url": "https://open.spotify.com/artist/32lXHXuhXtdA2j3IDXNND4"
+          "name": "Julio Preciado Y Su Banda Perla Del Pacifico",
+          "url": "https://open.spotify.com/artist/1skKkfQtM2dprTwRld9p3p"
         }
       ],
-      "duration_ms": 174265,
-      "name": "C\u00f3mo Sufro",
-      "url": "https://open.spotify.com/track/2AAsziSTEQoTMIyXAunJbY"
+      "duration_ms": 215400,
+      "name": "Un Rinconcito en el Cielo",
+      "url": "https://open.spotify.com/track/7wLxUIRidKDDIOBmq0TSyl"
     },
     {
       "added_at": "2023-10-11 23:54:18",
       "album": {
-        "name": "25 Bandazos de Machos (Vol. 1) [USA]",
-        "url": "https://open.spotify.com/album/641IjGwd385qV3RVouieUv"
+        "name": "La reina de las bandas Vol. II",
+        "url": "https://open.spotify.com/album/29JiAjWnPrh6PxzyZxA1Uv"
       },
       "artists": [
         {
@@ -700,9 +700,9 @@
           "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
         }
       ],
-      "duration_ms": 188693,
-      "name": "La culebra",
-      "url": "https://open.spotify.com/track/6bJlR3XVNgAOIkKdiKkZz4"
+      "duration_ms": 167120,
+      "name": "Le\u00f1a de pirul",
+      "url": "https://open.spotify.com/track/24hke0P7QZEb62QC4XzG9y"
     },
     {
       "added_at": "2023-10-11 23:54:18",
@@ -780,9 +780,9 @@
           "url": "https://open.spotify.com/artist/7IUkPNJ8qmoD5i3TcRYpXF"
         }
       ],
-      "duration_ms": 151742,
-      "name": "Debajo De Los Laureles",
-      "url": "https://open.spotify.com/track/45TkoeSmoScX2TYzLWnSSK"
+      "duration_ms": 169958,
+      "name": "Ni El Dinero Ni Nada",
+      "url": "https://open.spotify.com/track/6uUKXjEQzx1YNuDSm38tzY"
     },
     {
       "added_at": "2023-10-11 23:54:18",
@@ -803,8 +803,8 @@
     {
       "added_at": "2023-10-11 23:54:18",
       "album": {
-        "name": "La reina de las bandas Vol. II",
-        "url": "https://open.spotify.com/album/29JiAjWnPrh6PxzyZxA1Uv"
+        "name": "25 Bandazos de Machos (Vol. 1) [USA]",
+        "url": "https://open.spotify.com/album/641IjGwd385qV3RVouieUv"
       },
       "artists": [
         {
@@ -812,9 +812,9 @@
           "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
         }
       ],
-      "duration_ms": 167120,
-      "name": "Le\u00f1a de pirul",
-      "url": "https://open.spotify.com/track/24hke0P7QZEb62QC4XzG9y"
+      "duration_ms": 188693,
+      "name": "La culebra",
+      "url": "https://open.spotify.com/track/6bJlR3XVNgAOIkKdiKkZz4"
     },
     {
       "added_at": "2023-10-11 23:54:18",
@@ -947,8 +947,8 @@
     {
       "added_at": "2023-10-11 23:54:18",
       "album": {
-        "name": "La Estrella De Los Bailes",
-        "url": "https://open.spotify.com/album/2TKiDd5rUQRwq7yjCChfOj"
+        "name": "Tumbando Ca\u00f1a (Serie Cl\u00e1sica)",
+        "url": "https://open.spotify.com/album/2pQaVwjXRlqHnQ0RD8cf4e"
       },
       "artists": [
         {
@@ -956,9 +956,9 @@
           "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
         }
       ],
-      "duration_ms": 176889,
-      "name": "El Teterete",
-      "url": "https://open.spotify.com/track/5BJMTujpYBXfbzFnV5ptqL"
+      "duration_ms": 150293,
+      "name": "Tumbando Ca\u00f1a (El Alacr\u00e1n)",
+      "url": "https://open.spotify.com/track/3U047sYv0nyixJuVA9JNOv"
     },
     {
       "added_at": "2023-10-11 23:54:18",
@@ -1107,8 +1107,8 @@
     {
       "added_at": "2023-10-11 23:54:18",
       "album": {
-        "name": "Tumbando Ca\u00f1a (Serie Cl\u00e1sica)",
-        "url": "https://open.spotify.com/album/2pQaVwjXRlqHnQ0RD8cf4e"
+        "name": "La Estrella De Los Bailes",
+        "url": "https://open.spotify.com/album/2TKiDd5rUQRwq7yjCChfOj"
       },
       "artists": [
         {
@@ -1116,9 +1116,9 @@
           "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
         }
       ],
-      "duration_ms": 150293,
-      "name": "Tumbando Ca\u00f1a (El Alacr\u00e1n)",
-      "url": "https://open.spotify.com/track/3U047sYv0nyixJuVA9JNOv"
+      "duration_ms": 176889,
+      "name": "El Teterete",
+      "url": "https://open.spotify.com/track/5BJMTujpYBXfbzFnV5ptqL"
     },
     {
       "added_at": "2023-10-11 23:54:18",
@@ -1475,6 +1475,22 @@
     {
       "added_at": "2023-10-11 23:54:18",
       "album": {
+        "name": "Lo Dejar\u00eda Todo",
+        "url": "https://open.spotify.com/album/1wCQwyB4zWv8aeKKEmX7RP"
+      },
+      "artists": [
+        {
+          "name": "La Incontenible Banda Astilleros",
+          "url": "https://open.spotify.com/artist/7EQ9iuyTpUsFKqHP1w27nG"
+        }
+      ],
+      "duration_ms": 182439,
+      "name": "No Me Dejes Tan Solo",
+      "url": "https://open.spotify.com/track/0FDCMtJNlmnkR1L3Svh0MI"
+    },
+    {
+      "added_at": "2023-10-11 23:54:18",
+      "album": {
         "name": "Chalino S\u00e1nchez con Banda Brava",
         "url": "https://open.spotify.com/album/4GmmvkdzlwP5TDac2be0hK"
       },
@@ -1491,22 +1507,6 @@
       "duration_ms": 212857,
       "name": "Nieves De Enero",
       "url": "https://open.spotify.com/track/1s0Jzgg7S6yR4PAvmJOSfB"
-    },
-    {
-      "added_at": "2023-10-11 23:54:18",
-      "album": {
-        "name": "Lo Dejar\u00eda Todo",
-        "url": "https://open.spotify.com/album/1wCQwyB4zWv8aeKKEmX7RP"
-      },
-      "artists": [
-        {
-          "name": "La Incontenible Banda Astilleros",
-          "url": "https://open.spotify.com/artist/7EQ9iuyTpUsFKqHP1w27nG"
-        }
-      ],
-      "duration_ms": 182439,
-      "name": "No Me Dejes Tan Solo",
-      "url": "https://open.spotify.com/track/0FDCMtJNlmnkR1L3Svh0MI"
     },
     {
       "added_at": "2023-10-11 23:54:18",
@@ -1835,18 +1835,18 @@
     {
       "added_at": "2023-10-11 23:54:18",
       "album": {
-        "name": "El Amor de Tu Vida",
-        "url": "https://open.spotify.com/album/1jdPDHO3AB6jQdOSxoNhYZ"
+        "name": "Lo Mejor de lo Nuestro",
+        "url": "https://open.spotify.com/album/71hwjNty3bVhTj8DwodqN4"
       },
       "artists": [
         {
-          "name": "Banda Cana Verde",
-          "url": "https://open.spotify.com/artist/6eRFjQRMNrNU18rz8OPNyC"
+          "name": "Banda San Miguel",
+          "url": "https://open.spotify.com/artist/3t9TbuyBScRR9dOG4Yo7CG"
         }
       ],
-      "duration_ms": 229626,
-      "name": "La Soledad",
-      "url": "https://open.spotify.com/track/2h6K5lo2HxfDzkZYVpqmy6"
+      "duration_ms": 155063,
+      "name": "El Domingo Se Casa",
+      "url": "https://open.spotify.com/track/1GAYDRFBxQDkpe4BT2M2kv"
     },
     {
       "added_at": "2023-10-11 23:54:18",
@@ -1883,18 +1883,18 @@
     {
       "added_at": "2023-10-11 23:54:18",
       "album": {
-        "name": "Lo Mejor de lo Nuestro",
-        "url": "https://open.spotify.com/album/71hwjNty3bVhTj8DwodqN4"
+        "name": "El Amor de Tu Vida",
+        "url": "https://open.spotify.com/album/1jdPDHO3AB6jQdOSxoNhYZ"
       },
       "artists": [
         {
-          "name": "Banda San Miguel",
-          "url": "https://open.spotify.com/artist/3t9TbuyBScRR9dOG4Yo7CG"
+          "name": "Banda Cana Verde",
+          "url": "https://open.spotify.com/artist/6eRFjQRMNrNU18rz8OPNyC"
         }
       ],
-      "duration_ms": 155063,
-      "name": "El Domingo Se Casa",
-      "url": "https://open.spotify.com/track/1GAYDRFBxQDkpe4BT2M2kv"
+      "duration_ms": 229626,
+      "name": "La Soledad",
+      "url": "https://open.spotify.com/track/2h6K5lo2HxfDzkZYVpqmy6"
     },
     {
       "added_at": "2023-10-11 23:54:18",
@@ -2123,22 +2123,6 @@
     {
       "added_at": "2023-10-11 23:54:18",
       "album": {
-        "name": "Antes De Partir",
-        "url": "https://open.spotify.com/album/28Kb1pmRPsiBUFKSCs1Qlq"
-      },
-      "artists": [
-        {
-          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
-          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
-        }
-      ],
-      "duration_ms": 318373,
-      "name": "Asi Fue",
-      "url": "https://open.spotify.com/track/1igWS2rkcWldABqxIaUiHP"
-    },
-    {
-      "added_at": "2023-10-11 23:54:18",
-      "album": {
         "name": "Huele A Peligro",
         "url": "https://open.spotify.com/album/2oKDUOugaCej29UmlmhoyG"
       },
@@ -2151,6 +2135,22 @@
       "duration_ms": 226733,
       "name": "Entr\u00e9game Tu Amor",
       "url": "https://open.spotify.com/track/2wzMk91znotFiJhsSUsPvl"
+    },
+    {
+      "added_at": "2023-10-11 23:54:18",
+      "album": {
+        "name": "Antes De Partir",
+        "url": "https://open.spotify.com/album/28Kb1pmRPsiBUFKSCs1Qlq"
+      },
+      "artists": [
+        {
+          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
+          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
+        }
+      ],
+      "duration_ms": 318373,
+      "name": "Asi Fue",
+      "url": "https://open.spotify.com/track/1igWS2rkcWldABqxIaUiHP"
     },
     {
       "added_at": "2023-10-11 23:54:18",

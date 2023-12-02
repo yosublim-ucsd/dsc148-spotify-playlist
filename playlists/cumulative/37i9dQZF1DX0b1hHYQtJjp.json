@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-05-26",
-  "description": "Recent hits and new songs from your fave artists. Cover: Jonas Brothers & Bailey Zimmerman",
+  "description": "Recent hits and new songs from your fave artists. Cover: Michael Bubl\u00e9 and Cher",
   "name": "Just Good Music",
   "tracks": [
     {
@@ -444,7 +444,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 233388,
       "name": "A Night To Remember",
       "url": "https://open.spotify.com/track/180AbZduI6bYQIzwCHRwu9"
@@ -802,6 +802,24 @@
       "duration_ms": 221407,
       "name": "All Of The Girls You Loved Before",
       "url": "https://open.spotify.com/track/4P9Q0GojKVXpRTJCaL3kyy"
+    },
+    {
+      "album": {
+        "name": "TRUSTFALL (Tour Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4hgincUyDza4A228fFQRiK"
+      },
+      "artists": [
+        {
+          "name": "P!nk",
+          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212306,
+      "name": "All Out Of Fight",
+      "url": "https://open.spotify.com/track/0ZtWVho1KKMD9w55XYoDPl"
     },
     {
       "album": {
@@ -6017,6 +6035,24 @@
     },
     {
       "album": {
+        "name": "EDIE CELINE",
+        "url": "https://open.spotify.com/album/1ZQHz49qJwDG9W7jh9V9dy"
+      },
+      "artists": [
+        {
+          "name": "MAX",
+          "url": "https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183947,
+      "name": "EDIE CELINE",
+      "url": "https://open.spotify.com/track/6j2SK5z0tnZjfpVxL0oZwM"
+    },
+    {
+      "album": {
         "name": "El Que Espera",
         "url": "https://open.spotify.com/album/1iouSXg5RihFIXRvZFJyTa"
       },
@@ -9428,6 +9464,28 @@
       "duration_ms": 219157,
       "name": "home",
       "url": "https://open.spotify.com/track/6Hl5dmIotzJ28pM5Fpsgq7"
+    },
+    {
+      "album": {
+        "name": "Christmas",
+        "url": "https://open.spotify.com/album/4Eeeg4yMb5qtMEm0lk6lDM"
+      },
+      "artists": [
+        {
+          "name": "Cher",
+          "url": "https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt"
+        },
+        {
+          "name": "Michael Bubl\u00e9",
+          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224586,
+      "name": "Home (with Michael Bubl\u00e9)",
+      "url": "https://open.spotify.com/track/4nX0jG14mSIi0LcmK3sq0b"
     },
     {
       "album": {
@@ -14622,7 +14680,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 219853,
       "name": "Middle Ground (feat. Mickey Guyton)",
       "url": "https://open.spotify.com/track/3UK3ZCRxqV3FOEMnGxeFZa"
@@ -16176,7 +16234,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 248333,
       "name": "Now And Then",
       "url": "https://open.spotify.com/track/4vziJcnB2Qyi9o4nIRUeN7"
@@ -21356,6 +21414,24 @@
       "duration_ms": 258812,
       "name": "Thank God I Do",
       "url": "https://open.spotify.com/track/60StAgy8EkIsaGEGebKcBB"
+    },
+    {
+      "album": {
+        "name": "THANK YOU",
+        "url": "https://open.spotify.com/album/4QqK4R5KGjSx3PsWvc4RX1"
+      },
+      "artists": [
+        {
+          "name": "Carolina Liar",
+          "url": "https://open.spotify.com/artist/0OuSnRyi1OkLPkR4AqzJwi"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217905,
+      "name": "THANK YOU",
+      "url": "https://open.spotify.com/track/1frWSE3IFAXFUuFK9mqbjG"
     },
     {
       "album": {

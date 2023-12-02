@@ -2,13 +2,14 @@
 
 ### [Pinas Vibes](https://open.spotify.com/playlist/37i9dQZF1DWY90iCJMKual)
 
-> vibe out w some 🇵🇭 R&B Cover: jikamarie
+> 🇵🇭 vibin' 🥶 🔥 Cover: SV Squad
 
-187 songs - 10 hr 54 min
+190 songs - 11 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | ['Wag Kang Bibitaw](https://open.spotify.com/track/79oy8hPDOSMh9XbVJfXNTE) | [Cean Jr.](https://open.spotify.com/artist/4LT250S0fAe4cYqPbRk56m) | ['Wag Kang Bibitaw](https://open.spotify.com/album/0wjHRyQJ2oYWGcFPTbnc9L) | 2:51 | 2023-11-17 |  |
+| [23rd](https://open.spotify.com/track/4QSf9GiULy3ewwxudseNxU) | [S3AN](https://open.spotify.com/artist/0aXgCtMMrQL8Ta1L1obEZ3) | [23rd](https://open.spotify.com/album/1fShewlQIUq3cveesD6uXg) | 2:39 | 2023-12-01 |  |
 | [3 AM](https://open.spotify.com/track/7CrpqsFrk3PdqMFSW7nlDV) | [Baby Blood](https://open.spotify.com/artist/43mQpC11b5yKRPDURZOC76) | [3 AM](https://open.spotify.com/album/4c1eaKMLG6YMdQ8f08tXgY) | 2:56 | 2023-08-03 |  |
 | [3 am](https://open.spotify.com/track/23gFlhoLbhFSZ7mFa3vGLI) | [Jade Ivy](https://open.spotify.com/artist/6krwmRWIoIZyJIyU9sSabI) | [3 am](https://open.spotify.com/album/7mV5egRWPduuwLMSNlHVoo) | 3:14 | 2022-10-12 | 2023-05-03 |
 | [4:AM](https://open.spotify.com/track/4OaVpRQJWIgMTecpLSmhnn) | [HELLMERRY](https://open.spotify.com/artist/4NsbfTEC3nOcc0vOpZ1rRc) | [4:AM](https://open.spotify.com/album/2KbChrlOoIu1vhxwCiNpXo) | 3:48 | 2023-09-15 |  |
@@ -36,7 +37,7 @@
 | [Can't Get Enough](https://open.spotify.com/track/3qR1Oq85MWKg3rzeihX4S9) | [brayll](https://open.spotify.com/artist/7F28ZyhZHLxLy2gfNM3Gt9) | [Can't Get Enough](https://open.spotify.com/album/18mwJUJcczlGwT2tDej41c) | 2:44 | 2022-10-12 | 2023-07-29 |
 | [cherry soda](https://open.spotify.com/track/3Ge1rIdxXfPqnC6AzJlHsz) | [TALA](https://open.spotify.com/artist/2VL6HPPI1raa3qKW6NUNBR) | [cherry soda](https://open.spotify.com/album/1T3Qwd52WDENjeUMxbysZg) | 3:35 | 2022-12-14 | 2023-07-29 |
 | [cherry soda](https://open.spotify.com/track/6wLYxlMsuGoARoRhDy52y3) | [TALA](https://open.spotify.com/artist/2VL6HPPI1raa3qKW6NUNBR) | [cherry soda](https://open.spotify.com/album/5uW4MpBBGO9yYeBTcBFdjx) | 3:35 | 2022-10-12 | 2023-01-08 |
-| [Co\-Pilot](https://open.spotify.com/track/3q2Sp5xZP5nvBbmIQTxvYA) | [Just Hush](https://open.spotify.com/artist/3KovZIDNYgQY8chiNZo2ZF), [JOLO](https://open.spotify.com/artist/1r5cXPqjg3R4Q1FpKG1UJs), [Rjay Ty](https://open.spotify.com/artist/6LCHWj94a1aMMGf3L3CVhx) | [Flight School Era](https://open.spotify.com/album/0DL6JoUUC5rYlexcZFACeN) | 4:10 | 2022-12-14 |  |
+| [Co\-Pilot](https://open.spotify.com/track/3q2Sp5xZP5nvBbmIQTxvYA) | [Just Hush](https://open.spotify.com/artist/3KovZIDNYgQY8chiNZo2ZF), [JOLO](https://open.spotify.com/artist/1r5cXPqjg3R4Q1FpKG1UJs), [Rjay Ty](https://open.spotify.com/artist/6LCHWj94a1aMMGf3L3CVhx) | [Flight School Era](https://open.spotify.com/album/0DL6JoUUC5rYlexcZFACeN) | 4:10 | 2022-12-14 | 2023-12-02 |
 | [Comfort Zone](https://open.spotify.com/track/2KKyzmlAJFq3WvOHvuTMt1) | [Ayip](https://open.spotify.com/artist/5hvJjbF0h7vQRvZ47Ll1zP) | [Comfort Zone](https://open.spotify.com/album/6OpBQt9Ui1f92EUbNAgIhr) | 2:55 | 2023-04-06 | 2023-09-07 |
 | [cool with u](https://open.spotify.com/track/41wYOM8hifwnuMsLjilL0F) | [Kio Priest](https://open.spotify.com/artist/63LUimzizrAuTWQ6nHkaky) | [cool with u](https://open.spotify.com/album/5cXWp9TLbY1ziTOcA9MDsw) | 2:56 | 2023-07-28 | 2023-10-14 |
 | [Dalawa](https://open.spotify.com/track/7KL81oWVy5M91P6X5nt4wq) | [KAIA](https://open.spotify.com/artist/5UWPjwwieMFFohWLHe4Usy) | [Dalawa](https://open.spotify.com/album/41fY9cER956ekeEXYZQBJF) | 3:53 | 2022-10-12 | 2023-07-29 |
@@ -115,7 +116,7 @@
 | [LUV DRUNK II](https://open.spotify.com/track/7kmIBigmMa9HL3NfBiqhws) | [KLLY](https://open.spotify.com/artist/4eBTFDYHEwhgg4OE30E1eF), [Colt](https://open.spotify.com/artist/1f14QOvizCQAUSK9XziNPH) | [LUV DRUNK II](https://open.spotify.com/album/1NK1DGc1kgcXL2BbM9EXza) | 2:54 | 2023-09-06 |  |
 | [Magdamag](https://open.spotify.com/track/1t3YrmdkNAjonhIUBIpm8Y) | [KV](https://open.spotify.com/artist/4ZPvMY3YPMZbVZn5WIjzvB) | [Magdamag](https://open.spotify.com/album/3iDeh0fFf7vcAPSDA6eSTh) | 1:59 | 2023-09-06 | 2023-11-11 |
 | [Maikee's Letters](https://open.spotify.com/track/21XjtaAEZxurElfPGSKrv9) | [Just Hush](https://open.spotify.com/artist/3KovZIDNYgQY8chiNZo2ZF) | [Maikee's Letters](https://open.spotify.com/album/6Hd66jTMfgXgaItso2FfzJ) | 5:00 | 2022-10-12 | 2023-07-29 |
-| [MANATILI](https://open.spotify.com/track/1Zfwa2mECtqzy3fd97kNm5) | [Alisson Shore](https://open.spotify.com/artist/4HPuFCMUiNcV4f3ew0flbZ) | [MANATILI](https://open.spotify.com/album/0RMKf66jtbEHpk5tskbfws) | 2:42 | 2023-02-23 |  |
+| [MANATILI](https://open.spotify.com/track/1Zfwa2mECtqzy3fd97kNm5) | [Alisson Shore](https://open.spotify.com/artist/4HPuFCMUiNcV4f3ew0flbZ) | [MANATILI](https://open.spotify.com/album/0RMKf66jtbEHpk5tskbfws) | 2:42 | 2023-02-23 | 2023-12-02 |
 | [manila](https://open.spotify.com/track/3rEzXExcWwGTYJJhDBQBzn) | [Jason Dhakal](https://open.spotify.com/artist/7Hb2cm4pIeCUKwfzutKyjp) | [manila](https://open.spotify.com/album/1mCWSwOaJOmHKyt3FAMyyJ) | 5:24 | 2022-12-14 | 2023-08-17 |
 | [Maria Hiwaga](https://open.spotify.com/track/7rRpt0FcGdDxyhiFcSlswH) | [Sassa Gurl](https://open.spotify.com/artist/52D0Fi29GcObaFnweqsV6d) | [Maria Hiwaga](https://open.spotify.com/album/6VCDr1sghqqQSje8YbYSqn) | 3:07 | 2023-06-26 | 2023-10-03 |
 | [Martir](https://open.spotify.com/track/57LBLMp60RqNxO9EzXKFcX) | [Zync](https://open.spotify.com/artist/0VysruqTAcxwoltfSK7Yoc) | [Martir](https://open.spotify.com/album/4Q3r9x9a5dVe0Il1bQ99pp) | 5:14 | 2023-07-28 | 2023-11-18 |
@@ -139,6 +140,7 @@
 | [PABORITO](https://open.spotify.com/track/3IXhldrCfWEMBu11FLPRZa) | [esseca](https://open.spotify.com/artist/4G6h14o5YEgdmiwd10cemr) | [PABORITO](https://open.spotify.com/album/2OHKhNRixy8JrMDJCHiLuI) | 3:36 | 2022-10-12 | 2023-05-18 |
 | [Pahalik](https://open.spotify.com/track/7ibgKml0Zy5M4kU9zBdsvY) | [ALLMO$T](https://open.spotify.com/artist/0WleeEe3UurwlNbDGhb5Yz), [Curse One](https://open.spotify.com/artist/6TUcd6yXFC0qQ1xbaycJT4), [Vlync](https://open.spotify.com/artist/46QyyIgyd2KywJPeWAASA2) | [Pahalik](https://open.spotify.com/album/4DTQWoQA46pswKmobyuNd6) | 8:03 | 2022-10-12 | 2023-05-18 |
 | [PAHIMAKAS](https://open.spotify.com/track/4a4leAJpcU9fH2sFJs0jgn) | [esseca](https://open.spotify.com/artist/4G6h14o5YEgdmiwd10cemr), [Asiong De Luna](https://open.spotify.com/artist/4fhejfeRXmlwh5ozRvrltW) | [PAHIMAKAS](https://open.spotify.com/album/0buFGUKfBl1Spvg9oggzo7) | 4:07 | 2022-10-12 | 2023-05-18 |
+| [Pakundangan \(feat\. Hev Abi\)](https://open.spotify.com/track/2ESL2ZcFU32llFIyXLFy5P) | [DEMI](https://open.spotify.com/artist/1bvOB4esBO2VFoCnaEheBO), [Hev Abi](https://open.spotify.com/artist/4zpGxqF6oI1h3f6Md2v42T) | [Pakundangan \(feat\. Hev Abi\)](https://open.spotify.com/album/2usPnYPIwKOjeNl15BSXsW) | 3:17 | 2023-12-01 |  |
 | [Palayo](https://open.spotify.com/track/3FvYLNM5ShB5vDCzGw8syX) | [Felip](https://open.spotify.com/artist/2tEFDBihLXytoPl4xdResl) | [Palayo](https://open.spotify.com/album/799Hq8BLuJ7lgwFr8dGJba) | 4:23 | 2022-12-14 | 2023-07-29 |
 | [Palayo](https://open.spotify.com/track/50mdyhgtq7KyFYiuAfvQY9) | [Felip](https://open.spotify.com/artist/2tEFDBihLXytoPl4xdResl) | [Palayo](https://open.spotify.com/album/1AVW36IAlLdbPzwtFzyHUA) | 4:23 | 2022-10-12 | 2023-02-10 |
 | [Palindrome](https://open.spotify.com/track/5GUzt0gFvANYwkD2NCEPrq) | [CJt](https://open.spotify.com/artist/5wMe42YSVxyFt6amGFPCbS), [AIMEE](https://open.spotify.com/artist/5VZCJ2KIGqwlYgq1MulghF) | [Palindrome](https://open.spotify.com/album/6MnaDiGGvjYaVyLSobh7si) | 4:27 | 2022-10-12 | 2023-05-18 |
@@ -178,7 +180,7 @@
 | [Sumama Ka](https://open.spotify.com/track/6oRWij7VgIgb4Ysux6UVEj) | [Vaughn](https://open.spotify.com/artist/5jy8TSg982wcBINinxTMc1), [Kylu](https://open.spotify.com/artist/2zx8nVKyacp2vJXUX5S5t5), [Louis Angelo](https://open.spotify.com/artist/2IxYn7kml5dzf4HptTMJWo) | [Sumama Ka](https://open.spotify.com/album/7Gwjn6SEKBBKY9mXK6HTrA) | 3:07 | 2022-10-12 | 2023-07-29 |
 | [Sumama ka lang](https://open.spotify.com/track/2Jw6Yxw3yMcoWAqcpztG2l) | [Damarsian](https://open.spotify.com/artist/7mAWX7tSditTSCnoVYNVBp) | [Sumama ka lang](https://open.spotify.com/album/53K1lwl5Asu8uoRzwJrCyT) | 3:56 | 2023-06-13 | 2023-09-26 |
 | [superficial energy](https://open.spotify.com/track/2wmbk7U26XVNsS89UUffe5) | [Denise Julia](https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD) | [superficial energy](https://open.spotify.com/album/14clBGWaMoyRGVfI3o7nlQ) | 2:55 | 2022-10-12 | 2023-07-29 |
-| [syf](https://open.spotify.com/track/65BmvLsQxNwcIlWyIDuHFe) | [Termula](https://open.spotify.com/artist/7L5fW1cU8MtB8geMfEFPtE) | [syf](https://open.spotify.com/album/1DQFkQPkf9cLxiIA7fnYAl) | 3:30 | 2023-04-06 |  |
+| [syf](https://open.spotify.com/track/65BmvLsQxNwcIlWyIDuHFe) | [Termula](https://open.spotify.com/artist/7L5fW1cU8MtB8geMfEFPtE) | [syf](https://open.spotify.com/album/1DQFkQPkf9cLxiIA7fnYAl) | 3:30 | 2023-04-06 | 2023-12-02 |
 | [T\-Break](https://open.spotify.com/track/516epRJ6ppt3JwEuLPnAo1) | [Yzkk](https://open.spotify.com/artist/25KaeIB4BrH1WpOG5dIV0n) | [T\-Break](https://open.spotify.com/album/6V7gUiVauT1wRvfg6akvHc) | 4:33 | 2023-09-25 |  |
 | [Takaw Tingin](https://open.spotify.com/track/4N8ScJCglGFgpTnD39KFQF) | [Paul Pablo](https://open.spotify.com/artist/5GB0qrWq0mz2OanyfhXGp0) | [Takaw Tingin](https://open.spotify.com/album/2AAnmzyeMl25pWn3SHElA9) | 3:09 | 2023-06-13 | 2023-10-03 |
 | [TALK](https://open.spotify.com/track/2F5Qkb1wJNnmQFQ3Edrzfb) | [dulai](https://open.spotify.com/artist/1DwP6HIWrPItZ3hmJkKxQ1), [leeza](https://open.spotify.com/artist/7KmrzNyuaqGPAVVXd9A0Nx) | [TALK](https://open.spotify.com/album/41cjmYpOgI1BKgiGLwJM44) | 2:24 | 2023-09-20 | 2023-09-30 |
@@ -188,6 +190,7 @@
 | [Tip toe](https://open.spotify.com/track/0N0bRL7uucmz8EHrqukYLv) | [August Wahh](https://open.spotify.com/artist/4NsvRUCOVV4KrWRfF65Rcj) | [Tiptoe](https://open.spotify.com/album/3ZaOGN3CcaDODlENMBJLIj) | 2:37 | 2023-10-27 |  |
 | [TRUTH SERUM](https://open.spotify.com/track/58sBIAQcrTqg2KXUlTlddz) | [Zeke Abella](https://open.spotify.com/artist/5aEAM9GB7loq6xxai3YYrn) | [TRUTH SERUM](https://open.spotify.com/album/2hbvVzco8KoNHw696LIia5) | 3:22 | 2023-11-03 |  |
 | [u & i](https://open.spotify.com/track/3SOaGw8GfOkOj3Ov2D4VbQ) | [James Reid](https://open.spotify.com/artist/24fEOzlKhgSNLIcy9NdmwH), [CARELESS](https://open.spotify.com/artist/6ZPADYpgSS0VwqZPJeX54p) | [u & i](https://open.spotify.com/album/3zXkOuXhjixpnmlavumXDh) | 3:03 | 2022-10-12 | 2023-07-29 |
+| [VANISH MODE](https://open.spotify.com/track/3Xm0K8nqzxFesknHEvdprE) | [SV Squad](https://open.spotify.com/artist/3ahPeyV1LjlV6yLElntHXP) | [VANISH MODE](https://open.spotify.com/album/11NIbuuOeLf8QbhwIYphvW) | 3:15 | 2023-12-01 |  |
 | [Vibin](https://open.spotify.com/track/1foCNzIQJMA1lGYtSvBu8m) | [Ylona Garcia](https://open.spotify.com/artist/2qnQOnL1oLKtH779qZ6iuR) | [Vibin](https://open.spotify.com/album/270wSkBt06wNswRpgTWqHT) | 2:45 | 2022-10-12 | 2023-07-29 |
 | [Wants](https://open.spotify.com/track/1me0Y1D0PJEJbyYMMI1Sbv) | [Psvlm](https://open.spotify.com/artist/5hAPoOZdijqwQwd8BD6OYn) | [Wants](https://open.spotify.com/album/4r6YgoipYcMSayKHP7DcsA) | 2:58 | 2022-10-12 | 2023-07-29 |
 | [WHO AM I TO YOU](https://open.spotify.com/track/29g22zgl7BL9P7LJV0yqUp) | [Kenneth Amores](https://open.spotify.com/artist/2ZNeBokyn4VOYpbQa5rcuY) | [WHO AM I TO YOU](https://open.spotify.com/album/26stt1ByhnU4KsyBvlBzM5) | 3:34 | 2022-10-12 | 2023-07-29 |

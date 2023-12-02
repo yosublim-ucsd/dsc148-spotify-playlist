@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWmsWPbM2pKT.md) - [plain]
 
 > Obscure, dreamy and nostalgic synth sounds from all over the world.
 
-[Spotify](https://open.spotify.com/user/spotify) - 245,252 likes - 118 songs - 7 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 245,831 likes - 118 songs - 7 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWmsWPbM2pKT.md) - [plain]
 | 16 | [I THINK IM LOSING MY MIND](https://open.spotify.com/track/7GSRHm7qfwy4PH5KjBr9jM) | [DustBowlChampion](https://open.spotify.com/artist/151Si9irFNyY0kzsGNFuRc) | [I THINK IM LOSING MY MIND](https://open.spotify.com/album/3o68MTMJCZCmiiDzLxzVI7) | 3:36 |
 | 17 | [Lucretia My Reflection \- Vinyl Version](https://open.spotify.com/track/20goDx14UZviYtCPtLbqvs) | [Sisters of Mercy](https://open.spotify.com/artist/4HxBVyHaUa60eCSsJWxwWR) | [Floodland](https://open.spotify.com/album/2I5WCmOZo17YkcEwjXbLvc) | 4:55 |
 | 18 | [Lovers From The Past](https://open.spotify.com/track/29P3bJSzsI5fUvwxSItkvr) | [Mareux](https://open.spotify.com/artist/7riQPkkGZBnTh9ve5qIhYo) | [Lovers From The Past](https://open.spotify.com/album/5ACGaSKEybDGrdthNiGCfY) | 3:19 |
-| 19 | [MOTHS](https://open.spotify.com/track/198k5g8F2FYnwYbhHV4rRB) | [Nyxjvh](https://open.spotify.com/artist/0qynm6lz4zZ8lJZygwfovX) | [MOTHS](https://open.spotify.com/album/7zWkTgmsawLX1XHAwbUZrW) | 1:20 |
+| 19 | [MOTHS](https://open.spotify.com/track/5QjDSwiE4HhAnYxExc8l65) | [Nyxjvh](https://open.spotify.com/artist/0qynm6lz4zZ8lJZygwfovX) | [MOTHS](https://open.spotify.com/album/5u0CMSfz7NxPrZW5IAClIf) | 1:20 |
 | 20 | [Heavens Lower](https://open.spotify.com/track/1TDJSbzuAIAFQy2K7EBm7m) | [R\. Missing](https://open.spotify.com/artist/4EVSMYb2zBDoSHSGEqeztu) | [Heavens Lower](https://open.spotify.com/album/3cw8dtylOAuH9CGY98020g) | 2:57 |
 | 21 | [Boys](https://open.spotify.com/track/3mIijo7WcIfMLx1PJPHbit) | [Social Order](https://open.spotify.com/artist/7J3iqTNIMXafmNKtwfRQ48) | [Boys](https://open.spotify.com/album/3f5a36R6YXw7ykuAKkcxkU) | 3:04 |
 | 22 | [Pain](https://open.spotify.com/track/13HYthybjhM3iyWcfl8VcN) | [Boy Harsher](https://open.spotify.com/artist/4iom7VVRU6AHRIu1JUXpLG) | [Lesser Man EP](https://open.spotify.com/album/0U0KLShCpe3rWkcfOLJl9Y) | 7:19 |
@@ -127,4 +127,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWmsWPbM2pKT.md) - [plain]
 | 117 | [Bela Lugosi's Dead \(Official Version\)](https://open.spotify.com/track/1wyVyr8OhYsC9l0WgPPbh8) | [Bauhaus](https://open.spotify.com/artist/5N5tQ9Dx1h8Od7aRmGj7Fi) | [The Bela Session](https://open.spotify.com/album/5NhiaFlFGgymG2rDNqAcm1) | 9:36 |
 | 118 | [Dark Entries](https://open.spotify.com/track/67MkU3b7k2fBL6oHHUiM09) | [Bauhaus](https://open.spotify.com/artist/5N5tQ9Dx1h8Od7aRmGj7Fi) | [In the Flat Field](https://open.spotify.com/album/4hPJRedKOmbvKnLdzV9w1w) | 3:51 |
 
-Snapshot ID: `MCxhMGI1MjZmNzgwYjQzZTBhNTU3MDdhZTY4MjY3M2UyMjFjNWMzNWJm`
+Snapshot ID: `MCxlMjRkNmQ5MDBiOTJmMzkxZjQ0NDQ4NDEwNmQxMTIxMjZhMjgzODc5`

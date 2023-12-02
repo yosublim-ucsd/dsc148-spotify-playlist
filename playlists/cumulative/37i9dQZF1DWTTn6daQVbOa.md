@@ -4,7 +4,7 @@
 
 > Mellow songs from the 1970s\. Cover: Elton John
 
-295 songs - 18 hr 52 min
+296 songs - 18 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,7 +81,7 @@
 | [Evergreen \(Love Theme from "A Star Is Born"\)](https://open.spotify.com/track/2IcqY68BxP1ONPi3ME6aje) | [Barbra Streisand](https://open.spotify.com/artist/7jmTilWYlKOuavFfmQAcu6) | [A Star Is Born](https://open.spotify.com/album/435mubtZvkoTYIPXWy3seP) | 3:04 | 2021-04-22 |  |
 | [Everything I Own](https://open.spotify.com/track/52VIdyKqp1pJRSyUQaxKUA) | [Bread](https://open.spotify.com/artist/70ZTdbPEcEugBNay4MvxfL) | [Baby I'm\-a Want You](https://open.spotify.com/album/5OlNb8PMZXFkhhtSrhLuO5) | 3:07 | 2021-04-22 |  |
 | [Everything I Own \- 7" Mix](https://open.spotify.com/track/6om52tevyqVMvl1mWTtKPM) | [Ken Boothe](https://open.spotify.com/artist/6jg1EbpTL27toPdfzveorJ) | [Everything I Own](https://open.spotify.com/album/510G90X1Ckki9sTPdwwYDW) | 3:44 | 2021-04-22 | 2022-04-21 |
-| [Fanny \(Be Tender With My Love\)](https://open.spotify.com/track/7KUHpRlZQR91SLflhsQCg9) | [Bee Gees](https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN) | [Main Course](https://open.spotify.com/album/2blsPE3sO5SnroFjfEAlfj) | 4:03 | 2021-04-22 |  |
+| [Fanny \(Be Tender With My Love\)](https://open.spotify.com/track/7KUHpRlZQR91SLflhsQCg9) | [Bee Gees](https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN) | [Main Course](https://open.spotify.com/album/2blsPE3sO5SnroFjfEAlfj) | 4:03 | 2021-04-22 | 2023-12-02 |
 | [Fantasy](https://open.spotify.com/track/2GH5jo15wbTv1Ll7zXEzSg) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [All 'N All](https://open.spotify.com/album/0w0eT42Gyq6G9yXB0RirWh) | 4:37 | 2021-04-22 |  |
 | [Feel Flows \- Remastered 2009](https://open.spotify.com/track/7lNATn8yN0Yjr4KOKDBdW6) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Surf's Up](https://open.spotify.com/album/5NJHGcHNdLURknY2LfzjZg) | 4:48 | 2021-06-07 | 2022-04-20 |
 | [Feel Like Makin' Love](https://open.spotify.com/track/7gkboYtvhuXNS4EUwmFPcw) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [Feel Like Makin' Love](https://open.spotify.com/album/3eOdBKYQ2w2eCvz2FxEmBA) | 2:55 | 2021-04-22 |  |
@@ -144,6 +144,7 @@
 | [It Never Rains in Southern California](https://open.spotify.com/track/6tunhVGD8C05MZNjSVIsjw) | [Albert Hammond](https://open.spotify.com/artist/34E3csCxpXunPGEkOVVX2g) | [It Never Rains In Southern California](https://open.spotify.com/album/0gdQF4mVBPjv5hhjtoe3hM) | 3:53 | 2021-04-22 |  |
 | [It's Only Make Believe](https://open.spotify.com/track/2eot2orcEQn5wR11DSVcbO) | [Glen Campbell](https://open.spotify.com/artist/59hLmB5DrdihCYtNeFeW1U) | [Glen Campbell Goodtime Album](https://open.spotify.com/album/2bVr7AMmHlGmRtCI1A0cwf) | 2:27 | 2021-04-22 | 2022-07-29 |
 | [It's Too Late](https://open.spotify.com/track/12q3V8ShACq2PSWINMc2rC) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Tapestry](https://open.spotify.com/album/12n11cgnpjXKLeqrnIERoS) | 3:53 | 2021-04-22 |  |
+| [I’ll Have to Say I Love You in a Song](https://open.spotify.com/track/7kWPh7dvoyJ0frnnZzxZPj) | [Jim Croce](https://open.spotify.com/artist/1R6Hx1tJ2VOUyodEpC12xM) | [I Got a Name](https://open.spotify.com/album/64dufEP8npd2jYoPfdzWPJ) | 2:34 | 2022-09-23 |  |
 | [I’ve Found Someone of My Own](https://open.spotify.com/track/1hxIpLgfV2czen9N6GSFY3) | [The Free Movement](https://open.spotify.com/artist/75LPMzMMXdqp5WxuDrmq7j) | [I’ve Found Someone of My Own](https://open.spotify.com/album/6ljTeP8vhpt8SzNOonUhWM) | 3:42 | 2021-04-22 | 2022-04-21 |
 | [Jealous Guy \- Remastered 2010](https://open.spotify.com/track/3D9iV6cYkYJRAPFO6DRKIE) | [John Lennon](https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H) | [Imagine](https://open.spotify.com/album/0xzaemKucrJpYhyl7TltAk) | 4:17 | 2021-04-22 |  |
 | [Just a Song Before I Go](https://open.spotify.com/track/4dAN7KcWCWx5jV6dpwtfvN) | [Crosby, Stills & Nash](https://open.spotify.com/artist/2pdvghEHZJtgSXZ7cvNLou) | [CSN](https://open.spotify.com/album/63AF6wD9Mt1vQgKPNZaAXx) | 2:13 | 2022-08-12 |  |

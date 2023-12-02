@@ -4,7 +4,7 @@
 
 > Soft and cozy acoustic covers of famous songs.
 
-436 songs - 23 hr 38 min
+437 songs - 23 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,7 @@
 | [All of me \- Acoustic](https://open.spotify.com/track/5vWzHxL50EEk7GCEBhXwrQ) | [Norah Davis](https://open.spotify.com/artist/22BqfoPGcFnnj0ldab5D9G) | [All of me \- Acoustic](https://open.spotify.com/album/2TsiANPJWN2t0z0ya5wAcd) | 4:28 | 2023-02-17 |  |
 | [All Star \- Acoustic](https://open.spotify.com/track/3h6xSQHGIkM3QyLHS5GD8c) | [Nelly Hope](https://open.spotify.com/artist/2MYa23iZLfrK6Yj4eAIOGt) | [All Star \- Acoustic](https://open.spotify.com/album/2CxpYQZVB79XTlzIGdctq1) | 3:50 | 2022-12-02 |  |
 | [All That I Need](https://open.spotify.com/track/06n8cDefDuKtIgRHDjCxzy) | [Hugo Helmig](https://open.spotify.com/artist/27eEve8Mu7Zv8DGDIz4peE) | [LULU Vol\. 1](https://open.spotify.com/album/4fHb81aJmtiOJjjSQgCOgX) | 3:45 | 2021-03-11 | 2022-07-29 |
-| [All That I Need](https://open.spotify.com/track/2htuDl6TWC2cxia8ZTdBSU) | [Hugo Helmig](https://open.spotify.com/artist/27eEve8Mu7Zv8DGDIz4peE) | [LULU, Vol\. 1](https://open.spotify.com/album/4WNPWn19iZOFvDwVbjEcZG) | 3:45 | 2021-03-11 |  |
+| [All That I Need](https://open.spotify.com/track/2htuDl6TWC2cxia8ZTdBSU) | [Hugo Helmig](https://open.spotify.com/artist/27eEve8Mu7Zv8DGDIz4peE) | [LULU, Vol\. 1](https://open.spotify.com/album/4WNPWn19iZOFvDwVbjEcZG) | 3:45 | 2021-03-11 | 2023-12-02 |
 | [almost happy](https://open.spotify.com/track/06SnkMUvEOai4zY9lGvuky) | [elijah woods](https://open.spotify.com/artist/3IR6DvP0x2a6oUSist9UMu) | [almost happy](https://open.spotify.com/album/3IISfQ5BRf3a5wNRf7CX0K) | 2:17 | 2022-11-25 | 2023-10-28 |
 | [Always On My Mind](https://open.spotify.com/track/6xgZswMoI5ncV8e5jhiRsC) | [Ane Brun](https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm) | [Leave Me Breathless](https://open.spotify.com/album/62EG6ravDzMqNtGb1CCYjy) | 3:26 | 2023-06-09 | 2023-11-24 |
 | [Always On My Mind](https://open.spotify.com/track/3VeCrupHghYMiLQNhsIeCn) | [Taylor Manns](https://open.spotify.com/artist/008yUYD9avjHlXXmT47dz9) | [Always On My Mind](https://open.spotify.com/album/6fEji3YIRWFLPtBM8UCULk) | 3:13 | 2021-03-11 | 2022-11-26 |
@@ -273,6 +273,7 @@
 | [Mad Love \- Acoustic](https://open.spotify.com/track/3wl6QxubZaEFHvp05XpcuF) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) | [Mad Love \(Acoustic\)](https://open.spotify.com/album/4W9fu5glvw78YxZ6ZQUbCr) | 2:53 | 2022-11-11 | 2023-10-28 |
 | [Made to Love You](https://open.spotify.com/track/7xNQMVeEgXQf0xUsTlcpMP) | [Dan Owen](https://open.spotify.com/artist/3wrdNgjTSLLQZ382sPyoA5) | [Stay Awake with Me \(acoustic\)](https://open.spotify.com/album/5WriBFJjPRzc9YyHgRKJeZ) | 3:27 | 2022-10-14 | 2023-10-28 |
 | [Make Me \(Cry\) \- Acoustic Version](https://open.spotify.com/track/6pP5RJbBH6eKR8BCYX3MSU) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW), [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Make Me \(Cry\) \[Acoustic Version\]](https://open.spotify.com/album/7xOsE3ZVZveBZfRdCzY3Uk) | 3:52 | 2022-08-31 | 2023-10-28 |
+| [Make You Feel My Love](https://open.spotify.com/track/2pcoc3E6EKzKC1wTztiz4I) | [Morgan St\. Douglas](https://open.spotify.com/artist/4kwtiqubnECtzOECKGYJOT) | [Make You Feel My Love](https://open.spotify.com/album/67BVLFInYTSKVAx4VCuq5L) | 3:09 | 2023-11-24 |  |
 | [Me Without You \- Acoustic](https://open.spotify.com/track/3RoZqntWw5zzeLUyewnDBm) | [Mads Langer](https://open.spotify.com/artist/028xhPwqtWva4J0MkFHY2x) | [Me Without You \(Acoustic\)](https://open.spotify.com/album/4twS0ttG97Gtu0roSQ8mKg) | 3:11 | 2021-03-11 | 2022-07-29 |
 | [Me Without You \- Acoustic](https://open.spotify.com/track/49rkYEtnlibPEbs4U9Utxw) | [Mads Langer](https://open.spotify.com/artist/028xhPwqtWva4J0MkFHY2x) | [Me Without You](https://open.spotify.com/album/4LHnPUfu5s8zcIorVvSfFD) | 3:11 | 2021-03-11 | 2022-10-15 |
 | [Me Without You \- Acoustic](https://open.spotify.com/track/5XsMfRcxAXa2efZQt80v5L) | [Mads Langer](https://open.spotify.com/artist/028xhPwqtWva4J0MkFHY2x) | [Me Without You](https://open.spotify.com/album/4pz9P63oJ2hV8BPakZYxny) | 3:11 | 2022-10-14 | 2022-11-26 |

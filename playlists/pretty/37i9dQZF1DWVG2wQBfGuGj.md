@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVG2wQBfGuGj.md) - [plain]
 
 > Surrender to the chill of the White Island with these laid\-back house and nu\-disco groovers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,902 likes - 172 songs - 8 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,969 likes - 172 songs - 8 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,19 +24,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVG2wQBfGuGj.md) - [plain]
 | 14 | [Linares](https://open.spotify.com/track/1BIpsZXO7zxplZmyVzNzDv) | [Kacey View](https://open.spotify.com/artist/5V6YChLiAxyybNfGTpdXOi) | [Linares](https://open.spotify.com/album/0Sf4NmiFpMfZePoY3lCq5y) | 2:46 |
 | 15 | [Para Sol](https://open.spotify.com/track/5hrJnEz67Q6l33sPtGFga4) | [Teide Garcia](https://open.spotify.com/artist/451rSCehp88cqkjv6QQLha) | [Para Sol](https://open.spotify.com/album/4zCjXYDYpNXj1p7CHYKfGp) | 3:16 |
 | 16 | [Straight Curves](https://open.spotify.com/track/2t7tr3u3eP9maEcdnxdWco) | [Poreniacs](https://open.spotify.com/artist/3UWaMtK5W6hxqll176xaTv) | [Straight Curves](https://open.spotify.com/album/5txvqoRrYhbH8xDGuSxbgt) | 2:31 |
-| 17 | [On The Pull](https://open.spotify.com/track/6zKrDm8h18jJxPMbMSUGMs) | [Hoboken](https://open.spotify.com/artist/4HARu4hK9xDTdAIao8q8yH) | [On The Pull](https://open.spotify.com/album/5mHSvzcAKCPYR9Nm07SMMW) | 2:35 |
-| 18 | [summer somewhere](https://open.spotify.com/track/6vXYQh5NKBSDjOxgKXjXr6) | [Kacey View](https://open.spotify.com/artist/5V6YChLiAxyybNfGTpdXOi) | [summer somewhere](https://open.spotify.com/album/7g1pEXexNSRzZ6YMYfElbr) | 2:00 |
-| 19 | [Xtraspicy](https://open.spotify.com/track/3lVnP86We7owVYQRvcmhD5) | [Hoboken](https://open.spotify.com/artist/4HARu4hK9xDTdAIao8q8yH) | [Xtraspicy](https://open.spotify.com/album/2DKbaWzc8v4G2Vd62KTtvL) | 2:31 |
-| 20 | [Boarding](https://open.spotify.com/track/0fSEMD71VwMtIZi6IUXJjQ) | [Far Orange](https://open.spotify.com/artist/1SIt7IjD8Q9RpwEklyMlUO) | [Boarding](https://open.spotify.com/album/58jr54BxPnYRK7MUFBqfSE) | 4:58 |
-| 21 | [Midnight Mint](https://open.spotify.com/track/2ze9ejYaCLMu4rDtITIrYE) | [ELEVENISH](https://open.spotify.com/artist/6FksKKI0Wz1eJmCbWzNVEf) | [Midnight Mint](https://open.spotify.com/album/09Lb346QPeOrhG5lOOXa9B) | 2:20 |
-| 22 | [Just Waiting 4 You](https://open.spotify.com/track/0VVMvXcchR5HUWRU0zefNs) | [Sum Wave](https://open.spotify.com/artist/0bfdnPaHczaQt6tYe8J4Ci) | [Just Waiting 4 You](https://open.spotify.com/album/7zXB7RZJadDzIWRW7dmRd4) | 3:20 |
-| 23 | [Out Of Mind](https://open.spotify.com/track/36nFJrBZPAgGSEFVDEWkaX) | [Grey Qoo](https://open.spotify.com/artist/3UGtMIm5fs6Jd4ss8FXRh7) | [Out Of Mind](https://open.spotify.com/album/4Lj8EgQigC8HiSiFeCA4pI) | 2:26 |
-| 24 | [Stella Marina](https://open.spotify.com/track/41t2H4SSr8XZxkFiv8iHhw) | [Sunset\-buff](https://open.spotify.com/artist/4vwwK0iaZVthftLEr8As6W) | [Stella Marina](https://open.spotify.com/album/1I6Z3FD9O4pYQnzTyCUGMp) | 2:48 |
-| 25 | [Kanoa](https://open.spotify.com/track/7sNOk3Bfv0CTl80ctSkkw6) | [Uzma](https://open.spotify.com/artist/6vBlurHTGtROUEFBUqoaDl) | [Kanoa](https://open.spotify.com/album/2txBLe5ISOYhG9WFQlmRKq) | 2:38 |
-| 26 | [Kailani](https://open.spotify.com/track/5KBPNVwuAg7oVpKQvEtIeS) | [Uzma](https://open.spotify.com/artist/6vBlurHTGtROUEFBUqoaDl) | [Kailani](https://open.spotify.com/album/2YzyYJAKupYwoaxkM0czMv) | 2:31 |
-| 27 | [I Just Wanna](https://open.spotify.com/track/2IWH3K11b8DwM9BTixLeE0) | [9Fivey](https://open.spotify.com/artist/5U5RKfPTGsbCTyLTnaUHXU) | [I Just Wanna](https://open.spotify.com/album/6zS7LMCok21WSsnAnx7qp7) | 2:10 |
-| 28 | [Disc Me Bro](https://open.spotify.com/track/6eoPPAY4pQ3w1Gvt2fMt7Q) | [Basixx](https://open.spotify.com/artist/3yoJOUgWeJEC81UoZhYIdd) | [Disc Me Bro](https://open.spotify.com/album/2sEIOSa1osSD7Ilth42W9v) | 2:42 |
-| 29 | [Shizaru](https://open.spotify.com/track/2vi8nrpy6kb7rJ1ZMN3Ces) | [Himari Aoki](https://open.spotify.com/artist/5wymut0det0V9Vf6l8t0mD) | [Shizaru](https://open.spotify.com/album/6lITOJOFvq5HUGwWIBIe3r) | 2:22 |
+| 17 | [Elixir](https://open.spotify.com/track/0PhaLtoRmcupcDmm3HEh5r) | [MayDance](https://open.spotify.com/artist/3kxIpmExJ6PbxU7qzqOEa4) | [Elixir](https://open.spotify.com/album/1ZiUjhQZe8sGtxP74Zrn7d) | 2:25 |
+| 18 | [On The Pull](https://open.spotify.com/track/6zKrDm8h18jJxPMbMSUGMs) | [Hoboken](https://open.spotify.com/artist/4HARu4hK9xDTdAIao8q8yH) | [On The Pull](https://open.spotify.com/album/5mHSvzcAKCPYR9Nm07SMMW) | 2:35 |
+| 19 | [summer somewhere](https://open.spotify.com/track/6vXYQh5NKBSDjOxgKXjXr6) | [Kacey View](https://open.spotify.com/artist/5V6YChLiAxyybNfGTpdXOi) | [summer somewhere](https://open.spotify.com/album/7g1pEXexNSRzZ6YMYfElbr) | 2:00 |
+| 20 | [Xtraspicy](https://open.spotify.com/track/3lVnP86We7owVYQRvcmhD5) | [Hoboken](https://open.spotify.com/artist/4HARu4hK9xDTdAIao8q8yH) | [Xtraspicy](https://open.spotify.com/album/2DKbaWzc8v4G2Vd62KTtvL) | 2:31 |
+| 21 | [Boarding](https://open.spotify.com/track/0fSEMD71VwMtIZi6IUXJjQ) | [Far Orange](https://open.spotify.com/artist/1SIt7IjD8Q9RpwEklyMlUO) | [Boarding](https://open.spotify.com/album/58jr54BxPnYRK7MUFBqfSE) | 4:58 |
+| 22 | [Midnight Mint](https://open.spotify.com/track/2ze9ejYaCLMu4rDtITIrYE) | [ELEVENISH](https://open.spotify.com/artist/6FksKKI0Wz1eJmCbWzNVEf) | [Midnight Mint](https://open.spotify.com/album/09Lb346QPeOrhG5lOOXa9B) | 2:20 |
+| 23 | [Just Waiting 4 You](https://open.spotify.com/track/0VVMvXcchR5HUWRU0zefNs) | [Sum Wave](https://open.spotify.com/artist/0bfdnPaHczaQt6tYe8J4Ci) | [Just Waiting 4 You](https://open.spotify.com/album/7zXB7RZJadDzIWRW7dmRd4) | 3:20 |
+| 24 | [Out Of Mind](https://open.spotify.com/track/36nFJrBZPAgGSEFVDEWkaX) | [Grey Qoo](https://open.spotify.com/artist/3UGtMIm5fs6Jd4ss8FXRh7) | [Out Of Mind](https://open.spotify.com/album/4Lj8EgQigC8HiSiFeCA4pI) | 2:26 |
+| 25 | [Stella Marina](https://open.spotify.com/track/41t2H4SSr8XZxkFiv8iHhw) | [Sunset\-buff](https://open.spotify.com/artist/4vwwK0iaZVthftLEr8As6W) | [Stella Marina](https://open.spotify.com/album/1I6Z3FD9O4pYQnzTyCUGMp) | 2:48 |
+| 26 | [Kanoa](https://open.spotify.com/track/7sNOk3Bfv0CTl80ctSkkw6) | [Uzma](https://open.spotify.com/artist/6vBlurHTGtROUEFBUqoaDl) | [Kanoa](https://open.spotify.com/album/2txBLe5ISOYhG9WFQlmRKq) | 2:38 |
+| 27 | [Kailani](https://open.spotify.com/track/5KBPNVwuAg7oVpKQvEtIeS) | [Uzma](https://open.spotify.com/artist/6vBlurHTGtROUEFBUqoaDl) | [Kailani](https://open.spotify.com/album/2YzyYJAKupYwoaxkM0czMv) | 2:31 |
+| 28 | [I Just Wanna](https://open.spotify.com/track/2IWH3K11b8DwM9BTixLeE0) | [9Fivey](https://open.spotify.com/artist/5U5RKfPTGsbCTyLTnaUHXU) | [I Just Wanna](https://open.spotify.com/album/6zS7LMCok21WSsnAnx7qp7) | 2:10 |
+| 29 | [Disc Me Bro](https://open.spotify.com/track/6eoPPAY4pQ3w1Gvt2fMt7Q) | [Basixx](https://open.spotify.com/artist/3yoJOUgWeJEC81UoZhYIdd) | [Disc Me Bro](https://open.spotify.com/album/2sEIOSa1osSD7Ilth42W9v) | 2:42 |
 | 30 | [Feel Decent](https://open.spotify.com/track/61zOivEMvcyCoymnvBVPy5) | [Heyson](https://open.spotify.com/artist/7ooKNV7aBXuyijq6bYvvQR) | [Vibes Vol\. 3](https://open.spotify.com/album/53uc38DjJTTD6JG1EcQJym) | 3:45 |
 | 31 | [Port Ella](https://open.spotify.com/track/6Q6gpf2CqaZU3on49r1NcU) | [West & Zander](https://open.spotify.com/artist/2Zjic6AMVbL0WvXf5ll1lA) | [Pomaque](https://open.spotify.com/album/7ya9jIowdJzZlk01WLo2IX) | 3:46 |
 | 32 | [flirty talk](https://open.spotify.com/track/212O37gB5Oh2RIKOhXXn8m) | [genelion](https://open.spotify.com/artist/2TMzn3AIEg6b4Nd28MjUNA) | [flirty talk](https://open.spotify.com/album/7AFrOWKoPKNhLpbwqJPbLz) | 2:19 |
@@ -181,4 +181,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVG2wQBfGuGj.md) - [plain]
 | 171 | [Natural High](https://open.spotify.com/track/0MipaVV2aqz544mFEehXaB) | [Brendon Moeller](https://open.spotify.com/artist/3V3T5haMWZGfFxqVsAB9oB) | [Cygnus A](https://open.spotify.com/album/0YH8iHF3YgylIRIdlL6bGV) | 4:58 |
 | 172 | [Paloma](https://open.spotify.com/track/549JBVNjLZt5BN6qfphBbQ) | [Folta Tres](https://open.spotify.com/artist/1iLaFy9DHbJz1Bmc19mSoe) | [Paloma](https://open.spotify.com/album/04mofxzUHsD7zVCAKzbpWu) | 2:37 |
 
-Snapshot ID: `MCwzNDZkMjAxZDZlOGU0NWRlZTMzMDllOTUxMmNkMzFiMDJmNDAzOWFh`
+Snapshot ID: `MCwxMGQzNDA4YTJkMDJkNzEwMzE0OGQxZmM2MThiNTk2Y2MzM2E2ZDc2`

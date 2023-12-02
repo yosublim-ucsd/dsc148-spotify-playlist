@@ -983,6 +983,24 @@
     },
     {
       "album": {
+        "name": "Dance (with you)",
+        "url": "https://open.spotify.com/album/7CPgP7oEkVq53d8it9Mb1L"
+      },
+      "artists": [
+        {
+          "name": "J. Louix",
+          "url": "https://open.spotify.com/artist/2WYMIlGoKw0QcSrbinrsQP"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208902,
+      "name": "Dance (with you)",
+      "url": "https://open.spotify.com/track/5BEDEgmiTXtI5twIeQ2kHx"
+    },
+    {
+      "album": {
         "name": "Body Talk",
         "url": "https://open.spotify.com/album/0Rzg7fqyWE39G6wKipxrns"
       },
@@ -1016,7 +1034,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 153904,
       "name": "Dancing With A Ghost",
       "url": "https://open.spotify.com/track/59l9ToPcTNhaoJRaSnH5Jc"
@@ -2840,7 +2858,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 452000,
       "name": "On My Knees - Adriatique Remix",
       "url": "https://open.spotify.com/track/7MbfrPIsgFDVJifA7p7Evk"
@@ -4182,6 +4200,28 @@
       "duration_ms": 221160,
       "name": "Toi et moi",
       "url": "https://open.spotify.com/track/5yzlBpUNflMjcwAryoo2zJ"
+    },
+    {
+      "album": {
+        "name": "Try",
+        "url": "https://open.spotify.com/album/4r5rI5k5ansCDpZ8tfRuv5"
+      },
+      "artists": [
+        {
+          "name": "MAFRO",
+          "url": "https://open.spotify.com/artist/2Y9v3pyVuYM0o8bSLAUUZm"
+        },
+        {
+          "name": "Qhairo",
+          "url": "https://open.spotify.com/artist/4iZFdVAuD09d0newPwscSk"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227580,
+      "name": "Try",
+      "url": "https://open.spotify.com/track/1YJ8Sx2YZjBFNWhvCDUEKa"
     },
     {
       "album": {

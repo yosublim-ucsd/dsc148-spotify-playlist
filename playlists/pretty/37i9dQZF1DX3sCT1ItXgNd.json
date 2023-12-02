@@ -1,12 +1,12 @@
 {
   "description": "Lo mejor del pop en espa\u00f1ol. Foto: i\u00f1igo quintero",
-  "num_followers": 990855,
+  "num_followers": 990993,
   "original_name": "Pop con \u00d1",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkOGNmNGU2OTFjZDM0NjE0ZGNjNzI4ZTI4ZGIxMDE3NTc0ZTEyZjUx",
+  "snapshot_id": "MCw3ZGUzMTU3ZmNhMzQ2MzFmODIxYmUwM2MxYmRiNjMwOGU2MmJiOGJj",
   "tracks": [
     {
       "added_at": "2023-11-30 23:01:00",
@@ -143,18 +143,22 @@
     {
       "added_at": "2023-11-30 23:01:00",
       "album": {
-        "name": "lady madrizZz",
-        "url": "https://open.spotify.com/album/3RtVlBAyuXHZ66TNukWRMS"
+        "name": "Por Dentro",
+        "url": "https://open.spotify.com/album/0eurPgSTFcfvsgGSqIciS4"
       },
       "artists": [
         {
-          "name": "c\u00e9ro",
-          "url": "https://open.spotify.com/artist/5AiFFE0KopBkOzEZeDbSaH"
+          "name": "Rels B",
+          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
+        },
+        {
+          "name": "Kenia OS",
+          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
         }
       ],
-      "duration_ms": 131020,
-      "name": "lady madrizZz",
-      "url": "https://open.spotify.com/track/3CqTTiYyJRJNmuxZcww8BP"
+      "duration_ms": 165981,
+      "name": "Por Dentro",
+      "url": "https://open.spotify.com/track/671fHUAB2n0MocazS1bMB8"
     },
     {
       "added_at": "2023-11-30 23:01:00",
@@ -179,22 +183,18 @@
     {
       "added_at": "2023-11-30 23:01:00",
       "album": {
-        "name": "Por Dentro",
-        "url": "https://open.spotify.com/album/0eurPgSTFcfvsgGSqIciS4"
+        "name": "lady madrizZz",
+        "url": "https://open.spotify.com/album/3RtVlBAyuXHZ66TNukWRMS"
       },
       "artists": [
         {
-          "name": "Rels B",
-          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
-        },
-        {
-          "name": "Kenia OS",
-          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
+          "name": "c\u00e9ro",
+          "url": "https://open.spotify.com/artist/5AiFFE0KopBkOzEZeDbSaH"
         }
       ],
-      "duration_ms": 165981,
-      "name": "Por Dentro",
-      "url": "https://open.spotify.com/track/671fHUAB2n0MocazS1bMB8"
+      "duration_ms": 131020,
+      "name": "lady madrizZz",
+      "url": "https://open.spotify.com/track/3CqTTiYyJRJNmuxZcww8BP"
     },
     {
       "added_at": "2023-11-30 23:01:00",
@@ -339,6 +339,22 @@
     {
       "added_at": "2023-11-30 23:01:00",
       "album": {
+        "name": "Sobreviviste",
+        "url": "https://open.spotify.com/album/1TpmuLGyFw9tVtuBIt7t6u"
+      },
+      "artists": [
+        {
+          "name": "Morat",
+          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
+        }
+      ],
+      "duration_ms": 186760,
+      "name": "Sobreviviste",
+      "url": "https://open.spotify.com/track/3CGPWcU0S3tnb1hSvtyBmj"
+    },
+    {
+      "added_at": "2023-11-30 23:01:00",
+      "album": {
         "name": "Santorini",
         "url": "https://open.spotify.com/album/43pq1lauxP6T2c4ySugI0Z"
       },
@@ -359,34 +375,18 @@
     {
       "added_at": "2023-11-30 23:01:00",
       "album": {
-        "name": "Sobreviviste",
-        "url": "https://open.spotify.com/album/1TpmuLGyFw9tVtuBIt7t6u"
+        "name": "No te enamores de \u00e9l",
+        "url": "https://open.spotify.com/album/0iqIzRLZwJlE757cS7Ow6Z"
       },
       "artists": [
         {
-          "name": "Morat",
-          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
         }
       ],
-      "duration_ms": 186760,
-      "name": "Sobreviviste",
-      "url": "https://open.spotify.com/track/3CGPWcU0S3tnb1hSvtyBmj"
-    },
-    {
-      "added_at": "2023-11-30 23:01:00",
-      "album": {
-        "name": "alpha",
-        "url": "https://open.spotify.com/album/7itZH9cqWCweOqCGsjWlLx"
-      },
-      "artists": [
-        {
-          "name": "Aitana",
-          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
-        }
-      ],
-      "duration_ms": 170346,
-      "name": "Darar\u00ed",
-      "url": "https://open.spotify.com/track/260rBjdoUcXRK8AeAqeg5X"
+      "duration_ms": 197366,
+      "name": "No te enamores de \u00e9l",
+      "url": "https://open.spotify.com/track/6R0DBvEERp0MrxqxNsQ6rw"
     },
     {
       "added_at": "2023-11-30 23:01:00",
@@ -407,6 +407,38 @@
     {
       "added_at": "2023-11-30 23:01:00",
       "album": {
+        "name": "alpha",
+        "url": "https://open.spotify.com/album/7itZH9cqWCweOqCGsjWlLx"
+      },
+      "artists": [
+        {
+          "name": "Aitana",
+          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
+        }
+      ],
+      "duration_ms": 170346,
+      "name": "Darar\u00ed",
+      "url": "https://open.spotify.com/track/260rBjdoUcXRK8AeAqeg5X"
+    },
+    {
+      "added_at": "2023-11-30 23:01:00",
+      "album": {
+        "name": "LVEU: VIVE LA TUYA...NO LA MIA",
+        "url": "https://open.spotify.com/album/1ZVJTCW5rxpHKNgsNL91J2"
+      },
+      "artists": [
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "duration_ms": 202360,
+      "name": "LA CAPI",
+      "url": "https://open.spotify.com/track/68OXeY9CUQebrOAAh3b3Jw"
+    },
+    {
+      "added_at": "2023-11-30 23:01:00",
+      "album": {
         "name": "XQ Sigues Pasando :(",
         "url": "https://open.spotify.com/album/5yupynAvNgH8LwQomVJEzz"
       },
@@ -423,22 +455,6 @@
       "duration_ms": 214800,
       "name": "XQ Sigues Pasando :(",
       "url": "https://open.spotify.com/track/60WnyQpJMxndoCwfo3TbuE"
-    },
-    {
-      "added_at": "2023-11-30 23:01:00",
-      "album": {
-        "name": "No te enamores de \u00e9l",
-        "url": "https://open.spotify.com/album/0iqIzRLZwJlE757cS7Ow6Z"
-      },
-      "artists": [
-        {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
-        }
-      ],
-      "duration_ms": 197366,
-      "name": "No te enamores de \u00e9l",
-      "url": "https://open.spotify.com/track/6R0DBvEERp0MrxqxNsQ6rw"
     },
     {
       "added_at": "2023-11-30 23:01:00",
@@ -475,18 +491,18 @@
     {
       "added_at": "2023-11-30 23:01:00",
       "album": {
-        "name": "LVEU: VIVE LA TUYA...NO LA MIA",
-        "url": "https://open.spotify.com/album/1ZVJTCW5rxpHKNgsNL91J2"
+        "name": "\u00c1NGEL",
+        "url": "https://open.spotify.com/album/3g5VwrXN4bKoU9UKux5k5N"
       },
       "artists": [
         {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+          "name": "Cali Y El Dandee",
+          "url": "https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK"
         }
       ],
-      "duration_ms": 202360,
-      "name": "LA CAPI",
-      "url": "https://open.spotify.com/track/68OXeY9CUQebrOAAh3b3Jw"
+      "duration_ms": 187240,
+      "name": "Ella",
+      "url": "https://open.spotify.com/track/1DPtfQYOFB9IAEk1o4qBmS"
     },
     {
       "added_at": "2023-11-30 23:01:00",
@@ -507,22 +523,6 @@
       "duration_ms": 185958,
       "name": "tequiero",
       "url": "https://open.spotify.com/track/5K7cuVLC8T88DYb9kCLROK"
-    },
-    {
-      "added_at": "2023-11-30 23:01:00",
-      "album": {
-        "name": "\u00c1NGEL",
-        "url": "https://open.spotify.com/album/3g5VwrXN4bKoU9UKux5k5N"
-      },
-      "artists": [
-        {
-          "name": "Cali Y El Dandee",
-          "url": "https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK"
-        }
-      ],
-      "duration_ms": 187240,
-      "name": "Ella",
-      "url": "https://open.spotify.com/track/1DPtfQYOFB9IAEk1o4qBmS"
     },
     {
       "added_at": "2023-11-30 23:01:00",
@@ -627,26 +627,6 @@
     {
       "added_at": "2023-11-30 23:01:00",
       "album": {
-        "name": "El Wey",
-        "url": "https://open.spotify.com/album/52neKij6fmer1UfXcau0Dr"
-      },
-      "artists": [
-        {
-          "name": "zzoilo",
-          "url": "https://open.spotify.com/artist/7c53ZFyajVMTo08HmvoB6b"
-        },
-        {
-          "name": "Sof\u00eda Reyes",
-          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
-        }
-      ],
-      "duration_ms": 197836,
-      "name": "El Wey",
-      "url": "https://open.spotify.com/track/4bFDvUCl0ZMQ6yHAUaSsF5"
-    },
-    {
-      "added_at": "2023-11-30 23:01:00",
-      "album": {
         "name": "Tarde",
         "url": "https://open.spotify.com/album/1sRH4OWpSusGI266WHwTPu"
       },
@@ -663,6 +643,26 @@
       "duration_ms": 205027,
       "name": "Tarde",
       "url": "https://open.spotify.com/track/6zmn8g3wqzXs75rs6gJW8T"
+    },
+    {
+      "added_at": "2023-11-30 23:01:00",
+      "album": {
+        "name": "El Wey",
+        "url": "https://open.spotify.com/album/52neKij6fmer1UfXcau0Dr"
+      },
+      "artists": [
+        {
+          "name": "zzoilo",
+          "url": "https://open.spotify.com/artist/7c53ZFyajVMTo08HmvoB6b"
+        },
+        {
+          "name": "Sof\u00eda Reyes",
+          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
+        }
+      ],
+      "duration_ms": 197836,
+      "name": "El Wey",
+      "url": "https://open.spotify.com/track/4bFDvUCl0ZMQ6yHAUaSsF5"
     },
     {
       "added_at": "2023-11-30 23:01:00",
@@ -707,18 +707,18 @@
     {
       "added_at": "2023-11-30 23:01:00",
       "album": {
-        "name": "bellodrama",
-        "url": "https://open.spotify.com/album/3Bk95OiIUpFX417h8OFnrb"
+        "name": "Palabra Prohibida",
+        "url": "https://open.spotify.com/album/0SL3CXA1AkeE9i8mlaCCRZ"
       },
       "artists": [
         {
-          "name": "Ana Mena",
-          "url": "https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl"
+          "name": "Samura\u00ef",
+          "url": "https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9"
         }
       ],
-      "duration_ms": 164351,
-      "name": "Me Enamoro",
-      "url": "https://open.spotify.com/track/7JTqqfnDlXxkhtQnf4bsKp"
+      "duration_ms": 176881,
+      "name": "Palabra Prohibida",
+      "url": "https://open.spotify.com/track/4sRulaggpSTT3mLCZsaJ5v"
     },
     {
       "added_at": "2023-11-30 23:01:00",
@@ -743,18 +743,18 @@
     {
       "added_at": "2023-11-30 23:01:00",
       "album": {
-        "name": "PORTARSE MAL",
-        "url": "https://open.spotify.com/album/3X0mM0p3c8LhRw6T64svoe"
+        "name": "bellodrama",
+        "url": "https://open.spotify.com/album/3Bk95OiIUpFX417h8OFnrb"
       },
       "artists": [
         {
-          "name": "\u00c1lvaro De Luna",
-          "url": "https://open.spotify.com/artist/5N3YDBGT2gUzXgLDTwPRi5"
+          "name": "Ana Mena",
+          "url": "https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl"
         }
       ],
-      "duration_ms": 192126,
-      "name": "PORTARSE MAL",
-      "url": "https://open.spotify.com/track/20EnydkCy1x6OZsITbWQre"
+      "duration_ms": 164351,
+      "name": "Me Enamoro",
+      "url": "https://open.spotify.com/track/7JTqqfnDlXxkhtQnf4bsKp"
     },
     {
       "added_at": "2023-11-30 23:01:00",
@@ -791,18 +791,18 @@
     {
       "added_at": "2023-11-30 23:01:00",
       "album": {
-        "name": "Palabra Prohibida",
-        "url": "https://open.spotify.com/album/0SL3CXA1AkeE9i8mlaCCRZ"
+        "name": "PORTARSE MAL",
+        "url": "https://open.spotify.com/album/3X0mM0p3c8LhRw6T64svoe"
       },
       "artists": [
         {
-          "name": "Samura\u00ef",
-          "url": "https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9"
+          "name": "\u00c1lvaro De Luna",
+          "url": "https://open.spotify.com/artist/5N3YDBGT2gUzXgLDTwPRi5"
         }
       ],
-      "duration_ms": 176881,
-      "name": "Palabra Prohibida",
-      "url": "https://open.spotify.com/track/4sRulaggpSTT3mLCZsaJ5v"
+      "duration_ms": 192126,
+      "name": "PORTARSE MAL",
+      "url": "https://open.spotify.com/track/20EnydkCy1x6OZsITbWQre"
     },
     {
       "added_at": "2023-11-30 23:01:00",
@@ -991,22 +991,6 @@
     {
       "added_at": "2023-11-30 23:01:00",
       "album": {
-        "name": "Pirata",
-        "url": "https://open.spotify.com/album/0qNBlTwJDx8h3gfTSBJzYf"
-      },
-      "artists": [
-        {
-          "name": "Marlon",
-          "url": "https://open.spotify.com/artist/1RTZXV2Txeij9hW1C88mfs"
-        }
-      ],
-      "duration_ms": 193626,
-      "name": "Pirata",
-      "url": "https://open.spotify.com/track/4QE2lll1AHZw20DOnkGmZD"
-    },
-    {
-      "added_at": "2023-11-30 23:01:00",
-      "album": {
         "name": "Toxic Christmas",
         "url": "https://open.spotify.com/album/2MlzzwIgcXCSdENIrErvgD"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 199546,
       "name": "Toxic Christmas",
       "url": "https://open.spotify.com/track/1hOWbWdAfANHLUMuRP182E"
+    },
+    {
+      "added_at": "2023-11-30 23:01:00",
+      "album": {
+        "name": "Pirata",
+        "url": "https://open.spotify.com/album/0qNBlTwJDx8h3gfTSBJzYf"
+      },
+      "artists": [
+        {
+          "name": "Marlon",
+          "url": "https://open.spotify.com/artist/1RTZXV2Txeij9hW1C88mfs"
+        }
+      ],
+      "duration_ms": 193626,
+      "name": "Pirata",
+      "url": "https://open.spotify.com/track/4QE2lll1AHZw20DOnkGmZD"
     },
     {
       "added_at": "2023-11-30 23:01:00",

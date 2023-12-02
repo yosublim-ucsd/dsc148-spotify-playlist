@@ -107,6 +107,24 @@
     },
     {
       "album": {
+        "name": "Bandida",
+        "url": "https://open.spotify.com/album/1J4tkcMXQloJN4oWGH96JY"
+      },
+      "artists": [
+        {
+          "name": "Melly",
+          "url": "https://open.spotify.com/artist/7a7n9ka0Mnevq19mOU8tcW"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207500,
+      "name": "Bandida",
+      "url": "https://open.spotify.com/track/3gs7uYFl24VspXdi39Yy6l"
+    },
+    {
+      "album": {
         "name": "Brincava de Amar",
         "url": "https://open.spotify.com/album/3il965mOJh8Jk3KjcxX4fg"
       },
@@ -234,7 +252,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 225000,
       "name": "Conex\u00e3o",
       "url": "https://open.spotify.com/track/2EWaBErOpttybo792PEzIB"

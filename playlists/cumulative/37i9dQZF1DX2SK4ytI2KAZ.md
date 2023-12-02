@@ -4,7 +4,7 @@
 
 > have fun with it.
 
-524 songs - 1 day 4 hr 59 min
+525 songs - 1 day 5 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -260,7 +260,7 @@
 | [Life's Been Good](https://open.spotify.com/track/7wtMcCrzuRDzaqp7QVyc0w) | [Dirty Heads](https://open.spotify.com/artist/6GkJh85o22LfD2vgL9DP6f) | [Life's Been Good](https://open.spotify.com/album/0eGpYPPLOXgHhFVuEn8jto) | 3:13 | 2022-06-27 | 2023-09-26 |
 | [Lights Down](https://open.spotify.com/track/1JkOqfiFIafUmq1yrJTlfj) | [Luna Bay](https://open.spotify.com/artist/4GxGE6FCYDdHtcDzRL7TYh) | [Lights Down](https://open.spotify.com/album/1LgDq2kPnfRvqFYq8oIrcw) | 3:08 | 2022-02-04 | 2022-04-20 |
 | [Live A Little](https://open.spotify.com/track/4S0IPaVHzkraym4ue5NZFG) | [Chaz Cardigan](https://open.spotify.com/artist/7DJUlhy4pX4sxaDfQcH0Ms) | [Live A Little](https://open.spotify.com/album/7tWKjGBObemhc67JFnpX4b) | 2:49 | 2021-03-10 | 2022-07-29 |
-| [Live A Little](https://open.spotify.com/track/4TMVC63HZDYaTGtlhbM95i) | [Chaz Cardigan](https://open.spotify.com/artist/7DJUlhy4pX4sxaDfQcH0Ms) | [Live A Little](https://open.spotify.com/album/6t3du226nIyJNEHTuYPBdK) | 2:49 | 2022-06-27 |  |
+| [Live A Little](https://open.spotify.com/track/4TMVC63HZDYaTGtlhbM95i) | [Chaz Cardigan](https://open.spotify.com/artist/7DJUlhy4pX4sxaDfQcH0Ms) | [Live A Little](https://open.spotify.com/album/6t3du226nIyJNEHTuYPBdK) | 2:49 | 2022-06-27 | 2023-12-02 |
 | [Living In A Haze](https://open.spotify.com/track/3yfki4r5cgFA784trLoHnk) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs) | [Living In A Haze](https://open.spotify.com/album/2Ffexjpw1Q1qdwLWEVThEJ) | 2:53 | 2023-03-24 |  |
 | [lmho](https://open.spotify.com/track/0cBohovCcJEFKOdEsw2g5F) | [flor](https://open.spotify.com/artist/0szWPxzzE8DVEfXFRCLBUb) | [lmho](https://open.spotify.com/album/7vKo7mnIuqUHg4DM5biEv1) | 3:42 | 2021-03-10 | 2022-07-30 |
 | [Lone Survivor](https://open.spotify.com/track/4xoMkzXVLIr2Lal6gIX18L) | [The Wrecks](https://open.spotify.com/artist/458aS6ALc3QkzwfR5USt34) | [Sonder](https://open.spotify.com/album/4cKYUcPZBniJthOcf89r20) | 2:59 | 2022-06-27 | 2023-03-25 |
@@ -473,6 +473,7 @@
 | [These Are The Days](https://open.spotify.com/track/6fyCVdU5lJT9ErO9QicFWC) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [These Are The Days](https://open.spotify.com/album/2cP0n7ZCTCH4MDgirIWZmz) | 3:42 | 2022-06-27 | 2023-11-28 |
 | [This Party](https://open.spotify.com/track/7isDQC5HH4ev21Ma6L8UGg) | [Houndmouth](https://open.spotify.com/artist/7EGwUS3c5dXduO4sMyLWC5) | [This Party](https://open.spotify.com/album/7sXYHSchuHIHgBY9mIG1Xn) | 3:13 | 2022-03-11 | 2022-04-18 |
 | [This Side of Paradise](https://open.spotify.com/track/79EkGysjP2dL5GdpeQjRxT) | [Coyote Theory](https://open.spotify.com/artist/48vmXfV0QPy3ljXBp81Fwn) | [Color](https://open.spotify.com/album/2WADI6qysXnT8cpXKbH8nv) | 4:02 | 2021-12-20 | 2023-03-29 |
+| [thoughts i have while lying in bed](https://open.spotify.com/track/7t01uN0kyKMEK8Ow9hhEXa) | [The Maine](https://open.spotify.com/artist/4o0pNHbyj36LPvukNqEug0), [Beach Weather](https://open.spotify.com/artist/7I3bkknknQkIiatWiupQgD) | [thoughts i have while lying in bed \(with Beach Weather\)](https://open.spotify.com/album/57u0BXm756Oc5nKELfd6qR) | 3:39 | 2023-11-27 |  |
 | [Thunder](https://open.spotify.com/track/2zffJrsswcDnVhLW5sXYsp) | [Mondo Cozmo](https://open.spotify.com/artist/7ybnRZKtRbWQzJfKyYSyh6) | [Plastic Soul](https://open.spotify.com/album/0LASSuakCUPGw4mVBSnXnA) | 3:43 | 2022-03-11 | 2022-04-20 |
 | [Thunder Clatter](https://open.spotify.com/track/39Cv9mq0PPrsJ5jtVb2Hiu) | [Wild Cub](https://open.spotify.com/artist/5cTn7jRVGqTdmgMW75FIal) | [Youth](https://open.spotify.com/album/6XFQzh3r6YdjB6yK2hmEbG) | 4:31 | 2022-06-27 | 2023-03-29 |
 | [Thunder Clatter](https://open.spotify.com/track/6JugKFXssO9L2tN8omeTPt) | [Wild Cub](https://open.spotify.com/artist/5cTn7jRVGqTdmgMW75FIal) | [Youth](https://open.spotify.com/album/72YtuqmrV1LcDhzQXgFaNN) | 4:31 | 2022-03-11 | 2022-04-16 |

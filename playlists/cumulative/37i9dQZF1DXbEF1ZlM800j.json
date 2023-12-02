@@ -239,6 +239,24 @@
     },
     {
       "album": {
+        "name": "Bop Hanukkah",
+        "url": "https://open.spotify.com/album/1CaoInzHFKbR3CdWRuGHA2"
+      },
+      "artists": [
+        {
+          "name": "Bop Shabbat",
+          "url": "https://open.spotify.com/artist/0PSRkQbWI0iF2AEFUIj7sr"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117750,
+      "name": "Gimme a Gimel",
+      "url": "https://open.spotify.com/track/7MUArkgGtdx50X1cdhrwP8"
+    },
+    {
+      "album": {
         "name": "Hanukkah+",
         "url": "https://open.spotify.com/album/75tzhQxgxrZkqfIb4fE5rT"
       },
@@ -716,6 +734,24 @@
       "duration_ms": 116772,
       "name": "Nine Little Candles",
       "url": "https://open.spotify.com/track/3yG9MIe4s0oDE4LHxiXROD"
+    },
+    {
+      "album": {
+        "name": "O Hanukkah",
+        "url": "https://open.spotify.com/album/3QlAmVcl07y8hDjdeezsWG"
+      },
+      "artists": [
+        {
+          "name": "Mother Goose Club",
+          "url": "https://open.spotify.com/artist/6h76MLMaPUoWVPC7VnEw86"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203846,
+      "name": "O Hanukkah",
+      "url": "https://open.spotify.com/track/0uMc6Pp9v3p0mntW0jm9qb"
     },
     {
       "album": {

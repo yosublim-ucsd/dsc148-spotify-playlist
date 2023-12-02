@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most played tracks right now - Hungary.",
-  "num_followers": 71822,
+  "num_followers": 71825,
   "original_name": "Top 50 - Hungary",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "NzU0NzA5NDAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
+  "snapshot_id": "NzU0Nzk1MjAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
   "tracks": [
     {
-      "added_at": "2023-11-30 08:38:08",
+      "added_at": "2023-12-01 10:57:48",
       "album": {
         "name": "CARPE DIEM",
         "url": "https://open.spotify.com/album/68gj4MmytrI8exdgfjhWzb"
@@ -37,23 +37,7 @@
       "url": "https://open.spotify.com/track/1E2flGJxXQNeBLRqQXiAsK"
     },
     {
-      "added_at": "2023-11-30 08:38:08",
-      "album": {
-        "name": "A b\u00fas barista ballad\u00e1i",
-        "url": "https://open.spotify.com/album/4TGu3sVQHkz67nUz1GWueo"
-      },
-      "artists": [
-        {
-          "name": "DESH",
-          "url": "https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw"
-        }
-      ],
-      "duration_ms": 126930,
-      "name": "Osztriga",
-      "url": "https://open.spotify.com/track/1BXp9PwKtW5AKD0QDdaPSw"
-    },
-    {
-      "added_at": "2023-11-30 08:38:08",
+      "added_at": "2023-12-01 10:57:48",
       "album": {
         "name": "memento",
         "url": "https://open.spotify.com/album/2mtBBnbkj7HMywF5FAtERT"
@@ -69,23 +53,55 @@
       "url": "https://open.spotify.com/track/2EAvOY1uymm5ZAd0ZbnnPW"
     },
     {
-      "added_at": "2023-11-30 08:38:08",
+      "added_at": "2023-12-01 10:57:48",
       "album": {
-        "name": "III. Kr\u00fabi",
-        "url": "https://open.spotify.com/album/6ugdjOOBMHmr14VPGFEPJq"
+        "name": "Merry Christmas",
+        "url": "https://open.spotify.com/album/61ulfFSmmxMhc2wCdmdMkN"
       },
       "artists": [
         {
-          "name": "Kr\u00fabi",
-          "url": "https://open.spotify.com/artist/6u7q0ZGK0oilVYx4kqIk3E"
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
         }
       ],
-      "duration_ms": 210533,
-      "name": "T\u00e1rgyal\u00e1s A N\u0151k Vez\u00e9rigazgat\u00f3j\u00e1val",
-      "url": "https://open.spotify.com/track/616njAaXFdHu5rs3FbjyUw"
+      "duration_ms": 241106,
+      "name": "All I Want for Christmas Is You",
+      "url": "https://open.spotify.com/track/0bYg9bo50gSsH3LtXe2SQn"
     },
     {
-      "added_at": "2023-11-30 08:38:08",
+      "added_at": "2023-12-01 10:57:48",
+      "album": {
+        "name": "A b\u00fas barista ballad\u00e1i",
+        "url": "https://open.spotify.com/album/4TGu3sVQHkz67nUz1GWueo"
+      },
+      "artists": [
+        {
+          "name": "DESH",
+          "url": "https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw"
+        }
+      ],
+      "duration_ms": 126930,
+      "name": "Osztriga",
+      "url": "https://open.spotify.com/track/1BXp9PwKtW5AKD0QDdaPSw"
+    },
+    {
+      "added_at": "2023-12-01 10:57:48",
+      "album": {
+        "name": "The Singles: Echoes from the Edge of Heaven",
+        "url": "https://open.spotify.com/album/2wyHNTisH8PtZG8OG58xr6"
+      },
+      "artists": [
+        {
+          "name": "Wham!",
+          "url": "https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM"
+        }
+      ],
+      "duration_ms": 265960,
+      "name": "Last Christmas - Single Version",
+      "url": "https://open.spotify.com/track/06qMRF18gwbOYYbnP2du6i"
+    },
+    {
+      "added_at": "2023-12-01 10:57:48",
       "album": {
         "name": "memento",
         "url": "https://open.spotify.com/album/2mtBBnbkj7HMywF5FAtERT"
@@ -101,27 +117,23 @@
       "url": "https://open.spotify.com/track/5ZY255MSISgMrvHmRZux1E"
     },
     {
-      "added_at": "2023-11-30 08:38:08",
+      "added_at": "2023-12-01 10:57:48",
       "album": {
-        "name": "tripq",
-        "url": "https://open.spotify.com/album/6ZO1hIeCfQ8neaKn3bPhyr"
+        "name": "Merry Christmas From Brenda Lee",
+        "url": "https://open.spotify.com/album/34wa3zf2prXFMk47t9zHFG"
       },
       "artists": [
         {
-          "name": "Azahriah",
-          "url": "https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq"
-        },
-        {
-          "name": "DESH",
-          "url": "https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw"
+          "name": "Brenda Lee",
+          "url": "https://open.spotify.com/artist/4cPHsZM98sKzmV26wlwD2W"
         }
       ],
-      "duration_ms": 273818,
-      "name": "cerem\u00f3nia",
-      "url": "https://open.spotify.com/track/2IetMd5ZFurl1sjSAqhq2O"
+      "duration_ms": 126266,
+      "name": "Rockin' Around The Christmas Tree",
+      "url": "https://open.spotify.com/track/2EjXfH91m7f8HiJN1yQg97"
     },
     {
-      "added_at": "2023-11-30 08:38:08",
+      "added_at": "2023-12-01 10:57:48",
       "album": {
         "name": "CARPE DIEM",
         "url": "https://open.spotify.com/album/68gj4MmytrI8exdgfjhWzb"
@@ -141,7 +153,43 @@
       "url": "https://open.spotify.com/track/1tCIXEBHBFHO1x3M07z3xy"
     },
     {
-      "added_at": "2023-11-30 08:38:08",
+      "added_at": "2023-12-01 10:57:48",
+      "album": {
+        "name": "tripq",
+        "url": "https://open.spotify.com/album/6ZO1hIeCfQ8neaKn3bPhyr"
+      },
+      "artists": [
+        {
+          "name": "Azahriah",
+          "url": "https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq"
+        },
+        {
+          "name": "DESH",
+          "url": "https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw"
+        }
+      ],
+      "duration_ms": 273818,
+      "name": "cerem\u00f3nia",
+      "url": "https://open.spotify.com/track/2IetMd5ZFurl1sjSAqhq2O"
+    },
+    {
+      "added_at": "2023-12-01 10:57:48",
+      "album": {
+        "name": "III. Kr\u00fabi",
+        "url": "https://open.spotify.com/album/6ugdjOOBMHmr14VPGFEPJq"
+      },
+      "artists": [
+        {
+          "name": "Kr\u00fabi",
+          "url": "https://open.spotify.com/artist/6u7q0ZGK0oilVYx4kqIk3E"
+        }
+      ],
+      "duration_ms": 210533,
+      "name": "T\u00e1rgyal\u00e1s A N\u0151k Vez\u00e9rigazgat\u00f3j\u00e1val",
+      "url": "https://open.spotify.com/track/616njAaXFdHu5rs3FbjyUw"
+    },
+    {
+      "added_at": "2023-12-01 10:57:48",
       "album": {
         "name": "Valencia",
         "url": "https://open.spotify.com/album/0sVF7F2neNBn9D3pRtqlH9"
@@ -161,75 +209,55 @@
       "url": "https://open.spotify.com/track/7kIn3HrqM432chtEydQgMb"
     },
     {
-      "added_at": "2023-11-30 08:38:08",
+      "added_at": "2023-12-01 10:57:48",
       "album": {
-        "name": "A b\u00fas barista ballad\u00e1i",
-        "url": "https://open.spotify.com/album/4TGu3sVQHkz67nUz1GWueo"
+        "name": "Everyday Is Christmas (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2vcGYJcPfXUmCdcXXqqukg"
       },
       "artists": [
         {
-          "name": "DESH",
-          "url": "https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw"
-        },
-        {
-          "name": "Azahriah",
-          "url": "https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq"
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
         }
       ],
-      "duration_ms": 113842,
-      "name": "Eldor\u00e1d\u00f3",
-      "url": "https://open.spotify.com/track/7BeoO0doT2iLnmY6wnnexQ"
+      "duration_ms": 165900,
+      "name": "Snowman",
+      "url": "https://open.spotify.com/track/7uoFMmxln0GPXQ0AcCBXRq"
     },
     {
-      "added_at": "2023-11-30 08:38:08",
+      "added_at": "2023-12-01 10:57:48",
       "album": {
-        "name": "greedy",
-        "url": "https://open.spotify.com/album/3UOV8XvCwMKaATRNXrYCjN"
+        "name": "Jingle Bell Rock/Captain Santa Claus (And His Reindeer Space Patrol)",
+        "url": "https://open.spotify.com/album/3wivyOdotHWZ9dcuXMjPKT"
       },
       "artists": [
         {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+          "name": "Bobby Helms",
+          "url": "https://open.spotify.com/artist/38EmEgXkgK51MT2tPY0EoC"
         }
       ],
-      "duration_ms": 131872,
-      "name": "greedy",
-      "url": "https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t"
+      "duration_ms": 130973,
+      "name": "Jingle Bell Rock",
+      "url": "https://open.spotify.com/track/7vQbuQcyTflfCIOu3Uzzya"
     },
     {
-      "added_at": "2023-11-30 08:38:08",
+      "added_at": "2023-12-01 10:57:48",
       "album": {
-        "name": "A b\u00fas barista ballad\u00e1i",
-        "url": "https://open.spotify.com/album/4TGu3sVQHkz67nUz1GWueo"
+        "name": "Santa Tell Me",
+        "url": "https://open.spotify.com/album/27MNgBEnLCKoafz1g2Zu97"
       },
       "artists": [
         {
-          "name": "DESH",
-          "url": "https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw"
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
         }
       ],
-      "duration_ms": 134886,
-      "name": "Haramia",
-      "url": "https://open.spotify.com/track/6nLt2P4qTu9T787DlfbVi7"
+      "duration_ms": 204093,
+      "name": "Santa Tell Me",
+      "url": "https://open.spotify.com/track/0lizgQ7Qw35od7CYaoMBZb"
     },
     {
-      "added_at": "2023-11-30 08:38:08",
-      "album": {
-        "name": "Kopott szavak",
-        "url": "https://open.spotify.com/album/3xA2h2QavwykBiqull4MrL"
-      },
-      "artists": [
-        {
-          "name": "Ekhoe",
-          "url": "https://open.spotify.com/artist/6lZA0phZLDcwn6k9ElfESM"
-        }
-      ],
-      "duration_ms": 163137,
-      "name": "Kopott szavak",
-      "url": "https://open.spotify.com/track/5TmzMu4UXoUwQe3kONqNns"
-    },
-    {
-      "added_at": "2023-11-30 08:38:08",
+      "added_at": "2023-12-01 10:57:48",
       "album": {
         "name": "PLAYB\u00c1NIA",
         "url": "https://open.spotify.com/album/5xMzTHcRiGKdBhGj8PjV4h"
@@ -249,7 +277,39 @@
       "url": "https://open.spotify.com/track/18DVypBkvcJtVFzQr5Ly7J"
     },
     {
-      "added_at": "2023-11-30 08:38:08",
+      "added_at": "2023-12-01 10:57:48",
+      "album": {
+        "name": "Christmas (Deluxe Special Edition)",
+        "url": "https://open.spotify.com/album/53fJVD9LpBKEMqdAF7PW5K"
+      },
+      "artists": [
+        {
+          "name": "Michael Bubl\u00e9",
+          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
+        }
+      ],
+      "duration_ms": 207199,
+      "name": "It's Beginning to Look a Lot like Christmas",
+      "url": "https://open.spotify.com/track/1rv46mRwDqMEhOBZ7vODg3"
+    },
+    {
+      "added_at": "2023-12-01 10:57:48",
+      "album": {
+        "name": "A Winter Romance",
+        "url": "https://open.spotify.com/album/5I48ENiZiaZZSOpec6PdS5"
+      },
+      "artists": [
+        {
+          "name": "Dean Martin",
+          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
+        }
+      ],
+      "duration_ms": 117146,
+      "name": "Let It Snow! Let It Snow! Let It Snow!",
+      "url": "https://open.spotify.com/track/2uFaJJtFpPDc5Pa95XzTvg"
+    },
+    {
+      "added_at": "2023-12-01 10:57:48",
       "album": {
         "name": "tripq",
         "url": "https://open.spotify.com/album/6ZO1hIeCfQ8neaKn3bPhyr"
@@ -269,59 +329,91 @@
       "url": "https://open.spotify.com/track/1VPU7SKdABCb3gNCNjMFIZ"
     },
     {
-      "added_at": "2023-11-30 08:38:08",
+      "added_at": "2023-12-01 10:57:48",
       "album": {
-        "name": "III. Kr\u00fabi",
-        "url": "https://open.spotify.com/album/6ugdjOOBMHmr14VPGFEPJq"
+        "name": "Kopott szavak",
+        "url": "https://open.spotify.com/album/3xA2h2QavwykBiqull4MrL"
       },
       "artists": [
         {
-          "name": "Kr\u00fabi",
-          "url": "https://open.spotify.com/artist/6u7q0ZGK0oilVYx4kqIk3E"
+          "name": "Ekhoe",
+          "url": "https://open.spotify.com/artist/6lZA0phZLDcwn6k9ElfESM"
         }
       ],
-      "duration_ms": 272386,
-      "name": "Mini Kr\u00fabi",
-      "url": "https://open.spotify.com/track/2xsW0zHw5m6CYVNRpjaBDB"
+      "duration_ms": 163137,
+      "name": "Kopott szavak",
+      "url": "https://open.spotify.com/track/5TmzMu4UXoUwQe3kONqNns"
     },
     {
-      "added_at": "2023-11-30 08:38:08",
+      "added_at": "2023-12-01 10:57:48",
       "album": {
-        "name": "A l\u00f3 t\u00faloldal\u00e1n",
-        "url": "https://open.spotify.com/album/0TMeEvXP5MKfH34B5tBga7"
+        "name": "greedy",
+        "url": "https://open.spotify.com/album/3UOV8XvCwMKaATRNXrYCjN"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "duration_ms": 131872,
+      "name": "greedy",
+      "url": "https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t"
+    },
+    {
+      "added_at": "2023-12-01 10:57:48",
+      "album": {
+        "name": "silbak",
+        "url": "https://open.spotify.com/album/34GtFdoJSROHH0hrn9SyJJ"
       },
       "artists": [
         {
           "name": "Azahriah",
           "url": "https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq"
-        },
+        }
+      ],
+      "duration_ms": 203529,
+      "name": "four moods",
+      "url": "https://open.spotify.com/track/1o0TkBcMTkkOg1KUeB4riK"
+    },
+    {
+      "added_at": "2023-12-01 10:57:48",
+      "album": {
+        "name": "A b\u00fas barista ballad\u00e1i",
+        "url": "https://open.spotify.com/album/4TGu3sVQHkz67nUz1GWueo"
+      },
+      "artists": [
         {
           "name": "DESH",
           "url": "https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw"
         }
       ],
-      "duration_ms": 137000,
-      "name": "Pullup",
-      "url": "https://open.spotify.com/track/6Rc6C6S4lgT5j1OekgI155"
+      "duration_ms": 134886,
+      "name": "Haramia",
+      "url": "https://open.spotify.com/track/6nLt2P4qTu9T787DlfbVi7"
     },
     {
-      "added_at": "2023-11-30 08:38:08",
+      "added_at": "2023-12-01 10:57:48",
       "album": {
-        "name": "Merry Christmas",
-        "url": "https://open.spotify.com/album/61ulfFSmmxMhc2wCdmdMkN"
+        "name": "A b\u00fas barista ballad\u00e1i",
+        "url": "https://open.spotify.com/album/4TGu3sVQHkz67nUz1GWueo"
       },
       "artists": [
         {
-          "name": "Mariah Carey",
-          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+          "name": "DESH",
+          "url": "https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw"
+        },
+        {
+          "name": "Azahriah",
+          "url": "https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq"
         }
       ],
-      "duration_ms": 241106,
-      "name": "All I Want for Christmas Is You",
-      "url": "https://open.spotify.com/track/0bYg9bo50gSsH3LtXe2SQn"
+      "duration_ms": 113842,
+      "name": "Eldor\u00e1d\u00f3",
+      "url": "https://open.spotify.com/track/7BeoO0doT2iLnmY6wnnexQ"
     },
     {
-      "added_at": "2023-11-30 08:38:08",
+      "added_at": "2023-12-01 10:57:48",
       "album": {
         "name": "V\u00e1rn\u00e9k",
         "url": "https://open.spotify.com/album/6uN19L2UQe36sMy9jI0VC1"
@@ -341,63 +433,43 @@
       "url": "https://open.spotify.com/track/0nQuoTxzDIVoWzaTgF5xtW"
     },
     {
-      "added_at": "2023-11-30 08:38:08",
+      "added_at": "2023-12-01 10:57:48",
       "album": {
-        "name": "NULLAK\u00d6Z\u00d6D / T\u00dcK\u00d6RTEREM",
-        "url": "https://open.spotify.com/album/1APxXOizhq9Cb7KJ0eLYFH"
-      },
-      "artists": [
-        {
-          "name": "Beton.Hofi",
-          "url": "https://open.spotify.com/artist/5x9gQC3VztdH5mQO5EEi9y"
-        },
-        {
-          "name": "ANUBII$",
-          "url": "https://open.spotify.com/artist/13Et80WfHLQ1cBn2YTQ7Zd"
-        }
-      ],
-      "duration_ms": 199200,
-      "name": "T\u00dcK\u00d6RTEREM",
-      "url": "https://open.spotify.com/track/0S2XFRI4Yyd1yWwLQBwEFr"
-    },
-    {
-      "added_at": "2023-11-30 08:38:08",
-      "album": {
-        "name": "silbak",
-        "url": "https://open.spotify.com/album/34GtFdoJSROHH0hrn9SyJJ"
+        "name": "A l\u00f3 t\u00faloldal\u00e1n",
+        "url": "https://open.spotify.com/album/0TMeEvXP5MKfH34B5tBga7"
       },
       "artists": [
         {
           "name": "Azahriah",
           "url": "https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq"
-        }
-      ],
-      "duration_ms": 203529,
-      "name": "four moods",
-      "url": "https://open.spotify.com/track/1o0TkBcMTkkOg1KUeB4riK"
-    },
-    {
-      "added_at": "2023-11-30 08:38:08",
-      "album": {
-        "name": "DESHPERADO",
-        "url": "https://open.spotify.com/album/1hbbYNHuiBJ77XlDvk4Syy"
-      },
-      "artists": [
+        },
         {
           "name": "DESH",
           "url": "https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw"
-        },
+        }
+      ],
+      "duration_ms": 137000,
+      "name": "Pullup",
+      "url": "https://open.spotify.com/track/6Rc6C6S4lgT5j1OekgI155"
+    },
+    {
+      "added_at": "2023-12-01 10:57:48",
+      "album": {
+        "name": "memento",
+        "url": "https://open.spotify.com/album/2mtBBnbkj7HMywF5FAtERT"
+      },
+      "artists": [
         {
           "name": "Azahriah",
           "url": "https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq"
         }
       ],
-      "duration_ms": 140480,
-      "name": "Papa",
-      "url": "https://open.spotify.com/track/3XKdJfbBwnxUnn5tdaJoYL"
+      "duration_ms": 160000,
+      "name": "casa de papel",
+      "url": "https://open.spotify.com/track/3UlXaigjBM3sHyOpDbh1RI"
     },
     {
-      "added_at": "2023-11-30 08:38:08",
+      "added_at": "2023-12-01 10:57:48",
       "album": {
         "name": "Meg\u00e1ll Az Id\u0151",
         "url": "https://open.spotify.com/album/2bVvBJGAS9pPUrF6h6Geoc"
@@ -417,10 +489,46 @@
       "url": "https://open.spotify.com/track/37GSp3Uj1DKHUrhv6EtYN8"
     },
     {
-      "added_at": "2023-11-30 08:38:08",
+      "added_at": "2023-12-01 10:57:48",
       "album": {
-        "name": "memento",
-        "url": "https://open.spotify.com/album/2mtBBnbkj7HMywF5FAtERT"
+        "name": "DESHPERADO",
+        "url": "https://open.spotify.com/album/1hbbYNHuiBJ77XlDvk4Syy"
+      },
+      "artists": [
+        {
+          "name": "DESH",
+          "url": "https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw"
+        },
+        {
+          "name": "Azahriah",
+          "url": "https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq"
+        }
+      ],
+      "duration_ms": 140480,
+      "name": "Papa",
+      "url": "https://open.spotify.com/track/3XKdJfbBwnxUnn5tdaJoYL"
+    },
+    {
+      "added_at": "2023-12-01 10:57:48",
+      "album": {
+        "name": "Wrapped In Red",
+        "url": "https://open.spotify.com/album/7Jahqd1kx9Qau0E9x9iZj6"
+      },
+      "artists": [
+        {
+          "name": "Kelly Clarkson",
+          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
+        }
+      ],
+      "duration_ms": 229640,
+      "name": "Underneath the Tree",
+      "url": "https://open.spotify.com/track/3YZE5qDV7u1ZD1gZc47ZeR"
+    },
+    {
+      "added_at": "2023-12-01 10:57:48",
+      "album": {
+        "name": "silbak",
+        "url": "https://open.spotify.com/album/34GtFdoJSROHH0hrn9SyJJ"
       },
       "artists": [
         {
@@ -428,60 +536,12 @@
           "url": "https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq"
         }
       ],
-      "duration_ms": 160000,
-      "name": "casa de papel",
-      "url": "https://open.spotify.com/track/3UlXaigjBM3sHyOpDbh1RI"
+      "duration_ms": 164290,
+      "name": "figyelj",
+      "url": "https://open.spotify.com/track/1tAyEL10PQDcIvEL2o75wt"
     },
     {
-      "added_at": "2023-11-30 08:38:08",
-      "album": {
-        "name": "III. Kr\u00fabi",
-        "url": "https://open.spotify.com/album/6ugdjOOBMHmr14VPGFEPJq"
-      },
-      "artists": [
-        {
-          "name": "Kr\u00fabi",
-          "url": "https://open.spotify.com/artist/6u7q0ZGK0oilVYx4kqIk3E"
-        }
-      ],
-      "duration_ms": 304893,
-      "name": "Ganxsta Zolee Tehet Mindenr\u0151l",
-      "url": "https://open.spotify.com/track/3slZDC1KYm6oV6KMr2BuXw"
-    },
-    {
-      "added_at": "2023-11-30 08:38:08",
-      "album": {
-        "name": "valami amerikai",
-        "url": "https://open.spotify.com/album/1bP0ww7Dq2vnYkzryXtet8"
-      },
-      "artists": [
-        {
-          "name": "Azahriah",
-          "url": "https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq"
-        }
-      ],
-      "duration_ms": 220227,
-      "name": "valami amerikai",
-      "url": "https://open.spotify.com/track/4MQDC8hquSlvTBq8gMoPPo"
-    },
-    {
-      "added_at": "2023-11-30 08:38:08",
-      "album": {
-        "name": "The Singles: Echoes from the Edge of Heaven",
-        "url": "https://open.spotify.com/album/2wyHNTisH8PtZG8OG58xr6"
-      },
-      "artists": [
-        {
-          "name": "Wham!",
-          "url": "https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM"
-        }
-      ],
-      "duration_ms": 265960,
-      "name": "Last Christmas - Single Version",
-      "url": "https://open.spotify.com/track/06qMRF18gwbOYYbnP2du6i"
-    },
-    {
-      "added_at": "2023-11-30 08:38:08",
+      "added_at": "2023-12-01 10:57:48",
       "album": {
         "name": "Rollin'",
         "url": "https://open.spotify.com/album/1MiseUuQlh2ktcmD3FonJo"
@@ -505,23 +565,39 @@
       "url": "https://open.spotify.com/track/6eaaIxWaso3ooRdPDS5PuN"
     },
     {
-      "added_at": "2023-11-30 08:38:08",
+      "added_at": "2023-12-01 10:57:48",
       "album": {
-        "name": "silbak",
-        "url": "https://open.spotify.com/album/34GtFdoJSROHH0hrn9SyJJ"
+        "name": "Christmas",
+        "url": "https://open.spotify.com/album/3CKVXhODttZebJAzjUs2un"
       },
       "artists": [
         {
-          "name": "Azahriah",
-          "url": "https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq"
+          "name": "Michael Bubl\u00e9",
+          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
         }
       ],
-      "duration_ms": 164290,
-      "name": "figyelj",
-      "url": "https://open.spotify.com/track/1tAyEL10PQDcIvEL2o75wt"
+      "duration_ms": 119786,
+      "name": "Holly Jolly Christmas",
+      "url": "https://open.spotify.com/track/6tjituizSxwSmBB5vtgHZE"
     },
     {
-      "added_at": "2023-11-30 08:38:08",
+      "added_at": "2023-12-01 10:57:48",
+      "album": {
+        "name": "III. Kr\u00fabi",
+        "url": "https://open.spotify.com/album/6ugdjOOBMHmr14VPGFEPJq"
+      },
+      "artists": [
+        {
+          "name": "Kr\u00fabi",
+          "url": "https://open.spotify.com/artist/6u7q0ZGK0oilVYx4kqIk3E"
+        }
+      ],
+      "duration_ms": 272386,
+      "name": "Mini Kr\u00fabi",
+      "url": "https://open.spotify.com/track/2xsW0zHw5m6CYVNRpjaBDB"
+    },
+    {
+      "added_at": "2023-12-01 10:57:48",
       "album": {
         "name": "Focus",
         "url": "https://open.spotify.com/album/5U5KhcGgli7Y4aQySFG1Cd"
@@ -545,211 +621,7 @@
       "url": "https://open.spotify.com/track/5sybMF2Gbm98ociatHQFpT"
     },
     {
-      "added_at": "2023-11-30 08:38:08",
-      "album": {
-        "name": "III. Kr\u00fabi",
-        "url": "https://open.spotify.com/album/6ugdjOOBMHmr14VPGFEPJq"
-      },
-      "artists": [
-        {
-          "name": "Kr\u00fabi",
-          "url": "https://open.spotify.com/artist/6u7q0ZGK0oilVYx4kqIk3E"
-        }
-      ],
-      "duration_ms": 376600,
-      "name": "Szellemvas\u00fat",
-      "url": "https://open.spotify.com/track/25FyOnddTVpNJ00XhB6qEC"
-    },
-    {
-      "added_at": "2023-11-30 08:38:08",
-      "album": {
-        "name": "You're Losing Me (From The Vault)",
-        "url": "https://open.spotify.com/album/5q3jthpn2h59P7pe2gmAl7"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 277831,
-      "name": "You\u2019re Losing Me (From The Vault)",
-      "url": "https://open.spotify.com/track/3CWq0pAKKTWb0K4yiglDc4"
-    },
-    {
-      "added_at": "2023-11-30 08:38:08",
-      "album": {
-        "name": "\u00d6rd\u00f6g N\u00f3rika",
-        "url": "https://open.spotify.com/album/1JaFdpKwzHa9KdPdqQ98Yw"
-      },
-      "artists": [
-        {
-          "name": "Bruno X Spacc",
-          "url": "https://open.spotify.com/artist/5ALUgNuS421MZrrrAhM9Bv"
-        }
-      ],
-      "duration_ms": 123125,
-      "name": "\u00d6rd\u00f6g N\u00f3rika",
-      "url": "https://open.spotify.com/track/0NECD9bmlKlhxuZHQ5sq7J"
-    },
-    {
-      "added_at": "2023-11-30 08:38:08",
-      "album": {
-        "name": "A b\u00fas barista ballad\u00e1i",
-        "url": "https://open.spotify.com/album/4TGu3sVQHkz67nUz1GWueo"
-      },
-      "artists": [
-        {
-          "name": "DESH",
-          "url": "https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw"
-        }
-      ],
-      "duration_ms": 161413,
-      "name": "How we do",
-      "url": "https://open.spotify.com/track/71gCKC1ao9dnWS1r6EHFUa"
-    },
-    {
-      "added_at": "2023-11-30 08:38:08",
-      "album": {
-        "name": "NULLAK\u00d6Z\u00d6D / T\u00dcK\u00d6RTEREM",
-        "url": "https://open.spotify.com/album/1APxXOizhq9Cb7KJ0eLYFH"
-      },
-      "artists": [
-        {
-          "name": "Beton.Hofi",
-          "url": "https://open.spotify.com/artist/5x9gQC3VztdH5mQO5EEi9y"
-        },
-        {
-          "name": "ANUBII$",
-          "url": "https://open.spotify.com/artist/13Et80WfHLQ1cBn2YTQ7Zd"
-        }
-      ],
-      "duration_ms": 140917,
-      "name": "NULLAK\u00d6Z\u00d6D",
-      "url": "https://open.spotify.com/track/0dqnJ3Qa6XQHaljGJg92ix"
-    },
-    {
-      "added_at": "2023-11-30 08:38:08",
-      "album": {
-        "name": "memento",
-        "url": "https://open.spotify.com/album/2mtBBnbkj7HMywF5FAtERT"
-      },
-      "artists": [
-        {
-          "name": "Azahriah",
-          "url": "https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq"
-        }
-      ],
-      "duration_ms": 189783,
-      "name": "g\u00e1t",
-      "url": "https://open.spotify.com/track/1Qzkw4QaTXbVd1TmDzSNOv"
-    },
-    {
-      "added_at": "2023-11-30 08:38:08",
-      "album": {
-        "name": "R\u00e9t",
-        "url": "https://open.spotify.com/album/4QTBjYfiHEcmUrX0PkKIlt"
-      },
-      "artists": [
-        {
-          "name": "Azahriah",
-          "url": "https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq"
-        },
-        {
-          "name": "DESH",
-          "url": "https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw"
-        }
-      ],
-      "duration_ms": 179234,
-      "name": "R\u00e9t",
-      "url": "https://open.spotify.com/track/5pYNDOTIoZZ5ab77vb8EO3"
-    },
-    {
-      "added_at": "2023-11-30 08:38:08",
-      "album": {
-        "name": "III. Kr\u00fabi",
-        "url": "https://open.spotify.com/album/6ugdjOOBMHmr14VPGFEPJq"
-      },
-      "artists": [
-        {
-          "name": "Kr\u00fabi",
-          "url": "https://open.spotify.com/artist/6u7q0ZGK0oilVYx4kqIk3E"
-        }
-      ],
-      "duration_ms": 313124,
-      "name": "Kr\u00fabi Interj\u00fa",
-      "url": "https://open.spotify.com/track/1FjhV0AkAST45DpO7kHuBB"
-    },
-    {
-      "added_at": "2023-11-30 08:38:08",
-      "album": {
-        "name": "A l\u00f3 t\u00faloldal\u00e1n",
-        "url": "https://open.spotify.com/album/0TMeEvXP5MKfH34B5tBga7"
-      },
-      "artists": [
-        {
-          "name": "Azahriah",
-          "url": "https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq"
-        },
-        {
-          "name": "DESH",
-          "url": "https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw"
-        }
-      ],
-      "duration_ms": 193542,
-      "name": "Miafasz",
-      "url": "https://open.spotify.com/track/7cU3vDXfkH4bAemYBxuoJT"
-    },
-    {
-      "added_at": "2023-11-30 08:38:08",
-      "album": {
-        "name": "Vois sur ton chemin (Techno Mix)",
-        "url": "https://open.spotify.com/album/79Cyc8GRWnLyjdJSMyJ0dB"
-      },
-      "artists": [
-        {
-          "name": "BENNETT",
-          "url": "https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48"
-        }
-      ],
-      "duration_ms": 178156,
-      "name": "Vois sur ton chemin - Techno Mix",
-      "url": "https://open.spotify.com/track/31nfdEooLEq7dn3UMcIeB5"
-    },
-    {
-      "added_at": "2023-11-30 08:38:08",
-      "album": {
-        "name": "Merry Christmas From Brenda Lee",
-        "url": "https://open.spotify.com/album/34wa3zf2prXFMk47t9zHFG"
-      },
-      "artists": [
-        {
-          "name": "Brenda Lee",
-          "url": "https://open.spotify.com/artist/4cPHsZM98sKzmV26wlwD2W"
-        }
-      ],
-      "duration_ms": 126266,
-      "name": "Rockin' Around The Christmas Tree",
-      "url": "https://open.spotify.com/track/2EjXfH91m7f8HiJN1yQg97"
-    },
-    {
-      "added_at": "2023-11-30 08:38:08",
-      "album": {
-        "name": "Strangers",
-        "url": "https://open.spotify.com/album/18ogtNq9F7DmMkNYO6Xb4k"
-      },
-      "artists": [
-        {
-          "name": "Kenya Grace",
-          "url": "https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2"
-        }
-      ],
-      "duration_ms": 172964,
-      "name": "Strangers",
-      "url": "https://open.spotify.com/track/5mjYQaktjmjcMKcUIcqz4s"
-    },
-    {
-      "added_at": "2023-11-30 08:38:08",
+      "added_at": "2023-12-01 10:57:48",
       "album": {
         "name": "memento",
         "url": "https://open.spotify.com/album/2mtBBnbkj7HMywF5FAtERT"
@@ -765,7 +637,107 @@
       "url": "https://open.spotify.com/track/3DTF2AIcHMwZ1q1gz9zspi"
     },
     {
-      "added_at": "2023-11-30 08:38:08",
+      "added_at": "2023-12-01 10:57:48",
+      "album": {
+        "name": "The Andy Williams Christmas Album",
+        "url": "https://open.spotify.com/album/30eO7X0doSEWKhDLAFLMuW"
+      },
+      "artists": [
+        {
+          "name": "Andy Williams",
+          "url": "https://open.spotify.com/artist/4sj6D0zlMOl25nprDJBiU9"
+        }
+      ],
+      "duration_ms": 151000,
+      "name": "It's the Most Wonderful Time of the Year",
+      "url": "https://open.spotify.com/track/1IcR6RlgvDczfvoWJSSY2A"
+    },
+    {
+      "added_at": "2023-12-01 10:57:48",
+      "album": {
+        "name": "valami amerikai",
+        "url": "https://open.spotify.com/album/1bP0ww7Dq2vnYkzryXtet8"
+      },
+      "artists": [
+        {
+          "name": "Azahriah",
+          "url": "https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq"
+        }
+      ],
+      "duration_ms": 220227,
+      "name": "valami amerikai",
+      "url": "https://open.spotify.com/track/4MQDC8hquSlvTBq8gMoPPo"
+    },
+    {
+      "added_at": "2023-12-01 10:57:48",
+      "album": {
+        "name": "NULLAK\u00d6Z\u00d6D / T\u00dcK\u00d6RTEREM",
+        "url": "https://open.spotify.com/album/1APxXOizhq9Cb7KJ0eLYFH"
+      },
+      "artists": [
+        {
+          "name": "Beton.Hofi",
+          "url": "https://open.spotify.com/artist/5x9gQC3VztdH5mQO5EEi9y"
+        },
+        {
+          "name": "ANUBII$",
+          "url": "https://open.spotify.com/artist/13Et80WfHLQ1cBn2YTQ7Zd"
+        }
+      ],
+      "duration_ms": 199200,
+      "name": "T\u00dcK\u00d6RTEREM",
+      "url": "https://open.spotify.com/track/0S2XFRI4Yyd1yWwLQBwEFr"
+    },
+    {
+      "added_at": "2023-12-01 10:57:48",
+      "album": {
+        "name": "memento",
+        "url": "https://open.spotify.com/album/2mtBBnbkj7HMywF5FAtERT"
+      },
+      "artists": [
+        {
+          "name": "Azahriah",
+          "url": "https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq"
+        }
+      ],
+      "duration_ms": 189783,
+      "name": "g\u00e1t",
+      "url": "https://open.spotify.com/track/1Qzkw4QaTXbVd1TmDzSNOv"
+    },
+    {
+      "added_at": "2023-12-01 10:57:48",
+      "album": {
+        "name": "III. Kr\u00fabi",
+        "url": "https://open.spotify.com/album/6ugdjOOBMHmr14VPGFEPJq"
+      },
+      "artists": [
+        {
+          "name": "Kr\u00fabi",
+          "url": "https://open.spotify.com/artist/6u7q0ZGK0oilVYx4kqIk3E"
+        }
+      ],
+      "duration_ms": 304893,
+      "name": "Ganxsta Zolee Tehet Mindenr\u0151l",
+      "url": "https://open.spotify.com/track/3slZDC1KYm6oV6KMr2BuXw"
+    },
+    {
+      "added_at": "2023-12-01 10:57:48",
+      "album": {
+        "name": "\u00d6rd\u00f6g N\u00f3rika",
+        "url": "https://open.spotify.com/album/1JaFdpKwzHa9KdPdqQ98Yw"
+      },
+      "artists": [
+        {
+          "name": "Bruno X Spacc",
+          "url": "https://open.spotify.com/artist/5ALUgNuS421MZrrrAhM9Bv"
+        }
+      ],
+      "duration_ms": 123125,
+      "name": "\u00d6rd\u00f6g N\u00f3rika",
+      "url": "https://open.spotify.com/track/0NECD9bmlKlhxuZHQ5sq7J"
+    },
+    {
+      "added_at": "2023-12-01 10:57:48",
       "album": {
         "name": "A l\u00f3 t\u00faloldal\u00e1n",
         "url": "https://open.spotify.com/album/0TMeEvXP5MKfH34B5tBga7"
@@ -785,7 +757,7 @@
       "url": "https://open.spotify.com/track/7lemjnVRAqQtqqLdSqCKqM"
     },
     {
-      "added_at": "2023-11-30 08:38:08",
+      "added_at": "2023-12-01 10:57:48",
       "album": {
         "name": "PLAYB\u00c1NIA",
         "url": "https://open.spotify.com/album/5xMzTHcRiGKdBhGj8PjV4h"
@@ -813,7 +785,47 @@
       "url": "https://open.spotify.com/track/4Os68ICIOhJVOPfl53TjBP"
     },
     {
-      "added_at": "2023-11-30 08:38:08",
+      "added_at": "2023-12-01 10:57:48",
+      "album": {
+        "name": "A l\u00f3 t\u00faloldal\u00e1n",
+        "url": "https://open.spotify.com/album/0TMeEvXP5MKfH34B5tBga7"
+      },
+      "artists": [
+        {
+          "name": "Azahriah",
+          "url": "https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq"
+        },
+        {
+          "name": "DESH",
+          "url": "https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw"
+        }
+      ],
+      "duration_ms": 193542,
+      "name": "Miafasz",
+      "url": "https://open.spotify.com/track/7cU3vDXfkH4bAemYBxuoJT"
+    },
+    {
+      "added_at": "2023-12-01 10:57:48",
+      "album": {
+        "name": "R\u00e9t",
+        "url": "https://open.spotify.com/album/4QTBjYfiHEcmUrX0PkKIlt"
+      },
+      "artists": [
+        {
+          "name": "Azahriah",
+          "url": "https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq"
+        },
+        {
+          "name": "DESH",
+          "url": "https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw"
+        }
+      ],
+      "duration_ms": 179234,
+      "name": "R\u00e9t",
+      "url": "https://open.spotify.com/track/5pYNDOTIoZZ5ab77vb8EO3"
+    },
+    {
+      "added_at": "2023-12-01 10:57:48",
       "album": {
         "name": "A l\u00f3 t\u00faloldal\u00e1n",
         "url": "https://open.spotify.com/album/0TMeEvXP5MKfH34B5tBga7"
@@ -833,79 +845,23 @@
       "url": "https://open.spotify.com/track/1K17dNOOtcoC1gLcAbccPp"
     },
     {
-      "added_at": "2023-11-30 08:38:08",
+      "added_at": "2023-12-01 10:57:48",
       "album": {
-        "name": "CARPE DIEM",
-        "url": "https://open.spotify.com/album/68gj4MmytrI8exdgfjhWzb"
+        "name": "Vois sur ton chemin (Techno Mix)",
+        "url": "https://open.spotify.com/album/79Cyc8GRWnLyjdJSMyJ0dB"
       },
       "artists": [
         {
-          "name": "DESH",
-          "url": "https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw"
-        },
-        {
-          "name": "Young Fly",
-          "url": "https://open.spotify.com/artist/0zmW213tzA7NFv6ESRso7N"
-        },
-        {
-          "name": "Azahriah",
-          "url": "https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq"
+          "name": "BENNETT",
+          "url": "https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48"
         }
       ],
-      "duration_ms": 190687,
-      "name": "Walkin a street",
-      "url": "https://open.spotify.com/track/5SDMdbd64hSpeg1OTCUy7L"
+      "duration_ms": 178156,
+      "name": "Vois sur ton chemin - Techno Mix",
+      "url": "https://open.spotify.com/track/31nfdEooLEq7dn3UMcIeB5"
     },
     {
-      "added_at": "2023-11-30 08:38:08",
-      "album": {
-        "name": "Si No Est\u00e1s",
-        "url": "https://open.spotify.com/album/66k6EGkPtYoN44anGIsEPW"
-      },
-      "artists": [
-        {
-          "name": "i\u00f1igo quintero",
-          "url": "https://open.spotify.com/artist/0jbo7KFNMiIkfBR6ih0yhm"
-        }
-      ],
-      "duration_ms": 184061,
-      "name": "Si No Est\u00e1s",
-      "url": "https://open.spotify.com/track/2HafqoJbgXdtjwCOvNEF14"
-    },
-    {
-      "added_at": "2023-11-30 08:38:08",
-      "album": {
-        "name": "III. Kr\u00fabi",
-        "url": "https://open.spotify.com/album/6ugdjOOBMHmr14VPGFEPJq"
-      },
-      "artists": [
-        {
-          "name": "Kr\u00fabi",
-          "url": "https://open.spotify.com/artist/6u7q0ZGK0oilVYx4kqIk3E"
-        }
-      ],
-      "duration_ms": 358007,
-      "name": "Partyz\u00e1n",
-      "url": "https://open.spotify.com/track/1hqs7GPk99VxcGFIhqjkrx"
-    },
-    {
-      "added_at": "2023-11-30 08:38:08",
-      "album": {
-        "name": "A b\u00fas barista ballad\u00e1i",
-        "url": "https://open.spotify.com/album/4TGu3sVQHkz67nUz1GWueo"
-      },
-      "artists": [
-        {
-          "name": "DESH",
-          "url": "https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw"
-        }
-      ],
-      "duration_ms": 150333,
-      "name": "Elaludni",
-      "url": "https://open.spotify.com/track/2GNCDexNq9O4PLH0Mubdv9"
-    },
-    {
-      "added_at": "2023-11-30 08:38:08",
+      "added_at": "2023-12-01 10:57:48",
       "album": {
         "name": "Sose Alszok",
         "url": "https://open.spotify.com/album/4eloCXvAWlCJnXFS7VF1Wy"
@@ -919,6 +875,38 @@
       "duration_ms": 144000,
       "name": "Smash!",
       "url": "https://open.spotify.com/track/59wn91U7xuJ5S1zkX8HmpK"
+    },
+    {
+      "added_at": "2023-12-01 10:57:48",
+      "album": {
+        "name": "Under The Mistletoe (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/63MKT9hwmiMFFdFp5SdB1p"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "duration_ms": 182946,
+      "name": "Mistletoe",
+      "url": "https://open.spotify.com/track/7xapw9Oy21WpfEcib2ErSA"
+    },
+    {
+      "added_at": "2023-12-01 10:57:48",
+      "album": {
+        "name": "Daylight",
+        "url": "https://open.spotify.com/album/6NcI39WPu4kY6Tul11nhSv"
+      },
+      "artists": [
+        {
+          "name": "David Kushner",
+          "url": "https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY"
+        }
+      ],
+      "duration_ms": 212953,
+      "name": "Daylight",
+      "url": "https://open.spotify.com/track/1odExI7RdWc4BT515LTAwj"
     }
   ],
   "unique_name": "Top 50 - Hungary",

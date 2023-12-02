@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The soundtrack to the internet. Cover: Lay Bankz",
+  "description": "The soundtrack to the internet. Cover: Lil Mabu",
   "name": "Internet People",
   "tracks": [
     {
@@ -2905,6 +2905,24 @@
     },
     {
       "album": {
+        "name": "Cherry",
+        "url": "https://open.spotify.com/album/2DrqcEEEU1hGgWvZslvg12"
+      },
+      "artists": [
+        {
+          "name": "Rubi Rose",
+          "url": "https://open.spotify.com/artist/1DGAqC29aw0FpJCejAehVk"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139291,
+      "name": "Cherry",
+      "url": "https://open.spotify.com/track/1ElVUkyuyrFbyfwbXAK5j5"
+    },
+    {
+      "album": {
         "name": "Chill Speedy",
         "url": "https://open.spotify.com/album/30qGOdpoLeLCIPUOMPCRa0"
       },
@@ -4312,7 +4330,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 133475,
       "name": "DROP TOP",
       "url": "https://open.spotify.com/track/5LF0f602GWSAxZfmwRvUUI"
@@ -5760,6 +5778,24 @@
       "duration_ms": 63396,
       "name": "g3t to work sylv3st3r",
       "url": "https://open.spotify.com/track/20lxzDRrKIm9FHaReEcPlP"
+    },
+    {
+      "album": {
+        "name": "GAHDAMN",
+        "url": "https://open.spotify.com/album/3PnBGvKL3ivvghtxPmdy5f"
+      },
+      "artists": [
+        {
+          "name": "BlakeIANA",
+          "url": "https://open.spotify.com/artist/7gq41QBlN40T3GDQ0wEbYS"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123076,
+      "name": "GAHDAMN",
+      "url": "https://open.spotify.com/track/0UmTizjqbT13uqaBhZpWxe"
     },
     {
       "album": {
@@ -11252,7 +11288,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 157048,
       "name": "OH WHY",
       "url": "https://open.spotify.com/track/0UrynT1ZUyYiF5I9dT52tQ"
@@ -12558,7 +12594,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 180291,
       "name": "Quite Frankly (with Luh Tyler & Trapland Pat)",
       "url": "https://open.spotify.com/track/6jSC6HQdTrDMobpRciFYvq"
@@ -12704,6 +12740,24 @@
       "duration_ms": 148125,
       "name": "Rare Story Pt. 2",
       "url": "https://open.spotify.com/track/5pA5DmqA3tNd9F8KMNrd1C"
+    },
+    {
+      "album": {
+        "name": "RATHER BE",
+        "url": "https://open.spotify.com/album/2HwUleY40tW6VGwIiq5vmG"
+      },
+      "artists": [
+        {
+          "name": "Lambo4oe",
+          "url": "https://open.spotify.com/artist/4UrIphY7uGLwD0rRd6NIi9"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107389,
+      "name": "RATHER BE",
+      "url": "https://open.spotify.com/track/0ZeI050Xzsr5v6FodFzaLV"
     },
     {
       "album": {
@@ -13361,6 +13415,24 @@
     },
     {
       "album": {
+        "name": "Running Late",
+        "url": "https://open.spotify.com/album/1zNusgtKW9KGyCBsd2NMpq"
+      },
+      "artists": [
+        {
+          "name": "KARRAHBOOO",
+          "url": "https://open.spotify.com/artist/3vXXs7JjWfPO0YHhDnj4SP"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127137,
+      "name": "Running Late",
+      "url": "https://open.spotify.com/track/1CwnEKPRLebumbHmZ3yZly"
+    },
+    {
+      "album": {
         "name": "Glock Bond",
         "url": "https://open.spotify.com/album/1J4REuUZfX1OjjQhi9whzA"
       },
@@ -13974,7 +14046,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 142183,
       "name": "Slizzy Talk",
       "url": "https://open.spotify.com/track/1Qvxd1s2lzrXedEjqdYQQn"
@@ -14796,7 +14868,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 84066,
       "name": "Surround Sound System",
       "url": "https://open.spotify.com/track/0mshAw1jik7I5KEi9wYGWL"
@@ -15967,6 +16039,28 @@
     },
     {
       "album": {
+        "name": "Violent Lullaby (with Yung Lean)",
+        "url": "https://open.spotify.com/album/3l5c2sMs9yjX0OPlRTc4Z9"
+      },
+      "artists": [
+        {
+          "name": "BLP KOSHER",
+          "url": "https://open.spotify.com/artist/6w60ExNMjs0gd4ioh7GMRI"
+        },
+        {
+          "name": "Yung Lean",
+          "url": "https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140455,
+      "name": "Violent Lullaby (with Yung Lean)",
+      "url": "https://open.spotify.com/track/1SrBdekTYaJnynRr2gKNAb"
+    },
+    {
+      "album": {
         "name": "Vito / Bad Boy",
         "url": "https://open.spotify.com/album/4IXrqCGVS85NcXevhpSuZy"
       },
@@ -16106,7 +16200,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 155690,
       "name": "WA\\VE",
       "url": "https://open.spotify.com/track/1K7Tnhm54msvxefjFMWa6f"
@@ -16612,6 +16706,24 @@
       "duration_ms": 193714,
       "name": "What It Is?!",
       "url": "https://open.spotify.com/track/4NgMDPV2mIh6MUkqkyNmP3"
+    },
+    {
+      "album": {
+        "name": "What Yo Name Is",
+        "url": "https://open.spotify.com/album/5bUJGroFbX8DAWrBtrsWi9"
+      },
+      "artists": [
+        {
+          "name": "FamousSally & YB",
+          "url": "https://open.spotify.com/artist/58r9bevVFGCcTpNRT5Ha85"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142400,
+      "name": "What Yo Name Is",
+      "url": "https://open.spotify.com/track/4vuPGGHHQrKqKSjgVFJcBc"
     },
     {
       "album": {

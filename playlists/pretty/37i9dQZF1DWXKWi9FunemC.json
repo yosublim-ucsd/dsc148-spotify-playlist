@@ -1,12 +1,12 @@
 {
   "description": "Sometimes upbeat, sometimes chill, these songs will encourage you and warm your heart and soul.",
-  "num_followers": 246023,
+  "num_followers": 246179,
   "original_name": "Love Coffee, Love Jesus",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkOTg1OTJiZTA4MjkxMzkwOGVkZjhlNzhjMWM3NWU3YzkyMDc2OGUz",
+  "snapshot_id": "MCxmNGI4YTc4NTk0NDY4YjIwODMzNWI0ZTYxYzFjODRhNWVmMzU5NjJj",
   "tracks": [
     {
       "added_at": "2023-07-28 04:01:00",
@@ -119,22 +119,6 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
-        "name": "Hymns Live",
-        "url": "https://open.spotify.com/album/4q4dWDNJcrxHnjO8zo3spx"
-      },
-      "artists": [
-        {
-          "name": "Shane & Shane",
-          "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
-        }
-      ],
-      "duration_ms": 378076,
-      "name": "I Will Wait for You (Psalm 130) [Live]",
-      "url": "https://open.spotify.com/track/4FwOCO9W6aH5QSh7dix8ey"
-    },
-    {
-      "added_at": "2023-07-28 04:01:00",
-      "album": {
         "name": "Peace to All Who Enter Here",
         "url": "https://open.spotify.com/album/5OSq9qdMdN2DyGx90wekZk"
       },
@@ -147,6 +131,22 @@
       "duration_ms": 184152,
       "name": "Turn Your Eyes Upon Jesus",
       "url": "https://open.spotify.com/track/34fdABH94cRd7iKoYWLwjS"
+    },
+    {
+      "added_at": "2023-07-28 04:01:00",
+      "album": {
+        "name": "Hymns Live",
+        "url": "https://open.spotify.com/album/4q4dWDNJcrxHnjO8zo3spx"
+      },
+      "artists": [
+        {
+          "name": "Shane & Shane",
+          "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
+        }
+      ],
+      "duration_ms": 378076,
+      "name": "I Will Wait for You (Psalm 130) [Live]",
+      "url": "https://open.spotify.com/track/4FwOCO9W6aH5QSh7dix8ey"
     },
     {
       "added_at": "2023-07-28 04:01:00",
@@ -183,22 +183,6 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
-        "name": "Peace",
-        "url": "https://open.spotify.com/album/4dTADOo6eZ7MztRDwgqHMz"
-      },
-      "artists": [
-        {
-          "name": "Anna Golden",
-          "url": "https://open.spotify.com/artist/3YChYj3gO6EJmFwI79cUSe"
-        }
-      ],
-      "duration_ms": 307292,
-      "name": "Peace - Acoustic",
-      "url": "https://open.spotify.com/track/3MCsTv1aRe3rE7PDso4ses"
-    },
-    {
-      "added_at": "2023-07-28 04:01:00",
-      "album": {
         "name": "Let the Ground Rest",
         "url": "https://open.spotify.com/album/67cPtLz0jVSsGHWLiIMip7"
       },
@@ -211,6 +195,22 @@
       "duration_ms": 291223,
       "name": "17",
       "url": "https://open.spotify.com/track/2k8Gjr3A8hXpQVvKI8f8Pn"
+    },
+    {
+      "added_at": "2023-07-28 04:01:00",
+      "album": {
+        "name": "Peace",
+        "url": "https://open.spotify.com/album/4dTADOo6eZ7MztRDwgqHMz"
+      },
+      "artists": [
+        {
+          "name": "Anna Golden",
+          "url": "https://open.spotify.com/artist/3YChYj3gO6EJmFwI79cUSe"
+        }
+      ],
+      "duration_ms": 307292,
+      "name": "Peace - Acoustic",
+      "url": "https://open.spotify.com/track/3MCsTv1aRe3rE7PDso4ses"
     },
     {
       "added_at": "2023-07-28 04:01:00",
@@ -439,6 +439,22 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
+        "name": "Wanted (Piano & Cello Version) / Haven\u2019t Seen It Yet (Acoustic)",
+        "url": "https://open.spotify.com/album/2lpiHMogTupT75qNnleilE"
+      },
+      "artists": [
+        {
+          "name": "Danny Gokey",
+          "url": "https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz"
+        }
+      ],
+      "duration_ms": 280826,
+      "name": "Haven't Seen It Yet - Acoustic",
+      "url": "https://open.spotify.com/track/4Al0PIC21UKhazRu69vXl3"
+    },
+    {
+      "added_at": "2023-07-28 04:01:00",
+      "album": {
         "name": "Christ Be In My Heart",
         "url": "https://open.spotify.com/album/5pS5ILMbBzeVWrIXc5VP8L"
       },
@@ -455,22 +471,6 @@
       "duration_ms": 288529,
       "name": "Christ Be In My Heart",
       "url": "https://open.spotify.com/track/32JyRObJ2CHIa3DBveoHLH"
-    },
-    {
-      "added_at": "2023-07-28 04:01:00",
-      "album": {
-        "name": "Wanted (Piano & Cello Version) / Haven\u2019t Seen It Yet (Acoustic)",
-        "url": "https://open.spotify.com/album/2lpiHMogTupT75qNnleilE"
-      },
-      "artists": [
-        {
-          "name": "Danny Gokey",
-          "url": "https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz"
-        }
-      ],
-      "duration_ms": 280826,
-      "name": "Haven't Seen It Yet - Acoustic",
-      "url": "https://open.spotify.com/track/4Al0PIC21UKhazRu69vXl3"
     },
     {
       "added_at": "2023-07-28 04:01:00",
@@ -599,22 +599,6 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
-        "name": "Mighty Refuge",
-        "url": "https://open.spotify.com/album/3gbvScgQgY27kOt15QR8zt"
-      },
-      "artists": [
-        {
-          "name": "Aaron Strumpel",
-          "url": "https://open.spotify.com/artist/5mtfJ5KHvDBiCLB2Ue1yYg"
-        }
-      ],
-      "duration_ms": 205948,
-      "name": "Be Thou My Vision",
-      "url": "https://open.spotify.com/track/1mBmuq8Luv3YzIcgZBgOQR"
-    },
-    {
-      "added_at": "2023-07-28 04:01:00",
-      "album": {
         "name": "Now More Than Ever",
         "url": "https://open.spotify.com/album/6enJJMJXMoy92TQZvM8Bxf"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 280413,
       "name": "Take This",
       "url": "https://open.spotify.com/track/6B7rm411U4hSvIwRFSXwvq"
+    },
+    {
+      "added_at": "2023-07-28 04:01:00",
+      "album": {
+        "name": "Mighty Refuge",
+        "url": "https://open.spotify.com/album/3gbvScgQgY27kOt15QR8zt"
+      },
+      "artists": [
+        {
+          "name": "Aaron Strumpel",
+          "url": "https://open.spotify.com/artist/5mtfJ5KHvDBiCLB2Ue1yYg"
+        }
+      ],
+      "duration_ms": 205948,
+      "name": "Be Thou My Vision",
+      "url": "https://open.spotify.com/track/1mBmuq8Luv3YzIcgZBgOQR"
     },
     {
       "added_at": "2023-07-28 04:01:00",
@@ -787,26 +787,6 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
-        "name": "Dawn",
-        "url": "https://open.spotify.com/album/4X8FlSjZW7YUTj277XNyFY"
-      },
-      "artists": [
-        {
-          "name": "Rebecca St. James",
-          "url": "https://open.spotify.com/artist/1SaELUYn7deVoQ9kGDGUD9"
-        },
-        {
-          "name": "Luke Smallbone",
-          "url": "https://open.spotify.com/artist/4HNwDTkRZBK8UyA54udpGX"
-        }
-      ],
-      "duration_ms": 297546,
-      "name": "Dawn",
-      "url": "https://open.spotify.com/track/5rKbWEBYZNIR3ep6pBOK0t"
-    },
-    {
-      "added_at": "2023-07-28 04:01:00",
-      "album": {
         "name": "Secret Place",
         "url": "https://open.spotify.com/album/29pydTpePrgdD4rHOMohlz"
       },
@@ -823,6 +803,22 @@
       "duration_ms": 181011,
       "name": "Secret Place",
       "url": "https://open.spotify.com/track/1ALad9pAC3JSK7SvqGAwKa"
+    },
+    {
+      "added_at": "2023-07-28 04:01:00",
+      "album": {
+        "name": "On Christ (House Church)",
+        "url": "https://open.spotify.com/album/44eE0gE1CPQpBKeAscz6Tw"
+      },
+      "artists": [
+        {
+          "name": "Local Sound",
+          "url": "https://open.spotify.com/artist/2cXyPSMdJcGw3t9yNhwTN2"
+        }
+      ],
+      "duration_ms": 264289,
+      "name": "On Christ (House Church)",
+      "url": "https://open.spotify.com/track/7cLvP0zD6nwFhdaxBfpIk9"
     },
     {
       "added_at": "2023-07-28 04:01:00",
@@ -847,34 +843,38 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
-        "name": "On Christ (House Church)",
-        "url": "https://open.spotify.com/album/44eE0gE1CPQpBKeAscz6Tw"
+        "name": "Dawn",
+        "url": "https://open.spotify.com/album/4X8FlSjZW7YUTj277XNyFY"
       },
       "artists": [
         {
-          "name": "Local Sound",
-          "url": "https://open.spotify.com/artist/2cXyPSMdJcGw3t9yNhwTN2"
+          "name": "Rebecca St. James",
+          "url": "https://open.spotify.com/artist/1SaELUYn7deVoQ9kGDGUD9"
+        },
+        {
+          "name": "Luke Smallbone",
+          "url": "https://open.spotify.com/artist/4HNwDTkRZBK8UyA54udpGX"
         }
       ],
-      "duration_ms": 264289,
-      "name": "On Christ (House Church)",
-      "url": "https://open.spotify.com/track/7cLvP0zD6nwFhdaxBfpIk9"
+      "duration_ms": 297546,
+      "name": "Dawn",
+      "url": "https://open.spotify.com/track/5rKbWEBYZNIR3ep6pBOK0t"
     },
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
-        "name": "Ashes to Skies",
-        "url": "https://open.spotify.com/album/7v4PeeSV3foDa4GFnIqdwX"
+        "name": "Resting Place (To the Cross)",
+        "url": "https://open.spotify.com/album/0Dvdd8C1sQ7g9wDsNJ0bWM"
       },
       "artists": [
         {
-          "name": "Shaylee Simeone",
-          "url": "https://open.spotify.com/artist/0gp2s7j9MdVVkcu7UIfpHQ"
+          "name": "I AM THEY",
+          "url": "https://open.spotify.com/artist/0XJ5RIvhlOL0harjI9jZvX"
         }
       ],
-      "duration_ms": 274546,
-      "name": "Ashes to Skies",
-      "url": "https://open.spotify.com/track/4aJF4yZ2bTfeHjuDiDD1ix"
+      "duration_ms": 243346,
+      "name": "Resting Place (To the Cross)",
+      "url": "https://open.spotify.com/track/016DP00vwMNLR10fT8jQka"
     },
     {
       "added_at": "2023-07-28 04:01:00",
@@ -895,18 +895,18 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
-        "name": "Resting Place (To the Cross)",
-        "url": "https://open.spotify.com/album/0Dvdd8C1sQ7g9wDsNJ0bWM"
+        "name": "Ashes to Skies",
+        "url": "https://open.spotify.com/album/7v4PeeSV3foDa4GFnIqdwX"
       },
       "artists": [
         {
-          "name": "I AM THEY",
-          "url": "https://open.spotify.com/artist/0XJ5RIvhlOL0harjI9jZvX"
+          "name": "Shaylee Simeone",
+          "url": "https://open.spotify.com/artist/0gp2s7j9MdVVkcu7UIfpHQ"
         }
       ],
-      "duration_ms": 243346,
-      "name": "Resting Place (To the Cross)",
-      "url": "https://open.spotify.com/track/016DP00vwMNLR10fT8jQka"
+      "duration_ms": 274546,
+      "name": "Ashes to Skies",
+      "url": "https://open.spotify.com/track/4aJF4yZ2bTfeHjuDiDD1ix"
     },
     {
       "added_at": "2023-07-28 04:01:00",
@@ -999,6 +999,22 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
+        "name": "Keeper of Days",
+        "url": "https://open.spotify.com/album/0flP7iXzaUHPPyOeizocTn"
+      },
+      "artists": [
+        {
+          "name": "Jon Guerra",
+          "url": "https://open.spotify.com/artist/0T5EH22oyMja9UmN0Rz95o"
+        }
+      ],
+      "duration_ms": 354223,
+      "name": "Teach Us That One Song",
+      "url": "https://open.spotify.com/track/3hImGfeJiJpKI8o3C3mTzY"
+    },
+    {
+      "added_at": "2023-07-28 04:01:00",
+      "album": {
         "name": "Morning Sun, Rising Tide",
         "url": "https://open.spotify.com/album/37U27IBkwWHn9hHZXUZJ5Q"
       },
@@ -1027,22 +1043,6 @@
       "duration_ms": 398333,
       "name": "\u2020 (just the cross) - Live",
       "url": "https://open.spotify.com/track/4tkSvznuiITP4O9zDooIBn"
-    },
-    {
-      "added_at": "2023-07-28 04:01:00",
-      "album": {
-        "name": "Keeper of Days",
-        "url": "https://open.spotify.com/album/0flP7iXzaUHPPyOeizocTn"
-      },
-      "artists": [
-        {
-          "name": "Jon Guerra",
-          "url": "https://open.spotify.com/artist/0T5EH22oyMja9UmN0Rz95o"
-        }
-      ],
-      "duration_ms": 354223,
-      "name": "Teach Us That One Song",
-      "url": "https://open.spotify.com/track/3hImGfeJiJpKI8o3C3mTzY"
     },
     {
       "added_at": "2023-07-28 04:01:00",
@@ -1127,6 +1127,30 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
+        "name": "Tremble",
+        "url": "https://open.spotify.com/album/27z3KNGIVFS5vLQfK7zdsL"
+      },
+      "artists": [
+        {
+          "name": "sxxnt.",
+          "url": "https://open.spotify.com/artist/4T0c560DVGr1cAtE3reOP1"
+        },
+        {
+          "name": "Cether",
+          "url": "https://open.spotify.com/artist/4DPWhihNMGBAgXYyYLOXn7"
+        },
+        {
+          "name": "Trumpet Pete",
+          "url": "https://open.spotify.com/artist/3I09Uh9SNtnaU4QGfmwTVO"
+        }
+      ],
+      "duration_ms": 204590,
+      "name": "Tremble",
+      "url": "https://open.spotify.com/track/6GPU6ddPncezJZyMimnG0Q"
+    },
+    {
+      "added_at": "2023-07-28 04:01:00",
+      "album": {
         "name": "Come Thou Fount of Every Blessing",
         "url": "https://open.spotify.com/album/4aQNv1K6KhHISTxppZ84DC"
       },
@@ -1175,30 +1199,6 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
-        "name": "Tremble",
-        "url": "https://open.spotify.com/album/27z3KNGIVFS5vLQfK7zdsL"
-      },
-      "artists": [
-        {
-          "name": "sxxnt.",
-          "url": "https://open.spotify.com/artist/4T0c560DVGr1cAtE3reOP1"
-        },
-        {
-          "name": "Cether",
-          "url": "https://open.spotify.com/artist/4DPWhihNMGBAgXYyYLOXn7"
-        },
-        {
-          "name": "Trumpet Pete",
-          "url": "https://open.spotify.com/artist/3I09Uh9SNtnaU4QGfmwTVO"
-        }
-      ],
-      "duration_ms": 204590,
-      "name": "Tremble",
-      "url": "https://open.spotify.com/track/6GPU6ddPncezJZyMimnG0Q"
-    },
-    {
-      "added_at": "2023-07-28 04:01:00",
-      "album": {
         "name": "All In",
         "url": "https://open.spotify.com/album/4Qb7av34wG5v22LIV5IN9g"
       },
@@ -1215,18 +1215,18 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
-        "name": "Closer Than a Brother",
-        "url": "https://open.spotify.com/album/33JLXoR3hEiNXIUP42Mwwx"
+        "name": "Worth The Wait",
+        "url": "https://open.spotify.com/album/0HVDvrqGkOecGZKgnZvX0h"
       },
       "artists": [
         {
-          "name": "Josh Garrels",
-          "url": "https://open.spotify.com/artist/16QSVsPKl743hu4U5C18R8"
+          "name": "Bryan McCleery",
+          "url": "https://open.spotify.com/artist/3rObLZdf0Oo2pr06KSZlD1"
         }
       ],
-      "duration_ms": 309354,
-      "name": "Closer Than a Brother",
-      "url": "https://open.spotify.com/track/6UFFHivhf0donyRMTdgYjA"
+      "duration_ms": 235056,
+      "name": "All For You",
+      "url": "https://open.spotify.com/track/4TtOwhTnpdQdlPOt9Ar2V5"
     },
     {
       "added_at": "2023-07-28 04:01:00",
@@ -1247,6 +1247,22 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
+        "name": "Closer Than a Brother",
+        "url": "https://open.spotify.com/album/33JLXoR3hEiNXIUP42Mwwx"
+      },
+      "artists": [
+        {
+          "name": "Josh Garrels",
+          "url": "https://open.spotify.com/artist/16QSVsPKl743hu4U5C18R8"
+        }
+      ],
+      "duration_ms": 309354,
+      "name": "Closer Than a Brother",
+      "url": "https://open.spotify.com/track/6UFFHivhf0donyRMTdgYjA"
+    },
+    {
+      "added_at": "2023-07-28 04:01:00",
+      "album": {
         "name": "Saving Me Still",
         "url": "https://open.spotify.com/album/1C6cUX3FHiop0xcbZpMjca"
       },
@@ -1259,22 +1275,6 @@
       "duration_ms": 380800,
       "name": "Saving Me Still",
       "url": "https://open.spotify.com/track/1Hbao8n85TOgeIZFfZmCdV"
-    },
-    {
-      "added_at": "2023-07-28 04:01:00",
-      "album": {
-        "name": "Worth The Wait",
-        "url": "https://open.spotify.com/album/0HVDvrqGkOecGZKgnZvX0h"
-      },
-      "artists": [
-        {
-          "name": "Bryan McCleery",
-          "url": "https://open.spotify.com/artist/3rObLZdf0Oo2pr06KSZlD1"
-        }
-      ],
-      "duration_ms": 235056,
-      "name": "All For You",
-      "url": "https://open.spotify.com/track/4TtOwhTnpdQdlPOt9Ar2V5"
     },
     {
       "added_at": "2023-07-28 04:01:00",
@@ -1367,6 +1367,22 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
+        "name": "Footprints (Acoustic)",
+        "url": "https://open.spotify.com/album/3uppRGTB0NYCvIdVdch91O"
+      },
+      "artists": [
+        {
+          "name": "Matt Hammitt",
+          "url": "https://open.spotify.com/artist/0o77vi5tCsW348tzvdjNPw"
+        }
+      ],
+      "duration_ms": 247195,
+      "name": "Footprints - Acoustic",
+      "url": "https://open.spotify.com/track/6MXvYbGJjKhMTXb33yOkfH"
+    },
+    {
+      "added_at": "2023-07-28 04:01:00",
+      "album": {
         "name": "Still I Will Praise [Live at Burgess Barn] [Radio Edit]",
         "url": "https://open.spotify.com/album/5jTcdgdYuicOViLgJMqOUh"
       },
@@ -1387,22 +1403,6 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
-        "name": "Footprints (Acoustic)",
-        "url": "https://open.spotify.com/album/3uppRGTB0NYCvIdVdch91O"
-      },
-      "artists": [
-        {
-          "name": "Matt Hammitt",
-          "url": "https://open.spotify.com/artist/0o77vi5tCsW348tzvdjNPw"
-        }
-      ],
-      "duration_ms": 247195,
-      "name": "Footprints - Acoustic",
-      "url": "https://open.spotify.com/track/6MXvYbGJjKhMTXb33yOkfH"
-    },
-    {
-      "added_at": "2023-07-28 04:01:00",
-      "album": {
         "name": "Different Story",
         "url": "https://open.spotify.com/album/2vpYCtGLJmLKzYVYngghO6"
       },
@@ -1419,8 +1419,8 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
-        "name": "Praise You In This Storm (New York Sessions)",
-        "url": "https://open.spotify.com/album/754X3YgVLT8TIZULobXMIV"
+        "name": "New York Sessions",
+        "url": "https://open.spotify.com/album/1GmGKswBRZfOb36V1PNX8K"
       },
       "artists": [
         {
@@ -1428,9 +1428,9 @@
           "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
         }
       ],
-      "duration_ms": 354407,
-      "name": "Praise You In This Storm - New York Sessions",
-      "url": "https://open.spotify.com/track/3a0C28b0tRrTNxJAI8IvPU"
+      "duration_ms": 272625,
+      "name": "Who Am I - New York Sessions",
+      "url": "https://open.spotify.com/track/7rDOaZO1vtpJKQ8speQb2A"
     },
     {
       "added_at": "2023-07-28 04:01:00",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
-        "name": "Fortress (Acoustic)",
-        "url": "https://open.spotify.com/album/08acRJo4M0enLC2Vta6w9X"
-      },
-      "artists": [
-        {
-          "name": "Refuge Worship",
-          "url": "https://open.spotify.com/artist/0Ub20KqDlmWDkqntwrKnVz"
-        }
-      ],
-      "duration_ms": 249485,
-      "name": "Fortress (Acoustic)",
-      "url": "https://open.spotify.com/track/7J2Ct0qVKKeSZJtx7HQfn3"
-    },
-    {
-      "added_at": "2023-07-28 04:01:00",
-      "album": {
         "name": "Letting Go (Alternate Version)",
         "url": "https://open.spotify.com/album/4OnW0Q4uEWqOFxz10S7fQJ"
       },
@@ -1531,6 +1515,22 @@
       "duration_ms": 212739,
       "name": "Letting Go - Alternate Version",
       "url": "https://open.spotify.com/track/2hrpfntURuJcSPYJy7nIr8"
+    },
+    {
+      "added_at": "2023-07-28 04:01:00",
+      "album": {
+        "name": "Fortress (Acoustic)",
+        "url": "https://open.spotify.com/album/08acRJo4M0enLC2Vta6w9X"
+      },
+      "artists": [
+        {
+          "name": "Refuge Worship",
+          "url": "https://open.spotify.com/artist/0Ub20KqDlmWDkqntwrKnVz"
+        }
+      ],
+      "duration_ms": 249485,
+      "name": "Fortress (Acoustic)",
+      "url": "https://open.spotify.com/track/7J2Ct0qVKKeSZJtx7HQfn3"
     },
     {
       "added_at": "2023-07-28 04:01:00",
@@ -1551,8 +1551,8 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
-        "name": "New York Sessions",
-        "url": "https://open.spotify.com/album/1GmGKswBRZfOb36V1PNX8K"
+        "name": "Praise You In This Storm (New York Sessions)",
+        "url": "https://open.spotify.com/album/754X3YgVLT8TIZULobXMIV"
       },
       "artists": [
         {
@@ -1560,9 +1560,9 @@
           "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
         }
       ],
-      "duration_ms": 272625,
-      "name": "Who Am I - New York Sessions",
-      "url": "https://open.spotify.com/track/7rDOaZO1vtpJKQ8speQb2A"
+      "duration_ms": 354407,
+      "name": "Praise You In This Storm - New York Sessions",
+      "url": "https://open.spotify.com/track/3a0C28b0tRrTNxJAI8IvPU"
     },
     {
       "added_at": "2023-07-28 04:01:00",
@@ -1667,6 +1667,22 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
+        "name": "Bridges",
+        "url": "https://open.spotify.com/album/5lx5uNnvFxSiruId2vTS1a"
+      },
+      "artists": [
+        {
+          "name": "JJ Heller",
+          "url": "https://open.spotify.com/artist/7dq8KEwf0kQXJhM79iwcPh"
+        }
+      ],
+      "duration_ms": 216436,
+      "name": "Bridges",
+      "url": "https://open.spotify.com/track/7nkKHByyonJIPEx8OxgoZR"
+    },
+    {
+      "added_at": "2023-07-28 04:01:00",
+      "album": {
         "name": "Now I See",
         "url": "https://open.spotify.com/album/3ag0IZGy6XuaBQPA4fH3V3"
       },
@@ -1687,22 +1703,6 @@
       "duration_ms": 243653,
       "name": "Now I See",
       "url": "https://open.spotify.com/track/66SLmhCxmoFG8DUgBFv572"
-    },
-    {
-      "added_at": "2023-07-28 04:01:00",
-      "album": {
-        "name": "Bridges",
-        "url": "https://open.spotify.com/album/5lx5uNnvFxSiruId2vTS1a"
-      },
-      "artists": [
-        {
-          "name": "JJ Heller",
-          "url": "https://open.spotify.com/artist/7dq8KEwf0kQXJhM79iwcPh"
-        }
-      ],
-      "duration_ms": 216436,
-      "name": "Bridges",
-      "url": "https://open.spotify.com/track/7nkKHByyonJIPEx8OxgoZR"
     },
     {
       "added_at": "2023-07-28 04:01:00",

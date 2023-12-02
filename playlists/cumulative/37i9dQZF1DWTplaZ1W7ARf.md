@@ -2,9 +2,9 @@
 
 ### [Street Soul](https://open.spotify.com/playlist/37i9dQZF1DWTplaZ1W7ARf)
 
-> Neighborhood Storytellers\. Cover: Gunna
+> Neighborhood Storytellers\. Cover: Kodak Black
 
-244 songs - 12 hr 19 min
+245 songs - 12 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -122,6 +122,7 @@
 | [Just Because](https://open.spotify.com/track/0hlpJecbVBbxg8YNFaxv8k) | [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [Feed Tha Streets III](https://open.spotify.com/album/2ZiBfBw770CJC0f4SI1Tji) | 2:33 | 2022-11-19 | 2023-08-12 |
 | [Just In Case](https://open.spotify.com/track/13uNBx6V8aUGQJiFvo1Hin) | [True Story Gee](https://open.spotify.com/artist/6fMLt27jSiBVuciQOYZGwm), [Seddy Hendrinx](https://open.spotify.com/artist/4TYOMrAFzxu8wO0yLIpOm4), [RARE Sound](https://open.spotify.com/artist/5gOJdgcftvP4TwPu0oRSfP) | [Just In Case](https://open.spotify.com/album/0XilKXpHLLMlCjV5aHTpLl) | 2:59 | 2021-09-17 | 2022-03-05 |
 | [Last One Left \(with Roddy Ricch\)](https://open.spotify.com/track/1NYJ8olXaPcCp45wfKfUun) | [Fredo Bang](https://open.spotify.com/artist/4yTmEo2clwWq2jwelvqgVv), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [Last One Left](https://open.spotify.com/album/136JKS8joUGUiReq11D03P) | 3:15 | 2022-04-15 | 2022-10-28 |
+| [Last Time](https://open.spotify.com/track/5lNWV5HwCCPbRX5OD1HcVt) | [Millyz](https://open.spotify.com/artist/7dDYME7Y3GoEQotd8gUvQg) | [Holy Water](https://open.spotify.com/album/0vvsV9PgoX1kSkwjmHTN2A) | 3:11 | 2023-12-01 |  |
 | [Letter 2 My Brother](https://open.spotify.com/track/5QIT3l4ZyXIUn9fe0hYfr3) | [Lil Kee](https://open.spotify.com/artist/21UqznWenhsInMOKxpVPBd) | [Letter 2 My Brother](https://open.spotify.com/album/4IhixF00YHMV3nPGVdFzMS) | 3:22 | 2022-05-06 | 2022-09-10 |
 | [Letter 2 Notti](https://open.spotify.com/track/0MkrMfegYa5anzniOrK0D0) | [DD Osama](https://open.spotify.com/artist/4JpFNbLvh0BGXAubKIthEM) | [Letter 2 Notti](https://open.spotify.com/album/26LCzQxgr9L97slkouEn80) | 2:07 | 2022-11-04 | 2023-09-16 |
 | [Life Support](https://open.spotify.com/track/1vERyqgnr9u4BnbLTKFNq6) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Sincerely, Kentrell](https://open.spotify.com/album/0M9H12x4U2F2VtAhQRuQ6S) | 3:53 | 2021-09-24 | 2022-03-12 |

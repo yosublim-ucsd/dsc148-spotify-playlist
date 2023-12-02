@@ -167,6 +167,24 @@
     },
     {
       "album": {
+        "name": "Atman",
+        "url": "https://open.spotify.com/album/6p4iQ4XzoXSBbZXsQvqiVA"
+      },
+      "artists": [
+        {
+          "name": "Shaanti Dhvani",
+          "url": "https://open.spotify.com/artist/1dT771je9qOYSwruMXIkn7"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186827,
+      "name": "Atman",
+      "url": "https://open.spotify.com/track/4VxBlGryb8qI5X3x2FfOW5"
+    },
+    {
+      "album": {
         "name": "Hyper Focus",
         "url": "https://open.spotify.com/album/5QwYT0LWcrJEIKwgPro8am"
       },
@@ -362,7 +380,7 @@
       ],
       "date_added": "2021-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 486426,
       "name": "Breathing Space",
       "url": "https://open.spotify.com/track/53hZ7K9FClYjkTtrm6t1NK"
@@ -474,6 +492,24 @@
       "duration_ms": 154246,
       "name": "Conscious Jorney",
       "url": "https://open.spotify.com/track/5huIzPcRJkbL7UyyzViQPU"
+    },
+    {
+      "album": {
+        "name": "Core Of The Truth",
+        "url": "https://open.spotify.com/album/2F2QlV18Oyqqdi2rUa7KFS"
+      },
+      "artists": [
+        {
+          "name": "Dhyaan Sangeet",
+          "url": "https://open.spotify.com/artist/0oNBpryPTA3j6vZcTSMHZI"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206184,
+      "name": "Core Of The Truth",
+      "url": "https://open.spotify.com/track/3DNakDCMuqiAruLyfFpGo2"
     },
     {
       "album": {
@@ -622,7 +658,7 @@
       ],
       "date_added": "2021-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 379736,
       "name": "Faith\u2019s Hymn",
       "url": "https://open.spotify.com/track/2dBQPRdC3PMPRLDfZXUShJ"
@@ -684,6 +720,60 @@
       "duration_ms": 382444,
       "name": "For Elena",
       "url": "https://open.spotify.com/track/5ZQxDOeaSFNZZI3GQi8gNs"
+    },
+    {
+      "album": {
+        "name": "Forest Temple",
+        "url": "https://open.spotify.com/album/7Eq90GfM3AIlwQnrzCCOPR"
+      },
+      "artists": [
+        {
+          "name": "Sacred Dreams",
+          "url": "https://open.spotify.com/artist/1fe7qfllL2e55Iyv4Ur5tc"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234000,
+      "name": "Forest Temple",
+      "url": "https://open.spotify.com/track/4wuuxCsLLcEqaZtof12vwt"
+    },
+    {
+      "album": {
+        "name": "Fountain Of Calmness",
+        "url": "https://open.spotify.com/album/5Q87MNpqzebIdfCoWTSSOS"
+      },
+      "artists": [
+        {
+          "name": "Buddha's Lounge",
+          "url": "https://open.spotify.com/artist/0DQtE70SlFZZkbNpCRaMHb"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206258,
+      "name": "Fountain Of Calmness",
+      "url": "https://open.spotify.com/track/1BcSsY73b8jCwC57mpu1Xk"
+    },
+    {
+      "album": {
+        "name": "Gahar Saans Lene",
+        "url": "https://open.spotify.com/album/6trlusMhaofoMrErS0kezO"
+      },
+      "artists": [
+        {
+          "name": "Yog Sthaan",
+          "url": "https://open.spotify.com/artist/3WT6T8U794GLy6Y5KQ22Mq"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211069,
+      "name": "Gahar Saans Lene",
+      "url": "https://open.spotify.com/track/1IN5GXBfxjj9AChKNxBIxY"
     },
     {
       "album": {
@@ -1006,7 +1096,7 @@
       ],
       "date_added": "2021-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 239367,
       "name": "Horizon",
       "url": "https://open.spotify.com/track/4TUXZLGOSPiDibFtUsdXXB"
@@ -1118,7 +1208,7 @@
       ],
       "date_added": "2021-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 174706,
       "name": "Incantation",
       "url": "https://open.spotify.com/track/4bSme6KVdAamqx94sRuMJ4"
@@ -1309,6 +1399,24 @@
     },
     {
       "album": {
+        "name": "Lost In The Moment",
+        "url": "https://open.spotify.com/album/0XyDvrRxaVpme3G218gzJ5"
+      },
+      "artists": [
+        {
+          "name": "Bansuri Tribe",
+          "url": "https://open.spotify.com/artist/3lDjq6pzHn0pxLMw5gYgr0"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212525,
+      "name": "Lost In The Moment",
+      "url": "https://open.spotify.com/track/1EQjRFsujGt5MXWcZ3e41d"
+    },
+    {
+      "album": {
         "name": "All Is Forgiven",
         "url": "https://open.spotify.com/album/6iAissytkJ7K7MBYLO25n3"
       },
@@ -1320,7 +1428,7 @@
       ],
       "date_added": "2021-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 561146,
       "name": "Loving Kindness",
       "url": "https://open.spotify.com/track/3BVhaPjedEZLZYVGpRQVSd"
@@ -1417,6 +1525,24 @@
     },
     {
       "album": {
+        "name": "Namaste Divine",
+        "url": "https://open.spotify.com/album/4Loei0XfBWhjqMyFEyU4mP"
+      },
+      "artists": [
+        {
+          "name": "Namaste Flute",
+          "url": "https://open.spotify.com/artist/2GZ3J2d45O3Z6cFOWXSXOD"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244025,
+      "name": "Namaste Divine",
+      "url": "https://open.spotify.com/track/3sxAZF5XL7usW8oZ1PtR7F"
+    },
+    {
+      "album": {
         "name": "Nature's Bed",
         "url": "https://open.spotify.com/album/60aObkIVavhW6QdXVevRT1"
       },
@@ -1504,6 +1630,24 @@
       "duration_ms": 139103,
       "name": "Pearls",
       "url": "https://open.spotify.com/track/65ubCt2SVFiRJuEv7bICfL"
+    },
+    {
+      "album": {
+        "name": "Quietness",
+        "url": "https://open.spotify.com/album/2M8w3Qj0dTaLPt1q0ZP4jR"
+      },
+      "artists": [
+        {
+          "name": "Pavitr Udyaan",
+          "url": "https://open.spotify.com/artist/7LK5H0UCpAQvUA90Ga3E5K"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226351,
+      "name": "Quietness",
+      "url": "https://open.spotify.com/track/5BU2yxv2XhQlTvkBoeGYZY"
     },
     {
       "album": {
@@ -1602,6 +1746,24 @@
       "duration_ms": 335533,
       "name": "Resonant Wave",
       "url": "https://open.spotify.com/track/6HwWUWAb0LofLu9TmdlPen"
+    },
+    {
+      "album": {
+        "name": "Sacred Breath",
+        "url": "https://open.spotify.com/album/0jk0S1srvlCB4yuYCA7813"
+      },
+      "artists": [
+        {
+          "name": "Sacred Bansuri",
+          "url": "https://open.spotify.com/artist/7gESLNj728yT7IhMVE6nSD"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192089,
+      "name": "Sacred Breath",
+      "url": "https://open.spotify.com/track/2nwknls2umYQSh3flvnA4m"
     },
     {
       "album": {
@@ -1785,6 +1947,24 @@
     },
     {
       "album": {
+        "name": "Silently Falling",
+        "url": "https://open.spotify.com/album/0gRoVemj1NS2g96DClsXYX"
+      },
+      "artists": [
+        {
+          "name": "Wissal Sakti",
+          "url": "https://open.spotify.com/artist/1FiERGNLIiWDYa2nA0TcGD"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156521,
+      "name": "Silently Falling",
+      "url": "https://open.spotify.com/track/1uH3TovSPAvbpVaXjNGpjL"
+    },
+    {
+      "album": {
         "name": "Silhouette",
         "url": "https://open.spotify.com/album/29yO7eFlCYQ5bRraWemqq9"
       },
@@ -1858,7 +2038,7 @@
       ],
       "date_added": "2021-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 352000,
       "name": "Spacious Offerings",
       "url": "https://open.spotify.com/track/77CbRgJsY87tQWii7V24tG"
@@ -1956,7 +2136,7 @@
       ],
       "date_added": "2021-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 624026,
       "name": "Storm of Prayers",
       "url": "https://open.spotify.com/track/7hPabdlyPYruzSufxHhKwQ"
@@ -2069,6 +2249,24 @@
     },
     {
       "album": {
+        "name": "The Sweetest Bansuri",
+        "url": "https://open.spotify.com/album/5Yq1yNWHSgiFFAcrKUu0JY"
+      },
+      "artists": [
+        {
+          "name": "Golgon Kami",
+          "url": "https://open.spotify.com/artist/1tkEL3kkz3cp0QnCPKuomr"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166000,
+      "name": "The Sweetest Bansuri",
+      "url": "https://open.spotify.com/track/61dYKNEcKbV6Cq494FuOcv"
+    },
+    {
+      "album": {
         "name": "Tokyo Drifting",
         "url": "https://open.spotify.com/album/21Kd19l9phAGWCYBeBEisf"
       },
@@ -2142,7 +2340,7 @@
       ],
       "date_added": "2021-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 262400,
       "name": "Voice of Eternity",
       "url": "https://open.spotify.com/track/75PdHrz9uyj9hIYT9xadZ3"
@@ -2164,6 +2362,42 @@
       "duration_ms": 148981,
       "name": "Waves Music Relax",
       "url": "https://open.spotify.com/track/54MYgK99jBfryPIeg60h7l"
+    },
+    {
+      "album": {
+        "name": "Yoga Dream",
+        "url": "https://open.spotify.com/album/2YwRSxhluGFUDhU6YFO2Sq"
+      },
+      "artists": [
+        {
+          "name": "Namaste Flute",
+          "url": "https://open.spotify.com/artist/2GZ3J2d45O3Z6cFOWXSXOD"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209048,
+      "name": "Yoga Dream",
+      "url": "https://open.spotify.com/track/7HkYYOPExaCdMkVgyH0NW3"
+    },
+    {
+      "album": {
+        "name": "Zen Dream",
+        "url": "https://open.spotify.com/album/2i650uiyy3whaLil4v4cGv"
+      },
+      "artists": [
+        {
+          "name": "Bansuri Tribe",
+          "url": "https://open.spotify.com/artist/3lDjq6pzHn0pxLMw5gYgr0"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214501,
+      "name": "Zen Dream",
+      "url": "https://open.spotify.com/track/25XPqvEFcoBRJrOCMWXYyK"
     },
     {
       "album": {

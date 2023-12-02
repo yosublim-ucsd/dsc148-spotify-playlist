@@ -4,7 +4,7 @@
 
 > Concentração no máximo, sem distrações.
 
-939 songs - 1 day 16 hr 41 min
+940 songs - 1 day 16 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -193,7 +193,7 @@
 | [Don't Let Go](https://open.spotify.com/track/0btI6JNv4JHyhhhWLhsbQb) | [Chordialilies](https://open.spotify.com/artist/52Zsdd1lO36Y5DdJ19YVwp) | [Don't Let Go](https://open.spotify.com/album/48Qhyyv28o0stmCqC96YIo) | 2:51 | 2020-08-14\* | 2021-05-20 |
 | [Don't Let Me Go](https://open.spotify.com/track/0NTNYW3E9mPy9jZjlHalDb) | [Mark Souzek](https://open.spotify.com/artist/472ZY6kKXhDcCXcOV0wxc2) | [Don't Let Me Go](https://open.spotify.com/album/4ozcA642MNNioVbF8ehgJ3) | 1:55 | 2020-08-14\* | 2020-10-15 |
 | [Doubt](https://open.spotify.com/track/3D0LhoqGyjdOV6760uOsJS) | [Ron Adelaar](https://open.spotify.com/artist/09L72oOms1QBoALUSLqx8u) | [RISE](https://open.spotify.com/album/0Y8HYJSgZUyKFfHKF6GPmY) | 1:55 | 2022-07-19 | 2023-07-25 |
-| [Dover](https://open.spotify.com/track/5OO8eMfRfnz1YbfQBww27q) | [Denise Santoz](https://open.spotify.com/artist/4Uovljndj83LXd0QLdSCtp) | [Dover](https://open.spotify.com/album/1X1UcosGenRsPFEFc9tQgr) | 3:11 | 2020-12-03 |  |
+| [Dover](https://open.spotify.com/track/5OO8eMfRfnz1YbfQBww27q) | [Denise Santoz](https://open.spotify.com/artist/4Uovljndj83LXd0QLdSCtp) | [Dover](https://open.spotify.com/album/1X1UcosGenRsPFEFc9tQgr) | 3:11 | 2020-12-03 | 2023-12-02 |
 | [Dovidenja](https://open.spotify.com/track/71Hs7PGCNa1466R9Wiobo0) | [Darija Horvat](https://open.spotify.com/artist/2IHkcRcKQ3RLDY8KDtjmNv) | [Dovidenja](https://open.spotify.com/album/3rsw8cYvKE96H9ePkr2eOn) | 2:09 | 2020-11-12 | 2021-05-20 |
 | [Downstairs](https://open.spotify.com/track/5ULSZYu1E1CWT8wAQ6NnfW) | [Clouderr](https://open.spotify.com/artist/5bcEA3BrhWyJRBPqH4Lxzw) | [Downstairs](https://open.spotify.com/album/0Zclpf48lKos6vY0bycvtI) | 3:25 | 2021-07-01 | 2022-04-22 |
 | [dream river.](https://open.spotify.com/track/1lHYlFy54afDBxts2V3KZZ) | [Woong Sun Hee](https://open.spotify.com/artist/1HYFlkIP8WNiSu2E5R5Txx) | [dream river.](https://open.spotify.com/album/2updsK0kMBu23RfGBIP8Dd) | 1:27 | 2022-03-30 | 2022-06-08 |
@@ -658,7 +658,7 @@
 | [Reunion](https://open.spotify.com/track/4QVzNx3f036rsmY2M0hWxr) | [Elvira Ashmore](https://open.spotify.com/artist/3NvKxkPl5eEE5z30zDfsiw) | [Reunion](https://open.spotify.com/album/0hAXloydsGGgAFO1hjgGhl) | 2:27 | 2021-07-01 | 2022-09-24 |
 | [Revenons à nos moutons](https://open.spotify.com/track/6M97uxgvb8dEPDIetC7OgD) | [Dagmar Collier](https://open.spotify.com/artist/7GMPam14aifoeTdBmapBTj) | [Revenons à nos moutons](https://open.spotify.com/album/3XHKfh5KIesbw1eps3fLmt) | 2:35 | 2021-01-23 | 2022-06-08 |
 | [Rhyl Sands](https://open.spotify.com/track/2eB6dVkwbCJayvgplBO6Nt) | [Teide](https://open.spotify.com/artist/31JZooajAUmQZAX2j6fPZ5) | [Malerei](https://open.spotify.com/album/6sxgRR1cYtmCXQSuDGU8ST) | 3:02 | 2022-09-14 |  |
-| [Rianmarsi](https://open.spotify.com/track/3DG5USrBXKc74Hf8T1H2jn) | [Emiliano Nucci](https://open.spotify.com/artist/4EuYecPOxU6sd7XQzkzYRp) | [Rianmarsi](https://open.spotify.com/album/1pIIVUNVmiMvRBJbyNDt0J) | 2:16 | 2021-09-02 | 2023-11-25 |
+| [Rianmarsi](https://open.spotify.com/track/3DG5USrBXKc74Hf8T1H2jn) | [Emiliano Nucci](https://open.spotify.com/artist/4EuYecPOxU6sd7XQzkzYRp) | [Rianmarsi](https://open.spotify.com/album/1pIIVUNVmiMvRBJbyNDt0J) | 2:16 | 2021-09-02 |  |
 | [Right beside you](https://open.spotify.com/track/1XpTKAxSRMsYs3pXWyfYD6) | [Denise Billingsley](https://open.spotify.com/artist/0kkfAV2eyZaQd3CECgELlj) | [Right beside you](https://open.spotify.com/album/7JrBRqanwVNLYeprNBrF3L) | 2:28 | 2020-08-14\* | 2021-09-15 |
 | [Ripples](https://open.spotify.com/track/3xE0JN7dBupo1lrr6WvZSl) | [Sean Oban](https://open.spotify.com/artist/32LreS7UHEG3COCJzy826n) | [Ripples](https://open.spotify.com/album/67aW2j0JJHUh72ixyNytgg) | 2:12 | 2020-10-15 |  |
 | [Rise](https://open.spotify.com/track/0P9iHoMjt1UlJfdcijOBHZ) | [Peter Sandberg](https://open.spotify.com/artist/3LtlJprzuq0Ii8p8YFZXai) | [Rise](https://open.spotify.com/album/3e00tFNHFroqXpk2PbBitE) | 3:10 | 2020-08-14\* | 2021-04-09 |
@@ -746,6 +746,7 @@
 | [Something \(Nothing\)](https://open.spotify.com/track/5pgQi74y4bGoT3bYFKZagk) | [Christopher Dicker](https://open.spotify.com/artist/3WrvWolT9GYQzCudBunNu3) | [Ephemera](https://open.spotify.com/album/7r69JJ8k1o0wwjV16KczHZ) | 2:38 | 2021-08-21 | 2022-12-24 |
 | [Something Like Love](https://open.spotify.com/track/1SHZMSLi7z0lNlo6ljl0PC) | [James Keer](https://open.spotify.com/artist/2IJ2zbVdi2aR2DAM8boOE8) | [Something Like Love](https://open.spotify.com/album/5TF7WCLi2ysXIp8m88L2Nr) | 2:42 | 2020-08-14\* |  |
 | [Somewhere](https://open.spotify.com/track/1xR0V8wNOmGjNd9L6lo7wM) | [Elijah Reeves](https://open.spotify.com/artist/70bBmVAlNo8W2qGhWp1mR8) | [Somewhere](https://open.spotify.com/album/6OqeW7XaGyyQvz6BHGNeL7) | 3:05 | 2023-07-04 |  |
+| [somewhere else, together](https://open.spotify.com/track/4Pl37bufUvxJOhLJIfLCcl) | [Aquilegia](https://open.spotify.com/artist/4XF98HJsL7ue3NksOvebiJ) | [somewhere else, together](https://open.spotify.com/album/1qLrUd6oXUZoNGZAVY8mDX) | 3:09 | 2023-11-28 |  |
 | [Sonata del Giardino](https://open.spotify.com/track/2wNBTbBMhZ1FDFx5US3u3o) | [Domani Fendi](https://open.spotify.com/artist/1GaEeF01ebT6znhYvW1s7b) | [Sonata del Giardino](https://open.spotify.com/album/1L0WoZmWBaqsMwbs8oa4wm) | 2:45 | 2021-07-01 |  |
 | [Sonder](https://open.spotify.com/track/3piXN9w4wKQGll4ryYpVl5) | [Eugene Goh](https://open.spotify.com/artist/2xWyi5H9hUsrq5V7wZVdNI) | [Sonder](https://open.spotify.com/album/5kJ4JlLmhkJiMnzkMSStON) | 2:55 | 2022-03-16 | 2022-09-24 |
 | [Sonne und Mond](https://open.spotify.com/track/2jpKwXSKceFIm2ZJF8gZO7) | [Vanya Sogaya](https://open.spotify.com/artist/52ZDvqSoUUMRtR9qjwyhq4) | [Sonne und Mond](https://open.spotify.com/album/01CosJGsY8PK0iH29KV2ht) | 3:15 | 2021-09-02 |  |
@@ -803,7 +804,7 @@
 | [The hills](https://open.spotify.com/track/2wbG3Ma6mHGHI1cJv7r67u) | [Alexandra Streliski](https://open.spotify.com/artist/0HyM2wwUfOsZYD4Dj5IOOZ) | [The hills](https://open.spotify.com/album/1Hcu386OoNkU3xHgoTwmid) | 2:52 | 2022-12-22 |  |
 | [The Hourglass](https://open.spotify.com/track/6AUxUEdwGIBjnUaifqYOHe) | [Ben Crosland](https://open.spotify.com/artist/5uNm1FvRSh2IcPNDGQChtr) | [The Turn](https://open.spotify.com/album/1HBOLQ0QoDkGDGnjhfdzPy) | 2:00 | 2022-07-19 | 2022-09-15 |
 | [The Hourglass](https://open.spotify.com/track/6t4LgOBZsf14olwgwYRcCS) | [Ben Crosland](https://open.spotify.com/artist/5uNm1FvRSh2IcPNDGQChtr) | [The Hourglass](https://open.spotify.com/album/1NTwTsMh0G56ws0HFtPCuC) | 2:00 | 2020-08-14\* | 2022-07-29 |
-| [The Hours](https://open.spotify.com/track/3oZOceAylTaZT8EKdz6M50) | [Wilson Trouvé](https://open.spotify.com/artist/1Qh6CmBget32TmvDZBoK8E) | [The Hours](https://open.spotify.com/album/12a4l0Phhf9Ae9TQOWtbf1) | 2:13 | 2021-04-04 |  |
+| [The Hours](https://open.spotify.com/track/3oZOceAylTaZT8EKdz6M50) | [Wilson Trouvé](https://open.spotify.com/artist/1Qh6CmBget32TmvDZBoK8E) | [The Hours](https://open.spotify.com/album/12a4l0Phhf9Ae9TQOWtbf1) | 2:13 | 2021-04-04 | 2023-12-02 |
 | [The Light That Dims](https://open.spotify.com/track/5jXA67Q4thnNLEDxMzu9QE) | [Josh Kramer](https://open.spotify.com/artist/2stOL2fH4SxcTNg7RXo9AG) | [The Light That Dims](https://open.spotify.com/album/2vabdeUkp3WECxMVAUubwo) | 2:54 | 2021-01-30 | 2021-03-26 |
 | [The lighthouse](https://open.spotify.com/track/4EuLUeWUGHK3BVJGBcpQah) | [Lilly Eaton](https://open.spotify.com/artist/0HPUKxAUxQpN3JwJJyIHpp) | [Back home](https://open.spotify.com/album/7rISUDvNmbSZ8oyY0v7Tfp) | 2:52 | 2022-06-07 | 2022-07-20 |
 | [The Might](https://open.spotify.com/track/57yfoJ5x6tF6B3vhhHr35I) | [Freya Rääf](https://open.spotify.com/artist/2iQG0lRDnvCIXfN3BDbXIa) | [The Might](https://open.spotify.com/album/3SA356mCov4slJR4zhvPXv) | 2:19 | 2023-08-15 |  |

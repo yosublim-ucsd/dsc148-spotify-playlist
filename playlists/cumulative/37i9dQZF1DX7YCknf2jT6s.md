@@ -2,9 +2,9 @@
 
 ### [State of Jazz](https://open.spotify.com/playlist/37i9dQZF1DX7YCknf2jT6s)
 
-> New jazz for open minds\. Cover: Nubiyan Twist
+> New jazz for open minds\. Cover: H ZETTRIO
 
-1,172 songs - 3 day 22 hr 59 min
+1,173 songs - 3 day 23 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -215,7 +215,7 @@
 | [Consolation Prizes](https://open.spotify.com/track/0YBiLolJXSN5mCum0nuBV2) | [Flying Lotus](https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793) | [Flying Lotus Presents: Music From The Hit Game Show Ozzy's Dungeon \- Taken From V/H/S/99](https://open.spotify.com/album/79UUtoObvd4zUpHiewJrMA) | 2:13 | 2022-10-21 | 2022-11-19 |
 | [Contes de la nuit](https://open.spotify.com/track/2CuMHRqxncgEAGF5qaajHh) | [Uèle Lamore](https://open.spotify.com/artist/12jPinlyvDpbdEHwg0oXXl), [Theo Croker](https://open.spotify.com/artist/7iUF39q93Xixo33E6IvNYm) | [Uèle Lamore & Theo Croker](https://open.spotify.com/album/3gjvzlYi5RBpptiEZ0md6e) | 3:34 | 2023-06-16 | 2023-08-26 |
 | [Contra](https://open.spotify.com/track/4zcSxhs5fzmXqO2VBblm8h) | [Walter Smith III](https://open.spotify.com/artist/26XwWqwNq8FMgZEKqqdU9b) | [Contra](https://open.spotify.com/album/0nzrCEvCwzoIATAolMF3dz) | 5:02 | 2023-02-10 | 2023-02-25 |
-| [Coral Way](https://open.spotify.com/track/7e3U7b3CLSxIyMJVUIirai) | [Alfredo Rodriguez](https://open.spotify.com/artist/1dp5YyefJVa9mkiqa3s50O) | [Coral Way](https://open.spotify.com/album/6nY4zFR105qr33Ii7ODw3s) | 3:39 | 2023-08-18 |  |
+| [Coral Way](https://open.spotify.com/track/7e3U7b3CLSxIyMJVUIirai) | [Alfredo Rodriguez](https://open.spotify.com/artist/1dp5YyefJVa9mkiqa3s50O) | [Coral Way](https://open.spotify.com/album/6nY4zFR105qr33Ii7ODw3s) | 3:39 | 2023-08-18 | 2023-12-02 |
 | [Cosmic Changes](https://open.spotify.com/track/6dD48wXYlHT5sX11wHr4eO) | [Adrian Younge](https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd), [Ali Shaheed Muhammad](https://open.spotify.com/artist/6adBZwsyxZuWDoty0Tg0lt), [Lonnie Liston Smith](https://open.spotify.com/artist/2hdpXvaQJHBCZIVUd6cLvK) | [Instrumentals JID019](https://open.spotify.com/album/3naPexauBSI1rjOU0jsmEq) | 3:47 | 2023-09-29 |  |
 | [Cosmic Changes](https://open.spotify.com/track/3HcDw9iCzDEC2mVNEyNAfQ) | [Lonnie Liston Smith](https://open.spotify.com/artist/2hdpXvaQJHBCZIVUd6cLvK), [Adrian Younge](https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd), [Ali Shaheed Muhammad](https://open.spotify.com/artist/6adBZwsyxZuWDoty0Tg0lt), [Loren Oden](https://open.spotify.com/artist/6FAJyMDeXJXCRryVAUXNkQ) | [Cosmic Changes](https://open.spotify.com/album/5tHLgERGdcXf9mQANy8c0t) | 3:47 | 2023-03-03 | 2023-03-25 |
 | [COSMIC INTERCOURSE \(Pt\. II\) \(feat\. Chris Dave\)](https://open.spotify.com/track/22ZVHkx4dhqks7OYF4eOd6) | [Theo Croker](https://open.spotify.com/artist/7iUF39q93Xixo33E6IvNYm), [Chris Dave](https://open.spotify.com/artist/0ty2lxzPnKWRfQd18OuAvM) | [COSMIC INTERCOURSE \(Pt\. II\) \(feat\. Chris Dave\)](https://open.spotify.com/album/0pI2RJ7PFkmDX3yT04MeFW) | 2:14 | 2022-06-10 | 2022-06-25 |
@@ -292,6 +292,7 @@
 | [Duolism \- One Two](https://open.spotify.com/track/365egaSmBaJjCE2WYaTkir) | [Bugge Wesseltoft](https://open.spotify.com/artist/4p35pLn1lRgqoVVsnqNZEK), [Henrik Schwarz](https://open.spotify.com/artist/1ooAqaFu4Ac3BO2HpL4V2R), [Solistensemble Kaleidoskop](https://open.spotify.com/artist/0LOSJKFSlJcJ6q1AbfKd6Z) | [Duolism \- One Two](https://open.spotify.com/album/6y5BbpHAUrc2GABbFRLGox) | 4:32 | 2022-09-02 | 2022-10-08 |
 | [Dust Ball Fantasy \(feat\. Lionel Loueke\)](https://open.spotify.com/track/1R3OT4zUhA9p8erPorBcPD) | [Marcus Strickland Twi\-Life](https://open.spotify.com/artist/3r1zgybXPtRemw0HPrDU7l), [Lionel Loueke](https://open.spotify.com/artist/6q6EXv5ybArXqifMdmTIig) | [Dust Ball Fantasy \(feat\. Lionel Loueke\)](https://open.spotify.com/album/3fAJ4IYvinGbGd9SSpmcsN) | 5:27 | 2022-11-11 | 2023-01-28 |
 | [DYKWYD \[Feat\. Braxton Cook\]](https://open.spotify.com/track/6CK3P6x1g6lfJ2yowBGOWz) | [Butcher Brown](https://open.spotify.com/artist/2jQ6wRQ7yP1UrctodeuYQP), [Braxton Cook](https://open.spotify.com/artist/60k4atxgEIMFz4DWHp0le1) | [DYKWYD \[Feat\. Braxton Cook\]](https://open.spotify.com/album/3wHESbXbqvwTjgHzxbWaE4) | 4:02 | 2023-08-18 | 2023-09-23 |
+| [Dynamics](https://open.spotify.com/track/7wi3S0J8v5uA12cXZI4xug) | [H ZETTRIO](https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY) | [Dynamics](https://open.spotify.com/album/2j45BDfC3FVhEbiExfU1oS) | 2:48 | 2023-12-01 |  |
 | [Dédalo De Concreto \- Single Version](https://open.spotify.com/track/6PfUV08i2dfwa5FYsTkZiT) | [Pachakuti](https://open.spotify.com/artist/2pQzPOCdgQgaUpWG3WEcYr), [young.vishnu](https://open.spotify.com/artist/13ktebtZo4NRbX3uThOmP2) | [Dédalo De Concreto \(Single Version\)](https://open.spotify.com/album/5EL379oEpD5fBdlU8xydPb) | 4:01 | 2022-02-03 | 2022-04-02 |
 | [E Basta \- Vincent Peirani](https://open.spotify.com/track/5TJfACNTfIZGwX36a5gONX) | [Simone Prattico](https://open.spotify.com/artist/5vMEIPZjcvn7bmnMjF1BIZ), [Vincent Peirani](https://open.spotify.com/artist/2aMYfhweGlfp6qj9r6OGUO) | [That's it \(Oriundo\)](https://open.spotify.com/album/7mZ22LtynPQGkYueUtyUxQ) | 3:10 | 2022-08-26 | 2022-09-24 |
 | [Ebullience](https://open.spotify.com/track/6kyYpGMYFNRrI2aIjn1Ctv) | [Phil Keaggy](https://open.spotify.com/artist/1bAzlT6fMBcvCfwgh4S3Xl), [Kyle Jones](https://open.spotify.com/artist/7AUc27dMiFIk09Ud7Bfwwd) | [Numen](https://open.spotify.com/album/11YQJFDmyjJD1OydKv33qB) | 4:31 | 2022-10-21 | 2023-02-04 |

@@ -1,12 +1,12 @@
 {
   "description": "\u65e5\u672c\u306e\u5973\u6027\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u6b4c\u3092\u7279\u96c6\u3002cover: \u30a2\u30a4\u30ca\u30fb\u30b8\u30fb\u30a8\u30f3\u30c9",
-  "num_followers": 105772,
+  "num_followers": 105808,
   "original_name": "Women's Voice",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZjUxNmRjZTIzMDI3NzIwNGUxNDQ0NTM5MzY4M2NjZDdjZmVmYWI1",
+  "snapshot_id": "MCw4OWFiMjE3NjE2OWFlOTE5MTBkMjU2ODZkNDJlMmFiMGQxZDkwZWQ2",
   "tracks": [
     {
       "added_at": "2023-11-30 22:07:44",
@@ -243,8 +243,8 @@
     {
       "added_at": "2023-11-30 22:07:44",
       "album": {
-        "name": "\u30ad\u30e9\u30fc\u30ef\u30fc\u30c9",
-        "url": "https://open.spotify.com/album/0hTDFgya1BSBjCucfBfaTQ"
+        "name": "Killer Word",
+        "url": "https://open.spotify.com/album/5nkuYDrndcdN41UN8QKgkP"
       },
       "artists": [
         {
@@ -253,8 +253,8 @@
         }
       ],
       "duration_ms": 241203,
-      "name": "\u30ad\u30e9\u30fc\u30ef\u30fc\u30c9",
-      "url": "https://open.spotify.com/track/6lOrtgsvN9QKtN4h7S1Y5j"
+      "name": "Killer Word",
+      "url": "https://open.spotify.com/track/55YTEATvWRdjUXGkxfdlWB"
     },
     {
       "added_at": "2023-11-30 22:07:44",
@@ -511,18 +511,22 @@
     {
       "added_at": "2023-11-30 22:07:44",
       "album": {
-        "name": "Anytime Anywhere",
-        "url": "https://open.spotify.com/album/66OrMbPN4equuw2hHbjA1X"
+        "name": "Suzume (Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6Ar5HxNWXtvraqs7FI7bYq"
       },
       "artists": [
         {
-          "name": "milet",
-          "url": "https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM"
+          "name": "RADWIMPS",
+          "url": "https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7"
+        },
+        {
+          "name": "Toaka",
+          "url": "https://open.spotify.com/artist/3GzVC7GGbmO2SuBu92DqUn"
         }
       ],
-      "duration_ms": 230449,
-      "name": "Anytime Anywhere",
-      "url": "https://open.spotify.com/track/7FeEiAWqWScpMFnlLSUvX2"
+      "duration_ms": 238560,
+      "name": "Suzume",
+      "url": "https://open.spotify.com/track/1n1y2kFPISpF9WGD3JaFo5"
     },
     {
       "added_at": "2023-11-30 22:07:44",
@@ -543,22 +547,18 @@
     {
       "added_at": "2023-11-30 22:07:44",
       "album": {
-        "name": "Suzume (Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/6Ar5HxNWXtvraqs7FI7bYq"
+        "name": "Anytime Anywhere",
+        "url": "https://open.spotify.com/album/66OrMbPN4equuw2hHbjA1X"
       },
       "artists": [
         {
-          "name": "RADWIMPS",
-          "url": "https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7"
-        },
-        {
-          "name": "Toaka",
-          "url": "https://open.spotify.com/artist/3GzVC7GGbmO2SuBu92DqUn"
+          "name": "milet",
+          "url": "https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM"
         }
       ],
-      "duration_ms": 238560,
-      "name": "Suzume",
-      "url": "https://open.spotify.com/track/1n1y2kFPISpF9WGD3JaFo5"
+      "duration_ms": 230449,
+      "name": "Anytime Anywhere",
+      "url": "https://open.spotify.com/track/7FeEiAWqWScpMFnlLSUvX2"
     },
     {
       "added_at": "2023-11-30 22:07:44",
@@ -747,22 +747,18 @@
     {
       "added_at": "2023-11-30 22:07:44",
       "album": {
-        "name": "DEBUT",
-        "url": "https://open.spotify.com/album/3QsVm0REFvXjoxF87Qm4OE"
+        "name": "\u6b8b\u6a5f",
+        "url": "https://open.spotify.com/album/3wGoYoTJhdbkvn7WZpTqz3"
       },
       "artists": [
         {
-          "name": "Kyrie",
-          "url": "https://open.spotify.com/artist/1W3oa2UIRtBlQSPwszyIWu"
-        },
-        {
-          "name": "AiNA THE END",
-          "url": "https://open.spotify.com/artist/5k7KS34gxQbzdQaXWSOVKC"
+          "name": "ZUTOMAYO",
+          "url": "https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj"
         }
       ],
-      "duration_ms": 318762,
-      "name": "\u30ad\u30ea\u30a8\u30fb\u6190\u308c\u307f\u306e\u8b83\u6b4c",
-      "url": "https://open.spotify.com/track/2lyFs3iMvfNi6bfHi3mJKj"
+      "duration_ms": 230066,
+      "name": "\u6b8b\u6a5f",
+      "url": "https://open.spotify.com/track/1XeOqgzh2fZhmgxnmyiIJ8"
     },
     {
       "added_at": "2023-11-30 22:07:44",
@@ -783,18 +779,22 @@
     {
       "added_at": "2023-11-30 22:07:44",
       "album": {
-        "name": "\u6b8b\u6a5f",
-        "url": "https://open.spotify.com/album/3wGoYoTJhdbkvn7WZpTqz3"
+        "name": "DEBUT",
+        "url": "https://open.spotify.com/album/3QsVm0REFvXjoxF87Qm4OE"
       },
       "artists": [
         {
-          "name": "ZUTOMAYO",
-          "url": "https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj"
+          "name": "Kyrie",
+          "url": "https://open.spotify.com/artist/1W3oa2UIRtBlQSPwszyIWu"
+        },
+        {
+          "name": "AiNA THE END",
+          "url": "https://open.spotify.com/artist/5k7KS34gxQbzdQaXWSOVKC"
         }
       ],
-      "duration_ms": 230066,
-      "name": "\u6b8b\u6a5f",
-      "url": "https://open.spotify.com/track/1XeOqgzh2fZhmgxnmyiIJ8"
+      "duration_ms": 318762,
+      "name": "\u30ad\u30ea\u30a8\u30fb\u6190\u308c\u307f\u306e\u8b83\u6b4c",
+      "url": "https://open.spotify.com/track/2lyFs3iMvfNi6bfHi3mJKj"
     },
     {
       "added_at": "2023-11-30 22:07:44",
@@ -847,18 +847,18 @@
     {
       "added_at": "2023-11-30 22:07:44",
       "album": {
-        "name": "Gold\u3000\uff5e\u307e\u305f\u9022\u3046\u65e5\u307e\u3067\uff5e",
-        "url": "https://open.spotify.com/album/2imXyePzAn9t5cfc9QWPwk"
+        "name": "\u604b\u3060\u3068\u306f",
+        "url": "https://open.spotify.com/album/0U5Ngt5P22CZPHNhhnH0Tb"
       },
       "artists": [
         {
-          "name": "Hikaru Utada",
-          "url": "https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2"
+          "name": "shimamo",
+          "url": "https://open.spotify.com/artist/2NbtPKvGZ9Ss2KkbMtUhNm"
         }
       ],
-      "duration_ms": 254291,
-      "name": "Gold\u3000\uff5e\u307e\u305f\u9022\u3046\u65e5\u307e\u3067\uff5e",
-      "url": "https://open.spotify.com/track/6hasQfFdygcQow58WNA614"
+      "duration_ms": 226677,
+      "name": "\u604b\u3060\u3068\u306f",
+      "url": "https://open.spotify.com/track/2jI3IN3kyMDlWONkR6G3lc"
     },
     {
       "added_at": "2023-11-30 22:07:44",
@@ -879,18 +879,18 @@
     {
       "added_at": "2023-11-30 22:07:44",
       "album": {
-        "name": "\u604b\u3060\u3068\u306f",
-        "url": "https://open.spotify.com/album/0U5Ngt5P22CZPHNhhnH0Tb"
+        "name": "Gold\u3000\uff5e\u307e\u305f\u9022\u3046\u65e5\u307e\u3067\uff5e",
+        "url": "https://open.spotify.com/album/2imXyePzAn9t5cfc9QWPwk"
       },
       "artists": [
         {
-          "name": "shimamo",
-          "url": "https://open.spotify.com/artist/2NbtPKvGZ9Ss2KkbMtUhNm"
+          "name": "Hikaru Utada",
+          "url": "https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2"
         }
       ],
-      "duration_ms": 226677,
-      "name": "\u604b\u3060\u3068\u306f",
-      "url": "https://open.spotify.com/track/2jI3IN3kyMDlWONkR6G3lc"
+      "duration_ms": 254291,
+      "name": "Gold\u3000\uff5e\u307e\u305f\u9022\u3046\u65e5\u307e\u3067\uff5e",
+      "url": "https://open.spotify.com/track/6hasQfFdygcQow58WNA614"
     },
     {
       "added_at": "2023-11-30 22:07:44",
@@ -1132,7 +1132,7 @@
       "added_at": "2023-11-30 22:07:44",
       "album": {
         "name": "White Snow",
-        "url": "https://open.spotify.com/album/16J3o3firFKfgfBWZbWEh8"
+        "url": "https://open.spotify.com/album/3NZc71lQ5slVbiwfLmsd8N"
       },
       "artists": [
         {
@@ -1142,23 +1142,7 @@
       ],
       "duration_ms": 215000,
       "name": "White Snow",
-      "url": "https://open.spotify.com/track/4IcWXM0Nk9DyuLvWnYUje5"
-    },
-    {
-      "added_at": "2023-11-30 22:07:44",
-      "album": {
-        "name": "Moon",
-        "url": "https://open.spotify.com/album/751vSwVvqQCaz8biSgNGHK"
-      },
-      "artists": [
-        {
-          "name": "Perfume",
-          "url": "https://open.spotify.com/artist/2XMxWKPKCxoLkSdpCViCnr"
-        }
-      ],
-      "duration_ms": 181479,
-      "name": "Moon",
-      "url": "https://open.spotify.com/track/77WrUAbySLHjGwd5n9B7WN"
+      "url": "https://open.spotify.com/track/3VrvJqL0g4B2gfAvvzwJ2p"
     },
     {
       "added_at": "2023-11-30 22:07:44",
@@ -1207,6 +1191,22 @@
     {
       "added_at": "2023-11-30 22:07:44",
       "album": {
+        "name": "Moon",
+        "url": "https://open.spotify.com/album/751vSwVvqQCaz8biSgNGHK"
+      },
+      "artists": [
+        {
+          "name": "Perfume",
+          "url": "https://open.spotify.com/artist/2XMxWKPKCxoLkSdpCViCnr"
+        }
+      ],
+      "duration_ms": 181479,
+      "name": "Moon",
+      "url": "https://open.spotify.com/track/77WrUAbySLHjGwd5n9B7WN"
+    },
+    {
+      "added_at": "2023-11-30 22:07:44",
+      "album": {
         "name": "Paradise",
         "url": "https://open.spotify.com/album/5ItabiqjFEYWwMFL1jBfve"
       },
@@ -1219,22 +1219,6 @@
       "duration_ms": 207160,
       "name": "Paradise",
       "url": "https://open.spotify.com/track/4j3ZYby4xNDuqfHb3Crm4k"
-    },
-    {
-      "added_at": "2023-11-30 22:07:44",
-      "album": {
-        "name": "I like you",
-        "url": "https://open.spotify.com/album/3fDyWpBQokx5FuzPIKeQOF"
-      },
-      "artists": [
-        {
-          "name": "Chilli Beans.",
-          "url": "https://open.spotify.com/artist/48apiuEaHdddhdRvfFjPB7"
-        }
-      ],
-      "duration_ms": 230000,
-      "name": "I like you",
-      "url": "https://open.spotify.com/track/3RJRPo3N1StuAjAjJqacYk"
     },
     {
       "added_at": "2023-11-30 22:07:44",
@@ -1267,6 +1251,22 @@
       "duration_ms": 195013,
       "name": "Suki Lie",
       "url": "https://open.spotify.com/track/45h7ZIjSfrPbhbl7EgwKwh"
+    },
+    {
+      "added_at": "2023-11-30 22:07:44",
+      "album": {
+        "name": "I like you",
+        "url": "https://open.spotify.com/album/3fDyWpBQokx5FuzPIKeQOF"
+      },
+      "artists": [
+        {
+          "name": "Chilli Beans.",
+          "url": "https://open.spotify.com/artist/48apiuEaHdddhdRvfFjPB7"
+        }
+      ],
+      "duration_ms": 230000,
+      "name": "I like you",
+      "url": "https://open.spotify.com/track/3RJRPo3N1StuAjAjJqacYk"
     },
     {
       "added_at": "2023-11-30 22:07:44",
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2023-11-30 22:07:44",
       "album": {
-        "name": "\u79c1\u306e\u307e\u307e\u3067",
-        "url": "https://open.spotify.com/album/1Z9No1qDbse2a6n5rCAl7B"
-      },
-      "artists": [
-        {
-          "name": "SHISHAMO",
-          "url": "https://open.spotify.com/artist/6MGHit7sV38BhpChZYByFv"
-        }
-      ],
-      "duration_ms": 255605,
-      "name": "\u79c1\u306e\u307e\u307e\u3067",
-      "url": "https://open.spotify.com/track/5yd9B49JLpmQls6NZmvXaI"
-    },
-    {
-      "added_at": "2023-11-30 22:07:44",
-      "album": {
         "name": "\u7d14\u611b\u30af\u30ed\u30fc\u30bc\u30c3\u30c8",
         "url": "https://open.spotify.com/album/5sZ9pXCCxfRLpVJ6QLrMw9"
       },
@@ -1447,6 +1431,22 @@
     {
       "added_at": "2023-11-30 22:07:44",
       "album": {
+        "name": "Under Mentality",
+        "url": "https://open.spotify.com/album/5EczjrV57LAp8bSNka5Wg7"
+      },
+      "artists": [
+        {
+          "name": "TUYU",
+          "url": "https://open.spotify.com/artist/0PHf0oiic0xAnCrRuLTtHl"
+        }
+      ],
+      "duration_ms": 203166,
+      "name": "It Might Be Painful, But I Still Love It.",
+      "url": "https://open.spotify.com/track/3v6m03G0wyCYUWXLrzRUPg"
+    },
+    {
+      "added_at": "2023-11-30 22:07:44",
+      "album": {
         "name": "Mori no chiisana restaurant",
         "url": "https://open.spotify.com/album/06ZsAXR2QKeZGVrLhqmbJa"
       },
@@ -1463,18 +1463,18 @@
     {
       "added_at": "2023-11-30 22:07:44",
       "album": {
-        "name": "Under Mentality",
-        "url": "https://open.spotify.com/album/5EczjrV57LAp8bSNka5Wg7"
+        "name": "\u79c1\u306e\u307e\u307e\u3067",
+        "url": "https://open.spotify.com/album/1Z9No1qDbse2a6n5rCAl7B"
       },
       "artists": [
         {
-          "name": "TUYU",
-          "url": "https://open.spotify.com/artist/0PHf0oiic0xAnCrRuLTtHl"
+          "name": "SHISHAMO",
+          "url": "https://open.spotify.com/artist/6MGHit7sV38BhpChZYByFv"
         }
       ],
-      "duration_ms": 203166,
-      "name": "It Might Be Painful, But I Still Love It.",
-      "url": "https://open.spotify.com/track/3v6m03G0wyCYUWXLrzRUPg"
+      "duration_ms": 255605,
+      "name": "\u79c1\u306e\u307e\u307e\u3067",
+      "url": "https://open.spotify.com/track/5yd9B49JLpmQls6NZmvXaI"
     },
     {
       "added_at": "2023-11-30 22:07:44",
@@ -1575,6 +1575,22 @@
     {
       "added_at": "2023-11-30 22:07:44",
       "album": {
+        "name": "\u958b\u9752",
+        "url": "https://open.spotify.com/album/3gCUsxrr1yBcbFu1co2bZ0"
+      },
+      "artists": [
+        {
+          "name": "asmi",
+          "url": "https://open.spotify.com/artist/3UY1KK0iXeC0mpaK0ltFza"
+        }
+      ],
+      "duration_ms": 205373,
+      "name": "\u958b\u9752",
+      "url": "https://open.spotify.com/track/4cJA1eDGR2G5vaeYeXdglV"
+    },
+    {
+      "added_at": "2023-11-30 22:07:44",
+      "album": {
         "name": "\u3046\u308c\u3057\u304f\u3066\uff0f\u3068\u304d\u3081\u304d",
         "url": "https://open.spotify.com/album/6Wm8TQQ90CrHqHrp9vmkwz"
       },
@@ -1591,18 +1607,18 @@
     {
       "added_at": "2023-11-30 22:07:44",
       "album": {
-        "name": "\u7834\u58ca\u524d\u591c\u306e\u3053\u3068",
-        "url": "https://open.spotify.com/album/5WKsrFoF3xsCQ4ui9d51Ud"
+        "name": "This Wish (From \"Wish\")",
+        "url": "https://open.spotify.com/album/2pHrb0sDgNX8wihQAATykv"
       },
       "artists": [
         {
-          "name": "asmi",
-          "url": "https://open.spotify.com/artist/3UY1KK0iXeC0mpaK0ltFza"
+          "name": "Erika Ikuta",
+          "url": "https://open.spotify.com/artist/1oFBCL5yLMgZBoXHsiE4JR"
         }
       ],
-      "duration_ms": 222240,
-      "name": "\u7834\u58ca\u524d\u591c\u306e\u3053\u3068",
-      "url": "https://open.spotify.com/track/7ccRC7ORwX4MqopJNucBai"
+      "duration_ms": 205480,
+      "name": "This Wish - From \"Wish\"",
+      "url": "https://open.spotify.com/track/6uWdq2JkWm76yNBeigEnSb"
     },
     {
       "added_at": "2023-11-30 22:07:44",
@@ -1619,22 +1635,6 @@
       "duration_ms": 235814,
       "name": "\u30de\u30fc\u30e1\u30a4\u30c9",
       "url": "https://open.spotify.com/track/2E0zCVEO5yKPlWPSY7Rk5e"
-    },
-    {
-      "added_at": "2023-11-30 22:07:44",
-      "album": {
-        "name": "This Wish (From \"Wish\")",
-        "url": "https://open.spotify.com/album/2pHrb0sDgNX8wihQAATykv"
-      },
-      "artists": [
-        {
-          "name": "Erika Ikuta",
-          "url": "https://open.spotify.com/artist/1oFBCL5yLMgZBoXHsiE4JR"
-        }
-      ],
-      "duration_ms": 205480,
-      "name": "This Wish - From \"Wish\"",
-      "url": "https://open.spotify.com/track/6uWdq2JkWm76yNBeigEnSb"
     },
     {
       "added_at": "2023-11-30 22:07:44",

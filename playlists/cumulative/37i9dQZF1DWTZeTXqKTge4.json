@@ -1700,7 +1700,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 272398,
       "name": "BOSSLAB",
       "url": "https://open.spotify.com/track/3slmbjKKWuyQUKHzbZPbEc"
@@ -3298,7 +3298,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 171147,
       "name": "DOUBLE BLOODY TEQUILA SPICY",
       "url": "https://open.spotify.com/track/35CT6vQO2llkhyUcDOMADH"
@@ -4638,10 +4638,28 @@
       ],
       "date_added": "2023-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 118919,
       "name": "GOD COMPLEX",
       "url": "https://open.spotify.com/track/7hKwyP2IULHzLwOildJdSo"
+    },
+    {
+      "album": {
+        "name": "MAELSTR\u00d6M",
+        "url": "https://open.spotify.com/album/6EpLt7pH9qtQMxT3nmTEAl"
+      },
+      "artists": [
+        {
+          "name": "Malko",
+          "url": "https://open.spotify.com/artist/501Uzli8ksZoUEWZj8uKJI"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119928,
+      "name": "GOD COMPLEX",
+      "url": "https://open.spotify.com/track/0zkWMIIyfZWPOXnjZyKqR7"
     },
     {
       "album": {
@@ -5206,7 +5224,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 164078,
       "name": "Infr\u00e9quentable",
       "url": "https://open.spotify.com/track/0ia2udJLezbOmjorQpK6el"
@@ -6302,6 +6320,24 @@
       "duration_ms": 158232,
       "name": "LFQB",
       "url": "https://open.spotify.com/track/4kw4akPXc0aMJJIklnSc3B"
+    },
+    {
+      "album": {
+        "name": "Liaison toxique",
+        "url": "https://open.spotify.com/album/3udeCmESR4MZ4F3AxRZySv"
+      },
+      "artists": [
+        {
+          "name": "DawaMafia",
+          "url": "https://open.spotify.com/artist/5yhoElw9gCKKsOAK1mmgHJ"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176843,
+      "name": "Liaison toxique",
+      "url": "https://open.spotify.com/track/2ty8WQ2JfPRvZEfgi68ltm"
     },
     {
       "album": {
@@ -10213,6 +10249,28 @@
     },
     {
       "album": {
+        "name": "438",
+        "url": "https://open.spotify.com/album/3r1jlLQDGr9fcc0VVC2NT2"
+      },
+      "artists": [
+        {
+          "name": "KNLO",
+          "url": "https://open.spotify.com/artist/56zW5cgHbn3F88lDBF6wAV"
+        },
+        {
+          "name": "Micro",
+          "url": "https://open.spotify.com/artist/6fIKBMQsifEPji0NkpoLml"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "TANNANCE",
+      "url": "https://open.spotify.com/track/2p74T4FWsclCtwapawzKns"
+    },
+    {
+      "album": {
         "name": "TEC",
         "url": "https://open.spotify.com/album/6XlTKcnoHUtoZ2yQUra9zf"
       },
@@ -11010,6 +11068,24 @@
       "duration_ms": 225007,
       "name": "Vertige",
       "url": "https://open.spotify.com/track/1ImplX8y9L2iv53JX2NkCy"
+    },
+    {
+      "album": {
+        "name": "VIAUVILLE",
+        "url": "https://open.spotify.com/album/6sKwsxSZk7W17bbYE7jwf6"
+      },
+      "artists": [
+        {
+          "name": "Calamine",
+          "url": "https://open.spotify.com/artist/1eYuV6IDT7vYuBdIF0SgjJ"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268037,
+      "name": "VIAUVILLE",
+      "url": "https://open.spotify.com/track/30g0IU3gMdc2hF7v09G5pG"
     },
     {
       "album": {

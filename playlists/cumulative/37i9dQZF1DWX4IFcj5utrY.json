@@ -4931,6 +4931,24 @@
     },
     {
       "album": {
+        "name": "Don't Let Me Down",
+        "url": "https://open.spotify.com/album/4gwdz8QYe6TIG3QapxhBbV"
+      },
+      "artists": [
+        {
+          "name": "Shane-D",
+          "url": "https://open.spotify.com/artist/6ciaH0Kj1WgoCJBZGQedRR"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149760,
+      "name": "Don't Let Me Down",
+      "url": "https://open.spotify.com/track/3FMuC2yPEbstGcBNeyFBvb"
+    },
+    {
+      "album": {
         "name": "Don't Wake Up (feat. Sir Trill)",
         "url": "https://open.spotify.com/album/1dH3eSlqKD3VW5b4Drrdfi"
       },
@@ -6218,6 +6236,28 @@
       "duration_ms": 334500,
       "name": "For Love",
       "url": "https://open.spotify.com/track/2tUtE7MXLpUD6YPMzKqdxU"
+    },
+    {
+      "album": {
+        "name": "For You",
+        "url": "https://open.spotify.com/album/3w9NkVTOW9G5pkw4l4AYQ3"
+      },
+      "artists": [
+        {
+          "name": "Eloi El",
+          "url": "https://open.spotify.com/artist/3fN5sNv6BOuzPD6r95XVNJ"
+        },
+        {
+          "name": "Kususa",
+          "url": "https://open.spotify.com/artist/4UcrwfAI09CLZ7aBXMiucJ"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242182,
+      "name": "For You",
+      "url": "https://open.spotify.com/track/0obPwk1OrhPBYXKLfOqRl6"
     },
     {
       "album": {
@@ -7962,6 +8002,24 @@
       "duration_ms": 248447,
       "name": "Ibala Lami (Radio Edit)",
       "url": "https://open.spotify.com/track/5xupTcr3cRi4vjR8W6Frs5"
+    },
+    {
+      "album": {
+        "name": "If U Need It",
+        "url": "https://open.spotify.com/album/628CN0UzuPsstc678cQ5Sn"
+      },
+      "artists": [
+        {
+          "name": "Sammy Virji",
+          "url": "https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179999,
+      "name": "If U Need It",
+      "url": "https://open.spotify.com/track/5CaUUACiQFEf4zR5WoeIrp"
     },
     {
       "album": {
@@ -9822,7 +9880,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 315897,
       "name": "Know My Worth",
       "url": "https://open.spotify.com/track/6C2L4UE4UOGUZLkRbSEMBr"
@@ -10180,6 +10238,28 @@
       "duration_ms": 208555,
       "name": "Lagos",
       "url": "https://open.spotify.com/track/050verdtSZUoGk72aCQS58"
+    },
+    {
+      "album": {
+        "name": "Chuki",
+        "url": "https://open.spotify.com/album/1VBNBDE64HPvshY3NuZZf8"
+      },
+      "artists": [
+        {
+          "name": "Euggy",
+          "url": "https://open.spotify.com/artist/0YptteJXaFS7w41fz81gsn"
+        },
+        {
+          "name": "Winyo",
+          "url": "https://open.spotify.com/artist/0xYZnLkJHs6y9Ts7Yq2C1C"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310344,
+      "name": "Lamo",
+      "url": "https://open.spotify.com/track/1iOIcF7VllhkZ1AQP3rhJy"
     },
     {
       "album": {
@@ -14418,7 +14498,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 222295,
       "name": "Premier Gaou - Nitefreak Remix",
       "url": "https://open.spotify.com/track/57e5ib2PnvuiaTvaI4jGDp"
@@ -15662,7 +15742,7 @@
       ],
       "date_added": "2023-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 190661,
       "name": "Senake - Radio Edit",
       "url": "https://open.spotify.com/track/4gmKpWRZydgXOMqhhMNEGU"
@@ -20254,7 +20334,7 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 249917,
       "name": "Whispers - Rosario Galati Remix",
       "url": "https://open.spotify.com/track/3Qx397PILapWMbrpvIQpbA"

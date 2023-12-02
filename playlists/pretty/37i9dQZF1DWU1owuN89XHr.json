@@ -1,12 +1,12 @@
 {
   "description": "Historias y versos que tocan la piel.",
-  "num_followers": 269844,
+  "num_followers": 269876,
   "original_name": "Esenciales Trova",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMWNlYTc0OGYxOWUxMDVkNTkyMjUxM2JiMTJiNGU3MGNhY2FlMmU5",
+  "snapshot_id": "MCxlM2YxMTBmN2M4ODZjZWIyNjdmOTQ4ZWNjMGU2OGQzOTExOWU0NDA5",
   "tracks": [
     {
       "added_at": "2021-07-29 16:46:05",
@@ -535,22 +535,6 @@
     {
       "added_at": "2021-07-29 16:46:05",
       "album": {
-        "name": "Pablo Milan\u00e9s: Un Concierto para Am\u00e9rica (Live)",
-        "url": "https://open.spotify.com/album/128iTJllUXrFI9VogghxEJ"
-      },
-      "artists": [
-        {
-          "name": "Pablo Milan\u00e9s",
-          "url": "https://open.spotify.com/artist/4vOfKh5wz7lTcdqB3EwsC5"
-        }
-      ],
-      "duration_ms": 268964,
-      "name": "El Breve Espacio en Que No Est\u00e1s - Live",
-      "url": "https://open.spotify.com/track/5gqjhBhOtdSJpB7el7VXCj"
-    },
-    {
-      "added_at": "2021-07-29 16:46:05",
-      "album": {
         "name": "Coincidir",
         "url": "https://open.spotify.com/album/4TKIvzhvDdeeNvgrk8nryH"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 163720,
       "name": "Coincidir",
       "url": "https://open.spotify.com/track/7st3JWQK2B5mSmm9esWNu8"
+    },
+    {
+      "added_at": "2021-07-29 16:46:05",
+      "album": {
+        "name": "Pablo Milan\u00e9s: Un Concierto para Am\u00e9rica (Live)",
+        "url": "https://open.spotify.com/album/128iTJllUXrFI9VogghxEJ"
+      },
+      "artists": [
+        {
+          "name": "Pablo Milan\u00e9s",
+          "url": "https://open.spotify.com/artist/4vOfKh5wz7lTcdqB3EwsC5"
+        }
+      ],
+      "duration_ms": 268964,
+      "name": "El Breve Espacio en Que No Est\u00e1s - Live",
+      "url": "https://open.spotify.com/track/5gqjhBhOtdSJpB7el7VXCj"
     },
     {
       "added_at": "2021-07-29 16:46:05",
@@ -1052,33 +1052,25 @@
           "url": "https://open.spotify.com/artist/58wRCWfE39AuN6fvXRdWN2"
         }
       ],
-      "duration_ms": 174026,
-      "name": "Al Doblar la Esquina",
-      "url": "https://open.spotify.com/track/20Z6RhspI9iQOGPwJ6oDl9"
+      "duration_ms": 194680,
+      "name": "Quiero Abrazarte Tanto",
+      "url": "https://open.spotify.com/track/6GmdNYTVg5B38w4kAAcj0n"
     },
     {
       "added_at": "2021-07-29 16:46:05",
       "album": {
-        "name": "14 de Ciento Volando de 14",
-        "url": "https://open.spotify.com/album/3LsMHrpcvea3tvd3zl16DX"
+        "name": "La vida entera",
+        "url": "https://open.spotify.com/album/1v0TN5nqDNPhvOa35y4IOH"
       },
       "artists": [
         {
-          "name": "Pedro Guerra",
-          "url": "https://open.spotify.com/artist/2GrNjfw23jqL1NTopPlc6c"
-        },
-        {
-          "name": "Joaqu\u00edn Sabina",
-          "url": "https://open.spotify.com/artist/4aeIWo5CMF1uRmqgJdwkZW"
-        },
-        {
-          "name": "Miguel Poveda",
-          "url": "https://open.spotify.com/artist/0BwjxWHTct80Qp5Xk7pxZj"
+          "name": "Jorge Drexler",
+          "url": "https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt"
         }
       ],
-      "duration_ms": 154800,
-      "name": "A Sabicas (with Joaqu\u00edn Sabina & Miguel Poveda)",
-      "url": "https://open.spotify.com/track/4wc6PmKBQUA1VNvrmk89Ad"
+      "duration_ms": 228105,
+      "name": "La vida entera",
+      "url": "https://open.spotify.com/track/5es8rVnIOOHzZ2FsFQBftF"
     },
     {
       "added_at": "2021-07-29 16:46:05",
@@ -1119,18 +1111,26 @@
     {
       "added_at": "2021-07-29 16:46:05",
       "album": {
-        "name": "La vida entera",
-        "url": "https://open.spotify.com/album/1v0TN5nqDNPhvOa35y4IOH"
+        "name": "14 de Ciento Volando de 14",
+        "url": "https://open.spotify.com/album/3LsMHrpcvea3tvd3zl16DX"
       },
       "artists": [
         {
-          "name": "Jorge Drexler",
-          "url": "https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt"
+          "name": "Pedro Guerra",
+          "url": "https://open.spotify.com/artist/2GrNjfw23jqL1NTopPlc6c"
+        },
+        {
+          "name": "Joaqu\u00edn Sabina",
+          "url": "https://open.spotify.com/artist/4aeIWo5CMF1uRmqgJdwkZW"
+        },
+        {
+          "name": "Miguel Poveda",
+          "url": "https://open.spotify.com/artist/0BwjxWHTct80Qp5Xk7pxZj"
         }
       ],
-      "duration_ms": 228105,
-      "name": "La vida entera",
-      "url": "https://open.spotify.com/track/5es8rVnIOOHzZ2FsFQBftF"
+      "duration_ms": 154800,
+      "name": "A Sabicas (with Joaqu\u00edn Sabina & Miguel Poveda)",
+      "url": "https://open.spotify.com/track/4wc6PmKBQUA1VNvrmk89Ad"
     },
     {
       "added_at": "2021-07-29 16:46:05",
@@ -1144,9 +1144,9 @@
           "url": "https://open.spotify.com/artist/58wRCWfE39AuN6fvXRdWN2"
         }
       ],
-      "duration_ms": 194680,
-      "name": "Quiero Abrazarte Tanto",
-      "url": "https://open.spotify.com/track/6GmdNYTVg5B38w4kAAcj0n"
+      "duration_ms": 174026,
+      "name": "Al Doblar la Esquina",
+      "url": "https://open.spotify.com/track/20Z6RhspI9iQOGPwJ6oDl9"
     },
     {
       "added_at": "2021-07-29 16:46:05",

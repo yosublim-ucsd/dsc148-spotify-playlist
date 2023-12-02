@@ -99,6 +99,28 @@
     },
     {
       "album": {
+        "name": "Sentimiento, Elegancia y M\u00e1s Maldad",
+        "url": "https://open.spotify.com/album/21TAcmAXy0OY0U7B9LlwlY"
+      },
+      "artists": [
+        {
+          "name": "Arc\u00e1ngel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+        },
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224285,
+      "name": "ALV",
+      "url": "https://open.spotify.com/track/32hCeeK3ayPux4UauNPsgA"
+    },
+    {
+      "album": {
         "name": "AMOR PROPIO",
         "url": "https://open.spotify.com/album/7z3Yk4R2PWF0jkQp4ZKX4y"
       },
@@ -642,7 +664,7 @@
       ],
       "date_added": "2023-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 217495,
       "name": "Locamente Enamorado",
       "url": "https://open.spotify.com/track/4flttXINh6lGchVRSlEBGC"
@@ -790,7 +812,7 @@
       ],
       "date_added": "2023-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 208049,
       "name": "Ojala y te animes",
       "url": "https://open.spotify.com/track/0gdHT6RFfRvrjnnFbKzfL1"
@@ -946,6 +968,32 @@
       "duration_ms": 232173,
       "name": "Quisiera Tenerte",
       "url": "https://open.spotify.com/track/6hBvPqvKtWteISagvdDjmq"
+    },
+    {
+      "album": {
+        "name": "Qu\u00e9 Pensaste",
+        "url": "https://open.spotify.com/album/1375E6oaMeXeSJM7Y0zWes"
+      },
+      "artists": [
+        {
+          "name": "Grupo Dominio",
+          "url": "https://open.spotify.com/artist/3AIAbiLXeCSSSqYqo8zMAi"
+        },
+        {
+          "name": "Jessi Uribe",
+          "url": "https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS"
+        },
+        {
+          "name": "Paola Jara",
+          "url": "https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200232,
+      "name": "Qu\u00e9 Pensaste",
+      "url": "https://open.spotify.com/track/1qde1NqHQno17MdNziaYmN"
     },
     {
       "album": {

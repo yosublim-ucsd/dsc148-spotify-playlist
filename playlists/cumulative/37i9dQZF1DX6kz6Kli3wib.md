@@ -4,7 +4,7 @@
 
 > Soft electronic music for your dinner.
 
-289 songs - 14 hr 3 min
+290 songs - 14 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,6 +62,7 @@
 | [Clavicula](https://open.spotify.com/track/7eh9aE0YNF2qNY4LfRZmfA) | [Dec Léor](https://open.spotify.com/artist/6X7BrtwoFiGzjfYNrBHeeN) | [Clavicula](https://open.spotify.com/album/39dzg3N8B8DP4k7Am5p761) | 2:47 | 2023-07-14 |  |
 | [Close 2 You](https://open.spotify.com/track/6bHFhlpbNHRBhYZlDxpsi8) | [dim figure](https://open.spotify.com/artist/73aCJRcmbFDz9Z8hlt1Oq9) | [Close 2 You](https://open.spotify.com/album/5OkvqQZinScYm3CE3DVqO1) | 2:40 | 2023-02-03 |  |
 | [Coalesced](https://open.spotify.com/track/3yH4WIf5umBgIzgsyajkWH) | [Second Service](https://open.spotify.com/artist/6aWs9S4SEEXw4ZRLkcYliz) | [Coalesced](https://open.spotify.com/album/4nafINuhYshm1Npb3Wqamt) | 2:58 | 2021-11-11 | 2023-06-03 |
+| [Coconut Breeze](https://open.spotify.com/track/4kO6yKGT81BjnfSCzH6HMc) | [Conte Prad](https://open.spotify.com/artist/0ieNGPIGBwKTkc7fPXXigX) | [Coconut Breeze](https://open.spotify.com/album/3QoGyBUVm0IEbgwop3Ozlz) | 2:28 | 2023-12-01 |  |
 | [Concession](https://open.spotify.com/track/24ad6v49HSgza51bogmg98) | [Ash Spark](https://open.spotify.com/artist/4nByMghGme4u8Zq4uSuh6w) | [Concession](https://open.spotify.com/album/0W9VfRzTmuPzJmoIb39wzf) | 2:49 | 2021-11-11 |  |
 | [Copycat](https://open.spotify.com/track/4fRDbN8d9hKBbYs0rG4El0) | [Far Orange](https://open.spotify.com/artist/1SIt7IjD8Q9RpwEklyMlUO) | [Copycat / Sunspot](https://open.spotify.com/album/5rgFFppEQzw3lOlzgIPmKV) | 5:54 | 2021-11-11 | 2022-02-11 |
 | [Coral Beach](https://open.spotify.com/track/0aymtzpvO3QufAK2MbSBHd) | [Gold Glo](https://open.spotify.com/artist/5OOBTy3uO1KvzwexXmMhVz) | [Coral Beach](https://open.spotify.com/album/6aR9tPyi2VE3f1rQo9dy2j) | 2:45 | 2021-11-11 | 2022-04-15 |
@@ -156,7 +157,7 @@
 | [Luna](https://open.spotify.com/track/3K24SOeQymC34pXPJq2ian) | [Venus Bay](https://open.spotify.com/artist/6LUI0R17HWaZZPh7xDYzNp) | [Luna](https://open.spotify.com/album/6HMxIJa3vbn5re4tapLD34) | 3:01 | 2021-11-11 | 2022-04-15 |
 | [Lunar Eclipse](https://open.spotify.com/track/5DUNwt1A9BmKM0mWhufyAn) | [Serge Rey](https://open.spotify.com/artist/0KKCxS6r36wfKylvGK1gSy) | [Lunar Eclipse](https://open.spotify.com/album/4OeQwVd6QMFEtYordZZJV8) | 3:12 | 2021-11-11 | 2022-01-22 |
 | [luscious](https://open.spotify.com/track/7I7Y9ZPGOLbtpjs39VVH2o) | [temperley](https://open.spotify.com/artist/5lDF5BScxTU2sgkyqBONFU) | [luscious](https://open.spotify.com/album/4w7NyepbdBl8SVahPqD2O9) | 2:51 | 2022-05-13 |  |
-| [Magashi](https://open.spotify.com/track/7tONyJJejLCK78e4xX7xa8) | [Ørn](https://open.spotify.com/artist/2g8oDoqZwwzpF6Km7f0kp2) | [Magashi](https://open.spotify.com/album/6yKU6BYwDtZMwo3xLGHqTv) | 3:13 | 2023-05-26 |  |
+| [Magashi](https://open.spotify.com/track/7tONyJJejLCK78e4xX7xa8) | [Ørn](https://open.spotify.com/artist/2g8oDoqZwwzpF6Km7f0kp2) | [Magashi](https://open.spotify.com/album/6yKU6BYwDtZMwo3xLGHqTv) | 3:13 | 2023-05-26 | 2023-12-02 |
 | [Mannequin](https://open.spotify.com/track/36Uz12ctE58QztkK67Doya) | [Chewy WO](https://open.spotify.com/artist/3pa7MdSYqgFazXfYIQehhV) | [Mannequin](https://open.spotify.com/album/4k3gJQHthd1Vcs90viihk1) | 3:09 | 2021-11-11 | 2022-02-11 |
 | [Manzana](https://open.spotify.com/track/03nyiU9gpCQSywZIGK2LGM) | [West & Zander](https://open.spotify.com/artist/2Zjic6AMVbL0WvXf5ll1lA) | [Manzana](https://open.spotify.com/album/28Z3NNHpbtL0aqhAWLuIIb) | 3:25 | 2022-07-29 | 2022-10-14 |
 | [Massachusetts](https://open.spotify.com/track/4aLKDpv19Y6eH21QZPmiUR) | [Hey Aura](https://open.spotify.com/artist/1LkPLzQZg2M4H0XUWDaclS) | [Massachusetts](https://open.spotify.com/album/0dQ8osFOicaP7MFmU0Css2) | 2:12 | 2021-11-11 |  |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-24",
-  "description": "hariel o maior que n\u00f3s temos rel\u00edquia da filosofia",
+  "description": "a meta \u00e9 ficar focad\u00e3o nos planos n\u00e9 little hair",
   "name": "creme",
   "tracks": [
     {
@@ -20,6 +20,32 @@
       "duration_ms": 0,
       "name": "",
       "url": "https://open.spotify.com/track/0uGpWtQgtZ6UcFXnFiNhNq"
+    },
+    {
+      "album": {
+        "name": "Fra\u00e7\u00e3o 3/4",
+        "url": "https://open.spotify.com/album/387TbDSzjAzUK1kfVlZaRh"
+      },
+      "artists": [
+        {
+          "name": "Mc Luanna",
+          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
+        },
+        {
+          "name": "Mello Santana",
+          "url": "https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY"
+        },
+        {
+          "name": "Greezy",
+          "url": "https://open.spotify.com/artist/3exY81LSlWqpL03GFPTEgB"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158884,
+      "name": "+18",
+      "url": "https://open.spotify.com/track/3Yzm8lrmibXZyzg2vUYLe8"
     },
     {
       "album": {
@@ -46,6 +72,28 @@
       "duration_ms": 128503,
       "name": "01 N\u00e3o \u00c9 02",
       "url": "https://open.spotify.com/track/27ECP9NCzTAoTpxXNePZuS"
+    },
+    {
+      "album": {
+        "name": "10 Carros",
+        "url": "https://open.spotify.com/album/1ZakiImfctMIFKkLNIDlcI"
+      },
+      "artists": [
+        {
+          "name": "Chefin",
+          "url": "https://open.spotify.com/artist/68PYmgkbRP1qZnEWOry7sB"
+        },
+        {
+          "name": "Mainstreet",
+          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141176,
+      "name": "10 Carros",
+      "url": "https://open.spotify.com/track/2twZl1jsRbJRTNCE6VB6eW"
     },
     {
       "album": {
@@ -1048,7 +1096,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 131927,
       "name": "Bonjour",
       "url": "https://open.spotify.com/track/2tFmuYL5D8zqBHvs0nG5Tn"
@@ -3318,7 +3366,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 177230,
       "name": "Karma",
       "url": "https://open.spotify.com/track/3LLoZcwEjjApTTTtUdTNDo"
@@ -7069,7 +7117,7 @@
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 131538,
+      "duration_ms": 110769,
       "name": "Tipo Hollywood",
       "url": "https://open.spotify.com/track/6zLBR9izBeZ1d0pfuwJgRa"
     },

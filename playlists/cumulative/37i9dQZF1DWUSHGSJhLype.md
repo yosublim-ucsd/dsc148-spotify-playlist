@@ -2,7 +2,7 @@
 
 ### [Puro SUCO DE BRASIL](https://open.spotify.com/playlist/37i9dQZF1DWUSHGSJhLype)
 
-> aquele mexidão envolvente que o brasileiro ama / Foto: Leo Santana, Zé Felipe
+> aqui tem tacacá cuscuz pizza com ketchup hot dog com purê baião d dois e feijoada espero q gostem / Foto: Joelma
 
 187 songs - 8 hr 54 min
 
@@ -173,7 +173,7 @@
 | [Tchuco Nela](https://open.spotify.com/track/3ShKPhFkexrwl7WoyTtNND) | [MC Rogerinho](https://open.spotify.com/artist/5JbQpbeFaKfuZVFzKwaawP), [Wesley Safadão](https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa) | [Tchuco Nela](https://open.spotify.com/album/15MbkLbjzgrQchBQwybR5L) | 2:50 | 2023-05-15 |  |
 | [Te Love \- Ao Vivo](https://open.spotify.com/track/6TnCI16uLWhyQCrHva9VWj) | [Kevi Jonny](https://open.spotify.com/artist/3PVg0vaMUNTOu7C2GmYfSg) | [Te Love \(Ao Vivo\)](https://open.spotify.com/album/0CbwVnmNGzzjFxnkuFLQTX) | 2:49 | 2023-05-15 |  |
 | [Tem Cabaré Essa Noite](https://open.spotify.com/track/25rz3D4oroFC0GXm3xFXnG) | [Nivaldo Marques](https://open.spotify.com/artist/38KlCsh4vAknywZfVbJuvH), [NATTAN](https://open.spotify.com/artist/1SXhEXzOTF7YeuQX59m7pT) | [Tem Cabaré Essa Noite](https://open.spotify.com/album/3TZPyR5hOBzLOO6iBuhfL2) | 3:22 | 2023-05-15 | 2023-08-12 |
-| [Tipo Hollywood](https://open.spotify.com/track/6zLBR9izBeZ1d0pfuwJgRa) | [Mc Ws da leste](https://open.spotify.com/artist/5Rs4gTYf15iES8jXZqhx2L), [Dj Chadin do C](https://open.spotify.com/artist/1vzbmGlmb0yoO6drUgxm5C), [MC Cothiê](https://open.spotify.com/artist/0TfWqqSFcyuhcNnp5oL83k) | [Tipo Hollywood](https://open.spotify.com/album/4KTN4Sx4Dp1G3MrgUTcZv6) | 2:11 | 2023-11-27 |  |
+| [Tipo Hollywood](https://open.spotify.com/track/6zLBR9izBeZ1d0pfuwJgRa) | [Mc Ws da leste](https://open.spotify.com/artist/5Rs4gTYf15iES8jXZqhx2L), [Dj Chadin do C](https://open.spotify.com/artist/1vzbmGlmb0yoO6drUgxm5C), [MC Cothiê](https://open.spotify.com/artist/0TfWqqSFcyuhcNnp5oL83k) | [Tipo Hollywood](https://open.spotify.com/album/4KTN4Sx4Dp1G3MrgUTcZv6) | 1:50 | 2023-11-27 |  |
 | [Toca o Trompete](https://open.spotify.com/track/54u86CmMqGI1rRuULlTqaB) | [Felipe Amorim](https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U) | [Cadê o After? Pt\. 1](https://open.spotify.com/album/4Vy1Rn4htx3L0ojjaeePww) | 2:43 | 2023-07-21 |  |
 | [Todo Amor do Mundo](https://open.spotify.com/track/1M9JZXjz6GCUH7VbFFBmJx) | [Ferrugem](https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2) | [Interessante](https://open.spotify.com/album/2oY868IbyPjEOmHjeI3dCG) | 3:06 | 2023-10-23 |  |
 | [Traumatizei \- Ao Vivo Em Brasília](https://open.spotify.com/track/0JIYoXtJfORxI6gRpHv6ZW) | [Henrique & Juliano](https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT) | [To Be \(Ao Vivo Em Brasília EP1\)](https://open.spotify.com/album/7Gg88I2AY86RasStaV0rWW) | 2:52 | 2023-05-15 | 2023-07-22 |

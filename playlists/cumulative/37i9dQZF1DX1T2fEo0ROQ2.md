@@ -4,7 +4,7 @@
 
 > Relaxing and salutary ambient music.
 
-418 songs - 21 hr 51 min
+422 songs - 22 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [A new day](https://open.spotify.com/track/36rrXNpPdOpmHpI2vZECFd) | [Nadine Gaertner](https://open.spotify.com/artist/20pShYixHbYfabMneFBBAW) | [A new day](https://open.spotify.com/album/6PaweQ9HpdnCbZyYDMAwrc) | 2:40 | 2022-05-26 |  |
 | [A Serenity Sleep](https://open.spotify.com/track/3WpDx9MTYACfxyZRMstRJR) | [Constellation Sound](https://open.spotify.com/artist/75vDpcPUORxddJKQvF6s1a) | [A Serenity Sleep](https://open.spotify.com/album/1PTu8nT3OzYXWWOt8f2VRc) | 2:25 | 2022-05-26 | 2023-05-20 |
 | [A Spotless Mind](https://open.spotify.com/track/4tZVecOHfomT1ffDPYN7bP) | [Michel LeBond](https://open.spotify.com/artist/49r28kFLIBUEgxnjLUvUwA) | [Eternal Sunshine of](https://open.spotify.com/album/1lHy2i4BtaeDccL7h4yiHN) | 3:27 | 2022-05-26 | 2022-08-16 |
+| [A World Away](https://open.spotify.com/track/2q2BfGBehYrqv7SHkqzldR) | [Kaleido Young](https://open.spotify.com/artist/4c4Y540mQ31qDu85OrbURi) | [A World Away](https://open.spotify.com/album/0QYPZ8iuY45cLrq3oFGMJG) | 2:20 | 2023-12-01 |  |
 | [Acacia](https://open.spotify.com/track/2sNM2lnVgJmPJVQcxtktia) | [Abyssé](https://open.spotify.com/artist/4ZSC7QqnOxFeyGaAb2pKnQ) | [Acacia](https://open.spotify.com/album/7a4ED2FDeYHgEKMejdSCwy) | 3:30 | 2022-05-26 |  |
 | [Acceptance](https://open.spotify.com/track/5QeQFwJ4WN1CCtqalohl5y) | [Minnie Delarosa](https://open.spotify.com/artist/5abR6pakumxnpAm0OXTMJX) | [Acceptance](https://open.spotify.com/album/07D4Pc9dTzMWGdnZuXnP9m) | 3:07 | 2022-05-26 |  |
 | [Acércate](https://open.spotify.com/track/6cCJLQydZi0hOugxKQPZUZ) | [Pearl Melendez](https://open.spotify.com/artist/6UGfKivLtHEJnrNdPcZHZh) | [Acércate](https://open.spotify.com/album/3eukHG5mbRadhylbLUSHU9) | 3:13 | 2022-05-26 |  |
@@ -189,6 +190,7 @@
 | [Interpretations](https://open.spotify.com/track/6PIbpT7ray6ixif2v6RIIa) | [Howard Harper\-Barnes](https://open.spotify.com/artist/447ceX8wMVdX94yevKZFDe) | [Whisper of the Pines](https://open.spotify.com/album/4s6a8srmUVV3FBbhNIdqTj) | 2:37 | 2022-05-26 | 2023-03-04 |
 | [Into Some Spirit World](https://open.spotify.com/track/0vrzuqnRLa6icpqTHp9ifS) | [Geotic](https://open.spotify.com/artist/30wki8WYREGLQPm623vzkZ) | [Mend](https://open.spotify.com/album/4YBtOJTZx52vGVcI7Nkuss) | 3:04 | 2022-07-22 | 2023-09-09 |
 | [Into Some Spirit World](https://open.spotify.com/track/2SmpFBzYbSUeWo5UzQam0j) | [Geotic](https://open.spotify.com/artist/30wki8WYREGLQPm623vzkZ) | [Mend](https://open.spotify.com/album/5HLBAmCpz97MDLIlGZkJ5T) | 3:04 | 2022-05-26 | 2022-07-29 |
+| [Jasper](https://open.spotify.com/track/2AG8ZJpqCZBAGYJKuWEXUr) | [Crystal Fragments](https://open.spotify.com/artist/3crlQoae3kpZFKLtSCxrnM) | [Jasper](https://open.spotify.com/album/0rklMojfiPjGxBSRVOGLrw) | 3:10 | 2023-12-01 |  |
 | [Jupiter Sunrise](https://open.spotify.com/track/1tQKUYjY3h950XByYm0ZAf) | [Oliver Évilo](https://open.spotify.com/artist/6pr16671AS8qchaPqDDM0Y) | [Jupiter Sunrise](https://open.spotify.com/album/0HkECsNONkYufTgr4dnBJv) | 2:58 | 2022-05-26 |  |
 | [Just In View](https://open.spotify.com/track/5OJoZKBKLoJACasfMrKrCv) | [Euloria](https://open.spotify.com/artist/0bvbu0duux79xFOXVaaozq) | [Just In View](https://open.spotify.com/album/4e52GFe6T8POxpBMXqbTG7) | 3:29 | 2022-05-26 |  |
 | [juu](https://open.spotify.com/track/55nogKh6Ns5mO0PaEpZPrv) | [Echoes and Frequencies](https://open.spotify.com/artist/4GiTtneqRxV5TqUD5KjgeJ) | [juu](https://open.spotify.com/album/5pmfLhKpvk8KmNqA5ayiUq) | 3:21 | 2023-05-19 |  |
@@ -208,6 +210,7 @@
 | [Levitation](https://open.spotify.com/track/7sDw7w9CNE4NXO30E7Hcr2) | [Rippness.](https://open.spotify.com/artist/1QxFVzh0whkoFwPgwxfmBx) | [Red Sky](https://open.spotify.com/album/3BwaHNXVmLZiqbKs8Gf4J8) | 3:10 | 2023-02-24 |  |
 | [Liberation](https://open.spotify.com/track/5t4VSTxtgOvcAsk5FcKnh7) | [Arush Mandal](https://open.spotify.com/artist/5WSATrMjcuhKibg0jp4uHI) | [Eternal Self](https://open.spotify.com/album/79CUupsxoVX30cRSdKJJWQ) | 2:43 | 2022-05-26 | 2023-07-29 |
 | [Libero](https://open.spotify.com/track/5pWWLk03VKmzHE8bgDczyx) | [André Calmaz](https://open.spotify.com/artist/6wMD854zzb5SpQuyjAQLht) | [Evanescenza](https://open.spotify.com/album/0YeEbaafXj7QU1rY5Rn2KK) | 3:06 | 2023-01-27 |  |
+| [Life Of Hope](https://open.spotify.com/track/1ZAODInOBbfSiuSQlWtFos) | [Leo Mano](https://open.spotify.com/artist/1x9ObNWFFnva8uRVSFdvTM) | [Life Of Hope](https://open.spotify.com/album/7ze9mIu9aM6SAsMI7ogOA0) | 2:53 | 2023-12-01 |  |
 | [Light](https://open.spotify.com/track/0peYIO0XdyvdK2znrrH3ys) | [Mina Rojas](https://open.spotify.com/artist/492hHpujOt6WZGWFSy2712) | [Light](https://open.spotify.com/album/2MCEhwQ8lurgvTkZ7WMrjI) | 2:49 | 2022-09-02 |  |
 | [Light Wings](https://open.spotify.com/track/35InIo8y15nRhxFhXlE9KG) | [Darlan Vado](https://open.spotify.com/artist/5V2NXfQ1354qTgxy8r00kl) | [Light Wings](https://open.spotify.com/album/6YKV9jMAqOso3QRCsVwmC2) | 2:24 | 2022-05-26 |  |
 | [Little Nocturne](https://open.spotify.com/track/0kCPKFSme4AMah0o6CJMPz) | [Josep Alba](https://open.spotify.com/artist/67X3gp8Bvmxl4fmYcuX7JG) | [Siesta](https://open.spotify.com/album/4e1cIbl8RzlZTekDctsAwm) | 1:38 | 2022-05-26 | 2022-12-31 |
@@ -215,6 +218,7 @@
 | [Lost at Sea](https://open.spotify.com/track/13TlLMjvV0pZqBF7DKIs94) | [The Tides](https://open.spotify.com/artist/0Z3GVEGMJYq0nTdZNJAx4V) | [Wandering the Coast](https://open.spotify.com/album/2ufoGt7vrupWII9nAa2pfa) | 3:12 | 2022-05-26 |  |
 | [Lost In Thought](https://open.spotify.com/track/22vY259m2QQnjxjhW3cabS) | [Richter Gravitas](https://open.spotify.com/artist/2DLiGfmS8hciTINAkqY2XG) | [More Than Anything](https://open.spotify.com/album/5G1UXmHAHZzhqY4qel3ZEe) | 1:55 | 2022-11-22 | 2023-07-29 |
 | [Lucid](https://open.spotify.com/track/3TKabaNGBzTez8EOGbdxrs) | [Astron](https://open.spotify.com/artist/6qiuwoB9ro3SX0ZjSXnr0y) | [Falling Deeply](https://open.spotify.com/album/3zbWYMOUTQ7NkicTxKmAJQ) | 3:25 | 2022-05-26 | 2023-08-05 |
+| [lucid](https://open.spotify.com/track/6v4GhvB0MKJxyQFJg7lkLF) | [Semaphore](https://open.spotify.com/artist/6DrUO7tFv2WDlPuibMoNcV) | [lucid](https://open.spotify.com/album/0HChcKa0H2YEitThGSmi3r) | 2:39 | 2023-12-01 |  |
 | [Lucid Alchemy](https://open.spotify.com/track/7u7dK1IXsG4jdB6bK9PCFm) | [Ruud Vanderwege](https://open.spotify.com/artist/4NuHYRjb3dq4fdAel5W46H) | [Lucid Alchemy](https://open.spotify.com/album/4X8CwAlT2DY2CAtt4H6bHz) | 4:18 | 2022-05-26 | 2022-09-03 |
 | [Lunar Glow](https://open.spotify.com/track/1aprpxWKe3dmT8uzc6bhvG) | [Ookean](https://open.spotify.com/artist/3RRjbAYUzANb74qkNyT7vF) | [Ocean Call](https://open.spotify.com/album/6KoognMXwtcMf1seBHZbDG) | 3:06 | 2022-05-26 |  |
 | [Lupus Dream](https://open.spotify.com/track/5PZASTgARJNAA849LvrAz5) | [Lama House](https://open.spotify.com/artist/3We2SFbH59mXg6D42TPhWJ) | [A New Constellation](https://open.spotify.com/album/20auUkhq5BLo3ab520baTi) | 3:17 | 2022-05-26 | 2023-07-29 |

@@ -907,6 +907,24 @@
     },
     {
       "album": {
+        "name": "Lifetimes",
+        "url": "https://open.spotify.com/album/1gY7CgRXNmKLPy1GrYKPCf"
+      },
+      "artists": [
+        {
+          "name": "Frya",
+          "url": "https://open.spotify.com/artist/5ebYNYTR9S7tbTrUJldiOB"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217627,
+      "name": "I Waited",
+      "url": "https://open.spotify.com/track/6v1OHooaBNAIxRZlADN7G3"
+    },
+    {
+      "album": {
         "name": "Things We Feel",
         "url": "https://open.spotify.com/album/1OSJjMs1WGeQYj9syquxGO"
       },

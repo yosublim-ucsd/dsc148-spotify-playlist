@@ -987,6 +987,28 @@
     },
     {
       "album": {
+        "name": "Eternal Rave",
+        "url": "https://open.spotify.com/album/5nIGJ0xAgOpX6q4IpOVLiv"
+      },
+      "artists": [
+        {
+          "name": "Fyex",
+          "url": "https://open.spotify.com/artist/7i7ddOIQP0uI3ktGxI0zkM"
+        },
+        {
+          "name": "Dj Samir",
+          "url": "https://open.spotify.com/artist/6U0dJxYVB41L8WDZ02Nwuk"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121908,
+      "name": "Eternal Rave",
+      "url": "https://open.spotify.com/track/6qA8tFC2wRG2Tl4yR6ZLjP"
+    },
+    {
+      "album": {
         "name": "Euro Visions (Marlon Hoffstadt AKA Dj Daddy Trance Remix)",
         "url": "https://open.spotify.com/album/0C3yLvZNlvr1deVChjY2PZ"
       },
@@ -1637,7 +1659,7 @@
     },
     {
       "album": {
-        "name": "In The City (with Charli XCX & Sam Smith) [DJ HEARTSTRING Remix]",
+        "name": "In The City (Charli XCX & Sam Smith) [DJ HEARTSTRING REMIX]",
         "url": "https://open.spotify.com/album/4DgbJO2O9XXAMYXP6j3cX6"
       },
       "artists": [
@@ -1658,7 +1680,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 213937,
-      "name": "In The City (with Charli XCX & Sam Smith) - DJ HEARTSTRING Remix",
+      "name": "In The City (Charli XCX & Sam Smith) - DJ HEARTSTRING REMIX",
       "url": "https://open.spotify.com/track/1PPyQo1k7wI1U6BcaD0ZfT"
     },
     {

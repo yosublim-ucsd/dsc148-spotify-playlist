@@ -1,12 +1,12 @@
 {
   "description": "Porque el coraz\u00f3n habla vallenato. \u00a1Ay ombe!",
-  "num_followers": 101802,
+  "num_followers": 101911,
   "original_name": "Vallenato Rom\u00e1ntico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMTJjNjdkZjZhNmNlNDFhYmVkODk0NzVjMmNiNGI4OTFjZTdkNTM4",
+  "snapshot_id": "MCxhYmRlYjRhN2RmOTE5ZTNjNjY0NDcwYmE4Y2I5ODFjZTJjZjUyZjQ5",
   "tracks": [
     {
       "added_at": "2022-12-16 20:17:47",
@@ -587,18 +587,22 @@
     {
       "added_at": "2022-12-16 20:17:47",
       "album": {
-        "name": "La Historia Continua",
-        "url": "https://open.spotify.com/album/7tOgagliNLN0RTLt0t0ODM"
+        "name": "El Caballero Del Vallenato",
+        "url": "https://open.spotify.com/album/3Yiy89tCsNKNpxffyrheo9"
       },
       "artists": [
         {
-          "name": "El Gran Mart\u00edn El\u00edas",
-          "url": "https://open.spotify.com/artist/15g2N69hNuvVjSUqa9Entz"
+          "name": "Peter Manjarr\u00e9s",
+          "url": "https://open.spotify.com/artist/5p1D7KgsRRcS9gpQyRARrL"
+        },
+        {
+          "name": "Sergio Luis Rodr\u00edguez",
+          "url": "https://open.spotify.com/artist/6IA0c7ljnyM14XsePnrFpw"
         }
       ],
-      "duration_ms": 315862,
-      "name": "10 Razones Para Amarte",
-      "url": "https://open.spotify.com/track/4chfldJFfWiuuSx1n3mojQ"
+      "duration_ms": 247813,
+      "name": "Traga'O De T\u00ed",
+      "url": "https://open.spotify.com/track/4dxEJbnuN5EXg5Ak8RJULL"
     },
     {
       "added_at": "2022-12-16 20:17:47",
@@ -655,22 +659,18 @@
     {
       "added_at": "2022-12-16 20:17:47",
       "album": {
-        "name": "El Caballero Del Vallenato",
-        "url": "https://open.spotify.com/album/3Yiy89tCsNKNpxffyrheo9"
+        "name": "La Historia Continua",
+        "url": "https://open.spotify.com/album/7tOgagliNLN0RTLt0t0ODM"
       },
       "artists": [
         {
-          "name": "Peter Manjarr\u00e9s",
-          "url": "https://open.spotify.com/artist/5p1D7KgsRRcS9gpQyRARrL"
-        },
-        {
-          "name": "Sergio Luis Rodr\u00edguez",
-          "url": "https://open.spotify.com/artist/6IA0c7ljnyM14XsePnrFpw"
+          "name": "El Gran Mart\u00edn El\u00edas",
+          "url": "https://open.spotify.com/artist/15g2N69hNuvVjSUqa9Entz"
         }
       ],
-      "duration_ms": 247813,
-      "name": "Traga'O De T\u00ed",
-      "url": "https://open.spotify.com/track/4dxEJbnuN5EXg5Ak8RJULL"
+      "duration_ms": 315862,
+      "name": "10 Razones Para Amarte",
+      "url": "https://open.spotify.com/track/4chfldJFfWiuuSx1n3mojQ"
     },
     {
       "added_at": "2022-12-16 20:17:47",
@@ -727,6 +727,30 @@
     {
       "added_at": "2022-12-16 20:17:47",
       "album": {
+        "name": "S\u00f3lo Cl\u00e1sicos",
+        "url": "https://open.spotify.com/album/5bsES1XTrXLgo9HGpFWVK0"
+      },
+      "artists": [
+        {
+          "name": "Peter Manjarr\u00e9s",
+          "url": "https://open.spotify.com/artist/5p1D7KgsRRcS9gpQyRARrL"
+        },
+        {
+          "name": "Emiliano Zuleta",
+          "url": "https://open.spotify.com/artist/4j2ttDkyLZNpyM2RS9hCf5"
+        },
+        {
+          "name": "Sergio Luis Rodr\u00edguez",
+          "url": "https://open.spotify.com/artist/6IA0c7ljnyM14XsePnrFpw"
+        }
+      ],
+      "duration_ms": 222200,
+      "name": "Obsesi\u00f3n",
+      "url": "https://open.spotify.com/track/4OhFOoVfaqw3Xuz2vjceDq"
+    },
+    {
+      "added_at": "2022-12-16 20:17:47",
+      "album": {
         "name": "El Original",
         "url": "https://open.spotify.com/album/5mAgr3vB1Ma8mmpUDKRo4P"
       },
@@ -779,30 +803,6 @@
       "duration_ms": 275186,
       "name": "El Amor M\u00e1s Grande del Planeta",
       "url": "https://open.spotify.com/track/1NUCgLFBPg0R4B6IPUcieM"
-    },
-    {
-      "added_at": "2022-12-16 20:17:47",
-      "album": {
-        "name": "S\u00f3lo Cl\u00e1sicos",
-        "url": "https://open.spotify.com/album/5bsES1XTrXLgo9HGpFWVK0"
-      },
-      "artists": [
-        {
-          "name": "Peter Manjarr\u00e9s",
-          "url": "https://open.spotify.com/artist/5p1D7KgsRRcS9gpQyRARrL"
-        },
-        {
-          "name": "Emiliano Zuleta",
-          "url": "https://open.spotify.com/artist/4j2ttDkyLZNpyM2RS9hCf5"
-        },
-        {
-          "name": "Sergio Luis Rodr\u00edguez",
-          "url": "https://open.spotify.com/artist/6IA0c7ljnyM14XsePnrFpw"
-        }
-      ],
-      "duration_ms": 222200,
-      "name": "Obsesi\u00f3n",
-      "url": "https://open.spotify.com/track/4OhFOoVfaqw3Xuz2vjceDq"
     },
     {
       "added_at": "2022-12-16 20:17:47",
@@ -899,6 +899,22 @@
     {
       "added_at": "2022-12-16 20:17:47",
       "album": {
+        "name": "Alto Voltaje",
+        "url": "https://open.spotify.com/album/58S0vKkRnOwYGwpDSXNsEX"
+      },
+      "artists": [
+        {
+          "name": "Daniel Calder\u00f3n",
+          "url": "https://open.spotify.com/artist/2O76CmUXGThMPPImBOnbUA"
+        }
+      ],
+      "duration_ms": 246800,
+      "name": "Infiel",
+      "url": "https://open.spotify.com/track/1PTQMGoaQ2ZnWi3WBzFpwp"
+    },
+    {
+      "added_at": "2022-12-16 20:17:47",
+      "album": {
         "name": "Diferente",
         "url": "https://open.spotify.com/album/6GQZroG4H7wW0UrX12P3Kp"
       },
@@ -915,22 +931,6 @@
       "duration_ms": 252040,
       "name": "Tan Natural",
       "url": "https://open.spotify.com/track/0CNuKlYBAx8xa28X4J6Iy6"
-    },
-    {
-      "added_at": "2022-12-16 20:17:47",
-      "album": {
-        "name": "Alto Voltaje",
-        "url": "https://open.spotify.com/album/58S0vKkRnOwYGwpDSXNsEX"
-      },
-      "artists": [
-        {
-          "name": "Daniel Calder\u00f3n",
-          "url": "https://open.spotify.com/artist/2O76CmUXGThMPPImBOnbUA"
-        }
-      ],
-      "duration_ms": 246800,
-      "name": "Infiel",
-      "url": "https://open.spotify.com/track/1PTQMGoaQ2ZnWi3WBzFpwp"
     },
     {
       "added_at": "2022-12-16 20:17:47",
@@ -1027,26 +1027,6 @@
     {
       "added_at": "2022-12-16 20:17:47",
       "album": {
-        "name": "Diferente",
-        "url": "https://open.spotify.com/album/6GQZroG4H7wW0UrX12P3Kp"
-      },
-      "artists": [
-        {
-          "name": "Felipe Pel\u00e1ez",
-          "url": "https://open.spotify.com/artist/6dexNK5MjEL8UvmA5MjSgg"
-        },
-        {
-          "name": "Manuel Juli\u00e1n",
-          "url": "https://open.spotify.com/artist/5N73Yokp47tjesghCSGnNC"
-        }
-      ],
-      "duration_ms": 249560,
-      "name": "Mi Celosa Hermosa",
-      "url": "https://open.spotify.com/track/2qBYoUdefV0JufBpNCGor1"
-    },
-    {
-      "added_at": "2022-12-16 20:17:47",
-      "album": {
         "name": "Gracias Mi Gente",
         "url": "https://open.spotify.com/album/42mGPazMoiDn6hWgitQYgX"
       },
@@ -1099,6 +1079,26 @@
       "duration_ms": 282920,
       "name": "No Comprendi Tu Amor",
       "url": "https://open.spotify.com/track/1geLwtTJ0LTCwNA2cX8k9z"
+    },
+    {
+      "added_at": "2022-12-16 20:17:47",
+      "album": {
+        "name": "Diferente",
+        "url": "https://open.spotify.com/album/6GQZroG4H7wW0UrX12P3Kp"
+      },
+      "artists": [
+        {
+          "name": "Felipe Pel\u00e1ez",
+          "url": "https://open.spotify.com/artist/6dexNK5MjEL8UvmA5MjSgg"
+        },
+        {
+          "name": "Manuel Juli\u00e1n",
+          "url": "https://open.spotify.com/artist/5N73Yokp47tjesghCSGnNC"
+        }
+      ],
+      "duration_ms": 249560,
+      "name": "Mi Celosa Hermosa",
+      "url": "https://open.spotify.com/track/2qBYoUdefV0JufBpNCGor1"
     },
     {
       "added_at": "2022-12-16 20:17:47",

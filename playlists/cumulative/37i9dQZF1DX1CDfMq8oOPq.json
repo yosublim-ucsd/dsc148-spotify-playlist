@@ -1,8 +1,34 @@
 {
   "date_first_scraped": "2022-03-24",
-  "description": "s\u00f3 faixa rosa, tem disposi\u00e7\u00e3o? \ud83c\udf80 Foto: Ajuliacosta",
+  "description": "s\u00f3 faixa rosa, tem disposi\u00e7\u00e3o? \ud83c\udf80 Foto: Karol Conka, Tasha & Tracie",
   "name": "Baby Hair",
   "tracks": [
+    {
+      "album": {
+        "name": "Fra\u00e7\u00e3o 3/4",
+        "url": "https://open.spotify.com/album/387TbDSzjAzUK1kfVlZaRh"
+      },
+      "artists": [
+        {
+          "name": "Mc Luanna",
+          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
+        },
+        {
+          "name": "Mello Santana",
+          "url": "https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY"
+        },
+        {
+          "name": "Greezy",
+          "url": "https://open.spotify.com/artist/3exY81LSlWqpL03GFPTEgB"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158884,
+      "name": "+18",
+      "url": "https://open.spotify.com/track/3Yzm8lrmibXZyzg2vUYLe8"
+    },
     {
       "album": {
         "name": "100 Mili",
@@ -498,7 +524,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 136367,
       "name": "Bitch Eu Sou Incr\u00edvel",
       "url": "https://open.spotify.com/track/4gVag1vpVNTPE5MoOTwc2J"
@@ -786,7 +812,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 181778,
       "name": "Copy",
       "url": "https://open.spotify.com/track/3Q6P44efSOTR4O52255KmX"
@@ -1154,6 +1180,28 @@
       "duration_ms": 163974,
       "name": "Espelho Meu",
       "url": "https://open.spotify.com/track/4fCWPeVBRRRZXKUwngXjzg"
+    },
+    {
+      "album": {
+        "name": "Espero Que Entendam (Freestyle)",
+        "url": "https://open.spotify.com/album/2omPP6U3sAgy10Q4wZtswu"
+      },
+      "artists": [
+        {
+          "name": "Ebony",
+          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
+        },
+        {
+          "name": "LARINHX",
+          "url": "https://open.spotify.com/artist/00kQ5yo7yxd5KC1ihuH77i"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211859,
+      "name": "Espero Que Entendam - Freestyle",
+      "url": "https://open.spotify.com/track/3MEMW13ORJh94KnERm44JM"
     },
     {
       "album": {
@@ -1926,7 +1974,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 205894,
       "name": "Incondicional",
       "url": "https://open.spotify.com/track/6lPmN0eGKHfOBWtg1j3POy"
@@ -2701,6 +2749,28 @@
     },
     {
       "album": {
+        "name": "Negona",
+        "url": "https://open.spotify.com/album/42CJ1awbR9yaCm8cqTzdbP"
+      },
+      "artists": [
+        {
+          "name": "Karol Conk\u00e1",
+          "url": "https://open.spotify.com/artist/6ODCVWBfGNFUf1bpo0c2Ge"
+        },
+        {
+          "name": "Tasha & Tracie",
+          "url": "https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186950,
+      "name": "Negona",
+      "url": "https://open.spotify.com/track/7xiw1iCmpj2it0RG8GfPkv"
+    },
+    {
+      "album": {
         "name": "Neurose",
         "url": "https://open.spotify.com/album/1eq2mPYo4Pozh1a4sILQxg"
       },
@@ -3245,6 +3315,28 @@
     },
     {
       "album": {
+        "name": "Primeiro de Maio (Gostosas Inteligentes)",
+        "url": "https://open.spotify.com/album/3sPEyvePf2VVTs3QF0OZSt"
+      },
+      "artists": [
+        {
+          "name": "Duquesa",
+          "url": "https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx"
+        },
+        {
+          "name": "THS",
+          "url": "https://open.spotify.com/artist/3mI838insJsm1g7P3EsQW4"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130369,
+      "name": "Primeiro de Maio (Gostosas Inteligentes)",
+      "url": "https://open.spotify.com/track/2DaHDTiB8DhBDIM7csF7Ny"
+    },
+    {
+      "album": {
         "name": "Vol\u00fapia",
         "url": "https://open.spotify.com/album/6AN4F75EddIpLypRRi09Y8"
       },
@@ -3718,7 +3810,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 173333,
       "name": "Sextos Sentidos",
       "url": "https://open.spotify.com/track/5KXEmmgyuf4HMyQ1Rrl2vh"

@@ -4,7 +4,7 @@
 
 > La playlist che è come andare ai concerti! Novità rock, indie, punk ed emo dall'Italia\. Cover: MILANOSPORT
 
-663 songs - 1 day 12 hr 49 min
+664 songs - 1 day 12 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -288,6 +288,7 @@
 | [Il Ritorno \(feat\. Meganoidi\)](https://open.spotify.com/track/3wyr7X4CkSiOzwM1UZlPe5) | [dellarabbia](https://open.spotify.com/artist/6Ny93gwcAU5e2da6CzrmRp), [Meganoidi](https://open.spotify.com/artist/0hE20Z0HAEHnVHM0v84MVR) | [Lunganotte](https://open.spotify.com/album/26GDVWVImp4k4bbBuZKZFc) | 3:42 | 2023-05-25 | 2023-10-20 |
 | [Il tempo è una bugia \(feat\. Ligabue\)](https://open.spotify.com/track/7tl8kzo4DM62We5mgJRYNx) | [Fast Animals and Slow Kids](https://open.spotify.com/artist/2n92OcdDhE5g2CpDI1rjH6), [Ligabue](https://open.spotify.com/artist/7H8ZC8uHJMPZGLMApRRNIz) | [Il tempo è una bugia \(feat\. Ligabue\)](https://open.spotify.com/album/7oM4l6zPvDNo9WgT7J9pxq) | 3:58 | 2022-09-15 | 2023-03-10 |
 | [Il vento](https://open.spotify.com/track/6vO8miBm2egYQXiDcsJshV) | [C+C=Maxigross](https://open.spotify.com/artist/4xD2DfxKGL6E8URwy6Sf37) | [Sale \(Elas\)](https://open.spotify.com/album/1mZdqKhXnngN363k2kXdA0) | 2:46 | 2022-11-03 | 2022-12-24 |
+| [Imma Stunt](https://open.spotify.com/track/1KrXZYgqTmmVGwgX2TNi48) | [Stunt Pilots](https://open.spotify.com/artist/5Q2syrsNfctel905QjIMXr) | [Imma Stunt](https://open.spotify.com/album/7ct6sqL49mXsqcGZftcKnn) | 2:11 | 2023-12-01 |  |
 | [Imma Stunt](https://open.spotify.com/track/3vZmC8oq2B3mp9kVfIcXr1) | [Stunt Pilots](https://open.spotify.com/artist/5Q2syrsNfctel905QjIMXr) | [Imma Stunt](https://open.spotify.com/album/2JRIfmjUa8aU6MLLlahL52) | 2:11 | 2022-05-12 | 2022-07-08 |
 | [In ciabatte](https://open.spotify.com/track/1cL1wwfU1LvhGTUmUe5wsc) | [Pino!](https://open.spotify.com/artist/052Bs1XHJXqz4X1KS3ao1O) | [Servito Freddo](https://open.spotify.com/album/3XJL5WJKxgMqozmITOPrFR) | 3:42 | 2022-09-22 | 2022-10-07 |
 | [In questo](https://open.spotify.com/track/4Up7N5Vy1iVHxkoKTVHGkp) | [m0m0](https://open.spotify.com/artist/4Zua3WcaeHvivfRH9zPcl6) | [In questo](https://open.spotify.com/album/7sZv0iHyefAHpq7WFUprMk) | 3:28 | 2023-10-05 | 2023-11-10 |

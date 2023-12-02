@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-07",
-  "description": "A groovy and soulful house collection. Cover: Jengi",
+  "description": "A groovy and soulful house collection. Cover: Calvin Harris, Eliza Rose",
   "name": "House is a Feeling",
   "tracks": [
     {
@@ -274,7 +274,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 205128,
       "name": "Caught In D Middle",
       "url": "https://open.spotify.com/track/1DaSG7w7F7ATHCoEOIi7Vt"
@@ -318,7 +318,7 @@
       ],
       "date_added": "2023-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 182400,
       "name": "Circles (feat. Mariah Carey)",
       "url": "https://open.spotify.com/track/1KTNJSTPYBLByQ14cJRGlO"
@@ -740,7 +740,7 @@
       ],
       "date_added": "2023-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 346375,
       "name": "Happy Highs",
       "url": "https://open.spotify.com/track/6PqmmjJRo2Ab8JrH78n3Gc"
@@ -832,6 +832,32 @@
       "duration_ms": 199217,
       "name": "How It Feels",
       "url": "https://open.spotify.com/track/4KZPt9W4RTAIGiEUbiFJTV"
+    },
+    {
+      "album": {
+        "name": "I Believe In Love Again (Jex Opolis Remix)",
+        "url": "https://open.spotify.com/album/5HRtN5JcxONyY8WlvayG2g"
+      },
+      "artists": [
+        {
+          "name": "Peggy Gou",
+          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
+        },
+        {
+          "name": "Lenny Kravitz",
+          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
+        },
+        {
+          "name": "Jex Opolis",
+          "url": "https://open.spotify.com/artist/6LKEDpmHSbVFGyL2OW0ZbQ"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199696,
+      "name": "I Believe In Love Again - Jex Opolis Remix Edit",
+      "url": "https://open.spotify.com/track/17t5Ba4T5CEYw2WG2clNeu"
     },
     {
       "album": {
@@ -992,6 +1018,28 @@
       "duration_ms": 131000,
       "name": "Little Things x Gypsy Woman - L BEATS MASHUP",
       "url": "https://open.spotify.com/track/6xp1u6ZEHXX8DxJIFFrVoP"
+    },
+    {
+      "album": {
+        "name": "Look At Me Dance",
+        "url": "https://open.spotify.com/album/4GQVZQ4Bc70JB8tU8z8XML"
+      },
+      "artists": [
+        {
+          "name": "ATRIP",
+          "url": "https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI"
+        },
+        {
+          "name": "Pot\u00e9",
+          "url": "https://open.spotify.com/artist/4mHvZlo1KyW4kW3F1FE1q5"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185697,
+      "name": "Look At Me Dance",
+      "url": "https://open.spotify.com/track/2ByH7zQsZ5ZGjbWRZpFoRI"
     },
     {
       "album": {
@@ -1312,7 +1360,7 @@
       ],
       "date_added": "2023-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 200826,
       "name": "Pleasure Peak",
       "url": "https://open.spotify.com/track/0p4gPitg46gAPG3IdJvW5d"
@@ -1422,6 +1470,28 @@
       "duration_ms": 279370,
       "name": "Release Me",
       "url": "https://open.spotify.com/track/0w1diO9XWMX1Dm4r9hIDJg"
+    },
+    {
+      "album": {
+        "name": "Release Me",
+        "url": "https://open.spotify.com/album/0tJ2xpt6XRAjBeARDB9JKk"
+      },
+      "artists": [
+        {
+          "name": "Mark Knight",
+          "url": "https://open.spotify.com/artist/3h11MHQeCrcsUgRRijI1zL"
+        },
+        {
+          "name": "Armand Van Helden",
+          "url": "https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168750,
+      "name": "Release Me",
+      "url": "https://open.spotify.com/track/0dyNRRAiEnX98U4BlZkbfT"
     },
     {
       "album": {
@@ -1568,6 +1638,28 @@
       "duration_ms": 182857,
       "name": "Since - Don Rimini Deep Mix",
       "url": "https://open.spotify.com/track/55osGD02FGA8u1IAhkLt48"
+    },
+    {
+      "album": {
+        "name": "Smile on Your Face",
+        "url": "https://open.spotify.com/album/1HaTzDpV9QSaxmAZRZlpGF"
+      },
+      "artists": [
+        {
+          "name": "Juicy M",
+          "url": "https://open.spotify.com/artist/6klooWKc13AOY1BVfE0Tm6"
+        },
+        {
+          "name": "Low Blow",
+          "url": "https://open.spotify.com/artist/4Jr5ULT8PKTOiBhTUZR9RQ"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175361,
+      "name": "Smile on Your Face",
+      "url": "https://open.spotify.com/track/2gylXTJdglDW1xLZduyiDu"
     },
     {
       "album": {
@@ -1825,6 +1917,28 @@
     },
     {
       "album": {
+        "name": "Trying",
+        "url": "https://open.spotify.com/album/2x8CLLcMytKEBP5CtuOmJ7"
+      },
+      "artists": [
+        {
+          "name": "Martin Eigenberg",
+          "url": "https://open.spotify.com/artist/23J5hZ2N7m0UpmdziiYAc2"
+        },
+        {
+          "name": "Zemyu",
+          "url": "https://open.spotify.com/artist/2tVbTOwMJMnXrlEIih1aYO"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138474,
+      "name": "Trying - Radio-Edit",
+      "url": "https://open.spotify.com/track/1N3ExVU1Ne1fL244jYUEsp"
+    },
+    {
+      "album": {
         "name": "Two Hearts EP",
         "url": "https://open.spotify.com/album/5EmhtGastrE8dksOnUGZLF"
       },
@@ -1880,7 +1994,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 140240,
       "name": "VenusFlyTrap",
       "url": "https://open.spotify.com/track/4dtvOmrJ67v4JbiT13pOjK"

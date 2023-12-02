@@ -1,12 +1,12 @@
 {
   "description": "Hottest indie sounds & the best new tracks from Asia. cover: Elephant Gym (Taiwan)",
-  "num_followers": 88641,
+  "num_followers": 88642,
   "original_name": ".ORG",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYWQ1N2RjMzAyOTQ2NDgzZTA5ZWFmMDIyNzYzNWEyNDg2MWMyNDk3",
+  "snapshot_id": "MCxmZGMwYjNlMGRjZjViZWVkYjllY2ZlN2VlZjkwYjQxNjNkMGZiODFi",
   "tracks": [
     {
       "added_at": "2023-11-30 17:03:28",
@@ -523,6 +523,22 @@
     {
       "added_at": "2023-11-30 17:03:28",
       "album": {
+        "name": "Tip Toe",
+        "url": "https://open.spotify.com/album/2uNZ0G4uxGlzuqULW6lQnF"
+      },
+      "artists": [
+        {
+          "name": "HYBS",
+          "url": "https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI"
+        }
+      ],
+      "duration_ms": 224725,
+      "name": "Tip Toe",
+      "url": "https://open.spotify.com/track/0MJ5wKsPEeihONNfugHGy7"
+    },
+    {
+      "added_at": "2023-11-30 17:03:28",
+      "album": {
         "name": "Episode1 : Love",
         "url": "https://open.spotify.com/album/7yoMXU6kgxjIsowenBxzwD"
       },
@@ -539,22 +555,6 @@
       "duration_ms": 242200,
       "name": "Smoke Sprite (feat. RM of BTS)",
       "url": "https://open.spotify.com/track/5YSkDxmHvzSDWTu4MaEtfa"
-    },
-    {
-      "added_at": "2023-11-30 17:03:28",
-      "album": {
-        "name": "Tip Toe",
-        "url": "https://open.spotify.com/album/2uNZ0G4uxGlzuqULW6lQnF"
-      },
-      "artists": [
-        {
-          "name": "HYBS",
-          "url": "https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI"
-        }
-      ],
-      "duration_ms": 224725,
-      "name": "Tip Toe",
-      "url": "https://open.spotify.com/track/0MJ5wKsPEeihONNfugHGy7"
     },
     {
       "added_at": "2023-11-30 17:03:28",
@@ -679,22 +679,6 @@
     {
       "added_at": "2023-11-30 17:03:28",
       "album": {
-        "name": "Making Steak",
-        "url": "https://open.spotify.com/album/2KR8a0U0f286MuzLaEJhL6"
-      },
-      "artists": [
-        {
-          "name": "HYBS",
-          "url": "https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI"
-        }
-      ],
-      "duration_ms": 203532,
-      "name": "Dancing with my phone",
-      "url": "https://open.spotify.com/track/6ppefZt5uQ62aHAfSa1Jx9"
-    },
-    {
-      "added_at": "2023-11-30 17:03:28",
-      "album": {
         "name": "\u0e17\u0e49\u0e2d\u0e07\u0e1f\u0e49\u0e32\u0e08\u0e33\u0e25\u0e2d\u0e07",
         "url": "https://open.spotify.com/album/5x8QUkAqNR1sV93J3XdVPr"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 293784,
       "name": "\u0e23\u0e2a\u0e2b\u0e27\u0e32\u0e19",
       "url": "https://open.spotify.com/track/2Ab1HQjbMcqHY3TkTycrYr"
+    },
+    {
+      "added_at": "2023-11-30 17:03:28",
+      "album": {
+        "name": "Making Steak",
+        "url": "https://open.spotify.com/album/2KR8a0U0f286MuzLaEJhL6"
+      },
+      "artists": [
+        {
+          "name": "HYBS",
+          "url": "https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI"
+        }
+      ],
+      "duration_ms": 203532,
+      "name": "Dancing with my phone",
+      "url": "https://open.spotify.com/track/6ppefZt5uQ62aHAfSa1Jx9"
     },
     {
       "added_at": "2023-11-30 17:03:28",
@@ -819,22 +819,6 @@
     {
       "added_at": "2023-11-30 17:03:28",
       "album": {
-        "name": "Making Steak",
-        "url": "https://open.spotify.com/album/2KR8a0U0f286MuzLaEJhL6"
-      },
-      "artists": [
-        {
-          "name": "HYBS",
-          "url": "https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI"
-        }
-      ],
-      "duration_ms": 198612,
-      "name": "Killer",
-      "url": "https://open.spotify.com/track/0H4oRjAoMl6EVhBZraB0fn"
-    },
-    {
-      "added_at": "2023-11-30 17:03:28",
-      "album": {
         "name": "Our Beloved Summer (Original Television Soundtrack), Pt. 11",
         "url": "https://open.spotify.com/album/460wwJJ7kVYYue0MfHTsVD"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 192466,
       "name": "Our Beloved Summer",
       "url": "https://open.spotify.com/track/6Nw6XxOGVgKPOgi8LidyPq"
+    },
+    {
+      "added_at": "2023-11-30 17:03:28",
+      "album": {
+        "name": "Making Steak",
+        "url": "https://open.spotify.com/album/2KR8a0U0f286MuzLaEJhL6"
+      },
+      "artists": [
+        {
+          "name": "HYBS",
+          "url": "https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI"
+        }
+      ],
+      "duration_ms": 198612,
+      "name": "Killer",
+      "url": "https://open.spotify.com/track/0H4oRjAoMl6EVhBZraB0fn"
     },
     {
       "added_at": "2023-11-30 17:03:28",
@@ -919,22 +919,6 @@
     {
       "added_at": "2023-11-30 17:03:28",
       "album": {
-        "name": "Ch\u1ebft Trong Em",
-        "url": "https://open.spotify.com/album/38JFpZ6hGFaQ4BUxT7XcI0"
-      },
-      "artists": [
-        {
-          "name": "Th\u1ecbnh Suy",
-          "url": "https://open.spotify.com/artist/2xK6qcvfXuFFbU0NL95aeo"
-        }
-      ],
-      "duration_ms": 256663,
-      "name": "Ch\u1ebft Trong Em",
-      "url": "https://open.spotify.com/track/4QjxvzEFwb63NZ1pp3wvHy"
-    },
-    {
-      "added_at": "2023-11-30 17:03:28",
-      "album": {
         "name": "\u0e04\u0e19\u0e40\u0e14\u0e35\u0e22\u0e27\u0e01\u0e31\u0e19 (You?)",
         "url": "https://open.spotify.com/album/2hlF4yvrAXDUGPaL1P2qFa"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 241750,
       "name": "\u0e04\u0e19\u0e40\u0e14\u0e35\u0e22\u0e27\u0e01\u0e31\u0e19 (You?)",
       "url": "https://open.spotify.com/track/2Cm88ZmLpkDQaYHZEjPWv0"
+    },
+    {
+      "added_at": "2023-11-30 17:03:28",
+      "album": {
+        "name": "Ch\u1ebft Trong Em",
+        "url": "https://open.spotify.com/album/38JFpZ6hGFaQ4BUxT7XcI0"
+      },
+      "artists": [
+        {
+          "name": "Th\u1ecbnh Suy",
+          "url": "https://open.spotify.com/artist/2xK6qcvfXuFFbU0NL95aeo"
+        }
+      ],
+      "duration_ms": 256663,
+      "name": "Ch\u1ebft Trong Em",
+      "url": "https://open.spotify.com/track/4QjxvzEFwb63NZ1pp3wvHy"
     },
     {
       "added_at": "2023-11-30 17:03:28",
@@ -1151,26 +1151,6 @@
     {
       "added_at": "2023-11-30 17:03:28",
       "album": {
-        "name": "Self Soothing",
-        "url": "https://open.spotify.com/album/6gTGtA8fL6swSNFzDf6lka"
-      },
-      "artists": [
-        {
-          "name": "Sezairi",
-          "url": "https://open.spotify.com/artist/51sob9QZyfLff9XqvYluN5"
-        },
-        {
-          "name": "GANGGA",
-          "url": "https://open.spotify.com/artist/4nd1IvFkUoQinjvYdUmOBI"
-        }
-      ],
-      "duration_ms": 187500,
-      "name": "Daylight (feat. GANGGA)",
-      "url": "https://open.spotify.com/track/5C8SwYxHNCBcPaM9IZrU9C"
-    },
-    {
-      "added_at": "2023-11-30 17:03:28",
-      "album": {
         "name": "meringue doll",
         "url": "https://open.spotify.com/album/7qeJaFdCP3hCLm2KFp96Ts"
       },
@@ -1199,6 +1179,26 @@
       "duration_ms": 223350,
       "name": "My Plan",
       "url": "https://open.spotify.com/track/2MKuMuQZbLOW16zXQksZse"
+    },
+    {
+      "added_at": "2023-11-30 17:03:28",
+      "album": {
+        "name": "Self Soothing",
+        "url": "https://open.spotify.com/album/6gTGtA8fL6swSNFzDf6lka"
+      },
+      "artists": [
+        {
+          "name": "Sezairi",
+          "url": "https://open.spotify.com/artist/51sob9QZyfLff9XqvYluN5"
+        },
+        {
+          "name": "GANGGA",
+          "url": "https://open.spotify.com/artist/4nd1IvFkUoQinjvYdUmOBI"
+        }
+      ],
+      "duration_ms": 187500,
+      "name": "Daylight (feat. GANGGA)",
+      "url": "https://open.spotify.com/track/5C8SwYxHNCBcPaM9IZrU9C"
     },
     {
       "added_at": "2023-11-30 17:03:28",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2023-11-30 17:03:28",
       "album": {
-        "name": "Best Prom Ever",
-        "url": "https://open.spotify.com/album/4a2bPEqy88F8l3oB7DcsHO"
-      },
-      "artists": [
-        {
-          "name": "Moongazing And Her",
-          "url": "https://open.spotify.com/artist/6Zo43jiGrri1Pq8tQNKodP"
-        }
-      ],
-      "duration_ms": 135981,
-      "name": "While It Lasts",
-      "url": "https://open.spotify.com/track/3pZzVu3r5XMWXhwkoRhgka"
-    },
-    {
-      "added_at": "2023-11-30 17:03:28",
-      "album": {
         "name": "Grape Soda",
         "url": "https://open.spotify.com/album/6skFJuskZ23J7NXBNfFR8z"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 215172,
       "name": "Grape Soda",
       "url": "https://open.spotify.com/track/5KJAvewEPVPOU3OnL6bhwH"
+    },
+    {
+      "added_at": "2023-11-30 17:03:28",
+      "album": {
+        "name": "Best Prom Ever",
+        "url": "https://open.spotify.com/album/4a2bPEqy88F8l3oB7DcsHO"
+      },
+      "artists": [
+        {
+          "name": "Moongazing And Her",
+          "url": "https://open.spotify.com/artist/6Zo43jiGrri1Pq8tQNKodP"
+        }
+      ],
+      "duration_ms": 135981,
+      "name": "While It Lasts",
+      "url": "https://open.spotify.com/track/3pZzVu3r5XMWXhwkoRhgka"
     },
     {
       "added_at": "2023-11-30 17:03:28",
@@ -1387,18 +1387,18 @@
     {
       "added_at": "2023-11-30 17:03:28",
       "album": {
-        "name": "venus",
-        "url": "https://open.spotify.com/album/59LzAegBLWcHhm5kAAfaza"
+        "name": "Strangers In The Night",
+        "url": "https://open.spotify.com/album/55CO6FPOjzSeWBHdVz1wTv"
       },
       "artists": [
         {
-          "name": "Regina Song",
-          "url": "https://open.spotify.com/artist/3Y7gOnKYWfQlEdgXag0Z6W"
+          "name": "Michael Kaneko",
+          "url": "https://open.spotify.com/artist/36a3BbcVBJMiBGeHzpAxHb"
         }
       ],
-      "duration_ms": 250105,
-      "name": "venus",
-      "url": "https://open.spotify.com/track/1JpjEOAx8Kfce8574CRzZg"
+      "duration_ms": 235931,
+      "name": "Strangers In The Night",
+      "url": "https://open.spotify.com/track/3GoiPlWtQO9m1iqxKorcrr"
     },
     {
       "added_at": "2023-11-30 17:03:28",
@@ -1439,18 +1439,18 @@
     {
       "added_at": "2023-11-30 17:03:28",
       "album": {
-        "name": "Strangers In The Night",
-        "url": "https://open.spotify.com/album/55CO6FPOjzSeWBHdVz1wTv"
+        "name": "venus",
+        "url": "https://open.spotify.com/album/59LzAegBLWcHhm5kAAfaza"
       },
       "artists": [
         {
-          "name": "Michael Kaneko",
-          "url": "https://open.spotify.com/artist/36a3BbcVBJMiBGeHzpAxHb"
+          "name": "Regina Song",
+          "url": "https://open.spotify.com/artist/3Y7gOnKYWfQlEdgXag0Z6W"
         }
       ],
-      "duration_ms": 235931,
-      "name": "Strangers In The Night",
-      "url": "https://open.spotify.com/track/3GoiPlWtQO9m1iqxKorcrr"
+      "duration_ms": 250105,
+      "name": "venus",
+      "url": "https://open.spotify.com/track/1JpjEOAx8Kfce8574CRzZg"
     },
     {
       "added_at": "2023-11-30 17:03:28",
@@ -1471,18 +1471,18 @@
     {
       "added_at": "2023-11-30 17:03:28",
       "album": {
-        "name": "\uff18",
-        "url": "https://open.spotify.com/album/18BdJtCTwpeeyRsVEhaT1m"
+        "name": "PLEASURES",
+        "url": "https://open.spotify.com/album/6LcForsXAnNRxsU458b1XM"
       },
       "artists": [
         {
-          "name": "ROTH BART BARON",
-          "url": "https://open.spotify.com/artist/3WwL2Gya2VH0zHzOdakOX2"
+          "name": "ADOY",
+          "url": "https://open.spotify.com/artist/64sY7LsUjNE3ifONkftTXC"
         }
       ],
-      "duration_ms": 216674,
-      "name": "Closer",
-      "url": "https://open.spotify.com/track/24Ai9oaKiidTGV4Keotqml"
+      "duration_ms": 167000,
+      "name": "In Love",
+      "url": "https://open.spotify.com/track/7fNr8S80vvOJtr0G186BBh"
     },
     {
       "added_at": "2023-11-30 17:03:28",
@@ -1503,18 +1503,18 @@
     {
       "added_at": "2023-11-30 17:03:28",
       "album": {
-        "name": "PLEASURES",
-        "url": "https://open.spotify.com/album/6LcForsXAnNRxsU458b1XM"
+        "name": "\uff18",
+        "url": "https://open.spotify.com/album/18BdJtCTwpeeyRsVEhaT1m"
       },
       "artists": [
         {
-          "name": "ADOY",
-          "url": "https://open.spotify.com/artist/64sY7LsUjNE3ifONkftTXC"
+          "name": "ROTH BART BARON",
+          "url": "https://open.spotify.com/artist/3WwL2Gya2VH0zHzOdakOX2"
         }
       ],
-      "duration_ms": 167000,
-      "name": "In Love",
-      "url": "https://open.spotify.com/track/7fNr8S80vvOJtr0G186BBh"
+      "duration_ms": 216674,
+      "name": "Closer",
+      "url": "https://open.spotify.com/track/24Ai9oaKiidTGV4Keotqml"
     },
     {
       "added_at": "2023-11-30 17:03:28",
@@ -1559,6 +1559,22 @@
     {
       "added_at": "2023-11-30 17:03:28",
       "album": {
+        "name": "Highteen",
+        "url": "https://open.spotify.com/album/0KOiVCCpmrK72XwMIL4ieW"
+      },
+      "artists": [
+        {
+          "name": "Dvwn",
+          "url": "https://open.spotify.com/artist/6WWUJGBY4ETAE22tRmgJ8b"
+        }
+      ],
+      "duration_ms": 181000,
+      "name": "Highteen",
+      "url": "https://open.spotify.com/track/4HcnOrtYTFOLyZrfC7BQ9U"
+    },
+    {
+      "added_at": "2023-11-30 17:03:28",
+      "album": {
         "name": "The Way That Lovers Do (Deluxe)",
         "url": "https://open.spotify.com/album/6C2VRR7GTljLTkakd8EZ1N"
       },
@@ -1579,22 +1595,6 @@
     {
       "added_at": "2023-11-30 17:03:28",
       "album": {
-        "name": "Highteen",
-        "url": "https://open.spotify.com/album/0KOiVCCpmrK72XwMIL4ieW"
-      },
-      "artists": [
-        {
-          "name": "Dvwn",
-          "url": "https://open.spotify.com/artist/6WWUJGBY4ETAE22tRmgJ8b"
-        }
-      ],
-      "duration_ms": 181000,
-      "name": "Highteen",
-      "url": "https://open.spotify.com/track/4HcnOrtYTFOLyZrfC7BQ9U"
-    },
-    {
-      "added_at": "2023-11-30 17:03:28",
-      "album": {
         "name": "Different Shade of Blue",
         "url": "https://open.spotify.com/album/2orjH3lEX3NtFwZyVpitGl"
       },
@@ -1607,6 +1607,22 @@
       "duration_ms": 170000,
       "name": "Different Shade of Blue",
       "url": "https://open.spotify.com/track/2WGLRqSoF5wytphWekR3hH"
+    },
+    {
+      "added_at": "2023-11-30 17:03:28",
+      "album": {
+        "name": "Dreams",
+        "url": "https://open.spotify.com/album/3TymUlSYZsMS09A5NnY7Hc"
+      },
+      "artists": [
+        {
+          "name": "Elephant Gym",
+          "url": "https://open.spotify.com/artist/2rqNUPgkBgbhcRabUQ5C9g"
+        }
+      ],
+      "duration_ms": 231422,
+      "name": "Witches",
+      "url": "https://open.spotify.com/track/4qTlJH6ZM4sUX39EB9VMFy"
     },
     {
       "added_at": "2023-11-30 17:03:28",
@@ -1643,22 +1659,6 @@
     {
       "added_at": "2023-11-30 17:03:28",
       "album": {
-        "name": "Dreams",
-        "url": "https://open.spotify.com/album/3TymUlSYZsMS09A5NnY7Hc"
-      },
-      "artists": [
-        {
-          "name": "Elephant Gym",
-          "url": "https://open.spotify.com/artist/2rqNUPgkBgbhcRabUQ5C9g"
-        }
-      ],
-      "duration_ms": 231422,
-      "name": "Witches",
-      "url": "https://open.spotify.com/track/4qTlJH6ZM4sUX39EB9VMFy"
-    },
-    {
-      "added_at": "2023-11-30 17:03:28",
-      "album": {
         "name": "The Great Regression",
         "url": "https://open.spotify.com/album/2QgFxiPrjg4KSh0NkicjEG"
       },
@@ -1671,22 +1671,6 @@
       "duration_ms": 175350,
       "name": "In The Clouds",
       "url": "https://open.spotify.com/track/6Kg8KoSEacO0Y21pL0ZcDj"
-    },
-    {
-      "added_at": "2023-11-30 17:03:28",
-      "album": {
-        "name": "ANXIOUS HEART",
-        "url": "https://open.spotify.com/album/0jIUaKjd0A3WSKSNWJZjRZ"
-      },
-      "artists": [
-        {
-          "name": "geiko",
-          "url": "https://open.spotify.com/artist/6buyTec2V7K6LVmL74MLl2"
-        }
-      ],
-      "duration_ms": 206351,
-      "name": "ANXIOUS HEART",
-      "url": "https://open.spotify.com/track/5XPsSVX2R3enPamRURMq3W"
     },
     {
       "added_at": "2023-11-30 17:03:28",
@@ -1707,18 +1691,34 @@
     {
       "added_at": "2023-11-30 17:03:28",
       "album": {
-        "name": "Semi Automatic Butane",
-        "url": "https://open.spotify.com/album/3Z5Ozc5CVfx8Tojvj8Z8GY"
+        "name": "ANXIOUS HEART",
+        "url": "https://open.spotify.com/album/0jIUaKjd0A3WSKSNWJZjRZ"
       },
       "artists": [
         {
-          "name": "Mali",
-          "url": "https://open.spotify.com/artist/4JSAaGJ5mNSfG0MBxDFQZN"
+          "name": "geiko",
+          "url": "https://open.spotify.com/artist/6buyTec2V7K6LVmL74MLl2"
         }
       ],
-      "duration_ms": 209554,
-      "name": "Semi Automatic Butane",
-      "url": "https://open.spotify.com/track/1rN9zRk3KjZyYDTNKih1yi"
+      "duration_ms": 206351,
+      "name": "ANXIOUS HEART",
+      "url": "https://open.spotify.com/track/5XPsSVX2R3enPamRURMq3W"
+    },
+    {
+      "added_at": "2023-11-30 17:03:28",
+      "album": {
+        "name": "Summer Breeze",
+        "url": "https://open.spotify.com/album/6izqoWAn1h2IxXzD6X3IsP"
+      },
+      "artists": [
+        {
+          "name": "Coldiac",
+          "url": "https://open.spotify.com/artist/42BY4cYu4ZSj37CbSYjDgA"
+        }
+      ],
+      "duration_ms": 245830,
+      "name": "Summer Breeze",
+      "url": "https://open.spotify.com/track/4WTUBYVtbDiB4BGqnaXRGe"
     }
   ],
   "unique_name": ".ORG",

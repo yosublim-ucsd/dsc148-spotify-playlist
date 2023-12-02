@@ -4,7 +4,7 @@
 
 > Die varste Afrikaanse musiek\. Cover: <a href="https://open.spotify.com/artist/2RJteaG1GUmH9lQVczVkpp?si=Iwj7OVDPSUy4l2S6VPNDHg">Demi Lee Moore</a>
 
-659 songs - 1 day 13 hr 20 min
+660 songs - 1 day 13 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -497,6 +497,7 @@
 | [Sexy Time](https://open.spotify.com/track/1498BZFUe7DO4iKjYqzbe5) | [Van Pletzen](https://open.spotify.com/artist/0mWmaYz3c8Y6aidiFPu3kN), [Early B](https://open.spotify.com/artist/7jHhWbZTn8I9ZJLFNgorqp) | [Sexy Time](https://open.spotify.com/album/5XxHLRFUQQEk6ZzAKZUifM) | 3:10 | 2023-04-20 | 2023-05-12 |
 | [Siekverlief](https://open.spotify.com/track/50Qm70lktJn0WO9xAtaaLg) | [Jay & Lianie May](https://open.spotify.com/artist/5GWp2RUgFq865cYUABefq3) | [Beste van J&L](https://open.spotify.com/album/00CbXr39gatFcN9hv6kefR) | 3:43 | 2022-12-27 | 2023-01-02 |
 | [Sink](https://open.spotify.com/track/6aZWVE71kMVmfDMfJEj06r) | [Jammer](https://open.spotify.com/artist/4fFAhBaPkNqlELaWEY9jHf) | [Sink](https://open.spotify.com/album/5ntDOkWyQKxkDvgN3fxxMU) | 3:11 | 2023-11-23 |  |
+| [Sit Op My](https://open.spotify.com/track/3fUSXv9kqIpBIn7GAs02yh) | [Armand Joubert](https://open.spotify.com/artist/5KnlL16gAV2FJVBZgT04Tu) | [Sit Op My](https://open.spotify.com/album/3VQQVjPGZXC5v8nginiv4r) | 2:49 | 2023-11-30 |  |
 | [SKATTE](https://open.spotify.com/track/4QxosSPj1Sft96oEstnH7I) | [Tertius rooi](https://open.spotify.com/artist/6qvrGUwPvQz0pbXvVq80Sl) | [SKATTE](https://open.spotify.com/album/3ZIehpIP6HTBbfAEtkdn2G) | 3:56 | 2022-10-06 | 2022-10-21 |
 | [Skattie](https://open.spotify.com/track/1VJKNRIZ1LYNAOxIN01iNd) | [JAN JAN JAN](https://open.spotify.com/artist/0cba0v5VJqpuD1YSBoNirZ) | [Skattie](https://open.spotify.com/album/36cu3ZQxgHuLvIj3BUEynA) | 3:30 | 2022-09-29 | 2022-12-02 |
 | [Skemer](https://open.spotify.com/track/1jA3oyVG2hVhJ1N4pEnikA) | [Bouwer Bosch](https://open.spotify.com/artist/5HZFQNs0MnrxxtU7dvi4Te) | [Briewe Uit Die Argiewe](https://open.spotify.com/album/0S5HPecNnxsYdKnQXPVdcG) | 3:45 | 2022-10-27 | 2022-11-18 |

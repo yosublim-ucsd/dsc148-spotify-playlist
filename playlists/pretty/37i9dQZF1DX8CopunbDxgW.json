@@ -1,13 +1,29 @@
 {
-  "description": "The best indie dance tracks of the moment. Cover: Mindchatter",
-  "num_followers": 864199,
+  "description": "The best indie dance tracks of the moment. Cover: Empress Of",
+  "num_followers": 864222,
   "original_name": "metropolis",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYTYzZDNmMjczYTJlNWM4NDZhNGU2MTlmNmJhYTg3N2ExZmRhZDNl",
+  "snapshot_id": "MCwyMjU1MzMzZGNiODQ2YmE1OTJjMDQwMTAwZmE3YWIzMTU2M2NkOGY1",
   "tracks": [
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
+        "name": "Femenine",
+        "url": "https://open.spotify.com/album/7ASEiWsgFDmEPg0e9vaAVl"
+      },
+      "artists": [
+        {
+          "name": "Empress Of",
+          "url": "https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU"
+        }
+      ],
+      "duration_ms": 183133,
+      "name": "Femenine",
+      "url": "https://open.spotify.com/track/3hPVr4qMFJqnObkzACLwQ2"
+    },
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
@@ -29,6 +45,46 @@
       "url": "https://open.spotify.com/track/3aHiz7IyBKr9vNynIQJykZ"
     },
     {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
+        "name": "Lover/Friend",
+        "url": "https://open.spotify.com/album/1CS8eBSCVXMwYJytG5aYfX"
+      },
+      "artists": [
+        {
+          "name": "KAYTRANADA",
+          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
+        },
+        {
+          "name": "Rochelle Jordan",
+          "url": "https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3"
+        }
+      ],
+      "duration_ms": 212250,
+      "name": "Lover/Friend",
+      "url": "https://open.spotify.com/track/5ahq8vkzMznGmfN2EVOukP"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
+        "name": "High and I Like It",
+        "url": "https://open.spotify.com/album/3zbFfZPvh2CZIaf8E6NATL"
+      },
+      "artists": [
+        {
+          "name": "it's murph",
+          "url": "https://open.spotify.com/artist/3zW0xazqnHoq9QV9zBROVC"
+        },
+        {
+          "name": "Evalyn",
+          "url": "https://open.spotify.com/artist/68WwJXWrpo1yVOOIZjLSeT"
+        }
+      ],
+      "duration_ms": 223379,
+      "name": "High and I Like It",
+      "url": "https://open.spotify.com/track/0FBdJP7yzvq88bG1keGgt4"
+    },
+    {
       "added_at": "2023-11-27 14:22:50",
       "album": {
         "name": "The World I'm Searching For",
@@ -43,6 +99,30 @@
       "duration_ms": 272946,
       "name": "Talk Tonight",
       "url": "https://open.spotify.com/track/1ELp8T7arWLvK5q34Akt0r"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "Young Folks",
+        "url": "https://open.spotify.com/album/1Wr3TqDX4bDzWELjH0kTE5"
+      },
+      "artists": [
+        {
+          "name": "Dom Valentino",
+          "url": "https://open.spotify.com/artist/1eWXBPrs5K5aZXTIWdIlPe"
+        },
+        {
+          "name": "Alfie Templeman",
+          "url": "https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF"
+        },
+        {
+          "name": "Anna of the North",
+          "url": "https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI"
+        }
+      ],
+      "duration_ms": 249022,
+      "name": "Young Folks",
+      "url": "https://open.spotify.com/track/0XMWc0qrKeJnRzzyMj9Q7D"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -67,6 +147,22 @@
       "duration_ms": 257940,
       "name": "I Won\u2019t Let You Down",
       "url": "https://open.spotify.com/track/2WmcCOU2xeScvCKrpui6EV"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
+        "name": "Armatron",
+        "url": "https://open.spotify.com/album/7pYfAkU5CwZFOgIzQncD3r"
+      },
+      "artists": [
+        {
+          "name": "STRFKR",
+          "url": "https://open.spotify.com/artist/2Tz1DTzVJ5Gyh8ZwVr6ekU"
+        }
+      ],
+      "duration_ms": 252603,
+      "name": "Armatron",
+      "url": "https://open.spotify.com/track/05x6pBQelgwQJs3ZeVfdEC"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -99,6 +195,26 @@
       "duration_ms": 336541,
       "name": "EST",
       "url": "https://open.spotify.com/track/1ojCQ0v59O77rKZbwN8aQh"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
+        "name": "Look At Me Dance",
+        "url": "https://open.spotify.com/album/4GQVZQ4Bc70JB8tU8z8XML"
+      },
+      "artists": [
+        {
+          "name": "ATRIP",
+          "url": "https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI"
+        },
+        {
+          "name": "Pot\u00e9",
+          "url": "https://open.spotify.com/artist/4mHvZlo1KyW4kW3F1FE1q5"
+        }
+      ],
+      "duration_ms": 185697,
+      "name": "Look At Me Dance",
+      "url": "https://open.spotify.com/track/2ByH7zQsZ5ZGjbWRZpFoRI"
     },
     {
       "added_at": "2023-11-10 05:00:00",
@@ -135,6 +251,22 @@
       "duration_ms": 220311,
       "name": "Watch Me",
       "url": "https://open.spotify.com/track/3Zu4WIeXp4NbQZbcqv1MOr"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
+        "name": "Versions for the End",
+        "url": "https://open.spotify.com/album/6mKt6CkAEvfCwIhHGmcKgu"
+      },
+      "artists": [
+        {
+          "name": "Cafun\u00e9",
+          "url": "https://open.spotify.com/artist/581C5Qwl87TskfBEzuoisu"
+        }
+      ],
+      "duration_ms": 201538,
+      "name": "Perspective - Noah\u2019s Breaks Mix",
+      "url": "https://open.spotify.com/track/0ybUCHtEc2JZUVK5lJ6ujW"
     },
     {
       "added_at": "2023-11-10 05:00:00",
@@ -193,6 +325,38 @@
       "url": "https://open.spotify.com/track/6CZOBFhBZTd8xw004Bj1lC"
     },
     {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
+        "name": "On Me",
+        "url": "https://open.spotify.com/album/3LLuz5ZL4FUrNz4y9E8s87"
+      },
+      "artists": [
+        {
+          "name": "Cabu",
+          "url": "https://open.spotify.com/artist/44hPDOKyTwkFxOL08UzNQE"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "On Me",
+      "url": "https://open.spotify.com/track/3ShnnKhn0zXuYuEivj0jeD"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
+        "name": "Children",
+        "url": "https://open.spotify.com/album/4NH7dyo0xKA0Tw19ZIeeYR"
+      },
+      "artists": [
+        {
+          "name": "WhoMadeWho",
+          "url": "https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM"
+        }
+      ],
+      "duration_ms": 275655,
+      "name": "Children",
+      "url": "https://open.spotify.com/track/6iMyAaTKUoVOWSr4o0vESO"
+    },
+    {
       "added_at": "2023-11-17 05:00:00",
       "album": {
         "name": "Overnight",
@@ -207,6 +371,42 @@
       "duration_ms": 238684,
       "name": "Overnight",
       "url": "https://open.spotify.com/track/2ckYzNOvjKVQX5ARttEhlo"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
+        "name": "idgaf",
+        "url": "https://open.spotify.com/album/6wMU9MnWIR1jM9xY5rt8zC"
+      },
+      "artists": [
+        {
+          "name": "Rome in Silver",
+          "url": "https://open.spotify.com/artist/0Hh9X3QxTHPE2dlAS1g8IN"
+        },
+        {
+          "name": "Lhasa Petik",
+          "url": "https://open.spotify.com/artist/4F6d5pVnChKy8CcMBaZ1Ja"
+        }
+      ],
+      "duration_ms": 151473,
+      "name": "idgaf",
+      "url": "https://open.spotify.com/track/4Ej0ob9L6wzurJsEvbYNjF"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
+        "name": "TROUBLESHOOTER",
+        "url": "https://open.spotify.com/album/1JVmdf4G8REy2wKs8M6n6t"
+      },
+      "artists": [
+        {
+          "name": "KUOKO",
+          "url": "https://open.spotify.com/artist/2h8Egzl8WxLijmpQtmuwHK"
+        }
+      ],
+      "duration_ms": 140029,
+      "name": "CRISIS QUEEN",
+      "url": "https://open.spotify.com/track/1UnUdOXlw6WeRDconlDYEm"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -229,6 +429,26 @@
       "url": "https://open.spotify.com/track/6UYLv08EVHZsmMP4SrgZVw"
     },
     {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
+        "name": "Fine",
+        "url": "https://open.spotify.com/album/4yOv7Rc99hXBEg6B8dblFd"
+      },
+      "artists": [
+        {
+          "name": "RAC",
+          "url": "https://open.spotify.com/artist/4AGwPDdh1y8hochNzHy5HC"
+        },
+        {
+          "name": "Great Good Fine Ok",
+          "url": "https://open.spotify.com/artist/422RLznpwUa5FsQgnTlgUH"
+        }
+      ],
+      "duration_ms": 206240,
+      "name": "Fine",
+      "url": "https://open.spotify.com/track/1tCkS9oiXu9gvSbv759DKy"
+    },
+    {
       "added_at": "2023-11-10 05:00:00",
       "album": {
         "name": "Small Sanctuary",
@@ -243,6 +463,22 @@
       "duration_ms": 218133,
       "name": "Small Sanctuary",
       "url": "https://open.spotify.com/track/7Lx1FPVrAunBz3ykpmFxsN"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
+        "name": "Noranda",
+        "url": "https://open.spotify.com/album/6c9iq8riKu8O3HX8UJWDhh"
+      },
+      "artists": [
+        {
+          "name": "TUKAN",
+          "url": "https://open.spotify.com/artist/3Sb4jk6AELF08kyBaLrRii"
+        }
+      ],
+      "duration_ms": 296000,
+      "name": "Noranda",
+      "url": "https://open.spotify.com/track/7EBBvZXNKjDYnXJPcc5qJk"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -275,6 +511,26 @@
       "duration_ms": 221290,
       "name": "Always / Never",
       "url": "https://open.spotify.com/track/3n9EfOy7vlDIXbDyntRLxc"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
+        "name": "been here before",
+        "url": "https://open.spotify.com/album/67vURYRTpK2n6hKtcq31nG"
+      },
+      "artists": [
+        {
+          "name": "warner case",
+          "url": "https://open.spotify.com/artist/106OuakzOxxbXTuigEEf01"
+        },
+        {
+          "name": "Dylan Yem",
+          "url": "https://open.spotify.com/artist/40a0aZCzsqU7fIi6nmoZrs"
+        }
+      ],
+      "duration_ms": 199562,
+      "name": "been here before",
+      "url": "https://open.spotify.com/track/5LwAKCJlEo30A3DcObcRgW"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -327,6 +583,22 @@
       "duration_ms": 231316,
       "name": "Turn Back Time",
       "url": "https://open.spotify.com/track/4P2KkAmQ6lP0mlc1yriTXU"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
+        "name": "All My Friends Are Taking Drugs",
+        "url": "https://open.spotify.com/album/52kacpW2vuPJAmzKok0VyU"
+      },
+      "artists": [
+        {
+          "name": "Everyone You Know",
+          "url": "https://open.spotify.com/artist/4UAnAM35NDxEWd5WXKv7jM"
+        }
+      ],
+      "duration_ms": 187897,
+      "name": "All My Friends Are Taking Drugs",
+      "url": "https://open.spotify.com/track/0ahdQLJh3jakCHUIfQxofO"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -419,30 +691,6 @@
       "duration_ms": 182001,
       "name": "Time To",
       "url": "https://open.spotify.com/track/1uJZNnSaILpgIWks1zYFKW"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
-        "name": "Young Folks",
-        "url": "https://open.spotify.com/album/1Wr3TqDX4bDzWELjH0kTE5"
-      },
-      "artists": [
-        {
-          "name": "Dom Valentino",
-          "url": "https://open.spotify.com/artist/1eWXBPrs5K5aZXTIWdIlPe"
-        },
-        {
-          "name": "Alfie Templeman",
-          "url": "https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF"
-        },
-        {
-          "name": "Anna of the North",
-          "url": "https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI"
-        }
-      ],
-      "duration_ms": 249022,
-      "name": "Young Folks",
-      "url": "https://open.spotify.com/track/0XMWc0qrKeJnRzzyMj9Q7D"
     },
     {
       "added_at": "2023-11-17 05:00:00",

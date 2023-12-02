@@ -4,7 +4,7 @@
 
 > ¡Pura Doble P! Chachaaauuuuuu
 
-66 songs - 3 hr 30 min
+67 songs - 3 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,8 +68,9 @@
 | [SU CASA](https://open.spotify.com/track/1tGGJ4SRZnd2H0E2dV05iM) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [GÉNESIS](https://open.spotify.com/album/4jox3ip1I39DFC2B7R5qLH) | 2:18 | 2023-06-30 |  |
 | [Todo Es Playa](https://open.spotify.com/track/7pnRCKAqERqg6dQRKfZoFm) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [Todo Es Playa](https://open.spotify.com/album/3zTdYxlP3AQMBvbLtJQeBE) | 3:48 | 2023-06-30 |  |
 | [TULUM](https://open.spotify.com/track/7bPp2NmpmyhLJ7zWazAXMu) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [GÉNESIS](https://open.spotify.com/album/4jox3ip1I39DFC2B7R5qLH) | 3:29 | 2023-06-30 |  |
-| [Tus Lindos Versos \- En Vivo](https://open.spotify.com/track/6WGk5SqnWogTgDlMdyEdbo) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [Disco en Vivo \(En Vivo\)](https://open.spotify.com/album/6GFrP5y4e18yKiRnCnRYom) | 2:35 | 2023-06-30 |  |
+| [Tus Lindos Versos \- En Vivo](https://open.spotify.com/track/6WGk5SqnWogTgDlMdyEdbo) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [Disco en Vivo \(En Vivo\)](https://open.spotify.com/album/6GFrP5y4e18yKiRnCnRYom) | 2:35 | 2023-06-30 | 2023-12-02 |
 | [Un Suspiro \- En Vivo](https://open.spotify.com/track/4E6s2aBCZuoHdo2ADKmX1R) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [Disco en Vivo \(En Vivo\)](https://open.spotify.com/album/6GFrP5y4e18yKiRnCnRYom) | 2:40 | 2023-06-30 |  |
+| [UNA BALA](https://open.spotify.com/track/6K7gGdiXiKHTaA5M98uT1F) | [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [1 1 1](https://open.spotify.com/album/3AROvUBUe1mMAauVt73kRF) | 3:02 | 2023-12-01 |  |
 | [VVS](https://open.spotify.com/track/3B0swL7Qil9bB7eKzBREBK) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv), [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [GÉNESIS](https://open.spotify.com/album/4jox3ip1I39DFC2B7R5qLH) | 2:42 | 2023-06-30 |  |
 | [Y Qué?](https://open.spotify.com/track/3IeL2BjoIaLICr6QDXxlcj) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [Efectos Secundarios](https://open.spotify.com/album/1OFfEo5jIQpvjQXD8OFcsx) | 1:49 | 2023-06-30 |  |
 | [Yo Ando Agusto](https://open.spotify.com/track/1BIWnxCD4bMwUFd9qisEEh) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [Ah y Que?](https://open.spotify.com/album/4tO6I5yocnvc0sSkyqyE29) | 2:28 | 2023-06-30 | 2023-11-07 |

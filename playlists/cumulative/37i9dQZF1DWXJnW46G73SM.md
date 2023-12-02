@@ -4,7 +4,7 @@
 
 > أحدث الأغاني المصرية هنا🤩 الغلاف:<a href="https://open.spotify.com/artist/2KJgliIl1dMyeOMyCcnYv7?si=3qmWiryeQw2ebI\-jOFrEVA"> بهاء سلطان </a>
 
-692 songs - 1 day 15 hr 19 min
+693 songs - 1 day 15 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,7 @@
 | [Aamel Nasini](https://open.spotify.com/track/63bfjUj6fMBP6LgI0cHKX9) | [Abeer Nehme](https://open.spotify.com/artist/22VZmipYTMSoNzvBaWkVwF) | [Aamel Nasini](https://open.spotify.com/album/6JtgZQjsNoj5ZwA2MPJL78) | 3:25 | 2022-09-20 | 2022-12-17 |
 | [Abia El Donia](https://open.spotify.com/track/6hioBIoRNttVg7pvZ9qnrd) | [Bossy](https://open.spotify.com/artist/3xg4VREmOEjLJurhXIelW7) | [Abia El Donia](https://open.spotify.com/album/3UlzoBKkSpdbdOopu4NtJb) | 3:32 | 2021-12-23 | 2021-12-30 |
 | [Abos Albak](https://open.spotify.com/track/3LYUhEfB90kf2dt0sQ7esr) | [Ehab Tawfik](https://open.spotify.com/artist/7AuBGlcUaHok37yr6u963C) | [Abos Albak](https://open.spotify.com/album/4zqwxJpcg6Zzm9vMz5fdEl) | 4:27 | 2022-02-17 | 2022-06-03 |
-| [Adeit](https://open.spotify.com/track/2sBtfs5txlAsXwCyMvWs30) | [Tamer Ashour](https://open.spotify.com/artist/5rCq30EbJ3DfZPKybGZj8F) | [Adeit](https://open.spotify.com/album/3thPAd7quOl2gh9BhMv2nv) | 2:50 | 2023-08-16 |  |
+| [Adeit](https://open.spotify.com/track/2sBtfs5txlAsXwCyMvWs30) | [Tamer Ashour](https://open.spotify.com/artist/5rCq30EbJ3DfZPKybGZj8F) | [Adeit](https://open.spotify.com/album/3thPAd7quOl2gh9BhMv2nv) | 2:50 | 2023-08-16 | 2023-12-02 |
 | [Ader Akmel](https://open.spotify.com/track/2IhPJapsl9WFLBFNhWZp7q) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V) | [Ader Akmel](https://open.spotify.com/album/393g3wXpkLzwfnewZVZ01n) | 4:13 | 2023-02-15 | 2023-04-06 |
 | [Adrenaline](https://open.spotify.com/track/1uE7Gln68v4duncYy4QgQm) | [Mohamed Hamaki](https://open.spotify.com/artist/6bb9VI1PpPTEmdgcgjTppX) | [Adrenaline](https://open.spotify.com/album/7BbMlrhOzLqWAbf9o1yBw6) | 3:14 | 2022-07-30 | 2022-10-27 |
 | [Agaby](https://open.spotify.com/track/3nkxT86Yig9jbqxfPj8aEz) | [Mohamed Hamaki](https://open.spotify.com/artist/6bb9VI1PpPTEmdgcgjTppX), [Tooma](https://open.spotify.com/artist/06DFi3gbAAErstJENtIa5z) | [Agaby](https://open.spotify.com/album/6tJgJlVAZD9fom15faEf1y) | 3:51 | 2022-02-24 | 2022-06-08 |
@@ -664,6 +664,7 @@
 | [مصلحتك](https://open.spotify.com/track/3zNFE3WvCQmtIqQYLxBcoH) | [Fahad Al Kubaisi](https://open.spotify.com/artist/6rBbNvUdaLTfN5ynPdHdhJ) | [مصلحتك](https://open.spotify.com/album/2n0YMCPqZLwtR3Y4she3fz) | 2:41 | 2023-09-14 |  |
 | [مفيش فلوس](https://open.spotify.com/track/3oJaOYkZzHG3OTkJUFvhWP) | [Majd El Qassem](https://open.spotify.com/artist/3JYQe04S3M2qJdiLRIKhAd) | [مفيش فلوس](https://open.spotify.com/album/2LzNtDlCHJZQqC17EEy0xF) | 4:10 | 2023-05-11 | 2023-06-16 |
 | [ملك الفرفشة](https://open.spotify.com/track/1kQRL3taxrcisyzV8IQoj1) | [Ramy Sabry](https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc) | [ملك الفرفشة](https://open.spotify.com/album/45urWO1EZCOYFsWFWQrf4S) | 3:16 | 2023-07-07 | 2023-08-11 |
+| [مملكتي](https://open.spotify.com/track/5NDAoUtv98f3Lc1cWe7fP3) | [Walid Toufic](https://open.spotify.com/artist/3b9dx7eQwwKtA6ctUq8sd2) | [مملكتي](https://open.spotify.com/album/2hXgXmZIh865wdcdXqS1jP) | 2:50 | 2023-12-01 |  |
 | [من أول يوم](https://open.spotify.com/track/4hqxXL2H3VMVKLSLOsy37c) | [Mohamed Fouad](https://open.spotify.com/artist/4FzNAmPr13nex81xINu16D) | [من أول يوم](https://open.spotify.com/album/3hZW9pUEKNNP4eYTwqYGLm) | 2:36 | 2023-07-22 | 2023-08-18 |
 | [مهيبرين](https://open.spotify.com/track/1QHglFYlFySKRrR04B9IJM) | [Moustafa Amar](https://open.spotify.com/artist/138TnQ2OZ2ObFHOjKASDvC) | [أولاد حريم كريم \(أغاني الفيلم\)](https://open.spotify.com/album/6Lnc9Yc3dWv0BKhCsb1xRN) | 2:45 | 2023-09-01 |  |
 | [نحنوح](https://open.spotify.com/track/1lcoflpxNSJR8U0gzVY6xq) | [Donia Samir Ghanem](https://open.spotify.com/artist/1ieloBuwzXdMn9VPOufDvB) | [نحنوح](https://open.spotify.com/album/7KNPArvrYE01FNciIiERE0) | 3:25 | 2022-09-15 | 2022-12-02 |

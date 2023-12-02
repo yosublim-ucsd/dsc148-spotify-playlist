@@ -869,6 +869,28 @@
     },
     {
       "album": {
+        "name": "Asi Morire",
+        "url": "https://open.spotify.com/album/7octZhhTn13no8w7w4fofd"
+      },
+      "artists": [
+        {
+          "name": "Ovi",
+          "url": "https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv"
+        },
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225500,
+      "name": "Asi Morire",
+      "url": "https://open.spotify.com/track/3w21zNcx8MJXHRbPHWSzMn"
+    },
+    {
+      "album": {
         "name": "As\u00ed Es Como Es",
         "url": "https://open.spotify.com/album/5cNd3JTnVB3cRY5WkSv3m9"
       },
@@ -910,7 +932,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 164494,
       "name": "Atrapado En La Rutina",
       "url": "https://open.spotify.com/track/7HQEiku5JYDQT7s32SNf4I"
@@ -1094,6 +1116,64 @@
       "duration_ms": 158300,
       "name": "Bendecido",
       "url": "https://open.spotify.com/track/50PEoLvQw5Wr5KxEAIzN3u"
+    },
+    {
+      "album": {
+        "name": "Bendecidos",
+        "url": "https://open.spotify.com/album/4UoVuTXXewpiz2fJWiosZH"
+      },
+      "artists": [
+        {
+          "name": "Akapellah",
+          "url": "https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym"
+        },
+        {
+          "name": "Canserbero",
+          "url": "https://open.spotify.com/artist/1wGIhYkKWSq4yACtTkCkSX"
+        },
+        {
+          "name": "Santa Suerte",
+          "url": "https://open.spotify.com/artist/1eblaVtbXUDGr90qMXfqAa"
+        },
+        {
+          "name": "Alem\u00e1n",
+          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
+        },
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        },
+        {
+          "name": "Al2 El Aldeano",
+          "url": "https://open.spotify.com/artist/6lYSDSFhJyUV6CtNix2fBA"
+        },
+        {
+          "name": "Kase.O",
+          "url": "https://open.spotify.com/artist/7GmXwGXJSsmWTkCyk5Twux"
+        },
+        {
+          "name": "Foyone",
+          "url": "https://open.spotify.com/artist/1F2erLLqRHbaFvEYHeVIHJ"
+        },
+        {
+          "name": "To\u00f1o Lizarraga",
+          "url": "https://open.spotify.com/artist/58kEJAbZ1Knbo4UI2phUQv"
+        },
+        {
+          "name": "Solitario Mondragon",
+          "url": "https://open.spotify.com/artist/4KXpp5lz2MakNFcTszi2B9"
+        },
+        {
+          "name": "Norick",
+          "url": "https://open.spotify.com/artist/6QpEp4wXCGHehb8OeyqUDo"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 527000,
+      "name": "Bendecidos",
+      "url": "https://open.spotify.com/track/2QEkingmea3KHdvw0dy9K3"
     },
     {
       "album": {
@@ -1786,7 +1866,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 171221,
       "name": "Conexi\u00f3n",
       "url": "https://open.spotify.com/track/3wpukX8pJ6wNLECrQlhUq5"
@@ -2064,10 +2144,28 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 212999,
       "name": "Cumbia Castrosa",
       "url": "https://open.spotify.com/track/4Z2RpX71Du8dQQxMTRYxKF"
+    },
+    {
+      "album": {
+        "name": "Cumbia Guanajuato",
+        "url": "https://open.spotify.com/album/2OfS4FQONfrjASRTVixgok"
+      },
+      "artists": [
+        {
+          "name": "Chato 473",
+          "url": "https://open.spotify.com/artist/7zvcqoLiInqmSmPzX0gwfp"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 339692,
+      "name": "Cumbia Guanajuato",
+      "url": "https://open.spotify.com/track/2yfBHIWg2GWqQvUhR9MW1U"
     },
     {
       "album": {
@@ -2442,6 +2540,24 @@
       "duration_ms": 252000,
       "name": "Desvielados",
       "url": "https://open.spotify.com/track/3N1D4VrIeFeZyraFaIOakm"
+    },
+    {
+      "album": {
+        "name": "Detr\u00e1s De C\u00e1maras",
+        "url": "https://open.spotify.com/album/7zBMH6a1YSvK83JNTYPLhi"
+      },
+      "artists": [
+        {
+          "name": "Aczino",
+          "url": "https://open.spotify.com/artist/4r1ZDYKzPt3iIjuq8LbT6X"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204200,
+      "name": "Detr\u00e1s De C\u00e1maras",
+      "url": "https://open.spotify.com/track/0czchxjdPJBzRv6BBQajqH"
     },
     {
       "album": {
@@ -9634,7 +9750,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 536750,
       "name": "Vago$ Cypher",
       "url": "https://open.spotify.com/track/0LAnxV8FtIGa2xoSP8JdKS"

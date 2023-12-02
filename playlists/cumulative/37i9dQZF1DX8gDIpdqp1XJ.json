@@ -625,6 +625,32 @@
     },
     {
       "album": {
+        "name": "SUNSTRIKES",
+        "url": "https://open.spotify.com/album/116qceKwaUUDLL7qh1tJsO"
+      },
+      "artists": [
+        {
+          "name": "The South Hill Experiment",
+          "url": "https://open.spotify.com/artist/6PmrG14lGhCeDfxf40nbZX"
+        },
+        {
+          "name": "Baird",
+          "url": "https://open.spotify.com/artist/7GdGZWPHxDEu0ppvLoB4GO"
+        },
+        {
+          "name": "Goldwash",
+          "url": "https://open.spotify.com/artist/7yYa2im7sawSzuVkXx8W21"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210948,
+      "name": "Alright, OK",
+      "url": "https://open.spotify.com/track/7hj2XcjFRk7CG1aL0GqTQP"
+    },
+    {
+      "album": {
         "name": "Always",
         "url": "https://open.spotify.com/album/1vBq4EJTv9SxqYJ01tCZDp"
       },
@@ -1082,7 +1108,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 235840,
       "name": "Avalanche Of Love",
       "url": "https://open.spotify.com/track/1ypEcoMJdjba3Xh9QUIM7K"
@@ -3068,7 +3094,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 271756,
       "name": "DAYS GO BY",
       "url": "https://open.spotify.com/track/0IngWDycujRx7MPYCqImO0"
@@ -4680,7 +4706,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 231133,
       "name": "Festive Day",
       "url": "https://open.spotify.com/track/4JLRH65PoifRK6wwunuOBh"
@@ -5190,6 +5216,28 @@
       "duration_ms": 260346,
       "name": "Gamma Rays",
       "url": "https://open.spotify.com/track/7qBXFdv7Q6FMWhsHt2OawM"
+    },
+    {
+      "album": {
+        "name": "Gamma Rays (Sean Ono Lennon Remix)",
+        "url": "https://open.spotify.com/album/0htTLQYeJhBADpJ0oQ8m8X"
+      },
+      "artists": [
+        {
+          "name": "Temples",
+          "url": "https://open.spotify.com/artist/4ogwGU9VPWrnVBs1GEwZVV"
+        },
+        {
+          "name": "Sean Ono Lennon",
+          "url": "https://open.spotify.com/artist/5JUYSPkis2Mk6HUbmMqk1m"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 333173,
+      "name": "Gamma Rays (Sean Ono Lennon Remix)",
+      "url": "https://open.spotify.com/track/1u87YKsVkulCvckDBtTfqv"
     },
     {
       "album": {
@@ -7888,7 +7936,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 250664,
       "name": "Late Riser",
       "url": "https://open.spotify.com/track/49oTazxdKGoxGTq9ZmqpPV"
@@ -11253,6 +11301,24 @@
     },
     {
       "album": {
+        "name": "Piggies",
+        "url": "https://open.spotify.com/album/1MmtHO2F23nIID3DUI5Sn3"
+      },
+      "artists": [
+        {
+          "name": "The Amazing",
+          "url": "https://open.spotify.com/artist/16f3WYlA4miISj20MG5J30"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231500,
+      "name": "Piggies",
+      "url": "https://open.spotify.com/track/0YmVJGxRW8VDvEoDYE8d0S"
+    },
+    {
+      "album": {
         "name": "Pitbull Goes To The Club",
         "url": "https://open.spotify.com/album/0fFfUdrvMKgczkaWOpqHWU"
       },
@@ -11286,6 +11352,24 @@
       "duration_ms": 239773,
       "name": "Plane Ride",
       "url": "https://open.spotify.com/track/7ptgy3upIcNWTo5jPdRtAG"
+    },
+    {
+      "album": {
+        "name": "Poisoned",
+        "url": "https://open.spotify.com/album/4GV7zlEZ8pxZ4uQEz9alvz"
+      },
+      "artists": [
+        {
+          "name": "Cousin Kula",
+          "url": "https://open.spotify.com/artist/1TuDUmw1jUuY1V5s78TNHd"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245986,
+      "name": "Poisoned",
+      "url": "https://open.spotify.com/track/4QsDdmKODqrc9vr6Yb3jlZ"
     },
     {
       "album": {
@@ -13590,7 +13674,7 @@
       ],
       "date_added": "2023-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 203070,
       "name": "Sunset For The Dead",
       "url": "https://open.spotify.com/track/3E2qVqPW3FS2LXzCbss9yq"
@@ -14194,6 +14278,28 @@
       "duration_ms": 238320,
       "name": "The Boat I Row",
       "url": "https://open.spotify.com/track/1HVYQj4liQb1QOygBfjZqV"
+    },
+    {
+      "album": {
+        "name": "Habitat",
+        "url": "https://open.spotify.com/album/3glCxDLdGv7lRijvfycOEC"
+      },
+      "artists": [
+        {
+          "name": "C'mon Tigre",
+          "url": "https://open.spotify.com/artist/1ntP294de9KGcB3pTfpGfJ"
+        },
+        {
+          "name": "Seun Kuti",
+          "url": "https://open.spotify.com/artist/1GQur7dDvAWhKT9u9YwBJZ"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270586,
+      "name": "The Botanist",
+      "url": "https://open.spotify.com/track/7ezLCYYElreJTHe7KyuKTG"
     },
     {
       "album": {
@@ -15770,7 +15876,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 315426,
       "name": "Waile",
       "url": "https://open.spotify.com/track/7CrdlbRadEBmd16KQWt4xf"
@@ -15868,6 +15974,24 @@
       "duration_ms": 206012,
       "name": "Warning Sign",
       "url": "https://open.spotify.com/track/4E76b5eScYyjahibva76Bk"
+    },
+    {
+      "album": {
+        "name": "Was It The Wandering Chestnut Prince? / Constellation of Misty Contraband (The Tunnel of Zazar)",
+        "url": "https://open.spotify.com/album/4yC45tPz6dVqrA1cvNjPva"
+      },
+      "artists": [
+        {
+          "name": "Kinder Bloomen",
+          "url": "https://open.spotify.com/artist/6Myz6IelnH81UoSa6rvd7K"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167050,
+      "name": "Was It The Wandering Chestnut Prince",
+      "url": "https://open.spotify.com/track/1U0WWy2wLJdvN7WvyFzmoG"
     },
     {
       "album": {

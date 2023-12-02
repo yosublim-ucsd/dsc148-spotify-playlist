@@ -2,9 +2,9 @@
 
 ### [Breakout Country](https://open.spotify.com/playlist/37i9dQZF1DWW7RgkOJG32Y)
 
-> Top trending country tracks from the last few months\. Cover: Jessie Murph and Jelly Roll
+> Top trending country tracks from the last few months\. Cover: Cody Johnson
 
-351 songs - 18 hr 44 min
+352 songs - 18 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [35’s](https://open.spotify.com/track/4B0nJLbPzVxWt7o99SiGrO) | [Tyler Hubbard](https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V) | [35's](https://open.spotify.com/album/0aQPvZHQLSNQhDhYvfnw0a) | 2:54 | 2022-08-12 | 2023-04-15 |
 | [5 Foot 9](https://open.spotify.com/track/6AqwH2Y9FJwhUE2dCSkw1u) | [Tyler Hubbard](https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V) | [5 Foot 9](https://open.spotify.com/album/5CTNA7y4WYhLcCd8ijsnRr) | 3:09 | 2022-06-03 | 2022-08-13 |
 | [AA](https://open.spotify.com/track/77oKig47u34qCCFWKMfu1e) | [Walker Hayes](https://open.spotify.com/artist/7sKxqpSqbIzphAKAhrqvlf) | [AA](https://open.spotify.com/album/7m5hJYb9a0sxNstIKm3PPz) | 3:09 | 2021-12-17 | 2022-01-22 |
+| [Ain't Doin' Jack](https://open.spotify.com/track/1cF5gDFBHOprIKwzFORNjH) | [Josh Ross](https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U) | [Ain't Doin' Jack](https://open.spotify.com/album/1URccwrkhVDXNb8uowWWhk) | 2:40 | 2023-12-01 |  |
 | [Ain't Missin' You](https://open.spotify.com/track/3XCsnZP8tL6fAbYofj9O0M) | [Dylan Schneider](https://open.spotify.com/artist/5lRB3MAJfKzlt7dgYMHWgY) | [Ain't Missin' You](https://open.spotify.com/album/79FH6zbP58c4ANd9udRiDc) | 2:56 | 2023-04-07 | 2023-09-09 |
 | [Ain’t That Some](https://open.spotify.com/track/2YVlDlk2zRceefo6XlC6DX) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [One Thing At A Time](https://open.spotify.com/album/6i7mF7whyRJuLJ4ogbH2wh) | 2:38 | 2023-03-10 |  |
 | [All About It](https://open.spotify.com/track/0j2e7Gu19gy0ZqIOQyN4xj) | [Dylan Marlowe](https://open.spotify.com/artist/0ZZLr8EH3aNFzYpXtaTIax) | [Dylan Marlowe](https://open.spotify.com/album/1Cn8tdli6qxfcmhTQ8RcnY) | 3:05 | 2021-12-17 | 2022-03-26 |
@@ -36,7 +37,7 @@
 | [Better In A Car](https://open.spotify.com/track/0jf7mfajOp2Ilgvg7IdfC6) | [Roman Alexander](https://open.spotify.com/artist/55snOo1hCfZ7FC9ogPpGnH) | [Better In A Car](https://open.spotify.com/album/5VY7MlO6bxG8jwzgfJYdSg) | 3:14 | 2021-12-17 | 2022-05-20 |
 | [Better On Me](https://open.spotify.com/track/3Gk75ziLzHNskYTW2MIG4p) | [Erin Kinsey](https://open.spotify.com/artist/5TtSGhhCPt56x4ZPfg7DFq) | [Better On Me](https://open.spotify.com/album/5iCiDUEYtamxT2KOTT22Gf) | 2:29 | 2022-03-04 | 2023-02-25 |
 | [Better Than Me](https://open.spotify.com/track/2ilYbyE407vRTy3XLSNfPy) | [Sam Grow](https://open.spotify.com/artist/4cFA9cxl7v3CrFYxOOXsSs) | [Better Than Me](https://open.spotify.com/album/4QAAx1K05pI8pacdZZvcxI) | 3:08 | 2021-12-17 | 2022-05-07 |
-| [Bigger Mistakes](https://open.spotify.com/track/1pmBuw9a3r467tlzVZj0P4) | [Mitchell Tenpenny](https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc) | [Bigger Mistakes](https://open.spotify.com/album/2uVwuhiaZ87g3vubWsYODw) | 2:59 | 2023-09-08 |  |
+| [Bigger Mistakes](https://open.spotify.com/track/1pmBuw9a3r467tlzVZj0P4) | [Mitchell Tenpenny](https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc) | [Bigger Mistakes](https://open.spotify.com/album/2uVwuhiaZ87g3vubWsYODw) | 2:59 | 2023-09-08 | 2023-12-02 |
 | [Blindsided](https://open.spotify.com/track/65gLItuJFVkdt3k4ibQMAz) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Rolling Up the Welcome Mat](https://open.spotify.com/album/7qxClQvz2eSkDB7CtFfPZH) | 2:50 | 2023-02-17 |  |
 | [Blue Eyes](https://open.spotify.com/track/232kkQ6vbOzY4kE2JkrBpp) | [Pierre Alexander](https://open.spotify.com/artist/55TMBUBKkjVqu2EipyfY9z) | [Blue Eyes](https://open.spotify.com/album/5gZP9GdBmQljja486HZYa0) | 3:49 | 2021-12-31 | 2022-05-28 |
 | [Boyfriend Season](https://open.spotify.com/track/3lFM6nfTMY13O8eGTAq4LX) | [Matt Stell](https://open.spotify.com/artist/7EekKnlf2HwNaLLpL9Cpgy) | [Boyfriend Season](https://open.spotify.com/album/1bRk2nXO3rZWIYGgeJGO5R) | 3:09 | 2021-12-17 | 2022-05-14 |

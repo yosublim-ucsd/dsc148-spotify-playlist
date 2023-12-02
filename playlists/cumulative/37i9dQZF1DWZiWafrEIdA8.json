@@ -136,7 +136,7 @@
       ],
       "date_added": "2023-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 136973,
       "name": "Apocalypse Prod. PEEJAY",
       "url": "https://open.spotify.com/track/6vrUC8qQyVvpKSloGLR8gB"
@@ -1328,13 +1328,17 @@
           "url": "https://open.spotify.com/artist/72F43xdiBUC3JmJ4kZbQye"
         },
         {
+          "name": "CODE KUNST",
+          "url": "https://open.spotify.com/artist/4WnO2VmlwdTX77ANsThWLQ"
+        },
+        {
           "name": "VINXEN",
           "url": "https://open.spotify.com/artist/4T6xiCykTP9rCNaEPU7D4q"
         }
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-15",
+      "date_removed": null,
       "duration_ms": 229467,
       "name": "HERE (Prod. by CODE KUNST)",
       "url": "https://open.spotify.com/track/0CLJv5Pc0DZbuo78MqLyrG"

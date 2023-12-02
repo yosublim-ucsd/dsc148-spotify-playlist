@@ -4,7 +4,7 @@
 
 > Bringing the roaring 20s into the 2020s
 
-328 songs - 18 hr 52 min
+329 songs - 18 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,6 +79,7 @@
 | [Empires](https://open.spotify.com/track/1WdbMVvjfOV8M0tkRVilKh) | [The Electric Swing Circus](https://open.spotify.com/artist/3MUnAJMKx97SfTZYNB2iXY) | [It Flew By](https://open.spotify.com/album/3PwKRBTI8qZfij6rcT7bP2) | 3:10 | 2020-10-30 |  |
 | [Empires](https://open.spotify.com/track/7BilkHwC8zy0Mv67wsGiUM) | [The Electric Swing Circus](https://open.spotify.com/artist/3MUnAJMKx97SfTZYNB2iXY) | [It Flew By](https://open.spotify.com/album/5XFucNk2gXgSbcQbuzgOW5) | 3:10 | 2020-10-30 | 2022-07-29 |
 | [End of the World Party](https://open.spotify.com/track/3fHEXWt9o5xQSTINggTtrm) | [Nestor Kéa](https://open.spotify.com/artist/7oWKh4R1VZ1jXgka3iXgpo) | [Les Oiseaux Scratchent Pour Mourir](https://open.spotify.com/album/7mvRmeLqeW3w8moijO2bQ8) | 2:47 | 2022-11-07 | 2023-03-18 |
+| [Everybody \- Electro Swing Mix](https://open.spotify.com/track/6NOeBomPPFW0VCiSRfdbg8) | [The Lost Fingers](https://open.spotify.com/artist/6sp0EZC05wbJUlY1h8oOUc), [Wolfgang Lohr](https://open.spotify.com/artist/5GImm0oU5MkW7OHkb91jwu) | [Everybody \(Electro Swing Mix\)](https://open.spotify.com/album/6pb9CiKO2Bmhfh5DeGoTzS) | 3:39 | 2023-12-01 |  |
 | [Evil](https://open.spotify.com/track/29DlkdM6lBrxTl1NkbTphy) | [The Vaude Villainz](https://open.spotify.com/artist/6oep99RRsuJSNN1Hw5g3sR) | [Voodoo Swing](https://open.spotify.com/album/3KX6WYtBTm0826dMFTplPE) | 3:40 | 2022-10-12 | 2022-11-08 |
 | [Extra Fries](https://open.spotify.com/track/556y7EL1trkqGtevzn8684) | [The Fly Guy Five](https://open.spotify.com/artist/7D5flI7hB9nzew9W2KnKm8) | [Merry\-Go\-Round\-And\-Round](https://open.spotify.com/album/3yXw16nAl3qa0f4egmHdXd) | 2:00 | 2022-09-02 |  |
 | [Fallen World](https://open.spotify.com/track/43JHup1dQxUg6csXXFXXqH) | [Riff Kitten](https://open.spotify.com/artist/2dWWUgJS0zdhV2Bu4WGF6a), [Kumiho](https://open.spotify.com/artist/4t0HSuBBnJfGBkQe4cAaCm) | [Fallen World](https://open.spotify.com/album/16zC5JX98ONcA99BQYDNgG) | 3:48 | 2020-10-30 |  |

@@ -1,51 +1,15 @@
 {
   "description": "Mood: Turnt",
-  "num_followers": 6716248,
+  "num_followers": 6716702,
   "original_name": "Get Turnt",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MjQ2ZDkyMTE4NmMxZDgxZDJiMDIyYmNmZTY3ZTg3ODQ4NmQ3MGIx",
+  "snapshot_id": "MCwzZjQ0ZjNmMDE5MTQzYzk4MDU5ZGJhZjA2Yzg3NDRmMGFlNjZjMzNl",
   "tracks": [
     {
-      "added_at": "2023-11-24 05:04:20",
-      "album": {
-        "name": "UTOPIA",
-        "url": "https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ"
-      },
-      "artists": [
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        },
-        {
-          "name": "Playboi Carti",
-          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
-        }
-      ],
-      "duration_ms": 191700,
-      "name": "FE!N (feat. Playboi Carti)",
-      "url": "https://open.spotify.com/track/42VsgItocQwOQC3XWZ8JNA"
-    },
-    {
-      "added_at": "2023-11-24 05:04:20",
-      "album": {
-        "name": "500lbs",
-        "url": "https://open.spotify.com/album/2Ro9gydgq5JWy7b22zPty9"
-      },
-      "artists": [
-        {
-          "name": "Lil Tecca",
-          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
-        }
-      ],
-      "duration_ms": 144390,
-      "name": "500lbs",
-      "url": "https://open.spotify.com/track/1xWkeSPhf3bZqHY7Ncz8vp"
-    },
-    {
-      "added_at": "2023-11-24 05:04:20",
+      "added_at": "2023-12-01 04:00:00",
       "album": {
         "name": "For All The Dogs",
         "url": "https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW"
@@ -65,47 +29,79 @@
       "url": "https://open.spotify.com/track/7aqfrAY2p9BUSiupwk3svU"
     },
     {
-      "added_at": "2023-11-24 05:04:20",
+      "added_at": "2023-12-01 04:00:00",
       "album": {
-        "name": "Cold (feat. B.G. & Mike WiLL Made-It)",
-        "url": "https://open.spotify.com/album/30n2gaTkEAk04fqVGusVNh"
+        "name": "Soak City (Do it)",
+        "url": "https://open.spotify.com/album/2w59tnyiYwj7cgHZSUP8pW"
       },
       "artists": [
         {
-          "name": "Gucci Mane",
-          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
-        },
-        {
-          "name": "B.G.",
-          "url": "https://open.spotify.com/artist/36HvjE9pV91jEjO1qBRidS"
-        },
-        {
-          "name": "Mike WiLL Made-It",
-          "url": "https://open.spotify.com/artist/0NWbwDZY1VkRqFafuQm6wk"
+          "name": "310babii",
+          "url": "https://open.spotify.com/artist/4VCriUU9CsPnUvoAsxVk1p"
         }
       ],
-      "duration_ms": 155200,
-      "name": "Cold (feat. B.G. & Mike WiLL Made-It)",
-      "url": "https://open.spotify.com/track/4PKh6tJP16etcy2eKyMODe"
+      "duration_ms": 123547,
+      "name": "Soak City (Do it)",
+      "url": "https://open.spotify.com/track/5C8h9PY9oTneqJihbn10NB"
     },
     {
-      "added_at": "2023-11-24 05:04:20",
+      "added_at": "2023-12-01 04:00:00",
       "album": {
-        "name": "Mmhmm",
-        "url": "https://open.spotify.com/album/1D3Uf2OkWYQytEbK3NpdMn"
+        "name": "Tee's Coney Island",
+        "url": "https://open.spotify.com/album/2XCjDuNrAObHZrKPhsWvzP"
+      },
+      "artists": [
+        {
+          "name": "Tee Grizzley",
+          "url": "https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        }
+      ],
+      "duration_ms": 151182,
+      "name": "Loop Hole (feat. 21 Savage)",
+      "url": "https://open.spotify.com/track/5gzEL5O1ubbtIHUhLkSMTz"
+    },
+    {
+      "added_at": "2023-12-01 04:00:00",
+      "album": {
+        "name": "500lbs",
+        "url": "https://open.spotify.com/album/2Ro9gydgq5JWy7b22zPty9"
+      },
+      "artists": [
+        {
+          "name": "Lil Tecca",
+          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
+        }
+      ],
+      "duration_ms": 144390,
+      "name": "500lbs",
+      "url": "https://open.spotify.com/track/1xWkeSPhf3bZqHY7Ncz8vp"
+    },
+    {
+      "added_at": "2023-12-01 04:00:00",
+      "album": {
+        "name": "THE BIGGEST",
+        "url": "https://open.spotify.com/album/2EZ8JL3dtb54VXi3k6E7k6"
       },
       "artists": [
         {
           "name": "BigXthaPlug",
           "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
+        },
+        {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
         }
       ],
-      "duration_ms": 119015,
-      "name": "Mmhmm",
-      "url": "https://open.spotify.com/track/1nQaTUDJ7Rc4yOvZmg9Ozr"
+      "duration_ms": 170106,
+      "name": "Climate (feat. Offset)",
+      "url": "https://open.spotify.com/track/1c7MITQmNJTrvfbDSzWT6x"
     },
     {
-      "added_at": "2023-11-24 05:04:20",
+      "added_at": "2023-12-01 04:00:00",
       "album": {
         "name": "Bent",
         "url": "https://open.spotify.com/album/1lzWtPTZrL3ZE1oagDJgvL"
@@ -133,7 +129,7 @@
       "url": "https://open.spotify.com/track/6ulEymrJ2Azx1uo3YHSE5w"
     },
     {
-      "added_at": "2023-11-24 05:04:20",
+      "added_at": "2023-12-01 04:00:00",
       "album": {
         "name": "Lovin On Me",
         "url": "https://open.spotify.com/album/6VCO0fDBGbRW8mCEvV95af"
@@ -149,63 +145,7 @@
       "url": "https://open.spotify.com/track/4xhsWYTOGcal8zt0J161CU"
     },
     {
-      "added_at": "2023-11-24 05:04:20",
-      "album": {
-        "name": "Presha",
-        "url": "https://open.spotify.com/album/2tnjYrSajrt2nlv2Acf1DP"
-      },
-      "artists": [
-        {
-          "name": "2 Chainz",
-          "url": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
-        },
-        {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
-        }
-      ],
-      "duration_ms": 185453,
-      "name": "Presha (with Lil Wayne)",
-      "url": "https://open.spotify.com/track/6N7TGPYfGP2oxiy9Cpaz9G"
-    },
-    {
-      "added_at": "2023-11-24 05:04:20",
-      "album": {
-        "name": "Soak City (Do it)",
-        "url": "https://open.spotify.com/album/2w59tnyiYwj7cgHZSUP8pW"
-      },
-      "artists": [
-        {
-          "name": "310babii",
-          "url": "https://open.spotify.com/artist/4VCriUU9CsPnUvoAsxVk1p"
-        }
-      ],
-      "duration_ms": 123547,
-      "name": "Soak City (Do it)",
-      "url": "https://open.spotify.com/track/5C8h9PY9oTneqJihbn10NB"
-    },
-    {
-      "added_at": "2023-11-24 05:04:20",
-      "album": {
-        "name": "Tee's Coney Island",
-        "url": "https://open.spotify.com/album/2XCjDuNrAObHZrKPhsWvzP"
-      },
-      "artists": [
-        {
-          "name": "Tee Grizzley",
-          "url": "https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO"
-        },
-        {
-          "name": "21 Savage",
-          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
-        }
-      ],
-      "duration_ms": 151182,
-      "name": "Loop Hole (feat. 21 Savage)",
-      "url": "https://open.spotify.com/track/5gzEL5O1ubbtIHUhLkSMTz"
-    },
-    {
-      "added_at": "2023-11-24 05:04:20",
+      "added_at": "2023-12-01 04:00:00",
       "album": {
         "name": "HVN ON EARTH",
         "url": "https://open.spotify.com/album/5bHwBaNZKESVBhqCvs4Ify"
@@ -225,10 +165,66 @@
       "url": "https://open.spotify.com/track/4367dXCt02KMgELPisJ2D4"
     },
     {
-      "added_at": "2023-11-24 05:04:20",
+      "added_at": "2023-12-01 04:00:00",
       "album": {
-        "name": "Glizock & Wizop (feat. Key Glock)",
-        "url": "https://open.spotify.com/album/4ocf6wJAV6NJCBn8nTkeaj"
+        "name": "Presha",
+        "url": "https://open.spotify.com/album/2tnjYrSajrt2nlv2Acf1DP"
+      },
+      "artists": [
+        {
+          "name": "2 Chainz",
+          "url": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        }
+      ],
+      "duration_ms": 185453,
+      "name": "Presha (with Lil Wayne)",
+      "url": "https://open.spotify.com/track/6N7TGPYfGP2oxiy9Cpaz9G"
+    },
+    {
+      "added_at": "2023-12-01 04:00:00",
+      "album": {
+        "name": "Mmhmm",
+        "url": "https://open.spotify.com/album/1D3Uf2OkWYQytEbK3NpdMn"
+      },
+      "artists": [
+        {
+          "name": "BigXthaPlug",
+          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
+        }
+      ],
+      "duration_ms": 119015,
+      "name": "Mmhmm",
+      "url": "https://open.spotify.com/track/1nQaTUDJ7Rc4yOvZmg9Ozr"
+    },
+    {
+      "added_at": "2023-12-01 04:00:00",
+      "album": {
+        "name": "UTOPIA",
+        "url": "https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ"
+      },
+      "artists": [
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        },
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+        }
+      ],
+      "duration_ms": 191700,
+      "name": "FE!N (feat. Playboi Carti)",
+      "url": "https://open.spotify.com/track/42VsgItocQwOQC3XWZ8JNA"
+    },
+    {
+      "added_at": "2023-12-01 04:00:00",
+      "album": {
+        "name": "Cold (feat. B.G. & Mike WiLL Made-It)",
+        "url": "https://open.spotify.com/album/30n2gaTkEAk04fqVGusVNh"
       },
       "artists": [
         {
@@ -236,16 +232,20 @@
           "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
         },
         {
-          "name": "Key Glock",
-          "url": "https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5"
+          "name": "B.G.",
+          "url": "https://open.spotify.com/artist/36HvjE9pV91jEjO1qBRidS"
+        },
+        {
+          "name": "Mike WiLL Made-It",
+          "url": "https://open.spotify.com/artist/0NWbwDZY1VkRqFafuQm6wk"
         }
       ],
-      "duration_ms": 192508,
-      "name": "Glizock & Wizop (feat. Key Glock)",
-      "url": "https://open.spotify.com/track/0zbGWzQkLY5wn4xyiLYEi0"
+      "duration_ms": 155200,
+      "name": "Cold (feat. B.G. & Mike WiLL Made-It)",
+      "url": "https://open.spotify.com/track/4PKh6tJP16etcy2eKyMODe"
     },
     {
-      "added_at": "2023-11-24 05:04:20",
+      "added_at": "2023-12-01 04:00:00",
       "album": {
         "name": "When I Was Dead",
         "url": "https://open.spotify.com/album/65SsQtOf5Cd25fanX62XRR"
@@ -261,63 +261,7 @@
       "url": "https://open.spotify.com/track/53QRPT9Z42ALxGL1YGT9x1"
     },
     {
-      "added_at": "2023-11-24 05:04:20",
-      "album": {
-        "name": "BLOCKBUSTA",
-        "url": "https://open.spotify.com/album/4XN6Kx1iUxtuhuAfh0zqZN"
-      },
-      "artists": [
-        {
-          "name": "Busta Rhymes",
-          "url": "https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK"
-        },
-        {
-          "name": "Quavo",
-          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
-        }
-      ],
-      "duration_ms": 201356,
-      "name": "REMIND 'EM (feat. Quavo)",
-      "url": "https://open.spotify.com/track/12bLurKBuh3UpOuLg5ftSV"
-    },
-    {
-      "added_at": "2023-11-24 05:04:20",
-      "album": {
-        "name": "SET IT OFF",
-        "url": "https://open.spotify.com/album/1D1hLipjrdB6pnxurMtC3E"
-      },
-      "artists": [
-        {
-          "name": "Offset",
-          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
-        },
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        }
-      ],
-      "duration_ms": 173253,
-      "name": "SAY MY GRACE (feat. Travis Scott)",
-      "url": "https://open.spotify.com/track/2Gk6fi0dqt91NKvlzGsmm7"
-    },
-    {
-      "added_at": "2023-11-24 05:04:20",
-      "album": {
-        "name": "a Gift & a Curse",
-        "url": "https://open.spotify.com/album/5qmZefgh78fN3jsyPPlvuw"
-      },
-      "artists": [
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        }
-      ],
-      "duration_ms": 125040,
-      "name": "fukumean",
-      "url": "https://open.spotify.com/track/4rXLjWdF2ZZpXCVTfWcshS"
-    },
-    {
-      "added_at": "2023-11-24 05:04:20",
+      "added_at": "2023-12-01 04:00:00",
       "album": {
         "name": "For All The Dogs",
         "url": "https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW"
@@ -341,7 +285,23 @@
       "url": "https://open.spotify.com/track/1yeB8MUNeLo9Ek1UEpsyz6"
     },
     {
-      "added_at": "2023-11-24 05:04:20",
+      "added_at": "2023-12-01 04:00:00",
+      "album": {
+        "name": "a Gift & a Curse",
+        "url": "https://open.spotify.com/album/5qmZefgh78fN3jsyPPlvuw"
+      },
+      "artists": [
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "duration_ms": 125040,
+      "name": "fukumean",
+      "url": "https://open.spotify.com/track/4rXLjWdF2ZZpXCVTfWcshS"
+    },
+    {
+      "added_at": "2023-12-01 04:00:00",
       "album": {
         "name": "Johnny Dang (with Paul Wall & DRODi)",
         "url": "https://open.spotify.com/album/005G0y1M64Y9LmPRuHcD0U"
@@ -365,7 +325,83 @@
       "url": "https://open.spotify.com/track/1kwPxt35W7cG3rryxR48PO"
     },
     {
-      "added_at": "2023-11-24 05:04:20",
+      "added_at": "2023-12-01 04:00:00",
+      "album": {
+        "name": "Glizock & Wizop (feat. Key Glock)",
+        "url": "https://open.spotify.com/album/4ocf6wJAV6NJCBn8nTkeaj"
+      },
+      "artists": [
+        {
+          "name": "Gucci Mane",
+          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
+        },
+        {
+          "name": "Key Glock",
+          "url": "https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5"
+        }
+      ],
+      "duration_ms": 192508,
+      "name": "Glizock & Wizop (feat. Key Glock)",
+      "url": "https://open.spotify.com/track/0zbGWzQkLY5wn4xyiLYEi0"
+    },
+    {
+      "added_at": "2023-12-01 04:00:00",
+      "album": {
+        "name": "Hood Hottest Princess (Deluxe)",
+        "url": "https://open.spotify.com/album/7eJUwUbX2BGnNkLBoOvIlr"
+      },
+      "artists": [
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "duration_ms": 140400,
+      "name": "Bow Bow Bow (F My Baby Dad)",
+      "url": "https://open.spotify.com/track/351CSUM0YDA0GCbHCSKoL1"
+    },
+    {
+      "added_at": "2023-12-01 04:00:00",
+      "album": {
+        "name": "BLOCKBUSTA",
+        "url": "https://open.spotify.com/album/4XN6Kx1iUxtuhuAfh0zqZN"
+      },
+      "artists": [
+        {
+          "name": "Busta Rhymes",
+          "url": "https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK"
+        },
+        {
+          "name": "Quavo",
+          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
+        }
+      ],
+      "duration_ms": 201356,
+      "name": "REMIND 'EM (feat. Quavo)",
+      "url": "https://open.spotify.com/track/12bLurKBuh3UpOuLg5ftSV"
+    },
+    {
+      "added_at": "2023-12-01 04:00:00",
+      "album": {
+        "name": "SET IT OFF",
+        "url": "https://open.spotify.com/album/1D1hLipjrdB6pnxurMtC3E"
+      },
+      "artists": [
+        {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "duration_ms": 173253,
+      "name": "SAY MY GRACE (feat. Travis Scott)",
+      "url": "https://open.spotify.com/track/2Gk6fi0dqt91NKvlzGsmm7"
+    },
+    {
+      "added_at": "2023-12-01 04:00:00",
       "album": {
         "name": "Turn Yo Clic Up (feat. Future)",
         "url": "https://open.spotify.com/album/1LaC62xZdpsUF19kVBbPCy"
@@ -385,7 +421,7 @@
       "url": "https://open.spotify.com/track/7LTCmtMpf3JPfBE8gAl64z"
     },
     {
-      "added_at": "2023-11-24 05:04:20",
+      "added_at": "2023-12-01 04:00:00",
       "album": {
         "name": "Peaches & Eggplants (feat. Latto & Sexyy Red)",
         "url": "https://open.spotify.com/album/3v9a1PtWXE5NopNCeaw1sj"
@@ -409,7 +445,7 @@
       "url": "https://open.spotify.com/track/1BmI4EYdfzbg8DlV6pHYrY"
     },
     {
-      "added_at": "2023-11-24 05:04:20",
+      "added_at": "2023-12-01 04:00:00",
       "album": {
         "name": "For All The Dogs",
         "url": "https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW"
@@ -429,27 +465,27 @@
       "url": "https://open.spotify.com/track/2YSzYUF3jWqb9YP9VXmpjE"
     },
     {
-      "added_at": "2023-11-24 05:04:20",
+      "added_at": "2023-12-01 04:00:00",
       "album": {
-        "name": "BUSINESS IS BUSINESS",
-        "url": "https://open.spotify.com/album/6qElaeK7SHsEzb8uV8eG3D"
+        "name": "Frozone",
+        "url": "https://open.spotify.com/album/2HZ1eEAW85k2vfpqvDoquR"
       },
       "artists": [
         {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+          "name": "Big Scarr",
+          "url": "https://open.spotify.com/artist/579LsvZcRVKtToYjS0tkKz"
         },
         {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+          "name": "Gucci Mane",
+          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
         }
       ],
-      "duration_ms": 185333,
-      "name": "Oh U Went (feat. Drake)",
-      "url": "https://open.spotify.com/track/7qLr3HMApUbyDkUvgIvHnB"
+      "duration_ms": 182461,
+      "name": "Snot (feat. Gucci Mane)",
+      "url": "https://open.spotify.com/track/2EgthgK5Wt6SLTLPQZsDa3"
     },
     {
-      "added_at": "2023-11-24 05:04:20",
+      "added_at": "2023-12-01 04:00:00",
       "album": {
         "name": "JEALOUSY (feat. Cardi B)",
         "url": "https://open.spotify.com/album/3PgS3nituPh4DDt5LT1cNL"
@@ -469,7 +505,27 @@
       "url": "https://open.spotify.com/track/73S4fsK22WH929PLFNYgOj"
     },
     {
-      "added_at": "2023-11-24 05:04:20",
+      "added_at": "2023-12-01 04:00:00",
+      "album": {
+        "name": "BUSINESS IS BUSINESS",
+        "url": "https://open.spotify.com/album/6qElaeK7SHsEzb8uV8eG3D"
+      },
+      "artists": [
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 185333,
+      "name": "Oh U Went (feat. Drake)",
+      "url": "https://open.spotify.com/track/7qLr3HMApUbyDkUvgIvHnB"
+    },
+    {
+      "added_at": "2023-12-01 04:00:00",
       "album": {
         "name": "Lonestar Luchador",
         "url": "https://open.spotify.com/album/1tX0d5OqKOCkif6yja3TpK"
@@ -493,7 +549,23 @@
       "url": "https://open.spotify.com/track/6tiYQ631gOeBb2jCtaIs0R"
     },
     {
-      "added_at": "2023-11-24 05:04:20",
+      "added_at": "2023-12-01 04:00:00",
+      "album": {
+        "name": "Baby Tate Presents - Sexploration: The Musical",
+        "url": "https://open.spotify.com/album/6e0e1fGkJxHGyKpqZPw9Qb"
+      },
+      "artists": [
+        {
+          "name": "Baby Tate",
+          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
+        }
+      ],
+      "duration_ms": 196610,
+      "name": "Grip",
+      "url": "https://open.spotify.com/track/1tHYeRTwPlHkKV3uOY0uSm"
+    },
+    {
+      "added_at": "2023-12-01 04:00:00",
       "album": {
         "name": "Rule of Thumb: Rule 1",
         "url": "https://open.spotify.com/album/2wozTc5rLDVTI8wl0nh5fk"
@@ -521,47 +593,7 @@
       "url": "https://open.spotify.com/track/1yTv2RYIcq8vkyGYfaZZuZ"
     },
     {
-      "added_at": "2023-11-24 05:04:20",
-      "album": {
-        "name": "Welcome 2 Collegrove",
-        "url": "https://open.spotify.com/album/2LdlfTE6xqf2Ez8LPAFZSy"
-      },
-      "artists": [
-        {
-          "name": "2 Chainz",
-          "url": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
-        },
-        {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
-        }
-      ],
-      "duration_ms": 176938,
-      "name": "Crazy Thick",
-      "url": "https://open.spotify.com/track/0e64iI4dSl3NyF2Wo1WYDH"
-    },
-    {
-      "added_at": "2023-11-24 05:04:20",
-      "album": {
-        "name": "'02 Lakers",
-        "url": "https://open.spotify.com/album/1WMj2AxZuuDQdHo3qFDMe9"
-      },
-      "artists": [
-        {
-          "name": "BigXthaPlug",
-          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
-        },
-        {
-          "name": "Ro$ama",
-          "url": "https://open.spotify.com/artist/6sacEP77oivRMuZRlOuSCr"
-        }
-      ],
-      "duration_ms": 163715,
-      "name": "'02 Lakers",
-      "url": "https://open.spotify.com/track/0LXrihCLToJ1l9HlIufKSA"
-    },
-    {
-      "added_at": "2023-11-24 05:04:20",
+      "added_at": "2023-12-01 04:00:00",
       "album": {
         "name": "Walk",
         "url": "https://open.spotify.com/album/7oaVAnz4knG0hU6oRJGcC9"
@@ -581,7 +613,7 @@
       "url": "https://open.spotify.com/track/725UfuWEXWg0C7PCqP8HIz"
     },
     {
-      "added_at": "2023-11-24 05:04:20",
+      "added_at": "2023-12-01 04:00:00",
       "album": {
         "name": "Too Good To Be True",
         "url": "https://open.spotify.com/album/1jhGoiKDR41Qa2mzlveJFX"
@@ -605,35 +637,7 @@
       "url": "https://open.spotify.com/track/3dw4v5lOsKRqIX3c1bouJW"
     },
     {
-      "added_at": "2023-11-24 05:04:20",
-      "album": {
-        "name": "Ouuhh!!",
-        "url": "https://open.spotify.com/album/5R7RaffbuuCgJ8rB9qC0P8"
-      },
-      "artists": [
-        {
-          "name": "Kayla Nicole",
-          "url": "https://open.spotify.com/artist/0jL5A3JBu46MsYrr5JMPuT"
-        },
-        {
-          "name": "DDG",
-          "url": "https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm"
-        },
-        {
-          "name": "Kaliii",
-          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
-        },
-        {
-          "name": "Famous Uno",
-          "url": "https://open.spotify.com/artist/4Y9LZIhP41oVQFjoyJ3Gga"
-        }
-      ],
-      "duration_ms": 197066,
-      "name": "Ouuhh!!",
-      "url": "https://open.spotify.com/track/6R5pp1Yant3DhEuHtJJGZl"
-    },
-    {
-      "added_at": "2023-11-24 05:04:20",
+      "added_at": "2023-12-01 04:00:00",
       "album": {
         "name": "Yonce Freestyle (feat. Sexyy Red & B.G.)",
         "url": "https://open.spotify.com/album/0BbrF9bl7IIQGJNQfw7kbm"
@@ -657,7 +661,7 @@
       "url": "https://open.spotify.com/track/1fo2w2ikXyQjnmH1AVVyJ8"
     },
     {
-      "added_at": "2023-11-24 05:04:20",
+      "added_at": "2023-12-01 04:00:00",
       "album": {
         "name": "GHETTO",
         "url": "https://open.spotify.com/album/0CsE05G84CsmW5Uqgh1WC3"
@@ -677,7 +681,7 @@
       "url": "https://open.spotify.com/track/0dyiqgUWu1NimAZtx1XVi8"
     },
     {
-      "added_at": "2023-11-24 05:04:20",
+      "added_at": "2023-12-01 04:00:00",
       "album": {
         "name": "Pink Tape",
         "url": "https://open.spotify.com/album/2ua5bFkZLZl1lIgKWtYZIz"
@@ -693,7 +697,7 @@
       "url": "https://open.spotify.com/track/4daEMLSZCgZ2Mt7gNm2SRa"
     },
     {
-      "added_at": "2023-11-24 05:04:20",
+      "added_at": "2023-12-01 04:00:00",
       "album": {
         "name": "For All The Dogs",
         "url": "https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW"
@@ -709,7 +713,7 @@
       "url": "https://open.spotify.com/track/4ZT0wGKwlJRjpMUuwZVy3p"
     },
     {
-      "added_at": "2023-11-24 05:04:20",
+      "added_at": "2023-12-01 04:00:00",
       "album": {
         "name": "Tha Fix Before Tha VI",
         "url": "https://open.spotify.com/album/7aWNHIpUIFnlu2UhOWqooG"
@@ -729,7 +733,7 @@
       "url": "https://open.spotify.com/track/3h4HlcmWdexWJ6SSyZG67E"
     },
     {
-      "added_at": "2023-11-24 05:04:20",
+      "added_at": "2023-12-01 04:00:00",
       "album": {
         "name": "HEROES & VILLAINS",
         "url": "https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP"
@@ -753,7 +757,7 @@
       "url": "https://open.spotify.com/track/5wG3HvLhF6Y5KTGlK0IW3J"
     },
     {
-      "added_at": "2023-11-24 05:04:20",
+      "added_at": "2023-12-01 04:00:00",
       "album": {
         "name": "UTOPIA",
         "url": "https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ"
@@ -777,7 +781,7 @@
       "url": "https://open.spotify.com/track/0lodMO0qK83vfPiiD7FMEt"
     },
     {
-      "added_at": "2023-11-24 05:04:20",
+      "added_at": "2023-12-01 04:00:00",
       "album": {
         "name": "SET IT OFF",
         "url": "https://open.spotify.com/album/1D1hLipjrdB6pnxurMtC3E"
@@ -797,7 +801,7 @@
       "url": "https://open.spotify.com/track/6Qc90FMwNUjJ2M893RdYUg"
     },
     {
-      "added_at": "2023-11-24 05:04:20",
+      "added_at": "2023-12-01 04:00:00",
       "album": {
         "name": "NAUJOUR",
         "url": "https://open.spotify.com/album/2pAylLmyj0wmHy5JjL0h6V"
@@ -817,7 +821,7 @@
       "url": "https://open.spotify.com/track/4EzkcqltSOxYE2lstuLOFs"
     },
     {
-      "added_at": "2023-11-24 05:04:20",
+      "added_at": "2023-12-01 04:00:00",
       "album": {
         "name": "Put It On Da Floor Again (feat. Cardi B)",
         "url": "https://open.spotify.com/album/4A43tzEN3jILvseI1HeXGG"
@@ -837,7 +841,7 @@
       "url": "https://open.spotify.com/track/6c6WmIHcHlhccEwSFBhzNa"
     },
     {
-      "added_at": "2023-11-24 05:04:20",
+      "added_at": "2023-12-01 04:00:00",
       "album": {
         "name": "Cottonwood 2 (Deluxe 2.0)",
         "url": "https://open.spotify.com/album/1ugjPDt5OYUeYmwYkgqEfQ"
@@ -853,7 +857,7 @@
       "url": "https://open.spotify.com/track/47ZsXjz2eWMN73dllWQp6d"
     },
     {
-      "added_at": "2023-11-24 05:04:20",
+      "added_at": "2023-12-01 04:00:00",
       "album": {
         "name": "Paint The Town Red",
         "url": "https://open.spotify.com/album/54dZypaXHAIDzBe9ujAZ63"
@@ -869,7 +873,7 @@
       "url": "https://open.spotify.com/track/2IGMVunIBsBLtEQyoI1Mu7"
     },
     {
-      "added_at": "2023-11-24 05:04:20",
+      "added_at": "2023-12-01 04:00:00",
       "album": {
         "name": "Different Breed (feat. Swae Lee & Latto)",
         "url": "https://open.spotify.com/album/5eJ3QcbxAgOauF9yr9OlCT"
@@ -893,7 +897,7 @@
       "url": "https://open.spotify.com/track/6GeNWEE6sxYf5hMO93gw42"
     },
     {
-      "added_at": "2023-11-24 05:04:20",
+      "added_at": "2023-12-01 04:00:00",
       "album": {
         "name": "Young & Free",
         "url": "https://open.spotify.com/album/0UeyTVnph7j8kYLCJMcYai"
@@ -909,7 +913,7 @@
       "url": "https://open.spotify.com/track/6fAykULmAdoUNqIorQZAVs"
     },
     {
-      "added_at": "2023-11-24 05:04:20",
+      "added_at": "2023-12-01 04:00:00",
       "album": {
         "name": "Family Freestyle",
         "url": "https://open.spotify.com/album/1QkPatRtkzJahrvBV56gJe"
@@ -929,7 +933,7 @@
       "url": "https://open.spotify.com/track/5u8m1YQAVoyu5k81b5DWvr"
     },
     {
-      "added_at": "2023-11-24 05:04:20",
+      "added_at": "2023-12-01 04:00:00",
       "album": {
         "name": "Like..? (Deluxe)",
         "url": "https://open.spotify.com/album/2pD2Hn4NPvf58NDSdWmUAk"
@@ -945,7 +949,7 @@
       "url": "https://open.spotify.com/track/5JYPXqMwYc0zTODQdjMEZN"
     },
     {
-      "added_at": "2023-11-24 05:04:20",
+      "added_at": "2023-12-01 04:00:00",
       "album": {
         "name": "Hood Hottest Princess",
         "url": "https://open.spotify.com/album/6uoGeT623i76TwlgYFfe42"
@@ -961,7 +965,7 @@
       "url": "https://open.spotify.com/track/7icwQvajsokotDfM3tefW6"
     },
     {
-      "added_at": "2023-11-24 05:04:20",
+      "added_at": "2023-12-01 04:00:00",
       "album": {
         "name": "B4 BOA",
         "url": "https://open.spotify.com/album/5QDOKezJwT63L54s17jMgw"
@@ -977,7 +981,7 @@
       "url": "https://open.spotify.com/track/2hkcNrUwTVwKqjfUO1Kx3d"
     },
     {
-      "added_at": "2023-11-24 05:04:20",
+      "added_at": "2023-12-01 04:00:00",
       "album": {
         "name": "Love Sick",
         "url": "https://open.spotify.com/album/26z5llzd194mcCZHADWd6k"
@@ -1001,7 +1005,7 @@
       "url": "https://open.spotify.com/track/52NGJPcLUzQq5w7uv4e5gf"
     },
     {
-      "added_at": "2023-11-24 05:04:20",
+      "added_at": "2023-12-01 04:00:00",
       "album": {
         "name": "Gun Class II (feat. Nardo Wick & G Herbo)",
         "url": "https://open.spotify.com/album/3PqUw83PcGYn3g8pTJod9y"
@@ -1025,7 +1029,7 @@
       "url": "https://open.spotify.com/track/5maOp2FZomEiboxhl9yh2z"
     },
     {
-      "added_at": "2023-11-24 05:04:20",
+      "added_at": "2023-12-01 04:00:00",
       "album": {
         "name": "A Great Chaos",
         "url": "https://open.spotify.com/album/0HS8aknH0JQdMIiBVhyOCW"
@@ -1041,7 +1045,7 @@
       "url": "https://open.spotify.com/track/2c7sRekhMGlj7u1WIIzoQu"
     },
     {
-      "added_at": "2023-11-24 05:04:20",
+      "added_at": "2023-12-01 04:00:00",
       "album": {
         "name": "Dead or Alive",
         "url": "https://open.spotify.com/album/4g8No0TDtB80QveIDeUTjF"
@@ -1057,7 +1061,7 @@
       "url": "https://open.spotify.com/track/25iB3wmUOdPF4mj9lNjbtH"
     },
     {
-      "added_at": "2023-11-24 05:04:20",
+      "added_at": "2023-12-01 04:00:00",
       "album": {
         "name": "ISSA PARTY (feat. BabyDrill)",
         "url": "https://open.spotify.com/album/2bgo85yjFegHRyRROMaiWm"
@@ -1077,7 +1081,7 @@
       "url": "https://open.spotify.com/track/4hrd3G5XnJzDC5LZw0Fwgu"
     },
     {
-      "added_at": "2023-11-24 05:04:20",
+      "added_at": "2023-12-01 04:00:00",
       "album": {
         "name": "Kat Food",
         "url": "https://open.spotify.com/album/0hyOMHe8ZFK0oCZhb2xnks"
@@ -1093,7 +1097,7 @@
       "url": "https://open.spotify.com/track/6WYo4HDHHvMJZU1lNebB3V"
     },
     {
-      "added_at": "2023-11-24 05:04:20",
+      "added_at": "2023-12-01 04:00:00",
       "album": {
         "name": "Brand New",
         "url": "https://open.spotify.com/album/0p82QxkLngaHhRkbET3IZ0"
@@ -1117,7 +1121,7 @@
       "url": "https://open.spotify.com/track/3MbOT5mzE94Ne0Hv51akoS"
     },
     {
-      "added_at": "2023-11-24 05:04:20",
+      "added_at": "2023-12-01 04:00:00",
       "album": {
         "name": "Sprinter",
         "url": "https://open.spotify.com/album/5l0QlaI3wdZpE7ggoO5Rwg"
@@ -1137,7 +1141,7 @@
       "url": "https://open.spotify.com/track/2FDTHlrBguDzQkp7PVj16Q"
     },
     {
-      "added_at": "2023-11-24 05:04:20",
+      "added_at": "2023-12-01 04:00:00",
       "album": {
         "name": "Catch Me If You Can",
         "url": "https://open.spotify.com/album/4l2DlHC3hnZlhpu7SxGYUR"
@@ -1153,7 +1157,7 @@
       "url": "https://open.spotify.com/track/5hmKP4aC7jSNXYD6Suoq4y"
     },
     {
-      "added_at": "2023-11-24 05:04:20",
+      "added_at": "2023-12-01 04:00:00",
       "album": {
         "name": "Smack Sh*t",
         "url": "https://open.spotify.com/album/3Wa0UdCqXUAWNNuEr9ulHk"
@@ -1173,7 +1177,7 @@
       "url": "https://open.spotify.com/track/02G0mbFgtqS3h1Ek29tBWW"
     },
     {
-      "added_at": "2023-11-24 05:04:20",
+      "added_at": "2023-12-01 04:00:00",
       "album": {
         "name": "Princess Diana (with Nicki Minaj)",
         "url": "https://open.spotify.com/album/2Q7WBQ794rA9ISPLfqdKjK"
@@ -1193,7 +1197,7 @@
       "url": "https://open.spotify.com/track/0ZxhtATQ0a6EvQNZ0z6NKV"
     },
     {
-      "added_at": "2023-11-24 05:04:20",
+      "added_at": "2023-12-01 04:00:00",
       "album": {
         "name": "When I Was Dead",
         "url": "https://open.spotify.com/album/65SsQtOf5Cd25fanX62XRR"
@@ -1213,7 +1217,7 @@
       "url": "https://open.spotify.com/track/3ndarzf6PGBwEsxs0wuYgm"
     },
     {
-      "added_at": "2023-11-24 05:04:20",
+      "added_at": "2023-12-01 04:00:00",
       "album": {
         "name": "BREATHE. freestyle",
         "url": "https://open.spotify.com/album/7aaruiZiAzYf7gLW86WhKT"
@@ -1229,7 +1233,7 @@
       "url": "https://open.spotify.com/track/3xKXBuxYNVTFPyNpYPHbOI"
     },
     {
-      "added_at": "2023-11-24 05:04:20",
+      "added_at": "2023-12-01 04:00:00",
       "album": {
         "name": "Hellcats SRTs 2 (with Lil Durk)",
         "url": "https://open.spotify.com/album/4ygqsOtoimrPwwH33iaAq0"
@@ -1249,7 +1253,7 @@
       "url": "https://open.spotify.com/track/1gxAYSMc1jbibsnpT3Rflc"
     },
     {
-      "added_at": "2023-11-24 05:04:20",
+      "added_at": "2023-12-01 04:00:00",
       "album": {
         "name": "I Showed U So",
         "url": "https://open.spotify.com/album/4GVyz2cTtsOtCX5Jk1zeaU"
@@ -1265,7 +1269,7 @@
       "url": "https://open.spotify.com/track/3V0A5gVJFGy4Hmo3MJ59uD"
     },
     {
-      "added_at": "2023-11-24 05:04:20",
+      "added_at": "2023-12-01 04:00:00",
       "album": {
         "name": "Booty Drop",
         "url": "https://open.spotify.com/album/096NZMg4ARLx7TQamIDE30"
@@ -1281,7 +1285,7 @@
       "url": "https://open.spotify.com/track/1iOdhNBdePXR632DhYZVO2"
     },
     {
-      "added_at": "2023-11-24 05:04:20",
+      "added_at": "2023-12-01 04:00:00",
       "album": {
         "name": "Bongos (feat. Megan Thee Stallion)",
         "url": "https://open.spotify.com/album/3XYWRia8E82cJI6WrDLTTQ"
@@ -1301,7 +1305,7 @@
       "url": "https://open.spotify.com/track/4YQImHflXSiIMXntcwPkx8"
     },
     {
-      "added_at": "2023-11-24 05:04:20",
+      "added_at": "2023-12-01 04:00:00",
       "album": {
         "name": "Demons",
         "url": "https://open.spotify.com/album/7iduRgQGVmm0Thy4v734Py"
@@ -1317,7 +1321,7 @@
       "url": "https://open.spotify.com/track/1xemKSmCnH59ze3KX5wwgH"
     },
     {
-      "added_at": "2023-11-24 05:04:20",
+      "added_at": "2023-12-01 04:00:00",
       "album": {
         "name": "Wrong One (with Gloss Up & Slimeroni feat. K Carbon, Aleza, Tay Keith)",
         "url": "https://open.spotify.com/album/0TkJa6iqDtjK4ojpfO8PwG"
@@ -1357,7 +1361,7 @@
       "url": "https://open.spotify.com/track/52WoZbGVLrEW0w6AGT9wNS"
     },
     {
-      "added_at": "2023-11-24 05:04:20",
+      "added_at": "2023-12-01 04:00:00",
       "album": {
         "name": "Sixtape 3",
         "url": "https://open.spotify.com/album/40eNoJ2ryZfFNb5iyhKoiX"
@@ -1377,7 +1381,7 @@
       "url": "https://open.spotify.com/track/1VEPKq5jNdUyemcq29h5ki"
     },
     {
-      "added_at": "2023-11-24 05:04:20",
+      "added_at": "2023-12-01 04:00:00",
       "album": {
         "name": "Pink Tape",
         "url": "https://open.spotify.com/album/2ua5bFkZLZl1lIgKWtYZIz"
@@ -1393,7 +1397,7 @@
       "url": "https://open.spotify.com/track/3lcfs9Qjfxzy00VSVkixDv"
     },
     {
-      "added_at": "2023-11-24 05:04:20",
+      "added_at": "2023-12-01 04:00:00",
       "album": {
         "name": "Barbie World (with Aqua) [From Barbie The Album]",
         "url": "https://open.spotify.com/album/5CM66hwjlbZ06LhONWXOAs"
@@ -1417,7 +1421,7 @@
       "url": "https://open.spotify.com/track/741UUVE2kuITl0c6zuqqbO"
     },
     {
-      "added_at": "2023-11-24 05:04:20",
+      "added_at": "2023-12-01 04:00:00",
       "album": {
         "name": "UTOPIA",
         "url": "https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ"
@@ -1437,7 +1441,7 @@
       "url": "https://open.spotify.com/track/0bkV1iQHSxBaksUqgEkcbc"
     },
     {
-      "added_at": "2023-11-24 05:04:20",
+      "added_at": "2023-12-01 04:00:00",
       "album": {
         "name": "LIFE IN HELL",
         "url": "https://open.spotify.com/album/7A6MutudrSxcDa47a6HHOM"
@@ -1453,7 +1457,7 @@
       "url": "https://open.spotify.com/track/187zHzb6JDM4YDSFNGkQ9u"
     },
     {
-      "added_at": "2023-11-24 05:04:20",
+      "added_at": "2023-12-01 04:00:00",
       "album": {
         "name": "Pound Town 2 (feat. Nicki Minaj & Tay Keith)",
         "url": "https://open.spotify.com/album/7GfHTwHGoDzOEDInYlnR25"
@@ -1477,7 +1481,7 @@
       "url": "https://open.spotify.com/track/6IEXjer2qbXhRLFv99NQQv"
     },
     {
-      "added_at": "2023-11-24 05:04:20",
+      "added_at": "2023-12-01 04:00:00",
       "album": {
         "name": "Presidential Rolex",
         "url": "https://open.spotify.com/album/6cUKCvxOv3BrBRTeU5Qygx"
@@ -1493,7 +1497,7 @@
       "url": "https://open.spotify.com/track/23L1gQJjtlZMrZPZvluyQe"
     },
     {
-      "added_at": "2023-11-24 05:04:20",
+      "added_at": "2023-12-01 04:00:00",
       "album": {
         "name": "Just Wanna Rock",
         "url": "https://open.spotify.com/album/2FD6g8bXEn2uQMYbeqqoCg"
@@ -1509,7 +1513,7 @@
       "url": "https://open.spotify.com/track/4FyesJzVpA39hbYvcseO2d"
     },
     {
-      "added_at": "2023-11-24 05:04:20",
+      "added_at": "2023-12-01 04:00:00",
       "album": {
         "name": "Point Me 2 (with Cardi B)",
         "url": "https://open.spotify.com/album/5My6f8l17o6nvsTDT8Qd2l"
@@ -1529,7 +1533,7 @@
       "url": "https://open.spotify.com/track/69ZBK01gsgWUnA55BEaAPu"
     },
     {
-      "added_at": "2023-11-24 05:04:20",
+      "added_at": "2023-12-01 04:00:00",
       "album": {
         "name": "a Gift & a Curse",
         "url": "https://open.spotify.com/album/5qmZefgh78fN3jsyPPlvuw"
@@ -1545,7 +1549,7 @@
       "url": "https://open.spotify.com/track/48rsYvIQXUAtxcmIoStOaM"
     },
     {
-      "added_at": "2023-11-24 05:04:20",
+      "added_at": "2023-12-01 04:00:00",
       "album": {
         "name": "Controversy",
         "url": "https://open.spotify.com/album/6ZsE1BtC06pff1QvzBSPZ9"
@@ -1565,7 +1569,7 @@
       "url": "https://open.spotify.com/track/5e2jIB5KT9kmTDCBzAmvQr"
     },
     {
-      "added_at": "2023-11-24 05:04:20",
+      "added_at": "2023-12-01 04:00:00",
       "album": {
         "name": "06 Gucci (feat. DaBaby & 21 Savage)",
         "url": "https://open.spotify.com/album/6K67robZZpglKEFuNQWtsr"
@@ -1589,7 +1593,7 @@
       "url": "https://open.spotify.com/track/4mWbFYZ9P14Ulf1LIFZGhH"
     },
     {
-      "added_at": "2023-11-24 05:04:20",
+      "added_at": "2023-12-01 04:00:00",
       "album": {
         "name": "Watch This (ARIZONATEARS Pluggnb Remix)",
         "url": "https://open.spotify.com/album/3VvPLpCZR5viLBFTbzm6E1"
@@ -1613,7 +1617,7 @@
       "url": "https://open.spotify.com/track/0FA4wrjDJvJTTU8AepZTup"
     },
     {
-      "added_at": "2023-11-24 05:04:20",
+      "added_at": "2023-12-01 04:00:00",
       "album": {
         "name": "GEEKALEEK (feat. Cash Kidd)",
         "url": "https://open.spotify.com/album/37Vw00Rrpb0klzR4Tez4bo"
@@ -1633,7 +1637,7 @@
       "url": "https://open.spotify.com/track/2f9JzwRy6Ofr5ixvN0ojKt"
     },
     {
-      "added_at": "2023-11-24 05:04:20",
+      "added_at": "2023-12-01 04:00:00",
       "album": {
         "name": "Go Hard",
         "url": "https://open.spotify.com/album/0lvoLgzBquqlIQyVnXD2Jo"
@@ -1649,7 +1653,7 @@
       "url": "https://open.spotify.com/track/1IzJxbARcQrOWMZgPw1PNj"
     },
     {
-      "added_at": "2023-11-24 05:04:20",
+      "added_at": "2023-12-01 04:00:00",
       "album": {
         "name": "HEROES & VILLAINS",
         "url": "https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP"
@@ -1673,7 +1677,7 @@
       "url": "https://open.spotify.com/track/0vjeOZ3Ft5jvAi9SBFJm1j"
     },
     {
-      "added_at": "2023-11-24 05:04:20",
+      "added_at": "2023-12-01 04:00:00",
       "album": {
         "name": "Hard To Love",
         "url": "https://open.spotify.com/album/12QMwxaBwtZWp7BKBwzaol"
@@ -1693,7 +1697,7 @@
       "url": "https://open.spotify.com/track/293QwzG48nRXlqk5lGDUbw"
     },
     {
-      "added_at": "2023-11-24 05:04:20",
+      "added_at": "2023-12-01 04:00:00",
       "album": {
         "name": "SLUT ME OUT",
         "url": "https://open.spotify.com/album/48868AJJd7JVl1IVmaBsaQ"
@@ -1709,7 +1713,7 @@
       "url": "https://open.spotify.com/track/5BmB3OaQyYXCqRyN8iR2Yi"
     },
     {
-      "added_at": "2023-11-24 05:04:20",
+      "added_at": "2023-12-01 04:00:00",
       "album": {
         "name": "Area Codes",
         "url": "https://open.spotify.com/album/6uk3hBYbrMsSzufADPjv9K"
@@ -1725,7 +1729,7 @@
       "url": "https://open.spotify.com/track/7sliFe6W30tPBPh6dvZsIH"
     },
     {
-      "added_at": "2023-11-24 05:04:20",
+      "added_at": "2023-12-01 04:00:00",
       "album": {
         "name": "My wrist (with Young Thug)",
         "url": "https://open.spotify.com/album/05zSfoTPUX9IFb4AYbBaBz"
@@ -1745,7 +1749,7 @@
       "url": "https://open.spotify.com/track/2beD5W9IkefQ04IO39XF7w"
     },
     {
-      "added_at": "2023-11-24 05:04:20",
+      "added_at": "2023-12-01 04:00:00",
       "album": {
         "name": "Hot Boy (feat. Lil Baby)",
         "url": "https://open.spotify.com/album/54h4yyqWQl5z0jKkiS07is"
@@ -1765,7 +1769,7 @@
       "url": "https://open.spotify.com/track/31yydnZnSeCwkRPY7tlgQJ"
     },
     {
-      "added_at": "2023-11-24 05:04:20",
+      "added_at": "2023-12-01 04:00:00",
       "album": {
         "name": "FreakyT (feat. Latto) [Remix]",
         "url": "https://open.spotify.com/album/4itQ4SmVRwjURluBAHnxFx"
@@ -1785,7 +1789,7 @@
       "url": "https://open.spotify.com/track/451acSEXA7pfbMKXoC6vJX"
     },
     {
-      "added_at": "2023-11-24 05:04:20",
+      "added_at": "2023-12-01 04:00:00",
       "album": {
         "name": "In Ha Mood",
         "url": "https://open.spotify.com/album/0CQzO0dUktGpymhtvrIXqW"
@@ -1801,7 +1805,7 @@
       "url": "https://open.spotify.com/track/0yUaLqhsVsguBpoOPL4cO7"
     },
     {
-      "added_at": "2023-11-24 05:04:20",
+      "added_at": "2023-12-01 04:00:00",
       "album": {
         "name": "Players",
         "url": "https://open.spotify.com/album/4cAAsw7mPkGt15GXQzWlrM"
@@ -1817,7 +1821,7 @@
       "url": "https://open.spotify.com/track/6UN73IYd0hZxLi8wFPMQij"
     },
     {
-      "added_at": "2023-11-24 05:04:20",
+      "added_at": "2023-12-01 04:00:00",
       "album": {
         "name": "Red Ruby Da Sleeze",
         "url": "https://open.spotify.com/album/0zCHOD0Z8yOrIP1fw7u1J6"
@@ -1833,7 +1837,7 @@
       "url": "https://open.spotify.com/track/4ZYAU4A2YBtlNdqOUtc7T2"
     },
     {
-      "added_at": "2023-11-24 05:04:20",
+      "added_at": "2023-12-01 04:00:00",
       "album": {
         "name": "Lil Durk Presents: Loyal Bros 2",
         "url": "https://open.spotify.com/album/4lXLULUDQvqV1yHtLW5fyL"
@@ -1853,7 +1857,7 @@
       "url": "https://open.spotify.com/track/2i2qDe3dnTl6maUE31FO7c"
     },
     {
-      "added_at": "2023-11-24 05:04:20",
+      "added_at": "2023-12-01 04:00:00",
       "album": {
         "name": "Anyways, Life\u2019s Great\u2026",
         "url": "https://open.spotify.com/album/1kLWQJYzHP0kX6peGevMkC"
@@ -1873,7 +1877,7 @@
       "url": "https://open.spotify.com/track/0WNfQxDGaPTl0yogcMR5v1"
     },
     {
-      "added_at": "2023-11-24 05:04:20",
+      "added_at": "2023-12-01 04:00:00",
       "album": {
         "name": "Aston Martin Truck",
         "url": "https://open.spotify.com/album/4Uv7QjKaAq1mFO7aYzk4Xc"
@@ -1889,7 +1893,7 @@
       "url": "https://open.spotify.com/track/1KaRuTOGchQyTnrY3vWzfR"
     },
     {
-      "added_at": "2023-11-24 05:04:20",
+      "added_at": "2023-12-01 04:00:00",
       "album": {
         "name": "I Never Felt Nun",
         "url": "https://open.spotify.com/album/0A4xJz6OAedAQGriJH7pjn"
@@ -1909,7 +1913,7 @@
       "url": "https://open.spotify.com/track/6Md6lyVVoKWcOaSg8u1tDn"
     },
     {
-      "added_at": "2023-11-24 05:04:20",
+      "added_at": "2023-12-01 04:00:00",
       "album": {
         "name": "Walk/Spin",
         "url": "https://open.spotify.com/album/54x77I85ZNITP0wvN07CVT"
@@ -1925,7 +1929,7 @@
       "url": "https://open.spotify.com/track/3wspfG772mi1c25JpnNOVP"
     },
     {
-      "added_at": "2023-11-24 05:04:20",
+      "added_at": "2023-12-01 04:00:00",
       "album": {
         "name": "Who is Nardo Wick?? (Deluxe)",
         "url": "https://open.spotify.com/album/47Thm1tltjJVofuRumhfmi"
@@ -1941,7 +1945,7 @@
       "url": "https://open.spotify.com/track/2TSfStvlAMLw89u3tali79"
     },
     {
-      "added_at": "2023-11-24 05:04:20",
+      "added_at": "2023-12-01 04:00:00",
       "album": {
         "name": "The Last Slimeto",
         "url": "https://open.spotify.com/album/1ZCsPUZ7j9dTqjhU2I36tw"

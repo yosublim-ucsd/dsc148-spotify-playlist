@@ -1126,7 +1126,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 124866,
       "name": "o mundo j\u00e1 ta bom sem mim",
       "url": "https://open.spotify.com/track/35B6qiqKdPIta9IOYI4Z7H"
@@ -1224,6 +1224,24 @@
       "duration_ms": 281893,
       "name": "Pequenas Coisas",
       "url": "https://open.spotify.com/track/2sfKGR8005yI04id52i70p"
+    },
+    {
+      "album": {
+        "name": "Frejat Trio Ao Vivo no Teatro Alcione Ara\u00fajo",
+        "url": "https://open.spotify.com/album/26tTDgDlnMje9hWOuLHfdS"
+      },
+      "artists": [
+        {
+          "name": "Frejat",
+          "url": "https://open.spotify.com/artist/3WVjDclrbHsxjxhiOqHdnw"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170723,
+      "name": "Poema",
+      "url": "https://open.spotify.com/track/6luoCgnBDkY7I7FBkexp1s"
     },
     {
       "album": {

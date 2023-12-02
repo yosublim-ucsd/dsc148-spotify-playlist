@@ -4,7 +4,7 @@
 
 > The ultimate seasonal \(indie\) playlist\. Cover: boygenius
 
-224 songs - 12 hr 16 min
+225 songs - 12 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,6 +85,7 @@
 | [Everything's Gonna Be Cool This Christmas](https://open.spotify.com/track/4FMb5NDvglJfEbzjjoz3Xb) | [Eels](https://open.spotify.com/artist/3zunDAtRDg7kflREzWAhxl) | [Christmas Rock](https://open.spotify.com/album/1aGn5HA8LqUMsGgbZNZGj2) | 2:50 | 2023-10-16 |  |
 | [Everything's Gonna Be Cool This Christmas](https://open.spotify.com/track/1hpxwEmbL3papTRjdM0Ok2) | [Eels](https://open.spotify.com/artist/3zunDAtRDg7kflREzWAhxl) | [Useless Trinkets\-B Sides, Soundtracks, Rarieties and Unreleased 1996\-2006](https://open.spotify.com/album/5tdxfCXrgvk8vj81QWh2tt) | 2:51 | 2022-12-23 | 2023-01-28 |
 | [Fallen Snow](https://open.spotify.com/track/5uizeP3Oyp9hBglDVtMDmR) | [Au Revoir Simone](https://open.spotify.com/artist/0X0TajZO1RmY3D8u1JymYq) | [The Bird Of Music](https://open.spotify.com/album/1kNdPs1pfLW1TRN93X9ZT2) | 3:45 | 2021-11-12 | 2022-07-24 |
+| [Flowers In December](https://open.spotify.com/track/0G6Ws8Gbdt0S7pZeuYmkmm) | [Mazzy Star](https://open.spotify.com/artist/37w38cCSGgKLdayTRjna4W) | [Among My Swan](https://open.spotify.com/album/4mhpbf7jYc0L1nBceoebIE) | 4:57 | 2023-12-01 |  |
 | [Hallelujah](https://open.spotify.com/track/5fxJc8fxbbM5ZiqaL6Ob6y) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Hallelujah](https://open.spotify.com/album/7f7BojlN7pow14eayG4UOn) | 3:10 | 2021-11-12 | 2022-07-29 |
 | [Hallelujah \- Bonus Track](https://open.spotify.com/track/3ag4ODA4AwOhHG5pGcX0Lk) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Women In Music Pt\. III](https://open.spotify.com/album/396EJBtUzseofX2YCBJVvM) | 3:10 | 2021-11-12 |  |
 | [Happy Xmas \(War Is Over\)](https://open.spotify.com/track/2JUAheSAHfmQ0TDiR9fSUD) | [The Polyphonic Spree](https://open.spotify.com/artist/0inqWv3OS4VpWt691ki8yk) | [Two Thousand Places](https://open.spotify.com/album/3mO5HyjYQdlENBfguueZba) | 4:15 | 2021-11-12 | 2022-07-22 |
@@ -157,7 +158,7 @@
 | [My Only Little Wish \(Is You\)](https://open.spotify.com/track/33UyXIgttGjIkounlO51Ay) | [asking for a friend](https://open.spotify.com/artist/3rHc6krX8mtdragl9o6eLy), [Lostboycrow](https://open.spotify.com/artist/5PxCTrv3Y1xVACfngpt7D2), [DYSN](https://open.spotify.com/artist/2zPdY1UXnOn4PC4GpoOkPm) | [My Only Little Wish \(Is You\)](https://open.spotify.com/album/3AalQDa1ftZyQDMiKJTs1v) | 3:00 | 2021-11-12 | 2022-07-27 |
 | [O Holy Night](https://open.spotify.com/track/7GaUxiJvhyZRe16Pt4V8FZ) | [Don McCloskey](https://open.spotify.com/artist/3sIOor80ttkEgpYFQu6NMH) | [O Holy Night](https://open.spotify.com/album/2dYqxXKtKJigqTrCFuweqQ) | 5:06 | 2021-11-12 | 2022-07-28 |
 | [On Christmas Night](https://open.spotify.com/track/7AhwtvWWMdohC9G1n0LJH2) | [Nelson Can](https://open.spotify.com/artist/5pYHnsao4ARhkpGvHGTgHP) | [On Christmas Night](https://open.spotify.com/album/67govfB9y8dX4ECr33I8DW) | 3:29 | 2021-11-12 | 2022-05-14 |
-| [O’Holy Night](https://open.spotify.com/track/4csQ5HPKp41UUaEdzpepRQ) | [Kat Cunning](https://open.spotify.com/artist/0THdxk7bYWo6wciF1gInBK) | [O’Holy Night](https://open.spotify.com/album/6UZ92OsliFZN4TrzPyFT7D) | 2:53 | 2021-11-12 |  |
+| [O’Holy Night](https://open.spotify.com/track/4csQ5HPKp41UUaEdzpepRQ) | [Kat Cunning](https://open.spotify.com/artist/0THdxk7bYWo6wciF1gInBK) | [O’Holy Night](https://open.spotify.com/album/6UZ92OsliFZN4TrzPyFT7D) | 2:53 | 2021-11-12 | 2023-12-02 |
 | [Pink Xmas Tree](https://open.spotify.com/track/4CUon9bxIwVXCG9CdJlvOS) | [Jagged Jaw](https://open.spotify.com/artist/3Es6oUz3zUC5IZDRRhcRxG) | [Pink Xmas Tree](https://open.spotify.com/album/4ttCLHM3YmqgYPB58w4SWU) | 3:20 | 2021-11-12 | 2022-06-07 |
 | [pumpkin bread](https://open.spotify.com/track/603mAqHBigy7cueil9FxJf) | [Mikey Mike](https://open.spotify.com/artist/03TisRLz25RdilInRpqMZj) | [pumpkin bread](https://open.spotify.com/album/1Bm7slaDsarcd8ZinmA9py) | 2:57 | 2022-01-07 | 2022-09-26 |
 | [Red River Rock](https://open.spotify.com/track/52EcieQczA1KKZ9ed5P7J8) | [Metronomy](https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX) | [Red River Rock](https://open.spotify.com/album/2oF0Uy7bSrLNm2GiCvZStu) | 2:09 | 2022-01-07 | 2023-03-26 |

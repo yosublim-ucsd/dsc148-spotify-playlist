@@ -4,7 +4,7 @@
 
 > 日本のインディー・サウンドを特集。The freshest indie sounds from Japan\. cover: 松木美定
 
-1,067 songs - 2 day 18 hr 26 min
+1,068 songs - 2 day 18 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -384,7 +384,8 @@
 | [Melody Of Your Heart](https://open.spotify.com/track/6vii1h2OYYopzYpwHOWMcT) | [Maika Loubté](https://open.spotify.com/artist/0wMkBz97F3SE4yNz0y2OOz) | [mani mani](https://open.spotify.com/album/5qz9YIGC9q3hIObRBdzQKp) | 4:29 | 2023-10-17 | 2023-11-22 |
 | [meringue doll](https://open.spotify.com/track/1iPAcVXxspQM3aP8f3JtBQ) | [Ichiko Aoba](https://open.spotify.com/artist/6ignRjbPmLvKdtMLj9a5Xs) | [meringue doll](https://open.spotify.com/album/7qeJaFdCP3hCLm2KFp96Ts) | 4:13 | 2023-08-29 |  |
 | [Messages that don't reach you](https://open.spotify.com/track/59IEVzGqH7942VwaRP4DIp) | [小山田壮平](https://open.spotify.com/artist/7zEZK9uCPiycLqxQ9Ine4v) | [Messages that don't reach you](https://open.spotify.com/album/7yH7OsvM7a11HaCOb68azC) | 4:07 | 2023-11-12 | 2023-11-22 |
-| [Metamorphose Love](https://open.spotify.com/track/0VncsWhl0k2xzwAScprYXL) | [Keiichi Sokabe](https://open.spotify.com/artist/5L2Y03AcUOXCgvRMTy2Gwq) | [Metamorphose Love](https://open.spotify.com/album/3g7x2FtL9c2N5d4p9y7EUb) | 2:40 | 2023-11-29 |  |
+| [Metamorphose Love](https://open.spotify.com/track/0VncsWhl0k2xzwAScprYXL) | [Keiichi Sokabe](https://open.spotify.com/artist/5L2Y03AcUOXCgvRMTy2Gwq) | [Metamorphose Love](https://open.spotify.com/album/3g7x2FtL9c2N5d4p9y7EUb) | 2:40 | 2023-11-29 | 2023-12-02 |
+| [Metamorphose Love](https://open.spotify.com/track/4A3PPYTWMWGowHVq5ilvOt) | [Keiichi Sokabe](https://open.spotify.com/artist/5L2Y03AcUOXCgvRMTy2Gwq) | [Hazard Of Love](https://open.spotify.com/album/618qCFzzmmL4iN3TlH2SPC) | 2:40 | 2023-11-30 |  |
 | [miasma](https://open.spotify.com/track/6OTk1A5SN4UvNaJT2MUck9) | [BOAR HUNTER](https://open.spotify.com/artist/3fgbIEhchBfDmtoB0lQw2s) | [Germination of Concepts](https://open.spotify.com/album/1hnCEzbxkge62IBR0VnSsD) | 4:28 | 2023-03-14 | 2023-03-29 |
 | [Michi\-tono\-Sogu](https://open.spotify.com/track/3YbwKcZvwPm6DfqQTjek13) | [LAUSBUB](https://open.spotify.com/artist/1nK2FcujOkjFDDAr1EMo2M) | [Michi\-tono\-Sogu](https://open.spotify.com/album/7tTLJFKEI9MjjZ3MX2jCgQ) | 4:30 | 2023-06-21 | 2023-07-05 |
 | [Michi\-tono\-Sogu](https://open.spotify.com/track/6uIr38NbHnYN8KVfDuHcAQ) | [LAUSBUB](https://open.spotify.com/artist/1nK2FcujOkjFDDAr1EMo2M) | [Michi\-tono\-Sogu](https://open.spotify.com/album/5nBKR9qLUlMjRdr5uD2CVQ) | 4:30 | 2023-06-20 | 2023-06-22 |
@@ -487,7 +488,7 @@
 | [Rainbow Light Eyes](https://open.spotify.com/track/13VrYQ0GkLoqcHhLezrKOl) | [Maika Loubté](https://open.spotify.com/artist/0wMkBz97F3SE4yNz0y2OOz) | [Rainbow Light Eyes](https://open.spotify.com/album/0AoYZYkXxDRo3iT7Wzwk9H) | 3:12 | 2023-06-27 | 2023-08-23 |
 | [RainRain](https://open.spotify.com/track/382csZGIXhIwBPTXiBqjSt) | [the engy](https://open.spotify.com/artist/0SLHzcDJxE57ySNIP8tTxO) | [RainRain](https://open.spotify.com/album/22IRy53zNivNN48RwqF7N1) | 4:50 | 2023-06-13 | 2023-06-15 |
 | [RainRain](https://open.spotify.com/track/5X3cQ46Ekm50vcdjpokdEC) | [the engy](https://open.spotify.com/artist/0SLHzcDJxE57ySNIP8tTxO) | [RainRain](https://open.spotify.com/album/0gAGsoAIdUK5i1iGQWhoud) | 4:50 | 2023-06-13 | 2023-06-21 |
-| [Rainy Day](https://open.spotify.com/track/22f48KIbKzgpOkAtVvyUQW) | [Offo tokyo](https://open.spotify.com/artist/24dGzgKTwpUdb4cGdnFj7y) | [Rainy Day](https://open.spotify.com/album/2AFqDaqL6nvDsYRZwXpPWu) | 3:01 | 2023-11-24 | 2023-12-01 |
+| [Rainy Day](https://open.spotify.com/track/22f48KIbKzgpOkAtVvyUQW) | [Offo tokyo](https://open.spotify.com/artist/24dGzgKTwpUdb4cGdnFj7y) | [Rainy Day](https://open.spotify.com/album/2AFqDaqL6nvDsYRZwXpPWu) | 3:01 | 2023-11-24 |  |
 | [Ravel](https://open.spotify.com/track/4LGHishH8X6vGpF58Y8PCd) | [androp](https://open.spotify.com/artist/7n437ZdDaCzqjJDJ7WmbyX) | [fab](https://open.spotify.com/album/7iCqvrw9Nrvh2199sUwzzT) | 3:39 | 2023-01-12 | 2023-01-25 |
 | [rays of the sun](https://open.spotify.com/track/3ZnARchlY8crHqgPvHzRE0) | [THE LOVE NINGEN](https://open.spotify.com/artist/5fJn0h6ZtPjwNZQcjCbdBI) | [rays of the sun](https://open.spotify.com/album/7qnrSMCS9AlRonIY0zmn8o) | 6:46 | 2023-10-26 | 2023-11-08 |
 | [Re: 日帰りで \- lovely summer mix](https://open.spotify.com/track/1uhvDgjUOGjw8LMV45zpJY) | [ゆっきゅん](https://open.spotify.com/artist/5Y9FO0DbxGApgPFNh4HBNA), [ラブリーサマーちゃん](https://open.spotify.com/artist/4RqW2gDA0WcAHD0Mc9yc6L) | [Re: 日帰りで \(lovely summer mix\)](https://open.spotify.com/album/6Zk2JBsPUUswrM2VRNPQfH) | 2:52 | 2023-08-15 | 2023-08-17 |
@@ -924,7 +925,7 @@
 | [市井のディスコ](https://open.spotify.com/track/4jqvN0dBhk1I0H3pRxsbcN) | [片想い](https://open.spotify.com/artist/7oOtm11Zlovb1drk8T1zhK) | [市井のディスコ](https://open.spotify.com/album/0s5So4ezp7cPd7bxnoFWTd) | 4:06 | 2023-08-22 | 2023-08-30 |
 | [帰ろう](https://open.spotify.com/track/7DdBE5bGf8pOwTBye0xPi3) | [never young beach](https://open.spotify.com/artist/2YtvgEYiTH6jh7n2UmUdXX) | [帰ろう](https://open.spotify.com/album/45ANe5X8QzmFz8isn8JGSf) | 3:48 | 2023-05-23 | 2023-09-20 |
 | [常時](https://open.spotify.com/track/4z6WOaHmQH6IB5MiU2ZTOh) | [HOME](https://open.spotify.com/artist/05TvJ2uTExkaxykVebDcJB) | [常時](https://open.spotify.com/album/2Li3hHC5e8JaHC4qJvgmRH) | 4:48 | 2023-10-31 | 2023-11-02 |
-| [平和](https://open.spotify.com/track/1xFILrBQBn67qprImezB0I) | [Zainichi Funk](https://open.spotify.com/artist/37hqgMV84m06updLlBFhIa), [Tavito Nanao](https://open.spotify.com/artist/6OK5I4qMrrS3taSgczMS1a) | [在ライフ](https://open.spotify.com/album/2bbfZQbPszzs9CIww7UNn3) | 5:07 | 2023-10-31 |  |
+| [平和](https://open.spotify.com/track/1xFILrBQBn67qprImezB0I) | [Zainichi Funk](https://open.spotify.com/artist/37hqgMV84m06updLlBFhIa), [Tavito Nanao](https://open.spotify.com/artist/6OK5I4qMrrS3taSgczMS1a) | [在ライフ](https://open.spotify.com/album/2bbfZQbPszzs9CIww7UNn3) | 5:07 | 2023-10-31 | 2023-12-02 |
 | [幸せのまわり道](https://open.spotify.com/track/1OCvIuUDYIwnuv6lQzdoD7) | [Bialystocks](https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe) | [幸せのまわり道](https://open.spotify.com/album/5Rr1mK7xiTXEgPN6it8VJN) | 3:45 | 2023-10-05 | 2023-10-07 |
 | [幽霊](https://open.spotify.com/track/4dKjOYrXQxuJ2C3VaoWZwJ) | [odol](https://open.spotify.com/artist/1JWciWrGdCTOWeycrjFWpS) | [幽霊](https://open.spotify.com/album/1KW6vC2adbnG1XOvj20Lld) | 3:55 | 2023-10-17 | 2023-11-29 |
 | [幽霊](https://open.spotify.com/track/5aJwduSF9XWNHxBBEImSNc) | [YAJICO GIRL](https://open.spotify.com/artist/0Tf7tr107S3YnHo2BIOPX4) | [幽霊](https://open.spotify.com/album/3kYcafDQ4uHEQKTB7VTXme) | 3:28 | 2023-01-12 | 2023-01-27 |

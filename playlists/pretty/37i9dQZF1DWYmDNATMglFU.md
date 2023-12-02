@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYmDNATMglFU.md) - [plain]
 
 > it's a generation ⛓ ft\. MOD SUN & LiL Lotus
 
-[Spotify](https://open.spotify.com/user/spotify) - 346,187 likes - 82 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 346,148 likes - 82 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,4 +91,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYmDNATMglFU.md) - [plain]
 | 81 | [ikea](https://open.spotify.com/track/61AeNwWBe9C9MpRM2uG2Zq) | [phem](https://open.spotify.com/artist/0MGJHTThvyAyqKuEAgPqDr) | [ikea](https://open.spotify.com/album/61ZvzyRvEEeUX929xHKb9S) | 2:25 |
 | 82 | [By The Time You're Reading This](https://open.spotify.com/track/0uuxAXS1X7kH0WjC0nD6q9) | [YONAKA](https://open.spotify.com/artist/3Wcyta3gkOdQ4TfY0WyZpu) | [Welcome To My House](https://open.spotify.com/album/0ImZVp5Lh6vnyMUkQtnQIw) | 3:10 |
 
-Snapshot ID: `MCxlZjYxYmZhMGU0NWFmNDYxZGM1YWQzNjk4NGE3NzJjMWM3NmQ2MTYx`
+Snapshot ID: `MCw1MzYxYTQ2YjNkOGQzOGU0NmVjZTUwMDQ5NzMyYzIwZTJjZjEwNTU0`

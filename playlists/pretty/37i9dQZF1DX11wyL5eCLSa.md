@@ -2,20 +2,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11wyL5eCLSa.md) - [plain]
 
 ### [EL ROCK NO HA MUERTO](https://open.spotify.com/playlist/37i9dQZF1DX11wyL5eCLSa)
 
-> Sangre fresca en las escenas del indie y el rock\. Jonaz en Portada.
+> Sangre fresca en las escenas del indie y el rock\. Depresión Sonora en Portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 159,514 likes - 100 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 159,556 likes - 100 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Mal Negocio](https://open.spotify.com/track/1cwTYi0DRI0QfCfYUImTE9) | [Jonaz](https://open.spotify.com/artist/3Qldsib1smRXVBihCbSKrV) | [Mal Negocio](https://open.spotify.com/album/1xPDCNo9ghP9xoCthbcvbn) | 3:22 |
-| 2 | [Tokyo](https://open.spotify.com/track/4YETK2Zs4oJ6YIAVbfqYMH) | [Jay de la Cueva](https://open.spotify.com/artist/2PQW0MnXmZd19XKZQyoPgu) | [Tokyo](https://open.spotify.com/album/2XbAH4JRlR941sejnT2suC) | 3:14 |
-| 3 | [vivo del aire](https://open.spotify.com/track/3tHNE5g3k7553UMCix0fwX) | [Depresión Sonora](https://open.spotify.com/artist/2oCrGFAUJwBVFaaIM8c0AO) | [vivo del aire](https://open.spotify.com/album/3Pa0BLpFOK8hVg9KqTq035) | 2:48 |
-| 4 | [Está todo mal](https://open.spotify.com/track/1TCuzqT6yRfNgS5tWNLEW7) | [Árbol](https://open.spotify.com/artist/6OO01j5rLKCyPg4i3FuzIT) | [Está todo mal](https://open.spotify.com/album/5uYVPB3uqQNzB5nHEpvRXc) | 2:44 |
+| 1 | [vivo del aire](https://open.spotify.com/track/3tHNE5g3k7553UMCix0fwX) | [Depresión Sonora](https://open.spotify.com/artist/2oCrGFAUJwBVFaaIM8c0AO) | [vivo del aire](https://open.spotify.com/album/3Pa0BLpFOK8hVg9KqTq035) | 2:48 |
+| 2 | [Tajada](https://open.spotify.com/track/0HGchjSKUuMNsLg8zfwqFf) | [Babasónicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [Tajada](https://open.spotify.com/album/5hfg8YESqVnDHcOPiu4GSs) | 3:26 |
+| 3 | [Dame Una Oportunidad](https://open.spotify.com/track/3TedsdGhsTOv7afpvNapKc) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Dame Una Oportunidad](https://open.spotify.com/album/6QllYuDuxeQNLGTfEOK3vO) | 3:18 |
+| 4 | [El Futuro Luce Brillante](https://open.spotify.com/track/7LVNF9GtJOoCJhfOl9mfKr) | [Comisario Pantera](https://open.spotify.com/artist/7eOGKFUwjDDem40BGPqnZR) | [Instinto Felino \(Deluxe\)](https://open.spotify.com/album/2rIbyvyTtqIpGc6POmzmrm) | 4:01 |
 | 5 | [Lxs Vampirxs](https://open.spotify.com/track/7BdvEr27dk6v2X8OY2ZPi0) | [Los Blenders](https://open.spotify.com/artist/19JX619qYCK7xfjaTxzhai) | [Lxs Vampirxs](https://open.spotify.com/album/7BzIXzDZRnFZEHo1OfYsfy) | 2:29 |
-| 6 | [Cabras](https://open.spotify.com/track/0Z6NjrgKeVaR3G1lAOk4at) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit), [Jimena González](https://open.spotify.com/artist/7C2SYZIxEKVRD1VacM3xxc) | [Cabras](https://open.spotify.com/album/4l3SJgabo5QTmFqTfW3KM5) | 3:41 |
-| 7 | [Fútbol Rock](https://open.spotify.com/track/1et2VDNG2yWvhM5hYmbUQP) | [CLUBZ](https://open.spotify.com/artist/6MoZZABXeQwEmzmcwICxwK), [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [Fútbol Rock](https://open.spotify.com/album/4RrNTXqxiZkwT1qAJVrdrR) | 4:13 |
-| 8 | [Dame Una Oportunidad](https://open.spotify.com/track/3TedsdGhsTOv7afpvNapKc) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Dame Una Oportunidad](https://open.spotify.com/album/6QllYuDuxeQNLGTfEOK3vO) | 3:18 |
+| 6 | [Un Nuevo Sol](https://open.spotify.com/track/34IpEx8bOSBtuJEQ6VF9KX) | [Nacho Maldonado](https://open.spotify.com/artist/4K6VsMmNzvyjrkVFdncNRH), [Ely Guerra](https://open.spotify.com/artist/1ne2c2YEgt4MmJCJGCsfsZ) | [Un Nuevo Sol](https://open.spotify.com/album/6fqEKcSaECC1fVGzVGAP8Y) | 5:18 |
+| 7 | [Tokyo](https://open.spotify.com/track/4YETK2Zs4oJ6YIAVbfqYMH) | [Jay de la Cueva](https://open.spotify.com/artist/2PQW0MnXmZd19XKZQyoPgu) | [Tokyo](https://open.spotify.com/album/2XbAH4JRlR941sejnT2suC) | 3:14 |
+| 8 | [Cabras](https://open.spotify.com/track/0Z6NjrgKeVaR3G1lAOk4at) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit), [Jimena González](https://open.spotify.com/artist/7C2SYZIxEKVRD1VacM3xxc) | [Cabras](https://open.spotify.com/album/4l3SJgabo5QTmFqTfW3KM5) | 3:41 |
 | 9 | [Eutanasia](https://open.spotify.com/track/1FHMIhcJlNY3ecpKjd7FIj) | [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [Cuando Ella me Besó Probé a Dios](https://open.spotify.com/album/5J0TN8kwiPmJBAQKIYkx8V) | 2:34 |
 | 10 | [LFO \(Lupe Finds Oliveros\)](https://open.spotify.com/track/67D1DphJpan1hFNs7H5O8i) | [Helado Negro](https://open.spotify.com/artist/69qhRLDvsWJOhWGXXQ0lQQ) | [LFO \(Lupe Finds Oliveros\)](https://open.spotify.com/album/0DkVX02cJFDAvuovLNz16Y) | 3:06 |
 | 11 | [La Sombra del Amanecer](https://open.spotify.com/track/6Rtf7VGfor2jIfkLkLula0) | [La Vida Bohème](https://open.spotify.com/artist/5gs7iemsrjIJbz0ryFcy79) | [La Sombra del Amanecer](https://open.spotify.com/album/25i71egTd0RdShae3PQcve) | 6:16 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11wyL5eCLSa.md) - [plain]
 | 99 | [como me encanta](https://open.spotify.com/track/6LkquZ7k3q1eeBtltF63lj) | [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [como me encanta](https://open.spotify.com/album/6YoWXvum55EbkVxoCawSZE) | 5:21 |
 | 100 | [Enemigo \(Acústico\)](https://open.spotify.com/track/5ReKPDlqRp0pgBr85cW2pp) | [Enjambre](https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR) | [Enemigo \(Acústico\)](https://open.spotify.com/album/6qH6zmf1sKAlpIWQNi88VB) | 4:02 |
 
-Snapshot ID: `MCxiYzlmZjcxYmRhMmY5YjRmMjI4Y2RmYmIxOWY5ZjMzOTU0YzhmZTMw`
+Snapshot ID: `MCwwOTA5NGRlNzE4OGNlYTRjZTA1MTkwZGIzN2E1Y2Q3ODczOWJjZWRl`

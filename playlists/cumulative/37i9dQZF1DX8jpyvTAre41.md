@@ -2,9 +2,9 @@
 
 ### [Rock Now](https://open.spotify.com/playlist/37i9dQZF1DX8jpyvTAre41)
 
-> The biggest songs in today's Rock scene\. Cover: Måneskin
+> The biggest songs in today's Rock scene\. Cover: Mother Mother
 
-734 songs - 1 day 17 hr 42 min
+735 songs - 1 day 17 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -164,7 +164,7 @@
 | [Don't Hate Me](https://open.spotify.com/track/0w5vvxfNoqnF8pDpj5eD1A) | [Badflower](https://open.spotify.com/artist/3T55D3LMiygE9eSKFpiAye) | [This Is How The World Ends](https://open.spotify.com/album/1A2doQQJcGdh1ORygfbEp9) | 4:11 | 2021-12-31 | 2022-01-15 |
 | [Don't Let The Light Go Out](https://open.spotify.com/track/2Tg7Tc4H50u11aDpmSRQTB) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Viva Las Vengeance](https://open.spotify.com/album/25DhBz5cckEAFcivcSzSTo) | 3:49 | 2022-08-19 | 2022-10-08 |
 | [Don't Miss](https://open.spotify.com/track/1XS9ZXy3Z17ptOVRO3i02e) | [The Blue Stones](https://open.spotify.com/artist/5VPCIIfZPK8KPsgz4jmOEC) | [Don't Miss](https://open.spotify.com/album/5yHrrUGbMoZxefRxJY1LN9) | 3:06 | 2022-06-03 | 2022-08-27 |
-| [dose no\. 2](https://open.spotify.com/track/1oRTzF2rBqLGm1goxeflIm) | [The Maine](https://open.spotify.com/artist/4o0pNHbyj36LPvukNqEug0) | [The Maine](https://open.spotify.com/album/40ptDph9mAXMnkZJKRe3UM) | 2:54 | 2023-08-04 |  |
+| [dose no\. 2](https://open.spotify.com/track/1oRTzF2rBqLGm1goxeflIm) | [The Maine](https://open.spotify.com/artist/4o0pNHbyj36LPvukNqEug0) | [The Maine](https://open.spotify.com/album/40ptDph9mAXMnkZJKRe3UM) | 2:54 | 2023-08-04 | 2023-12-02 |
 | [Dream It All Over Again](https://open.spotify.com/track/7fhZv3xugIuP7LBUlrmUvf) | [Sloan](https://open.spotify.com/artist/1ahN3WDDULKaAQs7ZUrGNP) | [Dream It All Over Again](https://open.spotify.com/album/54lXES6xC4gcayJuH1nHd9) | 3:07 | 2022-10-21 | 2023-03-25 |
 | [Dreamstate](https://open.spotify.com/track/5Gggw8WykNhnZsYExUVYxy) | [Rezz](https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw), [Tim Henson](https://open.spotify.com/artist/2cMK99GYN2qw5buZecbKH4), [Silverstein](https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug) | [IT'S NOT A PHASE](https://open.spotify.com/album/5etGhl198ycQOkK4mt8B1w) | 3:12 | 2023-07-28 |  |
 | [Drones](https://open.spotify.com/track/5QNWATWEQiM9S7rsFUu0Ns) | [grandson](https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4) | [Drones](https://open.spotify.com/album/2ZfElZEiFCJhbXZa1iVEGb) | 2:30 | 2023-03-31 | 2023-05-06 |
@@ -643,6 +643,7 @@
 | [This Is Why](https://open.spotify.com/track/7z84Fwf1R3Z2BwHCP620CI) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [This Is Why](https://open.spotify.com/album/1BDj5lr0KVcSQpSNdyqJct) | 3:27 | 2022-09-30 | 2022-12-10 |
 | [Those Days](https://open.spotify.com/track/5ZQSKzxwW86JEosVUWDoRm) | [Nickelback](https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF) | [Get Rollin'](https://open.spotify.com/album/5uLm9XqpibzmIaFUz80jLb) | 3:39 | 2023-11-03 |  |
 | [Those Days](https://open.spotify.com/track/6q0SkdXeeUsUqBhkxNZ911) | [Nickelback](https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF) | [Get Rollin'](https://open.spotify.com/album/660c34OZzJ4gUd0rXe8ARp) | 3:39 | 2023-04-21 | 2023-11-05 |
+| [thoughts i have while lying in bed](https://open.spotify.com/track/7t01uN0kyKMEK8Ow9hhEXa) | [The Maine](https://open.spotify.com/artist/4o0pNHbyj36LPvukNqEug0), [Beach Weather](https://open.spotify.com/artist/7I3bkknknQkIiatWiupQgD) | [thoughts i have while lying in bed \(with Beach Weather\)](https://open.spotify.com/album/57u0BXm756Oc5nKELfd6qR) | 3:39 | 2023-12-01 |  |
 | [Time Won't Heal](https://open.spotify.com/track/1aJhRwvIn8ISOxXhJcLm6M) | [Like Pacific](https://open.spotify.com/artist/5VKmfBc2pR80IxYoC1gHyH) | [Control My Sanity](https://open.spotify.com/album/7HVWMQtV424Ab3b0IBKyda) | 3:01 | 2021-12-31 | 2022-01-15 |
 | [Tippa My Tongue](https://open.spotify.com/track/3s53zBEi1ZU6dJj19eFOxW) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [Tippa My Tongue](https://open.spotify.com/album/58As6ZmLLmhtkF8l5voV9p) | 4:20 | 2022-08-19 | 2022-10-15 |
 | [Tissues](https://open.spotify.com/track/0jRY4XO556pn1zHZAoY3ph) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [Tissues](https://open.spotify.com/album/1LIAp7pyElYRzvlP0mXSew) | 3:35 | 2022-09-02 | 2022-10-22 |

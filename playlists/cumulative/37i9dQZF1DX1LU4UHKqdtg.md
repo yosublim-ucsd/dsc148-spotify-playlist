@@ -2,9 +2,9 @@
 
 ### [K\-Pop Fresh](https://open.spotify.com/playlist/37i9dQZF1DX1LU4UHKqdtg)
 
-> The freshest K\-Pop of today!  //最先端のK\-Popをピックアップ！ Cover: Dreamcatcher
+> The freshest K\-Pop of today!  //最先端のK\-Popをピックアップ！ Cover: ATEEZ
 
-835 songs - 1 day 21 hr 37 min
+840 songs - 1 day 21 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [28 Reasons](https://open.spotify.com/track/1dfsPqH09vnzUWEOsN98Ex) | [SEULGI](https://open.spotify.com/artist/2QM5S4yO6xHgnNvF0nbZZq) | [28 Reasons \- The 1st Mini Album](https://open.spotify.com/album/1t5a29WYbJj83iy3RNICHw) | 3:09 | 2022-10-04 | 2022-11-23 |
 | [3D \(feat\. Jack Harlow\)](https://open.spotify.com/track/6ehWdR7cGDXnT7aKEASJxE) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [3D \(feat\. Jack Harlow\)](https://open.spotify.com/album/4DKnznk5VbGVvAOYBbQrZJ) | 3:21 | 2023-09-28 |  |
 | [3D \(feat\. Jack Harlow\) \(A\. G\. Cook Remix\)](https://open.spotify.com/track/7fQKDpB4i0hiQacjVCXVU2) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ), [A\. G\. Cook](https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8) | [3D : The Remixes](https://open.spotify.com/album/0fJ0beklzFwoBv01U8792s) | 3:08 | 2023-10-02 | 2023-10-28 |
+| [3D \(Justin Timberlake Remix\)](https://open.spotify.com/track/2mHw0KoEyDw8Yaw3yPoke6) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [3D \(Justin Timberlake Remix\)](https://open.spotify.com/album/4SNBgrYqk2aV4LyXbTSkYA) | 2:40 | 2023-12-01 |  |
 | [3D Woman](https://open.spotify.com/track/1BNJP9eruFJyNKvbe6J2m7) | [JAMIE](https://open.spotify.com/artist/2YXlVLKq3X3soXd2aXUtIT) | [One Bad Night](https://open.spotify.com/album/0kIaHXgYSK2eE5Makr8vdK) | 3:05 | 2022-10-04 | 2022-12-07 |
 | [64](https://open.spotify.com/track/3RscSDB2uUc7cqjZZSChkg) | [BÉBE YANA](https://open.spotify.com/artist/6ozuxhSx8Ci0o8tPpgrCT2) | [64](https://open.spotify.com/album/40A0DSsLCcNDjQPPvlIeiT) | 2:40 | 2023-03-20 | 2023-05-10 |
 | [7HEAVEN](https://open.spotify.com/track/3ZvaNnxZATJ4bA41Vkbssc) | [PURPLE KISS](https://open.spotify.com/artist/62T5PGHWJ9sxP2SJq20IHq) | [FESTA](https://open.spotify.com/album/3dL6zwC1px9mU7R5x8RW8x) | 3:28 | 2023-09-06 | 2023-10-07 |
@@ -48,6 +49,7 @@
 | [ANTIFRAGILE](https://open.spotify.com/track/4fsQ0K37TOXa3hEQfjEic1) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [ANTIFRAGILE](https://open.spotify.com/album/3u0ggfmK0vjuHMNdUbtaa9) | 3:04 | 2022-10-27 | 2023-02-22 |
 | [ANTIFRAGILE \- Japanese ver.](https://open.spotify.com/track/0MvgLL3Rkj9JjEvpUqAy0m) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [UNFORGIVEN](https://open.spotify.com/album/2B11ELMAJKREkxW6Y4fclI) | 3:05 | 2023-08-22 | 2023-09-15 |
 | [Any Other Way](https://open.spotify.com/track/0GLeMtCBYkh98BqwO5BN7b) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [Any Other Way](https://open.spotify.com/album/7C5Y9bh4Y8G5sw3bB2bquM) | 2:48 | 2021-12-23 | 2022-03-21 |
+| [ARRIBA](https://open.spotify.com/track/5wZu9Hw69jORB2OxeX3qC6) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [THE WORLD EP.FIN : WILL](https://open.spotify.com/album/1r0F1EzzNOaJyB7U0Jp5RH) | 3:37 | 2023-12-01 |  |
 | [Arson](https://open.spotify.com/track/2QWEMqQMJR1KDf6hDjJOs6) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) | [Jack In The Box](https://open.spotify.com/album/0FrC9lzgVhziJenigsrXdl) | 2:39 | 2022-07-15 | 2022-10-05 |
 | [As It Was \- Spotify Singles](https://open.spotify.com/track/1lUNlmwyhsJy6kXmmrO11t) | [SEUNGKWAN](https://open.spotify.com/artist/0Vb2DjojEYsasFpc3aTZb6) | [As It Was \- Spotify Singles](https://open.spotify.com/album/53TYhJdqLF6eU5GbYZezTB) | 2:39 | 2022-09-30 | 2023-01-28 |
 | [ASAP \- Japanese Ver.](https://open.spotify.com/track/3Wt0F41P9eevGDvBSIIqhE) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [POPPY](https://open.spotify.com/album/7GAgQKzoFrEo0ijpW88se8) | 3:14 | 2022-11-22 | 2023-01-18 |
@@ -493,6 +495,7 @@
 | [New Tomorrow](https://open.spotify.com/track/2ayD6EPasDViEQa4bwat0c) | [FANTASY BOYS](https://open.spotify.com/artist/4IAcb0MN1CCHpwUaq5iEUU) | [NEW TOMORROW](https://open.spotify.com/album/3H3lbA7Dn1BVIflkUqfYUU) | 3:50 | 2023-09-21 | 2023-10-13 |
 | [Nights Into Days \(Prod\. by Naul\)](https://open.spotify.com/track/7yMSnQEier8Kp4iQuIvt0t) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [Naul <Ballad Pop City>](https://open.spotify.com/album/5KN5V04kjs7YeTVyQcpqqZ) | 4:20 | 2023-02-02 | 2023-03-22 |
 | [Nirvana \(feat\. pH\-1 & WDBZ\)](https://open.spotify.com/track/36DcCSKGShF6p3h2JMcPDg) | [KANGDANIEL](https://open.spotify.com/artist/5vGoWnZO65NBgiZYBmi3iW), [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W), [WDBZ](https://open.spotify.com/artist/01q9uYIoLmTfAFQaKiNnbh) | [The Story : RETOLD](https://open.spotify.com/album/1W8HpoJr9zJmNxBYP8uCT9) | 3:39 | 2022-11-24 | 2023-01-25 |
+| [NOBODY](https://open.spotify.com/track/4loUHO28CuvSbEiZXId1BD) | [JEON SOYEON](https://open.spotify.com/artist/6Xg22wJOAcnvPUfk5WvODH), [WINTER](https://open.spotify.com/artist/3mPquBmMu97Iq9TpzQ6ayI), [LIZ \(IVE\)](https://open.spotify.com/artist/2Cl2zS9nttS8xQeCp7zYT1) | [NOBODY](https://open.spotify.com/album/1Y48ZHmfvedT16bNakv13v) | 2:41 | 2023-12-01 |  |
 | [Nolza](https://open.spotify.com/track/0wLGK1RAecE26M9gbavG9v) | [THE BOYZ](https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx) | [THE POYZ NOLZA](https://open.spotify.com/album/6BKzodImJNGQce8WlHILwD) | 2:37 | 2023-04-27 | 2023-06-16 |
 | [Nxde](https://open.spotify.com/track/6NnCWIWV740gP7DQ8kqdIE) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [I love](https://open.spotify.com/album/2Hyuin3i1cSZ1FlQFeCPZH) | 2:58 | 2022-10-18 | 2023-02-15 |
 | [Nxde \(Steve Aoki Remix\)](https://open.spotify.com/track/6HXVUmiqWSg3OW6yr5mJCJ) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx), [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs) | [Nxde \(Steve Aoki Remix\)](https://open.spotify.com/album/6khD0lw8LFHvPWoRfhAfym) | 2:47 | 2022-12-16 | 2023-03-18 |
@@ -560,6 +563,7 @@
 | [Rain Day](https://open.spotify.com/track/07lK6LoH13tGwxziXWIp16) | [NCT U](https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ) | [Rain Day \- SM STATION : NCT LAB](https://open.spotify.com/album/58uFef7QCVv7hVQZDur3n0) | 3:10 | 2022-07-19 | 2022-10-12 |
 | [RATA\-TAT\-TAT](https://open.spotify.com/track/7AdyfUxsfKi1ERbwu7wLQU) | [Golden Child](https://open.spotify.com/artist/5zShiwTHlygdfsXj6eavTu) | [RATA\-TAT\-TAT](https://open.spotify.com/album/1Zhm7LxHfqZg8XS143vJtz) | 3:24 | 2022-05-10 | 2022-07-19 |
 | [RE8EL](https://open.spotify.com/track/4zN0rgpBOcpXnp6EJkYmnM) | [KANGDANIEL](https://open.spotify.com/artist/5vGoWnZO65NBgiZYBmi3iW) | [RE8EL](https://open.spotify.com/album/396PmDmC3mjNC93wW6E9QS) | 2:55 | 2023-11-28 |  |
+| [Ready for the World](https://open.spotify.com/track/1zh1cJT5qzuhb0F2S6X9ba) | [VCHA](https://open.spotify.com/artist/3k6TH9knHgthYJiEVDUC2s) | [Ready for the World](https://open.spotify.com/album/4AUH5o7KAs0BpvJwH1Je77) | 3:05 | 2023-12-01 |  |
 | [Ready or Not](https://open.spotify.com/track/5ArnumzuZkiaSmZaxPsQfh) | [CRAVITY](https://open.spotify.com/artist/6FkhUhUwSPl3mGB6mmE8wn) | [SUN SEEKER](https://open.spotify.com/album/1FdVBP7g9FfMa7ifgyY4iA) | 3:11 | 2023-09-11 | 2023-10-11 |
 | [Ready Set Go](https://open.spotify.com/track/6Nuc9zMEzHfhzt8oIcqOIA) | [CRAVITY](https://open.spotify.com/artist/6FkhUhUwSPl3mGB6mmE8wn) | [The Uncanny Counter 2, Pt\. 1 \(Original Television Soundtrack\)](https://open.spotify.com/album/08360mjn2Mf9Y8VAVrx1Nc) | 3:07 | 2023-08-10 | 2023-09-01 |
 | [Ready to ride](https://open.spotify.com/track/1qwdkBDK21HGFYpQPAnMyJ) | [KANGDANIEL](https://open.spotify.com/artist/5vGoWnZO65NBgiZYBmi3iW) | [Ready to ride](https://open.spotify.com/album/3UtWwqV8nUxO94J65hpnrX) | 3:37 | 2022-04-29 | 2022-07-01 |
@@ -720,6 +724,7 @@
 | [Till I Live](https://open.spotify.com/track/41QtqULXM34zXfPkM88Rwm) | [Dabin](https://open.spotify.com/artist/5xyPRB5a4OkeJrj4vLXKvi) | [Till I Live](https://open.spotify.com/album/7uZSZnFHoZIGYA5eN9nLbH) | 4:28 | 2023-10-19 | 2023-11-10 |
 | [Tippy Toes](https://open.spotify.com/track/1MKmSbQfJpEVnC3XfGywyF) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [Tippy Toes](https://open.spotify.com/album/6P9erpHs7hgJlca7Tj3F0w) | 3:08 | 2022-03-18 | 2023-02-22 |
 | [To The Light](https://open.spotify.com/track/47mWmPCFk9qGyU7MSQi5EU) | [nokdu](https://open.spotify.com/artist/3tJf4CNWLW1ubPxCte1g5D), [YUKIKA](https://open.spotify.com/artist/4RfI1z9u2xIc5Qnqac4JbO) | [To The Light](https://open.spotify.com/album/1Qiv9XYyI3KlBAOZtuvkE6) | 3:29 | 2021-12-23 | 2022-01-19 |
+| [To\. X](https://open.spotify.com/track/2gyCwrOcC6JBoaJ8JGJ7T8) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [To\. X \- The 5th Mini Album](https://open.spotify.com/album/0VciVDVU6NoqtQ0WAIlTmD) | 2:50 | 2023-12-01 |  |
 | [tOgether fOrever](https://open.spotify.com/track/4lEyfMaUwdioK1MxfSVBPw) | [Kep1er](https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4) | [<FLY\-BY> \- Special Edition \-](https://open.spotify.com/album/3knTfpvtA87E82OLyDJJWS) | 3:31 | 2023-03-14 | 2023-06-21 |
 | [Tokyo Tower Romance](https://open.spotify.com/track/4UmwxYx32uUBuYln5QYVIN) | [ユナク from SUPERNOVA](https://open.spotify.com/artist/1dpHGlwmn7I4ofefF0sBgn) | [more...](https://open.spotify.com/album/3McO8rH7UiRc6dNyb90hDJ) | 4:29 | 2022-02-15 | 2022-03-09 |
 | [TOMBOY](https://open.spotify.com/track/6WYsZJDfUOftGVji74yYSU) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [I NEVER DIE](https://open.spotify.com/album/2dVrXV8hgovfKK7nPZkYFi) | 2:54 | 2022-03-14 | 2022-07-29 |

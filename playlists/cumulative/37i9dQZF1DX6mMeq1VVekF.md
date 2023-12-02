@@ -4,7 +4,7 @@
 
 > No tags, no labels \- just free form\. Cover: BXKS
 
-320 songs - 16 hr 49 min
+321 songs - 16 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,7 +102,7 @@
 | [Entrepreneur](https://open.spotify.com/track/2wiJQhmWcClrB2LKnyvBNE) | [Rimzee](https://open.spotify.com/artist/65QlWmtWjcK3CPBung0ATT) | [Entrepreneur](https://open.spotify.com/album/7wIGIAvJf8SQhZ3z4BfuPM) | 2:26 | 2022-07-17 | 2022-09-03 |
 | [Exception](https://open.spotify.com/track/3BSih9QYqAXu5GL6V9AUPt) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [Exception](https://open.spotify.com/album/0s8OBEdwGEHGkXLV4VQr0l) | 4:06 | 2022-06-24 | 2022-07-27 |
 | [Extrovert](https://open.spotify.com/track/6yfmbb66n84EZH1bFOH739) | [Monjola](https://open.spotify.com/artist/1hwy1qY69O1tCOAm7MYeq6) | [Extrovert](https://open.spotify.com/album/3Rbg1yJHg5yf87IkeT7iic) | 3:06 | 2022-06-24 | 2023-05-16 |
-| [Eye for an Eye](https://open.spotify.com/track/1KjxNspmKdAncNRGNggUGk) | [Benny Banks](https://open.spotify.com/artist/6VkIVwkujaxm1wSNdhjUrg) | [Eye for an Eye](https://open.spotify.com/album/06ttneqqTXDO9pGsRGzRO7) | 4:10 | 2022-07-17 |  |
+| [Eye for an Eye](https://open.spotify.com/track/1KjxNspmKdAncNRGNggUGk) | [Benny Banks](https://open.spotify.com/artist/6VkIVwkujaxm1wSNdhjUrg) | [Eye for an Eye](https://open.spotify.com/album/06ttneqqTXDO9pGsRGzRO7) | 4:10 | 2022-07-17 | 2023-12-02 |
 | [F\*ck U Thought](https://open.spotify.com/track/7nGY6TG3NF8MNdUOT2wJA4) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [F\*ck U Thought](https://open.spotify.com/album/61Bs2ccx3QlNk6wH1tMwtI) | 3:18 | 2023-08-18 |  |
 | [F.U.C.K.](https://open.spotify.com/track/0iDuW211AjTsYDPsLxyqX4) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [F.U.C.K.](https://open.spotify.com/album/5ECJ8Rfo3VvvGz7MeBfhFC) | 3:25 | 2022-07-17 |  |
 | [fake smiles](https://open.spotify.com/track/4rdhaITfxf71ke7kKfrQuC) | [Jim Legxacy](https://open.spotify.com/artist/7IrBqZo6diq3hV3GpUhrs2) | [homeless n\*gga pop music](https://open.spotify.com/album/5j9zothL0paSMkfcdjCdHA) | 2:37 | 2023-05-15 | 2023-06-17 |
@@ -116,6 +116,7 @@
 | [Forward](https://open.spotify.com/track/5z83pxKCThXCgWfQLF2iyX) | [Lorenzorsv](https://open.spotify.com/artist/6ikQz0CCwjFMtT7Hzxn9mY), [Sophie DeMasi](https://open.spotify.com/artist/04T6bn9LSVviNkkR5YsDSS) | [Forward](https://open.spotify.com/album/51EaPRmLx0rPPykZdMiX40) | 3:39 | 2022-06-24 | 2022-07-19 |
 | [Free My People \(feat\. Simmy & Kid Cruise\) \- The Streets Remix](https://open.spotify.com/track/6qFbRXLt0IN3M1HE5d7YPu) | [Greentea Peng](https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K), [SIMMY](https://open.spotify.com/artist/527kNlxgOHUAZ1YOonXDJd), [Kid Cruise](https://open.spotify.com/artist/3M6mw8TcBFhDXPdF2Csupw), [The Streets](https://open.spotify.com/artist/4GvOygVQquMaPm8oAc0vXi) | [Free My People \(The Streets Remix\)](https://open.spotify.com/album/3tsrF1lrccDppgj0mMi0HK) | 3:16 | 2022-06-24 | 2022-07-29 |
 | [From The D 2 The LBC \(with Snoop Dogg\)](https://open.spotify.com/track/7My9ca9QEIR8MvIOdIrTWA) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [From The D 2 The LBC \(with Snoop Dogg\)](https://open.spotify.com/album/6F4ObGnJwwV5W4uLFHnNoT) | 3:35 | 2022-07-17 |  |
+| [FU](https://open.spotify.com/track/1YBBKNODINXewbFOTyTDGd) | [BEAM](https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98) | [FU](https://open.spotify.com/album/0fxV0telSv7hzJxOoluSGZ) | 2:16 | 2023-11-24 |  |
 | [G.O.Y.D.](https://open.spotify.com/track/4jueyRHAHwDovQi3Nlce8v) | [Lava La Rue](https://open.spotify.com/artist/271bbpX3pdCi56ZJA1jQ43) | [G.O.Y.D.](https://open.spotify.com/album/5Hg1kryXTelIkPktBhRnQE) | 3:19 | 2022-06-24 | 2022-07-29 |
 | [Get Inspired](https://open.spotify.com/track/4Og0uXMYqouN7xOQ7u8jiW) | [Genesis Owusu](https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke) | [Get Inspired](https://open.spotify.com/album/2aBGFRtuLyivUnE2TF1FrD) | 2:53 | 2022-10-23 | 2023-11-26 |
 | [GLT Freestyle](https://open.spotify.com/track/2KiH3ZHLrWifFpmtzz9veg) | [Isaia Huron](https://open.spotify.com/artist/1hJx89kEIcAmlZzUWat9w6) | [GLT Freestyle](https://open.spotify.com/album/5YdDjGB5ARWBpHkna6ZyJr) | 2:28 | 2023-05-15 | 2023-06-17 |

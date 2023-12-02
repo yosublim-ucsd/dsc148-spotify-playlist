@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HxJlVUR3HN.md) - [plain]
 
 > Les meilleures nouveautés de la scène rock française\. Photo : Stuck In The Sound
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,810 likes - 50 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,840 likes - 50 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HxJlVUR3HN.md) - [plain]
 | 41 | [The Final Round](https://open.spotify.com/track/0Fp7CgSfxiaRQflg0GJRTo) | [Mars Red Sky](https://open.spotify.com/artist/1vrCjYU0zXNXvLobueUTvQ) | [The Final Round](https://open.spotify.com/album/7ED0mR8FhScZEID6YUL6En) | 6:22 |
 | 42 | [Get Over](https://open.spotify.com/track/5pvksr9GzU4VVRCjckY2zq) | [Sloww](https://open.spotify.com/artist/1wEhZJ2uOgx8CLud1H4XBk) | [Get Over](https://open.spotify.com/album/2t5JTvKhXebh2X6WSwim44) | 3:13 |
 | 43 | [Hotline](https://open.spotify.com/track/49H7g5Cg0iitRMgcNpGcp1) | [Birdstone](https://open.spotify.com/artist/10s9vPaMhzDYMqjwmxNr1t) | [Hotline](https://open.spotify.com/album/27eh9C2MMAgFpb6R2iFNOt) | 4:11 |
-| 44 | [Promis le ciel](https://open.spotify.com/track/5rB3ktoDrcvCQ6wSGo6Ec8) | [Delgres](https://open.spotify.com/artist/1vdBmNoVYcMaaxNbueb4H3) | [Promis Le Ciel](https://open.spotify.com/album/6rRi5Z1oEZZ5XZ1NqXc0Nf) | 3:04 |
+| 44 | [Promis Le Ciel](https://open.spotify.com/track/5rB3ktoDrcvCQ6wSGo6Ec8) | [Delgres](https://open.spotify.com/artist/1vdBmNoVYcMaaxNbueb4H3) | [Promis Le Ciel](https://open.spotify.com/album/6rRi5Z1oEZZ5XZ1NqXc0Nf) | 3:04 |
 | 45 | [Bewitched Me](https://open.spotify.com/track/1kJdkrtByJFrUe3eIefo47) | [Howlin' Jaws](https://open.spotify.com/artist/5i6iGHHnuGDlQR9PLaqikc) | [Half Asleep Half Awake](https://open.spotify.com/album/6ur6w7vngoC5G6I6IgS4Wr) | 2:22 |
 | 46 | [On My Mind](https://open.spotify.com/track/6BrXzU8dYbWBn1uOa3gfM8) | [HEY LIFE](https://open.spotify.com/artist/1MnMtr6vo41XzjwgRvD5wf) | [On My Mind](https://open.spotify.com/album/5Tc3N95b5Zg5u18ujeu1me) | 2:54 |
 | 47 | [All Saints](https://open.spotify.com/track/67PbgSOlVPaxKfbG4QosTC) | [Dirty Black Summer](https://open.spotify.com/artist/5sJdiL5P0UK2MvpW1uPeuq) | [All Saints](https://open.spotify.com/album/6XHyKhBONAA6IH1KTZJHTw) | 4:04 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HxJlVUR3HN.md) - [plain]
 | 49 | [Time](https://open.spotify.com/track/2w3KEeb54tgFgeMtB5HHgy) | [Edgär](https://open.spotify.com/artist/2O7MXaIBC2VqFGOF1ygZsO) | [Time](https://open.spotify.com/album/6iPuJPHRgrMUnzyOJWrQp9) | 2:49 |
 | 50 | [Good Enough](https://open.spotify.com/track/4KGhV3es3fpxChfpBCgAJj) | [mirabelle.](https://open.spotify.com/artist/5TMUjYIR8pxt2p1JIJeEl0) | [Early Fuck\-Ups](https://open.spotify.com/album/1xhjU4FX6Ezh9HtJvhAZDM) | 3:28 |
 
-Snapshot ID: `MCxmNTkzZmI4ZTkyMmJjNzNkODkyMTU0MTI5OTk2Yjk5YTlkMTNkYTkw`
+Snapshot ID: `MCw1ZTdmOTczOWFkZGFlY2M1YWIwZmNiYjdmMWVmNGViY2M0NjAxODdm`

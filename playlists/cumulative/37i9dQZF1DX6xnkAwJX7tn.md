@@ -4,7 +4,7 @@
 
 > The biggest party hits of the 1980s.
 
-311 songs - 21 hr 26 min
+312 songs - 21 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -279,6 +279,7 @@
 | [This Time I Know It's for Real](https://open.spotify.com/track/6ez4yXpLini3DSbaLR10qZ) | [Donna Summer](https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U) | [Another Place & Time](https://open.spotify.com/album/01wjr9UN1VCEUUXF3gZOaE) | 3:38 | 2021-09-08 | 2022-07-29 |
 | [Thorn in My Side \- Remastered](https://open.spotify.com/track/3v9ELl9T121dhadZyIiQVn) | [Eurythmics](https://open.spotify.com/artist/0NKDgy9j66h3DLnN8qu1bB), [Annie Lennox](https://open.spotify.com/artist/5MspMQqdVbdwP6ax3GXqum), [Dave Stewart](https://open.spotify.com/artist/7gcCQIlkkfbul5Mt0jBQkg) | [Revenge](https://open.spotify.com/album/5vl4lQTP3L0avOrXQizFso) | 4:13 | 2021-09-08 | 2022-07-29 |
 | [Thriller](https://open.spotify.com/track/7azo4rpSUh8nXgtonC6Pkq) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Scream](https://open.spotify.com/album/2X8UOIkZQdcz2Hi5Ynt2uk) | 5:58 | 2021-01-07 | 2022-12-13 |
+| [Together Forever](https://open.spotify.com/track/00isIFJWVpXIQ8HkGICSQp) | [Rick Astley](https://open.spotify.com/artist/0gxyHStUsqpMadRV0Di1Qt) | [Whenever You Need Somebody](https://open.spotify.com/album/6eUW0wxWtzkFdaEFsTJto6) | 3:25 | 2021-01-07 |  |
 | [Together Forever](https://open.spotify.com/track/5eFiEFtrq5dLgVHSZANUNl) | [Rick Astley](https://open.spotify.com/artist/0gxyHStUsqpMadRV0Di1Qt) | [Whenever You Need Somebody](https://open.spotify.com/album/5Z9iiGl2FcIfa3BMiv6OIw) | 3:25 | 2021-01-07 | 2023-11-18 |
 | [Too Many Broken Hearts](https://open.spotify.com/track/2AeelxeYAriGv9fHq1Fjsg) | [Jason Donovan](https://open.spotify.com/artist/5bnNgwp3nooah9yHAHsnR4) | [Ten Good Reasons](https://open.spotify.com/album/0a5ZyaMEIpuGcMJM3Qz89p) | 3:17 | 2021-09-08 | 2022-07-29 |
 | [Town Called Malice](https://open.spotify.com/track/0gdmDP6xy3ZV7JNoHWAN9k) | [The Jam](https://open.spotify.com/artist/2P560DaOMNDUACoH8ZhOCR) | [The Gift](https://open.spotify.com/album/71OyKSCFX7DGsJc6qAhhQG) | 2:53 | 2021-09-08 |  |
@@ -302,7 +303,7 @@
 | [We Close Our Eyes](https://open.spotify.com/track/4oivs3WWV3XwAWESvPk5eG) | [Go West](https://open.spotify.com/artist/7bKupnlF7XOfR1En3K8oAL) | [Go West](https://open.spotify.com/album/648bpQGlee7iXM8BCOqYaR) | 3:41 | 2021-09-08 | 2022-06-17 |
 | [We Don't Have To Take Our Clothes Off](https://open.spotify.com/track/7o9KG7iQY8KACz7PZXYpyv) | [Jermaine Stewart](https://open.spotify.com/artist/7FAkzV0YOw0EIXFhmY4RE3) | [Frantic Romantic](https://open.spotify.com/album/3OCmVGmewrfW3eZmLhRAIX) | 4:53 | 2021-01-07 | 2023-09-20 |
 | [What You're Proposing](https://open.spotify.com/track/3nhpHXLDOjNDPeE8sxYq2g) | [Status Quo](https://open.spotify.com/artist/4gIdjgLlvgEOz7MexDZzpM) | [Just Supposin'](https://open.spotify.com/album/499LkyqISYrylHIGk2IkLx) | 4:18 | 2021-09-08 | 2022-07-20 |
-| [When the Going Gets Tough, The Tough Get Going](https://open.spotify.com/track/5UU5FbITNm5OunvHQdsKME) | [Billy Ocean](https://open.spotify.com/artist/5IDs1CK15HegSAhGEbSYXo) | [The Very Best of Billy Ocean](https://open.spotify.com/album/7n4OT3zEZaEiyKKd6mFAhi) | 4:08 | 2021-01-07 |  |
+| [When the Going Gets Tough, The Tough Get Going](https://open.spotify.com/track/5UU5FbITNm5OunvHQdsKME) | [Billy Ocean](https://open.spotify.com/artist/5IDs1CK15HegSAhGEbSYXo) | [The Very Best of Billy Ocean](https://open.spotify.com/album/7n4OT3zEZaEiyKKd6mFAhi) | 4:08 | 2021-01-07 | 2023-12-02 |
 | [Whip It](https://open.spotify.com/track/4sscDOZCkbLSlDqcCgUJnX) | [DEVO](https://open.spotify.com/artist/0UKfenbZb15sqhfPC6zbt3) | [Freedom of Choice](https://open.spotify.com/album/6UsP4NQ9K4L4Nqxj0Qis41) | 2:41 | 2021-09-08 |  |
 | [Who Can It Be Now?](https://open.spotify.com/track/5rfJ2Bq2PEL8yBjZLzouEu) | [Men At Work](https://open.spotify.com/artist/0f3EsoviYnRKTkmayI3cux) | [Business As Usual](https://open.spotify.com/album/4HDJMKkwAMVFewqfZcmf84) | 3:21 | 2021-09-08 |  |
 | [Why Do Fools Fall in Love](https://open.spotify.com/track/6REkCR0S8inDFLPc21ucEg) | [Diana Ross](https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl) | [Why Do Fools Fall in Love](https://open.spotify.com/album/3r8eKyYbb3tkqPoZlzAKN4) | 2:55 | 2021-09-08 | 2022-07-29 |

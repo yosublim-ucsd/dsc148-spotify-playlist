@@ -4,7 +4,7 @@
 
 > Kick back and relax with a collection of eclectic and unexpected reimaginings\. Cover:  Joy Oladokun
 
-273 songs - 16 hr 58 min
+274 songs - 17 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,7 +103,7 @@
 | [Hallelujah](https://open.spotify.com/track/0wDRNOFe1nzWFDQc5FoKk1) | [Tenille Townes](https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z) | [Hallelujah](https://open.spotify.com/album/0s4mjch2kYLFQQNbgPNbuE) | 3:49 | 2021-10-21 |  |
 | [Halo \(Beyonce Cover\) \[Live On Icelandic National Radio\]](https://open.spotify.com/track/2i9ArJ8VpPu5scoaIG0OkZ) | [Hjaltalín](https://open.spotify.com/artist/3NQUtyu0fGDFqYzG5xhslP) | [Crack in a Stone](https://open.spotify.com/album/3aJ1ZQpcwIgZTbbGtKlTRG) | 3:21 | 2021-10-21 | 2022-04-20 |
 | [Hammond Song](https://open.spotify.com/track/2AGwwYTVRgXUb2D7PIogdK) | [Whitney](https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G) | [Hammond Song](https://open.spotify.com/album/4cKTbNNaExr5S7MFeWENAy) | 5:00 | 2021-10-21 | 2022-07-29 |
-| [Hammond Song](https://open.spotify.com/track/4CQ7wd8WopTHgKGr3vVPiJ) | [Whitney](https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G) | [Candid](https://open.spotify.com/album/02b3E6hkZ8TslA7nDnrrb2) | 5:00 | 2022-03-22 |  |
+| [Hammond Song](https://open.spotify.com/track/4CQ7wd8WopTHgKGr3vVPiJ) | [Whitney](https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G) | [Candid](https://open.spotify.com/album/02b3E6hkZ8TslA7nDnrrb2) | 5:00 | 2022-03-22 | 2023-12-02 |
 | [Harvest Moon](https://open.spotify.com/track/4C9rhLT37Gv6VMVtFCb7O1) | [Handsome Ghost](https://open.spotify.com/artist/3IaqL9bsZtYJkqNLiovVho) | [Harvest Moon](https://open.spotify.com/album/27PWE1Iu1njLcflbD8mfbw) | 4:07 | 2021-10-21 | 2022-11-13 |
 | [Heartless](https://open.spotify.com/track/2orbsMQrkkCWYSw6wWPNpT) | [William Fitzsimmons](https://open.spotify.com/artist/41FEVJCBGidsJwbjq0KfgM) | [Heartless](https://open.spotify.com/album/5eUi3lDek6k0PIgTxZESre) | 4:02 | 2022-03-22 | 2022-04-21 |
 | [Here Comes The Sun \(feat\. dodie\)](https://open.spotify.com/track/2KQlkzT8Gg1lFDU0y5TYeK) | [Jacob Collier](https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD), [dodie](https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS) | [Here Comes The Sun \(feat\. dodie\)](https://open.spotify.com/album/21v5ndluXHghmQaVKvMNUb) | 3:58 | 2021-10-21 | 2023-07-22 |
@@ -114,6 +114,7 @@
 | [Holy / Intentions](https://open.spotify.com/track/2tZ2yDNuqzmv14TnmM0evQ) | [Rachael Nemiroff](https://open.spotify.com/artist/4w2fF5b9OiQBhh6Z34rL8t) | [Holy / Intentions](https://open.spotify.com/album/3wDta94k75Sd6BBgoWpvKy) | 3:00 | 2021-10-21 | 2022-07-29 |
 | [Honesty](https://open.spotify.com/track/6TCrhl4UEM2yXZ4uaXa5OY) | [WesternBoy](https://open.spotify.com/artist/2tDK1KYXsOsqTe2ln3We4E) | [Honesty](https://open.spotify.com/album/2otA7Hgaul96xbL6C30GO8) | 3:45 | 2021-10-21 | 2022-07-29 |
 | [Hope She'll Be Happier \- Spotify Singles](https://open.spotify.com/track/3PcdHJLrbpfXhfSmbWpIRL) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Spotify Singles](https://open.spotify.com/album/19dMFBXNyn1ZCQ1pxhg8nV) | 4:09 | 2021-10-21 | 2022-07-29 |
+| [Hot In Herre](https://open.spotify.com/track/5cnPBp42sCF1GrN0GsPhQM) | [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H) | [The Take Off All Your Clothes EP](https://open.spotify.com/album/2KtIjCHTYOzzmHYscHVZzo) | 4:16 | 2022-03-22 |  |
 | [Hot In Herre](https://open.spotify.com/track/6EmwBRFDI25uukoQ9jCU6J) | [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H) | [The Take Off All Your Clothes \- EP](https://open.spotify.com/album/1btCWMYWuQSFojQJoGHfHj) | 4:16 | 2022-03-22 | 2022-04-21 |
 | [Hotline Bling](https://open.spotify.com/track/6Y2c7nqkwa5n2vykfdwDIE) | [SRNO](https://open.spotify.com/artist/0Kwf0zcciIFGLCKiqNcO6Q) | [Hotline Bling](https://open.spotify.com/album/1iwGdRdfiOWULmprxkZnMD) | 2:55 | 2022-03-22 | 2022-11-13 |
 | [Hotline Bling](https://open.spotify.com/track/7dwNJgzjG7GLPgWd9oTUWw) | [SRNO](https://open.spotify.com/artist/0Kwf0zcciIFGLCKiqNcO6Q) | [Hotline Bling](https://open.spotify.com/album/7uQG2oZz8Vih52tkQH7QzJ) | 2:55 | 2022-03-22 | 2022-04-18 |

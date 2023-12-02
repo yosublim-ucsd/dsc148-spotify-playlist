@@ -5,6 +5,32 @@
   "tracks": [
     {
       "album": {
+        "name": "Fra\u00e7\u00e3o 3/4",
+        "url": "https://open.spotify.com/album/387TbDSzjAzUK1kfVlZaRh"
+      },
+      "artists": [
+        {
+          "name": "Mc Luanna",
+          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
+        },
+        {
+          "name": "Mello Santana",
+          "url": "https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY"
+        },
+        {
+          "name": "Greezy",
+          "url": "https://open.spotify.com/artist/3exY81LSlWqpL03GFPTEgB"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158884,
+      "name": "+18",
+      "url": "https://open.spotify.com/track/3Yzm8lrmibXZyzg2vUYLe8"
+    },
+    {
+      "album": {
         "name": "1000 Rosas",
         "url": "https://open.spotify.com/album/5rLW6XwLgtoA2isL3mKYDE"
       },
@@ -1375,6 +1401,32 @@
     },
     {
       "album": {
+        "name": "E.T",
+        "url": "https://open.spotify.com/album/5bXpm0qS9fFXEovaHYJR4q"
+      },
+      "artists": [
+        {
+          "name": "Sarsa OG",
+          "url": "https://open.spotify.com/artist/4bftWcWi3M5ggsrkFroiX1"
+        },
+        {
+          "name": "YourBoySamurai",
+          "url": "https://open.spotify.com/artist/5QWAZahtswZucVx0lRM4rF"
+        },
+        {
+          "name": "retroboy",
+          "url": "https://open.spotify.com/artist/4R7j2XUkuutFO0MePvfASY"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199111,
+      "name": "E.T",
+      "url": "https://open.spotify.com/track/23Jv9CFq7wuwTwpY9C42YU"
+    },
+    {
+      "album": {
         "name": "World",
         "url": "https://open.spotify.com/album/5bmAakNQkQTopPnicgwWGf"
       },
@@ -2532,6 +2584,28 @@
       "duration_ms": 268221,
       "name": "Mi'adama",
       "url": "https://open.spotify.com/track/25lPu9fWNvR56IJgdfXbaj"
+    },
+    {
+      "album": {
+        "name": "Mist\u00e9rio",
+        "url": "https://open.spotify.com/album/6pf9sTSGxHptVkrM1wHSNK"
+      },
+      "artists": [
+        {
+          "name": "Jackdi",
+          "url": "https://open.spotify.com/artist/25pMy28xDC6P7ohFN8cTah"
+        },
+        {
+          "name": "Celo1st",
+          "url": "https://open.spotify.com/artist/6RC5tRbakJ46EExHuPmxzK"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143805,
+      "name": "Mist\u00e9rio",
+      "url": "https://open.spotify.com/track/5m2WI5veST396HTcUgpIXe"
     },
     {
       "album": {
@@ -3772,6 +3846,28 @@
       "duration_ms": 290400,
       "name": "Te Amo Disgra\u00e7a",
       "url": "https://open.spotify.com/track/5B4611SCn4puXahrf7rqkj"
+    },
+    {
+      "album": {
+        "name": "O Cara Do Momento",
+        "url": "https://open.spotify.com/album/2GJl4ruFhOBOghvHKVv6wV"
+      },
+      "artists": [
+        {
+          "name": "MC PH",
+          "url": "https://open.spotify.com/artist/4PLdCloYxu2bMKfuuB9lI5"
+        },
+        {
+          "name": "MC Ryan SP",
+          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "Tempo",
+      "url": "https://open.spotify.com/track/1iuwjakwN3yYnlLHguj2xE"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Instrumental house for when you need to focus!
 
-230 songs - 11 hr 47 min
+234 songs - 11 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,6 +75,7 @@
 | [Drinks on You](https://open.spotify.com/track/07YhBKi2jQhDp7FhRTlmeD) | [André Aguado](https://open.spotify.com/artist/6USxBSmx4wkhLW61dT1DgC) | [Drinks On You, / Places To Go](https://open.spotify.com/album/6GFWbw9g0xkIACWMJiFlFo) | 3:48 | 2022-04-15 |  |
 | [Drops of Love in an Ocean of Hate](https://open.spotify.com/track/5Q4tISg9nqORTnOxVhdhar) | [Vossberg](https://open.spotify.com/artist/2aztkMjmS8uRYHVejM5QhD) | [Drops of Love in an Ocean of Hate](https://open.spotify.com/album/41HQqH2S2CItiVMNJ05cp2) | 2:55 | 2022-04-15 |  |
 | [eastland](https://open.spotify.com/track/78BP00AkPTQmPP0nAwRNDw) | [papi.](https://open.spotify.com/artist/0zTABUBaGxFgQDVA8wPkqh) | [eastland](https://open.spotify.com/album/69pW4fHseYnndFdNNJY0de) | 3:41 | 2023-03-17 |  |
+| [Echoes of Eden](https://open.spotify.com/track/2ZFntU1PuOyVKvggLHR4zJ) | [Lucifer Boko](https://open.spotify.com/artist/4FoVsjrP1lkTLlRw8uSGF2) | [Echoes of Eden](https://open.spotify.com/album/0VNrq14IGM6EBW4bDh67C9) | 2:28 | 2023-12-01 |  |
 | [Electric Moon](https://open.spotify.com/track/1vAORWsOWbYpFyxUjWIvRP) | [Venus Bay](https://open.spotify.com/artist/6LUI0R17HWaZZPh7xDYzNp) | [Electric Moon](https://open.spotify.com/album/3FV2nTiKyWzRATZ1ghgeP6) | 3:16 | 2022-04-15 | 2022-05-11 |
 | [Embrace](https://open.spotify.com/track/5TXeBjOzQ5JXsIyopwEnec) | [Konrad Wijk](https://open.spotify.com/artist/7bGBkxzCyn9FMjY2g1LMp2) | [Embrace](https://open.spotify.com/album/46YVi0CuFan0r1Q6e3H8zx) | 2:56 | 2022-04-15 | 2022-05-11 |
 | [Enigma](https://open.spotify.com/track/3uPv7gwfs6YzUVeD8pyZ4c) | [Damian Parker](https://open.spotify.com/artist/3sQBQExp7ULhVKEjUbfPwg) | [Enigma](https://open.spotify.com/album/4pD6ofyOFWOYJwuxrWhpuY) | 2:38 | 2022-04-15 | 2022-09-23 |
@@ -97,6 +98,7 @@
 | [Get Some](https://open.spotify.com/track/6XCmzgE6hueMNCeq7EEAgh) | [Soul to Speak](https://open.spotify.com/artist/0uYPjw4NSVY5IiZZd6kHdd) | [Get Some](https://open.spotify.com/album/51oJ57HrL19pMlpZahQlSU) | 3:08 | 2022-10-07 |  |
 | [glitched persona](https://open.spotify.com/track/6xjkq0eR4c9p13N0eUwBlL) | [flimr](https://open.spotify.com/artist/5vHRm6RYYD4ZH6IqOP45kj) | [glitched persona](https://open.spotify.com/album/69thvbzNrILEUNRA3F2q16) | 3:08 | 2022-04-15 | 2022-08-19 |
 | [Glow](https://open.spotify.com/track/70gpJ5jdQntbdwQD0Yg0wl) | [Dancing Minds](https://open.spotify.com/artist/0jiLNfvHXBnL45hznG0dqB) | [Glow](https://open.spotify.com/album/1CHQFx98d16PMOyn4nwS72) | 3:47 | 2022-04-15 | 2022-05-11 |
+| [Good Intentions](https://open.spotify.com/track/6GwgPFKL5IO1Zhjb9ZMLRm) | [Carlo Azure](https://open.spotify.com/artist/1UosFEbzfi6fLIdQSYiL1Z) | [Good Intentions](https://open.spotify.com/album/1qwwsNNztNK7wm0ndxwAYM) | 1:37 | 2023-12-01 |  |
 | [grip drop](https://open.spotify.com/track/7z1mAqvJYpMhnYUkv8gQqi) | [frukks](https://open.spotify.com/artist/1y4w1ZX8F5vH0aT3rMuz1M) | [grip drop](https://open.spotify.com/album/3nugq9vUCI2fwOXCEsGTWO) | 3:19 | 2022-04-15 | 2023-05-27 |
 | [Gubei](https://open.spotify.com/track/2QYrwIPguH63XwDKU7Zn4j) | [West & Zander](https://open.spotify.com/artist/2Zjic6AMVbL0WvXf5ll1lA) | [Reijo / Gubei](https://open.spotify.com/album/6891clOMyBDVjdEPRuQelY) | 4:56 | 2022-04-15 |  |
 | [Guybrush](https://open.spotify.com/track/5Uk37TLnoOQzOh5tH6iaDb) | [Jones Meadow](https://open.spotify.com/artist/3MK71khOrqZwGpyfYzwKXR) | [Moves EP](https://open.spotify.com/album/5zW05MYM8hD6pBbhbyjQlC) | 3:57 | 2022-04-15 | 2022-10-08 |
@@ -204,6 +206,7 @@
 | [Suede](https://open.spotify.com/track/3L0h3F6legZt2hBN1h9KZg) | [Alexis Dex](https://open.spotify.com/artist/0cTgUITSZa5GgXygwDcyqV) | [Suede](https://open.spotify.com/album/4AxjnlN28EuaWC1tZyOGu1) | 3:03 | 2022-04-15 |  |
 | [Summer Days](https://open.spotify.com/track/1JbuJnhiBuVsWaGYtjmEdZ) | [Vee Jay](https://open.spotify.com/artist/7GC4nMn8SQcBeF5c66SmQl) | [Summer Days](https://open.spotify.com/album/7cac9HNT3cZGsmGPgJdo71) | 2:57 | 2023-01-06 |  |
 | [Summer Like Before](https://open.spotify.com/track/4QHsDrQJ4IPH5DG9Y9A61B) | [Vee Jay](https://open.spotify.com/artist/7GC4nMn8SQcBeF5c66SmQl) | [Summer Like Before](https://open.spotify.com/album/1B6DLJW9CVPPGXysmpVrA2) | 2:38 | 2023-09-08 |  |
+| [Summertide](https://open.spotify.com/track/0PvtqPA5hhMktJGxZzCWJD) | [Edward The Eagle](https://open.spotify.com/artist/2Un95yxT6GCP6qwydEfQ4d) | [Summertide](https://open.spotify.com/album/7vwqJPB3GrViym4oP1EEUm) | 2:30 | 2023-12-01 |  |
 | [Sun Glitches](https://open.spotify.com/track/4J9HHafhgC42Dm18pJUIQo) | [Dream Lanterns](https://open.spotify.com/artist/4gpy3xS2i5lM4Yopidaimg) | [Sun Glitches](https://open.spotify.com/album/2MkOSCMXM1BVOVKZQUrR6h) | 4:01 | 2022-04-15 | 2022-07-08 |
 | [Sunny Nelson \(Edit\)](https://open.spotify.com/track/7gLfZIkrjUTwypnhFp6Get) | [Abel Tasman](https://open.spotify.com/artist/4D2dWZ7uyVyqDj3Ah05Xtr) | [Sunny Nelson \(Edit\)](https://open.spotify.com/album/67hBb3jhTHYrHk9Dtfy5bR) | 3:48 | 2022-04-15 | 2023-07-14 |
 | [Sunset Serene](https://open.spotify.com/track/2qTWVbYFS5yFAI0fCF1S2B) | [Znoijk](https://open.spotify.com/artist/2NINUmgwSwe4logL3qBNVl) | [Sunset Serene](https://open.spotify.com/album/0pvv7It7LHOlqSOKEamkRG) | 2:06 | 2022-04-15 |  |
@@ -213,6 +216,7 @@
 | [Tea Time](https://open.spotify.com/track/0RwQfHjZztHwmuSVeXs3H2) | [GRNY](https://open.spotify.com/artist/0QAkOxdHSnNUsk1WlTXKOu) | [Tea Time](https://open.spotify.com/album/0XOeePwCgFrwZ2SwrIC08h) | 2:40 | 2023-06-19 |  |
 | [Teenage](https://open.spotify.com/track/78bAFyYsTHT4idrO3lZESA) | [Peed Hus](https://open.spotify.com/artist/4LpZEO5wsgiBMLhl7Mpec7) | [Teenage](https://open.spotify.com/album/36awS9gqn1o5Z3qxpK7ADc) | 2:49 | 2022-11-25 |  |
 | [Telemagenta](https://open.spotify.com/track/6dIZ5m5HodQA0dv43zFbaQ) | [Mystic Maroon](https://open.spotify.com/artist/6OZYmsIeL1bCzCEgavYXXO) | [Telemagenta](https://open.spotify.com/album/1T42FTkfEl38GaONIK8qkh) | 3:02 | 2022-04-15 | 2023-04-22 |
+| [Terrace](https://open.spotify.com/track/2fAfvKAkeBMNlO72CM4LN5) | [Peyote](https://open.spotify.com/artist/3GcLm6nLpo2oAbrfzYfRfr) | [Terrace](https://open.spotify.com/album/4ru0bf5aCnY7zXqbqRgAok) | 1:57 | 2023-12-01 |  |
 | [Thought Prince](https://open.spotify.com/track/4UPBPbvVQrJvoH1zYrbEYk) | [Soft Sea](https://open.spotify.com/artist/1ZHSuZbZPXpAFuQl6XSzYx) | [Leggings](https://open.spotify.com/album/2AMSgiLX3gc0upUkn8H93T) | 3:08 | 2022-11-25 | 2023-06-20 |
 | [time to cry](https://open.spotify.com/track/6LqDDloFVL2RkcV1ImAyW2) | [robi](https://open.spotify.com/artist/2yRQV9I2707gOoMNQWyEva) | [dreamin' II](https://open.spotify.com/album/1wAVW1mM6A3VDa0KKdT9xb) | 3:14 | 2022-04-15 | 2023-06-20 |
 | [tiny tune](https://open.spotify.com/track/51N4rxKZOIaGLFmHXGpgXB) | [Parker Son](https://open.spotify.com/artist/3ID3ZMg7Mf5wRvqFJwF82r) | [tiny tune](https://open.spotify.com/album/0wmBaFuptEoGuc4o8hNNsE) | 1:51 | 2022-11-25 | 2023-05-27 |

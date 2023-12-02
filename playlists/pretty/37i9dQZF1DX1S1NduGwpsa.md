@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 
 > The best jazz new releases\. Cover: Lusaint
 
-[Spotify](https://open.spotify.com/user/spotify) - 129,893 likes - 50 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 129,979 likes - 50 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 | 36 | [Newsroom Customers](https://open.spotify.com/track/0Wz0QhOSNyRsNsABrQtlrP) | [Ed Motta](https://open.spotify.com/artist/19nFjml2GjS4LuL4NrDa7D) | [Behind the Tea Chronicles](https://open.spotify.com/album/2NRg9UqRH3YFWJG7XEwba9) | 4:54 |
 | 37 | [Sunseekers](https://open.spotify.com/track/2hD250ixyqBjvYHpsOOEqG) | [JaRon Marshall](https://open.spotify.com/artist/6JwWBoX8tpTGJQ5X8HzSL8), [Paul Grant](https://open.spotify.com/artist/69FGWeFKaCyCjiDU2afEUl), [Amahla](https://open.spotify.com/artist/6IgxRCzTWMElloFPigZXdj) | [Discotheques 001](https://open.spotify.com/album/3v11OGRfUdnN6IGp2tdcAm) | 3:32 |
 | 38 | [Home Cookin'](https://open.spotify.com/track/63geyyZS7EBU3opmvQK4Tw) | [Cory Weeds](https://open.spotify.com/artist/0YB9WHBn7xTEQsvcFZRUdy) | [Home Cookin'](https://open.spotify.com/album/7CAToGy0bWVmXolIK9EVlx) | 5:35 |
-| 39 | [I Could Write a Book \- Live](https://open.spotify.com/track/6Z6pduayBS4ntLNvIXOTdx) | [Oscar Peterson](https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB) | [I Could Write a Book \(Live\)](https://open.spotify.com/album/0OHbrzksuN7cmKja6RzzRN) | 7:38 |
+| 39 | [I Could Write a Book \- Live](https://open.spotify.com/track/0vJ58MsgTfLfn2eT0eEGQR) | [Oscar Peterson](https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB) | [Con Alma: The Oscar Peterson Trio – Live in Lugano, 1964](https://open.spotify.com/album/4mS8SOqsZclqx0UN3QcBVE) | 7:38 |
 | 40 | [Excess](https://open.spotify.com/track/0jKIn0FfNhlqno58x4HBY2) | [Edouard Ferlet](https://open.spotify.com/artist/5Xk2kN7YHolwzGSrjmx0Ni) | [Excess](https://open.spotify.com/album/38PEARcrLFjKJSRhVuZ4cX) | 3:49 |
 | 41 | [Love is Never Too Late](https://open.spotify.com/track/1srnJ1GiGTgnTmc3uoOI3l) | [Karen Souza](https://open.spotify.com/artist/2d5lQo9YQ1DkAsBKTRp7Iu) | [Love is Never Too Late](https://open.spotify.com/album/7Ei7dL4kmIJhDlie2zHmOc) | 3:37 |
 | 42 | [Postcard Lovers](https://open.spotify.com/track/23tdrZCsUcMvhWBTGvar34) | [Stacey Kent](https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi) | [Postcard Lovers](https://open.spotify.com/album/2pIsRpTZaE0sIq8Y2w9AA9) | 5:02 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 | 49 | [Baila Mulata](https://open.spotify.com/track/7Ax9Ex9DhMnczPd0pjlPQr) | [Roberto Fonseca](https://open.spotify.com/artist/0Yi6vOMIP1cqp8WppadgOu) | [La Gran Diversión](https://open.spotify.com/album/4UO0arXcVIKzndEZIAp6Co) | 3:23 |
 | 50 | [I Might Never See You Again](https://open.spotify.com/track/2ERNVROnqMvIdWTVT8bkim) | [Charley Rose Trio](https://open.spotify.com/artist/5VW8lQtZn9995Dbtf7FSRL), [Enzo Carniel](https://open.spotify.com/artist/2g4MfwXbDBoVoyeE54DIEk), [Ariel Tessier](https://open.spotify.com/artist/7y16hI4NEVEspAqNm7nG5H) | [Dada Pulp](https://open.spotify.com/album/020HlvI3o3TYr0fTMysQ7m) | 6:24 |
 
-Snapshot ID: `MCxmMzQ3NTA5ZTYyY2JlNDY0NWQ0YTJmMWNkZTk0NWUxMjBmZjE3MTcx`
+Snapshot ID: `MCxlMzMzNGYwN2E5NzQ2Y2UwZjYzYmNlYzdmYWQ0MzA1MTU4MDJlYTE3`

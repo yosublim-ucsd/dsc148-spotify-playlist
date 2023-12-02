@@ -391,6 +391,24 @@
     },
     {
       "album": {
+        "name": "Grandes Exitos",
+        "url": "https://open.spotify.com/album/2irtmCoBvtFbvPqARMflg6"
+      },
+      "artists": [
+        {
+          "name": "El Rey de los Diciembres",
+          "url": "https://open.spotify.com/artist/3lXyd3sTGI4rJ9sGsqvZ5Y"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173822,
+      "name": "Carola (Live)",
+      "url": "https://open.spotify.com/track/4DaC0h77cp8NWHtTW8ECEo"
+    },
+    {
+      "album": {
         "name": "Sus Mejores Exitos",
         "url": "https://open.spotify.com/album/7wZn8Eko5bz1vSx1zYMPJD"
       },
@@ -1214,7 +1232,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 192386,
       "name": "El Santo Del Amor",
       "url": "https://open.spotify.com/track/1ypgaZINEPR74L2c5W3h0A"

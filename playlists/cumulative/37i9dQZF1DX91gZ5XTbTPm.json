@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-13",
-  "description": "The Midwest is always on time. Cover: Veeze",
+  "description": "The Midwest is always on time. Cover: 42 Dugg",
   "name": "CST",
   "tracks": [
     {
@@ -620,7 +620,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 112631,
       "name": "Ain't Bout Nun",
       "url": "https://open.spotify.com/track/5XpJVTP6RT5jmI0Z5akW8f"
@@ -1026,6 +1026,32 @@
       "duration_ms": 238026,
       "name": "AT THE PARTY (feat. Pharrell Williams & Travis Scott)",
       "url": "https://open.spotify.com/track/11BbPUv7NlzlcbY7AmHHKy"
+    },
+    {
+      "album": {
+        "name": "ATL Freestyle 1 & 2 (feat. Luh Tyler & Rob49)",
+        "url": "https://open.spotify.com/album/1jMmpW08K37Nt7EOOA5hdQ"
+      },
+      "artists": [
+        {
+          "name": "Veeze",
+          "url": "https://open.spotify.com/artist/0B3kMiB21aPQlKumGDr4c7"
+        },
+        {
+          "name": "Luh Tyler",
+          "url": "https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz"
+        },
+        {
+          "name": "Rob49",
+          "url": "https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127741,
+      "name": "ATL Freestyle 1 (feat. Luh Tyler & Rob49)",
+      "url": "https://open.spotify.com/track/3R2EmO9cHZ2JRogQR2C9zL"
     },
     {
       "album": {
@@ -1954,6 +1980,24 @@
       "duration_ms": 188785,
       "name": "Bounce (feat. G Herbo)",
       "url": "https://open.spotify.com/track/4ocLhkIQGW9d0APE5vsOEi"
+    },
+    {
+      "album": {
+        "name": "Hood Hottest Princess (Deluxe)",
+        "url": "https://open.spotify.com/album/7eJUwUbX2BGnNkLBoOvIlr"
+      },
+      "artists": [
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140400,
+      "name": "Bow Bow Bow (F My Baby Dad)",
+      "url": "https://open.spotify.com/track/351CSUM0YDA0GCbHCSKoL1"
     },
     {
       "album": {
@@ -3807,6 +3851,24 @@
     },
     {
       "album": {
+        "name": "GAHDAMN",
+        "url": "https://open.spotify.com/album/3PnBGvKL3ivvghtxPmdy5f"
+      },
+      "artists": [
+        {
+          "name": "BlakeIANA",
+          "url": "https://open.spotify.com/artist/7gq41QBlN40T3GDQ0wEbYS"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123076,
+      "name": "GAHDAMN",
+      "url": "https://open.spotify.com/track/0UmTizjqbT13uqaBhZpWxe"
+    },
+    {
+      "album": {
         "name": "Gang Time",
         "url": "https://open.spotify.com/album/7CqIBingCuH1gQvKH2uJPM"
       },
@@ -3822,7 +3884,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 134666,
       "name": "Gang Time",
       "url": "https://open.spotify.com/track/6oOO3Kok03oEsXRrWcKff3"
@@ -5474,6 +5536,28 @@
       "duration_ms": 150009,
       "name": "IN THE MOB (feat. Peezy)",
       "url": "https://open.spotify.com/track/1tnMfQ7uxHxgZQiNMKwZeo"
+    },
+    {
+      "album": {
+        "name": "In The Trunk (feat. GloRilla)",
+        "url": "https://open.spotify.com/album/1MD6MPOCOu6Ejid7adoSVg"
+      },
+      "artists": [
+        {
+          "name": "FendiDa Rappa",
+          "url": "https://open.spotify.com/artist/7oXyXDUyxRjYXWC5L5EuGy"
+        },
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165714,
+      "name": "In The Trunk (feat. GloRilla)",
+      "url": "https://open.spotify.com/track/6srN4L7q0KzHeXFbi5K2pd"
     },
     {
       "album": {
@@ -7836,7 +7920,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 193543,
       "name": "On A Star (feat. FendiDa Rappa & Raiche)",
       "url": "https://open.spotify.com/track/0n177AtFQY4VoYEGAV2EcZ"
@@ -8504,7 +8588,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 145000,
       "name": "Pop My Shit (feat. Baby Money)",
       "url": "https://open.spotify.com/track/0e8EtbmBNnfAuBmnUy0Mas"
@@ -10134,7 +10218,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 179370,
       "name": "Smack Sh*t",
       "url": "https://open.spotify.com/track/02G0mbFgtqS3h1Ek29tBWW"
@@ -10196,7 +10280,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 116755,
       "name": "Snowman",
       "url": "https://open.spotify.com/track/4xWMEQ524bQkqVcI5ZC3HS"
@@ -11377,6 +11461,24 @@
     },
     {
       "album": {
+        "name": "Think I\u2019m Stuntin",
+        "url": "https://open.spotify.com/album/7owtYkb8Y5d2gXeg6xKGWu"
+      },
+      "artists": [
+        {
+          "name": "Lil Eazzyy",
+          "url": "https://open.spotify.com/artist/0rpUnzu4JIoRkKkGvdcm7b"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125519,
+      "name": "Think I\u2019m Stuntin",
+      "url": "https://open.spotify.com/track/0mplOd2JIUv1WgnG40YcGz"
+    },
+    {
+      "album": {
         "name": "This & That",
         "url": "https://open.spotify.com/album/3HujArLwQRC7zpnBPPZ7jv"
       },
@@ -11670,6 +11772,24 @@
       "duration_ms": 194786,
       "name": "Trance (with Travis Scott & Young Thug)",
       "url": "https://open.spotify.com/track/5wG3HvLhF6Y5KTGlK0IW3J"
+    },
+    {
+      "album": {
+        "name": "Trap",
+        "url": "https://open.spotify.com/album/39428T4PNpaXlx82DXbhxH"
+      },
+      "artists": [
+        {
+          "name": "Calboy",
+          "url": "https://open.spotify.com/artist/0HkcYmcjrBR3SCw9Ld5VZk"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129052,
+      "name": "Trap",
+      "url": "https://open.spotify.com/track/5YeYqWWbTSAL9NPmkiUn4P"
     },
     {
       "album": {
@@ -12105,6 +12225,24 @@
     },
     {
       "album": {
+        "name": "Way Too Long",
+        "url": "https://open.spotify.com/album/0ImWPSvnRCmHoI6kjQGK4J"
+      },
+      "artists": [
+        {
+          "name": "Doe Boy",
+          "url": "https://open.spotify.com/artist/6aLoJJxz7MV2iZ423S8tJC"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148949,
+      "name": "Way Too Long",
+      "url": "https://open.spotify.com/track/499qzfPwb8DdacaTiHMqn9"
+    },
+    {
+      "album": {
         "name": "Way Too Petty",
         "url": "https://open.spotify.com/album/5jd5UY4vC6PoWb3Iw4owqF"
       },
@@ -12486,6 +12624,24 @@
       "duration_ms": 139636,
       "name": "Wicked Romance",
       "url": "https://open.spotify.com/track/35uuAlEbvARgXm4lULDyUy"
+    },
+    {
+      "album": {
+        "name": "WIT WHATEVER",
+        "url": "https://open.spotify.com/album/1tlBb0lyjAHkzQpIKOyZod"
+      },
+      "artists": [
+        {
+          "name": "HotBlock Jmoe",
+          "url": "https://open.spotify.com/artist/1GiFhQeBgRig35WbBjvtb1"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124608,
+      "name": "WIT WHATEVER",
+      "url": "https://open.spotify.com/track/0tBAUB2taQ5YjXl4fPBNxe"
     },
     {
       "album": {

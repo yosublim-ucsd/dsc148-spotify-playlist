@@ -1,12 +1,12 @@
 {
   "description": "A journey into the unknown, dark, and experimental.",
-  "num_followers": 210467,
+  "num_followers": 210514,
   "original_name": "Terra Incognita",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNjk4NjI0MmIzYmQ0NTU3Nzc5Y2U2ZDA1ZjQwMTRiMzI1ZGU4MmFk",
+  "snapshot_id": "MCxhM2ZmNDFiMjI2OGUyNzMzYTRhOWRkODM0ZWU3YjIyMWQyODIwYjRi",
   "tracks": [
     {
       "added_at": "2023-11-23 17:38:12",
@@ -399,22 +399,6 @@
     {
       "added_at": "2023-11-22 10:29:24",
       "album": {
-        "name": "Pt. I",
-        "url": "https://open.spotify.com/album/0WfthyeVmVxhwbs09RwtwK"
-      },
-      "artists": [
-        {
-          "name": "Astoria",
-          "url": "https://open.spotify.com/artist/01NYTXYJrUpWAzdp1AjPp6"
-        }
-      ],
-      "duration_ms": 241009,
-      "name": "ANNA",
-      "url": "https://open.spotify.com/track/3JRRWAm5wR9pal37nIIbyc"
-    },
-    {
-      "added_at": "2023-11-22 10:29:24",
-      "album": {
         "name": "Radical Romantics",
         "url": "https://open.spotify.com/album/0GSARUUhweinQufLR663b4"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 267763,
       "name": "What They Call Us",
       "url": "https://open.spotify.com/track/71ydsZmj3wLbdMkA6FPZIy"
+    },
+    {
+      "added_at": "2023-11-22 10:29:24",
+      "album": {
+        "name": "Pt. I",
+        "url": "https://open.spotify.com/album/0WfthyeVmVxhwbs09RwtwK"
+      },
+      "artists": [
+        {
+          "name": "Astoria",
+          "url": "https://open.spotify.com/artist/01NYTXYJrUpWAzdp1AjPp6"
+        }
+      ],
+      "duration_ms": 241009,
+      "name": "ANNA",
+      "url": "https://open.spotify.com/track/3JRRWAm5wR9pal37nIIbyc"
     },
     {
       "added_at": "2023-11-22 10:29:24",
@@ -499,18 +499,22 @@
     {
       "added_at": "2023-11-22 10:29:24",
       "album": {
-        "name": "Radical Romantics",
-        "url": "https://open.spotify.com/album/0GSARUUhweinQufLR663b4"
+        "name": "Close",
+        "url": "https://open.spotify.com/album/5kmzOIqlnSKxGTj0BCc47u"
       },
       "artists": [
         {
-          "name": "Fever Ray",
-          "url": "https://open.spotify.com/artist/5hE6NCoobhyEu6TRSbjOJY"
+          "name": "Johan Graden",
+          "url": "https://open.spotify.com/artist/0mASxX1wZrJJQzv1ZiRxak"
+        },
+        {
+          "name": "Ellen Arkbro",
+          "url": "https://open.spotify.com/artist/7cFSj2thh5HO4mnVZHP7nn"
         }
       ],
-      "duration_ms": 187632,
-      "name": "Even It Out",
-      "url": "https://open.spotify.com/track/6A5MnQeIz8R39Ed6huqwQI"
+      "duration_ms": 320547,
+      "name": "Close",
+      "url": "https://open.spotify.com/track/1CIx89XwJuePwZchjrHudW"
     },
     {
       "added_at": "2023-11-22 10:29:24",
@@ -547,6 +551,22 @@
     {
       "added_at": "2023-11-22 10:29:24",
       "album": {
+        "name": "Radical Romantics",
+        "url": "https://open.spotify.com/album/0GSARUUhweinQufLR663b4"
+      },
+      "artists": [
+        {
+          "name": "Fever Ray",
+          "url": "https://open.spotify.com/artist/5hE6NCoobhyEu6TRSbjOJY"
+        }
+      ],
+      "duration_ms": 187632,
+      "name": "Even It Out",
+      "url": "https://open.spotify.com/track/6A5MnQeIz8R39Ed6huqwQI"
+    },
+    {
+      "added_at": "2023-11-22 10:29:24",
+      "album": {
         "name": "I Hope You Can Forgive Me",
         "url": "https://open.spotify.com/album/5xnIsq0jfWIPXRgiAEZtK5"
       },
@@ -575,26 +595,6 @@
       "duration_ms": 243921,
       "name": "Atlantic Diva",
       "url": "https://open.spotify.com/track/5Rvvv94WBHJ7xBTv4wDqzV"
-    },
-    {
-      "added_at": "2023-11-22 10:29:24",
-      "album": {
-        "name": "Close",
-        "url": "https://open.spotify.com/album/5kmzOIqlnSKxGTj0BCc47u"
-      },
-      "artists": [
-        {
-          "name": "Johan Graden",
-          "url": "https://open.spotify.com/artist/0mASxX1wZrJJQzv1ZiRxak"
-        },
-        {
-          "name": "Ellen Arkbro",
-          "url": "https://open.spotify.com/artist/7cFSj2thh5HO4mnVZHP7nn"
-        }
-      ],
-      "duration_ms": 320547,
-      "name": "Close",
-      "url": "https://open.spotify.com/track/1CIx89XwJuePwZchjrHudW"
     },
     {
       "added_at": "2023-11-22 10:29:24",
@@ -667,6 +667,22 @@
     {
       "added_at": "2023-11-22 10:29:24",
       "album": {
+        "name": "Aura",
+        "url": "https://open.spotify.com/album/1CtdQTfP0DzM3GJA95Po52"
+      },
+      "artists": [
+        {
+          "name": "Hatis Noit",
+          "url": "https://open.spotify.com/artist/1VMXdJgyzy12hZGmEk8LPY"
+        }
+      ],
+      "duration_ms": 437059,
+      "name": "Aura",
+      "url": "https://open.spotify.com/track/3yLrFNajQckehtRDyh2FiI"
+    },
+    {
+      "added_at": "2023-11-22 10:29:24",
+      "album": {
         "name": "The King",
         "url": "https://open.spotify.com/album/0ouw4GHpv8UexlEOMidhwJ"
       },
@@ -679,22 +695,6 @@
       "duration_ms": 224524,
       "name": "The King",
       "url": "https://open.spotify.com/track/6aFYhF9iSJv4OCee099HxM"
-    },
-    {
-      "added_at": "2023-11-22 10:29:24",
-      "album": {
-        "name": "V",
-        "url": "https://open.spotify.com/album/6I2ZYYta7J2bTkh1UMe8zm"
-      },
-      "artists": [
-        {
-          "name": "Of The Muses",
-          "url": "https://open.spotify.com/artist/0bYSzLLgzeNiGoEsAYg2Ch"
-        }
-      ],
-      "duration_ms": 526066,
-      "name": "V",
-      "url": "https://open.spotify.com/track/3Sk8oGy02QK1eZ52A2BYyI"
     },
     {
       "added_at": "2023-11-22 10:29:24",
@@ -719,50 +719,18 @@
     {
       "added_at": "2023-11-22 10:29:24",
       "album": {
-        "name": "Aura",
-        "url": "https://open.spotify.com/album/1CtdQTfP0DzM3GJA95Po52"
+        "name": "Noche",
+        "url": "https://open.spotify.com/album/5eeIYt9yUyqyQuHhZw91ph"
       },
       "artists": [
         {
-          "name": "Hatis Noit",
-          "url": "https://open.spotify.com/artist/1VMXdJgyzy12hZGmEk8LPY"
+          "name": "Fuensanta",
+          "url": "https://open.spotify.com/artist/5Tda1L0VLxqMBAThEKFIjD"
         }
       ],
-      "duration_ms": 437059,
-      "name": "Aura",
-      "url": "https://open.spotify.com/track/3yLrFNajQckehtRDyh2FiI"
-    },
-    {
-      "added_at": "2023-11-22 10:29:24",
-      "album": {
-        "name": "\u00a1Ay!",
-        "url": "https://open.spotify.com/album/6g5Cioj39K7ix89q2xAtsh"
-      },
-      "artists": [
-        {
-          "name": "Lucrecia Dalt",
-          "url": "https://open.spotify.com/artist/4LC4vkseYrSEDd6MjZvOO9"
-        }
-      ],
-      "duration_ms": 164598,
-      "name": "Dicen",
-      "url": "https://open.spotify.com/track/23hHf7aRBMesANVdtp2stv"
-    },
-    {
-      "added_at": "2023-11-22 10:29:24",
-      "album": {
-        "name": "drowning",
-        "url": "https://open.spotify.com/album/2t4svv2IxvyBnBqDaW0H1g"
-      },
-      "artists": [
-        {
-          "name": "kraymira",
-          "url": "https://open.spotify.com/artist/6SSZMkPO9imVUp2ZN9sITn"
-        }
-      ],
-      "duration_ms": 138588,
-      "name": "drowning",
-      "url": "https://open.spotify.com/track/5xu47rMH8NorKBej7fWeTi"
+      "duration_ms": 237917,
+      "name": "Noche",
+      "url": "https://open.spotify.com/track/0Tnq2OrBNLgwHVeGq6yob6"
     },
     {
       "added_at": "2023-11-22 10:29:24",
@@ -787,38 +755,50 @@
     {
       "added_at": "2023-11-22 10:29:24",
       "album": {
-        "name": "Of Air",
-        "url": "https://open.spotify.com/album/0mo9eadPkxiwJc2UavuFTX"
+        "name": "\u00a1Ay!",
+        "url": "https://open.spotify.com/album/6g5Cioj39K7ix89q2xAtsh"
       },
       "artists": [
         {
-          "name": "Lecx Stacy",
-          "url": "https://open.spotify.com/artist/3hf2fbkCVahsazNW73SovO"
-        },
-        {
-          "name": "Clams Casino",
-          "url": "https://open.spotify.com/artist/5vSQUyT33qxr1xAX2Tkf3A"
+          "name": "Lucrecia Dalt",
+          "url": "https://open.spotify.com/artist/4LC4vkseYrSEDd6MjZvOO9"
         }
       ],
-      "duration_ms": 188250,
-      "name": "Of Air",
-      "url": "https://open.spotify.com/track/11dsa1I6VKaJbbtUw2a9HG"
+      "duration_ms": 164598,
+      "name": "Dicen",
+      "url": "https://open.spotify.com/track/23hHf7aRBMesANVdtp2stv"
     },
     {
       "added_at": "2023-11-22 10:29:24",
       "album": {
-        "name": "Noche",
-        "url": "https://open.spotify.com/album/5eeIYt9yUyqyQuHhZw91ph"
+        "name": "V",
+        "url": "https://open.spotify.com/album/6I2ZYYta7J2bTkh1UMe8zm"
       },
       "artists": [
         {
-          "name": "Fuensanta",
-          "url": "https://open.spotify.com/artist/5Tda1L0VLxqMBAThEKFIjD"
+          "name": "Of The Muses",
+          "url": "https://open.spotify.com/artist/0bYSzLLgzeNiGoEsAYg2Ch"
         }
       ],
-      "duration_ms": 237917,
-      "name": "Noche",
-      "url": "https://open.spotify.com/track/0Tnq2OrBNLgwHVeGq6yob6"
+      "duration_ms": 526066,
+      "name": "V",
+      "url": "https://open.spotify.com/track/3Sk8oGy02QK1eZ52A2BYyI"
+    },
+    {
+      "added_at": "2023-11-22 10:29:24",
+      "album": {
+        "name": "drowning",
+        "url": "https://open.spotify.com/album/2t4svv2IxvyBnBqDaW0H1g"
+      },
+      "artists": [
+        {
+          "name": "kraymira",
+          "url": "https://open.spotify.com/artist/6SSZMkPO9imVUp2ZN9sITn"
+        }
+      ],
+      "duration_ms": 138588,
+      "name": "drowning",
+      "url": "https://open.spotify.com/track/5xu47rMH8NorKBej7fWeTi"
     },
     {
       "added_at": "2023-11-22 10:29:24",
@@ -839,6 +819,26 @@
     {
       "added_at": "2023-11-22 10:29:24",
       "album": {
+        "name": "Of Air",
+        "url": "https://open.spotify.com/album/0mo9eadPkxiwJc2UavuFTX"
+      },
+      "artists": [
+        {
+          "name": "Lecx Stacy",
+          "url": "https://open.spotify.com/artist/3hf2fbkCVahsazNW73SovO"
+        },
+        {
+          "name": "Clams Casino",
+          "url": "https://open.spotify.com/artist/5vSQUyT33qxr1xAX2Tkf3A"
+        }
+      ],
+      "duration_ms": 188250,
+      "name": "Of Air",
+      "url": "https://open.spotify.com/track/11dsa1I6VKaJbbtUw2a9HG"
+    },
+    {
+      "added_at": "2023-11-22 10:29:24",
+      "album": {
         "name": "After Dark 4",
         "url": "https://open.spotify.com/album/6x3gv3hXKXbJC1VCsn1o8M"
       },
@@ -855,18 +855,18 @@
     {
       "added_at": "2023-11-22 10:29:24",
       "album": {
-        "name": "MY BLACK CAT",
-        "url": "https://open.spotify.com/album/65rUCgwK0khKnH5uz8ZmvQ"
+        "name": "Tongues",
+        "url": "https://open.spotify.com/album/565j8hb4CaU9pWZSz7tVMh"
       },
       "artists": [
         {
-          "name": "Nana Nina",
-          "url": "https://open.spotify.com/artist/51NvNgCzRqXjxfklCa8TVB"
+          "name": "Tanya Tagaq",
+          "url": "https://open.spotify.com/artist/2WIb75pwIt78VCAhAtPObY"
         }
       ],
-      "duration_ms": 149433,
-      "name": "MY BLACK CAT",
-      "url": "https://open.spotify.com/track/2B5M0GZMNC8Yy33P2N4mxq"
+      "duration_ms": 215482,
+      "name": "Teeth Agape",
+      "url": "https://open.spotify.com/track/5xi07QPZNbBs6MmKsGhrd1"
     }
   ],
   "unique_name": "Terra Incognita",

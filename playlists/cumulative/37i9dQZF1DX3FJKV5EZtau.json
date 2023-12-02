@@ -52,7 +52,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 156916,
       "name": "4ever1",
       "url": "https://open.spotify.com/track/0GxANOXWo9oJRjH32EOYkW"
@@ -392,7 +392,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-29",
+      "date_removed": null,
       "duration_ms": 348281,
       "name": "Astatine",
       "url": "https://open.spotify.com/track/666PI2ou8H5MI98weRgnXI"
@@ -1477,6 +1477,24 @@
     },
     {
       "album": {
+        "name": "Continue",
+        "url": "https://open.spotify.com/album/1eMlU0dSndWo2uS6j3MPpB"
+      },
+      "artists": [
+        {
+          "name": "4s4ki",
+          "url": "https://open.spotify.com/artist/5yCWuaBlu42BKsnW89brND"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205017,
+      "name": "Continue",
+      "url": "https://open.spotify.com/track/5OkBQPz8j5yndKOKkTzKJT"
+    },
+    {
+      "album": {
         "name": "Dream III (DELUXE)",
         "url": "https://open.spotify.com/album/3IWj8fumIThus6iX1F6Iyw"
       },
@@ -1974,7 +1992,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 195000,
       "name": "Echoes In Eternity",
       "url": "https://open.spotify.com/track/7ooTt6NVRZlH9AcHY4fTZm"

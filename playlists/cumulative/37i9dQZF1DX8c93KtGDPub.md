@@ -4,7 +4,7 @@
 
 > Play these festive songs upon a winter's night, and have yourself a folksy little Christmas now\. Cover: She & Him
 
-278 songs - 16 hr 11 min
+280 songs - 16 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,6 +83,7 @@
 | [Deck The Halls](https://open.spotify.com/track/3jwK2Gh4NUm7JtAvyRvxxY) | [The Last Bison](https://open.spotify.com/artist/6eJRqkCcePqNJkhk98IDbc) | [Christmas Folk](https://open.spotify.com/album/0KPe2umZm8POle3JPtwRN7) | 1:27 | 2021-12-24 | 2022-11-14 |
 | [Deck The Halls](https://open.spotify.com/track/4baYGOSPlBPfypDM6IwTxM) | [The Last Bison](https://open.spotify.com/artist/6eJRqkCcePqNJkhk98IDbc) | [Sleigh Ride](https://open.spotify.com/album/1bGNH3sGKkpk6FRi2ZyOWQ) | 1:27 | 2021-12-24 | 2022-07-29 |
 | [Deck The Halls](https://open.spotify.com/track/5oEhzFDyUcvuTsaQoggDey) | [The Last Bison](https://open.spotify.com/artist/6eJRqkCcePqNJkhk98IDbc) | [Sleigh Ride](https://open.spotify.com/album/6mbPCYFK2QdAzq6zkTvC9t) | 1:27 | 2021-12-24 |  |
+| [Deck The Halls](https://open.spotify.com/track/29Pf9AzgYQnVPKyz5bU6K3) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [Deck The Halls](https://open.spotify.com/album/6roKUT3Py5CqOa47NH5nOH) | 2:04 | 2023-12-01 |  |
 | [Everything Is Cool](https://open.spotify.com/track/3otZFpBehn0Qj5u1NZLlvT) | [John Prine](https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT) | [A John Prine Christmas](https://open.spotify.com/album/51feGjlV8hDiJ4U7XO9Kcb) | 3:25 | 2021-12-24 |  |
 | [Fairytale of New York](https://open.spotify.com/track/4fYUi0MSSzdX7Q696Fn81f) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT), [Atlantic Holiday](https://open.spotify.com/artist/5D9NYfOaGxFKCalJIeia1N) | [Fairytale of New York](https://open.spotify.com/album/3m34lxhVHHZmCFVa9zsulA) | 3:59 | 2021-12-24 |  |
 | [FaLaLaLaLove Ya](https://open.spotify.com/track/08XsCd77NVYxnUKORbG1za) | [Nikki Lane](https://open.spotify.com/artist/2kWeFaiHBskk8oqky3KHcR) | [An Americana Christmas](https://open.spotify.com/album/2LAYppz60aAY7uSrWrm1uS) | 3:25 | 2021-12-24 | 2022-07-29 |
@@ -138,6 +139,7 @@
 | [It Doesn't Have to Be That Way](https://open.spotify.com/track/58DWD18uEN8ajLu4TNcuHD) | [Jim Croce](https://open.spotify.com/artist/1R6Hx1tJ2VOUyodEpC12xM) | [Life & Times](https://open.spotify.com/album/25K3YPiFx7Yb7ms10m58Vt) | 2:32 | 2023-11-17 |  |
 | [It Doesn't Have to Be That Way](https://open.spotify.com/track/5DqSOPvzr2LPxM0yKeR0qZ) | [Jim Croce](https://open.spotify.com/artist/1R6Hx1tJ2VOUyodEpC12xM) | [Life & Times](https://open.spotify.com/album/3q7L4mosMmOcmQNE1d0H4s) | 2:34 | 2021-12-24 | 2023-11-03 |
 | [It Doesn't Have to Be That Way](https://open.spotify.com/track/5a0ViNBfdd39PXg8hb6P8p) | [Jim Croce](https://open.spotify.com/artist/1R6Hx1tJ2VOUyodEpC12xM) | [The Original Albums...Plus](https://open.spotify.com/album/4asosdO6SSNJJO5Hij5QbM) | 2:34 | 2021-12-24 | 2022-11-13 |
+| [It's Christmas and I Like You](https://open.spotify.com/track/7cFEU8jWeGxXwegqg9wdzR) | [The National Parks](https://open.spotify.com/artist/2JMtxA2S9SNUlqBlkDtXm6) | [Christmas Magic](https://open.spotify.com/album/4U0zeL2p1acblu8AjCLgI3) | 2:57 | 2023-12-01 |  |
 | [It’s Beginning To Look Like Christmas](https://open.spotify.com/track/1NGJEnewYsyJJbR1Fo3duX) | [Fruit Bats](https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc) | [Holidays Rule](https://open.spotify.com/album/6WYKqCoezPOWXD9UxbXyGZ) | 3:00 | 2021-12-24 |  |
 | [Jingle Your Bells](https://open.spotify.com/track/27Y92XmoFMVeVVwJhOWczE) | [Hush Kids](https://open.spotify.com/artist/4XzsOuqFltgBcdHF3RZQbh) | [Jingle Your Bells](https://open.spotify.com/album/0t6BIKhlVZHdKv4ocFmqr6) | 3:53 | 2021-12-24 |  |
 | [Joy to the World](https://open.spotify.com/track/6qGS2JPJXzRnnSPiqkubWP) | [Allison Moorer](https://open.spotify.com/artist/1Fp2fNrv2udkdpOqFWn8IY) | [Five Holiday Favorites \- EP](https://open.spotify.com/album/56llJGZOGhFjHxMi4utB8W) | 3:18 | 2021-12-24 |  |

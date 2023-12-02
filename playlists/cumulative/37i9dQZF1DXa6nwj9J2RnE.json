@@ -1141,6 +1141,28 @@
     },
     {
       "album": {
+        "name": "met de tijd",
+        "url": "https://open.spotify.com/album/59XkvhOOonvoAZkgnHYCSg"
+      },
+      "artists": [
+        {
+          "name": "Sandor Dayala",
+          "url": "https://open.spotify.com/artist/34h516CVwMVPYFkeSLSW69"
+        },
+        {
+          "name": "TJ",
+          "url": "https://open.spotify.com/artist/2keg5CqgRIEtw0VUYU7TLu"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158012,
+      "name": "met de tijd",
+      "url": "https://open.spotify.com/track/2AqLfjC2r4jBJZ95MqyUGa"
+    },
+    {
+      "album": {
         "name": "Nog Steeds Dezelfde",
         "url": "https://open.spotify.com/album/2BJ4ZpdRnUagLr4xRfNgmQ"
       },

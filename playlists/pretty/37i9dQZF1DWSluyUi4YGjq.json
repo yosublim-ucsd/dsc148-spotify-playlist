@@ -1,13 +1,45 @@
 {
-  "description": "Gazing at pedals, soaring celestially high. Cover: Hotline TNT",
-  "num_followers": 131212,
+  "description": "Gazing at pedals, soaring celestially high. Cover: The Jesus and Mary Chain",
+  "num_followers": 131445,
   "original_name": "Shoegaze Now",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMjEwYzdmNTRlODNkYzg2ZTQyODk5OGEyMGNhZjk0MDkwNWQ2ZGIy",
+  "snapshot_id": "MCwwMzRkYmI3NmZjZTBkN2UwODg4MjI0NjRhYWI2ZjYxMjFmMjNkZmE3",
   "tracks": [
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
+        "name": "jamcod",
+        "url": "https://open.spotify.com/album/5vIGXSK8CJfU136cXYtziM"
+      },
+      "artists": [
+        {
+          "name": "The Jesus and Mary Chain",
+          "url": "https://open.spotify.com/artist/4rjlerN21ygkIhmUv55irs"
+        }
+      ],
+      "duration_ms": 239920,
+      "name": "jamcod",
+      "url": "https://open.spotify.com/track/1DBRdzUgZrX7WBygQD2GhR"
+    },
+    {
+      "added_at": "2023-11-10 05:00:00",
+      "album": {
+        "name": "Cartwheel",
+        "url": "https://open.spotify.com/album/6LrhvefGM7zcJpIdMC9otz"
+      },
+      "artists": [
+        {
+          "name": "Hotline TNT",
+          "url": "https://open.spotify.com/artist/5DDuwU1X2Aqdp3CxfXstRe"
+        }
+      ],
+      "duration_ms": 171215,
+      "name": "I Thought You'd Change",
+      "url": "https://open.spotify.com/track/3ePFWIRZNratB2vjSrSKoP"
+    },
     {
       "added_at": "2023-11-08 15:04:21",
       "album": {
@@ -23,6 +55,22 @@
       "duration_ms": 211506,
       "name": "South",
       "url": "https://open.spotify.com/track/6EC1Hkr4hqHXIylbwnNEu1"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
+        "name": "New Jokes",
+        "url": "https://open.spotify.com/album/05we1XCetqkE0s740C5rdn"
+      },
+      "artists": [
+        {
+          "name": "Buff Ginger",
+          "url": "https://open.spotify.com/artist/51ZnoZJmnms7hdHKJrRLtL"
+        }
+      ],
+      "duration_ms": 206362,
+      "name": "Bong World",
+      "url": "https://open.spotify.com/track/3rwbJQFlqjMoNpwhU0gESR"
     },
     {
       "added_at": "2023-10-20 14:32:39",
@@ -41,20 +89,20 @@
       "url": "https://open.spotify.com/track/7y23wOenPKul2aNEF7Dcwr"
     },
     {
-      "added_at": "2023-11-10 05:00:00",
+      "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "Cartwheel",
-        "url": "https://open.spotify.com/album/6LrhvefGM7zcJpIdMC9otz"
+        "name": "Look Inward",
+        "url": "https://open.spotify.com/album/4MNaCFxyLX27nlT6rZmyq5"
       },
       "artists": [
         {
-          "name": "Hotline TNT",
-          "url": "https://open.spotify.com/artist/5DDuwU1X2Aqdp3CxfXstRe"
+          "name": "Frij",
+          "url": "https://open.spotify.com/artist/75OS5bfsxEKbLnU5R8CBup"
         }
       ],
-      "duration_ms": 171215,
-      "name": "I Thought You'd Change",
-      "url": "https://open.spotify.com/track/3ePFWIRZNratB2vjSrSKoP"
+      "duration_ms": 174222,
+      "name": "Look Inward",
+      "url": "https://open.spotify.com/track/2AFDrLOL9Q20iJoFXGNdJA"
     },
     {
       "added_at": "2023-11-14 14:48:39",
@@ -87,6 +135,22 @@
       "duration_ms": 93201,
       "name": "The Weed Supreme",
       "url": "https://open.spotify.com/track/515C6Le8zgtALLf5cwT7Za"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
+        "name": "Waltz",
+        "url": "https://open.spotify.com/album/73FCf4ZimE8vU421YH3rqQ"
+      },
+      "artists": [
+        {
+          "name": "Schelper",
+          "url": "https://open.spotify.com/artist/0jPrAqvMqQJPwCnZsCdDL7"
+        }
+      ],
+      "duration_ms": 224975,
+      "name": "Waltz",
+      "url": "https://open.spotify.com/track/1fik0uRvfAUxrkcgpJrMF1"
     },
     {
       "added_at": "2023-11-14 14:56:06",
@@ -137,6 +201,26 @@
       "url": "https://open.spotify.com/track/2HuZ5zQwJIYRVHXt5D43OS"
     },
     {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
+        "name": "Like Stars In The Firmament",
+        "url": "https://open.spotify.com/album/5AmHK2cvlnbjo6PaXCqqpU"
+      },
+      "artists": [
+        {
+          "name": "Full Of Hell",
+          "url": "https://open.spotify.com/artist/1i5rlthy5CmAYWaFOB0jhz"
+        },
+        {
+          "name": "Nothing",
+          "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
+        }
+      ],
+      "duration_ms": 324053,
+      "name": "Like Stars In The Firmament",
+      "url": "https://open.spotify.com/track/0QpBFwWXoSfrdPtEYjiYyr"
+    },
+    {
       "added_at": "2023-11-14 14:56:06",
       "album": {
         "name": "Immerse",
@@ -167,6 +251,22 @@
       "duration_ms": 242515,
       "name": "Haunt You Still",
       "url": "https://open.spotify.com/track/2Kgnj7OQEdaiFIayFmplKC"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
+        "name": "Into Deluxe",
+        "url": "https://open.spotify.com/album/0zkUkt7NZfAiwy548px7dz"
+      },
+      "artists": [
+        {
+          "name": "llawgne",
+          "url": "https://open.spotify.com/artist/2ygwnXevLOOOIK91pF0VIB"
+        }
+      ],
+      "duration_ms": 256678,
+      "name": "Into Deluxe",
+      "url": "https://open.spotify.com/track/5vRyNyDeLsbgwVKfrROZmw"
     },
     {
       "added_at": "2023-10-13 15:37:01",
@@ -217,6 +317,22 @@
       "url": "https://open.spotify.com/track/0tyZQfY6yHmfLsoOdJc8bd"
     },
     {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
+        "name": "Down",
+        "url": "https://open.spotify.com/album/6yVVM5DhH3cv5d2GSC0COw"
+      },
+      "artists": [
+        {
+          "name": "Jade.",
+          "url": "https://open.spotify.com/artist/6puFUDFF9N67aDfvKW0tH9"
+        }
+      ],
+      "duration_ms": 218125,
+      "name": "Down",
+      "url": "https://open.spotify.com/track/4GelkVuSPDy4429jeqAAm8"
+    },
+    {
       "added_at": "2023-10-20 14:32:39",
       "album": {
         "name": "Tomorrow's Fire",
@@ -263,6 +379,26 @@
       "duration_ms": 186122,
       "name": "stay inside",
       "url": "https://open.spotify.com/track/13xM23OPLCZn7WYCWaoJjS"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
+        "name": "Understand",
+        "url": "https://open.spotify.com/album/5NadEnSA0Rgn0TRXMLJeEd"
+      },
+      "artists": [
+        {
+          "name": "Noirak",
+          "url": "https://open.spotify.com/artist/6kGQ40RTUDTtuqeRVeyCMJ"
+        },
+        {
+          "name": "Tre Flip",
+          "url": "https://open.spotify.com/artist/4b6yY9OX4LJMkAKYTGuYna"
+        }
+      ],
+      "duration_ms": 189882,
+      "name": "Understand",
+      "url": "https://open.spotify.com/track/3XVNM0ZqsEvJbyYmP2FnZi"
     },
     {
       "added_at": "2023-09-25 20:38:31",
@@ -829,22 +965,6 @@
       "url": "https://open.spotify.com/track/3r2vyNnqFKr6IraCqLtoBI"
     },
     {
-      "added_at": "2023-10-19 17:29:30",
-      "album": {
-        "name": "S\u00e1lvame",
-        "url": "https://open.spotify.com/album/2ybfm8UkHqZOLw1vvF2hfd"
-      },
-      "artists": [
-        {
-          "name": "Memory Leak",
-          "url": "https://open.spotify.com/artist/0i9cI6V5ZvmADyZcqLk8PJ"
-        }
-      ],
-      "duration_ms": 285000,
-      "name": "S\u00e1lvame",
-      "url": "https://open.spotify.com/track/27tshI1j4jX347xUP8zFeZ"
-    },
-    {
       "added_at": "2023-09-29 15:11:53",
       "album": {
         "name": "Gl\u00f3andi (2023)",
@@ -923,26 +1043,6 @@
       "duration_ms": 267491,
       "name": "flutter",
       "url": "https://open.spotify.com/track/1D8sCqR7SwxUTwUDqMyUAp"
-    },
-    {
-      "added_at": "2023-09-29 15:11:53",
-      "album": {
-        "name": "Freckles",
-        "url": "https://open.spotify.com/album/6kINUj2zkDb8hknoExLFNN"
-      },
-      "artists": [
-        {
-          "name": "Band Spectra",
-          "url": "https://open.spotify.com/artist/2Xq01ddE4kmd23H5Eljmn2"
-        },
-        {
-          "name": "Mary Leay",
-          "url": "https://open.spotify.com/artist/1qBdIvxju8AHbU7Zes7yF7"
-        }
-      ],
-      "duration_ms": 236899,
-      "name": "Freckles",
-      "url": "https://open.spotify.com/track/1bAXs6FAQ8pyjuOlZ4xHt1"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -1097,22 +1197,6 @@
       "url": "https://open.spotify.com/track/2ufyUEytXZQvltIJsxEDwO"
     },
     {
-      "added_at": "2023-09-01 13:51:56",
-      "album": {
-        "name": "Slide Back",
-        "url": "https://open.spotify.com/album/3CvQz6P3BnFbPjOQa7cxQV"
-      },
-      "artists": [
-        {
-          "name": "Phantom Youth",
-          "url": "https://open.spotify.com/artist/6R3Zn2xPFisfiGQIrp4sKd"
-        }
-      ],
-      "duration_ms": 186226,
-      "name": "Slide Back",
-      "url": "https://open.spotify.com/track/4C2nwt9F6B0T1HMBzOjrhV"
-    },
-    {
       "added_at": "2023-06-23 04:00:00",
       "album": {
         "name": "her distortion",
@@ -1257,38 +1341,6 @@
       "url": "https://open.spotify.com/track/1SQcUBkH4zgYNRRnwUNx4x"
     },
     {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
-        "name": "Waiting Around",
-        "url": "https://open.spotify.com/album/3FhDSxuLJNOJKe6YZZgIUA"
-      },
-      "artists": [
-        {
-          "name": "Lilts",
-          "url": "https://open.spotify.com/artist/1FIiuU3QEVE9BolZFEL5FG"
-        }
-      ],
-      "duration_ms": 159192,
-      "name": "Waiting Around",
-      "url": "https://open.spotify.com/track/4nyqv670J2KLyF6dw68Vo0"
-    },
-    {
-      "added_at": "2023-08-14 17:54:26",
-      "album": {
-        "name": "just like me",
-        "url": "https://open.spotify.com/album/7GoXTfLPictlLe03lvQxa5"
-      },
-      "artists": [
-        {
-          "name": "betterluckmason",
-          "url": "https://open.spotify.com/artist/3n50HiEZZUPpdSO14AZxXz"
-        }
-      ],
-      "duration_ms": 128571,
-      "name": "NeverTell",
-      "url": "https://open.spotify.com/track/2h9enlWVlKJ1KRY4t2B71n"
-    },
-    {
       "added_at": "2023-06-23 04:00:00",
       "album": {
         "name": "What Does Moon Think",
@@ -1367,22 +1419,6 @@
       "duration_ms": 239586,
       "name": "Scapa Flow",
       "url": "https://open.spotify.com/track/1Qw8bC0vgxhLx1kLcNFEkk"
-    },
-    {
-      "added_at": "2023-07-28 04:01:00",
-      "album": {
-        "name": "Catharsis",
-        "url": "https://open.spotify.com/album/3UQfF38JAnid5DG2maFfZ1"
-      },
-      "artists": [
-        {
-          "name": "Blood Estate",
-          "url": "https://open.spotify.com/artist/74ILynpls56WeC7FcBq0fF"
-        }
-      ],
-      "duration_ms": 158730,
-      "name": "Catharsis",
-      "url": "https://open.spotify.com/track/6wnhSopdkyLrhGsRjGZYMP"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -1547,22 +1583,6 @@
     {
       "added_at": "2023-06-23 04:00:00",
       "album": {
-        "name": "THE RED BUTTON WAS TALKING AGAIN",
-        "url": "https://open.spotify.com/album/7zieU55cGtAinDTr3OkPGw"
-      },
-      "artists": [
-        {
-          "name": "aboynamedblu",
-          "url": "https://open.spotify.com/artist/4DCRHW4ITYEaA0qmW3PYJj"
-        }
-      ],
-      "duration_ms": 147716,
-      "name": "do you remember",
-      "url": "https://open.spotify.com/track/6GTVy03jG3jYJogNVZWHxK"
-    },
-    {
-      "added_at": "2023-06-23 04:00:00",
-      "album": {
         "name": "The Luck You Had",
         "url": "https://open.spotify.com/album/5ys6y6yA21dn4kIZ5ud0T2"
       },
@@ -1591,22 +1611,6 @@
       "duration_ms": 238257,
       "name": "iwantuall4me",
       "url": "https://open.spotify.com/track/6ygPBBgzTqxppds9IO0gOF"
-    },
-    {
-      "added_at": "2023-06-23 04:00:00",
-      "album": {
-        "name": "do you remember...",
-        "url": "https://open.spotify.com/album/2iSj6baQQWIv880vQBucQl"
-      },
-      "artists": [
-        {
-          "name": "Ka$tro",
-          "url": "https://open.spotify.com/artist/22AaKQKPmQXX1xFhc825rJ"
-        }
-      ],
-      "duration_ms": 208831,
-      "name": "do you remember...",
-      "url": "https://open.spotify.com/track/701DOYFNMoGM1AaFXHVR95"
     },
     {
       "added_at": "2023-03-24 16:00:50",

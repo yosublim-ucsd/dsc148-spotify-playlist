@@ -2,9 +2,9 @@
 
 ### [el nuevo tropical](https://open.spotify.com/playlist/37i9dQZF1DX07X8UDWKEwP)
 
-> Lo nuevo del mundo tropical\. Cover: Moa Rivera
+> Lo nuevo del mundo tropical\. Cover: Carlos Vives & Ryan Castro
 
-332 songs - 19 hr 22 min
+333 songs - 19 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -171,6 +171,7 @@
 | [Llegaste](https://open.spotify.com/track/5jU9Tj9Mlrwjr2SW5gElJz) | [Manny Cruz](https://open.spotify.com/artist/3C6PJhao839YVg9YyV16lA), [Milly Quezada](https://open.spotify.com/artist/3tuushgEVJSXAkxR4ZxOhJ) | [Llegaste](https://open.spotify.com/album/3KYHHZZqz8SEjCVbeUE8xO) | 3:21 | 2023-03-24 | 2023-04-30 |
 | [Lo Veo y No Lo Creo](https://open.spotify.com/track/1bTpL2sNbYVlNuxXIFI9jk) | [Willy Garcia](https://open.spotify.com/artist/1VNniaVBiVVqSwjUEcNJfd), [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1) | [El Día Es Hoy](https://open.spotify.com/album/2Pnmt5sGCcrDUJmKqVx7Rb) | 3:20 | 2022-01-01 | 2022-01-29 |
 | [Los Celos Se Te Notan](https://open.spotify.com/track/66YC8rcYpImTugAA2m2yUb) | [Olga Tañón](https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE) | [Los Celos Se Te Notan](https://open.spotify.com/album/2zg7DDi8vJ2gYy4wq2n1TG) | 3:10 | 2023-01-20 | 2023-03-22 |
+| [Los Sabanales 3.0](https://open.spotify.com/track/4vPOPz82WsE1KHxl1r0HnS) | [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [Los Sabanales 3.0](https://open.spotify.com/album/2blRzFXYdX7EVTReawNzUt) | 3:08 | 2023-12-01 |  |
 | [Lotería](https://open.spotify.com/track/0R5yCZ5xBbZV0nyPO9qM9d) | [Luis Vazquez](https://open.spotify.com/artist/00zeZxu1UPkn8DKqNxgnyw), [Rafa Pabön](https://open.spotify.com/artist/11YLRSsZA3YVuQQtHXKTlz) | [Lotería](https://open.spotify.com/album/7qjUgwcrdAbhAjF5gYAyn4) | 4:10 | 2023-04-21 | 2023-06-19 |
 | [Luck Ra \| Mission 15](https://open.spotify.com/track/6CIMoDfTsvFVGhFi3v9Izn) | [Alan Gomez](https://open.spotify.com/artist/6oMRQ5H3A2XA5I3RG3leni), [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk) | [Luck Ra \| Mission 15](https://open.spotify.com/album/75ROUVsHe1IcWmeOBuFZtT) | 2:13 | 2023-05-19 | 2023-08-12 |
 | [Luna](https://open.spotify.com/track/5Pdw0kGwWndeTsbOfVrv3r) | [Bella Dose](https://open.spotify.com/artist/0mzZB75kFTY5xPZm4RWfk9), [DaniLeigh](https://open.spotify.com/artist/0XIKGBo9PnK1ApI5tZA60d) | [Suelta](https://open.spotify.com/album/0a75xzDuN6WBePejRqxLTZ) | 3:24 | 2022-01-01 | 2022-01-29 |
@@ -303,7 +304,7 @@
 | [Te Supe Amar](https://open.spotify.com/track/2EGuSoq0VeRdczcg3KqsDz) | [Chavi Leons](https://open.spotify.com/artist/2NpvOJUmcKkw4BEVsVbUcx) | [Agonía](https://open.spotify.com/album/029vCRAUGLv5z6IqivwXRI) | 2:57 | 2022-01-01 | 2022-01-29 |
 | [Tengo Ganas](https://open.spotify.com/track/5Ihw9hDRGBDxS39ASUXg5v) | [Manyoma Brothers](https://open.spotify.com/artist/1jriNjegHWOysnyACg9Qe3) | [Tengo Ganas](https://open.spotify.com/album/4aTjVjqLbli8O4DNSn85Ce) | 5:20 | 2022-01-01 | 2022-06-30 |
 | [Tu](https://open.spotify.com/track/2bsqxGvy8NZUspOL9rRazN) | [Alexandra](https://open.spotify.com/artist/6sOhwBjVzpiEBAYEWYwDoX) | [Bachata Queen](https://open.spotify.com/album/43RLdTuJFdB1AdlJQ9xI7m) | 4:55 | 2022-01-01 | 2022-01-29 |
-| [Tu Cepillo](https://open.spotify.com/track/1dLTxHGSlLtB5OEjVHCWWo) | [Daniel Santacruz](https://open.spotify.com/artist/4tLUnrSgMM7tT0zVs3wX61) | [Tu Cepillo](https://open.spotify.com/album/0e1Iu9QVXL9mgOimmGEDXr) | 3:04 | 2023-10-13 |  |
+| [Tu Cepillo](https://open.spotify.com/track/1dLTxHGSlLtB5OEjVHCWWo) | [Daniel Santacruz](https://open.spotify.com/artist/4tLUnrSgMM7tT0zVs3wX61) | [Tu Cepillo](https://open.spotify.com/album/0e1Iu9QVXL9mgOimmGEDXr) | 3:04 | 2023-10-13 | 2023-12-02 |
 | [Tu Juguete](https://open.spotify.com/track/2lhnDQIvQmfU8qVbrqJdke) | [Dani J](https://open.spotify.com/artist/3TEhIeweC59okLmqFu6LWv) | [Tu Juguete](https://open.spotify.com/album/2OpJPx9vdWJFMkXNV5iANk) | 3:51 | 2022-06-29 | 2023-02-11 |
 | [Tu Me Matas](https://open.spotify.com/track/3suz9KxSek6PgrXVfoIGQd) | [Chavi Leons](https://open.spotify.com/artist/2NpvOJUmcKkw4BEVsVbUcx) | [Pilot](https://open.spotify.com/album/3iGoLRveNIQ2I4ibGbzXi4) | 2:59 | 2022-02-11 | 2022-06-30 |
 | [Tu y Yo](https://open.spotify.com/track/06hD30iJU6ZumfH0k4YyIi) | [Tony Vega](https://open.spotify.com/artist/3Yg61bt7pZYX1bbMXEj8oY), [Amy Gutierrez](https://open.spotify.com/artist/1jrfEx1kZc8BNPLQDC7kVR) | [Tu y Yo](https://open.spotify.com/album/1iftc4u0mOHPH5cdkZb9eO) | 4:32 | 2022-01-01 | 2022-04-29 |

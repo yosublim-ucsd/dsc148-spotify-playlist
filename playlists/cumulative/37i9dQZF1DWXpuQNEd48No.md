@@ -4,7 +4,7 @@
 
 > Yo Hai Haryanvi Hip\-Hop! Cover: Elvish Yadav
 
-137 songs - 7 hr 23 min
+138 songs - 7 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,7 +41,7 @@
 | [Chore Haryane Aale](https://open.spotify.com/track/2YTKohkHJHXgRCut4Ew0HS) | [Elvish Yadav](https://open.spotify.com/artist/7IBZqnYGLR2eOTP3YJ1asp), [DG IMMORTALS](https://open.spotify.com/artist/7jbG8tDQ5FmqBbTCj5dJdy), [VIRTUAL\_AF](https://open.spotify.com/artist/1Ik6g05IoSfFmpqi4Jg7Kc), [PINNOCIO](https://open.spotify.com/artist/6iNOTxWm3HgwNKL3MhFvzY), [Ankit Baiyanpuria](https://open.spotify.com/artist/1tYgxFs8KyYSXCfQGFsnsu) | [Chore Haryane Aale](https://open.spotify.com/album/7fd96zMwZ0cbsMCmxHyhLf) | 3:27 | 2023-10-09 |  |
 | [Circle](https://open.spotify.com/track/5d3cpUagWngKLiIwtHSLKV) | [BigMoney](https://open.spotify.com/artist/1cRdqU4s5nAUZecL49dXPE) | [Circle](https://open.spotify.com/album/6cEaAwxDU0JPzApMzVFcEZ) | 3:14 | 2023-08-30 | 2023-09-28 |
 | [Convoy](https://open.spotify.com/track/70ouErfLUxUY2WQwcQI2fO) | [Khasa Aala Chahar](https://open.spotify.com/artist/3yOHCFUZRsaHUu1yefR8ck), [KD DESIROCK](https://open.spotify.com/artist/4Pq2LW79qotJK4YAMFwlO0) | [Convoy](https://open.spotify.com/album/4ZcTQRJtPrN8azjI83NHNg) | 4:35 | 2023-10-18 |  |
-| [Criminal](https://open.spotify.com/track/4yIUYWDDXTDkYl616suCaw) | [Devender Ahlawat](https://open.spotify.com/artist/0qzAeY2wBeUBxDUbBex1Hg) | [Criminal](https://open.spotify.com/album/4RXG9KfqTKbtWhsSZwVTel) | 3:51 | 2023-11-09 |  |
+| [Criminal](https://open.spotify.com/track/4yIUYWDDXTDkYl616suCaw) | [Devender Ahlawat](https://open.spotify.com/artist/0qzAeY2wBeUBxDUbBex1Hg) | [Criminal](https://open.spotify.com/album/4RXG9KfqTKbtWhsSZwVTel) | 3:51 | 2023-11-09 | 2023-12-02 |
 | [DAD](https://open.spotify.com/track/3gMWtZT62pIpVY6JZAmjrU) | [Amit Saini Rohtakiya](https://open.spotify.com/artist/4d8PlD50b5CG0eIBY6jm0b) | [DAD](https://open.spotify.com/album/46D35bKFH47ZVfaaTgQE3C) | 3:19 | 2023-03-28 | 2023-05-24 |
 | [Dad](https://open.spotify.com/track/1Ehci8oBSgx7n0fJ9R5dEl) | [Gulzaar Chhaniwala](https://open.spotify.com/artist/1LOB46pDsJhtIXW1nbHYZo) | [Dad](https://open.spotify.com/album/1a4MJT6IU0NeZkv6znNTM3) | 3:06 | 2023-04-10 | 2023-05-16 |
 | [Day By Day](https://open.spotify.com/track/76WnNlXWHy8kYtS6qJcW1B) | [Vikash Kashyap](https://open.spotify.com/artist/0aRUcCzk6K2cy4SsvsypQf), [Ranjan Assaniya](https://open.spotify.com/artist/5JKxDoTKlzy3lF2KiKQUq4) | [Day By Day](https://open.spotify.com/album/5SzLToKl72b5GspUW086PG) | 4:27 | 2023-04-03 | 2023-06-17 |
@@ -62,6 +62,7 @@
 | [Goli](https://open.spotify.com/track/5bJVRkqNWRwULSglgjLLL1) | [Ron Likhari](https://open.spotify.com/artist/3HtPdSP2gc9CkXVysXsRQS) | [Goli](https://open.spotify.com/album/32lzoDt96kxUb6Hh8cRy6m) | 2:45 | 2023-03-28 | 2023-04-04 |
 | [Goli](https://open.spotify.com/track/5Eg7UwkwmvZ6klpm26opBD) | [Sahil Dhull](https://open.spotify.com/artist/1YhZbHSLY4DwUzlennljq8), [Nonu Rana](https://open.spotify.com/artist/5apXJg5GUrFPVqRe4prxKh), [VJ Paul](https://open.spotify.com/artist/7znLEJV5gqErkQT4xd8yOn), [Khushi Verma](https://open.spotify.com/artist/2bdyNpVEnnVc1WDz79Riz4) | [Goli](https://open.spotify.com/album/1x72UEEAlwx8Idzm6buZd8) | 2:34 | 2023-07-11 |  |
 | [Haryana Born](https://open.spotify.com/track/1sT3QTmJ61n7dlUQwCvugq) | [Manish Rawal](https://open.spotify.com/artist/5BMrVOkeM7YwsNjhanu1Zb) | [Haryana Born](https://open.spotify.com/album/7hMuaxPY9NYf8oOoVBqEXf) | 2:26 | 2023-08-02 | 2023-09-28 |
+| [Haryana Flow](https://open.spotify.com/track/6OaC2D3CyPcbhUN4Tunvek) | [Lanedaar](https://open.spotify.com/artist/3XGpQpOzPUuqQ9oDP6jPix) | [Haryana Flow](https://open.spotify.com/album/1H1nnmMFGedsa7ltWj0bDD) | 3:17 | 2023-12-01 |  |
 | [Haryana Hood](https://open.spotify.com/track/1RdrAqXa2fUj2XytsKaUwl) | [Irshad Khan](https://open.spotify.com/artist/6fzmobEykeKCwfhH6EsZh4) | [Haryana Hood](https://open.spotify.com/album/4x2HtG6BCrYlok67vSgxjj) | 3:31 | 2023-04-18 |  |
 | [Haryana Roadways](https://open.spotify.com/track/3zhGKnKeYa3f71ndZomZqn) | [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1), [Fazilpuria](https://open.spotify.com/artist/4oaJL0V5asQDh4sqplTVhX) | [Haryana Roadways](https://open.spotify.com/album/4UoqnEe3bNT8RyULI2Z8iW) | 3:08 | 2023-03-28 | 2023-10-31 |
 | [Haryana Zone](https://open.spotify.com/track/2zVR7bexpJ8wP1ewN4r5II) | [Oye Amti](https://open.spotify.com/artist/1aYZzT07CepkQFWaQDECss) | [Haryana Zone](https://open.spotify.com/album/4tz7GSeVevhfjXSddHw4J3) | 3:03 | 2023-04-14 | 2023-09-28 |

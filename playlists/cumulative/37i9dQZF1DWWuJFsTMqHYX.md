@@ -4,7 +4,7 @@
 
 > The hottest music from the hottest desert\. Cover: Tinariwen.
 
-101 songs - 7 hr 43 min
+102 songs - 7 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [Akaline](https://open.spotify.com/track/0V9DjtOmk3yxz8HeEyxYsY) | [Kel Assouf](https://open.spotify.com/artist/5mu6VL20oyfrkqOW61w7p9) | [Tin Hinane](https://open.spotify.com/album/58tahxJBcMrtsbp0s3amh2) | 5:04 | 2022-03-07 |  |
 | [Akaline Akaline](https://open.spotify.com/track/44ml2BquH4TbG7M7ugF9hJ) | [Ahmoudou Madassane](https://open.spotify.com/artist/5oQlmxzNKhiA2LWU40F6rm) | [Zerzura \(Original Soundtrack Recording\)](https://open.spotify.com/album/2uid256fli04FZGCKhQ7LE) | 3:07 | 2022-03-07 | 2022-07-22 |
 | [Akaline Akaline](https://open.spotify.com/track/6qQhWIowgtVSz6UFJvG5Ku) | [Ahmoudou Madassane](https://open.spotify.com/artist/5oQlmxzNKhiA2LWU40F6rm) | [Zerzura \(Original Soundtrack Recording\)](https://open.spotify.com/album/1YUKsFUMyCT59pqnOaWoAt) | 3:07 | 2022-03-07 |  |
+| [Alasidi](https://open.spotify.com/track/07S3LkvTWmZ8tq00EUnIPZ) | [Afel Bocoum](https://open.spotify.com/artist/06Ib5crxFFg8jg3q8ZP77W) | [Alkibar](https://open.spotify.com/album/3IB6LdmFdPmXT0WFDufx1D) | 4:34 | 2023-08-16 |  |
 | [Alasidi](https://open.spotify.com/track/5RhFZ82NnuUrRxQOWphUI3) | [Afel Bocoum](https://open.spotify.com/artist/06Ib5crxFFg8jg3q8ZP77W) | [Alkibar](https://open.spotify.com/album/2iYA7xvN6sFDWgwFYvOInV) | 4:34 | 2022-03-07 | 2023-11-04 |
 | [Alghalem](https://open.spotify.com/track/2CGi0kPFzrErHlYjzQpLAh) | [Terakaft](https://open.spotify.com/artist/0UtqyB9qf6oA6B7SeTjLue) | [Aratan n Azawad](https://open.spotify.com/album/0MnMc9NEsJcHjsUv2GXqb9) | 3:41 | 2022-03-07 | 2022-07-24 |
 | [Amidinine](https://open.spotify.com/track/0JRBZ5RZGLhZKUoDIgaxQc) | [Bombino](https://open.spotify.com/artist/7s4I6rDvTcdBDKElVbtsAN) | [Nomad](https://open.spotify.com/album/6Zv8PkjigCztS7AON6ZuZe) | 4:28 | 2022-03-07 | 2023-08-08 |
@@ -103,7 +104,7 @@
 | [Tiwàyyen](https://open.spotify.com/track/30A3vEsySPkeXzXeMITvwE) | [Tinariwen](https://open.spotify.com/artist/2sf2owtFSCvz2MLfxmNdkb) | [Elwan](https://open.spotify.com/album/41KpeN0qV6BBsuJgd8tZrE) | 3:44 | 2022-09-01 | 2023-08-15 |
 | [Tiwàyyen](https://open.spotify.com/track/7JJQPzFAV8I7a3sTURA2gt) | [Tinariwen](https://open.spotify.com/artist/2sf2owtFSCvz2MLfxmNdkb), [Kurt Vile](https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2), [Matt Sweeney](https://open.spotify.com/artist/6IpGCPfdHtfNZwSGihxXSj) | [Elwan](https://open.spotify.com/album/55iBUPoUCslfK6Wt1WKY2v) | 3:44 | 2022-03-07 | 2022-07-29 |
 | [Toumast anlet](https://open.spotify.com/track/09n4VZqxSvFJfdtyV0HbCV) | [Tamikrest](https://open.spotify.com/artist/6nZ1wn9URV4oWk4UKuG872) | [Chatma](https://open.spotify.com/album/0VI8LrJKHMN1S9hloXGMlU) | 5:13 | 2022-03-07 |  |
-| [Toumast Tincha](https://open.spotify.com/track/0oiAiwEtUaKEWLBz6O4ord) | [Tinariwen](https://open.spotify.com/artist/2sf2owtFSCvz2MLfxmNdkb) | [Emmaar \(Deluxe Edition\)](https://open.spotify.com/album/3Dg5g42nMxdrJIuxhXxFTH) | 4:19 | 2022-03-07 |  |
+| [Toumast Tincha](https://open.spotify.com/track/0oiAiwEtUaKEWLBz6O4ord) | [Tinariwen](https://open.spotify.com/artist/2sf2owtFSCvz2MLfxmNdkb) | [Emmaar \(Deluxe Edition\)](https://open.spotify.com/album/3Dg5g42nMxdrJIuxhXxFTH) | 4:19 | 2022-03-07 | 2023-12-02 |
 | [Toumast Tincha](https://open.spotify.com/track/3911Bzzv8FHgbitJzXFjxh) | [Tinariwen](https://open.spotify.com/artist/2sf2owtFSCvz2MLfxmNdkb) | [Emmaar](https://open.spotify.com/album/7BHJjxuGHgU4aFpBFCjFsw) | 4:20 | 2022-03-07 | 2022-07-29 |
 | [Yarab](https://open.spotify.com/track/4DdoInAoNy6cT6Z1AAj6vX) | [Malouma](https://open.spotify.com/artist/0TuCYPg3Na5TogmBIEl7T5) | [Nour](https://open.spotify.com/album/6KGuLkvq9MNHbK4ttF0vx3) | 5:05 | 2022-03-07 |  |
 | [Zalina](https://open.spotify.com/track/7LFTVgFCNdNghawWIfN3OX) | [Balkan Taksim](https://open.spotify.com/artist/70oqqBR2WFsDZP6JhLvYpm) | [Zalina](https://open.spotify.com/album/1sAs3dT1gJQJqKuKHCyg31) | 3:45 | 2022-03-07 | 2023-03-12 |

@@ -4,7 +4,7 @@
 
 > Hit the floor with these hot new tracks and dance remixes of your favorite country songs! Cover: Cheat Codes and MacKenzie Porter
 
-177 songs - 9 hr 42 min
+178 songs - 9 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -164,6 +164,7 @@
 | [Thinking 'Bout You \(feat\. MacKenzie Porter\)](https://open.spotify.com/track/5eUpUFdFaAeovPau6lQkqK) | [Dustin Lynch](https://open.spotify.com/artist/1dID9zgn0OV0Y8ud7Mh2tS), [MacKenzie Porter](https://open.spotify.com/artist/6nXco5Q3cJJ0ZutnBOsSpq) | [Blue In The Sky](https://open.spotify.com/album/2u0DD4sNHOcgbuJrJyMUu3) | 2:51 | 2023-09-15 |  |
 | [This Feeling](https://open.spotify.com/track/4NBTZtAt1F13VvlSKe6KTl) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Sick Boy](https://open.spotify.com/album/6ZvDJs17O3woQirttKRYCG) | 3:17 | 2021-12-10 |  |
 | [This Is How We Roll \- Remix](https://open.spotify.com/track/3Hs4ytyLFzB2HKk2ZSohko) | [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg), [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y), [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [This Is How We Roll \(Remix\)](https://open.spotify.com/album/6hitymDgEcBKf8riAVOsiZ) | 3:26 | 2021-12-10 |  |
+| [This Town's Been Too Good To Us \(VAVO Remix\)](https://open.spotify.com/track/5hSJLszS7QUMQbVT3cwfEo) | [Dylan Scott](https://open.spotify.com/artist/78YqeIji3mgAS2K1Maca6x), [VAVO](https://open.spotify.com/artist/44re77WwNG34C182Jq3WIK) | [This Town's Been Too Good To Us \(VAVO Remix\)](https://open.spotify.com/album/15NlctqXysjYS5fFGACncz) | 2:44 | 2023-12-01 |  |
 | [Throw It Back \(feat\. Keith Urban\)](https://open.spotify.com/track/4BLiRJdtn8jwUVtvbHIv2T) | [BRELAND](https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1), [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Throw It Back \(feat\. Keith Urban\)](https://open.spotify.com/album/56rScV2lFznLUGxqYYwUpo) | 3:08 | 2021-12-10 |  |
 | [Two Black Cadillacs / Jolene \(Dee Jay Silver Edit\) \(feat\. Dolly Parton\)](https://open.spotify.com/track/3H0JQLCfWoVvPGfQvzDT42) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj), [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Country Club](https://open.spotify.com/album/0ND26IiObIrQgNuzU5dFmt) | 4:12 | 2021-12-10 |  |
 | [Us ft\. ERNEST](https://open.spotify.com/track/1pNvwvyu0toAciKIigdbO5) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [ERNEST](https://open.spotify.com/artist/4GGfAshSkqoxpZdoaHm7ky) | [HiROQUEST 2: Double Helix](https://open.spotify.com/album/2Y5AL4Rd7wOyEWycA1kRzO) | 3:16 | 2023-11-17 |  |

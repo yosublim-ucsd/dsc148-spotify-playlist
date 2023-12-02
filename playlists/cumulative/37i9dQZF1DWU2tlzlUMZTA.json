@@ -906,6 +906,32 @@
     {
       "album": {
         "name": "Pippa (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5y6G8IMGY5L6H1VHLntHaa"
+      },
+      "artists": [
+        {
+          "name": "A.R. Rahman",
+          "url": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
+        },
+        {
+          "name": "MC Heam",
+          "url": "https://open.spotify.com/artist/2vukE84hCaAdQrqMoOgW8Y"
+        },
+        {
+          "name": "Krystal Kiran",
+          "url": "https://open.spotify.com/artist/12vXwZUg3ECnogtFiTG938"
+        }
+      ],
+      "date_added": "2023-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166002,
+      "name": "Rampage - From \"Pippa\"",
+      "url": "https://open.spotify.com/track/1zN43eXTShUKo1iNI8iM69"
+    },
+    {
+      "album": {
+        "name": "Pippa (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3V25WTRWkyGPzP0biJLSWm"
       },
       "artists": [
@@ -924,7 +950,7 @@
       ],
       "date_added": "2023-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 166002,
       "name": "Rampage - From \"Pippa\"",
       "url": "https://open.spotify.com/track/2ZJ6pHT5DWGkZ0Zyl9dJ5f"

@@ -491,6 +491,24 @@
     },
     {
       "album": {
+        "name": "Digressions",
+        "url": "https://open.spotify.com/album/5dzNjLlC4M35rakoVQr6SU"
+      },
+      "artists": [
+        {
+          "name": "The Last Days of Our Past",
+          "url": "https://open.spotify.com/artist/2jRNvVCA7vd9patmMZQTlX"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148800,
+      "name": "Digressions",
+      "url": "https://open.spotify.com/track/5kTpr7QtW1n5dk68GLTGqL"
+    },
+    {
+      "album": {
         "name": "distorted love",
         "url": "https://open.spotify.com/album/2FoV94PWVc29lPrx3Ct07n"
       },
@@ -1170,7 +1188,7 @@
       ],
       "date_added": "2023-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 137777,
       "name": "for you i would",
       "url": "https://open.spotify.com/track/3gXyNLtur7VuFbpDQwT2s4"
@@ -1286,6 +1304,28 @@
       "duration_ms": 127192,
       "name": "full circle",
       "url": "https://open.spotify.com/track/6hwBdR3mQjo9Z2gwOAPbbi"
+    },
+    {
+      "album": {
+        "name": "granular",
+        "url": "https://open.spotify.com/album/32CQ4YbWsCl1axqcy2iKAj"
+      },
+      "artists": [
+        {
+          "name": ".diedlonely",
+          "url": "https://open.spotify.com/artist/2LbjW13j6rNtFgYcPjR2ur"
+        },
+        {
+          "name": "Ambient Authority",
+          "url": "https://open.spotify.com/artist/6YcpbMf7v0TBvHk0z4l1a1"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174054,
+      "name": "granular",
+      "url": "https://open.spotify.com/track/2JBZ4mrEymmHGxLU0e4DbV"
     },
     {
       "album": {
@@ -1496,7 +1536,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 137142,
       "name": "in the bleak midwinter (Super Slowed)",
       "url": "https://open.spotify.com/track/0ZldgW3MduVUHUQailxYlj"
@@ -1579,6 +1619,24 @@
     },
     {
       "album": {
+        "name": "last frost",
+        "url": "https://open.spotify.com/album/6VtpZUpXLRxx3ejWmYIejH"
+      },
+      "artists": [
+        {
+          "name": "hallow",
+          "url": "https://open.spotify.com/artist/3Okpk8xxkxtFFGPT4LKPfa"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189490,
+      "name": "last frost",
+      "url": "https://open.spotify.com/track/59EPkdAps7DberOyksoTFy"
+    },
+    {
+      "album": {
         "name": "leave the world behind you",
         "url": "https://open.spotify.com/album/6wwaGnYHnjQTXnLMNPjoAe"
       },
@@ -1598,6 +1656,24 @@
       "duration_ms": 130909,
       "name": "leave the world behind you",
       "url": "https://open.spotify.com/track/6UonGT2WqGNSO4rXVYVRHR"
+    },
+    {
+      "album": {
+        "name": "lose yourself",
+        "url": "https://open.spotify.com/album/25my7x6vePhDAG31H4qxpo"
+      },
+      "artists": [
+        {
+          "name": "my head is empty",
+          "url": "https://open.spotify.com/artist/7pxIYxdkx2675ZGKSAPBAy"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146422,
+      "name": "lose yourself",
+      "url": "https://open.spotify.com/track/7lq9zT9soWz1RkvFkfGExn"
     },
     {
       "album": {
@@ -2463,6 +2539,28 @@
     },
     {
       "album": {
+        "name": "shaping",
+        "url": "https://open.spotify.com/album/4uWpBBELGMfwlCCEKonmRS"
+      },
+      "artists": [
+        {
+          "name": "Be Still the Earth",
+          "url": "https://open.spotify.com/artist/7FedGrros77uFxBy4PT8k6"
+        },
+        {
+          "name": "Norvik",
+          "url": "https://open.spotify.com/artist/1NjriDX47WYVvGjeVMQ8R6"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195000,
+      "name": "shaping",
+      "url": "https://open.spotify.com/track/39VUSM18HRH1PI1lTvYwBf"
+    },
+    {
+      "album": {
         "name": "Singularity",
         "url": "https://open.spotify.com/album/70Pf5FGLKnp1GS5yvawgdZ"
       },
@@ -2706,6 +2804,28 @@
       "duration_ms": 121839,
       "name": "stay focus",
       "url": "https://open.spotify.com/track/6y9jBhUORN7JbPNe1FVfSG"
+    },
+    {
+      "album": {
+        "name": "stay with me",
+        "url": "https://open.spotify.com/album/6HRpE7zmq0oPzpPx25E8Ha"
+      },
+      "artists": [
+        {
+          "name": "sevenlies",
+          "url": "https://open.spotify.com/artist/5Rk8mfDsfEfTWfh3EsY9n7"
+        },
+        {
+          "name": "your home",
+          "url": "https://open.spotify.com/artist/6q53f3ESKAu4uYmklhG2qV"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128000,
+      "name": "stay with me",
+      "url": "https://open.spotify.com/track/0w1mQ0mOKyCNejDiJyIX3c"
     },
     {
       "album": {
@@ -3006,7 +3126,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 131729,
       "name": "what r u looking 4",
       "url": "https://open.spotify.com/track/1tiqOk7gowfsJSUGHtLCHf"

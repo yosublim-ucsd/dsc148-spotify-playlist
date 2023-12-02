@@ -1,12 +1,12 @@
 {
   "description": "Spotify Japan proudly introduces the freshest and most talented Japanese artists to the world.",
-  "num_followers": 382760,
+  "num_followers": 382748,
   "original_name": "Tokyo Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZTI4ZWJhOTQxN2ZkNDI4ZTg5OGQzNmFkNGQ0ZDQ3N2Y2NjNlMWI5",
+  "snapshot_id": "MCxlZWJkYmYyMjUxNjQxYmI1NmY0M2FkZGE2Y2E3M2Y5ODI0N2E1NzY2",
   "tracks": [
     {
       "added_at": "2023-11-30 15:00:00",
@@ -871,18 +871,18 @@
     {
       "added_at": "2023-11-30 15:00:00",
       "album": {
-        "name": "Gold\u3000\uff5e\u307e\u305f\u9022\u3046\u65e5\u307e\u3067\uff5e",
-        "url": "https://open.spotify.com/album/2imXyePzAn9t5cfc9QWPwk"
+        "name": "Cult.",
+        "url": "https://open.spotify.com/album/5LB9Uee8CNhGPEIiyYOk0o"
       },
       "artists": [
         {
-          "name": "Hikaru Utada",
-          "url": "https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2"
+          "name": "natori",
+          "url": "https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu"
         }
       ],
-      "duration_ms": 254291,
-      "name": "Gold\u3000\uff5e\u307e\u305f\u9022\u3046\u65e5\u307e\u3067\uff5e",
-      "url": "https://open.spotify.com/track/6hasQfFdygcQow58WNA614"
+      "duration_ms": 268203,
+      "name": "Cult.",
+      "url": "https://open.spotify.com/track/2CBkM69RwTqvBe6xsvMn8M"
     },
     {
       "added_at": "2023-11-30 15:00:00",
@@ -903,18 +903,18 @@
     {
       "added_at": "2023-11-30 15:00:00",
       "album": {
-        "name": "\u98df\u5353",
-        "url": "https://open.spotify.com/album/6oRq5ENvDdVVcn2BwNGamE"
+        "name": "Gold\u3000\uff5e\u307e\u305f\u9022\u3046\u65e5\u307e\u3067\uff5e",
+        "url": "https://open.spotify.com/album/2imXyePzAn9t5cfc9QWPwk"
       },
       "artists": [
         {
-          "name": "natori",
-          "url": "https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu"
+          "name": "Hikaru Utada",
+          "url": "https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2"
         }
       ],
-      "duration_ms": 206107,
-      "name": "\u98df\u5353",
-      "url": "https://open.spotify.com/track/1ZgpUVfKTjbr5DjEMu3eQI"
+      "duration_ms": 254291,
+      "name": "Gold\u3000\uff5e\u307e\u305f\u9022\u3046\u65e5\u307e\u3067\uff5e",
+      "url": "https://open.spotify.com/track/6hasQfFdygcQow58WNA614"
     },
     {
       "added_at": "2023-11-30 15:00:00",
@@ -1003,18 +1003,18 @@
     {
       "added_at": "2023-11-30 15:00:00",
       "album": {
-        "name": "Yume",
-        "url": "https://open.spotify.com/album/0snrpSOntTb03Sd8XDPn78"
+        "name": "\u98df\u5353",
+        "url": "https://open.spotify.com/album/6oRq5ENvDdVVcn2BwNGamE"
       },
       "artists": [
         {
-          "name": "Lamp",
-          "url": "https://open.spotify.com/artist/0rFHElzeddB9ymDjgpBENX"
+          "name": "natori",
+          "url": "https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu"
         }
       ],
-      "duration_ms": 248341,
-      "name": "A Toshi no Aki",
-      "url": "https://open.spotify.com/track/2QmfEczZyFTRhXJ9F81EP2"
+      "duration_ms": 206107,
+      "name": "\u98df\u5353",
+      "url": "https://open.spotify.com/track/1ZgpUVfKTjbr5DjEMu3eQI"
     },
     {
       "added_at": "2023-11-30 15:00:00",
@@ -1035,18 +1035,18 @@
     {
       "added_at": "2023-11-30 15:00:00",
       "album": {
-        "name": "Cult.",
-        "url": "https://open.spotify.com/album/5LB9Uee8CNhGPEIiyYOk0o"
+        "name": "Yume",
+        "url": "https://open.spotify.com/album/0snrpSOntTb03Sd8XDPn78"
       },
       "artists": [
         {
-          "name": "natori",
-          "url": "https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu"
+          "name": "Lamp",
+          "url": "https://open.spotify.com/artist/0rFHElzeddB9ymDjgpBENX"
         }
       ],
-      "duration_ms": 268203,
-      "name": "Cult.",
-      "url": "https://open.spotify.com/track/2CBkM69RwTqvBe6xsvMn8M"
+      "duration_ms": 248341,
+      "name": "A Toshi no Aki",
+      "url": "https://open.spotify.com/track/2QmfEczZyFTRhXJ9F81EP2"
     },
     {
       "added_at": "2023-11-30 15:00:00",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2023-11-30 15:00:00",
       "album": {
-        "name": "happy im",
-        "url": "https://open.spotify.com/album/7w5kjOOIpou1Aat626u6ZI"
-      },
-      "artists": [
-        {
-          "name": "UMI",
-          "url": "https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde"
-        }
-      ],
-      "duration_ms": 174518,
-      "name": "happy im",
-      "url": "https://open.spotify.com/track/6Za2226TkUi5miWrAnUy5k"
-    },
-    {
-      "added_at": "2023-11-30 15:00:00",
-      "album": {
         "name": "\u6c38\u9060\u306e\u30d6\u30eb\u30fc",
         "url": "https://open.spotify.com/album/467z72afv2XBxXxaXrVOfo"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 228573,
       "name": "\u6c38\u9060\u306e\u30d6\u30eb\u30fc",
       "url": "https://open.spotify.com/track/1MsgOy65pxeU7BZkDvqItH"
+    },
+    {
+      "added_at": "2023-11-30 15:00:00",
+      "album": {
+        "name": "happy im",
+        "url": "https://open.spotify.com/album/7w5kjOOIpou1Aat626u6ZI"
+      },
+      "artists": [
+        {
+          "name": "UMI",
+          "url": "https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde"
+        }
+      ],
+      "duration_ms": 174518,
+      "name": "happy im",
+      "url": "https://open.spotify.com/track/6Za2226TkUi5miWrAnUy5k"
     },
     {
       "added_at": "2023-11-30 15:00:00",
@@ -1739,30 +1739,6 @@
     {
       "added_at": "2023-11-30 15:00:00",
       "album": {
-        "name": "Two Kites",
-        "url": "https://open.spotify.com/album/4mzQC5WPtOwkISn8ogQXCp"
-      },
-      "artists": [
-        {
-          "name": "STUTS",
-          "url": "https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d"
-        },
-        {
-          "name": "Noi Naa",
-          "url": "https://open.spotify.com/artist/6pGbf7xv8t7Qt2HYWceGm2"
-        },
-        {
-          "name": "YONLAPA",
-          "url": "https://open.spotify.com/artist/65IzDDRlZuKIBe0QCG68Cu"
-        }
-      ],
-      "duration_ms": 166206,
-      "name": "Two Kites",
-      "url": "https://open.spotify.com/track/7r3nlllhf2XYp1Qkh8Tu80"
-    },
-    {
-      "added_at": "2023-11-30 15:00:00",
-      "album": {
         "name": "Chaos engineering",
         "url": "https://open.spotify.com/album/52nu2yZuWpYmFOZJYwUAII"
       },
@@ -1795,6 +1771,30 @@
       "duration_ms": 197029,
       "name": "We'll be fine - English Version",
       "url": "https://open.spotify.com/track/0ERAunIaPLwrD7tI929t1q"
+    },
+    {
+      "added_at": "2023-11-30 15:00:00",
+      "album": {
+        "name": "Two Kites",
+        "url": "https://open.spotify.com/album/4mzQC5WPtOwkISn8ogQXCp"
+      },
+      "artists": [
+        {
+          "name": "STUTS",
+          "url": "https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d"
+        },
+        {
+          "name": "Noi Naa",
+          "url": "https://open.spotify.com/artist/6pGbf7xv8t7Qt2HYWceGm2"
+        },
+        {
+          "name": "YONLAPA",
+          "url": "https://open.spotify.com/artist/65IzDDRlZuKIBe0QCG68Cu"
+        }
+      ],
+      "duration_ms": 166206,
+      "name": "Two Kites",
+      "url": "https://open.spotify.com/track/7r3nlllhf2XYp1Qkh8Tu80"
     }
   ],
   "unique_name": "Tokyo Rising",

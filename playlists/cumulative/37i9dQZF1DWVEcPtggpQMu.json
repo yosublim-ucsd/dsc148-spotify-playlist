@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Only the hottest South African rap from the streets. Cover: <a href=\"https://open.spotify.com/artist/7JnVA6sPhYeTpLoWd5DvTz?si=C--l_cL9S4GUg8C_OXKatg\">Espiquet</a>, <a href=\"https://open.spotify.com/artist/0JwjW1x56tK5hnHvlRSSw9?si=4XI4Y1i_TzORU1_2gzmm5A\">TOSS</a>",
+  "description": "Only the hottest South African rap from the streets. Cover: <a href=\"https://open.spotify.com/artist/2D70qn16njNHR9H5hP8rPo?si=GvncPRz0TayLmzXkdapeUQ\">uSanele</a>",
   "name": "Mzansi Raps",
   "tracks": [
     {
@@ -506,6 +506,24 @@
       "duration_ms": 235572,
       "name": "After All",
       "url": "https://open.spotify.com/track/6GM6JPHKo4GaBcgdG7XadT"
+    },
+    {
+      "album": {
+        "name": "Again",
+        "url": "https://open.spotify.com/album/6CdpTnzRWEUiJpqb7zr2w9"
+      },
+      "artists": [
+        {
+          "name": "Blaklez",
+          "url": "https://open.spotify.com/artist/002eDhqXlxtQHdaIKXyf3H"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217959,
+      "name": "Again",
+      "url": "https://open.spotify.com/track/4tKb1Si7aVoV4EeTRA9wnI"
     },
     {
       "album": {
@@ -1098,10 +1116,28 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 159946,
       "name": "Back In",
       "url": "https://open.spotify.com/track/4XTyp3Pw4R1PZm15CPiwVY"
+    },
+    {
+      "album": {
+        "name": "Back Into It",
+        "url": "https://open.spotify.com/album/2p3kYxinqZYCrQaHWiF4gT"
+      },
+      "artists": [
+        {
+          "name": "Blxckie",
+          "url": "https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162646,
+      "name": "Back Into It",
+      "url": "https://open.spotify.com/track/3Kyr9vr7VP2NLc9lBqxQFZ"
     },
     {
       "album": {
@@ -2268,6 +2304,32 @@
       "duration_ms": 143376,
       "name": "Can\u2019t Imagine",
       "url": "https://open.spotify.com/track/0rnpL28BY6fgO5ZYZnAwT6"
+    },
+    {
+      "album": {
+        "name": "Cape Town",
+        "url": "https://open.spotify.com/album/2MgcUw3rLz6pv04pW105ii"
+      },
+      "artists": [
+        {
+          "name": "VERBB",
+          "url": "https://open.spotify.com/artist/7btDUoOpCkFj1zrIEZKL1b"
+        },
+        {
+          "name": "RAF DON",
+          "url": "https://open.spotify.com/artist/5HwVzGSClc5RsQBjkTE4Aq"
+        },
+        {
+          "name": "YoungstaCPT",
+          "url": "https://open.spotify.com/artist/3QYKq7aMSiAu6gvfwNNFsv"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161495,
+      "name": "Cape Town",
+      "url": "https://open.spotify.com/track/5SgdmfnKvwzFfFuNNlm8M1"
     },
     {
       "album": {
@@ -4306,6 +4368,28 @@
       "duration_ms": 240327,
       "name": "GIVE IT ALL",
       "url": "https://open.spotify.com/track/46h458VF2f9hLopjF460O6"
+    },
+    {
+      "album": {
+        "name": "GIVE ME LIFE (feat. Frank Casino)",
+        "url": "https://open.spotify.com/album/11lG7fE1wqeZ00uZW1mByp"
+      },
+      "artists": [
+        {
+          "name": "KashCPT, Priddy Ugly & MashBeatz",
+          "url": "https://open.spotify.com/artist/6J8uGIWGtcw86YauFIUwst"
+        },
+        {
+          "name": "Frank Casino",
+          "url": "https://open.spotify.com/artist/4wVM2SOjXuCEUuTi7lln9x"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166054,
+      "name": "GIVE ME LIFE (feat. Frank Casino)",
+      "url": "https://open.spotify.com/track/09dpMSrST3NHgTbQqrSBjn"
     },
     {
       "album": {
@@ -8129,6 +8213,28 @@
     },
     {
       "album": {
+        "name": "Nkalakatha (feat. Emtee)",
+        "url": "https://open.spotify.com/album/4lrIIZY6tx08I0EMxHmQoO"
+      },
+      "artists": [
+        {
+          "name": "Saudi",
+          "url": "https://open.spotify.com/artist/37Qsf5KCKljH7mL134xp4k"
+        },
+        {
+          "name": "Emtee",
+          "url": "https://open.spotify.com/artist/6U3gCOvxVWKBxXItqp3mdr"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224175,
+      "name": "Nkalakatha (feat. Emtee)",
+      "url": "https://open.spotify.com/track/7vgCQjOx8srjA2Uia28ebq"
+    },
+    {
+      "album": {
         "name": "Nkeleketla",
         "url": "https://open.spotify.com/album/5WxSXbbdt4XlFgOyoDBQX5"
       },
@@ -9770,6 +9876,28 @@
       "duration_ms": 199389,
       "name": "Runaway",
       "url": "https://open.spotify.com/track/1L2d6wOaEgjx8i5wc7cs5d"
+    },
+    {
+      "album": {
+        "name": "Runnin' Back (feat. Sauwcy)",
+        "url": "https://open.spotify.com/album/7qpt1CQFBRTyWmW9JurD0o"
+      },
+      "artists": [
+        {
+          "name": "Nadia Nakai",
+          "url": "https://open.spotify.com/artist/4J1EvxzABwLaJP4NmOqV8r"
+        },
+        {
+          "name": "Sauwcy",
+          "url": "https://open.spotify.com/artist/5l6YmGmyUQPVN1zT2vd3sN"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177999,
+      "name": "Runnin' Back (feat. Sauwcy)",
+      "url": "https://open.spotify.com/track/5aUEEg5t2pewsDNnbKdOir"
     },
     {
       "album": {
@@ -12345,6 +12473,28 @@
     },
     {
       "album": {
+        "name": "Classified: Music from the Original Series",
+        "url": "https://open.spotify.com/album/4X0DczqrrX8ikOG8oYdQZn"
+      },
+      "artists": [
+        {
+          "name": "Zethu Mashika",
+          "url": "https://open.spotify.com/artist/5He1X4RgcZuQ8J2LtstHvq"
+        },
+        {
+          "name": "ShabZi Madallion",
+          "url": "https://open.spotify.com/artist/2wcGy5rVSwCIbgt9YCl4eZ"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157241,
+      "name": "Tip of the Spear (Main Title)",
+      "url": "https://open.spotify.com/track/5hlgScQ9xyt2YmMME9G1TP"
+    },
+    {
+      "album": {
         "name": "Titanic",
         "url": "https://open.spotify.com/album/5KTXMqWbBAUbqeahg01HLh"
       },
@@ -12964,6 +13114,24 @@
       "duration_ms": 226914,
       "name": "Up To",
       "url": "https://open.spotify.com/track/4iY5WNI5CnUO47RJdiRGKO"
+    },
+    {
+      "album": {
+        "name": "uSANELEIGHOST",
+        "url": "https://open.spotify.com/album/6EI2HQMB3YBkATAUSLhQC4"
+      },
+      "artists": [
+        {
+          "name": "uSanele",
+          "url": "https://open.spotify.com/artist/2D70qn16njNHR9H5hP8rPo"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163333,
+      "name": "uSANELEIGHOST",
+      "url": "https://open.spotify.com/track/0fSYV7Fu6icGmEuX9f2Ywy"
     },
     {
       "album": {

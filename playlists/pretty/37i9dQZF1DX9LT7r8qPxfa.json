@@ -1,12 +1,12 @@
 {
   "description": "deep & dark. bold & bare. cover: Samia",
-  "num_followers": 261639,
+  "num_followers": 261675,
   "original_name": "noir",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMjM0NzNhZDU0YmQxNDNhNDE1YTM1MDE0MGM1NTRjMjBkZmMyOTc2",
+  "snapshot_id": "MCw2OGZhODEyMzRkMDYzNTNmNjA0ZDI1OTg4MGY0YWNkY2E4NDQxMjM4",
   "tracks": [
     {
       "added_at": "2023-10-13 19:48:40",
@@ -607,6 +607,22 @@
     {
       "added_at": "2023-10-13 19:48:40",
       "album": {
+        "name": "No Burden",
+        "url": "https://open.spotify.com/album/7lQ9R31OcTvMn2MojAuKVE"
+      },
+      "artists": [
+        {
+          "name": "Lucy Dacus",
+          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
+        }
+      ],
+      "duration_ms": 175777,
+      "name": "...Familiar Place",
+      "url": "https://open.spotify.com/track/0rHMGnd6wIgaF67ANAVdyC"
+    },
+    {
+      "added_at": "2023-10-13 19:48:40",
+      "album": {
         "name": "Something American",
         "url": "https://open.spotify.com/album/4mJFBVR1HjNGm1sYIHpBb2"
       },
@@ -635,22 +651,6 @@
       "duration_ms": 252413,
       "name": "Swimming",
       "url": "https://open.spotify.com/track/0HVxfx5x8dZSTaK7EnIByn"
-    },
-    {
-      "added_at": "2023-10-13 19:48:40",
-      "album": {
-        "name": "No Burden",
-        "url": "https://open.spotify.com/album/7lQ9R31OcTvMn2MojAuKVE"
-      },
-      "artists": [
-        {
-          "name": "Lucy Dacus",
-          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
-        }
-      ],
-      "duration_ms": 175777,
-      "name": "...Familiar Place",
-      "url": "https://open.spotify.com/track/0rHMGnd6wIgaF67ANAVdyC"
     },
     {
       "added_at": "2023-10-13 19:48:40",
@@ -703,22 +703,6 @@
     {
       "added_at": "2023-10-13 19:48:40",
       "album": {
-        "name": "BREACH",
-        "url": "https://open.spotify.com/album/0KsNopmZLaB71o6i2nw95I"
-      },
-      "artists": [
-        {
-          "name": "Fenne Lily",
-          "url": "https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext"
-        }
-      ],
-      "duration_ms": 219680,
-      "name": "Berlin",
-      "url": "https://open.spotify.com/track/7tbR2WSnuTUOGgkUQiAupD"
-    },
-    {
-      "added_at": "2023-10-13 19:48:40",
-      "album": {
         "name": "Skullcrusher",
         "url": "https://open.spotify.com/album/5pUNogl9gZPjnSkpfT8jxu"
       },
@@ -735,18 +719,18 @@
     {
       "added_at": "2023-10-13 19:48:40",
       "album": {
-        "name": "Something American",
-        "url": "https://open.spotify.com/album/4mJFBVR1HjNGm1sYIHpBb2"
+        "name": "BREACH",
+        "url": "https://open.spotify.com/album/0KsNopmZLaB71o6i2nw95I"
       },
       "artists": [
         {
-          "name": "Jade Bird",
-          "url": "https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S"
+          "name": "Fenne Lily",
+          "url": "https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext"
         }
       ],
-      "duration_ms": 170391,
-      "name": "Cathedral",
-      "url": "https://open.spotify.com/track/2LAgQExTmwYpcrvXJdE2iT"
+      "duration_ms": 219680,
+      "name": "Berlin",
+      "url": "https://open.spotify.com/track/7tbR2WSnuTUOGgkUQiAupD"
     },
     {
       "added_at": "2023-10-13 19:48:40",
@@ -783,18 +767,18 @@
     {
       "added_at": "2023-10-13 19:48:40",
       "album": {
-        "name": "Fine Line / Eat The Acid",
-        "url": "https://open.spotify.com/album/3RBAnTbN7fcba7VRpQi14P"
+        "name": "Something American",
+        "url": "https://open.spotify.com/album/4mJFBVR1HjNGm1sYIHpBb2"
       },
       "artists": [
         {
-          "name": "Kesha",
-          "url": "https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX"
+          "name": "Jade Bird",
+          "url": "https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S"
         }
       ],
-      "duration_ms": 242240,
-      "name": "Eat The Acid",
-      "url": "https://open.spotify.com/track/7IaZ2WDYVYi0OImUNQm6Vl"
+      "duration_ms": 170391,
+      "name": "Cathedral",
+      "url": "https://open.spotify.com/track/2LAgQExTmwYpcrvXJdE2iT"
     },
     {
       "added_at": "2023-10-13 19:48:40",
@@ -831,6 +815,22 @@
     {
       "added_at": "2023-10-13 19:48:40",
       "album": {
+        "name": "Fine Line / Eat The Acid",
+        "url": "https://open.spotify.com/album/3RBAnTbN7fcba7VRpQi14P"
+      },
+      "artists": [
+        {
+          "name": "Kesha",
+          "url": "https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX"
+        }
+      ],
+      "duration_ms": 242240,
+      "name": "Eat The Acid",
+      "url": "https://open.spotify.com/track/7IaZ2WDYVYi0OImUNQm6Vl"
+    },
+    {
+      "added_at": "2023-10-13 19:48:40",
+      "album": {
         "name": "one hand on the steering wheel the other sewing a garden",
         "url": "https://open.spotify.com/album/0ulrUoMnkAdxqX80c0dkfF"
       },
@@ -843,6 +843,22 @@
       "duration_ms": 261173,
       "name": "damn",
       "url": "https://open.spotify.com/track/5mgWktGBliaIdAaBtZ8ff3"
+    },
+    {
+      "added_at": "2023-10-13 19:48:40",
+      "album": {
+        "name": "Are We There",
+        "url": "https://open.spotify.com/album/6EQWzHbd3EYO8J4EAIJst4"
+      },
+      "artists": [
+        {
+          "name": "Sharon Van Etten",
+          "url": "https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe"
+        }
+      ],
+      "duration_ms": 290613,
+      "name": "Tarifa",
+      "url": "https://open.spotify.com/track/5rm0BXilbprpZiBFFJgiFu"
     },
     {
       "added_at": "2023-10-13 19:48:40",
@@ -863,22 +879,6 @@
       "duration_ms": 204520,
       "name": "Seventeen Again (feat. Novo Amor)",
       "url": "https://open.spotify.com/track/1BJicMsGWyW8xTQb22N8Ye"
-    },
-    {
-      "added_at": "2023-10-13 19:48:40",
-      "album": {
-        "name": "Are We There",
-        "url": "https://open.spotify.com/album/6EQWzHbd3EYO8J4EAIJst4"
-      },
-      "artists": [
-        {
-          "name": "Sharon Van Etten",
-          "url": "https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe"
-        }
-      ],
-      "duration_ms": 290613,
-      "name": "Tarifa",
-      "url": "https://open.spotify.com/track/5rm0BXilbprpZiBFFJgiFu"
     },
     {
       "added_at": "2023-10-13 19:48:40",
@@ -951,22 +951,6 @@
     {
       "added_at": "2023-10-13 19:48:40",
       "album": {
-        "name": "Coming Of Age pt. 1",
-        "url": "https://open.spotify.com/album/2QXM0eteTUsJ42k6T9fEEy"
-      },
-      "artists": [
-        {
-          "name": "Maddie Medley",
-          "url": "https://open.spotify.com/artist/03JEWIBjHgE7jGqQZvG7k3"
-        }
-      ],
-      "duration_ms": 261475,
-      "name": "Buzz",
-      "url": "https://open.spotify.com/track/2HJfsvk8GKk6qCGLG8cMCA"
-    },
-    {
-      "added_at": "2023-10-13 19:48:40",
-      "album": {
         "name": "Here Goes Nothing!",
         "url": "https://open.spotify.com/album/5GAuXiCpLD3PL7KLKT5AAt"
       },
@@ -983,18 +967,18 @@
     {
       "added_at": "2023-10-13 19:48:40",
       "album": {
-        "name": "Wild Turkey",
-        "url": "https://open.spotify.com/album/7iaq4ZxNNKZl9v92lOxQ7N"
+        "name": "Coming Of Age pt. 1",
+        "url": "https://open.spotify.com/album/2QXM0eteTUsJ42k6T9fEEy"
       },
       "artists": [
         {
-          "name": "Amythyst Kiah",
-          "url": "https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl"
+          "name": "Maddie Medley",
+          "url": "https://open.spotify.com/artist/03JEWIBjHgE7jGqQZvG7k3"
         }
       ],
-      "duration_ms": 272080,
-      "name": "Wild Turkey",
-      "url": "https://open.spotify.com/track/4aX4dqpYXTxRMTcjekxPyp"
+      "duration_ms": 261475,
+      "name": "Buzz",
+      "url": "https://open.spotify.com/track/2HJfsvk8GKk6qCGLG8cMCA"
     },
     {
       "added_at": "2023-10-13 19:48:40",
@@ -1011,6 +995,22 @@
       "duration_ms": 192000,
       "name": "Silk",
       "url": "https://open.spotify.com/track/6KHJTplNOsm1hVGzCCPZ7m"
+    },
+    {
+      "added_at": "2023-10-13 19:48:40",
+      "album": {
+        "name": "Wild Turkey",
+        "url": "https://open.spotify.com/album/7iaq4ZxNNKZl9v92lOxQ7N"
+      },
+      "artists": [
+        {
+          "name": "Amythyst Kiah",
+          "url": "https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl"
+        }
+      ],
+      "duration_ms": 272080,
+      "name": "Wild Turkey",
+      "url": "https://open.spotify.com/track/4aX4dqpYXTxRMTcjekxPyp"
     },
     {
       "added_at": "2023-10-13 19:48:40",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2023-10-13 19:48:40",
       "album": {
-        "name": "Aldous Harding",
-        "url": "https://open.spotify.com/album/3qNcM4FzzR7pT4JRNDqfyi"
-      },
-      "artists": [
-        {
-          "name": "Aldous Harding",
-          "url": "https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG"
-        }
-      ],
-      "duration_ms": 338639,
-      "name": "Stop Your Tears",
-      "url": "https://open.spotify.com/track/2zWAa5XkVa1yg756YauQHF"
-    },
-    {
-      "added_at": "2023-10-13 19:48:40",
-      "album": {
         "name": "Flight Risk EP",
         "url": "https://open.spotify.com/album/3WTRqQ60G0J3UEQPU57k1g"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 188615,
       "name": "Mortals",
       "url": "https://open.spotify.com/track/6SxCb6DNwXShYd6F2KcyBE"
+    },
+    {
+      "added_at": "2023-10-13 19:48:40",
+      "album": {
+        "name": "Aldous Harding",
+        "url": "https://open.spotify.com/album/3qNcM4FzzR7pT4JRNDqfyi"
+      },
+      "artists": [
+        {
+          "name": "Aldous Harding",
+          "url": "https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG"
+        }
+      ],
+      "duration_ms": 338639,
+      "name": "Stop Your Tears",
+      "url": "https://open.spotify.com/track/2zWAa5XkVa1yg756YauQHF"
     },
     {
       "added_at": "2023-10-13 19:48:40",
@@ -1239,26 +1239,6 @@
     {
       "added_at": "2023-10-13 19:48:40",
       "album": {
-        "name": "The Hardest Part",
-        "url": "https://open.spotify.com/album/3dlzxTH49iYilF7cLV1LK3"
-      },
-      "artists": [
-        {
-          "name": "Bre Kennedy",
-          "url": "https://open.spotify.com/artist/61oqMHI8QuFrE5Qt91uJAj"
-        },
-        {
-          "name": "Hadley Kennary",
-          "url": "https://open.spotify.com/artist/2Iskp0KzBnBOBDKrQbHo6f"
-        }
-      ],
-      "duration_ms": 260519,
-      "name": "The Hardest Part",
-      "url": "https://open.spotify.com/track/31CqZPvgv8VwjQK2jcLSEn"
-    },
-    {
-      "added_at": "2023-10-13 19:48:40",
-      "album": {
         "name": "Ignorance",
         "url": "https://open.spotify.com/album/3KeR5BDM2giFr8zoSXBrgE"
       },
@@ -1287,6 +1267,26 @@
       "duration_ms": 231670,
       "name": "Drown",
       "url": "https://open.spotify.com/track/1fw7XQl4AGxM8ppPAR6y2i"
+    },
+    {
+      "added_at": "2023-10-13 19:48:40",
+      "album": {
+        "name": "The Hardest Part",
+        "url": "https://open.spotify.com/album/3dlzxTH49iYilF7cLV1LK3"
+      },
+      "artists": [
+        {
+          "name": "Bre Kennedy",
+          "url": "https://open.spotify.com/artist/61oqMHI8QuFrE5Qt91uJAj"
+        },
+        {
+          "name": "Hadley Kennary",
+          "url": "https://open.spotify.com/artist/2Iskp0KzBnBOBDKrQbHo6f"
+        }
+      ],
+      "duration_ms": 260519,
+      "name": "The Hardest Part",
+      "url": "https://open.spotify.com/track/31CqZPvgv8VwjQK2jcLSEn"
     },
     {
       "added_at": "2023-10-13 19:48:40",
@@ -1323,18 +1323,18 @@
     {
       "added_at": "2023-10-13 19:48:40",
       "album": {
-        "name": "Grim Town",
-        "url": "https://open.spotify.com/album/2bvDcwRZacKz02UUAmF6Ns"
+        "name": "Sometimes I Sit and Think, and Sometimes I Just Sit",
+        "url": "https://open.spotify.com/album/6PosCDToF5fOdEjTI5PsDX"
       },
       "artists": [
         {
-          "name": "SOAK",
-          "url": "https://open.spotify.com/artist/4PLsMEk2DCRVlVL2a9aZAv"
+          "name": "Courtney Barnett",
+          "url": "https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y"
         }
       ],
-      "duration_ms": 270664,
-      "name": "Maybe",
-      "url": "https://open.spotify.com/track/1YeiQ89ozDpyfYydmiFGep"
+      "duration_ms": 182062,
+      "name": "Boxing Day Blues",
+      "url": "https://open.spotify.com/track/2jNQBuhta3lE0GFOqb4Eo9"
     },
     {
       "added_at": "2023-10-13 19:48:40",
@@ -1351,6 +1351,22 @@
       "duration_ms": 143674,
       "name": "Lincoln, Nebraska",
       "url": "https://open.spotify.com/track/3pEs3UIsXoLC75O66Uc31M"
+    },
+    {
+      "added_at": "2023-10-13 19:48:40",
+      "album": {
+        "name": "Grim Town",
+        "url": "https://open.spotify.com/album/2bvDcwRZacKz02UUAmF6Ns"
+      },
+      "artists": [
+        {
+          "name": "SOAK",
+          "url": "https://open.spotify.com/artist/4PLsMEk2DCRVlVL2a9aZAv"
+        }
+      ],
+      "duration_ms": 270664,
+      "name": "Maybe",
+      "url": "https://open.spotify.com/track/1YeiQ89ozDpyfYydmiFGep"
     },
     {
       "added_at": "2023-10-13 19:48:40",
@@ -1399,22 +1415,6 @@
       "duration_ms": 220060,
       "name": "More Than You Know - Recorded at Metropolis Studios, London",
       "url": "https://open.spotify.com/track/05ONwzNSWzywHG4wRT8V7o"
-    },
-    {
-      "added_at": "2023-10-13 19:48:40",
-      "album": {
-        "name": "Sometimes I Sit and Think, and Sometimes I Just Sit",
-        "url": "https://open.spotify.com/album/6PosCDToF5fOdEjTI5PsDX"
-      },
-      "artists": [
-        {
-          "name": "Courtney Barnett",
-          "url": "https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y"
-        }
-      ],
-      "duration_ms": 182062,
-      "name": "Boxing Day Blues",
-      "url": "https://open.spotify.com/track/2jNQBuhta3lE0GFOqb4Eo9"
     },
     {
       "added_at": "2023-10-13 19:48:40",
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2023-10-13 19:48:40",
       "album": {
-        "name": "L. A. Flame",
-        "url": "https://open.spotify.com/album/2uerpXtKAOWdGBQva8AroJ"
-      },
-      "artists": [
-        {
-          "name": "Anna Ash",
-          "url": "https://open.spotify.com/artist/1QyjHJQb3WeWFxXaNLpLOw"
-        }
-      ],
-      "duration_ms": 190946,
-      "name": "Earthquake",
-      "url": "https://open.spotify.com/track/2U0U5tUzmzAd0tjzvXwHqN"
-    },
-    {
-      "added_at": "2023-10-13 19:48:40",
-      "album": {
         "name": "Kitchen Table",
         "url": "https://open.spotify.com/album/7zTtcqJ0SCAXuiALhxNEi0"
       },
@@ -1543,6 +1527,22 @@
       "duration_ms": 236610,
       "name": "I\u2019ll Go Running",
       "url": "https://open.spotify.com/track/57S4atY7SJX3Tz5ugHNzNW"
+    },
+    {
+      "added_at": "2023-10-13 19:48:40",
+      "album": {
+        "name": "L. A. Flame",
+        "url": "https://open.spotify.com/album/2uerpXtKAOWdGBQva8AroJ"
+      },
+      "artists": [
+        {
+          "name": "Anna Ash",
+          "url": "https://open.spotify.com/artist/1QyjHJQb3WeWFxXaNLpLOw"
+        }
+      ],
+      "duration_ms": 190946,
+      "name": "Earthquake",
+      "url": "https://open.spotify.com/track/2U0U5tUzmzAd0tjzvXwHqN"
     },
     {
       "added_at": "2023-10-13 19:48:40",

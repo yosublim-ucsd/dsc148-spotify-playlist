@@ -4,7 +4,7 @@
 
 > The ultimate chilled soundtrack to bring your day to a close.
 
-160 songs - 12 hr 33 min
+161 songs - 12 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,7 +70,7 @@
 | [Into The Sun \- Worship Mix](https://open.spotify.com/track/6MqXTcm1lIDsSICsT9chfJ) | [Damian Lazarus](https://open.spotify.com/artist/3EIJ8wiUHbgkRCt5cpRrQv), [Jem Cooke](https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH) | [Into The Sun \(Worship Mix\)](https://open.spotify.com/album/4QAzZV3QvdpJon6FsGKCeX) | 3:36 | 2021-10-15 | 2022-07-29 |
 | [Is It True \- Four Tet Remix](https://open.spotify.com/track/5Yc2SVCeXXcDdALmmXIslb) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb), [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Is It True \(Four Tet Remix\)](https://open.spotify.com/album/35qrfQOhXIFZoLq9gNEUXM) | 5:25 | 2021-10-15 |  |
 | [It's up to Me](https://open.spotify.com/track/0DKoGYBIfxb7PYz9FKu4fx) | [Chaos In The CBD](https://open.spotify.com/artist/0QOQc6jEsPX5Y45TV0hXQy), [Lee Pearson Jr\. Collective](https://open.spotify.com/artist/49E2C6RG0oMzrYzcBBsTsQ), [K LaDawn](https://open.spotify.com/artist/4mabyxDOpBHXvY2cBe0Bwm), [Joe Armon\-Jones](https://open.spotify.com/artist/5mUcc8OOP4RuzrupeGYwW5) | [Chaos in the CBD & Friends](https://open.spotify.com/album/52gDijfKDkvRQiqtSmWiq8) | 5:08 | 2021-10-15 | 2023-09-02 |
-| [Its me \( g 8 \)](https://open.spotify.com/track/3dC6yRjocmprQqEYvv72Ft) | [Actress](https://open.spotify.com/artist/3bg5rmICvmA8dmYVAdKGYH) | [Its me \( g 8 \) / Oway \( f 7 \)](https://open.spotify.com/album/6rZTJHYLDsA564tCn9kEJ9) | 5:17 | 2023-11-17 |  |
+| [Its me \( g 8 \)](https://open.spotify.com/track/3dC6yRjocmprQqEYvv72Ft) | [Actress](https://open.spotify.com/artist/3bg5rmICvmA8dmYVAdKGYH) | [Its me \( g 8 \) / Oway \( f 7 \)](https://open.spotify.com/album/6rZTJHYLDsA564tCn9kEJ9) | 5:17 | 2023-11-17 | 2023-12-02 |
 | [K.I.S.S.E.S](https://open.spotify.com/track/2ojgRKZJ1oRREcNQIYVnX4) | [Bent](https://open.spotify.com/artist/59xljcfdN2Z9VX2U5RFKEa) | [Best Of](https://open.spotify.com/album/6lqVWHv7vKDrMhTgrNFwkM) | 5:15 | 2022-07-20 | 2023-02-17 |
 | [K.I.S.S.E.S](https://open.spotify.com/track/4x33ILvfNnTtfhjZYh0A47) | [Bent](https://open.spotify.com/artist/59xljcfdN2Z9VX2U5RFKEa) | [Best of \(Deluxe Edition\)](https://open.spotify.com/album/4yOQn7oQMNzEtZDADBXtNq) | 5:15 | 2022-07-20 | 2023-09-22 |
 | [Keep You Kimi](https://open.spotify.com/track/3PlISmMU7prdRBG6zLcGfi) | [Hird](https://open.spotify.com/artist/33nGdwPVGbU7cFuIh9OnTu), [Yukimi Nagano](https://open.spotify.com/artist/34U611pEEfxLSRX3NIPcHf) | [Moving On](https://open.spotify.com/album/6GNseXyli2wXaeg7LMJVat) | 6:28 | 2022-07-20 | 2022-10-09 |
@@ -134,6 +134,7 @@
 | [Smoke](https://open.spotify.com/track/5aEQCT6F0l7mxkwO5D8pr9) | [DYVR](https://open.spotify.com/artist/292LoDesUxUnxLysrHrajc) | [Smoke](https://open.spotify.com/album/6NxCwLZC6Mvw4VRnG8u7Vq) | 3:34 | 2021-10-15 | 2023-11-17 |
 | [So Easy](https://open.spotify.com/track/4MY8NLRDPXKn6CCsGLweLL) | [Röyksopp](https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH) | [Melody A.M.](https://open.spotify.com/album/4WOZU9evfEO7eI6ICsoGN0) | 4:09 | 2022-07-20 | 2023-11-17 |
 | [Something Else \(feat\. Ruby Wood\)](https://open.spotify.com/track/3BKghOKZUX9SjpuYNmakoa) | [Jasper Tygner](https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh), [Ruby Wood](https://open.spotify.com/artist/14FrbNpLYAjES262b8kphK) | [Something Else \(feat\. Ruby Wood\)](https://open.spotify.com/album/5z86LgFvCwpGzF7wxPAj5j) | 4:39 | 2021-10-15 | 2022-07-27 |
+| [Something More \(Edit\)](https://open.spotify.com/track/4Gyar4tKonu5h1nBlczq7z) | [Róisín Murphy](https://open.spotify.com/artist/3qwabfaWewpfli7hMNM3O8) | [Something More](https://open.spotify.com/album/2ySEmEE4ZIXGt6xiRIObIx) | 4:00 | 2023-11-17 |  |
 | [Something More \- Edit](https://open.spotify.com/track/2Pq87UGextV8ChmTw6SQyY) | [Róisín Murphy](https://open.spotify.com/artist/3qwabfaWewpfli7hMNM3O8) | [Something More](https://open.spotify.com/album/2bodaZ8TwVH6MLqCE8X0OK) | 4:00 | 2021-10-15 | 2022-07-21 |
 | [Sonder](https://open.spotify.com/track/2wynpXzuXf6Cvf2MqHYA9Z) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [More Content](https://open.spotify.com/album/3Sl6q9q5oRkU5fD3V9SNyQ) | 3:01 | 2022-07-20 |  |
 | [Summer In The Ends](https://open.spotify.com/track/3ttIBQv2qjIWXbHeoCnoVm) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [Jaz Karis](https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I), [George The Poet](https://open.spotify.com/artist/7v8N36cC4msGrIM2YT4LNC) | [Sounds of My World](https://open.spotify.com/album/2Mju5QRHhBPkUQajYKTUSH) | 4:47 | 2021-10-15 |  |

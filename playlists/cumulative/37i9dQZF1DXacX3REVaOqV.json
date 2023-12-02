@@ -289,6 +289,24 @@
     },
     {
       "album": {
+        "name": "20 Years Of Phonica (Digital Sampler 1)",
+        "url": "https://open.spotify.com/album/7DyM3C98sT7ssDZuMGyabj"
+      },
+      "artists": [
+        {
+          "name": "Dam Swindle",
+          "url": "https://open.spotify.com/artist/6hJtgCB3L5cnJSND7sp6GU"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 484795,
+      "name": "Allright (Just A Tribute)",
+      "url": "https://open.spotify.com/track/335FKrShvaqwh2oVphhLHn"
+    },
+    {
+      "album": {
         "name": "Amen",
         "url": "https://open.spotify.com/album/0NNSo8xg8fQT4dzTW8c9lt"
       },
@@ -476,6 +494,28 @@
       "duration_ms": 165833,
       "name": "Back To Love",
       "url": "https://open.spotify.com/track/7bgg6TYXN8OCHDli94lOKe"
+    },
+    {
+      "album": {
+        "name": "Back To The 00s",
+        "url": "https://open.spotify.com/album/7AsNZZrJHooqb8GgjnPQ7a"
+      },
+      "artists": [
+        {
+          "name": "Tagmann",
+          "url": "https://open.spotify.com/artist/12mvXbSB0GrbiXeqbh2Is7"
+        },
+        {
+          "name": "Sem Jacobs",
+          "url": "https://open.spotify.com/artist/4IDxbXfz5yMK7OGD4sdRjt"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195937,
+      "name": "Back To The 00s",
+      "url": "https://open.spotify.com/track/5v0YaYtm8CCdyhBuv3tOBi"
     },
     {
       "album": {
@@ -2524,7 +2564,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 212086,
       "name": "Hear The Voices - Edit",
       "url": "https://open.spotify.com/track/1KrNQ6NSSIGVN1O9laLnye"
@@ -4330,7 +4370,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 217741,
       "name": "Move On Up",
       "url": "https://open.spotify.com/track/4lCXIbRAJLIUiiwEXRr9NM"
@@ -4598,7 +4638,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 241875,
       "name": "Nice To Arise - Edit",
       "url": "https://open.spotify.com/track/6KKA6rp9TD7s7F4ck8SGW4"
@@ -7184,6 +7224,28 @@
       "duration_ms": 379932,
       "name": "We Are The One",
       "url": "https://open.spotify.com/track/6DP4GiIbMupB6X9aExpLTT"
+    },
+    {
+      "album": {
+        "name": "What You Gonna Do",
+        "url": "https://open.spotify.com/album/7vdyYBkfJqXmnUzXsxECJK"
+      },
+      "artists": [
+        {
+          "name": "ELIA",
+          "url": "https://open.spotify.com/artist/0t2RtejVOID76P2r4iqEzV"
+        },
+        {
+          "name": "Melissa de Kleine",
+          "url": "https://open.spotify.com/artist/1ke8Nab14PYpjaW2OolICA"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247500,
+      "name": "What You Gonna Do",
+      "url": "https://open.spotify.com/track/2e8DHrgHFGnaJ7rjLeVqbr"
     },
     {
       "album": {

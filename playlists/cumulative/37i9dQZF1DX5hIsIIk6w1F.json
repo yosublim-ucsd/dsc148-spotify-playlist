@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-26",
-  "description": "Este Flow tiene otro Flow. Foto: Pailita & Marcianeke.",
+  "description": "Este Flow tiene otro Flow. Foto: Lucky Brown & Nickoog Clk.",
   "name": "Reggaet\u00f3n Chileno",
   "tracks": [
     {
@@ -849,6 +849,32 @@
     },
     {
       "album": {
+        "name": "Ay Parcera",
+        "url": "https://open.spotify.com/album/5Im7bFsHrLifc3nV74NReN"
+      },
+      "artists": [
+        {
+          "name": "Lucky Brown",
+          "url": "https://open.spotify.com/artist/11HepfI1lj6KJHj651rZhM"
+        },
+        {
+          "name": "Nickoog Clk",
+          "url": "https://open.spotify.com/artist/6rHwFb0YjWexAYxTjm4eIj"
+        },
+        {
+          "name": "Mateo on the Beatz",
+          "url": "https://open.spotify.com/artist/07WSqyexqFJM0ZeQVPqJJg"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163200,
+      "name": "Ay Parcera",
+      "url": "https://open.spotify.com/track/2CYVgRF6iPi94zMrJC4b2d"
+    },
+    {
+      "album": {
         "name": "Baby",
         "url": "https://open.spotify.com/album/3ix6PDWD6BLx8jJ1RVrKSz"
       },
@@ -1216,7 +1242,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 132244,
       "name": "BELLAKITA",
       "url": "https://open.spotify.com/track/2l58pc9aJRjkoj5RcesCJF"
@@ -2681,6 +2707,24 @@
     },
     {
       "album": {
+        "name": "Diablita",
+        "url": "https://open.spotify.com/album/7gQSz1UFCEOeCXDDOStL1k"
+      },
+      "artists": [
+        {
+          "name": "Punto40",
+          "url": "https://open.spotify.com/artist/2C1Pj5TMq8QjqbwQ4tmDtO"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222640,
+      "name": "Diablita",
+      "url": "https://open.spotify.com/track/5O8fzQMf083qvummgvzXe2"
+    },
+    {
+      "album": {
         "name": "Dias Tristes",
         "url": "https://open.spotify.com/album/5y4XdL2YUwXgS1RenyB4re"
       },
@@ -3248,7 +3292,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 141843,
       "name": "En 4",
       "url": "https://open.spotify.com/track/5eBVwJIJQY5amfYluJ8FF0"
@@ -4648,7 +4692,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 192244,
       "name": "Humilde, Flaite y Sencillo",
       "url": "https://open.spotify.com/track/1kAar44j6QmeO2kxUKzcRo"
@@ -5351,6 +5395,28 @@
     },
     {
       "album": {
+        "name": "Le Gustan lo' Flaites",
+        "url": "https://open.spotify.com/album/7F0QdDugWW1NkQBtQXhFkx"
+      },
+      "artists": [
+        {
+          "name": "El Joan",
+          "url": "https://open.spotify.com/artist/4d7tFHxzWvzfsgCqPAEOSQ"
+        },
+        {
+          "name": "Celso El Potente",
+          "url": "https://open.spotify.com/artist/7psSmcUfVtqIeuWKKd8Md2"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183328,
+      "name": "Le Gustan lo' Flaites",
+      "url": "https://open.spotify.com/track/1smRP4zRit7A6ZDQXkFJWC"
+    },
+    {
+      "album": {
         "name": "Lealtad",
         "url": "https://open.spotify.com/album/0BoBWylVM8TP3tttPIixke"
       },
@@ -5366,6 +5432,28 @@
       "duration_ms": 167812,
       "name": "Lealtad",
       "url": "https://open.spotify.com/track/6OsU20ogLqpSbNGAbMY9se"
+    },
+    {
+      "album": {
+        "name": "Lento",
+        "url": "https://open.spotify.com/album/0FmvrNa2Pvt0EyjWyACICu"
+      },
+      "artists": [
+        {
+          "name": "Pailita",
+          "url": "https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb"
+        },
+        {
+          "name": "Reelian",
+          "url": "https://open.spotify.com/artist/66wHtvzEVcFJhCsy31SXMw"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168215,
+      "name": "Lento",
+      "url": "https://open.spotify.com/track/6jdLwmDuP0B5is9B0wCrYT"
     },
     {
       "album": {
@@ -7081,6 +7169,28 @@
     },
     {
       "album": {
+        "name": "Minnie <3",
+        "url": "https://open.spotify.com/album/4Uyu0NIsdhY3HUpteAKFIa"
+      },
+      "artists": [
+        {
+          "name": "Kidd Voodoo",
+          "url": "https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4"
+        },
+        {
+          "name": "Daiko 02",
+          "url": "https://open.spotify.com/artist/7HyrZUMEfu8eTF2iN5iP7T"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232653,
+      "name": "Minnie <3",
+      "url": "https://open.spotify.com/track/68uKmFCHsrjSpaCUCzVlqW"
+    },
+    {
+      "album": {
         "name": "Pa K Te Enamore",
         "url": "https://open.spotify.com/album/1b1MIUkBs4F7Mhhx59Sbql"
       },
@@ -8098,7 +8208,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 160800,
       "name": "Pa Darte Fuego",
       "url": "https://open.spotify.com/track/1aqz2XjzOVIlUzyDkGfsTI"
@@ -9929,6 +10039,36 @@
     },
     {
       "album": {
+        "name": "RETUMBA",
+        "url": "https://open.spotify.com/album/14kHnlP7Ytj4PceLKfaU7W"
+      },
+      "artists": [
+        {
+          "name": "Callejo",
+          "url": "https://open.spotify.com/artist/3uYSSIZzcfieOd4qFmB551"
+        },
+        {
+          "name": "Yubeili",
+          "url": "https://open.spotify.com/artist/4Fsv1gBjfqSyhzAPbhInXV"
+        },
+        {
+          "name": "Lucky Brown",
+          "url": "https://open.spotify.com/artist/11HepfI1lj6KJHj651rZhM"
+        },
+        {
+          "name": "Aqua VS",
+          "url": "https://open.spotify.com/artist/0bcZsLQV8MCeU0ylWbw23p"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212400,
+      "name": "RETUMBA",
+      "url": "https://open.spotify.com/track/4xChNP6tE9owFmY7cHErir"
+    },
+    {
+      "album": {
         "name": "RE\u00d1ACA",
         "url": "https://open.spotify.com/album/5iIWwuo2KhzxryAKUuCaOR"
       },
@@ -10084,6 +10224,32 @@
       "duration_ms": 174089,
       "name": "Roll Royce",
       "url": "https://open.spotify.com/track/24iXuKsb2nPPZR6uj50hRu"
+    },
+    {
+      "album": {
+        "name": "Romper el Hielo",
+        "url": "https://open.spotify.com/album/1jZVXCsEX4GKLJjrbkGpC1"
+      },
+      "artists": [
+        {
+          "name": "Menyi",
+          "url": "https://open.spotify.com/artist/6Muag8krmDP3lBee4N7SsM"
+        },
+        {
+          "name": "Malito Malozo",
+          "url": "https://open.spotify.com/artist/1FuJ52kzTUVS0HITGdgkLD"
+        },
+        {
+          "name": "Alex D",
+          "url": "https://open.spotify.com/artist/1b83QsnZFe3kwjmaExNMAM"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218569,
+      "name": "Romper el Hielo",
+      "url": "https://open.spotify.com/track/7zobE2BAE7ilJunNCn9QJS"
     },
     {
       "album": {
@@ -10450,7 +10616,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 142040,
       "name": "SHERATON",
       "url": "https://open.spotify.com/track/6sOSd3PYqy3UnSXF5r0MvN"
@@ -10656,7 +10822,7 @@
       ],
       "date_added": "2023-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 177429,
       "name": "Si Supieras",
       "url": "https://open.spotify.com/track/3KDo0uRHHzuWsknNm0avOb"
@@ -10954,6 +11120,28 @@
       "duration_ms": 152104,
       "name": "Somos Diferentes",
       "url": "https://open.spotify.com/track/0bS0fLAHqIdaiYYLBiWUw3"
+    },
+    {
+      "album": {
+        "name": "La Gata enamora de la Luna",
+        "url": "https://open.spotify.com/album/7xmB9B5XfpmqxLlqxiYI2j"
+      },
+      "artists": [
+        {
+          "name": "Akatumamy",
+          "url": "https://open.spotify.com/artist/38DOU02BQmlcooCqxr3aSd"
+        },
+        {
+          "name": "Nass G",
+          "url": "https://open.spotify.com/artist/4HVaguMub30IBWNwP1k6WF"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149312,
+      "name": "Soy millonaria",
+      "url": "https://open.spotify.com/track/5GOcR77MtRkhxsFVWMau13"
     },
     {
       "album": {
@@ -12048,7 +12236,7 @@
       ],
       "date_added": "2023-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 308252,
       "name": "TU ME QUIERES? REMIXXX (feat. Lucky Brown)",
       "url": "https://open.spotify.com/track/2EudY7VpHg91v5PDkinD37"
@@ -12932,7 +13120,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 152038,
       "name": "YO TE VI MIR\u00c1NDOME",
       "url": "https://open.spotify.com/track/5y9K2HA8Q3KMJsod2xvQPX"

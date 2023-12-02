@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-09-29",
-  "description": "Smooth joints. Cover: Ari Lennox",
+  "description": "Smooth joints. Cover: FACESOUL",
   "name": "BUTTER",
   "tracks": [
     {
@@ -706,7 +706,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 162861,
       "name": "All Caps",
       "url": "https://open.spotify.com/track/3KD5AnJm4LlibbdykzcfzP"
@@ -2653,6 +2653,24 @@
     },
     {
       "album": {
+        "name": "blueprints of us",
+        "url": "https://open.spotify.com/album/3Z4RwK6UvR99QdiDlA3zuF"
+      },
+      "artists": [
+        {
+          "name": "Ouri",
+          "url": "https://open.spotify.com/artist/41gxyJbzbAaChEyrZ9j3rv"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198649,
+      "name": "blueprints of us",
+      "url": "https://open.spotify.com/track/165ZtkfUdMu36Wqw7YiyGW"
+    },
+    {
+      "album": {
         "name": "Blush",
         "url": "https://open.spotify.com/album/41QRDll7uVEhOxYa35BdNY"
       },
@@ -2690,6 +2708,28 @@
       "duration_ms": 157060,
       "name": "BODY TOUCHING BODY (feat. Victoria Mon\u00e9t)",
       "url": "https://open.spotify.com/track/2NKUIkh9fZLR7C7PXiJIsP"
+    },
+    {
+      "album": {
+        "name": "Bordeaux",
+        "url": "https://open.spotify.com/album/10TXpC7OxsHnu8TtfOCU4Z"
+      },
+      "artists": [
+        {
+          "name": "SERAPHINE NOIR",
+          "url": "https://open.spotify.com/artist/2KD9QZ3u2oLgdRKsKVSW4I"
+        },
+        {
+          "name": "Nona Shipov",
+          "url": "https://open.spotify.com/artist/5TSx7SKUufxZFqkM0doMCG"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306880,
+      "name": "Bordeaux",
+      "url": "https://open.spotify.com/track/7F80jeq0Nn8QeyNufWeV3D"
     },
     {
       "album": {
@@ -9952,7 +9992,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 159243,
       "name": "It Belongs To You (feat. Jozzy)",
       "url": "https://open.spotify.com/track/6qo9Y5VZZnbeF7ejEzF8L3"
@@ -11976,7 +12016,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 298160,
       "name": "Mercury",
       "url": "https://open.spotify.com/track/3ixe45hov7EBKXm8tYBmvX"
@@ -19206,6 +19246,24 @@
       "duration_ms": 202225,
       "name": "Therapy pt. 2 [Feat. Mac Miller]",
       "url": "https://open.spotify.com/track/5dNQ0AsPitoIQSRbsXKKwE"
+    },
+    {
+      "album": {
+        "name": "THERE FOR YOU",
+        "url": "https://open.spotify.com/album/5pPwpIKxjhYypUS9PG154v"
+      },
+      "artists": [
+        {
+          "name": "greek",
+          "url": "https://open.spotify.com/artist/23FgP9gxRT6QMcRhsV71kY"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184778,
+      "name": "THERE FOR YOU",
+      "url": "https://open.spotify.com/track/54rXzumZf6OS8jZHN7DUO9"
     },
     {
       "album": {

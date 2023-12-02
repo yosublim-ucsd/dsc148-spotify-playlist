@@ -4,7 +4,7 @@
 
 > Ingenting peppar en under ett träningspass som riktigt bra musik.
 
-212 songs - 10 hr 20 min
+213 songs - 10 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,7 @@
 | [Body Back \(feat\. Maia Wright\)](https://open.spotify.com/track/1z1XegUChLLQfcbtIK8ABn) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [Maia Wright](https://open.spotify.com/artist/5qQFXHDOeYjiZVrCUO56Pk) | [Body Back \(feat\. Maia Wright\)](https://open.spotify.com/album/3VCPQRcHVxiVaePlQ6TwoF) | 3:34 | 2022-07-28 | 2023-10-13 |
 | [Body Talk](https://open.spotify.com/track/7nZUNopZZQX1PhfuvrXTWN) | [Ofenbach](https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw), [SVEA](https://open.spotify.com/artist/4XtfY4CBieEfqF3CSiPrRx) | [Body Talk](https://open.spotify.com/album/4Q8dLRUpvVFqK1uosJv6zp) | 2:19 | 2023-02-23 |  |
 | [Bones \(feat\. OneRepublic\)](https://open.spotify.com/track/1pfgsjmxVZhoZpeDx6POKv) | [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu), [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Bones \(feat\. OneRepublic\)](https://open.spotify.com/album/49vus1VCWc7AbgDmKYb8SC) | 3:25 | 2022-07-28 | 2023-10-13 |
-| [Boom Boom Boom Boom](https://open.spotify.com/track/2mWsc7kD2lpFtMNndPEMOH) | [LIZOT](https://open.spotify.com/artist/12A83CWwFiyXy90ScLWPIe), [Amfree](https://open.spotify.com/artist/72pJ6h8ZR3sS8S1vzv1SQE), [Ampris](https://open.spotify.com/artist/7sn4p2ENk9UcN3QdnXAsN2) | [Boom Boom Boom Boom](https://open.spotify.com/album/0MY7UAFFOsR5mHgyfmNPfj) | 2:08 | 2021-11-19 |  |
+| [Boom Boom Boom Boom](https://open.spotify.com/track/2mWsc7kD2lpFtMNndPEMOH) | [LIZOT](https://open.spotify.com/artist/12A83CWwFiyXy90ScLWPIe), [Amfree](https://open.spotify.com/artist/72pJ6h8ZR3sS8S1vzv1SQE), [Ampris](https://open.spotify.com/artist/7sn4p2ENk9UcN3QdnXAsN2) | [Boom Boom Boom Boom](https://open.spotify.com/album/0MY7UAFFOsR5mHgyfmNPfj) | 2:08 | 2021-11-19 | 2023-12-02 |
 | [Brave](https://open.spotify.com/track/0GRoERSBBky3YgdKW2w2Vc) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1), [Jessie J](https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou) | [Brave](https://open.spotify.com/album/1vlt3ZZeHbtRWKOFu45TEJ) | 3:04 | 2021-11-19 | 2023-09-14 |
 | [Butterfly](https://open.spotify.com/track/5qvunEAsoy0tFNNVGB4LFm) | [Jubël](https://open.spotify.com/artist/4FcZfItjVIsfO9TynErl7X) | [Daydreamin'](https://open.spotify.com/album/7nSIgpiG0BxRyrB3o6Xruv) | 2:19 | 2023-11-09 |  |
 | [By Your Side \(feat\. Tom Grennan\)](https://open.spotify.com/track/0vR2rIVORmgeKiGIgNT0fV) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [By Your Side \(feat\. Tom Grennan\)](https://open.spotify.com/album/6Z6QdCXb3IBonAUSwLP4iB) | 3:09 | 2021-11-19 |  |
@@ -117,6 +117,7 @@
 | [Letting Go](https://open.spotify.com/track/1S7hEPenrIVKVTuEjtXKz9) | [Hogland](https://open.spotify.com/artist/5s21IKPvmxRf9WxpO8H5UB), [KIDDO](https://open.spotify.com/artist/5pXe6yFchq1oyYK3rq2A8i) | [Letting Go](https://open.spotify.com/album/6veielpwGAJ4FKG7w3q69H) | 3:12 | 2021-11-19 | 2023-10-13 |
 | [Let’s Go Home Together \- MOTi Remix](https://open.spotify.com/track/043WLrvXDkihMzFI0lfvp8) | [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1), [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv), [MOTi](https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W) | [Let’s Go Home Together \(MOTi Remix\)](https://open.spotify.com/album/29TEQj74Hb0FObdoPXY5IN) | 2:40 | 2021-11-19 | 2022-07-29 |
 | [Lifestyle \(feat\. Adam Levine\)](https://open.spotify.com/track/0osvOdeD3YXZiWkT8MKolJ) | [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y), [Adam Levine](https://open.spotify.com/artist/4bYPcJP5jwMhSivRcqie2n), [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [Lifestyle \(feat\. Adam Levine\)](https://open.spotify.com/album/0SNj1uja6FAoffAMOTdlLy) | 2:33 | 2021-11-19 |  |
+| [Loca Loca](https://open.spotify.com/track/3JbxNrWdx6Di9I5E62vZzK) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Pelican](https://open.spotify.com/artist/2uzcKKlZZ4eIanI41raEZ8) | [Loca Loca](https://open.spotify.com/album/2ijafytsdehzweHgZKv2mm) | 2:12 | 2023-11-30 |  |
 | [Look What You've Done](https://open.spotify.com/track/2Y9oTMNY5CPT4m9l6CgbgM) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Look What You've Done](https://open.spotify.com/album/5kpRcX0pCeMK74PSgnaX7g) | 3:01 | 2021-11-19 | 2023-11-13 |
 | [Lose my mind](https://open.spotify.com/track/4Cz2101t2TdPKBsgb7O6dS) | [Myra Granberg](https://open.spotify.com/artist/6HYjkczJfUdGcwIGPOq5P2) | [Lose my mind](https://open.spotify.com/album/53H8HfdZu1DoXqPfTGj8CG) | 2:53 | 2021-11-19 | 2023-11-21 |
 | [Love Me Now](https://open.spotify.com/track/5pgwmLQHdWJlx3u5X15HXF) | [SVEA](https://open.spotify.com/artist/4XtfY4CBieEfqF3CSiPrRx) | [Love Me Now](https://open.spotify.com/album/5llcK6YgjwFK0ladOHjbDu) | 2:52 | 2021-11-19 | 2022-07-28 |

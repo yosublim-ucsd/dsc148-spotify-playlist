@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8D2YR1GbW3K.md) - [plain]
 
 > Nostalgic <a href="spotify:genre:edm\_dance">dance</a> festival favourites from the 2010s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 209,801 likes - 125 songs - 8 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 209,893 likes - 125 songs - 8 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,8 +91,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8D2YR1GbW3K.md) - [plain]
 | 81 | [I Can't Stop](https://open.spotify.com/track/5WSL7UTa38jMWoBzObD4BD) | [Flux Pavilion](https://open.spotify.com/artist/7muzHifhMdnfN1xncRLOqk) | [I Can't Stop](https://open.spotify.com/album/2DM8pAHT2jv7XXjyIbQppM) | 5:05 |
 | 82 | [Take over Control \(feat\. Eva Simons\)](https://open.spotify.com/track/4iD3msRl5hJUBEtrQwnR4k) | [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz), [Eva Simons](https://open.spotify.com/artist/2d6W4cnC5XsVOaxtgaj9hA) | [Take over Control \(feat\. Eva Simons\)](https://open.spotify.com/album/68TnHmMjGBt4u4HpX4EmbS) | 3:40 |
 | 83 | [Deep Down Low](https://open.spotify.com/track/48zgbsLhb3MirBgXt44nlH) | [Valentino Khan](https://open.spotify.com/artist/0deIjoDjl9g9Zpw0sCIOHh) | [Deep Down Low](https://open.spotify.com/album/1md43OqpB2SKqTmKR1q1YQ) | 3:10 |
-| 84 | [Bad \(feat\. Vassy\) \- Radio Edit](https://open.spotify.com/track/06dT0EYXrhRQV1MsvWhNGv) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Showtek](https://open.spotify.com/artist/3gk0OYeLFWYupGFRHqLSR7), [VASSY](https://open.spotify.com/artist/7HqEmV7FeCi16bQyHMpIrF) | [Listen \(Deluxe\)](https://open.spotify.com/album/3UEEPh5wsdhP7SKC31yvhu) | 2:50 |
-| 85 | [Resurrection \- Axwell's Recut Radio Version](https://open.spotify.com/track/2WaA5bVXcIqqpz9j0gd7qK) | [Michael Calfan](https://open.spotify.com/artist/4CuipEvwcoQggmCV8jpKF9), [Axwell](https://open.spotify.com/artist/1xNmvlEiICkRlRGqlNFZ43) | [Resurrection](https://open.spotify.com/album/57LJYj1EAJ6DmWaRbYZvVA) | 2:46 |
+| 84 | [Resurrection \- Axwell's Recut Radio Version](https://open.spotify.com/track/2WaA5bVXcIqqpz9j0gd7qK) | [Michael Calfan](https://open.spotify.com/artist/4CuipEvwcoQggmCV8jpKF9), [Axwell](https://open.spotify.com/artist/1xNmvlEiICkRlRGqlNFZ43) | [Resurrection](https://open.spotify.com/album/57LJYj1EAJ6DmWaRbYZvVA) | 2:46 |
+| 85 | [Bad \(feat\. Vassy\) \- Radio Edit](https://open.spotify.com/track/06dT0EYXrhRQV1MsvWhNGv) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Showtek](https://open.spotify.com/artist/3gk0OYeLFWYupGFRHqLSR7), [VASSY](https://open.spotify.com/artist/7HqEmV7FeCi16bQyHMpIrF) | [Listen \(Deluxe\)](https://open.spotify.com/album/3UEEPh5wsdhP7SKC31yvhu) | 2:50 |
 | 86 | [The Hum](https://open.spotify.com/track/0Gc1AVYqYOR522Nvz68dsT) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [Ummet Ozcan](https://open.spotify.com/artist/7e1BNCygl2Gf7CX8LrByPv) | [The Hum](https://open.spotify.com/album/7dfJi8NBqmMSHVv3RJ1Mnx) | 3:31 |
 | 87 | [Flashlight](https://open.spotify.com/track/4soJPaN3etpZC72tHZztw3) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR) | [Flashlight](https://open.spotify.com/album/57zTr9eQz0d6JqRnHpcCBQ) | 3:52 |
 | 88 | [Fortune Days](https://open.spotify.com/track/5VWVVSABdgccboSdrKGiZH) | [The Glitch Mob](https://open.spotify.com/artist/3a9qv6NLHnsVxJUtKOMHvD) | [Drink the Sea](https://open.spotify.com/album/4c5fhgLoAaFzwjNTxC57jK) | 6:22 |
@@ -111,8 +111,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8D2YR1GbW3K.md) - [plain]
 | 101 | [Beam Me Up \- Radio Edit](https://open.spotify.com/track/64y85LeHY8Z6OlTOM9cpKD) | [CAZZETTE](https://open.spotify.com/artist/1IELhvOMg5VQlU7syRm6CS) | [Eject](https://open.spotify.com/album/5cYW3ILGflf28W2vkkCvgs) | 3:23 |
 | 102 | [Bass Cannon](https://open.spotify.com/track/4u3a1nylBxY8siO7Os4t22) | [Flux Pavilion](https://open.spotify.com/artist/7muzHifhMdnfN1xncRLOqk) | [Bass Cannon](https://open.spotify.com/album/2cmBRFSeVDZVTSPyQG9AoF) | 5:09 |
 | 103 | [Crash 2.0](https://open.spotify.com/track/7coX3jc5vGpywMWEZ8X8Mq) | [Adventure Club](https://open.spotify.com/artist/5CdJjUi9f0cVgo9nFuJrFa), [Dallas Koehlke](https://open.spotify.com/artist/3tfGFqEhPNqf3mr5AetSVk) | [Red // Blue](https://open.spotify.com/album/0K7Og050SbKXSKXijCofik) | 4:14 |
-| 104 | [Higher Ground](https://open.spotify.com/track/3PRPiS8XO5BDwtBePgAlVM) | [TNGHT](https://open.spotify.com/artist/40jiZfvsiAi1aIarh5Z3d3) | [TNGHT](https://open.spotify.com/album/3YryuS3uTm7wogdtqaAb6A) | 3:19 |
-| 105 | [Liberate](https://open.spotify.com/track/6X0WsSsMMwam5AzVxlUUzo) | [Eric Prydz](https://open.spotify.com/artist/5sm0jQ1mq0dusiLtDJ2b4R) | [Liberate](https://open.spotify.com/album/2oSsWpEK9fWQ400fNDtf47) | 5:13 |
+| 104 | [Liberate](https://open.spotify.com/track/6X0WsSsMMwam5AzVxlUUzo) | [Eric Prydz](https://open.spotify.com/artist/5sm0jQ1mq0dusiLtDJ2b4R) | [Liberate](https://open.spotify.com/album/2oSsWpEK9fWQ400fNDtf47) | 5:13 |
+| 105 | [Higher Ground](https://open.spotify.com/track/3PRPiS8XO5BDwtBePgAlVM) | [TNGHT](https://open.spotify.com/artist/40jiZfvsiAi1aIarh5Z3d3) | [TNGHT](https://open.spotify.com/album/3YryuS3uTm7wogdtqaAb6A) | 3:19 |
 | 106 | [Turbulence \- Radio Edit](https://open.spotify.com/track/1QHGUbaQ6nYmVom7Kykge3) | [Laidback Luke](https://open.spotify.com/artist/53cQZtWDwDJwVCNZlfJ6Qk), [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Lil Jon](https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK) | [Turbulence](https://open.spotify.com/album/3rdGp0Ba0xlLylMECnr4rS) | 3:48 |
 | 107 | [Jaguar](https://open.spotify.com/track/0QcwSZWxpePBVSCbfIJUz6) | [What So Not](https://open.spotify.com/artist/4AA8eXtzqh5ykxtafLaPOi) | [Jaguar](https://open.spotify.com/album/2jKVZKviFNCICo24dK6nJ2) | 4:46 |
 | 108 | [You're Gonna Love Again](https://open.spotify.com/track/214tNSr4epshNjQ6W2PTLg) | [NERVO](https://open.spotify.com/artist/4j5KBTO4tk7up54ZirNGvK) | [Collateral](https://open.spotify.com/album/1CZnMTWdD8cApDRm2wLCZp) | 3:21 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8D2YR1GbW3K.md) - [plain]
 | 124 | [Bird Machine](https://open.spotify.com/track/2BKawKIR2ZBMX4DLK6oB0c) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [Alesia](https://open.spotify.com/artist/5Jq7xVix3aUHQFQ5vNUgBu) | [Bird Machine](https://open.spotify.com/album/7rwgBVIsIyUSYpcQbcGrsG) | 3:18 |
 | 125 | [Wakanda](https://open.spotify.com/track/7M2t0mMSjLJSweu8BwrY2R) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk) | [Wakanda](https://open.spotify.com/album/2OkTrq8G5BkqtFtO9oSRhq) | 4:59 |
 
-Snapshot ID: `MCw0NDViNzcyZmI3ZWU4NGY5NjM0NjE2NzA0NDVkYmU0NDZlMTBmZDQ3`
+Snapshot ID: `MCw3YTU5OWYxMDQzM2FjNzZmN2EzMWNlNmViYzY1NGM3ODY3ZWE4NTUy`

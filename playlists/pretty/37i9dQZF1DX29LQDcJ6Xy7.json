@@ -1,12 +1,12 @@
 {
   "description": "A collection of Industrial Metal - fresh and old tunes. Cover: Fear Factory",
-  "num_followers": 306670,
+  "num_followers": 306801,
   "original_name": "Industrial Metal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMzRiNWUyZGQ3NjIwM2JjZWI2YTZhNTQyZjEyOGMwODgzMWQzN2U5",
+  "snapshot_id": "MCxiMDQwNjczY2Q2YzhkOWY3MDBlMmJlNjA3MDJiY2UzMDhkMWUxOWY0",
   "tracks": [
     {
       "added_at": "2023-11-14 16:28:50",
@@ -667,42 +667,6 @@
     {
       "added_at": "2023-11-14 16:28:50",
       "album": {
-        "name": "Merchant of the Void",
-        "url": "https://open.spotify.com/album/4DpUdsgqbQekAluRjffr08"
-      },
-      "artists": [
-        {
-          "name": "3TEETH",
-          "url": "https://open.spotify.com/artist/4GHi4xklo0FT0l2CNuLFh2"
-        },
-        {
-          "name": "Mick Gordon",
-          "url": "https://open.spotify.com/artist/13ab1LgQZ3tQOhkDRRYB8Y"
-        }
-      ],
-      "duration_ms": 212814,
-      "name": "Merchant of the Void",
-      "url": "https://open.spotify.com/track/3BIQ9Y3WCwRWZju6jHXHuA"
-    },
-    {
-      "added_at": "2023-11-14 16:28:50",
-      "album": {
-        "name": "The Mind Is a Terrible Thing to Taste",
-        "url": "https://open.spotify.com/album/2Z73HeYQNCf5T8dzzHaoz5"
-      },
-      "artists": [
-        {
-          "name": "Ministry",
-          "url": "https://open.spotify.com/artist/1DXylZlWbVvlckNqwvjTEt"
-        }
-      ],
-      "duration_ms": 301426,
-      "name": "Thieves",
-      "url": "https://open.spotify.com/track/6KCthSzW230fnf6IygPaI0"
-    },
-    {
-      "added_at": "2023-11-14 16:28:50",
-      "album": {
         "name": "DISCO4 :: PART II",
         "url": "https://open.spotify.com/album/4pk3IXbfaU0cK7oHuEdbEJ"
       },
@@ -723,6 +687,42 @@
     {
       "added_at": "2023-11-14 16:28:50",
       "album": {
+        "name": "The Mind Is a Terrible Thing to Taste",
+        "url": "https://open.spotify.com/album/2Z73HeYQNCf5T8dzzHaoz5"
+      },
+      "artists": [
+        {
+          "name": "Ministry",
+          "url": "https://open.spotify.com/artist/1DXylZlWbVvlckNqwvjTEt"
+        }
+      ],
+      "duration_ms": 301426,
+      "name": "Thieves",
+      "url": "https://open.spotify.com/track/6KCthSzW230fnf6IygPaI0"
+    },
+    {
+      "added_at": "2023-11-14 16:28:50",
+      "album": {
+        "name": "Merchant of the Void",
+        "url": "https://open.spotify.com/album/4DpUdsgqbQekAluRjffr08"
+      },
+      "artists": [
+        {
+          "name": "3TEETH",
+          "url": "https://open.spotify.com/artist/4GHi4xklo0FT0l2CNuLFh2"
+        },
+        {
+          "name": "Mick Gordon",
+          "url": "https://open.spotify.com/artist/13ab1LgQZ3tQOhkDRRYB8Y"
+        }
+      ],
+      "duration_ms": 212814,
+      "name": "Merchant of the Void",
+      "url": "https://open.spotify.com/track/3BIQ9Y3WCwRWZju6jHXHuA"
+    },
+    {
+      "added_at": "2023-11-14 16:28:50",
+      "album": {
         "name": "Emigrate",
         "url": "https://open.spotify.com/album/6F84H4YaytAQkJk6cvP0ri"
       },
@@ -739,22 +739,6 @@
     {
       "added_at": "2023-11-14 16:28:50",
       "album": {
-        "name": "Gravity Kills",
-        "url": "https://open.spotify.com/album/7pOydrQchgIb8t6G9td2pm"
-      },
-      "artists": [
-        {
-          "name": "Gravity Kills",
-          "url": "https://open.spotify.com/artist/3V3ChkwvlWDJtMFuOKfYiB"
-        }
-      ],
-      "duration_ms": 242026,
-      "name": "Guilty",
-      "url": "https://open.spotify.com/track/4YhqUU66bIqBapat2XD1Cg"
-    },
-    {
-      "added_at": "2023-11-14 16:28:50",
-      "album": {
         "name": "Chapter II",
         "url": "https://open.spotify.com/album/4HOffsoCDuHaWVjTmlf5jC"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 394285,
       "name": "Jim Jones",
       "url": "https://open.spotify.com/track/7voqYiZoYUyEJnZWWa7d6d"
+    },
+    {
+      "added_at": "2023-11-14 16:28:50",
+      "album": {
+        "name": "Gravity Kills",
+        "url": "https://open.spotify.com/album/7pOydrQchgIb8t6G9td2pm"
+      },
+      "artists": [
+        {
+          "name": "Gravity Kills",
+          "url": "https://open.spotify.com/artist/3V3ChkwvlWDJtMFuOKfYiB"
+        }
+      ],
+      "duration_ms": 242026,
+      "name": "Guilty",
+      "url": "https://open.spotify.com/track/4YhqUU66bIqBapat2XD1Cg"
     },
     {
       "added_at": "2023-11-14 16:28:50",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2023-11-14 16:28:50",
       "album": {
-        "name": "Obliteration",
-        "url": "https://open.spotify.com/album/4Zcp0AbVFKRBbBQSC3zUNe"
-      },
-      "artists": [
-        {
-          "name": "Filter",
-          "url": "https://open.spotify.com/artist/01WjpKiWVNurV5hjIadB8C"
-        }
-      ],
-      "duration_ms": 217071,
-      "name": "Obliteration",
-      "url": "https://open.spotify.com/track/4JSHiFEX1B19USiqbiW9pw"
-    },
-    {
-      "added_at": "2023-11-14 16:28:50",
-      "album": {
         "name": "Industrial Machine Musick",
         "url": "https://open.spotify.com/album/6XQU3XSwp8ZUHaFkBa4daf"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 289451,
       "name": "Ich wei\u00df es nicht",
       "url": "https://open.spotify.com/track/3U3DKA3ou2kJdurTeXDVTz"
+    },
+    {
+      "added_at": "2023-11-14 16:28:50",
+      "album": {
+        "name": "Obliteration",
+        "url": "https://open.spotify.com/album/4Zcp0AbVFKRBbBQSC3zUNe"
+      },
+      "artists": [
+        {
+          "name": "Filter",
+          "url": "https://open.spotify.com/artist/01WjpKiWVNurV5hjIadB8C"
+        }
+      ],
+      "duration_ms": 217071,
+      "name": "Obliteration",
+      "url": "https://open.spotify.com/track/4JSHiFEX1B19USiqbiW9pw"
     },
     {
       "added_at": "2023-11-14 16:28:50",
@@ -1339,6 +1339,22 @@
     {
       "added_at": "2023-11-14 16:28:50",
       "album": {
+        "name": "Hengit\u00e4",
+        "url": "https://open.spotify.com/album/4Jkym58PA9Nhe96FjI3Ox7"
+      },
+      "artists": [
+        {
+          "name": "Turmion K\u00e4til\u00f6t",
+          "url": "https://open.spotify.com/artist/76t3VPzCEYAlrZhVAY7yjg"
+        }
+      ],
+      "duration_ms": 190327,
+      "name": "Hengit\u00e4",
+      "url": "https://open.spotify.com/track/0aRyEPEkEpzUTztEtasDVj"
+    },
+    {
+      "added_at": "2023-11-14 16:28:50",
+      "album": {
         "name": "Don't Question Me",
         "url": "https://open.spotify.com/album/2XKsZtY379vsVCRi5lNxzq"
       },
@@ -1355,22 +1371,6 @@
       "duration_ms": 201184,
       "name": "Don't Question Me",
       "url": "https://open.spotify.com/track/07wrYgD0lODxw5G39OQjce"
-    },
-    {
-      "added_at": "2023-11-14 16:28:50",
-      "album": {
-        "name": "Hengit\u00e4",
-        "url": "https://open.spotify.com/album/4Jkym58PA9Nhe96FjI3Ox7"
-      },
-      "artists": [
-        {
-          "name": "Turmion K\u00e4til\u00f6t",
-          "url": "https://open.spotify.com/artist/76t3VPzCEYAlrZhVAY7yjg"
-        }
-      ],
-      "duration_ms": 190327,
-      "name": "Hengit\u00e4",
-      "url": "https://open.spotify.com/track/0aRyEPEkEpzUTztEtasDVj"
     },
     {
       "added_at": "2023-11-14 16:28:50",
@@ -1583,6 +1583,22 @@
     {
       "added_at": "2023-11-14 16:28:50",
       "album": {
+        "name": "Majesty",
+        "url": "https://open.spotify.com/album/0S0OF6IQa0Tr0lWivkrUD2"
+      },
+      "artists": [
+        {
+          "name": "Processor",
+          "url": "https://open.spotify.com/artist/3PsLxyLABzuf3dUMpS05Mp"
+        }
+      ],
+      "duration_ms": 223728,
+      "name": "Royal Leash",
+      "url": "https://open.spotify.com/track/0thtR0AknaM6k7WktFah7z"
+    },
+    {
+      "added_at": "2023-11-14 16:28:50",
+      "album": {
         "name": "S E X",
         "url": "https://open.spotify.com/album/0ZMVhQvyDY4vVPGqRCDE97"
       },
@@ -1599,22 +1615,6 @@
       "duration_ms": 220553,
       "name": "S E X",
       "url": "https://open.spotify.com/track/3rx6ENPfEGYiQVPP1jsVtx"
-    },
-    {
-      "added_at": "2023-11-14 16:28:50",
-      "album": {
-        "name": "Majesty",
-        "url": "https://open.spotify.com/album/0S0OF6IQa0Tr0lWivkrUD2"
-      },
-      "artists": [
-        {
-          "name": "Processor",
-          "url": "https://open.spotify.com/artist/3PsLxyLABzuf3dUMpS05Mp"
-        }
-      ],
-      "duration_ms": 223728,
-      "name": "Royal Leash",
-      "url": "https://open.spotify.com/track/0thtR0AknaM6k7WktFah7z"
     },
     {
       "added_at": "2023-11-14 16:28:50",

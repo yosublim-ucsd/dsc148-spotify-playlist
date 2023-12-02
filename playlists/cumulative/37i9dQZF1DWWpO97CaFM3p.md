@@ -4,7 +4,7 @@
 
 > when you decide societal constructs just aren’t the vibe anymore.
 
-287 songs - 17 hr 50 min
+288 songs - 17 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -119,6 +119,7 @@
 | [I Wanted to Leave](https://open.spotify.com/track/2QLgg0DaXBIzKPV5ZzZPDI) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [You Knew It Was Me](https://open.spotify.com/album/0rJuGvvXX626hak1KwrEPZ) | 3:23 | 2021-12-17 | 2022-04-21 |
 | [I Wanted to Leave](https://open.spotify.com/track/2Tq3fayHpjP2nOZlBEjt3N) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [You Knew It Was Me](https://open.spotify.com/album/4vjD743S9q9qAgKFtXWJ3a) | 3:23 | 2022-05-25 | 2022-12-26 |
 | [I Wanted to Leave](https://open.spotify.com/track/61iGwqhbDwkXanVo5LwJyF) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [I Wanted to Leave \(Sitar Version\)](https://open.spotify.com/album/5MiRZqeTOp7PqdgoTFwEav) | 3:23 | 2022-12-09 | 2023-02-23 |
+| [I'd Have to Think About It](https://open.spotify.com/track/3MkEVGXroAZV4BAtBV9yOf) | [Leith Ross](https://open.spotify.com/artist/4nxKz1dRYXnsGzN1lUURtG) | [I'd Have to Think About It](https://open.spotify.com/album/13NV9whHhEz1qhD2XqiawI) | 2:30 | 2023-11-17 |  |
 | [I'd Have to Think About It](https://open.spotify.com/track/50lUr1G0TYol01m2RlqPzZ) | [Leith Ross](https://open.spotify.com/artist/4nxKz1dRYXnsGzN1lUURtG) | [I'd Have to Think About It](https://open.spotify.com/album/0wfdQFjAZI2tJ506KTGnbY) | 2:30 | 2021-12-17 | 2023-11-25 |
 | [I'll Be Gone](https://open.spotify.com/track/2z4NCsQxVucYfAeUU1ljE2) | [The Milk Carton Kids](https://open.spotify.com/artist/7fxtWEwKKrFaykKItspdYg) | [The Only Ones](https://open.spotify.com/album/72jSY4ND11mZ9qeOmIsVJh) | 2:24 | 2021-12-17 | 2022-07-26 |
 | [Ice Cream Man](https://open.spotify.com/track/49UWYukd57z7wmPJcGfMER) | [Darling Farm](https://open.spotify.com/artist/51KpzsOhEgF10B7cBROtVC) | [No, Yeah](https://open.spotify.com/album/5VFILulLTqwhiH0CTxFK9p) | 3:25 | 2022-04-15 | 2022-04-21 |
@@ -232,7 +233,7 @@
 | [Somewhere Forever](https://open.spotify.com/track/0LEYYOcwGSTd38kRUB8iXO) | [Garden Gloves](https://open.spotify.com/artist/7LvkKnhytQkJg72KAu49sF), [Jackson Wooten](https://open.spotify.com/artist/0y7d3G52a49UExL70y2lkz), [Torri Weidinger](https://open.spotify.com/artist/48WSeSXisRpPcjSaXVR2LM) | [Somewhere Forever](https://open.spotify.com/album/1lr1J3nuB7QW5K1B4uj9z7) | 4:10 | 2021-12-17 | 2022-07-28 |
 | [Somewhere in Chicago](https://open.spotify.com/track/30VJ9BJK3XcsjhCdpvqmvw) | [Strand of Oaks](https://open.spotify.com/artist/0t4oHObO3FImWvIhMimaSL) | [In Heaven](https://open.spotify.com/album/76pQf98XjjF5RZIniiev2d) | 3:05 | 2022-01-07 | 2022-11-22 |
 | [Song for Nick Drake](https://open.spotify.com/track/7ziCau3pxkib4zGiCk2njz) | [Skullcrusher](https://open.spotify.com/artist/1GUaQ6GpaxFPKZ0SCSsnwD) | [Storm in Summer](https://open.spotify.com/album/7icCUSzSQD22C82ldwMCOe) | 2:57 | 2021-12-17 | 2022-05-22 |
-| [Song In My Head](https://open.spotify.com/track/0SqfoSpuWsk4CJpCX2LvCD) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Who Are You Now](https://open.spotify.com/album/2CE5eeFL2vKtLvVpjgpfQy) | 4:40 | 2022-02-16 |  |
+| [Song In My Head](https://open.spotify.com/track/0SqfoSpuWsk4CJpCX2LvCD) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Who Are You Now](https://open.spotify.com/album/2CE5eeFL2vKtLvVpjgpfQy) | 4:40 | 2022-02-16 | 2023-12-02 |
 | [Spectrum](https://open.spotify.com/track/5pEmeoMUW38w1oU3kPelvR) | [Andrew Belle](https://open.spotify.com/artist/3UAk61T8PItbpgEi9u7ofY) | [Nightshade](https://open.spotify.com/album/0UlhdB1GPfs4WozhZBlGdL) | 4:25 | 2021-12-17 | 2023-08-19 |
 | [State Lines](https://open.spotify.com/track/7CoMBpPTwQi2wPT0U0Nr9b) | [Novo Amor](https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi) | [Birthplace](https://open.spotify.com/album/0tWckYjFI6ioZptLr42J3p) | 3:28 | 2021-12-17 |  |
 | [State of Flight](https://open.spotify.com/track/21DOy3oZ7aKupTpVADoe09) | [Boy & Bear](https://open.spotify.com/artist/2NqgE99Ll5vOTvmbN7O2R6) | [State of Flight](https://open.spotify.com/album/0sunBQLEqyaT1iojx2XoYV) | 3:44 | 2022-04-15 | 2022-07-29 |

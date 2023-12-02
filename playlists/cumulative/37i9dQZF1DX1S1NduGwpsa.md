@@ -4,7 +4,7 @@
 
 > The best jazz new releases\. Cover: Lusaint
 
-423 songs - 1 day 6 hr 39 min
+424 songs - 1 day 6 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -181,7 +181,8 @@
 | [How Did You Get In My Dreams?](https://open.spotify.com/track/3H54XoNyQQ8ZIIJUDMDSaO) | [Karen Souza](https://open.spotify.com/artist/2d5lQo9YQ1DkAsBKTRp7Iu) | [How Did You Get In My Dreams?](https://open.spotify.com/album/2nms9ZBfxS99WUN38VhSp7) | 3:37 | 2023-08-07 | 2023-10-20 |
 | [I Am The Walrus](https://open.spotify.com/track/1FQ36swxT2Zn0K5xlwkxUg) | [Brad Mehldau](https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq) | [I Am The Walrus](https://open.spotify.com/album/4Py5viNf0Lzt14Od4iTCNJ) | 4:14 | 2023-01-12 | 2023-02-17 |
 | [I Am What I Am](https://open.spotify.com/track/78ixe4bEW1kmcLk9e0BAL8) | [Veronica Swift](https://open.spotify.com/artist/0YyqJ4bcQqxXdsdpgQPwtl) | [I Am What I Am](https://open.spotify.com/album/6O07IvI0wU3MpzSRn3s4Xv) | 5:32 | 2023-07-13 | 2023-09-15 |
-| [I Could Write a Book \- Live](https://open.spotify.com/track/6Z6pduayBS4ntLNvIXOTdx) | [Oscar Peterson](https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB) | [I Could Write a Book \(Live\)](https://open.spotify.com/album/0OHbrzksuN7cmKja6RzzRN) | 7:38 | 2023-10-05 |  |
+| [I Could Write a Book \- Live](https://open.spotify.com/track/0vJ58MsgTfLfn2eT0eEGQR) | [Oscar Peterson](https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB) | [Con Alma: The Oscar Peterson Trio – Live in Lugano, 1964](https://open.spotify.com/album/4mS8SOqsZclqx0UN3QcBVE) | 7:38 | 2023-11-30 |  |
+| [I Could Write a Book \- Live](https://open.spotify.com/track/6Z6pduayBS4ntLNvIXOTdx) | [Oscar Peterson](https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB) | [I Could Write a Book \(Live\)](https://open.spotify.com/album/0OHbrzksuN7cmKja6RzzRN) | 7:38 | 2023-10-05 | 2023-12-02 |
 | [I Feel Foolish](https://open.spotify.com/track/1Ro0NNRNJVgRfPZFzHwjh0) | [Caity Gyorgy](https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa) | [I Feel Foolish](https://open.spotify.com/album/6NBxi7pcmiS31iVIsq7AH3) | 3:09 | 2022-04-14 | 2022-09-02 |
 | [I Get A Kick Out Of You](https://open.spotify.com/track/6uRUfwEJuXbmIqwPiOKaVy) | [Nikki Yanofsky](https://open.spotify.com/artist/1n02UdnML6G4wR162YsSRi) | [I Get A Kick Out Of You](https://open.spotify.com/album/5XPgqAzI6atpfpxdzK17p0) | 2:41 | 2022-08-25 | 2022-11-18 |
 | [I loves you Porgy](https://open.spotify.com/track/4wYj7DbAJBNE8YzWpmsWnT) | [Kareen Guiock\-Thuram](https://open.spotify.com/artist/0YXx07hUxn2vNcy8Cdj5ER) | [Nina](https://open.spotify.com/album/6z7RipHovotv8iZtjz3hIt) | 4:13 | 2023-11-02 |  |

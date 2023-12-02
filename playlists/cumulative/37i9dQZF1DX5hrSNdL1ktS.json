@@ -1189,6 +1189,28 @@
     },
     {
       "album": {
+        "name": "Chakalona",
+        "url": "https://open.spotify.com/album/67EjstfrVdX0ogEFfsYSFi"
+      },
+      "artists": [
+        {
+          "name": "De la Rosa Mx",
+          "url": "https://open.spotify.com/artist/5vqTcQeQsS5ypqWxufGUOo"
+        },
+        {
+          "name": "Flowker Slick",
+          "url": "https://open.spotify.com/artist/08Jl77YAzZDOfkM3OY4OrN"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168769,
+      "name": "Chakalona",
+      "url": "https://open.spotify.com/track/6LxKefLfvUJQ4gDifOmajM"
+    },
+    {
+      "album": {
         "name": "Chanel",
         "url": "https://open.spotify.com/album/6mZNaNVmSCyWS5Ja8ONC8U"
       },
@@ -2791,6 +2813,28 @@
     },
     {
       "album": {
+        "name": "Fily",
+        "url": "https://open.spotify.com/album/7jsABatJ08BkX2rRMoTPF5"
+      },
+      "artists": [
+        {
+          "name": "Young Gang",
+          "url": "https://open.spotify.com/artist/4bhocj59UpsFMCoJXehnk0"
+        },
+        {
+          "name": "Vida Robot",
+          "url": "https://open.spotify.com/artist/7q02Ro5duhKaT270E27czj"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152000,
+      "name": "Fily",
+      "url": "https://open.spotify.com/track/3EiLDZVAWRPLgUH8Nb235R"
+    },
+    {
+      "album": {
         "name": "Flama",
         "url": "https://open.spotify.com/album/1NVzPKVN5FSqANSjAewanV"
       },
@@ -3612,7 +3656,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 154901,
       "name": "KE IMPORTA",
       "url": "https://open.spotify.com/track/6dnMsrOKQPJFlFXWwQTyJL"
@@ -5625,6 +5669,24 @@
     },
     {
       "album": {
+        "name": "Nos Entendemos",
+        "url": "https://open.spotify.com/album/3x1rh4Ykhv3LvPeFAeV9fa"
+      },
+      "artists": [
+        {
+          "name": "Jasiel Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176016,
+      "name": "Nos Entendemos",
+      "url": "https://open.spotify.com/track/6MnSiGUMRf2UYnKez1zeqG"
+    },
+    {
+      "album": {
         "name": "Nos Matamos",
         "url": "https://open.spotify.com/album/21ZaKyZrmiksMqiystXkml"
       },
@@ -6430,7 +6492,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 201428,
       "name": "Planes",
       "url": "https://open.spotify.com/track/6r2Ad8YSXzCcUDx4UX0YTI"
@@ -8538,7 +8600,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 196213,
       "name": "Tumbadito",
       "url": "https://open.spotify.com/track/3M7F4fGl3UrLGVorSsGSds"

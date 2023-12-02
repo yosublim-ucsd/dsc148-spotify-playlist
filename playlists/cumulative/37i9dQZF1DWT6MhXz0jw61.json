@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-10-07",
-  "description": "Chillout hip-hop vibes. Cover: Wale",
+  "description": "Chillout hip-hop vibes. Cover: Drake",
   "name": "Mellow Bars",
   "tracks": [
     {
@@ -112,7 +112,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 235400,
       "name": "10 Speed",
       "url": "https://open.spotify.com/track/436fxvQ60kobW2yR6QflJ3"
@@ -424,6 +424,24 @@
       "duration_ms": 65480,
       "name": "A Bar About a Bar",
       "url": "https://open.spotify.com/track/1d27WzQN1KHKu5969heJAZ"
+    },
+    {
+      "album": {
+        "name": "A Forsaken Lover's Plea",
+        "url": "https://open.spotify.com/album/1Gyeg7Y0DYpD03XVEVuraW"
+      },
+      "artists": [
+        {
+          "name": "Chuck Strangers",
+          "url": "https://open.spotify.com/artist/1o1szEyRkKUmDfqHOsU9b5"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132670,
+      "name": "A Forsaken Lover's Plea",
+      "url": "https://open.spotify.com/track/0jbcNWhYeFbaYJAY0YgBJu"
     },
     {
       "album": {
@@ -2558,7 +2576,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 241582,
       "name": "Carefree",
       "url": "https://open.spotify.com/track/5KSffXZ5exiUZabwpXwrj7"
@@ -3471,6 +3489,24 @@
     },
     {
       "album": {
+        "name": "Decisions",
+        "url": "https://open.spotify.com/album/1wXA0CPAKjjqonYux7JJvC"
+      },
+      "artists": [
+        {
+          "name": "Wiz Khalifa",
+          "url": "https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199440,
+      "name": "Cream Corn",
+      "url": "https://open.spotify.com/track/4qHomAyRWyZKeaQOi3uMfo"
+    },
+    {
+      "album": {
         "name": "Cruel",
         "url": "https://open.spotify.com/album/6l2GmTQIZkDZpQuGXQqcNP"
       },
@@ -4194,7 +4230,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 160671,
       "name": "Down Wit It",
       "url": "https://open.spotify.com/track/3Ow6YGu5ILE47C8ldYE2N9"
@@ -4310,6 +4346,36 @@
       "duration_ms": 158293,
       "name": "Droptop",
       "url": "https://open.spotify.com/track/7AgRtQo1mUGB4xUoa5caTu"
+    },
+    {
+      "album": {
+        "name": "Drug Trade Pt 2 (feat. Black Thought & Benny The Butcher)",
+        "url": "https://open.spotify.com/album/6bcMIqGM6TwlPvhJYsCCSf"
+      },
+      "artists": [
+        {
+          "name": "Smoke DZA",
+          "url": "https://open.spotify.com/artist/3kf0gOpxWtkyeMNJVDQPtd"
+        },
+        {
+          "name": "Flying Lotus",
+          "url": "https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793"
+        },
+        {
+          "name": "Benny The Butcher",
+          "url": "https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T"
+        },
+        {
+          "name": "Black Thought",
+          "url": "https://open.spotify.com/artist/6DJEUXZm0e2rAohdoZ5Voo"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272516,
+      "name": "Drug Trade Pt 2 (feat. Black Thought & Benny The Butcher)",
+      "url": "https://open.spotify.com/track/0caNSAOGrPfUQAvqi7H91l"
     },
     {
       "album": {
@@ -4972,7 +5038,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 115749,
       "name": "Find My Way",
       "url": "https://open.spotify.com/track/5QDNYYfIln2WTi7Fmb6aZc"
@@ -5396,6 +5462,24 @@
       "duration_ms": 194013,
       "name": "Free Slime",
       "url": "https://open.spotify.com/track/4Wgu0FPMdz24m4TBc7kyk2"
+    },
+    {
+      "album": {
+        "name": "Decisions",
+        "url": "https://open.spotify.com/album/1wXA0CPAKjjqonYux7JJvC"
+      },
+      "artists": [
+        {
+          "name": "Wiz Khalifa",
+          "url": "https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147778,
+      "name": "Freeze Turkeys",
+      "url": "https://open.spotify.com/track/1yptnUjnZTeFTVqcMitLpm"
     },
     {
       "album": {
@@ -6128,7 +6212,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 195000,
       "name": "GUNSHY",
       "url": "https://open.spotify.com/track/0We0xZsKHRpCd4r8cuMTXP"
@@ -6514,7 +6598,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 160851,
       "name": "Hold That With Your Heart (featuring Peyton)",
       "url": "https://open.spotify.com/track/1EO5gFtuppMjCSXUXjQ7bm"
@@ -7715,6 +7799,24 @@
     },
     {
       "album": {
+        "name": "Holy Water",
+        "url": "https://open.spotify.com/album/0vvsV9PgoX1kSkwjmHTN2A"
+      },
+      "artists": [
+        {
+          "name": "Millyz",
+          "url": "https://open.spotify.com/artist/7dDYME7Y3GoEQotd8gUvQg"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191389,
+      "name": "Last Time",
+      "url": "https://open.spotify.com/track/5lNWV5HwCCPbRX5OD1HcVt"
+    },
+    {
+      "album": {
         "name": "Once Upon A Time",
         "url": "https://open.spotify.com/album/2S5o9AUgMBEKjlqZ5wOrbw"
       },
@@ -8235,6 +8337,24 @@
     },
     {
       "album": {
+        "name": "Holy Water",
+        "url": "https://open.spotify.com/album/0vvsV9PgoX1kSkwjmHTN2A"
+      },
+      "artists": [
+        {
+          "name": "Millyz",
+          "url": "https://open.spotify.com/artist/7dDYME7Y3GoEQotd8gUvQg"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178881,
+      "name": "Lost Innocence Pt. 2",
+      "url": "https://open.spotify.com/track/6dTTxUTrqxeK1ejiwsHo6T"
+    },
+    {
+      "album": {
         "name": "Continuance",
         "url": "https://open.spotify.com/album/6nOgR17Z6SkfRQ0ygRogTU"
       },
@@ -8562,6 +8682,28 @@
       "duration_ms": 288018,
       "name": "MAYNARD VIGNETTE [Feat. T.I., JID, Jacquees]",
       "url": "https://open.spotify.com/track/4H8RhDIpZidT57dKw30k1C"
+    },
+    {
+      "album": {
+        "name": "ME TIME",
+        "url": "https://open.spotify.com/album/6Gs7PRxTjiJArmnTQu4kQt"
+      },
+      "artists": [
+        {
+          "name": "Sweet William",
+          "url": "https://open.spotify.com/artist/43eSnxk6MsmXsLOlbYo8VQ"
+        },
+        {
+          "name": "Kota the Friend",
+          "url": "https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172427,
+      "name": "ME TIME",
+      "url": "https://open.spotify.com/track/3wXQUSNyXS8AsTnCn8Xn9s"
     },
     {
       "album": {
@@ -10316,7 +10458,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 242333,
       "name": "Poison In The Well",
       "url": "https://open.spotify.com/track/6o9dEJ8ZIniCWoL9E9HGWp"
@@ -10752,7 +10894,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 178758,
       "name": "Ragtop Riches (feat. DRAM)",
       "url": "https://open.spotify.com/track/0wZHPUMERueb0JzS38Rzzj"
@@ -11198,7 +11340,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 217031,
       "name": "Sandbox",
       "url": "https://open.spotify.com/track/5FpA9VUCUquTkHPpn5Uaiq"
@@ -11632,6 +11774,32 @@
       "duration_ms": 135401,
       "name": "SHiRU'S iNTERLUDE",
       "url": "https://open.spotify.com/track/2Fvx7f8fCXxUXS6PiOGivY"
+    },
+    {
+      "album": {
+        "name": "Shook Up",
+        "url": "https://open.spotify.com/album/3vfUmX8ynO8GEdo45M5KHN"
+      },
+      "artists": [
+        {
+          "name": "Erick the Architect",
+          "url": "https://open.spotify.com/artist/2mQLwfvZtvtTbipKn3xHmK"
+        },
+        {
+          "name": "Joey Bada$$",
+          "url": "https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH"
+        },
+        {
+          "name": "FARR",
+          "url": "https://open.spotify.com/artist/0eHwH1Ze2lRt6KOGw1T3rq"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "Shook Up",
+      "url": "https://open.spotify.com/track/1lF2SRGtxswe1MZvRRvgTA"
     },
     {
       "album": {
@@ -12439,6 +12607,24 @@
     },
     {
       "album": {
+        "name": "Holy Water",
+        "url": "https://open.spotify.com/album/0vvsV9PgoX1kSkwjmHTN2A"
+      },
+      "artists": [
+        {
+          "name": "Millyz",
+          "url": "https://open.spotify.com/artist/7dDYME7Y3GoEQotd8gUvQg"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173617,
+      "name": "Strangers",
+      "url": "https://open.spotify.com/track/4fbWoQENywVWQwOCANHNKF"
+    },
+    {
+      "album": {
         "name": "STRAWBERRY LOUIS VUITTON (Ft. Thundercat, Maeta)",
         "url": "https://open.spotify.com/album/32mKnCP2lxdUKl87kQTrAF"
       },
@@ -12608,6 +12794,28 @@
       "duration_ms": 200775,
       "name": "Super Rare (feat. Hello O'Shay)",
       "url": "https://open.spotify.com/track/2UzRTCDmvjuzNT9NhGScvt"
+    },
+    {
+      "album": {
+        "name": "Swangin' Glass",
+        "url": "https://open.spotify.com/album/7JWPGp4cjmFp6LaAiV6YJ6"
+      },
+      "artists": [
+        {
+          "name": "Paul Wall",
+          "url": "https://open.spotify.com/artist/0k7Xl1pqI3tu8sSEjo5oEg"
+        },
+        {
+          "name": "Lil' Keke",
+          "url": "https://open.spotify.com/artist/1grI9x4Uzos1Asx8JmRW6T"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192638,
+      "name": "Swangin' Glass",
+      "url": "https://open.spotify.com/track/1W1xIjbH4GyA33FMQicGOL"
     },
     {
       "album": {
@@ -13024,7 +13232,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 165093,
       "name": "The Great Escape",
       "url": "https://open.spotify.com/track/1LwlTQeBFs5N4rgPdEEYge"

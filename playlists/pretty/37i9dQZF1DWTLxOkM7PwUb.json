@@ -1,12 +1,12 @@
 {
   "description": "\u2764\ufe0f o \ud83d\udc94\n",
-  "num_followers": 35619,
+  "num_followers": 35689,
   "original_name": "Trap Luv",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhOTlhZjk3ZWM0ZTY0YzczZTk0NzMyNzQ1NmI0YjMzMWIzM2E2OTJj",
+  "snapshot_id": "MCw1ZGE3YzQ0ZWVmMzRjZjhkYTU0NDU2NmViMjI0MjViY2JhZGRhOWEw",
   "tracks": [
     {
       "added_at": "2023-11-24 04:00:00",
@@ -679,22 +679,18 @@
     {
       "added_at": "2023-11-24 04:00:00",
       "album": {
-        "name": "OASIS",
-        "url": "https://open.spotify.com/album/6ylFfzx32ICw4L1A7YWNLN"
+        "name": "Homerun",
+        "url": "https://open.spotify.com/album/0qJkFmVwwNXP6fvSemDZqn"
       },
       "artists": [
         {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        },
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+          "name": "Paulo Londra",
+          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
         }
       ],
-      "duration_ms": 270400,
-      "name": "ODIO",
-      "url": "https://open.spotify.com/track/7alOsNr36sJ8CyOEP4aILq"
+      "duration_ms": 181554,
+      "name": "Romeo y Julieta",
+      "url": "https://open.spotify.com/track/3lSfq8WiDcQXEn8sqHCTZZ"
     },
     {
       "added_at": "2023-11-24 04:00:00",
@@ -715,18 +711,22 @@
     {
       "added_at": "2023-11-24 04:00:00",
       "album": {
-        "name": "Homerun",
-        "url": "https://open.spotify.com/album/0qJkFmVwwNXP6fvSemDZqn"
+        "name": "OASIS",
+        "url": "https://open.spotify.com/album/6ylFfzx32ICw4L1A7YWNLN"
       },
       "artists": [
         {
-          "name": "Paulo Londra",
-          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
         }
       ],
-      "duration_ms": 181554,
-      "name": "Romeo y Julieta",
-      "url": "https://open.spotify.com/track/3lSfq8WiDcQXEn8sqHCTZZ"
+      "duration_ms": 270400,
+      "name": "ODIO",
+      "url": "https://open.spotify.com/track/7alOsNr36sJ8CyOEP4aILq"
     },
     {
       "added_at": "2023-11-24 04:00:00",
@@ -887,42 +887,6 @@
     {
       "added_at": "2023-11-24 04:00:00",
       "album": {
-        "name": "Demasiado Tarde",
-        "url": "https://open.spotify.com/album/6ZWbDDl3KHIruXOq6rZxGa"
-      },
-      "artists": [
-        {
-          "name": "Micro TDH",
-          "url": "https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow"
-        },
-        {
-          "name": "Lenny Tav\u00e1rez",
-          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
-        }
-      ],
-      "duration_ms": 271548,
-      "name": "Demasiado Tarde",
-      "url": "https://open.spotify.com/track/5KFx45L84KmBINWLh6TEiL"
-    },
-    {
-      "added_at": "2023-11-24 04:00:00",
-      "album": {
-        "name": "Si Te Vas",
-        "url": "https://open.spotify.com/album/70pzt9WWiOAgyOugEXpF2b"
-      },
-      "artists": [
-        {
-          "name": "LIT killah",
-          "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
-        }
-      ],
-      "duration_ms": 240441,
-      "name": "Si Te Vas",
-      "url": "https://open.spotify.com/track/5VsHkOtg0Llpa6mTGZhp5e"
-    },
-    {
-      "added_at": "2023-11-24 04:00:00",
-      "album": {
         "name": "Solo Pienso En Ti (feat. De La Ghetto & Justin Quiles)",
         "url": "https://open.spotify.com/album/5GcW2cCrVqjPm3dgDJOBRF"
       },
@@ -943,6 +907,58 @@
       "duration_ms": 268794,
       "name": "Solo Pienso En Ti (feat. De La Ghetto & Justin Quiles)",
       "url": "https://open.spotify.com/track/53rkN7z3bKorDSIxDvqXNt"
+    },
+    {
+      "added_at": "2023-11-24 04:00:00",
+      "album": {
+        "name": "Si Te Vas",
+        "url": "https://open.spotify.com/album/70pzt9WWiOAgyOugEXpF2b"
+      },
+      "artists": [
+        {
+          "name": "LIT killah",
+          "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
+        }
+      ],
+      "duration_ms": 240441,
+      "name": "Si Te Vas",
+      "url": "https://open.spotify.com/track/5VsHkOtg0Llpa6mTGZhp5e"
+    },
+    {
+      "added_at": "2023-11-24 04:00:00",
+      "album": {
+        "name": "Demasiado Tarde",
+        "url": "https://open.spotify.com/album/6ZWbDDl3KHIruXOq6rZxGa"
+      },
+      "artists": [
+        {
+          "name": "Micro TDH",
+          "url": "https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow"
+        },
+        {
+          "name": "Lenny Tav\u00e1rez",
+          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
+        }
+      ],
+      "duration_ms": 271548,
+      "name": "Demasiado Tarde",
+      "url": "https://open.spotify.com/track/5KFx45L84KmBINWLh6TEiL"
+    },
+    {
+      "added_at": "2023-11-24 04:00:00",
+      "album": {
+        "name": "Desde el Fin del Mundo",
+        "url": "https://open.spotify.com/album/3MKQjYpaES80tFP7Qo2zH0"
+      },
+      "artists": [
+        {
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+        }
+      ],
+      "duration_ms": 218288,
+      "name": "I Don't Know",
+      "url": "https://open.spotify.com/track/14OsvO7eecMfOIdRClquk9"
     },
     {
       "added_at": "2023-11-24 04:00:00",
@@ -975,22 +991,6 @@
       "duration_ms": 270973,
       "name": "Sigues Preguntando - Remix",
       "url": "https://open.spotify.com/track/6MYyeb4z85EVKDOyY6Od5X"
-    },
-    {
-      "added_at": "2023-11-24 04:00:00",
-      "album": {
-        "name": "Desde el Fin del Mundo",
-        "url": "https://open.spotify.com/album/3MKQjYpaES80tFP7Qo2zH0"
-      },
-      "artists": [
-        {
-          "name": "Duki",
-          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
-        }
-      ],
-      "duration_ms": 218288,
-      "name": "I Don't Know",
-      "url": "https://open.spotify.com/track/14OsvO7eecMfOIdRClquk9"
     },
     {
       "added_at": "2023-11-24 04:00:00",
@@ -1319,6 +1319,30 @@
     {
       "added_at": "2023-11-24 04:00:00",
       "album": {
+        "name": "Chosen Few: New Generation",
+        "url": "https://open.spotify.com/album/3OrduFrOK2uqkUdlzdeUnj"
+      },
+      "artists": [
+        {
+          "name": "Boy Wonder CF",
+          "url": "https://open.spotify.com/artist/01nUdqwuIHCHLZNP2TvYVF"
+        },
+        {
+          "name": "Jon Z",
+          "url": "https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1"
+        },
+        {
+          "name": "Baby Rasta",
+          "url": "https://open.spotify.com/artist/0GgyFUpOyzWDRDqx8FCTDN"
+        }
+      ],
+      "duration_ms": 199641,
+      "name": "Nunca Me Amo",
+      "url": "https://open.spotify.com/track/60PBNJm2fk3TnhZU3Ltida"
+    },
+    {
+      "added_at": "2023-11-24 04:00:00",
+      "album": {
         "name": "Por Si Ma\u00f1ana",
         "url": "https://open.spotify.com/album/0EK7wOGPTR2Mvbf4ddWvT0"
       },
@@ -1331,22 +1355,6 @@
       "duration_ms": 187046,
       "name": "S\u00e1banas An\u00f3nimas",
       "url": "https://open.spotify.com/track/3onL7etNXsBumOa4HmFnqE"
-    },
-    {
-      "added_at": "2023-11-24 04:00:00",
-      "album": {
-        "name": "C14TORCE III",
-        "url": "https://open.spotify.com/album/588LtwOHlhE4L4VulRdO7e"
-      },
-      "artists": [
-        {
-          "name": "Cazzu",
-          "url": "https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y"
-        }
-      ],
-      "duration_ms": 143680,
-      "name": "C14TORCE III",
-      "url": "https://open.spotify.com/track/5feYWe3hr9hZ7jEXfa2UcS"
     },
     {
       "added_at": "2023-11-24 04:00:00",
@@ -1371,6 +1379,22 @@
       "duration_ms": 233691,
       "name": "Champagne",
       "url": "https://open.spotify.com/track/42aeewG3eWoiBVPHL4uIXs"
+    },
+    {
+      "added_at": "2023-11-24 04:00:00",
+      "album": {
+        "name": "C14TORCE III",
+        "url": "https://open.spotify.com/album/588LtwOHlhE4L4VulRdO7e"
+      },
+      "artists": [
+        {
+          "name": "Cazzu",
+          "url": "https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y"
+        }
+      ],
+      "duration_ms": 143680,
+      "name": "C14TORCE III",
+      "url": "https://open.spotify.com/track/5feYWe3hr9hZ7jEXfa2UcS"
     },
     {
       "added_at": "2023-11-24 04:00:00",
@@ -1455,26 +1479,6 @@
     {
       "added_at": "2023-11-24 04:00:00",
       "album": {
-        "name": "Si No Fue Asi",
-        "url": "https://open.spotify.com/album/65q7oPWAcJxVRQzrBMveRd"
-      },
-      "artists": [
-        {
-          "name": "Midel",
-          "url": "https://open.spotify.com/artist/4EcIU574ksr6mC1GMEOe0p"
-        },
-        {
-          "name": "Seven Kayne",
-          "url": "https://open.spotify.com/artist/4C29ETLBPmYKYwtJUepbJz"
-        }
-      ],
-      "duration_ms": 185196,
-      "name": "Si No Fue Asi",
-      "url": "https://open.spotify.com/track/1wdAd6JuFOaFfLbzNXPR0Y"
-    },
-    {
-      "added_at": "2023-11-24 04:00:00",
-      "album": {
         "name": "DESPUES QUE TE PERDI",
         "url": "https://open.spotify.com/album/42WNwBmPUmwfEfU92jiLvn"
       },
@@ -1491,6 +1495,26 @@
       "duration_ms": 247174,
       "name": "DESPUES QUE TE PERDI",
       "url": "https://open.spotify.com/track/5gsW8TMmNVnevjq13h0Nlp"
+    },
+    {
+      "added_at": "2023-11-24 04:00:00",
+      "album": {
+        "name": "Si No Fue Asi",
+        "url": "https://open.spotify.com/album/65q7oPWAcJxVRQzrBMveRd"
+      },
+      "artists": [
+        {
+          "name": "Midel",
+          "url": "https://open.spotify.com/artist/4EcIU574ksr6mC1GMEOe0p"
+        },
+        {
+          "name": "Seven Kayne",
+          "url": "https://open.spotify.com/artist/4C29ETLBPmYKYwtJUepbJz"
+        }
+      ],
+      "duration_ms": 185196,
+      "name": "Si No Fue Asi",
+      "url": "https://open.spotify.com/track/1wdAd6JuFOaFfLbzNXPR0Y"
     },
     {
       "added_at": "2023-11-24 04:00:00",
@@ -1547,30 +1571,6 @@
       "duration_ms": 141688,
       "name": "Digame Usted",
       "url": "https://open.spotify.com/track/5ePqRYI7zlRq7xCDfO3cJ7"
-    },
-    {
-      "added_at": "2023-11-24 04:00:00",
-      "album": {
-        "name": "Chosen Few: New Generation",
-        "url": "https://open.spotify.com/album/3OrduFrOK2uqkUdlzdeUnj"
-      },
-      "artists": [
-        {
-          "name": "Boy Wonder CF",
-          "url": "https://open.spotify.com/artist/01nUdqwuIHCHLZNP2TvYVF"
-        },
-        {
-          "name": "Jon Z",
-          "url": "https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1"
-        },
-        {
-          "name": "Baby Rasta",
-          "url": "https://open.spotify.com/artist/0GgyFUpOyzWDRDqx8FCTDN"
-        }
-      ],
-      "duration_ms": 199641,
-      "name": "Nunca Me Amo",
-      "url": "https://open.spotify.com/track/60PBNJm2fk3TnhZU3Ltida"
     },
     {
       "added_at": "2023-11-24 04:00:00",
@@ -1643,6 +1643,22 @@
     {
       "added_at": "2023-11-24 04:00:00",
       "album": {
+        "name": "Estrellas",
+        "url": "https://open.spotify.com/album/0bO3g7DlawvGhpl4jpRU06"
+      },
+      "artists": [
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        }
+      ],
+      "duration_ms": 186461,
+      "name": "Estrellas",
+      "url": "https://open.spotify.com/track/0lEhCYREsnlzPTDFVWgSCv"
+    },
+    {
+      "added_at": "2023-11-24 04:00:00",
+      "album": {
         "name": "L\u00e1grimas",
         "url": "https://open.spotify.com/album/1ohao2KDQwLkTR3shBAQKi"
       },
@@ -1659,22 +1675,6 @@
       "duration_ms": 165332,
       "name": "L\u00e1grimas",
       "url": "https://open.spotify.com/track/6lqAPHFWOM0m6n6yHJxryB"
-    },
-    {
-      "added_at": "2023-11-24 04:00:00",
-      "album": {
-        "name": "Estrellas",
-        "url": "https://open.spotify.com/album/0bO3g7DlawvGhpl4jpRU06"
-      },
-      "artists": [
-        {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
-        }
-      ],
-      "duration_ms": 186461,
-      "name": "Estrellas",
-      "url": "https://open.spotify.com/track/0lEhCYREsnlzPTDFVWgSCv"
     },
     {
       "added_at": "2023-11-24 04:00:00",
@@ -1699,6 +1699,22 @@
     {
       "added_at": "2023-11-24 04:00:00",
       "album": {
+        "name": "Wake Me",
+        "url": "https://open.spotify.com/album/2ymNHseI83zQVhSOTC2R3m"
+      },
+      "artists": [
+        {
+          "name": "LIT killah",
+          "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
+        }
+      ],
+      "duration_ms": 174335,
+      "name": "Wake Me",
+      "url": "https://open.spotify.com/track/1fWa8CXfSZvP64CChqRve9"
+    },
+    {
+      "added_at": "2023-11-24 04:00:00",
+      "album": {
         "name": "Pa Mi",
         "url": "https://open.spotify.com/album/5sP1lpFKLvJuO5egElrW9K"
       },
@@ -1715,22 +1731,6 @@
       "duration_ms": 228231,
       "name": "Pa Mi",
       "url": "https://open.spotify.com/track/5m8hIduzkrvf191VO9CQu4"
-    },
-    {
-      "added_at": "2023-11-24 04:00:00",
-      "album": {
-        "name": "Wake Me",
-        "url": "https://open.spotify.com/album/2ymNHseI83zQVhSOTC2R3m"
-      },
-      "artists": [
-        {
-          "name": "LIT killah",
-          "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
-        }
-      ],
-      "duration_ms": 174335,
-      "name": "Wake Me",
-      "url": "https://open.spotify.com/track/1fWa8CXfSZvP64CChqRve9"
     },
     {
       "added_at": "2023-11-24 04:00:00",

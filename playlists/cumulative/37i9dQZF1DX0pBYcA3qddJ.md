@@ -4,7 +4,7 @@
 
 > 夜になる一歩手前の時刻に一瞬でもリラックスできるような、音響系オルタナティブとクラシックミュージックを。
 
-613 songs - 1 day 17 hr 33 min
+614 songs - 1 day 17 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,7 +60,8 @@
 | [Aselestine](https://open.spotify.com/track/2M7TQ7SQVGxLhIV43yTN8I) | [Yo La Tengo](https://open.spotify.com/artist/5hAhrnb0Ch4ODwWu4tsbpi) | [Aselestine](https://open.spotify.com/album/3YO4xzqS7a56VCkqxgsoy2) | 3:50 | 2023-01-10 | 2023-03-19 |
 | [Aselestine \- Bunker Session](https://open.spotify.com/track/5APOkC9qu8igSKMFnPWuV3) | [Yo La Tengo](https://open.spotify.com/artist/5hAhrnb0Ch4ODwWu4tsbpi) | [The Bunker Sessions](https://open.spotify.com/album/45egp7YH1xLEbj2OkVetsX) | 3:42 | 2023-11-07 | 2023-11-22 |
 | [Asian blue](https://open.spotify.com/track/4vagpWrJ7tFrq33TcljmGB) | [Ichiro Takamoto](https://open.spotify.com/artist/0e6KRrsS9hkrOFoj5fFvFa) | [シャコンヌ・オリエンターレ2](https://open.spotify.com/album/4nuVKjPj8d7HqX8VhOgJsh) | 5:39 | 2023-06-13 | 2023-08-04 |
-| [Ask me why\(母の思い\)](https://open.spotify.com/track/1ej3rD4t8Fb2n6tZskXFIu) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB) | [君たちはどう生きるか　サウンドトラック](https://open.spotify.com/album/4OGf5cOhoHWaXEu0XnsF1t) | 1:48 | 2023-08-15 |  |
+| [Ask Me Why \(Mother's Message\)](https://open.spotify.com/track/104EutLydSehDHiEjmtdBo) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB) | [The Boy and the Heron \- Original Soundtrack](https://open.spotify.com/album/6oXCKKghd9Shmz2iU7ebbW) | 1:48 | 2023-11-30 |  |
+| [Ask me why\(母の思い\)](https://open.spotify.com/track/1ej3rD4t8Fb2n6tZskXFIu) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB) | [君たちはどう生きるか　サウンドトラック](https://open.spotify.com/album/4OGf5cOhoHWaXEu0XnsF1t) | 1:48 | 2023-08-15 | 2023-12-02 |
 | [Asleep Among Endives](https://open.spotify.com/track/0RD3NWnHlyBCRwgNZy8QAn) | [Ichiko Aoba](https://open.spotify.com/artist/6ignRjbPmLvKdtMLj9a5Xs) | [Asleep Among Endives](https://open.spotify.com/album/6pKCyXWoV7zhgDczCO0H6S) | 5:06 | 2023-11-28 |  |
 | [atoms:arpeggi](https://open.spotify.com/track/3bWs6s31PD86lrCnqCzIXg) | [カムパネルラ](https://open.spotify.com/artist/18SAolJ2AN8sWD4phnpUip) | [good night atoms](https://open.spotify.com/album/1NRIaCnYcCSEQVQeAW6pnv) | 5:15 | 2022-10-20 | 2022-11-30 |
 | [Autumn](https://open.spotify.com/track/2XoMlZvgC04htxdJKUsZbL) | [Classy Moon](https://open.spotify.com/artist/18XF0GkyaRiReG48B4UGJI) | [Autumn](https://open.spotify.com/album/48i19LUxu0E7NsVv2sgqNu) | 1:36 | 2023-09-20 | 2023-11-03 |
@@ -269,7 +270,7 @@
 | [Letting Go](https://open.spotify.com/track/5PTZ3ef9lHE6YJqxp9nhh9) | [Hollow Coves](https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6) | [Letting Go](https://open.spotify.com/album/6i9Q0J3gdMhjra2NRrb5B4) | 3:29 | 2023-10-19 |  |
 | [Levia](https://open.spotify.com/track/3IGhQg2Kto8vFgj3cTVyNL) | [Sunset Rollercoaster](https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532) | [Levia](https://open.spotify.com/album/0FEsV9OkvUAEie5BZEUkU7) | 4:28 | 2023-02-21 | 2023-03-01 |
 | [Levia](https://open.spotify.com/track/4MWgA0WnupVRiZNtdY64bL) | [Sunset Rollercoaster](https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532), [鳳小岳](https://open.spotify.com/artist/3pr7TMfQrob0tDAfN3UeUh) | [Levia](https://open.spotify.com/album/5UFVnvpUGMZbms0f4hoGLo) | 4:28 | 2023-02-21 | 2023-02-23 |
-| [Like a Child](https://open.spotify.com/track/2J9UTgDdul3kMGZgnsUZIp) | [Hiroko Murakami](https://open.spotify.com/artist/2FPMZBH13ARkDrd37sIp13), [Hiroco.M](https://open.spotify.com/artist/723sN2rn2hMtdiMbzAZ3Of) | [Like a Child](https://open.spotify.com/album/4RF4Nz20dvgZUk2iSXbddV) | 2:35 | 2023-02-28 |  |
+| [Like a Child](https://open.spotify.com/track/2J9UTgDdul3kMGZgnsUZIp) | [Hiroko Murakami](https://open.spotify.com/artist/2FPMZBH13ARkDrd37sIp13), [Hiroco.M](https://open.spotify.com/artist/723sN2rn2hMtdiMbzAZ3Of) | [Like a Child](https://open.spotify.com/album/4RF4Nz20dvgZUk2iSXbddV) | 2:35 | 2023-02-28 | 2023-12-02 |
 | [Like a White Flower](https://open.spotify.com/track/7prVZRI0RnGDP1qYdiSmMH) | [Naoki Kanda](https://open.spotify.com/artist/6LjDW7YzX2GubNeJR9Yk5b), [Yukiharu Ito](https://open.spotify.com/artist/2eatv5mHMm8Tk8sjnqMT8t) | [neiro](https://open.spotify.com/album/6TCmGyhwZAo6A2DuLSsctc) | 3:48 | 2023-02-28 | 2023-03-15 |
 | [Lily](https://open.spotify.com/track/0GKWtlvylWnedpqA3ktByn) | [tuLaLa](https://open.spotify.com/artist/4wIQiuAfiuUrZa9Evt64Cd) | [Lily](https://open.spotify.com/album/5OUOq95UwuLQ78pja83Jqa) | 2:18 | 2023-01-31 | 2023-02-25 |
 | [Liszt: コンソレーション\(慰め\)第3番](https://open.spotify.com/track/747WCtQZU8rPeywmUrTJkH) | [Franz Liszt](https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2), [Miyuji Kaneko](https://open.spotify.com/artist/1P9zpzupo4lDtMYqC96WLE) | [リスト・リサイタル](https://open.spotify.com/album/5wW0Umm77TQjMihv2RUU8b) | 4:31 | 2022-10-20 | 2022-11-11 |
@@ -412,7 +413,7 @@
 | [Scene II, Kyoto](https://open.spotify.com/track/1PAir9FZ9zwcb5xyVECQfk) | [Umitaro Abe](https://open.spotify.com/artist/5JZautVqz7ojSZdWHldk7b) | [Cahier de musique / 音楽手帖](https://open.spotify.com/album/58qq0mSyZZV66wEDiMu93i) | 4:27 | 2023-06-13 | 2023-09-06 |
 | [Seconds](https://open.spotify.com/track/1tObJybm96JPKfR56vTh7m) | [Beach Fossils](https://open.spotify.com/artist/1bwUhKRmEkOZ1wuTnV9XjC) | [Seconds](https://open.spotify.com/album/5lNnIDwtLluGqbDmgD62Nn) | 3:07 | 2023-05-11 | 2023-06-05 |
 | [Seconds](https://open.spotify.com/track/2FTsxG2HYUcGuEPHFT6rjE) | [Beach Fossils](https://open.spotify.com/artist/1bwUhKRmEkOZ1wuTnV9XjC) | [Bunny](https://open.spotify.com/album/5cyu3tkdmGoB0BC0EJfz2V) | 3:07 | 2023-06-13 | 2023-07-12 |
-| [See you Soon](https://open.spotify.com/track/5W5N23Xz1Zk6Qi8wkP8UPM) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [See you Soon](https://open.spotify.com/album/7K4sR6OiINBpj00mFmiLoG) | 3:26 | 2022-10-20 | 2023-11-29 |
+| [See you Soon](https://open.spotify.com/track/5W5N23Xz1Zk6Qi8wkP8UPM) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [See you Soon](https://open.spotify.com/album/7K4sR6OiINBpj00mFmiLoG) | 3:26 | 2022-10-20 |  |
 | [Sentimental](https://open.spotify.com/track/5zQraIoPAXGCBRx9spNtCn) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [Sentimental](https://open.spotify.com/album/7vcX2nndbcQzkpqJbatqM2) | 3:38 | 2023-11-02 |  |
 | [Shadow Dancer](https://open.spotify.com/track/1chRvBbPEbPBhdoINC3wMX) | [Shizuka Kanata](https://open.spotify.com/artist/1b1Iv5ZQQz9VXHOhFe1TCy) | [Shadow Dancer](https://open.spotify.com/album/3X94LxNBzncpYZ3SSAr4yc) | 4:28 | 2023-01-26 | 2023-03-01 |
 | [Shadow In The Storm](https://open.spotify.com/track/5baV4ZFU0mhUVbrcZyv4FD) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN) | [Passing](https://open.spotify.com/album/3oPVTRtA5zQKKSgBPlYpzG) | 3:35 | 2023-03-09 | 2023-05-05 |

@@ -226,7 +226,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-25",
+      "date_removed": null,
       "duration_ms": 202866,
       "name": "El Dia Que Me Quieras",
       "url": "https://open.spotify.com/track/76QoEfEGQKIVnYsQufETfK"
@@ -771,6 +771,24 @@
     },
     {
       "album": {
+        "name": "Naranjo en Flor",
+        "url": "https://open.spotify.com/album/0tWoRmyt1H182J4jTeIwUT"
+      },
+      "artists": [
+        {
+          "name": "Ugo Mur",
+          "url": "https://open.spotify.com/artist/1mYGDTWr3rwgypPbttgjkS"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197000,
+      "name": "Naranjo en Flor",
+      "url": "https://open.spotify.com/track/11Wr4jrWK0DzEM03s28OOC"
+    },
+    {
+      "album": {
         "name": "Di Meola Plays Piazzolla",
         "url": "https://open.spotify.com/album/1z737UccnQ0DiLcSIdrpw0"
       },
@@ -964,7 +982,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 134272,
       "name": "Porque Canto Asi",
       "url": "https://open.spotify.com/track/7mhcAUfgNvWpt1kw64UMpw"
@@ -1418,7 +1436,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 272033,
       "name": "Viaje Sin Luna",
       "url": "https://open.spotify.com/track/1LEU5VOD3tUQabsMTPBY19"

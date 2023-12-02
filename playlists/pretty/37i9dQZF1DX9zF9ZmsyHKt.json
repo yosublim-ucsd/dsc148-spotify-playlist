@@ -1,12 +1,12 @@
 {
   "description": "Grandes vozes da m\u00fasica brasileira de hoje e de ontem reunidas em uma \u00fanica playlist. Foto: Gal Costa",
-  "num_followers": 330326,
+  "num_followers": 330407,
   "original_name": "Escuta as Minas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5YWVjOWUxZGVjMjYwNWNjZDMxMjEyOGY1NmYxOTRjMWI2MTNjYjVl",
+  "snapshot_id": "MCwwMTJkMWZmNGY3ZTU4YzFjNmMxMTdjMjhmM2RjOGEwZjNhMzQwZDdj",
   "tracks": [
     {
       "added_at": "2022-10-07 03:01:33",
@@ -227,22 +227,6 @@
     {
       "added_at": "2022-10-07 03:01:33",
       "album": {
-        "name": "Maria Gad\u00fa",
-        "url": "https://open.spotify.com/album/60zdKaNDD0nMnM90ndtcGF"
-      },
-      "artists": [
-        {
-          "name": "Maria Gad\u00fa",
-          "url": "https://open.spotify.com/artist/3uCu2WgyG0Iw50ylOYDSpH"
-        }
-      ],
-      "duration_ms": 211080,
-      "name": "Dona Cila",
-      "url": "https://open.spotify.com/track/4eGOBCZyjEQ6WckqOVz0ES"
-    },
-    {
-      "added_at": "2022-10-07 03:01:33",
-      "album": {
         "name": "Livre (Ao Vivo / Deluxe)",
         "url": "https://open.spotify.com/album/5XzBQMo9WMrpRlgoBaeTIf"
       },
@@ -255,6 +239,22 @@
       "duration_ms": 164407,
       "name": "Viva Voz - Ao Vivo Em S\u00e3o Paulo / 2019",
       "url": "https://open.spotify.com/track/1jomN1tLiPE5eGd9siFJYE"
+    },
+    {
+      "added_at": "2022-10-07 03:01:33",
+      "album": {
+        "name": "Maria Gad\u00fa",
+        "url": "https://open.spotify.com/album/60zdKaNDD0nMnM90ndtcGF"
+      },
+      "artists": [
+        {
+          "name": "Maria Gad\u00fa",
+          "url": "https://open.spotify.com/artist/3uCu2WgyG0Iw50ylOYDSpH"
+        }
+      ],
+      "duration_ms": 211080,
+      "name": "Dona Cila",
+      "url": "https://open.spotify.com/track/4eGOBCZyjEQ6WckqOVz0ES"
     },
     {
       "added_at": "2022-10-07 03:01:33",
@@ -647,22 +647,6 @@
     {
       "added_at": "2022-10-07 03:01:33",
       "album": {
-        "name": "Te Fa\u00e7o um Cafun\u00e9",
-        "url": "https://open.spotify.com/album/1k35AKHHe1G9pnmIRsAJf0"
-      },
-      "artists": [
-        {
-          "name": "Mariana Aydar",
-          "url": "https://open.spotify.com/artist/3rE82NMVBb5C5tQ83o8u8N"
-        }
-      ],
-      "duration_ms": 227604,
-      "name": "Te Fa\u00e7o um Cafun\u00e9",
-      "url": "https://open.spotify.com/track/2PxakiZUhHmFdp5G3sBiXD"
-    },
-    {
-      "added_at": "2022-10-07 03:01:33",
-      "album": {
         "name": "Diaba",
         "url": "https://open.spotify.com/album/01o2odeolV6Ke76Q2QTVyS"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 165890,
       "name": "Diaba",
       "url": "https://open.spotify.com/track/4Zhxtm6x56wEiRtSMAl28n"
+    },
+    {
+      "added_at": "2022-10-07 03:01:33",
+      "album": {
+        "name": "Te Fa\u00e7o um Cafun\u00e9",
+        "url": "https://open.spotify.com/album/1k35AKHHe1G9pnmIRsAJf0"
+      },
+      "artists": [
+        {
+          "name": "Mariana Aydar",
+          "url": "https://open.spotify.com/artist/3rE82NMVBb5C5tQ83o8u8N"
+        }
+      ],
+      "duration_ms": 227604,
+      "name": "Te Fa\u00e7o um Cafun\u00e9",
+      "url": "https://open.spotify.com/track/2PxakiZUhHmFdp5G3sBiXD"
     },
     {
       "added_at": "2022-10-07 03:01:33",
@@ -811,18 +811,18 @@
     {
       "added_at": "2022-10-07 03:01:33",
       "album": {
-        "name": "Sempre a Cantar",
-        "url": "https://open.spotify.com/album/1HyCOfJKZJ2uQqQfenUaGO"
+        "name": "Sandra de S\u00e1 - 1982",
+        "url": "https://open.spotify.com/album/7wB73SnTyYvV1PV0XNP9ol"
       },
       "artists": [
         {
-          "name": "Dona Ivone Lara",
-          "url": "https://open.spotify.com/artist/6Q1U3z1hge970f3QhrPKcW"
+          "name": "Sandra De S\u00e1",
+          "url": "https://open.spotify.com/artist/5Rxz1EE4Jj08mu40vlrqHv"
         }
       ],
-      "duration_ms": 304866,
-      "name": "Algu\u00e9m Me Avisou/Acreditar/Sonho Meu",
-      "url": "https://open.spotify.com/track/6YJIXLfsDa9sR5iTmlCkoX"
+      "duration_ms": 267266,
+      "name": "Olhos Coloridos",
+      "url": "https://open.spotify.com/track/45XopGhwYSgooiewaZNsSd"
     },
     {
       "added_at": "2022-10-07 03:01:33",
@@ -843,18 +843,18 @@
     {
       "added_at": "2022-10-07 03:01:33",
       "album": {
-        "name": "Sandra de S\u00e1 - 1982",
-        "url": "https://open.spotify.com/album/7wB73SnTyYvV1PV0XNP9ol"
+        "name": "Sempre a Cantar",
+        "url": "https://open.spotify.com/album/1HyCOfJKZJ2uQqQfenUaGO"
       },
       "artists": [
         {
-          "name": "Sandra De S\u00e1",
-          "url": "https://open.spotify.com/artist/5Rxz1EE4Jj08mu40vlrqHv"
+          "name": "Dona Ivone Lara",
+          "url": "https://open.spotify.com/artist/6Q1U3z1hge970f3QhrPKcW"
         }
       ],
-      "duration_ms": 267266,
-      "name": "Olhos Coloridos",
-      "url": "https://open.spotify.com/track/45XopGhwYSgooiewaZNsSd"
+      "duration_ms": 304866,
+      "name": "Algu\u00e9m Me Avisou/Acreditar/Sonho Meu",
+      "url": "https://open.spotify.com/track/6YJIXLfsDa9sR5iTmlCkoX"
     },
     {
       "added_at": "2022-10-07 03:01:33",
@@ -911,6 +911,26 @@
     {
       "added_at": "2022-10-07 03:01:33",
       "album": {
+        "name": "S\u00f3 o Amor",
+        "url": "https://open.spotify.com/album/2gZUcyRw3gKqRGuFdY2deZ"
+      },
+      "artists": [
+        {
+          "name": "Preta Gil",
+          "url": "https://open.spotify.com/artist/1i2xi8v7H0aXgMNZcOaYzB"
+        },
+        {
+          "name": "Gloria Groove",
+          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
+        }
+      ],
+      "duration_ms": 178105,
+      "name": "S\u00f3 o Amor",
+      "url": "https://open.spotify.com/track/3lXeWqRVz2NctBJL5kW00Z"
+    },
+    {
+      "added_at": "2022-10-07 03:01:33",
+      "album": {
         "name": "Sol e Mar, Vol. 2",
         "url": "https://open.spotify.com/album/6IufTTOJqfnjPv9JURerlY"
       },
@@ -931,22 +951,18 @@
     {
       "added_at": "2022-10-07 03:01:33",
       "album": {
-        "name": "S\u00f3 o Amor",
-        "url": "https://open.spotify.com/album/2gZUcyRw3gKqRGuFdY2deZ"
+        "name": "LoveSong",
+        "url": "https://open.spotify.com/album/4MHpH5xowDkLR6BgImxHNS"
       },
       "artists": [
         {
-          "name": "Preta Gil",
-          "url": "https://open.spotify.com/artist/1i2xi8v7H0aXgMNZcOaYzB"
-        },
-        {
-          "name": "Gloria Groove",
-          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
+          "name": "Ebony",
+          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
         }
       ],
-      "duration_ms": 178105,
-      "name": "S\u00f3 o Amor",
-      "url": "https://open.spotify.com/track/3lXeWqRVz2NctBJL5kW00Z"
+      "duration_ms": 142268,
+      "name": "LoveSong",
+      "url": "https://open.spotify.com/track/2EKr8S6HHKJcuRXdxXDbwD"
     },
     {
       "added_at": "2022-10-07 03:01:33",
@@ -979,22 +995,6 @@
       "duration_ms": 137608,
       "name": "Eu T\u00f4 Gostando de um Menino A\u00ed",
       "url": "https://open.spotify.com/track/1vXMChJ2MGtI0vq9t6kjDB"
-    },
-    {
-      "added_at": "2022-10-07 03:01:33",
-      "album": {
-        "name": "LoveSong",
-        "url": "https://open.spotify.com/album/4MHpH5xowDkLR6BgImxHNS"
-      },
-      "artists": [
-        {
-          "name": "Ebony",
-          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
-        }
-      ],
-      "duration_ms": 142268,
-      "name": "LoveSong",
-      "url": "https://open.spotify.com/track/2EKr8S6HHKJcuRXdxXDbwD"
     },
     {
       "added_at": "2022-10-07 03:01:33",
@@ -1175,6 +1175,22 @@
     {
       "added_at": "2022-10-07 03:01:33",
       "album": {
+        "name": "Rito de Pass\u00e1",
+        "url": "https://open.spotify.com/album/2VdGX4c99Au3aGtR1HJAIm"
+      },
+      "artists": [
+        {
+          "name": "Mc Tha",
+          "url": "https://open.spotify.com/artist/0fpg4Y7Q6ZRDSppLLt7G0n"
+        }
+      ],
+      "duration_ms": 201235,
+      "name": "Rito de Pass\u00e1",
+      "url": "https://open.spotify.com/track/7mQF4G6Syae2fCUSSxPjRX"
+    },
+    {
+      "added_at": "2022-10-07 03:01:33",
+      "album": {
         "name": "Ambulante",
         "url": "https://open.spotify.com/album/6uZweI7OXLIS8WwYb0eVCV"
       },
@@ -1191,22 +1207,6 @@
       "duration_ms": 151520,
       "name": "Saudade",
       "url": "https://open.spotify.com/track/3AzSGIT3SYFXl1o9c6zdQC"
-    },
-    {
-      "added_at": "2022-10-07 03:01:33",
-      "album": {
-        "name": "Rito de Pass\u00e1",
-        "url": "https://open.spotify.com/album/2VdGX4c99Au3aGtR1HJAIm"
-      },
-      "artists": [
-        {
-          "name": "Mc Tha",
-          "url": "https://open.spotify.com/artist/0fpg4Y7Q6ZRDSppLLt7G0n"
-        }
-      ],
-      "duration_ms": 201235,
-      "name": "Rito de Pass\u00e1",
-      "url": "https://open.spotify.com/track/7mQF4G6Syae2fCUSSxPjRX"
     },
     {
       "added_at": "2022-10-07 03:01:33",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2022-10-07 03:01:33",
       "album": {
-        "name": "Psiu",
-        "url": "https://open.spotify.com/album/71oJRTxnV00wZA0NwPRH0v"
-      },
-      "artists": [
-        {
-          "name": "Liniker",
-          "url": "https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C"
-        }
-      ],
-      "duration_ms": 297128,
-      "name": "Psiu",
-      "url": "https://open.spotify.com/track/3aMOVCxQt9Xhoy1MdygCcv"
-    },
-    {
-      "added_at": "2022-10-07 03:01:33",
-      "album": {
         "name": "Origem",
         "url": "https://open.spotify.com/album/2BPbMEyJZbHZ4Yre9s4AN8"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 281034,
       "name": "Feito Fuma\u00e7a",
       "url": "https://open.spotify.com/track/2WmQKaMmgbvVASSYNlcnd1"
+    },
+    {
+      "added_at": "2022-10-07 03:01:33",
+      "album": {
+        "name": "Psiu",
+        "url": "https://open.spotify.com/album/71oJRTxnV00wZA0NwPRH0v"
+      },
+      "artists": [
+        {
+          "name": "Liniker",
+          "url": "https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C"
+        }
+      ],
+      "duration_ms": 297128,
+      "name": "Psiu",
+      "url": "https://open.spotify.com/track/3aMOVCxQt9Xhoy1MdygCcv"
     },
     {
       "added_at": "2022-10-07 03:01:33",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2022-10-07 03:01:33",
       "album": {
-        "name": "Me Toca",
-        "url": "https://open.spotify.com/album/7n5J2k1hvnJ9UZ1BGBBLrU"
-      },
-      "artists": [
-        {
-          "name": "Marina Sena",
-          "url": "https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L"
-        }
-      ],
-      "duration_ms": 186042,
-      "name": "Me Toca",
-      "url": "https://open.spotify.com/track/2uSeVS09DW8FnBgc61eHDW"
-    },
-    {
-      "added_at": "2022-10-07 03:01:33",
-      "album": {
         "name": "Letrux em Noite de Clim\u00e3o",
         "url": "https://open.spotify.com/album/7fjCl4UUhvatyhujWTaebT"
       },
@@ -1359,6 +1343,22 @@
       "duration_ms": 321647,
       "name": "Ningu\u00e9m Perguntou por Voc\u00ea",
       "url": "https://open.spotify.com/track/5O1KKCymoKvOOOfbLBsIG2"
+    },
+    {
+      "added_at": "2022-10-07 03:01:33",
+      "album": {
+        "name": "Me Toca",
+        "url": "https://open.spotify.com/album/7n5J2k1hvnJ9UZ1BGBBLrU"
+      },
+      "artists": [
+        {
+          "name": "Marina Sena",
+          "url": "https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L"
+        }
+      ],
+      "duration_ms": 186042,
+      "name": "Me Toca",
+      "url": "https://open.spotify.com/track/2uSeVS09DW8FnBgc61eHDW"
     },
     {
       "added_at": "2022-10-07 03:01:33",
@@ -1571,6 +1571,22 @@
     {
       "added_at": "2022-10-07 03:01:33",
       "album": {
+        "name": "Little Electric Chicken Heart",
+        "url": "https://open.spotify.com/album/4q7tlhOQTwlJAUkoFBa2dv"
+      },
+      "artists": [
+        {
+          "name": "Ana Frango El\u00e9trico",
+          "url": "https://open.spotify.com/artist/7uvxsk688pwnBNA62cTKS1"
+        }
+      ],
+      "duration_ms": 220451,
+      "name": "Saudade",
+      "url": "https://open.spotify.com/track/1913rwKfOrsp8R6CY37b7H"
+    },
+    {
+      "added_at": "2022-10-07 03:01:33",
+      "album": {
         "name": "Pra Te Lembrar [Trilha da Novela Sete Vidas]",
         "url": "https://open.spotify.com/album/20RxMq4XRBg30WRqjBwTGb"
       },
@@ -1603,18 +1619,18 @@
     {
       "added_at": "2022-10-07 03:01:33",
       "album": {
-        "name": "TODXS",
-        "url": "https://open.spotify.com/album/4lfWlZdnEh4RDZk8qxmK8b"
+        "name": "Beijo De Judas",
+        "url": "https://open.spotify.com/album/1xX3pKCNf3ZQ1gmaXKu0Zd"
       },
       "artists": [
         {
-          "name": "Ana Ca\u00f1as",
-          "url": "https://open.spotify.com/artist/4v1mao101nIWvxzotCSKyz"
+          "name": "Carol Biazin",
+          "url": "https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN"
         }
       ],
-      "duration_ms": 269706,
-      "name": "Eu Amo Voc\u00ea",
-      "url": "https://open.spotify.com/track/0NhJfWTezhboBET4DCXNO5"
+      "duration_ms": 153635,
+      "name": "Frank Ocean",
+      "url": "https://open.spotify.com/track/1YfAhV5hYhxhVdi0sTVh9b"
     },
     {
       "added_at": "2022-10-07 03:01:33",
@@ -1635,34 +1651,18 @@
     {
       "added_at": "2022-10-07 03:01:33",
       "album": {
-        "name": "Beijo De Judas",
-        "url": "https://open.spotify.com/album/1xX3pKCNf3ZQ1gmaXKu0Zd"
+        "name": "TODXS",
+        "url": "https://open.spotify.com/album/4lfWlZdnEh4RDZk8qxmK8b"
       },
       "artists": [
         {
-          "name": "Carol Biazin",
-          "url": "https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN"
+          "name": "Ana Ca\u00f1as",
+          "url": "https://open.spotify.com/artist/4v1mao101nIWvxzotCSKyz"
         }
       ],
-      "duration_ms": 153635,
-      "name": "Frank Ocean",
-      "url": "https://open.spotify.com/track/1YfAhV5hYhxhVdi0sTVh9b"
-    },
-    {
-      "added_at": "2022-10-07 03:01:33",
-      "album": {
-        "name": "Little Electric Chicken Heart",
-        "url": "https://open.spotify.com/album/4q7tlhOQTwlJAUkoFBa2dv"
-      },
-      "artists": [
-        {
-          "name": "Ana Frango El\u00e9trico",
-          "url": "https://open.spotify.com/artist/7uvxsk688pwnBNA62cTKS1"
-        }
-      ],
-      "duration_ms": 220451,
-      "name": "Saudade",
-      "url": "https://open.spotify.com/track/1913rwKfOrsp8R6CY37b7H"
+      "duration_ms": 269706,
+      "name": "Eu Amo Voc\u00ea",
+      "url": "https://open.spotify.com/track/0NhJfWTezhboBET4DCXNO5"
     },
     {
       "added_at": "2022-10-07 03:01:33",
@@ -1699,6 +1699,22 @@
     {
       "added_at": "2022-10-07 03:01:33",
       "album": {
+        "name": "Iai\u00e1",
+        "url": "https://open.spotify.com/album/0AsxslSEmzuqJhZPT1DVGA"
+      },
+      "artists": [
+        {
+          "name": "M\u00f4nica Salmaso",
+          "url": "https://open.spotify.com/artist/6m9OlwfRBWVyiazPouhBGx"
+        }
+      ],
+      "duration_ms": 329680,
+      "name": "Menina, Amanh\u00e3 de Manh\u00e3",
+      "url": "https://open.spotify.com/track/264Jze0mvGjOzxNG8fLEuO"
+    },
+    {
+      "added_at": "2022-10-07 03:01:33",
+      "album": {
         "name": "Quer Ir no Meu Show ?",
         "url": "https://open.spotify.com/album/46nO35DqIMYP4YOo1RJukt"
       },
@@ -1715,22 +1731,6 @@
       "duration_ms": 280946,
       "name": "Quer Ir no Meu Show ?",
       "url": "https://open.spotify.com/track/4bni91rf5R2zF6xElZY5la"
-    },
-    {
-      "added_at": "2022-10-07 03:01:33",
-      "album": {
-        "name": "Iai\u00e1",
-        "url": "https://open.spotify.com/album/0AsxslSEmzuqJhZPT1DVGA"
-      },
-      "artists": [
-        {
-          "name": "M\u00f4nica Salmaso",
-          "url": "https://open.spotify.com/artist/6m9OlwfRBWVyiazPouhBGx"
-        }
-      ],
-      "duration_ms": 329680,
-      "name": "Menina, Amanh\u00e3 de Manh\u00e3",
-      "url": "https://open.spotify.com/track/264Jze0mvGjOzxNG8fLEuO"
     }
   ],
   "unique_name": "Escuta as Minas",

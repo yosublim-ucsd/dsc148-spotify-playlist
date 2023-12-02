@@ -1,12 +1,12 @@
 {
   "description": "Classics by the pioneers of the sound, and its modern-day icons. Cover: 100 gecs",
-  "num_followers": 68646,
+  "num_followers": 68912,
   "original_name": "Hyperpop Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2YmRmZmM0MmI0YzRhN2RjNjYwNzdhNjA0YjM4NjU4NTY2Y2M1ZjBj",
+  "snapshot_id": "MCw2MTgxOWZmNGFkNGJkODNlN2FkZDBhZDJkYmVmZDYyYzljODYwMThl",
   "tracks": [
     {
       "added_at": "2023-04-27 17:13:18",
@@ -625,20 +625,20 @@
       "url": "https://open.spotify.com/track/6nEDYdxD1YEWnXdbWxT6U8"
     },
     {
-      "added_at": "2023-04-27 17:13:18",
+      "added_at": "2023-06-20 14:29:14",
       "album": {
-        "name": "OIL OF EVERY PEARL'S UN-INSIDES",
-        "url": "https://open.spotify.com/album/4z3YbEkKWwiIMSJTWUQbTH"
+        "name": "bleh",
+        "url": "https://open.spotify.com/album/0TadkQAZl1xvNIiguJ9nDi"
       },
       "artists": [
         {
-          "name": "SOPHIE",
-          "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
+          "name": "quinn",
+          "url": "https://open.spotify.com/artist/2QpNu8tDPv9n7oY34J1TtN"
         }
       ],
-      "duration_ms": 232806,
-      "name": "Immaterial",
-      "url": "https://open.spotify.com/track/6GoLARmR2OZl2EldehFrsA"
+      "duration_ms": 167235,
+      "name": "ok im cool",
+      "url": "https://open.spotify.com/track/2pDjxMXn7PLMIbd526fhRb"
     },
     {
       "added_at": "2023-04-27 17:13:18",
@@ -661,20 +661,20 @@
       "url": "https://open.spotify.com/track/4l5PZhHAxCnq5EAOdN0Clh"
     },
     {
-      "added_at": "2023-06-20 14:29:14",
+      "added_at": "2023-04-27 17:13:18",
       "album": {
-        "name": "bleh",
-        "url": "https://open.spotify.com/album/0TadkQAZl1xvNIiguJ9nDi"
+        "name": "OIL OF EVERY PEARL'S UN-INSIDES",
+        "url": "https://open.spotify.com/album/4z3YbEkKWwiIMSJTWUQbTH"
       },
       "artists": [
         {
-          "name": "quinn",
-          "url": "https://open.spotify.com/artist/2QpNu8tDPv9n7oY34J1TtN"
+          "name": "SOPHIE",
+          "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
         }
       ],
-      "duration_ms": 167235,
-      "name": "ok im cool",
-      "url": "https://open.spotify.com/track/2pDjxMXn7PLMIbd526fhRb"
+      "duration_ms": 232806,
+      "name": "Immaterial",
+      "url": "https://open.spotify.com/track/6GoLARmR2OZl2EldehFrsA"
     },
     {
       "added_at": "2023-04-27 17:13:18",
@@ -799,22 +799,6 @@
     {
       "added_at": "2023-04-27 17:13:18",
       "album": {
-        "name": "Slayyyter",
-        "url": "https://open.spotify.com/album/0e35TENSTAVVkaHlVEsTtz"
-      },
-      "artists": [
-        {
-          "name": "Slayyyter",
-          "url": "https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC"
-        }
-      ],
-      "duration_ms": 215729,
-      "name": "BFF",
-      "url": "https://open.spotify.com/track/0G7ociNk1wIbXcU6uXtWPi"
-    },
-    {
-      "added_at": "2023-04-27 17:13:18",
-      "album": {
         "name": "Cake Pop 2",
         "url": "https://open.spotify.com/album/03hIzrguBWOYV7Osb3FGU8"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 146946,
       "name": "Black Rum",
       "url": "https://open.spotify.com/track/5sX8XyI1pdReiCbSpOjCaf"
+    },
+    {
+      "added_at": "2023-04-27 17:13:18",
+      "album": {
+        "name": "Slayyyter",
+        "url": "https://open.spotify.com/album/0e35TENSTAVVkaHlVEsTtz"
+      },
+      "artists": [
+        {
+          "name": "Slayyyter",
+          "url": "https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC"
+        }
+      ],
+      "duration_ms": 215729,
+      "name": "BFF",
+      "url": "https://open.spotify.com/track/0G7ociNk1wIbXcU6uXtWPi"
     },
     {
       "added_at": "2023-04-27 17:13:18",
@@ -907,22 +907,6 @@
     {
       "added_at": "2023-04-27 17:13:18",
       "album": {
-        "name": "venus fly trap",
-        "url": "https://open.spotify.com/album/3YgpnaR6GEWZcsM489YNge"
-      },
-      "artists": [
-        {
-          "name": "brakence",
-          "url": "https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV"
-        }
-      ],
-      "duration_ms": 295866,
-      "name": "venus fly trap",
-      "url": "https://open.spotify.com/track/37IFFBgI7qnLKqGP15mmIu"
-    },
-    {
-      "added_at": "2023-04-27 17:13:18",
-      "album": {
         "name": "LEGEND",
         "url": "https://open.spotify.com/album/4eLLKhnfVgXbNeiZfKXWfb"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 157752,
       "name": "LEGEND",
       "url": "https://open.spotify.com/track/1E1opYkGrFzzJnHyVHDZvq"
+    },
+    {
+      "added_at": "2023-04-27 17:13:18",
+      "album": {
+        "name": "venus fly trap",
+        "url": "https://open.spotify.com/album/3YgpnaR6GEWZcsM489YNge"
+      },
+      "artists": [
+        {
+          "name": "brakence",
+          "url": "https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV"
+        }
+      ],
+      "duration_ms": 295866,
+      "name": "venus fly trap",
+      "url": "https://open.spotify.com/track/37IFFBgI7qnLKqGP15mmIu"
     },
     {
       "added_at": "2023-06-20 14:29:14",
@@ -1071,6 +1071,26 @@
     {
       "added_at": "2023-04-27 17:13:18",
       "album": {
+        "name": "I <3 Harajuku",
+        "url": "https://open.spotify.com/album/5K2FlrS1CJZVIl81gZ5SdF"
+      },
+      "artists": [
+        {
+          "name": "Alice Longyu Gao",
+          "url": "https://open.spotify.com/artist/5HvKzBgj4yphQfBJjBJrhL"
+        },
+        {
+          "name": "Fraxiom",
+          "url": "https://open.spotify.com/artist/04Y5zXsFqYRzDr6tMXj6aL"
+        }
+      ],
+      "duration_ms": 146938,
+      "name": "I <3 Harajuku",
+      "url": "https://open.spotify.com/track/2JpMlbYEaradyfx9hraXuZ"
+    },
+    {
+      "added_at": "2023-04-27 17:13:18",
+      "album": {
         "name": "Whatuworried4?",
         "url": "https://open.spotify.com/album/4NgEu7SlyyuO2HqJidl4gp"
       },
@@ -1099,26 +1119,6 @@
       "duration_ms": 224142,
       "name": "BIPP",
       "url": "https://open.spotify.com/track/5HuOQHBDbb0UJjEE2fw6Uq"
-    },
-    {
-      "added_at": "2023-04-27 17:13:18",
-      "album": {
-        "name": "I <3 Harajuku",
-        "url": "https://open.spotify.com/album/5K2FlrS1CJZVIl81gZ5SdF"
-      },
-      "artists": [
-        {
-          "name": "Alice Longyu Gao",
-          "url": "https://open.spotify.com/artist/5HvKzBgj4yphQfBJjBJrhL"
-        },
-        {
-          "name": "Fraxiom",
-          "url": "https://open.spotify.com/artist/04Y5zXsFqYRzDr6tMXj6aL"
-        }
-      ],
-      "duration_ms": 146938,
-      "name": "I <3 Harajuku",
-      "url": "https://open.spotify.com/track/2JpMlbYEaradyfx9hraXuZ"
     },
     {
       "added_at": "2023-04-27 17:13:18",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2023-04-27 17:13:18",
       "album": {
-        "name": "FREAK",
-        "url": "https://open.spotify.com/album/0WXA8Ifv89mJAPL92qy6wF"
-      },
-      "artists": [
-        {
-          "name": "Shygirl",
-          "url": "https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy"
-        }
-      ],
-      "duration_ms": 167000,
-      "name": "FREAK",
-      "url": "https://open.spotify.com/track/1xCMyuxOhuxpndBtKLwCHI"
-    },
-    {
-      "added_at": "2023-04-27 17:13:18",
-      "album": {
         "name": "scawy monstews and nice spwites :3",
         "url": "https://open.spotify.com/album/3woULGyN1jkvkFdNtuf65S"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 96705,
       "name": "scawy monstews and nice spwites :3",
       "url": "https://open.spotify.com/track/36WzDYkUhzkrOMng4yEf1h"
+    },
+    {
+      "added_at": "2023-04-27 17:13:18",
+      "album": {
+        "name": "FREAK",
+        "url": "https://open.spotify.com/album/0WXA8Ifv89mJAPL92qy6wF"
+      },
+      "artists": [
+        {
+          "name": "Shygirl",
+          "url": "https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy"
+        }
+      ],
+      "duration_ms": 167000,
+      "name": "FREAK",
+      "url": "https://open.spotify.com/track/1xCMyuxOhuxpndBtKLwCHI"
     },
     {
       "added_at": "2023-04-27 17:13:18",
@@ -1231,6 +1231,22 @@
       "duration_ms": 173000,
       "name": "Be Your USA",
       "url": "https://open.spotify.com/track/2v3wrFuzJTGl9e4seco6n4"
+    },
+    {
+      "added_at": "2023-04-27 17:13:18",
+      "album": {
+        "name": "OIL OF EVERY PEARL'S UN-INSIDES",
+        "url": "https://open.spotify.com/album/6Rv8V4QeLgfEC01czqJsiI"
+      },
+      "artists": [
+        {
+          "name": "SOPHIE",
+          "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
+        }
+      ],
+      "duration_ms": 236937,
+      "name": "Faceshopping",
+      "url": "https://open.spotify.com/track/59PYsHSyznHHH9gujZvO5Y"
     },
     {
       "added_at": "2023-04-27 17:13:18",
@@ -1267,18 +1283,18 @@
     {
       "added_at": "2023-04-27 17:13:18",
       "album": {
-        "name": "OIL OF EVERY PEARL'S UN-INSIDES",
-        "url": "https://open.spotify.com/album/6Rv8V4QeLgfEC01czqJsiI"
+        "name": "Reflections",
+        "url": "https://open.spotify.com/album/3h1wgea55XrtVoxrkRYDBn"
       },
       "artists": [
         {
-          "name": "SOPHIE",
-          "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
+          "name": "Hannah Diamond",
+          "url": "https://open.spotify.com/artist/3sXErEOw7EmO6Sj7EgjHdU"
         }
       ],
-      "duration_ms": 236937,
-      "name": "Faceshopping",
-      "url": "https://open.spotify.com/track/59PYsHSyznHHH9gujZvO5Y"
+      "duration_ms": 256000,
+      "name": "Fade Away",
+      "url": "https://open.spotify.com/track/4FC0VE8aoYj6s1vrLj367k"
     },
     {
       "added_at": "2023-04-27 17:13:18",
@@ -1299,22 +1315,6 @@
       "duration_ms": 122153,
       "name": "Decay",
       "url": "https://open.spotify.com/track/0gcIejeOFsOjbxzU5m2BV1"
-    },
-    {
-      "added_at": "2023-04-27 17:13:18",
-      "album": {
-        "name": "Reflections",
-        "url": "https://open.spotify.com/album/3h1wgea55XrtVoxrkRYDBn"
-      },
-      "artists": [
-        {
-          "name": "Hannah Diamond",
-          "url": "https://open.spotify.com/artist/3sXErEOw7EmO6Sj7EgjHdU"
-        }
-      ],
-      "duration_ms": 256000,
-      "name": "Fade Away",
-      "url": "https://open.spotify.com/track/4FC0VE8aoYj6s1vrLj367k"
     },
     {
       "added_at": "2023-04-27 17:13:18",

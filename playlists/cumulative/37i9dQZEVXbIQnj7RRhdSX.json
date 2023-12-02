@@ -15532,7 +15532,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 197920,
       "name": "LALA",
       "url": "https://open.spotify.com/track/7ABLbnD53cQK00mhcaOUVG"
@@ -20638,6 +20638,24 @@
       "duration_ms": 149533,
       "name": "Non mi va",
       "url": "https://open.spotify.com/track/1i5KZuk9052PeWBEOgTbkG"
+    },
+    {
+      "album": {
+        "name": "Non Parlarmi (Outro)",
+        "url": "https://open.spotify.com/album/0Pgz00h9dyL1dQ1BKKIjlB"
+      },
+      "artists": [
+        {
+          "name": "Massimo Pericolo",
+          "url": "https://open.spotify.com/artist/1El4YQA8oCXX7ynFSxRTFq"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211258,
+      "name": "Non Parlarmi (Outro)",
+      "url": "https://open.spotify.com/track/0MKaWjeFXU07DGJ2LtKhoC"
     },
     {
       "album": {

@@ -1,13 +1,149 @@
 {
   "description": "The hottest new pop with all the drops. Cover: Marshmello & Tyla",
-  "num_followers": 137664,
-  "original_name": "Fresh Dance Pop",
+  "num_followers": 137706,
+  "original_name": "New Dance Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjOGUwOTQ5OTNlMzMzM2FkNjA0NDMwODhiZWY3Mjk0NmU5NmM4NmRm",
+  "snapshot_id": "MCxhYzc0MjIyZjhmNWM2NmZjOWQyZWU3MGJhYzk2YTU0ZTViNGUwNGEw",
   "tracks": [
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
+        "name": "Club Romantech (Deluxe)",
+        "url": "https://open.spotify.com/album/0xmI8Oy49CerKEajekFH4I"
+      },
+      "artists": [
+        {
+          "name": "Icona Pop",
+          "url": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
+        }
+      ],
+      "duration_ms": 161269,
+      "name": "Tears on the Dance Floor",
+      "url": "https://open.spotify.com/track/1oharO6dFvRmHKI2o65GBe"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
+        "name": "Run From You",
+        "url": "https://open.spotify.com/album/5EY4emNooAmEsHDquKD104"
+      },
+      "artists": [
+        {
+          "name": "Sigma",
+          "url": "https://open.spotify.com/artist/01pKrlgPJhm5dB4lneYAqS"
+        },
+        {
+          "name": "Grace Grundy",
+          "url": "https://open.spotify.com/artist/3pFPBG84k5bQVbL9apf2PD"
+        }
+      ],
+      "duration_ms": 167314,
+      "name": "Run From You",
+      "url": "https://open.spotify.com/track/2ouMNYPXQ6P9epCLmiqRSg"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
+        "name": "A Very Bad Fun Idea (Taken From The Film \"BONUS TRACK\")",
+        "url": "https://open.spotify.com/album/6FYhRX8riiDRSv0HpE5jvU"
+      },
+      "artists": [
+        {
+          "name": "Years & Years",
+          "url": "https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc"
+        }
+      ],
+      "duration_ms": 215211,
+      "name": "A Very Bad Fun Idea - Taken From The Film \"BONUS TRACK\"",
+      "url": "https://open.spotify.com/track/2G5JdsSuoOEHXQVqO7uFui"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
+        "name": "Don't Call Me Up",
+        "url": "https://open.spotify.com/album/7x51vYN8rt6vrpIwwQWcU2"
+      },
+      "artists": [
+        {
+          "name": "Madism",
+          "url": "https://open.spotify.com/artist/5UUdxfBMwm0hLlLgnZtBFv"
+        }
+      ],
+      "duration_ms": 143999,
+      "name": "Don't Call Me Up",
+      "url": "https://open.spotify.com/track/2fCTMmtNWFPR49sXkzwB4g"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
+        "name": "Paris",
+        "url": "https://open.spotify.com/album/5DFNdBjKvIRlPl0i76yBSC"
+      },
+      "artists": [
+        {
+          "name": "Kenya Grace",
+          "url": "https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2"
+        }
+      ],
+      "duration_ms": 180527,
+      "name": "Paris",
+      "url": "https://open.spotify.com/track/3WzmwVmkRDTYroaLg0Klcb"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
+        "name": "This Mixtape is Fire TOO",
+        "url": "https://open.spotify.com/album/5H1GCTOowyeZzBVBddvdFD"
+      },
+      "artists": [
+        {
+          "name": "Dillon Francis",
+          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
+        },
+        {
+          "name": "REI AMI",
+          "url": "https://open.spotify.com/artist/6U1dV7aL68N7Gb0Naq34V5"
+        }
+      ],
+      "duration_ms": 164286,
+      "name": "Rainy (with REI AMI)",
+      "url": "https://open.spotify.com/track/4feAKLuq3ShnAA84HcUFvf"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
+        "name": "Believe In Myself",
+        "url": "https://open.spotify.com/album/5ngmMrPiCbLRleKZXj3zqV"
+      },
+      "artists": [
+        {
+          "name": "PARISI",
+          "url": "https://open.spotify.com/artist/1UJfZU4rQx3bJ3tGypRuAT"
+        }
+      ],
+      "duration_ms": 221387,
+      "name": "Believe In Myself",
+      "url": "https://open.spotify.com/track/047hYmw8Viqwx4cavskXVy"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
+        "name": "VACANCY",
+        "url": "https://open.spotify.com/album/4kCboiPS30I9IL5cCgCmjz"
+      },
+      "artists": [
+        {
+          "name": "Switch Disco",
+          "url": "https://open.spotify.com/artist/4dEayBlrVBjaQOktGkmWki"
+        }
+      ],
+      "duration_ms": 191805,
+      "name": "VACANCY",
+      "url": "https://open.spotify.com/track/3fcVS6VEBwtD9Qo3polMCf"
+    },
     {
       "added_at": "2023-11-17 05:01:00",
       "album": {
@@ -1147,42 +1283,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Downtown",
-        "url": "https://open.spotify.com/album/1QRMi6OGmvL3PR7uctgSa7"
-      },
-      "artists": [
-        {
-          "name": "Daya",
-          "url": "https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH"
-        }
-      ],
-      "duration_ms": 131918,
-      "name": "Downtown",
-      "url": "https://open.spotify.com/track/1agzjKir1PVW91rkCbiXks"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "Looking For Loving",
-        "url": "https://open.spotify.com/album/0bX0zgIdh5HIosOanFy4gH"
-      },
-      "artists": [
-        {
-          "name": "NIMMO",
-          "url": "https://open.spotify.com/artist/76MojWoWNPzzKdrEspy5sl"
-        },
-        {
-          "name": "Satellite",
-          "url": "https://open.spotify.com/artist/0fAqPZw0Cd4XjcDwunU3bq"
-        }
-      ],
-      "duration_ms": 206616,
-      "name": "Looking For Loving",
-      "url": "https://open.spotify.com/track/4C7iQhNkgLRKGngGen5g23"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "ORAL HEX (spell on you)",
         "url": "https://open.spotify.com/album/3Z6ZQizuBnh4w78dlm6HZ1"
       },
@@ -1215,58 +1315,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "GTA.mp3",
-        "url": "https://open.spotify.com/album/7AVLk5G6gJXtgqaUJDKyF2"
-      },
-      "artists": [
-        {
-          "name": "Emilia",
-          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
-        }
-      ],
-      "duration_ms": 151653,
-      "name": "GTA.mp3",
-      "url": "https://open.spotify.com/track/3bRWGhpeNUkJfFydelSwBk"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "Better Me",
-        "url": "https://open.spotify.com/album/5IYf8D3VoKSaFcDJm6o9qL"
-      },
-      "artists": [
-        {
-          "name": "Michael Schulte",
-          "url": "https://open.spotify.com/artist/21aa4pj9BvbFB2iT8kRpnq"
-        },
-        {
-          "name": "R3HAB",
-          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
-        }
-      ],
-      "duration_ms": 166080,
-      "name": "Better Me",
-      "url": "https://open.spotify.com/track/7JStcVqmZ7NbI76tRerzaB"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "ITALODISCO (English Version)",
-        "url": "https://open.spotify.com/album/43pxODk9GVXEEnXfzzNLRu"
-      },
-      "artists": [
-        {
-          "name": "The Kolors",
-          "url": "https://open.spotify.com/artist/72A0Z8q8NiochyK9gUHpCR"
-        }
-      ],
-      "duration_ms": 199512,
-      "name": "ITALODISCO - English Version",
-      "url": "https://open.spotify.com/track/2dscdzSfNdj2QLpZkPnKTQ"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Mid Air",
         "url": "https://open.spotify.com/album/7vQRJ5q9b0c4gKrsh9yIhE"
       },
@@ -1279,22 +1327,6 @@
       "duration_ms": 181240,
       "name": "She's On My Mind",
       "url": "https://open.spotify.com/track/4heve4ydl1u6V3AD4moZq9"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "Love Another Time",
-        "url": "https://open.spotify.com/album/70IGMZw9WWJvBxO1hup51K"
-      },
-      "artists": [
-        {
-          "name": "LION BABE",
-          "url": "https://open.spotify.com/artist/4VA3EAvncrTucjTmrvd4GE"
-        }
-      ],
-      "duration_ms": 157142,
-      "name": "Love Another Time",
-      "url": "https://open.spotify.com/track/5cWt9a1Eo55aXTf04LwbcR"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1339,22 +1371,6 @@
       "duration_ms": 216774,
       "name": "Something On My Mind",
       "url": "https://open.spotify.com/track/7uEvezzgCoYmqRDloOXUSR"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "IL0V3Y0U",
-        "url": "https://open.spotify.com/album/3f2hRnl0alXw9bz8PpQSWz"
-      },
-      "artists": [
-        {
-          "name": "Faouzia",
-          "url": "https://open.spotify.com/artist/5NhgsV7qPWHZqYEMKzbYvo"
-        }
-      ],
-      "duration_ms": 163567,
-      "name": "IL0V3Y0U",
-      "url": "https://open.spotify.com/track/0MdcE5oHji8C8XCJCR5o3z"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1443,90 +1459,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Stay With Me (with Absolutely)",
-        "url": "https://open.spotify.com/album/5IcJs3auFFMiIxrDqqweC6"
-      },
-      "artists": [
-        {
-          "name": "Louis The Child",
-          "url": "https://open.spotify.com/artist/7wg1qvie3KqDNQbAkTdbX0"
-        },
-        {
-          "name": "Absolutely",
-          "url": "https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh"
-        }
-      ],
-      "duration_ms": 206964,
-      "name": "Stay With Me (with Absolutely)",
-      "url": "https://open.spotify.com/track/1p8R6ArQGBFpzoaLJiLvJh"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "Too Close",
-        "url": "https://open.spotify.com/album/0AV0Iov13auiWBGxyGQuXZ"
-      },
-      "artists": [
-        {
-          "name": "Brando",
-          "url": "https://open.spotify.com/artist/5uEeqYFuIChoWKy34jp8xE"
-        }
-      ],
-      "duration_ms": 149516,
-      "name": "Too Close",
-      "url": "https://open.spotify.com/track/54m4uPOVyjzxgh81Dr4rxS"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "Koala",
-        "url": "https://open.spotify.com/album/6TZqWG1Kk5y32ZVdrJM8aK"
-      },
-      "artists": [
-        {
-          "name": "Galantis",
-          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
-        }
-      ],
-      "duration_ms": 155668,
-      "name": "Koala",
-      "url": "https://open.spotify.com/track/0qWInbxDZ6sKLcKLRZS60E"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "GAME PLAN",
-        "url": "https://open.spotify.com/album/7xMXoWstClAzBIo5lOAASu"
-      },
-      "artists": [
-        {
-          "name": "JEON SOMI",
-          "url": "https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR"
-        }
-      ],
-      "duration_ms": 160578,
-      "name": "Fast Forward",
-      "url": "https://open.spotify.com/track/7jzOZuWgZ5gaMet9V5Ix1d"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "i'm only here for the beat",
-        "url": "https://open.spotify.com/album/67Nt0aKzoZx8rtu1GOQle1"
-      },
-      "artists": [
-        {
-          "name": "Madelline",
-          "url": "https://open.spotify.com/artist/7t6dcfG1BhMh3LTAXhxmeL"
-        }
-      ],
-      "duration_ms": 145988,
-      "name": "i'm only here for the beat",
-      "url": "https://open.spotify.com/track/2pZuspmg5dtQ8TudPoF1rf"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Girls Just Wanna Have Fun",
         "url": "https://open.spotify.com/album/7EIBCfvFJeDwPOIVn1FIq9"
       },
@@ -1565,6 +1497,6 @@
       "url": "https://open.spotify.com/track/0NUsMgXjITsbxk5WC4aleu"
     }
   ],
-  "unique_name": "Fresh Dance Pop",
+  "unique_name": "New Dance Pop",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWWOGXILUAh53"
 }

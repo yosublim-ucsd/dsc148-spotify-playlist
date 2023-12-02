@@ -4,7 +4,7 @@
 
 > All the stuff that will blow your speakers!
 
-176 songs - 9 hr 1 min
+177 songs - 9 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [Elevate](https://open.spotify.com/track/28JBNdOB8oCOcZpKgu39Dv) | [Little Sis Nora](https://open.spotify.com/artist/1KYt3TMGpa1LtVi0m2A0F9), [S3RL](https://open.spotify.com/artist/11aa081aKYUzmeFm0yHdT2) | [Elevate](https://open.spotify.com/album/0npNLby7U2chGnsBha4XZM) | 3:03 | 2023-09-21 | 2023-10-27 |
 | [English Lad](https://open.spotify.com/track/4guuv4bFzNo8hV53fYlUpQ) | [Ben Gerrans](https://open.spotify.com/artist/6RBIwzXCWcZJwfNTSHPZ5Z), [EV](https://open.spotify.com/artist/1qOueWotu6CIb1GMoib2GX) | [English Lad](https://open.spotify.com/album/3ro8vbWl5i4D6Sr83aLmur) | 2:47 | 2023-08-31 | 2023-11-25 |
 | [Escape](https://open.spotify.com/track/1dugN8I61tGdZdhv35RwUg) | [Da Tweekaz](https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6) | [Escape](https://open.spotify.com/album/0vqePb5wH89LX8AopcptZk) | 3:02 | 2023-08-31 | 2023-09-08 |
+| [Eternal Rave](https://open.spotify.com/track/6qA8tFC2wRG2Tl4yR6ZLjP) | [Fyex](https://open.spotify.com/artist/7i7ddOIQP0uI3ktGxI0zkM), [Dj Samir](https://open.spotify.com/artist/6U0dJxYVB41L8WDZ02Nwuk) | [Eternal Rave](https://open.spotify.com/album/5nIGJ0xAgOpX6q4IpOVLiv) | 2:01 | 2023-11-30 |  |
 | [Faith](https://open.spotify.com/track/5tlmO0EqsLwqS2CGxVVjEe) | [Jerome](https://open.spotify.com/artist/4xcDVatLFh6qlcm41er3LV), [Paul Elstak](https://open.spotify.com/artist/123hDJRbi4KtCdBaaKNHW6) | [Faith](https://open.spotify.com/album/6nbQRswXW5OFHFZFw8y1YZ) | 2:47 | 2023-08-31 |  |
 | [FAME?](https://open.spotify.com/track/5OtzpsLIakgrckZw2M6H9x) | [ero808](https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw), [NXSTY](https://open.spotify.com/artist/0fVqst4UD6o7SKW6SsWPfU) | [FAME?](https://open.spotify.com/album/17yvfsnzvEGUKF8h6mTvXE) | 2:22 | 2023-09-14 | 2023-09-16 |
 | [Fantasy \(Tricky Disco\)](https://open.spotify.com/track/7KxiqXmrEikGonyuxz50Qk) | [W&W](https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4), [Harris & Ford](https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt), [TRIIIPL3 INC.](https://open.spotify.com/artist/1m91WjQ6nEC5k3F1HC51sP) | [Fantasy \(Tricky Disco\)](https://open.spotify.com/album/4HRfZCdUzjykr5kYddLy6m) | 2:36 | 2023-08-31 |  |

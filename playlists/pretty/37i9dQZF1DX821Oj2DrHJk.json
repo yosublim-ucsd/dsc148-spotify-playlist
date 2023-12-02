@@ -1,12 +1,12 @@
 {
   "description": "Rock that was on repeat during the summers of the 1970s.",
-  "num_followers": 28886,
+  "num_followers": 28887,
   "original_name": "70s Summer Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMTg5MzBmOWVhN2YxZjUzYWYxZmNkYmUyYWQ2YWQ0MDA5MjE3Zjdk",
+  "snapshot_id": "MCw2NWM1ZDA1NzYwNTFhYjM2NWJlNWM5MmM1ZDgzY2Y0NWQ3MTYyMGE2",
   "tracks": [
     {
       "added_at": "2022-11-17 16:14:04",
@@ -395,18 +395,18 @@
     {
       "added_at": "2022-11-17 16:14:04",
       "album": {
-        "name": "L.A. Woman",
-        "url": "https://open.spotify.com/album/7IKUTIc9UWuVngyGPtqNHS"
+        "name": "The Dark Side of the Moon",
+        "url": "https://open.spotify.com/album/4LH4d3cOWNNsVw41Gqt2kv"
       },
       "artists": [
         {
-          "name": "The Doors",
-          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
+          "name": "Pink Floyd",
+          "url": "https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9"
         }
       ],
-      "duration_ms": 434720,
-      "name": "Riders on the Storm",
-      "url": "https://open.spotify.com/track/14XWXWv5FoCbFzLksawpEe"
+      "duration_ms": 382834,
+      "name": "Money",
+      "url": "https://open.spotify.com/track/0vFOzaXqZHahrZp6enQwQb"
     },
     {
       "added_at": "2022-11-17 16:14:04",
@@ -427,18 +427,18 @@
     {
       "added_at": "2022-11-17 16:14:04",
       "album": {
-        "name": "The Dark Side of the Moon",
-        "url": "https://open.spotify.com/album/4LH4d3cOWNNsVw41Gqt2kv"
+        "name": "L.A. Woman",
+        "url": "https://open.spotify.com/album/7IKUTIc9UWuVngyGPtqNHS"
       },
       "artists": [
         {
-          "name": "Pink Floyd",
-          "url": "https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9"
+          "name": "The Doors",
+          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
         }
       ],
-      "duration_ms": 382834,
-      "name": "Money",
-      "url": "https://open.spotify.com/track/0vFOzaXqZHahrZp6enQwQb"
+      "duration_ms": 434720,
+      "name": "Riders on the Storm",
+      "url": "https://open.spotify.com/track/14XWXWv5FoCbFzLksawpEe"
     },
     {
       "added_at": "2022-11-17 16:14:04",
@@ -543,6 +543,22 @@
     {
       "added_at": "2022-11-17 16:14:04",
       "album": {
+        "name": "Hunky Dory (2015 Remaster)",
+        "url": "https://open.spotify.com/album/6fQElzBNTiEMGdIeY0hy5l"
+      },
+      "artists": [
+        {
+          "name": "David Bowie",
+          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
+        }
+      ],
+      "duration_ms": 235986,
+      "name": "Life on Mars? - 2015 Remaster",
+      "url": "https://open.spotify.com/track/3ZE3wv8V3w2T2f7nOCjV0N"
+    },
+    {
+      "added_at": "2022-11-17 16:14:04",
+      "album": {
         "name": "The Dark Side of the Moon",
         "url": "https://open.spotify.com/album/4LH4d3cOWNNsVw41Gqt2kv"
       },
@@ -571,22 +587,6 @@
       "duration_ms": 341773,
       "name": "Wild Horses - 2009 Mix",
       "url": "https://open.spotify.com/track/52dm9op3rbfAkc1LGXgipW"
-    },
-    {
-      "added_at": "2022-11-17 16:14:04",
-      "album": {
-        "name": "Hunky Dory (2015 Remaster)",
-        "url": "https://open.spotify.com/album/6fQElzBNTiEMGdIeY0hy5l"
-      },
-      "artists": [
-        {
-          "name": "David Bowie",
-          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
-        }
-      ],
-      "duration_ms": 235986,
-      "name": "Life on Mars? - 2015 Remaster",
-      "url": "https://open.spotify.com/track/3ZE3wv8V3w2T2f7nOCjV0N"
     },
     {
       "added_at": "2022-11-17 16:14:04",
@@ -863,6 +863,22 @@
     {
       "added_at": "2022-11-17 16:14:04",
       "album": {
+        "name": "Lola Versus Powerman and the Moneygoround, Pt. 1",
+        "url": "https://open.spotify.com/album/6cv47fKkAyi9Lm5wwud4It"
+      },
+      "artists": [
+        {
+          "name": "The Kinks",
+          "url": "https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E"
+        }
+      ],
+      "duration_ms": 241991,
+      "name": "Lola (2020 Stereo Remaster)",
+      "url": "https://open.spotify.com/track/4Tjs8b6jL1s18sjURJtswp"
+    },
+    {
+      "added_at": "2022-11-17 16:14:04",
+      "album": {
         "name": "Cosmo's Factory (Expanded Edition)",
         "url": "https://open.spotify.com/album/4GLxEXWI3JiRKp6H7bfTIK"
       },
@@ -907,22 +923,6 @@
       "duration_ms": 268693,
       "name": "Hot Blooded",
       "url": "https://open.spotify.com/track/6xMHglHoafdDFGXS6qfwSH"
-    },
-    {
-      "added_at": "2022-11-17 16:14:04",
-      "album": {
-        "name": "Lola Versus Powerman and the Moneygoround, Pt. 1",
-        "url": "https://open.spotify.com/album/6cv47fKkAyi9Lm5wwud4It"
-      },
-      "artists": [
-        {
-          "name": "The Kinks",
-          "url": "https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E"
-        }
-      ],
-      "duration_ms": 241991,
-      "name": "Lola (2020 Stereo Remaster)",
-      "url": "https://open.spotify.com/track/4Tjs8b6jL1s18sjURJtswp"
     },
     {
       "added_at": "2022-11-17 16:14:04",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2022-11-17 16:14:04",
       "album": {
-        "name": "The Fine Art Of Surfacing",
-        "url": "https://open.spotify.com/album/5XRmSuESYUZSa7HauZ71ts"
-      },
-      "artists": [
-        {
-          "name": "The Boomtown Rats",
-          "url": "https://open.spotify.com/artist/40oYPr305MsT2lsiXr9fX9"
-        }
-      ],
-      "duration_ms": 259093,
-      "name": "I Don't Like Mondays",
-      "url": "https://open.spotify.com/track/7JFoeg0arawADjGcz9gBnq"
-    },
-    {
-      "added_at": "2022-11-17 16:14:04",
-      "album": {
         "name": "Love Gun",
         "url": "https://open.spotify.com/album/77opKywcxPnBu5aBMASS2b"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 198706,
       "name": "Love Gun",
       "url": "https://open.spotify.com/track/0SPBrxOUEMIKugXR4bFhxs"
+    },
+    {
+      "added_at": "2022-11-17 16:14:04",
+      "album": {
+        "name": "The Fine Art Of Surfacing",
+        "url": "https://open.spotify.com/album/5XRmSuESYUZSa7HauZ71ts"
+      },
+      "artists": [
+        {
+          "name": "The Boomtown Rats",
+          "url": "https://open.spotify.com/artist/40oYPr305MsT2lsiXr9fX9"
+        }
+      ],
+      "duration_ms": 259093,
+      "name": "I Don't Like Mondays",
+      "url": "https://open.spotify.com/track/7JFoeg0arawADjGcz9gBnq"
     },
     {
       "added_at": "2022-11-17 16:14:04",
@@ -1423,18 +1423,18 @@
     {
       "added_at": "2022-11-17 16:14:04",
       "album": {
-        "name": "Since We've Been Gone",
-        "url": "https://open.spotify.com/album/4EdLgC4Q2QX7MDnkzv6X5o"
+        "name": "Never Mind The Bollocks, Here's The Sex Pistols",
+        "url": "https://open.spotify.com/album/5fxYu3rqjCNTSPKN8mtEl2"
       },
       "artists": [
         {
-          "name": "Clout",
-          "url": "https://open.spotify.com/artist/1Y9R6sacgLlWFGYFGK9M0P"
+          "name": "Sex Pistols",
+          "url": "https://open.spotify.com/artist/1u7kkVrr14iBvrpYnZILJR"
         }
       ],
-      "duration_ms": 209186,
-      "name": "Substitute",
-      "url": "https://open.spotify.com/track/6Emcew1wV588w2hh8SmLiw"
+      "duration_ms": 198160,
+      "name": "Pretty Vacant",
+      "url": "https://open.spotify.com/track/2mKj8Em0GLFu8I78yM1CfU"
     },
     {
       "added_at": "2022-11-17 16:14:04",
@@ -1455,18 +1455,18 @@
     {
       "added_at": "2022-11-17 16:14:04",
       "album": {
-        "name": "Never Mind The Bollocks, Here's The Sex Pistols",
-        "url": "https://open.spotify.com/album/5fxYu3rqjCNTSPKN8mtEl2"
+        "name": "Since We've Been Gone",
+        "url": "https://open.spotify.com/album/4EdLgC4Q2QX7MDnkzv6X5o"
       },
       "artists": [
         {
-          "name": "Sex Pistols",
-          "url": "https://open.spotify.com/artist/1u7kkVrr14iBvrpYnZILJR"
+          "name": "Clout",
+          "url": "https://open.spotify.com/artist/1Y9R6sacgLlWFGYFGK9M0P"
         }
       ],
-      "duration_ms": 198160,
-      "name": "Pretty Vacant",
-      "url": "https://open.spotify.com/track/2mKj8Em0GLFu8I78yM1CfU"
+      "duration_ms": 209186,
+      "name": "Substitute",
+      "url": "https://open.spotify.com/track/6Emcew1wV588w2hh8SmLiw"
     },
     {
       "added_at": "2022-11-17 16:14:04",

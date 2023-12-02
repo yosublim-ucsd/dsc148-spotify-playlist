@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Sx3PGv6UgO.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/chiney/">Chiney Ogwumike</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 335 likes - 50 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 336 likes - 50 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Sx3PGv6UgO.md) - [plain]
 | 3 | [Never Too Much](https://open.spotify.com/track/3nFJbZCHP4d9vduKjJLdBL) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [Never Too Much](https://open.spotify.com/album/1B4oPgG5ljWTRxsKcTHAYn) | 3:50 |
 | 4 | [Monalisa](https://open.spotify.com/track/3baPniPXS0iEII8rDUJdYP) | [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL), [Sarz](https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Monalisa](https://open.spotify.com/album/6eGxth6Bbmudt9k7ybo5Ll) | 3:32 |
 | 5 | [Mood \(feat\. BNXN\)](https://open.spotify.com/track/6jdTkoEaer7XNGSblczoSu) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Made In Lagos: Deluxe Edition](https://open.spotify.com/album/6bCs4XCCkm9cTwlswlu0VD) | 3:29 |
-| 6 | [Real Love Remix \(feat\. The Notorious B.I.G.\)](https://open.spotify.com/track/3z0HBYkS1Nnt3ORqIU1vjr) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr), [The Notorious B.I.G.](https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb) | [R&B Hits](https://open.spotify.com/album/5Bp5PZqYJ9tiz0Hf6lOD5Q) | 4:39 |
+| 6 | [Real Love Remix \(feat\. The Notorious B.I.G.\)](https://open.spotify.com/track/3z0HBYkS1Nnt3ORqIU1vjr) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr), [The Notorious B.I.G.](https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb), [Daddy\-O](https://open.spotify.com/artist/2JY5jZj2dinM7TlE1r6wMc), [Diddy](https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA) | [R&B Hits](https://open.spotify.com/album/5Bp5PZqYJ9tiz0Hf6lOD5Q) | 4:39 |
 | 7 | [Doo Wop \(That Thing\)](https://open.spotify.com/track/41Vs28E6Es3QdxIRqDnBv1) | [Ms\. Lauryn Hill](https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl) | [Pop Music: The Modern Era 1976\-1999](https://open.spotify.com/album/0Jh7XIEQrNQAXm7a6hbJ1h) | 4:01 |
 | 8 | [Part II \(On The Run\)](https://open.spotify.com/track/2gSh6B45bWv4gDOhawR8C2) | [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB), [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [Magna Carta..\. Holy Grail](https://open.spotify.com/album/0OTjYdGtP7AbwOwbYsGhyi) | 5:33 |
 | 9 | [Standing on the Sun Remix \(feat\. Mr\. Vegas\)](https://open.spotify.com/track/7jpSvCrFev9EBb5RSmoRTa) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [Mr\. Vegas](https://open.spotify.com/artist/1pmixngtBJleMrGUG5o8DE), [Clifford Smith](https://open.spotify.com/artist/5toAPS22hqjqGy4MQwpAM0), [Cleveland Browne](https://open.spotify.com/artist/6t1QCRhViEFcYbIzNapUj0), [Danny Browne](https://open.spotify.com/artist/0qy3SWTPGNnQpTuqk9eG8G) | [BEYONCÉ \[Platinum Edition\]](https://open.spotify.com/album/2UJwKSBUz6rtW4QLK74kQu) | 4:33 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Sx3PGv6UgO.md) - [plain]
 | 49 | [Beautiful](https://open.spotify.com/track/4675yUu8AUbE72T94BkLCD) | [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [Uncle Charlie Wilson](https://open.spotify.com/artist/6B5fQU6gKaq7JPRL4YIg1B) | [The Best Of Snoop Dogg](https://open.spotify.com/album/0knL5fTAXqq9oq4Yeyibc8) | 4:59 |
 | 50 | [Acers Heights](https://open.spotify.com/track/7N2N81qsnHqk97n7XYKXWk) | [DonPerro](https://open.spotify.com/artist/746NiiXHGjRZbLjKxm4Q7W) | [Acers Heights](https://open.spotify.com/album/7uqa7ovzhMfbw0aKNWiY0d) | 3:44 |
 
-Snapshot ID: `MCw2MGNlZjNmN2M0NTk5NzcyNWE1NGNjYTllYWFkNDUzNTIxMWE3Mjcy`
+Snapshot ID: `MCxkYTBhZGRmNzQzODY4N2E0NWU4YWRjNmFmNTU1ZmIwNzZmZmJjNmQ2`

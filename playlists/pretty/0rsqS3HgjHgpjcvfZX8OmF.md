@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0rsqS3HgjHgpjcvfZX8OmF.md) - [plain]
 
 > The best and latest rock and alternative\. Cover: Big Wreck
 
-[Digster Canada](https://open.spotify.com/user/digsterca) - 9,985 likes - 80 songs - 4 hr 46 min
+[Digster Canada](https://open.spotify.com/user/digsterca) - 9,983 likes - 80 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

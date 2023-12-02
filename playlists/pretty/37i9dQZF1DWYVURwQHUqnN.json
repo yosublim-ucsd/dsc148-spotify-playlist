@@ -1,12 +1,12 @@
 {
   "description": "Photo: Jul\n",
-  "num_followers": 1070063,
+  "num_followers": 1070268,
   "original_name": "Best Life",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NjU4OGQ4NDQxZWVlZjg1YzU5NmUxZDlhNTA4Njg1ZGUyMzJiMzdh",
+  "snapshot_id": "MCxhYzg0Y2UwYjNiYzM1ZjJjMDM5MGVmNDRlNzAwN2QxMTBkN2JlOGFi",
   "tracks": [
     {
       "added_at": "2023-11-30 23:00:00",
@@ -307,18 +307,26 @@
     {
       "added_at": "2023-11-30 23:00:00",
       "album": {
-        "name": "Solo Mi Madre",
-        "url": "https://open.spotify.com/album/4KS1K2A4w3ZvER8S9n765m"
+        "name": "Mi madre",
+        "url": "https://open.spotify.com/album/0WFyhZC7hwGuL402U8aovY"
       },
       "artists": [
         {
-          "name": "daviid_328",
-          "url": "https://open.spotify.com/artist/4mxv3XnN0fRgjMBdSWNSlP"
+          "name": "Morad",
+          "url": "https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9"
+        },
+        {
+          "name": "Koba LaD",
+          "url": "https://open.spotify.com/artist/1q7T9rFQ2a2ukA1PU51fo3"
+        },
+        {
+          "name": "SativaMusic",
+          "url": "https://open.spotify.com/artist/6p46LxMXeRu3FRYN4tK5Lv"
         }
       ],
-      "duration_ms": 200051,
-      "name": "Solo Mi Madre",
-      "url": "https://open.spotify.com/track/22LPuqKITi7z503Yj6XbX2"
+      "duration_ms": 199939,
+      "name": "Mi madre",
+      "url": "https://open.spotify.com/track/1OadAxUa6KVPyKAwEv0Duy"
     },
     {
       "added_at": "2023-11-30 23:00:00",

@@ -1,13 +1,45 @@
 {
   "description": "Jazz voices of today. Cover: Samara Joy",
-  "num_followers": 133847,
+  "num_followers": 133878,
   "original_name": "Vocal Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMWM0MTJjZGNhNDY5MzQzNmEyZTFiYWYxNTFmOGYyZDVjNzA2OGUx",
+  "snapshot_id": "MCwwNjhhYzY0NWIxM2UwYWNmMGU4ZmJiZTkzMDRmOGUxNTE1OTk2ZWRh",
   "tracks": [
+    {
+      "added_at": "2023-12-01 05:01:00",
+      "album": {
+        "name": "Illumination",
+        "url": "https://open.spotify.com/album/4MmAnWcCqMKw1NUjpnkRSI"
+      },
+      "artists": [
+        {
+          "name": "Lauren Henderson",
+          "url": "https://open.spotify.com/artist/32l2cWGDfGIqFPxUAogD5l"
+        },
+        {
+          "name": "Joel Ross",
+          "url": "https://open.spotify.com/artist/5OSxNS2UGq8dW38T57o78l"
+        },
+        {
+          "name": "Sean Mason",
+          "url": "https://open.spotify.com/artist/1M58n49ePEbvVICvpKXB5Z"
+        },
+        {
+          "name": "Jonathan Michel",
+          "url": "https://open.spotify.com/artist/2G2WfpJo95sdb8Djp7xzd8"
+        },
+        {
+          "name": "Joe Dyson",
+          "url": "https://open.spotify.com/artist/62eXeNUScwDhx0IsHwfxKS"
+        }
+      ],
+      "duration_ms": 269294,
+      "name": "Illumination",
+      "url": "https://open.spotify.com/track/5KyhsJIdx0okcY0OjfrfvL"
+    },
     {
       "added_at": "2023-09-22 04:01:00",
       "album": {
@@ -119,38 +151,6 @@
       "duration_ms": 260918,
       "name": "Without You",
       "url": "https://open.spotify.com/track/09lKeklaxa3p5MXkYYTyH0"
-    },
-    {
-      "added_at": "2023-10-27 04:01:00",
-      "album": {
-        "name": "Tormento",
-        "url": "https://open.spotify.com/album/1i8k3JoTDSJwcwSbmQGmJ0"
-      },
-      "artists": [
-        {
-          "name": "Lauren Henderson",
-          "url": "https://open.spotify.com/artist/32l2cWGDfGIqFPxUAogD5l"
-        },
-        {
-          "name": "Joel Ross",
-          "url": "https://open.spotify.com/artist/5OSxNS2UGq8dW38T57o78l"
-        },
-        {
-          "name": "Sean Mason",
-          "url": "https://open.spotify.com/artist/1M58n49ePEbvVICvpKXB5Z"
-        },
-        {
-          "name": "Jonathan Michel",
-          "url": "https://open.spotify.com/artist/2G2WfpJo95sdb8Djp7xzd8"
-        },
-        {
-          "name": "Joe Dyson",
-          "url": "https://open.spotify.com/artist/62eXeNUScwDhx0IsHwfxKS"
-        }
-      ],
-      "duration_ms": 231349,
-      "name": "Tormento",
-      "url": "https://open.spotify.com/track/5hUQiYplc53Z5zqW7OMQdn"
     },
     {
       "added_at": "2023-10-20 04:01:00",

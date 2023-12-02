@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44dZ4p5QLf4.md) - [plain]
 
 > A blend of new songs and artists in the soul space\. Cover: vAn
 
-[Spotify](https://open.spotify.com/user/spotify) - 477,452 likes - 84 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 477,472 likes - 84 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Can't Forget](https://open.spotify.com/track/05lvABI7h1aa0o69Z2hpqS) | [RIMON](https://open.spotify.com/artist/4DtUsfaVQBhypuwYmobdSm), [Kelz2busy](https://open.spotify.com/artist/7rk80kubaj220eDZQvFYU6) | [Can't Forget](https://open.spotify.com/album/2kGVa9ARhLbTdGbz8MPTPo) | 4:07 |
-| 2 | [Waiting For You \(feat\. Naomi Sharon\)](https://open.spotify.com/track/6Dae6DNW72nLZ6KGyE7aeH) | [Majid Jordan](https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk), [Naomi Sharon](https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb) | [Waiting For You \(feat\. Naomi Sharon\)](https://open.spotify.com/album/09l5EnCPP1AKIqaozUT6LQ) | 3:39 |
-| 3 | [SHIMMER](https://open.spotify.com/track/21PNdcOg9gWRsvfko3in1Q) | [vAn](https://open.spotify.com/artist/31zEC5Veeh3aoNFfiv1poC) | [SHIMMER](https://open.spotify.com/album/53RPlxQAShRuRumHbOw9Iu) | 3:38 |
-| 4 | [Get Close](https://open.spotify.com/track/0Ani0foia32xeSDE2MdHWM) | [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [Get Close](https://open.spotify.com/album/75636FX5iYEcgCrLqcBtXr) | 2:51 |
+| 1 | [Get Close](https://open.spotify.com/track/0Ani0foia32xeSDE2MdHWM) | [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [Get Close](https://open.spotify.com/album/75636FX5iYEcgCrLqcBtXr) | 2:51 |
+| 2 | [Can't Forget](https://open.spotify.com/track/05lvABI7h1aa0o69Z2hpqS) | [RIMON](https://open.spotify.com/artist/4DtUsfaVQBhypuwYmobdSm), [Kelz2busy](https://open.spotify.com/artist/7rk80kubaj220eDZQvFYU6) | [Can't Forget](https://open.spotify.com/album/2kGVa9ARhLbTdGbz8MPTPo) | 4:07 |
+| 3 | [Waiting For You \(feat\. Naomi Sharon\)](https://open.spotify.com/track/6Dae6DNW72nLZ6KGyE7aeH) | [Majid Jordan](https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk), [Naomi Sharon](https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb) | [Waiting For You \(feat\. Naomi Sharon\)](https://open.spotify.com/album/09l5EnCPP1AKIqaozUT6LQ) | 3:39 |
+| 4 | [SHIMMER](https://open.spotify.com/track/21PNdcOg9gWRsvfko3in1Q) | [vAn](https://open.spotify.com/artist/31zEC5Veeh3aoNFfiv1poC) | [SHIMMER](https://open.spotify.com/album/53RPlxQAShRuRumHbOw9Iu) | 3:38 |
 | 5 | [No Matter What They Say](https://open.spotify.com/track/7FNuJJ4vC8gRZqdIZfZ28U) | [Kymara](https://open.spotify.com/artist/0fpdyv56I16Z3FyGnN5xR7) | [No Matter What They Say](https://open.spotify.com/album/2C5XfFX5Ur1uSh5EMrTVsz) | 3:32 |
 | 6 | [Tandem](https://open.spotify.com/track/73ypDYXaKLXgb69ja5J21D) | [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz), [Gallant](https://open.spotify.com/artist/7wFDo161xYdeaiLz3KIHoM), [sneek](https://open.spotify.com/artist/6O4EoU7wO1VU8yAEhbIii5) | [sneek](https://open.spotify.com/album/48KwaEx2y9uL0cHJBoKacx) | 3:13 |
 | 7 | [Self](https://open.spotify.com/track/0J9uaeOd7GZi9MTybtqAD4) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Heaven](https://open.spotify.com/album/6aWsHOGYXoEY1kxnxGMLwU) | 3:19 |
@@ -93,4 +93,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44dZ4p5QLf4.md) - [plain]
 | 83 | [3AM](https://open.spotify.com/track/6TAnJ7ubFuZ7nYgzYst2Wp) | [Julia Marcks](https://open.spotify.com/artist/35HvO2FkpLWHDbbCXpgohf) | [3AM](https://open.spotify.com/album/7sH5hP8sAND4vzvvdhXp58) | 3:24 |
 | 84 | [Dead Inside Shuffle](https://open.spotify.com/track/4imq60KskF2cm4WpYbwk9V) | [Louis Cole](https://open.spotify.com/artist/6uIst176jhzooPMetg2rtH) | [Dead Inside Shuffle](https://open.spotify.com/album/6EWu0oVvV2cGBbF1KUUlk6) | 3:20 |
 
-Snapshot ID: `MCxkMmUwNGU5ZGM5MmVlOTYzYjUyNTE1NDI5MDdkZWUxY2Q4YTg2MmU4`
+Snapshot ID: `MCxjZTI4OWQ0YTZlMWZkZjg1MDlmMGQ5NDhmZTdmYjQwZmNlMjEyMDMx`

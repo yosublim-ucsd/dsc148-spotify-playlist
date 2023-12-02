@@ -1,13 +1,29 @@
 {
   "description": "All the new music you need to hear right now. Cover: Kenya Grace",
-  "num_followers": 545210,
+  "num_followers": 545190,
   "original_name": "All New All Now",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNDk0MTc2NDQ5ZDk3N2Y2Yjc4Y2M0MTMwOTg4Y2ZjMzliNDU4NjA2",
+  "snapshot_id": "MCwxODMwZDA1MTQwNmE3NTE0MmUxNjljY2U4MmY4ZmVhMTFlNWFiZTRh",
   "tracks": [
+    {
+      "added_at": "2023-12-01 11:06:07",
+      "album": {
+        "name": "MY HOUSE",
+        "url": "https://open.spotify.com/album/1H1ivGeE2LjPjE71OITTZs"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "duration_ms": 262941,
+      "name": "MY HOUSE",
+      "url": "https://open.spotify.com/track/7omJfT9s6V2IpQNBYyq5C8"
+    },
     {
       "added_at": "2023-12-01 00:00:00",
       "album": {
@@ -1347,26 +1363,6 @@
       "duration_ms": 152380,
       "name": "Run Free (Countdown)",
       "url": "https://open.spotify.com/track/4KB66xUZWvRDej628vf2J8"
-    },
-    {
-      "added_at": "2023-12-01 00:00:00",
-      "album": {
-        "name": "Influential",
-        "url": "https://open.spotify.com/album/39tf2KHZoFF5RSSLO9skMO"
-      },
-      "artists": [
-        {
-          "name": "Bad Boy Chiller Crew",
-          "url": "https://open.spotify.com/artist/5SRr4ZJMoygWecytkIwlaV"
-        },
-        {
-          "name": "TACTICS",
-          "url": "https://open.spotify.com/artist/47CxUbkc8DhkqPWDDiNw34"
-        }
-      ],
-      "duration_ms": 166391,
-      "name": "On My Way",
-      "url": "https://open.spotify.com/track/2v6YzfxSEIhXuN3v8OamEw"
     },
     {
       "added_at": "2023-12-01 00:00:00",

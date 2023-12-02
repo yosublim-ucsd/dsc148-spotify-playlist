@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Esto es punta!",
-  "num_followers": 21771,
+  "num_followers": 21781,
   "original_name": "Punta",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhZjE5NzVjMDljMDM4ZjE5ODA4YjQwMjVhOGZjNDc1YjFkYWYwNDFh",
+  "snapshot_id": "MCw5NjViZDIyZjdhYWI4MWJmYjRkZjMxOTlhMmI4MmNjMzg3MGRhZjFl",
   "tracks": [
     {
       "added_at": "2020-05-26 15:53:13",
@@ -611,22 +611,6 @@
     {
       "added_at": "2020-05-26 15:53:13",
       "album": {
-        "name": "Bunabou Live",
-        "url": "https://open.spotify.com/album/6ONVn4d2fJceFUoWzv0LEc"
-      },
-      "artists": [
-        {
-          "name": "Xcstacy",
-          "url": "https://open.spotify.com/artist/7ACGfyzJQTp8Lehdcy8tZi"
-        }
-      ],
-      "duration_ms": 449201,
-      "name": "Bunabou Live - Live",
-      "url": "https://open.spotify.com/track/3bk84Tl2e3UHheILeVkqIF"
-    },
-    {
-      "added_at": "2020-05-26 15:53:13",
-      "album": {
         "name": "Tik Tok Punta",
         "url": "https://open.spotify.com/album/4wWYKIyOnM5XRnGHeulW2Y"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 243539,
       "name": "Tik Tok Punta",
       "url": "https://open.spotify.com/track/7iwTstDIwSEaVOZpX0Q7Cg"
+    },
+    {
+      "added_at": "2020-05-26 15:53:13",
+      "album": {
+        "name": "Bunabou Live",
+        "url": "https://open.spotify.com/album/6ONVn4d2fJceFUoWzv0LEc"
+      },
+      "artists": [
+        {
+          "name": "Xcstacy",
+          "url": "https://open.spotify.com/artist/7ACGfyzJQTp8Lehdcy8tZi"
+        }
+      ],
+      "duration_ms": 449201,
+      "name": "Bunabou Live - Live",
+      "url": "https://open.spotify.com/track/3bk84Tl2e3UHheILeVkqIF"
     },
     {
       "added_at": "2020-05-26 15:53:13",

@@ -1,12 +1,12 @@
 {
   "description": "The most essential R&B songs from the 90s. Cover: Ms. Lauryn Hill",
-  "num_followers": 3470360,
+  "num_followers": 3471451,
   "original_name": "I Love My '90s R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0Y2IzMWI0ZGE1YTQyMjMzMWFjMWM3Zjk5YmY3YzhjY2Q2NmRiMTg3",
+  "snapshot_id": "MCw3MmM1YmUwMTAwZTVkZTNiNzk4YzlmMmI0MzRlYjliYjE5ODU1ZDdi",
   "tracks": [
     {
       "added_at": "2022-09-16 08:12:46",
@@ -133,24 +133,20 @@
       "url": "https://open.spotify.com/track/3XKIUb7HzIF1Vu9usunMzc"
     },
     {
-      "added_at": "2022-09-16 08:12:46",
+      "added_at": "2021-08-20 04:02:00",
       "album": {
-        "name": "Never Say Never",
-        "url": "https://open.spotify.com/album/1Co6e9ag1gRKcWdG7xKcCi"
+        "name": "Dangerous",
+        "url": "https://open.spotify.com/album/0oX4SealMgNXrvRDhqqOKg"
       },
       "artists": [
         {
-          "name": "Brandy",
-          "url": "https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee"
-        },
-        {
-          "name": "Monica",
-          "url": "https://open.spotify.com/artist/6nzxy2wXs6tLgzEtqOkEi2"
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
         }
       ],
-      "duration_ms": 294786,
-      "name": "The Boy Is Mine",
-      "url": "https://open.spotify.com/track/6sHsXIJoEN5JpdkGMQDJxt"
+      "duration_ms": 239226,
+      "name": "Remember the Time",
+      "url": "https://open.spotify.com/track/4jnFqNWeJCeCRHc4HCdxfd"
     },
     {
       "added_at": "2022-09-16 08:12:46",
@@ -169,20 +165,24 @@
       "url": "https://open.spotify.com/track/6qspW4YKycviDFjHBOaqUY"
     },
     {
-      "added_at": "2021-08-20 04:02:00",
+      "added_at": "2022-09-16 08:12:46",
       "album": {
-        "name": "Dangerous",
-        "url": "https://open.spotify.com/album/0oX4SealMgNXrvRDhqqOKg"
+        "name": "Never Say Never",
+        "url": "https://open.spotify.com/album/1Co6e9ag1gRKcWdG7xKcCi"
       },
       "artists": [
         {
-          "name": "Michael Jackson",
-          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+          "name": "Brandy",
+          "url": "https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee"
+        },
+        {
+          "name": "Monica",
+          "url": "https://open.spotify.com/artist/6nzxy2wXs6tLgzEtqOkEi2"
         }
       ],
-      "duration_ms": 239226,
-      "name": "Remember the Time",
-      "url": "https://open.spotify.com/track/4jnFqNWeJCeCRHc4HCdxfd"
+      "duration_ms": 294786,
+      "name": "The Boy Is Mine",
+      "url": "https://open.spotify.com/track/6sHsXIJoEN5JpdkGMQDJxt"
     },
     {
       "added_at": "2022-10-27 04:00:00",
@@ -431,22 +431,6 @@
     {
       "added_at": "2022-09-16 08:12:46",
       "album": {
-        "name": "Rated Next",
-        "url": "https://open.spotify.com/album/3Pmonb2UZ9zckdh5S5ibVm"
-      },
-      "artists": [
-        {
-          "name": "Next",
-          "url": "https://open.spotify.com/artist/2MGT7CYlixSPxAnnkhLpaA"
-        }
-      ],
-      "duration_ms": 259440,
-      "name": "Too Close",
-      "url": "https://open.spotify.com/track/5IFCyWplye09HytIP80RCF"
-    },
-    {
-      "added_at": "2022-09-16 08:12:46",
-      "album": {
         "name": "Love Deluxe",
         "url": "https://open.spotify.com/album/2PfGKHtqEX58bHtkQxJnWG"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 440466,
       "name": "No Ordinary Love",
       "url": "https://open.spotify.com/track/1oaaSrDJimABpOdCEbw2DJ"
+    },
+    {
+      "added_at": "2022-09-16 08:12:46",
+      "album": {
+        "name": "Rated Next",
+        "url": "https://open.spotify.com/album/3Pmonb2UZ9zckdh5S5ibVm"
+      },
+      "artists": [
+        {
+          "name": "Next",
+          "url": "https://open.spotify.com/artist/2MGT7CYlixSPxAnnkhLpaA"
+        }
+      ],
+      "duration_ms": 259440,
+      "name": "Too Close",
+      "url": "https://open.spotify.com/track/5IFCyWplye09HytIP80RCF"
     },
     {
       "added_at": "2021-08-20 04:02:00",
@@ -477,22 +477,6 @@
       "url": "https://open.spotify.com/track/1ckU1EhAO0Nr73QYw24SWJ"
     },
     {
-      "added_at": "2023-05-04 04:40:51",
-      "album": {
-        "name": "No Doubt",
-        "url": "https://open.spotify.com/album/5Zm0jwZc5J4jWk9rLmABKO"
-      },
-      "artists": [
-        {
-          "name": "702",
-          "url": "https://open.spotify.com/artist/2S8UlyXW4JjjHcbeg8ddIo"
-        }
-      ],
-      "duration_ms": 291400,
-      "name": "Get It Together",
-      "url": "https://open.spotify.com/track/4eDCsyIHTSu3cQZ5wDIyP7"
-    },
-    {
       "added_at": "2022-09-16 08:12:46",
       "album": {
         "name": "Keith Sweat",
@@ -507,6 +491,22 @@
       "duration_ms": 260666,
       "name": "Twisted",
       "url": "https://open.spotify.com/track/69QIVIjPMnI1ABLBqh9P1b"
+    },
+    {
+      "added_at": "2023-05-04 04:40:51",
+      "album": {
+        "name": "No Doubt",
+        "url": "https://open.spotify.com/album/5Zm0jwZc5J4jWk9rLmABKO"
+      },
+      "artists": [
+        {
+          "name": "702",
+          "url": "https://open.spotify.com/artist/2S8UlyXW4JjjHcbeg8ddIo"
+        }
+      ],
+      "duration_ms": 291400,
+      "name": "Get It Together",
+      "url": "https://open.spotify.com/track/4eDCsyIHTSu3cQZ5wDIyP7"
     },
     {
       "added_at": "2021-08-20 04:02:00",
@@ -763,22 +763,6 @@
     {
       "added_at": "2022-09-16 08:12:46",
       "album": {
-        "name": "112",
-        "url": "https://open.spotify.com/album/5lSLGYViKHz22S8gEXz9Vc"
-      },
-      "artists": [
-        {
-          "name": "112",
-          "url": "https://open.spotify.com/artist/7urq0VfqxEYEEiZUkebXT4"
-        }
-      ],
-      "duration_ms": 252266,
-      "name": "Cupid",
-      "url": "https://open.spotify.com/track/3kVIFDE3G89I2RPVkiRaRj"
-    },
-    {
-      "added_at": "2022-09-16 08:12:46",
-      "album": {
         "name": "COOL RELAX",
         "url": "https://open.spotify.com/album/4OLSMLHNl7Nf8wwsxnxqwJ"
       },
@@ -795,18 +779,18 @@
     {
       "added_at": "2022-09-16 08:12:46",
       "album": {
-        "name": "702",
-        "url": "https://open.spotify.com/album/6PELMehRtCwGXXyFS0fLKR"
+        "name": "112",
+        "url": "https://open.spotify.com/album/5lSLGYViKHz22S8gEXz9Vc"
       },
       "artists": [
         {
-          "name": "702",
-          "url": "https://open.spotify.com/artist/2S8UlyXW4JjjHcbeg8ddIo"
+          "name": "112",
+          "url": "https://open.spotify.com/artist/7urq0VfqxEYEEiZUkebXT4"
         }
       ],
-      "duration_ms": 166693,
-      "name": "Where My Girls At",
-      "url": "https://open.spotify.com/track/4VSyH8AkIt3kaR5xIPFVVi"
+      "duration_ms": 252266,
+      "name": "Cupid",
+      "url": "https://open.spotify.com/track/3kVIFDE3G89I2RPVkiRaRj"
     },
     {
       "added_at": "2022-09-16 08:12:46",
@@ -823,6 +807,22 @@
       "duration_ms": 264506,
       "name": "Rain",
       "url": "https://open.spotify.com/track/4G1qRhOk1YY0kewtMaCrMC"
+    },
+    {
+      "added_at": "2022-09-16 08:12:46",
+      "album": {
+        "name": "702",
+        "url": "https://open.spotify.com/album/6PELMehRtCwGXXyFS0fLKR"
+      },
+      "artists": [
+        {
+          "name": "702",
+          "url": "https://open.spotify.com/artist/2S8UlyXW4JjjHcbeg8ddIo"
+        }
+      ],
+      "duration_ms": 166693,
+      "name": "Where My Girls At",
+      "url": "https://open.spotify.com/track/4VSyH8AkIt3kaR5xIPFVVi"
     },
     {
       "added_at": "2021-08-20 04:02:00",
@@ -905,22 +905,6 @@
       "url": "https://open.spotify.com/track/18sytW2s53Of6NVudQyUlH"
     },
     {
-      "added_at": "2021-08-20 04:02:00",
-      "album": {
-        "name": "The Best of Tevin Campbell",
-        "url": "https://open.spotify.com/album/3hwPsvBmnFXv5qFueDDUjN"
-      },
-      "artists": [
-        {
-          "name": "Tevin Campbell",
-          "url": "https://open.spotify.com/artist/5VfqJBmXcf6ZqXoGij5qTE"
-        }
-      ],
-      "duration_ms": 284586,
-      "name": "Can We Talk",
-      "url": "https://open.spotify.com/track/6a5jHgwqYMk9wlYJYfs3c9"
-    },
-    {
       "added_at": "2022-09-16 08:12:46",
       "album": {
         "name": "Baduizm",
@@ -935,6 +919,22 @@
       "duration_ms": 386626,
       "name": "Next Lifetime",
       "url": "https://open.spotify.com/track/6sIMSl1n3KDPr03Fw8mujd"
+    },
+    {
+      "added_at": "2021-08-20 04:02:00",
+      "album": {
+        "name": "The Best of Tevin Campbell",
+        "url": "https://open.spotify.com/album/3hwPsvBmnFXv5qFueDDUjN"
+      },
+      "artists": [
+        {
+          "name": "Tevin Campbell",
+          "url": "https://open.spotify.com/artist/5VfqJBmXcf6ZqXoGij5qTE"
+        }
+      ],
+      "duration_ms": 284586,
+      "name": "Can We Talk",
+      "url": "https://open.spotify.com/track/6a5jHgwqYMk9wlYJYfs3c9"
     },
     {
       "added_at": "2023-08-25 07:08:29",
@@ -1127,6 +1127,22 @@
     {
       "added_at": "2021-08-20 04:02:00",
       "album": {
+        "name": "Brown Sugar",
+        "url": "https://open.spotify.com/album/4HTVABUq8amDUxBv3zJbX4"
+      },
+      "artists": [
+        {
+          "name": "D'Angelo",
+          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
+        }
+      ],
+      "duration_ms": 346266,
+      "name": "Lady",
+      "url": "https://open.spotify.com/track/7AjfklMN4WpQYz5FkT4E66"
+    },
+    {
+      "added_at": "2021-08-20 04:02:00",
+      "album": {
         "name": "Jade To The Max",
         "url": "https://open.spotify.com/album/2EwwOSHl7oOX1vyjQBx4Zc"
       },
@@ -1159,22 +1175,6 @@
     {
       "added_at": "2021-08-20 04:02:00",
       "album": {
-        "name": "Brown Sugar",
-        "url": "https://open.spotify.com/album/4HTVABUq8amDUxBv3zJbX4"
-      },
-      "artists": [
-        {
-          "name": "D'Angelo",
-          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
-        }
-      ],
-      "duration_ms": 346266,
-      "name": "Lady",
-      "url": "https://open.spotify.com/track/7AjfklMN4WpQYz5FkT4E66"
-    },
-    {
-      "added_at": "2021-08-20 04:02:00",
-      "album": {
         "name": "Do You Wanna Ride?",
         "url": "https://open.spotify.com/album/0Tcn0XVUiS6eXoD8vZdQSk"
       },
@@ -1187,6 +1187,22 @@
       "duration_ms": 253613,
       "name": "Freak Like Me",
       "url": "https://open.spotify.com/track/6Vas6h9lB5mmeVDXdFqlQA"
+    },
+    {
+      "added_at": "2021-08-20 04:02:00",
+      "album": {
+        "name": "Enter The Dru",
+        "url": "https://open.spotify.com/album/6L5uROBQ5wy3MOPI334RHE"
+      },
+      "artists": [
+        {
+          "name": "Dru Hill",
+          "url": "https://open.spotify.com/artist/1255GTUKNCLCTvH9ctD4cT"
+        }
+      ],
+      "duration_ms": 243360,
+      "name": "How Deep Is Your Love",
+      "url": "https://open.spotify.com/track/60NvAO9lx0KmBNAVHIlWN6"
     },
     {
       "added_at": "2021-08-20 04:02:00",
@@ -1207,22 +1223,6 @@
       "duration_ms": 236906,
       "name": "Still Not a Player (feat. Joe)",
       "url": "https://open.spotify.com/track/5PG3h38oiQLEJlOuOvIs80"
-    },
-    {
-      "added_at": "2021-08-20 04:02:00",
-      "album": {
-        "name": "Enter The Dru",
-        "url": "https://open.spotify.com/album/6L5uROBQ5wy3MOPI334RHE"
-      },
-      "artists": [
-        {
-          "name": "Dru Hill",
-          "url": "https://open.spotify.com/artist/1255GTUKNCLCTvH9ctD4cT"
-        }
-      ],
-      "duration_ms": 243360,
-      "name": "How Deep Is Your Love",
-      "url": "https://open.spotify.com/track/60NvAO9lx0KmBNAVHIlWN6"
     },
     {
       "added_at": "2022-09-16 08:12:46",

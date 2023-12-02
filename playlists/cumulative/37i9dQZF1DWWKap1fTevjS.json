@@ -4509,6 +4509,24 @@
     },
     {
       "album": {
+        "name": "The Sighting",
+        "url": "https://open.spotify.com/album/1ITsjzrvrAGxHHYsi19LyI"
+      },
+      "artists": [
+        {
+          "name": "Dalhem",
+          "url": "https://open.spotify.com/artist/64Vb2P6lpNclAbQYxKC9d0"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180368,
+      "name": "The Sighting",
+      "url": "https://open.spotify.com/track/6944fljgxULxU3FAXqp0Qz"
+    },
+    {
+      "album": {
         "name": "Through Your Eyes",
         "url": "https://open.spotify.com/album/5yaMmCGAb7Auv5ZbX0flBQ"
       },

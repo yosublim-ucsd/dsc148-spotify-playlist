@@ -1,12 +1,12 @@
 {
   "description": "Die gr\u00f6\u00dften Hits der deutschen Hip-Hop-Geschichte.",
-  "num_followers": 621638,
+  "num_followers": 621664,
   "original_name": "Deutschrap: Die Klassiker",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMDcyNjJjOGVmMjhhMmU1ZTA3NmM3MWQ0MWI5NDc5MWEzMzI1YWM5",
+  "snapshot_id": "MCwwMjYyMzQ3MjE3ODg3NmNiMTM2Yzc1MDQyMjczOGM3YWMwODk0Mzdj",
   "tracks": [
     {
       "added_at": "2023-10-11 12:51:15",
@@ -783,22 +783,6 @@
     {
       "added_at": "2023-10-11 12:51:15",
       "album": {
-        "name": "Bossaura",
-        "url": "https://open.spotify.com/album/6cgZ8W5U3q6B8qbps6zjFM"
-      },
-      "artists": [
-        {
-          "name": "Kollegah",
-          "url": "https://open.spotify.com/artist/6gto7HVNhu4ARE3P3g8Y5Y"
-        }
-      ],
-      "duration_ms": 364720,
-      "name": "Bossaura",
-      "url": "https://open.spotify.com/track/21lR6zXUkv1ijAxM6FjaTw"
-    },
-    {
-      "added_at": "2023-10-11 12:51:15",
-      "album": {
         "name": "Bitte Ziehen Sie Durch",
         "url": "https://open.spotify.com/album/2AZNRmYwTikPWYSz766esn"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 207413,
       "name": "Bon voyage (feat. Nina)",
       "url": "https://open.spotify.com/track/0ys1g8PTTs6ADeDp2h1xpd"
+    },
+    {
+      "added_at": "2023-10-11 12:51:15",
+      "album": {
+        "name": "Bossaura",
+        "url": "https://open.spotify.com/album/6cgZ8W5U3q6B8qbps6zjFM"
+      },
+      "artists": [
+        {
+          "name": "Kollegah",
+          "url": "https://open.spotify.com/artist/6gto7HVNhu4ARE3P3g8Y5Y"
+        }
+      ],
+      "duration_ms": 364720,
+      "name": "Bossaura",
+      "url": "https://open.spotify.com/track/21lR6zXUkv1ijAxM6FjaTw"
     },
     {
       "added_at": "2023-10-11 12:51:15",

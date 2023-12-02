@@ -688,7 +688,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-10",
+      "date_removed": null,
       "duration_ms": 218733,
       "name": "El Chico Aquel",
       "url": "https://open.spotify.com/track/3GwJnpt01qkamcjLnLX8Bp"
@@ -992,7 +992,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 225960,
       "name": "Estabas Tan Linda",
       "url": "https://open.spotify.com/track/3aacEk5wcBUVjrrVPNuyMl"
@@ -1404,7 +1404,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 207186,
       "name": "Me Volv\u00ed A Acordar De Ti",
       "url": "https://open.spotify.com/track/6n8Dl1KMjFoUIF9mzto4VP"
@@ -1602,7 +1602,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 203400,
       "name": "Mi Fantasia",
       "url": "https://open.spotify.com/track/1C5b8u6soZnLGkBqYrEtUE"
@@ -1926,7 +1926,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 231426,
       "name": "Necesito Una Compa\u00f1era",
       "url": "https://open.spotify.com/track/3C774e6E4KmqSFHk1b4GNY"
@@ -2038,7 +2038,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 291946,
       "name": "O Me Voy O Te Vas",
       "url": "https://open.spotify.com/track/5HfJ5uKjuwike6nQxN5H3X"
@@ -2136,6 +2136,24 @@
       "duration_ms": 196813,
       "name": "Para Que No Te Vayas",
       "url": "https://open.spotify.com/track/7sKXSKdh0V9gI5OrYnJsyL"
+    },
+    {
+      "album": {
+        "name": "En Pleno Vuelo",
+        "url": "https://open.spotify.com/album/68VGIlnvGzHFpV7PmMg0q5"
+      },
+      "artists": [
+        {
+          "name": "Marco Antonio Sol\u00eds",
+          "url": "https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd"
+        }
+      ],
+      "date_added": "2023-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289906,
+      "name": "Para Que Seas Feliz",
+      "url": "https://open.spotify.com/track/2nxEIdS1T62DCNXLc87BZ9"
     },
     {
       "album": {
@@ -2862,7 +2880,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-30",
+      "date_removed": null,
       "duration_ms": 231520,
       "name": "Si Ya No Te Vuelvo A Ver",
       "url": "https://open.spotify.com/track/62kDLRQwHua33e3fLrOVPJ"
@@ -3028,7 +3046,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-03",
+      "date_removed": null,
       "duration_ms": 285106,
       "name": "Te Amo Mam\u00e1",
       "url": "https://open.spotify.com/track/5cUeyXKmaqNctvDDo3cftd"
@@ -3118,7 +3136,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 212226,
       "name": "Tu C\u00e1rcel",
       "url": "https://open.spotify.com/track/0LNn2O06dvsZqvWaS870xJ"
@@ -3194,7 +3212,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 286400,
       "name": "Tus Mentiras",
       "url": "https://open.spotify.com/track/3MoQ3YG2Vy3bg9m4RRWvVD"
@@ -3396,7 +3414,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 235133,
       "name": "Y Ahora Te Vas",
       "url": "https://open.spotify.com/track/5e62PInKsU8hyMTMwvSA1l"

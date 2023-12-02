@@ -1,12 +1,12 @@
 {
   "description": "Tuyo es el reino, Tuyo el poder y la gloria por siempre, Se\u00f1or.",
-  "num_followers": 163493,
+  "num_followers": 163588,
   "original_name": "Jes\u00fas Vive",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNDhlNmUxZDVkOTRkMWNlZjFjNTc5MTE0NjJmMjM3OTgwNTA3ZjM1",
+  "snapshot_id": "MCw0MGFkMjIzNDRkNzk2NTJhZDUwNDBkOWRmZTZhZjA1ZGJhNmNhODhl",
   "tracks": [
     {
       "added_at": "2023-10-13 04:59:00",
@@ -75,6 +75,22 @@
     {
       "added_at": "2023-10-13 04:59:00",
       "album": {
+        "name": "Glorioso Rey",
+        "url": "https://open.spotify.com/album/0gGh9W1G0gVNvn6oINKeB2"
+      },
+      "artists": [
+        {
+          "name": "En Esp\u00edritu Y En Verdad",
+          "url": "https://open.spotify.com/artist/39m45GawtjXnazyVoEGkfb"
+        }
+      ],
+      "duration_ms": 310200,
+      "name": "Perfume a Tus Pies",
+      "url": "https://open.spotify.com/track/5cS1TaKqN5z5brcTnG2Ory"
+    },
+    {
+      "added_at": "2023-10-13 04:59:00",
+      "album": {
         "name": "Jesucristo Basta (Versi\u00f3n Ac\u00fastica)",
         "url": "https://open.spotify.com/album/3yUUlwIbpXQLpPx4gKQ7aA"
       },
@@ -95,22 +111,6 @@
       "duration_ms": 279858,
       "name": "Jesucristo Basta - Versi\u00f3n Ac\u00fastica",
       "url": "https://open.spotify.com/track/3UCV9soRdZg0nacbQ7C1G4"
-    },
-    {
-      "added_at": "2023-10-13 04:59:00",
-      "album": {
-        "name": "Glorioso Rey",
-        "url": "https://open.spotify.com/album/0gGh9W1G0gVNvn6oINKeB2"
-      },
-      "artists": [
-        {
-          "name": "En Esp\u00edritu Y En Verdad",
-          "url": "https://open.spotify.com/artist/39m45GawtjXnazyVoEGkfb"
-        }
-      ],
-      "duration_ms": 310200,
-      "name": "Perfume a Tus Pies",
-      "url": "https://open.spotify.com/track/5cS1TaKqN5z5brcTnG2Ory"
     },
     {
       "added_at": "2023-10-13 04:59:00",
@@ -419,22 +419,6 @@
     {
       "added_at": "2023-10-13 04:59:00",
       "album": {
-        "name": "La Compilaci\u00f3n",
-        "url": "https://open.spotify.com/album/4OY1bctzMV7vclglgvN9Oe"
-      },
-      "artists": [
-        {
-          "name": "Lilly Goodman",
-          "url": "https://open.spotify.com/artist/6vetaGijEBK3wfhtCUWRBS"
-        }
-      ],
-      "duration_ms": 245893,
-      "name": "Iglesia",
-      "url": "https://open.spotify.com/track/4Po4C0odXzBWN3z5F9qiBa"
-    },
-    {
-      "added_at": "2023-10-13 04:59:00",
-      "album": {
         "name": "Uniendo Cielo Y Tierra",
         "url": "https://open.spotify.com/album/7BpTjCxgEwUfSNloEOuU7W"
       },
@@ -455,8 +439,24 @@
     {
       "added_at": "2023-10-13 04:59:00",
       "album": {
-        "name": "Obra de Tu Amor",
-        "url": "https://open.spotify.com/album/7iwgHqgKqP2D5MhtnmGBeV"
+        "name": "La Compilaci\u00f3n",
+        "url": "https://open.spotify.com/album/4OY1bctzMV7vclglgvN9Oe"
+      },
+      "artists": [
+        {
+          "name": "Lilly Goodman",
+          "url": "https://open.spotify.com/artist/6vetaGijEBK3wfhtCUWRBS"
+        }
+      ],
+      "duration_ms": 245893,
+      "name": "Iglesia",
+      "url": "https://open.spotify.com/track/4Po4C0odXzBWN3z5F9qiBa"
+    },
+    {
+      "added_at": "2023-10-13 04:59:00",
+      "album": {
+        "name": "Tu Reino Est\u00e1 Aqu\u00ed",
+        "url": "https://open.spotify.com/album/23WpengG8gPWQSRXQG5aoO"
       },
       "artists": [
         {
@@ -464,25 +464,17 @@
           "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
         },
         {
-          "name": "Lead",
-          "url": "https://open.spotify.com/artist/5pyTY6jmdDNfKmmlo92Vfd"
-        },
-        {
-          "name": "Lowsan Melgar",
-          "url": "https://open.spotify.com/artist/4MgA2G0NoAMdcFBaK5ZAfw"
-        },
-        {
-          "name": "Pedro Pablo Quintero",
-          "url": "https://open.spotify.com/artist/7k0e42G3EXTuMtNbMQkw0l"
-        },
-        {
           "name": "Johan Manjarr\u00e9s",
           "url": "https://open.spotify.com/artist/1jsU0SifGEeNfwJyIS4qc7"
+        },
+        {
+          "name": "Josu\u00e9 Su\u00e1rez",
+          "url": "https://open.spotify.com/artist/6Y8o0ezdvlydLWkm8pknxL"
         }
       ],
-      "duration_ms": 605453,
-      "name": "Obra de Tu Amor - (Alfarero)",
-      "url": "https://open.spotify.com/track/1yvDR7cxU98Zr2VxQ4WZE3"
+      "duration_ms": 333893,
+      "name": "Tu Reino Est\u00e1 Aqu\u00ed",
+      "url": "https://open.spotify.com/track/0GcjwLuOdrvhJOuyHu2WB1"
     },
     {
       "added_at": "2023-10-13 04:59:00",
@@ -503,22 +495,18 @@
     {
       "added_at": "2023-10-13 04:59:00",
       "album": {
-        "name": "Cielo En La Tierra",
-        "url": "https://open.spotify.com/album/62ZcFS2JhS73t3fhAZ6rZX"
+        "name": "Gente Comun Sue\u00f1os Extraordinarios",
+        "url": "https://open.spotify.com/album/5Yj2mPciYoTKNEP3WadauI"
       },
       "artists": [
         {
-          "name": "Un Coraz\u00f3n",
-          "url": "https://open.spotify.com/artist/4UGA0TDpRVVt2SCz8FZOMm"
-        },
-        {
-          "name": "Kim Richards",
-          "url": "https://open.spotify.com/artist/5njxJJEEXE6Kxkr4yiFeJi"
+          "name": "Tercer Cielo",
+          "url": "https://open.spotify.com/artist/2bimgkRmsxRhhuWsOnd5rz"
         }
       ],
-      "duration_ms": 386426,
-      "name": "Cielo En La Tierra",
-      "url": "https://open.spotify.com/track/4LTqkLILC2Vfrbg0C85i5b"
+      "duration_ms": 279457,
+      "name": "Exagerado Amor",
+      "url": "https://open.spotify.com/track/23rgHw4IITKwFcOOl7jgvU"
     },
     {
       "added_at": "2023-10-13 04:59:00",
@@ -555,24 +543,28 @@
     {
       "added_at": "2023-10-13 04:59:00",
       "album": {
-        "name": "Gente Comun Sue\u00f1os Extraordinarios",
-        "url": "https://open.spotify.com/album/5Yj2mPciYoTKNEP3WadauI"
+        "name": "Cielo En La Tierra",
+        "url": "https://open.spotify.com/album/62ZcFS2JhS73t3fhAZ6rZX"
       },
       "artists": [
         {
-          "name": "Tercer Cielo",
-          "url": "https://open.spotify.com/artist/2bimgkRmsxRhhuWsOnd5rz"
+          "name": "Un Coraz\u00f3n",
+          "url": "https://open.spotify.com/artist/4UGA0TDpRVVt2SCz8FZOMm"
+        },
+        {
+          "name": "Kim Richards",
+          "url": "https://open.spotify.com/artist/5njxJJEEXE6Kxkr4yiFeJi"
         }
       ],
-      "duration_ms": 279457,
-      "name": "Exagerado Amor",
-      "url": "https://open.spotify.com/track/23rgHw4IITKwFcOOl7jgvU"
+      "duration_ms": 386426,
+      "name": "Cielo En La Tierra",
+      "url": "https://open.spotify.com/track/4LTqkLILC2Vfrbg0C85i5b"
     },
     {
       "added_at": "2023-10-13 04:59:00",
       "album": {
-        "name": "Tu Reino Est\u00e1 Aqu\u00ed",
-        "url": "https://open.spotify.com/album/23WpengG8gPWQSRXQG5aoO"
+        "name": "Obra de Tu Amor",
+        "url": "https://open.spotify.com/album/7iwgHqgKqP2D5MhtnmGBeV"
       },
       "artists": [
         {
@@ -580,33 +572,25 @@
           "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
         },
         {
-          "name": "Johan Manjarr\u00e9s",
-          "url": "https://open.spotify.com/artist/1jsU0SifGEeNfwJyIS4qc7"
-        },
-        {
-          "name": "Josu\u00e9 Su\u00e1rez",
-          "url": "https://open.spotify.com/artist/6Y8o0ezdvlydLWkm8pknxL"
-        }
-      ],
-      "duration_ms": 333893,
-      "name": "Tu Reino Est\u00e1 Aqu\u00ed",
-      "url": "https://open.spotify.com/track/0GcjwLuOdrvhJOuyHu2WB1"
-    },
-    {
-      "added_at": "2023-10-13 04:59:00",
-      "album": {
-        "name": "Amor Palabra Poder",
-        "url": "https://open.spotify.com/album/0QmZYNcLZ9Vh3QM4fZWLY6"
-      },
-      "artists": [
-        {
           "name": "Lead",
           "url": "https://open.spotify.com/artist/5pyTY6jmdDNfKmmlo92Vfd"
+        },
+        {
+          "name": "Lowsan Melgar",
+          "url": "https://open.spotify.com/artist/4MgA2G0NoAMdcFBaK5ZAfw"
+        },
+        {
+          "name": "Pedro Pablo Quintero",
+          "url": "https://open.spotify.com/artist/7k0e42G3EXTuMtNbMQkw0l"
+        },
+        {
+          "name": "Johan Manjarr\u00e9s",
+          "url": "https://open.spotify.com/artist/1jsU0SifGEeNfwJyIS4qc7"
         }
       ],
-      "duration_ms": 346933,
-      "name": "La Cruz",
-      "url": "https://open.spotify.com/track/64YUdJTdhkXJgvbKZpQtJa"
+      "duration_ms": 605453,
+      "name": "Obra de Tu Amor - (Alfarero)",
+      "url": "https://open.spotify.com/track/1yvDR7cxU98Zr2VxQ4WZE3"
     },
     {
       "added_at": "2023-10-13 04:59:00",
@@ -623,6 +607,22 @@
       "duration_ms": 340558,
       "name": "Cara A Cara",
       "url": "https://open.spotify.com/track/3AbYh5nP4NdvWUahFCU1Ys"
+    },
+    {
+      "added_at": "2023-10-13 04:59:00",
+      "album": {
+        "name": "Amor Palabra Poder",
+        "url": "https://open.spotify.com/album/0QmZYNcLZ9Vh3QM4fZWLY6"
+      },
+      "artists": [
+        {
+          "name": "Lead",
+          "url": "https://open.spotify.com/artist/5pyTY6jmdDNfKmmlo92Vfd"
+        }
+      ],
+      "duration_ms": 346933,
+      "name": "La Cruz",
+      "url": "https://open.spotify.com/track/64YUdJTdhkXJgvbKZpQtJa"
     },
     {
       "added_at": "2023-10-13 04:59:00",
@@ -999,22 +999,6 @@
     {
       "added_at": "2023-10-13 04:59:00",
       "album": {
-        "name": "En Las Alas Del Amor",
-        "url": "https://open.spotify.com/album/3zHypYyLfjX3Ikil2H9bOI"
-      },
-      "artists": [
-        {
-          "name": "Julissa",
-          "url": "https://open.spotify.com/artist/6WCFOdK10oxg9dYaaIyeZu"
-        }
-      ],
-      "duration_ms": 260295,
-      "name": "El No Pereci\u00f3",
-      "url": "https://open.spotify.com/track/5chE8rPKomf8QxhllFujhi"
-    },
-    {
-      "added_at": "2023-10-13 04:59:00",
-      "album": {
         "name": "Ven Y Llena Esta Casa",
         "url": "https://open.spotify.com/album/5M3Y7vUdrfZgtIbzUhepuN"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 300040,
       "name": "Por Las Llagas",
       "url": "https://open.spotify.com/track/127BY9LPFhtLMu3pkmXcrh"
+    },
+    {
+      "added_at": "2023-10-13 04:59:00",
+      "album": {
+        "name": "En Las Alas Del Amor",
+        "url": "https://open.spotify.com/album/3zHypYyLfjX3Ikil2H9bOI"
+      },
+      "artists": [
+        {
+          "name": "Julissa",
+          "url": "https://open.spotify.com/artist/6WCFOdK10oxg9dYaaIyeZu"
+        }
+      ],
+      "duration_ms": 260295,
+      "name": "El No Pereci\u00f3",
+      "url": "https://open.spotify.com/track/5chE8rPKomf8QxhllFujhi"
     },
     {
       "added_at": "2023-10-13 04:59:00",
@@ -1083,18 +1083,18 @@
     {
       "added_at": "2023-10-13 04:59:00",
       "album": {
-        "name": "No Hay Otro Dios",
-        "url": "https://open.spotify.com/album/1WidkdQtLb7DpF8e8HXeXm"
+        "name": "Rojo 24.7",
+        "url": "https://open.spotify.com/album/0QZLXtvwIdSulLNEAXWuYR"
       },
       "artists": [
         {
-          "name": "Banda Horizonte",
-          "url": "https://open.spotify.com/artist/0pz6e3IHzy4l6EqToyrTfJ"
+          "name": "Rojo",
+          "url": "https://open.spotify.com/artist/5NvKO965JkIJanRuKQPVN6"
         }
       ],
-      "duration_ms": 391316,
-      "name": "No Hay Otro Dios",
-      "url": "https://open.spotify.com/track/2kmRF1rM0ZQfZZ4RmkVIs4"
+      "duration_ms": 474200,
+      "name": "Hasta Que Ya No Respire M\u00e1s",
+      "url": "https://open.spotify.com/track/1tDXPLJQKcLYfhnTpseB2U"
     },
     {
       "added_at": "2023-10-13 04:59:00",
@@ -1115,26 +1115,6 @@
     {
       "added_at": "2023-10-13 04:59:00",
       "album": {
-        "name": "Grande y Fiel (Live)",
-        "url": "https://open.spotify.com/album/0TCN0IwS8kJ1qwgMu0tElH"
-      },
-      "artists": [
-        {
-          "name": "Gateway Worship Espa\u00f1ol",
-          "url": "https://open.spotify.com/artist/6CyrlDkin8EyehBeKUxcSV"
-        },
-        {
-          "name": "Lilly Goodman",
-          "url": "https://open.spotify.com/artist/6vetaGijEBK3wfhtCUWRBS"
-        }
-      ],
-      "duration_ms": 387500,
-      "name": "Santo Es Tu Nombre - Live",
-      "url": "https://open.spotify.com/track/0hGBNTxVICQBA55B9uHXT2"
-    },
-    {
-      "added_at": "2023-10-13 04:59:00",
-      "album": {
         "name": "Me Visti\u00f3 De Promesas",
         "url": "https://open.spotify.com/album/1SUEDD9quNY1LYU36X6UUp"
       },
@@ -1151,18 +1131,38 @@
     {
       "added_at": "2023-10-13 04:59:00",
       "album": {
-        "name": "Rojo 24.7",
-        "url": "https://open.spotify.com/album/0QZLXtvwIdSulLNEAXWuYR"
+        "name": "No Hay Otro Dios",
+        "url": "https://open.spotify.com/album/1WidkdQtLb7DpF8e8HXeXm"
       },
       "artists": [
         {
-          "name": "Rojo",
-          "url": "https://open.spotify.com/artist/5NvKO965JkIJanRuKQPVN6"
+          "name": "Banda Horizonte",
+          "url": "https://open.spotify.com/artist/0pz6e3IHzy4l6EqToyrTfJ"
         }
       ],
-      "duration_ms": 474200,
-      "name": "Hasta Que Ya No Respire M\u00e1s",
-      "url": "https://open.spotify.com/track/1tDXPLJQKcLYfhnTpseB2U"
+      "duration_ms": 391316,
+      "name": "No Hay Otro Dios",
+      "url": "https://open.spotify.com/track/2kmRF1rM0ZQfZZ4RmkVIs4"
+    },
+    {
+      "added_at": "2023-10-13 04:59:00",
+      "album": {
+        "name": "Grande y Fiel (Live)",
+        "url": "https://open.spotify.com/album/0TCN0IwS8kJ1qwgMu0tElH"
+      },
+      "artists": [
+        {
+          "name": "Gateway Worship Espa\u00f1ol",
+          "url": "https://open.spotify.com/artist/6CyrlDkin8EyehBeKUxcSV"
+        },
+        {
+          "name": "Lilly Goodman",
+          "url": "https://open.spotify.com/artist/6vetaGijEBK3wfhtCUWRBS"
+        }
+      ],
+      "duration_ms": 387500,
+      "name": "Santo Es Tu Nombre - Live",
+      "url": "https://open.spotify.com/track/0hGBNTxVICQBA55B9uHXT2"
     },
     {
       "added_at": "2023-10-13 04:59:00",
@@ -1683,6 +1683,34 @@
     {
       "added_at": "2023-10-13 04:59:00",
       "album": {
+        "name": "Barra Libre",
+        "url": "https://open.spotify.com/album/3fSi0aNkOhmid18Dt15UUZ"
+      },
+      "artists": [
+        {
+          "name": "Nueva Raza",
+          "url": "https://open.spotify.com/artist/2y5W2i22MO6sBNwUlUCcl0"
+        },
+        {
+          "name": "Kev Miranda",
+          "url": "https://open.spotify.com/artist/5mAsjDDm81xwtAbB6TrWVR"
+        },
+        {
+          "name": "Harold Velazquez",
+          "url": "https://open.spotify.com/artist/7whnCG4xTRqrIsagRrrjLj"
+        },
+        {
+          "name": "Mariana Michelle",
+          "url": "https://open.spotify.com/artist/5y6BlN7Upv1rDL15vDVadU"
+        }
+      ],
+      "duration_ms": 206875,
+      "name": "Barra Libre",
+      "url": "https://open.spotify.com/track/1zcR1cWcNL2oVTDznAtpMx"
+    },
+    {
+      "added_at": "2023-10-13 04:59:00",
+      "album": {
         "name": "Nunca para de Llover",
         "url": "https://open.spotify.com/album/6lkqhYy0U9U53vpPhjvpKk"
       },
@@ -1715,30 +1743,18 @@
     {
       "added_at": "2023-10-13 04:59:00",
       "album": {
-        "name": "Barra Libre",
-        "url": "https://open.spotify.com/album/3fSi0aNkOhmid18Dt15UUZ"
+        "name": "No Hay Otro Dios",
+        "url": "https://open.spotify.com/album/1WidkdQtLb7DpF8e8HXeXm"
       },
       "artists": [
         {
-          "name": "Nueva Raza",
-          "url": "https://open.spotify.com/artist/2y5W2i22MO6sBNwUlUCcl0"
-        },
-        {
-          "name": "Kev Miranda",
-          "url": "https://open.spotify.com/artist/5mAsjDDm81xwtAbB6TrWVR"
-        },
-        {
-          "name": "Harold Velazquez",
-          "url": "https://open.spotify.com/artist/7whnCG4xTRqrIsagRrrjLj"
-        },
-        {
-          "name": "Mariana Michelle",
-          "url": "https://open.spotify.com/artist/5y6BlN7Upv1rDL15vDVadU"
+          "name": "Banda Horizonte",
+          "url": "https://open.spotify.com/artist/0pz6e3IHzy4l6EqToyrTfJ"
         }
       ],
-      "duration_ms": 206875,
-      "name": "Barra Libre",
-      "url": "https://open.spotify.com/track/1zcR1cWcNL2oVTDznAtpMx"
+      "duration_ms": 320200,
+      "name": "Nos Levantaremos",
+      "url": "https://open.spotify.com/track/2bWTrJ83AEekPcsBQb8X2x"
     },
     {
       "added_at": "2023-10-13 04:59:00",
@@ -1759,22 +1775,6 @@
       "duration_ms": 225493,
       "name": "Amor Imparable",
       "url": "https://open.spotify.com/track/3VkvPeQbdwEYNTs20CJq6U"
-    },
-    {
-      "added_at": "2023-10-13 04:59:00",
-      "album": {
-        "name": "No Hay Otro Dios",
-        "url": "https://open.spotify.com/album/1WidkdQtLb7DpF8e8HXeXm"
-      },
-      "artists": [
-        {
-          "name": "Banda Horizonte",
-          "url": "https://open.spotify.com/artist/0pz6e3IHzy4l6EqToyrTfJ"
-        }
-      ],
-      "duration_ms": 320200,
-      "name": "Nos Levantaremos",
-      "url": "https://open.spotify.com/track/2bWTrJ83AEekPcsBQb8X2x"
     }
   ],
   "unique_name": "Jes\u00fas Vive",

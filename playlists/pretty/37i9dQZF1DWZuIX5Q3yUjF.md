@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZuIX5Q3yUjF.md) - [plain]
 
 > Il meglio dell'R&B italiano\. Cover: Martino
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,949 likes - 70 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,955 likes - 70 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZuIX5Q3yUjF.md) - [plain]
 | 26 | [Come mi ricordi](https://open.spotify.com/track/3uB8fbnGNHH8YqsrT0bP4V) | [Bye.Tide](https://open.spotify.com/artist/30Ufi67H57YMdnKTV5wNJH), [Drvmmer](https://open.spotify.com/artist/6br4GP9OfOdNFTngwqYWYQ) | [Come mi ricordi](https://open.spotify.com/album/7qkxyfFepBq7ImES9cguZh) | 3:13 |
 | 27 | [IL MIO NOME REMIX \(con Mara Sattei\)](https://open.spotify.com/track/23nOsvRqMxX1pOb87u4xS2) | [Ernia](https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm), [Mara Sattei](https://open.spotify.com/artist/0zoMmzmyi8N8LwzhyXPvtk) | [IO NON HO PAURA](https://open.spotify.com/album/0WqDLFy6UcjR9ygT9PrT22) | 2:37 |
 | 28 | [Nessuno](https://open.spotify.com/track/7EV3ONJpL7lmlQb75rlP2D) | [Sacky](https://open.spotify.com/artist/1sybJwRGo9WiiqcZLzzAbS), [Nko](https://open.spotify.com/artist/4kTOsBwxhA2Sn4PSs7PqnN) | [Nessuno](https://open.spotify.com/album/1L2jEnUZw5QlTe9pInCMQt) | 3:07 |
-| 29 | [sottomarino \(feat\. GodBless\)](https://open.spotify.com/track/2T7yRcLfO4vYJ01WH25Zat) | [cura](https://open.spotify.com/artist/4FhcG8ezeSwe8fQpxYrOjx), [GodBless](https://open.spotify.com/artist/2Qc7DEYHG2wELtKECHwSK7) | [sottomarino \(feat\. GodBless\)](https://open.spotify.com/album/1fHtAd1NEvNiAw6J3Jk3AJ) | 2:37 |
+| 29 | [sottomarino](https://open.spotify.com/track/2T7yRcLfO4vYJ01WH25Zat) | [cura](https://open.spotify.com/artist/4FhcG8ezeSwe8fQpxYrOjx), [GodBless](https://open.spotify.com/artist/2Qc7DEYHG2wELtKECHwSK7) | [sottomarino](https://open.spotify.com/album/1fHtAd1NEvNiAw6J3Jk3AJ) | 2:37 |
 | 30 | [Toxic](https://open.spotify.com/track/2Hqrmiopo3VGV5BWUe1ThW) | [Kuban](https://open.spotify.com/artist/4Xy59tDL9bQYT98ExQihGG), [Simon Bayle](https://open.spotify.com/artist/38c5fkv7JWziTzgp0Fj3Ay) | [Toxic](https://open.spotify.com/album/02Z6hzwHFd70wMOu6Gsx1T) | 3:41 |
 | 31 | [Lontano Dai Guai \(feat\. Mahmood\)](https://open.spotify.com/track/2CeXk2ZsTwmJFBWXUSXPzf) | [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27), [Mahmood](https://open.spotify.com/artist/06nvjg4wBANK6DCHjqtPNd) | [Madreperla](https://open.spotify.com/album/5FnVg6RBrEFUIEpHRw8EB1) | 3:40 |
 | 32 | [Come Fai](https://open.spotify.com/track/2t6W9WYsPhNaCxZV1XDVmK) | [Simone Longo](https://open.spotify.com/artist/0W73ncB8lW5LBdipGF766U) | [Come Fai](https://open.spotify.com/album/07Vr7ECGAosmpg0uDk0RII) | 3:00 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZuIX5Q3yUjF.md) - [plain]
 | 69 | [L'R&B in Italia non esiste \(Interlude\)](https://open.spotify.com/track/5haGMsywnKV4e2FqsYjoKH) | [Martina May](https://open.spotify.com/artist/1nEZxArpiNayoK02nNzJxR) | [L'R&B IN ITALIA NON ESISTE](https://open.spotify.com/album/41IqmB0uShPRiNVsYyOmbg) | 2:23 |
 | 70 | [Meraviglioso](https://open.spotify.com/track/1jkRoA2wGzgOlzjAaGpXV6) | [MOLTObELLO](https://open.spotify.com/artist/0y6ssu4rdIqbyP0ipQq40Q) | [Meraviglioso](https://open.spotify.com/album/705PmwstoLNz8Euf23n7wo) | 2:37 |
 
-Snapshot ID: `MCxmZjUxMThiZjU0MTk1NzE2MWY0MjMzZTM3ZWVlYjMwYjE5YmMyOWFl`
+Snapshot ID: `MCw4ODcwNTU1N2MzZTQ4ZTc3MzM3YjQzNmRiNTdhZjU3NDExMTc4ZGYy`

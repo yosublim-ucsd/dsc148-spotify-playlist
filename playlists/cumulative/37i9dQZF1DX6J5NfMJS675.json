@@ -1123,6 +1123,24 @@
     },
     {
       "album": {
+        "name": "Bell",
+        "url": "https://open.spotify.com/album/0wyKisLhaV7LDJPPkN8U4w"
+      },
+      "artists": [
+        {
+          "name": "Mha Iri",
+          "url": "https://open.spotify.com/artist/5VMXbzLVkLd4Cq4rBzx4T3"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "Bell",
+      "url": "https://open.spotify.com/track/42iMxUFc8IoedPBcQySzW9"
+    },
+    {
+      "album": {
         "name": "Black & White",
         "url": "https://open.spotify.com/album/16t53ko2zK600KU8fQ5Xcb"
       },
@@ -8970,7 +8988,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 373333,
       "name": "Steam Room",
       "url": "https://open.spotify.com/track/49vBCqsbEYutjf4klDISVT"
@@ -9821,6 +9839,28 @@
     },
     {
       "album": {
+        "name": "The House of House (1994 Remix by Thomas Schumacher)",
+        "url": "https://open.spotify.com/album/3xdslxjDIK3hHNwgxTIJBP"
+      },
+      "artists": [
+        {
+          "name": "Cherrymoon Trax",
+          "url": "https://open.spotify.com/artist/61LAVgfVbkRLgNHEDveOyh"
+        },
+        {
+          "name": "Thomas Schumacher",
+          "url": "https://open.spotify.com/artist/7KkV7dFoGEXr4M3fpb1FgD"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273043,
+      "name": "The House of House - 1994 Remix by Thomas Schumacher",
+      "url": "https://open.spotify.com/track/56Cf6TQ24vaSfum7KW3jKj"
+    },
+    {
+      "album": {
         "name": "The Known Universe",
         "url": "https://open.spotify.com/album/4wmDUWbnCYa1TyLY2zGweo"
       },
@@ -10002,7 +10042,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 240000,
       "name": "The Unexpected",
       "url": "https://open.spotify.com/track/4WSEpqcROxEExCChwHqoMf"

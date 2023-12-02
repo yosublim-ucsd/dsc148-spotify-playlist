@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Meet the vocalists representing Korea! (Cover:\bTHAMA(\ub530\ub9c8)) (\ub300\ud55c\ubbfc\uad6d\uc744 \ub300\ud45c\ud558\ub294 \ubcf4\uceec\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
-  "name": "v o K a l",
+  "description": "Enjoy the selection of \u2018vocals with unique voices\u2019 selected by BMK! (BMK\uac00 \uc120\uace1\ud55c '\ub3c5\ubcf4\uc801\uc778 \uc74c\uc0c9\uc774 \ub3cb\ubcf4\uc774\ub294 \ubcf4\uceec\ub4e4' \uc120\uace1\uc744 \uc990\uaca8\ubcf4\uc138\uc694!)",
+  "name": "v o K a l : BMK Takeover",
   "tracks": [
     {
       "album": {
@@ -78,6 +78,24 @@
       "duration_ms": 229187,
       "name": "180 Degree",
       "url": "https://open.spotify.com/track/0O5bo4CqoUcXGyRPoeTHSB"
+    },
+    {
+      "album": {
+        "name": "PLAY",
+        "url": "https://open.spotify.com/album/1eu07xRE0vQfN5et0Y3DAy"
+      },
+      "artists": [
+        {
+          "name": "AKMU",
+          "url": "https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193321,
+      "name": "200%",
+      "url": "https://open.spotify.com/track/6qkx0tenDglbF21CU4wa1k"
     },
     {
       "album": {
@@ -276,7 +294,7 @@
       ],
       "date_added": "2023-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 256320,
       "name": "After this night",
       "url": "https://open.spotify.com/track/3MAQWeovl3g5BGUiu7YJdj"
@@ -929,6 +947,42 @@
     },
     {
       "album": {
+        "name": "BMK voKal Audio Liner",
+        "url": "https://open.spotify.com/album/0rBEpmN0dcwK0ClyKTsRgv"
+      },
+      "artists": [
+        {
+          "name": "BMK",
+          "url": "https://open.spotify.com/artist/4TQmlKDkEmPTGjO16THya8"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 3874,
+      "name": "BMK - v o K a l (EN)",
+      "url": "https://open.spotify.com/track/2aBxzp16WH2Kx8wtLQelGz"
+    },
+    {
+      "album": {
+        "name": "BMK voKal Audio Liner",
+        "url": "https://open.spotify.com/album/0rBEpmN0dcwK0ClyKTsRgv"
+      },
+      "artists": [
+        {
+          "name": "BMK",
+          "url": "https://open.spotify.com/artist/4TQmlKDkEmPTGjO16THya8"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 3874,
+      "name": "BMK - v o K a l (KR)",
+      "url": "https://open.spotify.com/track/4am0xob1HUamJ3T3TcIAe3"
+    },
+    {
+      "album": {
         "name": "LOVE or TAKE",
         "url": "https://open.spotify.com/album/5iu1d69dqEo9UaKpZDYoIV"
       },
@@ -1052,7 +1106,7 @@
       ],
       "date_added": "2022-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 188253,
       "name": "Burn Like A Star",
       "url": "https://open.spotify.com/track/0eB4NVRmmtO99SKfvBU56O"
@@ -1132,7 +1186,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 255746,
       "name": "Can Love Be Fair",
       "url": "https://open.spotify.com/track/0ZSgMcumYoRwVeFmFJWtmm"
@@ -1168,7 +1222,7 @@
       ],
       "date_added": "2023-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 250000,
       "name": "Chosen One",
       "url": "https://open.spotify.com/track/1wVR4uRKLxXCwZY8saaTMM"
@@ -1244,7 +1298,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 208649,
       "name": "come as you are",
       "url": "https://open.spotify.com/track/1B8rGBG1v6y6hdvJmw4z0O"
@@ -1302,6 +1356,24 @@
       "duration_ms": 213275,
       "name": "comedy",
       "url": "https://open.spotify.com/track/1kNVRCfLtotmIKQOb87tUL"
+    },
+    {
+      "album": {
+        "name": "Yoon Mi Rae (T) the First Album (As Time Goes By)",
+        "url": "https://open.spotify.com/album/0RoshgK629hYRo0wU6LHb0"
+      },
+      "artists": [
+        {
+          "name": "Yoon Mirae",
+          "url": "https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257959,
+      "name": "Day by Day",
+      "url": "https://open.spotify.com/track/4nndQ97Nm2HZAIVvrMSjpu"
     },
     {
       "album": {
@@ -1370,7 +1442,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 218621,
       "name": "Deeply",
       "url": "https://open.spotify.com/track/43SfjbiRYF7jhZKNiFPCVG"
@@ -1442,7 +1514,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 238022,
       "name": "didn't know me",
       "url": "https://open.spotify.com/track/4Ompd9kJo9Os4yB0YFzsEC"
@@ -1608,7 +1680,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 246491,
       "name": "Drunken confession at night (Prod. 2soo)",
       "url": "https://open.spotify.com/track/2Jvl8m0bAt7bS76pLsMeJk"
@@ -1832,6 +1904,42 @@
       "duration_ms": 257920,
       "name": "Fade away",
       "url": "https://open.spotify.com/track/3a0OpXCAQlT7EkhSyVcniQ"
+    },
+    {
+      "album": {
+        "name": "Fall in Fall",
+        "url": "https://open.spotify.com/album/41JYmSk66c8HtX3boieMWe"
+      },
+      "artists": [
+        {
+          "name": "VIBE",
+          "url": "https://open.spotify.com/artist/68ym0sOo7MazZxScbm1wtI"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231775,
+      "name": "Fall in Fall",
+      "url": "https://open.spotify.com/track/5mwZ597mJSZ4MtO0EtxWBE"
+    },
+    {
+      "album": {
+        "name": "Knock",
+        "url": "https://open.spotify.com/album/0uDfX2nGWvb9heTqbT3Mc9"
+      },
+      "artists": [
+        {
+          "name": "John Park",
+          "url": "https://open.spotify.com/artist/4mbvd7ZJ2goftjy1L33LiB"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221786,
+      "name": "Falling",
+      "url": "https://open.spotify.com/track/3K8wfMDLxwtLGuVrYobxVe"
     },
     {
       "album": {
@@ -2114,7 +2222,7 @@
       ],
       "date_added": "2023-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 168760,
       "name": "Fuckin' New Year",
       "url": "https://open.spotify.com/track/4njyS3c6btHwlhVuYt4ks5"
@@ -2140,6 +2248,24 @@
       "duration_ms": 203727,
       "name": "GANADARA (Feat. IU)",
       "url": "https://open.spotify.com/track/5quFr5s5PXYfUX5jV2EBZ1"
+    },
+    {
+      "album": {
+        "name": "Moonlight",
+        "url": "https://open.spotify.com/album/46uEItiUj8dJavY8Jw3fye"
+      },
+      "artists": [
+        {
+          "name": "MeloMance",
+          "url": "https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260607,
+      "name": "Gift",
+      "url": "https://open.spotify.com/track/5eO04wLeM487N9qhPHPPoB"
     },
     {
       "album": {
@@ -2270,6 +2396,24 @@
       "duration_ms": 254000,
       "name": "Goodbye",
       "url": "https://open.spotify.com/track/01xHwwkwASfIfuO7tzCwli"
+    },
+    {
+      "album": {
+        "name": "33.3",
+        "url": "https://open.spotify.com/album/6PRU6ysVA75xD2OTE9X0SX"
+      },
+      "artists": [
+        {
+          "name": "BMK",
+          "url": "https://open.spotify.com/artist/6Eu0E62DUJquPQIdgaGO5O"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230920,
+      "name": "Goodbye to longing",
+      "url": "https://open.spotify.com/track/5AiOu5WPYJ2e9209prcQTA"
     },
     {
       "album": {
@@ -2634,7 +2778,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 194240,
       "name": "Holding hands or walking together.",
       "url": "https://open.spotify.com/track/0DXnSV98JM6bwf4fWiUyKb"
@@ -3754,7 +3898,7 @@
       ],
       "date_added": "2022-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 2633,
       "name": "Lim Jae Beum - v o K a l (EN)",
       "url": "https://open.spotify.com/track/3cgDEWthQdpLcTTeWMV0VB"
@@ -3772,7 +3916,7 @@
       ],
       "date_added": "2022-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 3550,
       "name": "Lim Jae Beum - v o K a l (KR)",
       "url": "https://open.spotify.com/track/1wjeOAasitMZuBLt2PE1YM"
@@ -4729,6 +4873,24 @@
     },
     {
       "album": {
+        "name": "KANG YOUNG GUL",
+        "url": "https://open.spotify.com/album/1rkGy79hIgRktu5XogFzfg"
+      },
+      "artists": [
+        {
+          "name": "Kang San-Eh",
+          "url": "https://open.spotify.com/artist/7pzL12Pd5NdHCjHzp5bh5h"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274293,
+      "name": "Myung-tae",
+      "url": "https://open.spotify.com/track/2OeBMGiX9c316HhSY1Xskt"
+    },
+    {
+      "album": {
         "name": "Natural",
         "url": "https://open.spotify.com/album/2yOqQbBoXX0nNPBqts1dmZ"
       },
@@ -4852,7 +5014,7 @@
       ],
       "date_added": "2023-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 240280,
       "name": "NO WHERE, NOW HERE",
       "url": "https://open.spotify.com/track/28l1FPRsb1TcvotgqZjbAL"
@@ -5170,7 +5332,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 263966,
       "name": "Only You",
       "url": "https://open.spotify.com/track/6W4G44h5B23jv5E2S0NUkw"
@@ -5253,6 +5415,24 @@
     },
     {
       "album": {
+        "name": "Our unrequited love story",
+        "url": "https://open.spotify.com/album/0suBDEQUPriV1qzaWkfjX2"
+      },
+      "artists": [
+        {
+          "name": "Monday Kiz",
+          "url": "https://open.spotify.com/artist/24jJXZRz3aGvjVvZ4OoerD"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215653,
+      "name": "Our unrequited love story (Korean Ver.)",
+      "url": "https://open.spotify.com/track/4bAtJo9xcOBlWO6nAxbkRZ"
+    },
+    {
+      "album": {
         "name": "Tiny Bits of Life Part.7",
         "url": "https://open.spotify.com/album/2eSf3kZZ0ii75biMW5WzQv"
       },
@@ -5282,7 +5462,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 237224,
       "name": "Perfect",
       "url": "https://open.spotify.com/track/5fI0JERjR9jDo8JFLS2KyI"
@@ -5861,6 +6041,24 @@
     },
     {
       "album": {
+        "name": "Shadow Of Your Smile",
+        "url": "https://open.spotify.com/album/5En3Hjv2Vvyp4xDp2CiK7E"
+      },
+      "artists": [
+        {
+          "name": "Kim Yun A",
+          "url": "https://open.spotify.com/artist/1NgrW9iSVfCPihlIMku9oG"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273773,
+      "name": "Spring day goes",
+      "url": "https://open.spotify.com/track/4qg4R296ne1vu0Mlsdtg99"
+    },
+    {
+      "album": {
         "name": "Star",
         "url": "https://open.spotify.com/album/61haIPm5s5cfRCgqkbGKJ2"
       },
@@ -5984,7 +6182,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 226480,
       "name": "Stay",
       "url": "https://open.spotify.com/track/2IslXjQwGJNORQmMy3DeE4"
@@ -6182,7 +6380,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 227054,
       "name": "Tale",
       "url": "https://open.spotify.com/track/3VtDqefAMMvUcg4x9Ma2LB"
@@ -6272,7 +6470,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 244173,
       "name": "The Eternal Moment",
       "url": "https://open.spotify.com/track/3K7dk2oIAmxJnhv8i24ak8"
@@ -6680,7 +6878,7 @@
       ],
       "date_added": "2023-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 214355,
       "name": "Time Spent Walking Through Memories (Feat. 10CM)",
       "url": "https://open.spotify.com/track/484dgUyawknLkNyQfXoDkh"
@@ -6860,7 +7058,7 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 222013,
       "name": "Unforgettable Love",
       "url": "https://open.spotify.com/track/6nC0meiqIoorz6Lb7Ufte8"
@@ -7016,6 +7214,24 @@
       "duration_ms": 272026,
       "name": "What If",
       "url": "https://open.spotify.com/track/6K39bcks5wn5oCtTGl6UCf"
+    },
+    {
+      "album": {
+        "name": "SOUL FOOD",
+        "url": "https://open.spotify.com/album/00Rkb4GSR346Tbb3xvMv9Q"
+      },
+      "artists": [
+        {
+          "name": "BMK",
+          "url": "https://open.spotify.com/artist/6Eu0E62DUJquPQIdgaGO5O"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284106,
+      "name": "When flowering spring comes",
+      "url": "https://open.spotify.com/track/1P5Ijjvm4fIpFs1hyArWSW"
     },
     {
       "album": {
@@ -7536,7 +7752,7 @@
       ],
       "date_added": "2022-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 251160,
       "name": "You're My End and My Beginning",
       "url": "https://open.spotify.com/track/1q3axbxKGkwHdLLQtxmyl2"
@@ -7656,6 +7872,24 @@
       "duration_ms": 210000,
       "name": "\u00b136.5\u00b0C",
       "url": "https://open.spotify.com/track/1dyfKBML6wwks5Ont3rIgW"
+    },
+    {
+      "album": {
+        "name": "\uc815\uc778 Jung In from Andromeda",
+        "url": "https://open.spotify.com/album/1vaWpmAMtq5MuKCAna7afD"
+      },
+      "artists": [
+        {
+          "name": "Jung In",
+          "url": "https://open.spotify.com/artist/0CO7rEbHBtpqgY9QPYJgPM"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202946,
+      "name": "\u1106\u1175\u110b\u116f\u110b\u116d I Hate You",
+      "url": "https://open.spotify.com/track/4s5j8hpy5nbgvVU0VLBNtt"
     },
     {
       "album": {
@@ -7793,6 +8027,42 @@
     },
     {
       "album": {
+        "name": "\uc911\ub3c5",
+        "url": "https://open.spotify.com/album/4MDKAWZP2Z4czla9K68CDK"
+      },
+      "artists": [
+        {
+          "name": "Na Yoon Kwon",
+          "url": "https://open.spotify.com/artist/49fyJl5wIzI5GtRuCKxKRw"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262562,
+      "name": "\ub098\uc600\uc73c\uba74",
+      "url": "https://open.spotify.com/track/7sp5iTQjB7GHXX4TKrhOaO"
+    },
+    {
+      "album": {
+        "name": "Shin Hyo Bum",
+        "url": "https://open.spotify.com/album/1do2rIPMo5xR6ElF3y80vj"
+      },
+      "artists": [
+        {
+          "name": "Shin Hyobum",
+          "url": "https://open.spotify.com/artist/0VFz55Ht1prPpW3W9WAIUB"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252925,
+      "name": "\ub09c \ub110 \uc0ac\ub791\ud574",
+      "url": "https://open.spotify.com/track/6j2BkzEgwFm5CSWPgULBqS"
+    },
+    {
+      "album": {
         "name": "I'M",
         "url": "https://open.spotify.com/album/6Z2EMjSuDFt6BHXgn479zw"
       },
@@ -7826,6 +8096,24 @@
       "duration_ms": 238252,
       "name": "\ub0b4\uac00 \uc800\uc9c0\ub978 \uc0ac\ub791",
       "url": "https://open.spotify.com/track/72UARrP1LDMUMuZ7tRAxku"
+    },
+    {
+      "album": {
+        "name": "\ucc98\uc74c\ucc98\ub7fc",
+        "url": "https://open.spotify.com/album/2Pgvz4Apdr3ORROIaW2ZdH"
+      },
+      "artists": [
+        {
+          "name": "Sung Si Kyung",
+          "url": "https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239480,
+      "name": "\ub0b4\uac8c \uc624\ub294 \uae38 - Bonus Track",
+      "url": "https://open.spotify.com/track/5rfOHC8IMqyvqAi4TUrnsn"
     },
     {
       "album": {
@@ -7901,6 +8189,24 @@
     },
     {
       "album": {
+        "name": "Eyebrow Moon",
+        "url": "https://open.spotify.com/album/4s8nM5eaEQW2j57M4GUWBA"
+      },
+      "artists": [
+        {
+          "name": "Lee So Ra",
+          "url": "https://open.spotify.com/artist/58BWh3yJrluDugLv0QF0eC"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236693,
+      "name": "\ubc14\ub78c\uc774 \ubd84\ub2e4",
+      "url": "https://open.spotify.com/track/4TlKVrK0TnVlwvVSbUbbM4"
+    },
+    {
+      "album": {
         "name": "My Strange Hero Pt. 7 (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/1J0DyNr0dvnv8ZCeaxLPow"
       },
@@ -7916,6 +8222,42 @@
       "duration_ms": 207120,
       "name": "\ubc30\uc6c5",
       "url": "https://open.spotify.com/track/01U1Qm1lGhiwOi0zzFLjUr"
+    },
+    {
+      "album": {
+        "name": "\ucc9c\uad6d\uc758 \uacc4\ub2e8 OST",
+        "url": "https://open.spotify.com/album/5uZtiEhZmVROQk8dsiOrwq"
+      },
+      "artists": [
+        {
+          "name": "Kim Bum Soo",
+          "url": "https://open.spotify.com/artist/20K5puLWHL28ckI4LjieDt"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244128,
+      "name": "\ubcf4\uace0\uc2f6\ub2e4",
+      "url": "https://open.spotify.com/track/4i39vkBJzBnYvBMua65Rwi"
+    },
+    {
+      "album": {
+        "name": "Invitation",
+        "url": "https://open.spotify.com/album/4jXP8b22XeD3dyUX3JCMfd"
+      },
+      "artists": [
+        {
+          "name": "AILEE",
+          "url": "https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233813,
+      "name": "\ubcf4\uc5ec\uc904\uac8c",
+      "url": "https://open.spotify.com/track/4mlQPWeSMkwJQcYTr9razZ"
     },
     {
       "album": {
@@ -8100,6 +8442,42 @@
       "duration_ms": 219106,
       "name": "\uc78a\uc5b4\ubc84\ub9ac\uc9c0\ub9c8 Don't Forget (feat. \ud0dc\uc5f0 Taeyeon)",
       "url": "https://open.spotify.com/track/2HC6c1d7SiznMV4rkmmxBB"
+    },
+    {
+      "album": {
+        "name": "Love",
+        "url": "https://open.spotify.com/album/3OXMz0E7sNDCEtiB4xNNkf"
+      },
+      "artists": [
+        {
+          "name": "Cho Jang Hyuck",
+          "url": "https://open.spotify.com/artist/7KbzPMRhUFtaSynZ4Oim5Q"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266292,
+      "name": "\uc911\ub3c5\ub41c \uc0ac\ub791",
+      "url": "https://open.spotify.com/track/5NtAjS4i0wEFK0lvvuSAVb"
+    },
+    {
+      "album": {
+        "name": "Gummy Unplugged",
+        "url": "https://open.spotify.com/album/1kSeUKxPi2vcrvKbwdh6z5"
+      },
+      "artists": [
+        {
+          "name": "Gummy",
+          "url": "https://open.spotify.com/artist/0hRHbwZ0xSwfVHl4FTv7jq"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315306,
+      "name": "\uce5c\uad6c\ub77c\ub3c4 \ub420 \uac78 \uadf8\ub7ac\uc5b4",
+      "url": "https://open.spotify.com/track/7zc83ZD1QNkFMwj7sLpK8v"
     },
     {
       "album": {

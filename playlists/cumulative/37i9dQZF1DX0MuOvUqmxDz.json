@@ -4071,6 +4071,24 @@
     },
     {
       "album": {
+        "name": "Koe Wetzel Presents...Wetzel's Wonderland",
+        "url": "https://open.spotify.com/album/6Eaa6S7K1DUq4dRa0fvNga"
+      },
+      "artists": [
+        {
+          "name": "Koe Wetzel",
+          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172794,
+      "name": "Please Come Home For Christmas",
+      "url": "https://open.spotify.com/track/6aE8AlwAqqvnhlthMLrSj3"
+    },
+    {
+      "album": {
         "name": "Have Yourself a Merry Little Christmas",
         "url": "https://open.spotify.com/album/4NYMQcKmbNuaEkNlh7CAyy"
       },
@@ -4198,6 +4216,24 @@
       "duration_ms": 243960,
       "name": "River",
       "url": "https://open.spotify.com/track/4YeME4nJUQ5pqhRikI76dX"
+    },
+    {
+      "album": {
+        "name": "Merry Christmas From Brenda Lee",
+        "url": "https://open.spotify.com/album/34wa3zf2prXFMk47t9zHFG"
+      },
+      "artists": [
+        {
+          "name": "Brenda Lee",
+          "url": "https://open.spotify.com/artist/4cPHsZM98sKzmV26wlwD2W"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126266,
+      "name": "Rockin' Around The Christmas Tree",
+      "url": "https://open.spotify.com/track/2EjXfH91m7f8HiJN1yQg97"
     },
     {
       "album": {

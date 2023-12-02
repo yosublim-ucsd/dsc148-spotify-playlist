@@ -4729,6 +4729,24 @@
     },
     {
       "album": {
+        "name": "Paradise",
+        "url": "https://open.spotify.com/album/5GWIgNa7AXoRkUmqyMXG56"
+      },
+      "artists": [
+        {
+          "name": "Julian Verder",
+          "url": "https://open.spotify.com/artist/3K4MVRJamVJLqZ8fAL6knF"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124909,
+      "name": "Paradise",
+      "url": "https://open.spotify.com/track/12RRvPh6gegoJdscU1gY7f"
+    },
+    {
+      "album": {
         "name": "Passage",
         "url": "https://open.spotify.com/album/2ODUevO5ok7PMjrhlTmU3l"
       },
@@ -6456,6 +6474,24 @@
       "duration_ms": 182222,
       "name": "Swoosh",
       "url": "https://open.spotify.com/track/2d5fQd2dmrPfWd0CCqelkP"
+    },
+    {
+      "album": {
+        "name": "Symbios",
+        "url": "https://open.spotify.com/album/6LaP4c7quJ5ZBtufoMjtXL"
+      },
+      "artists": [
+        {
+          "name": "Floral Gloam",
+          "url": "https://open.spotify.com/artist/1j93Wm2QholT6mKJY937gM"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Symbios",
+      "url": "https://open.spotify.com/track/6XLqfDYv8a9H0aoWX348L7"
     },
     {
       "album": {

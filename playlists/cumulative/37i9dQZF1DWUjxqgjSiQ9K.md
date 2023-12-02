@@ -2,9 +2,9 @@
 
 ### [Éxitos Cristianos](https://open.spotify.com/playlist/37i9dQZF1DWUjxqgjSiQ9K)
 
-> Las canciones de fe que más se escuchan en Latinoamérica\.  Foto: <a href="spotify:artist:2TkDdk47FGnvxcjQGDdPd0">Kike Pavón</a>
+> Las canciones de fe que más se escuchan en Latinoamérica\.  Foto: <a href="spotify:artist:60qPt9fHjiHFrA0fgpPwac">Omar Rodriguez</a>
 
-513 songs - 1 day 15 hr 28 min
+514 songs - 1 day 15 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -240,7 +240,7 @@
 | [His Will > Mine](https://open.spotify.com/track/6bDQdwXEsVXX72kOiUSEKA) | [Andrez Babii](https://open.spotify.com/artist/4DROs1Ye9DiLY3X8L7xvl8) | [His Will > Mine](https://open.spotify.com/album/1YCZMAs3j2nkPiicRUQC15) | 1:51 | 2022-02-25 | 2022-03-18 |
 | [Hogar](https://open.spotify.com/track/24d1PUMgPVEoDyvJqjPKCk) | [Evan Craft](https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4), [CRYS](https://open.spotify.com/artist/7uZO1ri6Y9Wlv7cDoOOUDI) | [Home](https://open.spotify.com/album/2IQJg6KzupWW0n60NT6wSO) | 3:21 | 2022-02-25 | 2022-04-02 |
 | [Holy Forever \- Español](https://open.spotify.com/track/0ZxUHxwz0iPK0wnTCetbss) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m), [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE) | [Holy Forever \(Español\)](https://open.spotify.com/album/7uhv3AlIkn9PgQ4W1CsSLl) | 5:17 | 2023-09-15 |  |
-| [Hosanna \(feat\. Lucas Conslie\)](https://open.spotify.com/track/5IQq0rqAbhwt58nVovdyr6) | [Omar Rodriguez Music](https://open.spotify.com/artist/60qPt9fHjiHFrA0fgpPwac), [Lucas Conslie](https://open.spotify.com/artist/20uZDxss82sidLBxEyjnD1) | [Hosanna \(feat\. Lucas Conslie\)](https://open.spotify.com/album/5ZC6RHxixCN4uFHKDoYqKZ) | 4:05 | 2023-04-28 |  |
+| [Hosanna \(feat\. Lucas Conslie\)](https://open.spotify.com/track/5IQq0rqAbhwt58nVovdyr6) | [Omar Rodriguez Music](https://open.spotify.com/artist/60qPt9fHjiHFrA0fgpPwac), [Lucas Conslie](https://open.spotify.com/artist/20uZDxss82sidLBxEyjnD1) | [Hosanna \(feat\. Lucas Conslie\)](https://open.spotify.com/album/5ZC6RHxixCN4uFHKDoYqKZ) | 4:05 | 2023-04-28 | 2023-12-02 |
 | [Ilógico](https://open.spotify.com/track/7i59PhSOCjNYM4HpKJGXYn) | [Omy Alka](https://open.spotify.com/artist/6dBxV47XdYFxRPmDGSyhgh), [CRYS](https://open.spotify.com/artist/7uZO1ri6Y9Wlv7cDoOOUDI) | [Ilógico](https://open.spotify.com/album/0D95KEMVwtZsLrAT19YDA2) | 3:13 | 2022-02-25 | 2022-04-02 |
 | [Indescribable \(feat\. Un Corazón, WHATUPRG\)](https://open.spotify.com/track/6aHnk0vmpekMPYWpLXTY2f) | [Hillsong Young & Free](https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ), [Hillsong en Español](https://open.spotify.com/artist/3phVKYqeq84Ai91CHTQfNq), [Un Corazón](https://open.spotify.com/artist/4UGA0TDpRVVt2SCz8FZOMm), [WHATUPRG](https://open.spotify.com/artist/6YgYm3f9ifsz4OwQt8jql7) | [Todos Mis Mejores Amigos](https://open.spotify.com/album/6yFD9a0CkXz8tY75nyN9wo) | 3:31 | 2022-02-25 | 2022-04-29 |
 | [Indestructible](https://open.spotify.com/track/6pSAPtBPK6YlfOQ0DxqIQw) | [El Leo Pa´](https://open.spotify.com/artist/67SzMFfffYwYnlQhxPGsOt) | [Indestructible](https://open.spotify.com/album/4aGdIqQXhaVflnLZjYDL6Z) | 4:04 | 2022-07-01 | 2022-09-03 |
@@ -260,6 +260,7 @@
 | [La Mesa](https://open.spotify.com/track/02LK8U3ubV5HzZYTBVXj54) | [Jonathan Traylor](https://open.spotify.com/artist/7KcmdvVaaO7Y0pmHQjOEFo), [Evan Craft](https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4) | [La Mesa/The Table](https://open.spotify.com/album/0axaWqsUdI5jkiqgWanfXR) | 4:18 | 2022-03-25 | 2022-09-24 |
 | [La Oración](https://open.spotify.com/track/4Aw3yrryzr5RfPHLY8kcfy) | [Rubinsky Rbk](https://open.spotify.com/artist/5K6MRaKDEJ1bLuHQQFaUFH) | [La Oración](https://open.spotify.com/album/22MZoLR9ERwdK8rmbDL7KT) | 2:51 | 2022-12-02 | 2023-01-06 |
 | [La Pesadilla](https://open.spotify.com/track/0vE1TXFPXBxgSiWOdn7kZR) | [Su Presencia](https://open.spotify.com/artist/2gaFnEQydJdWNkT17NLZm3) | [La Pesadilla](https://open.spotify.com/album/23N2XdPpymPPMTiLAyH27L) | 3:24 | 2022-02-25 | 2022-07-09 |
+| [La Sangre \(Himno\)](https://open.spotify.com/track/4sFAH2K79ZmGGFWo1uzJks) | [Omar Rodriguez Music](https://open.spotify.com/artist/60qPt9fHjiHFrA0fgpPwac) | [Hogar](https://open.spotify.com/album/1xJ3lLHzbkjnlshDcrNYYu) | 4:47 | 2023-12-01 |  |
 | [La Sangre Del Señor](https://open.spotify.com/track/5l5HJPeA15oPGZJUjuimXG) | [Mark & Sarah Tillman](https://open.spotify.com/artist/4GdeUL15baI90obDfYOvqX), [Wendy Vides](https://open.spotify.com/artist/4P2wGBgg1JVs58vQf0ziI7) | [La Sangre Del Señor](https://open.spotify.com/album/5GwclwyMpoEw1hznREkcKK) | 3:52 | 2023-08-04 |  |
 | [La Victoria \- Live](https://open.spotify.com/track/6UKqs9IDdUQL8CqHp4axmi) | [The Belonging Co](https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5), [Danny Gokey](https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz) | [La Victoria \(Live\)](https://open.spotify.com/album/2euqmewKvoNEKk8t9eu7fw) | 7:24 | 2022-02-25 | 2022-07-02 |
 | [Levantaré \(Live\)](https://open.spotify.com/track/420RhVNyDVv8iQhlDhZwxr) | [Yelitza Cintron](https://open.spotify.com/artist/22XIzHmwPvEbKCT1dnLMt8) | [Rey Del Cielo \(Live\)](https://open.spotify.com/album/20ZkpNpcm7Xyy9sbKoEg3Y) | 6:36 | 2022-04-15 | 2022-04-23 |

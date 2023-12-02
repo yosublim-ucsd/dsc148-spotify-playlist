@@ -1061,6 +1061,24 @@
     },
     {
       "album": {
+        "name": "Elixir",
+        "url": "https://open.spotify.com/album/1ZiUjhQZe8sGtxP74Zrn7d"
+      },
+      "artists": [
+        {
+          "name": "MayDance",
+          "url": "https://open.spotify.com/artist/3kxIpmExJ6PbxU7qzqOEa4"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145458,
+      "name": "Elixir",
+      "url": "https://open.spotify.com/track/0PhaLtoRmcupcDmm3HEh5r"
+    },
+    {
+      "album": {
         "name": "End of Story",
         "url": "https://open.spotify.com/album/1me7BXh024dO5wsWukirT4"
       },
@@ -2696,7 +2714,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 142623,
       "name": "Shizaru",
       "url": "https://open.spotify.com/track/2vi8nrpy6kb7rJ1ZMN3Ces"

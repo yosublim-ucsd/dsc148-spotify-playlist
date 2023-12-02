@@ -1,12 +1,12 @@
 {
   "description": "The composers and musicians bending genres, redefining rules, and bringing classical music into the 21st century.",
-  "num_followers": 53865,
+  "num_followers": 53986,
   "original_name": "Not Quite Classical",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NDEyOTkzY2U1ZTdkYjk3ZTM2MTgwYjQ0OTBlYWMxZmE2YjgwMjA2",
+  "snapshot_id": "MCwxMjIxNWFiMDNjODQ1OTcwOGRiYTI3OWNlZDEyYzdlYjI1ZjVmNWM4",
   "tracks": [
     {
       "added_at": "2023-11-24 04:00:00",
@@ -223,22 +223,18 @@
     {
       "added_at": "2023-11-24 04:00:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/4xLIYDhsKI2FJp4zwZuGGI"
+        "name": "The Wind",
+        "url": "https://open.spotify.com/album/4Ud5YQc9KHMuj0TQQfvnnj"
       },
       "artists": [
         {
-          "name": "Erik Satie",
-          "url": "https://open.spotify.com/artist/459INk8vcC0ebEef82WjIK"
-        },
-        {
-          "name": "Alexandra Streliski",
-          "url": "https://open.spotify.com/artist/0HyM2wwUfOsZYD4Dj5IOOZ"
+          "name": "Balmorhea",
+          "url": "https://open.spotify.com/artist/1U0FaHAc4fcwQcYEJFgkm9"
         }
       ],
-      "duration_ms": 159837,
-      "name": "Gnossienne: No.1 (Satie Reworks) - Spotify Singles",
-      "url": "https://open.spotify.com/track/2iADUGfIsYKXNmZtkxScdH"
+      "duration_ms": 81641,
+      "name": "Nos",
+      "url": "https://open.spotify.com/track/5QIm5UVUJhPrpXwfFXAgKI"
     },
     {
       "added_at": "2023-11-24 04:00:00",
@@ -267,18 +263,22 @@
     {
       "added_at": "2023-11-24 04:00:00",
       "album": {
-        "name": "The Wind",
-        "url": "https://open.spotify.com/album/4Ud5YQc9KHMuj0TQQfvnnj"
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/4xLIYDhsKI2FJp4zwZuGGI"
       },
       "artists": [
         {
-          "name": "Balmorhea",
-          "url": "https://open.spotify.com/artist/1U0FaHAc4fcwQcYEJFgkm9"
+          "name": "Erik Satie",
+          "url": "https://open.spotify.com/artist/459INk8vcC0ebEef82WjIK"
+        },
+        {
+          "name": "Alexandra Streliski",
+          "url": "https://open.spotify.com/artist/0HyM2wwUfOsZYD4Dj5IOOZ"
         }
       ],
-      "duration_ms": 81641,
-      "name": "Nos",
-      "url": "https://open.spotify.com/track/5QIm5UVUJhPrpXwfFXAgKI"
+      "duration_ms": 159837,
+      "name": "Gnossienne: No.1 (Satie Reworks) - Spotify Singles",
+      "url": "https://open.spotify.com/track/2iADUGfIsYKXNmZtkxScdH"
     },
     {
       "added_at": "2023-11-24 04:00:00",
@@ -303,22 +303,6 @@
     {
       "added_at": "2023-11-24 04:00:00",
       "album": {
-        "name": "Deux Pens\u00e9es",
-        "url": "https://open.spotify.com/album/25AWPRVmAbWIiGe7pIm9xA"
-      },
-      "artists": [
-        {
-          "name": "Darker In Vine",
-          "url": "https://open.spotify.com/artist/58jh9fSzagZAZLbetSDIIg"
-        }
-      ],
-      "duration_ms": 169366,
-      "name": "Deux Pens\u00e9es",
-      "url": "https://open.spotify.com/track/4jgazYikKO5Xhctuhc0snS"
-    },
-    {
-      "added_at": "2023-11-24 04:00:00",
-      "album": {
         "name": "Chasing the Present (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3WOn9LRzQqSsykbPB9AChV"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 182836,
       "name": "Chasing the Present",
       "url": "https://open.spotify.com/track/5HzT7FpMsxO23zG5oIkzUz"
+    },
+    {
+      "added_at": "2023-11-24 04:00:00",
+      "album": {
+        "name": "Deux Pens\u00e9es",
+        "url": "https://open.spotify.com/album/25AWPRVmAbWIiGe7pIm9xA"
+      },
+      "artists": [
+        {
+          "name": "Darker In Vine",
+          "url": "https://open.spotify.com/artist/58jh9fSzagZAZLbetSDIIg"
+        }
+      ],
+      "duration_ms": 169366,
+      "name": "Deux Pens\u00e9es",
+      "url": "https://open.spotify.com/track/4jgazYikKO5Xhctuhc0snS"
     },
     {
       "added_at": "2023-11-24 04:00:00",
@@ -351,6 +351,22 @@
     {
       "added_at": "2023-11-24 04:00:00",
       "album": {
+        "name": "No Ball Games (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0mAh7l6iuv2vGhJXeCQJFn"
+      },
+      "artists": [
+        {
+          "name": "Patrick Jonsson",
+          "url": "https://open.spotify.com/artist/5wedfwksIuL9RVB3VpGxcl"
+        }
+      ],
+      "duration_ms": 121000,
+      "name": "No Ball Games (Original Motion Picture Soundtrack)",
+      "url": "https://open.spotify.com/track/7ffWqewr8cBD1t7f87sAU3"
+    },
+    {
+      "added_at": "2023-11-24 04:00:00",
+      "album": {
         "name": "Humming Bird Rework",
         "url": "https://open.spotify.com/album/3KmLGgnFa1fUfudmtrAG3m"
       },
@@ -367,22 +383,6 @@
       "duration_ms": 201774,
       "name": "Humming Bird Rework",
       "url": "https://open.spotify.com/track/0xTeFwl9WhyJ9grMLB1X8B"
-    },
-    {
-      "added_at": "2023-11-24 04:00:00",
-      "album": {
-        "name": "No Ball Games (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/0mAh7l6iuv2vGhJXeCQJFn"
-      },
-      "artists": [
-        {
-          "name": "Patrick Jonsson",
-          "url": "https://open.spotify.com/artist/5wedfwksIuL9RVB3VpGxcl"
-        }
-      ],
-      "duration_ms": 121000,
-      "name": "No Ball Games (Original Motion Picture Soundtrack)",
-      "url": "https://open.spotify.com/track/7ffWqewr8cBD1t7f87sAU3"
     },
     {
       "added_at": "2023-11-24 04:00:00",
@@ -439,22 +439,6 @@
     {
       "added_at": "2023-11-24 04:00:00",
       "album": {
-        "name": "Bylur",
-        "url": "https://open.spotify.com/album/1qNi4PwUQTGAJxDFABvGw7"
-      },
-      "artists": [
-        {
-          "name": "Eyd\u00eds Evensen",
-          "url": "https://open.spotify.com/artist/2SMBaAG61s9mtyJ0eeXSWx"
-        }
-      ],
-      "duration_ms": 251173,
-      "name": "Bylur",
-      "url": "https://open.spotify.com/track/3xjaaBf7ef5TWermNspKOM"
-    },
-    {
-      "added_at": "2023-11-24 04:00:00",
-      "album": {
         "name": "Movement 5 - Pt. 2",
         "url": "https://open.spotify.com/album/2jIbt2grWCWpPCgOUwNpeX"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 252920,
       "name": "Movement 5 - Pt. 2 - Instrumental",
       "url": "https://open.spotify.com/track/5TglMMqjxSaHE9j4iIoJZt"
+    },
+    {
+      "added_at": "2023-11-24 04:00:00",
+      "album": {
+        "name": "Bylur",
+        "url": "https://open.spotify.com/album/1qNi4PwUQTGAJxDFABvGw7"
+      },
+      "artists": [
+        {
+          "name": "Eyd\u00eds Evensen",
+          "url": "https://open.spotify.com/artist/2SMBaAG61s9mtyJ0eeXSWx"
+        }
+      ],
+      "duration_ms": 251173,
+      "name": "Bylur",
+      "url": "https://open.spotify.com/track/3xjaaBf7ef5TWermNspKOM"
     },
     {
       "added_at": "2023-11-24 04:00:00",
@@ -599,22 +599,6 @@
     {
       "added_at": "2023-11-24 04:00:00",
       "album": {
-        "name": "Wandering II",
-        "url": "https://open.spotify.com/album/1R1FEi0CAGPN0cnSDQ6O6R"
-      },
-      "artists": [
-        {
-          "name": "Eyd\u00eds Evensen",
-          "url": "https://open.spotify.com/artist/2SMBaAG61s9mtyJ0eeXSWx"
-        }
-      ],
-      "duration_ms": 159747,
-      "name": "Wandering II",
-      "url": "https://open.spotify.com/track/57YoIlL4U1khGfYI5JEBEk"
-    },
-    {
-      "added_at": "2023-11-24 04:00:00",
-      "album": {
         "name": "Le Jardin de Monsieur Monet",
         "url": "https://open.spotify.com/album/6Pjv5GVH24zabVfeIMOetI"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 313973,
       "name": "Le Jardin de Monsieur Monet",
       "url": "https://open.spotify.com/track/4xqay5NL9jPHSCP2mo3U67"
+    },
+    {
+      "added_at": "2023-11-24 04:00:00",
+      "album": {
+        "name": "Triptych III for Piano",
+        "url": "https://open.spotify.com/album/5IoybgWtHAPjvcPTnM46T4"
+      },
+      "artists": [
+        {
+          "name": "P\u00eatr Aleks\u00e4nder",
+          "url": "https://open.spotify.com/artist/6NXrsSyjmxtUrYh3kaAexZ"
+        }
+      ],
+      "duration_ms": 201013,
+      "name": "Triptych III for Piano",
+      "url": "https://open.spotify.com/track/3HOFwcwtevRoYyYva6ZblI"
     },
     {
       "added_at": "2023-11-24 04:00:00",
@@ -647,18 +647,18 @@
     {
       "added_at": "2023-11-24 04:00:00",
       "album": {
-        "name": "Triptych III for Piano",
-        "url": "https://open.spotify.com/album/5IoybgWtHAPjvcPTnM46T4"
+        "name": "Wandering II",
+        "url": "https://open.spotify.com/album/1R1FEi0CAGPN0cnSDQ6O6R"
       },
       "artists": [
         {
-          "name": "P\u00eatr Aleks\u00e4nder",
-          "url": "https://open.spotify.com/artist/6NXrsSyjmxtUrYh3kaAexZ"
+          "name": "Eyd\u00eds Evensen",
+          "url": "https://open.spotify.com/artist/2SMBaAG61s9mtyJ0eeXSWx"
         }
       ],
-      "duration_ms": 201013,
-      "name": "Triptych III for Piano",
-      "url": "https://open.spotify.com/track/3HOFwcwtevRoYyYva6ZblI"
+      "duration_ms": 159747,
+      "name": "Wandering II",
+      "url": "https://open.spotify.com/track/57YoIlL4U1khGfYI5JEBEk"
     },
     {
       "added_at": "2023-11-24 04:00:00",
@@ -827,6 +827,22 @@
     {
       "added_at": "2023-11-24 04:00:00",
       "album": {
+        "name": "The Invisible EP",
+        "url": "https://open.spotify.com/album/2YlB5eElaicdKaMYZVUHsO"
+      },
+      "artists": [
+        {
+          "name": "\u00d3lafur Arnalds",
+          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
+        }
+      ],
+      "duration_ms": 163861,
+      "name": "Respite",
+      "url": "https://open.spotify.com/track/3NJy8hN4OXIMyqbskBsL8v"
+    },
+    {
+      "added_at": "2023-11-24 04:00:00",
+      "album": {
         "name": "All I Hear Is Birds (Focus Rework)",
         "url": "https://open.spotify.com/album/4t4tCii62BbElIz6tqy2FJ"
       },
@@ -843,22 +859,6 @@
       "duration_ms": 248506,
       "name": "All I Hear Is Birds - Focus Rework",
       "url": "https://open.spotify.com/track/09rP4tUYNfL3BkX7NXIRpm"
-    },
-    {
-      "added_at": "2023-11-24 04:00:00",
-      "album": {
-        "name": "The Invisible EP",
-        "url": "https://open.spotify.com/album/2YlB5eElaicdKaMYZVUHsO"
-      },
-      "artists": [
-        {
-          "name": "\u00d3lafur Arnalds",
-          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
-        }
-      ],
-      "duration_ms": 163861,
-      "name": "Respite",
-      "url": "https://open.spotify.com/track/3NJy8hN4OXIMyqbskBsL8v"
     },
     {
       "added_at": "2023-11-24 04:00:00",
@@ -887,22 +887,6 @@
     {
       "added_at": "2023-11-24 04:00:00",
       "album": {
-        "name": "Current",
-        "url": "https://open.spotify.com/album/4pPrnPAjNULq5aca8tJA0U"
-      },
-      "artists": [
-        {
-          "name": "Phoria",
-          "url": "https://open.spotify.com/artist/0HDxlFsXwyrpufs4YgTNMm"
-        }
-      ],
-      "duration_ms": 350974,
-      "name": "Current",
-      "url": "https://open.spotify.com/track/05J7mr2kIdHciLOO5ISSia"
-    },
-    {
-      "added_at": "2023-11-24 04:00:00",
-      "album": {
         "name": "CRISALIDE",
         "url": "https://open.spotify.com/album/4jtWceBbJher3aLxTY9bl2"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 261000,
       "name": "CRISALIDE 6",
       "url": "https://open.spotify.com/track/6F7cBxzxPOzrqP1Ry4z5Rb"
+    },
+    {
+      "added_at": "2023-11-24 04:00:00",
+      "album": {
+        "name": "Current",
+        "url": "https://open.spotify.com/album/4pPrnPAjNULq5aca8tJA0U"
+      },
+      "artists": [
+        {
+          "name": "Phoria",
+          "url": "https://open.spotify.com/artist/0HDxlFsXwyrpufs4YgTNMm"
+        }
+      ],
+      "duration_ms": 350974,
+      "name": "Current",
+      "url": "https://open.spotify.com/track/05J7mr2kIdHciLOO5ISSia"
     },
     {
       "added_at": "2023-11-24 04:00:00",
@@ -1211,6 +1211,22 @@
     {
       "added_at": "2023-11-24 04:00:00",
       "album": {
+        "name": "Okno",
+        "url": "https://open.spotify.com/album/1LheFuzh54DF8zmFiKD1iX"
+      },
+      "artists": [
+        {
+          "name": "Julia Gjertsen",
+          "url": "https://open.spotify.com/artist/6dEpJk27D9ijwgvz33icCC"
+        }
+      ],
+      "duration_ms": 187000,
+      "name": "Okno",
+      "url": "https://open.spotify.com/track/1fne5Gw3Uv96aNy50Fer6s"
+    },
+    {
+      "added_at": "2023-11-24 04:00:00",
+      "album": {
         "name": "BLOMMA",
         "url": "https://open.spotify.com/album/3ZkfxERiMWA5EBPqZSLgEc"
       },
@@ -1235,22 +1251,6 @@
     {
       "added_at": "2023-11-24 04:00:00",
       "album": {
-        "name": "Okno",
-        "url": "https://open.spotify.com/album/1LheFuzh54DF8zmFiKD1iX"
-      },
-      "artists": [
-        {
-          "name": "Julia Gjertsen",
-          "url": "https://open.spotify.com/artist/6dEpJk27D9ijwgvz33icCC"
-        }
-      ],
-      "duration_ms": 187000,
-      "name": "Okno",
-      "url": "https://open.spotify.com/track/1fne5Gw3Uv96aNy50Fer6s"
-    },
-    {
-      "added_at": "2023-11-24 04:00:00",
-      "album": {
         "name": "A",
         "url": "https://open.spotify.com/album/4pyvUT61X7FcjvItZogGt3"
       },
@@ -1263,6 +1263,22 @@
       "duration_ms": 232000,
       "name": "A",
       "url": "https://open.spotify.com/track/5uYalrRxXbbK7N8vYlXWFO"
+    },
+    {
+      "added_at": "2023-11-24 04:00:00",
+      "album": {
+        "name": "Next Winter",
+        "url": "https://open.spotify.com/album/6ZWxDNKRbwvPHa8quQNf9P"
+      },
+      "artists": [
+        {
+          "name": "Mark Slater",
+          "url": "https://open.spotify.com/artist/63TOnUvxBBCq0yJN9wKuXF"
+        }
+      ],
+      "duration_ms": 234683,
+      "name": "Next Winter",
+      "url": "https://open.spotify.com/track/0UfpJngBbA7yILNdoNDqlM"
     },
     {
       "added_at": "2023-11-24 04:00:00",
@@ -1303,6 +1319,38 @@
     {
       "added_at": "2023-11-24 04:00:00",
       "album": {
+        "name": "A Winged Victory for the Sullen",
+        "url": "https://open.spotify.com/album/6vygseD1InhHomosteUnPU"
+      },
+      "artists": [
+        {
+          "name": "A Winged Victory for the Sullen",
+          "url": "https://open.spotify.com/artist/13CMfEeq8AC6ryGOPODqE1"
+        }
+      ],
+      "duration_ms": 266840,
+      "name": "Steep Hills of Vicodin Tears",
+      "url": "https://open.spotify.com/track/3ytUgxZj1EYHb8zlk5VKk6"
+    },
+    {
+      "added_at": "2023-11-24 04:00:00",
+      "album": {
+        "name": "The Time It Takes",
+        "url": "https://open.spotify.com/album/0cRO3Wyym9OcjtHezZD9Fc"
+      },
+      "artists": [
+        {
+          "name": "Goldmund",
+          "url": "https://open.spotify.com/artist/0R5BzePlbvG8xTXw0QF3uw"
+        }
+      ],
+      "duration_ms": 181106,
+      "name": "Respite",
+      "url": "https://open.spotify.com/track/2Z3aDyQnxozf2mVjahDigG"
+    },
+    {
+      "added_at": "2023-11-24 04:00:00",
+      "album": {
         "name": "All I Need",
         "url": "https://open.spotify.com/album/6JLS96rMyyFzQTlpNuRV51"
       },
@@ -1319,18 +1367,22 @@
     {
       "added_at": "2023-11-24 04:00:00",
       "album": {
-        "name": "Next Winter",
-        "url": "https://open.spotify.com/album/6ZWxDNKRbwvPHa8quQNf9P"
+        "name": "Svalbard",
+        "url": "https://open.spotify.com/album/57bDNgzUtAvKaL2wSPnsiF"
       },
       "artists": [
         {
-          "name": "Mark Slater",
-          "url": "https://open.spotify.com/artist/63TOnUvxBBCq0yJN9wKuXF"
+          "name": "Niklas Paschburg",
+          "url": "https://open.spotify.com/artist/4dTw5svKFBPnfijbi3H9eI"
+        },
+        {
+          "name": "Andy Barlow",
+          "url": "https://open.spotify.com/artist/6TC2SpVp20fhwV7SAVr56o"
         }
       ],
-      "duration_ms": 234683,
-      "name": "Next Winter",
-      "url": "https://open.spotify.com/track/0UfpJngBbA7yILNdoNDqlM"
+      "duration_ms": 175090,
+      "name": "Little Orc",
+      "url": "https://open.spotify.com/track/43SR37OKj3Dgc82aHXr6ql"
     },
     {
       "added_at": "2023-11-24 04:00:00",
@@ -1355,54 +1407,6 @@
     {
       "added_at": "2023-11-24 04:00:00",
       "album": {
-        "name": "A Winged Victory for the Sullen",
-        "url": "https://open.spotify.com/album/6vygseD1InhHomosteUnPU"
-      },
-      "artists": [
-        {
-          "name": "A Winged Victory for the Sullen",
-          "url": "https://open.spotify.com/artist/13CMfEeq8AC6ryGOPODqE1"
-        }
-      ],
-      "duration_ms": 266840,
-      "name": "Steep Hills of Vicodin Tears",
-      "url": "https://open.spotify.com/track/3ytUgxZj1EYHb8zlk5VKk6"
-    },
-    {
-      "added_at": "2023-11-24 04:00:00",
-      "album": {
-        "name": "Riverscape",
-        "url": "https://open.spotify.com/album/5TS8osFEMF2oHUwKWnS0Qw"
-      },
-      "artists": [
-        {
-          "name": "Fabrizio Paterlini",
-          "url": "https://open.spotify.com/artist/0jrFMgW018F1XVnLtCXOKi"
-        }
-      ],
-      "duration_ms": 154041,
-      "name": "Riverscape",
-      "url": "https://open.spotify.com/track/5GwVkYN0uWaS9rwNezJAZg"
-    },
-    {
-      "added_at": "2023-11-24 04:00:00",
-      "album": {
-        "name": "The Time It Takes",
-        "url": "https://open.spotify.com/album/0cRO3Wyym9OcjtHezZD9Fc"
-      },
-      "artists": [
-        {
-          "name": "Goldmund",
-          "url": "https://open.spotify.com/artist/0R5BzePlbvG8xTXw0QF3uw"
-        }
-      ],
-      "duration_ms": 181106,
-      "name": "Respite",
-      "url": "https://open.spotify.com/track/2Z3aDyQnxozf2mVjahDigG"
-    },
-    {
-      "added_at": "2023-11-24 04:00:00",
-      "album": {
         "name": "Haar over Hamnavoe (Bill Ryder-Jones Rework)",
         "url": "https://open.spotify.com/album/20ek3LDlmNsbU44XmMP6cb"
       },
@@ -1423,22 +1427,18 @@
     {
       "added_at": "2023-11-24 04:00:00",
       "album": {
-        "name": "Svalbard",
-        "url": "https://open.spotify.com/album/57bDNgzUtAvKaL2wSPnsiF"
+        "name": "Riverscape",
+        "url": "https://open.spotify.com/album/5TS8osFEMF2oHUwKWnS0Qw"
       },
       "artists": [
         {
-          "name": "Niklas Paschburg",
-          "url": "https://open.spotify.com/artist/4dTw5svKFBPnfijbi3H9eI"
-        },
-        {
-          "name": "Andy Barlow",
-          "url": "https://open.spotify.com/artist/6TC2SpVp20fhwV7SAVr56o"
+          "name": "Fabrizio Paterlini",
+          "url": "https://open.spotify.com/artist/0jrFMgW018F1XVnLtCXOKi"
         }
       ],
-      "duration_ms": 175090,
-      "name": "Little Orc",
-      "url": "https://open.spotify.com/track/43SR37OKj3Dgc82aHXr6ql"
+      "duration_ms": 154041,
+      "name": "Riverscape",
+      "url": "https://open.spotify.com/track/5GwVkYN0uWaS9rwNezJAZg"
     },
     {
       "added_at": "2023-11-24 04:00:00",
@@ -1563,22 +1563,22 @@
     {
       "added_at": "2023-11-24 04:00:00",
       "album": {
-        "name": "Floreana",
-        "url": "https://open.spotify.com/album/6xGQ7fVQqfMCaS4mYVBaTl"
+        "name": "Familiar",
+        "url": "https://open.spotify.com/album/4kpmg5bYaTMB3imXsf1ucT"
       },
       "artists": [
         {
-          "name": "Gustaf Ljunggren",
-          "url": "https://open.spotify.com/artist/448xgQqrgiEalhGErK14bs"
+          "name": "ABBOTT",
+          "url": "https://open.spotify.com/artist/5CU8kbEERwvAfRatCVyPnt"
         },
         {
-          "name": "Sk\u00fali Sverrisson",
-          "url": "https://open.spotify.com/artist/78kBVKyMQy7r9mEul6sXoh"
+          "name": "Canea Quartett",
+          "url": "https://open.spotify.com/artist/2fDDFvi81fsu9osi2VhvNe"
         }
       ],
-      "duration_ms": 263608,
-      "name": "Leading Somewhere",
-      "url": "https://open.spotify.com/track/0oLadn7l2XO7vvZK066MjM"
+      "duration_ms": 212732,
+      "name": "Familiar",
+      "url": "https://open.spotify.com/track/1j2FfR6RJlBJoJQDNfoukY"
     },
     {
       "added_at": "2023-11-24 04:00:00",
@@ -1615,22 +1615,22 @@
     {
       "added_at": "2023-11-24 04:00:00",
       "album": {
-        "name": "Familiar",
-        "url": "https://open.spotify.com/album/4kpmg5bYaTMB3imXsf1ucT"
+        "name": "Floreana",
+        "url": "https://open.spotify.com/album/6xGQ7fVQqfMCaS4mYVBaTl"
       },
       "artists": [
         {
-          "name": "ABBOTT",
-          "url": "https://open.spotify.com/artist/5CU8kbEERwvAfRatCVyPnt"
+          "name": "Gustaf Ljunggren",
+          "url": "https://open.spotify.com/artist/448xgQqrgiEalhGErK14bs"
         },
         {
-          "name": "Canea Quartett",
-          "url": "https://open.spotify.com/artist/2fDDFvi81fsu9osi2VhvNe"
+          "name": "Sk\u00fali Sverrisson",
+          "url": "https://open.spotify.com/artist/78kBVKyMQy7r9mEul6sXoh"
         }
       ],
-      "duration_ms": 212732,
-      "name": "Familiar",
-      "url": "https://open.spotify.com/track/1j2FfR6RJlBJoJQDNfoukY"
+      "duration_ms": 263608,
+      "name": "Leading Somewhere",
+      "url": "https://open.spotify.com/track/0oLadn7l2XO7vvZK066MjM"
     },
     {
       "added_at": "2023-11-24 04:00:00",
@@ -1655,6 +1655,22 @@
     {
       "added_at": "2023-11-24 04:00:00",
       "album": {
+        "name": "For You",
+        "url": "https://open.spotify.com/album/49jgXZPDfEu07LoN4hCS5O"
+      },
+      "artists": [
+        {
+          "name": "Matteo de Grandis",
+          "url": "https://open.spotify.com/artist/7hI0mA1gOZrjxU2KZSCDce"
+        }
+      ],
+      "duration_ms": 201181,
+      "name": "For You",
+      "url": "https://open.spotify.com/track/3j7siGdElMQwOX1VPCWoW7"
+    },
+    {
+      "added_at": "2023-11-24 04:00:00",
+      "album": {
         "name": "Whispers",
         "url": "https://open.spotify.com/album/3vYwHAdCXFOSPB0QlpiCaS"
       },
@@ -1675,22 +1691,6 @@
     {
       "added_at": "2023-11-24 04:00:00",
       "album": {
-        "name": "For You",
-        "url": "https://open.spotify.com/album/49jgXZPDfEu07LoN4hCS5O"
-      },
-      "artists": [
-        {
-          "name": "Matteo de Grandis",
-          "url": "https://open.spotify.com/artist/7hI0mA1gOZrjxU2KZSCDce"
-        }
-      ],
-      "duration_ms": 201181,
-      "name": "For You",
-      "url": "https://open.spotify.com/track/3j7siGdElMQwOX1VPCWoW7"
-    },
-    {
-      "added_at": "2023-11-24 04:00:00",
-      "album": {
         "name": "Nomadland (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3gd5jLNJnFB2eKn2qQHHZq"
       },
@@ -1703,6 +1703,22 @@
       "duration_ms": 246257,
       "name": "Epilogue",
       "url": "https://open.spotify.com/track/5LqyJJiZ3X74giX7n0QxjF"
+    },
+    {
+      "added_at": "2023-11-24 04:00:00",
+      "album": {
+        "name": "Parkbench",
+        "url": "https://open.spotify.com/album/4iXhxwvBhInvPgDXkXRAJT"
+      },
+      "artists": [
+        {
+          "name": "Dear Gravity",
+          "url": "https://open.spotify.com/artist/28MEj0HGdwvJYdbMAVpXU6"
+        }
+      ],
+      "duration_ms": 221024,
+      "name": "Parkbench",
+      "url": "https://open.spotify.com/track/44FSX8VuF0zaiYtVcySxq2"
     },
     {
       "added_at": "2023-11-24 04:00:00",
@@ -1783,22 +1799,6 @@
       "duration_ms": 149751,
       "name": "Parliament Of Owls",
       "url": "https://open.spotify.com/track/0mNCNmylxTWB9GrFw4RVf6"
-    },
-    {
-      "added_at": "2023-11-24 04:00:00",
-      "album": {
-        "name": "Tranquillant",
-        "url": "https://open.spotify.com/album/6B9gEaeD0u9eaBZL1lznqs"
-      },
-      "artists": [
-        {
-          "name": "Eyd\u00eds Evensen",
-          "url": "https://open.spotify.com/artist/2SMBaAG61s9mtyJ0eeXSWx"
-        }
-      ],
-      "duration_ms": 173373,
-      "name": "Tranquillant",
-      "url": "https://open.spotify.com/track/7lvEhtMzOBgfVBu4oF7cse"
     }
   ],
   "unique_name": "Not Quite Classical",

@@ -1759,6 +1759,24 @@
     },
     {
       "album": {
+        "name": "Peaceful Sensations",
+        "url": "https://open.spotify.com/album/444Smw0uIl5I4mJ6CdkRQn"
+      },
+      "artists": [
+        {
+          "name": "Amara Issawi",
+          "url": "https://open.spotify.com/artist/2P9RNRqGbPoYGrT7wQTt8r"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165450,
+      "name": "Peaceful Sensations",
+      "url": "https://open.spotify.com/track/1Lzv93xUuJMP28dDMVPOjm"
+    },
+    {
+      "album": {
         "name": "Per Me",
         "url": "https://open.spotify.com/album/1kg1n715SGQCmmS741iP7F"
       },

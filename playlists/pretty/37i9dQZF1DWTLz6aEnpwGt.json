@@ -1,12 +1,12 @@
 {
   "description": "Bach's most popular piano pieces, performed by the greatest pianists of the last century.",
-  "num_followers": 45730,
+  "num_followers": 45750,
   "original_name": "Bach Piano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyN2MzN2NiOGUxZTY3MGMyNjhmODc5OGMzZWNmNGZiNzRmMjg3OTlj",
+  "snapshot_id": "MCxkZDg5ZTk0MzVhYzE5ZTg0M2ViYjM4Mjc4ZmIyMjdmNmMyODdlODA3",
   "tracks": [
     {
       "added_at": "2022-08-19 10:45:11",
@@ -379,34 +379,6 @@
     {
       "added_at": "2022-08-19 10:45:11",
       "album": {
-        "name": "Bach: Keyboard Concertos",
-        "url": "https://open.spotify.com/album/30Tv1tpCJciX7TAbdFyobi"
-      },
-      "artists": [
-        {
-          "name": "Johann Sebastian Bach",
-          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
-        },
-        {
-          "name": "Alexandre Tharaud",
-          "url": "https://open.spotify.com/artist/5HG9Eg7Ik8ZuNtMyGYTxLG"
-        },
-        {
-          "name": "Les Violons du Roy",
-          "url": "https://open.spotify.com/artist/0JjlFfPu43HSIHEUP3zKvP"
-        },
-        {
-          "name": "Bernard Labadie",
-          "url": "https://open.spotify.com/artist/0z1Xm1EDwfBTBpsMQlBFOD"
-        }
-      ],
-      "duration_ms": 187800,
-      "name": "Bach, JS: Piano Concerto No. 5 in F Minor, BWV 1056: II. Largo",
-      "url": "https://open.spotify.com/track/04jRwe67y8gkExGnRV1Zck"
-    },
-    {
-      "added_at": "2022-08-19 10:45:11",
-      "album": {
         "name": "Glenn Gould plays Bach: Piano Concertos Nos. 1 - 5 BWV 1052-1056 & No. 7 BWV 1058",
         "url": "https://open.spotify.com/album/14rnDYdD1OCvTh9lSvodMK"
       },
@@ -435,6 +407,34 @@
     {
       "added_at": "2022-08-19 10:45:11",
       "album": {
+        "name": "Bach: Keyboard Concertos",
+        "url": "https://open.spotify.com/album/30Tv1tpCJciX7TAbdFyobi"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Alexandre Tharaud",
+          "url": "https://open.spotify.com/artist/5HG9Eg7Ik8ZuNtMyGYTxLG"
+        },
+        {
+          "name": "Les Violons du Roy",
+          "url": "https://open.spotify.com/artist/0JjlFfPu43HSIHEUP3zKvP"
+        },
+        {
+          "name": "Bernard Labadie",
+          "url": "https://open.spotify.com/artist/0z1Xm1EDwfBTBpsMQlBFOD"
+        }
+      ],
+      "duration_ms": 187800,
+      "name": "Bach, JS: Piano Concerto No. 5 in F Minor, BWV 1056: II. Largo",
+      "url": "https://open.spotify.com/track/04jRwe67y8gkExGnRV1Zck"
+    },
+    {
+      "added_at": "2022-08-19 10:45:11",
+      "album": {
         "name": "BACH, J.S.: Inventions and Sinfonias, BWV 772-801",
         "url": "https://open.spotify.com/album/4CyjtDDcXde5wcJFdCb2Im"
       },
@@ -451,6 +451,26 @@
       "duration_ms": 121333,
       "name": "2-Part Inventions, BWV 772-786: Invention No. 2 in C Minor, BWV 773",
       "url": "https://open.spotify.com/track/5q6CAvTQ3u2EvRZtHJoKjY"
+    },
+    {
+      "added_at": "2022-08-19 10:45:11",
+      "album": {
+        "name": "Bach, J.S.: Inventions and Sinfonias, Bwv 772-801 / Anna Magdalena's Notebook (Fragments)",
+        "url": "https://open.spotify.com/album/2eCYStBziLfnCLBXu79MWw"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Janos Sebestyen",
+          "url": "https://open.spotify.com/artist/3XqsvVsJuMXQsfVwpYZLFZ"
+        }
+      ],
+      "duration_ms": 50306,
+      "name": "Clavierbuchlein for Anna Magdalena Bach, Book 2, BWV Anh. 113-132: Minuet in D Minor, BWV Anh. II 132",
+      "url": "https://open.spotify.com/track/483bj6UuRHHGPhhhVVtrOE"
     },
     {
       "added_at": "2022-08-19 10:45:11",
@@ -475,26 +495,6 @@
       "duration_ms": 297280,
       "name": "Concerto for 2 Harpsichords, Strings & Continuo in C Major, BWV 1061: 2. Adagio ovvero Largo",
       "url": "https://open.spotify.com/track/1MikehMkm3ZWWV1R7C0sgG"
-    },
-    {
-      "added_at": "2022-08-19 10:45:11",
-      "album": {
-        "name": "Bach, J.S.: Inventions and Sinfonias, Bwv 772-801 / Anna Magdalena's Notebook (Fragments)",
-        "url": "https://open.spotify.com/album/2eCYStBziLfnCLBXu79MWw"
-      },
-      "artists": [
-        {
-          "name": "Johann Sebastian Bach",
-          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
-        },
-        {
-          "name": "Janos Sebestyen",
-          "url": "https://open.spotify.com/artist/3XqsvVsJuMXQsfVwpYZLFZ"
-        }
-      ],
-      "duration_ms": 50306,
-      "name": "Clavierbuchlein for Anna Magdalena Bach, Book 2, BWV Anh. 113-132: Minuet in D Minor, BWV Anh. II 132",
-      "url": "https://open.spotify.com/track/483bj6UuRHHGPhhhVVtrOE"
     },
     {
       "added_at": "2022-08-19 10:45:11",

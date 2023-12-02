@@ -1,12 +1,12 @@
 {
   "description": "O R&B com tempero e gostinho brasileiro para voc\u00ea ouvir. Foto: Hanifah, Doug O.",
-  "num_followers": 165467,
+  "num_followers": 165492,
   "original_name": "R&B Brasil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMzMzM2Y1NWZjNjc3NTY1OTIwZWJjNDAyNWMwNTRhY2RjNTYxOTZl",
+  "snapshot_id": "MCxmOGQwZWVjN2I4NmQ5MzFhNjlmODEwODEwZGEzNjZiNmViYzc3ZmMy",
   "tracks": [
     {
       "added_at": "2023-11-24 17:03:06",
@@ -27,34 +27,6 @@
       "duration_ms": 148800,
       "name": "PURPLE",
       "url": "https://open.spotify.com/track/2J3xuJN4m01hI5aEDurglC"
-    },
-    {
-      "added_at": "2023-11-24 17:03:06",
-      "album": {
-        "name": "Quando Te Vi",
-        "url": "https://open.spotify.com/album/41f4UoNwZH0Er1ZLCjMokE"
-      },
-      "artists": [
-        {
-          "name": "Gaab",
-          "url": "https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut"
-        },
-        {
-          "name": "Oruam",
-          "url": "https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT"
-        },
-        {
-          "name": "Ajaxx",
-          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
-        },
-        {
-          "name": "Galdino",
-          "url": "https://open.spotify.com/artist/0WvTL8PecsD3VxRGuHdSxj"
-        }
-      ],
-      "duration_ms": 234146,
-      "name": "Quando Te Vi",
-      "url": "https://open.spotify.com/track/4jxaQVs4cRH3MDKMZ0kRhj"
     },
     {
       "added_at": "2023-11-24 17:03:06",
@@ -83,6 +55,34 @@
       "duration_ms": 125624,
       "name": "N\u00e3o Tenho Tempo",
       "url": "https://open.spotify.com/track/42Lqgo4o80uHEKKtaGOkj1"
+    },
+    {
+      "added_at": "2023-11-24 17:03:06",
+      "album": {
+        "name": "Quando Te Vi",
+        "url": "https://open.spotify.com/album/41f4UoNwZH0Er1ZLCjMokE"
+      },
+      "artists": [
+        {
+          "name": "Gaab",
+          "url": "https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut"
+        },
+        {
+          "name": "Oruam",
+          "url": "https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT"
+        },
+        {
+          "name": "Ajaxx",
+          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
+        },
+        {
+          "name": "Galdino",
+          "url": "https://open.spotify.com/artist/0WvTL8PecsD3VxRGuHdSxj"
+        }
+      ],
+      "duration_ms": 234146,
+      "name": "Quando Te Vi",
+      "url": "https://open.spotify.com/track/4jxaQVs4cRH3MDKMZ0kRhj"
     },
     {
       "added_at": "2023-11-24 17:03:06",
@@ -383,26 +383,6 @@
     {
       "added_at": "2023-11-24 17:03:06",
       "album": {
-        "name": "Fora do Normal",
-        "url": "https://open.spotify.com/album/6fwX4GAEynh8TUJvLInkhT"
-      },
-      "artists": [
-        {
-          "name": "DeLua",
-          "url": "https://open.spotify.com/artist/2b3FIonB346s5kYHaPxqKq"
-        },
-        {
-          "name": "Tory",
-          "url": "https://open.spotify.com/artist/0Cscqd4XordWPh05d8PkRy"
-        }
-      ],
-      "duration_ms": 173233,
-      "name": "Fora do Normal",
-      "url": "https://open.spotify.com/track/08r830LTmYYj6GoF5tstkB"
-    },
-    {
-      "added_at": "2023-11-24 17:03:06",
-      "album": {
         "name": "Amar D\u00f3i",
         "url": "https://open.spotify.com/album/0dMizKYVd3kyaOe2VJkPTn"
       },
@@ -419,42 +399,6 @@
       "duration_ms": 168063,
       "name": "N\u00f3s",
       "url": "https://open.spotify.com/track/2rzuk1zS2HbFTn4aLDoBEm"
-    },
-    {
-      "added_at": "2023-11-24 17:03:06",
-      "album": {
-        "name": "MENTIROSO",
-        "url": "https://open.spotify.com/album/4M1ABS74NBYnrsXMSEQIRV"
-      },
-      "artists": [
-        {
-          "name": "Doug O.",
-          "url": "https://open.spotify.com/artist/1mj6W331lVCliU08OYyMg0"
-        }
-      ],
-      "duration_ms": 167936,
-      "name": "MENTIROSO",
-      "url": "https://open.spotify.com/track/2pWh0qXT9466a6HwMf9I1W"
-    },
-    {
-      "added_at": "2023-11-24 17:03:06",
-      "album": {
-        "name": "Sinal de Fuma\u00e7a",
-        "url": "https://open.spotify.com/album/5OkI6zKfhKzl1w3CjpvnOi"
-      },
-      "artists": [
-        {
-          "name": "Yas",
-          "url": "https://open.spotify.com/artist/3tFl0Vh4EoMvMutypugPYO"
-        },
-        {
-          "name": "Thebosh",
-          "url": "https://open.spotify.com/artist/6NCFegwTfE1dbVEOPrAGxI"
-        }
-      ],
-      "duration_ms": 150833,
-      "name": "Sinal de Fuma\u00e7a",
-      "url": "https://open.spotify.com/track/76M93slEhL9Q9MEvbxycbe"
     },
     {
       "added_at": "2023-11-24 17:03:06",
@@ -495,6 +439,62 @@
     {
       "added_at": "2023-11-24 17:03:06",
       "album": {
+        "name": "Fora do Normal",
+        "url": "https://open.spotify.com/album/6fwX4GAEynh8TUJvLInkhT"
+      },
+      "artists": [
+        {
+          "name": "DeLua",
+          "url": "https://open.spotify.com/artist/2b3FIonB346s5kYHaPxqKq"
+        },
+        {
+          "name": "Tory",
+          "url": "https://open.spotify.com/artist/0Cscqd4XordWPh05d8PkRy"
+        }
+      ],
+      "duration_ms": 173233,
+      "name": "Fora do Normal",
+      "url": "https://open.spotify.com/track/08r830LTmYYj6GoF5tstkB"
+    },
+    {
+      "added_at": "2023-11-24 17:03:06",
+      "album": {
+        "name": "MENTIROSO",
+        "url": "https://open.spotify.com/album/4M1ABS74NBYnrsXMSEQIRV"
+      },
+      "artists": [
+        {
+          "name": "Doug O.",
+          "url": "https://open.spotify.com/artist/1mj6W331lVCliU08OYyMg0"
+        }
+      ],
+      "duration_ms": 167936,
+      "name": "MENTIROSO",
+      "url": "https://open.spotify.com/track/2pWh0qXT9466a6HwMf9I1W"
+    },
+    {
+      "added_at": "2023-11-24 17:03:06",
+      "album": {
+        "name": "Sinal de Fuma\u00e7a",
+        "url": "https://open.spotify.com/album/5OkI6zKfhKzl1w3CjpvnOi"
+      },
+      "artists": [
+        {
+          "name": "Yas",
+          "url": "https://open.spotify.com/artist/3tFl0Vh4EoMvMutypugPYO"
+        },
+        {
+          "name": "Thebosh",
+          "url": "https://open.spotify.com/artist/6NCFegwTfE1dbVEOPrAGxI"
+        }
+      ],
+      "duration_ms": 150833,
+      "name": "Sinal de Fuma\u00e7a",
+      "url": "https://open.spotify.com/track/76M93slEhL9Q9MEvbxycbe"
+    },
+    {
+      "added_at": "2023-11-24 17:03:06",
+      "album": {
         "name": "Localiza\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/722X2OqhnEkVCk1kDP3IMl"
       },
@@ -511,22 +511,6 @@
       "duration_ms": 172800,
       "name": "Localiza\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/5UeR1CuDo4rrSjK3RyD0nV"
-    },
-    {
-      "added_at": "2023-11-24 17:03:06",
-      "album": {
-        "name": "Vestido Vermelho",
-        "url": "https://open.spotify.com/album/06vVPATP7xd4AvQzeevpss"
-      },
-      "artists": [
-        {
-          "name": "Filipe Papi",
-          "url": "https://open.spotify.com/artist/4PIbPYHfWC6FC2RL6livhm"
-        }
-      ],
-      "duration_ms": 170588,
-      "name": "Vestido Vermelho",
-      "url": "https://open.spotify.com/track/11xqJp6dCzVm3PxEroeVih"
     },
     {
       "added_at": "2023-11-24 17:03:06",
@@ -551,26 +535,18 @@
     {
       "added_at": "2023-11-24 17:03:06",
       "album": {
-        "name": "A S\u00f3s",
-        "url": "https://open.spotify.com/album/66vwSPGMqAoKx9yaB1ThoJ"
+        "name": "Vestido Vermelho",
+        "url": "https://open.spotify.com/album/06vVPATP7xd4AvQzeevpss"
       },
       "artists": [
         {
-          "name": "Ecologyk",
-          "url": "https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW"
-        },
-        {
-          "name": "Gaab",
-          "url": "https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut"
-        },
-        {
-          "name": "FRESH",
-          "url": "https://open.spotify.com/artist/2BGHRFhBAgK5Dyp2g7PCGh"
+          "name": "Filipe Papi",
+          "url": "https://open.spotify.com/artist/4PIbPYHfWC6FC2RL6livhm"
         }
       ],
-      "duration_ms": 164210,
-      "name": "A S\u00f3s",
-      "url": "https://open.spotify.com/track/321ZO0hduSgQ0VR8uljst3"
+      "duration_ms": 170588,
+      "name": "Vestido Vermelho",
+      "url": "https://open.spotify.com/track/11xqJp6dCzVm3PxEroeVih"
     },
     {
       "added_at": "2023-11-24 17:03:06",
@@ -599,6 +575,30 @@
     {
       "added_at": "2023-11-24 17:03:06",
       "album": {
+        "name": "A S\u00f3s",
+        "url": "https://open.spotify.com/album/66vwSPGMqAoKx9yaB1ThoJ"
+      },
+      "artists": [
+        {
+          "name": "Ecologyk",
+          "url": "https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW"
+        },
+        {
+          "name": "Gaab",
+          "url": "https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut"
+        },
+        {
+          "name": "FRESH",
+          "url": "https://open.spotify.com/artist/2BGHRFhBAgK5Dyp2g7PCGh"
+        }
+      ],
+      "duration_ms": 164210,
+      "name": "A S\u00f3s",
+      "url": "https://open.spotify.com/track/321ZO0hduSgQ0VR8uljst3"
+    },
+    {
+      "added_at": "2023-11-24 17:03:06",
+      "album": {
         "name": "Auge",
         "url": "https://open.spotify.com/album/3VeBQmFmne7gU4xU6jqlGu"
       },
@@ -619,26 +619,6 @@
       "duration_ms": 190286,
       "name": "Auge",
       "url": "https://open.spotify.com/track/63ft1sslYXqdYttGDQL99T"
-    },
-    {
-      "added_at": "2023-11-24 17:03:06",
-      "album": {
-        "name": "Nessa Vida",
-        "url": "https://open.spotify.com/album/5SivaxB405MCGeZroyNpza"
-      },
-      "artists": [
-        {
-          "name": "IGOR",
-          "url": "https://open.spotify.com/artist/4zCVTLvRnKYmkVyCxfV2ny"
-        },
-        {
-          "name": "Budah",
-          "url": "https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO"
-        }
-      ],
-      "duration_ms": 189233,
-      "name": "Nessa Vida",
-      "url": "https://open.spotify.com/track/4ryu7kty8u9SiA5Md11D0B"
     },
     {
       "added_at": "2023-11-24 17:03:06",
@@ -671,26 +651,22 @@
     {
       "added_at": "2023-11-24 17:03:06",
       "album": {
-        "name": "Teu Sinal",
-        "url": "https://open.spotify.com/album/4qOMdPxlwo1d1asnXjTnlW"
+        "name": "Nessa Vida",
+        "url": "https://open.spotify.com/album/5SivaxB405MCGeZroyNpza"
       },
       "artists": [
         {
-          "name": "Nathy Veras",
-          "url": "https://open.spotify.com/artist/3zt8fOqNT5MJuHewiE482i"
+          "name": "IGOR",
+          "url": "https://open.spotify.com/artist/4zCVTLvRnKYmkVyCxfV2ny"
         },
         {
-          "name": "JOK3R",
-          "url": "https://open.spotify.com/artist/2YvHMMn0rYDvE3rs6dqzhq"
-        },
-        {
-          "name": "Bubblegun Studios",
-          "url": "https://open.spotify.com/artist/4vqazZms8Y4wPQM6rbtOGx"
+          "name": "Budah",
+          "url": "https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO"
         }
       ],
-      "duration_ms": 189230,
-      "name": "Teu Sinal",
-      "url": "https://open.spotify.com/track/1Jdsw1yunMP4tRTLibsY0J"
+      "duration_ms": 189233,
+      "name": "Nessa Vida",
+      "url": "https://open.spotify.com/track/4ryu7kty8u9SiA5Md11D0B"
     },
     {
       "added_at": "2023-11-24 17:03:06",
@@ -715,22 +691,26 @@
     {
       "added_at": "2023-11-24 17:03:06",
       "album": {
-        "name": "Faz Arrepiar",
-        "url": "https://open.spotify.com/album/2eECtXgZdmITR6VSzq5CW7"
+        "name": "Teu Sinal",
+        "url": "https://open.spotify.com/album/4qOMdPxlwo1d1asnXjTnlW"
       },
       "artists": [
         {
-          "name": "Fashion Piva",
-          "url": "https://open.spotify.com/artist/4BvRiHSL8MkEyohJoY7lyk"
+          "name": "Nathy Veras",
+          "url": "https://open.spotify.com/artist/3zt8fOqNT5MJuHewiE482i"
         },
         {
-          "name": "Ane",
-          "url": "https://open.spotify.com/artist/59BcvfHR3rS8VA3yxwATAG"
+          "name": "JOK3R",
+          "url": "https://open.spotify.com/artist/2YvHMMn0rYDvE3rs6dqzhq"
+        },
+        {
+          "name": "Bubblegun Studios",
+          "url": "https://open.spotify.com/artist/4vqazZms8Y4wPQM6rbtOGx"
         }
       ],
-      "duration_ms": 140832,
-      "name": "Faz Arrepiar",
-      "url": "https://open.spotify.com/track/7JGHeEIqdqrQJUXONANuKz"
+      "duration_ms": 189230,
+      "name": "Teu Sinal",
+      "url": "https://open.spotify.com/track/1Jdsw1yunMP4tRTLibsY0J"
     },
     {
       "added_at": "2023-11-24 17:03:06",
@@ -779,6 +759,26 @@
     {
       "added_at": "2023-11-24 17:03:06",
       "album": {
+        "name": "Faz Arrepiar",
+        "url": "https://open.spotify.com/album/2eECtXgZdmITR6VSzq5CW7"
+      },
+      "artists": [
+        {
+          "name": "Fashion Piva",
+          "url": "https://open.spotify.com/artist/4BvRiHSL8MkEyohJoY7lyk"
+        },
+        {
+          "name": "Ane",
+          "url": "https://open.spotify.com/artist/59BcvfHR3rS8VA3yxwATAG"
+        }
+      ],
+      "duration_ms": 140832,
+      "name": "Faz Arrepiar",
+      "url": "https://open.spotify.com/track/7JGHeEIqdqrQJUXONANuKz"
+    },
+    {
+      "added_at": "2023-11-24 17:03:06",
+      "album": {
         "name": "Pra Mim N\u00e3o D\u00e1",
         "url": "https://open.spotify.com/album/6b9pPvAJf6rJZfikk7681K"
       },
@@ -795,22 +795,6 @@
       "duration_ms": 153103,
       "name": "Pra Mim N\u00e3o D\u00e1",
       "url": "https://open.spotify.com/track/7hmuEsmtvu4GpMlYjXD6zu"
-    },
-    {
-      "added_at": "2023-11-24 17:03:06",
-      "album": {
-        "name": "Sem T\u00e9dio",
-        "url": "https://open.spotify.com/album/1yAh1B0ycaq34ezgRWPIUc"
-      },
-      "artists": [
-        {
-          "name": "Kynnie",
-          "url": "https://open.spotify.com/artist/20JcWtWgwyxcfUg8SyKwjy"
-        }
-      ],
-      "duration_ms": 180454,
-      "name": "Sem T\u00e9dio",
-      "url": "https://open.spotify.com/track/66UjpQNSCcrjLEGDFFSCc1"
     },
     {
       "added_at": "2023-11-24 17:03:06",
@@ -851,6 +835,22 @@
     {
       "added_at": "2023-11-24 17:03:06",
       "album": {
+        "name": "Sem T\u00e9dio",
+        "url": "https://open.spotify.com/album/1yAh1B0ycaq34ezgRWPIUc"
+      },
+      "artists": [
+        {
+          "name": "Kynnie",
+          "url": "https://open.spotify.com/artist/20JcWtWgwyxcfUg8SyKwjy"
+        }
+      ],
+      "duration_ms": 180454,
+      "name": "Sem T\u00e9dio",
+      "url": "https://open.spotify.com/track/66UjpQNSCcrjLEGDFFSCc1"
+    },
+    {
+      "added_at": "2023-11-24 17:03:06",
+      "album": {
         "name": "Casual",
         "url": "https://open.spotify.com/album/6ACqA0GV9YblnMQPIS93Zu"
       },
@@ -879,30 +879,6 @@
       "duration_ms": 218890,
       "name": "Bahamas",
       "url": "https://open.spotify.com/track/1YWbYVHpotGLTpQ0wgji3Z"
-    },
-    {
-      "added_at": "2023-11-24 17:03:06",
-      "album": {
-        "name": "GUAPA",
-        "url": "https://open.spotify.com/album/3VLLaHdj4pobnOxrWFcsdO"
-      },
-      "artists": [
-        {
-          "name": "Matheus Queiroz",
-          "url": "https://open.spotify.com/artist/42M14UjNCtQbaa0L3t2lN7"
-        },
-        {
-          "name": "Ferrugem",
-          "url": "https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2"
-        },
-        {
-          "name": "Douglas Moda",
-          "url": "https://open.spotify.com/artist/18q7YToGWoBgzYaveHz6HK"
-        }
-      ],
-      "duration_ms": 139270,
-      "name": "GUAPA",
-      "url": "https://open.spotify.com/track/5eERv0kAdLr608xgqawoHm"
     },
     {
       "added_at": "2023-11-24 17:03:06",
@@ -947,6 +923,46 @@
     {
       "added_at": "2023-11-24 17:03:06",
       "album": {
+        "name": "Tempo pra Perder",
+        "url": "https://open.spotify.com/album/6qePnDPq4XJnpJxaGf5lxF"
+      },
+      "artists": [
+        {
+          "name": "Ana Olic",
+          "url": "https://open.spotify.com/artist/1gJq1KdpkUUygT6tgrnkiY"
+        }
+      ],
+      "duration_ms": 194974,
+      "name": "Tempo pra Perder",
+      "url": "https://open.spotify.com/track/2vS4o51fwVyYrDF54w5O0R"
+    },
+    {
+      "added_at": "2023-11-24 17:03:06",
+      "album": {
+        "name": "GUAPA",
+        "url": "https://open.spotify.com/album/3VLLaHdj4pobnOxrWFcsdO"
+      },
+      "artists": [
+        {
+          "name": "Matheus Queiroz",
+          "url": "https://open.spotify.com/artist/42M14UjNCtQbaa0L3t2lN7"
+        },
+        {
+          "name": "Ferrugem",
+          "url": "https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2"
+        },
+        {
+          "name": "Douglas Moda",
+          "url": "https://open.spotify.com/artist/18q7YToGWoBgzYaveHz6HK"
+        }
+      ],
+      "duration_ms": 139270,
+      "name": "GUAPA",
+      "url": "https://open.spotify.com/track/5eERv0kAdLr608xgqawoHm"
+    },
+    {
+      "added_at": "2023-11-24 17:03:06",
+      "album": {
         "name": "Real (Citando Djonga)",
         "url": "https://open.spotify.com/album/08Yhvx5F6NvLrVUA6t4hgb"
       },
@@ -967,18 +983,18 @@
     {
       "added_at": "2023-11-24 17:03:06",
       "album": {
-        "name": "Tempo pra Perder",
-        "url": "https://open.spotify.com/album/6qePnDPq4XJnpJxaGf5lxF"
+        "name": "Estou Aqui",
+        "url": "https://open.spotify.com/album/2DpZXcJODNkdKOVxrmyXgr"
       },
       "artists": [
         {
-          "name": "Ana Olic",
-          "url": "https://open.spotify.com/artist/1gJq1KdpkUUygT6tgrnkiY"
+          "name": "INAHUGO",
+          "url": "https://open.spotify.com/artist/7mDupUmoe1y83y1XP5lQGR"
         }
       ],
-      "duration_ms": 194974,
-      "name": "Tempo pra Perder",
-      "url": "https://open.spotify.com/track/2vS4o51fwVyYrDF54w5O0R"
+      "duration_ms": 227234,
+      "name": "Del\u00edrio",
+      "url": "https://open.spotify.com/track/3XzYdM3XYfrdWInWct8moG"
     },
     {
       "added_at": "2023-11-24 17:03:06",
@@ -1159,6 +1175,22 @@
     {
       "added_at": "2023-11-24 17:03:06",
       "album": {
+        "name": "Roupa de Ontem",
+        "url": "https://open.spotify.com/album/7eIK3jKOyfdsnj1PaalMVa"
+      },
+      "artists": [
+        {
+          "name": "Krupinsk",
+          "url": "https://open.spotify.com/artist/5gLgoNI5QB6Osvi7aQwe5S"
+        }
+      ],
+      "duration_ms": 278000,
+      "name": "Roupa de Ontem",
+      "url": "https://open.spotify.com/track/5DNmIznDtyTJrkmAXdeFnl"
+    },
+    {
+      "added_at": "2023-11-24 17:03:06",
+      "album": {
         "name": "Seu Bem",
         "url": "https://open.spotify.com/album/50ZHYvn0wbeJoKHt65kU5l"
       },
@@ -1199,22 +1231,6 @@
     {
       "added_at": "2023-11-24 17:03:06",
       "album": {
-        "name": "Roupa de Ontem",
-        "url": "https://open.spotify.com/album/7eIK3jKOyfdsnj1PaalMVa"
-      },
-      "artists": [
-        {
-          "name": "Krupinsk",
-          "url": "https://open.spotify.com/artist/5gLgoNI5QB6Osvi7aQwe5S"
-        }
-      ],
-      "duration_ms": 278000,
-      "name": "Roupa de Ontem",
-      "url": "https://open.spotify.com/track/5DNmIznDtyTJrkmAXdeFnl"
-    },
-    {
-      "added_at": "2023-11-24 17:03:06",
-      "album": {
         "name": "Ventilador",
         "url": "https://open.spotify.com/album/53ARAS1GKpLQYtHusiYkUs"
       },
@@ -1227,6 +1243,22 @@
       "duration_ms": 179076,
       "name": "Ventilador",
       "url": "https://open.spotify.com/track/5pks7N1kfqxMjh44BktzGM"
+    },
+    {
+      "added_at": "2023-11-24 17:03:06",
+      "album": {
+        "name": "Lingerie Branca",
+        "url": "https://open.spotify.com/album/0HvagvotzuwiTprnrRyM6z"
+      },
+      "artists": [
+        {
+          "name": "MOTICO MONEY",
+          "url": "https://open.spotify.com/artist/0ZYRu4jdS871PkQvvt5MFe"
+        }
+      ],
+      "duration_ms": 239029,
+      "name": "Lingerie Branca",
+      "url": "https://open.spotify.com/track/767Wg3TRuMBDuc92Vz1pQS"
     },
     {
       "added_at": "2023-11-24 17:03:06",
@@ -1251,22 +1283,6 @@
       "duration_ms": 199625,
       "name": "O Que Eu Soul - Ac\u00fastico",
       "url": "https://open.spotify.com/track/5nde5dfB24TXkLSrIHor51"
-    },
-    {
-      "added_at": "2023-11-24 17:03:06",
-      "album": {
-        "name": "Estou Aqui",
-        "url": "https://open.spotify.com/album/2DpZXcJODNkdKOVxrmyXgr"
-      },
-      "artists": [
-        {
-          "name": "INAHUGO",
-          "url": "https://open.spotify.com/artist/7mDupUmoe1y83y1XP5lQGR"
-        }
-      ],
-      "duration_ms": 227234,
-      "name": "Del\u00edrio",
-      "url": "https://open.spotify.com/track/3XzYdM3XYfrdWInWct8moG"
     },
     {
       "added_at": "2023-11-24 17:03:06",
@@ -1311,22 +1327,6 @@
       "duration_ms": 129427,
       "name": "Distante",
       "url": "https://open.spotify.com/track/3r0zI5rvz8v2XHI40UG2LV"
-    },
-    {
-      "added_at": "2023-11-24 17:03:06",
-      "album": {
-        "name": "Lingerie Branca",
-        "url": "https://open.spotify.com/album/0HvagvotzuwiTprnrRyM6z"
-      },
-      "artists": [
-        {
-          "name": "MOTICO MONEY",
-          "url": "https://open.spotify.com/artist/0ZYRu4jdS871PkQvvt5MFe"
-        }
-      ],
-      "duration_ms": 239029,
-      "name": "Lingerie Branca",
-      "url": "https://open.spotify.com/track/767Wg3TRuMBDuc92Vz1pQS"
     },
     {
       "added_at": "2023-11-24 17:03:06",
@@ -1495,22 +1495,6 @@
     {
       "added_at": "2023-11-24 17:03:06",
       "album": {
-        "name": "AMSTERD\u00c3",
-        "url": "https://open.spotify.com/album/2UCga76KqUyQombwCGGQbN"
-      },
-      "artists": [
-        {
-          "name": "Nay",
-          "url": "https://open.spotify.com/artist/14O6fkCHntWGqGGibsFpXl"
-        }
-      ],
-      "duration_ms": 148031,
-      "name": "AMSTERD\u00c3",
-      "url": "https://open.spotify.com/track/5yv1WZnGg25Xp2X5e78Cce"
-    },
-    {
-      "added_at": "2023-11-24 17:03:06",
-      "album": {
         "name": "S\u00f3 N\u00f3s Dois",
         "url": "https://open.spotify.com/album/3ymX3mPsxNZbAu9jbWsyvd"
       },
@@ -1523,6 +1507,22 @@
       "duration_ms": 141502,
       "name": "S\u00f3 N\u00f3s Dois",
       "url": "https://open.spotify.com/track/7lAdgcZXKrbLe7cM05nMXF"
+    },
+    {
+      "added_at": "2023-11-24 17:03:06",
+      "album": {
+        "name": "AMSTERD\u00c3",
+        "url": "https://open.spotify.com/album/2UCga76KqUyQombwCGGQbN"
+      },
+      "artists": [
+        {
+          "name": "Nay",
+          "url": "https://open.spotify.com/artist/14O6fkCHntWGqGGibsFpXl"
+        }
+      ],
+      "duration_ms": 148031,
+      "name": "AMSTERD\u00c3",
+      "url": "https://open.spotify.com/track/5yv1WZnGg25Xp2X5e78Cce"
     }
   ],
   "unique_name": "R&B Brasil",

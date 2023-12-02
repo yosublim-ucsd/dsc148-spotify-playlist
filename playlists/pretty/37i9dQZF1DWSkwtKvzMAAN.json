@@ -1,12 +1,12 @@
 {
   "description": "Funky blips and blops",
-  "num_followers": 5468,
+  "num_followers": 5476,
   "original_name": "Electro Funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YzVlODExNzI5NzljNzBhMjk4NDJiNDljNDcxZTc2NmFkMzExYjZi",
+  "snapshot_id": "MCwxNTI4MmU2YTBiMGI4ZGI2YjUyZmE0MmRkMTY5NWNkZjIxYzUxNjI4",
   "tracks": [
     {
       "added_at": "2020-08-28 18:46:05",
@@ -395,6 +395,22 @@
     {
       "added_at": "2020-08-28 18:46:05",
       "album": {
+        "name": "Jam On Revenge",
+        "url": "https://open.spotify.com/album/06IJFUuCwW3iokYxgXjCYe"
+      },
+      "artists": [
+        {
+          "name": "Newcleus",
+          "url": "https://open.spotify.com/artist/5X8Tt3rIpdy8VR78KEhZ6C"
+        }
+      ],
+      "duration_ms": 460146,
+      "name": "Computer Age (Push the Button)",
+      "url": "https://open.spotify.com/track/4GoIiZIrZ4t2IzfAYFSHSC"
+    },
+    {
+      "added_at": "2020-08-28 18:46:05",
+      "album": {
         "name": "Looking for the Perfect Beat 1980 -1985",
         "url": "https://open.spotify.com/album/2UrZ3obnsIpILX1x86hCfu"
       },
@@ -411,22 +427,6 @@
       "duration_ms": 403666,
       "name": "Renegades of Funk - 12\" Vocal Version",
       "url": "https://open.spotify.com/track/7iPXWodYIIDwXcbDTbLup5"
-    },
-    {
-      "added_at": "2020-08-28 18:46:05",
-      "album": {
-        "name": "Jam On Revenge",
-        "url": "https://open.spotify.com/album/06IJFUuCwW3iokYxgXjCYe"
-      },
-      "artists": [
-        {
-          "name": "Newcleus",
-          "url": "https://open.spotify.com/artist/5X8Tt3rIpdy8VR78KEhZ6C"
-        }
-      ],
-      "duration_ms": 460146,
-      "name": "Computer Age (Push the Button)",
-      "url": "https://open.spotify.com/track/4GoIiZIrZ4t2IzfAYFSHSC"
     },
     {
       "added_at": "2020-08-28 18:46:05",
@@ -579,22 +579,6 @@
     {
       "added_at": "2020-08-28 18:46:05",
       "album": {
-        "name": "Rare Preludes, Vol. 3",
-        "url": "https://open.spotify.com/album/0PHuEeLvtoLqwhJea7dLLA"
-      },
-      "artists": [
-        {
-          "name": "The Gunchback Boogie Band",
-          "url": "https://open.spotify.com/artist/4oIIY392AXFfmOJH2y8fnC"
-        }
-      ],
-      "duration_ms": 336040,
-      "name": "Funn",
-      "url": "https://open.spotify.com/track/3mCyWicf3WPPYyDQCibWW4"
-    },
-    {
-      "added_at": "2020-08-28 18:46:05",
-      "album": {
         "name": "Sticky Situation (Expanded)",
         "url": "https://open.spotify.com/album/3xkIqTjIIytRAA3IZYM4ts"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 392186,
       "name": "Sticky Situation",
       "url": "https://open.spotify.com/track/2Uw8Ujmn5TQuziGYTn6muu"
+    },
+    {
+      "added_at": "2020-08-28 18:46:05",
+      "album": {
+        "name": "Rare Preludes, Vol. 3",
+        "url": "https://open.spotify.com/album/0PHuEeLvtoLqwhJea7dLLA"
+      },
+      "artists": [
+        {
+          "name": "The Gunchback Boogie Band",
+          "url": "https://open.spotify.com/artist/4oIIY392AXFfmOJH2y8fnC"
+        }
+      ],
+      "duration_ms": 336040,
+      "name": "Funn",
+      "url": "https://open.spotify.com/track/3mCyWicf3WPPYyDQCibWW4"
     },
     {
       "added_at": "2020-08-28 18:46:05",
@@ -659,22 +659,6 @@
     {
       "added_at": "2020-08-28 18:46:05",
       "album": {
-        "name": "The Concept",
-        "url": "https://open.spotify.com/album/3hCQBRTU8qzvjeLNTzxm89"
-      },
-      "artists": [
-        {
-          "name": "Slave",
-          "url": "https://open.spotify.com/artist/5mtKpqeeaFavW15yIX4h5e"
-        }
-      ],
-      "duration_ms": 523266,
-      "name": "Stellar Fungk",
-      "url": "https://open.spotify.com/track/2NtsQwYhpOG6RQS99s7fwY"
-    },
-    {
-      "added_at": "2020-08-28 18:46:05",
-      "album": {
         "name": "Prelude Mastermixes, Vol.3",
         "url": "https://open.spotify.com/album/5WjHKodl6cRGe3prMvjuzr"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 686266,
       "name": "Mega-Mix \"Prelude #1\" - Inch By Inch, Music, Go With The Flow, Just Keep On Walking, Beat The Street, Keep Giving Me Love, Youre The One For Me, Must Be The Music, D Train (Dub) & Body Music",
       "url": "https://open.spotify.com/track/4lqzp8Llnu34IOAA0pKj31"
+    },
+    {
+      "added_at": "2020-08-28 18:46:05",
+      "album": {
+        "name": "The Concept",
+        "url": "https://open.spotify.com/album/3hCQBRTU8qzvjeLNTzxm89"
+      },
+      "artists": [
+        {
+          "name": "Slave",
+          "url": "https://open.spotify.com/artist/5mtKpqeeaFavW15yIX4h5e"
+        }
+      ],
+      "duration_ms": 523266,
+      "name": "Stellar Fungk",
+      "url": "https://open.spotify.com/track/2NtsQwYhpOG6RQS99s7fwY"
     },
     {
       "added_at": "2020-08-28 18:46:05",

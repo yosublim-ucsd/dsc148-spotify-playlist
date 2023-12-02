@@ -4,7 +4,7 @@
 
 > Clear your mind with soothing new age guitar.
 
-166 songs - 8 hr 9 min
+167 songs - 8 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -125,6 +125,7 @@
 | [Reflections](https://open.spotify.com/track/3emkA27hwU4zVJoIzi2SLp) | [Minonna](https://open.spotify.com/artist/6mysyQI353vNbwstr6pT1Y) | [Reflections](https://open.spotify.com/album/7n8TXa3WbjkS4vbcD9zqgr) | 3:13 | 2022-02-28 | 2022-05-20 |
 | [Relaxation](https://open.spotify.com/track/7xD5j8ZCGDAPTTH5EfAVRf) | [Yolta](https://open.spotify.com/artist/1FcdysxmyKBfSOyVppN3sw) | [Relaxation](https://open.spotify.com/album/4hiT3XpWt0dGVZpdnX0va5) | 3:36 | 2022-02-28 | 2023-08-19 |
 | [Remember Rain](https://open.spotify.com/track/3xRLIbOyquBObxGPdIZe2A) | [Rand Aldo](https://open.spotify.com/artist/28COj84KB3mitRVXZkNW4N) | [Aldo Mythology](https://open.spotify.com/album/290k8TOQf58TGNug3fCWbb) | 2:49 | 2023-08-18 |  |
+| [Remote Places](https://open.spotify.com/track/7pUg1QenmwMXo5APv9NyE9) | [Zane Cassidy](https://open.spotify.com/artist/14VSkhVnQy04O8rEQdsyCC) | [Remote Places](https://open.spotify.com/album/6tKhQlQ1rpaDF3V4hbzEot) | 2:37 | 2023-12-01 |  |
 | [Reposeful](https://open.spotify.com/track/3212jPly6zOlG8EKmiJ8pf) | [Jonas Bergwall](https://open.spotify.com/artist/0ftaU73nHXEcuyB2BVCLi5) | [Reposeful](https://open.spotify.com/album/6W600f8bk6lwStjaswF53R) | 2:23 | 2023-01-20 |  |
 | [Reposeful Views](https://open.spotify.com/track/1nz7X92O6UlyjKe2qg0lSd) | [Dag Sommer](https://open.spotify.com/artist/7C14yKyhGQefwbz7ckNHmy) | [Reposeful Views](https://open.spotify.com/album/1OM9rRIk5WsQyGIsHmPfZB) | 3:04 | 2023-04-14 |  |
 | [Reset](https://open.spotify.com/track/423CiX74q1x1ngQoZ5tAEY) | [Sierra Rubio](https://open.spotify.com/artist/4qnjQV2WCiNWFyIh42xFcM) | [Reset](https://open.spotify.com/album/1adS1XhqBudKquCDqma83g) | 2:15 | 2022-02-28 | 2023-11-25 |

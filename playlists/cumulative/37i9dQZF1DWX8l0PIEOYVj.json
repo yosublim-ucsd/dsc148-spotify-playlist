@@ -762,7 +762,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 174571,
       "name": "Back To Us",
       "url": "https://open.spotify.com/track/590T9WalvUZudNgVVXZE0W"
@@ -1707,6 +1707,32 @@
     },
     {
       "album": {
+        "name": "Darkness",
+        "url": "https://open.spotify.com/album/4HQYlLQCrkwbLpxAaKhdC2"
+      },
+      "artists": [
+        {
+          "name": "Seven Lions",
+          "url": "https://open.spotify.com/artist/6fcTRFpz0yH79qSKfof7lp"
+        },
+        {
+          "name": "Jason Ross",
+          "url": "https://open.spotify.com/artist/6CCTvLyIHqUhY6VQizt150"
+        },
+        {
+          "name": "GG Magree",
+          "url": "https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200575,
+      "name": "Darkness",
+      "url": "https://open.spotify.com/track/0l71depQtJ6g2t1LikvlzG"
+    },
+    {
+      "album": {
         "name": "Demon Time",
         "url": "https://open.spotify.com/album/3fp3RtecG7rFqMNmDHunBx"
       },
@@ -1730,6 +1756,28 @@
       "duration_ms": 193601,
       "name": "Demon Time",
       "url": "https://open.spotify.com/track/55zkLJT9xYtoGTjYOGp6pe"
+    },
+    {
+      "album": {
+        "name": "Denial",
+        "url": "https://open.spotify.com/album/6TpaCyIaFhx9irjC6jkGS8"
+      },
+      "artists": [
+        {
+          "name": "Kastra",
+          "url": "https://open.spotify.com/artist/6sQYSV8XvcA9CQZb6OBHHC"
+        },
+        {
+          "name": "Alex Byrne",
+          "url": "https://open.spotify.com/artist/7FhCOc9LXEP4tAFgqb46Zw"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190985,
+      "name": "Denial",
+      "url": "https://open.spotify.com/track/7J7bv8GnGKDgKKqmsYsY4H"
     },
     {
       "album": {
@@ -2962,7 +3010,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 189517,
       "name": "Fallen",
       "url": "https://open.spotify.com/track/3VvQKhWigoAD5pfM6zul48"
@@ -4802,7 +4850,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-25",
+      "date_removed": null,
       "duration_ms": 278400,
       "name": "I'll Be Your Home",
       "url": "https://open.spotify.com/track/4bGM1EMxc8n0AXPqlbAUff"
@@ -5760,7 +5808,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 232000,
       "name": "low",
       "url": "https://open.spotify.com/track/0MeVLXYXl55nom0wFD2hZm"
@@ -6474,7 +6522,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 147200,
       "name": "NOT THE ONE",
       "url": "https://open.spotify.com/track/1zT5ymdKPYUJBNLa85FIBN"
@@ -6522,6 +6570,24 @@
       "duration_ms": 204800,
       "name": "Oblivion",
       "url": "https://open.spotify.com/track/4dTC6SHxIibaRue2eKI2ai"
+    },
+    {
+      "album": {
+        "name": "Observer",
+        "url": "https://open.spotify.com/album/1013GXtP9rPogOxeavuKhm"
+      },
+      "artists": [
+        {
+          "name": "Dreamers Delight",
+          "url": "https://open.spotify.com/artist/1bDXdxSg3Ve7V7f3bteIyk"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213571,
+      "name": "Observer",
+      "url": "https://open.spotify.com/track/1SsN6wCuFGclhTHmV0W6jq"
     },
     {
       "album": {
@@ -8056,7 +8122,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-22",
+      "date_removed": null,
       "duration_ms": 163500,
       "name": "Sleepy Eyes",
       "url": "https://open.spotify.com/track/1xtQcZUH8YDKPEAGMgS41P"
@@ -9660,7 +9726,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 263200,
       "name": "We Fall Down",
       "url": "https://open.spotify.com/track/5He8dKCynZPFzBPG5M5Ajy"

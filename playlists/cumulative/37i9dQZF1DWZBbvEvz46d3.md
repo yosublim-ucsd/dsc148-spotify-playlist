@@ -4,7 +4,7 @@
 
 > Nowe przeboje i ponadczasowe klasyki o  miłości\. Tylko po polsku.
 
-87 songs - 5 hr 28 min
+88 songs - 5 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,7 +71,8 @@
 | [Piosenka księżycowa \(Acoustic Version\)](https://open.spotify.com/track/05NKgpBkS8YiN1bqNfFwSW) | [Varius Manx / Kasia Stankiewicz](https://open.spotify.com/artist/1B3OoaIxfCpdui7lvW2Yu2) | [ENT](https://open.spotify.com/album/0PClVbELnvZL2fnAVeJlWt) | 4:01 | 2023-02-14 |  |
 | [Pomimo Burz](https://open.spotify.com/track/0Xu1HbWgsThPFbZpWs472M) | [Antek Smykiewicz](https://open.spotify.com/artist/6JMMItXorCRjzNQeGDd863) | [Nasz Film \(Deluxe Edition\)](https://open.spotify.com/album/3x8ju0GxwF7NLPgPjAIS4T) | 3:22 | 2023-02-03 |  |
 | [Porady Na Zdrady \[Dreszcze\]](https://open.spotify.com/track/5MVK9Up4ORQdmOdBuk0MIy) | [Ania Dąbrowska](https://open.spotify.com/artist/7008bv4QLo6eziuxszbjqO) | [Porady Na Zdrady \[Dreszcze\]](https://open.spotify.com/album/3XC6o7PTm3SiamWBrYVo82) | 3:30 | 2023-02-03 |  |
-| [Prawda o nas](https://open.spotify.com/track/5KTFOn80Y1tHAmBBb39sw9) | [Sylwia Grzeszczak](https://open.spotify.com/artist/2TRVhYMkHV4jwB92R3McaS) | [Prawda o nas](https://open.spotify.com/album/1x8GzWSyYrqK2HPwSFAYXc) | 3:15 | 2023-02-03 |  |
+| [Prawda o nas](https://open.spotify.com/track/5KTFOn80Y1tHAmBBb39sw9) | [Sylwia Grzeszczak](https://open.spotify.com/artist/2TRVhYMkHV4jwB92R3McaS) | [Prawda o nas](https://open.spotify.com/album/1x8GzWSyYrqK2HPwSFAYXc) | 3:15 | 2023-02-03 | 2023-12-02 |
+| [Prowadz mnie](https://open.spotify.com/track/5d2WnlqT8zmD4WjZrwH5jh) | [Kasia Kowalska](https://open.spotify.com/artist/6VKh8iOViFBI7R8Bb9AilZ) | [Samotna w Wielkim Miescie](https://open.spotify.com/album/3nTHYaPt2iLWUF93RTfPC5) | 4:14 | 2023-09-01 |  |
 | [Przypływy \(feat\. Ralph Kaminski\)](https://open.spotify.com/track/5X1UbhvapToZSZuxEo8V7O) | [Natalia Szroeder](https://open.spotify.com/artist/2DhJauCHKgwVilZO9A8og3), [Ralph Kaminski](https://open.spotify.com/artist/7l1IUcuGTEXMuD1aN3wFqw) | [Pogłos](https://open.spotify.com/album/38VbM2pFAykoCv0xhBuCt2) | 4:35 | 2023-02-03 | 2023-04-22 |
 | [Prócz Ciebie, Nic](https://open.spotify.com/track/2KtSYjhcujuunRR3wyogzu) | [Krzysztof Kiljański](https://open.spotify.com/artist/1QT9ikfzDS8KIZYkfeVKJV), [Kayah](https://open.spotify.com/artist/2v295z585SM68pluEKXKSM) | [In The Room \(Special Edition\)](https://open.spotify.com/album/4qdRkpj5uK429KPoT9Cwnq) | 3:37 | 2023-02-03 |  |
 | [Późne godziny](https://open.spotify.com/track/3LT2xvnrLzjj442HEBBy1w) | [Natalia Szroeder](https://open.spotify.com/artist/2DhJauCHKgwVilZO9A8og3), [Vito Bambino](https://open.spotify.com/artist/5XGkLMcwitYFdwroktQs7o) | [Pogłos Suplement](https://open.spotify.com/album/1D0Rh9hZnYmeVvqPrkkUyh) | 3:01 | 2023-02-03 | 2023-10-08 |

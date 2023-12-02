@@ -1,12 +1,12 @@
 {
   "description": "The very best of the alternative rock scene. Cover: Teenage Wrist",
-  "num_followers": 474858,
+  "num_followers": 474812,
   "original_name": "New  Alt-Rock Mixtape",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMDNiM2IyNmYyNzg2Zjk5YzMyMjkyZjU1M2Q4NWVlMmZhNGZmYjMx",
+  "snapshot_id": "MCxiNGU5MDVkMDg3ODliNmE1NTE0MTEyNTZhNDZiZjNhNGYyZTA2Yzlh",
   "tracks": [
     {
       "added_at": "2023-09-08 20:23:35",
@@ -383,18 +383,18 @@
     {
       "added_at": "2023-09-08 20:23:35",
       "album": {
-        "name": "These Are The Days",
-        "url": "https://open.spotify.com/album/2cP0n7ZCTCH4MDgirIWZmz"
+        "name": "Blue Skies",
+        "url": "https://open.spotify.com/album/1vzqa9wcGcflSTyVbQPRFE"
       },
       "artists": [
         {
-          "name": "Inhaler",
-          "url": "https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH"
+          "name": "Dehd",
+          "url": "https://open.spotify.com/artist/6yzuBFtT6dK2aQMZJZtcB1"
         }
       ],
-      "duration_ms": 222297,
-      "name": "These Are The Days",
-      "url": "https://open.spotify.com/track/6fyCVdU5lJT9ErO9QicFWC"
+      "duration_ms": 150824,
+      "name": "Bad Love",
+      "url": "https://open.spotify.com/track/0atclF6Pp5MffEEi7CSFlE"
     },
     {
       "added_at": "2023-09-08 20:23:35",
@@ -435,18 +435,18 @@
     {
       "added_at": "2023-09-08 20:23:35",
       "album": {
-        "name": "Blue Skies",
-        "url": "https://open.spotify.com/album/1vzqa9wcGcflSTyVbQPRFE"
+        "name": "These Are The Days",
+        "url": "https://open.spotify.com/album/2cP0n7ZCTCH4MDgirIWZmz"
       },
       "artists": [
         {
-          "name": "Dehd",
-          "url": "https://open.spotify.com/artist/6yzuBFtT6dK2aQMZJZtcB1"
+          "name": "Inhaler",
+          "url": "https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH"
         }
       ],
-      "duration_ms": 150824,
-      "name": "Bad Love",
-      "url": "https://open.spotify.com/track/0atclF6Pp5MffEEi7CSFlE"
+      "duration_ms": 222297,
+      "name": "These Are The Days",
+      "url": "https://open.spotify.com/track/6fyCVdU5lJT9ErO9QicFWC"
     },
     {
       "added_at": "2023-09-08 20:23:35",
@@ -579,38 +579,6 @@
     {
       "added_at": "2023-09-08 20:23:35",
       "album": {
-        "name": "Preacher",
-        "url": "https://open.spotify.com/album/2meQ9Z51tvss87oWAbj5h3"
-      },
-      "artists": [
-        {
-          "name": "Roe Kapara",
-          "url": "https://open.spotify.com/artist/2he5ORo9A5pwwRKEa1u0jw"
-        }
-      ],
-      "duration_ms": 105000,
-      "name": "Preacher",
-      "url": "https://open.spotify.com/track/7E4WyTUxVkEnaBwtD3CSK4"
-    },
-    {
-      "added_at": "2023-11-21 18:08:14",
-      "album": {
-        "name": "Fortress",
-        "url": "https://open.spotify.com/album/0qnxV6pF12u35kEVqlujBH"
-      },
-      "artists": [
-        {
-          "name": "Modern Color",
-          "url": "https://open.spotify.com/artist/6bayHl2VHbIseMg1jby37l"
-        }
-      ],
-      "duration_ms": 181951,
-      "name": "Fortress",
-      "url": "https://open.spotify.com/track/2yQiSbPAwHXCFOoSGkLCzA"
-    },
-    {
-      "added_at": "2023-09-08 20:23:35",
-      "album": {
         "name": "Myopic",
         "url": "https://open.spotify.com/album/3eOLdLhghHk4EUNxrTzt8i"
       },
@@ -627,6 +595,22 @@
     {
       "added_at": "2023-09-08 20:23:35",
       "album": {
+        "name": "Preacher",
+        "url": "https://open.spotify.com/album/2meQ9Z51tvss87oWAbj5h3"
+      },
+      "artists": [
+        {
+          "name": "Roe Kapara",
+          "url": "https://open.spotify.com/artist/2he5ORo9A5pwwRKEa1u0jw"
+        }
+      ],
+      "duration_ms": 105000,
+      "name": "Preacher",
+      "url": "https://open.spotify.com/track/7E4WyTUxVkEnaBwtD3CSK4"
+    },
+    {
+      "added_at": "2023-09-08 20:23:35",
+      "album": {
         "name": "Centipede",
         "url": "https://open.spotify.com/album/5JeWduRYfv1Sj4Y2Vf9hQj"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 157704,
       "name": "Centipede",
       "url": "https://open.spotify.com/track/49xISBZpODXRwd7vVxGL93"
+    },
+    {
+      "added_at": "2023-11-21 18:08:14",
+      "album": {
+        "name": "Fortress",
+        "url": "https://open.spotify.com/album/0qnxV6pF12u35kEVqlujBH"
+      },
+      "artists": [
+        {
+          "name": "Modern Color",
+          "url": "https://open.spotify.com/artist/6bayHl2VHbIseMg1jby37l"
+        }
+      ],
+      "duration_ms": 181951,
+      "name": "Fortress",
+      "url": "https://open.spotify.com/track/2yQiSbPAwHXCFOoSGkLCzA"
     },
     {
       "added_at": "2023-09-08 20:23:35",
@@ -743,6 +743,22 @@
     {
       "added_at": "2023-09-08 20:23:35",
       "album": {
+        "name": "What's So Fucking Funny?",
+        "url": "https://open.spotify.com/album/2RB8nl39caMcKZGb32pvPG"
+      },
+      "artists": [
+        {
+          "name": "Webbed Wing",
+          "url": "https://open.spotify.com/artist/5WtT8OzAjn0fJ6tondvHrI"
+        }
+      ],
+      "duration_ms": 176119,
+      "name": "Make A Dime",
+      "url": "https://open.spotify.com/track/5BEuayJZNsTDcjJEnUiLsN"
+    },
+    {
+      "added_at": "2023-09-08 20:23:35",
+      "album": {
         "name": "Don't Hate Me",
         "url": "https://open.spotify.com/album/0JzhunpTxPRMXvmQW5ujm4"
       },
@@ -755,6 +771,22 @@
       "duration_ms": 251010,
       "name": "Don't Hate Me",
       "url": "https://open.spotify.com/track/4ysafP9rgpNQXYddVsepKW"
+    },
+    {
+      "added_at": "2023-09-08 20:23:35",
+      "album": {
+        "name": "Gaslight",
+        "url": "https://open.spotify.com/album/47aUK3fEcaVMuZsEdEWuLt"
+      },
+      "artists": [
+        {
+          "name": "Softcult",
+          "url": "https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0"
+        }
+      ],
+      "duration_ms": 173314,
+      "name": "Gaslight",
+      "url": "https://open.spotify.com/track/6hc42LuTezXyDwquiPH2uf"
     },
     {
       "added_at": "2023-10-05 15:20:21",
@@ -775,38 +807,6 @@
     {
       "added_at": "2023-09-08 20:23:35",
       "album": {
-        "name": "What's So Fucking Funny?",
-        "url": "https://open.spotify.com/album/2RB8nl39caMcKZGb32pvPG"
-      },
-      "artists": [
-        {
-          "name": "Webbed Wing",
-          "url": "https://open.spotify.com/artist/5WtT8OzAjn0fJ6tondvHrI"
-        }
-      ],
-      "duration_ms": 176119,
-      "name": "Make A Dime",
-      "url": "https://open.spotify.com/track/5BEuayJZNsTDcjJEnUiLsN"
-    },
-    {
-      "added_at": "2023-09-08 20:23:35",
-      "album": {
-        "name": "Play My Favourite Song",
-        "url": "https://open.spotify.com/album/48kUWLzmZrvwHqYrpOkBat"
-      },
-      "artists": [
-        {
-          "name": "Tigercub",
-          "url": "https://open.spotify.com/artist/6ekYAO2D1JkI58CF4uRRqw"
-        }
-      ],
-      "duration_ms": 155603,
-      "name": "Play My Favourite Song",
-      "url": "https://open.spotify.com/track/4uBs8miGwBykRYjrbAO5kV"
-    },
-    {
-      "added_at": "2023-09-08 20:23:35",
-      "album": {
         "name": "We Are Between",
         "url": "https://open.spotify.com/album/0jm29ezULLI1tMnNqhBiZU"
       },
@@ -823,18 +823,18 @@
     {
       "added_at": "2023-09-08 20:23:35",
       "album": {
-        "name": "Gaslight",
-        "url": "https://open.spotify.com/album/47aUK3fEcaVMuZsEdEWuLt"
+        "name": "Play My Favourite Song",
+        "url": "https://open.spotify.com/album/48kUWLzmZrvwHqYrpOkBat"
       },
       "artists": [
         {
-          "name": "Softcult",
-          "url": "https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0"
+          "name": "Tigercub",
+          "url": "https://open.spotify.com/artist/6ekYAO2D1JkI58CF4uRRqw"
         }
       ],
-      "duration_ms": 173314,
-      "name": "Gaslight",
-      "url": "https://open.spotify.com/track/6hc42LuTezXyDwquiPH2uf"
+      "duration_ms": 155603,
+      "name": "Play My Favourite Song",
+      "url": "https://open.spotify.com/track/4uBs8miGwBykRYjrbAO5kV"
     },
     {
       "added_at": "2023-09-08 20:23:35",
@@ -871,22 +871,6 @@
     {
       "added_at": "2023-09-08 20:23:35",
       "album": {
-        "name": "Moments of Clarity",
-        "url": "https://open.spotify.com/album/2tT3FSTvD9zx1c6QyZcYis"
-      },
-      "artists": [
-        {
-          "name": "Narrow Head",
-          "url": "https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu"
-        }
-      ],
-      "duration_ms": 198508,
-      "name": "Sunday",
-      "url": "https://open.spotify.com/track/3Xf7P2K1gXivN5KzULbNdU"
-    },
-    {
-      "added_at": "2023-09-08 20:23:35",
-      "album": {
         "name": "Common Chaos",
         "url": "https://open.spotify.com/album/7pzoanQ2Iwvk9FbJcqtKwo"
       },
@@ -903,6 +887,22 @@
     {
       "added_at": "2023-09-08 20:23:35",
       "album": {
+        "name": "Moments of Clarity",
+        "url": "https://open.spotify.com/album/2tT3FSTvD9zx1c6QyZcYis"
+      },
+      "artists": [
+        {
+          "name": "Narrow Head",
+          "url": "https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu"
+        }
+      ],
+      "duration_ms": 198508,
+      "name": "Sunday",
+      "url": "https://open.spotify.com/track/3Xf7P2K1gXivN5KzULbNdU"
+    },
+    {
+      "added_at": "2023-09-08 20:23:35",
+      "album": {
         "name": "More Than This",
         "url": "https://open.spotify.com/album/0FbO9feyM3p7fIj0sBfZxm"
       },
@@ -915,6 +915,22 @@
       "duration_ms": 182100,
       "name": "More Than This",
       "url": "https://open.spotify.com/track/5IvLbjMiltRtWsjgteVyRW"
+    },
+    {
+      "added_at": "2023-09-08 20:23:35",
+      "album": {
+        "name": "Blondshell",
+        "url": "https://open.spotify.com/album/7rG4h8pLLcr6kW30cbSWD8"
+      },
+      "artists": [
+        {
+          "name": "Blondshell",
+          "url": "https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij"
+        }
+      ],
+      "duration_ms": 239675,
+      "name": "Joiner",
+      "url": "https://open.spotify.com/track/27q2n59NonHyzNMKXzmaFX"
     },
     {
       "added_at": "2023-10-05 15:20:21",
@@ -935,22 +951,6 @@
     {
       "added_at": "2023-09-08 20:23:35",
       "album": {
-        "name": "i heard they found you face down inside your living room",
-        "url": "https://open.spotify.com/album/69bjMy1M1LF1IeLraUUY5q"
-      },
-      "artists": [
-        {
-          "name": "Can't Swim",
-          "url": "https://open.spotify.com/artist/62elZbH5Iop8UPcChp7OrU"
-        }
-      ],
-      "duration_ms": 191548,
-      "name": "i heard they found you face down inside your living room",
-      "url": "https://open.spotify.com/track/0GBmIoWGlCsBghx7mOE0Ll"
-    },
-    {
-      "added_at": "2023-09-08 20:23:35",
-      "album": {
         "name": "Flood Into",
         "url": "https://open.spotify.com/album/5wBZdQtJp4ad73MspHd7DG"
       },
@@ -967,34 +967,18 @@
     {
       "added_at": "2023-09-08 20:23:35",
       "album": {
-        "name": "Blondshell",
-        "url": "https://open.spotify.com/album/7rG4h8pLLcr6kW30cbSWD8"
+        "name": "i heard they found you face down inside your living room",
+        "url": "https://open.spotify.com/album/69bjMy1M1LF1IeLraUUY5q"
       },
       "artists": [
         {
-          "name": "Blondshell",
-          "url": "https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij"
+          "name": "Can't Swim",
+          "url": "https://open.spotify.com/artist/62elZbH5Iop8UPcChp7OrU"
         }
       ],
-      "duration_ms": 239675,
-      "name": "Joiner",
-      "url": "https://open.spotify.com/track/27q2n59NonHyzNMKXzmaFX"
-    },
-    {
-      "added_at": "2023-09-08 20:23:35",
-      "album": {
-        "name": "Sweet & Sour America",
-        "url": "https://open.spotify.com/album/3R8rOhhzsMZ4i18xTR3LTm"
-      },
-      "artists": [
-        {
-          "name": "Demob Happy",
-          "url": "https://open.spotify.com/artist/6FKokxvL5PCWIxrVhMyDgI"
-        }
-      ],
-      "duration_ms": 192533,
-      "name": "Sweet & Sour America",
-      "url": "https://open.spotify.com/track/59vcPuuPULBU5Conczvnuh"
+      "duration_ms": 191548,
+      "name": "i heard they found you face down inside your living room",
+      "url": "https://open.spotify.com/track/0GBmIoWGlCsBghx7mOE0Ll"
     },
     {
       "added_at": "2023-09-08 20:23:35",
@@ -1027,6 +1011,22 @@
       "duration_ms": 164826,
       "name": "Applause",
       "url": "https://open.spotify.com/track/3vTehy2tTrXyEeOieYFEAd"
+    },
+    {
+      "added_at": "2023-09-08 20:23:35",
+      "album": {
+        "name": "Sweet & Sour America",
+        "url": "https://open.spotify.com/album/3R8rOhhzsMZ4i18xTR3LTm"
+      },
+      "artists": [
+        {
+          "name": "Demob Happy",
+          "url": "https://open.spotify.com/artist/6FKokxvL5PCWIxrVhMyDgI"
+        }
+      ],
+      "duration_ms": 192533,
+      "name": "Sweet & Sour America",
+      "url": "https://open.spotify.com/track/59vcPuuPULBU5Conczvnuh"
     },
     {
       "added_at": "2023-09-08 20:23:35",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2023-09-08 20:23:35",
       "album": {
-        "name": "Draw Down The Moon",
-        "url": "https://open.spotify.com/album/4DOnbp4wcdxexquFeRhT6n"
-      },
-      "artists": [
-        {
-          "name": "Foxing",
-          "url": "https://open.spotify.com/artist/2dfxY7YDuYCUtWFzWTS6IR"
-        }
-      ],
-      "duration_ms": 205600,
-      "name": "If I Believed In Love",
-      "url": "https://open.spotify.com/track/051k1srOqbQ6bTaCGUdrmj"
-    },
-    {
-      "added_at": "2023-09-08 20:23:35",
-      "album": {
         "name": "OK",
         "url": "https://open.spotify.com/album/6xF3774il7mBjTAqfgIpeg"
       },
@@ -1259,6 +1243,22 @@
     {
       "added_at": "2023-09-08 20:23:35",
       "album": {
+        "name": "Draw Down The Moon",
+        "url": "https://open.spotify.com/album/4DOnbp4wcdxexquFeRhT6n"
+      },
+      "artists": [
+        {
+          "name": "Foxing",
+          "url": "https://open.spotify.com/artist/2dfxY7YDuYCUtWFzWTS6IR"
+        }
+      ],
+      "duration_ms": 205600,
+      "name": "If I Believed In Love",
+      "url": "https://open.spotify.com/track/051k1srOqbQ6bTaCGUdrmj"
+    },
+    {
+      "added_at": "2023-09-08 20:23:35",
+      "album": {
         "name": "GOOD LUCK",
         "url": "https://open.spotify.com/album/7eC9s1oyo60kJhNNeTCsQM"
       },
@@ -1271,22 +1271,6 @@
       "duration_ms": 202986,
       "name": "WHAT A MAN",
       "url": "https://open.spotify.com/track/77MoMOxdBmjtIeC0oIbLoO"
-    },
-    {
-      "added_at": "2023-09-08 20:23:35",
-      "album": {
-        "name": "Teenage Lines",
-        "url": "https://open.spotify.com/album/5Yrk53HYq1jeZbWE06FFXv"
-      },
-      "artists": [
-        {
-          "name": "alltheprettythings",
-          "url": "https://open.spotify.com/artist/1SbUXI8T8XPfiKewzGUCML"
-        }
-      ],
-      "duration_ms": 224602,
-      "name": "Teenage Lines",
-      "url": "https://open.spotify.com/track/2VLQao16kkYBiqmoMzNmJA"
     },
     {
       "added_at": "2023-09-08 20:23:35",
@@ -1319,6 +1303,22 @@
       "duration_ms": 176902,
       "name": "Bye Bye Big Bear",
       "url": "https://open.spotify.com/track/6nSd7gG3KWFqG7Za17Jna2"
+    },
+    {
+      "added_at": "2023-09-08 20:23:35",
+      "album": {
+        "name": "Teenage Lines",
+        "url": "https://open.spotify.com/album/5Yrk53HYq1jeZbWE06FFXv"
+      },
+      "artists": [
+        {
+          "name": "alltheprettythings",
+          "url": "https://open.spotify.com/artist/1SbUXI8T8XPfiKewzGUCML"
+        }
+      ],
+      "duration_ms": 224602,
+      "name": "Teenage Lines",
+      "url": "https://open.spotify.com/track/2VLQao16kkYBiqmoMzNmJA"
     },
     {
       "added_at": "2023-09-08 20:23:35",
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2023-09-08 20:23:35",
       "album": {
-        "name": "Where Do We Go From Here?",
-        "url": "https://open.spotify.com/album/4mugwf4oHm7gG12MrLJsJV"
-      },
-      "artists": [
-        {
-          "name": "Electric Enemy",
-          "url": "https://open.spotify.com/artist/2N1mByBMykfROrhwRVQV3v"
-        }
-      ],
-      "duration_ms": 188549,
-      "name": "Where Do We Go From Here?",
-      "url": "https://open.spotify.com/track/4IXi93psmDt4xcqRb52CT5"
-    },
-    {
-      "added_at": "2023-09-08 20:23:35",
-      "album": {
         "name": "Apologies",
         "url": "https://open.spotify.com/album/1nATWShLPekWv0pH4yKrL6"
       },
@@ -1563,6 +1547,22 @@
       "duration_ms": 173276,
       "name": "Apologies",
       "url": "https://open.spotify.com/track/5IYHlgFTDYMiXzvYtUxUAK"
+    },
+    {
+      "added_at": "2023-09-08 20:23:35",
+      "album": {
+        "name": "Where Do We Go From Here?",
+        "url": "https://open.spotify.com/album/4mugwf4oHm7gG12MrLJsJV"
+      },
+      "artists": [
+        {
+          "name": "Electric Enemy",
+          "url": "https://open.spotify.com/artist/2N1mByBMykfROrhwRVQV3v"
+        }
+      ],
+      "duration_ms": 188549,
+      "name": "Where Do We Go From Here?",
+      "url": "https://open.spotify.com/track/4IXi93psmDt4xcqRb52CT5"
     },
     {
       "added_at": "2023-09-08 20:23:35",

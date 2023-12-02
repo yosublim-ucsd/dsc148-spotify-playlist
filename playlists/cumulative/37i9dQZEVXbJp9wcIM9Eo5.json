@@ -5882,7 +5882,7 @@
       ],
       "date_added": "2023-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 208000,
       "name": "HIBIKI",
       "url": "https://open.spotify.com/track/4qSEvFGCpde73gqIuq3sho"
@@ -9161,6 +9161,24 @@
     },
     {
       "album": {
+        "name": "MAP OF THE SOUL : 7",
+        "url": "https://open.spotify.com/album/5W1XY5ucNATjTULERvXx9j"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208589,
+      "name": "Moon",
+      "url": "https://open.spotify.com/track/6KhAXXgDtEEahVzATvFNcn"
+    },
+    {
+      "album": {
         "name": "MORE",
         "url": "https://open.spotify.com/album/5Sk4Inca1WZhP7VLuD7DOi"
       },
@@ -9838,7 +9856,7 @@
       ],
       "date_added": "2022-05-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-17",
+      "date_removed": null,
       "duration_ms": 258298,
       "name": "Ojitos Lindos",
       "url": "https://open.spotify.com/track/3k3NWokhRRkEPhCzPmV8TW"
@@ -13362,7 +13380,7 @@
       ],
       "date_added": "2023-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 354784,
       "name": "TELEFONO NUEVO",
       "url": "https://open.spotify.com/track/01ppKlDRCmPpusO3yNrSRY"

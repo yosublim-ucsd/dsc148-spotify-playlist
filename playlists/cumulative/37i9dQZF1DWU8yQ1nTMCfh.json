@@ -3504,7 +3504,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 250746,
       "name": "Quetzal",
       "url": "https://open.spotify.com/track/79TPB4n8m3evt7RUJZ1Kqe"
@@ -4542,6 +4542,24 @@
       "duration_ms": 182679,
       "name": "Vuelta en U",
       "url": "https://open.spotify.com/track/2uSQpyjWJpSaoxjc27VAZ3"
+    },
+    {
+      "album": {
+        "name": "Walk On Everything",
+        "url": "https://open.spotify.com/album/0b7CilPsEiOZHiGwdyV3bK"
+      },
+      "artists": [
+        {
+          "name": "A.CHAL",
+          "url": "https://open.spotify.com/artist/0pkwrPVI8UyXtPkavyJoZ4"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177341,
+      "name": "Walk On Everything",
+      "url": "https://open.spotify.com/track/4eUxbmrkFkUBZBntLYIwHq"
     },
     {
       "album": {

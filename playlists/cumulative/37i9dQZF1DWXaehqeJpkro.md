@@ -4,7 +4,7 @@
 
 > 지금 노래방에서 가장 핫한 노래들을 만나보세요! \(Fancy belting out your favorite Korean songs?\) \(Cover: Parc Jae Jung\(박재정\)\)
 
-281 songs - 18 hr 26 min
+282 songs - 18 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -280,7 +280,8 @@
 | [우리 왜 헤어져야 해](https://open.spotify.com/track/1ZNz6s0I6XIy4HSWTz8n7n) | [Sin Ye Young](https://open.spotify.com/artist/02SENF0XVfxRTZrniEV2aF) | [우리 왜 헤어져야 해](https://open.spotify.com/album/6kVU7bkf0nUWmp7gzMtJJc) | 4:07 | 2022-02-23 |  |
 | [응급실](https://open.spotify.com/track/5XVEx1pTUR4T7ABtXoGGxx) | [Izi](https://open.spotify.com/artist/4PPkRMbw2jIs7flJkl4okf) | [izi 1집](https://open.spotify.com/album/1KTUBQHfKhX9F2X01sqEO8) | 3:46 | 2022-02-17 |  |
 | [이미 슬픈 사랑](https://open.spotify.com/track/4OKJVnIyO8KRq182dstNOI) | [야다](https://open.spotify.com/artist/3YB77fanbqqyPS7NstYpOE) | [Wear To Healing](https://open.spotify.com/album/2AnkRwvtuLl5DwmrwSRndo) | 4:03 | 2023-10-04 |  |
-| [잊지말아요](https://open.spotify.com/track/5kWUuYakyla2yR6R4whEXf) | [Baek Ji Young](https://open.spotify.com/artist/3l0MJ9LCiBlMyOMaz485Q5), [Jang Ji Eun](https://open.spotify.com/artist/4E1vB1Oy32QF7DnQG6KtDB) | [판타스틱 듀오 2 Part.14](https://open.spotify.com/album/69cgSB7qw5q7LJ5HhRVNT8) | 5:29 | 2022-02-17 |  |
+| [잊지말아요](https://open.spotify.com/track/5kWUuYakyla2yR6R4whEXf) | [Baek Ji Young](https://open.spotify.com/artist/3l0MJ9LCiBlMyOMaz485Q5), [Jang Ji Eun](https://open.spotify.com/artist/4E1vB1Oy32QF7DnQG6KtDB) | [판타스틱 듀오 2 Part.14](https://open.spotify.com/album/69cgSB7qw5q7LJ5HhRVNT8) | 5:29 | 2022-02-17 | 2023-12-02 |
+| [잊지말아요](https://open.spotify.com/track/0TxZdtZRKeowh9F4aONLk3) | [Baek Ji Young](https://open.spotify.com/artist/3l0MJ9LCiBlMyOMaz485Q5), [장지은](https://open.spotify.com/artist/4exGRfCKO5aUntS2tgZk5k) | [Fantastic Duo 2 Part.14](https://open.spotify.com/album/58cixOBfn2ibkfcHyNo6OK) | 5:29 | 2023-11-14 |  |
 | [잘 살고 있다](https://open.spotify.com/track/5DcfR5OUbFk8udKJy0eS0X) | [V.O.S](https://open.spotify.com/artist/2GVQEwCrjKgK2f62Az4k5a) | [잘 살고 있다](https://open.spotify.com/album/2iBBFyQki3kNXAPHQ9FAFN) | 3:23 | 2022-02-23 |  |
 | [좋니](https://open.spotify.com/track/1MZdlzU4bO0JYaJPAftt4l) | [Yoon Jong Shin](https://open.spotify.com/artist/0hW1muryuCdZLfjoLrUhnw) | [Monthly Project 2017 Yoon Jong Shin 행보 2017 윤종신](https://open.spotify.com/album/37b3GGhNdmdIHhX4wdyzQ2) | 6:15 | 2022-02-17 | 2022-07-29 |
 | [좋니](https://open.spotify.com/track/4qkYFnaKtaaPkUvhSsC8kC) | [Yoon Jong Shin](https://open.spotify.com/artist/0hW1muryuCdZLfjoLrUhnw) | [Monthly Project 2017 Yoon Jong Shin](https://open.spotify.com/album/3ukXa5DzYvV5aEXz2PrGLO) | 6:15 | 2022-02-23 |  |

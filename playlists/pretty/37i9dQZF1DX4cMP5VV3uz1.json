@@ -1,12 +1,12 @@
 {
   "description": "Filthy bass bangers to soundtrack your sesh",
-  "num_followers": 144522,
+  "num_followers": 144618,
   "original_name": "Proper Naughty ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZWMwOTc1OWJlN2M2YWZmNzNjOWU2ZmJhNjVlZjNiMTQ2NjdiYTI5",
+  "snapshot_id": "MCwzMWY3MGY4YTcxZTU5MzE1OTc3MjYxN2NhOGFhYzQzNjdhZmI5N2Jh",
   "tracks": [
     {
       "added_at": "2023-12-01 00:01:00",
@@ -939,22 +939,6 @@
     {
       "added_at": "2023-12-01 00:01:00",
       "album": {
-        "name": "Off The Ground",
-        "url": "https://open.spotify.com/album/0JkmyjnTBATqM9Di9OsF5h"
-      },
-      "artists": [
-        {
-          "name": "Sub Focus",
-          "url": "https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO"
-        }
-      ],
-      "duration_ms": 242750,
-      "name": "Off The Ground",
-      "url": "https://open.spotify.com/track/5UvLQncwvEGiRLn0xEZw45"
-    },
-    {
-      "added_at": "2023-12-01 00:01:00",
-      "album": {
         "name": "Paradise",
         "url": "https://open.spotify.com/album/42Yeib3dBZYZ8tWXqTOYAZ"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 182000,
       "name": "Paradise",
       "url": "https://open.spotify.com/track/6EsnKHa5lVI409LXu3PkR6"
+    },
+    {
+      "added_at": "2023-12-01 00:01:00",
+      "album": {
+        "name": "Off The Ground",
+        "url": "https://open.spotify.com/album/0JkmyjnTBATqM9Di9OsF5h"
+      },
+      "artists": [
+        {
+          "name": "Sub Focus",
+          "url": "https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO"
+        }
+      ],
+      "duration_ms": 242750,
+      "name": "Off The Ground",
+      "url": "https://open.spotify.com/track/5UvLQncwvEGiRLn0xEZw45"
     },
     {
       "added_at": "2023-12-01 00:01:00",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2023-12-01 00:01:00",
       "album": {
-        "name": "Talk To Me",
-        "url": "https://open.spotify.com/album/2GcGH4Ad6HLvI8Vr1Pu54K"
-      },
-      "artists": [
-        {
-          "name": "Bou",
-          "url": "https://open.spotify.com/artist/35dxfY1wywqVRUEaVuMm13"
-        }
-      ],
-      "duration_ms": 266057,
-      "name": "Talk To Me",
-      "url": "https://open.spotify.com/track/7rPaFoaK4CjcFujFhIWMcO"
-    },
-    {
-      "added_at": "2023-12-01 00:01:00",
-      "album": {
         "name": "Out of Time",
         "url": "https://open.spotify.com/album/5j1LFq1ZzTBfwPyYWWNjAf"
       },
@@ -1175,18 +1159,18 @@
     {
       "added_at": "2023-12-01 00:01:00",
       "album": {
-        "name": "Waiting For You",
-        "url": "https://open.spotify.com/album/4eeqWekeDRL40SWdsxQUte"
+        "name": "Talk To Me",
+        "url": "https://open.spotify.com/album/2GcGH4Ad6HLvI8Vr1Pu54K"
       },
       "artists": [
         {
-          "name": "Freaks & Geeks",
-          "url": "https://open.spotify.com/artist/6Qcn4TflUyLRoA6w44IQSU"
+          "name": "Bou",
+          "url": "https://open.spotify.com/artist/35dxfY1wywqVRUEaVuMm13"
         }
       ],
-      "duration_ms": 226916,
-      "name": "Waiting For You",
-      "url": "https://open.spotify.com/track/5KATLe2Fizt1tV0qdw3mwh"
+      "duration_ms": 266057,
+      "name": "Talk To Me",
+      "url": "https://open.spotify.com/track/7rPaFoaK4CjcFujFhIWMcO"
     },
     {
       "added_at": "2023-12-01 00:01:00",
@@ -1211,6 +1195,22 @@
     {
       "added_at": "2023-12-01 00:01:00",
       "album": {
+        "name": "Waiting For You",
+        "url": "https://open.spotify.com/album/4eeqWekeDRL40SWdsxQUte"
+      },
+      "artists": [
+        {
+          "name": "Freaks & Geeks",
+          "url": "https://open.spotify.com/artist/6Qcn4TflUyLRoA6w44IQSU"
+        }
+      ],
+      "duration_ms": 226916,
+      "name": "Waiting For You",
+      "url": "https://open.spotify.com/track/5KATLe2Fizt1tV0qdw3mwh"
+    },
+    {
+      "added_at": "2023-12-01 00:01:00",
+      "album": {
         "name": "Want You",
         "url": "https://open.spotify.com/album/1gwNOFmeMRGzIj2752iJEB"
       },
@@ -1223,22 +1223,6 @@
       "duration_ms": 247210,
       "name": "Want You",
       "url": "https://open.spotify.com/track/3QRE0rMSiI6ceS0ZOxFblB"
-    },
-    {
-      "added_at": "2023-12-01 00:01:00",
-      "album": {
-        "name": "Bad Gyalz",
-        "url": "https://open.spotify.com/album/0KgiN6gpmIFwjxSIJE3qrb"
-      },
-      "artists": [
-        {
-          "name": "Nia Archives",
-          "url": "https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ"
-        }
-      ],
-      "duration_ms": 159299,
-      "name": "Bad Gyalz",
-      "url": "https://open.spotify.com/track/1sdfHsJC1KytSyhhGpZ2kv"
     },
     {
       "added_at": "2023-12-01 00:01:00",
@@ -1263,6 +1247,22 @@
       "duration_ms": 230400,
       "name": "Through It All - Hedex Remix",
       "url": "https://open.spotify.com/track/5ts712TiZXqdbbkef0mRrI"
+    },
+    {
+      "added_at": "2023-12-01 00:01:00",
+      "album": {
+        "name": "Bad Gyalz",
+        "url": "https://open.spotify.com/album/0KgiN6gpmIFwjxSIJE3qrb"
+      },
+      "artists": [
+        {
+          "name": "Nia Archives",
+          "url": "https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ"
+        }
+      ],
+      "duration_ms": 159299,
+      "name": "Bad Gyalz",
+      "url": "https://open.spotify.com/track/1sdfHsJC1KytSyhhGpZ2kv"
     },
     {
       "added_at": "2023-12-01 00:01:00",
@@ -1399,6 +1399,22 @@
     {
       "added_at": "2023-12-01 00:01:00",
       "album": {
+        "name": "We'll Be Alright EP",
+        "url": "https://open.spotify.com/album/1UBO3OwOuo6b4SxvOkum61"
+      },
+      "artists": [
+        {
+          "name": "Sammy Virji",
+          "url": "https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb"
+        }
+      ],
+      "duration_ms": 228000,
+      "name": "Daga Da",
+      "url": "https://open.spotify.com/track/1Bdy0uirk0pou8GjuhDciX"
+    },
+    {
+      "added_at": "2023-12-01 00:01:00",
+      "album": {
         "name": "Let U Know (feat. Charlotte Plank)",
         "url": "https://open.spotify.com/album/5kRPPrLyW4iXoAuz1GKfOQ"
       },
@@ -1415,22 +1431,6 @@
       "duration_ms": 160498,
       "name": "Let U Know (feat. Charlotte Plank)",
       "url": "https://open.spotify.com/track/37KhWdLDRC4UMR8jxvVBdW"
-    },
-    {
-      "added_at": "2023-12-01 00:01:00",
-      "album": {
-        "name": "We'll Be Alright EP",
-        "url": "https://open.spotify.com/album/1UBO3OwOuo6b4SxvOkum61"
-      },
-      "artists": [
-        {
-          "name": "Sammy Virji",
-          "url": "https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb"
-        }
-      ],
-      "duration_ms": 228000,
-      "name": "Daga Da",
-      "url": "https://open.spotify.com/track/1Bdy0uirk0pou8GjuhDciX"
     },
     {
       "added_at": "2023-12-01 00:01:00",
@@ -1495,22 +1495,6 @@
     {
       "added_at": "2023-12-01 00:01:00",
       "album": {
-        "name": "When It Rains, It Pours",
-        "url": "https://open.spotify.com/album/7gw75X0Cp4ya2yz6tW0Rio"
-      },
-      "artists": [
-        {
-          "name": "Bad Boy Chiller Crew",
-          "url": "https://open.spotify.com/artist/5SRr4ZJMoygWecytkIwlaV"
-        }
-      ],
-      "duration_ms": 197253,
-      "name": "When It Rains, It Pours",
-      "url": "https://open.spotify.com/track/0Qb8vbig4Wky0RKhOWh2Ze"
-    },
-    {
-      "added_at": "2023-12-01 00:01:00",
-      "album": {
         "name": "Drops Remixes",
         "url": "https://open.spotify.com/album/6WkDq5hrKzwxDY4fdgjFEq"
       },
@@ -1531,6 +1515,22 @@
       "duration_ms": 262628,
       "name": "Drops - Kanine Remix",
       "url": "https://open.spotify.com/track/3okcBYUuR2VRbygL9kYb5k"
+    },
+    {
+      "added_at": "2023-12-01 00:01:00",
+      "album": {
+        "name": "Lazers Not Included",
+        "url": "https://open.spotify.com/album/5BetJhjCEWc6GFfqSPupUB"
+      },
+      "artists": [
+        {
+          "name": "Wilkinson",
+          "url": "https://open.spotify.com/artist/6m8itYST9ADjBIYevXSb1r"
+        }
+      ],
+      "duration_ms": 287241,
+      "name": "Take You Higher",
+      "url": "https://open.spotify.com/track/2rnDPE04mBt78lfmp9JNDP"
     }
   ],
   "unique_name": "Proper Naughty ",

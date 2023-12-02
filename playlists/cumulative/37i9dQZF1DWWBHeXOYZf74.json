@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-07-30",
-  "description": "Genre-less. Quality first always. Cover: ",
+  "description": "Genre-less. Quality first always. Cover: The South Hill Experiment ",
   "name": "POLLEN",
   "tracks": [
     {
@@ -2330,6 +2330,32 @@
       "duration_ms": 237929,
       "name": "Already",
       "url": "https://open.spotify.com/track/0Bef4OMTKyY908qrX0O0cs"
+    },
+    {
+      "album": {
+        "name": "SUNSTRIKES",
+        "url": "https://open.spotify.com/album/116qceKwaUUDLL7qh1tJsO"
+      },
+      "artists": [
+        {
+          "name": "The South Hill Experiment",
+          "url": "https://open.spotify.com/artist/6PmrG14lGhCeDfxf40nbZX"
+        },
+        {
+          "name": "Baird",
+          "url": "https://open.spotify.com/artist/7GdGZWPHxDEu0ppvLoB4GO"
+        },
+        {
+          "name": "Goldwash",
+          "url": "https://open.spotify.com/artist/7yYa2im7sawSzuVkXx8W21"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210948,
+      "name": "Alright, OK",
+      "url": "https://open.spotify.com/track/7hj2XcjFRk7CG1aL0GqTQP"
     },
     {
       "album": {
@@ -5494,6 +5520,24 @@
       "duration_ms": 209440,
       "name": "Blue World",
       "url": "https://open.spotify.com/track/2hwOoMtWPtTSSn6WHV7Vp5"
+    },
+    {
+      "album": {
+        "name": "blueprints of us",
+        "url": "https://open.spotify.com/album/3Z4RwK6UvR99QdiDlA3zuF"
+      },
+      "artists": [
+        {
+          "name": "Ouri",
+          "url": "https://open.spotify.com/artist/41gxyJbzbAaChEyrZ9j3rv"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198649,
+      "name": "blueprints of us",
+      "url": "https://open.spotify.com/track/165ZtkfUdMu36Wqw7YiyGW"
     },
     {
       "album": {
@@ -13849,6 +13893,24 @@
     },
     {
       "album": {
+        "name": "Femenine",
+        "url": "https://open.spotify.com/album/7ASEiWsgFDmEPg0e9vaAVl"
+      },
+      "artists": [
+        {
+          "name": "Empress Of",
+          "url": "https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183133,
+      "name": "Femenine",
+      "url": "https://open.spotify.com/track/3hPVr4qMFJqnObkzACLwQ2"
+    },
+    {
+      "album": {
         "name": "Fencing (DJ Counselling Remix)",
         "url": "https://open.spotify.com/album/5jnm1oyV6ytYuqSJKbSCE0"
       },
@@ -14595,6 +14657,24 @@
     },
     {
       "album": {
+        "name": "Foreigner",
+        "url": "https://open.spotify.com/album/6UGEKnNWgoKvDwIfqLfEYg"
+      },
+      "artists": [
+        {
+          "name": "\ubc15\ud61c\uc9c4 Park Hye Jin",
+          "url": "https://open.spotify.com/artist/6niigcazB2JPcpasZfZvq1"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272375,
+      "name": "Foreigner",
+      "url": "https://open.spotify.com/track/16WI1ZPGF23IV7GJQiBdLm"
+    },
+    {
+      "album": {
         "name": "Forever",
         "url": "https://open.spotify.com/album/0sZTJtEOsqFoWexi2tUvtc"
       },
@@ -14610,7 +14690,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 196006,
       "name": "Forever",
       "url": "https://open.spotify.com/track/2yxobiDeGo30ftKwde2d5F"
@@ -16430,7 +16510,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 183602,
       "name": "Good News",
       "url": "https://open.spotify.com/track/2oXhUifLIC0brl2xFfjONm"
@@ -18740,7 +18820,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 283074,
       "name": "How Music Makes You Feel Better",
       "url": "https://open.spotify.com/track/2wGoegWa8zTI85Y8kxG3OP"
@@ -24475,6 +24555,28 @@
     },
     {
       "album": {
+        "name": "Lover/Friend",
+        "url": "https://open.spotify.com/album/1CS8eBSCVXMwYJytG5aYfX"
+      },
+      "artists": [
+        {
+          "name": "KAYTRANADA",
+          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
+        },
+        {
+          "name": "Rochelle Jordan",
+          "url": "https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212250,
+      "name": "Lover/Friend",
+      "url": "https://open.spotify.com/track/5ahq8vkzMznGmfN2EVOukP"
+    },
+    {
+      "album": {
         "name": "Lovestained",
         "url": "https://open.spotify.com/album/7navB8hDkagN6t01k7dBBx"
       },
@@ -26096,7 +26198,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 212000,
       "name": "Miroir Miroir",
       "url": "https://open.spotify.com/track/1kJwO4j2LdHy5T6i6mqC58"
@@ -26710,7 +26812,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 157586,
       "name": "Mountains",
       "url": "https://open.spotify.com/track/6Jh41Y8aIEqRRNs9kaMk5u"
@@ -28978,7 +29080,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 157251,
       "name": "ON THE LOW",
       "url": "https://open.spotify.com/track/1EAYfaIcNMICqXBkpaEdJ5"
@@ -29902,7 +30004,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 144264,
       "name": "Parker Solar Probe feat. Jeff Parker",
       "url": "https://open.spotify.com/track/0JGOPrUmv15poKwctx9Cd5"
@@ -40184,6 +40286,24 @@
       "duration_ms": 138306,
       "name": "then i met her",
       "url": "https://open.spotify.com/track/5sFIYKbII6QzRT57hCza5Z"
+    },
+    {
+      "album": {
+        "name": "THERE FOR YOU",
+        "url": "https://open.spotify.com/album/5pPwpIKxjhYypUS9PG154v"
+      },
+      "artists": [
+        {
+          "name": "greek",
+          "url": "https://open.spotify.com/artist/23FgP9gxRT6QMcRhsV71kY"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184778,
+      "name": "THERE FOR YOU",
+      "url": "https://open.spotify.com/track/54rXzumZf6OS8jZHN7DUO9"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "\u00a1A preparar la comida con la saz\u00f3n de m\u00fasica rica y antig\u00fcita!",
-  "num_followers": 41444,
+  "num_followers": 41471,
   "original_name": "Cocina Tradicional",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZDBmZjA2MjE1NDk1YmViMjY3OGU1NjZlNzNjMTFkOWE1M2Y2MmZi",
+  "snapshot_id": "MCxiODhkOTFkMjQyZTgzNDZmYzM0MzllNDczNWZlNWQzNTIzZjdiY2Ix",
   "tracks": [
     {
       "added_at": "2020-05-28 20:45:13",
@@ -197,20 +197,20 @@
       "url": "https://open.spotify.com/track/2mPNAaBFLHSYsTm5dBLVrE"
     },
     {
-      "added_at": "2020-05-28 20:45:13",
+      "added_at": "2022-01-11 03:10:29",
       "album": {
-        "name": "Caja de M\u00fasica (Edici\u00f3n Especial)",
-        "url": "https://open.spotify.com/album/75lParfrGxiexJOFlDh94X"
+        "name": "Bossa Nova Is Not A Crime",
+        "url": "https://open.spotify.com/album/0kYW9VUWVYAdLYCxAIwUEG"
       },
       "artists": [
         {
-          "name": "Monsieur Perin\u00e9",
-          "url": "https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK"
+          "name": "The Juju Orchestra",
+          "url": "https://open.spotify.com/artist/2QZdpDHfCJCFv1BE1GhL8h"
         }
       ],
-      "duration_ms": 254480,
-      "name": "Cempas\u00fachil",
-      "url": "https://open.spotify.com/track/6i5K4Mxce8t9AT1RWxuiG5"
+      "duration_ms": 441933,
+      "name": "Kind Of Latin Rhythm",
+      "url": "https://open.spotify.com/track/0X95e6wFLtAjJ2NikowHfr"
     },
     {
       "added_at": "2020-05-28 20:45:13",
@@ -237,20 +237,20 @@
       "url": "https://open.spotify.com/track/1sdWXIMZe8mBwzLC8jKdq7"
     },
     {
-      "added_at": "2022-01-11 03:10:29",
+      "added_at": "2020-05-28 20:45:13",
       "album": {
-        "name": "Bossa Nova Is Not A Crime",
-        "url": "https://open.spotify.com/album/0kYW9VUWVYAdLYCxAIwUEG"
+        "name": "Caja de M\u00fasica (Edici\u00f3n Especial)",
+        "url": "https://open.spotify.com/album/75lParfrGxiexJOFlDh94X"
       },
       "artists": [
         {
-          "name": "The Juju Orchestra",
-          "url": "https://open.spotify.com/artist/2QZdpDHfCJCFv1BE1GhL8h"
+          "name": "Monsieur Perin\u00e9",
+          "url": "https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK"
         }
       ],
-      "duration_ms": 441933,
-      "name": "Kind Of Latin Rhythm",
-      "url": "https://open.spotify.com/track/0X95e6wFLtAjJ2NikowHfr"
+      "duration_ms": 254480,
+      "name": "Cempas\u00fachil",
+      "url": "https://open.spotify.com/track/6i5K4Mxce8t9AT1RWxuiG5"
     },
     {
       "added_at": "2020-05-28 20:45:13",
@@ -565,22 +565,6 @@
       "url": "https://open.spotify.com/track/0E1jfqTSwFlGFskSYqn3ZM"
     },
     {
-      "added_at": "2022-01-11 03:10:29",
-      "album": {
-        "name": "Nuevo Son Jarocho",
-        "url": "https://open.spotify.com/album/5N6LeE3fGxhD6D0MEgZkNr"
-      },
-      "artists": [
-        {
-          "name": "Conjunto Jardin",
-          "url": "https://open.spotify.com/artist/0Kh15Of3lmMoXKsR8s5tA0"
-        }
-      ],
-      "duration_ms": 262133,
-      "name": "La Bruja",
-      "url": "https://open.spotify.com/track/4VWPPn68WVGZK2xwDzS9KE"
-    },
-    {
       "added_at": "2020-05-28 20:45:13",
       "album": {
         "name": "Pa'lante",
@@ -595,6 +579,22 @@
       "duration_ms": 188355,
       "name": "Aguacate",
       "url": "https://open.spotify.com/track/43AzdM8V36FFQZ5Kc5QYkZ"
+    },
+    {
+      "added_at": "2022-01-11 03:10:29",
+      "album": {
+        "name": "Nuevo Son Jarocho",
+        "url": "https://open.spotify.com/album/5N6LeE3fGxhD6D0MEgZkNr"
+      },
+      "artists": [
+        {
+          "name": "Conjunto Jardin",
+          "url": "https://open.spotify.com/artist/0Kh15Of3lmMoXKsR8s5tA0"
+        }
+      ],
+      "duration_ms": 262133,
+      "name": "La Bruja",
+      "url": "https://open.spotify.com/track/4VWPPn68WVGZK2xwDzS9KE"
     },
     {
       "added_at": "2022-01-11 03:10:29",
@@ -645,20 +645,20 @@
       "url": "https://open.spotify.com/track/3MVUADKwucn7BoLq73cbE6"
     },
     {
-      "added_at": "2020-05-28 20:45:13",
+      "added_at": "2022-02-04 19:55:03",
       "album": {
-        "name": "Banda de los Muertos",
-        "url": "https://open.spotify.com/album/2zkMyaGBpT2swb6k90jmO1"
+        "name": "Caf\u00e9 Caf\u00e9",
+        "url": "https://open.spotify.com/album/099AV8DpZlxt2y1qKhWv1S"
       },
       "artists": [
         {
-          "name": "Banda de los Muertos",
-          "url": "https://open.spotify.com/artist/51oqYJcrhViS7t0O8ibl5g"
+          "name": "Radio Jarocho",
+          "url": "https://open.spotify.com/artist/5E2MtBNRzM4FzQWyLvkvXx"
         }
       ],
-      "duration_ms": 187440,
-      "name": "Ay Mexicanita",
-      "url": "https://open.spotify.com/track/15Aju7YDD1m8LEwyoJGxTX"
+      "duration_ms": 238586,
+      "name": "Caf\u00e9 Caf\u00e9",
+      "url": "https://open.spotify.com/track/7pOrjaSlEgPsWZhrIar1zf"
     },
     {
       "added_at": "2022-01-11 03:10:29",
@@ -677,20 +677,20 @@
       "url": "https://open.spotify.com/track/3eioYw722P5w5b6ad80mdh"
     },
     {
-      "added_at": "2022-02-04 19:55:03",
+      "added_at": "2020-05-28 20:45:13",
       "album": {
-        "name": "Caf\u00e9 Caf\u00e9",
-        "url": "https://open.spotify.com/album/099AV8DpZlxt2y1qKhWv1S"
+        "name": "Banda de los Muertos",
+        "url": "https://open.spotify.com/album/2zkMyaGBpT2swb6k90jmO1"
       },
       "artists": [
         {
-          "name": "Radio Jarocho",
-          "url": "https://open.spotify.com/artist/5E2MtBNRzM4FzQWyLvkvXx"
+          "name": "Banda de los Muertos",
+          "url": "https://open.spotify.com/artist/51oqYJcrhViS7t0O8ibl5g"
         }
       ],
-      "duration_ms": 238586,
-      "name": "Caf\u00e9 Caf\u00e9",
-      "url": "https://open.spotify.com/track/7pOrjaSlEgPsWZhrIar1zf"
+      "duration_ms": 187440,
+      "name": "Ay Mexicanita",
+      "url": "https://open.spotify.com/track/15Aju7YDD1m8LEwyoJGxTX"
     },
     {
       "added_at": "2022-01-11 03:10:29",
@@ -779,26 +779,6 @@
     {
       "added_at": "2022-01-11 03:10:29",
       "album": {
-        "name": "Solo para Rom\u00e1nticos - de Mujer a Mujer",
-        "url": "https://open.spotify.com/album/3LyPtYOOqsTIBNrg7224Pc"
-      },
-      "artists": [
-        {
-          "name": "Germ\u00e1n Vald\u00e9z",
-          "url": "https://open.spotify.com/artist/4b7DTJNSPg9gevcNOaWI9l"
-        },
-        {
-          "name": "Tintan",
-          "url": "https://open.spotify.com/artist/5mUFdpfKhKfuRcNOVa43l4"
-        }
-      ],
-      "duration_ms": 143830,
-      "name": "Bonita",
-      "url": "https://open.spotify.com/track/0ACVN7hfM4xYLBQIIGlzx2"
-    },
-    {
-      "added_at": "2022-01-11 03:10:29",
-      "album": {
         "name": "3 AM (In Beats We Trust)",
         "url": "https://open.spotify.com/album/5SG03amThdGbDpvOufQLev"
       },
@@ -827,6 +807,26 @@
       "duration_ms": 209746,
       "name": "Clandestina - Spotify Singles",
       "url": "https://open.spotify.com/track/1Oie9uASbo83OrEkZ2whEM"
+    },
+    {
+      "added_at": "2022-01-11 03:10:29",
+      "album": {
+        "name": "Solo para Rom\u00e1nticos - de Mujer a Mujer",
+        "url": "https://open.spotify.com/album/3LyPtYOOqsTIBNrg7224Pc"
+      },
+      "artists": [
+        {
+          "name": "Germ\u00e1n Vald\u00e9z",
+          "url": "https://open.spotify.com/artist/4b7DTJNSPg9gevcNOaWI9l"
+        },
+        {
+          "name": "Tintan",
+          "url": "https://open.spotify.com/artist/5mUFdpfKhKfuRcNOVa43l4"
+        }
+      ],
+      "duration_ms": 143830,
+      "name": "Bonita",
+      "url": "https://open.spotify.com/track/0ACVN7hfM4xYLBQIIGlzx2"
     },
     {
       "added_at": "2020-05-28 20:45:13",
@@ -977,6 +977,22 @@
       "url": "https://open.spotify.com/track/0wQ2xkadkllQgL1mVQ4rSE"
     },
     {
+      "added_at": "2022-01-11 03:10:29",
+      "album": {
+        "name": "Coleccion de Oro",
+        "url": "https://open.spotify.com/album/4hB9LGTtBc6H29pjkTagzo"
+      },
+      "artists": [
+        {
+          "name": "La Sonora Matancera",
+          "url": "https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD"
+        }
+      ],
+      "duration_ms": 163420,
+      "name": "Guantanamera",
+      "url": "https://open.spotify.com/track/0wNoE4ph2njLnF1txfeLVJ"
+    },
+    {
       "added_at": "2022-09-30 03:45:40",
       "album": {
         "name": "Formose\u00f1a",
@@ -995,18 +1011,18 @@
     {
       "added_at": "2022-01-11 03:10:29",
       "album": {
-        "name": "Coleccion de Oro",
-        "url": "https://open.spotify.com/album/4hB9LGTtBc6H29pjkTagzo"
+        "name": "Canto",
+        "url": "https://open.spotify.com/album/4CVtGsFWsxDZQHgyQQsAY3"
       },
       "artists": [
         {
-          "name": "La Sonora Matancera",
-          "url": "https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD"
+          "name": "Los Super Seven",
+          "url": "https://open.spotify.com/artist/3G6aMsYTQkix5YQrtuj9hu"
         }
       ],
-      "duration_ms": 163420,
-      "name": "Guantanamera",
-      "url": "https://open.spotify.com/track/0wNoE4ph2njLnF1txfeLVJ"
+      "duration_ms": 324333,
+      "name": "Me Voy Pa'l Pueblo",
+      "url": "https://open.spotify.com/track/3buA1wR2SA347hFcbDvpSt"
     },
     {
       "added_at": "2022-01-11 03:10:29",
@@ -1023,22 +1039,6 @@
       "duration_ms": 245266,
       "name": "Corazon",
       "url": "https://open.spotify.com/track/0Q3A6yU7aufWsTbiNoUmgb"
-    },
-    {
-      "added_at": "2022-01-11 03:10:29",
-      "album": {
-        "name": "Canto",
-        "url": "https://open.spotify.com/album/4CVtGsFWsxDZQHgyQQsAY3"
-      },
-      "artists": [
-        {
-          "name": "Los Super Seven",
-          "url": "https://open.spotify.com/artist/3G6aMsYTQkix5YQrtuj9hu"
-        }
-      ],
-      "duration_ms": 324333,
-      "name": "Me Voy Pa'l Pueblo",
-      "url": "https://open.spotify.com/track/3buA1wR2SA347hFcbDvpSt"
     },
     {
       "added_at": "2022-01-11 03:10:29",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2022-01-11 03:10:29",
       "album": {
-        "name": "Live At The First Annual San Francisco Son Jarocho Festival",
-        "url": "https://open.spotify.com/album/5OFT3JolZgTwmIRLTEXtDN"
-      },
-      "artists": [
-        {
-          "name": "Los Cojolites",
-          "url": "https://open.spotify.com/artist/6SFpEAywC3u4kjE00wHMoO"
-        }
-      ],
-      "duration_ms": 545467,
-      "name": "Luna Negra - Live",
-      "url": "https://open.spotify.com/track/2tVkvdgt2Gnf4kTp6bbn7Y"
-    },
-    {
-      "added_at": "2022-01-11 03:10:29",
-      "album": {
         "name": "La Fiesta",
         "url": "https://open.spotify.com/album/1QN51TxHmv1PzCnBKm90HM"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 187813,
       "name": "Moliendo Caf\u00e9 - Ritmo Orquidea",
       "url": "https://open.spotify.com/track/2hAZYHPp6JLzLNRMdC3lPP"
+    },
+    {
+      "added_at": "2022-01-11 03:10:29",
+      "album": {
+        "name": "Live At The First Annual San Francisco Son Jarocho Festival",
+        "url": "https://open.spotify.com/album/5OFT3JolZgTwmIRLTEXtDN"
+      },
+      "artists": [
+        {
+          "name": "Los Cojolites",
+          "url": "https://open.spotify.com/artist/6SFpEAywC3u4kjE00wHMoO"
+        }
+      ],
+      "duration_ms": 545467,
+      "name": "Luna Negra - Live",
+      "url": "https://open.spotify.com/track/2tVkvdgt2Gnf4kTp6bbn7Y"
     },
     {
       "added_at": "2020-05-28 20:45:13",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2020-05-28 20:45:13",
       "album": {
-        "name": "Bi",
-        "url": "https://open.spotify.com/album/5Rnk0JczvdBVg123Mpd483"
-      },
-      "artists": [
-        {
-          "name": "Kevin Johansen",
-          "url": "https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk"
-        }
-      ],
-      "duration_ms": 267480,
-      "name": "Apocalypso",
-      "url": "https://open.spotify.com/track/6hgDFkV8ZAFFI6F9kvUFns"
-    },
-    {
-      "added_at": "2020-05-28 20:45:13",
-      "album": {
         "name": "Latin Soul Syndicate",
         "url": "https://open.spotify.com/album/4RX2MCsif63EAl7nM8JBiO"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 239760,
       "name": "Frida Kahlo aka Mamasita",
       "url": "https://open.spotify.com/track/0kVOs0kuxFduJQSGA3YA3x"
+    },
+    {
+      "added_at": "2020-05-28 20:45:13",
+      "album": {
+        "name": "Bi",
+        "url": "https://open.spotify.com/album/5Rnk0JczvdBVg123Mpd483"
+      },
+      "artists": [
+        {
+          "name": "Kevin Johansen",
+          "url": "https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk"
+        }
+      ],
+      "duration_ms": 267480,
+      "name": "Apocalypso",
+      "url": "https://open.spotify.com/track/6hgDFkV8ZAFFI6F9kvUFns"
     },
     {
       "added_at": "2022-01-11 03:10:29",
@@ -1247,22 +1247,6 @@
       "duration_ms": 165982,
       "name": "Vereda Tropical",
       "url": "https://open.spotify.com/track/49iGo9gTn4rTtj504zQbHr"
-    },
-    {
-      "added_at": "2020-05-28 20:45:13",
-      "album": {
-        "name": "El Brown Recluse",
-        "url": "https://open.spotify.com/album/1nZ9k3BHISZbbTy3uIMV7O"
-      },
-      "artists": [
-        {
-          "name": "Charanga Cakewalk",
-          "url": "https://open.spotify.com/artist/6n57hcHUAiNVQ8CwSOz2SN"
-        }
-      ],
-      "duration_ms": 283746,
-      "name": "Pulque",
-      "url": "https://open.spotify.com/track/3rZpBdMoAhoOGuduKZfDmW"
     },
     {
       "added_at": "2020-05-28 20:45:13",
@@ -1295,6 +1279,22 @@
       "duration_ms": 300226,
       "name": "Mujer Soy",
       "url": "https://open.spotify.com/track/64fNZggk4opmLI4aCdqLrP"
+    },
+    {
+      "added_at": "2020-05-28 20:45:13",
+      "album": {
+        "name": "El Brown Recluse",
+        "url": "https://open.spotify.com/album/1nZ9k3BHISZbbTy3uIMV7O"
+      },
+      "artists": [
+        {
+          "name": "Charanga Cakewalk",
+          "url": "https://open.spotify.com/artist/6n57hcHUAiNVQ8CwSOz2SN"
+        }
+      ],
+      "duration_ms": 283746,
+      "name": "Pulque",
+      "url": "https://open.spotify.com/track/3rZpBdMoAhoOGuduKZfDmW"
     },
     {
       "added_at": "2022-01-11 03:10:29",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2022-01-11 03:10:29",
       "album": {
-        "name": "Por siempre Los Panchos, Vol. 1 - Noche de ronda y otros \u00e9xitos (Remastered)",
-        "url": "https://open.spotify.com/album/5Z5H3W0jLUyhzY8Fr1CDe8"
-      },
-      "artists": [
-        {
-          "name": "Los Panchos",
-          "url": "https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz"
-        }
-      ],
-      "duration_ms": 186107,
-      "name": "Jacarandosa - Remastered",
-      "url": "https://open.spotify.com/track/43gIa4GPVqRnI7xEon9P6j"
-    },
-    {
-      "added_at": "2022-01-11 03:10:29",
-      "album": {
         "name": "Presentando a \u00d1ico Saquito",
         "url": "https://open.spotify.com/album/78R0uTkfDNPDKVypJ3zI4S"
       },
@@ -1359,6 +1343,22 @@
       "duration_ms": 158453,
       "name": "Maria Cristina",
       "url": "https://open.spotify.com/track/3hqjYthxFa5f21ISWn9xdN"
+    },
+    {
+      "added_at": "2022-01-11 03:10:29",
+      "album": {
+        "name": "Por siempre Los Panchos, Vol. 1 - Noche de ronda y otros \u00e9xitos (Remastered)",
+        "url": "https://open.spotify.com/album/5Z5H3W0jLUyhzY8Fr1CDe8"
+      },
+      "artists": [
+        {
+          "name": "Los Panchos",
+          "url": "https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz"
+        }
+      ],
+      "duration_ms": 186107,
+      "name": "Jacarandosa - Remastered",
+      "url": "https://open.spotify.com/track/43gIa4GPVqRnI7xEon9P6j"
     },
     {
       "added_at": "2020-05-28 20:45:13",
@@ -1425,22 +1425,6 @@
       "url": "https://open.spotify.com/track/7pu8bUkiBOS3pHo8rAscBu"
     },
     {
-      "added_at": "2020-05-28 20:45:13",
-      "album": {
-        "name": "El Brown Recluse",
-        "url": "https://open.spotify.com/album/1nZ9k3BHISZbbTy3uIMV7O"
-      },
-      "artists": [
-        {
-          "name": "Charanga Cakewalk",
-          "url": "https://open.spotify.com/artist/6n57hcHUAiNVQ8CwSOz2SN"
-        }
-      ],
-      "duration_ms": 259746,
-      "name": "Cumbia Pa Modernos",
-      "url": "https://open.spotify.com/track/48msusnRNPnqKeD9nFA1mB"
-    },
-    {
       "added_at": "2022-01-11 03:10:29",
       "album": {
         "name": "Concierto en Vivo (Vienna, Austria)",
@@ -1455,6 +1439,22 @@
       "duration_ms": 305906,
       "name": "El P\u00e1jaro C\u00fa - Live",
       "url": "https://open.spotify.com/track/1xNL418AYlSEzWH4Z8EGFh"
+    },
+    {
+      "added_at": "2020-05-28 20:45:13",
+      "album": {
+        "name": "El Brown Recluse",
+        "url": "https://open.spotify.com/album/1nZ9k3BHISZbbTy3uIMV7O"
+      },
+      "artists": [
+        {
+          "name": "Charanga Cakewalk",
+          "url": "https://open.spotify.com/artist/6n57hcHUAiNVQ8CwSOz2SN"
+        }
+      ],
+      "duration_ms": 259746,
+      "name": "Cumbia Pa Modernos",
+      "url": "https://open.spotify.com/track/48msusnRNPnqKeD9nFA1mB"
     },
     {
       "added_at": "2020-05-28 20:45:13",
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2022-01-11 03:10:29",
       "album": {
-        "name": "Los 22 Grandes \u00c9xitos de P\u00e9rez Prado (Remastered)",
-        "url": "https://open.spotify.com/album/4NT0vaw4EP7hApFQCXqmoo"
-      },
-      "artists": [
-        {
-          "name": "P\u00e9rez Prado",
-          "url": "https://open.spotify.com/artist/1ZKhPkCXXgtiGgALn4OYtT"
-        }
-      ],
-      "duration_ms": 147789,
-      "name": "Mar\u00eda Cristina - Remastered",
-      "url": "https://open.spotify.com/track/5zimrebZIVCXRfcFuVbSqd"
-    },
-    {
-      "added_at": "2022-01-11 03:10:29",
-      "album": {
         "name": "Tropid\u00e9lico",
         "url": "https://open.spotify.com/album/2VBt7XqrvUKqKGDtxEoghS"
       },
@@ -1519,6 +1503,22 @@
       "duration_ms": 257786,
       "name": "Regi Bugal\u00fa (Bugalu)",
       "url": "https://open.spotify.com/track/68Rb4XkOch4lhKtlD4fHHq"
+    },
+    {
+      "added_at": "2022-01-11 03:10:29",
+      "album": {
+        "name": "Los 22 Grandes \u00c9xitos de P\u00e9rez Prado (Remastered)",
+        "url": "https://open.spotify.com/album/4NT0vaw4EP7hApFQCXqmoo"
+      },
+      "artists": [
+        {
+          "name": "P\u00e9rez Prado",
+          "url": "https://open.spotify.com/artist/1ZKhPkCXXgtiGgALn4OYtT"
+        }
+      ],
+      "duration_ms": 147789,
+      "name": "Mar\u00eda Cristina - Remastered",
+      "url": "https://open.spotify.com/track/5zimrebZIVCXRfcFuVbSqd"
     },
     {
       "added_at": "2022-01-11 03:10:29",

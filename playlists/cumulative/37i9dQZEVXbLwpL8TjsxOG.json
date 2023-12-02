@@ -5686,7 +5686,7 @@
       ],
       "date_added": "2023-01-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-29",
+      "date_removed": null,
       "duration_ms": 212253,
       "name": "OMG",
       "url": "https://open.spotify.com/track/65FftemJ1DbbZ45DUfHJXE"
@@ -6254,7 +6254,7 @@
       ],
       "date_added": "2023-08-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-01",
+      "date_removed": null,
       "duration_ms": 179560,
       "name": "Rainy Days",
       "url": "https://open.spotify.com/track/5ydjxBSUIDn26MFzU3asP4"
@@ -8106,7 +8106,7 @@
       ],
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 170386,
       "name": "To. X",
       "url": "https://open.spotify.com/track/2gyCwrOcC6JBoaJ8JGJ7T8"
@@ -8718,7 +8718,7 @@
       ],
       "date_added": "2023-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 147557,
       "name": "Yes or No",
       "url": "https://open.spotify.com/track/2gkVEnpahpE3bQuvGuCpAV"
@@ -8964,7 +8964,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-18",
+      "date_removed": null,
       "duration_ms": 211733,
       "name": "\u30a2\u30a4\u30c9\u30eb",
       "url": "https://open.spotify.com/track/1hAloWiinXLPQUJxrJReb1"
@@ -9628,7 +9628,7 @@
       ],
       "date_added": "2023-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 197307,
       "name": "\u4f60\u4e0d\u6703\u4e00\u8f29\u5b50\u7684\u611b\u4e0a\u6211",
       "url": "https://open.spotify.com/track/5FbxrTeMrO3zbLe3uLbYH7"
@@ -12190,7 +12190,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 213619,
       "name": "\u6d6e\u5e8a",
       "url": "https://open.spotify.com/track/3gOTUuIDMbBYECtnPadsxY"
@@ -12938,6 +12938,24 @@
       "duration_ms": 181724,
       "name": "\u7db2\u7d61\u5b89\u5168\u96b1\u60a3",
       "url": "https://open.spotify.com/track/4J3xGcdeTondAni5xd9kmm"
+    },
+    {
+      "album": {
+        "name": "\u7dca\u6025\u806f\u7d61\u4eba",
+        "url": "https://open.spotify.com/album/1jSjHcc494JZrMD6keZ0UU"
+      },
+      "artists": [
+        {
+          "name": "Gareth.T",
+          "url": "https://open.spotify.com/artist/6R57JlNKlnNrYaji0vw8xx"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222668,
+      "name": "\u7dca\u6025\u806f\u7d61\u4eba",
+      "url": "https://open.spotify.com/track/1sb71AvysPMJlsx4qYtTpG"
     },
     {
       "album": {

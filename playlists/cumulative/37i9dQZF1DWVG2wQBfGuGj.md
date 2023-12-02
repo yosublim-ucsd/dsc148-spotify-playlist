@@ -4,7 +4,7 @@
 
 > Surrender to the chill of the White Island with these laid\-back house and nu\-disco groovers.
 
-203 songs - 10 hr 26 min
+204 songs - 10 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,6 +66,7 @@
 | [Drunk Sundays](https://open.spotify.com/track/7HARmWLSb1quqaEGNuIudB) | [Manuel Darquart](https://open.spotify.com/artist/0mumYdYeqKkr99t3iDEHGS) | [Dippin & Trippin](https://open.spotify.com/album/7c2S06S20LZ3i97CUXeMSb) | 5:19 | 2023-05-05 | 2023-08-19 |
 | [Duné](https://open.spotify.com/track/0vzc3WshU7OjeAazBIJwoO) | [blnkspc\_](https://open.spotify.com/artist/3hZaebXqrD5crmyMP2x1qa) | [Duné](https://open.spotify.com/album/2nFDnv4eUojR5Zu6qw82aX) | 2:38 | 2023-05-05 |  |
 | [Eleven](https://open.spotify.com/track/4FmayqmwkbAw2wMWVq2A1B) | [Shiruky](https://open.spotify.com/artist/1Tr7ffkJ66E8bXTm2g7uEM) | [Eleven](https://open.spotify.com/album/14d97dcXwRoZdOQtjP8LYb) | 4:07 | 2023-05-05 |  |
+| [Elixir](https://open.spotify.com/track/0PhaLtoRmcupcDmm3HEh5r) | [MayDance](https://open.spotify.com/artist/3kxIpmExJ6PbxU7qzqOEa4) | [Elixir](https://open.spotify.com/album/1ZiUjhQZe8sGtxP74Zrn7d) | 2:25 | 2023-12-01 |  |
 | [End of Story](https://open.spotify.com/track/5EdLzVEBvZgxGgxZviMvGk) | [IBBIZ](https://open.spotify.com/artist/2NdwSYVe4Jeia8NWr2Rb14) | [End of Story](https://open.spotify.com/album/1me7BXh024dO5wsWukirT4) | 2:39 | 2023-11-14 |  |
 | [endless cup](https://open.spotify.com/track/4sdtDC5geKrZHoVqyx5bBA) | [frukks](https://open.spotify.com/artist/1y4w1ZX8F5vH0aT3rMuz1M) | [endless cup](https://open.spotify.com/album/1AHdwERDExWS6MCKxtQ3gb) | 3:23 | 2023-05-05 |  |
 | [Feel Decent](https://open.spotify.com/track/61zOivEMvcyCoymnvBVPy5) | [Heyson](https://open.spotify.com/artist/7ooKNV7aBXuyijq6bYvvQR) | [Vibes Vol\. 3](https://open.spotify.com/album/53uc38DjJTTD6JG1EcQJym) | 3:45 | 2023-08-04 |  |
@@ -156,7 +157,7 @@
 | [Santorini](https://open.spotify.com/track/1bWVXB3toBwp4mFsH1VxKY) | [Blé Hill](https://open.spotify.com/artist/2Hv0rhYRdL06odAza3vamX) | [Santorini](https://open.spotify.com/album/3JaHqvBeTANBv0UVZnThmn) | 2:24 | 2023-07-07 |  |
 | [Sexy in the Morning](https://open.spotify.com/track/38ibP9xIR3RXfAl5QE5yoE) | [Reel Waves](https://open.spotify.com/artist/3K4BBqiZQW1WEzeBMzfVho) | [Sugar in My Arms](https://open.spotify.com/album/7KP0XetLuAm6YT4ZRWMuPv) | 2:28 | 2023-05-22 | 2023-08-19 |
 | [Shadowdoom](https://open.spotify.com/track/0AGSlvLptBUmNxqo2HBTdC) | [Soul to Speak](https://open.spotify.com/artist/0uYPjw4NSVY5IiZZd6kHdd) | [Shadowdoom](https://open.spotify.com/album/5KOlOg5drL7dCfcqGt9ftV) | 2:25 | 2023-05-05 |  |
-| [Shizaru](https://open.spotify.com/track/2vi8nrpy6kb7rJ1ZMN3Ces) | [Himari Aoki](https://open.spotify.com/artist/5wymut0det0V9Vf6l8t0mD) | [Shizaru](https://open.spotify.com/album/6lITOJOFvq5HUGwWIBIe3r) | 2:22 | 2023-05-05 |  |
+| [Shizaru](https://open.spotify.com/track/2vi8nrpy6kb7rJ1ZMN3Ces) | [Himari Aoki](https://open.spotify.com/artist/5wymut0det0V9Vf6l8t0mD) | [Shizaru](https://open.spotify.com/album/6lITOJOFvq5HUGwWIBIe3r) | 2:22 | 2023-05-05 | 2023-12-02 |
 | [Silent Disco](https://open.spotify.com/track/6H3SzstyOzWqARoQZlasw8) | [bombergirl](https://open.spotify.com/artist/79pr8Jy2Fxo9u6EaOxbCAQ) | [Silent Disco](https://open.spotify.com/album/3w9dVgv92GiOLGbOS7QqyS) | 2:45 | 2023-05-22 | 2023-07-07 |
 | [Skinny Dipping](https://open.spotify.com/track/77q1BdpiRYAByg8GonYX77) | [Dentity](https://open.spotify.com/artist/7nOhCBrrYam26cWsDpM3t1) | [Skinny Dipping](https://open.spotify.com/album/1YuR5tcmMmKP2GuqW0iyYM) | 2:23 | 2023-06-23 |  |
 | [Sleepless](https://open.spotify.com/track/75HBVc7kJLjC2LlPc4ScfH) | [AVAION](https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys), [PaulWetz](https://open.spotify.com/artist/1uaDw0T6O916Kv8TxJsQzb), [Nu Aspect](https://open.spotify.com/artist/4NhRml5ZOfNaYJAHUE0XwT), [YUMA](https://open.spotify.com/artist/5ynMbTlnZvBUxrxUrd6gs0) | [Sleepless](https://open.spotify.com/album/2d5mKkSWO8rz96HFrdLPZ9) | 2:45 | 2023-05-05 | 2023-11-25 |

@@ -4,7 +4,7 @@
 
 > 今週も話題の新曲を最速で。 Cover: King Gnu \*👉 <a href="https://spice.eplus.jp/articles/324212?utm\_source=spotify.com&utm\_medium=referral">SPICE連動記事</a>から新着情報をキャッチ!
 
-4,162 songs - 10 day 12 hr 56 min
+4,163 songs - 10 day 12 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1539,7 +1539,8 @@
 | [merry\-go\-round](https://open.spotify.com/track/4RDjRmWez2gryxtIO2Attf) | [tonun](https://open.spotify.com/artist/4eF1tYcUa9voNDX7xVTrZG) | [merry\-go\-round](https://open.spotify.com/album/2fGBPXYiquxrRt3fYcRpyt) | 3:09 | 2023-05-02 | 2023-05-10 |
 | [Mess It Up](https://open.spotify.com/track/0Ag6LNrSfJVKRhGzD7ArDq) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Hackney Diamonds](https://open.spotify.com/album/1AxMcdQRLguJqSZMxvRNdO) | 4:03 | 2023-10-24 | 2023-11-01 |
 | [Messages that don't reach you](https://open.spotify.com/track/59IEVzGqH7942VwaRP4DIp) | [小山田壮平](https://open.spotify.com/artist/7zEZK9uCPiycLqxQ9Ine4v) | [Messages that don't reach you](https://open.spotify.com/album/7yH7OsvM7a11HaCOb68azC) | 4:07 | 2023-11-10 | 2023-11-16 |
-| [Metamorphose Love](https://open.spotify.com/track/0VncsWhl0k2xzwAScprYXL) | [Keiichi Sokabe](https://open.spotify.com/artist/5L2Y03AcUOXCgvRMTy2Gwq) | [Metamorphose Love](https://open.spotify.com/album/3g7x2FtL9c2N5d4p9y7EUb) | 2:40 | 2023-11-28 |  |
+| [Metamorphose Love](https://open.spotify.com/track/0VncsWhl0k2xzwAScprYXL) | [Keiichi Sokabe](https://open.spotify.com/artist/5L2Y03AcUOXCgvRMTy2Gwq) | [Metamorphose Love](https://open.spotify.com/album/3g7x2FtL9c2N5d4p9y7EUb) | 2:40 | 2023-11-28 | 2023-12-02 |
+| [Metamorphose Love](https://open.spotify.com/track/4A3PPYTWMWGowHVq5ilvOt) | [Keiichi Sokabe](https://open.spotify.com/artist/5L2Y03AcUOXCgvRMTy2Gwq) | [Hazard Of Love](https://open.spotify.com/album/618qCFzzmmL4iN3TlH2SPC) | 2:40 | 2023-11-30 |  |
 | [MF](https://open.spotify.com/track/541QPndnqL4dtcfMAqdW7h) | [Novel Core](https://open.spotify.com/artist/4CNZyuclyT33od27ZSjJMD), [SHUNTO](https://open.spotify.com/artist/6zjey2qJCNvlte3p34SWhH), [RYOKI](https://open.spotify.com/artist/5wTRBlhKerluU2z9KGtdFm) | [MF](https://open.spotify.com/album/5zMOi1vxPr3j1w5lLFYVkg) | 2:14 | 2023-10-03 | 2023-10-11 |
 | [Michi\-tono\-Sogu](https://open.spotify.com/track/3YbwKcZvwPm6DfqQTjek13) | [LAUSBUB](https://open.spotify.com/artist/1nK2FcujOkjFDDAr1EMo2M) | [Michi\-tono\-Sogu](https://open.spotify.com/album/7tTLJFKEI9MjjZ3MX2jCgQ) | 4:30 | 2023-06-21 | 2023-06-28 |
 | [Michi\-tono\-Sogu](https://open.spotify.com/track/6uIr38NbHnYN8KVfDuHcAQ) | [LAUSBUB](https://open.spotify.com/artist/1nK2FcujOkjFDDAr1EMo2M) | [Michi\-tono\-Sogu](https://open.spotify.com/album/5nBKR9qLUlMjRdr5uD2CVQ) | 4:30 | 2023-06-20 | 2023-06-22 |

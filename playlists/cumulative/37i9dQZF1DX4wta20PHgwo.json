@@ -1860,7 +1860,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 300520,
       "name": "Composition 4",
       "url": "https://open.spotify.com/track/6ryPf3eYnbLoak3EYDvRNI"
@@ -7692,6 +7692,24 @@
       "duration_ms": 470090,
       "name": "The Sun in September",
       "url": "https://open.spotify.com/track/0rm7lBomgchi6bHaTwi7cL"
+    },
+    {
+      "album": {
+        "name": "European Quartet: Harmless Addiction",
+        "url": "https://open.spotify.com/album/1gVa0y6jqdbhQtINU2lNDv"
+      },
+      "artists": [
+        {
+          "name": "Walt Weiskopf",
+          "url": "https://open.spotify.com/artist/0tdWD3Wpf0kyUYI6zeT1w3"
+        }
+      ],
+      "date_added": "2023-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 332688,
+      "name": "The Things We Did Last Summer",
+      "url": "https://open.spotify.com/track/3l3CvPTXEtkw2IiRKa3Hfl"
     },
     {
       "album": {

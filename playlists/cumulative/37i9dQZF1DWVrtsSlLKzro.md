@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">electronic</a> melancholy < / 3
 
-324 songs - 19 hr 21 min
+325 songs - 19 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -235,6 +235,7 @@
 | [One Last Dance](https://open.spotify.com/track/1nV6VafLPuRSsXgbDY3i6L) | [Audien](https://open.spotify.com/artist/4xnMDfgEmXZEEDdITKcGuE), [XIRA](https://open.spotify.com/artist/7CWqlWlNqgpEYr4vwcVzCJ) | [One Last Dance](https://open.spotify.com/album/1AgyHcRwOcf0S0DahS869H) | 3:04 | 2022-02-18 |  |
 | [One More Day \(with Chandler Leighton\)](https://open.spotify.com/track/7hCZVX8ogwzgszIKtkD6Bv) | [Jason Ross](https://open.spotify.com/artist/6CCTvLyIHqUhY6VQizt150), [Blanke](https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT), [Chandler Leighton](https://open.spotify.com/artist/5zUeHMatct7zGjyIji9T4C) | [One More Day \(with Chandler Leighton\)](https://open.spotify.com/album/20BQqiuNutjnDzWLSBZfWL) | 4:32 | 2021-12-03 |  |
 | [One Time](https://open.spotify.com/track/4OqJ2AncNhhIyI3oCBYktq) | [Jason Ross](https://open.spotify.com/artist/6CCTvLyIHqUhY6VQizt150) | [One Time](https://open.spotify.com/album/2m0tPdS8lzYnZulyV0DoXB) | 2:58 | 2023-06-26 |  |
+| [Other Side](https://open.spotify.com/track/74qKLdiiTnXNqh2Co21RlJ) | [AVAION](https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys), [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j) | [Other Side](https://open.spotify.com/album/1x58rOMA6gcxJdrgzbGVTo) | 3:26 | 2023-12-01 |  |
 | [Other Side of Love](https://open.spotify.com/track/1TXQh7R4ZaozkuFTRVZlYm) | [Karen Harding](https://open.spotify.com/artist/1QOHbhVRpDoNtRkz79si6b) | [Other Side of Love](https://open.spotify.com/album/6Qqp6dppcuLr0DTmKqDkPU) | 3:42 | 2022-07-01 | 2023-06-10 |
 | [Out My Head](https://open.spotify.com/track/4r7TGHgy8e7r4Qzhlo0yZL) | [Lastlings](https://open.spotify.com/artist/0M7GyeyRi2fG8c1LdP4jhi) | [Out My Head](https://open.spotify.com/album/37JDfW6LMqnAhItiGfVEE7) | 3:33 | 2023-05-05 | 2023-08-12 |
 | [Out My Head](https://open.spotify.com/track/5l8lqD8bC9wf8yUTESmh46) | [Lastlings](https://open.spotify.com/artist/0M7GyeyRi2fG8c1LdP4jhi) | [Perfect World](https://open.spotify.com/album/50fK5JmEYqHvxne5EGJpSc) | 3:33 | 2023-08-11 |  |

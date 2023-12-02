@@ -4,7 +4,7 @@
 
 > Get ready for Ibiza season 2023\. See you on the dancefloor.
 
-209 songs - 13 hr 1 min
+210 songs - 13 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Back In The Dance](https://open.spotify.com/track/02K93YKyLxK8xCY2C4ePtI) | [Darius Syrossian](https://open.spotify.com/artist/6PDUdAoMV9dMy0wOt09Rsf), [George Smeddles](https://open.spotify.com/artist/5HT6hDqzq0B7EFlokN0hK2) | [Back In The Dance](https://open.spotify.com/album/52CE1b4k3DfEpujnmgrim2) | 3:26 | 2022-08-26 | 2022-10-01 |
 | [Be The One](https://open.spotify.com/track/63MBVrJ8nADdP4AXbBGlOj) | [Hannah Laing](https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o) | [Be The One](https://open.spotify.com/album/5XtT7YyAjN783nSW9ZtNBo) | 2:46 | 2023-04-04 | 2023-07-13 |
 | [Beggin'](https://open.spotify.com/track/74nEGIzIefJhJ5qX7NeIAz) | [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE), [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE) | [Beggin'](https://open.spotify.com/album/4PCf8xkYY6ZlrQh48AQP1V) | 3:03 | 2023-06-13 |  |
+| [Believe](https://open.spotify.com/track/1STyRAWBlr18jm9aRBVrqE) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU) | [Believe](https://open.spotify.com/album/3CBJ2fnrJfyp5UnrIt6Wvw) | 6:48 | 2023-10-19 |  |
 | [Believe](https://open.spotify.com/track/40up5wCfwQXTDXyE18hJbJ) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU) | [Believe](https://open.spotify.com/album/3vUbTHFU39OGMaJ3VGD98N) | 6:48 | 2022-08-26 | 2023-10-08 |
 | [Better \(feat\. Teddy Swims\)](https://open.spotify.com/track/5MnmuLgPmsAFkmG5n85cna) | [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9), [BURNS](https://open.spotify.com/artist/5eKqhPrKad0J9xGAtq3rW7), [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Better \(feat\. Teddy Swims\)](https://open.spotify.com/album/0sZCthcwNebNdmwpXXmMKI) | 3:02 | 2022-08-26 | 2023-04-05 |
 | [Better Times](https://open.spotify.com/track/5PXZlm9dBDA8dBXxle5Da8) | [KC Lights](https://open.spotify.com/artist/0bUZrFj7rstq07E4iAJHgZ), [Låpsley](https://open.spotify.com/artist/27ze6hCgfr3HcDZAHY60pg) | [Better Times](https://open.spotify.com/album/02ie8m0VrTiwLr8NHMuo2T) | 3:19 | 2023-06-13 |  |
@@ -150,7 +151,7 @@
 | [Plastic Smiling](https://open.spotify.com/track/2Ns6oTwpUGA9zdcS6BEwU7) | [Navos](https://open.spotify.com/artist/6YCM9JwkqdEFQSzztmh4Kb) | [Plastic Smiling](https://open.spotify.com/album/4bEqr1qELvLFgTUm1LIQFP) | 2:57 | 2022-08-26 | 2023-04-05 |
 | [Point Of No Return](https://open.spotify.com/track/6PzfuuQ95fRU9JRFSFFq77) | [Adam Port](https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk), [Monolink](https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx) | [Point Of No Return](https://open.spotify.com/album/6YfeosMg7VMAnS9wXiMQID) | 4:43 | 2023-04-04 |  |
 | [Poison](https://open.spotify.com/track/1MeYeeJV7BUmp3Kf0wEmQe) | [Hot Since 82](https://open.spotify.com/artist/1tRBmMtER4fGrzrt8O9VpS) | [Poison](https://open.spotify.com/album/6WONhOrTC1hMcjVSPuAcr6) | 3:26 | 2022-08-26 | 2023-04-05 |
-| [Pump](https://open.spotify.com/track/37Jh3OXqliOxKjtl1aO49y) | [Chris Lorenzo](https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj) | [Pump](https://open.spotify.com/album/6ikpD6RK27kfpo8CPCGUtI) | 3:45 | 2023-07-12 |  |
+| [Pump](https://open.spotify.com/track/37Jh3OXqliOxKjtl1aO49y) | [Chris Lorenzo](https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj) | [Pump](https://open.spotify.com/album/6ikpD6RK27kfpo8CPCGUtI) | 3:45 | 2023-07-12 | 2023-12-02 |
 | [Push To Start \(feat\. No/Me\)](https://open.spotify.com/track/6t4VHEcJ7Kek9pgGHlDp6R) | [Noizu](https://open.spotify.com/artist/3VRyybsQu0MDG0F2LBxnv7), [Westend](https://open.spotify.com/artist/4epc3Bd0DOBA0kDywkRAsu), [No/Me](https://open.spotify.com/artist/4L0It80jhQQKMTU2r02nkL) | [Push To Start \(feat\. No/Me\)](https://open.spotify.com/album/5kbNGOCcd1B1nxU1y1Mizb) | 3:01 | 2023-04-04 |  |
 | [Push Up \- Original Mix](https://open.spotify.com/track/43OMUa5jouGCZEz9k9vooo) | [Creeds](https://open.spotify.com/artist/2gW0M5fn2r7Lo4Hn1r8HZ5) | [Push Up \(Original Mix\)](https://open.spotify.com/album/4OPl8QJEF698sMfW76g5mK) | 4:00 | 2023-04-04 | 2023-07-13 |
 | [Rainfall \(Praise You\)](https://open.spotify.com/track/1M8t1j3Kv2qp97bdq5q4Vl) | [Tom Santa](https://open.spotify.com/artist/1dTEPvUhxpFzL7UMKHWFfZ) | [Rainfall \(Praise You\)](https://open.spotify.com/album/4VanY5i4E59Mhz52qznJ95) | 2:46 | 2022-08-26 |  |

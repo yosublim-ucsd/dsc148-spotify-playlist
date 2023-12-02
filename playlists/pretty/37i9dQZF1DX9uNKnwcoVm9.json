@@ -1,12 +1,12 @@
 {
   "description": "Un playlist que te llena de esperanza.  \u00a1Con fe!",
-  "num_followers": 252522,
+  "num_followers": 252641,
   "original_name": "Con Fe",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhN2Y0OWFiYzVjNWYzMjM2MTRlNTAwNDA4NjViYjdiMjIwNzUyYjAw",
+  "snapshot_id": "MCxlMGQ5YTM1NDVlNjNmM2RhNzMxNGVhMmRjNzcyNzFhYzEyMjhlNGY1",
   "tracks": [
     {
       "added_at": "2020-11-24 13:23:38",
@@ -311,22 +311,18 @@
     {
       "added_at": "2020-11-24 13:23:38",
       "album": {
-        "name": "El Encuentro",
-        "url": "https://open.spotify.com/album/0hM8D8RMnadmtLyODuKBZx"
+        "name": "Marco Barrientos Auditorio Nacional",
+        "url": "https://open.spotify.com/album/02jz93WiEGLDvMhDb2xCPC"
       },
       "artists": [
         {
           "name": "Marco Barrientos",
           "url": "https://open.spotify.com/artist/4VYSLPSI9yb8qkUpKyVQSJ"
-        },
-        {
-          "name": "Julio Melgar",
-          "url": "https://open.spotify.com/artist/5O46r5EwzdUL8RR1aM6yU2"
         }
       ],
-      "duration_ms": 299706,
-      "name": "Preciosa Sangre",
-      "url": "https://open.spotify.com/track/0LXxKUA4sIwRDSPjyjtijp"
+      "duration_ms": 288320,
+      "name": "Ven Esp\u00edritu Ven",
+      "url": "https://open.spotify.com/track/05BkWRVy0cubbSnsyzw2lu"
     },
     {
       "added_at": "2020-11-24 13:23:38",
@@ -395,18 +391,22 @@
     {
       "added_at": "2020-11-24 13:23:38",
       "album": {
-        "name": "Marco Barrientos Auditorio Nacional",
-        "url": "https://open.spotify.com/album/02jz93WiEGLDvMhDb2xCPC"
+        "name": "El Encuentro",
+        "url": "https://open.spotify.com/album/0hM8D8RMnadmtLyODuKBZx"
       },
       "artists": [
         {
           "name": "Marco Barrientos",
           "url": "https://open.spotify.com/artist/4VYSLPSI9yb8qkUpKyVQSJ"
+        },
+        {
+          "name": "Julio Melgar",
+          "url": "https://open.spotify.com/artist/5O46r5EwzdUL8RR1aM6yU2"
         }
       ],
-      "duration_ms": 288320,
-      "name": "Ven Esp\u00edritu Ven",
-      "url": "https://open.spotify.com/track/05BkWRVy0cubbSnsyzw2lu"
+      "duration_ms": 299706,
+      "name": "Preciosa Sangre",
+      "url": "https://open.spotify.com/track/0LXxKUA4sIwRDSPjyjtijp"
     },
     {
       "added_at": "2020-11-24 13:23:38",
@@ -619,22 +619,6 @@
     {
       "added_at": "2020-11-24 13:23:38",
       "album": {
-        "name": "Vuelve a Casa",
-        "url": "https://open.spotify.com/album/6GUNfGkyL4Xi4KiWNCYkNQ"
-      },
-      "artists": [
-        {
-          "name": "Lilly Goodman",
-          "url": "https://open.spotify.com/artist/6vetaGijEBK3wfhtCUWRBS"
-        }
-      ],
-      "duration_ms": 254066,
-      "name": "Si Puedes Creer",
-      "url": "https://open.spotify.com/track/03zBrLi4BWMlf09IoK9TIJ"
-    },
-    {
-      "added_at": "2020-11-24 13:23:38",
-      "album": {
         "name": "De Vuelta Al Jardin",
         "url": "https://open.spotify.com/album/4TKIXPyW2jTchcOFw1xAf6"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 258640,
       "name": "\u00c9l Nos Ama",
       "url": "https://open.spotify.com/track/6ceXM33Unn92BZIVfjQZ3s"
+    },
+    {
+      "added_at": "2020-11-24 13:23:38",
+      "album": {
+        "name": "Vuelve a Casa",
+        "url": "https://open.spotify.com/album/6GUNfGkyL4Xi4KiWNCYkNQ"
+      },
+      "artists": [
+        {
+          "name": "Lilly Goodman",
+          "url": "https://open.spotify.com/artist/6vetaGijEBK3wfhtCUWRBS"
+        }
+      ],
+      "duration_ms": 254066,
+      "name": "Si Puedes Creer",
+      "url": "https://open.spotify.com/track/03zBrLi4BWMlf09IoK9TIJ"
     },
     {
       "added_at": "2020-11-24 13:23:38",
@@ -1123,18 +1123,18 @@
     {
       "added_at": "2020-11-24 13:23:38",
       "album": {
-        "name": "Por Fin en Casa",
-        "url": "https://open.spotify.com/album/2cg1RtFVrDEf2LRTiSIxH1"
+        "name": "Hoy M\u00e1s Que Ayer",
+        "url": "https://open.spotify.com/album/7HgsN9Iac7wiBz4TsucSBw"
       },
       "artists": [
         {
-          "name": "Fuego",
-          "url": "https://open.spotify.com/artist/3F5E6wKnGN6qRjtsF2Z6vt"
+          "name": "Juan Carlos Alvarado",
+          "url": "https://open.spotify.com/artist/1NWIpqck2zZ43JamLJgf6U"
         }
       ],
-      "duration_ms": 465335,
-      "name": "De Lo M\u00e1s Profundo",
-      "url": "https://open.spotify.com/track/2YlJSBmdJcGmWAda2m5moL"
+      "duration_ms": 230093,
+      "name": "No Basta",
+      "url": "https://open.spotify.com/track/0x5bPI62nRetHyUiPykJwK"
     },
     {
       "added_at": "2020-11-24 13:23:38",
@@ -1155,34 +1155,18 @@
     {
       "added_at": "2020-11-24 13:23:38",
       "album": {
-        "name": "Hoy M\u00e1s Que Ayer",
-        "url": "https://open.spotify.com/album/7HgsN9Iac7wiBz4TsucSBw"
+        "name": "Por Fin en Casa",
+        "url": "https://open.spotify.com/album/2cg1RtFVrDEf2LRTiSIxH1"
       },
       "artists": [
         {
-          "name": "Juan Carlos Alvarado",
-          "url": "https://open.spotify.com/artist/1NWIpqck2zZ43JamLJgf6U"
+          "name": "Fuego",
+          "url": "https://open.spotify.com/artist/3F5E6wKnGN6qRjtsF2Z6vt"
         }
       ],
-      "duration_ms": 230093,
-      "name": "No Basta",
-      "url": "https://open.spotify.com/track/0x5bPI62nRetHyUiPykJwK"
-    },
-    {
-      "added_at": "2020-11-24 13:23:38",
-      "album": {
-        "name": "Al Que Vive",
-        "url": "https://open.spotify.com/album/0EnsJ3Ctbamkhj0rOVtAhQ"
-      },
-      "artists": [
-        {
-          "name": "Gadiel Espinoza",
-          "url": "https://open.spotify.com/artist/6LsF1LrB6rmAiWps0Mo1t6"
-        }
-      ],
-      "duration_ms": 266538,
-      "name": "Te Vi Llegar",
-      "url": "https://open.spotify.com/track/5axhzyUPdFRhf2xBL00Ira"
+      "duration_ms": 465335,
+      "name": "De Lo M\u00e1s Profundo",
+      "url": "https://open.spotify.com/track/2YlJSBmdJcGmWAda2m5moL"
     },
     {
       "added_at": "2020-11-24 13:23:38",
@@ -1203,6 +1187,22 @@
       "duration_ms": 305040,
       "name": "Yo Quiero Estar Donde Tu Est\u00e1s",
       "url": "https://open.spotify.com/track/4yHpEcaH1WLJ2e6MlMXZXd"
+    },
+    {
+      "added_at": "2020-11-24 13:23:38",
+      "album": {
+        "name": "Al Que Vive",
+        "url": "https://open.spotify.com/album/0EnsJ3Ctbamkhj0rOVtAhQ"
+      },
+      "artists": [
+        {
+          "name": "Gadiel Espinoza",
+          "url": "https://open.spotify.com/artist/6LsF1LrB6rmAiWps0Mo1t6"
+        }
+      ],
+      "duration_ms": 266538,
+      "name": "Te Vi Llegar",
+      "url": "https://open.spotify.com/track/5axhzyUPdFRhf2xBL00Ira"
     },
     {
       "added_at": "2020-11-24 13:23:38",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2020-11-24 13:23:38",
       "album": {
-        "name": "Se Abren Los Cielos ( Pistas)",
-        "url": "https://open.spotify.com/album/6lW1vofyUsYzC7QvktsrpU"
-      },
-      "artists": [
-        {
-          "name": "Jose Luis Reyes",
-          "url": "https://open.spotify.com/artist/5hijN7Isgf4lf43c50XwOp"
-        }
-      ],
-      "duration_ms": 276706,
-      "name": "Haz Llover",
-      "url": "https://open.spotify.com/track/3O51YNgaVGHrrFLXLVJxNO"
-    },
-    {
-      "added_at": "2020-11-24 13:23:38",
-      "album": {
         "name": "Motivos Para Amarte",
         "url": "https://open.spotify.com/album/52GIMpznejD3anSRFnMdBL"
       },
@@ -1503,6 +1487,22 @@
       "duration_ms": 291533,
       "name": "Asi Porque Si",
       "url": "https://open.spotify.com/track/3s1s6qKRUTx4inaKh32he7"
+    },
+    {
+      "added_at": "2020-11-24 13:23:38",
+      "album": {
+        "name": "Se Abren Los Cielos ( Pistas)",
+        "url": "https://open.spotify.com/album/6lW1vofyUsYzC7QvktsrpU"
+      },
+      "artists": [
+        {
+          "name": "Jose Luis Reyes",
+          "url": "https://open.spotify.com/artist/5hijN7Isgf4lf43c50XwOp"
+        }
+      ],
+      "duration_ms": 276706,
+      "name": "Haz Llover",
+      "url": "https://open.spotify.com/track/3O51YNgaVGHrrFLXLVJxNO"
     },
     {
       "added_at": "2020-11-24 13:23:38",
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2020-11-24 13:23:38",
       "album": {
-        "name": "Motivos Para Amarte",
-        "url": "https://open.spotify.com/album/52GIMpznejD3anSRFnMdBL"
-      },
-      "artists": [
-        {
-          "name": "Luis Santiago",
-          "url": "https://open.spotify.com/artist/57wRcdGLAS9zQr9XyVtVbE"
-        }
-      ],
-      "duration_ms": 323240,
-      "name": "Pedir Perdon",
-      "url": "https://open.spotify.com/track/25rQ4tq18dcdSoabIPCLgR"
-    },
-    {
-      "added_at": "2020-11-24 13:23:38",
-      "album": {
         "name": "He Visto Su Gloria",
         "url": "https://open.spotify.com/album/2KNED3ap9Rs4ytPjEdusv6"
       },
@@ -1635,6 +1619,22 @@
       "duration_ms": 333653,
       "name": "Mi confianza est\u00e1 en ti (remix)",
       "url": "https://open.spotify.com/track/1Qn5cNivk7VRHKFgDAOBsN"
+    },
+    {
+      "added_at": "2020-11-24 13:23:38",
+      "album": {
+        "name": "Motivos Para Amarte",
+        "url": "https://open.spotify.com/album/52GIMpznejD3anSRFnMdBL"
+      },
+      "artists": [
+        {
+          "name": "Luis Santiago",
+          "url": "https://open.spotify.com/artist/57wRcdGLAS9zQr9XyVtVbE"
+        }
+      ],
+      "duration_ms": 323240,
+      "name": "Pedir Perdon",
+      "url": "https://open.spotify.com/track/25rQ4tq18dcdSoabIPCLgR"
     },
     {
       "added_at": "2020-11-24 13:23:38",

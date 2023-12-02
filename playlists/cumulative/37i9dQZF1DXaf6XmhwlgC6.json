@@ -2037,6 +2037,24 @@
     },
     {
       "album": {
+        "name": "Levitate",
+        "url": "https://open.spotify.com/album/3YL3vJTN2gvf61j8iJSfFI"
+      },
+      "artists": [
+        {
+          "name": "Lykke Juno",
+          "url": "https://open.spotify.com/artist/6cJCpDjNQBjGqBNB453M9J"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146461,
+      "name": "Levitate",
+      "url": "https://open.spotify.com/track/1rGnzd7MyIyNW3BW7qaGf9"
+    },
+    {
+      "album": {
         "name": "Start Somewhere",
         "url": "https://open.spotify.com/album/45Qh4kJ9fSnjo6awLgYew8"
       },
@@ -2896,7 +2914,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 180677,
       "name": "Prayer of Dreams",
       "url": "https://open.spotify.com/track/56Q6Ub5JGADQglD5FaKqfk"

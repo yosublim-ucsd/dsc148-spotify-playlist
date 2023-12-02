@@ -1896,7 +1896,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 233984,
       "name": "Dr. Johann Averies",
       "url": "https://open.spotify.com/track/6XnocPwfmJ1Sr1ZstHOTTg"
@@ -5587,6 +5587,24 @@
     },
     {
       "album": {
+        "name": "Tear Jerky",
+        "url": "https://open.spotify.com/album/1AfHTpAigqkGzSGwu9avlm"
+      },
+      "artists": [
+        {
+          "name": "Sparky Deathcap",
+          "url": "https://open.spotify.com/artist/2Ru6erK9heeCeWQDx0sDmR"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179606,
+      "name": "Send It To Oslo",
+      "url": "https://open.spotify.com/track/5vVma4c4Yr5kBj9C3UtmU0"
+    },
+    {
+      "album": {
         "name": "The Way It Would Be",
         "url": "https://open.spotify.com/album/4vd5ISaBt9DKezwJ8PKnDj"
       },
@@ -5674,6 +5692,24 @@
       "duration_ms": 159852,
       "name": "Shove",
       "url": "https://open.spotify.com/track/3zY86yn3L9l2OvDaVju6iP"
+    },
+    {
+      "album": {
+        "name": "dope girl chronicles",
+        "url": "https://open.spotify.com/album/26jwaa61sFHBjzpUm87NVH"
+      },
+      "artists": [
+        {
+          "name": "Field Medic",
+          "url": "https://open.spotify.com/artist/4wMfqR1EZagrSlYndItxGQ"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205175,
+      "name": "silver girl",
+      "url": "https://open.spotify.com/track/5uQ1aDnrTDrpTVXytOe1TK"
     },
     {
       "album": {
@@ -6772,7 +6808,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 272567,
       "name": "Three Hours",
       "url": "https://open.spotify.com/track/7iGcDYlAdinPkG3zLrtZTX"

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNTlmZmExODNmYjQ0OGRiN2IxYThjNjU5OGM4ZTYxYjk4YzkyNDAz",
+  "snapshot_id": "MCwyY2Q5N2ExOTY1NDM4NTI2ZTA3N2QwNTI3M2MzMzI2NjJjYjRhZDlm",
   "tracks": [
     {
       "added_at": "2020-11-10 18:47:22",
@@ -311,22 +311,6 @@
     {
       "added_at": "2020-11-10 18:47:22",
       "album": {
-        "name": "Brasil Bossa Nova Grandes Autores Vinicius Toquinho Tom Jobin",
-        "url": "https://open.spotify.com/album/7iFtBoq7mSSnMKWoePFOpG"
-      },
-      "artists": [
-        {
-          "name": "Paula Sergio",
-          "url": "https://open.spotify.com/artist/6P4y8CZPgk4uB6UlJV5uwS"
-        }
-      ],
-      "duration_ms": 150613,
-      "name": "Garota de Ipanema",
-      "url": "https://open.spotify.com/track/7CzWvXHsAFAJeXAEHNXRdf"
-    },
-    {
-      "added_at": "2020-11-10 18:47:22",
-      "album": {
         "name": "Tim Maia 1973",
         "url": "https://open.spotify.com/album/6gK1Uf1uZolqGBibGaW5qK"
       },
@@ -339,6 +323,22 @@
       "duration_ms": 217604,
       "name": "R\u00e9u Confesso",
       "url": "https://open.spotify.com/track/3BpiaGyTIb7VIoAYbvSzTH"
+    },
+    {
+      "added_at": "2020-11-10 18:47:22",
+      "album": {
+        "name": "Brasil Bossa Nova Grandes Autores Vinicius Toquinho Tom Jobin",
+        "url": "https://open.spotify.com/album/7iFtBoq7mSSnMKWoePFOpG"
+      },
+      "artists": [
+        {
+          "name": "Paula Sergio",
+          "url": "https://open.spotify.com/artist/6P4y8CZPgk4uB6UlJV5uwS"
+        }
+      ],
+      "duration_ms": 150613,
+      "name": "Garota de Ipanema",
+      "url": "https://open.spotify.com/track/7CzWvXHsAFAJeXAEHNXRdf"
     },
     {
       "added_at": "2020-11-10 18:47:22",
@@ -631,6 +631,22 @@
     {
       "added_at": "2020-11-10 18:47:22",
       "album": {
+        "name": "The Best of Dandy Livingstone",
+        "url": "https://open.spotify.com/album/1dTWKqQJuXoR4u9Kqjkrj3"
+      },
+      "artists": [
+        {
+          "name": "Dandy Livingstone",
+          "url": "https://open.spotify.com/artist/2kV3Q07NlB0i9taIpo2KyF"
+        }
+      ],
+      "duration_ms": 162466,
+      "name": "Rudy, a Message to You",
+      "url": "https://open.spotify.com/track/4gukGozFOurNmDXZzgQHaP"
+    },
+    {
+      "added_at": "2020-11-10 18:47:22",
+      "album": {
         "name": "Jazz Samba Encore!",
         "url": "https://open.spotify.com/album/1JDkIxq4xRW7ySH89sGflc"
       },
@@ -675,6 +691,22 @@
     {
       "added_at": "2020-11-10 18:47:22",
       "album": {
+        "name": "Jorge Ben",
+        "url": "https://open.spotify.com/album/3V3XJ3Sh62jPUYUMSQ1Tsf"
+      },
+      "artists": [
+        {
+          "name": "Jorge Ben Jor",
+          "url": "https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit"
+        }
+      ],
+      "duration_ms": 155666,
+      "name": "Take It Easy My Brother Charles",
+      "url": "https://open.spotify.com/track/399Hm1oqfzzQaZRu3CtVMb"
+    },
+    {
+      "added_at": "2020-11-10 18:47:22",
+      "album": {
         "name": "Endangered Species (Bonus Edition)",
         "url": "https://open.spotify.com/album/37XWqnkktzlWXa5JGp7zF3"
       },
@@ -699,22 +731,6 @@
     {
       "added_at": "2020-11-10 18:47:22",
       "album": {
-        "name": "Jorge Ben",
-        "url": "https://open.spotify.com/album/3V3XJ3Sh62jPUYUMSQ1Tsf"
-      },
-      "artists": [
-        {
-          "name": "Jorge Ben Jor",
-          "url": "https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit"
-        }
-      ],
-      "duration_ms": 155666,
-      "name": "Take It Easy My Brother Charles",
-      "url": "https://open.spotify.com/track/399Hm1oqfzzQaZRu3CtVMb"
-    },
-    {
-      "added_at": "2020-11-10 18:47:22",
-      "album": {
         "name": "30 Greatest Hits: Portrait of a Legend 1951-1964",
         "url": "https://open.spotify.com/album/4jiO2jRz7g50ESvYYKsKwZ"
       },
@@ -727,22 +743,6 @@
       "duration_ms": 165280,
       "name": "Bring It On Home To Me",
       "url": "https://open.spotify.com/track/4yjz1aazw6R8ZURpGbCAkp"
-    },
-    {
-      "added_at": "2020-11-10 18:47:22",
-      "album": {
-        "name": "The Best of Dandy Livingstone",
-        "url": "https://open.spotify.com/album/1dTWKqQJuXoR4u9Kqjkrj3"
-      },
-      "artists": [
-        {
-          "name": "Dandy Livingstone",
-          "url": "https://open.spotify.com/artist/2kV3Q07NlB0i9taIpo2KyF"
-        }
-      ],
-      "duration_ms": 162466,
-      "name": "Rudy, a Message to You",
-      "url": "https://open.spotify.com/track/4gukGozFOurNmDXZzgQHaP"
     },
     {
       "added_at": "2020-11-10 18:47:22",
@@ -827,22 +827,6 @@
     {
       "added_at": "2020-11-10 18:47:22",
       "album": {
-        "name": "Entre Dos Aguas",
-        "url": "https://open.spotify.com/album/0gngm3t4XbkoINeHU4Pc6R"
-      },
-      "artists": [
-        {
-          "name": "Paco de Luc\u00eda",
-          "url": "https://open.spotify.com/artist/3h8OjAdgYXVRoMZ8jFd6Uw"
-        }
-      ],
-      "duration_ms": 362093,
-      "name": "Entre Dos Aguas",
-      "url": "https://open.spotify.com/track/0bV0jAPUTN9xdVcW0nFos2"
-    },
-    {
-      "added_at": "2020-11-10 18:47:22",
-      "album": {
         "name": "Buena Vista Social Club at Carnegie Hall (Live)",
         "url": "https://open.spotify.com/album/4lsvzkvzZqKJQsfjLV76RR"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 227760,
       "name": "Quiz\u00e1s, Quiz\u00e1s (Live)",
       "url": "https://open.spotify.com/track/78JVMoMUJw2zyeswgHKfrP"
+    },
+    {
+      "added_at": "2020-11-10 18:47:22",
+      "album": {
+        "name": "Entre Dos Aguas",
+        "url": "https://open.spotify.com/album/0gngm3t4XbkoINeHU4Pc6R"
+      },
+      "artists": [
+        {
+          "name": "Paco de Luc\u00eda",
+          "url": "https://open.spotify.com/artist/3h8OjAdgYXVRoMZ8jFd6Uw"
+        }
+      ],
+      "duration_ms": 362093,
+      "name": "Entre Dos Aguas",
+      "url": "https://open.spotify.com/track/0bV0jAPUTN9xdVcW0nFos2"
     },
     {
       "added_at": "2020-11-10 18:47:22",
@@ -1143,38 +1143,18 @@
     {
       "added_at": "2020-11-10 18:47:22",
       "album": {
-        "name": "Qu\u00e9 Ch\u00e9vere, Vol. 2",
-        "url": "https://open.spotify.com/album/7kwDYvYAr3mh2HjR00DCDU"
+        "name": "You Can Get It If You Really Want",
+        "url": "https://open.spotify.com/album/2Vp41y8ITDPQv4lEDlc8Gw"
       },
       "artists": [
         {
-          "name": "Rodolfo Aicardi",
-          "url": "https://open.spotify.com/artist/3IUAZiICL3J7GlHYPgT414"
-        },
-        {
-          "name": "La Tipica Ra7",
-          "url": "https://open.spotify.com/artist/0WJbT6T0nkWfYO5zEbUPOG"
+          "name": "Desmond Dekker",
+          "url": "https://open.spotify.com/artist/1FcB6xMihhP9Hb6AdGVbWe"
         }
       ],
-      "duration_ms": 219426,
-      "name": "Que No Quede Huella",
-      "url": "https://open.spotify.com/track/28EWM0qJ09oupIAhNEeLlK"
-    },
-    {
-      "added_at": "2020-11-10 18:47:22",
-      "album": {
-        "name": "Curanderas",
-        "url": "https://open.spotify.com/album/7D0DDG3yg2JAaQHNmAjNAF"
-      },
-      "artists": [
-        {
-          "name": "Kelvis Ochoa",
-          "url": "https://open.spotify.com/artist/3Q2MVC1NWIzEyUytnlFBKm"
-        }
-      ],
-      "duration_ms": 216893,
-      "name": "Una De Mambo",
-      "url": "https://open.spotify.com/track/7hN3hV0zgaqD6g6CYFezpB"
+      "duration_ms": 158320,
+      "name": "You Can Get It If You Really Want",
+      "url": "https://open.spotify.com/track/1Vwvlg5av6Bfp9yjmu05yJ"
     },
     {
       "added_at": "2020-11-10 18:47:22",
@@ -1195,18 +1175,38 @@
     {
       "added_at": "2020-11-10 18:47:22",
       "album": {
-        "name": "You Can Get It If You Really Want",
-        "url": "https://open.spotify.com/album/2Vp41y8ITDPQv4lEDlc8Gw"
+        "name": "Curanderas",
+        "url": "https://open.spotify.com/album/7D0DDG3yg2JAaQHNmAjNAF"
       },
       "artists": [
         {
-          "name": "Desmond Dekker",
-          "url": "https://open.spotify.com/artist/1FcB6xMihhP9Hb6AdGVbWe"
+          "name": "Kelvis Ochoa",
+          "url": "https://open.spotify.com/artist/3Q2MVC1NWIzEyUytnlFBKm"
         }
       ],
-      "duration_ms": 158320,
-      "name": "You Can Get It If You Really Want",
-      "url": "https://open.spotify.com/track/1Vwvlg5av6Bfp9yjmu05yJ"
+      "duration_ms": 216893,
+      "name": "Una De Mambo",
+      "url": "https://open.spotify.com/track/7hN3hV0zgaqD6g6CYFezpB"
+    },
+    {
+      "added_at": "2020-11-10 18:47:22",
+      "album": {
+        "name": "Qu\u00e9 Ch\u00e9vere, Vol. 2",
+        "url": "https://open.spotify.com/album/7kwDYvYAr3mh2HjR00DCDU"
+      },
+      "artists": [
+        {
+          "name": "Rodolfo Aicardi",
+          "url": "https://open.spotify.com/artist/3IUAZiICL3J7GlHYPgT414"
+        },
+        {
+          "name": "La Tipica Ra7",
+          "url": "https://open.spotify.com/artist/0WJbT6T0nkWfYO5zEbUPOG"
+        }
+      ],
+      "duration_ms": 219426,
+      "name": "Que No Quede Huella",
+      "url": "https://open.spotify.com/track/28EWM0qJ09oupIAhNEeLlK"
     },
     {
       "added_at": "2020-11-10 18:47:22",

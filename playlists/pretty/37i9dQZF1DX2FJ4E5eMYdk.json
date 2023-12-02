@@ -1,12 +1,12 @@
 {
   "description": "groovy.",
-  "num_followers": 155893,
+  "num_followers": 155925,
   "original_name": "Psych & Groove",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0Y2FkZWU4MjE2MWUzOWVjZDlhM2ZmM2ZiOTA4ZTMyODAzYWM1Yjc5",
+  "snapshot_id": "MCw0M2U0MmYwNjkzMmY2MGUxOGI1ZTJkNGJlNjkwZDEwMGY4NWM1ODU2",
   "tracks": [
     {
       "added_at": "2023-09-29 04:00:00",
@@ -475,6 +475,22 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
+        "name": "This Is A Photograph",
+        "url": "https://open.spotify.com/album/6NMzokKOYpPO9VXDjmc5y6"
+      },
+      "artists": [
+        {
+          "name": "Kevin Morby",
+          "url": "https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF"
+        }
+      ],
+      "duration_ms": 164245,
+      "name": "Rock Bottom",
+      "url": "https://open.spotify.com/track/17ctpmqT0N9hGhXWWvOob5"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
         "name": "Liz Cooper & the Stampede | Audiotree Far Out",
         "url": "https://open.spotify.com/album/1EjCdmwjYApHKhSRmaXSpR"
       },
@@ -491,22 +507,6 @@
       "duration_ms": 331879,
       "name": "Motions - Far Out Version",
       "url": "https://open.spotify.com/track/3An6qpudDbeAHGDyFUVrUB"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
-        "name": "This Is A Photograph",
-        "url": "https://open.spotify.com/album/6NMzokKOYpPO9VXDjmc5y6"
-      },
-      "artists": [
-        {
-          "name": "Kevin Morby",
-          "url": "https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF"
-        }
-      ],
-      "duration_ms": 164245,
-      "name": "Rock Bottom",
-      "url": "https://open.spotify.com/track/17ctpmqT0N9hGhXWWvOob5"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -735,6 +735,22 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
+        "name": "SongBook",
+        "url": "https://open.spotify.com/album/1w73ipVNe04ERHc8bwEQG0"
+      },
+      "artists": [
+        {
+          "name": "The Lazy Eyes",
+          "url": "https://open.spotify.com/artist/5ZCOgPpZNvlJEBnUZnDqW8"
+        }
+      ],
+      "duration_ms": 140164,
+      "name": "Hippo",
+      "url": "https://open.spotify.com/track/1suoH2qGw6E4wzG3T0JIIA"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
         "name": "Jamtown",
         "url": "https://open.spotify.com/album/4AT0jvWKpqejzojMxPHZvL"
       },
@@ -763,22 +779,6 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "SongBook",
-        "url": "https://open.spotify.com/album/1w73ipVNe04ERHc8bwEQG0"
-      },
-      "artists": [
-        {
-          "name": "The Lazy Eyes",
-          "url": "https://open.spotify.com/artist/5ZCOgPpZNvlJEBnUZnDqW8"
-        }
-      ],
-      "duration_ms": 140164,
-      "name": "Hippo",
-      "url": "https://open.spotify.com/track/1suoH2qGw6E4wzG3T0JIIA"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
         "name": "Flying Wig",
         "url": "https://open.spotify.com/album/1UGDY2YCY9kG8wMiafmTrm"
       },
@@ -791,22 +791,6 @@
       "duration_ms": 291664,
       "name": "Fireflies",
       "url": "https://open.spotify.com/track/2IvIUND7ZGjPftDyOYAWJ9"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
-        "name": "Oh My God",
-        "url": "https://open.spotify.com/album/0iLJfkAoeTd3BSj9IguASU"
-      },
-      "artists": [
-        {
-          "name": "Kevin Morby",
-          "url": "https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF"
-        }
-      ],
-      "duration_ms": 262542,
-      "name": "Sing a Glad Song",
-      "url": "https://open.spotify.com/track/0NvChpeglptzoEUB7jmcvz"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -827,18 +811,34 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "It Came to Me",
-        "url": "https://open.spotify.com/album/6RaF1MxbjvBteIflXzSvt4"
+        "name": "Automechanic",
+        "url": "https://open.spotify.com/album/1pfjL9bWfGdlnWUvkxwePA"
       },
       "artists": [
         {
-          "name": "The Barr Brothers",
-          "url": "https://open.spotify.com/artist/4OyRutd80DZC22C4pl63l7"
+          "name": "Jenny O.",
+          "url": "https://open.spotify.com/artist/6zVybwDdah9DCynv4QOhU0"
         }
       ],
-      "duration_ms": 261986,
-      "name": "It Came to Me",
-      "url": "https://open.spotify.com/track/1wSTaoEcGPZy9osC25kn0m"
+      "duration_ms": 228253,
+      "name": "Automechanic",
+      "url": "https://open.spotify.com/track/2olbQTZqVPYON832yjCQuF"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
+        "name": "Oh My God",
+        "url": "https://open.spotify.com/album/0iLJfkAoeTd3BSj9IguASU"
+      },
+      "artists": [
+        {
+          "name": "Kevin Morby",
+          "url": "https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF"
+        }
+      ],
+      "duration_ms": 262542,
+      "name": "Sing a Glad Song",
+      "url": "https://open.spotify.com/track/0NvChpeglptzoEUB7jmcvz"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -859,18 +859,18 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "Automechanic",
-        "url": "https://open.spotify.com/album/1pfjL9bWfGdlnWUvkxwePA"
+        "name": "It Came to Me",
+        "url": "https://open.spotify.com/album/6RaF1MxbjvBteIflXzSvt4"
       },
       "artists": [
         {
-          "name": "Jenny O.",
-          "url": "https://open.spotify.com/artist/6zVybwDdah9DCynv4QOhU0"
+          "name": "The Barr Brothers",
+          "url": "https://open.spotify.com/artist/4OyRutd80DZC22C4pl63l7"
         }
       ],
-      "duration_ms": 228253,
-      "name": "Automechanic",
-      "url": "https://open.spotify.com/track/2olbQTZqVPYON832yjCQuF"
+      "duration_ms": 261986,
+      "name": "It Came to Me",
+      "url": "https://open.spotify.com/track/1wSTaoEcGPZy9osC25kn0m"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -939,6 +939,22 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
+        "name": "History Of A Feeling",
+        "url": "https://open.spotify.com/album/0bx5hbIbfqvl6XmqTiGvkt"
+      },
+      "artists": [
+        {
+          "name": "Madi Diaz",
+          "url": "https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az"
+        }
+      ],
+      "duration_ms": 166453,
+      "name": "Nervous",
+      "url": "https://open.spotify.com/track/0qvyXZivJalmoO6iJpPg56"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
         "name": "Banshee",
         "url": "https://open.spotify.com/album/31UJBB7T1tlLwqEXSjrUCt"
       },
@@ -967,22 +983,6 @@
       "duration_ms": 218964,
       "name": "Far out Feeling",
       "url": "https://open.spotify.com/track/7cXOCT8IbMLFXiCeRExTJ6"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
-        "name": "History Of A Feeling",
-        "url": "https://open.spotify.com/album/0bx5hbIbfqvl6XmqTiGvkt"
-      },
-      "artists": [
-        {
-          "name": "Madi Diaz",
-          "url": "https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az"
-        }
-      ],
-      "duration_ms": 166453,
-      "name": "Nervous",
-      "url": "https://open.spotify.com/track/0qvyXZivJalmoO6iJpPg56"
     },
     {
       "added_at": "2023-09-29 04:00:00",

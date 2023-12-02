@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1MmXcTuWbvBApvUMIgxDhV.md) - [plain]
 
 > 
 
-[Dave Barnes](https://open.spotify.com/user/thedavebarnes) - 6,555 likes - 83 songs - 4 hr 50 min
+[Dave Barnes](https://open.spotify.com/user/thedavebarnes) - 6,559 likes - 83 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "All <a href=\"spotify:genre:bass\">wobble</a>. Cover: PEEKABOO",
+  "description": "All <a href=\"spotify:genre:bass\">wobble</a>. Cover: BARELY ALIVE",
   "name": "Dubstep Don",
   "tracks": [
     {
@@ -2505,6 +2505,28 @@
     },
     {
       "album": {
+        "name": "Don't You Dare Go Hollow",
+        "url": "https://open.spotify.com/album/1Hhc7Xf30VgmsLaRuyMGWY"
+      },
+      "artists": [
+        {
+          "name": "SVDDEN DEATH",
+          "url": "https://open.spotify.com/artist/2u01kCKA5wDvvztuH8lyT0"
+        },
+        {
+          "name": "HVDES",
+          "url": "https://open.spotify.com/artist/3koHmmPvpgZWHcVmK8AKDq"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225857,
+      "name": "Don't You Dare Go Hollow",
+      "url": "https://open.spotify.com/track/26TKv9T50hSeZUi995fg5x"
+    },
+    {
+      "album": {
         "name": "Don\u2019t Look Down (feat. Linney)",
         "url": "https://open.spotify.com/album/2cPDBEbEqCBsm9I2cxL9jj"
       },
@@ -3106,7 +3128,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 178758,
       "name": "Feedback",
       "url": "https://open.spotify.com/track/7ejEHmuauEs9xcqSGlcwXL"
@@ -4398,7 +4420,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 182896,
       "name": "I Like It When You Move",
       "url": "https://open.spotify.com/track/3LSzSHeK2RdMiznjXVTqJ2"
@@ -4628,7 +4650,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 188800,
       "name": "It's Our Destiny - Subtronics Remix",
       "url": "https://open.spotify.com/track/0LOxlFQcKkdyWCva7Ron5M"
@@ -4882,7 +4904,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 153600,
       "name": "King Mathematics",
       "url": "https://open.spotify.com/track/5Io5ZJw8KIFQb6E0paDhXY"
@@ -7083,6 +7105,24 @@
     },
     {
       "album": {
+        "name": "Redemption",
+        "url": "https://open.spotify.com/album/5F9fnBnigjsoo1ymn2Nnkj"
+      },
+      "artists": [
+        {
+          "name": "RIOT",
+          "url": "https://open.spotify.com/artist/0qPGd8tOMHlFZt8EA1uLFY"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228800,
+      "name": "Redemption",
+      "url": "https://open.spotify.com/track/4Xo0c4AtfUUuprVEKzyNYW"
+    },
+    {
+      "album": {
         "name": "Simulation",
         "url": "https://open.spotify.com/album/5iS3iVP4mj29YqqsdiAP3I"
       },
@@ -8191,6 +8231,28 @@
     },
     {
       "album": {
+        "name": "Casket Case",
+        "url": "https://open.spotify.com/album/0LAEzwovvTyF4o8s08G8uS"
+      },
+      "artists": [
+        {
+          "name": "BARELY ALIVE",
+          "url": "https://open.spotify.com/artist/5c3akKV3CUqAVOnGZqf4S3"
+        },
+        {
+          "name": "beastboi.",
+          "url": "https://open.spotify.com/artist/0e87rlA12iAl7kIonLl2e4"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148965,
+      "name": "Sky High",
+      "url": "https://open.spotify.com/track/4nQk7L78PXHHgrUxUqr5WA"
+    },
+    {
+      "album": {
         "name": "Sleep (with Calcium)",
         "url": "https://open.spotify.com/album/3U2klaDh13JHc5jP2uW4Y6"
       },
@@ -8268,6 +8330,28 @@
       "duration_ms": 208551,
       "name": "Someone Else",
       "url": "https://open.spotify.com/track/5bYBWSSkQF9QO0vSAbK3Cm"
+    },
+    {
+      "album": {
+        "name": "Overthrown (The Thrones of Blood Remix Album)",
+        "url": "https://open.spotify.com/album/0uX6vlfx2rgxUX5cCZ1eXE"
+      },
+      "artists": [
+        {
+          "name": "Sullivan King",
+          "url": "https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e"
+        },
+        {
+          "name": "Blanke",
+          "url": "https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266482,
+      "name": "Someone Else - Blanke Remix",
+      "url": "https://open.spotify.com/track/4ht1wtZBmlyLAVDivgVYok"
     },
     {
       "album": {
@@ -8997,6 +9081,28 @@
     },
     {
       "album": {
+        "name": "Tekno Music",
+        "url": "https://open.spotify.com/album/4v5KqMr3m9Q3g8PGl9FvlX"
+      },
+      "artists": [
+        {
+          "name": "Riot Ten",
+          "url": "https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ"
+        },
+        {
+          "name": "Emorfik",
+          "url": "https://open.spotify.com/artist/34bGTqa9HJUnf14IOHt6pc"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197142,
+      "name": "Tekno Music",
+      "url": "https://open.spotify.com/track/28lZSKBhkzduEmBQQPy4PV"
+    },
+    {
+      "album": {
         "name": "Tell Me Why",
         "url": "https://open.spotify.com/album/307NaDYAnzReoOlpGLQwMz"
       },
@@ -9070,7 +9176,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 153600,
       "name": "The Epic",
       "url": "https://open.spotify.com/track/0AhFGeVzLGn3VaPplKhSKZ"
@@ -9471,6 +9577,24 @@
     },
     {
       "album": {
+        "name": "TOO TURNT",
+        "url": "https://open.spotify.com/album/67KI2a4zwHPxYxuvbIyOgn"
+      },
+      "artists": [
+        {
+          "name": "beastboi.",
+          "url": "https://open.spotify.com/artist/0e87rlA12iAl7kIonLl2e4"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223098,
+      "name": "TOO TURNT",
+      "url": "https://open.spotify.com/track/0HiMqVWdNGaeAD3duhbQYt"
+    },
+    {
+      "album": {
         "name": "Transmutation Sequence",
         "url": "https://open.spotify.com/album/6FNph2s6ByZVyqWhmUkSVk"
       },
@@ -9562,7 +9686,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 186206,
       "name": "Turn The Tide",
       "url": "https://open.spotify.com/track/7r5s7HP6dJvcQjYrb0ZsoK"
@@ -9610,6 +9734,28 @@
       "duration_ms": 217600,
       "name": "UMBRA",
       "url": "https://open.spotify.com/track/4g3o3KScQl3MVW8THLDBVQ"
+    },
+    {
+      "album": {
+        "name": "Undaground",
+        "url": "https://open.spotify.com/album/4RfXLjT5qFM1WRbzPd3oaW"
+      },
+      "artists": [
+        {
+          "name": "Bear Grillz",
+          "url": "https://open.spotify.com/artist/04vdWVjgi45nrMAxeCEVQe"
+        },
+        {
+          "name": "Drinkurwater",
+          "url": "https://open.spotify.com/artist/4P4PUC5CstzTajr5dhwQZk"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161280,
+      "name": "Undaground",
+      "url": "https://open.spotify.com/track/5utbHoL1W47GeoQfNXK7J9"
     },
     {
       "album": {
@@ -9718,7 +9864,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 195428,
       "name": "Voices",
       "url": "https://open.spotify.com/track/74xGI2SshPv14Rg0kOiyRv"

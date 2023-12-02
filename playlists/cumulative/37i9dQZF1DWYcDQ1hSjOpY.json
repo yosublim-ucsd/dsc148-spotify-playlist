@@ -3523,6 +3523,24 @@
     },
     {
       "album": {
+        "name": "Hidden Surfaces",
+        "url": "https://open.spotify.com/album/3gI7th38cfdMF9Olco2BhS"
+      },
+      "artists": [
+        {
+          "name": "An Valsa",
+          "url": "https://open.spotify.com/artist/6HewoxUySYf1z3cY1Vzigr"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182013,
+      "name": "Hidden Surfaces",
+      "url": "https://open.spotify.com/track/1LEHnycNFavMZbrUz8PGAB"
+    },
+    {
+      "album": {
         "name": "Hiemal",
         "url": "https://open.spotify.com/album/7oKLhCmpADNtLE1j2v8f3i"
       },
@@ -4240,6 +4258,24 @@
       "duration_ms": 150000,
       "name": "Liberation",
       "url": "https://open.spotify.com/track/2S8zzsvlurouRcb7zbJOz1"
+    },
+    {
+      "album": {
+        "name": "Life Of Hope",
+        "url": "https://open.spotify.com/album/7ze9mIu9aM6SAsMI7ogOA0"
+      },
+      "artists": [
+        {
+          "name": "Leo Mano",
+          "url": "https://open.spotify.com/artist/1x9ObNWFFnva8uRVSFdvTM"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173728,
+      "name": "Life Of Hope",
+      "url": "https://open.spotify.com/track/1ZAODInOBbfSiuSQlWtFos"
     },
     {
       "album": {

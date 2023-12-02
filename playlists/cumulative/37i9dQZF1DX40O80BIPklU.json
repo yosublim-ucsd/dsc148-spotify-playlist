@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Nuestro hip-hop se escribe con \u00d1, aqu\u00ed los que dominan el\u00a0juego de las rimas. Yoss Bones y Dharius en portada. ",
+  "description": "Nuestro hip-hop se escribe con \u00d1, aqu\u00ed los que dominan el\u00a0juego de las rimas. Alcolirykos en portada. ",
   "name": "Rap en Espa\u00f1ol",
   "tracks": [
     {
@@ -743,6 +743,64 @@
     },
     {
       "album": {
+        "name": "Bendecidos",
+        "url": "https://open.spotify.com/album/4UoVuTXXewpiz2fJWiosZH"
+      },
+      "artists": [
+        {
+          "name": "Akapellah",
+          "url": "https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym"
+        },
+        {
+          "name": "Canserbero",
+          "url": "https://open.spotify.com/artist/1wGIhYkKWSq4yACtTkCkSX"
+        },
+        {
+          "name": "Santa Suerte",
+          "url": "https://open.spotify.com/artist/1eblaVtbXUDGr90qMXfqAa"
+        },
+        {
+          "name": "Alem\u00e1n",
+          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
+        },
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        },
+        {
+          "name": "Al2 El Aldeano",
+          "url": "https://open.spotify.com/artist/6lYSDSFhJyUV6CtNix2fBA"
+        },
+        {
+          "name": "Kase.O",
+          "url": "https://open.spotify.com/artist/7GmXwGXJSsmWTkCyk5Twux"
+        },
+        {
+          "name": "Foyone",
+          "url": "https://open.spotify.com/artist/1F2erLLqRHbaFvEYHeVIHJ"
+        },
+        {
+          "name": "To\u00f1o Lizarraga",
+          "url": "https://open.spotify.com/artist/58kEJAbZ1Knbo4UI2phUQv"
+        },
+        {
+          "name": "Solitario Mondragon",
+          "url": "https://open.spotify.com/artist/4KXpp5lz2MakNFcTszi2B9"
+        },
+        {
+          "name": "Norick",
+          "url": "https://open.spotify.com/artist/6QpEp4wXCGHehb8OeyqUDo"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 527000,
+      "name": "Bendecidos",
+      "url": "https://open.spotify.com/track/2QEkingmea3KHdvw0dy9K3"
+    },
+    {
+      "album": {
         "name": "Bendici\u00f3n o Desgracia",
         "url": "https://open.spotify.com/album/67tBFPuqAgfDiMe2ee0gA3"
       },
@@ -1352,7 +1410,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 195555,
       "name": "De Todo Un Poco",
       "url": "https://open.spotify.com/track/19ucvAFRVyPIf093e7ArrR"
@@ -1414,6 +1472,24 @@
       "duration_ms": 212636,
       "name": "Despu\u00e9s de Antes",
       "url": "https://open.spotify.com/track/1X0NmncUIFrmGxQzInjr3I"
+    },
+    {
+      "album": {
+        "name": "Detr\u00e1s De C\u00e1maras",
+        "url": "https://open.spotify.com/album/7zBMH6a1YSvK83JNTYPLhi"
+      },
+      "artists": [
+        {
+          "name": "Aczino",
+          "url": "https://open.spotify.com/artist/4r1ZDYKzPt3iIjuq8LbT6X"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204200,
+      "name": "Detr\u00e1s De C\u00e1maras",
+      "url": "https://open.spotify.com/track/0czchxjdPJBzRv6BBQajqH"
     },
     {
       "album": {
@@ -1596,7 +1672,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 216000,
       "name": "El Mundo Es M\u00edo",
       "url": "https://open.spotify.com/track/6xpBiLizBvv1F54QT14er9"
@@ -2278,7 +2354,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 227000,
       "name": "JOSEAR",
       "url": "https://open.spotify.com/track/0kqVbc8GrAUQo6zAee7CP1"
@@ -3301,6 +3377,28 @@
     },
     {
       "album": {
+        "name": "Medellificaci\u00f3n",
+        "url": "https://open.spotify.com/album/6EOAPxFmNwLMaJ6aPmfwsP"
+      },
+      "artists": [
+        {
+          "name": "Alcolirykoz",
+          "url": "https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D"
+        },
+        {
+          "name": "Jeronimo",
+          "url": "https://open.spotify.com/artist/1GL3jFkc6YUeQGseYHS1hC"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232000,
+      "name": "Medellificaci\u00f3n",
+      "url": "https://open.spotify.com/track/00jmSvshmJtTF8m3tc7xit"
+    },
+    {
+      "album": {
         "name": "Medicina Fina",
         "url": "https://open.spotify.com/album/2TWt9tQmmxkBDxkv8XHHjC"
       },
@@ -3486,7 +3584,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 196243,
       "name": "Mitolo G's",
       "url": "https://open.spotify.com/track/1TSK9oQ4O9eltqaYDRaVJM"
@@ -4919,6 +5017,28 @@
     },
     {
       "album": {
+        "name": "Suena El Bajo",
+        "url": "https://open.spotify.com/album/4kOzvLDpRWFQtwyj1tEBIP"
+      },
+      "artists": [
+        {
+          "name": "Casper Magico",
+          "url": "https://open.spotify.com/artist/1fux65HMCBvfJHqlBc4Nno"
+        },
+        {
+          "name": "Brray",
+          "url": "https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194968,
+      "name": "Suena el Bajo",
+      "url": "https://open.spotify.com/track/0BZPshjB0SXlplST6GzpG2"
+    },
+    {
+      "album": {
         "name": "Socios II",
         "url": "https://open.spotify.com/album/61RLppWoLAO4mG3xBRAOEi"
       },
@@ -5450,7 +5570,7 @@
       ],
       "date_added": "2022-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 295936,
       "name": "Uzumaki",
       "url": "https://open.spotify.com/track/5eO9DgpkoSm2k9eOkI14Xg"
@@ -5498,6 +5618,24 @@
       "duration_ms": 180515,
       "name": "Vibrando en Alto",
       "url": "https://open.spotify.com/track/0HoLCZ3G0dbGqtmlmnIMhw"
+    },
+    {
+      "album": {
+        "name": "VICE CITY",
+        "url": "https://open.spotify.com/album/6viR5WVsPcynrX5HzbMnCM"
+      },
+      "artists": [
+        {
+          "name": "Crazy Point",
+          "url": "https://open.spotify.com/artist/5PUdPz2UyFQzWlBLYp0HOb"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208968,
+      "name": "VICE CITY",
+      "url": "https://open.spotify.com/track/1yGmlc8rsoRrKd9CrbgBRF"
     },
     {
       "album": {

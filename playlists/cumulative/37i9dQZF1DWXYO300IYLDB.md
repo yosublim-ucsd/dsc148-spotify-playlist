@@ -4,7 +4,7 @@
 
 > アコースティック・メロディーズ。ゆったりとしたアコースティックサウンドと共に、爽やかな1日を迎えませんか？
 
-337 songs - 20 hr 11 min
+338 songs - 20 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -190,7 +190,8 @@
 | [Medusa \(Stone\) \- Acoustic](https://open.spotify.com/track/0saWZuvhmPFTE69IRhqb5i) | [Theory of a Deadman](https://open.spotify.com/artist/74eX4C98E4FCrAMl39qRsJ) | [Medusa \(Stone\) \[Acoustic\]](https://open.spotify.com/album/4nZTqKru5gHWB5n41ZH8lc) | 3:41 | 2023-10-24 |  |
 | [Meltdown \- Acoustic](https://open.spotify.com/track/73FSsylmR8pD3q4PVGmOqc) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Meltdown \(Acoustic\)](https://open.spotify.com/album/4WnJjgV05k7SlsFI4u7mEK) | 3:44 | 2023-05-18 | 2023-06-23 |
 | [Middle of the Morning](https://open.spotify.com/track/0DYIKbIhf2XwWchqSqTc5D) | [Jason Isbell and the 400 Unit](https://open.spotify.com/artist/3Lg3FGwBxOGuefqekQzRUf) | [Middle of the Morning](https://open.spotify.com/album/72GOjmgEWNgOTQ59TpIAYb) | 4:40 | 2023-03-30 | 2023-06-30 |
-| [Milk & Honey](https://open.spotify.com/track/0KCmXW5HH4pqNHRMHiAVou) | [Hollow Coves](https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6) | [Milk & Honey](https://open.spotify.com/album/1KUlIZ2aYZpircoQqXpqIg) | 3:52 | 2023-11-30 |  |
+| [Milk & Honey](https://open.spotify.com/track/0LbRbiN6RTRzxTvmmjfeCg) | [Hollow Coves](https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6) | [Milk & Honey](https://open.spotify.com/album/00qsnkOHVr38BOpUOTmmCN) | 3:51 | 2023-11-30 |  |
+| [Milk & Honey](https://open.spotify.com/track/0KCmXW5HH4pqNHRMHiAVou) | [Hollow Coves](https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6) | [Milk & Honey](https://open.spotify.com/album/1KUlIZ2aYZpircoQqXpqIg) | 3:52 | 2023-11-30 | 2023-12-02 |
 | [Milk tea](https://open.spotify.com/track/6AA62UWsygs2OxTXdRd5Nz) | [ReN](https://open.spotify.com/artist/22wa94PJF9zyFJMTp2BYus) | [Milk tea](https://open.spotify.com/album/0LmrMvBQU257p864XtE9np) | 5:01 | 2023-01-26 | 2023-07-19 |
 | [Millionaire](https://open.spotify.com/track/1kKfYZ3Mpp4sLdUZsLSHFe) | [Juan Wauters](https://open.spotify.com/artist/7CKkZZW3XtnPmqlwaElmoV) | [Wandering Rebel](https://open.spotify.com/album/62UjZaiTdDtv3nbtjTxgj4) | 2:52 | 2023-06-01 | 2023-08-18 |
 | [Mr\. Brightside](https://open.spotify.com/track/6gSXDd3P1nIjuM1v1ZQqi6) | [Bailey Jehl](https://open.spotify.com/artist/3HX0wFvwBn3wbxrtHuEUus) | [Mr\. Brightside](https://open.spotify.com/album/4KawaUrdB0FiEsseoniy3z) | 3:35 | 2022-10-20 | 2022-10-26 |

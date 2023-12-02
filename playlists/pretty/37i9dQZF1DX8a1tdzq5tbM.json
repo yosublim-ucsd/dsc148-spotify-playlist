@@ -1,12 +1,12 @@
 {
   "description": "<a href=\"spotify:genre:edm_dance\">Dance</a> hits from the 90s and 00s!",
-  "num_followers": 1432842,
+  "num_followers": 1433138,
   "original_name": "Dance Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMTI4NmZmOTM4ZjI2YTllMjY4MjJiOWJlMTNiZTBlNDA2NmQ0YjMx",
+  "snapshot_id": "MCwxY2EzZDg3N2U0Mjk4ZWI0MGY2MWE0Njk4M2IwOWU5MDhjYWI4YTE1",
   "tracks": [
     {
       "added_at": "2023-03-22 14:00:00",
@@ -643,6 +643,30 @@
     {
       "added_at": "2023-03-22 14:00:00",
       "album": {
+        "name": "Heaven",
+        "url": "https://open.spotify.com/album/15UjVcCwrMwAEPzAoVrZ55"
+      },
+      "artists": [
+        {
+          "name": "DJ Sammy",
+          "url": "https://open.spotify.com/artist/4z4m1P0iX2nRSPDBEZ8LBT"
+        },
+        {
+          "name": "Yanou",
+          "url": "https://open.spotify.com/artist/5SWX583ExJOL7cv8572Crs"
+        },
+        {
+          "name": "Do",
+          "url": "https://open.spotify.com/artist/7sQECgfT3RtfL0RZWK63Wg"
+        }
+      ],
+      "duration_ms": 235000,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/0KT6DLAELYSbgfUemzwGPX"
+    },
+    {
+      "added_at": "2023-03-22 14:00:00",
+      "album": {
         "name": "Destination Calabria",
         "url": "https://open.spotify.com/album/4sRexfGVnXMBJ1k5RW5WT8"
       },
@@ -715,30 +739,6 @@
       "duration_ms": 228140,
       "name": "Don't Call Me Baby",
       "url": "https://open.spotify.com/track/4fazGt0v2v2zkzddQOcDZD"
-    },
-    {
-      "added_at": "2023-03-22 14:00:00",
-      "album": {
-        "name": "Heaven",
-        "url": "https://open.spotify.com/album/15UjVcCwrMwAEPzAoVrZ55"
-      },
-      "artists": [
-        {
-          "name": "DJ Sammy",
-          "url": "https://open.spotify.com/artist/4z4m1P0iX2nRSPDBEZ8LBT"
-        },
-        {
-          "name": "Yanou",
-          "url": "https://open.spotify.com/artist/5SWX583ExJOL7cv8572Crs"
-        },
-        {
-          "name": "Do",
-          "url": "https://open.spotify.com/artist/7sQECgfT3RtfL0RZWK63Wg"
-        }
-      ],
-      "duration_ms": 235000,
-      "name": "Heaven",
-      "url": "https://open.spotify.com/track/0KT6DLAELYSbgfUemzwGPX"
     },
     {
       "added_at": "2023-03-22 14:00:00",
@@ -827,6 +827,22 @@
     {
       "added_at": "2023-03-22 14:00:00",
       "album": {
+        "name": "Strictly Hardrive",
+        "url": "https://open.spotify.com/album/58gDcsComtrCGQGzSuD031"
+      },
+      "artists": [
+        {
+          "name": "Hardrive",
+          "url": "https://open.spotify.com/artist/0IF4B0ZFCLAbcshTusfEl1"
+        }
+      ],
+      "duration_ms": 392293,
+      "name": "Deep Inside",
+      "url": "https://open.spotify.com/track/1i6KuPV0SnkciFR5yJEbty"
+    },
+    {
+      "added_at": "2023-03-22 14:00:00",
+      "album": {
         "name": "Movements",
         "url": "https://open.spotify.com/album/7thNV4OgQBZTAn81OcoUsQ"
       },
@@ -863,22 +879,6 @@
       "duration_ms": 228493,
       "name": "Starry Eyed Surprise",
       "url": "https://open.spotify.com/track/6A4Kuy7JL0Znab3Skgloiv"
-    },
-    {
-      "added_at": "2023-03-22 14:00:00",
-      "album": {
-        "name": "Strictly Hardrive",
-        "url": "https://open.spotify.com/album/58gDcsComtrCGQGzSuD031"
-      },
-      "artists": [
-        {
-          "name": "Hardrive",
-          "url": "https://open.spotify.com/artist/0IF4B0ZFCLAbcshTusfEl1"
-        }
-      ],
-      "duration_ms": 392293,
-      "name": "Deep Inside",
-      "url": "https://open.spotify.com/track/1i6KuPV0SnkciFR5yJEbty"
     },
     {
       "added_at": "2023-03-22 14:00:00",
@@ -1003,26 +1003,6 @@
     {
       "added_at": "2023-03-22 14:00:00",
       "album": {
-        "name": "Bunkka",
-        "url": "https://open.spotify.com/album/1BQDmCJj6OB3liNY2pU4j3"
-      },
-      "artists": [
-        {
-          "name": "Paul Oakenfold",
-          "url": "https://open.spotify.com/artist/5MO2kbaGGA2a8kL4c9qqHq"
-        },
-        {
-          "name": "Asher D",
-          "url": "https://open.spotify.com/artist/6YHM1vRoDQZuS7GLVx7qVO"
-        }
-      ],
-      "duration_ms": 253933,
-      "name": "Ready Steady Go - Extended Mix",
-      "url": "https://open.spotify.com/track/595nqFsvxhQ6CO2YG65W2D"
-    },
-    {
-      "added_at": "2023-03-22 14:00:00",
-      "album": {
         "name": "Just Be",
         "url": "https://open.spotify.com/album/3E8N6fNnqcOwNwUvALrqZ5"
       },
@@ -1063,22 +1043,22 @@
     {
       "added_at": "2023-03-22 14:00:00",
       "album": {
-        "name": "Missing (Remixes)",
-        "url": "https://open.spotify.com/album/4LDr8TzhxY0Qpyfm1cKNYo"
+        "name": "Bunkka",
+        "url": "https://open.spotify.com/album/1BQDmCJj6OB3liNY2pU4j3"
       },
       "artists": [
         {
-          "name": "Everything But The Girl",
-          "url": "https://open.spotify.com/artist/13ccXrK7AmXb4TddMkE7jy"
+          "name": "Paul Oakenfold",
+          "url": "https://open.spotify.com/artist/5MO2kbaGGA2a8kL4c9qqHq"
         },
         {
-          "name": "Todd Terry",
-          "url": "https://open.spotify.com/artist/3dE92yGWcrboP1kC5SWyqu"
+          "name": "Asher D",
+          "url": "https://open.spotify.com/artist/6YHM1vRoDQZuS7GLVx7qVO"
         }
       ],
-      "duration_ms": 233160,
-      "name": "Missing - Todd Terry Remix Radio Edit",
-      "url": "https://open.spotify.com/track/7HWyA12GJhcn866OJ0QHkt"
+      "duration_ms": 253933,
+      "name": "Ready Steady Go - Extended Mix",
+      "url": "https://open.spotify.com/track/595nqFsvxhQ6CO2YG65W2D"
     },
     {
       "added_at": "2023-03-22 14:00:00",
@@ -1095,6 +1075,26 @@
       "duration_ms": 237386,
       "name": "Move For Me",
       "url": "https://open.spotify.com/track/5KOt1QRD9YQQrrzwLCWuTN"
+    },
+    {
+      "added_at": "2023-03-22 14:00:00",
+      "album": {
+        "name": "Missing (Remixes)",
+        "url": "https://open.spotify.com/album/4LDr8TzhxY0Qpyfm1cKNYo"
+      },
+      "artists": [
+        {
+          "name": "Everything But The Girl",
+          "url": "https://open.spotify.com/artist/13ccXrK7AmXb4TddMkE7jy"
+        },
+        {
+          "name": "Todd Terry",
+          "url": "https://open.spotify.com/artist/3dE92yGWcrboP1kC5SWyqu"
+        }
+      ],
+      "duration_ms": 233160,
+      "name": "Missing - Todd Terry Remix Radio Edit",
+      "url": "https://open.spotify.com/track/7HWyA12GJhcn866OJ0QHkt"
     },
     {
       "added_at": "2023-03-22 14:00:00",
@@ -1459,6 +1459,22 @@
     {
       "added_at": "2023-03-22 14:00:00",
       "album": {
+        "name": "Take Me Away (Into the Night)",
+        "url": "https://open.spotify.com/album/4WB7XNlgLRBQHt0I6cLqIc"
+      },
+      "artists": [
+        {
+          "name": "4 Strings",
+          "url": "https://open.spotify.com/artist/2a0fbijQhcaj1hOFp5b3id"
+        }
+      ],
+      "duration_ms": 191120,
+      "name": "Take Me Away - Vocal Radio Mix",
+      "url": "https://open.spotify.com/track/2iXSGmkft1qLUwxkRolc9U"
+    },
+    {
+      "added_at": "2023-03-22 14:00:00",
+      "album": {
         "name": "Behind",
         "url": "https://open.spotify.com/album/2ERvgVHv284kvtfmYurONA"
       },
@@ -1499,38 +1515,6 @@
     {
       "added_at": "2023-03-22 14:00:00",
       "album": {
-        "name": "Take Me Away (Into the Night)",
-        "url": "https://open.spotify.com/album/4WB7XNlgLRBQHt0I6cLqIc"
-      },
-      "artists": [
-        {
-          "name": "4 Strings",
-          "url": "https://open.spotify.com/artist/2a0fbijQhcaj1hOFp5b3id"
-        }
-      ],
-      "duration_ms": 191120,
-      "name": "Take Me Away - Vocal Radio Mix",
-      "url": "https://open.spotify.com/track/2iXSGmkft1qLUwxkRolc9U"
-    },
-    {
-      "added_at": "2023-03-22 14:00:00",
-      "album": {
-        "name": "Heartbreak",
-        "url": "https://open.spotify.com/album/3Q92oQsZcRengOwU7XrKY7"
-      },
-      "artists": [
-        {
-          "name": "M'Black",
-          "url": "https://open.spotify.com/artist/7lP0OS529IoZa7snkuvt1E"
-        }
-      ],
-      "duration_ms": 221493,
-      "name": "Heartbreak - Radio Edit",
-      "url": "https://open.spotify.com/track/2D7KdXI212C2evy5hh1tI5"
-    },
-    {
-      "added_at": "2023-03-22 14:00:00",
-      "album": {
         "name": "Believer (feat. Wynter Gordon)",
         "url": "https://open.spotify.com/album/0sd07wZssqlLugldAokk6K"
       },
@@ -1547,6 +1531,22 @@
       "duration_ms": 189388,
       "name": "Believer (feat. Wynter Gordon) (Radio Edit)",
       "url": "https://open.spotify.com/track/2tjCwTjbuEc6bXyp9iS08B"
+    },
+    {
+      "added_at": "2023-03-22 14:00:00",
+      "album": {
+        "name": "Heartbreak",
+        "url": "https://open.spotify.com/album/3Q92oQsZcRengOwU7XrKY7"
+      },
+      "artists": [
+        {
+          "name": "M'Black",
+          "url": "https://open.spotify.com/artist/7lP0OS529IoZa7snkuvt1E"
+        }
+      ],
+      "duration_ms": 221493,
+      "name": "Heartbreak - Radio Edit",
+      "url": "https://open.spotify.com/track/2D7KdXI212C2evy5hh1tI5"
     },
     {
       "added_at": "2023-03-22 14:00:00",
@@ -1787,22 +1787,6 @@
     {
       "added_at": "2023-03-22 14:00:00",
       "album": {
-        "name": "Perfect Day",
-        "url": "https://open.spotify.com/album/33PsrSS1xpCUl1kJy39DZV"
-      },
-      "artists": [
-        {
-          "name": "Cascada",
-          "url": "https://open.spotify.com/artist/0N0d3kjwdY2h7UVuTdJGfp"
-        }
-      ],
-      "duration_ms": 168793,
-      "name": "Faded",
-      "url": "https://open.spotify.com/track/6vVBwOqsm2qOhL8ewESBBu"
-    },
-    {
-      "added_at": "2023-03-22 14:00:00",
-      "album": {
         "name": "Strobelite Seduction",
         "url": "https://open.spotify.com/album/3HmqTzRg3Ccs5vUVIlwh3Y"
       },
@@ -1819,22 +1803,18 @@
     {
       "added_at": "2023-03-22 14:00:00",
       "album": {
-        "name": "Shadows",
-        "url": "https://open.spotify.com/album/09Lz1igaXeJcRnyuV4mBnA"
+        "name": "Perfect Day",
+        "url": "https://open.spotify.com/album/33PsrSS1xpCUl1kJy39DZV"
       },
       "artists": [
         {
-          "name": "Those Usual Suspects",
-          "url": "https://open.spotify.com/artist/2z9nslAMP8sKqqFW9aOMK6"
-        },
-        {
-          "name": "Inpetto",
-          "url": "https://open.spotify.com/artist/0WDjOCmlubUVdRozCz46sM"
+          "name": "Cascada",
+          "url": "https://open.spotify.com/artist/0N0d3kjwdY2h7UVuTdJGfp"
         }
       ],
-      "duration_ms": 202066,
-      "name": "Shadows - Inpetto Edit",
-      "url": "https://open.spotify.com/track/2jAbU8zHsqLDxAAgTdDHbE"
+      "duration_ms": 168793,
+      "name": "Faded",
+      "url": "https://open.spotify.com/track/6vVBwOqsm2qOhL8ewESBBu"
     },
     {
       "added_at": "2023-03-22 14:00:00",
@@ -1855,6 +1835,26 @@
       "duration_ms": 435986,
       "name": "Girlfriend - 2008 Remix",
       "url": "https://open.spotify.com/track/04hY9ZE6jatvZjsu1Q9nPc"
+    },
+    {
+      "added_at": "2023-03-22 14:00:00",
+      "album": {
+        "name": "Shadows",
+        "url": "https://open.spotify.com/album/09Lz1igaXeJcRnyuV4mBnA"
+      },
+      "artists": [
+        {
+          "name": "Those Usual Suspects",
+          "url": "https://open.spotify.com/artist/2z9nslAMP8sKqqFW9aOMK6"
+        },
+        {
+          "name": "Inpetto",
+          "url": "https://open.spotify.com/artist/0WDjOCmlubUVdRozCz46sM"
+        }
+      ],
+      "duration_ms": 202066,
+      "name": "Shadows - Inpetto Edit",
+      "url": "https://open.spotify.com/track/2jAbU8zHsqLDxAAgTdDHbE"
     },
     {
       "added_at": "2023-03-22 14:00:00",
@@ -1919,22 +1919,6 @@
     {
       "added_at": "2023-03-22 14:00:00",
       "album": {
-        "name": "Sorry",
-        "url": "https://open.spotify.com/album/6h8Hvfkd68XFk4wT1XO63p"
-      },
-      "artists": [
-        {
-          "name": "Kaskade",
-          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
-        }
-      ],
-      "duration_ms": 211266,
-      "name": "Sorry - Dirty South Radio Edit",
-      "url": "https://open.spotify.com/track/1ZUWw5uRJEjjzTiP3Q4RJX"
-    },
-    {
-      "added_at": "2023-03-22 14:00:00",
-      "album": {
         "name": "Everything (feat. Myah)",
         "url": "https://open.spotify.com/album/4UQ7RwcGBPWvZQL2WzJGI2"
       },
@@ -1995,6 +1979,22 @@
       "duration_ms": 219146,
       "name": "Deep At Night (Adam K & Soha Radio Mix)",
       "url": "https://open.spotify.com/track/4ggVmEvo9FzExPonRRqqIS"
+    },
+    {
+      "added_at": "2023-03-22 14:00:00",
+      "album": {
+        "name": "Sorry",
+        "url": "https://open.spotify.com/album/6h8Hvfkd68XFk4wT1XO63p"
+      },
+      "artists": [
+        {
+          "name": "Kaskade",
+          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
+        }
+      ],
+      "duration_ms": 211266,
+      "name": "Sorry - Dirty South Radio Edit",
+      "url": "https://open.spotify.com/track/1ZUWw5uRJEjjzTiP3Q4RJX"
     },
     {
       "added_at": "2023-03-22 14:00:00",

@@ -509,6 +509,24 @@
     },
     {
       "album": {
+        "name": "Compassion",
+        "url": "https://open.spotify.com/album/1FOn0VvwCxcGzUkjnrbSMP"
+      },
+      "artists": [
+        {
+          "name": "Axel Pacem",
+          "url": "https://open.spotify.com/artist/62RbCNMx3dAEBpaW4ev3iy"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143390,
+      "name": "Compassion",
+      "url": "https://open.spotify.com/track/1JC25MxOFnF1YyV4TpLr6q"
+    },
+    {
+      "album": {
         "name": "Lines of Mauve",
         "url": "https://open.spotify.com/album/3f7SSz5LBqvz1Vqmkffk4V"
       },

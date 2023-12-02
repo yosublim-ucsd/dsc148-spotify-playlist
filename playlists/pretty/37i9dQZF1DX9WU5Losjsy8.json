@@ -1,12 +1,12 @@
 {
   "description": "Skifoan und H\u00fcttenabriss.",
-  "num_followers": 379957,
+  "num_followers": 380143,
   "original_name": "Apr\u00e8s Ski Party 2023",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYTBkY2JkNGM0MzMwMGYzYjA2NzgwOGRkNDY3MzEyYzlhODlmOWUx",
+  "snapshot_id": "MCxhMmI3NGYzZGU3YzU1MjQyNTZiZWFjNDdiMzQ5ODc5OWZkM2E4OGI3",
   "tracks": [
     {
       "added_at": "2023-11-14 09:11:41",
@@ -215,26 +215,6 @@
     {
       "added_at": "2023-11-14 09:11:41",
       "album": {
-        "name": "Ein bisschen Aroma (Stereoact Remix)",
-        "url": "https://open.spotify.com/album/6sD91fTd5gCe5JbnngQmer"
-      },
-      "artists": [
-        {
-          "name": "Roger Whittaker",
-          "url": "https://open.spotify.com/artist/6pgfx4K1p1kT0RewXjmLfk"
-        },
-        {
-          "name": "Stereoact",
-          "url": "https://open.spotify.com/artist/6dXL3SnQlCGX9LCUAyin6a"
-        }
-      ],
-      "duration_ms": 178540,
-      "name": "Ein bisschen Aroma - Stereoact Remix",
-      "url": "https://open.spotify.com/track/38lWlGRELJxyYGLNJvi48e"
-    },
-    {
-      "added_at": "2023-11-14 09:11:41",
-      "album": {
         "name": "Fliesentisch Romantik 2",
         "url": "https://open.spotify.com/album/4I26OoVzDFKeNX0zO2IcDM"
       },
@@ -255,6 +235,26 @@
       "duration_ms": 150413,
       "name": "Easy Peasy",
       "url": "https://open.spotify.com/track/6bW4olKzz8M2BRYNU1ASUi"
+    },
+    {
+      "added_at": "2023-11-14 09:11:41",
+      "album": {
+        "name": "Ein bisschen Aroma (Stereoact Remix)",
+        "url": "https://open.spotify.com/album/6sD91fTd5gCe5JbnngQmer"
+      },
+      "artists": [
+        {
+          "name": "Roger Whittaker",
+          "url": "https://open.spotify.com/artist/6pgfx4K1p1kT0RewXjmLfk"
+        },
+        {
+          "name": "Stereoact",
+          "url": "https://open.spotify.com/artist/6dXL3SnQlCGX9LCUAyin6a"
+        }
+      ],
+      "duration_ms": 178540,
+      "name": "Ein bisschen Aroma - Stereoact Remix",
+      "url": "https://open.spotify.com/track/38lWlGRELJxyYGLNJvi48e"
     },
     {
       "added_at": "2023-11-14 09:11:41",
@@ -415,22 +415,6 @@
     {
       "added_at": "2023-11-14 09:11:41",
       "album": {
-        "name": "Inselfieber",
-        "url": "https://open.spotify.com/album/1tPPkh2N7XXw9NwOKJaNNL"
-      },
-      "artists": [
-        {
-          "name": "Peter Wackel",
-          "url": "https://open.spotify.com/artist/2AkhLtPZf3dPJZRrXqBqXb"
-        }
-      ],
-      "duration_ms": 153956,
-      "name": "Inselfieber",
-      "url": "https://open.spotify.com/track/4aqVi3KlBMbmbbD07MHNFS"
-    },
-    {
-      "added_at": "2023-11-14 09:11:41",
-      "album": {
         "name": "King Kong",
         "url": "https://open.spotify.com/album/4RBDtEQ86Uj6hQ1b31H03n"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 156120,
       "name": "King Kong",
       "url": "https://open.spotify.com/track/7GIlBNE6pZRfoRfo4oL7f0"
+    },
+    {
+      "added_at": "2023-11-14 09:11:41",
+      "album": {
+        "name": "Inselfieber",
+        "url": "https://open.spotify.com/album/1tPPkh2N7XXw9NwOKJaNNL"
+      },
+      "artists": [
+        {
+          "name": "Peter Wackel",
+          "url": "https://open.spotify.com/artist/2AkhLtPZf3dPJZRrXqBqXb"
+        }
+      ],
+      "duration_ms": 153956,
+      "name": "Inselfieber",
+      "url": "https://open.spotify.com/track/4aqVi3KlBMbmbbD07MHNFS"
     },
     {
       "added_at": "2023-11-14 09:11:41",
@@ -503,22 +503,6 @@
     {
       "added_at": "2023-11-14 09:11:41",
       "album": {
-        "name": "Ich schwanke noch",
-        "url": "https://open.spotify.com/album/3RyHanFXbchaHozto8cFJN"
-      },
-      "artists": [
-        {
-          "name": "Ikke H\u00fcftgold",
-          "url": "https://open.spotify.com/artist/2ctUnxn4qlNB9rYMyKJuMf"
-        }
-      ],
-      "duration_ms": 209358,
-      "name": "Ich schwanke noch",
-      "url": "https://open.spotify.com/track/6myefhZIHsPCDloC1iu8KS"
-    },
-    {
-      "added_at": "2023-11-14 09:11:41",
-      "album": {
         "name": "Wir eskalieren",
         "url": "https://open.spotify.com/album/2XgIdJXUCfdSJIbXAglyHA"
       },
@@ -535,6 +519,38 @@
       "duration_ms": 216286,
       "name": "Wir eskalieren",
       "url": "https://open.spotify.com/track/2gxG1d0SZNpJHJFSQlE7Vm"
+    },
+    {
+      "added_at": "2023-11-14 09:11:41",
+      "album": {
+        "name": "Ich schwanke noch",
+        "url": "https://open.spotify.com/album/3RyHanFXbchaHozto8cFJN"
+      },
+      "artists": [
+        {
+          "name": "Ikke H\u00fcftgold",
+          "url": "https://open.spotify.com/artist/2ctUnxn4qlNB9rYMyKJuMf"
+        }
+      ],
+      "duration_ms": 209358,
+      "name": "Ich schwanke noch",
+      "url": "https://open.spotify.com/track/6myefhZIHsPCDloC1iu8KS"
+    },
+    {
+      "added_at": "2023-11-14 09:11:41",
+      "album": {
+        "name": "MDMA",
+        "url": "https://open.spotify.com/album/283DpmSSsjHAafXO5zfd4G"
+      },
+      "artists": [
+        {
+          "name": "Little Sis Nora",
+          "url": "https://open.spotify.com/artist/1KYt3TMGpa1LtVi0m2A0F9"
+        }
+      ],
+      "duration_ms": 128713,
+      "name": "MDMA",
+      "url": "https://open.spotify.com/track/4c1TXKNAh4yb5cb0zE3x1X"
     },
     {
       "added_at": "2023-11-14 09:11:41",
@@ -599,22 +615,6 @@
     {
       "added_at": "2023-11-14 09:11:41",
       "album": {
-        "name": "MDMA",
-        "url": "https://open.spotify.com/album/283DpmSSsjHAafXO5zfd4G"
-      },
-      "artists": [
-        {
-          "name": "Little Sis Nora",
-          "url": "https://open.spotify.com/artist/1KYt3TMGpa1LtVi0m2A0F9"
-        }
-      ],
-      "duration_ms": 128713,
-      "name": "MDMA",
-      "url": "https://open.spotify.com/track/4c1TXKNAh4yb5cb0zE3x1X"
-    },
-    {
-      "added_at": "2023-11-14 09:11:41",
-      "album": {
         "name": "Party Chaos",
         "url": "https://open.spotify.com/album/68DUsll6ui4bYNyvEZmIzS"
       },
@@ -631,26 +631,6 @@
       "duration_ms": 194173,
       "name": "Strobo Pop",
       "url": "https://open.spotify.com/track/0xTsllHxzqwYrsPUcruf72"
-    },
-    {
-      "added_at": "2023-11-14 09:11:41",
-      "album": {
-        "name": "Igel",
-        "url": "https://open.spotify.com/album/6wGn5LhAfZsymA3wVyBWFv"
-      },
-      "artists": [
-        {
-          "name": "Ikke H\u00fcftgold",
-          "url": "https://open.spotify.com/artist/2ctUnxn4qlNB9rYMyKJuMf"
-        },
-        {
-          "name": "Vanessa Mai",
-          "url": "https://open.spotify.com/artist/3WUe8ADT5d65WeByR3ubl7"
-        }
-      ],
-      "duration_ms": 134826,
-      "name": "Igel",
-      "url": "https://open.spotify.com/track/1op1VrGBMP2uuPOMFQ45R3"
     },
     {
       "added_at": "2023-11-14 09:11:41",
@@ -687,22 +667,6 @@
     {
       "added_at": "2023-11-14 09:11:41",
       "album": {
-        "name": "Zeig mir den Platz an der Sonne",
-        "url": "https://open.spotify.com/album/14kHOjiTWRL2gF9Li2jEGg"
-      },
-      "artists": [
-        {
-          "name": "Udo J\u00fcrgens",
-          "url": "https://open.spotify.com/artist/2G0htB8PxlO2onxnIismur"
-        }
-      ],
-      "duration_ms": 244640,
-      "name": "Griechischer Wein",
-      "url": "https://open.spotify.com/track/452WSSzuklpg0w4RKTlkvn"
-    },
-    {
-      "added_at": "2023-11-14 09:11:41",
-      "album": {
         "name": "Das Beste von Geier Sturzflug",
         "url": "https://open.spotify.com/album/54rKvmBRbHPZApexRA7tce"
       },
@@ -715,6 +679,42 @@
       "duration_ms": 182333,
       "name": "Bruttosozialprodukt",
       "url": "https://open.spotify.com/track/7KvP2ZTaarTcejYyR8KWPs"
+    },
+    {
+      "added_at": "2023-11-14 09:11:41",
+      "album": {
+        "name": "Igel",
+        "url": "https://open.spotify.com/album/6wGn5LhAfZsymA3wVyBWFv"
+      },
+      "artists": [
+        {
+          "name": "Ikke H\u00fcftgold",
+          "url": "https://open.spotify.com/artist/2ctUnxn4qlNB9rYMyKJuMf"
+        },
+        {
+          "name": "Vanessa Mai",
+          "url": "https://open.spotify.com/artist/3WUe8ADT5d65WeByR3ubl7"
+        }
+      ],
+      "duration_ms": 134826,
+      "name": "Igel",
+      "url": "https://open.spotify.com/track/1op1VrGBMP2uuPOMFQ45R3"
+    },
+    {
+      "added_at": "2023-11-14 09:11:41",
+      "album": {
+        "name": "Zeig mir den Platz an der Sonne",
+        "url": "https://open.spotify.com/album/14kHOjiTWRL2gF9Li2jEGg"
+      },
+      "artists": [
+        {
+          "name": "Udo J\u00fcrgens",
+          "url": "https://open.spotify.com/artist/2G0htB8PxlO2onxnIismur"
+        }
+      ],
+      "duration_ms": 244640,
+      "name": "Griechischer Wein",
+      "url": "https://open.spotify.com/track/452WSSzuklpg0w4RKTlkvn"
     },
     {
       "added_at": "2023-11-14 09:11:41",
@@ -895,6 +895,22 @@
     {
       "added_at": "2023-11-14 09:11:41",
       "album": {
+        "name": "Schei\u00dfegal, ich feier (Radio Edit)",
+        "url": "https://open.spotify.com/album/5b9J518c3kaHN5FIZ4EOhY"
+      },
+      "artists": [
+        {
+          "name": "M\u00fctze Katze",
+          "url": "https://open.spotify.com/artist/1NIZkVWOktJ496divSh7cF"
+        }
+      ],
+      "duration_ms": 164103,
+      "name": "Schei\u00dfegal, ich feier - Radio Edit",
+      "url": "https://open.spotify.com/track/59OdgXmYQOW5oGmOQlyPEg"
+    },
+    {
+      "added_at": "2023-11-14 09:11:41",
+      "album": {
         "name": "Mallelelele",
         "url": "https://open.spotify.com/album/1MhwhYCaBa2wIaTFoSMnEb"
       },
@@ -911,22 +927,6 @@
       "duration_ms": 133898,
       "name": "Mallelelele",
       "url": "https://open.spotify.com/track/7bCRbs4hHDtMP9Ue8sfjqT"
-    },
-    {
-      "added_at": "2023-11-14 09:11:41",
-      "album": {
-        "name": "Schei\u00dfegal, ich feier (Radio Edit)",
-        "url": "https://open.spotify.com/album/5b9J518c3kaHN5FIZ4EOhY"
-      },
-      "artists": [
-        {
-          "name": "M\u00fctze Katze",
-          "url": "https://open.spotify.com/artist/1NIZkVWOktJ496divSh7cF"
-        }
-      ],
-      "duration_ms": 164103,
-      "name": "Schei\u00dfegal, ich feier - Radio Edit",
-      "url": "https://open.spotify.com/track/59OdgXmYQOW5oGmOQlyPEg"
     },
     {
       "added_at": "2023-11-14 09:11:41",
@@ -967,6 +967,22 @@
     {
       "added_at": "2023-11-14 09:11:41",
       "album": {
+        "name": "Finchi's Love Tape",
+        "url": "https://open.spotify.com/album/2XTORm9FlIAjLcTqrguBhM"
+      },
+      "artists": [
+        {
+          "name": "FiNCH",
+          "url": "https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD"
+        }
+      ],
+      "duration_ms": 170773,
+      "name": "FiNCHiBOY",
+      "url": "https://open.spotify.com/track/4ipRnhSMOaVeLCCo5sPY9K"
+    },
+    {
+      "added_at": "2023-11-14 09:11:41",
+      "album": {
         "name": "Lea",
         "url": "https://open.spotify.com/album/7DpARaNJn5iLOKGVANTSsq"
       },
@@ -991,22 +1007,6 @@
     {
       "added_at": "2023-11-14 09:11:41",
       "album": {
-        "name": "Finchi's Love Tape",
-        "url": "https://open.spotify.com/album/2XTORm9FlIAjLcTqrguBhM"
-      },
-      "artists": [
-        {
-          "name": "FiNCH",
-          "url": "https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD"
-        }
-      ],
-      "duration_ms": 170773,
-      "name": "FiNCHiBOY",
-      "url": "https://open.spotify.com/track/4ipRnhSMOaVeLCCo5sPY9K"
-    },
-    {
-      "added_at": "2023-11-14 09:11:41",
-      "album": {
         "name": "Partyanimal",
         "url": "https://open.spotify.com/album/4pXtlHGw6kiWyntGaLUxSx"
       },
@@ -1019,6 +1019,26 @@
       "duration_ms": 139159,
       "name": "Partyanimal",
       "url": "https://open.spotify.com/track/7gzdjkagK3pTVW8jYjcYBF"
+    },
+    {
+      "added_at": "2023-11-14 09:11:41",
+      "album": {
+        "name": "Zum Greifen nah",
+        "url": "https://open.spotify.com/album/5s9Tgn9nGXXo3RgUpWwkTf"
+      },
+      "artists": [
+        {
+          "name": "Rumbombe",
+          "url": "https://open.spotify.com/artist/4sPOsh2DVuKAJWyWSQ3UyG"
+        },
+        {
+          "name": "Anstandslos & Durchgeknallt",
+          "url": "https://open.spotify.com/artist/5R8zS6ofKclznKk3ffudoO"
+        }
+      ],
+      "duration_ms": 167142,
+      "name": "Zum Greifen nah",
+      "url": "https://open.spotify.com/track/5LEBEcAsQTL2ZoRQEvsE1D"
     },
     {
       "added_at": "2023-11-14 09:11:41",
@@ -1059,26 +1079,6 @@
     {
       "added_at": "2023-11-14 09:11:41",
       "album": {
-        "name": "Zum Greifen nah",
-        "url": "https://open.spotify.com/album/5s9Tgn9nGXXo3RgUpWwkTf"
-      },
-      "artists": [
-        {
-          "name": "Rumbombe",
-          "url": "https://open.spotify.com/artist/4sPOsh2DVuKAJWyWSQ3UyG"
-        },
-        {
-          "name": "Anstandslos & Durchgeknallt",
-          "url": "https://open.spotify.com/artist/5R8zS6ofKclznKk3ffudoO"
-        }
-      ],
-      "duration_ms": 167142,
-      "name": "Zum Greifen nah",
-      "url": "https://open.spotify.com/track/5LEBEcAsQTL2ZoRQEvsE1D"
-    },
-    {
-      "added_at": "2023-11-14 09:11:41",
-      "album": {
         "name": "Bring mich nach Hause",
         "url": "https://open.spotify.com/album/4QtCdbQkB2un0KIJEeQkO4"
       },
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2023-11-14 09:11:41",
       "album": {
-        "name": "Ich will mehr",
-        "url": "https://open.spotify.com/album/77VmZTMiGJbIPBDchKu4hB"
-      },
-      "artists": [
-        {
-          "name": "Wolfgang Petry",
-          "url": "https://open.spotify.com/artist/0JLbfIT1Z20raMAVYWtCD7"
-        }
-      ],
-      "duration_ms": 222333,
-      "name": "Wahnsinn",
-      "url": "https://open.spotify.com/track/2Nv773K16hckJrb3Ir7wOu"
-    },
-    {
-      "added_at": "2023-11-14 09:11:41",
-      "album": {
         "name": "Kabinenparty (feat. MAKZ 38) [Kreisliga Mix]",
         "url": "https://open.spotify.com/album/20F5fGaxNSc27Fxp3rNO1x"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 142750,
       "name": "Kabinenparty (feat. MAKZ 38) - Kreisliga Mix",
       "url": "https://open.spotify.com/track/4tL82MSbNxW9aMexbmnXS2"
+    },
+    {
+      "added_at": "2023-11-14 09:11:41",
+      "album": {
+        "name": "Ich will mehr",
+        "url": "https://open.spotify.com/album/77VmZTMiGJbIPBDchKu4hB"
+      },
+      "artists": [
+        {
+          "name": "Wolfgang Petry",
+          "url": "https://open.spotify.com/artist/0JLbfIT1Z20raMAVYWtCD7"
+        }
+      ],
+      "duration_ms": 222333,
+      "name": "Wahnsinn",
+      "url": "https://open.spotify.com/track/2Nv773K16hckJrb3Ir7wOu"
     },
     {
       "added_at": "2023-11-14 09:11:41",
@@ -1235,30 +1235,6 @@
     {
       "added_at": "2023-11-14 09:11:41",
       "album": {
-        "name": "Mannschaftsfahrt",
-        "url": "https://open.spotify.com/album/55VymWungTBtByJ89fhnJD"
-      },
-      "artists": [
-        {
-          "name": "Kreisligalegende",
-          "url": "https://open.spotify.com/artist/4gH1d6uZiIbhiUUJoHsd8f"
-        },
-        {
-          "name": "Julian Benz",
-          "url": "https://open.spotify.com/artist/3GiXBISwnKsyO5B37DYiMp"
-        },
-        {
-          "name": "Malin Brown",
-          "url": "https://open.spotify.com/artist/40wyS6jSrnAlcl9xBbCVnA"
-        }
-      ],
-      "duration_ms": 168895,
-      "name": "Mannschaftsfahrt",
-      "url": "https://open.spotify.com/track/4VDJ1wK7eszdBpWGvDV3Tc"
-    },
-    {
-      "added_at": "2023-11-14 09:11:41",
-      "album": {
         "name": "Hoch die H\u00e4nde Wochenende",
         "url": "https://open.spotify.com/album/4L7ct8MkMn8XeNKdmQKetZ"
       },
@@ -1283,6 +1259,46 @@
     {
       "added_at": "2023-11-14 09:11:41",
       "album": {
+        "name": "Von Herzen",
+        "url": "https://open.spotify.com/album/6uSbJQBdGJrN4hhup5kdeC"
+      },
+      "artists": [
+        {
+          "name": "DJ \u00d6tzi",
+          "url": "https://open.spotify.com/artist/0DR4z5jMA1eqx0CmHBUpkr"
+        }
+      ],
+      "duration_ms": 232053,
+      "name": "A Mann f\u00fcr Amore - Single Mix",
+      "url": "https://open.spotify.com/track/0m89E9zmNzOGuuZWEvZZGm"
+    },
+    {
+      "added_at": "2023-11-14 09:11:41",
+      "album": {
+        "name": "Mannschaftsfahrt",
+        "url": "https://open.spotify.com/album/55VymWungTBtByJ89fhnJD"
+      },
+      "artists": [
+        {
+          "name": "Kreisligalegende",
+          "url": "https://open.spotify.com/artist/4gH1d6uZiIbhiUUJoHsd8f"
+        },
+        {
+          "name": "Julian Benz",
+          "url": "https://open.spotify.com/artist/3GiXBISwnKsyO5B37DYiMp"
+        },
+        {
+          "name": "Malin Brown",
+          "url": "https://open.spotify.com/artist/40wyS6jSrnAlcl9xBbCVnA"
+        }
+      ],
+      "duration_ms": 168895,
+      "name": "Mannschaftsfahrt",
+      "url": "https://open.spotify.com/track/4VDJ1wK7eszdBpWGvDV3Tc"
+    },
+    {
+      "added_at": "2023-11-14 09:11:41",
+      "album": {
         "name": "Freitag, Samstag",
         "url": "https://open.spotify.com/album/2vdeMLYYKkx1kp0J9ggsBL"
       },
@@ -1299,22 +1315,6 @@
       "duration_ms": 156356,
       "name": "Freitag, Samstag",
       "url": "https://open.spotify.com/track/35WEFAhw47XLju1gu40cjT"
-    },
-    {
-      "added_at": "2023-11-14 09:11:41",
-      "album": {
-        "name": "Von Herzen",
-        "url": "https://open.spotify.com/album/6uSbJQBdGJrN4hhup5kdeC"
-      },
-      "artists": [
-        {
-          "name": "DJ \u00d6tzi",
-          "url": "https://open.spotify.com/artist/0DR4z5jMA1eqx0CmHBUpkr"
-        }
-      ],
-      "duration_ms": 232053,
-      "name": "A Mann f\u00fcr Amore - Single Mix",
-      "url": "https://open.spotify.com/track/0m89E9zmNzOGuuZWEvZZGm"
     },
     {
       "added_at": "2023-11-14 09:11:41",

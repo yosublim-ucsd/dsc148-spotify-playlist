@@ -4,7 +4,7 @@
 
 > Holiday cheer from your Disney favorites!
 
-125 songs - 5 hr 44 min
+126 songs - 5 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -124,6 +124,7 @@
 | [We Wish You a Merry Christmas](https://open.spotify.com/track/5a91gSADKfKNpsWr1vcOjD) | [DCappella](https://open.spotify.com/artist/0OCEtyF7fdc3UnUovFsvjm) | [Deck the Halls](https://open.spotify.com/album/1SKpUUo0isTRq19wE5RUs0) | 1:29 | 2021-12-03 |  |
 | [We Wish You a Merry Christmas](https://open.spotify.com/track/5u3rdVDkGiRlmKZ773xte4) | [The Cast of Phineas and Ferb](https://open.spotify.com/artist/3j6JwnGGXEJArJwgEt3iXi) | [Phineas and Ferb Holiday Favorites](https://open.spotify.com/album/4LyKQilbZTx4SL1gXG3u8x) | 2:20 | 2021-12-03 |  |
 | [We Wish You a Merry Christmas](https://open.spotify.com/track/14qzig8cvFMvUVeCxbaO38) | [The Disney Holiday Chorus](https://open.spotify.com/artist/4ag7CRSzcTZQX2Bter3fLR) | [Disney's Family Christmas Collection](https://open.spotify.com/album/5zeGI3fFVGKZ8DBMC6vuQg) | 1:44 | 2022-12-08 |  |
+| [We Wish You a Merry Christmas \- From "The Santa Clauses: Season 2"](https://open.spotify.com/track/0fMSRi3f7CBLQ6BROBqVhH) | [The Santa Clauses \- Cast](https://open.spotify.com/artist/1fcqHgM7myURz9HBW2jEQU) | [We Wish You A Merry Christmas \(From "The Santa Clauses: Season 2"\)](https://open.spotify.com/album/1F06xtgHCyekJfrnKbklOV) | 1:52 | 2023-12-01 |  |
 | [What Christmas Means to Me](https://open.spotify.com/track/1ZRq7JZzM3Q26xweRKz0SF) | [Joss Stone](https://open.spotify.com/artist/7bvcQXJHkFiN1ppIN3q4fi) | [What Christmas Means to Me](https://open.spotify.com/album/1RcoVRUDGhepaBcxeEp4A0) | 3:11 | 2022-09-09 |  |
 | [What's This?](https://open.spotify.com/track/3fytQQcjEOWXlvI9BDXVcK) | [Danny Elfman](https://open.spotify.com/artist/5qBZETtyzfYnXOobDXbmcD) | [Nightmare Before Christmas Special Edition](https://open.spotify.com/album/32hXKuDkMnpQaOI67xQj86) | 3:05 | 2021-12-03 |  |
 | [When I Am Older](https://open.spotify.com/track/1Tt7zr1yDbKbT8L4jzSZ74) | [Josh Gad](https://open.spotify.com/artist/4dSQICBjdUIp5iK6RRU2bY) | [Frozen 2 \(Original Motion Picture Soundtrack/Deluxe Edition\)](https://open.spotify.com/album/4M07HWIlZr7zoXoxDHR5mz) | 1:51 | 2022-12-08 |  |

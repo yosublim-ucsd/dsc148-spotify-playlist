@@ -4,7 +4,7 @@
 
 > the soundtrack to your girl dinner\. cover: Doja Cat
 
-187 songs - 9 hr 34 min
+188 songs - 9 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -131,9 +131,10 @@
 | [Moonlight](https://open.spotify.com/track/2i2gDpKKWjvnRTOZRhaPh2) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Moonlight](https://open.spotify.com/album/1y8Yw0NDcP2qxbZufIXt7u) | 3:07 | 2023-05-12 |  |
 | [Munch \(Feelin’ U\)](https://open.spotify.com/track/1jOgJN75btuUONIdf57vHz) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Munch \(Feelin’ U\)](https://open.spotify.com/album/0LgFPcU3P2HLGUtBQTBBpv) | 1:44 | 2023-03-30 | 2023-04-17 |
 | [My Barn My Rules](https://open.spotify.com/track/1yw28y3kv8uS7ENaZkbUFt) | [MCR\-T](https://open.spotify.com/artist/4m7q9onIm2bqhwHy9utqmw), [horsegiirL](https://open.spotify.com/artist/0auP293abZeTWwMUi3fZw2) | [Farm Fantasies](https://open.spotify.com/album/4iQOiiyHbLlwLTnPUDZPEo) | 4:26 | 2023-05-29 | 2023-06-20 |
+| [MY HOUSE](https://open.spotify.com/track/7omJfT9s6V2IpQNBYyq5C8) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [MY HOUSE](https://open.spotify.com/album/1H1ivGeE2LjPjE71OITTZs) | 4:22 | 2023-12-01 |  |
 | [Need to Know](https://open.spotify.com/track/3Vi5XqYrmQgOYBajMWSvCi) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Planet Her](https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW) | 3:30 | 2023-03-30 |  |
 | [New Bottega](https://open.spotify.com/track/05IOuexttkZG6eQLFi3v40) | [Torren Foot](https://open.spotify.com/artist/7lQOxDl96wmNoqGoW4kgv4), [Azealia Banks](https://open.spotify.com/artist/7gRhy3MIPHQo5CXYfWaw9I) | [New Bottega](https://open.spotify.com/album/6dlPgHkvVUMkTBsovGFAxH) | 3:08 | 2023-05-29 | 2023-06-20 |
-| [NEW DANCE](https://open.spotify.com/track/6Pjzy9avwlVr4UAbxkQQmh) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [NEW DANCE](https://open.spotify.com/album/5iBG5tDegPYWxpzmgYs4KK) | 3:18 | 2023-08-24 |  |
+| [NEW DANCE](https://open.spotify.com/track/6Pjzy9avwlVr4UAbxkQQmh) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [NEW DANCE](https://open.spotify.com/album/5iBG5tDegPYWxpzmgYs4KK) | 3:18 | 2023-08-24 | 2023-12-02 |
 | [NUMBER 1 PUSSY](https://open.spotify.com/track/21omrvROcaZDtLszH479x0) | [BIG WETT](https://open.spotify.com/artist/5EbB3qseTBegpJEACqHfHB) | [NUMBER 1 PUSSY](https://open.spotify.com/album/6NIfw2vThvl7kna5bmJWrE) | 2:59 | 2023-04-20 | 2023-05-13 |
 | [OMG](https://open.spotify.com/track/65FftemJ1DbbZ45DUfHJXE) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 'OMG'](https://open.spotify.com/album/45ozep8uHHnj5CCittuyXj) | 3:32 | 2023-03-30 |  |
 | [One Margarita \(Margarita Song\) \[feat\. Saucy Santana\] \- Saucy Remix](https://open.spotify.com/track/7kT07Kchz7TIyylr6RNbVa) | [That Chick Angel](https://open.spotify.com/artist/3qhkjSaDQrlZVAg0hvVYfh), [Saucy Santana](https://open.spotify.com/artist/2NfwGBr2swqZ1rzE3kAV23), [Casa Di](https://open.spotify.com/artist/1yFh88WSoMOObwLi5GUwRp), [Steve Terrell](https://open.spotify.com/artist/0gmg6AYgqIGfQ0dVyr951p) | [One Margarita \(Margarita Song\) \[feat\. Saucy Santana\] \[Saucy Remix\]](https://open.spotify.com/album/1u0sKdA7niUzooEbjU7ypF) | 2:45 | 2023-08-03 |  |

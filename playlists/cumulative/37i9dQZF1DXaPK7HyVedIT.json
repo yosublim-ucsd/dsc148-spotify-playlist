@@ -661,6 +661,32 @@
     },
     {
       "album": {
+        "name": "By Your Side",
+        "url": "https://open.spotify.com/album/3kSPYrdSnEh8a9f5vyLZXC"
+      },
+      "artists": [
+        {
+          "name": "Agguiar",
+          "url": "https://open.spotify.com/artist/6TapvGfMBXqnvHSQCAuouV"
+        },
+        {
+          "name": "Susan Schaum",
+          "url": "https://open.spotify.com/artist/2E0X2U9kEdu3KeNmjwkBI0"
+        },
+        {
+          "name": "AfterMoon Inc.",
+          "url": "https://open.spotify.com/artist/7K7ykCmYnWSlRsnIJ68McC"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207373,
+      "name": "By Your Side",
+      "url": "https://open.spotify.com/track/1pe2jATGX8qxh2rwg1HEa8"
+    },
+    {
+      "album": {
         "name": "Callin'",
         "url": "https://open.spotify.com/album/2lzDlDzRF2ytLKpnrmd6z3"
       },
@@ -750,7 +776,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 281904,
       "name": "CHAOS",
       "url": "https://open.spotify.com/track/6TUM2nFzvR7QKDHVWcOCnT"
@@ -948,7 +974,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 205833,
       "name": "Dancin'",
       "url": "https://open.spotify.com/track/33ZmeSclK7iCu8HtHChTQw"
@@ -1364,6 +1390,24 @@
       "duration_ms": 340000,
       "name": "Fly Away",
       "url": "https://open.spotify.com/track/7gQzv8EeV2LKGoF6dGtL3P"
+    },
+    {
+      "album": {
+        "name": "Flying With Gods",
+        "url": "https://open.spotify.com/album/0n9wUeRkXRBAyqZAezmXSH"
+      },
+      "artists": [
+        {
+          "name": "BLANCAh",
+          "url": "https://open.spotify.com/artist/2UlGQzanOYozGMseJ8qBRz"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 394838,
+      "name": "Flying With Gods",
+      "url": "https://open.spotify.com/track/4c6MFuZAHvnCKA7kXAt0B3"
     },
     {
       "album": {
@@ -1829,6 +1873,46 @@
     },
     {
       "album": {
+        "name": "If U Need It",
+        "url": "https://open.spotify.com/album/628CN0UzuPsstc678cQ5Sn"
+      },
+      "artists": [
+        {
+          "name": "Sammy Virji",
+          "url": "https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179999,
+      "name": "If U Need It",
+      "url": "https://open.spotify.com/track/5CaUUACiQFEf4zR5WoeIrp"
+    },
+    {
+      "album": {
+        "name": "Inside Your Head",
+        "url": "https://open.spotify.com/album/5Hk28tHH4i3yUjnSDYPC5b"
+      },
+      "artists": [
+        {
+          "name": "INNDRIVE",
+          "url": "https://open.spotify.com/artist/6Ult8lRnG7Dh7KZtVlpAJX"
+        },
+        {
+          "name": "Vicentini",
+          "url": "https://open.spotify.com/artist/6uWFAuJj9zE1sBash9M1Af"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199218,
+      "name": "Inside Your Head",
+      "url": "https://open.spotify.com/track/4gyEEkiTjh3QMWP1KTkcUe"
+    },
+    {
+      "album": {
         "name": "Intentions",
         "url": "https://open.spotify.com/album/2BTDtKatM3SLC3Dz7BT7Bd"
       },
@@ -2116,7 +2200,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 121500,
       "name": "LET'S GET FKD UP",
       "url": "https://open.spotify.com/track/0iB5f04XdJ2tcfhoVkeLV8"
@@ -2614,6 +2698,28 @@
       "duration_ms": 228480,
       "name": "Orvalho (Parte 2)",
       "url": "https://open.spotify.com/track/125xXJhYIUpxBGgbQDG3eS"
+    },
+    {
+      "album": {
+        "name": "Out Of Time",
+        "url": "https://open.spotify.com/album/2KdW273wS4w0m8PSvpJpuM"
+      },
+      "artists": [
+        {
+          "name": "Cat Dealers",
+          "url": "https://open.spotify.com/artist/3q2dSq7VZnj8TmoJUyRm40"
+        },
+        {
+          "name": "Romeo Blanco",
+          "url": "https://open.spotify.com/artist/7oVSEUsFMvqBPpVKuRFSXQ"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203809,
+      "name": "Out Of Time",
+      "url": "https://open.spotify.com/track/3aTL9YroCEJ1em7VVOm9bK"
     },
     {
       "album": {
@@ -3224,10 +3330,36 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 167111,
       "name": "Se Entrega e Vem Sem Medo",
       "url": "https://open.spotify.com/track/6jxETk9VY0k66TEFepx7hK"
+    },
+    {
+      "album": {
+        "name": "Sem Ch\u00e3o (Malemol\u00eancia)",
+        "url": "https://open.spotify.com/album/1KMNZU2XgBIFejM1j0DHwR"
+      },
+      "artists": [
+        {
+          "name": "Dubdogz",
+          "url": "https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1"
+        },
+        {
+          "name": "Watzgood",
+          "url": "https://open.spotify.com/artist/1ufrKfcoRS0V7srGXC6ADa"
+        },
+        {
+          "name": "C\u00e9u",
+          "url": "https://open.spotify.com/artist/2eFVsaX3yHLPeWpiqvmeFn"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158769,
+      "name": "Sem Ch\u00e3o (Malemol\u00eancia)",
+      "url": "https://open.spotify.com/track/4DEU9APTmDLxnOsZnxhxI2"
     },
     {
       "album": {
@@ -3504,6 +3636,36 @@
       "duration_ms": 212540,
       "name": "Telesexo",
       "url": "https://open.spotify.com/track/609zzeuRVGBYi0Q1sTDpxF"
+    },
+    {
+      "album": {
+        "name": "The Hook",
+        "url": "https://open.spotify.com/album/3aO2xbSDrKY9PQx9CR9coo"
+      },
+      "artists": [
+        {
+          "name": "Tujamo",
+          "url": "https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh"
+        },
+        {
+          "name": "Jetlag Music",
+          "url": "https://open.spotify.com/artist/29bg2tYJCCyiuZdbsc9mFh"
+        },
+        {
+          "name": "3Beat",
+          "url": "https://open.spotify.com/artist/6GygHIe8zmVX42gMgFQ3z8"
+        },
+        {
+          "name": "Vitor Bueno",
+          "url": "https://open.spotify.com/artist/5iI1l0DvdS2382GUHF4bsi"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170890,
+      "name": "The Hook",
+      "url": "https://open.spotify.com/track/6MAegmeDnQb3wNOoxtKJRS"
     },
     {
       "album": {

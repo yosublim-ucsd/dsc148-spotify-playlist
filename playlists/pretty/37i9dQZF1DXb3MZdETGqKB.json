@@ -1,13 +1,29 @@
 {
   "description": "All new, all blues. Cover: Shanice Green",
-  "num_followers": 145904,
+  "num_followers": 145936,
   "original_name": "Nu-Blue",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMjc5OTk3NTU1NWZjOTY5ODFmYzM1YWNjYTYwNDBhMDgxODg1Nzhi",
+  "snapshot_id": "MCw5YzVmOGM4ZTllYTI1YWYyMzU0YzA5NzFhNTczZTM3OTBmYTAzZWY3",
   "tracks": [
+    {
+      "added_at": "2023-12-01 05:01:00",
+      "album": {
+        "name": "Sugar Man",
+        "url": "https://open.spotify.com/album/2EzBNH4CaSRJRL8fUjovip"
+      },
+      "artists": [
+        {
+          "name": "Cobi",
+          "url": "https://open.spotify.com/artist/4fuZypKGg7klMEF10KTuAN"
+        }
+      ],
+      "duration_ms": 209200,
+      "name": "Sugar Man",
+      "url": "https://open.spotify.com/track/0fxPI5BMCQYo0nPV7ysef4"
+    },
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
@@ -1599,26 +1615,6 @@
       "duration_ms": 231653,
       "name": "All She Said",
       "url": "https://open.spotify.com/track/27v0NADTYEZjrB7DoCo6Ur"
-    },
-    {
-      "added_at": "2022-02-25 05:02:00",
-      "album": {
-        "name": "Spin Me Round",
-        "url": "https://open.spotify.com/album/4VegcvNuAqwaoVLpugOT2e"
-      },
-      "artists": [
-        {
-          "name": "Augie Bello",
-          "url": "https://open.spotify.com/artist/2z3k87BRV59rw56PwnOQsg"
-        },
-        {
-          "name": "Casey Abrams",
-          "url": "https://open.spotify.com/artist/1UxNUybRFdtksz3l5HtCEG"
-        }
-      ],
-      "duration_ms": 180800,
-      "name": "Spin Me Round",
-      "url": "https://open.spotify.com/track/0iEo9wkzqOfVfVkezh8obQ"
     },
     {
       "added_at": "2023-02-24 05:01:00",

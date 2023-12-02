@@ -1,15 +1,31 @@
 {
-  "description": "The freshest K-Pop of today!  //\u6700\u5148\u7aef\u306eK-Pop\u3092\u30d4\u30c3\u30af\u30a2\u30c3\u30d7\uff01 Cover: Dreamcatcher",
-  "num_followers": 392807,
+  "description": "The freshest K-Pop of today!  //\u6700\u5148\u7aef\u306eK-Pop\u3092\u30d4\u30c3\u30af\u30a2\u30c3\u30d7\uff01 Cover: ATEEZ",
+  "num_followers": 393202,
   "original_name": "K-Pop Fresh",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3Zjg5ODFkYmVlOTZiNDIwODNmOWU2N2Y5MjAwZTQ4MmUyMWJlY2U0",
+  "snapshot_id": "MCwxNTkzNzVlMzc3ZWM5MTBkZDg2ZGUwMmNlMGJhY2IyOTJjOGUxZmZk",
   "tracks": [
     {
-      "added_at": "2023-11-28 15:00:00",
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
+        "name": "THE WORLD EP.FIN : WILL",
+        "url": "https://open.spotify.com/album/1r0F1EzzNOaJyB7U0Jp5RH"
+      },
+      "artists": [
+        {
+          "name": "ATEEZ",
+          "url": "https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L"
+        }
+      ],
+      "duration_ms": 217485,
+      "name": "ARRIBA",
+      "url": "https://open.spotify.com/track/5wZu9Hw69jORB2OxeX3qC6"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
       "album": {
         "name": "[VillainS]",
         "url": "https://open.spotify.com/album/1GWC45tJrcKctt6qtFQHB7"
@@ -25,7 +41,7 @@
       "url": "https://open.spotify.com/track/2PSqR2dQWllqSPHeUdCp1S"
     },
     {
-      "added_at": "2023-11-28 15:00:00",
+      "added_at": "2023-12-01 05:00:00",
       "album": {
         "name": "ORANGE BLOOD",
         "url": "https://open.spotify.com/album/7dsAlxH9cMgyREm8OLdWWT"
@@ -41,7 +57,47 @@
       "url": "https://open.spotify.com/track/2YmfV4lAjrAQvuggKCUX6m"
     },
     {
-      "added_at": "2023-11-28 15:00:00",
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
+        "name": "To. X - The 5th Mini Album",
+        "url": "https://open.spotify.com/album/0VciVDVU6NoqtQ0WAIlTmD"
+      },
+      "artists": [
+        {
+          "name": "TAEYEON",
+          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
+        }
+      ],
+      "duration_ms": 170386,
+      "name": "To. X",
+      "url": "https://open.spotify.com/track/2gyCwrOcC6JBoaJ8JGJ7T8"
+    },
+    {
+      "added_at": "2023-12-01 07:20:43",
+      "album": {
+        "name": "NOBODY",
+        "url": "https://open.spotify.com/album/1Y48ZHmfvedT16bNakv13v"
+      },
+      "artists": [
+        {
+          "name": "JEON SOYEON",
+          "url": "https://open.spotify.com/artist/6Xg22wJOAcnvPUfk5WvODH"
+        },
+        {
+          "name": "WINTER",
+          "url": "https://open.spotify.com/artist/3mPquBmMu97Iq9TpzQ6ayI"
+        },
+        {
+          "name": "LIZ (IVE)",
+          "url": "https://open.spotify.com/artist/2Cl2zS9nttS8xQeCp7zYT1"
+        }
+      ],
+      "duration_ms": 161120,
+      "name": "NOBODY",
+      "url": "https://open.spotify.com/track/4loUHO28CuvSbEiZXId1BD"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
       "album": {
         "name": "PARANOIA",
         "url": "https://open.spotify.com/album/1RPJNNRo1WUciegpWfioAc"
@@ -77,7 +133,7 @@
       "url": "https://open.spotify.com/track/29WxJqIfDRMo9isV07kbJP"
     },
     {
-      "added_at": "2023-11-28 15:00:00",
+      "added_at": "2023-12-01 05:00:00",
       "album": {
         "name": "Drama - The 4th Mini Album",
         "url": "https://open.spotify.com/album/5NMtxQJy4wq3mpo3ERVnLs"
@@ -93,7 +149,7 @@
       "url": "https://open.spotify.com/track/5XWlyfo0kZ8LF7VSyfS4Ew"
     },
     {
-      "added_at": "2023-11-28 15:00:00",
+      "added_at": "2023-12-01 05:00:00",
       "album": {
         "name": "Gum",
         "url": "https://open.spotify.com/album/3y6bGlIVIIOQbOgQDRSw1T"
@@ -109,7 +165,7 @@
       "url": "https://open.spotify.com/track/6QJEWaTiiBSYPHr6FrZ8vu"
     },
     {
-      "added_at": "2023-11-28 15:00:00",
+      "added_at": "2023-12-01 05:00:00",
       "album": {
         "name": "Wait",
         "url": "https://open.spotify.com/album/3D7f39m0ONz8okCm5o9Bxg"
@@ -125,7 +181,7 @@
       "url": "https://open.spotify.com/track/1KkC3Nzxv3OZorm5m1843p"
     },
     {
-      "added_at": "2023-11-28 15:00:00",
+      "added_at": "2023-12-01 05:00:00",
       "album": {
         "name": "Perfect Night (Holiday Remix)",
         "url": "https://open.spotify.com/album/0YaaIvxu7OH0OxUSnM9WFH"
@@ -141,7 +197,27 @@
       "url": "https://open.spotify.com/track/40CJrEAyXS8qe0BBFbYbJO"
     },
     {
-      "added_at": "2023-11-28 15:00:00",
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
+        "name": "3D (Justin Timberlake Remix)",
+        "url": "https://open.spotify.com/album/4SNBgrYqk2aV4LyXbTSkYA"
+      },
+      "artists": [
+        {
+          "name": "Jung Kook",
+          "url": "https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc"
+        },
+        {
+          "name": "Justin Timberlake",
+          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
+        }
+      ],
+      "duration_ms": 160942,
+      "name": "3D (Justin Timberlake Remix)",
+      "url": "https://open.spotify.com/track/2mHw0KoEyDw8Yaw3yPoke6"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
       "album": {
         "name": "RINGO",
         "url": "https://open.spotify.com/album/3aT91hpILeuYJe37TnaGxz"
@@ -157,7 +233,7 @@
       "url": "https://open.spotify.com/track/2qWIeuIxVJglnWWsDpyhfU"
     },
     {
-      "added_at": "2023-11-28 15:00:00",
+      "added_at": "2023-12-01 05:00:00",
       "album": {
         "name": "ROCK-STAR",
         "url": "https://open.spotify.com/album/0aJnGEZWIc1VCYlZOXv05a"
@@ -173,7 +249,7 @@
       "url": "https://open.spotify.com/track/1OG1NoKpZZLrMqMYCk9m84"
     },
     {
-      "added_at": "2023-11-28 15:00:00",
+      "added_at": "2023-12-01 05:00:00",
       "album": {
         "name": "\u30c9\u30ec\u30b9\u30b3\u30fc\u30c9 (Prod. imase)",
         "url": "https://open.spotify.com/album/6IDmSxLLVK1EaJtC9Y6KmV"
@@ -189,7 +265,7 @@
       "url": "https://open.spotify.com/track/3o0Nlc7DVVC39pfv4nTi9Y"
     },
     {
-      "added_at": "2023-11-28 15:00:00",
+      "added_at": "2023-12-01 05:00:00",
       "album": {
         "name": "Guilty - The 4th Mini Album",
         "url": "https://open.spotify.com/album/1lnDLQ5nH1V3ST8MuVGmQW"
@@ -205,7 +281,7 @@
       "url": "https://open.spotify.com/track/4jMwQaDiDICry8Ia1gFnAn"
     },
     {
-      "added_at": "2023-11-28 15:00:00",
+      "added_at": "2023-12-01 05:00:00",
       "album": {
         "name": "RE8EL",
         "url": "https://open.spotify.com/album/396PmDmC3mjNC93wW6E9QS"
@@ -221,7 +297,7 @@
       "url": "https://open.spotify.com/track/4zN0rgpBOcpXnp6EJkYmnM"
     },
     {
-      "added_at": "2023-11-28 15:00:00",
+      "added_at": "2023-12-01 05:00:00",
       "album": {
         "name": "THE REMIXES",
         "url": "https://open.spotify.com/album/37WsLE5Eny9CTmF9CPzWIq"
@@ -237,7 +313,7 @@
       "url": "https://open.spotify.com/track/6rJjT5kPYhtXkUsot7tkjI"
     },
     {
-      "added_at": "2023-11-28 15:00:00",
+      "added_at": "2023-12-01 05:00:00",
       "album": {
         "name": "NEW DNA",
         "url": "https://open.spotify.com/album/5ltOyfF29bg84gvBJPLOgj"
@@ -253,7 +329,7 @@
       "url": "https://open.spotify.com/track/7sDkXyDikXhpRz715MdiEp"
     },
     {
-      "added_at": "2023-11-28 15:00:00",
+      "added_at": "2023-12-01 05:00:00",
       "album": {
         "name": "Perfect Night",
         "url": "https://open.spotify.com/album/6Msc3BwzKZ5f5FXmKuUSu6"
@@ -269,7 +345,7 @@
       "url": "https://open.spotify.com/track/74X2u8JMVooG2QbjRxXwR8"
     },
     {
-      "added_at": "2023-11-28 15:00:00",
+      "added_at": "2023-12-01 05:00:00",
       "album": {
         "name": "RINGO",
         "url": "https://open.spotify.com/album/1kRAzoCTDLqwU6nX2I2Nmc"
@@ -285,7 +361,7 @@
       "url": "https://open.spotify.com/track/0aZ8DSEdBJbBfrNtnqgJy3"
     },
     {
-      "added_at": "2023-11-28 15:00:00",
+      "added_at": "2023-12-01 05:00:00",
       "album": {
         "name": "NEW STAR",
         "url": "https://open.spotify.com/album/4ohVAtGzJTQCIKJTMzGLAb"
@@ -301,7 +377,7 @@
       "url": "https://open.spotify.com/track/4fGkb1BWnzrppNuGUeUSaZ"
     },
     {
-      "added_at": "2023-11-28 15:00:00",
+      "added_at": "2023-12-01 05:00:00",
       "album": {
         "name": "SEVENTEEN 11th Mini Album 'SEVENTEENTH HEAVEN'",
         "url": "https://open.spotify.com/album/1rE0Gy69MFUh4GuXafWd0f"
@@ -317,7 +393,7 @@
       "url": "https://open.spotify.com/track/4MTNimMDRyFZv37Thcktwa"
     },
     {
-      "added_at": "2023-11-28 15:00:00",
+      "added_at": "2023-12-01 05:00:00",
       "album": {
         "name": "HEAT",
         "url": "https://open.spotify.com/album/5CZQfva4He8sG3DcU8eP5m"
@@ -333,7 +409,7 @@
       "url": "https://open.spotify.com/track/3F2BLyGt6zYLrHYpbdTw5L"
     },
     {
-      "added_at": "2023-11-28 15:00:00",
+      "added_at": "2023-12-01 05:00:00",
       "album": {
         "name": "Social Path",
         "url": "https://open.spotify.com/album/69mwX2uyO8FKCc8KkRMHw7"
@@ -353,7 +429,7 @@
       "url": "https://open.spotify.com/track/0fkL0fOhEzRK8WFe2ixt2d"
     },
     {
-      "added_at": "2023-11-28 15:00:00",
+      "added_at": "2023-12-01 05:00:00",
       "album": {
         "name": "LIT",
         "url": "https://open.spotify.com/album/4SPDsfJ3CigkggDigodW2L"
@@ -369,7 +445,7 @@
       "url": "https://open.spotify.com/track/5Wi1nGdQoyMxwFwKYxiaeN"
     },
     {
-      "added_at": "2023-11-28 15:00:00",
+      "added_at": "2023-12-01 05:00:00",
       "album": {
         "name": "Press Play",
         "url": "https://open.spotify.com/album/3KXI6SPSLOch1o5biv5uy6"
@@ -385,7 +461,7 @@
       "url": "https://open.spotify.com/track/4TBpE4HSPeB6OTqbqqwSon"
     },
     {
-      "added_at": "2023-11-28 15:00:00",
+      "added_at": "2023-12-01 05:00:00",
       "album": {
         "name": "Chill Kill - The 3rd Album",
         "url": "https://open.spotify.com/album/4UUICitfodUVCNhzmDFbrO"
@@ -401,7 +477,7 @@
       "url": "https://open.spotify.com/track/68gQG2HpRMxIRom4pCugMq"
     },
     {
-      "added_at": "2023-11-28 15:00:00",
+      "added_at": "2023-12-01 05:00:00",
       "album": {
         "name": "3D (feat. Jack Harlow)",
         "url": "https://open.spotify.com/album/4DKnznk5VbGVvAOYBbQrZJ"
@@ -421,7 +497,7 @@
       "url": "https://open.spotify.com/track/6ehWdR7cGDXnT7aKEASJxE"
     },
     {
-      "added_at": "2023-11-28 15:00:00",
+      "added_at": "2023-12-01 05:00:00",
       "album": {
         "name": "Born to be XX",
         "url": "https://open.spotify.com/album/6yDtQxvq1XRC7Y5qtS03Xx"
@@ -437,7 +513,7 @@
       "url": "https://open.spotify.com/track/7AGq5qaaF9awHDaKuCvVjj"
     },
     {
-      "added_at": "2023-11-28 15:00:00",
+      "added_at": "2023-12-01 05:00:00",
       "album": {
         "name": "Command C+Me",
         "url": "https://open.spotify.com/album/6rFPJ5ZjkeWV5z5VNzD6gw"
@@ -453,7 +529,23 @@
       "url": "https://open.spotify.com/track/1yJ0p6Mfdyom089rqjZD7X"
     },
     {
-      "added_at": "2023-11-28 15:00:00",
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
+        "name": "Ready for the World",
+        "url": "https://open.spotify.com/album/4AUH5o7KAs0BpvJwH1Je77"
+      },
+      "artists": [
+        {
+          "name": "VCHA",
+          "url": "https://open.spotify.com/artist/3k6TH9knHgthYJiEVDUC2s"
+        }
+      ],
+      "duration_ms": 185386,
+      "name": "Ready for the World",
+      "url": "https://open.spotify.com/track/1zh1cJT5qzuhb0F2S6X9ba"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
       "album": {
         "name": "The 4th Mini Album 'VERSUS'",
         "url": "https://open.spotify.com/album/56EQPw5TQ6OPVYbbmuzw7y"
@@ -469,7 +561,7 @@
       "url": "https://open.spotify.com/track/618OKP1lBkNJL8uZdNSvQE"
     },
     {
-      "added_at": "2023-11-28 15:00:00",
+      "added_at": "2023-12-01 05:00:00",
       "album": {
         "name": "GOLDEN",
         "url": "https://open.spotify.com/album/5pSk3c3wVwnb2arb6ohCPU"
@@ -485,7 +577,7 @@
       "url": "https://open.spotify.com/track/2KslE17cAJNHTsI2MI0jb2"
     },
     {
-      "added_at": "2023-11-28 15:00:00",
+      "added_at": "2023-12-01 05:00:00",
       "album": {
         "name": "The Name Chapter: FREEFALL",
         "url": "https://open.spotify.com/album/63fWdGyeBj8VDjvHSUROx3"
@@ -501,7 +593,7 @@
       "url": "https://open.spotify.com/track/0ZPjVmof45INEERgYfadtv"
     },
     {
-      "added_at": "2023-11-28 15:00:00",
+      "added_at": "2023-12-01 05:00:00",
       "album": {
         "name": "Broken Melodies (JVKE Remix)",
         "url": "https://open.spotify.com/album/3YnDJuzNXU0pT9g1CniODn"
@@ -521,7 +613,7 @@
       "url": "https://open.spotify.com/track/2LqesWzQTXoMv01fZTz0rh"
     },
     {
-      "added_at": "2023-11-28 15:00:00",
+      "added_at": "2023-12-01 05:00:00",
       "album": {
         "name": "THE BOYZ 2ND ALBUM [PHANTASY] Pt.2 Sixth Sense",
         "url": "https://open.spotify.com/album/7LmTay8KeH1nl0Kt1BlhMX"
@@ -537,7 +629,7 @@
       "url": "https://open.spotify.com/track/3UQw1V8gM5YihFDcnjNkWN"
     },
     {
-      "added_at": "2023-11-28 15:00:00",
+      "added_at": "2023-12-01 05:00:00",
       "album": {
         "name": "JENNIE Special Single [You & Me]",
         "url": "https://open.spotify.com/album/1Vzh3fTdh0R0evafCcpNpL"
@@ -553,7 +645,7 @@
       "url": "https://open.spotify.com/track/0Vz146N2GxkVJw4kSGXrNi"
     },
     {
-      "added_at": "2023-11-28 15:00:00",
+      "added_at": "2023-12-01 05:00:00",
       "album": {
         "name": "ONLY ONE",
         "url": "https://open.spotify.com/album/1gh4MsmIImvxnpiDELpt6S"
@@ -569,7 +661,7 @@
       "url": "https://open.spotify.com/track/00Ba2PRFeih7voe93Bf5mk"
     },
     {
-      "added_at": "2023-11-28 15:00:00",
+      "added_at": "2023-12-01 05:00:00",
       "album": {
         "name": "<FLY-HIGH> - Special Edition -",
         "url": "https://open.spotify.com/album/48HXlZ0LviGDHnGon1gyTm"
@@ -585,7 +677,7 @@
       "url": "https://open.spotify.com/track/7GvWR4mvfvzvWtVXBcU23t"
     },
     {
-      "added_at": "2023-11-28 15:00:00",
+      "added_at": "2023-12-01 05:00:00",
       "album": {
         "name": "GODS",
         "url": "https://open.spotify.com/album/0rAaP1OBxVCn2cIUZNjGRs"
@@ -605,7 +697,7 @@
       "url": "https://open.spotify.com/track/210JJAa9nJOgNa0YNrsT5g"
     },
     {
-      "added_at": "2023-11-28 15:00:00",
+      "added_at": "2023-12-01 05:00:00",
       "album": {
         "name": "MOONLIGHT SUNRISE (Jonas Blue Remix)",
         "url": "https://open.spotify.com/album/7o7krSdxaqzkLk3HtYbm2x"
@@ -625,7 +717,7 @@
       "url": "https://open.spotify.com/track/4JRjQE4sXKgOFURvvetuXi"
     },
     {
-      "added_at": "2023-11-28 15:00:00",
+      "added_at": "2023-12-01 05:00:00",
       "album": {
         "name": "MELTING POINT",
         "url": "https://open.spotify.com/album/5XHHcWUt6zy1nkbzt707ys"
@@ -641,7 +733,7 @@
       "url": "https://open.spotify.com/track/6Sj39jSqhxjJ8K66Mw8hrU"
     },
     {
-      "added_at": "2023-11-28 15:00:00",
+      "added_at": "2023-12-01 05:00:00",
       "album": {
         "name": "Changed Man",
         "url": "https://open.spotify.com/album/6jFqKZRGCD555oRRotQ0nK"
@@ -657,7 +749,7 @@
       "url": "https://open.spotify.com/track/63iWifTpRd4odAeDsw8du5"
     },
     {
-      "added_at": "2023-11-28 15:00:00",
+      "added_at": "2023-12-01 05:00:00",
       "album": {
         "name": "Talk Saxy",
         "url": "https://open.spotify.com/album/0XDt5xgg2nI1Gqmf6isfm0"
@@ -673,7 +765,7 @@
       "url": "https://open.spotify.com/track/2cEwQnP4284g37N6D7ETND"
     },
     {
-      "added_at": "2023-11-28 15:00:00",
+      "added_at": "2023-12-01 05:00:00",
       "album": {
         "name": "STRANGER",
         "url": "https://open.spotify.com/album/5QUzffclUFjjFFZ1HmaB6X"
@@ -689,7 +781,7 @@
       "url": "https://open.spotify.com/track/3SifPlW12FRs8OQP2VkXSi"
     },
     {
-      "added_at": "2023-11-28 15:00:00",
+      "added_at": "2023-12-01 05:00:00",
       "album": {
         "name": "Off The Record",
         "url": "https://open.spotify.com/album/7qch1xWGWuU5VxZEYBF5KW"
@@ -705,7 +797,7 @@
       "url": "https://open.spotify.com/track/3G7MgLuWLzUJQflWOCDZit"
     },
     {
-      "added_at": "2023-11-28 15:00:00",
+      "added_at": "2023-12-01 05:00:00",
       "album": {
         "name": "On My Youth - The 2nd Album",
         "url": "https://open.spotify.com/album/5E0N8pJpGjx60wKTlpu9Hs"
@@ -721,7 +813,7 @@
       "url": "https://open.spotify.com/track/3aybnlPK0zZK2YRmlRm0Ph"
     },
     {
-      "added_at": "2023-11-28 15:00:00",
+      "added_at": "2023-12-01 05:00:00",
       "album": {
         "name": "Do not touch",
         "url": "https://open.spotify.com/album/2A7JiOErRUS6Sw9YneA6Hq"
@@ -737,7 +829,7 @@
       "url": "https://open.spotify.com/track/1w6b63TmaXFk1jhPOY0FkY"
     },
     {
-      "added_at": "2023-11-28 15:00:00",
+      "added_at": "2023-12-01 05:00:00",
       "album": {
         "name": "Either Way",
         "url": "https://open.spotify.com/album/31ZO3EEc4JPomzMGed9BEV"
@@ -753,7 +845,7 @@
       "url": "https://open.spotify.com/track/6ezYHltHYhuJckdCsYsRJI"
     },
     {
-      "added_at": "2023-11-28 15:00:00",
+      "added_at": "2023-12-01 05:00:00",
       "album": {
         "name": "ZOOM ZOOM",
         "url": "https://open.spotify.com/album/1A6g2ZDdb7ggiiTXUbEuMP"
@@ -769,7 +861,7 @@
       "url": "https://open.spotify.com/track/3DZwsHxTYjCcMUTcSkATPl"
     },
     {
-      "added_at": "2023-11-28 15:00:00",
+      "added_at": "2023-12-01 05:00:00",
       "album": {
         "name": "GAME PLAN",
         "url": "https://open.spotify.com/album/7xMXoWstClAzBIo5lOAASu"
@@ -785,7 +877,7 @@
       "url": "https://open.spotify.com/track/7jzOZuWgZ5gaMet9V5Ix1d"
     },
     {
-      "added_at": "2023-11-28 15:00:00",
+      "added_at": "2023-12-01 05:00:00",
       "album": {
         "name": "I Love My Body",
         "url": "https://open.spotify.com/album/7Lbc8drIJGlYLT4hdcBvre"
@@ -801,7 +893,7 @@
       "url": "https://open.spotify.com/track/0pHylQR53epYtRcVIhUSCh"
     },
     {
-      "added_at": "2023-11-28 15:00:00",
+      "added_at": "2023-12-01 05:00:00",
       "album": {
         "name": "Grand Prix",
         "url": "https://open.spotify.com/album/6lriTwnKW6GIKoRYOJ2Dy9"
@@ -817,7 +909,7 @@
       "url": "https://open.spotify.com/track/5btc1Il6aABmVNUOjooNK8"
     },
     {
-      "added_at": "2023-11-28 15:00:00",
+      "added_at": "2023-12-01 05:00:00",
       "album": {
         "name": "exp\u00e9rgo",
         "url": "https://open.spotify.com/album/6GbCvETnCVvkpvK6qCqTYS"
@@ -833,7 +925,7 @@
       "url": "https://open.spotify.com/track/6P3CtlzTKLxcNYGOS3es8m"
     },
     {
-      "added_at": "2023-11-28 15:00:00",
+      "added_at": "2023-12-01 05:00:00",
       "album": {
         "name": "Golden Age - The 4th Album",
         "url": "https://open.spotify.com/album/5mUo2e4QpUA7NJl2t51uFu"
@@ -849,7 +941,7 @@
       "url": "https://open.spotify.com/track/2pozUjd7AVIPwSNDqoU3ek"
     },
     {
-      "added_at": "2023-11-28 15:00:00",
+      "added_at": "2023-12-01 05:00:00",
       "album": {
         "name": "CRIMINAL LOVE",
         "url": "https://open.spotify.com/album/6S8BCiVrtzm5TEOnjyyCfJ"
@@ -865,7 +957,7 @@
       "url": "https://open.spotify.com/track/0Eglu3fErlG196PtTwCUPM"
     },
     {
-      "added_at": "2023-11-28 15:00:00",
+      "added_at": "2023-12-01 05:00:00",
       "album": {
         "name": "ZONE",
         "url": "https://open.spotify.com/album/1GIkapvyAw5lwdNw66hI44"
@@ -881,7 +973,7 @@
       "url": "https://open.spotify.com/track/4Cyf87ul1le0xTWRFBoYd7"
     },
     {
-      "added_at": "2023-11-28 15:00:00",
+      "added_at": "2023-12-01 05:00:00",
       "album": {
         "name": "Fact Check - The 5th Album",
         "url": "https://open.spotify.com/album/0BJU07UQiBbB2bLLJg2ktr"
@@ -897,7 +989,7 @@
       "url": "https://open.spotify.com/track/5EtiQveQFQy0R05hLVDyKv"
     },
     {
-      "added_at": "2023-11-28 15:00:00",
+      "added_at": "2023-12-01 05:00:00",
       "album": {
         "name": "ISTJ - The 3rd Album",
         "url": "https://open.spotify.com/album/6RJlrKu60DPF6BMXVdotY7"
@@ -913,7 +1005,7 @@
       "url": "https://open.spotify.com/track/63Czf03uph6EyJDL1z3x3z"
     },
     {
-      "added_at": "2023-11-28 15:00:00",
+      "added_at": "2023-12-01 05:00:00",
       "album": {
         "name": "Hare Hare",
         "url": "https://open.spotify.com/album/0ymqvaOiilJa797C3Y2mZh"
@@ -929,7 +1021,7 @@
       "url": "https://open.spotify.com/track/0h3dJV8JA5oxPzSF4tkz2t"
     },
     {
-      "added_at": "2023-11-28 15:00:00",
+      "added_at": "2023-12-01 05:00:00",
       "album": {
         "name": "Seven (feat. Latto)",
         "url": "https://open.spotify.com/album/53985D8g3JcGBoULSOYYKX"
@@ -949,7 +1041,7 @@
       "url": "https://open.spotify.com/track/7x9aauaA9cu6tyfpHnqDLo"
     },
     {
-      "added_at": "2023-11-28 15:00:00",
+      "added_at": "2023-12-01 05:00:00",
       "album": {
         "name": "Memories",
         "url": "https://open.spotify.com/album/2oPFVwB8gXNDjVGA9wDmMT"
@@ -965,7 +1057,7 @@
       "url": "https://open.spotify.com/track/11s5p72subU7SHJPzyR2Lq"
     },
     {
-      "added_at": "2023-11-28 15:00:00",
+      "added_at": "2023-12-01 05:00:00",
       "album": {
         "name": "An Iron Hand In A Velvet Glove",
         "url": "https://open.spotify.com/album/1ZXkq2lRMEuEILb4XfEXAL"
@@ -985,7 +1077,7 @@
       "url": "https://open.spotify.com/track/0mWIAujQDmtG5m7Mu0NTmK"
     },
     {
-      "added_at": "2023-11-28 15:00:00",
+      "added_at": "2023-12-01 05:00:00",
       "album": {
         "name": "A Midsummer NMIXX\u2019s Dream",
         "url": "https://open.spotify.com/album/0OM5hpJTbDQtetg6TQCOke"
@@ -1001,7 +1093,7 @@
       "url": "https://open.spotify.com/track/0HdcJkzhhhzID0nXEpIVgH"
     },
     {
-      "added_at": "2023-11-28 15:00:00",
+      "added_at": "2023-12-01 05:00:00",
       "album": {
         "name": "Down to Earth",
         "url": "https://open.spotify.com/album/6uMu4poce5OdMd1HYglZux"
@@ -1021,7 +1113,7 @@
       "url": "https://open.spotify.com/track/5HrIcZOo1DysX53qDRlRnt"
     },
     {
-      "added_at": "2023-11-28 15:00:00",
+      "added_at": "2023-12-01 05:00:00",
       "album": {
         "name": "TEENFRESH",
         "url": "https://open.spotify.com/album/4P5wnRQTBnnjNbjt7A6S6x"
@@ -1037,7 +1129,7 @@
       "url": "https://open.spotify.com/track/4P5ozkI1bxiGxA5rZ27jlO"
     },
     {
-      "added_at": "2023-11-28 15:00:00",
+      "added_at": "2023-12-01 05:00:00",
       "album": {
         "name": "Back for More (with Anitta)",
         "url": "https://open.spotify.com/album/5zhfCotijpaEJfQNVAC8mV"
@@ -1057,7 +1149,7 @@
       "url": "https://open.spotify.com/track/6uTPA1xlcsk6dbchB2dhzl"
     },
     {
-      "added_at": "2023-11-28 15:00:00",
+      "added_at": "2023-12-01 05:00:00",
       "album": {
         "name": "BSS 1st Single Album 'SECOND WIND'",
         "url": "https://open.spotify.com/album/4dHtpne5cAAGgDYFNHu7jW"
@@ -1077,7 +1169,7 @@
       "url": "https://open.spotify.com/track/7eBpUuPnDTfbeP1P4P93CS"
     },
     {
-      "added_at": "2023-11-28 15:00:00",
+      "added_at": "2023-12-01 05:00:00",
       "album": {
         "name": "Target: ME",
         "url": "https://open.spotify.com/album/3zgfK7IBAPDcroAqxzzMOy"
@@ -1093,7 +1185,7 @@
       "url": "https://open.spotify.com/track/6MSRu5wksC0Esn63XOgmI3"
     },
     {
-      "added_at": "2023-11-28 15:00:00",
+      "added_at": "2023-12-01 05:00:00",
       "album": {
         "name": "NewJeans 'Super Shy'",
         "url": "https://open.spotify.com/album/5V729UqvhwNOcMejx0m55I"
@@ -1109,7 +1201,7 @@
       "url": "https://open.spotify.com/track/5sdQOyqq2IDhvmx2lHOpwd"
     },
     {
-      "added_at": "2023-11-28 15:00:00",
+      "added_at": "2023-12-01 05:00:00",
       "album": {
         "name": "TOO MUCH",
         "url": "https://open.spotify.com/album/7gCggwpSuqUmVzWniLdpKR"
@@ -1133,7 +1225,7 @@
       "url": "https://open.spotify.com/track/0rKWJnmo6Q0ovoPOLoLm0t"
     },
     {
-      "added_at": "2023-11-28 15:00:00",
+      "added_at": "2023-12-01 05:00:00",
       "album": {
         "name": "SHOOTING STAR",
         "url": "https://open.spotify.com/album/1Gi6ij4Jxc4qE35i3I0gqS"
@@ -1149,7 +1241,7 @@
       "url": "https://open.spotify.com/track/3IelG5zYpWWCZIH4cqWlPV"
     },
     {
-      "added_at": "2023-11-28 15:00:00",
+      "added_at": "2023-12-01 05:00:00",
       "album": {
         "name": "NEW DANCE",
         "url": "https://open.spotify.com/album/5iBG5tDegPYWxpzmgYs4KK"
@@ -1165,7 +1257,7 @@
       "url": "https://open.spotify.com/track/6Pjzy9avwlVr4UAbxkQQmh"
     },
     {
-      "added_at": "2023-11-28 15:00:00",
+      "added_at": "2023-12-01 05:00:00",
       "album": {
         "name": "ColoRise",
         "url": "https://open.spotify.com/album/1VJ62OC6tQN9n5ss3uEQyr"
@@ -1181,7 +1273,7 @@
       "url": "https://open.spotify.com/track/4lOlKcHOovGeQtCGWnEzKy"
     },
     {
-      "added_at": "2023-11-28 15:00:00",
+      "added_at": "2023-12-01 05:00:00",
       "album": {
         "name": "Down to Earth",
         "url": "https://open.spotify.com/album/6uMu4poce5OdMd1HYglZux"
@@ -1201,7 +1293,7 @@
       "url": "https://open.spotify.com/track/4NIe9Is7bN5JWyTeCW2ahK"
     },
     {
-      "added_at": "2023-11-28 15:00:00",
+      "added_at": "2023-12-01 05:00:00",
       "album": {
         "name": "THE WORLD EP.2 : OUTLAW",
         "url": "https://open.spotify.com/album/5DxixnuklLg28S7UMeGC9H"
@@ -1217,7 +1309,7 @@
       "url": "https://open.spotify.com/track/5KyOUICJIvO0z71MBdPGiX"
     },
     {
-      "added_at": "2023-11-28 15:00:00",
+      "added_at": "2023-12-01 05:00:00",
       "album": {
         "name": "Layover",
         "url": "https://open.spotify.com/album/1ZBDI1LqnuAKdrePUF2D5m"
@@ -1233,7 +1325,7 @@
       "url": "https://open.spotify.com/track/2N0SPREDYqILVEFSsWF5N5"
     },
     {
-      "added_at": "2023-11-28 15:00:00",
+      "added_at": "2023-12-01 05:00:00",
       "album": {
         "name": "EVOLution <\u27e1>",
         "url": "https://open.spotify.com/album/3Y0JJMZ92U2D5zKGQDfkH5"
@@ -1249,7 +1341,7 @@
       "url": "https://open.spotify.com/track/3FWXkGqJx0giJzQNqkcK74"
     },
     {
-      "added_at": "2023-11-28 15:00:00",
+      "added_at": "2023-12-01 05:00:00",
       "album": {
         "name": "Layover",
         "url": "https://open.spotify.com/album/7ixOAT89NSsgUITYc5ByB5"
@@ -1265,7 +1357,7 @@
       "url": "https://open.spotify.com/track/5h1BN75CEh8wdSwE1xrbSe"
     },
     {
-      "added_at": "2023-11-28 15:00:00",
+      "added_at": "2023-12-01 05:00:00",
       "album": {
         "name": "\u3053\u3093\u306a\u306b\u541b\u3092",
         "url": "https://open.spotify.com/album/43HFNNbIHaLF3b7gLaQPCP"

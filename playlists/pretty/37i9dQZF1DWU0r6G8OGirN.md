@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU0r6G8OGirN.md) - [plain]
 
 > Warm instrumental versions of your favorite Christmas songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 468,144 likes - 83 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 472,765 likes - 83 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,4 +92,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU0r6G8OGirN.md) - [plain]
 | 82 | [What Child Is This](https://open.spotify.com/track/29fnDld1i5KhEF63a9QnmZ) | [Maurice Green](https://open.spotify.com/artist/0I2MdtSSCg5xHyymlJpnN3) | [What Child Is This](https://open.spotify.com/album/72aJzZXCOORiyTslTk5Mh3) | 2:44 |
 | 83 | [Christ Was Born On Christmas Day](https://open.spotify.com/track/1HyKIB8bzYYT6PlosczZj3) | [Lyn Ardbeg](https://open.spotify.com/artist/6cUNyotmONFDiZvl8LafA6) | [Christ Was Born On Christmas Day](https://open.spotify.com/album/4Av88zEsREUmeIhBwUhWV7) | 2:34 |
 
-Snapshot ID: `MCxjM2ZjMWQzOWFlZWVmM2YzMmI0ZDMxMTUwODc1NjgwZTQ3ZDEwNWNi`
+Snapshot ID: `MCw0NWI2Y2M0NmE3NzA2YjlhOWYxOTZhNTE4Yzc5NGEyNTM1MDhiNzZk`

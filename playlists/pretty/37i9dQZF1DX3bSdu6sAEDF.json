@@ -1,12 +1,12 @@
 {
   "description": "Let this smooth mix carry you home in style.",
-  "num_followers": 508012,
+  "num_followers": 508052,
   "original_name": "Evening Commute",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NmM1MmM3MjE3MmI0ZjM4ZDkxYTkwNDhhZWI5Njk3YTk4ODI0ZmRi",
+  "snapshot_id": "MCw2MmViMmM5OWY4NDAxMmEyZDFlNzQyYzVlYjY1NTNkZDM2NzQ1NGE5",
   "tracks": [
     {
       "added_at": "2023-11-10 05:00:00",
@@ -23,6 +23,26 @@
       "duration_ms": 193386,
       "name": "Magic",
       "url": "https://open.spotify.com/track/1ozTHWtYAhhLeJ2CejjNyF"
+    },
+    {
+      "added_at": "2023-12-01 05:01:00",
+      "album": {
+        "name": "Into Your Room (with MUNA)",
+        "url": "https://open.spotify.com/album/5xoc8PmIs7xsuxaA7t4Oun"
+      },
+      "artists": [
+        {
+          "name": "Holly Humberstone",
+          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
+        },
+        {
+          "name": "MUNA",
+          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
+        }
+      ],
+      "duration_ms": 211235,
+      "name": "Into Your Room (with MUNA)",
+      "url": "https://open.spotify.com/track/3RaG1pAMRHFiCAqcE9KKNo"
     },
     {
       "added_at": "2023-10-20 04:01:00",
@@ -1227,22 +1247,6 @@
       "duration_ms": 153096,
       "name": "Disaster",
       "url": "https://open.spotify.com/track/3SWGtKHaCFEUqfm9ydUFVw"
-    },
-    {
-      "added_at": "2023-09-04 21:51:37",
-      "album": {
-        "name": "BREAK THE CURSE",
-        "url": "https://open.spotify.com/album/0nbH8z2iSYXnFE62X1iwYO"
-      },
-      "artists": [
-        {
-          "name": "Arlie",
-          "url": "https://open.spotify.com/artist/6Bllzm0olEwqGwPujaLiuA"
-        }
-      ],
-      "duration_ms": 183933,
-      "name": "landline",
-      "url": "https://open.spotify.com/track/3OqP3uIygaUiuVzhVyk0X5"
     }
   ],
   "unique_name": "Evening Commute",

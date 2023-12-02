@@ -4,7 +4,7 @@
 
 > Fino y elegante, como LOS MUCHACHOS de Piso 21.
 
-214 songs - 11 hr 12 min
+215 songs - 11 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -129,6 +129,7 @@
 | [María](https://open.spotify.com/track/4UJRRrgFULpBbDrGkFktiK) | [Crudo Means Raw](https://open.spotify.com/artist/3fQP5a7SIC91kV4N8AOy53) | [María](https://open.spotify.com/album/6X0AWaRd1dYuubtOY3qJsj) | 2:35 | 2022-10-13 | 2023-05-20 |
 | [Materile](https://open.spotify.com/track/7KR2kBHjAATGyKCscrzkE3) | [Nobeat](https://open.spotify.com/artist/3TKS1JzWOLAnicuOCOyVlW) | [Materile](https://open.spotify.com/album/1JnTZNv08vuF1Ws95mF3Po) | 2:47 | 2022-09-16 | 2022-10-07 |
 | [Me Perjudique](https://open.spotify.com/track/70tG2LYkoL0bbBGZhCYjnt) | [El Clooy](https://open.spotify.com/artist/2iBSDwlk9bvp1aKT4ubGoC) | [Me Perjudique](https://open.spotify.com/album/4qOZcYBrc1N7WbxyBRo77C) | 2:35 | 2023-11-24 |  |
+| [Medellificación](https://open.spotify.com/track/00jmSvshmJtTF8m3tc7xit) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D), [Jeronimo](https://open.spotify.com/artist/1GL3jFkc6YUeQGseYHS1hC) | [Medellificación](https://open.spotify.com/album/6EOAPxFmNwLMaJ6aPmfwsP) | 3:52 | 2023-12-01 |  |
 | [Mojando Asientos \(feat\. Feid\)](https://open.spotify.com/track/0LKu09Iq053CEUZ5ktQEWc) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Mojando Asientos \(feat\. Feid\)](https://open.spotify.com/album/7d2q5cmU01iy4lToXvQ1qB) | 4:12 | 2022-09-06 |  |
 | [Monastery](https://open.spotify.com/track/1JpzJfxjHGFUyTHXLZidok) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Monastery](https://open.spotify.com/album/3upu3TUmDtq90LfWIxlQCC) | 3:09 | 2022-09-06 | 2022-10-14 |
 | [Monumento \- Remix](https://open.spotify.com/track/1bUTLkxM3nMUngIGP0M8ws) | [Andy Rivera](https://open.spotify.com/artist/7hIqJfRYGBWWT1Qxu6Cpd2), [Ñejo](https://open.spotify.com/artist/2OHKEe204spO7G7NcbeO2o), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [Monumento \(Remix\)](https://open.spotify.com/album/5aCvN6v9puvOs2aPzWDx9D) | 3:28 | 2022-09-06 |  |
@@ -186,7 +187,7 @@
 | [Roxe](https://open.spotify.com/track/6LayKriqRHaFYI6peQp45f) | [Kid Fresco](https://open.spotify.com/artist/2Mqd2MLJTKaLBG8N5vS5rD), [Yera](https://open.spotify.com/artist/1vrahybrKylgwkjhbmOz94) | [Roxe](https://open.spotify.com/album/5Mjitq9NAXuE4ARFJTZuHe) | 3:05 | 2022-10-14 | 2022-10-29 |
 | [RULAY](https://open.spotify.com/track/5ITpOthZI6yuhF33ANi3UV) | [Reykon](https://open.spotify.com/artist/3PAwspMN27PDm81WwXDsMf) | [RULAY](https://open.spotify.com/album/3iYAQLMCjwrj4q8cS3I8d2) | 2:24 | 2023-07-14 | 2023-08-26 |
 | [S91](https://open.spotify.com/track/7EpOXgSRgnglRWr86pZfGU) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [S91](https://open.spotify.com/album/0bgvd5Xd52TX61R8uhaISK) | 2:53 | 2023-07-14 |  |
-| [Sadman \(feat\. El ultimo del tren\)](https://open.spotify.com/track/7bzSsAidhv6KtPwn09CmcY) | [Métricas Frías](https://open.spotify.com/artist/10MeG72hSqEKGbUdBowf9k), [DeeJohend](https://open.spotify.com/artist/6XUEYOORHZPpLe6hoCegF1), [Doble Porcion](https://open.spotify.com/artist/4PLGokgPkAapRsKDwXq408), [El ultimo del tren](https://open.spotify.com/artist/35TK53cUM9MH1GYCOVDK0n) | [Niño Caos](https://open.spotify.com/album/1al5KY3S4Ik2DM5j8Hw1yt) | 2:44 | 2023-10-06 |  |
+| [Sadman \(feat\. El ultimo del tren\)](https://open.spotify.com/track/7bzSsAidhv6KtPwn09CmcY) | [Métricas Frías](https://open.spotify.com/artist/10MeG72hSqEKGbUdBowf9k), [DeeJohend](https://open.spotify.com/artist/6XUEYOORHZPpLe6hoCegF1), [Doble Porcion](https://open.spotify.com/artist/4PLGokgPkAapRsKDwXq408), [El ultimo del tren](https://open.spotify.com/artist/35TK53cUM9MH1GYCOVDK0n) | [Niño Caos](https://open.spotify.com/album/1al5KY3S4Ik2DM5j8Hw1yt) | 2:44 | 2023-10-06 | 2023-12-02 |
 | [Sancocho en Leña](https://open.spotify.com/track/1Z85Y8DVbysMc853oocVt8) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D) | [Sancocho en Leña](https://open.spotify.com/album/0dKNHwPd4OMcsHsrW61Gm7) | 2:56 | 2022-10-13 | 2023-01-06 |
 | [Si Supieran](https://open.spotify.com/track/4JOD18HMnM0RNIdeCMYem3) | [Kapla y Miky](https://open.spotify.com/artist/4dhKkIzf9LXogFL1NXfQc1), [Andy Rivera](https://open.spotify.com/artist/7hIqJfRYGBWWT1Qxu6Cpd2) | [Si Supieran](https://open.spotify.com/album/2kclsnBdL83nNNLJbZxNca) | 3:23 | 2023-08-25 | 2023-09-06 |
 | [Si Te La Encuentras Por Ahí](https://open.spotify.com/track/02jLfqc9gMo8PkHEGHY3OT) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Si Te La Encuentras Por Ahí](https://open.spotify.com/album/29RDinslKobc2UKf1XcWn6) | 3:11 | 2022-09-06 |  |

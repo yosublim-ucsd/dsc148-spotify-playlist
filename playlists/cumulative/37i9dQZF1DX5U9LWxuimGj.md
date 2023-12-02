@@ -4,7 +4,7 @@
 
 > Country music with a Latin flair\. Cover: Angie K
 
-141 songs - 7 hr 47 min
+142 songs - 7 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [Achy Breaky Heart 25 \(Spanglish\) \[feat\. Jencarlos Canela\]](https://open.spotify.com/track/6AJJN8totfQ19PPft5qJqt) | [Billy Ray Cyrus](https://open.spotify.com/artist/60rpJ9SgigSd16DOAG7GSa), [JENCARLOS](https://open.spotify.com/artist/3f4OfcNtgL9MLgiyOdIHC7) | [Set the Record Straight](https://open.spotify.com/album/65HZxbBL9viNkzeFJM53tE) | 3:14 | 2022-07-08 |  |
 | [Achy Breaky Heart 25 \- Spanglish \(feat\. Jencarlos Canela\)](https://open.spotify.com/track/7BsOKmHxQ9vvpFZaRR8Tzm) | [Billy Ray Cyrus](https://open.spotify.com/artist/60rpJ9SgigSd16DOAG7GSa), [The Silver Mullet Band](https://open.spotify.com/artist/0OUA8eU4zKdxFX9DL2sdkR), [JENCARLOS](https://open.spotify.com/artist/3f4OfcNtgL9MLgiyOdIHC7) | [Achy Breaky Heart 25 \- Spanglish \(feat\. Jencarlos Canela\)](https://open.spotify.com/album/3fO7J7vXdxv5IdixnK2O3K) | 3:14 | 2021-12-10 | 2022-07-29 |
 | [Adiós Amor \- Recorded at Panoram Studios, Mexico](https://open.spotify.com/track/00yK9fIjWQfF5g70TK9vdj) | [Ha\*Ash](https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8) | [Spotify Singles](https://open.spotify.com/album/6vB3HwLeq8ZjQYXUka7QIs) | 3:22 | 2021-12-10 |  |
+| [ALCH SI](https://open.spotify.com/track/5cWgwbui8BasfjCXvBZ7UA) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [ALCH SI](https://open.spotify.com/album/7rCPyUIciqYswpRXTa1JYc) | 2:33 | 2023-12-01 |  |
 | [Anybody Else \- Latin Remix](https://open.spotify.com/track/0HvfTzdXOpyoUtayGyvLyn) | [Mira Goto](https://open.spotify.com/artist/4QsATL0ozR4un64TltaF7o), [Pamela Velez](https://open.spotify.com/artist/3nxx6KxCTRLcdlW4vFRy4U), [Nia Skyfer](https://open.spotify.com/artist/3eZUOEIFA3hTKWNs6UbZwN) | [Anybody Else \(Latin Remix\)](https://open.spotify.com/album/4XidZG19fylj92RfMH3fl0) | 2:00 | 2021-12-10 |  |
 | [Ashes](https://open.spotify.com/track/1apDxpEFWUmDrTSYYEHv0L) | [Lindi Ortega](https://open.spotify.com/artist/0F8GZ29QxpnfOZvM25l7tJ) | [Faded Gloryville](https://open.spotify.com/album/2wnC0fWey2uAnCBsrdTeqf) | 4:34 | 2022-07-08 |  |
 | [Ashes](https://open.spotify.com/track/6dben05JiKn09x31h1JgOW) | [Lindi Ortega](https://open.spotify.com/artist/0F8GZ29QxpnfOZvM25l7tJ) | [Faded Gloryville](https://open.spotify.com/album/5AmFYqUT1cu6JErSTHw5k6) | 4:34 | 2021-12-10 | 2022-07-29 |

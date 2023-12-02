@@ -4,7 +4,7 @@
 
 > The official EA SPORTS NHL 24 soundtrack.
 
-35 songs - 1 hr 46 min
+36 songs - 1 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Last Man in the World](https://open.spotify.com/track/69YOn8zDCuOldm2xUpynsE) | [The Band CAMINO](https://open.spotify.com/artist/6d4jrmreCmsenscuieJERc) | [The Dark](https://open.spotify.com/album/6S2FI6xzGq3INs2WnlB9ou) | 2:42 | 2023-09-29 |  |
 | [LosT](https://open.spotify.com/track/5BgnL6gHauuvxe4Ok6W1aC) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [LosT](https://open.spotify.com/album/3zZBB971MYFVBYlzNrYpoA) | 3:25 | 2023-09-29 |  |
 | [Lowlife](https://open.spotify.com/track/2kDApipZtTzjwGfKujcg2z) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [Lowlife](https://open.spotify.com/album/4MwosQ9tTm95DAaHdoNs5E) | 3:53 | 2023-09-29 |  |
+| [Move On](https://open.spotify.com/track/1uD1DhAEZ2XzU8psOERt54) | [FIDLAR](https://open.spotify.com/artist/3P6duIn7oHeiBACZfYeNud) | [Move On](https://open.spotify.com/album/3n3gvdhR2fkx9qXXPrIAi3) | 2:41 | 2023-12-01 |  |
 | [Odyssey](https://open.spotify.com/track/2xMDqXTRJTcsBFECwwZhYz) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS), [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Odyssey](https://open.spotify.com/album/2qk0NP9lpVaZIjkIY5oUFO) | 3:46 | 2023-09-29 |  |
 | [Out Of Options \(feat\. midwxst\)](https://open.spotify.com/track/4VJRH6rxf9BkGYUsadAXdN) | [San Holo](https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo), [midwxst](https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8) | [Out Of Options \(feat\. midwxst\)](https://open.spotify.com/album/1wcJej04CsVq2oheKzXeDV) | 2:36 | 2023-09-29 |  |
 | [Psychopath](https://open.spotify.com/track/7KSAqfQp0BgllQJuimgdye) | [Another Sky](https://open.spotify.com/artist/08p5D6BYuwPqGsFuIDLNFr) | [Psychopath](https://open.spotify.com/album/3AbrCdHe3tzMrsyUMcuiPf) | 3:33 | 2023-09-29 |  |

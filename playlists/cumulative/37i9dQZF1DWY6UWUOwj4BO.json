@@ -1180,7 +1180,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 180645,
       "name": "Onde Anda - French Version - Acoustic",
       "url": "https://open.spotify.com/track/3uy0p6o4ZEb5Oyom4zg337"
@@ -1582,6 +1582,24 @@
       "duration_ms": 162000,
       "name": "Where Are You Now - Acoustic",
       "url": "https://open.spotify.com/track/4jU6qkh8stB9uqXEPMqnJL"
+    },
+    {
+      "album": {
+        "name": "Wish You The Best EP",
+        "url": "https://open.spotify.com/album/46ksJlfXcOQTlSUo7EWIYE"
+      },
+      "artists": [
+        {
+          "name": "Lewis Capaldi",
+          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209352,
+      "name": "Wish You The Best - Guitar Version",
+      "url": "https://open.spotify.com/track/3rOGAAipcIGs9p75v9wDPq"
     },
     {
       "album": {

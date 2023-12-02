@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Up and down I-95. Cover: Lola Brooke",
+  "description": "Up and down I-95. Cover: 41",
   "name": "State of Mind",
   "tracks": [
     {
@@ -333,6 +333,28 @@
     },
     {
       "album": {
+        "name": "30 For 30",
+        "url": "https://open.spotify.com/album/0Oxqa21KouOsy5ApoiOB7j"
+      },
+      "artists": [
+        {
+          "name": "Dave East",
+          "url": "https://open.spotify.com/artist/7e10JUMF7MJmmwYpnTSMI5"
+        },
+        {
+          "name": "Cruch Calhoun",
+          "url": "https://open.spotify.com/artist/2PiZ8zLjbvJVQuNhMIPFHC"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197335,
+      "name": "30 for 30",
+      "url": "https://open.spotify.com/track/3v6GHqxoK7hQM8ubHc92ds"
+    },
+    {
+      "album": {
         "name": "3AM in the Yams (feat. Luh Tyler)",
         "url": "https://open.spotify.com/album/2j01RMLBK6DTtGpGAl50Ah"
       },
@@ -512,6 +534,24 @@
       "duration_ms": 219041,
       "name": "850 (We On Top) [feat. Rich The Kid]",
       "url": "https://open.spotify.com/track/75mPObh81zu09GdVOfRG6l"
+    },
+    {
+      "album": {
+        "name": "A Forsaken Lover's Plea",
+        "url": "https://open.spotify.com/album/1Gyeg7Y0DYpD03XVEVuraW"
+      },
+      "artists": [
+        {
+          "name": "Chuck Strangers",
+          "url": "https://open.spotify.com/artist/1o1szEyRkKUmDfqHOsU9b5"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132670,
+      "name": "A Forsaken Lover's Plea",
+      "url": "https://open.spotify.com/track/0jbcNWhYeFbaYJAY0YgBJu"
     },
     {
       "album": {
@@ -1814,7 +1854,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 146966,
       "name": "Bla Bla (feat. Fivio Foreign)",
       "url": "https://open.spotify.com/track/1xHcIJHIHwr2PUyTmFTWTy"
@@ -2929,6 +2969,24 @@
     },
     {
       "album": {
+        "name": "264",
+        "url": "https://open.spotify.com/album/02Aem2tWHETbH3hbYLUgu1"
+      },
+      "artists": [
+        {
+          "name": "TyFontaine",
+          "url": "https://open.spotify.com/artist/3U1jsFYwwJHv7VB4Frf3F4"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121226,
+      "name": "Charge It To The Game",
+      "url": "https://open.spotify.com/track/3Ah1JiA3GaKQRtEKPTtmHV"
+    },
+    {
+      "album": {
         "name": "Cheating Freestyle",
         "url": "https://open.spotify.com/album/37NDokVZ0FFTmQwlgKT3nO"
       },
@@ -2962,7 +3020,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 102857,
       "name": "Cheeeeks!",
       "url": "https://open.spotify.com/track/5apRfd6GUxvql93R74dDux"
@@ -5528,7 +5586,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 231818,
       "name": "Flyest in The City (feat. A Boogie Wit da Hoodie & Jeremih)",
       "url": "https://open.spotify.com/track/3LzcF35kaoR15JSBJflDZ7"
@@ -5728,6 +5786,28 @@
       "duration_ms": 183931,
       "name": "Free Agency",
       "url": "https://open.spotify.com/track/7tJOSbWE58Tk9dF3S0YsYz"
+    },
+    {
+      "album": {
+        "name": "Free Sdot",
+        "url": "https://open.spotify.com/album/7ENJckTftCNvTwOHiYwoW5"
+      },
+      "artists": [
+        {
+          "name": "Sdot Go",
+          "url": "https://open.spotify.com/artist/73sV26yCMzpIeYxesG3jdV"
+        },
+        {
+          "name": "SweepersENT",
+          "url": "https://open.spotify.com/artist/3gQoRf2OOQucNCzox0TI9l"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123221,
+      "name": "FREE G",
+      "url": "https://open.spotify.com/track/6H1YORhgSMWyX6NhFzwPi3"
     },
     {
       "album": {
@@ -6100,7 +6180,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 130794,
       "name": "GBG (feat. Marshmello)",
       "url": "https://open.spotify.com/track/6gmwkJCHUJa6f9RP4UrjSk"
@@ -6216,7 +6296,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 126642,
       "name": "Ghetto & Ratchet",
       "url": "https://open.spotify.com/track/6ncy0vKrwLOqKI50vwjC64"
@@ -6720,6 +6800,24 @@
       "duration_ms": 184084,
       "name": "Grind Harder",
       "url": "https://open.spotify.com/track/5hsntNpynrV7QXyHeV0NaQ"
+    },
+    {
+      "album": {
+        "name": "Gun for Gun",
+        "url": "https://open.spotify.com/album/65xUGIszcBbbpBRpoAEiLu"
+      },
+      "artists": [
+        {
+          "name": "Sha EK",
+          "url": "https://open.spotify.com/artist/3jVAqTL4NbB88q4lj94VX9"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108375,
+      "name": "Gun for Gun",
+      "url": "https://open.spotify.com/track/6HD02KC4uZSGDOlzbUXfbx"
     },
     {
       "album": {
@@ -8775,6 +8873,24 @@
     },
     {
       "album": {
+        "name": "Holy Water",
+        "url": "https://open.spotify.com/album/0vvsV9PgoX1kSkwjmHTN2A"
+      },
+      "artists": [
+        {
+          "name": "Millyz",
+          "url": "https://open.spotify.com/artist/7dDYME7Y3GoEQotd8gUvQg"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191389,
+      "name": "Last Time",
+      "url": "https://open.spotify.com/track/5lNWV5HwCCPbRX5OD1HcVt"
+    },
+    {
+      "album": {
         "name": "Me vs. Myself",
         "url": "https://open.spotify.com/album/2iKQjWWBysdCf52lSiwA03"
       },
@@ -9296,6 +9412,24 @@
       "duration_ms": 237673,
       "name": "Lonely (feat. Offset)",
       "url": "https://open.spotify.com/track/2wIXRxIzYm61W5zBHTptpn"
+    },
+    {
+      "album": {
+        "name": "Decisions",
+        "url": "https://open.spotify.com/album/1wXA0CPAKjjqonYux7JJvC"
+      },
+      "artists": [
+        {
+          "name": "Wiz Khalifa",
+          "url": "https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194478,
+      "name": "Looking For Nipsey",
+      "url": "https://open.spotify.com/track/4Cgaq1KqdMFmlciy0PR4dX"
     },
     {
       "album": {
@@ -11440,7 +11574,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 119435,
       "name": "Oakland Originals",
       "url": "https://open.spotify.com/track/5cxdOcfyY8w54MyxuZ28LS"
@@ -15364,7 +15498,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 183705,
       "name": "Stand By Me",
       "url": "https://open.spotify.com/track/33ivIh56dnTsz0kgQmLowp"
@@ -17447,6 +17581,28 @@
     },
     {
       "album": {
+        "name": "We Made It",
+        "url": "https://open.spotify.com/album/73ssqyLwb9cht2Y4GaOY11"
+      },
+      "artists": [
+        {
+          "name": "Maino",
+          "url": "https://open.spotify.com/artist/20apXQGKM00jJTvYfyKwlb"
+        },
+        {
+          "name": "Giggs",
+          "url": "https://open.spotify.com/artist/3S0tlB4fE7ChxI2pWz8Xip"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186206,
+      "name": "We Made It",
+      "url": "https://open.spotify.com/track/5vuMXy5DUyOY5kOvaiOrN1"
+    },
+    {
+      "album": {
         "name": "We On It (feat. Dboylo)",
         "url": "https://open.spotify.com/album/5usObWbEH1bp2esxkRuoHk"
       },
@@ -17888,7 +18044,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 138000,
       "name": "Who You Touch Pt. 2 (feat. Trippie Redd)",
       "url": "https://open.spotify.com/track/3rdzGfp94hIX5nksvAjFoD"

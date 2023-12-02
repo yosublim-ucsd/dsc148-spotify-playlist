@@ -1,12 +1,12 @@
 {
   "description": "Let these innovative tracks spark your creativity and inspiration.",
-  "num_followers": 380290,
+  "num_followers": 380295,
   "original_name": "Creativity Boost",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5YjcwOTJlNjEwOTU5Y2VmZmFkZjE4YzQwYWMxZjk3ZWM5NDY1ZDQx",
+  "snapshot_id": "MCxkYjlhY2IzMDVkM2M1ZjRiYTM2NTNkYmFjZDZhNDY4NzdhZWE1ZjA0",
   "tracks": [
     {
       "added_at": "2023-01-11 21:01:15",
@@ -539,6 +539,22 @@
     {
       "added_at": "2023-01-11 21:01:15",
       "album": {
+        "name": "The Baby",
+        "url": "https://open.spotify.com/album/7faAwJDTt9Y8kVAcSHy9Y6"
+      },
+      "artists": [
+        {
+          "name": "Samia",
+          "url": "https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR"
+        }
+      ],
+      "duration_ms": 195773,
+      "name": "Big Wheel",
+      "url": "https://open.spotify.com/track/6GUQaa74JUSziJ9TT29Ghg"
+    },
+    {
+      "added_at": "2023-01-11 21:01:15",
+      "album": {
         "name": "My Love",
         "url": "https://open.spotify.com/album/2jTldfzmnGTfwNKQqJ1Wgb"
       },
@@ -563,22 +579,6 @@
       "duration_ms": 160505,
       "name": "My Love",
       "url": "https://open.spotify.com/track/398CKeawsPHfonnxsimsPe"
-    },
-    {
-      "added_at": "2023-01-11 21:01:15",
-      "album": {
-        "name": "The Baby",
-        "url": "https://open.spotify.com/album/7faAwJDTt9Y8kVAcSHy9Y6"
-      },
-      "artists": [
-        {
-          "name": "Samia",
-          "url": "https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR"
-        }
-      ],
-      "duration_ms": 195773,
-      "name": "Big Wheel",
-      "url": "https://open.spotify.com/track/6GUQaa74JUSziJ9TT29Ghg"
     },
     {
       "added_at": "2023-01-11 21:01:15",
@@ -707,22 +707,6 @@
     {
       "added_at": "2023-01-11 21:01:15",
       "album": {
-        "name": "Californian Soil",
-        "url": "https://open.spotify.com/album/3wcC3Rowkgk4CffWv84sJH"
-      },
-      "artists": [
-        {
-          "name": "London Grammar",
-          "url": "https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO"
-        }
-      ],
-      "duration_ms": 199996,
-      "name": "Lose Your Head",
-      "url": "https://open.spotify.com/track/2kU6bMVN21UbJ425q1yIKR"
-    },
-    {
-      "added_at": "2023-01-11 21:01:15",
-      "album": {
         "name": "God Save The Animals",
         "url": "https://open.spotify.com/album/6TzgWk5HZItbFmMT7hH4bU"
       },
@@ -739,6 +723,22 @@
     {
       "added_at": "2023-01-11 21:01:15",
       "album": {
+        "name": "Californian Soil",
+        "url": "https://open.spotify.com/album/3wcC3Rowkgk4CffWv84sJH"
+      },
+      "artists": [
+        {
+          "name": "London Grammar",
+          "url": "https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO"
+        }
+      ],
+      "duration_ms": 199996,
+      "name": "Lose Your Head",
+      "url": "https://open.spotify.com/track/2kU6bMVN21UbJ425q1yIKR"
+    },
+    {
+      "added_at": "2023-01-11 21:01:15",
+      "album": {
         "name": "something more",
         "url": "https://open.spotify.com/album/6xqDqHbdWJMuYtKySlTgaL"
       },
@@ -751,6 +751,26 @@
       "duration_ms": 196022,
       "name": "something more",
       "url": "https://open.spotify.com/track/7rP2j96yHkABXBAKpMAFs9"
+    },
+    {
+      "added_at": "2023-01-11 21:01:15",
+      "album": {
+        "name": "The Juicebox",
+        "url": "https://open.spotify.com/album/2EpbqvHpamUFsBboRaSbG1"
+      },
+      "artists": [
+        {
+          "name": "Emotional Oranges",
+          "url": "https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C"
+        },
+        {
+          "name": "Chiiild",
+          "url": "https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax"
+        }
+      ],
+      "duration_ms": 177409,
+      "name": "Bonafide (feat. Chiiild)",
+      "url": "https://open.spotify.com/track/6AwhhAhVLPvaDYmfR4j3bQ"
     },
     {
       "added_at": "2023-01-11 21:01:15",
@@ -775,22 +795,22 @@
     {
       "added_at": "2023-01-11 21:01:15",
       "album": {
-        "name": "The Juicebox",
-        "url": "https://open.spotify.com/album/2EpbqvHpamUFsBboRaSbG1"
+        "name": "Summer's Over",
+        "url": "https://open.spotify.com/album/60EzsIzS77S9MWHT0Tm37s"
       },
       "artists": [
         {
-          "name": "Emotional Oranges",
-          "url": "https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C"
+          "name": "Jordana",
+          "url": "https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw"
         },
         {
-          "name": "Chiiild",
-          "url": "https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax"
+          "name": "TV Girl",
+          "url": "https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W"
         }
       ],
-      "duration_ms": 177409,
-      "name": "Bonafide (feat. Chiiild)",
-      "url": "https://open.spotify.com/track/6AwhhAhVLPvaDYmfR4j3bQ"
+      "duration_ms": 173000,
+      "name": "Summer's Over",
+      "url": "https://open.spotify.com/track/4E5N0mYyYFf0QZs3XDeSIj"
     },
     {
       "added_at": "2023-01-11 21:01:15",
@@ -875,6 +895,22 @@
     {
       "added_at": "2023-01-11 21:01:15",
       "album": {
+        "name": "The Juice: Vol. I",
+        "url": "https://open.spotify.com/album/3No5rGRQefAlVJgWusDEwQ"
+      },
+      "artists": [
+        {
+          "name": "Emotional Oranges",
+          "url": "https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C"
+        }
+      ],
+      "duration_ms": 212866,
+      "name": "Corners Of My Mind",
+      "url": "https://open.spotify.com/track/0wdMcK7ejJRdi2AiY2wLGk"
+    },
+    {
+      "added_at": "2023-01-11 21:01:15",
+      "album": {
         "name": "Far From Here",
         "url": "https://open.spotify.com/album/3y1HiZb2e8rIP4nWMKJRFi"
       },
@@ -903,22 +939,6 @@
       "duration_ms": 197977,
       "name": "Artifice",
       "url": "https://open.spotify.com/track/7mp7xiw8cUpLPDTSZ1v5BS"
-    },
-    {
-      "added_at": "2023-01-11 21:01:15",
-      "album": {
-        "name": "The Juice: Vol. I",
-        "url": "https://open.spotify.com/album/3No5rGRQefAlVJgWusDEwQ"
-      },
-      "artists": [
-        {
-          "name": "Emotional Oranges",
-          "url": "https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C"
-        }
-      ],
-      "duration_ms": 212866,
-      "name": "Corners Of My Mind",
-      "url": "https://open.spotify.com/track/0wdMcK7ejJRdi2AiY2wLGk"
     },
     {
       "added_at": "2023-01-11 21:01:15",
@@ -971,18 +991,22 @@
     {
       "added_at": "2023-01-11 21:01:15",
       "album": {
-        "name": "Julia (deep diving)",
-        "url": "https://open.spotify.com/album/2HJCdduuXbN70tTNQyuFQn"
+        "name": "Awaken (Feel Alive)",
+        "url": "https://open.spotify.com/album/3LjP2mnsPooNbNG5faylZH"
       },
       "artists": [
         {
-          "name": "Fred again..",
-          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+          "name": "Big Wild",
+          "url": "https://open.spotify.com/artist/0PxzGnCYBpSuaI49OR94cA"
+        },
+        {
+          "name": "Surfaces",
+          "url": "https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u"
         }
       ],
-      "duration_ms": 274500,
-      "name": "Julia (deep diving)",
-      "url": "https://open.spotify.com/track/5DHSlpd0MX9DfnoAQqolfa"
+      "duration_ms": 180204,
+      "name": "Awaken (Feel Alive)",
+      "url": "https://open.spotify.com/track/2qTWIlRARiTrE5MIO1Q0HE"
     },
     {
       "added_at": "2023-01-11 21:01:15",
@@ -1003,22 +1027,18 @@
     {
       "added_at": "2023-01-11 21:01:15",
       "album": {
-        "name": "Awaken (Feel Alive)",
-        "url": "https://open.spotify.com/album/3LjP2mnsPooNbNG5faylZH"
+        "name": "Julia (deep diving)",
+        "url": "https://open.spotify.com/album/2HJCdduuXbN70tTNQyuFQn"
       },
       "artists": [
         {
-          "name": "Big Wild",
-          "url": "https://open.spotify.com/artist/0PxzGnCYBpSuaI49OR94cA"
-        },
-        {
-          "name": "Surfaces",
-          "url": "https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u"
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
         }
       ],
-      "duration_ms": 180204,
-      "name": "Awaken (Feel Alive)",
-      "url": "https://open.spotify.com/track/2qTWIlRARiTrE5MIO1Q0HE"
+      "duration_ms": 274500,
+      "name": "Julia (deep diving)",
+      "url": "https://open.spotify.com/track/5DHSlpd0MX9DfnoAQqolfa"
     },
     {
       "added_at": "2023-01-11 21:01:15",
@@ -1179,22 +1199,6 @@
     {
       "added_at": "2023-01-11 21:01:15",
       "album": {
-        "name": "Naive",
-        "url": "https://open.spotify.com/album/5e4XZZ2tTPPtBAKMTZnILI"
-      },
-      "artists": [
-        {
-          "name": "RKCB",
-          "url": "https://open.spotify.com/artist/4QDvXnbmw1znkqkK1119Fc"
-        }
-      ],
-      "duration_ms": 213250,
-      "name": "Naive",
-      "url": "https://open.spotify.com/track/2jPQpbzZd90opXN0cBOspe"
-    },
-    {
-      "added_at": "2023-01-11 21:01:15",
-      "album": {
         "name": "6 Letters",
         "url": "https://open.spotify.com/album/1hanBCpxNcew4qx4g7nME2"
       },
@@ -1215,34 +1219,18 @@
     {
       "added_at": "2023-01-11 21:01:15",
       "album": {
-        "name": "I'll Be There",
-        "url": "https://open.spotify.com/album/1WrbaQ0Z01VLqkqwspRU5J"
+        "name": "Naive",
+        "url": "https://open.spotify.com/album/5e4XZZ2tTPPtBAKMTZnILI"
       },
       "artists": [
         {
-          "name": "BEKA",
-          "url": "https://open.spotify.com/artist/1ClmHgLorY9RUCIvsTdT7A"
+          "name": "RKCB",
+          "url": "https://open.spotify.com/artist/4QDvXnbmw1znkqkK1119Fc"
         }
       ],
-      "duration_ms": 235464,
-      "name": "I'll Be There",
-      "url": "https://open.spotify.com/track/17mZZOqfeFSDS4Cu0ggkvW"
-    },
-    {
-      "added_at": "2023-01-11 21:01:15",
-      "album": {
-        "name": "Nirvana",
-        "url": "https://open.spotify.com/album/6HcXFfZ41boaTaIwGa3oPh"
-      },
-      "artists": [
-        {
-          "name": "ELLIANA",
-          "url": "https://open.spotify.com/artist/5t0KCCFs6BIelOxE4XGDRT"
-        }
-      ],
-      "duration_ms": 266036,
-      "name": "Nirvana",
-      "url": "https://open.spotify.com/track/11VPN6SfBRRmF2fESXlNep"
+      "duration_ms": 213250,
+      "name": "Naive",
+      "url": "https://open.spotify.com/track/2jPQpbzZd90opXN0cBOspe"
     },
     {
       "added_at": "2023-01-11 21:01:15",
@@ -1263,6 +1251,22 @@
     {
       "added_at": "2023-01-11 21:01:15",
       "album": {
+        "name": "Nirvana",
+        "url": "https://open.spotify.com/album/6HcXFfZ41boaTaIwGa3oPh"
+      },
+      "artists": [
+        {
+          "name": "ELLIANA",
+          "url": "https://open.spotify.com/artist/5t0KCCFs6BIelOxE4XGDRT"
+        }
+      ],
+      "duration_ms": 266036,
+      "name": "Nirvana",
+      "url": "https://open.spotify.com/track/11VPN6SfBRRmF2fESXlNep"
+    },
+    {
+      "added_at": "2023-01-11 21:01:15",
+      "album": {
         "name": "are we?",
         "url": "https://open.spotify.com/album/4tl1xL2MeyURq8Vk3enaze"
       },
@@ -1279,6 +1283,22 @@
       "duration_ms": 185885,
       "name": "superpowerful (with Crooked Colours)",
       "url": "https://open.spotify.com/track/3KgfNzfM4LfxP2v2miNIvh"
+    },
+    {
+      "added_at": "2023-01-11 21:01:15",
+      "album": {
+        "name": "I'll Be There",
+        "url": "https://open.spotify.com/album/1WrbaQ0Z01VLqkqwspRU5J"
+      },
+      "artists": [
+        {
+          "name": "BEKA",
+          "url": "https://open.spotify.com/artist/1ClmHgLorY9RUCIvsTdT7A"
+        }
+      ],
+      "duration_ms": 235464,
+      "name": "I'll Be There",
+      "url": "https://open.spotify.com/track/17mZZOqfeFSDS4Cu0ggkvW"
     },
     {
       "added_at": "2023-01-11 21:01:15",
@@ -1399,26 +1419,6 @@
       "duration_ms": 340729,
       "name": "What Kinda Music - Jordan Rakei Remix",
       "url": "https://open.spotify.com/track/0FMgzGbCh8yNMibGY5L2cM"
-    },
-    {
-      "added_at": "2023-01-11 21:01:15",
-      "album": {
-        "name": "Summer's Over",
-        "url": "https://open.spotify.com/album/60EzsIzS77S9MWHT0Tm37s"
-      },
-      "artists": [
-        {
-          "name": "Jordana",
-          "url": "https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw"
-        },
-        {
-          "name": "TV Girl",
-          "url": "https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W"
-        }
-      ],
-      "duration_ms": 173000,
-      "name": "Summer's Over",
-      "url": "https://open.spotify.com/track/4E5N0mYyYFf0QZs3XDeSIj"
     },
     {
       "added_at": "2023-01-11 21:01:15",
@@ -1691,18 +1691,18 @@
     {
       "added_at": "2023-01-11 21:01:15",
       "album": {
-        "name": "Losing Sleep",
-        "url": "https://open.spotify.com/album/7o8ly8OTyBXGmh050Iu3A4"
+        "name": "Wishful Thinking",
+        "url": "https://open.spotify.com/album/2EoEQOoH5UuAyY1U690LqO"
       },
       "artists": [
         {
-          "name": "Dylan Fraser",
-          "url": "https://open.spotify.com/artist/6Awp6fgyzqQ2XuEvOMjq8D"
+          "name": "Augustine",
+          "url": "https://open.spotify.com/artist/1esNGCDFDiy6sKEqPhlLb4"
         }
       ],
-      "duration_ms": 222885,
-      "name": "Losing Sleep",
-      "url": "https://open.spotify.com/track/6NBP6H1F1L5THU7DFoCNgU"
+      "duration_ms": 200368,
+      "name": "Wishful Thinking",
+      "url": "https://open.spotify.com/track/6nWbDZ8FJMm8FQD5afg62D"
     },
     {
       "added_at": "2023-01-11 21:01:15",
@@ -1723,22 +1723,18 @@
     {
       "added_at": "2023-01-11 21:01:15",
       "album": {
-        "name": "Interstellar Love (feat. Leon Bridges)",
-        "url": "https://open.spotify.com/album/4SLthaJgVwyX4yZDwLq6bS"
+        "name": "Losing Sleep",
+        "url": "https://open.spotify.com/album/7o8ly8OTyBXGmh050Iu3A4"
       },
       "artists": [
         {
-          "name": "The Avalanches",
-          "url": "https://open.spotify.com/artist/3C8RpaI3Go0yFF9whvKoED"
-        },
-        {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+          "name": "Dylan Fraser",
+          "url": "https://open.spotify.com/artist/6Awp6fgyzqQ2XuEvOMjq8D"
         }
       ],
-      "duration_ms": 218506,
-      "name": "Interstellar Love (feat. Leon Bridges)",
-      "url": "https://open.spotify.com/track/59lpmLRHEkHxufzKdOFRRA"
+      "duration_ms": 222885,
+      "name": "Losing Sleep",
+      "url": "https://open.spotify.com/track/6NBP6H1F1L5THU7DFoCNgU"
     }
   ],
   "unique_name": "Creativity Boost",

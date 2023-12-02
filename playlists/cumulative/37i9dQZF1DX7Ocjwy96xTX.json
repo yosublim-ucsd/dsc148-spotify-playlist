@@ -3677,6 +3677,24 @@
     },
     {
       "album": {
+        "name": "shutting me out / goo lagoon",
+        "url": "https://open.spotify.com/album/4WJsVZksTyP64i6fsH9Ocq"
+      },
+      "artists": [
+        {
+          "name": "EKKSTACY",
+          "url": "https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146080,
+      "name": "shutting me out",
+      "url": "https://open.spotify.com/track/1XKLWx4XOnB6nMkl5qFtYi"
+    },
+    {
+      "album": {
         "name": "Singing To Let England Shake",
         "url": "https://open.spotify.com/album/6XvASASymN1EvsH5J3i4G9"
       },

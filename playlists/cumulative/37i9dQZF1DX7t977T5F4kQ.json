@@ -100,7 +100,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 160888,
       "name": "Abena",
       "url": "https://open.spotify.com/track/416lJBohBXn07iQe3lf0JI"
@@ -390,7 +390,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 236885,
       "name": "Asantewaa",
       "url": "https://open.spotify.com/track/5EKoM6kwZ5LJdco2iVQ5OA"
@@ -2547,6 +2547,32 @@
     },
     {
       "album": {
+        "name": "Kusuu",
+        "url": "https://open.spotify.com/album/4aOZ8ao2T20NAhM93nMa2t"
+      },
+      "artists": [
+        {
+          "name": "Smallgod",
+          "url": "https://open.spotify.com/artist/4qgwPhVCW359a62QYueaVP"
+        },
+        {
+          "name": "Kweku Flick",
+          "url": "https://open.spotify.com/artist/2lSLuh2H1mtsxFBNm9ZbKF"
+        },
+        {
+          "name": "Young Lunya",
+          "url": "https://open.spotify.com/artist/0xfpc94rTYCThCWDR5h3Ni"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205083,
+      "name": "Kusuu",
+      "url": "https://open.spotify.com/track/1ESLdyMbLyjOHVQlNzRVSf"
+    },
+    {
+      "album": {
         "name": "Kwaku Ananse",
         "url": "https://open.spotify.com/album/67z5ZW6Se4NBjtP4ju4sOw"
       },
@@ -2704,6 +2730,28 @@
       "duration_ms": 168000,
       "name": "LIL BOOTYS MATTER (feat. DarkoVibes)",
       "url": "https://open.spotify.com/track/6DnE5HdK5h3JSs4HEKcgOb"
+    },
+    {
+      "album": {
+        "name": "Lowkey",
+        "url": "https://open.spotify.com/album/15s7cPQMJh3OHcbjgxXhpp"
+      },
+      "artists": [
+        {
+          "name": "Dayonthetrack",
+          "url": "https://open.spotify.com/artist/7vsaQwuPAG2PSWPVitnXrc"
+        },
+        {
+          "name": "Malcolm Nuna",
+          "url": "https://open.spotify.com/artist/5MMirduKxjz3OQSLiQfBcT"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196363,
+      "name": "Lowkey",
+      "url": "https://open.spotify.com/track/35rjIaj1FibJnFFz0YJWnQ"
     },
     {
       "album": {
@@ -3122,7 +3170,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 186853,
       "name": "Nika",
       "url": "https://open.spotify.com/track/61XOkNNVUQGqNjtrtIIxZ8"
@@ -3932,6 +3980,28 @@
       "duration_ms": 189771,
       "name": "Plenty Evil",
       "url": "https://open.spotify.com/track/0QgGGSo6ygXcDKjk5s2aER"
+    },
+    {
+      "album": {
+        "name": "PRACTICE",
+        "url": "https://open.spotify.com/album/4X9lqbIDMJ2AQB9kF2rlYY"
+      },
+      "artists": [
+        {
+          "name": "AratheJay",
+          "url": "https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN"
+        },
+        {
+          "name": "BillyDray",
+          "url": "https://open.spotify.com/artist/059ZQRZt9SXMbrzJcyxM5k"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142152,
+      "name": "PRACTICE",
+      "url": "https://open.spotify.com/track/0P1T4HQzeG598FX3UVFtxs"
     },
     {
       "album": {
@@ -4955,6 +5025,24 @@
     },
     {
       "album": {
+        "name": "Tupac",
+        "url": "https://open.spotify.com/album/1uLVlQFylIj6Fl2zi6r4Hs"
+      },
+      "artists": [
+        {
+          "name": "DopeNation",
+          "url": "https://open.spotify.com/artist/25vbw2Uw68Ny6ae7tekmky"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214302,
+      "name": "Tupac",
+      "url": "https://open.spotify.com/track/2WA0ROd9Vxjb83hTFah5CK"
+    },
+    {
+      "album": {
         "name": "PALMWINE DIARIES VOL.1",
         "url": "https://open.spotify.com/album/4ehet3qgwyHG62UNZpgD5N"
       },
@@ -4996,7 +5084,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 148973,
       "name": "Vacation",
       "url": "https://open.spotify.com/track/6f5EzS0nN8J68LjqM5yIiE"
@@ -5234,7 +5322,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 170097,
       "name": "Wonderful Time",
       "url": "https://open.spotify.com/track/6014ETfFg8Xc1tlxZSaCMc"

@@ -1,12 +1,12 @@
 {
   "description": "The most essential R&B songs from the '00s. Cover: Amerie",
-  "num_followers": 4602559,
+  "num_followers": 4603342,
   "original_name": "I Love My '00s R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZjkxYmVhNzM2M2MyZDJkN2IwZTQ4NGQ0NTFkOTZlOGI2MzUxNWVi",
+  "snapshot_id": "MCwyOWU1Yzg0NDNjMGEwNTI5MTQ5MTZjNDFjZTQyMTBjYzRlODBiYzNh",
   "tracks": [
     {
       "added_at": "2023-11-09 23:03:46",
@@ -447,22 +447,6 @@
     {
       "added_at": "2022-08-21 11:22:08",
       "album": {
-        "name": "Lovers Rock",
-        "url": "https://open.spotify.com/album/0NxA1D1taWpPdIc6uIlAi9"
-      },
-      "artists": [
-        {
-          "name": "Sade",
-          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
-        }
-      ],
-      "duration_ms": 274933,
-      "name": "By Your Side",
-      "url": "https://open.spotify.com/track/7H3ojI1BsVy0dEJENqMt1k"
-    },
-    {
-      "added_at": "2022-08-21 11:22:08",
-      "album": {
         "name": "Mama's Gun",
         "url": "https://open.spotify.com/album/3cADvHRdKniF9ELCn1zbGH"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 238733,
       "name": "Didn't Cha Know",
       "url": "https://open.spotify.com/track/7pv80uUHfocFqfTytu1MVi"
+    },
+    {
+      "added_at": "2022-08-21 11:22:08",
+      "album": {
+        "name": "Lovers Rock",
+        "url": "https://open.spotify.com/album/0NxA1D1taWpPdIc6uIlAi9"
+      },
+      "artists": [
+        {
+          "name": "Sade",
+          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
+        }
+      ],
+      "duration_ms": 274933,
+      "name": "By Your Side",
+      "url": "https://open.spotify.com/track/7H3ojI1BsVy0dEJENqMt1k"
     },
     {
       "added_at": "2022-02-11 05:00:00",
@@ -887,22 +887,18 @@
     {
       "added_at": "2022-02-11 05:00:00",
       "album": {
-        "name": "Goodies",
-        "url": "https://open.spotify.com/album/71gUhKYZIWmmjqAHlY4Br3"
+        "name": "Back Of My Lac'",
+        "url": "https://open.spotify.com/album/1Ypwht853ZVmsplg2DnZLI"
       },
       "artists": [
         {
-          "name": "Ciara",
-          "url": "https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX"
-        },
-        {
-          "name": "Ludacris",
-          "url": "https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi"
+          "name": "J. Holiday",
+          "url": "https://open.spotify.com/artist/7G6hXrjGpi6I7waNl4wxAk"
         }
       ],
-      "duration_ms": 256346,
-      "name": "Oh (feat. Ludacris)",
-      "url": "https://open.spotify.com/track/7i7UIbm5E0DD7aSOYvwp2v"
+      "duration_ms": 275106,
+      "name": "Bed",
+      "url": "https://open.spotify.com/track/6TlRNJaezOdzdECnQeRuMM"
     },
     {
       "added_at": "2022-08-21 11:22:08",
@@ -923,18 +919,22 @@
     {
       "added_at": "2022-02-11 05:00:00",
       "album": {
-        "name": "Back Of My Lac'",
-        "url": "https://open.spotify.com/album/1Ypwht853ZVmsplg2DnZLI"
+        "name": "Goodies",
+        "url": "https://open.spotify.com/album/71gUhKYZIWmmjqAHlY4Br3"
       },
       "artists": [
         {
-          "name": "J. Holiday",
-          "url": "https://open.spotify.com/artist/7G6hXrjGpi6I7waNl4wxAk"
+          "name": "Ciara",
+          "url": "https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX"
+        },
+        {
+          "name": "Ludacris",
+          "url": "https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi"
         }
       ],
-      "duration_ms": 275106,
-      "name": "Bed",
-      "url": "https://open.spotify.com/track/6TlRNJaezOdzdECnQeRuMM"
+      "duration_ms": 256346,
+      "name": "Oh (feat. Ludacris)",
+      "url": "https://open.spotify.com/track/7i7UIbm5E0DD7aSOYvwp2v"
     },
     {
       "added_at": "2023-06-20 16:00:00",
@@ -1117,22 +1117,6 @@
       "url": "https://open.spotify.com/track/5X8kkUaUlAyAUr9TYqDFTH"
     },
     {
-      "added_at": "2022-02-11 05:00:00",
-      "album": {
-        "name": "Ashanti",
-        "url": "https://open.spotify.com/album/5M3BrdaT0TV5SsYsM5PM8X"
-      },
-      "artists": [
-        {
-          "name": "Ashanti",
-          "url": "https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83"
-        }
-      ],
-      "duration_ms": 262226,
-      "name": "Happy",
-      "url": "https://open.spotify.com/track/6CbcdeTQKj0qTaZTt0xkdk"
-    },
-    {
       "added_at": "2022-08-21 11:22:08",
       "album": {
         "name": "The Evolution",
@@ -1147,6 +1131,22 @@
       "duration_ms": 267413,
       "name": "Promise",
       "url": "https://open.spotify.com/track/1pLdjo3lOBbMaoR4ZpybFH"
+    },
+    {
+      "added_at": "2022-02-11 05:00:00",
+      "album": {
+        "name": "Ashanti",
+        "url": "https://open.spotify.com/album/5M3BrdaT0TV5SsYsM5PM8X"
+      },
+      "artists": [
+        {
+          "name": "Ashanti",
+          "url": "https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83"
+        }
+      ],
+      "duration_ms": 262226,
+      "name": "Happy",
+      "url": "https://open.spotify.com/track/6CbcdeTQKj0qTaZTt0xkdk"
     },
     {
       "added_at": "2022-02-11 05:00:00",
@@ -1217,22 +1217,6 @@
       "url": "https://open.spotify.com/track/4x2YdtTppdbL4kHPOjaunq"
     },
     {
-      "added_at": "2022-02-11 05:00:00",
-      "album": {
-        "name": "Dangerously In Love",
-        "url": "https://open.spotify.com/album/6oxVabMIqCMJRYN1GqR3Vf"
-      },
-      "artists": [
-        {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        }
-      ],
-      "duration_ms": 301133,
-      "name": "Me, Myself and I",
-      "url": "https://open.spotify.com/track/6XsT5UGfpaFeHQf5LRIy4W"
-    },
-    {
       "added_at": "2022-08-21 11:22:08",
       "album": {
         "name": "Love Vs Money",
@@ -1247,6 +1231,22 @@
       "duration_ms": 221920,
       "name": "Rockin' That Shit",
       "url": "https://open.spotify.com/track/3RBGG1be9aBaSvjnw6ABkh"
+    },
+    {
+      "added_at": "2022-02-11 05:00:00",
+      "album": {
+        "name": "Dangerously In Love",
+        "url": "https://open.spotify.com/album/6oxVabMIqCMJRYN1GqR3Vf"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "duration_ms": 301133,
+      "name": "Me, Myself and I",
+      "url": "https://open.spotify.com/track/6XsT5UGfpaFeHQf5LRIy4W"
     },
     {
       "added_at": "2022-08-21 11:22:08",
@@ -1397,22 +1397,6 @@
       "url": "https://open.spotify.com/track/4FTOpNYcGxnQdGNWSxIcio"
     },
     {
-      "added_at": "2023-06-20 16:00:00",
-      "album": {
-        "name": "Dangerously In Love",
-        "url": "https://open.spotify.com/album/6oxVabMIqCMJRYN1GqR3Vf"
-      },
-      "artists": [
-        {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        }
-      ],
-      "duration_ms": 293133,
-      "name": "Dangerously In Love",
-      "url": "https://open.spotify.com/track/0KFuXEdOp5QfIfxHR6TJSm"
-    },
-    {
       "added_at": "2022-08-21 11:22:08",
       "album": {
         "name": "Love/Hate",
@@ -1431,6 +1415,22 @@
       "duration_ms": 262773,
       "name": "Shawty Is Da Shit",
       "url": "https://open.spotify.com/track/5RC9YDHON0nXKmcQrL6WV6"
+    },
+    {
+      "added_at": "2023-06-20 16:00:00",
+      "album": {
+        "name": "Dangerously In Love",
+        "url": "https://open.spotify.com/album/6oxVabMIqCMJRYN1GqR3Vf"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "duration_ms": 293133,
+      "name": "Dangerously In Love",
+      "url": "https://open.spotify.com/track/0KFuXEdOp5QfIfxHR6TJSm"
     },
     {
       "added_at": "2022-02-11 05:00:00",
@@ -1493,6 +1493,22 @@
       "url": "https://open.spotify.com/track/5jgEJXjECdlhzNgfITSTVm"
     },
     {
+      "added_at": "2023-01-21 18:20:05",
+      "album": {
+        "name": "Memoirs of an imperfect Angel",
+        "url": "https://open.spotify.com/album/3RPImDZ7Ihh5YR5iJh1gH1"
+      },
+      "artists": [
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        }
+      ],
+      "duration_ms": 238866,
+      "name": "It's A Wrap",
+      "url": "https://open.spotify.com/track/0SgbP5ZZOsUiHlE8EfeHma"
+    },
+    {
       "added_at": "2022-02-11 05:00:00",
       "album": {
         "name": "Ms. Kelly",
@@ -1515,34 +1531,18 @@
     {
       "added_at": "2022-02-11 05:00:00",
       "album": {
-        "name": "The Emancipation of Mimi",
-        "url": "https://open.spotify.com/album/43iBTEWECK7hSnE0p6GgNo"
+        "name": "21",
+        "url": "https://open.spotify.com/album/2dGxINFRaJEwDRXohf5gTE"
       },
       "artists": [
         {
-          "name": "Mariah Carey",
-          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+          "name": "Omarion",
+          "url": "https://open.spotify.com/artist/0f5nVCcR06GX8Qikz0COtT"
         }
       ],
-      "duration_ms": 232840,
-      "name": "Shake It Off",
-      "url": "https://open.spotify.com/track/4VKnkoNNM6yTb4cXXX3wqD"
-    },
-    {
-      "added_at": "2022-02-11 05:00:00",
-      "album": {
-        "name": "Destiny Fulfilled",
-        "url": "https://open.spotify.com/album/0b6ivSFfDs38MG7aLn9rvO"
-      },
-      "artists": [
-        {
-          "name": "Destiny's Child",
-          "url": "https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i"
-        }
-      ],
-      "duration_ms": 224146,
-      "name": "Girl",
-      "url": "https://open.spotify.com/track/3s2MyU2YCwNNwcSokt0jXD"
+      "duration_ms": 256426,
+      "name": "Ice Box",
+      "url": "https://open.spotify.com/track/5qhlC4Rzals34zxovrPzKp"
     },
     {
       "added_at": "2022-08-21 11:22:08",
@@ -1563,18 +1563,18 @@
     {
       "added_at": "2022-02-11 05:00:00",
       "album": {
-        "name": "21",
-        "url": "https://open.spotify.com/album/2dGxINFRaJEwDRXohf5gTE"
+        "name": "Destiny Fulfilled",
+        "url": "https://open.spotify.com/album/0b6ivSFfDs38MG7aLn9rvO"
       },
       "artists": [
         {
-          "name": "Omarion",
-          "url": "https://open.spotify.com/artist/0f5nVCcR06GX8Qikz0COtT"
+          "name": "Destiny's Child",
+          "url": "https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i"
         }
       ],
-      "duration_ms": 256426,
-      "name": "Ice Box",
-      "url": "https://open.spotify.com/track/5qhlC4Rzals34zxovrPzKp"
+      "duration_ms": 224146,
+      "name": "Girl",
+      "url": "https://open.spotify.com/track/3s2MyU2YCwNNwcSokt0jXD"
     },
     {
       "added_at": "2022-08-21 11:22:08",
@@ -1611,18 +1611,34 @@
     {
       "added_at": "2022-08-21 11:22:08",
       "album": {
-        "name": "Ghetto Love",
-        "url": "https://open.spotify.com/album/2Hvu2Yh4ghgcLvYLr3V5dM"
+        "name": "Lovers Rock",
+        "url": "https://open.spotify.com/album/0NxA1D1taWpPdIc6uIlAi9"
       },
       "artists": [
         {
-          "name": "Jaheim",
-          "url": "https://open.spotify.com/artist/4sbB4Yy6Qig51pKCIKSLw3"
+          "name": "Sade",
+          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
         }
       ],
-      "duration_ms": 263866,
-      "name": "Just in Case",
-      "url": "https://open.spotify.com/track/0YHBvFhfCJHyP5qfgtiX1o"
+      "duration_ms": 253106,
+      "name": "Lovers Rock",
+      "url": "https://open.spotify.com/track/77lKjGkhvWuimTzQxA4STK"
+    },
+    {
+      "added_at": "2022-08-21 11:22:08",
+      "album": {
+        "name": "Just Like You",
+        "url": "https://open.spotify.com/album/7mdy09EO4q6F9VWBtXDDjK"
+      },
+      "artists": [
+        {
+          "name": "Keyshia Cole",
+          "url": "https://open.spotify.com/artist/1vfezMIyCr4XUdYRaKIKi3"
+        }
+      ],
+      "duration_ms": 232880,
+      "name": "Heaven Sent",
+      "url": "https://open.spotify.com/track/2E90KUsor4U2abOJGFKtfx"
     },
     {
       "added_at": "2022-08-21 11:22:08",
@@ -1641,26 +1657,10 @@
       "url": "https://open.spotify.com/track/4bnjq8zqtCnxTGxll5ezOO"
     },
     {
-      "added_at": "2022-08-21 11:22:08",
+      "added_at": "2022-02-11 05:00:00",
       "album": {
-        "name": "Lovers Rock",
-        "url": "https://open.spotify.com/album/0NxA1D1taWpPdIc6uIlAi9"
-      },
-      "artists": [
-        {
-          "name": "Sade",
-          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
-        }
-      ],
-      "duration_ms": 253106,
-      "name": "Lovers Rock",
-      "url": "https://open.spotify.com/track/77lKjGkhvWuimTzQxA4STK"
-    },
-    {
-      "added_at": "2023-01-21 18:20:05",
-      "album": {
-        "name": "Memoirs of an imperfect Angel",
-        "url": "https://open.spotify.com/album/3RPImDZ7Ihh5YR5iJh1gH1"
+        "name": "The Emancipation of Mimi",
+        "url": "https://open.spotify.com/album/43iBTEWECK7hSnE0p6GgNo"
       },
       "artists": [
         {
@@ -1668,9 +1668,9 @@
           "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
         }
       ],
-      "duration_ms": 238866,
-      "name": "It's A Wrap",
-      "url": "https://open.spotify.com/track/0SgbP5ZZOsUiHlE8EfeHma"
+      "duration_ms": 232840,
+      "name": "Shake It Off",
+      "url": "https://open.spotify.com/track/4VKnkoNNM6yTb4cXXX3wqD"
     },
     {
       "added_at": "2023-03-04 19:43:24",
@@ -1691,18 +1691,18 @@
     {
       "added_at": "2022-08-21 11:22:08",
       "album": {
-        "name": "Just Like You",
-        "url": "https://open.spotify.com/album/7mdy09EO4q6F9VWBtXDDjK"
+        "name": "Ghetto Love",
+        "url": "https://open.spotify.com/album/2Hvu2Yh4ghgcLvYLr3V5dM"
       },
       "artists": [
         {
-          "name": "Keyshia Cole",
-          "url": "https://open.spotify.com/artist/1vfezMIyCr4XUdYRaKIKi3"
+          "name": "Jaheim",
+          "url": "https://open.spotify.com/artist/4sbB4Yy6Qig51pKCIKSLw3"
         }
       ],
-      "duration_ms": 232880,
-      "name": "Heaven Sent",
-      "url": "https://open.spotify.com/track/2E90KUsor4U2abOJGFKtfx"
+      "duration_ms": 263866,
+      "name": "Just in Case",
+      "url": "https://open.spotify.com/track/0YHBvFhfCJHyP5qfgtiX1o"
     },
     {
       "added_at": "2022-08-21 11:22:08",

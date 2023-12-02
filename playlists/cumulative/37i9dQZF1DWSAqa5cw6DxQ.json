@@ -2119,6 +2119,24 @@
     },
     {
       "album": {
+        "name": "Remote Places",
+        "url": "https://open.spotify.com/album/6tKhQlQ1rpaDF3V4hbzEot"
+      },
+      "artists": [
+        {
+          "name": "Zane Cassidy",
+          "url": "https://open.spotify.com/artist/14VSkhVnQy04O8rEQdsyCC"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157458,
+      "name": "Remote Places",
+      "url": "https://open.spotify.com/track/7pUg1QenmwMXo5APv9NyE9"
+    },
+    {
+      "album": {
         "name": "Reposeful",
         "url": "https://open.spotify.com/album/6W600f8bk6lwStjaswF53R"
       },

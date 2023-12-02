@@ -1,12 +1,12 @@
 {
   "description": "Big rooms and big sounds. Cover: Hardwell & Afrojack",
-  "num_followers": 468625,
+  "num_followers": 468744,
   "original_name": "Big Room Dance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZjFkNjg0Yzc4M2IxYmM2NzJkYmZhY2MxMGEzM2YxZDdjMWM4Y2I5",
+  "snapshot_id": "MCxlODU3NTg1MzYzY2E5NWI5Y2E4ODQ2NDc4ZjY2ZDgxZTllNDIyZmY3",
   "tracks": [
     {
       "added_at": "2023-11-30 23:00:00",
@@ -159,26 +159,6 @@
     {
       "added_at": "2023-11-30 23:00:00",
       "album": {
-        "name": "My Gasoline",
-        "url": "https://open.spotify.com/album/0EaF9YPTmGw5K9ndExhQ7a"
-      },
-      "artists": [
-        {
-          "name": "Maddix",
-          "url": "https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA"
-        },
-        {
-          "name": "F\u0113l\u0113s",
-          "url": "https://open.spotify.com/artist/7akxhVMmCpSDFw152XqCu6"
-        }
-      ],
-      "duration_ms": 236999,
-      "name": "My Gasoline",
-      "url": "https://open.spotify.com/track/6dyfsauAoa5qN0tj9JKamE"
-    },
-    {
-      "added_at": "2023-11-30 23:00:00",
-      "album": {
         "name": "Run Free (Countdown)",
         "url": "https://open.spotify.com/album/3RbeHKH3mbJ4wQ4Y9fcF3f"
       },
@@ -195,6 +175,26 @@
       "duration_ms": 152380,
       "name": "Run Free (Countdown)",
       "url": "https://open.spotify.com/track/4KB66xUZWvRDej628vf2J8"
+    },
+    {
+      "added_at": "2023-11-30 23:00:00",
+      "album": {
+        "name": "My Gasoline",
+        "url": "https://open.spotify.com/album/0EaF9YPTmGw5K9ndExhQ7a"
+      },
+      "artists": [
+        {
+          "name": "Maddix",
+          "url": "https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA"
+        },
+        {
+          "name": "F\u0113l\u0113s",
+          "url": "https://open.spotify.com/artist/7akxhVMmCpSDFw152XqCu6"
+        }
+      ],
+      "duration_ms": 236999,
+      "name": "My Gasoline",
+      "url": "https://open.spotify.com/track/6dyfsauAoa5qN0tj9JKamE"
     },
     {
       "added_at": "2023-11-30 23:00:00",
@@ -323,30 +323,6 @@
     {
       "added_at": "2023-11-30 23:00:00",
       "album": {
-        "name": "Fuego",
-        "url": "https://open.spotify.com/album/5YWOlO1sHAk84Oh4W9NhzX"
-      },
-      "artists": [
-        {
-          "name": "Timmy Trumpet",
-          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
-        },
-        {
-          "name": "Blasterjaxx",
-          "url": "https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD"
-        },
-        {
-          "name": "Zafrir",
-          "url": "https://open.spotify.com/artist/3DJVDo0kd19fZXpTabasOX"
-        }
-      ],
-      "duration_ms": 152727,
-      "name": "Fuego",
-      "url": "https://open.spotify.com/track/42jqtDBoV2YGTRbFI02p6H"
-    },
-    {
-      "added_at": "2023-11-30 23:00:00",
-      "album": {
         "name": "Loneliness",
         "url": "https://open.spotify.com/album/5u1NYKRPYx8KkcAVXXryQS"
       },
@@ -367,6 +343,30 @@
       "duration_ms": 163555,
       "name": "Loneliness",
       "url": "https://open.spotify.com/track/0iFxSf5RjiybnVSjofFEBg"
+    },
+    {
+      "added_at": "2023-11-30 23:00:00",
+      "album": {
+        "name": "Fuego",
+        "url": "https://open.spotify.com/album/5YWOlO1sHAk84Oh4W9NhzX"
+      },
+      "artists": [
+        {
+          "name": "Timmy Trumpet",
+          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
+        },
+        {
+          "name": "Blasterjaxx",
+          "url": "https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD"
+        },
+        {
+          "name": "Zafrir",
+          "url": "https://open.spotify.com/artist/3DJVDo0kd19fZXpTabasOX"
+        }
+      ],
+      "duration_ms": 152727,
+      "name": "Fuego",
+      "url": "https://open.spotify.com/track/42jqtDBoV2YGTRbFI02p6H"
     },
     {
       "added_at": "2023-11-30 23:00:00",
@@ -467,6 +467,26 @@
     {
       "added_at": "2023-11-30 23:00:00",
       "album": {
+        "name": "REBELS NEVER DIE (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6giiV9q6odKQWeR6tfBgyX"
+      },
+      "artists": [
+        {
+          "name": "Hardwell",
+          "url": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
+        },
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "duration_ms": 189374,
+      "name": "Nothing Else Matters vs F*CKING SOCIETY - Hardwell Mashup",
+      "url": "https://open.spotify.com/track/107nvz0Fjnsq9O9g61myZ5"
+    },
+    {
+      "added_at": "2023-11-30 23:00:00",
+      "album": {
         "name": "Ininna Tora",
         "url": "https://open.spotify.com/album/62oEG3Jyw8Pgp9HfUnzY0G"
       },
@@ -487,26 +507,6 @@
       "duration_ms": 204598,
       "name": "Ininna Tora",
       "url": "https://open.spotify.com/track/2iQMxfQyEyypb0MCFYaLlE"
-    },
-    {
-      "added_at": "2023-11-30 23:00:00",
-      "album": {
-        "name": "REBELS NEVER DIE (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6giiV9q6odKQWeR6tfBgyX"
-      },
-      "artists": [
-        {
-          "name": "Hardwell",
-          "url": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
-        },
-        {
-          "name": "Metallica",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
-        }
-      ],
-      "duration_ms": 189374,
-      "name": "Nothing Else Matters vs F*CKING SOCIETY - Hardwell Mashup",
-      "url": "https://open.spotify.com/track/107nvz0Fjnsq9O9g61myZ5"
     },
     {
       "added_at": "2023-11-30 23:00:00",
@@ -575,26 +575,26 @@
     {
       "added_at": "2023-11-30 23:00:00",
       "album": {
-        "name": "Mas Que Nada (with Marnik)",
-        "url": "https://open.spotify.com/album/3gAd6B5avXHX8IrOvXEKDO"
+        "name": "I Wanna Dance",
+        "url": "https://open.spotify.com/album/6CxgIkOgE7uIG4p70b8lyl"
       },
       "artists": [
         {
-          "name": "Timmy Trumpet",
-          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
+          "name": "Hardwell",
+          "url": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
         },
         {
-          "name": "Moonshine",
-          "url": "https://open.spotify.com/artist/3t66HrWji19Ey3uJE2DSyC"
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
         },
         {
-          "name": "Marnik",
-          "url": "https://open.spotify.com/artist/6S3KljEiIOWoLMUyZrkQUc"
+          "name": "MERYLL",
+          "url": "https://open.spotify.com/artist/4pqY01dGuzojomnVCXYbXC"
         }
       ],
-      "duration_ms": 167261,
-      "name": "Mas Que Nada (with Marnik)",
-      "url": "https://open.spotify.com/track/1BNawYa1bUgOfRSSyQQzNe"
+      "duration_ms": 198805,
+      "name": "I Wanna Dance",
+      "url": "https://open.spotify.com/track/2UMDjpShbeQoON9Dn7ONMK"
     },
     {
       "added_at": "2023-11-30 23:00:00",
@@ -675,32 +675,8 @@
     {
       "added_at": "2023-11-30 23:00:00",
       "album": {
-        "name": "I Wanna Dance",
-        "url": "https://open.spotify.com/album/6CxgIkOgE7uIG4p70b8lyl"
-      },
-      "artists": [
-        {
-          "name": "Hardwell",
-          "url": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
-        },
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        },
-        {
-          "name": "MERYLL",
-          "url": "https://open.spotify.com/artist/4pqY01dGuzojomnVCXYbXC"
-        }
-      ],
-      "duration_ms": 198805,
-      "name": "I Wanna Dance",
-      "url": "https://open.spotify.com/track/2UMDjpShbeQoON9Dn7ONMK"
-    },
-    {
-      "added_at": "2023-11-30 23:00:00",
-      "album": {
-        "name": "Vivaldi",
-        "url": "https://open.spotify.com/album/2tvcV4vvhuH05kIX8L1AgG"
+        "name": "Mas Que Nada (with Marnik)",
+        "url": "https://open.spotify.com/album/3gAd6B5avXHX8IrOvXEKDO"
       },
       "artists": [
         {
@@ -708,13 +684,17 @@
           "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
         },
         {
-          "name": "Mariana BO",
-          "url": "https://open.spotify.com/artist/2cFzYhiHqYS7o8ZIM9WD22"
+          "name": "Moonshine",
+          "url": "https://open.spotify.com/artist/3t66HrWji19Ey3uJE2DSyC"
+        },
+        {
+          "name": "Marnik",
+          "url": "https://open.spotify.com/artist/6S3KljEiIOWoLMUyZrkQUc"
         }
       ],
-      "duration_ms": 160222,
-      "name": "Vivaldi",
-      "url": "https://open.spotify.com/track/5WcPCjbZalLkmJduC6kIvO"
+      "duration_ms": 167261,
+      "name": "Mas Que Nada (with Marnik)",
+      "url": "https://open.spotify.com/track/1BNawYa1bUgOfRSSyQQzNe"
     },
     {
       "added_at": "2023-11-30 23:00:00",
@@ -743,22 +723,6 @@
     {
       "added_at": "2023-11-30 23:00:00",
       "album": {
-        "name": "Techno Sound",
-        "url": "https://open.spotify.com/album/6c6jnpfD9LorJLDJI0bSm5"
-      },
-      "artists": [
-        {
-          "name": "LUM!X",
-          "url": "https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy"
-        }
-      ],
-      "duration_ms": 189960,
-      "name": "Techno Sound",
-      "url": "https://open.spotify.com/track/3gjOaU0kFaCGF4Bu09lk4C"
-    },
-    {
-      "added_at": "2023-11-30 23:00:00",
-      "album": {
         "name": "EDM",
         "url": "https://open.spotify.com/album/7Kjwp4YuatuRzoxoGjVVGE"
       },
@@ -771,6 +735,22 @@
       "duration_ms": 136406,
       "name": "EDM",
       "url": "https://open.spotify.com/track/5WAx7JU09H1jJaaIdUJcVh"
+    },
+    {
+      "added_at": "2023-11-30 23:00:00",
+      "album": {
+        "name": "Techno Sound",
+        "url": "https://open.spotify.com/album/6c6jnpfD9LorJLDJI0bSm5"
+      },
+      "artists": [
+        {
+          "name": "LUM!X",
+          "url": "https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy"
+        }
+      ],
+      "duration_ms": 189960,
+      "name": "Techno Sound",
+      "url": "https://open.spotify.com/track/3gjOaU0kFaCGF4Bu09lk4C"
     },
     {
       "added_at": "2023-11-30 23:00:00",
@@ -811,6 +791,26 @@
       "duration_ms": 192619,
       "name": "It Burns",
       "url": "https://open.spotify.com/track/1ErBChhaYaWQuQ4zdnnx8C"
+    },
+    {
+      "added_at": "2023-11-30 23:00:00",
+      "album": {
+        "name": "Vivaldi",
+        "url": "https://open.spotify.com/album/2tvcV4vvhuH05kIX8L1AgG"
+      },
+      "artists": [
+        {
+          "name": "Timmy Trumpet",
+          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
+        },
+        {
+          "name": "Mariana BO",
+          "url": "https://open.spotify.com/artist/2cFzYhiHqYS7o8ZIM9WD22"
+        }
+      ],
+      "duration_ms": 160222,
+      "name": "Vivaldi",
+      "url": "https://open.spotify.com/track/5WcPCjbZalLkmJduC6kIvO"
     },
     {
       "added_at": "2023-11-30 23:00:00",
@@ -987,6 +987,22 @@
     {
       "added_at": "2023-11-30 23:00:00",
       "album": {
+        "name": "No Pictures",
+        "url": "https://open.spotify.com/album/573qIEbqPVxrCYCjnr7U3l"
+      },
+      "artists": [
+        {
+          "name": "Quintino",
+          "url": "https://open.spotify.com/artist/1V3VTM7VspiQjcmRhC010n"
+        }
+      ],
+      "duration_ms": 150234,
+      "name": "No Pictures",
+      "url": "https://open.spotify.com/track/18nfqYE5Jl9YsJnj2hEEiB"
+    },
+    {
+      "added_at": "2023-11-30 23:00:00",
+      "album": {
         "name": "Mirror Mirror",
         "url": "https://open.spotify.com/album/4H7KW5AaytIv42LdVTzWKw"
       },
@@ -1047,22 +1063,6 @@
     {
       "added_at": "2023-11-30 23:00:00",
       "album": {
-        "name": "No Pictures",
-        "url": "https://open.spotify.com/album/573qIEbqPVxrCYCjnr7U3l"
-      },
-      "artists": [
-        {
-          "name": "Quintino",
-          "url": "https://open.spotify.com/artist/1V3VTM7VspiQjcmRhC010n"
-        }
-      ],
-      "duration_ms": 150234,
-      "name": "No Pictures",
-      "url": "https://open.spotify.com/track/18nfqYE5Jl9YsJnj2hEEiB"
-    },
-    {
-      "added_at": "2023-11-30 23:00:00",
-      "album": {
         "name": "Thrill",
         "url": "https://open.spotify.com/album/5TqgtXhlVZi0KwEdWr1AST"
       },
@@ -1083,50 +1083,6 @@
       "duration_ms": 217615,
       "name": "Thrill",
       "url": "https://open.spotify.com/track/0n8PMT5vyu8lffykqYvOIo"
-    },
-    {
-      "added_at": "2023-11-30 23:00:00",
-      "album": {
-        "name": "Friends",
-        "url": "https://open.spotify.com/album/3h5fxBPJ7aZHYvKpxYiR2Y"
-      },
-      "artists": [
-        {
-          "name": "Showtek",
-          "url": "https://open.spotify.com/artist/3gk0OYeLFWYupGFRHqLSR7"
-        },
-        {
-          "name": "Bassjackers",
-          "url": "https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8"
-        }
-      ],
-      "duration_ms": 187111,
-      "name": "Friends",
-      "url": "https://open.spotify.com/track/0TqBVW2OXLf6UaNmBZtARL"
-    },
-    {
-      "added_at": "2023-11-30 23:00:00",
-      "album": {
-        "name": "Energy (feat. Bay-C)",
-        "url": "https://open.spotify.com/album/0PS5JxokId6B3FsRjycHfs"
-      },
-      "artists": [
-        {
-          "name": "Tujamo",
-          "url": "https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh"
-        },
-        {
-          "name": "Jay Hardway",
-          "url": "https://open.spotify.com/artist/12SPNXi0aDpFt0rMVbmLrr"
-        },
-        {
-          "name": "Bay-C",
-          "url": "https://open.spotify.com/artist/21ciCl1i66cJdB0owlmyQ8"
-        }
-      ],
-      "duration_ms": 152812,
-      "name": "Energy (feat. Bay-C)",
-      "url": "https://open.spotify.com/track/3gEeuIgoPgU592HYvgn0wn"
     },
     {
       "added_at": "2023-11-30 23:00:00",
@@ -1155,22 +1111,66 @@
     {
       "added_at": "2023-11-30 23:00:00",
       "album": {
-        "name": "Insomnia (Rework)",
-        "url": "https://open.spotify.com/album/3O4Td8QTtXYMfbj8d4h7P6"
+        "name": "Energy (feat. Bay-C)",
+        "url": "https://open.spotify.com/album/0PS5JxokId6B3FsRjycHfs"
       },
       "artists": [
         {
-          "name": "Mike Candys",
-          "url": "https://open.spotify.com/artist/24Sxfn1uAoJmuR9N72drt9"
+          "name": "Tujamo",
+          "url": "https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh"
         },
         {
-          "name": "Jack Holiday",
-          "url": "https://open.spotify.com/artist/64yON9pK0j392YkionGKAF"
+          "name": "Jay Hardway",
+          "url": "https://open.spotify.com/artist/12SPNXi0aDpFt0rMVbmLrr"
+        },
+        {
+          "name": "Bay-C",
+          "url": "https://open.spotify.com/artist/21ciCl1i66cJdB0owlmyQ8"
         }
       ],
-      "duration_ms": 180000,
-      "name": "Insomnia - Rework",
-      "url": "https://open.spotify.com/track/6uRUfq1y0VayUjh2M935g7"
+      "duration_ms": 152812,
+      "name": "Energy (feat. Bay-C)",
+      "url": "https://open.spotify.com/track/3gEeuIgoPgU592HYvgn0wn"
+    },
+    {
+      "added_at": "2023-11-30 23:00:00",
+      "album": {
+        "name": "Friends",
+        "url": "https://open.spotify.com/album/3h5fxBPJ7aZHYvKpxYiR2Y"
+      },
+      "artists": [
+        {
+          "name": "Showtek",
+          "url": "https://open.spotify.com/artist/3gk0OYeLFWYupGFRHqLSR7"
+        },
+        {
+          "name": "Bassjackers",
+          "url": "https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8"
+        }
+      ],
+      "duration_ms": 187111,
+      "name": "Friends",
+      "url": "https://open.spotify.com/track/0TqBVW2OXLf6UaNmBZtARL"
+    },
+    {
+      "added_at": "2023-11-30 23:00:00",
+      "album": {
+        "name": "Let Me Be Your Fantasy",
+        "url": "https://open.spotify.com/album/7xgkEBwCZmK4dOkh2648dV"
+      },
+      "artists": [
+        {
+          "name": "Quintino",
+          "url": "https://open.spotify.com/artist/1V3VTM7VspiQjcmRhC010n"
+        },
+        {
+          "name": "Mike Williams",
+          "url": "https://open.spotify.com/artist/3IpvVrP3VLhruTmnququq7"
+        }
+      ],
+      "duration_ms": 176250,
+      "name": "Let Me Be Your Fantasy",
+      "url": "https://open.spotify.com/track/4fGOsBz3c3d3CXAmc1kLob"
     },
     {
       "added_at": "2023-11-30 23:00:00",
@@ -1199,6 +1199,26 @@
     {
       "added_at": "2023-11-30 23:00:00",
       "album": {
+        "name": "Insomnia (Rework)",
+        "url": "https://open.spotify.com/album/3O4Td8QTtXYMfbj8d4h7P6"
+      },
+      "artists": [
+        {
+          "name": "Mike Candys",
+          "url": "https://open.spotify.com/artist/24Sxfn1uAoJmuR9N72drt9"
+        },
+        {
+          "name": "Jack Holiday",
+          "url": "https://open.spotify.com/artist/64yON9pK0j392YkionGKAF"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Insomnia - Rework",
+      "url": "https://open.spotify.com/track/6uRUfq1y0VayUjh2M935g7"
+    },
+    {
+      "added_at": "2023-11-30 23:00:00",
+      "album": {
         "name": "Quantum",
         "url": "https://open.spotify.com/album/35xmlcqBI4rtJZXiDAI9Xo"
       },
@@ -1215,26 +1235,6 @@
       "duration_ms": 178593,
       "name": "Quantum",
       "url": "https://open.spotify.com/track/7cmpWAZsamIlIiyU1aMGZD"
-    },
-    {
-      "added_at": "2023-11-30 23:00:00",
-      "album": {
-        "name": "Spirits",
-        "url": "https://open.spotify.com/album/587i2QIX8EqgyCBBYMlov5"
-      },
-      "artists": [
-        {
-          "name": "Blasterjaxx",
-          "url": "https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD"
-        },
-        {
-          "name": "RIELL",
-          "url": "https://open.spotify.com/artist/0xD6n0wj7aqV5g5LcRNBUd"
-        }
-      ],
-      "duration_ms": 233587,
-      "name": "Spirits",
-      "url": "https://open.spotify.com/track/7gApd1GU1it6ZpTMU1Xa2T"
     },
     {
       "added_at": "2023-11-30 23:00:00",
@@ -1267,22 +1267,22 @@
     {
       "added_at": "2023-11-30 23:00:00",
       "album": {
-        "name": "Let Me Be Your Fantasy",
-        "url": "https://open.spotify.com/album/7xgkEBwCZmK4dOkh2648dV"
+        "name": "Spirits",
+        "url": "https://open.spotify.com/album/587i2QIX8EqgyCBBYMlov5"
       },
       "artists": [
         {
-          "name": "Quintino",
-          "url": "https://open.spotify.com/artist/1V3VTM7VspiQjcmRhC010n"
+          "name": "Blasterjaxx",
+          "url": "https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD"
         },
         {
-          "name": "Mike Williams",
-          "url": "https://open.spotify.com/artist/3IpvVrP3VLhruTmnququq7"
+          "name": "RIELL",
+          "url": "https://open.spotify.com/artist/0xD6n0wj7aqV5g5LcRNBUd"
         }
       ],
-      "duration_ms": 176250,
-      "name": "Let Me Be Your Fantasy",
-      "url": "https://open.spotify.com/track/4fGOsBz3c3d3CXAmc1kLob"
+      "duration_ms": 233587,
+      "name": "Spirits",
+      "url": "https://open.spotify.com/track/7gApd1GU1it6ZpTMU1Xa2T"
     },
     {
       "added_at": "2023-11-30 23:00:00",
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2023-11-30 23:00:00",
       "album": {
-        "name": "BANG!",
-        "url": "https://open.spotify.com/album/3u5seutkhK9M6DdLiTaZMa"
-      },
-      "artists": [
-        {
-          "name": "Lucas & Steve",
-          "url": "https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3"
-        }
-      ],
-      "duration_ms": 168775,
-      "name": "BANG!",
-      "url": "https://open.spotify.com/track/5FsTWdLoi1GTy1B6KIMO8N"
-    },
-    {
-      "added_at": "2023-11-30 23:00:00",
-      "album": {
         "name": "Can You Feel It",
         "url": "https://open.spotify.com/album/3r7fZsRIWMBDbiYP3R8FDI"
       },
@@ -1563,6 +1547,22 @@
       "duration_ms": 97142,
       "name": "Can You Feel It",
       "url": "https://open.spotify.com/track/1jNLVHoxNFEWRTEaFuCUiT"
+    },
+    {
+      "added_at": "2023-11-30 23:00:00",
+      "album": {
+        "name": "BANG!",
+        "url": "https://open.spotify.com/album/3u5seutkhK9M6DdLiTaZMa"
+      },
+      "artists": [
+        {
+          "name": "Lucas & Steve",
+          "url": "https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3"
+        }
+      ],
+      "duration_ms": 168775,
+      "name": "BANG!",
+      "url": "https://open.spotify.com/track/5FsTWdLoi1GTy1B6KIMO8N"
     },
     {
       "added_at": "2023-11-30 23:00:00",
@@ -1627,26 +1627,6 @@
     {
       "added_at": "2023-11-30 23:00:00",
       "album": {
-        "name": "The Wave (Legacy Edit)",
-        "url": "https://open.spotify.com/album/4FueCgISobfwBlgXwsOBQy"
-      },
-      "artists": [
-        {
-          "name": "Bassjackers",
-          "url": "https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8"
-        },
-        {
-          "name": "X-TOF",
-          "url": "https://open.spotify.com/artist/04XgEt5RkgdF4EM9lZyKCE"
-        }
-      ],
-      "duration_ms": 185192,
-      "name": "The Wave - Legacy Edit",
-      "url": "https://open.spotify.com/track/5zcJw3n3pJKhTIf4Pr7VgF"
-    },
-    {
-      "added_at": "2023-11-30 23:00:00",
-      "album": {
         "name": "Sex Drugs Energie",
         "url": "https://open.spotify.com/album/2oesdWZzEYr7AE2jsLyjTe"
       },
@@ -1659,6 +1639,26 @@
       "duration_ms": 152000,
       "name": "Sex Drugs Energie",
       "url": "https://open.spotify.com/track/6aB7mV6RHoshGo2ExvoRVQ"
+    },
+    {
+      "added_at": "2023-11-30 23:00:00",
+      "album": {
+        "name": "Alone",
+        "url": "https://open.spotify.com/album/3z7h4c33zeC577R9EWwksj"
+      },
+      "artists": [
+        {
+          "name": "AFROJACK",
+          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
+        },
+        {
+          "name": "Mike Williams",
+          "url": "https://open.spotify.com/artist/3IpvVrP3VLhruTmnququq7"
+        }
+      ],
+      "duration_ms": 251933,
+      "name": "Alone",
+      "url": "https://open.spotify.com/track/7vSx1uzjLF2elseUEFDDgu"
     }
   ],
   "unique_name": "Big Room Dance",

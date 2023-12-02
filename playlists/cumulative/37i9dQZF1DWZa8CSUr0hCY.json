@@ -411,6 +411,28 @@
     },
     {
       "album": {
+        "name": "By The Sea",
+        "url": "https://open.spotify.com/album/5QTgV4rD54A0JAozwGZ0Ea"
+      },
+      "artists": [
+        {
+          "name": "Tah.",
+          "url": "https://open.spotify.com/artist/5tbllvHfDoHsDZuTnrs9Pb"
+        },
+        {
+          "name": "Aiguille",
+          "url": "https://open.spotify.com/artist/3MhGQxnXMGb8fgTlAqcxeu"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137813,
+      "name": "By The Sea",
+      "url": "https://open.spotify.com/track/0SeB7CPGzjnrCJ1F1GxDVw"
+    },
+    {
+      "album": {
         "name": "Lemo",
         "url": "https://open.spotify.com/album/0rA6rd8ashXD1xaAQkbZRI"
       },
@@ -730,7 +752,7 @@
       ],
       "date_added": "2022-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 146470,
       "name": "Distant",
       "url": "https://open.spotify.com/track/3z5PBpNoxyfBcLQchvcTBy"
@@ -810,7 +832,7 @@
       ],
       "date_added": "2022-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 133333,
       "name": "Driftwood, Joshua",
       "url": "https://open.spotify.com/track/7LaODCkvOqa2UhpF4ikvlh"
@@ -1005,6 +1027,24 @@
     },
     {
       "album": {
+        "name": "Night Owl",
+        "url": "https://open.spotify.com/album/4YHfNA08alIQZfabBEtw1x"
+      },
+      "artists": [
+        {
+          "name": "Goson",
+          "url": "https://open.spotify.com/artist/3b0TLzX6FkeQvv9daBtFBe"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148000,
+      "name": "Enigma",
+      "url": "https://open.spotify.com/track/4K8WSebx5Ebslh1c4Seqvg"
+    },
+    {
+      "album": {
         "name": "Volta",
         "url": "https://open.spotify.com/album/6xFQdyHr6fQrLOmtRHv1Nb"
       },
@@ -1118,6 +1158,28 @@
       "duration_ms": 111890,
       "name": "Felted",
       "url": "https://open.spotify.com/track/0pc7pvoTQFPebXtWw35AK2"
+    },
+    {
+      "album": {
+        "name": "Transatlantic",
+        "url": "https://open.spotify.com/album/5CMMK15wNl3rR2tBGMKjau"
+      },
+      "artists": [
+        {
+          "name": "ourcq",
+          "url": "https://open.spotify.com/artist/0ixhosSnDrcxrW8ylF4yXj"
+        },
+        {
+          "name": "zad.collective",
+          "url": "https://open.spotify.com/artist/2M8paQigZedmA3uIOpOa9r"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160285,
+      "name": "First Light",
+      "url": "https://open.spotify.com/track/1Q6Z50JAnfy1wOOqAksVIW"
     },
     {
       "album": {
@@ -1731,6 +1793,28 @@
     },
     {
       "album": {
+        "name": "the beginning of everything",
+        "url": "https://open.spotify.com/album/5Matz1eedO5orhIpJEuUVO"
+      },
+      "artists": [
+        {
+          "name": "colours in the dark",
+          "url": "https://open.spotify.com/artist/4lRRwA3JsWrOD8f47gI2iI"
+        },
+        {
+          "name": "No Spirit",
+          "url": "https://open.spotify.com/artist/4XbnhifKeOnyfTsCInrQsX"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185397,
+      "name": "i completely forgot i exist",
+      "url": "https://open.spotify.com/track/5GyNl6UzfdozPq0aT194ld"
+    },
+    {
+      "album": {
         "name": "Interlace",
         "url": "https://open.spotify.com/album/770bOOrgLvY5Sn7Crrhh2U"
       },
@@ -1884,7 +1968,7 @@
       ],
       "date_added": "2022-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 159750,
       "name": "Kyiv",
       "url": "https://open.spotify.com/track/6zNOsAGx5GLTb3PeQmZcEo"
@@ -2358,7 +2442,7 @@
       ],
       "date_added": "2022-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 157155,
       "name": "Monday",
       "url": "https://open.spotify.com/track/4DBUv3NPLsSBSsD4bw6Svb"
@@ -2590,6 +2674,50 @@
       "duration_ms": 209306,
       "name": "Peace of What",
       "url": "https://open.spotify.com/track/2o2KHNSVo9VNwMTZkKqHMb"
+    },
+    {
+      "album": {
+        "name": "Plums",
+        "url": "https://open.spotify.com/album/4sBapZtliMW2ifXGgNck3V"
+      },
+      "artists": [
+        {
+          "name": "\u00d6ster",
+          "url": "https://open.spotify.com/artist/41Z9IGCJN6zGScaIplu4Yn"
+        },
+        {
+          "name": "La Cantina",
+          "url": "https://open.spotify.com/artist/01iBYoUzhKZLQAGRDF0L9U"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122000,
+      "name": "Plums",
+      "url": "https://open.spotify.com/track/2dnjcx08Wo6ybZOY3umDaF"
+    },
+    {
+      "album": {
+        "name": "Polar Light",
+        "url": "https://open.spotify.com/album/4KXz5Fz66Lm4q9iQkCg9rs"
+      },
+      "artists": [
+        {
+          "name": "PBdR",
+          "url": "https://open.spotify.com/artist/2f4COA6IKZu722NBWix5od"
+        },
+        {
+          "name": "Eliott Weingand",
+          "url": "https://open.spotify.com/artist/3GPIcqQTMNxdGpxJO7qrop"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129000,
+      "name": "Polar Light",
+      "url": "https://open.spotify.com/track/2XMuj3tjkBOmdzs13BIeNI"
     },
     {
       "album": {

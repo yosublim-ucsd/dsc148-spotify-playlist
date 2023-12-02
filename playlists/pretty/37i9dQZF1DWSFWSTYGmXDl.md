@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFWSTYGmXDl.md) - [plain]
 
 > Soft and warm Christmas songs from recent years\. Cover: Kelly Clarkson
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,876 likes - 100 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,394 likes - 100 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFWSTYGmXDl.md) - [plain]
 | 99 | [Alone on Christmas Eve](https://open.spotify.com/track/3cTrbyOLvrn78iKBKOUlW7) | [Mabes](https://open.spotify.com/artist/1kTrYYWMLQsBKlbINUg1Su) | [Alone on Christmas Eve](https://open.spotify.com/album/1icERFXfL7Hwbl1m16DROb) | 2:16 |
 | 100 | [Christmas Through Your Eyes](https://open.spotify.com/track/01ZUp6PoqFuRtMTMODnPOf) | [Lady A](https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA) | [On This Winter's Night \(Deluxe\)](https://open.spotify.com/album/6ww6efJkv3ytQfbEyMosPu) | 3:59 |
 
-Snapshot ID: `MCw5YjhmNmZjZjU1Mjc2NzYyNDRlZTE0OTRkYjI5YmFhYmQzOGZhOGQy`
+Snapshot ID: `MCw2MzMwNjE0ZGJmNzAzZTZlNGM5OTg1MzI4ZjdmM2I0NGExYjhiNzZi`

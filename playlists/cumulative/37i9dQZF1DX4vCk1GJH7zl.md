@@ -4,7 +4,7 @@
 
 > Sucessos e novidades do rock calminho pra relaxar o seu dia! Foto: The Beatles
 
-106 songs - 6 hr 29 min
+107 songs - 6 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,12 +67,13 @@
 | [Now And Then](https://open.spotify.com/track/4vziJcnB2Qyi9o4nIRUeN7) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Now And Then](https://open.spotify.com/album/2qQP2NgOoH6HqknnbpJmIk) | 4:08 | 2023-11-03 |  |
 | [não me importo mais](https://open.spotify.com/track/2bYdCw0rlPBI404BQXTXUn) | [Clarissa](https://open.spotify.com/artist/0DLHvj99Ne31Ockr6koARK) | [não me importo mais](https://open.spotify.com/album/741ZgcZ2POqxmqoHYAUxYG) | 2:36 | 2023-07-21 | 2023-08-26 |
 | [Não Vou Me Adaptar \- Ao Vivo](https://open.spotify.com/track/4EXzmoiU4KAggC3UbBueCl) | [Nando Reis](https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy), [Arnaldo Antunes](https://open.spotify.com/artist/7lOUbhzQ1F3xcCMEcTtbO5) | [Não Vou Me Adaptar \(Ao Vivo\)](https://open.spotify.com/album/4EdfAeoDFDnsoh1xey5M30) | 4:36 | 2023-07-21 |  |
-| [o mundo já ta bom sem mim](https://open.spotify.com/track/35B6qiqKdPIta9IOYI4Z7H) | [Stéfano Loscalzo](https://open.spotify.com/artist/02TeEVQrjOZddjmYRQUEs7) | [o mundo já ta bom sem mim](https://open.spotify.com/album/0H5jXYPHwDnaeTxQPICpZC) | 2:04 | 2023-07-21 |  |
+| [o mundo já ta bom sem mim](https://open.spotify.com/track/35B6qiqKdPIta9IOYI4Z7H) | [Stéfano Loscalzo](https://open.spotify.com/artist/02TeEVQrjOZddjmYRQUEs7) | [o mundo já ta bom sem mim](https://open.spotify.com/album/0H5jXYPHwDnaeTxQPICpZC) | 2:04 | 2023-07-21 | 2023-12-02 |
 | [One \- Songs Of Surrender](https://open.spotify.com/track/75afCBeMaRgeOZDe2Eyxrd) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [One \(Songs Of Surrender\)](https://open.spotify.com/album/0PeDmZjgRyVSgqZPTpgwEq) | 3:36 | 2023-07-21 |  |
 | [Partida](https://open.spotify.com/track/48nzMbyU9MoeRWu28riJoi) | [Zimbra](https://open.spotify.com/artist/11xX6bMCvpstEFOyx8lxYg) | [Partida](https://open.spotify.com/album/33wHpnNbVOa32uMESWgg0u) | 3:46 | 2023-07-21 | 2023-09-22 |
 | [Partida](https://open.spotify.com/track/6wj81ht6mZln7wIuR49pHj) | [Zimbra](https://open.spotify.com/artist/11xX6bMCvpstEFOyx8lxYg) | [Partida](https://open.spotify.com/album/1rC2ZUzqZDZmxt4jBAf8YQ) | 3:46 | 2023-09-15 | 2023-09-30 |
 | [Pensando Bem](https://open.spotify.com/track/2hzv2fq86gwMSR3ppsvyJ5) | [Drenna](https://open.spotify.com/artist/7Km2oqSGqY9nTSnyY4QVyf) | [Cisne Negro](https://open.spotify.com/album/2d6HKeQ9TVtHFjrWnrMO9n) | 3:25 | 2023-08-25 | 2023-11-11 |
 | [Pequenas Coisas](https://open.spotify.com/track/2sfKGR8005yI04id52i70p) | [Daniel Lima](https://open.spotify.com/artist/3y08WX6dvJRofhXVXnQ3Lo), [Wilson Sideral](https://open.spotify.com/artist/43NwJ02BY0AU2fHjlSKLQO) | [Pequenas Coisas](https://open.spotify.com/album/6ZjnmO1ErxLMwSQcteDnV2) | 4:41 | 2023-09-29 |  |
+| [Poema](https://open.spotify.com/track/6luoCgnBDkY7I7FBkexp1s) | [Frejat](https://open.spotify.com/artist/3WVjDclrbHsxjxhiOqHdnw) | [Frejat Trio Ao Vivo no Teatro Alcione Araújo](https://open.spotify.com/album/26tTDgDlnMje9hWOuLHfdS) | 2:50 | 2023-12-01 |  |
 | [Por Enquanto \- Ao Vivo](https://open.spotify.com/track/3H2oROvmrOu4hnf3Xv7pjU) | [Capital Inicial](https://open.spotify.com/artist/4Z0yuwHVJBROVZqFpTIr0d) | [Capital Inicial Multishow \(Ao Vivo\) \[Deluxe\]](https://open.spotify.com/album/2UF8ePNIpJAQiU6V7E1zRS) | 4:14 | 2023-08-25 |  |
 | [Por Que Você Me Trata Assim?](https://open.spotify.com/track/29oGHO3PXrpHEjosASg9yr) | [Thelfos](https://open.spotify.com/artist/6wm3X6FY2usjwXhCdUCWk7) | [Inferno Particular](https://open.spotify.com/album/6ZktaztaNfDKU6VIRYbtne) | 3:25 | 2023-07-21 |  |
 | [Pra Dizer Adeus \- Ao Vivo](https://open.spotify.com/track/1RxAzmAuN6KldKrMeVKkf2) | [Titãs](https://open.spotify.com/artist/2euX7vCVnJy3TVEGfc0RCl) | [Acústico MTV](https://open.spotify.com/album/2zu9De5vcXBYGg0X9g5LV8) | 3:42 | 2023-07-21 |  |

@@ -653,6 +653,28 @@
     },
     {
       "album": {
+        "name": "Everytime",
+        "url": "https://open.spotify.com/album/3ECI1UlNJ2cMl8TmU82nDZ"
+      },
+      "artists": [
+        {
+          "name": "BAF",
+          "url": "https://open.spotify.com/artist/1mhpQdXVCnq31AwzgCPxK9"
+        },
+        {
+          "name": "houselife",
+          "url": "https://open.spotify.com/artist/2ZMVshOlD7ULhDmDjgOF3h"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177759,
+      "name": "Everytime",
+      "url": "https://open.spotify.com/track/3NFLTwrWOFF5dmJGiYOmFe"
+    },
+    {
+      "album": {
         "name": "Fall Through",
         "url": "https://open.spotify.com/album/7nok0I6cu6puv0cv1iXwzG"
       },
@@ -1350,6 +1372,24 @@
       "duration_ms": 460487,
       "name": "Lorac",
       "url": "https://open.spotify.com/track/6BCIvGWOKKZJwXc9Hct21b"
+    },
+    {
+      "album": {
+        "name": "Lotta Care EP",
+        "url": "https://open.spotify.com/album/28mhsbSCfeQPkVtcPawSwt"
+      },
+      "artists": [
+        {
+          "name": "Teko",
+          "url": "https://open.spotify.com/artist/6LYBTipBAHSpduixnHmWuS"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172734,
+      "name": "Lotta Dough",
+      "url": "https://open.spotify.com/track/4ylibekKTNdu4VeIChYUfL"
     },
     {
       "album": {

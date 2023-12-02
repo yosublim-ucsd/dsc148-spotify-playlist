@@ -1,12 +1,12 @@
 {
   "description": "\ub2f9\uc2e0\uc758 \ud558\ub8e8. \uc624\ub298\ub3c4 \uc798\ud558\uace0 \uc788\uc5b4\uc694. (Listen to K-Pop comforting songs)",
-  "num_followers": 14936,
+  "num_followers": 14966,
   "original_name": "\uc798\ud588\uc5b4 \uc624\ub298\ub3c4 (You Did Well.)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwYTkzNGIwMDE5ZjExNGZhMjYzMTFjMjAzZTA0MzdlYjNmYzQ5ZTJk",
+  "snapshot_id": "MCw1ZjAwMjQ0ZWViN2U4ZGVjYmE4YjFiODBkZTJmODk0MzZiNDg0MjBm",
   "tracks": [
     {
       "added_at": "2023-11-03 06:18:18",
@@ -499,6 +499,22 @@
     {
       "added_at": "2023-11-03 06:18:18",
       "album": {
+        "name": "be",
+        "url": "https://open.spotify.com/album/33UNyWkPMOczcDOk4kxWd2"
+      },
+      "artists": [
+        {
+          "name": "EUNHYUK",
+          "url": "https://open.spotify.com/artist/4QRqp8zf5JtqaMk2OOU3NX"
+        }
+      ],
+      "duration_ms": 229066,
+      "name": "be",
+      "url": "https://open.spotify.com/track/2ixTL8BqsPxaH9qPgEhFV1"
+    },
+    {
+      "added_at": "2023-11-03 06:18:18",
+      "album": {
         "name": "how i remember",
         "url": "https://open.spotify.com/album/01NnWmqdwaZPdIzU5elnOS"
       },
@@ -515,22 +531,6 @@
       "duration_ms": 176626,
       "name": "goodnight",
       "url": "https://open.spotify.com/track/4pqmFRZiyZSWbTGiF3CSvb"
-    },
-    {
-      "added_at": "2023-11-03 06:18:18",
-      "album": {
-        "name": "be",
-        "url": "https://open.spotify.com/album/33UNyWkPMOczcDOk4kxWd2"
-      },
-      "artists": [
-        {
-          "name": "EUNHYUK",
-          "url": "https://open.spotify.com/artist/4QRqp8zf5JtqaMk2OOU3NX"
-        }
-      ],
-      "duration_ms": 229066,
-      "name": "be",
-      "url": "https://open.spotify.com/track/2ixTL8BqsPxaH9qPgEhFV1"
     },
     {
       "added_at": "2023-11-03 06:18:18",
@@ -599,26 +599,6 @@
     {
       "added_at": "2023-11-03 06:18:18",
       "album": {
-        "name": "She Gonna Stop",
-        "url": "https://open.spotify.com/album/2qq0JhNSmRiVFYdTz7pZxN"
-      },
-      "artists": [
-        {
-          "name": "Dynamicduo",
-          "url": "https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4"
-        },
-        {
-          "name": "Leellamarz",
-          "url": "https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0"
-        }
-      ],
-      "duration_ms": 209813,
-      "name": "She Gonna Stop (Feat. Leellamarz) (Prod. TOIL)",
-      "url": "https://open.spotify.com/track/6lny2zJqlDPBzgq1Eiy0a0"
-    },
-    {
-      "added_at": "2023-11-03 06:18:18",
-      "album": {
         "name": "Reply 1988 (Original Television Soundtrack), Pt. 7",
         "url": "https://open.spotify.com/album/54P1MSGvQt3Hq1UpsijMgA"
       },
@@ -651,6 +631,26 @@
     {
       "added_at": "2023-11-03 06:18:18",
       "album": {
+        "name": "She Gonna Stop",
+        "url": "https://open.spotify.com/album/2qq0JhNSmRiVFYdTz7pZxN"
+      },
+      "artists": [
+        {
+          "name": "Dynamicduo",
+          "url": "https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4"
+        },
+        {
+          "name": "Leellamarz",
+          "url": "https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0"
+        }
+      ],
+      "duration_ms": 209813,
+      "name": "She Gonna Stop (Feat. Leellamarz) (Prod. TOIL)",
+      "url": "https://open.spotify.com/track/6lny2zJqlDPBzgq1Eiy0a0"
+    },
+    {
+      "added_at": "2023-11-03 06:18:18",
+      "album": {
         "name": "I Mean",
         "url": "https://open.spotify.com/album/2SSsz0XFUeTYZfGWRLFswR"
       },
@@ -667,22 +667,6 @@
     {
       "added_at": "2023-11-03 06:18:18",
       "album": {
-        "name": "Dear Diary",
-        "url": "https://open.spotify.com/album/0HDY0qVf18AP9ef5chIqxC"
-      },
-      "artists": [
-        {
-          "name": "YERI",
-          "url": "https://open.spotify.com/artist/4xzwjGxzfKglU0cNW4q4l1"
-        }
-      ],
-      "duration_ms": 218523,
-      "name": "Dear Diary",
-      "url": "https://open.spotify.com/track/2qgA8fMwtftAhDzkd6mhgD"
-    },
-    {
-      "added_at": "2023-11-03 06:18:18",
-      "album": {
         "name": "be by my side",
         "url": "https://open.spotify.com/album/6Fhp3DHf8QeJ77Buf1KLjA"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 213320,
       "name": "be by my side",
       "url": "https://open.spotify.com/track/1K3N3pF1uu1WPRD2QFEz06"
+    },
+    {
+      "added_at": "2023-11-03 06:18:18",
+      "album": {
+        "name": "Dear Diary",
+        "url": "https://open.spotify.com/album/0HDY0qVf18AP9ef5chIqxC"
+      },
+      "artists": [
+        {
+          "name": "YERI",
+          "url": "https://open.spotify.com/artist/4xzwjGxzfKglU0cNW4q4l1"
+        }
+      ],
+      "duration_ms": 218523,
+      "name": "Dear Diary",
+      "url": "https://open.spotify.com/track/2qgA8fMwtftAhDzkd6mhgD"
     },
     {
       "added_at": "2023-11-03 06:18:18",
@@ -747,6 +747,22 @@
     {
       "added_at": "2023-11-03 06:18:18",
       "album": {
+        "name": "\uc785\ucd98 Let Me Love My Youth",
+        "url": "https://open.spotify.com/album/7bRI9NhWadLpdKCWvzsuWJ"
+      },
+      "artists": [
+        {
+          "name": "HANRORO",
+          "url": "https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx"
+        }
+      ],
+      "duration_ms": 248407,
+      "name": "\uc785\ucd98 Let Me Love My Youth",
+      "url": "https://open.spotify.com/track/4KA9VMFIKUUMjEcnwiylr1"
+    },
+    {
+      "added_at": "2023-11-03 06:18:18",
+      "album": {
         "name": "ERROR",
         "url": "https://open.spotify.com/album/0rOZyialXbHAA4qAKi0YaL"
       },
@@ -759,6 +775,22 @@
       "duration_ms": 198558,
       "name": "Panorama",
       "url": "https://open.spotify.com/track/6faF0N0fecqw3dopttNP9i"
+    },
+    {
+      "added_at": "2023-11-03 06:18:18",
+      "album": {
+        "name": "Maum, Part. 1",
+        "url": "https://open.spotify.com/album/2fyme9eWWyC0i5QKz586DV"
+      },
+      "artists": [
+        {
+          "name": "Paul Kim",
+          "url": "https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv"
+        }
+      ],
+      "duration_ms": 242120,
+      "name": "New Day",
+      "url": "https://open.spotify.com/track/78FwF2MisGmnjbMydmntr8"
     },
     {
       "added_at": "2023-11-03 06:18:18",
@@ -779,38 +811,6 @@
       "duration_ms": 201600,
       "name": "Wake Up (Feat. DEAN)",
       "url": "https://open.spotify.com/track/6ttHs2fIX0XM2qkEMGhLkA"
-    },
-    {
-      "added_at": "2023-11-03 06:18:18",
-      "album": {
-        "name": "\uc785\ucd98 Let Me Love My Youth",
-        "url": "https://open.spotify.com/album/7bRI9NhWadLpdKCWvzsuWJ"
-      },
-      "artists": [
-        {
-          "name": "HANRORO",
-          "url": "https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx"
-        }
-      ],
-      "duration_ms": 248407,
-      "name": "\uc785\ucd98 Let Me Love My Youth",
-      "url": "https://open.spotify.com/track/4KA9VMFIKUUMjEcnwiylr1"
-    },
-    {
-      "added_at": "2023-11-03 06:18:18",
-      "album": {
-        "name": "Maum, Part. 1",
-        "url": "https://open.spotify.com/album/2fyme9eWWyC0i5QKz586DV"
-      },
-      "artists": [
-        {
-          "name": "Paul Kim",
-          "url": "https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv"
-        }
-      ],
-      "duration_ms": 242120,
-      "name": "New Day",
-      "url": "https://open.spotify.com/track/78FwF2MisGmnjbMydmntr8"
     },
     {
       "added_at": "2023-11-03 06:18:18",

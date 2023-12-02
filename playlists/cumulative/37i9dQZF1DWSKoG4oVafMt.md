@@ -4,7 +4,7 @@
 
 > The very best of Punjabi romance featuring Jordan Sandhu
 
-796 songs - 1 day 19 hr 17 min
+797 songs - 1 day 19 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -208,7 +208,7 @@
 | [Ferozi Koka](https://open.spotify.com/track/3nBT3djv8UdFtlM7hqfnit) | [Ranjit Bawa](https://open.spotify.com/artist/6pU5oz09VUYtnFTd4P1Mxn) | [Ferozi Koka](https://open.spotify.com/album/58CBHd8bAudqjM2ySjMaqt) | 2:52 | 2022-10-06 | 2023-02-04 |
 | [Fikar](https://open.spotify.com/track/70BgJ8MYMyF3zURCqUd8FP) | [Jashan Inder](https://open.spotify.com/artist/0tGfv5UMyYeDwBwo86cat8), [Sofia Inder](https://open.spotify.com/artist/04T6LAjLQUxF7JCqclfr5F), [Chet Singh](https://open.spotify.com/artist/5aWkTGq5O45ES0fDFmN1Wv) | [Fikar](https://open.spotify.com/album/3PeCg4DIogrEPkyds3rFnp) | 3:28 | 2023-09-20 |  |
 | [Firozi](https://open.spotify.com/track/3C1CI7A7stRCh6gpBWCEQS) | [Nimrat Khaira](https://open.spotify.com/artist/0ea0y5ZxnN5TbEDzNtx5Fk) | [Nimmo](https://open.spotify.com/album/3F2cjyTEus264GbYrXgrnc) | 3:36 | 2022-02-02 | 2022-04-06 |
-| [Fitrat \- From "Parinda Paar Geyaa"](https://open.spotify.com/track/2Ei7LnTPtn9Byklantuv3N) | [Gurnazar](https://open.spotify.com/artist/682M6cmwGHOyAB1ZmPv38W), [Kartik Dev](https://open.spotify.com/artist/3RP5G139xbMICwhskoljmz), [Gaurav Dev](https://open.spotify.com/artist/68Cqe4YTtQpcuyKLktPxr9) | [Fitrat \(From "Parinda Paar Geyaa"\)](https://open.spotify.com/album/548T3tZE4mfnxkGxN2PfUL) | 3:15 | 2023-11-24 |  |
+| [Fitrat \- From "Parinda Paar Geyaa"](https://open.spotify.com/track/2Ei7LnTPtn9Byklantuv3N) | [Gurnazar](https://open.spotify.com/artist/682M6cmwGHOyAB1ZmPv38W), [Kartik Dev](https://open.spotify.com/artist/3RP5G139xbMICwhskoljmz), [Gaurav Dev](https://open.spotify.com/artist/68Cqe4YTtQpcuyKLktPxr9) | [Fitrat \(From "Parinda Paar Geyaa"\)](https://open.spotify.com/album/548T3tZE4mfnxkGxN2PfUL) | 3:15 | 2023-11-24 | 2023-12-02 |
 | [Five Flower](https://open.spotify.com/track/74wcCZYO6yofhiahlJqkKk) | [Ranjit Bawa](https://open.spotify.com/artist/6pU5oz09VUYtnFTd4P1Mxn) | [Five Flower](https://open.spotify.com/album/463xWGyBZ2PjYCLIVAIxU5) | 2:38 | 2022-09-09 | 2022-12-16 |
 | [Flat](https://open.spotify.com/track/2yeklSP8NLY1INR6GOzVgd) | [Mani Moudgill](https://open.spotify.com/artist/3MGTi8Rfb4d7hprj5R2BEC) | [Flat](https://open.spotify.com/album/0VPaB19nfI80AE71iO22zN) | 2:33 | 2022-07-21 | 2022-07-29 |
 | [Flat](https://open.spotify.com/track/3W4qJ1f1anwipbPi0M93Dq) | [Mani Moudgill](https://open.spotify.com/artist/3MGTi8Rfb4d7hprj5R2BEC) | [Flat \- Single](https://open.spotify.com/album/26hIh6pP1BRAuePDXuRxn7) | 2:33 | 2022-07-28 | 2022-08-18 |
@@ -281,6 +281,7 @@
 | [Is It Love](https://open.spotify.com/track/27PrzcuYKRQbrEzn1U4bSp) | [Jind](https://open.spotify.com/artist/7apgUg8yCqpPXZqSLRlw1h), [Shera Dhaliwal](https://open.spotify.com/artist/6hUN0spqkOvBajJ8J2nUc5) | [Is It Love](https://open.spotify.com/album/5YlwUzRHhNEk7cyhKpKIM4) | 3:20 | 2022-07-08 | 2022-07-12 |
 | [Ishq Da Rog](https://open.spotify.com/track/6tmztso7Y5DZAuLAyGvPzG) | [Kulbir Jhinjer](https://open.spotify.com/artist/5xeLNyuZaJBjLpyjopm22n), [Tarsem Jassar](https://open.spotify.com/artist/67XQGZSc63AMXMINY8H7Fx), [Neeru Bajwa](https://open.spotify.com/artist/67lOlAWKOMcfsiqzBSSVUB) | [Ishq Da Rog \(From "Maa Da Ladla"\) \- Single](https://open.spotify.com/album/2XluoMXM4Pc9on2cSmWiUa) | 3:20 | 2022-09-26 | 2022-12-16 |
 | [ISHQ E PREET](https://open.spotify.com/track/7LHDuxNAVFt7bzxFV5DsUN) | [Muskaan](https://open.spotify.com/artist/26we5UYR3hTABksEFyPg3D), [PARAKH JEET](https://open.spotify.com/artist/3kpI1PU37q14n0ZV7Zhxmq) | [ISHQ E PREET](https://open.spotify.com/album/1eHzzukafLjkNmeQbTyrMp) | 4:07 | 2022-04-15 | 2022-05-11 |
+| [Ishqan De Rog](https://open.spotify.com/track/3pDxUzAOLnmjxUum5PcTip) | [Deep Chambal](https://open.spotify.com/artist/3urpfjeiggQzlhbXFylaB0) | [Ishqan De Rog](https://open.spotify.com/album/537pV5ckO6gHzSYjgpKGmA) | 2:54 | 2023-12-01 |  |
 | [Ittar](https://open.spotify.com/track/3VwIFCFQ6HQNzlQPfJBrt7) | [Jasmine Sandlas](https://open.spotify.com/artist/0mJDQBWytBhOh5JB1DOQ1c), [B Praak](https://open.spotify.com/artist/56SjZARoEvag3RoKWIb16j) | [Ittar](https://open.spotify.com/album/1SXRKGIPXXWHlFH5FIh8iS) | 3:20 | 2023-04-19 |  |
 | [Jaan Jaan \- 1MinMusic](https://open.spotify.com/track/2KFXNEN7blIIIdxK3zOnmx) | [Aroob Khan](https://open.spotify.com/artist/47GH9lsbudQDWNTgIHTr9a) | [Jaan Jaan \- 1MinMusic](https://open.spotify.com/album/2g0KwnXjVtxGs92xhKeZar) | 1:06 | 2022-05-27 | 2022-07-06 |
 | [Jaan Ke Bhuleke](https://open.spotify.com/track/2gkE9EEgIII1jNPMV6lqHz) | [Satinder Sartaaj](https://open.spotify.com/artist/4rgw8A5vcYinpZLDKHrEdV) | [Jaan Ke Bhuleke](https://open.spotify.com/album/53Pfuz9zVNwkNabvZWMYU4) | 4:55 | 2022-12-08 | 2022-12-10 |

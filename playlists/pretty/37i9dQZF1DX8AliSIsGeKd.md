@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music\. Cover: Adriatique, Delhia De France
 
-[Spotify](https://open.spotify.com/user/spotify) - 622,508 likes - 91 songs - 7 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 622,662 likes - 92 songs - 7 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,20 +84,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 74 | [Want It All](https://open.spotify.com/track/2O6Gs4QMMSol0l2DSF83wN) | [Jordan Arts](https://open.spotify.com/artist/24eSGXE60RZgpoNACFxCLZ) | [Want It All](https://open.spotify.com/album/7IysE5qHR8mIi0X5q1YyKj) | 5:34 |
 | 75 | [Cloud](https://open.spotify.com/track/6thoeLMGwS8O5skKz2iqml) | [coiro](https://open.spotify.com/artist/1f68J2PZcUgqpOmQbkqcJY) | [Reflections](https://open.spotify.com/album/6X4ZWpmgJIM8cUMebotaey) | 4:36 |
 | 76 | [Beleza](https://open.spotify.com/track/2V87fVsEA4vFdBMvsd4KMN) | [Rey&Kjavik](https://open.spotify.com/artist/0R7kz98b2zjiuU3AffoeYz) | [Beleza](https://open.spotify.com/album/7LDSqiD9LqH2cNShbMTslb) | 7:21 |
-| 77 | [Fading Memories](https://open.spotify.com/track/4Y5vfc3xrsRlcDsQcKHzz9) | [Mariz](https://open.spotify.com/artist/0z8w4hJLIXiRXfXZyssZ3v) | [Fading Memories / Close Your Eyes / Your Body](https://open.spotify.com/album/15yXsabCKmE1cnnR2soDxf) | 5:41 |
-| 78 | [Telepointer](https://open.spotify.com/track/1F9Iu1lWWnTsMGJqYNkN9N) | [Maksim Dark](https://open.spotify.com/artist/2dbxPQ9Ri4dvE6tuLp1jOu) | [Telepointer](https://open.spotify.com/album/6s3JY8StM7HYymYilZ7Zl4) | 7:00 |
-| 79 | [Closing Up](https://open.spotify.com/track/21mmZ7yW2bddbcFiDwHf4V) | [Furia](https://open.spotify.com/artist/21eiOIycysmwvv0hSl5XBS), [Medhu](https://open.spotify.com/artist/2c3rLdKcwmgbPL7DzfVTg2) | [Closing Up](https://open.spotify.com/album/2L8YT6DdSDmIm19ip6JbmY) | 4:37 |
-| 80 | [Omen](https://open.spotify.com/track/2Kf6L8fKS04DjtZtO0H2u3) | [Stephan Zovsky](https://open.spotify.com/artist/7311LpGBvRgQVXyxBl2PzP) | [Omen](https://open.spotify.com/album/3ioK8CDQHAhmHnQ0yofDrI) | 7:07 |
-| 81 | [Uplifting Robot](https://open.spotify.com/track/0d09UTSraOnPYrkwEoqoVZ) | [Space Motion](https://open.spotify.com/artist/1k7iyyK6j5IJzF0cUMcaGY), [Talón](https://open.spotify.com/artist/4wNQV7tJw5nfk1xDAohIZg) | [Uplifting Robot](https://open.spotify.com/album/0VOYmCwtX7QulXNgWl5MEs) | 4:37 |
-| 82 | [Let Me In](https://open.spotify.com/track/14lUH2tCiUmoTanxJMfVwN) | [Vanita](https://open.spotify.com/artist/03wBbT5tqttIBpmUrNa9ur) | [Let Me In](https://open.spotify.com/album/7kkxWm7o8crdWwNYgMPSnq) | 7:12 |
-| 83 | [Mental Obsession](https://open.spotify.com/track/0dyNvuXPab9mVtb6hz72PF) | [19:26](https://open.spotify.com/artist/2IelDQgKvM3U4P7HVVmaOX), [Yubik](https://open.spotify.com/artist/4rQiYfSqmicW55TlG6vjK7) | [Mental Obsession](https://open.spotify.com/album/0hfQVCCY3yCGZkoQy11PCn) | 5:28 |
-| 84 | [Yame](https://open.spotify.com/track/1HZfIKYCxYQNg3g4bb21YV) | [The Mekanism](https://open.spotify.com/artist/28QIgdCMLnz3ZBkFRCkD5h) | [Maera Compilation, Vol\. II](https://open.spotify.com/album/6vGMufhkc9MavNJz59BhWy) | 7:50 |
-| 85 | [Fatoma](https://open.spotify.com/track/1EvTnJ0l1Cct7q8QsQdckl) | [Darksidevinyl](https://open.spotify.com/artist/7JgdmzLGGrt808y5C1STh0), [NonCitizens](https://open.spotify.com/artist/73KWbbG4ZspCHvI0aDcfl1) | [Fatoma](https://open.spotify.com/album/7L5eq0h23cjpkoBxDfzWlF) | 6:00 |
-| 86 | [Bazaar](https://open.spotify.com/track/0JMlBK0uZJuAL3LQrume6p) | [NILU \(DK\)](https://open.spotify.com/artist/4FulSv3ssszcswo27nljmW) | [Bazaar](https://open.spotify.com/album/1MMy362gQT5wFe7D1wjzgH) | 6:02 |
-| 87 | [Dimetrodonte](https://open.spotify.com/track/4pvyiOcG7YmEW1cMoOsel5) | [Fango](https://open.spotify.com/artist/0Ey5SuiHfEJX8DZzwyENz1) | [Sarcosuco](https://open.spotify.com/album/14tyxKsGnMKIJHhz2mKwhI) | 7:01 |
-| 88 | [Baby](https://open.spotify.com/track/7kIYesIo1UqNgDroqUoAEV) | [Alan Fitzpatrick](https://open.spotify.com/artist/40JyDxGqtYSowWYT2jaive) | [Baby](https://open.spotify.com/album/67FxT3myHsHBXdbO1aTU3v) | 4:49 |
-| 89 | [ICE](https://open.spotify.com/track/6OuPcOjGIysSt19Cs3MGSR) | [Funk Tribu](https://open.spotify.com/artist/1vK8NnrPlBlF34LaiFX1SK) | [ICE](https://open.spotify.com/album/1qlUB2hK6jIUlZjZ4no1cn) | 4:51 |
-| 90 | [Cosmic Vibes](https://open.spotify.com/track/4L6Yea8uk4rzIpVBEMN2am) | [GRAViiTY](https://open.spotify.com/artist/1ycxas0HqhZQQc7zkhtUJY) | [Alien Club](https://open.spotify.com/album/1TKLUCqgBH2bWdult8Janp) | 3:38 |
-| 91 | [ELEKTRO EROTIK](https://open.spotify.com/track/4XKSBSuzMvTIUAIedPWzG2) | [Zeitgeist Freedom Energy Exchange](https://open.spotify.com/artist/2qDY4ib71XUC2Lo87r6HdM) | [ELEKTRO EROTIK](https://open.spotify.com/album/1EaRq7aBrSKkU4tttnG3g0) | 7:03 |
+| 77 | [LoCKeDoWN2](https://open.spotify.com/track/7lX1trm9MEznmmsMIrU3pl) | [MEUTE](https://open.spotify.com/artist/1z5xbcOeFRQXBVDpvRPh8H) | [LoCKeDoWN2](https://open.spotify.com/album/6ApclqoXAhb1XxQhP0yYDA) | 7:45 |
+| 78 | [Fading Memories](https://open.spotify.com/track/4Y5vfc3xrsRlcDsQcKHzz9) | [Mariz](https://open.spotify.com/artist/0z8w4hJLIXiRXfXZyssZ3v) | [Fading Memories / Close Your Eyes / Your Body](https://open.spotify.com/album/15yXsabCKmE1cnnR2soDxf) | 5:41 |
+| 79 | [Telepointer](https://open.spotify.com/track/1F9Iu1lWWnTsMGJqYNkN9N) | [Maksim Dark](https://open.spotify.com/artist/2dbxPQ9Ri4dvE6tuLp1jOu) | [Telepointer](https://open.spotify.com/album/6s3JY8StM7HYymYilZ7Zl4) | 7:00 |
+| 80 | [Closing Up](https://open.spotify.com/track/21mmZ7yW2bddbcFiDwHf4V) | [Furia](https://open.spotify.com/artist/21eiOIycysmwvv0hSl5XBS), [Medhu](https://open.spotify.com/artist/2c3rLdKcwmgbPL7DzfVTg2) | [Closing Up](https://open.spotify.com/album/2L8YT6DdSDmIm19ip6JbmY) | 4:37 |
+| 81 | [Omen](https://open.spotify.com/track/2Kf6L8fKS04DjtZtO0H2u3) | [Stephan Zovsky](https://open.spotify.com/artist/7311LpGBvRgQVXyxBl2PzP) | [Omen](https://open.spotify.com/album/3ioK8CDQHAhmHnQ0yofDrI) | 7:07 |
+| 82 | [Uplifting Robot](https://open.spotify.com/track/0d09UTSraOnPYrkwEoqoVZ) | [Space Motion](https://open.spotify.com/artist/1k7iyyK6j5IJzF0cUMcaGY), [Talón](https://open.spotify.com/artist/4wNQV7tJw5nfk1xDAohIZg) | [Uplifting Robot](https://open.spotify.com/album/0VOYmCwtX7QulXNgWl5MEs) | 4:37 |
+| 83 | [Let Me In](https://open.spotify.com/track/14lUH2tCiUmoTanxJMfVwN) | [Vanita](https://open.spotify.com/artist/03wBbT5tqttIBpmUrNa9ur) | [Let Me In](https://open.spotify.com/album/7kkxWm7o8crdWwNYgMPSnq) | 7:12 |
+| 84 | [Mental Obsession](https://open.spotify.com/track/0dyNvuXPab9mVtb6hz72PF) | [19:26](https://open.spotify.com/artist/2IelDQgKvM3U4P7HVVmaOX), [Yubik](https://open.spotify.com/artist/4rQiYfSqmicW55TlG6vjK7) | [Mental Obsession](https://open.spotify.com/album/0hfQVCCY3yCGZkoQy11PCn) | 5:28 |
+| 85 | [Yame](https://open.spotify.com/track/1HZfIKYCxYQNg3g4bb21YV) | [The Mekanism](https://open.spotify.com/artist/28QIgdCMLnz3ZBkFRCkD5h) | [Maera Compilation, Vol\. II](https://open.spotify.com/album/6vGMufhkc9MavNJz59BhWy) | 7:50 |
+| 86 | [Fatoma](https://open.spotify.com/track/1EvTnJ0l1Cct7q8QsQdckl) | [Darksidevinyl](https://open.spotify.com/artist/7JgdmzLGGrt808y5C1STh0), [NonCitizens](https://open.spotify.com/artist/73KWbbG4ZspCHvI0aDcfl1) | [Fatoma](https://open.spotify.com/album/7L5eq0h23cjpkoBxDfzWlF) | 6:00 |
+| 87 | [Bazaar](https://open.spotify.com/track/0JMlBK0uZJuAL3LQrume6p) | [NILU \(DK\)](https://open.spotify.com/artist/4FulSv3ssszcswo27nljmW) | [Bazaar](https://open.spotify.com/album/1MMy362gQT5wFe7D1wjzgH) | 6:02 |
+| 88 | [Dimetrodonte](https://open.spotify.com/track/4pvyiOcG7YmEW1cMoOsel5) | [Fango](https://open.spotify.com/artist/0Ey5SuiHfEJX8DZzwyENz1) | [Sarcosuco](https://open.spotify.com/album/14tyxKsGnMKIJHhz2mKwhI) | 7:01 |
+| 89 | [Baby](https://open.spotify.com/track/7kIYesIo1UqNgDroqUoAEV) | [Alan Fitzpatrick](https://open.spotify.com/artist/40JyDxGqtYSowWYT2jaive) | [Baby](https://open.spotify.com/album/67FxT3myHsHBXdbO1aTU3v) | 4:49 |
+| 90 | [ICE](https://open.spotify.com/track/6OuPcOjGIysSt19Cs3MGSR) | [Funk Tribu](https://open.spotify.com/artist/1vK8NnrPlBlF34LaiFX1SK) | [ICE](https://open.spotify.com/album/1qlUB2hK6jIUlZjZ4no1cn) | 4:51 |
+| 91 | [Cosmic Vibes](https://open.spotify.com/track/4L6Yea8uk4rzIpVBEMN2am) | [GRAViiTY](https://open.spotify.com/artist/1ycxas0HqhZQQc7zkhtUJY) | [Alien Club](https://open.spotify.com/album/1TKLUCqgBH2bWdult8Janp) | 3:38 |
+| 92 | [ELEKTRO EROTIK](https://open.spotify.com/track/4XKSBSuzMvTIUAIedPWzG2) | [Zeitgeist Freedom Energy Exchange](https://open.spotify.com/artist/2qDY4ib71XUC2Lo87r6HdM) | [ELEKTRO EROTIK](https://open.spotify.com/album/1EaRq7aBrSKkU4tttnG3g0) | 7:03 |
 
-Snapshot ID: `MCw0NDg0OTZiOWQxMjlhOTJlYmI0NWI2ZDVlNDRkNjM5NGIxNjM1MmVi`
+Snapshot ID: `MCwzYzQ4ZjcwYzExZTVjNTIyMWVmNDhiYjdiMzhmM2VkNGNlOTQ2NmE2`

@@ -4,7 +4,7 @@
 
 > Encuentra un mix de clásicos y nuevos talentos\. Foto: Kuervos del Sur
 
-277 songs - 17 hr 36 min
+278 songs - 17 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,7 +70,7 @@
 | [Diva](https://open.spotify.com/track/4XA016W1NpyZrKW0rzmip8) | [Valija Diplomatica](https://open.spotify.com/artist/2euAtk0firHMqPFDJHLJCV) | [Diva](https://open.spotify.com/album/207ZNb5QEsdVRPGwB5iS3l) | 3:24 | 2022-04-08 |  |
 | [Diversion](https://open.spotify.com/track/3wNMVSpqdIEilxI5eH2vMK) | [Jurel Sónico & Los Impuros](https://open.spotify.com/artist/5E82IAvqChVXuyo2cDUxPN) | [Flores Plásticas](https://open.spotify.com/album/0gZr1LBzr2XcRfkiZz0fO4) | 2:58 | 2022-07-01 | 2023-03-03 |
 | [Don´t Dream It´s Over](https://open.spotify.com/track/1f0jGDnI25u0l1jM3C0fkf) | [Ases Falsos](https://open.spotify.com/artist/5duXcUlwdTvVHJTLWJa2j1) | [Don´t Dream It´s Over](https://open.spotify.com/album/4p8CVAYlRBbG8xnNJljOLU) | 4:18 | 2022-04-08 | 2022-12-17 |
-| [Dormir En Cadenas](https://open.spotify.com/track/27voMIbulE2GdVxchzuV0a) | [Cede](https://open.spotify.com/artist/5gg0cZdcWGowFq4M0PiO7C) | [Nuevos Paisajes](https://open.spotify.com/album/35sSZGSyZEcHMkNPcAZuHB) | 4:29 | 2023-10-13 |  |
+| [Dormir En Cadenas](https://open.spotify.com/track/27voMIbulE2GdVxchzuV0a) | [Cede](https://open.spotify.com/artist/5gg0cZdcWGowFq4M0PiO7C) | [Nuevos Paisajes](https://open.spotify.com/album/35sSZGSyZEcHMkNPcAZuHB) | 4:29 | 2023-10-13 | 2023-12-02 |
 | [Dormir en Cadenas](https://open.spotify.com/track/1KgQYMZgyY7c1eGk0MVzvq) | [Cede](https://open.spotify.com/artist/5gg0cZdcWGowFq4M0PiO7C) | [Dormir en Cadenas](https://open.spotify.com/album/6qCPo2VJtEa7o9lRLCvzWu) | 4:30 | 2022-04-08 | 2022-07-27 |
 | [Dual](https://open.spotify.com/track/0RFhbOwk4IWANsiZGeedTr) | [We Are The Grand](https://open.spotify.com/artist/4DAFJvYjVrSQfEM67zeXQT) | [El Niño Que Vivía Entre Sombras](https://open.spotify.com/album/7miX6KkbYuLJIv2wzkT5mH) | 4:24 | 2023-06-23 |  |
 | [Dual](https://open.spotify.com/track/1i12FygtGjwPG3UBf6Nb8l) | [We Are The Grand](https://open.spotify.com/artist/4DAFJvYjVrSQfEM67zeXQT) | [Dual](https://open.spotify.com/album/3WywOeCZ9nXNnnTu5MBGIX) | 4:24 | 2022-04-08 | 2023-03-12 |
@@ -231,6 +231,7 @@
 | [Sin Condiciones](https://open.spotify.com/track/7KBaqcgs2UAPZ3Tf3YCJaG) | [Lanza Internacional](https://open.spotify.com/artist/5s4SbJgMMtIyl0caPyZMmT), [Cancamusa](https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc) | [Sin Condiciones](https://open.spotify.com/album/1ps8gChKrBIAjiX5vI2SCj) | 3:50 | 2022-04-08 | 2023-03-03 |
 | [Sociedad Capital](https://open.spotify.com/track/2ONPbjbmgkLt7c1yoW0fU5) | [Yosef Salvo](https://open.spotify.com/artist/27w1PE4zUCZPHqRXnoyTRc) | [Sociedad Capital](https://open.spotify.com/album/3Z19V0sgumnxc8phk6LAKQ) | 3:05 | 2022-04-08 | 2023-01-15 |
 | [Soldados](https://open.spotify.com/track/3TCj56rGlJRCmX7L8Kgwgk) | [Kapitol](https://open.spotify.com/artist/5FuX1pfwNKtfSvimMmLSbt) | [Santos](https://open.spotify.com/album/3h8muVhOvlsw6Olfn5XrHG) | 3:45 | 2022-04-08 |  |
+| [Solo de Ti](https://open.spotify.com/track/01pHsM5mHXLRT01w9wt1JT) | [Hermanos Ilabaca](https://open.spotify.com/artist/0PyhxG9e14b5UvwUH0X3Qd) | [Solo de Ti](https://open.spotify.com/album/29MnwmnbfpgL9AqH4FDzBF) | 3:57 | 2023-12-01 |  |
 | [Solo Humanos](https://open.spotify.com/track/7fpw9e5SwHgS0EZqz9qoE4) | [Los Insolentes](https://open.spotify.com/artist/5PSALJaFvns883BaOLR6Vc) | [Solo Humanos](https://open.spotify.com/album/5UxyHRIZnHbOeQNYNBFvVe) | 3:44 | 2022-04-08 | 2023-03-03 |
 | [Sombras](https://open.spotify.com/track/7yty7k7SUnbm61GvnXPho3) | [We Are The Grand](https://open.spotify.com/artist/4DAFJvYjVrSQfEM67zeXQT) | [Sombras](https://open.spotify.com/album/489Zh5KhMDcsJsbmiUlSIe) | 3:53 | 2022-04-08 | 2023-03-03 |
 | [Somos amigos](https://open.spotify.com/track/6V3zMRLRCSOQtAJG8wVybk) | [Tomo Como Rey](https://open.spotify.com/artist/7DGQ1BwG33jSlcQC6krZLD) | [Somos amigos](https://open.spotify.com/album/1CQJiErOJUYIbdh3ZcHqxJ) | 3:10 | 2023-08-11 |  |

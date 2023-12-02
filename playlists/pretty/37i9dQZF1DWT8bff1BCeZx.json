@@ -1,12 +1,12 @@
 {
   "description": "African Praise music taking you all the way up!",
-  "num_followers": 9842,
+  "num_followers": 9911,
   "original_name": "Higher",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NGU1Mjg5NGQxMTVkMjkzMTBhNWE4NmIyZWVkYTFmYjM5N2M2MGRh",
+  "snapshot_id": "MCw4NWRkYjgxY2FjN2ExY2EzN2EyMzJlNGYxZjU3MWUzZWI3YTc2NzE1",
   "tracks": [
     {
       "added_at": "2023-12-01 00:01:00",
@@ -695,6 +695,22 @@
     {
       "added_at": "2023-12-01 00:01:00",
       "album": {
+        "name": "Masterpiece",
+        "url": "https://open.spotify.com/album/5IMs5K3abzKDtYofk0jmoQ"
+      },
+      "artists": [
+        {
+          "name": "Marizu",
+          "url": "https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9"
+        }
+      ],
+      "duration_ms": 187428,
+      "name": "Masterpiece",
+      "url": "https://open.spotify.com/track/53g5J8D6m8UREgQg0pUXKv"
+    },
+    {
+      "added_at": "2023-12-01 00:01:00",
+      "album": {
         "name": "Exit",
         "url": "https://open.spotify.com/album/33IS3ibSQBRCKT5cWkZyBL"
       },
@@ -711,22 +727,6 @@
       "duration_ms": 176379,
       "name": "Exit",
       "url": "https://open.spotify.com/track/7uEkbtNgUSECmGBWsHmwjT"
-    },
-    {
-      "added_at": "2023-12-01 00:01:00",
-      "album": {
-        "name": "Your Name Is Higher",
-        "url": "https://open.spotify.com/album/6uY6lnE7u3ZIcBlwVpbp3i"
-      },
-      "artists": [
-        {
-          "name": "Florocka",
-          "url": "https://open.spotify.com/artist/67UNdzU22i8wQPuOCMqOJY"
-        }
-      ],
-      "duration_ms": 209539,
-      "name": "Your Name Is Higher",
-      "url": "https://open.spotify.com/track/72uQC5auMkudAOsB1Hhwqz"
     },
     {
       "added_at": "2023-12-01 00:01:00",
@@ -751,18 +751,18 @@
     {
       "added_at": "2023-12-01 00:01:00",
       "album": {
-        "name": "Masterpiece",
-        "url": "https://open.spotify.com/album/5IMs5K3abzKDtYofk0jmoQ"
+        "name": "Your Name Is Higher",
+        "url": "https://open.spotify.com/album/6uY6lnE7u3ZIcBlwVpbp3i"
       },
       "artists": [
         {
-          "name": "Marizu",
-          "url": "https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9"
+          "name": "Florocka",
+          "url": "https://open.spotify.com/artist/67UNdzU22i8wQPuOCMqOJY"
         }
       ],
-      "duration_ms": 187428,
-      "name": "Masterpiece",
-      "url": "https://open.spotify.com/track/53g5J8D6m8UREgQg0pUXKv"
+      "duration_ms": 209539,
+      "name": "Your Name Is Higher",
+      "url": "https://open.spotify.com/track/72uQC5auMkudAOsB1Hhwqz"
     },
     {
       "added_at": "2023-12-01 00:01:00",
@@ -843,22 +843,18 @@
     {
       "added_at": "2023-12-01 00:01:00",
       "album": {
-        "name": "Praises",
-        "url": "https://open.spotify.com/album/4Y3G7tgPH2GymSaflJNGb0"
+        "name": "The Birth of Revival",
+        "url": "https://open.spotify.com/album/2Cglyux6VJ6U1fcLaDGtHH"
       },
       "artists": [
         {
-          "name": "Kingdmusic",
-          "url": "https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL"
-        },
-        {
-          "name": "Deitrick Haddon",
-          "url": "https://open.spotify.com/artist/7tlQrRh6jNY1c95poJvBe9"
+          "name": "Dunsin Oyekan",
+          "url": "https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM"
         }
       ],
-      "duration_ms": 244300,
-      "name": "Praises",
-      "url": "https://open.spotify.com/track/58tYUrA7rqXufrstqh4UZj"
+      "duration_ms": 812470,
+      "name": "When I See You",
+      "url": "https://open.spotify.com/track/2s4m4TSn6vl0y2fdJZyUkG"
     },
     {
       "added_at": "2023-12-01 00:01:00",
@@ -891,22 +887,6 @@
     {
       "added_at": "2023-12-01 00:01:00",
       "album": {
-        "name": "The Birth of Revival",
-        "url": "https://open.spotify.com/album/2Cglyux6VJ6U1fcLaDGtHH"
-      },
-      "artists": [
-        {
-          "name": "Dunsin Oyekan",
-          "url": "https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM"
-        }
-      ],
-      "duration_ms": 812470,
-      "name": "When I See You",
-      "url": "https://open.spotify.com/track/2s4m4TSn6vl0y2fdJZyUkG"
-    },
-    {
-      "added_at": "2023-12-01 00:01:00",
-      "album": {
         "name": "Selense",
         "url": "https://open.spotify.com/album/1VGhyaldHyoIHpVv95pzcO"
       },
@@ -919,6 +899,26 @@
       "duration_ms": 225153,
       "name": "Selense",
       "url": "https://open.spotify.com/track/2acuY3pMC7B8FAsqB499uh"
+    },
+    {
+      "added_at": "2023-12-01 00:01:00",
+      "album": {
+        "name": "Praises",
+        "url": "https://open.spotify.com/album/4Y3G7tgPH2GymSaflJNGb0"
+      },
+      "artists": [
+        {
+          "name": "Kingdmusic",
+          "url": "https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL"
+        },
+        {
+          "name": "Deitrick Haddon",
+          "url": "https://open.spotify.com/artist/7tlQrRh6jNY1c95poJvBe9"
+        }
+      ],
+      "duration_ms": 244300,
+      "name": "Praises",
+      "url": "https://open.spotify.com/track/58tYUrA7rqXufrstqh4UZj"
     },
     {
       "added_at": "2023-12-01 00:01:00",

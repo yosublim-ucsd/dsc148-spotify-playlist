@@ -1900,7 +1900,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 164440,
       "name": "Mi Anhelo",
       "url": "https://open.spotify.com/track/0RSJWvAw4zgKIZadqV3CaN"
@@ -2950,6 +2950,24 @@
       "duration_ms": 270000,
       "name": "Tiempo",
       "url": "https://open.spotify.com/track/1qQ2k6WRvClfd6e1BDjjtG"
+    },
+    {
+      "album": {
+        "name": "Tierra Colorada en el Teatro Col\u00f3n: Chango Spasiuk en Concierto",
+        "url": "https://open.spotify.com/album/3iTwMKOnbPJvE4SH12yj3s"
+      },
+      "artists": [
+        {
+          "name": "Chango Spasiuk",
+          "url": "https://open.spotify.com/artist/0qGRkfnUqWeG49vbCv6rMY"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288866,
+      "name": "Tierra Colorada - En Vivo en el Teatro Col\u00f3n",
+      "url": "https://open.spotify.com/track/3VNpX2bB43qkJGutZ65rff"
     },
     {
       "album": {

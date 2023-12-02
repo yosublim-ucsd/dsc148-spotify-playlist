@@ -554,7 +554,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 222684,
       "name": "INEEDYOURLOVE",
       "url": "https://open.spotify.com/track/0PKts6fqZDse9N3Kvke1AW"
@@ -774,6 +774,24 @@
       "duration_ms": 230933,
       "name": "New Tomorrow",
       "url": "https://open.spotify.com/track/2ayD6EPasDViEQa4bwat0c"
+    },
+    {
+      "album": {
+        "name": "The Story",
+        "url": "https://open.spotify.com/album/4tk1TxAS90si1va7jPWqGg"
+      },
+      "artists": [
+        {
+          "name": "KANGDANIEL",
+          "url": "https://open.spotify.com/artist/5vGoWnZO65NBgiZYBmi3iW"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182800,
+      "name": "Parade",
+      "url": "https://open.spotify.com/track/2lsXJ7F3QYJrQ9cQ9Icx1n"
     },
     {
       "album": {

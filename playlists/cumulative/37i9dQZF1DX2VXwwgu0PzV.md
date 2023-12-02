@@ -4,7 +4,7 @@
 
 > Music for when you've got your Jesus on and your swag up \. <br/>Cover: <a href="https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas?si=2aNAVs5GRtS8zAQIBnp6eQ">Victor Thompson</a>
 
-485 songs - 1 day 4 hr 17 min
+486 songs - 1 day 4 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -269,6 +269,7 @@
 | [Joy in Chaos \(Extended\)](https://open.spotify.com/track/6vbzWTJ7tvSOieADnVJXO5) | [Holy drill](https://open.spotify.com/artist/3SN6XTw03dI5Cn49oeqz6j), [D6](https://open.spotify.com/artist/4ZUFmEBBatVOgDKIQng6cj), [Stanley Ifenna](https://open.spotify.com/artist/65aQElIwxRydi0DXqclTJA) | [Joy in Chaos \(Extended\)](https://open.spotify.com/album/2WrTLuhddDoXzMO51aiBPv) | 2:06 | 2023-07-21 |  |
 | [Kadosh](https://open.spotify.com/track/4svtx39i5LU3p9qss5cWLU) | [Pv Idemudia](https://open.spotify.com/artist/0iE6uT4YVh808x9A2iWJ9D) | [Worship Rise](https://open.spotify.com/album/0uwPudlOXDSGJdi2QTe5Dp) | 3:58 | 2023-05-26 | 2023-11-17 |
 | [Kelerem chimo](https://open.spotify.com/track/7IYBkPcrPnzLEg4TfAab51) | [Yadah](https://open.spotify.com/artist/3NVaeJiV5H9k9Y67G0hI3q) | [Fathered by the best](https://open.spotify.com/album/0SGehcWaVRh6KWwDEWlAOY) | 7:15 | 2023-07-28 | 2023-08-12 |
+| [Kingdom Business](https://open.spotify.com/track/0eRXjkHgPK8nfgSz1W6On8) | [Reblah](https://open.spotify.com/artist/7EHtFdWeBK26GJ5lKt02SV), [ST\-Saint](https://open.spotify.com/artist/1Ibt48HCzHnDbkZYstwnTw), [R\-Scar](https://open.spotify.com/artist/0p2at2XqvrkIZUuknWspiH) | [Kingdom Business](https://open.spotify.com/album/7slHnMjanj0tMxf0jVcQbr) | 3:30 | 2023-12-01 |  |
 | [Kpeme](https://open.spotify.com/track/7A2nBqZ1wxJX49n0TYrwtq) | [Prinx Emmanuel](https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz) | [ThisIsPrinx](https://open.spotify.com/album/5pqNbCEWRERViZjzrJS76h) | 2:31 | 2023-02-02 | 2023-05-26 |
 | [Kumama Papa](https://open.spotify.com/track/5LwT1tPiIUszQ7C51DuEL2) | [Grace Lokwa](https://open.spotify.com/artist/1ShPOU9aA4b68tOHBSz7sW), [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM), [Prinx Emmanuel](https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz) | [Kumama](https://open.spotify.com/album/4VWqQy7daz2lmZVLZakGjb) | 4:20 | 2023-08-11 |  |
 | [LEAVE AM](https://open.spotify.com/track/5qD6spLX6xyPoGaWhQ7aBV) | [Greatman Takit](https://open.spotify.com/artist/47oK1JYR8A9TABs010suzH), [Kng James](https://open.spotify.com/artist/2QMVSH9f4szbWBT0WMnvdz), [Prinx Emmanuel](https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz), [Angeloh](https://open.spotify.com/artist/16b0fWgIHXMM87ZaHe4ERg), [Dr Foy](https://open.spotify.com/artist/6hOIz4x9qqg41XPhhWygAh) | [LEAVE AM](https://open.spotify.com/album/6EltsuO2yImenIFxamWSNb) | 4:25 | 2023-02-02 | 2023-05-12 |

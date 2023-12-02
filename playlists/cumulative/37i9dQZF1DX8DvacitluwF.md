@@ -4,7 +4,7 @@
 
 > Only the best in South African and international RnB\. Cover: <a href="https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE?si=0UB5UrM3SRKJyuFiLPDgfQ">Tyla</a>
 
-106 songs - 5 hr 35 min
+107 songs - 5 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,6 +53,7 @@
 | [How We Roll](https://open.spotify.com/track/7Fdhp8np9nZhsghO2VIPvJ) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [How We Roll](https://open.spotify.com/album/6QK3O5sAs6NJ8n3h8UssuZ) | 3:19 | 2023-10-12 |  |
 | [I Know What I Want](https://open.spotify.com/track/4t6lJovfXhtW2eKaWfc41S) | [Rudy Chalmers](https://open.spotify.com/artist/7dP2IIbQgbUJaCZsTgY1dC) | [I Know What I Want](https://open.spotify.com/album/6D0lAoiHXI05IWw1YAULb9) | 3:58 | 2023-11-23 |  |
 | [I Lay \(feat\. Xenia Manasseh\)](https://open.spotify.com/track/3OfnodXWoUyR7bgKckTe5p) | [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86), [Kaien Cruz](https://open.spotify.com/artist/6iyDjhh4mDePK6LPSwlLGE) | [I Lay \(feat\. Xenia Manasseh\)](https://open.spotify.com/album/5ANLOAQ4aeLFY3XOsdJ48i) | 2:28 | 2023-10-12 |  |
+| [I Waited](https://open.spotify.com/track/6v1OHooaBNAIxRZlADN7G3) | [Frya](https://open.spotify.com/artist/5ebYNYTR9S7tbTrUJldiOB) | [Lifetimes](https://open.spotify.com/album/1gY7CgRXNmKLPy1GrYKPCf) | 3:37 | 2023-12-01 |  |
 | [In The Moment](https://open.spotify.com/track/2cyVJ0iYwUuBGIOiOtxCAU) | [Phiwo](https://open.spotify.com/artist/1qoXgLST4EUgUB9Ml5jVOp) | [Things We Feel](https://open.spotify.com/album/1OSJjMs1WGeQYj9syquxGO) | 3:44 | 2023-11-30 |  |
 | [Infinity](https://open.spotify.com/track/1Ss0B3AuWkqqpdz8bLU9mn) | [Titose](https://open.spotify.com/artist/1GqDQYv81wsGJmzM5LOyF7), [Moliy](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK) | [Infinity](https://open.spotify.com/album/2ho4rd64wGodDKv3nKojlU) | 2:39 | 2023-10-12 |  |
 | [It's Nearly Over](https://open.spotify.com/track/1N2D3apgTeJJ2anfr6tWfP) | [Femi Tahiru](https://open.spotify.com/artist/7Kf8nVYjut9xA328Xqs6gm) | [It's Nearly Over](https://open.spotify.com/album/0tSZ2SZSF7R7xYf69CD5Iy) | 3:18 | 2023-10-12 | 2023-10-20 |

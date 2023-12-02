@@ -4,7 +4,7 @@
 
 > 到了週末，你應該試著把柔軟的感覺找回來，小憩一下、小走一段、小酌一杯或小哭一場。
 
-364 songs - 23 hr 58 min
+366 songs - 1 day 0 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,7 +112,7 @@
 | [其實你並沒那麼孤單](https://open.spotify.com/track/3NpZcmc7txP57fUNcduERB) | [Eric Chou](https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi) | [小時候的我們](https://open.spotify.com/album/2GaVDyAX5sgrX5CuWxRhZm) | 3:04 | 2022-10-20 | 2023-09-11 |
 | [再一次擁有](https://open.spotify.com/track/447anYXT2ONrCfw3PlXLWV) | [龔詩嘉](https://open.spotify.com/artist/3YJXJABOwuadyp7MPN9wbi) | [好, 詩嘉](https://open.spotify.com/album/5QRIErMZ7QOWs6sy937gR3) | 4:19 | 2022-06-02 | 2022-07-29 |
 | [再見我講](https://open.spotify.com/track/3lLQxUFSWmjHwShvIFEIwA) | [洪浩竣 Anson](https://open.spotify.com/artist/2CfGVBMPqLbHilWUaWxzJk) | [安身](https://open.spotify.com/album/0f7QIa96ACvp6OR1e70TeZ) | 4:36 | 2023-11-23 |  |
-| [再陪我一個夏天《地獄里長》插曲](https://open.spotify.com/track/7jMnF7k6f9L1IWCOLnTQO1) | [Sophie Chen](https://open.spotify.com/artist/2DIegoHjgAlIc6HYGGbu4h) | [再陪我一個夏天《地獄里長》插曲](https://open.spotify.com/album/7BO8kzouWz0SOA5sAmgy3N) | 3:12 | 2023-09-14 |  |
+| [再陪我一個夏天《地獄里長》插曲](https://open.spotify.com/track/7jMnF7k6f9L1IWCOLnTQO1) | [Sophie Chen](https://open.spotify.com/artist/2DIegoHjgAlIc6HYGGbu4h) | [再陪我一個夏天《地獄里長》插曲](https://open.spotify.com/album/7BO8kzouWz0SOA5sAmgy3N) | 3:12 | 2023-09-14 | 2023-12-02 |
 | [出走](https://open.spotify.com/track/7m5E9euAbb5O3lgOWm7H1D) | [Tanya Chua](https://open.spotify.com/artist/376pcuw4IgWBMOUwCr8kIm) | [出走](https://open.spotify.com/album/0lGn56lhCvMeqiVppbz9YM) | 4:16 | 2022-06-10 | 2022-07-28 |
 | [初戀的地方 \(《華燈初上》插曲\)](https://open.spotify.com/track/1s3oaYJPfpQnTrW2sdtK0b) | [Jia Jia](https://open.spotify.com/artist/5qUYuf6cIHU241KxPyDMBp) | [華燈初上 影集原聲帶](https://open.spotify.com/album/5Wo3UjxodmjHl2XK3FCkTv) | 2:56 | 2022-06-16 | 2022-07-20 |
 | [別把愛情寫得太過美麗](https://open.spotify.com/track/2Kyhwh8yvJ51N8P1oicIGx) | [潘迪智](https://open.spotify.com/artist/0U2lrhD2UEZ82LDVlmMVkN) | [臨床指引](https://open.spotify.com/album/3JiEBZB1MgfGxxvF2OoHTD) | 4:30 | 2023-08-24 | 2023-09-08 |
@@ -147,6 +147,7 @@
 | [大人](https://open.spotify.com/track/6UXPAEteXJEyxcA0MAo8Zf) | [Fish Leong](https://open.spotify.com/artist/3aIDSTKS9yH745GUQBxDcS) | [麋鹿](https://open.spotify.com/album/3stIJfcy7gwLRdrxipRwp0) | 3:54 | 2023-05-18 |  |
 | [大海](https://open.spotify.com/track/2PBgXM5T6RGutisj2Nrv5Z) | [WeiBird](https://open.spotify.com/artist/7y3HnWCFEvWj4KM9GFSkiX) | [大海](https://open.spotify.com/album/1bJZhytOyONPzQcNWW8P88) | 3:31 | 2023-03-16 | 2023-11-30 |
 | [天亮之前 \- 《八尺門的辯護人》片尾曲](https://open.spotify.com/track/0MfeaAYeIivg8PwLsCl7KN) | [A\-Lin](https://open.spotify.com/artist/28gf2piFx6cAKOMIwcky5a) | [《八尺門的辯護人》主題曲原聲帶](https://open.spotify.com/album/29GUehP1C75V485aAC0dUO) | 4:05 | 2023-07-13 |  |
+| [天堂與泥土](https://open.spotify.com/track/0I1YidoarFCsbkHu8ZkfrN) | [deca joins](https://open.spotify.com/artist/5wbF4yfjaOjTSkrnucKA77) | [暗流](https://open.spotify.com/album/35WbOyVHUlWYO4sTlc5DVW) | 3:54 | 2023-12-01 |  |
 | [天氣預報](https://open.spotify.com/track/4lvtoxQj42W8DxR9JHqxR3) | [Fish Leong](https://open.spotify.com/artist/3aIDSTKS9yH745GUQBxDcS) | [麋鹿](https://open.spotify.com/album/3stIJfcy7gwLRdrxipRwp0) | 4:59 | 2023-05-18 | 2023-06-26 |
 | [天蠍座\-日光版](https://open.spotify.com/track/1kqaTLA5cwwSL2z4CrU0wD) | [林鴻宇](https://open.spotify.com/artist/3cNu9TadMUtDkoVd5db2qB) | [天蠍座\-日光版](https://open.spotify.com/album/4ucntO6s4JhRPCqr7a7lde) | 4:30 | 2022-07-15 | 2022-07-28 |
 | [太聰明](https://open.spotify.com/track/4DCB1S7G6SmH9qlDpEVIzP) | [Cheer Chen](https://open.spotify.com/artist/4m0xrEWYU0yCUFMaga015T) | [吉他手](https://open.spotify.com/album/35QdFULbzmzRWMeH7bHGQR) | 4:23 | 2022-12-08 |  |
@@ -174,12 +175,13 @@
 | [已離去 \(2023\)](https://open.spotify.com/track/1H06LCOWBtL0rBKFyjscig) | [曾嘉偉](https://open.spotify.com/artist/6ZgzedIaClSQzNFBoF0Zq7) | [已離去 \(2023\)](https://open.spotify.com/album/7sqAYjV5i3oiu5QAVKAEMz) | 4:27 | 2023-11-30 |  |
 | [席地而坐](https://open.spotify.com/track/27qSPXGaBmXNhBAss1P7aI) | [leafyeh](https://open.spotify.com/artist/3lN5TnoCbzUqwIMFQrGkx8) | [生滅](https://open.spotify.com/album/4cwzJiqUbBAUjnmU16XbeW) | 4:13 | 2022-06-30 | 2022-07-06 |
 | [年輪說](https://open.spotify.com/track/0rkKoFtgXTBSy8MLtwYPmc) | [吳青峰](https://open.spotify.com/artist/5a5vu4RzsAHdKN0aYyblZ8) | [冊葉一：一與一](https://open.spotify.com/album/3rF6e6T98lg8usUISr18oG) | 4:55 | 2022-06-02 |  |
+| [庸人自擾](https://open.spotify.com/track/6rGHytgJzvLLe756KwRaqb) | [Xian Zi](https://open.spotify.com/artist/2CBuGdj5Nmgx1VfrgLnGoJ) | [庸人自擾](https://open.spotify.com/album/4K2I3REUj4OlL3xxnjPYhh) | 3:42 | 2023-12-01 |  |
 | [当全世界忘了我](https://open.spotify.com/track/19FOWxZzrcErmF5P95vPqu) | [Hua Chen Yu](https://open.spotify.com/artist/7v7bP8NfcMYh4sDADEAy6Z) | [希忘Hope](https://open.spotify.com/album/3UEMDGalqaizcZmVkLdV51) | 5:22 | 2023-01-26 | 2023-02-03 |
 | [当全世界忘了我](https://open.spotify.com/track/2wvoqZC0fvJV4L7rLkAFLp) | [Hua Chen Yu](https://open.spotify.com/artist/7v7bP8NfcMYh4sDADEAy6Z) | [当全世界忘了我](https://open.spotify.com/album/2rMck4VJ3rxG5g9XtkXZeu) | 5:22 | 2023-01-19 | 2023-02-01 |
 | [待在我身边](https://open.spotify.com/track/3neQDftDB6rG2LBnNtUMyv) | [Stephie慧仪](https://open.spotify.com/artist/78N8pwmz1BMP2tUbnT433O) | [待在我身边](https://open.spotify.com/album/25yKpcPq9SlaiPiwsGuOgK) | 3:56 | 2023-03-02 | 2023-03-18 |
 | [微笑分手](https://open.spotify.com/track/0bwSgYnYeDKu5fhJ7y63rg) | [Feng Ze](https://open.spotify.com/artist/6QYehwA9q6UQEMs1Vak0uy) | [微笑分手](https://open.spotify.com/album/0vDcTUTmDEY8ryGNVKJlsi) | 4:21 | 2022-06-30 | 2022-07-11 |
 | [心的一天](https://open.spotify.com/track/5lEX3SmF9PW55qLo9GjbPw) | [Valencia 胡雪瑜](https://open.spotify.com/artist/4yMIDvM4wXmxuvE3IGrbf1) | [心的一天](https://open.spotify.com/album/4VlmvI6V4TnVOn81n8MiBu) | 3:22 | 2023-11-09 | 2023-11-24 |
-| [忘了說，你已經很好了](https://open.spotify.com/track/5TzZwL4gU69qHiKKAkCXNo) | [Cyndi Wang](https://open.spotify.com/artist/3AroL2oDPiAnMpTmIQv3KP) | [BITE BACK](https://open.spotify.com/album/3X1sMupgW7KQJQsk0QXAdM) | 3:58 | 2023-10-12 |  |
+| [忘了說，你已經很好了](https://open.spotify.com/track/5TzZwL4gU69qHiKKAkCXNo) | [Cyndi Wang](https://open.spotify.com/artist/3AroL2oDPiAnMpTmIQv3KP) | [BITE BACK](https://open.spotify.com/album/3X1sMupgW7KQJQsk0QXAdM) | 3:58 | 2023-10-12 | 2023-12-02 |
 | [怎麼不一樣呢 \(《百味小廚神 中元大餐》插曲\)](https://open.spotify.com/track/4FQdAMz8yJH1sAwitVTNWj) | [李千娜](https://open.spotify.com/artist/3iGNpRQH6ei188rHVvwytb) | [百味小廚神 中元大餐 \(Original Television Soundtrack\)](https://open.spotify.com/album/2gaHcID7JZU541ZenQQGx2) | 4:36 | 2023-08-31 | 2023-10-10 |
 | [怎麼能這樣](https://open.spotify.com/track/0hwJHGEiIg3V37fR1PJa5f) | [Pets Tseng](https://open.spotify.com/artist/1he19XnDUahODrmRwKlC8w) | [謎之音](https://open.spotify.com/album/2TIXF4ADwIn1t97SLCrXUp) | 5:01 | 2022-06-02 |  |
 | [思念的週期](https://open.spotify.com/track/5mcNY4fwlbXwoNjYBHcErx) | [Anni Hung](https://open.spotify.com/artist/3ZlBKjbfPWDT0RUWTpWzwv) | [思念的週期](https://open.spotify.com/album/1itKUqsMVPoK9aweQLW3rw) | 3:25 | 2022-06-02 | 2022-07-28 |

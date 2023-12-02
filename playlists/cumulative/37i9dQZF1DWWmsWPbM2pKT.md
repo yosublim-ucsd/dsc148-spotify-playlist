@@ -4,7 +4,7 @@
 
 > Obscure, dreamy and nostalgic synth sounds from all over the world.
 
-234 songs - 14 hr 36 min
+235 songs - 14 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -133,8 +133,9 @@
 | [Mirror Twin](https://open.spotify.com/track/45wU0gt5K1RGPGqfhP71Vx) | [Harsh Symmetry](https://open.spotify.com/artist/2iw3bPHWeP872IeCAk2JmR) | [Mirror Twin](https://open.spotify.com/album/7vp0nLwMqpXKYHaGcovydU) | 3:45 | 2023-08-31 |  |
 | [mitleerenhänden](https://open.spotify.com/track/0sACOMcyDjLAO7Pe4NR2l3) | [Edwin Rosen](https://open.spotify.com/artist/1r93D0anfnfL4M7tYTce0J) | [mitleerenhänden](https://open.spotify.com/album/2uUl09ieBEaFtKStbPrjmA) | 3:29 | 2021-09-24 | 2023-09-01 |
 | [Mora](https://open.spotify.com/track/2whPbdXij9laysK0mPT5Lc) | [Nürnberg](https://open.spotify.com/artist/2IkTGThCeQAPGMru4uXzs4) | [Mora](https://open.spotify.com/album/5ww9uPwQ5AL3jpGEPAgncm) | 3:15 | 2020-12-21 | 2023-02-10 |
-| [MOTHS](https://open.spotify.com/track/198k5g8F2FYnwYbhHV4rRB) | [Nyxjvh](https://open.spotify.com/artist/0qynm6lz4zZ8lJZygwfovX) | [MOTHS](https://open.spotify.com/album/7zWkTgmsawLX1XHAwbUZrW) | 1:20 | 2023-08-31 |  |
+| [MOTHS](https://open.spotify.com/track/198k5g8F2FYnwYbhHV4rRB) | [Nyxjvh](https://open.spotify.com/artist/0qynm6lz4zZ8lJZygwfovX) | [MOTHS](https://open.spotify.com/album/7zWkTgmsawLX1XHAwbUZrW) | 1:20 | 2023-08-31 | 2023-12-02 |
 | [MOTHS](https://open.spotify.com/track/2dT5M4bdibcfjLiqfzawi1) | [Nyxjvh](https://open.spotify.com/artist/0qynm6lz4zZ8lJZygwfovX) | [MOTHS](https://open.spotify.com/album/6YhEVN0VrEINMMLZlkiOv1) | 1:20 | 2023-08-31 | 2023-11-30 |
+| [MOTHS](https://open.spotify.com/track/5QjDSwiE4HhAnYxExc8l65) | [Nyxjvh](https://open.spotify.com/artist/0qynm6lz4zZ8lJZygwfovX) | [MOTHS](https://open.spotify.com/album/5u0CMSfz7NxPrZW5IAClIf) | 1:20 | 2023-08-31 |  |
 | [Motion](https://open.spotify.com/track/0fKyRv26iIdZo9XCQ56jPO) | [Boy Harsher](https://open.spotify.com/artist/4iom7VVRU6AHRIu1JUXpLG) | [Country Girl Uncut](https://open.spotify.com/album/73lHzvuzmDsRscdaCQoj9B) | 3:59 | 2023-08-31 |  |
 | [Nadie Es Leal](https://open.spotify.com/track/1kTMe7VPlUt2gby7NqWzoi) | [VVV \[Trippin'you\]](https://open.spotify.com/artist/7tszuN9emjCCsC7kccXTFU) | [Turboviolencia](https://open.spotify.com/album/6dqnfkFIk2k450lqaCPTKq) | 2:18 | 2022-02-18 | 2023-02-10 |
 | [Narc](https://open.spotify.com/track/7uZHeWnTkO9KfQpvOJytEj) | [Cutouts](https://open.spotify.com/artist/6ZYpTpvAwv0T78s6Ueh5g1) | [Narc](https://open.spotify.com/album/6BsqNNzQzCB9pHwZJiOwc1) | 2:45 | 2022-09-11 | 2023-09-01 |

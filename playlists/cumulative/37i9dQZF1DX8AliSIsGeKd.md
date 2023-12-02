@@ -4,7 +4,7 @@
 
 > The best new electronic music\. Cover: Adriatique, Delhia De France
 
-2,836 songs - 10 day 11 hr 30 min
+2,837 songs - 10 day 11 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1455,6 +1455,7 @@
 | [Little Treasure \(Contour 3\)](https://open.spotify.com/track/5ylczvXq66th3ra7um4imD) | [Booka Shade](https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB) | [Little Treasure \(Contour 3\)](https://open.spotify.com/album/4921jiDIusc0Iy7yrXj2lN) | 5:58 | 2022-09-29 | 2022-10-21 |
 | [Live Again \(feat\. Halo Maud\)](https://open.spotify.com/track/0TX2gG401Wvc0SMRU0V74M) | [The Chemical Brothers](https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo), [Halo Maud](https://open.spotify.com/artist/6PXvOmtayxXQNE9stTpRMs) | [Live Again \(feat\. Halo Maud\)](https://open.spotify.com/album/2VWYSkeqaMC9lXlf6gNp5T) | 5:00 | 2023-06-30 | 2023-07-14 |
 | [Living a Lie](https://open.spotify.com/track/546osMlb87EeCWeIM0r4IR) | [Eleonora](https://open.spotify.com/artist/2VErfOOcXOkiHhc823g50r) | [Living a Lie](https://open.spotify.com/album/7hnuKOdhFHlWqbA1vGeqnd) | 7:02 | 2023-06-09 | 2023-06-23 |
+| [LoCKeDoWN2](https://open.spotify.com/track/7lX1trm9MEznmmsMIrU3pl) | [MEUTE](https://open.spotify.com/artist/1z5xbcOeFRQXBVDpvRPh8H) | [LoCKeDoWN2](https://open.spotify.com/album/6ApclqoXAhb1XxQhP0yYDA) | 7:45 | 2023-12-01 |  |
 | [London](https://open.spotify.com/track/00ADx6uWcWVPhICaRhbPID) | [TH;EN](https://open.spotify.com/artist/6UbcuFp6HP6InTAbPASxff) | [London](https://open.spotify.com/album/0jV67pDofBMhYr77WHcz6h) | 6:42 | 2023-03-16 | 2023-04-07 |
 | [Loneliness \- Original Mix](https://open.spotify.com/track/00IWep1lbWW2wJog8Ewgsj) | [AKKI \(DE\)](https://open.spotify.com/artist/0hReHYoLJG38QBwYIZ8zKs) | [Loneliness](https://open.spotify.com/album/48wWbXN8jBw4KCDeF70Zwj) | 6:09 | 2022-12-01 | 2022-12-24 |
 | [Lonely](https://open.spotify.com/track/1SxhtCaSxGaH2XPINy4SXy) | [Patrick Scuro](https://open.spotify.com/artist/6wfL4r7ReScDTARbtSRTvB), [Nicosh](https://open.spotify.com/artist/6hMJczbZXMb92ls5aeaSIm) | [Lonely](https://open.spotify.com/album/5SgwR536CaNbO62wAnKNg8) | 3:51 | 2023-09-15 | 2023-09-29 |

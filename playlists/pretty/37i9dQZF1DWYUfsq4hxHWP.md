@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYUfsq4hxHWP.md) - [plain]
 
 > The top 50 tracks from Fresh Finds Country in 2023\. Cover: Abbey Cone
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,858 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,986 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYUfsq4hxHWP.md) - [plain]
 | 49 | [FLA](https://open.spotify.com/track/3OfHJVlzplAfCYjLsYOIVO) | [Jake Slaton](https://open.spotify.com/artist/1gxVEPVnQD8yWtdeSVGDAx) | [FLA](https://open.spotify.com/album/6HYSYFgaJvuFzZykNkjdqU) | 3:11 |
 | 50 | [In A Beer](https://open.spotify.com/track/6hZYUZ5OS2fpAHLAkhZwEk) | [Josh Mirenda](https://open.spotify.com/artist/5zmTJA6eWcsmxevyQoK9iB) | [In A Beer](https://open.spotify.com/album/3lydp6S8O2pfZg3ajT7ABB) | 3:02 |
 
-Snapshot ID: `MCwyN2I2Mjc3ZDgwZTAwYWI0ZjE2ZTdiOTc4ZGI4ZDI5MzZmY2YwZTdj`
+Snapshot ID: `MCxlYTg2YWM3MGJjYzA1YWJjNWNkZDk5MGZlZmFmNzA5MWQ3NjBmYjZh`

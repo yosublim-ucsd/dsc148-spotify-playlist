@@ -1,12 +1,12 @@
 {
   "description": "The essential recordings from the beginning of the Post Bop era. Cover: Freddie Hubbard",
-  "num_followers": 25437,
+  "num_followers": 25462,
   "original_name": "Post Bop Essentials",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZTY2OTJhMDc2ZTRjY2JkZGEzODAyOGQwNjc1MzVkNTViNzc5YWU5",
+  "snapshot_id": "MCw0NDMyNTk4ZWY1MDcxYjhiMmExNTU3NDI2ZGNmZWMyODc4YzZlMDU4",
   "tracks": [
     {
       "added_at": "2023-11-17 07:32:13",
@@ -171,18 +171,18 @@
     {
       "added_at": "2023-11-17 07:32:13",
       "album": {
-        "name": "Ready For Freddie (Rudy Van Gelder Remaster Edition)",
-        "url": "https://open.spotify.com/album/1WW55eOxlZCvPWJDYmhZXD"
+        "name": "The Real McCoy (Remastered / Rudy Van Gelder Edition)",
+        "url": "https://open.spotify.com/album/22HoIP0ai6Wikh4R8yM0AX"
       },
       "artists": [
         {
-          "name": "Freddie Hubbard",
-          "url": "https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em"
+          "name": "McCoy Tyner",
+          "url": "https://open.spotify.com/artist/2EsmKkHsXK0WMNGOtIhbxr"
         }
       ],
-      "duration_ms": 401560,
-      "name": "Arietis - Remastered 2003/Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/2rvlhyiUa082VRTa3OFgmh"
+      "duration_ms": 552493,
+      "name": "Contemplation",
+      "url": "https://open.spotify.com/track/55GY76amiMF9wjAeto5vco"
     },
     {
       "added_at": "2023-11-17 07:32:13",
@@ -251,18 +251,18 @@
     {
       "added_at": "2023-11-17 07:32:13",
       "album": {
-        "name": "The Real McCoy (Remastered / Rudy Van Gelder Edition)",
-        "url": "https://open.spotify.com/album/22HoIP0ai6Wikh4R8yM0AX"
+        "name": "Ready For Freddie (Rudy Van Gelder Remaster Edition)",
+        "url": "https://open.spotify.com/album/1WW55eOxlZCvPWJDYmhZXD"
       },
       "artists": [
         {
-          "name": "McCoy Tyner",
-          "url": "https://open.spotify.com/artist/2EsmKkHsXK0WMNGOtIhbxr"
+          "name": "Freddie Hubbard",
+          "url": "https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em"
         }
       ],
-      "duration_ms": 552493,
-      "name": "Contemplation",
-      "url": "https://open.spotify.com/track/55GY76amiMF9wjAeto5vco"
+      "duration_ms": 401560,
+      "name": "Arietis - Remastered 2003/Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/2rvlhyiUa082VRTa3OFgmh"
     },
     {
       "added_at": "2023-11-17 07:32:13",
@@ -315,6 +315,22 @@
     {
       "added_at": "2023-11-17 07:32:13",
       "album": {
+        "name": "The Real McCoy (Remastered / Rudy Van Gelder Edition)",
+        "url": "https://open.spotify.com/album/22HoIP0ai6Wikh4R8yM0AX"
+      },
+      "artists": [
+        {
+          "name": "McCoy Tyner",
+          "url": "https://open.spotify.com/artist/2EsmKkHsXK0WMNGOtIhbxr"
+        }
+      ],
+      "duration_ms": 527426,
+      "name": "Passion Dance",
+      "url": "https://open.spotify.com/track/0lELi5BqmUO4hXTFfAUf60"
+    },
+    {
+      "added_at": "2023-11-17 07:32:13",
+      "album": {
         "name": "Nefertiti (Expanded Edition)",
         "url": "https://open.spotify.com/album/4ilAxtGR8aOj6M8X1HeHPY"
       },
@@ -347,6 +363,22 @@
     {
       "added_at": "2023-11-17 07:32:13",
       "album": {
+        "name": "Maiden Voyage",
+        "url": "https://open.spotify.com/album/7huPJTTsWVt854oZkr88mf"
+      },
+      "artists": [
+        {
+          "name": "Herbie Hancock",
+          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
+        }
+      ],
+      "duration_ms": 361453,
+      "name": "The Eye Of The Hurricane - Remastered",
+      "url": "https://open.spotify.com/track/3FBHUgNaKpWvTn9ArrGFmH"
+    },
+    {
+      "added_at": "2023-11-17 07:32:13",
+      "album": {
         "name": "Belonging",
         "url": "https://open.spotify.com/album/6dmq2NJgWAvrzRVrpPwkzv"
       },
@@ -371,38 +403,6 @@
       "duration_ms": 502866,
       "name": "The Windup",
       "url": "https://open.spotify.com/track/78zX3x0pFjsz6qSzNc7gA3"
-    },
-    {
-      "added_at": "2023-11-17 07:32:13",
-      "album": {
-        "name": "Maiden Voyage",
-        "url": "https://open.spotify.com/album/7huPJTTsWVt854oZkr88mf"
-      },
-      "artists": [
-        {
-          "name": "Herbie Hancock",
-          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
-        }
-      ],
-      "duration_ms": 361453,
-      "name": "The Eye Of The Hurricane - Remastered",
-      "url": "https://open.spotify.com/track/3FBHUgNaKpWvTn9ArrGFmH"
-    },
-    {
-      "added_at": "2023-11-17 07:32:13",
-      "album": {
-        "name": "The Real McCoy (Remastered / Rudy Van Gelder Edition)",
-        "url": "https://open.spotify.com/album/22HoIP0ai6Wikh4R8yM0AX"
-      },
-      "artists": [
-        {
-          "name": "McCoy Tyner",
-          "url": "https://open.spotify.com/artist/2EsmKkHsXK0WMNGOtIhbxr"
-        }
-      ],
-      "duration_ms": 527426,
-      "name": "Passion Dance",
-      "url": "https://open.spotify.com/track/0lELi5BqmUO4hXTFfAUf60"
     },
     {
       "added_at": "2023-11-17 07:32:13",
@@ -615,8 +615,8 @@
     {
       "added_at": "2023-11-17 07:32:13",
       "album": {
-        "name": "Search For The New Land (Rudy Van Gelder Edition/2000 Remastered)",
-        "url": "https://open.spotify.com/album/6NmykD5FJftiDWqjWlwKfr"
+        "name": "Cornbread",
+        "url": "https://open.spotify.com/album/5aY4PliFxsCd55sgU5A2KQ"
       },
       "artists": [
         {
@@ -624,9 +624,9 @@
           "url": "https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX"
         }
       ],
-      "duration_ms": 523706,
-      "name": "Mr. Kenyatta - Remastered 2000/Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/00LTkyO7oR17To22oaKHhs"
+      "duration_ms": 409173,
+      "name": "Most Like Lee",
+      "url": "https://open.spotify.com/track/3JfUaUogPIFkw0u0hdMnLd"
     },
     {
       "added_at": "2023-11-17 07:32:13",
@@ -743,6 +743,22 @@
     {
       "added_at": "2023-11-17 07:32:13",
       "album": {
+        "name": "Adam's Apple (Rudy Van Gelder Edition)",
+        "url": "https://open.spotify.com/album/4sxvTow8IffB0lisGJWb6Z"
+      },
+      "artists": [
+        {
+          "name": "Wayne Shorter",
+          "url": "https://open.spotify.com/artist/0ZqhrTXYPA9DZR527ZnFdO"
+        }
+      ],
+      "duration_ms": 414493,
+      "name": "The Collector - Remastered",
+      "url": "https://open.spotify.com/track/7DWiFL8ynmBx6kaU0gLQcT"
+    },
+    {
+      "added_at": "2023-11-17 07:32:13",
+      "album": {
         "name": "Motion",
         "url": "https://open.spotify.com/album/5eREwMI0CzvPOH8V2HZZDU"
       },
@@ -759,6 +775,22 @@
     {
       "added_at": "2023-11-17 07:32:13",
       "album": {
+        "name": "Search For The New Land (Rudy Van Gelder Edition/2000 Remastered)",
+        "url": "https://open.spotify.com/album/6NmykD5FJftiDWqjWlwKfr"
+      },
+      "artists": [
+        {
+          "name": "Lee Morgan",
+          "url": "https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX"
+        }
+      ],
+      "duration_ms": 523706,
+      "name": "Mr. Kenyatta - Remastered 2000/Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/00LTkyO7oR17To22oaKHhs"
+    },
+    {
+      "added_at": "2023-11-17 07:32:13",
+      "album": {
         "name": "E.S.P. (2022 Remaster)",
         "url": "https://open.spotify.com/album/16l5pMsJoz1KoHrxvXREBs"
       },
@@ -771,38 +803,6 @@
       "duration_ms": 243013,
       "name": "R.J. (2022 Remaster)",
       "url": "https://open.spotify.com/track/3rBVE16rpR9d9KivCflGON"
-    },
-    {
-      "added_at": "2023-11-17 07:32:13",
-      "album": {
-        "name": "Cornbread",
-        "url": "https://open.spotify.com/album/5aY4PliFxsCd55sgU5A2KQ"
-      },
-      "artists": [
-        {
-          "name": "Lee Morgan",
-          "url": "https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX"
-        }
-      ],
-      "duration_ms": 409173,
-      "name": "Most Like Lee",
-      "url": "https://open.spotify.com/track/3JfUaUogPIFkw0u0hdMnLd"
-    },
-    {
-      "added_at": "2023-11-17 07:32:13",
-      "album": {
-        "name": "Adam's Apple (Rudy Van Gelder Edition)",
-        "url": "https://open.spotify.com/album/4sxvTow8IffB0lisGJWb6Z"
-      },
-      "artists": [
-        {
-          "name": "Wayne Shorter",
-          "url": "https://open.spotify.com/artist/0ZqhrTXYPA9DZR527ZnFdO"
-        }
-      ],
-      "duration_ms": 414493,
-      "name": "The Collector - Remastered",
-      "url": "https://open.spotify.com/track/7DWiFL8ynmBx6kaU0gLQcT"
     },
     {
       "added_at": "2023-11-17 07:32:13",
@@ -951,22 +951,6 @@
     {
       "added_at": "2023-11-17 07:32:13",
       "album": {
-        "name": "East Broadway Run Down",
-        "url": "https://open.spotify.com/album/6VFSJ5bKlJaZBbJaMPYTXQ"
-      },
-      "artists": [
-        {
-          "name": "Sonny Rollins",
-          "url": "https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR"
-        }
-      ],
-      "duration_ms": 742960,
-      "name": "Blessing In Disguise",
-      "url": "https://open.spotify.com/track/6AZl7WAq1CfMTbMfgvZLFn"
-    },
-    {
-      "added_at": "2023-11-17 07:32:13",
-      "album": {
         "name": "Sahara",
         "url": "https://open.spotify.com/album/0njsEE2XyDZFPXUWiMNrBl"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 318400,
       "name": "Rebirth",
       "url": "https://open.spotify.com/track/0CmhyVSciWqxDxw94eC6p5"
+    },
+    {
+      "added_at": "2023-11-17 07:32:13",
+      "album": {
+        "name": "East Broadway Run Down",
+        "url": "https://open.spotify.com/album/6VFSJ5bKlJaZBbJaMPYTXQ"
+      },
+      "artists": [
+        {
+          "name": "Sonny Rollins",
+          "url": "https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR"
+        }
+      ],
+      "duration_ms": 742960,
+      "name": "Blessing In Disguise",
+      "url": "https://open.spotify.com/track/6AZl7WAq1CfMTbMfgvZLFn"
     },
     {
       "added_at": "2023-11-17 07:32:13",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2023-11-17 07:32:13",
       "album": {
-        "name": "The Max Roach Trio, Featuring The Legendary Hasaan Ibn Ali",
-        "url": "https://open.spotify.com/album/5PRPdUdfuX532COPYP5AUX"
-      },
-      "artists": [
-        {
-          "name": "Max Roach",
-          "url": "https://open.spotify.com/artist/6jrlNnS5B830kpi40j3S6g"
-        }
-      ],
-      "duration_ms": 340840,
-      "name": "Three-Four vs. Six-Eight Four-Four Ways",
-      "url": "https://open.spotify.com/track/0GAVJcVNjYUlQnZ6NWhAxL"
-    },
-    {
-      "added_at": "2023-11-17 07:32:13",
-      "album": {
         "name": "Spring (Remastered)",
         "url": "https://open.spotify.com/album/7IikPqlk47jXyUaXYJmM10"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 504000,
       "name": "Love Song - Remastered 2009/Rudy Van Gelder Edition",
       "url": "https://open.spotify.com/track/03nB9wT5HW9OLgH40zqnKi"
+    },
+    {
+      "added_at": "2023-11-17 07:32:13",
+      "album": {
+        "name": "The Max Roach Trio, Featuring The Legendary Hasaan Ibn Ali",
+        "url": "https://open.spotify.com/album/5PRPdUdfuX532COPYP5AUX"
+      },
+      "artists": [
+        {
+          "name": "Max Roach",
+          "url": "https://open.spotify.com/artist/6jrlNnS5B830kpi40j3S6g"
+        }
+      ],
+      "duration_ms": 340840,
+      "name": "Three-Four vs. Six-Eight Four-Four Ways",
+      "url": "https://open.spotify.com/track/0GAVJcVNjYUlQnZ6NWhAxL"
     },
     {
       "added_at": "2023-11-17 07:32:13",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2023-11-17 07:32:13",
       "album": {
-        "name": "The Max Roach Trio, Featuring The Legendary Hasaan Ibn Ali",
-        "url": "https://open.spotify.com/album/5PRPdUdfuX532COPYP5AUX"
-      },
-      "artists": [
-        {
-          "name": "Max Roach",
-          "url": "https://open.spotify.com/artist/6jrlNnS5B830kpi40j3S6g"
-        }
-      ],
-      "duration_ms": 313733,
-      "name": "Off My Back Jack",
-      "url": "https://open.spotify.com/track/3AtuHU0gxC9210nu0wK3tU"
-    },
-    {
-      "added_at": "2023-11-17 07:32:13",
-      "album": {
         "name": "Live At The Village Vanguard",
         "url": "https://open.spotify.com/album/4EXNLdBIHvX40boSdW7dc5"
       },
@@ -1319,18 +1303,34 @@
     {
       "added_at": "2023-11-17 07:32:13",
       "album": {
-        "name": "Black Fire",
-        "url": "https://open.spotify.com/album/2XOQztLkohDDWZH8DEECkQ"
+        "name": "The Max Roach Trio, Featuring The Legendary Hasaan Ibn Ali",
+        "url": "https://open.spotify.com/album/5PRPdUdfuX532COPYP5AUX"
       },
       "artists": [
         {
-          "name": "Andrew Hill",
-          "url": "https://open.spotify.com/artist/4ORSNkNYSzva169PBZCzvy"
+          "name": "Max Roach",
+          "url": "https://open.spotify.com/artist/6jrlNnS5B830kpi40j3S6g"
         }
       ],
-      "duration_ms": 416120,
-      "name": "Black Fire - Remastered 2003/Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/3hVs1j5bcQaTdmOaby65RL"
+      "duration_ms": 313733,
+      "name": "Off My Back Jack",
+      "url": "https://open.spotify.com/track/3AtuHU0gxC9210nu0wK3tU"
+    },
+    {
+      "added_at": "2023-11-17 07:32:13",
+      "album": {
+        "name": "Down With It! (Remastered 2005/Rudy Van Gelder Edition)",
+        "url": "https://open.spotify.com/album/4CFxKByN51JAogIYt94jMF"
+      },
+      "artists": [
+        {
+          "name": "The Blue Mitchell Quintet",
+          "url": "https://open.spotify.com/artist/4WQ2WF6X178A17JiHI4bWj"
+        }
+      ],
+      "duration_ms": 450400,
+      "name": "One Shirt - Remastered 2005/Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/6JmgSVF28ADJ3S8KWODQuk"
     },
     {
       "added_at": "2023-11-17 07:32:13",
@@ -1367,8 +1367,8 @@
     {
       "added_at": "2023-11-17 07:32:13",
       "album": {
-        "name": "Right Now",
-        "url": "https://open.spotify.com/album/18bi2UuLLBj78oai30goPA"
+        "name": "Let Freedom Ring (Rudy Van Gelder Edition)",
+        "url": "https://open.spotify.com/album/7cDdrBZaImUjYGqkir7bVw"
       },
       "artists": [
         {
@@ -1376,25 +1376,25 @@
           "url": "https://open.spotify.com/artist/1lB7KbOr9xdPK1CuasxmeA"
         }
       ],
-      "duration_ms": 569453,
-      "name": "Right Now",
-      "url": "https://open.spotify.com/track/4PVeDBramTVleRgBV9TkRi"
+      "duration_ms": 510973,
+      "name": "Omega - Rudy Van Gelder Edition; 2003 Digital Remaster; 24 Bit Mastering",
+      "url": "https://open.spotify.com/track/6v9Dj4ouMavS8IAcRtvf9l"
     },
     {
       "added_at": "2023-11-17 07:32:13",
       "album": {
-        "name": "Down With It! (Remastered 2005/Rudy Van Gelder Edition)",
-        "url": "https://open.spotify.com/album/4CFxKByN51JAogIYt94jMF"
+        "name": "Black Fire",
+        "url": "https://open.spotify.com/album/2XOQztLkohDDWZH8DEECkQ"
       },
       "artists": [
         {
-          "name": "The Blue Mitchell Quintet",
-          "url": "https://open.spotify.com/artist/4WQ2WF6X178A17JiHI4bWj"
+          "name": "Andrew Hill",
+          "url": "https://open.spotify.com/artist/4ORSNkNYSzva169PBZCzvy"
         }
       ],
-      "duration_ms": 450400,
-      "name": "One Shirt - Remastered 2005/Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/6JmgSVF28ADJ3S8KWODQuk"
+      "duration_ms": 416120,
+      "name": "Black Fire - Remastered 2003/Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/3hVs1j5bcQaTdmOaby65RL"
     },
     {
       "added_at": "2023-11-17 07:32:13",
@@ -1463,8 +1463,8 @@
     {
       "added_at": "2023-11-17 07:32:13",
       "album": {
-        "name": "Let Freedom Ring (Rudy Van Gelder Edition)",
-        "url": "https://open.spotify.com/album/7cDdrBZaImUjYGqkir7bVw"
+        "name": "Right Now",
+        "url": "https://open.spotify.com/album/18bi2UuLLBj78oai30goPA"
       },
       "artists": [
         {
@@ -1472,9 +1472,9 @@
           "url": "https://open.spotify.com/artist/1lB7KbOr9xdPK1CuasxmeA"
         }
       ],
-      "duration_ms": 510973,
-      "name": "Omega - Rudy Van Gelder Edition; 2003 Digital Remaster; 24 Bit Mastering",
-      "url": "https://open.spotify.com/track/6v9Dj4ouMavS8IAcRtvf9l"
+      "duration_ms": 569453,
+      "name": "Right Now",
+      "url": "https://open.spotify.com/track/4PVeDBramTVleRgBV9TkRi"
     },
     {
       "added_at": "2023-11-17 07:32:13",

@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "40x",
+        "url": "https://open.spotify.com/album/2syjdE335q11f2DJ8bhhBo"
+      },
+      "artists": [
+        {
+          "name": "Tink",
+          "url": "https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148717,
+      "name": "40x",
+      "url": "https://open.spotify.com/track/0b8U8Ow5AgqHrWbIjr4aqk"
+    },
+    {
+      "album": {
         "name": "8 to Infinity",
         "url": "https://open.spotify.com/album/3WDZzJ5bANP4qOUrQFLcrJ"
       },
@@ -245,6 +263,46 @@
     },
     {
       "album": {
+        "name": "Climb Back",
+        "url": "https://open.spotify.com/album/3oYSaNsZkIOe925jXlNyWI"
+      },
+      "artists": [
+        {
+          "name": "Mgm Lett",
+          "url": "https://open.spotify.com/artist/0IVKVUhWVCVX8jyHXN6IOb"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196193,
+      "name": "Climb Back",
+      "url": "https://open.spotify.com/track/1fb1mUSdnVHMchIeWxz6bN"
+    },
+    {
+      "album": {
+        "name": "Clouds",
+        "url": "https://open.spotify.com/album/4yeVf3uihXNlmJPzmubgFn"
+      },
+      "artists": [
+        {
+          "name": "Berner",
+          "url": "https://open.spotify.com/artist/2lrtGWxNXWjd0JzDLKXubI"
+        },
+        {
+          "name": "OHGEESY",
+          "url": "https://open.spotify.com/artist/3ppQEG71r7jVpI8RudzycF"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198500,
+      "name": "Clouds",
+      "url": "https://open.spotify.com/track/6DE80cFovgHZPxeX0iDVCi"
+    },
+    {
+      "album": {
         "name": "Curious (Remix) [feat. Lil' Kim & Lola Brooke]",
         "url": "https://open.spotify.com/album/41APFFVhRDIDcOFutq7G1A"
       },
@@ -362,6 +420,32 @@
       "duration_ms": 138720,
       "name": "Do It For Yo Section",
       "url": "https://open.spotify.com/track/0TRB0EJ6u0gMJ6XeQMo6Kg"
+    },
+    {
+      "album": {
+        "name": "DOTTED LINE (feat. Veeze)",
+        "url": "https://open.spotify.com/album/7CHqJ2bXlU3RAEKOcRLVk4"
+      },
+      "artists": [
+        {
+          "name": "Samuel Shabazz",
+          "url": "https://open.spotify.com/artist/20V5Q17099P2NNExkMStg7"
+        },
+        {
+          "name": "Babyface Ray",
+          "url": "https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA"
+        },
+        {
+          "name": "Veeze",
+          "url": "https://open.spotify.com/artist/0B3kMiB21aPQlKumGDr4c7"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169368,
+      "name": "DOTTED LINE (feat. Veeze)",
+      "url": "https://open.spotify.com/track/5KMEGEPGor1F57Aohyrbnz"
     },
     {
       "album": {
@@ -624,6 +708,24 @@
       "duration_ms": 219542,
       "name": "Hook Mitchell (feat. Dame D.O.L.L.A.)",
       "url": "https://open.spotify.com/track/6CKDa6mKBdGpllS72Bpj5V"
+    },
+    {
+      "album": {
+        "name": "I AM NOT HUMAN",
+        "url": "https://open.spotify.com/album/7cZ6YKcfURpbY49rSKGejv"
+      },
+      "artists": [
+        {
+          "name": "Rah Swish",
+          "url": "https://open.spotify.com/artist/4FeLiFUPdxVfFo8oOfA4BH"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130960,
+      "name": "I AM NOT HUMAN",
+      "url": "https://open.spotify.com/track/1ezhzDiymFiBKe7tjLC2Hg"
     },
     {
       "album": {
@@ -983,6 +1085,24 @@
     },
     {
       "album": {
+        "name": "One",
+        "url": "https://open.spotify.com/album/4cc4Fu46gWTElZLYijeIUw"
+      },
+      "artists": [
+        {
+          "name": "Danny Towers",
+          "url": "https://open.spotify.com/artist/4e5oZygHeeRoTXc00gYWiu"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123775,
+      "name": "One",
+      "url": "https://open.spotify.com/track/1BipJ8VH6LtnJAIioJRinc"
+    },
+    {
+      "album": {
         "name": "SOUTH STRIP",
         "url": "https://open.spotify.com/album/6erVSzriWHdz8wEYpM0iU2"
       },
@@ -1100,6 +1220,28 @@
       "duration_ms": 161097,
       "name": "Rich Man",
       "url": "https://open.spotify.com/track/6rqmIzmx9czRlgG5isIJ8g"
+    },
+    {
+      "album": {
+        "name": "Shot Caller",
+        "url": "https://open.spotify.com/album/2iisvKalcg2nTNbYmjBRD8"
+      },
+      "artists": [
+        {
+          "name": "Lil Bean",
+          "url": "https://open.spotify.com/artist/3OrXU7Z906hHdbG5fTQ6Ef"
+        },
+        {
+          "name": "ZayBang",
+          "url": "https://open.spotify.com/artist/4knZcINThe7rbCYx0FVewG"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151548,
+      "name": "Shot Caller",
+      "url": "https://open.spotify.com/track/6enDzOsAXFajdU3HclV4Cz"
     },
     {
       "album": {
@@ -1223,6 +1365,32 @@
     },
     {
       "album": {
+        "name": "TRY FOR ONCE (feat. Lil Yee)",
+        "url": "https://open.spotify.com/album/5WF3NjVoViEnq1xT4zT2At"
+      },
+      "artists": [
+        {
+          "name": "Lil Bean",
+          "url": "https://open.spotify.com/artist/3OrXU7Z906hHdbG5fTQ6Ef"
+        },
+        {
+          "name": "ZayBang",
+          "url": "https://open.spotify.com/artist/4knZcINThe7rbCYx0FVewG"
+        },
+        {
+          "name": "Lil Yee",
+          "url": "https://open.spotify.com/artist/19lRQBKp4lxRDaxoKVUE9i"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206125,
+      "name": "TRY FOR ONCE (feat. Lil Yee)",
+      "url": "https://open.spotify.com/track/5pAKdaR73hkpr9c66HreTi"
+    },
+    {
+      "album": {
         "name": "UHN UHN",
         "url": "https://open.spotify.com/album/4q39sUFDo0CBaerE3KlYeb"
       },
@@ -1281,6 +1449,28 @@
     },
     {
       "album": {
+        "name": "WHO YA BIG HOMIE",
+        "url": "https://open.spotify.com/album/35iDqplgRyERcnqrwi6Qyr"
+      },
+      "artists": [
+        {
+          "name": "Albee Al",
+          "url": "https://open.spotify.com/artist/6fmSsRvvca423KnYLKabTd"
+        },
+        {
+          "name": "Mozzy",
+          "url": "https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197647,
+      "name": "WHO YA BIG HOMIE",
+      "url": "https://open.spotify.com/track/1MXVXzDnurIooZMgCxO4wC"
+    },
+    {
+      "album": {
         "name": "Without You (Blxst Interlude)",
         "url": "https://open.spotify.com/album/7tYruPXBGvlRyeY6ShHX1C"
       },
@@ -1322,6 +1512,24 @@
       "duration_ms": 184453,
       "name": "Workin",
       "url": "https://open.spotify.com/track/6uYs9BaaR0gWqFGP3Gw5Vy"
+    },
+    {
+      "album": {
+        "name": "XPLOSIVE",
+        "url": "https://open.spotify.com/album/2Gj5KgYzMteatwKBUuxyEO"
+      },
+      "artists": [
+        {
+          "name": "MRG",
+          "url": "https://open.spotify.com/artist/6eqLAUIm0u7CgcbjX9O5fb"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105130,
+      "name": "XPLOSIVE",
+      "url": "https://open.spotify.com/track/4Yk97MKGfwL707ASkje7Qf"
     }
   ],
   "url": "https://open.spotify.com/playlist/1CJUPOKJjUMNyuzCIgFKcd"

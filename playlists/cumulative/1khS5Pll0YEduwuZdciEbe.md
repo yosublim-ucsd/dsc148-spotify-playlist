@@ -4,7 +4,7 @@
 
 > A playlist showcasing the world of Indie; feel the vibes and enjoy the ride\. Cover: Noah Kahan
 
-87 songs - 5 hr 28 min
+88 songs - 5 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [Diving \(feat\. Holly Humberstone\)](https://open.spotify.com/track/4rTnonrrlWZsrDUUTgzHSt) | [Bombay Bicycle Club](https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV), [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Diving](https://open.spotify.com/album/6YJkCoqnyVmdtPNQ9T4BP8) | 3:35 | 2023-11-03 |  |
 | [Don't Fade Away](https://open.spotify.com/track/55YY7cmB3jkIJq54cC7G4W) | [Beach Fossils](https://open.spotify.com/artist/1bwUhKRmEkOZ1wuTnV9XjC) | [Bunny](https://open.spotify.com/album/5cyu3tkdmGoB0BC0EJfz2V) | 3:22 | 2023-11-03 |  |
 | [Edith](https://open.spotify.com/track/0RLOqj3jq878w5UMg7tjp6) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Hitchhiker](https://open.spotify.com/album/32Srim9ACKmJsJvszNNlTe) | 3:24 | 2023-11-10 |  |
+| [Everywhere, Everything \(with Gracie Abrams\)](https://open.spotify.com/track/4PRdeh2zIyM1pvY4x5luLe) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B), [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Everywhere, Everything \(with Gracie Abrams\)](https://open.spotify.com/album/0kOisOp4b7xNUNs7aSMSno) | 4:17 | 2023-12-01 |  |
 | [Free](https://open.spotify.com/track/6k7vblX4M4TgEjPt6jLoHZ) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Free](https://open.spotify.com/album/1P2IeydghXZHVulSJLtReQ) | 3:54 | 2023-11-03 |  |
 | [Good](https://open.spotify.com/track/4Gur4FdxkmXH8x3DCmYmz0) | [Pierre Kwenders](https://open.spotify.com/artist/04B6sMoIopTgUAQM3dcSxP) | [José Louis And The Paradox of Love \(Deluxe\)](https://open.spotify.com/album/5XPNisbGcTvrjvQ0jnKyxD) | 3:15 | 2023-11-03 |  |
 | [Good For Now \(feat\. Lucky Daye\)](https://open.spotify.com/track/5WPYImh8k1kFyooMlSHUrq) | [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Good For Now](https://open.spotify.com/album/52BKuBmSjUQ1b5MMGZJhCt) | 4:01 | 2023-11-03 |  |

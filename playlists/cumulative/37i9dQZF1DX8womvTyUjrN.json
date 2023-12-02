@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-22",
-  "description": "Fresh Latin pop on the rise. Cover: Yami Safdie",
+  "description": "Fresh Latin pop on the rise. Cover: Leo Rizzi & DannyLux",
   "name": "el nuevo pop",
   "tracks": [
     {
@@ -88,7 +88,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 157727,
       "name": "2+1",
       "url": "https://open.spotify.com/track/0uB9gsssuj6l3XLi25ADYl"
@@ -1302,7 +1302,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 210707,
       "name": "bubble gum",
       "url": "https://open.spotify.com/track/2MWaS0ko4ABFXulETnZ3m4"
@@ -1790,7 +1790,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 166081,
       "name": "COBARDE",
       "url": "https://open.spotify.com/track/2IEhUsa1s1seGFAySt3zh7"
@@ -1874,7 +1874,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-25",
+      "date_removed": null,
       "duration_ms": 186209,
       "name": "Como Si Nada",
       "url": "https://open.spotify.com/track/0WOZZpdj3HKxYKtZlLjdJg"
@@ -2520,7 +2520,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 166890,
       "name": "Despreocupada",
       "url": "https://open.spotify.com/track/7CzLquUWwgZwhUffzKhbZp"
@@ -3143,6 +3143,24 @@
     },
     {
       "album": {
+        "name": "Enemigos",
+        "url": "https://open.spotify.com/album/4zAbx6Zpe8YoXezMynqlfv"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Llosa",
+          "url": "https://open.spotify.com/artist/10vr6MNGdriyVivl7Ls8Xx"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157375,
+      "name": "Enemigos",
+      "url": "https://open.spotify.com/track/0sbfZT6Wl6nTpxdomThgD7"
+    },
+    {
+      "album": {
         "name": "Energia",
         "url": "https://open.spotify.com/album/5OBkkS1adIEouu18tESdW3"
       },
@@ -3212,7 +3230,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-18",
+      "date_removed": null,
       "duration_ms": 191232,
       "name": "Entr\u00e9gate",
       "url": "https://open.spotify.com/track/5ZDQSDUVyBDesqJxWrWsnv"
@@ -3292,7 +3310,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 166736,
       "name": "ESO VA",
       "url": "https://open.spotify.com/track/3OJHqWUIF06coILsONNcJ4"
@@ -3814,7 +3832,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 151653,
       "name": "GTA.mp3",
       "url": "https://open.spotify.com/track/3bRWGhpeNUkJfFydelSwBk"
@@ -4652,7 +4670,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-21",
+      "date_removed": null,
       "duration_ms": 178561,
       "name": "La Terminal",
       "url": "https://open.spotify.com/track/5ozNzOJeYpzIZaQc9C6jr3"
@@ -4766,6 +4784,24 @@
       "duration_ms": 180400,
       "name": "Lenguaje Universal",
       "url": "https://open.spotify.com/track/7pwWmrmWNK1QBTypB8Fyit"
+    },
+    {
+      "album": {
+        "name": "Licencia Pa Beber",
+        "url": "https://open.spotify.com/album/1vHzcL6nVzPI6N95hkrm3J"
+      },
+      "artists": [
+        {
+          "name": "Llane",
+          "url": "https://open.spotify.com/artist/7A02nc5WKMBLqSKXxGZ4o8"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177749,
+      "name": "Licencia Pa Beber",
+      "url": "https://open.spotify.com/track/3oapAPyyIhKm3H6zdkOFTh"
     },
     {
       "album": {
@@ -5792,7 +5828,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-18",
+      "date_removed": null,
       "duration_ms": 132300,
       "name": "Movie",
       "url": "https://open.spotify.com/track/2vEHy7aNrhjv93pxX44KCc"
@@ -6676,7 +6712,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 173114,
       "name": "ojos. labios. cara.",
       "url": "https://open.spotify.com/track/0Ont2OoEaOYF9BYeSIhaFT"
@@ -6774,7 +6810,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-23",
+      "date_removed": null,
       "duration_ms": 172373,
       "name": "Pa Quererte",
       "url": "https://open.spotify.com/track/2jX7BQzdvFvfzmuCzuySHe"
@@ -7184,7 +7220,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-21",
+      "date_removed": null,
       "duration_ms": 197739,
       "name": "Piloto",
       "url": "https://open.spotify.com/track/5zkg48j0gxSLy59XSVzs9K"
@@ -7900,6 +7936,28 @@
       "duration_ms": 142054,
       "name": "Robot",
       "url": "https://open.spotify.com/track/5Dgbojt1HsytRAL3Vss7HI"
+    },
+    {
+      "album": {
+        "name": "rompo esquemas",
+        "url": "https://open.spotify.com/album/4sdH0YoWAHoozGAkVDqhpZ"
+      },
+      "artists": [
+        {
+          "name": "Leo Rizzi",
+          "url": "https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2"
+        },
+        {
+          "name": "DannyLux",
+          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199421,
+      "name": "rompo esquemas",
+      "url": "https://open.spotify.com/track/1WvFuZUZBHrx2JPCn4zEDK"
     },
     {
       "album": {
@@ -8760,7 +8818,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 158974,
       "name": "TBT",
       "url": "https://open.spotify.com/track/213uZJMRoRXXthd2xBYW4D"
@@ -8814,7 +8872,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 232306,
       "name": "Te Mata",
       "url": "https://open.spotify.com/track/4kvDU8vfvxupVezsVPag5v"
@@ -9286,7 +9344,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-30",
+      "date_removed": null,
       "duration_ms": 191008,
       "name": "Tu Canci\u00f3n",
       "url": "https://open.spotify.com/track/5MEOi4Xbxxtjrcf4WD8ztH"
@@ -10006,7 +10064,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 181901,
       "name": "\u00bfC\u00d3MO TE LO EXPLICO?",
       "url": "https://open.spotify.com/track/67wSCJJ91eyI1aS4AjLYkW"

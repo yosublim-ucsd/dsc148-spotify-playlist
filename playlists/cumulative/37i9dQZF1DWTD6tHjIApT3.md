@@ -4,7 +4,7 @@
 
 > 日本の女性アーティストの歌を特集。cover: アイナ・ジ・エンド
 
-1,973 songs - 5 day 7 hr 34 min
+1,975 songs - 5 day 7 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -527,6 +527,7 @@
 | [Keeps Beating](https://open.spotify.com/track/5dGenSjQSfL9KwXhL3D18M) | [Sincere](https://open.spotify.com/artist/3ucekCZdcSOBgiLZ37nKyn) | [Just Living](https://open.spotify.com/album/6jWIqqH1FJKuDbtq8cCWIC) | 3:49 | 2023-03-07 | 2023-03-29 |
 | [Keeps Coming Back](https://open.spotify.com/track/1pTJtmvJhSOjSkBfE56tjs) | [MoMo](https://open.spotify.com/artist/5gwaQTfKLp93WjE9qllzRW), [Chocoholic](https://open.spotify.com/artist/4UohSp9DAmnCA9mgWqj8d1) | [Keeps Coming Back](https://open.spotify.com/album/4Q6SuOMw10t4WGayoFEiWq) | 3:10 | 2022-07-12 | 2022-07-20 |
 | [Kick Off](https://open.spotify.com/track/5yc7Vd2kX7H5KRcWZloktL) | [TAMIW](https://open.spotify.com/artist/1OwFxbJhm8V4Sy28ogtS5l) | [Kick Off](https://open.spotify.com/album/2TZNIpSkEzb5tG38CSAJgi) | 4:07 | 2022-12-06 | 2022-12-14 |
+| [Killer Word](https://open.spotify.com/track/55YTEATvWRdjUXGkxfdlWB) | [chilldspot](https://open.spotify.com/artist/4uJKSLGvdvinobijrcfKw4) | [Killer Word](https://open.spotify.com/album/5nkuYDrndcdN41UN8QKgkP) | 4:01 | 2023-11-30 |  |
 | [Kimi Ga Iuyoni Kono Sekai Wa](https://open.spotify.com/track/5grgdRk5f9KeFxnNang0xQ) | [Hakubi](https://open.spotify.com/artist/1vgwCsZx2um1wmTgP5EkZj) | [Kimi Ga Iuyoni Kono Sekai Wa](https://open.spotify.com/album/6D5RIdbJoYuO8Plyc6qKhd) | 5:05 | 2022-09-29 | 2022-10-05 |
 | [Kimi ni Sayonara](https://open.spotify.com/track/1XORfqcIaAjoEMLkR4GKou) | [Kaneyorimasaru](https://open.spotify.com/artist/5h5smZjPHUEDyYNuafjehf) | [Kimi ni Sayonara](https://open.spotify.com/album/1Kur4QhXrFJo651o4sBTxq) | 4:19 | 2023-10-17 | 2023-11-01 |
 | [kioku](https://open.spotify.com/track/63vDfYaOPjLDCoBVTwgqhp) | [ao](https://open.spotify.com/artist/5NUhVvh0ERaLUcVqbUfDhK) | [kioku](https://open.spotify.com/album/4wNrWQGL2fg72wDyOb5Dri) | 3:58 | 2023-11-10 | 2023-11-16 |
@@ -1117,7 +1118,8 @@
 | [Where the Wind Blows](https://open.spotify.com/track/51iiBOpcbxJQWf1cI8kSf6) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [UTA'S SONGS ONE PIECE FILM RED](https://open.spotify.com/album/7Ixqxq13tWhrbnIabk3172) | 4:32 | 2022-09-29 |  |
 | [Whimsical Love](https://open.spotify.com/track/7pTNf5ChU3IBRjj9kx397O) | [Manaka](https://open.spotify.com/artist/3TUjg4NvsTvKiyRuPdsurN) | [Whimsical Love](https://open.spotify.com/album/6iswmI2uVud7XSnCkF71Hg) | 2:18 | 2023-10-31 | 2023-11-08 |
 | [White Rabbit](https://open.spotify.com/track/1BMhVGBje3qHKLCrFbLOwB) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [White Rabbit](https://open.spotify.com/album/7cKEIQl2vpLKajvEKLY7ys) | 4:35 | 2023-03-21 | 2023-09-01 |
-| [White Snow](https://open.spotify.com/track/4IcWXM0Nk9DyuLvWnYUje5) | [MALIYA](https://open.spotify.com/artist/1HpL1Q0ixotgDFMm7ZlRDU) | [White Snow](https://open.spotify.com/album/16J3o3firFKfgfBWZbWEh8) | 3:35 | 2023-11-30 |  |
+| [White Snow](https://open.spotify.com/track/3VrvJqL0g4B2gfAvvzwJ2p) | [MALIYA](https://open.spotify.com/artist/1HpL1Q0ixotgDFMm7ZlRDU) | [White Snow](https://open.spotify.com/album/3NZc71lQ5slVbiwfLmsd8N) | 3:35 | 2023-11-30 |  |
+| [White Snow](https://open.spotify.com/track/4IcWXM0Nk9DyuLvWnYUje5) | [MALIYA](https://open.spotify.com/artist/1HpL1Q0ixotgDFMm7ZlRDU) | [White Snow](https://open.spotify.com/album/16J3o3firFKfgfBWZbWEh8) | 3:35 | 2023-11-30 | 2023-12-02 |
 | [white stroke](https://open.spotify.com/track/08SBn5DjiNnMKR260QD8O0) | [oell](https://open.spotify.com/artist/3J6wtLvyNgrIyr0NYgROZA), [arum](https://open.spotify.com/artist/3KyTR2lj8s9WQb8ChUFNQq) | [white stroke](https://open.spotify.com/album/11wWZ11Gx05NS5amziZyEP) | 3:14 | 2023-01-03 | 2023-01-11 |
 | [Who Am I](https://open.spotify.com/track/35X8bc2o33vDfitEWjXVJu) | [Abe mao](https://open.spotify.com/artist/693KkQwUKXRxGPNo5RtRzH) | [Who Am I](https://open.spotify.com/album/5drwYlTLTM7AeatiYTemgY) | 4:59 | 2022-08-25 | 2022-08-31 |
 | [Who Are You](https://open.spotify.com/track/6l50VsBz2P3MaWBOiUUxac) | [Ms.OOJA](https://open.spotify.com/artist/4mQxvrtY2MbDuUXAhMg5pp) | [Who Are You](https://open.spotify.com/album/0YNMv9mhlMRlC1haWTbYbH) | 4:03 | 2022-05-29 | 2022-07-27 |
@@ -1347,7 +1349,7 @@
 | [キャリーケースは重いままで](https://open.spotify.com/track/2ADl3dTfftKsYTVQjdY7iH) | [やましたりな](https://open.spotify.com/artist/1O235Li0262kkP7gfP6B5W) | [バイバイ、私 / キャリーケースは重いままで](https://open.spotify.com/album/6ywtlcRbSCR213Z70OZIgK) | 4:05 | 2022-06-07 | 2022-06-10 |
 | [キライキライ](https://open.spotify.com/track/2bxeuMx4zkZwFMIBueowbY) | [ざらめ](https://open.spotify.com/artist/79S25nNlhtMOOMLV30SvHM) | [キライキライ](https://open.spotify.com/album/0Thk7AwgYbKr7i8ZObpEj3) | 3:06 | 2023-05-16 | 2023-05-31 |
 | [キラボシ](https://open.spotify.com/track/6XTcLBGaDOafFwg39GBjv3) | [Momoka Kisaki](https://open.spotify.com/artist/1CP2ElxvOk08sIZn9xXfl4) | [キラボシ](https://open.spotify.com/album/4VdxIfLBEu7K9gZZwyIxwx) | 3:07 | 2022-10-25 | 2022-11-16 |
-| [キラーワード](https://open.spotify.com/track/6lOrtgsvN9QKtN4h7S1Y5j) | [chilldspot](https://open.spotify.com/artist/4uJKSLGvdvinobijrcfKw4) | [キラーワード](https://open.spotify.com/album/0hTDFgya1BSBjCucfBfaTQ) | 4:01 | 2023-11-30 |  |
+| [キラーワード](https://open.spotify.com/track/6lOrtgsvN9QKtN4h7S1Y5j) | [chilldspot](https://open.spotify.com/artist/4uJKSLGvdvinobijrcfKw4) | [キラーワード](https://open.spotify.com/album/0hTDFgya1BSBjCucfBfaTQ) | 4:01 | 2023-11-30 | 2023-12-02 |
 | [キリエ・憐れみの讃歌](https://open.spotify.com/track/2lyFs3iMvfNi6bfHi3mJKj) | [Kyrie](https://open.spotify.com/artist/1W3oa2UIRtBlQSPwszyIWu), [AiNA THE END](https://open.spotify.com/artist/5k7KS34gxQbzdQaXWSOVKC) | [DEBUT](https://open.spotify.com/album/3QsVm0REFvXjoxF87Qm4OE) | 5:18 | 2023-10-17 |  |
 | [キリエ・憐れみの讃歌](https://open.spotify.com/track/4KjNYo1Y9QWc0GQES77dfl) | [Kyrie](https://open.spotify.com/artist/1W3oa2UIRtBlQSPwszyIWu), [AiNA THE END](https://open.spotify.com/artist/5k7KS34gxQbzdQaXWSOVKC) | [DEBUT](https://open.spotify.com/album/6P0h9ZA6Vf5Drg76VGFLSe) | 5:18 | 2023-10-12 | 2023-10-19 |
 | [キリエ・憐れみの讃歌](https://open.spotify.com/track/7p2uXeTDH9a7Iat6oqY9Uq) | [Kyrie](https://open.spotify.com/artist/1W3oa2UIRtBlQSPwszyIWu), [AiNA THE END](https://open.spotify.com/artist/5k7KS34gxQbzdQaXWSOVKC) | [DEBUT](https://open.spotify.com/album/16UD0fdKRMlLwVfCIviFyZ) | 5:18 | 2023-09-26 | 2023-10-14 |
@@ -1844,7 +1846,7 @@
 | [眩暈](https://open.spotify.com/track/5BStl4Oz3RLf598O9Emx18) | [ワタナベ・メイ](https://open.spotify.com/artist/4W4TTev4Ia8lbydPdZXUJ2) | [眩暈](https://open.spotify.com/album/4gjIWFcZiyLuojn7feSE0q) | 3:41 | 2023-10-03 | 2023-10-05 |
 | [瞬きと精神と君の歌と音楽と](https://open.spotify.com/track/0u6MZXPVfP9bAVuvGd4DgP) | [ao](https://open.spotify.com/artist/5NUhVvh0ERaLUcVqbUfDhK) | [瞬きと精神と君の歌と音楽と](https://open.spotify.com/album/5TfDk5uhXOdMv8xgjODU1Q) | 3:55 | 2022-11-29 | 2022-12-01 |
 | [瞳をとじて](https://open.spotify.com/track/7wxrxS77ntWkdtZ0hl02DT) | [Ko Shibasaki](https://open.spotify.com/artist/5YixSA79eNkVmTq8xzRYF7) | [ACTOR'S THE BEST 〜Melodies of Screens〜](https://open.spotify.com/album/2Ne522l2kr23mKibg40o0G) | 5:37 | 2023-11-28 |  |
-| [破壊前夜のこと](https://open.spotify.com/track/7ccRC7ORwX4MqopJNucBai) | [asmi](https://open.spotify.com/artist/3UY1KK0iXeC0mpaK0ltFza) | [破壊前夜のこと](https://open.spotify.com/album/5WKsrFoF3xsCQ4ui9d51Ud) | 3:42 | 2023-07-13 |  |
+| [破壊前夜のこと](https://open.spotify.com/track/7ccRC7ORwX4MqopJNucBai) | [asmi](https://open.spotify.com/artist/3UY1KK0iXeC0mpaK0ltFza) | [破壊前夜のこと](https://open.spotify.com/album/5WKsrFoF3xsCQ4ui9d51Ud) | 3:42 | 2023-07-13 | 2023-12-02 |
 | [確かな午後](https://open.spotify.com/track/04p7onyglwuTJyhngcaMai) | [YeYe](https://open.spotify.com/artist/2YUe21UG1hJsuhy9E3bzxp) | [確かな午後](https://open.spotify.com/album/2FaDhj4GAeFQDyxR39OzHz) | 4:21 | 2022-07-05 | 2022-07-13 |
 | [祈り](https://open.spotify.com/track/7HPycbZx8VSAwN1tOdy4Ty) | [dawgss](https://open.spotify.com/artist/4lERMAZbN3ikLhkJga3NHR), [salasa](https://open.spotify.com/artist/5WcurhZ9M2BpSQWhUC4oPc) | [祈り](https://open.spotify.com/album/7HytM9B1Hbl3MDAMKdE5c6) | 3:36 | 2023-02-21 | 2023-03-01 |
 | [祈り](https://open.spotify.com/track/6VDyK4vjlz1Cb6OcCSeoP3) | [Higuchi Ai](https://open.spotify.com/artist/4GxWcui9BlMJH9VOOK5wav) | [祈り](https://open.spotify.com/album/7LB8h6Mw2WbT9KHVSq7lGJ) | 3:35 | 2023-04-18 | 2023-04-20 |
@@ -1943,7 +1945,7 @@
 | [金柑](https://open.spotify.com/track/3hCF2YuOSO3QffMNXRRaFQ) | [kojikoji](https://open.spotify.com/artist/13lFKnH7sS9T35uPQmxaOs) | [金柑](https://open.spotify.com/album/5UwH0a9bjXQJbg06RQoI3k) | 6:50 | 2023-10-24 | 2023-11-16 |
 | [針が進む](https://open.spotify.com/track/1zFziWIZfb58Vk11aB6e0L) | [成田あより](https://open.spotify.com/artist/7MX2gMsKCZU1PcsL40wzNQ) | [針が進む](https://open.spotify.com/album/3A1ly5MHBI1i60t5XalAIN) | 3:58 | 2022-11-10 | 2022-11-16 |
 | [鎌倉 On The Beach](https://open.spotify.com/track/45vwX3MfenJhwt0W0D4vdK) | [Yuko Hara](https://open.spotify.com/artist/176umXeBGLzt8j80Bh53l0) | [鎌倉 On The Beach](https://open.spotify.com/album/4NA2AJQ9BrkoT5GrvlnHWB) | 4:17 | 2022-09-29 | 2022-10-01 |
-| [開青](https://open.spotify.com/track/4cJA1eDGR2G5vaeYeXdglV) | [asmi](https://open.spotify.com/artist/3UY1KK0iXeC0mpaK0ltFza) | [開青](https://open.spotify.com/album/3gCUsxrr1yBcbFu1co2bZ0) | 3:25 | 2023-10-24 | 2023-12-01 |
+| [開青](https://open.spotify.com/track/4cJA1eDGR2G5vaeYeXdglV) | [asmi](https://open.spotify.com/artist/3UY1KK0iXeC0mpaK0ltFza) | [開青](https://open.spotify.com/album/3gCUsxrr1yBcbFu1co2bZ0) | 3:25 | 2023-10-24 |  |
 | [阿佐ヶ谷音頭](https://open.spotify.com/track/7KwB5s3fkbGVglP4bnrzLs) | [Asagaya Romantics](https://open.spotify.com/artist/2h0iLKaNExZIpQsp4jpf8x) | [阿佐ヶ谷音頭](https://open.spotify.com/album/7LCH6Fs2vYeSiNvoP9wRCU) | 3:26 | 2023-07-04 | 2023-07-12 |
 | [陶芸](https://open.spotify.com/track/7HcufLjbzyaRauzRET8hfj) | [kojikoji](https://open.spotify.com/artist/13lFKnH7sS9T35uPQmxaOs) | [Mining](https://open.spotify.com/album/7KvPSi87joIQXyTgPLoHe8) | 2:17 | 2022-08-17 | 2022-09-03 |
 | [陽の当たる大通り \(feat\. Phum Viphurit\)](https://open.spotify.com/track/7eM4bUjucfMv5GkM4gotZA) | [Maki Nomiya](https://open.spotify.com/artist/0PoKzYeBX3Lgg35BipPlAj), [Phum Viphurit](https://open.spotify.com/artist/5mqguTgtaoCMNMZD6txCh6) | [陽の当たる大通り \(feat\. Phum Viphurit\)](https://open.spotify.com/album/5CAbx94HFbCDQXFP4F9bDx) | 4:12 | 2022-05-31 | 2022-06-19 |

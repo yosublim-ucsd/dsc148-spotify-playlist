@@ -385,6 +385,24 @@
     },
     {
       "album": {
+        "name": "Area Party",
+        "url": "https://open.spotify.com/album/29FyZCVFynYTLUDkMFkEZL"
+      },
+      "artists": [
+        {
+          "name": "Novemba",
+          "url": "https://open.spotify.com/artist/2Eiiy3N1dxC8elC8kIkoHJ"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122474,
+      "name": "Area Party",
+      "url": "https://open.spotify.com/track/3HhFNwoskRIUdj8nadvmzp"
+    },
+    {
+      "album": {
         "name": "Asiwaju",
         "url": "https://open.spotify.com/album/5xqEVPQeBA9GUnEFJhyCtt"
       },
@@ -1606,7 +1624,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 112540,
       "name": "Do What U Want",
       "url": "https://open.spotify.com/track/7sSc9rQfa7YEhjRgKoMDPQ"
@@ -2514,6 +2532,32 @@
       "duration_ms": 211304,
       "name": "Friday",
       "url": "https://open.spotify.com/track/2PSzHKPwhLFVU6UJkcOfAF"
+    },
+    {
+      "album": {
+        "name": "Fruit",
+        "url": "https://open.spotify.com/album/7kip8gYzZEfC4zHZxBmKSa"
+      },
+      "artists": [
+        {
+          "name": "Masterkraft",
+          "url": "https://open.spotify.com/artist/0lEUtJddtvvDlxtEmF9j0m"
+        },
+        {
+          "name": "Joeboy",
+          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
+        },
+        {
+          "name": "Majeeed",
+          "url": "https://open.spotify.com/artist/3xBgAZIqiYzRh0Du0uXFAk"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178947,
+      "name": "Fruit",
+      "url": "https://open.spotify.com/track/6UqAmZi1jlmmFtiDVRQ1Dy"
     },
     {
       "album": {
@@ -4408,7 +4452,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 178579,
       "name": "MOTO",
       "url": "https://open.spotify.com/track/1b83195i03SMUa1VWto8Z5"
@@ -4786,6 +4830,28 @@
       "duration_ms": 140540,
       "name": "No Dey Form",
       "url": "https://open.spotify.com/track/1a5glQzge8OW5w2izckOGN"
+    },
+    {
+      "album": {
+        "name": "No Lie",
+        "url": "https://open.spotify.com/album/5GEQghh5ACDyb2Vbz25FnI"
+      },
+      "artists": [
+        {
+          "name": "Joshua Baraka",
+          "url": "https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW"
+        },
+        {
+          "name": "Magixx",
+          "url": "https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196363,
+      "name": "No Lie",
+      "url": "https://open.spotify.com/track/6ElY31qcNcHfiMH2cvuveK"
     },
     {
       "album": {
@@ -5452,7 +5518,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 170097,
       "name": "Pheelz Like Summer",
       "url": "https://open.spotify.com/track/3zX0dMVPyLnut4t7WOPJ5Q"
@@ -6094,7 +6160,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 236181,
       "name": "Single Again (feat. Ruger) - Remix",
       "url": "https://open.spotify.com/track/463mgOOvzTeyL2u2cmqKIE"
@@ -6912,6 +6978,24 @@
       "duration_ms": 183289,
       "name": "Till We Die (feat. Ruger)",
       "url": "https://open.spotify.com/track/0tdbVxn9Qewgtv2lUgD8aD"
+    },
+    {
+      "album": {
+        "name": "The One Who Descends",
+        "url": "https://open.spotify.com/album/6y3G0lel5n8pd29aTR41d9"
+      },
+      "artists": [
+        {
+          "name": "Yarden",
+          "url": "https://open.spotify.com/artist/1nN9bKS2bD4OHNrKkS0Djd"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141818,
+      "name": "Time",
+      "url": "https://open.spotify.com/track/534W5nlVhBthPSYSzrHYCM"
     },
     {
       "album": {

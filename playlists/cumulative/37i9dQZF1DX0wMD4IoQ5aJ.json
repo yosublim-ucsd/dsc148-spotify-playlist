@@ -2461,6 +2461,24 @@
     },
     {
       "album": {
+        "name": "Ikigai",
+        "url": "https://open.spotify.com/album/4JRqPImRngBGPua55JGhq7"
+      },
+      "artists": [
+        {
+          "name": "Gloster Gladiator",
+          "url": "https://open.spotify.com/artist/1qwnni8v2EwPmnotgdJWBg"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130093,
+      "name": "Ikigai",
+      "url": "https://open.spotify.com/track/5KEA75lUPH2Euja9yWoMfO"
+    },
+    {
+      "album": {
         "name": "In A New Mood",
         "url": "https://open.spotify.com/album/7HEpO9A9jY1wIuvFGBooro"
       },

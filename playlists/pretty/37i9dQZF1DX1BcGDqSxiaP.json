@@ -1,12 +1,12 @@
 {
   "description": "Releases from the legendary Blues label.",
-  "num_followers": 21426,
+  "num_followers": 21448,
   "original_name": "Legendary Labels: Alligator",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MzZkNjU2ODIyMzg5ODE5N2YzZTlhODQ0ODg2N2ZlZGNhOTlhZGUw",
+  "snapshot_id": "MCxhNzM4M2M3MWU2ZjI2NDI4ZTU2ZTJhMWY0ZDFhYzRlYTBlM2QxMDRi",
   "tracks": [
     {
       "added_at": "2023-05-17 15:52:13",
@@ -239,6 +239,22 @@
     {
       "added_at": "2023-05-17 15:52:13",
       "album": {
+        "name": "3rd Degree (Remastered)",
+        "url": "https://open.spotify.com/album/1RcjOFCn7PDU8GZB97odnZ"
+      },
+      "artists": [
+        {
+          "name": "Johnny Winter",
+          "url": "https://open.spotify.com/artist/2ODUxmFxJSyvGiimNhMHbO"
+        }
+      ],
+      "duration_ms": 395800,
+      "name": "Third Degree - Remastered",
+      "url": "https://open.spotify.com/track/2Z4UDFFs2kT5YS899suFz7"
+    },
+    {
+      "added_at": "2023-05-17 15:52:13",
+      "album": {
         "name": "Lucky Guy!",
         "url": "https://open.spotify.com/album/5tWeZuFba1X0sJPBnj2oW3"
       },
@@ -255,22 +271,6 @@
       "duration_ms": 189213,
       "name": "312 Blood",
       "url": "https://open.spotify.com/track/6rRCC8vOdzR12gdf33Cb5u"
-    },
-    {
-      "added_at": "2023-05-17 15:52:13",
-      "album": {
-        "name": "3rd Degree (Remastered)",
-        "url": "https://open.spotify.com/album/1RcjOFCn7PDU8GZB97odnZ"
-      },
-      "artists": [
-        {
-          "name": "Johnny Winter",
-          "url": "https://open.spotify.com/artist/2ODUxmFxJSyvGiimNhMHbO"
-        }
-      ],
-      "duration_ms": 395800,
-      "name": "Third Degree - Remastered",
-      "url": "https://open.spotify.com/track/2Z4UDFFs2kT5YS899suFz7"
     },
     {
       "added_at": "2023-05-17 15:52:13",

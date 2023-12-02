@@ -1,12 +1,12 @@
 {
   "description": "The decade of the Outlaws of Country Music - where traditional and crossover country collided. Cover: Charley Pride",
-  "num_followers": 288908,
+  "num_followers": 289017,
   "original_name": "70s Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NGFmZDBiZDc1NGYxMDkyNmQzNmQ0ZmIzYWRlNDBhNWFiMTVmZDky",
+  "snapshot_id": "MCxmYzBmYTFmM2ZjMTJhNzBjNWI0ZjczYWE4NTYwOGI5ZDhmZjEzNmI5",
   "tracks": [
     {
       "added_at": "2023-08-21 19:26:53",
@@ -1183,18 +1183,18 @@
     {
       "added_at": "2023-08-21 19:26:53",
       "album": {
-        "name": "The Essential Ray Price",
-        "url": "https://open.spotify.com/album/5ficfpIRTeXi6BRePNGQCQ"
+        "name": "20 Greatest Hits",
+        "url": "https://open.spotify.com/album/1EoBcNqFMobg6Wrzskv6G9"
       },
       "artists": [
         {
-          "name": "Ray Price",
-          "url": "https://open.spotify.com/artist/5sAg1HZePcFfhrs0G8A8OP"
+          "name": "Don Williams",
+          "url": "https://open.spotify.com/artist/4Ti0EKl2PVEms2NRMVGqNe"
         }
       ],
-      "duration_ms": 227786,
-      "name": "For the Good Times",
-      "url": "https://open.spotify.com/track/4cIGNFaKpoVuJfVvixS0mU"
+      "duration_ms": 146733,
+      "name": "It Must Be Love - Single Version",
+      "url": "https://open.spotify.com/track/2yjP9SAtGTy6xgMEJXVXsi"
     },
     {
       "added_at": "2023-08-21 19:26:53",
@@ -1231,18 +1231,18 @@
     {
       "added_at": "2023-08-21 19:26:53",
       "album": {
-        "name": "20 Greatest Hits",
-        "url": "https://open.spotify.com/album/1EoBcNqFMobg6Wrzskv6G9"
+        "name": "The Essential Ray Price",
+        "url": "https://open.spotify.com/album/5ficfpIRTeXi6BRePNGQCQ"
       },
       "artists": [
         {
-          "name": "Don Williams",
-          "url": "https://open.spotify.com/artist/4Ti0EKl2PVEms2NRMVGqNe"
+          "name": "Ray Price",
+          "url": "https://open.spotify.com/artist/5sAg1HZePcFfhrs0G8A8OP"
         }
       ],
-      "duration_ms": 146733,
-      "name": "It Must Be Love - Single Version",
-      "url": "https://open.spotify.com/track/2yjP9SAtGTy6xgMEJXVXsi"
+      "duration_ms": 227786,
+      "name": "For the Good Times",
+      "url": "https://open.spotify.com/track/4cIGNFaKpoVuJfVvixS0mU"
     },
     {
       "added_at": "2023-08-21 19:26:53",
@@ -1295,18 +1295,22 @@
     {
       "added_at": "2023-08-21 19:26:53",
       "album": {
-        "name": "The Freddy Fender Collection",
-        "url": "https://open.spotify.com/album/7nXadSb5djsc7Lfdv4IPLp"
+        "name": "Good 'N' Country",
+        "url": "https://open.spotify.com/album/2OT5kYQuoqLb4ZPsDHZzMu"
       },
       "artists": [
         {
-          "name": "Freddy Fender",
-          "url": "https://open.spotify.com/artist/0SNdq9iJyup4XY6JbNHbt6"
+          "name": "Jim Reeves",
+          "url": "https://open.spotify.com/artist/2Ev0e8GUIX4u7d9etNLTXg"
+        },
+        {
+          "name": "Deborah Allen",
+          "url": "https://open.spotify.com/artist/0WO15UbgUyKKtn1anzZP5u"
         }
       ],
-      "duration_ms": 158306,
-      "name": "Before the Next Teardrop Falls",
-      "url": "https://open.spotify.com/track/3awuorsQsio2PUOvzq3hpd"
+      "duration_ms": 139466,
+      "name": "Don't Let Me Cross Over",
+      "url": "https://open.spotify.com/track/6d0peKL7ZyWiRipp0bq8Ls"
     },
     {
       "added_at": "2023-08-21 19:26:53",
@@ -1359,22 +1363,18 @@
     {
       "added_at": "2023-08-21 19:26:53",
       "album": {
-        "name": "Good 'N' Country",
-        "url": "https://open.spotify.com/album/2OT5kYQuoqLb4ZPsDHZzMu"
+        "name": "The Freddy Fender Collection",
+        "url": "https://open.spotify.com/album/7nXadSb5djsc7Lfdv4IPLp"
       },
       "artists": [
         {
-          "name": "Jim Reeves",
-          "url": "https://open.spotify.com/artist/2Ev0e8GUIX4u7d9etNLTXg"
-        },
-        {
-          "name": "Deborah Allen",
-          "url": "https://open.spotify.com/artist/0WO15UbgUyKKtn1anzZP5u"
+          "name": "Freddy Fender",
+          "url": "https://open.spotify.com/artist/0SNdq9iJyup4XY6JbNHbt6"
         }
       ],
-      "duration_ms": 139466,
-      "name": "Don't Let Me Cross Over",
-      "url": "https://open.spotify.com/track/6d0peKL7ZyWiRipp0bq8Ls"
+      "duration_ms": 158306,
+      "name": "Before the Next Teardrop Falls",
+      "url": "https://open.spotify.com/track/3awuorsQsio2PUOvzq3hpd"
     },
     {
       "added_at": "2023-08-21 19:26:53",
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2023-08-21 19:26:53",
       "album": {
-        "name": "Johnny Paycheck - 16 Biggest Hits",
-        "url": "https://open.spotify.com/album/7EcDMC33XvuCEWwLTwc8N5"
-      },
-      "artists": [
-        {
-          "name": "Johnny Paycheck",
-          "url": "https://open.spotify.com/artist/0DchahWJGQqrqr8PMM5zQD"
-        }
-      ],
-      "duration_ms": 156666,
-      "name": "Take This Job and Shove It",
-      "url": "https://open.spotify.com/track/6yT7kcpsXNW7QS9xunPaox"
-    },
-    {
-      "added_at": "2023-08-21 19:26:53",
-      "album": {
         "name": "Love In The Hot Afternoon",
         "url": "https://open.spotify.com/album/4NFaunfYQOLB85ZHBSTw77"
       },
@@ -1455,6 +1439,22 @@
       "duration_ms": 199400,
       "name": "Love In The Hot Afternoon",
       "url": "https://open.spotify.com/track/3MwNnB3W5pi8URHRKlksGt"
+    },
+    {
+      "added_at": "2023-08-21 19:26:53",
+      "album": {
+        "name": "Johnny Paycheck - 16 Biggest Hits",
+        "url": "https://open.spotify.com/album/7EcDMC33XvuCEWwLTwc8N5"
+      },
+      "artists": [
+        {
+          "name": "Johnny Paycheck",
+          "url": "https://open.spotify.com/artist/0DchahWJGQqrqr8PMM5zQD"
+        }
+      ],
+      "duration_ms": 156666,
+      "name": "Take This Job and Shove It",
+      "url": "https://open.spotify.com/track/6yT7kcpsXNW7QS9xunPaox"
     },
     {
       "added_at": "2023-08-21 19:26:53",

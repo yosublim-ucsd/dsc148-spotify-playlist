@@ -1,12 +1,12 @@
 {
   "description": "Bringing the roaring 20s into the 2020s",
-  "num_followers": 377368,
+  "num_followers": 377388,
   "original_name": "Electro Swing",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlOTNlODE1ZWYyZGViNjhkOWRiNmMwNzk5ZGIzODJiZDI5ZTZiNzE3",
+  "snapshot_id": "MCxjODU4YjFiNTYxNTAyMTc1NjczNzQxY2MyZTMzYWEzNGE1M2M0NDE2",
   "tracks": [
     {
       "added_at": "2023-11-06 13:47:16",
@@ -159,6 +159,26 @@
       "duration_ms": 203225,
       "name": "Volare - Electro Swing Mix",
       "url": "https://open.spotify.com/track/5lW4pCHSVtDn1qzgbnQKCq"
+    },
+    {
+      "added_at": "2023-12-01 05:01:00",
+      "album": {
+        "name": "Everybody (Electro Swing Mix)",
+        "url": "https://open.spotify.com/album/6pb9CiKO2Bmhfh5DeGoTzS"
+      },
+      "artists": [
+        {
+          "name": "The Lost Fingers",
+          "url": "https://open.spotify.com/artist/6sp0EZC05wbJUlY1h8oOUc"
+        },
+        {
+          "name": "Wolfgang Lohr",
+          "url": "https://open.spotify.com/artist/5GImm0oU5MkW7OHkb91jwu"
+        }
+      ],
+      "duration_ms": 219832,
+      "name": "Everybody - Electro Swing Mix",
+      "url": "https://open.spotify.com/track/6NOeBomPPFW0VCiSRfdbg8"
     },
     {
       "added_at": "2023-11-06 13:47:16",

@@ -211,6 +211,28 @@
     },
     {
       "album": {
+        "name": "Around",
+        "url": "https://open.spotify.com/album/2iJtrTFYcvBIAPIpYoYnb4"
+      },
+      "artists": [
+        {
+          "name": "CJ Jeff",
+          "url": "https://open.spotify.com/artist/0sd0YrAGDzvCNV53mubgCH"
+        },
+        {
+          "name": "Georges Perin",
+          "url": "https://open.spotify.com/artist/73ikWpo3p9RuVJCtHTxObo"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154354,
+      "name": "Around",
+      "url": "https://open.spotify.com/track/6CcZcnxlBHriWvABmO0cyI"
+    },
+    {
+      "album": {
         "name": "The Jellyheads",
         "url": "https://open.spotify.com/album/7xBaTmApqevxKxgEQi7RN0"
       },
@@ -316,7 +338,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 260302,
       "name": "Baume",
       "url": "https://open.spotify.com/track/2EDg4ZWpHuR7R5u9UfGotf"
@@ -576,7 +598,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 209767,
       "name": "Call On Me (with Tove Lo) - SILK \"2am\" Remix",
       "url": "https://open.spotify.com/track/1FOB0dyeUM2iOLMNnX8dKE"
@@ -915,6 +937,28 @@
     },
     {
       "album": {
+        "name": "separation anxiety",
+        "url": "https://open.spotify.com/album/7o9t3adexgpcxrEeEp8Dut"
+      },
+      "artists": [
+        {
+          "name": "Seb Wildblood",
+          "url": "https://open.spotify.com/artist/51Rlwvwkj8L3zakIRr6dUV"
+        },
+        {
+          "name": "Lawrence",
+          "url": "https://open.spotify.com/artist/0P42vB5p3jd1P4ScFQg2YI"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 337137,
+      "name": "don't see this",
+      "url": "https://open.spotify.com/track/4wFQ4iGZX8V5Iro9HE4atb"
+    },
+    {
+      "album": {
         "name": "Door Of The Cosmos (Armonica Cosmos Mix)",
         "url": "https://open.spotify.com/album/2AGd783U2EtrmGa8ZcdiYb"
       },
@@ -1216,6 +1260,32 @@
       "duration_ms": 207619,
       "name": "Energy",
       "url": "https://open.spotify.com/track/0oO8senyNdYxs075cnTTL2"
+    },
+    {
+      "album": {
+        "name": "Equals (Kiimi Remix)",
+        "url": "https://open.spotify.com/album/4W8GGdCz7myazQbddYTIN8"
+      },
+      "artists": [
+        {
+          "name": "Jasper Tygner",
+          "url": "https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh"
+        },
+        {
+          "name": "Joe Hertz",
+          "url": "https://open.spotify.com/artist/76QHVIjgqlkWB9LNGliman"
+        },
+        {
+          "name": "Kiimi",
+          "url": "https://open.spotify.com/artist/3EMzfV9nhsrQWF7Ww8M74S"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266000,
+      "name": "Equals - Kiimi Remix",
+      "url": "https://open.spotify.com/track/5KmZieNiMMeCY8KivbC728"
     },
     {
       "album": {
@@ -1660,7 +1730,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 303889,
       "name": "Get Back - Tape Mix",
       "url": "https://open.spotify.com/track/3xBudG07erHx9GxIVx7zs3"
@@ -1779,6 +1849,24 @@
     },
     {
       "album": {
+        "name": "Deeparture in Time - Revisited",
+        "url": "https://open.spotify.com/album/3BfwLrLtFsHawh0X4yABta"
+      },
+      "artists": [
+        {
+          "name": "Aril Brikha",
+          "url": "https://open.spotify.com/artist/3zWrv3ns5knPAVMR30hxxO"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 478800,
+      "name": "Groove La Chord",
+      "url": "https://open.spotify.com/track/0Ga1CODJzpwFYtRt5PyC73"
+    },
+    {
+      "album": {
         "name": "Les Yeux",
         "url": "https://open.spotify.com/album/5ii1hyx3gCzdsQVut2Y5yk"
       },
@@ -1848,6 +1936,24 @@
       "duration_ms": 344823,
       "name": "Hot Hot",
       "url": "https://open.spotify.com/track/6qdClrMJKkYPNhWFvI38RF"
+    },
+    {
+      "album": {
+        "name": "Immersed Elements 07",
+        "url": "https://open.spotify.com/album/7EehEfudsjkebuZW5pANS5"
+      },
+      "artists": [
+        {
+          "name": "Motives",
+          "url": "https://open.spotify.com/artist/59622hInIYCDA9zHmfxxBu"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217622,
+      "name": "Hours",
+      "url": "https://open.spotify.com/track/38v0lk7Ghia2mPZU8Qhv7q"
     },
     {
       "album": {
@@ -2106,7 +2212,7 @@
       ],
       "date_added": "2023-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 317290,
       "name": "it's sky time",
       "url": "https://open.spotify.com/track/7cUfpSPItssaVcFTjXwLwi"
@@ -2773,6 +2879,24 @@
     },
     {
       "album": {
+        "name": "Toolroom Radio EP711 - Presented by Mark Knight",
+        "url": "https://open.spotify.com/album/7xD1V3MjU8NQ7sDR7dnrqJ"
+      },
+      "artists": [
+        {
+          "name": "Flashmob",
+          "url": "https://open.spotify.com/artist/7xo0kZGwplHhSh8ORbToS8"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245715,
+      "name": "My Body - TR711",
+      "url": "https://open.spotify.com/track/7GNbe0rliPf0O3GyMxew5s"
+    },
+    {
+      "album": {
         "name": "Need You",
         "url": "https://open.spotify.com/album/3yVl1zSI4SBQGVIpUEcDKF"
       },
@@ -2958,7 +3082,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 432291,
       "name": "Obsessed - Extended Mix",
       "url": "https://open.spotify.com/track/3JVxO7366xPzmFqEha1xZS"
@@ -3358,7 +3482,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 549192,
       "name": "Reach (Mark Knight Remix)",
       "url": "https://open.spotify.com/track/0xQbayTN7cbWoqvkKTeqLc"
@@ -3668,7 +3792,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 419550,
       "name": "Silence - Stone Van Brooken, Pete K Extended Mix",
       "url": "https://open.spotify.com/track/0q4N5AjWt2flFKliMJyxUH"
@@ -4068,6 +4192,24 @@
       "duration_ms": 255000,
       "name": "Take Me High",
       "url": "https://open.spotify.com/track/1EF8Ya2wALJOufB5VQAwtt"
+    },
+    {
+      "album": {
+        "name": "Chiral",
+        "url": "https://open.spotify.com/album/1LMfrpgNdTxmmq7Qo7YRSM"
+      },
+      "artists": [
+        {
+          "name": "Martinou",
+          "url": "https://open.spotify.com/artist/5mxwKKP9qnvmfpuAgoI7kp"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 360000,
+      "name": "Take Me There",
+      "url": "https://open.spotify.com/track/1o84U3oManq1ink1jpJS1x"
     },
     {
       "album": {

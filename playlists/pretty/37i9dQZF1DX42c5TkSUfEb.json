@@ -1,12 +1,12 @@
 {
   "description": "La playlist id\u00e9ale pour se d\u00e9tendre en musique.",
-  "num_followers": 758103,
+  "num_followers": 758228,
   "original_name": "Au calme",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5OTc1NjUyY2JiZDc4MDEyYzg2NzdkYTQ5OGUzZDM3NWVkZWM0YmQ4",
+  "snapshot_id": "MCw2OGRjYzQ1ZjJiMzdhMzg2YTQwY2QyYjhkOTA2Mzc5NjZiZjBiMjEx",
   "tracks": [
     {
       "added_at": "2023-11-27 09:00:14",
@@ -527,6 +527,22 @@
     {
       "added_at": "2023-11-27 09:00:14",
       "album": {
+        "name": "Wasteland, Baby!",
+        "url": "https://open.spotify.com/album/2c7gFThUYyo2t6ogAgIYNw"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "duration_ms": 298880,
+      "name": "Shrike",
+      "url": "https://open.spotify.com/track/083PU4XnYAOMAGVruma3vb"
+    },
+    {
+      "added_at": "2023-11-27 09:00:14",
+      "album": {
         "name": "The Velvet Underground (45th Anniversary)",
         "url": "https://open.spotify.com/album/2HOf3Nb44Us8U9oEtKLSrX"
       },
@@ -555,22 +571,6 @@
       "duration_ms": 223600,
       "name": "Retrograde",
       "url": "https://open.spotify.com/track/2IqjKEBiz0CdLKdkXhxw84"
-    },
-    {
-      "added_at": "2023-11-27 09:00:14",
-      "album": {
-        "name": "Wasteland, Baby!",
-        "url": "https://open.spotify.com/album/2c7gFThUYyo2t6ogAgIYNw"
-      },
-      "artists": [
-        {
-          "name": "Hozier",
-          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
-        }
-      ],
-      "duration_ms": 298880,
-      "name": "Shrike",
-      "url": "https://open.spotify.com/track/083PU4XnYAOMAGVruma3vb"
     },
     {
       "added_at": "2023-11-27 09:00:14",
@@ -623,6 +623,26 @@
     {
       "added_at": "2023-11-27 09:00:14",
       "album": {
+        "name": "Separate Ways (feat. The Mar\u00edas)",
+        "url": "https://open.spotify.com/album/0RPUD4sJF4iHT97MKwyyNz"
+      },
+      "artists": [
+        {
+          "name": "Eyedress",
+          "url": "https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB"
+        },
+        {
+          "name": "The Mar\u00edas",
+          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
+        }
+      ],
+      "duration_ms": 206833,
+      "name": "Separate Ways (feat. The Mar\u00edas)",
+      "url": "https://open.spotify.com/track/4fwPxcF4rZQIBZr1h6Qd2S"
+    },
+    {
+      "added_at": "2023-11-27 09:00:14",
+      "album": {
         "name": "Trouble",
         "url": "https://open.spotify.com/album/2DQHgaOMVOs2OKLaksiMx9"
       },
@@ -635,22 +655,6 @@
       "duration_ms": 250866,
       "name": "Jolene",
       "url": "https://open.spotify.com/track/2fSIF8CJhoc9CJhF9vJDXp"
-    },
-    {
-      "added_at": "2023-11-27 09:00:14",
-      "album": {
-        "name": "Riot On An Empty Street",
-        "url": "https://open.spotify.com/album/2AlmzyF5aM1A1Mq9QkwTEI"
-      },
-      "artists": [
-        {
-          "name": "Kings of Convenience",
-          "url": "https://open.spotify.com/artist/41AbNVba2ccpmcc9QtOJE7"
-        }
-      ],
-      "duration_ms": 188400,
-      "name": "Misread",
-      "url": "https://open.spotify.com/track/3O090PYVo1do7s3PMCoVoz"
     },
     {
       "added_at": "2023-11-27 09:00:14",
@@ -675,22 +679,38 @@
     {
       "added_at": "2023-11-27 09:00:14",
       "album": {
-        "name": "Separate Ways (feat. The Mar\u00edas)",
-        "url": "https://open.spotify.com/album/0RPUD4sJF4iHT97MKwyyNz"
+        "name": "Riot On An Empty Street",
+        "url": "https://open.spotify.com/album/2AlmzyF5aM1A1Mq9QkwTEI"
       },
       "artists": [
         {
-          "name": "Eyedress",
-          "url": "https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB"
-        },
-        {
-          "name": "The Mar\u00edas",
-          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
+          "name": "Kings of Convenience",
+          "url": "https://open.spotify.com/artist/41AbNVba2ccpmcc9QtOJE7"
         }
       ],
-      "duration_ms": 206833,
-      "name": "Separate Ways (feat. The Mar\u00edas)",
-      "url": "https://open.spotify.com/track/4fwPxcF4rZQIBZr1h6Qd2S"
+      "duration_ms": 188400,
+      "name": "Misread",
+      "url": "https://open.spotify.com/track/3O090PYVo1do7s3PMCoVoz"
+    },
+    {
+      "added_at": "2023-11-27 09:00:14",
+      "album": {
+        "name": "The Glass",
+        "url": "https://open.spotify.com/album/1ytv4k4Yiz5XupOA1Tbgjm"
+      },
+      "artists": [
+        {
+          "name": "H.E.R.",
+          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
+        },
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "duration_ms": 211190,
+      "name": "The Glass",
+      "url": "https://open.spotify.com/track/1Wm507fKIw4Un8x11ucO1W"
     },
     {
       "added_at": "2023-11-27 09:00:14",
@@ -723,26 +743,6 @@
       "duration_ms": 240000,
       "name": "But I Do",
       "url": "https://open.spotify.com/track/4ox2odCf0XL0g6692URWwe"
-    },
-    {
-      "added_at": "2023-11-27 09:00:14",
-      "album": {
-        "name": "The Glass",
-        "url": "https://open.spotify.com/album/1ytv4k4Yiz5XupOA1Tbgjm"
-      },
-      "artists": [
-        {
-          "name": "H.E.R.",
-          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
-        },
-        {
-          "name": "Foo Fighters",
-          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
-        }
-      ],
-      "duration_ms": 211190,
-      "name": "The Glass",
-      "url": "https://open.spotify.com/track/1Wm507fKIw4Un8x11ucO1W"
     },
     {
       "added_at": "2023-11-27 09:00:14",
@@ -799,22 +799,6 @@
     {
       "added_at": "2023-11-27 09:00:14",
       "album": {
-        "name": "La Biographie de Luka Philipsen",
-        "url": "https://open.spotify.com/album/02o4ipeZALU4EG2RX6d4Ip"
-      },
-      "artists": [
-        {
-          "name": "Keren Ann",
-          "url": "https://open.spotify.com/artist/4v1YZL83eLyemlt32wWAoA"
-        }
-      ],
-      "duration_ms": 178160,
-      "name": "Jardin d'hiver",
-      "url": "https://open.spotify.com/track/45gpJxviKRBsQo1lDZ03Xf"
-    },
-    {
-      "added_at": "2023-11-27 09:00:14",
-      "album": {
         "name": "b'lieve i'm goin down...",
         "url": "https://open.spotify.com/album/07W2z9W0uWJPdG8Po0MDiR"
       },
@@ -831,18 +815,18 @@
     {
       "added_at": "2023-11-27 09:00:14",
       "album": {
-        "name": "Californication (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2Y9IRtehByVkegoD7TcLfi"
+        "name": "La Biographie de Luka Philipsen",
+        "url": "https://open.spotify.com/album/02o4ipeZALU4EG2RX6d4Ip"
       },
       "artists": [
         {
-          "name": "Red Hot Chili Peppers",
-          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
+          "name": "Keren Ann",
+          "url": "https://open.spotify.com/artist/4v1YZL83eLyemlt32wWAoA"
         }
       ],
-      "duration_ms": 204973,
-      "name": "Road Trippin'",
-      "url": "https://open.spotify.com/track/1XxCiPw07rd1ytYnE7SoJI"
+      "duration_ms": 178160,
+      "name": "Jardin d'hiver",
+      "url": "https://open.spotify.com/track/45gpJxviKRBsQo1lDZ03Xf"
     },
     {
       "added_at": "2023-11-27 09:00:14",
@@ -859,6 +843,22 @@
       "duration_ms": 201768,
       "name": "Suspirium",
       "url": "https://open.spotify.com/track/4Y1igB1GDncJvt7ezbV3cW"
+    },
+    {
+      "added_at": "2023-11-27 09:00:14",
+      "album": {
+        "name": "Californication (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2Y9IRtehByVkegoD7TcLfi"
+      },
+      "artists": [
+        {
+          "name": "Red Hot Chili Peppers",
+          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
+        }
+      ],
+      "duration_ms": 204973,
+      "name": "Road Trippin'",
+      "url": "https://open.spotify.com/track/1XxCiPw07rd1ytYnE7SoJI"
     },
     {
       "added_at": "2023-11-27 09:00:14",
@@ -975,22 +975,6 @@
     {
       "added_at": "2023-11-27 09:00:14",
       "album": {
-        "name": "Chariot",
-        "url": "https://open.spotify.com/album/4WJwUq7DPoEgmfsR2fAQXl"
-      },
-      "artists": [
-        {
-          "name": "Mega",
-          "url": "https://open.spotify.com/artist/45xGatk4AWq9yzqOfolEWg"
-        }
-      ],
-      "duration_ms": 216755,
-      "name": "Chariot",
-      "url": "https://open.spotify.com/track/1eOuuW7VHBrIpwQ8drsPQN"
-    },
-    {
-      "added_at": "2023-11-27 09:00:14",
-      "album": {
         "name": "I Speak Because I Can",
         "url": "https://open.spotify.com/album/7x98osNfh0aUookqE7MMQ1"
       },
@@ -1007,18 +991,18 @@
     {
       "added_at": "2023-11-27 09:00:14",
       "album": {
-        "name": "Barton Hollow",
-        "url": "https://open.spotify.com/album/4uWgDFxGAp7XlVSHuVBv4E"
+        "name": "Chariot",
+        "url": "https://open.spotify.com/album/4WJwUq7DPoEgmfsR2fAQXl"
       },
       "artists": [
         {
-          "name": "The Civil Wars",
-          "url": "https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE"
+          "name": "Mega",
+          "url": "https://open.spotify.com/artist/45xGatk4AWq9yzqOfolEWg"
         }
       ],
-      "duration_ms": 219466,
-      "name": "Poison & Wine",
-      "url": "https://open.spotify.com/track/4BFudy2Zbryi9a1KFad66B"
+      "duration_ms": 216755,
+      "name": "Chariot",
+      "url": "https://open.spotify.com/track/1eOuuW7VHBrIpwQ8drsPQN"
     },
     {
       "added_at": "2023-11-27 09:00:14",
@@ -1035,6 +1019,22 @@
       "duration_ms": 201174,
       "name": "Hiding Out In The Open",
       "url": "https://open.spotify.com/track/6Q34tUtXLuWst5c63ddQ7N"
+    },
+    {
+      "added_at": "2023-11-27 09:00:14",
+      "album": {
+        "name": "Barton Hollow",
+        "url": "https://open.spotify.com/album/4uWgDFxGAp7XlVSHuVBv4E"
+      },
+      "artists": [
+        {
+          "name": "The Civil Wars",
+          "url": "https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE"
+        }
+      ],
+      "duration_ms": 219466,
+      "name": "Poison & Wine",
+      "url": "https://open.spotify.com/track/4BFudy2Zbryi9a1KFad66B"
     },
     {
       "added_at": "2023-11-27 09:00:14",
@@ -1071,6 +1071,26 @@
     {
       "added_at": "2023-11-27 09:00:14",
       "album": {
+        "name": "Not Your Muse (Deluxe)",
+        "url": "https://open.spotify.com/album/3bqEvlGHE4amqPGZtdMnep"
+      },
+      "artists": [
+        {
+          "name": "Celeste",
+          "url": "https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc"
+        },
+        {
+          "name": "Gotts Street Park",
+          "url": "https://open.spotify.com/artist/2hwy5DELim1AxB1sHPqn4y"
+        }
+      ],
+      "duration_ms": 244693,
+      "name": "Lately",
+      "url": "https://open.spotify.com/track/2WRDu73mfK4aZiVucqs0PZ"
+    },
+    {
+      "added_at": "2023-11-27 09:00:14",
+      "album": {
         "name": "The Art Of Pretending To Swim",
         "url": "https://open.spotify.com/album/5qhqqenkgCAp3mCKczvvNU"
       },
@@ -1103,22 +1123,18 @@
     {
       "added_at": "2023-11-27 09:00:14",
       "album": {
-        "name": "Not Your Muse (Deluxe)",
-        "url": "https://open.spotify.com/album/3bqEvlGHE4amqPGZtdMnep"
+        "name": "Gold-Diggers Sound",
+        "url": "https://open.spotify.com/album/6pKaUDUnQiZgWLPZJqwkzn"
       },
       "artists": [
         {
-          "name": "Celeste",
-          "url": "https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc"
-        },
-        {
-          "name": "Gotts Street Park",
-          "url": "https://open.spotify.com/artist/2hwy5DELim1AxB1sHPqn4y"
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
         }
       ],
-      "duration_ms": 244693,
-      "name": "Lately",
-      "url": "https://open.spotify.com/track/2WRDu73mfK4aZiVucqs0PZ"
+      "duration_ms": 188617,
+      "name": "Motorbike",
+      "url": "https://open.spotify.com/track/3mMduiD8yb4IaS5tZKqSZy"
     },
     {
       "added_at": "2023-11-27 09:00:14",
@@ -1135,22 +1151,6 @@
       "duration_ms": 302578,
       "name": "Funny",
       "url": "https://open.spotify.com/track/0rcaFqednwwedMu68xpKlj"
-    },
-    {
-      "added_at": "2023-11-27 09:00:14",
-      "album": {
-        "name": "Gold-Diggers Sound",
-        "url": "https://open.spotify.com/album/6pKaUDUnQiZgWLPZJqwkzn"
-      },
-      "artists": [
-        {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
-        }
-      ],
-      "duration_ms": 188617,
-      "name": "Motorbike",
-      "url": "https://open.spotify.com/track/3mMduiD8yb4IaS5tZKqSZy"
     },
     {
       "added_at": "2023-11-27 09:00:14",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2023-11-27 09:00:14",
       "album": {
-        "name": "Fisherman's Woman",
-        "url": "https://open.spotify.com/album/5fPGV2BBurhFEE2d5AAWaq"
-      },
-      "artists": [
-        {
-          "name": "Emil\u00edana Torrini",
-          "url": "https://open.spotify.com/artist/08j69Ndyx1P7RLO3Janb5P"
-        }
-      ],
-      "duration_ms": 184533,
-      "name": "Sunny Road",
-      "url": "https://open.spotify.com/track/1QhN6ZjGqeRO6cDuE1H76q"
-    },
-    {
-      "added_at": "2023-11-27 09:00:14",
-      "album": {
         "name": "The World Within (Deluxe)",
         "url": "https://open.spotify.com/album/4fPZlK0nyB5bOXZdRnihUX"
       },
@@ -1227,18 +1211,18 @@
     {
       "added_at": "2023-11-27 09:00:14",
       "album": {
-        "name": "Proof Of Life (Deluxe)",
-        "url": "https://open.spotify.com/album/30lZLey3bIVaqxlkAnKrg4"
+        "name": "Fisherman's Woman",
+        "url": "https://open.spotify.com/album/5fPGV2BBurhFEE2d5AAWaq"
       },
       "artists": [
         {
-          "name": "Joy Oladokun",
-          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+          "name": "Emil\u00edana Torrini",
+          "url": "https://open.spotify.com/artist/08j69Ndyx1P7RLO3Janb5P"
         }
       ],
-      "duration_ms": 171700,
-      "name": "Black Car",
-      "url": "https://open.spotify.com/track/14mxkRSXKwq5vsx1xPUdau"
+      "duration_ms": 184533,
+      "name": "Sunny Road",
+      "url": "https://open.spotify.com/track/1QhN6ZjGqeRO6cDuE1H76q"
     },
     {
       "added_at": "2023-11-27 09:00:14",
@@ -1295,34 +1279,18 @@
     {
       "added_at": "2023-11-27 09:00:14",
       "album": {
-        "name": "Come on By",
-        "url": "https://open.spotify.com/album/0BNAxaSKj1NIDQQnEBYrOX"
+        "name": "Proof Of Life (Deluxe)",
+        "url": "https://open.spotify.com/album/30lZLey3bIVaqxlkAnKrg4"
       },
       "artists": [
         {
-          "name": "Ocie Elliott",
-          "url": "https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT"
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
         }
       ],
-      "duration_ms": 205093,
-      "name": "Come on By",
-      "url": "https://open.spotify.com/track/1zYY2CKpDuGchopm3RYSKy"
-    },
-    {
-      "added_at": "2023-11-27 09:00:14",
-      "album": {
-        "name": "Les jolies choses",
-        "url": "https://open.spotify.com/album/57xYVd9eZHdrETN1HlLkPI"
-      },
-      "artists": [
-        {
-          "name": "Polo & Pan",
-          "url": "https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM"
-        }
-      ],
-      "duration_ms": 222373,
-      "name": "Les jolies choses",
-      "url": "https://open.spotify.com/track/03WMhty0KQ2ppU30LiyKy4"
+      "duration_ms": 171700,
+      "name": "Black Car",
+      "url": "https://open.spotify.com/track/14mxkRSXKwq5vsx1xPUdau"
     },
     {
       "added_at": "2023-11-27 09:00:14",
@@ -1343,18 +1311,34 @@
     {
       "added_at": "2023-11-27 09:00:14",
       "album": {
-        "name": "Carrousel",
-        "url": "https://open.spotify.com/album/3qqBBlv9kDT4rDE1J3RvHR"
+        "name": "Les jolies choses",
+        "url": "https://open.spotify.com/album/57xYVd9eZHdrETN1HlLkPI"
       },
       "artists": [
         {
-          "name": "Styleto",
-          "url": "https://open.spotify.com/artist/4vbZKiwmvbbW6onily9SJ5"
+          "name": "Polo & Pan",
+          "url": "https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM"
         }
       ],
-      "duration_ms": 177196,
-      "name": "Gaffe aux autres",
-      "url": "https://open.spotify.com/track/05nHF22haxFM2aLYVUCHDe"
+      "duration_ms": 222373,
+      "name": "Les jolies choses",
+      "url": "https://open.spotify.com/track/03WMhty0KQ2ppU30LiyKy4"
+    },
+    {
+      "added_at": "2023-11-27 09:00:14",
+      "album": {
+        "name": "Come on By",
+        "url": "https://open.spotify.com/album/0BNAxaSKj1NIDQQnEBYrOX"
+      },
+      "artists": [
+        {
+          "name": "Ocie Elliott",
+          "url": "https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT"
+        }
+      ],
+      "duration_ms": 205093,
+      "name": "Come on By",
+      "url": "https://open.spotify.com/track/1zYY2CKpDuGchopm3RYSKy"
     },
     {
       "added_at": "2023-11-27 09:00:14",
@@ -1371,6 +1355,22 @@
       "duration_ms": 207133,
       "name": "Sharpness",
       "url": "https://open.spotify.com/track/2dk5HQv2V6hEVeGGlPvCFA"
+    },
+    {
+      "added_at": "2023-11-27 09:00:14",
+      "album": {
+        "name": "Carrousel",
+        "url": "https://open.spotify.com/album/3qqBBlv9kDT4rDE1J3RvHR"
+      },
+      "artists": [
+        {
+          "name": "Styleto",
+          "url": "https://open.spotify.com/artist/4vbZKiwmvbbW6onily9SJ5"
+        }
+      ],
+      "duration_ms": 177196,
+      "name": "Gaffe aux autres",
+      "url": "https://open.spotify.com/track/05nHF22haxFM2aLYVUCHDe"
     },
     {
       "added_at": "2023-11-27 09:00:14",
@@ -1439,6 +1439,22 @@
     {
       "added_at": "2023-11-27 09:00:14",
       "album": {
+        "name": "Surrender",
+        "url": "https://open.spotify.com/album/5FWqyyldyosXvAYesblpb5"
+      },
+      "artists": [
+        {
+          "name": "Birdy",
+          "url": "https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP"
+        }
+      ],
+      "duration_ms": 234240,
+      "name": "Surrender",
+      "url": "https://open.spotify.com/track/65cQkOFngSgj37Gnzp4ry4"
+    },
+    {
+      "added_at": "2023-11-27 09:00:14",
+      "album": {
         "name": "postcard from Berlin",
         "url": "https://open.spotify.com/album/4caQnHY05Lo2yrUmwgT6Ko"
       },
@@ -1455,22 +1471,6 @@
       "duration_ms": 194092,
       "name": "grapejuice",
       "url": "https://open.spotify.com/track/203Opyo455Pw6m4SCmQSVs"
-    },
-    {
-      "added_at": "2023-11-27 09:00:14",
-      "album": {
-        "name": "Surrender",
-        "url": "https://open.spotify.com/album/5FWqyyldyosXvAYesblpb5"
-      },
-      "artists": [
-        {
-          "name": "Birdy",
-          "url": "https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP"
-        }
-      ],
-      "duration_ms": 234240,
-      "name": "Surrender",
-      "url": "https://open.spotify.com/track/65cQkOFngSgj37Gnzp4ry4"
     },
     {
       "added_at": "2023-11-27 09:00:14",
@@ -1547,6 +1547,22 @@
     {
       "added_at": "2023-11-27 09:00:14",
       "album": {
+        "name": "La symphonie des \u00e9clairs",
+        "url": "https://open.spotify.com/album/5GoDO8a03bxSSxMCeYKfaW"
+      },
+      "artists": [
+        {
+          "name": "Zaho de Sagazan",
+          "url": "https://open.spotify.com/artist/38GSybQjdc6sxptciOkxMq"
+        }
+      ],
+      "duration_ms": 266422,
+      "name": "Dis-moi que tu m'aimes",
+      "url": "https://open.spotify.com/track/0bXcmXR5cotPsrFdWF1Rs9"
+    },
+    {
+      "added_at": "2023-11-27 09:00:14",
+      "album": {
         "name": "rose ave.",
         "url": "https://open.spotify.com/album/5roeGujs5AMWZHsxu0z1lZ"
       },
@@ -1575,22 +1591,6 @@
       "duration_ms": 281757,
       "name": "Mon idole",
       "url": "https://open.spotify.com/track/7hw9fHpl79i897B0wOmor8"
-    },
-    {
-      "added_at": "2023-11-27 09:00:14",
-      "album": {
-        "name": "La symphonie des \u00e9clairs",
-        "url": "https://open.spotify.com/album/5GoDO8a03bxSSxMCeYKfaW"
-      },
-      "artists": [
-        {
-          "name": "Zaho de Sagazan",
-          "url": "https://open.spotify.com/artist/38GSybQjdc6sxptciOkxMq"
-        }
-      ],
-      "duration_ms": 266422,
-      "name": "Dis-moi que tu m'aimes",
-      "url": "https://open.spotify.com/track/0bXcmXR5cotPsrFdWF1Rs9"
     },
     {
       "added_at": "2023-11-27 09:00:14",

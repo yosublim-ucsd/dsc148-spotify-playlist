@@ -1,12 +1,12 @@
 {
   "description": "Honramos la memoria de las leyendas de nuestra M\u00fasica Mexicana. Valent\u00edn Elizalde en portada. ",
-  "num_followers": 261167,
+  "num_followers": 261296,
   "original_name": "Inmortales de la M\u00fasica Mexicana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MjI2NDUzYWY0YTU1YWI0MjI5ZGE4NDFlZDQxODAxYTA5MzdlYmNh",
+  "snapshot_id": "MCwzYmIwOTUxMmYwMGUzZDk0NDcxOWMyZDc2ODU3NmM0OTM0YWUyMzk1",
   "tracks": [
     {
       "added_at": "2023-11-28 00:20:32",
@@ -743,22 +743,6 @@
     {
       "added_at": "2023-11-28 00:20:32",
       "album": {
-        "name": "20 Canciones Banda y Norteno",
-        "url": "https://open.spotify.com/album/7gct4wYWnkGa4lm44P8Lgt"
-      },
-      "artists": [
-        {
-          "name": "Tito Torbellino",
-          "url": "https://open.spotify.com/artist/0c2yelD6HE33WZYXbn8CEJ"
-        }
-      ],
-      "duration_ms": 195866,
-      "name": "Cosas Del Diablo",
-      "url": "https://open.spotify.com/track/5AWc1V5Tou8j8lF9ngc3cg"
-    },
-    {
-      "added_at": "2023-11-28 00:20:32",
-      "album": {
         "name": "Millonario De Amor",
         "url": "https://open.spotify.com/album/13d6INVzyUnmbJlFEjvZMQ"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 222866,
       "name": "Millonario De Amor",
       "url": "https://open.spotify.com/track/7LCymER3kimMSSMBnuyEub"
+    },
+    {
+      "added_at": "2023-11-28 00:20:32",
+      "album": {
+        "name": "20 Canciones Banda y Norteno",
+        "url": "https://open.spotify.com/album/7gct4wYWnkGa4lm44P8Lgt"
+      },
+      "artists": [
+        {
+          "name": "Tito Torbellino",
+          "url": "https://open.spotify.com/artist/0c2yelD6HE33WZYXbn8CEJ"
+        }
+      ],
+      "duration_ms": 195866,
+      "name": "Cosas Del Diablo",
+      "url": "https://open.spotify.com/track/5AWc1V5Tou8j8lF9ngc3cg"
     },
     {
       "added_at": "2023-11-28 00:20:32",

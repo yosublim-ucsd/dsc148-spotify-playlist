@@ -6539,6 +6539,32 @@
     },
     {
       "album": {
+        "name": "Don't Tempt Me Baby...",
+        "url": "https://open.spotify.com/album/6y5G5DVYchSEwlFui34a4N"
+      },
+      "artists": [
+        {
+          "name": "First and Forever",
+          "url": "https://open.spotify.com/artist/4yoepOpyKCDc3xDj0fX21r"
+        },
+        {
+          "name": "Magnolia Park",
+          "url": "https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY"
+        },
+        {
+          "name": "Joshua Roberts",
+          "url": "https://open.spotify.com/artist/5KrUtVY5gE9p9U52TT42rR"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156395,
+      "name": "Don't Tempt Me Baby...",
+      "url": "https://open.spotify.com/track/1qWdq5lpytNveivQlgs1fq"
+    },
+    {
+      "album": {
         "name": "Don't Try",
         "url": "https://open.spotify.com/album/1BatTwoG80XJPrGk670SZX"
       },

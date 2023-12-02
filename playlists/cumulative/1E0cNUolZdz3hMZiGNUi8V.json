@@ -85,6 +85,32 @@
     },
     {
       "album": {
+        "name": "ATL Freestyle 1 & 2 (feat. Luh Tyler & Rob49)",
+        "url": "https://open.spotify.com/album/1jMmpW08K37Nt7EOOA5hdQ"
+      },
+      "artists": [
+        {
+          "name": "Veeze",
+          "url": "https://open.spotify.com/artist/0B3kMiB21aPQlKumGDr4c7"
+        },
+        {
+          "name": "Luh Tyler",
+          "url": "https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz"
+        },
+        {
+          "name": "Rob49",
+          "url": "https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127741,
+      "name": "ATL Freestyle 1 (feat. Luh Tyler & Rob49)",
+      "url": "https://open.spotify.com/track/3R2EmO9cHZ2JRogQR2C9zL"
+    },
+    {
+      "album": {
         "name": "Bachelor",
         "url": "https://open.spotify.com/album/5csXVq16N67kRKWhgUmWpk"
       },
@@ -520,7 +546,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 179612,
       "name": "Get Lucki",
       "url": "https://open.spotify.com/track/2Lesv91L9paVZjIPpu0jx6"
@@ -568,6 +594,28 @@
       "duration_ms": 249515,
       "name": "Head Doctor (with Lil Tecca)",
       "url": "https://open.spotify.com/track/2DcmnusqpMEEVTXQRNhuHc"
+    },
+    {
+      "album": {
+        "name": "Le\u2019Paris",
+        "url": "https://open.spotify.com/album/6qvXFMRQ7bNq1zpPU5ua4I"
+      },
+      "artists": [
+        {
+          "name": "OMB Peezy",
+          "url": "https://open.spotify.com/artist/1QdCkPulANBEZiaiAyLkak"
+        },
+        {
+          "name": "Tee Grizzley",
+          "url": "https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163249,
+      "name": "Hell Yeah (feat. Tee Grizzley)",
+      "url": "https://open.spotify.com/track/0ioOlQyJQKHMyi4OGPOEYf"
     },
     {
       "album": {
@@ -902,7 +950,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 159549,
       "name": "Okay Bet Pt. 2 (feat. Skilla Baby)",
       "url": "https://open.spotify.com/track/5ULeTthsfnh8av4MiKWHga"
@@ -1191,6 +1239,28 @@
     },
     {
       "album": {
+        "name": "Snot (feat. Gucci Mane)",
+        "url": "https://open.spotify.com/album/329mW6xxdEU6hWNbjTTNP7"
+      },
+      "artists": [
+        {
+          "name": "Big Scarr",
+          "url": "https://open.spotify.com/artist/579LsvZcRVKtToYjS0tkKz"
+        },
+        {
+          "name": "Gucci Mane",
+          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182461,
+      "name": "Snot (feat. Gucci Mane)",
+      "url": "https://open.spotify.com/track/5edHOpjlQGXX0KF8d1pLOv"
+    },
+    {
+      "album": {
         "name": "Talk To Em (feat. Veeze)",
         "url": "https://open.spotify.com/album/6gGFoQNndkYJq5Dt5oK8fT"
       },
@@ -1232,7 +1302,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 353754,
       "name": "TELEKINESIS (feat. SZA & Future)",
       "url": "https://open.spotify.com/track/1i9lZvlaDdWDPyXEE95aiq"

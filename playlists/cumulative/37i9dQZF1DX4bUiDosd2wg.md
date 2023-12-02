@@ -4,7 +4,7 @@
 
 > 90\-00년대 세기말 감성을 함께 했던 그 때 그 발라드 감성을 만나보세요.
 
-224 songs - 16 hr 15 min
+225 songs - 16 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -224,7 +224,8 @@
 | [체념](https://open.spotify.com/track/5xWiXwC6q5YQ9JaHB5ItLt) | [발라드 킹](https://open.spotify.com/artist/1UtCxV3b9LdwGZpF8GHfBM) | [발라드 인기 가요 베스트 1집](https://open.spotify.com/album/3uXVbrYyd9FhM0GwDvdxMs) | 4:56 | 2021-04-21 |  |
 | [총맞은것처럼](https://open.spotify.com/track/1TnykJShAmwjk8y1WZSD3W) | [Baek Ji Young](https://open.spotify.com/artist/3l0MJ9LCiBlMyOMaz485Q5) | [Sensibility](https://open.spotify.com/album/3afqlbSrXUtzJex07fQF7E) | 3:59 | 2021-04-21 |  |
 | [추억은 사랑을 닮아](https://open.spotify.com/track/0MjRPE2eH1ZQm9DC3BtZyq) | [Park Hyo Shin](https://open.spotify.com/artist/57htMBtzpppc1yoXgjbslj) | [The Breeze Of Sea](https://open.spotify.com/album/0bWcrwRhhxMaweFaBA8G1S) | 5:29 | 2021-04-21 |  |
-| [편지](https://open.spotify.com/track/7x4ZCeYY5ihBsL7mXcN4TM) | [Kim Jong Kook](https://open.spotify.com/artist/60YNqzrSj7rJkuqHkpHPqG), [경서](https://open.spotify.com/artist/5IKE5kjQDEqRpROolvILZJ) | [판타스틱 듀오 Part.13](https://open.spotify.com/album/2BCByuEjdYUHbCI8SbsxAU) | 5:18 | 2021-04-21 |  |
+| [편지](https://open.spotify.com/track/63iyjzP7bRIOtf0SxYLziU) | [Kim Jong Kook](https://open.spotify.com/artist/60YNqzrSj7rJkuqHkpHPqG), [경서](https://open.spotify.com/artist/5IKE5kjQDEqRpROolvILZJ) | [Fantastic Duo Part.13](https://open.spotify.com/album/4mkv2DmvSNxeQG5PTE3keG) | 5:18 | 2021-04-21 |  |
+| [편지](https://open.spotify.com/track/7x4ZCeYY5ihBsL7mXcN4TM) | [Kim Jong Kook](https://open.spotify.com/artist/60YNqzrSj7rJkuqHkpHPqG), [경서](https://open.spotify.com/artist/5IKE5kjQDEqRpROolvILZJ) | [판타스틱 듀오 Part.13](https://open.spotify.com/album/2BCByuEjdYUHbCI8SbsxAU) | 5:18 | 2021-04-21 | 2023-12-02 |
 | [편지할게요](https://open.spotify.com/track/43YpsYj6YW2kDPF06CsGZR) | [Lena Park](https://open.spotify.com/artist/7MNyflLAWpaH0EPw1fdORD) | [사랑해 \(Part.2\)](https://open.spotify.com/album/1Qjjlnra3hF2xAKGmuJ2zQ) | 4:46 | 2021-04-21 |  |
 | [편지할게요](https://open.spotify.com/track/0jHRtgWauzb1mkANquNQ5T) | [Lena Park](https://open.spotify.com/artist/7MNyflLAWpaH0EPw1fdORD) | [사랑해 Pt 2](https://open.spotify.com/album/5MBUlTj7xtUnmXgNxl0Cp5) | 4:46 | 2021-04-21 | 2023-08-09 |
 | [한 남자](https://open.spotify.com/track/0KjswKgBYLO65T674Hvldc) | [Kim Jong Kook](https://open.spotify.com/artist/60YNqzrSj7rJkuqHkpHPqG) | [Evolution](https://open.spotify.com/album/127CxMmFX7bctgIccMVPib) | 4:18 | 2021-04-21 |  |

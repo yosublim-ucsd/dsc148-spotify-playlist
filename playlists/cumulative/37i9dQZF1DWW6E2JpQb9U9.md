@@ -4,7 +4,7 @@
 
 > Rock en vivo de la A a la Z, de ayer, de hoy y de siempre..\. ¡Canten ustedes! Foto: Eruca Sativa & Marilina Bertoldi
 
-298 songs - 22 hr 17 min
+299 songs - 22 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -206,7 +206,7 @@
 | [Panic Show \- En Directo Desde Estadio De Huracán Buenos Aires / 2001](https://open.spotify.com/track/3uyCoLdG9s4fZGPoj8B2tn) | [La Renga](https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C) | [Insoportablemente Vivo \(En Directo Desde Estadio De Huracán Buenos Aires / 2001\)](https://open.spotify.com/album/5cgGmPTXGyysE1ShAqPh0x) | 3:38 | 2022-06-24 |  |
 | [Panic Show \- Live](https://open.spotify.com/track/5imJJUpdG3p7VpLNqIb75l) | [La Renga](https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C) | [Insoportablemente Vivo](https://open.spotify.com/album/7N0ZseL9dDJRCUfLSMDTrK) | 3:38 | 2022-04-01 | 2022-07-29 |
 | [Panorama \- En Vivo en el Teatro Ópera](https://open.spotify.com/track/0GT0Cd39K5Rvbar6QNHRu1) | [Turf](https://open.spotify.com/artist/0Zncosr79q01riJYbSBNA1) | [En Vivo en el Teatro Ópera](https://open.spotify.com/album/7x0aE1wk7VQYNFtCES9nL6) | 4:03 | 2022-04-01 | 2022-07-28 |
-| [Pantalla Del Mundo Nuevo](https://open.spotify.com/track/4YbGxcfzDt4vDFUA3RcB5M) | [Riff](https://open.spotify.com/artist/3IyuxBX0pwXqbeFI4DWmhG) | [Pantalla Del Mundo Nuevo \(En Vivo En B.A.Rock\)](https://open.spotify.com/album/6vt2QGdahU0tGtmXHqIv56) | 6:50 | 2023-11-23 |  |
+| [Pantalla Del Mundo Nuevo](https://open.spotify.com/track/4YbGxcfzDt4vDFUA3RcB5M) | [Riff](https://open.spotify.com/artist/3IyuxBX0pwXqbeFI4DWmhG) | [Pantalla Del Mundo Nuevo \(En Vivo En B.A.Rock\)](https://open.spotify.com/album/6vt2QGdahU0tGtmXHqIv56) | 6:50 | 2023-11-23 | 2023-12-02 |
 | [Par Mil \- En Vivo](https://open.spotify.com/track/5uKSOIW61UtM1VD8nzsIqe) | [Divididos](https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx) | [Tilcara: El Recital](https://open.spotify.com/album/6SdhYfsSNFXe0cNgMEdkgR) | 4:12 | 2022-09-09 | 2023-07-09 |
 | [Para las Almas Sensibles \- En Vivo](https://open.spotify.com/track/53rOvzrY1XciuQh0mPQLMU) | [Pez](https://open.spotify.com/artist/00demsNI1p5KmzWGlrnrdh) | [Una Noche en el Ópera \(En Vivo\)](https://open.spotify.com/album/3UABaqEy05y9oRktWZNoB7) | 4:05 | 2022-04-01 | 2022-07-17 |
 | [Para Que Sigamos Siendo \(En Vivo Estadio Obras\)](https://open.spotify.com/track/4dOghAt99V7KcMlPf7eKP7) | [Eruca Sativa](https://open.spotify.com/artist/2RPNbhguRnI9uqahGYcUc6) | [XV Años \- En Vivo Estadio Obras](https://open.spotify.com/album/7unx0aGfSv4shjF38D3qwX) | 6:17 | 2023-09-21 |  |
@@ -291,6 +291,7 @@
 | [Un Millón de Amor \- En Vivo](https://open.spotify.com/track/0Ak3bTXnMbnaqMu0s6wLdq) | [Los Rancheros](https://open.spotify.com/artist/5zAgd4w0pUkadSSRAz9Z7Q) | [Un Millón de Amor \(En Vivo\)](https://open.spotify.com/album/2ViEo8xClSubdAP5a59mzb) | 3:55 | 2022-06-10 | 2022-07-06 |
 | [Un Osito de Peluche de Taiwan \- En Vivo en el Foro Sol](https://open.spotify.com/track/2NpLEVMOC12Tw789HdYRVS) | [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj) | [Foro Sol \- 17 Nov 2017 \(En Vivo\)](https://open.spotify.com/album/15BaEoAe29NVQamVLZtlht) | 4:30 | 2022-04-01 | 2022-07-28 |
 | [Una Nueva Noche Fria \- Vivo \- Mezclado y Masterizado 2017](https://open.spotify.com/track/4Fckaw7KFh4qXmwwVp6mDJ) | [Callejeros](https://open.spotify.com/artist/2osoVujXgV0PA8lhqDKYFw) | [Concierto Obras 30 y 31 Julio, Parte Uno \(En Vivo\)](https://open.spotify.com/album/7CiCajBytiFZ69hJUny0s4) | 4:27 | 2022-04-01 |  |
+| [Una Persona Especial \(En Vivo\)](https://open.spotify.com/track/0ba0fBNrr6wuOzPXtIcvht) | [Smitten](https://open.spotify.com/artist/6b12ezIOzhz60P3CASuEtL) | [En Vivo en Chile Volumen 2](https://open.spotify.com/album/6FDXSzTmfZ1sVYf6D81HGv) | 2:25 | 2023-12-01 |  |
 | [Una Vez Más \- En Vivo](https://open.spotify.com/track/34u37vgTwh2wl3ZH5u2nfs) | [Viejas Locas](https://open.spotify.com/artist/7wTu5u7W3kc9Id5JAvSAFV), [Juanse](https://open.spotify.com/artist/5AQlQBU9LCmQwReukeom2I) | [Una Vez Más \(En Vivo\)](https://open.spotify.com/album/20akHhz1vnjUSwHcHjVnB2) | 4:49 | 2023-10-26 |  |
 | [Una Vez Más \- En Vivo](https://open.spotify.com/track/3x7KnlNcfrvfNRYHb9mk0A) | [Viejas Locas](https://open.spotify.com/artist/7wTu5u7W3kc9Id5JAvSAFV), [Juanse](https://open.spotify.com/artist/5AQlQBU9LCmQwReukeom2I) | [Una Vez Más \(En Vivo\)](https://open.spotify.com/album/1U6EoDtF3m3oddpw0LHunn) | 4:49 | 2023-09-14 | 2023-10-22 |
 | [Vení Raquel \- Vivo en el Palacio de los Deportes](https://open.spotify.com/track/3yueohHxyvXlaPQ5tWAUsV) | [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj) | [En Vivo en el Palacio de los Deportes \- 25 Aniversario](https://open.spotify.com/album/7gSe5tBOrBERCFvQgR6TsC) | 3:06 | 2022-04-01 | 2023-10-07 |

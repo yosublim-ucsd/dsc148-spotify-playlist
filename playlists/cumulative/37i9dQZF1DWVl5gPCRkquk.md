@@ -4,12 +4,12 @@
 
 > Channel some chilled\-out back yard vibes.
 
-295 songs - 18 hr 28 min
+296 songs - 18 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [...Familiar Place](https://open.spotify.com/track/0lp0bQqzyLmNNHHFYRaaJf) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [No Burden](https://open.spotify.com/album/6Ru52lwXvbPaAMSdyPOFsL) | 2:55 | 2021-10-29 | 2022-04-21 |
-| [...Familiar Place](https://open.spotify.com/track/0rHMGnd6wIgaF67ANAVdyC) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [No Burden](https://open.spotify.com/album/7lQ9R31OcTvMn2MojAuKVE) | 2:55 | 2022-04-15 |  |
+| [...Familiar Place](https://open.spotify.com/track/0rHMGnd6wIgaF67ANAVdyC) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [No Burden](https://open.spotify.com/album/7lQ9R31OcTvMn2MojAuKVE) | 2:55 | 2022-04-15 | 2023-12-02 |
 | [A Mermaid in Lisbon](https://open.spotify.com/track/6A8BvPrNOo5l1j3c80KhAb) | [Patrick Watson](https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM), [Teresa Salgueiro](https://open.spotify.com/artist/49W26EcOwY0UdytNfa3zGH) | [A Mermaid in Lisbon](https://open.spotify.com/album/1NnqLqMQgh9ftyQPtUuKJd) | 3:28 | 2021-10-29 |  |
 | [Adeline](https://open.spotify.com/track/0zGT1LYrHksqJkupsazmKb) | [Penny and Sparrow](https://open.spotify.com/artist/65o6y7GtoXzchyiJB3r9Ur) | [Adeline](https://open.spotify.com/album/0FpjVDZbJCK19vglA6T8B1) | 3:08 | 2021-10-29 | 2023-05-15 |
 | [Airplane](https://open.spotify.com/track/1PkGXXmXURIC0Zwil4MmKT) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Heaven](https://open.spotify.com/album/6aWsHOGYXoEY1kxnxGMLwU) | 4:00 | 2023-09-29 |  |
@@ -80,6 +80,7 @@
 | [doomsday](https://open.spotify.com/track/4WjxtORnwPavm5PDsAWJEc) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [five seconds flat](https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD) | 4:28 | 2022-10-07 |  |
 | [doomsday](https://open.spotify.com/track/6bpZMLiRQDm2XcjZudu3xV) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [five seconds flat](https://open.spotify.com/album/7vh3nkUP7HlDQIeSm7Ht6N) | 4:28 | 2022-04-15 | 2022-10-13 |
 | [Down \(Exit Song\)](https://open.spotify.com/track/4mw2XX72WZ43X7QcrrlIf9) | [Wingtip](https://open.spotify.com/artist/1Eie0tY91rpi7Y0jtIOXzI), [Bre Kennedy](https://open.spotify.com/artist/61oqMHI8QuFrE5Qt91uJAj) | [Down \(Exit Song\)](https://open.spotify.com/album/78SFR8C0xd8wt4vDuhxmqK) | 3:07 | 2023-05-12 | 2023-09-07 |
+| [Dream Girl](https://open.spotify.com/track/7zHItKmLm1pMO3GsxwJyJi) | [Esther Rose](https://open.spotify.com/artist/2oHUiSQkf9M1TELQvNJJPs) | [Safe to Run](https://open.spotify.com/album/7GHJMPBiTYcEQ3jPbv8eed) | 3:17 | 2023-12-01 |  |
 | [Dreamers](https://open.spotify.com/track/74892qRbe5YeOnlPAYZzoG) | [Mighty Oaks](https://open.spotify.com/artist/5AVJt6VYXT4hMRP8D3MRAC) | [Dreamers](https://open.spotify.com/album/56iF3zN01TJO6yhr1HCVfA) | 3:27 | 2022-04-15 | 2022-04-21 |
 | [Dublin, Texas](https://open.spotify.com/track/2OhnZjTg7evaWdAtRJ5B1c) | [RF Shannon](https://open.spotify.com/artist/46CVdgJTvxMLcMqZ7YY0b5) | [Dublin, Texas](https://open.spotify.com/album/2yJ45g1GWeNubkv8o6wGPW) | 4:29 | 2021-10-29 | 2022-11-13 |
 | [Easy Rider](https://open.spotify.com/track/12AZ6nSJdq3bYgVeza8nSE) | [Eddie Berman](https://open.spotify.com/artist/7FfxvcUIbQ1VxrApeoq8ql) | [Easy Rider](https://open.spotify.com/album/0ttq5m5vbcZNkRm85wDXh7) | 3:49 | 2021-10-29 | 2022-05-10 |
@@ -111,7 +112,7 @@
 | [Follow You](https://open.spotify.com/track/0ukHQwbkc9Tikwus91vQVM) | [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H) | [Follow You / Sunfish](https://open.spotify.com/album/3h8qLAWZIdhZYEprKJ6bER) | 3:49 | 2021-10-29 | 2022-06-12 |
 | [Get Me Out of Here](https://open.spotify.com/track/2ODqwVvfhMZlzivpr4q07w) | [Caleb Elliott](https://open.spotify.com/artist/0ubsTbLcwOTtBgs9AqYafk) | [Get Me Out of Here](https://open.spotify.com/album/3by6C0jQ7x8YyfZB3s8VCs) | 3:29 | 2021-10-29 | 2022-07-29 |
 | [Give Me Time](https://open.spotify.com/track/4HERQ0HbqpL604wsLWDAPJ) | [Cereus Bright](https://open.spotify.com/artist/3zt4I5TLIb0Z9RigaiHe5G) | [Give Me Time](https://open.spotify.com/album/4lpCZTEciW91x5EOPHIjtN) | 5:39 | 2021-10-29 | 2022-07-28 |
-| [Going Going Gone \- Edit](https://open.spotify.com/track/60IxJQA2o7CJ5GFO7DTd9T) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [Going Going Gone \(Edit\)](https://open.spotify.com/album/5HDDr1fWzsEaZzbv0gNs9j) | 2:47 | 2021-10-29 | 2022-07-29 |
+| [Going Going Gone \- Edit](https://open.spotify.com/track/60IxJQA2o7CJ5GFO7DTd9T) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [Going Going Gone \(Edit\)](https://open.spotify.com/album/5HDDr1fWzsEaZzbv0gNs9j) | 2:47 | 2021-10-29 |  |
 | [Going Where the Lonely Go](https://open.spotify.com/track/1obqA76qNSGEnN4kTafsQw) | [Robert Plant](https://open.spotify.com/artist/1OwarW4LEHnoep20ixRA0y), [Alison Krauss](https://open.spotify.com/artist/5J6L7N6B4nI1M5cwa29mQG) | [Raise The Roof \(Deluxe Edition\)](https://open.spotify.com/album/48wFAtpgBV5rUTTDrNKCoN) | 4:10 | 2021-11-19 | 2022-07-29 |
 | [Going Where The Lonely Go](https://open.spotify.com/track/4MTpZs4wIJ4SpqMkh0CMuJ) | [Robert Plant](https://open.spotify.com/artist/1OwarW4LEHnoep20ixRA0y), [Alison Krauss](https://open.spotify.com/artist/5J6L7N6B4nI1M5cwa29mQG) | [Raise The Roof](https://open.spotify.com/album/5CQ3SOj1ZgudhbsTLcTTI2) | 4:10 | 2022-04-15 | 2022-11-13 |
 | [Golden State](https://open.spotify.com/track/45xzjdv3RJdGtSBbDyKg0t) | [Logan Ledger](https://open.spotify.com/artist/4KcXOZaofRdvBDl0b8LOYM) | [Golden State](https://open.spotify.com/album/4rUeKNbWM0XQwbkojQSMFI) | 4:24 | 2023-07-28 | 2023-08-12 |
@@ -122,7 +123,7 @@
 | [Heavy Metal Heart](https://open.spotify.com/track/5lLImAUUwxvZgR5ttivI7M) | [The Blessing Business](https://open.spotify.com/artist/2EZCT6ZL6Gb4pCiXQCkeet) | [Heavy Metal Heart](https://open.spotify.com/album/5MNqC4Po5g4wdCxYmY1Flx) | 4:32 | 2022-04-15 | 2022-04-20 |
 | [Held Down](https://open.spotify.com/track/1vlDwedZUvYaxt2FXoYGaJ) | [Laura Marling](https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM) | [Song For Our Daughter](https://open.spotify.com/album/0ubXthGSkZfe30Nuj91lcu) | 4:07 | 2021-10-29 |  |
 | [Helena](https://open.spotify.com/track/5m6VfXYeZVBj5JDeaOlQMX) | [Damien Jurado](https://open.spotify.com/artist/79JJCxCCfJ8HufX6w8q2k4) | [Helena](https://open.spotify.com/album/4Vs0Yj81FkAjjTXtBTVEqC) | 2:47 | 2021-10-29 | 2022-07-28 |
-| [Helpless](https://open.spotify.com/track/3HqAL42mdJwmdjjUBh78ht) | [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE), [Old Crow Medicine Show](https://open.spotify.com/artist/4DBi4EYXgiqbkxvWUXUzMi) | [Helpless](https://open.spotify.com/album/396OTSPq4V7Rxw6y8RmvGA) | 4:25 | 2021-10-29 |  |
+| [Helpless](https://open.spotify.com/track/3HqAL42mdJwmdjjUBh78ht) | [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE), [Old Crow Medicine Show](https://open.spotify.com/artist/4DBi4EYXgiqbkxvWUXUzMi) | [Helpless](https://open.spotify.com/album/396OTSPq4V7Rxw6y8RmvGA) | 4:25 | 2021-10-29 | 2023-12-02 |
 | [Here Comes The Comeback](https://open.spotify.com/track/42X7jGOwOJIW1cEFLvaytf) | [Mitch Rowland](https://open.spotify.com/artist/5AH3J6o4zTwo2tADpRiQRZ) | [Here Comes The Comeback](https://open.spotify.com/album/7An2n1nwYUoH8JpmQMEjB7) | 2:42 | 2023-09-15 |  |
 | [Hiding Out In The Open](https://open.spotify.com/track/3S8fsWbSzwTAbyRXWnLugk) | [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [Multitudes](https://open.spotify.com/album/2uDbIwcvfGsMEbzeU3iyoU) | 3:21 | 2023-04-14 | 2023-04-26 |
 | [Hiding Out In The Open](https://open.spotify.com/track/6Q34tUtXLuWst5c63ddQ7N) | [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [Multitudes](https://open.spotify.com/album/1p4Q0pUvvURdCwC842Abjn) | 3:21 | 2023-04-21 |  |

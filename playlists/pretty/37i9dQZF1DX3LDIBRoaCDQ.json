@@ -1,12 +1,12 @@
 {
   "description": "Classic songs that built the foundations of punk.",
-  "num_followers": 1544931,
+  "num_followers": 1545133,
   "original_name": "Classic Punk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZmE4OWY5YmIyZjI0YjI5YTk4Zjc0ZDMzZDAwZjc3YjZhNDIxNzYy",
+  "snapshot_id": "MCxkMjQwMDliYjE5MjRjYmFlNjFjZjhjNjUyMzI1MzVjMzJkOGRkZTQx",
   "tracks": [
     {
       "added_at": "2022-11-28 15:26:19",
@@ -271,22 +271,6 @@
     {
       "added_at": "2022-11-28 15:26:19",
       "album": {
-        "name": "This Year's Model (2021 Remaster)",
-        "url": "https://open.spotify.com/album/4RLIesiAVONV4fOUlOSmr4"
-      },
-      "artists": [
-        {
-          "name": "Elvis Costello & The Attractions",
-          "url": "https://open.spotify.com/artist/4qmHkMxr6pTWh5Zo74odpH"
-        }
-      ],
-      "duration_ms": 196680,
-      "name": "Pump It Up - 2021 Remaster",
-      "url": "https://open.spotify.com/track/3oyc1mIdCBGaU55wX7otqM"
-    },
-    {
-      "added_at": "2022-11-28 15:26:19",
-      "album": {
         "name": "Suicidal Tendencies",
         "url": "https://open.spotify.com/album/4hLSbWJ8HL8MUfIwrTP2EO"
       },
@@ -299,6 +283,22 @@
       "duration_ms": 229960,
       "name": "Institutionalized",
       "url": "https://open.spotify.com/track/7G83ZwD2msTtFaBQExc8QB"
+    },
+    {
+      "added_at": "2022-11-28 15:26:19",
+      "album": {
+        "name": "This Year's Model (2021 Remaster)",
+        "url": "https://open.spotify.com/album/4RLIesiAVONV4fOUlOSmr4"
+      },
+      "artists": [
+        {
+          "name": "Elvis Costello & The Attractions",
+          "url": "https://open.spotify.com/artist/4qmHkMxr6pTWh5Zo74odpH"
+        }
+      ],
+      "duration_ms": 196680,
+      "name": "Pump It Up - 2021 Remaster",
+      "url": "https://open.spotify.com/track/3oyc1mIdCBGaU55wX7otqM"
     },
     {
       "added_at": "2022-11-28 15:26:19",
@@ -567,22 +567,6 @@
     {
       "added_at": "2022-11-28 15:26:19",
       "album": {
-        "name": "Adolescents",
-        "url": "https://open.spotify.com/album/4qwDRyH5SwFcjyoOJKbE2d"
-      },
-      "artists": [
-        {
-          "name": "Adolescents",
-          "url": "https://open.spotify.com/artist/2sSmGd0x45FGBtjJwNBSFr"
-        }
-      ],
-      "duration_ms": 186626,
-      "name": "Amoeba",
-      "url": "https://open.spotify.com/track/1xQE0QHrmJUQweLoMB0ZWC"
-    },
-    {
-      "added_at": "2022-11-28 15:26:19",
-      "album": {
         "name": "First Two Seven Inches",
         "url": "https://open.spotify.com/album/6Sty6rLnMTXFjKxKUZEfmy"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 45160,
       "name": "Straight Edge",
       "url": "https://open.spotify.com/track/1x8N5sNHdQtY328uP5DxIp"
+    },
+    {
+      "added_at": "2022-11-28 15:26:19",
+      "album": {
+        "name": "Adolescents",
+        "url": "https://open.spotify.com/album/4qwDRyH5SwFcjyoOJKbE2d"
+      },
+      "artists": [
+        {
+          "name": "Adolescents",
+          "url": "https://open.spotify.com/artist/2sSmGd0x45FGBtjJwNBSFr"
+        }
+      ],
+      "duration_ms": 186626,
+      "name": "Amoeba",
+      "url": "https://open.spotify.com/track/1xQE0QHrmJUQweLoMB0ZWC"
     },
     {
       "added_at": "2022-11-28 15:26:19",
@@ -1031,18 +1031,18 @@
     {
       "added_at": "2022-11-28 15:26:19",
       "album": {
-        "name": "A Million In Prizes: Iggy Pop Anthology (Edited Version)",
-        "url": "https://open.spotify.com/album/39vZUsVRUvo1l2HwR7Cfpg"
+        "name": "Young, Loud And Snotty",
+        "url": "https://open.spotify.com/album/6SiRxD9eeJELm4TR8C6MDJ"
       },
       "artists": [
         {
-          "name": "Iggy Pop",
-          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+          "name": "Dead Boys",
+          "url": "https://open.spotify.com/artist/4RjtLUZNqLtMpRKIOaVokc"
         }
       ],
-      "duration_ms": 280826,
-      "name": "The Passenger",
-      "url": "https://open.spotify.com/track/6pkv89yzv9kw6Vxhz8nSIH"
+      "duration_ms": 189333,
+      "name": "Sonic Reducer",
+      "url": "https://open.spotify.com/track/678Fh7cIfN1sLqxsj5sc2G"
     },
     {
       "added_at": "2022-11-28 15:26:19",
@@ -1063,18 +1063,18 @@
     {
       "added_at": "2022-11-28 15:26:19",
       "album": {
-        "name": "Young, Loud And Snotty",
-        "url": "https://open.spotify.com/album/6SiRxD9eeJELm4TR8C6MDJ"
+        "name": "A Million In Prizes: Iggy Pop Anthology (Edited Version)",
+        "url": "https://open.spotify.com/album/39vZUsVRUvo1l2HwR7Cfpg"
       },
       "artists": [
         {
-          "name": "Dead Boys",
-          "url": "https://open.spotify.com/artist/4RjtLUZNqLtMpRKIOaVokc"
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
         }
       ],
-      "duration_ms": 189333,
-      "name": "Sonic Reducer",
-      "url": "https://open.spotify.com/track/678Fh7cIfN1sLqxsj5sc2G"
+      "duration_ms": 280826,
+      "name": "The Passenger",
+      "url": "https://open.spotify.com/track/6pkv89yzv9kw6Vxhz8nSIH"
     },
     {
       "added_at": "2022-11-28 15:26:19",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2022-11-28 15:26:19",
       "album": {
-        "name": "Q: Are We Not Men? A: We Are Devo!",
-        "url": "https://open.spotify.com/album/1u2Qni8cVRptDTaA00fmBC"
-      },
-      "artists": [
-        {
-          "name": "DEVO",
-          "url": "https://open.spotify.com/artist/0UKfenbZb15sqhfPC6zbt3"
-        }
-      ],
-      "duration_ms": 297733,
-      "name": "Gut Feeling / (Slap Your Mammy)",
-      "url": "https://open.spotify.com/track/2vFaBeQqDVZW9SiJeiM4LU"
-    },
-    {
-      "added_at": "2022-11-28 15:26:19",
-      "album": {
         "name": "Damned Damned Damned",
         "url": "https://open.spotify.com/album/0iMjUB1YIMadcP8DClMDU2"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 163346,
       "name": "Neat Neat Neat",
       "url": "https://open.spotify.com/track/6cxU2pWVkqoBfuBsKGma62"
+    },
+    {
+      "added_at": "2022-11-28 15:26:19",
+      "album": {
+        "name": "Q: Are We Not Men? A: We Are Devo!",
+        "url": "https://open.spotify.com/album/1u2Qni8cVRptDTaA00fmBC"
+      },
+      "artists": [
+        {
+          "name": "DEVO",
+          "url": "https://open.spotify.com/artist/0UKfenbZb15sqhfPC6zbt3"
+        }
+      ],
+      "duration_ms": 297733,
+      "name": "Gut Feeling / (Slap Your Mammy)",
+      "url": "https://open.spotify.com/track/2vFaBeQqDVZW9SiJeiM4LU"
     },
     {
       "added_at": "2022-11-28 15:26:19",
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2022-11-28 15:26:19",
       "album": {
-        "name": "The Anthology 1965-1971",
-        "url": "https://open.spotify.com/album/6dQ1UaaiYqkubZz0QscTfG"
-      },
-      "artists": [
-        {
-          "name": "MC5",
-          "url": "https://open.spotify.com/artist/4WquJweZPIK9qcfVFhTKvf"
-        }
-      ],
-      "duration_ms": 183823,
-      "name": "Kick Out The Jams (Original Uncensored Version)",
-      "url": "https://open.spotify.com/track/5mSZLysuAtdNA21mbOm0sx"
-    },
-    {
-      "added_at": "2022-11-28 15:26:19",
-      "album": {
         "name": "Can I Say",
         "url": "https://open.spotify.com/album/6eSqKJG6HCmYmUUrJWtR93"
       },
@@ -1427,6 +1411,22 @@
       "duration_ms": 166560,
       "name": "Circles",
       "url": "https://open.spotify.com/track/6JLYifKMF5DbeyxsVvGubh"
+    },
+    {
+      "added_at": "2022-11-28 15:26:19",
+      "album": {
+        "name": "The Anthology 1965-1971",
+        "url": "https://open.spotify.com/album/6dQ1UaaiYqkubZz0QscTfG"
+      },
+      "artists": [
+        {
+          "name": "MC5",
+          "url": "https://open.spotify.com/artist/4WquJweZPIK9qcfVFhTKvf"
+        }
+      ],
+      "duration_ms": 183823,
+      "name": "Kick Out The Jams (Original Uncensored Version)",
+      "url": "https://open.spotify.com/track/5mSZLysuAtdNA21mbOm0sx"
     },
     {
       "added_at": "2022-11-28 15:26:19",
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2022-11-28 15:26:19",
       "album": {
-        "name": "Big Lizard In My Backyard",
-        "url": "https://open.spotify.com/album/6N8dOvnSvUMYQWBxC4uZeV"
-      },
-      "artists": [
-        {
-          "name": "The Dead Milkmen",
-          "url": "https://open.spotify.com/artist/2fhngmJMaaKcdhXHCa4cPK"
-        }
-      ],
-      "duration_ms": 109133,
-      "name": "Dean's Dream",
-      "url": "https://open.spotify.com/track/7zkGSISikPcskwsVQ5vKqW"
-    },
-    {
-      "added_at": "2022-11-28 15:26:19",
-      "album": {
         "name": "Damned Damned Damned",
         "url": "https://open.spotify.com/album/0iMjUB1YIMadcP8DClMDU2"
       },
@@ -1507,6 +1491,22 @@
       "duration_ms": 164013,
       "name": "New Rose",
       "url": "https://open.spotify.com/track/2RqX92TwDYaChAyfX9tKMH"
+    },
+    {
+      "added_at": "2022-11-28 15:26:19",
+      "album": {
+        "name": "Big Lizard In My Backyard",
+        "url": "https://open.spotify.com/album/6N8dOvnSvUMYQWBxC4uZeV"
+      },
+      "artists": [
+        {
+          "name": "The Dead Milkmen",
+          "url": "https://open.spotify.com/artist/2fhngmJMaaKcdhXHCa4cPK"
+        }
+      ],
+      "duration_ms": 109133,
+      "name": "Dean's Dream",
+      "url": "https://open.spotify.com/track/7zkGSISikPcskwsVQ5vKqW"
     },
     {
       "added_at": "2022-11-28 15:26:19",

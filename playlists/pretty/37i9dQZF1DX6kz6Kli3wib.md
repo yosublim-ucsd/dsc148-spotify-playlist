@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6kz6Kli3wib.md) - [plain]
 
 > Soft electronic music for your dinner.
 
-[Spotify](https://open.spotify.com/user/spotify) - 164,221 likes - 136 songs - 6 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 164,261 likes - 136 songs - 6 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,25 +19,25 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6kz6Kli3wib.md) - [plain]
 | 9 | [Croix Coast](https://open.spotify.com/track/0jcpgo5z47py0nTtl77Hi5) | [Bluet](https://open.spotify.com/artist/5embwI2sWarwmiyd82DNtI) | [Croix Coast](https://open.spotify.com/album/6gRyaztUc8C29WRQ4kWwuA) | 3:11 |
 | 10 | [Timshel](https://open.spotify.com/track/57I8KVxB1hLmjgkmif49kB) | [Verdacci](https://open.spotify.com/artist/3qmIRttgBXWlN3T7frBg1e) | [Timshel](https://open.spotify.com/album/2rAnRq1iKlxJLGJCfJQlKJ) | 3:17 |
 | 11 | [No Place I Rather Be](https://open.spotify.com/track/0rB5lOXnUMJkzszGtzoDXL) | [Avenue Oceän](https://open.spotify.com/artist/2phbZYVWph9FDtqbbYkjiH) | [No Place I Rather Be](https://open.spotify.com/album/1tbIZzd6Tb0cRDNMJl2wFC) | 2:35 |
-| 12 | [Posh](https://open.spotify.com/track/4FSMSdyw42rD66HHawn2Ur) | [Everyday Elegant](https://open.spotify.com/artist/4oHaTYncF2buToofw62wHO) | [Posh](https://open.spotify.com/album/1GpTCaPVpVL5leRQixh1qQ) | 2:21 |
-| 13 | [Last Call](https://open.spotify.com/track/6ygeLzsdN6NrxDVcGWlV0u) | [Mandoja](https://open.spotify.com/artist/0BBuIQuQkbPCu68yfdkmmH) | [Last Call](https://open.spotify.com/album/5UlDa30dE4XZP1G5hCdr5P) | 2:52 |
-| 14 | [Sultry Sun](https://open.spotify.com/track/0eVgyPTBj8yNjN2eaUiAVr) | [Ealot](https://open.spotify.com/artist/6sJse0O3SfTxVeFiG1D4Mq) | [Sultry Sun](https://open.spotify.com/album/1LUNQlnOc4fJUAuY5elK5q) | 3:00 |
-| 15 | [New Curtains](https://open.spotify.com/track/2q0AjgcOv5xiOF0zgiue0X) | [Finn Horizon](https://open.spotify.com/artist/4y19AUiBySss0zxq6dqNve) | [New Curtains](https://open.spotify.com/album/4mdyReFr4Zb31zDj6CFbBd) | 2:36 |
-| 16 | [2 is 1](https://open.spotify.com/track/3UBFbgJfGzOMa7rCUA4bRY) | [Jeremy Hoist](https://open.spotify.com/artist/5p5NVu6OfzW6dn4g1bFTPA) | [2 is 1](https://open.spotify.com/album/4j8xQD1q8qVNU1EvBlJo0w) | 2:12 |
-| 17 | [Only You](https://open.spotify.com/track/24Q5fLUIJ6OBv2h4fvzayF) | [Y Factor](https://open.spotify.com/artist/6Y0ggx6f5Fsb6hQF3Ge2tJ) | [Only You](https://open.spotify.com/album/0FNJ08trynaYdVegTEPSo9) | 1:51 |
-| 18 | [Core Memories](https://open.spotify.com/track/1FjGlhlZu0qFjRgro5J3VH) | [Folta Tres](https://open.spotify.com/artist/1iLaFy9DHbJz1Bmc19mSoe) | [Core Memories](https://open.spotify.com/album/2D1otRSyfy1b5x4eVUz0Dx) | 2:10 |
-| 19 | [Little Things](https://open.spotify.com/track/4ITZMLhFDxgoH8b4dWAqkB) | [Folta Tres](https://open.spotify.com/artist/1iLaFy9DHbJz1Bmc19mSoe) | [Little Things](https://open.spotify.com/album/7CoUgGrEeQ87OjzYwvrLKn) | 2:43 |
-| 20 | [Chamomile](https://open.spotify.com/track/6RG9iT0BaXGFgqJGVz0Bli) | [Hello Papyrus](https://open.spotify.com/artist/7te6RqAY9rZmgnmZKEkQCv) | [Chamomile](https://open.spotify.com/album/0EJvZ56RhbTwzzkIePeCPi) | 2:18 |
-| 21 | [Junior year](https://open.spotify.com/track/6GNE6gOgeSwJFLzbgLmpUm) | [The Pleasure Principle](https://open.spotify.com/artist/2P9Z65sQszXemqiA6s71es) | [Junior year](https://open.spotify.com/album/4yDolhmaOvIpqyetVIURhr) | 2:54 |
-| 22 | [Clavicula](https://open.spotify.com/track/7eh9aE0YNF2qNY4LfRZmfA) | [Dec Léor](https://open.spotify.com/artist/6X7BrtwoFiGzjfYNrBHeeN) | [Clavicula](https://open.spotify.com/album/39dzg3N8B8DP4k7Am5p761) | 2:47 |
-| 23 | [Whispers](https://open.spotify.com/track/6BtDIJo7YKYtRypNZXEdNg) | [Palo Santo](https://open.spotify.com/artist/52lmTJ5n4YL6wqaVelJ3mJ) | [Whispers](https://open.spotify.com/album/7vqb57yzCf3uGhEKlfqmj4) | 3:21 |
-| 24 | [Lotus Sunset](https://open.spotify.com/track/2hExpSS1RhXGbwLxNkN9kl) | [Purple Waves](https://open.spotify.com/artist/0KJ2P4KrAgSoL8dg3Bpoc1) | [Lotus Sunset](https://open.spotify.com/album/309fHqqPE7jrXrnydkaaDK) | 2:12 |
-| 25 | [Dizzy Street](https://open.spotify.com/track/3bweBh2zXCHPwQyOTgA07S) | [Sum Wave](https://open.spotify.com/artist/0bfdnPaHczaQt6tYe8J4Ci) | [The Sidewalk](https://open.spotify.com/album/4LJKxdM1lAvuVLs0LxlqS6) | 3:53 |
-| 26 | [Vancouver Nights](https://open.spotify.com/track/78jUuUa2Vjcoz3FkxHeFBY) | [Pat Jr](https://open.spotify.com/artist/7F6eGe9WVjyshqDIdZo4KJ) | [Vancouver Nights](https://open.spotify.com/album/0CFaHYDepNmazENxPMz64P) | 2:39 |
-| 27 | [The Lagoon](https://open.spotify.com/track/4IMYKdOmUjOxsYKHZ4Ufbl) | [Slow](https://open.spotify.com/artist/5II01coLXrJeSFThmONDoB) | [The Lagoon](https://open.spotify.com/album/014h15avf8lcxBMYKl1rA4) | 2:56 |
-| 28 | [Old Fashioned](https://open.spotify.com/track/50VvyaIar4rnXV1twzQF8j) | [AVEVO](https://open.spotify.com/artist/2NH3ru36Tjtp62Mm3Mz2k3) | [Old Fashioned](https://open.spotify.com/album/5WpXyo5UI39l08h14H3gYe) | 2:39 |
-| 29 | [Degrees](https://open.spotify.com/track/7MKGzP89oekcEczUyKdjSs) | [Pocket Nine](https://open.spotify.com/artist/50EEE2w7CNIP7RDQuewOPU) | [Degrees](https://open.spotify.com/album/5hKWCcrzBHkmEdFnSSAmeR) | 2:29 |
-| 30 | [Magashi](https://open.spotify.com/track/7tONyJJejLCK78e4xX7xa8) | [Ørn](https://open.spotify.com/artist/2g8oDoqZwwzpF6Km7f0kp2) | [Magashi](https://open.spotify.com/album/6yKU6BYwDtZMwo3xLGHqTv) | 3:13 |
+| 12 | [Coconut Breeze](https://open.spotify.com/track/4kO6yKGT81BjnfSCzH6HMc) | [Conte Prad](https://open.spotify.com/artist/0ieNGPIGBwKTkc7fPXXigX) | [Coconut Breeze](https://open.spotify.com/album/3QoGyBUVm0IEbgwop3Ozlz) | 2:28 |
+| 13 | [Posh](https://open.spotify.com/track/4FSMSdyw42rD66HHawn2Ur) | [Everyday Elegant](https://open.spotify.com/artist/4oHaTYncF2buToofw62wHO) | [Posh](https://open.spotify.com/album/1GpTCaPVpVL5leRQixh1qQ) | 2:21 |
+| 14 | [Last Call](https://open.spotify.com/track/6ygeLzsdN6NrxDVcGWlV0u) | [Mandoja](https://open.spotify.com/artist/0BBuIQuQkbPCu68yfdkmmH) | [Last Call](https://open.spotify.com/album/5UlDa30dE4XZP1G5hCdr5P) | 2:52 |
+| 15 | [Sultry Sun](https://open.spotify.com/track/0eVgyPTBj8yNjN2eaUiAVr) | [Ealot](https://open.spotify.com/artist/6sJse0O3SfTxVeFiG1D4Mq) | [Sultry Sun](https://open.spotify.com/album/1LUNQlnOc4fJUAuY5elK5q) | 3:00 |
+| 16 | [New Curtains](https://open.spotify.com/track/2q0AjgcOv5xiOF0zgiue0X) | [Finn Horizon](https://open.spotify.com/artist/4y19AUiBySss0zxq6dqNve) | [New Curtains](https://open.spotify.com/album/4mdyReFr4Zb31zDj6CFbBd) | 2:36 |
+| 17 | [2 is 1](https://open.spotify.com/track/3UBFbgJfGzOMa7rCUA4bRY) | [Jeremy Hoist](https://open.spotify.com/artist/5p5NVu6OfzW6dn4g1bFTPA) | [2 is 1](https://open.spotify.com/album/4j8xQD1q8qVNU1EvBlJo0w) | 2:12 |
+| 18 | [Only You](https://open.spotify.com/track/24Q5fLUIJ6OBv2h4fvzayF) | [Y Factor](https://open.spotify.com/artist/6Y0ggx6f5Fsb6hQF3Ge2tJ) | [Only You](https://open.spotify.com/album/0FNJ08trynaYdVegTEPSo9) | 1:51 |
+| 19 | [Core Memories](https://open.spotify.com/track/1FjGlhlZu0qFjRgro5J3VH) | [Folta Tres](https://open.spotify.com/artist/1iLaFy9DHbJz1Bmc19mSoe) | [Core Memories](https://open.spotify.com/album/2D1otRSyfy1b5x4eVUz0Dx) | 2:10 |
+| 20 | [Little Things](https://open.spotify.com/track/4ITZMLhFDxgoH8b4dWAqkB) | [Folta Tres](https://open.spotify.com/artist/1iLaFy9DHbJz1Bmc19mSoe) | [Little Things](https://open.spotify.com/album/7CoUgGrEeQ87OjzYwvrLKn) | 2:43 |
+| 21 | [Chamomile](https://open.spotify.com/track/6RG9iT0BaXGFgqJGVz0Bli) | [Hello Papyrus](https://open.spotify.com/artist/7te6RqAY9rZmgnmZKEkQCv) | [Chamomile](https://open.spotify.com/album/0EJvZ56RhbTwzzkIePeCPi) | 2:18 |
+| 22 | [Junior year](https://open.spotify.com/track/6GNE6gOgeSwJFLzbgLmpUm) | [The Pleasure Principle](https://open.spotify.com/artist/2P9Z65sQszXemqiA6s71es) | [Junior year](https://open.spotify.com/album/4yDolhmaOvIpqyetVIURhr) | 2:54 |
+| 23 | [Clavicula](https://open.spotify.com/track/7eh9aE0YNF2qNY4LfRZmfA) | [Dec Léor](https://open.spotify.com/artist/6X7BrtwoFiGzjfYNrBHeeN) | [Clavicula](https://open.spotify.com/album/39dzg3N8B8DP4k7Am5p761) | 2:47 |
+| 24 | [Whispers](https://open.spotify.com/track/6BtDIJo7YKYtRypNZXEdNg) | [Palo Santo](https://open.spotify.com/artist/52lmTJ5n4YL6wqaVelJ3mJ) | [Whispers](https://open.spotify.com/album/7vqb57yzCf3uGhEKlfqmj4) | 3:21 |
+| 25 | [Lotus Sunset](https://open.spotify.com/track/2hExpSS1RhXGbwLxNkN9kl) | [Purple Waves](https://open.spotify.com/artist/0KJ2P4KrAgSoL8dg3Bpoc1) | [Lotus Sunset](https://open.spotify.com/album/309fHqqPE7jrXrnydkaaDK) | 2:12 |
+| 26 | [Dizzy Street](https://open.spotify.com/track/3bweBh2zXCHPwQyOTgA07S) | [Sum Wave](https://open.spotify.com/artist/0bfdnPaHczaQt6tYe8J4Ci) | [The Sidewalk](https://open.spotify.com/album/4LJKxdM1lAvuVLs0LxlqS6) | 3:53 |
+| 27 | [Vancouver Nights](https://open.spotify.com/track/78jUuUa2Vjcoz3FkxHeFBY) | [Pat Jr](https://open.spotify.com/artist/7F6eGe9WVjyshqDIdZo4KJ) | [Vancouver Nights](https://open.spotify.com/album/0CFaHYDepNmazENxPMz64P) | 2:39 |
+| 28 | [The Lagoon](https://open.spotify.com/track/4IMYKdOmUjOxsYKHZ4Ufbl) | [Slow](https://open.spotify.com/artist/5II01coLXrJeSFThmONDoB) | [The Lagoon](https://open.spotify.com/album/014h15avf8lcxBMYKl1rA4) | 2:56 |
+| 29 | [Old Fashioned](https://open.spotify.com/track/50VvyaIar4rnXV1twzQF8j) | [AVEVO](https://open.spotify.com/artist/2NH3ru36Tjtp62Mm3Mz2k3) | [Old Fashioned](https://open.spotify.com/album/5WpXyo5UI39l08h14H3gYe) | 2:39 |
+| 30 | [Degrees](https://open.spotify.com/track/7MKGzP89oekcEczUyKdjSs) | [Pocket Nine](https://open.spotify.com/artist/50EEE2w7CNIP7RDQuewOPU) | [Degrees](https://open.spotify.com/album/5hKWCcrzBHkmEdFnSSAmeR) | 2:29 |
 | 31 | [Bar](https://open.spotify.com/track/7EZSvOOlvauQDamANeoSOy) | [Del Mare](https://open.spotify.com/artist/2EzJoeY1p5s3JpM97YH67Y) | [Bar](https://open.spotify.com/album/1IYeFjTQK6XIlXesQNU8Ag) | 2:19 |
 | 32 | [Carpet Care](https://open.spotify.com/track/2QFdlJGilcv9oxFfFvsL9x) | [GRNY](https://open.spotify.com/artist/0QAkOxdHSnNUsk1WlTXKOu) | [Carpet Care](https://open.spotify.com/album/0v0fIWyDKeQiSANpojIncc) | 2:40 |
 | 33 | [Badlands](https://open.spotify.com/track/6sCPRdgnJOn6G4wCzK3w9M) | [Baron Malice](https://open.spotify.com/artist/4gfiUPAVRdak4CJ8RCxaxe) | [Badlands](https://open.spotify.com/album/6NB72FT20VgR36jf8ECIGr) | 2:53 |
@@ -145,4 +145,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6kz6Kli3wib.md) - [plain]
 | 135 | [Summer Haze](https://open.spotify.com/track/5hroJun9AzlCNFDC7ScBol) | [André Aguado](https://open.spotify.com/artist/6USxBSmx4wkhLW61dT1DgC) | [Summer Haze](https://open.spotify.com/album/7lZSOlmlbo5nfmXaNtZSzw) | 3:15 |
 | 136 | [Numberless](https://open.spotify.com/track/5ZDSl9sx8sDxzrrcAddsJm) | [Himari Aoki](https://open.spotify.com/artist/5wymut0det0V9Vf6l8t0mD) | [Numberless](https://open.spotify.com/album/4u2RN3NRm5qXEkI7eE0E24) | 2:46 |
 
-Snapshot ID: `MCw5ZjMzNmI5NDQ3MDI4N2E5MGNhYTc2ODUzMjZlMTc4M2RjODJmNDI0`
+Snapshot ID: `MCwzZWE4NjlhYzU0ZjQxNjc0MDk2YzJmN2YyMzExZGQxM2MzODAzOWNl`

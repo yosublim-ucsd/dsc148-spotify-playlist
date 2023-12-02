@@ -1,12 +1,12 @@
 {
   "description": "The best indie songs from all decades for your Halloween party",
-  "num_followers": 79235,
+  "num_followers": 79261,
   "original_name": "Indie Halloween",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZDY5NjY0MGRmMTcxNTdlZmEyNGIwY2U0ODdmMGU4MzExNjI1Yzkz",
+  "snapshot_id": "MCwxNzU3OTQzYTJhYWFiNDdkY2UxYWM0YTJhMWI3OTU0ZDI2M2IxYTEx",
   "tracks": [
     {
       "added_at": "2023-10-27 07:45:00",
@@ -683,22 +683,6 @@
     {
       "added_at": "2023-10-27 07:45:00",
       "album": {
-        "name": "Valley Ghoul",
-        "url": "https://open.spotify.com/album/5FxIFpKhK6juAjoMzYmypW"
-      },
-      "artists": [
-        {
-          "name": "Provoker",
-          "url": "https://open.spotify.com/artist/62s5q1tm3UAcRnbGY9CCI9"
-        }
-      ],
-      "duration_ms": 182778,
-      "name": "Valley Ghoul",
-      "url": "https://open.spotify.com/track/4Gpvffa23tFfBjbusONE01"
-    },
-    {
-      "added_at": "2023-10-27 07:45:00",
-      "album": {
         "name": "A Weekend in the City",
         "url": "https://open.spotify.com/album/5qGqM14bpZCa1qQ7jt5W7R"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 210146,
       "name": "Hunting for Witches",
       "url": "https://open.spotify.com/track/64i71pjySnBlA7P46uSGZ7"
+    },
+    {
+      "added_at": "2023-10-27 07:45:00",
+      "album": {
+        "name": "Valley Ghoul",
+        "url": "https://open.spotify.com/album/5FxIFpKhK6juAjoMzYmypW"
+      },
+      "artists": [
+        {
+          "name": "Provoker",
+          "url": "https://open.spotify.com/artist/62s5q1tm3UAcRnbGY9CCI9"
+        }
+      ],
+      "duration_ms": 182778,
+      "name": "Valley Ghoul",
+      "url": "https://open.spotify.com/track/4Gpvffa23tFfBjbusONE01"
     },
     {
       "added_at": "2023-10-27 07:45:00",
@@ -779,6 +779,22 @@
     {
       "added_at": "2023-10-27 07:45:00",
       "album": {
+        "name": "The Physical World",
+        "url": "https://open.spotify.com/album/22sYnou2SavBZHHFVUTmWs"
+      },
+      "artists": [
+        {
+          "name": "Death From Above 1979",
+          "url": "https://open.spotify.com/artist/18H0sAptzdwid08XGg1Lcj"
+        }
+      ],
+      "duration_ms": 185386,
+      "name": "Right On, Frankenstein!",
+      "url": "https://open.spotify.com/track/32XH0vxdpKpcJ80NSpRbbz"
+    },
+    {
+      "added_at": "2023-10-27 07:45:00",
+      "album": {
         "name": "A Quick One (Expanded Edition)",
         "url": "https://open.spotify.com/album/6f4mqM3RNAfO1t6XeeUa8P"
       },
@@ -807,22 +823,6 @@
       "duration_ms": 255666,
       "name": "Scarecrow",
       "url": "https://open.spotify.com/track/1GcdexGpXcR9dZhhRj5zAr"
-    },
-    {
-      "added_at": "2023-10-27 07:45:00",
-      "album": {
-        "name": "The Physical World",
-        "url": "https://open.spotify.com/album/22sYnou2SavBZHHFVUTmWs"
-      },
-      "artists": [
-        {
-          "name": "Death From Above 1979",
-          "url": "https://open.spotify.com/artist/18H0sAptzdwid08XGg1Lcj"
-        }
-      ],
-      "duration_ms": 185386,
-      "name": "Right On, Frankenstein!",
-      "url": "https://open.spotify.com/track/32XH0vxdpKpcJ80NSpRbbz"
     },
     {
       "added_at": "2023-10-27 07:45:00",
@@ -923,18 +923,18 @@
     {
       "added_at": "2023-10-27 07:45:00",
       "album": {
-        "name": "Bad Moon Rising",
-        "url": "https://open.spotify.com/album/5qZwFWvjfQF6uqrtMaCbO6"
+        "name": "Friendly Fires",
+        "url": "https://open.spotify.com/album/3sGsbbZGQqc3npPtdlAgnU"
       },
       "artists": [
         {
-          "name": "Sonic Youth",
-          "url": "https://open.spotify.com/artist/5UqTO8smerMvxHYA5xsXb6"
+          "name": "Friendly Fires",
+          "url": "https://open.spotify.com/artist/3mZqziCJj4pq3P2VBpmK6p"
         }
       ],
-      "duration_ms": 311200,
-      "name": "Halloween",
-      "url": "https://open.spotify.com/track/3DN3nPW5VDyGa48ELeXPU0"
+      "duration_ms": 213640,
+      "name": "Skeleton Boy",
+      "url": "https://open.spotify.com/track/0O2UcLBP75ugJ8DxskP8gz"
     },
     {
       "added_at": "2023-10-27 07:45:00",
@@ -955,18 +955,34 @@
     {
       "added_at": "2023-10-27 07:45:00",
       "album": {
-        "name": "Friendly Fires",
-        "url": "https://open.spotify.com/album/3sGsbbZGQqc3npPtdlAgnU"
+        "name": "Bad Moon Rising",
+        "url": "https://open.spotify.com/album/5qZwFWvjfQF6uqrtMaCbO6"
       },
       "artists": [
         {
-          "name": "Friendly Fires",
-          "url": "https://open.spotify.com/artist/3mZqziCJj4pq3P2VBpmK6p"
+          "name": "Sonic Youth",
+          "url": "https://open.spotify.com/artist/5UqTO8smerMvxHYA5xsXb6"
         }
       ],
-      "duration_ms": 213640,
-      "name": "Skeleton Boy",
-      "url": "https://open.spotify.com/track/0O2UcLBP75ugJ8DxskP8gz"
+      "duration_ms": 311200,
+      "name": "Halloween",
+      "url": "https://open.spotify.com/track/3DN3nPW5VDyGa48ELeXPU0"
+    },
+    {
+      "added_at": "2023-10-27 07:45:00",
+      "album": {
+        "name": "Frankenstein",
+        "url": "https://open.spotify.com/album/48ULeYOIxptWfLQdebRfVB"
+      },
+      "artists": [
+        {
+          "name": "Editors",
+          "url": "https://open.spotify.com/artist/6e9wIFWhBPHLE9bXK8gtBI"
+        }
+      ],
+      "duration_ms": 268186,
+      "name": "Frankenstein",
+      "url": "https://open.spotify.com/track/2N0vFGHku7wNk66Aw5HZSR"
     },
     {
       "added_at": "2023-10-27 07:45:00",
@@ -987,18 +1003,18 @@
     {
       "added_at": "2023-10-27 07:45:00",
       "album": {
-        "name": "Frankenstein",
-        "url": "https://open.spotify.com/album/48ULeYOIxptWfLQdebRfVB"
+        "name": "We Need Medicine",
+        "url": "https://open.spotify.com/album/7otPYa5dSxdo2WLgQKnaM7"
       },
       "artists": [
         {
-          "name": "Editors",
-          "url": "https://open.spotify.com/artist/6e9wIFWhBPHLE9bXK8gtBI"
+          "name": "The Fratellis",
+          "url": "https://open.spotify.com/artist/3M4ThdJR28z9eSMcQHAZ5G"
         }
       ],
-      "duration_ms": 268186,
-      "name": "Frankenstein",
-      "url": "https://open.spotify.com/track/2N0vFGHku7wNk66Aw5HZSR"
+      "duration_ms": 196893,
+      "name": "Halloween Blues",
+      "url": "https://open.spotify.com/track/3vJXnhcUZLWRiQWYpFSTpW"
     },
     {
       "added_at": "2023-10-27 07:45:00",
@@ -1051,22 +1067,6 @@
     {
       "added_at": "2023-10-27 07:45:00",
       "album": {
-        "name": "We Need Medicine",
-        "url": "https://open.spotify.com/album/7otPYa5dSxdo2WLgQKnaM7"
-      },
-      "artists": [
-        {
-          "name": "The Fratellis",
-          "url": "https://open.spotify.com/artist/3M4ThdJR28z9eSMcQHAZ5G"
-        }
-      ],
-      "duration_ms": 196893,
-      "name": "Halloween Blues",
-      "url": "https://open.spotify.com/track/3vJXnhcUZLWRiQWYpFSTpW"
-    },
-    {
-      "added_at": "2023-10-27 07:45:00",
-      "album": {
         "name": "Zombie Prom (Hallowe'en At Home Edition)",
         "url": "https://open.spotify.com/album/6PQJubA12Yap1KhrUruMfW"
       },
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2023-10-27 07:45:00",
       "album": {
-        "name": "Keep On Your Mean Side",
-        "url": "https://open.spotify.com/album/7yosQ283GvPYGzKBjp6gzk"
-      },
-      "artists": [
-        {
-          "name": "The Kills",
-          "url": "https://open.spotify.com/artist/5BYuBzqmTXwUDw2rYkwExr"
-        }
-      ],
-      "duration_ms": 280133,
-      "name": "Superstition",
-      "url": "https://open.spotify.com/track/5Cl0OsI6tM9hakvx0GJMGQ"
-    },
-    {
-      "added_at": "2023-10-27 07:45:00",
-      "album": {
         "name": "Beat the Devil's Tattoo",
         "url": "https://open.spotify.com/album/7tSapn3n98ZkK3B1EXEGII"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 235746,
       "name": "River Styx",
       "url": "https://open.spotify.com/track/4X5BZo70kQoOcDN2KlbrPC"
+    },
+    {
+      "added_at": "2023-10-27 07:45:00",
+      "album": {
+        "name": "Keep On Your Mean Side",
+        "url": "https://open.spotify.com/album/7yosQ283GvPYGzKBjp6gzk"
+      },
+      "artists": [
+        {
+          "name": "The Kills",
+          "url": "https://open.spotify.com/artist/5BYuBzqmTXwUDw2rYkwExr"
+        }
+      ],
+      "duration_ms": 280133,
+      "name": "Superstition",
+      "url": "https://open.spotify.com/track/5Cl0OsI6tM9hakvx0GJMGQ"
     },
     {
       "added_at": "2023-10-27 07:45:00",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2023-10-27 07:45:00",
       "album": {
-        "name": "Hit to Death in the Future Head",
-        "url": "https://open.spotify.com/album/1lynS5ouWEeWeMNT0XLqpJ"
-      },
-      "artists": [
-        {
-          "name": "The Flaming Lips",
-          "url": "https://open.spotify.com/artist/16eRpMNXSQ15wuJoeqguaB"
-        }
-      ],
-      "duration_ms": 342693,
-      "name": "Halloween on the Barbary Coast",
-      "url": "https://open.spotify.com/track/7q7nZbhTbQotDE2P5vIJPL"
-    },
-    {
-      "added_at": "2023-10-27 07:45:00",
-      "album": {
         "name": "Whip It On",
         "url": "https://open.spotify.com/album/1beQ4oVlpOV8hr8WIoUouF"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 150293,
       "name": "Attack of the Ghost Riders",
       "url": "https://open.spotify.com/track/39us5jxLPBBrBMqCx8crY7"
+    },
+    {
+      "added_at": "2023-10-27 07:45:00",
+      "album": {
+        "name": "Hit to Death in the Future Head",
+        "url": "https://open.spotify.com/album/1lynS5ouWEeWeMNT0XLqpJ"
+      },
+      "artists": [
+        {
+          "name": "The Flaming Lips",
+          "url": "https://open.spotify.com/artist/16eRpMNXSQ15wuJoeqguaB"
+        }
+      ],
+      "duration_ms": 342693,
+      "name": "Halloween on the Barbary Coast",
+      "url": "https://open.spotify.com/track/7q7nZbhTbQotDE2P5vIJPL"
     },
     {
       "added_at": "2023-10-27 07:45:00",
@@ -1275,18 +1275,18 @@
     {
       "added_at": "2023-10-27 07:45:00",
       "album": {
-        "name": "Drowaton",
-        "url": "https://open.spotify.com/album/2juHcXKlRhdcmu0BrM2eBw"
+        "name": "Head of the Love Club",
+        "url": "https://open.spotify.com/album/2cwCSDQhVHVtHzv2N8paST"
       },
       "artists": [
         {
-          "name": "Starlight Mints",
-          "url": "https://open.spotify.com/artist/1PUcFRu2DyznyQS1nVIcEE"
+          "name": "Gretel H\u00e4nlyn",
+          "url": "https://open.spotify.com/artist/39HYn2OCDJFkUauHXqwBsG"
         }
       ],
-      "duration_ms": 162320,
-      "name": "Pumpkin",
-      "url": "https://open.spotify.com/track/0AhZO6ezTf9wIY3SySkqnl"
+      "duration_ms": 175500,
+      "name": "Little Vampire",
+      "url": "https://open.spotify.com/track/2DNynwcArXc2rYXgJxuBZ2"
     }
   ],
   "unique_name": "Indie Halloween",

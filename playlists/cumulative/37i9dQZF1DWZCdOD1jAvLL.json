@@ -748,7 +748,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 243200,
       "name": "Asteroid",
       "url": "https://open.spotify.com/track/3twU0ngWzakD9k07Kb5eoV"
@@ -2222,7 +2222,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 138011,
       "name": "Closer",
       "url": "https://open.spotify.com/track/5qyNFGdbQxkYExSUeqVA9F"
@@ -2996,7 +2996,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 215111,
       "name": "Dream Sequence",
       "url": "https://open.spotify.com/track/1YrVLt1ET4GzwS3HfOcxWw"
@@ -3438,7 +3438,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-25",
+      "date_removed": null,
       "duration_ms": 134148,
       "name": "Empress - Zeds Dead Remix",
       "url": "https://open.spotify.com/track/5w9XTPbDewcXuKaseMFwlj"
@@ -4284,7 +4284,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 159252,
       "name": "Fuck Right Off",
       "url": "https://open.spotify.com/track/7tu0XNOoQxBm4TpvRx8e65"
@@ -7725,6 +7725,24 @@
     },
     {
       "album": {
+        "name": "Needle On The Record",
+        "url": "https://open.spotify.com/album/7E0q2fAykseBKfLY7X53jJ"
+      },
+      "artists": [
+        {
+          "name": "Riordan",
+          "url": "https://open.spotify.com/artist/68rU1sdZ0HjxjEC5YnSmao"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186625,
+      "name": "Needle On The Record",
+      "url": "https://open.spotify.com/track/5qKuF0NtvWVn5UarAgyli3"
+    },
+    {
+      "album": {
         "name": "Neon Light",
         "url": "https://open.spotify.com/album/5DaX9gwbS4GNdEDbNPlMND"
       },
@@ -8354,6 +8372,24 @@
       "duration_ms": 160629,
       "name": "One More Time",
       "url": "https://open.spotify.com/track/16qzW0XywVLTpAhCwPH8y6"
+    },
+    {
+      "album": {
+        "name": "One Pill",
+        "url": "https://open.spotify.com/album/7EeBTWpH1hiiL8ttysUTio"
+      },
+      "artists": [
+        {
+          "name": "VNSSA",
+          "url": "https://open.spotify.com/artist/6fjbZ7zQBYEy3kvB5JL5PM"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217946,
+      "name": "One Pill",
+      "url": "https://open.spotify.com/track/3C74wo9oewRgcvMj14O7Xu"
     },
     {
       "album": {
@@ -10141,6 +10177,32 @@
     },
     {
       "album": {
+        "name": "Seismic",
+        "url": "https://open.spotify.com/album/0YzIqCBSxVyubwfHwJX4IQ"
+      },
+      "artists": [
+        {
+          "name": "AC Slater",
+          "url": "https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc"
+        },
+        {
+          "name": "Chris Lorenzo",
+          "url": "https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj"
+        },
+        {
+          "name": "Fly With Us",
+          "url": "https://open.spotify.com/artist/5bCPEdvvv1s0CBBiuYc5eL"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208125,
+      "name": "Seismic",
+      "url": "https://open.spotify.com/track/7pZJ7jGR6skYEkIYpjIE8b"
+    },
+    {
+      "album": {
         "name": "Set You Free",
         "url": "https://open.spotify.com/album/4nP6NnjdbIapDZXwc3M9NN"
       },
@@ -10732,7 +10794,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 256000,
       "name": "Southern Comfort (Trap Remix)",
       "url": "https://open.spotify.com/track/512wwvX0c5JkyhiF5siFL5"
@@ -11430,6 +11492,24 @@
       "duration_ms": 214211,
       "name": "Tell That Boy",
       "url": "https://open.spotify.com/track/34x9lHWBLEWgDSUUlx1T5Z"
+    },
+    {
+      "album": {
+        "name": "TEQUILA",
+        "url": "https://open.spotify.com/album/5g9iR0BMaHokdsxPERf5rB"
+      },
+      "artists": [
+        {
+          "name": "COBRAH",
+          "url": "https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183879,
+      "name": "TEQUILA",
+      "url": "https://open.spotify.com/track/38LKH0Af9y2fdgQLpOr1sS"
     },
     {
       "album": {

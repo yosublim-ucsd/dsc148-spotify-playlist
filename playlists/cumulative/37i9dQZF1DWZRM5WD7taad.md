@@ -4,7 +4,7 @@
 
 > Mujeres raperas rompiéndola en toda Latinoamérica\. Mont en Portada
 
-248 songs - 12 hr 35 min
+250 songs - 12 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,7 +41,7 @@
 | [Bilingue](https://open.spotify.com/track/4eFXaYD2is6c6Y645Qyyy1) | [Snow Tha Product](https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj) | [Bilingue](https://open.spotify.com/album/3gpDzwcbJyZ9FwW0DrUWZf) | 2:51 | 2021-12-13 | 2023-11-11 |
 | [BITCH3](https://open.spotify.com/track/5f1hwdxzqdomOHHe40ju1f) | [Nicole Horts](https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux) | [BITCH3](https://open.spotify.com/album/5KYA9DUntV71ML54hncirY) | 2:24 | 2023-09-01 |  |
 | [BMW](https://open.spotify.com/track/16tiuDOR53aYCWOioh74cK) | [EMJAY](https://open.spotify.com/artist/5TtCVmeuicGu9EIwiFQcyn) | [BMW](https://open.spotify.com/album/0O0bJzAu1uswYmCej2I6Hz) | 2:32 | 2022-11-25 | 2023-07-01 |
-| [Bonita](https://open.spotify.com/track/2BNw1WhGHgPvVYKh94AH1j) | [R O A](https://open.spotify.com/artist/1VnD5vQ8lEQM4dKMOfv4tI) | [Bonita](https://open.spotify.com/album/14Siry6ZDhLo3y1pWXJ09X) | 2:36 | 2023-03-10 |  |
+| [Bonita](https://open.spotify.com/track/2BNw1WhGHgPvVYKh94AH1j) | [R O A](https://open.spotify.com/artist/1VnD5vQ8lEQM4dKMOfv4tI) | [Bonita](https://open.spotify.com/album/14Siry6ZDhLo3y1pWXJ09X) | 2:36 | 2023-03-10 | 2023-12-02 |
 | [Boom Bap](https://open.spotify.com/track/2kIXwWsqqkSl16EaBBPHta) | [Gabylonia](https://open.spotify.com/artist/1dTtCb4nYTZLKpTnJ1f5uU) | [Boom Bap](https://open.spotify.com/album/1H5CLSWK3L8JDv90crdOMS) | 4:08 | 2021-12-13 |  |
 | [Borracha De Amor](https://open.spotify.com/track/2PeQ5QSleIKfW8GfIVsEmj) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Borracha De Amor](https://open.spotify.com/album/56YlKtQXcwuYq5562zFYIJ) | 3:39 | 2021-12-13 | 2023-05-20 |
 | [Bounce](https://open.spotify.com/track/5q1wShNQKfniCCv097p00x) | [Sofía Gabanna](https://open.spotify.com/artist/7oOAUwR8fKK27pEAKdt0mm) | [Bounce](https://open.spotify.com/album/7yOETWq7Ft6mjRNQxgXyhY) | 2:38 | 2021-12-13 | 2022-07-29 |
@@ -142,6 +142,7 @@
 | [M4KYNA](https://open.spotify.com/track/33BdopezTOy1DwusGG2GuB) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [M4KYNA](https://open.spotify.com/album/3cP5gKulWySdg1pwA7vbVB) | 2:54 | 2023-03-24 | 2023-09-16 |
 | [Madre Mía](https://open.spotify.com/track/1V822HJJSnH20A5mxxXpQX) | [Beelial](https://open.spotify.com/artist/04iTZQYr3kP61HCOBZPz7k) | [Madre Mía](https://open.spotify.com/album/35Xa7O65iOCPZcXqKjApKh) | 3:10 | 2021-12-13 | 2022-07-29 |
 | [Madre Mía](https://open.spotify.com/track/4wREpwAeOahQ37NBO47QqT) | [Beelial](https://open.spotify.com/artist/04iTZQYr3kP61HCOBZPz7k) | [Madre Mía](https://open.spotify.com/album/6mWj8CTUKbpTqYHmJShw7j) | 3:10 | 2022-06-27 | 2023-03-11 |
+| [Mala Vida](https://open.spotify.com/track/75qzBs73rU11GaAGBOBypc) | [La Potter](https://open.spotify.com/artist/77MeU6c9Jk51GTy2D5GgDu), [Dímelo Seven](https://open.spotify.com/artist/07vf4pTHRfVOm6rS88dugW) | [Mala Vida](https://open.spotify.com/album/6zqlltyMymh6XhIZ4BjhGq) | 2:31 | 2023-12-01 |  |
 | [Mala Vida](https://open.spotify.com/track/3SzBLvShr2FKp1qSaqK6cm) | [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [Mala Vida](https://open.spotify.com/album/1MQWpXacjrqP583eW6ntG1) | 2:40 | 2021-12-13 |  |
 | [Maria](https://open.spotify.com/track/1vPVH2LNu5KUxxLbNsn4vS) | [Sherry](https://open.spotify.com/artist/0qKzket0i9hSMVGTV9fnZe) | [Maria](https://open.spotify.com/album/63ZAKRDHnWaZRICjRTkik3) | 2:10 | 2023-04-21 |  |
 | [Me Escojo A Mi](https://open.spotify.com/track/5frQcUKGw1UXM04OW9pdIr) | [Nicole Horts](https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux), [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI) | [Me Escojo A Mi](https://open.spotify.com/album/03sYBeXU2wGBf7gdfjf17V) | 2:48 | 2023-06-02 |  |
@@ -177,6 +178,7 @@
 | [OGT](https://open.spotify.com/track/0LMO5H12gYWwmRdosBPW26) | [Isa La Mexicana](https://open.spotify.com/artist/4RYI87k6c5m0asFEPE1vjK) | [OGT](https://open.spotify.com/album/786aXMddhUEql9LBUwN1EP) | 2:46 | 2023-03-31 | 2023-07-22 |
 | [Oveja Negra](https://open.spotify.com/track/21g1tdWEHKqsZj5OWfi4Pb) | [Sombrahh](https://open.spotify.com/artist/4dmREIz2avuMDu7jOz4l1W) | [Sombrahh](https://open.spotify.com/album/0KV2HbglTxFo6bCqDyoo1U) | 3:34 | 2021-12-13 | 2023-07-01 |
 | [Oye lo que traigo](https://open.spotify.com/track/3oIocMhyo5YBxp3xuMDrn6) | [Arianna Puello](https://open.spotify.com/artist/19Xm04ZiVtOB6J2Ti5vXhL) | [Gancho Perfecto](https://open.spotify.com/album/0N1yI86d5ZXqxtZk5jl1l5) | 4:56 | 2021-12-13 | 2023-07-01 |
+| [P0rn0 Gr@t1$](https://open.spotify.com/track/6T4P9BZoObMWZgkWAnxPRq) | [Nicole Favre](https://open.spotify.com/artist/6CxqJ4K3JEBR1fz2lQJNN1) | [Niña Buena](https://open.spotify.com/album/1kmpefOeR8l3dasGIUbIgd) | 2:36 | 2023-12-01 |  |
 | [Pareparqué](https://open.spotify.com/track/3NqgVmQ8DmG4TDUNQ8yK8u) | [Sofía Gabanna](https://open.spotify.com/artist/7oOAUwR8fKK27pEAKdt0mm) | [Pareparqué](https://open.spotify.com/album/6IspoSEx7IJBzP0nKYyiZr) | 3:13 | 2022-10-16 | 2023-07-01 |
 | [Pareparqué](https://open.spotify.com/track/5SkCbS0Xx6xRFZoGcfRHIn) | [Sofía Gabanna](https://open.spotify.com/artist/7oOAUwR8fKK27pEAKdt0mm) | [Pareparqué](https://open.spotify.com/album/6KhNdwFgUNhVj3rUg1uvUH) | 3:13 | 2021-12-13 | 2023-01-12 |
 | [Perfidia](https://open.spotify.com/track/599NXRZRBlMZcAEqCk1cBt) | [Elane](https://open.spotify.com/artist/2eFUnvJtf63hm3BVkh191I) | [Perfidia](https://open.spotify.com/album/2lGuZr0GuC81OktPfqh564) | 2:07 | 2021-12-13 | 2023-03-11 |
@@ -224,7 +226,7 @@
 | [Srry dawg](https://open.spotify.com/track/3ReODPTPbOTuAE7Eu2vp5j) | [FLVCKKA](https://open.spotify.com/artist/12fZoiFXBSs7aVMxGKQgBN), [VV Brujo](https://open.spotify.com/artist/3tshgsRowrEseqRaguXfZR) | [Srry dawg](https://open.spotify.com/album/1LZqsuLqs8JBF8tXAnurT6) | 2:18 | 2023-06-30 |  |
 | [SUV](https://open.spotify.com/track/2hgoEGNNefWMveRlpLDiSG) | [Tasha & Tracie](https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT), [Yunk Vino](https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX) | [SUV](https://open.spotify.com/album/1TT4xXj8sX6vDWGkDO7nYj) | 4:03 | 2021-12-13 | 2023-10-07 |
 | [Tania](https://open.spotify.com/track/4V20WzU9yI3Zrvbgkrcvmq) | [Ana Tijoux](https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz) | [Tania](https://open.spotify.com/album/6Boi6nNfxwJz0mfXSbqzXy) | 4:03 | 2023-10-06 |  |
-| [Tarde](https://open.spotify.com/track/2oqHZ2KQSOUVsEBElyko02) | [Anier](https://open.spotify.com/artist/29WHGHkCIlASkOrbKKyvcS) | [Tarde](https://open.spotify.com/album/6aVOSQineNiFqhdQE1JBP4) | 2:36 | 2022-06-27 |  |
+| [Tarde](https://open.spotify.com/track/2oqHZ2KQSOUVsEBElyko02) | [Anier](https://open.spotify.com/artist/29WHGHkCIlASkOrbKKyvcS) | [Tarde](https://open.spotify.com/album/6aVOSQineNiFqhdQE1JBP4) | 2:36 | 2022-06-27 | 2023-12-02 |
 | [Tarde](https://open.spotify.com/track/4SMpjU8xhICOuWhZjZkhx2) | [Anier](https://open.spotify.com/artist/29WHGHkCIlASkOrbKKyvcS) | [Tarde](https://open.spotify.com/album/6YbrASqwuUe7tUR7qM6EqR) | 2:36 | 2021-12-13 | 2022-07-29 |
 | [Taxi Driver](https://open.spotify.com/track/4Ux9RV3vI4SAXaOIzVBJXc) | [Norykko](https://open.spotify.com/artist/5xX9fBFLbqn0pYSFZ7qVcA) | [Taxi Driver](https://open.spotify.com/album/2IL0SiGi3zOYsEYFZ9R2A4) | 4:15 | 2021-12-13 | 2023-07-01 |
 | [Te Regalo](https://open.spotify.com/track/2s0NclshpZt1Q2aVsBZXVd) | [Astrid Cruz](https://open.spotify.com/artist/1WhuV4MAbMhWKjYXojKN8i) | [Te Regalo](https://open.spotify.com/album/0dE76rMV7OHOgmLZBBp8Dx) | 4:26 | 2021-12-13 | 2022-08-05 |

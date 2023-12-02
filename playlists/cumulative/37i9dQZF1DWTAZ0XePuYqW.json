@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-08-19",
-  "description": "That's that big energy. Cover: Busta Rhymes",
+  "description": "That's that big energy. Cover: Haviah Mighty, Eva Shaw",
   "name": "Bounce",
   "tracks": [
     {
@@ -38,6 +38,24 @@
       "duration_ms": 164011,
       "name": "129 Amoroso",
       "url": "https://open.spotify.com/track/43ItcIzWuZOxlL3MIxWbBM"
+    },
+    {
+      "album": {
+        "name": "1991 - EP",
+        "url": "https://open.spotify.com/album/5fkZoSOBJyj0PaDo1LUabM"
+      },
+      "artists": [
+        {
+          "name": "Azealia Banks",
+          "url": "https://open.spotify.com/artist/7gRhy3MIPHQo5CXYfWaw9I"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210478,
+      "name": "1991",
+      "url": "https://open.spotify.com/track/0UTmS76yJwuCpiKEn16uN5"
     },
     {
       "album": {
@@ -158,7 +176,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 273908,
       "name": "Anna Wintour",
       "url": "https://open.spotify.com/track/5Pm7KrSKkDj37SZoMYyXDX"
@@ -210,6 +228,32 @@
       "duration_ms": 139325,
       "name": "Area Codes",
       "url": "https://open.spotify.com/track/7sliFe6W30tPBPh6dvZsIH"
+    },
+    {
+      "album": {
+        "name": "Bacardi Papi",
+        "url": "https://open.spotify.com/album/4Ss42IUh5AjXZguuOQQMbK"
+      },
+      "artists": [
+        {
+          "name": "Vv Pete",
+          "url": "https://open.spotify.com/artist/66IkoRt5JAg88LCnPuyxXr"
+        },
+        {
+          "name": "UTILITY",
+          "url": "https://open.spotify.com/artist/07SL7uPXhqtBGz0Pqljjgi"
+        },
+        {
+          "name": "Kelman Duran",
+          "url": "https://open.spotify.com/artist/6PIl48ctj6HDmqVM2uIikd"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203608,
+      "name": "Bacardi Papi",
+      "url": "https://open.spotify.com/track/2EyiuaItL3x16qi1zzEbzn"
     },
     {
       "album": {
@@ -308,6 +352,28 @@
       "duration_ms": 156877,
       "name": "BGC",
       "url": "https://open.spotify.com/track/6j8rjIqqZkKnc0VzLjIN3J"
+    },
+    {
+      "album": {
+        "name": "BIG DRIP",
+        "url": "https://open.spotify.com/album/4x7Yo7b9NKZmto1hsfUOTz"
+      },
+      "artists": [
+        {
+          "name": "Haviah Mighty",
+          "url": "https://open.spotify.com/artist/3UROQ34SGxV7h71Z3Gqp8u"
+        },
+        {
+          "name": "Eva Shaw",
+          "url": "https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124200,
+      "name": "BIG DRIP",
+      "url": "https://open.spotify.com/track/6yOnCtqG95CzhjeTeI9uOV"
     },
     {
       "album": {
@@ -448,6 +514,32 @@
       "duration_ms": 135378,
       "name": "Buckle Up - Remix",
       "url": "https://open.spotify.com/track/2yUBT6kMna2MHM7GSgtYJU"
+    },
+    {
+      "album": {
+        "name": "Can't Shut Us Down (Remix)",
+        "url": "https://open.spotify.com/album/3ACaHoaZeXOtTPVqh2Teln"
+      },
+      "artists": [
+        {
+          "name": "Kitty Ca$h",
+          "url": "https://open.spotify.com/artist/1WcZXhILKBJktTKnqfjWMT"
+        },
+        {
+          "name": "PawPaw Rod",
+          "url": "https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq"
+        },
+        {
+          "name": "Sango",
+          "url": "https://open.spotify.com/artist/7e3FtKBIPLrIVm8g1FJMVg"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148645,
+      "name": "Can't Shut Us Down - Remix",
+      "url": "https://open.spotify.com/track/6MLYKykZ8CHLolDmaYKCBZ"
     },
     {
       "album": {
@@ -1177,6 +1269,42 @@
     },
     {
       "album": {
+        "name": "Gyal Clown",
+        "url": "https://open.spotify.com/album/1Got83XMepM9n4AS4AwT6h"
+      },
+      "artists": [
+        {
+          "name": "SadBoi",
+          "url": "https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136888,
+      "name": "Gyal Clown",
+      "url": "https://open.spotify.com/track/4KGBCy1x03LIG3YG07JhuP"
+    },
+    {
+      "album": {
+        "name": "Real Rap B****",
+        "url": "https://open.spotify.com/album/24BlqiVfMDly6VLwxA6OA1"
+      },
+      "artists": [
+        {
+          "name": "Erica Banks",
+          "url": "https://open.spotify.com/artist/2SXhbucehn00OBVKhzxDyM"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204590,
+      "name": "Hatin on Me",
+      "url": "https://open.spotify.com/track/6swmJkUuSvIVs7SgBAzufv"
+    },
+    {
+      "album": {
         "name": "Heart & Soul",
         "url": "https://open.spotify.com/album/1PxnQeiEqOcVZQZhvmF1hK"
       },
@@ -1250,7 +1378,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 238237,
       "name": "HIGH SPEDE",
       "url": "https://open.spotify.com/track/01OW8EwHqMLnUysHiLT9zE"
@@ -1846,7 +1974,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 255160,
       "name": "Meridian",
       "url": "https://open.spotify.com/track/09FcXaLu1BdrRNgxyBi6p5"
@@ -1964,6 +2092,24 @@
       "duration_ms": 219642,
       "name": "Mu\u00f1ekita (with El Alfa & JT)",
       "url": "https://open.spotify.com/track/4PzxlHzDM3bDafkHjg1XCX"
+    },
+    {
+      "album": {
+        "name": "MY HOUSE",
+        "url": "https://open.spotify.com/album/1H1ivGeE2LjPjE71OITTZs"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262941,
+      "name": "MY HOUSE",
+      "url": "https://open.spotify.com/track/7omJfT9s6V2IpQNBYyq5C8"
     },
     {
       "album": {
@@ -2410,7 +2556,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 155571,
       "name": "Pretty Girl Era",
       "url": "https://open.spotify.com/track/3w6JB9UckmYZBn4Tsq2kpM"
@@ -2692,7 +2838,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 96000,
       "name": "Salvaje",
       "url": "https://open.spotify.com/track/4poJASsAQ5WAi8565dHLOV"
@@ -3000,7 +3146,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 121532,
       "name": "Suddenly",
       "url": "https://open.spotify.com/track/0TRW7Q3cR5KBFSgHcmxB7t"
@@ -3034,6 +3180,24 @@
       "duration_ms": 390033,
       "name": "SUKA",
       "url": "https://open.spotify.com/track/1eb2pZlRqGLndvOj8MHaTD"
+    },
+    {
+      "album": {
+        "name": "STRUGGLER",
+        "url": "https://open.spotify.com/album/08pAfyf7MaZumnHQ2yzOU6"
+      },
+      "artists": [
+        {
+          "name": "Genesis Owusu",
+          "url": "https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131933,
+      "name": "Survivor",
+      "url": "https://open.spotify.com/track/6LduKPr8tiHg0sNk6hHOvL"
     },
     {
       "album": {
@@ -3088,7 +3252,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 217913,
       "name": "The A List",
       "url": "https://open.spotify.com/track/5xqpmwMBP55ZaPFlxhs4vu"
@@ -3582,7 +3746,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 161111,
       "name": "Yo Fam!",
       "url": "https://open.spotify.com/track/3bo6O0oUgrE3V2wqdzQKuE"

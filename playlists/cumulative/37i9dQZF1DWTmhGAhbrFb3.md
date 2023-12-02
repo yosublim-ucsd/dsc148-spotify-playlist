@@ -4,7 +4,7 @@
 
 > Música ambiental para noches tranquilas.
 
-328 songs - 16 hr 17 min
+330 songs - 16 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [Carpe Noctem](https://open.spotify.com/track/027030DBi749hu0tVBAFgX) | [Franke Williums](https://open.spotify.com/artist/3qKNUXVK23uw6wuPXFvBIR) | [Carpe Noctem](https://open.spotify.com/album/38AOIqKaMi4AmlwjD1R9wJ) | 3:03 | 2023-04-06 |  |
 | [Celandine](https://open.spotify.com/track/5ptMWCoMxUP5phRKZ5MyBx) | [Francesca Caroléo](https://open.spotify.com/artist/2odGPzJOIq98kgGB8N93Ke) | [Lunaria](https://open.spotify.com/album/7DU0LoKUQb14uqooXRxLPn) | 2:53 | 2023-04-06 |  |
 | [Centered](https://open.spotify.com/track/2tSUPdYj7CcdiQHrHgqmjZ) | [EON NOIRE](https://open.spotify.com/artist/6przkhYGYq12sivsheKQ6I) | [Centered](https://open.spotify.com/album/6EUZkB98CMFqyKQ1KsdJ8s) | 3:03 | 2023-04-06 |  |
+| [Certainties](https://open.spotify.com/track/5iYy0nMoSBsz13c2krUYdu) | [Lulu Ray](https://open.spotify.com/artist/31JkhPiJvenq0fyg2UzdWJ) | [Certainties](https://open.spotify.com/album/3Z3q7AvkFeFnm966mtPKYa) | 2:09 | 2023-12-01 |  |
 | [Cette Montagne](https://open.spotify.com/track/0sMr78LRMvZNviXwmOWGQE) | [Tascenda](https://open.spotify.com/artist/5Xj1fqlAVsgyiKy5K4hy1d) | [Cette Montagne](https://open.spotify.com/album/4NIeCDqaUXOh2WD7jE0qNf) | 3:26 | 2023-04-06 |  |
 | [Chamomile](https://open.spotify.com/track/7dqavwTVYCNJVsXXMli1fM) | [Leah Maur](https://open.spotify.com/artist/5t4Zi1CHP9SPoQ5bcHvJRN) | [Chamomile](https://open.spotify.com/album/1BUrAPfeLyjf2ij8yLDZUt) | 2:53 | 2023-04-06 |  |
 | [Chia](https://open.spotify.com/track/7kW7FXKmMzmbGvhe0FECQl) | [Marcus Rivero](https://open.spotify.com/artist/29vNrxA7CEM2eKlANyo9Yy) | [The Sudden Change](https://open.spotify.com/album/4zd9ex795plyotGggtA8w3) | 3:04 | 2023-04-06 |  |
@@ -175,6 +176,7 @@
 | [Little Diamond](https://open.spotify.com/track/4M262QSLVozYRsirsA2kLz) | [Mylo Rivers](https://open.spotify.com/artist/20MoKIG566PkzNMFkRldKy) | [Corridors of Diamonds](https://open.spotify.com/album/1M4Dd2Z9ulJQmITzC0q8A2) | 3:03 | 2023-04-06 |  |
 | [Lliw](https://open.spotify.com/track/3dCdGk4tP6pqWOlfjuzeEE) | [Carwyn](https://open.spotify.com/artist/07xmi3luGn1Zgl4LbQs9i3) | [Lliw](https://open.spotify.com/album/0GTv1Y6grHgTgFcqKiOWDS) | 2:39 | 2023-04-06 |  |
 | [Lost Love](https://open.spotify.com/track/7tA9WVX94fVUUu4IJIY89u) | [Ethan Beckett](https://open.spotify.com/artist/35PZNZuBewGvF2MycMMNNa) | [Lost Love](https://open.spotify.com/album/0LZxDPJn8HdgZKFuN0O77l) | 3:07 | 2023-04-06 |  |
+| [lucid](https://open.spotify.com/track/6v4GhvB0MKJxyQFJg7lkLF) | [Semaphore](https://open.spotify.com/artist/6DrUO7tFv2WDlPuibMoNcV) | [lucid](https://open.spotify.com/album/0HChcKa0H2YEitThGSmi3r) | 2:39 | 2023-12-01 |  |
 | [Lugnet](https://open.spotify.com/track/40T7pP27hzRoZVHofuExIg) | [Najma Wallin](https://open.spotify.com/artist/28XFFzqCAHFNcEdRiuEf71) | [Lugnet](https://open.spotify.com/album/0TQ8638U9nAIBFCzoCO5nZ) | 2:39 | 2023-04-06 |  |
 | [Luova](https://open.spotify.com/track/1fMnqF3hdQWXiC5Amb9EI0) | [Lumi Couri](https://open.spotify.com/artist/3lxrrGQ5yyzG43gu1ttAfP) | [Luova](https://open.spotify.com/album/1jg6KAF2cNqxqaeQnQ9AEI) | 2:04 | 2023-04-06 |  |
 | [Lyrebird](https://open.spotify.com/track/72mDETn3Ba8yVewAcqnlqQ) | [Keira Conlon](https://open.spotify.com/artist/2PeXm2l3nGWuNKDr7ATimr) | [Lyrebird](https://open.spotify.com/album/73YZiV6JEfhRBr855r2fvk) | 2:33 | 2023-04-06 |  |

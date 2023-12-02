@@ -1,12 +1,12 @@
 {
   "description": "\ud55c \uc904, \ud55c \uc904 \ub2f9\uc2e0\uc744 \uc704\ub85c\ud558\ub294 \uac00\uc0ac\uc640 \ub530\ub73b\ud55c \ube44\ud2b8.",
-  "num_followers": 9276,
+  "num_followers": 9292,
   "original_name": "\ud790\ub9c1 \ud799\ud569",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNWVlMzQxZmQyOGE5NjUxYWU1NzY0MjVhZWExMmZmY2FhMGQxMjFi",
+  "snapshot_id": "MCw5MzM1ZjhiYmM3ZmM3NTQzNWZkNzIyNTRkMGNiYmU3NzRjNmEzZTM1",
   "tracks": [
     {
       "added_at": "2023-11-15 14:49:16",
@@ -163,6 +163,30 @@
     {
       "added_at": "2023-11-15 14:49:16",
       "album": {
+        "name": "SHOW ME THE MONEY 11 Episode 3",
+        "url": "https://open.spotify.com/album/5LsGOvNXMG46qugdghRGRF"
+      },
+      "artists": [
+        {
+          "name": "Don Malik",
+          "url": "https://open.spotify.com/artist/1DKIdDHKHi3rIwG4UB5zLE"
+        },
+        {
+          "name": "BIG Naughty",
+          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
+        },
+        {
+          "name": "JUSTHIS",
+          "url": "https://open.spotify.com/artist/0Ch0t9gI47Lkal71uQnmV3"
+        }
+      ],
+      "duration_ms": 234839,
+      "name": "EYE (Feat. BIG Naughty, JUSTHIS) (Prod. R.Tee)",
+      "url": "https://open.spotify.com/track/20JkEhlKCrKtzORT5qDdWE"
+    },
+    {
+      "added_at": "2023-11-15 14:49:16",
+      "album": {
         "name": "Show Me the Money 5 Episode 4",
         "url": "https://open.spotify.com/album/4iSAd5Tg8jNhoRLnZ0Tb0X"
       },
@@ -179,26 +203,6 @@
       "duration_ms": 209019,
       "name": "Day Day (Prod. By GRAY)",
       "url": "https://open.spotify.com/track/3i6vV5Z2P9uMlxf8wdm2WK"
-    },
-    {
-      "added_at": "2023-11-15 14:49:16",
-      "album": {
-        "name": "Just Like This",
-        "url": "https://open.spotify.com/album/2RpmJwbaKYe0JhlNNENMvi"
-      },
-      "artists": [
-        {
-          "name": "Loco",
-          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
-        },
-        {
-          "name": "george",
-          "url": "https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV"
-        }
-      ],
-      "duration_ms": 199733,
-      "name": "Just Like This (Feat. george)",
-      "url": "https://open.spotify.com/track/3ptp3j48p6tPwGEJUCbSu0"
     },
     {
       "added_at": "2023-11-15 14:49:16",
@@ -223,26 +227,22 @@
     {
       "added_at": "2023-11-15 14:49:16",
       "album": {
-        "name": "SHOW ME THE MONEY 11 Episode 3",
-        "url": "https://open.spotify.com/album/5LsGOvNXMG46qugdghRGRF"
+        "name": "Just Like This",
+        "url": "https://open.spotify.com/album/2RpmJwbaKYe0JhlNNENMvi"
       },
       "artists": [
         {
-          "name": "Don Malik",
-          "url": "https://open.spotify.com/artist/1DKIdDHKHi3rIwG4UB5zLE"
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
         },
         {
-          "name": "BIG Naughty",
-          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
-        },
-        {
-          "name": "JUSTHIS",
-          "url": "https://open.spotify.com/artist/0Ch0t9gI47Lkal71uQnmV3"
+          "name": "george",
+          "url": "https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV"
         }
       ],
-      "duration_ms": 234839,
-      "name": "EYE (Feat. BIG Naughty, JUSTHIS) (Prod. R.Tee)",
-      "url": "https://open.spotify.com/track/20JkEhlKCrKtzORT5qDdWE"
+      "duration_ms": 199733,
+      "name": "Just Like This (Feat. george)",
+      "url": "https://open.spotify.com/track/3ptp3j48p6tPwGEJUCbSu0"
     },
     {
       "added_at": "2023-11-15 14:49:16",
@@ -487,26 +487,6 @@
     {
       "added_at": "2023-11-15 14:49:16",
       "album": {
-        "name": "23",
-        "url": "https://open.spotify.com/album/7CzfSGBBmfFwiw1bHD9r6k"
-      },
-      "artists": [
-        {
-          "name": "punchnello",
-          "url": "https://open.spotify.com/artist/5enwJ9yOnKlCP91ov4Dqhv"
-        },
-        {
-          "name": "Sam Kim",
-          "url": "https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO"
-        }
-      ],
-      "duration_ms": 212200,
-      "name": "23 (Feat. SAM KIM)",
-      "url": "https://open.spotify.com/track/4g98uQ39ekHcOAu6gWQnpK"
-    },
-    {
-      "added_at": "2023-11-15 14:49:16",
-      "album": {
         "name": "Show Me the Money 8 Episode 4",
         "url": "https://open.spotify.com/album/4NP4DI5Afz9qz1NyMnxHUp"
       },
@@ -523,6 +503,26 @@
       "duration_ms": 228607,
       "name": "Problems",
       "url": "https://open.spotify.com/track/66x69sbYKTKrQG5rVnbepA"
+    },
+    {
+      "added_at": "2023-11-15 14:49:16",
+      "album": {
+        "name": "23",
+        "url": "https://open.spotify.com/album/7CzfSGBBmfFwiw1bHD9r6k"
+      },
+      "artists": [
+        {
+          "name": "punchnello",
+          "url": "https://open.spotify.com/artist/5enwJ9yOnKlCP91ov4Dqhv"
+        },
+        {
+          "name": "Sam Kim",
+          "url": "https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO"
+        }
+      ],
+      "duration_ms": 212200,
+      "name": "23 (Feat. SAM KIM)",
+      "url": "https://open.spotify.com/track/4g98uQ39ekHcOAu6gWQnpK"
     },
     {
       "added_at": "2023-11-15 14:49:16",
@@ -1059,18 +1059,26 @@
     {
       "added_at": "2023-11-15 14:49:16",
       "album": {
-        "name": "Apocalypse",
-        "url": "https://open.spotify.com/album/1ANyQeCWX9LoEQtnfis59r"
+        "name": "School Rapper3 Final",
+        "url": "https://open.spotify.com/album/2BJzRehqZMKrajV0uRHzeU"
       },
       "artists": [
         {
-          "name": "Wonstein",
-          "url": "https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk"
+          "name": "Young Kay",
+          "url": "https://open.spotify.com/artist/72F43xdiBUC3JmJ4kZbQye"
+        },
+        {
+          "name": "CODE KUNST",
+          "url": "https://open.spotify.com/artist/4WnO2VmlwdTX77ANsThWLQ"
+        },
+        {
+          "name": "VINXEN",
+          "url": "https://open.spotify.com/artist/4T6xiCykTP9rCNaEPU7D4q"
         }
       ],
-      "duration_ms": 136973,
-      "name": "Apocalypse Prod. PEEJAY",
-      "url": "https://open.spotify.com/track/6vrUC8qQyVvpKSloGLR8gB"
+      "duration_ms": 229467,
+      "name": "HERE (Prod. by CODE KUNST)",
+      "url": "https://open.spotify.com/track/0CLJv5Pc0DZbuo78MqLyrG"
     }
   ],
   "unique_name": "\ud790\ub9c1 \ud799\ud569",

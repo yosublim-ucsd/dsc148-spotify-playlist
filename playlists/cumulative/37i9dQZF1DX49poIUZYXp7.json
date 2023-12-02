@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The extraordinary women making great country music today. Cover: Carly Pearce",
+  "description": "The extraordinary women making great country music today. Cover: Megan Moroney",
   "name": "Women of Country",
   "tracks": [
     {
@@ -464,7 +464,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 181746,
       "name": "Brain On Love",
       "url": "https://open.spotify.com/track/5wtwjtyA5qNF1Ml0yACm5d"
@@ -738,7 +738,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-31",
+      "date_removed": null,
       "duration_ms": 195760,
       "name": "Circles Around This Town",
       "url": "https://open.spotify.com/track/13G5xv1wUKvJYbK0wYmioN"
@@ -1510,7 +1510,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-28",
+      "date_removed": null,
       "duration_ms": 181400,
       "name": "Ghost Story",
       "url": "https://open.spotify.com/track/2FGOg7uYBfnspkPOISXTFY"
@@ -1982,7 +1982,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 204237,
       "name": "Heartbreaker",
       "url": "https://open.spotify.com/track/6sbjfzdMGKmPN4SGVyKfzJ"
@@ -2430,7 +2430,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 212215,
       "name": "I Just Killed A Man",
       "url": "https://open.spotify.com/track/7D9H7ROCXakc9PDf9PJZwG"
@@ -2956,7 +2956,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 192390,
       "name": "Just To Be Loved",
       "url": "https://open.spotify.com/track/515sfGf2gmnr14l5dblnxH"
@@ -3844,7 +3844,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-20",
+      "date_removed": null,
       "duration_ms": 173533,
       "name": "Never Til Now",
       "url": "https://open.spotify.com/track/6gCrHBlDZw3UkLSjzkLlGF"
@@ -4208,7 +4208,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 264424,
       "name": "Red Roses & Red Flags",
       "url": "https://open.spotify.com/track/3w1FQLKbeoZ5FD3Y4B5RJF"
@@ -4280,7 +4280,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 186094,
       "name": "Right On Time",
       "url": "https://open.spotify.com/track/7bSx9PJnGPWb8PEkcdWB7z"
@@ -4446,6 +4446,24 @@
       "duration_ms": 201653,
       "name": "Sayin' What I'm Thinkin'",
       "url": "https://open.spotify.com/track/0Hhb848NsTCRTqi3Fm6C79"
+    },
+    {
+      "album": {
+        "name": "Sayin\u2019 What I\u2019m Thinkin\u2019",
+        "url": "https://open.spotify.com/album/2WBvIseHSAwsPP4YbNgZXR"
+      },
+      "artists": [
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201653,
+      "name": "Sayin\u2019 What I\u2019m Thinkin\u2019",
+      "url": "https://open.spotify.com/track/5AzFlhzijKM7xFPY5b1taP"
     },
     {
       "album": {
@@ -4886,7 +4904,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-10",
+      "date_removed": null,
       "duration_ms": 156906,
       "name": "Somethin' Bout You",
       "url": "https://open.spotify.com/track/2hsarLx1u2OgOmkcJ8ejBm"
@@ -4958,7 +4976,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-07",
+      "date_removed": null,
       "duration_ms": 211226,
       "name": "Strange",
       "url": "https://open.spotify.com/track/6BWOWBSalJEp7woRZSyiMb"
@@ -4976,7 +4994,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-21",
+      "date_removed": null,
       "duration_ms": 212666,
       "name": "Strangers",
       "url": "https://open.spotify.com/track/3u6YTdxBfx3dzIC5qJ9Afu"
@@ -6286,7 +6304,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 163622,
       "name": "Wine Country",
       "url": "https://open.spotify.com/track/6nBdLYF7BwSpTb2ygw8oFK"

@@ -4,7 +4,7 @@
 
 > Bad b\*\*\*\* energy\. Be blessed, be spicy\. Cover: Doja Cat
 
-477 songs - 23 hr 12 min
+479 songs - 23 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -304,6 +304,7 @@
 | [Nasty Dancer](https://open.spotify.com/track/7itIhLBlKcpdaSqXRsSuW3) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Nasty Dancer](https://open.spotify.com/album/6RhtLqR830nzFlLYfVXM7k) | 2:17 | 2023-02-17 | 2023-06-10 |
 | [Need to Know](https://open.spotify.com/track/3Vi5XqYrmQgOYBajMWSvCi) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Planet Her](https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW) | 3:30 | 2022-05-13 | 2022-09-10 |
 | [Needed Me](https://open.spotify.com/track/4pAl7FkDMNBsjykPXo91B3) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [ANTI \(Deluxe\)](https://open.spotify.com/album/4UlGauD7ROb3YbVOFMgW5u) | 3:11 | 2021-10-15 | 2023-06-24 |
+| [Never Lose Me \(feat\. Lil Yachty\)](https://open.spotify.com/track/2lXQX3uhFHRYGBE6xR3tic) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Never Lose Me \(feat\. Lil Yachty\)](https://open.spotify.com/album/1W5CMjNWdlKdfOqLMuHV2w) | 2:45 | 2023-12-01 |  |
 | [No Effort](https://open.spotify.com/track/6FDeouZz4liRfuXB7CjeEg) | [Princess Nokia](https://open.spotify.com/artist/6lay1nwbE6hTx1jivysUAL) | [No Effort](https://open.spotify.com/album/73ZrfPFfKXA6VtBYJEsFzt) | 2:48 | 2022-03-18 | 2022-06-04 |
 | [No Face](https://open.spotify.com/track/1jcBUsiQik3PxgtGG0tfnb) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [No Face](https://open.spotify.com/album/7xcVwFxP43b548OelDTjBv) | 3:09 | 2022-07-15 | 2022-08-06 |
 | [No Love \(with SZA & Cardi B\) \- Extended Version](https://open.spotify.com/track/0IMUFRaM2W3wKNM1CSQ4Zm) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [No Love \(with SZA & Cardi B\) \[Extended Version\]](https://open.spotify.com/album/1Rt2ZYJ3tBKqXtFuB19xz4) | 4:36 | 2022-03-26 | 2022-05-28 |
@@ -436,6 +437,7 @@
 | [Treat Me Like A Slut](https://open.spotify.com/track/0dlP9SnqQa5k1A9mReybFb) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Slut Pop](https://open.spotify.com/album/4rs52z8T5zPbsa5HM75tua) | 1:58 | 2023-08-18 | 2023-11-25 |
 | [Trick](https://open.spotify.com/track/60kkJZwSjzmoXP9dOWUlqe) | [Erica Banks](https://open.spotify.com/artist/2SXhbucehn00OBVKhzxDyM) | [Diary of The Flow Queen](https://open.spotify.com/album/03CKGhq7xh22fxkhHGJxp2) | 3:07 | 2022-06-17 | 2022-06-25 |
 | [Trippin' \(with Tay Money\)](https://open.spotify.com/track/3cayEveqBgYfE7Pzlbpqbh) | [Naliya](https://open.spotify.com/artist/6n4qDgsuoohAN5Q7HebLvU), [Tay Money](https://open.spotify.com/artist/6R6EfP43F8ZuMcilsE4zs7) | [Trippin' \(with Tay Money\)](https://open.spotify.com/album/2vqva8fSrgNVTG9eQWBlvi) | 2:58 | 2022-08-05 | 2022-09-09 |
+| [Truth or Dare](https://open.spotify.com/track/1whAXVGN8AdfrnoXNIXfJf) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [TYLA](https://open.spotify.com/album/6cWVXZCgpDJhvFOqB6o0DP) | 3:10 | 2023-12-01 |  |
 | [Tuh \(feat\. Queendom Come\)](https://open.spotify.com/track/3Ws45kDHTzluLrOBphKwkO) | [BeatKing](https://open.spotify.com/artist/5L8p9kDnX2cgoI8VLUL2p4), [Queendom Come](https://open.spotify.com/artist/0tFnayGz6sZxgRf1YS5VmI) | [Tuh \(feat\. Queendom Come\)](https://open.spotify.com/album/7owOwgant5ITCSmbCD1NL5) | 2:20 | 2022-04-15 | 2022-04-29 |
 | [TWINNEM](https://open.spotify.com/track/3oE2HPoP7DCgxhrqjAosZY) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [TWINNEM](https://open.spotify.com/album/0Am2vQjzogt7wnXMzzC8Mr) | 1:57 | 2021-10-15 | 2022-01-11 |
 | [Uhuh Yeah](https://open.spotify.com/track/2vFoOqeMKwLNp5q56TMPSU) | [G.L.A.M.](https://open.spotify.com/artist/0AQ2vnf2f5UNnbTmU0ggYZ), [Colbie](https://open.spotify.com/artist/4Gt6xGVHlxudOrO4VRuNRm) | [Uhuh Yeah](https://open.spotify.com/album/3tabisoRGn39DsCBNcqKR5) | 3:40 | 2022-02-17 | 2022-03-05 |

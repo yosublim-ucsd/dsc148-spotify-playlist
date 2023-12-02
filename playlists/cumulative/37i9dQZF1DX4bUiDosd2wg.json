@@ -3913,6 +3913,28 @@
     },
     {
       "album": {
+        "name": "Fantastic Duo Part.13",
+        "url": "https://open.spotify.com/album/4mkv2DmvSNxeQG5PTE3keG"
+      },
+      "artists": [
+        {
+          "name": "Kim Jong Kook",
+          "url": "https://open.spotify.com/artist/60YNqzrSj7rJkuqHkpHPqG"
+        },
+        {
+          "name": "\uacbd\uc11c",
+          "url": "https://open.spotify.com/artist/5IKE5kjQDEqRpROolvILZJ"
+        }
+      ],
+      "date_added": "2021-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 318066,
+      "name": "\ud3b8\uc9c0",
+      "url": "https://open.spotify.com/track/63iyjzP7bRIOtf0SxYLziU"
+    },
+    {
+      "album": {
         "name": "\ud310\ud0c0\uc2a4\ud2f1 \ub4c0\uc624 Part.13",
         "url": "https://open.spotify.com/album/2BCByuEjdYUHbCI8SbsxAU"
       },
@@ -3928,7 +3950,7 @@
       ],
       "date_added": "2021-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 318066,
       "name": "\ud3b8\uc9c0",
       "url": "https://open.spotify.com/track/7x4ZCeYY5ihBsL7mXcN4TM"

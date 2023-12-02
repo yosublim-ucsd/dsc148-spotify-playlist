@@ -2,9 +2,9 @@
 
 ### [Hip Hop Circle](https://open.spotify.com/playlist/37i9dQZF1DWUoBHp4pr8cg)
 
-> Only the hottest Hip Hop from  \(pictured\), Offset, Drake, and more...
+> Only the hottest Hip Hop from Blxckie\(pictured\), Shane Eagle, Offset, Drake, and more...
 
-243 songs - 13 hr 14 min
+245 songs - 13 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [23](https://open.spotify.com/track/0T0vseuNB4KC8opkrCLNbc) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [23](https://open.spotify.com/album/5eo1sGPwe7pPucD3DjOyzf) | 4:20 | 2023-01-23 | 2023-02-24 |
 | [3AM on Glenwood](https://open.spotify.com/track/1MTXYvJ9TSqg9x6WPCDx2n) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Her Loss](https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6) | 2:58 | 2022-11-14 | 2022-12-13 |
 | [4 Steps Back](https://open.spotify.com/track/73hwgztIzXR9ROMc6o4Yx6) | [Cassper Nyovest](https://open.spotify.com/artist/18CJ8k3h2Rggioow01dlwP) | [4 Steps Back](https://open.spotify.com/album/37BBmXyLG2uRENzwbIN4My) | 4:03 | 2022-09-01 | 2022-11-04 |
+| [48 Glizzy](https://open.spotify.com/track/3dX1Z5KuNfwLaeB8YpSn7w) | [Saudi](https://open.spotify.com/artist/37Qsf5KCKljH7mL134xp4k) | [Msotra Don't Die](https://open.spotify.com/album/6cKEy8loEIT1fgIZjk7N1Z) | 4:45 | 2023-12-01 |  |
 | [50s](https://open.spotify.com/track/3xGMOMy5PeVOoIl8zjzxRN) | [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh) | [50s](https://open.spotify.com/album/5NB0lhneowD68OlfY44Ed0) | 2:39 | 2023-01-23 | 2023-03-07 |
 | [54321](https://open.spotify.com/track/0iPb0dxCtjFcmFa2ElfBJ5) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [54321](https://open.spotify.com/album/5vW8LuMydrkQQqkQlw5Won) | 3:02 | 2022-08-18 | 2022-11-04 |
 | [Abracadabra \(feat\. Travis Scott\)](https://open.spotify.com/track/4Zsi5pyvmZBxvRg0KeDFMC) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [BUSINESS IS BUSINESS](https://open.spotify.com/album/6qElaeK7SHsEzb8uV8eG3D) | 4:07 | 2023-06-23 |  |
@@ -28,6 +29,7 @@
 | [Aston Martin Truck](https://open.spotify.com/track/1KaRuTOGchQyTnrY3vWzfR) | [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [Aston Martin Truck](https://open.spotify.com/album/4Uv7QjKaAq1mFO7aYzk4Xc) | 3:00 | 2022-10-21 | 2023-09-23 |
 | [Aye](https://open.spotify.com/track/4lByLTRLVrAwzaWs8td5pV) | [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj), [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL), [Emtee](https://open.spotify.com/artist/6U3gCOvxVWKBxXItqp3mdr) | [Ivyson Army Tour Mixtape](https://open.spotify.com/album/0K1Kj60U6juaomxBtPoaS4) | 2:07 | 2022-09-22 | 2022-11-18 |
 | [B.R.O\. \(Better Ride Out\) \[feat\. Roddy Ricch\]](https://open.spotify.com/track/23pGZ6n6Xd3yV7qK4xw7dx) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [B.R.O\. \(Better Ride Out\) \[feat\. Roddy Ricch\]](https://open.spotify.com/album/0tk8XMpaIuk587IlC8aIfP) | 2:58 | 2022-10-06 | 2023-01-24 |
+| [Back Into It](https://open.spotify.com/track/3Kyr9vr7VP2NLc9lBqxQFZ) | [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL) | [Back Into It](https://open.spotify.com/album/2p3kYxinqZYCrQaHWiF4gT) | 2:42 | 2023-12-01 |  |
 | [Back To The Kaap](https://open.spotify.com/track/7pQKbdzWHY6ypWhKLrLsiD) | [Stilo Magolide](https://open.spotify.com/artist/77zNkBGPeehKXAXAXfUfnA), [YoungstaCPT](https://open.spotify.com/artist/3QYKq7aMSiAu6gvfwNNFsv) | [Back To The Kaap](https://open.spotify.com/album/5RheolffY6fyYbQPLHBxZv) | 3:18 | 2023-03-22 | 2023-10-13 |
 | [Backstage Passes \(feat\. Jack Harlow\)](https://open.spotify.com/track/2BSl2gSFHdzJAMus74qzNj) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj), [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [I Never Felt Nun](https://open.spotify.com/album/0A4xJz6OAedAQGriJH7pjn) | 2:38 | 2022-09-15 | 2022-11-18 |
 | [BAD GUY](https://open.spotify.com/track/6wuIh8EH2MYLI5su3FZ935) | [A\-Reece](https://open.spotify.com/artist/5TirRF3azWV5OpyufcDCFP) | [DEADLINES: FREE P2](https://open.spotify.com/album/5DvFNfnvFyPLDZp5gQm8ir) | 1:32 | 2022-10-21 | 2023-05-06 |

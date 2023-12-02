@@ -4,7 +4,7 @@
 
 > Un perreito en la pared...
 
-393 songs - 22 hr 0 min
+394 songs - 22 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,7 +45,7 @@
 | [Bandido](https://open.spotify.com/track/1xK1Gg9SxG8fy2Ya373oqb) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Juhn](https://open.spotify.com/artist/2LmcxBak1alK1bf7d1beTr) | [Bandido](https://open.spotify.com/album/5sIyJyOgwEIOgBhLxIGG3t) | 3:52 | 2021-12-31 |  |
 | [Barby Bellaka](https://open.spotify.com/track/0lElx1mc1PV0oZYlCRehU9) | [CHOCA](https://open.spotify.com/artist/2hdJKv9q3XQbDBu7NTu8hk), [Dj Rockwel Mx](https://open.spotify.com/artist/2eobLT6bmdvl5yGG5qPAgd), [Dj Kiire](https://open.spotify.com/artist/1jwYIyylx1XF15nbiPtLdu) | [Barby Bellaka](https://open.spotify.com/album/1MvKvhWkQ942ln0WbWz3PR) | 2:42 | 2023-09-01 | 2023-09-30 |
 | [Bellacoso](https://open.spotify.com/track/1kMUGCt7XLDc5Q64Vl0H8S) | [Residente](https://open.spotify.com/artist/5GcWBUX00IPuWVGMIRK1sS), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Bellacoso](https://open.spotify.com/album/0un8ZRojNl6fYFRHYzQ9GG) | 4:17 | 2022-01-14 | 2022-04-15 |
-| [Bellakito](https://open.spotify.com/track/3puSZqdV314y5zy96ZhaCl) | [Soley](https://open.spotify.com/artist/1zo2ucFhzu58hKcniMpSQs), [Esteban Rojas](https://open.spotify.com/artist/680tleL97NcpJiib89V6UU) | [Bellakito](https://open.spotify.com/album/64Ff6wk6lyoCqVU6JRlLwx) | 2:53 | 2023-11-24 |  |
+| [Bellakito](https://open.spotify.com/track/3puSZqdV314y5zy96ZhaCl) | [Soley](https://open.spotify.com/artist/1zo2ucFhzu58hKcniMpSQs), [Esteban Rojas](https://open.spotify.com/artist/680tleL97NcpJiib89V6UU) | [Bellakito](https://open.spotify.com/album/64Ff6wk6lyoCqVU6JRlLwx) | 2:53 | 2023-11-24 | 2023-12-02 |
 | [Besos Moja2](https://open.spotify.com/track/3XIIcuVsJbSj5tNNu46JF8) | [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9), [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [Besos Moja2](https://open.spotify.com/album/2KUHWofjBWPyEsoAx8izNn) | 3:49 | 2022-10-07 | 2022-10-09 |
 | [Besos Moja2](https://open.spotify.com/track/6OzUIp8KjuwxJnCWkXp1uL) | [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9), [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [La Última Misión](https://open.spotify.com/album/08QB1puuJGgRx8N7Yn1twL) | 3:49 | 2022-10-12 | 2023-02-18 |
 | [Besos Moja2](https://open.spotify.com/track/6TsVhM8qIkWN5cJVDIVbbz) | [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9), [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [La Última Misión](https://open.spotify.com/album/5YLmrfqNRJK66Gl4QVLwHW) | 3:49 | 2022-10-07 | 2022-12-20 |
@@ -319,6 +319,7 @@
 | [Sensacion Del Bloque](https://open.spotify.com/track/5clFSlfkCRlhnH1cAQjSBi) | [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb) | [Reggaeton Rulers: Los Que Ponen](https://open.spotify.com/album/369oPiSP9Y3CzTR6uWU4Da) | 3:02 | 2021-12-31 | 2023-02-18 |
 | [SETEO](https://open.spotify.com/track/6UyPSo5PgIRojgu0QJOVWz) | [KAVVO](https://open.spotify.com/artist/7BxfvnCKOvC4pYttjF1gsO) | [SETEO](https://open.spotify.com/album/46bem8eyU8SazBeKVQm062) | 3:01 | 2023-06-16 | 2023-06-24 |
 | [Sexy Movimiento](https://open.spotify.com/track/1Kgyx7NLtzsa3gWV1efGHu) | [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9) | [Wisin Vs Yandel "Los Extraterrestres"](https://open.spotify.com/album/1wqojXZPs45MXFSPlqcVkh) | 3:29 | 2022-01-14 | 2023-02-18 |
+| [Señorita](https://open.spotify.com/track/0FmIDOVz1wI7F8axO6elnu) | [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [Señorita](https://open.spotify.com/album/5IP7D7qqhizcvATXIizxYC) | 3:11 | 2023-12-01 |  |
 | [SHORTY QUE TE VAYA BN <3](https://open.spotify.com/track/3CQDFLetMMxD5hzAnUk410) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [SHORTY QUE TE VAYA BN <3](https://open.spotify.com/album/2TDCpT7xPs96lKz5yxJ3Hs) | 3:39 | 2021-12-31 |  |
 | [Si No Le Contesto](https://open.spotify.com/track/3XaWuYsTtnkzCSBr0RmROc) | [Plan B](https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP) | [House Of Pleasure](https://open.spotify.com/album/3WEwS5DLsagnqQtHP2oEEu) | 3:40 | 2022-07-19 | 2022-12-01 |
 | [Si No Le Contesto](https://open.spotify.com/track/6NdKkfo7o6IH1Op0jsBDjN) | [Plan B](https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP) | [House of Pleasure](https://open.spotify.com/album/4s9iYsrtBIvkZn5AEbUbl0) | 3:41 | 2021-12-31 | 2022-07-29 |

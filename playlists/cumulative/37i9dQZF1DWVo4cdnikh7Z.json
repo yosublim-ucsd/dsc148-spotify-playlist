@@ -10305,6 +10305,32 @@
     },
     {
       "album": {
+        "name": "Kuttyma (From \"Jinn The Pet\")",
+        "url": "https://open.spotify.com/album/2kmTe4q80X6NSFwvnN3m74"
+      },
+      "artists": [
+        {
+          "name": "Mervin Solomon",
+          "url": "https://open.spotify.com/artist/5UMXQPeU8ojXiH8f7IfpXv"
+        },
+        {
+          "name": "Vivek - Mervin",
+          "url": "https://open.spotify.com/artist/4hBCDHUWTljP6BDl5AekgW"
+        },
+        {
+          "name": "Ku Karthik",
+          "url": "https://open.spotify.com/artist/7L5BLP9ezpFtEOas3AR0Ny"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223200,
+      "name": "Kuttyma (From \"Jinn The Pet\")",
+      "url": "https://open.spotify.com/track/2p0dn3l38svqSmlrQSzqyH"
+    },
+    {
+      "album": {
         "name": "Kylaa (From \"Captain\")",
         "url": "https://open.spotify.com/album/1t1JfkhPB3F0ulqq1MYmNg"
       },

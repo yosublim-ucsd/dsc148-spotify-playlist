@@ -4,7 +4,7 @@
 
 > Indie soul that's highkey fire
 
-574 songs - 1 day 7 hr 32 min
+575 songs - 1 day 7 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -400,7 +400,7 @@
 | [Pink Skies](https://open.spotify.com/track/5xrz5t1gDx4Fft0tDAo8Fs) | [Joyia](https://open.spotify.com/artist/5XmuPCMjLwYLKWvOCyh6jK) | [Pink Skies](https://open.spotify.com/album/1fkWEJ7SjJ3LzJJ0mDCun2) | 3:10 | 2023-03-24 | 2023-10-07 |
 | [Pisonia Prologue](https://open.spotify.com/track/2q30Rgmrv7m1WcgIh2JJna) | [Tora\-i](https://open.spotify.com/artist/4oJsWKOJCNMfUbIpR2jk8Z) | [Pisonia Prologue](https://open.spotify.com/album/5uudHDDRkFnpHNqpFsNdNA) | 1:52 | 2021-12-15 | 2023-04-01 |
 | [Pixie Dust](https://open.spotify.com/track/3w8UEOStGNxoF7a9xuzY2j) | [Ethel](https://open.spotify.com/artist/71EdrAYsVrCyHOzDEqNOu0) | [Pixie Dust](https://open.spotify.com/album/6qzfWCqFbcf5wxMXQ7pKO8) | 3:03 | 2023-11-10 |  |
-| [Please Don't Make Me Cry \- Jordan Rakei Remix](https://open.spotify.com/track/3fku32mH3zk91khNJcmZDR) | [Lianne La Havas](https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt), [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [Please Don't Make Me Cry \(Jordan Rakei Remix\)](https://open.spotify.com/album/4qPFh28Iv2d0yRKF0pJE1s) | 4:22 | 2021-12-15 |  |
+| [Please Don't Make Me Cry \- Jordan Rakei Remix](https://open.spotify.com/track/3fku32mH3zk91khNJcmZDR) | [Lianne La Havas](https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt), [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [Please Don't Make Me Cry \(Jordan Rakei Remix\)](https://open.spotify.com/album/4qPFh28Iv2d0yRKF0pJE1s) | 4:22 | 2021-12-15 | 2023-12-02 |
 | [Poison](https://open.spotify.com/track/37D9mNHrQTxSkCUhzwo26u) | [Nesta](https://open.spotify.com/artist/0TWVX68OyQscge2TZzChPx) | [Poison](https://open.spotify.com/album/07cuDu48HGQ7imcSohcKXc) | 3:23 | 2021-12-15 | 2022-07-29 |
 | [poison \- demo](https://open.spotify.com/track/76y9rYVLGK4Ob2qaruXmhC) | [CLAY](https://open.spotify.com/artist/20aPu5vizjmoX2A7f7AOWL) | [poison \(demo\)](https://open.spotify.com/album/4qIShsDt5DHqK9WxMwWx8Q) | 2:43 | 2023-04-21 | 2023-09-09 |
 | [Polytics](https://open.spotify.com/track/29DpuCxcRK8igslbq7RSD4) | [Idman](https://open.spotify.com/artist/6N13mUTgkfYEUmW8R2GH0G) | [Polytics](https://open.spotify.com/album/3znffL5bZo1Fkjj5j2xKjj) | 2:35 | 2021-12-15 | 2022-05-14 |
@@ -534,6 +534,7 @@
 | [Two Worlds Apart](https://open.spotify.com/track/34qvgmIagzNQdZTRL2poiv) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Sometimes I Might Be Introvert](https://open.spotify.com/album/4nOym5RKE8Opauf3rMxPAW) | 2:58 | 2022-10-19 | 2023-01-28 |
 | [U](https://open.spotify.com/track/75w90hoCMVISvw80Kqbznq) | [Paul Grant](https://open.spotify.com/artist/69FGWeFKaCyCjiDU2afEUl), [Brayla](https://open.spotify.com/artist/42HxYNtPFMRHRqF9Ts1AHx) | [Forward](https://open.spotify.com/album/1Mp96vHPfKb0uDsDglRB2m) | 2:49 | 2023-06-16 |  |
 | [U & I](https://open.spotify.com/track/7DaHNeYZ9kUJntu5R6rVnS) | [Dayo Bello](https://open.spotify.com/artist/41mwTkqJfMxPMbQmEdN2S2) | [U & I](https://open.spotify.com/album/3ypZDA00UD5VEhPqwxTL2F) | 3:42 | 2023-11-19 |  |
+| [U & I](https://open.spotify.com/track/4jBSQcXXIgmJF0ngkSbPCH) | [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z), [Darius](https://open.spotify.com/artist/5vfEaoOBcK0Lzr07WN8KaK), [WAYNE SNOW](https://open.spotify.com/artist/4f44GWlEQdXaWl8gQ9sPBC), [Crayon](https://open.spotify.com/artist/1byiL1WtteUjvqT6GhlEfh), [The NightBirds](https://open.spotify.com/artist/5y3PKV2Jacq5FBub8joiNJ) | [HOUSE OF GROOVE](https://open.spotify.com/album/0SAEMNzphsLut3Z5OZlmAo) | 3:36 | 2023-11-19 |  |
 | [U Got Me](https://open.spotify.com/track/4bvNJ5So34WwPSGXaERnGh) | [MMYYKK](https://open.spotify.com/artist/1tCMk7g0K58M82X2kNxlGT) | [U Got Me](https://open.spotify.com/album/7vNWrBgdkb8ne93HUDnjxQ) | 3:26 | 2023-06-30 | 2023-10-16 |
 | [U Should Be Mine](https://open.spotify.com/track/6babFcorQ58c4wRURJARaE) | [Flwr Chyld](https://open.spotify.com/artist/33luNNaeHIJ5KfjW56aleZ), [Baby Rose](https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo), [Sebastian Mikael](https://open.spotify.com/artist/4hknFHNFp3UMm2Rbc6Ansf) | [U Should Be Mine](https://open.spotify.com/album/1SAL8acM2LnCU1GmQpks37) | 3:25 | 2023-08-18 | 2023-10-07 |
 | [UNDERSTAND \(feat\. Baby Rose\)](https://open.spotify.com/track/1RHob2sw5X81Ukn4BYPbmF) | [Q](https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3), [Baby Rose](https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo) | [UNDERSTAND](https://open.spotify.com/album/6DQ6LpJlvhoamE6Qg6plAX) | 4:03 | 2023-04-21 | 2023-09-08 |

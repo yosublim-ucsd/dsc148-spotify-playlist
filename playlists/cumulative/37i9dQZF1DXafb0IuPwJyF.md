@@ -4,7 +4,7 @@
 
 > The hottest hits in Japan right now\. 日本のポップシーンを彩る最新ベスト50。Cover: Vaundy
 
-1,115 songs - 2 day 21 hr 32 min
+1,116 songs - 2 day 21 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -317,7 +317,8 @@
 | [Love & Happiness \(Let’s Be a Santa\)](https://open.spotify.com/track/3o8hTgDk7AIJimvGzWVkgu) | [HIRAIDAI](https://open.spotify.com/artist/7JthQ6zwNzfxRfIEjp6wUs) | [Love & Happiness \(Let’s Be a Santa\)](https://open.spotify.com/album/7raPXi43vsPOF2BpRcVR3m) | 3:05 | 2022-11-28 | 2023-01-02 |
 | [Love Like A Bomb \(feat\. ひかり\)](https://open.spotify.com/track/3B7jBMQUFsIMhrMDOtB39p) | [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1), [ひかり](https://open.spotify.com/artist/7FqXFvzwNYVhW12u5O3yUc) | [透明なガール](https://open.spotify.com/album/41dcBEgqNyYH3ifvH2al28) | 3:27 | 2022-10-09 | 2022-10-24 |
 | [LOVE ROCKETS](https://open.spotify.com/track/6stn0schvLBMoRHsDeYiIi) | [The Birthday](https://open.spotify.com/artist/58zME34zPsQx58YXCyFryH) | [LOVE ROCKETS](https://open.spotify.com/album/0wN4mrkQyl961vNqhchf7N) | 4:21 | 2022-12-04 | 2023-01-06 |
-| [Love Song](https://open.spotify.com/track/0nokJDMZpEnGbC09v5Fn6T) | [マルシィ](https://open.spotify.com/artist/7oQ6zxSp4eQjvVkk9rGIDV) | [Love Song](https://open.spotify.com/album/2mR7pRFpeDSEWbd0jj05hm) | 4:16 | 2023-10-01 |  |
+| [Love Song](https://open.spotify.com/track/0nokJDMZpEnGbC09v5Fn6T) | [マルシィ](https://open.spotify.com/artist/7oQ6zxSp4eQjvVkk9rGIDV) | [Love Song](https://open.spotify.com/album/2mR7pRFpeDSEWbd0jj05hm) | 4:16 | 2023-10-01 | 2023-12-02 |
+| [Love Song](https://open.spotify.com/track/7dPdKXZjt04R6Ne7vWXZIh) | [マルシィ](https://open.spotify.com/artist/7oQ6zxSp4eQjvVkk9rGIDV) | [Candle](https://open.spotify.com/album/1Dy7aa6yDhK1X0RdrVnHhq) | 4:18 | 2023-11-28 |  |
 | [LOVE, SO GOOD.](https://open.spotify.com/track/6CgyovSeoZugrFQ9iAf2if) | [HIRAIDAI](https://open.spotify.com/artist/7JthQ6zwNzfxRfIEjp6wUs) | [LOVE, SO GOOD.](https://open.spotify.com/album/6xtCOVTraTHrRglJlYakCh) | 3:02 | 2022-10-02 | 2022-10-24 |
 | [Lovesong](https://open.spotify.com/track/2bikAEfH4KqwcKGNvOO9Oz) | [ZOOKARADERU](https://open.spotify.com/artist/0mkwliKa9Bf7kdXMV1iuMp) | [Lovesong](https://open.spotify.com/album/3d7M1pICrlyBQgEuVL7owA) | 3:50 | 2023-02-12 | 2023-02-27 |
 | [Lovey\-Dovey \- feat\. ALEXXX](https://open.spotify.com/track/57vvBiUfZgfwFXx3EZEHK5) | [HIRAIDAI](https://open.spotify.com/artist/7JthQ6zwNzfxRfIEjp6wUs), [Alexxx](https://open.spotify.com/artist/3UnufWjMoVfmEZkPOEVttf) | [Lovey\-Dovey \(feat\. ALEXXX\)](https://open.spotify.com/album/6wYV21bjJniAOz8GRUvlpS) | 3:16 | 2023-02-19 | 2023-03-06 |

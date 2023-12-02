@@ -2,9 +2,9 @@
 
 ### [Country Rocks](https://open.spotify.com/playlist/37i9dQZF1DWWH0izG4erma)
 
-> Country Music that ROCKS! Cover: The Steel Woods
+> Country Music that rocks\. Cover: Treaty Oak Revival
 
-320 songs - 18 hr 21 min
+322 songs - 18 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,7 @@
 | [American Thread](https://open.spotify.com/track/0d0wIqxnYcavcm5AQjvBlB) | [Tim Montana](https://open.spotify.com/artist/5RM955coCWa6UkFtlMapwC) | [American Thread](https://open.spotify.com/album/7vpWpFDu2k7eEWNrstjPwO) | 3:17 | 2021-11-01 | 2022-05-07 |
 | [Another Mile](https://open.spotify.com/track/5p98ydi4Izu5UJZvGN5pCu) | [A Thousand Horses](https://open.spotify.com/artist/55RI2GNCfyXr0f14uIdhwd) | [Another Mile](https://open.spotify.com/album/04ZMBbLR8QaHRjkjNaxTpz) | 3:36 | 2022-08-05 | 2022-10-06 |
 | [Antioch](https://open.spotify.com/track/51WNjmzTaO4kBTM7xBQP9h) | [Whiskey Myers](https://open.spotify.com/artist/26opZSJcXshCmCwxgZQmBc) | [Antioch](https://open.spotify.com/album/0idg67gnx68XH65agkb7Dn) | 4:05 | 2022-03-25 | 2023-04-15 |
-| [April Showers](https://open.spotify.com/track/0E2VoyCHqPn47yGMVgQmrK) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [April Showers](https://open.spotify.com/album/35DYE0Y5qdxojyBA2CXVYX) | 3:02 | 2022-04-08 | 2023-11-30 |
+| [April Showers](https://open.spotify.com/track/0E2VoyCHqPn47yGMVgQmrK) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [April Showers](https://open.spotify.com/album/35DYE0Y5qdxojyBA2CXVYX) | 3:02 | 2022-04-08 |  |
 | [Are We On Fire](https://open.spotify.com/track/5TWjVCYuNan6k0X6oFZgkM) | [Kolby Cooper](https://open.spotify.com/artist/2dz0ijxEHh6AzUzQBwBSKx) | [Boy From Anderson County To The Moon](https://open.spotify.com/album/6TT7aVhJ8mUITSc5uMozQM) | 3:37 | 2022-08-19 | 2023-04-11 |
 | [Babies](https://open.spotify.com/track/045vMbY2pAsHzjFLqHcadn) | [Kasey Tyndall](https://open.spotify.com/artist/08fvWshbReeOVorxMtddh2) | [Babies](https://open.spotify.com/album/5NGiKgJuCfMAvKvEwgOnTn) | 2:59 | 2022-06-17 | 2022-07-09 |
 | [Bat Out Of Birmingham](https://open.spotify.com/track/0aK4mDwdfQGVH8YI3QOKpj) | [Jobe Fortner](https://open.spotify.com/artist/6RU95qiRMzolGkQZc6FIY4) | [Bat Out Of Birmingham](https://open.spotify.com/album/4rkv7ffmhDwzpPtVnw5BcO) | 3:37 | 2021-11-19 | 2022-07-17 |
@@ -57,7 +57,7 @@
 | [Burning Down](https://open.spotify.com/track/515UGTaaZQyCgthVxhWTbU) | [Striking Matches](https://open.spotify.com/artist/4v2DyasTOGK3Pv90w75yar) | [Morning](https://open.spotify.com/album/2crKE8V3gDJVhribqhsPh9) | 3:09 | 2021-11-01 | 2022-07-23 |
 | [By Now](https://open.spotify.com/track/5O3YFgx7m0geCKzzo7PjA0) | [Lakeview](https://open.spotify.com/artist/4m7IOKt2QRPsoHJSWBmeZD) | [By Now](https://open.spotify.com/album/3JwPrJgE6Ev6zJdsIYXCD4) | 3:20 | 2023-02-03 | 2023-09-09 |
 | [C\-V\-1\-9](https://open.spotify.com/track/0VBKTzLzBPf2KJJofXPGVH) | [Rob Mayes](https://open.spotify.com/artist/3P5tlX0dc1Y3oNWwgsojmt) | [C\-V\-1\-9](https://open.spotify.com/album/3nl4B6o5111oiJ2AqZus7z) | 3:17 | 2021-11-01 | 2022-02-05 |
-| [Call It Country](https://open.spotify.com/track/1H5I9ObhTNdSvcIJnM5CoT) | [Travis Denning](https://open.spotify.com/artist/6CegFHnUqJcOBipgphZ2CJ) | [Call It Country](https://open.spotify.com/album/2eqtyCMsctct0i1SWDHN2h) | 2:31 | 2021-11-01 |  |
+| [Call It Country](https://open.spotify.com/track/1H5I9ObhTNdSvcIJnM5CoT) | [Travis Denning](https://open.spotify.com/artist/6CegFHnUqJcOBipgphZ2CJ) | [Call It Country](https://open.spotify.com/album/2eqtyCMsctct0i1SWDHN2h) | 2:31 | 2021-11-01 | 2023-12-02 |
 | [Cars On Blocks](https://open.spotify.com/track/4byGXugy6UdulXHzqKMBMG) | [Tim Montana](https://open.spotify.com/artist/5RM955coCWa6UkFtlMapwC) | [Long Shots](https://open.spotify.com/album/2wIIIZwinQQ2ieKTL3iqjs) | 3:09 | 2021-11-01 | 2022-05-07 |
 | [Catch Me If You Can](https://open.spotify.com/track/2q0kWUvBaXkakZfH7KPViY) | [Canaan Smith](https://open.spotify.com/artist/0q2lY1ZzFckzciuoMtUvck), [Brent Cobb](https://open.spotify.com/artist/26C2AjqgMr5aDzj6Yp2ORz) | [High Country Sound](https://open.spotify.com/album/6IVHko8albueLyBNcjuT0v) | 2:49 | 2021-11-01 | 2022-10-13 |
 | [Catch Me If You Can](https://open.spotify.com/track/4yxdTF0DcdXfD9XA3F8gvX) | [Canaan Smith](https://open.spotify.com/artist/0q2lY1ZzFckzciuoMtUvck), [Brent Cobb](https://open.spotify.com/artist/26C2AjqgMr5aDzj6Yp2ORz) | [High Country Sound](https://open.spotify.com/album/0XsPCNDdepOg4OP3Z1X6Za) | 2:49 | 2022-10-14 | 2023-05-03 |
@@ -72,7 +72,7 @@
 | [Cowboys Did Cocaine](https://open.spotify.com/track/5O4tIsYwXRPhGIbZhj71UE) | [Riley Thomas](https://open.spotify.com/artist/5eBOFT8dGahqsNY97nwuJB) | [Cowboys Did Cocaine](https://open.spotify.com/album/33nXOb10RUIl1gqVQgRaj6) | 3:52 | 2022-11-18 |  |
 | [Crazy Angels](https://open.spotify.com/track/0ZOTahGHXAJjKZXtW8aDT6) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Crazy Angels](https://open.spotify.com/album/1LWYFA4ZIyQxM4nX5Cx9EU) | 2:36 | 2022-04-29 | 2023-06-17 |
 | [Creeps](https://open.spotify.com/track/0zOert4KpMDEf332FVRuxb) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [Creeps](https://open.spotify.com/album/2lUDd3HMuFnMgK3KfniBGB) | 3:46 | 2023-01-20 |  |
-| [Cut the Grass](https://open.spotify.com/track/6zQvexoU5zfWObLpIX7p2S) | [The Steel Woods](https://open.spotify.com/artist/69B1gu9EjC0rNb59YYNVPM) | [On Your Time](https://open.spotify.com/album/52ERswZYKe68NHnMAI8AXi) | 7:00 | 2023-10-06 |  |
+| [Cut the Grass](https://open.spotify.com/track/6zQvexoU5zfWObLpIX7p2S) | [The Steel Woods](https://open.spotify.com/artist/69B1gu9EjC0rNb59YYNVPM) | [On Your Time](https://open.spotify.com/album/52ERswZYKe68NHnMAI8AXi) | 7:00 | 2023-10-06 | 2023-12-02 |
 | [Days of Gold](https://open.spotify.com/track/5ETe7SElBIgm2NAZY3SpX4) | [Jake Owen](https://open.spotify.com/artist/1n2pb9Tsfe4SwAjmUac6YT) | [Days of Gold](https://open.spotify.com/album/59ePhOhLFvSOFG4L5FRGzp) | 3:21 | 2023-01-20 | 2023-04-01 |
 | [Devil Always Made Me Think Twice](https://open.spotify.com/track/3olGkpomYOWwRZsbFTZqiX) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Starting Over](https://open.spotify.com/album/0sOeI7pbAmIc8aDFyvkBUW) | 3:51 | 2021-11-01 |  |
 | [Devil You Know](https://open.spotify.com/track/2sKvfN6Kdjf9FA2yDWHQ6J) | [Tim Montana](https://open.spotify.com/artist/5RM955coCWa6UkFtlMapwC) | [Devil You Know](https://open.spotify.com/album/5HMTkM7veGMMg8sxammkYr) | 2:58 | 2023-10-06 | 2023-11-05 |
@@ -192,6 +192,7 @@
 | [Met the Devil in Oklahoma](https://open.spotify.com/track/32GtaR8mm14DOmhWzG8Jik) | [Josh Meloy](https://open.spotify.com/artist/3EVsC9ZK7QMDuK4FPcZaEq) | [Oklahoma](https://open.spotify.com/album/0WiOb4EttRiuPO0C9Ofoxh) | 3:56 | 2021-11-01 |  |
 | [Midnight Train To Memphis](https://open.spotify.com/track/6tInq1Sn2eehdsQGA9Aafh) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [From A Room: Volume 2](https://open.spotify.com/album/24fkX2Gdqw4a6pR9BUYbE5) | 3:42 | 2021-11-01 |  |
 | [Might As Well Be Me](https://open.spotify.com/track/1N9eCzPHV1UW56ebwPPfG3) | [Brothers Osborne](https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp) | [Nobody's Nobody](https://open.spotify.com/album/0aaO6RwzguktkvFY9CxQYg) | 2:49 | 2023-04-07 |  |
+| [Mine Never Could](https://open.spotify.com/track/3sShyPAlNV2WiZK1y6AOcN) | [Trey Lewis](https://open.spotify.com/artist/15tTVhFpH8EFXeDgO9xkRO) | [Mine Never Could](https://open.spotify.com/album/33mdBMjdHSWrIjrmHIhxGX) | 3:05 | 2023-12-01 |  |
 | [Money Spent](https://open.spotify.com/track/1HxcB2FgfYVhkbqNMCmq1O) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [Hell Paso](https://open.spotify.com/album/5seABmIu2cnoRMDoVHZvOD) | 2:36 | 2022-09-16 |  |
 | [Muddy Water Rockstar](https://open.spotify.com/track/0c7q7lZtMhZRorMojoxS5k) | [Austin Snell](https://open.spotify.com/artist/6Hd5hSFd33CfhMqtG3fjtx) | [Muddy Water Rockstar](https://open.spotify.com/album/0UPlIhD8KDe0cxT3J15OKT) | 2:32 | 2023-09-08 |  |
 | [My Ex Came Over](https://open.spotify.com/track/1DZjxXWHlbbADBfCYME9EK) | [Trey Lewis](https://open.spotify.com/artist/15tTVhFpH8EFXeDgO9xkRO) | [My Ex Came Over](https://open.spotify.com/album/41dWvxkKc9C4LXkj040o13) | 2:55 | 2022-07-22 | 2023-01-28 |
@@ -215,7 +216,7 @@
 | [Pickin’ Up Girls \(feat\. The Cadillac Three\)](https://open.spotify.com/track/5wuOWOnmXlH5mc3wTRfsx7) | [Dillon Carmichael](https://open.spotify.com/artist/3lvYE3o75PNjyvcKuBPXo6), [The Cadillac Three](https://open.spotify.com/artist/1nivFfWu6oXBFDNyVfFU5x) | [Pickin’ Up Girls \(feat\. The Cadillac Three\)](https://open.spotify.com/album/5fdFTuBT5KV1JzXPtweiBx) | 3:21 | 2021-11-01 | 2023-01-21 |
 | [Places To Run](https://open.spotify.com/track/4XXXLj4SKynrgyIEwibD9x) | [Dusty Black](https://open.spotify.com/artist/3f1bjQS5unVeAeUFWrb5DO) | [Places To Run](https://open.spotify.com/album/7cA953EqbwfrTJ3DYy5Zc6) | 2:58 | 2021-11-01 | 2022-07-28 |
 | [Poor Everybody Else](https://open.spotify.com/track/5EdBMq8ChkcIhegMPzVWCT) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Denim & Rhinestones](https://open.spotify.com/album/2owWAe2Sg7kh14s1JzR67u) | 3:45 | 2022-06-10 |  |
-| [Promiseland](https://open.spotify.com/track/3vDRPNARUjauckJY6VnmG0) | [Colin Stough](https://open.spotify.com/artist/3vT3vK5cuBWPPnaIIZRyds) | [Promiseland](https://open.spotify.com/album/2fqe9pxRWIEk27VrLRFBf7) | 2:35 | 2023-11-17 |  |
+| [Promiseland](https://open.spotify.com/track/3vDRPNARUjauckJY6VnmG0) | [Colin Stough](https://open.spotify.com/artist/3vT3vK5cuBWPPnaIIZRyds) | [Promiseland](https://open.spotify.com/album/2fqe9pxRWIEk27VrLRFBf7) | 2:35 | 2023-11-17 | 2023-12-02 |
 | [Promiseland](https://open.spotify.com/track/5QUhfrmKG93HXYmyvqoLfm) | [Colin Stough](https://open.spotify.com/artist/3vT3vK5cuBWPPnaIIZRyds) | [Promiseland](https://open.spotify.com/album/2y0FPrFN1IoM5U4cqxVYKq) | 2:35 | 2023-09-08 | 2023-11-18 |
 | [Pull Me Under](https://open.spotify.com/track/3hxE4hDy1kEYt1LBnpvD4e) | [Aaron Lewis](https://open.spotify.com/artist/2t2XKfWKLXpFIjFwy1K8wx) | [Frayed At Both Ends](https://open.spotify.com/album/2u0CICEVwEw51td3iLqcar) | 4:28 | 2022-07-22 | 2023-04-22 |
 | [Pull Me Under](https://open.spotify.com/track/6diaA6bkHgXuhlkmIYVAkf) | [Aaron Lewis](https://open.spotify.com/artist/2t2XKfWKLXpFIjFwy1K8wx) | [Pull Me Under](https://open.spotify.com/album/75aqS5tQ46UH4dsynit10p) | 4:28 | 2021-11-12 | 2022-07-29 |
@@ -265,6 +266,7 @@
 | [Sundress](https://open.spotify.com/track/2rrxStmULcrV7tx1TLFCx0) | [Elvie Shane](https://open.spotify.com/artist/2eIB6vFotL2su94z3pUC1j) | [Songs from 'Backslider'](https://open.spotify.com/album/0ayjSku5dGTl6a1ihuTEJv) | 3:30 | 2021-11-01 | 2022-07-29 |
 | [Tabasco & Sweet Tea](https://open.spotify.com/track/4Vqhd4iIm8rzXg3nGvOV5B) | [The Cadillac Three](https://open.spotify.com/artist/1nivFfWu6oXBFDNyVfFU5x) | [Tabasco & Sweet Tea](https://open.spotify.com/album/6uqyfBbmNhlGU6kRlD3WoA) | 4:40 | 2021-11-01 | 2023-07-15 |
 | [Tattoos on This Town](https://open.spotify.com/track/2SEsRxNSXidnMOZoTEzX1k) | [Jason Aldean](https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH) | [My Kinda Party](https://open.spotify.com/album/6gYk1JlSSmlUZGs1Lef1BI) | 3:22 | 2023-01-20 | 2023-11-17 |
+| [Tattoos on This Town](https://open.spotify.com/track/4tL7NTZPdKd5kdYRQ6bgpO) | [Jason Aldean](https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH) | [My Kinda Party](https://open.spotify.com/album/4DDsvEKPW32jeMEAqmOdjv) | 3:22 | 2023-12-01 |  |
 | [Tell the People](https://open.spotify.com/track/5gc0DRaKq0ijViRdG5juAS) | [Brett James](https://open.spotify.com/artist/3WIMGDdZYN91QQr3zGzpxo) | [Tell the People](https://open.spotify.com/album/0AXC4SSbB9ojN8ZFxXNTwt) | 3:38 | 2021-11-01 | 2022-07-29 |
 | [That's The Kinda Place](https://open.spotify.com/track/4lkxrngFnPkp54beg466xV) | [Ashland Craft](https://open.spotify.com/artist/5C5yczYHPeBi5PrwxfksLP) | [That's The Kinda Place](https://open.spotify.com/album/6QFCmYV8X3bclMyINhimCL) | 3:39 | 2021-11-01 | 2022-07-20 |
 | [That's Why We Fight \(feat\. Koe Wetzel\)](https://open.spotify.com/track/33MnBkmn4aV4AbUQS17eYU) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8), [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [That's Why We Fight \(feat\. Koe Wetzel\)](https://open.spotify.com/album/5JosqecYhWy8ikWQtYVLel) | 2:43 | 2023-04-21 |  |

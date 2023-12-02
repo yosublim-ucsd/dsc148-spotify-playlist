@@ -4,7 +4,7 @@
 
 > New age music for balancing mind and body.
 
-736 songs - 1 day 12 hr 50 min
+737 songs - 1 day 12 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -320,6 +320,7 @@
 | [Invisible Currents](https://open.spotify.com/track/58F2NUnMXH9VKWESwi05Z1) | [Asa Kora](https://open.spotify.com/artist/174Lkyx2f5M77yWd1Mofqj) | [Distant Sunrise](https://open.spotify.com/album/4isWOKOddFFaUGOApJL8uK) | 2:32 | 2022-09-01 | 2023-06-21 |
 | [Isen](https://open.spotify.com/track/2EUk3A93TmU67EPrv1OgWH) | [Dunsø](https://open.spotify.com/artist/0qTYCCllmwOsFme4OxrbkZ) | [Isen](https://open.spotify.com/album/5puRK11YllzsMfRy8Yxi6z) | 2:18 | 2022-09-22 | 2023-08-30 |
 | [Islands Above](https://open.spotify.com/track/0KJVIy0PAoldzsrzC96b8d) | [Quiet Point](https://open.spotify.com/artist/4IjFhiHshrelBCY2ACVwhR) | [Islands Above](https://open.spotify.com/album/3XoFd2HGKs63yw9EC4N2DX) | 2:36 | 2022-08-11 | 2023-06-21 |
+| [Isolate My Soul](https://open.spotify.com/track/6E2bLDnK8ivZpPg3GHheAX) | [Stormfields](https://open.spotify.com/artist/1PlgaV9zKrbKabenfaMf0C) | [Isolate My Soul](https://open.spotify.com/album/6u2Zm39N2QvcXtZY4BeVA3) | 2:24 | 2023-12-01 |  |
 | [It Begins](https://open.spotify.com/track/2jONJzJJyxkiqu3mpIjR39) | [myndstream](https://open.spotify.com/artist/4XeAwrDuVTNPa9WzLAerm3) | [It Begins](https://open.spotify.com/album/0j2yDeXylsqDQS8QdBmGel) | 5:19 | 2023-06-20 |  |
 | [It's Ineffable](https://open.spotify.com/track/7Jgj8nFdfLaPnIN7rL1G7d) | [Russel Jace](https://open.spotify.com/artist/6GwgVH86t9xt98l4RSoMbP) | [It's Ineffable](https://open.spotify.com/album/4sdMKvarcGY9xXHDy5Y4me) | 2:26 | 2022-06-22 |  |
 | [It’s Never Too Late](https://open.spotify.com/track/5j7Jg9bruInMqk96DOCxjH) | [Lily Valley](https://open.spotify.com/artist/24fmge1nCy1ahvJV09fEN7) | [It’s Never Too Late](https://open.spotify.com/album/0NaMd9PrXKi9QU8Z05Em4v) | 3:00 | 2021-12-21 | 2022-12-15 |
@@ -383,7 +384,7 @@
 | [Lull](https://open.spotify.com/track/2HBNfSLfBwKWiaSL5bg5jF) | [Sleepless Eye](https://open.spotify.com/artist/0q1jgFxjleKLegFYRiyPxS) | [Lull](https://open.spotify.com/album/7AszZgmEpOii7z6oSTqgac) | 2:59 | 2022-06-22 | 2022-10-16 |
 | [Lullaby Beach](https://open.spotify.com/track/2QFkozObCVLKtv8AX26yhY) | [Rand Aldo](https://open.spotify.com/artist/28COj84KB3mitRVXZkNW4N) | [Immerse](https://open.spotify.com/album/6CggWBPDBfzexrJ6ZZY5Ir) | 3:40 | 2021-12-21 | 2022-07-29 |
 | [Lullaby for Dreamers](https://open.spotify.com/track/6AsXo1lufj9WFqL4Youwzd) | [Angelic Planet](https://open.spotify.com/artist/1Dl9lNBXtDneUcugFZPq3H) | [Lullaby for Dreamers](https://open.spotify.com/album/1Ks1064T8n7ju8hQLGDH1D) | 3:02 | 2023-06-20 |  |
-| [Luminescence](https://open.spotify.com/track/2gtA1bK2XSyg4bWwkXz8wF) | [Cornlie Sourd](https://open.spotify.com/artist/2OqQqarMSRGZCavcgkQVrY) | [Luminescence](https://open.spotify.com/album/4HvbDI30Xhbev7NLMaWv2Q) | 2:38 | 2022-06-22 |  |
+| [Luminescence](https://open.spotify.com/track/2gtA1bK2XSyg4bWwkXz8wF) | [Cornlie Sourd](https://open.spotify.com/artist/2OqQqarMSRGZCavcgkQVrY) | [Luminescence](https://open.spotify.com/album/4HvbDI30Xhbev7NLMaWv2Q) | 2:38 | 2022-06-22 | 2023-12-02 |
 | [Luz y Alma](https://open.spotify.com/track/0NmNoAHu6DA4k5JBdLsWek) | [Arbol De Vida](https://open.spotify.com/artist/0bSj3wmQjpgGcN0L0zhli6) | [Luz Y Alma](https://open.spotify.com/album/1Nfv6omjm2UIoIokPBQ5ao) | 3:40 | 2021-12-21 | 2022-05-11 |
 | [Lyng](https://open.spotify.com/track/47qB0XJToyyOis9VCopt5Q) | [Luna S.](https://open.spotify.com/artist/3BJukNbWQs003mF3vawn5v) | [Lyng](https://open.spotify.com/album/4pcZEf8H3djemmKDO63JWv) | 3:22 | 2022-07-28 | 2023-01-21 |
 | [Macromedas](https://open.spotify.com/track/4r2XXfxvEHvQoSz1FVsrVu) | [Zoniacs](https://open.spotify.com/artist/6IiJPhO9buoldoCLSG4foO) | [Macromedas](https://open.spotify.com/album/2clBnik7oSq4iYjWCITgYl) | 2:33 | 2022-02-18 |  |

@@ -2640,7 +2640,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 162991,
       "name": "Gbese",
       "url": "https://open.spotify.com/track/41DLxR8Dt5Fh6LpqBjAnnJ"
@@ -3633,6 +3633,28 @@
     },
     {
       "album": {
+        "name": "Pheelz Good (Triibe Tape)",
+        "url": "https://open.spotify.com/album/1ZkAEtHY1UkPo9LguYVmMZ"
+      },
+      "artists": [
+        {
+          "name": "Pheelz",
+          "url": "https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg"
+        },
+        {
+          "name": "Olamide",
+          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165262,
+      "name": "JOY (feat. Olamide)",
+      "url": "https://open.spotify.com/track/29JDKOT4cf9fI6B52aTMKm"
+    },
+    {
+      "album": {
         "name": "Jumeirah",
         "url": "https://open.spotify.com/album/6QlAljhTljlTtzuPEDzBCm"
       },
@@ -3978,7 +4000,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 177915,
       "name": "Kpe Paso",
       "url": "https://open.spotify.com/track/4Mlgf7GD6bbx09N4uxqU3S"
@@ -4172,7 +4194,7 @@
       ],
       "date_added": "2022-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 150545,
       "name": "Like (feat. Kizz Daniel)",
       "url": "https://open.spotify.com/track/5Zez1biAREA2C8706kdlIb"
@@ -5107,7 +5129,7 @@
         },
         {
           "name": "Runtown",
-          "url": "https://open.spotify.com/artist/05GybwzsMqCk4a4Kq2Fqyw"
+          "url": "https://open.spotify.com/artist/6mMtnxEQkYoY5FfJIQ9Rhb"
         },
         {
           "name": "Dj Consequence",
@@ -6749,6 +6771,24 @@
     },
     {
       "album": {
+        "name": "Tupac",
+        "url": "https://open.spotify.com/album/1uLVlQFylIj6Fl2zi6r4Hs"
+      },
+      "artists": [
+        {
+          "name": "DopeNation",
+          "url": "https://open.spotify.com/artist/25vbw2Uw68Ny6ae7tekmky"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214302,
+      "name": "Tupac",
+      "url": "https://open.spotify.com/track/2WA0ROd9Vxjb83hTFah5CK"
+    },
+    {
+      "album": {
         "name": "Turkey Nla",
         "url": "https://open.spotify.com/album/2XuIjzprhWmIMOjSHdNMAL"
       },
@@ -6816,6 +6856,24 @@
       "duration_ms": 265486,
       "name": "Universe",
       "url": "https://open.spotify.com/track/53xvLHBlltsQQG3X9MrGtH"
+    },
+    {
+      "album": {
+        "name": "Up Forever",
+        "url": "https://open.spotify.com/album/0MudurbiRd1bZh3Vpagh2Z"
+      },
+      "artists": [
+        {
+          "name": "Bad Boy Timz",
+          "url": "https://open.spotify.com/artist/68R39izwNAztATrXMOqkJS"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150985,
+      "name": "Up Forever",
+      "url": "https://open.spotify.com/track/1KlbfHhbjOYMBQCCwjTYAi"
     },
     {
       "album": {

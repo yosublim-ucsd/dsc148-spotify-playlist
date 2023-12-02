@@ -689,6 +689,24 @@
     },
     {
       "album": {
+        "name": "Certainties",
+        "url": "https://open.spotify.com/album/3Z3q7AvkFeFnm966mtPKYa"
+      },
+      "artists": [
+        {
+          "name": "Lulu Ray",
+          "url": "https://open.spotify.com/artist/31JkhPiJvenq0fyg2UzdWJ"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129000,
+      "name": "Certainties",
+      "url": "https://open.spotify.com/track/5iYy0nMoSBsz13c2krUYdu"
+    },
+    {
+      "album": {
         "name": "Cette Montagne",
         "url": "https://open.spotify.com/album/4NIeCDqaUXOh2WD7jE0qNf"
       },
@@ -3008,6 +3026,24 @@
       "duration_ms": 187218,
       "name": "Lost Love",
       "url": "https://open.spotify.com/track/7tA9WVX94fVUUu4IJIY89u"
+    },
+    {
+      "album": {
+        "name": "lucid",
+        "url": "https://open.spotify.com/album/0HChcKa0H2YEitThGSmi3r"
+      },
+      "artists": [
+        {
+          "name": "Semaphore",
+          "url": "https://open.spotify.com/artist/6DrUO7tFv2WDlPuibMoNcV"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159480,
+      "name": "lucid",
+      "url": "https://open.spotify.com/track/6v4GhvB0MKJxyQFJg7lkLF"
     },
     {
       "album": {

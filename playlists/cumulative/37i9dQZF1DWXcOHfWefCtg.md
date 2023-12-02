@@ -4,7 +4,7 @@
 
 > Soulful takes on all your Holiday favorites\. Cover: James Brown
 
-67 songs - 3 hr 45 min
+68 songs - 3 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,7 @@
 | [Christmas Starts Tonight](https://open.spotify.com/track/359to2FTTRcoIC0C8KzIvK) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [Christmas Starts Tonight](https://open.spotify.com/album/24HSMI1P437oslb45uVikj) | 4:21 | 2023-11-03 |  |
 | [Christmas with You](https://open.spotify.com/track/32zz3fd8fKnJ415DGnPQfd) | [Macy Gray](https://open.spotify.com/artist/4ylR3zwA0zaapAu94fktwa), [The California Jet Club](https://open.spotify.com/artist/6OOn7tedu5plMS1AhGi022) | [Christmas with You](https://open.spotify.com/album/2HoqjjtNXcehLEFqxA8lcq) | 4:57 | 2022-11-18 |  |
 | [Christmas, Christmas](https://open.spotify.com/track/2TQArDxjfRt7GZCtDZn8eZ) | [Joyce Cooling](https://open.spotify.com/artist/44GiVGTGkzAmI1OGZcypec), [Peter Michael Escovedo](https://open.spotify.com/artist/6VUMUlXqhTYrRnhmaQl3Fl) | [The Holiday's On!](https://open.spotify.com/album/0MtHS4b4SL8xoy8IeHcFmW) | 3:22 | 2022-10-21 |  |
-| [Closer To Christmas](https://open.spotify.com/track/6VUHVDpHctDMY0nhtSSzIt) | [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [Closer To Christmas](https://open.spotify.com/album/1PxZd6H4nwkimCB7GEbLYv) | 3:10 | 2023-11-10 |  |
+| [Closer To Christmas](https://open.spotify.com/track/6VUHVDpHctDMY0nhtSSzIt) | [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [Closer To Christmas](https://open.spotify.com/album/1PxZd6H4nwkimCB7GEbLYv) | 3:12 | 2023-11-10 |  |
 | [Deck The Halls / Bring A Torch, Jeannette, Isabella \- Medley](https://open.spotify.com/track/3tPcCJUzDewJQCUf66VtWx) | [Smokey Robinson & The Miracles](https://open.spotify.com/artist/6TKOZZDd5uV5KnyC5G4MUt) | [The Season For Miracles](https://open.spotify.com/album/4A9VIgipTpqFKBgfMHNtgB) | 4:08 | 2021-11-12 | 2023-10-14 |
 | [Everyday Will Be Like a Holiday](https://open.spotify.com/track/461QQg3ncg2El2QWtUYXvQ) | [Kyla Jade](https://open.spotify.com/artist/53h8uFTiJyCrwu5SKsqAF0) | [Everyday Will Be Like a Holiday](https://open.spotify.com/album/5iXlwKBmIVd2eEvCHU3LiZ) | 3:56 | 2022-11-25 |  |
 | [Everyday Will Be Like A Holiday](https://open.spotify.com/track/59a5O7Sb1IgLvvjGJeL0ax) | [William Bell](https://open.spotify.com/artist/0mFoqJiNDtYntypvy6roGR) | [The Very Best Of William Bell](https://open.spotify.com/album/6Mk5jBRZjWJgzRzR8YFehS) | 2:37 | 2021-11-12 | 2023-11-11 |
@@ -45,7 +45,8 @@
 | [May Christmas Bring You Happiness](https://open.spotify.com/track/3wpn5NCocub0rM2Qj8ujFI) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [Christmas Music: 111 Christmas Songs](https://open.spotify.com/album/622lCf9Fo0DgSPsWTvGCho) | 4:29 | 2022-12-06 |  |
 | [Merry Christmas Baby](https://open.spotify.com/track/4STCTQ1h0VuWfvDyhGOxkv) | [Otis Redding](https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm) | [Merry Christmas Baby / White Christmas](https://open.spotify.com/album/004EYz2DQttcGvyTQGDmLp) | 2:35 | 2021-11-12 |  |
 | [Merry Christmas Baby](https://open.spotify.com/track/00Rlpe9Mh9jxaKf8wIBeHX) | [The Philly Specials](https://open.spotify.com/artist/4JPJvxDtfBlQAiNm8dd7vX), [Lady Alma](https://open.spotify.com/artist/61DvlgEM6AtszTLLPP4diu), [Jordan Mailata](https://open.spotify.com/artist/5HuUp43KWjjxtmQXB0OlUf) | [Merry Christmas Baby](https://open.spotify.com/album/1QrvcSGTYq213gxbABZRPA) | 4:18 | 2022-12-09 |  |
-| [Merry Christmas Baby](https://open.spotify.com/track/7ooQiumdRcTkymVcekm4U1) | [Vernon Garrett](https://open.spotify.com/artist/40QepulV493VVhpCsBL6Uu) | [Merry Christmas Baby](https://open.spotify.com/album/6cVHfWKMVcKKc3VChVI9C6) | 2:48 | 2022-12-06 |  |
+| [Merry Christmas Baby](https://open.spotify.com/track/7ooQiumdRcTkymVcekm4U1) | [Vernon Garrett](https://open.spotify.com/artist/40QepulV493VVhpCsBL6Uu) | [Merry Christmas Baby](https://open.spotify.com/album/6cVHfWKMVcKKc3VChVI9C6) | 2:48 | 2022-12-06 | 2023-12-02 |
+| [Merry Christmas, I Love You](https://open.spotify.com/track/05Nt0XCxYOCyr01G56AWVq) | [Robert Finley](https://open.spotify.com/artist/29mRqqZ15WaYjEsKNzcRkv) | [Merry Christmas, I Love You](https://open.spotify.com/album/0i4r4sJaZCyvgndUdMEXWI) | 2:57 | 2023-12-01 |  |
 | [My Christmas Tree](https://open.spotify.com/track/1x6KtTuPUDLHEpmQHjzzwh) | [The Temptations](https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG) | [The Temptations' Christmas Card](https://open.spotify.com/album/6I2JnGSREqEgFPnSXkFxlW) | 3:18 | 2021-11-12 |  |
 | [My Favorite Things](https://open.spotify.com/track/6Bbak9Sp1vo0l8kptfv3Xd) | [The Supremes](https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV) | [Merry Christmas](https://open.spotify.com/album/6wP6F93vo81jsyGMnHvFGP) | 2:48 | 2021-11-12 |  |
 | [One Little Christmas Tree](https://open.spotify.com/track/1QGJ4tts3Owl4lnOU2bFJQ) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [20th Century Masters \- The Best of Stevie Wonder: The Christmas Collection](https://open.spotify.com/album/734TT1LYLvM5gAAYvG0DSw) | 2:47 | 2021-11-12 |  |

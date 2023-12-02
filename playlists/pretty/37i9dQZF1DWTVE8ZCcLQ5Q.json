@@ -1,12 +1,12 @@
 {
   "description": "Descubra Abbot e novos talentos brasileiros no horizonte.",
-  "num_followers": 419270,
+  "num_followers": 419259,
   "original_name": "RADAR Brasil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NGRiYzAzYzE4YjY1M2M2ZWE3ODA1YjI3YWE5Y2QwY2E1ZjcyZWVj",
+  "snapshot_id": "MCw0NDZjZDMxMGZkNTZlNzMxZWFlYmY4MWU3OTRjNWVkNjY2MmUyMTY4",
   "tracks": [
     {
       "added_at": "2023-10-05 08:00:00",
@@ -355,30 +355,6 @@
     {
       "added_at": "2023-10-05 08:00:00",
       "album": {
-        "name": "Uber",
-        "url": "https://open.spotify.com/album/1Uf5qg0DF4xGCl2JYKz2Ae"
-      },
-      "artists": [
-        {
-          "name": "Ryu, the Runner",
-          "url": "https://open.spotify.com/artist/1ZzJx2AgPmbnOE6OXhnn5K"
-        },
-        {
-          "name": "Mateca",
-          "url": "https://open.spotify.com/artist/6PCKJU7fu36U4fRl7354wU"
-        },
-        {
-          "name": "Trap Select",
-          "url": "https://open.spotify.com/artist/1VlNGdzvBRtCDPi18GuX91"
-        }
-      ],
-      "duration_ms": 157741,
-      "name": "Uber",
-      "url": "https://open.spotify.com/track/3e9jL8tQI1JyBQgaXYFwUb"
-    },
-    {
-      "added_at": "2023-10-05 08:00:00",
-      "album": {
         "name": "Combate",
         "url": "https://open.spotify.com/album/4UNuBZQoxlSjx2bCI8kqfC"
       },
@@ -403,6 +379,30 @@
       "duration_ms": 190850,
       "name": "Combate",
       "url": "https://open.spotify.com/track/2LkRPTwqJ6PqoOKswBQkdp"
+    },
+    {
+      "added_at": "2023-10-05 08:00:00",
+      "album": {
+        "name": "Uber",
+        "url": "https://open.spotify.com/album/1Uf5qg0DF4xGCl2JYKz2Ae"
+      },
+      "artists": [
+        {
+          "name": "Ryu, the Runner",
+          "url": "https://open.spotify.com/artist/1ZzJx2AgPmbnOE6OXhnn5K"
+        },
+        {
+          "name": "Mateca",
+          "url": "https://open.spotify.com/artist/6PCKJU7fu36U4fRl7354wU"
+        },
+        {
+          "name": "Trap Select",
+          "url": "https://open.spotify.com/artist/1VlNGdzvBRtCDPi18GuX91"
+        }
+      ],
+      "duration_ms": 157741,
+      "name": "Uber",
+      "url": "https://open.spotify.com/track/3e9jL8tQI1JyBQgaXYFwUb"
     },
     {
       "added_at": "2023-10-05 08:00:00",
@@ -1035,6 +1035,30 @@
     {
       "added_at": "2023-10-05 08:00:00",
       "album": {
+        "name": "O Justo N\u00e3o Treme",
+        "url": "https://open.spotify.com/album/1pm3hj3qfoAE19oN5paIec"
+      },
+      "artists": [
+        {
+          "name": "Veigh",
+          "url": "https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse"
+        },
+        {
+          "name": "Nagalli",
+          "url": "https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk"
+        },
+        {
+          "name": "Supernova Ent",
+          "url": "https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw"
+        }
+      ],
+      "duration_ms": 169057,
+      "name": "O Justo N\u00e3o Treme",
+      "url": "https://open.spotify.com/track/449BJmYTFxZiF3hIyRrrOw"
+    },
+    {
+      "added_at": "2023-10-05 08:00:00",
+      "album": {
         "name": "Deixar na B",
         "url": "https://open.spotify.com/album/4INsklfCI6hFcmWBc2MkF3"
       },
@@ -1179,26 +1203,6 @@
     {
       "added_at": "2023-10-05 08:00:00",
       "album": {
-        "name": "Droga Pesada (feat. Nairo)",
-        "url": "https://open.spotify.com/album/4HvKx6P0xAP9pU12U2a9Xa"
-      },
-      "artists": [
-        {
-          "name": "Anchietx",
-          "url": "https://open.spotify.com/artist/0Ld8rJ0rdAEAi2oe6seDEp"
-        },
-        {
-          "name": "Nairo",
-          "url": "https://open.spotify.com/artist/1D8czLMHw5DiZCQGd6xHXa"
-        }
-      ],
-      "duration_ms": 184615,
-      "name": "Droga Pesada (feat. Nairo)",
-      "url": "https://open.spotify.com/track/2CpsrN0SS2uMLsxBJLEB5h"
-    },
-    {
-      "added_at": "2023-10-05 08:00:00",
-      "album": {
         "name": "Rompe",
         "url": "https://open.spotify.com/album/283BKOpijdldRWEsKOfAmT"
       },
@@ -1219,6 +1223,26 @@
       "duration_ms": 153004,
       "name": "Rompe",
       "url": "https://open.spotify.com/track/5ay5pvM8CuZTsbrr0wfxRH"
+    },
+    {
+      "added_at": "2023-10-05 08:00:00",
+      "album": {
+        "name": "Droga Pesada (feat. Nairo)",
+        "url": "https://open.spotify.com/album/4HvKx6P0xAP9pU12U2a9Xa"
+      },
+      "artists": [
+        {
+          "name": "Anchietx",
+          "url": "https://open.spotify.com/artist/0Ld8rJ0rdAEAi2oe6seDEp"
+        },
+        {
+          "name": "Nairo",
+          "url": "https://open.spotify.com/artist/1D8czLMHw5DiZCQGd6xHXa"
+        }
+      ],
+      "duration_ms": 184615,
+      "name": "Droga Pesada (feat. Nairo)",
+      "url": "https://open.spotify.com/track/2CpsrN0SS2uMLsxBJLEB5h"
     },
     {
       "added_at": "2023-10-05 08:00:00",
@@ -1315,30 +1339,6 @@
       "duration_ms": 151111,
       "name": "alice (s\u00f3 que sem as maravilhas)",
       "url": "https://open.spotify.com/track/5FSjNo8QjPCMU5qo8NKOxY"
-    },
-    {
-      "added_at": "2023-10-05 08:00:00",
-      "album": {
-        "name": "O Justo N\u00e3o Treme",
-        "url": "https://open.spotify.com/album/1pm3hj3qfoAE19oN5paIec"
-      },
-      "artists": [
-        {
-          "name": "Veigh",
-          "url": "https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse"
-        },
-        {
-          "name": "Nagalli",
-          "url": "https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk"
-        },
-        {
-          "name": "Supernova Ent",
-          "url": "https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw"
-        }
-      ],
-      "duration_ms": 169057,
-      "name": "O Justo N\u00e3o Treme",
-      "url": "https://open.spotify.com/track/449BJmYTFxZiF3hIyRrrOw"
     },
     {
       "added_at": "2023-10-05 08:00:00",
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2023-10-05 08:00:00",
       "album": {
-        "name": "V\u00eanus",
-        "url": "https://open.spotify.com/album/1sDQNKjF3tZsLJgtaGnagx"
-      },
-      "artists": [
-        {
-          "name": "IZRRA",
-          "url": "https://open.spotify.com/artist/38m0QxjrBKOOEymSd33GzV"
-        }
-      ],
-      "duration_ms": 177524,
-      "name": "V\u00eanus",
-      "url": "https://open.spotify.com/track/0BLl7ykY95c40yMYW5iPjQ"
-    },
-    {
-      "added_at": "2023-10-05 08:00:00",
-      "album": {
         "name": "Trem Bala",
         "url": "https://open.spotify.com/album/6YZ5ViirT28npvybtFtx42"
       },
@@ -1523,6 +1507,22 @@
       "duration_ms": 116571,
       "name": "Trem Bala",
       "url": "https://open.spotify.com/track/1IJvvl30UCU5pwqiQ6ESFL"
+    },
+    {
+      "added_at": "2023-10-05 08:00:00",
+      "album": {
+        "name": "V\u00eanus",
+        "url": "https://open.spotify.com/album/1sDQNKjF3tZsLJgtaGnagx"
+      },
+      "artists": [
+        {
+          "name": "IZRRA",
+          "url": "https://open.spotify.com/artist/38m0QxjrBKOOEymSd33GzV"
+        }
+      ],
+      "duration_ms": 177524,
+      "name": "V\u00eanus",
+      "url": "https://open.spotify.com/track/0BLl7ykY95c40yMYW5iPjQ"
     },
     {
       "added_at": "2023-10-05 08:00:00",

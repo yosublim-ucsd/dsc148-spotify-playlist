@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/quintab/\">Quinta Brunson</a>",
-  "num_followers": 52250,
+  "num_followers": 52328,
   "original_name": "Quinta Brunson's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZDRkNmQ2MTg5ZWEyNDM1ZTBlYzQxMTA1N2YxZmI0NmE1MTE2OTEw",
+  "snapshot_id": "MCxmMDM2YjI4MzhiMmFjNDg0YWFmMzBiNzhiNDlmZmVmM2JiY2JjOGM3",
   "tracks": [
     {
       "added_at": "2022-10-01 16:54:27",
@@ -383,22 +383,6 @@
     {
       "added_at": "2022-10-01 16:54:27",
       "album": {
-        "name": "Pressure",
-        "url": "https://open.spotify.com/album/5lpInBYJiEtNyOXLIa3c9B"
-      },
-      "artists": [
-        {
-          "name": "Ari Lennox",
-          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
-        }
-      ],
-      "duration_ms": 193279,
-      "name": "Pressure",
-      "url": "https://open.spotify.com/track/6ElfCM1XppU0YWkkFYh4s2"
-    },
-    {
-      "added_at": "2022-10-01 16:54:27",
-      "album": {
         "name": "II",
         "url": "https://open.spotify.com/album/1IWhZEOwEoXbOB4a40XaR3"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 201400,
       "name": "Water Runs Dry",
       "url": "https://open.spotify.com/track/7yhmvQh1JOzbNiNFQo4Tfc"
+    },
+    {
+      "added_at": "2022-10-01 16:54:27",
+      "album": {
+        "name": "Pressure",
+        "url": "https://open.spotify.com/album/5lpInBYJiEtNyOXLIa3c9B"
+      },
+      "artists": [
+        {
+          "name": "Ari Lennox",
+          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
+        }
+      ],
+      "duration_ms": 193279,
+      "name": "Pressure",
+      "url": "https://open.spotify.com/track/6ElfCM1XppU0YWkkFYh4s2"
     },
     {
       "added_at": "2022-10-01 16:54:27",
@@ -552,9 +552,9 @@
           "url": "https://open.spotify.com/artist/2auiVi8sUZo17dLy1HwrTU"
         }
       ],
-      "duration_ms": 182106,
-      "name": "Jerrod",
-      "url": "https://open.spotify.com/track/6ZDQdAeTYt13V67K7LJXDv"
+      "duration_ms": 175240,
+      "name": "Way to the Show",
+      "url": "https://open.spotify.com/track/2jVLwzrzKVhcI8UmVonVas"
     },
     {
       "added_at": "2022-10-01 16:54:27",
@@ -672,9 +672,9 @@
           "url": "https://open.spotify.com/artist/2auiVi8sUZo17dLy1HwrTU"
         }
       ],
-      "duration_ms": 175240,
-      "name": "Way to the Show",
-      "url": "https://open.spotify.com/track/2jVLwzrzKVhcI8UmVonVas"
+      "duration_ms": 182106,
+      "name": "Jerrod",
+      "url": "https://open.spotify.com/track/6ZDQdAeTYt13V67K7LJXDv"
     },
     {
       "added_at": "2022-10-01 16:54:27",
@@ -695,26 +695,6 @@
     {
       "added_at": "2022-10-01 16:54:27",
       "album": {
-        "name": "Diana Ross & The Supremes Join The Temptations",
-        "url": "https://open.spotify.com/album/7tZt4EApjs2MSzt0OJ1vaT"
-      },
-      "artists": [
-        {
-          "name": "Diana Ross & The Supremes",
-          "url": "https://open.spotify.com/artist/0rXI0q8Cahq6numvPlloaq"
-        },
-        {
-          "name": "The Temptations",
-          "url": "https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG"
-        }
-      ],
-      "duration_ms": 136466,
-      "name": "Ain't No Mountain High Enough",
-      "url": "https://open.spotify.com/track/4nop5UmWUqnlxkQ4kvG3Rp"
-    },
-    {
-      "added_at": "2022-10-01 16:54:27",
-      "album": {
         "name": "Broken Hearts Club",
         "url": "https://open.spotify.com/album/04xudYiCT2xyEVfF5Ov14Y"
       },
@@ -731,6 +711,26 @@
       "duration_ms": 244138,
       "name": "CYBAH (feat. Lucky Daye)",
       "url": "https://open.spotify.com/track/50wpwXmMyYWMEhuATNxLEt"
+    },
+    {
+      "added_at": "2022-10-01 16:54:27",
+      "album": {
+        "name": "Diana Ross & The Supremes Join The Temptations",
+        "url": "https://open.spotify.com/album/7tZt4EApjs2MSzt0OJ1vaT"
+      },
+      "artists": [
+        {
+          "name": "Diana Ross & The Supremes",
+          "url": "https://open.spotify.com/artist/0rXI0q8Cahq6numvPlloaq"
+        },
+        {
+          "name": "The Temptations",
+          "url": "https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG"
+        }
+      ],
+      "duration_ms": 136466,
+      "name": "Ain't No Mountain High Enough",
+      "url": "https://open.spotify.com/track/4nop5UmWUqnlxkQ4kvG3Rp"
     },
     {
       "added_at": "2022-10-01 16:54:27",
@@ -783,6 +783,22 @@
     {
       "added_at": "2022-10-01 16:54:27",
       "album": {
+        "name": "Fin",
+        "url": "https://open.spotify.com/album/59Bbr32pMTFHlUb8Nv1Kr0"
+      },
+      "artists": [
+        {
+          "name": "Syd",
+          "url": "https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx"
+        }
+      ],
+      "duration_ms": 214706,
+      "name": "Know",
+      "url": "https://open.spotify.com/track/4xyoLXrUb0cpROQwZe1ggb"
+    },
+    {
+      "added_at": "2022-10-01 16:54:27",
+      "album": {
         "name": "The Breakthrough",
         "url": "https://open.spotify.com/album/13HYuDhB1soZvHzwoymXoV"
       },
@@ -815,22 +831,6 @@
       "duration_ms": 394029,
       "name": "Table For One",
       "url": "https://open.spotify.com/track/2hQ2Ux2pzBEd20mCyLHvx8"
-    },
-    {
-      "added_at": "2022-10-01 16:54:27",
-      "album": {
-        "name": "Fin",
-        "url": "https://open.spotify.com/album/59Bbr32pMTFHlUb8Nv1Kr0"
-      },
-      "artists": [
-        {
-          "name": "Syd",
-          "url": "https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx"
-        }
-      ],
-      "duration_ms": 214706,
-      "name": "Know",
-      "url": "https://open.spotify.com/track/4xyoLXrUb0cpROQwZe1ggb"
     },
     {
       "added_at": "2022-10-01 16:54:27",

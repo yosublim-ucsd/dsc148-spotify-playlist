@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 
 > 100 Suomi 💯 Kannessa Sexmane.
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,460 likes - 60 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,499 likes - 60 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 | 59 | [Parempaa](https://open.spotify.com/track/58T8f59Q4RGzHJWVpN9Ws7) | [Tupla W](https://open.spotify.com/artist/7F78b8yOU6hCoJTYARgIEq) | [Parempaa](https://open.spotify.com/album/5QZB7QFNnw9p8o3O1Uai6t) | 3:06 |
 | 60 | [Liikkuu Juttuu](https://open.spotify.com/track/7sQkF23GZt3EJYJflV8xVO) | [Jere](https://open.spotify.com/artist/3Oxf4EUF3hcY3qpqd5W04o) | [Liikkuu Juttuu](https://open.spotify.com/album/3PwvlZoFtHVCnFYTikVl36) | 3:03 |
 
-Snapshot ID: `MCw2Mjc2Y2JhNWFkMDllOGI4YTliZjNlZDdlNzg4ZDAyODFmNTUzYjI2`
+Snapshot ID: `MCxjYWRhOGE5YmZiMzI0NjlhNTI2YWU3NWYyMjU2ZWYwOGVhMmIyNmU3`

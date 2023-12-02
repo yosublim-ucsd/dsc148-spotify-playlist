@@ -566,7 +566,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 222653,
       "name": "California",
       "url": "https://open.spotify.com/track/0SZuZRybxPKuZ5H6CsSPX3"
@@ -602,7 +602,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 227600,
       "name": "Call It What It Is",
       "url": "https://open.spotify.com/track/5RTeMqtMcVCOukwgiNg11H"
@@ -934,7 +934,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 263360,
       "name": "Dead In The Water",
       "url": "https://open.spotify.com/track/5tFg8himaf7zeYyXhaDqaI"
@@ -1180,7 +1180,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 215521,
       "name": "Downtown",
       "url": "https://open.spotify.com/track/2UvlS6WCq3F4BQNQU8OUnx"
@@ -1432,7 +1432,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 216084,
       "name": "Fire",
       "url": "https://open.spotify.com/track/7JDGQ1tmrKQCz9ptRTrt13"
@@ -1954,7 +1954,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 214054,
       "name": "Highest Bidder",
       "url": "https://open.spotify.com/track/6Xhgmbv1U7XP1EXuCKQ9Hp"
@@ -2328,7 +2328,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 222706,
       "name": "I Wish I Knew How It Would Feel To Be Free",
       "url": "https://open.spotify.com/track/6w23sxZepVSmRiTLDsP5ou"
@@ -2640,7 +2640,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 170773,
       "name": "I\u2019m a Raven (Shake Children)",
       "url": "https://open.spotify.com/track/50ekLb1wXqwCalbH4onfGU"
@@ -2832,7 +2832,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 286890,
       "name": "Let You Go",
       "url": "https://open.spotify.com/track/2p8vubDBdUmbbdNWtC1Ots"
@@ -3326,7 +3326,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 196160,
       "name": "Old Sob Story",
       "url": "https://open.spotify.com/track/7Akh76oQE1crm0aIz9B7IK"
@@ -3398,7 +3398,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 223124,
       "name": "On the Road Again",
       "url": "https://open.spotify.com/track/1BQkVDlEOtYKOaotnJuNzz"
@@ -3680,7 +3680,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 224906,
       "name": "Ride On / Right On",
       "url": "https://open.spotify.com/track/7Ep6MLL8ATx0fFczswsvR5"
@@ -3720,6 +3720,24 @@
       "duration_ms": 209920,
       "name": "Riverbottom",
       "url": "https://open.spotify.com/track/7iHqJkRnL9sRKpcFzgfVl1"
+    },
+    {
+      "album": {
+        "name": "Rooster",
+        "url": "https://open.spotify.com/album/7htHDHnkAKQAJgDMTRhKgM"
+      },
+      "artists": [
+        {
+          "name": "JJ Grey & Mofro",
+          "url": "https://open.spotify.com/artist/1Jl8u1U1GtBlwocZK5LWZv"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291335,
+      "name": "Rooster",
+      "url": "https://open.spotify.com/track/28A4wvtJNrfEUJ1OvKadpk"
     },
     {
       "album": {
@@ -3850,7 +3868,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 231226,
       "name": "Shape Shifter",
       "url": "https://open.spotify.com/track/7F6S1cyEbjKz6tvO1wmhwi"
@@ -4412,7 +4430,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 197413,
       "name": "These American Blues",
       "url": "https://open.spotify.com/track/7dkCUjlfKdnpLGr6B1jhle"
@@ -4510,7 +4528,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 233173,
       "name": "Thousand Mile Night",
       "url": "https://open.spotify.com/track/7daWU6T6qzj6W2e8wVDg3D"
@@ -4802,7 +4820,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 142443,
       "name": "Uh Huh",
       "url": "https://open.spotify.com/track/5sRyU2xqnQvCzL6L0OMD37"

@@ -1,12 +1,12 @@
 {
   "description": "\u00c9chate un zapateo al ritmo del tribal.",
-  "num_followers": 68432,
+  "num_followers": 68523,
   "original_name": "Fiesta Tribal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNjJkMjZiYTAyYTlkODI3MjM5MmY1OGMwYzQ3OGJmZWZiZTI0ZWVk",
+  "snapshot_id": "MCw5ZGViOTc0NGIwZmQ2OWI0NjJlMThlOTJhYTgwOGRjYzExNjU0OGQ5",
   "tracks": [
     {
       "added_at": "2022-08-05 05:00:00",
@@ -387,6 +387,22 @@
     {
       "added_at": "2022-08-05 05:00:00",
       "album": {
+        "name": "Much\u00edsimo Tribal",
+        "url": "https://open.spotify.com/album/5QN3rjn0ivCi8PtLv63vlp"
+      },
+      "artists": [
+        {
+          "name": "Tribal Guarachero",
+          "url": "https://open.spotify.com/artist/5joTsOB4J8FAS2srUZrwCt"
+        }
+      ],
+      "duration_ms": 220212,
+      "name": "La Culebritica",
+      "url": "https://open.spotify.com/track/589A2uQDPameLScx9xkUDn"
+    },
+    {
+      "added_at": "2022-08-05 05:00:00",
+      "album": {
         "name": "Int\u00e9ntalo (Deluxe Edition)",
         "url": "https://open.spotify.com/album/4ldSAxBxxmdxlfoh81njb4"
       },
@@ -419,22 +435,6 @@
       "duration_ms": 170189,
       "name": "Cuando",
       "url": "https://open.spotify.com/track/55YjhypCixxXshs5zrwT2A"
-    },
-    {
-      "added_at": "2022-08-05 05:00:00",
-      "album": {
-        "name": "Much\u00edsimo Tribal",
-        "url": "https://open.spotify.com/album/5QN3rjn0ivCi8PtLv63vlp"
-      },
-      "artists": [
-        {
-          "name": "Tribal Guarachero",
-          "url": "https://open.spotify.com/artist/5joTsOB4J8FAS2srUZrwCt"
-        }
-      ],
-      "duration_ms": 220212,
-      "name": "La Culebritica",
-      "url": "https://open.spotify.com/track/589A2uQDPameLScx9xkUDn"
     },
     {
       "added_at": "2022-08-05 05:00:00",
@@ -587,26 +587,6 @@
     {
       "added_at": "2022-08-05 05:00:00",
       "album": {
-        "name": "I'm #ELSRDLM",
-        "url": "https://open.spotify.com/album/0ZFG7HAARlziJ1QKjoYNC6"
-      },
-      "artists": [
-        {
-          "name": "TOSCA",
-          "url": "https://open.spotify.com/artist/4HNSfNTAFpn017tvAro6xx"
-        },
-        {
-          "name": "Alex Martinez",
-          "url": "https://open.spotify.com/artist/3vkoJYTS0dkxrsrpAVPrTb"
-        }
-      ],
-      "duration_ms": 238186,
-      "name": "Tokio",
-      "url": "https://open.spotify.com/track/181jOJv47IFVJNlZqSgHFW"
-    },
-    {
-      "added_at": "2022-08-05 05:00:00",
-      "album": {
         "name": "Ya Se Tardaron",
         "url": "https://open.spotify.com/album/4wKTQKjevGrmYplMzNAaVm"
       },
@@ -631,8 +611,28 @@
     {
       "added_at": "2022-08-05 05:00:00",
       "album": {
-        "name": "Meneando Cadera",
-        "url": "https://open.spotify.com/album/12keArBDvY9uckQtaIEbSS"
+        "name": "I'm #ELSRDLM",
+        "url": "https://open.spotify.com/album/0ZFG7HAARlziJ1QKjoYNC6"
+      },
+      "artists": [
+        {
+          "name": "TOSCA",
+          "url": "https://open.spotify.com/artist/4HNSfNTAFpn017tvAro6xx"
+        },
+        {
+          "name": "Alex Martinez",
+          "url": "https://open.spotify.com/artist/3vkoJYTS0dkxrsrpAVPrTb"
+        }
+      ],
+      "duration_ms": 238186,
+      "name": "Tokio",
+      "url": "https://open.spotify.com/track/181jOJv47IFVJNlZqSgHFW"
+    },
+    {
+      "added_at": "2022-08-05 05:00:00",
+      "album": {
+        "name": "Pompi Cadera",
+        "url": "https://open.spotify.com/album/4Ny0w4fmGU7XvctBjU6bxD"
       },
       "artists": [
         {
@@ -640,9 +640,9 @@
           "url": "https://open.spotify.com/artist/2EU3cjIkOdu1nDo4dJZ7Ba"
         }
       ],
-      "duration_ms": 131320,
-      "name": "Meneando Cadera",
-      "url": "https://open.spotify.com/track/23Ds3J2wLjXw1SkN3qICzv"
+      "duration_ms": 140720,
+      "name": "Pompi Cadera",
+      "url": "https://open.spotify.com/track/0yYfcUbO9c4VvtnUYfxdOf"
     },
     {
       "added_at": "2022-08-05 05:00:00",
@@ -735,8 +735,8 @@
     {
       "added_at": "2022-08-05 05:00:00",
       "album": {
-        "name": "Pompi Cadera",
-        "url": "https://open.spotify.com/album/4Ny0w4fmGU7XvctBjU6bxD"
+        "name": "Meneando Cadera",
+        "url": "https://open.spotify.com/album/12keArBDvY9uckQtaIEbSS"
       },
       "artists": [
         {
@@ -744,9 +744,9 @@
           "url": "https://open.spotify.com/artist/2EU3cjIkOdu1nDo4dJZ7Ba"
         }
       ],
-      "duration_ms": 140720,
-      "name": "Pompi Cadera",
-      "url": "https://open.spotify.com/track/0yYfcUbO9c4VvtnUYfxdOf"
+      "duration_ms": 131320,
+      "name": "Meneando Cadera",
+      "url": "https://open.spotify.com/track/23Ds3J2wLjXw1SkN3qICzv"
     },
     {
       "added_at": "2022-08-05 05:00:00",

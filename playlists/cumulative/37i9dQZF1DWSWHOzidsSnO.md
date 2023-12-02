@@ -4,7 +4,7 @@
 
 > ¡Lo más Top de las mujeres de los Andes, a todo volumen! En portada Naïa Valdez.
 
-272 songs - 15 hr 1 min
+273 songs - 15 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -127,7 +127,7 @@
 | [Imágenes](https://open.spotify.com/track/53JvAzn6rIzHFkAE4MnMQO) | [Adriana Lucia](https://open.spotify.com/artist/5u4ozdMUTJLCJPYkFVoy0o) | [Imágenes](https://open.spotify.com/album/6EMkMek4awK6MwOeazX9Z7) | 5:00 | 2023-08-11 | 2023-11-02 |
 | [ingenuamente, Vol\. 2](https://open.spotify.com/track/33hL3bl4exUdpylZ4JhV6f) | [Daniela Arredondo](https://open.spotify.com/artist/0HyOOT0sKxLVRVRNwN8stq) | [ingenuamente, Vol\. 2](https://open.spotify.com/album/1u98MqINJAVWsVqmxi7eEI) | 2:26 | 2023-11-24 |  |
 | [Invasión Costeña](https://open.spotify.com/track/4fuJAsFHJLQbapuIJh3Yys) | [Cynthia Montaño](https://open.spotify.com/artist/0ZmLQD0JMILG9pXpHLTfaw) | [Invasión Costeña](https://open.spotify.com/album/2KsCCBWv278m3g0T79GwkA) | 4:31 | 2022-01-05 | 2023-06-08 |
-| [kunai](https://open.spotify.com/track/3k5F4Vn3Nq6rNF5YSww3MO) | [Naïa Valdez](https://open.spotify.com/artist/1WE5kYBn5jgJyzXroKVktA) | [kunai](https://open.spotify.com/album/7hTt5gR7X0HZ6YeoFglPmX) | 2:09 | 2023-11-01 |  |
+| [kunai](https://open.spotify.com/track/3k5F4Vn3Nq6rNF5YSww3MO) | [Naïa Valdez](https://open.spotify.com/artist/1WE5kYBn5jgJyzXroKVktA) | [kunai](https://open.spotify.com/album/7hTt5gR7X0HZ6YeoFglPmX) | 2:09 | 2023-11-01 | 2023-12-02 |
 | [La América Que Se Olvida](https://open.spotify.com/track/0AGZs1EHZGQWsgECcEXPyr) | [Renata Flores](https://open.spotify.com/artist/3TZtFZu2rmUnoE0kr8QxdT) | [La América Que Se Olvida](https://open.spotify.com/album/6ORkGUSMv5j55oFy90JxzV) | 3:06 | 2023-07-06 |  |
 | [La Cara](https://open.spotify.com/track/48hh5h1N1oe2zmapBQ4uye) | [La Muchacha](https://open.spotify.com/artist/74IAICxWfYBsjabuEbKQXV) | [La Cara](https://open.spotify.com/album/3n4PlVDnUeFUuS1oIyuS7D) | 2:03 | 2022-01-05 | 2023-01-05 |
 | [La Diferente](https://open.spotify.com/track/4Nivbcp45LZSLnPRjNrlBg) | [Pitizion](https://open.spotify.com/artist/0GWdY55YF6xzN5L1A0X8nq) | [La Diferente](https://open.spotify.com/album/2S4Go2c9gl4qsGgQwAeBe2) | 3:07 | 2022-01-05 | 2022-03-10 |
@@ -235,6 +235,7 @@
 | [SOLO TÚ](https://open.spotify.com/track/1rJih4t89dT4Dm3tp9Qiwd) | [Briella](https://open.spotify.com/artist/3ef240gIQOpOu1OaPNYF2b) | [SOLO TÚ](https://open.spotify.com/album/2TH7K9IjW8CmSvHddf3cyT) | 3:12 | 2023-10-04 |  |
 | [Solterona](https://open.spotify.com/track/7wqZ2hFlSkZMzmAY8fJeXJ) | [Luz Pinos](https://open.spotify.com/artist/23D2NCgVNbve7gXb2AjOFM) | [Solterona](https://open.spotify.com/album/6uVqxMvijsXhcNXqtuCiv4) | 2:59 | 2023-01-04 |  |
 | [Sí](https://open.spotify.com/track/4hgcGCJZPv0SPrbidGwpfI) | [La Lá](https://open.spotify.com/artist/7nZ3e67Mo4DLU1RC81KX8H), [Jósean Log](https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF) | [Sí](https://open.spotify.com/album/7knVEKrQWPs7BIHXJwJDsJ) | 2:38 | 2023-04-05 | 2023-07-01 |
+| [tamagotchi](https://open.spotify.com/track/1vHxEzI1v51jIAQM7D5g6g) | [Naïa Valdez](https://open.spotify.com/artist/1WE5kYBn5jgJyzXroKVktA), [Blephs](https://open.spotify.com/artist/2YaIdd9nbLTUrHjwsh7c2o) | [nena kunai](https://open.spotify.com/album/723RPBWXK0P5zbstDACnfo) | 2:32 | 2023-12-01 |  |
 | [Te Creí](https://open.spotify.com/track/1G2ZDpnDiNoS2hLunRxsvL) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX), [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [Te Creí](https://open.spotify.com/album/03IYqrR1pFpSIRi323LrwW) | 4:02 | 2022-01-05 | 2022-03-05 |
 | [Te Espero](https://open.spotify.com/track/3bM62eLHGIIdf3ZYSkIiCN) | [Paula Van Hissenhoven](https://open.spotify.com/artist/2SKYxZDXoclUKA70rGtha7) | [Quién Soy \(Lado B\) \- Versión Extendida](https://open.spotify.com/album/4LTwVPY8C5C2hkr1eEDAlG) | 4:12 | 2022-05-27 | 2023-02-02 |
 | [Te Mentiría](https://open.spotify.com/track/3bjuh3FRFO34f0qHXdLFF4) | [Gia](https://open.spotify.com/artist/4G2nnIDni8orlGBTl1Y7ez) | [Te Mentiría](https://open.spotify.com/album/6nHLRn46kC7t5NAqJcwkzV) | 2:40 | 2023-11-21 |  |

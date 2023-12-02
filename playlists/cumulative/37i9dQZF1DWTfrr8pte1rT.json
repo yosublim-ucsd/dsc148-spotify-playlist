@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Rock with a Drop. Cover: Pendulum \\m/",
+  "description": "Rock with a Drop. Cover: Sullivan King \\m/",
   "name": "Rocktronic",
   "tracks": [
     {
@@ -918,7 +918,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 191994,
       "name": "California",
       "url": "https://open.spotify.com/track/0o6V0Ij0wf7nZiTxPTiWgQ"
@@ -1232,6 +1232,36 @@
       "duration_ms": 195428,
       "name": "Control (feat. Add1ction)",
       "url": "https://open.spotify.com/track/5oWyUpdAW3PqOg8lSiRxli"
+    },
+    {
+      "album": {
+        "name": "Coopa (G-Rex Remix)",
+        "url": "https://open.spotify.com/album/0npUtnfMuXD7Z3onqFUDpp"
+      },
+      "artists": [
+        {
+          "name": "Kiraw",
+          "url": "https://open.spotify.com/artist/3yAqBJSMpsseHSCtbJNlc4"
+        },
+        {
+          "name": "ARXMANE",
+          "url": "https://open.spotify.com/artist/3c4ngCW3y8USmyrjRdB1mG"
+        },
+        {
+          "name": "Crazy Mano",
+          "url": "https://open.spotify.com/artist/6QwlKB1hO357wh5oNuuInl"
+        },
+        {
+          "name": "G-Rex",
+          "url": "https://open.spotify.com/artist/0ZpPLGn0OkRMl2Y9Twn16K"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145655,
+      "name": "Coopa - G-Rex Remix",
+      "url": "https://open.spotify.com/track/1ma1dPnKkbgWqXjZAtBVZS"
     },
     {
       "album": {
@@ -3255,6 +3285,24 @@
     },
     {
       "album": {
+        "name": "MY MASOCHISTIC MIND",
+        "url": "https://open.spotify.com/album/47ZhdYUbzhzhwi8u1hdLgt"
+      },
+      "artists": [
+        {
+          "name": "Siiickbrain",
+          "url": "https://open.spotify.com/artist/1oPEr1Ci8sWOYj8SSh2VPE"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131076,
+      "name": "I am a Machine",
+      "url": "https://open.spotify.com/track/7r6PizEykGi4mjmTPtoVnC"
+    },
+    {
+      "album": {
         "name": "create together vol. 3",
         "url": "https://open.spotify.com/album/4G599lsqp9XBStqTtloBg2"
       },
@@ -3640,7 +3688,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 195720,
       "name": "Kill The Machine (feat. Bad/Love)",
       "url": "https://open.spotify.com/track/0AkxZb3XkSOdLghm6EB7p2"
@@ -3748,6 +3796,28 @@
       "duration_ms": 165703,
       "name": "Last One To Know - Curbi Remix",
       "url": "https://open.spotify.com/track/2gm7uyTVq6FqLfXHatUY2b"
+    },
+    {
+      "album": {
+        "name": "Let It Rock",
+        "url": "https://open.spotify.com/album/5L0jYrRuI9WAtVHxq6h0Pu"
+      },
+      "artists": [
+        {
+          "name": "Kevin Rudolf",
+          "url": "https://open.spotify.com/artist/0Chxmm4XMM87mJOHvyiUzL"
+        },
+        {
+          "name": "BVRNOUT",
+          "url": "https://open.spotify.com/artist/5oREZfPeedk4nyo1GpqKfU"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218437,
+      "name": "Let It Rock",
+      "url": "https://open.spotify.com/track/19PKrcCjeLxLYSQcjToCAT"
     },
     {
       "album": {
@@ -4126,6 +4196,32 @@
       "duration_ms": 174657,
       "name": "Loving You Kills Me",
       "url": "https://open.spotify.com/track/2Zjg31wnbhRzGsnOrnEY0r"
+    },
+    {
+      "album": {
+        "name": "TORONTOISBROKEN",
+        "url": "https://open.spotify.com/album/1hyKPZDl2Z7Ekye1HLdMzQ"
+      },
+      "artists": [
+        {
+          "name": "Toronto Is Broken",
+          "url": "https://open.spotify.com/artist/3DaX9l3f0lsiPjgyJ454wI"
+        },
+        {
+          "name": "Lateral",
+          "url": "https://open.spotify.com/artist/6EsYSMHy341qHnRMUW4GGR"
+        },
+        {
+          "name": "Sebotage",
+          "url": "https://open.spotify.com/artist/6wGjRjiTXERLfPwoMY19iP"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177931,
+      "name": "LOWLIFE (feat. Sebotage)",
+      "url": "https://open.spotify.com/track/0q5ZPJJ2cm6Her2jhg9MUW"
     },
     {
       "album": {
@@ -4720,7 +4816,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 232123,
       "name": "Ohio is for Lovers",
       "url": "https://open.spotify.com/track/78QULk7GWaRjHz15jPLPuQ"
@@ -5861,6 +5957,28 @@
     },
     {
       "album": {
+        "name": "Show Me Your God (Prblm Chld Remix)",
+        "url": "https://open.spotify.com/album/2zAovgCPBRCap6DLMwal9M"
+      },
+      "artists": [
+        {
+          "name": "The Amity Affliction",
+          "url": "https://open.spotify.com/artist/6kNKUYGn6VNGsRoXmyoDPK"
+        },
+        {
+          "name": "Prblm Chld",
+          "url": "https://open.spotify.com/artist/6ZgKMPtqbeSTMuQ6FQlxKh"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232566,
+      "name": "Show Me Your God - Prblm Chld Remix",
+      "url": "https://open.spotify.com/track/3EaSVYcGicLf6FjHJJCCtG"
+    },
+    {
+      "album": {
         "name": "Sick",
         "url": "https://open.spotify.com/album/4BvWG5QPVZk19DgLCUqxur"
       },
@@ -5964,7 +6082,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 214631,
       "name": "Sleep (with Calcium)",
       "url": "https://open.spotify.com/track/091NiGWv2nTM8pnOEXZR6T"
@@ -6081,6 +6199,28 @@
     },
     {
       "album": {
+        "name": "Overthrown (The Thrones of Blood Remix Album)",
+        "url": "https://open.spotify.com/album/0uX6vlfx2rgxUX5cCZ1eXE"
+      },
+      "artists": [
+        {
+          "name": "Sullivan King",
+          "url": "https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e"
+        },
+        {
+          "name": "Blanke",
+          "url": "https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266482,
+      "name": "Someone Else - Blanke Remix",
+      "url": "https://open.spotify.com/track/4ht1wtZBmlyLAVDivgVYok"
+    },
+    {
+      "album": {
         "name": "Prismata (Dark)",
         "url": "https://open.spotify.com/album/31ORya6l0IN8uBN7aIpiht"
       },
@@ -6140,7 +6280,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 139800,
       "name": "spit",
       "url": "https://open.spotify.com/track/1ft9HRORvo0uMAoBwqkxgY"
@@ -6558,7 +6698,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 198400,
       "name": "The Wild Hunt",
       "url": "https://open.spotify.com/track/5ND25ZCEXxfAr6BFPQ5wvu"

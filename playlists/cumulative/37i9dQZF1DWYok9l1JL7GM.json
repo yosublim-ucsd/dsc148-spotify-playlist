@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The south got something to say. Cover: Juvenile",
+  "description": "The south got something to say. Cover: Yo Gotti",
   "name": "I Love My Down South Classics",
   "tracks": [
     {
@@ -593,6 +593,24 @@
     },
     {
       "album": {
+        "name": "The Art of Hustle (Deluxe)",
+        "url": "https://open.spotify.com/album/0s9cSoniuN0HfXpwlCpGUF"
+      },
+      "artists": [
+        {
+          "name": "Yo Gotti",
+          "url": "https://open.spotify.com/artist/6Ha4aES39QiVjR0L2lwuwq"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182733,
+      "name": "Down In the DM",
+      "url": "https://open.spotify.com/track/1LxKKYsJNPeBdOwdudsJzv"
+    },
+    {
+      "album": {
         "name": "Dunn, Dunn",
         "url": "https://open.spotify.com/album/1Ju5uOiibZjhWXs7Qp6nET"
       },
@@ -832,7 +850,7 @@
       ],
       "date_added": "2022-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 281826,
       "name": "Go DJ",
       "url": "https://open.spotify.com/track/4svCVV4VHEL3Z4efES868h"
@@ -850,7 +868,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-04",
+      "date_removed": null,
       "duration_ms": 219107,
       "name": "Got Dem Racks",
       "url": "https://open.spotify.com/track/5bHuDZwLcuXTlFMj2XPk0S"
@@ -890,7 +908,7 @@
       ],
       "date_added": "2021-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 292333,
       "name": "Ha",
       "url": "https://open.spotify.com/track/3b0dX6Q2lxp7OX5lFt0nba"
@@ -1110,6 +1128,28 @@
       "duration_ms": 256013,
       "name": "I Got The Hook-Up!",
       "url": "https://open.spotify.com/track/3qEEoMccf3U90pM47dbQtX"
+    },
+    {
+      "album": {
+        "name": "I Am",
+        "url": "https://open.spotify.com/album/57gO7DyFyvl59GdBHtjI74"
+      },
+      "artists": [
+        {
+          "name": "Yo Gotti",
+          "url": "https://open.spotify.com/artist/6Ha4aES39QiVjR0L2lwuwq"
+        },
+        {
+          "name": "Rich Homie Quan",
+          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259506,
+      "name": "I Know (feat. Rich Homie Quan)",
+      "url": "https://open.spotify.com/track/22BwaoGHQOTfFhHTndm7DQ"
     },
     {
       "album": {
@@ -2110,7 +2150,7 @@
       ],
       "date_added": "2022-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 261972,
       "name": "Sippin On Some Syrup (feat. UGK (Underground Kingz) & Project Pat)",
       "url": "https://open.spotify.com/track/2EduiM2UNwjCC7PsLxnOCH"

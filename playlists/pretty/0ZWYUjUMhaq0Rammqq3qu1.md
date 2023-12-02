@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0ZWYUjUMhaq0Rammqq3qu1.md) - [plain]
 
 > Break the speakers with these absolute House Party BANGERS!!! <a href="https://lnk.to/EndOfYearSaleOS">All these hits available to buy on vinyl here!</a> Project X \| House Party \| Frat Party \| Pre\-Drink Playlist
 
-[Digster](https://open.spotify.com/user/digster.fm) - 114,711 likes - 60 songs - 3 hr 16 min
+[Digster](https://open.spotify.com/user/digster.fm) - 114,703 likes - 60 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

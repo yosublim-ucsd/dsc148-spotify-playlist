@@ -4,7 +4,7 @@
 
 > Soothing, minimalist ambient for deep sleep.
 
-466 songs - 23 hr 7 min
+468 songs - 23 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -203,6 +203,7 @@
 | [Here for You](https://open.spotify.com/track/2EpbD85zKeA069HQXoiWU5) | [Verala Lux](https://open.spotify.com/artist/2zTDYjWYdea2V7ZXILRLKW) | [Here for You](https://open.spotify.com/album/3kXfBugZgDTOzMKVp6Df3b) | 2:11 | 2021-11-10 |  |
 | [Hiatus](https://open.spotify.com/track/7ykoFQqjGcAOutbeVmg7O6) | [Lost Wings](https://open.spotify.com/artist/5GneKGEamDH29m9tE0zzwo) | [Hiatus](https://open.spotify.com/album/3s7MgBDyYwcGV1dJqhgnQT) | 3:23 | 2022-01-28 |  |
 | [Hidden In Between](https://open.spotify.com/track/4su2JFkvfwiwgVFRFPDH7z) | [Mina Tuma](https://open.spotify.com/artist/0lqE6j2h29SQqpyw47yYsP) | [Hidden In Between](https://open.spotify.com/album/158sMj9VTWop70olsWCNmH) | 3:02 | 2023-08-11 |  |
+| [Hidden Surfaces](https://open.spotify.com/track/1LEHnycNFavMZbrUz8PGAB) | [An Valsa](https://open.spotify.com/artist/6HewoxUySYf1z3cY1Vzigr) | [Hidden Surfaces](https://open.spotify.com/album/3gI7th38cfdMF9Olco2BhS) | 3:02 | 2023-12-01 |  |
 | [Hiemal](https://open.spotify.com/track/7EZKkc9CWvBoB52E2g2rFP) | [Klaangen](https://open.spotify.com/artist/2xxo04jMvlUrFLCdjwGgkz) | [Hiemal](https://open.spotify.com/album/7oKLhCmpADNtLE1j2v8f3i) | 2:47 | 2022-12-30 |  |
 | [Hohenbol](https://open.spotify.com/track/6TYZYNqAoYfE64csvrZyoy) | [Feldgeister](https://open.spotify.com/artist/6ZqY3JYu0C4FTgyDhXCVEQ) | [Between Camerae](https://open.spotify.com/album/64c0jCqYkzq1jhxFTve3Bq) | 3:20 | 2021-11-10 | 2022-03-25 |
 | [Hopeful](https://open.spotify.com/track/6pnhLxKJShRqP5YeXdtkWc) | [Asher Francis](https://open.spotify.com/artist/7A3PJ0HRctOwwSLMIwFDte) | [Hopeful](https://open.spotify.com/album/5qNrPIDJil1rGVkiO8LI9A) | 2:11 | 2021-11-10 |  |
@@ -243,6 +244,7 @@
 | [Lagoons](https://open.spotify.com/track/47m7taVhh1ktgczbtWmbnG) | [Xiada](https://open.spotify.com/artist/56Cs4LcuNdI6rmMF70QrOc) | [Lagoons](https://open.spotify.com/album/71kxOT2YEjtIhURhX8zoGi) | 2:43 | 2022-03-15 |  |
 | [Langeland](https://open.spotify.com/track/6vZRJSlkmxAEDb51WeqZFC) | [Felix Langgard](https://open.spotify.com/artist/4TGwoikKqGTkf6yt1DVSSL) | [Langeland](https://open.spotify.com/album/4uWdAqHiYju8w7gW1Yilqf) | 3:02 | 2021-11-10 |  |
 | [Liberation](https://open.spotify.com/track/2S8zzsvlurouRcb7zbJOz1) | [Nova Issue](https://open.spotify.com/artist/2JG4r9snKhqze9RGKeGEvh) | [Liberation](https://open.spotify.com/album/7JF9wKUHdFIRxazAFUOMMX) | 2:30 | 2021-11-10 |  |
+| [Life Of Hope](https://open.spotify.com/track/1ZAODInOBbfSiuSQlWtFos) | [Leo Mano](https://open.spotify.com/artist/1x9ObNWFFnva8uRVSFdvTM) | [Life Of Hope](https://open.spotify.com/album/7ze9mIu9aM6SAsMI7ogOA0) | 2:53 | 2023-12-01 |  |
 | [Light](https://open.spotify.com/track/0peYIO0XdyvdK2znrrH3ys) | [Mina Rojas](https://open.spotify.com/artist/492hHpujOt6WZGWFSy2712) | [Light](https://open.spotify.com/album/2MCEhwQ8lurgvTkZ7WMrjI) | 2:49 | 2022-09-02 |  |
 | [Light Being](https://open.spotify.com/track/6VoHNgFuX8ElVxU2gjU8Yr) | [Xoj Litran](https://open.spotify.com/artist/1sEC1KPQBzaV3v3ArtEcOZ) | [Surrender to the Light](https://open.spotify.com/album/1S7LKwsCiD0CXgtZmM6XvV) | 2:56 | 2021-11-10 | 2022-03-25 |
 | [Lighthouses \- Ambient Version](https://open.spotify.com/track/4VTYAMP7kQ7YjmGpGtuJBo) | [Felix Werner](https://open.spotify.com/artist/3Ca0AyhocUD897XBmjixrN) | [Lighthouses \(Ambient Version\)](https://open.spotify.com/album/0NqQJpCsJuYJUeRGVncvin) | 3:03 | 2021-11-10 |  |

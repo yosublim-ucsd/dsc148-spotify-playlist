@@ -424,7 +424,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 139857,
       "name": "Arrume-se Comigo",
       "url": "https://open.spotify.com/track/0tG9AsqN5I8jHG0MEPMqim"
@@ -1482,7 +1482,7 @@
       ],
       "date_added": "2023-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 177600,
       "name": "Criminal Love",
       "url": "https://open.spotify.com/track/0lXSJqe80Mdr9Np56AwVoh"
@@ -1802,6 +1802,32 @@
       "duration_ms": 140488,
       "name": "Design",
       "url": "https://open.spotify.com/track/1xvmdJ7DKsbNvYJTI4hmRJ"
+    },
+    {
+      "album": {
+        "name": "EU VIM DE GR",
+        "url": "https://open.spotify.com/album/2qNasWZDq8XQumAbiSuCOn"
+      },
+      "artists": [
+        {
+          "name": "Malcolm VL",
+          "url": "https://open.spotify.com/artist/6pJi8PaFlp6aNvOw3e0ONm"
+        },
+        {
+          "name": "Swxm",
+          "url": "https://open.spotify.com/artist/0wjT2AitdI5hxU13J5Clo8"
+        },
+        {
+          "name": "Kustor",
+          "url": "https://open.spotify.com/artist/01KhiXBvC4UaFIaTFrzgjx"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183478,
+      "name": "Dias sem dormir",
+      "url": "https://open.spotify.com/track/35rDOlA5PaPyboTNjIrXQ0"
     },
     {
       "album": {
@@ -2205,6 +2231,32 @@
     },
     {
       "album": {
+        "name": "Fra\u00e7\u00e3o 3/4",
+        "url": "https://open.spotify.com/album/387TbDSzjAzUK1kfVlZaRh"
+      },
+      "artists": [
+        {
+          "name": "Mc Luanna",
+          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
+        },
+        {
+          "name": "Mello Santana",
+          "url": "https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY"
+        },
+        {
+          "name": "Greezy",
+          "url": "https://open.spotify.com/artist/3exY81LSlWqpL03GFPTEgB"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164500,
+      "name": "Entre F\u00e3 e a Luana",
+      "url": "https://open.spotify.com/track/1L1g0uQ3dZgJSXMIuzwfRn"
+    },
+    {
+      "album": {
         "name": "Envolvido",
         "url": "https://open.spotify.com/album/14fMVoFXwNx71Pj4Y5zNtx"
       },
@@ -2228,6 +2280,28 @@
       "duration_ms": 172000,
       "name": "Envolvido",
       "url": "https://open.spotify.com/track/48h4dsva3ihxdZ5rkB3IVX"
+    },
+    {
+      "album": {
+        "name": "Espero Que Entendam (Freestyle)",
+        "url": "https://open.spotify.com/album/2omPP6U3sAgy10Q4wZtswu"
+      },
+      "artists": [
+        {
+          "name": "Ebony",
+          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
+        },
+        {
+          "name": "LARINHX",
+          "url": "https://open.spotify.com/artist/00kQ5yo7yxd5KC1ihuH77i"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211859,
+      "name": "Espero Que Entendam - Freestyle",
+      "url": "https://open.spotify.com/track/3MEMW13ORJh94KnERm44JM"
     },
     {
       "album": {
@@ -2681,6 +2755,36 @@
     },
     {
       "album": {
+        "name": "EU VIM DE GR",
+        "url": "https://open.spotify.com/album/2qNasWZDq8XQumAbiSuCOn"
+      },
+      "artists": [
+        {
+          "name": "Malcolm VL",
+          "url": "https://open.spotify.com/artist/6pJi8PaFlp6aNvOw3e0ONm"
+        },
+        {
+          "name": "Ecologyk",
+          "url": "https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW"
+        },
+        {
+          "name": "Ajuliacosta",
+          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
+        },
+        {
+          "name": "Ocean",
+          "url": "https://open.spotify.com/artist/0WRpHrzIKi44X6ARRQKeGg"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165333,
+      "name": "F\u00e1brica de J\u00f3ia",
+      "url": "https://open.spotify.com/track/0qUV0nO4WQuoIiwZp9BhXr"
+    },
+    {
+      "album": {
         "name": "G19",
         "url": "https://open.spotify.com/album/3tCs26KwquFJnxajDGWSON"
       },
@@ -2704,6 +2808,28 @@
       "duration_ms": 136889,
       "name": "G19",
       "url": "https://open.spotify.com/track/7leBjfWI2ofnMeEWLqVSer"
+    },
+    {
+      "album": {
+        "name": "Bem Vindo Natal Mixtape 2",
+        "url": "https://open.spotify.com/album/3uMKaRHfxppABibJFJi0mr"
+      },
+      "artists": [
+        {
+          "name": "Raffa Moreira",
+          "url": "https://open.spotify.com/artist/4xUawweuqhjMvoScRGbveR"
+        },
+        {
+          "name": "Jay Kay",
+          "url": "https://open.spotify.com/artist/1hMrgRIkEemGJWByc74Kki"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136615,
+      "name": "Gato Preto",
+      "url": "https://open.spotify.com/track/3iCz1xQzu2BeklLyMCKICr"
     },
     {
       "album": {
@@ -3464,7 +3590,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 125892,
       "name": "JOIAS EM MIM",
       "url": "https://open.spotify.com/track/0SMlYWcymwHTETbvdhwafd"
@@ -4124,7 +4250,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 224233,
       "name": "LV",
       "url": "https://open.spotify.com/track/7u9zTAY2jqLdDc5ai4jsvZ"
@@ -4808,7 +4934,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 171428,
       "name": "Na Ca\u00e7a do Dinheiro",
       "url": "https://open.spotify.com/track/1DBIZGADOAkXDUhgGQdlPO"
@@ -6580,7 +6706,7 @@
       ],
       "date_added": "2023-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 182068,
       "name": "Santa F\u00e9",
       "url": "https://open.spotify.com/track/4v0raTKKlRlDb4590foEiR"
@@ -6610,6 +6736,28 @@
       "duration_ms": 169616,
       "name": "Santa F\u00e9",
       "url": "https://open.spotify.com/track/5EYTdBSpwwdKjfswFez9xI"
+    },
+    {
+      "album": {
+        "name": "Bem Vindo Natal Mixtape 2",
+        "url": "https://open.spotify.com/album/3uMKaRHfxppABibJFJi0mr"
+      },
+      "artists": [
+        {
+          "name": "Raffa Moreira",
+          "url": "https://open.spotify.com/artist/4xUawweuqhjMvoScRGbveR"
+        },
+        {
+          "name": "Jay Kay",
+          "url": "https://open.spotify.com/artist/1hMrgRIkEemGJWByc74Kki"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116571,
+      "name": "Sa\u00ed da Biqueira",
+      "url": "https://open.spotify.com/track/7DOJ3635MnSx8Q7HMOtog1"
     },
     {
       "album": {
@@ -7118,10 +7266,32 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 66410,
       "name": "To de Blockstar",
       "url": "https://open.spotify.com/track/13hDBTTRi4VVvmMYaQANDu"
+    },
+    {
+      "album": {
+        "name": "Bem Vindo Natal Mixtape 2",
+        "url": "https://open.spotify.com/album/3uMKaRHfxppABibJFJi0mr"
+      },
+      "artists": [
+        {
+          "name": "Raffa Moreira",
+          "url": "https://open.spotify.com/artist/4xUawweuqhjMvoScRGbveR"
+        },
+        {
+          "name": "Nagalli",
+          "url": "https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129923,
+      "name": "Toca Na Corrente",
+      "url": "https://open.spotify.com/track/3HT7gQgtndBm0GKQdAIGIq"
     },
     {
       "album": {

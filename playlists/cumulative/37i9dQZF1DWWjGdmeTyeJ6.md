@@ -2,7 +2,7 @@
 
 ### [Fresh Finds Class of 2023](https://open.spotify.com/playlist/37i9dQZF1DWWjGdmeTyeJ6)
 
-> Our editors' picks of the best Fresh Finds tracks from around the world this year\. Cover: Searows
+> Our editors' picks of the best tracks from independent, developing artists around the world this year\. Cover: Searows
 
 5,418 songs - 12 day 7 hr 5 min
 

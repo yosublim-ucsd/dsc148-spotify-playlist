@@ -686,7 +686,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 154215,
       "name": "Body Moving",
       "url": "https://open.spotify.com/track/5SFCEkybGYmmzKqewtDEaN"
@@ -2747,6 +2747,24 @@
     },
     {
       "album": {
+        "name": "Masrahiya",
+        "url": "https://open.spotify.com/album/0Sy0eUUS2mVktSYQMbO1Yj"
+      },
+      "artists": [
+        {
+          "name": "Shkoon",
+          "url": "https://open.spotify.com/artist/3CdsJ9u53uPu3dScKypLVv"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199383,
+      "name": "Qudud Halabiya",
+      "url": "https://open.spotify.com/track/5u3gwh9w1k2HyQcCVqx9eG"
+    },
+    {
+      "album": {
         "name": "Rafat Rafat",
         "url": "https://open.spotify.com/album/76PuKGEhebdwJSPxApNDDU"
       },
@@ -2820,7 +2838,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 291426,
       "name": "Roots (Prologue)",
       "url": "https://open.spotify.com/track/3JpxQf1XqwrfzgDX1r98WA"
@@ -3366,6 +3384,28 @@
       "duration_ms": 136946,
       "name": "Wake Me Up In Paris",
       "url": "https://open.spotify.com/track/4dq7XLDmFHNwc1yqL339qT"
+    },
+    {
+      "album": {
+        "name": "Wala Ala Balo Remix",
+        "url": "https://open.spotify.com/album/6HqYQvHSW2qBqk7jcwhFuW"
+      },
+      "artists": [
+        {
+          "name": "Alan Dixon",
+          "url": "https://open.spotify.com/artist/0yEnnivHzCPxaTfNbWjV7x"
+        },
+        {
+          "name": "Misty",
+          "url": "https://open.spotify.com/artist/4IrIBE884z1Tjx7A6jRGd6"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 377031,
+      "name": "Wala Ala Balo Remix",
+      "url": "https://open.spotify.com/track/3YV7ImEdD2moA9ZALYFbu1"
     },
     {
       "album": {

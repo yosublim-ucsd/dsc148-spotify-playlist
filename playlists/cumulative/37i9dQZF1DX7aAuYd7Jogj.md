@@ -4,7 +4,7 @@
 
 > Música ambiental para un sueño profundo.
 
-340 songs - 16 hr 37 min
+341 songs - 16 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,6 +63,7 @@
 | [Calming Quality](https://open.spotify.com/track/7GJkHBbDnQ0JxgWoRWrcT9) | [Auxelia](https://open.spotify.com/artist/3IH62hlsEFxT7wDV7Sr3sj) | [Calming Quality](https://open.spotify.com/album/0ora1RTOVwglH8GQhc2GE2) | 3:18 | 2023-04-06 |  |
 | [Camhanaich](https://open.spotify.com/track/6HIeUtR5bG9IuKqtcBaMkm) | [Debyah](https://open.spotify.com/artist/3hw1f70k0kbqoslclzORGa) | [Camhanaich](https://open.spotify.com/album/4ci38CqGp1bZ4BjRAexwo3) | 3:20 | 2023-04-06 |  |
 | [Caring](https://open.spotify.com/track/1MaL94GiYXnWEExO4tPo3w) | [Bonnie Mathis](https://open.spotify.com/artist/1lyM0WTssQ6UictS7BOoOr) | [Caring](https://open.spotify.com/album/2lfMq9oDRUDgd8BE5VoiNk) | 3:33 | 2023-04-06 |  |
+| [Carpathian Sleep](https://open.spotify.com/track/4SQBnSK3fa8uYVd7jgVSR4) | [Aca Malvina](https://open.spotify.com/artist/7H3SyQlYDmgYpQlmkm0rsO) | [Carpathian Sleep](https://open.spotify.com/album/24Zp8d03yydwVW7zwK8RAE) | 2:16 | 2023-12-01 |  |
 | [Catnap](https://open.spotify.com/track/5Ni1Fb5zLruSbDwAoKdoPF) | [Mina Donovan](https://open.spotify.com/artist/5tGJFD9qXBdOKrOlhIXOBk) | [Catnap](https://open.spotify.com/album/4NTRDYA9fWjwHH2Wc2Jxxr) | 2:42 | 2023-04-06 |  |
 | [Cazale](https://open.spotify.com/track/1LN3uu8YKm5fEdgUNN0Hjf) | [Trinnie Deux](https://open.spotify.com/artist/2JExVfRCf2QZgspjnuXCWS) | [Cazale](https://open.spotify.com/album/7xv4sNJjyTHAT8z7x8m85z) | 3:29 | 2023-04-06 |  |
 | [Ciclo Solar](https://open.spotify.com/track/5igYXEgB6IPo7LNtQ71ZMT) | [Universo](https://open.spotify.com/artist/1Ww4X8PlwRBiocjYoAoQ4N) | [Planetas](https://open.spotify.com/album/51pSIpoYAmWbiUArilRnSg) | 3:13 | 2023-04-06 |  |
@@ -225,7 +226,7 @@
 | [One And The Same](https://open.spotify.com/track/3xZwZ9yujCluOe5mlDzD7r) | [Rouge Haven](https://open.spotify.com/artist/7iLEu7Ib4kevZUat8dJkvR) | [One And The Same](https://open.spotify.com/album/1XE0fJg07FtFY562bz76w2) | 2:37 | 2023-04-06 |  |
 | [Ons](https://open.spotify.com/track/07UDTaRYJAsIhUZTyZSUzM) | [Huma](https://open.spotify.com/artist/518pvehpCn4yp3oJJbr6zA) | [Ons](https://open.spotify.com/album/2cdvRClGJPAHpK0ACSFSfu) | 3:13 | 2023-04-06 |  |
 | [Origami Age](https://open.spotify.com/track/121YyIOmTlu4Da9HgkZrJU) | [De Seu](https://open.spotify.com/artist/1cnFAHOmH9W9QqZYhNSoMs) | [Origami Age](https://open.spotify.com/album/61UXpwigZp7NAAle6sNyLw) | 2:50 | 2023-04-06 |  |
-| [Orison](https://open.spotify.com/track/3GJyYi78wUaUZgbrwipcpG) | [Szigeti Aliz](https://open.spotify.com/artist/5MYqSmIAMjoiBp8suHqGaA) | [Orison](https://open.spotify.com/album/3iaTv0CK057m9PxroFoi8g) | 3:02 | 2023-04-06 |  |
+| [Orison](https://open.spotify.com/track/3GJyYi78wUaUZgbrwipcpG) | [Szigeti Aliz](https://open.spotify.com/artist/5MYqSmIAMjoiBp8suHqGaA) | [Orison](https://open.spotify.com/album/3iaTv0CK057m9PxroFoi8g) | 3:02 | 2023-04-06 | 2023-12-02 |
 | [Oroitzapenak](https://open.spotify.com/track/6yr16gxxdy0JLUx0dxx4DI) | [Leona Montoya](https://open.spotify.com/artist/5SoFygSAB3x2wUQbgqku06) | [Oroitzapenak](https://open.spotify.com/album/4b7lNPhmqIrFALnjCjn78z) | 2:25 | 2023-04-06 |  |
 | [Orphic](https://open.spotify.com/track/6KyPQhcAuRJxeq0Rwab6Jk) | [The Nowhows](https://open.spotify.com/artist/0yv3AGgMUbIJR6DROh35j1) | [Orphic](https://open.spotify.com/album/0MrCJsyAgkx4K5aJmvfIMA) | 3:00 | 2023-04-06 |  |
 | [Outra Noite](https://open.spotify.com/track/2mH0B6EKz3XUy1SO77wfe5) | [Fleur Harmon](https://open.spotify.com/artist/3LzyV3YGTAhie6tKAGAdh7) | [Outra Noite](https://open.spotify.com/album/0n4GsYckCir9CAVbcV3ddY) | 3:08 | 2023-04-06 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Lo mejor del rock de aqu\u00ed, como Robe.",
-  "num_followers": 571383,
+  "num_followers": 571521,
   "original_name": "Rock Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNzI5MDcxZDU1OWQzNzA1Y2IzNDM5ZDNjNDA0ODNiYjdlYjY3OWUz",
+  "snapshot_id": "MCw3MWVjYWZlYjhhMDhhMWQyNmJkNDcyOWJlMjYzMGNkZjBiYjRiYmVm",
   "tracks": [
     {
       "added_at": "2023-11-30 22:59:00",
@@ -667,22 +667,18 @@
     {
       "added_at": "2023-11-30 22:59:00",
       "album": {
-        "name": "Estoy aqu\u00ed (feat. La Pegatina)",
-        "url": "https://open.spotify.com/album/2XFhxf774ufp6QdJasM2rL"
+        "name": "Patchanka",
+        "url": "https://open.spotify.com/album/1i6RiKDCLS9KqgwfCQ1mRQ"
       },
       "artists": [
         {
-          "name": "Despistaos",
-          "url": "https://open.spotify.com/artist/0QE9iXPzgSaBq34OqIZ4n2"
-        },
-        {
-          "name": "La Pegatina",
-          "url": "https://open.spotify.com/artist/4xvB67czbtvemGVXGa81oK"
+          "name": "Mano Negra",
+          "url": "https://open.spotify.com/artist/6jq7GptAwkoFiunDhZYqQ2"
         }
       ],
-      "duration_ms": 176747,
-      "name": "Estoy aqu\u00ed (feat. La Pegatina)",
-      "url": "https://open.spotify.com/track/6BZyZKGieV83gE9IZcNZCz"
+      "duration_ms": 174973,
+      "name": "Mala Vida",
+      "url": "https://open.spotify.com/track/0UY0JLj9kxOlgF6FHogCmX"
     },
     {
       "added_at": "2023-11-30 22:59:00",
@@ -703,18 +699,22 @@
     {
       "added_at": "2023-11-30 22:59:00",
       "album": {
-        "name": "Patchanka",
-        "url": "https://open.spotify.com/album/1i6RiKDCLS9KqgwfCQ1mRQ"
+        "name": "Ahora o nunca",
+        "url": "https://open.spotify.com/album/1gVTdZJaemKysGPHgMQfvD"
       },
       "artists": [
         {
-          "name": "Mano Negra",
-          "url": "https://open.spotify.com/artist/6jq7GptAwkoFiunDhZYqQ2"
+          "name": "La Pegatina",
+          "url": "https://open.spotify.com/artist/4xvB67czbtvemGVXGa81oK"
+        },
+        {
+          "name": "Los Caligaris",
+          "url": "https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs"
         }
       ],
-      "duration_ms": 174973,
-      "name": "Mala Vida",
-      "url": "https://open.spotify.com/track/0UY0JLj9kxOlgF6FHogCmX"
+      "duration_ms": 189600,
+      "name": "Y volar (con los Caligaris)",
+      "url": "https://open.spotify.com/track/0vabIwEiZDGml2CyVmGNBX"
     },
     {
       "added_at": "2023-11-30 22:59:00",
@@ -735,22 +735,22 @@
     {
       "added_at": "2023-11-30 22:59:00",
       "album": {
-        "name": "Ahora o nunca",
-        "url": "https://open.spotify.com/album/1gVTdZJaemKysGPHgMQfvD"
+        "name": "Estoy aqu\u00ed (feat. La Pegatina)",
+        "url": "https://open.spotify.com/album/2XFhxf774ufp6QdJasM2rL"
       },
       "artists": [
         {
-          "name": "La Pegatina",
-          "url": "https://open.spotify.com/artist/4xvB67czbtvemGVXGa81oK"
+          "name": "Despistaos",
+          "url": "https://open.spotify.com/artist/0QE9iXPzgSaBq34OqIZ4n2"
         },
         {
-          "name": "Los Caligaris",
-          "url": "https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs"
+          "name": "La Pegatina",
+          "url": "https://open.spotify.com/artist/4xvB67czbtvemGVXGa81oK"
         }
       ],
-      "duration_ms": 189600,
-      "name": "Y volar (con los Caligaris)",
-      "url": "https://open.spotify.com/track/0vabIwEiZDGml2CyVmGNBX"
+      "duration_ms": 176747,
+      "name": "Estoy aqu\u00ed (feat. La Pegatina)",
+      "url": "https://open.spotify.com/track/6BZyZKGieV83gE9IZcNZCz"
     },
     {
       "added_at": "2023-11-30 22:59:00",
@@ -1035,6 +1035,22 @@
     {
       "added_at": "2023-11-30 22:59:00",
       "album": {
+        "name": "Devil Came to Me",
+        "url": "https://open.spotify.com/album/31cccvot053zKCeLHnnic1"
+      },
+      "artists": [
+        {
+          "name": "Dover",
+          "url": "https://open.spotify.com/artist/5kdLOinhQnlSk4su7U6lyW"
+        }
+      ],
+      "duration_ms": 234280,
+      "name": "Serenade",
+      "url": "https://open.spotify.com/track/4tzi4VV1vCTZsT4SEKQIKJ"
+    },
+    {
+      "added_at": "2023-11-30 22:59:00",
+      "album": {
         "name": "Su\u00e9ltate el pelo",
         "url": "https://open.spotify.com/album/3Qz4Fa379ez2RFvMp4sXWz"
       },
@@ -1051,22 +1067,6 @@
       "duration_ms": 171904,
       "name": "Su\u00e9ltate el pelo",
       "url": "https://open.spotify.com/track/3MGZVhOFo5ihrcUjFkE8mb"
-    },
-    {
-      "added_at": "2023-11-30 22:59:00",
-      "album": {
-        "name": "Devil Came to Me",
-        "url": "https://open.spotify.com/album/31cccvot053zKCeLHnnic1"
-      },
-      "artists": [
-        {
-          "name": "Dover",
-          "url": "https://open.spotify.com/artist/5kdLOinhQnlSk4su7U6lyW"
-        }
-      ],
-      "duration_ms": 234280,
-      "name": "Serenade",
-      "url": "https://open.spotify.com/track/4tzi4VV1vCTZsT4SEKQIKJ"
     },
     {
       "added_at": "2023-11-30 22:59:00",
@@ -1135,6 +1135,22 @@
     {
       "added_at": "2023-11-30 22:59:00",
       "album": {
+        "name": "Devil Came to Me",
+        "url": "https://open.spotify.com/album/31cccvot053zKCeLHnnic1"
+      },
+      "artists": [
+        {
+          "name": "Dover",
+          "url": "https://open.spotify.com/artist/5kdLOinhQnlSk4su7U6lyW"
+        }
+      ],
+      "duration_ms": 276360,
+      "name": "Devil Came to Me",
+      "url": "https://open.spotify.com/track/2Kmosqo7RmbvzziWLoy4gM"
+    },
+    {
+      "added_at": "2023-11-30 22:59:00",
+      "album": {
         "name": "Miguel R\u00edos y las estrellas del Rock latino",
         "url": "https://open.spotify.com/album/1meG4YSY7cIKvQkQR3D6hH"
       },
@@ -1167,22 +1183,6 @@
       "duration_ms": 429000,
       "name": "Del Tiempo Perdido",
       "url": "https://open.spotify.com/track/6SJHY69ciIGbp8JspeEbki"
-    },
-    {
-      "added_at": "2023-11-30 22:59:00",
-      "album": {
-        "name": "Devil Came to Me",
-        "url": "https://open.spotify.com/album/31cccvot053zKCeLHnnic1"
-      },
-      "artists": [
-        {
-          "name": "Dover",
-          "url": "https://open.spotify.com/artist/5kdLOinhQnlSk4su7U6lyW"
-        }
-      ],
-      "duration_ms": 276360,
-      "name": "Devil Came to Me",
-      "url": "https://open.spotify.com/track/2Kmosqo7RmbvzziWLoy4gM"
     },
     {
       "added_at": "2023-11-30 22:59:00",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2023-11-30 22:59:00",
       "album": {
-        "name": "Calle Melancol\u00eda",
-        "url": "https://open.spotify.com/album/2RlCfIHnXz8h8sc76B8ACD"
-      },
-      "artists": [
-        {
-          "name": "Robe",
-          "url": "https://open.spotify.com/artist/3WQRkINylwwkw1Ya07ToRK"
-        }
-      ],
-      "duration_ms": 380973,
-      "name": "Calle Melancol\u00eda",
-      "url": "https://open.spotify.com/track/3li6qqddV84LgSw9lgh0sG"
-    },
-    {
-      "added_at": "2023-11-30 22:59:00",
-      "album": {
         "name": "Bailar\u00e9 sobre tu tumba",
         "url": "https://open.spotify.com/album/0cbIGierQYVaozR08FlzMw"
       },
@@ -1359,6 +1343,22 @@
       "duration_ms": 185933,
       "name": "Bailar\u00e9 sobre tu tumba",
       "url": "https://open.spotify.com/track/36PL1fiYUnX7pJQRY1qwVw"
+    },
+    {
+      "added_at": "2023-11-30 22:59:00",
+      "album": {
+        "name": "Calle Melancol\u00eda",
+        "url": "https://open.spotify.com/album/2RlCfIHnXz8h8sc76B8ACD"
+      },
+      "artists": [
+        {
+          "name": "Robe",
+          "url": "https://open.spotify.com/artist/3WQRkINylwwkw1Ya07ToRK"
+        }
+      ],
+      "duration_ms": 380973,
+      "name": "Calle Melancol\u00eda",
+      "url": "https://open.spotify.com/track/3li6qqddV84LgSw9lgh0sG"
     },
     {
       "added_at": "2023-11-30 22:59:00",
@@ -1603,22 +1603,6 @@
     {
       "added_at": "2023-11-30 22:59:00",
       "album": {
-        "name": "Acantilados",
-        "url": "https://open.spotify.com/album/4hVXwiwBAae93kGJGVTC9A"
-      },
-      "artists": [
-        {
-          "name": "Los Zigarros",
-          "url": "https://open.spotify.com/artist/47U0TDHIE1H5t78HNVgR0M"
-        }
-      ],
-      "duration_ms": 277563,
-      "name": "100.000 bolas de cristal",
-      "url": "https://open.spotify.com/track/1jSckKpjmiD5FERZ0Jpiqo"
-    },
-    {
-      "added_at": "2023-11-30 22:59:00",
-      "album": {
         "name": "Los d\u00edas contados (feat. Funambulista, Shinova)",
         "url": "https://open.spotify.com/album/4qByfq5tS7o8pQXyz3QzI0"
       },
@@ -1639,6 +1623,22 @@
       "duration_ms": 227319,
       "name": "Los d\u00edas contados (feat. Funambulista, Shinova)",
       "url": "https://open.spotify.com/track/6VwFAPGWOfHirpRLMVj7Go"
+    },
+    {
+      "added_at": "2023-11-30 22:59:00",
+      "album": {
+        "name": "Acantilados",
+        "url": "https://open.spotify.com/album/4hVXwiwBAae93kGJGVTC9A"
+      },
+      "artists": [
+        {
+          "name": "Los Zigarros",
+          "url": "https://open.spotify.com/artist/47U0TDHIE1H5t78HNVgR0M"
+        }
+      ],
+      "duration_ms": 277563,
+      "name": "100.000 bolas de cristal",
+      "url": "https://open.spotify.com/track/1jSckKpjmiD5FERZ0Jpiqo"
     },
     {
       "added_at": "2023-11-30 22:59:00",

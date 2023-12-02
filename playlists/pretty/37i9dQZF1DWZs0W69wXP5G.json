@@ -1,12 +1,12 @@
 {
   "description": "Everything Broadway-adjacent. Cover: Ryan Gosling in Barbie",
-  "num_followers": 40636,
+  "num_followers": 40664,
   "original_name": "Off Broadway",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ODY4NGMwOTZlZjU0MDM2YTczYThjMWU5NTZiOTU1NDIzYTMzODVm",
+  "snapshot_id": "MCwwY2VkZTU2ODA2ZmZhMGFkYjg5OTAxNmQ1YWVlNzcxMGQzZDI4ZTZl",
   "tracks": [
     {
       "added_at": "2023-11-20 17:32:00",
@@ -61,20 +61,20 @@
       "url": "https://open.spotify.com/track/1iFgG6BeEPTbXsAok6zYxR"
     },
     {
-      "added_at": "2023-11-20 17:32:00",
+      "added_at": "2023-12-01 05:01:00",
       "album": {
-        "name": "Wish (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/0U8h5Cz5hZtL0vmqFB40Ao"
+        "name": "Lifeline (From the Original Motion Picture \u201cThe Color Purple\u201d)",
+        "url": "https://open.spotify.com/album/2ShbtQZa3nadKapi4DCIkV"
       },
       "artists": [
         {
-          "name": "Julia Michaels",
-          "url": "https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m"
+          "name": "Alicia Keys",
+          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
         }
       ],
-      "duration_ms": 173306,
-      "name": "A Wish Worth Making",
-      "url": "https://open.spotify.com/track/0uan47LDD0HMob7n3UMkZd"
+      "duration_ms": 227224,
+      "name": "Lifeline - From the Original Motion Picture \u201cThe Color Purple\u201d",
+      "url": "https://open.spotify.com/track/66Z7xWbRpjO7mZJ8U8scrw"
     },
     {
       "added_at": "2023-11-20 17:32:00",
@@ -97,24 +97,40 @@
       "url": "https://open.spotify.com/track/5yvHjO06WHe7ETlgirLjbw"
     },
     {
-      "added_at": "2023-11-20 17:32:00",
+      "added_at": "2023-12-01 05:01:00",
       "album": {
-        "name": "Gay Old Life (Radio Edit)",
-        "url": "https://open.spotify.com/album/4UlrflGOfsG9tGnsfL2mVg"
+        "name": "When a Crooner Dies",
+        "url": "https://open.spotify.com/album/5M4DHf0xB5SfhWym8kkHuB"
       },
       "artists": [
         {
-          "name": "Nathan Lane",
-          "url": "https://open.spotify.com/artist/0P0do9GwiSgweSF6Ui3mrv"
+          "name": "Leslie Odom Jr.",
+          "url": "https://open.spotify.com/artist/3cR4rhS2hBWqI7rJEBacvN"
         },
         {
-          "name": "Megan Mullally",
-          "url": "https://open.spotify.com/artist/7fMuncVtnMSI5VW5Kva22R"
+          "name": "Tatiana Marie Clark",
+          "url": "https://open.spotify.com/artist/2ovAB32IEY5k4Mgdl5eSfq"
         }
       ],
-      "duration_ms": 200601,
-      "name": "Gay Old Life - Radio Edit",
-      "url": "https://open.spotify.com/track/7gbPVLwpcgYsRRTWNYJde0"
+      "duration_ms": 207878,
+      "name": "Show Me",
+      "url": "https://open.spotify.com/track/1aTjnWJwayQuxZwjaQ7i8N"
+    },
+    {
+      "added_at": "2023-12-01 05:01:00",
+      "album": {
+        "name": "Wild About You (World Premiere Recording)",
+        "url": "https://open.spotify.com/album/7yIhi0NBwYTItw2ln4zF6S"
+      },
+      "artists": [
+        {
+          "name": "Lea Salonga",
+          "url": "https://open.spotify.com/artist/1GlMjIezcLwV3OFlX0uXOv"
+        }
+      ],
+      "duration_ms": 282453,
+      "name": "Here",
+      "url": "https://open.spotify.com/track/4p2OWZwcCcgo3vYlUedtXf"
     },
     {
       "added_at": "2023-11-20 17:32:00",
@@ -157,6 +173,38 @@
       "url": "https://open.spotify.com/track/3oW2oZPTc1AHOG1y0xCAIQ"
     },
     {
+      "added_at": "2023-12-01 05:01:00",
+      "album": {
+        "name": "Black Mona Lisa",
+        "url": "https://open.spotify.com/album/5TjZrtwHeIxK4KUGZcQe27"
+      },
+      "artists": [
+        {
+          "name": "Billy Porter",
+          "url": "https://open.spotify.com/artist/3sjUEh7eXUEL5oZLAEZXD4"
+        }
+      ],
+      "duration_ms": 180695,
+      "name": "Black Mona Lisa",
+      "url": "https://open.spotify.com/track/7lmZTo2AochYJZH1oRsdI2"
+    },
+    {
+      "added_at": "2023-11-20 17:32:00",
+      "album": {
+        "name": "Wish (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0U8h5Cz5hZtL0vmqFB40Ao"
+      },
+      "artists": [
+        {
+          "name": "Julia Michaels",
+          "url": "https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m"
+        }
+      ],
+      "duration_ms": 173306,
+      "name": "A Wish Worth Making",
+      "url": "https://open.spotify.com/track/0uan47LDD0HMob7n3UMkZd"
+    },
+    {
       "added_at": "2023-11-20 17:32:00",
       "album": {
         "name": "Grease: Rise of the Pink Ladies - Episode Eight (Music from the Paramount+ Original Series)",
@@ -181,44 +229,40 @@
       "url": "https://open.spotify.com/track/0RNBDMSTGssQIRsWjnANt7"
     },
     {
-      "added_at": "2023-11-20 17:32:00",
+      "added_at": "2023-12-01 05:01:00",
       "album": {
-        "name": "Out Alpha The Alpha",
-        "url": "https://open.spotify.com/album/4vgXGnGzxojy5spBZranjW"
+        "name": "Wild About You (World Premiere Recording)",
+        "url": "https://open.spotify.com/album/7yIhi0NBwYTItw2ln4zF6S"
       },
       "artists": [
         {
-          "name": "Megan Thee Stallion",
-          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+          "name": "Katharine McPhee",
+          "url": "https://open.spotify.com/artist/5oWOx0BBDSMoFB8JDrjQre"
         }
       ],
-      "duration_ms": 226700,
-      "name": "Out Alpha The Alpha",
-      "url": "https://open.spotify.com/track/3GALk45nKwp5pg6zJp7nhm"
+      "duration_ms": 211440,
+      "name": "Floating and Falling",
+      "url": "https://open.spotify.com/track/6UmQE6MN92yrCQYjObOjxx"
     },
     {
       "added_at": "2023-11-20 17:32:00",
       "album": {
-        "name": "Rhythm Of My Heart (From \"Pacemaker\") [Original Soundtrack]",
-        "url": "https://open.spotify.com/album/1fVZYc7OXYxaIsyplldD3i"
+        "name": "Gay Old Life (Radio Edit)",
+        "url": "https://open.spotify.com/album/4UlrflGOfsG9tGnsfL2mVg"
       },
       "artists": [
         {
-          "name": "Philip Lawrence",
-          "url": "https://open.spotify.com/artist/45wuKcOpGlFuFWdWuBFfkO"
+          "name": "Nathan Lane",
+          "url": "https://open.spotify.com/artist/0P0do9GwiSgweSF6Ui3mrv"
         },
         {
-          "name": "Alex Newell",
-          "url": "https://open.spotify.com/artist/2vGaSKEDFsVPBgcnGxqlBN"
-        },
-        {
-          "name": "Christopher Lennertz",
-          "url": "https://open.spotify.com/artist/2TQwXfupr6fAEV5AgNqIO5"
+          "name": "Megan Mullally",
+          "url": "https://open.spotify.com/artist/7fMuncVtnMSI5VW5Kva22R"
         }
       ],
-      "duration_ms": 182980,
-      "name": "Rhythm Of My Heart (From \"Pacemaker\") [Original Soundtrack]",
-      "url": "https://open.spotify.com/track/5cAiboYMkTsZKJFFShGVf7"
+      "duration_ms": 200601,
+      "name": "Gay Old Life - Radio Edit",
+      "url": "https://open.spotify.com/track/7gbPVLwpcgYsRRTWNYJde0"
     },
     {
       "added_at": "2023-11-20 17:32:00",
@@ -335,22 +379,6 @@
     {
       "added_at": "2023-11-20 17:32:00",
       "album": {
-        "name": "Broke a Sweat",
-        "url": "https://open.spotify.com/album/7zipQoqEskoBS1OGUG7xBh"
-      },
-      "artists": [
-        {
-          "name": "Billy Porter",
-          "url": "https://open.spotify.com/artist/3sjUEh7eXUEL5oZLAEZXD4"
-        }
-      ],
-      "duration_ms": 170034,
-      "name": "Broke a Sweat",
-      "url": "https://open.spotify.com/track/5taA6pnGkqh9LRvpRpcUgW"
-    },
-    {
-      "added_at": "2023-11-20 17:32:00",
-      "album": {
         "name": "Part of Your World (From \"The Little Mermaid\")",
         "url": "https://open.spotify.com/album/1cehuxhFNt8Q8Eobacb0YR"
       },
@@ -401,6 +429,22 @@
       "url": "https://open.spotify.com/track/53QSC4UgrGXfsVpOqSNxVJ"
     },
     {
+      "added_at": "2023-12-01 05:01:00",
+      "album": {
+        "name": "Wild About You (World Premiere Recording)",
+        "url": "https://open.spotify.com/album/7yIhi0NBwYTItw2ln4zF6S"
+      },
+      "artists": [
+        {
+          "name": "Alex Newell",
+          "url": "https://open.spotify.com/artist/2vGaSKEDFsVPBgcnGxqlBN"
+        }
+      ],
+      "duration_ms": 241920,
+      "name": "Dangerous Lines",
+      "url": "https://open.spotify.com/track/0X0rpLMflNvlMxuQ2qYgWt"
+    },
+    {
       "added_at": "2023-11-20 17:32:00",
       "album": {
         "name": "Home",
@@ -415,6 +459,30 @@
       "duration_ms": 212186,
       "name": "Home",
       "url": "https://open.spotify.com/track/0xi6e2yX8GxvygU2g4noDc"
+    },
+    {
+      "added_at": "2023-11-20 17:32:00",
+      "album": {
+        "name": "Rhythm Of My Heart (From \"Pacemaker\") [Original Soundtrack]",
+        "url": "https://open.spotify.com/album/1fVZYc7OXYxaIsyplldD3i"
+      },
+      "artists": [
+        {
+          "name": "Philip Lawrence",
+          "url": "https://open.spotify.com/artist/45wuKcOpGlFuFWdWuBFfkO"
+        },
+        {
+          "name": "Alex Newell",
+          "url": "https://open.spotify.com/artist/2vGaSKEDFsVPBgcnGxqlBN"
+        },
+        {
+          "name": "Christopher Lennertz",
+          "url": "https://open.spotify.com/artist/2TQwXfupr6fAEV5AgNqIO5"
+        }
+      ],
+      "duration_ms": 182980,
+      "name": "Rhythm Of My Heart (From \"Pacemaker\") [Original Soundtrack]",
+      "url": "https://open.spotify.com/track/5cAiboYMkTsZKJFFShGVf7"
     },
     {
       "added_at": "2023-11-20 17:32:00",

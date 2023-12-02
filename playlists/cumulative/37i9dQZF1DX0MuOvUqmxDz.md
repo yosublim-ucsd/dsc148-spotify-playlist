@@ -4,7 +4,7 @@
 
 > Celebrate the merriment of the Holiday Season with your favorite country artists\. Cover: Jon Pardi
 
-312 songs - 16 hr 59 min
+314 songs - 17 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -225,6 +225,7 @@
 | [Please Come Home For Christmas](https://open.spotify.com/track/1ThD4PsOGfnO9a14FcEiTd) | [Callista Clark](https://open.spotify.com/artist/5aizOVB0aFinBgezLPkhnm) | [Please Come Home For Christmas](https://open.spotify.com/album/2VMY6ng8JtPwoH0hNJMlMY) | 2:51 | 2022-10-28 |  |
 | [Please Come Home for Christmas](https://open.spotify.com/track/2PjMTWirUB90kmUHvN1gBH) | [Jamie O'Neal](https://open.spotify.com/artist/6sQVeggRv1AhrMzuCjhCZe), [Rodney Good](https://open.spotify.com/artist/7cgtMzLMFaAQETR9PAL4ct) | [Please Come Home for Christmas \(feat\. Rodney Good\)](https://open.spotify.com/album/6q72QzOdroMd0CXaO7Bdl4) | 3:08 | 2022-10-07 | 2023-11-11 |
 | [Please Come Home For Christmas](https://open.spotify.com/track/2ZQlt4cuWOY6xrNtkP4OsS) | [Jon Pardi](https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN) | [Merry Christmas From Jon Pardi](https://open.spotify.com/album/0rntkIqjxA3mqdfkvB6O8C) | 5:03 | 2023-10-27 |  |
+| [Please Come Home For Christmas](https://open.spotify.com/track/6aE8AlwAqqvnhlthMLrSj3) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [Koe Wetzel Presents...Wetzel's Wonderland](https://open.spotify.com/album/6Eaa6S7K1DUq4dRa0fvNga) | 2:52 | 2023-12-01 |  |
 | [Please Come Home for Christmas](https://open.spotify.com/track/3erD4D2cnLEYBONELTB67b) | [Matt Jordan](https://open.spotify.com/artist/42o4AcPbHwxBYJm1MK7OqC) | [Have Yourself a Merry Little Christmas](https://open.spotify.com/album/4NYMQcKmbNuaEkNlh7CAyy) | 3:08 | 2022-11-25 | 2023-11-11 |
 | [Please Come Home for Christmas](https://open.spotify.com/track/2ktUQEb33l3zNzHQxkg6TN) | [Rodell Duff](https://open.spotify.com/artist/4JMY9dX6C0SYxm1YEGAEky) | [Please Come Home for Christmas](https://open.spotify.com/album/1SpOC91nQ7fG5gXJIY9RoI) | 2:58 | 2022-11-11 |  |
 | [Please Come Home for Christmas](https://open.spotify.com/track/2oXBpkX0wbtZY00iA82qRi) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [A Classic Christmas](https://open.spotify.com/album/72wZVzg03F0dPBRHdOUyYC) | 3:04 | 2021-12-16 | 2022-11-12 |
@@ -232,6 +233,7 @@
 | [Present Without A Bow](https://open.spotify.com/track/0Pj9cTJcWbrDPjtCKx4Ody) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [A Very Kacey Christmas](https://open.spotify.com/album/7sIB15nu0Rp1vR8wXnTx3a) | 3:50 | 2021-12-16 | 2022-11-12 |
 | [River](https://open.spotify.com/track/70S2kGHd4jDC7jYvZcRtRe) | [Chris Ruediger](https://open.spotify.com/artist/0MLe1DKmSKbDXw5zw45rJ7) | [River](https://open.spotify.com/album/3RRx1vT5310djmxktrh0i0) | 3:06 | 2022-11-04 | 2023-10-28 |
 | [River](https://open.spotify.com/track/4YeME4nJUQ5pqhRikI76dX) | [Lena Stone](https://open.spotify.com/artist/4povL23A9IkoiWKv9KHhkx) | [River](https://open.spotify.com/album/5MUIgImattqtDfDbQCLvw4) | 4:03 | 2021-12-16 | 2022-11-12 |
+| [Rockin' Around The Christmas Tree](https://open.spotify.com/track/2EjXfH91m7f8HiJN1yQg97) | [Brenda Lee](https://open.spotify.com/artist/4cPHsZM98sKzmV26wlwD2W) | [Merry Christmas From Brenda Lee](https://open.spotify.com/album/34wa3zf2prXFMk47t9zHFG) | 2:06 | 2023-12-01 |  |
 | [Rockin' Around The Christmas Tree](https://open.spotify.com/track/6Bvw7xQblZlNgo5b6jJZ5R) | [Everette](https://open.spotify.com/artist/7LsMipSvTHNPCHQwuKuz2C) | [Rockin' Around The Christmas Tree](https://open.spotify.com/album/2a02iB3SzpVL2tG9jr0g1U) | 1:50 | 2021-12-16 | 2022-11-12 |
 | [Rockin' Around the Christmas Tree](https://open.spotify.com/track/3YDnKWty9EgnbFvZGVqMRE) | [Julia Cole](https://open.spotify.com/artist/48rpE75ZIsnfNFyojfYene), [Hannah Dasher](https://open.spotify.com/artist/60JD0JML3KiTHFkKNGv16e) | [Rockin' Around The Christmas Tree](https://open.spotify.com/album/28f8IDCUiLzOmA4J3hhsSg) | 1:57 | 2021-12-16 |  |
 | [Rockin' Around The Christmas Tree](https://open.spotify.com/track/3MO82wb69P2lE7FQvIRDDQ) | [Raleigh Keegan](https://open.spotify.com/artist/1mDIaHzalOaN9oX7hHnpXV) | [Rockin' Around The Christmas Tree](https://open.spotify.com/album/3Wz1J3YPHUOdFyuhbEdrAg) | 2:20 | 2022-11-18 |  |

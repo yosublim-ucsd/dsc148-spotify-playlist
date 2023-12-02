@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXrsROzVNLaB.md) - [plain]
 
 > Prepare for Easter week by reflecting on songs of Jesus' life, death, and resurrection.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,904 likes - 75 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,903 likes - 75 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,12 +76,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXrsROzVNLaB.md) - [plain]
 | 66 | [Forever](https://open.spotify.com/track/4v3SzdNUZLpocZxK6oZEkW) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Brian Johnson](https://open.spotify.com/artist/7qTSoObqlJkIybERfumbQ9) | [Tides](https://open.spotify.com/album/1JS4S79J7ZNDKRUkf2tFl6) | 5:26 |
 | 67 | [My Victory](https://open.spotify.com/track/1zg8rQ4pENedgx2FpHXN0o) | [We Are Messengers](https://open.spotify.com/artist/5WcisvYoq6332gCUX039Jd) | [My Utmost For His Highest](https://open.spotify.com/album/1FsAHNrcHF3QVdRHloCnhV) | 4:00 |
 | 68 | [The Cross Has The Final Word](https://open.spotify.com/track/5vqBJKU4U3OLvm2anticiy) | [Cody Carnes](https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0) | [The Cross Has The Final Word](https://open.spotify.com/album/43PHsVjv7xGRZNbD9TGha6) | 4:12 |
-| 69 | [Easter Song](https://open.spotify.com/track/4Uv19eDb9Os5UQODqb0edh) | [Keith Green](https://open.spotify.com/artist/0sA93wBoY7nJUE8dSrOZay) | [The Greatest Hits](https://open.spotify.com/album/72W8NheOUCQH4neNpQdkTm) | 3:57 |
-| 70 | [How Great Thou Art \- Live](https://open.spotify.com/track/4XWA4VGeNYIOlbOfy9wr4P) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Charlie Hall](https://open.spotify.com/artist/0Przo8VxOHYfZv9FMZWsWV) | [Hymns Ancient And Modern \(Live\)](https://open.spotify.com/album/1ABQb99YyGRAKq0z3VXgoA) | 4:40 |
+| 69 | [How Great Thou Art \- Live](https://open.spotify.com/track/4XWA4VGeNYIOlbOfy9wr4P) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Charlie Hall](https://open.spotify.com/artist/0Przo8VxOHYfZv9FMZWsWV) | [Hymns Ancient And Modern \(Live\)](https://open.spotify.com/album/1ABQb99YyGRAKq0z3VXgoA) | 4:40 |
+| 70 | [Easter Song](https://open.spotify.com/track/4Uv19eDb9Os5UQODqb0edh) | [Keith Green](https://open.spotify.com/artist/0sA93wBoY7nJUE8dSrOZay) | [The Greatest Hits](https://open.spotify.com/album/72W8NheOUCQH4neNpQdkTm) | 3:57 |
 | 71 | [The Cross Forever Speaks](https://open.spotify.com/track/2y49SLyQscZZCl1Z4kvTEU) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [Echoes \(Deluxe Edition\)](https://open.spotify.com/album/7HKEDHznm7Zngpw3oHkorA) | 3:52 |
 | 72 | [Unveil My Eyes](https://open.spotify.com/track/3q2YCR0NGK1cTm9epl4q23) | [Salt Of The Sound](https://open.spotify.com/artist/0S3L6vtzNN4ArFWH2709SB) | [Echoes Of Wonder](https://open.spotify.com/album/0DuV8V9ZQQ7LnD22evmLsd) | 2:03 |
 | 73 | [Hallelujah Amen \(feat\. Jon Guerra\)](https://open.spotify.com/track/78wyAJJM6TsN428S5ScPg7) | [Vertical Worship](https://open.spotify.com/artist/6N6Sk9XOoHsadAGYR44C2o), [Jon Guerra](https://open.spotify.com/artist/0T5EH22oyMja9UmN0Rz95o) | [Hallelujah Amen \(feat\. Jon Guerra\)](https://open.spotify.com/album/7Dfu32GbtgxM3asJTI8zlZ) | 5:18 |
 | 74 | [Glorious](https://open.spotify.com/track/1jOzjWWNdIEKfX8g48FDEu) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [See The Morning](https://open.spotify.com/album/1rt1h8pDDeJoVJrr5jbAmi) | 4:01 |
-| 75 | [Ashes \(feat\. Chris McClarney\)](https://open.spotify.com/track/01F2MJzSFzD0Wqhg2bpmvG) | [Dara Maclean](https://open.spotify.com/artist/51mDLET3uU71KUA2OkDvFm), [Chris McClarney](https://open.spotify.com/artist/2Zbb4oqupGY4mmskwlygCp) | [Ashes \(feat\. Chris McClarney\)](https://open.spotify.com/album/1SFDjdhnnT087ZPbKL33st) | 4:39 |
+| 75 | [Celebration at the Empty Grave](https://open.spotify.com/track/55QERSLUTHM82JBsoTO78m) | [Down East Boys](https://open.spotify.com/artist/0Zg0qh2ZQsBDm68196Ofln) | [Celebration at the Empty Grave](https://open.spotify.com/album/3lAyWpRS4zkP4tBOWOTL4d) | 3:40 |
 
-Snapshot ID: `MCw1YTI5NWM2N2YyZDI3MGUwZmEzMmJhMDFkMjk2Yjg5M2M5Y2Y3ZGZi`
+Snapshot ID: `MCwzZjdhNDM1ZDhlNmJhZmM2NzFhZDMyOWUwZmE4OGNhNmUwODFjYzAz`

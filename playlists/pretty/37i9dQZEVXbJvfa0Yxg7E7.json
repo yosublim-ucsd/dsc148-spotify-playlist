@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most played tracks right now - Norway.",
-  "num_followers": 544279,
+  "num_followers": 544295,
   "original_name": "Top 50 - Norway",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "NzU0NzA5NDAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
+  "snapshot_id": "NzU0Nzk1MjAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
   "tracks": [
     {
-      "added_at": "2023-11-30 08:38:12",
+      "added_at": "2023-12-01 10:57:51",
       "album": {
         "name": "Everyday Is Christmas (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2vcGYJcPfXUmCdcXXqqukg"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/7uoFMmxln0GPXQ0AcCBXRq"
     },
     {
-      "added_at": "2023-11-30 08:38:12",
+      "added_at": "2023-12-01 10:57:51",
       "album": {
         "name": "Merry Christmas",
         "url": "https://open.spotify.com/album/61ulfFSmmxMhc2wCdmdMkN"
@@ -41,7 +41,7 @@
       "url": "https://open.spotify.com/track/0bYg9bo50gSsH3LtXe2SQn"
     },
     {
-      "added_at": "2023-11-30 08:38:12",
+      "added_at": "2023-12-01 10:57:51",
       "album": {
         "name": "The Singles: Echoes from the Edge of Heaven",
         "url": "https://open.spotify.com/album/2wyHNTisH8PtZG8OG58xr6"
@@ -57,7 +57,7 @@
       "url": "https://open.spotify.com/track/06qMRF18gwbOYYbnP2du6i"
     },
     {
-      "added_at": "2023-11-30 08:38:12",
+      "added_at": "2023-12-01 10:57:51",
       "album": {
         "name": "Christmas (Deluxe Special Edition)",
         "url": "https://open.spotify.com/album/53fJVD9LpBKEMqdAF7PW5K"
@@ -73,23 +73,7 @@
       "url": "https://open.spotify.com/track/1rv46mRwDqMEhOBZ7vODg3"
     },
     {
-      "added_at": "2023-11-30 08:38:12",
-      "album": {
-        "name": "N\u00e5r Sn\u00f8en Smelter (fra Tre n\u00f8tter til Askepott)",
-        "url": "https://open.spotify.com/album/7a7Y8R2hG0WJrcziQFvAoL"
-      },
-      "artists": [
-        {
-          "name": "Astrid S",
-          "url": "https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm"
-        }
-      ],
-      "duration_ms": 157235,
-      "name": "N\u00e5r Sn\u00f8en Smelter - fra Tre n\u00f8tter til Askepott",
-      "url": "https://open.spotify.com/track/0M3G7kxxZt2W1T3PH97iXd"
-    },
-    {
-      "added_at": "2023-11-30 08:38:12",
+      "added_at": "2023-12-01 10:57:51",
       "album": {
         "name": "Have Yourself A Merry Little Christmas",
         "url": "https://open.spotify.com/album/1YbbdbiUKFY5RqIlNrh1Bc"
@@ -109,7 +93,55 @@
       "url": "https://open.spotify.com/track/0WFyQgDzbQCfJuxcHW4Zrt"
     },
     {
-      "added_at": "2023-11-30 08:38:12",
+      "added_at": "2023-12-01 10:57:51",
+      "album": {
+        "name": "N\u00e5r Sn\u00f8en Smelter (fra Tre n\u00f8tter til Askepott)",
+        "url": "https://open.spotify.com/album/7a7Y8R2hG0WJrcziQFvAoL"
+      },
+      "artists": [
+        {
+          "name": "Astrid S",
+          "url": "https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm"
+        }
+      ],
+      "duration_ms": 157235,
+      "name": "N\u00e5r Sn\u00f8en Smelter - fra Tre n\u00f8tter til Askepott",
+      "url": "https://open.spotify.com/track/0M3G7kxxZt2W1T3PH97iXd"
+    },
+    {
+      "added_at": "2023-12-01 10:57:51",
+      "album": {
+        "name": "Home For Christmas",
+        "url": "https://open.spotify.com/album/36FLeoc0YbDuiOa3lg3cY1"
+      },
+      "artists": [
+        {
+          "name": "Maria Mena",
+          "url": "https://open.spotify.com/artist/3rTRHzFfbTk5GL3LpYZGHR"
+        }
+      ],
+      "duration_ms": 232000,
+      "name": "Home for Christmas",
+      "url": "https://open.spotify.com/track/6bzWp9PgSz1CtDVWijf7aa"
+    },
+    {
+      "added_at": "2023-12-01 10:57:51",
+      "album": {
+        "name": "Selmas sang (fra Sn\u00f8fall)",
+        "url": "https://open.spotify.com/album/4a9b5TzhjKPXURJkODS5BJ"
+      },
+      "artists": [
+        {
+          "name": "Eva Weel Skram",
+          "url": "https://open.spotify.com/artist/3u2Sz4K3PFfalhDU0vSHT3"
+        }
+      ],
+      "duration_ms": 208427,
+      "name": "Selmas sang (fra Sn\u00f8fall)",
+      "url": "https://open.spotify.com/track/0PRX6CXffB3cARlzNCkmR4"
+    },
+    {
+      "added_at": "2023-12-01 10:57:51",
       "album": {
         "name": "Badebussen (feat. Kjartan Lauritzen)",
         "url": "https://open.spotify.com/album/4MYKiIrk0MXrgthFJTgKe9"
@@ -129,71 +161,7 @@
       "url": "https://open.spotify.com/track/5F8c71PbayLIedqmjskrhM"
     },
     {
-      "added_at": "2023-11-30 08:38:12",
-      "album": {
-        "name": "Home For Christmas",
-        "url": "https://open.spotify.com/album/36FLeoc0YbDuiOa3lg3cY1"
-      },
-      "artists": [
-        {
-          "name": "Maria Mena",
-          "url": "https://open.spotify.com/artist/3rTRHzFfbTk5GL3LpYZGHR"
-        }
-      ],
-      "duration_ms": 232000,
-      "name": "Home for Christmas",
-      "url": "https://open.spotify.com/track/6bzWp9PgSz1CtDVWijf7aa"
-    },
-    {
-      "added_at": "2023-11-30 08:38:12",
-      "album": {
-        "name": "Selmas sang (fra Sn\u00f8fall)",
-        "url": "https://open.spotify.com/album/4a9b5TzhjKPXURJkODS5BJ"
-      },
-      "artists": [
-        {
-          "name": "Eva Weel Skram",
-          "url": "https://open.spotify.com/artist/3u2Sz4K3PFfalhDU0vSHT3"
-        }
-      ],
-      "duration_ms": 208427,
-      "name": "Selmas sang (fra Sn\u00f8fall)",
-      "url": "https://open.spotify.com/track/0PRX6CXffB3cARlzNCkmR4"
-    },
-    {
-      "added_at": "2023-11-30 08:38:12",
-      "album": {
-        "name": "Egoland",
-        "url": "https://open.spotify.com/album/7pNnH6DtwnTYEQOrrGAzlO"
-      },
-      "artists": [
-        {
-          "name": "UNDERGRUNN",
-          "url": "https://open.spotify.com/artist/1LyYIhqdjG9R9VdIRSftBb"
-        }
-      ],
-      "duration_ms": 266346,
-      "name": "Zanotti",
-      "url": "https://open.spotify.com/track/3nT3EBnBlRgn9X00yrOLHE"
-    },
-    {
-      "added_at": "2023-11-30 08:38:12",
-      "album": {
-        "name": "greedy",
-        "url": "https://open.spotify.com/album/3UOV8XvCwMKaATRNXrYCjN"
-      },
-      "artists": [
-        {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
-        }
-      ],
-      "duration_ms": 131872,
-      "name": "greedy",
-      "url": "https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t"
-    },
-    {
-      "added_at": "2023-11-30 08:38:12",
+      "added_at": "2023-12-01 10:57:51",
       "album": {
         "name": "Klokkene kallar",
         "url": "https://open.spotify.com/album/2h8WBOXsRMMdiYqxNyjvXL"
@@ -213,23 +181,7 @@
       "url": "https://open.spotify.com/track/0fKwOY2Z6oB9ntoNDR13nP"
     },
     {
-      "added_at": "2023-11-30 08:38:12",
-      "album": {
-        "name": "Kristoffer Robin",
-        "url": "https://open.spotify.com/album/6La3rhXQv3k63XxsEOD6sM"
-      },
-      "artists": [
-        {
-          "name": "Randi Oline",
-          "url": "https://open.spotify.com/artist/5O7vw7DOXDVSqVWWc8FpYV"
-        }
-      ],
-      "duration_ms": 243623,
-      "name": "Kristoffer Robin",
-      "url": "https://open.spotify.com/track/6qECeG4hIl0jXP4XaGUTaC"
-    },
-    {
-      "added_at": "2023-11-30 08:38:12",
+      "added_at": "2023-12-01 10:57:51",
       "album": {
         "name": "New Light Through Old Windows",
         "url": "https://open.spotify.com/album/7p9ePF3nuGOHHKdK54xjHH"
@@ -245,7 +197,7 @@
       "url": "https://open.spotify.com/track/0ZoHHROTzwIYeNAHRPedTY"
     },
     {
-      "added_at": "2023-11-30 08:38:12",
+      "added_at": "2023-12-01 10:57:51",
       "album": {
         "name": "Merry Christmas From Brenda Lee",
         "url": "https://open.spotify.com/album/34wa3zf2prXFMk47t9zHFG"
@@ -261,7 +213,7 @@
       "url": "https://open.spotify.com/track/2EjXfH91m7f8HiJN1yQg97"
     },
     {
-      "added_at": "2023-11-30 08:38:12",
+      "added_at": "2023-12-01 10:57:51",
       "album": {
         "name": "Hey Ho",
         "url": "https://open.spotify.com/album/4GTqGHsFSHBY1SeMCnvHuE"
@@ -277,39 +229,7 @@
       "url": "https://open.spotify.com/track/73bwhA1NxxkBMJAziBgUnX"
     },
     {
-      "added_at": "2023-11-30 08:38:12",
-      "album": {
-        "name": "Lovin On Me",
-        "url": "https://open.spotify.com/album/6VCO0fDBGbRW8mCEvV95af"
-      },
-      "artists": [
-        {
-          "name": "Jack Harlow",
-          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
-        }
-      ],
-      "duration_ms": 138411,
-      "name": "Lovin On Me",
-      "url": "https://open.spotify.com/track/4xhsWYTOGcal8zt0J161CU"
-    },
-    {
-      "added_at": "2023-11-30 08:38:12",
-      "album": {
-        "name": "Santa Tell Me",
-        "url": "https://open.spotify.com/album/27MNgBEnLCKoafz1g2Zu97"
-      },
-      "artists": [
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        }
-      ],
-      "duration_ms": 204093,
-      "name": "Santa Tell Me",
-      "url": "https://open.spotify.com/track/0lizgQ7Qw35od7CYaoMBZb"
-    },
-    {
-      "added_at": "2023-11-30 08:38:12",
+      "added_at": "2023-12-01 10:57:51",
       "album": {
         "name": "Jingle Bell Rock/Captain Santa Claus (And His Reindeer Space Patrol)",
         "url": "https://open.spotify.com/album/3wivyOdotHWZ9dcuXMjPKT"
@@ -325,10 +245,26 @@
       "url": "https://open.spotify.com/track/7vQbuQcyTflfCIOu3Uzzya"
     },
     {
-      "added_at": "2023-11-30 08:38:12",
+      "added_at": "2023-12-01 10:57:51",
       "album": {
-        "name": "2X SPEKTRUM FREESTYLE",
-        "url": "https://open.spotify.com/album/3GX1PPcRgGZMBXPgMLtdhx"
+        "name": "Santa Tell Me",
+        "url": "https://open.spotify.com/album/27MNgBEnLCKoafz1g2Zu97"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 204093,
+      "name": "Santa Tell Me",
+      "url": "https://open.spotify.com/track/0lizgQ7Qw35od7CYaoMBZb"
+    },
+    {
+      "added_at": "2023-12-01 10:57:51",
+      "album": {
+        "name": "Egoland",
+        "url": "https://open.spotify.com/album/7pNnH6DtwnTYEQOrrGAzlO"
       },
       "artists": [
         {
@@ -336,12 +272,28 @@
           "url": "https://open.spotify.com/artist/1LyYIhqdjG9R9VdIRSftBb"
         }
       ],
-      "duration_ms": 322431,
-      "name": "2X SPEKTRUM FREESTYLE",
-      "url": "https://open.spotify.com/track/4c5BsYDauVKFJuV4njPnvI"
+      "duration_ms": 266346,
+      "name": "Zanotti",
+      "url": "https://open.spotify.com/track/3nT3EBnBlRgn9X00yrOLHE"
     },
     {
-      "added_at": "2023-11-30 08:38:12",
+      "added_at": "2023-12-01 10:57:51",
+      "album": {
+        "name": "greedy",
+        "url": "https://open.spotify.com/album/3UOV8XvCwMKaATRNXrYCjN"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "duration_ms": 131872,
+      "name": "greedy",
+      "url": "https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t"
+    },
+    {
+      "added_at": "2023-12-01 10:57:51",
       "album": {
         "name": "Under The Mistletoe (Deluxe Edition)",
         "url": "https://open.spotify.com/album/63MKT9hwmiMFFdFp5SdB1p"
@@ -357,7 +309,131 @@
       "url": "https://open.spotify.com/track/7xapw9Oy21WpfEcib2ErSA"
     },
     {
-      "added_at": "2023-11-30 08:38:12",
+      "added_at": "2023-12-01 10:57:51",
+      "album": {
+        "name": "If I Should Fall from Grace with God (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4V92Puney9WxGPecKtLG4L"
+      },
+      "artists": [
+        {
+          "name": "The Pogues",
+          "url": "https://open.spotify.com/artist/2wzMOQwNT6ZvVB4amvhFAH"
+        },
+        {
+          "name": "Kirsty MacColl",
+          "url": "https://open.spotify.com/artist/6UlNIFEuWlBqb4TvlVCekq"
+        }
+      ],
+      "duration_ms": 272466,
+      "name": "Fairytale of New York (feat. Kirsty MacColl)",
+      "url": "https://open.spotify.com/track/3VTNVsTTu05dmTsVFrmGpK"
+    },
+    {
+      "added_at": "2023-12-01 10:57:51",
+      "album": {
+        "name": "Kristoffer Robin",
+        "url": "https://open.spotify.com/album/6La3rhXQv3k63XxsEOD6sM"
+      },
+      "artists": [
+        {
+          "name": "Randi Oline",
+          "url": "https://open.spotify.com/artist/5O7vw7DOXDVSqVWWc8FpYV"
+        }
+      ],
+      "duration_ms": 243623,
+      "name": "Kristoffer Robin",
+      "url": "https://open.spotify.com/track/6qECeG4hIl0jXP4XaGUTaC"
+    },
+    {
+      "added_at": "2023-12-01 10:57:51",
+      "album": {
+        "name": "Hver Gang Vi M\u00f8tes 2023",
+        "url": "https://open.spotify.com/album/272tAO2vDpKaaD1FjHTeRY"
+      },
+      "artists": [
+        {
+          "name": "Emma Steinbakken",
+          "url": "https://open.spotify.com/artist/3GIadM69XShFZNB3gP67Td"
+        },
+        {
+          "name": "Hver gang vi m\u00f8tes",
+          "url": "https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO"
+        }
+      ],
+      "duration_ms": 212962,
+      "name": "Floden",
+      "url": "https://open.spotify.com/track/0XzWcSh30W1H1o4ZiyI90j"
+    },
+    {
+      "added_at": "2023-12-01 10:57:51",
+      "album": {
+        "name": "Haien Kommer (Sharkdog)",
+        "url": "https://open.spotify.com/album/1cWmabFDCXJPWv5Zxf0D0U"
+      },
+      "artists": [
+        {
+          "name": "Kudos",
+          "url": "https://open.spotify.com/artist/2uz5pGGHltzQNOmxOd95g7"
+        },
+        {
+          "name": "Golfklubb",
+          "url": "https://open.spotify.com/artist/1Kj6Km5IuLGKt2cxuhSgLm"
+        }
+      ],
+      "duration_ms": 196692,
+      "name": "Haien Kommer (Sharkdog)",
+      "url": "https://open.spotify.com/track/2sbvNhKsY8OUEwlbZb7hXV"
+    },
+    {
+      "added_at": "2023-12-01 10:57:51",
+      "album": {
+        "name": "Du er ikke alene",
+        "url": "https://open.spotify.com/album/7uns24NjdQA4SA48As0AeL"
+      },
+      "artists": [
+        {
+          "name": "Victoria Nadine",
+          "url": "https://open.spotify.com/artist/59ha4Qt5jtbrFQljKZrx8K"
+        }
+      ],
+      "duration_ms": 172008,
+      "name": "Du er ikke alene",
+      "url": "https://open.spotify.com/track/6dq2NEtJvTIAIU515Pn3LM"
+    },
+    {
+      "added_at": "2023-12-01 10:57:51",
+      "album": {
+        "name": "Egoland",
+        "url": "https://open.spotify.com/album/7pNnH6DtwnTYEQOrrGAzlO"
+      },
+      "artists": [
+        {
+          "name": "UNDERGRUNN",
+          "url": "https://open.spotify.com/artist/1LyYIhqdjG9R9VdIRSftBb"
+        }
+      ],
+      "duration_ms": 184346,
+      "name": "Michelin Stjerner",
+      "url": "https://open.spotify.com/track/4KjHgPOIsA8LlMwyAJRlfv"
+    },
+    {
+      "added_at": "2023-12-01 10:57:51",
+      "album": {
+        "name": "Lovin On Me",
+        "url": "https://open.spotify.com/album/6VCO0fDBGbRW8mCEvV95af"
+      },
+      "artists": [
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        }
+      ],
+      "duration_ms": 138411,
+      "name": "Lovin On Me",
+      "url": "https://open.spotify.com/track/4xhsWYTOGcal8zt0J161CU"
+    },
+    {
+      "added_at": "2023-12-01 10:57:51",
       "album": {
         "name": "Prada",
         "url": "https://open.spotify.com/album/5MU0RmBSpoSxOPYBfcobDc"
@@ -381,143 +457,7 @@
       "url": "https://open.spotify.com/track/59NraMJsLaMCVtwXTSia8i"
     },
     {
-      "added_at": "2023-11-30 08:38:12",
-      "album": {
-        "name": "Feeling Myself (Roc Boyz Remix)",
-        "url": "https://open.spotify.com/album/4RCbNOVT6CdMVHt2kJqsjK"
-      },
-      "artists": [
-        {
-          "name": "23",
-          "url": "https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA"
-        },
-        {
-          "name": "Roc Boyz",
-          "url": "https://open.spotify.com/artist/09qHO1fFJ6iIeTuCjO7Bfa"
-        }
-      ],
-      "duration_ms": 182769,
-      "name": "Feeling Myself - Roc Boyz Remix",
-      "url": "https://open.spotify.com/track/67en3njm0MOvKPIM3lkR3V"
-    },
-    {
-      "added_at": "2023-11-30 08:38:12",
-      "album": {
-        "name": "Et godt stup i et grunt vann",
-        "url": "https://open.spotify.com/album/0BrcpRYg40t0Ia6XUtkVU5"
-      },
-      "artists": [
-        {
-          "name": "Cezinando",
-          "url": "https://open.spotify.com/artist/504cl42JQLRqlZddfZ3S4z"
-        }
-      ],
-      "duration_ms": 295840,
-      "name": "Kristoffer Robin",
-      "url": "https://open.spotify.com/track/6EfZLPYsaXiu9yszHkkc0w"
-    },
-    {
-      "added_at": "2023-11-30 08:38:12",
-      "album": {
-        "name": "Du er ikke alene",
-        "url": "https://open.spotify.com/album/7uns24NjdQA4SA48As0AeL"
-      },
-      "artists": [
-        {
-          "name": "Victoria Nadine",
-          "url": "https://open.spotify.com/artist/59ha4Qt5jtbrFQljKZrx8K"
-        }
-      ],
-      "duration_ms": 172008,
-      "name": "Du er ikke alene",
-      "url": "https://open.spotify.com/track/6dq2NEtJvTIAIU515Pn3LM"
-    },
-    {
-      "added_at": "2023-11-30 08:38:12",
-      "album": {
-        "name": "Egoland",
-        "url": "https://open.spotify.com/album/7pNnH6DtwnTYEQOrrGAzlO"
-      },
-      "artists": [
-        {
-          "name": "UNDERGRUNN",
-          "url": "https://open.spotify.com/artist/1LyYIhqdjG9R9VdIRSftBb"
-        }
-      ],
-      "duration_ms": 184346,
-      "name": "Michelin Stjerner",
-      "url": "https://open.spotify.com/track/4KjHgPOIsA8LlMwyAJRlfv"
-    },
-    {
-      "added_at": "2023-11-30 08:38:12",
-      "album": {
-        "name": "Haien Kommer (Sharkdog)",
-        "url": "https://open.spotify.com/album/1cWmabFDCXJPWv5Zxf0D0U"
-      },
-      "artists": [
-        {
-          "name": "Kudos",
-          "url": "https://open.spotify.com/artist/2uz5pGGHltzQNOmxOd95g7"
-        },
-        {
-          "name": "Golfklubb",
-          "url": "https://open.spotify.com/artist/1Kj6Km5IuLGKt2cxuhSgLm"
-        }
-      ],
-      "duration_ms": 196692,
-      "name": "Haien Kommer (Sharkdog)",
-      "url": "https://open.spotify.com/track/2sbvNhKsY8OUEwlbZb7hXV"
-    },
-    {
-      "added_at": "2023-11-30 08:38:12",
-      "album": {
-        "name": "Si No Est\u00e1s",
-        "url": "https://open.spotify.com/album/66k6EGkPtYoN44anGIsEPW"
-      },
-      "artists": [
-        {
-          "name": "i\u00f1igo quintero",
-          "url": "https://open.spotify.com/artist/0jbo7KFNMiIkfBR6ih0yhm"
-        }
-      ],
-      "duration_ms": 184061,
-      "name": "Si No Est\u00e1s",
-      "url": "https://open.spotify.com/track/2HafqoJbgXdtjwCOvNEF14"
-    },
-    {
-      "added_at": "2023-11-30 08:38:12",
-      "album": {
-        "name": "I've Tried Everything But Therapy (Part 1)",
-        "url": "https://open.spotify.com/album/7nacKlk586eLRBSIsrk9DB"
-      },
-      "artists": [
-        {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
-        }
-      ],
-      "duration_ms": 210688,
-      "name": "Lose Control",
-      "url": "https://open.spotify.com/track/17phhZDn6oGtzMe56NuWvj"
-    },
-    {
-      "added_at": "2023-11-30 08:38:12",
-      "album": {
-        "name": "Strange Trails",
-        "url": "https://open.spotify.com/album/3yoNZlqerJnsnMN5EDwwBS"
-      },
-      "artists": [
-        {
-          "name": "Lord Huron",
-          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
-        }
-      ],
-      "duration_ms": 208211,
-      "name": "The Night We Met",
-      "url": "https://open.spotify.com/track/0QZ5yyl6B6utIWkxeBDxQN"
-    },
-    {
-      "added_at": "2023-11-30 08:38:12",
+      "added_at": "2023-12-01 10:57:51",
       "album": {
         "name": "Merry Christmas",
         "url": "https://open.spotify.com/album/3pqY0b5nEKoWwSrrwMwqMK"
@@ -537,75 +477,43 @@
       "url": "https://open.spotify.com/track/3bH2Eu9A9ymI4UnGHRmoXg"
     },
     {
-      "added_at": "2023-11-30 08:38:12",
+      "added_at": "2023-12-01 10:57:51",
       "album": {
-        "name": "Strangers",
-        "url": "https://open.spotify.com/album/18ogtNq9F7DmMkNYO6Xb4k"
+        "name": "2X SPEKTRUM FREESTYLE",
+        "url": "https://open.spotify.com/album/3GX1PPcRgGZMBXPgMLtdhx"
       },
       "artists": [
         {
-          "name": "Kenya Grace",
-          "url": "https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2"
+          "name": "UNDERGRUNN",
+          "url": "https://open.spotify.com/artist/1LyYIhqdjG9R9VdIRSftBb"
         }
       ],
-      "duration_ms": 172964,
-      "name": "Strangers",
-      "url": "https://open.spotify.com/track/5mjYQaktjmjcMKcUIcqz4s"
+      "duration_ms": 322431,
+      "name": "2X SPEKTRUM FREESTYLE",
+      "url": "https://open.spotify.com/track/4c5BsYDauVKFJuV4njPnvI"
     },
     {
-      "added_at": "2023-11-30 08:38:12",
+      "added_at": "2023-12-01 10:57:51",
       "album": {
-        "name": "exes",
-        "url": "https://open.spotify.com/album/54FpKE2Pug3xbPz26WUVSH"
+        "name": "Feeling Myself (Roc Boyz Remix)",
+        "url": "https://open.spotify.com/album/4RCbNOVT6CdMVHt2kJqsjK"
       },
       "artists": [
         {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
-        }
-      ],
-      "duration_ms": 159400,
-      "name": "exes",
-      "url": "https://open.spotify.com/track/0HD8mbiPjp3o94X3EaZp0o"
-    },
-    {
-      "added_at": "2023-11-30 08:38:12",
-      "album": {
-        "name": "The Andy Williams Christmas Album",
-        "url": "https://open.spotify.com/album/30eO7X0doSEWKhDLAFLMuW"
-      },
-      "artists": [
-        {
-          "name": "Andy Williams",
-          "url": "https://open.spotify.com/artist/4sj6D0zlMOl25nprDJBiU9"
-        }
-      ],
-      "duration_ms": 151000,
-      "name": "It's the Most Wonderful Time of the Year",
-      "url": "https://open.spotify.com/track/1IcR6RlgvDczfvoWJSSY2A"
-    },
-    {
-      "added_at": "2023-11-30 08:38:12",
-      "album": {
-        "name": "Hver Gang Vi M\u00f8tes 2023",
-        "url": "https://open.spotify.com/album/272tAO2vDpKaaD1FjHTeRY"
-      },
-      "artists": [
-        {
-          "name": "Emma Steinbakken",
-          "url": "https://open.spotify.com/artist/3GIadM69XShFZNB3gP67Td"
+          "name": "23",
+          "url": "https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA"
         },
         {
-          "name": "Hver gang vi m\u00f8tes",
-          "url": "https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO"
+          "name": "Roc Boyz",
+          "url": "https://open.spotify.com/artist/09qHO1fFJ6iIeTuCjO7Bfa"
         }
       ],
-      "duration_ms": 212962,
-      "name": "Floden",
-      "url": "https://open.spotify.com/track/0XzWcSh30W1H1o4ZiyI90j"
+      "duration_ms": 182769,
+      "name": "Feeling Myself - Roc Boyz Remix",
+      "url": "https://open.spotify.com/track/67en3njm0MOvKPIM3lkR3V"
     },
     {
-      "added_at": "2023-11-30 08:38:12",
+      "added_at": "2023-12-01 10:57:51",
       "album": {
         "name": "A Winter Romance",
         "url": "https://open.spotify.com/album/5I48ENiZiaZZSOpec6PdS5"
@@ -621,7 +529,7 @@
       "url": "https://open.spotify.com/track/2uFaJJtFpPDc5Pa95XzTvg"
     },
     {
-      "added_at": "2023-11-30 08:38:12",
+      "added_at": "2023-12-01 10:57:51",
       "album": {
         "name": "Jula Hjemme (feat. Trygve Skaug)",
         "url": "https://open.spotify.com/album/3qJ34RupcqOwNh9Qor3V1C"
@@ -641,59 +549,23 @@
       "url": "https://open.spotify.com/track/47G1D6ZRAkj37PsONIqs8h"
     },
     {
-      "added_at": "2023-11-30 08:38:12",
+      "added_at": "2023-12-01 10:57:51",
       "album": {
-        "name": "Egoland",
-        "url": "https://open.spotify.com/album/7pNnH6DtwnTYEQOrrGAzlO"
+        "name": "The Andy Williams Christmas Album",
+        "url": "https://open.spotify.com/album/30eO7X0doSEWKhDLAFLMuW"
       },
       "artists": [
         {
-          "name": "UNDERGRUNN",
-          "url": "https://open.spotify.com/artist/1LyYIhqdjG9R9VdIRSftBb"
+          "name": "Andy Williams",
+          "url": "https://open.spotify.com/artist/4sj6D0zlMOl25nprDJBiU9"
         }
       ],
-      "duration_ms": 135346,
-      "name": "Lenge Leve",
-      "url": "https://open.spotify.com/track/0eoNXHlt2V32uXCy60jCCa"
+      "duration_ms": 151000,
+      "name": "It's the Most Wonderful Time of the Year",
+      "url": "https://open.spotify.com/track/1IcR6RlgvDczfvoWJSSY2A"
     },
     {
-      "added_at": "2023-11-30 08:38:12",
-      "album": {
-        "name": "Zach Bryan",
-        "url": "https://open.spotify.com/album/6PbnGueEO6LGodPfvNldYf"
-      },
-      "artists": [
-        {
-          "name": "Zach Bryan",
-          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
-        },
-        {
-          "name": "Kacey Musgraves",
-          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
-        }
-      ],
-      "duration_ms": 227195,
-      "name": "I Remember Everything (feat. Kacey Musgraves)",
-      "url": "https://open.spotify.com/track/4KULAymBBJcPRpk1yO4dOG"
-    },
-    {
-      "added_at": "2023-11-30 08:38:12",
-      "album": {
-        "name": "Daylight",
-        "url": "https://open.spotify.com/album/6NcI39WPu4kY6Tul11nhSv"
-      },
-      "artists": [
-        {
-          "name": "David Kushner",
-          "url": "https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY"
-        }
-      ],
-      "duration_ms": 212953,
-      "name": "Daylight",
-      "url": "https://open.spotify.com/track/1odExI7RdWc4BT515LTAwj"
-    },
-    {
-      "added_at": "2023-11-30 08:38:12",
+      "added_at": "2023-12-01 10:57:51",
       "album": {
         "name": "Have Yourself A Merry Little Christmas",
         "url": "https://open.spotify.com/album/1YbbdbiUKFY5RqIlNrh1Bc"
@@ -713,59 +585,39 @@
       "url": "https://open.spotify.com/track/0zCU35nRISaqZqlUXNEL5Z"
     },
     {
-      "added_at": "2023-11-30 08:38:12",
+      "added_at": "2023-12-01 10:57:51",
       "album": {
-        "name": "The Hunger Games: The Ballad of Songbirds & Snakes (Music From & Inspired By)",
-        "url": "https://open.spotify.com/album/2yHTMVFGHODKJOjVL1hLgk"
+        "name": "Daylight",
+        "url": "https://open.spotify.com/album/6NcI39WPu4kY6Tul11nhSv"
       },
       "artists": [
         {
-          "name": "Olivia Rodrigo",
-          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+          "name": "David Kushner",
+          "url": "https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY"
         }
       ],
-      "duration_ms": 205483,
-      "name": "Can\u2019t Catch Me Now - from The Hunger Games: The Ballad of Songbirds & Snakes",
-      "url": "https://open.spotify.com/track/17cia5k4BpGVlyEfqrFH50"
+      "duration_ms": 212953,
+      "name": "Daylight",
+      "url": "https://open.spotify.com/track/1odExI7RdWc4BT515LTAwj"
     },
     {
-      "added_at": "2023-11-30 08:38:12",
+      "added_at": "2023-12-01 10:57:51",
       "album": {
-        "name": "You're Losing Me (From The Vault)",
-        "url": "https://open.spotify.com/album/5q3jthpn2h59P7pe2gmAl7"
+        "name": "Strange Trails",
+        "url": "https://open.spotify.com/album/3yoNZlqerJnsnMN5EDwwBS"
       },
       "artists": [
         {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+          "name": "Lord Huron",
+          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
         }
       ],
-      "duration_ms": 277831,
-      "name": "You\u2019re Losing Me (From The Vault)",
-      "url": "https://open.spotify.com/track/3CWq0pAKKTWb0K4yiglDc4"
+      "duration_ms": 208211,
+      "name": "The Night We Met",
+      "url": "https://open.spotify.com/track/0QZ5yyl6B6utIWkxeBDxQN"
     },
     {
-      "added_at": "2023-11-30 08:38:12",
-      "album": {
-        "name": "If I Should Fall from Grace with God (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4V92Puney9WxGPecKtLG4L"
-      },
-      "artists": [
-        {
-          "name": "The Pogues",
-          "url": "https://open.spotify.com/artist/2wzMOQwNT6ZvVB4amvhFAH"
-        },
-        {
-          "name": "Kirsty MacColl",
-          "url": "https://open.spotify.com/artist/6UlNIFEuWlBqb4TvlVCekq"
-        }
-      ],
-      "duration_ms": 272466,
-      "name": "Fairytale of New York (feat. Kirsty MacColl)",
-      "url": "https://open.spotify.com/track/3VTNVsTTu05dmTsVFrmGpK"
-    },
-    {
-      "added_at": "2023-11-30 08:38:12",
+      "added_at": "2023-12-01 10:57:51",
       "album": {
         "name": "Christmas",
         "url": "https://open.spotify.com/album/3CKVXhODttZebJAzjUs2un"
@@ -781,23 +633,103 @@
       "url": "https://open.spotify.com/track/6tjituizSxwSmBB5vtgHZE"
     },
     {
-      "added_at": "2023-11-30 08:38:12",
+      "added_at": "2023-12-01 10:57:51",
       "album": {
-        "name": "Blendende Lys (Sprut)",
-        "url": "https://open.spotify.com/album/6Kqynu13o6sqwdbx0h4w8O"
+        "name": "Egoland",
+        "url": "https://open.spotify.com/album/7pNnH6DtwnTYEQOrrGAzlO"
       },
       "artists": [
         {
-          "name": "Golfklubb",
-          "url": "https://open.spotify.com/artist/1Kj6Km5IuLGKt2cxuhSgLm"
+          "name": "UNDERGRUNN",
+          "url": "https://open.spotify.com/artist/1LyYIhqdjG9R9VdIRSftBb"
         }
       ],
-      "duration_ms": 129130,
-      "name": "Blendende Lys (Sprut)",
-      "url": "https://open.spotify.com/track/12QUi7THQxSfpaULkKGt1x"
+      "duration_ms": 135346,
+      "name": "Lenge Leve",
+      "url": "https://open.spotify.com/track/0eoNXHlt2V32uXCy60jCCa"
     },
     {
-      "added_at": "2023-11-30 08:38:12",
+      "added_at": "2023-12-01 10:57:51",
+      "album": {
+        "name": "Et godt stup i et grunt vann",
+        "url": "https://open.spotify.com/album/0BrcpRYg40t0Ia6XUtkVU5"
+      },
+      "artists": [
+        {
+          "name": "Cezinando",
+          "url": "https://open.spotify.com/artist/504cl42JQLRqlZddfZ3S4z"
+        }
+      ],
+      "duration_ms": 295840,
+      "name": "Kristoffer Robin",
+      "url": "https://open.spotify.com/track/6EfZLPYsaXiu9yszHkkc0w"
+    },
+    {
+      "added_at": "2023-12-01 10:57:51",
+      "album": {
+        "name": "Si No Est\u00e1s",
+        "url": "https://open.spotify.com/album/66k6EGkPtYoN44anGIsEPW"
+      },
+      "artists": [
+        {
+          "name": "i\u00f1igo quintero",
+          "url": "https://open.spotify.com/artist/0jbo7KFNMiIkfBR6ih0yhm"
+        }
+      ],
+      "duration_ms": 184061,
+      "name": "Si No Est\u00e1s",
+      "url": "https://open.spotify.com/track/2HafqoJbgXdtjwCOvNEF14"
+    },
+    {
+      "added_at": "2023-12-01 10:57:51",
+      "album": {
+        "name": "You're Losing Me (From The Vault)",
+        "url": "https://open.spotify.com/album/5q3jthpn2h59P7pe2gmAl7"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 277831,
+      "name": "You\u2019re Losing Me (From The Vault)",
+      "url": "https://open.spotify.com/track/3CWq0pAKKTWb0K4yiglDc4"
+    },
+    {
+      "added_at": "2023-12-01 10:57:51",
+      "album": {
+        "name": "I've Tried Everything But Therapy (Part 1)",
+        "url": "https://open.spotify.com/album/7nacKlk586eLRBSIsrk9DB"
+      },
+      "artists": [
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        }
+      ],
+      "duration_ms": 210688,
+      "name": "Lose Control",
+      "url": "https://open.spotify.com/track/17phhZDn6oGtzMe56NuWvj"
+    },
+    {
+      "added_at": "2023-12-01 10:57:51",
+      "album": {
+        "name": "Strangers",
+        "url": "https://open.spotify.com/album/18ogtNq9F7DmMkNYO6Xb4k"
+      },
+      "artists": [
+        {
+          "name": "Kenya Grace",
+          "url": "https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2"
+        }
+      ],
+      "duration_ms": 172964,
+      "name": "Strangers",
+      "url": "https://open.spotify.com/track/5mjYQaktjmjcMKcUIcqz4s"
+    },
+    {
+      "added_at": "2023-12-01 10:57:51",
       "album": {
         "name": "Mosaikk (16 Biter)",
         "url": "https://open.spotify.com/album/7rtosLI7Lqa0XoYLKdCjKO"
@@ -813,60 +745,140 @@
       "url": "https://open.spotify.com/track/5aasUgkPxYhqKcxmNLotmH"
     },
     {
-      "added_at": "2023-11-30 08:38:12",
+      "added_at": "2023-12-01 10:57:51",
       "album": {
-        "name": "STAG 2024",
-        "url": "https://open.spotify.com/album/4XZVXvWuCJIVsOG5AN3FBa"
+        "name": "Have Yourself A Merry Little Christmas",
+        "url": "https://open.spotify.com/album/1YbbdbiUKFY5RqIlNrh1Bc"
       },
       "artists": [
         {
-          "name": "Magasinet",
-          "url": "https://open.spotify.com/artist/4eX03jTZOy5VdFEREABYXB"
+          "name": "Kurt Nilsen",
+          "url": "https://open.spotify.com/artist/49HPMFWsosCuRf810Ay1Vv"
         },
         {
-          "name": "bibbebaby",
-          "url": "https://open.spotify.com/artist/2av9bbnH4kpl8GsDCSIdvD"
+          "name": "The Norwegian Radio Orchestra",
+          "url": "https://open.spotify.com/artist/17ggmeNujCFMkr3zgyXv02"
+        }
+      ],
+      "duration_ms": 126200,
+      "name": "Let It Snow, Let It Snow, Let It Snow",
+      "url": "https://open.spotify.com/track/74yQRKUunP1sRjnnMks4SG"
+    },
+    {
+      "added_at": "2023-12-01 10:57:51",
+      "album": {
+        "name": "Zach Bryan",
+        "url": "https://open.spotify.com/album/6PbnGueEO6LGodPfvNldYf"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
         },
         {
-          "name": "b.G",
-          "url": "https://open.spotify.com/artist/2zw4zwwb2LoNYssj3hdLoa"
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
         }
       ],
-      "duration_ms": 194545,
-      "name": "Sportskrave (Stag 2024)",
-      "url": "https://open.spotify.com/track/0R7rw7i4pd27isZrMen0X7"
+      "duration_ms": 227195,
+      "name": "I Remember Everything (feat. Kacey Musgraves)",
+      "url": "https://open.spotify.com/track/4KULAymBBJcPRpk1yO4dOG"
     },
     {
-      "added_at": "2023-11-30 08:38:12",
+      "added_at": "2023-12-01 10:57:51",
       "album": {
-        "name": "11:11",
-        "url": "https://open.spotify.com/album/0tL8CzbfmF5poGm9puqALR"
+        "name": "exes",
+        "url": "https://open.spotify.com/album/54FpKE2Pug3xbPz26WUVSH"
       },
       "artists": [
         {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
         }
       ],
-      "duration_ms": 306847,
-      "name": "Angel Numbers / Ten Toes",
-      "url": "https://open.spotify.com/track/3XqM8hLCEYlbnFjoWwqtFv"
+      "duration_ms": 159400,
+      "name": "exes",
+      "url": "https://open.spotify.com/track/0HD8mbiPjp3o94X3EaZp0o"
     },
     {
-      "added_at": "2023-11-30 08:38:12",
+      "added_at": "2023-12-01 10:57:51",
       "album": {
-        "name": "Scarlet",
-        "url": "https://open.spotify.com/album/1bBez9PNvkJPW08bU7NYta"
+        "name": "Falle til ro (From the Original Netflix Series \"Home For Christmas\")",
+        "url": "https://open.spotify.com/album/6lsJTzNFipM2N8zNf9lXmP"
       },
       "artists": [
         {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+          "name": "Eva Weel Skram",
+          "url": "https://open.spotify.com/artist/3u2Sz4K3PFfalhDU0vSHT3"
         }
       ],
-      "duration_ms": 230480,
-      "name": "Paint The Town Red",
-      "url": "https://open.spotify.com/track/56y1jOTK0XSvJzVv9vHQBK"
+      "duration_ms": 266328,
+      "name": "Falle til ro (From the Original Netflix Series \"Home For Christmas\")",
+      "url": "https://open.spotify.com/track/6oJLgaS6Py1tSKAJTKSe5K"
+    },
+    {
+      "added_at": "2023-12-01 10:57:51",
+      "album": {
+        "name": "Ramperuss (Hjemmesnekk)",
+        "url": "https://open.spotify.com/album/69TTvZzULfJCxmH0XDayZH"
+      },
+      "artists": [
+        {
+          "name": "Keiser Augustus",
+          "url": "https://open.spotify.com/artist/2SOkJ0Z04Fc9FKZK35e2G4"
+        },
+        {
+          "name": "Kremily",
+          "url": "https://open.spotify.com/artist/7sNyG2RaPjNb7ytzUqR8bf"
+        },
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1rmV1xUZ2cyN4Sbz6Y0LVQ"
+        },
+        {
+          "name": "Hunken",
+          "url": "https://open.spotify.com/artist/6xW52UM8EdimPbltVNpflg"
+        },
+        {
+          "name": "Maximizer",
+          "url": "https://open.spotify.com/artist/3LV9MGwUFrCBZXic9C3HR6"
+        }
+      ],
+      "duration_ms": 157983,
+      "name": "Ramperuss (Hjemmesnekk)",
+      "url": "https://open.spotify.com/track/2RypXhnpt7MbxdVQATVgvm"
+    },
+    {
+      "added_at": "2023-12-01 10:57:51",
+      "album": {
+        "name": "Home To You (This Christmas)",
+        "url": "https://open.spotify.com/album/3yqzTFvOGOsoruu0G4KjNV"
+      },
+      "artists": [
+        {
+          "name": "Sigrid",
+          "url": "https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ"
+        }
+      ],
+      "duration_ms": 225817,
+      "name": "Home To You (This Christmas)",
+      "url": "https://open.spotify.com/track/1SBo8LdLGOieucdStHz6iV"
+    },
+    {
+      "added_at": "2023-12-01 10:57:51",
+      "album": {
+        "name": "Stjernest\u00f8v",
+        "url": "https://open.spotify.com/album/51g1ZXsMZYm2u63xiBJhc8"
+      },
+      "artists": [
+        {
+          "name": "AURORA",
+          "url": "https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N"
+        }
+      ],
+      "duration_ms": 198045,
+      "name": "Stjernest\u00f8v",
+      "url": "https://open.spotify.com/track/2g7kOfDm0QfGHICnvJfP0e"
     }
   ],
   "unique_name": "Top 50 - Norway",

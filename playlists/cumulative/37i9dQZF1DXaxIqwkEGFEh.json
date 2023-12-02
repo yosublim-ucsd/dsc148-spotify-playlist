@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Strictly for the streets. Cover: Meek Mill & Rick Ross",
+  "description": "Strictly for the streets. Cover: Tee Grizzley",
   "name": "Out The Mud",
   "tracks": [
     {
@@ -628,7 +628,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 126802,
       "name": "60 Miles",
       "url": "https://open.spotify.com/track/3dyhk17fDgslADTDnU6sgG"
@@ -3937,6 +3937,28 @@
     },
     {
       "album": {
+        "name": "THE BIGGEST",
+        "url": "https://open.spotify.com/album/2EZ8JL3dtb54VXi3k6E7k6"
+      },
+      "artists": [
+        {
+          "name": "BigXthaPlug",
+          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
+        },
+        {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170106,
+      "name": "Climate (feat. Offset)",
+      "url": "https://open.spotify.com/track/1c7MITQmNJTrvfbDSzWT6x"
+    },
+    {
+      "album": {
         "name": "Trapping & Finessing",
         "url": "https://open.spotify.com/album/3Z0aq4NH3sfrAMURV9pv41"
       },
@@ -4686,7 +4708,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 146865,
       "name": "Did It First",
       "url": "https://open.spotify.com/track/5yRQ75CGxdzPm28AqoDorY"
@@ -5965,6 +5987,28 @@
     },
     {
       "album": {
+        "name": "Fill Up (feat. BabyDrill)",
+        "url": "https://open.spotify.com/album/076Us4TZCSDXU6Tn4M8XLK"
+      },
+      "artists": [
+        {
+          "name": "NGeeYL",
+          "url": "https://open.spotify.com/artist/5Z9mvkWNEpiKVQ36xVkMfe"
+        },
+        {
+          "name": "BabyDrill",
+          "url": "https://open.spotify.com/artist/4Q7FV4mw6Q3va79JwftGRv"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166887,
+      "name": "Fill Up (feat. BabyDrill)",
+      "url": "https://open.spotify.com/track/5itRFdvUZBFVruujumEQcs"
+    },
+    {
+      "album": {
         "name": "FLYEST OOTA",
         "url": "https://open.spotify.com/album/39kwAzCvXewcbqclbXHE9X"
       },
@@ -6774,7 +6818,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 118752,
       "name": "FWM",
       "url": "https://open.spotify.com/track/07RYvaDbH5GWKTB7a7DlGz"
@@ -8329,6 +8373,28 @@
     },
     {
       "album": {
+        "name": "Le\u2019Paris",
+        "url": "https://open.spotify.com/album/6qvXFMRQ7bNq1zpPU5ua4I"
+      },
+      "artists": [
+        {
+          "name": "OMB Peezy",
+          "url": "https://open.spotify.com/artist/1QdCkPulANBEZiaiAyLkak"
+        },
+        {
+          "name": "Tee Grizzley",
+          "url": "https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163249,
+      "name": "Hell Yeah (feat. Tee Grizzley)",
+      "url": "https://open.spotify.com/track/0ioOlQyJQKHMyi4OGPOEYf"
+    },
+    {
+      "album": {
         "name": "Hellcats SRTs 2 (with Lil Durk)",
         "url": "https://open.spotify.com/album/4ygqsOtoimrPwwH33iaAq0"
       },
@@ -9078,7 +9144,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 186453,
       "name": "I Can't Lie (with Kodak Black)",
       "url": "https://open.spotify.com/track/3VLsdzHOFM9pyn79QTjiGJ"
@@ -9144,7 +9210,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 199143,
       "name": "I Don\u2019t Apologize",
       "url": "https://open.spotify.com/track/6FOw3r7U8CfnIbCxJn8H0W"
@@ -9746,6 +9812,28 @@
       "duration_ms": 190840,
       "name": "In Dat Mode (feat. Luh Tyler)",
       "url": "https://open.spotify.com/track/1g6xClUkUvGIPMniK1xMEJ"
+    },
+    {
+      "album": {
+        "name": "In The Trunk (feat. GloRilla)",
+        "url": "https://open.spotify.com/album/1MD6MPOCOu6Ejid7adoSVg"
+      },
+      "artists": [
+        {
+          "name": "FendiDa Rappa",
+          "url": "https://open.spotify.com/artist/7oXyXDUyxRjYXWC5L5EuGy"
+        },
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165714,
+      "name": "In The Trunk (feat. GloRilla)",
+      "url": "https://open.spotify.com/track/6srN4L7q0KzHeXFbi5K2pd"
     },
     {
       "album": {
@@ -13644,7 +13732,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 156521,
       "name": "No Reason",
       "url": "https://open.spotify.com/track/47PMDlcWhtw5Wg3dfXK49H"
@@ -15161,6 +15249,32 @@
     },
     {
       "album": {
+        "name": "Hood Hottest Princess (Deluxe)",
+        "url": "https://open.spotify.com/album/7eJUwUbX2BGnNkLBoOvIlr"
+      },
+      "artists": [
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        },
+        {
+          "name": "42 Dugg",
+          "url": "https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG"
+        },
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220380,
+      "name": "Perfect Match (feat. 42 Dugg & G Herbo)",
+      "url": "https://open.spotify.com/track/42L59PO4HHI9OMxjtIoX2q"
+    },
+    {
+      "album": {
         "name": "7220",
         "url": "https://open.spotify.com/album/0vRN2oePynCSTspdY9NDsM"
       },
@@ -15814,7 +15928,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 133000,
       "name": "Pull Up (feat. 21 Savage)",
       "url": "https://open.spotify.com/track/4EzkcqltSOxYE2lstuLOFs"
@@ -15844,6 +15958,24 @@
       "duration_ms": 144046,
       "name": "Pull Up Actin (Never Broke Again featuring YoungBoy Never Broke Again and P Yungin)",
       "url": "https://open.spotify.com/track/6xj9wxBuEmuCffZCD5sJsJ"
+    },
+    {
+      "album": {
+        "name": "Punch Me in Again",
+        "url": "https://open.spotify.com/album/7nWheo1f7seLXOWBGxqnDL"
+      },
+      "artists": [
+        {
+          "name": "Stunna 4 Vegas",
+          "url": "https://open.spotify.com/artist/44IvvHRk2XF243QLA2VOa8"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116819,
+      "name": "Punch Me in Again",
+      "url": "https://open.spotify.com/track/7w9ev8Fmx4KJEP6VDivXVb"
     },
     {
       "album": {
@@ -17165,6 +17297,24 @@
     },
     {
       "album": {
+        "name": "Run",
+        "url": "https://open.spotify.com/album/0b9jz0diSiituyThsBewRd"
+      },
+      "artists": [
+        {
+          "name": "YoungBoy Never Broke Again",
+          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175587,
+      "name": "Run",
+      "url": "https://open.spotify.com/track/7bwflXK0lc225Ir1SlkptS"
+    },
+    {
+      "album": {
         "name": "Used to the Pain",
         "url": "https://open.spotify.com/album/2WuRkHMYoU8srU7gEXBUK2"
       },
@@ -18394,7 +18544,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 196626,
       "name": "Slump (Never Broke Again feat. YoungBoy Never Broke Again)",
       "url": "https://open.spotify.com/track/6njzTlnGXDeUSJ0hqBRmRe"
@@ -21737,6 +21887,24 @@
     },
     {
       "album": {
+        "name": "Watchin Now",
+        "url": "https://open.spotify.com/album/7riLmoqGYjabjk2D35MGdb"
+      },
+      "artists": [
+        {
+          "name": "BabyDrill",
+          "url": "https://open.spotify.com/artist/4Q7FV4mw6Q3va79JwftGRv"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147717,
+      "name": "Watchin Now",
+      "url": "https://open.spotify.com/track/4rt78PYlUq6XIiLBsfFs4M"
+    },
+    {
+      "album": {
         "name": "Me vs. Myself",
         "url": "https://open.spotify.com/album/2iKQjWWBysdCf52lSiwA03"
       },
@@ -22494,6 +22662,24 @@
       "duration_ms": 226413,
       "name": "Wit Da Racks (feat. 21 Savage, Travis Scott & Yak Gotti)",
       "url": "https://open.spotify.com/track/0r75DNlHu4recmKUdZeMfG"
+    },
+    {
+      "album": {
+        "name": "WIT WHATEVER",
+        "url": "https://open.spotify.com/album/1tlBb0lyjAHkzQpIKOyZod"
+      },
+      "artists": [
+        {
+          "name": "HotBlock Jmoe",
+          "url": "https://open.spotify.com/artist/1GiFhQeBgRig35WbBjvtb1"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124608,
+      "name": "WIT WHATEVER",
+      "url": "https://open.spotify.com/track/0tBAUB2taQ5YjXl4fPBNxe"
     },
     {
       "album": {

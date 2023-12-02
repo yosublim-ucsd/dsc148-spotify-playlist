@@ -1,12 +1,12 @@
 {
   "description": "Taking you back to your favourite hall party classics from the Afrobeat scene.",
-  "num_followers": 132522,
+  "num_followers": 132724,
   "original_name": "Timeless Afro ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlM2QxMmY1MWM2N2QyZWNiYWRjYTAwNWUyNGNmYTNmODJhYzJiNjNj",
+  "snapshot_id": "MCw1ZGNjOWM2NjcwNzJmYzM0ODMwNDI0ZDU1NWM3ODQ4MGU1MmI2YjU3",
   "tracks": [
     {
       "added_at": "2020-11-06 13:21:21",
@@ -387,6 +387,22 @@
     {
       "added_at": "2020-11-06 13:21:21",
       "album": {
+        "name": "R & BW",
+        "url": "https://open.spotify.com/album/1AsBBWRFndiye1Z4oPEXyt"
+      },
+      "artists": [
+        {
+          "name": "Banky W.",
+          "url": "https://open.spotify.com/artist/1c61yiH4iYE7cHtjAYSUu3"
+        }
+      ],
+      "duration_ms": 247453,
+      "name": "Yes/No",
+      "url": "https://open.spotify.com/track/47wpq9ChR1Oh4SgXuM0SwD"
+    },
+    {
+      "added_at": "2020-11-06 13:21:21",
+      "album": {
         "name": "Dorobucci (feat. Don Jazzy, Dr Sid, Dr Sid Tiwa Savage, Reekado Banks, Di'ja, Korede Bello & D'prince)",
         "url": "https://open.spotify.com/album/2kf7rwQWptDFL0dIGCRHvs"
       },
@@ -427,22 +443,6 @@
       "duration_ms": 266903,
       "name": "Dorobucci (feat. Don Jazzy, Dr Sid, Dr Sid Tiwa Savage, Reekado Banks, Di'ja, Korede Bello & D'prince)",
       "url": "https://open.spotify.com/track/06B0pbiRWZJAfxJXu6R4wY"
-    },
-    {
-      "added_at": "2020-11-06 13:21:21",
-      "album": {
-        "name": "R & BW",
-        "url": "https://open.spotify.com/album/1AsBBWRFndiye1Z4oPEXyt"
-      },
-      "artists": [
-        {
-          "name": "Banky W.",
-          "url": "https://open.spotify.com/artist/1c61yiH4iYE7cHtjAYSUu3"
-        }
-      ],
-      "duration_ms": 247453,
-      "name": "Yes/No",
-      "url": "https://open.spotify.com/track/47wpq9ChR1Oh4SgXuM0SwD"
     },
     {
       "added_at": "2020-11-06 13:21:21",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2020-11-06 13:21:21",
       "album": {
-        "name": "Kolom",
-        "url": "https://open.spotify.com/album/1DQxZQNQLJbL4Pd6XhL9aj"
-      },
-      "artists": [
-        {
-          "name": "BukBak",
-          "url": "https://open.spotify.com/artist/1E0CW7edfYKv66MrCVSnmV"
-        }
-      ],
-      "duration_ms": 280737,
-      "name": "Kolom",
-      "url": "https://open.spotify.com/track/2oiMs23DJaCEj0KSj6ZOjv"
-    },
-    {
-      "added_at": "2020-11-06 13:21:21",
-      "album": {
         "name": "Bundelele",
         "url": "https://open.spotify.com/album/6cwfMBhOiJaTsJGKk3x0X5"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 205970,
       "name": "Bundelele",
       "url": "https://open.spotify.com/track/6VtdRYA62JdfnYFlsAqjpT"
+    },
+    {
+      "added_at": "2020-11-06 13:21:21",
+      "album": {
+        "name": "Kolom",
+        "url": "https://open.spotify.com/album/1DQxZQNQLJbL4Pd6XhL9aj"
+      },
+      "artists": [
+        {
+          "name": "BukBak",
+          "url": "https://open.spotify.com/artist/1E0CW7edfYKv66MrCVSnmV"
+        }
+      ],
+      "duration_ms": 280737,
+      "name": "Kolom",
+      "url": "https://open.spotify.com/track/2oiMs23DJaCEj0KSj6ZOjv"
     },
     {
       "added_at": "2020-11-06 13:21:21",
@@ -1207,18 +1207,18 @@
     {
       "added_at": "2020-11-06 13:21:21",
       "album": {
-        "name": "Thanks Giving",
-        "url": "https://open.spotify.com/album/373gb0j44PcEDNnvZeDn6s"
+        "name": "Igwe",
+        "url": "https://open.spotify.com/album/0kN8GGxxSjyUWMnkXVzywG"
       },
       "artists": [
         {
-          "name": "Bisa Kdei",
-          "url": "https://open.spotify.com/artist/4AN8jBgYwV1ieMsX1Ntxwc"
+          "name": "Midnight Crew",
+          "url": "https://open.spotify.com/artist/6fV5ZuXo1IZqGn9n1hexab"
         }
       ],
-      "duration_ms": 220020,
-      "name": "Azonto Ghost",
-      "url": "https://open.spotify.com/track/0ygTK8RCFVhyOKUNG1n4jz"
+      "duration_ms": 310480,
+      "name": "Igwe",
+      "url": "https://open.spotify.com/track/3o015gK1MraodVKH1DKGBQ"
     },
     {
       "added_at": "2020-11-06 13:21:21",
@@ -1239,18 +1239,18 @@
     {
       "added_at": "2020-11-06 13:21:21",
       "album": {
-        "name": "Igwe",
-        "url": "https://open.spotify.com/album/0kN8GGxxSjyUWMnkXVzywG"
+        "name": "Thanks Giving",
+        "url": "https://open.spotify.com/album/373gb0j44PcEDNnvZeDn6s"
       },
       "artists": [
         {
-          "name": "Midnight Crew",
-          "url": "https://open.spotify.com/artist/6fV5ZuXo1IZqGn9n1hexab"
+          "name": "Bisa Kdei",
+          "url": "https://open.spotify.com/artist/4AN8jBgYwV1ieMsX1Ntxwc"
         }
       ],
-      "duration_ms": 310480,
-      "name": "Igwe",
-      "url": "https://open.spotify.com/track/3o015gK1MraodVKH1DKGBQ"
+      "duration_ms": 220020,
+      "name": "Azonto Ghost",
+      "url": "https://open.spotify.com/track/0ygTK8RCFVhyOKUNG1n4jz"
     },
     {
       "added_at": "2020-11-06 13:21:21",
@@ -1271,6 +1271,22 @@
       "duration_ms": 237035,
       "name": "Seihor (feat. Dblack)",
       "url": "https://open.spotify.com/track/5iv7WkYexGay1BNXXLWYI1"
+    },
+    {
+      "added_at": "2020-11-06 13:21:21",
+      "album": {
+        "name": "Once Upon a Time",
+        "url": "https://open.spotify.com/album/26VFfANkR1FYyyTwtCi4eG"
+      },
+      "artists": [
+        {
+          "name": "Tiwa Savage",
+          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
+        }
+      ],
+      "duration_ms": 219093,
+      "name": "Love Me, Love Me, Love Me",
+      "url": "https://open.spotify.com/track/78AXj5mOndSYhJtEOVmOwI"
     },
     {
       "added_at": "2020-11-06 13:21:21",
@@ -1299,22 +1315,6 @@
     {
       "added_at": "2020-11-06 13:21:21",
       "album": {
-        "name": "Once Upon a Time",
-        "url": "https://open.spotify.com/album/26VFfANkR1FYyyTwtCi4eG"
-      },
-      "artists": [
-        {
-          "name": "Tiwa Savage",
-          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
-        }
-      ],
-      "duration_ms": 219093,
-      "name": "Love Me, Love Me, Love Me",
-      "url": "https://open.spotify.com/track/78AXj5mOndSYhJtEOVmOwI"
-    },
-    {
-      "added_at": "2020-11-06 13:21:21",
-      "album": {
         "name": "Simple",
         "url": "https://open.spotify.com/album/4XS1iaLdd3g4IxKYoZs2jh"
       },
@@ -1327,6 +1327,22 @@
       "duration_ms": 253320,
       "name": "Simple",
       "url": "https://open.spotify.com/track/1ZneNgmfcgGBGshd7VgqBf"
+    },
+    {
+      "added_at": "2020-11-06 13:21:21",
+      "album": {
+        "name": "Waist & Power",
+        "url": "https://open.spotify.com/album/2yoVgfL21I1DRDSFuoqjMn"
+      },
+      "artists": [
+        {
+          "name": "4x4",
+          "url": "https://open.spotify.com/artist/15YwTNQbCiTuFOK62K7Wgu"
+        }
+      ],
+      "duration_ms": 305669,
+      "name": "Waist & Power",
+      "url": "https://open.spotify.com/track/6mtHjfaPzBND2HS2c0UsU3"
     },
     {
       "added_at": "2020-11-06 13:21:21",
@@ -1347,22 +1363,6 @@
       "duration_ms": 300721,
       "name": "Ahayede",
       "url": "https://open.spotify.com/track/1zcxIb6URuZV1GAFpmc9OE"
-    },
-    {
-      "added_at": "2020-11-06 13:21:21",
-      "album": {
-        "name": "Waist & Power",
-        "url": "https://open.spotify.com/album/2yoVgfL21I1DRDSFuoqjMn"
-      },
-      "artists": [
-        {
-          "name": "4x4",
-          "url": "https://open.spotify.com/artist/15YwTNQbCiTuFOK62K7Wgu"
-        }
-      ],
-      "duration_ms": 305669,
-      "name": "Waist & Power",
-      "url": "https://open.spotify.com/track/6mtHjfaPzBND2HS2c0UsU3"
     },
     {
       "added_at": "2020-11-06 13:21:21",

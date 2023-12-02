@@ -4,7 +4,7 @@
 
 > Gentle, soft Ambient music for focus and concentration.
 
-145 songs - 6 hr 52 min
+146 songs - 6 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,6 +105,7 @@
 | [Orphic](https://open.spotify.com/track/6KyPQhcAuRJxeq0Rwab6Jk) | [The Nowhows](https://open.spotify.com/artist/0yv3AGgMUbIJR6DROh35j1) | [Orphic](https://open.spotify.com/album/0MrCJsyAgkx4K5aJmvfIMA) | 3:00 | 2022-10-12 | 2023-02-09 |
 | [Patiently](https://open.spotify.com/track/4ksohd9Ti6zViNRYe80JEW) | [Theodore Brim](https://open.spotify.com/artist/1qzetpI2OtTttg58OsZI0o) | [Patiently](https://open.spotify.com/album/768bX4s0q9wTXd1Nxt5mo4) | 2:58 | 2023-09-29 |  |
 | [Peaceful Patterns](https://open.spotify.com/track/0EGpuh2uzSDi5mnMIvgFui) | [Hatha Priya](https://open.spotify.com/artist/3PrmIS6YRTKENfGH4xf8S6) | [Peaceful Patterns](https://open.spotify.com/album/2Mrq6DXobLAj2feyv0h59J) | 2:49 | 2022-10-12 |  |
+| [Peaceful Sensations](https://open.spotify.com/track/1Lzv93xUuJMP28dDMVPOjm) | [Amara Issawi](https://open.spotify.com/artist/2P9RNRqGbPoYGrT7wQTt8r) | [Peaceful Sensations](https://open.spotify.com/album/444Smw0uIl5I4mJ6CdkRQn) | 2:45 | 2023-12-01 |  |
 | [Per Me](https://open.spotify.com/track/6km83BJ2tedUp9R0RDTz9N) | [Scintillante](https://open.spotify.com/artist/0WRfsMbE1OBngUdyCgizs8) | [Per Me](https://open.spotify.com/album/1kg1n715SGQCmmS741iP7F) | 3:17 | 2022-10-12 | 2023-01-21 |
 | [Places Beyond](https://open.spotify.com/track/4kh3Hjy1RPkAbKZpHi5k17) | [Slow Rising Hope](https://open.spotify.com/artist/6PG2xcOoZhLtbLAINQdys6) | [Liminal](https://open.spotify.com/album/1DN3N3sPQIZlpjMcvWkc9N) | 1:49 | 2022-10-12 | 2023-07-29 |
 | [Planet Calm](https://open.spotify.com/track/1DiSzonwA6obAjQSbz1vAx) | [Rebootist](https://open.spotify.com/artist/6kwfEowXeDA4ixlHvGmZpb) | [Talking Souls](https://open.spotify.com/album/5P7CUCHWkRwhFQT2iJ4e2B) | 3:10 | 2023-02-25 |  |

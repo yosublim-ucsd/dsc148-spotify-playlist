@@ -4,7 +4,7 @@
 
 > Canciones instrumentales de guitarra.
 
-624 songs - 1 day 2 hr 26 min
+626 songs - 1 day 2 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,7 @@
 | [A symptom of love](https://open.spotify.com/track/5txD37iFI1bEZAmYg0vr2R) | [Esmeralda Torres](https://open.spotify.com/artist/3bT8Meiw5qtuGhtYozTWOp) | [A symptom of love](https://open.spotify.com/album/72fvxb5dOABnoE2hVI6qi3) | 2:30 | 2023-02-24 | 2023-04-22 |
 | [Across](https://open.spotify.com/track/01xJAa5YF3Ffnw7VHXvTWf) | [Aurélien Trigo](https://open.spotify.com/artist/1XvEjHuBKBUIbZHuBesoCE) | [The Acoustic Mind Vol.5](https://open.spotify.com/album/6o7WSuz1KmcL6PtxrvgSqd) | 2:06 | 2022-07-15 | 2023-04-22 |
 | [Adelita](https://open.spotify.com/track/5AI6zlfccr8OZBUDT996F9) | [Juan Jose Moreno](https://open.spotify.com/artist/4hQDTsoE4V7uoOvtvxp12P) | [Adelita](https://open.spotify.com/album/1uPC9jQL9J7q8SsjxuphpP) | 2:04 | 2023-03-10 |  |
-| [Aegean](https://open.spotify.com/track/6cz8KGBcdCg0V095WH7prM) | [Ale Imke](https://open.spotify.com/artist/3zs6LXRTOTwSP8r38kQxSy) | [Aegean](https://open.spotify.com/album/4UGR9mcZoSuhvybQmz9CwJ) | 2:00 | 2023-04-21 |  |
+| [Aegean](https://open.spotify.com/track/6cz8KGBcdCg0V095WH7prM) | [Ale Imke](https://open.spotify.com/artist/3zs6LXRTOTwSP8r38kQxSy) | [Aegean](https://open.spotify.com/album/4UGR9mcZoSuhvybQmz9CwJ) | 2:00 | 2023-04-21 | 2023-12-02 |
 | [Afgangurinn](https://open.spotify.com/track/6bploBGfSJclJuxjV65t3r) | [Aiday Ainur](https://open.spotify.com/artist/5BuB7CRnNJKxzSsu6Mznbj) | [Afgangurinn](https://open.spotify.com/album/711Vy0KS3fmb4K2rgMtP6x) | 2:03 | 2023-04-21 | 2023-06-10 |
 | [Afterglow](https://open.spotify.com/track/0g6ooNqnQPI231K12NymuV) | [Leo Vara](https://open.spotify.com/artist/3f2LfaBv92I0qjmfU6fseT) | [Bordeaux](https://open.spotify.com/album/0yU3pYIPQBNVNhEisrJwe6) | 2:38 | 2023-04-21 | 2023-06-03 |
 | [Ain't Nothing But A Mistake](https://open.spotify.com/track/0Sn18IA6XwtXLkLeBoQFa2) | [Dawn Geller](https://open.spotify.com/artist/0HSRJAuF3aNdrbivhOb9SC) | [Ain't Nothing But A Mistake](https://open.spotify.com/album/2dOWa0Ss7pgUtBa6x0pPSE) | 3:21 | 2023-04-21 |  |
@@ -57,7 +57,7 @@
 | [Arroyos Y Valles](https://open.spotify.com/track/3deEZxzspdmQ8HmcGLhhOK) | [Xavier Suarez](https://open.spotify.com/artist/4qxGMBS25xDymfWz3kkKOE) | [Arroyos Y Valles](https://open.spotify.com/album/7mMinee1Kiy1lxSjs1beRc) | 2:38 | 2023-04-21 |  |
 | [Aspromonte](https://open.spotify.com/track/1GqV3etog2P1tPiauYjJRk) | [Tom Ellenhag](https://open.spotify.com/artist/0gAd6Hy6KbkeWOop5aTMqQ) | [Aspromonte](https://open.spotify.com/album/2gXiqOT3GYPWhE6ILAtOIO) | 3:51 | 2023-04-21 | 2023-05-13 |
 | [Atracción Total](https://open.spotify.com/track/3h65slquvDXuKKEsV97ujv) | [Ferne Dado](https://open.spotify.com/artist/5iExMiaCIV50ySAqjiDJ8e) | [Atracción Total](https://open.spotify.com/album/6bxb7581ZoRs7woNYVFQhD) | 3:02 | 2023-04-21 |  |
-| [Austin](https://open.spotify.com/track/4YezUSq1Jln6CBattRur3E) | [Toni Barella](https://open.spotify.com/artist/4SG1RjKd3TiXxwZ36G6tut) | [Seven Poems](https://open.spotify.com/album/1OnWt6c3cLv9rHqrll0ZjJ) | 3:57 | 2023-04-21 |  |
+| [Austin](https://open.spotify.com/track/4YezUSq1Jln6CBattRur3E) | [Toni Barella](https://open.spotify.com/artist/4SG1RjKd3TiXxwZ36G6tut) | [Seven Poems](https://open.spotify.com/album/1OnWt6c3cLv9rHqrll0ZjJ) | 3:57 | 2023-04-21 | 2023-12-02 |
 | [Azores](https://open.spotify.com/track/2YN1AKTAJApNLbTyNXrm6j) | [Brandon Taylor Smith](https://open.spotify.com/artist/0CkM1sLkP3yQW8I7ja51am) | [Azores](https://open.spotify.com/album/6cBG03sFqnDga0VqnWDpEu) | 2:39 | 2023-05-12 |  |
 | [Back in the Village](https://open.spotify.com/track/1ThpkLTeAScDpOmm7NHSec) | [Cordell Zoe](https://open.spotify.com/artist/1HVeNsc2IF1ob1427YyiRc) | [Back in the Village](https://open.spotify.com/album/201oJA5eb4m9kl57WySUIF) | 2:14 | 2023-11-24 |  |
 | [Barefoot Again](https://open.spotify.com/track/6bd8i923aA2lavpzd7YbIu) | [Filip Benedetto](https://open.spotify.com/artist/1x6GlAVo5qvLhm45bgtlp7) | [Barefoot Again](https://open.spotify.com/album/7bxvPmLbLvLwArNY4bJz3J) | 3:30 | 2022-07-15 | 2022-11-18 |
@@ -309,6 +309,7 @@
 | [Lamento](https://open.spotify.com/track/5Mtm03KO4lvM4qmVEeRYaY) | [Valencia Torres](https://open.spotify.com/artist/1FIDJ9PL61hAFkpZPodejt) | [Lamento](https://open.spotify.com/album/6G8qzns0DWKeqOcbpGwl9s) | 2:10 | 2023-11-24 |  |
 | [Lange Reise](https://open.spotify.com/track/47s7kyfVRgsnwgkK2sGQzM) | [Camilo Branca](https://open.spotify.com/artist/2jH6TryZOIvoPpQqb1hRmc) | [Wunder der Welt](https://open.spotify.com/album/0KpjPdNUuZ0k3CwzSde3Gg) | 2:36 | 2023-04-21 |  |
 | [Larghetto](https://open.spotify.com/track/3NvvbRZxy4yis6QTaHyVMx) | [Jan Wanninger](https://open.spotify.com/artist/2lVbTuG8gjTFAX8WH5zyDs) | [Larghetto](https://open.spotify.com/album/03t88DnqTMUehsrndDhDf1) | 3:05 | 2023-04-21 |  |
+| [Las Historias](https://open.spotify.com/track/3cxw8PTfMwvIomnigDiRDq) | [Xavier Suarez](https://open.spotify.com/artist/4qxGMBS25xDymfWz3kkKOE) | [Las Historias](https://open.spotify.com/album/2iWXPneka6j0isn1Jlyfu7) | 2:31 | 2023-11-24 |  |
 | [Lascia Fare A Me](https://open.spotify.com/track/6w9aMtE5ZxHnOrfzSkDuTs) | [Valerio Castilla](https://open.spotify.com/artist/4kot0Uzr67BAdjYsmnUczI) | [Lascia Fare A Me](https://open.spotify.com/album/293fwp3wtlduTDJxkRVUOv) | 3:05 | 2023-10-27 |  |
 | [Lavender](https://open.spotify.com/track/6qlH4I4LLeSCZSDNiLvZQL) | [Kathekon](https://open.spotify.com/artist/6vRmfBellM9PLkqukd8s6w) | [Lavender](https://open.spotify.com/album/7cSNoS1oggwf0I9f6YOqBV) | 2:20 | 2023-04-21 | 2023-09-11 |
 | [Lavender Fields](https://open.spotify.com/track/3ExlWxzIV13ak6afl93XDq) | [Josiah Mitchell](https://open.spotify.com/artist/6ADi5pFQDjbPqV3V1z4iUZ) | [Lavender Fields](https://open.spotify.com/album/5ZWhg4hM263s5Mb21HicFg) | 3:29 | 2022-07-15 | 2022-10-07 |
@@ -528,6 +529,7 @@
 | [Struck By Clouds](https://open.spotify.com/track/5UkCU9C0YGZHNwPIcGD3Up) | [Ivan Bielsa](https://open.spotify.com/artist/5TSHZHmlAoFmP4EyKvwRua) | [Struck By Clouds](https://open.spotify.com/album/1Soyj2nHKvnAHaOvauNtVm) | 1:57 | 2023-04-21 | 2023-08-26 |
 | [Summer Love](https://open.spotify.com/track/7iGZjJTIxc3nU5KQ3LlCdI) | [Maia](https://open.spotify.com/artist/4RW9d3d203cf98WetcAbIj) | [Summer Love](https://open.spotify.com/album/6cY5l2Q1CiRpJm301q756l) | 2:07 | 2023-08-10 |  |
 | [Sunday Breeze](https://open.spotify.com/track/0F2WP7hiDgw6rbFCxE1eyl) | [Cordell Zoe](https://open.spotify.com/artist/1HVeNsc2IF1ob1427YyiRc) | [Sunday Breeze](https://open.spotify.com/album/2fsb3S8QguRHHvLOzHLSLH) | 1:37 | 2023-04-21 | 2023-08-26 |
+| [Sunrise Close](https://open.spotify.com/track/1ztpA0KFZH4G5gNrLk4sTx) | [Twilight Place](https://open.spotify.com/artist/7c53nfQRh1Q743et6xkq1J) | [Sunrise Close](https://open.spotify.com/album/3GXHGgVyHKHSRervon4Rur) | 2:32 | 2023-11-24 |  |
 | [Sunrise With You](https://open.spotify.com/track/6x3yM2v8pDa91E03LPzcsx) | [Eden Edwards](https://open.spotify.com/artist/0bI0balwE4X0y0ZLKc5H2b) | [Sunrise With You](https://open.spotify.com/album/46nYBbaJZuUpksJMYyfXJP) | 2:00 | 2023-06-02 |  |
 | [Supernova](https://open.spotify.com/track/3fdOkah1IiOii4fpHg5b0C) | [Azur](https://open.spotify.com/artist/1Ok8A2HZgoIRz3fmZGpa8K) | [Supernova](https://open.spotify.com/album/2K0EhxeFypyV9DWdbDYBiW) | 2:34 | 2023-09-29 |  |
 | [Sweet mantlepiece](https://open.spotify.com/track/4EHIlisqf27PmF1xVdYVNk) | [Taylor Ellis](https://open.spotify.com/artist/6vTMgZChwsGN8BloW1zVcY) | [Sweet mantlepiece](https://open.spotify.com/album/3KBqIWtoA9lkZ9Sma8arKD) | 1:40 | 2023-04-21 | 2023-06-23 |

@@ -4,7 +4,7 @@
 
 > Chill house beats for hanging out in the sun.
 
-402 songs - 20 hr 19 min
+404 songs - 20 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -268,6 +268,7 @@
 | [Palma](https://open.spotify.com/track/1eoJB7MFGxUb2LyHl8Cfou) | [André Aguado](https://open.spotify.com/artist/6USxBSmx4wkhLW61dT1DgC) | [Palma](https://open.spotify.com/album/01jhngUcEPsPXJG7nSTvfY) | 3:42 | 2022-09-02 |  |
 | [paloma beach](https://open.spotify.com/track/7M3sK9nRnpwT826somSyS9) | [Naoko Omi](https://open.spotify.com/artist/2LojIVYdOV4hK4wKlASHwC) | [paloma beach](https://open.spotify.com/album/3ZtcDAqw3gck5JsDq8gkNv) | 4:02 | 2022-08-19 |  |
 | [Para Sol](https://open.spotify.com/track/5hrJnEz67Q6l33sPtGFga4) | [Teide Garcia](https://open.spotify.com/artist/451rSCehp88cqkjv6QQLha) | [Para Sol](https://open.spotify.com/album/4zCjXYDYpNXj1p7CHYKfGp) | 3:16 | 2023-08-04 |  |
+| [Paradise](https://open.spotify.com/track/12RRvPh6gegoJdscU1gY7f) | [Julian Verder](https://open.spotify.com/artist/3K4MVRJamVJLqZ8fAL6knF) | [Paradise](https://open.spotify.com/album/5GWIgNa7AXoRkUmqyMXG56) | 2:04 | 2023-12-01 |  |
 | [Passage](https://open.spotify.com/track/7wOZCITHxHO4j7dQ5jd2iL) | [Ben Travel](https://open.spotify.com/artist/6s1MIr0LiLjEnSGjvPqaUC) | [Passage](https://open.spotify.com/album/2ODUevO5ok7PMjrhlTmU3l) | 2:57 | 2022-04-05 |  |
 | [Passing By](https://open.spotify.com/track/28lMyaJBMmgvw4Cn4OvoeH) | [Monday Motive](https://open.spotify.com/artist/4bCmFKZPJZBIZeQ5qVzIyN) | [Passing By](https://open.spotify.com/album/7tj4fpjyhDvNyPgp76Zhlb) | 3:05 | 2022-04-05 | 2022-07-29 |
 | [Peaceful Nature](https://open.spotify.com/track/1gDslzncbGkKzv5P6NZ8Ql) | [Qeeo](https://open.spotify.com/artist/6E5CtHXk5zbfF6bmi6oVAE) | [Sunny Girl](https://open.spotify.com/album/7kjXdIPtoAKaKnfNkLRgs8) | 2:41 | 2022-04-05 | 2022-06-10 |
@@ -363,6 +364,7 @@
 | [sweaty palms](https://open.spotify.com/track/4nRP3DPkiZICuDpYlliATw) | [Manic Twister](https://open.spotify.com/artist/2PhILsiPfdlMu8brbtXvh7) | [sweaty palms](https://open.spotify.com/album/00gsJW5JdlirXTyipA6XkX) | 2:40 | 2022-06-24 | 2022-07-29 |
 | [Sweet Summer Love](https://open.spotify.com/track/5uTweDW8y0Yd5MZpOEv3xT) | [Rocket Jr](https://open.spotify.com/artist/6OGkTrVt13n4C075wLe17B) | [Sweet Summer Love](https://open.spotify.com/album/6b1U1RvdMG52kJgBINSOJM) | 3:26 | 2022-12-09 | 2023-07-22 |
 | [Swoosh](https://open.spotify.com/track/2d5fQd2dmrPfWd0CCqelkP) | [SoN](https://open.spotify.com/artist/4UD8MDe0kMu0QPtMUzeaEE) | [Swoosh](https://open.spotify.com/album/3WUfj10ZPtllBAqGRsnQGu) | 3:02 | 2022-04-05 | 2022-07-08 |
+| [Symbios](https://open.spotify.com/track/6XLqfDYv8a9H0aoWX348L7) | [Floral Gloam](https://open.spotify.com/artist/1j93Wm2QholT6mKJY937gM) | [Symbios](https://open.spotify.com/album/6LaP4c7quJ5ZBtufoMjtXL) | 2:24 | 2023-12-01 |  |
 | [Taking Polaris](https://open.spotify.com/track/4PkVCSor0FoPx1X2FGJ9gR) | [DEX 1200](https://open.spotify.com/artist/2roONpdgmZHRTpr1IFNw0d) | [Taking Polaris EP](https://open.spotify.com/album/0mIW9wjcZgEg57Nz957jYP) | 4:43 | 2022-04-05 | 2022-07-29 |
 | [Talk To Me](https://open.spotify.com/track/0LaErT2gDG7iZhHDKrrb2v) | [Egelloc](https://open.spotify.com/artist/03zsYt1vzRxmXN0OUhCr7g) | [Talk To Me](https://open.spotify.com/album/53caWippf1sBtHtsD2qEKL) | 2:59 | 2022-04-05 | 2022-09-17 |
 | [Tekapo \- Edit](https://open.spotify.com/track/7nvTywXHEfa4Kb6W9cUhqJ) | [Walter Woods](https://open.spotify.com/artist/1k1WrqbhNylomjfqZ0lq4D) | [Tekapo \(Edit\)](https://open.spotify.com/album/4M8lta7iSWNHxh7eHMpY8Y) | 2:28 | 2022-04-05 | 2022-04-15 |

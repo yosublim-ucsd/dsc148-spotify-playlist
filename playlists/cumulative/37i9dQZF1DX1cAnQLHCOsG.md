@@ -4,7 +4,7 @@
 
 > Pa' las posadas y las fiestas, canciones navideñas con sazón mexa\. Panter Bélico en portada.
 
-101 songs - 5 hr 32 min
+102 songs - 5 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [Feliz Navidad](https://open.spotify.com/track/6CLg2TOhryzRqOm5VJfN8O) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Feliz Navidad](https://open.spotify.com/album/4F6XsNJReXpLNHdpxfwLxv) | 3:10 | 2022-12-02 |  |
 | [Feliz Navidad](https://open.spotify.com/track/2iwnWECzRquTRG4LA5Wcdg) | [Luis Coronel](https://open.spotify.com/artist/5DlVR9AUTrBgXWN4wiy5aL) | [Navidad Con DEL](https://open.spotify.com/album/4QeCY4pjvtMEUpi0YmTrdd) | 2:34 | 2022-11-07 | 2022-12-17 |
 | [Hallelujah](https://open.spotify.com/track/2MLT6aAsx8jTeb3vi2LTYo) | [Salma](https://open.spotify.com/artist/5kT96PWNMl0164QMytMqc0) | [El Mix\-Tape De Santa](https://open.spotify.com/album/5cXWewANUJiwlRh5q9TD6a) | 3:22 | 2022-12-16 |  |
+| [Hoy Ví a Santa Claus Besar a Mi Mamá](https://open.spotify.com/track/77eKxlW5fPhNIOmwn4bAPS) | [Hermanos Vega Jr.](https://open.spotify.com/artist/5AI8Ps93kygPilymCY7Tnm) | [Sonidos de la Navidad](https://open.spotify.com/album/3v2pmfoTM6qZSmMYTBZdps) | 3:55 | 2023-11-21 |  |
 | [I'll Be Home For Christmas](https://open.spotify.com/track/6SiKqI0vm3N5NBjdgM2V9m) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [I'll Be Home For Christmas](https://open.spotify.com/album/1ykaX41VLZd7U0sxa33csX) | 2:58 | 2022-12-02 |  |
 | [Jingle Bell Rock \- Versión Español](https://open.spotify.com/track/3LrYE8uEeDdO13G07UDRdL) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Navidad Con Mariachi](https://open.spotify.com/album/5F4QkpA6WWE49lnYGQZYDj) | 2:08 | 2022-11-07 |  |
 | [Jingle Bells \(Vamos All The Way\)](https://open.spotify.com/track/3h2EZK7QSmccERdtC665J7) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [Jingle Bells \(Vamos All The Way\)](https://open.spotify.com/album/0gR6qZcx3ByPTHIUUSBdFe) | 2:35 | 2022-12-02 |  |
@@ -59,7 +60,7 @@
 | [Navidad Rock](https://open.spotify.com/track/4mVnQj5u8jxrhD3L9RpzRs) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [Navidad Rock](https://open.spotify.com/album/5C8PG8jp8zpr2fVCikWT0p) | 2:07 | 2022-11-07 |  |
 | [Navidad Sin Ti](https://open.spotify.com/track/1TXfox4cwT9ubQJXwAnouX) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Navidad Con La Regida](https://open.spotify.com/album/0yFixxmec99yoUUMPsr6kT) | 4:27 | 2022-11-07 |  |
 | [Navidad Sin Ti](https://open.spotify.com/track/5rphM2LOMiIbKMBQ5oaVEt) | [La Banda 614](https://open.spotify.com/artist/0VlMyue3SnjsRI6vUpIlb7) | [Navidad Sin Ti](https://open.spotify.com/album/4tWoBnKchPgj1h5q0fhl36) | 3:30 | 2022-12-02 |  |
-| [Navidad Sin Ti](https://open.spotify.com/track/0BgKO3jvcTWhJ8Y8egyAn1) | [Los Bukis](https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf) | [Me Volvi A Acordar De Ti](https://open.spotify.com/album/5UDp9amJcdxcM86mM0Hwiy) | 4:14 | 2022-12-02 |  |
+| [Navidad Sin Ti](https://open.spotify.com/track/0BgKO3jvcTWhJ8Y8egyAn1) | [Los Bukis](https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf) | [Me Volvi A Acordar De Ti](https://open.spotify.com/album/5UDp9amJcdxcM86mM0Hwiy) | 4:14 | 2022-12-02 | 2023-12-02 |
 | [Navidad Sin Ti](https://open.spotify.com/track/04HcDTsj4KUQxRH0xXS9ex) | [Los Bukis](https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf) | [Contigo En Navidad](https://open.spotify.com/album/6NvSj0Qx9lgXnwWBXwRdxZ) | 4:17 | 2022-11-07 | 2022-12-03 |
 | [Navidad Sin Ti \- en Vivo](https://open.spotify.com/track/0oIgtBMz4hFHBROA619JdS) | [Marco Antonio Solís](https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd) | [Por Amor a Morelia Michoacán \(En Vivo\)](https://open.spotify.com/album/0lcKOe1eGODSaaxZVtDOOj) | 4:16 | 2022-11-07 |  |
 | [Navidad Sin Ti \- Live](https://open.spotify.com/track/0IowQHym495GsLIVyuScWH) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [La Diva en Vivo](https://open.spotify.com/album/6nZlQ5J8lFrZ0Db4KZuFce) | 4:13 | 2022-11-07 |  |

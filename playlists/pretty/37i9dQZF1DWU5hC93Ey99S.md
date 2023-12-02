@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU5hC93Ey99S.md) - [plain]
 
 > all the stutter, all the feels.
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,295 likes - 307 songs - 16 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,474 likes - 307 songs - 16 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -316,4 +316,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU5hC93Ey99S.md) - [plain]
 | 306 | [The Fall](https://open.spotify.com/track/5FvGI8KtImlEbOsvEW3pfX) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Ship Wrek](https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif) | [So Far So Good](https://open.spotify.com/album/4nZ4dv1XvDE25Lf2MFhOqA) | 3:16 |
 | 307 | [Just The Way I Feel](https://open.spotify.com/track/26ZLujrsJ2JQ8QWHYOe9B3) | [Wankelmut](https://open.spotify.com/artist/01e2lCvLZ4fLUIRy68nptH), [EMIAH](https://open.spotify.com/artist/2SvY2cO17kdD3swIBGOxs8) | [Just The Way I Feel](https://open.spotify.com/album/2P642dj0EaJxTs1fRpkqxa) | 3:06 |
 
-Snapshot ID: `MCwzNmY3YjJhM2Q2MGZiNmVmNTI0MDk2ODcxYTZlMWFjMmQ2OGM3OGZl`
+Snapshot ID: `MCxhM2QwYjI1YjI4MGYyZjkwMzVmZjZmMWMzNjQyOGYzZTliZWE3NmRi`

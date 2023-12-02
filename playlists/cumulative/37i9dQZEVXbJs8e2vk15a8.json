@@ -1603,6 +1603,36 @@
     },
     {
       "album": {
+        "name": "Al Paso",
+        "url": "https://open.spotify.com/album/1HqbfQoIpDjhQJE5pkIKQX"
+      },
+      "artists": [
+        {
+          "name": "Lamelodiadelhampa",
+          "url": "https://open.spotify.com/artist/0IcAUt0uzTyDfvKSpW0hrr"
+        },
+        {
+          "name": "Renaglock",
+          "url": "https://open.spotify.com/artist/14SlnqKt21OL7zHU6TGnJB"
+        },
+        {
+          "name": "YoungGlizzy",
+          "url": "https://open.spotify.com/artist/1IfUd8MMwEpavJSD84fTmC"
+        },
+        {
+          "name": "Dieguinho",
+          "url": "https://open.spotify.com/artist/4TjVFcF7PxzBF8SznA6fV7"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220420,
+      "name": "Al Paso",
+      "url": "https://open.spotify.com/track/5Du6QeemuTCF6YFamMNWMb"
+    },
+    {
+      "album": {
         "name": "Ponguemosle Gueno Parientito",
         "url": "https://open.spotify.com/album/6zpZQDy1hC28mPCrM5BE1A"
       },
@@ -6042,7 +6072,7 @@
       ],
       "date_added": "2023-08-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-22",
+      "date_removed": null,
       "duration_ms": 217610,
       "name": "Cora Roto",
       "url": "https://open.spotify.com/track/35fSKiaVknkbEBJxvqKuHU"
@@ -7054,7 +7084,7 @@
       ],
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-01",
+      "date_removed": null,
       "duration_ms": 222188,
       "name": "DEMO #5 - nostalgIA (Spanglish Version)",
       "url": "https://open.spotify.com/track/4GflbFO7hFzIpzD33CxtgS"
@@ -7090,7 +7120,7 @@
       ],
       "date_added": "2023-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 222188,
       "name": "DEMO #5: nostalgIA - Spanglish Version",
       "url": "https://open.spotify.com/track/092oBVwyJLxHnYEu5E1Rw6"
@@ -15842,7 +15872,7 @@
       ],
       "date_added": "2023-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 195520,
       "name": "MANIAC",
       "url": "https://open.spotify.com/track/618OKP1lBkNJL8uZdNSvQE"
@@ -19722,7 +19752,7 @@
       ],
       "date_added": "2023-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 140461,
       "name": "Oah Oah",
       "url": "https://open.spotify.com/track/3RjfJ510iifdsQs06QAELV"

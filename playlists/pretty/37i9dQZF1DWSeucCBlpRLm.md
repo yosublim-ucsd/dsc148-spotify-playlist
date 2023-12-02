@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSeucCBlpRLm.md) - [plain]
 
 > Kickstart your Diwali party with these bangers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,183 likes - 75 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,182 likes - 75 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSeucCBlpRLm.md) - [plain]
 | 74 | [Bach Ke Rehna \(Red Notice\)](https://open.spotify.com/track/7fCbbPG8ClYyzKWy53N2jJ) | [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1), [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz), [Jonita Gandhi](https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU), [Mikey McCleary](https://open.spotify.com/artist/6p4FpOvJaSSljYGlkKsS40) | [Bach Ke Rehna \(Red Notice\)](https://open.spotify.com/album/1xdYAwQDw8Dp7AxD0ubUul) | 3:42 |
 | 75 | [Nasha \(From "Sukhee"\)](https://open.spotify.com/track/4toBFhkIjRvPcAJIk98d58) | [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1), [Chakshu Kotwal](https://open.spotify.com/artist/0w3yzcroyJEGY9nzsseeam), [Afsana Khan](https://open.spotify.com/artist/4z0z82pXirH1TrygipQlOo) | [Nasha \(From "Sukhee"\)](https://open.spotify.com/album/1jl3wLVKVzmtjwfDNyMoXI) | 3:33 |
 
-Snapshot ID: `MCxlOTZkNjUyMTk5YmVlZjc3OGE1MzQ2N2I1ZmRkNTkyOGRiMTdhZGU0`
+Snapshot ID: `MCwzODAwMTY3ZTg1MzIyOTA2ZjViZTk1NTlhNWE5MDVhODQwMWVmM2Qx`

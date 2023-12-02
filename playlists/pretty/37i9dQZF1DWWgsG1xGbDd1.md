@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWgsG1xGbDd1.md) - [plain]
 
 > You feel the sun on your face.
 
-[Spotify](https://open.spotify.com/user/spotify) - 125,090 likes - 60 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 125,128 likes - 60 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,8 +13,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWgsG1xGbDd1.md) - [plain]
 | 3 | [No No No](https://open.spotify.com/track/6CWghtCtJOgJgP58GyFx2m) | [Dawn Penn](https://open.spotify.com/artist/6mLXvSt7Xxy2r9uBba1O6Z) | [Feel Like Jumping: The Best of Studio One Women](https://open.spotify.com/album/3RTeh1T46KVNuoSyTYE2Ns) | 4:29 |
 | 4 | [Rudie Bam Bam](https://open.spotify.com/track/19MYWyeATrI33acF9xSgBk) | [The Clarendonians](https://open.spotify.com/artist/4GJL3Iwg1JKo6VembsjOS5) | [Winner Of My Heart \- Reggae](https://open.spotify.com/album/0xUN4o8p2BixUKpUvOejJ5) | 2:21 |
 | 5 | [Bobby Bobylon](https://open.spotify.com/track/3t0VvMqwrXM4RgrBYlB235) | [Freddie McGregor](https://open.spotify.com/artist/30R9paG1c5BGtNGle59VPq) | [Bobby Bobylon: Deluxe Edition](https://open.spotify.com/album/1NhP0Jn5grdBKwsRWx8L4x) | 2:26 |
-| 6 | [Addis Ababa](https://open.spotify.com/track/7BpfGzM57fK5fIw7Pt0yBO) | [The Skatalites](https://open.spotify.com/artist/4og9jrin5xH5JiFPbeGUPb) | [Foundation Ska](https://open.spotify.com/album/6OuYm1xpB29dhuVXOXT58v) | 2:24 |
-| 7 | [Never Give Your Heart Away](https://open.spotify.com/track/00NZUSWCUszqs2MFEfReTj) | [Carlton & The Shoes](https://open.spotify.com/artist/6mkOssVLhCbXwi57tThPet) | [Love Me Forever](https://open.spotify.com/album/29SbydyD69yI0qs7Ma3xMs) | 3:05 |
+| 6 | [Never Give Your Heart Away](https://open.spotify.com/track/00NZUSWCUszqs2MFEfReTj) | [Carlton & The Shoes](https://open.spotify.com/artist/6mkOssVLhCbXwi57tThPet) | [Love Me Forever](https://open.spotify.com/album/29SbydyD69yI0qs7Ma3xMs) | 3:05 |
+| 7 | [Addis Ababa](https://open.spotify.com/track/7BpfGzM57fK5fIw7Pt0yBO) | [The Skatalites](https://open.spotify.com/artist/4og9jrin5xH5JiFPbeGUPb) | [Foundation Ska](https://open.spotify.com/album/6OuYm1xpB29dhuVXOXT58v) | 2:24 |
 | 8 | [Jah Jah Go Before Us](https://open.spotify.com/track/0zUagLtFMJJWhXtTBp5OLT) | [The Gladiators](https://open.spotify.com/artist/3L5iYAziSDnuaHsSgbkcIP) | [Presenting The Gladiators](https://open.spotify.com/album/2k0QrDX5MJCGHp0XyHyOBg) | 2:41 |
 | 9 | [Mad World](https://open.spotify.com/track/6oZymvG8LsXxMzDFPwBqRf) | [Hugh Godfrey](https://open.spotify.com/artist/1z66MA7rp4Rm0tvBIjaM0r) | [This Girl Loves Reggae](https://open.spotify.com/album/1TuWq3VmQSEC18DBlED4BD) | 1:48 |
 | 10 | [Buffalo Soldier](https://open.spotify.com/track/7BfW1eoDh27W69nxsmRicb) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Confrontation](https://open.spotify.com/album/5Rg4ZSwf1LPCuAMr0msdun) | 4:15 |
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWgsG1xGbDd1.md) - [plain]
 | 16 | [Where's Garvey](https://open.spotify.com/track/3wUehGunfvxPKXqTD3jS00) | [The Bongo Man](https://open.spotify.com/artist/2pBVJLkrOeSpjMzCSBQNMI) | [Reggae For House Parties](https://open.spotify.com/album/1ibmkILOdPOQSNrFIIn53c) | 2:14 |
 | 17 | [Waiting In Vain](https://open.spotify.com/track/58Zt987fK6gWxtO0MwEzPn) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Exodus](https://open.spotify.com/album/2mBbV0Ad6B4ydHMZlzAY7S) | 4:16 |
 | 18 | [Call to Me \(aka Come to Me\)](https://open.spotify.com/track/5yMXY2QCnkeggMgLSOaqR0) | [Rita Marley](https://open.spotify.com/artist/13Kn0OI9oXhBDXClb1hGy3) | [Dancing the Ska](https://open.spotify.com/album/6uoQ5sCHsjfbWIHYkojaPm) | 2:01 |
-| 19 | [Joe Frazier](https://open.spotify.com/track/7E8tawQq5q8Hr4UWCT7lgT) | [Dennis Alcapone](https://open.spotify.com/artist/3Ko5w2NYcaqtAtvDrJMdw5) | [Studio One Ironsides](https://open.spotify.com/album/0Ym3DwPjz2z97Yd4K9w0gG) | 3:18 |
-| 20 | [Bongo Red](https://open.spotify.com/track/2eo43OF7EEgIELPnTcrJUH) | [The Gladiators](https://open.spotify.com/artist/3L5iYAziSDnuaHsSgbkcIP) | [Studio One Ironsides](https://open.spotify.com/album/0Ym3DwPjz2z97Yd4K9w0gG) | 2:48 |
+| 19 | [Bongo Red](https://open.spotify.com/track/2eo43OF7EEgIELPnTcrJUH) | [The Gladiators](https://open.spotify.com/artist/3L5iYAziSDnuaHsSgbkcIP) | [Studio One Ironsides](https://open.spotify.com/album/0Ym3DwPjz2z97Yd4K9w0gG) | 2:48 |
+| 20 | [Joe Frazier](https://open.spotify.com/track/7E8tawQq5q8Hr4UWCT7lgT) | [Dennis Alcapone](https://open.spotify.com/artist/3Ko5w2NYcaqtAtvDrJMdw5) | [Studio One Ironsides](https://open.spotify.com/album/0Ym3DwPjz2z97Yd4K9w0gG) | 3:18 |
 | 21 | [Bad Treatment](https://open.spotify.com/track/215IEBl0xMCM6lhSPFY0uV) | [Cannon & The Soul Vendors](https://open.spotify.com/artist/6WbLpFGT1pphhgLCfB3pf4) | [Soul Jazz Records Presents Studio One Rocksteady 2: The Soul of Young Jamaica: Rocksteady, Soul and Early Reggae at Studio One](https://open.spotify.com/album/5d74Pe7mcGtyVoXmwVfowG) | 3:02 |
 | 22 | [Nanny’s Corner](https://open.spotify.com/track/5xUjLG37Qk3YR2CYpGHgKR) | [Don Drummond](https://open.spotify.com/artist/2lzGXw61wSj8mMK73d59Wn) | [Studio One Ironsides](https://open.spotify.com/album/0Ym3DwPjz2z97Yd4K9w0gG) | 3:35 |
 | 23 | [Danger In Your Eyes](https://open.spotify.com/track/2PQeK7uGoKfc1sGRTN1cFR) | [The Paragons](https://open.spotify.com/artist/5sCZ2Gc3nZaE3Cav8WG7WG) | [Studio One Ironsides](https://open.spotify.com/album/0Ym3DwPjz2z97Yd4K9w0gG) | 2:53 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWgsG1xGbDd1.md) - [plain]
 | 59 | [How Could I Live](https://open.spotify.com/track/4dY12uO1KLfh79TUyZVSEN) | [The Sharks](https://open.spotify.com/artist/5YUnGJyBSdPLoJExvs7qHF) | [Studio One Lovers](https://open.spotify.com/album/0RAY8NtmtYwIEh6G5avSyi) | 3:11 |
 | 60 | [Another Day](https://open.spotify.com/track/2yvfBytG7N9Z1NuVgKf0qt) | [Roy Richards](https://open.spotify.com/artist/0X4uxfskqekFkXgS7MTQAU) | [Studio One Funk](https://open.spotify.com/album/5Ywu5U2ufJsj751yuKw3V4) | 1:57 |
 
-Snapshot ID: `MCwyYWU5ZWNjYjViZTAyMDEwNjU3MTdkYTYzNWRiMWE1MWI0MTMxYmM3`
+Snapshot ID: `MCxiZDdiYjljMThlYjliOTAwOTEwMmU2NDIzZTJlODhkMjEwYmY3NDEw`

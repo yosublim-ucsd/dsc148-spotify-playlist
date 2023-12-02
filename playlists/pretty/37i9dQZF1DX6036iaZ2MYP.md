@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6036iaZ2MYP.md) - [plain]
 
 > Tracks popping off in the Afro scene\. Cover: ODUMODUBLVCK
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,829 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,879 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6036iaZ2MYP.md) - [plain]
 | 49 | [Fakosi](https://open.spotify.com/track/21c4uTFmR8UccKjYoG8Mvn) | [Reekado Banks](https://open.spotify.com/artist/3bxZkzk0PLHcetO9o4oxXn) | [Fakosi](https://open.spotify.com/album/50K8OYdwAczPTxrEYoZCmB) | 2:45 |
 | 50 | [Bossy Girl](https://open.spotify.com/track/4msbsjQlixRbQU1NRE3eNw) | [Nenny](https://open.spotify.com/artist/2DEfqyWjAMIfKYMXb1V8L1) | [Bossy Girl](https://open.spotify.com/album/5VO01zNNWXMdYVXRx8oZpM) | 2:34 |
 
-Snapshot ID: `MCxjMDkzZTU0ZGQyZDM2OGQyZjM5OGQwZDNmMTZjNWZmNzNhNGIzY2U0`
+Snapshot ID: `MCwwY2JjN2Q0YmFjYzlmMmM0OTNkYWU0YTUyYWRhZWVmMGQzMDBhMjkx`

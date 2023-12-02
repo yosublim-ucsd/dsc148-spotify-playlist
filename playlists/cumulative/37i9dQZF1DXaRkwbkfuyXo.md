@@ -4,7 +4,7 @@
 
 > Seguimos arremangados, pariente\. El Komander en portada.
 
-139 songs - 6 hr 50 min
+141 songs - 6 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [25 de Diciembre](https://open.spotify.com/track/0vkWhjZgixnhhvMQjzLa9v) | [Régulo Caro](https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W) | [Musica, Polvora y Sangre](https://open.spotify.com/album/1EoN3U7I9CrVgLDUbEHEJV) | 3:03 | 2022-03-07 |  |
 | [A La Moda](https://open.spotify.com/track/4qap3khBojdW5RkU9FouIV) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Ni Hoy Ni Manana](https://open.spotify.com/album/7jyBbVcnqfV8vtmyyPJarL) | 2:06 | 2022-03-07 |  |
 | [Ajustes Inzunza](https://open.spotify.com/track/4bbgGODjQQbmTuROuclcUH) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Renovar O Morir](https://open.spotify.com/album/0Npb5RTXimPOeUQONeuz3A) | 2:09 | 2022-03-07 |  |
-| [Al Estilo Mafia](https://open.spotify.com/track/4YeZzfKYGy8f25pxC7IzlP) | [Saul El Jaguar Alarcón](https://open.spotify.com/artist/4zDxqX7DmkPcNfXkrPuYro), [Banda Clave Nueva](https://open.spotify.com/artist/7DxmRNDWbpskTfkfmiRd7R) | [Mi Estilo De Vida](https://open.spotify.com/album/4XTRnTF9TtsioXH69brAYW) | 2:27 | 2022-11-08 |  |
+| [Al Estilo Mafia](https://open.spotify.com/track/4YeZzfKYGy8f25pxC7IzlP) | [Saul El Jaguar Alarcón](https://open.spotify.com/artist/4zDxqX7DmkPcNfXkrPuYro), [Banda Clave Nueva](https://open.spotify.com/artist/7DxmRNDWbpskTfkfmiRd7R) | [Mi Estilo De Vida](https://open.spotify.com/album/4XTRnTF9TtsioXH69brAYW) | 2:27 | 2022-11-08 | 2023-12-02 |
 | [Alacrana Lavada](https://open.spotify.com/track/4WxVEef5lYtPZLocEDAkMc) | [El Compa Chuy](https://open.spotify.com/artist/513OnOSWOhVTh12V1eEJtt) | [Alacrana Lavada](https://open.spotify.com/album/45XsUfnTe5wTuBAU7KwuUx) | 3:16 | 2022-03-07 |  |
 | [Aquiles Afirmo](https://open.spotify.com/track/5KaVwzqAIYGi73KgSXXCaU) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Entre Dios Y El Diablo](https://open.spotify.com/album/5yhcHgchenU7HC1E8fhzbM) | 3:18 | 2023-11-24 |  |
 | [Asociacion Antrax](https://open.spotify.com/track/7DUmB7PmTyuEGUKZZb4eTo) | [La Edición de Culiacán](https://open.spotify.com/artist/14DIWXxTBoAzGJNsAFvNWU) | [La Cheyenne Sin Placas](https://open.spotify.com/album/1leTiFBaqtwrnUnJuaSjeF) | 3:32 | 2023-02-23 |  |
@@ -92,7 +92,7 @@
 | [Estilo Especial](https://open.spotify.com/track/5gu86M6D80wPPDnnrxCQ79) | [Régulo Caro](https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W) | [Musica, Polvora y Sangre](https://open.spotify.com/album/1EoN3U7I9CrVgLDUbEHEJV) | 3:21 | 2022-03-07 |  |
 | [Estrategia De Escape](https://open.spotify.com/track/0f0uF9oxMFILrAMJj3abVz) | [El Movimiento Alterado](https://open.spotify.com/artist/30fa9LT7XVys8DcigD1k9x) | [Carteles Unidos](https://open.spotify.com/album/3Xa1NdUaZmrRPR928iLjVo) | 2:25 | 2022-03-07 | 2022-06-21 |
 | [Estrategia De Escape](https://open.spotify.com/track/5RJ6UcbfdyH9zA57IAK9vO) | [El Movimiento Alterado](https://open.spotify.com/artist/30fa9LT7XVys8DcigD1k9x) | [Carteles Unidos](https://open.spotify.com/album/6SfZZhWHTrLDbn8TfyiOTr) | 2:25 | 2023-02-23 |  |
-| [Estrategias De Escape](https://open.spotify.com/track/3ROMpY5IE7Y61Z3dVfugpm) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [Archivo Privado](https://open.spotify.com/album/7uHF1rtc9LSIMa6gjrMqVG) | 2:27 | 2023-11-24 |  |
+| [Estrategias De Escape](https://open.spotify.com/track/3ROMpY5IE7Y61Z3dVfugpm) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [Archivo Privado](https://open.spotify.com/album/7uHF1rtc9LSIMa6gjrMqVG) | 2:27 | 2023-11-24 | 2023-12-02 |
 | [Estrategias De Escape](https://open.spotify.com/track/58o5ZiVHfAvBmfUyG49Ff0) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [Archivo Privado](https://open.spotify.com/album/4TH25W7wdEPTYjznZ1l3yG) | 2:27 | 2022-03-17 | 2023-07-28 |
 | [Gente De Arranque](https://open.spotify.com/track/1MUmseE7ctXeUgu6D0q5Jn) | [Voz De Mando](https://open.spotify.com/artist/5sLCZx5RvQ1Cv6kguDLCLx) | [Con La Nueva Federación](https://open.spotify.com/album/1MsMQsAojpvdsE6wGtboSa) | 3:03 | 2022-03-07 |  |
 | [Gente VIP](https://open.spotify.com/track/3m0jPrfDlp38tu7JYdWLch) | [Larry Hernández](https://open.spotify.com/artist/6djNDzSg08mnh2Ayoh6Ovn) | [Larryvolución](https://open.spotify.com/album/7aYPL5tuEAz3G5hUUB1LND) | 2:54 | 2022-03-07 | 2022-07-29 |
@@ -101,6 +101,7 @@
 | [Herencia Mexicana](https://open.spotify.com/track/3f8abMz2JItGW28m5k9CGk) | [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [Con El Pie Derecho](https://open.spotify.com/album/7tfTfzVmVrplYDru65lUbP) | 3:32 | 2022-11-08 |  |
 | [Heroe de las Huertas](https://open.spotify.com/track/3R3fouWuZfVJA98FWyqsZc) | [Régulo Caro](https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W) | [Amor En Tiempos de Guerra](https://open.spotify.com/album/35Wf0nrq7URxqLaTwbUZ14) | 3:54 | 2023-11-24 |  |
 | [Hombre De Negocios](https://open.spotify.com/track/02NULVNun0GWLpE1saMP2F) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [Corridos](https://open.spotify.com/album/0dAb8o8AA2xIaFrXJ0skzy) | 3:00 | 2022-06-20 | 2022-11-08 |
+| [Hotel el Cid](https://open.spotify.com/track/6A6KmKf5EkRzkHuv2yO7MV) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Como en los Viejos Tiempos](https://open.spotify.com/album/7kfuZtaN9zvpFhIIMZLvgI) | 2:00 | 2023-12-01 |  |
 | [J\. Walker](https://open.spotify.com/track/59sVHAfxiIX1uAKXjFksAI) | [Colmillo Norteño](https://open.spotify.com/artist/5YvrXxWXf9n9enAV8HHZSN) | [Sueño Guajiro](https://open.spotify.com/album/7ep8byHyAYeAYiumLDQrhr) | 2:25 | 2022-03-07 |  |
 | [Javier El De Los Llanos](https://open.spotify.com/track/7kyK2NSDfRE1612vdYuqIx) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Corridos De Alto Calibre](https://open.spotify.com/album/1YKiiRFhUVaLMVEu0l59Ri) | 3:21 | 2023-11-24 |  |
 | [Kikil Caro](https://open.spotify.com/track/3Awf41B1t5v7STTM2uCXc7) | [Régulo Caro](https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W) | [Especialista](https://open.spotify.com/album/1udzzVN47urH7cthUlyRMz) | 3:06 | 2023-11-24 |  |
@@ -139,6 +140,7 @@
 | [Plebada Alterada](https://open.spotify.com/track/3D8KcfsUgGwbNq3c6mzCWY) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Renovar O Morir](https://open.spotify.com/album/0Npb5RTXimPOeUQONeuz3A) | 1:40 | 2022-03-07 |  |
 | [Recordando A Michoacan](https://open.spotify.com/track/2VfISIEkDi9nORYxLpB9FF) | [Los Buitres](https://open.spotify.com/artist/6652LtwYxWQCzFBvvBkTF9) | [Movimiento Alterado Vol\. 4](https://open.spotify.com/album/1ZzrY7hbIiDQlV5i5uqJJt) | 2:32 | 2022-03-17 |  |
 | [Recuerdos de Uno](https://open.spotify.com/track/1ptL9S3BF4074kqm6U51YA) | [Martin Castillo](https://open.spotify.com/artist/7cTBwZEDfYdYu1ti31AgPw) | [Poder y Respeto](https://open.spotify.com/album/2DaRZDIgbjHe746Gx3pYRQ) | 3:16 | 2023-11-24 |  |
+| [San Juditas](https://open.spotify.com/track/0e4XsSHI3vC0Oh5aAVKq01) | [Tito Torbellino](https://open.spotify.com/artist/0c2yelD6HE33WZYXbn8CEJ) | [20 Corridos \- Corridos Reales No Payasadas](https://open.spotify.com/album/6TRRZdFmspMalRvacjvGV0) | 2:45 | 2023-12-01 |  |
 | [Scarface Renacido](https://open.spotify.com/track/1tpYFtQ5BsCB8lRug5VPtK) | [Jorge Santacruz Y Su Grupo Quinto Elemento](https://open.spotify.com/artist/6UAYm076bYvU9SVOUBH3hQ) | [La Supremacía](https://open.spotify.com/album/2qgYY0i0OW85xXawxTkEDW) | 3:54 | 2022-03-07 |  |
 | [Se Volvió a Pelar Mi Apá](https://open.spotify.com/track/76wKy6yQjIJiMbuO0EQQsy) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Historias de la Calle](https://open.spotify.com/album/68oeH15c0id8blWP7cOu5T) | 2:34 | 2023-11-24 |  |
 | [Soy De Rancho](https://open.spotify.com/track/1giHG26ew5FJIPdYfyvdZo) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [Soy De Rancho](https://open.spotify.com/album/3bP7ypGbJMbjmJD9eSoGFo) | 3:29 | 2022-03-07 | 2023-08-23 |

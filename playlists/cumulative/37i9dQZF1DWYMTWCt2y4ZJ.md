@@ -4,7 +4,7 @@
 
 > Bring in the new day.
 
-169 songs - 9 hr 5 min
+170 songs - 9 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [Chakra Flow Beat](https://open.spotify.com/track/2yVYWhj44F5uLKyTXtDAFP) | [Sun Of Sanny](https://open.spotify.com/artist/5luG8VudoiQNvcN2OEcdpC) | [Zone Out Beats](https://open.spotify.com/album/6sMoy5WKH2lqNzOP7UZWOY) | 3:00 | 2022-05-17 |  |
 | [Chaturanga](https://open.spotify.com/track/7hfJeqDWIA1OJizeFd1YxH) | [Start Of Something Good](https://open.spotify.com/artist/37qYg33d5znCp06dghSGz4) | [Chaturanga](https://open.spotify.com/album/7g0nKAHc5ShQ2quCpXz9hr) | 3:03 | 2022-05-17 | 2023-06-22 |
 | [Chinese Herbs](https://open.spotify.com/track/1ROHEkrFviF2sg0JdlmsNi) | [Goa Gubhar](https://open.spotify.com/artist/6wcKtx6vCZVkuSjR4a7UaB) | [Holy River](https://open.spotify.com/album/6HhpIS459we5oHB8GTW8Q2) | 2:54 | 2022-11-25 | 2023-06-22 |
+| [Compassion](https://open.spotify.com/track/1JC25MxOFnF1YyV4TpLr6q) | [Axel Pacem](https://open.spotify.com/artist/62RbCNMx3dAEBpaW4ev3iy) | [Compassion](https://open.spotify.com/album/1FOn0VvwCxcGzUkjnrbSMP) | 2:23 | 2023-12-01 |  |
 | [Danaus Genutia](https://open.spotify.com/track/0vRHzTymALeCeAL1l5dw5q) | [Star Lions](https://open.spotify.com/artist/3oyABNjDzJ2BL5tshlzpf0) | [Lines of Mauve](https://open.spotify.com/album/3f7SSz5LBqvz1Vqmkffk4V) | 3:34 | 2022-10-25 |  |
 | [Deep Meditation](https://open.spotify.com/track/1KkiMB3T1IRvxwP9DCBZWt) | [Tribal Drums Ambient](https://open.spotify.com/artist/43sPSu5S998ea5L4wtaZCV) | [Enter the Spirit World \- Shamanic Drumming Meditation](https://open.spotify.com/album/3qFC7eIbzF9nBD79xX47rH) | 3:09 | 2022-05-17 | 2022-11-26 |
 | [Dreamer Lounge](https://open.spotify.com/track/2cAp2tBDCzIXqiqiKe0IMa) | [Estelle Blanca](https://open.spotify.com/artist/1PoodiuzhtzA3XvvjO0uoM) | [Dreamer Lounge](https://open.spotify.com/album/5tMWJnbD4bwaZYQKq2Chke) | 4:55 | 2022-05-17 | 2022-09-03 |

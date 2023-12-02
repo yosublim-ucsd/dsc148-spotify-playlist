@@ -4,7 +4,7 @@
 
 > Music to reduce insomnia and help you relax.
 
-379 songs - 18 hr 46 min
+380 songs - 18 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [Above All](https://open.spotify.com/track/1j1uM8bwGWlI4mTz8N1NrZ) | [Ventura Lumi](https://open.spotify.com/artist/0jQvAwzpHfMQhQc76iWBa4) | [Above All](https://open.spotify.com/album/4Y5my2bPiVG2jc30AjK0Gm) | 2:40 | 2023-10-02 |  |
 | [Ad Infinitum](https://open.spotify.com/track/1WHrCfYujnEhApstu2ppFo) | [James Matthéus](https://open.spotify.com/artist/5fv48FX13ObHcPLxuxguyy) | [Ad Infinitum](https://open.spotify.com/album/6K2qi9kHluhzqyUPIDx1JR) | 2:31 | 2022-09-30 |  |
 | [Aestate Nocte](https://open.spotify.com/track/33kX0nz5uT0zqq3EYWvUjf) | [Ferdinando Zetticci](https://open.spotify.com/artist/4MLLLG0z38an4nXddu8R3O) | [Aestate Nocte](https://open.spotify.com/album/586nVYFWjCLPKqroTU1dVq) | 3:24 | 2021-11-10 | 2023-08-19 |
+| [Aligned Adventures](https://open.spotify.com/track/0UgCoafyAS8LajrzmHzSid) | [Secret Medicine](https://open.spotify.com/artist/0tMQJ9EVT0vfsG67K867kR) | [Aligned Adventures](https://open.spotify.com/album/1BWgiMZ2SH72H41PY0VQOc) | 3:14 | 2023-12-01 |  |
 | [Alleviation](https://open.spotify.com/track/6hz5qA35YWENEvi1qlb9xt) | [Sia Moon](https://open.spotify.com/artist/438yZZcqMapAevM5nIBGTG) | [Alleviation](https://open.spotify.com/album/5peWe4tisKmGmYXfymYHgS) | 3:28 | 2021-11-10 | 2023-03-04 |
 | [Allt finns kvar](https://open.spotify.com/track/6eTRQbYbCnrnm0ghn4eUNd) | [Eleonora Feldt](https://open.spotify.com/artist/3N5bWM0Opalb3v1tWy6NJn) | [Allt finns kvar](https://open.spotify.com/album/4peQko6d1eFGavCfFHJGT3) | 3:59 | 2021-11-10 |  |
 | [Alma](https://open.spotify.com/track/2j9r4JRWjLsFn7VEibICxz) | [Pedro Caceres](https://open.spotify.com/artist/61YOovGWdnYImyV9dgnaMA) | [Alma](https://open.spotify.com/album/1VkVWLRl4jyxBUUDvMKy7K) | 2:51 | 2021-11-10 |  |

@@ -1235,6 +1235,24 @@
     },
     {
       "album": {
+        "name": "What Will The Neighbours Say?",
+        "url": "https://open.spotify.com/album/5uuYulJrtga1APMxTDcfum"
+      },
+      "artists": [
+        {
+          "name": "Girls Aloud",
+          "url": "https://open.spotify.com/artist/12EtLdLfJ41vUOoVzPZIUy"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205360,
+      "name": "Love Machine",
+      "url": "https://open.spotify.com/track/6SHvqMjPEQqyJaxuEzNcr3"
+    },
+    {
+      "album": {
         "name": "Tribute",
         "url": "https://open.spotify.com/album/7ybleSrN0ZT3bci5WZ6puk"
       },
@@ -1250,6 +1268,24 @@
       "duration_ms": 239894,
       "name": "Love Me Again",
       "url": "https://open.spotify.com/track/5VSCgNlSmTV2Yq5lB40Eaw"
+    },
+    {
+      "album": {
+        "name": "4",
+        "url": "https://open.spotify.com/album/1gIC63gC3B7o7FfpPACZQJ"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267413,
+      "name": "Love On Top",
+      "url": "https://open.spotify.com/track/1z6WtY7X4HQJvzxC4UgkSf"
     },
     {
       "album": {
@@ -1568,7 +1604,7 @@
       ],
       "date_added": "2023-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 251327,
       "name": "Run Away With Me",
       "url": "https://open.spotify.com/track/0FS7B5o3QyvOD8eWjnbLoO"
@@ -1676,7 +1712,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-02",
       "duration_ms": 203346,
       "name": "Sex on Fire",
       "url": "https://open.spotify.com/track/0ntQJM78wzOLVeCUAW7Y45"
