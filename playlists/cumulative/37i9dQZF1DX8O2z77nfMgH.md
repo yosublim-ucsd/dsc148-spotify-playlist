@@ -4,7 +4,7 @@
 
 > Lanzamientos de la semana\. Lo nuevo de toda Iberoamérica\. Foto: Gabito Ballesteros
 
-6,125 songs - 13 day 17 hr 33 min
+6,126 songs - 13 day 17 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1324,7 +1324,8 @@
 | [DAMN!](https://open.spotify.com/track/1uGCxUV2OJngJan7DKjGCo) | [Sexy Pigeon](https://open.spotify.com/artist/4gnQSPui3dzrkaFdf18P6U), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [DAMN!](https://open.spotify.com/album/6ISGikUMrS710I2NF5Ityr) | 1:57 | 2022-08-26 | 2022-09-03 |
 | [Dancehall Night](https://open.spotify.com/track/2fAsGD0stAB22JPGVq69IX) | [DJ Kendo](https://open.spotify.com/artist/5OYkaab5KaJZPdZF6knfJQ), [DEEIKEL](https://open.spotify.com/artist/4ct2cBBso7eggPi2Qcjwbi), [Haquil](https://open.spotify.com/artist/3JptABIhEERG63NRckg6EG) | [Dancehall Night](https://open.spotify.com/album/2gwvfgv2LA170M4R2QbNoL) | 2:58 | 2023-10-06 | 2023-10-14 |
 | [Dando Vueltas](https://open.spotify.com/track/6E9Mi6AlttyxzyOseYQAWF) | [La\-33](https://open.spotify.com/artist/1Y2yzHPbBWZouNYTOGFq7u), [Jhonpri](https://open.spotify.com/artist/74iFk7TK8TUFgiUV6RXHwJ), [Salsos+](https://open.spotify.com/artist/45acRE6W1BGSGAgTrWQCSV) | [Dando Vueltas](https://open.spotify.com/album/0vYIsEteHsZoBrbR94oZf8) | 5:30 | 2022-10-14 | 2022-10-22 |
-| [Dangerous](https://open.spotify.com/track/6laQgNGUtNzFMgmFlC0J0R) | [Jacin22](https://open.spotify.com/artist/0hKZWHSEyzoRIOlCTpKJ5i), [Green Mike](https://open.spotify.com/artist/20VTUJpEwtBhTyiQboIF2Z), [Lovererboy Broke Again](https://open.spotify.com/artist/33PZfrnWhnaA3OZI4A5Jhz) | [NO MORE LOVE JAIDA\( DELUXE \)](https://open.spotify.com/album/5Wn1tmHUIy7SoEFWLaRGTI) | 2:21 | 2023-12-01 |  |
+| [Dangerous](https://open.spotify.com/track/6laQgNGUtNzFMgmFlC0J0R) | [Jacin22](https://open.spotify.com/artist/0hKZWHSEyzoRIOlCTpKJ5i), [Green Mike](https://open.spotify.com/artist/20VTUJpEwtBhTyiQboIF2Z), [Lovererboy Broke Again](https://open.spotify.com/artist/33PZfrnWhnaA3OZI4A5Jhz) | [NO MORE LOVE JAIDA\( DELUXE \)](https://open.spotify.com/album/5Wn1tmHUIy7SoEFWLaRGTI) | 2:21 | 2023-12-01 | 2023-12-03 |
+| [Dangerous](https://open.spotify.com/track/2S98gd8hjcg5gtNDgsnyx3) | [Kleinevlam](https://open.spotify.com/artist/0UyOphy0eyixk0EmaDqBLx), [Cm2](https://open.spotify.com/artist/0CzeXlUTm8wTk43s6QB9XF), [YUNGSTEALY](https://open.spotify.com/artist/1PL5muiJjjGEed6vpzRA5A) | [Dangerous](https://open.spotify.com/album/5Jyih0CqOl9I85X6XKRjxM) | 2:21 | 2023-12-01 |  |
 | [Daniboy](https://open.spotify.com/track/6fG5gbxzLKSYArNNQxaRIJ) | [Diamante Eléctrico](https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo) | [Daniboy](https://open.spotify.com/album/39dJCiAZddTJMm08YFn6nW) | 3:34 | 2022-05-13 | 2023-03-11 |
 | [DANNY PHANTOM & SRT's](https://open.spotify.com/track/08j7SBAKoC4seiz1eZVauH) | [Yulian](https://open.spotify.com/artist/5PUMForX6lRvNBylTmls9C) | [MONSTAR](https://open.spotify.com/album/66pCoqNPfUbdR8edckSXme) | 3:17 | 2022-12-16 | 2022-12-24 |
 | [Danza Negra](https://open.spotify.com/track/1g3uCv2BINkWHSnlkTgH1g) | [Adriana Lucia](https://open.spotify.com/artist/5u4ozdMUTJLCJPYkFVoy0o) | [Maestro Lucho](https://open.spotify.com/album/06MO7kElzwx7ET2sc0gN00) | 2:17 | 2022-05-20 | 2022-05-28 |
@@ -4498,7 +4499,7 @@
 | [Psycho](https://open.spotify.com/track/0t4zUFotnN7v5Kg53VJqpM) | [Carlos Cortez](https://open.spotify.com/artist/3DplAKAVidNrhpivWNLMWC), [Maxiolly](https://open.spotify.com/artist/6BYNqaolBRE6cHA707Sl0a) | [Psycho](https://open.spotify.com/album/6Xrw9DUaL6zBCYtLVkcCRA) | 2:53 | 2022-10-14 | 2022-10-22 |
 | [Psycho B\*\*ch](https://open.spotify.com/track/1aRcazIFzvRrybZXVdFT1M) | [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb) | [Psycho B\*\*ch](https://open.spotify.com/album/1QLjJQvFwXCIbfOvJVez4u) | 2:47 | 2022-11-04 | 2022-11-12 |
 | [PUAJ \(sesión\)](https://open.spotify.com/track/6fTxvdEyWl3zZg2XTWO4s8) | [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK) | [PUAJ \(sesión\)](https://open.spotify.com/album/2NU5SWfJFO8IN7cvecZlww) | 2:36 | 2022-09-23 | 2022-10-01 |
-| [Pudiste pero No Quisiste](https://open.spotify.com/track/4GW1xy7yINUnuEQHaETaVC) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Como en los Viejos Tiempos](https://open.spotify.com/album/7kfuZtaN9zvpFhIIMZLvgI) | 3:32 | 2023-12-01 |  |
+| [Pudiste Pero No Quisiste](https://open.spotify.com/track/4GW1xy7yINUnuEQHaETaVC) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Como en los Viejos Tiempos](https://open.spotify.com/album/7kfuZtaN9zvpFhIIMZLvgI) | 3:32 | 2023-12-01 |  |
 | [PUESTO PA SUMAR](https://open.spotify.com/track/3hiGBmxanipMiVGgZwx0cv) | [BK](https://open.spotify.com/artist/43tXe0vO00OOt1EDDbF4Ux), [Emely Myles](https://open.spotify.com/artist/33h4SP4SbBnclCCP3hG53J), [Oneless](https://open.spotify.com/artist/7GGLtJ8HHwIsuTZELHKETh) | [PUESTO PA SUMAR](https://open.spotify.com/album/40KcsK6EKkQ1vvhAelJPdO) | 2:37 | 2023-01-20 | 2023-01-28 |
 | [Puesto Pal Dinero](https://open.spotify.com/track/0FkcLTWfpP6eysfrQW9Phr) | [Jc La Nevula](https://open.spotify.com/artist/6KBhywwNM5dStjqjHeNndc) | [Puesto Pal Dinero](https://open.spotify.com/album/5ruz6YmD8UIQaph4FA9U91) | 2:42 | 2023-03-03 | 2023-03-11 |
 | [PUESTO PA´L MONEY](https://open.spotify.com/track/4EPYVkNr0DvsUdQfuy6GuJ) | [Ghetto Living](https://open.spotify.com/artist/0UpALfYoIQmSdTuRkI2HJR) | [PUESTO PA´L MONEY](https://open.spotify.com/album/5xlppWxHS3l75U5ou3t120) | 3:12 | 2023-05-05 | 2023-05-13 |

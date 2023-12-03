@@ -1,12 +1,12 @@
 {
   "description": "Bonitas, orgullosas y empoderadas, as\u00ed somos las se\u00f1oras.",
-  "num_followers": 277121,
+  "num_followers": 277217,
   "original_name": "Modo Se\u00f1ora",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNWI5YzU2YTAxYWFmYjdkMzkzNDNjMTk1N2Y1NDI2ZDhiMmNlZDA1",
+  "snapshot_id": "MCwzYmFiNzA4OWIyMmE2MTU1ZmJkNTVjMzE4YjJjNDI4NjU3YTUzMzRh",
   "tracks": [
     {
       "added_at": "2023-09-29 13:35:14",
@@ -299,22 +299,6 @@
     {
       "added_at": "2022-05-10 02:03:57",
       "album": {
-        "name": "Avalancha de \u00e9xitos",
-        "url": "https://open.spotify.com/album/33iiSdb0XhQI0dSstspDls"
-      },
-      "artists": [
-        {
-          "name": "Caf\u00e9 Tacvba",
-          "url": "https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz"
-        }
-      ],
-      "duration_ms": 214880,
-      "name": "Como te extra\u00f1o mi amor",
-      "url": "https://open.spotify.com/track/6hFHsQWB7HdVrSe7efRR82"
-    },
-    {
-      "added_at": "2022-05-10 02:03:57",
-      "album": {
         "name": "Fantas\u00eda o realidad",
         "url": "https://open.spotify.com/album/1RF8AaupRPlmA13HxSdWAe"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 266666,
       "name": "Aunque no te pueda ver",
       "url": "https://open.spotify.com/track/2425UlXvkIkAEJAtAd8ROm"
+    },
+    {
+      "added_at": "2022-05-10 02:03:57",
+      "album": {
+        "name": "Avalancha de \u00e9xitos",
+        "url": "https://open.spotify.com/album/33iiSdb0XhQI0dSstspDls"
+      },
+      "artists": [
+        {
+          "name": "Caf\u00e9 Tacvba",
+          "url": "https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz"
+        }
+      ],
+      "duration_ms": 214880,
+      "name": "Como te extra\u00f1o mi amor",
+      "url": "https://open.spotify.com/track/6hFHsQWB7HdVrSe7efRR82"
     },
     {
       "added_at": "2022-05-10 02:03:57",
@@ -409,22 +409,6 @@
       "url": "https://open.spotify.com/track/6vPAmoERUMRoTZaCCSWQ12"
     },
     {
-      "added_at": "2021-05-21 05:04:59",
-      "album": {
-        "name": "Ricardo Montaner Con La London Metropolitan Orchestra",
-        "url": "https://open.spotify.com/album/7dI1jAbtx6nFn2rcQKVPFE"
-      },
-      "artists": [
-        {
-          "name": "Ricardo Montaner",
-          "url": "https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD"
-        }
-      ],
-      "duration_ms": 289866,
-      "name": "Tan enamorados",
-      "url": "https://open.spotify.com/track/5kxol5m6MfiJgahqyzbDRH"
-    },
-    {
       "added_at": "2022-05-10 02:03:57",
       "album": {
         "name": "Donde Hay M\u00fasica (Spanish Version)",
@@ -439,6 +423,22 @@
       "duration_ms": 265626,
       "name": "La Cosa Mas Bella",
       "url": "https://open.spotify.com/track/1EZypwk0xcj64ZLAglhLs2"
+    },
+    {
+      "added_at": "2021-05-21 05:04:59",
+      "album": {
+        "name": "Ricardo Montaner Con La London Metropolitan Orchestra",
+        "url": "https://open.spotify.com/album/7dI1jAbtx6nFn2rcQKVPFE"
+      },
+      "artists": [
+        {
+          "name": "Ricardo Montaner",
+          "url": "https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD"
+        }
+      ],
+      "duration_ms": 289866,
+      "name": "Tan enamorados",
+      "url": "https://open.spotify.com/track/5kxol5m6MfiJgahqyzbDRH"
     },
     {
       "added_at": "2021-05-21 05:04:59",
@@ -703,22 +703,6 @@
     {
       "added_at": "2022-05-10 02:03:57",
       "album": {
-        "name": "Par\u00eds",
-        "url": "https://open.spotify.com/album/0QM5DL8C9uOYI2hGKbLUq8"
-      },
-      "artists": [
-        {
-          "name": "La Oreja de Van Gogh",
-          "url": "https://open.spotify.com/artist/4U7lXyKdSf1JbM1aXvsodC"
-        }
-      ],
-      "duration_ms": 237026,
-      "name": "Rosas",
-      "url": "https://open.spotify.com/track/06p2Ij0lXD45LODQDCov0u"
-    },
-    {
-      "added_at": "2022-05-10 02:03:57",
-      "album": {
         "name": "Aire (Versi\u00f3n D\u00eda)",
         "url": "https://open.spotify.com/album/6ra5IJfLnuwbBm8NhxA2zX"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 219760,
       "name": "Tanto",
       "url": "https://open.spotify.com/track/0ZqhB08GsFc4xfV07AsXzE"
+    },
+    {
+      "added_at": "2022-05-10 02:03:57",
+      "album": {
+        "name": "Par\u00eds",
+        "url": "https://open.spotify.com/album/0QM5DL8C9uOYI2hGKbLUq8"
+      },
+      "artists": [
+        {
+          "name": "La Oreja de Van Gogh",
+          "url": "https://open.spotify.com/artist/4U7lXyKdSf1JbM1aXvsodC"
+        }
+      ],
+      "duration_ms": 237026,
+      "name": "Rosas",
+      "url": "https://open.spotify.com/track/06p2Ij0lXD45LODQDCov0u"
     },
     {
       "added_at": "2021-05-21 05:04:59",
@@ -873,6 +873,22 @@
       "url": "https://open.spotify.com/track/4Ffrs6kqh1cyNC1gdRWI38"
     },
     {
+      "added_at": "2022-05-10 02:03:57",
+      "album": {
+        "name": "Entre el Cielo y el Suelo (Bonus Tracks Edition)",
+        "url": "https://open.spotify.com/album/1vDYLED9bQwm3FzIdXs5H9"
+      },
+      "artists": [
+        {
+          "name": "Mecano",
+          "url": "https://open.spotify.com/artist/5BMgsAFg8rZQc3tqs5BB8G"
+        }
+      ],
+      "duration_ms": 302493,
+      "name": "Cruz de Navajas",
+      "url": "https://open.spotify.com/track/5laT2a6iEq4IxgEDV9dSCr"
+    },
+    {
       "added_at": "2021-05-21 05:04:59",
       "album": {
         "name": "Coleccion Suprema",
@@ -903,22 +919,6 @@
       "duration_ms": 239995,
       "name": "Si Me Ten\u00edas",
       "url": "https://open.spotify.com/track/2wBhRmkGC098tLGo2dhWo2"
-    },
-    {
-      "added_at": "2022-05-10 02:03:57",
-      "album": {
-        "name": "Entre el Cielo y el Suelo (Bonus Tracks Edition)",
-        "url": "https://open.spotify.com/album/1vDYLED9bQwm3FzIdXs5H9"
-      },
-      "artists": [
-        {
-          "name": "Mecano",
-          "url": "https://open.spotify.com/artist/5BMgsAFg8rZQc3tqs5BB8G"
-        }
-      ],
-      "duration_ms": 302493,
-      "name": "Cruz de Navajas",
-      "url": "https://open.spotify.com/track/5laT2a6iEq4IxgEDV9dSCr"
     },
     {
       "added_at": "2022-05-10 02:03:57",
@@ -987,22 +987,6 @@
     {
       "added_at": "2021-05-21 05:04:59",
       "album": {
-        "name": "Tierra De Nadie",
-        "url": "https://open.spotify.com/album/3gV3uvJ1HSYVM88Tsh1DHi"
-      },
-      "artists": [
-        {
-          "name": "Ana Gabriel",
-          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
-        }
-      ],
-      "duration_ms": 227600,
-      "name": "Simplemente Amigos",
-      "url": "https://open.spotify.com/track/10PwPpr7BBxYon3pwS7k5G"
-    },
-    {
-      "added_at": "2021-05-21 05:04:59",
-      "album": {
         "name": "Libre",
         "url": "https://open.spotify.com/album/5Zb5uLdHzmnIbOBy4zvVwW"
       },
@@ -1015,6 +999,38 @@
       "duration_ms": 240933,
       "name": "Mirala Miralo",
       "url": "https://open.spotify.com/track/6GCNUmk7L7OWtpvSk0fWOg"
+    },
+    {
+      "added_at": "2021-05-21 05:04:59",
+      "album": {
+        "name": "21 Black Jack",
+        "url": "https://open.spotify.com/album/4jiWswx18F7x1dRMKmC9YR"
+      },
+      "artists": [
+        {
+          "name": "Mijares",
+          "url": "https://open.spotify.com/artist/3zhijRRIZX2B6G2T7vJl9p"
+        }
+      ],
+      "duration_ms": 206706,
+      "name": "Para Amarnos M\u00e1s",
+      "url": "https://open.spotify.com/track/3VDJrFMOFyYFGPtIocqkeP"
+    },
+    {
+      "added_at": "2021-05-21 05:04:59",
+      "album": {
+        "name": "Tierra De Nadie",
+        "url": "https://open.spotify.com/album/3gV3uvJ1HSYVM88Tsh1DHi"
+      },
+      "artists": [
+        {
+          "name": "Ana Gabriel",
+          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
+        }
+      ],
+      "duration_ms": 227600,
+      "name": "Simplemente Amigos",
+      "url": "https://open.spotify.com/track/10PwPpr7BBxYon3pwS7k5G"
     },
     {
       "added_at": "2022-05-10 02:03:57",
@@ -1035,22 +1051,6 @@
       "duration_ms": 244262,
       "name": "La mujer que bota fuego (feat. Natalia Jim\u00e9nez)",
       "url": "https://open.spotify.com/track/6w6EINTodc8j0TWtrWHdm2"
-    },
-    {
-      "added_at": "2021-05-21 05:04:59",
-      "album": {
-        "name": "21 Black Jack",
-        "url": "https://open.spotify.com/album/4jiWswx18F7x1dRMKmC9YR"
-      },
-      "artists": [
-        {
-          "name": "Mijares",
-          "url": "https://open.spotify.com/artist/3zhijRRIZX2B6G2T7vJl9p"
-        }
-      ],
-      "duration_ms": 206706,
-      "name": "Para Amarnos M\u00e1s",
-      "url": "https://open.spotify.com/track/3VDJrFMOFyYFGPtIocqkeP"
     },
     {
       "added_at": "2021-05-21 05:04:59",
@@ -1169,20 +1169,20 @@
       "url": "https://open.spotify.com/track/42QWOsW1f9uDu9zsoUAE73"
     },
     {
-      "added_at": "2022-05-10 02:03:57",
+      "added_at": "2021-05-21 05:04:59",
       "album": {
-        "name": "TZN -The Best Of Tiziano Ferro (Spanish Edition)",
-        "url": "https://open.spotify.com/album/0Kk7kX25RVvNzkYfyGt8kv"
+        "name": "NUEVA ERA",
+        "url": "https://open.spotify.com/album/46vUx6DbaAJvrShgZYMLSU"
       },
       "artists": [
         {
-          "name": "Tiziano Ferro",
-          "url": "https://open.spotify.com/artist/11TplWqOPQBTmg2eiSLt1m"
+          "name": "Yuri",
+          "url": "https://open.spotify.com/artist/4OgNARLQSC4yy7Dsa5cqxx"
         }
       ],
-      "duration_ms": 262693,
-      "name": "Tardes Negras",
-      "url": "https://open.spotify.com/track/0IgtEvYFtZEapMoCcgizGQ"
+      "duration_ms": 279026,
+      "name": "Detr\u00e1s de Mi Ventana",
+      "url": "https://open.spotify.com/track/0vhOhQerNeK037EpSmphzb"
     },
     {
       "added_at": "2021-05-21 05:04:59",
@@ -1201,20 +1201,20 @@
       "url": "https://open.spotify.com/track/4hWUYwFwJKpu4o49Gon76Z"
     },
     {
-      "added_at": "2021-05-21 05:04:59",
+      "added_at": "2022-05-10 02:03:57",
       "album": {
-        "name": "NUEVA ERA",
-        "url": "https://open.spotify.com/album/46vUx6DbaAJvrShgZYMLSU"
+        "name": "TZN -The Best Of Tiziano Ferro (Spanish Edition)",
+        "url": "https://open.spotify.com/album/0Kk7kX25RVvNzkYfyGt8kv"
       },
       "artists": [
         {
-          "name": "Yuri",
-          "url": "https://open.spotify.com/artist/4OgNARLQSC4yy7Dsa5cqxx"
+          "name": "Tiziano Ferro",
+          "url": "https://open.spotify.com/artist/11TplWqOPQBTmg2eiSLt1m"
         }
       ],
-      "duration_ms": 279026,
-      "name": "Detr\u00e1s de Mi Ventana",
-      "url": "https://open.spotify.com/track/0vhOhQerNeK037EpSmphzb"
+      "duration_ms": 262693,
+      "name": "Tardes Negras",
+      "url": "https://open.spotify.com/track/0IgtEvYFtZEapMoCcgizGQ"
     },
     {
       "added_at": "2021-05-21 05:04:59",

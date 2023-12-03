@@ -4,7 +4,7 @@
 
 > The best Latin Indie tracks of today, featuring Simon Grossman.
 
-294 songs - 16 hr 48 min
+296 songs - 16 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [Better Than This](https://open.spotify.com/track/72QD8GncVMD1DdHOtTjDM5) | [Calista Del Toro](https://open.spotify.com/artist/2AdpTsL9U2vslmS8y7XXtc) | [Better Than This](https://open.spotify.com/album/5fvNHqH5OcWu55dUAi03qP) | 2:44 | 2022-03-10 | 2022-12-31 |
 | [Better With You](https://open.spotify.com/track/4mW0oRgTmwPGFmpuwbvLud) | [Katzù Oso](https://open.spotify.com/artist/4tSzEOfCj6LXhaf0jtk4XO) | [Tmí](https://open.spotify.com/album/6BFTCcyxGLFBHocDnivQnY) | 2:36 | 2022-06-03 | 2023-11-05 |
 | [bien hecho](https://open.spotify.com/track/2jMrMVUprU2f03AZYRpWfB) | [Humbe](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [bien hecho](https://open.spotify.com/album/5MNb2jx4ncbpNMimeEUczU) | 4:01 | 2023-11-10 |  |
+| [Brillas en la Pista](https://open.spotify.com/track/07VHlK0Hmov13F7b6cEKMt) | [Mecánico](https://open.spotify.com/artist/2oUsBhAi9Mac4BjHxt55ct), [1915](https://open.spotify.com/artist/4jwnlVc9Lj5vMkL32978d1) | [Dos Cordilleras](https://open.spotify.com/album/5sqTnSZ1d0SOyoWbR1YjKA) | 2:44 | 2023-12-01 |  |
 | [Brillo Más Que El Oro \(La Bala Apuntándome\)](https://open.spotify.com/track/1PqjedvPDSvXZObzQz3kxM) | [Combo Chimbita](https://open.spotify.com/artist/5sgpZfCPK6zd3MEB1Nrhey) | [Esto Es Real \(8100mg\)](https://open.spotify.com/album/15dVE1XgRGM4XRy2F3KPJK) | 3:56 | 2022-03-10 | 2022-07-29 |
 | [Brillo Más Que El Oro \(La Bala Apuntándome\)](https://open.spotify.com/track/7l0kAwlnFbbtUKSeeecr5g) | [Combo Chimbita](https://open.spotify.com/artist/5sgpZfCPK6zd3MEB1Nrhey) | [Ahomale](https://open.spotify.com/album/5T8HiC9DBepOkVyHur3AHe) | 3:56 | 2022-06-03 | 2023-02-09 |
 | [Brindo](https://open.spotify.com/track/1RbwjbhpV4YA49mBCOJ8cR) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2) | [¿Quién trae las cornetas?](https://open.spotify.com/album/3UedVnaIbI3SRuMLClWiJ3) | 4:44 | 2023-11-10 |  |
@@ -88,7 +89,7 @@
 | [Everybody Wants to Rule the World](https://open.spotify.com/track/3cChN0lUEGVlJSGcMKyAsx) | [Making Movies](https://open.spotify.com/artist/1wFpAE8HCGoqaLjzRO51w9) | [Everybody Wants to Rule the World](https://open.spotify.com/album/4N1Ji6AB9p3FW2xY5hDkRk) | 3:58 | 2022-03-10 | 2023-02-09 |
 | [Fake News](https://open.spotify.com/track/6mzfxrGB40oY442Pc5SW6t) | [León Larregui](https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d) | [Fake News + Alba](https://open.spotify.com/album/60uot0fUnoMNytJoNw9ToC) | 4:07 | 2023-04-14 |  |
 | [falco](https://open.spotify.com/track/1x6TYpJ3IfpEnfWOIuznkV) | [Pink Pablo](https://open.spotify.com/artist/6grKEGFYz5bqq0IQraQhsQ) | [road 2 neverland](https://open.spotify.com/album/1c6VYaOgWJtYX7emSWJNp8) | 3:29 | 2023-11-10 |  |
-| [Figuras](https://open.spotify.com/track/1zJkQGqGV18m02keJa2X7n) | [Sobrino](https://open.spotify.com/artist/0vEEYg1cJscAAw4sekHSOf) | [Figuras](https://open.spotify.com/album/5cH7GXKeC0mUJWy62BIxMH) | 2:59 | 2023-11-10 |  |
+| [Figuras](https://open.spotify.com/track/1zJkQGqGV18m02keJa2X7n) | [Sobrino](https://open.spotify.com/artist/0vEEYg1cJscAAw4sekHSOf) | [Figuras](https://open.spotify.com/album/5cH7GXKeC0mUJWy62BIxMH) | 2:59 | 2023-11-10 | 2023-12-03 |
 | [Flor](https://open.spotify.com/track/1VGZbTAP1DVkA6Wa8MaqLM) | [Gabriel Garzón\-Montano](https://open.spotify.com/artist/1R4GxRuSVTPSb6oy56SPST) | [Agüita: Remixes](https://open.spotify.com/album/2AW8yUOeKjNxwkqXU8Cs39) | 3:09 | 2022-06-03 | 2023-02-09 |
 | [Flor](https://open.spotify.com/track/6fb9Z8gFU03s2NYpruJbBx) | [Gabriel Garzón\-Montano](https://open.spotify.com/artist/1R4GxRuSVTPSb6oy56SPST) | [Agüita EP: II](https://open.spotify.com/album/60SWRGZAuTb6Af7i891pcg) | 3:09 | 2022-03-10 | 2022-07-29 |
 | [Flores](https://open.spotify.com/track/7KWDvbAWboTeiv88krkdLR) | [Werio](https://open.spotify.com/artist/68C2TcobW47veMxXfdGGOm) | [Flores](https://open.spotify.com/album/7M9NCzlNxeDsW8kiIZzaW4) | 3:22 | 2022-03-10 | 2022-07-29 |
@@ -245,6 +246,7 @@
 | [Sweet Honey](https://open.spotify.com/track/07xve2j2nU5nwELEhx8fx0) | [Los Retros](https://open.spotify.com/artist/0qraFJK6boYSp4ZMMX4PzG) | [Everlasting](https://open.spotify.com/album/38zFuhUeBvOleLUH3kfmPu) | 3:26 | 2022-03-10 | 2022-07-29 |
 | [Sweet Honey](https://open.spotify.com/track/6o7rsXLvLgx2gmKLGDNe0g) | [Los Retros](https://open.spotify.com/artist/0qraFJK6boYSp4ZMMX4PzG) | [Everlasting](https://open.spotify.com/album/1p0B0yZhc04KInnikui2gQ) | 3:26 | 2022-06-03 | 2022-09-07 |
 | [Tantas Cosas Buenas](https://open.spotify.com/track/6SOQ1rrcQL3UcGmsLOrXtd) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [Tantas Cosas Buenas](https://open.spotify.com/album/3sGo39318ViQM2ZHNporVo) | 3:58 | 2022-12-30 | 2023-03-25 |
+| [Tarde o Temprano](https://open.spotify.com/track/7CJbGTWfMlNYkhk2MgBfde) | [El Zar](https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi) | [Tarde o Temprano](https://open.spotify.com/album/5MVlQJ6WnmXjzje3ruMLvS) | 3:33 | 2023-12-01 |  |
 | [tdbn](https://open.spotify.com/track/5PKQelL3yzmUpKTDj0j72t) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [tdbn](https://open.spotify.com/album/4IYxAA0c0p5TBWlBdLdx5T) | 3:14 | 2022-03-10 | 2023-01-28 |
 | [Te Espero Aquí](https://open.spotify.com/track/1xvQsgUbvz53trUe3xaIdm) | [Monogem](https://open.spotify.com/artist/4rNzwpjkFq8A7SeCMKBkEV) | [Gardenia](https://open.spotify.com/album/2YOhfUkhFT2uNis4xMDPFe) | 4:11 | 2022-03-10 | 2022-10-14 |
 | [Te Espero Aquí](https://open.spotify.com/track/3mreuRI6pOkAXMm0vaBSzx) | [Monogem](https://open.spotify.com/artist/4rNzwpjkFq8A7SeCMKBkEV) | [Gardenia](https://open.spotify.com/album/0vetA0VXGOhBjzaKO8DasX) | 4:11 | 2022-09-06 | 2023-02-09 |
@@ -271,7 +273,7 @@
 | [Tormenta](https://open.spotify.com/track/4Tc8xPJBNByAs3ff4L6DYs) | [Hunters of the Alps](https://open.spotify.com/artist/7Gl1t0pZGk6YDx42OB8vDG) | [Tormenta](https://open.spotify.com/album/08jlbAsG7WByk2DM4osAGh) | 3:53 | 2022-03-10 | 2022-07-29 |
 | [Tormenta](https://open.spotify.com/track/7E4v1Yp9OL5key6GTiH7kL) | [Hunters of the Alps](https://open.spotify.com/artist/7Gl1t0pZGk6YDx42OB8vDG) | [Today Mañana](https://open.spotify.com/album/0jiYxu7xEHUUYXkGNtrO9M) | 3:53 | 2022-09-06 | 2022-11-14 |
 | [Tormenta](https://open.spotify.com/track/7mHipoaIXyNYiJXwV5TjQw) | [Hunters of the Alps](https://open.spotify.com/artist/7Gl1t0pZGk6YDx42OB8vDG) | [Tormenta](https://open.spotify.com/album/35c6RFSwT57u84wDbLX4c0) | 3:53 | 2022-09-06 | 2022-12-15 |
-| [TQD](https://open.spotify.com/track/3nY5WkZfpPbEesL0suAVqq) | [Mola Mola](https://open.spotify.com/artist/0GvoilgXudnVgLkkxYCttN) | [TQD](https://open.spotify.com/album/2oHIws9KI1JMfmbzmNEXoA) | 3:20 | 2023-03-24 |  |
+| [TQD](https://open.spotify.com/track/3nY5WkZfpPbEesL0suAVqq) | [Mola Mola](https://open.spotify.com/artist/0GvoilgXudnVgLkkxYCttN) | [TQD](https://open.spotify.com/album/2oHIws9KI1JMfmbzmNEXoA) | 3:20 | 2023-03-24 | 2023-12-03 |
 | [Trampas](https://open.spotify.com/track/5IxfOWrIQmioHViXiRq6Bv) | [Isla de Caras](https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF) | [Gran Turismo](https://open.spotify.com/album/3h1wAtr3lIasoLwOMFuRIn) | 3:08 | 2023-07-07 |  |
 | [Trasnocho Entre Semana](https://open.spotify.com/track/6NfMVBevqiku6BpSYuPb7W) | [Cheo](https://open.spotify.com/artist/2sshGYdyr1ZEl4Np76RRxG) | [Trasnocho Entre Semana](https://open.spotify.com/album/3busGuPaMvY4hWfnKVVBeO) | 4:34 | 2022-03-10 | 2022-07-28 |
 | [tus ojos](https://open.spotify.com/track/3VWpfOSxv0h8W98iyHbc8E) | [Salt Cathedral](https://open.spotify.com/artist/1HhSYZFNNPTTZuOlSfZUJP) | [tus ojos](https://open.spotify.com/album/4Gf3X9qjiQMjkzFJHn6Wie) | 2:22 | 2022-03-10 | 2022-07-29 |

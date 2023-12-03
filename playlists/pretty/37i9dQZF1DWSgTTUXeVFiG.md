@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSgTTUXeVFiG.md) - [plain]
 
 > Los éxitos de siempre en concierto\. Foto: Celia Cruz
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,589 likes - 50 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,676 likes - 50 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,11 +18,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSgTTUXeVFiG.md) - [plain]
 | 8 | [Haremos El Amor \- En Vivo](https://open.spotify.com/track/5T7BtRS2UUUHBS7IFwCWrC) | [Tony Vega](https://open.spotify.com/artist/3Yg61bt7pZYX1bbMXEj8oY) | [En Concierto](https://open.spotify.com/album/3Gdp5KnCKrIDAfbgvM7N2b) | 5:47 |
 | 9 | [Clase Social \- En Vivo](https://open.spotify.com/track/44PxgFKSfEkaeDfT716Y7y) | [Porfi Baloa](https://open.spotify.com/artist/2SYIF2tMAgLcjtTTeCfjg3), [Oscar D'León](https://open.spotify.com/artist/1c84wItoiAe1pEbpJMqUmQ) | [20 Años \(La Historia\) \[En Vivo\]](https://open.spotify.com/album/7BEr7vxhhJ3YTkIPnz4HLx) | 4:32 |
 | 10 | [He Tratado \- Live Version](https://open.spotify.com/track/1s6V4WG5Vmqm4Ryd8bV3vR) | [Víctor Manuelle](https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2), [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1) | [Dos Soneros..\. Una Historia](https://open.spotify.com/album/4MpP6sfknKNUhYo0lvnaUU) | 8:01 |
-| 11 | [Casi Te Envidio \- Live Version](https://open.spotify.com/track/351z8ABoWoJliwcM87Ow15) | [Andy Montañez](https://open.spotify.com/artist/6RMWFexOHVj5ctezneQH5v) | [Sergio George Presents Salsa Giants \(Live\)](https://open.spotify.com/album/7EpsK00BLXW9BuoLmWY0Io) | 4:37 |
+| 11 | [La Cita](https://open.spotify.com/track/6OEyQCvf7ZJjMTgEfdqN3C) | [Alberto Barros](https://open.spotify.com/artist/33ZuRLa8CHXZVPJXdQCcul) | [Lo Mejor de Alberto Barros, Vol\. 2](https://open.spotify.com/album/6VdyZL32AcIh6cpeZNJOuQ) | 4:54 |
 | 12 | [Vivir Sin Ella \(feat\. Tito Nieves, Luis Enrique & Eddie Santiago\) \- En Vivo desde Puerto Rico](https://open.spotify.com/track/6AahARlIuyeOb4cyK3AjHe) | [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1), [Tito Nieves](https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m), [Luis Enrique](https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI), [Eddie Santiago](https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I) | [40..\. y Contando \(En Vivo Desde Puerto Rico\)](https://open.spotify.com/album/1oftR2h20tzZjMEiesBPJp) | 7:48 |
 | 13 | [Nuestro Sueño](https://open.spotify.com/track/7aXsYQkDCl9aWaTmwR5rrd) | [Tito Gomez](https://open.spotify.com/artist/4zq1okwemKSJbZFDQrp7f2) | [Un Legado Musical \- Lo Nuevo y Lo Mejor](https://open.spotify.com/album/0VVjPqvFy9Nw816QCFNSbe) | 5:22 |
 | 14 | [Aparentemente \- En Vivo](https://open.spotify.com/track/07gAN8AX9sxHolRg9MtFqW) | [Tony Vega](https://open.spotify.com/artist/3Yg61bt7pZYX1bbMXEj8oY) | [En Concierto](https://open.spotify.com/album/3Gdp5KnCKrIDAfbgvM7N2b) | 7:29 |
-| 15 | [La Cita](https://open.spotify.com/track/6OEyQCvf7ZJjMTgEfdqN3C) | [Alberto Barros](https://open.spotify.com/artist/33ZuRLa8CHXZVPJXdQCcul) | [Lo Mejor de Alberto Barros, Vol\. 2](https://open.spotify.com/album/6VdyZL32AcIh6cpeZNJOuQ) | 4:54 |
+| 15 | [Casi Te Envidio \- Live Version](https://open.spotify.com/track/351z8ABoWoJliwcM87Ow15) | [Andy Montañez](https://open.spotify.com/artist/6RMWFexOHVj5ctezneQH5v) | [Sergio George Presents Salsa Giants \(Live\)](https://open.spotify.com/album/7EpsK00BLXW9BuoLmWY0Io) | 4:37 |
 | 16 | [De Mi Enamórate \- Live Version](https://open.spotify.com/track/6U5U7lmwo7oP4eQ8ro3V7q) | [Tito Nieves](https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m) | [Sergio George Presents Salsa Giants \(Live\)](https://open.spotify.com/album/7EpsK00BLXW9BuoLmWY0Io) | 4:30 |
 | 17 | [Salsa Caliente del Japón \- Live Version](https://open.spotify.com/track/5p7HPyHbMdOV7ytBzS9J2r) | [Orquesta De La Luz](https://open.spotify.com/artist/4UHqyF418ynCEjB7fdRhLm) | [Sergio George Presents Salsa Giants \(Live\)](https://open.spotify.com/album/7EpsK00BLXW9BuoLmWY0Io) | 5:52 |
 | 18 | [Medley: Amiga/Mi Media Mitad/Luna Negra \- En Vivo](https://open.spotify.com/track/0HIPtOZKPk6796txUKwD0D) | [Rey Ruiz](https://open.spotify.com/artist/1S0uvW1rgvtkNGma9su3fJ) | [15 Años \(En Vivo\)](https://open.spotify.com/album/0UbdOBtZ1w4PoXEoLUAyMs) | 7:20 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSgTTUXeVFiG.md) - [plain]
 | 49 | [Tengo Ganas \- Live at MSG Version](https://open.spotify.com/track/2oPozWeqp6qGl3mWK2I62C) | [Víctor Manuelle](https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2) | [Live At Madison Square Garden](https://open.spotify.com/album/73lQS6xaOyVGEoVCmcDWcQ) | 4:35 |
 | 50 | [Detalles \- Live](https://open.spotify.com/track/65lf9GOGo5pjHUqImIGwPv) | [Oscar D'León](https://open.spotify.com/artist/1c84wItoiAe1pEbpJMqUmQ), [Sergio Vargas](https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs) | [Lo Mejor De Celia Cruz & Oscar D´León En Concierto](https://open.spotify.com/album/7bLj1JszeG6xZ2iLmc9vpX) | 4:41 |
 
-Snapshot ID: `MCw4YTU5OTE3N2Q3MTg1MDllYWU5ZjM3YTgyNmQyYzNiYzkyNmU5NmQw`
+Snapshot ID: `MCxjYWUwM2Q2ZTg2ZTVkMjgxN2RhMGNjN2FlZmMwOGI3MmI5YjYyZmRk`

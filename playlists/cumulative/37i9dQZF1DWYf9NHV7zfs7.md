@@ -4,7 +4,7 @@
 
 > y nada más que pop ✨✨✨<br/>📷 Miranda!
 
-168 songs - 9 hr 16 min
+169 songs - 9 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -150,10 +150,11 @@
 | [Summer of Love \(Shawn Mendes & Tainy\)](https://open.spotify.com/track/0z8hI3OPS8ADPWtoCjjLl6) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr), [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB) | [Summer Of Love](https://open.spotify.com/album/4nProAxFavzKkbaRQ2Otyk) | 3:04 | 2023-07-14 | 2023-10-24 |
 | [Tacones Rojos](https://open.spotify.com/track/0Be7sopyKMv8Y8npsUkax2) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [Tacones Rojos](https://open.spotify.com/album/4mdWMx4VouAqsIqgLt3R6S) | 3:09 | 2023-07-14 | 2023-10-24 |
 | [Tarde \(feat\. Malena Villa\)](https://open.spotify.com/track/6WqX4T9GsccD5j64OOGPnI) | [Franco Rizzaro](https://open.spotify.com/artist/1QLXQU95X4LRBK4VNTUAQB), [Malena Villa](https://open.spotify.com/artist/0RlibgJa8rtPvVn415J6WN) | [Tarde \(feat\. Malena Villa\)](https://open.spotify.com/album/2Q7SYjBnXAqOvfXNrTLv28) | 2:33 | 2023-11-10 |  |
+| [Tarde o Temprano](https://open.spotify.com/track/7CJbGTWfMlNYkhk2MgBfde) | [El Zar](https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi) | [Tarde o Temprano](https://open.spotify.com/album/5MVlQJ6WnmXjzje3ruMLvS) | 3:33 | 2023-12-01 |  |
 | [Te Daría](https://open.spotify.com/track/101Lk3kCjDQVt2tns7xbEr) | [Emmanuel Horvilleur](https://open.spotify.com/artist/3Pc0Gebx1aAAJlZh3zysmI) | [Aqua di Emma](https://open.spotify.com/album/5iRgxoxtpaeUAlhY9r7CoU) | 2:42 | 2023-10-23 |  |
 | [Te Espero](https://open.spotify.com/track/46GsFW8AFIvi8TUDlYRlXR) | [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Te Espero](https://open.spotify.com/album/6vBJJJEUCqmzaBnzwtRgPK) | 4:06 | 2023-07-14 | 2023-10-24 |
 | [Te Mentiría Remix](https://open.spotify.com/track/1txrFHh4XUU3Kp8HcD2TFW) | [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk), [Rusherking](https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ) | [Te Mentiría Remix](https://open.spotify.com/album/750Blgh3jZlXqAep5wlH8K) | 2:52 | 2023-07-14 | 2023-10-24 |
-| [Te odio](https://open.spotify.com/track/1csfEev85ozpIotuiYixPe) | [Malena Villa](https://open.spotify.com/artist/0RlibgJa8rtPvVn415J6WN), [Xavibo](https://open.spotify.com/artist/3v2sYzsuZVd0gAhMWgl9I7) | [Pensamientos](https://open.spotify.com/album/6MnIQVOhKjOkbid83IEFz6) | 3:33 | 2023-10-23 |  |
+| [Te odio](https://open.spotify.com/track/1csfEev85ozpIotuiYixPe) | [Malena Villa](https://open.spotify.com/artist/0RlibgJa8rtPvVn415J6WN), [Xavibo](https://open.spotify.com/artist/3v2sYzsuZVd0gAhMWgl9I7) | [Pensamientos](https://open.spotify.com/album/6MnIQVOhKjOkbid83IEFz6) | 3:33 | 2023-10-23 | 2023-12-03 |
 | [Te Vas](https://open.spotify.com/track/4PWsb8BokVShAlA3C2o77e) | [Rayos Láser](https://open.spotify.com/artist/3WGilHlQrv83h1CbF18BEs) | [Te Vas](https://open.spotify.com/album/3tr4SE2fnqTKJbMu6sqv4d) | 2:38 | 2023-11-17 |  |
 | [THATS WHAT I WANT](https://open.spotify.com/track/0e8nrvls4Qqv5Rfa2UhqmO) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [MONTERO](https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR) | 2:23 | 2023-07-14 | 2023-10-24 |
 | [Tiroteo \- Remix](https://open.spotify.com/track/4OwhwvKESFtuu06dTgct7i) | [Marc Seguí](https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Pol Granch](https://open.spotify.com/artist/1aMt4A5jrQHxDYyC7rXgV0) | [Tiroteo \(Remix\)](https://open.spotify.com/album/2Ke07jWpOWaNVYpNMmXt7C) | 5:21 | 2023-07-14 | 2023-10-24 |

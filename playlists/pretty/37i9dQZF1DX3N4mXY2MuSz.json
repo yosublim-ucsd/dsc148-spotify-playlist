@@ -1,12 +1,12 @@
 {
   "description": "Holiday classics from your favourite punks. ",
-  "num_followers": 51360,
+  "num_followers": 51999,
   "original_name": "Punk Christmas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNGU4NzcyYTI3ZTQ3MDcwZWRiNzRlZmRiZDIwZTViNTMyMWJkNmZi",
+  "snapshot_id": "MCxmOTM0MTIwZGFiMTVhYjM4NTdjYmJkZGY2ZGU3OGY1YTI4NGE3ZDc5",
   "tracks": [
     {
       "added_at": "2023-11-18 13:41:26",
@@ -331,18 +331,18 @@
     {
       "added_at": "2023-11-18 13:41:26",
       "album": {
-        "name": "Christmas Every Day",
-        "url": "https://open.spotify.com/album/4ViPUv1NUYHuBpfNX3gkVL"
+        "name": "Christmas With Weezer",
+        "url": "https://open.spotify.com/album/0CxHijFYwiAVHCGmwN0hAq"
       },
       "artists": [
         {
-          "name": "Simple Plan",
-          "url": "https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ"
+          "name": "Weezer",
+          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
         }
       ],
-      "duration_ms": 226019,
-      "name": "Christmas Every Day",
-      "url": "https://open.spotify.com/track/1VFXTsoR3uHlu9tBAAlElO"
+      "duration_ms": 124653,
+      "name": "O Come All Ye Faithful",
+      "url": "https://open.spotify.com/track/7dM5NHRKrNUCDJQbn9KsGS"
     },
     {
       "added_at": "2023-11-18 13:41:26",
@@ -363,18 +363,18 @@
     {
       "added_at": "2023-11-18 13:41:26",
       "album": {
-        "name": "Christmas With Weezer",
-        "url": "https://open.spotify.com/album/0CxHijFYwiAVHCGmwN0hAq"
+        "name": "Christmas Every Day",
+        "url": "https://open.spotify.com/album/4ViPUv1NUYHuBpfNX3gkVL"
       },
       "artists": [
         {
-          "name": "Weezer",
-          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
+          "name": "Simple Plan",
+          "url": "https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ"
         }
       ],
-      "duration_ms": 124653,
-      "name": "O Come All Ye Faithful",
-      "url": "https://open.spotify.com/track/7dM5NHRKrNUCDJQbn9KsGS"
+      "duration_ms": 226019,
+      "name": "Christmas Every Day",
+      "url": "https://open.spotify.com/track/1VFXTsoR3uHlu9tBAAlElO"
     },
     {
       "added_at": "2023-11-18 13:41:26",
@@ -391,22 +391,6 @@
       "duration_ms": 223933,
       "name": "Fool's Holiday",
       "url": "https://open.spotify.com/track/3s44CRFEl7bbZcYoervR3L"
-    },
-    {
-      "added_at": "2023-11-18 13:41:26",
-      "album": {
-        "name": "Warning",
-        "url": "https://open.spotify.com/album/3ifIxGNsG1XmLdoanRRIWB"
-      },
-      "artists": [
-        {
-          "name": "Green Day",
-          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
-        }
-      ],
-      "duration_ms": 215293,
-      "name": "Deadbeat Holiday",
-      "url": "https://open.spotify.com/track/02COSjkOwyoMNW30Tge9Gu"
     },
     {
       "added_at": "2023-11-18 13:41:26",
@@ -443,18 +427,18 @@
     {
       "added_at": "2023-11-18 13:41:26",
       "album": {
-        "name": "Attack Of The Killer B-Sides",
-        "url": "https://open.spotify.com/album/7fd8ive8XSSC9iVlop89AC"
+        "name": "Warning",
+        "url": "https://open.spotify.com/album/3ifIxGNsG1XmLdoanRRIWB"
       },
       "artists": [
         {
-          "name": "A Day To Remember",
-          "url": "https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN"
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
         }
       ],
-      "duration_ms": 222653,
-      "name": "Right Where You Want Me To Be",
-      "url": "https://open.spotify.com/track/58qF66l5z6MuoZiUVcF9zS"
+      "duration_ms": 215293,
+      "name": "Deadbeat Holiday",
+      "url": "https://open.spotify.com/track/02COSjkOwyoMNW30Tge9Gu"
     },
     {
       "added_at": "2023-11-18 13:41:26",
@@ -471,6 +455,22 @@
       "duration_ms": 187355,
       "name": "Christmas (Baby Please Come Home)",
       "url": "https://open.spotify.com/track/3FaUJo1nrRUm51tc4nldkg"
+    },
+    {
+      "added_at": "2023-11-18 13:41:26",
+      "album": {
+        "name": "Christmas Rock",
+        "url": "https://open.spotify.com/album/1aGn5HA8LqUMsGgbZNZGj2"
+      },
+      "artists": [
+        {
+          "name": "Weezer",
+          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
+        }
+      ],
+      "duration_ms": 188031,
+      "name": "The Christmas Song",
+      "url": "https://open.spotify.com/track/3LIvL6OHsGWIdOzLz8sv9c"
     },
     {
       "added_at": "2023-11-18 13:41:26",
@@ -507,18 +507,18 @@
     {
       "added_at": "2023-11-18 13:41:26",
       "album": {
-        "name": "Christmas Rock",
-        "url": "https://open.spotify.com/album/1aGn5HA8LqUMsGgbZNZGj2"
+        "name": "Attack Of The Killer B-Sides",
+        "url": "https://open.spotify.com/album/7fd8ive8XSSC9iVlop89AC"
       },
       "artists": [
         {
-          "name": "Weezer",
-          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
+          "name": "A Day To Remember",
+          "url": "https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN"
         }
       ],
-      "duration_ms": 188031,
-      "name": "The Christmas Song",
-      "url": "https://open.spotify.com/track/3LIvL6OHsGWIdOzLz8sv9c"
+      "duration_ms": 222653,
+      "name": "Right Where You Want Me To Be",
+      "url": "https://open.spotify.com/track/58qF66l5z6MuoZiUVcF9zS"
     },
     {
       "added_at": "2023-11-18 13:41:26",
@@ -567,6 +567,22 @@
       "duration_ms": 242186,
       "name": "The Season's Upon Us",
       "url": "https://open.spotify.com/track/1gSmN84niQf7DZSCCWfOyN"
+    },
+    {
+      "added_at": "2023-11-18 13:41:26",
+      "album": {
+        "name": "Christmas With Weezer",
+        "url": "https://open.spotify.com/album/0CxHijFYwiAVHCGmwN0hAq"
+      },
+      "artists": [
+        {
+          "name": "Weezer",
+          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
+        }
+      ],
+      "duration_ms": 92706,
+      "name": "Hark! The Herald Angels Sing",
+      "url": "https://open.spotify.com/track/6myYlIrIBlKhGxYpRwfh03"
     },
     {
       "added_at": "2023-11-18 13:41:26",
@@ -635,22 +651,6 @@
     {
       "added_at": "2023-11-18 13:41:26",
       "album": {
-        "name": "Christmas With Weezer",
-        "url": "https://open.spotify.com/album/0CxHijFYwiAVHCGmwN0hAq"
-      },
-      "artists": [
-        {
-          "name": "Weezer",
-          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
-        }
-      ],
-      "duration_ms": 92706,
-      "name": "Hark! The Herald Angels Sing",
-      "url": "https://open.spotify.com/track/6myYlIrIBlKhGxYpRwfh03"
-    },
-    {
-      "added_at": "2023-11-18 13:41:26",
-      "album": {
         "name": "Christmas Songs",
         "url": "https://open.spotify.com/album/6C89e7cpRmYu1SSKK3GcwS"
       },
@@ -663,22 +663,6 @@
       "duration_ms": 99573,
       "name": "God Rest Ye Merry Gentlemen",
       "url": "https://open.spotify.com/track/1dlO7CncE79hCspdTO99Fz"
-    },
-    {
-      "added_at": "2023-11-18 13:41:26",
-      "album": {
-        "name": "Proudly Present... A Guide to Love, Loss & Desperation (Special Edition)",
-        "url": "https://open.spotify.com/album/03403404Rwa4suo4nzYyUY"
-      },
-      "artists": [
-        {
-          "name": "The Wombats",
-          "url": "https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB"
-        }
-      ],
-      "duration_ms": 217466,
-      "name": "Is This Christmas? - Radio Edit",
-      "url": "https://open.spotify.com/track/5gWJr20lfpkdmUh9wo7V1W"
     },
     {
       "added_at": "2023-11-18 13:41:26",
@@ -715,6 +699,22 @@
     {
       "added_at": "2023-11-18 13:41:26",
       "album": {
+        "name": "Proudly Present... A Guide to Love, Loss & Desperation (Special Edition)",
+        "url": "https://open.spotify.com/album/03403404Rwa4suo4nzYyUY"
+      },
+      "artists": [
+        {
+          "name": "The Wombats",
+          "url": "https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB"
+        }
+      ],
+      "duration_ms": 217466,
+      "name": "Is This Christmas? - Radio Edit",
+      "url": "https://open.spotify.com/track/5gWJr20lfpkdmUh9wo7V1W"
+    },
+    {
+      "added_at": "2023-11-18 13:41:26",
+      "album": {
         "name": "Punk Goes Christmas",
         "url": "https://open.spotify.com/album/15f1OucbVKhzyfQtnwdWwk"
       },
@@ -743,22 +743,6 @@
       "duration_ms": 163933,
       "name": "Xmas Has Been X'ed",
       "url": "https://open.spotify.com/track/40GMBdqqTwa2A1pGZEfOxO"
-    },
-    {
-      "added_at": "2023-11-18 13:41:26",
-      "album": {
-        "name": "Happy Holidays, You Bastard",
-        "url": "https://open.spotify.com/album/7dUO22BrcLCDAo8PxzL88H"
-      },
-      "artists": [
-        {
-          "name": "Jaden Hossler",
-          "url": "https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF"
-        }
-      ],
-      "duration_ms": 43526,
-      "name": "Happy Holidays, You Bastard",
-      "url": "https://open.spotify.com/track/1JRIspKuyC14rGixc81hEa"
     },
     {
       "added_at": "2023-11-18 13:41:26",
@@ -811,6 +795,22 @@
     {
       "added_at": "2023-11-18 13:41:26",
       "album": {
+        "name": "Happy Holidays, You Bastard",
+        "url": "https://open.spotify.com/album/7dUO22BrcLCDAo8PxzL88H"
+      },
+      "artists": [
+        {
+          "name": "Jaden Hossler",
+          "url": "https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF"
+        }
+      ],
+      "duration_ms": 43526,
+      "name": "Happy Holidays, You Bastard",
+      "url": "https://open.spotify.com/track/1JRIspKuyC14rGixc81hEa"
+    },
+    {
+      "added_at": "2023-11-18 13:41:26",
+      "album": {
         "name": "Punk Goes Christmas",
         "url": "https://open.spotify.com/album/15f1OucbVKhzyfQtnwdWwk"
       },
@@ -827,22 +827,6 @@
     {
       "added_at": "2023-11-18 13:41:26",
       "album": {
-        "name": "I'm With You",
-        "url": "https://open.spotify.com/album/0G32HQiT3RCsdHNGBaP2Xq"
-      },
-      "artists": [
-        {
-          "name": "Mayday Parade",
-          "url": "https://open.spotify.com/artist/3WfJ1OtrWI7RViX9DMyEGy"
-        }
-      ],
-      "duration_ms": 244932,
-      "name": "I'm With You",
-      "url": "https://open.spotify.com/track/4UZLSMZqP8yps8RPpd1zwR"
-    },
-    {
-      "added_at": "2023-11-18 13:41:26",
-      "album": {
         "name": "All I Want For Christmas Is You",
         "url": "https://open.spotify.com/album/2sgvSTSQ2ZxyBeL587NAjT"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 200800,
       "name": "All I Want For Christmas Is You",
       "url": "https://open.spotify.com/track/05w2HWpvqEmyDk882QRYpp"
+    },
+    {
+      "added_at": "2023-11-18 13:41:26",
+      "album": {
+        "name": "I'm With You",
+        "url": "https://open.spotify.com/album/0G32HQiT3RCsdHNGBaP2Xq"
+      },
+      "artists": [
+        {
+          "name": "Mayday Parade",
+          "url": "https://open.spotify.com/artist/3WfJ1OtrWI7RViX9DMyEGy"
+        }
+      ],
+      "duration_ms": 244932,
+      "name": "I'm With You",
+      "url": "https://open.spotify.com/track/4UZLSMZqP8yps8RPpd1zwR"
     },
     {
       "added_at": "2023-11-18 13:41:26",
@@ -907,22 +907,6 @@
     {
       "added_at": "2023-11-18 13:41:26",
       "album": {
-        "name": "Punk Goes Christmas",
-        "url": "https://open.spotify.com/album/15f1OucbVKhzyfQtnwdWwk"
-      },
-      "artists": [
-        {
-          "name": "The Summer Set",
-          "url": "https://open.spotify.com/artist/0pwyD6DhbFWn8uVSz2Fr0w"
-        }
-      ],
-      "duration_ms": 183466,
-      "name": "This Christmas",
-      "url": "https://open.spotify.com/track/7E7UX0xNqCJ6GBfoG1S9iJ"
-    },
-    {
-      "added_at": "2023-11-18 13:41:26",
-      "album": {
         "name": "Horror Xmas",
         "url": "https://open.spotify.com/album/51xCpAiS0IrrmV2t7evgiR"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 132637,
       "name": "You\u2019re a Mean One, Mr. Grinch",
       "url": "https://open.spotify.com/track/385QXeZY8UHFDde2FvFwuS"
+    },
+    {
+      "added_at": "2023-11-18 13:41:26",
+      "album": {
+        "name": "Punk Goes Christmas",
+        "url": "https://open.spotify.com/album/15f1OucbVKhzyfQtnwdWwk"
+      },
+      "artists": [
+        {
+          "name": "The Summer Set",
+          "url": "https://open.spotify.com/artist/0pwyD6DhbFWn8uVSz2Fr0w"
+        }
+      ],
+      "duration_ms": 183466,
+      "name": "This Christmas",
+      "url": "https://open.spotify.com/track/7E7UX0xNqCJ6GBfoG1S9iJ"
     },
     {
       "added_at": "2023-11-18 13:41:26",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2023-11-18 13:41:26",
       "album": {
-        "name": "Played In Space: The Best of Something Corporate",
-        "url": "https://open.spotify.com/album/0xmgh2wvcRW6jNZDq2YTmR"
-      },
-      "artists": [
-        {
-          "name": "Something Corporate",
-          "url": "https://open.spotify.com/artist/71h7GTahhKcSkQ1ayhTvOD"
-        }
-      ],
-      "duration_ms": 192226,
-      "name": "Forget December",
-      "url": "https://open.spotify.com/track/2BHNw4MANcwKf69MF4LR8z"
-    },
-    {
-      "added_at": "2023-11-18 13:41:26",
-      "album": {
         "name": "Punk Rawk Christmas",
         "url": "https://open.spotify.com/album/04Bn005uXQk5oKUZZovDFq"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 200573,
       "name": "Punk Rawk Christmas",
       "url": "https://open.spotify.com/track/1aWd5MkGpyhqENRiilEWxe"
+    },
+    {
+      "added_at": "2023-11-18 13:41:26",
+      "album": {
+        "name": "Played In Space: The Best of Something Corporate",
+        "url": "https://open.spotify.com/album/0xmgh2wvcRW6jNZDq2YTmR"
+      },
+      "artists": [
+        {
+          "name": "Something Corporate",
+          "url": "https://open.spotify.com/artist/71h7GTahhKcSkQ1ayhTvOD"
+        }
+      ],
+      "duration_ms": 192226,
+      "name": "Forget December",
+      "url": "https://open.spotify.com/track/2BHNw4MANcwKf69MF4LR8z"
     },
     {
       "added_at": "2023-11-18 13:41:26",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2023-11-18 13:41:26",
       "album": {
-        "name": "Santa Baby",
-        "url": "https://open.spotify.com/album/0LIJnUqnGXu85JBSVwioNH"
-      },
-      "artists": [
-        {
-          "name": "Me First and the Gimme Gimmes",
-          "url": "https://open.spotify.com/artist/0cOVRC8EOwDwXrs3JTrRN5"
-        }
-      ],
-      "duration_ms": 158408,
-      "name": "Santa Baby",
-      "url": "https://open.spotify.com/track/2wPMolA9qDw7RvUUy56sx1"
-    },
-    {
-      "added_at": "2023-11-18 13:41:26",
-      "album": {
         "name": "Merry Flippin' Christmas Vol. 1",
         "url": "https://open.spotify.com/album/3Y8kaXAtVFjNucAIA9yLPJ"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 188720,
       "name": "Frosty the Snowman",
       "url": "https://open.spotify.com/track/5MDemOoy0G8IlBKfHWzlIg"
+    },
+    {
+      "added_at": "2023-11-18 13:41:26",
+      "album": {
+        "name": "Santa Baby",
+        "url": "https://open.spotify.com/album/0LIJnUqnGXu85JBSVwioNH"
+      },
+      "artists": [
+        {
+          "name": "Me First and the Gimme Gimmes",
+          "url": "https://open.spotify.com/artist/0cOVRC8EOwDwXrs3JTrRN5"
+        }
+      ],
+      "duration_ms": 158408,
+      "name": "Santa Baby",
+      "url": "https://open.spotify.com/track/2wPMolA9qDw7RvUUy56sx1"
     },
     {
       "added_at": "2023-11-18 13:41:26",
@@ -1115,18 +1115,18 @@
     {
       "added_at": "2023-11-18 13:41:26",
       "album": {
-        "name": "A GC Christmas, Pt. 1",
-        "url": "https://open.spotify.com/album/5lPGIDugl5Q36w6bAqq23N"
+        "name": "Punk Rawk Christmas",
+        "url": "https://open.spotify.com/album/04Bn005uXQk5oKUZZovDFq"
       },
       "artists": [
         {
-          "name": "Good Charlotte",
-          "url": "https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS"
+          "name": "MxPx",
+          "url": "https://open.spotify.com/artist/1cSpfa4Un4NCOzeOKgGtG9"
         }
       ],
-      "duration_ms": 181991,
-      "name": "Christmas by the Phone",
-      "url": "https://open.spotify.com/track/2QnFQnvjcdzFra2fxf8AlP"
+      "duration_ms": 177666,
+      "name": "Christmas Day",
+      "url": "https://open.spotify.com/track/52fJLPcouUhbUYY8YPjPMg"
     },
     {
       "added_at": "2023-11-18 13:41:26",
@@ -1147,34 +1147,18 @@
     {
       "added_at": "2023-11-18 13:41:26",
       "album": {
-        "name": "Punk Rawk Christmas",
-        "url": "https://open.spotify.com/album/04Bn005uXQk5oKUZZovDFq"
+        "name": "A GC Christmas, Pt. 1",
+        "url": "https://open.spotify.com/album/5lPGIDugl5Q36w6bAqq23N"
       },
       "artists": [
         {
-          "name": "MxPx",
-          "url": "https://open.spotify.com/artist/1cSpfa4Un4NCOzeOKgGtG9"
+          "name": "Good Charlotte",
+          "url": "https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS"
         }
       ],
-      "duration_ms": 177666,
-      "name": "Christmas Day",
-      "url": "https://open.spotify.com/track/52fJLPcouUhbUYY8YPjPMg"
-    },
-    {
-      "added_at": "2023-11-18 13:41:26",
-      "album": {
-        "name": "I Don't Want to Grow Up",
-        "url": "https://open.spotify.com/album/7pjDCKTmSaK6t1vRA6e0wA"
-      },
-      "artists": [
-        {
-          "name": "Descendents",
-          "url": "https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5"
-        }
-      ],
-      "duration_ms": 159266,
-      "name": "Christmas Vacation",
-      "url": "https://open.spotify.com/track/4RYoD9TS5gUbYsTTsHZuZx"
+      "duration_ms": 181991,
+      "name": "Christmas by the Phone",
+      "url": "https://open.spotify.com/track/2QnFQnvjcdzFra2fxf8AlP"
     },
     {
       "added_at": "2023-11-18 13:41:26",
@@ -1195,18 +1179,34 @@
     {
       "added_at": "2023-11-18 13:41:26",
       "album": {
-        "name": "Tis The Season To Be Fearless",
-        "url": "https://open.spotify.com/album/7LEZCqGn4YQ5NsO1pj2E6a"
+        "name": "I Don't Want to Grow Up",
+        "url": "https://open.spotify.com/album/7pjDCKTmSaK6t1vRA6e0wA"
       },
       "artists": [
         {
-          "name": "Artist Vs Poet",
-          "url": "https://open.spotify.com/artist/3kYFawNQVZ00FQbgs4rVBe"
+          "name": "Descendents",
+          "url": "https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5"
         }
       ],
-      "duration_ms": 238422,
-      "name": "Christmas With You",
-      "url": "https://open.spotify.com/track/0enn0hF3toElN9rxQVMo4Y"
+      "duration_ms": 159266,
+      "name": "Christmas Vacation",
+      "url": "https://open.spotify.com/track/4RYoD9TS5gUbYsTTsHZuZx"
+    },
+    {
+      "added_at": "2023-11-18 13:41:26",
+      "album": {
+        "name": "Weird Tales of The Ramones (1976 - 1996)",
+        "url": "https://open.spotify.com/album/5A1GAiPFd6U608KCDjacpk"
+      },
+      "artists": [
+        {
+          "name": "Ramones",
+          "url": "https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm"
+        }
+      ],
+      "duration_ms": 124066,
+      "name": "Merry Christmas (I Don't Wanna Fight Tonight) - 2002 Remaster",
+      "url": "https://open.spotify.com/track/2T3tEaSThdC9J9mnvxJWoZ"
     },
     {
       "added_at": "2023-11-18 13:41:26",
@@ -1227,18 +1227,18 @@
     {
       "added_at": "2023-11-18 13:41:26",
       "album": {
-        "name": "Weird Tales of The Ramones (1976 - 1996)",
-        "url": "https://open.spotify.com/album/5A1GAiPFd6U608KCDjacpk"
+        "name": "Tis The Season To Be Fearless",
+        "url": "https://open.spotify.com/album/7LEZCqGn4YQ5NsO1pj2E6a"
       },
       "artists": [
         {
-          "name": "Ramones",
-          "url": "https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm"
+          "name": "Artist Vs Poet",
+          "url": "https://open.spotify.com/artist/3kYFawNQVZ00FQbgs4rVBe"
         }
       ],
-      "duration_ms": 124066,
-      "name": "Merry Christmas (I Don't Wanna Fight Tonight) - 2002 Remaster",
-      "url": "https://open.spotify.com/track/2T3tEaSThdC9J9mnvxJWoZ"
+      "duration_ms": 238422,
+      "name": "Christmas With You",
+      "url": "https://open.spotify.com/track/0enn0hF3toElN9rxQVMo4Y"
     },
     {
       "added_at": "2023-11-18 13:41:26",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2023-11-18 13:41:26",
       "album": {
-        "name": "X Christmas",
-        "url": "https://open.spotify.com/album/7HA4NFJAIaS5BOuaUfMAcR"
-      },
-      "artists": [
-        {
-          "name": "FM Static",
-          "url": "https://open.spotify.com/artist/043r4OwwUAYREkBLK5jAiV"
-        }
-      ],
-      "duration_ms": 255400,
-      "name": "Christmas Shoes",
-      "url": "https://open.spotify.com/track/1jdO5CFR3dhv3OKoALywkl"
-    },
-    {
-      "added_at": "2023-11-18 13:41:26",
-      "album": {
         "name": "Happy Skalidays",
         "url": "https://open.spotify.com/album/3vDjcjCn0PmS5KNRYfw72x"
       },
@@ -1343,18 +1327,18 @@
     {
       "added_at": "2023-11-18 13:41:26",
       "album": {
-        "name": "Sleeping on Trash: A Collection of Songs Recorded 2005-2010",
-        "url": "https://open.spotify.com/album/1aLWn5986dV6gSNecZkTSd"
+        "name": "X Christmas",
+        "url": "https://open.spotify.com/album/7HA4NFJAIaS5BOuaUfMAcR"
       },
       "artists": [
         {
-          "name": "The Wonder Years",
-          "url": "https://open.spotify.com/artist/0nq64XZMWV1s7XHXIkdH7K"
+          "name": "FM Static",
+          "url": "https://open.spotify.com/artist/043r4OwwUAYREkBLK5jAiV"
         }
       ],
-      "duration_ms": 156453,
-      "name": "Christmas at 22",
-      "url": "https://open.spotify.com/track/1ecQqTY7y6QMzKMJcMXeXQ"
+      "duration_ms": 255400,
+      "name": "Christmas Shoes",
+      "url": "https://open.spotify.com/track/1jdO5CFR3dhv3OKoALywkl"
     },
     {
       "added_at": "2023-11-18 13:41:26",
@@ -1375,6 +1359,22 @@
       "duration_ms": 234893,
       "name": "Things I Want",
       "url": "https://open.spotify.com/track/7gfa6TiFiesmwQjUbIzv8c"
+    },
+    {
+      "added_at": "2023-11-18 13:41:26",
+      "album": {
+        "name": "Sleeping on Trash: A Collection of Songs Recorded 2005-2010",
+        "url": "https://open.spotify.com/album/1aLWn5986dV6gSNecZkTSd"
+      },
+      "artists": [
+        {
+          "name": "The Wonder Years",
+          "url": "https://open.spotify.com/artist/0nq64XZMWV1s7XHXIkdH7K"
+        }
+      ],
+      "duration_ms": 156453,
+      "name": "Christmas at 22",
+      "url": "https://open.spotify.com/track/1ecQqTY7y6QMzKMJcMXeXQ"
     },
     {
       "added_at": "2023-11-18 13:41:26",
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2023-11-18 13:41:26",
       "album": {
-        "name": "A More Angry Than Naughty Kamakazi Christmas",
-        "url": "https://open.spotify.com/album/7DePbGU4XWeHyq2UDG03Hk"
-      },
-      "artists": [
-        {
-          "name": "Kamakazi",
-          "url": "https://open.spotify.com/artist/1W2uHVFphPSyLk7zuL5Y8J"
-        }
-      ],
-      "duration_ms": 52250,
-      "name": "It's Beginning to Look a Lot Like Shitmas",
-      "url": "https://open.spotify.com/track/19eHS0T2UnD8ArOUwMKN4d"
-    },
-    {
-      "added_at": "2023-11-18 13:41:26",
-      "album": {
         "name": "Happy Skalidays",
         "url": "https://open.spotify.com/album/3vDjcjCn0PmS5KNRYfw72x"
       },
@@ -1455,6 +1439,22 @@
       "duration_ms": 107063,
       "name": "Carol Of The Beers",
       "url": "https://open.spotify.com/track/4G2pd7tgadvUSPLlQqOBzN"
+    },
+    {
+      "added_at": "2023-11-18 13:41:26",
+      "album": {
+        "name": "A More Angry Than Naughty Kamakazi Christmas",
+        "url": "https://open.spotify.com/album/7DePbGU4XWeHyq2UDG03Hk"
+      },
+      "artists": [
+        {
+          "name": "Kamakazi",
+          "url": "https://open.spotify.com/artist/1W2uHVFphPSyLk7zuL5Y8J"
+        }
+      ],
+      "duration_ms": 52250,
+      "name": "It's Beginning to Look a Lot Like Shitmas",
+      "url": "https://open.spotify.com/track/19eHS0T2UnD8ArOUwMKN4d"
     },
     {
       "added_at": "2023-11-18 13:41:26",
@@ -1507,22 +1507,6 @@
     {
       "added_at": "2023-11-18 13:41:26",
       "album": {
-        "name": "Don't Worry About Me",
-        "url": "https://open.spotify.com/album/3hltYmpx3K2z2C2nlRLv7N"
-      },
-      "artists": [
-        {
-          "name": "Joey Ramone",
-          "url": "https://open.spotify.com/artist/7dxF7y4hlGFazdArMsxbEx"
-        }
-      ],
-      "duration_ms": 122093,
-      "name": "Spirit In My House",
-      "url": "https://open.spotify.com/track/5S87B7MXk64ZQWCcY0rNUO"
-    },
-    {
-      "added_at": "2023-11-18 13:41:26",
-      "album": {
         "name": "Merry Flippin' Christmas Vol. 1",
         "url": "https://open.spotify.com/album/3Y8kaXAtVFjNucAIA9yLPJ"
       },
@@ -1535,6 +1519,22 @@
       "duration_ms": 217573,
       "name": "Feliz Navidad",
       "url": "https://open.spotify.com/track/13NDr2rDKQqRu9NeWekDum"
+    },
+    {
+      "added_at": "2023-11-18 13:41:26",
+      "album": {
+        "name": "Don't Worry About Me",
+        "url": "https://open.spotify.com/album/3hltYmpx3K2z2C2nlRLv7N"
+      },
+      "artists": [
+        {
+          "name": "Joey Ramone",
+          "url": "https://open.spotify.com/artist/7dxF7y4hlGFazdArMsxbEx"
+        }
+      ],
+      "duration_ms": 122093,
+      "name": "Spirit In My House",
+      "url": "https://open.spotify.com/track/5S87B7MXk64ZQWCcY0rNUO"
     },
     {
       "added_at": "2023-11-18 13:41:26",
@@ -1571,6 +1571,26 @@
     {
       "added_at": "2023-11-18 13:41:26",
       "album": {
+        "name": "Shatner Claus",
+        "url": "https://open.spotify.com/album/3qIFrZLHvYdd2jZcJaeRwd"
+      },
+      "artists": [
+        {
+          "name": "William Shatner",
+          "url": "https://open.spotify.com/artist/2dPqql8xbby3nWuf98mAza"
+        },
+        {
+          "name": "Henry Rollins",
+          "url": "https://open.spotify.com/artist/6Jm8KViMNCuYjzrO1hJkcT"
+        }
+      ],
+      "duration_ms": 199110,
+      "name": "Jingle Bells - Punk Rock Version",
+      "url": "https://open.spotify.com/track/7BbKJ8uPUCMnFr5bdskJyO"
+    },
+    {
+      "added_at": "2023-11-18 13:41:26",
+      "album": {
         "name": "Tis The Season To Be Fearless",
         "url": "https://open.spotify.com/album/7LEZCqGn4YQ5NsO1pj2E6a"
       },
@@ -1599,22 +1619,6 @@
       "duration_ms": 249157,
       "name": "Christmas Time Again",
       "url": "https://open.spotify.com/track/6ZBiqkomTsOLCAdblXZYH1"
-    },
-    {
-      "added_at": "2023-11-18 13:41:26",
-      "album": {
-        "name": "It's Better to Give Than Receive",
-        "url": "https://open.spotify.com/album/4cT4OTGawl9xdboA8qWOhq"
-      },
-      "artists": [
-        {
-          "name": "Traitors!",
-          "url": "https://open.spotify.com/artist/5bZenVzKn4ZXbPWRNL7YAy"
-        }
-      ],
-      "duration_ms": 158552,
-      "name": "Lonely This Christmas",
-      "url": "https://open.spotify.com/track/2Wln4Uit6bhUFT80kFmvFU"
     }
   ],
   "unique_name": "Punk Christmas",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX66m4icL86Ru.md) - [plain]
 
 > Bad b\*\*\*\* energy\. Be blessed, be spicy\. Cover: Doja Cat
 
-[Spotify](https://open.spotify.com/user/spotify) - 864,519 likes - 77 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 864,712 likes - 77 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX66m4icL86Ru.md) - [plain]
 | 27 | [Wine Pon You \(feat\. Konshens\)](https://open.spotify.com/track/2s4AcE9n80mSHl87lp4gIm) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [Konshens](https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW) | [Amala](https://open.spotify.com/album/54tInqO543zy0Y5F2VsUQI) | 3:39 |
 | 28 | [Me & U](https://open.spotify.com/track/7k6IzwMGpxnRghE7YosnXT) | [Cassie](https://open.spotify.com/artist/27FGXRNruFoOdf1vP8dqcH) | [Cassie \(U.S\. Version\)](https://open.spotify.com/album/0j1qzjaJmsF1FkcICf3hRu) | 3:12 |
 | 29 | [Reggaeton Champagne](https://open.spotify.com/track/7yIIeKUxTpn36X6CFJhgEi) | [Bellakath](https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr), [Dani Flow](https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ) | [Kittyponeo](https://open.spotify.com/album/2u2IVr3kVR13lr517rvcjM) | 2:39 |
-| 30 | [Wassup Gway](https://open.spotify.com/track/0CtuA9sDnOAU3NM8bHIMyu) | [FamousSally & YB](https://open.spotify.com/artist/58r9bevVFGCcTpNRT5Ha85) | [Wassup Gway](https://open.spotify.com/album/0lBc6xsaXgtiFrcy103fEY) | 2:24 |
+| 30 | [Wassup Gway](https://open.spotify.com/track/0CtuA9sDnOAU3NM8bHIMyu) | [Famous Sally & YB](https://open.spotify.com/artist/58r9bevVFGCcTpNRT5Ha85) | [Wassup Gway](https://open.spotify.com/album/0lBc6xsaXgtiFrcy103fEY) | 2:24 |
 | 31 | [AMERICA HAS A PROBLEM](https://open.spotify.com/track/2XMAWynSTIst5KmLSv0Npf) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [RENAISSANCE](https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb) | 3:18 |
 | 32 | [Paint The Town Red](https://open.spotify.com/track/2IGMVunIBsBLtEQyoI1Mu7) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Paint The Town Red](https://open.spotify.com/album/54dZypaXHAIDzBe9ujAZ63) | 3:51 |
 | 33 | [Moonlight](https://open.spotify.com/track/2i2gDpKKWjvnRTOZRhaPh2) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Moonlight](https://open.spotify.com/album/1y8Yw0NDcP2qxbZufIXt7u) | 3:07 |
@@ -86,4 +86,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX66m4icL86Ru.md) - [plain]
 | 76 | [Her](https://open.spotify.com/track/5hHvFrMnwic82WwRLr4WY0) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Traumazine](https://open.spotify.com/album/4YP0h2KGDb20eJuStnBvim) | 2:17 |
 | 77 | [Money Come \(Remix\)](https://open.spotify.com/track/2tqwKHgPswTefQEFX1D53j) | [Iggy Azalea](https://open.spotify.com/artist/5yG7ZAZafVaAlMTeBybKAL), [Ivorian Doll](https://open.spotify.com/artist/5zWJtrglcTFohMajO2qrgd), [Big Boss Vette](https://open.spotify.com/artist/6fKiutMtRIcxi4zEau0BuI) | [Money Come \(Remix\) \[feat\. Ivorian Doll & Big Boss Vette\]](https://open.spotify.com/album/4OXrnvtWDjyAw4dY1KilOv) | 3:33 |
 
-Snapshot ID: `MCwwMDNjMTA1MTM3ODI4NzI1NDVjMDcxNjExMGRiN2JiNmY5NmUwM2Y0`
+Snapshot ID: `MCxlMTVmYjNlNmIyOGJjMDEwMDRjNjczYTNiYzkyMWJiYjIwMjFjNmVl`

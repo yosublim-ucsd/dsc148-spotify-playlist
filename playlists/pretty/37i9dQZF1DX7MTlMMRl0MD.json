@@ -1,12 +1,12 @@
 {
   "description": "Tu lista favorita de Bachata \u2764\ufe0f Cover: Sof\u00eda Reyes & Be\u00e9le",
-  "num_followers": 1905791,
+  "num_followers": 1905864,
   "original_name": "Bachata Lovers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3M2I0YmVlZjQ4ODJkMDU5ZmQ3NDkxY2Y4MmM1YjNlN2JmMTM2ZDRj",
+  "snapshot_id": "MCw5ODQ5ZjUwMmYyMWFlOWYwZTgwZGY4MGJiNzAxOWEyMzE0MzI5M2Nj",
   "tracks": [
     {
       "added_at": "2023-11-30 00:51:04",
@@ -1067,6 +1067,22 @@
     {
       "added_at": "2023-11-30 00:51:04",
       "album": {
+        "name": "LA FALTA QUE ME HACES (Bachata Version)",
+        "url": "https://open.spotify.com/album/0bBc5FTXAPIWwKWzX0oy6x"
+      },
+      "artists": [
+        {
+          "name": "NATTI NATASHA",
+          "url": "https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7"
+        }
+      ],
+      "duration_ms": 171391,
+      "name": "LA FALTA QUE ME HACES - Bachata Version",
+      "url": "https://open.spotify.com/track/2L7Fd4XIh0uxgqYoFt1pT3"
+    },
+    {
+      "added_at": "2023-11-30 00:51:04",
+      "album": {
         "name": "DLUX",
         "url": "https://open.spotify.com/album/5pAgLx8XeBoItzjT81csbJ"
       },
@@ -1083,22 +1099,6 @@
       "duration_ms": 175637,
       "name": "MI HOGAR (with maye)",
       "url": "https://open.spotify.com/track/19MC63Kwcy5eETHclYnXhe"
-    },
-    {
-      "added_at": "2023-11-30 00:51:04",
-      "album": {
-        "name": "LA FALTA QUE ME HACES (Bachata Version)",
-        "url": "https://open.spotify.com/album/0bBc5FTXAPIWwKWzX0oy6x"
-      },
-      "artists": [
-        {
-          "name": "NATTI NATASHA",
-          "url": "https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7"
-        }
-      ],
-      "duration_ms": 171391,
-      "name": "LA FALTA QUE ME HACES - Bachata Version",
-      "url": "https://open.spotify.com/track/2L7Fd4XIh0uxgqYoFt1pT3"
     },
     {
       "added_at": "2023-11-30 00:51:04",
@@ -1343,6 +1343,22 @@
     {
       "added_at": "2023-11-30 00:51:04",
       "album": {
+        "name": "Dime C\u00f3mo Se Siente",
+        "url": "https://open.spotify.com/album/4wMRyvWczYmzYRBU6cacKJ"
+      },
+      "artists": [
+        {
+          "name": "Johnny Sky",
+          "url": "https://open.spotify.com/artist/3EVZsBWq5KqdtS6eVNHN8d"
+        }
+      ],
+      "duration_ms": 160163,
+      "name": "Dime C\u00f3mo Se Siente",
+      "url": "https://open.spotify.com/track/3EJ6TrlfKKiP1PMZhjuT2r"
+    },
+    {
+      "added_at": "2023-11-30 00:51:04",
+      "album": {
         "name": "Noche Primavera",
         "url": "https://open.spotify.com/album/6lI8JL80iNP4A8qzlGNqTG"
       },
@@ -1363,22 +1379,6 @@
       "duration_ms": 199277,
       "name": "Noche Primavera",
       "url": "https://open.spotify.com/track/2k27NZDlbYUf2Dfh7C2CQg"
-    },
-    {
-      "added_at": "2023-11-30 00:51:04",
-      "album": {
-        "name": "Sin Tu Amor",
-        "url": "https://open.spotify.com/album/6yjjKUSBZeIOfJCuSHmPla"
-      },
-      "artists": [
-        {
-          "name": "Johnny Sky",
-          "url": "https://open.spotify.com/artist/3EVZsBWq5KqdtS6eVNHN8d"
-        }
-      ],
-      "duration_ms": 161835,
-      "name": "Sin Tu Amor",
-      "url": "https://open.spotify.com/track/3fWAe3mBB6PfCMGocEiwbl"
     },
     {
       "added_at": "2023-11-30 00:51:04",
@@ -1447,18 +1447,18 @@
     {
       "added_at": "2023-11-30 00:51:04",
       "album": {
-        "name": "La Bachata",
-        "url": "https://open.spotify.com/album/51sUzxktVYZSJdt34KR2e9"
+        "name": "Sin Tu Amor",
+        "url": "https://open.spotify.com/album/6yjjKUSBZeIOfJCuSHmPla"
       },
       "artists": [
         {
-          "name": "Lenier",
-          "url": "https://open.spotify.com/artist/4zWFlKgU4j7ryWg5nsOmU6"
+          "name": "Johnny Sky",
+          "url": "https://open.spotify.com/artist/3EVZsBWq5KqdtS6eVNHN8d"
         }
       ],
-      "duration_ms": 184746,
-      "name": "La Bachata",
-      "url": "https://open.spotify.com/track/6hcK1eyxzMGoYbdO8predv"
+      "duration_ms": 161835,
+      "name": "Sin Tu Amor",
+      "url": "https://open.spotify.com/track/3fWAe3mBB6PfCMGocEiwbl"
     },
     {
       "added_at": "2023-11-30 00:51:04",
@@ -1479,18 +1479,18 @@
     {
       "added_at": "2023-11-30 00:51:04",
       "album": {
-        "name": "Dime C\u00f3mo Se Siente",
-        "url": "https://open.spotify.com/album/4wMRyvWczYmzYRBU6cacKJ"
+        "name": "La Bachata",
+        "url": "https://open.spotify.com/album/51sUzxktVYZSJdt34KR2e9"
       },
       "artists": [
         {
-          "name": "Johnny Sky",
-          "url": "https://open.spotify.com/artist/3EVZsBWq5KqdtS6eVNHN8d"
+          "name": "Lenier",
+          "url": "https://open.spotify.com/artist/4zWFlKgU4j7ryWg5nsOmU6"
         }
       ],
-      "duration_ms": 160163,
-      "name": "Dime C\u00f3mo Se Siente",
-      "url": "https://open.spotify.com/track/3EJ6TrlfKKiP1PMZhjuT2r"
+      "duration_ms": 184746,
+      "name": "La Bachata",
+      "url": "https://open.spotify.com/track/6hcK1eyxzMGoYbdO8predv"
     },
     {
       "added_at": "2023-11-30 00:51:04",
@@ -1555,6 +1555,22 @@
       "duration_ms": 193333,
       "name": "Perdon",
       "url": "https://open.spotify.com/track/200Xoixz9vIdfvUoB9Lq6I"
+    },
+    {
+      "added_at": "2023-11-30 00:51:04",
+      "album": {
+        "name": "Johnny Sky",
+        "url": "https://open.spotify.com/album/6PVFjEtIIZaK4fj1ACzVoi"
+      },
+      "artists": [
+        {
+          "name": "Johnny Sky",
+          "url": "https://open.spotify.com/artist/3EVZsBWq5KqdtS6eVNHN8d"
+        }
+      ],
+      "duration_ms": 229032,
+      "name": "En Todo Fuiste la Mejor",
+      "url": "https://open.spotify.com/track/3nGuOrT9PqwVYQWamSryIA"
     },
     {
       "added_at": "2023-11-30 00:51:04",
@@ -1639,22 +1655,6 @@
     {
       "added_at": "2023-11-30 00:51:04",
       "album": {
-        "name": "Johnny Sky",
-        "url": "https://open.spotify.com/album/6PVFjEtIIZaK4fj1ACzVoi"
-      },
-      "artists": [
-        {
-          "name": "Johnny Sky",
-          "url": "https://open.spotify.com/artist/3EVZsBWq5KqdtS6eVNHN8d"
-        }
-      ],
-      "duration_ms": 229032,
-      "name": "En Todo Fuiste la Mejor",
-      "url": "https://open.spotify.com/track/3nGuOrT9PqwVYQWamSryIA"
-    },
-    {
-      "added_at": "2023-11-30 00:51:04",
-      "album": {
         "name": "Todav\u00eda Me Amas: Lo Mejor de Aventura",
         "url": "https://open.spotify.com/album/4rncYwFMKLyhdd0yYQH19k"
       },
@@ -1687,22 +1687,6 @@
     {
       "added_at": "2023-11-30 00:51:04",
       "album": {
-        "name": "Me Gusta",
-        "url": "https://open.spotify.com/album/2YHB2aqmMs5WrzLZK6hfSP"
-      },
-      "artists": [
-        {
-          "name": "Dani J",
-          "url": "https://open.spotify.com/artist/3TEhIeweC59okLmqFu6LWv"
-        }
-      ],
-      "duration_ms": 220645,
-      "name": "Me Gusta",
-      "url": "https://open.spotify.com/track/58dDbQWXLM1Fop74OWCxl0"
-    },
-    {
-      "added_at": "2023-11-30 00:51:04",
-      "album": {
         "name": "Soy Yo",
         "url": "https://open.spotify.com/album/6WtVPPM7gYHQtH3rTo7MXU"
       },
@@ -1715,6 +1699,22 @@
       "duration_ms": 229369,
       "name": "Soy Yo",
       "url": "https://open.spotify.com/track/3K2UhwxyWdtnukemG2yiP0"
+    },
+    {
+      "added_at": "2023-11-30 00:51:04",
+      "album": {
+        "name": "Johnny Sky",
+        "url": "https://open.spotify.com/album/6PVFjEtIIZaK4fj1ACzVoi"
+      },
+      "artists": [
+        {
+          "name": "Johnny Sky",
+          "url": "https://open.spotify.com/artist/3EVZsBWq5KqdtS6eVNHN8d"
+        }
+      ],
+      "duration_ms": 237998,
+      "name": "With or Without You",
+      "url": "https://open.spotify.com/track/4oByhbsmy68c2V7GUEMr22"
     },
     {
       "added_at": "2023-11-30 00:51:04",

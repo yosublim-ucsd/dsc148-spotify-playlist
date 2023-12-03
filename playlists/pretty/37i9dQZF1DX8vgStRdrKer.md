@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vgStRdrKer.md) - [plain]
 
 > This playlist features gospel songs from Africa and beyond aimed at bringing you up close with the Lord\. Cover:   <a href="https://open.spotify.com/artist/0ZH0SbRhX3D2vaRGvTU3Rh?si=YkPkwrdXTb2HyyQlLNCJrA">Kinsu</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,873 likes - 50 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,918 likes - 50 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vgStRdrKer.md) - [plain]
 | 44 | [No Turning Back](https://open.spotify.com/track/1HvmrH54shSA0a1bwK91R0) | [Steffany Gretzinger](https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW), [Leeland](https://open.spotify.com/artist/6j1fmLreVuAay7k6Gudfa2) | [The Narrow Way](https://open.spotify.com/album/5dnEn1RrHFx1tjG6ARSdw0) | 6:30 |
 | 45 | [Sing Hallelujah \(with Natalie Grant\) \- Live](https://open.spotify.com/track/0LPrib5LGVzGhnrM6J8kl9) | [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD), [Natalie Grant](https://open.spotify.com/artist/6KVnMm856M8CHHBCw53Ihh) | [Cover The Earth \(Live In New York\)](https://open.spotify.com/album/0n1rSUSza9mlKU1g6xD9l9) | 8:24 |
 | 46 | [I Get Backing](https://open.spotify.com/track/5z8u1GwA8J7dBx1zMpfrjW) | [Victoria Orenze](https://open.spotify.com/artist/4NS4onS3tvVfCJk2sJ7vso) | [Truth in Sounds](https://open.spotify.com/album/0wQ2rB1CLrUZlsYROvBDyq) | 9:06 |
-| 47 | [Let The People Sing \- Live](https://open.spotify.com/track/4qqUXcqW6EgN4qDsmozSlY) | [Jesus Culture](https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8), [Chris McClarney](https://open.spotify.com/artist/2Zbb4oqupGY4mmskwlygCp) | [Why Not Right Now? \(Live\)](https://open.spotify.com/album/5IMEDpmKoYS6tcYLiUogm0) | 3:59 |
-| 48 | [Adonai](https://open.spotify.com/track/1YJu9epNBMoQfF1EffjwiY) | [Pastor Courage](https://open.spotify.com/artist/2nV5a438DY93kAsO6EdWWf) | [Adonai](https://open.spotify.com/album/6FLiEFzCVibo1ptdlzXP4D) | 4:09 |
-| 49 | [Ndenzel' Uncedo Hymn 377 \- Live](https://open.spotify.com/track/3BTszrSLAt9f11eWeHNTTc) | [Joyous Celebration](https://open.spotify.com/artist/6jG7VTyXJjdrVP4jNjDX9W) | [Joyous Celebration 25 \- Still We Rise: Live At The Joburg Theatre](https://open.spotify.com/album/3XpdHJykK5cila2uzcNAxz) | 6:28 |
-| 50 | [Any More](https://open.spotify.com/track/4ldre3NG3HbOSroRRm5lTP) | [CAIN](https://open.spotify.com/artist/2XDaX0gxzE4eCXjPPAREEq) | [Jesus Music](https://open.spotify.com/album/5KC7lsKPZZs9d85B7kEGba) | 3:08 |
+| 47 | [Adonai](https://open.spotify.com/track/1YJu9epNBMoQfF1EffjwiY) | [Pastor Courage](https://open.spotify.com/artist/2nV5a438DY93kAsO6EdWWf) | [Adonai](https://open.spotify.com/album/6FLiEFzCVibo1ptdlzXP4D) | 4:09 |
+| 48 | [Let The People Sing \- Live](https://open.spotify.com/track/4qqUXcqW6EgN4qDsmozSlY) | [Jesus Culture](https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8), [Chris McClarney](https://open.spotify.com/artist/2Zbb4oqupGY4mmskwlygCp) | [Why Not Right Now? \(Live\)](https://open.spotify.com/album/5IMEDpmKoYS6tcYLiUogm0) | 3:59 |
+| 49 | [Any More](https://open.spotify.com/track/4ldre3NG3HbOSroRRm5lTP) | [CAIN](https://open.spotify.com/artist/2XDaX0gxzE4eCXjPPAREEq) | [Jesus Music](https://open.spotify.com/album/5KC7lsKPZZs9d85B7kEGba) | 3:08 |
+| 50 | [Ndenzel' Uncedo Hymn 377 \- Live](https://open.spotify.com/track/3BTszrSLAt9f11eWeHNTTc) | [Joyous Celebration](https://open.spotify.com/artist/6jG7VTyXJjdrVP4jNjDX9W) | [Joyous Celebration 25 \- Still We Rise: Live At The Joburg Theatre](https://open.spotify.com/album/3XpdHJykK5cila2uzcNAxz) | 6:28 |
 
-Snapshot ID: `MCxkYzU0OTk3NmIzNjI5YjA3NjNjYmZiYjBjYzg5MWU3YzZiZmY3OTNj`
+Snapshot ID: `MCxiYzFhNTYxYWVmYmEzYjIzZjlhNDc1MzcyMDU5YjYwNjM3YzJmNmJl`

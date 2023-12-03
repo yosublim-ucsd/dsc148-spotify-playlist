@@ -5348,7 +5348,7 @@
       ],
       "date_added": "2021-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-03",
       "duration_ms": 269693,
       "name": "Nadhiyoram",
       "url": "https://open.spotify.com/track/1FcXXo6EDjQxpNdm7Mwmpo"
@@ -8806,6 +8806,28 @@
       "duration_ms": 272583,
       "name": "Thamthananam",
       "url": "https://open.spotify.com/track/3zVDnsM7aJ0IqvgbURkiHj"
+    },
+    {
+      "album": {
+        "name": "Hits Of Ilaiyaraaja Vol. 2",
+        "url": "https://open.spotify.com/album/44NqvpeItZJlCwwoL9z6nI"
+      },
+      "artists": [
+        {
+          "name": "Jency",
+          "url": "https://open.spotify.com/artist/3M6HYnxCfbI1Szo8zxnh1K"
+        },
+        {
+          "name": "B. Vasantha",
+          "url": "https://open.spotify.com/artist/5j6UDoyTWhR7ZQIixEnVsN"
+        }
+      ],
+      "date_added": "2021-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272583,
+      "name": "Thamthananam",
+      "url": "https://open.spotify.com/track/6ckYyVE70XarktDaSnat82"
     },
     {
       "album": {

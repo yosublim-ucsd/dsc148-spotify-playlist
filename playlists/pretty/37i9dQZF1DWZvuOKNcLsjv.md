@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZvuOKNcLsjv.md) - [plain]
 
 > 前週大きく注目を浴びた楽曲。ネクスト・ヒットをいち早く。 cover: Paul Russel
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,603 likes - 100 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,629 likes - 100 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZvuOKNcLsjv.md) - [plain]
 | 99 | [Dancing When You're Dead](https://open.spotify.com/track/6DFbeSxrQ0e2PsUCCCiH4i) | [STAP Sigh Boys](https://open.spotify.com/artist/0CaylYCVMWiEhpoZxxdDeu) | [Dancing When You're Dead](https://open.spotify.com/album/1qynxmWVJti2YubCEWb2bg) | 2:31 |
 | 100 | [CHARM](https://open.spotify.com/track/75EFQbfTgsm0exvk6ZJl6Q) | [青山みつ紀](https://open.spotify.com/artist/5cEt7kS0IIWeiTow3vOtsV) | [CHARM](https://open.spotify.com/album/0XSNjTZuZhlcmaMkShTuka) | 3:28 |
 
-Snapshot ID: `MCwzY2ViNzUyZmEyMjU1YWQzODc1YmRhMWFmNzlhNWU1ODMyNzBiYWFl`
+Snapshot ID: `MCxhNTYwNDA1ZTQ3MGQwNWQ4ZWVmNDEwMzEzYTlkMjcxM2ZjZjhjMzg5`

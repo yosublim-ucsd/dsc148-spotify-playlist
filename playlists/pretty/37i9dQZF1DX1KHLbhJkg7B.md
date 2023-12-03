@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KHLbhJkg7B.md) - [plain]
 
 > Unique versions of hit songs by other artists\. Cover: Dolly Parton and Lainey Wilson
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,569 likes - 100 songs - 6 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,642 likes - 100 songs - 6 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -100,13 +100,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KHLbhJkg7B.md) - [plain]
 | 90 | [Bless the Broken Road](https://open.spotify.com/track/1EeCCbgSTeusyCCswMNvyc) | [Dylan Brady](https://open.spotify.com/artist/69Lf9TlJ7qID862aDGbZx1) | [Bless the Broken Road](https://open.spotify.com/album/6iKcEtNDnjXaPtHGL9Vnwo) | 3:06 |
 | 91 | [Wild And Blue](https://open.spotify.com/track/6hinPiQx1Us1iN1XBN5JG5) | [Brent Cobb](https://open.spotify.com/artist/26C2AjqgMr5aDzj6Yp2ORz) | [Wild And Blue](https://open.spotify.com/album/4QzT0aXnzuEMsQ9LMgdEyo) | 3:06 |
 | 92 | [Dreams \- The Campfire Sessions](https://open.spotify.com/track/0dZeiSrApr5SAkrH5rQaRH) | [Sarah Darling](https://open.spotify.com/artist/4WCpgJFxAdAsm4FSD9CAfX) | [Dreams \(The Campfire Sessions\)](https://open.spotify.com/album/1of3ww3gH47OlImOLsDAgb) | 3:46 |
-| 93 | [He Got the Best of Me](https://open.spotify.com/track/5brBLjXJuQ1leaH5VAGBGq) | [Julia Cole](https://open.spotify.com/artist/48rpE75ZIsnfNFyojfYene) | [He Got the Best of Me](https://open.spotify.com/album/2nIckz63cXWEYkWd9SWPAO) | 2:38 |
-| 94 | [Night Life \- \(Hot Country Artists to Watch\) \- Spotify Singles](https://open.spotify.com/track/6dJlulD7mTkgGyFnKTLM3N) | [ERNEST](https://open.spotify.com/artist/4GGfAshSkqoxpZdoaHm7ky), [49 Winchester](https://open.spotify.com/artist/1JWMpIl0nhqFJNdO3IOQ20) | [Spotify Singles](https://open.spotify.com/album/4dIIaejKvQW1sHG2YqlFbm) | 4:29 |
-| 95 | [Love Is Alive](https://open.spotify.com/track/623qVmC3LmsRQeFk3jlkLc) | [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP), [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw) | [Love Is Alive](https://open.spotify.com/album/5osk5V7uL3lQzejyvan1Bt) | 3:52 |
+| 93 | [Love Is Alive](https://open.spotify.com/track/623qVmC3LmsRQeFk3jlkLc) | [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP), [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw) | [Love Is Alive](https://open.spotify.com/album/5osk5V7uL3lQzejyvan1Bt) | 3:52 |
+| 94 | [He Got the Best of Me](https://open.spotify.com/track/5brBLjXJuQ1leaH5VAGBGq) | [Julia Cole](https://open.spotify.com/artist/48rpE75ZIsnfNFyojfYene) | [He Got the Best of Me](https://open.spotify.com/album/2nIckz63cXWEYkWd9SWPAO) | 2:38 |
+| 95 | [Night Life \- \(Hot Country Artists to Watch\) \- Spotify Singles](https://open.spotify.com/track/6dJlulD7mTkgGyFnKTLM3N) | [ERNEST](https://open.spotify.com/artist/4GGfAshSkqoxpZdoaHm7ky), [49 Winchester](https://open.spotify.com/artist/1JWMpIl0nhqFJNdO3IOQ20) | [Spotify Singles](https://open.spotify.com/album/4dIIaejKvQW1sHG2YqlFbm) | 4:29 |
 | 96 | [Feeling Whitney](https://open.spotify.com/track/1yHqsAEZxRAcQIkk8LHlFN) | [Tyler Booth](https://open.spotify.com/artist/7lUUBDm6D4zeAVxbBqtHel) | [Feeling Whitney](https://open.spotify.com/album/7e0N7emlUh6WAAFpsPdVJw) | 3:37 |
 | 97 | [It's Only Rock 'N' Roll \(But I Like It\)](https://open.spotify.com/track/001c1daR1pFdqfpe1vAWzh) | [Brothers Osborne](https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp), [The War and Treaty](https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz) | [It's Only Rock 'N' Roll \(But I Like It\)](https://open.spotify.com/album/1GCjwU2CejKwooZG68QBqb) | 5:22 |
-| 98 | [I Don't Want To Miss A Thing](https://open.spotify.com/track/3FN7JMZaaQ9lSzIaan0YZ1) | [Mark Chesnutt](https://open.spotify.com/artist/2cNV8vNe2fPFf6OfGOBbSS) | [I Don't Want To Miss A Thing](https://open.spotify.com/album/4I8szVY9j0NJAOz7tmnZVy) | 4:06 |
-| 99 | [Palace \- Cover](https://open.spotify.com/track/3gkqjWvOpWpFQYX5AzqrY3) | [Cam](https://open.spotify.com/artist/5WRElKaZsn1tGnrgmJVAeO) | [Palace \(Cover\) / Diane](https://open.spotify.com/album/3xEQ2CukZ34BtuhITSjMNS) | 3:49 |
-| 100 | [Simple Man](https://open.spotify.com/track/57bSzHwlhpD6N6vS81P0DV) | [Warren Zeiders](https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi) | [Acoustic Covers \(Deluxe\)](https://open.spotify.com/album/2tSbrXGTWwgkNnXD6LCABm) | 4:31 |
+| 98 | [Palace \- Cover](https://open.spotify.com/track/3gkqjWvOpWpFQYX5AzqrY3) | [Cam](https://open.spotify.com/artist/5WRElKaZsn1tGnrgmJVAeO) | [Palace \(Cover\) / Diane](https://open.spotify.com/album/3xEQ2CukZ34BtuhITSjMNS) | 3:49 |
+| 99 | [I Don't Want To Miss A Thing](https://open.spotify.com/track/3FN7JMZaaQ9lSzIaan0YZ1) | [Mark Chesnutt](https://open.spotify.com/artist/2cNV8vNe2fPFf6OfGOBbSS) | [I Don't Want To Miss A Thing](https://open.spotify.com/album/4I8szVY9j0NJAOz7tmnZVy) | 4:06 |
+| 100 | [Rock and Roll, Hoochie Koo \- Spotify Singles](https://open.spotify.com/track/4h9GMqQ7bG7XbsC5kdXzNw) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Spotify Singles](https://open.spotify.com/album/6FScslXq5fezJiaKFRwBlQ) | 3:53 |
 
-Snapshot ID: `MCw1YTA0MjgyZTM5OGJiNTc0OGM3ZTRhNzkzZjdjNTBjOTIwODVhYmM0`
+Snapshot ID: `MCxjMjU3MjgxODk1YjI3NmE2YWE2ZGUxZTVhM2M5MmY3YmE5ZWJjN2E1`

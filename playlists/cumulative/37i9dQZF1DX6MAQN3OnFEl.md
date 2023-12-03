@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [\(There's Gotta Be\) More To Life](https://open.spotify.com/track/2x5qF66rFO6DERBMNkQAqn) | [Stacie Orrico](https://open.spotify.com/artist/5QjWgYDeKNP2iPHTdTttnG) | [Stacie Orrico](https://open.spotify.com/album/05bphHAv5bizNSVDeirA9t) | 3:20 | 2021-07-08 | 2023-11-03 |
+| [\(There's Gotta Be\) More To Life](https://open.spotify.com/track/2x5qF66rFO6DERBMNkQAqn) | [Stacie Orrico](https://open.spotify.com/artist/5QjWgYDeKNP2iPHTdTttnG) | [Stacie Orrico](https://open.spotify.com/album/05bphHAv5bizNSVDeirA9t) | 3:20 | 2021-07-08 |  |
 | [\(You Drive Me\) Crazy](https://open.spotify.com/track/1DSJNBNhGZCigg9ll5VeZv) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [...Baby One More Time \(Digital Deluxe Version\)](https://open.spotify.com/album/3WNxdumkSMGMJRhEgK80qx) | 3:18 | 2021-07-08 | 2023-10-25 |
 | [...Baby One More Time](https://open.spotify.com/track/3MjUtNVVq3C8Fn0MP3zhXa) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [...Baby One More Time \(Digital Deluxe Version\)](https://open.spotify.com/album/3WNxdumkSMGMJRhEgK80qx) | 3:31 | 2021-07-08 |  |
 | [1 Thing](https://open.spotify.com/track/1mnqraQ8oV8MX92rdOFLWW) | [Amerie](https://open.spotify.com/artist/08rMCq2ek1YjdDBsCPVH2s) | [Touch](https://open.spotify.com/album/2PFK4dMZkqUQfxfSrK8WMf) | 3:58 | 2022-03-26 |  |
@@ -169,7 +169,7 @@
 | [Smack That](https://open.spotify.com/track/2kQuhkFX7uSVepCD3h29g5) | [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV), [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [Konvicted](https://open.spotify.com/album/6kzoWb4UzvKYgbDfAwgaFq) | 3:32 | 2022-03-26 | 2023-06-10 |
 | [Smack That](https://open.spotify.com/track/5eLovQzx9cm6RkQq388JyN) | [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV), [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [Konvicted](https://open.spotify.com/album/1cyN1SDx8uo2lBzelYG3qb) | 3:32 | 2021-07-08 | 2022-04-19 |
 | [Smile](https://open.spotify.com/track/5Xkvi3GZeRGah9e5px61gG) | [Vitamin C](https://open.spotify.com/artist/3OsUvoKmZA2gw8rETtxGlz) | [Vitamin C](https://open.spotify.com/album/1LbkPqgfdATHN9nonNp1np) | 3:57 | 2021-07-08 | 2022-07-08 |
-| [So Yesterday](https://open.spotify.com/track/0J1Wfjo9H3R62yaCuuNDZX) | [Hilary Duff](https://open.spotify.com/artist/2S9W9aSAd7e5mp8WqWxN2h) | [Metamorphosis](https://open.spotify.com/album/2zfZe8P8jg53kZaAfCdBYs) | 3:35 | 2021-07-08 |  |
+| [So Yesterday](https://open.spotify.com/track/0J1Wfjo9H3R62yaCuuNDZX) | [Hilary Duff](https://open.spotify.com/artist/2S9W9aSAd7e5mp8WqWxN2h) | [Metamorphosis](https://open.spotify.com/album/2zfZe8P8jg53kZaAfCdBYs) | 3:35 | 2021-07-08 | 2023-12-03 |
 | [Sometimes](https://open.spotify.com/track/1UI0l2L66HJ9AtoEOlHzv4) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [...Baby One More Time \(Digital Deluxe Version\)](https://open.spotify.com/album/3WNxdumkSMGMJRhEgK80qx) | 4:05 | 2023-06-09 |  |
 | [SOS](https://open.spotify.com/track/30cSNer6TV8x2utjULVeQ5) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [A Girl Like Me](https://open.spotify.com/album/2JdjS6jjOml7nt7Yjo0nnh) | 3:58 | 2021-07-08 |  |
 | [Spinnin' Around](https://open.spotify.com/track/6pGMA1Rp61dPmC7OWcEBnn) | [Jump5](https://open.spotify.com/artist/0qa4GMXrmylKemymbElIwq) | [Jump5](https://open.spotify.com/album/7Lzw36VPLQEYl0b5zhhTKo) | 3:39 | 2021-07-08 | 2022-07-19 |

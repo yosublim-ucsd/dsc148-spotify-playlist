@@ -1,12 +1,12 @@
 {
   "description": "\ud83d\ude08 turn anywhere into a sexy club \ud83d\ude08",
-  "num_followers": 75590,
+  "num_followers": 75653,
   "original_name": "Sweat.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhYmExYThjZmQwMTllYzhiMTRmYThkNDYxYTU3MzI0MTExY2E1M2Vm",
+  "snapshot_id": "MCxmZDNiYjZhOGI5ZDY5NDVkYjkyZDcwYjI2NDJiMDg2Y2EwMmMxZDk3",
   "tracks": [
     {
       "added_at": "2023-08-18 04:00:00",
@@ -727,6 +727,22 @@
     {
       "added_at": "2023-07-24 14:56:33",
       "album": {
+        "name": "Pop That",
+        "url": "https://open.spotify.com/album/1Lr2J72KaKx1RinFIQoiEX"
+      },
+      "artists": [
+        {
+          "name": "Shermanology",
+          "url": "https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI"
+        }
+      ],
+      "duration_ms": 217500,
+      "name": "Pop That",
+      "url": "https://open.spotify.com/track/1EpF7SUZOEdYXAJF6QC43Z"
+    },
+    {
+      "added_at": "2023-07-24 14:56:33",
+      "album": {
         "name": "Let It All Out EP",
         "url": "https://open.spotify.com/album/2n4OhDkh0yjrFimKqX9cFN"
       },
@@ -743,22 +759,6 @@
       "duration_ms": 143833,
       "name": "Feels Like",
       "url": "https://open.spotify.com/track/4MzOMQEv4DY79F1uKPWRMJ"
-    },
-    {
-      "added_at": "2023-07-24 14:56:33",
-      "album": {
-        "name": "Pop That",
-        "url": "https://open.spotify.com/album/1Lr2J72KaKx1RinFIQoiEX"
-      },
-      "artists": [
-        {
-          "name": "Shermanology",
-          "url": "https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI"
-        }
-      ],
-      "duration_ms": 217500,
-      "name": "Pop That",
-      "url": "https://open.spotify.com/track/1EpF7SUZOEdYXAJF6QC43Z"
     },
     {
       "added_at": "2023-07-24 14:56:33",
@@ -859,18 +859,22 @@
     {
       "added_at": "2023-07-24 14:56:33",
       "album": {
-        "name": "Mommy",
-        "url": "https://open.spotify.com/album/5q0eJFO2tBIPXovoQoWudO"
+        "name": "Hoe",
+        "url": "https://open.spotify.com/album/3WVWxLyo3jYBbUi2orG7RF"
       },
       "artists": [
         {
-          "name": "Betta Lemme",
-          "url": "https://open.spotify.com/artist/1WZLagiBdNltn918sr8kkw"
+          "name": "Partiboi69",
+          "url": "https://open.spotify.com/artist/0CutULGVZ24wOr1HHYoEOL"
+        },
+        {
+          "name": "CHRIST DILLINGER",
+          "url": "https://open.spotify.com/artist/5wtRHmD5xeAYuwxiteR5t3"
         }
       ],
-      "duration_ms": 154882,
-      "name": "Mommy",
-      "url": "https://open.spotify.com/track/13qSIkriq6c8jWFLv6Lt7z"
+      "duration_ms": 283900,
+      "name": "Hoe",
+      "url": "https://open.spotify.com/track/2SM5nyVFHtqGBsVfK23zlK"
     },
     {
       "added_at": "2023-07-24 14:56:33",
@@ -899,22 +903,18 @@
     {
       "added_at": "2023-07-24 14:56:33",
       "album": {
-        "name": "Hoe",
-        "url": "https://open.spotify.com/album/3WVWxLyo3jYBbUi2orG7RF"
+        "name": "Mommy",
+        "url": "https://open.spotify.com/album/5q0eJFO2tBIPXovoQoWudO"
       },
       "artists": [
         {
-          "name": "Partiboi69",
-          "url": "https://open.spotify.com/artist/0CutULGVZ24wOr1HHYoEOL"
-        },
-        {
-          "name": "CHRIST DILLINGER",
-          "url": "https://open.spotify.com/artist/5wtRHmD5xeAYuwxiteR5t3"
+          "name": "Betta Lemme",
+          "url": "https://open.spotify.com/artist/1WZLagiBdNltn918sr8kkw"
         }
       ],
-      "duration_ms": 283900,
-      "name": "Hoe",
-      "url": "https://open.spotify.com/track/2SM5nyVFHtqGBsVfK23zlK"
+      "duration_ms": 154882,
+      "name": "Mommy",
+      "url": "https://open.spotify.com/track/13qSIkriq6c8jWFLv6Lt7z"
     }
   ],
   "unique_name": "Sweat.",

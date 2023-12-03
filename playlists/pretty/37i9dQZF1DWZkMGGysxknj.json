@@ -1,12 +1,12 @@
 {
   "description": "Caf\u00e9 caliente, sill\u00f3n blandito y la mejor lectura o compa\u00f1\u00eda.",
-  "num_followers": 813175,
+  "num_followers": 813197,
   "original_name": "Caf\u00e9, Libros.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMzY3OTY5MzI0ZDdjOGM0NTZlNjJlNzRkNjZkOWYzMjVkOWM3N2Q4",
+  "snapshot_id": "MCxhMWRhNzc5ZDI4MWM3OTYxYmFjOWEzODIzMTYyOTYzM2NhMTAxOTI4",
   "tracks": [
     {
       "added_at": "2023-06-09 14:25:05",
@@ -651,22 +651,6 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
-        "name": "Sunday Best (Acoustic Version)",
-        "url": "https://open.spotify.com/album/0RlzFvBDjmOP8LGXvOoJhu"
-      },
-      "artists": [
-        {
-          "name": "Brandon Chase",
-          "url": "https://open.spotify.com/artist/3qXWWITvZcTD1M2QmXszJK"
-        }
-      ],
-      "duration_ms": 150538,
-      "name": "Sunday Best - Acoustic Version",
-      "url": "https://open.spotify.com/track/5OfJhmXJMOrmRqNqYWkXBk"
-    },
-    {
-      "added_at": "2023-06-09 14:25:05",
-      "album": {
         "name": "Sunflower",
         "url": "https://open.spotify.com/album/2TI8ta6DUPmaupm4NZQpEw"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 181897,
       "name": "Sunflower",
       "url": "https://open.spotify.com/track/0v1yN5C75um5Wx2WPtFl6k"
+    },
+    {
+      "added_at": "2023-06-09 14:25:05",
+      "album": {
+        "name": "Sunday Best (Acoustic Version)",
+        "url": "https://open.spotify.com/album/0RlzFvBDjmOP8LGXvOoJhu"
+      },
+      "artists": [
+        {
+          "name": "Brandon Chase",
+          "url": "https://open.spotify.com/artist/3qXWWITvZcTD1M2QmXszJK"
+        }
+      ],
+      "duration_ms": 150538,
+      "name": "Sunday Best - Acoustic Version",
+      "url": "https://open.spotify.com/track/5OfJhmXJMOrmRqNqYWkXBk"
     },
     {
       "added_at": "2023-06-09 14:25:05",
@@ -979,22 +979,6 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
-        "name": "Hypochondriac",
-        "url": "https://open.spotify.com/album/4Q0ZHIymPlc5zpNtYQQ5FK"
-      },
-      "artists": [
-        {
-          "name": "Fenne Lily",
-          "url": "https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext"
-        }
-      ],
-      "duration_ms": 192853,
-      "name": "Hypochondriac",
-      "url": "https://open.spotify.com/track/6EDAapFVNckXJuDvx59agU"
-    },
-    {
-      "added_at": "2023-06-09 14:25:05",
-      "album": {
         "name": "Lover",
         "url": "https://open.spotify.com/album/6089f5uzG7inpexDTg1OHm"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 242011,
       "name": "Lover",
       "url": "https://open.spotify.com/track/1g4d7RpKk65jnx2qKZXRH5"
+    },
+    {
+      "added_at": "2023-06-09 14:25:05",
+      "album": {
+        "name": "Hypochondriac",
+        "url": "https://open.spotify.com/album/4Q0ZHIymPlc5zpNtYQQ5FK"
+      },
+      "artists": [
+        {
+          "name": "Fenne Lily",
+          "url": "https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext"
+        }
+      ],
+      "duration_ms": 192853,
+      "name": "Hypochondriac",
+      "url": "https://open.spotify.com/track/6EDAapFVNckXJuDvx59agU"
     },
     {
       "added_at": "2023-06-09 14:25:05",
@@ -1043,6 +1043,22 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
+        "name": "Quien Tengo Que Ser",
+        "url": "https://open.spotify.com/album/6FzOZzp39ZFnLvVQBUY3jn"
+      },
+      "artists": [
+        {
+          "name": "Andrea Bejar",
+          "url": "https://open.spotify.com/artist/5l3g6Xp8KQE4prw9hk6rQ8"
+        }
+      ],
+      "duration_ms": 267640,
+      "name": "Quien Tengo Que Ser",
+      "url": "https://open.spotify.com/track/0kdB2mZ8GVyi94dp2KGJvS"
+    },
+    {
+      "added_at": "2023-06-09 14:25:05",
+      "album": {
         "name": "23",
         "url": "https://open.spotify.com/album/0uCNv4sLGPihQDMa0k4xa1"
       },
@@ -1071,22 +1087,6 @@
       "duration_ms": 235579,
       "name": "What I Am - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/6EjU3Hev5VZZmpPjoyNZVX"
-    },
-    {
-      "added_at": "2023-06-09 14:25:05",
-      "album": {
-        "name": "Quien Tengo Que Ser",
-        "url": "https://open.spotify.com/album/6FzOZzp39ZFnLvVQBUY3jn"
-      },
-      "artists": [
-        {
-          "name": "Andrea Bejar",
-          "url": "https://open.spotify.com/artist/5l3g6Xp8KQE4prw9hk6rQ8"
-        }
-      ],
-      "duration_ms": 267640,
-      "name": "Quien Tengo Que Ser",
-      "url": "https://open.spotify.com/track/0kdB2mZ8GVyi94dp2KGJvS"
     },
     {
       "added_at": "2023-06-09 14:25:05",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
-        "name": "Song for Nick Drake",
-        "url": "https://open.spotify.com/album/0tD7F0mOkgQliDESDRBLey"
-      },
-      "artists": [
-        {
-          "name": "Skullcrusher",
-          "url": "https://open.spotify.com/artist/1GUaQ6GpaxFPKZ0SCSsnwD"
-        }
-      ],
-      "duration_ms": 177387,
-      "name": "Song for Nick Drake",
-      "url": "https://open.spotify.com/track/1ZMpeW7DIRIpWCpFxAFuf6"
-    },
-    {
-      "added_at": "2023-06-09 14:25:05",
-      "album": {
         "name": "Fade into You",
         "url": "https://open.spotify.com/album/70oTwRc3ogwa37NxrHqPdg"
       },
@@ -1295,6 +1279,22 @@
       "duration_ms": 252596,
       "name": "Fade into You",
       "url": "https://open.spotify.com/track/0UV2btQxu47HidfjAaM6f8"
+    },
+    {
+      "added_at": "2023-06-09 14:25:05",
+      "album": {
+        "name": "Song for Nick Drake",
+        "url": "https://open.spotify.com/album/0tD7F0mOkgQliDESDRBLey"
+      },
+      "artists": [
+        {
+          "name": "Skullcrusher",
+          "url": "https://open.spotify.com/artist/1GUaQ6GpaxFPKZ0SCSsnwD"
+        }
+      ],
+      "duration_ms": 177387,
+      "name": "Song for Nick Drake",
+      "url": "https://open.spotify.com/track/1ZMpeW7DIRIpWCpFxAFuf6"
     },
     {
       "added_at": "2023-06-09 14:25:05",
@@ -1743,22 +1743,6 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
-        "name": "L-O-V-E",
-        "url": "https://open.spotify.com/album/4EgWz5C3nqZJSm2VQscdEs"
-      },
-      "artists": [
-        {
-          "name": "Imaginary Future",
-          "url": "https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF"
-        }
-      ],
-      "duration_ms": 133440,
-      "name": "L-O-V-E",
-      "url": "https://open.spotify.com/track/4UjDKjzhP0GQXDv7X5zZXZ"
-    },
-    {
-      "added_at": "2023-06-09 14:25:05",
-      "album": {
         "name": "Old Town Road",
         "url": "https://open.spotify.com/album/5tsNukHkjhrH3RWBA2AVAv"
       },
@@ -1771,6 +1755,22 @@
       "duration_ms": 171866,
       "name": "Old Town Road",
       "url": "https://open.spotify.com/track/6Q1Gvu87DTf9SUkwUeBGGl"
+    },
+    {
+      "added_at": "2023-06-09 14:25:05",
+      "album": {
+        "name": "L-O-V-E",
+        "url": "https://open.spotify.com/album/4EgWz5C3nqZJSm2VQscdEs"
+      },
+      "artists": [
+        {
+          "name": "Imaginary Future",
+          "url": "https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF"
+        }
+      ],
+      "duration_ms": 133440,
+      "name": "L-O-V-E",
+      "url": "https://open.spotify.com/track/4UjDKjzhP0GQXDv7X5zZXZ"
     },
     {
       "added_at": "2023-06-09 14:25:05",
@@ -1811,6 +1811,22 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
+        "name": "Havana",
+        "url": "https://open.spotify.com/album/6EV58YwDlkcPBqFoP2nXcp"
+      },
+      "artists": [
+        {
+          "name": "LHITNEY",
+          "url": "https://open.spotify.com/artist/2HhlA4UCn0CSQPhKBavzog"
+        }
+      ],
+      "duration_ms": 185446,
+      "name": "Havana",
+      "url": "https://open.spotify.com/track/5tEziW9XfHKAjAgAwAsWcb"
+    },
+    {
+      "added_at": "2023-06-09 14:25:05",
+      "album": {
         "name": "Covers EP",
         "url": "https://open.spotify.com/album/02Rt1McqlJZerdru6Xlovs"
       },
@@ -1827,22 +1843,6 @@
       "duration_ms": 145075,
       "name": "Girls Like You",
       "url": "https://open.spotify.com/track/67Mij0TZUmIB9ZmjkZXtN8"
-    },
-    {
-      "added_at": "2023-06-09 14:25:05",
-      "album": {
-        "name": "Havana",
-        "url": "https://open.spotify.com/album/6EV58YwDlkcPBqFoP2nXcp"
-      },
-      "artists": [
-        {
-          "name": "LHITNEY",
-          "url": "https://open.spotify.com/artist/2HhlA4UCn0CSQPhKBavzog"
-        }
-      ],
-      "duration_ms": 185446,
-      "name": "Havana",
-      "url": "https://open.spotify.com/track/5tEziW9XfHKAjAgAwAsWcb"
     },
     {
       "added_at": "2023-06-09 14:25:05",
@@ -2015,22 +2015,6 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
-        "name": "CSN",
-        "url": "https://open.spotify.com/album/63AF6wD9Mt1vQgKPNZaAXx"
-      },
-      "artists": [
-        {
-          "name": "Crosby, Stills & Nash",
-          "url": "https://open.spotify.com/artist/2pdvghEHZJtgSXZ7cvNLou"
-        }
-      ],
-      "duration_ms": 274040,
-      "name": "Shadow Captain",
-      "url": "https://open.spotify.com/track/7yw2UnCNLPTlPOQaaPHYCN"
-    },
-    {
-      "added_at": "2023-06-09 14:25:05",
-      "album": {
         "name": "Claroscuro",
         "url": "https://open.spotify.com/album/0quZtM7APWWY3xcc0pKkSh"
       },
@@ -2043,6 +2027,22 @@
       "duration_ms": 130470,
       "name": "Configuraciones Onduladas",
       "url": "https://open.spotify.com/track/4EQYYZtNhlZTcyx1SiO9cf"
+    },
+    {
+      "added_at": "2023-06-09 14:25:05",
+      "album": {
+        "name": "CSN",
+        "url": "https://open.spotify.com/album/63AF6wD9Mt1vQgKPNZaAXx"
+      },
+      "artists": [
+        {
+          "name": "Crosby, Stills & Nash",
+          "url": "https://open.spotify.com/artist/2pdvghEHZJtgSXZ7cvNLou"
+        }
+      ],
+      "duration_ms": 274040,
+      "name": "Shadow Captain",
+      "url": "https://open.spotify.com/track/7yw2UnCNLPTlPOQaaPHYCN"
     },
     {
       "added_at": "2023-06-09 14:25:05",
@@ -2419,22 +2419,6 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
-        "name": "Detalles",
-        "url": "https://open.spotify.com/album/31ifodrXwiZVRzyShAKZDA"
-      },
-      "artists": [
-        {
-          "name": "Mi Sobrino Memo",
-          "url": "https://open.spotify.com/artist/2ae7hwWgesyGJVI2vebofH"
-        }
-      ],
-      "duration_ms": 204428,
-      "name": "Detalles",
-      "url": "https://open.spotify.com/track/3TVMHcgCF8DFVaZpVPgoQq"
-    },
-    {
-      "added_at": "2023-06-09 14:25:05",
-      "album": {
         "name": "La Marelle / Amarelinha",
         "url": "https://open.spotify.com/album/1t4vYRP6ixdTgwqPPKcO3d"
       },
@@ -2455,6 +2439,22 @@
       "duration_ms": 182680,
       "name": "La Marelle / Amarelinha",
       "url": "https://open.spotify.com/track/1oG2c7ESFQxoHlh1jqBfmM"
+    },
+    {
+      "added_at": "2023-06-09 14:25:05",
+      "album": {
+        "name": "Detalles",
+        "url": "https://open.spotify.com/album/31ifodrXwiZVRzyShAKZDA"
+      },
+      "artists": [
+        {
+          "name": "Mi Sobrino Memo",
+          "url": "https://open.spotify.com/artist/2ae7hwWgesyGJVI2vebofH"
+        }
+      ],
+      "duration_ms": 204428,
+      "name": "Detalles",
+      "url": "https://open.spotify.com/track/3TVMHcgCF8DFVaZpVPgoQq"
     },
     {
       "added_at": "2023-06-09 14:25:05",
@@ -2495,22 +2495,6 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
-        "name": "Fin",
-        "url": "https://open.spotify.com/album/1x2xsNNECv8DSisudpo0Nm"
-      },
-      "artists": [
-        {
-          "name": "Islas",
-          "url": "https://open.spotify.com/artist/0Ey9sUJ5fIAchqOFifarhX"
-        }
-      ],
-      "duration_ms": 216746,
-      "name": "Fin",
-      "url": "https://open.spotify.com/track/3yxoXsE9d1DTg6f1TGESig"
-    },
-    {
-      "added_at": "2023-06-09 14:25:05",
-      "album": {
         "name": "Covers EP",
         "url": "https://open.spotify.com/album/13jmHsHQ6MNsgIaFdFIa9q"
       },
@@ -2523,6 +2507,22 @@
       "duration_ms": 192168,
       "name": "Fix You",
       "url": "https://open.spotify.com/track/4Nl1XaLOTrXziMpx6vO4WK"
+    },
+    {
+      "added_at": "2023-06-09 14:25:05",
+      "album": {
+        "name": "Fin",
+        "url": "https://open.spotify.com/album/1x2xsNNECv8DSisudpo0Nm"
+      },
+      "artists": [
+        {
+          "name": "Islas",
+          "url": "https://open.spotify.com/artist/0Ey9sUJ5fIAchqOFifarhX"
+        }
+      ],
+      "duration_ms": 216746,
+      "name": "Fin",
+      "url": "https://open.spotify.com/track/3yxoXsE9d1DTg6f1TGESig"
     },
     {
       "added_at": "2023-06-09 14:25:05",

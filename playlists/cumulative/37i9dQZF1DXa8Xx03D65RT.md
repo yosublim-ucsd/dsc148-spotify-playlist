@@ -4,7 +4,7 @@
 
 > La sutileza del piano para enriquecer tu espacio.
 
-740 songs - 1 day 7 hr 5 min
+741 songs - 1 day 7 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,7 +87,7 @@
 | [Botanical](https://open.spotify.com/track/0auGwYryPNa1UIEn3BrIx0) | [Maru Gomes](https://open.spotify.com/artist/3c06rwhV9teHblfhGaUqdp) | [Botanical](https://open.spotify.com/album/4j5uGANP6T2CGeyhKa6BGZ) | 2:23 | 2022-05-27 | 2022-07-21 |
 | [Boundaries](https://open.spotify.com/track/6fcBDcZTZVx1jJAED8KYv0) | [Emilia Branco](https://open.spotify.com/artist/6TjvSnmtFpeJvto4Ihzozz) | [Boundaries](https://open.spotify.com/album/2B6kWesA1AyfYfG6VxZN2b) | 2:50 | 2022-05-27 | 2023-08-22 |
 | [Box of Memories](https://open.spotify.com/track/0I9HIOTtaXrX968btEa3DA) | [Josh Kramer](https://open.spotify.com/artist/2stOL2fH4SxcTNg7RXo9AG) | [Box of Memories](https://open.spotify.com/album/2ixLdAPGlXOSH0Qu8cAFgZ) | 2:42 | 2022-08-09 |  |
-| [Branches étoilées](https://open.spotify.com/track/4FoP6Z1UO96TSRdjD4aAQq) | [Leonard Czernay](https://open.spotify.com/artist/4432QSnb7mXXq9Mo2hPLRM) | [Branches étoilées](https://open.spotify.com/album/1EpKF5KgUMncRXA0hC4MJj) | 2:46 | 2022-05-27 |  |
+| [Branches étoilées](https://open.spotify.com/track/4FoP6Z1UO96TSRdjD4aAQq) | [Leonard Czernay](https://open.spotify.com/artist/4432QSnb7mXXq9Mo2hPLRM) | [Branches étoilées](https://open.spotify.com/album/1EpKF5KgUMncRXA0hC4MJj) | 2:46 | 2022-05-27 | 2023-12-03 |
 | [Brief Moments](https://open.spotify.com/track/2RMhNaRMKIoOlANHwfcaP1) | [Linn Hope](https://open.spotify.com/artist/5VBvp5RbAHFL0UlVaKqK9D) | [Brief Moments](https://open.spotify.com/album/10hj4ZZucFC7qZFFTcEHuZ) | 2:15 | 2022-05-27 | 2023-01-23 |
 | [Broparken](https://open.spotify.com/track/40BHeLV8ZIxT9rjVLdrfT5) | [Ruben Fjellner](https://open.spotify.com/artist/44oQBciAO9OkwefVrQUFLG) | [Broparken](https://open.spotify.com/album/4rKuRtcWLOVWRxima5BTB1) | 3:00 | 2022-05-27 | 2023-04-09 |
 | [Carry Me](https://open.spotify.com/track/3iKSSbjbCtMPJP7XUezBES) | [Peighton](https://open.spotify.com/artist/1YUB5ogOMQkiMfYvaPIEPY) | [Carry Me](https://open.spotify.com/album/4Xn32CUV1ymaDHYlwBIv0J) | 2:09 | 2022-05-27 | 2022-09-24 |
@@ -588,6 +588,7 @@
 | [Soleil](https://open.spotify.com/track/2wiAB7RM25yzFCPXvpbpCi) | [Masaki Kawasaki](https://open.spotify.com/artist/5Erzr1UaaVg4uG9QNBlksK) | [Life in Process](https://open.spotify.com/album/01i1UYjei9cY4kFL1VjSWH) | 3:19 | 2022-05-27 | 2022-08-10 |
 | [Solitude](https://open.spotify.com/track/2tiX7bZvVEySL2SwQndbae) | [Michael Ottosson](https://open.spotify.com/artist/3dz4vgXeam9Ba1Bo7gud9b) | [Solitude](https://open.spotify.com/album/3NbC4YkqJpM0Ji6346vcYH) | 2:29 | 2022-05-27 | 2022-09-24 |
 | [Sometimes](https://open.spotify.com/track/0dymukJKDPEJiX7KkRnMVM) | [Crimson Memoirs](https://open.spotify.com/artist/1jPw7hSDKuDDUqZE3DZYLF) | [Recollection](https://open.spotify.com/album/33xkBxyjcytIaKn3Xfq06Q) | 2:59 | 2022-05-27 | 2022-09-24 |
+| [somewhere else, together](https://open.spotify.com/track/4Pl37bufUvxJOhLJIfLCcl) | [Aquilegia](https://open.spotify.com/artist/4XF98HJsL7ue3NksOvebiJ) | [somewhere else, together](https://open.spotify.com/album/1qLrUd6oXUZoNGZAVY8mDX) | 3:09 | 2023-11-28 |  |
 | [Song for Marianne](https://open.spotify.com/track/2xlSPP16a3SSOLBPOvTDru) | [Shane Dillard](https://open.spotify.com/artist/4I3uP0iJu6cGL8H3HRJ6vq) | [Song for Marianne](https://open.spotify.com/album/26tnVVQif13uMyUux1Nsvc) | 2:13 | 2022-05-27 | 2022-09-29 |
 | [Sonora](https://open.spotify.com/track/4ku8WSW5vtEZNGM8oUuGnd) | [Biba Dupont](https://open.spotify.com/artist/7vwpKCVjqvSn8RVOhD38g9) | [Serán](https://open.spotify.com/album/7rfwsqw6rBpkZ1z3ROAoYS) | 3:26 | 2022-05-27 | 2023-08-08 |
 | [Sorgløs](https://open.spotify.com/track/5ehX9txsKfW0npyLGMHkcn) | [Jacob David](https://open.spotify.com/artist/2ClAWj3iKUlyddnvR6faUP) | [Sorgløs](https://open.spotify.com/album/1rZTPCZzEuYn9uzChNGdTw) | 2:07 | 2023-08-21 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdFtcHGe8ED.md) - [plain]
 
 > All the greatest Thrash tunes \- from classics to the best new tracks\. Cover: Anthrax
 
-[Spotify](https://open.spotify.com/user/spotify) - 529,576 likes - 120 songs - 8 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 529,745 likes - 120 songs - 8 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdFtcHGe8ED.md) - [plain]
 | 52 | [Ninja Untouchables/Untouchable Glory](https://open.spotify.com/track/5epOdgJW9Y2bu61k4dumrY) | [Gama Bomb](https://open.spotify.com/artist/7h0muodpQ1q5o3RajwownN) | [Untouchable Glory](https://open.spotify.com/album/4KHhqOCvMaJ7x3QYQBGRFr) | 2:46 |
 | 53 | [Trip at the Brain](https://open.spotify.com/track/4nbkJukvqC7ae4kIICjEPi) | [Suicidal Tendencies](https://open.spotify.com/artist/3WPKDlucMsXH6FC1XaclZC) | [How Will I Laugh Tomorrow When I Can't Even Smile Today](https://open.spotify.com/album/0GRJggdZjtFQLzhznZvxFL) | 4:31 |
 | 54 | [Start the Fire](https://open.spotify.com/track/6EDh3fGDzhYlgzPiccnRKe) | [Metal Church](https://open.spotify.com/artist/0exvkfkATkqWOJgugTjJhP) | [The Dark](https://open.spotify.com/album/32nLLpycunqmJfnF3EEfNJ) | 3:45 |
-| 55 | [Thrashard](https://open.spotify.com/track/0PUiZ5j1YGPXuYxg1UjWOo) | [D.R.I.](https://open.spotify.com/artist/6eKzDvHhJgMtcaOrvEXCTv) | [Thrash Zone](https://open.spotify.com/album/6U2m5pMfP1WvVN7swAIsIC) | 3:39 |
-| 56 | [M\-16](https://open.spotify.com/track/5IuHS16yRB8RKtuR4gAGYG) | [Sodom](https://open.spotify.com/artist/6SYbLA9utoNsllunR1TnkM) | [M\-16](https://open.spotify.com/album/1ens5WO0JQdJUE3GciGvjF) | 4:49 |
+| 55 | [M\-16](https://open.spotify.com/track/5IuHS16yRB8RKtuR4gAGYG) | [Sodom](https://open.spotify.com/artist/6SYbLA9utoNsllunR1TnkM) | [M\-16](https://open.spotify.com/album/1ens5WO0JQdJUE3GciGvjF) | 4:49 |
+| 56 | [Thrashard](https://open.spotify.com/track/0PUiZ5j1YGPXuYxg1UjWOo) | [D.R.I.](https://open.spotify.com/artist/6eKzDvHhJgMtcaOrvEXCTv) | [Thrash Zone](https://open.spotify.com/album/6U2m5pMfP1WvVN7swAIsIC) | 3:39 |
 | 57 | [Soul Sacrifice](https://open.spotify.com/track/0PiqQvwJA1TiOFIjmG58rS) | [Power Trip](https://open.spotify.com/artist/3TmaQHOfq1olDKHtE38zYT) | [Nightmare Logic](https://open.spotify.com/album/3suNG9n4WGYQabXhUTkQ70) | 4:10 |
 | 58 | [Holding My Breath](https://open.spotify.com/track/4JTbBZhYkqc8lcAC4DNawJ) | [Alien Weaponry](https://open.spotify.com/artist/2vov4zolAP7zbIhB5CsIPm) | [Tū](https://open.spotify.com/album/4RBkIbNroo8Lp1Y8p3VV4M) | 4:34 |
 | 59 | [I Sever](https://open.spotify.com/track/2mUGAyLahjCX5TQ9VB8vX2) | [Sylosis](https://open.spotify.com/artist/2RiGIRDi4GoJpDbjDnPVJl) | [Cycle of Suffering](https://open.spotify.com/album/667otcFavTltYttK0VqcVm) | 5:08 |
@@ -84,9 +84,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdFtcHGe8ED.md) - [plain]
 | 74 | [Pleasure to Kill](https://open.spotify.com/track/3LFeYtxcstS7tezHLWuUY5) | [Kreator](https://open.spotify.com/artist/3BM0EaYmkKWuPmmHFUTQHv) | [Pleasure to Kill](https://open.spotify.com/album/2eAK1pBzED09E9ooIAznXP) | 4:09 |
 | 75 | [Collapse in the Key of Fireworks](https://open.spotify.com/track/5IHuTwMWWGFof1sOk7dR7x) | [Johnny Booth](https://open.spotify.com/artist/2rEKSdoBVBEOjGYf4BfYgc) | [Moments Elsewhere](https://open.spotify.com/album/54jLv7qhitycZp9GiQ3t1C) | 2:54 |
 | 76 | [The Ultra\-Violence](https://open.spotify.com/track/20bJTQOaoHqeCHBhqIgcTl) | [Death Angel](https://open.spotify.com/artist/6KVc8Llznru8n9LVCYe9dz) | [The Ultra\-Violence](https://open.spotify.com/album/35flmem6J4bq04Kvib1ghA) | 10:33 |
-| 77 | [Over the Wall](https://open.spotify.com/track/1YJ5bavLWoAdax3CECYHRu) | [Testament](https://open.spotify.com/artist/28hJdGN1Awf7u3ifk2lVkg) | [The Legacy](https://open.spotify.com/album/6BLP5fnS4lIPQeneG4uyeW) | 4:06 |
+| 77 | [Filth Upon Filth](https://open.spotify.com/track/22i0SAC2wv9bbgNQdublCr) | [Soulfly](https://open.spotify.com/artist/6159IBm5gLPwG4BcJXseXc) | [Totem](https://open.spotify.com/album/7tWpDZxWUhFEqwIhHSy00i) | 2:53 |
 | 78 | [The Man That Never Was](https://open.spotify.com/track/19ZMUBNaw5HopQ5ljdZj8T) | [Exhorder](https://open.spotify.com/artist/5kuYamMO00pHPdRQcAXWTl) | [The Man That Never Was](https://open.spotify.com/album/7hqBWYPGvk8WrGm66UgCJW) | 3:23 |
-| 79 | [Filth Upon Filth](https://open.spotify.com/track/22i0SAC2wv9bbgNQdublCr) | [Soulfly](https://open.spotify.com/artist/6159IBm5gLPwG4BcJXseXc) | [Totem](https://open.spotify.com/album/7tWpDZxWUhFEqwIhHSy00i) | 2:53 |
+| 79 | [Over the Wall](https://open.spotify.com/track/1YJ5bavLWoAdax3CECYHRu) | [Testament](https://open.spotify.com/artist/28hJdGN1Awf7u3ifk2lVkg) | [The Legacy](https://open.spotify.com/album/6BLP5fnS4lIPQeneG4uyeW) | 4:06 |
 | 80 | [Hang 'Em High](https://open.spotify.com/track/5g2cylVMI57PM06exAtNnz) | [Havok](https://open.spotify.com/artist/2jw4wgixxa20jls9N3Bdpq) | [Conformicide](https://open.spotify.com/album/6GI3M1qTLgDNNcZCTzgWEQ) | 4:49 |
 | 81 | [Wargod](https://open.spotify.com/track/000ETNHKRNLHNPjsCojYkc) | [Immortal](https://open.spotify.com/artist/2mVTkiwfm4ic6DnHpmFq8K) | [War Against All](https://open.spotify.com/album/0i3dDHDl3RCfP1tEIqOx9h) | 4:38 |
 | 82 | [Enter The Grave](https://open.spotify.com/track/6A00Xnn0qg12xjEzCLY22O) | [Evile](https://open.spotify.com/artist/1dwrMJAKBiLlj0O4R791Xo) | [Enter The Grave](https://open.spotify.com/album/3G3vlh9dfQMTcgcDhNkgut) | 4:30 |
@@ -98,8 +98,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdFtcHGe8ED.md) - [plain]
 | 88 | [Darkness Descends](https://open.spotify.com/track/1zI8yKFcmjtgdFbEoTHn94) | [Dark Angel](https://open.spotify.com/artist/0RFQyVQGVcECxnuSLvEKxV) | [Darkness Descends](https://open.spotify.com/album/1IRzwwevpNSdxERoRIKQrw) | 5:47 |
 | 89 | [Living Weapon](https://open.spotify.com/track/24I20Jlh6Tv1WatCnusj8H) | [Warbringer](https://open.spotify.com/artist/4UKKKGkjNWx8KTUvea66k1) | [Worlds Torn Asunder](https://open.spotify.com/album/6v6I6MFsUq4ioOt4EHRheA) | 4:21 |
 | 90 | [Humanicide](https://open.spotify.com/track/7KmMhTk07elK9dxu49Owi2) | [Death Angel](https://open.spotify.com/artist/6KVc8Llznru8n9LVCYe9dz) | [Humanicide](https://open.spotify.com/album/46AMs0qxmBYUagBy5Dw1Tm) | 5:42 |
-| 91 | [Tetrastructural Minds](https://open.spotify.com/track/7vuI7MKPrRX3vPbsft78qz) | [Vektor](https://open.spotify.com/artist/09mNj9XgCqgg6usfeXOoBg) | [Outer Isolation](https://open.spotify.com/album/1KzsSFzRO8903u1XTyEi8U) | 5:21 |
-| 92 | [Hammerhead](https://open.spotify.com/track/0FCvb6CiwfxdRqZOtgj5yt) | [Flotsam & Jetsam](https://open.spotify.com/artist/1ApBh0VSoxRjjT3kFQZrpz) | [Doomsday for the Deceiver](https://open.spotify.com/album/1lXN7Nj1wGSQiPfGjCZHhf) | 6:15 |
+| 91 | [Hammerhead](https://open.spotify.com/track/0FCvb6CiwfxdRqZOtgj5yt) | [Flotsam & Jetsam](https://open.spotify.com/artist/1ApBh0VSoxRjjT3kFQZrpz) | [Doomsday for the Deceiver](https://open.spotify.com/album/1lXN7Nj1wGSQiPfGjCZHhf) | 6:15 |
+| 92 | [Tetrastructural Minds](https://open.spotify.com/track/7vuI7MKPrRX3vPbsft78qz) | [Vektor](https://open.spotify.com/artist/09mNj9XgCqgg6usfeXOoBg) | [Outer Isolation](https://open.spotify.com/album/1KzsSFzRO8903u1XTyEi8U) | 5:21 |
 | 93 | [Vicious Cycle](https://open.spotify.com/track/0qF4xqpP1jTTmFLqgGPSYX) | [Slackjaw](https://open.spotify.com/artist/1Y4F23k7mxcA9Jxm9kpYlw) | [Vicious Cycle](https://open.spotify.com/album/5BIAY8cLV0a2hOrpp8Ss9n) | 6:10 |
 | 94 | [Desecrator](https://open.spotify.com/track/3Lao9WQ5YkN6P9YKE0ppVX) | [Exhorder](https://open.spotify.com/artist/5kuYamMO00pHPdRQcAXWTl) | [Slaughter In The Vatican](https://open.spotify.com/album/5YnKblRYZeLlm90M9xAIvT) | 6:08 |
 | 95 | [Through Eyes of Glass](https://open.spotify.com/track/5Xwn7YmF5BRCWyBYHXqZGL) | [Forbidden](https://open.spotify.com/artist/5MhPZVXE28sD9rXE3GU1uN) | [Forbidden Evil](https://open.spotify.com/album/5yjZpCAc80twY03yRI0hce) | 6:24 |
@@ -116,12 +116,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdFtcHGe8ED.md) - [plain]
 | 106 | [Black Metal Sucks](https://open.spotify.com/track/62f5Wr85zS0rEhnh7Ege1Z) | [Lich King](https://open.spotify.com/artist/4rlxS0LeVnHz6z1zp2iJbz) | [Do\-Over](https://open.spotify.com/album/1zndMZYyzhEbEVe4I9fB4D) | 3:09 |
 | 107 | [Chalice of Blood](https://open.spotify.com/track/2NnbfST2iUUUQ0ZJJWtcY0) | [Forbidden](https://open.spotify.com/artist/5MhPZVXE28sD9rXE3GU1uN) | [Forbidden Evil](https://open.spotify.com/album/5yjZpCAc80twY03yRI0hce) | 4:32 |
 | 108 | [Extreme Aggression](https://open.spotify.com/track/1kGGgsepNQzIw3ObRl4NC2) | [Kreator](https://open.spotify.com/artist/3BM0EaYmkKWuPmmHFUTQHv) | [Extreme Aggression](https://open.spotify.com/album/5aqF2FuhCmFa3AGg8mLFON) | 4:43 |
-| 109 | [A Sign of Things to Come](https://open.spotify.com/track/6RK8YZleqg0LUezZ9zh2rL) | [Sylosis](https://open.spotify.com/artist/2RiGIRDi4GoJpDbjDnPVJl) | [A Sign of Things to Come](https://open.spotify.com/album/0yAh1jpL4MX218VAVSPJIF) | 4:35 |
-| 110 | [Armed To The Teeth](https://open.spotify.com/track/4MbJlBkNTEXGJ0sL8U5ABN) | [Annihilator](https://open.spotify.com/artist/0L8QRAAuWjqvTM8FpQ1gYO) | [Armed To The Teeth](https://open.spotify.com/album/5b30EK9tx0jYfn7DP38rNn) | 4:26 |
+| 109 | [Armed To The Teeth](https://open.spotify.com/track/4MbJlBkNTEXGJ0sL8U5ABN) | [Annihilator](https://open.spotify.com/artist/0L8QRAAuWjqvTM8FpQ1gYO) | [Armed To The Teeth](https://open.spotify.com/album/5b30EK9tx0jYfn7DP38rNn) | 4:26 |
+| 110 | [A Sign of Things to Come](https://open.spotify.com/track/6RK8YZleqg0LUezZ9zh2rL) | [Sylosis](https://open.spotify.com/artist/2RiGIRDi4GoJpDbjDnPVJl) | [A Sign of Things to Come](https://open.spotify.com/album/0yAh1jpL4MX218VAVSPJIF) | 4:35 |
 | 111 | [Ahi Kā](https://open.spotify.com/track/6TWusB8IRbn4OCJm3jLQJr) | [Alien Weaponry](https://open.spotify.com/artist/2vov4zolAP7zbIhB5CsIPm) | [Ahi Kā](https://open.spotify.com/album/5nsejUAhSvLeMfZJ12pERm) | 3:46 |
-| 112 | [Knee Deep in the Dead](https://open.spotify.com/track/2IQS1gH2hzp6WAmjdWZtr1) | [HeXeN](https://open.spotify.com/artist/4nLzJeIvsP58MnoN7e9KT3) | [State of Insurgency](https://open.spotify.com/album/72l4WhRIOstE9jzWVzpQDY) | 4:01 |
+| 112 | [Born of Hate](https://open.spotify.com/track/0KFBWumneVmEuoIxTbgNrA) | [Suicidal Angels](https://open.spotify.com/artist/5Qb7CFfWNE9rlymfrFp5A2) | [Years of Aggression](https://open.spotify.com/album/6S3yE9xu0weg5pulOBJPs5) | 4:17 |
 | 113 | [Sin](https://open.spotify.com/track/4bFwNDLo9IeqHQ0iqFEaUA) | [Nuclear Assault](https://open.spotify.com/artist/2iu7W76DMacXn6hzAqmJJU) | [Game Over](https://open.spotify.com/album/0isrNd8l4UqHhtPDhCKsId) | 3:22 |
-| 114 | [Born of Hate](https://open.spotify.com/track/0KFBWumneVmEuoIxTbgNrA) | [Suicidal Angels](https://open.spotify.com/artist/5Qb7CFfWNE9rlymfrFp5A2) | [Years of Aggression](https://open.spotify.com/album/6S3yE9xu0weg5pulOBJPs5) | 4:17 |
+| 114 | [Knee Deep in the Dead](https://open.spotify.com/track/2IQS1gH2hzp6WAmjdWZtr1) | [HeXeN](https://open.spotify.com/artist/4nLzJeIvsP58MnoN7e9KT3) | [State of Insurgency](https://open.spotify.com/album/72l4WhRIOstE9jzWVzpQDY) | 4:01 |
 | 115 | [Semtex Revolution](https://open.spotify.com/track/6ZpcI3ZJtbbONbJ6LQm1XO) | [Coroner](https://open.spotify.com/artist/7lfdXL6PuTM5iWJNvI7PPV) | [Mental Vortex](https://open.spotify.com/album/56gqMPiLXiyHNUCPnVeoX9) | 5:30 |
 | 116 | [Give Me Leather](https://open.spotify.com/track/0W5YJVzJ9WABd2vmoqmlC8) | [Gama Bomb](https://open.spotify.com/artist/7h0muodpQ1q5o3RajwownN) | [Speed Between the Lines](https://open.spotify.com/album/3Ti0nXYU3jdrWkIV8gxpaA) | 3:50 |
 | 117 | [Fire in the Hole](https://open.spotify.com/track/5Sr2sWiF4R8WsL9EiGxW4f) | [Laaz Rockit](https://open.spotify.com/artist/72M83rfnDyqavWqiFGuYUR) | [Annihilation Principle](https://open.spotify.com/album/6vQJnE6wsh4fc4wvy2fr9O) | 3:50 |
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdFtcHGe8ED.md) - [plain]
 | 119 | [Last Man Alive](https://open.spotify.com/track/1Ks2UecuMS4C0XVjNhtz0w) | [Whiplash](https://open.spotify.com/artist/1VZpDV00MljTrkukEHFKqZ) | [Power And Pain](https://open.spotify.com/album/3yMXMihmwUHEXHc8K3Q2Kq) | 3:30 |
 | 120 | [Bestial Invasion](https://open.spotify.com/track/2TNiNhyFLXAjtBuVydgYfo) | [Destruction](https://open.spotify.com/artist/5d6KI8frPEo3qGsIL8Sak2) | [Infernal Overkill](https://open.spotify.com/album/6Alq1l8ezrAFtEK0tCWnZC) | 4:36 |
 
-Snapshot ID: `MCw4NWQ1Yzk5NmQ1N2U4YWY4MDAyZjNkOGZiMTQyMTViYzRmYTIzNzkw`
+Snapshot ID: `MCw3YjRjMTc4MTZiZjBkYTk2M2UwNzAzY2FmNmU0NmU5ZTNmY2M5ODll`

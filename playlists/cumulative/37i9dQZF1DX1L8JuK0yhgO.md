@@ -4,7 +4,7 @@
 
 > 音楽メディア<a href="http://spincoaster.com/">Spincoaster</a>が厳選したホットな新曲を毎週月曜日にお届け！
 
-2,333 songs - 5 day 9 hr 11 min
+2,334 songs - 5 day 9 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1156,7 +1156,8 @@
 | [Mermaid \- Remix \(feat\. Js Morgan & Aile The Shota\)](https://open.spotify.com/track/5EQUoNfMHXYNKuARzBg76T) | [Kia Vella](https://open.spotify.com/artist/5tvHIUTghhFgJO45xbbsyP), [Js Morgan](https://open.spotify.com/artist/4MTlnA1jISxTRJEFulI0hJ), [Aile The Shota](https://open.spotify.com/artist/2cRxXzkAobXvwQgUv5FRju) | [Mermaid \[Remix \(feat\. Js Morgan & Aile The Shota\)\]](https://open.spotify.com/album/62fFr4MAboOEuVJhD3M6rx) | 3:30 | 2023-10-23 | 2023-10-31 |
 | [Merry Go Round](https://open.spotify.com/track/41312k36is0WtJUS5S3RTb) | [Mandark](https://open.spotify.com/artist/7znAteIK9wAnN6URYwFsks), [DE DE MOUSE](https://open.spotify.com/artist/1mZtAFuxFAgqmTCqfKLWoj), [Crystal Tea](https://open.spotify.com/artist/3tLTzUmenYSz1FS9ijEUuX) | [Merry Go Round](https://open.spotify.com/album/2V5Y9lXrOrB7xcyljiB1GG) | 3:05 | 2023-11-27 |  |
 | [META EDEN](https://open.spotify.com/track/37PPYsB6IMQy0Zeau03Vhx) | [OZworld](https://open.spotify.com/artist/34tJ8UnaAbWcrug3Nym7ZO), [PEANUTS KUN](https://open.spotify.com/artist/1wjrIGd7VMOcrmfb91rvb7), [PIEC3 POPPO](https://open.spotify.com/artist/0MGvVcbeJWxtEdx1IxcO1X) | [META EDEN](https://open.spotify.com/album/5dClsw0BsAVUqRTEGGz7sV) | 4:14 | 2023-07-16 | 2023-07-24 |
-| [Metamorphose Love](https://open.spotify.com/track/0VncsWhl0k2xzwAScprYXL) | [Keiichi Sokabe](https://open.spotify.com/artist/5L2Y03AcUOXCgvRMTy2Gwq) | [Metamorphose Love](https://open.spotify.com/album/3g7x2FtL9c2N5d4p9y7EUb) | 2:40 | 2023-11-27 |  |
+| [Metamorphose Love](https://open.spotify.com/track/0VncsWhl0k2xzwAScprYXL) | [Keiichi Sokabe](https://open.spotify.com/artist/5L2Y03AcUOXCgvRMTy2Gwq) | [Metamorphose Love](https://open.spotify.com/album/3g7x2FtL9c2N5d4p9y7EUb) | 2:40 | 2023-11-27 | 2023-12-03 |
+| [Metamorphose Love](https://open.spotify.com/track/4A3PPYTWMWGowHVq5ilvOt) | [Keiichi Sokabe](https://open.spotify.com/artist/5L2Y03AcUOXCgvRMTy2Gwq) | [Hazard Of Love](https://open.spotify.com/album/618qCFzzmmL4iN3TlH2SPC) | 2:40 | 2023-11-27 |  |
 | [METEOR \(Feat\. Skinny Brown\)](https://open.spotify.com/track/5HDKsm3EMnxsVbvJ4aJ00J) | [Kim Mi Jeong](https://open.spotify.com/artist/62i8ukH7NagOk7lZE6B3xA), [Skinny Brown](https://open.spotify.com/artist/0E0fq98DMHhkAgiXWpCViX) | [METEOR \(Feat\. Skinny Brown\)](https://open.spotify.com/album/3xiWPz5FSg4fnHgALA4s0v) | 2:54 | 2023-04-03 | 2023-04-10 |
 | [Meteorite](https://open.spotify.com/track/7sxBQrsxHmJ2r5Hw7dISK6) | [tobi lou](https://open.spotify.com/artist/4T8NIfZmVY6TJFqVzN6X49), [FARADA](https://open.spotify.com/artist/7lnACC1f3tsle3dFZ50veL) | [Meteorite \(All I Do Is Make Mistakes\)](https://open.spotify.com/album/3c2lfceo4ooLZUBtWq707r) | 3:00 | 2023-08-21 | 2023-08-28 |
 | [METROCARD!](https://open.spotify.com/track/7AiyFaKBQVJF1tcZQoFleo) | [Kazuo](https://open.spotify.com/artist/6JN1a5p0aucHtYCLSl3vnY) | [KAMI!](https://open.spotify.com/album/6qO6i3Ybnk34NCCBAewdej) | 3:31 | 2023-07-31 | 2023-08-07 |

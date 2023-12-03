@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KVBf2zZZ2X.md) - [plain]
 
 > Relaxing music with soft nature sounds for meditation, sleep or to just enjoy.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,757 likes - 100 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,826 likes - 100 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KVBf2zZZ2X.md) - [plain]
 | 20 | [Quiet Soul](https://open.spotify.com/track/0BHSOKE86hjSpxuUrnsLpo) | [The Sun Door](https://open.spotify.com/artist/4mIc8FKCkWqviS6jlZ4cyc) | [Quiet Soul](https://open.spotify.com/album/31jhmj4AZRdyLy2HcYozXz) | 3:18 |
 | 21 | [Forgotten letters](https://open.spotify.com/track/1ZCeUv9xi2ZPuRbLBXfNaR) | [My Dream Escape](https://open.spotify.com/artist/4X3g5HpVJZUww98e0Qf39d) | [Back to life](https://open.spotify.com/album/79BCV4DaRDOXHyLlljIvVS) | 2:21 |
 | 22 | [Early Morning](https://open.spotify.com/track/1eUXmvus2WRXA8sBzJwCGZ) | [Thomas Webster](https://open.spotify.com/artist/4EilbRqryQTCpJoQUstXmV) | [Early Morning](https://open.spotify.com/album/6CwO2ti0r2RhtdaVZvyVyL) | 2:30 |
-| 23 | [The Way I Am & Sunday Mornings](https://open.spotify.com/track/5oUzKkdvWBoX6B0slLHZX7) | [Josef Homola](https://open.spotify.com/artist/01Mll8wovVOj5XaWVanxkB) | [Sunday Mornings XXVIII](https://open.spotify.com/album/6xyFTbKHD0jolOCX5KstzK) | 1:07 |
-| 24 | [Luna Nueva](https://open.spotify.com/track/6GLKRIk8YSDDi3BnJIVr4C) | [Mamá Valiente](https://open.spotify.com/artist/1QmJjqae7klTYMxMjL0hcV) | [Luna Nueva](https://open.spotify.com/album/1nXR27VjplhMuwL7u6ChGd) | 3:37 |
+| 23 | [Luna Nueva](https://open.spotify.com/track/6GLKRIk8YSDDi3BnJIVr4C) | [Mamá Valiente](https://open.spotify.com/artist/1QmJjqae7klTYMxMjL0hcV) | [Luna Nueva](https://open.spotify.com/album/1nXR27VjplhMuwL7u6ChGd) | 3:37 |
+| 24 | [The Way I Am & Sunday Mornings](https://open.spotify.com/track/5oUzKkdvWBoX6B0slLHZX7) | [Josef Homola](https://open.spotify.com/artist/01Mll8wovVOj5XaWVanxkB) | [Sunday Mornings XXVIII](https://open.spotify.com/album/6xyFTbKHD0jolOCX5KstzK) | 1:07 |
 | 25 | [Canola Morning](https://open.spotify.com/track/3NlKaBvnrdwMuYdsYgKAet) | [Volker Anderson](https://open.spotify.com/artist/77UwtMovkeXsignTuy1dB1) | [Canola Morning](https://open.spotify.com/album/5WfEKVlJo9uNtBTeBsFnFb) | 2:44 |
 | 26 | [Nature's Calling](https://open.spotify.com/track/1GwNF0VSW51XuLCyyj2HON) | [Evie May](https://open.spotify.com/artist/0UpCHJTp9iC8xQ43AyVDF4) | [Nature's Calling](https://open.spotify.com/album/6I1focCEQmsmoKj2XhabC0) | 1:55 |
 | 27 | [Calmest lake](https://open.spotify.com/track/191AWPJySNUFVPZtd82eN8) | [Zoran Tudor](https://open.spotify.com/artist/0wuwIPLU0OZWWO97izTsZO) | [Calmest lake](https://open.spotify.com/album/3zhhOZnLZBFNOGIbFC7zSH) | 3:12 |
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KVBf2zZZ2X.md) - [plain]
 | 52 | [The Darker Hours](https://open.spotify.com/track/0OF3sk5xugBzmJnE20Pm3U) | [Anon Berg](https://open.spotify.com/artist/22Eb4qC99mAt3X4vMYktBg) | [The Darker Hours](https://open.spotify.com/album/2tgnfOPTnXWqRgwiTxwgtT) | 2:59 |
 | 53 | [New Lakes](https://open.spotify.com/track/6AQ2zMRobu3TSFVAwVEuvs) | [Loftet](https://open.spotify.com/artist/7JWt3Kh3FNVfaVQptxoT12) | [Beautiful Walk](https://open.spotify.com/album/5OTLju1wfjjMosVsq0vACr) | 2:45 |
 | 54 | [Morning on a STHLM Island](https://open.spotify.com/track/1ly554JyWSV2thFHxwNznr) | [The Gustaf](https://open.spotify.com/artist/10CHzX0eZwBquNxVAxKpv2) | [Morning on a STHLM Island](https://open.spotify.com/album/1xaGsMwWmgMAQQjOsXfQEU) | 2:48 |
-| 55 | [Pentode](https://open.spotify.com/track/3R3XZJ6HPrGIuBXdHehp9W) | [No Pude Detenerme](https://open.spotify.com/artist/5PPQ1GQmwabzQpN9W7ihoN) | [Pentode](https://open.spotify.com/album/7s4sByi9wlNJ4Dd07s0K9A) | 2:39 |
-| 56 | [quiet plateau \- ambient room mix](https://open.spotify.com/track/4ED5zjEGxTIY2oUHgqidGB) | [our distant worlds](https://open.spotify.com/artist/4fMFhhP8Sqi3WWiaoOm5QT) | [the piano next door](https://open.spotify.com/album/7pVqb2flsJL6zX6ly0VoR2) | 2:40 |
+| 55 | [quiet plateau \- ambient room mix](https://open.spotify.com/track/4ED5zjEGxTIY2oUHgqidGB) | [our distant worlds](https://open.spotify.com/artist/4fMFhhP8Sqi3WWiaoOm5QT) | [the piano next door](https://open.spotify.com/album/7pVqb2flsJL6zX6ly0VoR2) | 2:40 |
+| 56 | [Pentode](https://open.spotify.com/track/3R3XZJ6HPrGIuBXdHehp9W) | [No Pude Detenerme](https://open.spotify.com/artist/5PPQ1GQmwabzQpN9W7ihoN) | [Pentode](https://open.spotify.com/album/7s4sByi9wlNJ4Dd07s0K9A) | 2:39 |
 | 57 | [Returning Home](https://open.spotify.com/track/1ClUmEEJYoDemcIPQQIODw) | [A Long Story](https://open.spotify.com/artist/1RFdkmm7AtmHeZTrdoJOFI) | [Returning Home](https://open.spotify.com/album/7xgg2hiwbvf5ZTXLfbxP1L) | 2:28 |
 | 58 | [Through the Clouds](https://open.spotify.com/track/0Fvy8Nrds4DbW4OCqbktfu) | [Homesong](https://open.spotify.com/artist/40cJNjBErUUY5GEz2fnz5s) | [The Long Way Home](https://open.spotify.com/album/3krtEQACBn6DXD2Ef8BTH7) | 2:32 |
 | 59 | [Rays of Sunshine](https://open.spotify.com/track/44mxjw5BP9Oj9pJBOZmLUV) | [Logan Collier](https://open.spotify.com/artist/5vTfIKgJyV3oLVyxd7CiZ1) | [At Dawn](https://open.spotify.com/album/7DgsDQ6bxgZQxRQf9jigzg) | 2:32 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KVBf2zZZ2X.md) - [plain]
 | 96 | [Forest Dreams \(432 Hz\)](https://open.spotify.com/track/1eLXhJf2bLfeghNsz7FpxV) | [Orvalis](https://open.spotify.com/artist/0PEVq7ryAUqJhVdgfiBSXz) | [Forest Dreams \(432 Hz\)](https://open.spotify.com/album/7B50BUzP7oYe4I4guHZonZ) | 2:54 |
 | 97 | [Passing](https://open.spotify.com/track/2tVrAzePSMl6GtO0dZENG8) | [Lenards Šmits](https://open.spotify.com/artist/72zkGbxVoZCrrQbZRjhySx) | [Passing](https://open.spotify.com/album/4NMvHwdcqZ9mJoYBj31oRo) | 2:42 |
 | 98 | [Morning Calm](https://open.spotify.com/track/1XMu12aUx68QKvgSfkGU8C) | [Emil Bodén](https://open.spotify.com/artist/1BFjNsvyM2EWLPwcHoNBUn) | [Morning Calm](https://open.spotify.com/album/5Wz3ispw5iUtBpQ44kHNoC) | 2:16 |
-| 99 | [Wave](https://open.spotify.com/track/3WTAaJFI1oGbw0sCBgnjWF) | [The Lagoon](https://open.spotify.com/artist/2LwSk9Tvc0RlIKnLaXtFJA) | [Wave](https://open.spotify.com/album/16S959NluCJSWVpybU2jb8) | 3:51 |
-| 100 | [Remain In Light \(432 Hz Sound Bath\)](https://open.spotify.com/track/0oN2nYpBnQTFcl5DQdDqZl) | [Baba Hall](https://open.spotify.com/artist/2mcRfqvRv9XFXnTmKMFRuV) | [Remain In Light \(432 Hz Sound Bath\)](https://open.spotify.com/album/68fnzlJrQwjBXCBSHQhwiI) | 3:04 |
+| 99 | [Remain In Light \(432 Hz Sound Bath\)](https://open.spotify.com/track/0oN2nYpBnQTFcl5DQdDqZl) | [Baba Hall](https://open.spotify.com/artist/2mcRfqvRv9XFXnTmKMFRuV) | [Remain In Light \(432 Hz Sound Bath\)](https://open.spotify.com/album/68fnzlJrQwjBXCBSHQhwiI) | 3:04 |
+| 100 | [Wave](https://open.spotify.com/track/3WTAaJFI1oGbw0sCBgnjWF) | [The Lagoon](https://open.spotify.com/artist/2LwSk9Tvc0RlIKnLaXtFJA) | [Wave](https://open.spotify.com/album/16S959NluCJSWVpybU2jb8) | 3:51 |
 
-Snapshot ID: `MCxhN2MwZDU1YTdlNGI2Y2I5YTAwOWYyMTA4Zjk4MjU2YTNkYmYzZDIx`
+Snapshot ID: `MCw4ZjY0ZjNjMmY3NTc0MmM1ZTBkNDBhYWI5ZTFiNjMwNzU1MTI1M2I4`

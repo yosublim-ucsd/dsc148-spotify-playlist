@@ -4,7 +4,7 @@
 
 > Strings and pianos to accompany your latest great read.
 
-167 songs - 9 hr 3 min
+168 songs - 9 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,7 +52,8 @@
 | [Eaux](https://open.spotify.com/track/3o0bY0fJyynYhTwOH4yVci) | [Franz Gordon](https://open.spotify.com/artist/6c9mrV72IOeJ5imCUK281g) | [Three Days in Venice](https://open.spotify.com/album/3PmHajw3xayhJXfgLSLDop) | 3:31 | 2022-04-22 | 2022-11-08 |
 | [Efterskalv](https://open.spotify.com/track/4C6KmjztYfUOdAiHixnlno) | [Vargkvint](https://open.spotify.com/artist/5NMemsa74w1oXETsZZkh1a) | [Efterskalv](https://open.spotify.com/album/5awzU6y9tgPQq4axj75TjS) | 3:49 | 2022-04-01 | 2023-11-04 |
 | [Efterskalv](https://open.spotify.com/track/57v7KEIZNdhu3Ll8xD0TZs) | [Vargkvint](https://open.spotify.com/artist/5NMemsa74w1oXETsZZkh1a) | [Efterskalv](https://open.spotify.com/album/0ozuLQjABDwXsGpZh8327b) | 3:49 | 2023-06-27 |  |
-| [EGUZKIA GALDU](https://open.spotify.com/track/3EsMeZfc60xWznnM6QgHBq) | [Igor Ferreira](https://open.spotify.com/artist/6w7RikrpXmwrnLc6udBXc1) | [EGUZKIA GALDU](https://open.spotify.com/album/6mHmrZX37v9XTVUJWVavXv) | 2:41 | 2022-04-01 |  |
+| [EGUZKIA GALDU](https://open.spotify.com/track/1jXTcTeHRUaWmWJME9U2I3) | [Igor Ferreira](https://open.spotify.com/artist/6w7RikrpXmwrnLc6udBXc1) | [EGUZKIA GALDU](https://open.spotify.com/album/06pHIdK1jZwvfOUBUQyFUR) | 2:41 | 2023-06-27 |  |
+| [EGUZKIA GALDU](https://open.spotify.com/track/3EsMeZfc60xWznnM6QgHBq) | [Igor Ferreira](https://open.spotify.com/artist/6w7RikrpXmwrnLc6udBXc1) | [EGUZKIA GALDU](https://open.spotify.com/album/6mHmrZX37v9XTVUJWVavXv) | 2:41 | 2022-04-01 | 2023-12-03 |
 | [Eliza Aria \(Arr\. for Violin and String Ensemble by François Vallières and Angèle Dubeau\)](https://open.spotify.com/track/6k9ZEBArSDe0BOnYA6wP8X) | [Elena Kats\-Chernin](https://open.spotify.com/artist/0OnynZ2smlYDjDmdRQVkmk), [Angèle Dubeau](https://open.spotify.com/artist/3aKoUd44IrrqOa6Rzn9Ybq), [La Pietà](https://open.spotify.com/artist/3ZiiIxwcdE60xHzCQ35ewj) | [Eliza Aria \(Arr\. for Violin and String Ensemble by François Vallières and Angèle Dubeau\)](https://open.spotify.com/album/0krjsNOUuZ4JzlQlsy8pwk) | 3:24 | 2022-04-22 | 2022-07-16 |
 | [Estrelinha](https://open.spotify.com/track/5OMjzwf9FRa7aizpZe5ANU) | [Gerardo Rodrigues](https://open.spotify.com/artist/08RdfH80vtbHebX1sJ9dGc) | [Estado de Alma](https://open.spotify.com/album/2PXWb5M1h8sOTKVkLPEYJa) | 2:31 | 2022-04-01 | 2022-09-03 |
 | [Everything Is Everything Else](https://open.spotify.com/track/4RKYTpwYHjrriplUOlae20) | [Luke Duffy](https://open.spotify.com/artist/4ASptjf5qv6ZS6GfWWdHl2) | [Everything Is Everything Else](https://open.spotify.com/album/2DHZZIPWMaAe02rgscl7bH) | 4:41 | 2022-04-01 |  |

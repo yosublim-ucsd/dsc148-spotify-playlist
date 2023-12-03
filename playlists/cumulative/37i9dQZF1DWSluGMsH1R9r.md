@@ -4,7 +4,7 @@
 
 > Calm piano music for enhanced concentration.
 
-611 songs - 1 day 2 hr 15 min
+612 songs - 1 day 2 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -458,6 +458,7 @@
 | [Salon musique](https://open.spotify.com/track/51xoSbJvMA83GVglthhPqL) | [Maxence Cyrin](https://open.spotify.com/artist/3NcPjvA2rp9FPj1JBAXwOS) | [Cooling Down](https://open.spotify.com/album/7vuY4vwcjMQIDcG4OcgOmc) | 2:00 | 2022-09-23 | 2022-11-13 |
 | [Salt Skin](https://open.spotify.com/track/5MKtW4amtrjowQ4z7uWCjU) | [Galen Rise](https://open.spotify.com/artist/7sZcguS7cGilZg03SqOH3R) | [Salt Skin](https://open.spotify.com/album/5uDgyEcwgosiV7lf9n2f40) | 2:55 | 2021-12-07 |  |
 | [Sanctum](https://open.spotify.com/track/35liU7bs2YbA1udhkERMok) | [Allysium](https://open.spotify.com/artist/5uQAgpFL2lx2pufHYhPAin) | [Sanctum](https://open.spotify.com/album/2Hgwn7veVh8OIFsq7IzVKI) | 2:59 | 2022-01-18 |  |
+| [Saragossa](https://open.spotify.com/track/2DAgJPb2am07TT3LKcM7u1) | [Pablo Jean Baptiste](https://open.spotify.com/artist/5gtl7HjPLF8fDkzHiAyfnV) | [Saragossa](https://open.spotify.com/album/7ItSD4vuq9bpWGhEce3yFO) | 2:34 | 2023-11-28 |  |
 | [Satin Night](https://open.spotify.com/track/6FDLRVWrSK9eHkg1sMF8Hl) | [Monty Reiss](https://open.spotify.com/artist/3Tha6cubSHSaKYITdBFxwQ) | [Light Textures](https://open.spotify.com/album/7KPsPPlXsItGDbkph50uYx) | 2:20 | 2021-12-07 |  |
 | [Saving Daylight \(Revisited\)](https://open.spotify.com/track/0A3qYD4HtfUkL4mMytek2m) | [Lake Isabel](https://open.spotify.com/artist/1O7IHNwUuOSOnMIS1ueGEJ) | [Saving Daylight \(Revisited\)](https://open.spotify.com/album/6iPFhGhZDGywqm8J8jqiXr) | 2:58 | 2021-12-07 |  |
 | [Say Goodbye](https://open.spotify.com/track/1j13HkUceNuucwQjJNIWxe) | [Sigmund Thorne](https://open.spotify.com/artist/5XZMvbqpb45vxwBRHQQ2sR) | [Say Goodbye](https://open.spotify.com/album/5aKjif3nihiPDJ119Bjlzs) | 2:51 | 2021-12-07 |  |
@@ -467,7 +468,7 @@
 | [Seeds Of Life](https://open.spotify.com/track/5SGDHySVUTpk4fdjRvYGqB) | [Aestivum](https://open.spotify.com/artist/3QHuI31fQbzUBIVq3uxYF8) | [Seeds Of Life](https://open.spotify.com/album/0bT0nOgO2hMsa4smAlxdIu) | 2:07 | 2021-12-07 |  |
 | [Sehnsucht](https://open.spotify.com/track/3EhtUTpX6miXbO7dzrQDgg) | [Claude Pascalli](https://open.spotify.com/artist/2sqhWN2ZRzjFdYJ6f60yZq) | [tea on a rainy day](https://open.spotify.com/album/5RWO4WBPYvUpFp4mAafWPs) | 2:17 | 2021-12-07 | 2022-07-16 |
 | [Seine](https://open.spotify.com/track/2y1o99gVURVZkmIyahWBb5) | [Rosa Leoni](https://open.spotify.com/artist/0TeuxsDOlSehaWDrCgGKNq) | [Moonray](https://open.spotify.com/album/4TsCwNDnZVczYuYG7nAyaC) | 3:18 | 2021-12-07 | 2023-07-05 |
-| [Senses](https://open.spotify.com/track/1S1TiBFDfxp0GUouI8mj0f) | [Viên Farhana](https://open.spotify.com/artist/2uey2tvCQM2A41vZq48pSq) | [Senses](https://open.spotify.com/album/07Psb60tZPs20pWuNsewS6) | 2:04 | 2022-12-22 |  |
+| [Senses](https://open.spotify.com/track/1S1TiBFDfxp0GUouI8mj0f) | [Viên Farhana](https://open.spotify.com/artist/2uey2tvCQM2A41vZq48pSq) | [Senses](https://open.spotify.com/album/07Psb60tZPs20pWuNsewS6) | 2:04 | 2022-12-22 | 2023-12-03 |
 | [Serán](https://open.spotify.com/track/0KuTiAtn3Dx74iJfTJknWt) | [Biba Dupont](https://open.spotify.com/artist/7vwpKCVjqvSn8RVOhD38g9) | [Serán](https://open.spotify.com/album/7rfwsqw6rBpkZ1z3ROAoYS) | 2:32 | 2021-12-07 |  |
 | [Shadows](https://open.spotify.com/track/2OQmujYu7g2xFB61Syic6X) | [Mark Pike](https://open.spotify.com/artist/5tgpewfGPEl1Xt7ZfpL0rU) | [Shadows](https://open.spotify.com/album/6euODh2yNm4Jkt8mej5RHF) | 4:12 | 2021-12-07 |  |
 | [Shadows On The Lawn](https://open.spotify.com/track/0GcwEkklAbxpJIiNCafBct) | [Andreas Monta](https://open.spotify.com/artist/7ziAAFlW4YAJQy9C9phKgZ) | [Shadows On The Lawn](https://open.spotify.com/album/5SPQjNTPLyfJOXTPy4AUNN) | 2:13 | 2023-09-05 |  |

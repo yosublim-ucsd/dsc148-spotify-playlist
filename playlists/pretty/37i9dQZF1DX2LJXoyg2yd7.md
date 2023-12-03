@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LJXoyg2yd7.md) - [plain]
 
 > The sweet sounds of Yemen.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,883 likes - 40 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,899 likes - 40 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LJXoyg2yd7.md) - [plain]
 | 16 | [Habibti](https://open.spotify.com/track/3ZK3sfXR0qal1vdu30AMcw) | [Fouad Abdulwahed](https://open.spotify.com/artist/22xlzInkcr2Suc3hx7YSyg) | [Habibti](https://open.spotify.com/album/6rWsWm2XEgvvZens32Bl2C) | 4:44 |
 | 17 | [أنا اليماني](https://open.spotify.com/track/2crXyiPYfYTJrgU4i7a0FJ) | [Ammar Alazaki](https://open.spotify.com/artist/6TLBFfFm6S2e9lAL8eDkkR) | [أنا اليماني](https://open.spotify.com/album/4N6IOBbQyfPVD9sOC2s2TN) | 4:08 |
 | 18 | [Habibti](https://open.spotify.com/track/3dwHet5JjKR4gS8aY2plg6) | [Abe](https://open.spotify.com/artist/2Bv3me5y2XnscjPGreroh4) | [Habibti](https://open.spotify.com/album/57JFtx9zHfzT39a1rlP4RK) | 3:24 |
-| 19 | [مسكين من](https://open.spotify.com/track/05Lncd1oXJsliQ7wqCbpxC) | [Humood Al Samah](https://open.spotify.com/artist/0yUGhIBHd8kyqi6IGuzQ1P) | [صاحب الليل](https://open.spotify.com/album/6lgI5vn1eppcaKMSgDbEVk) | 3:38 |
-| 20 | [فائق الغزلان](https://open.spotify.com/track/48OuCA67DLWGPuPAIy7cZm) | [Hussain Moheb](https://open.spotify.com/artist/2LUDyDgFsYu4AlnUkBVRMk) | [حبيب ولا غريب](https://open.spotify.com/album/0aUs2ZwUVpT1xr8KIhwF3V) | 5:02 |
+| 19 | [فائق الغزلان](https://open.spotify.com/track/48OuCA67DLWGPuPAIy7cZm) | [Hussain Moheb](https://open.spotify.com/artist/2LUDyDgFsYu4AlnUkBVRMk) | [حبيب ولا غريب](https://open.spotify.com/album/0aUs2ZwUVpT1xr8KIhwF3V) | 5:02 |
+| 20 | [مسكين من](https://open.spotify.com/track/05Lncd1oXJsliQ7wqCbpxC) | [Humood Al Samah](https://open.spotify.com/artist/0yUGhIBHd8kyqi6IGuzQ1P) | [صاحب الليل](https://open.spotify.com/album/6lgI5vn1eppcaKMSgDbEVk) | 3:38 |
 | 21 | [Galow Ashyaa](https://open.spotify.com/track/65ZfHeY07AKmkSN1KzRZEW) | [Balqees](https://open.spotify.com/artist/6arfS6PinvWKGyMd1AqgFI) | [Galow Ashyaa](https://open.spotify.com/album/7Ca717RPn43npVbckSmQ4e) | 3:00 |
 | 22 | [يا مهاجر](https://open.spotify.com/track/7lCGZKNM9OzhPtRTyamcbN) | [Mohamed Moshajeal](https://open.spotify.com/artist/5SgPuHDX7bw9Ffdqqz2Wvd) | [ريم البوادي](https://open.spotify.com/album/0gB9Upr1MXZgfkdg534ny1) | 8:32 |
 | 23 | [Ya Mesafer](https://open.spotify.com/track/19ZBKdZNlOBL2QsbCoNgqD) | [Abu Baker Salim](https://open.spotify.com/artist/4vbzGXyNwi5mMWvPqHDHib) | [Dhae Alwafa](https://open.spotify.com/album/3n6bh1EdzOnqGL3hdF2HX8) | 5:02 |
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LJXoyg2yd7.md) - [plain]
 | 26 | [احبك والدموع تشهد](https://open.spotify.com/track/6Qc0NzcTU7Gi33vOg5YK7Y) | [مؤسسة 13 يونيو للإنتاج والتوزيع الفني](https://open.spotify.com/artist/1VSeqtJApEAu73E36hEPqE) | [عادلي ودي \- ايوب طارش](https://open.spotify.com/album/3KZCdVgaYs2vYZxJpuKtqt) | 9:59 |
 | 27 | [Eih Ahebak](https://open.spotify.com/track/0g5EJbRnkDaXyWBhAk7qat) | [Fouad Abdulwahed](https://open.spotify.com/artist/22xlzInkcr2Suc3hx7YSyg) | [Eih Ahebak](https://open.spotify.com/album/50KvxvqYsNgNjTSEW3FjEl) | 3:30 |
 | 28 | [توصل بالسلامة](https://open.spotify.com/track/05YEZjLYLzPCloIrcljfzy) | [Mohamed Moshajeal](https://open.spotify.com/artist/5SgPuHDX7bw9Ffdqqz2Wvd) | [عاشق القسوة](https://open.spotify.com/album/0rPa8e8OMdEzSYy33TRgGD) | 5:42 |
-| 29 | [غني غني](https://open.spotify.com/track/5470jMcakM58nZJGutrw81) | [عمار العزكي](https://open.spotify.com/artist/76ajZfqRS0o5xHT9L0Wz65) | [كلام أبيض](https://open.spotify.com/album/5BRl9OXmQmSj2R4FZE8qIE) | 4:25 |
-| 30 | [ماأجملك](https://open.spotify.com/track/2DTzFjkDOAt8E8qUEpLb0b) | [Hussain Moheb](https://open.spotify.com/artist/2LUDyDgFsYu4AlnUkBVRMk) | [حبيب ولا غريب](https://open.spotify.com/album/0aUs2ZwUVpT1xr8KIhwF3V) | 5:05 |
+| 29 | [ماأجملك](https://open.spotify.com/track/2DTzFjkDOAt8E8qUEpLb0b) | [Hussain Moheb](https://open.spotify.com/artist/2LUDyDgFsYu4AlnUkBVRMk) | [حبيب ولا غريب](https://open.spotify.com/album/0aUs2ZwUVpT1xr8KIhwF3V) | 5:05 |
+| 30 | [غني غني](https://open.spotify.com/track/5470jMcakM58nZJGutrw81) | [عمار العزكي](https://open.spotify.com/artist/76ajZfqRS0o5xHT9L0Wz65) | [كلام أبيض](https://open.spotify.com/album/5BRl9OXmQmSj2R4FZE8qIE) | 4:25 |
 | 31 | [يا جانيات العناقيد](https://open.spotify.com/track/3HIM2MSek0HBoMJU2HOnNQ) | [Yahya Rassam](https://open.spotify.com/artist/5i5MhtJPyyrHIAqT97DTPd) | [ليالي الانس, Vol\. 2](https://open.spotify.com/album/0FxgMbi7dnrzIsZtdu2Yzq) | 5:36 |
 | 32 | [بديت تخون](https://open.spotify.com/track/0MObXyHSdlisHTUUIRoGPs) | [Arwa](https://open.spotify.com/artist/25vaZT076LoTTwM5BZ6Dmn) | [بديت تخون](https://open.spotify.com/album/4KVWYxFQ7eBaEuwdhpo09K) | 3:05 |
 | 33 | [احبة ربى صنعاء](https://open.spotify.com/track/4hdY4pbFcEMFA0mafgakFW) | [Fouad Al Kabsy](https://open.spotify.com/artist/6FSA4cbJcVlF2rDwEdNmYJ) | [احبة ربى صنعاء](https://open.spotify.com/album/5nuV7bTYDBlgTukJg2aVqf) | 12:15 |
@@ -47,6 +47,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LJXoyg2yd7.md) - [plain]
 | 37 | [الحب مرة](https://open.spotify.com/track/34mjeaxGP6p6MWDTEnX81I) | [Yahya Rassam](https://open.spotify.com/artist/5i5MhtJPyyrHIAqT97DTPd) | [شفقدك](https://open.spotify.com/album/6vOiseLRxaKHLE2rdsOYjT) | 5:29 |
 | 38 | [يابنات ارقصين](https://open.spotify.com/track/4C7VConVsTBdMdfTgiwcZf) | [Yousef Al Badgi](https://open.spotify.com/artist/3VNIVCXWZ65vQQvNwM5YvQ) | [زفه 1998](https://open.spotify.com/album/6jwfmfbRJctCKQPcsE4iJe) | 6:03 |
 | 39 | [Leman Ashkeeh](https://open.spotify.com/track/2PuOShmbN0ZeagodIh5fSf) | [Faisal Abdulkareem](https://open.spotify.com/artist/5jFvzkcrrV8TqpRo2sMRuK) | [Faisal Abdulkarim 2021](https://open.spotify.com/album/3UAlvuKYQZY7isdpIlh7iZ) | 4:50 |
-| 40 | [افا عليك](https://open.spotify.com/track/5BSLLQTgC8ZWPNNtQ38iK3) | [Ahmed Alwi](https://open.spotify.com/artist/4lvCiUpjys3gvBk1qpK6Z0) | [افا عليك](https://open.spotify.com/album/3OK7HxtdSD9GTB7e85I5bY) | 4:33 |
+| 40 | [لي قلب اضناني](https://open.spotify.com/track/6b1ZwfUyHlNN1dBTSdFlvy) | [Sheikh Ahmed Al Hobaishi](https://open.spotify.com/artist/1DuhcPKBk1ulZQkWiN5smR) | [انا وقلبي](https://open.spotify.com/album/6kbIHqXGsQgrWzYsvKvKOJ) | 6:36 |
 
-Snapshot ID: `MCw4MTgxZjIyOTE1OTEzN2Q5NzRjNWQyNjIzMDUyNWM4ZjQ1ZmMzYzFj`
+Snapshot ID: `MCxhOWM2MWRkNTdjMTNhOGY5Y2E4ZjdlMTYxMjIzMmJmMTAwMDIwOTM5`

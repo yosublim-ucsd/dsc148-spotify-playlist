@@ -4,7 +4,7 @@
 
 > A mix of punk rock to get you through your workout.
 
-286 songs - 15 hr 14 min
+287 songs - 15 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,7 +68,7 @@
 | [Dakota](https://open.spotify.com/track/7HNurYC9VmUMRznWjEHLaT) | [Between You & Me](https://open.spotify.com/artist/1P1y4wp6V0CwjhGcXPKgAu) | [Everything Is Temporary](https://open.spotify.com/album/0NKLs69ZZ4iduwaql8ygOD) | 3:03 | 2020-11-20 | 2022-07-29 |
 | [Dead and Gone](https://open.spotify.com/track/0QapunlwO9vnL5X6h4YF18) | [State Champs](https://open.spotify.com/artist/1qqdO7xMptucPDMopsOdkr) | [Living Proof](https://open.spotify.com/album/1Qb73C8hC76e3R8udyit5I) | 3:11 | 2020-11-20 |  |
 | [Dead and Gone](https://open.spotify.com/track/22aRgzwro3KIz9QWAdY2E1) | [State Champs](https://open.spotify.com/artist/1qqdO7xMptucPDMopsOdkr) | [Dead and Gone](https://open.spotify.com/album/7dWaDBoF3eE96uezYnhwNR) | 3:11 | 2020-11-20 | 2022-07-29 |
-| [Dead!](https://open.spotify.com/track/3262RRKqFC1oJXFwCMqgM0) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [The Black Parade / Living with Ghosts \(The 10th Anniversary Edition\)](https://open.spotify.com/album/29mlJg2PpuihKDNYZalIxw) | 3:15 | 2020-11-20 |  |
+| [Dead!](https://open.spotify.com/track/3262RRKqFC1oJXFwCMqgM0) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [The Black Parade / Living with Ghosts \(The 10th Anniversary Edition\)](https://open.spotify.com/album/29mlJg2PpuihKDNYZalIxw) | 3:15 | 2020-11-20 | 2023-12-03 |
 | [Deadweight](https://open.spotify.com/track/1inFvJOvNr4ENKYRBn3YhK) | [Belmont](https://open.spotify.com/artist/6hxiY0CFXTibGUtp8TdCxp) | [Reflections](https://open.spotify.com/album/6Ssjfu521rsdo7d4IemiPo) | 2:53 | 2020-11-20 | 2022-03-22 |
 | [Dear Maria, Count Me In](https://open.spotify.com/track/0JJP0IS4w0fJx01EcrfkDe) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [So Wrong, It's Right](https://open.spotify.com/album/0H4ELcHequ3OligrjWfrZP) | 3:02 | 2020-11-20 |  |
 | [Dear Maria, Count Me In](https://open.spotify.com/track/3ZsexY07D4t4HRq7ogeSAS) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [So Wrong, It's Right \(Deluxe Version\)](https://open.spotify.com/album/2e8m3glGL3xIuSrGGXzcIc) | 3:02 | 2020-11-20 | 2022-07-29 |
@@ -154,6 +154,7 @@
 | [Keep This Up](https://open.spotify.com/track/0hsCfXTwB1QhJDpLmf1Q8U) | [The Story So Far](https://open.spotify.com/artist/6meTcQ79DrfkIuSLPZkpBg) | [Proper Dose](https://open.spotify.com/album/2go3nVQ6oxBB5UERsGUUz0) | 2:26 | 2020-11-20 |  |
 | [Kids](https://open.spotify.com/track/6DS51W3CvxpUO3Z8XXfKok) | [PUP](https://open.spotify.com/artist/6A7uqgC2N1nUhrCLAytHxN) | [Morbid Stuff](https://open.spotify.com/album/0819j23RlVKRJLnXM8ZQI3) | 3:30 | 2020-11-20 | 2022-07-08 |
 | [Kids](https://open.spotify.com/track/6Dgix2xCbnqigfrjulm24R) | [PUP](https://open.spotify.com/artist/6A7uqgC2N1nUhrCLAytHxN) | [Morbid Stuff](https://open.spotify.com/album/504XSXhUJlzztcMV4YMaDV) | 3:30 | 2020-11-20 | 2023-11-04 |
+| [Kids](https://open.spotify.com/track/7IpHgRSdnWqAID7CVZGXWo) | [PUP](https://open.spotify.com/artist/6A7uqgC2N1nUhrCLAytHxN) | [Morbid Stuff](https://open.spotify.com/album/5bVJC9KPcUvQPcibNpjAk9) | 3:30 | 2020-11-20 |  |
 | [Last, Last Words](https://open.spotify.com/track/5isbScmSRT5TIwZwApadZV) | [The Lawrence Arms](https://open.spotify.com/artist/0aQ8Ow9YAkGxr5bbehjkcS) | [Last, Last Words](https://open.spotify.com/album/7nSAN7MwwzzcWDxkvfpkuu) | 2:51 | 2020-11-20 | 2022-07-29 |
 | [Lavender Bones](https://open.spotify.com/track/11RX9JI2RFo70n5XH8U3Mk) | [Stand Atlantic](https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh) | [Skinny Dipping](https://open.spotify.com/album/5SsU0tZD4YMXJZqHzUsd0F) | 3:24 | 2020-11-20 |  |
 | [Lavender Bones](https://open.spotify.com/track/27wvnSTpsyS9k06aDtXvt8) | [Stand Atlantic](https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh) | [Lavender Bones](https://open.spotify.com/album/6CvGI6E8zQzbHLXPEsWnnt) | 3:24 | 2020-11-20 | 2022-07-29 |

@@ -1,12 +1,12 @@
 {
   "description": "Sommer, Sonne, Lieblingshits  \u2600\ufe0f",
-  "num_followers": 1528148,
+  "num_followers": 1528002,
   "original_name": "Sommerhits 2023",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkN2UyMzBkY2EwNTY5ZGE4NWIxMTY1Mzc2YmQzMmZkNGRmM2E4YWFh",
+  "snapshot_id": "MCw3NGU0NjdhYjlhMDZjZTdiMmEwNmRiNDNkMmMzM2YzNGM3YWZlZmUx",
   "tracks": [
     {
       "added_at": "2023-09-13 13:59:55",
@@ -227,26 +227,6 @@
     {
       "added_at": "2023-09-13 13:59:55",
       "album": {
-        "name": "Casanova",
-        "url": "https://open.spotify.com/album/2m57s4b2rbxphb86w4LeeA"
-      },
-      "artists": [
-        {
-          "name": "Soolking",
-          "url": "https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds"
-        },
-        {
-          "name": "Gazo",
-          "url": "https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I"
-        }
-      ],
-      "duration_ms": 189090,
-      "name": "Casanova",
-      "url": "https://open.spotify.com/track/30D9x5LFgL2o9xidjX2wtE"
-    },
-    {
-      "added_at": "2023-09-13 13:59:55",
-      "album": {
         "name": "Miracle (with Ellie Goulding)",
         "url": "https://open.spotify.com/album/22UyygZceCIfoE0RhENgKx"
       },
@@ -263,6 +243,26 @@
       "duration_ms": 186496,
       "name": "Miracle (with Ellie Goulding)",
       "url": "https://open.spotify.com/track/5eTaQYBE1yrActixMAeLcZ"
+    },
+    {
+      "added_at": "2023-09-13 13:59:55",
+      "album": {
+        "name": "Casanova",
+        "url": "https://open.spotify.com/album/2m57s4b2rbxphb86w4LeeA"
+      },
+      "artists": [
+        {
+          "name": "Soolking",
+          "url": "https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds"
+        },
+        {
+          "name": "Gazo",
+          "url": "https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I"
+        }
+      ],
+      "duration_ms": 189090,
+      "name": "Casanova",
+      "url": "https://open.spotify.com/track/30D9x5LFgL2o9xidjX2wtE"
     },
     {
       "added_at": "2023-09-13 13:59:55",
@@ -379,22 +379,6 @@
     {
       "added_at": "2023-09-13 13:59:55",
       "album": {
-        "name": "ITALODISCO",
-        "url": "https://open.spotify.com/album/38cYOdPjt5btA4AMYmbZjn"
-      },
-      "artists": [
-        {
-          "name": "The Kolors",
-          "url": "https://open.spotify.com/artist/72A0Z8q8NiochyK9gUHpCR"
-        }
-      ],
-      "duration_ms": 199512,
-      "name": "ITALODISCO",
-      "url": "https://open.spotify.com/track/3QAU2pj4LUKf7yaTgANlQV"
-    },
-    {
-      "added_at": "2023-09-13 13:59:55",
-      "album": {
         "name": "Call It Love",
         "url": "https://open.spotify.com/album/5c3YGhnf058Op4YviM73wn"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 154560,
       "name": "Call It Love",
       "url": "https://open.spotify.com/track/5YdnOm5990Kfq1Jodws98B"
+    },
+    {
+      "added_at": "2023-09-13 13:59:55",
+      "album": {
+        "name": "ITALODISCO",
+        "url": "https://open.spotify.com/album/38cYOdPjt5btA4AMYmbZjn"
+      },
+      "artists": [
+        {
+          "name": "The Kolors",
+          "url": "https://open.spotify.com/artist/72A0Z8q8NiochyK9gUHpCR"
+        }
+      ],
+      "duration_ms": 199512,
+      "name": "ITALODISCO",
+      "url": "https://open.spotify.com/track/3QAU2pj4LUKf7yaTgANlQV"
     },
     {
       "added_at": "2023-09-13 13:59:55",
@@ -527,26 +527,6 @@
     {
       "added_at": "2023-09-13 13:59:55",
       "album": {
-        "name": "Whistle (feat. Calum Scott)",
-        "url": "https://open.spotify.com/album/0kXUCfMDhIUoHOfZ7TLsoj"
-      },
-      "artists": [
-        {
-          "name": "Jax Jones",
-          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
-        },
-        {
-          "name": "Calum Scott",
-          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
-        }
-      ],
-      "duration_ms": 181957,
-      "name": "Whistle (feat. Calum Scott)",
-      "url": "https://open.spotify.com/track/4q05KbxYZ5JdkmrletgPjF"
-    },
-    {
-      "added_at": "2023-09-13 13:59:55",
-      "album": {
         "name": "Relax My Eyes",
         "url": "https://open.spotify.com/album/2vIDF8BeMN3BcF0yOSMgmN"
       },
@@ -587,6 +567,26 @@
       "duration_ms": 169523,
       "name": "Be My Lover (feat. La Bouche) - 2023 Mix",
       "url": "https://open.spotify.com/track/2aQpISWUBToaF84DDiTeRV"
+    },
+    {
+      "added_at": "2023-09-13 13:59:55",
+      "album": {
+        "name": "Whistle (feat. Calum Scott)",
+        "url": "https://open.spotify.com/album/0kXUCfMDhIUoHOfZ7TLsoj"
+      },
+      "artists": [
+        {
+          "name": "Jax Jones",
+          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
+        },
+        {
+          "name": "Calum Scott",
+          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
+        }
+      ],
+      "duration_ms": 181957,
+      "name": "Whistle (feat. Calum Scott)",
+      "url": "https://open.spotify.com/track/4q05KbxYZ5JdkmrletgPjF"
     },
     {
       "added_at": "2023-09-13 13:59:55",
@@ -1291,6 +1291,30 @@
     {
       "added_at": "2023-09-13 13:59:55",
       "album": {
+        "name": "Cynical (MistaJam Remix)",
+        "url": "https://open.spotify.com/album/5RSGGM4NroRRL5xU9Ow9qD"
+      },
+      "artists": [
+        {
+          "name": "twocolors",
+          "url": "https://open.spotify.com/artist/7ACEUD7UsmmXrnj4OLt8f9"
+        },
+        {
+          "name": "Safri Duo",
+          "url": "https://open.spotify.com/artist/2UOx6w3eHpPKc3RBnNV3Rl"
+        },
+        {
+          "name": "Chris de Sarandy",
+          "url": "https://open.spotify.com/artist/3xAB6KlDT1mrv1y74c3H3X"
+        }
+      ],
+      "duration_ms": 191365,
+      "name": "Cynical",
+      "url": "https://open.spotify.com/track/0K44WSIFl2unqJEwKuLXGo"
+    },
+    {
+      "added_at": "2023-09-13 13:59:55",
+      "album": {
         "name": "Body Talk",
         "url": "https://open.spotify.com/album/4Q8dLRUpvVFqK1uosJv6zp"
       },
@@ -1311,22 +1335,6 @@
     {
       "added_at": "2023-09-13 13:59:55",
       "album": {
-        "name": "June",
-        "url": "https://open.spotify.com/album/2gRsAYk3oBYBJoKFhXflgf"
-      },
-      "artists": [
-        {
-          "name": "BECKS",
-          "url": "https://open.spotify.com/artist/7Bk6OavbjEK5gtMvSRns57"
-        }
-      ],
-      "duration_ms": 164840,
-      "name": "June",
-      "url": "https://open.spotify.com/track/5MOQEkTya2UEh5N2pHiYf6"
-    },
-    {
-      "added_at": "2023-09-13 13:59:55",
-      "album": {
         "name": "We Are The People (southstar Remix)",
         "url": "https://open.spotify.com/album/28E0EqraSPvGhUQ0jNkUvb"
       },
@@ -1343,6 +1351,22 @@
       "duration_ms": 236068,
       "name": "We Are The People - southstar Remix",
       "url": "https://open.spotify.com/track/3vLMN02wGnPBdjRVvewedS"
+    },
+    {
+      "added_at": "2023-09-13 13:59:55",
+      "album": {
+        "name": "June",
+        "url": "https://open.spotify.com/album/2gRsAYk3oBYBJoKFhXflgf"
+      },
+      "artists": [
+        {
+          "name": "BECKS",
+          "url": "https://open.spotify.com/artist/7Bk6OavbjEK5gtMvSRns57"
+        }
+      ],
+      "duration_ms": 164840,
+      "name": "June",
+      "url": "https://open.spotify.com/track/5MOQEkTya2UEh5N2pHiYf6"
     },
     {
       "added_at": "2023-09-13 13:59:55",
@@ -1423,6 +1447,22 @@
     {
       "added_at": "2023-09-13 13:59:55",
       "album": {
+        "name": "You & I",
+        "url": "https://open.spotify.com/album/0lY3tmonYCBxbviBSKczIX"
+      },
+      "artists": [
+        {
+          "name": "Rita Ora",
+          "url": "https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr"
+        }
+      ],
+      "duration_ms": 149226,
+      "name": "You Only Love Me",
+      "url": "https://open.spotify.com/track/398Kr7urUvmBVXvfUZZYiM"
+    },
+    {
+      "added_at": "2023-09-13 13:59:55",
+      "album": {
         "name": "All You Need Is Love",
         "url": "https://open.spotify.com/album/6LoQoWCm9bF4dSQI2ZWtXe"
       },
@@ -1443,22 +1483,6 @@
       "duration_ms": 139927,
       "name": "All You Need Is Love",
       "url": "https://open.spotify.com/track/5yPEJ4UF90Km4KmLl2h4EE"
-    },
-    {
-      "added_at": "2023-09-13 13:59:55",
-      "album": {
-        "name": "You & I",
-        "url": "https://open.spotify.com/album/0lY3tmonYCBxbviBSKczIX"
-      },
-      "artists": [
-        {
-          "name": "Rita Ora",
-          "url": "https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr"
-        }
-      ],
-      "duration_ms": 149226,
-      "name": "You Only Love Me",
-      "url": "https://open.spotify.com/track/398Kr7urUvmBVXvfUZZYiM"
     },
     {
       "added_at": "2023-09-13 13:59:55",
@@ -1527,30 +1551,6 @@
       "duration_ms": 172500,
       "name": "Holding On",
       "url": "https://open.spotify.com/track/6YexWyp9s0V0w1uGhtITsd"
-    },
-    {
-      "added_at": "2023-09-13 13:59:55",
-      "album": {
-        "name": "Cynical (MistaJam Remix)",
-        "url": "https://open.spotify.com/album/5RSGGM4NroRRL5xU9Ow9qD"
-      },
-      "artists": [
-        {
-          "name": "twocolors",
-          "url": "https://open.spotify.com/artist/7ACEUD7UsmmXrnj4OLt8f9"
-        },
-        {
-          "name": "Safri Duo",
-          "url": "https://open.spotify.com/artist/2UOx6w3eHpPKc3RBnNV3Rl"
-        },
-        {
-          "name": "Chris de Sarandy",
-          "url": "https://open.spotify.com/artist/3xAB6KlDT1mrv1y74c3H3X"
-        }
-      ],
-      "duration_ms": 191365,
-      "name": "Cynical",
-      "url": "https://open.spotify.com/track/0K44WSIFl2unqJEwKuLXGo"
     },
     {
       "added_at": "2023-09-13 13:59:55",
@@ -1743,22 +1743,6 @@
     {
       "added_at": "2023-09-13 13:59:55",
       "album": {
-        "name": "Papaya",
-        "url": "https://open.spotify.com/album/7b7XpXKEpeb16tk4IKrhgd"
-      },
-      "artists": [
-        {
-          "name": "Mario Novembre",
-          "url": "https://open.spotify.com/artist/6QkidrPNY7AuI1V4xcKiqo"
-        }
-      ],
-      "duration_ms": 128853,
-      "name": "Papaya",
-      "url": "https://open.spotify.com/track/0wCIaZEqtOGmsVlPJsan0A"
-    },
-    {
-      "added_at": "2023-09-13 13:59:55",
-      "album": {
         "name": "Not Fair",
         "url": "https://open.spotify.com/album/5PObKgSkHWD1mRNOJWr1cZ"
       },
@@ -1779,6 +1763,22 @@
       "duration_ms": 163034,
       "name": "Not Fair",
       "url": "https://open.spotify.com/track/0QlOkt8nkZ8zqu8xb2SHU8"
+    },
+    {
+      "added_at": "2023-09-13 13:59:55",
+      "album": {
+        "name": "Papaya",
+        "url": "https://open.spotify.com/album/7b7XpXKEpeb16tk4IKrhgd"
+      },
+      "artists": [
+        {
+          "name": "Mario Novembre",
+          "url": "https://open.spotify.com/artist/6QkidrPNY7AuI1V4xcKiqo"
+        }
+      ],
+      "duration_ms": 128853,
+      "name": "Papaya",
+      "url": "https://open.spotify.com/track/0wCIaZEqtOGmsVlPJsan0A"
     }
   ],
   "unique_name": "Sommerhits 2023",

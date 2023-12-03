@@ -1,12 +1,12 @@
 {
   "description": "Behagelig musik.",
-  "num_followers": 152254,
+  "num_followers": 152272,
   "original_name": "Ren hygge",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMTExYWNiMjdiMjM5MzViMzRjNmVlMWEwYjA5ZmE0ZGUwMTk2Njhl",
+  "snapshot_id": "MCw2ZjgyN2YzZDA4ODdhODgxNTU2NTdmNDhkZjAzYWU0NDYwY2QyNjlh",
   "tracks": [
     {
       "added_at": "2023-10-26 19:02:58",
@@ -635,22 +635,6 @@
     {
       "added_at": "2023-10-26 19:02:58",
       "album": {
-        "name": "When You Love Someone (Acoustic)",
-        "url": "https://open.spotify.com/album/3qeOuc4R3WLCKVnYVvGwfl"
-      },
-      "artists": [
-        {
-          "name": "James TW",
-          "url": "https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v"
-        }
-      ],
-      "duration_ms": 210106,
-      "name": "When You Love Someone - Acoustic",
-      "url": "https://open.spotify.com/track/6668ZaUUXqZ25Tb0DMr2HO"
-    },
-    {
-      "added_at": "2023-10-26 19:02:58",
-      "album": {
         "name": "if we never met",
         "url": "https://open.spotify.com/album/2KfDGvN1Q2CkL5yYWeSglg"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 144426,
       "name": "if we never met",
       "url": "https://open.spotify.com/track/5HBDBBr5OV90lubqW8ctJF"
+    },
+    {
+      "added_at": "2023-10-26 19:02:58",
+      "album": {
+        "name": "When You Love Someone (Acoustic)",
+        "url": "https://open.spotify.com/album/3qeOuc4R3WLCKVnYVvGwfl"
+      },
+      "artists": [
+        {
+          "name": "James TW",
+          "url": "https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v"
+        }
+      ],
+      "duration_ms": 210106,
+      "name": "When You Love Someone - Acoustic",
+      "url": "https://open.spotify.com/track/6668ZaUUXqZ25Tb0DMr2HO"
     },
     {
       "added_at": "2023-10-26 19:02:58",
@@ -739,22 +739,6 @@
     {
       "added_at": "2023-10-26 19:02:58",
       "album": {
-        "name": "Chapters",
-        "url": "https://open.spotify.com/album/3GNzXsFbzdwM0WKCZtgeNP"
-      },
-      "artists": [
-        {
-          "name": "James TW",
-          "url": "https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v"
-        }
-      ],
-      "duration_ms": 246320,
-      "name": "Incredible",
-      "url": "https://open.spotify.com/track/5bZeugrr7oIATt1CLJuhT4"
-    },
-    {
-      "added_at": "2023-10-26 19:02:58",
-      "album": {
         "name": "A Place We Knew",
         "url": "https://open.spotify.com/album/61G7KL6rpj167r6H4CzS8C"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 212626,
       "name": "Love on the Weekend",
       "url": "https://open.spotify.com/track/0j2WBxWZnWti5TpSxjJvPb"
+    },
+    {
+      "added_at": "2023-10-26 19:02:58",
+      "album": {
+        "name": "Chapters",
+        "url": "https://open.spotify.com/album/3GNzXsFbzdwM0WKCZtgeNP"
+      },
+      "artists": [
+        {
+          "name": "James TW",
+          "url": "https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v"
+        }
+      ],
+      "duration_ms": 246320,
+      "name": "Incredible",
+      "url": "https://open.spotify.com/track/5bZeugrr7oIATt1CLJuhT4"
     },
     {
       "added_at": "2023-10-26 19:02:58",
@@ -971,18 +971,18 @@
     {
       "added_at": "2023-10-26 19:02:58",
       "album": {
-        "name": "Place We Were Made",
-        "url": "https://open.spotify.com/album/3lAphThw6i1jHzvXVGXJmE"
+        "name": "Divinely Uninspired To A Hellish Extent",
+        "url": "https://open.spotify.com/album/5658aM19fA3JVwTK6eQX70"
       },
       "artists": [
         {
-          "name": "Maisie Peters",
-          "url": "https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs"
+          "name": "Lewis Capaldi",
+          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
         }
       ],
-      "duration_ms": 185274,
-      "name": "Place We Were Made",
-      "url": "https://open.spotify.com/track/7nZF59EvFUshBQfhHev64D"
+      "duration_ms": 246053,
+      "name": "Fade",
+      "url": "https://open.spotify.com/track/6r2tV58enH9E8hj2oqoJNK"
     },
     {
       "added_at": "2023-10-26 19:02:58",
@@ -1003,18 +1003,18 @@
     {
       "added_at": "2023-10-26 19:02:58",
       "album": {
-        "name": "Divinely Uninspired To A Hellish Extent",
-        "url": "https://open.spotify.com/album/5658aM19fA3JVwTK6eQX70"
+        "name": "Place We Were Made",
+        "url": "https://open.spotify.com/album/3lAphThw6i1jHzvXVGXJmE"
       },
       "artists": [
         {
-          "name": "Lewis Capaldi",
-          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
+          "name": "Maisie Peters",
+          "url": "https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs"
         }
       ],
-      "duration_ms": 246053,
-      "name": "Fade",
-      "url": "https://open.spotify.com/track/6r2tV58enH9E8hj2oqoJNK"
+      "duration_ms": 185274,
+      "name": "Place We Were Made",
+      "url": "https://open.spotify.com/track/7nZF59EvFUshBQfhHev64D"
     },
     {
       "added_at": "2023-10-26 19:02:58",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2023-10-26 19:02:58",
       "album": {
-        "name": "Rhythm Inside (Acoustic)",
-        "url": "https://open.spotify.com/album/3inDY0cd6WvOfZ59DGn3rx"
-      },
-      "artists": [
-        {
-          "name": "Calum Scott",
-          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
-        }
-      ],
-      "duration_ms": 212171,
-      "name": "Rhythm Inside - Acoustic",
-      "url": "https://open.spotify.com/track/7vO3KTA1YPgw6eb3NITrO3"
-    },
-    {
-      "added_at": "2023-10-26 19:02:58",
-      "album": {
         "name": "Better Luck Next Time",
         "url": "https://open.spotify.com/album/7LmEKG3k6DaJXsKa89qBo6"
       },
@@ -1163,6 +1147,22 @@
     {
       "added_at": "2023-10-26 19:02:58",
       "album": {
+        "name": "Rhythm Inside (Acoustic)",
+        "url": "https://open.spotify.com/album/3inDY0cd6WvOfZ59DGn3rx"
+      },
+      "artists": [
+        {
+          "name": "Calum Scott",
+          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
+        }
+      ],
+      "duration_ms": 212171,
+      "name": "Rhythm Inside - Acoustic",
+      "url": "https://open.spotify.com/track/7vO3KTA1YPgw6eb3NITrO3"
+    },
+    {
+      "added_at": "2023-10-26 19:02:58",
+      "album": {
         "name": "In Between Minds",
         "url": "https://open.spotify.com/album/5tsh7OJm1nTJeWpkbTA0sC"
       },
@@ -1175,22 +1175,6 @@
       "duration_ms": 199537,
       "name": "Things You Can't Change",
       "url": "https://open.spotify.com/track/4PBz2XQqKs9KICMO69iaiH"
-    },
-    {
-      "added_at": "2023-10-26 19:02:58",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/0SRFjDXW0BUtk5yChaT7xn"
-      },
-      "artists": [
-        {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
-        }
-      ],
-      "duration_ms": 169226,
-      "name": "Get Here - Recorded At RAK Studios, London",
-      "url": "https://open.spotify.com/track/6hPlYSx7wsnDE48NypYeuT"
     },
     {
       "added_at": "2023-10-26 19:02:58",
@@ -1215,18 +1199,18 @@
     {
       "added_at": "2023-10-26 19:02:58",
       "album": {
-        "name": "Rockabye (Acoustic)",
-        "url": "https://open.spotify.com/album/3eWhckqCd4GXXCchAvaWCW"
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/0SRFjDXW0BUtk5yChaT7xn"
       },
       "artists": [
         {
-          "name": "The Mayries",
-          "url": "https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID"
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
         }
       ],
-      "duration_ms": 157466,
-      "name": "Rockabye - Acoustic Version",
-      "url": "https://open.spotify.com/track/30LDuVfrePWbedYTc1mUCn"
+      "duration_ms": 169226,
+      "name": "Get Here - Recorded At RAK Studios, London",
+      "url": "https://open.spotify.com/track/6hPlYSx7wsnDE48NypYeuT"
     },
     {
       "added_at": "2023-10-26 19:02:58",
@@ -1243,6 +1227,22 @@
       "duration_ms": 212933,
       "name": "You Give Me Something",
       "url": "https://open.spotify.com/track/28euH5Ny1JXxZAt2KjWp62"
+    },
+    {
+      "added_at": "2023-10-26 19:02:58",
+      "album": {
+        "name": "Rockabye (Acoustic)",
+        "url": "https://open.spotify.com/album/3eWhckqCd4GXXCchAvaWCW"
+      },
+      "artists": [
+        {
+          "name": "The Mayries",
+          "url": "https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID"
+        }
+      ],
+      "duration_ms": 157466,
+      "name": "Rockabye - Acoustic Version",
+      "url": "https://open.spotify.com/track/30LDuVfrePWbedYTc1mUCn"
     },
     {
       "added_at": "2023-10-26 19:02:58",
@@ -1603,22 +1603,6 @@
     {
       "added_at": "2023-10-26 19:02:58",
       "album": {
-        "name": "If That's Alright",
-        "url": "https://open.spotify.com/album/3ZxgIRFBsbYYxcKOIVaXPx"
-      },
-      "artists": [
-        {
-          "name": "Dylan Dunlap",
-          "url": "https://open.spotify.com/artist/7CanUos0itnFLMrCiT839W"
-        }
-      ],
-      "duration_ms": 235393,
-      "name": "If That's Alright",
-      "url": "https://open.spotify.com/track/1sOHsqg3EeaimEJM72CZa5"
-    },
-    {
-      "added_at": "2023-10-26 19:02:58",
-      "album": {
         "name": "Something American",
         "url": "https://open.spotify.com/album/4mJFBVR1HjNGm1sYIHpBb2"
       },
@@ -1631,6 +1615,22 @@
       "duration_ms": 283696,
       "name": "What Am I Here For",
       "url": "https://open.spotify.com/track/5qLAeqSwTN5Cdrpjs6TnG6"
+    },
+    {
+      "added_at": "2023-10-26 19:02:58",
+      "album": {
+        "name": "If That's Alright",
+        "url": "https://open.spotify.com/album/3ZxgIRFBsbYYxcKOIVaXPx"
+      },
+      "artists": [
+        {
+          "name": "Dylan Dunlap",
+          "url": "https://open.spotify.com/artist/7CanUos0itnFLMrCiT839W"
+        }
+      ],
+      "duration_ms": 235393,
+      "name": "If That's Alright",
+      "url": "https://open.spotify.com/track/1sOHsqg3EeaimEJM72CZa5"
     },
     {
       "added_at": "2023-10-26 19:02:58",
@@ -1771,22 +1771,6 @@
     {
       "added_at": "2023-10-26 19:02:58",
       "album": {
-        "name": "Collections From The Whiteout",
-        "url": "https://open.spotify.com/album/09P40BHcaue9iF4QasXMTK"
-      },
-      "artists": [
-        {
-          "name": "Ben Howard",
-          "url": "https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc"
-        }
-      ],
-      "duration_ms": 257773,
-      "name": "What A Day - Edit",
-      "url": "https://open.spotify.com/track/3MW8spctuyf70mNAWhDlBv"
-    },
-    {
-      "added_at": "2023-10-26 19:02:58",
-      "album": {
         "name": "Perfect to Me (Acoustic)",
         "url": "https://open.spotify.com/album/4bVFapJCV0zmEd2e6qq74v"
       },
@@ -1799,6 +1783,22 @@
       "duration_ms": 213213,
       "name": "Perfect To Me - Acoustic",
       "url": "https://open.spotify.com/track/5OWrEfTdsOsTxMbznYDVL0"
+    },
+    {
+      "added_at": "2023-10-26 19:02:58",
+      "album": {
+        "name": "Collections From The Whiteout",
+        "url": "https://open.spotify.com/album/09P40BHcaue9iF4QasXMTK"
+      },
+      "artists": [
+        {
+          "name": "Ben Howard",
+          "url": "https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc"
+        }
+      ],
+      "duration_ms": 257773,
+      "name": "What A Day - Edit",
+      "url": "https://open.spotify.com/track/3MW8spctuyf70mNAWhDlBv"
     },
     {
       "added_at": "2023-10-26 19:02:58",
@@ -1819,22 +1819,6 @@
     {
       "added_at": "2023-10-26 19:02:58",
       "album": {
-        "name": "Why Her Not Me - EP",
-        "url": "https://open.spotify.com/album/5f0eFn8Iv1PU8b4ylLxRJY"
-      },
-      "artists": [
-        {
-          "name": "Grace Carter",
-          "url": "https://open.spotify.com/artist/2LuHL7im4aCEmfOlD4rxBC"
-        }
-      ],
-      "duration_ms": 219012,
-      "name": "Silence",
-      "url": "https://open.spotify.com/track/0Q1QQ3R3s6VbX7ZB8shmvp"
-    },
-    {
-      "added_at": "2023-10-26 19:02:58",
-      "album": {
         "name": "i loved you first",
         "url": "https://open.spotify.com/album/77GA1E8JXxpzlFFnGxbLEg"
       },
@@ -1847,6 +1831,22 @@
       "duration_ms": 227067,
       "name": "i loved you first",
       "url": "https://open.spotify.com/track/3FpEXAupLwCHwzeUBxF99S"
+    },
+    {
+      "added_at": "2023-10-26 19:02:58",
+      "album": {
+        "name": "Why Her Not Me - EP",
+        "url": "https://open.spotify.com/album/5f0eFn8Iv1PU8b4ylLxRJY"
+      },
+      "artists": [
+        {
+          "name": "Grace Carter",
+          "url": "https://open.spotify.com/artist/2LuHL7im4aCEmfOlD4rxBC"
+        }
+      ],
+      "duration_ms": 219012,
+      "name": "Silence",
+      "url": "https://open.spotify.com/track/0Q1QQ3R3s6VbX7ZB8shmvp"
     },
     {
       "added_at": "2023-10-26 19:02:58",
@@ -1871,18 +1871,18 @@
     {
       "added_at": "2023-10-26 19:02:58",
       "album": {
-        "name": "Songs For You, Truths For Me",
-        "url": "https://open.spotify.com/album/0pAVneHUj7ApOZZPPZBVyN"
+        "name": "In My Body",
+        "url": "https://open.spotify.com/album/3j4PehkkrV1KOF5ZvDtCxY"
       },
       "artists": [
         {
-          "name": "James Morrison",
-          "url": "https://open.spotify.com/artist/3LpLGlgRS1IKPPwElnpW35"
+          "name": "SYML",
+          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
         }
       ],
-      "duration_ms": 211400,
-      "name": "You Make It Real",
-      "url": "https://open.spotify.com/track/4Xvcx48q8khat7M1YUYaYW"
+      "duration_ms": 233640,
+      "name": "Wildfire - Alternate Version",
+      "url": "https://open.spotify.com/track/6rFdOZ5hKcyU4Zm74hokYs"
     }
   ],
   "unique_name": "Ren hygge",

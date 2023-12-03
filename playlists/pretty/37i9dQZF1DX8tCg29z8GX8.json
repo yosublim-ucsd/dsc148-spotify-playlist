@@ -1,12 +1,12 @@
 {
   "description": "Beat the traffic blues with these killer tunes.",
-  "num_followers": 12665,
+  "num_followers": 12695,
   "original_name": "Troski Rhythms",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYWQwMWZmYmFlMDRjYTY3MTNmZmViYmU1ODI0MjA5YWM1N2ZhYjkx",
+  "snapshot_id": "MCw4OTQ0YjVhZDA5MzhjYWNjYjNmMzVmODZjYTRjNjhjNmMyMTk2NTNk",
   "tracks": [
     {
       "added_at": "2023-12-01 06:50:02",
@@ -723,6 +723,22 @@
     {
       "added_at": "2023-12-01 06:50:02",
       "album": {
+        "name": "Certified Loner (No Competition)",
+        "url": "https://open.spotify.com/album/09GvRfHYMZQKWza03GYJxz"
+      },
+      "artists": [
+        {
+          "name": "Mayorkun",
+          "url": "https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "Certified Loner (No Competition)",
+      "url": "https://open.spotify.com/track/6NKuW3yaNXtloGw1RB8WUi"
+    },
+    {
+      "added_at": "2023-12-01 06:50:02",
+      "album": {
         "name": "Denge II",
         "url": "https://open.spotify.com/album/7K9VJX2ZO6rtj4jW9zqY8t"
       },
@@ -743,22 +759,6 @@
       "duration_ms": 158771,
       "name": "Denge II",
       "url": "https://open.spotify.com/track/4BoTvPsNH6ijLrdlIV1kbA"
-    },
-    {
-      "added_at": "2023-12-01 06:50:02",
-      "album": {
-        "name": "Certified Loner (No Competition)",
-        "url": "https://open.spotify.com/album/09GvRfHYMZQKWza03GYJxz"
-      },
-      "artists": [
-        {
-          "name": "Mayorkun",
-          "url": "https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd"
-        }
-      ],
-      "duration_ms": 165000,
-      "name": "Certified Loner (No Competition)",
-      "url": "https://open.spotify.com/track/6NKuW3yaNXtloGw1RB8WUi"
     },
     {
       "added_at": "2023-12-01 06:50:02",
@@ -1107,42 +1107,6 @@
     {
       "added_at": "2023-12-01 06:50:02",
       "album": {
-        "name": "5th Dimension",
-        "url": "https://open.spotify.com/album/6P09BN0UfWRJt4jCIaAGS4"
-      },
-      "artists": [
-        {
-          "name": "Stonebwoy",
-          "url": "https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq"
-        },
-        {
-          "name": "DJ Maphorisa",
-          "url": "https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi"
-        }
-      ],
-      "duration_ms": 274000,
-      "name": "Apotheke",
-      "url": "https://open.spotify.com/track/4rijFxOY3GvhHopiWwHX71"
-    },
-    {
-      "added_at": "2023-12-01 06:50:02",
-      "album": {
-        "name": "Peace Be Unto You (PBUY)",
-        "url": "https://open.spotify.com/album/2gAZf4ZEJH7fs0szGoCui1"
-      },
-      "artists": [
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
-        }
-      ],
-      "duration_ms": 153103,
-      "name": "Peace Be Unto You (PBUY)",
-      "url": "https://open.spotify.com/track/1mJFFeluclL38IwV264lm9"
-    },
-    {
-      "added_at": "2023-12-01 06:50:02",
-      "album": {
         "name": "SCAR",
         "url": "https://open.spotify.com/album/6DYZXRdAM1qUFdFVGoUlC5"
       },
@@ -1163,6 +1127,42 @@
       "duration_ms": 203333,
       "name": "SCAR",
       "url": "https://open.spotify.com/track/3q29n7RqZ4lRzfnKzIqDZy"
+    },
+    {
+      "added_at": "2023-12-01 06:50:02",
+      "album": {
+        "name": "Peace Be Unto You (PBUY)",
+        "url": "https://open.spotify.com/album/2gAZf4ZEJH7fs0szGoCui1"
+      },
+      "artists": [
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        }
+      ],
+      "duration_ms": 153103,
+      "name": "Peace Be Unto You (PBUY)",
+      "url": "https://open.spotify.com/track/1mJFFeluclL38IwV264lm9"
+    },
+    {
+      "added_at": "2023-12-01 06:50:02",
+      "album": {
+        "name": "5th Dimension",
+        "url": "https://open.spotify.com/album/6P09BN0UfWRJt4jCIaAGS4"
+      },
+      "artists": [
+        {
+          "name": "Stonebwoy",
+          "url": "https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq"
+        },
+        {
+          "name": "DJ Maphorisa",
+          "url": "https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi"
+        }
+      ],
+      "duration_ms": 274000,
+      "name": "Apotheke",
+      "url": "https://open.spotify.com/track/4rijFxOY3GvhHopiWwHX71"
     },
     {
       "added_at": "2023-12-01 06:50:02",
@@ -1291,6 +1291,22 @@
     {
       "added_at": "2023-12-01 06:50:02",
       "album": {
+        "name": "We Outside",
+        "url": "https://open.spotify.com/album/2OHCOJtdIppm9wawD4fVwe"
+      },
+      "artists": [
+        {
+          "name": "Olamide",
+          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
+        }
+      ],
+      "duration_ms": 155428,
+      "name": "We Outside",
+      "url": "https://open.spotify.com/track/73QcmfEnoLv3pKt0aXKdOG"
+    },
+    {
+      "added_at": "2023-12-01 06:50:02",
+      "album": {
         "name": "5th Dimension",
         "url": "https://open.spotify.com/album/6P09BN0UfWRJt4jCIaAGS4"
       },
@@ -1307,22 +1323,6 @@
       "duration_ms": 185257,
       "name": "Life & Money",
       "url": "https://open.spotify.com/track/5smSKFma3LioFp4HNK1wq8"
-    },
-    {
-      "added_at": "2023-12-01 06:50:02",
-      "album": {
-        "name": "We Outside",
-        "url": "https://open.spotify.com/album/2OHCOJtdIppm9wawD4fVwe"
-      },
-      "artists": [
-        {
-          "name": "Olamide",
-          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
-        }
-      ],
-      "duration_ms": 155428,
-      "name": "We Outside",
-      "url": "https://open.spotify.com/track/73QcmfEnoLv3pKt0aXKdOG"
     },
     {
       "added_at": "2023-12-01 06:50:02",
@@ -1431,6 +1431,22 @@
     {
       "added_at": "2023-12-01 06:50:02",
       "album": {
+        "name": "Alusa Why Are You Topless?",
+        "url": "https://open.spotify.com/album/6AB8x99F5MUrnSHSbUdLBD"
+      },
+      "artists": [
+        {
+          "name": "Bien",
+          "url": "https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X"
+        }
+      ],
+      "duration_ms": 223124,
+      "name": "I Want You",
+      "url": "https://open.spotify.com/track/77LZE9iAKy6KDWTBl7vRwm"
+    },
+    {
+      "added_at": "2023-12-01 06:50:02",
+      "album": {
         "name": "Eyes on You",
         "url": "https://open.spotify.com/album/5YzJpnr4nVbCBwCvcY4Flr"
       },
@@ -1447,22 +1463,6 @@
       "duration_ms": 182442,
       "name": "Eyes on You",
       "url": "https://open.spotify.com/track/2NnqSG568w506fvH0pSTzI"
-    },
-    {
-      "added_at": "2023-12-01 06:50:02",
-      "album": {
-        "name": "Alusa Why Are You Topless?",
-        "url": "https://open.spotify.com/album/6AB8x99F5MUrnSHSbUdLBD"
-      },
-      "artists": [
-        {
-          "name": "Bien",
-          "url": "https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X"
-        }
-      ],
-      "duration_ms": 223124,
-      "name": "I Want You",
-      "url": "https://open.spotify.com/track/77LZE9iAKy6KDWTBl7vRwm"
     },
     {
       "added_at": "2023-12-01 06:50:02",

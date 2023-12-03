@@ -1,12 +1,12 @@
 {
   "description": "Mellow songs from the 1960s. Cover: Etta James.",
-  "num_followers": 276235,
+  "num_followers": 276346,
   "original_name": "Soft 60s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4OTQ0YTQ4OTc4M2FiMjkxMWMyYmQ4NmM4Y2JiZDJlZWUxYmI2ZjJk",
+  "snapshot_id": "MCw1MzIyNGM2MjA0M2E3NzQzMjYyNmNmMDFiNGMzMzg3YzcwNTg2MjI3",
   "tracks": [
     {
       "added_at": "2022-05-30 13:00:37",
@@ -739,22 +739,6 @@
     {
       "added_at": "2022-05-30 13:00:37",
       "album": {
-        "name": "Love Songs",
-        "url": "https://open.spotify.com/album/2paShliFsxYoO3WJEdTVdA"
-      },
-      "artists": [
-        {
-          "name": "Dusty Springfield",
-          "url": "https://open.spotify.com/artist/5zaXYwewAXedKNCff45U5l"
-        }
-      ],
-      "duration_ms": 164933,
-      "name": "Spooky (Single Version)",
-      "url": "https://open.spotify.com/track/4RYwE31p4KflK1h7J7m1Yt"
-    },
-    {
-      "added_at": "2022-05-30 13:00:37",
-      "album": {
         "name": "Diana Ross Presents The Jackson 5",
         "url": "https://open.spotify.com/album/51uoKRa8vT5SULrlF8s2t1"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 235640,
       "name": "Who's Lovin' You",
       "url": "https://open.spotify.com/track/6cZrsaNb4Zo9E5KHk7gcz5"
+    },
+    {
+      "added_at": "2022-05-30 13:00:37",
+      "album": {
+        "name": "Love Songs",
+        "url": "https://open.spotify.com/album/2paShliFsxYoO3WJEdTVdA"
+      },
+      "artists": [
+        {
+          "name": "Dusty Springfield",
+          "url": "https://open.spotify.com/artist/5zaXYwewAXedKNCff45U5l"
+        }
+      ],
+      "duration_ms": 164933,
+      "name": "Spooky (Single Version)",
+      "url": "https://open.spotify.com/track/4RYwE31p4KflK1h7J7m1Yt"
     },
     {
       "added_at": "2022-05-30 13:00:37",
@@ -931,22 +931,6 @@
     {
       "added_at": "2022-05-30 13:00:37",
       "album": {
-        "name": "The Very Best of The Dixie Cups: Chapel of Love",
-        "url": "https://open.spotify.com/album/3r8dNiqNnFU7hNmQH5Reb8"
-      },
-      "artists": [
-        {
-          "name": "The Dixie Cups",
-          "url": "https://open.spotify.com/artist/7ICvZfP4VHAPZ5Wdt03772"
-        }
-      ],
-      "duration_ms": 170786,
-      "name": "Chapel Of Love",
-      "url": "https://open.spotify.com/track/7vVG9xbmNQrtdSPTi7KDUm"
-    },
-    {
-      "added_at": "2022-05-30 13:00:37",
-      "album": {
         "name": "Honey",
         "url": "https://open.spotify.com/album/2AKHoOuDzuJ6d75eaDzZmP"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 238733,
       "name": "Honey",
       "url": "https://open.spotify.com/track/2Qhvi6R73Zj3cpzRYzcAww"
+    },
+    {
+      "added_at": "2022-05-30 13:00:37",
+      "album": {
+        "name": "The Very Best of The Dixie Cups: Chapel of Love",
+        "url": "https://open.spotify.com/album/3r8dNiqNnFU7hNmQH5Reb8"
+      },
+      "artists": [
+        {
+          "name": "The Dixie Cups",
+          "url": "https://open.spotify.com/artist/7ICvZfP4VHAPZ5Wdt03772"
+        }
+      ],
+      "duration_ms": 170786,
+      "name": "Chapel Of Love",
+      "url": "https://open.spotify.com/track/7vVG9xbmNQrtdSPTi7KDUm"
     },
     {
       "added_at": "2022-05-30 13:00:37",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2022-05-30 13:00:37",
       "album": {
-        "name": "Erma Franklin: Piece Of Her Heart - The Epic And Shout Years",
-        "url": "https://open.spotify.com/album/3GykoJmCI2qmvrgi8zQ7XW"
-      },
-      "artists": [
-        {
-          "name": "Erma Franklin",
-          "url": "https://open.spotify.com/artist/1CzJJJb6hnx84VNhgaJmFG"
-        }
-      ],
-      "duration_ms": 157266,
-      "name": "Piece of My Heart",
-      "url": "https://open.spotify.com/track/2GbePPrWWSRxcmW6QRSPae"
-    },
-    {
-      "added_at": "2022-05-30 13:00:37",
-      "album": {
         "name": "Chronology",
         "url": "https://open.spotify.com/album/5LUcaJu2OGKCCABM4kgSMj"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 162160,
       "name": "Sealed With A Kiss",
       "url": "https://open.spotify.com/track/6oM4ryXpuZmbFfBv2sEe7v"
+    },
+    {
+      "added_at": "2022-05-30 13:00:37",
+      "album": {
+        "name": "Erma Franklin: Piece Of Her Heart - The Epic And Shout Years",
+        "url": "https://open.spotify.com/album/3GykoJmCI2qmvrgi8zQ7XW"
+      },
+      "artists": [
+        {
+          "name": "Erma Franklin",
+          "url": "https://open.spotify.com/artist/1CzJJJb6hnx84VNhgaJmFG"
+        }
+      ],
+      "duration_ms": 157266,
+      "name": "Piece of My Heart",
+      "url": "https://open.spotify.com/track/2GbePPrWWSRxcmW6QRSPae"
     },
     {
       "added_at": "2022-05-30 13:00:37",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2022-05-30 13:00:37",
       "album": {
-        "name": "Cream Of The Crop",
-        "url": "https://open.spotify.com/album/44oDkaH8gO3ZvvxKE8lG4I"
-      },
-      "artists": [
-        {
-          "name": "Diana Ross & The Supremes",
-          "url": "https://open.spotify.com/artist/0rXI0q8Cahq6numvPlloaq"
-        }
-      ],
-      "duration_ms": 211666,
-      "name": "Someday We'll Be Together",
-      "url": "https://open.spotify.com/track/79Yk6AlSKi5dxDFINID2hS"
-    },
-    {
-      "added_at": "2022-05-30 13:00:37",
-      "album": {
         "name": "Hits and Rarities",
         "url": "https://open.spotify.com/album/2bV0PFcxYOfBKqwWczSL5c"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 149680,
       "name": "This Magic Moment - Single Version; Remastered",
       "url": "https://open.spotify.com/track/6wccwN37R7tRotVrK8Htni"
+    },
+    {
+      "added_at": "2022-05-30 13:00:37",
+      "album": {
+        "name": "Cream Of The Crop",
+        "url": "https://open.spotify.com/album/44oDkaH8gO3ZvvxKE8lG4I"
+      },
+      "artists": [
+        {
+          "name": "Diana Ross & The Supremes",
+          "url": "https://open.spotify.com/artist/0rXI0q8Cahq6numvPlloaq"
+        }
+      ],
+      "duration_ms": 211666,
+      "name": "Someday We'll Be Together",
+      "url": "https://open.spotify.com/track/79Yk6AlSKi5dxDFINID2hS"
     },
     {
       "added_at": "2022-05-30 13:00:37",

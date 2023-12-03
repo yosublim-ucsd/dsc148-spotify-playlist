@@ -253,6 +253,24 @@
     },
     {
       "album": {
+        "name": "LA MELO EST GANGX",
+        "url": "https://open.spotify.com/album/4C9mVDiMHuxOZ2eORwkCE1"
+      },
+      "artists": [
+        {
+          "name": "Gazo",
+          "url": "https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I"
+        }
+      ],
+      "date_added": "2023-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116906,
+      "name": "100K",
+      "url": "https://open.spotify.com/track/0RXp3LrNZo89KjmfUJS0UO"
+    },
+    {
+      "album": {
         "name": "10:35",
         "url": "https://open.spotify.com/album/77wWx9sOCJiy0wcn0P44NO"
       },
@@ -435,6 +453,24 @@
     },
     {
       "album": {
+        "name": "LA MELO EST GANGX",
+        "url": "https://open.spotify.com/album/4C9mVDiMHuxOZ2eORwkCE1"
+      },
+      "artists": [
+        {
+          "name": "Tiakola",
+          "url": "https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh"
+        }
+      ],
+      "date_added": "2023-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148226,
+      "name": "200K",
+      "url": "https://open.spotify.com/track/4IbdvCq0V3qL67y5Fsrujr"
+    },
+    {
+      "album": {
         "name": "SZR 2001",
         "url": "https://open.spotify.com/album/2kkaNm9FAqoUVhazyqobac"
       },
@@ -486,6 +522,28 @@
       "duration_ms": 197898,
       "name": "24",
       "url": "https://open.spotify.com/track/7DBFslKWQzoRgO0HBBkL3u"
+    },
+    {
+      "album": {
+        "name": "LA MELO EST GANGX",
+        "url": "https://open.spotify.com/album/4C9mVDiMHuxOZ2eORwkCE1"
+      },
+      "artists": [
+        {
+          "name": "Gazo",
+          "url": "https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I"
+        },
+        {
+          "name": "Tiakola",
+          "url": "https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh"
+        }
+      ],
+      "date_added": "2023-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227480,
+      "name": "24/34",
+      "url": "https://open.spotify.com/track/6UWT2WWl2vU9SWkvkXk9Ax"
     },
     {
       "album": {
@@ -899,6 +957,32 @@
     },
     {
       "album": {
+        "name": "LA MELO EST GANGX",
+        "url": "https://open.spotify.com/album/4C9mVDiMHuxOZ2eORwkCE1"
+      },
+      "artists": [
+        {
+          "name": "Gazo",
+          "url": "https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I"
+        },
+        {
+          "name": "Tiakola",
+          "url": "https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh"
+        },
+        {
+          "name": "Skread",
+          "url": "https://open.spotify.com/artist/6BbceEVcjow8mhQPYK3eBK"
+        }
+      ],
+      "date_added": "2023-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151533,
+      "name": "A.V.S.D",
+      "url": "https://open.spotify.com/track/0cs7ugM9egZgqFfaB8kEzv"
+    },
+    {
+      "album": {
         "name": "abcdefu",
         "url": "https://open.spotify.com/album/6tUQPKlpR4x1gjrXTtOImI"
       },
@@ -1028,6 +1112,28 @@
       "duration_ms": 179986,
       "name": "ADN",
       "url": "https://open.spotify.com/track/3EvLsCs6vdGAjskXqEhwdK"
+    },
+    {
+      "album": {
+        "name": "LA MELO EST GANGX",
+        "url": "https://open.spotify.com/album/4C9mVDiMHuxOZ2eORwkCE1"
+      },
+      "artists": [
+        {
+          "name": "Gazo",
+          "url": "https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I"
+        },
+        {
+          "name": "Tiakola",
+          "url": "https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh"
+        }
+      ],
+      "date_added": "2023-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204373,
+      "name": "AFRIKANBADMAN",
+      "url": "https://open.spotify.com/track/5JxFWqqJiWPDXDTmQfwas3"
     },
     {
       "album": {
@@ -1204,7 +1310,7 @@
       ],
       "date_added": "2023-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-03",
       "duration_ms": 189618,
       "name": "Akrapo 7",
       "url": "https://open.spotify.com/track/1C6E3aZ4S4fMN1HIgj73MQ"
@@ -1574,7 +1680,7 @@
       ],
       "date_added": "2023-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-03",
       "duration_ms": 182493,
       "name": "AMBER",
       "url": "https://open.spotify.com/track/3OFAB9JacVGaz4CWSsfZhZ"
@@ -1614,6 +1720,32 @@
       "duration_ms": 170760,
       "name": "Ambiance vandale",
       "url": "https://open.spotify.com/track/1znTNvYRyf4K7EnSoDSoIV"
+    },
+    {
+      "album": {
+        "name": "LA MELO EST GANGX",
+        "url": "https://open.spotify.com/album/4C9mVDiMHuxOZ2eORwkCE1"
+      },
+      "artists": [
+        {
+          "name": "Gazo",
+          "url": "https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I"
+        },
+        {
+          "name": "Tiakola",
+          "url": "https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh"
+        },
+        {
+          "name": "Kore",
+          "url": "https://open.spotify.com/artist/78Die3Gb8yaElTmGCa7m7N"
+        }
+      ],
+      "date_added": "2023-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193506,
+      "name": "AMBITIONS",
+      "url": "https://open.spotify.com/track/0B1sGCkytyAiprzmBkO7Xu"
     },
     {
       "album": {
@@ -1838,7 +1970,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-03",
       "duration_ms": 244360,
       "name": "Another Love",
       "url": "https://open.spotify.com/track/3JvKfv6T31zO0ini8iNItO"
@@ -2164,7 +2296,7 @@
       ],
       "date_added": "2023-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-03",
       "duration_ms": 166529,
       "name": "Arranca (feat. Omega)",
       "url": "https://open.spotify.com/track/6IdcyYfBz9LG3SWIKVyNgh"
@@ -2518,7 +2650,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-03",
       "duration_ms": 193813,
       "name": "Avec Toi",
       "url": "https://open.spotify.com/track/656vbT8JKkVx7g1yG12L89"
@@ -5266,6 +5398,28 @@
       "duration_ms": 187826,
       "name": "CARTIER",
       "url": "https://open.spotify.com/track/4I5We3zm0o8WCeydM98xBO"
+    },
+    {
+      "album": {
+        "name": "LA MELO EST GANGX",
+        "url": "https://open.spotify.com/album/4C9mVDiMHuxOZ2eORwkCE1"
+      },
+      "artists": [
+        {
+          "name": "Gazo",
+          "url": "https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I"
+        },
+        {
+          "name": "Tiakola",
+          "url": "https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh"
+        }
+      ],
+      "date_added": "2023-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229093,
+      "name": "CARTIER",
+      "url": "https://open.spotify.com/track/7AUMxm5ArZPHojwDbdi8Vi"
     },
     {
       "album": {
@@ -8126,7 +8280,7 @@
       ],
       "date_added": "2022-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-03",
       "duration_ms": 240413,
       "name": "DIE",
       "url": "https://open.spotify.com/track/3D29kjUyWxsT3jUUTtARVQ"
@@ -10546,7 +10700,7 @@
       ],
       "date_added": "2023-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-03",
       "duration_ms": 200600,
       "name": "Flowers",
       "url": "https://open.spotify.com/track/7DSAEUvxU8FajXtRloy8M0"
@@ -12989,6 +13143,28 @@
     },
     {
       "album": {
+        "name": "LA MELO EST GANGX",
+        "url": "https://open.spotify.com/album/4C9mVDiMHuxOZ2eORwkCE1"
+      },
+      "artists": [
+        {
+          "name": "Gazo",
+          "url": "https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I"
+        },
+        {
+          "name": "Tiakola",
+          "url": "https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh"
+        }
+      ],
+      "date_added": "2023-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142466,
+      "name": "INTERLUDE",
+      "url": "https://open.spotify.com/track/1itsG2W6qPClNGRLJeKkun"
+    },
+    {
+      "album": {
         "name": "Ar\u00e8s",
         "url": "https://open.spotify.com/album/0xs4XLhKpleNSEhDCUhKoD"
       },
@@ -13036,7 +13212,7 @@
       ],
       "date_added": "2022-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-03",
       "duration_ms": 147720,
       "name": "Intro",
       "url": "https://open.spotify.com/track/6qvyN6NTUpdfOJRYjtSSd7"
@@ -13918,7 +14094,7 @@
       ],
       "date_added": "2023-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-03",
       "duration_ms": 159573,
       "name": "Jolie (feat. Ninho)",
       "url": "https://open.spotify.com/track/16FTTvpIgihyei3EBNw1jd"
@@ -15502,7 +15678,7 @@
       ],
       "date_added": "2023-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-03",
       "duration_ms": 225137,
       "name": "LA RUE",
       "url": "https://open.spotify.com/track/7EO5oDxrq2dvYDgBjFvFYY"
@@ -15810,7 +15986,7 @@
       ],
       "date_added": "2023-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-29",
+      "date_removed": null,
       "duration_ms": 265960,
       "name": "Last Christmas - Single Version",
       "url": "https://open.spotify.com/track/06qMRF18gwbOYYbnP2du6i"
@@ -17132,7 +17308,7 @@
       ],
       "date_added": "2023-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-03",
       "duration_ms": 210688,
       "name": "Lose Control",
       "url": "https://open.spotify.com/track/17phhZDn6oGtzMe56NuWvj"
@@ -18244,6 +18420,28 @@
       "duration_ms": 171500,
       "name": "Mambella",
       "url": "https://open.spotify.com/track/48xHszgl5GSK5nefCOiFov"
+    },
+    {
+      "album": {
+        "name": "LA MELO EST GANGX",
+        "url": "https://open.spotify.com/album/4C9mVDiMHuxOZ2eORwkCE1"
+      },
+      "artists": [
+        {
+          "name": "Gazo",
+          "url": "https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I"
+        },
+        {
+          "name": "Tiakola",
+          "url": "https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh"
+        }
+      ],
+      "date_added": "2023-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233240,
+      "name": "MAMI WATA",
+      "url": "https://open.spotify.com/track/6yqwxY8qifBBhyryjZutxk"
     },
     {
       "album": {
@@ -19920,7 +20118,7 @@
       ],
       "date_added": "2023-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-03",
       "duration_ms": 226653,
       "name": "Mr. Ocho",
       "url": "https://open.spotify.com/track/1xLCwgQcF6bKncTJmRGGws"
@@ -20729,6 +20927,28 @@
     },
     {
       "album": {
+        "name": "LA MELO EST GANGX",
+        "url": "https://open.spotify.com/album/4C9mVDiMHuxOZ2eORwkCE1"
+      },
+      "artists": [
+        {
+          "name": "Gazo",
+          "url": "https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I"
+        },
+        {
+          "name": "Tiakola",
+          "url": "https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh"
+        }
+      ],
+      "date_added": "2023-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216386,
+      "name": "NOTRE DAME",
+      "url": "https://open.spotify.com/track/5RJcEoBhxDo8QgmKfr3JG8"
+    },
+    {
+      "album": {
         "name": "EQUATEUR",
         "url": "https://open.spotify.com/album/5JTIaFxUwxcK3ZqQ0KcFWR"
       },
@@ -21366,6 +21586,28 @@
       "duration_ms": 293880,
       "name": "Outro",
       "url": "https://open.spotify.com/track/0uIw2Q23XzaRWpklQe7k91"
+    },
+    {
+      "album": {
+        "name": "LA MELO EST GANGX",
+        "url": "https://open.spotify.com/album/4C9mVDiMHuxOZ2eORwkCE1"
+      },
+      "artists": [
+        {
+          "name": "Gazo",
+          "url": "https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I"
+        },
+        {
+          "name": "Tiakola",
+          "url": "https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh"
+        }
+      ],
+      "date_added": "2023-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217333,
+      "name": "OUTRO",
+      "url": "https://open.spotify.com/track/2OCyqdreriNICl35JpNioQ"
     },
     {
       "album": {
@@ -26459,6 +26701,28 @@
     },
     {
       "album": {
+        "name": "LA MELO EST GANGX",
+        "url": "https://open.spotify.com/album/4C9mVDiMHuxOZ2eORwkCE1"
+      },
+      "artists": [
+        {
+          "name": "Gazo",
+          "url": "https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I"
+        },
+        {
+          "name": "Tiakola",
+          "url": "https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh"
+        }
+      ],
+      "date_added": "2023-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259372,
+      "name": "SOBAD",
+      "url": "https://open.spotify.com/track/6UhgUbPfAIMdKif2Srt7F6"
+    },
+    {
+      "album": {
         "name": "Telegram",
         "url": "https://open.spotify.com/album/2IvmoaCYrxIVVdmfW9082i"
       },
@@ -29600,7 +29864,7 @@
       ],
       "date_added": "2022-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-03",
       "duration_ms": 147788,
       "name": "Urus",
       "url": "https://open.spotify.com/track/7A2DyRIqqelhZ4caPJMaFI"

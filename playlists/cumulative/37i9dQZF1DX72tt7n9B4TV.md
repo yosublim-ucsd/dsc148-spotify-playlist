@@ -4,13 +4,13 @@
 
 > Hot noise for those summer days.
 
-215 songs - 11 hr 47 min
+216 songs - 11 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [$20](https://open.spotify.com/track/38xXr3MkiKNzNDv4JDJagF) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [the record](https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI) | 3:20 | 2023-05-25 |  |
 | [23, Never Me](https://open.spotify.com/track/6X1qkAaZoCIgcrqyeRJP8L) | [Dead Pony](https://open.spotify.com/artist/3lGO6uBIzoFyU6OoGMER1B) | [23, Never Me](https://open.spotify.com/album/4q4NgtvMSCRc8LukyOks4F) | 2:55 | 2022-04-01 | 2022-11-13 |
-| [2am](https://open.spotify.com/track/04no0XXxXd3F5uLZi3qDYK) | [Foals](https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa) | [2am](https://open.spotify.com/album/04CKg4c7QsOXrlUxXbEZAe) | 3:44 | 2022-04-01 |  |
+| [2am](https://open.spotify.com/track/04no0XXxXd3F5uLZi3qDYK) | [Foals](https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa) | [2am](https://open.spotify.com/album/04CKg4c7QsOXrlUxXbEZAe) | 3:44 | 2022-04-01 | 2023-12-03 |
 | [98.](https://open.spotify.com/track/06R6ozRwIKqXSRTPCF5QOB) | [TOWNS](https://open.spotify.com/artist/7zcfwEODRWt0H3XIneO9ZK) | [98.](https://open.spotify.com/album/6Cuk7bUyJRsqmr7RLb5iXg) | 2:59 | 2022-04-01 | 2022-07-28 |
 | [A Mess](https://open.spotify.com/track/2AzhIrLY8aoVVpzA1KvFcB) | [Ailbhe Reddy](https://open.spotify.com/artist/1YQiMR5M12HJ28hkJz7qnn) | [A Mess](https://open.spotify.com/album/2JfNvW8E5SFdRnPf0ysuSr) | 3:58 | 2022-06-17 | 2022-07-29 |
 | [All I Need](https://open.spotify.com/track/3aMyQSDW0DJ7LTOkrd29hU) | [Jake Bugg](https://open.spotify.com/artist/4hf3caW9H8uFwwbv5pFjcg) | [All I Need](https://open.spotify.com/album/4ZXK260CRmgXgQ5tCs1hmk) | 3:36 | 2022-04-01 |  |
@@ -72,6 +72,7 @@
 | [Getting Started](https://open.spotify.com/track/4jzK6Ey84SAexMK5C2JWKx) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Seventeen Going Under \(Deluxe\)](https://open.spotify.com/album/4FKOLaEGqA7ZFYYW5r4X9z) | 3:09 | 2022-07-04 | 2023-03-18 |
 | [Giving Up](https://open.spotify.com/track/5XYoKiujAKGiHwnU2G0P7C) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [Toxic Positivity](https://open.spotify.com/album/3eFVX7tq5tCU0uqol29fis) | 3:10 | 2023-05-25 |  |
 | [Glue](https://open.spotify.com/track/5Isz1mw0HOzLOa1jas7MHH) | [The Pale White](https://open.spotify.com/artist/3uhfMjcE5HJqMIWh3Iolw0) | [Glue](https://open.spotify.com/album/1CUaog8mu2iSV3HmCtlUXl) | 3:37 | 2022-04-01 | 2022-07-28 |
+| [GODDESS](https://open.spotify.com/track/1ZngTOTM9nWJZOnG3vWkUF) | [PVRIS](https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy) | [EVERGREEN](https://open.spotify.com/album/4CLLPZzm1QDzUZ8FTkNPyy) | 2:32 | 2023-05-25 |  |
 | [GODDESS](https://open.spotify.com/track/2Yyf3awGJQnm70qSVoA9In) | [PVRIS](https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy) | [GODDESS](https://open.spotify.com/album/33oQ9C3SzYpP9d21X3BAkl) | 2:32 | 2023-03-17 | 2023-10-12 |
 | [Gold on the Ceiling](https://open.spotify.com/track/5lN1EH25gdiqT1SFALMAq1) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [El Camino](https://open.spotify.com/album/5DLhV9yOvZ7IxVmljMXtNm) | 3:44 | 2023-05-25 | 2023-06-03 |
 | [Golden](https://open.spotify.com/track/0woKDRMZzsFWeHppNQnGlS) | [Barns Courtney](https://open.spotify.com/artist/5tFRohaO5yEsuJxmMnlCO9) | [Golden](https://open.spotify.com/album/50SocXtryJeL2lfhNhDq2B) | 2:50 | 2023-05-25 |  |

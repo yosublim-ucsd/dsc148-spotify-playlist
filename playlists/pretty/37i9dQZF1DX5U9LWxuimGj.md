@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5U9LWxuimGj.md) - [plain]
 
 > Country music with a Latin flair\. Cover: Angie K
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,448 likes - 113 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,457 likes - 113 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [That Kinda Night](https://open.spotify.com/track/3uAS0qo2n4AoVpTqVTj6Qn) | [Angie K](https://open.spotify.com/artist/7tk53T02nvDYOvWz5T9qZL) | [That Kinda Night](https://open.spotify.com/album/0CgVsOyazunVFsXFNDdEg5) | 2:50 |
 | 2 | [Somebody Else's Whiskey](https://open.spotify.com/track/5duD8BLFr2MEvl7IN4g2Li) | [Frank Ray](https://open.spotify.com/artist/0LsBi7JKqWFCiFi0FsTbXF) | [Frank Ray](https://open.spotify.com/album/1tzDc0NmO80BmQwfHhTBsJ) | 3:53 |
-| 3 | [ALCH SI](https://open.spotify.com/track/5cWgwbui8BasfjCXvBZ7UA) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [ALCH SI](https://open.spotify.com/album/7rCPyUIciqYswpRXTa1JYc) | 2:33 |
+| 3 | [Alch Si](https://open.spotify.com/track/5cWgwbui8BasfjCXvBZ7UA) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Alch Si](https://open.spotify.com/album/7rCPyUIciqYswpRXTa1JYc) | 2:33 |
 | 4 | [LA LLUVIA \(with Jordyn Shellhart\)](https://open.spotify.com/track/2OSkxJooTe20Djkvepb7QT) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK), [Jordyn Shellhart](https://open.spotify.com/artist/4KKlcB7shlFTD98I5JNSuE) | [DLUX](https://open.spotify.com/album/5pAgLx8XeBoItzjT81csbJ) | 3:33 |
 | 5 | [Desert Rain](https://open.spotify.com/track/54uGAxFnjUCk0ySobH4kPL) | [Valerie Ponzio](https://open.spotify.com/artist/6lyvojQxyHnM61PUWTUKQQ) | [Frontera](https://open.spotify.com/album/199sZ1Ykrzexpnrlxfx9tM) | 3:25 |
 | 6 | [Hangover](https://open.spotify.com/track/3a6WpKrvj6YrPPPjLgyOES) | [Andrea Vasquez](https://open.spotify.com/artist/6qDuIc7yVd1VGCiJrNO8mh) | [The Bed You Made](https://open.spotify.com/album/3npjvgjdC2m9L9JXGXSCfk) | 3:04 |
@@ -122,4 +122,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5U9LWxuimGj.md) - [plain]
 | 112 | [Cuando Vuelvas](https://open.spotify.com/track/52s1L7krzR2JL4L1Vi7V3X) | [Paty Cantú](https://open.spotify.com/artist/7K9rdoOJSiKXoVXPlSkGKT) | [Cuando Vuelvas](https://open.spotify.com/album/3CR8IuxBLpzBR1vjS9ONkJ) | 3:13 |
 | 113 | [Tonto](https://open.spotify.com/track/33wYgNxWB4MXTiv6L36SoO) | [Stefano Manrique](https://open.spotify.com/artist/5QmOgnigMzwCp9MXowvpFP) | [Country Pop Latino](https://open.spotify.com/album/2UXkZRTHGwRSVKSwbdtwqm) | 3:00 |
 
-Snapshot ID: `MCwzNWI1MmNiNTc2MzU5YzY1NjU5MzM3ODI0NzI3MWUzNzQxYmU0MzU1`
+Snapshot ID: `MCw1Y2VkNjViZTU2MjcyMWNiZTAxMTBkY2Q0MWUwOWJmN2UwYmFmYTEw`

@@ -4,7 +4,7 @@
 
 > Sedihe koyo ngene, nggak bahaya ta? 😢
 
-67 songs - 5 hr 34 min
+69 songs - 5 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,8 @@
 | [LDR \( layang dungo restu \)](https://open.spotify.com/track/0tcEJ791a3aF6pTusqkJep) | [Happy Asmara](https://open.spotify.com/artist/5423rMdVbchY2cgu0GgH5X) | [LDR \( layang dungo restu \)](https://open.spotify.com/album/4e5KcsAGBMNwbfuDBspCRe) | 5:29 | 2021-09-08 |  |
 | [Lilakno Lungaku](https://open.spotify.com/track/6knc0ByasDCvGNlQPHYUFX) | [Losskita](https://open.spotify.com/artist/3BifJ2eD9KMFgAGa8LbPtI) | [Lilakno Lungaku](https://open.spotify.com/album/50hlFnDrEYiYp0lOReAxgb) | 5:35 | 2021-09-08 | 2023-10-19 |
 | [Lilakno Lungaku](https://open.spotify.com/track/6eQL36g0j3GlofcGauLJH7) | [Losskita](https://open.spotify.com/artist/3BifJ2eD9KMFgAGa8LbPtI) | [Lilakno Lungaku](https://open.spotify.com/album/1sf4AWv0GiLGTzRrfAhgDA) | 5:35 | 2023-10-11 |  |
-| [Loro Ati Sejak Dini](https://open.spotify.com/track/0oUVBZrnc8S6qJEA8uH1On) | [Evan Loss](https://open.spotify.com/artist/4mzKYnv5GDC0hsEwcnJdjo) | [Loro Ati Sejak Dini](https://open.spotify.com/album/69mI0XVoKizAkiULAx4FLj) | 4:44 | 2023-08-09 |  |
+| [Loro Ati Sejak Dini](https://open.spotify.com/track/03Ct1Mmyvj0f0Eg5Jk6ULp) | [Evan Loss](https://open.spotify.com/artist/4mzKYnv5GDC0hsEwcnJdjo) | [Loro Ati Sejak Dini](https://open.spotify.com/album/1cWsE4b3euHysg7MkSsIaW) | 4:44 | 2023-10-11 |  |
+| [Loro Ati Sejak Dini](https://open.spotify.com/track/0oUVBZrnc8S6qJEA8uH1On) | [Evan Loss](https://open.spotify.com/artist/4mzKYnv5GDC0hsEwcnJdjo) | [Loro Ati Sejak Dini](https://open.spotify.com/album/69mI0XVoKizAkiULAx4FLj) | 4:44 | 2023-08-09 | 2023-12-03 |
 | [Los Dol](https://open.spotify.com/track/2bCnJ2aCkSh0PIcS6nL2QM) | [Mr Jono & Joni](https://open.spotify.com/artist/15rzzisy7nred7z7Wotmy6) | [Los Dol](https://open.spotify.com/album/3nMuIEIxQ2VxTBAu5N4dKs) | 5:33 | 2021-09-08 | 2023-08-10 |
 | [Lungo'O](https://open.spotify.com/track/5mKAqG9ejNhdZhkoSJIi4j) | [Esa Risty](https://open.spotify.com/artist/3HShuvuxdHdvUxRqPjGrAc) | [Lungo'O](https://open.spotify.com/album/2ftYlwfINRuqjoBiQjfRx9) | 5:41 | 2023-06-12 |  |
 | [LungoO](https://open.spotify.com/track/4ThWoB0h7kZFH9KI8NqdHG) | [Esa Risty](https://open.spotify.com/artist/3HShuvuxdHdvUxRqPjGrAc) | [LungoO](https://open.spotify.com/album/1ajGUwvE5wkcXvUaSyAf1V) | 5:41 | 2021-09-08 | 2023-07-14 |
@@ -49,7 +50,8 @@
 | [Nemen](https://open.spotify.com/track/4cdLiwrmpSlke1IyjBWGJR) | [Guyon Waton](https://open.spotify.com/artist/5CROBjCskHMjRlerJor7Gx) | [Nemen](https://open.spotify.com/album/3Ie2SqHJ6vZOhusuf0ms5t) | 4:48 | 2023-07-18 |  |
 | [NEMEN](https://open.spotify.com/track/39GRzmNriSnmGcPSo2c1hl) | [Masdddho](https://open.spotify.com/artist/4GgexJxJZfH4pxYRIF4nBh) | [NEMEN](https://open.spotify.com/album/1SUUq2Y3vd9p2ghJoq09GG) | 5:21 | 2023-09-27 |  |
 | [NEMEN](https://open.spotify.com/track/0TuttExCt1JaKvrX2DvIXU) | [Sasya Arkhisna](https://open.spotify.com/artist/7lI4C2dx9SKfc3DD4zzkXA) | [NEMEN](https://open.spotify.com/album/7rKRjcEnQ3y8Ji1OK475tn) | 5:16 | 2023-05-09 |  |
-| [Nemen \- Hiphop Dangdut Version](https://open.spotify.com/track/6UoW3rtYmYB6DE5xzNors8) | [NDX A.K.A.](https://open.spotify.com/artist/1IDBhlpDyKr53UKKxXRHXD) | [Nemen \(Hiphop Dangdut Version\)](https://open.spotify.com/album/7MpDfyRq8fXGiIQi2ownvc) | 4:34 | 2023-09-01 |  |
+| [Nemen \- Hiphop Dangdut Version](https://open.spotify.com/track/3Q6DjwdB1gfLJMq1xkGov9) | [NDX A.K.A.](https://open.spotify.com/artist/1IDBhlpDyKr53UKKxXRHXD) | [Nemen \(Hiphop Dangdut Version\)](https://open.spotify.com/album/11lUbzZyDxoBy4yJYASpQy) | 4:34 | 2023-10-11 |  |
+| [Nemen \- Hiphop Dangdut Version](https://open.spotify.com/track/6UoW3rtYmYB6DE5xzNors8) | [NDX A.K.A.](https://open.spotify.com/artist/1IDBhlpDyKr53UKKxXRHXD) | [Nemen \(Hiphop Dangdut Version\)](https://open.spotify.com/album/7MpDfyRq8fXGiIQi2ownvc) | 4:34 | 2023-09-01 | 2023-12-03 |
 | [Nemen HipHop Dangdut Version](https://open.spotify.com/track/0x1pt89JYeC7MPZ2JsFCZS) | [NDX A.K.A.](https://open.spotify.com/artist/1IDBhlpDyKr53UKKxXRHXD) | [Nemen HipHop Dangdut Version](https://open.spotify.com/album/0xd3JAsG3sUFwWqSgeaZT3) | 4:34 | 2023-06-12 | 2023-09-07 |
 | [Ojo Dibandingke](https://open.spotify.com/track/6zwls2VhjHF9Ax7Xa2r54W) | [Farel Prayoga](https://open.spotify.com/artist/1hPyJFbjHuyBZZSFkMEGmj) | [Ojo Dibandingke](https://open.spotify.com/album/06cjzsgFqj0CCDt2LtTd0W) | 5:28 | 2023-02-03 |  |
 | [Ojo Nangis](https://open.spotify.com/track/4Iz7wW7kYwGOtGhv9bnO06) | [Ndarboy Genk](https://open.spotify.com/artist/7FHGSpmUoIkL2hG6T0qvrJ) | [Ojo Nangis](https://open.spotify.com/album/7yXCV83nLn5d9BKwsolEEE) | 5:23 | 2021-09-08 |  |

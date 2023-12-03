@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2CLoLFwNFP1.md) - [plain]
 
 > 
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,888 likes - 100 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,920 likes - 100 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2CLoLFwNFP1.md) - [plain]
 | 99 | [Sexy 4 Eva](https://open.spotify.com/track/1RPQAYvomUz5QAim2hj6cn) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [Ask Bout Me](https://open.spotify.com/album/6XlL7j4p0WXpm1y8HqnBmM) | 3:41 |
 | 100 | [I Got This](https://open.spotify.com/track/5IQhpdzUUxk3WngtnrXv2P) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [EVERYTHING YOU WANTED](https://open.spotify.com/album/0c4LKBzh0ufU36AyuzZRc2) | 3:46 |
 
-Snapshot ID: `MCw5YTg1NTk4NTYxODViZTAwMWUxYWYzODk2MDY0MGRmYzFmYzJmZTkx`
+Snapshot ID: `MCwwZGE5ZDQ0OTI3ZWQ0NDZlYmVhNjA5ZmU4YTNhM2FjOThjNTIxOWM1`

@@ -4,7 +4,7 @@
 
 > Need to get your energy level up? This will help!
 
-261 songs - 18 hr 14 min
+262 songs - 18 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,7 +98,7 @@
 | [First Kill](https://open.spotify.com/track/3hf590VY3jJzyV6BA7IqCb) | [Amon Amarth](https://open.spotify.com/artist/3pulcT2wt7FEG10lQlqDJL) | [Jomsviking](https://open.spotify.com/album/79GLbXCHnsOG9TBzvtS3sy) | 4:22 | 2021-12-17 | 2022-07-29 |
 | [Fix This](https://open.spotify.com/track/2dmXK5Vbtd3xcMVlW4cPPA) | [Nonpoint](https://open.spotify.com/artist/6BdSOHfQ6kMg0tbAFlXR1z) | [X \(Deluxe Edition\)](https://open.spotify.com/album/6VR91jzeyEvl6UkEqQkswo) | 3:49 | 2021-12-17 | 2022-07-28 |
 | [From The Pinnacle To The Pit](https://open.spotify.com/track/15IbPTMnzKyXXvZigaaPQh) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Meliora \(Redux\)](https://open.spotify.com/album/5HZKJCYNwSyMSo0oylwCHu) | 4:02 | 2021-12-17 | 2022-07-28 |
-| [From The Pinnacle To The Pit](https://open.spotify.com/track/2J5aJp4HQxcMuxZ6HVM4GC) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Meliora](https://open.spotify.com/album/74QTwjBLo1eLqpjL320rXX) | 4:02 | 2022-01-06 |  |
+| [From The Pinnacle To The Pit](https://open.spotify.com/track/2J5aJp4HQxcMuxZ6HVM4GC) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Meliora](https://open.spotify.com/album/74QTwjBLo1eLqpjL320rXX) | 4:02 | 2022-01-06 | 2023-12-03 |
 | [Game Over](https://open.spotify.com/track/27oqpECc2wygxRAIBCgxHa) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [Bloodstone & Diamonds](https://open.spotify.com/album/5LflIRpgFkIkwXZHiXqyoX) | 6:36 | 2021-12-17 |  |
 | [Ghost Of Me](https://open.spotify.com/track/25Yfk4XBeglz1QoXhDqJ2w) | [Make Them Suffer](https://open.spotify.com/artist/0FZcPgWI3BsFQl4rOAGSHT) | [Ghost Of Me](https://open.spotify.com/album/6XHoTtC0sNkJbnKXkCC4ov) | 3:51 | 2023-11-27 |  |
 | [Ghosts](https://open.spotify.com/track/6pvtHYK8YwNDbfmKPljvIo) | [August Burns Red](https://open.spotify.com/artist/5p9CTsn5ueGU4oScNX1axu), [Jeremy Mckinnon](https://open.spotify.com/artist/2pbDbO5s6Tx2EHmpvLFuLw) | [Found In Far Away Places](https://open.spotify.com/album/46uMdmTIh7xBxLJrFcFTbL) | 4:49 | 2021-12-17 | 2022-06-01 |
@@ -257,6 +257,7 @@
 | [Unleashed](https://open.spotify.com/track/0A4QYWEP8jo5aiHbGMVrXp) | [Killswitch Engage](https://open.spotify.com/artist/37394IP6uhnjIpsawpMu4l) | [Atonement](https://open.spotify.com/album/6kkUp557e0o5k0dRBfohJZ) | 4:35 | 2021-12-17 | 2022-07-29 |
 | [Until the World Goes Cold](https://open.spotify.com/track/1hPKSQuvfLlPeIu8xhRyTf) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [Silence in the Snow \(Special Edition\)](https://open.spotify.com/album/5l2xUBNPkPSZB0KVrEXANI) | 5:21 | 2021-12-17 |  |
 | [Vore](https://open.spotify.com/track/5vJIVr0ZYo8DFbfSOY4Goa) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [Take Me Back To Eden](https://open.spotify.com/album/1gjugH97doz3HktiEjx2vY) | 5:39 | 2023-06-22 |  |
+| [Wake The Dead](https://open.spotify.com/track/2DayUFU47R0WQQsvB3KPk3) | [blessthefall](https://open.spotify.com/artist/7t2C8WwLyKUKRe0LVh8zl9) | [Wake The Dead](https://open.spotify.com/album/7JfMevv73honn9mW7ZenHs) | 3:07 | 2023-11-27 |  |
 | [Wake The Dead](https://open.spotify.com/track/7cLEpyYMAgQh3x0oX6scp3) | [blessthefall](https://open.spotify.com/artist/7t2C8WwLyKUKRe0LVh8zl9) | [Wake The Dead](https://open.spotify.com/album/50NFxpSSYkfxIIrd6RX7Lu) | 3:07 | 2023-06-22 | 2023-11-03 |
 | [Walk](https://open.spotify.com/track/7fcfNW0XxTWlwVlftzfDOR) | [Pantera](https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18) | [Vulgar Display of Power](https://open.spotify.com/album/7kW0cpKgSVsEqcc8xgbSb0) | 5:15 | 2021-12-17 |  |
 | [War Eternal](https://open.spotify.com/track/0WZZENH0kt3O2cBE8q5IRq) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [War Eternal](https://open.spotify.com/album/3qzrNVuUyOJxfzMYRCh5qN) | 4:16 | 2021-12-17 |  |

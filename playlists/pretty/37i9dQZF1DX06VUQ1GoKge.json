@@ -1,12 +1,12 @@
 {
   "description": "Attribute to the strength built through the years, as Robb would say.",
-  "num_followers": 561079,
+  "num_followers": 561066,
   "original_name": "Blood, Sweat & Cheers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZjNkNzhkZWY5MmY4MTJjNDExYTMxNjk2YTE3MWVhODc3NWI2YTE4",
+  "snapshot_id": "MCw2MTgyZDUzODg3NjQ2MDVmZmNlMzg3OTRmODVkOTJlMzUyOTE1NDRm",
   "tracks": [
     {
       "added_at": "2023-11-30 20:35:14",
@@ -795,6 +795,22 @@
     {
       "added_at": "2023-11-30 20:35:14",
       "album": {
+        "name": "Jaded",
+        "url": "https://open.spotify.com/album/28sBiYcFfkpAldZodapMyU"
+      },
+      "artists": [
+        {
+          "name": "Spiritbox",
+          "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
+        }
+      ],
+      "duration_ms": 262631,
+      "name": "Jaded",
+      "url": "https://open.spotify.com/track/6IdyYbGg1jxiWhfwm2Ykjn"
+    },
+    {
+      "added_at": "2023-11-30 20:35:14",
+      "album": {
         "name": "Reverence",
         "url": "https://open.spotify.com/album/46hNwndF4Tm6D1cGr0G5zL"
       },
@@ -843,18 +859,18 @@
     {
       "added_at": "2023-11-30 20:35:14",
       "album": {
-        "name": "Jaded",
-        "url": "https://open.spotify.com/album/28sBiYcFfkpAldZodapMyU"
+        "name": "Piece of Mind (2015 Remaster)",
+        "url": "https://open.spotify.com/album/0wza6LbioNIj4FsDAIDz66"
       },
       "artists": [
         {
-          "name": "Spiritbox",
-          "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
+          "name": "Iron Maiden",
+          "url": "https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao"
         }
       ],
-      "duration_ms": 262631,
-      "name": "Jaded",
-      "url": "https://open.spotify.com/track/6IdyYbGg1jxiWhfwm2Ykjn"
+      "duration_ms": 252733,
+      "name": "The Trooper (2015 Remaster)",
+      "url": "https://open.spotify.com/track/2C3B3dva983HPMojFqWLOp"
     },
     {
       "added_at": "2023-11-30 20:35:14",
@@ -871,38 +887,6 @@
       "duration_ms": 307644,
       "name": "Protect The Land",
       "url": "https://open.spotify.com/track/11ajcVj3qSyyMPUpTJUP3y"
-    },
-    {
-      "added_at": "2023-11-30 20:35:14",
-      "album": {
-        "name": "Darker Still",
-        "url": "https://open.spotify.com/album/36McCMdCRYn5j6iSMiqdG4"
-      },
-      "artists": [
-        {
-          "name": "Parkway Drive",
-          "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
-        }
-      ],
-      "duration_ms": 261811,
-      "name": "Glitch",
-      "url": "https://open.spotify.com/track/1jKH10ufuA4EzUCdobVxu0"
-    },
-    {
-      "added_at": "2023-11-30 20:35:14",
-      "album": {
-        "name": "Piece of Mind (2015 Remaster)",
-        "url": "https://open.spotify.com/album/0wza6LbioNIj4FsDAIDz66"
-      },
-      "artists": [
-        {
-          "name": "Iron Maiden",
-          "url": "https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao"
-        }
-      ],
-      "duration_ms": 252733,
-      "name": "The Trooper (2015 Remaster)",
-      "url": "https://open.spotify.com/track/2C3B3dva983HPMojFqWLOp"
     },
     {
       "added_at": "2023-11-30 20:35:14",
@@ -951,6 +935,22 @@
       "duration_ms": 248880,
       "name": "Doomsday",
       "url": "https://open.spotify.com/track/75R95k0ICuZBFVEjBauOtt"
+    },
+    {
+      "added_at": "2023-11-30 20:35:14",
+      "album": {
+        "name": "Darker Still",
+        "url": "https://open.spotify.com/album/36McCMdCRYn5j6iSMiqdG4"
+      },
+      "artists": [
+        {
+          "name": "Parkway Drive",
+          "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
+        }
+      ],
+      "duration_ms": 261811,
+      "name": "Glitch",
+      "url": "https://open.spotify.com/track/1jKH10ufuA4EzUCdobVxu0"
     },
     {
       "added_at": "2023-11-30 20:35:14",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2023-11-30 20:35:14",
       "album": {
-        "name": "Rust In Peace",
-        "url": "https://open.spotify.com/album/4e6ML9RBhDyyKTaTwbiRZv"
-      },
-      "artists": [
-        {
-          "name": "Megadeth",
-          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
-        }
-      ],
-      "duration_ms": 322933,
-      "name": "Tornado Of Souls",
-      "url": "https://open.spotify.com/track/4GMQOjbWshf4Mzphkjg0DJ"
-    },
-    {
-      "added_at": "2023-11-30 20:35:14",
-      "album": {
         "name": "The Great War",
         "url": "https://open.spotify.com/album/7FtCDX4COLE3HR2vBv7411"
       },
@@ -1083,18 +1067,18 @@
     {
       "added_at": "2023-11-30 20:35:14",
       "album": {
-        "name": "Protect The Land / Genocidal Humanoidz",
-        "url": "https://open.spotify.com/album/00OQIrRjQgZmacSnjK8L7M"
+        "name": "Rust In Peace",
+        "url": "https://open.spotify.com/album/4e6ML9RBhDyyKTaTwbiRZv"
       },
       "artists": [
         {
-          "name": "System Of A Down",
-          "url": "https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1"
+          "name": "Megadeth",
+          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
         }
       ],
-      "duration_ms": 155286,
-      "name": "Genocidal Humanoidz",
-      "url": "https://open.spotify.com/track/3Sg3bOiD0kE4D5DcXk48Ds"
+      "duration_ms": 322933,
+      "name": "Tornado Of Souls",
+      "url": "https://open.spotify.com/track/4GMQOjbWshf4Mzphkjg0DJ"
     },
     {
       "added_at": "2023-11-30 20:35:14",
@@ -1111,6 +1095,22 @@
       "duration_ms": 283957,
       "name": "Cellar Door",
       "url": "https://open.spotify.com/track/2GWtLHhqPjvZt1aWiBDsTU"
+    },
+    {
+      "added_at": "2023-11-30 20:35:14",
+      "album": {
+        "name": "Protect The Land / Genocidal Humanoidz",
+        "url": "https://open.spotify.com/album/00OQIrRjQgZmacSnjK8L7M"
+      },
+      "artists": [
+        {
+          "name": "System Of A Down",
+          "url": "https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1"
+        }
+      ],
+      "duration_ms": 155286,
+      "name": "Genocidal Humanoidz",
+      "url": "https://open.spotify.com/track/3Sg3bOiD0kE4D5DcXk48Ds"
     },
     {
       "added_at": "2023-11-30 20:35:14",
@@ -1159,6 +1159,22 @@
       "duration_ms": 313520,
       "name": "Overkill",
       "url": "https://open.spotify.com/track/4XvvR8F6qOcnzgChO1uTIO"
+    },
+    {
+      "added_at": "2023-11-30 20:35:14",
+      "album": {
+        "name": "Eternal Blue",
+        "url": "https://open.spotify.com/album/4OXoBlapQygTdzAifJm8BL"
+      },
+      "artists": [
+        {
+          "name": "Spiritbox",
+          "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
+        }
+      ],
+      "duration_ms": 173174,
+      "name": "Holy Roller",
+      "url": "https://open.spotify.com/track/1LLiDI21J4WWlmqk7zsm9v"
     },
     {
       "added_at": "2023-11-30 20:35:14",
@@ -1259,22 +1275,6 @@
       "duration_ms": 291733,
       "name": "War Ensemble",
       "url": "https://open.spotify.com/track/1E0yt5XSdjE9NOu897RilW"
-    },
-    {
-      "added_at": "2023-11-30 20:35:14",
-      "album": {
-        "name": "Eternal Blue",
-        "url": "https://open.spotify.com/album/4OXoBlapQygTdzAifJm8BL"
-      },
-      "artists": [
-        {
-          "name": "Spiritbox",
-          "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
-        }
-      ],
-      "duration_ms": 173174,
-      "name": "Holy Roller",
-      "url": "https://open.spotify.com/track/1LLiDI21J4WWlmqk7zsm9v"
     },
     {
       "added_at": "2023-11-30 20:35:14",

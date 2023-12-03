@@ -1,12 +1,12 @@
 {
   "description": "Entre cl\u00e1sicos y nuevos int\u00e9rpretes, puro Chamam\u00e9.",
-  "num_followers": 43990,
+  "num_followers": 44033,
   "original_name": "Mundo Chamam\u00e9",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MDBmNDY2NGRjMzc4ZTNiMWUxNDYyNGVhZmUzZmZmZjc0OTc1NGU1",
+  "snapshot_id": "MCxiNTEwOWE2NTFmYWFkYTEwYWFhZDYxYjU1Y2ViZmIwODA1YWExNmEx",
   "tracks": [
     {
       "added_at": "2023-06-09 03:00:00",
@@ -379,22 +379,6 @@
     {
       "added_at": "2023-06-09 03:00:00",
       "album": {
-        "name": "20 Grandes Exitos",
-        "url": "https://open.spotify.com/album/0KsDfdfztZFSAcwne4wBnx"
-      },
-      "artists": [
-        {
-          "name": "Los de Mailin",
-          "url": "https://open.spotify.com/artist/3dOc8TrWBy34iRv0TaXolB"
-        }
-      ],
-      "duration_ms": 133173,
-      "name": "No Cualquiera Es Correntino",
-      "url": "https://open.spotify.com/track/1IMq2t2VTsidbZZoMyC5Hz"
-    },
-    {
-      "added_at": "2023-06-09 03:00:00",
-      "album": {
         "name": "30 A\u00f1os Despu\u00e9s",
         "url": "https://open.spotify.com/album/29qdVczira2f72fAfz51fB"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 177893,
       "name": "Mi Caballo Bayo",
       "url": "https://open.spotify.com/track/3iCMhCbsCPA91D1NQDZaNg"
+    },
+    {
+      "added_at": "2023-06-09 03:00:00",
+      "album": {
+        "name": "20 Grandes Exitos",
+        "url": "https://open.spotify.com/album/0KsDfdfztZFSAcwne4wBnx"
+      },
+      "artists": [
+        {
+          "name": "Los de Mailin",
+          "url": "https://open.spotify.com/artist/3dOc8TrWBy34iRv0TaXolB"
+        }
+      ],
+      "duration_ms": 133173,
+      "name": "No Cualquiera Es Correntino",
+      "url": "https://open.spotify.com/track/1IMq2t2VTsidbZZoMyC5Hz"
     },
     {
       "added_at": "2023-06-09 03:00:00",
@@ -747,6 +747,22 @@
     {
       "added_at": "2023-06-09 03:00:00",
       "album": {
+        "name": "Otras M\u00fasicas",
+        "url": "https://open.spotify.com/album/09sEjVuNxgmY9OxKR6P9Jn"
+      },
+      "artists": [
+        {
+          "name": "Chango Spasiuk",
+          "url": "https://open.spotify.com/artist/0qGRkfnUqWeG49vbCv6rMY"
+        }
+      ],
+      "duration_ms": 275026,
+      "name": "Nazareno",
+      "url": "https://open.spotify.com/track/6pIAha0Dd1jjrMLozs2kVv"
+    },
+    {
+      "added_at": "2023-06-09 03:00:00",
+      "album": {
         "name": "Los 55 Anos del Cuarteto Santa Ana",
         "url": "https://open.spotify.com/album/07WYgRf0q9zz4TuFPXaBhr"
       },
@@ -767,18 +783,18 @@
     {
       "added_at": "2023-06-09 03:00:00",
       "album": {
-        "name": "Otras M\u00fasicas",
-        "url": "https://open.spotify.com/album/09sEjVuNxgmY9OxKR6P9Jn"
+        "name": "Mi Estrella Perdida",
+        "url": "https://open.spotify.com/album/1gZEqHoM4jZF6OCHNZWuAu"
       },
       "artists": [
         {
-          "name": "Chango Spasiuk",
-          "url": "https://open.spotify.com/artist/0qGRkfnUqWeG49vbCv6rMY"
+          "name": "Los Alonsitos",
+          "url": "https://open.spotify.com/artist/1sObDTvhRtaW8yjty7sT7H"
         }
       ],
-      "duration_ms": 275026,
-      "name": "Nazareno",
-      "url": "https://open.spotify.com/track/6pIAha0Dd1jjrMLozs2kVv"
+      "duration_ms": 248320,
+      "name": "Mi Estrella Perdida",
+      "url": "https://open.spotify.com/track/47ugki7NC3Nb0lwUZQEqzd"
     },
     {
       "added_at": "2023-06-09 03:00:00",
@@ -831,22 +847,6 @@
       "duration_ms": 168666,
       "name": "Bien picadito",
       "url": "https://open.spotify.com/track/7eGEktGlPx393Ttet2J8nN"
-    },
-    {
-      "added_at": "2023-06-09 03:00:00",
-      "album": {
-        "name": "Mi Estrella Perdida",
-        "url": "https://open.spotify.com/album/1gZEqHoM4jZF6OCHNZWuAu"
-      },
-      "artists": [
-        {
-          "name": "Los Alonsitos",
-          "url": "https://open.spotify.com/artist/1sObDTvhRtaW8yjty7sT7H"
-        }
-      ],
-      "duration_ms": 248320,
-      "name": "Mi Estrella Perdida",
-      "url": "https://open.spotify.com/track/47ugki7NC3Nb0lwUZQEqzd"
     },
     {
       "added_at": "2023-06-09 03:00:00",
@@ -1135,26 +1135,6 @@
     {
       "added_at": "2023-06-09 03:00:00",
       "album": {
-        "name": "Segundo Contacto",
-        "url": "https://open.spotify.com/album/6gYf4sXesP2E7Y1jqBNM4H"
-      },
-      "artists": [
-        {
-          "name": "Herencia Chamamecera",
-          "url": "https://open.spotify.com/artist/6itXl4rZsOI26m5ddJIPym"
-        },
-        {
-          "name": "Ricardo G\u00f3mez",
-          "url": "https://open.spotify.com/artist/6gCwCLfmpzV5wXPmaPMifb"
-        }
-      ],
-      "duration_ms": 194853,
-      "name": "Para Volver a So\u00f1ar",
-      "url": "https://open.spotify.com/track/2TgBqAzfSHxUds6Ek9VIDa"
-    },
-    {
-      "added_at": "2023-06-09 03:00:00",
-      "album": {
         "name": "Coleccion Aniversario",
         "url": "https://open.spotify.com/album/1JvfVnnIOwhQmcvDdUAyYW"
       },
@@ -1171,6 +1151,26 @@
       "duration_ms": 147986,
       "name": "Siete Higueras",
       "url": "https://open.spotify.com/track/0qMgxlql8mqgFA0EDwKQGf"
+    },
+    {
+      "added_at": "2023-06-09 03:00:00",
+      "album": {
+        "name": "Segundo Contacto",
+        "url": "https://open.spotify.com/album/6gYf4sXesP2E7Y1jqBNM4H"
+      },
+      "artists": [
+        {
+          "name": "Herencia Chamamecera",
+          "url": "https://open.spotify.com/artist/6itXl4rZsOI26m5ddJIPym"
+        },
+        {
+          "name": "Ricardo G\u00f3mez",
+          "url": "https://open.spotify.com/artist/6gCwCLfmpzV5wXPmaPMifb"
+        }
+      ],
+      "duration_ms": 194853,
+      "name": "Para Volver a So\u00f1ar",
+      "url": "https://open.spotify.com/track/2TgBqAzfSHxUds6Ek9VIDa"
     },
     {
       "added_at": "2023-06-09 03:00:00",

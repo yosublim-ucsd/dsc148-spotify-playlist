@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXoqmNKv7cNC.md) - [plain]
 
 > ¡Mujeres mexicanas icónicas del 2023 a todo volumen! Vivir Quintana en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,368 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,373 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,9 +30,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXoqmNKv7cNC.md) - [plain]
 | 20 | [radar](https://open.spotify.com/track/3xYtmu8IcDfXGEw7I9oChp) | [Nicole Horts](https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux) | [radar](https://open.spotify.com/album/5NoZoiJBQJz4a5FZSjGXei) | 2:40 |
 | 21 | [Dejarte Me Lo Debo A Mí](https://open.spotify.com/track/6B0ljoP8hAMVAnrpTs72vp) | [Kaia Lana](https://open.spotify.com/artist/2w1kIJBDjYnpHHVLiTn3FJ) | [¿Cómo sonaría un disco?](https://open.spotify.com/album/5ceNhJg1s3D5sm49J9kLHI) | 2:47 |
 | 22 | [Señorita Revolución](https://open.spotify.com/track/7EDmXSg0xZZT3NkcBjijCn) | [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [Señorita Revolución](https://open.spotify.com/album/12rvlwP0OW2UKV1lmTqQtm) | 2:38 |
-| 23 | [daydreaming](https://open.spotify.com/track/77TNJhVDMPwRYxeMOED5Bl) | [Foudeqush](https://open.spotify.com/artist/0XFgM33h3Ls5tj1M9IKUWd) | [daydreaming](https://open.spotify.com/album/1zsf05JNT2seWKnDbwQzfn) | 2:42 |
-| 24 | [EL FINAL](https://open.spotify.com/track/2v0HNNJ3mijsvzOgHq8EHO) | [Hello Seahorse!](https://open.spotify.com/artist/3vKxuOGRkXJWpCZPf01Nj8) | [EL FINAL](https://open.spotify.com/album/6InT8SPpU1AIUXcQsbMZ00) | 3:52 |
-| 25 | [Mismo Amor](https://open.spotify.com/track/7stAazwZr0UUVRd5glymAz) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Tu Historia](https://open.spotify.com/album/37hygnVgTNDZxFQ9FJMLII) | 3:18 |
+| 23 | [Mismo Amor](https://open.spotify.com/track/7stAazwZr0UUVRd5glymAz) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Tu Historia](https://open.spotify.com/album/37hygnVgTNDZxFQ9FJMLII) | 3:18 |
+| 24 | [daydreaming](https://open.spotify.com/track/77TNJhVDMPwRYxeMOED5Bl) | [Foudeqush](https://open.spotify.com/artist/0XFgM33h3Ls5tj1M9IKUWd) | [daydreaming](https://open.spotify.com/album/1zsf05JNT2seWKnDbwQzfn) | 2:42 |
+| 25 | [EL FINAL](https://open.spotify.com/track/2v0HNNJ3mijsvzOgHq8EHO) | [Hello Seahorse!](https://open.spotify.com/artist/3vKxuOGRkXJWpCZPf01Nj8) | [EL FINAL](https://open.spotify.com/album/6InT8SPpU1AIUXcQsbMZ00) | 3:52 |
 | 26 | [TRASCENDER](https://open.spotify.com/track/5xZq4873FHfXsT3gGhYY6K) | [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [DAMALEONA](https://open.spotify.com/album/4CtZOAq6nHz4nw6vKqeSkL) | 4:15 |
 | 27 | [La Marea](https://open.spotify.com/track/7pI7M7SsSAV8TgKNdwVPKV) | [BUDAYA](https://open.spotify.com/artist/1uLgN9ifDGflQ7RywGw67U), [Pahua](https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch) | [La Marea](https://open.spotify.com/album/4ZQxt3J0oCsxXasH7z79Sk) | 3:16 |
 | 28 | [odiarte](https://open.spotify.com/track/7ljgbvaKZi1W4rhXWMfsxU) | [Ivana](https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ) | [odiarte](https://open.spotify.com/album/4MfTBFDwxb1Hz0uUxrswPA) | 3:10 |
@@ -49,14 +49,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXoqmNKv7cNC.md) - [plain]
 | 39 | [Guadalajara](https://open.spotify.com/track/6SImgmPvVI0sGL2jkzMftw) | [Paty Cantú](https://open.spotify.com/artist/7K9rdoOJSiKXoVXPlSkGKT), [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW) | [Piscis](https://open.spotify.com/album/2VjNyPPi9RWrA16YibDJi6) | 3:49 |
 | 40 | [M.A.D](https://open.spotify.com/track/3xIwTkW38ynlLRyTWEgdd4) | [Masta Quba](https://open.spotify.com/artist/6huE8Sh7scgoA8rj2vCuwZ), [Delfina Dib](https://open.spotify.com/artist/6vwr6V7RwcWMDqVNerpNlZ), [Astrid Cruz](https://open.spotify.com/artist/1WhuV4MAbMhWKjYXojKN8i), [P\. Jaguar](https://open.spotify.com/artist/0dtzsqGSEudST19Mq6ilvB) | [M.A.D](https://open.spotify.com/album/1yJrR1qgfd1CTkSzOg59dV) | 3:19 |
 | 41 | [Cypher 1: Ella \(feat\. Delfina Dib\)](https://open.spotify.com/track/1syrgjPK0foTlggQJJ48GY) | [Mabiland](https://open.spotify.com/artist/2oXKVuZqDv85M1ynjVMp3J), [EMJAY](https://open.spotify.com/artist/5TtCVmeuicGu9EIwiFQcyn), [Mare Advertencia Lirika](https://open.spotify.com/artist/3QVB7ctBlqEFuQZeMDt6Qh), [Delfina Dib](https://open.spotify.com/artist/6vwr6V7RwcWMDqVNerpNlZ) | [Cypher 1: Ella \(feat\. Delfina Dib\)](https://open.spotify.com/album/308VA4UV7GdELyQHd5TGLD) | 3:29 |
-| 42 | [No sé si vuelva a verte](https://open.spotify.com/track/4exUwB6HFf2YMh5PkFQ094) | [Elis Paprika](https://open.spotify.com/artist/7LVz7xRg5YcXb6bD5JZRtk) | [No sé si vuelva a verte](https://open.spotify.com/album/5FV6Y27m253VFLvB5or7UH) | 3:47 |
-| 43 | [Mala Amiga](https://open.spotify.com/track/6acWLZMJWZw29wcehfY1WU) | [Karina Galicia](https://open.spotify.com/artist/0syMDHmkYbx5dG8bOnZ60z) | [Mala Amiga](https://open.spotify.com/album/7uVtPIsdz0UNaiWZOXWKZr) | 3:15 |
-| 44 | [POLVO](https://open.spotify.com/track/6vA5gkHwob4xiw200jHeDa) | [GRTSCH](https://open.spotify.com/artist/0UuPYvwZmo6lXXvi1S5mLK), [Denise Gutiérrez](https://open.spotify.com/artist/4svp08yFN6IGlkBJlEhT4Z) | [POLVO](https://open.spotify.com/album/4vdhfstIdiL9CkqhnUSAaD) | 4:00 |
-| 45 | [Hola Lola](https://open.spotify.com/track/5IfspIqcWREksXTijVm3M9) | [Andru](https://open.spotify.com/artist/3oOQ670Uw0UyVnmj9XM58W) | [Hola Lola](https://open.spotify.com/album/5QMxRYcUld2N5Oe75ePcge) | 3:57 |
+| 42 | [Mala Amiga](https://open.spotify.com/track/6acWLZMJWZw29wcehfY1WU) | [Karina Galicia](https://open.spotify.com/artist/0syMDHmkYbx5dG8bOnZ60z) | [Mala Amiga](https://open.spotify.com/album/7uVtPIsdz0UNaiWZOXWKZr) | 3:15 |
+| 43 | [No sé si vuelva a verte](https://open.spotify.com/track/4exUwB6HFf2YMh5PkFQ094) | [Elis Paprika](https://open.spotify.com/artist/7LVz7xRg5YcXb6bD5JZRtk) | [No sé si vuelva a verte](https://open.spotify.com/album/5FV6Y27m253VFLvB5or7UH) | 3:47 |
+| 44 | [Hola Lola](https://open.spotify.com/track/5IfspIqcWREksXTijVm3M9) | [Andru](https://open.spotify.com/artist/3oOQ670Uw0UyVnmj9XM58W) | [Hola Lola](https://open.spotify.com/album/5QMxRYcUld2N5Oe75ePcge) | 3:57 |
+| 45 | [POLVO](https://open.spotify.com/track/6vA5gkHwob4xiw200jHeDa) | [GRTSCH](https://open.spotify.com/artist/0UuPYvwZmo6lXXvi1S5mLK), [Denise Gutiérrez](https://open.spotify.com/artist/4svp08yFN6IGlkBJlEhT4Z) | [POLVO](https://open.spotify.com/album/4vdhfstIdiL9CkqhnUSAaD) | 4:00 |
 | 46 | [Hospital Sentimental](https://open.spotify.com/track/3RBVoUW2d2sLchpeqr1o4Y) | [Greta Ela](https://open.spotify.com/artist/5c8L3nGznkMGwbmyMKVIl8) | [Hospital Sentimental](https://open.spotify.com/album/2TI5EI92Ji5MrzH9GcglFO) | 3:19 |
 | 47 | [SKB](https://open.spotify.com/track/6gXpd9hQ2nBKlfCFBDQHsF) | [Joaquina Mertz](https://open.spotify.com/artist/7lSGnBub2g8JGbNDgmrXsJ) | [SKB](https://open.spotify.com/album/45Y4FneTtW9gZYhd98Sunp) | 3:38 |
 | 48 | [Como Antes](https://open.spotify.com/track/6PpeVjbkQh759WPQVvieZU) | [Noa Sainz](https://open.spotify.com/artist/3kN2uYBnEM2IqRxa69sxkr), [Glass Cristina](https://open.spotify.com/artist/53g48F3bGMRlungRoVZ7FH) | [Como Antes](https://open.spotify.com/album/3PKLQmB3kl3OubFIdkV01O) | 3:52 |
 | 49 | [El Espejo Y El Oro](https://open.spotify.com/track/2ntloEnUxFOFgQ6lh6Xlob) | [Ximbo](https://open.spotify.com/artist/0RjHsbbdfnI3okpxdZ2JOV), [Bungalo Dub](https://open.spotify.com/artist/69JPOTvYfcr3R57sMZdJU0), [Bhajan](https://open.spotify.com/artist/03gjTMhvuxszNbXMxwYJmv) | [Ruta Mexicolombia](https://open.spotify.com/album/6c2d10wfbQZuV7zCCfqLCy) | 4:09 |
 | 50 | [Calor](https://open.spotify.com/track/1tjwpYaTif4HRMUADJzzgf) | [Herbolaria](https://open.spotify.com/artist/5DrflPAe5ZoSkw2FtxrnZW) | [Calor](https://open.spotify.com/album/50HwL1s1yIlbECtQ3SznIs) | 3:23 |
 
-Snapshot ID: `MCxlZTI1NWYwYjhhZDVjYTA1YThjMWNiMTI3NjQ1YWI0OGVlODA2ZDk4`
+Snapshot ID: `MCwyN2M5OTE4MGVkNTc1MzJjNDM1ZWUwMGEyZWQxYTMwNmM4OTRhOWQ3`

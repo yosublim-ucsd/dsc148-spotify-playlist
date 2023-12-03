@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/rjbarrett/\">RJ Barrett</a>",
-  "num_followers": 1534,
+  "num_followers": 1536,
   "original_name": "RJ Barrett's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMzI4MTRkOWU5MmU3MDljYjkwNTY4NTk0MTliMTdhYjAwNzMyNjg3",
+  "snapshot_id": "MCxjYWY3OWYwNWQxZDczMTE1ZmU1OGExYjBmNWI3ZmQ0MzUyNTVmNDNm",
   "tracks": [
     {
       "added_at": "2022-11-01 04:00:00",
@@ -455,22 +455,6 @@
     {
       "added_at": "2022-11-01 04:00:00",
       "album": {
-        "name": "No Label II",
-        "url": "https://open.spotify.com/album/1NIzKm1DqvComMoEF1FZPQ"
-      },
-      "artists": [
-        {
-          "name": "Migos",
-          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
-        }
-      ],
-      "duration_ms": 210556,
-      "name": "Handsome And Wealthy",
-      "url": "https://open.spotify.com/track/2ZBnK2CGFK6jcagWrpyPzA"
-    },
-    {
-      "added_at": "2022-11-01 04:00:00",
-      "album": {
         "name": "Let's Get It: Thug Motivation 101",
         "url": "https://open.spotify.com/album/6hiOeC9YErltT6CnK4pfJN"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 280013,
       "name": "Soul Survivor",
       "url": "https://open.spotify.com/track/0Ss50OU9tCozI7JIywkv14"
+    },
+    {
+      "added_at": "2022-11-01 04:00:00",
+      "album": {
+        "name": "No Label II",
+        "url": "https://open.spotify.com/album/1NIzKm1DqvComMoEF1FZPQ"
+      },
+      "artists": [
+        {
+          "name": "Migos",
+          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
+        }
+      ],
+      "duration_ms": 210556,
+      "name": "Handsome And Wealthy",
+      "url": "https://open.spotify.com/track/2ZBnK2CGFK6jcagWrpyPzA"
     },
     {
       "added_at": "2022-11-01 04:00:00",
@@ -767,26 +767,6 @@
     {
       "added_at": "2022-11-01 04:00:00",
       "album": {
-        "name": "Believe Me",
-        "url": "https://open.spotify.com/album/7pnplSgRtopeTNyCxBJf4n"
-      },
-      "artists": [
-        {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
-        },
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 337640,
-      "name": "Believe Me",
-      "url": "https://open.spotify.com/track/6t2eIONH4Sax3R21QWiKNp"
-    },
-    {
-      "added_at": "2022-11-01 04:00:00",
-      "album": {
         "name": "Rich Crack Baby",
         "url": "https://open.spotify.com/album/0c5QIo4MTyneCPZtXjr7BX"
       },
@@ -803,6 +783,26 @@
       "duration_ms": 227224,
       "name": "Foreva (feat. T.I.)",
       "url": "https://open.spotify.com/track/23nOXuK95DPOiO62Ixgzza"
+    },
+    {
+      "added_at": "2022-11-01 04:00:00",
+      "album": {
+        "name": "Believe Me",
+        "url": "https://open.spotify.com/album/7pnplSgRtopeTNyCxBJf4n"
+      },
+      "artists": [
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 337640,
+      "name": "Believe Me",
+      "url": "https://open.spotify.com/track/6t2eIONH4Sax3R21QWiKNp"
     },
     {
       "added_at": "2022-11-01 04:00:00",
@@ -915,26 +915,6 @@
     {
       "added_at": "2022-11-01 04:00:00",
       "album": {
-        "name": "I Am Not A Human Being II (Deluxe)",
-        "url": "https://open.spotify.com/album/6Pqlfg42Sc3ElNuyt5NUiK"
-      },
-      "artists": [
-        {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
-        },
-        {
-          "name": "Detail",
-          "url": "https://open.spotify.com/artist/4sglKanXuoU0gqGYP3wiNv"
-        }
-      ],
-      "duration_ms": 222866,
-      "name": "No Worries",
-      "url": "https://open.spotify.com/track/6bdFbw9THAMceZtkPWXu8e"
-    },
-    {
-      "added_at": "2022-11-01 04:00:00",
-      "album": {
         "name": "Code Red",
         "url": "https://open.spotify.com/album/4faPRidDvKRvHnWdvmvVHv"
       },
@@ -975,6 +955,26 @@
       "duration_ms": 149568,
       "name": "No Long Talk",
       "url": "https://open.spotify.com/track/6CfrYuD3YRDYdYvH9jNtXY"
+    },
+    {
+      "added_at": "2022-11-01 04:00:00",
+      "album": {
+        "name": "LONDON (feat. J. Cole)",
+        "url": "https://open.spotify.com/album/5rIHQjM7xy35RYx9E3XaqS"
+      },
+      "artists": [
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        },
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        }
+      ],
+      "duration_ms": 250722,
+      "name": "LONDON (feat. J. Cole)",
+      "url": "https://open.spotify.com/track/5vhrsx08dHh2QcVh1Rsiwt"
     }
   ],
   "unique_name": "RJ Barrett's Taste",

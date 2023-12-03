@@ -1,12 +1,12 @@
 {
   "description": "When you know, you know. Eclectic love songs with delicate lyrics that say it best.",
-  "num_followers": 243009,
+  "num_followers": 243161,
   "original_name": "Love Letter",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2Y2ZmMzliZjQ0ZGZlMGEzNTdhMjQ4ZDNmYTY2YjRjZWRhNjBmYjM0",
+  "snapshot_id": "MCw2YTEzZmRlMjBkMWVkYmNkMGExZGJjNTVkMzIzZTBkNjliMzc4N2Zj",
   "tracks": [
     {
       "added_at": "2023-09-18 21:46:05",
@@ -967,22 +967,6 @@
     {
       "added_at": "2023-09-18 21:46:05",
       "album": {
-        "name": "The Covers Record",
-        "url": "https://open.spotify.com/album/4dZBOO1PjjmtPA974xHMND"
-      },
-      "artists": [
-        {
-          "name": "Cat Power",
-          "url": "https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC"
-        }
-      ],
-      "duration_ms": 139466,
-      "name": "Sea of Love",
-      "url": "https://open.spotify.com/track/33kKcOJoyNduHwXhEnga8X"
-    },
-    {
-      "added_at": "2023-09-18 21:46:05",
-      "album": {
         "name": "Lungs (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2FgknX5e7fJlriQtxvpLhZ"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 255133,
       "name": "Cosmic Love",
       "url": "https://open.spotify.com/track/0CSTvWUps1YmpQoXXay9ol"
+    },
+    {
+      "added_at": "2023-09-18 21:46:05",
+      "album": {
+        "name": "The Covers Record",
+        "url": "https://open.spotify.com/album/4dZBOO1PjjmtPA974xHMND"
+      },
+      "artists": [
+        {
+          "name": "Cat Power",
+          "url": "https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC"
+        }
+      ],
+      "duration_ms": 139466,
+      "name": "Sea of Love",
+      "url": "https://open.spotify.com/track/33kKcOJoyNduHwXhEnga8X"
     },
     {
       "added_at": "2023-09-18 21:46:05",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2023-09-18 21:46:05",
       "album": {
-        "name": "The Reminder",
-        "url": "https://open.spotify.com/album/7bTdGfczXffzzNE9ssJj4Z"
-      },
-      "artists": [
-        {
-          "name": "Feist",
-          "url": "https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj"
-        }
-      ],
-      "duration_ms": 183666,
-      "name": "1234",
-      "url": "https://open.spotify.com/track/2CzWeyC9zlDpIOZPUUKrBW"
-    },
-    {
-      "added_at": "2023-09-18 21:46:05",
-      "album": {
         "name": "Simple Things",
         "url": "https://open.spotify.com/album/1VRBB9iu84o3g16CczH9iH"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 338279,
       "name": "Destiny",
       "url": "https://open.spotify.com/track/27ViQppP3LZPCJl2A0w9kp"
+    },
+    {
+      "added_at": "2023-09-18 21:46:05",
+      "album": {
+        "name": "The Reminder",
+        "url": "https://open.spotify.com/album/7bTdGfczXffzzNE9ssJj4Z"
+      },
+      "artists": [
+        {
+          "name": "Feist",
+          "url": "https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj"
+        }
+      ],
+      "duration_ms": 183666,
+      "name": "1234",
+      "url": "https://open.spotify.com/track/2CzWeyC9zlDpIOZPUUKrBW"
     },
     {
       "added_at": "2023-09-18 21:46:05",

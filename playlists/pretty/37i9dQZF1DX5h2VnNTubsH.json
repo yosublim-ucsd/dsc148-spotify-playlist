@@ -1,12 +1,12 @@
 {
   "description": "Out of office \u2705",
-  "num_followers": 168007,
+  "num_followers": 167979,
   "original_name": "Summer Holiday 2023",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5YzUwY2E1NWJmODJhYjlmNDNjMTUzODgxYWFlM2JiYzVlY2M0YTky",
+  "snapshot_id": "MCwzODM3YmY2ZjdmMzYyM2EyOThjOWRiMjMyNTk5YThkNjAzYmM2YzMy",
   "tracks": [
     {
       "added_at": "2023-08-15 20:30:18",
@@ -515,6 +515,22 @@
     {
       "added_at": "2023-08-15 20:30:18",
       "album": {
+        "name": "SOS",
+        "url": "https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "duration_ms": 181840,
+      "name": "Shirt",
+      "url": "https://open.spotify.com/track/2wSTnntOPRi7aQneobFtU4"
+    },
+    {
+      "added_at": "2023-08-15 20:30:18",
+      "album": {
         "name": "10:35",
         "url": "https://open.spotify.com/album/77wWx9sOCJiy0wcn0P44NO"
       },
@@ -531,22 +547,6 @@
       "duration_ms": 172252,
       "name": "10:35",
       "url": "https://open.spotify.com/track/6BePGk3eCan4FqaW2X8Qy3"
-    },
-    {
-      "added_at": "2023-08-15 20:30:18",
-      "album": {
-        "name": "SOS",
-        "url": "https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG"
-      },
-      "artists": [
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        }
-      ],
-      "duration_ms": 181840,
-      "name": "Shirt",
-      "url": "https://open.spotify.com/track/2wSTnntOPRi7aQneobFtU4"
     },
     {
       "added_at": "2023-08-15 20:30:18",
@@ -635,18 +635,22 @@
     {
       "added_at": "2023-08-15 20:30:18",
       "album": {
-        "name": "Drifting",
-        "url": "https://open.spotify.com/album/2kLk6nNB65O9AA6EmaI5DG"
+        "name": "Timeless",
+        "url": "https://open.spotify.com/album/6lI21W76LD0S3vC55GrfSS"
       },
       "artists": [
         {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        },
+        {
+          "name": "Musa Keys",
+          "url": "https://open.spotify.com/artist/414pDI8Y502owCbg7U6Skf"
         }
       ],
-      "duration_ms": 147692,
-      "name": "Drifting",
-      "url": "https://open.spotify.com/track/4EmH2iRucAgCOnhuJRotUi"
+      "duration_ms": 169911,
+      "name": "UNAVAILABLE (feat. Musa Keys)",
+      "url": "https://open.spotify.com/track/2kaH2Z8ezDUKf6fNw250rZ"
     },
     {
       "added_at": "2023-08-15 20:30:18",
@@ -667,22 +671,18 @@
     {
       "added_at": "2023-08-15 20:30:18",
       "album": {
-        "name": "Timeless",
-        "url": "https://open.spotify.com/album/6lI21W76LD0S3vC55GrfSS"
+        "name": "Drifting",
+        "url": "https://open.spotify.com/album/2kLk6nNB65O9AA6EmaI5DG"
       },
       "artists": [
         {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        },
-        {
-          "name": "Musa Keys",
-          "url": "https://open.spotify.com/artist/414pDI8Y502owCbg7U6Skf"
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
         }
       ],
-      "duration_ms": 169911,
-      "name": "UNAVAILABLE (feat. Musa Keys)",
-      "url": "https://open.spotify.com/track/2kaH2Z8ezDUKf6fNw250rZ"
+      "duration_ms": 147692,
+      "name": "Drifting",
+      "url": "https://open.spotify.com/track/4EmH2iRucAgCOnhuJRotUi"
     },
     {
       "added_at": "2023-08-15 20:30:18",
@@ -763,26 +763,6 @@
     {
       "added_at": "2023-08-15 20:30:18",
       "album": {
-        "name": "Supernatural (Remastered)",
-        "url": "https://open.spotify.com/album/10aiDpdFGyfCFEcqpx6XTq"
-      },
-      "artists": [
-        {
-          "name": "Santana",
-          "url": "https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P"
-        },
-        {
-          "name": "The Product G&B",
-          "url": "https://open.spotify.com/artist/782IpIScTpnDhYb9hyxOu1"
-        }
-      ],
-      "duration_ms": 261973,
-      "name": "Maria Maria (feat. The Product G&B)",
-      "url": "https://open.spotify.com/track/3XKIUb7HzIF1Vu9usunMzc"
-    },
-    {
-      "added_at": "2023-08-15 20:30:18",
-      "album": {
         "name": "DNA (Loving You) [feat. Hannah Boleyn]",
         "url": "https://open.spotify.com/album/6chhPL4qq4x8IEkvEDTL3R"
       },
@@ -799,6 +779,26 @@
       "duration_ms": 164919,
       "name": "DNA (Loving You) [feat. Hannah Boleyn]",
       "url": "https://open.spotify.com/track/6ibDVMcMUNqZ5eXT9sD4Vy"
+    },
+    {
+      "added_at": "2023-08-15 20:30:18",
+      "album": {
+        "name": "Supernatural (Remastered)",
+        "url": "https://open.spotify.com/album/10aiDpdFGyfCFEcqpx6XTq"
+      },
+      "artists": [
+        {
+          "name": "Santana",
+          "url": "https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P"
+        },
+        {
+          "name": "The Product G&B",
+          "url": "https://open.spotify.com/artist/782IpIScTpnDhYb9hyxOu1"
+        }
+      ],
+      "duration_ms": 261973,
+      "name": "Maria Maria (feat. The Product G&B)",
+      "url": "https://open.spotify.com/track/3XKIUb7HzIF1Vu9usunMzc"
     },
     {
       "added_at": "2023-08-15 20:30:18",
@@ -983,6 +983,22 @@
     {
       "added_at": "2023-08-15 20:30:18",
       "album": {
+        "name": "Tension (Deluxe)",
+        "url": "https://open.spotify.com/album/4VNaEhdswqNiEMAcfSav9g"
+      },
+      "artists": [
+        {
+          "name": "Kylie Minogue",
+          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
+        }
+      ],
+      "duration_ms": 166266,
+      "name": "Padam Padam",
+      "url": "https://open.spotify.com/track/44MuEHdlociG8KjhPhOVw5"
+    },
+    {
+      "added_at": "2023-08-15 20:30:18",
+      "album": {
         "name": "Closer",
         "url": "https://open.spotify.com/album/41CcjIZFfcWfv7clVItCLA"
       },
@@ -1019,22 +1035,6 @@
       "duration_ms": 206035,
       "name": "The Weekend",
       "url": "https://open.spotify.com/track/1r16zpUZ2nH44uOXlBGrbm"
-    },
-    {
-      "added_at": "2023-08-15 20:30:18",
-      "album": {
-        "name": "Tension (Deluxe)",
-        "url": "https://open.spotify.com/album/4VNaEhdswqNiEMAcfSav9g"
-      },
-      "artists": [
-        {
-          "name": "Kylie Minogue",
-          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
-        }
-      ],
-      "duration_ms": 166266,
-      "name": "Padam Padam",
-      "url": "https://open.spotify.com/track/44MuEHdlociG8KjhPhOVw5"
     },
     {
       "added_at": "2023-08-15 20:30:18",
@@ -1187,6 +1187,22 @@
     {
       "added_at": "2023-08-15 20:30:18",
       "album": {
+        "name": "My 21st Century Blues",
+        "url": "https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH"
+      },
+      "artists": [
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        }
+      ],
+      "duration_ms": 201373,
+      "name": "Flip A Switch.",
+      "url": "https://open.spotify.com/track/252ZECHopILLs10pMfE76N"
+    },
+    {
+      "added_at": "2023-08-15 20:30:18",
+      "album": {
         "name": "Million Dollar Bill",
         "url": "https://open.spotify.com/album/1vu51AVRSHyaS3D2GxzsF7"
       },
@@ -1211,22 +1227,6 @@
     {
       "added_at": "2023-08-15 20:30:18",
       "album": {
-        "name": "My 21st Century Blues",
-        "url": "https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH"
-      },
-      "artists": [
-        {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
-        }
-      ],
-      "duration_ms": 201373,
-      "name": "Flip A Switch.",
-      "url": "https://open.spotify.com/track/252ZECHopILLs10pMfE76N"
-    },
-    {
-      "added_at": "2023-08-15 20:30:18",
-      "album": {
         "name": "Amapiano",
         "url": "https://open.spotify.com/album/6SS3BYYRmatpgcIrmRCuI6"
       },
@@ -1247,38 +1247,6 @@
     {
       "added_at": "2023-08-15 20:30:18",
       "album": {
-        "name": "Vibes Don't Lie",
-        "url": "https://open.spotify.com/album/6Dl92Rb1qVMsN0cBzTVwMU"
-      },
-      "artists": [
-        {
-          "name": "Skeete",
-          "url": "https://open.spotify.com/artist/7vwwjn0kTEsI82Gj6HGypO"
-        }
-      ],
-      "duration_ms": 148333,
-      "name": "Tek Buddy",
-      "url": "https://open.spotify.com/track/10OmeI0uRJArozB5QpnQke"
-    },
-    {
-      "added_at": "2023-08-15 20:30:18",
-      "album": {
-        "name": "Little Things",
-        "url": "https://open.spotify.com/album/4YBGGd7KYurLSbc6XKDnSO"
-      },
-      "artists": [
-        {
-          "name": "Jorja Smith",
-          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
-        }
-      ],
-      "duration_ms": 204600,
-      "name": "Little Things",
-      "url": "https://open.spotify.com/track/1javLzBHyEKJJrG3s6FHaM"
-    },
-    {
-      "added_at": "2023-08-15 20:30:18",
-      "album": {
         "name": "CUFF IT",
         "url": "https://open.spotify.com/album/7BJjZgzGzpll0t8CEzjILs"
       },
@@ -1291,6 +1259,22 @@
       "duration_ms": 249406,
       "name": "CUFF IT - WETTER REMIX",
       "url": "https://open.spotify.com/track/7eQpbVg3tjHmtdOlAHxaTr"
+    },
+    {
+      "added_at": "2023-08-15 20:30:18",
+      "album": {
+        "name": "Vibes Don't Lie",
+        "url": "https://open.spotify.com/album/6Dl92Rb1qVMsN0cBzTVwMU"
+      },
+      "artists": [
+        {
+          "name": "Skeete",
+          "url": "https://open.spotify.com/artist/7vwwjn0kTEsI82Gj6HGypO"
+        }
+      ],
+      "duration_ms": 148333,
+      "name": "Tek Buddy",
+      "url": "https://open.spotify.com/track/10OmeI0uRJArozB5QpnQke"
     },
     {
       "added_at": "2023-08-15 20:30:18",
@@ -1315,22 +1299,18 @@
     {
       "added_at": "2023-08-15 20:30:18",
       "album": {
-        "name": "Split Decision",
-        "url": "https://open.spotify.com/album/0On7uutIu9rZRvP9aJbMog"
+        "name": "Little Things",
+        "url": "https://open.spotify.com/album/4YBGGd7KYurLSbc6XKDnSO"
       },
       "artists": [
         {
-          "name": "Dave",
-          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
-        },
-        {
-          "name": "Central Cee",
-          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
         }
       ],
-      "duration_ms": 229133,
-      "name": "Sprinter",
-      "url": "https://open.spotify.com/track/08YvUaUsZktAG6zEMDwUqO"
+      "duration_ms": 204600,
+      "name": "Little Things",
+      "url": "https://open.spotify.com/track/1javLzBHyEKJJrG3s6FHaM"
     },
     {
       "added_at": "2023-08-15 20:30:18",
@@ -1359,6 +1339,26 @@
     {
       "added_at": "2023-08-15 20:30:18",
       "album": {
+        "name": "Special (feat. SZA)",
+        "url": "https://open.spotify.com/album/5Qw3usvS6dDOE0ErN6tl7O"
+      },
+      "artists": [
+        {
+          "name": "Lizzo",
+          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
+        },
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "duration_ms": 174748,
+      "name": "Special (feat. SZA)",
+      "url": "https://open.spotify.com/track/0rc1HCVoReqzzXF9jssqZk"
+    },
+    {
+      "added_at": "2023-08-15 20:30:18",
+      "album": {
         "name": "Talibans II",
         "url": "https://open.spotify.com/album/4EouhaKTJkW8xRpLsCz7va"
       },
@@ -1379,22 +1379,22 @@
     {
       "added_at": "2023-08-15 20:30:18",
       "album": {
-        "name": "Special (feat. SZA)",
-        "url": "https://open.spotify.com/album/5Qw3usvS6dDOE0ErN6tl7O"
+        "name": "Split Decision",
+        "url": "https://open.spotify.com/album/0On7uutIu9rZRvP9aJbMog"
       },
       "artists": [
         {
-          "name": "Lizzo",
-          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
+          "name": "Dave",
+          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
         },
         {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+          "name": "Central Cee",
+          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
         }
       ],
-      "duration_ms": 174748,
-      "name": "Special (feat. SZA)",
-      "url": "https://open.spotify.com/track/0rc1HCVoReqzzXF9jssqZk"
+      "duration_ms": 229133,
+      "name": "Sprinter",
+      "url": "https://open.spotify.com/track/08YvUaUsZktAG6zEMDwUqO"
     },
     {
       "added_at": "2023-08-15 20:30:18",

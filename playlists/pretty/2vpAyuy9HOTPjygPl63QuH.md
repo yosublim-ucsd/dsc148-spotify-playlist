@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2vpAyuy9HOTPjygPl63QuH.md) - [plain]
 
 > The freshest tech house &amp; techno music 🔥🔊 \| tech house \- house \- techno \- rave \- party \- bangers \- tiktok techno \- dance \| Submit via Instagram: @subshiftmusic
 
-[SUBSHIFT](https://open.spotify.com/user/gl9sml84khuto2ag30n4ijsmv) - 6,932 likes - 48 songs - 2 hr 41 min
+[SUBSHIFT](https://open.spotify.com/user/gl9sml84khuto2ag30n4ijsmv) - 6,946 likes - 49 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,5 +56,6 @@ pretty - [cumulative](/playlists/cumulative/2vpAyuy9HOTPjygPl63QuH.md) - [plain]
 | 46 | [Midnight In Manilla](https://open.spotify.com/track/2IQvNuU2SY25ddSWtYGfff) | [Dillon Nathaniel](https://open.spotify.com/artist/0Ut5FcDeEgaM9PM3LvnH6j) | [Midnight In Manilla](https://open.spotify.com/album/1QBxHmwLji2KF27E3UQjKe) | 2:34 |
 | 47 | [Dreamer](https://open.spotify.com/track/47SEt8Ftu5Vm69yRoFUDXr) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo) | [Dreamer](https://open.spotify.com/album/60DNwMVgnq9J3dV0yC0LcQ) | 3:35 |
 | 48 | [Collab](https://open.spotify.com/track/2xNzcfNDu70BBMWUqG0vD8) | [Cele](https://open.spotify.com/artist/2bpkThEPVrkcoAJpTFAVLR), [MYMA](https://open.spotify.com/artist/4ulrSQwgXFXA7JcEKG1TkK) | [Collab](https://open.spotify.com/album/3WhRJ0zccDoJqseYv1b9HU) | 6:05 |
+| 49 | [Watts](https://open.spotify.com/track/5gsJJzemZZTCTSUxIFQm6u) | [Miguel Bastida](https://open.spotify.com/artist/5wHxSZdr7rIyqlFJxH1gCM) | [Watts](https://open.spotify.com/album/3IhzIcjFBD3VQHee0DB2Eg) | 3:17 |
 
-Snapshot ID: `ODA1MywwOWQxZGYxNzhlNGE0MzVjNjBhZGE3MjVkZmE2MGY4NmE2ZmEwYTdh`
+Snapshot ID: `ODA1NCxlM2YxN2EwZTI2NmMxMTg0NTM4M2E4ZGJkMzgyNTg5MTA4MmUwOTNj`

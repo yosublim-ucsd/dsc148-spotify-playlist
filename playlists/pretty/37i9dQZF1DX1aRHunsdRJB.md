@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aRHunsdRJB.md) - [plain]
 
 > A playlist driven from the islands, take the front seat as Soca meets Bashment
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,214 likes - 68 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,219 likes - 68 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,4 +77,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aRHunsdRJB.md) - [plain]
 | 67 | [The People Man \(T.P.M.\)](https://open.spotify.com/track/2xsCpoyTKtvaejdEQkLo7T) | [Kisha](https://open.spotify.com/artist/6vK1HRsfeYa8m5ejJD4RTc), [Mata](https://open.spotify.com/artist/1jo7mWxIHJtOm0TAoKL1jJ) | [Sick Jab Riddim \(Deluxe Edition\)](https://open.spotify.com/album/1T6GuTqK1HDTYmW8J8d3Nj) | 2:15 |
 | 68 | [Braff](https://open.spotify.com/track/0u1FgrJMjQ0G39uJUToYXh) | [Teejay](https://open.spotify.com/artist/30hElzuHCZ1qzCl364SHma), [DING DONG](https://open.spotify.com/artist/351x2S7CduShTNvtzgkMl7) | [Braff](https://open.spotify.com/album/3KamCpPGnXLDePk5pKXb6E) | 3:08 |
 
-Snapshot ID: `MCwzYzQ5Njc4ZGE3OGZhMzJhMjU5ODdhZjMxMmJmODY5MGQ4NzM1ZDdk`
+Snapshot ID: `MCw1M2Q3NGEwYWI4NzFmMTJkZTFlMTBlNzE0MWFmZmUzMDY3YzNhMzE4`

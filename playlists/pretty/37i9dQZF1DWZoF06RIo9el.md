@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoF06RIo9el.md) - [plain]
 
 > Lo mejor de noviembre 2023
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,538,114 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,538,133 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoF06RIo9el.md) - [plain]
 | 49 | [Me Gustas Tu](https://open.spotify.com/track/5NF8FAe3INIXOnTJuo3ngL) | [Jarina De Marco](https://open.spotify.com/artist/2Ju0kEPJxYUo0XM2PNUGeL) | [Me Gustas Tu](https://open.spotify.com/album/1WWkPIDdO1PWxIl36eymzE) | 3:25 |
 | 50 | [Riley](https://open.spotify.com/track/3tQpd0YrAwWK8YGP3aRj8D) | [I AM](https://open.spotify.com/artist/67g2E0HwTkrMj3nPvw46mR) | [Riley \(S\)](https://open.spotify.com/album/3qiAqPoSj9fpCiDLwgENe0) | 2:58 |
 
-Snapshot ID: `MCw3MzM5N2YzYzJhYTk3MTZiMzE4ZjQ1MWNiNGE2NGY0YWJkMDQyNzhl`
+Snapshot ID: `MCxiYTY3MzcxN2E3ZTk0ZDcwNTQzM2ZmZWI2YTAxMjBhZmE3YjRlMzkx`

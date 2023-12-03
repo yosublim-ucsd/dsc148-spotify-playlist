@@ -4,7 +4,7 @@
 
 > This week's essential new pop tracks\. Cover: Lyn Lapid
 
-4,384 songs - 9 day 2 hr 3 min
+4,385 songs - 9 day 2 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -175,6 +175,7 @@
 | [All My Loving](https://open.spotify.com/track/4qiiEZPtUtgyDb5qGnEWKl) | [Sam Fischer](https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA) | [All My Loving](https://open.spotify.com/album/5W1sTXqVYuJIgUF6CCy2US) | 2:58 | 2022-06-17 | 2022-07-02 |
 | [All Night](https://open.spotify.com/track/37FSHs2FoBc5lWFAAI70Qo) | [Georgia](https://open.spotify.com/artist/06knYh538h5SI7OAEF8ek3) | [All Night](https://open.spotify.com/album/3RhOR7nyXQNMj1m9wdbchn) | 3:00 | 2023-07-14 | 2023-07-29 |
 | [ALL NIGHT](https://open.spotify.com/track/7JUNheFeoB0wTzBcq9BvF8) | [SNOW WIFE](https://open.spotify.com/artist/7CV3dQkhJB2dEqb85ICD33) | [QUEEN DEGENERATE](https://open.spotify.com/album/4ZDAY6ZwhHKpy3W7e6Yo4g) | 2:56 | 2023-09-22 | 2023-10-07 |
+| [ALL NIGHT LONG](https://open.spotify.com/track/0zprG792oR31uWPCkYbCJZ) | [Mishaal Tamer](https://open.spotify.com/artist/2NM1t8dMvgeu9Lfl06574g) | [THE DEEP](https://open.spotify.com/album/5ZbTp52QK3RIXIQ05wCfdE) | 3:33 | 2023-12-02 |  |
 | [All Of It All](https://open.spotify.com/track/4vMvD08D53LSWRZZJni1zp) | [Lukas Graham](https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7) | [All Of It All](https://open.spotify.com/album/7xpldh6E2eQyxS6UWN9xEA) | 2:58 | 2022-02-18 | 2022-03-12 |
 | [All Of The Girls You Loved Before](https://open.spotify.com/track/4P9Q0GojKVXpRTJCaL3kyy) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [All Of The Girls You Loved Before](https://open.spotify.com/album/1Uauz6ql2dIPvIOH4JiuhD) | 3:41 | 2023-03-17 | 2023-04-01 |
 | [all of you](https://open.spotify.com/track/6Py0YyWzj4Hb0MO64jAJQr) | [Gloria Kim](https://open.spotify.com/artist/1DUd25ybTBglvAohsXTmBx) | [all of you](https://open.spotify.com/album/7qlUQ05TJEwQ0B98RIdHdZ) | 2:38 | 2023-09-15 | 2023-10-07 |

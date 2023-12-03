@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5MImizrZfZg.md) - [plain]
 
 > The smoothest jazz of the 2000s\. Cover: Rick Braun
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,965 likes - 50 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,994 likes - 50 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5MImizrZfZg.md) - [plain]
 | 7 | [11:58](https://open.spotify.com/track/2vxubkwtKQ2Sn4FU47ygii) | [Candy Dulfer](https://open.spotify.com/artist/287jMoxHzjERgHI6ja8TKa) | [Candy Store](https://open.spotify.com/album/7KJJl8pNcDjhoDkjW3CDKp) | 4:02 |
 | 8 | [Pacifica](https://open.spotify.com/track/4zfF62Jy2mtNCG2wlGy2VK) | [Michael Lington](https://open.spotify.com/artist/23P8kVBVyDkO8s6sn1QDre) | [Stay With Me](https://open.spotify.com/album/0ivqeO68UTwDwuaVIo0sU3) | 4:16 |
 | 9 | [City Lights](https://open.spotify.com/track/5kmQaaHOzgnzJmDpHJVtQY) | [Nelson Rangell](https://open.spotify.com/artist/5lFAGKb5mvPQX9on6lKC88) | [Soul To Souls](https://open.spotify.com/album/2rzjVifrHIbbSEvBIGavtb) | 5:33 |
-| 10 | [Summer Nights](https://open.spotify.com/track/61S3v0zujG9J171zdMEap7) | [Nils](https://open.spotify.com/artist/1vzmLZbXh0Bw5Kz5U4iIyB) | [Pacific Coast Highway](https://open.spotify.com/album/3dN9WXJltGklnpGhEkVbcQ) | 3:58 |
-| 11 | [Keepin' It Cool](https://open.spotify.com/track/6rKan5MDdzwXHUy90RYn26) | [Nick Colionne](https://open.spotify.com/artist/2sCtM9BmF4hSfiwEwiAm5l) | [Keepin' It Cool](https://open.spotify.com/album/3w9dctOHUxIF5YRVKycZD7) | 3:34 |
+| 10 | [Keepin' It Cool](https://open.spotify.com/track/6rKan5MDdzwXHUy90RYn26) | [Nick Colionne](https://open.spotify.com/artist/2sCtM9BmF4hSfiwEwiAm5l) | [Keepin' It Cool](https://open.spotify.com/album/3w9dctOHUxIF5YRVKycZD7) | 3:34 |
+| 11 | [Summer Nights](https://open.spotify.com/track/61S3v0zujG9J171zdMEap7) | [Nils](https://open.spotify.com/artist/1vzmLZbXh0Bw5Kz5U4iIyB) | [Pacific Coast Highway](https://open.spotify.com/album/3dN9WXJltGklnpGhEkVbcQ) | 3:58 |
 | 12 | [Slow Jam](https://open.spotify.com/track/15X9hW8V03M3NWVQ4yVAZq) | [Euge Groove](https://open.spotify.com/artist/05UwRaoOjJPuGzCtawrORF) | [Born 2 Groove](https://open.spotify.com/album/3h9WV3wAi4Hkh0UCizuu3l) | 5:09 |
 | 13 | [On The Wes Side](https://open.spotify.com/track/1v8gTqiwsGZycNqn0dEvGh) | [Jeff Golub](https://open.spotify.com/artist/12455ZzxS49FbAGWKeB9eB) | [Temptation](https://open.spotify.com/album/1xkLVUGXlLZv5zsvJHMfxV) | 4:26 |
 | 14 | [Eye 2 Eye](https://open.spotify.com/track/4gvWlsrQogixhISq7Oz1r4) | [Najee](https://open.spotify.com/artist/41F8cUV8LJGVDPNnj0ito3) | [Embrace](https://open.spotify.com/album/03PWH8UYNt3it6HVUThJf3) | 4:43 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5MImizrZfZg.md) - [plain]
 | 49 | [Make It Happen](https://open.spotify.com/track/508i2fa2DAEchJjKbW3bb9) | [Jay Soto](https://open.spotify.com/artist/2OIuUCT4X13OZg9tblSQHf) | [Stay Awhile](https://open.spotify.com/album/1EnNQRl2u7SVbSfaLp8ZN1) | 4:15 |
 | 50 | [4 On The Floor](https://open.spotify.com/track/1vYBGXVfENemD4GnAIR8JN) | [Gerald Albright](https://open.spotify.com/artist/3bhckpkRmz8mqONUceSutp) | [Kickin' It Up](https://open.spotify.com/album/2K2hpHYSq3zS68jFFgMBhB) | 4:27 |
 
-Snapshot ID: `MCwwZWVjODAwNDZjNjE0YmQ0NjVmMmMxYTM3YWExODZkODE3M2EyYWQ4`
+Snapshot ID: `MCwyYThlZTcwYzEyNjJmNmNiMjA1OWIyZTgwNTkyZDc2MGNhMGQ3MmJk`

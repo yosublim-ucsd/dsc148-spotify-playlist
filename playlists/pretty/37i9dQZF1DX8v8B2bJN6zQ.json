@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasica eletr\u00f4nica para aquele treino de peso.",
-  "num_followers": 41288,
+  "num_followers": 41324,
   "original_name": "Power Training",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNTM1YjVkNzIwNWI1NDk4ZTc4ZTExODE1MjNkYmNiZTViNGUyNmVh",
+  "snapshot_id": "MCw3ZDhhN2ZlZTY3NzJiYjA3MTJlNjI2YTBkOTc3NDM1MWIyMWM0MmI3",
   "tracks": [
     {
       "added_at": "2023-11-17 15:46:11",
@@ -230,6 +230,10 @@
         {
           "name": "Boys Noize",
           "url": "https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv"
+        },
+        {
+          "name": "Opus III",
+          "url": "https://open.spotify.com/artist/1hQuWl1dueM7ChRUZRn05z"
         }
       ],
       "duration_ms": 193690,

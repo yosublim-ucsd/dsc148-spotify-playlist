@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZGggG8QsBEe.md) - [plain]
 
 > A flow of white water noise, let go to the soothing rush of cascading waterfall sounds.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,067 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,083 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZGggG8QsBEe.md) - [plain]
 | 19 | [Rushing River](https://open.spotify.com/track/4V7dNNQvwoGgC5DB6dTTro) | [Calming Water](https://open.spotify.com/artist/0BEeBDjTHbZ0SS6NVRNcUn) | [Flowing Water Sounds](https://open.spotify.com/album/1UQ0LjwnbWi1jxwpT6U1nn) | 2:35 |
 | 20 | [Big Waterfall Noise](https://open.spotify.com/track/0pO9qE6D7shEievEUJtCld) | [Noise and Nature](https://open.spotify.com/artist/2hcGTRaH2FXoKel4UTGWJ0) | [Waterfall Sleep Noises](https://open.spotify.com/album/6cyRxitvNynnQFZqkZLNuE) | 4:22 |
 | 21 | [Waterfall Stream](https://open.spotify.com/track/6C8eyK8mC1cmqaTx99v36x) | [Natural Waters](https://open.spotify.com/artist/0nIJ15ViXXRyCe6mRqPOaD) | [At the Waterfall](https://open.spotify.com/album/30bgRxzTaRDFcNnm8wdpaP) | 2:24 |
-| 22 | [Rock's Ledge](https://open.spotify.com/track/1XLPyzE89oRKQIpvXBRI9n) | [Nature Field Recordings](https://open.spotify.com/artist/3DTgZfug2RpZinxGiFR5FD) | [Waterfalls in Winter](https://open.spotify.com/album/4tOaz7j4Juvd82I4qa29Rz) | 4:04 |
-| 23 | [White Noise Waterfall](https://open.spotify.com/track/3oHAizOmW93Q8eIZ3W0xg7) | [Noise Eternity](https://open.spotify.com/artist/0BMo2rAO5oSO9aSnjumKOD) | [White Noise Waterfall](https://open.spotify.com/album/2GDuZr3FnB4iuAx1SFdLB3) | 2:00 |
+| 22 | [White Noise Waterfall](https://open.spotify.com/track/3oHAizOmW93Q8eIZ3W0xg7) | [Noise Eternity](https://open.spotify.com/artist/0BMo2rAO5oSO9aSnjumKOD) | [White Noise Waterfall](https://open.spotify.com/album/2GDuZr3FnB4iuAx1SFdLB3) | 2:00 |
+| 23 | [Rock's Ledge](https://open.spotify.com/track/1XLPyzE89oRKQIpvXBRI9n) | [Nature Field Recordings](https://open.spotify.com/artist/3DTgZfug2RpZinxGiFR5FD) | [Waterfalls in Winter](https://open.spotify.com/album/4tOaz7j4Juvd82I4qa29Rz) | 4:04 |
 | 24 | [Waterfall Dreams](https://open.spotify.com/track/6ZZmLyTu2EfwQhY0220SKv) | [Chroma World](https://open.spotify.com/artist/3TIBtUQE47OmudD95MhKS2) | [Waterfall Dreams](https://open.spotify.com/album/2lTjQqSorysseG5GuBv4cB) | 3:18 |
 | 25 | [Mellow Rapids](https://open.spotify.com/track/2KnTHZruPqFsvYlcKMcXUg) | [Four Winds](https://open.spotify.com/artist/3MNXmvXsz12M9aeI4w6qqE) | [River Relaxation](https://open.spotify.com/album/3aoBFnSGb7lXY9qFK7vWmj) | 3:08 |
 | 26 | [Take Me Down the River](https://open.spotify.com/track/0dUdMzVlqyCZzrLr2eCkyB) | [Ebb&Flod](https://open.spotify.com/artist/1IsJosONX2G4ekmLMfjTO4) | [Gentle Stream](https://open.spotify.com/album/2FzwA8tmqu4QccprXAb8PH) | 3:16 |
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZGggG8QsBEe.md) - [plain]
 | 30 | [Steady Waterfall](https://open.spotify.com/track/1w4LsiXcSP9JyEeHPNS9Fk) | [Waterfalling](https://open.spotify.com/artist/3e0rJbfOEVSWe77JRZWGXd) | [Waterfalling](https://open.spotify.com/album/7qA6Aqaktt9X2qw9wbohuI) | 4:15 |
 | 31 | [Esopus Creek](https://open.spotify.com/track/6TDm4Y1ly5F4IfMuhLWSi7) | [Gentle Outdoors](https://open.spotify.com/artist/5FDSxvW83nezwSZgrEdOLv) | [Esopus Creek](https://open.spotify.com/album/55tkNp2Xvl5qosqsTi50iy) | 2:44 |
 | 32 | [River Spirit](https://open.spotify.com/track/0SRZfXcQVjqwDxFGfGgLvY) | [The Nature Soundscapes](https://open.spotify.com/artist/02EkiP3hYgkSISBAS0nfjG) | [Rivers and Forest Sounds](https://open.spotify.com/album/7epwX2vgkWFTttxGVlQ45m) | 2:44 |
-| 33 | [River Zen](https://open.spotify.com/track/0JMkTafMJcSuInbp9KUHwT) | [Rivers and Streams](https://open.spotify.com/artist/6NYAxBsKdDH00qCDvcFdA7) | [Relax by the River](https://open.spotify.com/album/6qxd6X2zDSHsaPPWcmewFC) | 3:08 |
-| 34 | [Waterfall Noise](https://open.spotify.com/track/3OUrN6pqs0odLhgROLiGKR) | [BCCF](https://open.spotify.com/artist/3nom2q4wk6XDl2RN6xTs5f) | [White Noise](https://open.spotify.com/album/4mFFAzJgZ9886aTrcJC62R) | 4:06 |
+| 33 | [Waterfall Noise](https://open.spotify.com/track/3OUrN6pqs0odLhgROLiGKR) | [BCCF](https://open.spotify.com/artist/3nom2q4wk6XDl2RN6xTs5f) | [White Noise](https://open.spotify.com/album/4mFFAzJgZ9886aTrcJC62R) | 4:06 |
+| 34 | [River Zen](https://open.spotify.com/track/0JMkTafMJcSuInbp9KUHwT) | [Rivers and Streams](https://open.spotify.com/artist/6NYAxBsKdDH00qCDvcFdA7) | [Relax by the River](https://open.spotify.com/album/6qxd6X2zDSHsaPPWcmewFC) | 3:08 |
 | 35 | [Waterfall](https://open.spotify.com/track/20Ni1eLWzkaqx8d55X8Par) | [Granular](https://open.spotify.com/artist/1jfnMuDBl5OaAoU0VwLD8m) | [Baby Sleep White Noise](https://open.spotify.com/album/4vPYOEzg31z0Nc6stLRLgL) | 3:47 |
 | 36 | [Shallow Rapid Flow](https://open.spotify.com/track/14EgXws2q9leMgGCukpRXS) | [Outdoor Field Recorders](https://open.spotify.com/artist/71ep4LtjRagWcfM1rZ6lUr) | [Shallow River Sounds](https://open.spotify.com/album/34ZUViIS2YqDboeWQqTP00) | 3:00 |
 | 37 | [Waterfalls](https://open.spotify.com/track/0H4v2NFbdUvxysprwSgxHk) | [Dream Shard](https://open.spotify.com/artist/3EUg5IOxGnBPtjK0uzMxcJ) | [Baby Sleep Pink Noise](https://open.spotify.com/album/2Wv2eQ2Zs6bQm8DOC1Cxng) | 2:17 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZGggG8QsBEe.md) - [plain]
 | 49 | [Close To the Water](https://open.spotify.com/track/1xP9ZeGYT6D20Mpw3phS88) | [Embrace the Rain](https://open.spotify.com/artist/5sZvIwOBG1ngPYqGjzK5C2) | [Close To the Water](https://open.spotify.com/album/4H3pblqHqEsyPjgBaeLHnd) | 3:20 |
 | 50 | [Waterfalls in the Distance \(No Fade\)](https://open.spotify.com/track/2Tfzr7lXi8B9zTcekESN7g) | [Textures of Nature](https://open.spotify.com/artist/1cHBh4M6X8d6UYnkh6geMs) | [Water, Rain and Rivers](https://open.spotify.com/album/4eAsgCIds4uzsQuSCzLkDh) | 2:48 |
 
-Snapshot ID: `MCw4OTg4NmE5ZDRkOTJlZGZiMGE3YmVjMjRkOTliYzJhMGM4YTlmYmE4`
+Snapshot ID: `MCw5Y2ViNzczN2U2YjU3Y2NkN2YzN2QwMzJlMWU4ODAzYWEyN2M2NGRk`

@@ -2812,10 +2812,28 @@
       ],
       "date_added": "2023-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-03",
       "duration_ms": 204869,
       "name": "Whiskey Over Ice",
       "url": "https://open.spotify.com/track/40l3hHo13OeWAK9j44coP3"
+    },
+    {
+      "album": {
+        "name": "Misfit",
+        "url": "https://open.spotify.com/album/7fVjPrr995cKODmShqTH7M"
+      },
+      "artists": [
+        {
+          "name": "Kezia Gill",
+          "url": "https://open.spotify.com/artist/38gOBONmMcD1Cp45Lhf2Vc"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204869,
+      "name": "Whiskey Over Ice",
+      "url": "https://open.spotify.com/track/42hCZDuTbcvlVNSHV9GyUd"
     },
     {
       "album": {

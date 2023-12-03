@@ -4,7 +4,7 @@
 
 > Chasing sunsets con buena música de fondo.
 
-85 songs - 4 hr 56 min
+86 songs - 4 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,7 @@
 | [Dama](https://open.spotify.com/track/0Tmi4OKz5CTFnWNjeR2j1G) | [Los Wálters](https://open.spotify.com/artist/0joND3Z9boBeX6EOu66rAY) | [Dama](https://open.spotify.com/album/5YsBGBAtUA1GsQqaVXyyru) | 3:46 | 2023-11-03 |  |
 | [DAMN!](https://open.spotify.com/track/1uGCxUV2OJngJan7DKjGCo) | [Sexy Pigeon](https://open.spotify.com/artist/4gnQSPui3dzrkaFdf18P6U), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [DAMN!](https://open.spotify.com/album/6ISGikUMrS710I2NF5Ityr) | 1:57 | 2023-03-10 |  |
 | [Daria](https://open.spotify.com/track/1N5gxXUVDRx7SIr6xN47zL) | [Los Telepáticos](https://open.spotify.com/artist/0cMwHZkCdMDnQDuWBkhMqS) | [Daria](https://open.spotify.com/album/6X6iitQfdcFj9dBmOjfGEy) | 3:43 | 2023-03-17 | 2023-04-02 |
-| [dejarse querer](https://open.spotify.com/track/2fVVRlRJoqWezN8l6LdpVa) | [Marco Mares](https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ) | [LOS FELIZ](https://open.spotify.com/album/390uWKDSYJdCxX0dYebMyJ) | 3:03 | 2023-03-10 |  |
+| [dejarse querer](https://open.spotify.com/track/2fVVRlRJoqWezN8l6LdpVa) | [Marco Mares](https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ) | [LOS FELIZ](https://open.spotify.com/album/390uWKDSYJdCxX0dYebMyJ) | 3:03 | 2023-03-10 | 2023-12-03 |
 | [Dejarte Ir](https://open.spotify.com/track/5eyC34a60pEb4iYysPTgBX) | [Rubytates](https://open.spotify.com/artist/2Mk7yrY8Dt93tvVhyxh8Zj) | [Dejarte Ir También Es Amar](https://open.spotify.com/album/0xuwW3Q0bqsIstfTl4kgYi) | 3:12 | 2023-03-10 |  |
 | [El Ding Dong](https://open.spotify.com/track/3BsdHpAazyhrsZJldvlJjI) | [Silvestre y La Naranja](https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO) | [El Ding Dong](https://open.spotify.com/album/5fIoGmJwYfj24FqrUU8Yvp) | 2:39 | 2023-03-10 | 2023-10-30 |
 | [El Juego](https://open.spotify.com/track/0PeRTtaDFNmmvKAboAVQkP) | [Dante Ouviña](https://open.spotify.com/artist/44gFucnvbxs6HCA6a7GDJ7) | [El Juego](https://open.spotify.com/album/1h9nTZa5Z7euPox6PFtCfH) | 2:48 | 2023-03-10 | 2023-03-26 |
@@ -56,6 +56,7 @@
 | [lobo](https://open.spotify.com/track/2EvGnRxPsX6BSxhFsBa3jG) | [Erick Lobo](https://open.spotify.com/artist/3Men1AXGbwsYItGxEuDxlM) | [lobo](https://open.spotify.com/album/4yziwAU9W0IMAdRfYGeS13) | 3:01 | 2023-03-10 | 2023-03-12 |
 | [Los Años Maravillosos](https://open.spotify.com/track/42d6mbHHtDTnlmnzYV31Py) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [Los Años Maravillosos](https://open.spotify.com/album/4a8QZdeULQRoMTgxVbcsCw) | 4:23 | 2023-03-10 | 2023-12-02 |
 | [Los Marcianos](https://open.spotify.com/track/0MVwTUha6REf54EKPefwR9) | [Giorgio Siladi](https://open.spotify.com/artist/70yXUWs47Ej8wyiChPutgj) | [Los Marcianos](https://open.spotify.com/album/3ALswjPd4659w0ygjUTjQH) | 3:02 | 2023-05-12 | 2023-06-29 |
+| [Me Duele Hasta Pensarte](https://open.spotify.com/track/5QA2TH7f7sjc33DU3OEJMI) | [Sebastián Cortés](https://open.spotify.com/artist/3BCFlhrVzBKHbzBnWr13d9) | [Me Duele Hasta Pensarte](https://open.spotify.com/album/1HWn7sgeNIfAC5tdB8k23X) | 3:48 | 2023-12-01 |  |
 | [Me Estoy Enamorando](https://open.spotify.com/track/56IhOJAcMc28qxDqjmuwJC) | [Bandalos Chinos](https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp) | [Me Estoy Enamorando](https://open.spotify.com/album/290mTa3886xNkEyOVtC53k) | 3:35 | 2023-03-10 |  |
 | [Medalla de Oro](https://open.spotify.com/track/3e43fFQ7FOO2ic7wTnzwBl) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [Medalla de Oro](https://open.spotify.com/album/1BTJdsNvbyccpP6UgEP6YF) | 5:40 | 2023-03-10 | 2023-07-10 |
 | [Mejor Que Nadie](https://open.spotify.com/track/6J1S8dFlnAcNgl7nHPB1XJ) | [Technicolor Fabrics](https://open.spotify.com/artist/2GtdjV9W8RmiI4W2AUl4Pl) | [Mejor Que Nadie](https://open.spotify.com/album/0I2eLAIopLwwIUlUZx8muE) | 4:40 | 2023-03-10 |  |

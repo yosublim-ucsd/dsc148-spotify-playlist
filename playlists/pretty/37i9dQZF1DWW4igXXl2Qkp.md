@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 
 > Top 100 tracks from Fresh Finds Hip\-Hop in 2023\. Cover: <a href="spotify:artist:3DbwFQlvLxRSi2uX8mf81A">Sexyy Red</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 224,702 likes - 100 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 224,875 likes - 100 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 | 3 | [PAINTING PICTURES](https://open.spotify.com/track/6RGH7mvHffrBcHuW60vgZB) | [Superstar Pride](https://open.spotify.com/artist/3FBEsNyIwRnOHOf1Rv3SLa) | [PAINTING PICTURES](https://open.spotify.com/album/1mHSRTfrDnc4LmEOH0ISTC) | 2:05 |
 | 4 | [jersey luv](https://open.spotify.com/track/50kWigrg0O9DFUzzbgJMZO) | [GROOVY](https://open.spotify.com/artist/6Y6qIKwe32BxNflpxbKsJc), [B Jack$](https://open.spotify.com/artist/2bnV4zuMP2tBXzsGbPmkuo) | [jersey luv](https://open.spotify.com/album/6z30pC8bxK3JIWRhLLbXwr) | 3:51 |
 | 5 | [Na Na Na](https://open.spotify.com/track/6G4ICKUrsPb117ULGyrQ5N) | [Lay Bankz](https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F) | [Na Na Na](https://open.spotify.com/album/1jMAUsspY3NLUXvnSDxGd0) | 1:40 |
-| 6 | [Wassup Gway](https://open.spotify.com/track/0CtuA9sDnOAU3NM8bHIMyu) | [FamousSally & YB](https://open.spotify.com/artist/58r9bevVFGCcTpNRT5Ha85) | [Wassup Gway](https://open.spotify.com/album/0lBc6xsaXgtiFrcy103fEY) | 2:24 |
+| 6 | [Wassup Gway](https://open.spotify.com/track/0CtuA9sDnOAU3NM8bHIMyu) | [Famous Sally & YB](https://open.spotify.com/artist/58r9bevVFGCcTpNRT5Ha85) | [Wassup Gway](https://open.spotify.com/album/0lBc6xsaXgtiFrcy103fEY) | 2:24 |
 | 7 | [SkeeYee](https://open.spotify.com/track/7icwQvajsokotDfM3tefW6) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Hood Hottest Princess](https://open.spotify.com/album/6uoGeT623i76TwlgYFfe42) | 2:37 |
 | 8 | [DECLAN RICE](https://open.spotify.com/track/1sEIkVGd7fG4K5wFQS6f6y) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [DECLAN RICE](https://open.spotify.com/album/2CVwxKWCF92MeTLjmdJFXy) | 2:04 |
 | 9 | [Mazel Tron](https://open.spotify.com/track/5Ex5aIXLQimPjhiRUZjtre) | [BLP KOSHER](https://open.spotify.com/artist/6w60ExNMjs0gd4ioh7GMRI), [BabyTron](https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk) | [Mazel Tron](https://open.spotify.com/album/1F841omtmck75byakwMGnx) | 3:28 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 | 99 | [love & confessions'](https://open.spotify.com/track/5flonwLJEWr9vN6fvgCa8W) | [Destin Laurel](https://open.spotify.com/artist/33hj9n9Y19jGhXk8m7ezKR) | [Westin Wednesday, Vol\. 1](https://open.spotify.com/album/5bkJWzrbEomB0Vjvp8zMc2) | 2:34 |
 | 100 | [That's Tuff!](https://open.spotify.com/track/0c2DtieVbDxUUf1lxpBJLX) | [Kwajo](https://open.spotify.com/artist/7yPxEd332R2RPIbaexg5Y6), [Tal Cohen](https://open.spotify.com/artist/3vnyQqnb4LP5Wmt3qUUstR) | [Spleck](https://open.spotify.com/album/05pZKIa1i7qGQL7AfQrm8X) | 3:07 |
 
-Snapshot ID: `MCw0NmRjZWIzZTc5ZmI5NWRiYWEwYzJiMWM5MWQ4YjQzNTY2ODA2YTQ4`
+Snapshot ID: `MCw5NzczY2I5ZGU5Y2ZmNmMxMzFjNGI5Y2RhNjRmODg4Mjg3ZmNmODQ4`

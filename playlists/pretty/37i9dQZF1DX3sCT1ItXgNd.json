@@ -1,12 +1,12 @@
 {
   "description": "Lo mejor del pop en espa\u00f1ol. Foto: i\u00f1igo quintero",
-  "num_followers": 990993,
+  "num_followers": 991055,
   "original_name": "Pop con \u00d1",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZGUzMTU3ZmNhMzQ2MzFmODIxYmUwM2MxYmRiNjMwOGU2MmJiOGJj",
+  "snapshot_id": "MCxjN2Y3OTIxYWY2Y2EzMmU2MjZjOWI5MDlmZGNjODMzNDg0NmMyZDkz",
   "tracks": [
     {
       "added_at": "2023-11-30 23:01:00",
@@ -287,6 +287,22 @@
     {
       "added_at": "2023-11-30 23:01:00",
       "album": {
+        "name": "BONITA",
+        "url": "https://open.spotify.com/album/1ufDxUWa07eVx4iakS8DVO"
+      },
+      "artists": [
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        }
+      ],
+      "duration_ms": 169842,
+      "name": "BONITA",
+      "url": "https://open.spotify.com/track/6pLYGP1FGsfhUFb3s9X1mz"
+    },
+    {
+      "added_at": "2023-11-30 23:01:00",
+      "album": {
         "name": "Calor",
         "url": "https://open.spotify.com/album/6Wje6XhXvKPW2hgMs2Jse8"
       },
@@ -303,22 +319,6 @@
       "duration_ms": 200769,
       "name": "Calor",
       "url": "https://open.spotify.com/track/3fbPAnQhNaUlIMaYtyNvk9"
-    },
-    {
-      "added_at": "2023-11-30 23:01:00",
-      "album": {
-        "name": "BONITA",
-        "url": "https://open.spotify.com/album/1ufDxUWa07eVx4iakS8DVO"
-      },
-      "artists": [
-        {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
-        }
-      ],
-      "duration_ms": 169842,
-      "name": "BONITA",
-      "url": "https://open.spotify.com/track/6pLYGP1FGsfhUFb3s9X1mz"
     },
     {
       "added_at": "2023-11-30 23:01:00",
@@ -407,22 +407,6 @@
     {
       "added_at": "2023-11-30 23:01:00",
       "album": {
-        "name": "alpha",
-        "url": "https://open.spotify.com/album/7itZH9cqWCweOqCGsjWlLx"
-      },
-      "artists": [
-        {
-          "name": "Aitana",
-          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
-        }
-      ],
-      "duration_ms": 170346,
-      "name": "Darar\u00ed",
-      "url": "https://open.spotify.com/track/260rBjdoUcXRK8AeAqeg5X"
-    },
-    {
-      "added_at": "2023-11-30 23:01:00",
-      "album": {
         "name": "LVEU: VIVE LA TUYA...NO LA MIA",
         "url": "https://open.spotify.com/album/1ZVJTCW5rxpHKNgsNL91J2"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 202360,
       "name": "LA CAPI",
       "url": "https://open.spotify.com/track/68OXeY9CUQebrOAAh3b3Jw"
+    },
+    {
+      "added_at": "2023-11-30 23:01:00",
+      "album": {
+        "name": "alpha",
+        "url": "https://open.spotify.com/album/7itZH9cqWCweOqCGsjWlLx"
+      },
+      "artists": [
+        {
+          "name": "Aitana",
+          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
+        }
+      ],
+      "duration_ms": 170346,
+      "name": "Darar\u00ed",
+      "url": "https://open.spotify.com/track/260rBjdoUcXRK8AeAqeg5X"
     },
     {
       "added_at": "2023-11-30 23:01:00",
@@ -547,8 +547,8 @@
     {
       "added_at": "2023-11-30 23:01:00",
       "album": {
-        "name": "Hablando En Plata",
-        "url": "https://open.spotify.com/album/0fqseXlgVCLiM6B2vkr1eW"
+        "name": "S\u00e9 lo Que Hicisteis",
+        "url": "https://open.spotify.com/album/4R6Bw8W5WPocIjynDm7BsL"
       },
       "artists": [
         {
@@ -556,13 +556,13 @@
           "url": "https://open.spotify.com/artist/1EXjXQpDx2pROygh8zvHs4"
         },
         {
-          "name": "Hens",
-          "url": "https://open.spotify.com/artist/3iY9PS7LxPnCVcCP7BjJOK"
+          "name": "Natos y Waor",
+          "url": "https://open.spotify.com/artist/1QJbbsxg2wqidJj51d3otw"
         }
       ],
-      "duration_ms": 188345,
-      "name": "Hablando En Plata",
-      "url": "https://open.spotify.com/track/0XFNQRApcucLu0RZdbDB9F"
+      "duration_ms": 209265,
+      "name": "S\u00e9 lo Que Hicisteis",
+      "url": "https://open.spotify.com/track/7HZBJjlhBVSjHMm5YMMcNd"
     },
     {
       "added_at": "2023-11-30 23:01:00",
@@ -611,22 +611,6 @@
     {
       "added_at": "2023-11-30 23:01:00",
       "album": {
-        "name": "RED FLAGS",
-        "url": "https://open.spotify.com/album/3xmrtrlaAAjBX7kVcAMB8G"
-      },
-      "artists": [
-        {
-          "name": "MARLENA",
-          "url": "https://open.spotify.com/artist/1IAwO3v7hVP9ryTQtlzc9y"
-        }
-      ],
-      "duration_ms": 190243,
-      "name": "RED FLAGS",
-      "url": "https://open.spotify.com/track/4ihlB1pDXbQEtaDoMfyaYs"
-    },
-    {
-      "added_at": "2023-11-30 23:01:00",
-      "album": {
         "name": "Tarde",
         "url": "https://open.spotify.com/album/1sRH4OWpSusGI266WHwTPu"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 205027,
       "name": "Tarde",
       "url": "https://open.spotify.com/track/6zmn8g3wqzXs75rs6gJW8T"
+    },
+    {
+      "added_at": "2023-11-30 23:01:00",
+      "album": {
+        "name": "RED FLAGS",
+        "url": "https://open.spotify.com/album/3xmrtrlaAAjBX7kVcAMB8G"
+      },
+      "artists": [
+        {
+          "name": "MARLENA",
+          "url": "https://open.spotify.com/artist/1IAwO3v7hVP9ryTQtlzc9y"
+        }
+      ],
+      "duration_ms": 190243,
+      "name": "RED FLAGS",
+      "url": "https://open.spotify.com/track/4ihlB1pDXbQEtaDoMfyaYs"
     },
     {
       "added_at": "2023-11-30 23:01:00",
@@ -723,8 +723,8 @@
     {
       "added_at": "2023-11-30 23:01:00",
       "album": {
-        "name": "S\u00e9 lo Que Hicisteis",
-        "url": "https://open.spotify.com/album/4R6Bw8W5WPocIjynDm7BsL"
+        "name": "Hablando En Plata",
+        "url": "https://open.spotify.com/album/0fqseXlgVCLiM6B2vkr1eW"
       },
       "artists": [
         {
@@ -732,13 +732,13 @@
           "url": "https://open.spotify.com/artist/1EXjXQpDx2pROygh8zvHs4"
         },
         {
-          "name": "Natos y Waor",
-          "url": "https://open.spotify.com/artist/1QJbbsxg2wqidJj51d3otw"
+          "name": "Hens",
+          "url": "https://open.spotify.com/artist/3iY9PS7LxPnCVcCP7BjJOK"
         }
       ],
-      "duration_ms": 209265,
-      "name": "S\u00e9 lo Que Hicisteis",
-      "url": "https://open.spotify.com/track/7HZBJjlhBVSjHMm5YMMcNd"
+      "duration_ms": 188345,
+      "name": "Hablando En Plata",
+      "url": "https://open.spotify.com/track/0XFNQRApcucLu0RZdbDB9F"
     },
     {
       "added_at": "2023-11-30 23:01:00",
@@ -843,6 +843,22 @@
     {
       "added_at": "2023-11-30 23:01:00",
       "album": {
+        "name": "PALANTE",
+        "url": "https://open.spotify.com/album/1XiLA8WVP7MMDvDCHJ9uKj"
+      },
+      "artists": [
+        {
+          "name": "Funzo & Baby Loud",
+          "url": "https://open.spotify.com/artist/1nwjHzOUQZsNYX8xoWiGVC"
+        }
+      ],
+      "duration_ms": 146264,
+      "name": "PALANTE",
+      "url": "https://open.spotify.com/track/28cN5fxRkyri38B7vYA6rp"
+    },
+    {
+      "added_at": "2023-11-30 23:01:00",
+      "album": {
         "name": "Un Rato pa Siempre",
         "url": "https://open.spotify.com/album/6VkLEGEcb8GBrHPbpVC21m"
       },
@@ -859,22 +875,6 @@
       "duration_ms": 163505,
       "name": "Un Rato pa Siempre",
       "url": "https://open.spotify.com/track/3rEBrW8QTAq0lZiZX8LNBL"
-    },
-    {
-      "added_at": "2023-11-30 23:01:00",
-      "album": {
-        "name": "PALANTE",
-        "url": "https://open.spotify.com/album/1XiLA8WVP7MMDvDCHJ9uKj"
-      },
-      "artists": [
-        {
-          "name": "Funzo & Baby Loud",
-          "url": "https://open.spotify.com/artist/1nwjHzOUQZsNYX8xoWiGVC"
-        }
-      ],
-      "duration_ms": 146264,
-      "name": "PALANTE",
-      "url": "https://open.spotify.com/track/28cN5fxRkyri38B7vYA6rp"
     },
     {
       "added_at": "2023-11-30 23:01:00",
@@ -951,26 +951,18 @@
     {
       "added_at": "2023-11-30 23:01:00",
       "album": {
-        "name": "Frenes\u00ed",
-        "url": "https://open.spotify.com/album/3LkkwtFWAINR8sxBuADadZ"
+        "name": "Toxic Christmas",
+        "url": "https://open.spotify.com/album/2MlzzwIgcXCSdENIrErvgD"
       },
       "artists": [
         {
-          "name": "Danny Romero",
-          "url": "https://open.spotify.com/artist/30HlKUFTsqlFQsPfyv2yuM"
-        },
-        {
-          "name": "Fabbio",
-          "url": "https://open.spotify.com/artist/0qKIWMnkTnpE06eoKG7Pf4"
-        },
-        {
-          "name": "Mozart La Para",
-          "url": "https://open.spotify.com/artist/0odliLZMTk45CEVzF3Zocl"
+          "name": "Abraham Mateo",
+          "url": "https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR"
         }
       ],
-      "duration_ms": 204492,
-      "name": "Frenes\u00ed",
-      "url": "https://open.spotify.com/track/3XTmOwWk9zGehWbMzvOnex"
+      "duration_ms": 199546,
+      "name": "Toxic Christmas",
+      "url": "https://open.spotify.com/track/1hOWbWdAfANHLUMuRP182E"
     },
     {
       "added_at": "2023-11-30 23:01:00",
@@ -991,18 +983,26 @@
     {
       "added_at": "2023-11-30 23:01:00",
       "album": {
-        "name": "Toxic Christmas",
-        "url": "https://open.spotify.com/album/2MlzzwIgcXCSdENIrErvgD"
+        "name": "Frenes\u00ed",
+        "url": "https://open.spotify.com/album/3LkkwtFWAINR8sxBuADadZ"
       },
       "artists": [
         {
-          "name": "Abraham Mateo",
-          "url": "https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR"
+          "name": "Danny Romero",
+          "url": "https://open.spotify.com/artist/30HlKUFTsqlFQsPfyv2yuM"
+        },
+        {
+          "name": "Fabbio",
+          "url": "https://open.spotify.com/artist/0qKIWMnkTnpE06eoKG7Pf4"
+        },
+        {
+          "name": "Mozart La Para",
+          "url": "https://open.spotify.com/artist/0odliLZMTk45CEVzF3Zocl"
         }
       ],
-      "duration_ms": 199546,
-      "name": "Toxic Christmas",
-      "url": "https://open.spotify.com/track/1hOWbWdAfANHLUMuRP182E"
+      "duration_ms": 204492,
+      "name": "Frenes\u00ed",
+      "url": "https://open.spotify.com/track/3XTmOwWk9zGehWbMzvOnex"
     },
     {
       "added_at": "2023-11-30 23:01:00",

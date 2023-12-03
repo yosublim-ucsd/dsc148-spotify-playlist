@@ -1,12 +1,12 @@
 {
   "description": "El futuro est\u00e1 aqu\u00ed. Foto: Yarea",
-  "num_followers": 25071,
+  "num_followers": 25082,
   "original_name": "RADAR Espa\u00f1a",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxYTBkYTVmMTEzNTA0NmE1NzY2MDAxNzk3ZTViYjI2MDA4MTRjYWY0",
+  "snapshot_id": "MCw1NmQ4M2ZjZWJkZTdhZmQ1MWIyMDkxYjA0YTI0OWMwODBkZTFmMjA0",
   "tracks": [
     {
       "added_at": "2023-10-13 09:57:11",
@@ -307,18 +307,26 @@
     {
       "added_at": "2023-10-13 09:57:11",
       "album": {
-        "name": "Roma No Es Amor",
-        "url": "https://open.spotify.com/album/2a5oe58vecdwg1cnZMOrlD"
+        "name": "La Culpa",
+        "url": "https://open.spotify.com/album/4jiTKinVhkjwj7cCFm7ncQ"
       },
       "artists": [
         {
-          "name": "DePol",
-          "url": "https://open.spotify.com/artist/16t23tANCHuuAN0yPqBbA0"
+          "name": "Yarea",
+          "url": "https://open.spotify.com/artist/2O4wnhTr4SO5ezY6WXI2Kl"
+        },
+        {
+          "name": "KICKBOMBO",
+          "url": "https://open.spotify.com/artist/7A2htSu45kogVfNBMD4Xgh"
+        },
+        {
+          "name": "Pole.",
+          "url": "https://open.spotify.com/artist/7D62OQfwvslnxJn9DkZm2F"
         }
       ],
-      "duration_ms": 193243,
-      "name": "Roma No Es Amor",
-      "url": "https://open.spotify.com/track/4QqLQBX0znVE999hnKLXXm"
+      "duration_ms": 174222,
+      "name": "La Culpa",
+      "url": "https://open.spotify.com/track/4lhzVEFzlYQiCbHhW4Shcv"
     },
     {
       "added_at": "2023-10-13 09:57:11",
@@ -343,26 +351,18 @@
     {
       "added_at": "2023-10-13 09:57:11",
       "album": {
-        "name": "La Culpa",
-        "url": "https://open.spotify.com/album/4jiTKinVhkjwj7cCFm7ncQ"
+        "name": "Roma No Es Amor",
+        "url": "https://open.spotify.com/album/2a5oe58vecdwg1cnZMOrlD"
       },
       "artists": [
         {
-          "name": "Yarea",
-          "url": "https://open.spotify.com/artist/2O4wnhTr4SO5ezY6WXI2Kl"
-        },
-        {
-          "name": "KICKBOMBO",
-          "url": "https://open.spotify.com/artist/7A2htSu45kogVfNBMD4Xgh"
-        },
-        {
-          "name": "Pole.",
-          "url": "https://open.spotify.com/artist/7D62OQfwvslnxJn9DkZm2F"
+          "name": "DePol",
+          "url": "https://open.spotify.com/artist/16t23tANCHuuAN0yPqBbA0"
         }
       ],
-      "duration_ms": 174222,
-      "name": "La Culpa",
-      "url": "https://open.spotify.com/track/4lhzVEFzlYQiCbHhW4Shcv"
+      "duration_ms": 193243,
+      "name": "Roma No Es Amor",
+      "url": "https://open.spotify.com/track/4QqLQBX0znVE999hnKLXXm"
     },
     {
       "added_at": "2023-10-13 09:57:11",
@@ -439,18 +439,18 @@
     {
       "added_at": "2023-10-13 09:57:11",
       "album": {
-        "name": "Quiero Q Me Tat\u00faes",
-        "url": "https://open.spotify.com/album/52Qsnxlu17DdbtiNZjAJWA"
+        "name": "Alto Cielo",
+        "url": "https://open.spotify.com/album/20mFqdvrOtScXNl72bAa8V"
       },
       "artists": [
         {
-          "name": "Gala Nell",
-          "url": "https://open.spotify.com/artist/4CVNESQIOFNvurriZVBarY"
+          "name": "Queralt Lahoz",
+          "url": "https://open.spotify.com/artist/5njCmi440o0ft013pOw9W5"
         }
       ],
-      "duration_ms": 150428,
-      "name": "Quiero Q Me Tat\u00faes",
-      "url": "https://open.spotify.com/track/2kZCcJFVywOHv5VJrEWlJJ"
+      "duration_ms": 291873,
+      "name": "Con Miedo a Ti",
+      "url": "https://open.spotify.com/track/1HWa85l0tYdSirf3M1DIdl"
     },
     {
       "added_at": "2023-10-13 09:57:11",
@@ -487,18 +487,18 @@
     {
       "added_at": "2023-10-13 09:57:11",
       "album": {
-        "name": "Alto Cielo",
-        "url": "https://open.spotify.com/album/20mFqdvrOtScXNl72bAa8V"
+        "name": "Quiero Q Me Tat\u00faes",
+        "url": "https://open.spotify.com/album/52Qsnxlu17DdbtiNZjAJWA"
       },
       "artists": [
         {
-          "name": "Queralt Lahoz",
-          "url": "https://open.spotify.com/artist/5njCmi440o0ft013pOw9W5"
+          "name": "Gala Nell",
+          "url": "https://open.spotify.com/artist/4CVNESQIOFNvurriZVBarY"
         }
       ],
-      "duration_ms": 291873,
-      "name": "Con Miedo a Ti",
-      "url": "https://open.spotify.com/track/1HWa85l0tYdSirf3M1DIdl"
+      "duration_ms": 150428,
+      "name": "Quiero Q Me Tat\u00faes",
+      "url": "https://open.spotify.com/track/2kZCcJFVywOHv5VJrEWlJJ"
     },
     {
       "added_at": "2023-10-13 09:57:11",
@@ -579,22 +579,18 @@
     {
       "added_at": "2023-10-13 09:57:11",
       "album": {
-        "name": "favorita",
-        "url": "https://open.spotify.com/album/1S7trDsVlwschptph947TY"
+        "name": "No Me Salves",
+        "url": "https://open.spotify.com/album/3fFodInCmkqeErsA3w551s"
       },
       "artists": [
         {
-          "name": "Dinamarca",
-          "url": "https://open.spotify.com/artist/4YFGNIynoM4Kq6f4VcZ7SX"
-        },
-        {
-          "name": "AMORE",
-          "url": "https://open.spotify.com/artist/2JfbhY0uEDLi1d89RzdU9S"
+          "name": "Queralt Lahoz",
+          "url": "https://open.spotify.com/artist/5njCmi440o0ft013pOw9W5"
         }
       ],
-      "duration_ms": 127634,
-      "name": "favorita",
-      "url": "https://open.spotify.com/track/1GD7Rao8kRvGAoXBI8Aott"
+      "duration_ms": 232855,
+      "name": "No Me Salves",
+      "url": "https://open.spotify.com/track/7KeAEsOT6v4EnxupRgLT47"
     },
     {
       "added_at": "2023-10-13 09:57:11",
@@ -619,6 +615,26 @@
     {
       "added_at": "2023-10-13 09:57:11",
       "album": {
+        "name": "favorita",
+        "url": "https://open.spotify.com/album/1S7trDsVlwschptph947TY"
+      },
+      "artists": [
+        {
+          "name": "Dinamarca",
+          "url": "https://open.spotify.com/artist/4YFGNIynoM4Kq6f4VcZ7SX"
+        },
+        {
+          "name": "AMORE",
+          "url": "https://open.spotify.com/artist/2JfbhY0uEDLi1d89RzdU9S"
+        }
+      ],
+      "duration_ms": 127634,
+      "name": "favorita",
+      "url": "https://open.spotify.com/track/1GD7Rao8kRvGAoXBI8Aott"
+    },
+    {
+      "added_at": "2023-10-13 09:57:11",
+      "album": {
         "name": "Del cielo",
         "url": "https://open.spotify.com/album/7B4fVDbdzPEwrpKxG87iRr"
       },
@@ -631,22 +647,6 @@
       "duration_ms": 190344,
       "name": "Del cielo",
       "url": "https://open.spotify.com/track/038sx40baI928rvHqvwlyC"
-    },
-    {
-      "added_at": "2023-10-13 09:57:11",
-      "album": {
-        "name": "No Me Salves",
-        "url": "https://open.spotify.com/album/3fFodInCmkqeErsA3w551s"
-      },
-      "artists": [
-        {
-          "name": "Queralt Lahoz",
-          "url": "https://open.spotify.com/artist/5njCmi440o0ft013pOw9W5"
-        }
-      ],
-      "duration_ms": 232855,
-      "name": "No Me Salves",
-      "url": "https://open.spotify.com/track/7KeAEsOT6v4EnxupRgLT47"
     },
     {
       "added_at": "2023-10-13 09:57:11",

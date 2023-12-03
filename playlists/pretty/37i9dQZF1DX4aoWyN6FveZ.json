@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/ravieb/\">Ravie B</a>",
-  "num_followers": 16181,
+  "num_followers": 16199,
   "original_name": "Ravie B's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5YzY2ZmIxOTZkMjZjMTRiYzIxZjc1MGRhY2JjY2ZjN2I3MDNhNTFh",
+  "snapshot_id": "MCwyZTNmYmUwMzk5ZDVhMTdjYTAzOWNjYjY1NzY5ZmJjM2YzMzg5NmY5",
   "tracks": [
     {
       "added_at": "2022-10-01 20:09:45",
@@ -515,22 +515,18 @@
     {
       "added_at": "2022-10-01 20:09:45",
       "album": {
-        "name": "Nectar",
-        "url": "https://open.spotify.com/album/5EzDhyNZuO7kuaABHwbBKX"
+        "name": "Shen Yeng Anthem",
+        "url": "https://open.spotify.com/album/5ITcrOlnxhUg2uvlGNPJhT"
       },
       "artists": [
         {
-          "name": "Joji",
-          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
-        },
-        {
-          "name": "Lil Yachty",
-          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
+          "name": "Shenseea",
+          "url": "https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB"
         }
       ],
-      "duration_ms": 156759,
-      "name": "Pretty Boy (feat. Lil Yachty)",
-      "url": "https://open.spotify.com/track/0f1G5SHFoFC9lO03gHCGVS"
+      "duration_ms": 141226,
+      "name": "Shen Yeng Anthem",
+      "url": "https://open.spotify.com/track/4lqqbSHGGR5BRtnmnky00G"
     },
     {
       "added_at": "2022-10-01 20:09:45",
@@ -551,18 +547,22 @@
     {
       "added_at": "2022-10-01 20:09:45",
       "album": {
-        "name": "Shen Yeng Anthem",
-        "url": "https://open.spotify.com/album/5ITcrOlnxhUg2uvlGNPJhT"
+        "name": "Nectar",
+        "url": "https://open.spotify.com/album/5EzDhyNZuO7kuaABHwbBKX"
       },
       "artists": [
         {
-          "name": "Shenseea",
-          "url": "https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB"
+          "name": "Joji",
+          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
+        },
+        {
+          "name": "Lil Yachty",
+          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
         }
       ],
-      "duration_ms": 141226,
-      "name": "Shen Yeng Anthem",
-      "url": "https://open.spotify.com/track/4lqqbSHGGR5BRtnmnky00G"
+      "duration_ms": 156759,
+      "name": "Pretty Boy (feat. Lil Yachty)",
+      "url": "https://open.spotify.com/track/0f1G5SHFoFC9lO03gHCGVS"
     },
     {
       "added_at": "2022-10-01 20:09:45",

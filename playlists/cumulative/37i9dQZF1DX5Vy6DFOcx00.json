@@ -8611,6 +8611,24 @@
     },
     {
       "album": {
+        "name": "Kid Krow",
+        "url": "https://open.spotify.com/album/2CMlkzFI2oDAy5MbyV7OV5"
+      },
+      "artists": [
+        {
+          "name": "Conan Gray",
+          "url": "https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea"
+        }
+      ],
+      "date_added": "2023-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198040,
+      "name": "Heather",
+      "url": "https://open.spotify.com/track/4xqrdfXkTW4T0RauPLv3WA"
+    },
+    {
+      "album": {
         "name": "Hell N Back",
         "url": "https://open.spotify.com/album/3aEdbaJGWXbBxn79DgjamF"
       },
@@ -20768,7 +20786,7 @@
       ],
       "date_added": "2023-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-03",
       "duration_ms": 459659,
       "name": "The Party & The After Party - Original",
       "url": "https://open.spotify.com/track/7bvkyTwVkylUGJvz1UMjFk"
@@ -22512,7 +22530,7 @@
       },
       "artists": [
         {
-          "name": "FamousSally & YB",
+          "name": "Famous Sally & YB",
           "url": "https://open.spotify.com/artist/58r9bevVFGCcTpNRT5Ha85"
         }
       ],

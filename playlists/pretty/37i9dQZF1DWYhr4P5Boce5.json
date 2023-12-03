@@ -1,12 +1,12 @@
 {
   "description": "Songs of faith, hope, and the greatest of these, love.",
-  "num_followers": 200629,
+  "num_followers": 200643,
   "original_name": "Higher Love",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMGI0NjhlMDA2ZTg2ZGY1ZmFmMzZhODIyN2Q2OGU3OWEwODkzM2E4",
+  "snapshot_id": "MCw3OGQzY2MxZmU4YjRkMTRjZjgwMDA5MzY3MWQwYWQwODc5Y2VlZmFh",
   "tracks": [
     {
       "added_at": "2023-01-31 10:01:12",
@@ -235,22 +235,6 @@
     {
       "added_at": "2023-01-31 10:01:12",
       "album": {
-        "name": "Nothing is Ordinary. Everything is Beautiful.",
-        "url": "https://open.spotify.com/album/78lm2RBBywrBwkbxwIqL6P"
-      },
-      "artists": [
-        {
-          "name": "Apollo LTD",
-          "url": "https://open.spotify.com/artist/2H3EMYFS69dhMmrX9JTkZp"
-        }
-      ],
-      "duration_ms": 226293,
-      "name": "You",
-      "url": "https://open.spotify.com/track/45W0GYB7YQO5wq6ePZPA4F"
-    },
-    {
-      "added_at": "2023-01-31 10:01:12",
-      "album": {
         "name": "This Moment (Cinderella Edition)",
         "url": "https://open.spotify.com/album/7HAomGpaAjuPCEbuMevOlP"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 265253,
       "name": "Cinderella",
       "url": "https://open.spotify.com/track/1oj4KLsbYhvfHFnhdb3twP"
+    },
+    {
+      "added_at": "2023-01-31 10:01:12",
+      "album": {
+        "name": "Nothing is Ordinary. Everything is Beautiful.",
+        "url": "https://open.spotify.com/album/78lm2RBBywrBwkbxwIqL6P"
+      },
+      "artists": [
+        {
+          "name": "Apollo LTD",
+          "url": "https://open.spotify.com/artist/2H3EMYFS69dhMmrX9JTkZp"
+        }
+      ],
+      "duration_ms": 226293,
+      "name": "You",
+      "url": "https://open.spotify.com/track/45W0GYB7YQO5wq6ePZPA4F"
     },
     {
       "added_at": "2023-01-31 10:01:12",
@@ -303,22 +303,6 @@
     {
       "added_at": "2023-01-31 10:01:12",
       "album": {
-        "name": "Citizen of Heaven",
-        "url": "https://open.spotify.com/album/7o7x7p8emSxFJXS2ECj1Us"
-      },
-      "artists": [
-        {
-          "name": "Tauren Wells",
-          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
-        }
-      ],
-      "duration_ms": 210697,
-      "name": "Like You Love Me",
-      "url": "https://open.spotify.com/track/33bqWsuJvnjTgAYr8DMadN"
-    },
-    {
-      "added_at": "2023-01-31 10:01:12",
-      "album": {
         "name": "Church Clothes 4",
         "url": "https://open.spotify.com/album/4GnEecDMWGwbCKsd3KTFny"
       },
@@ -335,6 +319,22 @@
       "duration_ms": 187258,
       "name": "Good Lord",
       "url": "https://open.spotify.com/track/0BgFkhIfpKaL2pCwCYUmhv"
+    },
+    {
+      "added_at": "2023-01-31 10:01:12",
+      "album": {
+        "name": "Citizen of Heaven",
+        "url": "https://open.spotify.com/album/7o7x7p8emSxFJXS2ECj1Us"
+      },
+      "artists": [
+        {
+          "name": "Tauren Wells",
+          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
+        }
+      ],
+      "duration_ms": 210697,
+      "name": "Like You Love Me",
+      "url": "https://open.spotify.com/track/33bqWsuJvnjTgAYr8DMadN"
     },
     {
       "added_at": "2023-01-31 10:01:12",
@@ -875,22 +875,6 @@
     {
       "added_at": "2023-01-31 10:01:12",
       "album": {
-        "name": "Faith Hope Love Repeat",
-        "url": "https://open.spotify.com/album/4lpaCFD1YtduxtT2W1jlNb"
-      },
-      "artists": [
-        {
-          "name": "Brandon Heath",
-          "url": "https://open.spotify.com/artist/0W7wIkmxoGQbnZYn2z2sLj"
-        }
-      ],
-      "duration_ms": 241800,
-      "name": "Faith Hope Love Repeat",
-      "url": "https://open.spotify.com/track/67OCXWC93GcixTk3wYvX9c"
-    },
-    {
-      "added_at": "2023-01-31 10:01:12",
-      "album": {
         "name": "Beautiful",
         "url": "https://open.spotify.com/album/4cb9hipQR0owfDfjieuOsb"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 226155,
       "name": "Beautiful (feat. India.Arie)",
       "url": "https://open.spotify.com/track/1P5jyUv4YzTUWTorHAQjgf"
+    },
+    {
+      "added_at": "2023-01-31 10:01:12",
+      "album": {
+        "name": "Faith Hope Love Repeat",
+        "url": "https://open.spotify.com/album/4lpaCFD1YtduxtT2W1jlNb"
+      },
+      "artists": [
+        {
+          "name": "Brandon Heath",
+          "url": "https://open.spotify.com/artist/0W7wIkmxoGQbnZYn2z2sLj"
+        }
+      ],
+      "duration_ms": 241800,
+      "name": "Faith Hope Love Repeat",
+      "url": "https://open.spotify.com/track/67OCXWC93GcixTk3wYvX9c"
     },
     {
       "added_at": "2023-01-31 10:01:12",
@@ -1247,6 +1247,22 @@
     {
       "added_at": "2023-01-31 10:01:12",
       "album": {
+        "name": "Hope In Front of Me",
+        "url": "https://open.spotify.com/album/58MAD1NrlMznn1k5C4up8M"
+      },
+      "artists": [
+        {
+          "name": "Danny Gokey",
+          "url": "https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz"
+        }
+      ],
+      "duration_ms": 187134,
+      "name": "Pretty Beautiful",
+      "url": "https://open.spotify.com/track/3rMhxwfj0i7t2N3bTx6vuY"
+    },
+    {
+      "added_at": "2023-01-31 10:01:12",
+      "album": {
         "name": "Easy Never Needed You",
         "url": "https://open.spotify.com/album/0osacoD5uOk9ogjVxHbjUF"
       },
@@ -1275,22 +1291,6 @@
       "duration_ms": 237573,
       "name": "Endlessly",
       "url": "https://open.spotify.com/track/2JeTGnTYUTdBDmIdJYAKjq"
-    },
-    {
-      "added_at": "2023-01-31 10:01:12",
-      "album": {
-        "name": "Hope In Front of Me",
-        "url": "https://open.spotify.com/album/58MAD1NrlMznn1k5C4up8M"
-      },
-      "artists": [
-        {
-          "name": "Danny Gokey",
-          "url": "https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz"
-        }
-      ],
-      "duration_ms": 187134,
-      "name": "Pretty Beautiful",
-      "url": "https://open.spotify.com/track/3rMhxwfj0i7t2N3bTx6vuY"
     },
     {
       "added_at": "2023-01-31 10:01:12",
@@ -1467,26 +1467,6 @@
     {
       "added_at": "2023-01-31 10:01:12",
       "album": {
-        "name": "Perfect Love",
-        "url": "https://open.spotify.com/album/28WgOahB2gvQUOZAOW6NVd"
-      },
-      "artists": [
-        {
-          "name": "Sal Ly",
-          "url": "https://open.spotify.com/artist/0FozbkkgjGS40HDmqhC5WZ"
-        },
-        {
-          "name": "Reblah",
-          "url": "https://open.spotify.com/artist/7EHtFdWeBK26GJ5lKt02SV"
-        }
-      ],
-      "duration_ms": 201829,
-      "name": "Perfect Love",
-      "url": "https://open.spotify.com/track/3GnOOXcTykwVEoxTz2rF8u"
-    },
-    {
-      "added_at": "2023-01-31 10:01:12",
-      "album": {
         "name": "If Only",
         "url": "https://open.spotify.com/album/5GOzSUBrOb6PaXHMQQixr2"
       },
@@ -1515,6 +1495,26 @@
       "duration_ms": 183573,
       "name": "Lemonade",
       "url": "https://open.spotify.com/track/2j0vxSpM9hsHi8MDmKnmfs"
+    },
+    {
+      "added_at": "2023-01-31 10:01:12",
+      "album": {
+        "name": "Perfect Love",
+        "url": "https://open.spotify.com/album/28WgOahB2gvQUOZAOW6NVd"
+      },
+      "artists": [
+        {
+          "name": "Sal Ly",
+          "url": "https://open.spotify.com/artist/0FozbkkgjGS40HDmqhC5WZ"
+        },
+        {
+          "name": "Reblah",
+          "url": "https://open.spotify.com/artist/7EHtFdWeBK26GJ5lKt02SV"
+        }
+      ],
+      "duration_ms": 201829,
+      "name": "Perfect Love",
+      "url": "https://open.spotify.com/track/3GnOOXcTykwVEoxTz2rF8u"
     },
     {
       "added_at": "2023-01-31 10:01:12",
@@ -1667,6 +1667,26 @@
     {
       "added_at": "2023-01-31 10:01:12",
       "album": {
+        "name": "Warm",
+        "url": "https://open.spotify.com/album/3OuRCknIWadGRarsOyhdgC"
+      },
+      "artists": [
+        {
+          "name": "AO1 Collective",
+          "url": "https://open.spotify.com/artist/7B1PFNIplX3KFKPizcl8e5"
+        },
+        {
+          "name": "Jeremiah Paltan",
+          "url": "https://open.spotify.com/artist/7gaLLumDYrznRYzpPtvrru"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "Warm",
+      "url": "https://open.spotify.com/track/5spzlJAr9QnRzkF0kJhGhv"
+    },
+    {
+      "added_at": "2023-01-31 10:01:12",
+      "album": {
         "name": "I do",
         "url": "https://open.spotify.com/album/1eQrGC1qAwhxa9YWpbT37E"
       },
@@ -1695,22 +1715,6 @@
       "duration_ms": 233050,
       "name": "Oh How I Love You - R&B Version",
       "url": "https://open.spotify.com/track/2VWk3KtFYWNskD0s7DZe6c"
-    },
-    {
-      "added_at": "2023-01-31 10:01:12",
-      "album": {
-        "name": "Genesis",
-        "url": "https://open.spotify.com/album/56H4CnTe0xS1VpZLgC9wAf"
-      },
-      "artists": [
-        {
-          "name": "Joy Williams",
-          "url": "https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa"
-        }
-      ],
-      "duration_ms": 246240,
-      "name": "I'm in Love With You",
-      "url": "https://open.spotify.com/track/1X40brgUhO1VaZ8CHtKBnt"
     }
   ],
   "unique_name": "Higher Love",

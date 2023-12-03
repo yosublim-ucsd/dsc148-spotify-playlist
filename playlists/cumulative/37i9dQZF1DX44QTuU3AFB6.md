@@ -4,7 +4,7 @@
 
 > ¡Rolas pa' sacar las chelas y el tequila!
 
-485 songs - 1 day 2 hr 0 min
+486 songs - 1 day 2 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -275,7 +275,7 @@
 | [Las Ultras](https://open.spotify.com/track/32nbIrhBqKTuZr4hFnlDbU) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Guerra De Poder](https://open.spotify.com/album/1W1M5dIjrNZdAD7mSsamKc) | 2:06 | 2022-05-20 |  |
 | [LE PIDES A UN BORRACHO](https://open.spotify.com/track/6Q9dUezjSIpesU0QcKFO5g) | [Los 3 Del Norteño](https://open.spotify.com/artist/6E56D3DChYTAJTn65CiGDT) | [Le Pides a Un Borracho](https://open.spotify.com/album/6mI0HFTtfcHGgxRUb5jpfb) | 3:01 | 2022-12-24 | 2023-04-02 |
 | [Llorando y Tomando](https://open.spotify.com/track/3xZbJvGvpXe2Wr5LHrDJCp) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Historias de la Calle](https://open.spotify.com/album/68oeH15c0id8blWP7cOu5T) | 3:00 | 2022-05-20 | 2022-10-15 |
-| [Lloro? O No Lloro?](https://open.spotify.com/track/6rTKBvuGuq076GQfPIPb4B) | [Los Parras](https://open.spotify.com/artist/1mXD3HVrObKWyjMvRjfsXp) | [Lloro? O No Lloro?](https://open.spotify.com/album/5IO8CJjeiZswNZW1Zg7uMJ) | 2:59 | 2022-05-20 |  |
+| [Lloro? O No Lloro?](https://open.spotify.com/track/6rTKBvuGuq076GQfPIPb4B) | [Los Parras](https://open.spotify.com/artist/1mXD3HVrObKWyjMvRjfsXp) | [Lloro? O No Lloro?](https://open.spotify.com/album/5IO8CJjeiZswNZW1Zg7uMJ) | 2:59 | 2022-05-20 | 2023-12-03 |
 | [Los Botones Azules](https://open.spotify.com/track/3ZGkdrigbWXLgHungXfZkt) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Mi Vida En Un Cigarro 2](https://open.spotify.com/album/3ind4Ir3JMazCITxWQajDb) | 2:15 | 2022-10-21 |  |
 | [Los Mitotes \- En Vivo](https://open.spotify.com/track/26e8lUcchMWzFcNqtNTwYH) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Puras de Servandozl](https://open.spotify.com/album/2Y0BOVe7O4scEDCbgVFJjR) | 3:09 | 2022-08-05 | 2022-10-15 |
 | [Me Ando Paseando](https://open.spotify.com/track/49WFJkETiSoUgULUhLHhy5) | [Lalo El Gallo Elizalde](https://open.spotify.com/artist/4qKU9ucaLeKsAlKsWEbhaE) | [Confusión](https://open.spotify.com/album/7hCpLO3OhWXP5lhgMbCV6I) | 2:50 | 2022-05-20 | 2022-08-06 |
@@ -460,6 +460,7 @@
 | [Un Placer, Fui El Chamaco \- En Vivo](https://open.spotify.com/track/5fJlztLjjC9akK1soyzCzu) | [Javier Rosas Y Su Artillería Pesada](https://open.spotify.com/artist/5FAAR1LqXQp0HbgVfQ8ZWE), [Adriel Favela](https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI) | [Un Placer, Fui El Chamaco \(En Vivo\)](https://open.spotify.com/album/1TnuJCwhjp4hVXakm0AyVX) | 2:43 | 2022-05-20 | 2022-08-06 |
 | [Un Puño De Tierra](https://open.spotify.com/track/1uDSMmfIdkybYrrDZhLxOk) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [Bandas & Rolas](https://open.spotify.com/album/29OiKPVQImSz4DzgA1tyyi) | 3:08 | 2023-01-20 | 2023-04-11 |
 | [Un Puño De Tierra](https://open.spotify.com/track/5D8n9Aqnzk3WgVeiomIlTl) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [Vida Ranchera](https://open.spotify.com/album/4sWHZVgyWVgnDiCbHj4Agy) | 3:08 | 2022-05-20 | 2022-08-06 |
+| [Un Puño De Tierra](https://open.spotify.com/track/6a5GOVslUy8aYnXrk2yiMb) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [Antonio Aguilar Con Tambora, Vol\. 2](https://open.spotify.com/album/69YwhTINpm6QzCUz6ZwZUd) | 3:08 | 2023-11-24 |  |
 | [un x100to](https://open.spotify.com/track/6pD0ufEQq0xdHSsRbg9LBK) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [un x100to](https://open.spotify.com/album/7aGzSSUD8S6IhPCsZSiuMT) | 3:14 | 2023-04-21 |  |
 | [Una Pagina Mas](https://open.spotify.com/track/0WPxkmPOzoLoHhDzboJghY) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [Una Página Más](https://open.spotify.com/album/4OgDDWQjUh9ms7dC4771rN) | 2:35 | 2022-12-24 | 2023-04-25 |
 | [Una Pagina Mas](https://open.spotify.com/track/0PaJt0W8xP4VpnVBMWvOvI) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [4 Decadas 20 Boleros](https://open.spotify.com/album/2asPHwYLmWPVhS0VA6Uu6N) | 2:39 | 2022-05-20 | 2022-08-06 |

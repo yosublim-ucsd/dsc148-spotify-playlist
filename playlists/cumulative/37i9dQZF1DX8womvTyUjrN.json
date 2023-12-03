@@ -4798,7 +4798,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-03",
       "duration_ms": 177749,
       "name": "Licencia Pa Beber",
       "url": "https://open.spotify.com/track/3oapAPyyIhKm3H6zdkOFTh"
@@ -4892,6 +4892,24 @@
       "duration_ms": 160666,
       "name": "Lo Que Me Har\u00edas En Otra Parte",
       "url": "https://open.spotify.com/track/1gCTNc0Jrk78CHiHbuT63w"
+    },
+    {
+      "album": {
+        "name": "Lo Que Queda de M\u00ed",
+        "url": "https://open.spotify.com/album/5gSUafhGxfjgna6Wr0fiVc"
+      },
+      "artists": [
+        {
+          "name": "i\u00f1igo quintero",
+          "url": "https://open.spotify.com/artist/0jbo7KFNMiIkfBR6ih0yhm"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230867,
+      "name": "Lo Que Queda de M\u00ed",
+      "url": "https://open.spotify.com/track/5ONDwiSzjziWVwmxRZCen6"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3wGocULdzX.md) - [plain]
 
 > ¡Qué rico el mambo! Cover: Machito
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,489 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,513 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3wGocULdzX.md) - [plain]
 | 28 | [Mamá Güela \- Live](https://open.spotify.com/track/4peboQ0PfWsLbjYNYSPgmB) | [Tito Rodriguez](https://open.spotify.com/artist/10n4KkyM4UDt4pf9H4aDlS) | [A Man And His Music: El Inolvidable](https://open.spotify.com/album/7101EVthCwrld4QKetHmb6) | 2:42 |
 | 29 | [Mambo](https://open.spotify.com/track/5EHfeFLbEWeYeNDzTyFby2) | [Cachao](https://open.spotify.com/artist/1Qa5p9ajnRIvq7bfsdtzqQ) | [Cuba Salsa Sabrosa Vol\. 2](https://open.spotify.com/album/4TRIu8j6ea1pfnPMzbrHjT) | 3:12 |
 | 30 | [La Guarachera](https://open.spotify.com/track/7kWdf24d03AheJu4KF4mo3) | [Tito Puente](https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX), [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Cuba y Puerto Rico](https://open.spotify.com/album/1P7Ucst33FwWbnoCj0TlNw) | 2:44 |
-| 31 | [Sasauma \- Mambo](https://open.spotify.com/track/0gxKSoP8PGv1Xwis1J2EWO) | [Bebo Valdés](https://open.spotify.com/artist/3qeECzqe5c7ssusMaDdwbj), [Orquesta Sabor De Cuba](https://open.spotify.com/artist/59ZNpioUB3Erkn4cZy1eGO) | [El Manisero](https://open.spotify.com/album/35GjYQu1NvqoJz1uXbtddK) | 2:49 |
-| 32 | [Charanga Jam](https://open.spotify.com/track/3iHMDoxbOqkoA9uUJR2yes) | [Bobby Marin](https://open.spotify.com/artist/1M6SRxoB7bSY1M8WbwIeF3) | [New York Salsa](https://open.spotify.com/album/1v4ffpwV9H6YkuZ2jVF9wu) | 4:25 |
+| 31 | [Charanga Jam](https://open.spotify.com/track/3iHMDoxbOqkoA9uUJR2yes) | [Bobby Marin](https://open.spotify.com/artist/1M6SRxoB7bSY1M8WbwIeF3) | [New York Salsa](https://open.spotify.com/album/1v4ffpwV9H6YkuZ2jVF9wu) | 4:25 |
+| 32 | [Sasauma \- Mambo](https://open.spotify.com/track/0gxKSoP8PGv1Xwis1J2EWO) | [Bebo Valdés](https://open.spotify.com/artist/3qeECzqe5c7ssusMaDdwbj), [Orquesta Sabor De Cuba](https://open.spotify.com/artist/59ZNpioUB3Erkn4cZy1eGO) | [El Manisero](https://open.spotify.com/album/35GjYQu1NvqoJz1uXbtddK) | 2:49 |
 | 33 | [Wild Jungle \- 2000 Remaster](https://open.spotify.com/track/0uoOBKdEsBzqKjondmUTli) | [Machito](https://open.spotify.com/artist/3mdrgtEX1xhiauu3Pn06LL) | [Kenya](https://open.spotify.com/album/1BHUIrORQwywRkl5cjapQz) | 2:47 |
 | 34 | [Mi Chiquita Quiere Bembé](https://open.spotify.com/track/5GbOYy9AZHOjeZCd3gAa2D) | [Tito Puente & His Orchestra](https://open.spotify.com/artist/1zN5Et4jcH3XQ0b60IGmp1) | [Dance Mania Vol.1](https://open.spotify.com/album/1XjabdmwipT62cLSZV45SU) | 3:55 |
 | 35 | [Buchipluma Na' Ma'](https://open.spotify.com/track/66eyTpvxV8aMlyR1gN6XHt) | [Charlie Palmieri](https://open.spotify.com/artist/1qNctKAgK8LDV3agmP8ukS) | [Two Brothers Two Legends](https://open.spotify.com/album/4znxzsJdCVRIdANotJMDwh) | 5:26 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3wGocULdzX.md) - [plain]
 | 49 | [Blen, Blen, Blen](https://open.spotify.com/track/0koL9KgFF8DiuNExstwl4X) | [Tito Rodriguez](https://open.spotify.com/artist/10n4KkyM4UDt4pf9H4aDlS) | [Tito No\. 1](https://open.spotify.com/album/7CRlAAlopAiJb5jimIkCGn) | 3:17 |
 | 50 | [No Cuentes Conmigo](https://open.spotify.com/track/55mhyCZbjoVCelyCmwR3du) | [Tito Rodriguez](https://open.spotify.com/artist/10n4KkyM4UDt4pf9H4aDlS) | [Tito Rodriguez..\. The Early Years](https://open.spotify.com/album/4k1RqHzMQgsODHYkMJHAMY) | 3:03 |
 
-Snapshot ID: `MCw1Mjg0NmQzNThhZThlZWJjNzQwOTlmY2UyZTdiMDYzMjczZDQ0NTgz`
+Snapshot ID: `MCwzZDZhOWY4NWJhNWNlZjNmNjk3MDI0MTE4ZTQ5NTM5NzUxNjEzNjA4`

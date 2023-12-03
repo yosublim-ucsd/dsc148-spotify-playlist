@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTDkmaK3cAib.md) - [plain]
 
 > let's get it on
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,343 likes - 75 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,380 likes - 75 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTDkmaK3cAib.md) - [plain]
 | 40 | [Vuelve](https://open.spotify.com/track/4KM3EegQxVIvcihTEjPdRf) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Vuelve](https://open.spotify.com/album/3tHGFcXeL55wqNQl2vh2GX) | 3:14 |
 | 41 | [...baby one more time](https://open.spotify.com/track/1Zqs6A90va6FUxQ7KJAckG) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [...baby one more time](https://open.spotify.com/album/65oQssKlo7DCgaD3HVtiVX) | 2:05 |
 | 42 | [Nuestros Horarios](https://open.spotify.com/track/69G2Aj5COfbjvfiMHt2Yfv) | [Ferraz](https://open.spotify.com/artist/01VsXNrszWERedrdHgRVH2), [Sabino](https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy) | [Rumbo](https://open.spotify.com/album/22xOfOeKkOaTmK0aeLnl2D) | 2:56 |
-| 43 | [Sin Gato \(MIAU!\)](https://open.spotify.com/track/3vGYACdHXBG9COwobk3J5U) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [Sin Gato \(MIAU!\)](https://open.spotify.com/album/5Kav6970mLaRDQN1tSqWom) | 2:28 |
-| 44 | [La Mujer Que Bota Fuego](https://open.spotify.com/track/236RkCUAucOj7QXfeVWOfA) | [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM) | [Manuel Medrano](https://open.spotify.com/album/3XeEBV0owMhwHmyLfaMxwg) | 4:08 |
+| 43 | [La Mujer Que Bota Fuego](https://open.spotify.com/track/236RkCUAucOj7QXfeVWOfA) | [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM) | [Manuel Medrano](https://open.spotify.com/album/3XeEBV0owMhwHmyLfaMxwg) | 4:08 |
+| 44 | [Sin Gato \(MIAU!\)](https://open.spotify.com/track/3vGYACdHXBG9COwobk3J5U) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [Sin Gato \(MIAU!\)](https://open.spotify.com/album/5Kav6970mLaRDQN1tSqWom) | 2:28 |
 | 45 | [me jodi...](https://open.spotify.com/track/6xntXCix5SxiEtv9zH7pXF) | [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [DATA](https://open.spotify.com/album/6xRxlUUfg3M0QB1LUX89gA) | 3:21 |
 | 46 | [Rimas Pa' Seducir](https://open.spotify.com/track/2usf3N1xqWLBvFXAgczmbG) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [La Dulzura](https://open.spotify.com/album/0ma0z5JUPvi7ZZtfV8Di0A) | 3:07 |
 | 47 | [18+1](https://open.spotify.com/track/5rxzvuFvtIVFWSSte40IFe) | [Alvaro Diaz](https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr), [Jesse Baez](https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3) | [Felicilandia](https://open.spotify.com/album/7jg09IJJXi1eigVLZja2hN) | 3:01 |
@@ -74,14 +74,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTDkmaK3cAib.md) - [plain]
 | 64 | [Religiosa](https://open.spotify.com/track/33IHBjSXpamVSajAQ3wSER) | [Paloma Mami](https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt) | [Sueños de Dalí](https://open.spotify.com/album/4jfOmy33i7nM0gW5zPslJK) | 2:40 |
 | 65 | [No Fue](https://open.spotify.com/track/5KgGV5yykkThL3rk5mQWfr) | [Chita](https://open.spotify.com/artist/7ejyCwT1b7MIwHVCVO8HjX), [CA7RIEL](https://open.spotify.com/artist/348pk4o3EhKmsSahzuClSf) | [No Fue](https://open.spotify.com/album/01hu8HlyUnBnITx30aDTbD) | 3:15 |
 | 66 | [COLTRANE](https://open.spotify.com/track/4hM63GBOU82xdvxDa0RxJm) | [Cardellino](https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0), [Carlota Urdiales](https://open.spotify.com/artist/25OjIyCWup505eb4tS2AUl) | [Cardellino](https://open.spotify.com/album/43ngUKpEMUdgNv3cHaWGKC) | 2:43 |
-| 67 | [Aire](https://open.spotify.com/track/6KD13DHZyT3hRvcVg1sZfZ) | [Nicole Horts](https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux), [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu) | [Aire](https://open.spotify.com/album/3JUzKnPSx25f6XGmFlmOQM) | 2:54 |
-| 68 | [Acércate](https://open.spotify.com/track/26lQpQ4qsnVrH6QjDwrzUZ) | [Beruti](https://open.spotify.com/artist/4Ozcco9RkNmJtg7qkCy8zI), [Immasoul](https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG) | [Acércate](https://open.spotify.com/album/5d8ygrapgzsFXavPw9Snkl) | 2:47 |
-| 69 | [Commitment](https://open.spotify.com/track/66wc0nPLPztqdyjEdWzPRP) | [Luna Luna](https://open.spotify.com/artist/5TlEHNqVreukNnk4aj7mVr) | [Carousel](https://open.spotify.com/album/6VgqpgAkaud6KjgkXiKPMY) | 4:07 |
-| 70 | [Bachatica](https://open.spotify.com/track/4DZYmpPrr6agOFB1qQSJ8I) | [Leslie Grace](https://open.spotify.com/artist/6BeO1KuAWBqFriL1mLHtNc) | [Bachatica](https://open.spotify.com/album/4RKlBiJIMMhQ9yXOeoJwi8) | 3:16 |
-| 71 | [La Ducha](https://open.spotify.com/track/6K8b79GjwyTgg0Juafi5v1) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [La Ducha](https://open.spotify.com/album/3cRg2kyX1JIc1bCKnjbdnp) | 3:29 |
-| 72 | [Naturaleza](https://open.spotify.com/track/2OlxJKrbyLmzAO14EgV53K) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [De Adentro Pa Afuera](https://open.spotify.com/album/1UTDgnpHmthIsdzSxbhpV2) | 2:42 |
-| 73 | [Piel](https://open.spotify.com/track/7vIKLjaoOL1CHihygxcs34) | [Noah Pino Palo](https://open.spotify.com/artist/5AxhSiFtedc06KsccxoC21) | [Selvas](https://open.spotify.com/album/317wmYxchAqBSLCOfU4sLW) | 1:15 |
-| 74 | [Ukiyo](https://open.spotify.com/track/2kapGymnbrzm8ZwWnQRYIm) | [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow) | [Ukiyo](https://open.spotify.com/album/0eX8CWb62DpZUdDllWU1iP) | 2:29 |
+| 67 | [Ukiyo](https://open.spotify.com/track/2kapGymnbrzm8ZwWnQRYIm) | [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow) | [Ukiyo](https://open.spotify.com/album/0eX8CWb62DpZUdDllWU1iP) | 2:29 |
+| 68 | [Aire](https://open.spotify.com/track/6KD13DHZyT3hRvcVg1sZfZ) | [Nicole Horts](https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux), [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu) | [Aire](https://open.spotify.com/album/3JUzKnPSx25f6XGmFlmOQM) | 2:54 |
+| 69 | [Acércate](https://open.spotify.com/track/26lQpQ4qsnVrH6QjDwrzUZ) | [Beruti](https://open.spotify.com/artist/4Ozcco9RkNmJtg7qkCy8zI), [Immasoul](https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG) | [Acércate](https://open.spotify.com/album/5d8ygrapgzsFXavPw9Snkl) | 2:47 |
+| 70 | [Commitment](https://open.spotify.com/track/66wc0nPLPztqdyjEdWzPRP) | [Luna Luna](https://open.spotify.com/artist/5TlEHNqVreukNnk4aj7mVr) | [Carousel](https://open.spotify.com/album/6VgqpgAkaud6KjgkXiKPMY) | 4:07 |
+| 71 | [Bachatica](https://open.spotify.com/track/4DZYmpPrr6agOFB1qQSJ8I) | [Leslie Grace](https://open.spotify.com/artist/6BeO1KuAWBqFriL1mLHtNc) | [Bachatica](https://open.spotify.com/album/4RKlBiJIMMhQ9yXOeoJwi8) | 3:16 |
+| 72 | [La Ducha](https://open.spotify.com/track/6K8b79GjwyTgg0Juafi5v1) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [La Ducha](https://open.spotify.com/album/3cRg2kyX1JIc1bCKnjbdnp) | 3:29 |
+| 73 | [Naturaleza](https://open.spotify.com/track/2OlxJKrbyLmzAO14EgV53K) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [De Adentro Pa Afuera](https://open.spotify.com/album/1UTDgnpHmthIsdzSxbhpV2) | 2:42 |
+| 74 | [Piel](https://open.spotify.com/track/7vIKLjaoOL1CHihygxcs34) | [Noah Pino Palo](https://open.spotify.com/artist/5AxhSiFtedc06KsccxoC21) | [Selvas](https://open.spotify.com/album/317wmYxchAqBSLCOfU4sLW) | 1:15 |
 | 75 | [Curvas](https://open.spotify.com/track/6TO05VYYHCkZpy0V1XVOdI) | [Junior Zamora](https://open.spotify.com/artist/1xbYDYZZRWQ0mG218SGVDQ), [Claruz](https://open.spotify.com/artist/5NtQw3vT27cspk8K7krlJv), [Floyd](https://open.spotify.com/artist/4yURrK9HEczFPGPya2yBu2) | [Curvas](https://open.spotify.com/album/4epp2PoR2TdOkYN90EG1MT) | 2:48 |
 
-Snapshot ID: `MCxmZTAyN2EyMmEyNzc0ZjliNjNkZGJlZGU3ZjFlOGQ4N2RjYTAyYmNh`
+Snapshot ID: `MCw4NDU3Y2RmZGI3MzQ2MzM2MTQ1MjEwNjJmNzU3ODUyMWZlNWY3MjU1`

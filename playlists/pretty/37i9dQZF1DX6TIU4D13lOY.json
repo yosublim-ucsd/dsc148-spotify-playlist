@@ -1,12 +1,12 @@
 {
   "description": "Classic soft rock for a nice and easy drive.",
-  "num_followers": 243253,
+  "num_followers": 243328,
   "original_name": "Soft Rock Drive",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNWMzMzM3YTczYTM2ODhiMzVkZWVjNzhjNTVhMWNiNTI3OGYxMDJm",
+  "snapshot_id": "MCwyNzk2ZDJlZGJkOWYyNThlZWU5NTkzNGM5YmNhOGI4MTYyMWRkZWY2",
   "tracks": [
     {
       "added_at": "2020-01-07 15:31:11",
@@ -315,22 +315,6 @@
     {
       "added_at": "2020-01-07 15:31:11",
       "album": {
-        "name": "Guitar Man",
-        "url": "https://open.spotify.com/album/38mhQ9p2BiHpz60gthzEVy"
-      },
-      "artists": [
-        {
-          "name": "Bread",
-          "url": "https://open.spotify.com/artist/70ZTdbPEcEugBNay4MvxfL"
-        }
-      ],
-      "duration_ms": 226213,
-      "name": "Guitar Man",
-      "url": "https://open.spotify.com/track/0gZXockVcE7rEhSf4mcGLO"
-    },
-    {
-      "added_at": "2020-01-07 15:31:11",
-      "album": {
         "name": "Pleasure & Pain",
         "url": "https://open.spotify.com/album/35XG1sovYmuWPpYCJsEX6F"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 174533,
       "name": "Sharing The Night Together",
       "url": "https://open.spotify.com/track/4M0m4FUdc4wD2guhUHogLF"
+    },
+    {
+      "added_at": "2020-01-07 15:31:11",
+      "album": {
+        "name": "Guitar Man",
+        "url": "https://open.spotify.com/album/38mhQ9p2BiHpz60gthzEVy"
+      },
+      "artists": [
+        {
+          "name": "Bread",
+          "url": "https://open.spotify.com/artist/70ZTdbPEcEugBNay4MvxfL"
+        }
+      ],
+      "duration_ms": 226213,
+      "name": "Guitar Man",
+      "url": "https://open.spotify.com/track/0gZXockVcE7rEhSf4mcGLO"
     },
     {
       "added_at": "2020-01-07 15:31:11",
@@ -427,6 +427,22 @@
     {
       "added_at": "2020-01-07 15:31:11",
       "album": {
+        "name": "Longer Fuse",
+        "url": "https://open.spotify.com/album/0dQK7dydGZY4UPL87P3YhW"
+      },
+      "artists": [
+        {
+          "name": "Dan Hill",
+          "url": "https://open.spotify.com/artist/5rOhfAsK4uxq9OdREiQRKa"
+        }
+      ],
+      "duration_ms": 252693,
+      "name": "Sometimes When We Touch",
+      "url": "https://open.spotify.com/track/1nAexCn3dPoFSmE7h6P5S7"
+    },
+    {
+      "added_at": "2020-01-07 15:31:11",
+      "album": {
         "name": "Baby I'm-a Want You",
         "url": "https://open.spotify.com/album/5OlNb8PMZXFkhhtSrhLuO5"
       },
@@ -459,22 +475,6 @@
     {
       "added_at": "2020-01-07 15:31:11",
       "album": {
-        "name": "Longer Fuse",
-        "url": "https://open.spotify.com/album/0dQK7dydGZY4UPL87P3YhW"
-      },
-      "artists": [
-        {
-          "name": "Dan Hill",
-          "url": "https://open.spotify.com/artist/5rOhfAsK4uxq9OdREiQRKa"
-        }
-      ],
-      "duration_ms": 252693,
-      "name": "Sometimes When We Touch",
-      "url": "https://open.spotify.com/track/1nAexCn3dPoFSmE7h6P5S7"
-    },
-    {
-      "added_at": "2020-01-07 15:31:11",
-      "album": {
         "name": "Pretzel Logic",
         "url": "https://open.spotify.com/album/4XfN871nBIz6obaUDEzZXm"
       },
@@ -491,22 +491,6 @@
     {
       "added_at": "2020-01-07 15:31:11",
       "album": {
-        "name": "JT",
-        "url": "https://open.spotify.com/album/0Pbc9Jq12a47mQ1z9yIuhn"
-      },
-      "artists": [
-        {
-          "name": "James Taylor",
-          "url": "https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P"
-        }
-      ],
-      "duration_ms": 165400,
-      "name": "Your Smiling Face",
-      "url": "https://open.spotify.com/track/1Q34tAtTWI6RdW1qzFQiPb"
-    },
-    {
-      "added_at": "2020-01-07 15:31:11",
-      "album": {
         "name": "Back to Front (Deluxe Edition)",
         "url": "https://open.spotify.com/album/6LoUAyxzjVgwIIYBZOM6xQ"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 221373,
       "name": "Alone Again (Naturally)",
       "url": "https://open.spotify.com/track/54pvEYFocTlvIAQOfXSjqV"
+    },
+    {
+      "added_at": "2020-01-07 15:31:11",
+      "album": {
+        "name": "JT",
+        "url": "https://open.spotify.com/album/0Pbc9Jq12a47mQ1z9yIuhn"
+      },
+      "artists": [
+        {
+          "name": "James Taylor",
+          "url": "https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P"
+        }
+      ],
+      "duration_ms": 165400,
+      "name": "Your Smiling Face",
+      "url": "https://open.spotify.com/track/1Q34tAtTWI6RdW1qzFQiPb"
     },
     {
       "added_at": "2020-01-07 15:31:11",
@@ -987,22 +987,6 @@
     {
       "added_at": "2020-01-07 15:31:11",
       "album": {
-        "name": "Sammy Johns",
-        "url": "https://open.spotify.com/album/2hIJCiimrkUy3RMeIIF89Z"
-      },
-      "artists": [
-        {
-          "name": "Sammy Johns",
-          "url": "https://open.spotify.com/artist/5L2UqkzpfZD5OpdA6fSfVH"
-        }
-      ],
-      "duration_ms": 179000,
-      "name": "Chevy Van",
-      "url": "https://open.spotify.com/track/31S6oGx81hVIjWz6cu5oNw"
-    },
-    {
-      "added_at": "2020-01-07 15:31:11",
-      "album": {
         "name": "Careless",
         "url": "https://open.spotify.com/album/08zWo4xb7GZ5e3dyUOUAmm"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 192973,
       "name": "Save It For A Rainy Day",
       "url": "https://open.spotify.com/track/5AHjRKFCVUaRClF2Oxx8Ld"
+    },
+    {
+      "added_at": "2020-01-07 15:31:11",
+      "album": {
+        "name": "Sammy Johns",
+        "url": "https://open.spotify.com/album/2hIJCiimrkUy3RMeIIF89Z"
+      },
+      "artists": [
+        {
+          "name": "Sammy Johns",
+          "url": "https://open.spotify.com/artist/5L2UqkzpfZD5OpdA6fSfVH"
+        }
+      ],
+      "duration_ms": 179000,
+      "name": "Chevy Van",
+      "url": "https://open.spotify.com/track/31S6oGx81hVIjWz6cu5oNw"
     },
     {
       "added_at": "2022-06-29 18:01:05",

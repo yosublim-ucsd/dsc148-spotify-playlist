@@ -10061,6 +10061,24 @@
     },
     {
       "album": {
+        "name": "Dear Insanity...",
+        "url": "https://open.spotify.com/album/0tOtw8pNMRmDa57nZ6GZ9Q"
+      },
+      "artists": [
+        {
+          "name": "DPR IAN",
+          "url": "https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe"
+        }
+      ],
+      "date_added": "2023-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204880,
+      "name": "Don't Go Insane",
+      "url": "https://open.spotify.com/track/5LWWAw887ODAUvR2LR1kDg"
+    },
+    {
+      "album": {
         "name": "Don\u2019t Hate Me",
         "url": "https://open.spotify.com/album/5onmM2jMU1bod6ybbehqAq"
       },
@@ -22420,7 +22438,7 @@
       ],
       "date_added": "2023-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-03",
       "duration_ms": 195520,
       "name": "MANIAC",
       "url": "https://open.spotify.com/track/618OKP1lBkNJL8uZdNSvQE"
@@ -22512,7 +22530,7 @@
       ],
       "date_added": "2023-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-03",
       "duration_ms": 201611,
       "name": "Margiela",
       "url": "https://open.spotify.com/track/1KGvrw4RWClq7yt42sGG1v"
@@ -41724,6 +41742,24 @@
       "duration_ms": 165213,
       "name": "\u0141yk i buch",
       "url": "https://open.spotify.com/track/4gUKSmeJ7TNcVzHcsGxRKK"
+    },
+    {
+      "album": {
+        "name": "\u041c\u043e\u0439 \u043c\u0430\u0440\u043c\u0435\u043b\u0430\u0434\u043d\u044b\u0439 (Speed Up)",
+        "url": "https://open.spotify.com/album/2FNme6NxwflHG6UurhDhlf"
+      },
+      "artists": [
+        {
+          "name": "Katya Lel",
+          "url": "https://open.spotify.com/artist/3NguMMTDTItRbe2E2PZrJ2"
+        }
+      ],
+      "date_added": "2023-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188625,
+      "name": "\u041c\u043e\u0439 \u043c\u0430\u0440\u043c\u0435\u043b\u0430\u0434\u043d\u044b\u0439 (Speed Up)",
+      "url": "https://open.spotify.com/track/6qNHJwdMhNZzyJ7yTDU8zD"
     },
     {
       "album": {

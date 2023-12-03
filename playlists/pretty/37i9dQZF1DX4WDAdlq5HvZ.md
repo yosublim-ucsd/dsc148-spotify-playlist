@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WDAdlq5HvZ.md) - [plain]
 
 > Happy Mother's Day!  Send love to all the mothers and remind them what a blessing they are with these songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,128 likes - 85 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,137 likes - 85 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,9 +28,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WDAdlq5HvZ.md) - [plain]
 | 18 | [Keep Me In The Moment \- Radio Version](https://open.spotify.com/track/2c87x3mBYuffK4ihylVwAG) | [Jeremy Camp](https://open.spotify.com/artist/5wpEBloInversG3zp3CVAk) | [Keep Me In The Moment \(Radio Version\)](https://open.spotify.com/album/3oqTEcAfMzfN861Fearp4G) | 3:27 |
 | 19 | [Priceless](https://open.spotify.com/track/7BTmtN6bP35E54vVASTqao) | [for KING & COUNTRY](https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC) | [RUN WILD\. LIVE FREE\. LOVE STRONG\. \(Deluxe Anniversary Edition\)](https://open.spotify.com/album/3JgsuH1i4ddVP4Ke5zf87I) | 3:28 |
 | 20 | [He Knows My Name](https://open.spotify.com/track/2lrHKMXyu8LTLxMorzJkTQ) | [Francesca Battistelli](https://open.spotify.com/artist/29ywwKkxfoH7iWwNY1UezA) | [If We're Honest \(Deluxe Version\)](https://open.spotify.com/album/5ZEGGjJdlQdDNhLKYucTJw) | 3:27 |
-| 21 | [Overcomer](https://open.spotify.com/track/5legkLUDyq0qOg4TR7wUAs) | [Mandisa](https://open.spotify.com/artist/0YPElKYjOD1sofFCtLdYj3) | [Overcomer](https://open.spotify.com/album/3KKjqSX6UNMUdFgMtYaNj4) | 3:43 |
+| 21 | [Tell Your Heart To Beat Again](https://open.spotify.com/track/6Jmxn8oQ0oKepxEusNbTPA) | [Danny Gokey](https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz) | [Hope In Front of Me](https://open.spotify.com/album/58MAD1NrlMznn1k5C4up8M) | 3:53 |
 | 22 | [How Can It Be](https://open.spotify.com/track/27wkiHSSNOB0TyfXzNziaD) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [How Can It Be](https://open.spotify.com/album/2zTNj92GTDDMzWSXEWdLyu) | 4:19 |
-| 23 | [Tell Your Heart To Beat Again](https://open.spotify.com/track/6Jmxn8oQ0oKepxEusNbTPA) | [Danny Gokey](https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz) | [Hope In Front of Me](https://open.spotify.com/album/58MAD1NrlMznn1k5C4up8M) | 3:53 |
+| 23 | [Overcomer](https://open.spotify.com/track/5legkLUDyq0qOg4TR7wUAs) | [Mandisa](https://open.spotify.com/artist/0YPElKYjOD1sofFCtLdYj3) | [Overcomer](https://open.spotify.com/album/3KKjqSX6UNMUdFgMtYaNj4) | 3:43 |
 | 24 | [Breathe](https://open.spotify.com/track/3hN8RetXNOyDVhxGdkFlqA) | [Jonny Diaz](https://open.spotify.com/artist/4HKCjseZVD2vG7EJG3yLwt) | [Everything Is Changing](https://open.spotify.com/album/5MlpCzqsff1YEgoELbodZT) | 3:33 |
 | 25 | [You Make Me Brave \- Live](https://open.spotify.com/track/14I9CpiA1CMTdLga8SKAjJ) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Amanda Cook](https://open.spotify.com/artist/53Gnd3lGlcL8ua9Yyu9xDP) | [You Make Me Brave \(Live\)](https://open.spotify.com/album/0u5bqt44z6UQEcHV7MVFvM) | 6:06 |
 | 26 | [Drops in the Ocean](https://open.spotify.com/track/6CeoTeUhMFHKoKeQkRrhaU) | [Hawk Nelson](https://open.spotify.com/artist/4hj6ZZxaiKvG5GU3PYf7Gh) | [Diamonds](https://open.spotify.com/album/6H9N73NXBNugcz4FevMxlC) | 3:21 |
@@ -46,9 +46,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WDAdlq5HvZ.md) - [plain]
 | 36 | [What Faith Can Do](https://open.spotify.com/track/58nLgrkgVsVA4w5dWsFgR2) | [Kutless](https://open.spotify.com/artist/3lLT23km6QvzYCojCXAYtX) | [It Is Well \(Expanded Edition\)](https://open.spotify.com/album/23nxQxj7M00ktsNdLE2e1D) | 3:53 |
 | 37 | [Nobody Loves Me Like You](https://open.spotify.com/track/2UNSjAMTbEYRVgj0VscPEA) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Holy Roar](https://open.spotify.com/album/2MsjmtZb4JVzmQ2kmS6dVq) | 4:26 |
 | 38 | [Write Your Story](https://open.spotify.com/track/0wWDNsLRUuXFGRd4NcrdrR) | [Francesca Battistelli](https://open.spotify.com/artist/29ywwKkxfoH7iWwNY1UezA) | [If We're Honest \(Deluxe Version\)](https://open.spotify.com/album/5ZEGGjJdlQdDNhLKYucTJw) | 3:23 |
-| 39 | [Better](https://open.spotify.com/track/6f2YcFaM5NaDoKbKyMwiCm) | [Pat Barrett](https://open.spotify.com/artist/0289SkqAn0iOohwm0pIHv3) | [Pat Barrett](https://open.spotify.com/album/0aN0xAIaYHQDj63QrgvJJ5) | 4:57 |
+| 39 | [When God Made You](https://open.spotify.com/track/3QUQhiADLGdEWnoXKPCKaE) | [Newsong](https://open.spotify.com/artist/1Ng8jGC4dL0gkkuh77pbpX) | [More Life](https://open.spotify.com/album/1LpBNvtnwj7uMshdz8Sqsq) | 4:41 |
 | 40 | [Love Me Like I Am](https://open.spotify.com/track/60GTOisUSdUksjMzq17XvO) | [for KING & COUNTRY](https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC) | [What Are We Waiting For?](https://open.spotify.com/album/6h95CVsuRQt0SHA0MtjpWW) | 3:04 |
-| 41 | [When God Made You](https://open.spotify.com/track/3QUQhiADLGdEWnoXKPCKaE) | [Newsong](https://open.spotify.com/artist/1Ng8jGC4dL0gkkuh77pbpX) | [More Life](https://open.spotify.com/album/1LpBNvtnwj7uMshdz8Sqsq) | 4:41 |
+| 41 | [Better](https://open.spotify.com/track/6f2YcFaM5NaDoKbKyMwiCm) | [Pat Barrett](https://open.spotify.com/artist/0289SkqAn0iOohwm0pIHv3) | [Pat Barrett](https://open.spotify.com/album/0aN0xAIaYHQDj63QrgvJJ5) | 4:57 |
 | 42 | [Fighter](https://open.spotify.com/track/6xcaBP6eJajda8AgSNsYun) | [Danny Gokey](https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz) | [Haven't Seen It Yet](https://open.spotify.com/album/1keC2a4EU43ByCNGktRgB6) | 3:21 |
 | 43 | [Love Lifting Me](https://open.spotify.com/track/4O8TOAWNMGrvpY3bn0SO3y) | [Tasha Layton](https://open.spotify.com/artist/3yCv2yloJueOb4Y3HEYgSq) | [Love Running Wild](https://open.spotify.com/album/2vebwQ9kyBdhWLz3cayGS7) | 3:19 |
 | 44 | [Don't Forget to Remember Me](https://open.spotify.com/track/0SCtEUwSkgavjuzebBznX5) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Some Hearts](https://open.spotify.com/album/0kys2jaKAiDPfNBd4z7LAg) | 4:00 |
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WDAdlq5HvZ.md) - [plain]
 | 51 | [Footprints in the Sand \- Single Mix](https://open.spotify.com/track/0mrqlJrZRPEaH6RXkztRT2) | [Leona Lewis](https://open.spotify.com/artist/5lKZWd6HiSCLfnDGrq9RAm) | [Spirit](https://open.spotify.com/album/7t1veDv7FWHYXskQEoU7dq) | 3:56 |
 | 52 | [Slow Down](https://open.spotify.com/track/5ih42me52UDonDOMv1gl7o) | [Nichole Nordeman](https://open.spotify.com/artist/0KSjxPoT71Dq8qcgfWTdHh) | [The Unmaking](https://open.spotify.com/album/5Hbn1AQBK8wzLX5OBe0v0x) | 3:58 |
 | 53 | [What I Never Knew I Always Wanted](https://open.spotify.com/track/5b0QOGqikWl9VZ3H3uHrUb) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Storyteller](https://open.spotify.com/album/4q3SkZWPYJtKno1RbnrjL4) | 3:35 |
-| 54 | [Jesus & You](https://open.spotify.com/track/3zCBJdGlTNTASR6VXo9HUQ) | [Matthew West](https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj) | [All In](https://open.spotify.com/album/4Qb7av34wG5v22LIV5IN9g) | 3:22 |
-| 55 | [Love God Love People \- Radio Version](https://open.spotify.com/track/4AzZt81qe4U17x6LFBj10S) | [Danny Gokey](https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz) | [Love God Love People \(Radio Version\)](https://open.spotify.com/album/1vopwBYonLDhkmOfDcJGNG) | 3:12 |
+| 54 | [Love God Love People \- Radio Version](https://open.spotify.com/track/4AzZt81qe4U17x6LFBj10S) | [Danny Gokey](https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz) | [Love God Love People \(Radio Version\)](https://open.spotify.com/album/1vopwBYonLDhkmOfDcJGNG) | 3:12 |
+| 55 | [Jesus & You](https://open.spotify.com/track/3zCBJdGlTNTASR6VXo9HUQ) | [Matthew West](https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj) | [All In](https://open.spotify.com/album/4Qb7av34wG5v22LIV5IN9g) | 3:22 |
 | 56 | [Help Us To Love](https://open.spotify.com/track/6LPnHQr7o95lezO5Y6qJVE) | [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr), [The HamilTones](https://open.spotify.com/artist/1Nj9dLuiwh4DHn8AIkQyqs) | [Hiding Place](https://open.spotify.com/album/5A5ePoPwlIuxVmn3cIhiFw) | 3:45 |
 | 57 | [I Remember Mama](https://open.spotify.com/track/1tqxg3dZ16BSRvm0xbkuYG) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [I Remember Mama](https://open.spotify.com/album/39lUTIjf3Y8je8kEsftT34) | 6:22 |
 | 58 | [Watch You Be a Mother](https://open.spotify.com/track/3rnXcaQ10ZQ4e0aVbsufmV) | [Jonny Diaz](https://open.spotify.com/artist/4HKCjseZVD2vG7EJG3yLwt) | [Watch You Be a Mother](https://open.spotify.com/album/2lyjklRTRuWMeRiL16XOf9) | 3:15 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WDAdlq5HvZ.md) - [plain]
 | 84 | [O God Our Mother](https://open.spotify.com/track/1CFsZ1rppH7wb9tJ6BW3Wm) | [Samantha McCabe](https://open.spotify.com/artist/7jEdW0KbQk4baXIdRNHArL) | [O God Our Mother](https://open.spotify.com/album/0QRDfO8uH9FiyoETaU4Vda) | 3:41 |
 | 85 | [Mama \(Sentimental\)](https://open.spotify.com/track/4G9s3pYrx3TgnHZa92dVON) | [Dawson Hollow](https://open.spotify.com/artist/4BgqG2TR5C45CxBXtuXJ3R) | [Mama \(Sentimental\)](https://open.spotify.com/album/57ybSKXLHW8E6Ioo96OMKM) | 3:26 |
 
-Snapshot ID: `MCxjNDZjYzJmZmQ3YjhhYTM5YTdiNWY1YTMxYzJmY2NiMmQ0OTZjZGYw`
+Snapshot ID: `MCw3MDE4MjM1MjZjNDk4ZDYwODc2OTAwOWNjZjllZGNlNmNkNWNmYjAw`

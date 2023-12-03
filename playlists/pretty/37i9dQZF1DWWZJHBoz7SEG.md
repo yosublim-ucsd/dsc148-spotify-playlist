@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 
 > ¿Qué tal tu 2023 en Spotify? El año todavía no acaba y ya es momento de empezar a alimentar tu Wrapped del 2024 🤪 Eden Muñoz en Portada
 
-[Spotify](https://open.spotify.com/user/spotify) - 810,404 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 810,936 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Pudiste pero No Quisiste](https://open.spotify.com/track/4GW1xy7yINUnuEQHaETaVC) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Como en los Viejos Tiempos](https://open.spotify.com/album/7kfuZtaN9zvpFhIIMZLvgI) | 3:32 |
+| 1 | [Pudiste Pero No Quisiste](https://open.spotify.com/track/4GW1xy7yINUnuEQHaETaVC) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Como en los Viejos Tiempos](https://open.spotify.com/album/7kfuZtaN9zvpFhIIMZLvgI) | 3:32 |
 | 2 | [UNA BALA](https://open.spotify.com/track/6K7gGdiXiKHTaA5M98uT1F) | [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [1 1 1](https://open.spotify.com/album/3AROvUBUe1mMAauVt73kRF) | 3:02 |
 | 3 | [A Puro Dolor](https://open.spotify.com/track/1rXxK89X0XGpIdTB6CwiFu) | [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [A Puro Dolor](https://open.spotify.com/album/54bkVDCc7dG3QpIvFePi4a) | 2:48 |
-| 4 | [ALCH SI](https://open.spotify.com/track/5cWgwbui8BasfjCXvBZ7UA) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [ALCH SI](https://open.spotify.com/album/7rCPyUIciqYswpRXTa1JYc) | 2:33 |
+| 4 | [Alch Si](https://open.spotify.com/track/5cWgwbui8BasfjCXvBZ7UA) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Alch Si](https://open.spotify.com/album/7rCPyUIciqYswpRXTa1JYc) | 2:33 |
 | 5 | [LA VUELTA](https://open.spotify.com/track/01W6syCgxisKd0gDqFRdEG) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Mañas Ru\-Fino](https://open.spotify.com/artist/78rkeQAvjl85yNyLAqEMVe) | [FERXXOCALIPSIS](https://open.spotify.com/album/0lgs2Sa82lyX89nBUWyUy6) | 2:01 |
 | 6 | [Señorita](https://open.spotify.com/track/0FmIDOVz1wI7F8axO6elnu) | [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [Señorita](https://open.spotify.com/album/5IP7D7qqhizcvATXIizxYC) | 3:11 |
 | 7 | [CLICK](https://open.spotify.com/track/4GqhfgzrdJgJiUPnx9S1z6) | [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD), [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY) | [CLICK](https://open.spotify.com/album/2b7NyXYaxu3V1ktJWmfcFd) | 3:00 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 | 49 | [No Puedo Dejar De Decir Que Te Quiero](https://open.spotify.com/track/0H5VvDGOVbHFGuxCTQ41FD) | [Méne](https://open.spotify.com/artist/5r3DSRaJz8ckIw4XPH9Whd) | [La Máquina Persona](https://open.spotify.com/album/4CKMDfvdrGb71J8GoUqDPP) | 5:22 |
 | 50 | [SUEÑO](https://open.spotify.com/track/6borsWdJkZd2lOomwzuL9v) | [Manu Beker](https://open.spotify.com/artist/2MrcyIp9eo5ksKDkyeX6KH), [YOSHI](https://open.spotify.com/artist/399j7KzhXlNysKZvb55lxd) | [SUEÑO](https://open.spotify.com/album/6kkHbDHAwpYXYdCMbdaryY) | 3:00 |
 
-Snapshot ID: `MCxiNWEyZWM3MTY3ZmRlY2M5MzlhN2I4NTJiMGVlYTVkZmRkNzFlODk3`
+Snapshot ID: `MCxmNThlNGMyYzJmOWJjMTNlOTY3MjcwYjJkNzRiOTA1YzlhNzEzMjc5`

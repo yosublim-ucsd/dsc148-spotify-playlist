@@ -586,7 +586,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-03",
       "duration_ms": 154306,
       "name": "Christmas Time All Over the World",
       "url": "https://open.spotify.com/track/2KTDECCXQYjGftNlpsCkya"
@@ -2088,6 +2088,24 @@
       "duration_ms": 141621,
       "name": "Santa Claus Is Coming To Town",
       "url": "https://open.spotify.com/track/1FP675TZfSRXvc6sS9X91z"
+    },
+    {
+      "album": {
+        "name": "Santa, Won't You Listen to Me",
+        "url": "https://open.spotify.com/album/6mO4bLwn1GZAmE1hnlt2dk"
+      },
+      "artists": [
+        {
+          "name": "Kyle Cox",
+          "url": "https://open.spotify.com/artist/0GHk0KwPVlIjFyhAbPNNI9"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173915,
+      "name": "Santa, Won't You Listen to Me",
+      "url": "https://open.spotify.com/track/0Lh2f4LMyeA9NFLpcLoBnd"
     },
     {
       "album": {

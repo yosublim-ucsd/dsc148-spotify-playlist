@@ -1,12 +1,12 @@
 {
   "description": "\u65b0\u9032\u6c17\u92ed\u306e\u90a6\u30ed\u30c3\u30af\u30b5\u30a6\u30f3\u30c9\u3092\u3072\u3068\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002Cover: \u30de\u30eb\u30b7\u30a3",
-  "num_followers": 10754,
+  "num_followers": 10755,
   "original_name": "\u9752\u6625\u3068\u4e00\u77ac",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NjA5YTBkNWZlNTc4YTJhOThjMGRkYjZkMjZiYWNiZDFkOTRmNzJk",
+  "snapshot_id": "MCxmZjk3MjY0OWM2ODQ1NDY1ZDE4YzFkMjEyYWYxMDFiYWFhYmJlMmE2",
   "tracks": [
     {
       "added_at": "2023-11-30 16:35:04",
@@ -75,8 +75,8 @@
     {
       "added_at": "2023-11-30 16:35:04",
       "album": {
-        "name": "Mix",
-        "url": "https://open.spotify.com/album/00p5rwTYsV62tV3RXRYZAO"
+        "name": "Candle",
+        "url": "https://open.spotify.com/album/1Dy7aa6yDhK1X0RdrVnHhq"
       },
       "artists": [
         {
@@ -84,9 +84,9 @@
           "url": "https://open.spotify.com/artist/7oQ6zxSp4eQjvVkk9rGIDV"
         }
       ],
-      "duration_ms": 209333,
+      "duration_ms": 210920,
       "name": "Mix",
-      "url": "https://open.spotify.com/track/0ObVtzwc7YEuMjDQSTQyCW"
+      "url": "https://open.spotify.com/track/4VroMacNKHZjmi2OruZzmO"
     },
     {
       "added_at": "2023-11-30 16:35:04",
@@ -975,22 +975,6 @@
     {
       "added_at": "2023-11-30 16:35:04",
       "album": {
-        "name": "\u304e\u3085\u3063\u3068\u3057\u3066\u3001",
-        "url": "https://open.spotify.com/album/4LzD5Xdc0hq088OeuA0JCH"
-      },
-      "artists": [
-        {
-          "name": "YUTORI-SEDAI",
-          "url": "https://open.spotify.com/artist/74ZODUscO84OjAiQwj4V9G"
-        }
-      ],
-      "duration_ms": 201140,
-      "name": "\u304e\u3085\u3063\u3068\u3057\u3066\u3001",
-      "url": "https://open.spotify.com/track/7EgrXPzuIqfr4a3soz8Dwk"
-    },
-    {
-      "added_at": "2023-11-30 16:35:04",
-      "album": {
         "name": "Lazy Sunday",
         "url": "https://open.spotify.com/album/2EqGqT6xIeNpaJJe5yjFr3"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 234323,
       "name": "Cinderella Boy",
       "url": "https://open.spotify.com/track/4UALTBWz0OdQcjbTsjFceV"
+    },
+    {
+      "added_at": "2023-11-30 16:35:04",
+      "album": {
+        "name": "\u304e\u3085\u3063\u3068\u3057\u3066\u3001",
+        "url": "https://open.spotify.com/album/4LzD5Xdc0hq088OeuA0JCH"
+      },
+      "artists": [
+        {
+          "name": "YUTORI-SEDAI",
+          "url": "https://open.spotify.com/artist/74ZODUscO84OjAiQwj4V9G"
+        }
+      ],
+      "duration_ms": 201140,
+      "name": "\u304e\u3085\u3063\u3068\u3057\u3066\u3001",
+      "url": "https://open.spotify.com/track/7EgrXPzuIqfr4a3soz8Dwk"
     },
     {
       "added_at": "2023-11-30 16:35:04",
@@ -1119,18 +1119,18 @@
     {
       "added_at": "2023-11-30 16:35:04",
       "album": {
-        "name": "\u30b5\u30f3\u30c7\u30a4\u30e2\u30fc\u30cb\u30f3\u30b0",
-        "url": "https://open.spotify.com/album/55ojVYLlcXJnGXDOvWeELv"
+        "name": "DAILY BOP",
+        "url": "https://open.spotify.com/album/1YOYK7r5fpf5dRJDr2KdOU"
       },
       "artists": [
         {
-          "name": "neguse.",
-          "url": "https://open.spotify.com/artist/7jiFTNRWSw8zYgUj9wNJld"
+          "name": "Lucky Kilimanjaro",
+          "url": "https://open.spotify.com/artist/2V8UZPMR1EbkXhzvEGBTrV"
         }
       ],
-      "duration_ms": 206575,
-      "name": "\u30b5\u30f3\u30c7\u30a4\u30e2\u30fc\u30cb\u30f3\u30b0",
-      "url": "https://open.spotify.com/track/7EKHpb7x9utoOKVzz8aZw3"
+      "duration_ms": 145384,
+      "name": "\u30a8\u30e2\u3081\u306e\u590f",
+      "url": "https://open.spotify.com/track/2o2yCUIo6XUIIselWfjKw3"
     },
     {
       "added_at": "2023-11-30 16:35:04",
@@ -1151,18 +1151,18 @@
     {
       "added_at": "2023-11-30 16:35:04",
       "album": {
-        "name": "DAILY BOP",
-        "url": "https://open.spotify.com/album/1YOYK7r5fpf5dRJDr2KdOU"
+        "name": "\u30b5\u30f3\u30c7\u30a4\u30e2\u30fc\u30cb\u30f3\u30b0",
+        "url": "https://open.spotify.com/album/55ojVYLlcXJnGXDOvWeELv"
       },
       "artists": [
         {
-          "name": "Lucky Kilimanjaro",
-          "url": "https://open.spotify.com/artist/2V8UZPMR1EbkXhzvEGBTrV"
+          "name": "neguse.",
+          "url": "https://open.spotify.com/artist/7jiFTNRWSw8zYgUj9wNJld"
         }
       ],
-      "duration_ms": 145384,
-      "name": "\u30a8\u30e2\u3081\u306e\u590f",
-      "url": "https://open.spotify.com/track/2o2yCUIo6XUIIselWfjKw3"
+      "duration_ms": 206575,
+      "name": "\u30b5\u30f3\u30c7\u30a4\u30e2\u30fc\u30cb\u30f3\u30b0",
+      "url": "https://open.spotify.com/track/7EKHpb7x9utoOKVzz8aZw3"
     },
     {
       "added_at": "2023-11-30 16:35:04",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2023-11-30 16:35:04",
       "album": {
-        "name": "\u50d5\u3089\u306f\u305d\u308c\u3092\u611b\u3068\u547c\u3093\u3060",
-        "url": "https://open.spotify.com/album/6DyaCGI2tKENbFVyTziRcs"
-      },
-      "artists": [
-        {
-          "name": "\u3042\u305f\u3089\u3088",
-          "url": "https://open.spotify.com/artist/2yRnjWtHzmDELwYaUiX0Yh"
-        }
-      ],
-      "duration_ms": 322100,
-      "name": "\u50d5\u3089\u306f\u305d\u308c\u3092\u611b\u3068\u547c\u3093\u3060",
-      "url": "https://open.spotify.com/track/1m4yMmtlUxlmmT4gEzjGSh"
-    },
-    {
-      "added_at": "2023-11-30 16:35:04",
-      "album": {
         "name": "\u541b\u3068\u7656",
         "url": "https://open.spotify.com/album/425Y4ywoE1Ab2GNCXWEjU7"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 238429,
       "name": "\u541b\u3068\u7656",
       "url": "https://open.spotify.com/track/4bpZMZWxnYc9zDejhHgjbN"
+    },
+    {
+      "added_at": "2023-11-30 16:35:04",
+      "album": {
+        "name": "\u50d5\u3089\u306f\u305d\u308c\u3092\u611b\u3068\u547c\u3093\u3060",
+        "url": "https://open.spotify.com/album/6DyaCGI2tKENbFVyTziRcs"
+      },
+      "artists": [
+        {
+          "name": "\u3042\u305f\u3089\u3088",
+          "url": "https://open.spotify.com/artist/2yRnjWtHzmDELwYaUiX0Yh"
+        }
+      ],
+      "duration_ms": 322100,
+      "name": "\u50d5\u3089\u306f\u305d\u308c\u3092\u611b\u3068\u547c\u3093\u3060",
+      "url": "https://open.spotify.com/track/1m4yMmtlUxlmmT4gEzjGSh"
     },
     {
       "added_at": "2023-11-30 16:35:04",
@@ -1455,18 +1455,18 @@
     {
       "added_at": "2023-11-30 16:35:04",
       "album": {
-        "name": "Departure : My New Me",
-        "url": "https://open.spotify.com/album/6NFXKfWoqQFS1O22Pkvop0"
+        "name": "\u6708\u304c\u7dba\u9e97\u3060\u3063\u3066",
+        "url": "https://open.spotify.com/album/1mlgrd63GCXnZyaTrXA2Hj"
       },
       "artists": [
         {
-          "name": "FIVE NEW OLD",
-          "url": "https://open.spotify.com/artist/71wVBrMErg4ng9lxc1ajZo"
+          "name": "berry meet",
+          "url": "https://open.spotify.com/artist/59LkGYlqNpJJislvdaOi7m"
         }
       ],
-      "duration_ms": 170294,
-      "name": "Happy Sad",
-      "url": "https://open.spotify.com/track/232oLu8Rkz7YBt0oUcfy7i"
+      "duration_ms": 268235,
+      "name": "\u6708\u304c\u7dba\u9e97\u3060\u3063\u3066",
+      "url": "https://open.spotify.com/track/7gALnxrfC3lMPhRJJUQPL8"
     },
     {
       "added_at": "2023-11-30 16:35:04",
@@ -1487,50 +1487,18 @@
     {
       "added_at": "2023-11-30 16:35:04",
       "album": {
-        "name": "WARUNORI",
-        "url": "https://open.spotify.com/album/2h7FVDXr3xmV11yyNImqRz"
+        "name": "Departure : My New Me",
+        "url": "https://open.spotify.com/album/6NFXKfWoqQFS1O22Pkvop0"
       },
       "artists": [
         {
-          "name": "DURDN",
-          "url": "https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg"
+          "name": "FIVE NEW OLD",
+          "url": "https://open.spotify.com/artist/71wVBrMErg4ng9lxc1ajZo"
         }
       ],
-      "duration_ms": 259956,
-      "name": "WARUNORI",
-      "url": "https://open.spotify.com/track/2D1NcVffFzsLqNFbz5Xdkx"
-    },
-    {
-      "added_at": "2023-11-30 16:35:04",
-      "album": {
-        "name": "\u5b63\u5104\u306e\u7bb1",
-        "url": "https://open.spotify.com/album/5vBcyTeKwu2h7JBdkjhURs"
-      },
-      "artists": [
-        {
-          "name": "\u3042\u305f\u3089\u3088",
-          "url": "https://open.spotify.com/artist/2yRnjWtHzmDELwYaUiX0Yh"
-        }
-      ],
-      "duration_ms": 239067,
-      "name": "\u590f\u304c\u6765\u308b\u305f\u3073",
-      "url": "https://open.spotify.com/track/55ItTj78No5IMK6yR9grGj"
-    },
-    {
-      "added_at": "2023-11-30 16:35:04",
-      "album": {
-        "name": "Sweet sweet candy time",
-        "url": "https://open.spotify.com/album/57YQjhQNWCkmpt0OTUG9d6"
-      },
-      "artists": [
-        {
-          "name": "Mr.FanTastiC",
-          "url": "https://open.spotify.com/artist/42Z74v9b8xkEsOe6zkhsdA"
-        }
-      ],
-      "duration_ms": 321103,
-      "name": "Sweet sweet candy time",
-      "url": "https://open.spotify.com/track/7KIYIwWDNssdv7tsw90Z8V"
+      "duration_ms": 170294,
+      "name": "Happy Sad",
+      "url": "https://open.spotify.com/track/232oLu8Rkz7YBt0oUcfy7i"
     },
     {
       "added_at": "2023-11-30 16:35:04",
@@ -1551,6 +1519,54 @@
     {
       "added_at": "2023-11-30 16:35:04",
       "album": {
+        "name": "WARUNORI",
+        "url": "https://open.spotify.com/album/2h7FVDXr3xmV11yyNImqRz"
+      },
+      "artists": [
+        {
+          "name": "DURDN",
+          "url": "https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg"
+        }
+      ],
+      "duration_ms": 259956,
+      "name": "WARUNORI",
+      "url": "https://open.spotify.com/track/2D1NcVffFzsLqNFbz5Xdkx"
+    },
+    {
+      "added_at": "2023-11-30 16:35:04",
+      "album": {
+        "name": "Sweet sweet candy time",
+        "url": "https://open.spotify.com/album/57YQjhQNWCkmpt0OTUG9d6"
+      },
+      "artists": [
+        {
+          "name": "Mr.FanTastiC",
+          "url": "https://open.spotify.com/artist/42Z74v9b8xkEsOe6zkhsdA"
+        }
+      ],
+      "duration_ms": 321103,
+      "name": "Sweet sweet candy time",
+      "url": "https://open.spotify.com/track/7KIYIwWDNssdv7tsw90Z8V"
+    },
+    {
+      "added_at": "2023-11-30 16:35:04",
+      "album": {
+        "name": "\u5b63\u5104\u306e\u7bb1",
+        "url": "https://open.spotify.com/album/5vBcyTeKwu2h7JBdkjhURs"
+      },
+      "artists": [
+        {
+          "name": "\u3042\u305f\u3089\u3088",
+          "url": "https://open.spotify.com/artist/2yRnjWtHzmDELwYaUiX0Yh"
+        }
+      ],
+      "duration_ms": 239067,
+      "name": "\u590f\u304c\u6765\u308b\u305f\u3073",
+      "url": "https://open.spotify.com/track/55ItTj78No5IMK6yR9grGj"
+    },
+    {
+      "added_at": "2023-11-30 16:35:04",
+      "album": {
         "name": "Aoiharu",
         "url": "https://open.spotify.com/album/3iKkkzM6MXkAYSvYLWTVxN"
       },
@@ -1563,22 +1579,6 @@
       "duration_ms": 178473,
       "name": "Aoiharu",
       "url": "https://open.spotify.com/track/3VSNqUnc1KhmPmlZXsbN40"
-    },
-    {
-      "added_at": "2023-11-30 16:35:04",
-      "album": {
-        "name": "\u6708\u304c\u7dba\u9e97\u3060\u3063\u3066",
-        "url": "https://open.spotify.com/album/1mlgrd63GCXnZyaTrXA2Hj"
-      },
-      "artists": [
-        {
-          "name": "berry meet",
-          "url": "https://open.spotify.com/artist/59LkGYlqNpJJislvdaOi7m"
-        }
-      ],
-      "duration_ms": 268235,
-      "name": "\u6708\u304c\u7dba\u9e97\u3060\u3063\u3066",
-      "url": "https://open.spotify.com/track/7gALnxrfC3lMPhRJJUQPL8"
     },
     {
       "added_at": "2023-11-30 16:35:04",

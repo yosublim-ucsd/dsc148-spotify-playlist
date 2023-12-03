@@ -1,12 +1,12 @@
 {
   "description": "Lyrical, lo-fi, and lowlife raps. Cover: Mark Battles",
-  "num_followers": 1617799,
+  "num_followers": 1617767,
   "original_name": "Spilled Ink",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzOThjYzFiZjIwYzhjODVkYzllZjAyMmQxZmYzZGY1ZjU4MmJiNGNj",
+  "snapshot_id": "MCw1YWE2MjAyYjk1YTg2MDA4ZTVhN2E4ZWNiMDMxMzMzMjg3NzJkM2Vj",
   "tracks": [
     {
       "added_at": "2023-12-01 04:00:00",
@@ -499,6 +499,26 @@
     {
       "added_at": "2023-12-01 04:00:00",
       "album": {
+        "name": "The Patience",
+        "url": "https://open.spotify.com/album/1R7oXtXCQEI7GDujxImL87"
+      },
+      "artists": [
+        {
+          "name": "Mick Jenkins",
+          "url": "https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx"
+        },
+        {
+          "name": "JID",
+          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
+        }
+      ],
+      "duration_ms": 175750,
+      "name": "Smoke Break-Dance (feat. JID)",
+      "url": "https://open.spotify.com/track/3EcqaLV76JnvSQOInAmdXv"
+    },
+    {
+      "added_at": "2023-12-01 04:00:00",
+      "album": {
         "name": "RIP Human Art",
         "url": "https://open.spotify.com/album/1RDjmGZKjYCMTCTzUBSIVf"
       },
@@ -559,46 +579,30 @@
     {
       "added_at": "2023-12-01 04:00:00",
       "album": {
-        "name": "The Patience",
-        "url": "https://open.spotify.com/album/1R7oXtXCQEI7GDujxImL87"
+        "name": "No Yeast (Remix) [feat. Boldy James & Westside Gunn]",
+        "url": "https://open.spotify.com/album/1cTjjDQu00jgCLmSQLNF4G"
       },
       "artists": [
         {
-          "name": "Mick Jenkins",
-          "url": "https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx"
-        },
-        {
-          "name": "JID",
-          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
-        }
-      ],
-      "duration_ms": 175750,
-      "name": "Smoke Break-Dance (feat. JID)",
-      "url": "https://open.spotify.com/track/3EcqaLV76JnvSQOInAmdXv"
-    },
-    {
-      "added_at": "2023-12-01 04:00:00",
-      "album": {
-        "name": "The Caliphate (feat. Vince Staples)",
-        "url": "https://open.spotify.com/album/3MIxWOJ1dM0H5mO4p6OXGD"
-      },
-      "artists": [
-        {
-          "name": "Earl Sweatshirt",
-          "url": "https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu"
+          "name": "Curren$y",
+          "url": "https://open.spotify.com/artist/6X8WdFjrNhXATMDSs26aCc"
         },
         {
           "name": "The Alchemist",
           "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
         },
         {
-          "name": "Vince Staples",
-          "url": "https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm"
+          "name": "Boldy James",
+          "url": "https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY"
+        },
+        {
+          "name": "Westside Gunn",
+          "url": "https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW"
         }
       ],
-      "duration_ms": 230720,
-      "name": "The Caliphate (feat. Vince Staples)",
-      "url": "https://open.spotify.com/track/5zdaRJpmbs5lUHCOKn3K6e"
+      "duration_ms": 227240,
+      "name": "No Yeast (feat. Boldy James & Westside Gunn) - Remix",
+      "url": "https://open.spotify.com/track/3g94P2bRVtVe1GqJnYOoV1"
     },
     {
       "added_at": "2023-12-01 04:00:00",
@@ -639,34 +643,6 @@
     {
       "added_at": "2023-12-01 04:00:00",
       "album": {
-        "name": "No Yeast (Remix) [feat. Boldy James & Westside Gunn]",
-        "url": "https://open.spotify.com/album/1cTjjDQu00jgCLmSQLNF4G"
-      },
-      "artists": [
-        {
-          "name": "Curren$y",
-          "url": "https://open.spotify.com/artist/6X8WdFjrNhXATMDSs26aCc"
-        },
-        {
-          "name": "The Alchemist",
-          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
-        },
-        {
-          "name": "Boldy James",
-          "url": "https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY"
-        },
-        {
-          "name": "Westside Gunn",
-          "url": "https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW"
-        }
-      ],
-      "duration_ms": 227240,
-      "name": "No Yeast (feat. Boldy James & Westside Gunn) - Remix",
-      "url": "https://open.spotify.com/track/3g94P2bRVtVe1GqJnYOoV1"
-    },
-    {
-      "added_at": "2023-12-01 04:00:00",
-      "album": {
         "name": "Sundial",
         "url": "https://open.spotify.com/album/1RThtoZbeE7OQHMBzaBCJt"
       },
@@ -679,6 +655,30 @@
       "duration_ms": 137197,
       "name": "black mirror",
       "url": "https://open.spotify.com/track/0oJO0gr6eOZJmLQcSD4Ekw"
+    },
+    {
+      "added_at": "2023-12-01 04:00:00",
+      "album": {
+        "name": "The Caliphate (feat. Vince Staples)",
+        "url": "https://open.spotify.com/album/3MIxWOJ1dM0H5mO4p6OXGD"
+      },
+      "artists": [
+        {
+          "name": "Earl Sweatshirt",
+          "url": "https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu"
+        },
+        {
+          "name": "The Alchemist",
+          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
+        },
+        {
+          "name": "Vince Staples",
+          "url": "https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm"
+        }
+      ],
+      "duration_ms": 230720,
+      "name": "The Caliphate (feat. Vince Staples)",
+      "url": "https://open.spotify.com/track/5zdaRJpmbs5lUHCOKn3K6e"
     },
     {
       "added_at": "2023-12-01 04:00:00",
@@ -755,6 +755,30 @@
       "duration_ms": 155179,
       "name": "Asteroids",
       "url": "https://open.spotify.com/track/7vTTOzp0E9D04XJVdt5qP5"
+    },
+    {
+      "added_at": "2023-12-01 04:00:00",
+      "album": {
+        "name": "Sundial",
+        "url": "https://open.spotify.com/album/1RThtoZbeE7OQHMBzaBCJt"
+      },
+      "artists": [
+        {
+          "name": "Noname",
+          "url": "https://open.spotify.com/artist/1EpyA68dKpjf7jXmQL88Hy"
+        },
+        {
+          "name": "Jay Electronica",
+          "url": "https://open.spotify.com/artist/0TkqXdyWLsssJH7okthMPQ"
+        },
+        {
+          "name": "Eryn Allen Kane",
+          "url": "https://open.spotify.com/artist/5xI4mPixKfrCCspATqbpy3"
+        }
+      ],
+      "duration_ms": 224586,
+      "name": "balloons (feat. Jay Electronica & Eryn Allen Kane)",
+      "url": "https://open.spotify.com/track/31To8W4ERzjzq1Jx5XWSMb"
     },
     {
       "added_at": "2023-12-01 04:00:00",
@@ -839,30 +863,6 @@
     {
       "added_at": "2023-12-01 04:00:00",
       "album": {
-        "name": "Sundial",
-        "url": "https://open.spotify.com/album/1RThtoZbeE7OQHMBzaBCJt"
-      },
-      "artists": [
-        {
-          "name": "Noname",
-          "url": "https://open.spotify.com/artist/1EpyA68dKpjf7jXmQL88Hy"
-        },
-        {
-          "name": "Jay Electronica",
-          "url": "https://open.spotify.com/artist/0TkqXdyWLsssJH7okthMPQ"
-        },
-        {
-          "name": "Eryn Allen Kane",
-          "url": "https://open.spotify.com/artist/5xI4mPixKfrCCspATqbpy3"
-        }
-      ],
-      "duration_ms": 224586,
-      "name": "balloons (feat. Jay Electronica & Eryn Allen Kane)",
-      "url": "https://open.spotify.com/track/31To8W4ERzjzq1Jx5XWSMb"
-    },
-    {
-      "added_at": "2023-12-01 04:00:00",
-      "album": {
         "name": "Soul Assassins 3: Death Valley",
         "url": "https://open.spotify.com/album/2mdiBHkwcyU6EBnhLtStoD"
       },
@@ -935,18 +935,18 @@
     {
       "added_at": "2023-12-01 04:00:00",
       "album": {
-        "name": "MICHAEL (Deluxe)",
-        "url": "https://open.spotify.com/album/5dhb5ZpYSm2gH8OCxAKTn1"
+        "name": "Sundial",
+        "url": "https://open.spotify.com/album/1RThtoZbeE7OQHMBzaBCJt"
       },
       "artists": [
         {
-          "name": "Killer Mike",
-          "url": "https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI"
+          "name": "Noname",
+          "url": "https://open.spotify.com/artist/1EpyA68dKpjf7jXmQL88Hy"
         }
       ],
-      "duration_ms": 177814,
-      "name": "YES!",
-      "url": "https://open.spotify.com/track/577J3qiLUuwmdz6r2GdgJM"
+      "duration_ms": 193973,
+      "name": "beauty supply",
+      "url": "https://open.spotify.com/track/4oevXziJVFARkGMty2HdFF"
     },
     {
       "added_at": "2023-12-01 04:00:00",
@@ -975,6 +975,22 @@
     {
       "added_at": "2023-12-01 04:00:00",
       "album": {
+        "name": "MICHAEL (Deluxe)",
+        "url": "https://open.spotify.com/album/5dhb5ZpYSm2gH8OCxAKTn1"
+      },
+      "artists": [
+        {
+          "name": "Killer Mike",
+          "url": "https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI"
+        }
+      ],
+      "duration_ms": 177814,
+      "name": "YES!",
+      "url": "https://open.spotify.com/track/577J3qiLUuwmdz6r2GdgJM"
+    },
+    {
+      "added_at": "2023-12-01 04:00:00",
+      "album": {
         "name": "Passion",
         "url": "https://open.spotify.com/album/3AFkefqinn7Jz7DuvuvLoe"
       },
@@ -991,34 +1007,22 @@
     {
       "added_at": "2023-12-01 04:00:00",
       "album": {
-        "name": "SUNDAY DINNER",
-        "url": "https://open.spotify.com/album/43C9qcFuylC5QjGspwpqTl"
+        "name": "Dead Men (feat. Cozz)",
+        "url": "https://open.spotify.com/album/5kwKgot9Kn11YSbiuWJr7O"
       },
       "artists": [
         {
-          "name": "Nick Grant",
-          "url": "https://open.spotify.com/artist/2QOP6zKx1d0gGEtuuXOvJ3"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "TWO SIDES",
-      "url": "https://open.spotify.com/track/50bZ9l5bg1jgoglj6qgy8J"
-    },
-    {
-      "added_at": "2023-12-01 04:00:00",
-      "album": {
-        "name": "Magic 2",
-        "url": "https://open.spotify.com/album/2TcGsG6Ht4iMbEQ0u62Rbz"
-      },
-      "artists": [
+          "name": "408 Darwin",
+          "url": "https://open.spotify.com/artist/7GmjP8u0uwwAwBt3e3tmdS"
+        },
         {
-          "name": "Nas",
-          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
+          "name": "Cozz",
+          "url": "https://open.spotify.com/artist/5oFkj1qSlyBUmV5d6Edgtq"
         }
       ],
-      "duration_ms": 210624,
-      "name": "Slow it Down",
-      "url": "https://open.spotify.com/track/2oOMMKZV7SmCLdjALkOgkA"
+      "duration_ms": 171989,
+      "name": "Dead Men (feat. Cozz)",
+      "url": "https://open.spotify.com/track/6yy0W5bgERNnQ5diS20fdT"
     }
   ],
   "unique_name": "Spilled Ink",

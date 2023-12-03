@@ -5684,7 +5684,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-03",
       "duration_ms": 167845,
       "name": "If It's Time",
       "url": "https://open.spotify.com/track/6tl3V3Br8AFYE6q9khDdR6"
@@ -6044,6 +6044,24 @@
       "duration_ms": 195692,
       "name": "juice",
       "url": "https://open.spotify.com/track/0W1jDXkALMfPqheeSEEk5x"
+    },
+    {
+      "album": {
+        "name": "to love in the 21st century: the epilogue",
+        "url": "https://open.spotify.com/album/5gJGE4rjt0FgauKwsrak11"
+      },
+      "artists": [
+        {
+          "name": "Lyn Lapid",
+          "url": "https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165026,
+      "name": "july",
+      "url": "https://open.spotify.com/track/69hJjlCCD9ZbeSTYl6id04"
     },
     {
       "album": {
@@ -8946,7 +8964,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-03",
       "duration_ms": 234420,
       "name": "Realized",
       "url": "https://open.spotify.com/track/7Fj4rj1zxtabjjydlUNXll"
@@ -11000,7 +11018,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-22",
+      "date_removed": null,
       "duration_ms": 227927,
       "name": "the american dream",
       "url": "https://open.spotify.com/track/0eqRXQyzoNrwnDEvcQyXSR"

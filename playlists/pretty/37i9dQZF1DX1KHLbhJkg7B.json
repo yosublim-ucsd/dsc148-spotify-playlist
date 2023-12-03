@@ -1,12 +1,12 @@
 {
   "description": "Unique versions of hit songs by other artists. Cover: Dolly Parton and Lainey Wilson",
-  "num_followers": 101569,
+  "num_followers": 101642,
   "original_name": "Country Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1YTA0MjgyZTM5OGJiNTc0OGM3ZTRhNzkzZjdjNTBjOTIwODVhYmM0",
+  "snapshot_id": "MCxjMjU3MjgxODk1YjI3NmE2YWE2ZGUxZTVhM2M5MmY3YmE5ZWJjN2E1",
   "tracks": [
     {
       "added_at": "2023-12-01 05:00:00",
@@ -1631,6 +1631,26 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
+        "name": "Love Is Alive",
+        "url": "https://open.spotify.com/album/5osk5V7uL3lQzejyvan1Bt"
+      },
+      "artists": [
+        {
+          "name": "Gwen Stefani",
+          "url": "https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP"
+        },
+        {
+          "name": "Blake Shelton",
+          "url": "https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw"
+        }
+      ],
+      "duration_ms": 232056,
+      "name": "Love Is Alive",
+      "url": "https://open.spotify.com/track/623qVmC3LmsRQeFk3jlkLc"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
         "name": "He Got the Best of Me",
         "url": "https://open.spotify.com/album/2nIckz63cXWEYkWd9SWPAO"
       },
@@ -1663,26 +1683,6 @@
       "duration_ms": 269382,
       "name": "Night Life - (Hot Country Artists to Watch) - Spotify Singles",
       "url": "https://open.spotify.com/track/6dJlulD7mTkgGyFnKTLM3N"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
-        "name": "Love Is Alive",
-        "url": "https://open.spotify.com/album/5osk5V7uL3lQzejyvan1Bt"
-      },
-      "artists": [
-        {
-          "name": "Gwen Stefani",
-          "url": "https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP"
-        },
-        {
-          "name": "Blake Shelton",
-          "url": "https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw"
-        }
-      ],
-      "duration_ms": 232056,
-      "name": "Love Is Alive",
-      "url": "https://open.spotify.com/track/623qVmC3LmsRQeFk3jlkLc"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -1723,22 +1723,6 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "I Don't Want To Miss A Thing",
-        "url": "https://open.spotify.com/album/4I8szVY9j0NJAOz7tmnZVy"
-      },
-      "artists": [
-        {
-          "name": "Mark Chesnutt",
-          "url": "https://open.spotify.com/artist/2cNV8vNe2fPFf6OfGOBbSS"
-        }
-      ],
-      "duration_ms": 246226,
-      "name": "I Don't Want To Miss A Thing",
-      "url": "https://open.spotify.com/track/3FN7JMZaaQ9lSzIaan0YZ1"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
         "name": "Palace (Cover) / Diane",
         "url": "https://open.spotify.com/album/3xEQ2CukZ34BtuhITSjMNS"
       },
@@ -1755,18 +1739,34 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "Acoustic Covers (Deluxe)",
-        "url": "https://open.spotify.com/album/2tSbrXGTWwgkNnXD6LCABm"
+        "name": "I Don't Want To Miss A Thing",
+        "url": "https://open.spotify.com/album/4I8szVY9j0NJAOz7tmnZVy"
       },
       "artists": [
         {
-          "name": "Warren Zeiders",
-          "url": "https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi"
+          "name": "Mark Chesnutt",
+          "url": "https://open.spotify.com/artist/2cNV8vNe2fPFf6OfGOBbSS"
         }
       ],
-      "duration_ms": 271771,
-      "name": "Simple Man",
-      "url": "https://open.spotify.com/track/57bSzHwlhpD6N6vS81P0DV"
+      "duration_ms": 246226,
+      "name": "I Don't Want To Miss A Thing",
+      "url": "https://open.spotify.com/track/3FN7JMZaaQ9lSzIaan0YZ1"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/6FScslXq5fezJiaKFRwBlQ"
+      },
+      "artists": [
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        }
+      ],
+      "duration_ms": 233973,
+      "name": "Rock and Roll, Hoochie Koo - Spotify Singles",
+      "url": "https://open.spotify.com/track/4h9GMqQ7bG7XbsC5kdXzNw"
     }
   ],
   "unique_name": "Country Covers",

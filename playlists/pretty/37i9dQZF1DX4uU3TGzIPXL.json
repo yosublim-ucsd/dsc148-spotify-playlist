@@ -1,12 +1,12 @@
 {
   "description": "The songs of the 1990s that will make you dance all summer long!",
-  "num_followers": 553537,
+  "num_followers": 553603,
   "original_name": "Summer Hits of the 90s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwYmZhNTY3MWY5ZDg4ODE4N2Y2ODdmNjg3ZTZmZWI0MTExOWRhZDIy",
+  "snapshot_id": "MCw1MzE3ZjBjOGM2MDM0YTEzNzc0YzAxNDdhNGJiZWRjMGJlNTg1M2U0",
   "tracks": [
     {
       "added_at": "2023-06-16 18:37:43",
@@ -255,6 +255,22 @@
     {
       "added_at": "2023-06-16 18:37:43",
       "album": {
+        "name": "The Writing's On The Wall",
+        "url": "https://open.spotify.com/album/283NWqNsCA9GwVHrJk59CG"
+      },
+      "artists": [
+        {
+          "name": "Destiny's Child",
+          "url": "https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i"
+        }
+      ],
+      "duration_ms": 271333,
+      "name": "Say My Name",
+      "url": "https://open.spotify.com/track/7H6ev70Weq6DdpZyyTmUXk"
+    },
+    {
+      "added_at": "2023-06-16 18:37:43",
+      "album": {
         "name": "Come Into My Life (The Album)",
         "url": "https://open.spotify.com/album/3vcwGUl0WiJVssOR1dXEbe"
       },
@@ -275,22 +291,6 @@
       "duration_ms": 213394,
       "name": "Freed From Desire - prod. Molella, Phil Jay",
       "url": "https://open.spotify.com/track/3u5N55tHf7hXATSQrjBh2q"
-    },
-    {
-      "added_at": "2023-06-16 18:37:43",
-      "album": {
-        "name": "The Writing's On The Wall",
-        "url": "https://open.spotify.com/album/283NWqNsCA9GwVHrJk59CG"
-      },
-      "artists": [
-        {
-          "name": "Destiny's Child",
-          "url": "https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i"
-        }
-      ],
-      "duration_ms": 271333,
-      "name": "Say My Name",
-      "url": "https://open.spotify.com/track/7H6ev70Weq6DdpZyyTmUXk"
     },
     {
       "added_at": "2023-06-16 18:37:43",
@@ -319,22 +319,6 @@
     {
       "added_at": "2023-06-16 18:37:43",
       "album": {
-        "name": "Aquarium (Special Edition)",
-        "url": "https://open.spotify.com/album/3hHmYc6mrl6NkmRW1ZwYvm"
-      },
-      "artists": [
-        {
-          "name": "Aqua",
-          "url": "https://open.spotify.com/artist/6kBjAFKyd0he7LiA5GQ3Gz"
-        }
-      ],
-      "duration_ms": 197960,
-      "name": "Barbie Girl",
-      "url": "https://open.spotify.com/track/5ZrDlcxIDZyjOzHdYW1ydr"
-    },
-    {
-      "added_at": "2023-06-16 18:37:43",
-      "album": {
         "name": "Sublime",
         "url": "https://open.spotify.com/album/14eK347GdWO4mBBx78tsut"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 182746,
       "name": "Santeria",
       "url": "https://open.spotify.com/track/2hnMS47jN0etwvFPzYk11f"
+    },
+    {
+      "added_at": "2023-06-16 18:37:43",
+      "album": {
+        "name": "Aquarium (Special Edition)",
+        "url": "https://open.spotify.com/album/3hHmYc6mrl6NkmRW1ZwYvm"
+      },
+      "artists": [
+        {
+          "name": "Aqua",
+          "url": "https://open.spotify.com/artist/6kBjAFKyd0he7LiA5GQ3Gz"
+        }
+      ],
+      "duration_ms": 197960,
+      "name": "Barbie Girl",
+      "url": "https://open.spotify.com/track/5ZrDlcxIDZyjOzHdYW1ydr"
     },
     {
       "added_at": "2023-06-16 18:37:43",
@@ -563,22 +563,6 @@
     {
       "added_at": "2023-06-16 18:37:43",
       "album": {
-        "name": "The Party Album!",
-        "url": "https://open.spotify.com/album/2hy9sLDt7IVAvJRGVdzZnx"
-      },
-      "artists": [
-        {
-          "name": "Vengaboys",
-          "url": "https://open.spotify.com/artist/0cwmNvclzPd8mQnoHuIksj"
-        }
-      ],
-      "duration_ms": 202583,
-      "name": "Boom, Boom, Boom, Boom!!",
-      "url": "https://open.spotify.com/track/5N6M8yDiMV32T6Rkzh8EbW"
-    },
-    {
-      "added_at": "2023-06-16 18:37:43",
-      "album": {
         "name": "Third Eye Blind",
         "url": "https://open.spotify.com/album/2gToC0XAblE9h3UZD6aAaQ"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 268360,
       "name": "Semi-Charmed Life",
       "url": "https://open.spotify.com/track/42et6fnHCw1HIPSrdPprMl"
+    },
+    {
+      "added_at": "2023-06-16 18:37:43",
+      "album": {
+        "name": "The Party Album!",
+        "url": "https://open.spotify.com/album/2hy9sLDt7IVAvJRGVdzZnx"
+      },
+      "artists": [
+        {
+          "name": "Vengaboys",
+          "url": "https://open.spotify.com/artist/0cwmNvclzPd8mQnoHuIksj"
+        }
+      ],
+      "duration_ms": 202583,
+      "name": "Boom, Boom, Boom, Boom!!",
+      "url": "https://open.spotify.com/track/5N6M8yDiMV32T6Rkzh8EbW"
     },
     {
       "added_at": "2023-06-16 18:37:43",
@@ -815,22 +815,6 @@
     {
       "added_at": "2023-06-16 18:37:43",
       "album": {
-        "name": "Scatman's World",
-        "url": "https://open.spotify.com/album/2MRWFajfjxfLAF3wwmdv5j"
-      },
-      "artists": [
-        {
-          "name": "Scatman John",
-          "url": "https://open.spotify.com/artist/4omQQTNN7ILiMsSB2k9eqX"
-        }
-      ],
-      "duration_ms": 215973,
-      "name": "Scatman (ski-ba-bop-ba-dop-bop)",
-      "url": "https://open.spotify.com/track/623rRTKwGmgjH6sjE9uWLh"
-    },
-    {
-      "added_at": "2023-06-16 18:37:43",
-      "album": {
         "name": "I Should Coco",
         "url": "https://open.spotify.com/album/4XeQWsW3K9qjfv5FP9Jtcv"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 180880,
       "name": "Alright",
       "url": "https://open.spotify.com/track/5CQvKyzkWI7TnUu2oB9QZ0"
+    },
+    {
+      "added_at": "2023-06-16 18:37:43",
+      "album": {
+        "name": "Scatman's World",
+        "url": "https://open.spotify.com/album/2MRWFajfjxfLAF3wwmdv5j"
+      },
+      "artists": [
+        {
+          "name": "Scatman John",
+          "url": "https://open.spotify.com/artist/4omQQTNN7ILiMsSB2k9eqX"
+        }
+      ],
+      "duration_ms": 215973,
+      "name": "Scatman (ski-ba-bop-ba-dop-bop)",
+      "url": "https://open.spotify.com/track/623rRTKwGmgjH6sjE9uWLh"
     },
     {
       "added_at": "2023-06-16 18:37:43",
@@ -895,22 +895,6 @@
     {
       "added_at": "2023-06-16 18:37:43",
       "album": {
-        "name": "Mack Daddy",
-        "url": "https://open.spotify.com/album/6c62jxWCe2aisIudaDRcaP"
-      },
-      "artists": [
-        {
-          "name": "Sir Mix-A-Lot",
-          "url": "https://open.spotify.com/artist/3TQ9JTBI2n2hfo7aRONEYV"
-        }
-      ],
-      "duration_ms": 262826,
-      "name": "Baby Got Back",
-      "url": "https://open.spotify.com/track/1SAkL1mYNJlaqnBQxVZrRl"
-    },
-    {
-      "added_at": "2023-06-16 18:37:43",
-      "album": {
         "name": "Children (Dance Vault Mixes)",
         "url": "https://open.spotify.com/album/5vwm8dEf7xGTqUAas8zGdC"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 243266,
       "name": "Children",
       "url": "https://open.spotify.com/track/4wtR6HB3XekEengMX17cpc"
+    },
+    {
+      "added_at": "2023-06-16 18:37:43",
+      "album": {
+        "name": "Mack Daddy",
+        "url": "https://open.spotify.com/album/6c62jxWCe2aisIudaDRcaP"
+      },
+      "artists": [
+        {
+          "name": "Sir Mix-A-Lot",
+          "url": "https://open.spotify.com/artist/3TQ9JTBI2n2hfo7aRONEYV"
+        }
+      ],
+      "duration_ms": 262826,
+      "name": "Baby Got Back",
+      "url": "https://open.spotify.com/track/1SAkL1mYNJlaqnBQxVZrRl"
     },
     {
       "added_at": "2023-06-16 18:37:43",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2023-06-16 18:37:43",
       "album": {
-        "name": "Jagged Little Pill (2015 Remaster)",
-        "url": "https://open.spotify.com/album/5Ap3F8CxjjsQKZGASDcHNA"
-      },
-      "artists": [
-        {
-          "name": "Alanis Morissette",
-          "url": "https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi"
-        }
-      ],
-      "duration_ms": 222013,
-      "name": "Hand in My Pocket - 2015 Remaster",
-      "url": "https://open.spotify.com/track/2lE7oRoKssULAtbWViL385"
-    },
-    {
-      "added_at": "2023-06-16 18:37:43",
-      "album": {
         "name": "Super Hits",
         "url": "https://open.spotify.com/album/7wlnHCWKkBXBWtYgpaCaz7"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 244093,
       "name": "Gonna Make You Sweat (Everybody Dance Now) (feat. Freedom Williams)",
       "url": "https://open.spotify.com/track/7eheoW4hxrH51ww2QePVwF"
+    },
+    {
+      "added_at": "2023-06-16 18:37:43",
+      "album": {
+        "name": "Jagged Little Pill (2015 Remaster)",
+        "url": "https://open.spotify.com/album/5Ap3F8CxjjsQKZGASDcHNA"
+      },
+      "artists": [
+        {
+          "name": "Alanis Morissette",
+          "url": "https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi"
+        }
+      ],
+      "duration_ms": 222013,
+      "name": "Hand in My Pocket - 2015 Remaster",
+      "url": "https://open.spotify.com/track/2lE7oRoKssULAtbWViL385"
     },
     {
       "added_at": "2023-06-16 18:37:43",
@@ -1127,18 +1127,18 @@
     {
       "added_at": "2023-06-16 18:37:43",
       "album": {
-        "name": "...Baby One More Time (Digital Deluxe Version)",
-        "url": "https://open.spotify.com/album/3WNxdumkSMGMJRhEgK80qx"
+        "name": "One Love",
+        "url": "https://open.spotify.com/album/3hJI8ryjrsmUULkOXtV1IU"
       },
       "artists": [
         {
-          "name": "Britney Spears",
-          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
+          "name": "Dr. Alban",
+          "url": "https://open.spotify.com/artist/6BkcAbUkfIBM4XudxieMq8"
         }
       ],
-      "duration_ms": 198066,
-      "name": "(You Drive Me) Crazy",
-      "url": "https://open.spotify.com/track/1DSJNBNhGZCigg9ll5VeZv"
+      "duration_ms": 239933,
+      "name": "It's My Life",
+      "url": "https://open.spotify.com/track/4TOGkYS141L15SkVosAp7Z"
     },
     {
       "added_at": "2023-06-16 18:37:43",
@@ -1175,18 +1175,18 @@
     {
       "added_at": "2023-06-16 18:37:43",
       "album": {
-        "name": "One Love",
-        "url": "https://open.spotify.com/album/3hJI8ryjrsmUULkOXtV1IU"
+        "name": "...Baby One More Time (Digital Deluxe Version)",
+        "url": "https://open.spotify.com/album/3WNxdumkSMGMJRhEgK80qx"
       },
       "artists": [
         {
-          "name": "Dr. Alban",
-          "url": "https://open.spotify.com/artist/6BkcAbUkfIBM4XudxieMq8"
+          "name": "Britney Spears",
+          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
         }
       ],
-      "duration_ms": 239933,
-      "name": "It's My Life",
-      "url": "https://open.spotify.com/track/4TOGkYS141L15SkVosAp7Z"
+      "duration_ms": 198066,
+      "name": "(You Drive Me) Crazy",
+      "url": "https://open.spotify.com/track/1DSJNBNhGZCigg9ll5VeZv"
     },
     {
       "added_at": "2023-06-16 18:37:43",
@@ -1335,6 +1335,22 @@
     {
       "added_at": "2023-06-16 18:37:43",
       "album": {
+        "name": "Sweet Dreams",
+        "url": "https://open.spotify.com/album/71RkrTSvnL2Ke6xvYIMoOy"
+      },
+      "artists": [
+        {
+          "name": "La Bouche",
+          "url": "https://open.spotify.com/artist/488v7rQzthLNK22r0UvMie"
+        }
+      ],
+      "duration_ms": 241133,
+      "name": "Be My Lover",
+      "url": "https://open.spotify.com/track/3YB6nCSuFqNiqOvPtAPK9X"
+    },
+    {
+      "added_at": "2023-06-16 18:37:43",
+      "album": {
         "name": "Big Willie Style",
         "url": "https://open.spotify.com/album/2esWeP8Ln1sXA0jbDmi3Zq"
       },
@@ -1363,22 +1379,6 @@
       "duration_ms": 239226,
       "name": "Save Tonight",
       "url": "https://open.spotify.com/track/1t2Hq2WIBcZINOEnK6mdJG"
-    },
-    {
-      "added_at": "2023-06-16 18:37:43",
-      "album": {
-        "name": "Sweet Dreams",
-        "url": "https://open.spotify.com/album/71RkrTSvnL2Ke6xvYIMoOy"
-      },
-      "artists": [
-        {
-          "name": "La Bouche",
-          "url": "https://open.spotify.com/artist/488v7rQzthLNK22r0UvMie"
-        }
-      ],
-      "duration_ms": 241133,
-      "name": "Be My Lover",
-      "url": "https://open.spotify.com/track/3YB6nCSuFqNiqOvPtAPK9X"
     },
     {
       "added_at": "2023-06-16 18:37:43",

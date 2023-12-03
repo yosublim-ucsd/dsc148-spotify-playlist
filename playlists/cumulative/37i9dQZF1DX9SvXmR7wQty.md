@@ -4,7 +4,7 @@
 
 > Découvrez les meilleures nouveautés francophones\. Photo: Etienne Dufresne
 
-2,217 songs - 4 day 22 hr 27 min
+2,218 songs - 4 day 22 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -716,7 +716,7 @@
 | [Formation](https://open.spotify.com/track/51ZvLOJkx0SAlcRsMriSnJ) | [Bouldat](https://open.spotify.com/artist/6OJIqTSNa43LsvZmIURNAb), [JuicemanSF](https://open.spotify.com/artist/7lmOPad5dsOfryNQB2sDay) | [Formation](https://open.spotify.com/album/2at8w1O9MMsF2kj6ZH9BAi) | 3:19 | 2022-04-22 | 2022-04-29 |
 | [Forêt magique](https://open.spotify.com/track/4gRW12zxJsHytn79RWCTbN) | [Super Plage](https://open.spotify.com/artist/4dOjpPwKB3QG5uh3lLvIM3) | [Forêt magique](https://open.spotify.com/album/3aB7pHJvc97G9BXGkdrONv) | 3:18 | 2022-09-09 | 2022-09-24 |
 | [FOTO](https://open.spotify.com/track/6L7mM6G8HBCP8lvHNoRrQn) | [Lartiste](https://open.spotify.com/artist/6HhnhnxLsowYuuejvku0Bz), [Nej](https://open.spotify.com/artist/3BQ9mWlgFRfMr5EdNfc10a) | [FOTO](https://open.spotify.com/album/3G2ZCoy8vRhlbWngpG8jNn) | 3:40 | 2022-08-26 | 2022-09-10 |
-| [fou](https://open.spotify.com/track/1FG0HeNkIK4bmj6W1iBg3B) | [Zélie](https://open.spotify.com/artist/0TGeOStDbxqVi8UJdBQsEx) | [fou](https://open.spotify.com/album/1fYpB6W7Yt1RopNSdVGMk9) | 2:48 | 2023-12-01 |  |
+| [fou](https://open.spotify.com/track/1FG0HeNkIK4bmj6W1iBg3B) | [Zélie](https://open.spotify.com/artist/0TGeOStDbxqVi8UJdBQsEx) | [fou](https://open.spotify.com/album/1fYpB6W7Yt1RopNSdVGMk9) | 2:48 | 2023-12-01 | 2023-12-03 |
 | [Fou malade](https://open.spotify.com/track/2tiiVkGitu4bKtuPwXfZxW) | [Tsew The Kid](https://open.spotify.com/artist/0SXZ0s0MoLOjw4Af6i3OGC) | [Fou malade](https://open.spotify.com/album/2yiYfRyfuKNY5TE3tjb8BA) | 3:17 | 2023-01-20 | 2023-02-04 |
 | [Fourrer le trouble](https://open.spotify.com/track/0smfMkxblAwgtAgaLkA9nw) | [Orloge Simard](https://open.spotify.com/artist/2PfwtnCHCC0iezSoJHtzfs) | [Culture du culte](https://open.spotify.com/album/2OfXKhyomXPJEmybOaPJ2l) | 2:47 | 2022-09-23 | 2022-10-08 |
 | [FREE FOR ALL](https://open.spotify.com/track/3kAibz4DTPCrdXKhjjuxiE) | [Abdoubeatzz](https://open.spotify.com/artist/37gGIho50l34cdAV1nRQrQ), [Fxll](https://open.spotify.com/artist/61H5pXHRcXCkcliWy4I05W), [Ibra](https://open.spotify.com/artist/49uM51XEg3ob5waZXE779W) | [FREE FOR ALL](https://open.spotify.com/album/5b4JbnHLC1riCY5q1VFn1z) | 2:48 | 2023-03-10 | 2023-03-18 |
@@ -1442,6 +1442,7 @@
 | [Nombril de circonstances](https://open.spotify.com/track/5JYSQ3wtaKnyUGnoEbsOxE) | [Rouge Pompier](https://open.spotify.com/artist/6juqd2DiJxLYeldyOvjzql) | [Nombril de circonstances](https://open.spotify.com/album/1lozlqwph3wPyPmqFDpmMM) | 4:19 | 2022-10-14 | 2022-10-29 |
 | [Non merci](https://open.spotify.com/track/6lICN9USXkjQZroKIGKjPp) | [Rosie Valland](https://open.spotify.com/artist/4lJWbDc6yz6JDL99fbSq5C) | [Non merci](https://open.spotify.com/album/4MGycVUiLSkACkkEzjDrid) | 2:26 | 2022-09-30 | 2022-10-15 |
 | [Notre bateau](https://open.spotify.com/track/4CEe8umfJbCAZNr14rsT1R) | [Erwan](https://open.spotify.com/artist/3uWhb8ADEysVQ5IRoFfAcH) | [Notre bateau](https://open.spotify.com/album/7BN4pjoSskhNTMw0HEmyUL) | 3:44 | 2023-01-13 | 2023-01-21 |
+| [NOTRE DAME](https://open.spotify.com/track/5RJcEoBhxDo8QgmKfr3JG8) | [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [LA MELO EST GANGX](https://open.spotify.com/album/4C9mVDiMHuxOZ2eORwkCE1) | 3:36 | 2023-12-01 |  |
 | [Nous](https://open.spotify.com/track/5xDBcbm1SAFe1rupcdudiq) | [Nassi](https://open.spotify.com/artist/1qKKI6tBqJZCZfAmXjYFjN), [Nej](https://open.spotify.com/artist/3BQ9mWlgFRfMr5EdNfc10a) | [Nous](https://open.spotify.com/album/0uUKJJT87LHqgu62jc6LfP) | 3:13 | 2022-12-23 | 2023-01-21 |
 | [Nous](https://open.spotify.com/track/0ER7xvqBT0pPjlNN6aR2RF) | [William Cloutier](https://open.spotify.com/artist/4OyTM2zSEE5t9D9bghE0iS) | [On ira](https://open.spotify.com/album/1g67KJ5aDutnK0IeWniWKQ) | 2:12 | 2022-01-21 | 2022-02-05 |
 | [Nous deux](https://open.spotify.com/track/6APVzgDu9ni6rIcSubOZz3) | [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB) | [Nous deux](https://open.spotify.com/album/4P6ow8BZHDgWESXQMjUUzK) | 3:41 | 2023-04-07 | 2023-05-13 |

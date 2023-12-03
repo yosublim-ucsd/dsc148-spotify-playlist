@@ -1,12 +1,12 @@
 {
   "description": "Revive la \u00e9poca de los pantalones acampanados en compa\u00f1\u00eda de mam\u00e1.",
-  "num_followers": 40487,
+  "num_followers": 40501,
   "original_name": "Mam\u00e1 70era",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZWQ5YjkwMDBmYzE4Zjc5NzcwZjgzODY4MGRmNDBkYWU5NmQ5MDUy",
+  "snapshot_id": "MCxkOGU5NGE4YTc4Y2FjODJkYWUzZTRiYTI5ZDhmMzU3ZWI1ZTQ1MjNi",
   "tracks": [
     {
       "added_at": "2021-04-28 05:02:55",
@@ -719,22 +719,6 @@
     {
       "added_at": "2021-04-28 05:02:55",
       "album": {
-        "name": "Christopher Cross",
-        "url": "https://open.spotify.com/album/43L4t2oVmuJsudEls5C6Gh"
-      },
-      "artists": [
-        {
-          "name": "Christopher Cross",
-          "url": "https://open.spotify.com/artist/695W5F2Ih8dYahLdjVOIoH"
-        }
-      ],
-      "duration_ms": 258866,
-      "name": "Sailing",
-      "url": "https://open.spotify.com/track/4ogaI0XfmAunA0LyjveMSF"
-    },
-    {
-      "added_at": "2021-04-28 05:02:55",
-      "album": {
         "name": "Cl\u00e1sicos Latinos",
         "url": "https://open.spotify.com/album/427RaNcXhoy1CpNySfJ4cd"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 243573,
       "name": "Y Volver\u00e9 - Remastered 1994",
       "url": "https://open.spotify.com/track/1skQgtTyuxpGsKgWUEhz7s"
+    },
+    {
+      "added_at": "2021-04-28 05:02:55",
+      "album": {
+        "name": "Christopher Cross",
+        "url": "https://open.spotify.com/album/43L4t2oVmuJsudEls5C6Gh"
+      },
+      "artists": [
+        {
+          "name": "Christopher Cross",
+          "url": "https://open.spotify.com/artist/695W5F2Ih8dYahLdjVOIoH"
+        }
+      ],
+      "duration_ms": 258866,
+      "name": "Sailing",
+      "url": "https://open.spotify.com/track/4ogaI0XfmAunA0LyjveMSF"
     },
     {
       "added_at": "2021-04-28 05:02:55",
@@ -943,22 +943,6 @@
     {
       "added_at": "2021-04-28 05:02:55",
       "album": {
-        "name": "Closeup",
-        "url": "https://open.spotify.com/album/3joWv9r8FR0dudduAgEDbX"
-      },
-      "artists": [
-        {
-          "name": "Frankie Valli",
-          "url": "https://open.spotify.com/artist/3CDKmzJu6uwEGnPLLZffpD"
-        }
-      ],
-      "duration_ms": 212013,
-      "name": "My Eyes Adored You",
-      "url": "https://open.spotify.com/track/2yDQVcj26tpi9IUJhw9xDs"
-    },
-    {
-      "added_at": "2021-04-28 05:02:55",
-      "album": {
         "name": "Cl\u00e1sicos Latinos",
         "url": "https://open.spotify.com/album/427RaNcXhoy1CpNySfJ4cd"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 202053,
       "name": "Muri\u00f3 La Flor",
       "url": "https://open.spotify.com/track/6PyXH8zknCSDFUMMpWlqmm"
+    },
+    {
+      "added_at": "2021-04-28 05:02:55",
+      "album": {
+        "name": "Closeup",
+        "url": "https://open.spotify.com/album/3joWv9r8FR0dudduAgEDbX"
+      },
+      "artists": [
+        {
+          "name": "Frankie Valli",
+          "url": "https://open.spotify.com/artist/3CDKmzJu6uwEGnPLLZffpD"
+        }
+      ],
+      "duration_ms": 212013,
+      "name": "My Eyes Adored You",
+      "url": "https://open.spotify.com/track/2yDQVcj26tpi9IUJhw9xDs"
     },
     {
       "added_at": "2021-04-28 05:02:55",

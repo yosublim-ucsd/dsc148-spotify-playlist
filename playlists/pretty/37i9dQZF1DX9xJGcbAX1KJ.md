@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9xJGcbAX1KJ.md) - [plain]
 
 > Go ahead, lounge a little longer with a fun mix of your favorite covers...
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,565 likes - 50 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,569 likes - 50 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9xJGcbAX1KJ.md) - [plain]
 | 49 | [Knocking on Heavens Door](https://open.spotify.com/track/20jZ7lf5eqDUQQruuMSKVE) | [RAIGN](https://open.spotify.com/artist/25IZcQsNwnvgeBiTEjBNI4) | [Knocking On Heavens Door \- EP](https://open.spotify.com/album/2ymI9oU0t6DFuYOjFc4Kpa) | 4:24 |
 | 50 | [Stolen Dance](https://open.spotify.com/track/4U97fO94vsHmSmCF7jk5cZ) | [Twin Bandit](https://open.spotify.com/artist/0PFFKJfJZU5TbgQXIw8cBr), [Joshua Hyslop](https://open.spotify.com/artist/1I7oHjCjMrMUz66v67yJJu) | [Stolen Dance](https://open.spotify.com/album/5LPeL99ZVABKUJgkK0QVk5) | 3:55 |
 
-Snapshot ID: `MCwyNGQzMTc2NDcwY2M3MDk2NjE3NGNiYzY2Yzk3ZjI3M2ExMDBlZjc4`
+Snapshot ID: `MCw2MWM1YjgwMTIxZDg1Y2FlZTEyMTY1Y2QyNjgxNjdlYmY4MzgxNjcw`

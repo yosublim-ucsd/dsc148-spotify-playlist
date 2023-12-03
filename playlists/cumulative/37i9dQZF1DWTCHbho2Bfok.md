@@ -4,7 +4,7 @@
 
 > All the festive faves to soundtrack your very merry Christmas!
 
-114 songs - 6 hr 9 min
+115 songs - 6 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,7 +114,8 @@
 | [The Little Drummer Boy](https://open.spotify.com/track/7FIcV2kEiO2mvvMbxU5Jkn) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) | [The Christmas Spirit](https://open.spotify.com/album/581uOc2TNDiBSHGwURmJTO) | 2:32 | 2021-12-23 |  |
 | [The Little Drummer Boy](https://open.spotify.com/track/1KUKcrbrjN6pBrIN1xtQX5) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) | [Christmas Hits](https://open.spotify.com/album/6Mtye5lhYh1JtHenUkIsH6) | 2:33 | 2021-12-23 | 2022-07-29 |
 | [We Wish You a Merry Christmas / End Title \- Voice](https://open.spotify.com/track/7FOJKfiyl1tegmYRqs7AuZ) | [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf), [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [Home Alone \(Original Motion Picture Soundtrack\) \[Anniversary Edition\]](https://open.spotify.com/album/3rDo7fQDUwJ6qmxwP5yQsY) | 4:14 | 2021-12-23 |  |
-| [What Are You Doing New Year's Eve?](https://open.spotify.com/track/6ezuSFl2RsptFG7hyZLWVT) | [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT), [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz), [Chris Botti](https://open.spotify.com/artist/3eFo5fMv53RYZBYlvT5Z6a) | [The Very Best Christmas Songs 2021](https://open.spotify.com/album/27sH8W5FH3hsFcK8ki6UpB) | 3:41 | 2021-12-23 |  |
+| [What Are You Doing New Year's Eve?](https://open.spotify.com/track/3MMzhB1pbabgZc51N3GzUl) | [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT), [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz), [Chris Botti](https://open.spotify.com/artist/3eFo5fMv53RYZBYlvT5Z6a) | [Merry Christmas, Baby](https://open.spotify.com/album/7mcyR9Z35tlZoa0nC7PnuH) | 3:41 | 2022-12-06 |  |
+| [What Are You Doing New Year's Eve?](https://open.spotify.com/track/6ezuSFl2RsptFG7hyZLWVT) | [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT), [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz), [Chris Botti](https://open.spotify.com/artist/3eFo5fMv53RYZBYlvT5Z6a) | [The Very Best Christmas Songs 2021](https://open.spotify.com/album/27sH8W5FH3hsFcK8ki6UpB) | 3:41 | 2021-12-23 | 2023-12-03 |
 | [What Christmas Means To Me](https://open.spotify.com/track/2qoZNAP3JLyIOtbsPtBjvV) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Someday At Christmas](https://open.spotify.com/album/0zdNmxXNCOFIFsTpJ4Q6uq) | 2:27 | 2021-12-23 | 2022-07-29 |
 | [What Christmas Means To Me](https://open.spotify.com/track/1V0qqWBbIWt8hlAjxTZedR) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Mono Singles](https://open.spotify.com/album/7oMcO4p7P1JtJR2G1v2NoK) | 2:28 | 2021-12-23 |  |
 | [What Christmas Means To Me \- Single Version / Mono](https://open.spotify.com/track/5mDjTAHZE82wzbIq8wYC8n) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Merry Christmas](https://open.spotify.com/album/4ZWoMk06dUmAF5jH06OEvU) | 2:28 | 2021-12-23 | 2022-11-13 |

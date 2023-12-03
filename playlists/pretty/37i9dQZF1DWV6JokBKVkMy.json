@@ -1,12 +1,12 @@
 {
   "description": "The sound and soul that keeps Mauritius jamming",
-  "num_followers": 2260,
+  "num_followers": 2273,
   "original_name": "Sega Hitlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNDQ2ZTVlOGNmMWE0MTg3MjZhYzAwZDUzYWQ2M2ZmMjI3NDU4MTM4",
+  "snapshot_id": "MCxlNzZiN2NiNjc0NDg2Y2FlNjQ0N2RhNTU2OTVkMWIwZTk5MDQ5YzVm",
   "tracks": [
     {
       "added_at": "2022-08-11 10:05:16",
@@ -855,6 +855,22 @@
     {
       "added_at": "2022-08-11 10:05:16",
       "album": {
+        "name": "Craz\u00e9 salle verte",
+        "url": "https://open.spotify.com/album/3u7u5R4RCYrLbQSmUuoFKK"
+      },
+      "artists": [
+        {
+          "name": "Narmine Ducap",
+          "url": "https://open.spotify.com/artist/5Y9cLaiuHNHVI6cXDcBpbC"
+        }
+      ],
+      "duration_ms": 215213,
+      "name": "Medley: cr\u00e9ole comme l'espagnol / S\u00e9ga charlot",
+      "url": "https://open.spotify.com/track/2DwjoEPD7o6fibRYnd4Zyd"
+    },
+    {
+      "added_at": "2022-08-11 10:05:16",
+      "album": {
         "name": "Sega Champagne",
         "url": "https://open.spotify.com/album/3Cml3TVka9BZIw3Rz6st5Q"
       },
@@ -871,22 +887,6 @@
       "duration_ms": 231504,
       "name": "Sega Champagne",
       "url": "https://open.spotify.com/track/1e2rj3iOYXGEJ6Ybftt5Uc"
-    },
-    {
-      "added_at": "2022-08-11 10:05:16",
-      "album": {
-        "name": "Craz\u00e9 salle verte",
-        "url": "https://open.spotify.com/album/3u7u5R4RCYrLbQSmUuoFKK"
-      },
-      "artists": [
-        {
-          "name": "Narmine Ducap",
-          "url": "https://open.spotify.com/artist/5Y9cLaiuHNHVI6cXDcBpbC"
-        }
-      ],
-      "duration_ms": 215213,
-      "name": "Medley: cr\u00e9ole comme l'espagnol / S\u00e9ga charlot",
-      "url": "https://open.spotify.com/track/2DwjoEPD7o6fibRYnd4Zyd"
     }
   ],
   "unique_name": "Sega Hitlist",

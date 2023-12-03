@@ -415,6 +415,24 @@
     },
     {
       "album": {
+        "name": "Feels Like Christmas (Live)",
+        "url": "https://open.spotify.com/album/3zbwpgm0jj9SSiybjnzQzU"
+      },
+      "artists": [
+        {
+          "name": "Israel & New Breed",
+          "url": "https://open.spotify.com/artist/77HU1Zb1VDIFvWKteJii0E"
+        }
+      ],
+      "date_added": "2023-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170398,
+      "name": "Everybody Knows - Live",
+      "url": "https://open.spotify.com/track/0Z7w4U1cX7QtpVhkoQG4Rs"
+    },
+    {
+      "album": {
         "name": "Fall in Love at Christmas",
         "url": "https://open.spotify.com/album/5NyqnHa0a9s3zdnmnECumI"
       },
@@ -496,6 +514,24 @@
       "duration_ms": 270133,
       "name": "For Unto Us (A Child Is Born)",
       "url": "https://open.spotify.com/track/6vCh1sz0DsccWhs5nJHk3q"
+    },
+    {
+      "album": {
+        "name": "The Gift",
+        "url": "https://open.spotify.com/album/2wC0LQeUpBAEUqW4Ca0J41"
+      },
+      "artists": [
+        {
+          "name": "Naomi Raine",
+          "url": "https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD"
+        }
+      ],
+      "date_added": "2023-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247141,
+      "name": "Generous God (Gloria)",
+      "url": "https://open.spotify.com/track/6WS8XlgxOp6rEqZGAjj0CY"
     },
     {
       "album": {
@@ -612,7 +648,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-03",
       "duration_ms": 251240,
       "name": "Go Tell It On the Mountain",
       "url": "https://open.spotify.com/track/3bizf9qXDaLmDdhIVcTsVs"
@@ -1215,6 +1251,24 @@
     },
     {
       "album": {
+        "name": "Joy To The World - Spotify Singles Holiday",
+        "url": "https://open.spotify.com/album/7gHKfU5w1qlLNoOp9DNnyv"
+      },
+      "artists": [
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        }
+      ],
+      "date_added": "2023-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237366,
+      "name": "Joy To The World - Spotify Singles Holiday",
+      "url": "https://open.spotify.com/track/7eY3FLrGc3cdEj3xbMOfHl"
+    },
+    {
+      "album": {
         "name": "A Tori Kelly Christmas",
         "url": "https://open.spotify.com/album/3T1Te4622DNLaTajXIkY9l"
       },
@@ -1516,7 +1570,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-03",
       "duration_ms": 242200,
       "name": "No Christmas Without You",
       "url": "https://open.spotify.com/track/2OVd9bw697vfuskRx65JQi"
@@ -2088,6 +2142,24 @@
     {
       "album": {
         "name": "The First Noel",
+        "url": "https://open.spotify.com/album/0gwUzsFLnpWbXBXPuSVJ6z"
+      },
+      "artists": [
+        {
+          "name": "Melvin Crispell III",
+          "url": "https://open.spotify.com/artist/6zSsJYBB1393jyFNRy7JrK"
+        }
+      ],
+      "date_added": "2023-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248023,
+      "name": "The First Noel",
+      "url": "https://open.spotify.com/track/1jKORq0awoj9ZLvP7z8R5j"
+    },
+    {
+      "album": {
+        "name": "The First Noel",
         "url": "https://open.spotify.com/album/4xfqjNEA1tJpZsTE4SJ5eh"
       },
       "artists": [
@@ -2276,7 +2348,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-03",
       "duration_ms": 194626,
       "name": "What Child Is This",
       "url": "https://open.spotify.com/track/3lcGSSpKMK42flmisBIgwC"
@@ -2370,7 +2442,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-03",
       "duration_ms": 181306,
       "name": "Winter Wonderland",
       "url": "https://open.spotify.com/track/08wpq3prs1o1DLQyNukmjB"

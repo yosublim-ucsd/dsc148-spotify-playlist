@@ -4,7 +4,7 @@
 
 > Kumpulan lagu yang sedang menyebar luas\. Cover: Nadzira Shafa
 
-296 songs - 18 hr 2 min
+297 songs - 18 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -262,7 +262,8 @@
 | [Take A Chance With Me](https://open.spotify.com/track/5kxOQDA9AcuNQXHvg5NpX4) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Nicole](https://open.spotify.com/album/5WR7ksPLp3kqFbDLTYpGfx) | 5:03 | 2023-10-05 |  |
 | [Tally](https://open.spotify.com/track/0bYVPJvXr8ACmw313cVvhB) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [BORN PINK](https://open.spotify.com/album/7jaSNQUBJbvfbZHLNFrV7P) | 3:04 | 2023-03-23 | 2023-07-22 |
 | [Tanpa Pesan Terakhir](https://open.spotify.com/track/4v9JJX3ZzuFFOKrMOYHTVZ) | [Seventeen](https://open.spotify.com/artist/5uUb3J6HqLhBWwzuh84LUZ) | [Dunia Yang Indah](https://open.spotify.com/album/0PAFGgXB2GM6llY8ZfzoW5) | 4:49 | 2023-10-19 |  |
-| [Tanpa Rasa Bersalah](https://open.spotify.com/track/1FSEm5Uc8TqFy0UZkMuEMZ) | [Fabio Asher](https://open.spotify.com/artist/6FTLayBxjkQeanFdUusk1I) | [ASHER](https://open.spotify.com/album/4km2qQIoGCCevm1Qf51OcE) | 4:38 | 2023-09-29 |  |
+| [Tanpa Rasa Bersalah](https://open.spotify.com/track/1FSEm5Uc8TqFy0UZkMuEMZ) | [Fabio Asher](https://open.spotify.com/artist/6FTLayBxjkQeanFdUusk1I) | [ASHER](https://open.spotify.com/album/4km2qQIoGCCevm1Qf51OcE) | 4:38 | 2023-09-29 | 2023-12-03 |
+| [Tanpa Rasa Bersalah](https://open.spotify.com/track/4Trhv4MBai2ay6vF5ovC7g) | [Fabio Asher](https://open.spotify.com/artist/6FTLayBxjkQeanFdUusk1I) | [ASHER](https://open.spotify.com/album/2HNKo2vMGhc9wON4NDfb04) | 4:38 | 2023-12-01 |  |
 | [Tapi Tahukah Kamu?](https://open.spotify.com/track/4SW9fIXaX6OxJhm9gspkDG) | [Dygta](https://open.spotify.com/artist/0LivMD6P6pi2yfZf1rIAat), [Kamasean](https://open.spotify.com/artist/2CnDUzCYPBjERuVMFQm8zX) | [Tapi Tahukah Kamu?](https://open.spotify.com/album/2MMTMsyPfgyDewVRuYY9TH) | 4:11 | 2023-09-29 |  |
 | [Tattoo](https://open.spotify.com/track/1DmW5Ep6ywYwxc2HMT5BG6) | [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl) | [Tattoo](https://open.spotify.com/album/0LRTS7FyYLppkDLOZT02Xp) | 3:03 | 2023-06-01 |  |
 | [Tawa](https://open.spotify.com/track/2cUtg4hpCug4Gc9aibZIYV) | [Nadin Amizah](https://open.spotify.com/artist/20zafXaLhm5IcXnSU93rNn) | [Tawa](https://open.spotify.com/album/04uwdQzsYFw7yRsCj0u3DT) | 4:15 | 2023-09-21 | 2023-10-19 |

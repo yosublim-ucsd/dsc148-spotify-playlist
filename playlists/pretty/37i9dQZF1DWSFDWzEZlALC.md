@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 
 > Indie, Pop und Rap mit deutschen Texten\. Cover: Provinz, ENNIO
 
-[Spotify](https://open.spotify.com/user/spotify) - 405,518 likes - 75 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 405,597 likes - 75 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 | 74 | [primetime](https://open.spotify.com/track/2gsaXMADNny0n6eHFeBryZ) | [Alli Neumann](https://open.spotify.com/artist/2fUZ5QodNiQntWefUy6Jfh) | [PRIMETIME](https://open.spotify.com/album/3RK4pNM1XeJ0ZxhKHdSuKr) | 2:51 |
 | 75 | [Kein Bock](https://open.spotify.com/track/3WjaL0f86f9rS3VYTC8x49) | [Paula Carolina](https://open.spotify.com/artist/2j7Kbyq2wgLpC4tkfcixQZ) | [Kein Bock](https://open.spotify.com/album/343ldWBHF7KtOJgDg4JnEc) | 2:44 |
 
-Snapshot ID: `MCw5ZGU0ZjA1MmUxYjQ0MWM0NjI0MjFkMjJjNGNlMzhjMTY0MzQyYTgy`
+Snapshot ID: `MCw4ZWVmOTZjZmMwZDRmNjg1ZDZhMzE4ODk0NDQ1NWM0MTM2NmRlMDE2`

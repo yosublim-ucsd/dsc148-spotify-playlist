@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4eP5ZmHlyY0.md) - [plain]
 
 > 日本で活躍するボーイズグループを特集。cover: GENERATIONS from EXILE TRIBE
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,961 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,961 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4eP5ZmHlyY0.md) - [plain]
 | 46 | [JUST DANCE!](https://open.spotify.com/track/337dZo6Fo3hIq0iMANoZmS) | [Travis Japan](https://open.spotify.com/artist/28IJpwoVi5R92MtHxkj2Lk) | [JUST DANCE!](https://open.spotify.com/album/5pNQWKfMgZXtN6rCXoFgLT) | 2:57 |
 | 47 | [存在証明](https://open.spotify.com/track/0r1o3u1hfslfqiAu5ZA51O) | [KID PHENOMENON from EXILE TRIBE](https://open.spotify.com/artist/0fDuN5RNp3ysq68Zdz17MV) | [存在証明](https://open.spotify.com/album/5ltpF1aQJAWeuEIBgpU6dK) | 3:27 |
 | 48 | [SIN](https://open.spotify.com/track/4uRh2YgZgcg7x2QsyllrbI) | [MADKID](https://open.spotify.com/artist/1tofuk7dTZwb6ZKsr7XRKB) | [SIN](https://open.spotify.com/album/3W6jQO7l9BPGV2uhgr6l28) | 3:44 |
-| 49 | [SOS](https://open.spotify.com/track/3gahDIUGQT0Hlmf5zNN4ta) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [Mainstream](https://open.spotify.com/album/7ixevog8Pu3jbd3VeZSK7j) | 2:56 |
+| 49 | [Smile Again](https://open.spotify.com/track/6EJDyT2T7pEeLLhNRR416r) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [Smile Again](https://open.spotify.com/album/7aIMR4kB87X92XrEzK6L6M) | 3:22 |
 | 50 | [Under the skin](https://open.spotify.com/track/14OcSHjrsHoZBJHwaYefH7) | [&TEAM](https://open.spotify.com/artist/2xfxRiKxoHl5tI0MKyvqV7) | [Under the skin](https://open.spotify.com/album/0UVj9I0OG2Ti1QjHVRpO2K) | 3:11 |
 
-Snapshot ID: `MCwzMTExNjc5NTU4ZmQ1ZGVjMmZjYjAyMmQ5MTA5ZjIzZjkwZjRlNjll`
+Snapshot ID: `MCw5OGRhMWM5NGE5MjA5NWE0ODliMWUzNjg1YjY1MzY4Yzg3NzkxYmQ5`

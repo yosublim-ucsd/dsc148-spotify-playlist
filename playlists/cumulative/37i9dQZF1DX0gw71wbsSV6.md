@@ -4,7 +4,7 @@
 
 > 忙しかった1日の終わりは、半身浴と心に沁みる音楽でゆったりリラックス。
 
-269 songs - 16 hr 41 min
+270 songs - 16 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,7 +71,7 @@
 | [Dekoboko](https://open.spotify.com/track/51CXq1aLX96DMZszfTAxy9) | [Furui Riho](https://open.spotify.com/artist/6OgsusVzVrkzCvbXpv6GWh) | [Green Light](https://open.spotify.com/album/3KhTmSUwEUdPGjE1ay4gI2) | 4:30 | 2023-01-19 |  |
 | [Do You Like Me?](https://open.spotify.com/track/6q4yusLwjDYEcF6jXHdt7J) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Do You Like Me?](https://open.spotify.com/album/1Jlpz65a64XDxwAVjufFUG) | 3:47 | 2023-01-26 |  |
 | [DOCUMENT](https://open.spotify.com/track/56lLsOLE58RdsoNsFk51D4) | [TENDRE](https://open.spotify.com/artist/6cMnpAZ9QN0wn4dVd0Tinb) | [NOT IN ALMIGHTY](https://open.spotify.com/album/5IrJrZDfcOKC8pute3Iaov) | 4:40 | 2023-01-10 | 2023-03-26 |
-| [Doesn’t Do Me Any Good](https://open.spotify.com/track/3Rou7KR8ctza5jeqQfyer0) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT) | [Angel Face](https://open.spotify.com/album/6CczqhUdYOH4qLSDnN3zkg) | 3:52 | 2023-10-12 |  |
+| [Doesn’t Do Me Any Good](https://open.spotify.com/track/3Rou7KR8ctza5jeqQfyer0) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT) | [Angel Face](https://open.spotify.com/album/6CczqhUdYOH4qLSDnN3zkg) | 3:52 | 2023-10-12 | 2023-12-03 |
 | [Don't Forget About Me](https://open.spotify.com/track/05vvPTidbjvDySLc9o65YS) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Petals to Thorns](https://open.spotify.com/album/3rrrTOHiXGzuW4FP7t0O1A) | 2:29 | 2023-06-01 | 2023-11-08 |
 | [Don't Forget About Me](https://open.spotify.com/track/43rGLaawHXspfnWtBCoAQg) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Don't Forget About Me](https://open.spotify.com/album/73RqlYh6EX1aDBC0oz765j) | 2:29 | 2023-05-18 | 2023-06-02 |
 | [doomsday](https://open.spotify.com/track/4WjxtORnwPavm5PDsAWJEc) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [five seconds flat](https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD) | 4:28 | 2022-10-16 | 2023-01-11 |
@@ -208,6 +208,7 @@
 | [Summer Lost 2023 \- ft\. butaji](https://open.spotify.com/track/0UbO2ZCgpNlPRGWGiWQCeP) | [am8](https://open.spotify.com/artist/5GtEx6JS3XBlOL4J7Xhh1r), [butaji](https://open.spotify.com/artist/2bsLk9rBYLaDCtexh8qO2I) | [Summer Lost 2023 \(ft\. butaji\)](https://open.spotify.com/album/1M4kqTNWIdKFIOUvh173uy) | 5:31 | 2023-01-10 | 2023-02-04 |
 | [Super Trouper](https://open.spotify.com/track/6NDRkX3h4iiyKcJOngaVZ8) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [ITEIAD Sessions](https://open.spotify.com/album/49FYWXZPpRXP2wewK6PRhu) | 2:59 | 2023-11-23 |  |
 | [Tada de Futotta Jinsei](https://open.spotify.com/track/2Qb4apNFWlRnZNfTtLGL4F) | [Bialystocks](https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe) | [Quicksand](https://open.spotify.com/album/2Lb2A5WI9ti7WlJG8f1Gte) | 2:42 | 2022-12-01 | 2023-01-13 |
+| [Take Me Home, Country Roads](https://open.spotify.com/track/7qF0FfuzBFwMe1lNHkEDxW) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Take Me Home, Country Roads](https://open.spotify.com/album/5qDjtBY8cC4bO6wytuGOuT) | 2:46 | 2023-11-30 |  |
 | [Telephone dream](https://open.spotify.com/track/7AlBJGFpGi9BR1HfaNWnDi) | [Hugh Keice](https://open.spotify.com/artist/74w143cx7ODBg7fiKC23aO) | [Telephone dream](https://open.spotify.com/album/41pwpM53tHIPDGGuTdsElH) | 3:05 | 2023-02-21 | 2023-04-14 |
 | [Tell Her](https://open.spotify.com/track/5skNWeBOrOJ99OBeVjdoIB) | [Bruno Major](https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8) | [Tell Her](https://open.spotify.com/album/0nrrVN6cFEhjTWL0VgUDAY) | 2:43 | 2023-06-20 | 2023-07-25 |
 | [The Bridge](https://open.spotify.com/track/7MTHpsxtKVJaBL6e9WXzqD) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Petals to Thorns](https://open.spotify.com/album/3rrrTOHiXGzuW4FP7t0O1A) | 3:01 | 2023-05-25 | 2023-08-31 |

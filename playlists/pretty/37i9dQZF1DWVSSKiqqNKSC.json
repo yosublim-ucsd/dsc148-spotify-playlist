@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Lo mejor de la Salsa Cubana! Celia Cruz en portada.",
-  "num_followers": 231218,
+  "num_followers": 231274,
   "original_name": "Salsa Cubana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MWU2YjUyZWFkNTEyNzY1OTIyYTE3OWQzYjRhODEzNGRlMWRkNmNj",
+  "snapshot_id": "MCxiZjMzNmU5Mzk5MzQxOTk0NWNjNDMyYTRmZDNmYTk5M2VjYzc4OWQ5",
   "tracks": [
     {
       "added_at": "2022-12-30 18:20:45",
@@ -651,26 +651,6 @@
     {
       "added_at": "2022-12-30 18:20:45",
       "album": {
-        "name": "Visual\u00edzate",
-        "url": "https://open.spotify.com/album/2HXRjHb2nbLJa5r70FBtdT"
-      },
-      "artists": [
-        {
-          "name": "Gente De Zona",
-          "url": "https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL"
-        },
-        {
-          "name": "Marc Anthony",
-          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
-        }
-      ],
-      "duration_ms": 240026,
-      "name": "Traidora (feat. Marc Anthony) - Salsa Version",
-      "url": "https://open.spotify.com/track/3jSCiNXdUOUdpmfG01evw9"
-    },
-    {
-      "added_at": "2022-12-30 18:20:45",
-      "album": {
         "name": "La Vuelta al Mundo",
         "url": "https://open.spotify.com/album/4YkbsY00dYjZj5wQmdfilG"
       },
@@ -687,6 +667,26 @@
       "duration_ms": 247226,
       "name": "Venenosa",
       "url": "https://open.spotify.com/track/0BAQ2NB5guuQs5fr1L2elE"
+    },
+    {
+      "added_at": "2022-12-30 18:20:45",
+      "album": {
+        "name": "Visual\u00edzate",
+        "url": "https://open.spotify.com/album/2HXRjHb2nbLJa5r70FBtdT"
+      },
+      "artists": [
+        {
+          "name": "Gente De Zona",
+          "url": "https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL"
+        },
+        {
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+        }
+      ],
+      "duration_ms": 240026,
+      "name": "Traidora (feat. Marc Anthony) - Salsa Version",
+      "url": "https://open.spotify.com/track/3jSCiNXdUOUdpmfG01evw9"
     },
     {
       "added_at": "2022-12-30 18:20:45",
@@ -791,6 +791,22 @@
     {
       "added_at": "2022-12-30 18:20:45",
       "album": {
+        "name": "EN LETRAS DE OTROS",
+        "url": "https://open.spotify.com/album/3nAC4AClBOoBxGzhSyyqil"
+      },
+      "artists": [
+        {
+          "name": "Los 4",
+          "url": "https://open.spotify.com/artist/4HIOOPiZCJm2MPRU8Cs4MK"
+        }
+      ],
+      "duration_ms": 233979,
+      "name": "No Me Quiero Enamorar",
+      "url": "https://open.spotify.com/track/726bxM7rwE4bhJGPPaawQP"
+    },
+    {
+      "added_at": "2022-12-30 18:20:45",
+      "album": {
         "name": "Latin Trumpets - Bolero",
         "url": "https://open.spotify.com/album/3E15XVDoZD3HO4rmbxN27K"
       },
@@ -811,22 +827,6 @@
     {
       "added_at": "2022-12-30 18:20:45",
       "album": {
-        "name": "EN LETRAS DE OTROS",
-        "url": "https://open.spotify.com/album/3nAC4AClBOoBxGzhSyyqil"
-      },
-      "artists": [
-        {
-          "name": "Los 4",
-          "url": "https://open.spotify.com/artist/4HIOOPiZCJm2MPRU8Cs4MK"
-        }
-      ],
-      "duration_ms": 233979,
-      "name": "No Me Quiero Enamorar",
-      "url": "https://open.spotify.com/track/726bxM7rwE4bhJGPPaawQP"
-    },
-    {
-      "added_at": "2022-12-30 18:20:45",
-      "album": {
         "name": "Grandes Exitos Vol. 1",
         "url": "https://open.spotify.com/album/2qIauTRLruweUbBVZrQkF9"
       },
@@ -843,18 +843,22 @@
     {
       "added_at": "2022-12-30 18:20:45",
       "album": {
-        "name": "Yo Voy Pa Encima - Single",
-        "url": "https://open.spotify.com/album/3X8Xfid9BomsVbXUB7isFJ"
+        "name": "Party Full Nasty (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/01MOvDJDnOLpU47OT2zkFw"
       },
       "artists": [
         {
-          "name": "Luis Enrique",
-          "url": "https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI"
+          "name": "El Chacal",
+          "url": "https://open.spotify.com/artist/1xFn1xod58AGaSZjrxdiXA"
+        },
+        {
+          "name": "Yakarta",
+          "url": "https://open.spotify.com/artist/7a639C80zwLMF0NYMpMxzG"
         }
       ],
-      "duration_ms": 206992,
-      "name": "Yo Voy Pa Encima",
-      "url": "https://open.spotify.com/track/6CyqA8KDBXprJxkbwBVuIz"
+      "duration_ms": 208680,
+      "name": "Besito Con Lengua",
+      "url": "https://open.spotify.com/track/4jVEcFzRACgZm5gpkhXigP"
     }
   ],
   "unique_name": "Salsa Cubana",

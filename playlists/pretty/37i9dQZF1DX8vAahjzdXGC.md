@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari dalam negeri dan mancanegara yang diperbarui setiap Jumat\. Cover: VIDI
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,793 likes - 97 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 169,835 likes - 97 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,4 +106,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 96 | [How Have You Been?](https://open.spotify.com/track/2nAXDcsUiNdBa9xypqhe5I) | [lewloh](https://open.spotify.com/artist/31TM5zBknJ7ZInbxnR0rlX) | [How Have You Been?](https://open.spotify.com/album/7vujHQJMYf23qpddPQy6tQ) | 3:22 |
 | 97 | [You Make Me Feel](https://open.spotify.com/track/06jSAhKCHJJtRt0lzvMxKQ) | [J.M3](https://open.spotify.com/artist/1iuvFwzMREPmNlzoX1h8gx) | [You Make Me Feel](https://open.spotify.com/album/0sjMCJ99RMaMZIxwR3qcPa) | 2:14 |
 
-Snapshot ID: `MCxlOTNkOTk1NjFkODM2YTIzZDYwMmZhMjlmMTg5YmI3ZGJlYjE0NmIz`
+Snapshot ID: `MCwyMjE3NGY2M2NlZTFjNjQxM2FhMzliNTYzZjY1MzY1MjhjODdjMzI2`

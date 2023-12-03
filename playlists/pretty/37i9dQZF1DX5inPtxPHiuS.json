@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Disfruta con los grandes del rock colombiano! Foto: Diamante El\u00e9ctrico",
-  "num_followers": 85769,
+  "num_followers": 85786,
   "original_name": "Rock Colombia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3Y2JhMjQzYjk3MTU0ZTQ4Yjc0ZTA1NzVlNWQ0ZTMwNmI5Njk3NGUx",
+  "snapshot_id": "MCwwNDExOWFjMDRiMjE3MjE4ZmI3NmNmZTcyNTJhNzYzM2E3NTYwYjIw",
   "tracks": [
     {
       "added_at": "2023-10-07 00:35:47",
@@ -371,22 +371,6 @@
     {
       "added_at": "2023-10-07 00:35:47",
       "album": {
-        "name": "Un Eterno Loop Sin Fin",
-        "url": "https://open.spotify.com/album/0rO0NHGworrKc2o1X5q3ne"
-      },
-      "artists": [
-        {
-          "name": "The Mills",
-          "url": "https://open.spotify.com/artist/7fcGiQtR6dTLwpQzrWsiJn"
-        }
-      ],
-      "duration_ms": 229671,
-      "name": "Un Eterno Loop Sin Fin",
-      "url": "https://open.spotify.com/track/0pb1YMJkOqDE2ztxzsYHTd"
-    },
-    {
-      "added_at": "2023-10-07 00:35:47",
-      "album": {
         "name": "Apolog\u00eda de una Amigdala Inflamada",
         "url": "https://open.spotify.com/album/5LEInPf0wx6Z0zvKkI72PQ"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 152750,
       "name": "Apolog\u00eda de una Amigdala Inflamada",
       "url": "https://open.spotify.com/track/34sNFlKyNs9IjmdUttxtWA"
+    },
+    {
+      "added_at": "2023-10-07 00:35:47",
+      "album": {
+        "name": "Un Eterno Loop Sin Fin",
+        "url": "https://open.spotify.com/album/0rO0NHGworrKc2o1X5q3ne"
+      },
+      "artists": [
+        {
+          "name": "The Mills",
+          "url": "https://open.spotify.com/artist/7fcGiQtR6dTLwpQzrWsiJn"
+        }
+      ],
+      "duration_ms": 229671,
+      "name": "Un Eterno Loop Sin Fin",
+      "url": "https://open.spotify.com/track/0pb1YMJkOqDE2ztxzsYHTd"
     },
     {
       "added_at": "2023-10-07 00:35:47",
@@ -535,22 +535,6 @@
     {
       "added_at": "2023-10-07 00:35:47",
       "album": {
-        "name": "A Tu Lado",
-        "url": "https://open.spotify.com/album/603lFzzUSI0yVjfQxlpXN2"
-      },
-      "artists": [
-        {
-          "name": "The Mills",
-          "url": "https://open.spotify.com/artist/7fcGiQtR6dTLwpQzrWsiJn"
-        }
-      ],
-      "duration_ms": 203592,
-      "name": "A Tu Lado",
-      "url": "https://open.spotify.com/track/4Yx4NDik0QW3hpKXTMOQNw"
-    },
-    {
-      "added_at": "2023-10-07 00:35:47",
-      "album": {
         "name": "Marteko Euriak",
         "url": "https://open.spotify.com/album/6FD2WgISjrdvvr7XSjKgYT"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 187478,
       "name": "Salvaje Vagabundo",
       "url": "https://open.spotify.com/track/0gOvLUA0IHMUiDFPPINFnr"
+    },
+    {
+      "added_at": "2023-10-07 00:35:47",
+      "album": {
+        "name": "A Tu Lado",
+        "url": "https://open.spotify.com/album/603lFzzUSI0yVjfQxlpXN2"
+      },
+      "artists": [
+        {
+          "name": "The Mills",
+          "url": "https://open.spotify.com/artist/7fcGiQtR6dTLwpQzrWsiJn"
+        }
+      ],
+      "duration_ms": 203592,
+      "name": "A Tu Lado",
+      "url": "https://open.spotify.com/track/4Yx4NDik0QW3hpKXTMOQNw"
     },
     {
       "added_at": "2023-10-07 00:35:47",
@@ -631,6 +631,26 @@
     {
       "added_at": "2023-10-07 00:35:47",
       "album": {
+        "name": "Ni\u00f1os Perdidos",
+        "url": "https://open.spotify.com/album/55OtSjhhECr6c8we4xyX6y"
+      },
+      "artists": [
+        {
+          "name": "TELEBIT",
+          "url": "https://open.spotify.com/artist/1IppeXcGxXcEec0znuY7bI"
+        },
+        {
+          "name": "Armenia",
+          "url": "https://open.spotify.com/artist/4FmrAtWfKHAIysakSpmatx"
+        }
+      ],
+      "duration_ms": 159781,
+      "name": "Ni\u00f1os Perdidos",
+      "url": "https://open.spotify.com/track/3fANb47ayeswMFaT5fI1Or"
+    },
+    {
+      "added_at": "2023-10-07 00:35:47",
+      "album": {
         "name": "Delirio",
         "url": "https://open.spotify.com/album/35nk59oHxNe8wQkGiDyAMI"
       },
@@ -651,26 +671,6 @@
       "duration_ms": 210378,
       "name": "Delirio",
       "url": "https://open.spotify.com/track/4iT2KQFHJHqbyOktqLkI23"
-    },
-    {
-      "added_at": "2023-10-07 00:35:47",
-      "album": {
-        "name": "Ni\u00f1os Perdidos",
-        "url": "https://open.spotify.com/album/55OtSjhhECr6c8we4xyX6y"
-      },
-      "artists": [
-        {
-          "name": "TELEBIT",
-          "url": "https://open.spotify.com/artist/1IppeXcGxXcEec0znuY7bI"
-        },
-        {
-          "name": "Armenia",
-          "url": "https://open.spotify.com/artist/4FmrAtWfKHAIysakSpmatx"
-        }
-      ],
-      "duration_ms": 159781,
-      "name": "Ni\u00f1os Perdidos",
-      "url": "https://open.spotify.com/track/3fANb47ayeswMFaT5fI1Or"
     },
     {
       "added_at": "2023-10-07 00:35:47",

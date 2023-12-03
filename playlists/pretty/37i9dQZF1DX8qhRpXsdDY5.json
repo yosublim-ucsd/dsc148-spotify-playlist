@@ -1,12 +1,12 @@
 {
   "description": "Latin classics to get you in the Christmas spirit. Cover: Luis Miguel",
-  "num_followers": 199136,
+  "num_followers": 199567,
   "original_name": "Latin Christmas Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4Zjk0ZjY0ZGUyMWNiNjdjYTZhZDQ4MDJjYTc3N2M4OGM2NWIxYzRl",
+  "snapshot_id": "MCxmNzg0Yzk3ZDkwY2JmMjU4NDIwOGMxNDgxOTRmZThmODRjMDBmMWY3",
   "tracks": [
     {
       "added_at": "2023-12-01 05:01:00",
@@ -107,6 +107,22 @@
     {
       "added_at": "2023-12-01 05:01:00",
       "album": {
+        "name": "Me Volvi A Acordar De Ti",
+        "url": "https://open.spotify.com/album/5UDp9amJcdxcM86mM0Hwiy"
+      },
+      "artists": [
+        {
+          "name": "Los Bukis",
+          "url": "https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf"
+        }
+      ],
+      "duration_ms": 254933,
+      "name": "Navidad Sin Ti",
+      "url": "https://open.spotify.com/track/0BgKO3jvcTWhJ8Y8egyAn1"
+    },
+    {
+      "added_at": "2023-12-01 05:01:00",
+      "album": {
         "name": "Eterna Navidad",
         "url": "https://open.spotify.com/album/2yVigxuJ464aicCUE2cl81"
       },
@@ -183,22 +199,6 @@
     {
       "added_at": "2023-12-01 05:01:00",
       "album": {
-        "name": "El Burrito de Bel\u00e9n",
-        "url": "https://open.spotify.com/album/2Vg95eYQRh5Mg881N8Dk72"
-      },
-      "artists": [
-        {
-          "name": "La Rondallita",
-          "url": "https://open.spotify.com/artist/3UjWu4XVz5QJs2KgqM3Eor"
-        }
-      ],
-      "duration_ms": 194429,
-      "name": "El Burrito de Belen",
-      "url": "https://open.spotify.com/track/3Gh2PSlQRYheHIeeNf4OCr"
-    },
-    {
-      "added_at": "2023-12-01 05:01:00",
-      "album": {
         "name": "Ring, Ring Villancicos Navide\u00f1os Con Rondalla Y Coro Infantil Suarez",
         "url": "https://open.spotify.com/album/3F1y5I7WJzIlNpE6fr6Q19"
       },
@@ -215,18 +215,18 @@
     {
       "added_at": "2023-12-01 05:01:00",
       "album": {
-        "name": "RCA 100 A\u00f1os De Musica",
-        "url": "https://open.spotify.com/album/42xizzB2aLakQDBNIhEQJg"
+        "name": "El Burrito de Bel\u00e9n",
+        "url": "https://open.spotify.com/album/2Vg95eYQRh5Mg881N8Dk72"
       },
       "artists": [
         {
-          "name": "Tony Camargo",
-          "url": "https://open.spotify.com/artist/5ty08GXpCMviM7BKWNrdXi"
+          "name": "La Rondallita",
+          "url": "https://open.spotify.com/artist/3UjWu4XVz5QJs2KgqM3Eor"
         }
       ],
-      "duration_ms": 182720,
-      "name": "El A\u00f1o Viejo",
-      "url": "https://open.spotify.com/track/6NjhADkaWwGYO0R7eZXyI4"
+      "duration_ms": 194429,
+      "name": "El Burrito de Belen",
+      "url": "https://open.spotify.com/track/3Gh2PSlQRYheHIeeNf4OCr"
     },
     {
       "added_at": "2023-12-01 05:01:00",
@@ -247,18 +247,18 @@
     {
       "added_at": "2023-12-01 05:01:00",
       "album": {
-        "name": "El preg\u00f3n",
-        "url": "https://open.spotify.com/album/1Z27GPKKGRGUpayXPsVej2"
+        "name": "RCA 100 A\u00f1os De Musica",
+        "url": "https://open.spotify.com/album/42xizzB2aLakQDBNIhEQJg"
       },
       "artists": [
         {
-          "name": "Jos\u00e9 Luis Perales",
-          "url": "https://open.spotify.com/artist/5RwfJb8wxN1fuodcPORVxP"
+          "name": "Tony Camargo",
+          "url": "https://open.spotify.com/artist/5ty08GXpCMviM7BKWNrdXi"
         }
       ],
-      "duration_ms": 229066,
-      "name": "Canci\u00f3n para la Navidad",
-      "url": "https://open.spotify.com/track/2gSexK7Je8Szlo7nm0vvJB"
+      "duration_ms": 182720,
+      "name": "El A\u00f1o Viejo",
+      "url": "https://open.spotify.com/track/6NjhADkaWwGYO0R7eZXyI4"
     },
     {
       "added_at": "2023-12-01 05:01:00",
@@ -275,6 +275,22 @@
       "duration_ms": 180346,
       "name": "Jingle Bells",
       "url": "https://open.spotify.com/track/2LD9KV4a5SH6e6OBM4fdyU"
+    },
+    {
+      "added_at": "2023-12-01 05:01:00",
+      "album": {
+        "name": "El preg\u00f3n",
+        "url": "https://open.spotify.com/album/1Z27GPKKGRGUpayXPsVej2"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Luis Perales",
+          "url": "https://open.spotify.com/artist/5RwfJb8wxN1fuodcPORVxP"
+        }
+      ],
+      "duration_ms": 229066,
+      "name": "Canci\u00f3n para la Navidad",
+      "url": "https://open.spotify.com/track/2gSexK7Je8Szlo7nm0vvJB"
     },
     {
       "added_at": "2023-12-01 05:01:00",
@@ -359,26 +375,6 @@
     {
       "added_at": "2023-12-01 05:01:00",
       "album": {
-        "name": "Todos A Belen",
-        "url": "https://open.spotify.com/album/54YLqTx1NcuQUkVARYdIBQ"
-      },
-      "artists": [
-        {
-          "name": "Voz Veis",
-          "url": "https://open.spotify.com/artist/10qDQKbmh8qV5LDCFtHLIw"
-        },
-        {
-          "name": "Andr\u00e9s Cepeda",
-          "url": "https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6"
-        }
-      ],
-      "duration_ms": 257653,
-      "name": "Son Tan Buenos Los Recuerdos",
-      "url": "https://open.spotify.com/track/5h005TfhVvDrqoLWbj7TP9"
-    },
-    {
-      "added_at": "2023-12-01 05:01:00",
-      "album": {
         "name": "Navidades Luis Miguel",
         "url": "https://open.spotify.com/album/0tu9kY2tDMuuuI6GtSDH9i"
       },
@@ -411,6 +407,26 @@
     {
       "added_at": "2023-12-01 05:01:00",
       "album": {
+        "name": "Todos A Belen",
+        "url": "https://open.spotify.com/album/54YLqTx1NcuQUkVARYdIBQ"
+      },
+      "artists": [
+        {
+          "name": "Voz Veis",
+          "url": "https://open.spotify.com/artist/10qDQKbmh8qV5LDCFtHLIw"
+        },
+        {
+          "name": "Andr\u00e9s Cepeda",
+          "url": "https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6"
+        }
+      ],
+      "duration_ms": 257653,
+      "name": "Son Tan Buenos Los Recuerdos",
+      "url": "https://open.spotify.com/track/5h005TfhVvDrqoLWbj7TP9"
+    },
+    {
+      "added_at": "2023-12-01 05:01:00",
+      "album": {
         "name": "Feliz Christmas (Vol.1)",
         "url": "https://open.spotify.com/album/2Z3UcWtQd6WSEudALv1IJW"
       },
@@ -423,22 +439,6 @@
       "duration_ms": 154453,
       "name": "Rockin' Around The Christmas Tree",
       "url": "https://open.spotify.com/track/735OBE2WvfM3QeP5knHcdn"
-    },
-    {
-      "added_at": "2023-12-01 05:01:00",
-      "album": {
-        "name": "Memorias de Navidad",
-        "url": "https://open.spotify.com/album/1zTDuNOo7R4b1u3fjSL5w5"
-      },
-      "artists": [
-        {
-          "name": "V\u00edctor Manuelle",
-          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
-        }
-      ],
-      "duration_ms": 274786,
-      "name": "Ya Se Ven las Bombillitas",
-      "url": "https://open.spotify.com/track/47mV5gXQdmvOZYQzVTNqcJ"
     },
     {
       "added_at": "2023-12-01 05:01:00",
@@ -459,22 +459,18 @@
     {
       "added_at": "2023-12-01 05:01:00",
       "album": {
-        "name": "Tarjeta De Navidad, VOL. II",
-        "url": "https://open.spotify.com/album/6quAUDl5w1TszBZCC6Qj75"
+        "name": "Memorias de Navidad",
+        "url": "https://open.spotify.com/album/1zTDuNOo7R4b1u3fjSL5w5"
       },
       "artists": [
-        {
-          "name": "Elvis Crespo",
-          "url": "https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df"
-        },
         {
           "name": "V\u00edctor Manuelle",
           "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
         }
       ],
-      "duration_ms": 300506,
-      "name": "El Cuerpo Me Pide",
-      "url": "https://open.spotify.com/track/3SMJ6uEe3DbBZ4xsRtXg5R"
+      "duration_ms": 274786,
+      "name": "Ya Se Ven las Bombillitas",
+      "url": "https://open.spotify.com/track/47mV5gXQdmvOZYQzVTNqcJ"
     },
     {
       "added_at": "2023-12-01 05:01:00",
@@ -491,6 +487,26 @@
       "duration_ms": 234880,
       "name": "No Te Pongas Triste",
       "url": "https://open.spotify.com/track/1imzVwkMqRDohhFbxuxv9j"
+    },
+    {
+      "added_at": "2023-12-01 05:01:00",
+      "album": {
+        "name": "Tarjeta De Navidad, VOL. II",
+        "url": "https://open.spotify.com/album/6quAUDl5w1TszBZCC6Qj75"
+      },
+      "artists": [
+        {
+          "name": "Elvis Crespo",
+          "url": "https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df"
+        },
+        {
+          "name": "V\u00edctor Manuelle",
+          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
+        }
+      ],
+      "duration_ms": 300506,
+      "name": "El Cuerpo Me Pide",
+      "url": "https://open.spotify.com/track/3SMJ6uEe3DbBZ4xsRtXg5R"
     },
     {
       "added_at": "2023-12-01 05:01:00",
@@ -607,6 +623,22 @@
     {
       "added_at": "2023-12-01 05:01:00",
       "album": {
+        "name": "Christmas Through Your Eyes",
+        "url": "https://open.spotify.com/album/6E6TrU7oUDqYXgpkyOJYnf"
+      },
+      "artists": [
+        {
+          "name": "Gloria Estefan",
+          "url": "https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889"
+        }
+      ],
+      "duration_ms": 234133,
+      "name": "Arbolito de Navidad",
+      "url": "https://open.spotify.com/track/4GUkYV8IMQiEsliScEZ0jf"
+    },
+    {
+      "added_at": "2023-12-01 05:01:00",
+      "album": {
         "name": "Asi Soy...",
         "url": "https://open.spotify.com/album/0kzj1twqOvvdZHc9VElEpR"
       },
@@ -619,22 +651,6 @@
       "duration_ms": 304520,
       "name": "Cantares de Navidad",
       "url": "https://open.spotify.com/track/6aqXCQOtMuKbpdE5OdIsK9"
-    },
-    {
-      "added_at": "2023-12-01 05:01:00",
-      "album": {
-        "name": "Nuestra Navidad",
-        "url": "https://open.spotify.com/album/2Qor7EZHAQTWGObOaSXaSm"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Alfredo Jimenez Con Mariachi Vargas De Tecalitlan",
-          "url": "https://open.spotify.com/artist/0XT2a5IkSHLGTrFxnYy3rB"
-        }
-      ],
-      "duration_ms": 156600,
-      "name": "Se Va Diciembre",
-      "url": "https://open.spotify.com/track/3yBqAQPT5YGuEVbmhsghPs"
     },
     {
       "added_at": "2023-12-01 05:01:00",
@@ -660,6 +676,22 @@
       "added_at": "2023-12-01 05:01:00",
       "album": {
         "name": "Nuestra Navidad",
+        "url": "https://open.spotify.com/album/2Qor7EZHAQTWGObOaSXaSm"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Alfredo Jimenez Con Mariachi Vargas De Tecalitlan",
+          "url": "https://open.spotify.com/artist/0XT2a5IkSHLGTrFxnYy3rB"
+        }
+      ],
+      "duration_ms": 156600,
+      "name": "Se Va Diciembre",
+      "url": "https://open.spotify.com/track/3yBqAQPT5YGuEVbmhsghPs"
+    },
+    {
+      "added_at": "2023-12-01 05:01:00",
+      "album": {
+        "name": "Nuestra Navidad",
         "url": "https://open.spotify.com/album/3nIu3AmwoEy4RlBJGd6rlG"
       },
       "artists": [
@@ -671,38 +703,6 @@
       "duration_ms": 216038,
       "name": "Nuestra Canci\u00f3n De Navidad",
       "url": "https://open.spotify.com/track/2LTlzcu4WICKICBeOlbVV0"
-    },
-    {
-      "added_at": "2023-12-01 05:01:00",
-      "album": {
-        "name": "Love & Christmas",
-        "url": "https://open.spotify.com/album/0xxMYzTP9WOD4PJnAM7wZn"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Feliciano",
-          "url": "https://open.spotify.com/artist/7K78lVZ8XzkjfRSI7570FF"
-        }
-      ],
-      "duration_ms": 217024,
-      "name": "Viva La Navidad",
-      "url": "https://open.spotify.com/track/2UwNxIMMnQBoHE97RYry2k"
-    },
-    {
-      "added_at": "2023-12-01 05:01:00",
-      "album": {
-        "name": "Christmas Through Your Eyes",
-        "url": "https://open.spotify.com/album/6E6TrU7oUDqYXgpkyOJYnf"
-      },
-      "artists": [
-        {
-          "name": "Gloria Estefan",
-          "url": "https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889"
-        }
-      ],
-      "duration_ms": 234133,
-      "name": "Arbolito de Navidad",
-      "url": "https://open.spotify.com/track/4GUkYV8IMQiEsliScEZ0jf"
     },
     {
       "added_at": "2023-12-01 05:01:00",
@@ -719,6 +719,22 @@
       "duration_ms": 158866,
       "name": "Campana Sobre Campana",
       "url": "https://open.spotify.com/track/0LjIptp63zmCOz6O1V7QQB"
+    },
+    {
+      "added_at": "2023-12-01 05:01:00",
+      "album": {
+        "name": "Love & Christmas",
+        "url": "https://open.spotify.com/album/0xxMYzTP9WOD4PJnAM7wZn"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Feliciano",
+          "url": "https://open.spotify.com/artist/7K78lVZ8XzkjfRSI7570FF"
+        }
+      ],
+      "duration_ms": 217024,
+      "name": "Viva La Navidad",
+      "url": "https://open.spotify.com/track/2UwNxIMMnQBoHE97RYry2k"
     },
     {
       "added_at": "2023-12-01 05:01:00",
@@ -847,26 +863,6 @@
       "duration_ms": 253424,
       "name": "Te Deseo Muy Felices Fiestas",
       "url": "https://open.spotify.com/track/7k14Hgdg2U6nM5cF2QtQYE"
-    },
-    {
-      "added_at": "2023-12-01 05:01:00",
-      "album": {
-        "name": "Laura Xmas (Deluxe)",
-        "url": "https://open.spotify.com/album/1F9v00h2yWamoUDrGCrsJ3"
-      },
-      "artists": [
-        {
-          "name": "Laura Pausini",
-          "url": "https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH"
-        },
-        {
-          "name": "Patrick Williams Orchestra",
-          "url": "https://open.spotify.com/artist/6Ls7jvEOGiaPP5smBdptcF"
-        }
-      ],
-      "duration_ms": 181146,
-      "name": "Va a nevar (with the Patrick Williams Orchestra)",
-      "url": "https://open.spotify.com/track/0lsfg3xlaWdXtRqVKMpq5z"
     }
   ],
   "unique_name": "Latin Christmas Classics",

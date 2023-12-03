@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzQ2Vx5M6uV.md) - [plain]
 
 > Bringing you the hottest collaborations between Afro & Latin artists\. Cover: Feid & Rema
 
-[Spotify](https://open.spotify.com/user/spotify) - 115,064 likes - 70 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 115,075 likes - 70 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzQ2Vx5M6uV.md) - [plain]
 | 65 | [Toko Challenge](https://open.spotify.com/track/4AkvzAhFnq7IDTHn5SXQY0) | [DJ Flex](https://open.spotify.com/artist/6CDGm9cf1yeCLD147Zs125), [Kreatunez](https://open.spotify.com/artist/1m4eSszfpkM2qznh5FeUKv) | [Toko Challenge](https://open.spotify.com/album/6mupZJ1WPJMhR2BPJo0kRN) | 1:38 |
 | 66 | [MAMACITA](https://open.spotify.com/track/7oTYzZLBjl9krOfHNNrV7n) | [Natalia Paris](https://open.spotify.com/artist/2XRXFHC8h6orLpqNySkeo0), [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1) | [MAMACITA](https://open.spotify.com/album/79T2dvhr64LX3IQM29QQyP) | 4:17 |
 | 67 | [Vámonos](https://open.spotify.com/track/2PkLYoUAu7a4Aa6Tek3htO) | [Oliver Kid](https://open.spotify.com/artist/2GAntPIbrC47uOoCNVnDPG) | [Vámonos](https://open.spotify.com/album/66fSW4LgnWuVk0SQwTwOjz) | 2:01 |
-| 68 | [Cheza Kama Wewe](https://open.spotify.com/track/4NAhcKp6YtMDRAMH4UeUE5) | [Trio Mio](https://open.spotify.com/artist/1YSv5pS7iY49Ech2SfHryX), [Mejja](https://open.spotify.com/artist/5VnDOE1MEaJ0VOgSypOi3u), [Exray](https://open.spotify.com/artist/0jEAvweUh4N7mXYMDkRTQo), [Nellythegoon](https://open.spotify.com/artist/33ypECIxCzdSYfzysHmrH7) | [Son of the City](https://open.spotify.com/album/7sQ6TFEEb8N88lvV6NE8OS) | 5:34 |
-| 69 | [Like A Queen \- 2023 Remasterizado](https://open.spotify.com/track/7LqBm569RxBvwKwSsyc84u) | [SAID](https://open.spotify.com/artist/23L97OPEAL99fR1xI70qVf), [Ric Hassani](https://open.spotify.com/artist/5twTCOm58CXYCqCny4gYcQ) | [Waremu](https://open.spotify.com/album/7axGk6fGopyn8YlvKFGVKm) | 2:39 |
+| 68 | [Like A Queen \- 2023 Remasterizado](https://open.spotify.com/track/7LqBm569RxBvwKwSsyc84u) | [SAID](https://open.spotify.com/artist/23L97OPEAL99fR1xI70qVf), [Ric Hassani](https://open.spotify.com/artist/5twTCOm58CXYCqCny4gYcQ) | [Waremu](https://open.spotify.com/album/7axGk6fGopyn8YlvKFGVKm) | 2:39 |
+| 69 | [Cheza Kama Wewe](https://open.spotify.com/track/4NAhcKp6YtMDRAMH4UeUE5) | [Trio Mio](https://open.spotify.com/artist/1YSv5pS7iY49Ech2SfHryX), [Mejja](https://open.spotify.com/artist/5VnDOE1MEaJ0VOgSypOi3u), [Exray](https://open.spotify.com/artist/0jEAvweUh4N7mXYMDkRTQo), [Nellythegoon](https://open.spotify.com/artist/33ypECIxCzdSYfzysHmrH7) | [Son of the City](https://open.spotify.com/album/7sQ6TFEEb8N88lvV6NE8OS) | 5:34 |
 | 70 | [Diggy Dee \- Remix](https://open.spotify.com/track/6WRoMvvjhKsJjWJHXNJxtq) | [Charly Black](https://open.spotify.com/artist/5sK8BsvyDl4TFA6KaBf8or), [Sak Noel](https://open.spotify.com/artist/15jrieCvf3EklAScnD9kKl), [Cali Y El Dandee](https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK), [Tarik Jazzy T Thompson](https://open.spotify.com/artist/6sFoObgl1BzplimWTBt6sD) | [Diggy Dee \(Remix\)](https://open.spotify.com/album/1gcCnNk1xuCmeHW0v62ZoN) | 3:16 |
 
-Snapshot ID: `MCxkZWEwZjk5YzJjMmRkNGIwOWMxNWQ4Mjk4OGFkZWMyMzYzZDYzZDIw`
+Snapshot ID: `MCxiMjY3NDI4ODZjODIyN2RhZGYzNDJmZjIwYzRmYjc1ODY1MWQwNmNm`

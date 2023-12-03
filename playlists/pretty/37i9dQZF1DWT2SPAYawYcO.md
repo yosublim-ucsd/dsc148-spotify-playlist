@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 
 > The best new songs of the week! Cover: Tyla
 
-[Spotify](https://open.spotify.com/user/spotify) - 368,560 likes - 80 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 368,644 likes - 80 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 | 79 | [Stay](https://open.spotify.com/track/4B3IN8Sixp7nToUW7AF3Zx) | [Eliza Hull](https://open.spotify.com/artist/1zccMq9Jsy1X4Cs6uQ1T4M) | [Here They Come](https://open.spotify.com/album/0xFyzrWzYYyRD5H8eVW8QO) | 4:12 |
 | 80 | [Secretos](https://open.spotify.com/track/6FWDSgdRdHt95oazOAmnU4) | [Jalmar](https://open.spotify.com/artist/48cWJwip5jzPIDK9kL2KYb) | [Secretos](https://open.spotify.com/album/7Hr7k6izlyGLmDGYxMfvku) | 2:21 |
 
-Snapshot ID: `MCxiNmI1NDg4OTVjZTRjMTA2ZGQyMGJjMjI4NGIzM2VlOTYyNDM1Yjg2`
+Snapshot ID: `MCw5NGMyZTU3MzM4NTkwNTUyODk1NjMxNDBiNGU5ZDg2NjdiMGFiZjA4`

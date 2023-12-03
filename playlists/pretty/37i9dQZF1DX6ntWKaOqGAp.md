@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ntWKaOqGAp.md) - [plain]
 
 > 日本ロックシーンの最新話題曲をひとつのプレイリストに。Cover: King Gnu
 
-[Spotify](https://open.spotify.com/user/spotify) - 230,737 likes - 100 songs - 6 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 230,838 likes - 100 songs - 6 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ntWKaOqGAp.md) - [plain]
 | 99 | [Maybe I should die with you](https://open.spotify.com/track/1SUUK6C8DAteFfcOygsdJo) | [HOME](https://open.spotify.com/artist/05TvJ2uTExkaxykVebDcJB) | [Maybe I should die with you](https://open.spotify.com/album/0FEkgIsDVj9Aeyd1iApTG3) | 5:35 |
 | 100 | [SweetSweet](https://open.spotify.com/track/7LgPH3O0HkHYo5IJBcwpTG) | [Puffy AmiYumi](https://open.spotify.com/artist/2wPaW7JIZGyM16donpyBmW) | [SweetSweet](https://open.spotify.com/album/3GeS61a2vvPT50oKHaOoIv) | 4:20 |
 
-Snapshot ID: `MCxlNjMyZjBiNzNiOWY5YTk3OThkNGZlZDE0M2Y0MjVlMDM1MGFkOWU0`
+Snapshot ID: `MCxkNDYzODFjODczMGZiMDAxOWU4NTI1M2Y1Mzk1NGM1NDZmOWVhZThi`

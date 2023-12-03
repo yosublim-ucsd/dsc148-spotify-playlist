@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2SiqF4iBnmO.md) - [plain]
 
 > A more than 40 years spanning collection of multi\-genre music produced on a TR\-808 drum machine\. Cover: Egyptian Lover
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,263 likes - 50 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,301 likes - 50 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2SiqF4iBnmO.md) - [plain]
 | 49 | [Jack Your Body \- 1986 Club Mix](https://open.spotify.com/track/10QGhgqQm0I2Y9maxrM7T6) | [Steve "Silk" Hurley](https://open.spotify.com/artist/2TzZ6XTFG1p1PAfhl0crDP) | [Jack Your Body \(S&S Reloaded\)](https://open.spotify.com/album/3UAvNbsdCDrUKyhp8YGfJT) | 5:06 |
 | 50 | [Chimes](https://open.spotify.com/track/7qvlZ1AbeqxzRJNYapMcNn) | [Hudson Mohawke](https://open.spotify.com/artist/6olWbKW2VLhFCHfOi0iEDb) | [Chimes](https://open.spotify.com/album/3WAiRvkJT19j7JbQBpCNfq) | 3:31 |
 
-Snapshot ID: `MCw4MTQ2N2UwZTQ1ZTU1MzYxMTJlNzFkMjNmYjI4M2M4NjE1MzI4NGIw`
+Snapshot ID: `MCwxMmM0MjE4NTdkZjc3ZWI2ZDdjMjNmMmU2YjNlN2I1Nzc3ZGRjNzli`

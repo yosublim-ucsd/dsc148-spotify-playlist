@@ -4,7 +4,7 @@
 
 > Warm and cozy Christmas Jazz to your hot cup of coffee.
 
-108 songs - 5 hr 32 min
+110 songs - 5 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,8 @@
 | [A Marshmallow World](https://open.spotify.com/track/5hI9PuH5lFpEryNVc7FImN) | [Tyler Yarema](https://open.spotify.com/artist/0KcV91K9QvNzCPxKq2K9yx), [Steve Wingfield](https://open.spotify.com/artist/2enPADqimWmAb5ovuXQihi), [Chris Gale](https://open.spotify.com/artist/0b8busMyBUGIilON3R2NJA) | [Tis the Season to Be Jazzy](https://open.spotify.com/album/02SiURFcsnXEBsgeBz8uWM) | 3:57 | 2023-11-28 |  |
 | [All I Want for Christmas Is You](https://open.spotify.com/track/6TEBBsOYc9k1zjKwxqXs2g) | [Owen Rochester Jazz](https://open.spotify.com/artist/7qYuRRLowPK759yfhiY1cS) | [All I Want for Christmas Is You](https://open.spotify.com/album/4iRFHTb6XezGA4iosFiYNu) | 3:36 | 2023-11-28 |  |
 | [Auld Lang Syne](https://open.spotify.com/track/3WkYaEvWFd4hSBpN0dszxb) | [Smiley Stevens](https://open.spotify.com/artist/21A0qF6ZfTP83m2MooWBRR) | [Christmas Jazz](https://open.spotify.com/album/5sjolOLoQFKJnGNOqHxSgl) | 2:07 | 2023-11-28 |  |
-| [Away in a Manger](https://open.spotify.com/track/3a4h07qqC9Sze6mO1PIy8A) | [Henrik Gunde](https://open.spotify.com/artist/5wV54RYtj1H3Jt5OVgjRHu), [Jesper Bodilsen](https://open.spotify.com/artist/1rWaPwUXLx3KlTmOcO66L2), [Morten Lund](https://open.spotify.com/artist/44ioweuAw5P80TwfcibcpP) | [Moods for Christmas](https://open.spotify.com/album/7tMX542vM15zwil5ox5K4q) | 4:13 | 2023-11-28 |  |
+| [Away in a Manger](https://open.spotify.com/track/3a4h07qqC9Sze6mO1PIy8A) | [Henrik Gunde](https://open.spotify.com/artist/5wV54RYtj1H3Jt5OVgjRHu), [Jesper Bodilsen](https://open.spotify.com/artist/1rWaPwUXLx3KlTmOcO66L2), [Morten Lund](https://open.spotify.com/artist/44ioweuAw5P80TwfcibcpP) | [Moods for Christmas](https://open.spotify.com/album/7tMX542vM15zwil5ox5K4q) | 4:13 | 2023-11-28 | 2023-12-03 |
+| [Away in a Manger](https://open.spotify.com/track/4tC5KnbzFQkCidMADdGwIX) | [Henrik Gunde](https://open.spotify.com/artist/5wV54RYtj1H3Jt5OVgjRHu), [Jesper Bodilsen](https://open.spotify.com/artist/1rWaPwUXLx3KlTmOcO66L2), [Morten Lund](https://open.spotify.com/artist/44ioweuAw5P80TwfcibcpP) | [Moods for Christmas](https://open.spotify.com/album/3fglg7fc84GufShnpi7Zcs) | 4:13 | 2023-11-28 |  |
 | [Baby, It's Cold Outside](https://open.spotify.com/track/4MrfQL4TYQXJBlZYpAHTuE) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [A Winter Romance](https://open.spotify.com/album/5I48ENiZiaZZSOpec6PdS5) | 2:23 | 2023-11-28 |  |
 | [Better Than Snow](https://open.spotify.com/track/74H6uHl17HLeYWshgDfMrX) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N), [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Christmas With You](https://open.spotify.com/album/2cWrkknTj4squbs2aANuHp) | 2:46 | 2023-11-28 |  |
 | [Blue Christmas](https://open.spotify.com/track/0WrDh2nISMe25DoIPp4ecy) | [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT) | [Merry Christmas, Baby](https://open.spotify.com/album/7mcyR9Z35tlZoa0nC7PnuH) | 3:27 | 2023-11-28 |  |
@@ -65,7 +66,8 @@
 | [Jolly Holiday](https://open.spotify.com/track/1nNmGXc4dcQHvteyiwjWv9) | [More than Jazz](https://open.spotify.com/artist/6BLANsh44CPzD19TF0X0Et) | [Jolly Holiday](https://open.spotify.com/album/6Bq0rkBNkUOFwGwMCPFHuN) | 3:18 | 2023-11-28 |  |
 | [Jolly o Saint Nicholas](https://open.spotify.com/track/5Pa27K698CV7L9NQeSnl1r) | [Sean Murphy](https://open.spotify.com/artist/3tYPwi8YXV9PTnt445WJKq) | [Jolly o Saint Nicholas](https://open.spotify.com/album/5KCRUecT6gFJXQ6lYO0IPJ) | 2:18 | 2023-11-28 |  |
 | [Last Christmas](https://open.spotify.com/track/2E55IaqlqMsF0NxU7oIIpC) | [Armel Dupas Trio](https://open.spotify.com/artist/6Bnvdx2Rqxe2ewzFxObRdU) | [Jingle Bells](https://open.spotify.com/album/4MC3Lul2Dm1ooAtGVARP0a) | 3:45 | 2023-11-28 |  |
-| [Let It Snow](https://open.spotify.com/track/7JW12NOgyjulvjyArdl7mt) | [Walt Weiskopf](https://open.spotify.com/artist/0tdWD3Wpf0kyUYI6zeT1w3) | [Let It Snow](https://open.spotify.com/album/3ABZH0SW7agqCG2Jb72Gjk) | 3:30 | 2023-11-28 |  |
+| [Let It Snow](https://open.spotify.com/track/5SDjkkDQNLMdfE4NzLfwfM) | [Walt Weiskopf](https://open.spotify.com/artist/0tdWD3Wpf0kyUYI6zeT1w3) | [European Quartet: A Little Christmas Music](https://open.spotify.com/album/4pXCSK1kVmRuvScTZ5q9mn) | 3:30 | 2023-11-28 |  |
+| [Let It Snow](https://open.spotify.com/track/7JW12NOgyjulvjyArdl7mt) | [Walt Weiskopf](https://open.spotify.com/artist/0tdWD3Wpf0kyUYI6zeT1w3) | [Let It Snow](https://open.spotify.com/album/3ABZH0SW7agqCG2Jb72Gjk) | 3:30 | 2023-11-28 | 2023-12-03 |
 | [Lost in the stars](https://open.spotify.com/track/7FGl7mrd84QlQAqNqfonVN) | [Flatland Park](https://open.spotify.com/artist/6xOql32xqR0X46QkNLCzPd) | [Lost in the stars](https://open.spotify.com/album/3RzCBEMpRWtRNtrIfLsPSc) | 3:03 | 2023-11-28 |  |
 | [Make Me a Present of You](https://open.spotify.com/track/09MXanUedyI3MBy3KXHxrk) | [Sissel](https://open.spotify.com/artist/2jaOpr7Go1avixlg1lfJOb) | [Reflections III Christmas](https://open.spotify.com/album/1fxObqAQsE5iz2lEWQwrL6) | 3:33 | 2023-11-28 |  |
 | [Mary's Boy Child](https://open.spotify.com/track/3C9YQp0it2R4rV1lp7p1n9) | [Dem Jazzophiliacs](https://open.spotify.com/artist/5387bdIuCYIoe0VO52TfPe) | [Mary's Boychild](https://open.spotify.com/album/57BaLpqMTYqUkMUXbaUzNi) | 3:30 | 2023-11-28 |  |

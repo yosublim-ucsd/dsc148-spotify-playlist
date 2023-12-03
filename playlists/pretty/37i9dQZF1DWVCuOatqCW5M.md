@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 
 > New music from popular Hindi artists\. Cover\- Madhur Sharma
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,396 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,434 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 | 8 | [Mere Sarkaar \(feat\. Ali Brothers, Raj Pandit & Shivam Bhardwaj\)](https://open.spotify.com/track/1xPvMc7UCIUxQ6GP2DIyng) | [Salim–Sulaiman](https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq), [Ali Brothers](https://open.spotify.com/artist/7j4bvaxcXA4ShJitAHfuBt), [Raj Pandit](https://open.spotify.com/artist/3UOrPjiw3UxtqP8ZoKR908), [Shivam Bhardwaj](https://open.spotify.com/artist/1jhRh4hiFlCDxzEnwDQrDA) | [Mere Sarkaar](https://open.spotify.com/album/57gn0V9OURh6d3Gg2BWGkL) | 6:49 |
 | 9 | [Har Justajoo](https://open.spotify.com/track/7tboJ9InTvLG87SqE6SavU) | [Tabish Ali](https://open.spotify.com/artist/36uVpSR1V6J4hf53SXQEga), [Sneha Shankar](https://open.spotify.com/artist/2K89AHztkLmFRfoKC6ySoT), [Himesh Reshammiya](https://open.spotify.com/artist/0sSxphmGskGCKlwB9xa6WU) | [Har Justajoo](https://open.spotify.com/album/4iGHM9fAnRyrM7xOwCgx7f) | 4:47 |
 | 10 | [Kajrare Naina](https://open.spotify.com/track/4ItvUdX2kzYCIHh7emNdWp) | [Gurashish Singh](https://open.spotify.com/artist/2HZX9rmB8FMz1C7Oq6q3Ir), [Antara Mitra](https://open.spotify.com/artist/2UwDJeoMqYers5Jmm75zm2), [Vidur Anand](https://open.spotify.com/artist/3PzaEhia9yDWE1BMmadPEL) | [Kajrare Naina](https://open.spotify.com/album/13vRTEy73vtmEIMlNlbdhm) | 3:40 |
-| 11 | [Muskan](https://open.spotify.com/track/3ZEmgsL1KUBrgjawKL4OTY) | [Dikshant](https://open.spotify.com/artist/0kTAB5SUakX286t6K7J3QR) | [Muskan](https://open.spotify.com/album/1Eq6kZv2CA6XRrV4nZlR40) | 3:08 |
+| 11 | [Muskan \- Acoustic](https://open.spotify.com/track/3ZEmgsL1KUBrgjawKL4OTY) | [Dikshant](https://open.spotify.com/artist/0kTAB5SUakX286t6K7J3QR) | [Muskan \(Acoustic\)](https://open.spotify.com/album/1Eq6kZv2CA6XRrV4nZlR40) | 3:08 |
 | 12 | [Aisi Teri Yaadein](https://open.spotify.com/track/0zQT8LBspIhHQ1RUFzTe5D) | [Jubin Nautiyal](https://open.spotify.com/artist/1tqysapcCh1lWEAc9dIFpa), [Rocky Khanna](https://open.spotify.com/artist/706HpBx83UlG2Shf6zTnSC) | [Aisi Teri Yaadein](https://open.spotify.com/album/7r6qLiVCn35vuJafG6JlNB) | 4:55 |
 | 13 | [In Raahon Mein \(From "The Archies"\)](https://open.spotify.com/track/25qNCxhu9VzFgcCPawszwh) | [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Shankar\-Ehsaan\-Loy](https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ), [Javed Akhtar](https://open.spotify.com/artist/3UpmjPgIFSGqnxXuiwD014) | [In Raahon Mein \(From "The Archies"\)](https://open.spotify.com/album/1QH9L2KybZAacyZODZyZ3n) | 3:03 |
 | 14 | [Ek Mulaqaat](https://open.spotify.com/track/6oEfERRKaPlIHpK8rFODjo) | [Javed\-Mohsin](https://open.spotify.com/artist/2zvJLk0gTH7r7A5Q6X5Bq8), [Vishal Mishra](https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Rashmi Virag](https://open.spotify.com/artist/5r2baeTwcCJnuIsDIlxUJo) | [Ek Mulaqaat](https://open.spotify.com/album/6NNvNQZoXHkqHYuD4xERjD) | 5:28 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 | 49 | [Meri Ho Ja](https://open.spotify.com/track/7z3e5trtKbiILn2bcxqKpr) | [Sachet Tandon](https://open.spotify.com/artist/6WOdPJmexxFINcKMkP2jMG), [Parampara Tandon](https://open.spotify.com/artist/1E6arsXf5Fgsnv9YpSzjpE), [Kumaar](https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk) | [Meri Ho Ja](https://open.spotify.com/album/4zy8E2oRVyGJseIcHk2hAQ) | 2:59 |
 | 50 | [Mere Khayaalon Mein](https://open.spotify.com/track/0rplzWEHSP90MNpERnF4zi) | [Armaan Malik](https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs), [Karan Kanchan](https://open.spotify.com/artist/5mZ0Ee8OG1U9c4Wv2FKqvs) | [ONLY JUST BEGUN](https://open.spotify.com/album/1syTR5kykgDXunaGMzxc2o) | 2:12 |
 
-Snapshot ID: `MCxhYmRkMWJiMGFlMzJkMTk0NGM2MmJjMjg4OThhMDkxZjA2ZjRkZDZk`
+Snapshot ID: `MCwxYzA3NWQzNDA4NzdmY2UyM2UxZTBkZmQ1ZDc1ODM2MTg4Njc1ZDNh`

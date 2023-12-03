@@ -111,6 +111,24 @@
     },
     {
       "album": {
+        "name": "Blessed",
+        "url": "https://open.spotify.com/album/5wyDRKWKtPq3znLWVOtUIk"
+      },
+      "artists": [
+        {
+          "name": "Victor Thompson",
+          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192029,
+      "name": "Carry me like Baby",
+      "url": "https://open.spotify.com/track/2g5uy0nM9DW0JJJLefJFgJ"
+    },
+    {
+      "album": {
         "name": "Conduis mes pas",
         "url": "https://open.spotify.com/album/3TxaM33oOiLSwIwS7JC15h"
       },
@@ -307,6 +325,24 @@
     },
     {
       "album": {
+        "name": "IMTHANDAZO YAMI",
+        "url": "https://open.spotify.com/album/2UEZeMkxZuHTmsL2umqtQY"
+      },
+      "artists": [
+        {
+          "name": "Lungelo Hlongwane",
+          "url": "https://open.spotify.com/artist/5tV1nKSYdBNGEBBAODXqrv"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316666,
+      "name": "IMTHANDAZO YAMI",
+      "url": "https://open.spotify.com/track/2PTqfW2JIhX1Rw4VykTbg4"
+    },
+    {
+      "album": {
         "name": "Ipo Siku",
         "url": "https://open.spotify.com/album/4XeVEyWo9UFsSGXfzuIu8C"
       },
@@ -396,7 +432,7 @@
       ],
       "date_added": "2022-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-03",
       "duration_ms": 221936,
       "name": "KELELE ZA USHINDI",
       "url": "https://open.spotify.com/track/7w80EEF4HgcsRHNT9fdMNQ"
@@ -1536,7 +1572,7 @@
       ],
       "date_added": "2022-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-03",
       "duration_ms": 261355,
       "name": "Upendo Wa Yesu",
       "url": "https://open.spotify.com/track/5vn3uwdsg6ymcQG7hY4oer"

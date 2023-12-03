@@ -1,12 +1,12 @@
 {
   "description": "The best Latin Indie tracks of today, featuring Simon Grossman.",
-  "num_followers": 155942,
+  "num_followers": 155951,
   "original_name": "Ultimate Latin Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ZDU2OTQ2M2EyODFjZDRjZmE2N2ZlZTExZGI5NmQ2OTQ0YWM1OTBm",
+  "snapshot_id": "MCw0NjFmYjg0NGM0ZDI2YzBmNDdhMjVmNWNlYzY0ZWVmNWQ5NmIzNDRm",
   "tracks": [
     {
       "added_at": "2023-12-01 05:01:00",
@@ -143,22 +143,6 @@
     {
       "added_at": "2023-12-01 05:01:00",
       "album": {
-        "name": "LOVELANGUAGE",
-        "url": "https://open.spotify.com/album/24EzuFTRRdDYt4ZX7djyio"
-      },
-      "artists": [
-        {
-          "name": "Nsqk",
-          "url": "https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu"
-        }
-      ],
-      "duration_ms": 224761,
-      "name": "LOVELANGUAGE",
-      "url": "https://open.spotify.com/track/5SuMst3sQt8wf94iGoXXLw"
-    },
-    {
-      "added_at": "2023-12-01 05:01:00",
-      "album": {
         "name": "mis compas tan aqu\u00ed",
         "url": "https://open.spotify.com/album/1JcpI1H2VNu2q9Gk3TjUJN"
       },
@@ -171,6 +155,22 @@
       "duration_ms": 230760,
       "name": "mis compas tan aqu\u00ed",
       "url": "https://open.spotify.com/track/10XdrDNjsIHsUjzHvDgB2X"
+    },
+    {
+      "added_at": "2023-12-01 05:01:00",
+      "album": {
+        "name": "LOVELANGUAGE",
+        "url": "https://open.spotify.com/album/24EzuFTRRdDYt4ZX7djyio"
+      },
+      "artists": [
+        {
+          "name": "Nsqk",
+          "url": "https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu"
+        }
+      ],
+      "duration_ms": 224761,
+      "name": "LOVELANGUAGE",
+      "url": "https://open.spotify.com/track/5SuMst3sQt8wf94iGoXXLw"
     },
     {
       "added_at": "2023-12-01 05:01:00",
@@ -683,6 +683,22 @@
     {
       "added_at": "2023-12-01 05:01:00",
       "album": {
+        "name": "Dime pa saber",
+        "url": "https://open.spotify.com/album/4UEhJl0egkIvQyRFMS6Egg"
+      },
+      "artists": [
+        {
+          "name": "Caloncho",
+          "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
+        }
+      ],
+      "duration_ms": 173680,
+      "name": "Dime pa saber",
+      "url": "https://open.spotify.com/track/1HF4LhWOji1ukadhdnC1Py"
+    },
+    {
+      "added_at": "2023-12-01 05:01:00",
+      "album": {
         "name": "Lo dejo",
         "url": "https://open.spotify.com/album/4j2vngdnmouFuKoANcvqdc"
       },
@@ -699,22 +715,6 @@
     {
       "added_at": "2023-12-01 05:01:00",
       "album": {
-        "name": "Ya No Es Lo Mismo",
-        "url": "https://open.spotify.com/album/60ks7eHWtmz6Wvbdx8k7DG"
-      },
-      "artists": [
-        {
-          "name": "Bratty",
-          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
-        }
-      ],
-      "duration_ms": 229573,
-      "name": "Ya No Es Lo Mismo",
-      "url": "https://open.spotify.com/track/3TNEAG1g4e32EyEzy7FqqC"
-    },
-    {
-      "added_at": "2023-12-01 05:01:00",
-      "album": {
         "name": "Presente",
         "url": "https://open.spotify.com/album/1KXUO7PewjHjEJfHyENj70"
       },
@@ -727,6 +727,22 @@
       "duration_ms": 312652,
       "name": "Presente",
       "url": "https://open.spotify.com/track/1CEySvaIp9SkDg4Kni0tb9"
+    },
+    {
+      "added_at": "2023-12-01 05:01:00",
+      "album": {
+        "name": "Ya No Es Lo Mismo",
+        "url": "https://open.spotify.com/album/60ks7eHWtmz6Wvbdx8k7DG"
+      },
+      "artists": [
+        {
+          "name": "Bratty",
+          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
+        }
+      ],
+      "duration_ms": 229573,
+      "name": "Ya No Es Lo Mismo",
+      "url": "https://open.spotify.com/track/3TNEAG1g4e32EyEzy7FqqC"
     },
     {
       "added_at": "2023-12-01 05:01:00",
@@ -779,22 +795,6 @@
     {
       "added_at": "2023-12-01 05:01:00",
       "album": {
-        "name": "Discoman\u00eda",
-        "url": "https://open.spotify.com/album/24sgoyMdfp46v2N1gYcN2K"
-      },
-      "artists": [
-        {
-          "name": "CLUBZ",
-          "url": "https://open.spotify.com/artist/6MoZZABXeQwEmzmcwICxwK"
-        }
-      ],
-      "duration_ms": 188933,
-      "name": "Discoman\u00eda",
-      "url": "https://open.spotify.com/track/3UXcPbwfPgYQjr7tH72p0Q"
-    },
-    {
-      "added_at": "2023-12-01 05:01:00",
-      "album": {
         "name": "LA RUTA NATURAL",
         "url": "https://open.spotify.com/album/3JgA2PPl6TmIWEC4C3f1sF"
       },
@@ -811,6 +811,22 @@
       "duration_ms": 197179,
       "name": "LA RUTA NATURAL",
       "url": "https://open.spotify.com/track/1BAc6iqnXXilFBKDaxXpSY"
+    },
+    {
+      "added_at": "2023-12-01 05:01:00",
+      "album": {
+        "name": "Discoman\u00eda",
+        "url": "https://open.spotify.com/album/24sgoyMdfp46v2N1gYcN2K"
+      },
+      "artists": [
+        {
+          "name": "CLUBZ",
+          "url": "https://open.spotify.com/artist/6MoZZABXeQwEmzmcwICxwK"
+        }
+      ],
+      "duration_ms": 188933,
+      "name": "Discoman\u00eda",
+      "url": "https://open.spotify.com/track/3UXcPbwfPgYQjr7tH72p0Q"
     },
     {
       "added_at": "2023-12-01 05:01:00",
@@ -871,22 +887,6 @@
     {
       "added_at": "2023-12-01 05:01:00",
       "album": {
-        "name": "Mexico",
-        "url": "https://open.spotify.com/album/7CgEURpwKsDNDDQ5NuFZgp"
-      },
-      "artists": [
-        {
-          "name": "Andrea Bejar",
-          "url": "https://open.spotify.com/artist/5l3g6Xp8KQE4prw9hk6rQ8"
-        }
-      ],
-      "duration_ms": 220853,
-      "name": "Mexico",
-      "url": "https://open.spotify.com/track/4ix1Sthfg7xwrDwM0Zj53k"
-    },
-    {
-      "added_at": "2023-12-01 05:01:00",
-      "album": {
         "name": "Mi vida en llamas (feat. Buscabulla)",
         "url": "https://open.spotify.com/album/7q70ajI1NZeBm8FIpLACy5"
       },
@@ -903,6 +903,22 @@
       "duration_ms": 288624,
       "name": "Mi vida en llamas (feat. Buscabulla)",
       "url": "https://open.spotify.com/track/79kbKtYtvrxWq2Zig0gtBK"
+    },
+    {
+      "added_at": "2023-12-01 05:01:00",
+      "album": {
+        "name": "Mexico",
+        "url": "https://open.spotify.com/album/7CgEURpwKsDNDDQ5NuFZgp"
+      },
+      "artists": [
+        {
+          "name": "Andrea Bejar",
+          "url": "https://open.spotify.com/artist/5l3g6Xp8KQE4prw9hk6rQ8"
+        }
+      ],
+      "duration_ms": 220853,
+      "name": "Mexico",
+      "url": "https://open.spotify.com/track/4ix1Sthfg7xwrDwM0Zj53k"
     },
     {
       "added_at": "2023-12-01 05:01:00",
@@ -951,6 +967,22 @@
       "duration_ms": 150347,
       "name": "Tengo Que Hacer Esto Por Mi",
       "url": "https://open.spotify.com/track/02OUZnvRW1EChAL8EyPHWj"
+    },
+    {
+      "added_at": "2023-12-01 05:01:00",
+      "album": {
+        "name": "Tarde o Temprano",
+        "url": "https://open.spotify.com/album/5MVlQJ6WnmXjzje3ruMLvS"
+      },
+      "artists": [
+        {
+          "name": "El Zar",
+          "url": "https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi"
+        }
+      ],
+      "duration_ms": 213127,
+      "name": "Tarde o Temprano",
+      "url": "https://open.spotify.com/track/7CJbGTWfMlNYkhk2MgBfde"
     },
     {
       "added_at": "2023-12-01 05:01:00",
@@ -1031,22 +1063,6 @@
     {
       "added_at": "2023-12-01 05:01:00",
       "album": {
-        "name": "Dime pa saber",
-        "url": "https://open.spotify.com/album/4UEhJl0egkIvQyRFMS6Egg"
-      },
-      "artists": [
-        {
-          "name": "Caloncho",
-          "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
-        }
-      ],
-      "duration_ms": 173680,
-      "name": "Dime pa saber",
-      "url": "https://open.spotify.com/track/1HF4LhWOji1ukadhdnC1Py"
-    },
-    {
-      "added_at": "2023-12-01 05:01:00",
-      "album": {
         "name": "Siempre Tendr\u00e9 Mi Voz",
         "url": "https://open.spotify.com/album/2c8dGA6npi8KtLB8fJqFr4"
       },
@@ -1099,6 +1115,22 @@
     {
       "added_at": "2023-12-01 05:01:00",
       "album": {
+        "name": "Last Spa on Earth",
+        "url": "https://open.spotify.com/album/0Wcevqdyy01R4lGtAYoleB"
+      },
+      "artists": [
+        {
+          "name": "Divino Ni\u00f1o",
+          "url": "https://open.spotify.com/artist/2O2KJngZ80ZTK71HamDNYi"
+        }
+      ],
+      "duration_ms": 185350,
+      "name": "XO",
+      "url": "https://open.spotify.com/track/7Hv1cgxfZs6pswYKvh0tDJ"
+    },
+    {
+      "added_at": "2023-12-01 05:01:00",
+      "album": {
         "name": "M\u00e1quina Del Tiempo",
         "url": "https://open.spotify.com/album/5XoNFY7hjKE1aM7u7mVArg"
       },
@@ -1115,22 +1147,6 @@
       "duration_ms": 213893,
       "name": "M\u00e1quina Del Tiempo",
       "url": "https://open.spotify.com/track/20YoweYFRfAUHKIIDleCQF"
-    },
-    {
-      "added_at": "2023-12-01 05:01:00",
-      "album": {
-        "name": "Last Spa on Earth",
-        "url": "https://open.spotify.com/album/0Wcevqdyy01R4lGtAYoleB"
-      },
-      "artists": [
-        {
-          "name": "Divino Ni\u00f1o",
-          "url": "https://open.spotify.com/artist/2O2KJngZ80ZTK71HamDNYi"
-        }
-      ],
-      "duration_ms": 185350,
-      "name": "XO",
-      "url": "https://open.spotify.com/track/7Hv1cgxfZs6pswYKvh0tDJ"
     },
     {
       "added_at": "2023-12-01 05:01:00",
@@ -1295,34 +1311,22 @@
     {
       "added_at": "2023-12-01 05:01:00",
       "album": {
-        "name": "TQD",
-        "url": "https://open.spotify.com/album/2oHIws9KI1JMfmbzmNEXoA"
+        "name": "Dos Cordilleras",
+        "url": "https://open.spotify.com/album/5sqTnSZ1d0SOyoWbR1YjKA"
       },
       "artists": [
         {
-          "name": "Mola Mola",
-          "url": "https://open.spotify.com/artist/0GvoilgXudnVgLkkxYCttN"
-        }
-      ],
-      "duration_ms": 200022,
-      "name": "TQD",
-      "url": "https://open.spotify.com/track/3nY5WkZfpPbEesL0suAVqq"
-    },
-    {
-      "added_at": "2023-12-01 05:01:00",
-      "album": {
-        "name": "Figuras",
-        "url": "https://open.spotify.com/album/5cH7GXKeC0mUJWy62BIxMH"
-      },
-      "artists": [
+          "name": "Mec\u00e1nico",
+          "url": "https://open.spotify.com/artist/2oUsBhAi9Mac4BjHxt55ct"
+        },
         {
-          "name": "Sobrino",
-          "url": "https://open.spotify.com/artist/0vEEYg1cJscAAw4sekHSOf"
+          "name": "1915",
+          "url": "https://open.spotify.com/artist/4jwnlVc9Lj5vMkL32978d1"
         }
       ],
-      "duration_ms": 179032,
-      "name": "Figuras",
-      "url": "https://open.spotify.com/track/1zJkQGqGV18m02keJa2X7n"
+      "duration_ms": 164433,
+      "name": "Brillas en la Pista",
+      "url": "https://open.spotify.com/track/07VHlK0Hmov13F7b6cEKMt"
     }
   ],
   "unique_name": "Ultimate Latin Indie",

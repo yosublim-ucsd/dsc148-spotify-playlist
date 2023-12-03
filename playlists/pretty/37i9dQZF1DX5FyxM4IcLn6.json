@@ -1,12 +1,12 @@
 {
   "description": "The official playlist for the 64th GRAMMY Awards.",
-  "num_followers": 126606,
+  "num_followers": 126626,
   "original_name": "The GRAMMYs Official Playlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYjlkNjE5ZWEzYjRhOGRiM2RmNzZjZWM4YmQ4MGI4ZDZmNWM4NTQ5",
+  "snapshot_id": "MCw1NTFhNDE5Mzk5ZmZjNDdhOGVhZWQ2ZWRlZjk4ODNkZjRmOTkyM2Rm",
   "tracks": [
     {
       "added_at": "2023-11-10 16:50:05",
@@ -247,6 +247,22 @@
     {
       "added_at": "2023-11-10 16:50:05",
       "album": {
+        "name": "Gettin' Old",
+        "url": "https://open.spotify.com/album/5Uly85dJHHDfHQCsyUQ8gw"
+      },
+      "artists": [
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "duration_ms": 265493,
+      "name": "Fast Car",
+      "url": "https://open.spotify.com/track/1Lo0QY9cvc8sUB2vnIOxDT"
+    },
+    {
+      "added_at": "2023-11-10 16:50:05",
+      "album": {
         "name": "Barbie World (with Aqua) [From Barbie The Album]",
         "url": "https://open.spotify.com/album/5CM66hwjlbZ06LhONWXOAs"
       },
@@ -267,22 +283,6 @@
       "duration_ms": 109750,
       "name": "Barbie World (with Aqua) [From Barbie The Album]",
       "url": "https://open.spotify.com/track/741UUVE2kuITl0c6zuqqbO"
-    },
-    {
-      "added_at": "2023-11-10 16:50:05",
-      "album": {
-        "name": "Gettin' Old",
-        "url": "https://open.spotify.com/album/5Uly85dJHHDfHQCsyUQ8gw"
-      },
-      "artists": [
-        {
-          "name": "Luke Combs",
-          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
-        }
-      ],
-      "duration_ms": 265493,
-      "name": "Fast Car",
-      "url": "https://open.spotify.com/track/1Lo0QY9cvc8sUB2vnIOxDT"
     },
     {
       "added_at": "2023-11-10 16:50:05",
@@ -795,6 +795,22 @@
     {
       "added_at": "2023-11-10 16:50:05",
       "album": {
+        "name": "Whitsitt Chapel",
+        "url": "https://open.spotify.com/album/2v1Lb9hidHkvvlIXYzSmeZ"
+      },
+      "artists": [
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        }
+      ],
+      "duration_ms": 197400,
+      "name": "Need A Favor",
+      "url": "https://open.spotify.com/track/07on0OB2cdPt79IFsgdRUy"
+    },
+    {
+      "added_at": "2023-11-10 16:50:05",
+      "album": {
         "name": "SATURNO",
         "url": "https://open.spotify.com/album/5AcRssiG0Zqu3lqYW7hMoM"
       },
@@ -831,22 +847,6 @@
     {
       "added_at": "2023-11-10 16:50:05",
       "album": {
-        "name": "Whitsitt Chapel",
-        "url": "https://open.spotify.com/album/2v1Lb9hidHkvvlIXYzSmeZ"
-      },
-      "artists": [
-        {
-          "name": "Jelly Roll",
-          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
-        }
-      ],
-      "duration_ms": 197400,
-      "name": "Need A Favor",
-      "url": "https://open.spotify.com/track/07on0OB2cdPt79IFsgdRUy"
-    },
-    {
-      "added_at": "2023-11-10 16:50:05",
-      "album": {
         "name": "Black Panther: Wakanda Forever - Music From and Inspired By",
         "url": "https://open.spotify.com/album/06RK0wX4GqHcxBtHlVoGH5"
       },
@@ -859,22 +859,6 @@
       "duration_ms": 221746,
       "name": "Alone",
       "url": "https://open.spotify.com/track/0AoBY2Y3qs6dtGgOD6c91N"
-    },
-    {
-      "added_at": "2023-11-10 16:50:05",
-      "album": {
-        "name": "Don Juan",
-        "url": "https://open.spotify.com/album/3Fk8yQvPlCHgwR2pNhEIRA"
-      },
-      "artists": [
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        }
-      ],
-      "duration_ms": 166734,
-      "name": "COCO LOCO",
-      "url": "https://open.spotify.com/track/0XjX9s0XWOKZc8PLuW02wJ"
     },
     {
       "added_at": "2023-11-10 16:50:05",
@@ -895,6 +879,22 @@
       "duration_ms": 193463,
       "name": "Tormenta (feat. Bad Bunny)",
       "url": "https://open.spotify.com/track/38UYeBLfvpnDSG9GznZdnL"
+    },
+    {
+      "added_at": "2023-11-10 16:50:05",
+      "album": {
+        "name": "Don Juan",
+        "url": "https://open.spotify.com/album/3Fk8yQvPlCHgwR2pNhEIRA"
+      },
+      "artists": [
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "duration_ms": 166734,
+      "name": "COCO LOCO",
+      "url": "https://open.spotify.com/track/0XjX9s0XWOKZc8PLuW02wJ"
     },
     {
       "added_at": "2023-11-10 16:50:05",
@@ -1035,6 +1035,22 @@
     {
       "added_at": "2023-11-10 16:50:05",
       "album": {
+        "name": "Bell Bottom Country",
+        "url": "https://open.spotify.com/album/06q6BDUpP6OS8Xnx3YC2M0"
+      },
+      "artists": [
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        }
+      ],
+      "duration_ms": 199040,
+      "name": "Heart Like A Truck",
+      "url": "https://open.spotify.com/track/5DIBVDJOHh7djepAjKHWCO"
+    },
+    {
+      "added_at": "2023-11-10 16:50:05",
+      "album": {
         "name": "Rumble",
         "url": "https://open.spotify.com/album/6YVJQPJNzHbqgBblpMSPUi"
       },
@@ -1083,22 +1099,6 @@
       "duration_ms": 220408,
       "name": "Another One Of Me (feat. 21 Savage)",
       "url": "https://open.spotify.com/track/4hGmQboiou09EwhcTWa0H6"
-    },
-    {
-      "added_at": "2023-11-10 16:50:05",
-      "album": {
-        "name": "Bell Bottom Country",
-        "url": "https://open.spotify.com/album/06q6BDUpP6OS8Xnx3YC2M0"
-      },
-      "artists": [
-        {
-          "name": "Lainey Wilson",
-          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
-        }
-      ],
-      "duration_ms": 199040,
-      "name": "Heart Like A Truck",
-      "url": "https://open.spotify.com/track/5DIBVDJOHh7djepAjKHWCO"
     },
     {
       "added_at": "2023-11-10 16:50:05",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2023-11-10 16:50:05",
       "album": {
-        "name": "Summer Too Hot",
-        "url": "https://open.spotify.com/album/379BJxUOZlfM3UoGjrDpZN"
-      },
-      "artists": [
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        }
-      ],
-      "duration_ms": 188504,
-      "name": "Summer Too Hot",
-      "url": "https://open.spotify.com/track/7g6FlLHxbVqMi1s7S8tDTp"
-    },
-    {
-      "added_at": "2023-11-10 16:50:05",
-      "album": {
         "name": "What I Didn\u2019t Tell You (Deluxe)",
         "url": "https://open.spotify.com/album/0P7argSEQG9otkeG3welvZ"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 241624,
       "name": "ICU",
       "url": "https://open.spotify.com/track/3tpI98Yae25hSvhh6mitA9"
+    },
+    {
+      "added_at": "2023-11-10 16:50:05",
+      "album": {
+        "name": "Summer Too Hot",
+        "url": "https://open.spotify.com/album/379BJxUOZlfM3UoGjrDpZN"
+      },
+      "artists": [
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        }
+      ],
+      "duration_ms": 188504,
+      "name": "Summer Too Hot",
+      "url": "https://open.spotify.com/track/7g6FlLHxbVqMi1s7S8tDTp"
     },
     {
       "added_at": "2023-11-10 16:50:05",
@@ -1355,6 +1355,22 @@
     {
       "added_at": "2023-11-10 16:50:05",
       "album": {
+        "name": "Starcatcher",
+        "url": "https://open.spotify.com/album/7i1NJXQNNFZPyjE0W3GPgE"
+      },
+      "artists": [
+        {
+          "name": "Greta Van Fleet",
+          "url": "https://open.spotify.com/artist/4NpFxQe2UvRCAjto3JqlSl"
+        }
+      ],
+      "duration_ms": 312084,
+      "name": "Meeting The Master",
+      "url": "https://open.spotify.com/track/6jXwOrrBoutMICNxckeDNQ"
+    },
+    {
+      "added_at": "2023-11-10 16:50:05",
+      "album": {
         "name": "Strong",
         "url": "https://open.spotify.com/album/4feYoBaeQJUrYygOD4A0DF"
       },
@@ -1375,22 +1391,6 @@
     {
       "added_at": "2023-11-10 16:50:05",
       "album": {
-        "name": "Starcatcher",
-        "url": "https://open.spotify.com/album/7i1NJXQNNFZPyjE0W3GPgE"
-      },
-      "artists": [
-        {
-          "name": "Greta Van Fleet",
-          "url": "https://open.spotify.com/artist/4NpFxQe2UvRCAjto3JqlSl"
-        }
-      ],
-      "duration_ms": 312084,
-      "name": "Meeting The Master",
-      "url": "https://open.spotify.com/track/6jXwOrrBoutMICNxckeDNQ"
-    },
-    {
-      "added_at": "2023-11-10 16:50:05",
-      "album": {
         "name": "JAGUAR II",
         "url": "https://open.spotify.com/album/6WlGOgNNtpwFt2gfRFfqgZ"
       },
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2023-11-10 16:50:05",
       "album": {
-        "name": "Alchemy",
-        "url": "https://open.spotify.com/album/5RMkjbbZvLo9TNdpKrmP71"
-      },
-      "artists": [
-        {
-          "name": "Disclosure",
-          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
-        }
-      ],
-      "duration_ms": 196598,
-      "name": "Higher Than Ever Before",
-      "url": "https://open.spotify.com/track/0H2idlyIDxyotmpAJ2NUeh"
-    },
-    {
-      "added_at": "2023-11-10 16:50:05",
-      "album": {
         "name": "Rolling Up the Welcome Mat (For Good)",
         "url": "https://open.spotify.com/album/09eLFhImEeeEDKlaLznMOv"
       },
@@ -1435,6 +1419,22 @@
       "duration_ms": 177920,
       "name": "Mountain With A View",
       "url": "https://open.spotify.com/track/3Uq2F5YXXDui1m55h7r6JF"
+    },
+    {
+      "added_at": "2023-11-10 16:50:05",
+      "album": {
+        "name": "Alchemy",
+        "url": "https://open.spotify.com/album/5RMkjbbZvLo9TNdpKrmP71"
+      },
+      "artists": [
+        {
+          "name": "Disclosure",
+          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
+        }
+      ],
+      "duration_ms": 196598,
+      "name": "Higher Than Ever Before",
+      "url": "https://open.spotify.com/track/0H2idlyIDxyotmpAJ2NUeh"
     },
     {
       "added_at": "2023-11-10 16:50:05",
@@ -1919,22 +1919,6 @@
     {
       "added_at": "2023-11-10 16:50:05",
       "album": {
-        "name": "Loading",
-        "url": "https://open.spotify.com/album/5WMlWqo2YEO7g6e6TuNSC0"
-      },
-      "artists": [
-        {
-          "name": "James Blake",
-          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
-        }
-      ],
-      "duration_ms": 284551,
-      "name": "Loading",
-      "url": "https://open.spotify.com/track/2wueg8zb5SSaSxCyUpcKRJ"
-    },
-    {
-      "added_at": "2023-11-10 16:50:05",
-      "album": {
         "name": "Back To Love [Feat. SiR & Alex Isley]",
         "url": "https://open.spotify.com/album/0MZOBJmTVwcxhlAkVmuhN7"
       },
@@ -1955,6 +1939,22 @@
       "duration_ms": 201773,
       "name": "Back To Love [Feat. SiR & Alex Isley]",
       "url": "https://open.spotify.com/track/5Szrve8Y2ly9uxZupBIwgg"
+    },
+    {
+      "added_at": "2023-11-10 16:50:05",
+      "album": {
+        "name": "Loading",
+        "url": "https://open.spotify.com/album/5WMlWqo2YEO7g6e6TuNSC0"
+      },
+      "artists": [
+        {
+          "name": "James Blake",
+          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
+        }
+      ],
+      "duration_ms": 284551,
+      "name": "Loading",
+      "url": "https://open.spotify.com/track/2wueg8zb5SSaSxCyUpcKRJ"
     },
     {
       "added_at": "2023-11-10 16:50:05",
@@ -2463,6 +2463,26 @@
     {
       "added_at": "2023-11-10 16:50:05",
       "album": {
+        "name": "Emanuel",
+        "url": "https://open.spotify.com/album/2DuS6uvoK6uVj2mriZiY3G"
+      },
+      "artists": [
+        {
+          "name": "Da' T.R.U.T.H.",
+          "url": "https://open.spotify.com/artist/2ISIE0MEDMdAF2LDMLrVD4"
+        },
+        {
+          "name": "PJ Morton",
+          "url": "https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7"
+        }
+      ],
+      "duration_ms": 253706,
+      "name": "Grey Hair",
+      "url": "https://open.spotify.com/track/2DV4aaQyV6QNQx8Iylvrsq"
+    },
+    {
+      "added_at": "2023-11-10 16:50:05",
+      "album": {
         "name": "Abundance in Millets",
         "url": "https://open.spotify.com/album/64Q543xillJ1neC5efMMmf"
       },
@@ -2483,26 +2503,6 @@
       "duration_ms": 271626,
       "name": "Abundance in Millets",
       "url": "https://open.spotify.com/track/1GgKK2siV6qwZ6dyifH8lY"
-    },
-    {
-      "added_at": "2023-11-10 16:50:05",
-      "album": {
-        "name": "Emanuel",
-        "url": "https://open.spotify.com/album/2DuS6uvoK6uVj2mriZiY3G"
-      },
-      "artists": [
-        {
-          "name": "Da' T.R.U.T.H.",
-          "url": "https://open.spotify.com/artist/2ISIE0MEDMdAF2LDMLrVD4"
-        },
-        {
-          "name": "PJ Morton",
-          "url": "https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7"
-        }
-      ],
-      "duration_ms": 253706,
-      "name": "Grey Hair",
-      "url": "https://open.spotify.com/track/2DV4aaQyV6QNQx8Iylvrsq"
     },
     {
       "added_at": "2023-11-10 16:50:05",

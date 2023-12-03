@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU1owuN89XHr.md) - [plain]
 
 > Historias y versos que tocan la piel.
 
-[Spotify](https://open.spotify.com/user/spotify) - 269,876 likes - 100 songs - 6 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 269,923 likes - 100 songs - 6 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,8 +98,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU1owuN89XHr.md) - [plain]
 | 88 | [Como la Nube Se Impone al Sol \(feat\. Pablo Milanés\)](https://open.spotify.com/track/3o3C8LS7yWWnsAzaUam15K) | [Eliades Ochoa](https://open.spotify.com/artist/0hXHTWhBUEpkyHJ0GnghEH), [Pablo Milanés](https://open.spotify.com/artist/4vOfKh5wz7lTcdqB3EwsC5) | [Vamos a Bailar un Son \(Special Edition\)](https://open.spotify.com/album/7HLQ5ZFtSAReHF5veBMO6d) | 3:09 |
 | 89 | [La Flor Y El Abejorro](https://open.spotify.com/track/5ayFCv4dbmkQFPvFNpZkic) | [Zuaraz](https://open.spotify.com/artist/4TtZLRWNlqoLHQXJLIU8Ch) | [La Flor Y El Abejorro](https://open.spotify.com/album/5B0THhKW16oWizjRO15lI6) | 4:09 |
 | 90 | [Todos los ojos te miran \(feat\. Chico Buarque\)](https://open.spotify.com/track/1sWWb3JaGaoHGYoAs6ZAgu) | [Haydée Milanés](https://open.spotify.com/artist/7hipjiOrcrv8qHhmacIPwG), [Chico Buarque](https://open.spotify.com/artist/6tOsSffQQIXmK8TqsDck8t) | [AMOR Haydée Milanés a dúo con Pablo Milanés \(EDICIÓN DELUXE\)](https://open.spotify.com/album/3ytIR3b4QHTDgreNs5bDzU) | 4:13 |
-| 91 | [Su Nombre Es Pueblo](https://open.spotify.com/track/64MUU7LMzHHiPW39fKbq5D) | [Sara González](https://open.spotify.com/artist/7a3lOYCTYfMaiFmINk1V0R) | [Evolucion](https://open.spotify.com/album/69VTRNYmqgcKvHCZXvwkoW) | 4:41 |
-| 92 | [Norte](https://open.spotify.com/track/3iv7GUp4v9SF8HfMKhv5Bo) | [Héctor Filio](https://open.spotify.com/artist/5RUEbv1G2nJCo9vZ4tZxmj) | [Norte](https://open.spotify.com/album/6skXhhSHPiVDNpnCjgHMmk) | 4:40 |
+| 91 | [Norte](https://open.spotify.com/track/3iv7GUp4v9SF8HfMKhv5Bo) | [Héctor Filio](https://open.spotify.com/artist/5RUEbv1G2nJCo9vZ4tZxmj) | [Norte](https://open.spotify.com/album/6skXhhSHPiVDNpnCjgHMmk) | 4:40 |
+| 92 | [Su Nombre Es Pueblo](https://open.spotify.com/track/64MUU7LMzHHiPW39fKbq5D) | [Sara González](https://open.spotify.com/artist/7a3lOYCTYfMaiFmINk1V0R) | [Evolucion](https://open.spotify.com/album/69VTRNYmqgcKvHCZXvwkoW) | 4:41 |
 | 93 | [Sembrando Amor](https://open.spotify.com/track/46E5ed47upzStYgFxLLT5p) | [Jorge Gamboa Patrón](https://open.spotify.com/artist/6C7OQL7jqHWXAN6mURuqMu) | [Vagamundo](https://open.spotify.com/album/3sQMu1OkfzkOvxMWwRDRtV) | 4:30 |
 | 94 | [Prefiero amar](https://open.spotify.com/track/3Ig5t3esx6oEXPzFfn837w) | [Luis Eduardo Aute](https://open.spotify.com/artist/67h1eGw2OFs89l8EnaOdoS) | [Aire](https://open.spotify.com/album/3eiUKyEarSxAvjZLqIJ1M6) | 3:32 |
 | 95 | [Cuéntame](https://open.spotify.com/track/6jOoHhton9c8rzgfyUht7A) | [Edgar Oceransky](https://open.spotify.com/artist/6genEcweKnEZ92TZvdeLFl) | [Escarlata](https://open.spotify.com/album/7xzYC2mGZnT51Ebb3U4r0F) | 3:53 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU1owuN89XHr.md) - [plain]
 | 99 | [Viene la Cosa](https://open.spotify.com/track/6ICAdGrduZHsR9ZIfx9CCw) | [Silvio Rodríguez](https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO) | [Viene la Cosa](https://open.spotify.com/album/6PREdFoN9vmyzU3CpdAts3) | 3:51 |
 | 100 | [Alfonsina Y El Mar](https://open.spotify.com/track/6Q3ozAXkxLpKQy6sc8L0TY) | [Mercedes Sosa](https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7), [Ariel Ramírez](https://open.spotify.com/artist/2dTieljE0C4ydCdUPIPLRW), [Hector Zeoli](https://open.spotify.com/artist/2yAbebpFzH9GhCLeCwKwtN) | [30 años](https://open.spotify.com/album/2mrWvCCYtZn2UyhMopvAoU) | 4:40 |
 
-Snapshot ID: `MCxlM2YxMTBmN2M4ODZjZWIyNjdmOTQ4ZWNjMGU2OGQzOTExOWU0NDA5`
+Snapshot ID: `MCxlNDk1NTM1NWQ2M2JlYWEzMDJhOGE0MmNmMjI3YWI0ZWEyNDdmZGJi`

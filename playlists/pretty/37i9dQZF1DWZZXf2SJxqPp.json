@@ -1,12 +1,12 @@
 {
   "description": "Musiquita riqui para chillear y echarla junto a la piscina.",
-  "num_followers": 130650,
+  "num_followers": 130674,
   "original_name": "\u00a1A la Alberca!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZDNiYmE5ZjI4MjgwZTQ1MzNlNGIwNDZiMmNhZWVlZWRhNWNkZDc4",
+  "snapshot_id": "MCw3NGY5NjQ3MTEzYmY5M2E5MmI2MDY2OTk4YjZmNjVkMmViMTUyMTQ2",
   "tracks": [
     {
       "added_at": "2023-08-14 14:58:41",
@@ -527,6 +527,22 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
+        "name": "Rust & Gold",
+        "url": "https://open.spotify.com/album/12FsF7zGKN58k2VTlzwDAU"
+      },
+      "artists": [
+        {
+          "name": "Isaac Delusion",
+          "url": "https://open.spotify.com/artist/2HGAZDmVV3GAH4XFAZdvSG"
+        }
+      ],
+      "duration_ms": 220626,
+      "name": "How Much (You Want Her) 2017",
+      "url": "https://open.spotify.com/track/1B0ymvBm70MZR2TnZJUSXZ"
+    },
+    {
+      "added_at": "2023-08-14 14:58:41",
+      "album": {
         "name": "Profite (Remixes)",
         "url": "https://open.spotify.com/album/0r4TXEu7Lhl09VNfxThdC6"
       },
@@ -559,22 +575,6 @@
       "duration_ms": 198688,
       "name": "Profite - Kazy Lambist Remix",
       "url": "https://open.spotify.com/track/7fbdTbr12vcmJhWgp58dvO"
-    },
-    {
-      "added_at": "2023-08-14 14:58:41",
-      "album": {
-        "name": "Rust & Gold",
-        "url": "https://open.spotify.com/album/12FsF7zGKN58k2VTlzwDAU"
-      },
-      "artists": [
-        {
-          "name": "Isaac Delusion",
-          "url": "https://open.spotify.com/artist/2HGAZDmVV3GAH4XFAZdvSG"
-        }
-      ],
-      "duration_ms": 220626,
-      "name": "How Much (You Want Her) 2017",
-      "url": "https://open.spotify.com/track/1B0ymvBm70MZR2TnZJUSXZ"
     },
     {
       "added_at": "2023-08-14 14:58:41",
@@ -671,22 +671,6 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
-        "name": "Feelings",
-        "url": "https://open.spotify.com/album/0gmjvJvdWuD3AFk9sZ02Yi"
-      },
-      "artists": [
-        {
-          "name": "Brijean",
-          "url": "https://open.spotify.com/artist/2TRNyrjoKJnqSc9G8jCZfb"
-        }
-      ],
-      "duration_ms": 134220,
-      "name": "Moody",
-      "url": "https://open.spotify.com/track/213H9vfVfLc7m2zRVWgCmJ"
-    },
-    {
-      "added_at": "2023-08-14 14:58:41",
-      "album": {
         "name": "Nabi (feat. Ohhyuk)",
         "url": "https://open.spotify.com/album/06LftbqN9jVmaHDFq4eitA"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 232914,
       "name": "Nabi (feat. OHHYUK)",
       "url": "https://open.spotify.com/track/6zQ24McTYC36rMWRgEfzqC"
+    },
+    {
+      "added_at": "2023-08-14 14:58:41",
+      "album": {
+        "name": "Feelings",
+        "url": "https://open.spotify.com/album/0gmjvJvdWuD3AFk9sZ02Yi"
+      },
+      "artists": [
+        {
+          "name": "Brijean",
+          "url": "https://open.spotify.com/artist/2TRNyrjoKJnqSc9G8jCZfb"
+        }
+      ],
+      "duration_ms": 134220,
+      "name": "Moody",
+      "url": "https://open.spotify.com/track/213H9vfVfLc7m2zRVWgCmJ"
     },
     {
       "added_at": "2023-08-14 14:58:41",
@@ -783,22 +783,6 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
-        "name": "Way to Go (Club Soda Mix)",
-        "url": "https://open.spotify.com/album/7F8R0maiBdTe0Ey5qkqZet"
-      },
-      "artists": [
-        {
-          "name": "Soda State",
-          "url": "https://open.spotify.com/artist/7kGtb0FtMVu0YfEFwLjTBH"
-        }
-      ],
-      "duration_ms": 224390,
-      "name": "Way to Go - Club Soda Mix",
-      "url": "https://open.spotify.com/track/2kXcKyonAMXWjW0iWTnm2P"
-    },
-    {
-      "added_at": "2023-08-14 14:58:41",
-      "album": {
         "name": "LALI",
         "url": "https://open.spotify.com/album/2nc62Mll62aIDw3wUiAHW3"
       },
@@ -815,22 +799,18 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
-        "name": "Akousmatikous",
-        "url": "https://open.spotify.com/album/2rIjJDL6c2IlN8rrWOhwGD"
+        "name": "Way to Go (Club Soda Mix)",
+        "url": "https://open.spotify.com/album/7F8R0maiBdTe0Ey5qkqZet"
       },
       "artists": [
         {
-          "name": "Salami Rose Joe Louis",
-          "url": "https://open.spotify.com/artist/6EHS9kZ9PpeXaJ4wZO3FSX"
-        },
-        {
-          "name": "Brijean",
-          "url": "https://open.spotify.com/artist/2TRNyrjoKJnqSc9G8jCZfb"
+          "name": "Soda State",
+          "url": "https://open.spotify.com/artist/7kGtb0FtMVu0YfEFwLjTBH"
         }
       ],
-      "duration_ms": 152691,
-      "name": "Propaganda",
-      "url": "https://open.spotify.com/track/5h2Ixexi6IEhlogUtfzD5P"
+      "duration_ms": 224390,
+      "name": "Way to Go - Club Soda Mix",
+      "url": "https://open.spotify.com/track/2kXcKyonAMXWjW0iWTnm2P"
     },
     {
       "added_at": "2023-08-14 14:58:41",
@@ -855,6 +835,26 @@
       "duration_ms": 195226,
       "name": "beachin",
       "url": "https://open.spotify.com/track/3urYUGRvToBI4u87OzsSMZ"
+    },
+    {
+      "added_at": "2023-08-14 14:58:41",
+      "album": {
+        "name": "Akousmatikous",
+        "url": "https://open.spotify.com/album/2rIjJDL6c2IlN8rrWOhwGD"
+      },
+      "artists": [
+        {
+          "name": "Salami Rose Joe Louis",
+          "url": "https://open.spotify.com/artist/6EHS9kZ9PpeXaJ4wZO3FSX"
+        },
+        {
+          "name": "Brijean",
+          "url": "https://open.spotify.com/artist/2TRNyrjoKJnqSc9G8jCZfb"
+        }
+      ],
+      "duration_ms": 152691,
+      "name": "Propaganda",
+      "url": "https://open.spotify.com/track/5h2Ixexi6IEhlogUtfzD5P"
     },
     {
       "added_at": "2023-08-14 14:58:41",
@@ -927,22 +927,6 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
-        "name": "Si Te Portas Bonito",
-        "url": "https://open.spotify.com/album/2O1INg3ragKUjPmQ5jMPQy"
-      },
-      "artists": [
-        {
-          "name": "Sofia Kourtesis",
-          "url": "https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf"
-        }
-      ],
-      "duration_ms": 301850,
-      "name": "Si Te Portas Bonito",
-      "url": "https://open.spotify.com/track/0W4522kMykidUIBpOoI8oP"
-    },
-    {
-      "added_at": "2023-08-14 14:58:41",
-      "album": {
         "name": "First Landing",
         "url": "https://open.spotify.com/album/1SNyeh5uoNmmhpruGwHg51"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 286726,
       "name": "I Want Your Attention",
       "url": "https://open.spotify.com/track/2RU67aiaESQ7t9D1xUJqBu"
+    },
+    {
+      "added_at": "2023-08-14 14:58:41",
+      "album": {
+        "name": "Si Te Portas Bonito",
+        "url": "https://open.spotify.com/album/2O1INg3ragKUjPmQ5jMPQy"
+      },
+      "artists": [
+        {
+          "name": "Sofia Kourtesis",
+          "url": "https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf"
+        }
+      ],
+      "duration_ms": 301850,
+      "name": "Si Te Portas Bonito",
+      "url": "https://open.spotify.com/track/0W4522kMykidUIBpOoI8oP"
     },
     {
       "added_at": "2023-08-14 14:58:41",
@@ -999,6 +999,22 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
+        "name": "Restless",
+        "url": "https://open.spotify.com/album/5hJkvGCEQA7dZiroxM43gF"
+      },
+      "artists": [
+        {
+          "name": "Miami Horror",
+          "url": "https://open.spotify.com/artist/0Z5pcmXDCKTrFWLnDChC37"
+        }
+      ],
+      "duration_ms": 205948,
+      "name": "Restless",
+      "url": "https://open.spotify.com/track/4IFRlX2QFsEYC3mxrZECUd"
+    },
+    {
+      "added_at": "2023-08-14 14:58:41",
+      "album": {
         "name": "Can't Stop Your Lovin'",
         "url": "https://open.spotify.com/album/4wk1q3SvmE08InkoJKodlW"
       },
@@ -1015,22 +1031,6 @@
       "duration_ms": 237533,
       "name": "Can't Stop Your Lovin'",
       "url": "https://open.spotify.com/track/5P1eorfAD2voGnX7ZbuvFz"
-    },
-    {
-      "added_at": "2023-08-14 14:58:41",
-      "album": {
-        "name": "Illumination (10th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/6xPginu4nk1mvQAAjRDPWE"
-      },
-      "artists": [
-        {
-          "name": "Miami Horror",
-          "url": "https://open.spotify.com/artist/0Z5pcmXDCKTrFWLnDChC37"
-        }
-      ],
-      "duration_ms": 303406,
-      "name": "Emagination - B-Side",
-      "url": "https://open.spotify.com/track/5GsJF8HZsWlcLEkjEzVzLX"
     },
     {
       "added_at": "2023-08-14 14:58:41",
@@ -1075,26 +1075,6 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
-        "name": "Renaissance",
-        "url": "https://open.spotify.com/album/0cFJfTwmx4KOM9zEy9i2nB"
-      },
-      "artists": [
-        {
-          "name": "Aluna",
-          "url": "https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE"
-        },
-        {
-          "name": "SG Lewis",
-          "url": "https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG"
-        }
-      ],
-      "duration_ms": 167339,
-      "name": "Warrior",
-      "url": "https://open.spotify.com/track/5CBCtk5EZfdz7X1Eb6xK1u"
-    },
-    {
-      "added_at": "2023-08-14 14:58:41",
-      "album": {
         "name": "Topical Dancer",
         "url": "https://open.spotify.com/album/4ivk3u8J7qg7YoWUZlnGNz"
       },
@@ -1115,18 +1095,22 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
-        "name": "How can I",
-        "url": "https://open.spotify.com/album/7mUyZcmorwXzHxCJZNxXKD"
+        "name": "Renaissance",
+        "url": "https://open.spotify.com/album/0cFJfTwmx4KOM9zEy9i2nB"
       },
       "artists": [
         {
-          "name": "\ubc15\ud61c\uc9c4 Park Hye Jin",
-          "url": "https://open.spotify.com/artist/6niigcazB2JPcpasZfZvq1"
+          "name": "Aluna",
+          "url": "https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE"
+        },
+        {
+          "name": "SG Lewis",
+          "url": "https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG"
         }
       ],
-      "duration_ms": 245804,
-      "name": "Like this",
-      "url": "https://open.spotify.com/track/7pY3HE16Ir4ZFTEOmosP57"
+      "duration_ms": 167339,
+      "name": "Warrior",
+      "url": "https://open.spotify.com/track/5CBCtk5EZfdz7X1Eb6xK1u"
     },
     {
       "added_at": "2023-08-14 14:58:41",
@@ -1147,8 +1131,24 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
-        "name": "Restless",
-        "url": "https://open.spotify.com/album/5hJkvGCEQA7dZiroxM43gF"
+        "name": "How can I",
+        "url": "https://open.spotify.com/album/7mUyZcmorwXzHxCJZNxXKD"
+      },
+      "artists": [
+        {
+          "name": "\ubc15\ud61c\uc9c4 Park Hye Jin",
+          "url": "https://open.spotify.com/artist/6niigcazB2JPcpasZfZvq1"
+        }
+      ],
+      "duration_ms": 245804,
+      "name": "Like this",
+      "url": "https://open.spotify.com/track/7pY3HE16Ir4ZFTEOmosP57"
+    },
+    {
+      "added_at": "2023-08-14 14:58:41",
+      "album": {
+        "name": "Illumination (10th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/6xPginu4nk1mvQAAjRDPWE"
       },
       "artists": [
         {
@@ -1156,9 +1156,9 @@
           "url": "https://open.spotify.com/artist/0Z5pcmXDCKTrFWLnDChC37"
         }
       ],
-      "duration_ms": 205948,
-      "name": "Restless",
-      "url": "https://open.spotify.com/track/4IFRlX2QFsEYC3mxrZECUd"
+      "duration_ms": 303406,
+      "name": "Emagination - B-Side",
+      "url": "https://open.spotify.com/track/5GsJF8HZsWlcLEkjEzVzLX"
     },
     {
       "added_at": "2023-08-14 14:58:41",
@@ -1359,6 +1359,26 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
+        "name": "We Love Dogs!",
+        "url": "https://open.spotify.com/album/1Aus1dFkP2BSyzibCl0HA7"
+      },
+      "artists": [
+        {
+          "name": "Remi Wolf",
+          "url": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d"
+        },
+        {
+          "name": "Polo & Pan",
+          "url": "https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM"
+        }
+      ],
+      "duration_ms": 236082,
+      "name": "Hello Hello Hello - Polo & Pan Remix",
+      "url": "https://open.spotify.com/track/4L42hh6L8tpg1KPVwGkUja"
+    },
+    {
+      "added_at": "2023-08-14 14:58:41",
+      "album": {
         "name": "Discoman",
         "url": "https://open.spotify.com/album/0A2nttPiJAdDfjkmt9l2vT"
       },
@@ -1379,26 +1399,6 @@
       "duration_ms": 220420,
       "name": "Discoman",
       "url": "https://open.spotify.com/track/5YpB83TMSxvNw3F7SMikHq"
-    },
-    {
-      "added_at": "2023-08-14 14:58:41",
-      "album": {
-        "name": "We Love Dogs!",
-        "url": "https://open.spotify.com/album/1Aus1dFkP2BSyzibCl0HA7"
-      },
-      "artists": [
-        {
-          "name": "Remi Wolf",
-          "url": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d"
-        },
-        {
-          "name": "Polo & Pan",
-          "url": "https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM"
-        }
-      ],
-      "duration_ms": 236082,
-      "name": "Hello Hello Hello - Polo & Pan Remix",
-      "url": "https://open.spotify.com/track/4L42hh6L8tpg1KPVwGkUja"
     },
     {
       "added_at": "2023-08-14 14:58:41",
@@ -1675,22 +1675,6 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
-        "name": "On the Cloud",
-        "url": "https://open.spotify.com/album/2P06JH4YLK8eDlbuB5JgEG"
-      },
-      "artists": [
-        {
-          "name": "DGHTR",
-          "url": "https://open.spotify.com/artist/7bWbTJbtBrYJp1xtRjDLeL"
-        }
-      ],
-      "duration_ms": 111272,
-      "name": "On The Cloud",
-      "url": "https://open.spotify.com/track/1U6LYBh6HZXaaQu3QJlDLm"
-    },
-    {
-      "added_at": "2023-08-14 14:58:41",
-      "album": {
         "name": "Horizons",
         "url": "https://open.spotify.com/album/0cvFQyuT54tOUaVJVSTB5y"
       },
@@ -1707,6 +1691,22 @@
       "duration_ms": 261224,
       "name": "How Long",
       "url": "https://open.spotify.com/track/1uOtAQ7g9zVKf8vh0dcO4d"
+    },
+    {
+      "added_at": "2023-08-14 14:58:41",
+      "album": {
+        "name": "On the Cloud",
+        "url": "https://open.spotify.com/album/2P06JH4YLK8eDlbuB5JgEG"
+      },
+      "artists": [
+        {
+          "name": "DGHTR",
+          "url": "https://open.spotify.com/artist/7bWbTJbtBrYJp1xtRjDLeL"
+        }
+      ],
+      "duration_ms": 111272,
+      "name": "On The Cloud",
+      "url": "https://open.spotify.com/track/1U6LYBh6HZXaaQu3QJlDLm"
     },
     {
       "added_at": "2023-08-14 14:58:41",
@@ -1799,22 +1799,22 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
-        "name": "The Universe",
-        "url": "https://open.spotify.com/album/2JKrj31ZTIjy8voQ7azDzC"
+        "name": "Beginning (Totally Enormous Extinct Dinosaurs Remix)",
+        "url": "https://open.spotify.com/album/7DcdXnMiadzyxSlQnLIsCo"
       },
       "artists": [
         {
-          "name": "R\u00f3is\u00edn Murphy",
-          "url": "https://open.spotify.com/artist/3qwabfaWewpfli7hMNM3O8"
+          "name": "LA Priest",
+          "url": "https://open.spotify.com/artist/2JYMUWD8r1jFFjD1V3WcCX"
         },
         {
-          "name": "DJ Koze",
-          "url": "https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg"
+          "name": "Totally Enormous Extinct Dinosaurs",
+          "url": "https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN"
         }
       ],
-      "duration_ms": 271112,
-      "name": "CooCool",
-      "url": "https://open.spotify.com/track/6NRNXenSNtuo5vVkuAq7EN"
+      "duration_ms": 350851,
+      "name": "Beginning - Totally Enormous Extinct Dinosaurs Remix",
+      "url": "https://open.spotify.com/track/6DKILAX03B9oLWDaLkw1Vp"
     }
   ],
   "unique_name": "\u00a1A la Alberca!",

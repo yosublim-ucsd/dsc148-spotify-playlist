@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > The best newly released songs of the week\. Cover: CLAUDIA
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,266 likes - 79 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,282 likes - 79 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 78 | [2MANYTIMES](https://open.spotify.com/track/3rVgFAXFJnmpki9sVgRFfn) | [SIRUP](https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh), [CODY JON](https://open.spotify.com/artist/5xYvg2nZQcavaPwYOcOYRD), [Taka Perry](https://open.spotify.com/artist/7eYVLxvKOQ3w2BAE10ElgF) | [2MANYTIMES](https://open.spotify.com/album/5v0whhzr6ryjzu2Ds5V5Cc) | 3:25 |
 | 79 | [Feels](https://open.spotify.com/track/6jdkNQpwclqrrgcxbz6GA5) | [Nissy](https://open.spotify.com/artist/4L9VSeE7K3BTBndqEL9A6q), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [Feels](https://open.spotify.com/album/7KkdRBQs12lylKXSrWHbx8) | 3:28 |
 
-Snapshot ID: `MCw0YzBmMmMzODFlZjAyYjMzYTU2ZWE5NmYxNmJmNTgxMGI5NTljN2Vj`
+Snapshot ID: `MCwxMjA3MTU2NTgxOGRmZWU1MTBkNGY2MzBiZTVhZjBmMmQ0YzdkNTE2`

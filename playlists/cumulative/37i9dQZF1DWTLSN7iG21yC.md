@@ -4,7 +4,7 @@
 
 > Clock in from the comfort of your own home and let the music carry you through the day.
 
-649 songs - 1 day 10 hr 32 min
+650 songs - 1 day 10 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [7 Years](https://open.spotify.com/track/5kqIPrATaCc2LqxVWzQGbk) | [Lukas Graham](https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7) | [Lukas Graham](https://open.spotify.com/album/4rFrdkSWs0dtj0rWPzOk1v) | 3:57 | 2021-06-07 | 2023-01-28 |
 | [A LOT](https://open.spotify.com/track/1cRY1p6f4k8B1fGt7hnP5H) | [John K](https://open.spotify.com/artist/73eAAfRkS2Vi4hx68oTJJE) | [A LOT](https://open.spotify.com/album/4XGzDdMJjki0kKTPbrnD3j) | 3:01 | 2022-01-14 |  |
 | [A Second to Midnight](https://open.spotify.com/track/3YY9Yu1JsgVfF1lOXEenq9) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA), [Years & Years](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc) | [A Second to Midnight](https://open.spotify.com/album/6kp91tuVBPtw7HvwTJjDHr) | 3:27 | 2021-10-08 | 2023-11-18 |
+| [A Second to Midnight](https://open.spotify.com/track/3lWQgPeo8TrZZQT4qPScxg) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA), [Years & Years](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc) | [DISCO: Guest List Edition](https://open.spotify.com/album/6X1cZakiDOXDbDUWiTVmGh) | 3:27 | 2023-11-15 |  |
 | [A\-O\-K \- with 24kGoldn](https://open.spotify.com/track/7GZXPa81LzAgzmVg9G6BUM) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I), [24kGoldn](https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z) | [A\-O\-K \(with 24kGoldn\)](https://open.spotify.com/album/4z9gPo4RNhMWiZvBv0JZTA) | 3:01 | 2021-09-10 | 2022-04-20 |
 | [Acapulco](https://open.spotify.com/track/3eJH2nAjvNXdmPfBkALiPZ) | [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [Acapulco](https://open.spotify.com/album/76f2Wq7QxiHImxzsYwiXWW) | 2:19 | 2021-09-03 | 2023-01-28 |
 | [Adorable](https://open.spotify.com/track/576cGYBC1nWuQwLhLfurmw) | [Natasha Bedingfield](https://open.spotify.com/artist/7o95ZoZt5ZYn31e9z1Hc0a) | [Adorable](https://open.spotify.com/album/7q0Ue01PS6jqzuVQbMmDYR) | 2:49 | 2021-07-30 | 2022-07-12 |
@@ -135,7 +136,7 @@
 | [Circles](https://open.spotify.com/track/21jGcNKet2qwijlDFuPiPb) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Hollywood's Bleeding](https://open.spotify.com/album/4g1ZRSobMefqF6nelkgibi) | 3:35 | 2021-06-07 | 2023-01-28 |
 | [Circles Around This Town](https://open.spotify.com/track/13G5xv1wUKvJYbK0wYmioN) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Circles Around This Town](https://open.spotify.com/album/2MeNs8IOs7udC2CuiFKmlZ) | 3:15 | 2022-01-07 | 2022-07-29 |
 | [closure](https://open.spotify.com/track/10B7inTJO0QRBskRuEZ6mr) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [closure](https://open.spotify.com/album/41CSc4GOz0mCIjbNcBlVyb) | 3:02 | 2022-05-06 | 2022-07-25 |
-| [Closure \(feat\. BIRDY and Mishaal\)](https://open.spotify.com/track/2gQqknpjQSpBwJOtvTOnqP) | [Sarcastic Sounds](https://open.spotify.com/artist/1bq8rqNnfrojn0OSAfeNXJ), [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP), [Mishaal Tamer](https://open.spotify.com/artist/2NM1t8dMvgeu9Lfl06574g) | [Closure \(feat\. BIRDY and Mishaal\)](https://open.spotify.com/album/5zbJm1IeYNPeWEcxLH7yCk) | 3:03 | 2021-06-25 |  |
+| [Closure \(feat\. BIRDY and Mishaal\)](https://open.spotify.com/track/2gQqknpjQSpBwJOtvTOnqP) | [Sarcastic Sounds](https://open.spotify.com/artist/1bq8rqNnfrojn0OSAfeNXJ), [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP), [Mishaal Tamer](https://open.spotify.com/artist/2NM1t8dMvgeu9Lfl06574g) | [Closure \(feat\. BIRDY and Mishaal\)](https://open.spotify.com/album/5zbJm1IeYNPeWEcxLH7yCk) | 3:03 | 2021-06-25 | 2023-12-03 |
 | [Coast \(feat\. Anderson .Paak\)](https://open.spotify.com/track/1l4iQsOZ5sOXZPMQLvouaB) | [Hailee Steinfeld](https://open.spotify.com/artist/5p7f24Rk5HkUZsaS3BLG5F), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Coast](https://open.spotify.com/album/0152qvGv0mmX2vU36Rocng) | 2:46 | 2022-07-29 |  |
 | [Cold Heart \- PNAU Remix](https://open.spotify.com/track/6zSpb8dQRaw0M1dK8PBwQz) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u) | [Cold Heart \(PNAU Remix\)](https://open.spotify.com/album/5D8Rdb09BkmHscEGSWAlA6) | 3:22 | 2021-08-13 | 2023-01-28 |
 | [Come Close](https://open.spotify.com/track/10LSITr9KpQs2uCh7g2QQh) | [Anson Seabra](https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg) | [Come Close](https://open.spotify.com/album/3IwrLHxANKcf9PKXpZ2lh7) | 2:59 | 2022-01-14 | 2022-07-13 |

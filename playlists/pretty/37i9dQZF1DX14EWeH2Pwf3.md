@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14EWeH2Pwf3.md) - [plain]
 
 > La playlist urban più grande d'Italia 🔥 Cover: Ghali\.  <a href="spotify:playlist:37i9dQZF1DWYQKKZPHGppf">Scopri il Best Of del 2023 qui!</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 908,881 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 909,095 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14EWeH2Pwf3.md) - [plain]
 | 49 | [Vegeta \(feat\. Néza\)](https://open.spotify.com/track/73TYUZ7vZ6hFP0p5NXin0g) | [Zefe](https://open.spotify.com/artist/3yNjXWi2WswJfuBZSouJRH), [Néza](https://open.spotify.com/artist/6cE2WyjXwngsJynb3uk1WO) | [Vegeta \(feat\. Néza\)](https://open.spotify.com/album/0kqfgJpLsbN2pysxJoNIfg) | 2:28 |
 | 50 | [RESPIRA \(feat\. Marracash\)](https://open.spotify.com/track/2zuRZkoWxoNtKaA4Q44f44) | [Salmo](https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW), [Noyz Narcos](https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY), [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7) | [CVLT](https://open.spotify.com/album/6HXtcSvv1AXivyZrZjEdG1) | 3:43 |
 
-Snapshot ID: `MCxkMDhjY2E0ZGI4NjY5NjAxZmI2NDIxYjBhOGUxNTczNWY4MmUxZDBh`
+Snapshot ID: `MCxmZmM1NjQxMDE5NTRlNTVmM2Q4MGZiYzZlYWNmNGUwMmM1NGY2YWFk`

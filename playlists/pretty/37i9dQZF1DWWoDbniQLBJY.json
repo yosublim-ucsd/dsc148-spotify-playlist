@@ -1,12 +1,12 @@
 {
   "description": "Pop ac\u00fastico para tu d\u00eda.",
-  "num_followers": 1994282,
+  "num_followers": 1994250,
   "original_name": "Mediod\u00eda Ac\u00fastico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4Yjg1ZTEyNDAwMjY0MzU4NDVhZjNiNjhlYjgyYmU1ZGJhNzE5Y2Y2",
+  "snapshot_id": "MCxkOGZiM2I1ZGQ2YzA3NWNiOWFkNjYxNzRlMGFhZDcwYjFjOTE2YWJh",
   "tracks": [
     {
       "added_at": "2023-12-01 05:01:00",
@@ -851,22 +851,6 @@
     {
       "added_at": "2023-12-01 05:01:00",
       "album": {
-        "name": "MTV Unplugged",
-        "url": "https://open.spotify.com/album/0fO8mzViUoz12iCHrPppE9"
-      },
-      "artists": [
-        {
-          "name": "Caf\u00e9 Tacvba",
-          "url": "https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz"
-        }
-      ],
-      "duration_ms": 255133,
-      "name": "Mar\u00eda - Unplugged",
-      "url": "https://open.spotify.com/track/4KDHQ9jwEg03Ex7TG6tdm8"
-    },
-    {
-      "added_at": "2023-12-01 05:01:00",
-      "album": {
         "name": "Tusa",
         "url": "https://open.spotify.com/album/6MwzNJsdOyTx6b6dbAv1wc"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 153564,
       "name": "Tusa",
       "url": "https://open.spotify.com/track/2KhQWu0rUU6zGu53c6nkVs"
+    },
+    {
+      "added_at": "2023-12-01 05:01:00",
+      "album": {
+        "name": "MTV Unplugged",
+        "url": "https://open.spotify.com/album/0fO8mzViUoz12iCHrPppE9"
+      },
+      "artists": [
+        {
+          "name": "Caf\u00e9 Tacvba",
+          "url": "https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz"
+        }
+      ],
+      "duration_ms": 255133,
+      "name": "Mar\u00eda - Unplugged",
+      "url": "https://open.spotify.com/track/4KDHQ9jwEg03Ex7TG6tdm8"
     },
     {
       "added_at": "2023-12-01 05:01:00",
@@ -1167,22 +1167,18 @@
     {
       "added_at": "2023-12-01 05:01:00",
       "album": {
-        "name": "Tiempo",
-        "url": "https://open.spotify.com/album/3pwczzHwIn3RthlqHGum2V"
+        "name": "Los Mejores A\u00f1os (live desde londres)",
+        "url": "https://open.spotify.com/album/5LZQ3vxuDByVJhOXcO5SFx"
       },
       "artists": [
         {
-          "name": "Javypablo",
-          "url": "https://open.spotify.com/artist/6M3xYeqwhquYOjf96D2mYq"
-        },
-        {
-          "name": "Jaguayano",
-          "url": "https://open.spotify.com/artist/0XVsHyF9ofcEFttyOHXPYG"
+          "name": "Joaquina",
+          "url": "https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0"
         }
       ],
-      "duration_ms": 185186,
-      "name": "Tiempo",
-      "url": "https://open.spotify.com/track/3ogdUxCZqn5JikojnmsdKZ"
+      "duration_ms": 205066,
+      "name": "Los Mejores A\u00f1os - live desde londres",
+      "url": "https://open.spotify.com/track/03BlpWvq9i3TroZwE9pDqW"
     },
     {
       "added_at": "2023-12-01 05:01:00",
@@ -1203,18 +1199,22 @@
     {
       "added_at": "2023-12-01 05:01:00",
       "album": {
-        "name": "Los Mejores A\u00f1os (live desde londres)",
-        "url": "https://open.spotify.com/album/5LZQ3vxuDByVJhOXcO5SFx"
+        "name": "Tiempo",
+        "url": "https://open.spotify.com/album/3pwczzHwIn3RthlqHGum2V"
       },
       "artists": [
         {
-          "name": "Joaquina",
-          "url": "https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0"
+          "name": "Javypablo",
+          "url": "https://open.spotify.com/artist/6M3xYeqwhquYOjf96D2mYq"
+        },
+        {
+          "name": "Jaguayano",
+          "url": "https://open.spotify.com/artist/0XVsHyF9ofcEFttyOHXPYG"
         }
       ],
-      "duration_ms": 205066,
-      "name": "Los Mejores A\u00f1os - live desde londres",
-      "url": "https://open.spotify.com/track/03BlpWvq9i3TroZwE9pDqW"
+      "duration_ms": 185186,
+      "name": "Tiempo",
+      "url": "https://open.spotify.com/track/3ogdUxCZqn5JikojnmsdKZ"
     },
     {
       "added_at": "2023-12-01 05:01:00",
@@ -1251,18 +1251,18 @@
     {
       "added_at": "2023-12-01 05:01:00",
       "album": {
-        "name": "Me Haces Falta",
-        "url": "https://open.spotify.com/album/1Wzk17m6qpnIduGOGhXxhS"
+        "name": "Para Ti (Versi\u00f3n Ac\u00fastica)",
+        "url": "https://open.spotify.com/album/2A4NWAmKm275rN9tycg6K3"
       },
       "artists": [
         {
-          "name": "La Isla Centeno",
-          "url": "https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L"
+          "name": "Carlos Rivera",
+          "url": "https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf"
         }
       ],
-      "duration_ms": 215332,
-      "name": "Me Haces Falta",
-      "url": "https://open.spotify.com/track/59ebZTJzcCoO8vc5El0YJx"
+      "duration_ms": 201500,
+      "name": "Para Ti - Versi\u00f3n Ac\u00fastica",
+      "url": "https://open.spotify.com/track/3wO71n44x8JqR1lLgsOU6v"
     },
     {
       "added_at": "2023-12-01 05:01:00",
@@ -1279,6 +1279,22 @@
       "duration_ms": 218108,
       "name": "Despacito - Acoustic",
       "url": "https://open.spotify.com/track/3tqRrUMHQ0y80CN58Xh0CT"
+    },
+    {
+      "added_at": "2023-12-01 05:01:00",
+      "album": {
+        "name": "Me Haces Falta",
+        "url": "https://open.spotify.com/album/1Wzk17m6qpnIduGOGhXxhS"
+      },
+      "artists": [
+        {
+          "name": "La Isla Centeno",
+          "url": "https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L"
+        }
+      ],
+      "duration_ms": 215332,
+      "name": "Me Haces Falta",
+      "url": "https://open.spotify.com/track/59ebZTJzcCoO8vc5El0YJx"
     },
     {
       "added_at": "2023-12-01 05:01:00",
@@ -1431,22 +1447,6 @@
     {
       "added_at": "2023-12-01 05:01:00",
       "album": {
-        "name": "plan (ac\u00fastico)",
-        "url": "https://open.spotify.com/album/2yzuzakKWgRN89T3VpB1EP"
-      },
-      "artists": [
-        {
-          "name": "Alex Ponce",
-          "url": "https://open.spotify.com/artist/2rtnKY7iQJHIEBnOd66DCO"
-        }
-      ],
-      "duration_ms": 201000,
-      "name": "plan (ac\u00fastico)",
-      "url": "https://open.spotify.com/track/0Quiw6mpXblCJnLUyAhh8a"
-    },
-    {
-      "added_at": "2023-12-01 05:01:00",
-      "album": {
         "name": "Flotando (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/6ESGXcMWl63n7PzIzPdtxh"
       },
@@ -1459,6 +1459,22 @@
       "duration_ms": 256708,
       "name": "Flotando (Ac\u00fastico)",
       "url": "https://open.spotify.com/track/1UmmEBHP4MKyExlob4MJbu"
+    },
+    {
+      "added_at": "2023-12-01 05:01:00",
+      "album": {
+        "name": "plan (ac\u00fastico)",
+        "url": "https://open.spotify.com/album/2yzuzakKWgRN89T3VpB1EP"
+      },
+      "artists": [
+        {
+          "name": "Alex Ponce",
+          "url": "https://open.spotify.com/artist/2rtnKY7iQJHIEBnOd66DCO"
+        }
+      ],
+      "duration_ms": 201000,
+      "name": "plan (ac\u00fastico)",
+      "url": "https://open.spotify.com/track/0Quiw6mpXblCJnLUyAhh8a"
     },
     {
       "added_at": "2023-12-01 05:01:00",
@@ -1535,18 +1551,18 @@
     {
       "added_at": "2023-12-01 05:01:00",
       "album": {
-        "name": "Jard\u00edn",
-        "url": "https://open.spotify.com/album/4zLn1jP6DyndmlMalVm8Rk"
+        "name": "En Ac\u00fastico",
+        "url": "https://open.spotify.com/album/6SIva4NYVKvJoJVfExZYDk"
       },
       "artists": [
         {
-          "name": "Teo Bok",
-          "url": "https://open.spotify.com/artist/54HTLyYHg8qHdZTPLtAo7r"
+          "name": "Jxta Martin",
+          "url": "https://open.spotify.com/artist/689Xz3YbAUBmCsDYUxLu7P"
         }
       ],
-      "duration_ms": 144253,
-      "name": "Jard\u00edn",
-      "url": "https://open.spotify.com/track/394fdiSv97RDJy2lIxTL9v"
+      "duration_ms": 207207,
+      "name": "Destino - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/1UUAtmVInu4DNChh5HYiHk"
     },
     {
       "added_at": "2023-12-01 05:01:00",
@@ -1567,6 +1583,22 @@
     {
       "added_at": "2023-12-01 05:01:00",
       "album": {
+        "name": "Jard\u00edn",
+        "url": "https://open.spotify.com/album/4zLn1jP6DyndmlMalVm8Rk"
+      },
+      "artists": [
+        {
+          "name": "Teo Bok",
+          "url": "https://open.spotify.com/artist/54HTLyYHg8qHdZTPLtAo7r"
+        }
+      ],
+      "duration_ms": 144253,
+      "name": "Jard\u00edn",
+      "url": "https://open.spotify.com/track/394fdiSv97RDJy2lIxTL9v"
+    },
+    {
+      "added_at": "2023-12-01 05:01:00",
+      "album": {
         "name": "Mp3",
         "url": "https://open.spotify.com/album/3dwG8Qc0o6b63lBFT4jqPd"
       },
@@ -1579,22 +1611,6 @@
       "duration_ms": 181368,
       "name": "Mp3",
       "url": "https://open.spotify.com/track/0PWLHDSK39Kh8Adc83Ltw6"
-    },
-    {
-      "added_at": "2023-12-01 05:01:00",
-      "album": {
-        "name": "En Ac\u00fastico",
-        "url": "https://open.spotify.com/album/6SIva4NYVKvJoJVfExZYDk"
-      },
-      "artists": [
-        {
-          "name": "Jxta Martin",
-          "url": "https://open.spotify.com/artist/689Xz3YbAUBmCsDYUxLu7P"
-        }
-      ],
-      "duration_ms": 207207,
-      "name": "Destino - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/1UUAtmVInu4DNChh5HYiHk"
     },
     {
       "added_at": "2023-12-01 05:01:00",
@@ -1715,26 +1731,6 @@
       "duration_ms": 191474,
       "name": "Cenizas y Miel",
       "url": "https://open.spotify.com/track/7j5n02hf4Biqj1rA6AhFiJ"
-    },
-    {
-      "added_at": "2023-12-01 05:01:00",
-      "album": {
-        "name": "La Canci\u00f3n",
-        "url": "https://open.spotify.com/album/0JKeAs7WGDWdoCjvdqgiKQ"
-      },
-      "artists": [
-        {
-          "name": "Sebasti\u00e1n Romero",
-          "url": "https://open.spotify.com/artist/0FpJe752weMmwiyJyF8zXq"
-        },
-        {
-          "name": "Recoversi\u00f3n",
-          "url": "https://open.spotify.com/artist/0NdB1t0K23mQgPxlAvqN1r"
-        }
-      ],
-      "duration_ms": 253910,
-      "name": "La Canci\u00f3n",
-      "url": "https://open.spotify.com/track/2p6vZOWwUYqlmnDGIaAl72"
     }
   ],
   "unique_name": "Mediod\u00eda Ac\u00fastico",

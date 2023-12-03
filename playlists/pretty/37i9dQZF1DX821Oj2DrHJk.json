@@ -1,12 +1,12 @@
 {
   "description": "Rock that was on repeat during the summers of the 1970s.",
-  "num_followers": 28887,
+  "num_followers": 28891,
   "original_name": "70s Summer Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NWM1ZDA1NzYwNTFhYjM2NWJlNWM5MmM1ZDgzY2Y0NWQ3MTYyMGE2",
+  "snapshot_id": "MCw4MDZhMGU3YTQ2YjhlMjBhYjZjY2QyMWQxZTU5YjhjMTllMGQxM2Nl",
   "tracks": [
     {
       "added_at": "2022-11-17 16:14:04",
@@ -591,22 +591,6 @@
     {
       "added_at": "2022-11-17 16:14:04",
       "album": {
-        "name": "L.A. Woman",
-        "url": "https://open.spotify.com/album/7IKUTIc9UWuVngyGPtqNHS"
-      },
-      "artists": [
-        {
-          "name": "The Doors",
-          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
-        }
-      ],
-      "duration_ms": 198466,
-      "name": "Love Her Madly",
-      "url": "https://open.spotify.com/track/3MFFDRC4wTN9JNGtzXsZlN"
-    },
-    {
-      "added_at": "2022-11-17 16:14:04",
-      "album": {
         "name": "School's Out",
         "url": "https://open.spotify.com/album/0zKjnOsXxs63unPR6TWoHq"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 210106,
       "name": "School's Out",
       "url": "https://open.spotify.com/track/5Z8EDau8uNcP1E8JvmfkZe"
+    },
+    {
+      "added_at": "2022-11-17 16:14:04",
+      "album": {
+        "name": "L.A. Woman",
+        "url": "https://open.spotify.com/album/7IKUTIc9UWuVngyGPtqNHS"
+      },
+      "artists": [
+        {
+          "name": "The Doors",
+          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
+        }
+      ],
+      "duration_ms": 198466,
+      "name": "Love Her Madly",
+      "url": "https://open.spotify.com/track/3MFFDRC4wTN9JNGtzXsZlN"
     },
     {
       "added_at": "2022-11-17 16:14:04",
@@ -719,22 +719,6 @@
     {
       "added_at": "2022-11-17 16:14:04",
       "album": {
-        "name": "The Captain and Me",
-        "url": "https://open.spotify.com/album/0M2KWMbvY5x1sUnIKNpyUt"
-      },
-      "artists": [
-        {
-          "name": "The Doobie Brothers",
-          "url": "https://open.spotify.com/artist/39T6qqI0jDtSWWioX8eGJz"
-        }
-      ],
-      "duration_ms": 195306,
-      "name": "China Grove",
-      "url": "https://open.spotify.com/track/7cy1bEJV6FCtDaYpsk8aG6"
-    },
-    {
-      "added_at": "2022-11-17 16:14:04",
-      "album": {
         "name": "McCartney (Archive Collection)",
         "url": "https://open.spotify.com/album/2lOll0xAGw8FPjwmwopAKT"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 229826,
       "name": "Maybe I\u2019m Amazed - 2011 Remaster",
       "url": "https://open.spotify.com/track/1Qa0Y05al633fG8f9Peytc"
+    },
+    {
+      "added_at": "2022-11-17 16:14:04",
+      "album": {
+        "name": "The Captain and Me",
+        "url": "https://open.spotify.com/album/0M2KWMbvY5x1sUnIKNpyUt"
+      },
+      "artists": [
+        {
+          "name": "The Doobie Brothers",
+          "url": "https://open.spotify.com/artist/39T6qqI0jDtSWWioX8eGJz"
+        }
+      ],
+      "duration_ms": 195306,
+      "name": "China Grove",
+      "url": "https://open.spotify.com/track/7cy1bEJV6FCtDaYpsk8aG6"
     },
     {
       "added_at": "2022-11-17 16:14:04",
@@ -847,22 +847,6 @@
     {
       "added_at": "2022-11-17 16:14:04",
       "album": {
-        "name": "Stranger In Town",
-        "url": "https://open.spotify.com/album/1vhib5WLHRVdOpRjiTHk15"
-      },
-      "artists": [
-        {
-          "name": "Bob Seger",
-          "url": "https://open.spotify.com/artist/485uL27bPomh29R4JmQehQ"
-        }
-      ],
-      "duration_ms": 302626,
-      "name": "Hollywood Nights",
-      "url": "https://open.spotify.com/track/5VbePtZp1at8gH990zVyTI"
-    },
-    {
-      "added_at": "2022-11-17 16:14:04",
-      "album": {
         "name": "Lola Versus Powerman and the Moneygoround, Pt. 1",
         "url": "https://open.spotify.com/album/6cv47fKkAyi9Lm5wwud4It"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 241991,
       "name": "Lola (2020 Stereo Remaster)",
       "url": "https://open.spotify.com/track/4Tjs8b6jL1s18sjURJtswp"
+    },
+    {
+      "added_at": "2022-11-17 16:14:04",
+      "album": {
+        "name": "Stranger In Town",
+        "url": "https://open.spotify.com/album/1vhib5WLHRVdOpRjiTHk15"
+      },
+      "artists": [
+        {
+          "name": "Bob Seger",
+          "url": "https://open.spotify.com/artist/485uL27bPomh29R4JmQehQ"
+        }
+      ],
+      "duration_ms": 302626,
+      "name": "Hollywood Nights",
+      "url": "https://open.spotify.com/track/5VbePtZp1at8gH990zVyTI"
     },
     {
       "added_at": "2022-11-17 16:14:04",
@@ -923,6 +923,22 @@
       "duration_ms": 268693,
       "name": "Hot Blooded",
       "url": "https://open.spotify.com/track/6xMHglHoafdDFGXS6qfwSH"
+    },
+    {
+      "added_at": "2022-11-17 16:14:04",
+      "album": {
+        "name": "Living in the Material World",
+        "url": "https://open.spotify.com/album/6DfpxC0hn5JTusslgO0IYj"
+      },
+      "artists": [
+        {
+          "name": "George Harrison",
+          "url": "https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS"
+        }
+      ],
+      "duration_ms": 215701,
+      "name": "Give Me Love (Give Me Peace on Earth)",
+      "url": "https://open.spotify.com/track/1ZiN3wseympSLDIFkaWHHC"
     },
     {
       "added_at": "2022-11-17 16:14:04",
@@ -987,22 +1003,6 @@
       "duration_ms": 263746,
       "name": "I Shot The Sheriff",
       "url": "https://open.spotify.com/track/0UOxp1BpnD8uPQMKU4wKjz"
-    },
-    {
-      "added_at": "2022-11-17 16:14:04",
-      "album": {
-        "name": "Living in the Material World",
-        "url": "https://open.spotify.com/album/6DfpxC0hn5JTusslgO0IYj"
-      },
-      "artists": [
-        {
-          "name": "George Harrison",
-          "url": "https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS"
-        }
-      ],
-      "duration_ms": 215701,
-      "name": "Give Me Love (Give Me Peace on Earth)",
-      "url": "https://open.spotify.com/track/1ZiN3wseympSLDIFkaWHHC"
     },
     {
       "added_at": "2022-11-17 16:14:04",
@@ -1391,18 +1391,18 @@
     {
       "added_at": "2022-11-17 16:14:04",
       "album": {
-        "name": "Approved By The Motors",
-        "url": "https://open.spotify.com/album/6i97ms05bUtfv2sWTsvzYg"
+        "name": "Never Mind The Bollocks, Here's The Sex Pistols",
+        "url": "https://open.spotify.com/album/5fxYu3rqjCNTSPKN8mtEl2"
       },
       "artists": [
         {
-          "name": "The Motors",
-          "url": "https://open.spotify.com/artist/4NsDGsuSfCM30e1JSMGeAn"
+          "name": "Sex Pistols",
+          "url": "https://open.spotify.com/artist/1u7kkVrr14iBvrpYnZILJR"
         }
       ],
-      "duration_ms": 278933,
-      "name": "Airport",
-      "url": "https://open.spotify.com/track/6F0CQMioZrqgkp3oHx4hpY"
+      "duration_ms": 198160,
+      "name": "Pretty Vacant",
+      "url": "https://open.spotify.com/track/2mKj8Em0GLFu8I78yM1CfU"
     },
     {
       "added_at": "2022-11-17 16:14:04",
@@ -1423,18 +1423,18 @@
     {
       "added_at": "2022-11-17 16:14:04",
       "album": {
-        "name": "Never Mind The Bollocks, Here's The Sex Pistols",
-        "url": "https://open.spotify.com/album/5fxYu3rqjCNTSPKN8mtEl2"
+        "name": "Approved By The Motors",
+        "url": "https://open.spotify.com/album/6i97ms05bUtfv2sWTsvzYg"
       },
       "artists": [
         {
-          "name": "Sex Pistols",
-          "url": "https://open.spotify.com/artist/1u7kkVrr14iBvrpYnZILJR"
+          "name": "The Motors",
+          "url": "https://open.spotify.com/artist/4NsDGsuSfCM30e1JSMGeAn"
         }
       ],
-      "duration_ms": 198160,
-      "name": "Pretty Vacant",
-      "url": "https://open.spotify.com/track/2mKj8Em0GLFu8I78yM1CfU"
+      "duration_ms": 278933,
+      "name": "Airport",
+      "url": "https://open.spotify.com/track/6F0CQMioZrqgkp3oHx4hpY"
     },
     {
       "added_at": "2022-11-17 16:14:04",

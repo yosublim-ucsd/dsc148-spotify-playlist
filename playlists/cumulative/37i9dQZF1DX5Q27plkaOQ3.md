@@ -4,7 +4,7 @@
 
 > All <a href="spotify:genre:bass">wobble</a>\. Cover: BARELY ALIVE
 
-479 songs - 1 day 3 hr 10 min
+480 songs - 1 day 3 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,7 @@
 | [Ball So Hard \- PIERCE Remix](https://open.spotify.com/track/3Xe1gYN2scJOx0R4C289YY) | [Hucci](https://open.spotify.com/artist/1wJNeTGqvB8WVYak3HC3pk), [Stooki Sound](https://open.spotify.com/artist/6ky7h0ow6NQgAnsoN2AB7h), [PIERCE](https://open.spotify.com/artist/1sg7LKlpfKmZSvI0xxqNWC) | [Ball So Hard \(PIERCE Remix\)](https://open.spotify.com/album/2TEa0aL1nxqMB4nLRHrbnt) | 2:20 | 2023-11-10 |  |
 | [Ballad of the Ravenous](https://open.spotify.com/track/6hbcSe4pcw8I2vhDG4XnWt) | [Midnight Tyrannosaurus](https://open.spotify.com/artist/6Z8O8PugLuKyLFVkZLQDRZ), [Stepps](https://open.spotify.com/artist/4oi1tAN4e3J3PnohTxiG96) | [Ballad of the Ravenous](https://open.spotify.com/album/47cURSR5K78UxX1zgzN9AO) | 4:11 | 2023-06-23 | 2023-11-05 |
 | [BANG YOUR HEAD](https://open.spotify.com/track/2vk63a0DpsEDiCG4k0mjCF) | [DIESEL](https://open.spotify.com/artist/75vCyksqhYjtt5VIpc8g7u), [Hairitage](https://open.spotify.com/artist/6Cqy862jSCV7qdNrCDqvNK), [Shaquille O'Neal](https://open.spotify.com/artist/67RWyN1fDOu7WuSTIi5hE7) | [BANG YOUR HEAD](https://open.spotify.com/album/3FkWFc1jekxt65VaXhsIRk) | 3:24 | 2023-06-09 |  |
-| [Bassface](https://open.spotify.com/track/6JMlB2FSy3OxFo40Fx5tjf) | [SIPPY](https://open.spotify.com/artist/4LLYqe8ogaK9wC1xHlvR5S), [Dirt Monkey](https://open.spotify.com/artist/5dNqUwGTZcQQ09ecTKkCGH) | [Bassface](https://open.spotify.com/album/0TKYjk3EGuVVhyj1KvL0Xy) | 3:06 | 2023-09-01 |  |
+| [Bassface](https://open.spotify.com/track/6JMlB2FSy3OxFo40Fx5tjf) | [SIPPY](https://open.spotify.com/artist/4LLYqe8ogaK9wC1xHlvR5S), [Dirt Monkey](https://open.spotify.com/artist/5dNqUwGTZcQQ09ecTKkCGH) | [Bassface](https://open.spotify.com/album/0TKYjk3EGuVVhyj1KvL0Xy) | 3:06 | 2023-09-01 | 2023-12-03 |
 | [BDASWY](https://open.spotify.com/track/2tcP7gI5IbWf347fKSMh89) | [Deathpact](https://open.spotify.com/artist/09C3CKFxKEw1n1Z7kvT3jb) | [MIDHEAVEN: OPUS 03](https://open.spotify.com/album/7ez4I4pNTSj2Dv5NEH6s3l) | 2:27 | 2023-01-13 |  |
 | [Be Kind, Rewind](https://open.spotify.com/track/3AlizcdWe1hKHrSgnwZYSp) | [INFEKT](https://open.spotify.com/artist/3I6KMDdmPiLE5UQ4XF8Kpl) | [Be Kind, Rewind](https://open.spotify.com/album/5YNWyJ6NIuW7U5AU7GRc4R) | 2:49 | 2023-07-14 |  |
 | [Better Off Alone](https://open.spotify.com/track/6wPBOv9UlysxoASQgRPPkU) | [Kai Wachi](https://open.spotify.com/artist/2fNr4ldujwq97v1jWeqs8K), [RUNN](https://open.spotify.com/artist/3l0H4QNiYYNdIsnZ4JgJAg) | [Better Off Alone](https://open.spotify.com/album/3V32JmXZjr6NzCpEdev5A5) | 4:51 | 2021-12-17 | 2023-04-01 |
@@ -200,6 +200,7 @@
 | [HEAT](https://open.spotify.com/track/2GqpGnSsaS4WY4wgURygHO) | [DIESEL](https://open.spotify.com/artist/75vCyksqhYjtt5VIpc8g7u), [Crankdat](https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb), [Shaquille O'Neal](https://open.spotify.com/artist/67RWyN1fDOu7WuSTIi5hE7) | [HEAT](https://open.spotify.com/album/0LNjCowJXfTpBCyNyG65vR) | 3:15 | 2023-07-07 |  |
 | [Heavy Metal](https://open.spotify.com/track/701sPqgQqlzdBPE8reDeBH) | [Flux Pavilion](https://open.spotify.com/artist/7muzHifhMdnfN1xncRLOqk), [PAV4N](https://open.spotify.com/artist/1csMDtU42ZYNaqadbA4TAK) | [Heavy Metal](https://open.spotify.com/album/4iGcggDKOW8w0tObYP1xdF) | 3:49 | 2023-11-03 |  |
 | [Heavyweights](https://open.spotify.com/track/5RLo69t3nlQ5YwXsJTYH5i) | [Ahee](https://open.spotify.com/artist/1gbDc1TANALgP8lLvO5UEf), [Stylust](https://open.spotify.com/artist/2Y1LgWOVPz5m1qCuzkWEQu) | [Energy Timewarp](https://open.spotify.com/album/0RrDWUxUMo5BLBZoGPFUyD) | 3:04 | 2022-02-25 | 2022-08-02 |
+| [Hexed Opera](https://open.spotify.com/track/2nLIjKSv9zudWVd2EKAd01) | [Caster](https://open.spotify.com/artist/4z7OnrBHTHdfpjNKl7NGox) | [Hexed Opera](https://open.spotify.com/album/4ObAFSjROlclG1vSyQXPi7) | 3:16 | 2023-11-24 |  |
 | [Higher](https://open.spotify.com/track/5wzp6qTG9HebBeK9lByJs7) | [Jaenga](https://open.spotify.com/artist/6eANYjiwIF3p73lhirhxGI), [Charmae](https://open.spotify.com/artist/6YwsIfJahtVO1AUlVumEs8) | [Higher](https://open.spotify.com/album/0Sl0PD8pjEBHRk4rX8kac8) | 4:58 | 2023-03-31 | 2023-05-19 |
 | [Holla](https://open.spotify.com/track/5ZXKxQWkDCm8RI0JWnBaam) | [Liquid Stranger](https://open.spotify.com/artist/4YJsSCuag8W1TFTgSeEc2k), [Wreckno](https://open.spotify.com/artist/6j78LtFLqDG65Ju57NUM5N) | [Holla](https://open.spotify.com/album/4icJQ3JuZV3PW6RVVVvU1A) | 3:02 | 2022-04-01 | 2023-05-13 |
 | [Hollow](https://open.spotify.com/track/6AoG52kxfptY0QBQnjuQOe) | [Dabin](https://open.spotify.com/artist/7lZauDnRoAC3kmaYae2opv), [Kai Wachi](https://open.spotify.com/artist/2fNr4ldujwq97v1jWeqs8K), [Lø Spirit](https://open.spotify.com/artist/7cImXesjInq0e25gQLHWoV) | [Hollow](https://open.spotify.com/album/3fzBtjYF8O1DFb3pmpkWgd) | 4:00 | 2023-02-06 |  |

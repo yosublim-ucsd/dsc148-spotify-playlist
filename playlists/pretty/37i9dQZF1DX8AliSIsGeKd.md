@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music\. Cover: Adriatique, Delhia De France
 
-[Spotify](https://open.spotify.com/user/spotify) - 622,662 likes - 92 songs - 7 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 622,822 likes - 92 songs - 7 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -101,4 +101,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 91 | [Cosmic Vibes](https://open.spotify.com/track/4L6Yea8uk4rzIpVBEMN2am) | [GRAViiTY](https://open.spotify.com/artist/1ycxas0HqhZQQc7zkhtUJY) | [Alien Club](https://open.spotify.com/album/1TKLUCqgBH2bWdult8Janp) | 3:38 |
 | 92 | [ELEKTRO EROTIK](https://open.spotify.com/track/4XKSBSuzMvTIUAIedPWzG2) | [Zeitgeist Freedom Energy Exchange](https://open.spotify.com/artist/2qDY4ib71XUC2Lo87r6HdM) | [ELEKTRO EROTIK](https://open.spotify.com/album/1EaRq7aBrSKkU4tttnG3g0) | 7:03 |
 
-Snapshot ID: `MCwzYzQ4ZjcwYzExZTVjNTIyMWVmNDhiYjdiMzhmM2VkNGNlOTQ2NmE2`
+Snapshot ID: `MCwwZWYwMThmYjVmZDhhZTE2NzhmYjZmZThiOWY3MzFhZTZhN2FlNmU4`

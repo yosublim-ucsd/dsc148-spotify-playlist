@@ -1,12 +1,12 @@
 {
   "description": "New and trending tracks from Texas Country icons and rising stars. Cover: Flatland Cavalry",
-  "num_followers": 420116,
+  "num_followers": 420156,
   "original_name": "Texas Country Now",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMTNkMzQ5ZTVkZDc4ZmRiYTg0MjZkYzNkMGYwZjQwNmY2NzRkMDM0",
+  "snapshot_id": "MCxiZGM2Njc4N2Y4MjI4NjIxNjU3YTA1YzY0NWM0Mzc1MTAwZDFmZGEy",
   "tracks": [
     {
       "added_at": "2023-11-24 05:00:00",
@@ -431,22 +431,18 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
-        "name": "Honky Tonkin' About",
-        "url": "https://open.spotify.com/album/0NcALFoPC2VFUj05Jsj9zP"
+        "name": "Heaven Down Here",
+        "url": "https://open.spotify.com/album/7sabls2pdbgDGN05k9yAIq"
       },
       "artists": [
         {
-          "name": "The Reklaws",
-          "url": "https://open.spotify.com/artist/37lYaYPWOHjKXBD33S6LNv"
-        },
-        {
-          "name": "Drake Milligan",
-          "url": "https://open.spotify.com/artist/4mskfuiHWZ3nX3qAdeaGiR"
+          "name": "Texas Hill",
+          "url": "https://open.spotify.com/artist/2Yl1rRB2mi1HPnXAuy9jqq"
         }
       ],
-      "duration_ms": 185315,
-      "name": "Honky Tonkin' About",
-      "url": "https://open.spotify.com/track/0mYDmAlfKvnSigoH2h9XbZ"
+      "duration_ms": 215977,
+      "name": "Easy on the Eyes",
+      "url": "https://open.spotify.com/track/5dE2CsXCL0Nvg8qG7NUKg1"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -491,18 +487,22 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
-        "name": "Heaven Down Here",
-        "url": "https://open.spotify.com/album/7sabls2pdbgDGN05k9yAIq"
+        "name": "Honky Tonkin' About",
+        "url": "https://open.spotify.com/album/0NcALFoPC2VFUj05Jsj9zP"
       },
       "artists": [
         {
-          "name": "Texas Hill",
-          "url": "https://open.spotify.com/artist/2Yl1rRB2mi1HPnXAuy9jqq"
+          "name": "The Reklaws",
+          "url": "https://open.spotify.com/artist/37lYaYPWOHjKXBD33S6LNv"
+        },
+        {
+          "name": "Drake Milligan",
+          "url": "https://open.spotify.com/artist/4mskfuiHWZ3nX3qAdeaGiR"
         }
       ],
-      "duration_ms": 215977,
-      "name": "Easy on the Eyes",
-      "url": "https://open.spotify.com/track/5dE2CsXCL0Nvg8qG7NUKg1"
+      "duration_ms": 185315,
+      "name": "Honky Tonkin' About",
+      "url": "https://open.spotify.com/track/0mYDmAlfKvnSigoH2h9XbZ"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -719,6 +719,38 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
+        "name": "The Show",
+        "url": "https://open.spotify.com/album/4Is8rQeOG1SQeIK5feEhZ6"
+      },
+      "artists": [
+        {
+          "name": "Jarrod Morris",
+          "url": "https://open.spotify.com/artist/2Y08Tu239xOkg25bPkth9R"
+        }
+      ],
+      "duration_ms": 208477,
+      "name": "The Show",
+      "url": "https://open.spotify.com/track/11P6OdZlM3Ik8lf82BV1TE"
+    },
+    {
+      "added_at": "2023-11-24 05:00:00",
+      "album": {
+        "name": "What Were You Thinking",
+        "url": "https://open.spotify.com/album/4YudDYjGcci2sS7avHGVDJ"
+      },
+      "artists": [
+        {
+          "name": "Josh Abbott Band",
+          "url": "https://open.spotify.com/artist/2EJ5MRZCzpHSSNNEpTx9Kb"
+        }
+      ],
+      "duration_ms": 185308,
+      "name": "What Were You Thinking",
+      "url": "https://open.spotify.com/track/1n7jCBudgQ49dz1eELQjoc"
+    },
+    {
+      "added_at": "2023-11-24 05:00:00",
+      "album": {
         "name": "Tough Country",
         "url": "https://open.spotify.com/album/4usJHvZr3K0vTvb7bzzw7w"
       },
@@ -743,38 +775,6 @@
       "duration_ms": 243120,
       "name": "Tough Country",
       "url": "https://open.spotify.com/track/20XPXqe5eCGYA5CnVnKUZF"
-    },
-    {
-      "added_at": "2023-11-24 05:00:00",
-      "album": {
-        "name": "What Were You Thinking",
-        "url": "https://open.spotify.com/album/4YudDYjGcci2sS7avHGVDJ"
-      },
-      "artists": [
-        {
-          "name": "Josh Abbott Band",
-          "url": "https://open.spotify.com/artist/2EJ5MRZCzpHSSNNEpTx9Kb"
-        }
-      ],
-      "duration_ms": 185308,
-      "name": "What Were You Thinking",
-      "url": "https://open.spotify.com/track/1n7jCBudgQ49dz1eELQjoc"
-    },
-    {
-      "added_at": "2023-11-24 05:00:00",
-      "album": {
-        "name": "The Show",
-        "url": "https://open.spotify.com/album/4Is8rQeOG1SQeIK5feEhZ6"
-      },
-      "artists": [
-        {
-          "name": "Jarrod Morris",
-          "url": "https://open.spotify.com/artist/2Y08Tu239xOkg25bPkth9R"
-        }
-      ],
-      "duration_ms": 208477,
-      "name": "The Show",
-      "url": "https://open.spotify.com/track/11P6OdZlM3Ik8lf82BV1TE"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -1271,18 +1271,18 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
-        "name": "blood",
-        "url": "https://open.spotify.com/album/4ttXGpNxsIaxGtsV2M3unU"
+        "name": "Baker Hotel",
+        "url": "https://open.spotify.com/album/7oj9A1igjcHCBnq6SyfB75"
       },
       "artists": [
         {
-          "name": "Kaitlin Butts",
-          "url": "https://open.spotify.com/artist/6QmSTo72BYMATkQVOV1axD"
+          "name": "William Clark Green",
+          "url": "https://open.spotify.com/artist/0cshCXEe1I7wlRwdrL91ZQ"
         }
       ],
-      "duration_ms": 298906,
-      "name": "blood",
-      "url": "https://open.spotify.com/track/2YqZCQhkuQpPUb5M9wptBq"
+      "duration_ms": 276280,
+      "name": "Anymore",
+      "url": "https://open.spotify.com/track/5DzqR9xwyVEwbhRVXes5sZ"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -1319,18 +1319,18 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
-        "name": "Baker Hotel",
-        "url": "https://open.spotify.com/album/7oj9A1igjcHCBnq6SyfB75"
+        "name": "blood",
+        "url": "https://open.spotify.com/album/4ttXGpNxsIaxGtsV2M3unU"
       },
       "artists": [
         {
-          "name": "William Clark Green",
-          "url": "https://open.spotify.com/artist/0cshCXEe1I7wlRwdrL91ZQ"
+          "name": "Kaitlin Butts",
+          "url": "https://open.spotify.com/artist/6QmSTo72BYMATkQVOV1axD"
         }
       ],
-      "duration_ms": 276280,
-      "name": "Anymore",
-      "url": "https://open.spotify.com/track/5DzqR9xwyVEwbhRVXes5sZ"
+      "duration_ms": 298906,
+      "name": "blood",
+      "url": "https://open.spotify.com/track/2YqZCQhkuQpPUb5M9wptBq"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -1451,18 +1451,18 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
-        "name": "Dust",
-        "url": "https://open.spotify.com/album/23IQqam0aRAKSCLjOv9hlu"
+        "name": "Happy Hour",
+        "url": "https://open.spotify.com/album/5CZAEHWXrGtkUDQjsLyjM2"
       },
       "artists": [
         {
-          "name": "Grace Tyler",
-          "url": "https://open.spotify.com/artist/7rJg0c4D0Xu1TtLmkaEMDH"
+          "name": "Hayes Carll",
+          "url": "https://open.spotify.com/artist/6UWifcscEdbjPgmbevBxZV"
         }
       ],
-      "duration_ms": 186993,
-      "name": "Dust",
-      "url": "https://open.spotify.com/track/7mEK8ZfXB69HKYZrOnV9CD"
+      "duration_ms": 191777,
+      "name": "Happy Hour",
+      "url": "https://open.spotify.com/track/1NrpMKByuTCn9Bck5mdqOm"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -1483,18 +1483,18 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
-        "name": "Happy Hour",
-        "url": "https://open.spotify.com/album/5CZAEHWXrGtkUDQjsLyjM2"
+        "name": "Dust",
+        "url": "https://open.spotify.com/album/23IQqam0aRAKSCLjOv9hlu"
       },
       "artists": [
         {
-          "name": "Hayes Carll",
-          "url": "https://open.spotify.com/artist/6UWifcscEdbjPgmbevBxZV"
+          "name": "Grace Tyler",
+          "url": "https://open.spotify.com/artist/7rJg0c4D0Xu1TtLmkaEMDH"
         }
       ],
-      "duration_ms": 191777,
-      "name": "Happy Hour",
-      "url": "https://open.spotify.com/track/1NrpMKByuTCn9Bck5mdqOm"
+      "duration_ms": 186993,
+      "name": "Dust",
+      "url": "https://open.spotify.com/track/7mEK8ZfXB69HKYZrOnV9CD"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -1524,7 +1524,7 @@
           "url": "https://open.spotify.com/artist/7kxALHF5FOUlUZz3g67T1u"
         }
       ],
-      "duration_ms": 217955,
+      "duration_ms": 219960,
       "name": "Shooting Stars & Whiskey",
       "url": "https://open.spotify.com/track/4SJA8haD1UeBsmHMOr4PIj"
     },
@@ -1603,18 +1603,18 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
-        "name": "Destiny",
-        "url": "https://open.spotify.com/album/7swt4qXQz75AomZfbJRHxl"
+        "name": "Fooled Around",
+        "url": "https://open.spotify.com/album/1CDfkllTerM9sZEAs0Gd0Q"
       },
       "artists": [
         {
-          "name": "Tanner Usrey",
-          "url": "https://open.spotify.com/artist/1ZGVS1OWpdvELiQyx3vkO7"
+          "name": "Presley Drake",
+          "url": "https://open.spotify.com/artist/0IQG9LULw1mZehtAXtF9ld"
         }
       ],
-      "duration_ms": 201733,
-      "name": "Destiny",
-      "url": "https://open.spotify.com/track/1iS3tR6A5kibt0BInSlzzU"
+      "duration_ms": 192125,
+      "name": "Fooled Around",
+      "url": "https://open.spotify.com/track/5BIOWZoUF45eU07lNuPXz6"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -1635,18 +1635,18 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
-        "name": "Fooled Around",
-        "url": "https://open.spotify.com/album/1CDfkllTerM9sZEAs0Gd0Q"
+        "name": "Destiny",
+        "url": "https://open.spotify.com/album/7swt4qXQz75AomZfbJRHxl"
       },
       "artists": [
         {
-          "name": "Presley Drake",
-          "url": "https://open.spotify.com/artist/0IQG9LULw1mZehtAXtF9ld"
+          "name": "Tanner Usrey",
+          "url": "https://open.spotify.com/artist/1ZGVS1OWpdvELiQyx3vkO7"
         }
       ],
-      "duration_ms": 192125,
-      "name": "Fooled Around",
-      "url": "https://open.spotify.com/track/5BIOWZoUF45eU07lNuPXz6"
+      "duration_ms": 201733,
+      "name": "Destiny",
+      "url": "https://open.spotify.com/track/1iS3tR6A5kibt0BInSlzzU"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -1667,22 +1667,6 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
-        "name": "Heartfelt",
-        "url": "https://open.spotify.com/album/5sCBCyGbNmMg4PzIg674ge"
-      },
-      "artists": [
-        {
-          "name": "Troy Cartwright",
-          "url": "https://open.spotify.com/artist/24I45QsPZf5Gr7aVlVmTfr"
-        }
-      ],
-      "duration_ms": 195123,
-      "name": "Heartfelt",
-      "url": "https://open.spotify.com/track/0OGcW962TOINe5X95LeAhl"
-    },
-    {
-      "added_at": "2023-11-24 05:00:00",
-      "album": {
         "name": "Homecoming",
         "url": "https://open.spotify.com/album/1Om7EoqiNsXCCMeiTzC9BZ"
       },
@@ -1695,6 +1679,22 @@
       "duration_ms": 208827,
       "name": "Fast Car",
       "url": "https://open.spotify.com/track/40TItUSmH99bXtbzp0pl4H"
+    },
+    {
+      "added_at": "2023-11-24 05:00:00",
+      "album": {
+        "name": "Heartfelt",
+        "url": "https://open.spotify.com/album/5sCBCyGbNmMg4PzIg674ge"
+      },
+      "artists": [
+        {
+          "name": "Troy Cartwright",
+          "url": "https://open.spotify.com/artist/24I45QsPZf5Gr7aVlVmTfr"
+        }
+      ],
+      "duration_ms": 195123,
+      "name": "Heartfelt",
+      "url": "https://open.spotify.com/track/0OGcW962TOINe5X95LeAhl"
     }
   ],
   "unique_name": "Texas Country Now",

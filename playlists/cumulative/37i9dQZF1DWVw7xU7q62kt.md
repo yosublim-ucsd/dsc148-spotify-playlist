@@ -4,7 +4,7 @@
 
 > Beats with a flavour of Jazz\. Cover: Blue Lab Beats
 
-140 songs - 7 hr 47 min
+141 songs - 7 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,6 +53,7 @@
 | [folding edges](https://open.spotify.com/track/5n5y0n7equo0sYNbjN6kg4) | [betahost](https://open.spotify.com/artist/1vGlmIKLKgaYfgAcSKhd4W) | [folding edges](https://open.spotify.com/album/0LrIgQ8ru1dhWY00oPms5p) | 2:21 | 2023-08-22 |  |
 | [Fork In The Rhodes](https://open.spotify.com/track/3x5ZyzDcGUHVTfpKJXoevK) | [SGJAZZ](https://open.spotify.com/artist/4u8H7IRVIRQTRH5JrAmK2G), [Dr\. Dundiff](https://open.spotify.com/artist/6T2NShr7SAArhtegdIpHHN) | [SGJAZZ, Vol\. 2](https://open.spotify.com/album/0A7nQz0OVtaozlGtWNQYKB) | 3:58 | 2023-08-22 |  |
 | [FRAGILE](https://open.spotify.com/track/1BY7dyFvIb0GilbJp7MZ82) | [Moses Yoofee Trio](https://open.spotify.com/artist/4Jmjucr9inAKcxy64DYNxS) | [OCEAN](https://open.spotify.com/album/4OhdSAUk38vuqxwdWEBLn4) | 4:47 | 2023-11-10 | 2023-11-18 |
+| [FRAGILE](https://open.spotify.com/track/6s5yV1VjNxtuMZZbxPIWDS) | [Moses Yoofee Trio](https://open.spotify.com/artist/4Jmjucr9inAKcxy64DYNxS) | [OCEAN](https://open.spotify.com/album/6xLTeSHt4h9gj0VDNXnoL4) | 4:47 | 2023-12-01 |  |
 | [fugla](https://open.spotify.com/track/38tYOR0HDj5UA2hev4YZvJ) | [Flughand](https://open.spotify.com/artist/6x5HLaMcoxaULXpgN0NJbb), [steichi](https://open.spotify.com/artist/6KjHEB4Dy7zHFoOMClXKQl) | [fugla](https://open.spotify.com/album/2MyxEuKVIJgT2RHpK2HpUO) | 2:10 | 2023-08-22 |  |
 | [Futuristic Earth](https://open.spotify.com/track/53crbk8yg8EblYm5WVtp9t) | [The Stance Brothers](https://open.spotify.com/artist/1AEh6OX55KCjPJX0Lzkjy1) | [Futuristic Earth](https://open.spotify.com/album/65B4vUhJSJ8ZqVpszxFJ2h) | 3:29 | 2023-10-13 | 2023-11-07 |
 | [Goldfoil](https://open.spotify.com/track/0SVgLGkpkGz8PI6fdQbMeO) | [lophiile](https://open.spotify.com/artist/5g5eVr2vAQnd12Q1XCJD7R) | [Goldfoil](https://open.spotify.com/album/7zOVyVUPJZXiE9vYAwoiuC) | 2:34 | 2023-08-25 |  |
@@ -117,7 +118,7 @@
 | [Springtime Secret](https://open.spotify.com/track/07fTTeHJx7q3cqJJwiHOma) | [Aleph](https://open.spotify.com/artist/1UbGhSo6X9OypkMO9BLNVe), [Dreamlike Studio](https://open.spotify.com/artist/3VlRT5debonTpgMwGxtLtF), [Alexandre Elias](https://open.spotify.com/artist/72xKqeAh9QfV1S7TAgYipb) | [Springtime Secret](https://open.spotify.com/album/32qrcl8UtGMXQy2bnSAUcZ) | 2:09 | 2023-08-22 |  |
 | [Stations](https://open.spotify.com/track/2GGAVfkgf8ze2U7ckpHAYQ) | [xander.](https://open.spotify.com/artist/6ysKfYgiKUTMCuq2fSTLK3), [Søren Søstrom](https://open.spotify.com/artist/2F5B5YgPDinjL9x35lkkke) | [Stations](https://open.spotify.com/album/2mrzldr66aHRPeXyazgulm) | 3:12 | 2023-08-22 |  |
 | [Stilo](https://open.spotify.com/track/3tBTtLW2GhWdwV42EQkBLO) | [Anthony Bruno](https://open.spotify.com/artist/1xHTfW0mULQmn6CM9f2wvN) | [Stilo](https://open.spotify.com/album/2rfVcCqLV42c7FCOyLSIm9) | 3:09 | 2023-08-22 |  |
-| [stroll](https://open.spotify.com/track/48CXPSMqlczCjqHD3tWKRF) | [Cosmic Wildlife](https://open.spotify.com/artist/01yuxqHdzegJb5Aq4V8gsB) | [stroll](https://open.spotify.com/album/0az5tgCzDGhdWbhUmRTWyT) | 3:31 | 2023-10-13 |  |
+| [stroll](https://open.spotify.com/track/48CXPSMqlczCjqHD3tWKRF) | [Cosmic Wildlife](https://open.spotify.com/artist/01yuxqHdzegJb5Aq4V8gsB) | [stroll](https://open.spotify.com/album/0az5tgCzDGhdWbhUmRTWyT) | 3:31 | 2023-10-13 | 2023-12-03 |
 | [Sun Drops](https://open.spotify.com/track/329x1AzCPqgaeiYLayRKQt) | [Midan](https://open.spotify.com/artist/1dYfhrPxJSeCJp8gGwN4qo) | [Sun Drops](https://open.spotify.com/album/6JhhmF9rjvZ7rIIMqsa91k) | 3:04 | 2023-08-22 |  |
 | [Sun Go Down](https://open.spotify.com/track/67b8oUDiOzfPPN2xDj4G0x) | [John Carroll Kirby](https://open.spotify.com/artist/7FQiZr787umw7P5dO3zqld) | [Sun Go Down](https://open.spotify.com/album/6tGejsu1Row5Qg2MD6fRl3) | 3:12 | 2023-10-13 | 2023-12-02 |
 | [Sunflowers \- Instrumental](https://open.spotify.com/track/4QbGLxnTppGc8Ezpj7sPz7) | [Adrian Younge](https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd), [Ali Shaheed Muhammad](https://open.spotify.com/artist/6adBZwsyxZuWDoty0Tg0lt), [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [Instrumentals JID009](https://open.spotify.com/album/1pgEGAlSKQqofycTIjSW4g) | 3:01 | 2023-08-25 |  |

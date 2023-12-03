@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1IDfsEC88SH30ppwQrOJoi.md) - [plain]
 
 > High energy, club songs from around the world! Follow <a href="http://open.spotify.com/user/ultramusicofficial">our profile</a> for more playlists.
 
-[Ultra Records](https://open.spotify.com/user/ultramusicofficial) - 14,629 likes - 194 songs - 10 hr 8 min
+[Ultra Records](https://open.spotify.com/user/ultramusicofficial) - 14,636 likes - 194 songs - 10 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/1IDfsEC88SH30ppwQrOJoi.md) - [plain]
 | 15 | [Moonlight \(feat\. Antrex\)](https://open.spotify.com/track/08VzBbaIZe2jbB7nqPJWgK) | [Laidback Luke](https://open.spotify.com/artist/53cQZtWDwDJwVCNZlfJ6Qk), [GATTÜSO](https://open.spotify.com/artist/3PlRvQnVE3XAbtHUNc4nic), [Antrex](https://open.spotify.com/artist/5hOuIXHYebxxydOAEtHVbm) | [Moonlight \(feat\. Antrex\)](https://open.spotify.com/album/5OLbKkQKpJWxk81jq5taCt) | 2:39 |
 | 16 | [Dope Dance](https://open.spotify.com/track/3wLOypLdLw1SGdbEUmivEj) | [Tripolism](https://open.spotify.com/artist/18JlbX3l0yzlwdnQVJrLsp), [Nandu](https://open.spotify.com/artist/5Kf73Whb7MShPJMFlvv8k0), [Radeckt](https://open.spotify.com/artist/266oTSLOTKmaChZqMvx7QL) | [Dope Dance](https://open.spotify.com/album/7ARyH7O9xLfYm2CT0yWc7k) | 3:37 |
 | 17 | [Very Last Drop](https://open.spotify.com/track/6F9RXfCiIo9TK06dWtSaEQ) | [Dylan & Harry](https://open.spotify.com/artist/6P4JE157ezddehGEnhC3jc), [Party Favor](https://open.spotify.com/artist/7yPPzu5UdAK7yagQqjEZQm), [Baauer](https://open.spotify.com/artist/25fqWEebq6PoiGQIHIrdtv) | [DnH](https://open.spotify.com/album/4yHqeYqa87qDBBDb0xwDyb) | 4:03 |
-| 18 | [Fine Day Anthem](https://open.spotify.com/track/6tifCCTIVBLC2TmTquYG7G) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Boys Noize](https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv) | [Fine Day Anthem](https://open.spotify.com/album/2mxzA7momOeBvCyKDgZRIb) | 3:13 |
+| 18 | [Fine Day Anthem](https://open.spotify.com/track/6tifCCTIVBLC2TmTquYG7G) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Boys Noize](https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv), [Opus III](https://open.spotify.com/artist/1hQuWl1dueM7ChRUZRn05z) | [Fine Day Anthem](https://open.spotify.com/album/2mxzA7momOeBvCyKDgZRIb) | 3:13 |
 | 19 | [Jalapeño \(feat\. DIAS\)](https://open.spotify.com/track/0mssLywe7VqYH6NlvdxLhV) | [WAVES](https://open.spotify.com/artist/6p32HfiKpYD3wdKHV7utxQ), [DIAS](https://open.spotify.com/artist/005nAN1lLc2dTLpjBQQGCq) | [Jalapeño \(feat\. DIAS\)](https://open.spotify.com/album/0FZc5utNvOQamO9PggX7jF) | 2:18 |
 | 20 | [Midtown Playground](https://open.spotify.com/track/22fEl4nzfgTqKi7ZYNXW3c) | [Chris Stussy](https://open.spotify.com/artist/3BxjasMelf9pKaE4f7Y0So) | [Midtown Playground](https://open.spotify.com/album/4wJmh4uUgDAAAyFdRMIE7K) | 3:42 |
 | 21 | [Break Through](https://open.spotify.com/track/582SrUOUUD8cLT3H63dK0y) | [VOLT VISION](https://open.spotify.com/artist/0D1RIHFWh132dnfTGIHF6K) | [Break Through](https://open.spotify.com/album/17l30Pmbml7kAyGRdXdF5Y) | 2:16 |

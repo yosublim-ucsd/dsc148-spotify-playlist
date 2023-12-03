@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2dlPXwFl0rQ.md) - [plain]
 
 > Estas son las indomables de la Música Mexicana\. Brianda en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 99,643 likes - 100 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 99,682 likes - 100 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2dlPXwFl0rQ.md) - [plain]
 | 71 | [Échame A Mí La Culpa](https://open.spotify.com/track/4aWbiCasnpmIRn4LsQVKSD) | [Sherlyn Sánchez](https://open.spotify.com/artist/3rX2TVbHOjIfQg1o00kagl) | [Échame A Mí La Culpa](https://open.spotify.com/album/1UzNlPl5CuIzvLqZ9Suv50) | 3:13 |
 | 72 | [Tu Casi Algo](https://open.spotify.com/track/4lN3ybB2niteicPFKqVQTk) | [Escarlata](https://open.spotify.com/artist/6eDMcSQvrGt2zoVFSIwmgZ), [Erika Vidrio](https://open.spotify.com/artist/4psSCgqhwgjY16plPhSw9P) | [Tu Casi Algo](https://open.spotify.com/album/2z4f4hNhcs9JV5FR0H2QR8) | 2:25 |
 | 73 | [¿Por Qué No Vienes?](https://open.spotify.com/track/5OMUiJlu6MR1JAS7PVuIOY) | [Vicky Terrazas](https://open.spotify.com/artist/4DklMZnSnGfzavNx8P02VG) | [¿Por Qué No Vienes?](https://open.spotify.com/album/0YkM3kQNfaCjr5cUjNktzm) | 3:35 |
-| 74 | [Por Cbrn y x Qlero](https://open.spotify.com/track/54pMzb8zgSjQ7FnGtF3zdx) | [Janeth Valenzuela](https://open.spotify.com/artist/4fqTtvwo9kLosNr5VPnx1G) | [Por Cbrn y x Qlero](https://open.spotify.com/album/3zJstkHuWczgdUSQPUXLSZ) | 2:50 |
+| 74 | [Si Dejó de Quererte](https://open.spotify.com/track/1faGe10rEvZyYVfzve5ESU) | [Janeth Valenzuela](https://open.spotify.com/artist/4fqTtvwo9kLosNr5VPnx1G) | [Si Dejó de Quererte](https://open.spotify.com/album/1BqYngNeUJFTQU4uypeg7g) | 3:20 |
 | 75 | [Estan Lloviendo Lagrimas](https://open.spotify.com/track/4ojSnzH10PN0dxTr0eWtOt) | [Graciela Beltran](https://open.spotify.com/artist/7HcFX1LEnI6zHIHCt8olTl) | [Graciela Beltran 14 Super Exitos](https://open.spotify.com/album/2Yftqok3ZWYM1wu3ESWvaS) | 3:06 |
 | 76 | [Mi Problema](https://open.spotify.com/track/4VPFDmBBwE3MfMRL42iIa4) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [Mi Problema](https://open.spotify.com/album/1yPw3S7ednaRYnHUZchyMb) | 3:03 |
 | 77 | [Mi Culpa](https://open.spotify.com/track/35NsxRSqly73eUC9jOgATW) | [Sandra Echeverria](https://open.spotify.com/artist/0LfJXLNpLGZtn4OAki9W31) | [Mi Culpa](https://open.spotify.com/album/2IiwnQJQpBcaZnkvycvvT9) | 4:28 |
@@ -89,7 +89,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2dlPXwFl0rQ.md) - [plain]
 | 79 | [No Me Pregunten Por Él](https://open.spotify.com/track/5N3UilPh2Nsk5tx1VeotXs) | [Diana Reyes](https://open.spotify.com/artist/5bY76TkueuNA4eqIm67Pkz) | [No Me Pregunten Por Él](https://open.spotify.com/album/3tF7QyTPnYypPP9LXAG5cm) | 3:11 |
 | 80 | [Quiero Abrazarte Tanto](https://open.spotify.com/track/6KOMoZ9OIjxF7pCmZ0ZIXX) | [ROSUL](https://open.spotify.com/artist/0Y5tdiaE3s1E1AishqnolD) | [Quiero Abrazarte Tanto](https://open.spotify.com/album/6bSOwQJmOghBp04eohKJL3) | 3:31 |
 | 81 | [Dejémoslo Así](https://open.spotify.com/track/5MKzsXx4mJiVeRoifOyDpg) | [Sherlyn Sánchez](https://open.spotify.com/artist/3rX2TVbHOjIfQg1o00kagl) | [Dejémoslo Así](https://open.spotify.com/album/68uoaAVX3lfeKD2igm1SX1) | 3:29 |
-| 82 | [Si Dejó de Quererte](https://open.spotify.com/track/1faGe10rEvZyYVfzve5ESU) | [Janeth Valenzuela](https://open.spotify.com/artist/4fqTtvwo9kLosNr5VPnx1G) | [Si Dejó de Quererte](https://open.spotify.com/album/1BqYngNeUJFTQU4uypeg7g) | 3:20 |
+| 82 | [Por Cbrn y x Qlero](https://open.spotify.com/track/54pMzb8zgSjQ7FnGtF3zdx) | [Janeth Valenzuela](https://open.spotify.com/artist/4fqTtvwo9kLosNr5VPnx1G) | [Por Cbrn y x Qlero](https://open.spotify.com/album/3zJstkHuWczgdUSQPUXLSZ) | 2:50 |
 | 83 | [Si Quieres Verme Llorar](https://open.spotify.com/track/7pPa674i4GIa5v5nzwssk4) | [Marisol Terrazas](https://open.spotify.com/artist/3PRQE4Qyt7YF67ElSNxYok) | [Ahora Va La Mía](https://open.spotify.com/album/6oqlFEjgYbCrsMBPiH0NID) | 3:26 |
 | 84 | [Solita Solita](https://open.spotify.com/track/2PGG4xCY4sQfCH4ioOYPs3) | [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [Solita Solita](https://open.spotify.com/album/6XNR6JLc1mboTXg8sZTWyM) | 3:07 |
 | 85 | [LMV](https://open.spotify.com/track/3VX6Iwk3LMKWLWZCX4xJwD) | [Yerai R](https://open.spotify.com/artist/1d9KyLzLJGWNVuWjNH4WmY), [Michelle BI](https://open.spotify.com/artist/2dUVZnenljNsORRkO4OnzM) | [LMV](https://open.spotify.com/album/5S4OjWHkDANBQJUyRwRlNX) | 2:51 |
@@ -100,8 +100,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2dlPXwFl0rQ.md) - [plain]
 | 90 | [Cúbreme](https://open.spotify.com/track/6YCsNv4f9cHSuWRKWZ2Car) | [Gabriella](https://open.spotify.com/artist/1n6ZR4WIvyvuioc07O5UiM) | [Siempre Gabriella](https://open.spotify.com/album/5dNYwOCnXWUW3G241sdEwt) | 3:21 |
 | 91 | [Por Ti](https://open.spotify.com/track/56kcxvEbwLaKpR6btCuE8q) | [Janeth Valenzuela](https://open.spotify.com/artist/4fqTtvwo9kLosNr5VPnx1G) | [Por Ti](https://open.spotify.com/album/2qrc0YH2PfVbdSQpwEWxl9) | 2:43 |
 | 92 | [Contigo Aprendí \- En Vivo](https://open.spotify.com/track/1Oj84aMBeOnTcjKyQ4yHkA) | [Ana Casillas](https://open.spotify.com/artist/1B14dSg39GuUntPDa6KOXu) | [Sesiones En Vivo Vol\. 2](https://open.spotify.com/album/10F9VCKoV67HlFuBM0wgju) | 3:26 |
-| 93 | [Que Le Vamos A Hacer](https://open.spotify.com/track/7lgZKUOlZ0OkKgxQK8SAEJ) | [Janine](https://open.spotify.com/artist/0lu4CrVNwnwEblIqvD5A5z) | [Que Le Vamos A Hacer](https://open.spotify.com/album/70Ma9THR2zNcpYW7pLyaLa) | 3:23 |
-| 94 | [Me Voy](https://open.spotify.com/track/3SiScfgPP9I494Fbi5YFmf) | [Laraim](https://open.spotify.com/artist/4r5HNge7RwUJq7U9B6xDFt) | [Íntimamente](https://open.spotify.com/album/3xgoENA5vtoM7wJ2kuPKHq) | 3:06 |
+| 93 | [Me Voy](https://open.spotify.com/track/3SiScfgPP9I494Fbi5YFmf) | [Laraim](https://open.spotify.com/artist/4r5HNge7RwUJq7U9B6xDFt) | [Íntimamente](https://open.spotify.com/album/3xgoENA5vtoM7wJ2kuPKHq) | 3:06 |
+| 94 | [Que Le Vamos A Hacer](https://open.spotify.com/track/7lgZKUOlZ0OkKgxQK8SAEJ) | [Janine](https://open.spotify.com/artist/0lu4CrVNwnwEblIqvD5A5z) | [Que Le Vamos A Hacer](https://open.spotify.com/album/70Ma9THR2zNcpYW7pLyaLa) | 3:23 |
 | 95 | [La Gitanilla](https://open.spotify.com/track/7jKkmzmUeVV4gbwALwp43w) | [Dueto Eleval](https://open.spotify.com/artist/33gpRuqgapD4OaV9kcODrK), [Banda las Angelinas](https://open.spotify.com/artist/6jSN6llBjMrAcneqaOvUtp) | [La Gitanilla](https://open.spotify.com/album/63XjnfQ5amRVXAeEhIqJMA) | 3:54 |
 | 96 | [No Puedo Olvidarlo](https://open.spotify.com/track/4SULcMUj2EcxM82DT0eH8P) | [Irene del Rosario](https://open.spotify.com/artist/280pdvUx6toxxX9M8z2ZFN) | [En Vivo: Irene del Rosario](https://open.spotify.com/album/6BbQay1OCtcxDV3HiqRHcN) | 3:34 |
 | 97 | [Cerrada Al Amor](https://open.spotify.com/track/6fGBRojVsgk4JaJ0ptRz6Q) | [Helen Ochoa](https://open.spotify.com/artist/7oFVQdInQWD7GQRgWxSiHD) | [Cerrada Al Amor](https://open.spotify.com/album/4Zj6vawARtBV2piYE4X3mx) | 3:24 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2dlPXwFl0rQ.md) - [plain]
 | 99 | [Con La Mirada](https://open.spotify.com/track/4BCKCpZVirE6JD4X3Hmqzi) | [Gabriella](https://open.spotify.com/artist/1n6ZR4WIvyvuioc07O5UiM) | [Con La Mirada](https://open.spotify.com/album/2boCTrvGLGYoi0CL6oGnHE) | 3:52 |
 | 100 | [Sin Valor \- En Vivo](https://open.spotify.com/track/3rbvj7ze4RtxgasRobBk9X) | [Erika Vidrio](https://open.spotify.com/artist/4psSCgqhwgjY16plPhSw9P) | [No te quiebres Vidrio \(En Vivo\)](https://open.spotify.com/album/4rcNLXlByaS7Lh4dPYrrbI) | 3:43 |
 
-Snapshot ID: `MCxjMzQ4OWM4NGIyYWZhMjg5YTUwNWNlMGQxYjUzNWFkYjNhMTcyNDUz`
+Snapshot ID: `MCwzMDc2ZjM5OGQ3Mzk2NGFhYjM0Y2Y2NDMwNTc3MWNmNzgxOTlmMWFh`

@@ -715,6 +715,24 @@
     },
     {
       "album": {
+        "name": "Smile Again",
+        "url": "https://open.spotify.com/album/7aIMR4kB87X92XrEzK6L6M"
+      },
+      "artists": [
+        {
+          "name": "BE:FIRST",
+          "url": "https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202049,
+      "name": "Smile Again",
+      "url": "https://open.spotify.com/track/6EJDyT2T7pEeLLhNRR416r"
+    },
+    {
+      "album": {
         "name": "Mainstream",
         "url": "https://open.spotify.com/album/7ixevog8Pu3jbd3VeZSK7j"
       },
@@ -726,7 +744,7 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-03",
       "duration_ms": 176120,
       "name": "SOS",
       "url": "https://open.spotify.com/track/3gahDIUGQT0Hlmf5zNN4ta"

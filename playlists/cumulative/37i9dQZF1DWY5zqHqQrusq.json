@@ -448,7 +448,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-03",
       "duration_ms": 170928,
       "name": "Karma",
       "url": "https://open.spotify.com/track/6TWmMuc8pofbqBJA0jn4GW"
@@ -972,7 +972,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-03",
       "duration_ms": 188148,
       "name": "Sio Siri",
       "url": "https://open.spotify.com/track/5oKoPTkNST0DFa6CYOrCS6"
@@ -994,6 +994,24 @@
       "duration_ms": 219275,
       "name": "Skin",
       "url": "https://open.spotify.com/track/1j6AwoqDeTLmfvBeY281CN"
+    },
+    {
+      "album": {
+        "name": "The Footprint",
+        "url": "https://open.spotify.com/album/04ZdDUDZ05hdtUawvudVL4"
+      },
+      "artists": [
+        {
+          "name": "Ochiko",
+          "url": "https://open.spotify.com/artist/33hRHDCTA20GjDaJaCIEXi"
+        }
+      ],
+      "date_added": "2023-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217213,
+      "name": "Slowly",
+      "url": "https://open.spotify.com/track/2fSLRfuJr2utyjHrbohiWu"
     },
     {
       "album": {
@@ -1142,6 +1160,24 @@
       "duration_ms": 173085,
       "name": "The Oasis on Mbaazi Street",
       "url": "https://open.spotify.com/track/7oqKrDdrY5BvaNOTJ0wO7l"
+    },
+    {
+      "album": {
+        "name": "Nostalgia",
+        "url": "https://open.spotify.com/album/5ZZ5etoKU2wQ6eb2U5j1uZ"
+      },
+      "artists": [
+        {
+          "name": "Modest Chabari",
+          "url": "https://open.spotify.com/artist/6lIgY6GFEW514NQ6bqafIm"
+        }
+      ],
+      "date_added": "2023-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195555,
+      "name": "Things Change",
+      "url": "https://open.spotify.com/track/67CQz7IH16hlEQf7AszkY8"
     },
     {
       "album": {

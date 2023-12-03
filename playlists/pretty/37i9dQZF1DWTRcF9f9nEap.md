@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTRcF9f9nEap.md) - [plain]
 
 > A sound synonymous with the Blues; these are the pioneering names in slide guitar\. Cover: Johnny Winter
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,233 likes - 50 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,279 likes - 50 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,17 +19,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTRcF9f9nEap.md) - [plain]
 | 9 | [Catch Hell Blues](https://open.spotify.com/track/064unATFKRpnOwL1Yfvp39) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [Icky Thump](https://open.spotify.com/album/2DSNJ8bdoYfC6Uydg8ilBC) | 4:18 |
 | 10 | [Ain't Got Nobody](https://open.spotify.com/track/4lbqUtqgX3dITgYJMBjCDS) | [Hound Dog Taylor](https://open.spotify.com/artist/737qPoiQQkeuIzuJy54aK4) | [Genuine Houserocking Music](https://open.spotify.com/album/0QYVlYhJlKUteRXnfqZwhe) | 3:30 |
 | 11 | [I'm In The Mood](https://open.spotify.com/track/1W3QQa9SG6zaftNQJchWY7) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x), [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [The Healer](https://open.spotify.com/album/2jKj2prskANfjyo13navEs) | 4:31 |
-| 12 | [Dark Was the Night, Cold Was the Ground](https://open.spotify.com/track/2P9nh9pTK96dE0b6NBbTSs) | [Blind Willie Johnson](https://open.spotify.com/artist/5kO4xdEKLuHHHPreu3UmkZ) | [Dark Was The Night \(Mojo Workin'\- Blues For The Next Generation\)](https://open.spotify.com/album/3H90ji25FlT62CztiEOhrt) | 3:18 |
-| 13 | [Statesboro Blues](https://open.spotify.com/track/3UsbGR71AjcBYOWoUlfTdm) | [Allman Brothers Band](https://open.spotify.com/artist/4wQ3PyMz3WwJGI5uEqHUVR) | [The 1971 Fillmore East Recordings](https://open.spotify.com/album/4RbjXWZ3uTRGP3DRT6nvKz) | 4:44 |
-| 14 | [You Gotta Move](https://open.spotify.com/track/2En6kxGCjZxXmKJ1IYu4Fp) | [Mississippi Fred McDowell](https://open.spotify.com/artist/0elA30wLp3RmiPaGtU2jhQ) | [You Gotta Move](https://open.spotify.com/album/5nJz88Bfi3okSgLuLLDfX1) | 3:20 |
+| 12 | [You Gotta Move](https://open.spotify.com/track/2En6kxGCjZxXmKJ1IYu4Fp) | [Mississippi Fred McDowell](https://open.spotify.com/artist/0elA30wLp3RmiPaGtU2jhQ) | [You Gotta Move](https://open.spotify.com/album/5nJz88Bfi3okSgLuLLDfX1) | 3:20 |
+| 13 | [Dark Was the Night, Cold Was the Ground](https://open.spotify.com/track/2P9nh9pTK96dE0b6NBbTSs) | [Blind Willie Johnson](https://open.spotify.com/artist/5kO4xdEKLuHHHPreu3UmkZ) | [Dark Was The Night \(Mojo Workin'\- Blues For The Next Generation\)](https://open.spotify.com/album/3H90ji25FlT62CztiEOhrt) | 3:18 |
+| 14 | [Statesboro Blues](https://open.spotify.com/track/3UsbGR71AjcBYOWoUlfTdm) | [Allman Brothers Band](https://open.spotify.com/artist/4wQ3PyMz3WwJGI5uEqHUVR) | [The 1971 Fillmore East Recordings](https://open.spotify.com/album/4RbjXWZ3uTRGP3DRT6nvKz) | 4:44 |
 | 15 | [I Can't Be Satisfied](https://open.spotify.com/track/7FDFtgdyzlBN0tUo3boGZe) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [The Chess Box](https://open.spotify.com/album/182PeD4zms8Cup3oZcACOB) | 2:42 |
 | 16 | [Dust My Broom](https://open.spotify.com/track/0fM0mFxHP1R4KPX1PB8tWU) | [Elmore James](https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS) | [Shake Your Money Maker: The Best Of The Fire Sessions](https://open.spotify.com/album/5f4i4c03PdC3yHI63Ccauu) | 2:55 |
 | 17 | [Death Letter](https://open.spotify.com/track/78ZPgT0agDUG95ByxpTNBP) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [De Stijl](https://open.spotify.com/album/3jqKVacx9hnu47kCAG55T3) | 4:29 |
 | 18 | [Diving Duck Blues](https://open.spotify.com/track/0hK8IwYBQwGbTgd7C5XyRZ) | [Taj Mahal](https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp), [Keb' Mo'](https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F) | [TajMo](https://open.spotify.com/album/3NF642glRZZKf3Ng96eMfX) | 4:28 |
 | 19 | [Feelin' Bad Blues \- 2008 Remaster](https://open.spotify.com/track/1mka0egloj2XnXJznzMCw6) | [Ry Cooder](https://open.spotify.com/artist/1CPwHx5lgVxv0rfcp7UXLx) | [Crossroads \(Original Sountrack\)](https://open.spotify.com/album/77UqIYxZhslPXUTiq4vDrE) | 4:16 |
-| 20 | [Old Friend](https://open.spotify.com/track/5TX4HB4ndwJCxoD3FWEIQx) | [Allman Brothers Band](https://open.spotify.com/artist/4wQ3PyMz3WwJGI5uEqHUVR) | [Hittin' the Note](https://open.spotify.com/album/2rZfqnJBkKxjOK1RsZfPpL) | 6:12 |
-| 21 | [Down In the Flood](https://open.spotify.com/track/5U51nS2N1TDL1HEHEio7mC) | [The Derek Trucks Band](https://open.spotify.com/artist/1YwfENKEZrowcmtR1nALZn) | [Already Free](https://open.spotify.com/album/1I4Ydy7hVvINSdRHV7n4fS) | 5:02 |
-| 22 | [Am I Wrong](https://open.spotify.com/track/3tvyQCSm1QcWURgGvygvke) | [Keb' Mo'](https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F) | [Keb' Mo'](https://open.spotify.com/album/09rC6HgLbuYl74OvGdJw6t) | 2:18 |
+| 20 | [Down In the Flood](https://open.spotify.com/track/5U51nS2N1TDL1HEHEio7mC) | [The Derek Trucks Band](https://open.spotify.com/artist/1YwfENKEZrowcmtR1nALZn) | [Already Free](https://open.spotify.com/album/1I4Ydy7hVvINSdRHV7n4fS) | 5:02 |
+| 21 | [Am I Wrong](https://open.spotify.com/track/3tvyQCSm1QcWURgGvygvke) | [Keb' Mo'](https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F) | [Keb' Mo'](https://open.spotify.com/album/09rC6HgLbuYl74OvGdJw6t) | 2:18 |
+| 22 | [Old Friend](https://open.spotify.com/track/5TX4HB4ndwJCxoD3FWEIQx) | [Allman Brothers Band](https://open.spotify.com/artist/4wQ3PyMz3WwJGI5uEqHUVR) | [Hittin' the Note](https://open.spotify.com/album/2rZfqnJBkKxjOK1RsZfPpL) | 6:12 |
 | 23 | [Ground On Down](https://open.spotify.com/track/6THh5CL5PYf7OqOq9pTqNb) | [Ben Harper](https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN) | [Fight For Your Mind](https://open.spotify.com/album/3qw2TRebw37Mdb3aP78kM4) | 4:53 |
 | 24 | [Find a Way](https://open.spotify.com/track/4PTfrK6IhnTOd7SRpH17EK) | [Robert Randolph & The Family Band](https://open.spotify.com/artist/4xac3zhHlBm5QDxbZeqgeR) | [Got Soul](https://open.spotify.com/album/2WWqqmFSB4jFEnnRwngeSB) | 3:56 |
 | 25 | [It Hurts Me Too](https://open.spotify.com/track/7egQm3o9Qem3FhzUNi66rI) | [Elmore James](https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS) | [Street Talkin'](https://open.spotify.com/album/1po8PLsiylhu2cuvR1Xw3L) | 3:12 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTRcF9f9nEap.md) - [plain]
 | 49 | [Devil's Slide](https://open.spotify.com/track/7oyB0fKoaMuiuYCI1wmtXr) | [Elvin Bishop](https://open.spotify.com/artist/2G1yVp387GlUf9yvLk6V11) | [Don't Let The Bossman Get You Down!](https://open.spotify.com/album/5nr04ZHmPjgfPjKsvDAdhb) | 2:56 |
 | 50 | [Statesboro Blues](https://open.spotify.com/track/1pyyaheYNV54SIVv6z5wxU) | [Allman Brothers Band](https://open.spotify.com/artist/4wQ3PyMz3WwJGI5uEqHUVR) | [Dreams](https://open.spotify.com/album/51kF3pqbherdGJhcwKdmjC) | 4:06 |
 
-Snapshot ID: `MCxkNTZjM2UyMzQ3ZTUxOGQyN2QxMjJjNTA0ZGM4YTY0Nzk4MmQzZDFh`
+Snapshot ID: `MCxhZmQyNjhjNzNiZjE1ZDk4MDhiZWZkNjQ4MzVkYTNmMGM3NDRhNGEz`

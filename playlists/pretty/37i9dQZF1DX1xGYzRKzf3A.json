@@ -1,12 +1,12 @@
 {
   "description": "45 grados y un chingo de cerveza... \u00a1As\u00ed suena el noreste! ",
-  "num_followers": 103474,
+  "num_followers": 103681,
   "original_name": "Coraz\u00f3n Regio ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMTNjYjg4YWNhOGQ0OWM0MjhmYWQ5NjhlNWZiNDEzZmJhMzQ5YzI5",
+  "snapshot_id": "MCwwMjkwMDk5MGRlYTE5YjNjZjg4ZjFjNzAxMWY4Zjk5NDJhODMyMzcz",
   "tracks": [
     {
       "added_at": "2023-11-08 22:38:29",
@@ -971,6 +971,22 @@
     {
       "added_at": "2023-11-08 22:38:29",
       "album": {
+        "name": "Lives Pa' La Raza (En Vivo)",
+        "url": "https://open.spotify.com/album/5p50bUpy7JxrzPkAs2XS1q"
+      },
+      "artists": [
+        {
+          "name": "Secretto",
+          "url": "https://open.spotify.com/artist/1p2oJls3t03KjBx99Lj2ZQ"
+        }
+      ],
+      "duration_ms": 134234,
+      "name": "La Flechita - En Vivo",
+      "url": "https://open.spotify.com/track/1MKJ9FCBXbavUvd3hvpdTg"
+    },
+    {
+      "added_at": "2023-11-08 22:38:29",
+      "album": {
         "name": "M\u00e1s Cerca De Ti",
         "url": "https://open.spotify.com/album/1n0IWcxgoJl33DyI41AtCI"
       },
@@ -1003,22 +1019,6 @@
       "duration_ms": 207725,
       "name": "Necesito Decirte",
       "url": "https://open.spotify.com/track/5APm7ovr3mZBAEtJlF8pbY"
-    },
-    {
-      "added_at": "2023-11-08 22:38:29",
-      "album": {
-        "name": "Lives Pa' La Raza (En Vivo)",
-        "url": "https://open.spotify.com/album/5p50bUpy7JxrzPkAs2XS1q"
-      },
-      "artists": [
-        {
-          "name": "Secretto",
-          "url": "https://open.spotify.com/artist/1p2oJls3t03KjBx99Lj2ZQ"
-        }
-      ],
-      "duration_ms": 134234,
-      "name": "La Flechita - En Vivo",
-      "url": "https://open.spotify.com/track/1MKJ9FCBXbavUvd3hvpdTg"
     },
     {
       "added_at": "2023-11-08 22:38:29",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2023-11-08 22:38:29",
       "album": {
-        "name": "Mi Trokita Cumbia",
-        "url": "https://open.spotify.com/album/0tMsvi0IzNyRZFqF9qeFCz"
-      },
-      "artists": [
-        {
-          "name": "Obzesion",
-          "url": "https://open.spotify.com/artist/38b0HYhJsCesXvtdCbRCRS"
-        }
-      ],
-      "duration_ms": 134785,
-      "name": "Mi Trokita Cumbia",
-      "url": "https://open.spotify.com/track/0TwWnaZ6JGfVuN4iZq2BzJ"
-    },
-    {
-      "added_at": "2023-11-08 22:38:29",
-      "album": {
         "name": "Fuera De Control",
         "url": "https://open.spotify.com/album/4x89VPVDzHs5iooMxojyDw"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 194826,
       "name": "Cumbia Del Sol",
       "url": "https://open.spotify.com/track/10jdyLaybUVbi8AlJf7nYF"
+    },
+    {
+      "added_at": "2023-11-08 22:38:29",
+      "album": {
+        "name": "Mi Trokita Cumbia",
+        "url": "https://open.spotify.com/album/0tMsvi0IzNyRZFqF9qeFCz"
+      },
+      "artists": [
+        {
+          "name": "Obzesion",
+          "url": "https://open.spotify.com/artist/38b0HYhJsCesXvtdCbRCRS"
+        }
+      ],
+      "duration_ms": 134785,
+      "name": "Mi Trokita Cumbia",
+      "url": "https://open.spotify.com/track/0TwWnaZ6JGfVuN4iZq2BzJ"
     },
     {
       "added_at": "2023-11-08 22:38:29",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2023-11-08 22:38:29",
       "album": {
-        "name": "25 Exitos De Oro",
-        "url": "https://open.spotify.com/album/4Jdm5lcAdUPVswN57HShNy"
-      },
-      "artists": [
-        {
-          "name": "Jorge Meza Y Su Tropi Colombia",
-          "url": "https://open.spotify.com/artist/745IcJOBUvnbNsDKAMyUVa"
-        }
-      ],
-      "duration_ms": 286813,
-      "name": "Quiero Volar",
-      "url": "https://open.spotify.com/track/4KjYJXjnkHfEtJtSNUX2CO"
-    },
-    {
-      "added_at": "2023-11-08 22:38:29",
-      "album": {
         "name": "Lives, Vol.1",
         "url": "https://open.spotify.com/album/4cWhUcmMJdjiYA4FyKpCFQ"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 240416,
       "name": "Le Hace Falta Un Beso",
       "url": "https://open.spotify.com/track/0b601Fnoi2vTzGeSMippyu"
+    },
+    {
+      "added_at": "2023-11-08 22:38:29",
+      "album": {
+        "name": "25 Exitos De Oro",
+        "url": "https://open.spotify.com/album/4Jdm5lcAdUPVswN57HShNy"
+      },
+      "artists": [
+        {
+          "name": "Jorge Meza Y Su Tropi Colombia",
+          "url": "https://open.spotify.com/artist/745IcJOBUvnbNsDKAMyUVa"
+        }
+      ],
+      "duration_ms": 286813,
+      "name": "Quiero Volar",
+      "url": "https://open.spotify.com/track/4KjYJXjnkHfEtJtSNUX2CO"
     },
     {
       "added_at": "2023-11-08 22:38:29",
@@ -1551,22 +1551,6 @@
     {
       "added_at": "2023-11-08 22:38:29",
       "album": {
-        "name": "21 Black Jack",
-        "url": "https://open.spotify.com/album/5ZyR9EAtVpj70b11dZYmNC"
-      },
-      "artists": [
-        {
-          "name": "Los Invasores De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
-        }
-      ],
-      "duration_ms": 191173,
-      "name": "A Ver Si Capea",
-      "url": "https://open.spotify.com/track/1seRvngYgRfDeCbIkJOMQK"
-    },
-    {
-      "added_at": "2023-11-08 22:38:29",
-      "album": {
         "name": "Volovan",
         "url": "https://open.spotify.com/album/7jSqVU6kH01jgroHwYXBSr"
       },
@@ -1579,6 +1563,22 @@
       "duration_ms": 209346,
       "name": "Ella Es Azul",
       "url": "https://open.spotify.com/track/3FEOiLNmS51wlq4ZcouLj6"
+    },
+    {
+      "added_at": "2023-11-08 22:38:29",
+      "album": {
+        "name": "21 Black Jack",
+        "url": "https://open.spotify.com/album/5ZyR9EAtVpj70b11dZYmNC"
+      },
+      "artists": [
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        }
+      ],
+      "duration_ms": 191173,
+      "name": "A Ver Si Capea",
+      "url": "https://open.spotify.com/track/1seRvngYgRfDeCbIkJOMQK"
     },
     {
       "added_at": "2023-11-08 22:38:29",
@@ -1763,22 +1763,6 @@
     {
       "added_at": "2023-11-08 22:38:29",
       "album": {
-        "name": "Sobrenatural",
-        "url": "https://open.spotify.com/album/0tKCqqv4jHow4pUvwFiUsj"
-      },
-      "artists": [
-        {
-          "name": "Duelo",
-          "url": "https://open.spotify.com/artist/0nnp7oJpY2J6yZOqtdKaWq"
-        }
-      ],
-      "duration_ms": 206069,
-      "name": "Sobrenatural",
-      "url": "https://open.spotify.com/track/5VtTEqT7UXNg1sN0HSdmjp"
-    },
-    {
-      "added_at": "2023-11-08 22:38:29",
-      "album": {
         "name": "Me Voy Pa'Chiriguan\u00e1 (Incluye el \u00c9xito 20 A\u00f1os)",
         "url": "https://open.spotify.com/album/3aOD0U6WWViN8XoLqaWJwx"
       },
@@ -1791,6 +1775,22 @@
       "duration_ms": 225133,
       "name": "20 a\u00f1os",
       "url": "https://open.spotify.com/track/27sE27R2IzI7BR65DRK6tQ"
+    },
+    {
+      "added_at": "2023-11-08 22:38:29",
+      "album": {
+        "name": "Sobrenatural",
+        "url": "https://open.spotify.com/album/0tKCqqv4jHow4pUvwFiUsj"
+      },
+      "artists": [
+        {
+          "name": "Duelo",
+          "url": "https://open.spotify.com/artist/0nnp7oJpY2J6yZOqtdKaWq"
+        }
+      ],
+      "duration_ms": 206069,
+      "name": "Sobrenatural",
+      "url": "https://open.spotify.com/track/5VtTEqT7UXNg1sN0HSdmjp"
     },
     {
       "added_at": "2023-11-08 22:38:29",
@@ -1859,18 +1859,22 @@
     {
       "added_at": "2023-11-08 22:38:29",
       "album": {
-        "name": "Esto Es Lo Nuestro",
-        "url": "https://open.spotify.com/album/5fKj1UiyRfFcRmLGPN4tTn"
+        "name": "Cumbia De Las Velas",
+        "url": "https://open.spotify.com/album/4iB78CfVjDQUyOjY5GKmHF"
       },
       "artists": [
         {
-          "name": "Los Invasores De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+          "name": "INSPIRACION COLOMBIANA",
+          "url": "https://open.spotify.com/artist/6aDQPhm289KjJHzU0TvaVA"
+        },
+        {
+          "name": "APV Passion Vallenata",
+          "url": "https://open.spotify.com/artist/1GFNcjJzY32ZVEeP3gyu9X"
         }
       ],
-      "duration_ms": 145400,
-      "name": "Que La Dejen Ir Al Baile",
-      "url": "https://open.spotify.com/track/1JRbZTfW1XcMuKzsryNKyK"
+      "duration_ms": 293362,
+      "name": "Cumbia De Las Velas",
+      "url": "https://open.spotify.com/track/1F2HeaOVvxpdfYl4K0NajA"
     },
     {
       "added_at": "2023-11-08 22:38:29",
@@ -1891,22 +1895,18 @@
     {
       "added_at": "2023-11-08 22:38:29",
       "album": {
-        "name": "Cumbia De Las Velas",
-        "url": "https://open.spotify.com/album/4iB78CfVjDQUyOjY5GKmHF"
+        "name": "Esto Es Lo Nuestro",
+        "url": "https://open.spotify.com/album/5fKj1UiyRfFcRmLGPN4tTn"
       },
       "artists": [
         {
-          "name": "INSPIRACION COLOMBIANA",
-          "url": "https://open.spotify.com/artist/6aDQPhm289KjJHzU0TvaVA"
-        },
-        {
-          "name": "APV Passion Vallenata",
-          "url": "https://open.spotify.com/artist/1GFNcjJzY32ZVEeP3gyu9X"
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
         }
       ],
-      "duration_ms": 293362,
-      "name": "Cumbia De Las Velas",
-      "url": "https://open.spotify.com/track/1F2HeaOVvxpdfYl4K0NajA"
+      "duration_ms": 145400,
+      "name": "Que La Dejen Ir Al Baile",
+      "url": "https://open.spotify.com/track/1JRbZTfW1XcMuKzsryNKyK"
     },
     {
       "added_at": "2023-11-08 22:38:29",
@@ -1979,22 +1979,6 @@
     {
       "added_at": "2023-11-08 22:38:29",
       "album": {
-        "name": "FIESTA EN SAN BENITO",
-        "url": "https://open.spotify.com/album/23XVhcVREUNB90qeQ7USHM"
-      },
-      "artists": [
-        {
-          "name": "INSPIRACION COLOMBIANA",
-          "url": "https://open.spotify.com/artist/6aDQPhm289KjJHzU0TvaVA"
-        }
-      ],
-      "duration_ms": 264516,
-      "name": "FIESTA EN SAN BENITO",
-      "url": "https://open.spotify.com/track/0C5ZFYo2nhehqoT7WL1Qwl"
-    },
-    {
-      "added_at": "2023-11-08 22:38:29",
-      "album": {
         "name": "La Pura Crema",
         "url": "https://open.spotify.com/album/0VYlMRjGyHFZtnq7lZZ7wW"
       },
@@ -2039,6 +2023,22 @@
       "duration_ms": 223236,
       "name": "Regresa",
       "url": "https://open.spotify.com/track/2dGTZcG5a1eHSa1jDs1eYp"
+    },
+    {
+      "added_at": "2023-11-08 22:38:29",
+      "album": {
+        "name": "FIESTA EN SAN BENITO",
+        "url": "https://open.spotify.com/album/23XVhcVREUNB90qeQ7USHM"
+      },
+      "artists": [
+        {
+          "name": "INSPIRACION COLOMBIANA",
+          "url": "https://open.spotify.com/artist/6aDQPhm289KjJHzU0TvaVA"
+        }
+      ],
+      "duration_ms": 264516,
+      "name": "FIESTA EN SAN BENITO",
+      "url": "https://open.spotify.com/track/0C5ZFYo2nhehqoT7WL1Qwl"
     },
     {
       "added_at": "2023-11-08 22:38:29",
@@ -2127,26 +2127,6 @@
     {
       "added_at": "2023-11-08 22:38:29",
       "album": {
-        "name": "Fantasma",
-        "url": "https://open.spotify.com/album/51jlsaM0JQ5rksqkiWFtOH"
-      },
-      "artists": [
-        {
-          "name": "Rocko Paez",
-          "url": "https://open.spotify.com/artist/1zFPc155enhXpQFBxMpxkd"
-        },
-        {
-          "name": "Los Rolling Ruanas",
-          "url": "https://open.spotify.com/artist/1XPFAsXCMflKBKZuNIkru3"
-        }
-      ],
-      "duration_ms": 192860,
-      "name": "Fantasma",
-      "url": "https://open.spotify.com/track/137YnCNlEhEOyE5opLTj3f"
-    },
-    {
-      "added_at": "2023-11-08 22:38:29",
-      "album": {
         "name": "Como Si Fuera M\u00edo",
         "url": "https://open.spotify.com/album/19ylEpi8corAcwNTDhOvGd"
       },
@@ -2171,22 +2151,6 @@
     {
       "added_at": "2023-11-08 22:38:29",
       "album": {
-        "name": "A D\u00edos Le Pido",
-        "url": "https://open.spotify.com/album/0O6hHTzapyPoPcn09EVQN3"
-      },
-      "artists": [
-        {
-          "name": "La Tropa Vallenata",
-          "url": "https://open.spotify.com/artist/6ESzKdcEDKvhUek4ZaHruk"
-        }
-      ],
-      "duration_ms": 232000,
-      "name": "Cumbia Campesina",
-      "url": "https://open.spotify.com/track/48JvqQzKtUoICeU0X8tl8o"
-    },
-    {
-      "added_at": "2023-11-08 22:38:29",
-      "album": {
         "name": "Botes y Boleros (En Vivo)",
         "url": "https://open.spotify.com/album/5HYVtlNTOIlS0sJY3i26vX"
       },
@@ -2203,6 +2167,42 @@
       "duration_ms": 159000,
       "name": "Rezando Por Ella - En Vivo",
       "url": "https://open.spotify.com/track/6Lj9CyTg2BHdbTLLscmBsx"
+    },
+    {
+      "added_at": "2023-11-08 22:38:29",
+      "album": {
+        "name": "A D\u00edos Le Pido",
+        "url": "https://open.spotify.com/album/0O6hHTzapyPoPcn09EVQN3"
+      },
+      "artists": [
+        {
+          "name": "La Tropa Vallenata",
+          "url": "https://open.spotify.com/artist/6ESzKdcEDKvhUek4ZaHruk"
+        }
+      ],
+      "duration_ms": 232000,
+      "name": "Cumbia Campesina",
+      "url": "https://open.spotify.com/track/48JvqQzKtUoICeU0X8tl8o"
+    },
+    {
+      "added_at": "2023-11-08 22:38:29",
+      "album": {
+        "name": "Fantasma",
+        "url": "https://open.spotify.com/album/51jlsaM0JQ5rksqkiWFtOH"
+      },
+      "artists": [
+        {
+          "name": "Rocko Paez",
+          "url": "https://open.spotify.com/artist/1zFPc155enhXpQFBxMpxkd"
+        },
+        {
+          "name": "Los Rolling Ruanas",
+          "url": "https://open.spotify.com/artist/1XPFAsXCMflKBKZuNIkru3"
+        }
+      ],
+      "duration_ms": 192860,
+      "name": "Fantasma",
+      "url": "https://open.spotify.com/track/137YnCNlEhEOyE5opLTj3f"
     },
     {
       "added_at": "2023-11-08 22:38:29",
@@ -2367,22 +2367,6 @@
     {
       "added_at": "2023-11-08 22:38:29",
       "album": {
-        "name": "El Condor Legendario",
-        "url": "https://open.spotify.com/album/1JizA2c3lbWRkz7p0jZEeG"
-      },
-      "artists": [
-        {
-          "name": "Aniceto Molina",
-          "url": "https://open.spotify.com/artist/0vpwDjHfD1T65OcmvpcF0S"
-        }
-      ],
-      "duration_ms": 216200,
-      "name": "La Faldita Coqueta",
-      "url": "https://open.spotify.com/track/31SbMTXzEeAvXXxKQaBOzI"
-    },
-    {
-      "added_at": "2023-11-08 22:38:29",
-      "album": {
         "name": "Quiz\u00e1s",
         "url": "https://open.spotify.com/album/6kuKiRH3LIEs2QIylPiyGS"
       },
@@ -2395,6 +2379,22 @@
       "duration_ms": 271439,
       "name": "Quiz\u00e1s",
       "url": "https://open.spotify.com/track/5NWwksSbX0VUFO8AhQwZKG"
+    },
+    {
+      "added_at": "2023-11-08 22:38:29",
+      "album": {
+        "name": "El Condor Legendario",
+        "url": "https://open.spotify.com/album/1JizA2c3lbWRkz7p0jZEeG"
+      },
+      "artists": [
+        {
+          "name": "Aniceto Molina",
+          "url": "https://open.spotify.com/artist/0vpwDjHfD1T65OcmvpcF0S"
+        }
+      ],
+      "duration_ms": 216200,
+      "name": "La Faldita Coqueta",
+      "url": "https://open.spotify.com/track/31SbMTXzEeAvXXxKQaBOzI"
     },
     {
       "added_at": "2023-11-08 22:38:29",

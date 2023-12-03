@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 
 > New music from Beyoncé, Tyla, Feid, Sexyy Red, Dove Cameron and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,183,522 likes - 100 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,183,938 likes - 100 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 | 44 | [Didn't Come To Play \(with Quavo\)](https://open.spotify.com/track/25QZIoCdgSWSn547PTvB5V) | [Lil Darius](https://open.spotify.com/artist/2QFzplw4w06o3HuBhjrPnn), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [Didn't Come To Play \(with Quavo\)](https://open.spotify.com/album/6FdFMoizXJxTepfoVOdHrN) | 2:17 |
 | 45 | [WOTOWOTO SEASONING \(feat\. Black Sherif\)](https://open.spotify.com/track/2LP8KwtvzUx1onvXKQCoKR) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [EZIOKWU \(UNCUT\)](https://open.spotify.com/album/59oUX928TvSEtKvCPREKVW) | 2:51 |
 | 46 | [CLICK](https://open.spotify.com/track/4GqhfgzrdJgJiUPnx9S1z6) | [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD), [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY) | [CLICK](https://open.spotify.com/album/2b7NyXYaxu3V1ktJWmfcFd) | 3:00 |
-| 47 | [ALCH SI](https://open.spotify.com/track/5cWgwbui8BasfjCXvBZ7UA) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [ALCH SI](https://open.spotify.com/album/7rCPyUIciqYswpRXTa1JYc) | 2:33 |
+| 47 | [Alch Si](https://open.spotify.com/track/5cWgwbui8BasfjCXvBZ7UA) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Alch Si](https://open.spotify.com/album/7rCPyUIciqYswpRXTa1JYc) | 2:33 |
 | 48 | [Bubblegum Dog](https://open.spotify.com/track/5MHNVfob6U5PBe8y15A4MG) | [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE) | [Bubblegum Dog](https://open.spotify.com/album/6CWVALzNFLjaPvr8HW5S9Z) | 4:21 |
 | 49 | [serial recluse](https://open.spotify.com/track/7rR8q7eE0UKUaJt3xsOMSJ) | [Samaria](https://open.spotify.com/artist/4FreKg40BVDMPRLGeubyku) | [serial recluse](https://open.spotify.com/album/30RN16wzgu4a8N9LvgUWQt) | 2:47 |
 | 50 | [Rainy \(with REI AMI\)](https://open.spotify.com/track/4feAKLuq3ShnAA84HcUFvf) | [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf), [REI AMI](https://open.spotify.com/artist/6U1dV7aL68N7Gb0Naq34V5) | [This Mixtape is Fire TOO](https://open.spotify.com/album/5H1GCTOowyeZzBVBddvdFD) | 2:44 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 | 97 | [Fine Fine Baby \(with Kah\-Lo\)](https://open.spotify.com/track/5wEZ2qosMq4JnIY050e7GO) | [Jamie Jones](https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji), [Kah\-Lo](https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3) | [Fine Fine Baby \(with Kah\-Lo\)](https://open.spotify.com/album/5ZN7pH0k8botEVXsKCGVdb) | 2:38 |
 | 98 | [Woolgathering](https://open.spotify.com/track/7Ft23DcwyyiTeuiNvXyrSf) | [mercury](https://open.spotify.com/artist/0MaDtBu4Hw0qLH95poDSCk) | [Woolgathering](https://open.spotify.com/album/23MLPEeA9PvusSP1iCdsEQ) | 3:07 |
 | 99 | [Maybe](https://open.spotify.com/track/5sVopsPUBDHBpadiCQfHcB) | [Gabriela Bee](https://open.spotify.com/artist/4z0EquFxDCtiHuPGiWDCq1) | [Maybe](https://open.spotify.com/album/3ebxDsPCt6eQyjlpya02uM) | 3:14 |
-| 100 | [Pudiste pero No Quisiste](https://open.spotify.com/track/4GW1xy7yINUnuEQHaETaVC) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Como en los Viejos Tiempos](https://open.spotify.com/album/7kfuZtaN9zvpFhIIMZLvgI) | 3:32 |
+| 100 | [Pudiste Pero No Quisiste](https://open.spotify.com/track/4GW1xy7yINUnuEQHaETaVC) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Como en los Viejos Tiempos](https://open.spotify.com/album/7kfuZtaN9zvpFhIIMZLvgI) | 3:32 |
 
-Snapshot ID: `MCwzOWVjOTkyMzg1MzEyMWQzMjZiNTg3M2E5MmZkNWVlYjQ2OTQwNWNl`
+Snapshot ID: `MCw4NDM1NDViZDhmY2FiNDIxNWVlZWRiMjlmNzYxYzcxODk5ODZlZmY5`

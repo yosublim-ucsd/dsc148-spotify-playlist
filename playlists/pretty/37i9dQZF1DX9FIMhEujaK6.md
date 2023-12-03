@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FIMhEujaK6.md) - [plain]
 
 > The ultimate chilled soundtrack to bring your day to a close.
 
-[Spotify](https://open.spotify.com/user/spotify) - 365,814 likes - 50 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 365,853 likes - 50 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FIMhEujaK6.md) - [plain]
 | 43 | [Thus Far](https://open.spotify.com/track/3ADOUoMcmbT07M8mbx5PFN) | [Hessian](https://open.spotify.com/artist/3LOXsWYvJPnBVnQzCquxAs) | [Colours of the Sky](https://open.spotify.com/album/79F4YnYB1ZN0eo4baMeLh5) | 3:51 |
 | 44 | [London\. Paris\. Berlin.](https://open.spotify.com/track/5mxQ1JcGnb3sTu5zO08ZTK) | [Shire T](https://open.spotify.com/artist/0AIim12jO78DuyyUYbHfAe) | [London\. Paris\. Berlin.](https://open.spotify.com/album/1dDsbruFq4OZMM1Xj3KF6v) | 4:05 |
 | 45 | [Above](https://open.spotify.com/track/0kFdA2tQCzdJBiafiBM0lA) | [Girls of the Internet](https://open.spotify.com/artist/5tGmvKTFVL9bGZTxtvopHE) | [Above](https://open.spotify.com/album/1eFyId3Wx47Wa0zyhVbXYv) | 3:05 |
-| 46 | [Wild Skies](https://open.spotify.com/track/62bxIf35DGi5hAEJMcBAGJ) | [Eli & Fur](https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4) | [Wild Skies](https://open.spotify.com/album/2I3UDjuD3c8Vjq0d0YYimm) | 3:24 |
-| 47 | [born slipping](https://open.spotify.com/track/0QJ11tqN85By0nwwDJVoeP) | [Joy Orbison](https://open.spotify.com/artist/0aIpJqqTLf683ojWREc5lg), [TYSON](https://open.spotify.com/artist/10SYd6NatYImOQTxA88jdn) | [still slipping vol\. 1](https://open.spotify.com/album/5atrOg1aO4d5KEcYo4UBIA) | 4:32 |
+| 46 | [born slipping](https://open.spotify.com/track/0QJ11tqN85By0nwwDJVoeP) | [Joy Orbison](https://open.spotify.com/artist/0aIpJqqTLf683ojWREc5lg), [TYSON](https://open.spotify.com/artist/10SYd6NatYImOQTxA88jdn) | [still slipping vol\. 1](https://open.spotify.com/album/5atrOg1aO4d5KEcYo4UBIA) | 4:32 |
+| 47 | [Wild Skies](https://open.spotify.com/track/62bxIf35DGi5hAEJMcBAGJ) | [Eli & Fur](https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4) | [Wild Skies](https://open.spotify.com/album/2I3UDjuD3c8Vjq0d0YYimm) | 3:24 |
 | 48 | [Something More \(Edit\)](https://open.spotify.com/track/4Gyar4tKonu5h1nBlczq7z) | [Róisín Murphy](https://open.spotify.com/artist/3qwabfaWewpfli7hMNM3O8) | [Something More](https://open.spotify.com/album/2ySEmEE4ZIXGt6xiRIObIx) | 4:00 |
 | 49 | [Feels Like This](https://open.spotify.com/track/5XNFnRLXtjb1r2IjIQNjzC) | [Hessian](https://open.spotify.com/artist/3LOXsWYvJPnBVnQzCquxAs) | [Feels Like This / Made It Here](https://open.spotify.com/album/5ktFMfrOJWEIl29KmcxAuG) | 4:36 |
 | 50 | [Pithy](https://open.spotify.com/track/6v0QB50cfT7UuBMsrXHcXI) | [Verdance](https://open.spotify.com/artist/5sjAHOtCFSgPvw8JoDX2Bi) | [Plunge](https://open.spotify.com/album/0WCy3Og33VGPDUh6R7ZpIY) | 4:12 |
 
-Snapshot ID: `MCxmZmU2ZDAyZmE0NGYxN2VkMTVlNGQwM2E3YzdiYzJiYTVmOTZkZTRi`
+Snapshot ID: `MCxlOGVlZWNhYzBkMGM2NjFmMWM1ZGFmMTllZDM0YTIzM2VjZGQwYWNh`

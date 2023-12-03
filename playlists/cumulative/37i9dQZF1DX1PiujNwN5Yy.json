@@ -710,7 +710,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-03",
       "duration_ms": 169399,
       "name": "C\u00f3seme (2:22am)",
       "url": "https://open.spotify.com/track/30Ezk8NvcRzLL4PWcj6RYL"
@@ -2865,6 +2865,24 @@
     },
     {
       "album": {
+        "name": "Lluvia: Rain City Vol.2",
+        "url": "https://open.spotify.com/album/1d3pKhYKoQ2d32Exs3wTyr"
+      },
+      "artists": [
+        {
+          "name": "3AM",
+          "url": "https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159480,
+      "name": "Tal Vez",
+      "url": "https://open.spotify.com/track/1XuZAls4De2DDJmg4MMbWl"
+    },
+    {
+      "album": {
         "name": "Tal Vez",
         "url": "https://open.spotify.com/album/7pdEfZI6mGWqdwJCxzP0YB"
       },
@@ -2894,7 +2912,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-03",
       "duration_ms": 159480,
       "name": "Tal Vez",
       "url": "https://open.spotify.com/track/6nm1A7TSAYLkCTmrdYAWp5"
@@ -3006,6 +3024,24 @@
       "duration_ms": 145418,
       "name": "TE PERD\u00cd",
       "url": "https://open.spotify.com/track/1Pe2xnS2FndbzQ0TNAFwXk"
+    },
+    {
+      "album": {
+        "name": "TE PERDI",
+        "url": "https://open.spotify.com/album/6YNIkPiYZTbn08p4aANvHh"
+      },
+      "artists": [
+        {
+          "name": "Fabi\u00f8 Guerra",
+          "url": "https://open.spotify.com/artist/3rQkoi7yo0Repzlzn4fMkp"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145418,
+      "name": "Te Perd\u00ed",
+      "url": "https://open.spotify.com/track/6l9PUb0ZwPNHTQTbCwHE71"
     },
     {
       "album": {

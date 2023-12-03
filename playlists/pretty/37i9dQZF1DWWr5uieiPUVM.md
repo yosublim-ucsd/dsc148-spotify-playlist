@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWr5uieiPUVM.md) - [plain]
 
 > o melhor do trap dá o play e aumenta! Foto: Leviano
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,300,502 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,301,134 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWr5uieiPUVM.md) - [plain]
 | 9 | [Segredo](https://open.spotify.com/track/6hu4HvpNzrW2RIEEAZC3vD) | [KayBlack](https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy), [Marquinho no Beat](https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe), [Wall Hein](https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB) | [Contradições](https://open.spotify.com/album/1vR5pzEPXx1i7h8zwosa7D) | 1:44 |
 | 10 | [Gato Preto](https://open.spotify.com/track/3iCz1xQzu2BeklLyMCKICr) | [Raffa Moreira](https://open.spotify.com/artist/4xUawweuqhjMvoScRGbveR), [Jay Kay](https://open.spotify.com/artist/1hMrgRIkEemGJWByc74Kki) | [Bem Vindo Natal Mixtape 2](https://open.spotify.com/album/3uMKaRHfxppABibJFJi0mr) | 2:16 |
 | 11 | [Mágoa e Rancor \(feat\. Portugal No Beat\)](https://open.spotify.com/track/6MAmqRj8wEiIULizWgEBd9) | [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY), [KayBlack](https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy), [MC Caverinha](https://open.spotify.com/artist/7tojcuXcZ7eBlQjbAc65Ee), [Portugal No Beat](https://open.spotify.com/artist/71LRKKvAjoc6LyNmob269Q), [Vulgo FK](https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0) | [Um Toque de Malandragem](https://open.spotify.com/album/7ff6CiyF3eKZzZBg5wv2fy) | 3:35 |
-| 12 | [10 Carros](https://open.spotify.com/track/2twZl1jsRbJRTNCE6VB6eW) | [Chefin](https://open.spotify.com/artist/68PYmgkbRP1qZnEWOry7sB), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd) | [10 Carros](https://open.spotify.com/album/1ZakiImfctMIFKkLNIDlcI) | 2:21 |
+| 12 | [10 Carros](https://open.spotify.com/track/2twZl1jsRbJRTNCE6VB6eW) | [Chefin](https://open.spotify.com/artist/68PYmgkbRP1qZnEWOry7sB), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd), [LB Único](https://open.spotify.com/artist/7w1eimo0NMZhuwNZTf4MHY) | [10 Carros](https://open.spotify.com/album/1ZakiImfctMIFKkLNIDlcI) | 2:21 |
 | 13 | [Esqueceu Seu Brinco](https://open.spotify.com/track/29s3cKc0N9nS08Kc6Zv06B) | [CJota](https://open.spotify.com/artist/5qvphJwi72TG198xn5VVYH), [Yunk Vino](https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX), [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy) | [O Menino do Cabelo Rosa](https://open.spotify.com/album/0zkILF7vLuScNU2SqLGr37) | 3:44 |
 | 14 | [Para de Mentir](https://open.spotify.com/track/1bjvTcHiftBtqeK6Y2Mh8H) | [Oruam](https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT), [WIU](https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7), [Chris MC](https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY) | [Para de Mentir](https://open.spotify.com/album/0nMw6EngQqlOJXLxt53jpQ) | 4:14 |
 | 15 | [VOZ DE TERROR](https://open.spotify.com/track/4TmTuQxZNrH0QsnvGuURKl) | [tchelo rodrigues](https://open.spotify.com/artist/77JxPSGO8x7rYEWNZMSSIY), [retroboy](https://open.spotify.com/artist/4R7j2XUkuutFO0MePvfASY) | [EU TIVE UM SONHO](https://open.spotify.com/album/12QqwradopCY1XRLm866Aw) | 2:13 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWr5uieiPUVM.md) - [plain]
 | 49 | [Assault \(Joias no Pulso\)](https://open.spotify.com/track/0x4Hiy4evh6K0fkhIsEE9s) | [Orochi](https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx), [Oruam](https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT), [Mc Poze do Rodo](https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M), [Borges](https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX), [Chefin](https://open.spotify.com/artist/68PYmgkbRP1qZnEWOry7sB) | [Assault \(Joias no Pulso\)](https://open.spotify.com/album/1q9DqRFJxfluFR3iX9rIRs) | 4:34 |
 | 50 | [Manda Áudio](https://open.spotify.com/track/106v1J8uUOsa6Q0pAcxsKr) | [Penedo](https://open.spotify.com/artist/0OOJauiKTaXELK8I3tP24T), [Vice\-Versa](https://open.spotify.com/artist/3uFYZKcA0ABjsnxzgEBhKX) | [Manda Áudio](https://open.spotify.com/album/51Jdr9EBtQHruGrmzNZF5h) | 2:18 |
 
-Snapshot ID: `MCw0MTA4MDg5ODQ1YWVhNWY4MGU1NDEwMDI2YjI1Y2M2N2VjNWMxZjdk`
+Snapshot ID: `MCxhZDY2ZTgyOGQ4YTZjYjkwY2U3NzU5NWY0NjJiN2ZhYjg1YTEyMmMw`

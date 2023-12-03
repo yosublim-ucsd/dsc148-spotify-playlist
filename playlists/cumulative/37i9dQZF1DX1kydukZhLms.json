@@ -2260,7 +2260,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-03",
       "duration_ms": 346586,
       "name": "I'll Be There For You",
       "url": "https://open.spotify.com/track/67YIAxlMlfSNmbnt83zGKh"
@@ -5166,6 +5166,24 @@
       "duration_ms": 325960,
       "name": "Wither",
       "url": "https://open.spotify.com/track/4MY2jh37Rir45QH6YAkB8W"
+    },
+    {
+      "album": {
+        "name": "Dr. Feelgood (Deluxe Version)",
+        "url": "https://open.spotify.com/album/0VPad241NfcHMOXcRcLrDe"
+      },
+      "artists": [
+        {
+          "name": "M\u00f6tley Cr\u00fce",
+          "url": "https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL"
+        }
+      ],
+      "date_added": "2023-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268853,
+      "name": "Without You",
+      "url": "https://open.spotify.com/track/2t8hAwOuHbNOl76LBWMU0R"
     },
     {
       "album": {

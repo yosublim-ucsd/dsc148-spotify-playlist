@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5XEAHcCzWcH.md) - [plain]
 
 > The unmistakable sound of Blues piano: the best pianists to have pioneered the sound and shape the genre\. Cover: Ray Charles
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,813 likes - 66 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,847 likes - 66 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5XEAHcCzWcH.md) - [plain]
 | 20 | [I Don't Know](https://open.spotify.com/track/7J8g9n29cAxSlLxeHrKCLI) | [Willie Mabon](https://open.spotify.com/artist/7rmHrwuyVuFNIvikHchsQn) | [Presenting Willie Mabon](https://open.spotify.com/album/2Y3IduVxiiyB9cxhFthGim) | 3:10 |
 | 21 | [Ain't Times Hard](https://open.spotify.com/track/7L5U6eRJEFQbjqUUTwDVPu) | [Nick Moss & The Flip Tops](https://open.spotify.com/artist/41z6z2F1HddUUSPOtOhhuk), [Barrelhouse Chuck](https://open.spotify.com/artist/5xdyzBf4bTgRC13sG3dShO), [Kate Moss](https://open.spotify.com/artist/3IP1UVkxCwvyb5wdQVn269) | [Count Your Blessings](https://open.spotify.com/album/0wXMoxr5erc9iBIkzuwzYl) | 4:01 |
 | 22 | [Feel So Blue](https://open.spotify.com/track/6e17J4IMLiJ58JWxkisxPi) | [Lafayette Leake](https://open.spotify.com/artist/2lMEe12j43Se24Jrfk3pyl) | [Easy Blues \(France, 1978\) \[Blues Reference\]](https://open.spotify.com/album/5z3QkaWm3wh0yMYwRqnZdP) | 5:21 |
-| 23 | [Hastings Street](https://open.spotify.com/track/25XUg2FiYvjb7lPtwD786d) | [Blind Blake](https://open.spotify.com/artist/49KZvkEWchga5D1uhNo1yd) | [Presenting Blind Blake](https://open.spotify.com/album/2PWkHBhiBe10JBYFYO4kqd) | 3:10 |
-| 24 | [Big Town Playboy](https://open.spotify.com/track/4hFZeihCVWuFsxMyal96k8) | [Little Johnny Jones](https://open.spotify.com/artist/11TvYVOGy2ceBJiMRhlBx4) | [The Chess Story 1947\-1956](https://open.spotify.com/album/33Ow1zrnDZND0gJFibphEf) | 2:55 |
+| 23 | [Big Town Playboy](https://open.spotify.com/track/4hFZeihCVWuFsxMyal96k8) | [Little Johnny Jones](https://open.spotify.com/artist/11TvYVOGy2ceBJiMRhlBx4) | [The Chess Story 1947\-1956](https://open.spotify.com/album/33Ow1zrnDZND0gJFibphEf) | 2:55 |
+| 24 | [Hastings Street](https://open.spotify.com/track/25XUg2FiYvjb7lPtwD786d) | [Blind Blake](https://open.spotify.com/artist/49KZvkEWchga5D1uhNo1yd) | [Presenting Blind Blake](https://open.spotify.com/album/2PWkHBhiBe10JBYFYO4kqd) | 3:10 |
 | 25 | [None of My Jelly Roll](https://open.spotify.com/track/2fFhD3A1gSpm0liAvtvSdk) | [Sweet Emma Barrett](https://open.spotify.com/artist/0YLo7NrjjafYk8rbapwCZk) | [Her New Orleans Music](https://open.spotify.com/album/6KrB8Sf5g2WpCcWUOE9CpE) | 3:45 |
 | 26 | [If I Hadn't Been High](https://open.spotify.com/track/4AngKkvtjelyQfgBiO9hUt) | [Detroit Junior](https://open.spotify.com/artist/3ggFb0YCOrTs2juujB4In3) | [Living Chicago Blues, Vol\. 4](https://open.spotify.com/album/2u30yjGXHGTO5UTWlyG47J) | 4:06 |
 | 27 | [Booker's Boogie](https://open.spotify.com/track/2ckb6mS0TcnCxaQ2ywh1CV) | [Booker T\. Laury](https://open.spotify.com/artist/6Tsq5rIvRhxQwRsvsRDsWH) | [Blues On The Prowl](https://open.spotify.com/album/3fQi3rgKy3U3udVg0ojE2N) | 3:37 |
@@ -75,4 +75,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5XEAHcCzWcH.md) - [plain]
 | 65 | [Me and My Gin](https://open.spotify.com/track/5L4sfgGbYh7CgXVBTmUcfz) | [Jimmie Gordon](https://open.spotify.com/artist/6XrOb8biVVH7gH09AIjB7l) | [This Is the Blues! Vol\. 7 \(Mono Version\)](https://open.spotify.com/album/4U9fxJlHlKvp5GwKmenuQ3) | 3:12 |
 | 66 | [I'll Be Right Some Day](https://open.spotify.com/track/3OpoVrckZ1J2IhAri7bWKl) | [Willie Dixon](https://open.spotify.com/artist/5v8WPpMk60cqZbuZLdXjKY) | [Nail Jumping](https://open.spotify.com/album/2DegOuID6Bx94UtWX4xYf4) | 2:26 |
 
-Snapshot ID: `MCwyODg3YzBkMTVlMTIxOWYzZDIwYjUzNWJhMTI3OGM0YzRhODY1MGJm`
+Snapshot ID: `MCw2MTVmN2Q1NzhhNGJiOTQyNjFjMDI2YmNhNjY5YzZkN2Y2NjVjZjVk`

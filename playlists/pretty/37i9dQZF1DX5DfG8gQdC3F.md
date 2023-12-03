@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > New music from KAYTRANADA & Rochelle Jordan, Beyoncé, Sean Leon & Jessie Reyez, Dove Cameron and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 351,930 likes - 100 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 351,957 likes - 100 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,7 +77,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 67 | [Southeast Oklahoma Pines](https://open.spotify.com/track/3vz0BqYh2UyLd8dOHLc861) | [Corey Kent](https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc) | [Southeast Oklahoma Pines](https://open.spotify.com/album/2zgewP1FAgRxn3oKs5UEQA) | 3:51 |
 | 68 | [Fallin](https://open.spotify.com/track/4vrng88ZcFQjykEpHnDKgm) | [JRDN](https://open.spotify.com/artist/2YVjMQPHJLrs0zA0ILNoEs) | [Fallin](https://open.spotify.com/album/1EeN2rhse9oPfLZMJTBr4r) | 2:32 |
 | 69 | [Milk & Honey](https://open.spotify.com/track/0LbRbiN6RTRzxTvmmjfeCg) | [Hollow Coves](https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6) | [Milk & Honey](https://open.spotify.com/album/00qsnkOHVr38BOpUOTmmCN) | 3:51 |
-| 70 | [Mavhoko \(feat\. Optimist Music ZA, Agzo & Thama Tee\)](https://open.spotify.com/track/55qPZu7i9GLljN87dnCvy0) | [Dinho](https://open.spotify.com/artist/4vrcirbPoyFvdc64YBlMof), [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D), [Ydee](https://open.spotify.com/artist/7iLjLJYrTQwFfYTdWWmOFc), [Optimist Music ZA](https://open.spotify.com/artist/69FMBSIEqfCYBg5xqWdDQV), [Agzo](https://open.spotify.com/artist/02Avi4NhHRYTWnZsX2Eb4v), [ThamaTee](https://open.spotify.com/artist/09t5iD3Pt1aH3THxYUCydF) | [Mavhoko \(feat\. Optimist Music ZA, Agzo & Thama Tee\)](https://open.spotify.com/album/4kgCbZRmRnpG3OkPEazJEv) | 6:15 |
+| 70 | [Mavhoko \(feat\. Optimist Music ZA, Agzo & Thama Tee\)](https://open.spotify.com/track/55qPZu7i9GLljN87dnCvy0) | [Dinho](https://open.spotify.com/artist/4vrcirbPoyFvdc64YBlMof), [Ghost](https://open.spotify.com/artist/4LYRJABsG4yVXQRXLvku3I), [Ydee](https://open.spotify.com/artist/7iLjLJYrTQwFfYTdWWmOFc), [Optimist Music ZA](https://open.spotify.com/artist/69FMBSIEqfCYBg5xqWdDQV), [Agzo](https://open.spotify.com/artist/02Avi4NhHRYTWnZsX2Eb4v), [ThamaTee](https://open.spotify.com/artist/09t5iD3Pt1aH3THxYUCydF) | [Mavhoko \(feat\. Optimist Music ZA, Agzo & Thama Tee\)](https://open.spotify.com/album/4kgCbZRmRnpG3OkPEazJEv) | 6:15 |
 | 71 | [L Is For](https://open.spotify.com/track/4yttRHFpN0BermtJSSOIDr) | [Andrew Hyatt](https://open.spotify.com/artist/6L1jfL0BaxCDXCcy51CEcg) | [L Is For](https://open.spotify.com/album/1iz58XU4DpvP20z1L9xbvU) | 2:38 |
 | 72 | [Joko \(feat\. Shaggy\)](https://open.spotify.com/track/5737I1FaRZMhBbLs4evJ5p) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC), [Shaggy](https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij) | [Joko \(feat\. Shaggy\)](https://open.spotify.com/album/0MG5NOSUH4Zj3r2zxeU8py) | 3:05 |
 | 73 | [Blurs](https://open.spotify.com/track/4AYlc5M9S99I0GzRrUGkO3) | [Moka Only](https://open.spotify.com/artist/7G9ZUoEjbi5Z2bR5w60S0h) | [Blurs](https://open.spotify.com/album/0BNnkEy2h0lmO8EGtMWI53) | 2:31 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 99 | [Spells and Power Thoughts](https://open.spotify.com/track/1ANBmw9cKZKaEptZpR1R2Y) | [JULES IS DEAD](https://open.spotify.com/artist/5inrtHsPByV845LcC1mDmM) | [Spells and Power Thoughts](https://open.spotify.com/album/3vFjzXDMFfRnhxRUTBN0CY) | 2:47 |
 | 100 | [Cigarettes](https://open.spotify.com/track/7HAD0NBufBMMzWPnwoFc4y) | [Laci Kaye Booth](https://open.spotify.com/artist/6Gd7wERviclMCCWOG8qVR4) | [Cigarettes](https://open.spotify.com/album/0zFyYAPnhb9BZGAfAcyNTx) | 2:49 |
 
-Snapshot ID: `MCw4OWVmNDE5ZGYwODEwMDg0NTQxMjYzNzcyZDdkYzhhMmMyODRlMjU0`
+Snapshot ID: `MCw5ZWFjZjRkMWFlNGY5OGFiYjU1MzYyMTQzOGJlZjY1NzgwYzYyNDM1`

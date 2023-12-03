@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0uU8Yv4kOhJ.md) - [plain]
 
 > Concentrate con el aire de la cordillera de los Andes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 127,018 likes - 50 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 127,024 likes - 50 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0uU8Yv4kOhJ.md) - [plain]
 | 25 | [Solo](https://open.spotify.com/track/2nHbYehgkMWR4fmqswEvD9) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [Solo](https://open.spotify.com/album/4BQafZfyveBiMv3FDJ6wAU) | 3:44 |
 | 26 | [Munaspaqa Suyaykuway](https://open.spotify.com/track/0RiWhE2d4F8QMKcorZsDh9) | [Jaime Guardia](https://open.spotify.com/artist/3AxPEg0Jy5U5GvgEHsI43X) | [Charango Peruano](https://open.spotify.com/album/4HVoQalB9EVdBsbeOt4Wxx) | 3:02 |
 | 27 | [Herejia](https://open.spotify.com/track/5nQTVn417aepqNo6BF9fMN) | [Novalima](https://open.spotify.com/artist/2lN3yllrsFyoobMnKSfzsI) | [Ch'usay](https://open.spotify.com/album/5KNsxBQPRUBeAG0WVdHXNG) | 3:46 |
-| 28 | [Recuerdos de Calahuayo \(Peru\)](https://open.spotify.com/track/2uLEA60TbLj16qPQF1P9Fq) | [Los Incas](https://open.spotify.com/artist/0XgSqpsOieBTVS8WooknPG) | [Flutes Indiennes](https://open.spotify.com/album/7IIjmyVhX56PG8S1U77PJF) | 2:05 |
-| 29 | [Tiwanacu](https://open.spotify.com/track/3NO8H307ShIWN71ifxTnAN) | [Maya Andina](https://open.spotify.com/artist/3Rd5uZJK7LV9xnCDIsUxYU) | [Amor Ardiente \(Bolivia y Su Folklore\)](https://open.spotify.com/album/28ekMoSZk09F8bWYeO3O2c) | 3:35 |
+| 28 | [Tiwanacu](https://open.spotify.com/track/3NO8H307ShIWN71ifxTnAN) | [Maya Andina](https://open.spotify.com/artist/3Rd5uZJK7LV9xnCDIsUxYU) | [Amor Ardiente \(Bolivia y Su Folklore\)](https://open.spotify.com/album/28ekMoSZk09F8bWYeO3O2c) | 3:35 |
+| 29 | [Recuerdos de Calahuayo \(Peru\)](https://open.spotify.com/track/2uLEA60TbLj16qPQF1P9Fq) | [Los Incas](https://open.spotify.com/artist/0XgSqpsOieBTVS8WooknPG) | [Flutes Indiennes](https://open.spotify.com/album/7IIjmyVhX56PG8S1U77PJF) | 2:05 |
 | 30 | [El Condor Pasa](https://open.spotify.com/track/4QPnKgaAx3vQJ05LGfIu2h) | [Raul Olarte](https://open.spotify.com/artist/7MMG0wFNM3j9ZPzFwJAOvU) | [Quena De Los Andes](https://open.spotify.com/album/5uzYC0tdg1kxzzbNzNq7t1) | 3:42 |
 | 31 | [Francisca Pizarro](https://open.spotify.com/track/5BrXQ6EowW6F5EnSiFHc9w) | [Renata Flores](https://open.spotify.com/artist/3TZtFZu2rmUnoE0kr8QxdT) | [Isqun](https://open.spotify.com/album/2nZxBElNZX5Ho4h4XAaAt7) | 3:22 |
 | 32 | [Uña](https://open.spotify.com/track/3rMTOUuuImnkGEGpN1dqlG) | [J\. Milchberg](https://open.spotify.com/artist/1cWw9fz7QOkKQraHRVK8hC), [U\. Ramos](https://open.spotify.com/artist/7LCu7TpIer6IjPpe6VUCRF), [Inkuyo](https://open.spotify.com/artist/6l0qnbpSfHw1vk6tQUquDt) | [Land of the Incas \(Music of the Andes\)](https://open.spotify.com/album/5eRW6MRpmkK1jLgZGxEjAn) | 3:18 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0uU8Yv4kOhJ.md) - [plain]
 | 45 | [Cometa de Luz](https://open.spotify.com/track/2CvioY7rOClmpHFC6JXeUb) | [Uña Ramos](https://open.spotify.com/artist/5zwQO1xFFpsrzqASmQ5ZAA) | [Quena de los Andes](https://open.spotify.com/album/3AG3ZBPzchv6p4FYIeIZeq) | 3:47 |
 | 46 | [Vírgenes del Sol](https://open.spotify.com/track/48TL83NPwQdSvaFATmjKPn) | [Inkaquenas](https://open.spotify.com/artist/1CY0y4SPtpah9aHkA1yog3) | [Viento en los Andes](https://open.spotify.com/album/4irQteHtIYmZJ8dVlPHCIF) | 3:38 |
 | 47 | [Tatalitu \(Chuntunqui\)](https://open.spotify.com/track/5aCk29xRgtDIMgE8y5gQqD) | [Inti Punchai](https://open.spotify.com/artist/0bw09OCO0e0MlvXxpbDE7r) | [Musica De Bolivia](https://open.spotify.com/album/1zQG76RRmnIW2CjZPc8lMC) | 3:57 |
-| 48 | [Ódiame](https://open.spotify.com/track/4EoDDuA7b9V2lVlmdkEkPA) | [Los Cancionautas Surmelódicos](https://open.spotify.com/artist/2MxbFKWZMuLqHiRJ00Xzga), [Lunalé](https://open.spotify.com/artist/19JUD3vdAL8B0G7hpxQHuu) | [Ódiame](https://open.spotify.com/album/3SwFT7Pq0A98vQypiY6vde) | 3:43 |
+| 48 | [Agüita del Equilibrio](https://open.spotify.com/track/5xKk5ZGsk6HPspcaCgr8kr) | [Alejandro y Maria Laura](https://open.spotify.com/artist/3jAurSJUGt2LY7V417BF0u) | [La Casa No Existe](https://open.spotify.com/album/0SxTeOE2w7uINeSt7I8wmT) | 3:24 |
 | 49 | [Pura Flor](https://open.spotify.com/track/4BWHCYLHCD62RQPxzX0HO1) | [Minuk](https://open.spotify.com/artist/5IIGsnZbpoR1ONGK1fRumn) | [Pura Flor](https://open.spotify.com/album/3ZmeBQcn3RwUxvE4HPabt1) | 3:57 |
-| 50 | [Agüita del Equilibrio](https://open.spotify.com/track/5xKk5ZGsk6HPspcaCgr8kr) | [Alejandro y Maria Laura](https://open.spotify.com/artist/3jAurSJUGt2LY7V417BF0u) | [La Casa No Existe](https://open.spotify.com/album/0SxTeOE2w7uINeSt7I8wmT) | 3:24 |
+| 50 | [Ódiame](https://open.spotify.com/track/4EoDDuA7b9V2lVlmdkEkPA) | [Los Cancionautas Surmelódicos](https://open.spotify.com/artist/2MxbFKWZMuLqHiRJ00Xzga), [Lunalé](https://open.spotify.com/artist/19JUD3vdAL8B0G7hpxQHuu) | [Ódiame](https://open.spotify.com/album/3SwFT7Pq0A98vQypiY6vde) | 3:43 |
 
-Snapshot ID: `MCxhZWRiOTIwMWI3MjNmMGFjYTE2NjhjYjliZmRhMDNiYWJhOThkNTQ5`
+Snapshot ID: `MCw3NDliOWFiYTIxZGUxYzdiNTM0NjBmNWVmMTI3OGIyMTc5OGZkZmIy`

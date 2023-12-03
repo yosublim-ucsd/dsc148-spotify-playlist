@@ -1,12 +1,12 @@
 {
   "description": "Musiquita sabrosa que te hace bailar el coraz\u00f3n.",
-  "num_followers": 142824,
+  "num_followers": 142888,
   "original_name": "Amor Tropical",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzYzQzZTRlNzJhMWNlMGI0YjM5YTM5OGVkZjg3OGI0N2U1MmY4Njhm",
+  "snapshot_id": "MCxmOTA5NTE3YzhiNzMwOThhODdhNGQ5ZTQ1ODI3YWY2MWMyYzRlZTIw",
   "tracks": [
     {
       "added_at": "2023-11-03 04:00:00",
@@ -547,6 +547,26 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
+        "name": "Navegando",
+        "url": "https://open.spotify.com/album/3UbZvsLswQE2L5mBiGlzO0"
+      },
+      "artists": [
+        {
+          "name": "Mike Bah\u00eda",
+          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
+        },
+        {
+          "name": "Greeicy",
+          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
+        }
+      ],
+      "duration_ms": 168520,
+      "name": "Esta Noche",
+      "url": "https://open.spotify.com/track/4vhkI8x68EaGQR3Kn7Pwhc"
+    },
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
         "name": "Valio La Pena",
         "url": "https://open.spotify.com/album/4O3yvEN5II2yKWKBPtDLD7"
       },
@@ -575,26 +595,6 @@
       "duration_ms": 246640,
       "name": "Dos Locos",
       "url": "https://open.spotify.com/track/3mx8WfEOjeUB1a0fpFxQmi"
-    },
-    {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
-        "name": "Navegando",
-        "url": "https://open.spotify.com/album/3UbZvsLswQE2L5mBiGlzO0"
-      },
-      "artists": [
-        {
-          "name": "Mike Bah\u00eda",
-          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
-        },
-        {
-          "name": "Greeicy",
-          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
-        }
-      ],
-      "duration_ms": 168520,
-      "name": "Esta Noche",
-      "url": "https://open.spotify.com/track/4vhkI8x68EaGQR3Kn7Pwhc"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
-        "name": "SEROTONINA",
-        "url": "https://open.spotify.com/album/5OoIV5fMI5Wby0UsiLqX9H"
-      },
-      "artists": [
-        {
-          "name": "KHEA",
-          "url": "https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR"
-        }
-      ],
-      "duration_ms": 150737,
-      "name": "COMO YO TE QUIERO",
-      "url": "https://open.spotify.com/track/40skUFI0ICkDoRLbJNUT9O"
-    },
-    {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
         "name": "Dicen Que Soy",
         "url": "https://open.spotify.com/album/5Bj8dRzPK5F1ozrV5IPb4u"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 367026,
       "name": "Vivir Lo Nuestro",
       "url": "https://open.spotify.com/track/4qAknKWl2aMvWn4r1nzWAa"
+    },
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
+        "name": "SEROTONINA",
+        "url": "https://open.spotify.com/album/5OoIV5fMI5Wby0UsiLqX9H"
+      },
+      "artists": [
+        {
+          "name": "KHEA",
+          "url": "https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR"
+        }
+      ],
+      "duration_ms": 150737,
+      "name": "COMO YO TE QUIERO",
+      "url": "https://open.spotify.com/track/40skUFI0ICkDoRLbJNUT9O"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -1175,18 +1175,18 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
-        "name": "Para La Eternidad",
-        "url": "https://open.spotify.com/album/2MSP1JG7KflqYqAHtk7wlB"
+        "name": "Cuenta Conmigo",
+        "url": "https://open.spotify.com/album/5cPr9HXuOGxHVkjnOamDfh"
       },
       "artists": [
         {
-          "name": "Celia Cruz",
-          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+          "name": "Jerry Rivera",
+          "url": "https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO"
         }
       ],
-      "duration_ms": 249120,
-      "name": "Te Busco",
-      "url": "https://open.spotify.com/track/5AuS5Nk1vs2vJNPlwB04F1"
+      "duration_ms": 274733,
+      "name": "Casi un Hechizo",
+      "url": "https://open.spotify.com/track/4rHczyhBZ53pLWgn6edWfB"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -1207,18 +1207,18 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
-        "name": "Cuenta Conmigo",
-        "url": "https://open.spotify.com/album/5cPr9HXuOGxHVkjnOamDfh"
+        "name": "Para La Eternidad",
+        "url": "https://open.spotify.com/album/2MSP1JG7KflqYqAHtk7wlB"
       },
       "artists": [
         {
-          "name": "Jerry Rivera",
-          "url": "https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO"
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
         }
       ],
-      "duration_ms": 274733,
-      "name": "Casi un Hechizo",
-      "url": "https://open.spotify.com/track/4rHczyhBZ53pLWgn6edWfB"
+      "duration_ms": 249120,
+      "name": "Te Busco",
+      "url": "https://open.spotify.com/track/5AuS5Nk1vs2vJNPlwB04F1"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -1279,22 +1279,18 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
-        "name": "AVENTURA",
-        "url": "https://open.spotify.com/album/3j7rNxfmagpw3RlQjBJ1Pf"
+        "name": "Mis Favoritas",
+        "url": "https://open.spotify.com/album/3Ph28YClqOZvb2nmdsXKBA"
       },
       "artists": [
         {
-          "name": "ZABDIEL",
-          "url": "https://open.spotify.com/artist/3L6TeR5LqiJDpwQQScSuw5"
-        },
-        {
-          "name": "Ana Mena",
-          "url": "https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl"
+          "name": "Jerry Rivera",
+          "url": "https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO"
         }
       ],
-      "duration_ms": 193059,
-      "name": "AVENTURA",
-      "url": "https://open.spotify.com/track/02vuof1sWGshy5yJG3HylY"
+      "duration_ms": 228906,
+      "name": "Cuenta Conmigo",
+      "url": "https://open.spotify.com/track/11GaqHqSJIHtS4Y4FRZq5Q"
     }
   ],
   "unique_name": "Amor Tropical",

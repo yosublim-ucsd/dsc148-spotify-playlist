@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa9E5mH7sfUn.md) - [plain]
 
 > Amigo, ven te invito una copa...
 
-[Spotify](https://open.spotify.com/user/spotify) - 195,162 likes - 68 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 195,298 likes - 68 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa9E5mH7sfUn.md) - [plain]
 | 56 | [Algo Más](https://open.spotify.com/track/1L8RiMflaEtWqg6GtRQNAF) | [La Quinta Estacion](https://open.spotify.com/artist/7FZj349hdLfD6qzXkJLuAh) | [Recuérdame Con Cartas Y Algo Más..\. Los Exitos \(Deluxe Edition\)](https://open.spotify.com/album/3PXv5uwPtZmtg0Qq6PxAgm) | 4:26 |
 | 57 | [La Playa](https://open.spotify.com/track/2DNyZP4Py6f4zMASLBnIu6) | [La Oreja de Van Gogh](https://open.spotify.com/artist/4U7lXyKdSf1JbM1aXvsodC) | [El Viaje de Copperpot](https://open.spotify.com/album/3HnSOodhuufrSTBnGZQ3fu) | 4:07 |
 | 58 | [El Recuento de los Daños](https://open.spotify.com/track/65e7BhKBuKYl6UfCzYVRGT) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [Mas Turbada Que Nunca](https://open.spotify.com/album/1w13BP16RNkn6JNSsxlJTh) | 3:55 |
-| 59 | [Tu Cárcel](https://open.spotify.com/track/2UZorOnrzxgIs5z5RhAqLA) | [Los Bukis](https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf) | [Desamor y Despecho](https://open.spotify.com/album/2usbwzhhwnrkBhKy87KXzT) | 3:31 |
+| 59 | [Tu Cárcel](https://open.spotify.com/track/2UZorOnrzxgIs5z5RhAqLA) | [Los Bukis](https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf) | [Desamor y Despecho](https://open.spotify.com/album/2usbwzhhwnrkBhKy87KXzT) | 3:27 |
 | 60 | [Señora de las Cuatro Décadas](https://open.spotify.com/track/0TYb115LHay4fUJ3auc8X6) | [Ricardo Arjona](https://open.spotify.com/artist/0h1zs4CTlU9D2QtgPxptUD) | [Historias](https://open.spotify.com/album/110rZdMmIjA335CehJJkuk) | 5:06 |
 | 61 | [Almohada](https://open.spotify.com/track/49ptTt81UeHXokJtf3wYny) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV) | [15 Exitos De Oro](https://open.spotify.com/album/4OP48ZU8qUYanvwyTLAvrt) | 3:36 |
 | 62 | [Los Hombres No Deben Llorar](https://open.spotify.com/track/6UqbBLltlDQ7ozlRswVWeu) | [King Clave](https://open.spotify.com/artist/71FVpPyLHxYTn3CfUOJq7f) | [La Gran Fiesta Formoseña](https://open.spotify.com/album/0jKCSRoHto29EuooePa871) | 3:18 |
@@ -77,4 +77,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa9E5mH7sfUn.md) - [plain]
 | 67 | [Un Idiota](https://open.spotify.com/track/5susfx6SX1tebTCLSxe74K) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Secreto De Amor](https://open.spotify.com/album/2OivwIlbg7qwTg8SLGB0rV) | 3:19 |
 | 68 | [Desvelado](https://open.spotify.com/track/2JJSGhPpATm8lXeYjD95fw) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Desvelado](https://open.spotify.com/album/2BCS2taG5BuYeL3QPCbcz2) | 3:41 |
 
-Snapshot ID: `MCwxNmRiMTk3NjliZmE5MjNiZjdiNWM0ODVlZWMwN2E2NmY0ZTY2ZGI2`
+Snapshot ID: `MCwyOTNmM2E3YWQyZThmNjdjZDU1MmQ0OGU2NDZiMzlmZjc2MGYxZGRi`

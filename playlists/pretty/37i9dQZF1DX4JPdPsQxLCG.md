@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JPdPsQxLCG.md) - [plain]
 
 > Classic tunes for the open road.
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,470 likes - 75 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,503 likes - 75 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JPdPsQxLCG.md) - [plain]
 | 74 | [Skin](https://open.spotify.com/track/2wvW8xOZAD9n0vMuVxUrTl) | [Arkells](https://open.spotify.com/artist/3ShGiAyhxI6Rq3TknZ3gfk) | [Laundry Pile](https://open.spotify.com/album/1QlYhaYb8Tfd47iuoUKaaz) | 3:51 |
 | 75 | [Blown Wide Open](https://open.spotify.com/track/3KyDvRT8RdsBcRkvKmy4M2) | [Big Wreck](https://open.spotify.com/artist/557SGrCJ59ysjCE1xjVZbS) | [In Loving Memory Of \- 20th Anniversary Special Edition](https://open.spotify.com/album/6Agfrk7oe0H7WsXauqMPR6) | 5:55 |
 
-Snapshot ID: `MCw5NDUxM2U1NzU2ZjdmMmZkODM1MGQzZDU2ZDViODcyZjIyOGQ0Yzcz`
+Snapshot ID: `MCwxNTUzMGVmYWRhNTIxMTJhMmQzOGVmM2M3NjAzZjI2YjNhNGFkMWNm`

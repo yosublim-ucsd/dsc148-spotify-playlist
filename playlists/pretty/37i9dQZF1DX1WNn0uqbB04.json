@@ -1,12 +1,12 @@
 {
   "description": "El Tango est\u00e1 m\u00e1s vivo que nunca. Disfrut\u00e1 los cl\u00e1sicos en <a href=\"spotify:user:spotify:playlist:37i9dQZF1DXcCT9tm6fRIV\">Tangos y Milongas</a>",
-  "num_followers": 87239,
+  "num_followers": 87253,
   "original_name": "Neo Tango",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NWZhOGMyYzg0M2NhZDQ3YzVjZTYwYzIyMDQ5ODYzNGZjNzI4Mjk0",
+  "snapshot_id": "MCwxMTY5MzgyNjM3ZTBjY2FkMjQwZWE5Y2UyMjhmODZmYWY4YmRmODEw",
   "tracks": [
     {
       "added_at": "2023-11-24 03:00:00",
@@ -747,6 +747,22 @@
     {
       "added_at": "2023-11-24 03:00:00",
       "album": {
+        "name": "Narcotango",
+        "url": "https://open.spotify.com/album/38eacUHVe4O9Ovy7YxhedA"
+      },
+      "artists": [
+        {
+          "name": "Carlos Libedinsky",
+          "url": "https://open.spotify.com/artist/70sNEhx3ntOpapyIUpL79n"
+        }
+      ],
+      "duration_ms": 252000,
+      "name": "Plano Secuencia",
+      "url": "https://open.spotify.com/track/5yDSP6ATR47lNYsLVCaAat"
+    },
+    {
+      "added_at": "2023-11-24 03:00:00",
+      "album": {
         "name": "Sebastian Barbui",
         "url": "https://open.spotify.com/album/28XcARHQ3YiuaAZkGDPidC"
       },
@@ -763,22 +779,6 @@
       "duration_ms": 202866,
       "name": "El Dia Que Me Quieras",
       "url": "https://open.spotify.com/track/76QoEfEGQKIVnYsQufETfK"
-    },
-    {
-      "added_at": "2023-11-24 03:00:00",
-      "album": {
-        "name": "Narcotango",
-        "url": "https://open.spotify.com/album/38eacUHVe4O9Ovy7YxhedA"
-      },
-      "artists": [
-        {
-          "name": "Carlos Libedinsky",
-          "url": "https://open.spotify.com/artist/70sNEhx3ntOpapyIUpL79n"
-        }
-      ],
-      "duration_ms": 252000,
-      "name": "Plano Secuencia",
-      "url": "https://open.spotify.com/track/5yDSP6ATR47lNYsLVCaAat"
     },
     {
       "added_at": "2023-11-24 03:00:00",
@@ -843,26 +843,6 @@
     {
       "added_at": "2023-11-24 03:00:00",
       "album": {
-        "name": "Tiempo (Me Niego A Rendirme) [feat. Abel Pintos]",
-        "url": "https://open.spotify.com/album/6ctAqEhLBzrUw3QytwLoh9"
-      },
-      "artists": [
-        {
-          "name": "Tanghetto",
-          "url": "https://open.spotify.com/artist/2NCZVzchxvVxlKDd05bcHC"
-        },
-        {
-          "name": "Abel Pintos",
-          "url": "https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa"
-        }
-      ],
-      "duration_ms": 230411,
-      "name": "Tiempo (Me Niego A Rendirme) [feat. Abel Pintos]",
-      "url": "https://open.spotify.com/track/027J6JzyLXCWdG5dfuMLAd"
-    },
-    {
-      "added_at": "2023-11-24 03:00:00",
-      "album": {
         "name": "Funky Tango (Remasterizado 2023)",
         "url": "https://open.spotify.com/album/7u4d8qxwnhU36rDgz1q81c"
       },
@@ -903,6 +883,26 @@
     {
       "added_at": "2023-11-24 03:00:00",
       "album": {
+        "name": "Tiempo (Me Niego A Rendirme) [feat. Abel Pintos]",
+        "url": "https://open.spotify.com/album/6ctAqEhLBzrUw3QytwLoh9"
+      },
+      "artists": [
+        {
+          "name": "Tanghetto",
+          "url": "https://open.spotify.com/artist/2NCZVzchxvVxlKDd05bcHC"
+        },
+        {
+          "name": "Abel Pintos",
+          "url": "https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa"
+        }
+      ],
+      "duration_ms": 230411,
+      "name": "Tiempo (Me Niego A Rendirme) [feat. Abel Pintos]",
+      "url": "https://open.spotify.com/track/027J6JzyLXCWdG5dfuMLAd"
+    },
+    {
+      "added_at": "2023-11-24 03:00:00",
+      "album": {
         "name": "Veinte Veinte",
         "url": "https://open.spotify.com/album/6ky4237OIoampV0wzjCYyG"
       },
@@ -939,22 +939,6 @@
     {
       "added_at": "2023-11-24 03:00:00",
       "album": {
-        "name": "Naranjo en Flor",
-        "url": "https://open.spotify.com/album/0tWoRmyt1H182J4jTeIwUT"
-      },
-      "artists": [
-        {
-          "name": "Ugo Mur",
-          "url": "https://open.spotify.com/artist/1mYGDTWr3rwgypPbttgjkS"
-        }
-      ],
-      "duration_ms": 197000,
-      "name": "Naranjo en Flor",
-      "url": "https://open.spotify.com/track/11Wr4jrWK0DzEM03s28OOC"
-    },
-    {
-      "added_at": "2023-11-24 03:00:00",
-      "album": {
         "name": "Invierno",
         "url": "https://open.spotify.com/album/7d20OGQ2xh0Io9rsPBjtUa"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 227616,
       "name": "Plegaria para un ni\u00f1o dormido",
       "url": "https://open.spotify.com/track/3hW3s0ClWYEKdDVZnwKZYU"
+    },
+    {
+      "added_at": "2023-11-24 03:00:00",
+      "album": {
+        "name": "Naranjo en Flor",
+        "url": "https://open.spotify.com/album/0tWoRmyt1H182J4jTeIwUT"
+      },
+      "artists": [
+        {
+          "name": "Ugo Mur",
+          "url": "https://open.spotify.com/artist/1mYGDTWr3rwgypPbttgjkS"
+        }
+      ],
+      "duration_ms": 197000,
+      "name": "Naranjo en Flor",
+      "url": "https://open.spotify.com/track/11Wr4jrWK0DzEM03s28OOC"
     },
     {
       "added_at": "2023-11-24 03:00:00",
@@ -987,6 +987,22 @@
     {
       "added_at": "2023-11-24 03:00:00",
       "album": {
+        "name": "La Marcha Del Golazo Solitario",
+        "url": "https://open.spotify.com/album/2QbQpUf9KGyExi87PPRUsX"
+      },
+      "artists": [
+        {
+          "name": "Los Fabulosos Cadillacs",
+          "url": "https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ"
+        }
+      ],
+      "duration_ms": 269053,
+      "name": "La Rosca - Versi\u00f3n Remasterizada 2008",
+      "url": "https://open.spotify.com/track/2ssFUjK5KdjiaeaI2yiGv7"
+    },
+    {
+      "added_at": "2023-11-24 03:00:00",
+      "album": {
         "name": "Al Vac\u00edo",
         "url": "https://open.spotify.com/album/28xoCj2zTxQJnQQg7lBqHY"
       },
@@ -1003,22 +1019,6 @@
       "duration_ms": 214782,
       "name": "Al Vac\u00edo",
       "url": "https://open.spotify.com/track/6pop1Zy75gRGx4946x3ZGY"
-    },
-    {
-      "added_at": "2023-11-24 03:00:00",
-      "album": {
-        "name": "La Marcha Del Golazo Solitario",
-        "url": "https://open.spotify.com/album/2QbQpUf9KGyExi87PPRUsX"
-      },
-      "artists": [
-        {
-          "name": "Los Fabulosos Cadillacs",
-          "url": "https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ"
-        }
-      ],
-      "duration_ms": 269053,
-      "name": "La Rosca - Versi\u00f3n Remasterizada 2008",
-      "url": "https://open.spotify.com/track/2ssFUjK5KdjiaeaI2yiGv7"
     },
     {
       "added_at": "2023-11-24 03:00:00",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2023-11-24 03:00:00",
       "album": {
-        "name": "Tango del Falluto",
-        "url": "https://open.spotify.com/album/065br6DY3VQsvlio0EHar2"
-      },
-      "artists": [
-        {
-          "name": "Tomi Lago",
-          "url": "https://open.spotify.com/artist/2dHAhHoEkSxTu3PvCh14ug"
-        }
-      ],
-      "duration_ms": 189421,
-      "name": "Tango del Falluto",
-      "url": "https://open.spotify.com/track/1iT5XNmkXSDBUSBoSk2LSD"
-    },
-    {
-      "added_at": "2023-11-24 03:00:00",
-      "album": {
         "name": "Libertango (En Vivo en el Luna Park)",
         "url": "https://open.spotify.com/album/16ncE46moDunwP7X7P7xRH"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 206374,
       "name": "Libertango - En Vivo en Luna Park",
       "url": "https://open.spotify.com/track/7JK4ZND7Gvd3smWaX5eU3t"
+    },
+    {
+      "added_at": "2023-11-24 03:00:00",
+      "album": {
+        "name": "Tango del Falluto",
+        "url": "https://open.spotify.com/album/065br6DY3VQsvlio0EHar2"
+      },
+      "artists": [
+        {
+          "name": "Tomi Lago",
+          "url": "https://open.spotify.com/artist/2dHAhHoEkSxTu3PvCh14ug"
+        }
+      ],
+      "duration_ms": 189421,
+      "name": "Tango del Falluto",
+      "url": "https://open.spotify.com/track/1iT5XNmkXSDBUSBoSk2LSD"
     },
     {
       "added_at": "2023-11-24 03:00:00",
@@ -1235,22 +1235,18 @@
     {
       "added_at": "2023-11-24 03:00:00",
       "album": {
-        "name": "Patotero Sentimental",
-        "url": "https://open.spotify.com/album/3reLc7DI5WhetVDHhGqLCM"
+        "name": "Porque Canto Asi",
+        "url": "https://open.spotify.com/album/0DVKuygci9kepNkgBfVXmP"
       },
       "artists": [
         {
-          "name": "Ruben Rada",
-          "url": "https://open.spotify.com/artist/5AfGpwSbYKelc5nJjUVRmb"
-        },
-        {
-          "name": "Adriana Varela",
-          "url": "https://open.spotify.com/artist/5diAzb0BD6mSdU1xOhM7dc"
+          "name": "La Milonga Electrica",
+          "url": "https://open.spotify.com/artist/7cJt9z3hi4iwfG6v1buiO6"
         }
       ],
-      "duration_ms": 179050,
-      "name": "Patotero Sentimental",
-      "url": "https://open.spotify.com/track/6Lp2X06YCNEtLk2h4BVV54"
+      "duration_ms": 134272,
+      "name": "Porque Canto Asi",
+      "url": "https://open.spotify.com/track/7mhcAUfgNvWpt1kw64UMpw"
     }
   ],
   "unique_name": "Neo Tango",

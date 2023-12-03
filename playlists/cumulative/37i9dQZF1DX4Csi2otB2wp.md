@@ -4,7 +4,7 @@
 
 > una lloradita tranqui
 
-208 songs - 11 hr 48 min
+209 songs - 11 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,7 +104,8 @@
 | [Locos](https://open.spotify.com/track/3GSMdtJphymHEsR8K9jT5Q) | [León Larregui](https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d) | [Voluma](https://open.spotify.com/album/6pTyhD8IxuyQXzcCZJp5EM) | 2:57 | 2023-05-05 | 2023-06-03 |
 | [Loko \(with Los Primos Del Este\)](https://open.spotify.com/track/3KHRKLRl85jnsNSLICgy7t) | [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1), [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [Loko \(with Los Primos Del Este\)](https://open.spotify.com/album/27xtTUsTfkXQgDPbaVNMQ3) | 2:08 | 2022-09-23 | 2023-02-03 |
 | [Me Volví A Acordar De Ti](https://open.spotify.com/track/6n8Dl1KMjFoUIF9mzto4VP) | [Los Bukis](https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf) | [Me Volvi A Acordar De Ti](https://open.spotify.com/album/5UDp9amJcdxcM86mM0Hwiy) | 3:27 | 2023-02-03 | 2023-12-02 |
-| [Me Volví A Acordar De Ti](https://open.spotify.com/track/0sZPFnEE8vFCpLAiwdegys) | [Los Bukis](https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf) | [Íconos 25 Éxitos](https://open.spotify.com/album/6HA6MBw47p4novRNrxpzMA) | 3:32 | 2023-05-05 |  |
+| [Me Volví A Acordar De Ti](https://open.spotify.com/track/0sZPFnEE8vFCpLAiwdegys) | [Los Bukis](https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf) | [Íconos 25 Éxitos](https://open.spotify.com/album/6HA6MBw47p4novRNrxpzMA) | 3:32 | 2023-05-05 | 2023-12-03 |
+| [Me Volví A Acordar De Ti](https://open.spotify.com/track/3CuRrpAl5vPClswy02qCf3) | [Los Bukis](https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf) | [Desamor y Despecho](https://open.spotify.com/album/2usbwzhhwnrkBhKy87KXzT) | 3:32 | 2023-05-05 |  |
 | [Mentiras](https://open.spotify.com/track/3jRZg6U0m9Ir115Wt66ebU) | [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz), [Ivan Cornejo](https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV) | [Pura Manzanita Vol\. 3](https://open.spotify.com/album/1FRle61xaVcvcjaD5PvNG7) | 3:54 | 2023-02-03 | 2023-03-18 |
 | [Mi amor es para ti](https://open.spotify.com/track/7pwNTPeUpYmvMNYl0SjqAx) | [Los Solitarios](https://open.spotify.com/artist/5oXtNxxScsHb1cRjqqfcMj) | [Los Originales](https://open.spotify.com/album/6lZ9vgAPDLgCO9EvNcPsoE) | 2:48 | 2022-01-18 | 2022-07-29 |
 | [Mi amor es para ti](https://open.spotify.com/track/6GFYIviZMLAYLFtylQpL0c) | [Los Solitarios](https://open.spotify.com/artist/5oXtNxxScsHb1cRjqqfcMj) | [Latin Jukebox](https://open.spotify.com/album/2Oq62pmDL0wnARMOUPZVfF) | 2:49 | 2022-01-18 | 2022-11-13 |

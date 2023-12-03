@@ -1,12 +1,12 @@
 {
   "description": "have fun with it.",
-  "num_followers": 707153,
+  "num_followers": 707205,
   "original_name": "it's alt good",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNjQwZGMwOGI4YmNkZmI5ZDQ0MmYzZmQ0ZTY2ZDkyYjg5MThjYjQ0",
+  "snapshot_id": "MCwyMGRiMGZiOTRmODFiN2VkYTEzNjA3ZjdjYjkyMTIwMjJmM2MxMjM1",
   "tracks": [
     {
       "added_at": "2023-11-27 18:24:11",
@@ -299,18 +299,26 @@
     {
       "added_at": "2023-11-27 18:24:11",
       "album": {
-        "name": "Mrs. Hollywood",
-        "url": "https://open.spotify.com/album/4R94EEvhdvAE3PWhPcLo59"
+        "name": "Cracker Island",
+        "url": "https://open.spotify.com/album/4wtZQMNTC1O79kDxMBsEan"
       },
       "artists": [
         {
-          "name": "Go-Jo",
-          "url": "https://open.spotify.com/artist/7CslUrDCYnm3vMtKZJZGNv"
+          "name": "Gorillaz",
+          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
+        },
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        },
+        {
+          "name": "Bootie Brown",
+          "url": "https://open.spotify.com/artist/6GI3CJjT2bOnMfprCpjT1d"
         }
       ],
-      "duration_ms": 143840,
-      "name": "Mrs. Hollywood",
-      "url": "https://open.spotify.com/track/1K1KcmJgKaeqnsisQnhyE1"
+      "duration_ms": 215149,
+      "name": "New Gold (feat. Tame Impala and Bootie Brown)",
+      "url": "https://open.spotify.com/track/60SvhHtwefT0e2G7i7kOH3"
     },
     {
       "added_at": "2023-11-27 18:24:11",
@@ -335,6 +343,22 @@
     {
       "added_at": "2023-11-27 18:24:11",
       "album": {
+        "name": "Mrs. Hollywood",
+        "url": "https://open.spotify.com/album/4R94EEvhdvAE3PWhPcLo59"
+      },
+      "artists": [
+        {
+          "name": "Go-Jo",
+          "url": "https://open.spotify.com/artist/7CslUrDCYnm3vMtKZJZGNv"
+        }
+      ],
+      "duration_ms": 143840,
+      "name": "Mrs. Hollywood",
+      "url": "https://open.spotify.com/track/1K1KcmJgKaeqnsisQnhyE1"
+    },
+    {
+      "added_at": "2023-11-27 18:24:11",
+      "album": {
         "name": "Dead Club City",
         "url": "https://open.spotify.com/album/0kqOkJ9HCUD4AXKvvR6lb7"
       },
@@ -347,30 +371,6 @@
       "duration_ms": 214723,
       "name": "Overcome",
       "url": "https://open.spotify.com/track/2YmJZWGcy0yONMCsEKOuVD"
-    },
-    {
-      "added_at": "2023-11-27 18:24:11",
-      "album": {
-        "name": "Cracker Island",
-        "url": "https://open.spotify.com/album/4wtZQMNTC1O79kDxMBsEan"
-      },
-      "artists": [
-        {
-          "name": "Gorillaz",
-          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
-        },
-        {
-          "name": "Tame Impala",
-          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
-        },
-        {
-          "name": "Bootie Brown",
-          "url": "https://open.spotify.com/artist/6GI3CJjT2bOnMfprCpjT1d"
-        }
-      ],
-      "duration_ms": 215149,
-      "name": "New Gold (feat. Tame Impala and Bootie Brown)",
-      "url": "https://open.spotify.com/track/60SvhHtwefT0e2G7i7kOH3"
     },
     {
       "added_at": "2023-11-27 18:24:11",
@@ -571,22 +571,6 @@
     {
       "added_at": "2023-11-27 18:24:11",
       "album": {
-        "name": "The 1975",
-        "url": "https://open.spotify.com/album/33ZqJmmqFE8Z7Ak1Lxbnfb"
-      },
-      "artists": [
-        {
-          "name": "The 1975",
-          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
-        }
-      ],
-      "duration_ms": 224640,
-      "name": "Chocolate",
-      "url": "https://open.spotify.com/track/44Ljlpy44mHvLJxcYUvTK0"
-    },
-    {
-      "added_at": "2023-11-27 18:24:11",
-      "album": {
         "name": "Clarity",
         "url": "https://open.spotify.com/album/4V3BerycmgxqE3sr3RaDYE"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 227240,
       "name": "Clarity",
       "url": "https://open.spotify.com/track/5c6lM2zjAF6MFoD8C1hiBr"
+    },
+    {
+      "added_at": "2023-11-27 18:24:11",
+      "album": {
+        "name": "The 1975",
+        "url": "https://open.spotify.com/album/33ZqJmmqFE8Z7Ak1Lxbnfb"
+      },
+      "artists": [
+        {
+          "name": "The 1975",
+          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
+        }
+      ],
+      "duration_ms": 224640,
+      "name": "Chocolate",
+      "url": "https://open.spotify.com/track/44Ljlpy44mHvLJxcYUvTK0"
     },
     {
       "added_at": "2023-11-27 18:24:11",
@@ -635,22 +635,6 @@
     {
       "added_at": "2023-11-27 18:24:11",
       "album": {
-        "name": "Happy Face",
-        "url": "https://open.spotify.com/album/663C3TEQrU97Lm6gVKp5zi"
-      },
-      "artists": [
-        {
-          "name": "Jagwar Twin",
-          "url": "https://open.spotify.com/artist/4luZExkmgn39Kj5XsYWria"
-        }
-      ],
-      "duration_ms": 169760,
-      "name": "Happy Face",
-      "url": "https://open.spotify.com/track/6QNCvcs758QuBEBISL6XIV"
-    },
-    {
-      "added_at": "2023-11-27 18:24:11",
-      "album": {
         "name": "Wilderado",
         "url": "https://open.spotify.com/album/4jPnb0rdxEawWMlO8RfzJP"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 241194,
       "name": "Surefire",
       "url": "https://open.spotify.com/track/7MbVZOLSUloG4J3nH3Tnos"
+    },
+    {
+      "added_at": "2023-11-27 18:24:11",
+      "album": {
+        "name": "Happy Face",
+        "url": "https://open.spotify.com/album/663C3TEQrU97Lm6gVKp5zi"
+      },
+      "artists": [
+        {
+          "name": "Jagwar Twin",
+          "url": "https://open.spotify.com/artist/4luZExkmgn39Kj5XsYWria"
+        }
+      ],
+      "duration_ms": 169760,
+      "name": "Happy Face",
+      "url": "https://open.spotify.com/track/6QNCvcs758QuBEBISL6XIV"
     },
     {
       "added_at": "2023-11-27 18:24:11",
@@ -823,22 +823,6 @@
     {
       "added_at": "2023-11-27 18:24:11",
       "album": {
-        "name": "Alive!",
-        "url": "https://open.spotify.com/album/0lvFKHiygKiwhKHNYPmRzn"
-      },
-      "artists": [
-        {
-          "name": "Bakar",
-          "url": "https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H"
-        }
-      ],
-      "duration_ms": 232133,
-      "name": "Alive!",
-      "url": "https://open.spotify.com/track/6KzI6EM1QYyOq5oudPlcWT"
-    },
-    {
-      "added_at": "2023-11-27 18:24:11",
-      "album": {
         "name": "Chris Black Changed My Life",
         "url": "https://open.spotify.com/album/6A7Q0GFiU2ckojqk5QsXWX"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 159241,
       "name": "Summer of Luv (feat. Unknown Mortal Orchestra)",
       "url": "https://open.spotify.com/track/2PKbC4uFUY1tcBABpGZ8GQ"
+    },
+    {
+      "added_at": "2023-11-27 18:24:11",
+      "album": {
+        "name": "Alive!",
+        "url": "https://open.spotify.com/album/0lvFKHiygKiwhKHNYPmRzn"
+      },
+      "artists": [
+        {
+          "name": "Bakar",
+          "url": "https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H"
+        }
+      ],
+      "duration_ms": 232133,
+      "name": "Alive!",
+      "url": "https://open.spotify.com/track/6KzI6EM1QYyOq5oudPlcWT"
     },
     {
       "added_at": "2023-11-27 18:24:11",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2023-11-27 18:24:11",
       "album": {
-        "name": "When I Was Younger",
-        "url": "https://open.spotify.com/album/4A9oVHInBqtXG9ogUXQiKN"
-      },
-      "artists": [
-        {
-          "name": "Colony House",
-          "url": "https://open.spotify.com/artist/6R664N4cEza3eORSqKSgO4"
-        }
-      ],
-      "duration_ms": 177773,
-      "name": "Silhouettes",
-      "url": "https://open.spotify.com/track/5zYduVIUSgSWmv56IwBmRl"
-    },
-    {
-      "added_at": "2023-11-27 18:24:11",
-      "album": {
         "name": "Take Me With You",
         "url": "https://open.spotify.com/album/5nlMjtTBb8QwtiWs7TY8L4"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 160676,
       "name": "OUT OF MY MIND",
       "url": "https://open.spotify.com/track/5M5ZnM9O8JW2SrukbfxZP8"
+    },
+    {
+      "added_at": "2023-11-27 18:24:11",
+      "album": {
+        "name": "When I Was Younger",
+        "url": "https://open.spotify.com/album/4A9oVHInBqtXG9ogUXQiKN"
+      },
+      "artists": [
+        {
+          "name": "Colony House",
+          "url": "https://open.spotify.com/artist/6R664N4cEza3eORSqKSgO4"
+        }
+      ],
+      "duration_ms": 177773,
+      "name": "Silhouettes",
+      "url": "https://open.spotify.com/track/5zYduVIUSgSWmv56IwBmRl"
     },
     {
       "added_at": "2023-11-27 18:24:11",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2023-11-27 18:24:11",
       "album": {
-        "name": "WHAT LOVE?",
-        "url": "https://open.spotify.com/album/1Fpn010jS6hIajqCDlpliR"
-      },
-      "artists": [
-        {
-          "name": "I DONT KNOW HOW BUT THEY FOUND ME",
-          "url": "https://open.spotify.com/artist/0Raaw7kr1Vzat4ZvHzjsJR"
-        }
-      ],
-      "duration_ms": 195432,
-      "name": "WHAT LOVE?",
-      "url": "https://open.spotify.com/track/2UUFmHjjo2ZiqKUN5dkxr4"
-    },
-    {
-      "added_at": "2023-11-27 18:24:11",
-      "album": {
         "name": "BLINK AND YOU'LL MISS IT//",
         "url": "https://open.spotify.com/album/2Vs2Tn2p7N3KZGEnUmXFdp"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 168975,
       "name": "MARRY KILL F*CK//",
       "url": "https://open.spotify.com/track/71MVjTIeOQzPkEmfgL3uNc"
+    },
+    {
+      "added_at": "2023-11-27 18:24:11",
+      "album": {
+        "name": "WHAT LOVE?",
+        "url": "https://open.spotify.com/album/1Fpn010jS6hIajqCDlpliR"
+      },
+      "artists": [
+        {
+          "name": "I DONT KNOW HOW BUT THEY FOUND ME",
+          "url": "https://open.spotify.com/artist/0Raaw7kr1Vzat4ZvHzjsJR"
+        }
+      ],
+      "duration_ms": 195432,
+      "name": "WHAT LOVE?",
+      "url": "https://open.spotify.com/track/2UUFmHjjo2ZiqKUN5dkxr4"
     },
     {
       "added_at": "2023-11-27 18:24:11",
@@ -1283,6 +1283,22 @@
     {
       "added_at": "2023-11-27 18:24:11",
       "album": {
+        "name": "Heartbeat Highway",
+        "url": "https://open.spotify.com/album/1mBlpKV5enWAZdQxBqZ96r"
+      },
+      "artists": [
+        {
+          "name": "Cannons",
+          "url": "https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B"
+        }
+      ],
+      "duration_ms": 194594,
+      "name": "Loving You",
+      "url": "https://open.spotify.com/track/5MVJI1eQ7cLoC0fr6NRE69"
+    },
+    {
+      "added_at": "2023-11-27 18:24:11",
+      "album": {
         "name": "Alone in the Mountains",
         "url": "https://open.spotify.com/album/7oGOnYxXUMTH8BGooDqsC4"
       },
@@ -1315,38 +1331,6 @@
     {
       "added_at": "2023-11-27 18:24:11",
       "album": {
-        "name": "Heartbeat Highway",
-        "url": "https://open.spotify.com/album/1mBlpKV5enWAZdQxBqZ96r"
-      },
-      "artists": [
-        {
-          "name": "Cannons",
-          "url": "https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B"
-        }
-      ],
-      "duration_ms": 194594,
-      "name": "Loving You",
-      "url": "https://open.spotify.com/track/5MVJI1eQ7cLoC0fr6NRE69"
-    },
-    {
-      "added_at": "2023-11-27 18:24:11",
-      "album": {
-        "name": "Sure Enough",
-        "url": "https://open.spotify.com/album/1PjK7jnPD2B6EdhwQecC1u"
-      },
-      "artists": [
-        {
-          "name": "Two Door Cinema Club",
-          "url": "https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl"
-        }
-      ],
-      "duration_ms": 171272,
-      "name": "Sure Enough",
-      "url": "https://open.spotify.com/track/2RI2HBUx4Algf7PVTklzUM"
-    },
-    {
-      "added_at": "2023-11-27 18:24:11",
-      "album": {
         "name": "thoughts i have while lying in bed (with Beach Weather)",
         "url": "https://open.spotify.com/album/57u0BXm756Oc5nKELfd6qR"
       },
@@ -1363,6 +1347,22 @@
       "duration_ms": 219994,
       "name": "thoughts i have while lying in bed",
       "url": "https://open.spotify.com/track/7t01uN0kyKMEK8Ow9hhEXa"
+    },
+    {
+      "added_at": "2023-11-27 18:24:11",
+      "album": {
+        "name": "Sure Enough",
+        "url": "https://open.spotify.com/album/1PjK7jnPD2B6EdhwQecC1u"
+      },
+      "artists": [
+        {
+          "name": "Two Door Cinema Club",
+          "url": "https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl"
+        }
+      ],
+      "duration_ms": 171272,
+      "name": "Sure Enough",
+      "url": "https://open.spotify.com/track/2RI2HBUx4Algf7PVTklzUM"
     },
     {
       "added_at": "2023-11-27 18:24:11",
@@ -1455,22 +1455,6 @@
     {
       "added_at": "2023-11-27 18:24:11",
       "album": {
-        "name": "Lemon Tree",
-        "url": "https://open.spotify.com/album/4ibM2rJfsOdr0d72AlOI2G"
-      },
-      "artists": [
-        {
-          "name": "Mt. Joy",
-          "url": "https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI"
-        }
-      ],
-      "duration_ms": 248560,
-      "name": "Lemon Tree",
-      "url": "https://open.spotify.com/track/0SnCZci0wyVj0RZXknNaWq"
-    },
-    {
-      "added_at": "2023-11-27 18:24:11",
-      "album": {
         "name": "Healer",
         "url": "https://open.spotify.com/album/1FsCJHnJORi2z5ibQs9aQI"
       },
@@ -1483,6 +1467,22 @@
       "duration_ms": 234386,
       "name": "Deleter",
       "url": "https://open.spotify.com/track/2yH16s2lLbYtLziVwqw7Pf"
+    },
+    {
+      "added_at": "2023-11-27 18:24:11",
+      "album": {
+        "name": "Lemon Tree",
+        "url": "https://open.spotify.com/album/4ibM2rJfsOdr0d72AlOI2G"
+      },
+      "artists": [
+        {
+          "name": "Mt. Joy",
+          "url": "https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI"
+        }
+      ],
+      "duration_ms": 248560,
+      "name": "Lemon Tree",
+      "url": "https://open.spotify.com/track/0SnCZci0wyVj0RZXknNaWq"
     },
     {
       "added_at": "2023-11-27 18:24:11",
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2023-11-27 18:24:11",
       "album": {
-        "name": "Adderall",
-        "url": "https://open.spotify.com/album/3cwCFf0JcO8RpfWi2OAcz4"
-      },
-      "artists": [
-        {
-          "name": "Max Frost",
-          "url": "https://open.spotify.com/artist/7r8xR0LmnaAM623MmRDn1V"
-        }
-      ],
-      "duration_ms": 218025,
-      "name": "Adderall",
-      "url": "https://open.spotify.com/track/4Xx0J00u90QvnG3rwz4Itp"
-    },
-    {
-      "added_at": "2023-11-27 18:24:11",
-      "album": {
         "name": "Zen (with K.Flay & grandson)",
         "url": "https://open.spotify.com/album/2JQbWWpYG6kKppiD6z2FwL"
       },
@@ -1555,6 +1539,22 @@
       "duration_ms": 215882,
       "name": "Zen (with K.Flay & grandson)",
       "url": "https://open.spotify.com/track/2loEXJRB5ExGcUHYX365R5"
+    },
+    {
+      "added_at": "2023-11-27 18:24:11",
+      "album": {
+        "name": "Adderall",
+        "url": "https://open.spotify.com/album/3cwCFf0JcO8RpfWi2OAcz4"
+      },
+      "artists": [
+        {
+          "name": "Max Frost",
+          "url": "https://open.spotify.com/artist/7r8xR0LmnaAM623MmRDn1V"
+        }
+      ],
+      "duration_ms": 218025,
+      "name": "Adderall",
+      "url": "https://open.spotify.com/track/4Xx0J00u90QvnG3rwz4Itp"
     },
     {
       "added_at": "2023-11-27 18:24:11",

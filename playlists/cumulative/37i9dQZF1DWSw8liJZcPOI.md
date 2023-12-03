@@ -4,7 +4,7 @@
 
 > The composers and musicians bending genres, redefining rules, and bringing classical music into the 21st century.
 
-430 songs - 1 day 5 hr 50 min
+431 songs - 1 day 5 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -287,7 +287,7 @@
 | [Parade I](https://open.spotify.com/track/6TCkr5rl8Bu12hIXheOTqx) | [Moshimoss](https://open.spotify.com/artist/3txheZ8uqgXjU22ITrxGme) | [Parade](https://open.spotify.com/album/5lAF4HjQ8v00c1M7PjFpG8) | 3:44 | 2020-10-20\* | 2022-06-01 |
 | [Parallel \(feat\. Manu Delago\)](https://open.spotify.com/track/1TYyoP8sdXQ039kghXQZuf) | [Poppy Ackroyd](https://open.spotify.com/artist/5q3wKuiaCK8BRPZQSvehFd), [Manu Delago](https://open.spotify.com/artist/08LrhaMKwKuGbB9XHBEjXF) | [Parallel \(feat\. Manu Delago\)](https://open.spotify.com/album/2qUXri0kSEFVaMaz4OHbXH) | 3:51 | 2020-11-27 | 2022-07-29 |
 | [Parkbench](https://open.spotify.com/track/44FSX8VuF0zaiYtVcySxq2) | [Dear Gravity](https://open.spotify.com/artist/28MEj0HGdwvJYdbMAVpXU6) | [Parkbench](https://open.spotify.com/album/4iXhxwvBhInvPgDXkXRAJT) | 3:41 | 2021-12-10 |  |
-| [Parliament Of Owls](https://open.spotify.com/track/0mNCNmylxTWB9GrFw4RVf6) | [Agnes Obel](https://open.spotify.com/artist/1rKrEdI6GKirxWHxIUPYms) | [Parliament Of Owls](https://open.spotify.com/album/3cs2v3m4bPWdYB3C76tw2A) | 2:29 | 2020-10-20\* |  |
+| [Parliament Of Owls](https://open.spotify.com/track/0mNCNmylxTWB9GrFw4RVf6) | [Agnes Obel](https://open.spotify.com/artist/1rKrEdI6GKirxWHxIUPYms) | [Parliament Of Owls](https://open.spotify.com/album/3cs2v3m4bPWdYB3C76tw2A) | 2:29 | 2020-10-20\* | 2023-12-03 |
 | [Partisans](https://open.spotify.com/track/7djcz9efRuDz8jklVJn4DC) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [Partisans](https://open.spotify.com/album/0oBmVbeJmelnhnYiacIvde) | 3:56 | 2021-10-16 | 2022-12-24 |
 | [Pastoral](https://open.spotify.com/track/19vWDttuR4ZVBzUfQFsfPS) | [Christian Löffler](https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO) | [Pastoral](https://open.spotify.com/album/7e79YQn5tWC0LL9M2SFtde) | 3:40 | 2020-11-06 |  |
 | [Pause](https://open.spotify.com/track/6rUSYRNKQG15LBs24DxH5p) | [Poppy Ackroyd](https://open.spotify.com/artist/5q3wKuiaCK8BRPZQSvehFd) | [Pause](https://open.spotify.com/album/0QMLNub1Rwwa6LPRcLqne8) | 4:18 | 2021-12-10 | 2022-07-22 |
@@ -430,6 +430,7 @@
 | [Winter's Fall](https://open.spotify.com/track/3mFQNmkVxLga6LyX3s8fI0) | [Paul Haslinger](https://open.spotify.com/artist/5d9PdhcsOsXj0GIM857nvE) | [Austerlitz](https://open.spotify.com/album/7tWjb5AIZier6MusEf5Oz3) | 5:09 | 2020-10-21 | 2021-01-15 |
 | [Woven Song](https://open.spotify.com/track/0Fs13LJdctI630wOhPcIO8) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [Woven Song](https://open.spotify.com/album/0Ah7kVnuWgdH3vQy0DNtuA) | 3:10 | 2020-10-20\* | 2023-11-29 |
 | [Woven Song — piano reworks](https://open.spotify.com/track/1wb6pRSvhekFyXO5j3fXol) | [Hania Rani](https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD), [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [Woven Song — piano reworks](https://open.spotify.com/album/27yZ8bTAOMlvnfU4vaIxvK) | 3:47 | 2022-07-01 | 2023-12-01 |
+| [Woven Song — piano reworks](https://open.spotify.com/track/2xQBYQi4xvqo3HcjOQg5Oj) | [Hania Rani](https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD), [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [some kind of peace — piano reworks](https://open.spotify.com/album/79a34uOB7jdMrSECClgqOv) | 3:47 | 2023-11-24 |  |
 | [Wrestling](https://open.spotify.com/track/3GHGYVMQcpm5h7xGKpm3y6) | [Jóhann Jóhannsson](https://open.spotify.com/artist/3IpQziA6YwD53PQ5xbwgLF) | [Personal Effects \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3R5B3xyl63tcnXuCkBu8Sm) | 2:48 | 2020-10-20\* | 2021-11-04 |
 | [Yes, Brick by Brick](https://open.spotify.com/track/1su4tA0rkmiBvfTiPpwuAU) | [Ceeys](https://open.spotify.com/artist/6K8BBZapSLE6XGXF4htbIT) | [Hausmusik](https://open.spotify.com/album/5MXVcbbK62CdyftPSuf3TB) | 5:19 | 2020-10-21 | 2022-04-20 |
 | [Youth](https://open.spotify.com/track/0kfVVKg58qkHeb9fcPWF1i) | [Neighborhood Libraries](https://open.spotify.com/artist/5eu335GvCPHQ1hTJiH0zJt) | [Postcards for the Backyard, Pt\. 1](https://open.spotify.com/album/09x53A382I5YYYSGeUQYFG) | 4:00 | 2023-03-24 | 2023-09-25 |

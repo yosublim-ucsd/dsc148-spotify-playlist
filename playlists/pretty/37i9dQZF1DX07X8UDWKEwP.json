@@ -1,12 +1,12 @@
 {
   "description": "Lo nuevo del mundo tropical. Cover: Carlos Vives & Ryan Castro",
-  "num_followers": 255884,
+  "num_followers": 255921,
   "original_name": "el nuevo tropical",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYzhhNGExMDU1MWEwNTg3M2E1ZGE0YjViNjU4Njg5MTI5ZWZkYTRk",
+  "snapshot_id": "MCxlMGMzODAyZjJkN2I5N2Q0MDA3ZWJmYmM5NjI2M2ExODc4MThkNTEw",
   "tracks": [
     {
       "added_at": "2023-12-01 05:00:00",
@@ -807,6 +807,22 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
+        "name": "LA FALTA QUE ME HACES (Bachata Version)",
+        "url": "https://open.spotify.com/album/0bBc5FTXAPIWwKWzX0oy6x"
+      },
+      "artists": [
+        {
+          "name": "NATTI NATASHA",
+          "url": "https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7"
+        }
+      ],
+      "duration_ms": 171391,
+      "name": "LA FALTA QUE ME HACES - Bachata Version",
+      "url": "https://open.spotify.com/track/2L7Fd4XIh0uxgqYoFt1pT3"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
         "name": "DLUX",
         "url": "https://open.spotify.com/album/5pAgLx8XeBoItzjT81csbJ"
       },
@@ -827,22 +843,6 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "LA FALTA QUE ME HACES (Bachata Version)",
-        "url": "https://open.spotify.com/album/0bBc5FTXAPIWwKWzX0oy6x"
-      },
-      "artists": [
-        {
-          "name": "NATTI NATASHA",
-          "url": "https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7"
-        }
-      ],
-      "duration_ms": 171391,
-      "name": "LA FALTA QUE ME HACES - Bachata Version",
-      "url": "https://open.spotify.com/track/2L7Fd4XIh0uxgqYoFt1pT3"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
         "name": "Para Mi",
         "url": "https://open.spotify.com/album/4EN6HX2xApPwC7nA7FjI7k"
       },
@@ -855,6 +855,22 @@
       "duration_ms": 267953,
       "name": "Para Mi",
       "url": "https://open.spotify.com/track/3mUPsqEeq0GoIv1wSuivqf"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
+        "name": "Contigo",
+        "url": "https://open.spotify.com/album/3j09eak04YqZqOY1md4lp2"
+      },
+      "artists": [
+        {
+          "name": "Mike Bah\u00eda",
+          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
+        }
+      ],
+      "duration_ms": 214080,
+      "name": "Amor Sincero",
+      "url": "https://open.spotify.com/track/2ay6PrLaK03kYDh7EZIi7y"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -879,22 +895,6 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "Contigo",
-        "url": "https://open.spotify.com/album/3j09eak04YqZqOY1md4lp2"
-      },
-      "artists": [
-        {
-          "name": "Mike Bah\u00eda",
-          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
-        }
-      ],
-      "duration_ms": 214080,
-      "name": "Amor Sincero",
-      "url": "https://open.spotify.com/track/2ay6PrLaK03kYDh7EZIi7y"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
         "name": "AVENTURA",
         "url": "https://open.spotify.com/album/3j7rNxfmagpw3RlQjBJ1Pf"
       },
@@ -915,18 +915,26 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "Cu\u00e1ndo",
-        "url": "https://open.spotify.com/album/7AFKnMLumDXDJlCr1N3pvp"
+        "name": "Espacio",
+        "url": "https://open.spotify.com/album/45O6rWsnsgORCAgGJwfZaR"
       },
       "artists": [
         {
-          "name": "Gusi",
-          "url": "https://open.spotify.com/artist/7GMRarEViKQmiTUMFZtrfe"
+          "name": "Luister La Voz",
+          "url": "https://open.spotify.com/artist/4FoMtKClFtTNsfQN7ivDII"
+        },
+        {
+          "name": "Ryan Castro",
+          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
+        },
+        {
+          "name": "Silvestre Dangond",
+          "url": "https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e"
         }
       ],
-      "duration_ms": 206412,
-      "name": "Cu\u00e1ndo",
-      "url": "https://open.spotify.com/track/4cQBl4skiG56RMGpu1diV3"
+      "duration_ms": 203590,
+      "name": "Espacio",
+      "url": "https://open.spotify.com/track/2t4HsrvaJpNOSI1UMnKVxW"
     }
   ],
   "unique_name": "el nuevo tropical",

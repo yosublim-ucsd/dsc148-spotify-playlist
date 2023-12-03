@@ -513,6 +513,24 @@
     },
     {
       "album": {
+        "name": "Road to Ruin (40th Anniversary Deluxe Edition)",
+        "url": "https://open.spotify.com/album/43zbrwwFHh5e7cmDQomx8Z"
+      },
+      "artists": [
+        {
+          "name": "Ramones",
+          "url": "https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149786,
+      "name": "I Wanna Be Sedated",
+      "url": "https://open.spotify.com/track/5NoQvINZLBV1wMYPdNmReL"
+    },
+    {
+      "album": {
         "name": "Diana Ross Presents The Jackson 5",
         "url": "https://open.spotify.com/album/51uoKRa8vT5SULrlF8s2t1"
       },
@@ -940,7 +958,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-03",
       "duration_ms": 174321,
       "name": "Therefore I Am",
       "url": "https://open.spotify.com/track/54bFM56PmE4YLRnqpW6Tha"

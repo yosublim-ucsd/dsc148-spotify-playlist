@@ -1,12 +1,12 @@
 {
   "description": "\u7720\u308c\u306a\u3044\u591c\u3082\u97f3\u697d\u3068\u4e00\u7dd2\u306b\u3002\u304f\u3064\u308d\u304e\u306a\u304c\u3089\u3001\u5165\u7720\u52b9\u679c\u306e\u3042\u308b\u97f3\u697d\u3068\u7d20\u6575\u306a\u591c\u3092\u3086\u3063\u305f\u308a\u3068\u304a\u904e\u3054\u3057\u4e0b\u3055\u3044\u3002",
-  "num_followers": 128680,
+  "num_followers": 128692,
   "original_name": "\u7720\u308c\u306c\u591c\u306e\u97f3\u697d",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NjhjOTNlZDRiOWE4NjVkYjhlNDM3YWZkMWYwZjA1NzNkNTY2Nzkz",
+  "snapshot_id": "MCw0NjdjNmE2MmExZTcxMWI2NDlkYjkwNGMwOWYxMTQxYWU5YjYwYzgx",
   "tracks": [
     {
       "added_at": "2023-11-28 15:00:00",
@@ -463,18 +463,18 @@
     {
       "added_at": "2023-11-28 15:00:00",
       "album": {
-        "name": "Hikare Inochi",
-        "url": "https://open.spotify.com/album/6UoFSfFtSDp97egQC3Vnas"
+        "name": "Windswept Adan",
+        "url": "https://open.spotify.com/album/0LxeUCxtPfUtnHTKbW52MB"
       },
       "artists": [
         {
-          "name": "Kitri",
-          "url": "https://open.spotify.com/artist/2i9CbxfaMspiPMCYZgvgPW"
+          "name": "Ichiko Aoba",
+          "url": "https://open.spotify.com/artist/6ignRjbPmLvKdtMLj9a5Xs"
         }
       ],
-      "duration_ms": 210760,
-      "name": "Sympathy",
-      "url": "https://open.spotify.com/track/23Mcmg5O8rBKAOzxvrTjnD"
+      "duration_ms": 269312,
+      "name": "Porcelain",
+      "url": "https://open.spotify.com/track/1IEN6uB8gSG7DAoqZV8cNg"
     },
     {
       "added_at": "2023-11-28 15:00:00",
@@ -495,18 +495,18 @@
     {
       "added_at": "2023-11-28 15:00:00",
       "album": {
-        "name": "Windswept Adan",
-        "url": "https://open.spotify.com/album/0LxeUCxtPfUtnHTKbW52MB"
+        "name": "Hikare Inochi",
+        "url": "https://open.spotify.com/album/6UoFSfFtSDp97egQC3Vnas"
       },
       "artists": [
         {
-          "name": "Ichiko Aoba",
-          "url": "https://open.spotify.com/artist/6ignRjbPmLvKdtMLj9a5Xs"
+          "name": "Kitri",
+          "url": "https://open.spotify.com/artist/2i9CbxfaMspiPMCYZgvgPW"
         }
       ],
-      "duration_ms": 269312,
-      "name": "Porcelain",
-      "url": "https://open.spotify.com/track/1IEN6uB8gSG7DAoqZV8cNg"
+      "duration_ms": 210760,
+      "name": "Sympathy",
+      "url": "https://open.spotify.com/track/23Mcmg5O8rBKAOzxvrTjnD"
     },
     {
       "added_at": "2023-11-28 15:00:00",
@@ -663,22 +663,6 @@
     {
       "added_at": "2023-11-28 15:00:00",
       "album": {
-        "name": "Acoustic Versions",
-        "url": "https://open.spotify.com/album/5rH2O3z3h6ExXDe5H2ftKp"
-      },
-      "artists": [
-        {
-          "name": "The fin.",
-          "url": "https://open.spotify.com/artist/31zdCo7PhGXLRbg0sfBUYa"
-        }
-      ],
-      "duration_ms": 132390,
-      "name": "Midnight Song",
-      "url": "https://open.spotify.com/track/6BLHESk37BHiDksGxTCySj"
-    },
-    {
-      "added_at": "2023-11-28 15:00:00",
-      "album": {
         "name": "Beautiful World",
         "url": "https://open.spotify.com/album/1OWtLn5iWuajzUjHAkdoDb"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 340573,
       "name": "Beautiful World",
       "url": "https://open.spotify.com/track/3x9fmCeM7CRiB3NwrVZxvM"
+    },
+    {
+      "added_at": "2023-11-28 15:00:00",
+      "album": {
+        "name": "Acoustic Versions",
+        "url": "https://open.spotify.com/album/5rH2O3z3h6ExXDe5H2ftKp"
+      },
+      "artists": [
+        {
+          "name": "The fin.",
+          "url": "https://open.spotify.com/artist/31zdCo7PhGXLRbg0sfBUYa"
+        }
+      ],
+      "duration_ms": 132390,
+      "name": "Midnight Song",
+      "url": "https://open.spotify.com/track/6BLHESk37BHiDksGxTCySj"
     },
     {
       "added_at": "2023-11-28 15:00:00",
@@ -735,6 +735,22 @@
     {
       "added_at": "2023-11-28 15:00:00",
       "album": {
+        "name": "Amiko (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/229nsZcyvUQGLn30FP3ngu"
+      },
+      "artists": [
+        {
+          "name": "Ichiko Aoba",
+          "url": "https://open.spotify.com/artist/6ignRjbPmLvKdtMLj9a5Xs"
+        }
+      ],
+      "duration_ms": 240895,
+      "name": "hello",
+      "url": "https://open.spotify.com/track/795bHfsDk7EC34IsLqaXfp"
+    },
+    {
+      "added_at": "2023-11-28 15:00:00",
+      "album": {
         "name": "\u540d\u524d\u306e\u306a\u3044\u8857",
         "url": "https://open.spotify.com/album/3hN8H85mT5RFr2IyXrpCfJ"
       },
@@ -755,22 +771,6 @@
     {
       "added_at": "2023-11-28 15:00:00",
       "album": {
-        "name": "Amiko (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/229nsZcyvUQGLn30FP3ngu"
-      },
-      "artists": [
-        {
-          "name": "Ichiko Aoba",
-          "url": "https://open.spotify.com/artist/6ignRjbPmLvKdtMLj9a5Xs"
-        }
-      ],
-      "duration_ms": 240895,
-      "name": "hello",
-      "url": "https://open.spotify.com/track/795bHfsDk7EC34IsLqaXfp"
-    },
-    {
-      "added_at": "2023-11-28 15:00:00",
-      "album": {
         "name": "\u7126\u304c\u308cNight",
         "url": "https://open.spotify.com/album/5KrrC445nlotY96Ifz3gA2"
       },
@@ -787,22 +787,6 @@
     {
       "added_at": "2023-11-28 15:00:00",
       "album": {
-        "name": "Days With Uncertainty",
-        "url": "https://open.spotify.com/album/0p4J9aL2rG5uBKLRO8HkPM"
-      },
-      "artists": [
-        {
-          "name": "The fin.",
-          "url": "https://open.spotify.com/artist/31zdCo7PhGXLRbg0sfBUYa"
-        }
-      ],
-      "duration_ms": 239160,
-      "name": "Night Time",
-      "url": "https://open.spotify.com/track/6kwhwM4bjrFxnPT0wlbb6b"
-    },
-    {
-      "added_at": "2023-11-28 15:00:00",
-      "album": {
         "name": "\u666f\u8272\u4e00\u7a7a",
         "url": "https://open.spotify.com/album/2XAZByUJaGLU5E60QB3zKb"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 376300,
       "name": "\u6642\u306e\u89e3\u6c7a",
       "url": "https://open.spotify.com/track/7KmjtQirbhpj3aeLu3BA7l"
+    },
+    {
+      "added_at": "2023-11-28 15:00:00",
+      "album": {
+        "name": "Days With Uncertainty",
+        "url": "https://open.spotify.com/album/0p4J9aL2rG5uBKLRO8HkPM"
+      },
+      "artists": [
+        {
+          "name": "The fin.",
+          "url": "https://open.spotify.com/artist/31zdCo7PhGXLRbg0sfBUYa"
+        }
+      ],
+      "duration_ms": 239160,
+      "name": "Night Time",
+      "url": "https://open.spotify.com/track/6kwhwM4bjrFxnPT0wlbb6b"
     },
     {
       "added_at": "2023-11-28 15:00:00",
@@ -851,22 +851,6 @@
     {
       "added_at": "2023-11-28 15:00:00",
       "album": {
-        "name": "\u7720\u308b\u305f\u3081\u306e\u30d4\u30a2\u30ce\u30a2\u30eb\u30d0\u30e0\uff5ebeautiful sleep\uff5e",
-        "url": "https://open.spotify.com/album/7H191esP6oW2m58tzIDfhZ"
-      },
-      "artists": [
-        {
-          "name": "Shinya Kiyozuka",
-          "url": "https://open.spotify.com/artist/2acDvNu4hqCoCPlUdehoj2"
-        }
-      ],
-      "duration_ms": 242573,
-      "name": "Beautiful Sleep",
-      "url": "https://open.spotify.com/track/5ut9a0Dwd0XashJx7kda5A"
-    },
-    {
-      "added_at": "2023-11-28 15:00:00",
-      "album": {
         "name": "\u3042\u306a\u305f\u304c\u3069\u3053\u304b\u3067",
         "url": "https://open.spotify.com/album/39ZsxUsASZ2XZKjUwMsIUF"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 280786,
       "name": "\u3042\u306a\u305f\u304c\u3069\u3053\u304b\u3067",
       "url": "https://open.spotify.com/track/5HcQ3l5sM9aFyd49UFwSoK"
+    },
+    {
+      "added_at": "2023-11-28 15:00:00",
+      "album": {
+        "name": "\u7720\u308b\u305f\u3081\u306e\u30d4\u30a2\u30ce\u30a2\u30eb\u30d0\u30e0\uff5ebeautiful sleep\uff5e",
+        "url": "https://open.spotify.com/album/7H191esP6oW2m58tzIDfhZ"
+      },
+      "artists": [
+        {
+          "name": "Shinya Kiyozuka",
+          "url": "https://open.spotify.com/artist/2acDvNu4hqCoCPlUdehoj2"
+        }
+      ],
+      "duration_ms": 242573,
+      "name": "Beautiful Sleep",
+      "url": "https://open.spotify.com/track/5ut9a0Dwd0XashJx7kda5A"
     },
     {
       "added_at": "2023-11-28 15:00:00",
@@ -931,22 +931,6 @@
     {
       "added_at": "2023-11-28 15:00:00",
       "album": {
-        "name": "What are you looking for",
-        "url": "https://open.spotify.com/album/1eRBqVnEPDWja7FBpfgFIh"
-      },
-      "artists": [
-        {
-          "name": "Hanare Gumi",
-          "url": "https://open.spotify.com/artist/2nyUb9foGvK7AlESn5DCte"
-        }
-      ],
-      "duration_ms": 401173,
-      "name": "\u304a\u3042\u3044\u3053",
-      "url": "https://open.spotify.com/track/0ekuGQhxcrmTsFJbwNnNX6"
-    },
-    {
-      "added_at": "2023-11-28 15:00:00",
-      "album": {
         "name": "Letters",
         "url": "https://open.spotify.com/album/4U7dNrhS6ITV4wb7A464nK"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 274426,
       "name": "Letters",
       "url": "https://open.spotify.com/track/1tekdibfeOlht2yBU11s4Y"
+    },
+    {
+      "added_at": "2023-11-28 15:00:00",
+      "album": {
+        "name": "What are you looking for",
+        "url": "https://open.spotify.com/album/1eRBqVnEPDWja7FBpfgFIh"
+      },
+      "artists": [
+        {
+          "name": "Hanare Gumi",
+          "url": "https://open.spotify.com/artist/2nyUb9foGvK7AlESn5DCte"
+        }
+      ],
+      "duration_ms": 401173,
+      "name": "\u304a\u3042\u3044\u3053",
+      "url": "https://open.spotify.com/track/0ekuGQhxcrmTsFJbwNnNX6"
     },
     {
       "added_at": "2023-11-28 15:00:00",
@@ -1027,38 +1027,6 @@
     {
       "added_at": "2023-11-28 15:00:00",
       "album": {
-        "name": "A Rainy Night in NY",
-        "url": "https://open.spotify.com/album/4lbahrWo1oX8bq55QevAKH"
-      },
-      "artists": [
-        {
-          "name": "moeki",
-          "url": "https://open.spotify.com/artist/6fR38gpMfHJIKnbWNcQqfM"
-        }
-      ],
-      "duration_ms": 178546,
-      "name": "A Rainy Night in NY",
-      "url": "https://open.spotify.com/track/6ISvLzyd8LRsSRLJR9WyAX"
-    },
-    {
-      "added_at": "2023-11-28 15:00:00",
-      "album": {
-        "name": "\u30d3\u30a2\u30ea\u30b9\u30c8\u30c3\u30af\u30b9",
-        "url": "https://open.spotify.com/album/3bj0rxNiqW8FPj2exowDFQ"
-      },
-      "artists": [
-        {
-          "name": "Bialystocks",
-          "url": "https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe"
-        }
-      ],
-      "duration_ms": 234213,
-      "name": "\u307e\u305f\u305f\u304d",
-      "url": "https://open.spotify.com/track/6K5HCzRSvOCViWBVCc3wYH"
-    },
-    {
-      "added_at": "2023-11-28 15:00:00",
-      "album": {
         "name": "\u732b\u6751\u3055\u3093\u306e\u3046\u305f",
         "url": "https://open.spotify.com/album/69O6a8s4FMk37vtSs4qjU0"
       },
@@ -1079,6 +1047,38 @@
       "duration_ms": 166300,
       "name": "\u732b\u6751\u3055\u3093\u306e\u3046\u305f",
       "url": "https://open.spotify.com/track/30G4STumh4gJ0aq2sU3h9t"
+    },
+    {
+      "added_at": "2023-11-28 15:00:00",
+      "album": {
+        "name": "\u30d3\u30a2\u30ea\u30b9\u30c8\u30c3\u30af\u30b9",
+        "url": "https://open.spotify.com/album/3bj0rxNiqW8FPj2exowDFQ"
+      },
+      "artists": [
+        {
+          "name": "Bialystocks",
+          "url": "https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe"
+        }
+      ],
+      "duration_ms": 234213,
+      "name": "\u307e\u305f\u305f\u304d",
+      "url": "https://open.spotify.com/track/6K5HCzRSvOCViWBVCc3wYH"
+    },
+    {
+      "added_at": "2023-11-28 15:00:00",
+      "album": {
+        "name": "A Rainy Night in NY",
+        "url": "https://open.spotify.com/album/4lbahrWo1oX8bq55QevAKH"
+      },
+      "artists": [
+        {
+          "name": "moeki",
+          "url": "https://open.spotify.com/artist/6fR38gpMfHJIKnbWNcQqfM"
+        }
+      ],
+      "duration_ms": 178546,
+      "name": "A Rainy Night in NY",
+      "url": "https://open.spotify.com/track/6ISvLzyd8LRsSRLJR9WyAX"
     },
     {
       "added_at": "2023-11-28 15:00:00",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2023-11-28 15:00:00",
       "album": {
-        "name": "\u91d1\u67d1",
-        "url": "https://open.spotify.com/album/5UwH0a9bjXQJbg06RQoI3k"
-      },
-      "artists": [
-        {
-          "name": "kojikoji",
-          "url": "https://open.spotify.com/artist/13lFKnH7sS9T35uPQmxaOs"
-        }
-      ],
-      "duration_ms": 410000,
-      "name": "\u91d1\u67d1",
-      "url": "https://open.spotify.com/track/3hCF2YuOSO3QffMNXRRaFQ"
-    },
-    {
-      "added_at": "2023-11-28 15:00:00",
-      "album": {
         "name": "Ninh Binh Brother's Homestay",
         "url": "https://open.spotify.com/album/2I7P1pgDW7BZigccsZ17ra"
       },
@@ -1267,18 +1251,18 @@
     {
       "added_at": "2023-11-28 15:00:00",
       "album": {
-        "name": "Undercurrent",
-        "url": "https://open.spotify.com/album/4MKH2kAjS3SgTPm4HICzWJ"
+        "name": "\u91d1\u67d1",
+        "url": "https://open.spotify.com/album/5UwH0a9bjXQJbg06RQoI3k"
       },
       "artists": [
         {
-          "name": "Haruomi Hosono",
-          "url": "https://open.spotify.com/artist/370nbSkMB9kDWyTypwWYak"
+          "name": "kojikoji",
+          "url": "https://open.spotify.com/artist/13lFKnH7sS9T35uPQmxaOs"
         }
       ],
-      "duration_ms": 187000,
-      "name": "Bath\uff06Frog (\u98a8\u5442\u3068\u86d9)",
-      "url": "https://open.spotify.com/track/4UaiMmr3Rqlylaiv2gSFSb"
+      "duration_ms": 410000,
+      "name": "\u91d1\u67d1",
+      "url": "https://open.spotify.com/track/3hCF2YuOSO3QffMNXRRaFQ"
     },
     {
       "added_at": "2023-11-28 15:00:00",
@@ -1295,6 +1279,22 @@
       "duration_ms": 266000,
       "name": "\u771f\u591c\u4e2d\u306e\u30e1\u30ed\u30c7\u30a3",
       "url": "https://open.spotify.com/track/54ZwbqBhemxQo3fJyyuOeR"
+    },
+    {
+      "added_at": "2023-11-28 15:00:00",
+      "album": {
+        "name": "Undercurrent",
+        "url": "https://open.spotify.com/album/4MKH2kAjS3SgTPm4HICzWJ"
+      },
+      "artists": [
+        {
+          "name": "Haruomi Hosono",
+          "url": "https://open.spotify.com/artist/370nbSkMB9kDWyTypwWYak"
+        }
+      ],
+      "duration_ms": 187000,
+      "name": "Bath\uff06Frog (\u98a8\u5442\u3068\u86d9)",
+      "url": "https://open.spotify.com/track/4UaiMmr3Rqlylaiv2gSFSb"
     },
     {
       "added_at": "2023-11-28 15:00:00",
@@ -1415,6 +1415,22 @@
     {
       "added_at": "2023-11-28 15:00:00",
       "album": {
+        "name": "\u97f3\u697d\u3068\u79c1",
+        "url": "https://open.spotify.com/album/40ZrEXw8VRCDkWrICrBTb0"
+      },
+      "artists": [
+        {
+          "name": "Tomoyo Harada",
+          "url": "https://open.spotify.com/artist/6tl1VDtemwax4iIKxqekK1"
+        }
+      ],
+      "duration_ms": 392173,
+      "name": "\u5929\u56fd\u306b\u3044\u3061\u3070\u3093\u8fd1\u3044\u5cf6",
+      "url": "https://open.spotify.com/track/5ZwdNfFGj1ut9PzGgynYev"
+    },
+    {
+      "added_at": "2023-11-28 15:00:00",
+      "album": {
         "name": "\u524d\u3078",
         "url": "https://open.spotify.com/album/1i08uVsbsJOmn2JSOSFD4C"
       },
@@ -1431,22 +1447,6 @@
       "duration_ms": 111720,
       "name": "\u3042\u3044\u307e\u3044",
       "url": "https://open.spotify.com/track/7A41wAX25NxFHKCu290lsz"
-    },
-    {
-      "added_at": "2023-11-28 15:00:00",
-      "album": {
-        "name": "\u97f3\u697d\u3068\u79c1",
-        "url": "https://open.spotify.com/album/40ZrEXw8VRCDkWrICrBTb0"
-      },
-      "artists": [
-        {
-          "name": "Tomoyo Harada",
-          "url": "https://open.spotify.com/artist/6tl1VDtemwax4iIKxqekK1"
-        }
-      ],
-      "duration_ms": 392173,
-      "name": "\u5929\u56fd\u306b\u3044\u3061\u3070\u3093\u8fd1\u3044\u5cf6",
-      "url": "https://open.spotify.com/track/5ZwdNfFGj1ut9PzGgynYev"
     },
     {
       "added_at": "2023-11-28 15:00:00",
@@ -1623,22 +1623,18 @@
     {
       "added_at": "2023-11-28 15:00:00",
       "album": {
-        "name": "DESIGN",
-        "url": "https://open.spotify.com/album/7s9c96pulVhswdp5muAJJW"
+        "name": "Unknown",
+        "url": "https://open.spotify.com/album/1DrPgAzH0NM59iDqrThG4L"
       },
       "artists": [
         {
-          "name": "lo-key design",
-          "url": "https://open.spotify.com/artist/4Yw0OkfWbeOb0Q6ATaxZoB"
-        },
-        {
-          "name": "kojikoji",
-          "url": "https://open.spotify.com/artist/13lFKnH7sS9T35uPQmxaOs"
+          "name": "Friday Night Plans",
+          "url": "https://open.spotify.com/artist/71YfYiTx6KAZFJfKaNYueQ"
         }
       ],
-      "duration_ms": 199113,
-      "name": "CAREFREE",
-      "url": "https://open.spotify.com/track/6RyqEix17XNNzdvhU8FrFK"
+      "duration_ms": 244748,
+      "name": "Unknown",
+      "url": "https://open.spotify.com/track/73F0eYAZnToLIKZ9UmD2zj"
     },
     {
       "added_at": "2023-11-28 15:00:00",
@@ -1659,18 +1655,22 @@
     {
       "added_at": "2023-11-28 15:00:00",
       "album": {
-        "name": "Unknown",
-        "url": "https://open.spotify.com/album/1DrPgAzH0NM59iDqrThG4L"
+        "name": "DESIGN",
+        "url": "https://open.spotify.com/album/7s9c96pulVhswdp5muAJJW"
       },
       "artists": [
         {
-          "name": "Friday Night Plans",
-          "url": "https://open.spotify.com/artist/71YfYiTx6KAZFJfKaNYueQ"
+          "name": "lo-key design",
+          "url": "https://open.spotify.com/artist/4Yw0OkfWbeOb0Q6ATaxZoB"
+        },
+        {
+          "name": "kojikoji",
+          "url": "https://open.spotify.com/artist/13lFKnH7sS9T35uPQmxaOs"
         }
       ],
-      "duration_ms": 244748,
-      "name": "Unknown",
-      "url": "https://open.spotify.com/track/73F0eYAZnToLIKZ9UmD2zj"
+      "duration_ms": 199113,
+      "name": "CAREFREE",
+      "url": "https://open.spotify.com/track/6RyqEix17XNNzdvhU8FrFK"
     }
   ],
   "unique_name": "\u7720\u308c\u306c\u591c\u306e\u97f3\u697d",

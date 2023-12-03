@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all genres of Christian, Gospel, Worship & Inspirational music\.  Cover: <a href="spotify:artist:2Q1d40J0u4IWGg4oZNPBZ7">Jonathan Ogden</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 317,065 likes - 100 songs - 6 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 317,143 likes - 100 songs - 6 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 29 | [Wondrous Things](https://open.spotify.com/track/0dyKbfZEMvTmZgbmiI0evO) | [FAITHFUL](https://open.spotify.com/artist/5v6CYScuXE6A8BGVp5bRqW), [Sandra McCracken](https://open.spotify.com/artist/435UmkDo0uchwmDeHdKWGN), [JJ Heller](https://open.spotify.com/artist/7dq8KEwf0kQXJhM79iwcPh), [Sarah Macintosh](https://open.spotify.com/artist/0cCXrDHh4fDfIpc485NvbI) | [Wondrous Things](https://open.spotify.com/album/5jRQK1yYhg2GTZrO7M3wj7) | 4:32 |
 | 30 | [Even \(I'll Still Praise\) \- Acoustic](https://open.spotify.com/track/5ewo3lDdYVD6R6S77kc5xE) | [Mass Anthem](https://open.spotify.com/artist/0KVR8D2dx5Td8ONhNZRLkM), [Genavieve Linkowski](https://open.spotify.com/artist/3ZTcBbm31RFUaoTeFAuiJF), [Metro Collective Worship](https://open.spotify.com/artist/3v3nuJodbuZr1ofB6Aqzrn), [Anthem Worship](https://open.spotify.com/artist/71LGmy4toAaXKJP7IK8xvG) | [Even \(I'll Still Praise\) \[Acoustic\]](https://open.spotify.com/album/2SqoJZNsLy49eZw3PASYTJ) | 3:29 |
 | 31 | [imagination \- acoustic](https://open.spotify.com/track/7qTFzdrFrHHasPrZuVi7Zx) | [Citizens](https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db) | [i can't find the edges of you \(deluxe\)](https://open.spotify.com/album/1eI3uS7As5S9lOqycwAKSK) | 3:05 |
-| 32 | [When I Think / I Give You Praise \- Live](https://open.spotify.com/track/5tKalDnf02u9iBKgfs0RAS) | [Ricky Dillard](https://open.spotify.com/artist/3EDwVZensg15abkTt5zfTM) | [When I Think / I Give You Praise \(Live\)](https://open.spotify.com/album/0ffWtIAVN0F7sOvZurNYne) | 8:54 |
+| 32 | [When I Think \- Live](https://open.spotify.com/track/5tKalDnf02u9iBKgfs0RAS) | [Ricky Dillard](https://open.spotify.com/artist/3EDwVZensg15abkTt5zfTM) | [When I Think \(Live\)](https://open.spotify.com/album/0ffWtIAVN0F7sOvZurNYne) | 8:54 |
 | 33 | [Mercy \- Live](https://open.spotify.com/track/32smGLmKf6J3aYMsQQCf2L) | [Joy Fak](https://open.spotify.com/artist/2ja5AV6o7TtytNPvhxDOAZ) | [Mercy \(Live\)](https://open.spotify.com/album/4nkCtTJ93bjfnlVwLVXMHu) | 4:48 |
 | 34 | [Bigger Odogwu part II \- Orchestra Version](https://open.spotify.com/track/721uEg2yWLLbRQOnxvoD3j) | [Prinx Emmanuel](https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz) | [Bigger Odogwu part II \(Orchestra Version\)](https://open.spotify.com/album/2j9sYczIMecvAchnsheWQt) | 2:59 |
 | 35 | [Come Alive](https://open.spotify.com/track/6A8RrYAg9aG0BLTcrBt3k5) | [Gabriel Eziashi](https://open.spotify.com/artist/6sx0dcFppnpZl1HSX6cCqx) | [Shemoneh](https://open.spotify.com/album/0JEaUz6MRrYtki9Quyv2m0) | 9:09 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 99 | [Counting My Blessings \- Acoustic](https://open.spotify.com/track/5GVWorVAP2wKRNfpWHpmOu) | [Seph Schlueter](https://open.spotify.com/artist/3rdJD72bitczKtW5yNgAA4) | [Counting My Blessings \(Acoustic\)](https://open.spotify.com/album/4UzqPZ6WHVypd25yzRlQS6) | 3:28 |
 | 100 | [Dancing](https://open.spotify.com/track/04QFC6On6l4CIEIILWy0uW) | [Cattle & Cane](https://open.spotify.com/artist/6a1PrMzNmhNE8HrO8burHc) | [Dancing](https://open.spotify.com/album/1OVe71XaeBgdEOMqeQY1EL) | 4:31 |
 
-Snapshot ID: `MCw1MDRiNDU1MWM5YmU5MTMxYTJiMWVkZWY5ZDk5OTZhZGU5MTU1YjYx`
+Snapshot ID: `MCw2MjkzMGRjMDlkMTc2MWU4MGIzYmY2M2FmYjcyMWNlYjNiZTM5NWFl`

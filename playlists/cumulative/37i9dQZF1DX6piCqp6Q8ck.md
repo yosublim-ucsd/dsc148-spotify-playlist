@@ -4,7 +4,7 @@
 
 > Uplifting and happy jazz christmas classics.
 
-128 songs - 6 hr 16 min
+129 songs - 6 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,7 @@
 | [Christmas Night In Harlem](https://open.spotify.com/track/332PGtU23efyGgyilfneG8) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek), [Benny Carter](https://open.spotify.com/artist/5dlCVmfRbWVGOJYHzGyk32) | [Christmas With Ella & Friends](https://open.spotify.com/album/0wEWuRUrwhSlDyqUZGgHqI) | 2:39 | 2021-12-21 | 2022-07-29 |
 | [Christmas Night In Harlem](https://open.spotify.com/track/1oE2ZJOWfLrKU8R18OzFrI) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek), [Benny Carter](https://open.spotify.com/artist/5dlCVmfRbWVGOJYHzGyk32) | [The Decca Singles 1949\-1958](https://open.spotify.com/album/4PF4AAZ8f5stId2e5dSkE1) | 2:42 | 2022-01-03 | 2022-10-31 |
 | [Christmas Night In Harlem \- Single Version](https://open.spotify.com/track/7vev9Pk7OHfsrhn4eH6BWF) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek), [Benny Carter](https://open.spotify.com/artist/5dlCVmfRbWVGOJYHzGyk32) | [Louis Wishes You a Cool Yule](https://open.spotify.com/album/2KquMleTyS3Ykm7440PjL6) | 2:39 | 2022-09-27 |  |
-| [Christmas Time All Over the World](https://open.spotify.com/track/2KTDECCXQYjGftNlpsCkya) | [Sammy Davis Jr.](https://open.spotify.com/artist/1NAWG3AngjBXyKbmPaz92D) | [Christmas Jazz With The Stars](https://open.spotify.com/album/4sfq7INKFIAYi8NEigZ7RY) | 2:34 | 2021-12-21 |  |
+| [Christmas Time All Over the World](https://open.spotify.com/track/2KTDECCXQYjGftNlpsCkya) | [Sammy Davis Jr.](https://open.spotify.com/artist/1NAWG3AngjBXyKbmPaz92D) | [Christmas Jazz With The Stars](https://open.spotify.com/album/4sfq7INKFIAYi8NEigZ7RY) | 2:34 | 2021-12-21 | 2023-12-03 |
 | [Christmas Time All Over the World](https://open.spotify.com/track/4rZydllvNw65Uic1NgdAiN) | [Sammy Davis Jr.](https://open.spotify.com/artist/1NAWG3AngjBXyKbmPaz92D) | [It's A Wonderful Christmas](https://open.spotify.com/album/6bPkKWkg7jWw0n5eJt50fZ) | 2:34 | 2022-09-27 | 2022-11-24 |
 | [Christmas Time All Over the World](https://open.spotify.com/track/6o3s3bTNZnBdRgdBOQhB9k) | [Sammy Davis Jr.](https://open.spotify.com/artist/1NAWG3AngjBXyKbmPaz92D) | [The Best Christmas Ever](https://open.spotify.com/album/120EmRXSkzLW49alWW7R59) | 2:34 | 2022-09-27 | 2022-10-14 |
 | [Christmas Time All Over the World](https://open.spotify.com/track/0C8nRQ4PjSD8MMPP8PurAo) | [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [Christmas Jazz With The Stars](https://open.spotify.com/album/6G82FEZvkv6CjLw8T3w4xw) | 2:34 | 2022-09-27 | 2022-11-13 |
@@ -113,6 +113,7 @@
 | [Santa Claus Is Coming To Town](https://open.spotify.com/track/1n7vRaKzkwUERk2giYsqW5) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL), [Clayton\-Hamilton Jazz Orchestra](https://open.spotify.com/artist/3BDNDjVtAxrIqFDIO5cUgy) | [Esta Navidad La Pasamos Con Jazz](https://open.spotify.com/album/5nXui57Z9o9PmqeaA5KQVb) | 2:53 | 2022-11-09 | 2022-11-13 |
 | [Santa Claus Is Coming To Town](https://open.spotify.com/track/4QFV8KtVhzDsDvNcH4sUkr) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Ella Wishes You A Swinging Christmas \(Expanded Edition\)](https://open.spotify.com/album/2UhPCUgK2IGUrg7lIvMYfb) | 2:18 | 2022-11-24 | 2023-09-14 |
 | [Santa Claus Is Coming To Town](https://open.spotify.com/track/1FP675TZfSRXvc6sS9X91z) | [Marc & Friends](https://open.spotify.com/artist/4jCJXUMoxVJn5ZVYMxLwnV) | [Santa Claus Is Coming To Town](https://open.spotify.com/album/2bTSFxZEFvGb4m5ApxbGCa) | 2:21 | 2023-11-10 |  |
+| [Santa, Won't You Listen to Me](https://open.spotify.com/track/0Lh2f4LMyeA9NFLpcLoBnd) | [Kyle Cox](https://open.spotify.com/artist/0GHk0KwPVlIjFyhAbPNNI9) | [Santa, Won't You Listen to Me](https://open.spotify.com/album/6mO4bLwn1GZAmE1hnlt2dk) | 2:53 | 2023-12-01 |  |
 | [Shake Hands With Santa Claus](https://open.spotify.com/track/43cikuYdx521QNlJxwpOx3) | [Louis Prima](https://open.spotify.com/artist/52lBOxCxbJg0ttXEW9CQpW) | [Christmas With Ella & Friends](https://open.spotify.com/album/0wEWuRUrwhSlDyqUZGgHqI) | 2:27 | 2021-12-21 | 2022-07-29 |
 | [Shake Hands with Santa Claus \- Mono Recording](https://open.spotify.com/track/4uWOOyWwhkYAchf4WFuiTT) | [Louis Prima](https://open.spotify.com/artist/52lBOxCxbJg0ttXEW9CQpW) | [Breaking It Up!](https://open.spotify.com/album/0nwd49YxEDzYuCJG5hlfAX) | 2:25 | 2022-01-03 |  |
 | [Shake Hands with Santa Claus \- Mono Recording](https://open.spotify.com/track/73b41pbYVemYUQ27CVS6nW) | [Louis Prima](https://open.spotify.com/artist/52lBOxCxbJg0ttXEW9CQpW) | [Traditional Christmas Music](https://open.spotify.com/album/0oBQNX8GpwyfVv9uPPBrSt) | 2:25 | 2022-11-09 | 2022-11-13 |

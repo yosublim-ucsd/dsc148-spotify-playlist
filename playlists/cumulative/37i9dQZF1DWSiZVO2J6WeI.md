@@ -4,7 +4,7 @@
 
 > Hypnotic bliss.
 
-263 songs - 13 hr 46 min
+264 songs - 13 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [Alie 5.2](https://open.spotify.com/track/0fpGpTKzSEJZUGngNo4XpF) | [Haruhisa Tanaka](https://open.spotify.com/artist/4ZTlbJ3KHGs7wuvdtouuIw) | [Alie](https://open.spotify.com/album/5Nv5TTeUU0SDZu3rn1nhwY) | 3:15 | 2022-01-12 | 2022-03-05 |
 | [Along The Way](https://open.spotify.com/track/0Q1y8Inh5CnoSENHEeNuLC) | [Yasmin Gough](https://open.spotify.com/artist/5uJl5aq7yzkO3yOE1CMCRW) | [Along The Way](https://open.spotify.com/album/3DiwKGIPP84FTOqZmZ9SmM) | 3:18 | 2022-01-19 | 2023-07-29 |
 | [Alpha 10 Hz](https://open.spotify.com/track/7qULBKJPUl7W5yZ0rNFV34) | [Mindful Behaviour](https://open.spotify.com/artist/5n24AejjkQFiXAnmqRhTpl) | [Alpha Brainwaves For Focus And Stress Reduction](https://open.spotify.com/album/77mSz4EuypK36VUyyA0wfm) | 3:27 | 2022-04-13 | 2022-04-17 |
+| [Annalkande](https://open.spotify.com/track/04tTNqaqZ9hmF8fVm2MgxQ) | [Morgondimma](https://open.spotify.com/artist/0mQskyOm143f9LT371ux2U) | [Annalkande](https://open.spotify.com/album/2rbOag8Yg0cQ58nmdVcubY) | 2:22 | 2023-12-01 |  |
 | [Another Galaxy](https://open.spotify.com/track/09a8Ur35uRNugKT4X2Ia0W) | [Astro.Not](https://open.spotify.com/artist/2iEiuAf6GeqHMGADH76YPS) | [Another Galaxy](https://open.spotify.com/album/38rOjQqBRymKUdYcBJsBzl) | 2:26 | 2022-08-15 |  |
 | [Apesanteur](https://open.spotify.com/track/3lIe2hHmBqG3qcvD9rcZ4F) | [Elodie Acy](https://open.spotify.com/artist/2uIT3eIsFOjiwUoDJvNzbD) | [Apesanteur](https://open.spotify.com/album/4CEpijln4tZLMM8yf4jK39) | 2:38 | 2022-01-12 |  |
 | [Aphelion](https://open.spotify.com/track/0rczzvfB6QouQM8h6LCdI5) | [Golden Slumber](https://open.spotify.com/artist/1x02xJIKGceDvDd4yugtQj) | [Aphelion](https://open.spotify.com/album/15riorqGikS5bvTNsvYWIW) | 3:20 | 2022-01-12 |  |
@@ -105,7 +106,7 @@
 | [Everything Shall Pass](https://open.spotify.com/track/1MZD1xymIhOOcS6GyPkfz4) | [Abe Hathot](https://open.spotify.com/artist/40tqIiKClGVYgzgxL4YoQw) | [Everything Shall Pass](https://open.spotify.com/album/0wjXJtRyhXb7ZM5TNqgjJ3) | 3:28 | 2022-01-12 | 2023-03-15 |
 | [Evolving](https://open.spotify.com/track/3unVls9LCPxpXOOKcVzGBA) | [Astral Wonder](https://open.spotify.com/artist/24JkKS4b8yp9usUXPL0I3G) | [Evolving](https://open.spotify.com/album/0owGtGnRMtKo3SbbQoungc) | 3:14 | 2022-12-09 |  |
 | [Evolving Dreams](https://open.spotify.com/track/6S7jmC7dXIyguhgUWsQBzI) | [Life Flows](https://open.spotify.com/artist/5YqVHlI6MomKuf0q8XUnhE) | [Deep Sleep](https://open.spotify.com/album/7Df9gsUsfzFNqTxwEpTUhg) | 3:36 | 2022-01-12 | 2023-07-29 |
-| [Falleg](https://open.spotify.com/track/7Bbe8uzyDk0116JNAQchFN) | [Arnkatla](https://open.spotify.com/artist/66neAkEGsYZ4onMSMHMSbC) | [Falleg](https://open.spotify.com/album/3JJ73fI9i4yPREvaTcvPiv) | 2:15 | 2023-07-28 |  |
+| [Falleg](https://open.spotify.com/track/7Bbe8uzyDk0116JNAQchFN) | [Arnkatla](https://open.spotify.com/artist/66neAkEGsYZ4onMSMHMSbC) | [Falleg](https://open.spotify.com/album/3JJ73fI9i4yPREvaTcvPiv) | 2:15 | 2023-07-28 | 2023-12-03 |
 | [Fantastical](https://open.spotify.com/track/1QX9Fz6OXoTjHxs3hkwNkw) | [Rainbow Rise](https://open.spotify.com/artist/7nqV0p65fl1bNXeSuTQxOd) | [Majestic](https://open.spotify.com/album/624aXTR4dUoP9dVfUAoryG) | 4:05 | 2022-01-12 |  |
 | [Faust](https://open.spotify.com/track/6hGXKSiC1vB11654kyEI5Z) | [Smith/Hill](https://open.spotify.com/artist/7HBGJDqgtjAhCnoFpZzFDS) | [Faust](https://open.spotify.com/album/4oxmPdY5YNv6BBIlsYZ4vo) | 2:18 | 2022-04-13 | 2023-07-13 |
 | [Fèath](https://open.spotify.com/track/52dScVRoybs6acPSkmK6jc) | [Andy Kamman](https://open.spotify.com/artist/2bI9xKlbtS0cPS3rQ8x87y) | [Fèath](https://open.spotify.com/album/1uPNzg4SM9YYcclHGewiyC) | 3:26 | 2022-01-12 | 2022-02-02 |

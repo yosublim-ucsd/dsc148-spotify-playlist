@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaK0O81Xtkis.md) - [plain]
 
 > make it pop! cover: Knox
 
-[Spotify](https://open.spotify.com/user/spotify) - 211,508 likes - 74 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 211,532 likes - 74 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaK0O81Xtkis.md) - [plain]
 | 73 | [Designer](https://open.spotify.com/track/41aABK6UlttIeeGplvwW5t) | [Balu Brigada](https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2) | [Designer](https://open.spotify.com/album/1yqFXiexBb1qKUsmI8X64l) | 3:10 |
 | 74 | [One That Got Away](https://open.spotify.com/track/55RszydvrfNlZ2BQdF1c4q) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [One That Got Away](https://open.spotify.com/album/2FAHnRUhqr0Scl92hrAond) | 3:52 |
 
-Snapshot ID: `MCxiMDg3OGM3NTA0NmMxZjhkNGQ5MDYzMzQwNDdmZGJhN2RhZWFhOGU0`
+Snapshot ID: `MCwxM2M5YTIwZDU3MDZjYjJiMDljYTA2YTZhZWU1NWU3YjYxY2QyYTAz`

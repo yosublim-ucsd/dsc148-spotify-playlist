@@ -1,12 +1,12 @@
 {
   "description": "Una mezcla sabrosa, picosita y refrescante.",
-  "num_followers": 324682,
+  "num_followers": 324891,
   "original_name": "Las Micheladas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ODhhMmNiNmU2YjgwZmYzM2Y1YWQ5ZDI3ZTgwZmQ2NDVlZTgyMzQ5",
+  "snapshot_id": "MCxiMGUxNDlmNzllYjJmMDZhNGY2ZTcwMTI1M2M0MjMwMjk1OTQyYzhk",
   "tracks": [
     {
       "added_at": "2023-11-10 06:00:00",
@@ -267,26 +267,6 @@
     {
       "added_at": "2023-11-10 06:00:00",
       "album": {
-        "name": "un x100to",
-        "url": "https://open.spotify.com/album/7aGzSSUD8S6IhPCsZSiuMT"
-      },
-      "artists": [
-        {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
-        },
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 194563,
-      "name": "un x100to",
-      "url": "https://open.spotify.com/track/6pD0ufEQq0xdHSsRbg9LBK"
-    },
-    {
-      "added_at": "2023-11-10 06:00:00",
-      "album": {
         "name": "OzuTochi",
         "url": "https://open.spotify.com/album/1kjfMVBNhsDeRyAu9zbLfF"
       },
@@ -303,6 +283,26 @@
       "duration_ms": 196600,
       "name": "Hey Mor",
       "url": "https://open.spotify.com/track/1zsPaEkglFvxjAhrM8yhpr"
+    },
+    {
+      "added_at": "2023-11-10 06:00:00",
+      "album": {
+        "name": "un x100to",
+        "url": "https://open.spotify.com/album/7aGzSSUD8S6IhPCsZSiuMT"
+      },
+      "artists": [
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 194563,
+      "name": "un x100to",
+      "url": "https://open.spotify.com/track/6pD0ufEQq0xdHSsRbg9LBK"
     },
     {
       "added_at": "2023-11-10 06:00:00",
@@ -435,26 +435,6 @@
     {
       "added_at": "2023-11-10 06:00:00",
       "album": {
-        "name": "Abcdario",
-        "url": "https://open.spotify.com/album/7BgImTrFzm2nQQW59IeFGD"
-      },
-      "artists": [
-        {
-          "name": "Eden Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
-        },
-        {
-          "name": "Junior H",
-          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
-        }
-      ],
-      "duration_ms": 220650,
-      "name": "Abcdario",
-      "url": "https://open.spotify.com/track/0qCPD6ilr9nXkI4KVZgcns"
-    },
-    {
-      "added_at": "2023-11-10 06:00:00",
-      "album": {
         "name": "Resistencia",
         "url": "https://open.spotify.com/album/5xefnzEqKIWnmTWYFzekGZ"
       },
@@ -471,6 +451,26 @@
       "duration_ms": 216148,
       "name": "Yandel 150",
       "url": "https://open.spotify.com/track/4FAKtPVycI4DxoOHC01YqD"
+    },
+    {
+      "added_at": "2023-11-10 06:00:00",
+      "album": {
+        "name": "Abcdario",
+        "url": "https://open.spotify.com/album/7BgImTrFzm2nQQW59IeFGD"
+      },
+      "artists": [
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        },
+        {
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+        }
+      ],
+      "duration_ms": 220650,
+      "name": "Abcdario",
+      "url": "https://open.spotify.com/track/0qCPD6ilr9nXkI4KVZgcns"
     },
     {
       "added_at": "2023-11-10 06:00:00",
@@ -607,22 +607,6 @@
     {
       "added_at": "2023-11-10 06:00:00",
       "album": {
-        "name": "As\u00ed Es Esto",
-        "url": "https://open.spotify.com/album/5t3QwyKSV5oww8T0eB26mB"
-      },
-      "artists": [
-        {
-          "name": "Alfredo Olivas",
-          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
-        }
-      ],
-      "duration_ms": 186360,
-      "name": "El Precio De La Soledad",
-      "url": "https://open.spotify.com/track/179TZwPk0txEvjkraVTVKo"
-    },
-    {
-      "added_at": "2023-11-10 06:00:00",
-      "album": {
         "name": "El Hijo Mayor",
         "url": "https://open.spotify.com/album/5uNnU1f0N66Xkll4wRnjXL"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 196500,
       "name": "El Hijo Mayor",
       "url": "https://open.spotify.com/track/1RGlfmdvcfatN0ZLOmzanS"
+    },
+    {
+      "added_at": "2023-11-10 06:00:00",
+      "album": {
+        "name": "As\u00ed Es Esto",
+        "url": "https://open.spotify.com/album/5t3QwyKSV5oww8T0eB26mB"
+      },
+      "artists": [
+        {
+          "name": "Alfredo Olivas",
+          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
+        }
+      ],
+      "duration_ms": 186360,
+      "name": "El Precio De La Soledad",
+      "url": "https://open.spotify.com/track/179TZwPk0txEvjkraVTVKo"
     },
     {
       "added_at": "2023-11-10 06:00:00",
@@ -659,22 +659,6 @@
     {
       "added_at": "2023-11-10 06:00:00",
       "album": {
-        "name": "El Toro Encartado - Spotify Singles",
-        "url": "https://open.spotify.com/album/1UVIxjnGk4B4HnsTQsXLWh"
-      },
-      "artists": [
-        {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
-        }
-      ],
-      "duration_ms": 164245,
-      "name": "El Toro Encartado - Spotify Singles",
-      "url": "https://open.spotify.com/track/2cpAMkytkJoaaLYO6pXBey"
-    },
-    {
-      "added_at": "2023-11-10 06:00:00",
-      "album": {
         "name": "Jordan",
         "url": "https://open.spotify.com/album/5NXNrP5J2LhfkbI9ZfcNXI"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 176142,
       "name": "Jordan",
       "url": "https://open.spotify.com/track/6y8z28epOv5FlaxDv1Lo5B"
+    },
+    {
+      "added_at": "2023-11-10 06:00:00",
+      "album": {
+        "name": "El Toro Encartado - Spotify Singles",
+        "url": "https://open.spotify.com/album/1UVIxjnGk4B4HnsTQsXLWh"
+      },
+      "artists": [
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        }
+      ],
+      "duration_ms": 164245,
+      "name": "El Toro Encartado - Spotify Singles",
+      "url": "https://open.spotify.com/track/2cpAMkytkJoaaLYO6pXBey"
     },
     {
       "added_at": "2023-11-10 06:00:00",
@@ -707,6 +707,22 @@
       "duration_ms": 173617,
       "name": "LA CHAMBA",
       "url": "https://open.spotify.com/track/1gjAVqB8sPT5i96wXUWcJR"
+    },
+    {
+      "added_at": "2023-11-10 06:00:00",
+      "album": {
+        "name": "ALFA & OMEGA",
+        "url": "https://open.spotify.com/album/63HJKqg9tMk2eJyQezaTes"
+      },
+      "artists": [
+        {
+          "name": "Alfredo Olivas",
+          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
+        }
+      ],
+      "duration_ms": 202453,
+      "name": "Yo Todo Lo Doy",
+      "url": "https://open.spotify.com/track/2fQrrBtuNVMWOHqLyk4EfO"
     },
     {
       "added_at": "2023-11-10 06:00:00",
@@ -759,46 +775,6 @@
       "duration_ms": 153750,
       "name": "Una Noche en Medell\u00edn",
       "url": "https://open.spotify.com/track/0lREs0EdgrMQQKw00yx0Ct"
-    },
-    {
-      "added_at": "2023-11-10 06:00:00",
-      "album": {
-        "name": "ALFA & OMEGA",
-        "url": "https://open.spotify.com/album/63HJKqg9tMk2eJyQezaTes"
-      },
-      "artists": [
-        {
-          "name": "Alfredo Olivas",
-          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
-        }
-      ],
-      "duration_ms": 202453,
-      "name": "Yo Todo Lo Doy",
-      "url": "https://open.spotify.com/track/2fQrrBtuNVMWOHqLyk4EfO"
-    },
-    {
-      "added_at": "2023-11-10 06:00:00",
-      "album": {
-        "name": "AMG",
-        "url": "https://open.spotify.com/album/0s2sLResjP92wRavoj9k0O"
-      },
-      "artists": [
-        {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
-        },
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        },
-        {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
-        }
-      ],
-      "duration_ms": 174942,
-      "name": "AMG",
-      "url": "https://open.spotify.com/track/1lRtH4FszTrwwlK5gTSbXO"
     },
     {
       "added_at": "2023-11-10 06:00:00",
@@ -859,6 +835,30 @@
     {
       "added_at": "2023-11-10 06:00:00",
       "album": {
+        "name": "AMG",
+        "url": "https://open.spotify.com/album/0s2sLResjP92wRavoj9k0O"
+      },
+      "artists": [
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        },
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        },
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        }
+      ],
+      "duration_ms": 174942,
+      "name": "AMG",
+      "url": "https://open.spotify.com/track/1lRtH4FszTrwwlK5gTSbXO"
+    },
+    {
+      "added_at": "2023-11-10 06:00:00",
+      "album": {
         "name": "Ya No Somos Ni Seremos",
         "url": "https://open.spotify.com/album/6uU8vskychc3SuYYI9Hjbo"
       },
@@ -871,6 +871,22 @@
       "duration_ms": 185722,
       "name": "Ya No Somos Ni Seremos",
       "url": "https://open.spotify.com/track/0UXlu64mDLvfzR8IXMz06J"
+    },
+    {
+      "added_at": "2023-11-10 06:00:00",
+      "album": {
+        "name": "El D\u00eda De Los Muertos",
+        "url": "https://open.spotify.com/album/7pxn1oyPyy1nOFQQhoHJKX"
+      },
+      "artists": [
+        {
+          "name": "Alfredo Olivas",
+          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
+        }
+      ],
+      "duration_ms": 209266,
+      "name": "El Vals Del Olvido",
+      "url": "https://open.spotify.com/track/71V6u8mPSydvEokO7XYqG6"
     },
     {
       "added_at": "2023-11-10 06:00:00",
@@ -891,22 +907,6 @@
       "duration_ms": 209453,
       "name": "Otra vez (feat. J Balvin)",
       "url": "https://open.spotify.com/track/3QwBODjSEzelZyVjxPOHdq"
-    },
-    {
-      "added_at": "2023-11-10 06:00:00",
-      "album": {
-        "name": "El D\u00eda De Los Muertos",
-        "url": "https://open.spotify.com/album/7pxn1oyPyy1nOFQQhoHJKX"
-      },
-      "artists": [
-        {
-          "name": "Alfredo Olivas",
-          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
-        }
-      ],
-      "duration_ms": 209266,
-      "name": "El Vals Del Olvido",
-      "url": "https://open.spotify.com/track/71V6u8mPSydvEokO7XYqG6"
     },
     {
       "added_at": "2023-11-10 06:00:00",
@@ -1331,18 +1331,26 @@
     {
       "added_at": "2023-11-10 06:00:00",
       "album": {
-        "name": "Simbolo Sexual",
-        "url": "https://open.spotify.com/album/2WJhXkMXbuXnwkWVb2u0PJ"
+        "name": "MARTILLAZO",
+        "url": "https://open.spotify.com/album/1FX1f4X5yS0wlnItHjvhvo"
       },
       "artists": [
         {
-          "name": "Panter B\u00e9lico",
-          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
+          "name": "Dani Flow",
+          "url": "https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ"
+        },
+        {
+          "name": "El Bogueto",
+          "url": "https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP"
+        },
+        {
+          "name": "Uzielito Mix",
+          "url": "https://open.spotify.com/artist/7wgrXbrp9RJQMri26GZgyH"
         }
       ],
-      "duration_ms": 180208,
-      "name": "S\u00edmbolo Sexual",
-      "url": "https://open.spotify.com/track/7nDgUvJLsinxKYyQhv3tAK"
+      "duration_ms": 158333,
+      "name": "MARTILLAZO",
+      "url": "https://open.spotify.com/track/283ngLR3LX6cdq9unM7MJ0"
     },
     {
       "added_at": "2023-11-10 06:00:00",
@@ -1399,6 +1407,22 @@
     {
       "added_at": "2023-11-10 06:00:00",
       "album": {
+        "name": "Simbolo Sexual",
+        "url": "https://open.spotify.com/album/2WJhXkMXbuXnwkWVb2u0PJ"
+      },
+      "artists": [
+        {
+          "name": "Panter B\u00e9lico",
+          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
+        }
+      ],
+      "duration_ms": 180208,
+      "name": "S\u00edmbolo Sexual",
+      "url": "https://open.spotify.com/track/7nDgUvJLsinxKYyQhv3tAK"
+    },
+    {
+      "added_at": "2023-11-10 06:00:00",
+      "album": {
         "name": "Guatauba XXX",
         "url": "https://open.spotify.com/album/2VcnobeKvV4FPuENazZozO"
       },
@@ -1411,66 +1435,6 @@
       "duration_ms": 162400,
       "name": "Guatauba",
       "url": "https://open.spotify.com/track/0xJFWROBNTBL4sKEuA5pm6"
-    },
-    {
-      "added_at": "2023-11-10 06:00:00",
-      "album": {
-        "name": "DLUX",
-        "url": "https://open.spotify.com/album/5pAgLx8XeBoItzjT81csbJ"
-      },
-      "artists": [
-        {
-          "name": "DannyLux",
-          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
-        }
-      ],
-      "duration_ms": 140735,
-      "name": "HOUSE OF LUX",
-      "url": "https://open.spotify.com/track/3CU1qWV0h0PvWXQg71YUoo"
-    },
-    {
-      "added_at": "2023-11-10 06:00:00",
-      "album": {
-        "name": "MARTILLAZO",
-        "url": "https://open.spotify.com/album/1FX1f4X5yS0wlnItHjvhvo"
-      },
-      "artists": [
-        {
-          "name": "Dani Flow",
-          "url": "https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ"
-        },
-        {
-          "name": "El Bogueto",
-          "url": "https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP"
-        },
-        {
-          "name": "Uzielito Mix",
-          "url": "https://open.spotify.com/artist/7wgrXbrp9RJQMri26GZgyH"
-        }
-      ],
-      "duration_ms": 158333,
-      "name": "MARTILLAZO",
-      "url": "https://open.spotify.com/track/283ngLR3LX6cdq9unM7MJ0"
-    },
-    {
-      "added_at": "2023-11-10 06:00:00",
-      "album": {
-        "name": "En Tu Perra Vida",
-        "url": "https://open.spotify.com/album/754Bhr4Ck2WcFAvHWlykmp"
-      },
-      "artists": [
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        },
-        {
-          "name": "Lenin Ram\u00edrez",
-          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
-        }
-      ],
-      "duration_ms": 238677,
-      "name": "En Tu Perra Vida",
-      "url": "https://open.spotify.com/track/0ldT3gl7aGNzrJyd4b1CA4"
     },
     {
       "added_at": "2023-11-10 06:00:00",
@@ -1507,6 +1471,42 @@
     {
       "added_at": "2023-11-10 06:00:00",
       "album": {
+        "name": "En Tu Perra Vida",
+        "url": "https://open.spotify.com/album/754Bhr4Ck2WcFAvHWlykmp"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        },
+        {
+          "name": "Lenin Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+        }
+      ],
+      "duration_ms": 238677,
+      "name": "En Tu Perra Vida",
+      "url": "https://open.spotify.com/track/0ldT3gl7aGNzrJyd4b1CA4"
+    },
+    {
+      "added_at": "2023-11-10 06:00:00",
+      "album": {
+        "name": "DLUX",
+        "url": "https://open.spotify.com/album/5pAgLx8XeBoItzjT81csbJ"
+      },
+      "artists": [
+        {
+          "name": "DannyLux",
+          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
+        }
+      ],
+      "duration_ms": 140735,
+      "name": "HOUSE OF LUX",
+      "url": "https://open.spotify.com/track/3CU1qWV0h0PvWXQg71YUoo"
+    },
+    {
+      "added_at": "2023-11-10 06:00:00",
+      "album": {
         "name": "Como Lo Hice Yo",
         "url": "https://open.spotify.com/album/1MuEscvBJb4mFRS2wdffug"
       },
@@ -1523,22 +1523,6 @@
       "duration_ms": 177062,
       "name": "Como Lo Hice Yo",
       "url": "https://open.spotify.com/track/64JzNzcoSZOh3RWeoghVfk"
-    },
-    {
-      "added_at": "2023-11-10 06:00:00",
-      "album": {
-        "name": "Love And Sex",
-        "url": "https://open.spotify.com/album/2nyw6aQu85kFb3mYb4vWwE"
-      },
-      "artists": [
-        {
-          "name": "Plan B",
-          "url": "https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP"
-        }
-      ],
-      "duration_ms": 207626,
-      "name": "Candy",
-      "url": "https://open.spotify.com/track/2ctjDCCg1wHoQSjIJ8p6U4"
     },
     {
       "added_at": "2023-11-10 06:00:00",
@@ -1619,22 +1603,6 @@
     {
       "added_at": "2023-11-10 06:00:00",
       "album": {
-        "name": "En Vivo desde El Foro Lizos Music",
-        "url": "https://open.spotify.com/album/6Am6MERXwzXEATDw7cdnag"
-      },
-      "artists": [
-        {
-          "name": "Los 2 de la S",
-          "url": "https://open.spotify.com/artist/4UqfXEVibVEPfoopm7Pduc"
-        }
-      ],
-      "duration_ms": 152186,
-      "name": "Es Que Me Gustas - En Vivo",
-      "url": "https://open.spotify.com/track/6nyl8kugrRsjzvpFhvw4hE"
-    },
-    {
-      "added_at": "2023-11-10 06:00:00",
-      "album": {
         "name": "Timeless",
         "url": "https://open.spotify.com/album/2SMYRfGiwQyBgvkpCA2mJU"
       },
@@ -1647,6 +1615,38 @@
       "duration_ms": 269591,
       "name": "La Pregunta",
       "url": "https://open.spotify.com/track/2Ob4mHihtOGbx6jnCredFX"
+    },
+    {
+      "added_at": "2023-11-10 06:00:00",
+      "album": {
+        "name": "Love And Sex",
+        "url": "https://open.spotify.com/album/2nyw6aQu85kFb3mYb4vWwE"
+      },
+      "artists": [
+        {
+          "name": "Plan B",
+          "url": "https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP"
+        }
+      ],
+      "duration_ms": 207626,
+      "name": "Candy",
+      "url": "https://open.spotify.com/track/2ctjDCCg1wHoQSjIJ8p6U4"
+    },
+    {
+      "added_at": "2023-11-10 06:00:00",
+      "album": {
+        "name": "En Vivo desde El Foro Lizos Music",
+        "url": "https://open.spotify.com/album/6Am6MERXwzXEATDw7cdnag"
+      },
+      "artists": [
+        {
+          "name": "Los 2 de la S",
+          "url": "https://open.spotify.com/artist/4UqfXEVibVEPfoopm7Pduc"
+        }
+      ],
+      "duration_ms": 152186,
+      "name": "Es Que Me Gustas - En Vivo",
+      "url": "https://open.spotify.com/track/6nyl8kugrRsjzvpFhvw4hE"
     },
     {
       "added_at": "2023-11-10 06:00:00",
@@ -1799,6 +1799,22 @@
     {
       "added_at": "2023-11-10 06:00:00",
       "album": {
+        "name": "Reggaeton Hall of Fame, Vol. 1",
+        "url": "https://open.spotify.com/album/7z9bNKljyF4BCVf6srNhN0"
+      },
+      "artists": [
+        {
+          "name": "Trebol Clan",
+          "url": "https://open.spotify.com/artist/3YXpTiyVmYCfANOlnWv6vr"
+        }
+      ],
+      "duration_ms": 157701,
+      "name": "Agarrala",
+      "url": "https://open.spotify.com/track/50K0GKbudptd9wZwQlQWdj"
+    },
+    {
+      "added_at": "2023-11-10 06:00:00",
+      "album": {
         "name": "Gatita",
         "url": "https://open.spotify.com/album/6264ANGNsltdE7SYjKMTKs"
       },
@@ -1839,46 +1855,6 @@
     {
       "added_at": "2023-11-10 06:00:00",
       "album": {
-        "name": "Reggaeton Hall of Fame, Vol. 1",
-        "url": "https://open.spotify.com/album/7z9bNKljyF4BCVf6srNhN0"
-      },
-      "artists": [
-        {
-          "name": "Trebol Clan",
-          "url": "https://open.spotify.com/artist/3YXpTiyVmYCfANOlnWv6vr"
-        }
-      ],
-      "duration_ms": 157701,
-      "name": "Agarrala",
-      "url": "https://open.spotify.com/track/50K0GKbudptd9wZwQlQWdj"
-    },
-    {
-      "added_at": "2023-11-10 06:00:00",
-      "album": {
-        "name": "Baila Conmigo (feat. Kelly Ruiz)",
-        "url": "https://open.spotify.com/album/68hy2xnNgeo0dO0YOm4Th7"
-      },
-      "artists": [
-        {
-          "name": "Dayvi",
-          "url": "https://open.spotify.com/artist/2TWBei99x2tV70bdYbWdAf"
-        },
-        {
-          "name": "Victor Cardenas",
-          "url": "https://open.spotify.com/artist/00CMSJdbf36zOzKB3z8JrR"
-        },
-        {
-          "name": "Kelly Ru\u00edz",
-          "url": "https://open.spotify.com/artist/0cCNT5RyWndpS7Zx7ISEDw"
-        }
-      ],
-      "duration_ms": 189817,
-      "name": "Baila Conmigo (feat. Kelly Ruiz)",
-      "url": "https://open.spotify.com/track/4Clmg1g8n2yBYG13Z1oSdG"
-    },
-    {
-      "added_at": "2023-11-10 06:00:00",
-      "album": {
         "name": "Con To (feat. Flow Nasty)",
         "url": "https://open.spotify.com/album/2PJRh0xPNmeEZVGNhwHGGf"
       },
@@ -1903,6 +1879,30 @@
       "duration_ms": 132539,
       "name": "Con To (feat. Flow Nasty)",
       "url": "https://open.spotify.com/track/1QFJzim9HBPFW9E1B1333Q"
+    },
+    {
+      "added_at": "2023-11-10 06:00:00",
+      "album": {
+        "name": "Baila Conmigo (feat. Kelly Ruiz)",
+        "url": "https://open.spotify.com/album/68hy2xnNgeo0dO0YOm4Th7"
+      },
+      "artists": [
+        {
+          "name": "Dayvi",
+          "url": "https://open.spotify.com/artist/2TWBei99x2tV70bdYbWdAf"
+        },
+        {
+          "name": "Victor Cardenas",
+          "url": "https://open.spotify.com/artist/00CMSJdbf36zOzKB3z8JrR"
+        },
+        {
+          "name": "Kelly Ru\u00edz",
+          "url": "https://open.spotify.com/artist/0cCNT5RyWndpS7Zx7ISEDw"
+        }
+      ],
+      "duration_ms": 189817,
+      "name": "Baila Conmigo (feat. Kelly Ruiz)",
+      "url": "https://open.spotify.com/track/4Clmg1g8n2yBYG13Z1oSdG"
     },
     {
       "added_at": "2023-11-10 06:00:00",
@@ -1939,22 +1939,6 @@
     {
       "added_at": "2023-11-10 06:00:00",
       "album": {
-        "name": "Acarey Ya Lleg\u00f3",
-        "url": "https://open.spotify.com/album/74i0QoJc9w1PmewVlDlnj3"
-      },
-      "artists": [
-        {
-          "name": "Septeto Acarey",
-          "url": "https://open.spotify.com/artist/5Vz74ibGHBQaUa2ALDOH0v"
-        }
-      ],
-      "duration_ms": 300773,
-      "name": "Eres Mi Sue\u00f1o",
-      "url": "https://open.spotify.com/track/5ZA9ItQp7DyG6pPkSsq3Bn"
-    },
-    {
-      "added_at": "2023-11-10 06:00:00",
-      "album": {
         "name": "Y Si Se Quiere Ir",
         "url": "https://open.spotify.com/album/1TGGJG87FFJsLFkILRN1Dc"
       },
@@ -1967,6 +1951,22 @@
       "duration_ms": 187280,
       "name": "Y Si Se Quiere Ir",
       "url": "https://open.spotify.com/track/6b68vfUlXy2i2dO79z3h5W"
+    },
+    {
+      "added_at": "2023-11-10 06:00:00",
+      "album": {
+        "name": "Acarey Ya Lleg\u00f3",
+        "url": "https://open.spotify.com/album/74i0QoJc9w1PmewVlDlnj3"
+      },
+      "artists": [
+        {
+          "name": "Septeto Acarey",
+          "url": "https://open.spotify.com/artist/5Vz74ibGHBQaUa2ALDOH0v"
+        }
+      ],
+      "duration_ms": 300773,
+      "name": "Eres Mi Sue\u00f1o",
+      "url": "https://open.spotify.com/track/5ZA9ItQp7DyG6pPkSsq3Bn"
     },
     {
       "added_at": "2023-11-10 06:00:00",
@@ -2099,6 +2099,22 @@
     {
       "added_at": "2023-11-10 06:00:00",
       "album": {
+        "name": "Amanec\u00ed Contigo Y Sin Tab\u00fa",
+        "url": "https://open.spotify.com/album/40PyxT3MBm2aGxKLKKBfBB"
+      },
+      "artists": [
+        {
+          "name": "Hildemaro",
+          "url": "https://open.spotify.com/artist/2jc6xa4fD1dcYzuzGadGic"
+        }
+      ],
+      "duration_ms": 242648,
+      "name": "Desde El Fondo De Mi Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/3rQndjZ676PPjV9QvL42te"
+    },
+    {
+      "added_at": "2023-11-10 06:00:00",
+      "album": {
         "name": "Yo Las Pongo",
         "url": "https://open.spotify.com/album/0unP8lNuU71xBHNlzwo8HF"
       },
@@ -2119,22 +2135,6 @@
       "duration_ms": 191353,
       "name": "Yo Las Pongo",
       "url": "https://open.spotify.com/track/5LPD5HDYyxKdGHvHQ1kef9"
-    },
-    {
-      "added_at": "2023-11-10 06:00:00",
-      "album": {
-        "name": "Amanec\u00ed Contigo Y Sin Tab\u00fa",
-        "url": "https://open.spotify.com/album/40PyxT3MBm2aGxKLKKBfBB"
-      },
-      "artists": [
-        {
-          "name": "Hildemaro",
-          "url": "https://open.spotify.com/artist/2jc6xa4fD1dcYzuzGadGic"
-        }
-      ],
-      "duration_ms": 242648,
-      "name": "Desde El Fondo De Mi Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/3rQndjZ676PPjV9QvL42te"
     },
     {
       "added_at": "2023-11-10 06:00:00",
@@ -2363,22 +2363,6 @@
     {
       "added_at": "2023-11-10 06:00:00",
       "album": {
-        "name": "Independiente",
-        "url": "https://open.spotify.com/album/7yJumcHNQSYq7KE4bAsFr8"
-      },
-      "artists": [
-        {
-          "name": "Nfasis",
-          "url": "https://open.spotify.com/artist/5ypEYwWaSgtjBPCPcredFM"
-        }
-      ],
-      "duration_ms": 105312,
-      "name": "Independiente",
-      "url": "https://open.spotify.com/track/2dxdN5XWeLM1BgbocLLGgw"
-    },
-    {
-      "added_at": "2023-11-10 06:00:00",
-      "album": {
         "name": "Sax To Me",
         "url": "https://open.spotify.com/album/3hDSkYuQHsIUc5sQYY7Laq"
       },
@@ -2395,6 +2379,22 @@
       "duration_ms": 364971,
       "name": "Sax To Me",
       "url": "https://open.spotify.com/track/01HkaXEkNgxty2lewZ0jqk"
+    },
+    {
+      "added_at": "2023-11-10 06:00:00",
+      "album": {
+        "name": "Independiente",
+        "url": "https://open.spotify.com/album/7yJumcHNQSYq7KE4bAsFr8"
+      },
+      "artists": [
+        {
+          "name": "Nfasis",
+          "url": "https://open.spotify.com/artist/5ypEYwWaSgtjBPCPcredFM"
+        }
+      ],
+      "duration_ms": 105312,
+      "name": "Independiente",
+      "url": "https://open.spotify.com/track/2dxdN5XWeLM1BgbocLLGgw"
     }
   ],
   "unique_name": "Las Micheladas",

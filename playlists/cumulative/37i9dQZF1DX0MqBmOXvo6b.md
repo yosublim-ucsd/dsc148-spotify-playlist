@@ -4,7 +4,7 @@
 
 > Concéntrate al máximo, sin distracciones.
 
-596 songs - 1 day 1 hr 20 min
+597 songs - 1 day 1 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,7 +41,7 @@
 | [An Ocean Of Memories](https://open.spotify.com/track/1AlgXoj042cGzdQ2SybcSk) | [Maddison Howells](https://open.spotify.com/artist/2IC6rSlT5Gmdqf3yiMIzzl) | [An Ocean Of Memories](https://open.spotify.com/album/0d07WU02I7aOlBnviJkeFe) | 2:53 | 2022-06-07 | 2022-11-17 |
 | [Anemones](https://open.spotify.com/track/70ehsbwZet95hweCr8tSNi) | [David Sato](https://open.spotify.com/artist/0Xp27nG9qE8eLiqvx1UUj5) | [Anemones](https://open.spotify.com/album/0Xclqh5l3EVDBtugh8ze5D) | 4:00 | 2022-06-07 |  |
 | [Anoesis](https://open.spotify.com/track/7wDdRiqwaF3CqDIOmO0nhQ) | [Little Marions](https://open.spotify.com/artist/74F0qlRdpVmcJWhCqUN8cy) | [Anoesis](https://open.spotify.com/album/1ohZ2YMU7a0qrDtTWrRKLj) | 2:11 | 2022-06-07 | 2022-07-20 |
-| [Antique Clock](https://open.spotify.com/track/0LenKLAcx2fIHmPGBbLWpn) | [Vox Pacis](https://open.spotify.com/artist/5gu1Bq9TsFRfNLweos0T1Z) | [Antique Clock](https://open.spotify.com/album/1Pbl3p0NMDIm4LQXISV7WB) | 2:20 | 2023-11-28 |  |
+| [Antique Clock](https://open.spotify.com/track/0LenKLAcx2fIHmPGBbLWpn) | [Vox Pacis](https://open.spotify.com/artist/5gu1Bq9TsFRfNLweos0T1Z) | [Antique Clock](https://open.spotify.com/album/1Pbl3p0NMDIm4LQXISV7WB) | 2:20 | 2023-11-28 | 2023-12-03 |
 | [Anwyll](https://open.spotify.com/track/3b2dTXXFKvij1wUU5JQJqb) | [Doris Casella](https://open.spotify.com/artist/7B0BAZDsfvl8duBfVjlSyJ) | [Anwyll](https://open.spotify.com/album/5tNbFT3QknGiXWZA528HpI) | 2:28 | 2022-06-07 | 2022-09-15 |
 | [Apart](https://open.spotify.com/track/6f0drxUwd9EIdAvuTmIKYY) | [Lucas Forch](https://open.spotify.com/artist/13gyOR6KA3pA8MIuWW2Pcm) | [Beginnings](https://open.spotify.com/album/5MqvffTG1ZlTMBUlZ9ZoVD) | 3:15 | 2022-07-19 | 2022-09-15 |
 | [Apart](https://open.spotify.com/track/6lnhnrHB83cj7EO38t4vgP) | [Lucas Forch](https://open.spotify.com/artist/13gyOR6KA3pA8MIuWW2Pcm) | [Apart](https://open.spotify.com/album/171iVmp0gn0SVHV5DGBQAt) | 3:15 | 2022-06-07 | 2022-07-29 |
@@ -235,6 +235,7 @@
 | [kawaguchiko](https://open.spotify.com/track/3lGHx6NLMzkhwcCmO7gwBY) | [Valla](https://open.spotify.com/artist/1nrQ489GYy77LqrmBOmtfh) | [Wünderdoll](https://open.spotify.com/album/3VC8wOGv0ifbJyP5mEirn9) | 2:02 | 2023-03-14 | 2023-10-18 |
 | [Kay's Recovery](https://open.spotify.com/track/6heseVBVY5E1zh6z4FyMDA) | [Joaquin Conor](https://open.spotify.com/artist/09O6u1o77QVzr1RI6zyZv7) | [Kay's Recovery](https://open.spotify.com/album/2Ugt7X6hGDE0C722Tpgot4) | 1:54 | 2023-05-19 | 2023-07-25 |
 | [Keep You Safe](https://open.spotify.com/track/6XwdGPFuIObAvlrgwTuFOC) | [Morunas](https://open.spotify.com/artist/36RxHbl3Duv6WNJjOGPhV4) | [Keep You Safe](https://open.spotify.com/album/7llQfYCqtcg0uXYQu2ZQOx) | 2:04 | 2022-06-07 |  |
+| [Keepsake](https://open.spotify.com/track/3OacSixqamhyHu3M2fRqxU) | [Pamela Goldings](https://open.spotify.com/artist/0zz0ZeRODmieOdGKeznHQA) | [Keepsake](https://open.spotify.com/album/6g1Mpl8jLuLTcR8mO2Qpon) | 2:32 | 2023-11-28 |  |
 | [Kiriume](https://open.spotify.com/track/6VaWHjTTcKiPjWEkejHkMR) | [Arden Forest](https://open.spotify.com/artist/3LUa5res2UmvZ04kvlPMc7) | [Kiriume](https://open.spotify.com/album/63qOqv2FOkfpIUs2SKEuH6) | 2:24 | 2022-06-07 | 2023-06-22 |
 | [Knots](https://open.spotify.com/track/6OPZgEbGHJufMo64TipZF8) | [Norse Mythology](https://open.spotify.com/artist/05IxAmFj1DzEpTmjRJ6K54) | [Knots](https://open.spotify.com/album/0TN9Plv6OuVrZiuZ2shewx) | 3:32 | 2022-06-07 | 2022-09-24 |
 | [L'estétique](https://open.spotify.com/track/7jTY0nAzuv2Gm3Y7MCQR5Z) | [Elena Miguel](https://open.spotify.com/artist/5gK5I1IIdNR5gZNGhYuJLD) | [L'estétique](https://open.spotify.com/album/6nDRfDYFbnuhstYE9OBjTO) | 1:59 | 2022-06-07 | 2022-07-20 |

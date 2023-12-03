@@ -1,12 +1,12 @@
 {
   "description": "Pop para refrescarte los d\u00edas, featuring Rels B & Kenia OS.",
-  "num_followers": 9272,
+  "num_followers": 9298,
   "original_name": "Crema Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MWFlNjI2NmUyYjBkNWMxMGYyY2Y1OTM2MmY4ZmU5NmIxZWM1Zjlh",
+  "snapshot_id": "MCxlNmViN2RhYzQ1YjAyMWE4NDVjY2Y1ZWI5NzY1ZThjNmNmMmI3MGQw",
   "tracks": [
     {
       "added_at": "2023-12-01 05:01:00",
@@ -395,22 +395,6 @@
     {
       "added_at": "2023-12-01 05:01:00",
       "album": {
-        "name": "Ibiza",
-        "url": "https://open.spotify.com/album/7IySKrXiQULxSpJYy9eYgX"
-      },
-      "artists": [
-        {
-          "name": "DePol",
-          "url": "https://open.spotify.com/artist/16t23tANCHuuAN0yPqBbA0"
-        }
-      ],
-      "duration_ms": 179074,
-      "name": "Ibiza",
-      "url": "https://open.spotify.com/track/5YpDCc4c7XCcJ3Pj9kd7r8"
-    },
-    {
-      "added_at": "2023-12-01 05:01:00",
-      "album": {
         "name": "\u00c1NGEL",
         "url": "https://open.spotify.com/album/3g5VwrXN4bKoU9UKux5k5N"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 187240,
       "name": "Ella",
       "url": "https://open.spotify.com/track/1DPtfQYOFB9IAEk1o4qBmS"
+    },
+    {
+      "added_at": "2023-12-01 05:01:00",
+      "album": {
+        "name": "Ibiza",
+        "url": "https://open.spotify.com/album/7IySKrXiQULxSpJYy9eYgX"
+      },
+      "artists": [
+        {
+          "name": "DePol",
+          "url": "https://open.spotify.com/artist/16t23tANCHuuAN0yPqBbA0"
+        }
+      ],
+      "duration_ms": 179074,
+      "name": "Ibiza",
+      "url": "https://open.spotify.com/track/5YpDCc4c7XCcJ3Pj9kd7r8"
     },
     {
       "added_at": "2023-12-01 05:01:00",
@@ -611,22 +611,6 @@
     {
       "added_at": "2023-12-01 05:01:00",
       "album": {
-        "name": "Reina Leona",
-        "url": "https://open.spotify.com/album/6mH7ns15s68fnpdvM22kLE"
-      },
-      "artists": [
-        {
-          "name": "Esteman",
-          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
-        }
-      ],
-      "duration_ms": 187506,
-      "name": "Reina Leona",
-      "url": "https://open.spotify.com/track/4ZvX5haKXaawEVvKtArV4X"
-    },
-    {
-      "added_at": "2023-12-01 05:01:00",
-      "album": {
         "name": "Te Cambie Por El",
         "url": "https://open.spotify.com/album/6bHnkWxT6LqkySnS1yeOTW"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 170695,
       "name": "Te Cambie Por El",
       "url": "https://open.spotify.com/track/20j2PxqYHqamcH6g8vPMSp"
+    },
+    {
+      "added_at": "2023-12-01 05:01:00",
+      "album": {
+        "name": "Reina Leona",
+        "url": "https://open.spotify.com/album/6mH7ns15s68fnpdvM22kLE"
+      },
+      "artists": [
+        {
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        }
+      ],
+      "duration_ms": 187506,
+      "name": "Reina Leona",
+      "url": "https://open.spotify.com/track/4ZvX5haKXaawEVvKtArV4X"
     },
     {
       "added_at": "2023-12-01 05:01:00",
@@ -707,22 +707,6 @@
     {
       "added_at": "2023-12-01 05:01:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/3sjYvK0dmsaQSqQZR5Tn51"
-      },
-      "artists": [
-        {
-          "name": "Lali",
-          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
-        }
-      ],
-      "duration_ms": 152425,
-      "name": "1Amor",
-      "url": "https://open.spotify.com/track/44FRdgBmwq8LEgDtjBDkiu"
-    },
-    {
-      "added_at": "2023-12-01 05:01:00",
-      "album": {
         "name": "El Renacimiento",
         "url": "https://open.spotify.com/album/7zQtZ4vMqrLoXe0pWxAExt"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 180619,
       "name": "TU VALOR",
       "url": "https://open.spotify.com/track/4NytE0I3U8ZVsfO9Bxc2jQ"
+    },
+    {
+      "added_at": "2023-12-01 05:01:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3sjYvK0dmsaQSqQZR5Tn51"
+      },
+      "artists": [
+        {
+          "name": "Lali",
+          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
+        }
+      ],
+      "duration_ms": 152425,
+      "name": "1Amor",
+      "url": "https://open.spotify.com/track/44FRdgBmwq8LEgDtjBDkiu"
     },
     {
       "added_at": "2023-12-01 05:01:00",
@@ -867,22 +867,6 @@
     {
       "added_at": "2023-12-01 05:01:00",
       "album": {
-        "name": "Alguien M\u00e1s",
-        "url": "https://open.spotify.com/album/5sOAl2yXC33MCabAevDQqP"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Llosa",
-          "url": "https://open.spotify.com/artist/10vr6MNGdriyVivl7Ls8Xx"
-        }
-      ],
-      "duration_ms": 132677,
-      "name": "Alguien M\u00e1s",
-      "url": "https://open.spotify.com/track/2KmMR2NuY9gjDdVXSyUJ9m"
-    },
-    {
-      "added_at": "2023-12-01 05:01:00",
-      "album": {
         "name": "SEROTONINA",
         "url": "https://open.spotify.com/album/5OoIV5fMI5Wby0UsiLqX9H"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 160797,
       "name": "EFECTO",
       "url": "https://open.spotify.com/track/23l2pykoSycSn8O68jXn5H"
+    },
+    {
+      "added_at": "2023-12-01 05:01:00",
+      "album": {
+        "name": "Alguien M\u00e1s",
+        "url": "https://open.spotify.com/album/5sOAl2yXC33MCabAevDQqP"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Llosa",
+          "url": "https://open.spotify.com/artist/10vr6MNGdriyVivl7Ls8Xx"
+        }
+      ],
+      "duration_ms": 132677,
+      "name": "Alguien M\u00e1s",
+      "url": "https://open.spotify.com/track/2KmMR2NuY9gjDdVXSyUJ9m"
     },
     {
       "added_at": "2023-12-01 05:01:00",
@@ -1455,6 +1455,22 @@
     {
       "added_at": "2023-12-01 05:01:00",
       "album": {
+        "name": "Lluvia: Rain City Vol.2",
+        "url": "https://open.spotify.com/album/1d3pKhYKoQ2d32Exs3wTyr"
+      },
+      "artists": [
+        {
+          "name": "3AM",
+          "url": "https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D"
+        }
+      ],
+      "duration_ms": 199497,
+      "name": "Negar",
+      "url": "https://open.spotify.com/track/6ujcAtYCwOXPbGl9bVJBue"
+    },
+    {
+      "added_at": "2023-12-01 05:01:00",
+      "album": {
         "name": "DARA",
         "url": "https://open.spotify.com/album/5VGyOaFFu2uXZJybipzjft"
       },
@@ -1487,22 +1503,6 @@
     {
       "added_at": "2023-12-01 05:01:00",
       "album": {
-        "name": "Carolina",
-        "url": "https://open.spotify.com/album/3aeYk2orcfRNOt8Z0ZXc0k"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Llosa",
-          "url": "https://open.spotify.com/artist/10vr6MNGdriyVivl7Ls8Xx"
-        }
-      ],
-      "duration_ms": 167485,
-      "name": "Carolina",
-      "url": "https://open.spotify.com/track/3xBBuuVVgW7VUZkuX6QfSa"
-    },
-    {
-      "added_at": "2023-12-01 05:01:00",
-      "album": {
         "name": "Dementes",
         "url": "https://open.spotify.com/album/0fsASfqU4Xd5UlCGN7ltTR"
       },
@@ -1515,6 +1515,22 @@
       "duration_ms": 176207,
       "name": "Dementes",
       "url": "https://open.spotify.com/track/05T29iTmS1rFDLrF1Qy1JI"
+    },
+    {
+      "added_at": "2023-12-01 05:01:00",
+      "album": {
+        "name": "Carolina",
+        "url": "https://open.spotify.com/album/3aeYk2orcfRNOt8Z0ZXc0k"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Llosa",
+          "url": "https://open.spotify.com/artist/10vr6MNGdriyVivl7Ls8Xx"
+        }
+      ],
+      "duration_ms": 167485,
+      "name": "Carolina",
+      "url": "https://open.spotify.com/track/3xBBuuVVgW7VUZkuX6QfSa"
     },
     {
       "added_at": "2023-12-01 05:01:00",
@@ -1603,8 +1619,8 @@
     {
       "added_at": "2023-12-01 05:01:00",
       "album": {
-        "name": "Eva",
-        "url": "https://open.spotify.com/album/5L5zhlV2NQALYptNM3WNIz"
+        "name": "Todo Regresa",
+        "url": "https://open.spotify.com/album/0KpuUua2SlRhsQkgI0QOQi"
       },
       "artists": [
         {
@@ -1612,29 +1628,9 @@
           "url": "https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd"
         }
       ],
-      "duration_ms": 248546,
-      "name": "Eva",
-      "url": "https://open.spotify.com/track/3kof23H8ZheEzzhARBlf4o"
-    },
-    {
-      "added_at": "2023-12-01 05:01:00",
-      "album": {
-        "name": "Eclipse",
-        "url": "https://open.spotify.com/album/3q4meHrjkp0ksaY8Py4UVD"
-      },
-      "artists": [
-        {
-          "name": "Las Villa",
-          "url": "https://open.spotify.com/artist/0sXJRmgbjbq6Q5uu4W1wDM"
-        },
-        {
-          "name": "Marco Mares",
-          "url": "https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ"
-        }
-      ],
-      "duration_ms": 172373,
-      "name": "Pa Quererte",
-      "url": "https://open.spotify.com/track/2jX7BQzdvFvfzmuCzuySHe"
+      "duration_ms": 184453,
+      "name": "Todo Regresa",
+      "url": "https://open.spotify.com/track/1jT9pbKiwKC2kEBtpSQ9Hf"
     },
     {
       "added_at": "2023-12-01 05:01:00",
@@ -1655,18 +1651,22 @@
     {
       "added_at": "2023-12-01 05:01:00",
       "album": {
-        "name": "Lluvia: Rain City Vol.2",
-        "url": "https://open.spotify.com/album/1d3pKhYKoQ2d32Exs3wTyr"
+        "name": "Eclipse",
+        "url": "https://open.spotify.com/album/3q4meHrjkp0ksaY8Py4UVD"
       },
       "artists": [
         {
-          "name": "3AM",
-          "url": "https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D"
+          "name": "Las Villa",
+          "url": "https://open.spotify.com/artist/0sXJRmgbjbq6Q5uu4W1wDM"
+        },
+        {
+          "name": "Marco Mares",
+          "url": "https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ"
         }
       ],
-      "duration_ms": 199497,
-      "name": "Negar",
-      "url": "https://open.spotify.com/track/6ujcAtYCwOXPbGl9bVJBue"
+      "duration_ms": 172373,
+      "name": "Pa Quererte",
+      "url": "https://open.spotify.com/track/2jX7BQzdvFvfzmuCzuySHe"
     },
     {
       "added_at": "2023-12-01 05:01:00",

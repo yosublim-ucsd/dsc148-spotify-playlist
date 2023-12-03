@@ -1,12 +1,12 @@
 {
   "description": "Great songs from great people.  Enjoy music from artists you can believe in!",
-  "num_followers": 88521,
+  "num_followers": 88551,
   "original_name": "Good People Good Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNTg0MDAyOGRkMWQwYmRiNTYyMzE3YjYzN2MwNjBjNzgwZGE1MzVm",
+  "snapshot_id": "MCw0OTU3MjkyZTU0M2FmZGE0ZGRiZmE5NDMzZWQzMjA0ZTI3YWVjZjVj",
   "tracks": [
     {
       "added_at": "2020-09-04 04:02:00",
@@ -443,22 +443,6 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
-        "name": "Like Myself",
-        "url": "https://open.spotify.com/album/3lP01xLRL4vQG0ZdeHAFuv"
-      },
-      "artists": [
-        {
-          "name": "Elizabeth Grace",
-          "url": "https://open.spotify.com/artist/2t0oDEgacnqOQRFJqiTH8s"
-        }
-      ],
-      "duration_ms": 148571,
-      "name": "Like Myself",
-      "url": "https://open.spotify.com/track/05JvxrmX4XHchNxipO9Ssj"
-    },
-    {
-      "added_at": "2020-09-04 04:02:00",
-      "album": {
         "name": "Covers",
         "url": "https://open.spotify.com/album/6UQ4DtMNWgxw6ufVxjdXHF"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 297506,
       "name": "Harmony Hall",
       "url": "https://open.spotify.com/track/2uoITMIoM5gCEpt3JucVmF"
+    },
+    {
+      "added_at": "2020-09-04 04:02:00",
+      "album": {
+        "name": "Like Myself",
+        "url": "https://open.spotify.com/album/3lP01xLRL4vQG0ZdeHAFuv"
+      },
+      "artists": [
+        {
+          "name": "Elizabeth Grace",
+          "url": "https://open.spotify.com/artist/2t0oDEgacnqOQRFJqiTH8s"
+        }
+      ],
+      "duration_ms": 148571,
+      "name": "Like Myself",
+      "url": "https://open.spotify.com/track/05JvxrmX4XHchNxipO9Ssj"
     },
     {
       "added_at": "2020-09-04 04:02:00",
@@ -539,22 +539,6 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
-        "name": "Morning Song",
-        "url": "https://open.spotify.com/album/2MB2SNajHrRGLcnEGFgns2"
-      },
-      "artists": [
-        {
-          "name": "Land of Color",
-          "url": "https://open.spotify.com/artist/42YoF8fzPiMbU5dlf59YuQ"
-        }
-      ],
-      "duration_ms": 261728,
-      "name": "Morning Song",
-      "url": "https://open.spotify.com/track/0TITOVVpWkNT5H3JKVdoXq"
-    },
-    {
-      "added_at": "2020-09-04 04:02:00",
-      "album": {
         "name": "JOY INVINCIBLE [Feat. Jenn Johnson]",
         "url": "https://open.spotify.com/album/6dKqzlIA9TDzx6SlfoZgI2"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 222878,
       "name": "JOY INVINCIBLE [Feat. Jenn Johnson]",
       "url": "https://open.spotify.com/track/6iIgdvJREEhUmLz9wJnMlw"
+    },
+    {
+      "added_at": "2020-09-04 04:02:00",
+      "album": {
+        "name": "Morning Song",
+        "url": "https://open.spotify.com/album/2MB2SNajHrRGLcnEGFgns2"
+      },
+      "artists": [
+        {
+          "name": "Land of Color",
+          "url": "https://open.spotify.com/artist/42YoF8fzPiMbU5dlf59YuQ"
+        }
+      ],
+      "duration_ms": 261728,
+      "name": "Morning Song",
+      "url": "https://open.spotify.com/track/0TITOVVpWkNT5H3JKVdoXq"
     },
     {
       "added_at": "2020-09-04 04:02:00",
@@ -671,22 +671,6 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
-        "name": "THRESHOLDS",
-        "url": "https://open.spotify.com/album/5LBLcdPMnr1mwBRldKb3vs"
-      },
-      "artists": [
-        {
-          "name": "Mike Edel",
-          "url": "https://open.spotify.com/artist/2slZ64SaMOJ1EXEi3W9PTI"
-        }
-      ],
-      "duration_ms": 211880,
-      "name": "Go With You",
-      "url": "https://open.spotify.com/track/4QVB1ZS4a15oz6md6YiSZV"
-    },
-    {
-      "added_at": "2020-09-04 04:02:00",
-      "album": {
         "name": "Ain't No Grave",
         "url": "https://open.spotify.com/album/6epmqEFmOUFfBLwmMjzRdw"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 288624,
       "name": "Ain't No Grave",
       "url": "https://open.spotify.com/track/6z355fOnb6YRjK4WUQK3VF"
+    },
+    {
+      "added_at": "2020-09-04 04:02:00",
+      "album": {
+        "name": "THRESHOLDS",
+        "url": "https://open.spotify.com/album/5LBLcdPMnr1mwBRldKb3vs"
+      },
+      "artists": [
+        {
+          "name": "Mike Edel",
+          "url": "https://open.spotify.com/artist/2slZ64SaMOJ1EXEi3W9PTI"
+        }
+      ],
+      "duration_ms": 211880,
+      "name": "Go With You",
+      "url": "https://open.spotify.com/track/4QVB1ZS4a15oz6md6YiSZV"
     },
     {
       "added_at": "2020-09-04 04:02:00",
@@ -807,6 +807,26 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
+        "name": "Unshackled",
+        "url": "https://open.spotify.com/album/3rvPQDXFMxJqtSlMzD7JSm"
+      },
+      "artists": [
+        {
+          "name": "Ecclesia",
+          "url": "https://open.spotify.com/artist/6yuXGldP2yeZ8GFNrZdlSC"
+        },
+        {
+          "name": "Kareen Vargas",
+          "url": "https://open.spotify.com/artist/4xpzHbtR7afmdAsz3gxdd8"
+        }
+      ],
+      "duration_ms": 244089,
+      "name": "Unshackled",
+      "url": "https://open.spotify.com/track/1ZHOREB6ew670daqMQ75F0"
+    },
+    {
+      "added_at": "2020-09-04 04:02:00",
+      "album": {
         "name": "The One Where I Talk To God",
         "url": "https://open.spotify.com/album/1npPoXS35aTSLnPW8JAeAz"
       },
@@ -827,26 +847,6 @@
       "duration_ms": 205101,
       "name": "The One Where I Talk To God",
       "url": "https://open.spotify.com/track/0AYWhKWWhO4TtbQwvHSCXA"
-    },
-    {
-      "added_at": "2020-09-04 04:02:00",
-      "album": {
-        "name": "Unshackled",
-        "url": "https://open.spotify.com/album/3rvPQDXFMxJqtSlMzD7JSm"
-      },
-      "artists": [
-        {
-          "name": "Ecclesia",
-          "url": "https://open.spotify.com/artist/6yuXGldP2yeZ8GFNrZdlSC"
-        },
-        {
-          "name": "Kareen Vargas",
-          "url": "https://open.spotify.com/artist/4xpzHbtR7afmdAsz3gxdd8"
-        }
-      ],
-      "duration_ms": 244089,
-      "name": "Unshackled",
-      "url": "https://open.spotify.com/track/1ZHOREB6ew670daqMQ75F0"
     },
     {
       "added_at": "2020-09-04 04:02:00",

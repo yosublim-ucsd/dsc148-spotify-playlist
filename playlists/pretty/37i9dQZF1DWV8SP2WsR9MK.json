@@ -1,12 +1,12 @@
 {
   "description": "The classic Jazz guitarists and their finest pieces. Cover: Grant Green",
-  "num_followers": 79114,
+  "num_followers": 79181,
   "original_name": "Jazz Guitar Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMTM2ODJkMDg5NWM1NmE4ZGNhYmNlMDQ4NTM5NDUyOGNkMjU0NTRk",
+  "snapshot_id": "MCwyYTg4M2NmMDRhM2ZiMDNjZmEzNDU5MTdiNjZhMWI4ZDgwMzg4ODAw",
   "tracks": [
     {
       "added_at": "2023-11-16 14:41:48",
@@ -1055,18 +1055,22 @@
     {
       "added_at": "2023-11-16 14:41:48",
       "album": {
-        "name": "Plectrist",
-        "url": "https://open.spotify.com/album/4yXQl7UAIbrszxlYSgEqla"
+        "name": "The Sound Of Johnny Smith",
+        "url": "https://open.spotify.com/album/1zeJkPpy0WkLnTQo9TUEeh"
       },
       "artists": [
         {
-          "name": "Billy Bauer",
-          "url": "https://open.spotify.com/artist/2Stsu7b2rXjs8idU9wjQgf"
+          "name": "Johnny Smith",
+          "url": "https://open.spotify.com/artist/3u7Tz2oLTRPG9Cn7PcuZ2q"
+        },
+        {
+          "name": "Malcolm Addey",
+          "url": "https://open.spotify.com/artist/4v0dBZBhhgZctlUGPFOGyH"
         }
       ],
-      "duration_ms": 254160,
-      "name": "It's a Blue World",
-      "url": "https://open.spotify.com/track/2CXfxQY057JczwoKonH8dl"
+      "duration_ms": 328800,
+      "name": "Misty - 2001 Remaster",
+      "url": "https://open.spotify.com/track/5fQFn9MwQFgh1MRIl4eg7u"
     },
     {
       "added_at": "2023-11-16 14:41:48",
@@ -1103,22 +1107,18 @@
     {
       "added_at": "2023-11-16 14:41:48",
       "album": {
-        "name": "The Sound Of Johnny Smith",
-        "url": "https://open.spotify.com/album/1zeJkPpy0WkLnTQo9TUEeh"
+        "name": "Plectrist",
+        "url": "https://open.spotify.com/album/4yXQl7UAIbrszxlYSgEqla"
       },
       "artists": [
         {
-          "name": "Johnny Smith",
-          "url": "https://open.spotify.com/artist/3u7Tz2oLTRPG9Cn7PcuZ2q"
-        },
-        {
-          "name": "Malcolm Addey",
-          "url": "https://open.spotify.com/artist/4v0dBZBhhgZctlUGPFOGyH"
+          "name": "Billy Bauer",
+          "url": "https://open.spotify.com/artist/2Stsu7b2rXjs8idU9wjQgf"
         }
       ],
-      "duration_ms": 328800,
-      "name": "Misty - 2001 Remaster",
-      "url": "https://open.spotify.com/track/5fQFn9MwQFgh1MRIl4eg7u"
+      "duration_ms": 254160,
+      "name": "It's a Blue World",
+      "url": "https://open.spotify.com/track/2CXfxQY057JczwoKonH8dl"
     },
     {
       "added_at": "2023-11-16 14:41:48",
@@ -1487,6 +1487,22 @@
     {
       "added_at": "2023-11-16 14:41:48",
       "album": {
+        "name": "Good Pickin's",
+        "url": "https://open.spotify.com/album/0CVGXahh2o0Wg4asysJ9OS"
+      },
+      "artists": [
+        {
+          "name": "Howard Roberts",
+          "url": "https://open.spotify.com/artist/1E4UIKgZgGsuAZ4CFS0Cel"
+        }
+      ],
+      "duration_ms": 253586,
+      "name": "The More I See You",
+      "url": "https://open.spotify.com/track/4WdktJEmG5Q3nXfyEnMQxe"
+    },
+    {
+      "added_at": "2023-11-16 14:41:48",
+      "album": {
         "name": "Deep Song",
         "url": "https://open.spotify.com/album/61ABrp2sjUlG2QhJr0LaZ8"
       },
@@ -1499,26 +1515,6 @@
       "duration_ms": 502440,
       "name": "Brooklyn Sometimes",
       "url": "https://open.spotify.com/track/60AInuGWohJqz9VONqP8u2"
-    },
-    {
-      "added_at": "2023-11-16 14:41:48",
-      "album": {
-        "name": "Free Flying",
-        "url": "https://open.spotify.com/album/1Qvqde6pj6KPoRnKxdOsvO"
-      },
-      "artists": [
-        {
-          "name": "Fred Hersch",
-          "url": "https://open.spotify.com/artist/7w7DFqQNjVMW5NRvjM8JPx"
-        },
-        {
-          "name": "Julian Lage",
-          "url": "https://open.spotify.com/artist/2TSuAchdgVzsAa9wDK1IeT"
-        }
-      ],
-      "duration_ms": 384413,
-      "name": "Monk's Dream",
-      "url": "https://open.spotify.com/track/6CeJnR7HphMYbazmHYZEtA"
     },
     {
       "added_at": "2023-11-16 14:41:48",
@@ -1539,74 +1535,22 @@
     {
       "added_at": "2023-11-16 14:41:48",
       "album": {
-        "name": "Good Pickin's",
-        "url": "https://open.spotify.com/album/0CVGXahh2o0Wg4asysJ9OS"
+        "name": "Free Flying",
+        "url": "https://open.spotify.com/album/1Qvqde6pj6KPoRnKxdOsvO"
       },
       "artists": [
         {
-          "name": "Howard Roberts",
-          "url": "https://open.spotify.com/artist/1E4UIKgZgGsuAZ4CFS0Cel"
-        }
-      ],
-      "duration_ms": 253586,
-      "name": "The More I See You",
-      "url": "https://open.spotify.com/track/4WdktJEmG5Q3nXfyEnMQxe"
-    },
-    {
-      "added_at": "2023-11-16 14:41:48",
-      "album": {
-        "name": "Idlewild",
-        "url": "https://open.spotify.com/album/1fyvwidfmrQQ1DGA3WKZqV"
-      },
-      "artists": [
-        {
-          "name": "Ben Street",
-          "url": "https://open.spotify.com/artist/649VhpjHo5aMtz2RlIlUSR"
+          "name": "Fred Hersch",
+          "url": "https://open.spotify.com/artist/7w7DFqQNjVMW5NRvjM8JPx"
         },
         {
-          "name": "Bill Stewart",
-          "url": "https://open.spotify.com/artist/6g23EYtQQXDz44soLZMS39"
-        },
-        {
-          "name": "Lage Lund",
-          "url": "https://open.spotify.com/artist/1QspC2BZg5TrVDc5eZ177E"
+          "name": "Julian Lage",
+          "url": "https://open.spotify.com/artist/2TSuAchdgVzsAa9wDK1IeT"
         }
       ],
-      "duration_ms": 448413,
-      "name": "Rumspringa",
-      "url": "https://open.spotify.com/track/05bdN80ISiWSlVcqpn5BLN"
-    },
-    {
-      "added_at": "2023-11-16 14:41:48",
-      "album": {
-        "name": "Heartcore",
-        "url": "https://open.spotify.com/album/0zVWcCYxijtR8JcX5bBJfZ"
-      },
-      "artists": [
-        {
-          "name": "Kurt Rosenwinkel",
-          "url": "https://open.spotify.com/artist/253GMpCNwx1TJtASNAeDoP"
-        }
-      ],
-      "duration_ms": 371200,
-      "name": "Blue Line",
-      "url": "https://open.spotify.com/track/3IsWXJIIp1Z9T22rVDLLgk"
-    },
-    {
-      "added_at": "2023-11-16 14:41:48",
-      "album": {
-        "name": "Standards (And Other Songs)",
-        "url": "https://open.spotify.com/album/6Az63x71f79GUhcyccTomF"
-      },
-      "artists": [
-        {
-          "name": "Mike Stern",
-          "url": "https://open.spotify.com/artist/3zX0EMvB00JzxnRi5EIICP"
-        }
-      ],
-      "duration_ms": 324026,
-      "name": "Straight No Chaser",
-      "url": "https://open.spotify.com/track/2C6x0Qx9aslzGS5GKLl2nB"
+      "duration_ms": 384413,
+      "name": "Monk's Dream",
+      "url": "https://open.spotify.com/track/6CeJnR7HphMYbazmHYZEtA"
     },
     {
       "added_at": "2023-11-16 14:41:48",
@@ -1635,6 +1579,46 @@
     {
       "added_at": "2023-11-16 14:41:48",
       "album": {
+        "name": "Idlewild",
+        "url": "https://open.spotify.com/album/1fyvwidfmrQQ1DGA3WKZqV"
+      },
+      "artists": [
+        {
+          "name": "Ben Street",
+          "url": "https://open.spotify.com/artist/649VhpjHo5aMtz2RlIlUSR"
+        },
+        {
+          "name": "Bill Stewart",
+          "url": "https://open.spotify.com/artist/6g23EYtQQXDz44soLZMS39"
+        },
+        {
+          "name": "Lage Lund",
+          "url": "https://open.spotify.com/artist/1QspC2BZg5TrVDc5eZ177E"
+        }
+      ],
+      "duration_ms": 448413,
+      "name": "Rumspringa",
+      "url": "https://open.spotify.com/track/05bdN80ISiWSlVcqpn5BLN"
+    },
+    {
+      "added_at": "2023-11-16 14:41:48",
+      "album": {
+        "name": "Standards (And Other Songs)",
+        "url": "https://open.spotify.com/album/6Az63x71f79GUhcyccTomF"
+      },
+      "artists": [
+        {
+          "name": "Mike Stern",
+          "url": "https://open.spotify.com/artist/3zX0EMvB00JzxnRi5EIICP"
+        }
+      ],
+      "duration_ms": 324026,
+      "name": "Straight No Chaser",
+      "url": "https://open.spotify.com/track/2C6x0Qx9aslzGS5GKLl2nB"
+    },
+    {
+      "added_at": "2023-11-16 14:41:48",
+      "album": {
         "name": "Dialogues",
         "url": "https://open.spotify.com/album/7eUx5aXdd0dc8QLgYcEFCG"
       },
@@ -1651,6 +1635,22 @@
       "duration_ms": 371200,
       "name": "Stella By Starlight",
       "url": "https://open.spotify.com/track/2JOrpYKz1F2h6l2KpbUGUF"
+    },
+    {
+      "added_at": "2023-11-16 14:41:48",
+      "album": {
+        "name": "Heartcore",
+        "url": "https://open.spotify.com/album/0zVWcCYxijtR8JcX5bBJfZ"
+      },
+      "artists": [
+        {
+          "name": "Kurt Rosenwinkel",
+          "url": "https://open.spotify.com/artist/253GMpCNwx1TJtASNAeDoP"
+        }
+      ],
+      "duration_ms": 371200,
+      "name": "Blue Line",
+      "url": "https://open.spotify.com/track/3IsWXJIIp1Z9T22rVDLLgk"
     },
     {
       "added_at": "2023-11-16 14:41:48",
@@ -1703,22 +1703,6 @@
     {
       "added_at": "2023-11-16 14:41:48",
       "album": {
-        "name": "Move! The Guitar Artistry Of Hank Garland",
-        "url": "https://open.spotify.com/album/4a6xb1vtqetCNmtSA5TAVF"
-      },
-      "artists": [
-        {
-          "name": "Hank Garland",
-          "url": "https://open.spotify.com/artist/0u6DJDoOcJlWRaXBnEZxaU"
-        }
-      ],
-      "duration_ms": 266400,
-      "name": "All The Things You Are",
-      "url": "https://open.spotify.com/track/6XHlmJr4KbSTMucKnv1sRU"
-    },
-    {
-      "added_at": "2023-11-16 14:41:48",
-      "album": {
         "name": "Sight",
         "url": "https://open.spotify.com/album/4Hud8C5AEW8aKw1AdIVPgt"
       },
@@ -1739,6 +1723,22 @@
       "duration_ms": 446493,
       "name": "Yesterdays",
       "url": "https://open.spotify.com/track/1SeSq9ok1FHh2mRna8UJGR"
+    },
+    {
+      "added_at": "2023-11-16 14:41:48",
+      "album": {
+        "name": "Move! The Guitar Artistry Of Hank Garland",
+        "url": "https://open.spotify.com/album/4a6xb1vtqetCNmtSA5TAVF"
+      },
+      "artists": [
+        {
+          "name": "Hank Garland",
+          "url": "https://open.spotify.com/artist/0u6DJDoOcJlWRaXBnEZxaU"
+        }
+      ],
+      "duration_ms": 266400,
+      "name": "All The Things You Are",
+      "url": "https://open.spotify.com/track/6XHlmJr4KbSTMucKnv1sRU"
     },
     {
       "added_at": "2023-11-16 14:41:48",

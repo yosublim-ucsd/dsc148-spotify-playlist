@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRy1LwINMSK.md) - [plain]
 
 > La casa del trap chileno\. Foto: Harry Nach & Aqua VS.
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,305 likes - 106 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,455 likes - 106 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [VIBRANDO ALTO](https://open.spotify.com/track/6gdXA0hjqp5B9VLilLmkRu) | [Aqua VS](https://open.spotify.com/artist/0bcZsLQV8MCeU0ylWbw23p), [Harry Nach](https://open.spotify.com/artist/0NnUMWDCDi1snuMja6IdxH) | [VIBRANDO ALTO](https://open.spotify.com/album/2mjGSrHDnZB0J34FM4IeFk) | 2:41 |
 | 2 | [OG's](https://open.spotify.com/track/2LSn8p8LjO6TB7NwtXcDx8) | [King Savagge](https://open.spotify.com/artist/7DXregrznS25AM30UY9sUU), [Il Nene De Oro](https://open.spotify.com/artist/6WzyAaCTzd5YoVMwdin58T) | [OG's](https://open.spotify.com/album/19RmjPEFQq9xtamjNojLzH) | 2:16 |
-| 3 | [MI BRUJA](https://open.spotify.com/track/39ioahXgovoR6DlDsoEqbk) | [Jere Klein](https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9), [Drakomafia](https://open.spotify.com/artist/20BNHnI2SfySwLwWCAu4ew) | [ÉNFASIS](https://open.spotify.com/album/3Yg6mB7aDyVFTZBMcJPG5B) | 3:10 |
+| 3 | [MI BRUJA](https://open.spotify.com/track/39ioahXgovoR6DlDsoEqbk) | [Jere Klein](https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9), [Drakomafia](https://open.spotify.com/artist/20BNHnI2SfySwLwWCAu4ew) | [ÉNFASIS](https://open.spotify.com/album/3Yg6mB7aDyVFTZBMcJPG5B) | 2:37 |
 | 4 | [Mafia Chilena: WHIPPING](https://open.spotify.com/track/30O2NJ4xRG91Y50dI8A6mT) | [ITHAN NY](https://open.spotify.com/artist/0LshXUmIub6xKvOq4QmtNs), [Piero 47](https://open.spotify.com/artist/4xZrvfK8khgRIXk63gSFeB) | [Mafia Chilena: WHIPPING](https://open.spotify.com/album/2zbI7iT8G0YhWntW7bvFnN) | 3:00 |
 | 5 | [TROMPETAS \(feat\. King Savagge & Best\)](https://open.spotify.com/track/7FwUyEny91YMSWGPyi99dG) | [Lleflight](https://open.spotify.com/artist/5GpRyfJV04fcnHBDzfVb8V), [Ak4:20](https://open.spotify.com/artist/1SiLK8gdECx2iEm2SSj0Bl), [Drakomafia](https://open.spotify.com/artist/20BNHnI2SfySwLwWCAu4ew), [King Savagge](https://open.spotify.com/artist/7DXregrznS25AM30UY9sUU), [Best](https://open.spotify.com/artist/4Ng3fh1nc5L04iXPL8vqc7) | [TROMPETAS \(feat\. King Savagge & Best\)](https://open.spotify.com/album/7pm56gmohoxcfT1sGB41DR) | 2:46 |
 | 6 | [Exotica \(feat\. La Zowi\)](https://open.spotify.com/track/03zrHVbUNHve5e7eIBMBGC) | [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D), [La Zowi](https://open.spotify.com/artist/1jB62pOe5WpGiHOBDtKBBG) | [El Duende Verde](https://open.spotify.com/album/0IofEJkMDwGzX6Azp11wxl) | 3:24 |
@@ -115,4 +115,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRy1LwINMSK.md) - [plain]
 | 105 | [XERATON](https://open.spotify.com/track/3yGRwTF5wDOb1cSj6Fes42) | [AKRIILA](https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL), [Harry Nach](https://open.spotify.com/artist/0NnUMWDCDi1snuMja6IdxH) | [001](https://open.spotify.com/album/4hg1fV1YKWKPF3XUpO12z1) | 2:41 |
 | 106 | [Asueto](https://open.spotify.com/track/1KGiwpyYj2ImDyYezmjLHm) | [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D) | [S.U.N.O](https://open.spotify.com/album/6V18lHqeCbGGFxtpkOJVpk) | 2:57 |
 
-Snapshot ID: `MCxiNTUzMjJhNmQ1NTZhMGNjYWYwYzQzYjFmNTkwNTE5N2I5NDIzOWQw`
+Snapshot ID: `MCw2MDA0NDZhZDJmYTc4ZGRmNjBhYmEyNWEwOTRjMWY0ZTJhNzYyODZh`

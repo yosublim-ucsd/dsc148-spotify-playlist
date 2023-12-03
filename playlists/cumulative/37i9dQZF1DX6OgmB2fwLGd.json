@@ -11768,28 +11768,6 @@
     {
       "album": {
         "name": "WISH YOU WERE HERE",
-        "url": "https://open.spotify.com/album/0PxvbdJQowxgtKBhNJAMep"
-      },
-      "artists": [
-        {
-          "name": "Dro Kenji",
-          "url": "https://open.spotify.com/artist/46fHMu9KxdQwcGV9xI1L9R"
-        },
-        {
-          "name": "Mike Dimes",
-          "url": "https://open.spotify.com/artist/6rIaHuCIUu32uj2CjlEBN3"
-        }
-      ],
-      "date_added": "2023-10-20",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 112000,
-      "name": "PAMPER PAMPER",
-      "url": "https://open.spotify.com/track/10Ov8KUvheyNHKlCBK5VLd"
-    },
-    {
-      "album": {
-        "name": "WISH YOU WERE HERE",
         "url": "https://open.spotify.com/album/6H565RedLjINKxrjk1RBz6"
       },
       "artists": [
@@ -11808,6 +11786,32 @@
       "duration_ms": 112000,
       "name": "PAMPER PAMPER",
       "url": "https://open.spotify.com/track/6RZeZKaJfK1su5TdM6hWir"
+    },
+    {
+      "album": {
+        "name": "WISH YOU WERE HERE",
+        "url": "https://open.spotify.com/album/0PxvbdJQowxgtKBhNJAMep"
+      },
+      "artists": [
+        {
+          "name": "Dro Kenji",
+          "url": "https://open.spotify.com/artist/46fHMu9KxdQwcGV9xI1L9R"
+        },
+        {
+          "name": "Mike Dimes",
+          "url": "https://open.spotify.com/artist/6rIaHuCIUu32uj2CjlEBN3"
+        },
+        {
+          "name": "Powers Pleasant",
+          "url": "https://open.spotify.com/artist/0fYw4bch7qTxBZLS3rSVMj"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112000,
+      "name": "PAMPER PAMPER",
+      "url": "https://open.spotify.com/track/10Ov8KUvheyNHKlCBK5VLd"
     },
     {
       "album": {
@@ -16714,7 +16718,7 @@
       },
       "artists": [
         {
-          "name": "FamousSally & YB",
+          "name": "Famous Sally & YB",
           "url": "https://open.spotify.com/artist/58r9bevVFGCcTpNRT5Ha85"
         }
       ],

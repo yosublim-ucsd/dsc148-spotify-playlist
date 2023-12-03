@@ -1,12 +1,12 @@
 {
   "description": "Cruzando cerros y arroyos mientras recordamos el legado campirano y rancher\u00f3n.",
-  "num_followers": 72223,
+  "num_followers": 72465,
   "original_name": "Sierre\u00f1as Viejitas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4Mzk4MWQ5YWE3ZWM3YjdjZDc5NTZlZjFmNTg1MmViMmFlMDc3MTZh",
+  "snapshot_id": "MCwwYTc1NDc4MjE3YzkyZjljN2JhYmZjOTllYmNhNzU3Yzc5NDBhZjMx",
   "tracks": [
     {
       "added_at": "2023-11-09 23:10:04",
@@ -1528,22 +1528,6 @@
           "url": "https://open.spotify.com/artist/4QLyaPcH64FhlBxA8FAeN2"
         }
       ],
-      "duration_ms": 183093,
-      "name": "El Ni\u00f1o De Oro",
-      "url": "https://open.spotify.com/track/4GOyrQDlyPd3B7q0SoiE2Z"
-    },
-    {
-      "added_at": "2023-11-09 23:10:04",
-      "album": {
-        "name": "Los Cuen's De Sinaloa",
-        "url": "https://open.spotify.com/album/0ySeNWEVo1p6JLkylvagO0"
-      },
-      "artists": [
-        {
-          "name": "Los Cuen's De Sinaloa",
-          "url": "https://open.spotify.com/artist/4QLyaPcH64FhlBxA8FAeN2"
-        }
-      ],
       "duration_ms": 197466,
       "name": "Los Plebes Atrevidos",
       "url": "https://open.spotify.com/track/59hQ9CzM8Mrril2tKdXFj0"
@@ -1563,6 +1547,22 @@
       "duration_ms": 150146,
       "name": "Siempre Te Amar\u00e9",
       "url": "https://open.spotify.com/track/2fGpCK0pgClixom6AHIFNv"
+    },
+    {
+      "added_at": "2023-11-09 23:10:04",
+      "album": {
+        "name": "Los Cuen's De Sinaloa",
+        "url": "https://open.spotify.com/album/0ySeNWEVo1p6JLkylvagO0"
+      },
+      "artists": [
+        {
+          "name": "Los Cuen's De Sinaloa",
+          "url": "https://open.spotify.com/artist/4QLyaPcH64FhlBxA8FAeN2"
+        }
+      ],
+      "duration_ms": 183093,
+      "name": "El Ni\u00f1o De Oro",
+      "url": "https://open.spotify.com/track/4GOyrQDlyPd3B7q0SoiE2Z"
     },
     {
       "added_at": "2023-11-09 23:10:04",

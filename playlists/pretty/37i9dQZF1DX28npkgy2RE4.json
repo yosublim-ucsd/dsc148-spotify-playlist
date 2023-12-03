@@ -1,12 +1,12 @@
 {
   "description": "New styles, deep sounds. Cover: Lucius",
-  "num_followers": 414181,
+  "num_followers": 414225,
   "original_name": "Modern Eclectic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MjMwNzk1OTI5YWU0ZDBhMTkyYmUyNmJmYjE0MDJmODU2Y2RhMTI3",
+  "snapshot_id": "MCw2NzAyMGEyN2I4NmYwZDQ4YjkyZjhhMzcyODlmYjlkZTBjZjllYWQ2",
   "tracks": [
     {
       "added_at": "2023-10-27 04:00:00",
@@ -519,6 +519,22 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
+        "name": "Big Time",
+        "url": "https://open.spotify.com/album/02R7PREL8nCr02CEYLy7YH"
+      },
+      "artists": [
+        {
+          "name": "Angel Olsen",
+          "url": "https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt"
+        }
+      ],
+      "duration_ms": 276826,
+      "name": "All The Good Times",
+      "url": "https://open.spotify.com/track/6Tv21RLLA1Dt6OtPNz8QDq"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
         "name": "A Pillar of Salt",
         "url": "https://open.spotify.com/album/6hlXrXeAAxPOZ4y5lonxiQ"
       },
@@ -535,22 +551,6 @@
       "duration_ms": 319053,
       "name": "Atlantis",
       "url": "https://open.spotify.com/track/4Lp2SmcFyyMiWzfsDV2Qzh"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
-        "name": "Big Time",
-        "url": "https://open.spotify.com/album/02R7PREL8nCr02CEYLy7YH"
-      },
-      "artists": [
-        {
-          "name": "Angel Olsen",
-          "url": "https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt"
-        }
-      ],
-      "duration_ms": 276826,
-      "name": "All The Good Times",
-      "url": "https://open.spotify.com/track/6Tv21RLLA1Dt6OtPNz8QDq"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -699,22 +699,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Outside Child",
-        "url": "https://open.spotify.com/album/4R21oaKCstE2fMc4XkuVlw"
-      },
-      "artists": [
-        {
-          "name": "Allison Russell",
-          "url": "https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6"
-        }
-      ],
-      "duration_ms": 295546,
-      "name": "Nightflyer",
-      "url": "https://open.spotify.com/track/6BxDMOnim3Ut7nQaOj01DJ"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "Quietly Blowing It",
         "url": "https://open.spotify.com/album/1iNOO5VSJciTGogwlClRsa"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 266756,
       "name": "Sanctuary",
       "url": "https://open.spotify.com/track/1Y4N7rL8XF0vMpFGHmjiJO"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "Outside Child",
+        "url": "https://open.spotify.com/album/4R21oaKCstE2fMc4XkuVlw"
+      },
+      "artists": [
+        {
+          "name": "Allison Russell",
+          "url": "https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6"
+        }
+      ],
+      "duration_ms": 295546,
+      "name": "Nightflyer",
+      "url": "https://open.spotify.com/track/6BxDMOnim3Ut7nQaOj01DJ"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -763,6 +763,22 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
+        "name": "I Don\u2019t Live Here Anymore",
+        "url": "https://open.spotify.com/album/69jQsPvJzMvcb2fGqI2qaB"
+      },
+      "artists": [
+        {
+          "name": "The War On Drugs",
+          "url": "https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU"
+        }
+      ],
+      "duration_ms": 293866,
+      "name": "Living Proof",
+      "url": "https://open.spotify.com/track/4VhvGhj8pdAqFJBuAfUW38"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
         "name": "Cerulean",
         "url": "https://open.spotify.com/album/6ItTL1YLeVn87SfJscm1KW"
       },
@@ -783,22 +799,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "I Don\u2019t Live Here Anymore",
-        "url": "https://open.spotify.com/album/69jQsPvJzMvcb2fGqI2qaB"
-      },
-      "artists": [
-        {
-          "name": "The War On Drugs",
-          "url": "https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU"
-        }
-      ],
-      "duration_ms": 293866,
-      "name": "Living Proof",
-      "url": "https://open.spotify.com/track/4VhvGhj8pdAqFJBuAfUW38"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "V",
         "url": "https://open.spotify.com/album/1epwNzmWdqkBQQZpTa8KJD"
       },
@@ -811,26 +811,6 @@
       "duration_ms": 246720,
       "name": "Nadja",
       "url": "https://open.spotify.com/track/2AojQfi1k8pgwyg1Ii0Ly8"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
-        "name": "Fatal Line",
-        "url": "https://open.spotify.com/album/02389joKGpQeSgbeMocOI2"
-      },
-      "artists": [
-        {
-          "name": "1969 Collective",
-          "url": "https://open.spotify.com/artist/4pSblOY5JbkH00p2q8VQYL"
-        },
-        {
-          "name": "Half Moon Run",
-          "url": "https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n"
-        }
-      ],
-      "duration_ms": 181933,
-      "name": "Fatal Line",
-      "url": "https://open.spotify.com/track/60TzCPjii0JKAQtQTENYpn"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -855,18 +835,22 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Hurricane",
-        "url": "https://open.spotify.com/album/7yfqBn0ZgxszrccYD7eXpW"
+        "name": "Fatal Line",
+        "url": "https://open.spotify.com/album/02389joKGpQeSgbeMocOI2"
       },
       "artists": [
         {
-          "name": "James Vincent McMorrow",
-          "url": "https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u"
+          "name": "1969 Collective",
+          "url": "https://open.spotify.com/artist/4pSblOY5JbkH00p2q8VQYL"
+        },
+        {
+          "name": "Half Moon Run",
+          "url": "https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n"
         }
       ],
-      "duration_ms": 266706,
-      "name": "Hurricane",
-      "url": "https://open.spotify.com/track/430AdcQfEGaKOZepLczGTo"
+      "duration_ms": 181933,
+      "name": "Fatal Line",
+      "url": "https://open.spotify.com/track/60TzCPjii0JKAQtQTENYpn"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -887,6 +871,22 @@
       "duration_ms": 263754,
       "name": "Like I Used To",
       "url": "https://open.spotify.com/track/1kZpYFQHUKv4xHELaaUSqP"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "Hurricane",
+        "url": "https://open.spotify.com/album/7yfqBn0ZgxszrccYD7eXpW"
+      },
+      "artists": [
+        {
+          "name": "James Vincent McMorrow",
+          "url": "https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u"
+        }
+      ],
+      "duration_ms": 266706,
+      "name": "Hurricane",
+      "url": "https://open.spotify.com/track/430AdcQfEGaKOZepLczGTo"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -955,22 +955,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "More Than a Love Song",
-        "url": "https://open.spotify.com/album/4mKa3XUlzWNoUub36qy9mX"
-      },
-      "artists": [
-        {
-          "name": "Black Pumas",
-          "url": "https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6"
-        }
-      ],
-      "duration_ms": 287000,
-      "name": "More Than a Love Song",
-      "url": "https://open.spotify.com/track/2LflS98n1TRQb0Fcj1910h"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "Song For Our Daughter",
         "url": "https://open.spotify.com/album/0ubXthGSkZfe30Nuj91lcu"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 247920,
       "name": "Held Down",
       "url": "https://open.spotify.com/track/1vlDwedZUvYaxt2FXoYGaJ"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "More Than a Love Song",
+        "url": "https://open.spotify.com/album/4mKa3XUlzWNoUub36qy9mX"
+      },
+      "artists": [
+        {
+          "name": "Black Pumas",
+          "url": "https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6"
+        }
+      ],
+      "duration_ms": 287000,
+      "name": "More Than a Love Song",
+      "url": "https://open.spotify.com/track/2LflS98n1TRQb0Fcj1910h"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Rubber",
-        "url": "https://open.spotify.com/album/6Q5lfwMABVKmk5sv6uS1mV"
-      },
-      "artists": [
-        {
-          "name": "Ruston Kelly",
-          "url": "https://open.spotify.com/artist/5zuqnTZOeJzI0N0yQ7XA7I"
-        }
-      ],
-      "duration_ms": 198373,
-      "name": "Rubber",
-      "url": "https://open.spotify.com/track/3dsZCq57TheazHh1GVAJwO"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "Old Bone / Trust No Man",
         "url": "https://open.spotify.com/album/6pTUF8e5RU8pU2GLRoQl5Q"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 204466,
       "name": "Runaway Horses (feat. Phoebe Bridgers) - Abridged",
       "url": "https://open.spotify.com/track/3PeCWDczrGqdD1E3mbok2X"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "Rubber",
+        "url": "https://open.spotify.com/album/6Q5lfwMABVKmk5sv6uS1mV"
+      },
+      "artists": [
+        {
+          "name": "Ruston Kelly",
+          "url": "https://open.spotify.com/artist/5zuqnTZOeJzI0N0yQ7XA7I"
+        }
+      ],
+      "duration_ms": 198373,
+      "name": "Rubber",
+      "url": "https://open.spotify.com/track/3dsZCq57TheazHh1GVAJwO"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Flag Day (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/6y8qx4wS06EbInD9x8q5Xx"
-      },
-      "artists": [
-        {
-          "name": "Cat Power",
-          "url": "https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC"
-        }
-      ],
-      "duration_ms": 212546,
-      "name": "I Think Of Angels",
-      "url": "https://open.spotify.com/track/2OiTeK0Cjs1zGu6ZiA4yC2"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "Flight Risk EP",
         "url": "https://open.spotify.com/album/3WTRqQ60G0J3UEQPU57k1g"
       },
@@ -1375,18 +1359,18 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Song For Our Daughter",
-        "url": "https://open.spotify.com/album/0ubXthGSkZfe30Nuj91lcu"
+        "name": "Flag Day (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/6y8qx4wS06EbInD9x8q5Xx"
       },
       "artists": [
         {
-          "name": "Laura Marling",
-          "url": "https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM"
+          "name": "Cat Power",
+          "url": "https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC"
         }
       ],
-      "duration_ms": 201893,
-      "name": "Strange Girl",
-      "url": "https://open.spotify.com/track/5cK0wREGoDqNKECNlw8xzx"
+      "duration_ms": 212546,
+      "name": "I Think Of Angels",
+      "url": "https://open.spotify.com/track/2OiTeK0Cjs1zGu6ZiA4yC2"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -1423,6 +1407,22 @@
       "duration_ms": 294296,
       "name": "Eviction Notice",
       "url": "https://open.spotify.com/track/2BGC8XJPFRm3f7ZX2FRPNy"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "Song For Our Daughter",
+        "url": "https://open.spotify.com/album/0ubXthGSkZfe30Nuj91lcu"
+      },
+      "artists": [
+        {
+          "name": "Laura Marling",
+          "url": "https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM"
+        }
+      ],
+      "duration_ms": 201893,
+      "name": "Strange Girl",
+      "url": "https://open.spotify.com/track/5cK0wREGoDqNKECNlw8xzx"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Half Moon Light (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4BZtOxZRZVRVf5ufHPlXy3"
-      },
-      "artists": [
-        {
-          "name": "The Lone Bellow",
-          "url": "https://open.spotify.com/artist/7JFtD8KnbAADBBDleIMuH7"
-        }
-      ],
-      "duration_ms": 231880,
-      "name": "Dried Up River",
-      "url": "https://open.spotify.com/track/7bNvUAHtAVDee8w6SS6r0S"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "Snowplow",
         "url": "https://open.spotify.com/album/2pvt0zp6tTBZdF1HZ50LsQ"
       },
@@ -1523,6 +1507,22 @@
       "duration_ms": 161776,
       "name": "Snowplow",
       "url": "https://open.spotify.com/track/6LvRXtQfbvMF7m0hNQu5eF"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "Half Moon Light (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4BZtOxZRZVRVf5ufHPlXy3"
+      },
+      "artists": [
+        {
+          "name": "The Lone Bellow",
+          "url": "https://open.spotify.com/artist/7JFtD8KnbAADBBDleIMuH7"
+        }
+      ],
+      "duration_ms": 231880,
+      "name": "Dried Up River",
+      "url": "https://open.spotify.com/track/7bNvUAHtAVDee8w6SS6r0S"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -1795,22 +1795,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Southern Star",
-        "url": "https://open.spotify.com/album/5SoDgEyUeO6DcS88kOuR0d"
-      },
-      "artists": [
-        {
-          "name": "Brent Cobb",
-          "url": "https://open.spotify.com/artist/26C2AjqgMr5aDzj6Yp2ORz"
-        }
-      ],
-      "duration_ms": 186269,
-      "name": "Southern Star",
-      "url": "https://open.spotify.com/track/4O6pTiXCFeuLE8fBz3LWGf"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "Spin It Faster",
         "url": "https://open.spotify.com/album/1T6SLtqelpeRnPQAG2ehKI"
       },
@@ -1831,6 +1815,22 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
+        "name": "Southern Star",
+        "url": "https://open.spotify.com/album/5SoDgEyUeO6DcS88kOuR0d"
+      },
+      "artists": [
+        {
+          "name": "Brent Cobb",
+          "url": "https://open.spotify.com/artist/26C2AjqgMr5aDzj6Yp2ORz"
+        }
+      ],
+      "duration_ms": 186269,
+      "name": "Southern Star",
+      "url": "https://open.spotify.com/track/4O6pTiXCFeuLE8fBz3LWGf"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
         "name": "Fever Breaks",
         "url": "https://open.spotify.com/album/3qL2gdQLgulBvIo7bng2zS"
       },
@@ -1847,22 +1847,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "San Isabel",
-        "url": "https://open.spotify.com/album/0ujviO24y6WGV1KQwkcwIv"
-      },
-      "artists": [
-        {
-          "name": "Jamestown Revival",
-          "url": "https://open.spotify.com/artist/4w1ZBtHF0HxrGqQdB7i1it"
-        }
-      ],
-      "duration_ms": 280813,
-      "name": "Crazy World (Judgement Day)",
-      "url": "https://open.spotify.com/track/0ZLvbkO8VwaNhV9aS1yi6T"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "Revealer",
         "url": "https://open.spotify.com/album/3flejyQLaN7EolO3Vmg31D"
       },
@@ -1875,6 +1859,22 @@
       "duration_ms": 228800,
       "name": "Anywhere",
       "url": "https://open.spotify.com/track/11s7r8ffgXRZreqvMVPACS"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "San Isabel",
+        "url": "https://open.spotify.com/album/0ujviO24y6WGV1KQwkcwIv"
+      },
+      "artists": [
+        {
+          "name": "Jamestown Revival",
+          "url": "https://open.spotify.com/artist/4w1ZBtHF0HxrGqQdB7i1it"
+        }
+      ],
+      "duration_ms": 280813,
+      "name": "Crazy World (Judgement Day)",
+      "url": "https://open.spotify.com/track/0ZLvbkO8VwaNhV9aS1yi6T"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -1963,26 +1963,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Seventeen Again (feat. Novo Amor)",
-        "url": "https://open.spotify.com/album/5f60fAxPrT39rjbmNssvvR"
-      },
-      "artists": [
-        {
-          "name": "Charli Adams",
-          "url": "https://open.spotify.com/artist/2RzQznPCFWvnq3wBh0zzD2"
-        },
-        {
-          "name": "Novo Amor",
-          "url": "https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi"
-        }
-      ],
-      "duration_ms": 204520,
-      "name": "Seventeen Again (feat. Novo Amor)",
-      "url": "https://open.spotify.com/track/1Qcx39jI9pjoTrURXuk3QY"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "Boleros Psicod\u00e9licos",
         "url": "https://open.spotify.com/album/2IjLewGcgMJMEAO5gHWwlG"
       },
@@ -1999,6 +1979,26 @@
       "duration_ms": 228693,
       "name": "Mentiras Con Cari\u00f1o",
       "url": "https://open.spotify.com/track/7H7c9Ih5yj4158AM8BF49z"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "Seventeen Again (feat. Novo Amor)",
+        "url": "https://open.spotify.com/album/5f60fAxPrT39rjbmNssvvR"
+      },
+      "artists": [
+        {
+          "name": "Charli Adams",
+          "url": "https://open.spotify.com/artist/2RzQznPCFWvnq3wBh0zzD2"
+        },
+        {
+          "name": "Novo Amor",
+          "url": "https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi"
+        }
+      ],
+      "duration_ms": 204520,
+      "name": "Seventeen Again (feat. Novo Amor)",
+      "url": "https://open.spotify.com/track/1Qcx39jI9pjoTrURXuk3QY"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -2115,22 +2115,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Practice Magic and Seek Professional Help When Necessary",
-        "url": "https://open.spotify.com/album/2f5KpUAT9lDedlKG3PQLQz"
-      },
-      "artists": [
-        {
-          "name": "T\u014dth",
-          "url": "https://open.spotify.com/artist/02nqs3YdfX7Th3gYTYFrqc"
-        }
-      ],
-      "duration_ms": 161972,
-      "name": "Song to Make You Fall in Love With Me",
-      "url": "https://open.spotify.com/track/6uamXLhBaOLWaDkaftKTzr"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "The Blues Have Blown Away",
         "url": "https://open.spotify.com/album/7jewmK7nMLWpNw9EV5267b"
       },
@@ -2147,6 +2131,22 @@
       "duration_ms": 167400,
       "name": "The Blues Have Blown Away",
       "url": "https://open.spotify.com/track/46KuUSMrcUTcMU72HNkg6o"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "Practice Magic and Seek Professional Help When Necessary",
+        "url": "https://open.spotify.com/album/2f5KpUAT9lDedlKG3PQLQz"
+      },
+      "artists": [
+        {
+          "name": "T\u014dth",
+          "url": "https://open.spotify.com/artist/02nqs3YdfX7Th3gYTYFrqc"
+        }
+      ],
+      "duration_ms": 161972,
+      "name": "Song to Make You Fall in Love With Me",
+      "url": "https://open.spotify.com/track/6uamXLhBaOLWaDkaftKTzr"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -2247,22 +2247,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "all of my lessons",
-        "url": "https://open.spotify.com/album/4unK854kzraNk7AGOP9aTO"
-      },
-      "artists": [
-        {
-          "name": "Trevor Hall",
-          "url": "https://open.spotify.com/artist/3RMHexittaAZkf8zukkZB8"
-        }
-      ],
-      "duration_ms": 176795,
-      "name": "all of my lessons",
-      "url": "https://open.spotify.com/track/5pngx2j5NVygoo72yqNaEF"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "Cheers",
         "url": "https://open.spotify.com/album/449AwHLbBwEzRvAqIQr5mB"
       },
@@ -2275,6 +2259,22 @@
       "duration_ms": 228707,
       "name": "Lose My Mind",
       "url": "https://open.spotify.com/track/7djjzziCovlTf0yXGIArWS"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "all of my lessons",
+        "url": "https://open.spotify.com/album/4unK854kzraNk7AGOP9aTO"
+      },
+      "artists": [
+        {
+          "name": "Trevor Hall",
+          "url": "https://open.spotify.com/artist/3RMHexittaAZkf8zukkZB8"
+        }
+      ],
+      "duration_ms": 176795,
+      "name": "all of my lessons",
+      "url": "https://open.spotify.com/track/5pngx2j5NVygoo72yqNaEF"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -2295,22 +2295,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Traffic Fiction",
-        "url": "https://open.spotify.com/album/0MkenTu5G8qe0SgyE619fA"
-      },
-      "artists": [
-        {
-          "name": "Tr\u00e9 Burt",
-          "url": "https://open.spotify.com/artist/5e5Zm5z8OPycf55hgDxKIc"
-        }
-      ],
-      "duration_ms": 236933,
-      "name": "2 FOR THA SHOW",
-      "url": "https://open.spotify.com/track/6OJzYB7wzVhxI2YIjVrfr6"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "Fun House",
         "url": "https://open.spotify.com/album/1LBaX90YupG7JKOHCWi4y0"
       },
@@ -2323,6 +2307,22 @@
       "duration_ms": 173303,
       "name": "Just to Hear You (feat. Perfume Genius)",
       "url": "https://open.spotify.com/track/6fFMXz0mLLaql9UyyBQB9a"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "Traffic Fiction",
+        "url": "https://open.spotify.com/album/0MkenTu5G8qe0SgyE619fA"
+      },
+      "artists": [
+        {
+          "name": "Tr\u00e9 Burt",
+          "url": "https://open.spotify.com/artist/5e5Zm5z8OPycf55hgDxKIc"
+        }
+      ],
+      "duration_ms": 236933,
+      "name": "2 FOR THA SHOW",
+      "url": "https://open.spotify.com/track/6OJzYB7wzVhxI2YIjVrfr6"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -2383,22 +2383,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Quitters",
-        "url": "https://open.spotify.com/album/4m0J4ljxRrsHJfXSmjiYUG"
-      },
-      "artists": [
-        {
-          "name": "Christian Lee Hutson",
-          "url": "https://open.spotify.com/artist/5B7NeaqVrmXPyF05C9tnZ3"
-        }
-      ],
-      "duration_ms": 208911,
-      "name": "Rubberneckers",
-      "url": "https://open.spotify.com/track/5bFCQlmeLTKT25oga5ltiA"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "Watchhouse",
         "url": "https://open.spotify.com/album/2ZURBTlzCG2WCMuEwvRBaK"
       },
@@ -2415,18 +2399,18 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Old Peel",
-        "url": "https://open.spotify.com/album/5SdjxVnwwn4w25boDjEmMR"
+        "name": "Quitters",
+        "url": "https://open.spotify.com/album/4m0J4ljxRrsHJfXSmjiYUG"
       },
       "artists": [
         {
-          "name": "Aldous Harding",
-          "url": "https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG"
+          "name": "Christian Lee Hutson",
+          "url": "https://open.spotify.com/artist/5B7NeaqVrmXPyF05C9tnZ3"
         }
       ],
-      "duration_ms": 196802,
-      "name": "Old Peel",
-      "url": "https://open.spotify.com/track/0vuZebTvcwkstUpoo82lpG"
+      "duration_ms": 208911,
+      "name": "Rubberneckers",
+      "url": "https://open.spotify.com/track/5bFCQlmeLTKT25oga5ltiA"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -2447,6 +2431,22 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
+        "name": "Old Peel",
+        "url": "https://open.spotify.com/album/5SdjxVnwwn4w25boDjEmMR"
+      },
+      "artists": [
+        {
+          "name": "Aldous Harding",
+          "url": "https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG"
+        }
+      ],
+      "duration_ms": 196802,
+      "name": "Old Peel",
+      "url": "https://open.spotify.com/track/0vuZebTvcwkstUpoo82lpG"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
         "name": "Wayfinder",
         "url": "https://open.spotify.com/album/5wRHPgsA4wtC2zDTOyp7DN"
       },
@@ -2459,22 +2459,6 @@
       "duration_ms": 182012,
       "name": "That's Life Honey",
       "url": "https://open.spotify.com/track/4ruhASOVIoqNGNXSjLwVQZ"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
-        "name": "Requiem",
-        "url": "https://open.spotify.com/album/4Xr1qkaJY6ICHp7nh1rzec"
-      },
-      "artists": [
-        {
-          "name": "Ben Abraham",
-          "url": "https://open.spotify.com/artist/3FfbgiZhcCkoiI7IzOwXlI"
-        }
-      ],
-      "duration_ms": 218740,
-      "name": "Requiem",
-      "url": "https://open.spotify.com/track/5w4axvkZhiRqoE0PP6teSo"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -2523,6 +2507,22 @@
       "duration_ms": 196666,
       "name": "Blue Over Blue",
       "url": "https://open.spotify.com/track/5l8hwRyvvAqTpwhzbaSr8l"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "Requiem",
+        "url": "https://open.spotify.com/album/4Xr1qkaJY6ICHp7nh1rzec"
+      },
+      "artists": [
+        {
+          "name": "Ben Abraham",
+          "url": "https://open.spotify.com/artist/3FfbgiZhcCkoiI7IzOwXlI"
+        }
+      ],
+      "duration_ms": 218740,
+      "name": "Requiem",
+      "url": "https://open.spotify.com/track/5w4axvkZhiRqoE0PP6teSo"
     }
   ],
   "unique_name": "Modern Eclectic",

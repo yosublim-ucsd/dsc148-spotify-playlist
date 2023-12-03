@@ -1,12 +1,12 @@
 {
   "description": "Our editor\u2019s picks for best Jersey Club songs of the year. Cover: kanii",
-  "num_followers": 753,
+  "num_followers": 950,
   "original_name": "Jersey Club Heat Presents Best Songs of 2023",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2M2NhMDcxMjBkOTYwZWI0MzZhZDU1ZDI4MDllMmQ5YjE4M2ZhMDQ0",
+  "snapshot_id": "MCw4YjM1Yjg5YmUwZWMxNTlmMDg3YTRmMzkzYWFiMWUxYjZiYTUzYWQw",
   "tracks": [
     {
       "added_at": "2023-12-01 14:44:59",
@@ -227,26 +227,6 @@
     {
       "added_at": "2023-12-01 14:44:59",
       "album": {
-        "name": "INNOCENTE",
-        "url": "https://open.spotify.com/album/7CIpLH395MhKKJ7WyUzm58"
-      },
-      "artists": [
-        {
-          "name": "Baby Gang",
-          "url": "https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0"
-        },
-        {
-          "name": "Bobo",
-          "url": "https://open.spotify.com/artist/4W6DLx1j8rZzzcbMuUd42J"
-        }
-      ],
-      "duration_ms": 183840,
-      "name": "Que Lo Ke",
-      "url": "https://open.spotify.com/track/7wj8OXiqdAfNsnWm2zRV9e"
-    },
-    {
-      "added_at": "2023-12-01 14:44:59",
-      "album": {
         "name": "NO L\u00c8CHE \ud83d\udeab\ud83d\udc45 (feat. Fav\u00e9, Kerchak & Leto)",
         "url": "https://open.spotify.com/album/6HGMONyziFfUCEpMdwbzZn"
       },
@@ -275,18 +255,38 @@
     {
       "added_at": "2023-12-01 14:44:59",
       "album": {
-        "name": "TROYA",
-        "url": "https://open.spotify.com/album/6lwxRxjLpoyE1BFnWumftN"
+        "name": "INNOCENTE",
+        "url": "https://open.spotify.com/album/7CIpLH395MhKKJ7WyUzm58"
       },
       "artists": [
         {
-          "name": "Duki",
-          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+          "name": "Baby Gang",
+          "url": "https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0"
+        },
+        {
+          "name": "Bobo",
+          "url": "https://open.spotify.com/artist/4W6DLx1j8rZzzcbMuUd42J"
         }
       ],
-      "duration_ms": 163173,
-      "name": "TROYA",
-      "url": "https://open.spotify.com/track/1CEdDExqYCaf9UB3nwsBZs"
+      "duration_ms": 183840,
+      "name": "Que Lo Ke",
+      "url": "https://open.spotify.com/track/7wj8OXiqdAfNsnWm2zRV9e"
+    },
+    {
+      "added_at": "2023-12-01 14:44:59",
+      "album": {
+        "name": "DEFOL",
+        "url": "https://open.spotify.com/album/0qclcDdgeV7AM80qcBnWtm"
+      },
+      "artists": [
+        {
+          "name": "Lil Zey",
+          "url": "https://open.spotify.com/artist/7Gx2wDVHyW5HJh7dc2t5h7"
+        }
+      ],
+      "duration_ms": 173987,
+      "name": "DEFOL",
+      "url": "https://open.spotify.com/track/6bZXS4iBLq09KhK6Mr569I"
     },
     {
       "added_at": "2023-12-01 14:44:59",
@@ -307,18 +307,18 @@
     {
       "added_at": "2023-12-01 14:44:59",
       "album": {
-        "name": "DEFOL",
-        "url": "https://open.spotify.com/album/0qclcDdgeV7AM80qcBnWtm"
+        "name": "TROYA",
+        "url": "https://open.spotify.com/album/6lwxRxjLpoyE1BFnWumftN"
       },
       "artists": [
         {
-          "name": "Lil Zey",
-          "url": "https://open.spotify.com/artist/7Gx2wDVHyW5HJh7dc2t5h7"
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
         }
       ],
-      "duration_ms": 173987,
-      "name": "DEFOL",
-      "url": "https://open.spotify.com/track/6bZXS4iBLq09KhK6Mr569I"
+      "duration_ms": 163173,
+      "name": "TROYA",
+      "url": "https://open.spotify.com/track/1CEdDExqYCaf9UB3nwsBZs"
     },
     {
       "added_at": "2023-12-01 14:44:59",
@@ -411,6 +411,26 @@
     {
       "added_at": "2023-12-01 14:44:59",
       "album": {
+        "name": "My Love",
+        "url": "https://open.spotify.com/album/3XgtnIOpgE18deinVIUmBn"
+      },
+      "artists": [
+        {
+          "name": "De La Ghetto",
+          "url": "https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb"
+        },
+        {
+          "name": "Quevedo",
+          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
+        }
+      ],
+      "duration_ms": 214123,
+      "name": "My Love",
+      "url": "https://open.spotify.com/track/2f5jtBFBWGmthgLpte2u3q"
+    },
+    {
+      "added_at": "2023-12-01 14:44:59",
+      "album": {
         "name": "Victoria's Secret (feat. Niky Savage)",
         "url": "https://open.spotify.com/album/1fhQ6ZcU9gOnp6jubU91x9"
       },
@@ -435,26 +455,6 @@
       "duration_ms": 147310,
       "name": "Victoria's Secret (feat. Niky Savage)",
       "url": "https://open.spotify.com/track/6e6l7PYajMX9SVpbEDqowH"
-    },
-    {
-      "added_at": "2023-12-01 14:44:59",
-      "album": {
-        "name": "My Love",
-        "url": "https://open.spotify.com/album/3XgtnIOpgE18deinVIUmBn"
-      },
-      "artists": [
-        {
-          "name": "De La Ghetto",
-          "url": "https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb"
-        },
-        {
-          "name": "Quevedo",
-          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
-        }
-      ],
-      "duration_ms": 214123,
-      "name": "My Love",
-      "url": "https://open.spotify.com/track/2f5jtBFBWGmthgLpte2u3q"
     },
     {
       "added_at": "2023-12-01 14:44:59",
@@ -499,30 +499,6 @@
     {
       "added_at": "2023-12-01 14:44:59",
       "album": {
-        "name": "Epiphany (I'm Leaving) [Jersey Club Remix]",
-        "url": "https://open.spotify.com/album/1NiJM6oLaqru3BlKw1V2wo"
-      },
-      "artists": [
-        {
-          "name": "Chrisette Michele",
-          "url": "https://open.spotify.com/artist/3YJMzGjAm245zwJooY7PEj"
-        },
-        {
-          "name": "Loog",
-          "url": "https://open.spotify.com/artist/5EMKpvztIr3J7icWA5or1I"
-        },
-        {
-          "name": "ProdByAbnormal",
-          "url": "https://open.spotify.com/artist/7fc1beONoGaY0613kvQKWe"
-        }
-      ],
-      "duration_ms": 169155,
-      "name": "Epiphany (I'm Leaving) - Jersey Club Remix",
-      "url": "https://open.spotify.com/track/1QQIi0N6NqkSKtCPN8vYwr"
-    },
-    {
-      "added_at": "2023-12-01 14:44:59",
-      "album": {
         "name": "club2020",
         "url": "https://open.spotify.com/album/7C8H2mwiwBRKFpi5KeGKfT"
       },
@@ -559,6 +535,30 @@
       "duration_ms": 189295,
       "name": "Malibu Barbie",
       "url": "https://open.spotify.com/track/09bXpqLbPGZum6I4lDcnMX"
+    },
+    {
+      "added_at": "2023-12-01 14:44:59",
+      "album": {
+        "name": "Epiphany (I'm Leaving) [Jersey Club Remix]",
+        "url": "https://open.spotify.com/album/1NiJM6oLaqru3BlKw1V2wo"
+      },
+      "artists": [
+        {
+          "name": "Chrisette Michele",
+          "url": "https://open.spotify.com/artist/3YJMzGjAm245zwJooY7PEj"
+        },
+        {
+          "name": "Loog",
+          "url": "https://open.spotify.com/artist/5EMKpvztIr3J7icWA5or1I"
+        },
+        {
+          "name": "ProdByAbnormal",
+          "url": "https://open.spotify.com/artist/7fc1beONoGaY0613kvQKWe"
+        }
+      ],
+      "duration_ms": 169155,
+      "name": "Epiphany (I'm Leaving) - Jersey Club Remix",
+      "url": "https://open.spotify.com/track/1QQIi0N6NqkSKtCPN8vYwr"
     },
     {
       "added_at": "2023-12-01 14:44:59",
@@ -879,6 +879,46 @@
     {
       "added_at": "2023-12-01 14:44:59",
       "album": {
+        "name": "Pretty Ones",
+        "url": "https://open.spotify.com/album/1oH2NV3OKNQQ8jGU4IWUCU"
+      },
+      "artists": [
+        {
+          "name": "K CAMP",
+          "url": "https://open.spotify.com/artist/5bgfj5zUoWpyeVatGDjn6H"
+        },
+        {
+          "name": "B-Lovee",
+          "url": "https://open.spotify.com/artist/7hf5PZjVOqTQ2id3PF7I5Y"
+        }
+      ],
+      "duration_ms": 221570,
+      "name": "Pretty Ones",
+      "url": "https://open.spotify.com/track/2vY20At26ZKguLNrpQHqha"
+    },
+    {
+      "added_at": "2023-12-01 14:44:59",
+      "album": {
+        "name": "Pretty Girls Love Slizzy",
+        "url": "https://open.spotify.com/album/7rQOwlPx5Ma7u6PVRrljVO"
+      },
+      "artists": [
+        {
+          "name": "Cash Cobain",
+          "url": "https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1"
+        },
+        {
+          "name": "Chow Lee",
+          "url": "https://open.spotify.com/artist/3yQMCDmPQPJlf6xJMzcnZL"
+        }
+      ],
+      "duration_ms": 169736,
+      "name": "Rump (feat. Chow Lee)",
+      "url": "https://open.spotify.com/track/29gijYs6GkiKaGDrEC1l4T"
+    },
+    {
+      "added_at": "2023-12-01 14:44:59",
+      "album": {
         "name": "Defiant Presents: Jiggy In Jersey",
         "url": "https://open.spotify.com/album/7lEj90UqCHkiZzLnOOQV2v"
       },
@@ -907,26 +947,6 @@
     {
       "added_at": "2023-12-01 14:44:59",
       "album": {
-        "name": "Pretty Girls Love Slizzy",
-        "url": "https://open.spotify.com/album/7rQOwlPx5Ma7u6PVRrljVO"
-      },
-      "artists": [
-        {
-          "name": "Cash Cobain",
-          "url": "https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1"
-        },
-        {
-          "name": "Chow Lee",
-          "url": "https://open.spotify.com/artist/3yQMCDmPQPJlf6xJMzcnZL"
-        }
-      ],
-      "duration_ms": 169736,
-      "name": "Rump (feat. Chow Lee)",
-      "url": "https://open.spotify.com/track/29gijYs6GkiKaGDrEC1l4T"
-    },
-    {
-      "added_at": "2023-12-01 14:44:59",
-      "album": {
         "name": "CNTRTE",
         "url": "https://open.spotify.com/album/2DbXHug7av6nbs0PQf7bwU"
       },
@@ -939,26 +959,6 @@
       "duration_ms": 166573,
       "name": "CNTRTE",
       "url": "https://open.spotify.com/track/6T1BqggkRJsqYDzdQs7boL"
-    },
-    {
-      "added_at": "2023-12-01 14:44:59",
-      "album": {
-        "name": "Pretty Ones",
-        "url": "https://open.spotify.com/album/1oH2NV3OKNQQ8jGU4IWUCU"
-      },
-      "artists": [
-        {
-          "name": "K CAMP",
-          "url": "https://open.spotify.com/artist/5bgfj5zUoWpyeVatGDjn6H"
-        },
-        {
-          "name": "B-Lovee",
-          "url": "https://open.spotify.com/artist/7hf5PZjVOqTQ2id3PF7I5Y"
-        }
-      ],
-      "duration_ms": 221570,
-      "name": "Pretty Ones",
-      "url": "https://open.spotify.com/track/2vY20At26ZKguLNrpQHqha"
     },
     {
       "added_at": "2023-12-01 14:44:59",
@@ -1175,26 +1175,6 @@
     {
       "added_at": "2023-12-01 14:44:59",
       "album": {
-        "name": "KEEP WISHING (feat. 2Rare)",
-        "url": "https://open.spotify.com/album/6tHZnpHCEBn15sj29nuNEA"
-      },
-      "artists": [
-        {
-          "name": "BreezyLYN",
-          "url": "https://open.spotify.com/artist/2Yt4zPxa9X6hQeIUieQiEq"
-        },
-        {
-          "name": "2Rare",
-          "url": "https://open.spotify.com/artist/2GRDbUJRZwKzeiwxrjJdmQ"
-        }
-      ],
-      "duration_ms": 156586,
-      "name": "KEEP WISHING (feat. 2Rare)",
-      "url": "https://open.spotify.com/track/237JPwIrEEFCC9IWgzHxsm"
-    },
-    {
-      "added_at": "2023-12-01 14:44:59",
-      "album": {
         "name": "Birthday",
         "url": "https://open.spotify.com/album/3r1BJLmb0IU2HrQAVy0FXs"
       },
@@ -1215,6 +1195,26 @@
       "duration_ms": 140298,
       "name": "Birthday",
       "url": "https://open.spotify.com/track/5sRBO1ghaklkYi0oZPe4yW"
+    },
+    {
+      "added_at": "2023-12-01 14:44:59",
+      "album": {
+        "name": "KEEP WISHING (feat. 2Rare)",
+        "url": "https://open.spotify.com/album/6tHZnpHCEBn15sj29nuNEA"
+      },
+      "artists": [
+        {
+          "name": "BreezyLYN",
+          "url": "https://open.spotify.com/artist/2Yt4zPxa9X6hQeIUieQiEq"
+        },
+        {
+          "name": "2Rare",
+          "url": "https://open.spotify.com/artist/2GRDbUJRZwKzeiwxrjJdmQ"
+        }
+      ],
+      "duration_ms": 156586,
+      "name": "KEEP WISHING (feat. 2Rare)",
+      "url": "https://open.spotify.com/track/237JPwIrEEFCC9IWgzHxsm"
     },
     {
       "added_at": "2023-12-01 14:44:59",
@@ -1259,8 +1259,8 @@
     {
       "added_at": "2023-12-01 14:44:59",
       "album": {
-        "name": "In The Night (feat. Bandmanrill)",
-        "url": "https://open.spotify.com/album/7azk253Tycfnk5vQKbiWTM"
+        "name": "Real Hips 2",
+        "url": "https://open.spotify.com/album/25MTp5gwjXq9Y1iVzpWUth"
       },
       "artists": [
         {
@@ -1268,21 +1268,17 @@
           "url": "https://open.spotify.com/artist/0t9dGS12PMZmiJiZa9vpyk"
         },
         {
-          "name": "SAFE",
-          "url": "https://open.spotify.com/artist/3bnpcWBcvlfq4hPFJjNPbz"
+          "name": "Bandmanrill",
+          "url": "https://open.spotify.com/artist/2SyMN1PdSuQpZgrYXrkai1"
         },
         {
           "name": "Defiant Presents",
           "url": "https://open.spotify.com/artist/6kOvJAZH29zNIKqPLOEC65"
-        },
-        {
-          "name": "Bandmanrill",
-          "url": "https://open.spotify.com/artist/2SyMN1PdSuQpZgrYXrkai1"
         }
       ],
-      "duration_ms": 212400,
-      "name": "In The Night (feat. Bandmanrill)",
-      "url": "https://open.spotify.com/track/7rOyc2gkZkWgT2g4LIbqTD"
+      "duration_ms": 131200,
+      "name": "Real Hips 2",
+      "url": "https://open.spotify.com/track/740rzQXrAE1qwhQ7UqZPzN"
     },
     {
       "added_at": "2023-12-01 14:44:59",
@@ -1411,8 +1407,8 @@
     {
       "added_at": "2023-12-01 14:44:59",
       "album": {
-        "name": "Real Hips 2",
-        "url": "https://open.spotify.com/album/25MTp5gwjXq9Y1iVzpWUth"
+        "name": "In The Night (feat. Bandmanrill)",
+        "url": "https://open.spotify.com/album/7azk253Tycfnk5vQKbiWTM"
       },
       "artists": [
         {
@@ -1420,17 +1416,21 @@
           "url": "https://open.spotify.com/artist/0t9dGS12PMZmiJiZa9vpyk"
         },
         {
-          "name": "Bandmanrill",
-          "url": "https://open.spotify.com/artist/2SyMN1PdSuQpZgrYXrkai1"
+          "name": "SAFE",
+          "url": "https://open.spotify.com/artist/3bnpcWBcvlfq4hPFJjNPbz"
         },
         {
           "name": "Defiant Presents",
           "url": "https://open.spotify.com/artist/6kOvJAZH29zNIKqPLOEC65"
+        },
+        {
+          "name": "Bandmanrill",
+          "url": "https://open.spotify.com/artist/2SyMN1PdSuQpZgrYXrkai1"
         }
       ],
-      "duration_ms": 131200,
-      "name": "Real Hips 2",
-      "url": "https://open.spotify.com/track/740rzQXrAE1qwhQ7UqZPzN"
+      "duration_ms": 212400,
+      "name": "In The Night (feat. Bandmanrill)",
+      "url": "https://open.spotify.com/track/7rOyc2gkZkWgT2g4LIbqTD"
     },
     {
       "added_at": "2023-12-01 14:44:59",

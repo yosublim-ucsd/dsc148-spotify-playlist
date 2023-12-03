@@ -2,7 +2,7 @@
 
 ### [SAlt](https://open.spotify.com/playlist/37i9dQZF1DX6dYPM8db5Sz)
 
-> The best new indie music from South Africa and beyond\. Cover: <a href="https://open.spotify.com/artist/7tYRwBffjJ0FiLIkPTCGMQ?si=aFtrFUI\-Q\_C9m5BTxRSR3g">Corbon Amodio</a>
+> The best new indie music from South Africa and beyond\. Cover: <a href="https://open.spotify.com/artist/3S9sb8w9r1iojdrAL1soiU?si=eILjr2IURVCM\_iCCOf3d2w">Beatenberg</a>
 
 569 songs - 1 day 8 hr 46 min
 
@@ -201,7 +201,7 @@
 | [Happier \- Radio Remix](https://open.spotify.com/track/2dM434jTJ5oC51IFViMvv5) | [Tuelo](https://open.spotify.com/artist/1lig68oZ73xVDte2BME8Mi) | [Happier \(Radio Remix\)](https://open.spotify.com/album/4dmgyRNF1FyHU9Jm94ss5Z) | 3:35 | 2023-02-02 | 2023-03-10 |
 | [Happy Ending](https://open.spotify.com/track/393wK9bZSGRfSP0nT4NrsP) | [Anelda](https://open.spotify.com/artist/0LaWkf1uyYMu26Nwhmys1h) | [Happy Ending](https://open.spotify.com/album/0eOmxLTHkwZTYQxdzhDzTg) | 3:46 | 2023-08-04 | 2023-11-10 |
 | [Harder](https://open.spotify.com/track/4NzCbEX3oR76un4r4wMdEG) | [Dangerfields](https://open.spotify.com/artist/2jvp5tnnyCvPIgOczuIaZU), [Mandi Lizamore](https://open.spotify.com/artist/6uuRwrri5kOGdGkOlU9WHX) | [Harder](https://open.spotify.com/album/2TGbLlyaXASwBMX1LswYU2) | 6:06 | 2022-12-01 | 2023-02-10 |
-| [haunt me\~](https://open.spotify.com/track/4LPhSuFr2GKN11Mn0ssxYM) | [Corbon Amodio](https://open.spotify.com/artist/7tYRwBffjJ0FiLIkPTCGMQ) | [love me i'm burning](https://open.spotify.com/album/3Hu6LYnFe8okEM8hmkQTXH) | 2:06 | 2023-11-30 |  |
+| [haunt me\~](https://open.spotify.com/track/4LPhSuFr2GKN11Mn0ssxYM) | [Corbon Amodio](https://open.spotify.com/artist/7tYRwBffjJ0FiLIkPTCGMQ) | [love me i'm burning](https://open.spotify.com/album/3Hu6LYnFe8okEM8hmkQTXH) | 2:06 | 2023-11-30 | 2023-12-03 |
 | [Head Start \- Fresh Start](https://open.spotify.com/track/62NHaoO0JcLD0EpD38HYgg) | [Jeremy Loops](https://open.spotify.com/artist/0Dct2Gu0qEbgGRjfaxew8g) | [Head Start \(Fresh Start\)](https://open.spotify.com/album/5HIe6iAa0joluCQmVuajkI) | 3:31 | 2022-12-01 | 2023-03-18 |
 | [Head Up High](https://open.spotify.com/track/6NSsAX4y7tBsRiOCvVNuR8) | [Justin Lee](https://open.spotify.com/artist/5lSVCLx0jJ09fPhHS2fRTQ) | [Head Up High](https://open.spotify.com/album/0qj0dLCx210N6GWD1MfViI) | 4:12 | 2023-09-21 |  |
 | [hearing faces](https://open.spotify.com/track/3aIOgiGUBjEBiVAoaRbEgx) | [aboynamedblu](https://open.spotify.com/artist/4DCRHW4ITYEaA0qmW3PYJj) | [THE RED BUTTON WAS TALKING AGAIN](https://open.spotify.com/album/7zieU55cGtAinDTr3OkPGw) | 3:25 | 2023-09-07 | 2023-12-01 |

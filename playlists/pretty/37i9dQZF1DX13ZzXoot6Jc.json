@@ -1,12 +1,12 @@
 {
   "description": "Country hits that will have you singing every word. Cover: HARDY",
-  "num_followers": 456677,
+  "num_followers": 456713,
   "original_name": "Country Favourites",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZjY3OThjM2IyNjAxYzg0MDllYzZjNjc1NTZlMmE2MWQ0MTE1NmI1",
+  "snapshot_id": "MCw4OTlkMzNhN2IzOTIzZThiNWE1OTA4M2VhZTg4ZmVjM2FiYmQ5N2Qy",
   "tracks": [
     {
       "added_at": "2023-12-01 05:00:00",
@@ -636,9 +636,9 @@
           "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
         }
       ],
-      "duration_ms": 233869,
-      "name": "Burn It Down",
-      "url": "https://open.spotify.com/track/09hVlIVHtEE1nLUv6YGZiW"
+      "duration_ms": 219967,
+      "name": "Handle On You",
+      "url": "https://open.spotify.com/track/4reXo2zg1uhEIpUAacDb9C"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -736,9 +736,9 @@
           "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
         }
       ],
-      "duration_ms": 219967,
-      "name": "Handle On You",
-      "url": "https://open.spotify.com/track/4reXo2zg1uhEIpUAacDb9C"
+      "duration_ms": 233869,
+      "name": "Burn It Down",
+      "url": "https://open.spotify.com/track/09hVlIVHtEE1nLUv6YGZiW"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -927,22 +927,6 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "Lucky",
-        "url": "https://open.spotify.com/album/5DFed53ADZwnPOYuqoZJHK"
-      },
-      "artists": [
-        {
-          "name": "Megan Moroney",
-          "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
-        }
-      ],
-      "duration_ms": 153296,
-      "name": "Traitor Joe",
-      "url": "https://open.spotify.com/track/4EU5ykgudDvqTMhMzTSaAp"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
         "name": "Get Rollin'",
         "url": "https://open.spotify.com/album/5uLm9XqpibzmIaFUz80jLb"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 234848,
       "name": "High Time",
       "url": "https://open.spotify.com/track/2A5Xy5HWeRWvWjvv7ObIFZ"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
+        "name": "Lucky",
+        "url": "https://open.spotify.com/album/5DFed53ADZwnPOYuqoZJHK"
+      },
+      "artists": [
+        {
+          "name": "Megan Moroney",
+          "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
+        }
+      ],
+      "duration_ms": 153296,
+      "name": "Traitor Joe",
+      "url": "https://open.spotify.com/track/4EU5ykgudDvqTMhMzTSaAp"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "TWENTY SOMETHING",
-        "url": "https://open.spotify.com/album/47YHgGmxtAPS3fDmPPX1GG"
-      },
-      "artists": [
-        {
-          "name": "Alana Springsteen",
-          "url": "https://open.spotify.com/artist/4TPT9nwjRvEV49q7f8p4fy"
-        }
-      ],
-      "duration_ms": 189253,
-      "name": "amen",
-      "url": "https://open.spotify.com/track/5Qk9nO6Iat1XGxL04kKP5Y"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
         "name": "The Thing That Wrecks You",
         "url": "https://open.spotify.com/album/0WV6Fl639FaUQIJHTTjuOp"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 220567,
       "name": "The Thing That Wrecks You",
       "url": "https://open.spotify.com/track/4ZT5geWeKg8Ar3IR2Gj22I"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
+        "name": "TWENTY SOMETHING",
+        "url": "https://open.spotify.com/album/47YHgGmxtAPS3fDmPPX1GG"
+      },
+      "artists": [
+        {
+          "name": "Alana Springsteen",
+          "url": "https://open.spotify.com/artist/4TPT9nwjRvEV49q7f8p4fy"
+        }
+      ],
+      "duration_ms": 189253,
+      "name": "amen",
+      "url": "https://open.spotify.com/track/5Qk9nO6Iat1XGxL04kKP5Y"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -1259,6 +1259,22 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
+        "name": "Beautiful Thing",
+        "url": "https://open.spotify.com/album/70cGCG1fpSqwNbO1XRp4OQ"
+      },
+      "artists": [
+        {
+          "name": "Kidd G",
+          "url": "https://open.spotify.com/artist/5edcHuf8pWH3I00WTorajM"
+        }
+      ],
+      "duration_ms": 167333,
+      "name": "Daylight Savings",
+      "url": "https://open.spotify.com/track/5sNgfXPdcRqpF27qjaxZFV"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
         "name": "Product Of (Feat. Lee Brice)",
         "url": "https://open.spotify.com/album/5r9qa8kgZvK916DdSg4MSY"
       },
@@ -1299,22 +1315,6 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "Gravel & Gold",
-        "url": "https://open.spotify.com/album/2atbiuUu1Xm0jLmObSynT4"
-      },
-      "artists": [
-        {
-          "name": "Dierks Bentley",
-          "url": "https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS"
-        }
-      ],
-      "duration_ms": 225533,
-      "name": "Walking Each Other Home",
-      "url": "https://open.spotify.com/track/7Jbd2TWvjvJgBwaFbqJ06n"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
         "name": "If You Show Me Yours",
         "url": "https://open.spotify.com/album/3uHTWnrq4T676BCkrvIDgK"
       },
@@ -1331,18 +1331,18 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "Beautiful Thing",
-        "url": "https://open.spotify.com/album/70cGCG1fpSqwNbO1XRp4OQ"
+        "name": "Gravel & Gold",
+        "url": "https://open.spotify.com/album/2atbiuUu1Xm0jLmObSynT4"
       },
       "artists": [
         {
-          "name": "Kidd G",
-          "url": "https://open.spotify.com/artist/5edcHuf8pWH3I00WTorajM"
+          "name": "Dierks Bentley",
+          "url": "https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS"
         }
       ],
-      "duration_ms": 167333,
-      "name": "Daylight Savings",
-      "url": "https://open.spotify.com/track/5sNgfXPdcRqpF27qjaxZFV"
+      "duration_ms": 225533,
+      "name": "Walking Each Other Home",
+      "url": "https://open.spotify.com/track/7Jbd2TWvjvJgBwaFbqJ06n"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "Champagne",
-        "url": "https://open.spotify.com/album/5Zs6as6dChgeVIYpGopcdE"
-      },
-      "artists": [
-        {
-          "name": "James Barker Band",
-          "url": "https://open.spotify.com/artist/54lUDwCk35ihJuK3yJCqHA"
-        }
-      ],
-      "duration_ms": 209109,
-      "name": "Champagne",
-      "url": "https://open.spotify.com/track/4k6zSLCDhm0pjLAVbLrF5P"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
         "name": "Same Car",
         "url": "https://open.spotify.com/album/759nkzilX3qEZTil0BPm4H"
       },
@@ -1391,6 +1375,22 @@
       "duration_ms": 219960,
       "name": "Same Car",
       "url": "https://open.spotify.com/track/0EMsXbJHyW0217asHoeMhY"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
+        "name": "Champagne",
+        "url": "https://open.spotify.com/album/5Zs6as6dChgeVIYpGopcdE"
+      },
+      "artists": [
+        {
+          "name": "James Barker Band",
+          "url": "https://open.spotify.com/artist/54lUDwCk35ihJuK3yJCqHA"
+        }
+      ],
+      "duration_ms": 209109,
+      "name": "Champagne",
+      "url": "https://open.spotify.com/track/4k6zSLCDhm0pjLAVbLrF5P"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "Wide Open",
-        "url": "https://open.spotify.com/album/3aWShipEiKPgssWlGxFY0x"
-      },
-      "artists": [
-        {
-          "name": "Colbie Caillat",
-          "url": "https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu"
-        }
-      ],
-      "duration_ms": 189368,
-      "name": "Wide Open",
-      "url": "https://open.spotify.com/track/5TUpyqeMd2q1rC2xDHN1JE"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
         "name": "Do This Life",
         "url": "https://open.spotify.com/album/2AGbKNoFBqHgrfKjUOksc2"
       },
@@ -1443,6 +1427,22 @@
       "duration_ms": 182706,
       "name": "Do This Life",
       "url": "https://open.spotify.com/track/20b1ZVJECgqoqGKYZtlYzv"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
+        "name": "Wide Open",
+        "url": "https://open.spotify.com/album/3aWShipEiKPgssWlGxFY0x"
+      },
+      "artists": [
+        {
+          "name": "Colbie Caillat",
+          "url": "https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu"
+        }
+      ],
+      "duration_ms": 189368,
+      "name": "Wide Open",
+      "url": "https://open.spotify.com/track/5TUpyqeMd2q1rC2xDHN1JE"
     },
     {
       "added_at": "2023-12-01 05:00:00",

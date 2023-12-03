@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHyhanaNMoy.md) - [plain]
 
 > Motion, fissa & good vibes! Cover: Dior & Chavanté
 
-[Spotify](https://open.spotify.com/user/spotify) - 320,236 likes - 67 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 320,255 likes - 67 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,4 +76,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHyhanaNMoy.md) - [plain]
 | 66 | [Tranquilo](https://open.spotify.com/track/31BsqR4z06NKoMnsvsMt5z) | [Frsh](https://open.spotify.com/artist/19CxlXaWOlZh2pqZrJlHxN), [Fmg](https://open.spotify.com/artist/2cZwVNd4sK0CCJ6BqY7U9H) | [Tranquilo](https://open.spotify.com/album/1fhhzc1jjmeK0n4Nb5I7wL) | 2:56 |
 | 67 | [Chérie](https://open.spotify.com/track/0GTO1m0ZbLNvsl6EAMXpj7) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg) | [DNK \(Bonus Track Edition\)](https://open.spotify.com/album/0Zu0z9j0N8J8DXCEZejNRf) | 3:08 |
 
-Snapshot ID: `MCxhZmE0OGQ0OGMxNGFlZDM0ZjY3NWE1NzYwN2IyNzM3NDIzN2VlYTBk`
+Snapshot ID: `MCxmNWQyNjVkOTllOWYwYzg1MzEyOGQ4MTkxZDQyOTU0NjZjZDM2MDQz`

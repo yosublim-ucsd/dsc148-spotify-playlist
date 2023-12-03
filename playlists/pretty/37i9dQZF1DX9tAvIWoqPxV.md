@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9tAvIWoqPxV.md) - [plain]
 
 > Retro favorites from 2023\. Cover: Teddy Swims
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,639 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,844 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9tAvIWoqPxV.md) - [plain]
 | 49 | [Do Re Mi](https://open.spotify.com/track/2EvyQsmsVGfDh2sEG8Myhy) | [Trousdale](https://open.spotify.com/artist/26DvqLYszG0oIOeelTF5kE) | [Do Re Mi](https://open.spotify.com/album/6H8u5r6t7U24FN1qFnPTfq) | 2:41 |
 | 50 | [Dancing Slow](https://open.spotify.com/track/1en09AnmYzVyIp4su1cnGK) | [Jewel](https://open.spotify.com/artist/6FbDoZnMBTdhhhLuJBOOqP), [Train](https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A) | [Freewheelin' Woman](https://open.spotify.com/album/2evFHBABBhgV5OtDqHPomo) | 3:20 |
 
-Snapshot ID: `MCxiOWU5MzRjMzY3ZGY1MGZkNDIyNmQyZTQ4MDI5YTY0MjY0ZTgwNzNh`
+Snapshot ID: `MCxkMTlhOTIzM2YxOGI3MDYxNmEwODFiMDc5YmQzZTUxMTE5OTFkYzIx`

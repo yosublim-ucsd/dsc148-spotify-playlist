@@ -115,6 +115,28 @@
     },
     {
       "album": {
+        "name": "Beginning (Totally Enormous Extinct Dinosaurs Remix)",
+        "url": "https://open.spotify.com/album/7DcdXnMiadzyxSlQnLIsCo"
+      },
+      "artists": [
+        {
+          "name": "LA Priest",
+          "url": "https://open.spotify.com/artist/2JYMUWD8r1jFFjD1V3WcCX"
+        },
+        {
+          "name": "Totally Enormous Extinct Dinosaurs",
+          "url": "https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN"
+        }
+      ],
+      "date_added": "2023-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 350851,
+      "name": "Beginning - Totally Enormous Extinct Dinosaurs Remix",
+      "url": "https://open.spotify.com/track/6DKILAX03B9oLWDaLkw1Vp"
+    },
+    {
+      "album": {
         "name": "Beige 70 (Domenique Dumont Bilingual Remix)",
         "url": "https://open.spotify.com/album/2cQynjKHiS66OzKPm7zUox"
       },
@@ -432,7 +454,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-03",
       "duration_ms": 271112,
       "name": "CooCool",
       "url": "https://open.spotify.com/track/6NRNXenSNtuo5vVkuAq7EN"

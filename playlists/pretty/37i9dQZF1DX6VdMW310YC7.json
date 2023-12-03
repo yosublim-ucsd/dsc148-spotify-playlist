@@ -1,12 +1,12 @@
 {
   "description": "Softer kinda <a href=\"spotify:genre:edm_dance\">dance</a>.",
-  "num_followers": 3693233,
+  "num_followers": 3693532,
   "original_name": "Chill Tracks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NzhiY2RlOWNhNGU2ZWNkZmNlNmE5NTkyM2M4NmU2NjgxZTE5ODJm",
+  "snapshot_id": "MCw1ZTUxMDNjM2NhYzRmNjMwOTUzYzE1YzkwMTE4Y2NiNjEyZDNjMWNi",
   "tracks": [
     {
       "added_at": "2023-12-01 05:00:00",
@@ -243,18 +243,22 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "I Do",
-        "url": "https://open.spotify.com/album/55dNSUfwBV8DMySlCpFtn1"
+        "name": "Blood Remixed",
+        "url": "https://open.spotify.com/album/1AvkRISSdzC7cq7eLoS5w1"
       },
       "artists": [
         {
-          "name": "PL\u00dcM",
-          "url": "https://open.spotify.com/artist/4NTnwCK3RqTBH7TFIQrkfL"
+          "name": "Rhye",
+          "url": "https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN"
+        },
+        {
+          "name": "Poolside",
+          "url": "https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c"
         }
       ],
-      "duration_ms": 145000,
-      "name": "I Do",
-      "url": "https://open.spotify.com/track/4AfGJPK64DlMAy86TtTVUa"
+      "duration_ms": 310133,
+      "name": "Feel Your Weight - Poolside Remix",
+      "url": "https://open.spotify.com/track/1hgX0ZmmP7IRRjUFCIBrnQ"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -283,6 +287,22 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
+        "name": "I Do",
+        "url": "https://open.spotify.com/album/55dNSUfwBV8DMySlCpFtn1"
+      },
+      "artists": [
+        {
+          "name": "PL\u00dcM",
+          "url": "https://open.spotify.com/artist/4NTnwCK3RqTBH7TFIQrkfL"
+        }
+      ],
+      "duration_ms": 145000,
+      "name": "I Do",
+      "url": "https://open.spotify.com/track/4AfGJPK64DlMAy86TtTVUa"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
         "name": "Demons",
         "url": "https://open.spotify.com/album/2kXwtCv9wl1OzLU1k2b3XZ"
       },
@@ -303,26 +323,6 @@
       "duration_ms": 243176,
       "name": "Demons - Massane Remix",
       "url": "https://open.spotify.com/track/0WGelFYfITJmfOnNyhRUq7"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
-        "name": "Blood Remixed",
-        "url": "https://open.spotify.com/album/1AvkRISSdzC7cq7eLoS5w1"
-      },
-      "artists": [
-        {
-          "name": "Rhye",
-          "url": "https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN"
-        },
-        {
-          "name": "Poolside",
-          "url": "https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c"
-        }
-      ],
-      "duration_ms": 310133,
-      "name": "Feel Your Weight - Poolside Remix",
-      "url": "https://open.spotify.com/track/1hgX0ZmmP7IRRjUFCIBrnQ"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -643,22 +643,6 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "Spring Embers",
-        "url": "https://open.spotify.com/album/13GMW4eLsmDiDr0BJihOxU"
-      },
-      "artists": [
-        {
-          "name": "Nora En Pure",
-          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
-        }
-      ],
-      "duration_ms": 212459,
-      "name": "Spring Embers",
-      "url": "https://open.spotify.com/track/2slr1WHisMcjKMEz0RJ8u2"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
         "name": "Rain",
         "url": "https://open.spotify.com/album/0iFKjKFTY1kD7SSVmNZDin"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 152298,
       "name": "Rain",
       "url": "https://open.spotify.com/track/49frwp277WHBgpwBHeyOSO"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
+        "name": "Spring Embers",
+        "url": "https://open.spotify.com/album/13GMW4eLsmDiDr0BJihOxU"
+      },
+      "artists": [
+        {
+          "name": "Nora En Pure",
+          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
+        }
+      ],
+      "duration_ms": 212459,
+      "name": "Spring Embers",
+      "url": "https://open.spotify.com/track/2slr1WHisMcjKMEz0RJ8u2"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "The Chase (Edit)",
-        "url": "https://open.spotify.com/album/56iwbPSWGAZk0V4ureAoBZ"
-      },
-      "artists": [
-        {
-          "name": "Emmit Fenn",
-          "url": "https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6"
-        }
-      ],
-      "duration_ms": 170721,
-      "name": "The Chase (Edit)",
-      "url": "https://open.spotify.com/track/1vQ4ip1vF9VKRiBQjZ79n9"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
         "name": "Just",
         "url": "https://open.spotify.com/album/0vYOAJM94XCdETxlSwFi7Y"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 372000,
       "name": "Just",
       "url": "https://open.spotify.com/track/2u9o4jlbtzqdy2bsBX9FYK"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
+        "name": "The Chase (Edit)",
+        "url": "https://open.spotify.com/album/56iwbPSWGAZk0V4ureAoBZ"
+      },
+      "artists": [
+        {
+          "name": "Emmit Fenn",
+          "url": "https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6"
+        }
+      ],
+      "duration_ms": 170721,
+      "name": "The Chase (Edit)",
+      "url": "https://open.spotify.com/track/1vQ4ip1vF9VKRiBQjZ79n9"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -1607,6 +1607,22 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
+        "name": "Anywhere (Road Trippin')",
+        "url": "https://open.spotify.com/album/40xJi5GEwSANMciM0RuwDA"
+      },
+      "artists": [
+        {
+          "name": "anam\u0113",
+          "url": "https://open.spotify.com/artist/3sZvCZHU2V2idOYyUl3fBi"
+        }
+      ],
+      "duration_ms": 274838,
+      "name": "Anywhere (Road Trippin')",
+      "url": "https://open.spotify.com/track/4ecUWoInOsa57MZUzmam3h"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
         "name": "Back to You (Amtrac Remix)",
         "url": "https://open.spotify.com/album/7Eczcaoa9Snixo72qACVB9"
       },
@@ -1627,34 +1643,26 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "Anywhere (Road Trippin')",
-        "url": "https://open.spotify.com/album/40xJi5GEwSANMciM0RuwDA"
+        "name": "Company",
+        "url": "https://open.spotify.com/album/0Q8UbgnUCvUdvbGjMnYKkP"
       },
       "artists": [
         {
-          "name": "anam\u0113",
-          "url": "https://open.spotify.com/artist/3sZvCZHU2V2idOYyUl3fBi"
-        }
-      ],
-      "duration_ms": 274838,
-      "name": "Anywhere (Road Trippin')",
-      "url": "https://open.spotify.com/track/4ecUWoInOsa57MZUzmam3h"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
-        "name": "Just Like That",
-        "url": "https://open.spotify.com/album/6zrrB3fJ8DJsPfRUalHHlt"
-      },
-      "artists": [
+          "name": "Lynnic",
+          "url": "https://open.spotify.com/artist/1jpObIFmNOGfBc93WowfkT"
+        },
         {
-          "name": "NORRA",
-          "url": "https://open.spotify.com/artist/41TOmzyp8cryPs7PXHKdb7"
+          "name": "ItsArius",
+          "url": "https://open.spotify.com/artist/6ObJnVTLETeHSeKhYreB27"
+        },
+        {
+          "name": "Thandi",
+          "url": "https://open.spotify.com/artist/7b48KVEzrlVcLLLBAGHBuj"
         }
       ],
-      "duration_ms": 136271,
-      "name": "Just Like That",
-      "url": "https://open.spotify.com/track/6WKBGB00x5X08PwFNBJR6O"
+      "duration_ms": 162338,
+      "name": "Company",
+      "url": "https://open.spotify.com/track/1XvOGEMfHaLZu5opqKqtEz"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -1675,6 +1683,22 @@
       "duration_ms": 275958,
       "name": "Breaking Apart",
       "url": "https://open.spotify.com/track/6QSgJaGAs7EhyCXTYehkZd"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
+        "name": "Just Like That",
+        "url": "https://open.spotify.com/album/6zrrB3fJ8DJsPfRUalHHlt"
+      },
+      "artists": [
+        {
+          "name": "NORRA",
+          "url": "https://open.spotify.com/artist/41TOmzyp8cryPs7PXHKdb7"
+        }
+      ],
+      "duration_ms": 136271,
+      "name": "Just Like That",
+      "url": "https://open.spotify.com/track/6WKBGB00x5X08PwFNBJR6O"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -1727,30 +1751,6 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "Company",
-        "url": "https://open.spotify.com/album/0Q8UbgnUCvUdvbGjMnYKkP"
-      },
-      "artists": [
-        {
-          "name": "Lynnic",
-          "url": "https://open.spotify.com/artist/1jpObIFmNOGfBc93WowfkT"
-        },
-        {
-          "name": "ItsArius",
-          "url": "https://open.spotify.com/artist/6ObJnVTLETeHSeKhYreB27"
-        },
-        {
-          "name": "Thandi",
-          "url": "https://open.spotify.com/artist/7b48KVEzrlVcLLLBAGHBuj"
-        }
-      ],
-      "duration_ms": 162338,
-      "name": "Company",
-      "url": "https://open.spotify.com/track/1XvOGEMfHaLZu5opqKqtEz"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
         "name": "Woman",
         "url": "https://open.spotify.com/album/1xV4Z9H7ZUvnrf526Udsw2"
       },
@@ -1799,6 +1799,26 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
+        "name": "My Everything",
+        "url": "https://open.spotify.com/album/4tcOPBWRItn1GZFefCAOQd"
+      },
+      "artists": [
+        {
+          "name": "Nico de Andrea",
+          "url": "https://open.spotify.com/artist/3h1aCZ3gZ4zIWxnsxcBrPD"
+        },
+        {
+          "name": "Darla Jade",
+          "url": "https://open.spotify.com/artist/615ZycClQL8KQ8qzZiuP8T"
+        }
+      ],
+      "duration_ms": 228011,
+      "name": "My Everything",
+      "url": "https://open.spotify.com/track/75r1wc5lI6XCxGVBRSJ5lY"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
         "name": "Friends",
         "url": "https://open.spotify.com/album/7merJnzS4bvQD6Nv7PaA39"
       },
@@ -1831,26 +1851,6 @@
       "duration_ms": 271025,
       "name": "Making Time",
       "url": "https://open.spotify.com/track/3hYVvOf0m67UxBdG57vgd5"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
-        "name": "My Everything",
-        "url": "https://open.spotify.com/album/4tcOPBWRItn1GZFefCAOQd"
-      },
-      "artists": [
-        {
-          "name": "Nico de Andrea",
-          "url": "https://open.spotify.com/artist/3h1aCZ3gZ4zIWxnsxcBrPD"
-        },
-        {
-          "name": "Darla Jade",
-          "url": "https://open.spotify.com/artist/615ZycClQL8KQ8qzZiuP8T"
-        }
-      ],
-      "duration_ms": 228011,
-      "name": "My Everything",
-      "url": "https://open.spotify.com/track/75r1wc5lI6XCxGVBRSJ5lY"
     },
     {
       "added_at": "2023-12-01 05:00:00",

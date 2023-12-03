@@ -1666,10 +1666,28 @@
       ],
       "date_added": "2023-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-03",
       "duration_ms": 209333,
       "name": "Mix",
       "url": "https://open.spotify.com/track/0ObVtzwc7YEuMjDQSTQyCW"
+    },
+    {
+      "album": {
+        "name": "Candle",
+        "url": "https://open.spotify.com/album/1Dy7aa6yDhK1X0RdrVnHhq"
+      },
+      "artists": [
+        {
+          "name": "\u30de\u30eb\u30b7\u30a3",
+          "url": "https://open.spotify.com/artist/7oQ6zxSp4eQjvVkk9rGIDV"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210920,
+      "name": "Mix",
+      "url": "https://open.spotify.com/track/4VroMacNKHZjmi2OruZzmO"
     },
     {
       "album": {

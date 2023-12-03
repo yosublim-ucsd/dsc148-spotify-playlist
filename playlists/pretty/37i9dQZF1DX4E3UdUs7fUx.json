@@ -1,12 +1,12 @@
 {
   "description": "Unwind and let the afternoon unfold.",
-  "num_followers": 2282784,
+  "num_followers": 2282725,
   "original_name": "Afternoon Acoustic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMTAzODBlMjIzZGZhODM1MzIyMDNmYTkxZTcyYmFmMWY1YzllOTgw",
+  "snapshot_id": "MCwxMDYzNTRmMjUzNGM3NDE3ZGFlNmY0YmIyNDlmMzU0MTcxMmY2NTM3",
   "tracks": [
     {
       "added_at": "2023-06-30 04:00:00",
@@ -335,6 +335,22 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
+        "name": "Crack-Up",
+        "url": "https://open.spotify.com/album/0xtTojp4zfartyGtbFKN3v"
+      },
+      "artists": [
+        {
+          "name": "Fleet Foxes",
+          "url": "https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb"
+        }
+      ],
+      "duration_ms": 210506,
+      "name": "If You Need To, Keep Time on Me",
+      "url": "https://open.spotify.com/track/7d0XkI4iJ32nxeFAHFXbLQ"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
         "name": "Wouldn't Come Back",
         "url": "https://open.spotify.com/album/2X0Oi2vkyzqYWPy2dSdim1"
       },
@@ -351,18 +367,18 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "Crack-Up",
-        "url": "https://open.spotify.com/album/0xtTojp4zfartyGtbFKN3v"
+        "name": "Blindfaller",
+        "url": "https://open.spotify.com/album/3CwgFOEB6g9vfADfAcYaIL"
       },
       "artists": [
         {
-          "name": "Fleet Foxes",
-          "url": "https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb"
+          "name": "Watchhouse",
+          "url": "https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP"
         }
       ],
-      "duration_ms": 210506,
-      "name": "If You Need To, Keep Time on Me",
-      "url": "https://open.spotify.com/track/7d0XkI4iJ32nxeFAHFXbLQ"
+      "duration_ms": 329893,
+      "name": "Wildfire",
+      "url": "https://open.spotify.com/track/0EIS2zaB3aQGtKOvzrodOU"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -395,22 +411,6 @@
       "duration_ms": 297120,
       "name": "All My Days",
       "url": "https://open.spotify.com/track/3RPerpXuNznZbCuWYEBz5i"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
-        "name": "Blindfaller",
-        "url": "https://open.spotify.com/album/3CwgFOEB6g9vfADfAcYaIL"
-      },
-      "artists": [
-        {
-          "name": "Watchhouse",
-          "url": "https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP"
-        }
-      ],
-      "duration_ms": 329893,
-      "name": "Wildfire",
-      "url": "https://open.spotify.com/track/0EIS2zaB3aQGtKOvzrodOU"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "Beulah",
-        "url": "https://open.spotify.com/album/21hpzo9hs56n3Rh8KvslmI"
-      },
-      "artists": [
-        {
-          "name": "John Paul White",
-          "url": "https://open.spotify.com/artist/1yDI9pWnlrJmi9kZn3gkCb"
-        }
-      ],
-      "duration_ms": 243012,
-      "name": "Hate The Way You Love Me",
-      "url": "https://open.spotify.com/track/2ICMOgpboUzD1EcxkUS9qz"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/0ePAbfGZqHBfhlQfX8ioGz"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 307172,
       "name": "All the Pretty Girls - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/2Sqv9Ne6ibOZsKxY7o0t6t"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
+        "name": "Beulah",
+        "url": "https://open.spotify.com/album/21hpzo9hs56n3Rh8KvslmI"
+      },
+      "artists": [
+        {
+          "name": "John Paul White",
+          "url": "https://open.spotify.com/artist/1yDI9pWnlrJmi9kZn3gkCb"
+        }
+      ],
+      "duration_ms": 243012,
+      "name": "Hate The Way You Love Me",
+      "url": "https://open.spotify.com/track/2ICMOgpboUzD1EcxkUS9qz"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "The Closest Thing to Home",
-        "url": "https://open.spotify.com/album/5n8ppNRmmYvkFGnQZPHdNc"
-      },
-      "artists": [
-        {
-          "name": "Ira Wolf",
-          "url": "https://open.spotify.com/artist/5jq01ts8cBQWwVZOpMax6s"
-        }
-      ],
-      "duration_ms": 241240,
-      "name": "Great Divide",
-      "url": "https://open.spotify.com/track/5zuelgle0Aqxyc9EooIPVl"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
         "name": "Eyes Wide Open (From \"North Star\")",
         "url": "https://open.spotify.com/album/2YYpuK6nOd6KJap8X7vzHe"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 195840,
       "name": "Eyes Wide Open - From \"North Star\"",
       "url": "https://open.spotify.com/track/1xkFLx2HwziUgjXrC0Jhw6"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
+        "name": "The Closest Thing to Home",
+        "url": "https://open.spotify.com/album/5n8ppNRmmYvkFGnQZPHdNc"
+      },
+      "artists": [
+        {
+          "name": "Ira Wolf",
+          "url": "https://open.spotify.com/artist/5jq01ts8cBQWwVZOpMax6s"
+        }
+      ],
+      "duration_ms": 241240,
+      "name": "Great Divide",
+      "url": "https://open.spotify.com/track/5zuelgle0Aqxyc9EooIPVl"
     },
     {
       "added_at": "2023-06-30 04:00:00",

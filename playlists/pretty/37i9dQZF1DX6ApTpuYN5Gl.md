@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ApTpuYN5Gl.md) - [plain]
 
 > sad beats\. deep vibes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,845 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,030 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ApTpuYN5Gl.md) - [plain]
 | 33 | [Original Sin](https://open.spotify.com/track/0fp6PDlnCkmdE0F3s0tfr6) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q) | [Original Sin](https://open.spotify.com/album/4DB6Xuvp4AlrNRNGRdhdEW) | 2:51 |
 | 34 | [Dancing Thing](https://open.spotify.com/track/4M2pTJYh02HGpH3KqkGvoP) | [VisionV](https://open.spotify.com/artist/5mOO1KIfKb5HY8ieKjG9Qf) | [Dancing Thing](https://open.spotify.com/album/3Lc3AX7Ta7WsefbEAFplQr) | 3:04 |
 | 35 | [GLY](https://open.spotify.com/track/6yGNvSOyCZvNOCtHs3hfrH) | [Catching Flies](https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ) | [GLY](https://open.spotify.com/album/3G2e7Ruldtt69hWO9ArJDB) | 3:40 |
-| 36 | [Talk It Over](https://open.spotify.com/track/4HRWIVz78yFcWNbZSKzDYY) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64), [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts) | [Talk It Over](https://open.spotify.com/album/5mtqqWz5M3wJTszXfVvKkY) | 3:29 |
-| 37 | [Alive](https://open.spotify.com/track/5bFuHlXKw66Uu2cHKn5bf8) | [Zeds Dead](https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh), [MKLA](https://open.spotify.com/artist/57Vnemieu10x71jR2UWc4o) | [Alive](https://open.spotify.com/album/424AkXXKYZsnsoiBrW64oh) | 3:17 |
+| 36 | [Alive](https://open.spotify.com/track/5bFuHlXKw66Uu2cHKn5bf8) | [Zeds Dead](https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh), [MKLA](https://open.spotify.com/artist/57Vnemieu10x71jR2UWc4o) | [Alive](https://open.spotify.com/album/424AkXXKYZsnsoiBrW64oh) | 3:17 |
+| 37 | [Talk It Over](https://open.spotify.com/track/4HRWIVz78yFcWNbZSKzDYY) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64), [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts) | [Talk It Over](https://open.spotify.com/album/5mtqqWz5M3wJTszXfVvKkY) | 3:29 |
 | 38 | [Dive](https://open.spotify.com/track/2lRvisx71Qh4dI3nhHN7gf) | [Taiki Nulight](https://open.spotify.com/artist/4QWmN97HRZya55JvxN3I5a), [Rue More](https://open.spotify.com/artist/26bowrYXXcMtHgx8g7sPKa) | [Dive](https://open.spotify.com/album/6HM2HWm4h2WymgqHEtDNgU) | 3:17 |
 | 39 | [Love Will Tear Us Apart \- Tensnake Remix](https://open.spotify.com/track/51NcW3cfbdI0FLsD8dgXAq) | [R Plus](https://open.spotify.com/artist/0lnAZ68xKGysVy084bTQmh), [Amelia Fox](https://open.spotify.com/artist/3I4pqS75HcWouwU39LjRdM), [Faithless](https://open.spotify.com/artist/5T4UKHhr4HGIC0VzdZQtAE), [Tensnake](https://open.spotify.com/artist/75nC6MXUalYZSOd7OfNkwq) | [Love Will Tear Us Apart \(Tensnake Remix\)](https://open.spotify.com/album/1rp9zBathyKcYfnh34hunq) | 3:40 |
 | 40 | [Afterlife](https://open.spotify.com/track/3JuLu3PF1EyVBK2gI82Oxd) | [Nu Aspect](https://open.spotify.com/artist/4NhRml5ZOfNaYJAHUE0XwT), [JEWELS](https://open.spotify.com/artist/4C9H5Lat1NEZasl8MQHvtB), [MAGNUS](https://open.spotify.com/artist/4pOglqMAavrWFo20ORRx5w) | [Afterlife](https://open.spotify.com/album/4B1YBavH7Qp0X6mAS3L9xO) | 3:12 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ApTpuYN5Gl.md) - [plain]
 | 49 | [Howl](https://open.spotify.com/track/1PYUkeWwnAckQwOShEOyQy) | [SOMMA](https://open.spotify.com/artist/656ibQgcoUQrUPdhQWRcI3), [SHELLS](https://open.spotify.com/artist/1ZwuShKjJItDJez0aDCsxN) | [Howl](https://open.spotify.com/album/3N8N2qIQa4UhkjW8SrCcoQ) | 3:12 |
 | 50 | [People Help the People](https://open.spotify.com/track/3PuM4Odj9DllsnXW617K12) | [Madism](https://open.spotify.com/artist/5UUdxfBMwm0hLlLgnZtBFv), [Jaden Bojsen](https://open.spotify.com/artist/1eUSEIGd3eCEUOeLFgJACg), [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [People Help the People](https://open.spotify.com/album/4ybU5JHAuP4zkJ2PQ93S9k) | 2:37 |
 
-Snapshot ID: `MCw1MDc3YzQ1OGU2MjgyYTNiMTljYjMzZWM5NDViNjMyYWIwZDkzYjc0`
+Snapshot ID: `MCxjYmUwMjQ1ZjFjZWJlYzJmMTY5NWFjODJkMGNkODcwNDMyMGEyZWUz`

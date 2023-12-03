@@ -1,12 +1,12 @@
 {
   "description": "Folk tan dulce como la miel. Valeria Jasso en portada.",
-  "num_followers": 97483,
+  "num_followers": 97502,
   "original_name": "madera y miel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzYmQxYmIzZjIzZjU0NDc5NTZlZjhjYTQ2ODc5MGRhMTViN2VkOGJi",
+  "snapshot_id": "MCw3OTc4YWQwNGFkNzg3M2RmYmQ3ZDQ3MTFjNjc5YWMzOTU1OWM1ZGVk",
   "tracks": [
     {
       "added_at": "2023-10-21 01:16:37",
@@ -331,6 +331,22 @@
     {
       "added_at": "2023-10-21 01:16:37",
       "album": {
+        "name": "Terraformar",
+        "url": "https://open.spotify.com/album/3CT4nIVAbLmPqCK3LtFMzK"
+      },
+      "artists": [
+        {
+          "name": "El David",
+          "url": "https://open.spotify.com/artist/61h5RLs6eo1eapzuDzoA5b"
+        }
+      ],
+      "duration_ms": 140929,
+      "name": "Terraformar",
+      "url": "https://open.spotify.com/track/4ZDdMGTlSgm7ATgbx4pZlP"
+    },
+    {
+      "added_at": "2023-10-21 01:16:37",
+      "album": {
         "name": "ZAFIRO (feat. Pablo Hurtado)",
         "url": "https://open.spotify.com/album/6QhFGkdPQHDgUmD5g7dMxJ"
       },
@@ -347,22 +363,6 @@
       "duration_ms": 233625,
       "name": "ZAFIRO (feat. Pablo Hurtado)",
       "url": "https://open.spotify.com/track/4ExKTOgyWHR60KXwYprRf0"
-    },
-    {
-      "added_at": "2023-10-21 01:16:37",
-      "album": {
-        "name": "Terraformar",
-        "url": "https://open.spotify.com/album/3CT4nIVAbLmPqCK3LtFMzK"
-      },
-      "artists": [
-        {
-          "name": "El David",
-          "url": "https://open.spotify.com/artist/61h5RLs6eo1eapzuDzoA5b"
-        }
-      ],
-      "duration_ms": 140929,
-      "name": "Terraformar",
-      "url": "https://open.spotify.com/track/4ZDdMGTlSgm7ATgbx4pZlP"
     },
     {
       "added_at": "2023-10-21 01:16:37",
@@ -671,26 +671,6 @@
     {
       "added_at": "2023-10-21 01:16:37",
       "album": {
-        "name": "azul",
-        "url": "https://open.spotify.com/album/4OapkPqaM7mbksJL8WjinK"
-      },
-      "artists": [
-        {
-          "name": "Marco Mares",
-          "url": "https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ"
-        },
-        {
-          "name": "Vacaci\u00f3n",
-          "url": "https://open.spotify.com/artist/0VDRX95OX96cR7q15oaXgd"
-        }
-      ],
-      "duration_ms": 165200,
-      "name": "azul",
-      "url": "https://open.spotify.com/track/0KqWGI9OozmFKkHAIRdQ27"
-    },
-    {
-      "added_at": "2023-10-21 01:16:37",
-      "album": {
         "name": "Byebye Sayonara, Nunca Sabr\u00e1s Que Esto Fue para Ti",
         "url": "https://open.spotify.com/album/5Uv6SEehbntf84qXBZyT56"
       },
@@ -707,6 +687,26 @@
       "duration_ms": 231275,
       "name": "Nunca Te Olvido",
       "url": "https://open.spotify.com/track/3XXZerYu2j34Z7eUh56F6K"
+    },
+    {
+      "added_at": "2023-10-21 01:16:37",
+      "album": {
+        "name": "azul",
+        "url": "https://open.spotify.com/album/4OapkPqaM7mbksJL8WjinK"
+      },
+      "artists": [
+        {
+          "name": "Marco Mares",
+          "url": "https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ"
+        },
+        {
+          "name": "Vacaci\u00f3n",
+          "url": "https://open.spotify.com/artist/0VDRX95OX96cR7q15oaXgd"
+        }
+      ],
+      "duration_ms": 165200,
+      "name": "azul",
+      "url": "https://open.spotify.com/track/0KqWGI9OozmFKkHAIRdQ27"
     },
     {
       "added_at": "2023-10-21 01:16:37",
@@ -779,22 +779,6 @@
     {
       "added_at": "2023-10-21 01:16:37",
       "album": {
-        "name": "Loza",
-        "url": "https://open.spotify.com/album/5RLqqJGNdYJGp9pcHk0oGt"
-      },
-      "artists": [
-        {
-          "name": "Ni\u00f1a Tormenta",
-          "url": "https://open.spotify.com/artist/0KJEHAoNtPaopqOHD6UIkY"
-        }
-      ],
-      "duration_ms": 267958,
-      "name": "Que Entre el Fr\u00edo",
-      "url": "https://open.spotify.com/track/4zyF3KSeHYG0ZDEbA4NyaO"
-    },
-    {
-      "added_at": "2023-10-21 01:16:37",
-      "album": {
         "name": "ojal\u00e1 </3",
         "url": "https://open.spotify.com/album/0dZbJuwWFwFqXSq6BC1xes"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 171290,
       "name": "ojal\u00e1 </3",
       "url": "https://open.spotify.com/track/2Gf3SCoQqgRbxUdjsP3IP4"
+    },
+    {
+      "added_at": "2023-10-21 01:16:37",
+      "album": {
+        "name": "Loza",
+        "url": "https://open.spotify.com/album/5RLqqJGNdYJGp9pcHk0oGt"
+      },
+      "artists": [
+        {
+          "name": "Ni\u00f1a Tormenta",
+          "url": "https://open.spotify.com/artist/0KJEHAoNtPaopqOHD6UIkY"
+        }
+      ],
+      "duration_ms": 267958,
+      "name": "Que Entre el Fr\u00edo",
+      "url": "https://open.spotify.com/track/4zyF3KSeHYG0ZDEbA4NyaO"
     },
     {
       "added_at": "2023-10-21 01:16:37",
@@ -887,22 +887,6 @@
     {
       "added_at": "2023-10-21 01:16:37",
       "album": {
-        "name": "contigo va a estar bien",
-        "url": "https://open.spotify.com/album/50fd7WdvrpQbSqiUqndCr9"
-      },
-      "artists": [
-        {
-          "name": "Arroba Nat",
-          "url": "https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4"
-        }
-      ],
-      "duration_ms": 185889,
-      "name": "Contigo Va a Estar Bien",
-      "url": "https://open.spotify.com/track/7DiCHaaxbePL2uUa5pNoX1"
-    },
-    {
-      "added_at": "2023-10-21 01:16:37",
-      "album": {
         "name": "Bonita",
         "url": "https://open.spotify.com/album/4ZDmqaDuuRIRKG8e05LzuT"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 174720,
       "name": "Bonita",
       "url": "https://open.spotify.com/track/3Jtl7p1Vs9p7R3Azwpql31"
+    },
+    {
+      "added_at": "2023-10-21 01:16:37",
+      "album": {
+        "name": "contigo va a estar bien",
+        "url": "https://open.spotify.com/album/50fd7WdvrpQbSqiUqndCr9"
+      },
+      "artists": [
+        {
+          "name": "Arroba Nat",
+          "url": "https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4"
+        }
+      ],
+      "duration_ms": 185889,
+      "name": "Contigo Va a Estar Bien",
+      "url": "https://open.spotify.com/track/7DiCHaaxbePL2uUa5pNoX1"
     },
     {
       "added_at": "2023-10-21 01:16:37",
@@ -1107,18 +1107,18 @@
     {
       "added_at": "2023-10-21 01:16:37",
       "album": {
-        "name": "Tab\u00fa",
-        "url": "https://open.spotify.com/album/5TEkVvvh3W9gTvtcgwmdvx"
+        "name": "Boleros que me dict\u00f3 el gallo",
+        "url": "https://open.spotify.com/album/5ecBNG2qHClZ2YdfbBfisX"
       },
       "artists": [
         {
-          "name": "Me Dicen Jos",
-          "url": "https://open.spotify.com/artist/36HdCwthOIRbl977xy0ymV"
+          "name": "Dali Mata",
+          "url": "https://open.spotify.com/artist/5UeFBoZ5aFWt6MtINvwwxL"
         }
       ],
-      "duration_ms": 210030,
-      "name": "Tab\u00fa",
-      "url": "https://open.spotify.com/track/2pLkuaMACGAuRvuu159qwB"
+      "duration_ms": 255542,
+      "name": "La Lista",
+      "url": "https://open.spotify.com/track/1cZPSSzSWzdwBv6ZuvCcVi"
     },
     {
       "added_at": "2023-10-21 01:16:37",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2023-10-21 01:16:37",
       "album": {
-        "name": "Boleros que me dict\u00f3 el gallo",
-        "url": "https://open.spotify.com/album/5ecBNG2qHClZ2YdfbBfisX"
-      },
-      "artists": [
-        {
-          "name": "Dali Mata",
-          "url": "https://open.spotify.com/artist/5UeFBoZ5aFWt6MtINvwwxL"
-        }
-      ],
-      "duration_ms": 255542,
-      "name": "La Lista",
-      "url": "https://open.spotify.com/track/1cZPSSzSWzdwBv6ZuvCcVi"
-    },
-    {
-      "added_at": "2023-10-21 01:16:37",
-      "album": {
         "name": "Amanecer",
         "url": "https://open.spotify.com/album/5XX0iRSDLzElMVY2EcDThW"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 245187,
       "name": "Amanecer",
       "url": "https://open.spotify.com/track/5TQwSAq0BAU9DWpKmHmI9F"
+    },
+    {
+      "added_at": "2023-10-21 01:16:37",
+      "album": {
+        "name": "Tab\u00fa",
+        "url": "https://open.spotify.com/album/5TEkVvvh3W9gTvtcgwmdvx"
+      },
+      "artists": [
+        {
+          "name": "Me Dicen Jos",
+          "url": "https://open.spotify.com/artist/36HdCwthOIRbl977xy0ymV"
+        }
+      ],
+      "duration_ms": 210030,
+      "name": "Tab\u00fa",
+      "url": "https://open.spotify.com/track/2pLkuaMACGAuRvuu159qwB"
     },
     {
       "added_at": "2023-10-21 01:16:37",
@@ -1203,6 +1203,22 @@
       "duration_ms": 207784,
       "name": "A Simple Vista",
       "url": "https://open.spotify.com/track/59WBdqea9FTzB09z4vhhl1"
+    },
+    {
+      "added_at": "2023-10-21 01:16:37",
+      "album": {
+        "name": "Bolero Surrealista",
+        "url": "https://open.spotify.com/album/6kZcXw3tT2Kbj9rqZsh83a"
+      },
+      "artists": [
+        {
+          "name": "Dali Mata",
+          "url": "https://open.spotify.com/artist/5UeFBoZ5aFWt6MtINvwwxL"
+        }
+      ],
+      "duration_ms": 234500,
+      "name": "Bolero Surrealista",
+      "url": "https://open.spotify.com/track/0axqkZNASfnYOI3abp06dT"
     },
     {
       "added_at": "2023-10-21 01:16:37",
@@ -1251,22 +1267,6 @@
       "duration_ms": 208177,
       "name": "Dime",
       "url": "https://open.spotify.com/track/4nVXw2k8sRREEK4w4akSXd"
-    },
-    {
-      "added_at": "2023-10-21 01:16:37",
-      "album": {
-        "name": "Bolero Surrealista",
-        "url": "https://open.spotify.com/album/6kZcXw3tT2Kbj9rqZsh83a"
-      },
-      "artists": [
-        {
-          "name": "Dali Mata",
-          "url": "https://open.spotify.com/artist/5UeFBoZ5aFWt6MtINvwwxL"
-        }
-      ],
-      "duration_ms": 234500,
-      "name": "Bolero Surrealista",
-      "url": "https://open.spotify.com/track/0axqkZNASfnYOI3abp06dT"
     },
     {
       "added_at": "2023-10-21 01:16:37",
@@ -1351,18 +1351,18 @@
     {
       "added_at": "2023-10-21 01:16:37",
       "album": {
-        "name": "mejor me voy",
-        "url": "https://open.spotify.com/album/2sFJkOdy6a4nA68qu3cGld"
+        "name": "P\u00e1ramo M\u00edstico",
+        "url": "https://open.spotify.com/album/3w6sKad6TBHZgZGE3oU4tL"
       },
       "artists": [
         {
-          "name": "EV\u00cdC",
-          "url": "https://open.spotify.com/artist/4VrtzTmhlJ4NxpNLGEOYsz"
+          "name": "Dali Mata",
+          "url": "https://open.spotify.com/artist/5UeFBoZ5aFWt6MtINvwwxL"
         }
       ],
-      "duration_ms": 197000,
-      "name": "mejor me voy",
-      "url": "https://open.spotify.com/track/7A57VR1nMMqRXP0BDw8JUG"
+      "duration_ms": 203532,
+      "name": "Arena Blanca",
+      "url": "https://open.spotify.com/track/5j0P1xvPEFC3aLloV70sAF"
     }
   ],
   "unique_name": "madera y miel",

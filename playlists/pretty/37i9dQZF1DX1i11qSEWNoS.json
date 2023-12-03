@@ -1,12 +1,12 @@
 {
   "description": "und macht laune",
-  "num_followers": 529205,
+  "num_followers": 529473,
   "original_name": "schiebt anders",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMWU2MzRkNWMyNzYxMGZkYjNhODcwMTcwYWE3MjQwMjQyMGYzMTI2",
+  "snapshot_id": "MCxkZDZhOTNjMjg1ODc3OTcyNmY1YTRmZmExOTI2ODIzODg3NDkyNjE5",
   "tracks": [
     {
       "added_at": "2023-12-01 11:45:42",
@@ -259,6 +259,22 @@
     {
       "added_at": "2023-12-01 11:45:42",
       "album": {
+        "name": "Giving Me",
+        "url": "https://open.spotify.com/album/0wTaLHasxRWB2VBwh9maAc"
+      },
+      "artists": [
+        {
+          "name": "Jazzy",
+          "url": "https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP"
+        }
+      ],
+      "duration_ms": 169000,
+      "name": "Giving Me",
+      "url": "https://open.spotify.com/track/1ACFweuuvf6MHtptObgreR"
+    },
+    {
+      "added_at": "2023-12-01 11:45:42",
+      "album": {
         "name": "Come Into My Life (The Album)",
         "url": "https://open.spotify.com/album/3vcwGUl0WiJVssOR1dXEbe"
       },
@@ -279,22 +295,6 @@
       "duration_ms": 213394,
       "name": "Freed From Desire - prod. Molella, Phil Jay",
       "url": "https://open.spotify.com/track/3u5N55tHf7hXATSQrjBh2q"
-    },
-    {
-      "added_at": "2023-12-01 11:45:42",
-      "album": {
-        "name": "Giving Me",
-        "url": "https://open.spotify.com/album/0wTaLHasxRWB2VBwh9maAc"
-      },
-      "artists": [
-        {
-          "name": "Jazzy",
-          "url": "https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP"
-        }
-      ],
-      "duration_ms": 169000,
-      "name": "Giving Me",
-      "url": "https://open.spotify.com/track/1ACFweuuvf6MHtptObgreR"
     },
     {
       "added_at": "2023-12-01 11:45:42",
@@ -803,6 +803,22 @@
     {
       "added_at": "2023-12-01 11:45:42",
       "album": {
+        "name": "Miss You",
+        "url": "https://open.spotify.com/album/4fmtd5CduUYx2bmMOvXwX4"
+      },
+      "artists": [
+        {
+          "name": "southstar",
+          "url": "https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi"
+        }
+      ],
+      "duration_ms": 206019,
+      "name": "Miss You",
+      "url": "https://open.spotify.com/track/4tRhRLBxIZ34Iw0eCuiC03"
+    },
+    {
+      "added_at": "2023-12-01 11:45:42",
+      "album": {
         "name": "Clouds",
         "url": "https://open.spotify.com/album/2ArRQNLxf9t0O0gvmG5Vsj"
       },
@@ -819,22 +835,6 @@
       "duration_ms": 158760,
       "name": "Clouds",
       "url": "https://open.spotify.com/track/2lWc1iJlz2NVcStV5fbtPG"
-    },
-    {
-      "added_at": "2023-12-01 11:45:42",
-      "album": {
-        "name": "Miss You",
-        "url": "https://open.spotify.com/album/4fmtd5CduUYx2bmMOvXwX4"
-      },
-      "artists": [
-        {
-          "name": "southstar",
-          "url": "https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi"
-        }
-      ],
-      "duration_ms": 206019,
-      "name": "Miss You",
-      "url": "https://open.spotify.com/track/4tRhRLBxIZ34Iw0eCuiC03"
     },
     {
       "added_at": "2023-12-01 11:45:42",
@@ -923,6 +923,26 @@
     {
       "added_at": "2023-12-01 11:45:42",
       "album": {
+        "name": "61 Grad (Deep House RMX)",
+        "url": "https://open.spotify.com/album/4lT60ivI572gAiaChQ6cCw"
+      },
+      "artists": [
+        {
+          "name": "Endzone",
+          "url": "https://open.spotify.com/artist/7uK2QScoOUkqq8tvtvBIL7"
+        },
+        {
+          "name": "TM",
+          "url": "https://open.spotify.com/artist/2yh2yg3b2viRskto7M1cx7"
+        }
+      ],
+      "duration_ms": 113000,
+      "name": "61 Grad (Deep House RMX)",
+      "url": "https://open.spotify.com/track/5HsrYtb503rCCWyZvGtf4v"
+    },
+    {
+      "added_at": "2023-12-01 11:45:42",
+      "album": {
         "name": "Anders",
         "url": "https://open.spotify.com/album/5AXp6zh5m2lyBV5OTH5iwq"
       },
@@ -947,42 +967,6 @@
     {
       "added_at": "2023-12-01 11:45:42",
       "album": {
-        "name": "61 Grad (Deep House RMX)",
-        "url": "https://open.spotify.com/album/4lT60ivI572gAiaChQ6cCw"
-      },
-      "artists": [
-        {
-          "name": "Endzone",
-          "url": "https://open.spotify.com/artist/7uK2QScoOUkqq8tvtvBIL7"
-        },
-        {
-          "name": "TM",
-          "url": "https://open.spotify.com/artist/2yh2yg3b2viRskto7M1cx7"
-        }
-      ],
-      "duration_ms": 113000,
-      "name": "61 Grad (Deep House RMX)",
-      "url": "https://open.spotify.com/track/5HsrYtb503rCCWyZvGtf4v"
-    },
-    {
-      "added_at": "2023-12-01 11:45:42",
-      "album": {
-        "name": "How I Fell in Love",
-        "url": "https://open.spotify.com/album/461FLD6OW9OextuRH70VKF"
-      },
-      "artists": [
-        {
-          "name": "CH4YN",
-          "url": "https://open.spotify.com/artist/3G42n5HyIQhYUmKX67yOaU"
-        }
-      ],
-      "duration_ms": 112551,
-      "name": "How I Fell in Love",
-      "url": "https://open.spotify.com/track/2wUmENDPjBtgNvP2XmnRr7"
-    },
-    {
-      "added_at": "2023-12-01 11:45:42",
-      "album": {
         "name": "Zelten auf Kies",
         "url": "https://open.spotify.com/album/5lJav0t1BmpS0b3sFmTaKY"
       },
@@ -1003,6 +987,22 @@
     {
       "added_at": "2023-12-01 11:45:42",
       "album": {
+        "name": "How I Fell in Love",
+        "url": "https://open.spotify.com/album/461FLD6OW9OextuRH70VKF"
+      },
+      "artists": [
+        {
+          "name": "CH4YN",
+          "url": "https://open.spotify.com/artist/3G42n5HyIQhYUmKX67yOaU"
+        }
+      ],
+      "duration_ms": 112551,
+      "name": "How I Fell in Love",
+      "url": "https://open.spotify.com/track/2wUmENDPjBtgNvP2XmnRr7"
+    },
+    {
+      "added_at": "2023-12-01 11:45:42",
+      "album": {
         "name": "denk mal dr\u00fcber nach...",
         "url": "https://open.spotify.com/album/2amQje8nzCnpbbjYpTJizx"
       },
@@ -1015,22 +1015,6 @@
       "duration_ms": 147960,
       "name": "MAXIMUM RIZZ",
       "url": "https://open.spotify.com/track/73JHeIhYKRV1c6RI4ZXsjW"
-    },
-    {
-      "added_at": "2023-12-01 11:45:42",
-      "album": {
-        "name": "Cooler Than Me",
-        "url": "https://open.spotify.com/album/5BmY6ZPLmhyIm9bRdN4mWP"
-      },
-      "artists": [
-        {
-          "name": "Lucky Luke",
-          "url": "https://open.spotify.com/artist/5ee4yhrWOxaxvL77BoVpVR"
-        }
-      ],
-      "duration_ms": 179760,
-      "name": "Cooler Than Me",
-      "url": "https://open.spotify.com/track/525GY0mXYnxajolwgS8Eaz"
     },
     {
       "added_at": "2023-12-01 11:45:42",
@@ -1051,6 +1035,22 @@
     {
       "added_at": "2023-12-01 11:45:42",
       "album": {
+        "name": "Cooler Than Me",
+        "url": "https://open.spotify.com/album/5BmY6ZPLmhyIm9bRdN4mWP"
+      },
+      "artists": [
+        {
+          "name": "Lucky Luke",
+          "url": "https://open.spotify.com/artist/5ee4yhrWOxaxvL77BoVpVR"
+        }
+      ],
+      "duration_ms": 179760,
+      "name": "Cooler Than Me",
+      "url": "https://open.spotify.com/track/525GY0mXYnxajolwgS8Eaz"
+    },
+    {
+      "added_at": "2023-12-01 11:45:42",
+      "album": {
         "name": "Schmetterling",
         "url": "https://open.spotify.com/album/18LPHcIbr5G6oFx9Mf3lU3"
       },
@@ -1063,58 +1063,6 @@
       "duration_ms": 120840,
       "name": "Schmetterling",
       "url": "https://open.spotify.com/track/5E3BK90EQQxmrDz3zLG2l9"
-    },
-    {
-      "added_at": "2023-12-01 11:45:42",
-      "album": {
-        "name": "Durstl\u00f6scher",
-        "url": "https://open.spotify.com/album/4RF1l08nRRHF3lWfM35bUx"
-      },
-      "artists": [
-        {
-          "name": "01099",
-          "url": "https://open.spotify.com/artist/3Z3aTg9PwJ37e8xeO0aUC9"
-        },
-        {
-          "name": "AVO",
-          "url": "https://open.spotify.com/artist/3g8GEfox7TneqzId98rNGi"
-        },
-        {
-          "name": "Gustav",
-          "url": "https://open.spotify.com/artist/2WmxTCUVOyGsqn4GA7VxuC"
-        },
-        {
-          "name": "Zachi",
-          "url": "https://open.spotify.com/artist/5RgzUZORebl59TcvCRZsD2"
-        }
-      ],
-      "duration_ms": 161440,
-      "name": "Durstl\u00f6scher",
-      "url": "https://open.spotify.com/track/2QAsTQ1tydZ6mhYH2FyzfG"
-    },
-    {
-      "added_at": "2023-12-01 11:45:42",
-      "album": {
-        "name": "LEBENSLANG (HBz Remix)",
-        "url": "https://open.spotify.com/album/6tk8ZgyU3O0JpBIpqphJpq"
-      },
-      "artists": [
-        {
-          "name": "Tream",
-          "url": "https://open.spotify.com/artist/6vNAKgK5d74N1I0zTxRPDp"
-        },
-        {
-          "name": "treamiboii",
-          "url": "https://open.spotify.com/artist/4jsmk00NuPR1FfXqUCF1ac"
-        },
-        {
-          "name": "HBz",
-          "url": "https://open.spotify.com/artist/7I2JG3CcPawkeQPE7uypHJ"
-        }
-      ],
-      "duration_ms": 170783,
-      "name": "LEBENSLANG - HBz Remix",
-      "url": "https://open.spotify.com/track/3VezyVVENyPQ5u2DIJsITb"
     },
     {
       "added_at": "2023-12-01 11:45:42",
@@ -1171,6 +1119,58 @@
     {
       "added_at": "2023-12-01 11:45:42",
       "album": {
+        "name": "Durstl\u00f6scher",
+        "url": "https://open.spotify.com/album/4RF1l08nRRHF3lWfM35bUx"
+      },
+      "artists": [
+        {
+          "name": "01099",
+          "url": "https://open.spotify.com/artist/3Z3aTg9PwJ37e8xeO0aUC9"
+        },
+        {
+          "name": "AVO",
+          "url": "https://open.spotify.com/artist/3g8GEfox7TneqzId98rNGi"
+        },
+        {
+          "name": "Gustav",
+          "url": "https://open.spotify.com/artist/2WmxTCUVOyGsqn4GA7VxuC"
+        },
+        {
+          "name": "Zachi",
+          "url": "https://open.spotify.com/artist/5RgzUZORebl59TcvCRZsD2"
+        }
+      ],
+      "duration_ms": 161440,
+      "name": "Durstl\u00f6scher",
+      "url": "https://open.spotify.com/track/2QAsTQ1tydZ6mhYH2FyzfG"
+    },
+    {
+      "added_at": "2023-12-01 11:45:42",
+      "album": {
+        "name": "LEBENSLANG (HBz Remix)",
+        "url": "https://open.spotify.com/album/6tk8ZgyU3O0JpBIpqphJpq"
+      },
+      "artists": [
+        {
+          "name": "Tream",
+          "url": "https://open.spotify.com/artist/6vNAKgK5d74N1I0zTxRPDp"
+        },
+        {
+          "name": "treamiboii",
+          "url": "https://open.spotify.com/artist/4jsmk00NuPR1FfXqUCF1ac"
+        },
+        {
+          "name": "HBz",
+          "url": "https://open.spotify.com/artist/7I2JG3CcPawkeQPE7uypHJ"
+        }
+      ],
+      "duration_ms": 170783,
+      "name": "LEBENSLANG - HBz Remix",
+      "url": "https://open.spotify.com/track/3VezyVVENyPQ5u2DIJsITb"
+    },
+    {
+      "added_at": "2023-12-01 11:45:42",
+      "album": {
         "name": "Dunes",
         "url": "https://open.spotify.com/album/5OraR3Y7Ccd990r66pBWUB"
       },
@@ -1183,26 +1183,6 @@
       "duration_ms": 184752,
       "name": "Typa Girl",
       "url": "https://open.spotify.com/track/16SKOkyJsJNeJkHUFTcDUm"
-    },
-    {
-      "added_at": "2023-12-01 11:45:42",
-      "album": {
-        "name": "Thank You (Not So Bad)",
-        "url": "https://open.spotify.com/album/3SmoOc6Jcej35ioy9xpB7j"
-      },
-      "artists": [
-        {
-          "name": "RobxDan",
-          "url": "https://open.spotify.com/artist/3LCCYKMCRF8ckGSHbhVS01"
-        },
-        {
-          "name": "Consilium",
-          "url": "https://open.spotify.com/artist/6qNTW3XIYFh6xV9V6Ymcgo"
-        }
-      ],
-      "duration_ms": 148965,
-      "name": "Thank You (Not So Bad)",
-      "url": "https://open.spotify.com/track/6a39HPcHKbPD536syYsRra"
     },
     {
       "added_at": "2023-12-01 11:45:42",
@@ -1223,6 +1203,26 @@
       "duration_ms": 148800,
       "name": "ONLY 4 LIFE - Remix",
       "url": "https://open.spotify.com/track/7jYwZOptDPesQgzj7vhsEF"
+    },
+    {
+      "added_at": "2023-12-01 11:45:42",
+      "album": {
+        "name": "Thank You (Not So Bad)",
+        "url": "https://open.spotify.com/album/3SmoOc6Jcej35ioy9xpB7j"
+      },
+      "artists": [
+        {
+          "name": "RobxDan",
+          "url": "https://open.spotify.com/artist/3LCCYKMCRF8ckGSHbhVS01"
+        },
+        {
+          "name": "Consilium",
+          "url": "https://open.spotify.com/artist/6qNTW3XIYFh6xV9V6Ymcgo"
+        }
+      ],
+      "duration_ms": 148965,
+      "name": "Thank You (Not So Bad)",
+      "url": "https://open.spotify.com/track/6a39HPcHKbPD536syYsRra"
     },
     {
       "added_at": "2023-12-01 11:45:42",
@@ -1411,26 +1411,6 @@
     {
       "added_at": "2023-12-01 11:45:42",
       "album": {
-        "name": "All Night",
-        "url": "https://open.spotify.com/album/5YX1KuyERTN67FxoqcLUQm"
-      },
-      "artists": [
-        {
-          "name": "RAF Camora",
-          "url": "https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L"
-        },
-        {
-          "name": "Luciano",
-          "url": "https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg"
-        }
-      ],
-      "duration_ms": 153674,
-      "name": "All Night",
-      "url": "https://open.spotify.com/track/4taclmQm9wFcK4dKQjR5ny"
-    },
-    {
-      "added_at": "2023-12-01 11:45:42",
-      "album": {
         "name": "Auf die Party",
         "url": "https://open.spotify.com/album/57Mo2UNrJR14lhdZU5WXbt"
       },
@@ -1447,6 +1427,26 @@
       "duration_ms": 164199,
       "name": "Auf die Party",
       "url": "https://open.spotify.com/track/5qDzKUTHCUiKhewBa9STsE"
+    },
+    {
+      "added_at": "2023-12-01 11:45:42",
+      "album": {
+        "name": "All Night",
+        "url": "https://open.spotify.com/album/5YX1KuyERTN67FxoqcLUQm"
+      },
+      "artists": [
+        {
+          "name": "RAF Camora",
+          "url": "https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L"
+        },
+        {
+          "name": "Luciano",
+          "url": "https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg"
+        }
+      ],
+      "duration_ms": 153674,
+      "name": "All Night",
+      "url": "https://open.spotify.com/track/4taclmQm9wFcK4dKQjR5ny"
     },
     {
       "added_at": "2023-12-01 11:45:42",
@@ -1471,26 +1471,6 @@
     {
       "added_at": "2023-12-01 11:45:42",
       "album": {
-        "name": "About You Now (How I Feel)",
-        "url": "https://open.spotify.com/album/4a22kWJ4n6KE7apkohVxKp"
-      },
-      "artists": [
-        {
-          "name": "Niklas Dee",
-          "url": "https://open.spotify.com/artist/1ZPGzmbFTn8GRjqTqnLiFE"
-        },
-        {
-          "name": "Luca-Dante Spadafora",
-          "url": "https://open.spotify.com/artist/6k9e4mFFVtEAAhGdvJBtqB"
-        }
-      ],
-      "duration_ms": 162352,
-      "name": "About You Now (How I Feel)",
-      "url": "https://open.spotify.com/track/3Ipu6e4dwxdt8lmSI27ZFx"
-    },
-    {
-      "added_at": "2023-12-01 11:45:42",
-      "album": {
         "name": "Maneater",
         "url": "https://open.spotify.com/album/1IzIjAIaqxbIkcs8gjyifw"
       },
@@ -1507,6 +1487,26 @@
       "duration_ms": 154285,
       "name": "Maneater",
       "url": "https://open.spotify.com/track/2apRbQlpckuUM282gW1Z6p"
+    },
+    {
+      "added_at": "2023-12-01 11:45:42",
+      "album": {
+        "name": "About You Now (How I Feel)",
+        "url": "https://open.spotify.com/album/4a22kWJ4n6KE7apkohVxKp"
+      },
+      "artists": [
+        {
+          "name": "Niklas Dee",
+          "url": "https://open.spotify.com/artist/1ZPGzmbFTn8GRjqTqnLiFE"
+        },
+        {
+          "name": "Luca-Dante Spadafora",
+          "url": "https://open.spotify.com/artist/6k9e4mFFVtEAAhGdvJBtqB"
+        }
+      ],
+      "duration_ms": 162352,
+      "name": "About You Now (How I Feel)",
+      "url": "https://open.spotify.com/track/3Ipu6e4dwxdt8lmSI27ZFx"
     },
     {
       "added_at": "2023-12-01 11:45:42",
@@ -1599,6 +1599,22 @@
     {
       "added_at": "2023-12-01 11:45:42",
       "album": {
+        "name": "Next!",
+        "url": "https://open.spotify.com/album/3BKfDiq9KWSmbV7NHoCGlt"
+      },
+      "artists": [
+        {
+          "name": "Seeed",
+          "url": "https://open.spotify.com/artist/5ISjkNS17JpCwiFtW80lpV"
+        }
+      ],
+      "duration_ms": 206160,
+      "name": "Ding",
+      "url": "https://open.spotify.com/track/5LH1z4ma2TN2aVeESXthj9"
+    },
+    {
+      "added_at": "2023-12-01 11:45:42",
+      "album": {
         "name": "Say It Right",
         "url": "https://open.spotify.com/album/7bcU3xaRbfbL62Gg6xj8ZH"
       },
@@ -1615,22 +1631,6 @@
       "duration_ms": 165209,
       "name": "Say It Right",
       "url": "https://open.spotify.com/track/7v9PgkhtIlivxuFXO1Dl1V"
-    },
-    {
-      "added_at": "2023-12-01 11:45:42",
-      "album": {
-        "name": "Next!",
-        "url": "https://open.spotify.com/album/3BKfDiq9KWSmbV7NHoCGlt"
-      },
-      "artists": [
-        {
-          "name": "Seeed",
-          "url": "https://open.spotify.com/artist/5ISjkNS17JpCwiFtW80lpV"
-        }
-      ],
-      "duration_ms": 206160,
-      "name": "Ding",
-      "url": "https://open.spotify.com/track/5LH1z4ma2TN2aVeESXthj9"
     },
     {
       "added_at": "2023-12-01 11:45:42",
@@ -1691,22 +1691,6 @@
     {
       "added_at": "2023-12-01 11:45:42",
       "album": {
-        "name": "Mangos mit Chili",
-        "url": "https://open.spotify.com/album/3qsz2ytKVv0pn17TISastM"
-      },
-      "artists": [
-        {
-          "name": "Nina Chuba",
-          "url": "https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5"
-        }
-      ],
-      "duration_ms": 134887,
-      "name": "Mangos mit Chili",
-      "url": "https://open.spotify.com/track/11eYmv0tA3wEoyD1Sad2Nv"
-    },
-    {
-      "added_at": "2023-12-01 11:45:42",
-      "album": {
         "name": "VAMOS",
         "url": "https://open.spotify.com/album/6KdsuvLd4GiIwZyVa512sO"
       },
@@ -1727,22 +1711,18 @@
     {
       "added_at": "2023-12-01 11:45:42",
       "album": {
-        "name": "Still (I Got Summer On My Mind) [FORTELLA Remix]",
-        "url": "https://open.spotify.com/album/6mfyxdmji09bDs1pYQADob"
+        "name": "Mangos mit Chili",
+        "url": "https://open.spotify.com/album/3qsz2ytKVv0pn17TISastM"
       },
       "artists": [
         {
-          "name": "JJ",
-          "url": "https://open.spotify.com/artist/1bAdBYcsDdsbqmWbAE7qKR"
-        },
-        {
-          "name": "FORTELLA",
-          "url": "https://open.spotify.com/artist/1Gv25YA8ciVilOJBBD2Hv9"
+          "name": "Nina Chuba",
+          "url": "https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5"
         }
       ],
-      "duration_ms": 193475,
-      "name": "Still (I Got Summer On My Mind) - FORTELLA Remix",
-      "url": "https://open.spotify.com/track/00Nsyeo2kcU4602zMsLWXW"
+      "duration_ms": 134887,
+      "name": "Mangos mit Chili",
+      "url": "https://open.spotify.com/track/11eYmv0tA3wEoyD1Sad2Nv"
     },
     {
       "added_at": "2023-12-01 11:45:42",
@@ -1767,6 +1747,26 @@
       "duration_ms": 150090,
       "name": "Mein kleines Herz (Bam Bam)",
       "url": "https://open.spotify.com/track/77LA2Zd0H9c1C0NutqumLH"
+    },
+    {
+      "added_at": "2023-12-01 11:45:42",
+      "album": {
+        "name": "Still (I Got Summer On My Mind) [FORTELLA Remix]",
+        "url": "https://open.spotify.com/album/6mfyxdmji09bDs1pYQADob"
+      },
+      "artists": [
+        {
+          "name": "JJ",
+          "url": "https://open.spotify.com/artist/1bAdBYcsDdsbqmWbAE7qKR"
+        },
+        {
+          "name": "FORTELLA",
+          "url": "https://open.spotify.com/artist/1Gv25YA8ciVilOJBBD2Hv9"
+        }
+      ],
+      "duration_ms": 193475,
+      "name": "Still (I Got Summer On My Mind) - FORTELLA Remix",
+      "url": "https://open.spotify.com/track/00Nsyeo2kcU4602zMsLWXW"
     },
     {
       "added_at": "2023-12-01 11:45:42",

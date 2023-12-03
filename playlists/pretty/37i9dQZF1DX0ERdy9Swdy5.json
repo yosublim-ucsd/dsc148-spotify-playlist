@@ -1,12 +1,12 @@
 {
   "description": "Los mejor de los 90s. The Best of the 90s.",
-  "num_followers": 688566,
+  "num_followers": 688785,
   "original_name": "Salsa Hits: Los 90s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZWUxN2YwNGJlMzJkMWFkNmYyMTE0YmRkNzU5NDNiMWVjYmY5YzZi",
+  "snapshot_id": "MCwwOGU4NGM1ZWZmMGMxNjk5YmVmM2Y1Mjk0NDRjODYyOTg1MmIwYmUw",
   "tracks": [
     {
       "added_at": "2023-10-19 19:33:14",
@@ -987,18 +987,18 @@
     {
       "added_at": "2023-10-19 19:33:14",
       "album": {
-        "name": "Cuando Parar\u00e1 La Lluvia",
-        "url": "https://open.spotify.com/album/7wPHaKaBhYBlruGndq64gJ"
+        "name": "Uno Mismo",
+        "url": "https://open.spotify.com/album/01z0qSqxPmPHUZMLu1qbeD"
       },
       "artists": [
         {
-          "name": "Johnny Rivera",
-          "url": "https://open.spotify.com/artist/6IcML1o1dzmMwBim7hyirf"
+          "name": "Tony Vega",
+          "url": "https://open.spotify.com/artist/3Yg61bt7pZYX1bbMXEj8oY"
         }
       ],
-      "duration_ms": 286693,
-      "name": "Cuando Parar\u00e1 La Lluvia",
-      "url": "https://open.spotify.com/track/6eQUjx96Gob2WwetawPBMQ"
+      "duration_ms": 316226,
+      "name": "Esa Mujer",
+      "url": "https://open.spotify.com/track/0cLjHVBsx3bmdK1nwTMNZw"
     },
     {
       "added_at": "2023-10-19 19:33:14",
@@ -1019,18 +1019,18 @@
     {
       "added_at": "2023-10-19 19:33:14",
       "album": {
-        "name": "Uno Mismo",
-        "url": "https://open.spotify.com/album/01z0qSqxPmPHUZMLu1qbeD"
+        "name": "Cuando Parar\u00e1 La Lluvia",
+        "url": "https://open.spotify.com/album/7wPHaKaBhYBlruGndq64gJ"
       },
       "artists": [
         {
-          "name": "Tony Vega",
-          "url": "https://open.spotify.com/artist/3Yg61bt7pZYX1bbMXEj8oY"
+          "name": "Johnny Rivera",
+          "url": "https://open.spotify.com/artist/6IcML1o1dzmMwBim7hyirf"
         }
       ],
-      "duration_ms": 316226,
-      "name": "Esa Mujer",
-      "url": "https://open.spotify.com/track/0cLjHVBsx3bmdK1nwTMNZw"
+      "duration_ms": 286693,
+      "name": "Cuando Parar\u00e1 La Lluvia",
+      "url": "https://open.spotify.com/track/6eQUjx96Gob2WwetawPBMQ"
     },
     {
       "added_at": "2023-10-19 19:33:14",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2023-10-19 19:33:14",
       "album": {
-        "name": "Cuando Parar\u00e1 La Lluvia",
-        "url": "https://open.spotify.com/album/7wPHaKaBhYBlruGndq64gJ"
-      },
-      "artists": [
-        {
-          "name": "Johnny Rivera",
-          "url": "https://open.spotify.com/artist/6IcML1o1dzmMwBim7hyirf"
-        }
-      ],
-      "duration_ms": 302733,
-      "name": "Voy A Conquistar Tu Amor",
-      "url": "https://open.spotify.com/track/1RbjmUfYA4rH0OXpS1JvYx"
-    },
-    {
-      "added_at": "2023-10-19 19:33:14",
-      "album": {
         "name": "Oro Salsero",
         "url": "https://open.spotify.com/album/5X1QYXR9eQO3cYZrqeoIYE"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 279186,
       "name": "Amiga",
       "url": "https://open.spotify.com/track/59Fg7F5Azwd3oDSJ3vemne"
+    },
+    {
+      "added_at": "2023-10-19 19:33:14",
+      "album": {
+        "name": "Cuando Parar\u00e1 La Lluvia",
+        "url": "https://open.spotify.com/album/7wPHaKaBhYBlruGndq64gJ"
+      },
+      "artists": [
+        {
+          "name": "Johnny Rivera",
+          "url": "https://open.spotify.com/artist/6IcML1o1dzmMwBim7hyirf"
+        }
+      ],
+      "duration_ms": 302733,
+      "name": "Voy A Conquistar Tu Amor",
+      "url": "https://open.spotify.com/track/1RbjmUfYA4rH0OXpS1JvYx"
     },
     {
       "added_at": "2023-10-19 19:33:14",
@@ -1227,6 +1227,26 @@
     {
       "added_at": "2023-10-19 19:33:14",
       "album": {
+        "name": "Salsa Legends",
+        "url": "https://open.spotify.com/album/2QuOloo4ttkd4SxYzgu5nT"
+      },
+      "artists": [
+        {
+          "name": "Johnny Rivera",
+          "url": "https://open.spotify.com/artist/6IcML1o1dzmMwBim7hyirf"
+        },
+        {
+          "name": "Ray Sepulveda",
+          "url": "https://open.spotify.com/artist/7FszsCzE5zryW0pO8Bc5f7"
+        }
+      ],
+      "duration_ms": 358493,
+      "name": "No Vale La Pena",
+      "url": "https://open.spotify.com/track/1uqmUXgzSFlIf3ZzoSeWN7"
+    },
+    {
+      "added_at": "2023-10-19 19:33:14",
+      "album": {
         "name": "En Vivo Desde El Carnegie Hall",
         "url": "https://open.spotify.com/album/3ASsv46z8jp15gwRTOjy22"
       },
@@ -1255,26 +1275,6 @@
       "duration_ms": 315026,
       "name": "Invierno En Primavera",
       "url": "https://open.spotify.com/track/1Ta3rORfRZyTPcqCHsZXGF"
-    },
-    {
-      "added_at": "2023-10-19 19:33:14",
-      "album": {
-        "name": "Salsa Legends",
-        "url": "https://open.spotify.com/album/2QuOloo4ttkd4SxYzgu5nT"
-      },
-      "artists": [
-        {
-          "name": "Johnny Rivera",
-          "url": "https://open.spotify.com/artist/6IcML1o1dzmMwBim7hyirf"
-        },
-        {
-          "name": "Ray Sepulveda",
-          "url": "https://open.spotify.com/artist/7FszsCzE5zryW0pO8Bc5f7"
-        }
-      ],
-      "duration_ms": 358493,
-      "name": "No Vale La Pena",
-      "url": "https://open.spotify.com/track/1uqmUXgzSFlIf3ZzoSeWN7"
     },
     {
       "added_at": "2023-10-19 19:33:14",

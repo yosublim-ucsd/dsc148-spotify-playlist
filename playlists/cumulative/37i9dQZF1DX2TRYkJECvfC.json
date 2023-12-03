@@ -5459,6 +5459,28 @@
     },
     {
       "album": {
+        "name": "Other Side",
+        "url": "https://open.spotify.com/album/1x58rOMA6gcxJdrgzbGVTo"
+      },
+      "artists": [
+        {
+          "name": "AVAION",
+          "url": "https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys"
+        },
+        {
+          "name": "BUNT.",
+          "url": "https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206884,
+      "name": "Other Side",
+      "url": "https://open.spotify.com/track/74qKLdiiTnXNqh2Co21RlJ"
+    },
+    {
+      "album": {
         "name": "Waves & Whirlwinds",
         "url": "https://open.spotify.com/album/0InAq8EFs2jvhFfEX0dPih"
       },
@@ -5842,7 +5864,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-03",
       "duration_ms": 434406,
       "name": "Pura Vida",
       "url": "https://open.spotify.com/track/0Keuz1iGQsOdIxqsdbKanO"

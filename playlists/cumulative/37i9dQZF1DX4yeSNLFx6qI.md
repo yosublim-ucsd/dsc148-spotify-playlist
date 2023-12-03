@@ -4,7 +4,7 @@
 
 > Se acabó el amor\. La música continúa.
 
-215 songs - 12 hr 31 min
+216 songs - 12 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -123,6 +123,7 @@
 | [Nada Es Igual \- Remix](https://open.spotify.com/track/3NZ9V69n2zfSowMUupBR1B) | [Karen Méndez](https://open.spotify.com/artist/0txXDZCdXBzha20sgN1GRk), [iZaak](https://open.spotify.com/artist/4s6Xg38sbqh4xpf4OqhVUK) | [Nada Es Igual \(Remix\)](https://open.spotify.com/album/0vLVaDeDnlCx7n0qPYWOZc) | 3:36 | 2021-12-06 | 2022-05-07 |
 | [Nadie ha dicho](https://open.spotify.com/track/7hSLEk0h67Q5NO1TfLHgLf) | [Laura Pausini](https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH) | [Nadie ha dicho](https://open.spotify.com/album/2hp0naP4otrsfhw1xlXdvy) | 3:27 | 2021-12-06 | 2022-07-27 |
 | [Nadie Me Vuelve A Joder](https://open.spotify.com/track/4ysIQ2AalFEvYMBN7XgtDv) | [Pitizion](https://open.spotify.com/artist/0GWdY55YF6xzN5L1A0X8nq) | [Nadie Me Vuelve A Joder](https://open.spotify.com/album/5K1qmDGAxNiXSHFYK1DWHr) | 2:41 | 2023-03-24 |  |
+| [Negar](https://open.spotify.com/track/6ujcAtYCwOXPbGl9bVJBue) | [3AM](https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D) | [Lluvia: Rain City Vol.2](https://open.spotify.com/album/1d3pKhYKoQ2d32Exs3wTyr) | 3:19 | 2023-12-01 |  |
 | [Nina](https://open.spotify.com/track/0jM8GPrMSe8aXQnUpxKPD7) | [Andrés Suárez](https://open.spotify.com/artist/1AaN24tRzIpDKK54IRtdIe) | [Nina](https://open.spotify.com/album/7Lx6OYb9ZXHnWXQqFs1iOL) | 3:28 | 2021-12-06 | 2022-02-25 |
 | [No Hacemos Nada](https://open.spotify.com/track/5JSQZ7gNcJimOFmdJd6Xk7) | [Paty Cantú](https://open.spotify.com/artist/7K9rdoOJSiKXoVXPlSkGKT) | [No Hacemos Nada](https://open.spotify.com/album/0ytyjLYIT72OOBt03CH6l0) | 3:28 | 2021-12-06 | 2022-07-29 |
 | [No Le Llames Amor](https://open.spotify.com/track/5czRuLp5tTxJJOUOUNLGej) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [No Le Llames Amor](https://open.spotify.com/album/2D6IxtHM8myA2hrIopVR9l) | 3:23 | 2021-12-06 |  |
@@ -187,7 +188,7 @@
 | [Te La Dedico](https://open.spotify.com/track/6z3IrUfL5HxmpH0Xt84Es8) | [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [Te La Dedico](https://open.spotify.com/album/7KGERR76ARYMU0z9AO1Z3Y) | 3:51 | 2023-03-03 | 2023-09-30 |
 | [Te Lo Prometo](https://open.spotify.com/track/609ItcFreOqmwRjmBbocds) | [Humbe](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [ESENCIA](https://open.spotify.com/album/39dBODVnnDV4ZB1TtPeMTj) | 4:09 | 2023-05-05 |  |
 | [Te miro a ti](https://open.spotify.com/track/33TPAEke4ngiWenZnNi5xq) | [Fase](https://open.spotify.com/artist/5ee1RFcMCpiLXVSVKYxDbW) | [Te miro a ti](https://open.spotify.com/album/36Kd5LZGDeE7ZhJB39J2c2) | 3:03 | 2021-12-06 | 2022-07-24 |
-| [Te Necesito \(Live Acoustic\)](https://open.spotify.com/track/5WKZKW5LNPUYI8X5AZAxau) | [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Te Necesito \(Live Acoustic\)](https://open.spotify.com/album/2N2uXaMFPE1ijwSgJADheH) | 3:15 | 2023-08-29 |  |
+| [Te Necesito \(Live Acoustic\)](https://open.spotify.com/track/5WKZKW5LNPUYI8X5AZAxau) | [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Te Necesito \(Live Acoustic\)](https://open.spotify.com/album/2N2uXaMFPE1ijwSgJADheH) | 3:15 | 2023-08-29 | 2023-12-03 |
 | [Te Necesito \(Live Acoustic\)](https://open.spotify.com/track/79uVK69HCjcVEKsVcl4DAB) | [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Te Necesito \(Live Acoustic\)](https://open.spotify.com/album/22HjtWbGDotQroRs9Wo3KH) | 3:15 | 2021-12-06 | 2023-07-22 |
 | [Te Olvidaré](https://open.spotify.com/track/1z48NPFPNJEV4UAg83OFd2) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [TINI TINI TINI](https://open.spotify.com/album/16TT0OKoyEgD22nj70WUEi) | 3:14 | 2021-12-06 | 2022-12-18 |
 | [Te Olvidaré](https://open.spotify.com/track/3mCsFR4vkkg6az76rXMZu6) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [TINI TINI TINI](https://open.spotify.com/album/7LP6bUlMdnuqeP2etuw7wI) | 3:14 | 2022-08-31 |  |

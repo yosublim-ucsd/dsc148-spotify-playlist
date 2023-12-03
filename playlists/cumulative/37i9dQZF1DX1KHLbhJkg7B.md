@@ -4,7 +4,7 @@
 
 > Unique versions of hit songs by other artists\. Cover: Dolly Parton and Lainey Wilson
 
-354 songs - 22 hr 14 min
+355 songs - 22 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -250,6 +250,7 @@
 | [Ring of Fire](https://open.spotify.com/track/5HBjOCb4Z38T6b3ywNGwWF) | [Alan Jackson](https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS) | [34 Number Ones](https://open.spotify.com/album/26w8J2SKCxa80Bwq6G8ctN) | 3:11 | 2022-03-25 | 2022-09-10 |
 | [River In The Rain](https://open.spotify.com/track/4p1NuLTJwxtDOpYM8e4hAh) | [Joshua Hedley](https://open.spotify.com/artist/6OJg4GNkAEtu0cfDVRbnjh) | [River In The Rain](https://open.spotify.com/album/2YQxIZ1h6URIjk35ZeqBQw) | 3:53 | 2022-03-25 | 2022-07-09 |
 | [Rock and Roll, Hoochie Koo \- Spotify Singles](https://open.spotify.com/track/39vMw8qyI9ycXeuet3Jbbs) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Spotify Singles](https://open.spotify.com/album/5eByAKcHvykX4jCkS2004X) | 3:53 | 2022-12-30 | 2023-11-18 |
+| [Rock and Roll, Hoochie Koo \- Spotify Singles](https://open.spotify.com/track/4h9GMqQ7bG7XbsC5kdXzNw) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Spotify Singles](https://open.spotify.com/album/6FScslXq5fezJiaKFRwBlQ) | 3:53 | 2023-12-01 |  |
 | [Rocket Man](https://open.spotify.com/track/2SKSUxtD60P62m9sG6QUhL) | [Little Big Town](https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv) | [Restoration: The Songs Of Elton John And Bernie Taupin](https://open.spotify.com/album/25I3CO8X3zQvoEySDD2UIP) | 4:47 | 2021-12-10 | 2022-09-15 |
 | [Run](https://open.spotify.com/track/2RRUtmzxskvu9dPAJqVX6M) | [Ryan Kinder](https://open.spotify.com/artist/0GAapPTQR8KFJxrNZOKksy), [ENZI](https://open.spotify.com/artist/61sy3aPmHy18yg0Bjp8s8L) | [Run](https://open.spotify.com/album/6z3nq9k1HgzzvNPxek9pOn) | 4:47 | 2022-04-01 | 2022-06-13 |
 | [Seminole Wind](https://open.spotify.com/track/5W8AbCPIxgy6sJ29OjAV7G) | [American Young](https://open.spotify.com/artist/5qgwXZgnJnxS83T5CtqkLg) | [Seminole Wind](https://open.spotify.com/album/1lFm9MeyQcuCZiu5szg6Dv) | 3:36 | 2021-12-10 | 2022-07-29 |
@@ -259,7 +260,7 @@
 | [Shallow \(The Duet with Garth Brooks and Trisha Yearwood\)](https://open.spotify.com/track/0SA1RVvy3x161K2PcW2CSO) | [Trisha Yearwood](https://open.spotify.com/artist/3XlIhgydjvC4EniPFZT20j) | [Shallow \(The Duet with Garth Brooks and Trisha Yearwood\)](https://open.spotify.com/album/3cWhv1rqi54T1eRzM9kfPJ) | 3:41 | 2021-12-10 |  |
 | [Shotgun Willie](https://open.spotify.com/track/5eFPPAsdBF57JnZIQw92K3) | [Margo Price](https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl) | [Shotgun Willie](https://open.spotify.com/album/7oYeYzP4kGMUxJJwqCNylk) | 2:35 | 2023-02-24 | 2023-03-11 |
 | [Should've Been A Cowboy](https://open.spotify.com/track/7c20lA9sS4c5CeulMOSAZt) | [SixForty1](https://open.spotify.com/artist/4dcnHUWXWZAHfA8FvQBtJS) | [Should've Been A Cowboy](https://open.spotify.com/album/4qU7lxvipvrDnPVfydiiaH) | 3:35 | 2022-03-11 | 2022-07-26 |
-| [Simple Man](https://open.spotify.com/track/57bSzHwlhpD6N6vS81P0DV) | [Warren Zeiders](https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi) | [Acoustic Covers \(Deluxe\)](https://open.spotify.com/album/2tSbrXGTWwgkNnXD6LCABm) | 4:31 | 2022-01-07 |  |
+| [Simple Man](https://open.spotify.com/track/57bSzHwlhpD6N6vS81P0DV) | [Warren Zeiders](https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi) | [Acoustic Covers \(Deluxe\)](https://open.spotify.com/album/2tSbrXGTWwgkNnXD6LCABm) | 4:31 | 2022-01-07 | 2023-12-03 |
 | [Six Days On The Road](https://open.spotify.com/track/4OCFCX4RSZl8esUMtt3muO) | [Sawyer Brown](https://open.spotify.com/artist/50hFWG3MaUUX5phNrrVc97) | [Six Days On The Road](https://open.spotify.com/album/6d2GhPWhRwb1KcfHFR0wXX) | 2:53 | 2021-12-10 | 2023-01-06 |
 | [Six Days On The Road](https://open.spotify.com/track/032sAei1X5MdodhFWfTwE2) | [The Cadillac Three](https://open.spotify.com/artist/1nivFfWu6oXBFDNyVfFU5x) | [The Ice Road](https://open.spotify.com/album/2gaHEZAkAegkmjJnej9xLS) | 2:50 | 2022-03-11 | 2022-04-20 |
 | [Slow Dancing In A Burning Room \(Circle Sessions\)](https://open.spotify.com/track/4BdJ29tKViIvXhSKoB2dSS) | [ERNEST](https://open.spotify.com/artist/4GGfAshSkqoxpZdoaHm7ky) | [ERNEST & The Fellas Unplugged](https://open.spotify.com/album/25Kg2AqcqSY4FtrUtXc1s7) | 3:54 | 2023-10-27 |  |

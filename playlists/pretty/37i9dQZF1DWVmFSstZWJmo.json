@@ -1,12 +1,12 @@
 {
   "description": "Is \"indie sleaze\" in the room with us now? ft. Sky Ferreira",
-  "num_followers": 117533,
+  "num_followers": 117658,
   "original_name": "Indie Sleaze",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjOWJhZjExNGEwMzY1MjUzZjkwMWQ1YTE3ZjViZDZiMTE3ZDhkMzAx",
+  "snapshot_id": "MCxjMWU5MTJlNzZlYjFiZmRkNDE3MjAyNThmOGJhNmZiYmIzNjFkYWY0",
   "tracks": [
     {
       "added_at": "2023-09-05 19:58:53",
@@ -843,22 +843,6 @@
     {
       "added_at": "2023-09-05 19:58:53",
       "album": {
-        "name": "Rooty",
-        "url": "https://open.spotify.com/album/6CYhVDuSbAWmy9ku7E2wrP"
-      },
-      "artists": [
-        {
-          "name": "Basement Jaxx",
-          "url": "https://open.spotify.com/artist/4YrKBkKSVeqDamzBPWVnSJ"
-        }
-      ],
-      "duration_ms": 285533,
-      "name": "Where's Your Head At",
-      "url": "https://open.spotify.com/track/3cJh89D0za2SW705fNBo3b"
-    },
-    {
-      "added_at": "2023-09-05 19:58:53",
-      "album": {
         "name": "Fantasies",
         "url": "https://open.spotify.com/album/1N2HeWMUjuAxYL7UnA63JH"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 286013,
       "name": "Help I'm Alive",
       "url": "https://open.spotify.com/track/0cahtHEywK64NSWqm2SDTi"
+    },
+    {
+      "added_at": "2023-09-05 19:58:53",
+      "album": {
+        "name": "Rooty",
+        "url": "https://open.spotify.com/album/6CYhVDuSbAWmy9ku7E2wrP"
+      },
+      "artists": [
+        {
+          "name": "Basement Jaxx",
+          "url": "https://open.spotify.com/artist/4YrKBkKSVeqDamzBPWVnSJ"
+        }
+      ],
+      "duration_ms": 285533,
+      "name": "Where's Your Head At",
+      "url": "https://open.spotify.com/track/3cJh89D0za2SW705fNBo3b"
     },
     {
       "added_at": "2023-09-05 19:58:53",
@@ -937,22 +937,6 @@
       "url": "https://open.spotify.com/track/7qkNf6D661jZI9yNqw27LA"
     },
     {
-      "added_at": "2023-09-05 19:58:53",
-      "album": {
-        "name": "xx",
-        "url": "https://open.spotify.com/album/6tzQKMilI02kn1lzLklDI8"
-      },
-      "artists": [
-        {
-          "name": "The xx",
-          "url": "https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy"
-        }
-      ],
-      "duration_ms": 201946,
-      "name": "Crystalised",
-      "url": "https://open.spotify.com/track/33R3swWziWYmnDYvZqcZVS"
-    },
-    {
       "added_at": "2023-11-17 05:00:00",
       "album": {
         "name": "Using You",
@@ -967,6 +951,22 @@
       "duration_ms": 208372,
       "name": "Using You",
       "url": "https://open.spotify.com/track/11jVnpAewcZnIdLsq0BKJF"
+    },
+    {
+      "added_at": "2023-09-05 19:58:53",
+      "album": {
+        "name": "xx",
+        "url": "https://open.spotify.com/album/6tzQKMilI02kn1lzLklDI8"
+      },
+      "artists": [
+        {
+          "name": "The xx",
+          "url": "https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy"
+        }
+      ],
+      "duration_ms": 201946,
+      "name": "Crystalised",
+      "url": "https://open.spotify.com/track/33R3swWziWYmnDYvZqcZVS"
     },
     {
       "added_at": "2023-09-05 19:58:53",
@@ -1035,18 +1035,18 @@
     {
       "added_at": "2023-09-05 19:58:53",
       "album": {
-        "name": "xx",
-        "url": "https://open.spotify.com/album/6tzQKMilI02kn1lzLklDI8"
+        "name": "Supernature",
+        "url": "https://open.spotify.com/album/3vtZKHDljhjJORS14a4qKx"
       },
       "artists": [
         {
-          "name": "The xx",
-          "url": "https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy"
+          "name": "Goldfrapp",
+          "url": "https://open.spotify.com/artist/5BKsn7SCN2XmbF7apdCpRS"
         }
       ],
-      "duration_ms": 160720,
-      "name": "Islands",
-      "url": "https://open.spotify.com/track/6i5tYaGlOFDLILEB6HfJAa"
+      "duration_ms": 204373,
+      "name": "Ooh La La",
+      "url": "https://open.spotify.com/track/3E0gVkirGK2ouGHPuOO9cN"
     },
     {
       "added_at": "2023-09-05 19:58:53",
@@ -1063,22 +1063,6 @@
       "duration_ms": 462266,
       "name": "All My Friends",
       "url": "https://open.spotify.com/track/2Ud3deeqLAG988pfW0Kwcl"
-    },
-    {
-      "added_at": "2023-09-05 19:58:53",
-      "album": {
-        "name": "Supernature",
-        "url": "https://open.spotify.com/album/3vtZKHDljhjJORS14a4qKx"
-      },
-      "artists": [
-        {
-          "name": "Goldfrapp",
-          "url": "https://open.spotify.com/artist/5BKsn7SCN2XmbF7apdCpRS"
-        }
-      ],
-      "duration_ms": 204373,
-      "name": "Ooh La La",
-      "url": "https://open.spotify.com/track/3E0gVkirGK2ouGHPuOO9cN"
     },
     {
       "added_at": "2023-09-05 19:58:53",
@@ -1111,6 +1095,22 @@
       "duration_ms": 238973,
       "name": "Little Secrets",
       "url": "https://open.spotify.com/track/3kb38wezoUA8ki5jPYy3t5"
+    },
+    {
+      "added_at": "2023-09-05 19:58:53",
+      "album": {
+        "name": "xx",
+        "url": "https://open.spotify.com/album/6tzQKMilI02kn1lzLklDI8"
+      },
+      "artists": [
+        {
+          "name": "The xx",
+          "url": "https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy"
+        }
+      ],
+      "duration_ms": 160720,
+      "name": "Islands",
+      "url": "https://open.spotify.com/track/6i5tYaGlOFDLILEB6HfJAa"
     },
     {
       "added_at": "2023-09-05 19:58:53",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2023-09-05 19:58:53",
       "album": {
-        "name": "Wait for Me",
-        "url": "https://open.spotify.com/album/3EVZWeTZ5XDe8Z1O746XP3"
-      },
-      "artists": [
-        {
-          "name": "The Pigeon Detectives",
-          "url": "https://open.spotify.com/artist/7FPkZue0zzjHaOPJb4WCw3"
-        }
-      ],
-      "duration_ms": 127400,
-      "name": "I Found Out",
-      "url": "https://open.spotify.com/track/2zpG6GUvNc1hqDBsLIJOOp"
-    },
-    {
-      "added_at": "2023-09-05 19:58:53",
-      "album": {
         "name": "See Mystery Lights: Remixes & B-Sides",
         "url": "https://open.spotify.com/album/7JNgMsuPDrqguKEh5rGaFb"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 279373,
       "name": "Lights & Music",
       "url": "https://open.spotify.com/track/0FezhHZVmDYXvk8jAr2fpU"
+    },
+    {
+      "added_at": "2023-09-05 19:58:53",
+      "album": {
+        "name": "Wait for Me",
+        "url": "https://open.spotify.com/album/3EVZWeTZ5XDe8Z1O746XP3"
+      },
+      "artists": [
+        {
+          "name": "The Pigeon Detectives",
+          "url": "https://open.spotify.com/artist/7FPkZue0zzjHaOPJb4WCw3"
+        }
+      ],
+      "duration_ms": 127400,
+      "name": "I Found Out",
+      "url": "https://open.spotify.com/track/2zpG6GUvNc1hqDBsLIJOOp"
     },
     {
       "added_at": "2023-09-05 19:58:53",
@@ -1615,6 +1615,22 @@
     {
       "added_at": "2023-09-05 19:58:53",
       "album": {
+        "name": "I Can Change",
+        "url": "https://open.spotify.com/album/6tXJDrWCenq1PUDLi6eeQT"
+      },
+      "artists": [
+        {
+          "name": "Mindchatter",
+          "url": "https://open.spotify.com/artist/1He0ZKninbT4FMEV9hUZKn"
+        }
+      ],
+      "duration_ms": 331525,
+      "name": "I Can Change",
+      "url": "https://open.spotify.com/track/4yhslVvynysGhexambPGcy"
+    },
+    {
+      "added_at": "2023-09-05 19:58:53",
+      "album": {
         "name": "Fist of God",
         "url": "https://open.spotify.com/album/1DnzLOrLqOGgyqQdrt5ize"
       },
@@ -1631,22 +1647,6 @@
       "duration_ms": 192853,
       "name": "Heartbreaker (feat. John Legend)",
       "url": "https://open.spotify.com/track/3xwm0faDUX5DQxvNVpawjB"
-    },
-    {
-      "added_at": "2023-09-05 19:58:53",
-      "album": {
-        "name": "I Can Change",
-        "url": "https://open.spotify.com/album/6tXJDrWCenq1PUDLi6eeQT"
-      },
-      "artists": [
-        {
-          "name": "Mindchatter",
-          "url": "https://open.spotify.com/artist/1He0ZKninbT4FMEV9hUZKn"
-        }
-      ],
-      "duration_ms": 331525,
-      "name": "I Can Change",
-      "url": "https://open.spotify.com/track/4yhslVvynysGhexambPGcy"
     }
   ],
   "unique_name": "Indie Sleaze",

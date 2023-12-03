@@ -100,6 +100,10 @@
         {
           "name": "Mainstreet",
           "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
+        },
+        {
+          "name": "LB \u00danico",
+          "url": "https://open.spotify.com/artist/7w1eimo0NMZhuwNZTf4MHY"
         }
       ],
       "date_added": "2023-11-25",
@@ -1262,6 +1266,24 @@
       "duration_ms": 183100,
       "name": "ANACONDA *o* ~~~",
       "url": "https://open.spotify.com/track/46hKvtq6unWnyUobwzBUca"
+    },
+    {
+      "album": {
+        "name": "Anestesiado (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1SzYchODhkUqPcSNR2HKh0"
+      },
+      "artists": [
+        {
+          "name": "Murilo Huff",
+          "url": "https://open.spotify.com/artist/3hq7WoPJsrRP0KMSLhUgRz"
+        }
+      ],
+      "date_added": "2023-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172548,
+      "name": "Anestesiado - Ao Vivo",
+      "url": "https://open.spotify.com/track/7vCtJ5u7dFM4tAWtgFf4l8"
     },
     {
       "album": {
@@ -3545,6 +3567,28 @@
     },
     {
       "album": {
+        "name": "CHEIRO NA CAMISETA",
+        "url": "https://open.spotify.com/album/1eJ0snHdRSAo3OgpwultI6"
+      },
+      "artists": [
+        {
+          "name": "Luan Pereira",
+          "url": "https://open.spotify.com/artist/5kVgcCdPbeUwxBqWxi2Ktl"
+        },
+        {
+          "name": "Hugo & Guilherme",
+          "url": "https://open.spotify.com/artist/1LIuN7ov1IBQDdLsU83ojl"
+        }
+      ],
+      "date_added": "2023-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156431,
+      "name": "CHEIRO NA CAMISETA",
+      "url": "https://open.spotify.com/track/6Td7nVeAOUz13zhDlUY8jv"
+    },
+    {
+      "album": {
         "name": "Esc\u00e2ndalo \u00cdntimo",
         "url": "https://open.spotify.com/album/39nlfd4MoNcVGgvx64Opnt"
       },
@@ -4082,7 +4126,7 @@
       ],
       "date_added": "2023-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-03",
       "duration_ms": 178426,
       "name": "Cruel Summer",
       "url": "https://open.spotify.com/track/1BxfuPKGuaTgP7aM0Bbdwr"
@@ -6688,7 +6732,7 @@
       ],
       "date_added": "2023-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-01",
+      "date_removed": null,
       "duration_ms": 127228,
       "name": "Faz Completo, Chefe",
       "url": "https://open.spotify.com/track/4ldcxPVAtih8alepJTu8Hx"
@@ -12762,7 +12806,7 @@
       ],
       "date_added": "2023-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-03",
       "duration_ms": 197538,
       "name": "Piloto",
       "url": "https://open.spotify.com/track/07DskqQ1NbTiotX1WIV7ob"
@@ -14536,7 +14580,7 @@
       ],
       "date_added": "2023-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-03",
       "duration_ms": 104145,
       "name": "Segredo",
       "url": "https://open.spotify.com/track/6hu4HvpNzrW2RIEEAZC3vD"

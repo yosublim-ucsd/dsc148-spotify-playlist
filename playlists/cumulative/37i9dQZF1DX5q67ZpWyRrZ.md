@@ -2,9 +2,9 @@
 
 ### [Indie India ](https://open.spotify.com/playlist/37i9dQZF1DX5q67ZpWyRrZ)
 
-> Best of the Indian Indie scene\. Cover \- 'Mulaqat' by Prateek Kuhad
+> Best of the Indian Indie scene\. Cover \- Anuv Jain
 
-228 songs - 12 hr 56 min
+229 songs - 13 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,6 +86,7 @@
 | [Hopelessly](https://open.spotify.com/track/6HtxhZWccYHCxJrItfrglg) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [Hopelessly](https://open.spotify.com/album/7aceEsnN7sznnw0R39Lvfe) | 3:00 | 2023-04-30 | 2023-09-12 |
 | [Humara Ho Gaya](https://open.spotify.com/track/7qMCYAkTTbFOw1hUXvAAje) | [Osho Jain](https://open.spotify.com/artist/41Sw7HsskHGbJOJXhLUTEK), [Sanchi](https://open.spotify.com/artist/6QxNIpuAHE6MqRUCHJdLt0) | [Saar](https://open.spotify.com/album/2leNjXvtxbHDUFiltWZtbQ) | 2:37 | 2022-01-05 | 2023-03-09 |
 | [Humne Bhi](https://open.spotify.com/track/78bJtdSTpHYS8u9axaismu) | [The Western Ghats](https://open.spotify.com/artist/3vX5K7r9Icdjsrlax4FzWv) | [Humne Bhi \- Single](https://open.spotify.com/album/0rfjCcKynJ2CDAwGD8Yp1z) | 4:12 | 2021-12-06 | 2022-04-29 |
+| [Husn](https://open.spotify.com/track/0TL0LFcwIBF5eX7arDIKxY) | [Anuv Jain](https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx) | [Husn](https://open.spotify.com/album/2SarxpD48O1DOiDIccyZ0W) | 3:37 | 2023-12-02 |  |
 | [i'll find my way to you tomorrow](https://open.spotify.com/track/4zTg4g1gKpxWTShLFDEill) | [Kevin Fernando](https://open.spotify.com/artist/0hLMKcdVjEseHo45rgzeIq) | [i'll find my way to you tomorrow](https://open.spotify.com/album/4KIpuP4MsEiGLbyiGR9BNS) | 3:45 | 2021-12-06 | 2022-10-20 |
 | [i'll find my way to you tomorrow](https://open.spotify.com/track/6kRAuOoZBRLwZQYjFdGjIa) | [Kevin Fernando](https://open.spotify.com/artist/0hLMKcdVjEseHo45rgzeIq) | [i'll find my way to you tomorrow](https://open.spotify.com/album/2bzG2vEFeUShVRUrJUlO7D) | 3:45 | 2022-09-21 | 2022-10-21 |
 | [I'm On Holiday](https://open.spotify.com/track/7ywG4HmmsUCoM2g88z1D0f) | [The F16s](https://open.spotify.com/artist/5PVlXEAvlt6SfYpWBYTM4C) | [I'm On Holiday](https://open.spotify.com/album/618dFbVK7B8HN1dLHuj8Nw) | 3:32 | 2022-01-05 | 2022-02-12 |
@@ -143,7 +144,7 @@
 | [Mazaak](https://open.spotify.com/track/6BvRzfqi3sMAoQYnRpMVL0) | [Anuv Jain](https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx) | [Mazaak](https://open.spotify.com/album/4Z5Z0qWzKvTgv7XRnodjNU) | 3:32 | 2022-09-16 | 2023-10-13 |
 | [Mazaak](https://open.spotify.com/track/0uBo93xl23O60oErtKvSAg) | [Anuv Jain](https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx) | [Mazaak](https://open.spotify.com/album/2Uewap1o2Ic2XmN4wb9isV) | 3:32 | 2023-10-09 |  |
 | [Mehfooz](https://open.spotify.com/track/36jYuqoGDDlfZBst0p4JGy) | [Ritviz](https://open.spotify.com/artist/72beYOeW2sb2yfcS4JsRvb) | [Mimmi](https://open.spotify.com/album/1AproDt63gOfSf7AhNzlmG) | 2:22 | 2022-09-03 | 2022-11-29 |
-| [Mehmaan](https://open.spotify.com/track/3s5Rz3KFms39ZrFDw2jt4r) | [Sickflip](https://open.spotify.com/artist/4a5cFa2gISG9QtjELLgYcZ), [Mismatched \- Cast](https://open.spotify.com/artist/0NbgKDsEHiPzZBZkqZGkXm), [Raitila Rajasthan](https://open.spotify.com/artist/03CXCirzmzFLNwU4frezp7) | [Mismatched: Season 2 \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/0bPV8j4jfsKeoW5P3YQInX) | 2:50 | 2022-11-18 |  |
+| [Mehmaan](https://open.spotify.com/track/3s5Rz3KFms39ZrFDw2jt4r) | [Sickflip](https://open.spotify.com/artist/4a5cFa2gISG9QtjELLgYcZ), [Mismatched \- Cast](https://open.spotify.com/artist/0NbgKDsEHiPzZBZkqZGkXm), [Raitila Rajasthan](https://open.spotify.com/artist/03CXCirzmzFLNwU4frezp7) | [Mismatched: Season 2 \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/0bPV8j4jfsKeoW5P3YQInX) | 2:50 | 2022-11-18 | 2023-12-03 |
 | [Mera Safar](https://open.spotify.com/track/2AB7fsbG0eZJjDGile69CQ) | [Iqlipse Nova](https://open.spotify.com/artist/5tVEtYVMATyQ6OVOetuZlk) | [Mera Safar](https://open.spotify.com/album/5MaDDfFcO8Eao37Crt324Q) | 3:10 | 2022-09-05 |  |
 | [Meri Baaton Mein Tu](https://open.spotify.com/track/5nTbPFqLKmQdIg1SD8KgG4) | [Anuv Jain](https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx) | [Meri Baaton Mein Tu](https://open.spotify.com/album/4L79tNWi1gfRrbuzW0Vwfn) | 3:33 | 2022-03-06 | 2022-12-24 |
 | [Milon Chala](https://open.spotify.com/track/0ZnlE3PfamXPMCsT5wr3sK) | [Ashu Shukla](https://open.spotify.com/artist/15iD55LPew2DyTQDqoV0F1) | [Milon Chala](https://open.spotify.com/album/3kkhdt3cKKiZySDihwFbPG) | 3:10 | 2022-07-25 | 2022-08-11 |

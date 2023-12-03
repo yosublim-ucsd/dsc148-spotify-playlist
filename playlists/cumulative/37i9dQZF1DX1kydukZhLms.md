@@ -4,7 +4,7 @@
 
 > Throw your lighters in the air and wave them like you don't care\. Cover: Guns N' Roses
 
-296 songs - 1 day 1 hr 9 min
+297 songs - 1 day 1 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -132,7 +132,7 @@
 | [I Still Love You \- 2022 Remastered](https://open.spotify.com/track/5InrTlQeClBr55lHREONCp) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Creatures Of The Night \(40th Anniversary / Super Deluxe\)](https://open.spotify.com/album/5jK7ZZGXUBfttfclUNUmnS) | 6:06 | 2023-02-06 | 2023-04-13 |
 | [I Will Remember \- Remastered](https://open.spotify.com/track/2a3AywJ9UUwws73WLguDzd) | [Queensrÿche](https://open.spotify.com/artist/2OgUPVlWYgGBGMefZgGvCO) | [Rage For Order \(Remastered\) \[Expanded Edition\]](https://open.spotify.com/album/4bcTrCj8wfKsFMv8O0NwDe) | 4:38 | 2022-04-15 | 2022-07-28 |
 | [I Won't Forget You \- Remastered 2003](https://open.spotify.com/track/6WmVgLj2htklkU3SZOsItg) | [Poison](https://open.spotify.com/artist/1fBCIkoPOPCDLUxGuWNvyo) | [Look What The Cat Dragged In \- 20th Anniversary Edition](https://open.spotify.com/album/2SkbSj0eZ2H5uqKYEnMmIe) | 3:34 | 2022-04-15 |  |
-| [I'll Be There For You](https://open.spotify.com/track/67YIAxlMlfSNmbnt83zGKh) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp) | [New Jersey](https://open.spotify.com/album/7CNtnpBoG1lsUBWwpnJjwv) | 5:46 | 2022-04-15 |  |
+| [I'll Be There For You](https://open.spotify.com/track/67YIAxlMlfSNmbnt83zGKh) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp) | [New Jersey](https://open.spotify.com/album/7CNtnpBoG1lsUBWwpnJjwv) | 5:46 | 2022-04-15 | 2023-12-03 |
 | [I'll Cry For You](https://open.spotify.com/track/5fPIx4t5vomPE9cWnTL6gv) | [Europe](https://open.spotify.com/artist/7Js6Lde8thlIHXggv2SCBz) | [Prisoners In Paradise](https://open.spotify.com/album/6bjLeNJ4eSTiEwMxqWeFYp) | 5:21 | 2022-04-15 | 2022-11-13 |
 | [In a Darkened Room](https://open.spotify.com/track/4WwWjFCyvUY2fcx8OULByB) | [Skid Row](https://open.spotify.com/artist/4opTS86dN9uO313J9CE8xg) | [Slave to the Grind](https://open.spotify.com/album/0AiXcZbksZoX2pSe2384Z3) | 3:55 | 2022-04-15 |  |
 | [In Memory](https://open.spotify.com/track/2EAwZKPlwpYofvTmTQFC7B) | [Primal Fear](https://open.spotify.com/artist/1yfiDL3YUEJlQCgb5Pun6g) | [Seven Seals](https://open.spotify.com/album/0Ehwt0ClfhU04kD7dOUGSO) | 5:07 | 2022-04-15 | 2022-07-27 |
@@ -292,6 +292,7 @@
 | [Windowpane](https://open.spotify.com/track/4uJSCrI7r0usNJ3aaHAuC6) | [Opeth](https://open.spotify.com/artist/0ybFZ2Ab08V8hueghSXm6E) | [Damnation](https://open.spotify.com/album/4FmI0F5GvvR1M9RURWnJV9) | 7:44 | 2022-04-15 |  |
 | [Winterdreams](https://open.spotify.com/track/2t8exWxl59Eix9hodoDmhG) | [Accept](https://open.spotify.com/artist/3JDIAtVrJdQ7GFOX26LYpv) | [Balls To The Wall](https://open.spotify.com/album/2ogbkPbabA9E5LFXiFhDas) | 4:52 | 2022-04-15 | 2022-07-29 |
 | [Wither](https://open.spotify.com/track/4MY2jh37Rir45QH6YAkB8W) | [Dream Theater](https://open.spotify.com/artist/2aaLAng2L2aWD2FClzwiep) | [Black Clouds & Silver Linings \(Special Edition\)](https://open.spotify.com/album/2qMujQgkbogm4owxpt8aVP) | 5:25 | 2022-04-15 | 2022-07-28 |
+| [Without You](https://open.spotify.com/track/2t8hAwOuHbNOl76LBWMU0R) | [Mötley Crüe](https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL) | [Dr\. Feelgood \(Deluxe Version\)](https://open.spotify.com/album/0VPad241NfcHMOXcRcLrDe) | 4:28 | 2023-02-06 |  |
 | [Without You](https://open.spotify.com/track/2Pntw3RoGXhANFihOS8XyD) | [Mötley Crüe](https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL) | [Dr\. Feelgood \(Deluxe Version\)](https://open.spotify.com/album/23krn1eEy7o3u9laLI1PLD) | 4:30 | 2022-04-15 | 2023-11-18 |
 | [Wrong Side of Heaven](https://open.spotify.com/track/0GQmBK4A5hFQdjhYCFCbtK) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [The Wrong Side of Heaven and the Righteous Side of Hell, Vol\. 1](https://open.spotify.com/album/1Z3JwX4HqsMcmlsNZqcIX7) | 4:31 | 2023-02-06 |  |
 | [Wrong Side of Heaven](https://open.spotify.com/track/0gMTjqQCHmQpCqmmeCy2wP) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [The Wrong Side of Heaven and the Righteous Side of Hell, Vol\. 1 \(Deluxe Edition\)](https://open.spotify.com/album/1qfm8YhH28Bgs3e8hutsqw) | 4:31 | 2022-04-15 | 2023-08-21 |

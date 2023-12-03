@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">Dance music</a> for the heart <3
 
-1,227 songs - 2 day 23 hr 38 min
+1,228 songs - 2 day 23 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -168,6 +168,7 @@
 | [Breathin' \- Radio Mix](https://open.spotify.com/track/6Z9fRBqFuNfqiPDhbEd6O6) | [EDX](https://open.spotify.com/artist/7GMot9WvBYqhhJz92vhBp6) | [Breathin'](https://open.spotify.com/album/0pGlDYRVaU93oUaQMO2K6c) | 2:53 | 2020-04-16 | 2020-10-30 |
 | [Breathless \(with Alina Baraz\)](https://open.spotify.com/track/1BaNZOpKVM6OtBuMfpeGYX) | [Austin Millz](https://open.spotify.com/artist/43UmVQp9qZILibJ5vHq21k), [Alina Baraz](https://open.spotify.com/artist/6hfwwpXqZPRC9CsKI7qtv1) | [Breathless \(with Alina Baraz\)](https://open.spotify.com/album/2uESefirannUYEJxBVc9rQ) | 2:48 | 2023-05-19 |  |
 | [Brighter Side](https://open.spotify.com/track/2cXlDeF2sUoZRQgYQZ2nb0) | [ARTY](https://open.spotify.com/artist/1rSGNXhhYuWoq9BEz5DZGO) | [Brighter Side](https://open.spotify.com/album/0osvFkZRM9NfQGUTM0EzOT) | 3:20 | 2021-08-21 | 2022-05-14 |
+| [Bringing Me Home](https://open.spotify.com/track/6Uuh5KUTe7ujO2vhpruqW7) | [Snakehips](https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP), [LAUREL](https://open.spotify.com/artist/6y6iXD929Jqq0xc6lgwhl1) | [Bringing Me Home](https://open.spotify.com/album/1WdDBOFiSMGuAuLUKJbvXL) | 3:29 | 2023-12-01 |  |
 | [Broken Love \(feat\. Parson James\)](https://open.spotify.com/track/4CCLVW7kCXSA8nLbl1lYYs) | [The Him](https://open.spotify.com/artist/5WdqBAQhGFCrZvBKXiPIu7), [Parson James](https://open.spotify.com/artist/48sLioddyaXkuhyHXSkpsB) | [Broken Love \(feat\. Parson James\)](https://open.spotify.com/album/0Ru1TX44QxQhuzJrQoDxZC) | 3:28 | 2019-08-09\* | 2020-03-29 |
 | [Broken Ones \(with Anna Clendening\) \[Last Heroes Remix\]](https://open.spotify.com/track/3nEaqL2YXuorAebBCkA5yv) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Last Heroes](https://open.spotify.com/artist/3HHfEn7yPOy3IiHS6CHG97), [Anna Clendening](https://open.spotify.com/artist/2y9j8qUwBMGPYPQJJxmYzD) | [ASCEND \(Remixes\)](https://open.spotify.com/album/2Ds60s4LcHcb77dNQm22kA) | 3:18 | 2020-06-04 | 2021-09-25 |
 | [Burning \(feat\. Camden Cox\)](https://open.spotify.com/track/54Yr0BPkVQ378IeCWnG91Q) | [Eli & Fur](https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4), [Camden Cox](https://open.spotify.com/artist/5mNpMP01Co4vXZ3U0fWP3C) | [Burning \(feat\. Camden Cox\)](https://open.spotify.com/album/6sWssLrwhCrk3kGjzwJ9ZV) | 3:06 | 2021-09-25 | 2022-05-14 |
@@ -679,7 +680,7 @@
 | [Lucky Ones](https://open.spotify.com/track/16NIrabVJJj9qtOnl1dik8) | [Covex](https://open.spotify.com/artist/2BlB5MW4WdyyglpczlQ6Mm), [Olivia Ray](https://open.spotify.com/artist/5So3yhsr5VClNUYO604Sle) | [A Change of Perspective](https://open.spotify.com/album/4lOCWG0YrcTYHFdtweLsv7) | 3:19 | 2022-02-11 | 2022-10-13 |
 | [Lucky Ones](https://open.spotify.com/track/2LBkhtBDtgrumEtVJYuPzp) | [Covex](https://open.spotify.com/artist/2BlB5MW4WdyyglpczlQ6Mm), [Olivia Ray](https://open.spotify.com/artist/5So3yhsr5VClNUYO604Sle) | [A Change of Perspective \(Deluxe\)](https://open.spotify.com/album/3qR8Mr9xCDAk7HAjNkLj3w) | 3:19 | 2022-10-28 | 2022-11-14 |
 | [Lucky Ones](https://open.spotify.com/track/7ptHMwc3zT9qudXy668WDK) | [Covex](https://open.spotify.com/artist/2BlB5MW4WdyyglpczlQ6Mm), [Olivia Ray](https://open.spotify.com/artist/5So3yhsr5VClNUYO604Sle) | [A Change of Perspective](https://open.spotify.com/album/0MYbIbyYESrE7NAjuQVcWi) | 3:19 | 2022-09-30 | 2023-09-10 |
-| [Lullaby](https://open.spotify.com/track/2c4dLyo3OqHdaej5tafhfR) | [Le Youth](https://open.spotify.com/artist/1Zz6NBe8UIZjm88TvehFtx), [Anakim](https://open.spotify.com/artist/5Fkwv4f0Cec48ywsb8DnwJ), [Linney](https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb) | [Lullaby](https://open.spotify.com/album/5O2uZU8F0jiMbUvWnXap9Q) | 4:56 | 2022-01-28 |  |
+| [Lullaby](https://open.spotify.com/track/2c4dLyo3OqHdaej5tafhfR) | [Le Youth](https://open.spotify.com/artist/1Zz6NBe8UIZjm88TvehFtx), [Anakim](https://open.spotify.com/artist/5Fkwv4f0Cec48ywsb8DnwJ), [Linney](https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb) | [Lullaby](https://open.spotify.com/album/5O2uZU8F0jiMbUvWnXap9Q) | 4:56 | 2022-01-28 | 2023-12-03 |
 | [Ma Luv](https://open.spotify.com/track/48RoCGs1FNlp8NF3HXW2Wt) | [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p), [MorganJ](https://open.spotify.com/artist/5irwemCIBdwWYTZrcxX2UW) | [Ma Luv](https://open.spotify.com/album/7CFZSyuqggIrBjyj86wP0A) | 2:50 | 2021-08-14 | 2021-10-09 |
 | [MADLY](https://open.spotify.com/track/7Eg6WudP6Qp7JzqldA2ZTH) | [The Blaze](https://open.spotify.com/artist/1Dt1UKLtrJIW1xxRBejjos) | [JUNGLE](https://open.spotify.com/album/409STQlcajDkM1vdhM4Qxo) | 4:09 | 2023-03-10 |  |
 | [Magic](https://open.spotify.com/track/7GYLsGlCPqSkLBNDC5mVyl) | [Thomas Gold](https://open.spotify.com/artist/1XLjkBxFokuDTlHt0mQkRe), [Jillian Edwards](https://open.spotify.com/artist/6ctgu4FFlnNhMgrKiIzCxp) | [Magic](https://open.spotify.com/album/3sv4c3hqHP1ZO8Nj62W8TS) | 2:50 | 2019-08-09\* | 2019-08-27 |

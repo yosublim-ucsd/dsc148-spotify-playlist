@@ -1,12 +1,12 @@
 {
   "description": "time-stretching granular synthesis. ",
-  "num_followers": 96720,
+  "num_followers": 96762,
   "original_name": "bleeps ^ glitches",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNDNiZmM2NDIzOWU0YjM3MGMxZjA5NzQyYWJlNTI5NDI5NzczNTll",
+  "snapshot_id": "MCxlNGMzOWY4OGNlOWVhNzg5ZjExMTU1Y2Q2ZTY3MWM3Y2Q3NTFmMzhj",
   "tracks": [
     {
       "added_at": "2023-05-09 01:25:54",
@@ -163,22 +163,6 @@
     {
       "added_at": "2021-10-06 04:42:05",
       "album": {
-        "name": "\u65b0\u3057\u3044\u65e5\u306e\u8a95\u751f",
-        "url": "https://open.spotify.com/album/01m2bictEiKiVzFjk0h28N"
-      },
-      "artists": [
-        {
-          "name": "\uff12\uff18\uff11\uff14",
-          "url": "https://open.spotify.com/artist/2wBpW4bAGYVe0yJcBeCTyd"
-        }
-      ],
-      "duration_ms": 563600,
-      "name": "\u60b2\u54c0",
-      "url": "https://open.spotify.com/track/7pNYDevPRpNiBewv99EdOq"
-    },
-    {
-      "added_at": "2021-10-06 04:42:05",
-      "album": {
         "name": "Sleep Through the Storm",
         "url": "https://open.spotify.com/album/3EFWBA9qmXMMwX48QdSOm7"
       },
@@ -191,6 +175,22 @@
       "duration_ms": 191413,
       "name": "Kalimba Heart",
       "url": "https://open.spotify.com/track/4UVYWa3Pq8pjm0bKw9uZ9u"
+    },
+    {
+      "added_at": "2021-10-06 04:42:05",
+      "album": {
+        "name": "\u65b0\u3057\u3044\u65e5\u306e\u8a95\u751f",
+        "url": "https://open.spotify.com/album/01m2bictEiKiVzFjk0h28N"
+      },
+      "artists": [
+        {
+          "name": "\uff12\uff18\uff11\uff14",
+          "url": "https://open.spotify.com/artist/2wBpW4bAGYVe0yJcBeCTyd"
+        }
+      ],
+      "duration_ms": 563600,
+      "name": "\u60b2\u54c0",
+      "url": "https://open.spotify.com/track/7pNYDevPRpNiBewv99EdOq"
     },
     {
       "added_at": "2023-08-29 01:18:54",
@@ -383,22 +383,6 @@
     {
       "added_at": "2021-10-06 04:42:05",
       "album": {
-        "name": "Late Spring",
-        "url": "https://open.spotify.com/album/0ivDCaGwBmUHHatP2XDe0Y"
-      },
-      "artists": [
-        {
-          "name": "Chihei Hatakeyama",
-          "url": "https://open.spotify.com/artist/4G1ZsxfEEztbE1VcnNInPg"
-        }
-      ],
-      "duration_ms": 365960,
-      "name": "Twilight Sea",
-      "url": "https://open.spotify.com/track/4dHxCO4kzAtcoki383YV0v"
-    },
-    {
-      "added_at": "2021-10-06 04:42:05",
-      "album": {
         "name": "Fragments",
         "url": "https://open.spotify.com/album/2WcSpIMRYszQtLIsDIKMrV"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 210655,
       "name": "Cup Noodle",
       "url": "https://open.spotify.com/track/48ieq4orqgVGclzC5dEMy3"
+    },
+    {
+      "added_at": "2021-10-06 04:42:05",
+      "album": {
+        "name": "Late Spring",
+        "url": "https://open.spotify.com/album/0ivDCaGwBmUHHatP2XDe0Y"
+      },
+      "artists": [
+        {
+          "name": "Chihei Hatakeyama",
+          "url": "https://open.spotify.com/artist/4G1ZsxfEEztbE1VcnNInPg"
+        }
+      ],
+      "duration_ms": 365960,
+      "name": "Twilight Sea",
+      "url": "https://open.spotify.com/track/4dHxCO4kzAtcoki383YV0v"
     },
     {
       "added_at": "2022-08-03 02:34:20",
@@ -601,22 +601,6 @@
       "url": "https://open.spotify.com/track/3A6tEuBqrZGmFXZrYEGx00"
     },
     {
-      "added_at": "2023-11-08 01:22:26",
-      "album": {
-        "name": "Panic Multiplier",
-        "url": "https://open.spotify.com/album/1N9PkW0QGrZC3JN8o9x62D"
-      },
-      "artists": [
-        {
-          "name": "Client_03",
-          "url": "https://open.spotify.com/artist/6YP21EZOajDkBEHKPX3kYt"
-        }
-      ],
-      "duration_ms": 332745,
-      "name": "Obligation Reminder",
-      "url": "https://open.spotify.com/track/6vbv5qwwiQlWmfqkYfHAyv"
-    },
-    {
       "added_at": "2021-10-06 04:42:05",
       "album": {
         "name": "Dusting For Smoke",
@@ -631,6 +615,22 @@
       "duration_ms": 233499,
       "name": "Lone Swordsman",
       "url": "https://open.spotify.com/track/4n0Hki3RG2Fa35s5PORLIq"
+    },
+    {
+      "added_at": "2023-11-08 01:22:26",
+      "album": {
+        "name": "Panic Multiplier",
+        "url": "https://open.spotify.com/album/1N9PkW0QGrZC3JN8o9x62D"
+      },
+      "artists": [
+        {
+          "name": "Client_03",
+          "url": "https://open.spotify.com/artist/6YP21EZOajDkBEHKPX3kYt"
+        }
+      ],
+      "duration_ms": 332745,
+      "name": "Obligation Reminder",
+      "url": "https://open.spotify.com/track/6vbv5qwwiQlWmfqkYfHAyv"
     },
     {
       "added_at": "2021-10-06 04:42:05",
@@ -769,6 +769,22 @@
       "url": "https://open.spotify.com/track/5o4IyOYeFXEQ8NZuKuPHOQ"
     },
     {
+      "added_at": "2023-03-03 04:14:50",
+      "album": {
+        "name": "Vegetal Passivity",
+        "url": "https://open.spotify.com/album/438fQG8XXxqeW5QU8vm5kW"
+      },
+      "artists": [
+        {
+          "name": "Rzekomo",
+          "url": "https://open.spotify.com/artist/67Prupu7EtgJIYm8Zx4rku"
+        }
+      ],
+      "duration_ms": 238153,
+      "name": "Vegetal Passivity",
+      "url": "https://open.spotify.com/track/500NwswktI6j2aVYW5mZkh"
+    },
+    {
       "added_at": "2022-02-16 00:42:21",
       "album": {
         "name": "drames rurals",
@@ -799,22 +815,6 @@
       "duration_ms": 283200,
       "name": "l'empelt",
       "url": "https://open.spotify.com/track/19xIHqQ06u9gzxbbmeNvx4"
-    },
-    {
-      "added_at": "2023-03-03 04:14:50",
-      "album": {
-        "name": "Vegetal Passivity",
-        "url": "https://open.spotify.com/album/438fQG8XXxqeW5QU8vm5kW"
-      },
-      "artists": [
-        {
-          "name": "Rzekomo",
-          "url": "https://open.spotify.com/artist/67Prupu7EtgJIYm8Zx4rku"
-        }
-      ],
-      "duration_ms": 238153,
-      "name": "Vegetal Passivity",
-      "url": "https://open.spotify.com/track/500NwswktI6j2aVYW5mZkh"
     },
     {
       "added_at": "2022-07-08 04:56:00",
@@ -949,22 +949,6 @@
       "url": "https://open.spotify.com/track/6BJ4F52G2o5TgmIJAAYuQD"
     },
     {
-      "added_at": "2022-03-29 02:05:38",
-      "album": {
-        "name": "QUAKENBR\u00dcCK [Version]",
-        "url": "https://open.spotify.com/album/6LkHBWg8yy3FUH0cA88Tn7"
-      },
-      "artists": [
-        {
-          "name": "Bitchin Bajas",
-          "url": "https://open.spotify.com/artist/57ZB0kMmW6JLQAIaCzMG7I"
-        }
-      ],
-      "duration_ms": 279601,
-      "name": "Quakenbr\u00fcck - version",
-      "url": "https://open.spotify.com/track/19NImMMxeU46iLoMSC1Bmu"
-    },
-    {
       "added_at": "2021-10-06 04:42:05",
       "album": {
         "name": "These Days Don't Exist",
@@ -979,6 +963,22 @@
       "duration_ms": 225136,
       "name": "Dream Walk",
       "url": "https://open.spotify.com/track/7rO0THNPmucJEdOaMhAHgy"
+    },
+    {
+      "added_at": "2022-03-29 02:05:38",
+      "album": {
+        "name": "QUAKENBR\u00dcCK [Version]",
+        "url": "https://open.spotify.com/album/6LkHBWg8yy3FUH0cA88Tn7"
+      },
+      "artists": [
+        {
+          "name": "Bitchin Bajas",
+          "url": "https://open.spotify.com/artist/57ZB0kMmW6JLQAIaCzMG7I"
+        }
+      ],
+      "duration_ms": 279601,
+      "name": "Quakenbr\u00fcck - version",
+      "url": "https://open.spotify.com/track/19NImMMxeU46iLoMSC1Bmu"
     },
     {
       "added_at": "2022-02-25 03:33:17",
@@ -1109,22 +1109,6 @@
       "url": "https://open.spotify.com/track/7aZlJBPtjrvbgrdNrJzLMz"
     },
     {
-      "added_at": "2021-10-06 04:42:05",
-      "album": {
-        "name": "I Can Hear the Birds",
-        "url": "https://open.spotify.com/album/5e2c7ge98FEC2RaAAq0wV1"
-      },
-      "artists": [
-        {
-          "name": "Totally Enormous Extinct Dinosaurs",
-          "url": "https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN"
-        }
-      ],
-      "duration_ms": 262653,
-      "name": "Bundeena",
-      "url": "https://open.spotify.com/track/1QNgUvacqzNDdMOkXFtMlN"
-    },
-    {
       "added_at": "2023-04-15 02:42:19",
       "album": {
         "name": "FOREVERANDEVERNOMORE (FOREVER VOICELESS EDITION)",
@@ -1139,6 +1123,22 @@
       "duration_ms": 205906,
       "name": "Ch\u00e9ri - Instrumental",
       "url": "https://open.spotify.com/track/3oBIxCgN5rcjO3WaIiFu0r"
+    },
+    {
+      "added_at": "2021-10-06 04:42:05",
+      "album": {
+        "name": "I Can Hear the Birds",
+        "url": "https://open.spotify.com/album/5e2c7ge98FEC2RaAAq0wV1"
+      },
+      "artists": [
+        {
+          "name": "Totally Enormous Extinct Dinosaurs",
+          "url": "https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN"
+        }
+      ],
+      "duration_ms": 262653,
+      "name": "Bundeena",
+      "url": "https://open.spotify.com/track/1QNgUvacqzNDdMOkXFtMlN"
     },
     {
       "added_at": "2021-10-06 04:42:05",
@@ -1173,22 +1173,6 @@
       "url": "https://open.spotify.com/track/1RNe4viqCD97PgAChQers4"
     },
     {
-      "added_at": "2023-08-17 17:21:25",
-      "album": {
-        "name": "Circuit Current",
-        "url": "https://open.spotify.com/album/1Io0KZKAK3f69QO9FpJWuK"
-      },
-      "artists": [
-        {
-          "name": "1tbsp",
-          "url": "https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4"
-        }
-      ],
-      "duration_ms": 247558,
-      "name": "Circuit Current",
-      "url": "https://open.spotify.com/track/2mZZ2QeDPoeJIePGbDmNjX"
-    },
-    {
       "added_at": "2023-01-07 02:10:08",
       "album": {
         "name": "Ultra Truth",
@@ -1203,6 +1187,22 @@
       "duration_ms": 317183,
       "name": "Ultra Truth",
       "url": "https://open.spotify.com/track/5XJbxQd5go9wRFpYq4fChY"
+    },
+    {
+      "added_at": "2023-08-17 17:21:25",
+      "album": {
+        "name": "Circuit Current",
+        "url": "https://open.spotify.com/album/1Io0KZKAK3f69QO9FpJWuK"
+      },
+      "artists": [
+        {
+          "name": "1tbsp",
+          "url": "https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4"
+        }
+      ],
+      "duration_ms": 247558,
+      "name": "Circuit Current",
+      "url": "https://open.spotify.com/track/2mZZ2QeDPoeJIePGbDmNjX"
     },
     {
       "added_at": "2022-03-09 04:45:41",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2021-10-06 04:42:05",
       "album": {
-        "name": "Sweepsculp",
-        "url": "https://open.spotify.com/album/3CwyI5ld8x6WbgdfBtJABx"
-      },
-      "artists": [
-        {
-          "name": "Sweepsculp",
-          "url": "https://open.spotify.com/artist/163prHBUW8VxZro1kWaLDt"
-        }
-      ],
-      "duration_ms": 246816,
-      "name": "Inking",
-      "url": "https://open.spotify.com/track/6t5VbkwZhW0O7lNoUVX4Gf"
-    },
-    {
-      "added_at": "2021-10-06 04:42:05",
-      "album": {
         "name": "Dub Protection & The Sportswear Mystics",
         "url": "https://open.spotify.com/album/3Aiy2F3rmjJvgEmbOyDf3e"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 311480,
       "name": "Dub Protection",
       "url": "https://open.spotify.com/track/2nonAYGrtN6R6MmzIWwJjf"
+    },
+    {
+      "added_at": "2021-10-06 04:42:05",
+      "album": {
+        "name": "Sweepsculp",
+        "url": "https://open.spotify.com/album/3CwyI5ld8x6WbgdfBtJABx"
+      },
+      "artists": [
+        {
+          "name": "Sweepsculp",
+          "url": "https://open.spotify.com/artist/163prHBUW8VxZro1kWaLDt"
+        }
+      ],
+      "duration_ms": 246816,
+      "name": "Inking",
+      "url": "https://open.spotify.com/track/6t5VbkwZhW0O7lNoUVX4Gf"
     },
     {
       "added_at": "2022-04-09 04:34:06",
@@ -1389,22 +1389,6 @@
       "url": "https://open.spotify.com/track/0X93HjaN9zROeyew9uCOru"
     },
     {
-      "added_at": "2021-10-06 04:42:05",
-      "album": {
-        "name": "Angel Tears in Sunlight",
-        "url": "https://open.spotify.com/album/1XtRcRYDb1uA7hvvZzC2Xd"
-      },
-      "artists": [
-        {
-          "name": "Pauline Anna Strom",
-          "url": "https://open.spotify.com/artist/1N5oRpOIshVJwICjXqkHPW"
-        }
-      ],
-      "duration_ms": 270539,
-      "name": "Marking Time",
-      "url": "https://open.spotify.com/track/43YlD5hr6IVXPAuWz47bSH"
-    },
-    {
       "added_at": "2023-03-28 06:19:24",
       "album": {
         "name": "weirdbloom",
@@ -1419,6 +1403,22 @@
       "duration_ms": 279816,
       "name": "NPCs have feelings too",
       "url": "https://open.spotify.com/track/2NAb2HxL55cZRhATCQLw3t"
+    },
+    {
+      "added_at": "2021-10-06 04:42:05",
+      "album": {
+        "name": "Angel Tears in Sunlight",
+        "url": "https://open.spotify.com/album/1XtRcRYDb1uA7hvvZzC2Xd"
+      },
+      "artists": [
+        {
+          "name": "Pauline Anna Strom",
+          "url": "https://open.spotify.com/artist/1N5oRpOIshVJwICjXqkHPW"
+        }
+      ],
+      "duration_ms": 270539,
+      "name": "Marking Time",
+      "url": "https://open.spotify.com/track/43YlD5hr6IVXPAuWz47bSH"
     },
     {
       "added_at": "2021-10-06 04:42:05",
@@ -1537,22 +1537,6 @@
       "url": "https://open.spotify.com/track/7i1apjmMHgD3cyaJAoscr5"
     },
     {
-      "added_at": "2022-02-25 03:59:46",
-      "album": {
-        "name": "Diamond Beach",
-        "url": "https://open.spotify.com/album/6IGCfHfrExdHSnLHRrcngE"
-      },
-      "artists": [
-        {
-          "name": "Modula",
-          "url": "https://open.spotify.com/artist/0UplKQAaI4vQKJ1AheVyE7"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "Diamond Beach",
-      "url": "https://open.spotify.com/track/5WVz5up4Vy54E981lOQ17P"
-    },
-    {
       "added_at": "2021-10-06 04:42:05",
       "album": {
         "name": "Blinking/Aubades",
@@ -1567,6 +1551,22 @@
       "duration_ms": 220212,
       "name": "Aubades",
       "url": "https://open.spotify.com/track/0g0qLH5j3rPgmlkBik4E12"
+    },
+    {
+      "added_at": "2022-02-25 03:59:46",
+      "album": {
+        "name": "Diamond Beach",
+        "url": "https://open.spotify.com/album/6IGCfHfrExdHSnLHRrcngE"
+      },
+      "artists": [
+        {
+          "name": "Modula",
+          "url": "https://open.spotify.com/artist/0UplKQAaI4vQKJ1AheVyE7"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "Diamond Beach",
+      "url": "https://open.spotify.com/track/5WVz5up4Vy54E981lOQ17P"
     },
     {
       "added_at": "2022-09-30 02:46:46",
@@ -1603,22 +1603,6 @@
     {
       "added_at": "2021-10-06 04:42:05",
       "album": {
-        "name": "FIBS",
-        "url": "https://open.spotify.com/album/1s05RP1wmD0p4uGZ7q1xwC"
-      },
-      "artists": [
-        {
-          "name": "Anna Meredith",
-          "url": "https://open.spotify.com/artist/5zDUidkda0GoYHu2vMr3G2"
-        }
-      ],
-      "duration_ms": 306794,
-      "name": "Calion",
-      "url": "https://open.spotify.com/track/0p2mTY5mnZyuWuD9M8O4MT"
-    },
-    {
-      "added_at": "2021-10-06 04:42:05",
-      "album": {
         "name": "Yes",
         "url": "https://open.spotify.com/album/7zsktVl91eHbxy2cEoUfZ3"
       },
@@ -1631,6 +1615,22 @@
       "duration_ms": 455548,
       "name": "Rain 3",
       "url": "https://open.spotify.com/track/2TvgXwgbSkt4hsDyOlmyQA"
+    },
+    {
+      "added_at": "2021-10-06 04:42:05",
+      "album": {
+        "name": "FIBS",
+        "url": "https://open.spotify.com/album/1s05RP1wmD0p4uGZ7q1xwC"
+      },
+      "artists": [
+        {
+          "name": "Anna Meredith",
+          "url": "https://open.spotify.com/artist/5zDUidkda0GoYHu2vMr3G2"
+        }
+      ],
+      "duration_ms": 306794,
+      "name": "Calion",
+      "url": "https://open.spotify.com/track/0p2mTY5mnZyuWuD9M8O4MT"
     },
     {
       "added_at": "2021-10-06 04:42:05",

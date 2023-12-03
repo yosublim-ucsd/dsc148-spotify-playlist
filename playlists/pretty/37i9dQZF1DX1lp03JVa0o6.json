@@ -1,12 +1,12 @@
 {
   "description": "Today's biggest Dance hits! Cover: Kaytranada",
-  "num_followers": 411396,
+  "num_followers": 411439,
   "original_name": "Dance Generation",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlODE4YTk5MzkyZGQyMjk4M2JiMDU2OWEzNGMwNmE5MWViNjBhZjc0",
+  "snapshot_id": "MCxlNmEwNDQ2M2M2OGE0YjNiM2U5MDQ4ZmUzOGMzZGQxYjhhODJlZjM1",
   "tracks": [
     {
       "added_at": "2023-11-30 17:00:00",
@@ -1578,6 +1578,10 @@
         {
           "name": "Boys Noize",
           "url": "https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv"
+        },
+        {
+          "name": "Opus III",
+          "url": "https://open.spotify.com/artist/1hQuWl1dueM7ChRUZRn05z"
         }
       ],
       "duration_ms": 193690,

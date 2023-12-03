@@ -4,7 +4,7 @@
 
 > ¡Los éxitos de banda que necesitas! Roberto Tapia y Grupo Marca Registrada en portada.
 
-306 songs - 16 hr 21 min
+307 songs - 16 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,6 +108,7 @@
 | [Es Demasiado Tarde \(En Vivo\)](https://open.spotify.com/track/49p6wLTmjn42KHJw7axA3G) | [El Mimoso Luis Antonio López](https://open.spotify.com/artist/7AUgYiThuW80zSOwY7Ub2g) | [Es Demasiado Tarde \(En Vivo\)](https://open.spotify.com/album/0GY2QiAZeLzHQgulUhlu7b) | 4:38 | 2023-03-26 |  |
 | [Eso Es La Riqueza](https://open.spotify.com/track/1Z4rfBr27XeDxzXgxQgug2) | [La Adictiva](https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM), [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Eso Es La Riqueza](https://open.spotify.com/album/33mlZqWzDXoOS26N9XMnT3) | 2:54 | 2022-05-27 | 2023-02-18 |
 | [Esta Noche Se Me Olvida](https://open.spotify.com/track/6746mUlyXUbMeWzBqMTYEi) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [Ni Diablo Ni Santo](https://open.spotify.com/album/3tBjyyso23umCFWLJPH4o6) | 3:22 | 2022-06-20 | 2022-07-26 |
+| [Esta Vez Soy Yo](https://open.spotify.com/track/65faC3lVw7RvGuaMv82NxS) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Porque Así Tenía Que Ser](https://open.spotify.com/album/6SNW0LavcXREHAQcMA9Zdk) | 4:13 | 2023-12-01 |  |
 | [Esta Vez Soy Yo](https://open.spotify.com/track/6D9q9JuF13LSpuXE2U4Yar) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Que Tusa](https://open.spotify.com/album/7hJXZfOy3YoEOIy0cL5qIm) | 4:13 | 2022-07-01 | 2023-08-05 |
 | [Estuve](https://open.spotify.com/track/3AzYL6aGCfkbtoGvP9Vwbs) | [Leonardo Aguilar](https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq) | [Estuve](https://open.spotify.com/album/3QFuxWR9lWZ4H7NlT2yQny) | 3:32 | 2023-12-01 |  |
 | [Fiestas, Tragos, Noche Loca](https://open.spotify.com/track/2um0106nrjNOayotnhbKMZ) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Sigan Hablando](https://open.spotify.com/album/7JH7pr10sJV9caUhk3ORyK) | 2:40 | 2023-01-06 |  |
@@ -188,7 +189,7 @@
 | [No Hay Nada Mas Que Decir](https://open.spotify.com/track/77sdqXAFOUBRo2ZpCIYGj4) | [Banda Todo Terreno](https://open.spotify.com/artist/1azvhWE6OhbViAvkFT0oaX) | [No Hay Nada Mas Que Decir](https://open.spotify.com/album/4XtV81qI8tMRYNPt5WRPZF) | 3:32 | 2023-06-09 | 2023-12-02 |
 | [No Le Digas](https://open.spotify.com/track/2WMz8fentsrb9TpRmymAeY) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv), [La Septima Banda](https://open.spotify.com/artist/610tJqABwgZWaRvtJoJQF0) | [No Le Digas](https://open.spotify.com/album/7MZMipgR6C5gGVbhNDxLxd) | 3:25 | 2022-11-03 | 2022-12-03 |
 | [No Le Digas](https://open.spotify.com/track/6bSd8Ci51Q4AoBdhDNFuyG) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv), [La Septima Banda](https://open.spotify.com/artist/610tJqABwgZWaRvtJoJQF0) | [Edgardo Nuñez Con La Séptima Banda](https://open.spotify.com/album/23ZBJlR3UXpNAsYor1GzB4) | 3:25 | 2022-12-03 | 2023-08-04 |
-| [No Me Mires Así](https://open.spotify.com/track/0KAriPAvH7g4xrTrjvI5rd) | [La Poderosa Banda San Juan](https://open.spotify.com/artist/3U1u6ytK0DaM89dqiVxB0u) | [No Me Mires Así](https://open.spotify.com/album/6GeiFac3GbqLEIWwxYYRXe) | 2:45 | 2023-06-09 |  |
+| [No Me Mires Así](https://open.spotify.com/track/0KAriPAvH7g4xrTrjvI5rd) | [La Poderosa Banda San Juan](https://open.spotify.com/artist/3U1u6ytK0DaM89dqiVxB0u) | [No Me Mires Así](https://open.spotify.com/album/6GeiFac3GbqLEIWwxYYRXe) | 2:45 | 2023-06-09 | 2023-12-03 |
 | [No Se Lo Deseo a Nadie](https://open.spotify.com/track/6KXVabUACAY7Z2GYpKTn8g) | [Edwin Luna y La Trakalosa de Monterrey](https://open.spotify.com/artist/4LFOoXhMhnq9U8VsZkSwxl) | [No Se Lo Deseo a Nadie](https://open.spotify.com/album/0lbdKFAhe6W8r2FEKczlMs) | 2:23 | 2022-07-01 | 2023-12-02 |
 | [No Sé Qué Hacer](https://open.spotify.com/track/3deqAF6BY2oTiJgylyElNX) | [Leonardo Aguilar](https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq) | [Y Lo Volví a Hacer](https://open.spotify.com/album/5DtewXaWzI7IDVLeM58u0V) | 2:51 | 2023-01-27 | 2023-12-02 |
 | [Nos Perdimos](https://open.spotify.com/track/3HU3xpciIxqfEZ6P8CznZY) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Nos Perdimos](https://open.spotify.com/album/536ir6fCRb02qJbAKF2GmR) | 2:48 | 2022-12-03 | 2023-02-01 |

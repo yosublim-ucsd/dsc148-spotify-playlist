@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/ogchaseb/\">Chase B</a>",
-  "num_followers": 5587,
+  "num_followers": 5602,
   "original_name": "Chase B's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MzEyNjM2MGJiYTMwZDMxOWRkMjA0NjIyY2IzZGNiZGQwOWMxNDk0",
+  "snapshot_id": "MCxjOGEyZTZiMGU4MzMwYjRkODNmMWQwYjE0MGM0MDE5MTI5YTgxMWIz",
   "tracks": [
     {
       "added_at": "2022-10-01 16:00:00",
@@ -151,18 +151,22 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "TEMPORARY HIGHS IN THE VIOLET SKIES",
-        "url": "https://open.spotify.com/album/57ttk3xzHMWLr6CGrEa8F3"
+        "name": "I'm Gone",
+        "url": "https://open.spotify.com/album/3MZ9DaqqNeedTrOsfYH93Q"
       },
       "artists": [
         {
-          "name": "Snoh Aalegra",
-          "url": "https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X"
+          "name": "iann dior",
+          "url": "https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
         }
       ],
-      "duration_ms": 204133,
-      "name": "DYING 4 YOUR LOVE",
-      "url": "https://open.spotify.com/track/1Yx1TbWg1zbl6gQ3SCOFCN"
+      "duration_ms": 226313,
+      "name": "Prospect (feat. Lil Baby)",
+      "url": "https://open.spotify.com/track/19WJ1TEz7RlwUrt7NFEW7t"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -183,22 +187,18 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "I'm Gone",
-        "url": "https://open.spotify.com/album/3MZ9DaqqNeedTrOsfYH93Q"
+        "name": "TEMPORARY HIGHS IN THE VIOLET SKIES",
+        "url": "https://open.spotify.com/album/57ttk3xzHMWLr6CGrEa8F3"
       },
       "artists": [
         {
-          "name": "iann dior",
-          "url": "https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS"
-        },
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+          "name": "Snoh Aalegra",
+          "url": "https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X"
         }
       ],
-      "duration_ms": 226313,
-      "name": "Prospect (feat. Lil Baby)",
-      "url": "https://open.spotify.com/track/19WJ1TEz7RlwUrt7NFEW7t"
+      "duration_ms": 204133,
+      "name": "DYING 4 YOUR LOVE",
+      "url": "https://open.spotify.com/track/1Yx1TbWg1zbl6gQ3SCOFCN"
     },
     {
       "added_at": "2022-10-01 16:00:00",

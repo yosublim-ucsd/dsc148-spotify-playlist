@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4V6WLWzdIgr.md) - [plain]
 
 > Sedihe koyo ngene, nggak bahaya ta? 😢
 
-[Spotify](https://open.spotify.com/user/spotify) - 144,200 likes - 58 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 144,554 likes - 58 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4V6WLWzdIgr.md) - [plain]
 | 13 | [Ojo Nangis](https://open.spotify.com/track/55ZdI8As6tgaM1X6P8XQ4U) | [Woro Widowati](https://open.spotify.com/artist/0wjrZ5PUcVjAbUUX33JRr8) | [Ojo Nangis](https://open.spotify.com/album/6xnklJBg3JlMENDJBdFqiR) | 5:30 |
 | 14 | [Kudu Nangis](https://open.spotify.com/track/1W6dPS3Fko21XHOkKQ2rMI) | [Ndarboy Genk](https://open.spotify.com/artist/7FHGSpmUoIkL2hG6T0qvrJ), [Dewa Budjana](https://open.spotify.com/artist/1DvbGHKUGTOIns3BXzyKhB) | [Kudu Nangis](https://open.spotify.com/album/4aFca7kL4Hp1y0hzYFZpBv) | 5:04 |
 | 15 | [Sanes](https://open.spotify.com/track/6xbi77Vq9RALnKc59kSXIS) | [Guyon Waton](https://open.spotify.com/artist/5CROBjCskHMjRlerJor7Gx), [Denny Caknan](https://open.spotify.com/artist/3Gr3opnAGpJiTowsTyJFWG) | [Sanes](https://open.spotify.com/album/0EhdH1xsrPR1YjSMCjr4Wf) | 5:01 |
-| 16 | [Nemen \- Hiphop Dangdut Version](https://open.spotify.com/track/6UoW3rtYmYB6DE5xzNors8) | [NDX A.K.A.](https://open.spotify.com/artist/1IDBhlpDyKr53UKKxXRHXD) | [Nemen \(Hiphop Dangdut Version\)](https://open.spotify.com/album/7MpDfyRq8fXGiIQi2ownvc) | 4:34 |
-| 17 | [Loro Ati Sejak Dini](https://open.spotify.com/track/0oUVBZrnc8S6qJEA8uH1On) | [Evan Loss](https://open.spotify.com/artist/4mzKYnv5GDC0hsEwcnJdjo) | [Loro Ati Sejak Dini](https://open.spotify.com/album/69mI0XVoKizAkiULAx4FLj) | 4:44 |
+| 16 | [Nemen \- Hiphop Dangdut Version](https://open.spotify.com/track/3Q6DjwdB1gfLJMq1xkGov9) | [NDX A.K.A.](https://open.spotify.com/artist/1IDBhlpDyKr53UKKxXRHXD) | [Nemen \(Hiphop Dangdut Version\)](https://open.spotify.com/album/11lUbzZyDxoBy4yJYASpQy) | 4:34 |
+| 17 | [Loro Ati Sejak Dini](https://open.spotify.com/track/03Ct1Mmyvj0f0Eg5Jk6ULp) | [Evan Loss](https://open.spotify.com/artist/4mzKYnv5GDC0hsEwcnJdjo) | [Loro Ati Sejak Dini](https://open.spotify.com/album/1cWsE4b3euHysg7MkSsIaW) | 4:44 |
 | 18 | [Cidro Asmoro](https://open.spotify.com/track/1P51HK66VRbcNtG6nzxSd0) | [Ndarboy Genk](https://open.spotify.com/artist/7FHGSpmUoIkL2hG6T0qvrJ) | [Cidro Asmoro](https://open.spotify.com/album/1EevLbemdKpchn5ktMEaMc) | 5:26 |
 | 19 | [Kebacut Nyaman](https://open.spotify.com/track/3kEUi3er4c6aNdX0spyUZM) | [Damara De](https://open.spotify.com/artist/0ZrpjSmeaK6iY14eZFx5dF) | [Kebacut Nyaman](https://open.spotify.com/album/5WMqMj79VLVJp6YG42WwrL) | 5:05 |
 | 20 | [Dadi Siji](https://open.spotify.com/track/7vJffOmu35UgVjAasLGSts) | [Woro Widowati](https://open.spotify.com/artist/0wjrZ5PUcVjAbUUX33JRr8) | [Dadi Siji](https://open.spotify.com/album/6bnn3gvenkbop8CsSE7PkE) | 3:46 |
@@ -67,4 +67,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4V6WLWzdIgr.md) - [plain]
 | 57 | [Tetep Neng Ati](https://open.spotify.com/track/6U4LPOlk6I3c6WGnyV5ZPq) | [OMWAWES](https://open.spotify.com/artist/4SsvQOTuKik8GmK6GtB21A) | [Om Wawes](https://open.spotify.com/album/4sgIDlQTDTvuMBvC1dicp1) | 5:08 |
 | 58 | [Lilakno Lungaku](https://open.spotify.com/track/6eQL36g0j3GlofcGauLJH7) | [Losskita](https://open.spotify.com/artist/3BifJ2eD9KMFgAGa8LbPtI) | [Lilakno Lungaku](https://open.spotify.com/album/1sf4AWv0GiLGTzRrfAhgDA) | 5:35 |
 
-Snapshot ID: `MCxlY2M5OGYxODI2MzE2YjcxNmZiMzE3ZmQ3YzJjYWY1MTc1YmU2YTU0`
+Snapshot ID: `MCwzMDNkZWMwYjVmOTRiNWQ3ZjFlOGY2NjkzYmVlYTUxM2IxYzQ0NWRj`

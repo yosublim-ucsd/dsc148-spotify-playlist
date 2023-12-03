@@ -1,12 +1,12 @@
 {
   "description": "Para subir la temperatura. Foto: Lebr\u00f3n Brothers",
-  "num_followers": 71679,
+  "num_followers": 71783,
   "original_name": "Salsa Brava",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZmI0ZTdiYmNmYmYxYjBjZWU4Mjc3OGQ4YmE1YWY3MzMwNTM3NGE3",
+  "snapshot_id": "MCxjMTNmY2ExZDdlOTY0YzM4ZDhkMGVkYzUzMjY5ZGNhMDIyZDBkYjNi",
   "tracks": [
     {
       "added_at": "2022-01-11 21:31:49",
@@ -647,22 +647,6 @@
     {
       "added_at": "2022-01-11 21:31:49",
       "album": {
-        "name": "Roberto Roena Y Su Apollo Sound",
-        "url": "https://open.spotify.com/album/3Y3cbnD9PJnWOWodxnxENU"
-      },
-      "artists": [
-        {
-          "name": "Roberto Roena Y Su Apollo Sound",
-          "url": "https://open.spotify.com/artist/0KdPDmQhHxBKsHNsQuh5ry"
-        }
-      ],
-      "duration_ms": 199049,
-      "name": "Tu Loco Loco Y Yo Tranquilo",
-      "url": "https://open.spotify.com/track/41mW3afagMuz7pn3IkpWdm"
-    },
-    {
-      "added_at": "2022-01-11 21:31:49",
-      "album": {
         "name": "Creativo",
         "url": "https://open.spotify.com/album/6tN89OXbeSQoc0YU1zBOlq"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 305057,
       "name": "Zumbale",
       "url": "https://open.spotify.com/track/6M5z2Pca6OuN4l5n5kId3E"
+    },
+    {
+      "added_at": "2022-01-11 21:31:49",
+      "album": {
+        "name": "Roberto Roena Y Su Apollo Sound",
+        "url": "https://open.spotify.com/album/3Y3cbnD9PJnWOWodxnxENU"
+      },
+      "artists": [
+        {
+          "name": "Roberto Roena Y Su Apollo Sound",
+          "url": "https://open.spotify.com/artist/0KdPDmQhHxBKsHNsQuh5ry"
+        }
+      ],
+      "duration_ms": 199049,
+      "name": "Tu Loco Loco Y Yo Tranquilo",
+      "url": "https://open.spotify.com/track/41mW3afagMuz7pn3IkpWdm"
     },
     {
       "added_at": "2022-01-11 21:31:49",
@@ -779,22 +779,6 @@
     {
       "added_at": "2022-01-11 21:31:49",
       "album": {
-        "name": "El Progreso",
-        "url": "https://open.spotify.com/album/1aWWLbbcL2NK8V3sqWtAZn"
-      },
-      "artists": [
-        {
-          "name": "Roberto Roena Y Su Apollo Sound",
-          "url": "https://open.spotify.com/artist/0KdPDmQhHxBKsHNsQuh5ry"
-        }
-      ],
-      "duration_ms": 367293,
-      "name": "Guaguanc\u00f3 Del Adios",
-      "url": "https://open.spotify.com/track/0KPajt76dlg67yRg1RlDvC"
-    },
-    {
-      "added_at": "2022-01-11 21:31:49",
-      "album": {
         "name": "Pacheco Y Su Charanga Vol. 3: Que Suene La Flauta",
         "url": "https://open.spotify.com/album/694VA7cAltUDJrYV05dvsy"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 153608,
       "name": "Acuyuye",
       "url": "https://open.spotify.com/track/5LCpO7pp92DHmXzCLtJnnj"
+    },
+    {
+      "added_at": "2022-01-11 21:31:49",
+      "album": {
+        "name": "El Progreso",
+        "url": "https://open.spotify.com/album/1aWWLbbcL2NK8V3sqWtAZn"
+      },
+      "artists": [
+        {
+          "name": "Roberto Roena Y Su Apollo Sound",
+          "url": "https://open.spotify.com/artist/0KdPDmQhHxBKsHNsQuh5ry"
+        }
+      ],
+      "duration_ms": 367293,
+      "name": "Guaguanc\u00f3 Del Adios",
+      "url": "https://open.spotify.com/track/0KPajt76dlg67yRg1RlDvC"
     },
     {
       "added_at": "2022-01-11 21:31:49",

@@ -4,7 +4,7 @@
 
 > Obscure, dreamy and nostalgic synth sounds from all over the world.
 
-235 songs - 14 hr 38 min
+236 songs - 14 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,8 @@
 | [Audiotool Day 2016](https://open.spotify.com/track/0j0BYhRSoVbYDvDlVoSP4a) | [Xtract](https://open.spotify.com/artist/24Czv2dNQjRYh7thO4y2re) | [Audiotool Day 2016](https://open.spotify.com/album/5flSmZT9JHd4qQUmAnetPj) | 4:00 | 2023-04-28 | 2023-09-01 |
 | [Backwards Directions](https://open.spotify.com/track/427b6RggEs9SFyhR18Xd8X) | [Abby Sage](https://open.spotify.com/artist/4aej3kKLxSLM0WauTSfZ7k), [Porches](https://open.spotify.com/artist/2JzhQYGos3RqV7MT5fWeek) | [Backwards Directions](https://open.spotify.com/album/34uEJAXUILJFGZijIWSOhf) | 2:55 | 2023-05-05 | 2023-07-12 |
 | [Bad Night at Black's Beach](https://open.spotify.com/track/462Sv9QLexPjExQE8dZeam) | [L.A\. Takedown](https://open.spotify.com/artist/1XB4jI2i8cikuntyOuUi1v) | [II](https://open.spotify.com/album/3hRA9H6ESgJua9SdHZwe73) | 2:50 | 2020-12-21 | 2023-05-12 |
-| [Beauty & The Beast](https://open.spotify.com/track/4y5lSLNph2pbhsGBtx6Ijy) | [Nyxjvh](https://open.spotify.com/artist/0qynm6lz4zZ8lJZygwfovX) | [Beauty & The Beast](https://open.spotify.com/album/2dCLlJHR37aJE8y8IYm4d9) | 2:48 | 2023-08-31 |  |
+| [Beauty & The Beast](https://open.spotify.com/track/4y5lSLNph2pbhsGBtx6Ijy) | [Nyxjvh](https://open.spotify.com/artist/0qynm6lz4zZ8lJZygwfovX) | [Beauty & The Beast](https://open.spotify.com/album/2dCLlJHR37aJE8y8IYm4d9) | 2:48 | 2023-08-31 | 2023-12-03 |
+| [Beauty & The Beast](https://open.spotify.com/track/5AGLQ34xEnw1yJ50tttiGT) | [Nyxjvh](https://open.spotify.com/artist/0qynm6lz4zZ8lJZygwfovX) | [Beauty & The Beast](https://open.spotify.com/album/78cIMbjainUImpT5we3vPG) | 2:48 | 2023-08-31 |  |
 | [Beauty & The Beast](https://open.spotify.com/track/5hAl0rQhehsglsiR0VF7Y8) | [Nyxjvh](https://open.spotify.com/artist/0qynm6lz4zZ8lJZygwfovX) | [Beauty & The Beast](https://open.spotify.com/album/7aOS3r9ORnPGUcD6G2jUyq) | 2:48 | 2023-08-31 | 2023-11-30 |
 | [Bela Lugosi's Dead \(Official Version\)](https://open.spotify.com/track/1wyVyr8OhYsC9l0WgPPbh8) | [Bauhaus](https://open.spotify.com/artist/5N5tQ9Dx1h8Od7aRmGj7Fi) | [The Bela Session](https://open.spotify.com/album/5NhiaFlFGgymG2rDNqAcm1) | 9:36 | 2023-02-09 |  |
 | [Bichota \(Post\-Punk\)](https://open.spotify.com/track/3o8tpXm59d9a8wulsGLZ3y) | [FrioLento](https://open.spotify.com/artist/7tNvegbTVfxN3p9q39ixcn) | [Bichota \(Post\-Punk\)](https://open.spotify.com/album/0u9yvtJJdXmqMOOa53VuUD) | 3:01 | 2023-04-03 | 2023-09-01 |

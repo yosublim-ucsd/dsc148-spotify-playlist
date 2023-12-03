@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasica groovera, for the true Funk Soldiers!",
-  "num_followers": 25177,
+  "num_followers": 25191,
   "original_name": "Nota Funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMTQ5N2I3ZmY2Y2Y3NzgzODliZjU4MTJjZmQ0NGVjYTZlODA1YTJj",
+  "snapshot_id": "MCw5NDQ0ODExOWE4NmRiMjVmZTBkYTFhYTM4N2E0MTY2MTg5MWJkMTVk",
   "tracks": [
     {
       "added_at": "2023-10-06 03:00:00",
@@ -367,6 +367,22 @@
     {
       "added_at": "2023-10-06 03:00:00",
       "album": {
+        "name": "Climax",
+        "url": "https://open.spotify.com/album/1YO8tEGzrput7IasPQQXES"
+      },
+      "artists": [
+        {
+          "name": "Militantes del Climax",
+          "url": "https://open.spotify.com/artist/09BpCKSle4c7RbDtCuZXnv"
+        }
+      ],
+      "duration_ms": 177626,
+      "name": "Abusa de tu Estilo",
+      "url": "https://open.spotify.com/track/6UArTjqNFFStRDFBu4Dx5V"
+    },
+    {
+      "added_at": "2023-10-06 03:00:00",
+      "album": {
         "name": "Sudaka",
         "url": "https://open.spotify.com/album/1xjohRHpisw8Yy50sognpe"
       },
@@ -383,22 +399,6 @@
       "duration_ms": 202808,
       "name": "Sudaka",
       "url": "https://open.spotify.com/track/6WTRtgrOpBim1hmNZh2WmA"
-    },
-    {
-      "added_at": "2023-10-06 03:00:00",
-      "album": {
-        "name": "Climax",
-        "url": "https://open.spotify.com/album/1YO8tEGzrput7IasPQQXES"
-      },
-      "artists": [
-        {
-          "name": "Militantes del Climax",
-          "url": "https://open.spotify.com/artist/09BpCKSle4c7RbDtCuZXnv"
-        }
-      ],
-      "duration_ms": 177626,
-      "name": "Abusa de tu Estilo",
-      "url": "https://open.spotify.com/track/6UArTjqNFFStRDFBu4Dx5V"
     },
     {
       "added_at": "2023-10-06 03:00:00",
@@ -475,6 +475,22 @@
     {
       "added_at": "2023-10-06 03:00:00",
       "album": {
+        "name": "Niguiri Sessions",
+        "url": "https://open.spotify.com/album/0qJs4hALyuV9PIiMz3leXl"
+      },
+      "artists": [
+        {
+          "name": "Dante Spinetta",
+          "url": "https://open.spotify.com/artist/4Dcz7srpGyeBFxFpQTxlvC"
+        }
+      ],
+      "duration_ms": 248615,
+      "name": "Supremac\u00eda - Niguiri Sessions",
+      "url": "https://open.spotify.com/track/0bbjRIKri8tDonziX4GIsw"
+    },
+    {
+      "added_at": "2023-10-06 03:00:00",
+      "album": {
         "name": "Bienvenidos al Presente",
         "url": "https://open.spotify.com/album/7qFI4bipXWEoqWBXK9trKS"
       },
@@ -519,22 +535,6 @@
       "duration_ms": 203413,
       "name": "Ven Aqu\u00ed a Pelear",
       "url": "https://open.spotify.com/track/2ksoIRPP6U0QuunCxbsRl5"
-    },
-    {
-      "added_at": "2023-10-06 03:00:00",
-      "album": {
-        "name": "Niguiri Sessions",
-        "url": "https://open.spotify.com/album/0qJs4hALyuV9PIiMz3leXl"
-      },
-      "artists": [
-        {
-          "name": "Dante Spinetta",
-          "url": "https://open.spotify.com/artist/4Dcz7srpGyeBFxFpQTxlvC"
-        }
-      ],
-      "duration_ms": 248615,
-      "name": "Supremac\u00eda - Niguiri Sessions",
-      "url": "https://open.spotify.com/track/0bbjRIKri8tDonziX4GIsw"
     },
     {
       "added_at": "2023-10-06 03:00:00",
@@ -735,22 +735,6 @@
     {
       "added_at": "2023-10-06 03:00:00",
       "album": {
-        "name": "Prescription For Soul",
-        "url": "https://open.spotify.com/album/7o1i3F40QoaIW9IfAsIaIE"
-      },
-      "artists": [
-        {
-          "name": "Doctorfunk",
-          "url": "https://open.spotify.com/artist/00CEG7nPO88zFNuFL2Rz1L"
-        }
-      ],
-      "duration_ms": 241706,
-      "name": "Can't Fight The Funk",
-      "url": "https://open.spotify.com/track/2osjZyMaTnWXNs8bp0qhkr"
-    },
-    {
-      "added_at": "2023-10-06 03:00:00",
-      "album": {
         "name": "Groovin' Bohemia",
         "url": "https://open.spotify.com/album/22N6SuZAlDTlvgUGbM9UUI"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 445089,
       "name": "Ameba",
       "url": "https://open.spotify.com/track/41stonr2yiLj8R7wZFehVe"
+    },
+    {
+      "added_at": "2023-10-06 03:00:00",
+      "album": {
+        "name": "Prescription For Soul",
+        "url": "https://open.spotify.com/album/7o1i3F40QoaIW9IfAsIaIE"
+      },
+      "artists": [
+        {
+          "name": "Doctorfunk",
+          "url": "https://open.spotify.com/artist/00CEG7nPO88zFNuFL2Rz1L"
+        }
+      ],
+      "duration_ms": 241706,
+      "name": "Can't Fight The Funk",
+      "url": "https://open.spotify.com/track/2osjZyMaTnWXNs8bp0qhkr"
     },
     {
       "added_at": "2023-10-06 03:00:00",
@@ -995,26 +995,6 @@
     {
       "added_at": "2023-10-06 03:00:00",
       "album": {
-        "name": "Peluche Peligroso",
-        "url": "https://open.spotify.com/album/32szAPsRimQbYpPl4Bvkfn"
-      },
-      "artists": [
-        {
-          "name": "Acus",
-          "url": "https://open.spotify.com/artist/39DDfcoTv0v0HoZY1ZoPWp"
-        },
-        {
-          "name": "Julieta Rada",
-          "url": "https://open.spotify.com/artist/5KA95SZBQeMgNMTuqnxzJd"
-        }
-      ],
-      "duration_ms": 227221,
-      "name": "La Buena Vida",
-      "url": "https://open.spotify.com/track/3KnVVquGyEkY3ECjuBMZMK"
-    },
-    {
-      "added_at": "2023-10-06 03:00:00",
-      "album": {
         "name": "Espacios",
         "url": "https://open.spotify.com/album/5A4yvDpvsq7aWY7DwMCSC6"
       },
@@ -1031,6 +1011,26 @@
       "duration_ms": 178000,
       "name": "Debilidad",
       "url": "https://open.spotify.com/track/382BrveYviOFjqpqA5d1M2"
+    },
+    {
+      "added_at": "2023-10-06 03:00:00",
+      "album": {
+        "name": "Peluche Peligroso",
+        "url": "https://open.spotify.com/album/32szAPsRimQbYpPl4Bvkfn"
+      },
+      "artists": [
+        {
+          "name": "Acus",
+          "url": "https://open.spotify.com/artist/39DDfcoTv0v0HoZY1ZoPWp"
+        },
+        {
+          "name": "Julieta Rada",
+          "url": "https://open.spotify.com/artist/5KA95SZBQeMgNMTuqnxzJd"
+        }
+      ],
+      "duration_ms": 227221,
+      "name": "La Buena Vida",
+      "url": "https://open.spotify.com/track/3KnVVquGyEkY3ECjuBMZMK"
     },
     {
       "added_at": "2023-10-06 03:00:00",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2023-10-06 03:00:00",
       "album": {
-        "name": "La Nave",
-        "url": "https://open.spotify.com/album/0LverTA7cR49u1FukL6fBk"
-      },
-      "artists": [
-        {
-          "name": "Fonky Taxi",
-          "url": "https://open.spotify.com/artist/4jeGMG6b45WZuaLCk1QCre"
-        }
-      ],
-      "duration_ms": 272373,
-      "name": "Todo Atr\u00e1s",
-      "url": "https://open.spotify.com/track/7yCpBkWqPLQ3NfWNHgsvn8"
-    },
-    {
-      "added_at": "2023-10-06 03:00:00",
-      "album": {
         "name": "Env\u00e9s",
         "url": "https://open.spotify.com/album/0Jm4WmRMz3UrUxr4llIcrK"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 378213,
       "name": "Maybe I'm Leo",
       "url": "https://open.spotify.com/track/7gqKNXv1P6oN0KAXnjxsLW"
+    },
+    {
+      "added_at": "2023-10-06 03:00:00",
+      "album": {
+        "name": "La Nave",
+        "url": "https://open.spotify.com/album/0LverTA7cR49u1FukL6fBk"
+      },
+      "artists": [
+        {
+          "name": "Fonky Taxi",
+          "url": "https://open.spotify.com/artist/4jeGMG6b45WZuaLCk1QCre"
+        }
+      ],
+      "duration_ms": 272373,
+      "name": "Todo Atr\u00e1s",
+      "url": "https://open.spotify.com/track/7yCpBkWqPLQ3NfWNHgsvn8"
     },
     {
       "added_at": "2023-10-06 03:00:00",
@@ -1223,18 +1223,18 @@
     {
       "added_at": "2023-10-06 03:00:00",
       "album": {
-        "name": "Ya Lo Estoy Deseando",
-        "url": "https://open.spotify.com/album/2JfuVBf1o45hGZb70w4RoX"
+        "name": "Family Game",
+        "url": "https://open.spotify.com/album/5ERVTaDTdK8gCSMGH0K0s3"
       },
       "artists": [
         {
-          "name": "Los Funktasticos Genitales",
-          "url": "https://open.spotify.com/artist/4R74HSH7siBB8VjKf1dJN2"
+          "name": "De La Rivera",
+          "url": "https://open.spotify.com/artist/4U48zETkokPB76fnXQiO2b"
         }
       ],
-      "duration_ms": 202591,
-      "name": "C\u00f3mo",
-      "url": "https://open.spotify.com/track/1sjMSLp2rgGxokLnllBEje"
+      "duration_ms": 218045,
+      "name": "B\u00e9sala",
+      "url": "https://open.spotify.com/track/3IPmxzelbMUy6kdhfhSueF"
     },
     {
       "added_at": "2023-10-06 03:00:00",
@@ -1255,18 +1255,34 @@
     {
       "added_at": "2023-10-06 03:00:00",
       "album": {
-        "name": "Family Game",
-        "url": "https://open.spotify.com/album/5ERVTaDTdK8gCSMGH0K0s3"
+        "name": "Ya Lo Estoy Deseando",
+        "url": "https://open.spotify.com/album/2JfuVBf1o45hGZb70w4RoX"
       },
       "artists": [
         {
-          "name": "De La Rivera",
-          "url": "https://open.spotify.com/artist/4U48zETkokPB76fnXQiO2b"
+          "name": "Los Funktasticos Genitales",
+          "url": "https://open.spotify.com/artist/4R74HSH7siBB8VjKf1dJN2"
         }
       ],
-      "duration_ms": 218045,
-      "name": "B\u00e9sala",
-      "url": "https://open.spotify.com/track/3IPmxzelbMUy6kdhfhSueF"
+      "duration_ms": 202591,
+      "name": "C\u00f3mo",
+      "url": "https://open.spotify.com/track/1sjMSLp2rgGxokLnllBEje"
+    },
+    {
+      "added_at": "2023-10-06 03:00:00",
+      "album": {
+        "name": "Maravilla",
+        "url": "https://open.spotify.com/album/0UfukyWOep54c9zpc3ukyx"
+      },
+      "artists": [
+        {
+          "name": "Los Jureles",
+          "url": "https://open.spotify.com/artist/5FNSAxcE6F6d4HPSoEPUyC"
+        }
+      ],
+      "duration_ms": 240458,
+      "name": "Maravilla",
+      "url": "https://open.spotify.com/track/6bwFgTUrYUkxygFNsE0HP5"
     },
     {
       "added_at": "2023-10-06 03:00:00",
@@ -1507,6 +1523,22 @@
     {
       "added_at": "2023-10-06 03:00:00",
       "album": {
+        "name": "Selva",
+        "url": "https://open.spotify.com/album/03n9iLQLygvipVP1B6AsjC"
+      },
+      "artists": [
+        {
+          "name": "De La Rivera",
+          "url": "https://open.spotify.com/artist/4U48zETkokPB76fnXQiO2b"
+        }
+      ],
+      "duration_ms": 210796,
+      "name": "Selva",
+      "url": "https://open.spotify.com/track/6io5gRjR6wkb6nlEmi7rIr"
+    },
+    {
+      "added_at": "2023-10-06 03:00:00",
+      "album": {
         "name": "Best Of Us",
         "url": "https://open.spotify.com/album/3yfSd47G0hdBqXUeKCiVSH"
       },
@@ -1527,18 +1559,18 @@
     {
       "added_at": "2023-10-06 03:00:00",
       "album": {
-        "name": "Selva",
-        "url": "https://open.spotify.com/album/03n9iLQLygvipVP1B6AsjC"
+        "name": "Melod\u00edas",
+        "url": "https://open.spotify.com/album/4KtxaUtnvHgtieeMvlA1Kj"
       },
       "artists": [
         {
-          "name": "De La Rivera",
-          "url": "https://open.spotify.com/artist/4U48zETkokPB76fnXQiO2b"
+          "name": "Monoson",
+          "url": "https://open.spotify.com/artist/3d56fwrxkhDUwyTeV6g56A"
         }
       ],
-      "duration_ms": 210796,
-      "name": "Selva",
-      "url": "https://open.spotify.com/track/6io5gRjR6wkb6nlEmi7rIr"
+      "duration_ms": 185312,
+      "name": "Melod\u00edas",
+      "url": "https://open.spotify.com/track/6FFVgXUdy3hQepL1FtjbVH"
     },
     {
       "added_at": "2023-10-06 03:00:00",
@@ -1559,22 +1591,6 @@
     {
       "added_at": "2023-10-06 03:00:00",
       "album": {
-        "name": "Melod\u00edas",
-        "url": "https://open.spotify.com/album/4KtxaUtnvHgtieeMvlA1Kj"
-      },
-      "artists": [
-        {
-          "name": "Monoson",
-          "url": "https://open.spotify.com/artist/3d56fwrxkhDUwyTeV6g56A"
-        }
-      ],
-      "duration_ms": 185312,
-      "name": "Melod\u00edas",
-      "url": "https://open.spotify.com/track/6FFVgXUdy3hQepL1FtjbVH"
-    },
-    {
-      "added_at": "2023-10-06 03:00:00",
-      "album": {
         "name": "Tangible",
         "url": "https://open.spotify.com/album/7t8qpiBzPSnclvgm7GmsgG"
       },
@@ -1587,22 +1603,6 @@
       "duration_ms": 315922,
       "name": "Beast in You",
       "url": "https://open.spotify.com/track/6hZ8kRu0uxj2s6ujZH2Mn9"
-    },
-    {
-      "added_at": "2023-10-06 03:00:00",
-      "album": {
-        "name": "Ando Buscando",
-        "url": "https://open.spotify.com/album/2tVhz3vgd1Ic2PpTH10SU1"
-      },
-      "artists": [
-        {
-          "name": "Flor Lovaglio",
-          "url": "https://open.spotify.com/artist/3ZeKtTdfEsMQX1SlnK5BWU"
-        }
-      ],
-      "duration_ms": 206142,
-      "name": "Ando Buscando",
-      "url": "https://open.spotify.com/track/7nBwBoDKXzHVKwfmR4fiFk"
     }
   ],
   "unique_name": "Nota Funk",

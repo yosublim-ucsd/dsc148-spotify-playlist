@@ -1,12 +1,12 @@
 {
   "description": "The best Latin music from all around the world! Cover: Maria Becerra & Prabh Singh",
-  "num_followers": 173204,
+  "num_followers": 173260,
   "original_name": "Latino Global",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMWJmM2E5OTdhMzdiOTg0M2ZhNTU0ZTEwMWJiNmU3NTE2OTE3MTk3",
+  "snapshot_id": "MCxlMDIyM2U4MzUyOTIwMWJiMTdkZjY5ODgwZTU5ZTQwMjIxOWQ0MTVk",
   "tracks": [
     {
       "added_at": "2023-09-22 07:16:39",
@@ -955,26 +955,6 @@
     {
       "added_at": "2023-09-22 07:16:39",
       "album": {
-        "name": "LFG",
-        "url": "https://open.spotify.com/album/0Wjc11cdyOt2mvMCBrTTvU"
-      },
-      "artists": [
-        {
-          "name": "INJI",
-          "url": "https://open.spotify.com/artist/0Z4Ir8usNVcAdCSQl0fQki"
-        },
-        {
-          "name": "Eddie Zuko",
-          "url": "https://open.spotify.com/artist/4AxSQnOMPd42KI149MWsub"
-        }
-      ],
-      "duration_ms": 158837,
-      "name": "DROP TOP (feat. Eddie Zuko)",
-      "url": "https://open.spotify.com/track/4iVlQcJQfbp9CZVLZsfIoS"
-    },
-    {
-      "added_at": "2023-09-22 07:16:39",
-      "album": {
         "name": "Traag",
         "url": "https://open.spotify.com/album/5MHVtiFIv6DASkrHsgbOXE"
       },
@@ -999,22 +979,22 @@
     {
       "added_at": "2023-09-22 07:16:39",
       "album": {
-        "name": "Cuando Salga La Luna",
-        "url": "https://open.spotify.com/album/13YZTzEcNhAtKRmb5sb2yL"
+        "name": "LFG",
+        "url": "https://open.spotify.com/album/0Wjc11cdyOt2mvMCBrTTvU"
       },
       "artists": [
         {
-          "name": "Cano",
-          "url": "https://open.spotify.com/artist/60ZOYUFnCYEeKYsxgvPxOS"
+          "name": "INJI",
+          "url": "https://open.spotify.com/artist/0Z4Ir8usNVcAdCSQl0fQki"
         },
         {
-          "name": "SRNO",
-          "url": "https://open.spotify.com/artist/0Kwf0zcciIFGLCKiqNcO6Q"
+          "name": "Eddie Zuko",
+          "url": "https://open.spotify.com/artist/4AxSQnOMPd42KI149MWsub"
         }
       ],
-      "duration_ms": 146000,
-      "name": "Cuando Salga La Luna",
-      "url": "https://open.spotify.com/track/5eCEYfCUQ9JJOIhyUVEmyq"
+      "duration_ms": 158837,
+      "name": "DROP TOP (feat. Eddie Zuko)",
+      "url": "https://open.spotify.com/track/4iVlQcJQfbp9CZVLZsfIoS"
     },
     {
       "added_at": "2023-09-22 07:16:39",
@@ -1031,6 +1011,26 @@
       "duration_ms": 173465,
       "name": "Bruk Off Yuh Back",
       "url": "https://open.spotify.com/track/30mNHDOw7qD5SF8tBeuPpu"
+    },
+    {
+      "added_at": "2023-09-22 07:16:39",
+      "album": {
+        "name": "Cuando Salga La Luna",
+        "url": "https://open.spotify.com/album/13YZTzEcNhAtKRmb5sb2yL"
+      },
+      "artists": [
+        {
+          "name": "Cano",
+          "url": "https://open.spotify.com/artist/60ZOYUFnCYEeKYsxgvPxOS"
+        },
+        {
+          "name": "SRNO",
+          "url": "https://open.spotify.com/artist/0Kwf0zcciIFGLCKiqNcO6Q"
+        }
+      ],
+      "duration_ms": 146000,
+      "name": "Cuando Salga La Luna",
+      "url": "https://open.spotify.com/track/5eCEYfCUQ9JJOIhyUVEmyq"
     },
     {
       "added_at": "2023-09-22 07:16:39",

@@ -1,12 +1,12 @@
 {
   "description": "Mellow songs from the 1980s.",
-  "num_followers": 803452,
+  "num_followers": 803882,
   "original_name": "Soft 80s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NGNkNzJmZGViNDVhNjUzMTFjMTNlYmUwOTczZTA2YTg0N2M2ZGE1",
+  "snapshot_id": "MCxhODgxMGNkMzVhZjg5MWJjZWUyYWQ2MzFmYzQ4MmM4ZmNlMzk0YmI5",
   "tracks": [
     {
       "added_at": "2023-01-24 23:00:00",
@@ -767,6 +767,22 @@
     {
       "added_at": "2023-01-24 23:00:00",
       "album": {
+        "name": "Arthur - The Album [Original Soundtrack]",
+        "url": "https://open.spotify.com/album/0QXYfxXpKeLlr3hueenIHB"
+      },
+      "artists": [
+        {
+          "name": "Christopher Cross",
+          "url": "https://open.spotify.com/artist/695W5F2Ih8dYahLdjVOIoH"
+        }
+      ],
+      "duration_ms": 234493,
+      "name": "Arthur's Theme (Best That You Can Do)",
+      "url": "https://open.spotify.com/track/5fnOrhQ4KgT5irGCjIccGH"
+    },
+    {
+      "added_at": "2023-01-24 23:00:00",
+      "album": {
         "name": "Dancing On The Ceiling (Expanded Edition)",
         "url": "https://open.spotify.com/album/5IvqScO5vIXQ2zrxtpCVHf"
       },
@@ -783,18 +799,18 @@
     {
       "added_at": "2023-01-24 23:00:00",
       "album": {
-        "name": "Arthur - The Album [Original Soundtrack]",
-        "url": "https://open.spotify.com/album/0QXYfxXpKeLlr3hueenIHB"
+        "name": "Greatest Hits 1985-1995",
+        "url": "https://open.spotify.com/album/5bOhnWhieBJGivUovmtob5"
       },
       "artists": [
         {
-          "name": "Christopher Cross",
-          "url": "https://open.spotify.com/artist/695W5F2Ih8dYahLdjVOIoH"
+          "name": "Heart",
+          "url": "https://open.spotify.com/artist/34jw2BbxjoYalTp8cJFCPv"
         }
       ],
-      "duration_ms": 234493,
-      "name": "Arthur's Theme (Best That You Can Do)",
-      "url": "https://open.spotify.com/track/5fnOrhQ4KgT5irGCjIccGH"
+      "duration_ms": 219293,
+      "name": "Alone - Remastered",
+      "url": "https://open.spotify.com/track/0h17TpfCKbbib1J37Qgj7r"
     },
     {
       "added_at": "2023-01-24 23:00:00",
@@ -843,22 +859,6 @@
       "duration_ms": 229880,
       "name": "I'll Be Over You",
       "url": "https://open.spotify.com/track/1WeoeHh0TSzsApyJ6Q8OOK"
-    },
-    {
-      "added_at": "2023-01-24 23:00:00",
-      "album": {
-        "name": "Greatest Hits 1985-1995",
-        "url": "https://open.spotify.com/album/5bOhnWhieBJGivUovmtob5"
-      },
-      "artists": [
-        {
-          "name": "Heart",
-          "url": "https://open.spotify.com/artist/34jw2BbxjoYalTp8cJFCPv"
-        }
-      ],
-      "duration_ms": 219293,
-      "name": "Alone - Remastered",
-      "url": "https://open.spotify.com/track/0h17TpfCKbbib1J37Qgj7r"
     },
     {
       "added_at": "2023-01-24 23:00:00",
@@ -1011,18 +1011,18 @@
     {
       "added_at": "2023-01-24 23:00:00",
       "album": {
-        "name": "What's Love Got to Do with It?",
-        "url": "https://open.spotify.com/album/5HmYiJnUkFuciiqRrAAv4o"
+        "name": "From Time To Time - The Singles Collection",
+        "url": "https://open.spotify.com/album/6bDQgC4mNcwz46wHKI6h2y"
       },
       "artists": [
         {
-          "name": "Tina Turner",
-          "url": "https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak"
+          "name": "Paul Young",
+          "url": "https://open.spotify.com/artist/6rqU9HQ57NYGBnBzbrY3a4"
         }
       ],
-      "duration_ms": 226880,
-      "name": "What's Love Got to Do with It",
-      "url": "https://open.spotify.com/track/4kOfxxnW1ukZdsNbCKY9br"
+      "duration_ms": 267000,
+      "name": "Every Time You Go Away - Radio Edit",
+      "url": "https://open.spotify.com/track/05fHQeRbCSjKVS6z0WbQKJ"
     },
     {
       "added_at": "2023-01-24 23:00:00",
@@ -1043,18 +1043,18 @@
     {
       "added_at": "2023-01-24 23:00:00",
       "album": {
-        "name": "From Time To Time - The Singles Collection",
-        "url": "https://open.spotify.com/album/6bDQgC4mNcwz46wHKI6h2y"
+        "name": "What's Love Got to Do with It?",
+        "url": "https://open.spotify.com/album/5HmYiJnUkFuciiqRrAAv4o"
       },
       "artists": [
         {
-          "name": "Paul Young",
-          "url": "https://open.spotify.com/artist/6rqU9HQ57NYGBnBzbrY3a4"
+          "name": "Tina Turner",
+          "url": "https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak"
         }
       ],
-      "duration_ms": 267000,
-      "name": "Every Time You Go Away - Radio Edit",
-      "url": "https://open.spotify.com/track/05fHQeRbCSjKVS6z0WbQKJ"
+      "duration_ms": 226880,
+      "name": "What's Love Got to Do with It",
+      "url": "https://open.spotify.com/track/4kOfxxnW1ukZdsNbCKY9br"
     },
     {
       "added_at": "2023-01-24 23:00:00",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2023-01-24 23:00:00",
       "album": {
-        "name": "Simple Pleasures",
-        "url": "https://open.spotify.com/album/4zhRkgoZKC2xCPPys1gK4b"
-      },
-      "artists": [
-        {
-          "name": "Bobby McFerrin",
-          "url": "https://open.spotify.com/artist/2FjkZT851ez950cyPjeYid"
-        }
-      ],
-      "duration_ms": 294400,
-      "name": "Don't Worry Be Happy",
-      "url": "https://open.spotify.com/track/4hObp5bmIJ3PP3cKA9K9GY"
-    },
-    {
-      "added_at": "2023-01-24 23:00:00",
-      "album": {
         "name": "Boys And Girls",
         "url": "https://open.spotify.com/album/3SsNd5MeJKc1IK3nazaWg2"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 266333,
       "name": "Slave To Love",
       "url": "https://open.spotify.com/track/1c9dnQbOzw01ID7X2IsYOE"
+    },
+    {
+      "added_at": "2023-01-24 23:00:00",
+      "album": {
+        "name": "Simple Pleasures",
+        "url": "https://open.spotify.com/album/4zhRkgoZKC2xCPPys1gK4b"
+      },
+      "artists": [
+        {
+          "name": "Bobby McFerrin",
+          "url": "https://open.spotify.com/artist/2FjkZT851ez950cyPjeYid"
+        }
+      ],
+      "duration_ms": 294400,
+      "name": "Don't Worry Be Happy",
+      "url": "https://open.spotify.com/track/4hObp5bmIJ3PP3cKA9K9GY"
     },
     {
       "added_at": "2023-01-24 23:00:00",
@@ -1239,6 +1239,22 @@
     {
       "added_at": "2023-01-24 23:00:00",
       "album": {
+        "name": "Learning to Crawl (Expanded & Remastered)",
+        "url": "https://open.spotify.com/album/48NYXFdasUBuSeO3RAolt3"
+      },
+      "artists": [
+        {
+          "name": "Pretenders",
+          "url": "https://open.spotify.com/artist/0GByy3DcfbQwDvXGCWmzv9"
+        }
+      ],
+      "duration_ms": 220426,
+      "name": "2000 Miles - 2007 Remaster",
+      "url": "https://open.spotify.com/track/5wTM2Bm8phDwHAuOsfBwhU"
+    },
+    {
+      "added_at": "2023-01-24 23:00:00",
+      "album": {
         "name": "Love Songs (A Compilation Old and New)",
         "url": "https://open.spotify.com/album/7KZTL6gFUUCzNw4FfjVqCF"
       },
@@ -1303,22 +1319,6 @@
       "duration_ms": 238000,
       "name": "Cherish - Single Version",
       "url": "https://open.spotify.com/track/2yCAGizViD7HZXwNYxJToQ"
-    },
-    {
-      "added_at": "2023-01-24 23:00:00",
-      "album": {
-        "name": "Learning to Crawl (Expanded & Remastered)",
-        "url": "https://open.spotify.com/album/48NYXFdasUBuSeO3RAolt3"
-      },
-      "artists": [
-        {
-          "name": "Pretenders",
-          "url": "https://open.spotify.com/artist/0GByy3DcfbQwDvXGCWmzv9"
-        }
-      ],
-      "duration_ms": 220426,
-      "name": "2000 Miles - 2007 Remaster",
-      "url": "https://open.spotify.com/track/5wTM2Bm8phDwHAuOsfBwhU"
     },
     {
       "added_at": "2023-01-24 23:00:00",
@@ -1455,18 +1455,18 @@
     {
       "added_at": "2023-01-24 23:00:00",
       "album": {
-        "name": "One Eighty",
-        "url": "https://open.spotify.com/album/4WsQBaO2DLvDZ5VRmsXbUH"
+        "name": "Electric Youth",
+        "url": "https://open.spotify.com/album/5PnwSSRbLcCLpNMe2LFhOC"
       },
       "artists": [
         {
-          "name": "Ambrosia",
-          "url": "https://open.spotify.com/artist/0J2Ej2rMQyqaUX3G6MUISw"
+          "name": "Debbie Gibson",
+          "url": "https://open.spotify.com/artist/18jZvCsW1PJ4FDQ5gEXuKp"
         }
       ],
-      "duration_ms": 324040,
-      "name": "Biggest Part of Me",
-      "url": "https://open.spotify.com/track/6JHXiRD1QjMK1N6AQEnL04"
+      "duration_ms": 215146,
+      "name": "Lost in Your Eyes",
+      "url": "https://open.spotify.com/track/6PMDILZiYo4YzMBbE0dGK9"
     },
     {
       "added_at": "2023-01-24 23:00:00",
@@ -1487,18 +1487,18 @@
     {
       "added_at": "2023-01-24 23:00:00",
       "album": {
-        "name": "Electric Youth",
-        "url": "https://open.spotify.com/album/5PnwSSRbLcCLpNMe2LFhOC"
+        "name": "One Eighty",
+        "url": "https://open.spotify.com/album/4WsQBaO2DLvDZ5VRmsXbUH"
       },
       "artists": [
         {
-          "name": "Debbie Gibson",
-          "url": "https://open.spotify.com/artist/18jZvCsW1PJ4FDQ5gEXuKp"
+          "name": "Ambrosia",
+          "url": "https://open.spotify.com/artist/0J2Ej2rMQyqaUX3G6MUISw"
         }
       ],
-      "duration_ms": 215146,
-      "name": "Lost in Your Eyes",
-      "url": "https://open.spotify.com/track/6PMDILZiYo4YzMBbE0dGK9"
+      "duration_ms": 324040,
+      "name": "Biggest Part of Me",
+      "url": "https://open.spotify.com/track/6JHXiRD1QjMK1N6AQEnL04"
     },
     {
       "added_at": "2023-01-24 23:00:00",
@@ -1815,6 +1815,22 @@
     {
       "added_at": "2023-01-24 23:00:00",
       "album": {
+        "name": "The Visitors (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5GByGaws7Cw0t28kjvAOzV"
+      },
+      "artists": [
+        {
+          "name": "ABBA",
+          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
+        }
+      ],
+      "duration_ms": 237013,
+      "name": "One Of Us",
+      "url": "https://open.spotify.com/track/40IHflbrHcOuC8ZcYxUSAC"
+    },
+    {
+      "added_at": "2023-01-24 23:00:00",
+      "album": {
         "name": "Bad 25th Anniversary",
         "url": "https://open.spotify.com/album/24TAupSNVWSAHL0R7n71vm"
       },
@@ -1851,22 +1867,6 @@
     {
       "added_at": "2023-01-24 23:00:00",
       "album": {
-        "name": "Share Your Love",
-        "url": "https://open.spotify.com/album/0RlTMOUZMLq2Tmj6K9NgX6"
-      },
-      "artists": [
-        {
-          "name": "Kenny Rogers",
-          "url": "https://open.spotify.com/artist/4tw2Lmn9tTPUv7Gy7mVPI4"
-        }
-      ],
-      "duration_ms": 286066,
-      "name": "Through The Years",
-      "url": "https://open.spotify.com/track/4pP5xVUYEZljcmfyYFQXsx"
-    },
-    {
-      "added_at": "2023-01-24 23:00:00",
-      "album": {
         "name": "New Edition",
         "url": "https://open.spotify.com/album/68moCweQx7EoMvHdZ6HzDc"
       },
@@ -1883,18 +1883,18 @@
     {
       "added_at": "2023-01-24 23:00:00",
       "album": {
-        "name": "The Visitors (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5GByGaws7Cw0t28kjvAOzV"
+        "name": "Share Your Love",
+        "url": "https://open.spotify.com/album/0RlTMOUZMLq2Tmj6K9NgX6"
       },
       "artists": [
         {
-          "name": "ABBA",
-          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
+          "name": "Kenny Rogers",
+          "url": "https://open.spotify.com/artist/4tw2Lmn9tTPUv7Gy7mVPI4"
         }
       ],
-      "duration_ms": 237013,
-      "name": "One Of Us",
-      "url": "https://open.spotify.com/track/40IHflbrHcOuC8ZcYxUSAC"
+      "duration_ms": 286066,
+      "name": "Through The Years",
+      "url": "https://open.spotify.com/track/4pP5xVUYEZljcmfyYFQXsx"
     },
     {
       "added_at": "2023-01-24 23:00:00",
@@ -1947,22 +1947,6 @@
     {
       "added_at": "2023-01-24 23:00:00",
       "album": {
-        "name": "Whitney",
-        "url": "https://open.spotify.com/album/5Vdzprr5cOqXQo44eHeV7t"
-      },
-      "artists": [
-        {
-          "name": "Whitney Houston",
-          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
-        }
-      ],
-      "duration_ms": 305066,
-      "name": "Didn't We Almost Have It All",
-      "url": "https://open.spotify.com/track/19wadMw1A8XejDV4p5wMt1"
-    },
-    {
-      "added_at": "2023-01-24 23:00:00",
-      "album": {
         "name": "Lionel Richie",
         "url": "https://open.spotify.com/album/5R8J87WpdqO4t4pB4F4LNJ"
       },
@@ -1975,6 +1959,22 @@
       "duration_ms": 200506,
       "name": "Truly",
       "url": "https://open.spotify.com/track/7AslBsiVLQAGrmFmi79ZeK"
+    },
+    {
+      "added_at": "2023-01-24 23:00:00",
+      "album": {
+        "name": "Whitney",
+        "url": "https://open.spotify.com/album/5Vdzprr5cOqXQo44eHeV7t"
+      },
+      "artists": [
+        {
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+        }
+      ],
+      "duration_ms": 305066,
+      "name": "Didn't We Almost Have It All",
+      "url": "https://open.spotify.com/track/19wadMw1A8XejDV4p5wMt1"
     },
     {
       "added_at": "2023-01-24 23:00:00",
@@ -2175,22 +2175,6 @@
     {
       "added_at": "2023-01-24 23:00:00",
       "album": {
-        "name": "Born In The U.S.A.",
-        "url": "https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O"
-      },
-      "artists": [
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        }
-      ],
-      "duration_ms": 279666,
-      "name": "My Hometown",
-      "url": "https://open.spotify.com/track/6dahFmHrgncgVJjsI1ws7e"
-    },
-    {
-      "added_at": "2023-01-24 23:00:00",
-      "album": {
         "name": "Hold An Old Friend's Hand",
         "url": "https://open.spotify.com/album/1DAE5K7Rv0H1JZkJaLcV9x"
       },
@@ -2207,18 +2191,18 @@
     {
       "added_at": "2023-01-24 23:00:00",
       "album": {
-        "name": "Beautiful Boy (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/4rbWJkt4gXZI2UYvpNR0mD"
+        "name": "Born In The U.S.A.",
+        "url": "https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O"
       },
       "artists": [
         {
-          "name": "John Lennon",
-          "url": "https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H"
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
         }
       ],
-      "duration_ms": 242044,
-      "name": "Beautiful Boy (Darling Boy) - 2010 Remastered",
-      "url": "https://open.spotify.com/track/5GMQdzgtI7vtpmtps2YiYx"
+      "duration_ms": 279666,
+      "name": "My Hometown",
+      "url": "https://open.spotify.com/track/6dahFmHrgncgVJjsI1ws7e"
     },
     {
       "added_at": "2023-01-24 23:00:00",
@@ -2251,6 +2235,22 @@
       "duration_ms": 216306,
       "name": "This Woman's Work - 2018 Remaster",
       "url": "https://open.spotify.com/track/7ijKen7rccf56qOMGkS22e"
+    },
+    {
+      "added_at": "2023-01-24 23:00:00",
+      "album": {
+        "name": "Beautiful Boy (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4rbWJkt4gXZI2UYvpNR0mD"
+      },
+      "artists": [
+        {
+          "name": "John Lennon",
+          "url": "https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H"
+        }
+      ],
+      "duration_ms": 242044,
+      "name": "Beautiful Boy (Darling Boy) - 2010 Remastered",
+      "url": "https://open.spotify.com/track/5GMQdzgtI7vtpmtps2YiYx"
     },
     {
       "added_at": "2023-01-24 23:00:00",
@@ -2319,22 +2319,6 @@
     {
       "added_at": "2023-01-24 23:00:00",
       "album": {
-        "name": "Simply the Best",
-        "url": "https://open.spotify.com/album/1ZFC0iOKUp4M16eHXVaeG4"
-      },
-      "artists": [
-        {
-          "name": "Tina Turner",
-          "url": "https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak"
-        }
-      ],
-      "duration_ms": 255186,
-      "name": "We Don't Need Another Hero (Thunderdome)",
-      "url": "https://open.spotify.com/track/1qyJ6XpMHdsJD8pkiA7Qww"
-    },
-    {
-      "added_at": "2023-01-24 23:00:00",
-      "album": {
         "name": "Introducing The Hardline According To Sananda Maitreya",
         "url": "https://open.spotify.com/album/0nw38yniBfbluS93FdYcbE"
       },
@@ -2347,6 +2331,22 @@
       "duration_ms": 276533,
       "name": "Sign Your Name",
       "url": "https://open.spotify.com/track/3lIpkjFnRxJ6Uvm8DgtgfV"
+    },
+    {
+      "added_at": "2023-01-24 23:00:00",
+      "album": {
+        "name": "Simply the Best",
+        "url": "https://open.spotify.com/album/1ZFC0iOKUp4M16eHXVaeG4"
+      },
+      "artists": [
+        {
+          "name": "Tina Turner",
+          "url": "https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak"
+        }
+      ],
+      "duration_ms": 255186,
+      "name": "We Don't Need Another Hero (Thunderdome)",
+      "url": "https://open.spotify.com/track/1qyJ6XpMHdsJD8pkiA7Qww"
     },
     {
       "added_at": "2023-01-24 23:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ZfTXESa5KP.md) - [plain]
 
 > Congratulations to all of the winners! Cover: Lainey Wilson
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,990 likes - 42 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,202 likes - 42 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,4 +51,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ZfTXESa5KP.md) - [plain]
 | 41 | [What A Song Can Do](https://open.spotify.com/track/5qd8TXQLwownmW0e0oUnOL) | [Lady A](https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA) | [What A Song Can Do \(Stripped Down\)](https://open.spotify.com/album/3woLGAG13LtQ1PwoZ1Yndd) | 3:41 |
 | 42 | [Brand New Man \- with Luke Combs](https://open.spotify.com/track/001UkMQHw4zXfFNdKpwXAF) | [Brooks & Dunn](https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz), [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Reboot](https://open.spotify.com/album/0U3nI78LUpAwprraUf7vAS) | 3:11 |
 
-Snapshot ID: `MCwxNDAwMTg2ZjFmNTAwNmY5NDVhMjk3NWUzMzdlMjAyYTY2MDU3ZDY5`
+Snapshot ID: `MCwwNzY4NDRjZDU4NTQ1NjYwZGU5YWViYjZmODM1OGQyZjI2ODM3MjZi`

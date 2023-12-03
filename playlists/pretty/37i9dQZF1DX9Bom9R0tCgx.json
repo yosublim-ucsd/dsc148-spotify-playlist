@@ -1,12 +1,12 @@
 {
   "description": "All the stuff that will blow your speakers!",
-  "num_followers": 348597,
+  "num_followers": 348927,
   "original_name": "Bass Explosion",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmYzkwMTlkNjJhZDFhNTFkOGFmOWIzNDlmZDE3NjA3ZDhjN2M3NjFk",
+  "snapshot_id": "MCxkZmUyMWQxMmI2YjY0ZGZmMzBiYjVkNWZhN2FhZWJmYWJlNjgxN2Nl",
   "tracks": [
     {
       "added_at": "2023-11-30 23:00:00",
@@ -847,6 +847,30 @@
     {
       "added_at": "2023-11-30 23:00:00",
       "album": {
+        "name": "All I Ever Wanted",
+        "url": "https://open.spotify.com/album/7qPFcO0JaiYoCgsBX5K6fw"
+      },
+      "artists": [
+        {
+          "name": "Hard Lights",
+          "url": "https://open.spotify.com/artist/3tLvKk2N4IGhT3aZceW2Hy"
+        },
+        {
+          "name": "Zombic",
+          "url": "https://open.spotify.com/artist/6t0ofV5WMAz84Iqu0YkmTV"
+        },
+        {
+          "name": "Serzo",
+          "url": "https://open.spotify.com/artist/3OhUveXjN6gDbNt7ygN8z6"
+        }
+      ],
+      "duration_ms": 130700,
+      "name": "All I Ever Wanted",
+      "url": "https://open.spotify.com/track/21deaXqPzYtLunigUjpZuB"
+    },
+    {
+      "added_at": "2023-11-30 23:00:00",
+      "album": {
         "name": "Queen of Kings (Da Tweekaz x Tungevaag Remix)",
         "url": "https://open.spotify.com/album/0cLcrDXPAQ7JDZ6CsNXLhF"
       },
@@ -867,26 +891,6 @@
       "duration_ms": 145032,
       "name": "Queen of Kings - Da Tweekaz x Tungevaag Remix",
       "url": "https://open.spotify.com/track/5Cmgqsv4Rmodk87JfVydPh"
-    },
-    {
-      "added_at": "2023-11-30 23:00:00",
-      "album": {
-        "name": "Shake That",
-        "url": "https://open.spotify.com/album/5SoTXkh99EXoin02hPhgoL"
-      },
-      "artists": [
-        {
-          "name": "Gang Speed",
-          "url": "https://open.spotify.com/artist/1DzFcEcSVtNBrQzemT1mWv"
-        },
-        {
-          "name": "Treetalk",
-          "url": "https://open.spotify.com/artist/3xwLNvmLpu3mDKzCoht2lp"
-        }
-      ],
-      "duration_ms": 179738,
-      "name": "Shake That",
-      "url": "https://open.spotify.com/track/47TOnN2ffRwsEvWsTZ6IaI"
     },
     {
       "added_at": "2023-11-30 23:00:00",
@@ -915,26 +919,22 @@
     {
       "added_at": "2023-11-30 23:00:00",
       "album": {
-        "name": "All I Ever Wanted",
-        "url": "https://open.spotify.com/album/7qPFcO0JaiYoCgsBX5K6fw"
+        "name": "Shake That",
+        "url": "https://open.spotify.com/album/5SoTXkh99EXoin02hPhgoL"
       },
       "artists": [
         {
-          "name": "Hard Lights",
-          "url": "https://open.spotify.com/artist/3tLvKk2N4IGhT3aZceW2Hy"
+          "name": "Gang Speed",
+          "url": "https://open.spotify.com/artist/1DzFcEcSVtNBrQzemT1mWv"
         },
         {
-          "name": "Zombic",
-          "url": "https://open.spotify.com/artist/6t0ofV5WMAz84Iqu0YkmTV"
-        },
-        {
-          "name": "Serzo",
-          "url": "https://open.spotify.com/artist/3OhUveXjN6gDbNt7ygN8z6"
+          "name": "Treetalk",
+          "url": "https://open.spotify.com/artist/3xwLNvmLpu3mDKzCoht2lp"
         }
       ],
-      "duration_ms": 130700,
-      "name": "All I Ever Wanted",
-      "url": "https://open.spotify.com/track/21deaXqPzYtLunigUjpZuB"
+      "duration_ms": 179738,
+      "name": "Shake That",
+      "url": "https://open.spotify.com/track/47TOnN2ffRwsEvWsTZ6IaI"
     },
     {
       "added_at": "2023-11-30 23:00:00",
@@ -1099,26 +1099,6 @@
     {
       "added_at": "2023-11-30 23:00:00",
       "album": {
-        "name": "Somebody To Love (DANNY AVILA Remix)",
-        "url": "https://open.spotify.com/album/2dTWqh0txRWty6UbXevrno"
-      },
-      "artists": [
-        {
-          "name": "Ben Kim",
-          "url": "https://open.spotify.com/artist/0quOpHBDwcOmM5B9V3TPpL"
-        },
-        {
-          "name": "DANNY AVILA",
-          "url": "https://open.spotify.com/artist/1Xv1qZHJ1hnRlWHRTZ3uci"
-        }
-      ],
-      "duration_ms": 242686,
-      "name": "Somebody To Love - DANNY AVILA Remix",
-      "url": "https://open.spotify.com/track/6sVZ5ilWUNJBy8fBvjpzWh"
-    },
-    {
-      "added_at": "2023-11-30 23:00:00",
-      "album": {
         "name": "When We Come Alive",
         "url": "https://open.spotify.com/album/3SLVzlIVvgjPdRqkc58WA1"
       },
@@ -1139,6 +1119,26 @@
       "duration_ms": 180024,
       "name": "When We Come Alive",
       "url": "https://open.spotify.com/track/0g2XaTyNihXISfqnhuv7HH"
+    },
+    {
+      "added_at": "2023-11-30 23:00:00",
+      "album": {
+        "name": "Somebody To Love (DANNY AVILA Remix)",
+        "url": "https://open.spotify.com/album/2dTWqh0txRWty6UbXevrno"
+      },
+      "artists": [
+        {
+          "name": "Ben Kim",
+          "url": "https://open.spotify.com/artist/0quOpHBDwcOmM5B9V3TPpL"
+        },
+        {
+          "name": "DANNY AVILA",
+          "url": "https://open.spotify.com/artist/1Xv1qZHJ1hnRlWHRTZ3uci"
+        }
+      ],
+      "duration_ms": 242686,
+      "name": "Somebody To Love - DANNY AVILA Remix",
+      "url": "https://open.spotify.com/track/6sVZ5ilWUNJBy8fBvjpzWh"
     },
     {
       "added_at": "2023-11-30 23:00:00",
@@ -1207,6 +1207,26 @@
     {
       "added_at": "2023-11-30 23:00:00",
       "album": {
+        "name": "Atlantis",
+        "url": "https://open.spotify.com/album/7tn97Br9XVlKBPYoNR7qmr"
+      },
+      "artists": [
+        {
+          "name": "Macon",
+          "url": "https://open.spotify.com/artist/2Tubog1fy1Lw5OXVFOpgfJ"
+        },
+        {
+          "name": "Seafret",
+          "url": "https://open.spotify.com/artist/4Ly0KABsxlx4fNj63zJTrF"
+        }
+      ],
+      "duration_ms": 136800,
+      "name": "Atlantis",
+      "url": "https://open.spotify.com/track/7qOHKIBWU9ygcoYA7B23wP"
+    },
+    {
+      "added_at": "2023-11-30 23:00:00",
+      "album": {
         "name": "Lambada (Your Love)",
         "url": "https://open.spotify.com/album/0WgTsrXmzSihOCRoRS5Bn6"
       },
@@ -1251,22 +1271,18 @@
     {
       "added_at": "2023-11-30 23:00:00",
       "album": {
-        "name": "Atlantis",
-        "url": "https://open.spotify.com/album/7tn97Br9XVlKBPYoNR7qmr"
+        "name": "Annihilate",
+        "url": "https://open.spotify.com/album/3ehQrArEPmGNSPiHKO2bsk"
       },
       "artists": [
         {
-          "name": "Macon",
-          "url": "https://open.spotify.com/artist/2Tubog1fy1Lw5OXVFOpgfJ"
-        },
-        {
-          "name": "Seafret",
-          "url": "https://open.spotify.com/artist/4Ly0KABsxlx4fNj63zJTrF"
+          "name": "Will Sparks",
+          "url": "https://open.spotify.com/artist/1u7OVFmWah4wQhOPIbUb8U"
         }
       ],
-      "duration_ms": 136800,
-      "name": "Atlantis",
-      "url": "https://open.spotify.com/track/7qOHKIBWU9ygcoYA7B23wP"
+      "duration_ms": 165000,
+      "name": "Annihilate",
+      "url": "https://open.spotify.com/track/5eAhXdQwzlFwHkZhiJ1KHg"
     },
     {
       "added_at": "2023-11-30 23:00:00",
@@ -1287,22 +1303,6 @@
       "duration_ms": 122578,
       "name": "Shockwave (with Afrojack)",
       "url": "https://open.spotify.com/track/4bOVDHj19JdKriaDQu41wD"
-    },
-    {
-      "added_at": "2023-11-30 23:00:00",
-      "album": {
-        "name": "Annihilate",
-        "url": "https://open.spotify.com/album/3ehQrArEPmGNSPiHKO2bsk"
-      },
-      "artists": [
-        {
-          "name": "Will Sparks",
-          "url": "https://open.spotify.com/artist/1u7OVFmWah4wQhOPIbUb8U"
-        }
-      ],
-      "duration_ms": 165000,
-      "name": "Annihilate",
-      "url": "https://open.spotify.com/track/5eAhXdQwzlFwHkZhiJ1KHg"
     },
     {
       "added_at": "2023-11-30 23:00:00",
@@ -1391,6 +1391,22 @@
     {
       "added_at": "2023-11-30 23:00:00",
       "album": {
+        "name": "Love Is Free",
+        "url": "https://open.spotify.com/album/3veEW05WfqSbHSZWvy6Ftm"
+      },
+      "artists": [
+        {
+          "name": "Eli Brown",
+          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
+        }
+      ],
+      "duration_ms": 172563,
+      "name": "Love Is Free",
+      "url": "https://open.spotify.com/track/1wGXpLDlQg5ClZ2epImCEc"
+    },
+    {
+      "added_at": "2023-11-30 23:00:00",
+      "album": {
         "name": "In The City (Yves V remix)",
         "url": "https://open.spotify.com/album/1ac90oaxn3B1FlwW0yUY1N"
       },
@@ -1407,22 +1423,6 @@
       "duration_ms": 230400,
       "name": "In The City - Yves V Remix",
       "url": "https://open.spotify.com/track/4tB7IiWex4iuPhdmOSDpo3"
-    },
-    {
-      "added_at": "2023-11-30 23:00:00",
-      "album": {
-        "name": "Love Is Free",
-        "url": "https://open.spotify.com/album/3veEW05WfqSbHSZWvy6Ftm"
-      },
-      "artists": [
-        {
-          "name": "Eli Brown",
-          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
-        }
-      ],
-      "duration_ms": 172563,
-      "name": "Love Is Free",
-      "url": "https://open.spotify.com/track/1wGXpLDlQg5ClZ2epImCEc"
     },
     {
       "added_at": "2023-11-30 23:00:00",
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2023-11-30 23:00:00",
       "album": {
-        "name": "Time",
-        "url": "https://open.spotify.com/album/1j8z4qXWHnME4XD5gt9E2s"
-      },
-      "artists": [
-        {
-          "name": "Space 92",
-          "url": "https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD"
-        }
-      ],
-      "duration_ms": 254545,
-      "name": "Time",
-      "url": "https://open.spotify.com/track/6WuhWyOHhhXGSHOtNrJ3Is"
-    },
-    {
-      "added_at": "2023-11-30 23:00:00",
-      "album": {
         "name": "Sweet Dreams (Are Made Of This)",
         "url": "https://open.spotify.com/album/6TCJvwsIvDhoSlJQEhWWKI"
       },
@@ -1575,6 +1559,22 @@
       "duration_ms": 154285,
       "name": "Sweet Dreams (Are Made Of This)",
       "url": "https://open.spotify.com/track/2VgsFO5sOTrLo2AOXV7q0W"
+    },
+    {
+      "added_at": "2023-11-30 23:00:00",
+      "album": {
+        "name": "Time",
+        "url": "https://open.spotify.com/album/1j8z4qXWHnME4XD5gt9E2s"
+      },
+      "artists": [
+        {
+          "name": "Space 92",
+          "url": "https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD"
+        }
+      ],
+      "duration_ms": 254545,
+      "name": "Time",
+      "url": "https://open.spotify.com/track/6WuhWyOHhhXGSHOtNrJ3Is"
     },
     {
       "added_at": "2023-11-30 23:00:00",
@@ -1599,26 +1599,6 @@
     {
       "added_at": "2023-11-30 23:00:00",
       "album": {
-        "name": "Better Than Gold",
-        "url": "https://open.spotify.com/album/5A3WkvUJOGBMYpruWmySBh"
-      },
-      "artists": [
-        {
-          "name": "Justin Hawkes",
-          "url": "https://open.spotify.com/artist/5bNvSO3b75SGJrx0kOt996"
-        },
-        {
-          "name": "Andrew Hellier",
-          "url": "https://open.spotify.com/artist/5UAiCq7VKP2MrMG2RAkPl8"
-        }
-      ],
-      "duration_ms": 320000,
-      "name": "Better Than Gold",
-      "url": "https://open.spotify.com/track/5cxskQNZLSxEkEhqdi5ad6"
-    },
-    {
-      "added_at": "2023-11-30 23:00:00",
-      "album": {
         "name": "Hyper Hyper",
         "url": "https://open.spotify.com/album/01tSVhXAQ3kBCWzkGeBTqi"
       },
@@ -1635,6 +1615,26 @@
       "duration_ms": 178153,
       "name": "Hyper Hyper",
       "url": "https://open.spotify.com/track/7yDqQyCeTV2xXQP7tccX2D"
+    },
+    {
+      "added_at": "2023-11-30 23:00:00",
+      "album": {
+        "name": "Better Than Gold",
+        "url": "https://open.spotify.com/album/5A3WkvUJOGBMYpruWmySBh"
+      },
+      "artists": [
+        {
+          "name": "Justin Hawkes",
+          "url": "https://open.spotify.com/artist/5bNvSO3b75SGJrx0kOt996"
+        },
+        {
+          "name": "Andrew Hellier",
+          "url": "https://open.spotify.com/artist/5UAiCq7VKP2MrMG2RAkPl8"
+        }
+      ],
+      "duration_ms": 320000,
+      "name": "Better Than Gold",
+      "url": "https://open.spotify.com/track/5cxskQNZLSxEkEhqdi5ad6"
     },
     {
       "added_at": "2023-11-30 23:00:00",
@@ -1699,22 +1699,6 @@
     {
       "added_at": "2023-11-30 23:00:00",
       "album": {
-        "name": "Hardcore Vibes",
-        "url": "https://open.spotify.com/album/1F6VezXavMMMumP9w2Aqc2"
-      },
-      "artists": [
-        {
-          "name": "Keanu Silva",
-          "url": "https://open.spotify.com/artist/1zLMhO4zzzxt5PMV4wMS3y"
-        }
-      ],
-      "duration_ms": 161000,
-      "name": "Hardcore Vibes - Radio Edit",
-      "url": "https://open.spotify.com/track/7nrPXddIkx8hxM9Ot46JRX"
-    },
-    {
-      "added_at": "2023-11-30 23:00:00",
-      "album": {
         "name": "MBAPP\u00c9 (Restricted & Sunset Bros Remix) [feat. JAY1 & KAHUKX]",
         "url": "https://open.spotify.com/album/4FHgGUbR5QZxu31GYYqS3V"
       },
@@ -1743,6 +1727,22 @@
       "duration_ms": 132004,
       "name": "MBAPP\u00c9 (Restricted & Sunset Bros Remix) [feat. JAY1 & KAHUKX]",
       "url": "https://open.spotify.com/track/63VejDiw2j8qvNIHWcAVwN"
+    },
+    {
+      "added_at": "2023-11-30 23:00:00",
+      "album": {
+        "name": "Hardcore Vibes",
+        "url": "https://open.spotify.com/album/1F6VezXavMMMumP9w2Aqc2"
+      },
+      "artists": [
+        {
+          "name": "Keanu Silva",
+          "url": "https://open.spotify.com/artist/1zLMhO4zzzxt5PMV4wMS3y"
+        }
+      ],
+      "duration_ms": 161000,
+      "name": "Hardcore Vibes - Radio Edit",
+      "url": "https://open.spotify.com/track/7nrPXddIkx8hxM9Ot46JRX"
     },
     {
       "added_at": "2023-11-30 23:00:00",
@@ -1855,22 +1855,6 @@
     {
       "added_at": "2023-11-30 23:00:00",
       "album": {
-        "name": "Accepted Concept",
-        "url": "https://open.spotify.com/album/5026e5pinYOgls5mjv1duU"
-      },
-      "artists": [
-        {
-          "name": "Will Sparks",
-          "url": "https://open.spotify.com/artist/1u7OVFmWah4wQhOPIbUb8U"
-        }
-      ],
-      "duration_ms": 171006,
-      "name": "The Chant",
-      "url": "https://open.spotify.com/track/16NC74ajzZCjs4RbA1Zxwn"
-    },
-    {
-      "added_at": "2023-11-30 23:00:00",
-      "album": {
         "name": "Romeo & Juliet",
         "url": "https://open.spotify.com/album/3MOCPhpSF2KOfh1eE688mI"
       },
@@ -1887,6 +1871,22 @@
       "duration_ms": 160472,
       "name": "Romeo & Juliet",
       "url": "https://open.spotify.com/track/4t2BiyPhaMpf2bzOdUoTD5"
+    },
+    {
+      "added_at": "2023-11-30 23:00:00",
+      "album": {
+        "name": "Accepted Concept",
+        "url": "https://open.spotify.com/album/5026e5pinYOgls5mjv1duU"
+      },
+      "artists": [
+        {
+          "name": "Will Sparks",
+          "url": "https://open.spotify.com/artist/1u7OVFmWah4wQhOPIbUb8U"
+        }
+      ],
+      "duration_ms": 171006,
+      "name": "The Chant",
+      "url": "https://open.spotify.com/track/16NC74ajzZCjs4RbA1Zxwn"
     },
     {
       "added_at": "2023-11-30 23:00:00",
@@ -1951,6 +1951,26 @@
     {
       "added_at": "2023-11-30 23:00:00",
       "album": {
+        "name": "Oblivion",
+        "url": "https://open.spotify.com/album/1W4Ubpu9smoA6FK1AjM5Ui"
+      },
+      "artists": [
+        {
+          "name": "NWYR",
+          "url": "https://open.spotify.com/artist/558dSyN1mMqsKrEBcKJ2p0"
+        },
+        {
+          "name": "W&W",
+          "url": "https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4"
+        }
+      ],
+      "duration_ms": 155076,
+      "name": "Oblivion",
+      "url": "https://open.spotify.com/track/2d5KjsVCU7ryRfvEtVdTIh"
+    },
+    {
+      "added_at": "2023-11-30 23:00:00",
+      "album": {
         "name": "Superman",
         "url": "https://open.spotify.com/album/7tYL9vmWTgy5l6XN2yMnYc"
       },
@@ -1975,22 +1995,34 @@
     {
       "added_at": "2023-11-30 23:00:00",
       "album": {
-        "name": "Oblivion",
-        "url": "https://open.spotify.com/album/1W4Ubpu9smoA6FK1AjM5Ui"
+        "name": "Apollo",
+        "url": "https://open.spotify.com/album/1LqYkBtUxZKXZ2MNmIjqTe"
       },
       "artists": [
         {
-          "name": "NWYR",
-          "url": "https://open.spotify.com/artist/558dSyN1mMqsKrEBcKJ2p0"
-        },
-        {
-          "name": "W&W",
-          "url": "https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4"
+          "name": "Space 92",
+          "url": "https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD"
         }
       ],
-      "duration_ms": 155076,
-      "name": "Oblivion",
-      "url": "https://open.spotify.com/track/2d5KjsVCU7ryRfvEtVdTIh"
+      "duration_ms": 349000,
+      "name": "Apollo",
+      "url": "https://open.spotify.com/track/4jDTMcSXDCBbwUoU2BnzzP"
+    },
+    {
+      "added_at": "2023-11-30 23:00:00",
+      "album": {
+        "name": "Sensual, on Ecstasy (Sped Up Version)",
+        "url": "https://open.spotify.com/album/4JFYjBwuetlK5lUdXyJgV7"
+      },
+      "artists": [
+        {
+          "name": "Dominik Saltevski",
+          "url": "https://open.spotify.com/artist/5SRcKErsuBLiDZDfFtOBGN"
+        }
+      ],
+      "duration_ms": 324718,
+      "name": "Sensual, on Ecstasy - Sped Up Version",
+      "url": "https://open.spotify.com/track/22FZzabHSqgMY15Cnx1alE"
     },
     {
       "added_at": "2023-11-30 23:00:00",
@@ -2019,22 +2051,6 @@
     {
       "added_at": "2023-11-30 23:00:00",
       "album": {
-        "name": "Sensual, on Ecstasy (Sped Up Version)",
-        "url": "https://open.spotify.com/album/4JFYjBwuetlK5lUdXyJgV7"
-      },
-      "artists": [
-        {
-          "name": "Dominik Saltevski",
-          "url": "https://open.spotify.com/artist/5SRcKErsuBLiDZDfFtOBGN"
-        }
-      ],
-      "duration_ms": 324718,
-      "name": "Sensual, on Ecstasy - Sped Up Version",
-      "url": "https://open.spotify.com/track/22FZzabHSqgMY15Cnx1alE"
-    },
-    {
-      "added_at": "2023-11-30 23:00:00",
-      "album": {
         "name": "Faith",
         "url": "https://open.spotify.com/album/6nbQRswXW5OFHFZFw8y1YZ"
       },
@@ -2051,30 +2067,6 @@
       "duration_ms": 167294,
       "name": "Faith",
       "url": "https://open.spotify.com/track/5tlmO0EqsLwqS2CGxVVjEe"
-    },
-    {
-      "added_at": "2023-11-30 23:00:00",
-      "album": {
-        "name": "Low (Macon's HYPERTECHNO Remix)",
-        "url": "https://open.spotify.com/album/4Tpa491B6dAf3VnlXdts6V"
-      },
-      "artists": [
-        {
-          "name": "71 Digits",
-          "url": "https://open.spotify.com/artist/7rYojRyXBLPrX6UWfnAkaC"
-        },
-        {
-          "name": "Flo Rida",
-          "url": "https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY"
-        },
-        {
-          "name": "Macon",
-          "url": "https://open.spotify.com/artist/2Tubog1fy1Lw5OXVFOpgfJ"
-        }
-      ],
-      "duration_ms": 166666,
-      "name": "Low (Macon's HYPERTECHNO Remix)",
-      "url": "https://open.spotify.com/track/7tMVmdCrQvj3iC0z8tZBZT"
     }
   ],
   "unique_name": "Bass Explosion",

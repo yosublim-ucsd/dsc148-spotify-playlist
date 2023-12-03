@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYwMzXER4RFF.md) - [plain]
 
 > New no wave, post\-punk, and anything else\. Cover: Squid
 
-[Spotify](https://open.spotify.com/user/spotify) - 280,893 likes - 55 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 280,981 likes - 55 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,9 +42,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYwMzXER4RFF.md) - [plain]
 | 32 | [American Nightmare](https://open.spotify.com/track/4i6snrjpdYSv5PBB7wH6qk) | [Vestron Vulture](https://open.spotify.com/artist/0TdyFEXGty3cRKFCI1CJPr) | [American Nightmare](https://open.spotify.com/album/6zaXhrtWGMMJP4ty8XyMiT) | 3:09 |
 | 33 | [Stumbling Still](https://open.spotify.com/track/2kGKxXOSLegpsXQOAhMqCH) | [Nation of Language](https://open.spotify.com/artist/5JWBow4ywgKNQ5HBxY8hcz) | [Strange Disciple](https://open.spotify.com/album/1VDxaxECCJJh4of5htFnmK) | 4:39 |
 | 34 | [Flying](https://open.spotify.com/track/3E6gxfPW3xIYJ6hgprIlIb) | [Dehd](https://open.spotify.com/artist/6yzuBFtT6dK2aQMZJZtcB1) | [Flower of Devotion](https://open.spotify.com/album/3K8xEI9zVLy7QqAHQZ4d7N) | 3:46 |
-| 35 | [This Heat](https://open.spotify.com/track/70H0Quqm0SwkmjlcaRy74B) | [Deeper](https://open.spotify.com/artist/2OdkcNnvSRbVRcziM3OK2S) | [Auto\-Pain](https://open.spotify.com/album/0ysuZ27s6yTQDmREAaAp1I) | 3:24 |
+| 35 | [The Cleaner](https://open.spotify.com/track/5JCJRbheraNHacbn9v1UWg) | [Squid](https://open.spotify.com/artist/685XjGzGztyivfR3fAjoxo) | [The Cleaner](https://open.spotify.com/album/0IYwrkF0eNvYRrtUHZO7Bo) | 7:33 |
 | 36 | [Girls & Boys](https://open.spotify.com/track/1kLnA3KtwwY9XeHNFjIHWK) | [Viagra Boys](https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg) | [Welfare Jazz](https://open.spotify.com/album/2UorQ6UuGys6Ivsg1exRSu) | 4:39 |
-| 37 | [The Cleaner](https://open.spotify.com/track/5JCJRbheraNHacbn9v1UWg) | [Squid](https://open.spotify.com/artist/685XjGzGztyivfR3fAjoxo) | [The Cleaner](https://open.spotify.com/album/0IYwrkF0eNvYRrtUHZO7Bo) | 7:33 |
+| 37 | [This Heat](https://open.spotify.com/track/70H0Quqm0SwkmjlcaRy74B) | [Deeper](https://open.spotify.com/artist/2OdkcNnvSRbVRcziM3OK2S) | [Auto\-Pain](https://open.spotify.com/album/0ysuZ27s6yTQDmREAaAp1I) | 3:24 |
 | 38 | [Book](https://open.spotify.com/track/5bvR6HZsnbDPs1dGeuc0Vg) | [Gustaf](https://open.spotify.com/artist/6QqLYrbjh5CnfMG7z5r96E) | [Audio Drag for Ego Slobs](https://open.spotify.com/album/6bjTnQUluNGjl7SDJeE7n3) | 2:00 |
 | 39 | [Adderall](https://open.spotify.com/track/1BY6CdiV86LveMK7Z5NtVE) | [shame](https://open.spotify.com/artist/4IeWU3NYBI9mISFVhzXG8f) | [Food for Worms](https://open.spotify.com/album/6A3JJrCJO2TXZ9Vfy3tIbW) | 4:25 |
 | 40 | [Beautiful Blue Sky](https://open.spotify.com/track/5vs3jJj3AhJMgIycoiF5Tx) | [Ought](https://open.spotify.com/artist/2VhVBXSB8n2KxuzKVZNxTY) | [Sun Coming Down](https://open.spotify.com/album/4MxLa2uPSGSus8XCSivcOD) | 7:43 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYwMzXER4RFF.md) - [plain]
 | 54 | [Pour Another](https://open.spotify.com/track/5BvpTVOBtKADtK5LAOgX4g) | [Yard Act](https://open.spotify.com/artist/2h3ooJn8m8X8cL2g1BZ1Rd) | [The Overload](https://open.spotify.com/album/4rXBcuJMRSt4izAwXNrTQu) | 3:20 |
 | 55 | [Look Like That](https://open.spotify.com/track/7aW0CpzMvI4MjptzitR24G) | [Sneaks](https://open.spotify.com/artist/40iUcsx6LWJ0DEPryPmU30) | [It's a Myth](https://open.spotify.com/album/4RgV6eObleITuJIV0cfF6k) | 3:17 |
 
-Snapshot ID: `MCwzMmU1MTk4YzI4MWE3YzM0NDU4MWUyYzZlYWUyNWFiODUyOWMzNmY3`
+Snapshot ID: `MCw4MGIyNjNjMjJkYzEzMDRkYTk1MDAzNjczM2Q3MWU1MGVjZmVjZDU0`

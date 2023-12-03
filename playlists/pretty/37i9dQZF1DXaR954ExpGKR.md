@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaR954ExpGKR.md) - [plain]
 
 > The best Latin music from all around the world! Cover: Maria Becerra & Prabh Singh
 
-[Spotify](https://open.spotify.com/user/spotify) - 173,204 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 173,260 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaR954ExpGKR.md) - [plain]
 | 43 | [MIA \(feat\. Drake\)](https://open.spotify.com/track/3Ueq2zboxwAbsvHrOjdEqz) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [MIA \(feat\. Drake\)](https://open.spotify.com/album/2xqopbc18kE4p2lIUzoO0G) | 3:30 |
 | 44 | [Party Animal](https://open.spotify.com/track/5vc9YsAEBWbRVvgKUcA5vs) | [Charly Black](https://open.spotify.com/artist/5sK8BsvyDl4TFA6KaBf8or), [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG) | [Party Animal](https://open.spotify.com/album/3eOXiZ4HVNafqio5wKJRcG) | 3:15 |
 | 45 | [In Da Getto](https://open.spotify.com/track/1q0PYXTbDsirp2l74ng6pn) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX) | [JOSE](https://open.spotify.com/album/11GmvpYnbgK0rSryPaV5BP) | 2:10 |
-| 46 | [DROP TOP \(feat\. Eddie Zuko\)](https://open.spotify.com/track/4iVlQcJQfbp9CZVLZsfIoS) | [INJI](https://open.spotify.com/artist/0Z4Ir8usNVcAdCSQl0fQki), [Eddie Zuko](https://open.spotify.com/artist/4AxSQnOMPd42KI149MWsub) | [LFG](https://open.spotify.com/album/0Wjc11cdyOt2mvMCBrTTvU) | 2:38 |
-| 47 | [Traag](https://open.spotify.com/track/5fySAmiBZEILTlSwo8n4Wi) | [Bizzey](https://open.spotify.com/artist/5GIcOzVFTNnzArytjmTkW8), [Jozo](https://open.spotify.com/artist/45eUXWgwkv92uAk1KQFI6D), [Kraantje Pappie](https://open.spotify.com/artist/5yDkaiPTFbHGWCMXAEBt5Q) | [Traag](https://open.spotify.com/album/5MHVtiFIv6DASkrHsgbOXE) | 3:09 |
-| 48 | [Cuando Salga La Luna](https://open.spotify.com/track/5eCEYfCUQ9JJOIhyUVEmyq) | [Cano](https://open.spotify.com/artist/60ZOYUFnCYEeKYsxgvPxOS), [SRNO](https://open.spotify.com/artist/0Kwf0zcciIFGLCKiqNcO6Q) | [Cuando Salga La Luna](https://open.spotify.com/album/13YZTzEcNhAtKRmb5sb2yL) | 2:26 |
-| 49 | [Bruk Off Yuh Back](https://open.spotify.com/track/30mNHDOw7qD5SF8tBeuPpu) | [Konshens](https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW) | [Bruk Off Yuh Back](https://open.spotify.com/album/46SMy1MXYZq5qnIpHKAd1U) | 2:53 |
+| 46 | [Traag](https://open.spotify.com/track/5fySAmiBZEILTlSwo8n4Wi) | [Bizzey](https://open.spotify.com/artist/5GIcOzVFTNnzArytjmTkW8), [Jozo](https://open.spotify.com/artist/45eUXWgwkv92uAk1KQFI6D), [Kraantje Pappie](https://open.spotify.com/artist/5yDkaiPTFbHGWCMXAEBt5Q) | [Traag](https://open.spotify.com/album/5MHVtiFIv6DASkrHsgbOXE) | 3:09 |
+| 47 | [DROP TOP \(feat\. Eddie Zuko\)](https://open.spotify.com/track/4iVlQcJQfbp9CZVLZsfIoS) | [INJI](https://open.spotify.com/artist/0Z4Ir8usNVcAdCSQl0fQki), [Eddie Zuko](https://open.spotify.com/artist/4AxSQnOMPd42KI149MWsub) | [LFG](https://open.spotify.com/album/0Wjc11cdyOt2mvMCBrTTvU) | 2:38 |
+| 48 | [Bruk Off Yuh Back](https://open.spotify.com/track/30mNHDOw7qD5SF8tBeuPpu) | [Konshens](https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW) | [Bruk Off Yuh Back](https://open.spotify.com/album/46SMy1MXYZq5qnIpHKAd1U) | 2:53 |
+| 49 | [Cuando Salga La Luna](https://open.spotify.com/track/5eCEYfCUQ9JJOIhyUVEmyq) | [Cano](https://open.spotify.com/artist/60ZOYUFnCYEeKYsxgvPxOS), [SRNO](https://open.spotify.com/artist/0Kwf0zcciIFGLCKiqNcO6Q) | [Cuando Salga La Luna](https://open.spotify.com/album/13YZTzEcNhAtKRmb5sb2yL) | 2:26 |
 | 50 | [CRIMINAL](https://open.spotify.com/track/0dCddleAveCZYwVbkEAhYR) | [Ana Mena](https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl), [Fred De Palma](https://open.spotify.com/artist/0QrUbsrL5imqntAfDl8i7q) | [CRIMINAL](https://open.spotify.com/album/3YdTZioBhiGLgxd7lFiHnB) | 3:00 |
 
-Snapshot ID: `MCwxMWJmM2E5OTdhMzdiOTg0M2ZhNTU0ZTEwMWJiNmU3NTE2OTE3MTk3`
+Snapshot ID: `MCxlMDIyM2U4MzUyOTIwMWJiMTdkZjY5ODgwZTU5ZTQwMjIxOWQ0MTVk`

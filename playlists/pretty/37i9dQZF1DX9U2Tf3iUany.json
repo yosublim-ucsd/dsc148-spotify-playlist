@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/stevenvictor/\">Steven Victor</a>",
-  "num_followers": 41322,
+  "num_followers": 41407,
   "original_name": "Steven Victor's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NmUxM2U2MDJiZTg4NThiYTY2ZjE0NDE1YTQxZDM5MTM5MmIwNjAw",
+  "snapshot_id": "MCw3MTg3M2IyODdjN2U0MzJkNzNmNzliMjBjNzQ3MzRhYmY3Yjg3ZGQ2",
   "tracks": [
     {
       "added_at": "2022-10-01 16:00:00",
@@ -367,18 +367,18 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Every Picture Tells A Story",
-        "url": "https://open.spotify.com/album/4VykjLwkyfKMZVLrJJVrYh"
+        "name": "Beg For Mercy",
+        "url": "https://open.spotify.com/album/0BolFrIcCXXppUK50ETvgy"
       },
       "artists": [
         {
-          "name": "Rod Stewart",
-          "url": "https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT"
+          "name": "G-Unit",
+          "url": "https://open.spotify.com/artist/6evKD5JWJON3qPBJtUEmtY"
         }
       ],
-      "duration_ms": 350266,
-      "name": "Maggie May",
-      "url": "https://open.spotify.com/track/6rovOdp3HgK1DeAMYDzoA7"
+      "duration_ms": 240800,
+      "name": "Poppin' Them Thangs",
+      "url": "https://open.spotify.com/track/4E5IFAXCob6QqZaJMTw5YN"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -399,18 +399,18 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Beg For Mercy",
-        "url": "https://open.spotify.com/album/0BolFrIcCXXppUK50ETvgy"
+        "name": "Every Picture Tells A Story",
+        "url": "https://open.spotify.com/album/4VykjLwkyfKMZVLrJJVrYh"
       },
       "artists": [
         {
-          "name": "G-Unit",
-          "url": "https://open.spotify.com/artist/6evKD5JWJON3qPBJtUEmtY"
+          "name": "Rod Stewart",
+          "url": "https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT"
         }
       ],
-      "duration_ms": 240800,
-      "name": "Poppin' Them Thangs",
-      "url": "https://open.spotify.com/track/4E5IFAXCob6QqZaJMTw5YN"
+      "duration_ms": 350266,
+      "name": "Maggie May",
+      "url": "https://open.spotify.com/track/6rovOdp3HgK1DeAMYDzoA7"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -667,6 +667,22 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
+        "name": "Come Home The Kids Miss You",
+        "url": "https://open.spotify.com/album/2eE8BVirX9VF8Di9hD90iw"
+      },
+      "artists": [
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        }
+      ],
+      "duration_ms": 138781,
+      "name": "I Got A Shot",
+      "url": "https://open.spotify.com/track/5hNsSrWcClSp0tg4Jdd4UY"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
         "name": "Best Friend (Remix)",
         "url": "https://open.spotify.com/album/27GrIQPCPtPyEUxONxAcRe"
       },
@@ -683,22 +699,6 @@
       "duration_ms": 254493,
       "name": "Best Friend - Remix",
       "url": "https://open.spotify.com/track/1wI3UvluGGKUeFeVFsP9do"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
-        "name": "Come Home The Kids Miss You",
-        "url": "https://open.spotify.com/album/2eE8BVirX9VF8Di9hD90iw"
-      },
-      "artists": [
-        {
-          "name": "Jack Harlow",
-          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
-        }
-      ],
-      "duration_ms": 138781,
-      "name": "I Got A Shot",
-      "url": "https://open.spotify.com/track/5hNsSrWcClSp0tg4Jdd4UY"
     },
     {
       "added_at": "2022-10-01 16:00:00",

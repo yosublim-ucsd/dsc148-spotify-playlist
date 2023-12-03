@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DeyeaDuJmw.md) - [plain]
 
 > Acá hay letra\. Foto: AK4:20.
 
-[Spotify](https://open.spotify.com/user/spotify) - 151,368 likes - 75 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 151,386 likes - 75 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,9 +79,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DeyeaDuJmw.md) - [plain]
 | 69 | [Phantom](https://open.spotify.com/track/2fwycfb0beKkeRQ9JH8dmU) | [Kiddtetoon](https://open.spotify.com/artist/2zfwez4uxbP8NcFy3kaNLF), [Polimá Westcoast](https://open.spotify.com/artist/768O5GliF0bqscyghggrbE), [Julianno Sosa](https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL) | [Phantom](https://open.spotify.com/album/4GclgY30bdbzH83JflpHPo) | 3:25 |
 | 70 | [Freestyle Session \#12](https://open.spotify.com/track/1igEUoKTRQCqu7yGfmhzOr) | [ZARAMAY](https://open.spotify.com/artist/3wsYquQ9CiMlYG54BUR2ff), [Nahuel The Coach](https://open.spotify.com/artist/0hlv0auaYL5p7H0M27Gtrg) | [Freestyle Session \#12](https://open.spotify.com/album/2RFsr5fSzS90LLVD1hzdBi) | 3:23 |
 | 71 | [Deseos](https://open.spotify.com/track/2AxLTHG7lOBmnyB5FmOMwz) | [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D), [Julianno Sosa](https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL) | [Deseos](https://open.spotify.com/album/2MXLNh2b4ehnJ2fx3UbO6X) | 3:23 |
-| 72 | [Ácido](https://open.spotify.com/track/67qxV0lxSgs8BAnIl3gtEL) | [Crissin](https://open.spotify.com/artist/6VOoiigTiLVgsMQPP1JOdC) | [Ácido](https://open.spotify.com/album/2fpJi92UkpWlVfehON7Yqt) | 2:29 |
-| 73 | [F40](https://open.spotify.com/track/1r4cq6ZPidlBrhBC5kpnCp) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [JOSE](https://open.spotify.com/album/11GmvpYnbgK0rSryPaV5BP) | 2:41 |
+| 72 | [F40](https://open.spotify.com/track/1r4cq6ZPidlBrhBC5kpnCp) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [JOSE](https://open.spotify.com/album/11GmvpYnbgK0rSryPaV5BP) | 2:41 |
+| 73 | [Ácido](https://open.spotify.com/track/67qxV0lxSgs8BAnIl3gtEL) | [Crissin](https://open.spotify.com/artist/6VOoiigTiLVgsMQPP1JOdC) | [Ácido](https://open.spotify.com/album/2fpJi92UkpWlVfehON7Yqt) | 2:29 |
 | 74 | [Mala Influencia](https://open.spotify.com/track/28sOLLPgDAdBzDuhkuuLhz) | [Noriel](https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [Mala Influencia](https://open.spotify.com/album/1qb1ja0w8w0m2QYStSs3IA) | 3:14 |
 | 75 | [Sin Tabú](https://open.spotify.com/track/7xJeg4TFZBwoK63G98YRaA) | [Nakary](https://open.spotify.com/artist/3pPvxpifWmiueGdmBeUvZW), [Zion](https://open.spotify.com/artist/1pgDilWYDWLoOgGjf1iHNu), [Noriel](https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL), [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP), [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn), [KEVVO](https://open.spotify.com/artist/4QrBoWLm2WNlPdbFhmlaUZ) | [Sin Tabú \(Remix\)](https://open.spotify.com/album/0OjGPsF7wQtx1jmbv0IhQt) | 3:52 |
 
-Snapshot ID: `MCxjMzI1NzAxOTRkZGVmZTE2NDMyMmY0ZGFmMjczMjFjZDU4N2FhOGFm`
+Snapshot ID: `MCw4NmIwODllYTZjZDRjZjRmOTc3NTlkN2UzYmNiODc2YmIwMTE0NWJk`

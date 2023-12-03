@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUraJYejk11q.md) - [plain]
 
 > Instrumental bliss beyond genre classification.
 
-[Spotify](https://open.spotify.com/user/spotify) - 458,590 likes - 50 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 458,598 likes - 50 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,8 +14,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUraJYejk11q.md) - [plain]
 | 4 | [World Turns](https://open.spotify.com/track/7gLVKmFdPHGTrrK5QknUnw) | [Rival Consoles](https://open.spotify.com/artist/05lIUgmmsmTX2N9dCKc8rC) | [Now Is](https://open.spotify.com/album/5volqabPjMCyMnT1GZKYgz) | 5:23 |
 | 5 | [TIOLI](https://open.spotify.com/track/0lfQ5Cw75fnkAg2JXAh0Qh) | [RONA.](https://open.spotify.com/artist/5RCdebItgr1WsBoXoGgPb6) | [TIOLI](https://open.spotify.com/album/0LHWXE2N0oByFLjTqcfrkb) | 4:38 |
 | 6 | [Familiar Flavours](https://open.spotify.com/track/5DahiVparbFG67nqloWPSL) | [700 Feel](https://open.spotify.com/artist/4dyipJdNkRIUS9DrMohalV) | [Familiar Flavours](https://open.spotify.com/album/2OJCNJVU3nDjLVV5PzZRCU) | 4:20 |
-| 7 | [Zan](https://open.spotify.com/track/1JVboyYVrqt0BBTqoUwvyn) | [Max Graef](https://open.spotify.com/artist/4AflEeXdD0VohMzZvOGo55) | [Zan](https://open.spotify.com/album/2eyvj3p4GzodK91J7lPwub) | 4:45 |
-| 8 | [Transactional Relationship](https://open.spotify.com/track/17YSGfgY3BizhPL8QDF1gg) | [Gold Panda](https://open.spotify.com/artist/6xS3zemJD9h94iueQvGqVk) | [Transactional Relationship](https://open.spotify.com/album/0007jLfYrERL4X1mpSgLGK) | 3:13 |
+| 7 | [Transactional Relationship](https://open.spotify.com/track/17YSGfgY3BizhPL8QDF1gg) | [Gold Panda](https://open.spotify.com/artist/6xS3zemJD9h94iueQvGqVk) | [Transactional Relationship](https://open.spotify.com/album/0007jLfYrERL4X1mpSgLGK) | 3:13 |
+| 8 | [Zan](https://open.spotify.com/track/1JVboyYVrqt0BBTqoUwvyn) | [Max Graef](https://open.spotify.com/artist/4AflEeXdD0VohMzZvOGo55) | [Zan](https://open.spotify.com/album/2eyvj3p4GzodK91J7lPwub) | 4:45 |
 | 9 | [C.A.](https://open.spotify.com/track/13aqTF1q4504gb1WxzDZ1k) | [Plaid](https://open.spotify.com/artist/5akVqMzdZOdbMYbE4vNZWD) | [Feorm Falorx](https://open.spotify.com/album/6gSz7SaYTBVaAORAO6j0ME) | 3:06 |
 | 10 | [Tahara](https://open.spotify.com/track/4HDyneNRqT6teWLfG5CQ1x) | [Jacana People](https://open.spotify.com/artist/2f0w048dh1LH5QPDvwKECY) | [Tahara](https://open.spotify.com/album/7evkhN1L2LeQjCm1IaCNzS) | 3:33 |
 | 11 | [Trusted](https://open.spotify.com/track/0lX858dF2YgUxNEUcgN8Gi) | [machìna](https://open.spotify.com/artist/0WOOrXTvgnjErVjsXSOOxn) | [Trusted EP](https://open.spotify.com/album/3fXh9MA7D3t2T4ir3R2tB9) | 3:14 |
@@ -42,9 +42,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUraJYejk11q.md) - [plain]
 | 32 | [April Dub \(Koyas Mix\)](https://open.spotify.com/track/0X93HjaN9zROeyew9uCOru) | [Sancho Meiso Chaya](https://open.spotify.com/artist/5R2atQNZwxCphuQxWh7LGn), [Koyas](https://open.spotify.com/artist/74Ah80XOCgo68rRWaRWnnI) | [April Dub](https://open.spotify.com/album/658oYwejSEjmja1ZLZjLWE) | 4:20 |
 | 33 | [NPCs have feelings too](https://open.spotify.com/track/2NAb2HxL55cZRhATCQLw3t) | [Artur M Puga](https://open.spotify.com/artist/3eBggjM2o4vL4jMyLgElSn) | [weirdbloom](https://open.spotify.com/album/1VTbpHOo6ks1bjUZNwlvaZ) | 4:39 |
 | 34 | [tracing Rays \[reality glo\]](https://open.spotify.com/track/4YTXY7Ze4njWYH4nDutz4q) | [Brainwaltzera](https://open.spotify.com/artist/4IexN10iBaLP2CDVLl6rDB) | [tracing Rays \[reality glo\]](https://open.spotify.com/album/2A7WqlhXWnDCK84hqsnWGY) | 4:22 |
-| 35 | [Time to Leave](https://open.spotify.com/track/3guKL9FuFv1HgpHK7W4nhu) | [ŻYŃY](https://open.spotify.com/artist/54zBQHvlW5wxOAhWVPVMlY) | [Time to Leave](https://open.spotify.com/album/62tdWlcufIf8xyRQswdmLh) | 4:52 |
-| 36 | [Cheve](https://open.spotify.com/track/16f4s3WLYMbCtIVlyaqO89) | [Siete Catorce](https://open.spotify.com/artist/3MVzVLPSlOV0s6mGQ2YZHr) | [Cruda](https://open.spotify.com/album/2Ia0Ig2JkLx3NNpdxuICeH) | 5:29 |
-| 37 | [SPIN FOREVER](https://open.spotify.com/track/1MmksCcZL31uJu8J4swpsC) | [TUNA DISPLAY](https://open.spotify.com/artist/1x7qdjEwCAGHfHrtqrnO8J) | [VIOLENT GLARE](https://open.spotify.com/album/0EOuU9vymdpcWaRQTQzSPT) | 4:10 |
+| 35 | [Cheve](https://open.spotify.com/track/16f4s3WLYMbCtIVlyaqO89) | [Siete Catorce](https://open.spotify.com/artist/3MVzVLPSlOV0s6mGQ2YZHr) | [Cruda](https://open.spotify.com/album/2Ia0Ig2JkLx3NNpdxuICeH) | 5:29 |
+| 36 | [SPIN FOREVER](https://open.spotify.com/track/1MmksCcZL31uJu8J4swpsC) | [TUNA DISPLAY](https://open.spotify.com/artist/1x7qdjEwCAGHfHrtqrnO8J) | [VIOLENT GLARE](https://open.spotify.com/album/0EOuU9vymdpcWaRQTQzSPT) | 4:10 |
+| 37 | [Time to Leave](https://open.spotify.com/track/3guKL9FuFv1HgpHK7W4nhu) | [ŻYŃY](https://open.spotify.com/artist/54zBQHvlW5wxOAhWVPVMlY) | [Time to Leave](https://open.spotify.com/album/62tdWlcufIf8xyRQswdmLh) | 4:52 |
 | 38 | [Minena](https://open.spotify.com/track/4yvUIVFjmNJL7nrb0irmBa) | [Ranma Entero](https://open.spotify.com/artist/779eiS92bExNWIAWxmiWIB) | [Minena](https://open.spotify.com/album/0IWOooqWyw1lf5xqYGGs3H) | 4:35 |
 | 39 | [Diamond Beach](https://open.spotify.com/track/5O77vZjVt78PbW6nCKItQq) | [Modula](https://open.spotify.com/artist/0UplKQAaI4vQKJ1AheVyE7) | [Paranormal Phenomena – The Icelandic Expedition](https://open.spotify.com/album/7of3FJV3PXkHQ1bWyiFqup) | 3:04 |
 | 40 | [Circuitous](https://open.spotify.com/track/6vu6oVaFUJkHt49OeoaO3k) | [Afrikan Sciences](https://open.spotify.com/artist/4Ewz395zbkN9YjaRc10t0U) | [Circuitous](https://open.spotify.com/album/2zjSQpLovbXE8bUemBiOby) | 5:34 |
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUraJYejk11q.md) - [plain]
 | 42 | [Desert Viper](https://open.spotify.com/track/07Ee8FQCrmxyseMqszOATP) | [Impérieux](https://open.spotify.com/artist/1H44pbKMHDVSQcYW4joyLK) | [Extensions](https://open.spotify.com/album/4NbNg6wkAtFk0Rv30UUvYN) | 4:12 |
 | 43 | [Fwd: Re: late \(Ref.: karoshi\)](https://open.spotify.com/track/2d2IGL8Q7a4a4uKMDXOx2n) | [Brainwaltzera](https://open.spotify.com/artist/4IexN10iBaLP2CDVLl6rDB) | [Fwd: Re: late \(Ref.: karoshi\)](https://open.spotify.com/album/73UuLb3FaidlmvkZLe8z2s) | 6:01 |
 | 44 | [In Your Head \- Subxet Remix](https://open.spotify.com/track/50mIPnnh5NYXF3I6HapVjq) | [Arhkota](https://open.spotify.com/artist/0m0rpowRayqXeysAeJvvzZ), [Lubna Maher](https://open.spotify.com/artist/3zCuqsdLxjuhTjxYsrIuvb), [SUBXET](https://open.spotify.com/artist/2qhMUAZvXDDWWpukApVXwX) | [Dreamy Hamilton \(Remixes\)](https://open.spotify.com/album/4X40gozRTAuJrosoKxf9M6) | 4:47 |
-| 45 | [Pigeon Barron](https://open.spotify.com/track/3J4QilICdLFiPX7lB3lyOJ) | [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4) | [Baby, We're Ascending](https://open.spotify.com/album/7FlN0x6yjToDvOIjpuIm48) | 6:39 |
-| 46 | [Surrounded By Neighbours](https://open.spotify.com/track/6yZhFRgrAPLMXkxOcD6Za7) | [Luke Vibert](https://open.spotify.com/artist/0HfxCluo7N2dhr4oRM0wBv) | [Grit.](https://open.spotify.com/album/1t4OkFOkncJd3Bz2hXKK8w) | 5:31 |
+| 45 | [Surrounded By Neighbours](https://open.spotify.com/track/6yZhFRgrAPLMXkxOcD6Za7) | [Luke Vibert](https://open.spotify.com/artist/0HfxCluo7N2dhr4oRM0wBv) | [Grit.](https://open.spotify.com/album/1t4OkFOkncJd3Bz2hXKK8w) | 5:31 |
+| 46 | [Pigeon Barron](https://open.spotify.com/track/3J4QilICdLFiPX7lB3lyOJ) | [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4) | [Baby, We're Ascending](https://open.spotify.com/album/7FlN0x6yjToDvOIjpuIm48) | 6:39 |
 | 47 | [Flooding Meadow](https://open.spotify.com/track/4p8K4d12HW1fzQv3EkDWFh) | [Doc Sleep](https://open.spotify.com/artist/5o1pKpYbHcqZanSu2DCrJI) | [Flooding Meadow](https://open.spotify.com/album/53VcxaUbWyXPn47Wzl89bn) | 4:50 |
 | 48 | [Yesterday Faded \- Edit](https://open.spotify.com/track/0WLrMIT6Pi7AzvEdvfP7yP) | [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt) | [Yesterday Faded \(Edit\)](https://open.spotify.com/album/6o2dqU7r0teFQoNQZdEGdT) | 4:02 |
 | 49 | [Opak](https://open.spotify.com/track/01XBVQvgUeUMSrznKTR1X7) | [JakoJako](https://open.spotify.com/artist/2ROWhaqtdj8ztIxWekIW4E) | [Opak](https://open.spotify.com/album/4vnp9u6zjv2U8pp40jpiBz) | 5:37 |
 | 50 | [Bliss](https://open.spotify.com/track/4uxW8xGvAHT2lOCFLG7gUg) | [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt) | [Bliss](https://open.spotify.com/album/3pzfRwPIduKjP0qOF6BYOD) | 3:20 |
 
-Snapshot ID: `MCw2NDRhNDVmOTcyM2ExMzBjNzBjMGUxNDE0Y2ZjNzVlMDAzNjczMDI3`
+Snapshot ID: `MCw1NzJjN2Y0NDkwMzZjOGJjZmE4OGY3MDY3NWU3ZmE0ZjU2MGMwNTk3`

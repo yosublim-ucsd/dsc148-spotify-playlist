@@ -1,12 +1,12 @@
 {
   "description": "Relax to acoustic versions of your favorite rock songs.",
-  "num_followers": 960542,
+  "num_followers": 960726,
   "original_name": "Acoustic Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNGI3NGFjNTczZTFhZjUzOWFlOWQxMGExMTM5MTk3NWFjNGU0MTNl",
+  "snapshot_id": "MCxlYzA1ODg4ZDhjMGI0NWQwZjAyZmUzYzdlNTgxNjMzOWM3NmNiMDU2",
   "tracks": [
     {
       "added_at": "2023-09-20 15:37:37",
@@ -643,22 +643,6 @@
     {
       "added_at": "2023-09-20 15:37:37",
       "album": {
-        "name": "SoCal Sessions",
-        "url": "https://open.spotify.com/album/6ZLA8OYBtkOXuY7IBXYWDo"
-      },
-      "artists": [
-        {
-          "name": "P.O.D.",
-          "url": "https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU"
-        }
-      ],
-      "duration_ms": 262253,
-      "name": "Youth Of The Nation - Acoustic Version",
-      "url": "https://open.spotify.com/track/4gkzgIySsIKS4FAlF724Bm"
-    },
-    {
-      "added_at": "2023-09-20 15:37:37",
-      "album": {
         "name": "Shooting Stars (in the Woods)",
         "url": "https://open.spotify.com/album/3PDSx1HCnP3I2byYCTjrG1"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 263088,
       "name": "Shooting Stars - in the Woods",
       "url": "https://open.spotify.com/track/69mwPY097BcpVDYHOFIAT7"
+    },
+    {
+      "added_at": "2023-09-20 15:37:37",
+      "album": {
+        "name": "SoCal Sessions",
+        "url": "https://open.spotify.com/album/6ZLA8OYBtkOXuY7IBXYWDo"
+      },
+      "artists": [
+        {
+          "name": "P.O.D.",
+          "url": "https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU"
+        }
+      ],
+      "duration_ms": 262253,
+      "name": "Youth Of The Nation - Acoustic Version",
+      "url": "https://open.spotify.com/track/4gkzgIySsIKS4FAlF724Bm"
     },
     {
       "added_at": "2023-09-20 15:37:37",
@@ -707,22 +707,6 @@
     {
       "added_at": "2023-09-20 15:37:37",
       "album": {
-        "name": "Walk On Water (Acoustic)",
-        "url": "https://open.spotify.com/album/6AYKHtLtX2M9WnHcM2s142"
-      },
-      "artists": [
-        {
-          "name": "Thirty Seconds To Mars",
-          "url": "https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD"
-        }
-      ],
-      "duration_ms": 188895,
-      "name": "Walk On Water - Acoustic",
-      "url": "https://open.spotify.com/track/4sNbnjnqIKkT16XuUtwU88"
-    },
-    {
-      "added_at": "2023-09-20 15:37:37",
-      "album": {
         "name": "In Bloom: Versions",
         "url": "https://open.spotify.com/album/6UjgPXbovoEObPAYEfuC85"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 212534,
       "name": "In Bloom (Acoustic)",
       "url": "https://open.spotify.com/track/0MkIn6BHsrQswE5v44kToW"
+    },
+    {
+      "added_at": "2023-09-20 15:37:37",
+      "album": {
+        "name": "Walk On Water (Acoustic)",
+        "url": "https://open.spotify.com/album/6AYKHtLtX2M9WnHcM2s142"
+      },
+      "artists": [
+        {
+          "name": "Thirty Seconds To Mars",
+          "url": "https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD"
+        }
+      ],
+      "duration_ms": 188895,
+      "name": "Walk On Water - Acoustic",
+      "url": "https://open.spotify.com/track/4sNbnjnqIKkT16XuUtwU88"
     },
     {
       "added_at": "2023-09-20 15:37:37",

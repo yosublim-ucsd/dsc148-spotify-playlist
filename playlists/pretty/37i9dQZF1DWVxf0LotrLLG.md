@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxf0LotrLLG.md) - [plain]
 
 > Descubre los nuevos álbumes del año\. Hit shuffle for a mixed listening experience\. Cover: Feid
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,862 likes - 223 songs - 11 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,872 likes - 223 songs - 11 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxf0LotrLLG.md) - [plain]
 | 4 | [TE FUI A SEGUIR](https://open.spotify.com/track/2vRmz7wDDxRY4zPSzwEmIT) | [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3), [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A) | [1 1 1](https://open.spotify.com/album/3AROvUBUe1mMAauVt73kRF) | 2:33 |
 | 5 | [UNA BALA](https://open.spotify.com/track/6K7gGdiXiKHTaA5M98uT1F) | [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [1 1 1](https://open.spotify.com/album/3AROvUBUe1mMAauVt73kRF) | 3:02 |
 | 6 | [ALUMBRE](https://open.spotify.com/track/2hdpglljEzt98X6zJkfW7k) | [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [1 1 1](https://open.spotify.com/album/3AROvUBUe1mMAauVt73kRF) | 4:16 |
-| 7 | [Pudiste pero No Quisiste](https://open.spotify.com/track/4GW1xy7yINUnuEQHaETaVC) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Como en los Viejos Tiempos](https://open.spotify.com/album/7kfuZtaN9zvpFhIIMZLvgI) | 3:32 |
+| 7 | [Pudiste Pero No Quisiste](https://open.spotify.com/track/4GW1xy7yINUnuEQHaETaVC) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Como en los Viejos Tiempos](https://open.spotify.com/album/7kfuZtaN9zvpFhIIMZLvgI) | 3:32 |
 | 8 | [Como En Los Viejos Tiempos](https://open.spotify.com/track/4GBRHjkc0OBRtzZBdO1BVq) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Como En Los Viejos Tiempos](https://open.spotify.com/album/0L42ly7nUhlU7B70Dsuv2P) | 4:05 |
 | 9 | [Prometiste](https://open.spotify.com/track/7DYM9U4tQ7RYpiPeq7IcwY) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV), [Los Nuevos Arrendados](https://open.spotify.com/artist/3X5AGNYWPXYXWODINcNrNm) | [Como en los Viejos Tiempos](https://open.spotify.com/album/7kfuZtaN9zvpFhIIMZLvgI) | 3:43 |
 | 10 | [Olvídala](https://open.spotify.com/track/1btqNfmvNJb24aWwmQCYZB) | [3AM](https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D), [Beret](https://open.spotify.com/artist/0ZHPrnImGh4re3TbSNkoZl) | [Lluvia: Rain City Vol.2](https://open.spotify.com/album/1d3pKhYKoQ2d32Exs3wTyr) | 2:59 |
@@ -232,4 +232,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxf0LotrLLG.md) - [plain]
 | 222 | [Sale Pa la Calle](https://open.spotify.com/track/5oAzWgKYosXee4Xfjpkbt6) | [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [EVERYBODY GO TO THE DISCOTEK](https://open.spotify.com/album/11UJfH39O0VqLiQGLW0D0e) | 3:31 |
 | 223 | [Lollipop](https://open.spotify.com/track/3cDyocF0Ibdfs1SFQk5cLZ) | [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf) | [EVERYBODY GO TO THE DISCOTEK](https://open.spotify.com/album/11UJfH39O0VqLiQGLW0D0e) | 3:19 |
 
-Snapshot ID: `MCxkZmEzMGVkYzRjNjMxNGNjNjE3ZDY3ZjhlN2EyMmEwN2MzNDk1YzNi`
+Snapshot ID: `MCw2ZWU2YTRlYmFkMDNhNDg4YjM2M2IzOWE5ODMyYTdmNzU0ZjAzOTQy`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXLRnGRo8irv.md) - [plain]
 
 > 2023년EQUAL Korea를 빛낸 트랙들을 만나보세요! \(Highlights of 2023, listen to women at full volume.\) \(Cover: Jessi\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,158 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,156 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXLRnGRo8irv.md) - [plain]
 | 49 | [Entrance](https://open.spotify.com/track/0ZLNsexvuCJL8ng84GfH2t) | [Green](https://open.spotify.com/artist/5QZhUdqvTEGnKNLVBTbFSY) | [TROUBLE](https://open.spotify.com/album/3IYrL8FzKrX5DOlxvqXOlZ) | 1:40 |
 | 50 | [The Milky Way](https://open.spotify.com/track/0TJnjAxpHbOgmNHh0xAzOt) | [COOING](https://open.spotify.com/artist/2NMLIfATxdqFuhx2jHcir8) | [The Milky Way](https://open.spotify.com/album/3prV1vNupZqpSkHOm7d2Y5) | 3:33 |
 
-Snapshot ID: `MCw5YjE3MjllZTI5NTcyN2YzMjQ5YmJlZmFhNGFkMmM5MDdkNmE5OGY0`
+Snapshot ID: `MCwwMjFlNzMxNjc4NjI1NzBjMTMyNzIzOWNhODhmNTAyODg1MDliMzI5`

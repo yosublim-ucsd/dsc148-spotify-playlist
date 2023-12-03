@@ -1,12 +1,12 @@
 {
   "description": "The essential pop rock songs from the 80s. Cover: The Go-Go's",
-  "num_followers": 236943,
+  "num_followers": 237180,
   "original_name": "80s Pop Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMzkwOTZkYmQzMzNmNTVmODJmNGRmNzgwMzI5NmVkYmI0YmUwYzVh",
+  "snapshot_id": "MCwwMjFiMTUzYjY1OGFlMWM1NDVmZWU4MDQxOTFhYzVjZTE2OTY1ZDg5",
   "tracks": [
     {
       "added_at": "2023-01-18 21:24:22",
@@ -27,18 +27,18 @@
     {
       "added_at": "2023-01-18 21:24:22",
       "album": {
-        "name": "Synchronicity (Remastered 2003)",
-        "url": "https://open.spotify.com/album/5W9OT0a5iZlBr83a9WMKFY"
+        "name": "Songs From The Big Chair (Super Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3myPwaMYjdwhtq0nFgeG6W"
       },
       "artists": [
         {
-          "name": "The Police",
-          "url": "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE"
+          "name": "Tears For Fears",
+          "url": "https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU"
         }
       ],
-      "duration_ms": 253920,
-      "name": "Every Breath You Take",
-      "url": "https://open.spotify.com/track/1JSTJqkT5qHq8MDJnJbRE1"
+      "duration_ms": 251488,
+      "name": "Everybody Wants To Rule The World",
+      "url": "https://open.spotify.com/track/4RvWPyQ5RL0ao9LPZeSouE"
     },
     {
       "added_at": "2023-01-18 21:24:22",
@@ -59,18 +59,18 @@
     {
       "added_at": "2023-01-18 21:24:22",
       "album": {
-        "name": "Songs From The Big Chair (Super Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3myPwaMYjdwhtq0nFgeG6W"
+        "name": "Synchronicity (Remastered 2003)",
+        "url": "https://open.spotify.com/album/5W9OT0a5iZlBr83a9WMKFY"
       },
       "artists": [
         {
-          "name": "Tears For Fears",
-          "url": "https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU"
+          "name": "The Police",
+          "url": "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE"
         }
       ],
-      "duration_ms": 251488,
-      "name": "Everybody Wants To Rule The World",
-      "url": "https://open.spotify.com/track/4RvWPyQ5RL0ao9LPZeSouE"
+      "duration_ms": 253920,
+      "name": "Every Breath You Take",
+      "url": "https://open.spotify.com/track/1JSTJqkT5qHq8MDJnJbRE1"
     },
     {
       "added_at": "2023-01-18 21:24:22",
@@ -779,22 +779,6 @@
     {
       "added_at": "2023-01-18 21:24:22",
       "album": {
-        "name": "Freeze Frame",
-        "url": "https://open.spotify.com/album/48joW5905AMbTFLvy8ZWch"
-      },
-      "artists": [
-        {
-          "name": "The J. Geils Band",
-          "url": "https://open.spotify.com/artist/69Mj3u4FTUrpyeGNSIaU6F"
-        }
-      ],
-      "duration_ms": 216533,
-      "name": "Centerfold",
-      "url": "https://open.spotify.com/track/1ynmMEK1fkyiZ6Z6F3ThEt"
-    },
-    {
-      "added_at": "2023-01-18 21:24:22",
-      "album": {
         "name": "Private Dancer (30th Anniversary Issue)",
         "url": "https://open.spotify.com/album/7gVHUNPQr0AE2A0Yf5MjqR"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 230240,
       "name": "What's Love Got to Do with It - 2015 Remaster",
       "url": "https://open.spotify.com/track/3ErsOxqe2RmXkR65wkygDz"
+    },
+    {
+      "added_at": "2023-01-18 21:24:22",
+      "album": {
+        "name": "Freeze Frame",
+        "url": "https://open.spotify.com/album/48joW5905AMbTFLvy8ZWch"
+      },
+      "artists": [
+        {
+          "name": "The J. Geils Band",
+          "url": "https://open.spotify.com/artist/69Mj3u4FTUrpyeGNSIaU6F"
+        }
+      ],
+      "duration_ms": 216533,
+      "name": "Centerfold",
+      "url": "https://open.spotify.com/track/1ynmMEK1fkyiZ6Z6F3ThEt"
     },
     {
       "added_at": "2023-01-18 21:24:22",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2023-01-18 21:24:22",
       "album": {
-        "name": "Freedom of Choice",
-        "url": "https://open.spotify.com/album/6UsP4NQ9K4L4Nqxj0Qis41"
-      },
-      "artists": [
-        {
-          "name": "DEVO",
-          "url": "https://open.spotify.com/artist/0UKfenbZb15sqhfPC6zbt3"
-        }
-      ],
-      "duration_ms": 161133,
-      "name": "Whip It",
-      "url": "https://open.spotify.com/track/4sscDOZCkbLSlDqcCgUJnX"
-    },
-    {
-      "added_at": "2023-01-18 21:24:22",
-      "album": {
         "name": "The Seeds Of Love",
         "url": "https://open.spotify.com/album/4M0DNIYXbpCdKnVV4LoD9X"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 379333,
       "name": "Sowing The Seeds Of Love",
       "url": "https://open.spotify.com/track/62vx6uOYO7PrqKqKTKg9RY"
+    },
+    {
+      "added_at": "2023-01-18 21:24:22",
+      "album": {
+        "name": "Freedom of Choice",
+        "url": "https://open.spotify.com/album/6UsP4NQ9K4L4Nqxj0Qis41"
+      },
+      "artists": [
+        {
+          "name": "DEVO",
+          "url": "https://open.spotify.com/artist/0UKfenbZb15sqhfPC6zbt3"
+        }
+      ],
+      "duration_ms": 161133,
+      "name": "Whip It",
+      "url": "https://open.spotify.com/track/4sscDOZCkbLSlDqcCgUJnX"
     },
     {
       "added_at": "2023-01-18 21:24:22",
@@ -1439,18 +1439,18 @@
     {
       "added_at": "2023-01-18 21:24:22",
       "album": {
-        "name": "Mirage (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1dZNgJ3Gh3wp6ohzk29JUG"
+        "name": "Kilroy Was Here",
+        "url": "https://open.spotify.com/album/0fRptUxZ5A1EAJww9bcqu6"
       },
       "artists": [
         {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+          "name": "Styx",
+          "url": "https://open.spotify.com/artist/4salDzkGmfycRqNUbyBphh"
         }
       ],
-      "duration_ms": 267033,
-      "name": "Gypsy - 2016 Remaster",
-      "url": "https://open.spotify.com/track/5J0aNEUTxJWKXnQmyY3vUp"
+      "duration_ms": 328706,
+      "name": "Mr. Roboto",
+      "url": "https://open.spotify.com/track/7C0rG4oWO7VeZcffyW1sK9"
     },
     {
       "added_at": "2023-01-18 21:24:22",
@@ -1471,18 +1471,18 @@
     {
       "added_at": "2023-01-18 21:24:22",
       "album": {
-        "name": "Kilroy Was Here",
-        "url": "https://open.spotify.com/album/0fRptUxZ5A1EAJww9bcqu6"
+        "name": "Mirage (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1dZNgJ3Gh3wp6ohzk29JUG"
       },
       "artists": [
         {
-          "name": "Styx",
-          "url": "https://open.spotify.com/artist/4salDzkGmfycRqNUbyBphh"
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
         }
       ],
-      "duration_ms": 328706,
-      "name": "Mr. Roboto",
-      "url": "https://open.spotify.com/track/7C0rG4oWO7VeZcffyW1sK9"
+      "duration_ms": 267033,
+      "name": "Gypsy - 2016 Remaster",
+      "url": "https://open.spotify.com/track/5J0aNEUTxJWKXnQmyY3vUp"
     },
     {
       "added_at": "2023-01-18 21:24:22",
@@ -1535,8 +1535,8 @@
     {
       "added_at": "2023-01-18 21:24:22",
       "album": {
-        "name": "So (2012 Remastered)",
-        "url": "https://open.spotify.com/album/2ikq6LspaBbUG2qyiV5qdx"
+        "name": "So (25th Anniversary Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1vJ8rCzq6BJtKGz9Yf6oT3"
       },
       "artists": [
         {
@@ -1544,9 +1544,9 @@
           "url": "https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I"
         }
       ],
-      "duration_ms": 330373,
-      "name": "In Your Eyes - 2012 Remaster",
-      "url": "https://open.spotify.com/track/4qN7nSAVTjPfOOz0wkRQpM"
+      "duration_ms": 311986,
+      "name": "Sledgehammer - 2012 Remaster",
+      "url": "https://open.spotify.com/track/4AUS8KNz7zX8XFu9L38GT0"
     },
     {
       "added_at": "2023-01-18 21:24:22",

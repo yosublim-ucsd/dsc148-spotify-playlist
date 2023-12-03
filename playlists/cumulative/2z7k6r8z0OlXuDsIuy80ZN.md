@@ -4,7 +4,7 @@
 
 > ¡Los 40 principales éxitos de la radio musical! Se actualiza cada semana con la nueva lista de LOS40 ¡Busca más playlists en nuestro perfil y en la <a href="http://onelink.to/los40app">app LOS40</a>!
 
-202 songs - 10 hr 37 min
+203 songs - 10 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Anti\-Hero](https://open.spotify.com/track/0V3wPSX9ygBnCm8psDIegu) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 3:20 | 2022-11-26 | 2023-03-26 |
 | [As It Was](https://open.spotify.com/track/4LRPiXqCikLlN15c3yImP7) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [As It Was](https://open.spotify.com/album/2pqdSWeJVsXAhHFuVLzuA8) | 2:47 | 2022-04-16 | 2023-03-05 |
 | [ASI ES LA VIDA](https://open.spotify.com/track/0Me3GyNuLOa1YTIxhJPyCn) | [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [ASI ES LA VIDA](https://open.spotify.com/album/6qW93Zylfk7oxZ8ZzwjkL5) | 2:52 | 2023-10-28 |  |
+| [b.o.b.o.](https://open.spotify.com/track/0aHqflgjBiuNWvFJw2MhoQ) | [Paula Koops](https://open.spotify.com/artist/3jDSE2qvShLf8DbYmseNW0) | [b.o.b.o.](https://open.spotify.com/album/2FdIPbrSPyPEL9jKup9KQC) | 2:22 | 2023-12-02 |  |
 | [Baby Don't Hurt Me](https://open.spotify.com/track/3BKD1PwArikchz2Zrlp1qi) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Baby Don't Hurt Me](https://open.spotify.com/album/327tc3Eruk1HP1w62iqROy) | 2:20 | 2023-05-20 |  |
 | [BABY HELLO](https://open.spotify.com/track/2SOvWt6igzXViIjIiWNWEP) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36) | [BABY HELLO](https://open.spotify.com/album/5KDgQ8sKzlThX02A5urLj0) | 3:42 | 2023-08-12 |  |
 | [Bad Habits](https://open.spotify.com/track/6PQ88X9TkUIAUIZJHW2upE) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Bad Habits](https://open.spotify.com/album/01NhUvviMytvV12pmJiDZH) | 3:51 | 2022-01-15 | 2022-04-10 |
@@ -146,7 +147,7 @@
 | [No siempre quedará París \- Remix](https://open.spotify.com/track/4TPugCH4s6bRqhWhGkb2qw) | [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2), [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2) | [No siempre quedará París \(Remix\)](https://open.spotify.com/album/2tfshGlaDqIHUovmOcFL4q) | 3:06 | 2023-05-06 | 2023-08-20 |
 | [No, No Vuelve](https://open.spotify.com/track/4eTgIBf9ktps6iXWS4mvh7) | [Dani Martín](https://open.spotify.com/artist/3AIPhNgeF9S1Kyg9Yy3UQW) | [No, No Vuelve](https://open.spotify.com/album/6koZt4CD76dwvrx3miwSac) | 3:48 | 2022-01-15 | 2022-04-17 |
 | [No\_se\_ve.mp3](https://open.spotify.com/track/2iIBpwP4FyQ95xgVail3yr) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9), [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [ZECCA](https://open.spotify.com/artist/2Yia9CwtgcrsN5kVOQ0qRA) | [No\_se\_ve.mp3](https://open.spotify.com/album/7sAPapzxqBhYuDe7OxldCN) | 3:23 | 2023-07-01 |  |
-| [Nochentera](https://open.spotify.com/track/20CozgjF6bshBw8cLhN23B) | [Vicco](https://open.spotify.com/artist/2z1MpPojFcvxYcEAx0lT6w) | [Nochentera](https://open.spotify.com/album/4uCz8u5i2bIYVUOSRdtr6v) | 3:22 | 2023-02-18 |  |
+| [Nochentera](https://open.spotify.com/track/20CozgjF6bshBw8cLhN23B) | [Vicco](https://open.spotify.com/artist/2z1MpPojFcvxYcEAx0lT6w) | [Nochentera](https://open.spotify.com/album/4uCz8u5i2bIYVUOSRdtr6v) | 3:22 | 2023-02-18 | 2023-12-03 |
 | [Oh My God](https://open.spotify.com/track/3Kkjo3cT83cw09VJyrLNwX) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [30](https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa) | 3:45 | 2022-02-12 | 2022-06-19 |
 | [Ojos Rojos](https://open.spotify.com/track/5hYRabCQuFZN8yVCQsSeyF) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [Ojos Rojos](https://open.spotify.com/album/4Vk8xZfdH45J2gDHs3lSjY) | 2:32 | 2022-02-05 | 2022-06-26 |
 | [Olvidé Olvidarte](https://open.spotify.com/track/6nys7RehgP4R0KzSVGm3CI) | [Marlon](https://open.spotify.com/artist/1RTZXV2Txeij9hW1C88mfs), [Álvaro De Luna](https://open.spotify.com/artist/5N3YDBGT2gUzXgLDTwPRi5) | [Olvidé Olvidarte](https://open.spotify.com/album/3HKHxcUZx0qPs6iLacsp1P) | 3:01 | 2023-08-26 |  |

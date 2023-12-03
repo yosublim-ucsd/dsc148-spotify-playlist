@@ -4,7 +4,7 @@
 
 > Forget it and disappear with deep & melodic <a href="spotify:genre:edm\_dance">house</a>.
 
-452 songs - 1 day 15 hr 9 min
+453 songs - 1 day 15 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -283,6 +283,7 @@
 | [Orchidea](https://open.spotify.com/track/2kR767iKcK2QDDSMUvvhk6) | [M.O.S.](https://open.spotify.com/artist/14S8eJJkmkNw4SaiXI8fwR) | [Orchidea EP](https://open.spotify.com/album/5h0PYJVSCcMs5OhYVxA5xh) | 4:17 | 2021-12-08 | 2023-05-06 |
 | [Ordel](https://open.spotify.com/track/1IApuzXhafsVkrijOUUhVt) | [Parra for Cuva](https://open.spotify.com/artist/238y1dKPtMeFEpX3Y6H1Vr), [Beau Diako](https://open.spotify.com/artist/3W02sTifN8tW1bapAkS1hu), [Kyson](https://open.spotify.com/artist/1ysHnRqLx1sIFxUlahQftx) | [Ordel](https://open.spotify.com/album/2BPC2mYDZSnAJaGdibjlrE) | 4:18 | 2021-12-08 | 2022-07-29 |
 | [Ordel](https://open.spotify.com/track/22UDmbP8eiz97tNyACphRl) | [Parra for Cuva](https://open.spotify.com/artist/238y1dKPtMeFEpX3Y6H1Vr), [Beau Diako](https://open.spotify.com/artist/3W02sTifN8tW1bapAkS1hu), [Kyson](https://open.spotify.com/artist/1ysHnRqLx1sIFxUlahQftx) | [Juno](https://open.spotify.com/album/1eQxkBCBAwikauTxmYDjB9) | 4:18 | 2022-05-03 |  |
+| [Other Side](https://open.spotify.com/track/74qKLdiiTnXNqh2Co21RlJ) | [AVAION](https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys), [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j) | [Other Side](https://open.spotify.com/album/1x58rOMA6gcxJdrgzbGVTo) | 3:26 | 2023-12-01 |  |
 | [Other Side](https://open.spotify.com/track/0VRRRETDAp4aubJJAlhXjH) | [Maya Jane Coles](https://open.spotify.com/artist/6TshTCYwh9ySzOO6Jy4Ux2) | [Waves & Whirlwinds](https://open.spotify.com/album/0InAq8EFs2jvhFfEX0dPih) | 6:09 | 2021-12-08 | 2023-11-05 |
 | [Other Side](https://open.spotify.com/track/1ry89zeBvACJDv7jjMv9lT) | [Maya Jane Coles](https://open.spotify.com/artist/6TshTCYwh9ySzOO6Jy4Ux2) | [Other Side](https://open.spotify.com/album/2TjPI6SuKlhoH93A5x9iqD) | 6:09 | 2023-11-10 |  |
 | [Out Of The Woods](https://open.spotify.com/track/4kXibedUZqFewRsRQGzxjh) | [Lstn](https://open.spotify.com/artist/0OO1zgX3CUfJQwoOEBSKSp), [Saint Rock](https://open.spotify.com/artist/6C6t0KhFTcGHV7nUlPdjrK) | [Out Of The Woods](https://open.spotify.com/album/49WuLA5VuGqvSnat6CGcQ5) | 4:35 | 2023-04-04 |  |
@@ -303,7 +304,7 @@
 | [Please \- Jeff Samuel Remix](https://open.spotify.com/track/5hNNUmZYDpn3ECksD3SxoB) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN), [Jeff Samuel](https://open.spotify.com/artist/2kSdN6nN2KC4Lz0F4soiU2) | [Blood Remixed](https://open.spotify.com/album/1NAMSrLzMJw5BlVeHn8Nqy) | 7:07 | 2021-12-08 | 2022-07-27 |
 | [Protection \- Hold Me Rework](https://open.spotify.com/track/1WZeyPexMk2LSa7ABz9wdZ) | [Col Lawton](https://open.spotify.com/artist/1KoBr4hgTMG3lPR353sNqm) | [Protection](https://open.spotify.com/album/5sGuW9SXq65vmKq2UdFl4z) | 7:05 | 2021-12-08 | 2023-05-06 |
 | [Pulse](https://open.spotify.com/track/6KqC7YNOcqYh5J5cNb1gbw) | [Maya Jane Coles](https://open.spotify.com/artist/6TshTCYwh9ySzOO6Jy4Ux2) | [Take Flight](https://open.spotify.com/album/0d6ky7EGJ0DBxCsSR9R5SR) | 4:43 | 2022-05-03 | 2023-11-04 |
-| [Pura Vida](https://open.spotify.com/track/0Keuz1iGQsOdIxqsdbKanO) | [Yulia Niko](https://open.spotify.com/artist/3RUNl0j2ISAQdC2Fxhj2q3) | [Donde Chile](https://open.spotify.com/album/2jerpv6SvJNbLNflSwg1MW) | 7:14 | 2022-05-03 |  |
+| [Pura Vida](https://open.spotify.com/track/0Keuz1iGQsOdIxqsdbKanO) | [Yulia Niko](https://open.spotify.com/artist/3RUNl0j2ISAQdC2Fxhj2q3) | [Donde Chile](https://open.spotify.com/album/2jerpv6SvJNbLNflSwg1MW) | 7:14 | 2022-05-03 | 2023-12-03 |
 | [Pura Vida](https://open.spotify.com/track/3i1NcXMWTcRiUyDydBhZol) | [Yulia Niko](https://open.spotify.com/artist/3RUNl0j2ISAQdC2Fxhj2q3) | [Donde Chile](https://open.spotify.com/album/0XkAQnJ9rGm1Zzv70yfJVb) | 7:14 | 2021-12-08 | 2022-07-29 |
 | [Rain](https://open.spotify.com/track/46wE8zEGsFkXxWmVoDaCI5) | [Sebjak](https://open.spotify.com/artist/4WaTBVJBxGQ71Ch0swa8DA) | [Rain](https://open.spotify.com/album/5wKND9UJQ5smXGFTij1fhM) | 5:31 | 2021-12-08 | 2023-01-06 |
 | [Ravenergy](https://open.spotify.com/track/1ONkONkuulUSfiUcBdFrlc) | [Jil Tanner](https://open.spotify.com/artist/6S9C7LP9TXbeJhoV18RmEK) | [Ravenergy](https://open.spotify.com/album/69hosqV8zQxrZtFCZDxKpC) | 6:12 | 2021-12-08 | 2022-07-27 |

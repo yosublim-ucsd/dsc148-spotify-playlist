@@ -4,7 +4,7 @@
 
 > Listen to the official playlist for LUPIN, now streaming on Netflix.
 
-62 songs - 3 hr 4 min
+63 songs - 3 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,7 +50,8 @@
 | [Le manoir mystérieux](https://open.spotify.com/track/3XRHCQJFIgV0vmsbsTiVAX) | [Mathieu Lamboley](https://open.spotify.com/artist/04Q5tKdnKLhTFcph6K5d45) | [Lupin \(Music from Pt\. 2 of the Netflix Original Series\)](https://open.spotify.com/album/7DCTZcn2Jr9FnThjRWJMIa) | 3:34 | 2023-10-05 |  |
 | [Le secret](https://open.spotify.com/track/1yEPMwd5y36JpZcETVWVYI) | [Mathieu Lamboley](https://open.spotify.com/artist/04Q5tKdnKLhTFcph6K5d45) | [Lupin \(Music from Pt\. 2 of the Netflix Original Series\)](https://open.spotify.com/album/7DCTZcn2Jr9FnThjRWJMIa) | 3:51 | 2023-10-05 |  |
 | [Le Voyageur](https://open.spotify.com/track/2YUVrasGz1IGIQJ0Gvh1Mn) | [Mathieu Lamboley](https://open.spotify.com/artist/04Q5tKdnKLhTFcph6K5d45) | [Lupin \(Music from Pt\. 1 of the Netflix Original Series\)](https://open.spotify.com/album/6fdZEw92GNHhT0WwyxlGpI) | 1:47 | 2023-10-05 |  |
-| [Legends](https://open.spotify.com/track/0Xno1LwsmRIRIPU09e0Nqt) | [The MIDI Mafia](https://open.spotify.com/artist/24V7vAxwpng8m935rLmGwd), [Chel Strong](https://open.spotify.com/artist/5IQZJajZWvblyYQpdzQjLF), [Maxton Waller](https://open.spotify.com/artist/0MBMglsiNuGZMTGmCXrlb9) | [Harder Than Most](https://open.spotify.com/album/2J3WKXQQ0T8WGryJRJphOc) | 3:18 | 2023-10-05 |  |
+| [Legends](https://open.spotify.com/track/0Xno1LwsmRIRIPU09e0Nqt) | [The MIDI Mafia](https://open.spotify.com/artist/24V7vAxwpng8m935rLmGwd), [Chel Strong](https://open.spotify.com/artist/5IQZJajZWvblyYQpdzQjLF), [Maxton Waller](https://open.spotify.com/artist/0MBMglsiNuGZMTGmCXrlb9) | [Harder Than Most](https://open.spotify.com/album/2J3WKXQQ0T8WGryJRJphOc) | 3:18 | 2023-10-05 | 2023-12-03 |
+| [Legends](https://open.spotify.com/track/565FPWYEoRvyWOWoFu3H5k) | [The Midi Mafia](https://open.spotify.com/artist/3j8KMnhscmfQJnJU02GiUP), [Chel Strong](https://open.spotify.com/artist/5IQZJajZWvblyYQpdzQjLF), [Maxton Waller](https://open.spotify.com/artist/0MBMglsiNuGZMTGmCXrlb9) | [Harder Than Most](https://open.spotify.com/album/6nnSoXCXZdohWiwjNpxcKg) | 3:18 | 2023-10-05 |  |
 | [Les Confidences d'Assane](https://open.spotify.com/track/218GOxETKfxXBYcOp9u6QC) | [Mathieu Lamboley](https://open.spotify.com/artist/04Q5tKdnKLhTFcph6K5d45) | [Lupin \(Music from Pt\. 1 of the Netflix Original Series\)](https://open.spotify.com/album/6fdZEw92GNHhT0WwyxlGpI) | 3:02 | 2023-10-05 |  |
 | [Les huit coups](https://open.spotify.com/track/62OAOVVnY09o27Zz4UMDU9) | [Mathieu Lamboley](https://open.spotify.com/artist/04Q5tKdnKLhTFcph6K5d45) | [Lupin \(Music from Pt\. 2 of the Netflix Original Series\)](https://open.spotify.com/album/7DCTZcn2Jr9FnThjRWJMIa) | 2:41 | 2023-10-05 |  |
 | [Les Huits Coups Variation & Remix](https://open.spotify.com/track/4Uo9ALbPCxENKfryv2tfCO) | [Mathieu Lamboley](https://open.spotify.com/artist/04Q5tKdnKLhTFcph6K5d45) | [Lupin, Pt\. 3 \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/0do3a69YUs8eMhGE9p5yjK) | 2:00 | 2023-10-05 |  |

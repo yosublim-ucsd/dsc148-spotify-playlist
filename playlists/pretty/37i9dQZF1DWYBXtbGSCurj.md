@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 
 > O Trap brasileiro puro ouro, entre lançamentos e hits\. Foto: Ebony
 
-[Spotify](https://open.spotify.com/user/spotify) - 382,442 likes - 81 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 382,464 likes - 81 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Espero Que Entendam \- Freestyle](https://open.spotify.com/track/3MEMW13ORJh94KnERm44JM) | [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb), [LARINHX](https://open.spotify.com/artist/00kQ5yo7yxd5KC1ihuH77i) | [Espero Que Entendam \(Freestyle\)](https://open.spotify.com/album/2omPP6U3sAgy10Q4wZtswu) | 3:31 |
-| 2 | [10 Carros](https://open.spotify.com/track/2twZl1jsRbJRTNCE6VB6eW) | [Chefin](https://open.spotify.com/artist/68PYmgkbRP1qZnEWOry7sB), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd) | [10 Carros](https://open.spotify.com/album/1ZakiImfctMIFKkLNIDlcI) | 2:21 |
+| 2 | [10 Carros](https://open.spotify.com/track/2twZl1jsRbJRTNCE6VB6eW) | [Chefin](https://open.spotify.com/artist/68PYmgkbRP1qZnEWOry7sB), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd), [LB Único](https://open.spotify.com/artist/7w1eimo0NMZhuwNZTf4MHY) | [10 Carros](https://open.spotify.com/album/1ZakiImfctMIFKkLNIDlcI) | 2:21 |
 | 3 | [Não Tenho Tempo](https://open.spotify.com/track/42Lqgo4o80uHEKKtaGOkj1) | [Vulgo FK](https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0), [Marquinho no Beat](https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe), [Pedro Lotto](https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm), [WEY](https://open.spotify.com/artist/6nZ39vMOOOgXQ471Jy5jhR) | [Não Tenho Tempo](https://open.spotify.com/album/0DU5qPWKr1bR86WsRjiiPP) | 2:05 |
 | 4 | [Cheiro de Riqueza](https://open.spotify.com/track/2uUIYTeyhSDfjgWN4HCCOA) | [MC Marks](https://open.spotify.com/artist/04QHNiih9ZesPvals6II1h), [KANASHIRO](https://open.spotify.com/artist/3mmlFKPzrG0ZGYneLDt1Y8), [Brenninho VJ](https://open.spotify.com/artist/2XKAwrTieZHEnU6mgALhgN), [Fxbin](https://open.spotify.com/artist/1joea7bjTfUwH9ywyXGjgR) | [Cheiro de Riqueza](https://open.spotify.com/album/3GaKuJKg8XYiiKiEYXy90l) | 2:33 |
 | 5 | [Ela joga no 7](https://open.spotify.com/track/5vyu6cCIflFAmGZwnjyrq7) | [Tz da Coronel](https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e), [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY), [KayBlack](https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy), [Dj Murillo e LT no Beat](https://open.spotify.com/artist/1Zl5Ac1YyOHBkJKInGxbaS), [Cúpula](https://open.spotify.com/artist/6IlN4Mij49rPYznzeOMD1F) | [Dacoromode](https://open.spotify.com/album/4wsh2d30QdwnFQLEpSkXKz) | 3:20 |
@@ -90,4 +90,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 | 80 | [Raúl](https://open.spotify.com/track/51o1CX6amjuojNn37xdjSp) | [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [TOKIODK](https://open.spotify.com/artist/3l3kTDXnvYNA4u1kLLvLn2), [HHR](https://open.spotify.com/artist/6KHnECmT9Nn73k1tKs62Wu) | [Raúl](https://open.spotify.com/album/29zzU4Pe3SPIM2LESyaxDK) | 2:40 |
 | 81 | [Conexões de Máfia \(feat\. Rich The Kid\)](https://open.spotify.com/track/3ktTWpYdXrYApH54cBo4Ap) | [Matuê](https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8), [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI) | [Conexões de Máfia \(feat\. Rich The Kid\)](https://open.spotify.com/album/54nMZ1uU3fJFROh7jEymzB) | 3:41 |
 
-Snapshot ID: `MCxiZWYyYmRkMmJhNWY1NTVlZWI0MDgxNmEzNzQxM2MxNTQ4ODY5NmVi`
+Snapshot ID: `MCwxNWYwYzczMmY5ZWM0MzBlOGVjYzYyNTY4OWQ1NTZlOWJiMjk2YTA3`

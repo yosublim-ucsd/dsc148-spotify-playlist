@@ -1,12 +1,12 @@
 {
   "description": "The very best of the alternative rock scene. Cover: Teenage Wrist",
-  "num_followers": 474812,
+  "num_followers": 474807,
   "original_name": "New  Alt-Rock Mixtape",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNGU5MDVkMDg3ODliNmE1NTE0MTEyNTZhNDZiZjNhNGYyZTA2Yzlh",
+  "snapshot_id": "MCxhY2ViY2FiNWNiNjFiYzkyZDYyZDE1YzI2MGVmMzFhYjc3ZmU0YjFh",
   "tracks": [
     {
       "added_at": "2023-09-08 20:23:35",
@@ -595,22 +595,6 @@
     {
       "added_at": "2023-09-08 20:23:35",
       "album": {
-        "name": "Preacher",
-        "url": "https://open.spotify.com/album/2meQ9Z51tvss87oWAbj5h3"
-      },
-      "artists": [
-        {
-          "name": "Roe Kapara",
-          "url": "https://open.spotify.com/artist/2he5ORo9A5pwwRKEa1u0jw"
-        }
-      ],
-      "duration_ms": 105000,
-      "name": "Preacher",
-      "url": "https://open.spotify.com/track/7E4WyTUxVkEnaBwtD3CSK4"
-    },
-    {
-      "added_at": "2023-09-08 20:23:35",
-      "album": {
         "name": "Centipede",
         "url": "https://open.spotify.com/album/5JeWduRYfv1Sj4Y2Vf9hQj"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 157704,
       "name": "Centipede",
       "url": "https://open.spotify.com/track/49xISBZpODXRwd7vVxGL93"
+    },
+    {
+      "added_at": "2023-09-08 20:23:35",
+      "album": {
+        "name": "Preacher",
+        "url": "https://open.spotify.com/album/2meQ9Z51tvss87oWAbj5h3"
+      },
+      "artists": [
+        {
+          "name": "Roe Kapara",
+          "url": "https://open.spotify.com/artist/2he5ORo9A5pwwRKEa1u0jw"
+        }
+      ],
+      "duration_ms": 105000,
+      "name": "Preacher",
+      "url": "https://open.spotify.com/track/7E4WyTUxVkEnaBwtD3CSK4"
     },
     {
       "added_at": "2023-11-21 18:08:14",
@@ -695,22 +695,6 @@
     {
       "added_at": "2023-09-08 20:23:35",
       "album": {
-        "name": "Daydreaming",
-        "url": "https://open.spotify.com/album/1Q8BDjqStLsJa9fhlp5yjv"
-      },
-      "artists": [
-        {
-          "name": "P\u00c6RISH",
-          "url": "https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL"
-        }
-      ],
-      "duration_ms": 215986,
-      "name": "Daydreaming",
-      "url": "https://open.spotify.com/track/1m4ZGzVWW9Z6J96THHBJMj"
-    },
-    {
-      "added_at": "2023-09-08 20:23:35",
-      "album": {
         "name": "delirious",
         "url": "https://open.spotify.com/album/4L9LiVVUoPfPnrkve1SR3C"
       },
@@ -727,18 +711,18 @@
     {
       "added_at": "2023-09-08 20:23:35",
       "album": {
-        "name": "Too Many Things",
-        "url": "https://open.spotify.com/album/1WJrfUrpJYdN009MkXgTWx"
+        "name": "Daydreaming",
+        "url": "https://open.spotify.com/album/1Q8BDjqStLsJa9fhlp5yjv"
       },
       "artists": [
         {
-          "name": "The Linda Lindas",
-          "url": "https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5"
+          "name": "P\u00c6RISH",
+          "url": "https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL"
         }
       ],
-      "duration_ms": 155893,
-      "name": "Too Many Things",
-      "url": "https://open.spotify.com/track/2SU3rA2M4wgHMzHSHNiXkx"
+      "duration_ms": 215986,
+      "name": "Daydreaming",
+      "url": "https://open.spotify.com/track/1m4ZGzVWW9Z6J96THHBJMj"
     },
     {
       "added_at": "2023-09-08 20:23:35",
@@ -771,6 +755,22 @@
       "duration_ms": 251010,
       "name": "Don't Hate Me",
       "url": "https://open.spotify.com/track/4ysafP9rgpNQXYddVsepKW"
+    },
+    {
+      "added_at": "2023-09-08 20:23:35",
+      "album": {
+        "name": "Too Many Things",
+        "url": "https://open.spotify.com/album/1WJrfUrpJYdN009MkXgTWx"
+      },
+      "artists": [
+        {
+          "name": "The Linda Lindas",
+          "url": "https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5"
+        }
+      ],
+      "duration_ms": 155893,
+      "name": "Too Many Things",
+      "url": "https://open.spotify.com/track/2SU3rA2M4wgHMzHSHNiXkx"
     },
     {
       "added_at": "2023-09-08 20:23:35",
@@ -871,22 +871,6 @@
     {
       "added_at": "2023-09-08 20:23:35",
       "album": {
-        "name": "Common Chaos",
-        "url": "https://open.spotify.com/album/7pzoanQ2Iwvk9FbJcqtKwo"
-      },
-      "artists": [
-        {
-          "name": "IRONTOM",
-          "url": "https://open.spotify.com/artist/4KY9rCrokaoFzvMfX98u1q"
-        }
-      ],
-      "duration_ms": 171426,
-      "name": "Common Chaos",
-      "url": "https://open.spotify.com/track/231wGywsY9is10w83qwrwC"
-    },
-    {
-      "added_at": "2023-09-08 20:23:35",
-      "album": {
         "name": "Moments of Clarity",
         "url": "https://open.spotify.com/album/2tT3FSTvD9zx1c6QyZcYis"
       },
@@ -903,18 +887,18 @@
     {
       "added_at": "2023-09-08 20:23:35",
       "album": {
-        "name": "More Than This",
-        "url": "https://open.spotify.com/album/0FbO9feyM3p7fIj0sBfZxm"
+        "name": "Common Chaos",
+        "url": "https://open.spotify.com/album/7pzoanQ2Iwvk9FbJcqtKwo"
       },
       "artists": [
         {
-          "name": "The Luka State",
-          "url": "https://open.spotify.com/artist/6DaXEbr3LdLNcui8pZf6AF"
+          "name": "IRONTOM",
+          "url": "https://open.spotify.com/artist/4KY9rCrokaoFzvMfX98u1q"
         }
       ],
-      "duration_ms": 182100,
-      "name": "More Than This",
-      "url": "https://open.spotify.com/track/5IvLbjMiltRtWsjgteVyRW"
+      "duration_ms": 171426,
+      "name": "Common Chaos",
+      "url": "https://open.spotify.com/track/231wGywsY9is10w83qwrwC"
     },
     {
       "added_at": "2023-09-08 20:23:35",
@@ -933,6 +917,22 @@
       "url": "https://open.spotify.com/track/27q2n59NonHyzNMKXzmaFX"
     },
     {
+      "added_at": "2023-09-08 20:23:35",
+      "album": {
+        "name": "More Than This",
+        "url": "https://open.spotify.com/album/0FbO9feyM3p7fIj0sBfZxm"
+      },
+      "artists": [
+        {
+          "name": "The Luka State",
+          "url": "https://open.spotify.com/artist/6DaXEbr3LdLNcui8pZf6AF"
+        }
+      ],
+      "duration_ms": 182100,
+      "name": "More Than This",
+      "url": "https://open.spotify.com/track/5IvLbjMiltRtWsjgteVyRW"
+    },
+    {
       "added_at": "2023-10-05 15:20:21",
       "album": {
         "name": "Old Wounds",
@@ -947,6 +947,22 @@
       "duration_ms": 335733,
       "name": "Old Wounds",
       "url": "https://open.spotify.com/track/75RGCZ1i8sxXMeBetvp84e"
+    },
+    {
+      "added_at": "2023-09-08 20:23:35",
+      "album": {
+        "name": "Right After I Smoke This...",
+        "url": "https://open.spotify.com/album/2pvRSA7JQIgKa1lAvruUlB"
+      },
+      "artists": [
+        {
+          "name": "Webbed Wing",
+          "url": "https://open.spotify.com/artist/5WtT8OzAjn0fJ6tondvHrI"
+        }
+      ],
+      "duration_ms": 142760,
+      "name": "Medication",
+      "url": "https://open.spotify.com/track/4WFjp4EEmScRkNSiAsrEj1"
     },
     {
       "added_at": "2023-09-08 20:23:35",
@@ -979,22 +995,6 @@
       "duration_ms": 191548,
       "name": "i heard they found you face down inside your living room",
       "url": "https://open.spotify.com/track/0GBmIoWGlCsBghx7mOE0Ll"
-    },
-    {
-      "added_at": "2023-09-08 20:23:35",
-      "album": {
-        "name": "Right After I Smoke This...",
-        "url": "https://open.spotify.com/album/2pvRSA7JQIgKa1lAvruUlB"
-      },
-      "artists": [
-        {
-          "name": "Webbed Wing",
-          "url": "https://open.spotify.com/artist/5WtT8OzAjn0fJ6tondvHrI"
-        }
-      ],
-      "duration_ms": 142760,
-      "name": "Medication",
-      "url": "https://open.spotify.com/track/4WFjp4EEmScRkNSiAsrEj1"
     },
     {
       "added_at": "2023-09-08 20:23:35",
@@ -1195,6 +1195,22 @@
     {
       "added_at": "2023-09-08 20:23:35",
       "album": {
+        "name": "OK",
+        "url": "https://open.spotify.com/album/6xF3774il7mBjTAqfgIpeg"
+      },
+      "artists": [
+        {
+          "name": "Black Honey",
+          "url": "https://open.spotify.com/artist/2oVmQT6s29pVIKpqJkyxBS"
+        }
+      ],
+      "duration_ms": 224580,
+      "name": "OK",
+      "url": "https://open.spotify.com/track/6qNMS8hywSVyaFcH3LqwEn"
+    },
+    {
+      "added_at": "2023-09-08 20:23:35",
+      "album": {
         "name": "SAY IT",
         "url": "https://open.spotify.com/album/7xfievnMGV3hqp1lW7I4wH"
       },
@@ -1227,18 +1243,18 @@
     {
       "added_at": "2023-09-08 20:23:35",
       "album": {
-        "name": "OK",
-        "url": "https://open.spotify.com/album/6xF3774il7mBjTAqfgIpeg"
+        "name": "GOOD LUCK",
+        "url": "https://open.spotify.com/album/7eC9s1oyo60kJhNNeTCsQM"
       },
       "artists": [
         {
-          "name": "Black Honey",
-          "url": "https://open.spotify.com/artist/2oVmQT6s29pVIKpqJkyxBS"
+          "name": "DEBBY FRIDAY",
+          "url": "https://open.spotify.com/artist/5lofelrRCFBwzTF616hSx4"
         }
       ],
-      "duration_ms": 224580,
-      "name": "OK",
-      "url": "https://open.spotify.com/track/6qNMS8hywSVyaFcH3LqwEn"
+      "duration_ms": 202986,
+      "name": "WHAT A MAN",
+      "url": "https://open.spotify.com/track/77MoMOxdBmjtIeC0oIbLoO"
     },
     {
       "added_at": "2023-09-08 20:23:35",
@@ -1259,18 +1275,18 @@
     {
       "added_at": "2023-09-08 20:23:35",
       "album": {
-        "name": "GOOD LUCK",
-        "url": "https://open.spotify.com/album/7eC9s1oyo60kJhNNeTCsQM"
+        "name": "Bye Bye Big Bear",
+        "url": "https://open.spotify.com/album/79PfNXhYhRSo8mLST2gSti"
       },
       "artists": [
         {
-          "name": "DEBBY FRIDAY",
-          "url": "https://open.spotify.com/artist/5lofelrRCFBwzTF616hSx4"
+          "name": "The Dirty Nil",
+          "url": "https://open.spotify.com/artist/2mGENPk4M4jtaf5D7fDi98"
         }
       ],
-      "duration_ms": 202986,
-      "name": "WHAT A MAN",
-      "url": "https://open.spotify.com/track/77MoMOxdBmjtIeC0oIbLoO"
+      "duration_ms": 176902,
+      "name": "Bye Bye Big Bear",
+      "url": "https://open.spotify.com/track/6nSd7gG3KWFqG7Za17Jna2"
     },
     {
       "added_at": "2023-09-08 20:23:35",
@@ -1287,22 +1303,6 @@
       "duration_ms": 204453,
       "name": "Missile Command",
       "url": "https://open.spotify.com/track/2krrGxaYhLQwRu3QPkPnmB"
-    },
-    {
-      "added_at": "2023-09-08 20:23:35",
-      "album": {
-        "name": "Bye Bye Big Bear",
-        "url": "https://open.spotify.com/album/79PfNXhYhRSo8mLST2gSti"
-      },
-      "artists": [
-        {
-          "name": "The Dirty Nil",
-          "url": "https://open.spotify.com/artist/2mGENPk4M4jtaf5D7fDi98"
-        }
-      ],
-      "duration_ms": 176902,
-      "name": "Bye Bye Big Bear",
-      "url": "https://open.spotify.com/track/6nSd7gG3KWFqG7Za17Jna2"
     },
     {
       "added_at": "2023-09-08 20:23:35",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2023-09-08 20:23:35",
       "album": {
-        "name": "Nightmare Daydream",
-        "url": "https://open.spotify.com/album/3QJ2obeLQY61RE4vVLLilH"
-      },
-      "artists": [
-        {
-          "name": "The Velveteers",
-          "url": "https://open.spotify.com/artist/79wCmFlJs2qglR5n4UHMoq"
-        }
-      ],
-      "duration_ms": 127093,
-      "name": "Choking",
-      "url": "https://open.spotify.com/track/7pFibnxpBbPhCtA3VthLAS"
-    },
-    {
-      "added_at": "2023-09-08 20:23:35",
-      "album": {
         "name": "Taste The Sun",
         "url": "https://open.spotify.com/album/4GWmCsQY6CQnw5Xf3sbxl7"
       },
@@ -1367,6 +1351,38 @@
       "duration_ms": 243947,
       "name": "How Far Can You Push A Man?",
       "url": "https://open.spotify.com/track/16tDz8bSV96yJ5CQlhuVlG"
+    },
+    {
+      "added_at": "2023-09-08 20:23:35",
+      "album": {
+        "name": "She Said",
+        "url": "https://open.spotify.com/album/6CCzu7oKzxpJ9pH3aKdAhk"
+      },
+      "artists": [
+        {
+          "name": "Starcrawler",
+          "url": "https://open.spotify.com/artist/0ZhtrY2Lt1s9klwm03lu8i"
+        }
+      ],
+      "duration_ms": 241334,
+      "name": "Stranded",
+      "url": "https://open.spotify.com/track/02VlDdPkrqytJL6s130GSu"
+    },
+    {
+      "added_at": "2023-09-08 20:23:35",
+      "album": {
+        "name": "Nightmare Daydream",
+        "url": "https://open.spotify.com/album/3QJ2obeLQY61RE4vVLLilH"
+      },
+      "artists": [
+        {
+          "name": "The Velveteers",
+          "url": "https://open.spotify.com/artist/79wCmFlJs2qglR5n4UHMoq"
+        }
+      ],
+      "duration_ms": 127093,
+      "name": "Choking",
+      "url": "https://open.spotify.com/track/7pFibnxpBbPhCtA3VthLAS"
     },
     {
       "added_at": "2023-09-08 20:23:35",
@@ -1387,22 +1403,6 @@
       "duration_ms": 241638,
       "name": "The Next Curse",
       "url": "https://open.spotify.com/track/2aksJcRQTO5VKqQh1tr3fO"
-    },
-    {
-      "added_at": "2023-09-08 20:23:35",
-      "album": {
-        "name": "She Said",
-        "url": "https://open.spotify.com/album/6CCzu7oKzxpJ9pH3aKdAhk"
-      },
-      "artists": [
-        {
-          "name": "Starcrawler",
-          "url": "https://open.spotify.com/artist/0ZhtrY2Lt1s9klwm03lu8i"
-        }
-      ],
-      "duration_ms": 241334,
-      "name": "Stranded",
-      "url": "https://open.spotify.com/track/02VlDdPkrqytJL6s130GSu"
     },
     {
       "added_at": "2023-09-08 20:23:35",
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2023-09-08 20:23:35",
       "album": {
-        "name": "Never Enough",
-        "url": "https://open.spotify.com/album/3R3ALCiU33uYjXqandhEtV"
-      },
-      "artists": [
-        {
-          "name": "The Pale White",
-          "url": "https://open.spotify.com/artist/3uhfMjcE5HJqMIWh3Iolw0"
-        }
-      ],
-      "duration_ms": 172495,
-      "name": "Never Enough",
-      "url": "https://open.spotify.com/track/06fffo52aqA0mtecLvyE3I"
-    },
-    {
-      "added_at": "2023-09-08 20:23:35",
-      "album": {
         "name": "Pay the Price",
         "url": "https://open.spotify.com/album/3Fm8Xv3BLPJ9OgCTwX3kT4"
       },
@@ -1515,6 +1499,22 @@
       "duration_ms": 216108,
       "name": "Pay the Price",
       "url": "https://open.spotify.com/track/2nHMLYKRSpRlVPR75PNZUc"
+    },
+    {
+      "added_at": "2023-09-08 20:23:35",
+      "album": {
+        "name": "Never Enough",
+        "url": "https://open.spotify.com/album/3R3ALCiU33uYjXqandhEtV"
+      },
+      "artists": [
+        {
+          "name": "The Pale White",
+          "url": "https://open.spotify.com/artist/3uhfMjcE5HJqMIWh3Iolw0"
+        }
+      ],
+      "duration_ms": 172495,
+      "name": "Never Enough",
+      "url": "https://open.spotify.com/track/06fffo52aqA0mtecLvyE3I"
     },
     {
       "added_at": "2023-09-08 20:23:35",

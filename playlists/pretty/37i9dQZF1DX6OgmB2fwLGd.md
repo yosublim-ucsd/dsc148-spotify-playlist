@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6OgmB2fwLGd.md) - [plain]
 
 > The soundtrack to the internet\. Cover: Lil Mabu
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,393,158 likes - 100 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,393,003 likes - 100 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6OgmB2fwLGd.md) - [plain]
 | 5 | [IT GIRL](https://open.spotify.com/track/4wQmwPWCUn6gi11Gep2qsP) | [Aliyah's Interlude](https://open.spotify.com/artist/7maQENQfaF8xDdEJp4i545) | [IT GIRL](https://open.spotify.com/album/6Dbkq4a0KggLhGxxt8p1lH) | 2:41 |
 | 6 | [Ick](https://open.spotify.com/track/7nn4MXs89QymmNzRreTywe) | [Lay Bankz](https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F) | [Now You See Me](https://open.spotify.com/album/6WFa2y2gaNb7561mFsYG7T) | 1:55 |
 | 7 | [Nice to meet you \(feat\. Central Cee\)](https://open.spotify.com/track/4Ovbv1o91fNP8tYLJmboX1) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Nice to meet you \(feat\. Central Cee\)](https://open.spotify.com/album/5pPgFyTsjZDYo6WCxpQ7Tu) | 2:42 |
-| 8 | [What Yo Name Is](https://open.spotify.com/track/4vuPGGHHQrKqKSjgVFJcBc) | [FamousSally & YB](https://open.spotify.com/artist/58r9bevVFGCcTpNRT5Ha85) | [What Yo Name Is](https://open.spotify.com/album/5bUJGroFbX8DAWrBtrsWi9) | 2:22 |
+| 8 | [What Yo Name Is](https://open.spotify.com/track/4vuPGGHHQrKqKSjgVFJcBc) | [Famous Sally & YB](https://open.spotify.com/artist/58r9bevVFGCcTpNRT5Ha85) | [What Yo Name Is](https://open.spotify.com/album/5bUJGroFbX8DAWrBtrsWi9) | 2:22 |
 | 9 | [sins \(let me in\) \- Remix](https://open.spotify.com/track/7d4NMY87lt1tQZeM8ljq8o) | [Kanii](https://open.spotify.com/artist/1S82w4yw9TYIHZ889mPPaW), [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [sins \(let me in\) \[Remix\]](https://open.spotify.com/album/1aspg7ShxaIqxWWxiPHcyA) | 2:44 |
 | 10 | [WHAT YOU WANT](https://open.spotify.com/track/6FyTGkolQEgIHp3isy1ZSJ) | [SoFaygo](https://open.spotify.com/artist/2SJhf6rTOU53g8yBdAjPby) | [WHAT YOU WANT](https://open.spotify.com/album/5ZZpCvbAPixOpDD6JMPulF) | 2:16 |
 | 11 | [ONE CALL](https://open.spotify.com/track/6et5HwX6nTYddg7hDGAxug) | [Rich Amiri](https://open.spotify.com/artist/2sF5nNXnrrsCPZlt8ZpyGd) | [ONE CALL](https://open.spotify.com/album/32Gv2KwfKu35P5r77bmxzi) | 2:01 |
@@ -94,7 +94,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6OgmB2fwLGd.md) - [plain]
 | 84 | [NEED IT](https://open.spotify.com/track/6T1dDWfxHxjHkIIhKANk49) | [Joony](https://open.spotify.com/artist/0gY0jm6QAzJCAslmZC3T35) | [NEED IT](https://open.spotify.com/album/3awkjfYN3DbBh1F2LXUVCs) | 2:19 |
 | 85 | [2017](https://open.spotify.com/track/3yl7WqiswUejJddFqErYPV) | [Jace!](https://open.spotify.com/artist/2SPxiIMMkdVY00DphiIjxR) | [2017](https://open.spotify.com/album/6E8WPJP4zLzLWxBnOU7qoM) | 2:20 |
 | 86 | [melanin](https://open.spotify.com/track/00GgVbUzNfwknUJN0XSuh1) | [wolfacejoeyy](https://open.spotify.com/artist/7LjXznzJeKuvjRbNcBWd6Z) | [22Joeyy](https://open.spotify.com/album/3rDrOvwAlhgk3xxvsJz0Ja) | 2:20 |
-| 87 | [PAMPER PAMPER](https://open.spotify.com/track/10Ov8KUvheyNHKlCBK5VLd) | [Dro Kenji](https://open.spotify.com/artist/46fHMu9KxdQwcGV9xI1L9R), [Mike Dimes](https://open.spotify.com/artist/6rIaHuCIUu32uj2CjlEBN3) | [WISH YOU WERE HERE](https://open.spotify.com/album/0PxvbdJQowxgtKBhNJAMep) | 1:52 |
+| 87 | [PAMPER PAMPER](https://open.spotify.com/track/10Ov8KUvheyNHKlCBK5VLd) | [Dro Kenji](https://open.spotify.com/artist/46fHMu9KxdQwcGV9xI1L9R), [Mike Dimes](https://open.spotify.com/artist/6rIaHuCIUu32uj2CjlEBN3), [Powers Pleasant](https://open.spotify.com/artist/0fYw4bch7qTxBZLS3rSVMj) | [WISH YOU WERE HERE](https://open.spotify.com/album/0PxvbdJQowxgtKBhNJAMep) | 1:52 |
 | 88 | [CRAZY GIRL P2 \(feat\. YoungBoy Never Broke Again\)](https://open.spotify.com/track/1MoxBQxwPAiQKlRQ4BV9MB) | [Bktherula](https://open.spotify.com/artist/6OjtkJDlAZzlzAydEn78cK), [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [CRAZY GIRL P2 \(feat\. YoungBoy Never Broke Again\)](https://open.spotify.com/album/0i6aioaKcPI1Nw9Jm3p8Yz) | 3:02 |
 | 89 | [X & Sex](https://open.spotify.com/track/6qyAMxx8th14kYK4LlxpTc) | [OsamaSon](https://open.spotify.com/artist/0uj6QiPsPfK8ywLC7uwBE1) | [Osama Season](https://open.spotify.com/album/6rwxZslqJuyF0DivxOB0w9) | 0:57 |
 | 90 | [waiting alonE](https://open.spotify.com/track/4kZgxSySjVSLRpegVw8SsX) | [Riovaz](https://open.spotify.com/artist/1bhZt10yZVCJfp3HaNxJv8), [Kanii](https://open.spotify.com/artist/1S82w4yw9TYIHZ889mPPaW) | [waiting alonE](https://open.spotify.com/album/342UvGijO1QgI9wQFXDq9m) | 2:53 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6OgmB2fwLGd.md) - [plain]
 | 99 | [Genesis](https://open.spotify.com/track/05QTU0jumc79qqlpAzMEbw) | [Bravo 1\-2](https://open.spotify.com/artist/7m1XrFL6HVKlTlJ4R6kUcX) | [Genesis](https://open.spotify.com/album/1LTl3mxJfm7flXx9wecciK) | 1:30 |
 | 100 | [I LOVE YOU HOE \(w/ 9lives\)](https://open.spotify.com/track/0NaUT74rJ0NHS62fewzatU) | [Odetari](https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc), [9lives](https://open.spotify.com/artist/2MQN1o9W3ULxdT38vj8g4Q) | [3x3](https://open.spotify.com/album/32BvlHf3nCW7cOTH970V7t) | 2:06 |
 
-Snapshot ID: `MCxhY2MyMmZmYmJjNWI0OTRkMWFkMmFmODk2ZmU2NWYxZjQyM2FmYTIw`
+Snapshot ID: `MCwyMWI0MDY5NWMzMGExYzAxM2U2MzRkYTg4YjQ4ZjM2YmE0OWJmY2Y0`

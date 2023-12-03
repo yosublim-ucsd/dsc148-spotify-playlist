@@ -4,7 +4,7 @@
 
 > pov: your Spotify Wrapped says you’re from berkeley, burlington, or cambridge
 
-365 songs - 21 hr 54 min
+366 songs - 21 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -173,7 +173,7 @@
 | [If You Met Her](https://open.spotify.com/track/5azYPsLCPQXetrJJVIp544) | [Palehound](https://open.spotify.com/artist/4AgusFXPk24LCGMMplX34M) | [A Place I'll Always Go](https://open.spotify.com/album/2bhZ63lO9MbdvDfI9S5pRm) | 3:49 | 2022-02-11 | 2022-04-20 |
 | [In the Aeroplane Over the Sea](https://open.spotify.com/track/5rfT032kGmLvbxZzfHlu5D) | [Neutral Milk Hotel](https://open.spotify.com/artist/2ooIqOf4X2uz4mMptXCtie) | [In the Aeroplane Over the Sea](https://open.spotify.com/album/0vVekV45lOaVKs6RZQQNob) | 3:22 | 2022-08-26 | 2022-12-02 |
 | [Insert Generic Name](https://open.spotify.com/track/7g0cWpdPHr0TdmnjHIlVZC) | [Okay Kaya](https://open.spotify.com/artist/7d64ZVOXg02y73HB5UMqkb) | [Watch This Liquid Pour Itself](https://open.spotify.com/album/4XKkD3p3SXmeJRcvioWaQQ) | 2:25 | 2022-07-14 | 2022-09-24 |
-| [Is It Too Much To Ask](https://open.spotify.com/track/2UkoyDNn9bJbGl6sH87xXc) | [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j) | [Faye Webster](https://open.spotify.com/album/0pEHMpnX1jA44pzhW3n0JB) | 3:10 | 2023-06-23 |  |
+| [Is It Too Much To Ask](https://open.spotify.com/track/2UkoyDNn9bJbGl6sH87xXc) | [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j) | [Faye Webster](https://open.spotify.com/album/0pEHMpnX1jA44pzhW3n0JB) | 3:10 | 2023-06-23 | 2023-12-03 |
 | [It Hurts Until It Doesn't](https://open.spotify.com/track/6h3FOkiOixsUUEgIHS0qR5) | [Mothers](https://open.spotify.com/artist/0aeq6izGKdpdcBUkXGCHXv) | [When You Walk A Long Distance You Are Tired](https://open.spotify.com/album/6T0QEKUvqfDxyVJIUZTkYe) | 5:33 | 2022-04-14 | 2022-04-21 |
 | [It's Called: Freefall](https://open.spotify.com/track/474uVhyGgK5MtY9gMcDgGl) | [Rainbow Kitten Surprise](https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2) | [How to: Friend, Love, Freefall](https://open.spotify.com/album/7vXiklrUeffx5o2F8VYwm3) | 2:32 | 2021-12-15 |  |
 | [It's Not Just Me, It's Everybody](https://open.spotify.com/track/2OcLJRW0pTyYAxT43N5ccm) | [Weyes Blood](https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9) | [It's Not Just Me, It's Everybody](https://open.spotify.com/album/0OFDZTYgwiuv7a4CZEVAsR) | 6:16 | 2022-09-15 | 2022-10-19 |
@@ -242,6 +242,7 @@
 | [Notion](https://open.spotify.com/track/1HTqgP13dorct3BltLaB0l) | [Tash Sultana](https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf) | [Notion \- EP](https://open.spotify.com/album/42KDvyFS8ZBOxan2uKZuW5) | 5:41 | 2022-01-08 | 2022-04-19 |
 | [Numb](https://open.spotify.com/track/6Ijmj8Z0L31hCp5pLZnT5U) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Numb](https://open.spotify.com/album/1HMR6PG5Su7p0JjRws7NBb) | 3:39 | 2021-12-15 | 2023-06-24 |
 | [October Passed Me By](https://open.spotify.com/track/0AjcdGri5vhJsmZnduCEqd) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [October Passed Me By](https://open.spotify.com/album/6XtlrNlPUFHcpLS7ImjG3E) | 2:45 | 2022-10-27 |  |
+| [Olympus](https://open.spotify.com/track/2pqi703QQcp2zsuS3NgCii) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [Blondshell](https://open.spotify.com/album/7rG4h8pLLcr6kW30cbSWD8) | 3:36 | 2023-11-29 |  |
 | [Olympus](https://open.spotify.com/track/4yTFuPeN2UHzboAyUhgqIk) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [Olympus](https://open.spotify.com/album/7pTDGUWMPGL6Z62Prx4jZ4) | 3:44 | 2022-06-10 | 2022-07-21 |
 | [Ordinary](https://open.spotify.com/track/09oN29QLxsnpcR7NynThZD) | [Miya Folick](https://open.spotify.com/artist/1jFVu6Z7wmwywivOeBTSIV) | [Ordinary](https://open.spotify.com/album/7woZghnU0pwffWLVWcghwr) | 2:52 | 2022-07-29 | 2022-08-27 |
 | [Outside with the Cuties](https://open.spotify.com/track/56J5dZ21WjuGKO3Z6LDIoc) | [Frankie Cosmos](https://open.spotify.com/artist/0x4xCoWaOFd3WsKarzaxnW) | [Next Thing](https://open.spotify.com/album/0vhRTvVCv9O5orRMgFjxT1) | 2:34 | 2021-12-15 | 2022-07-29 |

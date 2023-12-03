@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU6iy0O1kuqg.md) - [plain]
 
 > ¡Lo mejor de dos mundos! Qué retumbe la tuba y arremangue el acordeón\. Calibre 50 en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 151,372 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 151,500 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU6iy0O1kuqg.md) - [plain]
 | 3 | [Sueño Güajiro](https://open.spotify.com/track/7uJU4AyXDqUEG4d1eHI92G) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Como en los Viejos Tiempos](https://open.spotify.com/album/7kfuZtaN9zvpFhIIMZLvgI) | 3:32 |
 | 4 | [El Llamado del 19](https://open.spotify.com/track/0U5Ginendem0WgqN4WdAMi) | [Panchito Arredondo](https://open.spotify.com/artist/1enyvmNKgt4BIIkVnt9FAV) | [Hombres de Honor](https://open.spotify.com/album/3ovOIwg4sOP0ElTa9yg8Wz) | 2:16 |
 | 5 | [Aunque Te Duela](https://open.spotify.com/track/6Ng777bqg8fwA7N7GyUDYm) | [Fidel Rueda](https://open.spotify.com/artist/1lQO7ePBTp5yOfVK9hicoJ) | [Cumpliendo Un Sueño](https://open.spotify.com/album/5HNyHXa6z20pWDod3JyLXo) | 3:19 |
-| 6 | [Pudiste pero No Quisiste](https://open.spotify.com/track/4GW1xy7yINUnuEQHaETaVC) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Como en los Viejos Tiempos](https://open.spotify.com/album/7kfuZtaN9zvpFhIIMZLvgI) | 3:32 |
+| 6 | [Pudiste Pero No Quisiste](https://open.spotify.com/track/4GW1xy7yINUnuEQHaETaVC) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Como en los Viejos Tiempos](https://open.spotify.com/album/7kfuZtaN9zvpFhIIMZLvgI) | 3:32 |
 | 7 | [Ojos Verdes](https://open.spotify.com/track/6981hdSOqG8tP6xTqaySa1) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [Soy Lo Que Quiero..\. Indispensable \(Edición Especial\)](https://open.spotify.com/album/4kWF9XKqqLONgYtUQ4alvb) | 3:57 |
 | 8 | [Terrenal](https://open.spotify.com/track/1Uy7p71RYE0uRvA6Kirr3O) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [Ni Lo Intentes](https://open.spotify.com/album/07A8pAHXqkucbE1KkZwfC0) | 3:57 |
 | 9 | [Amor Limosnero](https://open.spotify.com/track/4QaBFS1O4AvlWrqzaYdz4S) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Historias de la Calle](https://open.spotify.com/album/68oeH15c0id8blWP7cOu5T) | 4:00 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU6iy0O1kuqg.md) - [plain]
 | 49 | [Te Amo \- En vivo](https://open.spotify.com/track/2aJKZn5EEgu3ktMrkN9t3A) | [Hernan Sepulveda](https://open.spotify.com/artist/00CEIWvwRzWGVahslNZW0Z) | [Te Amo \(En vivo\)](https://open.spotify.com/album/5SMUfi5QkPbnaaUhBIvw92) | 3:07 |
 | 50 | [La Plebada Belica](https://open.spotify.com/track/1I05Oi3owEMe0nu9oG6bkF) | [Panchito Arredondo](https://open.spotify.com/artist/1enyvmNKgt4BIIkVnt9FAV) | [La Plebada Belica](https://open.spotify.com/album/6sSNTGCrVNvggz9tJm0rcH) | 2:45 |
 
-Snapshot ID: `MCxmYzk2YTQwY2MxYjNjNWY3MmI4NDFkOGQ1OTNkMjkyYTBiYjdhOTM5`
+Snapshot ID: `MCw1MzYxOTNkYTcyZGVlZjRkMGZjZGI4YmU0NmI2ZGVjOTRmOTJjODc3`

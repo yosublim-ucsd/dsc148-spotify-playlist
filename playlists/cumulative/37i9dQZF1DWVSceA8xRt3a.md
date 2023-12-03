@@ -4,7 +4,7 @@
 
 > Celine Song of A24's Past Lives curates a playlist of "love songs about cities"
 
-47 songs - 3 hr 0 min
+48 songs - 3 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,8 @@
 | [San Francisco \(Be Sure to Wear Some Flowers In Your Hair\)](https://open.spotify.com/track/77qBwefBIdzymXNCuAI8YX) | [Scott McKenzie](https://open.spotify.com/artist/7d7AZ3CQC457bFhK0wHpSO) | [The Voice of Scott McKenzie \(Expanded Edition\)](https://open.spotify.com/album/58TeEraOu8GyAFSUwF4fQZ) | 2:58 | 2023-09-26 |  |
 | [San Francisco Bay](https://open.spotify.com/track/0TaatujAlsDlmmZPLlu5dR) | [Lee Oskar](https://open.spotify.com/artist/0ZjB2OpMQL3LKJyEdeIz7o) | [Before the Rain](https://open.spotify.com/album/1dCO1DxYlCvbRRfX0zZANI) | 7:25 | 2023-09-26 |  |
 | [San Tropez](https://open.spotify.com/track/3kbUFmLV5SHVQonfOpNgkd) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [Meddle](https://open.spotify.com/album/468ZwCchVtzEbt9BHmXopb) | 3:43 | 2023-09-26 |  |
-| [Seoul Night](https://open.spotify.com/track/6u6k8rPxlffYclES8o04Ng) | [Fromm](https://open.spotify.com/artist/4ht1mwP4ouSu79jOOktCY3) | [Midnight Candy](https://open.spotify.com/album/4pR1y1pV9CyrFm6LL4N65M) | 4:14 | 2023-09-26 |  |
+| [Seoul Night](https://open.spotify.com/track/5KUs4mhoWSpZmJKXABJocU) | [Fromm](https://open.spotify.com/artist/4ht1mwP4ouSu79jOOktCY3) | [Midnight Candy](https://open.spotify.com/album/0kWnxvoMqesePXEQVvIB3x) | 4:14 | 2023-09-26 |  |
+| [Seoul Night](https://open.spotify.com/track/6u6k8rPxlffYclES8o04Ng) | [Fromm](https://open.spotify.com/artist/4ht1mwP4ouSu79jOOktCY3) | [Midnight Candy](https://open.spotify.com/album/4pR1y1pV9CyrFm6LL4N65M) | 4:14 | 2023-09-26 | 2023-12-03 |
 | [Streets of Philadelphia \- Single Edit](https://open.spotify.com/track/3fbnbn6A5O5RNb08tlUEgd) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Greatest Hits](https://open.spotify.com/album/211iJYKUbpqrykRsPG27CG) | 3:15 | 2023-09-26 |  |
 | [Take This Waltz](https://open.spotify.com/track/59BwHvrOj0amgz17FgDn1C) | [Leonard Cohen](https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV) | [More Best Of](https://open.spotify.com/album/5Tt73Fi2zEcfDJEPopgEv7) | 5:57 | 2023-09-26 |  |
 | [The Best Ever Death Metal Band in Denton](https://open.spotify.com/track/4AtUqjDgRO2S3jBzAjRvh7) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [All Hail West Texas \(Remastered\)](https://open.spotify.com/album/3yreM49ULtR2xW4fSENo3K) | 2:36 | 2023-09-26 |  |

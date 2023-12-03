@@ -1,12 +1,12 @@
 {
   "description": "Blues - new and old - to accompany your drive. Cover: B.B. King",
-  "num_followers": 81004,
+  "num_followers": 81070,
   "original_name": "Blues Drive",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNWJjYWYzY2MxYzQzOTdiZjQzMGFiNGFkYWQ3ZmI2ZDQ1NmQ4ZGUy",
+  "snapshot_id": "MCwzYWY3YzhhY2VkYjAxNmY0MDQwZGRiNjBlY2UzZTlkMDcyMzZlYzUw",
   "tracks": [
     {
       "added_at": "2021-03-03 17:28:10",
@@ -319,22 +319,6 @@
     {
       "added_at": "2021-03-03 17:28:10",
       "album": {
-        "name": "Layla And Other Assorted Love Songs (Remastered 2010)",
-        "url": "https://open.spotify.com/album/5iIWnMgvSM8uEBwXKsPcXM"
-      },
-      "artists": [
-        {
-          "name": "Derek & The Dominos",
-          "url": "https://open.spotify.com/artist/2rc78XDH9zuJP6bm78lU8Z"
-        }
-      ],
-      "duration_ms": 301720,
-      "name": "Bell Bottom Blues",
-      "url": "https://open.spotify.com/track/2YJgM8lj4u5YEZRSHSfL60"
-    },
-    {
-      "added_at": "2021-03-03 17:28:10",
-      "album": {
         "name": "Bo Diddley",
         "url": "https://open.spotify.com/album/1cbtDEwxCjMhglb49OgNBR"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 164546,
       "name": "I'm A Man",
       "url": "https://open.spotify.com/track/760clbeDBWmBsBLbszWuNZ"
+    },
+    {
+      "added_at": "2021-03-03 17:28:10",
+      "album": {
+        "name": "Layla And Other Assorted Love Songs (Remastered 2010)",
+        "url": "https://open.spotify.com/album/5iIWnMgvSM8uEBwXKsPcXM"
+      },
+      "artists": [
+        {
+          "name": "Derek & The Dominos",
+          "url": "https://open.spotify.com/artist/2rc78XDH9zuJP6bm78lU8Z"
+        }
+      ],
+      "duration_ms": 301720,
+      "name": "Bell Bottom Blues",
+      "url": "https://open.spotify.com/track/2YJgM8lj4u5YEZRSHSfL60"
     },
     {
       "added_at": "2021-03-03 17:28:10",
@@ -471,22 +471,6 @@
     {
       "added_at": "2021-03-03 17:28:10",
       "album": {
-        "name": "Taj Mahal",
-        "url": "https://open.spotify.com/album/0kEaFupzvrGdcczROS519i"
-      },
-      "artists": [
-        {
-          "name": "Taj Mahal",
-          "url": "https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp"
-        }
-      ],
-      "duration_ms": 289560,
-      "name": "Leaving Trunk",
-      "url": "https://open.spotify.com/track/3E0VKSvZp76kvBU2WwwBul"
-    },
-    {
-      "added_at": "2021-03-03 17:28:10",
-      "album": {
         "name": "Lie To Me",
         "url": "https://open.spotify.com/album/6RIlPlBtXSMN9UePrFIBio"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 251306,
       "name": "Lie To Me",
       "url": "https://open.spotify.com/track/6DCALWbYX0BCOAGy0hMmRs"
+    },
+    {
+      "added_at": "2021-03-03 17:28:10",
+      "album": {
+        "name": "Taj Mahal",
+        "url": "https://open.spotify.com/album/0kEaFupzvrGdcczROS519i"
+      },
+      "artists": [
+        {
+          "name": "Taj Mahal",
+          "url": "https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp"
+        }
+      ],
+      "duration_ms": 289560,
+      "name": "Leaving Trunk",
+      "url": "https://open.spotify.com/track/3E0VKSvZp76kvBU2WwwBul"
     },
     {
       "added_at": "2021-03-03 17:28:10",
@@ -775,22 +775,6 @@
     {
       "added_at": "2021-03-03 17:28:10",
       "album": {
-        "name": "Cold Snap (Remastered)",
-        "url": "https://open.spotify.com/album/4yybDfoKxyAey83ruCtTb9"
-      },
-      "artists": [
-        {
-          "name": "Albert Collins",
-          "url": "https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW"
-        }
-      ],
-      "duration_ms": 247400,
-      "name": "I Ain't Drunk - Remastered",
-      "url": "https://open.spotify.com/track/1pPrO5Lcx9UXNebcloGeHE"
-    },
-    {
-      "added_at": "2021-03-03 17:28:10",
-      "album": {
         "name": "Riding With The King",
         "url": "https://open.spotify.com/album/7w0uQiYScm3ApS8cWXmf4c"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 516533,
       "name": "Three O'Clock Blues",
       "url": "https://open.spotify.com/track/6lWxIJH0CyUtmFaIAeVmTQ"
+    },
+    {
+      "added_at": "2021-03-03 17:28:10",
+      "album": {
+        "name": "Cold Snap (Remastered)",
+        "url": "https://open.spotify.com/album/4yybDfoKxyAey83ruCtTb9"
+      },
+      "artists": [
+        {
+          "name": "Albert Collins",
+          "url": "https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW"
+        }
+      ],
+      "duration_ms": 247400,
+      "name": "I Ain't Drunk - Remastered",
+      "url": "https://open.spotify.com/track/1pPrO5Lcx9UXNebcloGeHE"
     },
     {
       "added_at": "2021-03-03 17:28:10",
@@ -971,6 +971,22 @@
     {
       "added_at": "2021-03-03 17:28:10",
       "album": {
+        "name": "Wolf Den",
+        "url": "https://open.spotify.com/album/72iUWLyrZgp7WUAIaqX0Np"
+      },
+      "artists": [
+        {
+          "name": "Danielle Nicole",
+          "url": "https://open.spotify.com/artist/34mu675oQQ5ZNuK1soZrIn"
+        }
+      ],
+      "duration_ms": 177906,
+      "name": "Take It All",
+      "url": "https://open.spotify.com/track/2H0s28N3rendfnepsj48C6"
+    },
+    {
+      "added_at": "2021-03-03 17:28:10",
+      "album": {
         "name": "We Get By",
         "url": "https://open.spotify.com/album/162ZDwMcg8NGzp6BPKy58G"
       },
@@ -987,22 +1003,6 @@
       "duration_ms": 215946,
       "name": "We Get By",
       "url": "https://open.spotify.com/track/5PqC3OJ24NIO5pP7me68dn"
-    },
-    {
-      "added_at": "2021-03-03 17:28:10",
-      "album": {
-        "name": "Wolf Den",
-        "url": "https://open.spotify.com/album/72iUWLyrZgp7WUAIaqX0Np"
-      },
-      "artists": [
-        {
-          "name": "Danielle Nicole",
-          "url": "https://open.spotify.com/artist/34mu675oQQ5ZNuK1soZrIn"
-        }
-      ],
-      "duration_ms": 177906,
-      "name": "Take It All",
-      "url": "https://open.spotify.com/track/2H0s28N3rendfnepsj48C6"
     },
     {
       "added_at": "2022-02-25 05:02:00",
@@ -1149,20 +1149,20 @@
       "url": "https://open.spotify.com/track/4lbqUtqgX3dITgYJMBjCDS"
     },
     {
-      "added_at": "2022-02-25 05:02:00",
+      "added_at": "2021-07-23 04:01:00",
       "album": {
-        "name": "The Pleasure's All Mine: The Complete Blues, Ballads and Favorites Sessions",
-        "url": "https://open.spotify.com/album/1inwZe8lEy9j9uhJaTRcbE"
+        "name": "Delta Kream",
+        "url": "https://open.spotify.com/album/682pJqnx8hcrCfSjvyNBki"
       },
       "artists": [
         {
-          "name": "Jimmie Vaughan",
-          "url": "https://open.spotify.com/artist/4gPGI1vW8TOypARV9Ykzae"
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
         }
       ],
-      "duration_ms": 223533,
-      "name": "The Pleasure's All Mine",
-      "url": "https://open.spotify.com/track/2x4Ag6Npxj78rsp849NDN7"
+      "duration_ms": 228972,
+      "name": "Going Down South",
+      "url": "https://open.spotify.com/track/3PeDt4Q8YIFDRph5UhxAaA"
     },
     {
       "added_at": "2021-03-03 17:28:10",
@@ -1181,20 +1181,20 @@
       "url": "https://open.spotify.com/track/6kqXaZrIDOmA177KL9LHHf"
     },
     {
-      "added_at": "2021-07-23 04:01:00",
+      "added_at": "2022-02-25 05:02:00",
       "album": {
-        "name": "Delta Kream",
-        "url": "https://open.spotify.com/album/682pJqnx8hcrCfSjvyNBki"
+        "name": "The Pleasure's All Mine: The Complete Blues, Ballads and Favorites Sessions",
+        "url": "https://open.spotify.com/album/1inwZe8lEy9j9uhJaTRcbE"
       },
       "artists": [
         {
-          "name": "The Black Keys",
-          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+          "name": "Jimmie Vaughan",
+          "url": "https://open.spotify.com/artist/4gPGI1vW8TOypARV9Ykzae"
         }
       ],
-      "duration_ms": 228972,
-      "name": "Going Down South",
-      "url": "https://open.spotify.com/track/3PeDt4Q8YIFDRph5UhxAaA"
+      "duration_ms": 223533,
+      "name": "The Pleasure's All Mine",
+      "url": "https://open.spotify.com/track/2x4Ag6Npxj78rsp849NDN7"
     },
     {
       "added_at": "2021-03-03 17:28:10",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2021-03-03 17:28:10",
       "album": {
-        "name": "Baby, Please Come Home (Bonus Version)",
-        "url": "https://open.spotify.com/album/4dcO5CmDykJdNP9CTOPKYD"
-      },
-      "artists": [
-        {
-          "name": "Jimmie Vaughan",
-          "url": "https://open.spotify.com/artist/4gPGI1vW8TOypARV9Ykzae"
-        }
-      ],
-      "duration_ms": 194280,
-      "name": "Be My Lovey Dovey",
-      "url": "https://open.spotify.com/track/0WGoAuzH6tLQpTe80YBRsV"
-    },
-    {
-      "added_at": "2021-03-03 17:28:10",
-      "album": {
         "name": "Fast Fingers",
         "url": "https://open.spotify.com/album/6lcVXsUyWa9WvgBMTuLz5l"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 239266,
       "name": "Little Angel Child",
       "url": "https://open.spotify.com/track/512gC8sU5PxZAFrskHEfzk"
+    },
+    {
+      "added_at": "2021-03-03 17:28:10",
+      "album": {
+        "name": "Baby, Please Come Home (Bonus Version)",
+        "url": "https://open.spotify.com/album/4dcO5CmDykJdNP9CTOPKYD"
+      },
+      "artists": [
+        {
+          "name": "Jimmie Vaughan",
+          "url": "https://open.spotify.com/artist/4gPGI1vW8TOypARV9Ykzae"
+        }
+      ],
+      "duration_ms": 194280,
+      "name": "Be My Lovey Dovey",
+      "url": "https://open.spotify.com/track/0WGoAuzH6tLQpTe80YBRsV"
     },
     {
       "added_at": "2021-03-03 17:28:10",
@@ -1395,6 +1395,22 @@
     {
       "added_at": "2021-03-03 17:28:10",
       "album": {
+        "name": "Two Bugs and a Roach",
+        "url": "https://open.spotify.com/album/4IWaRuc8RGDetpOm5Bv4Ho"
+      },
+      "artists": [
+        {
+          "name": "Earl Hooker",
+          "url": "https://open.spotify.com/artist/3Ev1WS21x5Jav9j214A19O"
+        }
+      ],
+      "duration_ms": 316666,
+      "name": "You Don't Want Me",
+      "url": "https://open.spotify.com/track/6ECnAHxGQilDe32zQqfdz3"
+    },
+    {
+      "added_at": "2021-03-03 17:28:10",
+      "album": {
         "name": "Power Of The Pontchartrain",
         "url": "https://open.spotify.com/album/0jfaR6Gbk36L1UF8ba8ufm"
       },
@@ -1411,38 +1427,6 @@
       "duration_ms": 304933,
       "name": "Shelter Me",
       "url": "https://open.spotify.com/track/0Wv8SrR4kycxh3GIpl2adV"
-    },
-    {
-      "added_at": "2021-03-03 17:28:10",
-      "album": {
-        "name": "Strange Pleasure",
-        "url": "https://open.spotify.com/album/0XP5X222ItUVr3YEgmALg7"
-      },
-      "artists": [
-        {
-          "name": "Jimmie Vaughan",
-          "url": "https://open.spotify.com/artist/4gPGI1vW8TOypARV9Ykzae"
-        }
-      ],
-      "duration_ms": 260733,
-      "name": "Don't Cha Know",
-      "url": "https://open.spotify.com/track/4nFUyC6eDW1wJsYSYLMqZd"
-    },
-    {
-      "added_at": "2021-03-03 17:28:10",
-      "album": {
-        "name": "Two Bugs and a Roach",
-        "url": "https://open.spotify.com/album/4IWaRuc8RGDetpOm5Bv4Ho"
-      },
-      "artists": [
-        {
-          "name": "Earl Hooker",
-          "url": "https://open.spotify.com/artist/3Ev1WS21x5Jav9j214A19O"
-        }
-      ],
-      "duration_ms": 316666,
-      "name": "You Don't Want Me",
-      "url": "https://open.spotify.com/track/6ECnAHxGQilDe32zQqfdz3"
     },
     {
       "added_at": "2021-07-23 04:01:00",
@@ -1515,6 +1499,22 @@
     {
       "added_at": "2021-03-03 17:28:10",
       "album": {
+        "name": "Strange Pleasure",
+        "url": "https://open.spotify.com/album/0XP5X222ItUVr3YEgmALg7"
+      },
+      "artists": [
+        {
+          "name": "Jimmie Vaughan",
+          "url": "https://open.spotify.com/artist/4gPGI1vW8TOypARV9Ykzae"
+        }
+      ],
+      "duration_ms": 260733,
+      "name": "Don't Cha Know",
+      "url": "https://open.spotify.com/track/4nFUyC6eDW1wJsYSYLMqZd"
+    },
+    {
+      "added_at": "2021-03-03 17:28:10",
+      "album": {
         "name": "Keb' Mo'",
         "url": "https://open.spotify.com/album/09rC6HgLbuYl74OvGdJw6t"
       },
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2021-03-03 17:28:10",
       "album": {
-        "name": "Born Under A Bad Sign",
-        "url": "https://open.spotify.com/album/42WQ76qWDQmHlHvJa6Z3Uw"
-      },
-      "artists": [
-        {
-          "name": "Albert King",
-          "url": "https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o"
-        }
-      ],
-      "duration_ms": 166560,
-      "name": "Born Under A Bad Sign",
-      "url": "https://open.spotify.com/track/0vDn81gdOuRxjbIwcASuiV"
-    },
-    {
-      "added_at": "2021-03-03 17:28:10",
-      "album": {
         "name": "Kill Or Be Kind",
         "url": "https://open.spotify.com/album/0Z917mMSP3EHtJicbhSAhA"
       },
@@ -1559,6 +1543,22 @@
       "duration_ms": 319253,
       "name": "Bulletproof - Tangle Eye Mix",
       "url": "https://open.spotify.com/track/6iy2u83vc4L95HS3JYxSQs"
+    },
+    {
+      "added_at": "2021-03-03 17:28:10",
+      "album": {
+        "name": "Born Under A Bad Sign",
+        "url": "https://open.spotify.com/album/42WQ76qWDQmHlHvJa6Z3Uw"
+      },
+      "artists": [
+        {
+          "name": "Albert King",
+          "url": "https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o"
+        }
+      ],
+      "duration_ms": 166560,
+      "name": "Born Under A Bad Sign",
+      "url": "https://open.spotify.com/track/0vDn81gdOuRxjbIwcASuiV"
     },
     {
       "added_at": "2021-03-03 17:28:10",

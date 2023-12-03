@@ -1,12 +1,12 @@
 {
   "description": "Soaring soundscapes from the most epic Post-Rock artists.",
-  "num_followers": 85681,
+  "num_followers": 85750,
   "original_name": "Ambient Post-Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMWFjYmU2NzU2MGJmMTFiM2IzOWE1MDg3ZWExMjU4ZjU1MDMyZTRh",
+  "snapshot_id": "MCw2MTExNDJkODg5MzRlNmRmYWJjMTIxNTMwMzlhZTJiMmZiYTE2MDBm",
   "tracks": [
     {
       "added_at": "2023-11-16 12:00:22",
@@ -243,22 +243,6 @@
     {
       "added_at": "2023-11-16 12:00:22",
       "album": {
-        "name": "Signals",
-        "url": "https://open.spotify.com/album/2bpCpF6l5TSdiK6tvlDTp8"
-      },
-      "artists": [
-        {
-          "name": "The Echelon Effect",
-          "url": "https://open.spotify.com/artist/20lGLFmdtadbUYmqzFRcA2"
-        }
-      ],
-      "duration_ms": 160465,
-      "name": "Goodbye Sierra",
-      "url": "https://open.spotify.com/track/6wpJHhMHSvyiPlnSpdNPSA"
-    },
-    {
-      "added_at": "2023-11-16 12:00:22",
-      "album": {
         "name": "Outer Wilds: Echoes of the Eye (Original Game Soundtrack)",
         "url": "https://open.spotify.com/album/3mRnCC3DI0SxIy7DtEFvZs"
       },
@@ -271,6 +255,22 @@
       "duration_ms": 163018,
       "name": "The River",
       "url": "https://open.spotify.com/track/4rhmXU8skfmVs6DoDMTkIl"
+    },
+    {
+      "added_at": "2023-11-16 12:00:22",
+      "album": {
+        "name": "Signals",
+        "url": "https://open.spotify.com/album/2bpCpF6l5TSdiK6tvlDTp8"
+      },
+      "artists": [
+        {
+          "name": "The Echelon Effect",
+          "url": "https://open.spotify.com/artist/20lGLFmdtadbUYmqzFRcA2"
+        }
+      ],
+      "duration_ms": 160465,
+      "name": "Goodbye Sierra",
+      "url": "https://open.spotify.com/track/6wpJHhMHSvyiPlnSpdNPSA"
     },
     {
       "added_at": "2023-11-16 12:00:22",
@@ -291,22 +291,6 @@
     {
       "added_at": "2023-11-16 12:00:22",
       "album": {
-        "name": "James",
-        "url": "https://open.spotify.com/album/7mHPviR5lgsokoGd2JxM2z"
-      },
-      "artists": [
-        {
-          "name": "Lowercase Noises",
-          "url": "https://open.spotify.com/artist/7trvyUUXmPhi1StCNYHj4e"
-        }
-      ],
-      "duration_ms": 354066,
-      "name": "The First Glimmer of Wind",
-      "url": "https://open.spotify.com/track/0kQ1OXxdNx2mJfphbZ3K0c"
-    },
-    {
-      "added_at": "2023-11-16 12:00:22",
-      "album": {
         "name": "Bloom",
         "url": "https://open.spotify.com/album/4N11Xw4rtuswjOeZjqKgay"
       },
@@ -319,6 +303,22 @@
       "duration_ms": 176373,
       "name": "Glaciers",
       "url": "https://open.spotify.com/track/2No1A7ZuMaBGxz45jmA9Gw"
+    },
+    {
+      "added_at": "2023-11-16 12:00:22",
+      "album": {
+        "name": "James",
+        "url": "https://open.spotify.com/album/7mHPviR5lgsokoGd2JxM2z"
+      },
+      "artists": [
+        {
+          "name": "Lowercase Noises",
+          "url": "https://open.spotify.com/artist/7trvyUUXmPhi1StCNYHj4e"
+        }
+      ],
+      "duration_ms": 354066,
+      "name": "The First Glimmer of Wind",
+      "url": "https://open.spotify.com/track/0kQ1OXxdNx2mJfphbZ3K0c"
     },
     {
       "added_at": "2023-11-16 12:00:22",
@@ -387,18 +387,18 @@
     {
       "added_at": "2023-11-16 12:00:22",
       "album": {
-        "name": "Field Recordings",
-        "url": "https://open.spotify.com/album/0TNUVnjYHwbsilNnbweuZa"
+        "name": "Reanimation",
+        "url": "https://open.spotify.com/album/6L0fhAi5G9zXbmFelO96Zy"
       },
       "artists": [
         {
-          "name": "The Echelon Effect",
-          "url": "https://open.spotify.com/artist/20lGLFmdtadbUYmqzFRcA2"
+          "name": "Lights & Motion",
+          "url": "https://open.spotify.com/artist/3ff1CmU6qfTqRAmdrq8EEG"
         }
       ],
-      "duration_ms": 468927,
-      "name": "Tracking Aeroplanes",
-      "url": "https://open.spotify.com/track/4J4yJ9VpPIIsRDf9w4cPG7"
+      "duration_ms": 132472,
+      "name": "Requiem",
+      "url": "https://open.spotify.com/track/6M8tLLip6IdSyr8unJMFxP"
     },
     {
       "added_at": "2023-11-16 12:00:22",
@@ -419,18 +419,18 @@
     {
       "added_at": "2023-11-16 12:00:22",
       "album": {
-        "name": "Reanimation",
-        "url": "https://open.spotify.com/album/6L0fhAi5G9zXbmFelO96Zy"
+        "name": "Field Recordings",
+        "url": "https://open.spotify.com/album/0TNUVnjYHwbsilNnbweuZa"
       },
       "artists": [
         {
-          "name": "Lights & Motion",
-          "url": "https://open.spotify.com/artist/3ff1CmU6qfTqRAmdrq8EEG"
+          "name": "The Echelon Effect",
+          "url": "https://open.spotify.com/artist/20lGLFmdtadbUYmqzFRcA2"
         }
       ],
-      "duration_ms": 132472,
-      "name": "Requiem",
-      "url": "https://open.spotify.com/track/6M8tLLip6IdSyr8unJMFxP"
+      "duration_ms": 468927,
+      "name": "Tracking Aeroplanes",
+      "url": "https://open.spotify.com/track/4J4yJ9VpPIIsRDf9w4cPG7"
     },
     {
       "added_at": "2023-11-16 12:00:22",
@@ -783,22 +783,6 @@
     {
       "added_at": "2023-11-16 12:00:22",
       "album": {
-        "name": "Into The Mountains",
-        "url": "https://open.spotify.com/album/1o5rlkGEnurky28y0aNk15"
-      },
-      "artists": [
-        {
-          "name": "Dan Caine",
-          "url": "https://open.spotify.com/artist/0r5LxNZiRy5s6to6o2Uy5A"
-        }
-      ],
-      "duration_ms": 203012,
-      "name": "The Sun In The Trees",
-      "url": "https://open.spotify.com/track/6lowTdwj7REPPWwq7xExRS"
-    },
-    {
-      "added_at": "2023-11-16 12:00:22",
-      "album": {
         "name": "Pure Phase",
         "url": "https://open.spotify.com/album/1J5p5XuDMtA49FRmp7UK1a"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 232266,
       "name": "The Slide Song",
       "url": "https://open.spotify.com/track/3V4rZhVqZ4EcaagkxUaqn0"
+    },
+    {
+      "added_at": "2023-11-16 12:00:22",
+      "album": {
+        "name": "Into The Mountains",
+        "url": "https://open.spotify.com/album/1o5rlkGEnurky28y0aNk15"
+      },
+      "artists": [
+        {
+          "name": "Dan Caine",
+          "url": "https://open.spotify.com/artist/0r5LxNZiRy5s6to6o2Uy5A"
+        }
+      ],
+      "duration_ms": 203012,
+      "name": "The Sun In The Trees",
+      "url": "https://open.spotify.com/track/6lowTdwj7REPPWwq7xExRS"
     },
     {
       "added_at": "2023-11-16 12:00:22",
@@ -847,22 +847,6 @@
     {
       "added_at": "2023-11-16 12:00:22",
       "album": {
-        "name": "Chronos",
-        "url": "https://open.spotify.com/album/4w6Khg9vi5Dsw9Si0M8fxn"
-      },
-      "artists": [
-        {
-          "name": "Ausklang",
-          "url": "https://open.spotify.com/artist/1ZcJinECNbDAgjHi91jf8Z"
-        }
-      ],
-      "duration_ms": 355360,
-      "name": "Abschied",
-      "url": "https://open.spotify.com/track/5l0a62AwHR4Im5HZ7uhMAy"
-    },
-    {
-      "added_at": "2023-11-16 12:00:22",
-      "album": {
         "name": "This Patch of Sky",
         "url": "https://open.spotify.com/album/1SADIGwbbHfTihT6DryNQM"
       },
@@ -895,6 +879,38 @@
     {
       "added_at": "2023-11-16 12:00:22",
       "album": {
+        "name": "Chronos",
+        "url": "https://open.spotify.com/album/4w6Khg9vi5Dsw9Si0M8fxn"
+      },
+      "artists": [
+        {
+          "name": "Ausklang",
+          "url": "https://open.spotify.com/artist/1ZcJinECNbDAgjHi91jf8Z"
+        }
+      ],
+      "duration_ms": 355360,
+      "name": "Abschied",
+      "url": "https://open.spotify.com/track/5l0a62AwHR4Im5HZ7uhMAy"
+    },
+    {
+      "added_at": "2023-11-16 12:00:22",
+      "album": {
+        "name": "The American Dollar",
+        "url": "https://open.spotify.com/album/3t9U8bBmsP58lh36ujoweF"
+      },
+      "artists": [
+        {
+          "name": "The American Dollar",
+          "url": "https://open.spotify.com/artist/5r4OqYJL7JrtZlffx7FJlb"
+        }
+      ],
+      "duration_ms": 199813,
+      "name": "Peterson",
+      "url": "https://open.spotify.com/track/7gfMja30N1mYv2P0RWRXyE"
+    },
+    {
+      "added_at": "2023-11-16 12:00:22",
+      "album": {
         "name": "Drifting Ever Shifting",
         "url": "https://open.spotify.com/album/14a7IkZVZw8536CFPBbSSb"
       },
@@ -923,22 +939,6 @@
       "duration_ms": 393195,
       "name": "Monastic",
       "url": "https://open.spotify.com/track/6hZtYl0fhKYJ3ptc6DiLnL"
-    },
-    {
-      "added_at": "2023-11-16 12:00:22",
-      "album": {
-        "name": "The American Dollar",
-        "url": "https://open.spotify.com/album/3t9U8bBmsP58lh36ujoweF"
-      },
-      "artists": [
-        {
-          "name": "The American Dollar",
-          "url": "https://open.spotify.com/artist/5r4OqYJL7JrtZlffx7FJlb"
-        }
-      ],
-      "duration_ms": 199813,
-      "name": "Peterson",
-      "url": "https://open.spotify.com/track/7gfMja30N1mYv2P0RWRXyE"
     },
     {
       "added_at": "2023-11-16 12:00:22",
@@ -1127,6 +1127,26 @@
     {
       "added_at": "2023-11-16 12:00:22",
       "album": {
+        "name": "Love is a Shelter",
+        "url": "https://open.spotify.com/album/3fXswSDp0atec4RaaQxfwX"
+      },
+      "artists": [
+        {
+          "name": "All Stars Dying",
+          "url": "https://open.spotify.com/artist/28J3Xc87YW3bb8e5iWptNP"
+        },
+        {
+          "name": "Make Like A Tree",
+          "url": "https://open.spotify.com/artist/2FcYVCAttLCTrobIOwkxsk"
+        }
+      ],
+      "duration_ms": 360006,
+      "name": "Love is a Shelter",
+      "url": "https://open.spotify.com/track/1uPfdyNjqHB46zGj7CWoyk"
+    },
+    {
+      "added_at": "2023-11-16 12:00:22",
+      "album": {
         "name": "Dragoon",
         "url": "https://open.spotify.com/album/4zZR5AnYdvyChSGy0aEGEp"
       },
@@ -1179,6 +1199,22 @@
     {
       "added_at": "2023-11-16 12:00:22",
       "album": {
+        "name": "Reflection",
+        "url": "https://open.spotify.com/album/3NHWpKIN1ykhWepSyzBglP"
+      },
+      "artists": [
+        {
+          "name": "Interstellar Noise",
+          "url": "https://open.spotify.com/artist/3h9YFTlhixNcQHPWYrGXOT"
+        }
+      ],
+      "duration_ms": 227975,
+      "name": "Reflection",
+      "url": "https://open.spotify.com/track/4O7QRo5ZdHCSVbx6Nh4gLM"
+    },
+    {
+      "added_at": "2023-11-16 12:00:22",
+      "album": {
         "name": "I Dreamt Our Whole City Burned",
         "url": "https://open.spotify.com/album/2pI6eAuMCPZAT8czjR02RN"
       },
@@ -1211,42 +1247,6 @@
       "duration_ms": 228973,
       "name": "Farewell, Stars - The American Dollar Rework",
       "url": "https://open.spotify.com/track/7oEKxSpVRJo4SgBMl6DAhR"
-    },
-    {
-      "added_at": "2023-11-16 12:00:22",
-      "album": {
-        "name": "Reflection",
-        "url": "https://open.spotify.com/album/3NHWpKIN1ykhWepSyzBglP"
-      },
-      "artists": [
-        {
-          "name": "Interstellar Noise",
-          "url": "https://open.spotify.com/artist/3h9YFTlhixNcQHPWYrGXOT"
-        }
-      ],
-      "duration_ms": 227975,
-      "name": "Reflection",
-      "url": "https://open.spotify.com/track/4O7QRo5ZdHCSVbx6Nh4gLM"
-    },
-    {
-      "added_at": "2023-11-16 12:00:22",
-      "album": {
-        "name": "Love is a Shelter",
-        "url": "https://open.spotify.com/album/3fXswSDp0atec4RaaQxfwX"
-      },
-      "artists": [
-        {
-          "name": "All Stars Dying",
-          "url": "https://open.spotify.com/artist/28J3Xc87YW3bb8e5iWptNP"
-        },
-        {
-          "name": "Make Like A Tree",
-          "url": "https://open.spotify.com/artist/2FcYVCAttLCTrobIOwkxsk"
-        }
-      ],
-      "duration_ms": 360006,
-      "name": "Love is a Shelter",
-      "url": "https://open.spotify.com/track/1uPfdyNjqHB46zGj7CWoyk"
     },
     {
       "added_at": "2023-11-16 12:00:22",
@@ -1319,18 +1319,18 @@
     {
       "added_at": "2023-11-16 12:00:22",
       "album": {
-        "name": "Nova",
-        "url": "https://open.spotify.com/album/442jVeJ7yvYb1EiTcrKc7f"
+        "name": "Home",
+        "url": "https://open.spotify.com/album/0qYTcGFEUHoPldbtmQS7Ig"
       },
       "artists": [
         {
-          "name": "McLarnan",
-          "url": "https://open.spotify.com/artist/0SQZ2Dcu8oLoNZs6Pwqrwt"
+          "name": "From Overseas",
+          "url": "https://open.spotify.com/artist/31PP2XORcCMGHAa8vzJEUV"
         }
       ],
-      "duration_ms": 420330,
-      "name": "Nova",
-      "url": "https://open.spotify.com/track/5d24GkUJLwNLhmWC0MYNQP"
+      "duration_ms": 230000,
+      "name": "Astronomer",
+      "url": "https://open.spotify.com/track/19XzE3XTdm2wwA6Y5OnK5L"
     },
     {
       "added_at": "2023-11-16 12:00:22",
@@ -1351,18 +1351,34 @@
     {
       "added_at": "2023-11-16 12:00:22",
       "album": {
-        "name": "Home",
-        "url": "https://open.spotify.com/album/0qYTcGFEUHoPldbtmQS7Ig"
+        "name": "Songs to Disappear to",
+        "url": "https://open.spotify.com/album/3aLsCurarCN5BSpLQtz5uz"
       },
       "artists": [
         {
-          "name": "From Overseas",
-          "url": "https://open.spotify.com/artist/31PP2XORcCMGHAa8vzJEUV"
+          "name": "McLarnan",
+          "url": "https://open.spotify.com/artist/0SQZ2Dcu8oLoNZs6Pwqrwt"
         }
       ],
-      "duration_ms": 230000,
-      "name": "Astronomer",
-      "url": "https://open.spotify.com/track/19XzE3XTdm2wwA6Y5OnK5L"
+      "duration_ms": 257568,
+      "name": "Old Moon",
+      "url": "https://open.spotify.com/track/2nbmmiicbkivIF0olzk7JJ"
+    },
+    {
+      "added_at": "2023-11-16 12:00:22",
+      "album": {
+        "name": "Lakeshore",
+        "url": "https://open.spotify.com/album/1YgvjkUsjMJbJGxcvun4RM"
+      },
+      "artists": [
+        {
+          "name": "Lost Horse Mine",
+          "url": "https://open.spotify.com/artist/6IAXzJ1w04k1y0IoDujIBV"
+        }
+      ],
+      "duration_ms": 164589,
+      "name": "Lakeshore",
+      "url": "https://open.spotify.com/track/3HGFKsehiopbAKGrzWVjGc"
     },
     {
       "added_at": "2023-11-16 12:00:22",
@@ -1387,86 +1403,6 @@
     {
       "added_at": "2023-11-16 12:00:22",
       "album": {
-        "name": "Cura",
-        "url": "https://open.spotify.com/album/2Eln7i165wjr38KNPIrzSU"
-      },
-      "artists": [
-        {
-          "name": "Call the Ocean",
-          "url": "https://open.spotify.com/artist/4EKrAbJrw0NND9p13uhYAr"
-        }
-      ],
-      "duration_ms": 439449,
-      "name": "Cura",
-      "url": "https://open.spotify.com/track/2jxIRC8w0dO8jfEVMs37On"
-    },
-    {
-      "added_at": "2023-11-16 12:00:22",
-      "album": {
-        "name": "Lakeshore",
-        "url": "https://open.spotify.com/album/1YgvjkUsjMJbJGxcvun4RM"
-      },
-      "artists": [
-        {
-          "name": "Lost Horse Mine",
-          "url": "https://open.spotify.com/artist/6IAXzJ1w04k1y0IoDujIBV"
-        }
-      ],
-      "duration_ms": 164589,
-      "name": "Lakeshore",
-      "url": "https://open.spotify.com/track/3HGFKsehiopbAKGrzWVjGc"
-    },
-    {
-      "added_at": "2023-11-16 12:00:22",
-      "album": {
-        "name": "As She Bends Towards the Sun",
-        "url": "https://open.spotify.com/album/0QAn5hfWiRk6VqAAmp8sF7"
-      },
-      "artists": [
-        {
-          "name": "Teoay",
-          "url": "https://open.spotify.com/artist/34Zt4C6Z2S3i6VLuc1ErV1"
-        }
-      ],
-      "duration_ms": 287388,
-      "name": "As She Bends Towards the Sun",
-      "url": "https://open.spotify.com/track/4cOjEjKJjIefvdz66ejMOc"
-    },
-    {
-      "added_at": "2023-11-16 12:00:22",
-      "album": {
-        "name": "Songs to Disappear to",
-        "url": "https://open.spotify.com/album/3aLsCurarCN5BSpLQtz5uz"
-      },
-      "artists": [
-        {
-          "name": "McLarnan",
-          "url": "https://open.spotify.com/artist/0SQZ2Dcu8oLoNZs6Pwqrwt"
-        }
-      ],
-      "duration_ms": 257568,
-      "name": "Old Moon",
-      "url": "https://open.spotify.com/track/2nbmmiicbkivIF0olzk7JJ"
-    },
-    {
-      "added_at": "2023-11-16 12:00:22",
-      "album": {
-        "name": "Offworld",
-        "url": "https://open.spotify.com/album/6tpZaw2NgfCBdGNHVaflwe"
-      },
-      "artists": [
-        {
-          "name": "Cahill Costello",
-          "url": "https://open.spotify.com/artist/2Hx8lclV6wl5gP4ronSGWm"
-        }
-      ],
-      "duration_ms": 481560,
-      "name": "Pavan II",
-      "url": "https://open.spotify.com/track/0RpvzpYNOegtn3k6MxiXav"
-    },
-    {
-      "added_at": "2023-11-16 12:00:22",
-      "album": {
         "name": "Momentary Ghosts",
         "url": "https://open.spotify.com/album/7sAHthUnnbu2lpLkzDdqiI"
       },
@@ -1487,6 +1423,54 @@
     {
       "added_at": "2023-11-16 12:00:22",
       "album": {
+        "name": "Offworld",
+        "url": "https://open.spotify.com/album/6tpZaw2NgfCBdGNHVaflwe"
+      },
+      "artists": [
+        {
+          "name": "Cahill Costello",
+          "url": "https://open.spotify.com/artist/2Hx8lclV6wl5gP4ronSGWm"
+        }
+      ],
+      "duration_ms": 481560,
+      "name": "Pavan II",
+      "url": "https://open.spotify.com/track/0RpvzpYNOegtn3k6MxiXav"
+    },
+    {
+      "added_at": "2023-11-16 12:00:22",
+      "album": {
+        "name": "As She Bends Towards the Sun",
+        "url": "https://open.spotify.com/album/0QAn5hfWiRk6VqAAmp8sF7"
+      },
+      "artists": [
+        {
+          "name": "Teoay",
+          "url": "https://open.spotify.com/artist/34Zt4C6Z2S3i6VLuc1ErV1"
+        }
+      ],
+      "duration_ms": 287388,
+      "name": "As She Bends Towards the Sun",
+      "url": "https://open.spotify.com/track/4cOjEjKJjIefvdz66ejMOc"
+    },
+    {
+      "added_at": "2023-11-16 12:00:22",
+      "album": {
+        "name": "Cura",
+        "url": "https://open.spotify.com/album/2Eln7i165wjr38KNPIrzSU"
+      },
+      "artists": [
+        {
+          "name": "Call the Ocean",
+          "url": "https://open.spotify.com/artist/4EKrAbJrw0NND9p13uhYAr"
+        }
+      ],
+      "duration_ms": 439449,
+      "name": "Cura",
+      "url": "https://open.spotify.com/track/2jxIRC8w0dO8jfEVMs37On"
+    },
+    {
+      "added_at": "2023-11-16 12:00:22",
+      "album": {
         "name": "Pajama Avenue",
         "url": "https://open.spotify.com/album/3qAEUZXgpWwJSt9YxyAB7E"
       },
@@ -1499,6 +1483,22 @@
       "duration_ms": 232026,
       "name": "Back To Dangerous",
       "url": "https://open.spotify.com/track/60E5CKMclWgAFxcqKVz0rg"
+    },
+    {
+      "added_at": "2023-11-16 12:00:22",
+      "album": {
+        "name": "Nova",
+        "url": "https://open.spotify.com/album/442jVeJ7yvYb1EiTcrKc7f"
+      },
+      "artists": [
+        {
+          "name": "McLarnan",
+          "url": "https://open.spotify.com/artist/0SQZ2Dcu8oLoNZs6Pwqrwt"
+        }
+      ],
+      "duration_ms": 420330,
+      "name": "Nova",
+      "url": "https://open.spotify.com/track/5d24GkUJLwNLhmWC0MYNQP"
     },
     {
       "added_at": "2023-11-16 12:00:22",

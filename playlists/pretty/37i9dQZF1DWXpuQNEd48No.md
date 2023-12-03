@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXpuQNEd48No.md) - [plain]
 
 > Yo Hai Haryanvi Hip\-Hop! Cover: Elvish Yadav
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,020 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,096 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,16 +47,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXpuQNEd48No.md) - [plain]
 | 37 | [Bagdadi](https://open.spotify.com/track/56kDXRd6Yy2w7034LaOwJN) | [Semicolon](https://open.spotify.com/artist/1MWKy0Hucv9MInRiOf0Duh), [Amanraj Gill](https://open.spotify.com/artist/07hzX8SH6CEg7B2yl4hoKs) | [Bagdadi](https://open.spotify.com/album/54VGUtzXIowOk9m3NPOCpW) | 2:50 |
 | 38 | [Jat Clan](https://open.spotify.com/track/3rtxNJ7AOwcOXEbYvUznKy) | [Dhanda Nyoliwala](https://open.spotify.com/artist/2rN8LHqK4TBI7y3d9POvJb), [Yogi Aulakh](https://open.spotify.com/artist/5J2xmfWX1pR9OgoGb4Zuaz) | [Jat Clan](https://open.spotify.com/album/51MBb7ysU3Uzr3ASUVR3Kk) | 3:26 |
 | 39 | [Success](https://open.spotify.com/track/4dO5LtlRj5wqdVVrDHjeh3) | [KD DESIROCK](https://open.spotify.com/artist/4Pq2LW79qotJK4YAMFwlO0) | [Success](https://open.spotify.com/album/7K4xHrateeQtpa7n3bV0XN) | 4:01 |
-| 40 | [Chore Haryana Aale](https://open.spotify.com/track/1bbbcdT3UhWkSIXH0FzipI) | [Candy Sheoran](https://open.spotify.com/artist/5Gv7YQyjnnTxplUzBuKSUY), [The LeKhak](https://open.spotify.com/artist/4mXXjQa72yzGxqboQMSqiT) | [Chore Haryana Aale](https://open.spotify.com/album/4uH6nJZ7YA3GpeaBZccaCC) | 2:58 |
-| 41 | [Vampire](https://open.spotify.com/track/31olLVhKdDW291OezbnDZt) | [Miki Malang](https://open.spotify.com/artist/5vGjn7KpA1qJNuy2Ez9yRM) | [Vampire](https://open.spotify.com/album/5KI34lG871b5QkuNHKeIn1) | 5:06 |
+| 40 | [Vampire](https://open.spotify.com/track/31olLVhKdDW291OezbnDZt) | [Miki Malang](https://open.spotify.com/artist/5vGjn7KpA1qJNuy2Ez9yRM) | [Vampire](https://open.spotify.com/album/5KI34lG871b5QkuNHKeIn1) | 5:06 |
+| 41 | [Chore Haryana Aale](https://open.spotify.com/track/1bbbcdT3UhWkSIXH0FzipI) | [Candy Sheoran](https://open.spotify.com/artist/5Gv7YQyjnnTxplUzBuKSUY), [The LeKhak](https://open.spotify.com/artist/4mXXjQa72yzGxqboQMSqiT) | [Chore Haryana Aale](https://open.spotify.com/album/4uH6nJZ7YA3GpeaBZccaCC) | 2:58 |
 | 42 | [32 Bore](https://open.spotify.com/track/0EPQT3CkZHMHIJvCFZqYke) | [Fazilpuria](https://open.spotify.com/artist/4oaJL0V5asQDh4sqplTVhX), [DG IMMORTALS](https://open.spotify.com/artist/7jbG8tDQ5FmqBbTCj5dJdy) | [32 Bore](https://open.spotify.com/album/5uneWMrAfrjpvrKOZ9nGdC) | 2:24 |
 | 43 | [Tabahi](https://open.spotify.com/track/01aP0lDm92ehOIy7zfpJkw) | [Yachi Dhounchak](https://open.spotify.com/artist/5pUmnQvCEu3sTcSZWH5USc), [Candy Sheoran](https://open.spotify.com/artist/5Gv7YQyjnnTxplUzBuKSUY) | [Tabahi](https://open.spotify.com/album/5UTeuo86cat06VcIp7Nnrk) | 4:03 |
 | 44 | [Donali](https://open.spotify.com/track/7pGWXs5NjOtYnr07cjVj9y) | [Khasa Aala Chahar](https://open.spotify.com/artist/3yOHCFUZRsaHUu1yefR8ck) | [Donali](https://open.spotify.com/album/0xlAEkP9ChcMnyxR1Fm5X2) | 3:24 |
 | 45 | [Badmash](https://open.spotify.com/track/59NeNxSve36qM7JRHVdD6G) | [KD](https://open.spotify.com/artist/0RPNJNnaW9YEmWCHtL5Yo2) | [Badmash](https://open.spotify.com/album/1Aa0LC60RZzl1qGSjyTbvI) | 5:56 |
 | 46 | [MAHAKAAL](https://open.spotify.com/track/6bwmcJiXjx2297D0mgdeFF) | [KD DESIROCK](https://open.spotify.com/artist/4Pq2LW79qotJK4YAMFwlO0) | [MAHAKAAL](https://open.spotify.com/album/6P1oRqxxhiRkmOvSdG0hw0) | 3:19 |
-| 47 | [This is Haryana](https://open.spotify.com/track/3K0HbRxcEZoPH7jE7VDltd) | [Badal](https://open.spotify.com/artist/0aLbfu2yo1hLo6J0SNBSPp) | [This is Haryana](https://open.spotify.com/album/39lfhZMC6uszJC2VoB5XhH) | 3:28 |
-| 48 | [Brand New](https://open.spotify.com/track/5hDKa4HzGxhnLGO6vnc3pA) | [DG IMMORTALS](https://open.spotify.com/artist/7jbG8tDQ5FmqBbTCj5dJdy), [Shiva Choudhary](https://open.spotify.com/artist/3KOSRNy74RLnTAFn0u1tmN), [Love Kataria](https://open.spotify.com/artist/68Zi4yF7GdesbYgTEEZPDZ), [Sshiv](https://open.spotify.com/artist/6NyXhJPrcOKVowHPoP5AQA) | [Brand New](https://open.spotify.com/album/2dj8GXKlijOBhPcY9DXY2k) | 1:50 |
+| 47 | [Brand New](https://open.spotify.com/track/5hDKa4HzGxhnLGO6vnc3pA) | [DG IMMORTALS](https://open.spotify.com/artist/7jbG8tDQ5FmqBbTCj5dJdy), [Shiva Choudhary](https://open.spotify.com/artist/3KOSRNy74RLnTAFn0u1tmN), [Love Kataria](https://open.spotify.com/artist/68Zi4yF7GdesbYgTEEZPDZ), [Sshiv](https://open.spotify.com/artist/6NyXhJPrcOKVowHPoP5AQA) | [Brand New](https://open.spotify.com/album/2dj8GXKlijOBhPcY9DXY2k) | 1:50 |
+| 48 | [This is Haryana](https://open.spotify.com/track/3K0HbRxcEZoPH7jE7VDltd) | [Badal](https://open.spotify.com/artist/0aLbfu2yo1hLo6J0SNBSPp) | [This is Haryana](https://open.spotify.com/album/39lfhZMC6uszJC2VoB5XhH) | 3:28 |
 | 49 | [Sneeze](https://open.spotify.com/track/0ssV2OWkon59eAeR7gEpXZ) | [Miki Malang](https://open.spotify.com/artist/5vGjn7KpA1qJNuy2Ez9yRM), [RP Singh](https://open.spotify.com/artist/7pxBiDULrPympl9ppIewtZ) | [Sneeze](https://open.spotify.com/album/0i9EeZFCVSRa3FbSeLF64o) | 4:16 |
 | 50 | [Jaat Warriors](https://open.spotify.com/track/6oWxnsiYG5bj2tqhDcdlRY) | [BigMoney](https://open.spotify.com/artist/1cRdqU4s5nAUZecL49dXPE), [PRNCE SIDHU](https://open.spotify.com/artist/1qRoIdvXPOUe0Omn4NsFp4) | [Jaat Warriors](https://open.spotify.com/album/0XMUkwivt9uRvZtVhrSk4J) | 2:43 |
 
-Snapshot ID: `MCwxZjg0MGYxZGExOTVkZjYxMWY3NGEyMWE2ZjNjZjc0ODdjYzc0NjFh`
+Snapshot ID: `MCxiYzA4ZjliMDNhMDhjNjY5ODIxODMyMDcwYjcxNTJiMWRjZDI4Mzcz`

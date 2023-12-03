@@ -28276,10 +28276,36 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-03",
       "duration_ms": 141176,
       "name": "Dangerous",
       "url": "https://open.spotify.com/track/6laQgNGUtNzFMgmFlC0J0R"
+    },
+    {
+      "album": {
+        "name": "Dangerous",
+        "url": "https://open.spotify.com/album/5Jyih0CqOl9I85X6XKRjxM"
+      },
+      "artists": [
+        {
+          "name": "Kleinevlam",
+          "url": "https://open.spotify.com/artist/0UyOphy0eyixk0EmaDqBLx"
+        },
+        {
+          "name": "Cm2",
+          "url": "https://open.spotify.com/artist/0CzeXlUTm8wTk43s6QB9XF"
+        },
+        {
+          "name": "YUNGSTEALY",
+          "url": "https://open.spotify.com/artist/1PL5muiJjjGEed6vpzRA5A"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141176,
+      "name": "Dangerous",
+      "url": "https://open.spotify.com/track/2S98gd8hjcg5gtNDgsnyx3"
     },
     {
       "album": {
@@ -96322,7 +96348,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 212563,
-      "name": "Pudiste pero No Quisiste",
+      "name": "Pudiste Pero No Quisiste",
       "url": "https://open.spotify.com/track/4GW1xy7yINUnuEQHaETaVC"
     },
     {

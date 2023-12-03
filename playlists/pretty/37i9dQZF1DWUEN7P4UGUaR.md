@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUEN7P4UGUaR.md) - [plain]
 
 > Fresh gospel music from Ghana\. Cover: Joyce Blessing
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,479 likes - 50 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,516 likes - 50 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUEN7P4UGUaR.md) - [plain]
 | 49 | [A Letter to the Wise](https://open.spotify.com/track/0e4RCiQHnm2GOZCltde0t7) | [Israel Chemphe](https://open.spotify.com/artist/1qJeZoDyrYPQ3R02TY1s9Z) | [A Letter to the Wise](https://open.spotify.com/album/7uX0NKSvnJnyDCYvkSMOYh) | 3:32 |
 | 50 | [More](https://open.spotify.com/track/3YzVHJmmQAuGFdrX6yPHyn) | [Irene Logan](https://open.spotify.com/artist/5E0zjnKqKIVeXOPSiIhnUz) | [More](https://open.spotify.com/album/7xfrnuQPFXGHNLfKBi54fk) | 5:21 |
 
-Snapshot ID: `MCxkY2QzYjUzZjU2MDNjODRlOGViMzRjMGYxNjlkNzNhY2I0NDk0NzRm`
+Snapshot ID: `MCxhZTI1Zjc5NDEzNDI4ZjU4NWUzZmQ5ODcyMjYyYjc3MmQwYjFjYjFl`

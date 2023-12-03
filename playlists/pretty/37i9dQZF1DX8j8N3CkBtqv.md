@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8j8N3CkBtqv.md) - [plain]
 
 > Naye Indie gaano ka khazana! Cover\- Dikshant
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,309 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,363 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Muskan](https://open.spotify.com/track/3ZEmgsL1KUBrgjawKL4OTY) | [Dikshant](https://open.spotify.com/artist/0kTAB5SUakX286t6K7J3QR) | [Muskan](https://open.spotify.com/album/1Eq6kZv2CA6XRrV4nZlR40) | 3:08 |
+| 1 | [Muskan \- Acoustic](https://open.spotify.com/track/3ZEmgsL1KUBrgjawKL4OTY) | [Dikshant](https://open.spotify.com/artist/0kTAB5SUakX286t6K7J3QR) | [Muskan \(Acoustic\)](https://open.spotify.com/album/1Eq6kZv2CA6XRrV4nZlR40) | 3:08 |
 | 2 | [Husn](https://open.spotify.com/track/0TL0LFcwIBF5eX7arDIKxY) | [Anuv Jain](https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx) | [Husn](https://open.spotify.com/album/2SarxpD48O1DOiDIccyZ0W) | 3:37 |
 | 3 | [Jogan](https://open.spotify.com/track/0Szj0LBTvfXmxgIXFGqg4H) | [Lost Stories](https://open.spotify.com/artist/4RCALXqxv2udxtuLatKPSi), [Devashri Manohar](https://open.spotify.com/artist/3RZPXSfPo0Fqr18tVXeuW1) | [Jogan / Preet](https://open.spotify.com/album/7wLuY53xqzFDf52LvxW4qS) | 2:38 |
 | 4 | [Yeh Sama](https://open.spotify.com/track/2HJiciviYnFJXF9bM80AwF) | [Raghav Meattle](https://open.spotify.com/artist/7lTlD9L3QhfOH13Z0n1ibN) | [Yeh Sama](https://open.spotify.com/album/4aU88UQdV5chDfZ3WWcGdp) | 2:09 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8j8N3CkBtqv.md) - [plain]
 | 49 | [Tu Kahe Toh \(feat\. Nolan Santo\)](https://open.spotify.com/track/0eCVQoYH5nTFgmmjQqsJmG) | [Zephyrtone](https://open.spotify.com/artist/57GVEttnzshGnLYIJCFeKo), [Nolan Santo](https://open.spotify.com/artist/2w4TUuwxwWPYy1eDqWolzC) | [Tu Kahe Toh \(feat\. Nolan Santo\)](https://open.spotify.com/album/7rwO4jDTCmn5njEzs5jKAK) | 2:16 |
 | 50 | [Kya Karenge](https://open.spotify.com/track/5uU4M939yF9SjiRxEyLL2E) | [Osho Jain](https://open.spotify.com/artist/41Sw7HsskHGbJOJXhLUTEK) | [Kya Karenge](https://open.spotify.com/album/16Jn9TKOvst1QG4PpRYgKc) | 3:45 |
 
-Snapshot ID: `MCw1MTkxYmZjMmVhNWU0MjZlY2ZlNjUxZDZhMmFjYTA3OTJiYmNkNDEx`
+Snapshot ID: `MCw5Yjg2NzhmODJlODM4YjlkYWVkMTEwMDNiMzdjYjgxZDQzMjU3Mzc4`

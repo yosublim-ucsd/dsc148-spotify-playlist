@@ -3061,6 +3061,28 @@
     },
     {
       "album": {
+        "name": "Falling Into Mystery",
+        "url": "https://open.spotify.com/album/5DwjKbl2SqOzkyM7IHIfNV"
+      },
+      "artists": [
+        {
+          "name": "MitiS",
+          "url": "https://open.spotify.com/artist/16yUpGkBRgc2eDMd3bB3Uw"
+        },
+        {
+          "name": "Dia Frampton",
+          "url": "https://open.spotify.com/artist/3ppkM4QtM781APpaX7H9t7"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227200,
+      "name": "Falling Into Mystery",
+      "url": "https://open.spotify.com/track/1A0ECqKGWzslHTq0KKcpPi"
+    },
+    {
+      "album": {
         "name": "far away (Crankdat Remix)",
         "url": "https://open.spotify.com/album/44Drb1IMP5Ah4VXgndZojP"
       },
@@ -3846,6 +3868,32 @@
       "duration_ms": 185032,
       "name": "Gone - N3WPORT Remix",
       "url": "https://open.spotify.com/track/16gJDi8MtCwhjTKsys9rB6"
+    },
+    {
+      "album": {
+        "name": "Gone For Good",
+        "url": "https://open.spotify.com/album/0GHEFiBavHmTcOoKqnnD18"
+      },
+      "artists": [
+        {
+          "name": "Rival",
+          "url": "https://open.spotify.com/artist/4u1nYxjl132D6rcMeYQ6Zz"
+        },
+        {
+          "name": "Jim Yosef",
+          "url": "https://open.spotify.com/artist/40HDiLfKm0tXk2FxlJx6aO"
+        },
+        {
+          "name": "Alaina Cross",
+          "url": "https://open.spotify.com/artist/0jlGRdZB3lcogSl6nuojI5"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181714,
+      "name": "Gone For Good",
+      "url": "https://open.spotify.com/track/7wrWHbHWCDka64pTNjabae"
     },
     {
       "album": {
@@ -4850,7 +4898,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-03",
       "duration_ms": 278400,
       "name": "I'll Be Your Home",
       "url": "https://open.spotify.com/track/4bGM1EMxc8n0AXPqlbAUff"
@@ -5194,7 +5242,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-03",
       "duration_ms": 268800,
       "name": "Just Like You",
       "url": "https://open.spotify.com/track/5XRvpUtk1ux7Tni2RAayDB"
@@ -8122,7 +8170,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-03",
       "duration_ms": 163500,
       "name": "Sleepy Eyes",
       "url": "https://open.spotify.com/track/1xtQcZUH8YDKPEAGMgS41P"
@@ -8354,6 +8402,28 @@
       "duration_ms": 205874,
       "name": "Stardust",
       "url": "https://open.spotify.com/track/7hgNuPmytIlYF8B6Pp4kne"
+    },
+    {
+      "album": {
+        "name": "Stardust (with HALIENE)",
+        "url": "https://open.spotify.com/album/3JVQVwr2MXoy9v0M6L2hMM"
+      },
+      "artists": [
+        {
+          "name": "Crystal Skies",
+          "url": "https://open.spotify.com/artist/6HraHl4uwIQFixUu3J49BK"
+        },
+        {
+          "name": "HALIENE",
+          "url": "https://open.spotify.com/artist/1sKIizVYeHkGy7Tjmn9QRj"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289687,
+      "name": "Stardust (with HALIENE)",
+      "url": "https://open.spotify.com/track/7eqqoIuT0InfDi1yzUhm6f"
     },
     {
       "album": {

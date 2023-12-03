@@ -1,12 +1,12 @@
 {
   "description": "Take a trip down memory lane with these noughties classics...",
-  "num_followers": 1077292,
+  "num_followers": 1077346,
   "original_name": "Easy 00s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzOWMwNWMwMzk4YjZjMDI3OTkwMDk2MmQ0Nzk5NTZmZjQxN2Q3MTBj",
+  "snapshot_id": "MCw0ZDBjOGIyZDJkY2I1YzRiYmJjYTVkOWMxNDMwODFiZDI1YThmMWRm",
   "tracks": [
     {
       "added_at": "2023-10-17 16:06:15",
@@ -211,22 +211,6 @@
     {
       "added_at": "2023-10-17 16:06:15",
       "album": {
-        "name": "In My Own Words",
-        "url": "https://open.spotify.com/album/6gkwOLmk0ALMOjWs5WhAEr"
-      },
-      "artists": [
-        {
-          "name": "Ne-Yo",
-          "url": "https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj"
-        }
-      ],
-      "duration_ms": 207186,
-      "name": "So Sick",
-      "url": "https://open.spotify.com/track/6brl7bwOHmGFkNw3MBqssT"
-    },
-    {
-      "added_at": "2023-10-17 16:06:15",
-      "album": {
         "name": "American Idiot",
         "url": "https://open.spotify.com/album/5dN7F9DV0Qg1XRdIgW8rke"
       },
@@ -239,6 +223,22 @@
       "duration_ms": 285653,
       "name": "Wake Me up When September Ends",
       "url": "https://open.spotify.com/track/3ZffCQKLFLUvYM59XKLbVm"
+    },
+    {
+      "added_at": "2023-10-17 16:06:15",
+      "album": {
+        "name": "In My Own Words",
+        "url": "https://open.spotify.com/album/6gkwOLmk0ALMOjWs5WhAEr"
+      },
+      "artists": [
+        {
+          "name": "Ne-Yo",
+          "url": "https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj"
+        }
+      ],
+      "duration_ms": 207186,
+      "name": "So Sick",
+      "url": "https://open.spotify.com/track/6brl7bwOHmGFkNw3MBqssT"
     },
     {
       "added_at": "2023-10-17 16:06:15",
@@ -331,6 +331,22 @@
     {
       "added_at": "2023-10-17 16:06:15",
       "album": {
+        "name": "This Is The Life (eDeluxe)",
+        "url": "https://open.spotify.com/album/5DaToG3KvHnUgTPqY4cEbq"
+      },
+      "artists": [
+        {
+          "name": "Amy Macdonald",
+          "url": "https://open.spotify.com/artist/1hJuGCUpefX24GFmss9bjH"
+        }
+      ],
+      "duration_ms": 184413,
+      "name": "This Is The Life",
+      "url": "https://open.spotify.com/track/2T3jgoAMbBXiMMD8pSc6QL"
+    },
+    {
+      "added_at": "2023-10-17 16:06:15",
+      "album": {
         "name": "All Or Nothing",
         "url": "https://open.spotify.com/album/2H66HrVR1UeMlAoSXpxUnk"
       },
@@ -347,22 +363,6 @@
       "duration_ms": 212506,
       "name": "Down",
       "url": "https://open.spotify.com/track/6cmm1LMvZdB5zsCwX5BjqE"
-    },
-    {
-      "added_at": "2023-10-17 16:06:15",
-      "album": {
-        "name": "This Is The Life (eDeluxe)",
-        "url": "https://open.spotify.com/album/5DaToG3KvHnUgTPqY4cEbq"
-      },
-      "artists": [
-        {
-          "name": "Amy Macdonald",
-          "url": "https://open.spotify.com/artist/1hJuGCUpefX24GFmss9bjH"
-        }
-      ],
-      "duration_ms": 184413,
-      "name": "This Is The Life",
-      "url": "https://open.spotify.com/track/2T3jgoAMbBXiMMD8pSc6QL"
     },
     {
       "added_at": "2023-10-17 16:06:15",
@@ -547,22 +547,6 @@
     {
       "added_at": "2023-10-17 16:06:15",
       "album": {
-        "name": "Come Away With Me (Super Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3ArSFkv4OQOosOvYTrZNIl"
-      },
-      "artists": [
-        {
-          "name": "Norah Jones",
-          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
-        }
-      ],
-      "duration_ms": 186251,
-      "name": "Don't Know Why",
-      "url": "https://open.spotify.com/track/1zNXF2svmdlNxfS5XeNUgr"
-    },
-    {
-      "added_at": "2023-10-17 16:06:15",
-      "album": {
         "name": "Away From The Sun",
         "url": "https://open.spotify.com/album/72olNArm75vOycSziqIX9Y"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 238733,
       "name": "Here Without You",
       "url": "https://open.spotify.com/track/3NLrRZoMF0Lx6zTlYqeIo4"
+    },
+    {
+      "added_at": "2023-10-17 16:06:15",
+      "album": {
+        "name": "Come Away With Me (Super Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3ArSFkv4OQOosOvYTrZNIl"
+      },
+      "artists": [
+        {
+          "name": "Norah Jones",
+          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
+        }
+      ],
+      "duration_ms": 186251,
+      "name": "Don't Know Why",
+      "url": "https://open.spotify.com/track/1zNXF2svmdlNxfS5XeNUgr"
     },
     {
       "added_at": "2023-10-17 16:06:15",
@@ -815,22 +815,6 @@
     {
       "added_at": "2023-10-17 16:06:15",
       "album": {
-        "name": "I AM...SASHA FIERCE",
-        "url": "https://open.spotify.com/album/39P7VD7qlg3Z0ltq60eHp7"
-      },
-      "artists": [
-        {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        }
-      ],
-      "duration_ms": 261640,
-      "name": "Halo",
-      "url": "https://open.spotify.com/track/4JehYebiI9JE8sR8MisGVb"
-    },
-    {
-      "added_at": "2023-10-17 16:06:15",
-      "album": {
         "name": "A Rush of Blood to the Head",
         "url": "https://open.spotify.com/album/0RHX9XECH8IVI3LNgWDpmQ"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 226680,
       "name": "In My Place",
       "url": "https://open.spotify.com/track/2nvC4i2aMo4CzRjRflysah"
+    },
+    {
+      "added_at": "2023-10-17 16:06:15",
+      "album": {
+        "name": "I AM...SASHA FIERCE",
+        "url": "https://open.spotify.com/album/39P7VD7qlg3Z0ltq60eHp7"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "duration_ms": 261640,
+      "name": "Halo",
+      "url": "https://open.spotify.com/track/4JehYebiI9JE8sR8MisGVb"
     },
     {
       "added_at": "2023-10-17 16:06:15",

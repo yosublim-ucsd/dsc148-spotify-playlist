@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Dale buena onda c\u00e1lida y frutal a tu d\u00eda!",
-  "num_followers": 668012,
+  "num_followers": 668063,
   "original_name": "Vibra Tropical",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMzM4ZGZkYzM0Y2ZjNTQ3YTljYThiNzhmMzRhODFjNGNhOTVjMWJl",
+  "snapshot_id": "MCwxYzUxMGRkNTA2NjNjYzU4Y2U3MmFkODAzYmU1N2RjZGMzNThhZDYy",
   "tracks": [
     {
       "added_at": "2021-10-20 20:06:54",
@@ -547,6 +547,22 @@
     {
       "added_at": "2021-10-20 20:06:54",
       "album": {
+        "name": "Fuerte Y Caliente",
+        "url": "https://open.spotify.com/album/1kuQaIG6KmIRjcbB32bVc8"
+      },
+      "artists": [
+        {
+          "name": "Onda Vaga",
+          "url": "https://open.spotify.com/artist/3cBb4A9AZeZhcq781P3wCZ"
+        }
+      ],
+      "duration_ms": 220695,
+      "name": "Mambeado",
+      "url": "https://open.spotify.com/track/1qbt0lhWF7LGtPFA4DxXjt"
+    },
+    {
+      "added_at": "2021-10-20 20:06:54",
+      "album": {
         "name": "Cumbia Sobre el Mar / Inmortales (El B\u00faho Remixes)",
         "url": "https://open.spotify.com/album/1iHJ1yT7T5juouGV7IkeRN"
       },
@@ -567,22 +583,6 @@
       "duration_ms": 312914,
       "name": "Cumbia Sobre el Mar - El B\u00faho Remix",
       "url": "https://open.spotify.com/track/0p8LlXT1FG9vnrCH70dbuo"
-    },
-    {
-      "added_at": "2021-10-20 20:06:54",
-      "album": {
-        "name": "Fuerte Y Caliente",
-        "url": "https://open.spotify.com/album/1kuQaIG6KmIRjcbB32bVc8"
-      },
-      "artists": [
-        {
-          "name": "Onda Vaga",
-          "url": "https://open.spotify.com/artist/3cBb4A9AZeZhcq781P3wCZ"
-        }
-      ],
-      "duration_ms": 220695,
-      "name": "Mambeado",
-      "url": "https://open.spotify.com/track/1qbt0lhWF7LGtPFA4DxXjt"
     },
     {
       "added_at": "2021-10-20 20:06:54",
@@ -709,6 +709,22 @@
       "url": "https://open.spotify.com/track/2Z82k4TZ7rLmyxrw8ApeQI"
     },
     {
+      "added_at": "2022-02-18 18:50:25",
+      "album": {
+        "name": "Laura Itandehui",
+        "url": "https://open.spotify.com/album/4LS3jrPzt2givh5P1n98Ot"
+      },
+      "artists": [
+        {
+          "name": "Laura Itandehui",
+          "url": "https://open.spotify.com/artist/3uxDXFazxpQa87VTMJAdcK"
+        }
+      ],
+      "duration_ms": 171750,
+      "name": "Yo no Necesito de Mucho",
+      "url": "https://open.spotify.com/track/6lEr0uF4mJJAODSXfQ6WvR"
+    },
+    {
       "added_at": "2021-10-20 20:06:54",
       "album": {
         "name": "Mar",
@@ -727,22 +743,6 @@
       "duration_ms": 238253,
       "name": "Mar",
       "url": "https://open.spotify.com/track/4V2zyfggF3TXlihp7llTJm"
-    },
-    {
-      "added_at": "2022-02-18 18:50:25",
-      "album": {
-        "name": "Laura Itandehui",
-        "url": "https://open.spotify.com/album/4LS3jrPzt2givh5P1n98Ot"
-      },
-      "artists": [
-        {
-          "name": "Laura Itandehui",
-          "url": "https://open.spotify.com/artist/3uxDXFazxpQa87VTMJAdcK"
-        }
-      ],
-      "duration_ms": 171750,
-      "name": "Yo no Necesito de Mucho",
-      "url": "https://open.spotify.com/track/6lEr0uF4mJJAODSXfQ6WvR"
     },
     {
       "added_at": "2021-10-20 20:06:54",
@@ -783,6 +783,22 @@
     {
       "added_at": "2021-10-20 20:06:54",
       "album": {
+        "name": "R\u00fambala",
+        "url": "https://open.spotify.com/album/4yf3TyT75f33sAq1o1ORuR"
+      },
+      "artists": [
+        {
+          "name": "Eva de Marce",
+          "url": "https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E"
+        }
+      ],
+      "duration_ms": 178823,
+      "name": "R\u00fambala",
+      "url": "https://open.spotify.com/track/0YjGcWlFaksNtsCIxfrmur"
+    },
+    {
+      "added_at": "2021-10-20 20:06:54",
+      "album": {
         "name": "Quisiera",
         "url": "https://open.spotify.com/album/1hxhKktk2u9gTPms7c8fv9"
       },
@@ -803,22 +819,6 @@
       "duration_ms": 233333,
       "name": "Quisiera",
       "url": "https://open.spotify.com/track/7v0WvqGq7auy99Nydgc6YJ"
-    },
-    {
-      "added_at": "2021-10-20 20:06:54",
-      "album": {
-        "name": "R\u00fambala",
-        "url": "https://open.spotify.com/album/4yf3TyT75f33sAq1o1ORuR"
-      },
-      "artists": [
-        {
-          "name": "Eva de Marce",
-          "url": "https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E"
-        }
-      ],
-      "duration_ms": 178823,
-      "name": "R\u00fambala",
-      "url": "https://open.spotify.com/track/0YjGcWlFaksNtsCIxfrmur"
     },
     {
       "added_at": "2021-10-20 20:06:54",
@@ -1471,6 +1471,26 @@
     {
       "added_at": "2021-10-20 20:06:54",
       "album": {
+        "name": "Ta Que Tiembla (Pachyman Remix)",
+        "url": "https://open.spotify.com/album/47R62dwZJFZzeiYH9IPBW6"
+      },
+      "artists": [
+        {
+          "name": "Buscabulla",
+          "url": "https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R"
+        },
+        {
+          "name": "Pachyman",
+          "url": "https://open.spotify.com/artist/515f4vsvg0JQWrmt7qpR6l"
+        }
+      ],
+      "duration_ms": 201290,
+      "name": "Ta Que Tiembla - Pachyman Remix",
+      "url": "https://open.spotify.com/track/0m1pyzxZBiDy4wWTdNY5mU"
+    },
+    {
+      "added_at": "2021-10-20 20:06:54",
+      "album": {
         "name": "Pa'lante",
         "url": "https://open.spotify.com/album/11JyLJwjtga29NFZwreG6o"
       },
@@ -1547,26 +1567,6 @@
       "duration_ms": 236058,
       "name": "Pa'lante",
       "url": "https://open.spotify.com/track/2Zh91nwJJNTyE6WzXfuZrO"
-    },
-    {
-      "added_at": "2021-10-20 20:06:54",
-      "album": {
-        "name": "Ta Que Tiembla (Pachyman Remix)",
-        "url": "https://open.spotify.com/album/47R62dwZJFZzeiYH9IPBW6"
-      },
-      "artists": [
-        {
-          "name": "Buscabulla",
-          "url": "https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R"
-        },
-        {
-          "name": "Pachyman",
-          "url": "https://open.spotify.com/artist/515f4vsvg0JQWrmt7qpR6l"
-        }
-      ],
-      "duration_ms": 201290,
-      "name": "Ta Que Tiembla - Pachyman Remix",
-      "url": "https://open.spotify.com/track/0m1pyzxZBiDy4wWTdNY5mU"
     },
     {
       "added_at": "2021-10-20 20:06:54",
@@ -1835,6 +1835,22 @@
     {
       "added_at": "2021-10-20 20:06:54",
       "album": {
+        "name": "Pescador de Sue\u00f1os",
+        "url": "https://open.spotify.com/album/1DtKs4ri0nya6YmWd6WlrP"
+      },
+      "artists": [
+        {
+          "name": "Ramon Chicharron",
+          "url": "https://open.spotify.com/artist/5tRvJi08ALKPOojVS4ch5s"
+        }
+      ],
+      "duration_ms": 238861,
+      "name": "Mi Querer",
+      "url": "https://open.spotify.com/track/0zkPY5HjDwraDSJtAidTCb"
+    },
+    {
+      "added_at": "2021-10-20 20:06:54",
+      "album": {
         "name": "Espiritual",
         "url": "https://open.spotify.com/album/0pzR57yGM9wOsRzmVU64lP"
       },
@@ -1849,20 +1865,20 @@
       "url": "https://open.spotify.com/track/5XU7fx5eLBb8C3uFYqikrQ"
     },
     {
-      "added_at": "2021-10-20 20:06:54",
+      "added_at": "2022-01-04 01:50:46",
       "album": {
-        "name": "Pescador de Sue\u00f1os",
-        "url": "https://open.spotify.com/album/1DtKs4ri0nya6YmWd6WlrP"
+        "name": "Easy and Tropical Machine",
+        "url": "https://open.spotify.com/album/2xuXKaxaZ613NFmMZA6m26"
       },
       "artists": [
         {
-          "name": "Ramon Chicharron",
-          "url": "https://open.spotify.com/artist/5tRvJi08ALKPOojVS4ch5s"
+          "name": "Los Aguas Aguas",
+          "url": "https://open.spotify.com/artist/6MlrTBeZE2S1lUxSD6x8wG"
         }
       ],
-      "duration_ms": 238861,
-      "name": "Mi Querer",
-      "url": "https://open.spotify.com/track/0zkPY5HjDwraDSJtAidTCb"
+      "duration_ms": 236200,
+      "name": "Cumbia Reggae",
+      "url": "https://open.spotify.com/track/72Fa1rmc3H7WIQ6t68tk4A"
     },
     {
       "added_at": "2021-10-20 20:06:54",
@@ -1883,22 +1899,6 @@
       "duration_ms": 327923,
       "name": "Sonora",
       "url": "https://open.spotify.com/track/40dO8vPGa93ccLunHyN9cK"
-    },
-    {
-      "added_at": "2022-01-04 01:50:46",
-      "album": {
-        "name": "Easy and Tropical Machine",
-        "url": "https://open.spotify.com/album/2xuXKaxaZ613NFmMZA6m26"
-      },
-      "artists": [
-        {
-          "name": "Los Aguas Aguas",
-          "url": "https://open.spotify.com/artist/6MlrTBeZE2S1lUxSD6x8wG"
-        }
-      ],
-      "duration_ms": 236200,
-      "name": "Cumbia Reggae",
-      "url": "https://open.spotify.com/track/72Fa1rmc3H7WIQ6t68tk4A"
     }
   ],
   "unique_name": "Vibra Tropical",

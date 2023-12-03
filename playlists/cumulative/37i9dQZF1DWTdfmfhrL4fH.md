@@ -4,7 +4,7 @@
 
 > Any songs you forgot existed? Let's go deep into 2010s rock!  Cover: Papa Roach.
 
-559 songs - 1 day 11 hr 2 min
+560 songs - 1 day 11 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [1000hp](https://open.spotify.com/track/3NW1h8l6EY5N6HNBL83S4V) | [Godsmack](https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF) | [1000hp](https://open.spotify.com/album/43crHBVr5O6Z71eLsvq0JG) | 3:46 | 2022-05-25 | 2022-07-29 |
 | [16](https://open.spotify.com/track/7jHJ2MzIKO1kIMxGamKRKn) | [Highly Suspect](https://open.spotify.com/artist/2pqd3HsfsvcBGtHvPOg6eg) | [MCID](https://open.spotify.com/album/16ah4zHJlxx3wjRFg3nkSl) | 4:38 | 2022-05-25 |  |
 | [18 Days](https://open.spotify.com/track/2UlFbS4EtiIj7uLeUvvOMJ) | [Saving Abel](https://open.spotify.com/artist/2AVVj8ezW2mJ0v8u7XydiF) | [Saving Abel](https://open.spotify.com/album/6Nft5QnHcxYvLwAQc3mo8O) | 3:51 | 2022-05-25 | 2022-11-13 |
+| [2all](https://open.spotify.com/track/0ZfEeIu7CNHQhbCTiVv3cx) | [Catfish and the Bottlemen](https://open.spotify.com/artist/2xaAOVImG2O6lURwqperlD) | [The Balance](https://open.spotify.com/album/0eELSmJrZpzOKfdO80nJ9r) | 3:08 | 2023-01-18 |  |
 | [7 Shots](https://open.spotify.com/track/0AC4FTnX5dRE1Fvk0cpGoN) | [Volbeat](https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT) | [Beyond Hell / Above Heaven](https://open.spotify.com/album/2gBziT8McYGmC7Vzf4BsK9) | 4:43 | 2022-05-25 | 2022-07-22 |
 | [A Change Is Gonna Come](https://open.spotify.com/track/12YYFvwwuYiw010ONgfYlW) | [Greta Van Fleet](https://open.spotify.com/artist/4NpFxQe2UvRCAjto3JqlSl) | [From The Fires](https://open.spotify.com/album/6uSnHSIBGKUiW1uKQLYZ7w) | 3:17 | 2022-05-25 |  |
 | [A Match Into Water](https://open.spotify.com/track/54MXF9I8s3DuiQo3g0gZ5k) | [Pierce The Veil](https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv) | [Collide With The Sky](https://open.spotify.com/album/661Hz0qJK8WIp7vAWsqKvk) | 3:32 | 2022-05-25 |  |
@@ -129,7 +130,7 @@
 | [Degenerates](https://open.spotify.com/track/77Ht6FFAeyHgKl6X87mnTk) | [A Day To Remember](https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN) | [Degenerates](https://open.spotify.com/album/3G3EHIjrfZAcy6w5zIOggZ) | 3:04 | 2022-05-25 | 2022-07-29 |
 | [DIE FOR YOU](https://open.spotify.com/track/4cExQhQ0i34yZcoDsHFMV6) | [STARSET](https://open.spotify.com/artist/0kD8IT1CzF7js2XKM9lLLa) | [Vessels](https://open.spotify.com/album/4iJ9B2uDKJzclQo7U9BqS8) | 5:17 | 2022-05-25 |  |
 | [Die To Live](https://open.spotify.com/track/7u9r4j7KSMW5yLsgjLRZGZ) | [Volbeat](https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT), [Neil Fallon](https://open.spotify.com/artist/1PvBXGOTvO3zrbDtL5mKEB) | [Rewind, Replay, Rebound \(Deluxe\)](https://open.spotify.com/album/700dWAqcIsUkNJ1WN1XPT5) | 3:02 | 2022-05-25 |  |
-| [Dig Down](https://open.spotify.com/track/0RILico3Gbl5jxSNg3zLrJ) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Simulation Theory \(Super Deluxe\)](https://open.spotify.com/album/5OZgDtx180ZZPMpm36J2zC) | 3:48 | 2022-05-25 | 2023-12-02 |
+| [Dig Down](https://open.spotify.com/track/0RILico3Gbl5jxSNg3zLrJ) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Simulation Theory \(Super Deluxe\)](https://open.spotify.com/album/5OZgDtx180ZZPMpm36J2zC) | 3:48 | 2022-05-25 |  |
 | [Dirty Girl](https://open.spotify.com/track/14OBGVZHB5KEWoYyr5Lb2w) | [Slash](https://open.spotify.com/artist/4Cqia9vrAbm7ANXbJGXsTE) | [World on Fire](https://open.spotify.com/album/0HBgPC1vbZUmQziDZS78Rg) | 4:14 | 2022-05-25 | 2022-07-29 |
 | [Do It Now Remember It Later](https://open.spotify.com/track/3I9c2OFpB0al6qmYNcyMht) | [Sleeping With Sirens](https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA) | [Let's Cheers To This](https://open.spotify.com/album/3RSJ0kbP7TxLRqH7BqX8Gl) | 3:23 | 2023-01-18 |  |
 | [Do It Now Remember It Later](https://open.spotify.com/track/3ikf8zLuO1MACbNFfDvJ12) | [Sleeping With Sirens](https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA) | [Let's Cheers To This](https://open.spotify.com/album/4TuNgoALZ10zEOHgfkxs8T) | 3:23 | 2022-05-25 | 2023-11-04 |
@@ -191,7 +192,7 @@
 | [Gunfight](https://open.spotify.com/track/0is4yL58CcQ4Gv4WgTGr9N) | [Sick Puppies](https://open.spotify.com/artist/7qAcXJgt1PWnxwUgxMdyuk) | [Connect](https://open.spotify.com/album/6rL7tAqRqT4DL4I1bcADTi) | 2:55 | 2022-05-25 |  |
 | [Guns + Ammunition](https://open.spotify.com/track/4NDBNZNg0F50CA6DQ7ZTaZ) | [July Talk](https://open.spotify.com/artist/3EaMbsBlExxNxLvTJcZvDq) | [July Talk](https://open.spotify.com/album/5H9mMHSZOI9rm6nQt87cUc) | 3:04 | 2022-05-25 | 2022-07-20 |
 | [Hallelujah](https://open.spotify.com/track/4hTg9q0AnxtH4yZKeRcMin) | [Theory of a Deadman](https://open.spotify.com/artist/74eX4C98E4FCrAMl39qRsJ) | [Hallelujah](https://open.spotify.com/album/3KHkCXWAJANXQztdpMmKt4) | 4:43 | 2022-05-25 | 2023-04-03 |
-| [Halo](https://open.spotify.com/track/00CqEmnPLFKDhAb3cuu6Cs) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Melophobia](https://open.spotify.com/album/4EK8gtQfdVsmDTji7gBFlz) | 2:57 | 2022-05-25 |  |
+| [Halo](https://open.spotify.com/track/00CqEmnPLFKDhAb3cuu6Cs) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Melophobia](https://open.spotify.com/album/4EK8gtQfdVsmDTji7gBFlz) | 2:57 | 2022-05-25 | 2023-12-03 |
 | [Hands](https://open.spotify.com/track/4n2G1Wxz1gYxe7AhYV7N9E) | [Barns Courtney](https://open.spotify.com/artist/5tFRohaO5yEsuJxmMnlCO9) | [The Attractions Of Youth](https://open.spotify.com/album/2pWDyiJFya59ue0391kzSl) | 3:11 | 2022-05-25 | 2022-07-25 |
 | [Happy Idiot](https://open.spotify.com/track/63mnZ0zF5fBwJzYg2pDo9e) | [TV On The Radio](https://open.spotify.com/artist/3HJIB8sYPyxrFGuwvKXSLR) | [Seeds](https://open.spotify.com/album/2pJdnCpeXm3KVUlyuNSeRX) | 3:03 | 2022-05-25 |  |
 | [HARD LOVE](https://open.spotify.com/track/0xcFH3973DZauDkGnNjMgm) | [NEEDTOBREATHE](https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G) | [H A R D L O V E](https://open.spotify.com/album/0DjJIQPOsxd5OiUoVskRBH) | 3:34 | 2023-01-18 |  |
@@ -492,7 +493,7 @@
 | [The Fear](https://open.spotify.com/track/2cppGOIz0cuDnKoGzrDsJQ) | [The Score](https://open.spotify.com/artist/2q3GG88dVwuQPF4FmySr9I) | [Pressure](https://open.spotify.com/album/4enE8eppWJ9fQXLqTP2TDE) | 3:03 | 2022-05-25 |  |
 | [The Gates Of Babylon](https://open.spotify.com/track/48csvbvWNuVTqWDa81f5Sq) | [Volbeat](https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT) | [Seal The Deal & Let's Boogie \(Deluxe\)](https://open.spotify.com/album/3v78ZZiv9L2Fb5x5fC8kVC) | 4:34 | 2022-05-25 | 2022-07-29 |
 | [The Ghost Inside](https://open.spotify.com/track/32fmQsWSAaDas2MJRyMSGG) | [Broken Bells](https://open.spotify.com/artist/6dgwEwnK0YtDfS9XhRwBTG) | [Broken Bells](https://open.spotify.com/album/0X7WyEKdm5afGj1fmD7Blx) | 3:18 | 2022-05-25 |  |
-| [The Ghosts of Beverly Drive](https://open.spotify.com/track/6wNCdMW82LwJgFrnGqLhpJ) | [Death Cab for Cutie](https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx) | [Kintsugi](https://open.spotify.com/album/6BK3muExDOuk0VnyMn9NVw) | 4:03 | 2023-01-18 |  |
+| [The Ghosts of Beverly Drive](https://open.spotify.com/track/6wNCdMW82LwJgFrnGqLhpJ) | [Death Cab for Cutie](https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx) | [Kintsugi](https://open.spotify.com/album/6BK3muExDOuk0VnyMn9NVw) | 4:03 | 2023-01-18 | 2023-12-03 |
 | [The Gold](https://open.spotify.com/track/3EytfC22ikoXM921cJbejn) | [Manchester Orchestra](https://open.spotify.com/artist/5wFXmYsg3KFJ8BDsQudJ4f) | [A Black Mile To The Surface](https://open.spotify.com/album/4hruYceqit29o6m4arpAql) | 4:33 | 2022-05-25 |  |
 | [The Good Life](https://open.spotify.com/track/55KYlnsC6nYnr3IykbmJwE) | [Three Days Grace](https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj) | [Life Starts Now](https://open.spotify.com/album/0vv1zKShlm7WuawEup5Mf4) | 2:53 | 2022-05-25 |  |
 | [The Great Die\-Off](https://open.spotify.com/track/2M5Qa1TnBNowIYpiUCCca4) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [The Black Market](https://open.spotify.com/album/65jmbHYm42IEATHEJCbKgC) | 3:39 | 2022-05-25 | 2022-07-29 |

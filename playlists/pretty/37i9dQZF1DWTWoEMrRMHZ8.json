@@ -1,12 +1,12 @@
 {
   "description": "As belas novidades da MPB. Foto: Marisa Monte",
-  "num_followers": 347728,
+  "num_followers": 347788,
   "original_name": "Divina MPB",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNWU1ODZjYjBjOWJjNzExMTIzMTUwNDk1MjJjZDIxYWVjOTIxNzg2",
+  "snapshot_id": "MCwwNDQzOTY5NTRkNmRkN2MzMDI3YzY1NzE3NWQ0MDU0MmIyMjdhODc0",
   "tracks": [
     {
       "added_at": "2023-11-24 08:34:02",
@@ -343,6 +343,22 @@
     {
       "added_at": "2023-11-24 08:34:02",
       "album": {
+        "name": "Mensagem de Amor (20\u00b0 Anivers\u00e1rio)",
+        "url": "https://open.spotify.com/album/3vCdZZO5Q0gxSUblcsSZtq"
+      },
+      "artists": [
+        {
+          "name": "Lucas Santtana",
+          "url": "https://open.spotify.com/artist/67muZL7DIwZwLnH9BFfI5Z"
+        }
+      ],
+      "duration_ms": 229426,
+      "name": "Mensagem de Amor (20\u00b0 Anivers\u00e1rio)",
+      "url": "https://open.spotify.com/track/73sHSwoXam1tNDWEwEfHWe"
+    },
+    {
+      "added_at": "2023-11-24 08:34:02",
+      "album": {
         "name": "Codinome Beija-Flor",
         "url": "https://open.spotify.com/album/2aoPktEuK22sa3LfIzXVBv"
       },
@@ -359,22 +375,6 @@
       "duration_ms": 149000,
       "name": "Codinome Beija-Flor",
       "url": "https://open.spotify.com/track/1xvxg4ozT4BraLO662IEwA"
-    },
-    {
-      "added_at": "2023-11-24 08:34:02",
-      "album": {
-        "name": "Mensagem de Amor (20\u00b0 Anivers\u00e1rio)",
-        "url": "https://open.spotify.com/album/3vCdZZO5Q0gxSUblcsSZtq"
-      },
-      "artists": [
-        {
-          "name": "Lucas Santtana",
-          "url": "https://open.spotify.com/artist/67muZL7DIwZwLnH9BFfI5Z"
-        }
-      ],
-      "duration_ms": 229426,
-      "name": "Mensagem de Amor (20\u00b0 Anivers\u00e1rio)",
-      "url": "https://open.spotify.com/track/73sHSwoXam1tNDWEwEfHWe"
     },
     {
       "added_at": "2023-11-24 08:34:02",
@@ -475,18 +475,26 @@
     {
       "added_at": "2023-11-24 08:34:02",
       "album": {
-        "name": "Meu Coco",
-        "url": "https://open.spotify.com/album/2WeCBdtzqLePJpI28q0mjz"
+        "name": "N\u00f3s e o Mar",
+        "url": "https://open.spotify.com/album/2D17MtpiNuMjRABN5GpviU"
       },
       "artists": [
         {
-          "name": "Caetano Veloso",
-          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
+          "name": "Roberto Menescal",
+          "url": "https://open.spotify.com/artist/2r1d0isPFggU8QaBzvAWmG"
+        },
+        {
+          "name": "Diogo Monzo",
+          "url": "https://open.spotify.com/artist/5WQDCMkE5lMq5H0lkHKQmc"
+        },
+        {
+          "name": "Ricardo Bacelar",
+          "url": "https://open.spotify.com/artist/0ydGW5O1ai60prNBXKWSbF"
         }
       ],
-      "duration_ms": 212014,
-      "name": "Sem Samba N\u00e3o D\u00e1",
-      "url": "https://open.spotify.com/track/1pIwgYq2uM1Q2nu9DTODGP"
+      "duration_ms": 233273,
+      "name": "O Barquinho",
+      "url": "https://open.spotify.com/track/1wfW4rHqRsodDpnH1fOD5R"
     },
     {
       "added_at": "2023-11-24 08:34:02",
@@ -511,26 +519,18 @@
     {
       "added_at": "2023-11-24 08:34:02",
       "album": {
-        "name": "N\u00f3s e o Mar",
-        "url": "https://open.spotify.com/album/2D17MtpiNuMjRABN5GpviU"
+        "name": "Meu Coco",
+        "url": "https://open.spotify.com/album/2WeCBdtzqLePJpI28q0mjz"
       },
       "artists": [
         {
-          "name": "Roberto Menescal",
-          "url": "https://open.spotify.com/artist/2r1d0isPFggU8QaBzvAWmG"
-        },
-        {
-          "name": "Diogo Monzo",
-          "url": "https://open.spotify.com/artist/5WQDCMkE5lMq5H0lkHKQmc"
-        },
-        {
-          "name": "Ricardo Bacelar",
-          "url": "https://open.spotify.com/artist/0ydGW5O1ai60prNBXKWSbF"
+          "name": "Caetano Veloso",
+          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
         }
       ],
-      "duration_ms": 233273,
-      "name": "O Barquinho",
-      "url": "https://open.spotify.com/track/1wfW4rHqRsodDpnH1fOD5R"
+      "duration_ms": 212014,
+      "name": "Sem Samba N\u00e3o D\u00e1",
+      "url": "https://open.spotify.com/track/1pIwgYq2uM1Q2nu9DTODGP"
     },
     {
       "added_at": "2023-11-24 08:34:02",
@@ -747,26 +747,6 @@
     {
       "added_at": "2023-11-24 08:34:02",
       "album": {
-        "name": "Dia Branco",
-        "url": "https://open.spotify.com/album/20IoTN6bXOSLg8rclKnkeb"
-      },
-      "artists": [
-        {
-          "name": "Geraldo Azevedo",
-          "url": "https://open.spotify.com/artist/65TbyndeGrDlFd4IkZNfbN"
-        },
-        {
-          "name": "Chico C\u00e9sar",
-          "url": "https://open.spotify.com/artist/3vlUveVfzPXzhiPGjHHxOH"
-        }
-      ],
-      "duration_ms": 147899,
-      "name": "Dia Branco",
-      "url": "https://open.spotify.com/track/1BRJxe2ozG73rxff5jyvjv"
-    },
-    {
-      "added_at": "2023-11-24 08:34:02",
-      "album": {
         "name": "Nu Com a Minha M\u00fasica (EP)",
         "url": "https://open.spotify.com/album/576YsQ9t7f2WGkne7NL6Gw"
       },
@@ -783,18 +763,22 @@
     {
       "added_at": "2023-11-24 08:34:02",
       "album": {
-        "name": "Se O Meu Peito Fosse O Mundo (Lado A)",
-        "url": "https://open.spotify.com/album/1Gek78mZmJYLX2dVejnAN4"
+        "name": "Dia Branco",
+        "url": "https://open.spotify.com/album/20IoTN6bXOSLg8rclKnkeb"
       },
       "artists": [
         {
-          "name": "Jota.p\u00ea",
-          "url": "https://open.spotify.com/artist/17MzHbvKuzJje12SxWY9wN"
+          "name": "Geraldo Azevedo",
+          "url": "https://open.spotify.com/artist/65TbyndeGrDlFd4IkZNfbN"
+        },
+        {
+          "name": "Chico C\u00e9sar",
+          "url": "https://open.spotify.com/artist/3vlUveVfzPXzhiPGjHHxOH"
         }
       ],
-      "duration_ms": 177099,
-      "name": "Um, Dois, Tr\u00eas",
-      "url": "https://open.spotify.com/track/4TB1pJy7ReBCbJtO1b4U7i"
+      "duration_ms": 147899,
+      "name": "Dia Branco",
+      "url": "https://open.spotify.com/track/1BRJxe2ozG73rxff5jyvjv"
     },
     {
       "added_at": "2023-11-24 08:34:02",
@@ -831,6 +815,22 @@
       "duration_ms": 272559,
       "name": "Pago Pra Ver",
       "url": "https://open.spotify.com/track/51i39xBUMKudsDCPqjQF1h"
+    },
+    {
+      "added_at": "2023-11-24 08:34:02",
+      "album": {
+        "name": "Se O Meu Peito Fosse O Mundo (Lado A)",
+        "url": "https://open.spotify.com/album/1Gek78mZmJYLX2dVejnAN4"
+      },
+      "artists": [
+        {
+          "name": "Jota.p\u00ea",
+          "url": "https://open.spotify.com/artist/17MzHbvKuzJje12SxWY9wN"
+        }
+      ],
+      "duration_ms": 177099,
+      "name": "Um, Dois, Tr\u00eas",
+      "url": "https://open.spotify.com/track/4TB1pJy7ReBCbJtO1b4U7i"
     },
     {
       "added_at": "2023-11-24 08:34:02",
@@ -1163,6 +1163,26 @@
     {
       "added_at": "2023-11-24 08:34:02",
       "album": {
+        "name": "A Menina Da Felicidade",
+        "url": "https://open.spotify.com/album/6ntWpW5Vr7cEzvj3VIX0AT"
+      },
+      "artists": [
+        {
+          "name": "Erasmo Carlos",
+          "url": "https://open.spotify.com/artist/6cHQUDAPGKRE2NbVjBlOcz"
+        },
+        {
+          "name": "Gaby Amarantos",
+          "url": "https://open.spotify.com/artist/5kn7l4yaJxtNhj583LmL9L"
+        }
+      ],
+      "duration_ms": 211914,
+      "name": "A Menina Da Felicidade",
+      "url": "https://open.spotify.com/track/1ZPNgIHGgtoaY4wjdHOvIu"
+    },
+    {
+      "added_at": "2023-11-24 08:34:02",
+      "album": {
         "name": "Saudade Fez um Samba",
         "url": "https://open.spotify.com/album/7nUUtvmgriNDiRYrgJmiG7"
       },
@@ -1187,26 +1207,6 @@
     {
       "added_at": "2023-11-24 08:34:02",
       "album": {
-        "name": "Preciso Me Encontrar",
-        "url": "https://open.spotify.com/album/168Yh2b1a17bk6sCoQwllU"
-      },
-      "artists": [
-        {
-          "name": "Agnes Nunes",
-          "url": "https://open.spotify.com/artist/0OVOH98bZTn0lsdL7MclGw"
-        },
-        {
-          "name": "Pl\u00ednio Profeta",
-          "url": "https://open.spotify.com/artist/1pLubahqY7XYZ83pBJ37U2"
-        }
-      ],
-      "duration_ms": 168681,
-      "name": "Preciso Me Encontrar",
-      "url": "https://open.spotify.com/track/6zN82PWvDughq3NzbUNIxR"
-    },
-    {
-      "added_at": "2023-11-24 08:34:02",
-      "album": {
         "name": "Novas Cores, Eternas Can\u00e7\u00f5es",
         "url": "https://open.spotify.com/album/0zGWOMHfPEXWn1ZPE1Idjl"
       },
@@ -1227,22 +1227,22 @@
     {
       "added_at": "2023-11-24 08:34:02",
       "album": {
-        "name": "A Menina Da Felicidade",
-        "url": "https://open.spotify.com/album/6ntWpW5Vr7cEzvj3VIX0AT"
+        "name": "Preciso Me Encontrar",
+        "url": "https://open.spotify.com/album/168Yh2b1a17bk6sCoQwllU"
       },
       "artists": [
         {
-          "name": "Erasmo Carlos",
-          "url": "https://open.spotify.com/artist/6cHQUDAPGKRE2NbVjBlOcz"
+          "name": "Agnes Nunes",
+          "url": "https://open.spotify.com/artist/0OVOH98bZTn0lsdL7MclGw"
         },
         {
-          "name": "Gaby Amarantos",
-          "url": "https://open.spotify.com/artist/5kn7l4yaJxtNhj583LmL9L"
+          "name": "Pl\u00ednio Profeta",
+          "url": "https://open.spotify.com/artist/1pLubahqY7XYZ83pBJ37U2"
         }
       ],
-      "duration_ms": 211914,
-      "name": "A Menina Da Felicidade",
-      "url": "https://open.spotify.com/track/1ZPNgIHGgtoaY4wjdHOvIu"
+      "duration_ms": 168681,
+      "name": "Preciso Me Encontrar",
+      "url": "https://open.spotify.com/track/6zN82PWvDughq3NzbUNIxR"
     },
     {
       "added_at": "2023-11-24 08:34:02",
@@ -1443,42 +1443,6 @@
     {
       "added_at": "2023-11-24 08:34:02",
       "album": {
-        "name": "Paci\u00eancia",
-        "url": "https://open.spotify.com/album/6cXORwSG04rxXhOJwYDNYK"
-      },
-      "artists": [
-        {
-          "name": "A Banda Mais Bonita da Cidade",
-          "url": "https://open.spotify.com/artist/2vyvksxB1aCmd0vl2geGYR"
-        }
-      ],
-      "duration_ms": 226240,
-      "name": "Paci\u00eancia",
-      "url": "https://open.spotify.com/track/0Mqz6vciorU81IDJf1Q7X9"
-    },
-    {
-      "added_at": "2023-11-24 08:34:02",
-      "album": {
-        "name": "Novas Cores, Eternas Can\u00e7\u00f5es (Deluxe)",
-        "url": "https://open.spotify.com/album/7nowUNu0pHcEL9qK24CfRR"
-      },
-      "artists": [
-        {
-          "name": "Toquinho",
-          "url": "https://open.spotify.com/artist/7rPqFVgJYARiFsLDlN6W6y"
-        },
-        {
-          "name": "Mart'n\u00e1lia",
-          "url": "https://open.spotify.com/artist/4EUuQxMNowMUEs5gu4BzBX"
-        }
-      ],
-      "duration_ms": 165815,
-      "name": "Regra Tr\u00eas",
-      "url": "https://open.spotify.com/track/31P41KIR8XuaRnBw0IMswD"
-    },
-    {
-      "added_at": "2023-11-24 08:34:02",
-      "album": {
         "name": "Errante",
         "url": "https://open.spotify.com/album/6vrGTfdekueBX6lV9YJpSn"
       },
@@ -1491,6 +1455,22 @@
       "duration_ms": 290141,
       "name": "Pra Lhe Dizer",
       "url": "https://open.spotify.com/track/3JFCXwHB6uc1K4A5GtFnW3"
+    },
+    {
+      "added_at": "2023-11-24 08:34:02",
+      "album": {
+        "name": "Paci\u00eancia",
+        "url": "https://open.spotify.com/album/6cXORwSG04rxXhOJwYDNYK"
+      },
+      "artists": [
+        {
+          "name": "A Banda Mais Bonita da Cidade",
+          "url": "https://open.spotify.com/artist/2vyvksxB1aCmd0vl2geGYR"
+        }
+      ],
+      "duration_ms": 226240,
+      "name": "Paci\u00eancia",
+      "url": "https://open.spotify.com/track/0Mqz6vciorU81IDJf1Q7X9"
     },
     {
       "added_at": "2023-11-24 08:34:02",
@@ -1511,6 +1491,26 @@
       "duration_ms": 319000,
       "name": "Papel Mach\u00ea",
       "url": "https://open.spotify.com/track/4LLd9bypGJLoHO0mK1twcn"
+    },
+    {
+      "added_at": "2023-11-24 08:34:02",
+      "album": {
+        "name": "Novas Cores, Eternas Can\u00e7\u00f5es (Deluxe)",
+        "url": "https://open.spotify.com/album/7nowUNu0pHcEL9qK24CfRR"
+      },
+      "artists": [
+        {
+          "name": "Toquinho",
+          "url": "https://open.spotify.com/artist/7rPqFVgJYARiFsLDlN6W6y"
+        },
+        {
+          "name": "Mart'n\u00e1lia",
+          "url": "https://open.spotify.com/artist/4EUuQxMNowMUEs5gu4BzBX"
+        }
+      ],
+      "duration_ms": 165815,
+      "name": "Regra Tr\u00eas",
+      "url": "https://open.spotify.com/track/31P41KIR8XuaRnBw0IMswD"
     },
     {
       "added_at": "2023-11-24 08:34:02",
@@ -1563,30 +1563,6 @@
     {
       "added_at": "2023-11-24 08:34:02",
       "album": {
-        "name": "Aqui em Casa (Ep 02)",
-        "url": "https://open.spotify.com/album/55d26HxQZEQLu4Kny8Ce6B"
-      },
-      "artists": [
-        {
-          "name": "Mariana Aydar",
-          "url": "https://open.spotify.com/artist/3rE82NMVBb5C5tQ83o8u8N"
-        },
-        {
-          "name": "Fejuca",
-          "url": "https://open.spotify.com/artist/6ZTlDR8IfFjPGqQmcOj2vj"
-        },
-        {
-          "name": "Roberta S\u00e1",
-          "url": "https://open.spotify.com/artist/4vKCAkbdulcqatglgbi5CG"
-        }
-      ],
-      "duration_ms": 234405,
-      "name": "Aqui em Casa",
-      "url": "https://open.spotify.com/track/3AtSBHBXc5rN50VrJQmTTe"
-    },
-    {
-      "added_at": "2023-11-24 08:34:02",
-      "album": {
         "name": "Se N\u00e3o For Amor",
         "url": "https://open.spotify.com/album/58tRsnbneeUALoTYhCYbr7"
       },
@@ -1619,6 +1595,30 @@
       "duration_ms": 203434,
       "name": "Grand' Hotel",
       "url": "https://open.spotify.com/track/3z0d0L04jSDRHxWItUy0cP"
+    },
+    {
+      "added_at": "2023-11-24 08:34:02",
+      "album": {
+        "name": "Aqui em Casa (Ep 02)",
+        "url": "https://open.spotify.com/album/55d26HxQZEQLu4Kny8Ce6B"
+      },
+      "artists": [
+        {
+          "name": "Mariana Aydar",
+          "url": "https://open.spotify.com/artist/3rE82NMVBb5C5tQ83o8u8N"
+        },
+        {
+          "name": "Fejuca",
+          "url": "https://open.spotify.com/artist/6ZTlDR8IfFjPGqQmcOj2vj"
+        },
+        {
+          "name": "Roberta S\u00e1",
+          "url": "https://open.spotify.com/artist/4vKCAkbdulcqatglgbi5CG"
+        }
+      ],
+      "duration_ms": 234405,
+      "name": "Aqui em Casa",
+      "url": "https://open.spotify.com/track/3AtSBHBXc5rN50VrJQmTTe"
     },
     {
       "added_at": "2023-11-24 08:34:02",
@@ -1855,6 +1855,22 @@
     {
       "added_at": "2023-11-24 08:34:02",
       "album": {
+        "name": "Dentro de Mim Mora um Anjo",
+        "url": "https://open.spotify.com/album/73T1TmkFsh2GACqwI9HGPJ"
+      },
+      "artists": [
+        {
+          "name": "Ala\u00edde Costa",
+          "url": "https://open.spotify.com/artist/2KkoeJkkFr802J5gPjlRGs"
+        }
+      ],
+      "duration_ms": 180224,
+      "name": "Dentro de Mim Mora um Anjo",
+      "url": "https://open.spotify.com/track/38GXK1MFIadtntHhd2oYrf"
+    },
+    {
+      "added_at": "2023-11-24 08:34:02",
+      "album": {
         "name": "Doce Carnaval",
         "url": "https://open.spotify.com/album/6yeamXA0Sxk8QvgOkRZXXB"
       },
@@ -1871,22 +1887,6 @@
       "duration_ms": 270186,
       "name": "Mal Acostumada",
       "url": "https://open.spotify.com/track/2t1oKq2C9Qa2ZrvwxIe8Ab"
-    },
-    {
-      "added_at": "2023-11-24 08:34:02",
-      "album": {
-        "name": "Dentro de Mim Mora um Anjo",
-        "url": "https://open.spotify.com/album/73T1TmkFsh2GACqwI9HGPJ"
-      },
-      "artists": [
-        {
-          "name": "Ala\u00edde Costa",
-          "url": "https://open.spotify.com/artist/2KkoeJkkFr802J5gPjlRGs"
-        }
-      ],
-      "duration_ms": 180224,
-      "name": "Dentro de Mim Mora um Anjo",
-      "url": "https://open.spotify.com/track/38GXK1MFIadtntHhd2oYrf"
     },
     {
       "added_at": "2023-11-24 08:34:02",

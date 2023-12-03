@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUoBHp4pr8cg.md) - [plain]
 
 > Only the hottest Hip Hop from Blxckie\(pictured\), Shane Eagle, Offset, Drake, and more...
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,969 likes - 59 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,064 likes - 59 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,4 +68,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUoBHp4pr8cg.md) - [plain]
 | 58 | [Forecast 23](https://open.spotify.com/track/10FicYAHW4yw4ucDHq9dM9) | [K.O](https://open.spotify.com/artist/3ilw3NJXRWd153LIBsme1z) | [Forecast 23](https://open.spotify.com/album/5uFJvBk8muHSCeOtJhb4C8) | 3:52 |
 | 59 | [June 22nd](https://open.spotify.com/track/2uPyRKg62IcLFaGXXw0qEn) | [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [June 22nd](https://open.spotify.com/album/3T94lLozmbIFa4BiHNtkjC) | 3:10 |
 
-Snapshot ID: `MCwxMGZhOThjNDQ2OTIxZjUxZTI3NjgyYjY4ZGEwOTlhNGFkOGQ2Y2Vm`
+Snapshot ID: `MCwyOTZiYWE5Y2FhZmJiN2ViMzJjZjgzMTJiODZhYmQ4YmYyMmY1OWMy`

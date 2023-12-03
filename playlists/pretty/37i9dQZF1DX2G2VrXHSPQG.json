@@ -1,12 +1,12 @@
 {
   "description": "New song and hits from your favorite Alternative artists. Cover: Jack White",
-  "num_followers": 72739,
+  "num_followers": 72781,
   "original_name": "Your Alternative",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkN2E1ZDczZjYwYTQ0N2EzODBhYTNmNDU2OTMxZDJmYTUyMGJjMTZm",
+  "snapshot_id": "MCxkZmFmMWFiODMyMTEwNWNlZmNjNzk5ZTBiZTEzNjhhYzE0ZWIwNjk2",
   "tracks": [
     {
       "added_at": "2022-02-04 05:01:00",
@@ -223,22 +223,6 @@
     {
       "added_at": "2022-02-04 05:01:00",
       "album": {
-        "name": "Hell N Back",
-        "url": "https://open.spotify.com/album/3aEdbaJGWXbBxn79DgjamF"
-      },
-      "artists": [
-        {
-          "name": "Bakar",
-          "url": "https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H"
-        }
-      ],
-      "duration_ms": 213573,
-      "name": "Hell N Back",
-      "url": "https://open.spotify.com/track/3NRql0A1Ef4RCvT473iqgD"
-    },
-    {
-      "added_at": "2022-02-04 05:01:00",
-      "album": {
         "name": "How to: Friend, Love, Freefall",
         "url": "https://open.spotify.com/album/7vXiklrUeffx5o2F8VYwm3"
       },
@@ -251,6 +235,22 @@
       "duration_ms": 152293,
       "name": "It's Called: Freefall",
       "url": "https://open.spotify.com/track/474uVhyGgK5MtY9gMcDgGl"
+    },
+    {
+      "added_at": "2022-02-04 05:01:00",
+      "album": {
+        "name": "Hell N Back",
+        "url": "https://open.spotify.com/album/3aEdbaJGWXbBxn79DgjamF"
+      },
+      "artists": [
+        {
+          "name": "Bakar",
+          "url": "https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H"
+        }
+      ],
+      "duration_ms": 213573,
+      "name": "Hell N Back",
+      "url": "https://open.spotify.com/track/3NRql0A1Ef4RCvT473iqgD"
     },
     {
       "added_at": "2022-02-04 05:01:00",
@@ -447,22 +447,6 @@
     {
       "added_at": "2022-02-04 05:01:00",
       "album": {
-        "name": "Tell Me I'm Pretty",
-        "url": "https://open.spotify.com/album/0nW0w37lrQ87k7PLZvC4qJ"
-      },
-      "artists": [
-        {
-          "name": "Cage The Elephant",
-          "url": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
-        }
-      ],
-      "duration_ms": 214386,
-      "name": "Cold Cold Cold",
-      "url": "https://open.spotify.com/track/1Q3t9fWvHUXKsMmpD2XpUu"
-    },
-    {
-      "added_at": "2022-02-04 05:01:00",
-      "album": {
         "name": "A Brief Inquiry Into Online Relationships",
         "url": "https://open.spotify.com/album/6PWXKiakqhI17mTYM4y6oY"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 252925,
       "name": "Love It If We Made It",
       "url": "https://open.spotify.com/track/6WmIyn2fx1PKQ0XDpYj4VR"
+    },
+    {
+      "added_at": "2022-02-04 05:01:00",
+      "album": {
+        "name": "Tell Me I'm Pretty",
+        "url": "https://open.spotify.com/album/0nW0w37lrQ87k7PLZvC4qJ"
+      },
+      "artists": [
+        {
+          "name": "Cage The Elephant",
+          "url": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
+        }
+      ],
+      "duration_ms": 214386,
+      "name": "Cold Cold Cold",
+      "url": "https://open.spotify.com/track/1Q3t9fWvHUXKsMmpD2XpUu"
     },
     {
       "added_at": "2022-02-04 05:01:00",
@@ -495,22 +495,6 @@
     {
       "added_at": "2022-02-04 05:01:00",
       "album": {
-        "name": "What Went Down",
-        "url": "https://open.spotify.com/album/0RyCpIKlCV0kgEuzrmp73O"
-      },
-      "artists": [
-        {
-          "name": "Foals",
-          "url": "https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa"
-        }
-      ],
-      "duration_ms": 244293,
-      "name": "Mountain at My Gates",
-      "url": "https://open.spotify.com/track/3f7OyfSoDbQC0LRDQiytPp"
-    },
-    {
-      "added_at": "2022-02-04 05:01:00",
-      "album": {
         "name": "The Slow Rush",
         "url": "https://open.spotify.com/album/31qVWUdRrlb8thMvts0yYL"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 249586,
       "name": "Lost In Yesterday",
       "url": "https://open.spotify.com/track/5JWPUEov2wlX7c0jhYZpeB"
+    },
+    {
+      "added_at": "2022-02-04 05:01:00",
+      "album": {
+        "name": "What Went Down",
+        "url": "https://open.spotify.com/album/0RyCpIKlCV0kgEuzrmp73O"
+      },
+      "artists": [
+        {
+          "name": "Foals",
+          "url": "https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa"
+        }
+      ],
+      "duration_ms": 244293,
+      "name": "Mountain at My Gates",
+      "url": "https://open.spotify.com/track/3f7OyfSoDbQC0LRDQiytPp"
     },
     {
       "added_at": "2022-02-04 05:01:00",
@@ -591,22 +591,6 @@
     {
       "added_at": "2022-02-04 05:01:00",
       "album": {
-        "name": "Social Cues",
-        "url": "https://open.spotify.com/album/2VuZJsJBPLwg9BeQFQle8G"
-      },
-      "artists": [
-        {
-          "name": "Cage The Elephant",
-          "url": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
-        }
-      ],
-      "duration_ms": 226533,
-      "name": "Black Madonna",
-      "url": "https://open.spotify.com/track/4Y6GIje3GErVRIq1Ff5BJq"
-    },
-    {
-      "added_at": "2022-02-04 05:01:00",
-      "album": {
         "name": "Tearing At The Seams",
         "url": "https://open.spotify.com/album/6d0PPZVxoyKN3VlFrzsKYp"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 193933,
       "name": "California - Tchad Blake Mix",
       "url": "https://open.spotify.com/track/497Fkp3gRiGrRMoqBTDudr"
+    },
+    {
+      "added_at": "2022-02-04 05:01:00",
+      "album": {
+        "name": "Social Cues",
+        "url": "https://open.spotify.com/album/2VuZJsJBPLwg9BeQFQle8G"
+      },
+      "artists": [
+        {
+          "name": "Cage The Elephant",
+          "url": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
+        }
+      ],
+      "duration_ms": 226533,
+      "name": "Black Madonna",
+      "url": "https://open.spotify.com/track/4Y6GIje3GErVRIq1Ff5BJq"
     },
     {
       "added_at": "2022-02-04 05:01:00",
@@ -707,22 +707,6 @@
     {
       "added_at": "2022-02-04 05:01:00",
       "album": {
-        "name": "Social Cues",
-        "url": "https://open.spotify.com/album/2VuZJsJBPLwg9BeQFQle8G"
-      },
-      "artists": [
-        {
-          "name": "Cage The Elephant",
-          "url": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
-        }
-      ],
-      "duration_ms": 196173,
-      "name": "Skin and Bones",
-      "url": "https://open.spotify.com/track/6ubPFMzlIg73d1jzzWcC8B"
-    },
-    {
-      "added_at": "2022-02-04 05:01:00",
-      "album": {
         "name": "Sorry",
         "url": "https://open.spotify.com/album/14Q6NvjUSthc0Xgb5EgtQd"
       },
@@ -739,18 +723,18 @@
     {
       "added_at": "2022-02-04 05:01:00",
       "album": {
-        "name": "III",
-        "url": "https://open.spotify.com/album/0cGGGHvqwMD2J7bNz8TG3s"
+        "name": "Social Cues",
+        "url": "https://open.spotify.com/album/2VuZJsJBPLwg9BeQFQle8G"
       },
       "artists": [
         {
-          "name": "The Lumineers",
-          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+          "name": "Cage The Elephant",
+          "url": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
         }
       ],
-      "duration_ms": 270892,
-      "name": "Salt And The Sea",
-      "url": "https://open.spotify.com/track/5EKqsMU2tn1iAYNQF8h0ll"
+      "duration_ms": 196173,
+      "name": "Skin and Bones",
+      "url": "https://open.spotify.com/track/6ubPFMzlIg73d1jzzWcC8B"
     },
     {
       "added_at": "2022-02-04 05:01:00",
@@ -767,6 +751,22 @@
       "duration_ms": 180133,
       "name": "Miracle Mile",
       "url": "https://open.spotify.com/track/4RvmQ5qbP5PxgJD0BN4EZK"
+    },
+    {
+      "added_at": "2022-02-04 05:01:00",
+      "album": {
+        "name": "III",
+        "url": "https://open.spotify.com/album/0cGGGHvqwMD2J7bNz8TG3s"
+      },
+      "artists": [
+        {
+          "name": "The Lumineers",
+          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+        }
+      ],
+      "duration_ms": 270892,
+      "name": "Salt And The Sea",
+      "url": "https://open.spotify.com/track/5EKqsMU2tn1iAYNQF8h0ll"
     },
     {
       "added_at": "2022-02-04 05:01:00",
@@ -855,22 +855,6 @@
     {
       "added_at": "2022-02-04 05:01:00",
       "album": {
-        "name": "We Are The Wrecks",
-        "url": "https://open.spotify.com/album/0vQRfUULb3EpObpn28YOkH"
-      },
-      "artists": [
-        {
-          "name": "The Wrecks",
-          "url": "https://open.spotify.com/artist/458aS6ALc3QkzwfR5USt34"
-        }
-      ],
-      "duration_ms": 242306,
-      "name": "Favorite Liar",
-      "url": "https://open.spotify.com/track/1scwknKtBQpreYy6MSoJqJ"
-    },
-    {
-      "added_at": "2022-02-04 05:01:00",
-      "album": {
         "name": "Social Cues",
         "url": "https://open.spotify.com/album/2VuZJsJBPLwg9BeQFQle8G"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 208133,
       "name": "Night Running",
       "url": "https://open.spotify.com/track/0wSmZykDgah7GfaUNZUZCb"
+    },
+    {
+      "added_at": "2022-02-04 05:01:00",
+      "album": {
+        "name": "We Are The Wrecks",
+        "url": "https://open.spotify.com/album/0vQRfUULb3EpObpn28YOkH"
+      },
+      "artists": [
+        {
+          "name": "The Wrecks",
+          "url": "https://open.spotify.com/artist/458aS6ALc3QkzwfR5USt34"
+        }
+      ],
+      "duration_ms": 242306,
+      "name": "Favorite Liar",
+      "url": "https://open.spotify.com/track/1scwknKtBQpreYy6MSoJqJ"
     },
     {
       "added_at": "2022-02-04 05:01:00",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2022-02-04 05:01:00",
       "album": {
-        "name": "The Future",
-        "url": "https://open.spotify.com/album/48KAdMIRvmqIq7py0qw3rh"
-      },
-      "artists": [
-        {
-          "name": "Nathaniel Rateliff & The Night Sweats",
-          "url": "https://open.spotify.com/artist/02seUFsFQP7TH4hLrTj77o"
-        }
-      ],
-      "duration_ms": 241800,
-      "name": "Survivor",
-      "url": "https://open.spotify.com/track/2565zrwkcli0D88IVw2rCg"
-    },
-    {
-      "added_at": "2022-02-04 05:01:00",
-      "album": {
         "name": "OK ORCHESTRA",
         "url": "https://open.spotify.com/album/0KC9H4iFOOWiKEa5IzKKOE"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 189115,
       "name": "Bummerland",
       "url": "https://open.spotify.com/track/11CuPgsnoErQX18rH4gXLM"
+    },
+    {
+      "added_at": "2022-02-04 05:01:00",
+      "album": {
+        "name": "The Future",
+        "url": "https://open.spotify.com/album/48KAdMIRvmqIq7py0qw3rh"
+      },
+      "artists": [
+        {
+          "name": "Nathaniel Rateliff & The Night Sweats",
+          "url": "https://open.spotify.com/artist/02seUFsFQP7TH4hLrTj77o"
+        }
+      ],
+      "duration_ms": 241800,
+      "name": "Survivor",
+      "url": "https://open.spotify.com/track/2565zrwkcli0D88IVw2rCg"
     }
   ],
   "unique_name": "Your Alternative",

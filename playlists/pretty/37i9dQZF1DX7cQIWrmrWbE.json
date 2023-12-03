@@ -1,12 +1,12 @@
 {
   "description": "Las canciones que suenan en todas partes est\u00e1n aqu\u00ed \ud83d\udd25  \ud83c\udfa7 ",
-  "num_followers": 71981,
+  "num_followers": 72055,
   "original_name": "Lo + Buscado: 2023",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMzE1MGM2YWYzZTMyYjBlNjJjOWYyNDNhYTJhZmJhOTAzNjBjOTAx",
+  "snapshot_id": "MCxiNGJmNzZjMGZhZTczM2JlZTdjZTA0Yzg4NzJkMmNiZjU0M2UxNmQw",
   "tracks": [
     {
       "added_at": "2023-11-22 17:08:11",
@@ -635,18 +635,22 @@
     {
       "added_at": "2023-11-22 17:08:11",
       "album": {
-        "name": "Hasta la Ra\u00edz (Edici\u00f3n Especial)",
-        "url": "https://open.spotify.com/album/0Kww7Dpo0uSxtOiiFTvyCv"
+        "name": "Sigan Hablando",
+        "url": "https://open.spotify.com/album/7JH7pr10sJV9caUhk3ORyK"
       },
       "artists": [
         {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+        },
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
         }
       ],
-      "duration_ms": 221800,
-      "name": "Hasta la Ra\u00edz",
-      "url": "https://open.spotify.com/track/3lGMtkONrZdJ8kTCg6KIFf"
+      "duration_ms": 271861,
+      "name": "Bebe Dame",
+      "url": "https://open.spotify.com/track/0IKeDy5bT9G0bA7ZixRT4A"
     },
     {
       "added_at": "2023-11-22 17:08:11",
@@ -667,22 +671,18 @@
     {
       "added_at": "2023-11-22 17:08:11",
       "album": {
-        "name": "Sigan Hablando",
-        "url": "https://open.spotify.com/album/7JH7pr10sJV9caUhk3ORyK"
+        "name": "Hasta la Ra\u00edz (Edici\u00f3n Especial)",
+        "url": "https://open.spotify.com/album/0Kww7Dpo0uSxtOiiFTvyCv"
       },
       "artists": [
         {
-          "name": "Fuerza Regida",
-          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
-        },
-        {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
         }
       ],
-      "duration_ms": 271861,
-      "name": "Bebe Dame",
-      "url": "https://open.spotify.com/track/0IKeDy5bT9G0bA7ZixRT4A"
+      "duration_ms": 221800,
+      "name": "Hasta la Ra\u00edz",
+      "url": "https://open.spotify.com/track/3lGMtkONrZdJ8kTCg6KIFf"
     },
     {
       "added_at": "2023-11-22 17:08:11",

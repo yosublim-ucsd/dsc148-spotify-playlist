@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4rmnjMBxfCv.md) - [plain]
 
 > The best dance and electronic songs in the MENA region\. Cover: Alan Walker, Sophie Stray & Zena Emad
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,245 likes - 50 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,281 likes - 50 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4rmnjMBxfCv.md) - [plain]
 | 20 | [\(It Goes Like\) Nanana \- Edit](https://open.spotify.com/track/23RoR84KodL5HWvUTneQ1w) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [\(It Goes Like\) Nanana \[Edit\]](https://open.spotify.com/album/2LVDNOUUy2g8517ZEtQIcK) | 3:51 |
 | 21 | [El Youm El Helw Dah \(AFROJACK MDLBEAST Remix\)](https://open.spotify.com/track/3p4spHhAQaOcmGTrctyN65) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V), [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz) | [El Youm El Helw Dah \(AFROJACK MDLBEAST Remix\)](https://open.spotify.com/album/1j7gep9a3d4zXgtRRefZvM) | 4:03 |
 | 22 | [Baglami](https://open.spotify.com/track/6ZTOjC8lXAXK5AUw4SRfn1) | [DJ DALI](https://open.spotify.com/artist/69tAExl6Egi3sb0ZW13NPS) | [Baglami](https://open.spotify.com/album/07C07uz3IJt6aixCnd2uvM) | 5:30 |
-| 23 | [Wala Ala Balo Remix](https://open.spotify.com/track/3YV7ImEdD2moA9ZALYFbu1) | [Alan Dixon](https://open.spotify.com/artist/0yEnnivHzCPxaTfNbWjV7x), [Misty](https://open.spotify.com/artist/4IrIBE884z1Tjx7A6jRGd6) | [Wala Ala Balo Remix](https://open.spotify.com/album/6HqYQvHSW2qBqk7jcwhFuW) | 6:17 |
+| 23 | [Wala Ala Balo Edit](https://open.spotify.com/track/3YV7ImEdD2moA9ZALYFbu1) | [Alan Dixon](https://open.spotify.com/artist/0yEnnivHzCPxaTfNbWjV7x), [Misty](https://open.spotify.com/artist/4IrIBE884z1Tjx7A6jRGd6) | [Wala Ala Balo Edit](https://open.spotify.com/album/6HqYQvHSW2qBqk7jcwhFuW) | 6:17 |
 | 24 | [Unutmam](https://open.spotify.com/track/4xHsMJIOcpmcGHsiCo4arP) | [Amorf](https://open.spotify.com/artist/235rIOpga6eYnAP03JD444) | [Unutmam](https://open.spotify.com/album/7KNZEBv3ZufECaxejSzeWr) | 2:51 |
 | 25 | [Motive](https://open.spotify.com/track/4KbfDwkYomFfWCnN80rBcL) | [Omar Basaad](https://open.spotify.com/artist/4DEJR7clVpc8EpPHMWz4RZ) | [Motive](https://open.spotify.com/album/5AxqSoZnhNy5Na65UZTTIz) | 2:29 |
 | 26 | [Laar Ya Laar](https://open.spotify.com/track/6p1nVQXxuS3bI5jXxwZnnF) | [D33pSoul](https://open.spotify.com/artist/2HZLJwBLZN8etpz2ZvHqlL), [CHAAMA](https://open.spotify.com/artist/5qwjinowvQNDqyspseSofL) | [Laar Ya Laar](https://open.spotify.com/album/4cpHlMvyOBWGHGAa9sufhw) | 2:10 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4rmnjMBxfCv.md) - [plain]
 | 49 | [Aria](https://open.spotify.com/track/3M1r9ilL53PLcrLdIuyZ4J) | [Argy](https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI), [Omnya](https://open.spotify.com/artist/4zPg2ECAB9rHtMAx8faWfc) | [Aria](https://open.spotify.com/album/1Oi3PgQhL4WOKe1aoPCpqe) | 3:56 |
 | 50 | [Bel Ahlam \(Remix\)](https://open.spotify.com/track/5jonBF1ctoQZ3vkaTN5VIv) | [Nassif Zeytoun](https://open.spotify.com/artist/2ieBl5s08uHBwM8sUPvg65), [Always April](https://open.spotify.com/artist/2H7GNVWI7E2oOMkLGUoRsM) | [Bel Ahlam \(Remix\)](https://open.spotify.com/album/7F8KwU004mAZFkyAzzK4qc) | 3:22 |
 
-Snapshot ID: `MCxlN2E1YTkwZWMyMThjY2ExNjkyZWEyMWZhZmJhYTFkMTNiYzFmZjRk`
+Snapshot ID: `MCxkYzUwMGZlNWU5ZTIwZWNhZjM3NTBkYzRjNWJjOGYzNjcwMDllMTI1`

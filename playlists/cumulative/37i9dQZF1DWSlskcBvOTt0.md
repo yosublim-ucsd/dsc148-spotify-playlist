@@ -4,7 +4,7 @@
 
 > Hypnotic melodic <a href="spotify:genre:house">house</a> and <a href="spotify:genre:techno">techno</a> to light up the night.
 
-545 songs - 2 day 4 hr 30 min
+546 songs - 2 day 4 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,7 +74,7 @@
 | [Birds and Smoke](https://open.spotify.com/track/6gFvgBSlJFjC4pswZJKSx6) | [Xinobi](https://open.spotify.com/artist/1w7cucUEPR1Yq9g03g6T8m) | [Walden Pond](https://open.spotify.com/album/5yS2vHJXAfLwUNYmuJ556C) | 6:08 | 2022-07-01 | 2023-02-21 |
 | [Black Rain \- Âme Remix](https://open.spotify.com/track/2xuCVDKo47AYxxjJtiTVCh) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN), [Âme](https://open.spotify.com/artist/5muFO8VqYRCRW13EkvX564) | [Black Rain \(Âme Remix\)](https://open.spotify.com/album/3NkwIxvLuql04EXtIa9TfF) | 5:52 | 2022-04-11 |  |
 | [Blaze \- J.O.P\. Remix](https://open.spotify.com/track/5FOt1Zf0nRcmuwk2czDOXj) | [Booka Shade](https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB), [Jan Blomqvist](https://open.spotify.com/artist/5wMlMjOLeJfS5DfxqGfm83), [JOPLYN](https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih) | [Blaze \(J.O.P\. Remix\)](https://open.spotify.com/album/4jmzrmMmTgBydXQCqnPHL9) | 5:50 | 2023-07-28 | 2023-10-21 |
-| [Blinded \- Colyn Remix](https://open.spotify.com/track/0I77MqBHPznJwG5nFOVwFX) | [Coloray](https://open.spotify.com/artist/6a3p6ZKDkTzrVbloxkD73E), [Colyn](https://open.spotify.com/artist/5vr1GvUstxr6nwxniKqLOh) | [Blinded Remixes](https://open.spotify.com/album/36Dm8iPeEe4hNpxw76e3rK) | 5:43 | 2023-10-06 |  |
+| [Blinded \- Colyn Remix](https://open.spotify.com/track/0I77MqBHPznJwG5nFOVwFX) | [Coloray](https://open.spotify.com/artist/6a3p6ZKDkTzrVbloxkD73E), [Colyn](https://open.spotify.com/artist/5vr1GvUstxr6nwxniKqLOh) | [Blinded Remixes](https://open.spotify.com/album/36Dm8iPeEe4hNpxw76e3rK) | 5:43 | 2023-10-06 | 2023-12-03 |
 | [Blinding Lights \- Joris Voorn Remix](https://open.spotify.com/track/0fZ19tHX4FSslZn8EeKCpo) | [Alex Kennon](https://open.spotify.com/artist/1HMBuicB5RnpHxRDR51oMS), [Joris Voorn](https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU) | [Blinding Lights \(Joris Voorn Remix\)](https://open.spotify.com/album/2bZXQG0WrPR1LcrJ01Of7J) | 5:13 | 2021-05-03 | 2023-03-11 |
 | [Blue Rose](https://open.spotify.com/track/1WByZBGVI09ggCjH5wru9a) | [Enamour](https://open.spotify.com/artist/6D1PUSzHf2Z4jTFIdhjJoO) | [Blue Rose / Red Room](https://open.spotify.com/album/1SDs4zVPGrZSSTaRxmsFl3) | 4:49 | 2022-01-14 | 2022-07-27 |
 | [Bocat](https://open.spotify.com/track/4rS8pri7CQvOjWmfNBOm8B) | [Guy Gerber](https://open.spotify.com/artist/3bqBkAzdPwEDe1JUvb7ZeC), [Albertina](https://open.spotify.com/artist/5Xr5eX0ZFi76JHaRDGh8pq) | [Bocat](https://open.spotify.com/album/3U902JoOXXajnhsYNYk55B) | 6:25 | 2023-06-16 | 2023-07-12 |
@@ -389,6 +389,7 @@
 | [Pont de la Caille](https://open.spotify.com/track/3jAPlfftOtKBgrJ722luE3) | [Hidden Empire](https://open.spotify.com/artist/44Ga1YqZthFOzZSTHiNWkC) | [Pont de la Caille](https://open.spotify.com/album/64dSfNdAExAwPFtjPmXm4M) | 5:13 | 2021-09-03 | 2023-04-29 |
 | [Possessed](https://open.spotify.com/track/1DcNtYSP4pTARn2tYGJmv9) | [Thakzin](https://open.spotify.com/artist/5IqRgFYiImSVQrScLaFyEE) | [Possessed](https://open.spotify.com/album/0x834cvJwd2lSbQ3Fa4a9I) | 6:32 | 2023-08-11 | 2023-09-23 |
 | [Povoada \- Remix](https://open.spotify.com/track/4y1Xc5sjKxBRObrIfXRYpS) | [Sued Nunes](https://open.spotify.com/artist/3CFyVJRAmjkptSfvwMljQi), [Maz \(BR\)](https://open.spotify.com/artist/6gYwbDKcqhLitCTlgF1oZn), [Antdot](https://open.spotify.com/artist/3of9b8iUxyXtfnwwahfUNx) | [Povoada \(Remix\)](https://open.spotify.com/album/0VNGzsaX62aIZjEEMNbwoi) | 4:17 | 2023-04-10 |  |
+| [Power](https://open.spotify.com/track/6Z1rHqGNjLCyyl2T2neieJ) | [AMÉMÉ](https://open.spotify.com/artist/1txb9Qg5lJ3KATxPcIYyvO) | [Power](https://open.spotify.com/album/4M6H0YgdvmarupGSqpWu4P) | 7:49 | 2023-12-01 |  |
 | [Power](https://open.spotify.com/track/2fHtXQkRN2Mwp6nFTSxH9q) | [AMÉMÉ](https://open.spotify.com/artist/1txb9Qg5lJ3KATxPcIYyvO), [Mario Reyes](https://open.spotify.com/artist/0Hf3UN7p1AVi3bQBish6YX) | [Power](https://open.spotify.com/album/2c8F3AAuXBYz3npCbBmFRO) | 7:49 | 2022-09-30 | 2023-11-05 |
 | [Praah Com Poesia](https://open.spotify.com/track/5wA6aFuMZw783ghYlxVybw) | [Spaniol](https://open.spotify.com/artist/379N7T3a4nmax4XPxffDn1) | [Confluencias II: Montaña](https://open.spotify.com/album/59OxHbwWRRJ20ZGENMwRSq) | 6:16 | 2021-04-21 | 2022-06-07 |
 | [Premier Gaou \- Nitefreak Remix](https://open.spotify.com/track/57e5ib2PnvuiaTvaI4jGDp) | [Francis Mercier](https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf), [Magic System](https://open.spotify.com/artist/6MvRVq0CtpQQlwnIiszV8F), [Nitefreak](https://open.spotify.com/artist/6lbUCWVW3hgQgrJwB8wadJ) | [Premier Gaou \(Nitefreak Remix\)](https://open.spotify.com/album/1kfRbSlDcUF3hz3P9Zhg4c) | 3:42 | 2023-02-22 |  |

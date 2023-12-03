@@ -1,12 +1,12 @@
 {
   "description": "Instrumental Smooth Jazz for relaxing.",
-  "num_followers": 163315,
+  "num_followers": 163569,
   "original_name": "Smooth Jazz Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZTYwODVlOTFkMDZmYWUyOTI0NjdlYThjMDNmZGJjYzg2ZjY1OWRi",
+  "snapshot_id": "MCwxODliZGZjMzljNDMyM2UzMWQ3Yzg4YWNiNWYyZjBlNjc3YWU5MTg5",
   "tracks": [
     {
       "added_at": "2023-12-01 00:01:00",
@@ -331,22 +331,18 @@
     {
       "added_at": "2023-12-01 00:01:00",
       "album": {
-        "name": "Pearls",
-        "url": "https://open.spotify.com/album/6KcEJQThVXSuKpBojJs0bF"
+        "name": "Paks",
+        "url": "https://open.spotify.com/album/1gIvY2Q98QNFO4oLsC37jW"
       },
       "artists": [
         {
-          "name": "Gail Jhonson",
-          "url": "https://open.spotify.com/artist/4cJqqVAJDLFbCEFQDSrwcc"
-        },
-        {
-          "name": "Nelson Braxton",
-          "url": "https://open.spotify.com/artist/3Jd4iNOHLWDkR3hAER3GLt"
+          "name": "Lndoner",
+          "url": "https://open.spotify.com/artist/0CfAjz9xgWzVTurMYXM9P7"
         }
       ],
-      "duration_ms": 224840,
-      "name": "Pacific Breeze",
-      "url": "https://open.spotify.com/track/2dYkPKqJHjz9GIQ33grJaN"
+      "duration_ms": 168888,
+      "name": "Paks",
+      "url": "https://open.spotify.com/track/3f526KslwaHSuamZFabgvk"
     },
     {
       "added_at": "2023-12-01 00:01:00",
@@ -367,18 +363,22 @@
     {
       "added_at": "2023-12-01 00:01:00",
       "album": {
-        "name": "Paks",
-        "url": "https://open.spotify.com/album/1gIvY2Q98QNFO4oLsC37jW"
+        "name": "Pearls",
+        "url": "https://open.spotify.com/album/6KcEJQThVXSuKpBojJs0bF"
       },
       "artists": [
         {
-          "name": "Lndoner",
-          "url": "https://open.spotify.com/artist/0CfAjz9xgWzVTurMYXM9P7"
+          "name": "Gail Jhonson",
+          "url": "https://open.spotify.com/artist/4cJqqVAJDLFbCEFQDSrwcc"
+        },
+        {
+          "name": "Nelson Braxton",
+          "url": "https://open.spotify.com/artist/3Jd4iNOHLWDkR3hAER3GLt"
         }
       ],
-      "duration_ms": 168888,
-      "name": "Paks",
-      "url": "https://open.spotify.com/track/3f526KslwaHSuamZFabgvk"
+      "duration_ms": 224840,
+      "name": "Pacific Breeze",
+      "url": "https://open.spotify.com/track/2dYkPKqJHjz9GIQ33grJaN"
     },
     {
       "added_at": "2023-12-01 00:01:00",
@@ -451,6 +451,22 @@
     {
       "added_at": "2023-12-01 00:01:00",
       "album": {
+        "name": "Perfect Moment",
+        "url": "https://open.spotify.com/album/26mZwyn3GPRjgaRZmaCwhr"
+      },
+      "artists": [
+        {
+          "name": "Peter White",
+          "url": "https://open.spotify.com/artist/4siC0n7Bs9OzoZlB1HKquS"
+        }
+      ],
+      "duration_ms": 285626,
+      "name": "Perfect Moment",
+      "url": "https://open.spotify.com/track/3GP271M8xEpmtEFEfC56df"
+    },
+    {
+      "added_at": "2023-12-01 00:01:00",
+      "album": {
         "name": "Forever, For Always, For Luther",
         "url": "https://open.spotify.com/album/2yRAGKnGPPdigTqe3qsYeN"
       },
@@ -467,22 +483,6 @@
       "duration_ms": 316026,
       "name": "If Only For One Night",
       "url": "https://open.spotify.com/track/6O4i4aMjDM7JVexa5hA3sk"
-    },
-    {
-      "added_at": "2023-12-01 00:01:00",
-      "album": {
-        "name": "Perfect Moment",
-        "url": "https://open.spotify.com/album/26mZwyn3GPRjgaRZmaCwhr"
-      },
-      "artists": [
-        {
-          "name": "Peter White",
-          "url": "https://open.spotify.com/artist/4siC0n7Bs9OzoZlB1HKquS"
-        }
-      ],
-      "duration_ms": 285626,
-      "name": "Perfect Moment",
-      "url": "https://open.spotify.com/track/3GP271M8xEpmtEFEfC56df"
     },
     {
       "added_at": "2023-12-01 00:01:00",
@@ -663,22 +663,6 @@
     {
       "added_at": "2023-12-01 00:01:00",
       "album": {
-        "name": "Do not disturb",
-        "url": "https://open.spotify.com/album/4RG39enCANdnjbagkDndcp"
-      },
-      "artists": [
-        {
-          "name": "Matty Mel Jr",
-          "url": "https://open.spotify.com/artist/0JtmM4D2ncms5yIaAvsTNW"
-        }
-      ],
-      "duration_ms": 179250,
-      "name": "Do not disturb",
-      "url": "https://open.spotify.com/track/2R7A0xNBsAHLNY66uiCScE"
-    },
-    {
-      "added_at": "2023-12-01 00:01:00",
-      "album": {
         "name": "West Coast Coolin'",
         "url": "https://open.spotify.com/album/5dAlHUk0CgmwKZygPY8ZJx"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 270840,
       "name": "West Coast Coolin'",
       "url": "https://open.spotify.com/track/07pe7c2ytCutxLyykBo1AX"
+    },
+    {
+      "added_at": "2023-12-01 00:01:00",
+      "album": {
+        "name": "Do not disturb",
+        "url": "https://open.spotify.com/album/4RG39enCANdnjbagkDndcp"
+      },
+      "artists": [
+        {
+          "name": "Matty Mel Jr",
+          "url": "https://open.spotify.com/artist/0JtmM4D2ncms5yIaAvsTNW"
+        }
+      ],
+      "duration_ms": 179250,
+      "name": "Do not disturb",
+      "url": "https://open.spotify.com/track/2R7A0xNBsAHLNY66uiCScE"
     },
     {
       "added_at": "2023-12-01 00:01:00",
@@ -779,18 +779,18 @@
     {
       "added_at": "2023-12-01 00:01:00",
       "album": {
-        "name": "Stay With Me",
-        "url": "https://open.spotify.com/album/4SSbfr7UxfTE09XSRUu4Nl"
+        "name": "Forever, For Always, For Luther",
+        "url": "https://open.spotify.com/album/2yRAGKnGPPdigTqe3qsYeN"
       },
       "artists": [
         {
-          "name": "Norman Brown",
-          "url": "https://open.spotify.com/artist/79kOOyVKcrCOKDnzcDHsia"
+          "name": "Kirk Whalum",
+          "url": "https://open.spotify.com/artist/6v2VjBVPcGVbBqJrUWYiG1"
         }
       ],
-      "duration_ms": 263960,
-      "name": "Pop's Cool Groove",
-      "url": "https://open.spotify.com/track/1ABAAlwDD1HW3pGCA7ReUJ"
+      "duration_ms": 304453,
+      "name": "Any Love",
+      "url": "https://open.spotify.com/track/1uQnqFPN4Fzvn17DGX0eBj"
     },
     {
       "added_at": "2023-12-01 00:01:00",
@@ -811,18 +811,18 @@
     {
       "added_at": "2023-12-01 00:01:00",
       "album": {
-        "name": "Forever, For Always, For Luther",
-        "url": "https://open.spotify.com/album/2yRAGKnGPPdigTqe3qsYeN"
+        "name": "Stay With Me",
+        "url": "https://open.spotify.com/album/4SSbfr7UxfTE09XSRUu4Nl"
       },
       "artists": [
         {
-          "name": "Kirk Whalum",
-          "url": "https://open.spotify.com/artist/6v2VjBVPcGVbBqJrUWYiG1"
+          "name": "Norman Brown",
+          "url": "https://open.spotify.com/artist/79kOOyVKcrCOKDnzcDHsia"
         }
       ],
-      "duration_ms": 304453,
-      "name": "Any Love",
-      "url": "https://open.spotify.com/track/1uQnqFPN4Fzvn17DGX0eBj"
+      "duration_ms": 263960,
+      "name": "Pop's Cool Groove",
+      "url": "https://open.spotify.com/track/1ABAAlwDD1HW3pGCA7ReUJ"
     },
     {
       "added_at": "2023-12-01 00:01:00",
@@ -971,22 +971,6 @@
     {
       "added_at": "2023-12-01 00:01:00",
       "album": {
-        "name": "Keepin' It Cool",
-        "url": "https://open.spotify.com/album/3w9dctOHUxIF5YRVKycZD7"
-      },
-      "artists": [
-        {
-          "name": "Nick Colionne",
-          "url": "https://open.spotify.com/artist/2sCtM9BmF4hSfiwEwiAm5l"
-        }
-      ],
-      "duration_ms": 249226,
-      "name": "Always Thinkin' Of You",
-      "url": "https://open.spotify.com/track/4KmFtbORBU1svsFSKeA3iT"
-    },
-    {
-      "added_at": "2023-12-01 00:01:00",
-      "album": {
         "name": "Love's Melody",
         "url": "https://open.spotify.com/album/4Dn3xWw9fv1ncRHmxfmaWM"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 320733,
       "name": "Midnight At The Oasis",
       "url": "https://open.spotify.com/track/3R2KtkNnblbd9icRjH04d8"
+    },
+    {
+      "added_at": "2023-12-01 00:01:00",
+      "album": {
+        "name": "Keepin' It Cool",
+        "url": "https://open.spotify.com/album/3w9dctOHUxIF5YRVKycZD7"
+      },
+      "artists": [
+        {
+          "name": "Nick Colionne",
+          "url": "https://open.spotify.com/artist/2sCtM9BmF4hSfiwEwiAm5l"
+        }
+      ],
+      "duration_ms": 249226,
+      "name": "Always Thinkin' Of You",
+      "url": "https://open.spotify.com/track/4KmFtbORBU1svsFSKeA3iT"
     },
     {
       "added_at": "2023-12-01 00:01:00",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2023-12-01 00:01:00",
       "album": {
-        "name": "Soul To Souls",
-        "url": "https://open.spotify.com/album/2rzjVifrHIbbSEvBIGavtb"
-      },
-      "artists": [
-        {
-          "name": "Nelson Rangell",
-          "url": "https://open.spotify.com/artist/5lFAGKb5mvPQX9on6lKC88"
-        }
-      ],
-      "duration_ms": 333880,
-      "name": "City Lights",
-      "url": "https://open.spotify.com/track/5kmQaaHOzgnzJmDpHJVtQY"
-    },
-    {
-      "added_at": "2023-12-01 00:01:00",
-      "album": {
         "name": "Traveler",
         "url": "https://open.spotify.com/album/4lzJh3SkKDEPIwkYZmfsdO"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 243560,
       "name": "Have Your Cake And Eat It",
       "url": "https://open.spotify.com/track/52XxdtfUzy5Qqw8i0wKrjD"
+    },
+    {
+      "added_at": "2023-12-01 00:01:00",
+      "album": {
+        "name": "Soul To Souls",
+        "url": "https://open.spotify.com/album/2rzjVifrHIbbSEvBIGavtb"
+      },
+      "artists": [
+        {
+          "name": "Nelson Rangell",
+          "url": "https://open.spotify.com/artist/5lFAGKb5mvPQX9on6lKC88"
+        }
+      ],
+      "duration_ms": 333880,
+      "name": "City Lights",
+      "url": "https://open.spotify.com/track/5kmQaaHOzgnzJmDpHJVtQY"
     },
     {
       "added_at": "2023-12-01 00:01:00",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2023-12-01 00:01:00",
       "album": {
-        "name": "Another Door Opens",
-        "url": "https://open.spotify.com/album/5e8Y5tQ9WMOJBEHOHK6gDh"
-      },
-      "artists": [
-        {
-          "name": "Jeff Kashiwa",
-          "url": "https://open.spotify.com/artist/7GVLgt36lHtKdbxooYQhbW"
-        }
-      ],
-      "duration_ms": 284200,
-      "name": "Because of You",
-      "url": "https://open.spotify.com/track/1mzBQnUMTUSs4TkpSJjZES"
-    },
-    {
-      "added_at": "2023-12-01 00:01:00",
-      "album": {
         "name": "Brazil Chill",
         "url": "https://open.spotify.com/album/4T8thECArdoVMqYZpWxfHn"
       },
@@ -1435,6 +1419,22 @@
       "duration_ms": 322000,
       "name": "Brazil Chill",
       "url": "https://open.spotify.com/track/3UI2NlVimWCWOohTfyaP9v"
+    },
+    {
+      "added_at": "2023-12-01 00:01:00",
+      "album": {
+        "name": "Another Door Opens",
+        "url": "https://open.spotify.com/album/5e8Y5tQ9WMOJBEHOHK6gDh"
+      },
+      "artists": [
+        {
+          "name": "Jeff Kashiwa",
+          "url": "https://open.spotify.com/artist/7GVLgt36lHtKdbxooYQhbW"
+        }
+      ],
+      "duration_ms": 284200,
+      "name": "Because of You",
+      "url": "https://open.spotify.com/track/1mzBQnUMTUSs4TkpSJjZES"
     },
     {
       "added_at": "2023-12-01 00:01:00",
@@ -1555,22 +1555,6 @@
     {
       "added_at": "2023-12-01 00:01:00",
       "album": {
-        "name": "Can You Feel It",
-        "url": "https://open.spotify.com/album/77ELqjPSPIZRplbz2T2IGs"
-      },
-      "artists": [
-        {
-          "name": "Rick Braun",
-          "url": "https://open.spotify.com/artist/4ThkLup6LmqCUuHuG434zZ"
-        }
-      ],
-      "duration_ms": 247746,
-      "name": "Mallorca",
-      "url": "https://open.spotify.com/track/5AJjIjpa2eFM7HH1IAlDoN"
-    },
-    {
-      "added_at": "2023-12-01 00:01:00",
-      "album": {
         "name": "Looking Up",
         "url": "https://open.spotify.com/album/7lHBtSn2hMlubVBTXn8e0y"
       },
@@ -1583,6 +1567,22 @@
       "duration_ms": 297493,
       "name": "Show Me The Way",
       "url": "https://open.spotify.com/track/5CwY4CG4zJ7XezlEnvnWoE"
+    },
+    {
+      "added_at": "2023-12-01 00:01:00",
+      "album": {
+        "name": "Can You Feel It",
+        "url": "https://open.spotify.com/album/77ELqjPSPIZRplbz2T2IGs"
+      },
+      "artists": [
+        {
+          "name": "Rick Braun",
+          "url": "https://open.spotify.com/artist/4ThkLup6LmqCUuHuG434zZ"
+        }
+      ],
+      "duration_ms": 247746,
+      "name": "Mallorca",
+      "url": "https://open.spotify.com/track/5AJjIjpa2eFM7HH1IAlDoN"
     },
     {
       "added_at": "2023-12-01 00:01:00",

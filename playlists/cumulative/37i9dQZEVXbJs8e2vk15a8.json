@@ -2199,6 +2199,28 @@
     },
     {
       "album": {
+        "name": "\u00c9NFASIS",
+        "url": "https://open.spotify.com/album/3Yg6mB7aDyVFTZBMcJPG5B"
+      },
+      "artists": [
+        {
+          "name": "Jere Klein",
+          "url": "https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9"
+        },
+        {
+          "name": "Gittobeatz",
+          "url": "https://open.spotify.com/artist/4rRwh9ghjocFABAwIwnunp"
+        }
+      ],
+      "date_added": "2023-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172767,
+      "name": "ANDO",
+      "url": "https://open.spotify.com/track/4GvEuYAfJlICR2SpMDaBxQ"
+    },
+    {
+      "album": {
         "name": "ANDO",
         "url": "https://open.spotify.com/album/6UJ9acnNOzxZCq9lv8Mo8D"
       },
@@ -2214,7 +2236,7 @@
       ],
       "date_added": "2023-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-03",
       "duration_ms": 172774,
       "name": "ANDO",
       "url": "https://open.spotify.com/track/6hwGwCfCwHoSJQw7AYPEQu"
@@ -4960,7 +4982,7 @@
       ],
       "date_added": "2023-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-03",
       "duration_ms": 227784,
       "name": "CARACAS EN EL 2000",
       "url": "https://open.spotify.com/track/4CUWxHauVJriW776t5lyCJ"
@@ -7084,7 +7106,7 @@
       ],
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-03",
       "duration_ms": 222188,
       "name": "DEMO #5 - nostalgIA (Spanglish Version)",
       "url": "https://open.spotify.com/track/4GflbFO7hFzIpzD33CxtgS"
@@ -7138,7 +7160,7 @@
       ],
       "date_added": "2023-11-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-23",
+      "date_removed": null,
       "duration_ms": 215055,
       "name": "Demo 5 Nostalgia Intro - Remix",
       "url": "https://open.spotify.com/track/7KBsgiueEgAtNiKxgIxTMj"
@@ -8790,7 +8812,7 @@
       ],
       "date_added": "2023-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-03",
       "duration_ms": 141843,
       "name": "En 4",
       "url": "https://open.spotify.com/track/5eBVwJIJQY5amfYluJ8FF0"
@@ -11904,7 +11926,7 @@
       ],
       "date_added": "2023-10-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-30",
+      "date_removed": null,
       "duration_ms": 221714,
       "name": "Heridas",
       "url": "https://open.spotify.com/track/1bectpQhg99WBgecDJIntY"
@@ -20434,6 +20456,24 @@
     {
       "album": {
         "name": "Oye Mami Solo Dime",
+        "url": "https://open.spotify.com/album/3agn1UddtlTDJwPI2UVJJj"
+      },
+      "artists": [
+        {
+          "name": "Thomi DJ",
+          "url": "https://open.spotify.com/artist/3b7LzlMj6sHCNwnoi51RsG"
+        }
+      ],
+      "date_added": "2023-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155016,
+      "name": "Oye Mami Solo Dime",
+      "url": "https://open.spotify.com/track/4X1KL1KLPqHNZFQGFdaiV3"
+    },
+    {
+      "album": {
+        "name": "Oye Mami Solo Dime",
         "url": "https://open.spotify.com/album/7E5w0RQ7fx1kW57wyX49PQ"
       },
       "artists": [
@@ -20462,7 +20502,7 @@
       ],
       "date_added": "2023-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-03",
       "duration_ms": 154935,
       "name": "Oye Mami Solo Dime",
       "url": "https://open.spotify.com/track/3Q6o01nivhX5FkHVMfBLm5"
@@ -23208,7 +23248,7 @@
       ],
       "date_added": "2023-09-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-16",
+      "date_removed": null,
       "duration_ms": 240047,
       "name": "Querer Querernos",
       "url": "https://open.spotify.com/track/6d3q0F9VNtdxQUTVlRcet6"

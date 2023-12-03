@@ -1,12 +1,12 @@
 {
   "description": "Soak up these laid-back jams. ",
-  "num_followers": 1064489,
+  "num_followers": 1064497,
   "original_name": "Beach Vibes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ODEwNjJmNWY0ZmY1ZTM2YzIxZDI4ZWQ1ZWZkOTYwNjI4NDM0Mzkw",
+  "snapshot_id": "MCxkYjc4NTk2MmMzMjcyMDdmZWUxMmQ0YTY1ZGZkYTc2MmY0MjYwZTdi",
   "tracks": [
     {
       "added_at": "2023-11-13 22:46:04",
@@ -707,6 +707,22 @@
     {
       "added_at": "2023-11-13 22:46:04",
       "album": {
+        "name": "World on Fire",
+        "url": "https://open.spotify.com/album/3nKRWuZAz6LwYgOauD2qKB"
+      },
+      "artists": [
+        {
+          "name": "Stick Figure",
+          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
+        }
+      ],
+      "duration_ms": 269500,
+      "name": "Shine",
+      "url": "https://open.spotify.com/track/1QhrlNjzqmqEFW5T5yMFhw"
+    },
+    {
+      "added_at": "2023-11-13 22:46:04",
+      "album": {
         "name": "Local Motion",
         "url": "https://open.spotify.com/album/3H0eh5wIky3GjF83fRcDT0"
       },
@@ -723,22 +739,6 @@
       "duration_ms": 232160,
       "name": "Warning (feat. Stick Figure)",
       "url": "https://open.spotify.com/track/29JOtyhGMv2gfikATHJlCF"
-    },
-    {
-      "added_at": "2023-11-13 22:46:04",
-      "album": {
-        "name": "World on Fire",
-        "url": "https://open.spotify.com/album/3nKRWuZAz6LwYgOauD2qKB"
-      },
-      "artists": [
-        {
-          "name": "Stick Figure",
-          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
-        }
-      ],
-      "duration_ms": 269500,
-      "name": "Shine",
-      "url": "https://open.spotify.com/track/1QhrlNjzqmqEFW5T5yMFhw"
     },
     {
       "added_at": "2023-11-13 22:46:04",
@@ -875,38 +875,6 @@
     {
       "added_at": "2023-11-13 22:46:04",
       "album": {
-        "name": "Start Livin'",
-        "url": "https://open.spotify.com/album/046TK75MmvAdIkrk51uGIg"
-      },
-      "artists": [
-        {
-          "name": "Donavon Frankenreiter",
-          "url": "https://open.spotify.com/artist/2IAZ2xX1Ovh5jxhBWE7wda"
-        }
-      ],
-      "duration_ms": 194420,
-      "name": "Shine",
-      "url": "https://open.spotify.com/track/4Jd3a2zX1nzt145eDSQK3Y"
-    },
-    {
-      "added_at": "2023-11-13 22:46:04",
-      "album": {
-        "name": "Goodbyes",
-        "url": "https://open.spotify.com/album/0KtW3jjoLmaRfEymHu8P7B"
-      },
-      "artists": [
-        {
-          "name": "Sublime With Rome",
-          "url": "https://open.spotify.com/artist/3XXrhkZKSGd3CUJQFnx5tQ"
-        }
-      ],
-      "duration_ms": 131855,
-      "name": "Goodbyes",
-      "url": "https://open.spotify.com/track/6kpKgO0iPsRkmslT5woRh5"
-    },
-    {
-      "added_at": "2023-11-13 22:46:04",
-      "album": {
         "name": "Beauty In The Silence",
         "url": "https://open.spotify.com/album/7A0gqTE9Jk3FwwADecN9w8"
       },
@@ -927,18 +895,34 @@
     {
       "added_at": "2023-11-13 22:46:04",
       "album": {
-        "name": "There I Go",
-        "url": "https://open.spotify.com/album/4UU8LUYdyjM3oa1UHwKhWI"
+        "name": "Goodbyes",
+        "url": "https://open.spotify.com/album/0KtW3jjoLmaRfEymHu8P7B"
       },
       "artists": [
         {
-          "name": "Common Kings",
-          "url": "https://open.spotify.com/artist/4j0qbafzqnGf4ARF8tY4VL"
+          "name": "Sublime With Rome",
+          "url": "https://open.spotify.com/artist/3XXrhkZKSGd3CUJQFnx5tQ"
         }
       ],
-      "duration_ms": 202172,
-      "name": "There I Go",
-      "url": "https://open.spotify.com/track/5maLNTxNa29qrB1qpBoh6y"
+      "duration_ms": 131855,
+      "name": "Goodbyes",
+      "url": "https://open.spotify.com/track/6kpKgO0iPsRkmslT5woRh5"
+    },
+    {
+      "added_at": "2023-11-13 22:46:04",
+      "album": {
+        "name": "Start Livin'",
+        "url": "https://open.spotify.com/album/046TK75MmvAdIkrk51uGIg"
+      },
+      "artists": [
+        {
+          "name": "Donavon Frankenreiter",
+          "url": "https://open.spotify.com/artist/2IAZ2xX1Ovh5jxhBWE7wda"
+        }
+      ],
+      "duration_ms": 194420,
+      "name": "Shine",
+      "url": "https://open.spotify.com/track/4Jd3a2zX1nzt145eDSQK3Y"
     },
     {
       "added_at": "2023-11-13 22:46:04",
@@ -955,6 +939,22 @@
       "duration_ms": 213706,
       "name": "Love Letter",
       "url": "https://open.spotify.com/track/6LrurNYfLGOgS88xzRBMn8"
+    },
+    {
+      "added_at": "2023-11-13 22:46:04",
+      "album": {
+        "name": "There I Go",
+        "url": "https://open.spotify.com/album/4UU8LUYdyjM3oa1UHwKhWI"
+      },
+      "artists": [
+        {
+          "name": "Common Kings",
+          "url": "https://open.spotify.com/artist/4j0qbafzqnGf4ARF8tY4VL"
+        }
+      ],
+      "duration_ms": 202172,
+      "name": "There I Go",
+      "url": "https://open.spotify.com/track/5maLNTxNa29qrB1qpBoh6y"
     },
     {
       "added_at": "2023-11-13 22:46:04",
@@ -1579,22 +1579,6 @@
     {
       "added_at": "2023-11-13 22:46:04",
       "album": {
-        "name": "Gimme Love",
-        "url": "https://open.spotify.com/album/1A1VUJcKkq2zEef0OAuEfm"
-      },
-      "artists": [
-        {
-          "name": "The Elovaters",
-          "url": "https://open.spotify.com/artist/2bBTnfGpjGCTRozyAodDa3"
-        }
-      ],
-      "duration_ms": 231976,
-      "name": "Gimme Love",
-      "url": "https://open.spotify.com/track/0xhHR5lWJCxIYGapEskm7C"
-    },
-    {
-      "added_at": "2023-11-13 22:46:04",
-      "album": {
         "name": "Voyager",
         "url": "https://open.spotify.com/album/5PdXV8lvbR9xLOPYTdrDEG"
       },
@@ -1607,6 +1591,22 @@
       "duration_ms": 203912,
       "name": "Good Feeling",
       "url": "https://open.spotify.com/track/6ZXODzDislboN4mffec8NM"
+    },
+    {
+      "added_at": "2023-11-13 22:46:04",
+      "album": {
+        "name": "Gimme Love",
+        "url": "https://open.spotify.com/album/1A1VUJcKkq2zEef0OAuEfm"
+      },
+      "artists": [
+        {
+          "name": "The Elovaters",
+          "url": "https://open.spotify.com/artist/2bBTnfGpjGCTRozyAodDa3"
+        }
+      ],
+      "duration_ms": 231976,
+      "name": "Gimme Love",
+      "url": "https://open.spotify.com/track/0xhHR5lWJCxIYGapEskm7C"
     },
     {
       "added_at": "2023-11-13 22:46:04",
@@ -1699,6 +1699,22 @@
     {
       "added_at": "2023-11-13 22:46:04",
       "album": {
+        "name": "Middle Finger",
+        "url": "https://open.spotify.com/album/3mHlnMg1GsCzHy142QBpzH"
+      },
+      "artists": [
+        {
+          "name": "Ballyhoo!",
+          "url": "https://open.spotify.com/artist/6py4uFIC7T6RdrZnH6hFYJ"
+        }
+      ],
+      "duration_ms": 206032,
+      "name": "Middle Finger",
+      "url": "https://open.spotify.com/track/6xt46jtvhOjqf0bbJ3wT3v"
+    },
+    {
+      "added_at": "2023-11-13 22:46:04",
+      "album": {
         "name": "All Her Favorite Songs (with Little Stranger)",
         "url": "https://open.spotify.com/album/3EkYLDuVv4YVW4K3UOFHIG"
       },
@@ -1719,18 +1735,18 @@
     {
       "added_at": "2023-11-13 22:46:04",
       "album": {
-        "name": "Middle Finger",
-        "url": "https://open.spotify.com/album/3mHlnMg1GsCzHy142QBpzH"
+        "name": "Mind The Moon",
+        "url": "https://open.spotify.com/album/39EHgpDs6VgKlx0RY0E37J"
       },
       "artists": [
         {
-          "name": "Ballyhoo!",
-          "url": "https://open.spotify.com/artist/6py4uFIC7T6RdrZnH6hFYJ"
+          "name": "Milky Chance",
+          "url": "https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs"
         }
       ],
-      "duration_ms": 206032,
-      "name": "Middle Finger",
-      "url": "https://open.spotify.com/track/6xt46jtvhOjqf0bbJ3wT3v"
+      "duration_ms": 213280,
+      "name": "The Game",
+      "url": "https://open.spotify.com/track/6ixRbuonm6wfA9gWVzDDGP"
     },
     {
       "added_at": "2023-11-13 22:46:04",
@@ -1751,26 +1767,6 @@
       "duration_ms": 157084,
       "name": "Too Late (with Jared Watson of Dirty Heads)",
       "url": "https://open.spotify.com/track/3jaaCjDmM9wMEr42mMqrPo"
-    },
-    {
-      "added_at": "2023-11-13 22:46:04",
-      "album": {
-        "name": "Batshit Crazy",
-        "url": "https://open.spotify.com/album/1CrDdAUE0rljeRWxPKXV7G"
-      },
-      "artists": [
-        {
-          "name": "Artikal Sound System",
-          "url": "https://open.spotify.com/artist/5wbZwShmxCGRjgjTQQr7Sr"
-        },
-        {
-          "name": "Little Stranger",
-          "url": "https://open.spotify.com/artist/6nheJ1XoAkaKOLIgHzMbTq"
-        }
-      ],
-      "duration_ms": 205142,
-      "name": "Batshit Crazy",
-      "url": "https://open.spotify.com/track/1kht76yGOThdMDpp0UKFKW"
     },
     {
       "added_at": "2023-11-13 22:46:04",
@@ -1811,18 +1807,22 @@
     {
       "added_at": "2023-11-13 22:46:04",
       "album": {
-        "name": "Mind The Moon",
-        "url": "https://open.spotify.com/album/39EHgpDs6VgKlx0RY0E37J"
+        "name": "Batshit Crazy",
+        "url": "https://open.spotify.com/album/1CrDdAUE0rljeRWxPKXV7G"
       },
       "artists": [
         {
-          "name": "Milky Chance",
-          "url": "https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs"
+          "name": "Artikal Sound System",
+          "url": "https://open.spotify.com/artist/5wbZwShmxCGRjgjTQQr7Sr"
+        },
+        {
+          "name": "Little Stranger",
+          "url": "https://open.spotify.com/artist/6nheJ1XoAkaKOLIgHzMbTq"
         }
       ],
-      "duration_ms": 213280,
-      "name": "The Game",
-      "url": "https://open.spotify.com/track/6ixRbuonm6wfA9gWVzDDGP"
+      "duration_ms": 205142,
+      "name": "Batshit Crazy",
+      "url": "https://open.spotify.com/track/1kht76yGOThdMDpp0UKFKW"
     },
     {
       "added_at": "2023-11-13 22:46:04",
@@ -1907,22 +1907,6 @@
     {
       "added_at": "2023-11-13 22:46:04",
       "album": {
-        "name": "The Mighty",
-        "url": "https://open.spotify.com/album/6aaRaPwK2QDEIro5UcHMIO"
-      },
-      "artists": [
-        {
-          "name": "O.A.R.",
-          "url": "https://open.spotify.com/artist/1Cq0LAHFfvUTBEtMPXUidI"
-        }
-      ],
-      "duration_ms": 216200,
-      "name": "Knocking at Your Door",
-      "url": "https://open.spotify.com/track/78v5ljpPryjGY4r1wndiqa"
-    },
-    {
-      "added_at": "2023-11-13 22:46:04",
-      "album": {
         "name": "Kingdom (with The Movement)",
         "url": "https://open.spotify.com/album/5fFphh4WF4FYahVze4kDFL"
       },
@@ -1939,6 +1923,22 @@
       "duration_ms": 282323,
       "name": "Kingdom (with The Movement)",
       "url": "https://open.spotify.com/track/5K1MRub64kaJOUyWe8marJ"
+    },
+    {
+      "added_at": "2023-11-13 22:46:04",
+      "album": {
+        "name": "The Mighty",
+        "url": "https://open.spotify.com/album/6aaRaPwK2QDEIro5UcHMIO"
+      },
+      "artists": [
+        {
+          "name": "O.A.R.",
+          "url": "https://open.spotify.com/artist/1Cq0LAHFfvUTBEtMPXUidI"
+        }
+      ],
+      "duration_ms": 216200,
+      "name": "Knocking at Your Door",
+      "url": "https://open.spotify.com/track/78v5ljpPryjGY4r1wndiqa"
     },
     {
       "added_at": "2023-11-13 22:46:04",
@@ -2019,6 +2019,22 @@
     {
       "added_at": "2023-11-13 22:46:04",
       "album": {
+        "name": "Pleasure Point",
+        "url": "https://open.spotify.com/album/4z39wv4tx29BalyKnsy54i"
+      },
+      "artists": [
+        {
+          "name": "The Expendables",
+          "url": "https://open.spotify.com/artist/2OpHxx1SArSMlBrIMM0aV9"
+        }
+      ],
+      "duration_ms": 232533,
+      "name": "Wicked Game",
+      "url": "https://open.spotify.com/track/588pbWob0xei2cCO4GyIT9"
+    },
+    {
+      "added_at": "2023-11-13 22:46:04",
+      "album": {
         "name": "Let It All Out",
         "url": "https://open.spotify.com/album/5Vbzak4krkKEs6ECqfKaTl"
       },
@@ -2043,22 +2059,6 @@
     {
       "added_at": "2023-11-13 22:46:04",
       "album": {
-        "name": "Pleasure Point",
-        "url": "https://open.spotify.com/album/4z39wv4tx29BalyKnsy54i"
-      },
-      "artists": [
-        {
-          "name": "The Expendables",
-          "url": "https://open.spotify.com/artist/2OpHxx1SArSMlBrIMM0aV9"
-        }
-      ],
-      "duration_ms": 232533,
-      "name": "Wicked Game",
-      "url": "https://open.spotify.com/track/588pbWob0xei2cCO4GyIT9"
-    },
-    {
-      "added_at": "2023-11-13 22:46:04",
-      "album": {
         "name": "Terra Firma",
         "url": "https://open.spotify.com/album/6CubvryZSNI5UsrftXJqhK"
       },
@@ -2075,22 +2075,6 @@
     {
       "added_at": "2023-11-13 22:46:04",
       "album": {
-        "name": "Prologue",
-        "url": "https://open.spotify.com/album/1mgDzGlXtOLeilxgyaltHo"
-      },
-      "artists": [
-        {
-          "name": "Hearts & Colors",
-          "url": "https://open.spotify.com/artist/3wjsrpfO6odEphTZWx45RQ"
-        }
-      ],
-      "duration_ms": 186845,
-      "name": "Love Her Anyways",
-      "url": "https://open.spotify.com/track/3B8TBGV0upObaUd9z4O9W8"
-    },
-    {
-      "added_at": "2023-11-13 22:46:04",
-      "album": {
         "name": "Ride (Edit)",
         "url": "https://open.spotify.com/album/3P0bUyvkWgzD8IwVobUwZo"
       },
@@ -2103,6 +2087,22 @@
       "duration_ms": 220310,
       "name": "Ride (Edit)",
       "url": "https://open.spotify.com/track/1nBZjJhrHIFy1vavFiluy9"
+    },
+    {
+      "added_at": "2023-11-13 22:46:04",
+      "album": {
+        "name": "Prologue",
+        "url": "https://open.spotify.com/album/1mgDzGlXtOLeilxgyaltHo"
+      },
+      "artists": [
+        {
+          "name": "Hearts & Colors",
+          "url": "https://open.spotify.com/artist/3wjsrpfO6odEphTZWx45RQ"
+        }
+      ],
+      "duration_ms": 186845,
+      "name": "Love Her Anyways",
+      "url": "https://open.spotify.com/track/3B8TBGV0upObaUd9z4O9W8"
     },
     {
       "added_at": "2023-11-13 22:46:04",

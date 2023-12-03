@@ -936,7 +936,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-03",
       "duration_ms": 363426,
       "name": "Again",
       "url": "https://open.spotify.com/track/5zEBelrvQ0nQidz2Bd92q9"
@@ -1136,6 +1136,28 @@
       "duration_ms": 241106,
       "name": "Alaska",
       "url": "https://open.spotify.com/track/7xsew7zvk3Y5XctO2W6MnO"
+    },
+    {
+      "album": {
+        "name": "Alch Si",
+        "url": "https://open.spotify.com/album/7rCPyUIciqYswpRXTa1JYc"
+      },
+      "artists": [
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        },
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        }
+      ],
+      "date_added": "2023-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153953,
+      "name": "Alch Si",
+      "url": "https://open.spotify.com/track/5cWgwbui8BasfjCXvBZ7UA"
     },
     {
       "album": {
@@ -1741,6 +1763,28 @@
     },
     {
       "album": {
+        "name": "\u00c9NFASIS",
+        "url": "https://open.spotify.com/album/3Yg6mB7aDyVFTZBMcJPG5B"
+      },
+      "artists": [
+        {
+          "name": "Jere Klein",
+          "url": "https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9"
+        },
+        {
+          "name": "Gittobeatz",
+          "url": "https://open.spotify.com/artist/4rRwh9ghjocFABAwIwnunp"
+        }
+      ],
+      "date_added": "2023-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172767,
+      "name": "ANDO",
+      "url": "https://open.spotify.com/track/4GvEuYAfJlICR2SpMDaBxQ"
+    },
+    {
+      "album": {
         "name": "ANDO",
         "url": "https://open.spotify.com/album/6UJ9acnNOzxZCq9lv8Mo8D"
       },
@@ -1756,7 +1800,7 @@
       ],
       "date_added": "2023-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-03",
       "duration_ms": 172774,
       "name": "ANDO",
       "url": "https://open.spotify.com/track/6hwGwCfCwHoSJQw7AYPEQu"
@@ -12068,7 +12112,7 @@
       ],
       "date_added": "2023-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-03",
       "duration_ms": 185917,
       "name": "Houdini",
       "url": "https://open.spotify.com/track/4OMJGnvZfDvsePyCwRGO7X"
@@ -12184,6 +12228,24 @@
       "duration_ms": 225250,
       "name": "Hublot",
       "url": "https://open.spotify.com/track/5qKsIal7JJZ2bqXHPKdyVb"
+    },
+    {
+      "album": {
+        "name": "HUEVITO CHOPECHA",
+        "url": "https://open.spotify.com/album/4nLJdeZOw739XBu4dE5TU5"
+      },
+      "artists": [
+        {
+          "name": "Dj Diestro",
+          "url": "https://open.spotify.com/artist/3WWMZusY0DgheUWKhTVx9j"
+        }
+      ],
+      "date_added": "2023-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 57648,
+      "name": "HUEVITO CHOPECHA",
+      "url": "https://open.spotify.com/track/3xkSXoQDy3Njt0e4OXixzC"
     },
     {
       "album": {

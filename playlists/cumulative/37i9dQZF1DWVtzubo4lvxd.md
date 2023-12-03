@@ -4,7 +4,7 @@
 
 > Chill lo\-fi beats to enjoy a great afternoon.
 
-244 songs - 9 hr 28 min
+245 songs - 9 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,7 @@
 | [Brazilian Samurai](https://open.spotify.com/track/6ITLE7JzvrfBwsFqbGtWoL) | [Pecun](https://open.spotify.com/artist/73rhjAgkHK1TsXAdWxVahH), [Chill Moon Music](https://open.spotify.com/artist/1ppFAqWZIgv5c7huT7O3Aa) | [Brazilian Samurai](https://open.spotify.com/album/4lotT58cTAdgciKcWdSl8W) | 2:41 | 2022-04-15 | 2022-07-29 |
 | [Caliber](https://open.spotify.com/track/6nk3juaB3mIKFJq8UcmpDU) | [yeyts.](https://open.spotify.com/artist/4fawpeTlkJtDMXDzJmBYSR) | [Caliber](https://open.spotify.com/album/4VBkwvUerwiwJbkY6zlRXK) | 2:10 | 2022-04-15 |  |
 | [Casino Space Gun](https://open.spotify.com/track/2p83a4H9M3lElGRga9nEgm) | [Mr.Goodvibe](https://open.spotify.com/artist/31jkkhXZ4nPrp00nLjznqx), [Fırat Ağacık](https://open.spotify.com/artist/0jvlsSg7s79GNOp79a7CUb) | [Casino Space Gun](https://open.spotify.com/album/7KmciSq3fci8jZvxpiY46i) | 2:20 | 2022-04-15 | 2022-07-29 |
-| [Cats Walking](https://open.spotify.com/track/5cckL4va5OEGcTplcs6Chi) | [Yomoti](https://open.spotify.com/artist/1QybrBtERg1gUpJxwRelUC) | [Cats Walking](https://open.spotify.com/album/3E3DuADepz0S6PnlHoKtps) | 2:16 | 2022-04-15 |  |
+| [Cats Walking](https://open.spotify.com/track/5cckL4va5OEGcTplcs6Chi) | [Yomoti](https://open.spotify.com/artist/1QybrBtERg1gUpJxwRelUC) | [Cats Walking](https://open.spotify.com/album/3E3DuADepz0S6PnlHoKtps) | 2:16 | 2022-04-15 | 2023-12-03 |
 | [Cerveza](https://open.spotify.com/track/43u2nrHfKmxQZwkQ3LAMG6) | [Sebastian Kamae](https://open.spotify.com/artist/7GsvnIE0bUBu6WZXO3ryJe) | [Cerveza](https://open.spotify.com/album/2ZPWCa4zhBDGSzEenlmRel) | 2:59 | 2022-04-15 | 2022-07-07 |
 | [Choke](https://open.spotify.com/track/2bSN2xip2QqAWzpziLxbiy) | [Sonn](https://open.spotify.com/artist/1VURTzU1i6o1agHFXs3V4E) | [Choke](https://open.spotify.com/album/40Ig3tBAjg46yp6XMUdxDg) | 3:00 | 2022-04-15 |  |
 | [Clouds on My Bed](https://open.spotify.com/track/1pab9zVbWB1AsOknBXifbd) | [Ozoyo](https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe), [Wun Two](https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE) | [Motel Lazy](https://open.spotify.com/album/1j3DSMGxqDAukUT52VLShV) | 2:32 | 2022-04-15 | 2022-07-04 |
@@ -116,6 +116,7 @@
 | [Linden](https://open.spotify.com/track/3ly2OfaKp8wRb124D2Idam) | [Kou](https://open.spotify.com/artist/0Voo6nIodCoqVzS8LlEKX7) | [Linden](https://open.spotify.com/album/4qEkiqAmO4t2PA86qEpEmR) | 1:50 | 2022-04-15 | 2022-07-29 |
 | [long ago.](https://open.spotify.com/track/7BdazOnsFvAkQGyrp2djJM) | [halberd](https://open.spotify.com/artist/7ow7nXWCZuMoU09aRki7GB) | [long ago.](https://open.spotify.com/album/63BlmEk69qFmjJbO9n4Jb6) | 2:06 | 2022-04-15 |  |
 | [Lost in Florence](https://open.spotify.com/track/5B1tm4NuzSbYUTwk0xEz2a) | [Kendall Miles](https://open.spotify.com/artist/4Z5eM7HLu4b0LAKrywoWR2), [I Eat Plants for a Living](https://open.spotify.com/artist/5EevHNEa1e2YvcJgksJpRK) | [Daydreams](https://open.spotify.com/album/75Nc2FvrYrzu7UY4yNjX1O) | 1:32 | 2022-04-15 | 2023-07-23 |
+| [Lost In Florence](https://open.spotify.com/track/4WrlDl9oNqNrnZ10441ANu) | [Kendall Miles](https://open.spotify.com/artist/4Z5eM7HLu4b0LAKrywoWR2), [I Eat Plants for a Living](https://open.spotify.com/artist/5EevHNEa1e2YvcJgksJpRK) | [Lost In Florence](https://open.spotify.com/album/03cB1unsDPer56B2nSxwWB) | 1:32 | 2022-04-15 |  |
 | [Lost Samurai](https://open.spotify.com/track/0LWoUEKzOpy7PWbSC67Oz6) | [Caleb Belkin](https://open.spotify.com/artist/12TcsyqAd3lJUcZFJVogXZ) | [Discography](https://open.spotify.com/album/17KY09ISAVpJ30vTaiTW3n) | 2:13 | 2022-04-15 |  |
 | [Lost Samurai](https://open.spotify.com/track/5jfNucPo7pMJZYF7kdBbne) | [Caleb Belkin](https://open.spotify.com/artist/12TcsyqAd3lJUcZFJVogXZ) | [Discography](https://open.spotify.com/album/1z2EULhFIYioLEV4K6DEHp) | 2:13 | 2022-04-15 | 2022-08-12 |
 | [love](https://open.spotify.com/track/1vgH8Pxm88SZAtNDFj1pKT) | [lofi.samurai](https://open.spotify.com/artist/6NLqFFCoVnFwbXzoIB5Col) | [oldies](https://open.spotify.com/album/2qFWwW20dcp45bEFEgSAc1) | 1:21 | 2022-04-15 | 2023-10-28 |

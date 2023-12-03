@@ -1,12 +1,12 @@
 {
   "description": "Crusin' is not a crime, it's a lifestyle! ",
-  "num_followers": 49177,
+  "num_followers": 49324,
   "original_name": "Lowrider Crusin'",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmM2Y3OWM4MjE0NzcxYWMzMWExM2Y5NTE0YmJkNTg2MGE2NmNkZTQ3",
+  "snapshot_id": "MCwyMTgxZmE3ZTY5OTUxMjdlMTgwZDMzNjJkMjBlY2JjY2JmZjBiOTIx",
   "tracks": [
     {
       "added_at": "2023-08-29 23:44:25",
@@ -567,22 +567,6 @@
     {
       "added_at": "2023-08-29 23:44:25",
       "album": {
-        "name": "The Best Of Bobby Vinton",
-        "url": "https://open.spotify.com/album/4qK4QZUSp8QdoMEm9mrzyA"
-      },
-      "artists": [
-        {
-          "name": "Bobby Vinton",
-          "url": "https://open.spotify.com/artist/6bOYtKnpLPQSfMpS2ilotK"
-        }
-      ],
-      "duration_ms": 161373,
-      "name": "Mr. Lonely",
-      "url": "https://open.spotify.com/track/5KG2ahk1cONbHvg3dBdTbx"
-    },
-    {
-      "added_at": "2023-08-29 23:44:25",
-      "album": {
         "name": "Sings Just One Look And Other Memorable Selections",
         "url": "https://open.spotify.com/album/2CLiFy7JO1bmkNV6LFEMix"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 151906,
       "name": "Just One Look",
       "url": "https://open.spotify.com/track/154uJXAUVoqvV5on0w03a0"
+    },
+    {
+      "added_at": "2023-08-29 23:44:25",
+      "album": {
+        "name": "The Best Of Bobby Vinton",
+        "url": "https://open.spotify.com/album/4qK4QZUSp8QdoMEm9mrzyA"
+      },
+      "artists": [
+        {
+          "name": "Bobby Vinton",
+          "url": "https://open.spotify.com/artist/6bOYtKnpLPQSfMpS2ilotK"
+        }
+      ],
+      "duration_ms": 161373,
+      "name": "Mr. Lonely",
+      "url": "https://open.spotify.com/track/5KG2ahk1cONbHvg3dBdTbx"
     },
     {
       "added_at": "2023-08-29 23:44:25",
@@ -647,22 +647,6 @@
     {
       "added_at": "2023-08-29 23:44:25",
       "album": {
-        "name": "Yes I'm Ready",
-        "url": "https://open.spotify.com/album/7ujKaJ1E5N76H4y9hyhTdj"
-      },
-      "artists": [
-        {
-          "name": "Barbara Mason",
-          "url": "https://open.spotify.com/artist/5PmZd7YOaUgQwhOja44fmZ"
-        }
-      ],
-      "duration_ms": 184333,
-      "name": "Yes, I'm Ready",
-      "url": "https://open.spotify.com/track/2gZpW5pTZkimGG98loFSl2"
-    },
-    {
-      "added_at": "2023-08-29 23:44:25",
-      "album": {
         "name": "Natural High",
         "url": "https://open.spotify.com/album/4kjf1C8Xpqr2e7pTDwblG2"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 240466,
       "name": "Natural High",
       "url": "https://open.spotify.com/track/7aKrysuyZvDnU3JwnlO3dd"
+    },
+    {
+      "added_at": "2023-08-29 23:44:25",
+      "album": {
+        "name": "Yes I'm Ready",
+        "url": "https://open.spotify.com/album/7ujKaJ1E5N76H4y9hyhTdj"
+      },
+      "artists": [
+        {
+          "name": "Barbara Mason",
+          "url": "https://open.spotify.com/artist/5PmZd7YOaUgQwhOja44fmZ"
+        }
+      ],
+      "duration_ms": 184333,
+      "name": "Yes, I'm Ready",
+      "url": "https://open.spotify.com/track/2gZpW5pTZkimGG98loFSl2"
     },
     {
       "added_at": "2023-08-29 23:44:25",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2023-08-29 23:44:25",
       "album": {
-        "name": "The Very Best Of The Dramatics",
-        "url": "https://open.spotify.com/album/1smTgNR8x8iq1EkhFyoFT7"
-      },
-      "artists": [
-        {
-          "name": "The Dramatics",
-          "url": "https://open.spotify.com/artist/2W8UTum7bU7ue6m0r14H97"
-        }
-      ],
-      "duration_ms": 209213,
-      "name": "In The Rain",
-      "url": "https://open.spotify.com/track/6aKFAhG7hCy71wLDMKjP5G"
-    },
-    {
-      "added_at": "2023-08-29 23:44:25",
-      "album": {
         "name": "All the Greatest Hits",
         "url": "https://open.spotify.com/album/3aUZ0iLjcePsDggYsZAGBZ"
       },
@@ -1099,18 +1083,18 @@
     {
       "added_at": "2023-08-29 23:44:25",
       "album": {
-        "name": "All the Greatest Hits",
-        "url": "https://open.spotify.com/album/3aUZ0iLjcePsDggYsZAGBZ"
+        "name": "The Very Best Of The Dramatics",
+        "url": "https://open.spotify.com/album/1smTgNR8x8iq1EkhFyoFT7"
       },
       "artists": [
         {
-          "name": "Zapp",
-          "url": "https://open.spotify.com/artist/396Kh0m4wGUvcMUULw71yi"
+          "name": "The Dramatics",
+          "url": "https://open.spotify.com/artist/2W8UTum7bU7ue6m0r14H97"
         }
       ],
-      "duration_ms": 282480,
-      "name": "Computer Love",
-      "url": "https://open.spotify.com/track/677tTabxmQFZjoNlo2E6JW"
+      "duration_ms": 209213,
+      "name": "In The Rain",
+      "url": "https://open.spotify.com/track/6aKFAhG7hCy71wLDMKjP5G"
     },
     {
       "added_at": "2023-08-29 23:44:25",
@@ -1127,6 +1111,22 @@
       "duration_ms": 255173,
       "name": "Float On - Single Version",
       "url": "https://open.spotify.com/track/4kxDa9niTJIyh89afKjpCR"
+    },
+    {
+      "added_at": "2023-08-29 23:44:25",
+      "album": {
+        "name": "All the Greatest Hits",
+        "url": "https://open.spotify.com/album/3aUZ0iLjcePsDggYsZAGBZ"
+      },
+      "artists": [
+        {
+          "name": "Zapp",
+          "url": "https://open.spotify.com/artist/396Kh0m4wGUvcMUULw71yi"
+        }
+      ],
+      "duration_ms": 282480,
+      "name": "Computer Love",
+      "url": "https://open.spotify.com/track/677tTabxmQFZjoNlo2E6JW"
     },
     {
       "added_at": "2023-08-29 23:44:25",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2023-08-29 23:44:25",
       "album": {
-        "name": "Baby, I'm Yours",
-        "url": "https://open.spotify.com/album/0rmDDX6kd3GGmsfYVAlHfN"
-      },
-      "artists": [
-        {
-          "name": "Barbara Lewis",
-          "url": "https://open.spotify.com/artist/2UocIcNiHj5n4tj1CnBzRq"
-        }
-      ],
-      "duration_ms": 148706,
-      "name": "Baby, I'm Yours",
-      "url": "https://open.spotify.com/track/6ldnKaF2UYpOtmpOAOwlQe"
-    },
-    {
-      "added_at": "2023-08-29 23:44:25",
-      "album": {
         "name": "Swingsation: Sil Austin",
         "url": "https://open.spotify.com/album/1rObnFkeZhkF19kA5Z5tJa"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 159973,
       "name": "Slow Walk",
       "url": "https://open.spotify.com/track/6FwjZsd1WrdXH4Vy4yTNyg"
+    },
+    {
+      "added_at": "2023-08-29 23:44:25",
+      "album": {
+        "name": "Baby, I'm Yours",
+        "url": "https://open.spotify.com/album/0rmDDX6kd3GGmsfYVAlHfN"
+      },
+      "artists": [
+        {
+          "name": "Barbara Lewis",
+          "url": "https://open.spotify.com/artist/2UocIcNiHj5n4tj1CnBzRq"
+        }
+      ],
+      "duration_ms": 148706,
+      "name": "Baby, I'm Yours",
+      "url": "https://open.spotify.com/track/6ldnKaF2UYpOtmpOAOwlQe"
     },
     {
       "added_at": "2023-08-29 23:44:25",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2023-08-29 23:44:25",
       "album": {
-        "name": "Warm & Tender Soul",
-        "url": "https://open.spotify.com/album/2PDg8ZGUuCxr0PQ7eyY750"
-      },
-      "artists": [
-        {
-          "name": "Percy Sledge",
-          "url": "https://open.spotify.com/artist/3rRmDmzPcAFwcUDvG5gBqO"
-        }
-      ],
-      "duration_ms": 173893,
-      "name": "You Really Got a Hold on Me",
-      "url": "https://open.spotify.com/track/1kz3vwmLiBlW3A73exQSNx"
-    },
-    {
-      "added_at": "2023-08-29 23:44:25",
-      "album": {
         "name": "Don't Tell Me",
         "url": "https://open.spotify.com/album/7mwaHlZf72E7QOdNo6kcyl"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 233430,
       "name": "Don't Tell Me",
       "url": "https://open.spotify.com/track/2zu0W9Kgo53F0Cbv91jltm"
+    },
+    {
+      "added_at": "2023-08-29 23:44:25",
+      "album": {
+        "name": "Warm & Tender Soul",
+        "url": "https://open.spotify.com/album/2PDg8ZGUuCxr0PQ7eyY750"
+      },
+      "artists": [
+        {
+          "name": "Percy Sledge",
+          "url": "https://open.spotify.com/artist/3rRmDmzPcAFwcUDvG5gBqO"
+        }
+      ],
+      "duration_ms": 173893,
+      "name": "You Really Got a Hold on Me",
+      "url": "https://open.spotify.com/track/1kz3vwmLiBlW3A73exQSNx"
     },
     {
       "added_at": "2023-08-29 23:44:25",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2023-08-29 23:44:25",
       "album": {
-        "name": "Two Lovers",
-        "url": "https://open.spotify.com/album/4dfP6ztb54XjPNDMOQ1MSL"
-      },
-      "artists": [
-        {
-          "name": "Mary Wells",
-          "url": "https://open.spotify.com/artist/1cjZk1xXn3YCToNg3uJpA7"
-        }
-      ],
-      "duration_ms": 166732,
-      "name": "Two Lovers",
-      "url": "https://open.spotify.com/track/00CmjeeHvAVKvx3tcIiZTy"
-    },
-    {
-      "added_at": "2023-08-29 23:44:25",
-      "album": {
         "name": "Will You Still Love Me Tomorrow",
         "url": "https://open.spotify.com/album/13MaoinwLDJqTHPMEr0efZ"
       },
@@ -1431,6 +1415,22 @@
       "duration_ms": 124186,
       "name": "Dedicated To The One I Love",
       "url": "https://open.spotify.com/track/4HdRMye6yPWOFrfLLM7W6b"
+    },
+    {
+      "added_at": "2023-08-29 23:44:25",
+      "album": {
+        "name": "Two Lovers",
+        "url": "https://open.spotify.com/album/4dfP6ztb54XjPNDMOQ1MSL"
+      },
+      "artists": [
+        {
+          "name": "Mary Wells",
+          "url": "https://open.spotify.com/artist/1cjZk1xXn3YCToNg3uJpA7"
+        }
+      ],
+      "duration_ms": 166732,
+      "name": "Two Lovers",
+      "url": "https://open.spotify.com/track/00CmjeeHvAVKvx3tcIiZTy"
     },
     {
       "added_at": "2023-08-29 23:44:25",
@@ -1479,6 +1479,22 @@
       "duration_ms": 240842,
       "name": "Soon Enough",
       "url": "https://open.spotify.com/track/7bVvbbjdwt1o5dRW0sevz4"
+    },
+    {
+      "added_at": "2023-08-29 23:44:25",
+      "album": {
+        "name": "Will You Still Love Me Tomorrow",
+        "url": "https://open.spotify.com/album/13MaoinwLDJqTHPMEr0efZ"
+      },
+      "artists": [
+        {
+          "name": "The Shirelles",
+          "url": "https://open.spotify.com/artist/0x83OBqixqdCHnStP5VMcn"
+        }
+      ],
+      "duration_ms": 161000,
+      "name": "Baby It's You",
+      "url": "https://open.spotify.com/track/2mRg1R9LKzZJWRAtKVollf"
     },
     {
       "added_at": "2023-08-29 23:44:25",
@@ -1543,22 +1559,6 @@
       "duration_ms": 151626,
       "name": "Try Me",
       "url": "https://open.spotify.com/track/44AgaeLQCnvk3PPHIaDeDk"
-    },
-    {
-      "added_at": "2023-08-29 23:44:25",
-      "album": {
-        "name": "Will You Still Love Me Tomorrow",
-        "url": "https://open.spotify.com/album/13MaoinwLDJqTHPMEr0efZ"
-      },
-      "artists": [
-        {
-          "name": "The Shirelles",
-          "url": "https://open.spotify.com/artist/0x83OBqixqdCHnStP5VMcn"
-        }
-      ],
-      "duration_ms": 161000,
-      "name": "Baby It's You",
-      "url": "https://open.spotify.com/track/2mRg1R9LKzZJWRAtKVollf"
     },
     {
       "added_at": "2023-08-29 23:44:25",
@@ -2059,6 +2059,26 @@
     {
       "added_at": "2023-08-29 23:44:25",
       "album": {
+        "name": "The Specialty Story",
+        "url": "https://open.spotify.com/album/0CRWmTIjmMumhwYI6BO4Nh"
+      },
+      "artists": [
+        {
+          "name": "Tony Allen",
+          "url": "https://open.spotify.com/artist/1Q8hCl2Wae0lQ7K6RRjrck"
+        },
+        {
+          "name": "The Champs",
+          "url": "https://open.spotify.com/artist/3yt4IVDHz0luREG9Uf9xrp"
+        }
+      ],
+      "duration_ms": 165133,
+      "name": "Nite Owl (A.K.A. Night Owl)",
+      "url": "https://open.spotify.com/track/2nvQcGTDCJpqAt22M4zqrO"
+    },
+    {
+      "added_at": "2023-08-29 23:44:25",
+      "album": {
         "name": "Talk to Me",
         "url": "https://open.spotify.com/album/58KDtRZBc0rtcIAMamtrnT"
       },
@@ -2087,26 +2107,6 @@
       "duration_ms": 172560,
       "name": "The Bells",
       "url": "https://open.spotify.com/track/2kLrFBgVs9BsyNQ6EDc5LH"
-    },
-    {
-      "added_at": "2023-08-29 23:44:25",
-      "album": {
-        "name": "The Specialty Story",
-        "url": "https://open.spotify.com/album/0CRWmTIjmMumhwYI6BO4Nh"
-      },
-      "artists": [
-        {
-          "name": "Tony Allen",
-          "url": "https://open.spotify.com/artist/1Q8hCl2Wae0lQ7K6RRjrck"
-        },
-        {
-          "name": "The Champs",
-          "url": "https://open.spotify.com/artist/3yt4IVDHz0luREG9Uf9xrp"
-        }
-      ],
-      "duration_ms": 165133,
-      "name": "Nite Owl (A.K.A. Night Owl)",
-      "url": "https://open.spotify.com/track/2nvQcGTDCJpqAt22M4zqrO"
     },
     {
       "added_at": "2023-08-29 23:44:25",
@@ -2415,22 +2415,6 @@
     {
       "added_at": "2023-08-29 23:44:25",
       "album": {
-        "name": "The Essential Delfonics",
-        "url": "https://open.spotify.com/album/0yBRZK5b6TmZGJ7sCm23jQ"
-      },
-      "artists": [
-        {
-          "name": "The Delfonics",
-          "url": "https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4"
-        }
-      ],
-      "duration_ms": 125386,
-      "name": "Going Out of My Head - Remastered",
-      "url": "https://open.spotify.com/track/4KNR8w9Y16CoJh7ZEbiMAh"
-    },
-    {
-      "added_at": "2023-08-29 23:44:25",
-      "album": {
         "name": "My Echo, Shadow and Me",
         "url": "https://open.spotify.com/album/2f70selQPrtTaUvHyn4dbo"
       },
@@ -2447,6 +2431,22 @@
       "duration_ms": 222014,
       "name": "Tell Me That You Love Me",
       "url": "https://open.spotify.com/track/57ffRh0Tc4pGL1JGGhvanb"
+    },
+    {
+      "added_at": "2023-08-29 23:44:25",
+      "album": {
+        "name": "The Essential Delfonics",
+        "url": "https://open.spotify.com/album/0yBRZK5b6TmZGJ7sCm23jQ"
+      },
+      "artists": [
+        {
+          "name": "The Delfonics",
+          "url": "https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4"
+        }
+      ],
+      "duration_ms": 125386,
+      "name": "Going Out of My Head - Remastered",
+      "url": "https://open.spotify.com/track/4KNR8w9Y16CoJh7ZEbiMAh"
     },
     {
       "added_at": "2023-08-29 23:44:25",

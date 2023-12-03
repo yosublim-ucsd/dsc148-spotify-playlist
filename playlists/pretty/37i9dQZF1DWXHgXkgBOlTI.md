@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHgXkgBOlTI.md) - [plain]
 
 > ジャズを基調にロックやラテン音楽、電子音楽、時にはクラシックなどを融合させた「ジャズフュージョン」を牽引する日本のアーティストを特集。cover: bohemianvoodoo
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,892 likes - 50 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,926 likes - 50 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,11 +14,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHgXkgBOlTI.md) - [plain]
 | 4 | [Lamp \(feat\. Nujabes\)](https://open.spotify.com/track/5fpIho8igzgHw9FTmZGoTU) | [haruka nakamura](https://open.spotify.com/artist/52R2tXlJMDDDYcpBSnn3k4), [Nujabes](https://open.spotify.com/artist/3Rq3YOF9YG9YfCWD4D56RZ) | [MELODICA](https://open.spotify.com/album/2rbEQqaCzEfUU5QB8Uv1D3) | 6:40 |
 | 5 | [24/7](https://open.spotify.com/track/2tGPXshJU22aA1xawVLKkX) | [jizue](https://open.spotify.com/artist/6RuS4udHwx3C9ysk4KXtNw) | [biotop](https://open.spotify.com/album/1ZUWSB1pe8FbgVF9ACoa3c) | 6:07 |
 | 6 | [Gently](https://open.spotify.com/track/6mqfABkvkJxfCnQoXoY1Tp) | [Akira Jimbo](https://open.spotify.com/artist/3lpJqlTUaUV0Q7OlnbtBeC) | [燦燦](https://open.spotify.com/album/1XengrA8fJxquErrp3T3zW) | 3:51 |
-| 7 | [Galactic Funk](https://open.spotify.com/track/3Y1k10FsXMXFw9H08dZlKl) | [CASIOPEA](https://open.spotify.com/artist/0lRXEutklZUeNdWIJA1NI0) | [Asian Dreamer](https://open.spotify.com/album/2brs79CBxiApvCNRM880RA) | 5:24 |
+| 7 | [Sepia](https://open.spotify.com/track/5AVnWUXifjcxv7l9lKVIqb) | [Indigo Jam Unit](https://open.spotify.com/artist/0Mb07um3EFUmVvjcqN0DCn) | [Oonops Drops Vol\. 1](https://open.spotify.com/album/3JXpqb40IwJuCGWYbZdzns) | 5:25 |
 | 8 | [al dente](https://open.spotify.com/track/5ViMtPbUCKBmLo84OeVYI1) | [SALVALAI](https://open.spotify.com/artist/5zCSsv346I2xgK1fVGJ7H3) | [al dente](https://open.spotify.com/album/0wx01Tl9zG9tp9ezSXuEWx) | 5:01 |
 | 9 | [Moment of Clarity](https://open.spotify.com/track/3DC2AEoH1yjL60FRRaEIRZ) | [colspan](https://open.spotify.com/artist/0vjyVjLLoaqpkOUQWpOtOi) | [Moment of Clarity](https://open.spotify.com/album/3DfsBjwKqAYJCC24LsQfbL) | 4:44 |
 | 10 | [Pulse](https://open.spotify.com/track/7L3UIvtatUeSRI3Ith7VFF) | [Ryo Miyachi](https://open.spotify.com/artist/4cMPr1gwTGk0gAkfZlvE13) | [now it is](https://open.spotify.com/album/0ZDZra3lI2YVVg3Pgnp49z) | 4:36 |
-| 11 | [Sepia](https://open.spotify.com/track/5AVnWUXifjcxv7l9lKVIqb) | [Indigo Jam Unit](https://open.spotify.com/artist/0Mb07um3EFUmVvjcqN0DCn) | [Oonops Drops Vol\. 1](https://open.spotify.com/album/3JXpqb40IwJuCGWYbZdzns) | 5:25 |
+| 11 | [Galactic Funk](https://open.spotify.com/track/3Y1k10FsXMXFw9H08dZlKl) | [CASIOPEA](https://open.spotify.com/artist/0lRXEutklZUeNdWIJA1NI0) | [Asian Dreamer](https://open.spotify.com/album/2brs79CBxiApvCNRM880RA) | 5:24 |
 | 12 | [Vanish, Memoria](https://open.spotify.com/track/0aEiY6DWhcVpj4dLtR8GJq) | [Shuta Hasunuma](https://open.spotify.com/artist/71f0SNekyWqlqbyi8cyp05), [Greg Fox](https://open.spotify.com/artist/0TtmWFPYtp9OUobudWwIP0), [石塚 周太](https://open.spotify.com/artist/6gm2Ia2uZYgLOxoKIgCbW1) | [unpeople](https://open.spotify.com/album/1Ot0Gz2lPVgWSKK0ErnCxI) | 5:02 |
 | 13 | [Shadow Striker](https://open.spotify.com/track/7kKglAZzb2RdSyOAlQzqhN) | [河野啓三](https://open.spotify.com/artist/274QW59zwGhhYeXZmN0dij) | [Shadow Striker](https://open.spotify.com/album/5i5rg3GM9FLDvavDQSOBmP) | 5:28 |
 | 14 | [華火夜景](https://open.spotify.com/track/1RO9fAT9UQWSB8mVaxcvOI) | [bohemianvoodoo](https://open.spotify.com/artist/2pKjlyTAEzqUAFsQNCgmkS) | [華火夜景](https://open.spotify.com/album/57hUpIDR3di336V6dO6U8v) | 4:35 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHgXkgBOlTI.md) - [plain]
 | 49 | [Sad Premonition / Lilium](https://open.spotify.com/track/2ZMpOq0n124MRPO8vxAgCi) | [haruka nakamura](https://open.spotify.com/artist/52R2tXlJMDDDYcpBSnn3k4) | [I'll](https://open.spotify.com/album/1dOgFP65sSxMncWqJ8FADo) | 4:05 |
 | 50 | [N°9](https://open.spotify.com/track/1MaU3Y6P7j95oINCv6cmmR) | [toconoma](https://open.spotify.com/artist/3XKBSRkQeskeHIpRvA5XaS) | [NEWTOWN](https://open.spotify.com/album/2lveEbqQBRgGNrik6K2ZwS) | 4:58 |
 
-Snapshot ID: `MCxiNjIzYWFlZjI5N2JmNTE0MjA0OTBlNDAwMjhjNzQwNGZmZDU2NDQx`
+Snapshot ID: `MCxjYmJlNGQwYmQ0OWU4ZmIwMTMxMzEyMzMwYTI4N2RkMzE0N2E0ZGEx`

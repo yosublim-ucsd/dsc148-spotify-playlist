@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KQrbsfHQvG.md) - [plain]
 
 > Get up\. Stand up\. Be the revolution.
 
-[Spotify](https://open.spotify.com/user/spotify) - 189,573 likes - 75 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 189,609 likes - 75 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KQrbsfHQvG.md) - [plain]
 | 42 | [Rise](https://open.spotify.com/track/66bz5iH5p8zBSbgvs84ygh) | [Sixx:A.M.](https://open.spotify.com/artist/3886aFez2HDLkio5tUzmP6) | [Prayers for the Damned](https://open.spotify.com/album/1BRJvLviuSqyFpInvec0lk) | 3:53 |
 | 43 | [American Attraction](https://open.spotify.com/track/7p2xDNGlBBTQu2YEb6qLqG) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [American Fall](https://open.spotify.com/album/55oNSkAEaPPS1PnSZimhts) | 2:56 |
 | 44 | [Prophets Of Rage](https://open.spotify.com/track/1bTVbi6uwmGwlsXy2soxpg) | [Prophets Of Rage](https://open.spotify.com/artist/1fSzW5cXBmquli5laFnoGY) | [Prophets Of Rage](https://open.spotify.com/album/3SQmvD9SGyuJEqLKGVLX8j) | 3:10 |
-| 45 | [Riot!](https://open.spotify.com/track/6dtEw6NRpYgHJ5PwnU5U1k) | [Arrested Youth](https://open.spotify.com/artist/4UhExRgMW9QR7oNmTI2lPG) | [Fear](https://open.spotify.com/album/2fTbjcKyLjNYISmeXNMrn8) | 3:24 |
-| 46 | [The Doomed](https://open.spotify.com/track/4D07vsUEpOoMO1LmFknt3D) | [A Perfect Circle](https://open.spotify.com/artist/4DFhHyjvGYa9wxdHUjtDkc) | [Eat The Elephant](https://open.spotify.com/album/7nnNLD5cv828YSFxXaezRm) | 4:41 |
+| 45 | [The Doomed](https://open.spotify.com/track/4D07vsUEpOoMO1LmFknt3D) | [A Perfect Circle](https://open.spotify.com/artist/4DFhHyjvGYa9wxdHUjtDkc) | [Eat The Elephant](https://open.spotify.com/album/7nnNLD5cv828YSFxXaezRm) | 4:41 |
+| 46 | [Riot!](https://open.spotify.com/track/6dtEw6NRpYgHJ5PwnU5U1k) | [Arrested Youth](https://open.spotify.com/artist/4UhExRgMW9QR7oNmTI2lPG) | [Fear](https://open.spotify.com/album/2fTbjcKyLjNYISmeXNMrn8) | 3:24 |
 | 47 | [JU$T \(feat\. Pharrell Williams & Zack de la Rocha\)](https://open.spotify.com/track/0YdjfAmUyxF4Dh0HNEhmoI) | [El\-P](https://open.spotify.com/artist/57UnSUpae3SbRekxNa5Kgl), [Killer Mike](https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI), [Run The Jewels](https://open.spotify.com/artist/4RnBFZRiMLRyZy0AzzTg2C), [Zack De La Rocha](https://open.spotify.com/artist/1jKpNUjiz4KXgaAZD5FI9S), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [RTJ4](https://open.spotify.com/album/74LenWKjMdGa2qJiI1sxwT) | 3:25 |
 | 48 | [Made An America](https://open.spotify.com/track/0Q6AD7e7d9tpN1dXL4qh5P) | [FEVER 333](https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy) | [Made An America](https://open.spotify.com/album/6HLseXtiQsGBeLaQ43Pm6G) | 2:53 |
 | 49 | [21st Century Liability](https://open.spotify.com/track/5tJd3cKHXsDlSq6vIV4Tgj) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [21st Century Liability](https://open.spotify.com/album/1p64R5tjTpC2oH24YLdQgq) | 3:09 |
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KQrbsfHQvG.md) - [plain]
 | 51 | [Don't Wait \(ft\. Sam Carter\)](https://open.spotify.com/track/2ClpbVJnjvYLpYqYhSnEkL) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [The Peace And The Panic](https://open.spotify.com/album/76NbbdvTc4yP50p5m4u9H3) | 3:16 |
 | 52 | [The Disease](https://open.spotify.com/track/6XAwcgNG3ZC0IySBXYlqmi) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [20/20 Vision](https://open.spotify.com/album/0ESfHPooquTT2SI5EL1ycl) | 2:55 |
 | 53 | [Our House \(The Mess We Made\)](https://open.spotify.com/track/5kqRMynqZR8JbJH4JodkFs) | [You Me At Six](https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6) | [Our House \(The Mess We Made\)](https://open.spotify.com/album/5bAxHo5hTWfRyOWMz0MKxM) | 3:40 |
-| 54 | [WWYDF](https://open.spotify.com/track/52jC5QLj1sazMXPIxl68l0) | [Zero 9:36](https://open.spotify.com/artist/1V599H9vfq6hWe2hGzyzI0) | [You Will Not Be Saved](https://open.spotify.com/album/5Fv7nPEq5xHavK28lt8K5F) | 2:55 |
-| 55 | [Mirrors](https://open.spotify.com/track/4esDZrFzW7QEYBgYyFkd6y) | [Arrested Youth](https://open.spotify.com/artist/4UhExRgMW9QR7oNmTI2lPG) | [Fear](https://open.spotify.com/album/2fTbjcKyLjNYISmeXNMrn8) | 3:06 |
+| 54 | [Mirrors](https://open.spotify.com/track/4esDZrFzW7QEYBgYyFkd6y) | [Arrested Youth](https://open.spotify.com/artist/4UhExRgMW9QR7oNmTI2lPG) | [Fear](https://open.spotify.com/album/2fTbjcKyLjNYISmeXNMrn8) | 3:06 |
+| 55 | [WWYDF](https://open.spotify.com/track/52jC5QLj1sazMXPIxl68l0) | [Zero 9:36](https://open.spotify.com/artist/1V599H9vfq6hWe2hGzyzI0) | [You Will Not Be Saved](https://open.spotify.com/album/5Fv7nPEq5xHavK28lt8K5F) | 2:55 |
 | 56 | [Capital G](https://open.spotify.com/track/0TSkgwKqFVzPmTzdQ6KtV1) | [Nine Inch Nails](https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO) | [Year Zero](https://open.spotify.com/album/0hdOzMPrGJiGjX3epBP8NN) | 3:49 |
 | 57 | [Hate Conquers All](https://open.spotify.com/track/4FvkeESnHKUsqYHSzUF9Mv) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [20/20 Vision](https://open.spotify.com/album/0ESfHPooquTT2SI5EL1ycl) | 2:46 |
 | 58 | [Bullet \- Single Version](https://open.spotify.com/track/1R1B4ToHa8KZ4LAObK12Pv) | [Hyro The Hero](https://open.spotify.com/artist/54okLCsuAzwltG8zHECNpm) | [Bullet](https://open.spotify.com/album/31GP9htiyPg1uFYGXLV24h) | 2:53 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KQrbsfHQvG.md) - [plain]
 | 70 | [This Land \- Single Version](https://open.spotify.com/track/3lCfyDeaEYxEvJSnhv1ek3) | [Gary Clark Jr.](https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp) | [This Land](https://open.spotify.com/album/5ddGu25wPSngfwhehpaFpR) | 3:56 |
 | 71 | [Polygraph Eyes](https://open.spotify.com/track/1PlODCjGsbZRKlDljoBd4m) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [YUNGBLUD](https://open.spotify.com/album/7HNJT97QuNFvJLUpQXCIp3) | 3:43 |
 | 72 | [The Culling](https://open.spotify.com/track/5y6QzkFz2fuy3RbLxS2oCj) | [Everlast](https://open.spotify.com/artist/14ZxDAK6ITtZZqPdiWrvSn) | [Whitey Ford's House of Pain](https://open.spotify.com/album/79W0NJcUJHuQpvygtu6Mj7) | 3:14 |
-| 73 | [Can't Deny Me](https://open.spotify.com/track/4PwGt5dBTmdRu4HTN8ZWgR) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Can't Deny Me](https://open.spotify.com/album/7N3t4G1okTBsoQ6dBmPXAV) | 2:43 |
-| 74 | [Power \(feat\. Frank Carter\)](https://open.spotify.com/track/1hoNvw0gHJTRYWuFRGuk8I) | [Can't Swim](https://open.spotify.com/artist/62elZbH5Iop8UPcChp7OrU), [Frank Carter](https://open.spotify.com/artist/1DzJ1Edw9hfy8sVnkAnhCf) | [Foreign Language](https://open.spotify.com/album/60awL9wRAPqkETLzNgVGvi) | 1:52 |
+| 73 | [Power \(feat\. Frank Carter\)](https://open.spotify.com/track/1hoNvw0gHJTRYWuFRGuk8I) | [Can't Swim](https://open.spotify.com/artist/62elZbH5Iop8UPcChp7OrU), [Frank Carter](https://open.spotify.com/artist/1DzJ1Edw9hfy8sVnkAnhCf) | [Foreign Language](https://open.spotify.com/album/60awL9wRAPqkETLzNgVGvi) | 1:52 |
+| 74 | [Can't Deny Me](https://open.spotify.com/track/4PwGt5dBTmdRu4HTN8ZWgR) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Can't Deny Me](https://open.spotify.com/album/7N3t4G1okTBsoQ6dBmPXAV) | 2:43 |
 | 75 | [We Won’t Go Back](https://open.spotify.com/track/1IdQoRuVaRyJlU5YwTLG3F) | [MILCK](https://open.spotify.com/artist/62lirbb6qJs4VOGpdCNHK8), [BIIANCO](https://open.spotify.com/artist/4Axsf7QVnPabbam5y6NwLt), [Autumn Rowe](https://open.spotify.com/artist/3gCzQpKxnHhJgOYpZRcEfH), [Ani DiFranco](https://open.spotify.com/artist/0AiTwNtYX8m4uhfU7rJ8RD) | [We Won’t Go Back](https://open.spotify.com/album/1CUsQWiNWr3LmAfB56Kpmm) | 3:20 |
 
-Snapshot ID: `MCxhM2Q0NzQ5OTg2Mzc0NzU4ODA4YWJkMDAzMmE2ZWEwNGY5YTIzMDli`
+Snapshot ID: `MCw4NjFmNmE1ZTdjYzQyMjMyYzQ1ZmE3MWMwMmRiOWM2NzJhNDZlMjQx`

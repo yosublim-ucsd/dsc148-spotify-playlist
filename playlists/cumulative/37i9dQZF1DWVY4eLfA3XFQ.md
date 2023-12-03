@@ -4,7 +4,7 @@
 
 > Tech house technicians, featuring Max Styler
 
-1,372 songs - 3 day 6 hr 28 min
+1,373 songs - 3 day 6 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [All In](https://open.spotify.com/track/4xy8PsaeOhDoKyUPxtGD4w) | [JustLuke](https://open.spotify.com/artist/5BYp3tFELy8TjfQMd0S3Nh) | [All In](https://open.spotify.com/album/3dGNeMzMH6tllAiTGA2cLZ) | 2:13 | 2023-05-05 | 2023-05-27 |
 | [All My Friends](https://open.spotify.com/track/3cO31q0MpTtBIT8Esr0bsm) | [LOVRA](https://open.spotify.com/artist/4fIPBdK4awAR1W14u3v1J5) | [All My Friends](https://open.spotify.com/album/7I7oyqlMR8U4tvoXvVtH85) | 2:03 | 2023-09-22 | 2023-10-31 |
 | [All Night](https://open.spotify.com/track/3Y5tQljrVItTOxtZcbkQTg) | [Tough Break](https://open.spotify.com/artist/59YvtCKDEG9q6naPqrqykW) | [All Night](https://open.spotify.com/album/6z2CIwuGpv92NOVaufHXzV) | 3:08 | 2023-11-24 |  |
+| [All Night](https://open.spotify.com/track/2F3igFy3c5lreKQ9bKsPVs) | [Truth x Lies](https://open.spotify.com/artist/3bh4M54m4LRs41WQs07Jy0) | [All Night](https://open.spotify.com/album/6RTNZ5faWkSVCfKuz3WUzS) | 2:57 | 2023-11-17 |  |
 | [All Over U](https://open.spotify.com/track/6hmwiviuIfeDy5MwWMVCQw) | [Mason Maynard](https://open.spotify.com/artist/4EdTAy3S5GrswFHCdpiKP3) | [All Over U](https://open.spotify.com/album/1fORBKzArhL3rMlkJqHKor) | 3:03 | 2022-05-13 | 2022-06-11 |
 | [All The Girls](https://open.spotify.com/track/6LVohr4fZrk9iAYgZhEnVF) | [J\. Worra](https://open.spotify.com/artist/4q0N3EI67tVnAeeaXbNQIj), [Shift K3Y](https://open.spotify.com/artist/26OrZl5U3VNGHU9qUj8EcM) | [All The Girls](https://open.spotify.com/album/4cq5fEBJxdF175fw88LaZK) | 3:17 | 2023-03-24 | 2023-08-12 |
 | [All The Night](https://open.spotify.com/track/68DPFeawfvz8M6woXpUpF8) | [Miane](https://open.spotify.com/artist/6bprXdW2g8kg49tNslPQ6X) | [All The Night](https://open.spotify.com/album/2IMOvEknlvMR8XdyvyKF19) | 2:41 | 2022-12-02 | 2023-03-11 |
@@ -692,7 +693,7 @@
 | [Lose My Mind](https://open.spotify.com/track/3utZSPfnuq4aSA6WCm9HFf) | [Lyric](https://open.spotify.com/artist/4YOr4jXlrBof5DTU1KDafk) | [Woman\-Hood Chapter 1 EP](https://open.spotify.com/album/1ZdVzluYo79Nd2mE7W4z1s) | 4:34 | 2022-12-28 | 2023-01-06 |
 | [Lose My Mind](https://open.spotify.com/track/6bEMfZ4kYoz7HjM2odlpBz) | [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI) | [Lose My Mind](https://open.spotify.com/album/05KjDvoOT0zlL9ws0i0Pk8) | 3:11 | 2022-07-22 | 2022-10-01 |
 | [Lose My Mind \(feat\. Taylor Moody\)](https://open.spotify.com/track/4lYCwQD1GjKmk7MpKSd5d9) | [J\. Worra](https://open.spotify.com/artist/4q0N3EI67tVnAeeaXbNQIj), [Taylor Moody](https://open.spotify.com/artist/5v3YOQbNImkHr0cj7biBWW) | [Lose My Mind \(feat\. Taylor Moody\)](https://open.spotify.com/album/1HUEA3Mdj0BqPrQZ49zOTm) | 3:16 | 2022-03-25 | 2022-05-07 |
-| [Lose Your Mind](https://open.spotify.com/track/5jB62qIIcAiAMCHVVesHmK) | [Max Styler](https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk), [Jem Cooke](https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH) | [Lose Your Mind](https://open.spotify.com/album/3iMsvpw9IZcDjMyFMg4nY1) | 3:22 | 2023-06-23 |  |
+| [Lose Your Mind](https://open.spotify.com/track/5jB62qIIcAiAMCHVVesHmK) | [Max Styler](https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk), [Jem Cooke](https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH) | [Lose Your Mind](https://open.spotify.com/album/3iMsvpw9IZcDjMyFMg4nY1) | 3:22 | 2023-06-23 | 2023-12-03 |
 | [Losing Control](https://open.spotify.com/track/1rl6SwDgpQD3p5YjT2D1as) | [Chapter & Verse](https://open.spotify.com/artist/5yPVuutf3WAXUt1VqDaN1t) | [Losing Control](https://open.spotify.com/album/35bV3kqNrxxTovzo5vzkux) | 3:04 | 2023-02-10 | 2023-03-25 |
 | [Losing Control](https://open.spotify.com/track/4LwxeWSBu0LQtEyGLb6FVP) | [Odd Mob](https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9), [OMNOM](https://open.spotify.com/artist/3PYRXP25JcbqhvNaJYcnWy) | [Losing Control](https://open.spotify.com/album/3eKGADmjALWfFIXHDak5DB) | 2:45 | 2023-09-15 |  |
 | [Losing Control](https://open.spotify.com/track/2SxJOFdhIco2uHQ0Bh5TXs) | [Wahlstedt](https://open.spotify.com/artist/7yOWqfe8iP613Ne5SV9XPP), [TOOMANYLEFTHANDS](https://open.spotify.com/artist/5tCPpDoXfTKy5yTongtDAT) | [Losing Control](https://open.spotify.com/album/1Ai7YTsJSdn1PMIFLmq7yW) | 2:53 | 2022-08-26 | 2022-11-29 |

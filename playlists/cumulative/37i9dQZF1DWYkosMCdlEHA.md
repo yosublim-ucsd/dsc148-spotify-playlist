@@ -4,7 +4,7 @@
 
 > Versões desplugadas para curtir um reggae com os pés na areia!
 
-79 songs - 5 hr 5 min
+80 songs - 5 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,8 @@
 | [Beach In Hawaii](https://open.spotify.com/track/4jKapTvg2oCpikdt0oFqf6) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Love Is My Religion](https://open.spotify.com/album/6gbz6snf68aII9mDozVdkp) | 3:44 | 2023-10-13 |  |
 | [Blusinha Branca](https://open.spotify.com/track/1VHjjOOllU87VRa8B2EWiX) | [Papas Da Língua](https://open.spotify.com/artist/5q4N33QzlyTfRRNq4T1gH9) | [Papas Da Língua](https://open.spotify.com/album/4z5x9CgcV35w6akZkl9H4q) | 4:58 | 2023-07-07 |  |
 | [Burnin' & Lootin' \- Live At Music Hall, Boston / 1978](https://open.spotify.com/track/0gfDevYMgqlw7hCF08Mo17) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Easy Skanking In Boston '78](https://open.spotify.com/album/3DZmcdIS8JlZwYFhbN9Pbc) | 5:35 | 2023-07-07 |  |
-| [Calor \- Acústico](https://open.spotify.com/track/31wCSoGTNRPXOOfsLpvxBR) | [Helio Bentes](https://open.spotify.com/artist/0BIwZsx9BET2BstY2DRa9x) | [Acústico Helio Bentes, Vol\. 02](https://open.spotify.com/album/1mKc2nreQkWbuCKYNEyF4E) | 4:43 | 2023-07-07 |  |
+| [Calor \- Acústico](https://open.spotify.com/track/31wCSoGTNRPXOOfsLpvxBR) | [Helio Bentes](https://open.spotify.com/artist/0BIwZsx9BET2BstY2DRa9x) | [Acústico Helio Bentes, Vol\. 02](https://open.spotify.com/album/1mKc2nreQkWbuCKYNEyF4E) | 4:43 | 2023-07-07 | 2023-12-03 |
+| [Calor \- Acústico](https://open.spotify.com/track/3IUipHNAKErjn0c6LOzyxw) | [Helio Bentes](https://open.spotify.com/artist/0BIwZsx9BET2BstY2DRa9x) | [Acústico Helio Bentes Vol\. 2 \(Acústica\)](https://open.spotify.com/album/2qiVyCE4Fnmuow8MC7YRA9) | 4:43 | 2023-10-13 |  |
 | [Corre Pro Meu Mar \- Acústico / Ao Vivo](https://open.spotify.com/track/6o1uuE7FrCUUN1zqB37nLR) | [Maneva](https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb), [Gabriel Elias](https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK) | [Corre Pro Meu Mar \(Acústico / Ao Vivo\)](https://open.spotify.com/album/6MYUGgADS5UKWNKwwdOyCw) | 3:23 | 2023-07-07 |  |
 | [Cravo e Canela \- Acústico \| Ao Vivo](https://open.spotify.com/track/7EyY1Ho77ywcjzsh6KxBSu) | [Gabriel Elias](https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK) | [Casa de Praia Acústico \(Ao Vivo\)](https://open.spotify.com/album/0FXWVgacZM1Me0aWimzzeE) | 3:35 | 2023-07-07 |  |
 | [De Tanto Sol \(Acústico\)](https://open.spotify.com/track/4zOn4Xw4QIXZkFME9IIr5R) | [Natiruts](https://open.spotify.com/artist/4PhdYoQGH8s1xee81dqQOO), [Melim](https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ) | [De Tanto Sol \(Acústico\)](https://open.spotify.com/album/0G9XFPE6847h3nRRL7Ct8n) | 3:16 | 2023-07-07 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Float away on heady orchestrations and haunting harmonies...",
-  "num_followers": 846000,
+  "num_followers": 846051,
   "original_name": "Chill + Atmospheric",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiODNhY2I3MWFlODI3MWEzODQyZjgyYTEwNjM1NTliMDExMzlhNzVm",
+  "snapshot_id": "MCxlNjY3MDcyZDkyYzU4ZTA2OWY1ODgxY2Q4MmEzZmIyMTU3Y2NmZjA4",
   "tracks": [
     {
       "added_at": "2023-10-20 04:00:00",
@@ -923,22 +923,6 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Do It All Again",
-        "url": "https://open.spotify.com/album/7sioaMGR27n6RUU6gD93b1"
-      },
-      "artists": [
-        {
-          "name": "Dekker",
-          "url": "https://open.spotify.com/artist/2Udd2jgFaz8tXG1w3PyMtN"
-        }
-      ],
-      "duration_ms": 199253,
-      "name": "Do It All Again",
-      "url": "https://open.spotify.com/track/6IokfKBquOuzngIfvpYbjl"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
         "name": "Salt",
         "url": "https://open.spotify.com/album/28pyk4QKjNKAt7fXL27Jth"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 252293,
       "name": "Everyone's Moving Out East",
       "url": "https://open.spotify.com/track/2mg17l3EfdZ6bFX82rCwcU"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "Do It All Again",
+        "url": "https://open.spotify.com/album/7sioaMGR27n6RUU6gD93b1"
+      },
+      "artists": [
+        {
+          "name": "Dekker",
+          "url": "https://open.spotify.com/artist/2Udd2jgFaz8tXG1w3PyMtN"
+        }
+      ],
+      "duration_ms": 199253,
+      "name": "Do It All Again",
+      "url": "https://open.spotify.com/track/6IokfKBquOuzngIfvpYbjl"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "No Burden",
-        "url": "https://open.spotify.com/album/7lQ9R31OcTvMn2MojAuKVE"
-      },
-      "artists": [
-        {
-          "name": "Lucy Dacus",
-          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
-        }
-      ],
-      "duration_ms": 175777,
-      "name": "...Familiar Place",
-      "url": "https://open.spotify.com/track/0rHMGnd6wIgaF67ANAVdyC"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
         "name": "You and I",
         "url": "https://open.spotify.com/album/0H7AadTjFvdH0XYB2oVuCe"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 256394,
       "name": "Sea Creatures",
       "url": "https://open.spotify.com/track/73Tl9gM1BeVA1IHvGubOmI"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "No Burden",
+        "url": "https://open.spotify.com/album/7lQ9R31OcTvMn2MojAuKVE"
+      },
+      "artists": [
+        {
+          "name": "Lucy Dacus",
+          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
+        }
+      ],
+      "duration_ms": 175777,
+      "name": "...Familiar Place",
+      "url": "https://open.spotify.com/track/0rHMGnd6wIgaF67ANAVdyC"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -1143,26 +1143,6 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Picture of You (feat. Hayden Calnin)",
-        "url": "https://open.spotify.com/album/7wC9pX406TglFwy4ALYYy4"
-      },
-      "artists": [
-        {
-          "name": "Axel Fl\u00f3vent",
-          "url": "https://open.spotify.com/artist/6jn7W8NuX94FWZyeGlyCaJ"
-        },
-        {
-          "name": "Hayden Calnin",
-          "url": "https://open.spotify.com/artist/19OAtq7pNHnBRKJORFeahx"
-        }
-      ],
-      "duration_ms": 261523,
-      "name": "Picture of You",
-      "url": "https://open.spotify.com/track/41UWHXKrP9VaNuLHNlWEV2"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
         "name": "Permanent Way",
         "url": "https://open.spotify.com/album/2J69Mui7i12K8FNQDDKA9p"
       },
@@ -1191,6 +1171,26 @@
       "duration_ms": 250453,
       "name": "Splintered",
       "url": "https://open.spotify.com/track/6V4stuxihHZTe7vvJxdkdt"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "Picture of You (feat. Hayden Calnin)",
+        "url": "https://open.spotify.com/album/7wC9pX406TglFwy4ALYYy4"
+      },
+      "artists": [
+        {
+          "name": "Axel Fl\u00f3vent",
+          "url": "https://open.spotify.com/artist/6jn7W8NuX94FWZyeGlyCaJ"
+        },
+        {
+          "name": "Hayden Calnin",
+          "url": "https://open.spotify.com/artist/19OAtq7pNHnBRKJORFeahx"
+        }
+      ],
+      "duration_ms": 261523,
+      "name": "Picture of You",
+      "url": "https://open.spotify.com/track/41UWHXKrP9VaNuLHNlWEV2"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Bones",
-        "url": "https://open.spotify.com/album/4FkVOW9SXcaVtok2YecpkU"
-      },
-      "artists": [
-        {
-          "name": "Dotan",
-          "url": "https://open.spotify.com/artist/1cwOthlzLBwN8Imbq7P71H"
-        }
-      ],
-      "duration_ms": 230589,
-      "name": "Bones",
-      "url": "https://open.spotify.com/track/6GpR9XtEpuKWMA3onpPkOP"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
         "name": "For The Company",
         "url": "https://open.spotify.com/album/4ruKhGgJSmLx5fGAZquEH2"
       },
@@ -1259,18 +1243,18 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Equinox",
-        "url": "https://open.spotify.com/album/5QQVaIp7B4zABTIaEECseo"
+        "name": "Bones",
+        "url": "https://open.spotify.com/album/4FkVOW9SXcaVtok2YecpkU"
       },
       "artists": [
         {
-          "name": "Black Oak",
-          "url": "https://open.spotify.com/artist/3PMflYpdvhwPDNea1MW5Wh"
+          "name": "Dotan",
+          "url": "https://open.spotify.com/artist/1cwOthlzLBwN8Imbq7P71H"
         }
       ],
-      "duration_ms": 209585,
-      "name": "The Grain",
-      "url": "https://open.spotify.com/track/24At1pkaBi4P9PsbeeUttf"
+      "duration_ms": 230589,
+      "name": "Bones",
+      "url": "https://open.spotify.com/track/6GpR9XtEpuKWMA3onpPkOP"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -1287,6 +1271,22 @@
       "duration_ms": 189320,
       "name": "apathy",
       "url": "https://open.spotify.com/track/2KDXCctJkNx43Z4b8pE6pS"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "Equinox",
+        "url": "https://open.spotify.com/album/5QQVaIp7B4zABTIaEECseo"
+      },
+      "artists": [
+        {
+          "name": "Black Oak",
+          "url": "https://open.spotify.com/artist/3PMflYpdvhwPDNea1MW5Wh"
+        }
+      ],
+      "duration_ms": 209585,
+      "name": "The Grain",
+      "url": "https://open.spotify.com/track/24At1pkaBi4P9PsbeeUttf"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Shiftshaping",
-        "url": "https://open.spotify.com/album/16i0VFecMUrw9lzFH4UxA3"
-      },
-      "artists": [
-        {
-          "name": "Michael Nau",
-          "url": "https://open.spotify.com/artist/1VfgWum48nwYJcCfdPwWgs"
-        }
-      ],
-      "duration_ms": 221076,
-      "name": "Shiftshaping",
-      "url": "https://open.spotify.com/track/6hQTXfHQzrWa6RP6PlB1dX"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
         "name": "Higher Places",
         "url": "https://open.spotify.com/album/6yECsWqRjBSZSch53dzTEK"
       },
@@ -1467,18 +1451,18 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Party Dress",
-        "url": "https://open.spotify.com/album/4Ai0OqgDbUNNRwhXQHbZEv"
+        "name": "Shiftshaping",
+        "url": "https://open.spotify.com/album/16i0VFecMUrw9lzFH4UxA3"
       },
       "artists": [
         {
-          "name": "Rosie Carney",
-          "url": "https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9"
+          "name": "Michael Nau",
+          "url": "https://open.spotify.com/artist/1VfgWum48nwYJcCfdPwWgs"
         }
       ],
-      "duration_ms": 194942,
-      "name": "Party Dress",
-      "url": "https://open.spotify.com/track/2G2IOxSv0G4zOitsfFpFQl"
+      "duration_ms": 221076,
+      "name": "Shiftshaping",
+      "url": "https://open.spotify.com/track/6hQTXfHQzrWa6RP6PlB1dX"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -1503,6 +1487,22 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
+        "name": "Party Dress",
+        "url": "https://open.spotify.com/album/4Ai0OqgDbUNNRwhXQHbZEv"
+      },
+      "artists": [
+        {
+          "name": "Rosie Carney",
+          "url": "https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9"
+        }
+      ],
+      "duration_ms": 194942,
+      "name": "Party Dress",
+      "url": "https://open.spotify.com/track/2G2IOxSv0G4zOitsfFpFQl"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
         "name": "A Book Of Flying",
         "url": "https://open.spotify.com/album/1vXfSRXxuhqCWiVgA2Zzde"
       },
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Branscombe",
-        "url": "https://open.spotify.com/album/1n5qpXXobioZdWa6Upq6fU"
-      },
-      "artists": [
-        {
-          "name": "Voka Gentle",
-          "url": "https://open.spotify.com/artist/4VyQOLH3ixMP5lrxhSeqKx"
-        }
-      ],
-      "duration_ms": 439478,
-      "name": "Branscombe",
-      "url": "https://open.spotify.com/track/4mrOXzvbS0U0KsX7O6OqIo"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
         "name": "Spirits",
         "url": "https://open.spotify.com/album/0DTmI8AV6gVRELVABD2Gl4"
       },
@@ -1547,6 +1531,22 @@
       "duration_ms": 228533,
       "name": "Goat",
       "url": "https://open.spotify.com/track/2YEa3nFylD0cX3RZ48IJol"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "Branscombe",
+        "url": "https://open.spotify.com/album/1n5qpXXobioZdWa6Upq6fU"
+      },
+      "artists": [
+        {
+          "name": "Voka Gentle",
+          "url": "https://open.spotify.com/artist/4VyQOLH3ixMP5lrxhSeqKx"
+        }
+      ],
+      "duration_ms": 439478,
+      "name": "Branscombe",
+      "url": "https://open.spotify.com/track/4mrOXzvbS0U0KsX7O6OqIo"
     },
     {
       "added_at": "2023-10-20 04:00:00",

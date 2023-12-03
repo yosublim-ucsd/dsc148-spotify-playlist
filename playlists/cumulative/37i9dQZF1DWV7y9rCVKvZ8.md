@@ -4,7 +4,7 @@
 
 > Jadi lebih produktif ditemani musik terkini hanya ada di Spotify.
 
-126 songs - 7 hr 32 min
+127 songs - 7 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,8 +109,9 @@
 | [Roman Picisan](https://open.spotify.com/track/47SkuKc4Po0JInI0JTtO61) | [Hanin Dhiya](https://open.spotify.com/artist/3Fw8q9sZ1t7diLxoQFS8hW), [Ahmad Dhani](https://open.spotify.com/artist/2TSeIynP2u22bqZOgKkbZm) | [Roman Picisan](https://open.spotify.com/album/44cPwHYWVAm8DQruNmojpu) | 5:01 | 2023-03-22 |  |
 | [Satu Tuju](https://open.spotify.com/track/4rVXkYPwY8oHJhQwcBL0On) | [raissa anggiani](https://open.spotify.com/artist/11k3Y6uyixbyGfgPl8qZTZ) | [Satu Tuju](https://open.spotify.com/album/1OyDDO3hE5d5tNsoSqxgaf) | 4:06 | 2023-03-22 |  |
 | [Satu\-Satu](https://open.spotify.com/track/5rFNflUKMTsOlBVdGv1ahL) | [Idgitaf](https://open.spotify.com/artist/7pFWMC2E7h8eL3SZyHRsRq) | [Satu\-Satu](https://open.spotify.com/album/2WFFb7cIQXQXvuOsoqB69C) | 4:44 | 2023-03-22 | 2023-06-19 |
-| [Semata Karenamu](https://open.spotify.com/track/1SWBzZg6n9JZq7bnXxPPai) | [Mario G klau](https://open.spotify.com/artist/17d3zotBDOZtuWnZPxTf8v) | [Semata Karenamu](https://open.spotify.com/album/00Gd00OvRY6pKawXA1iCKs) | 4:38 | 2023-05-05 |  |
+| [Semata Karenamu](https://open.spotify.com/track/1SWBzZg6n9JZq7bnXxPPai) | [Mario G klau](https://open.spotify.com/artist/17d3zotBDOZtuWnZPxTf8v) | [Semata Karenamu](https://open.spotify.com/album/00Gd00OvRY6pKawXA1iCKs) | 4:38 | 2023-05-05 | 2023-12-03 |
 | [Semata Karenamu](https://open.spotify.com/track/4z6FksNI6MLCDTHrNJXhO0) | [Mario G klau](https://open.spotify.com/artist/17d3zotBDOZtuWnZPxTf8v) | [Semata Karenamu](https://open.spotify.com/album/7Cc4mRgFWAomMajhwO0xr6) | 4:38 | 2023-03-22 | 2023-05-08 |
+| [Semata Karenamu](https://open.spotify.com/track/58ilhPCZ45OnBSRndRlDBr) | [Mario G klau](https://open.spotify.com/artist/17d3zotBDOZtuWnZPxTf8v) | [Semata Karenamu](https://open.spotify.com/album/4wgM1mqNhQzNPY0Jbfl8f5) | 4:38 | 2023-11-14 |  |
 | [Seperti Kisah](https://open.spotify.com/track/6m1HyCmA5jt4Uy0mrS757Y) | [Rizky Febian](https://open.spotify.com/artist/28DdkLhrzQNizZ0ExQpyku) | [Seperti Kisah](https://open.spotify.com/album/4UMZ39OkM8UHTaz6r2kNtg) | 4:39 | 2023-03-22 |  |
 | [Smells Like Me](https://open.spotify.com/track/6LXIhiXK8z1KLd3giR904b) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [Smells Like Me](https://open.spotify.com/album/3XvDbxerzYjQZRc6JfF9jY) | 3:24 | 2023-03-22 | 2023-10-12 |
 | [SNAP](https://open.spotify.com/track/76OGwb5RA9h4FxQPT33ekc) | [Rosa Linn](https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1) | [SNAP](https://open.spotify.com/album/4fb1QzgTJpTk9TBjFzjmlR) | 2:59 | 2023-03-22 |  |

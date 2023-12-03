@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Jerj8LqApV.md) - [plain]
 
 > Chill out and relax to the breeziest hits from the Philippines.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,689,584 likes - 40 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,690,053 likes - 40 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,10 +43,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Jerj8LqApV.md) - [plain]
 | 33 | [Para Sa Akin](https://open.spotify.com/track/5v5dlsJYrw9xiB36GELIUV) | [Jason Dhakal](https://open.spotify.com/artist/7Hb2cm4pIeCUKwfzutKyjp) | [Para Sa Akin](https://open.spotify.com/album/1qtZrt2G6Yr3RP3ZfMGxwU) | 3:17 |
 | 34 | [Kursunada](https://open.spotify.com/track/0vDzg5rADviX5YizHGo6UU) | [Adie](https://open.spotify.com/artist/1DlYnIiliftt6R21Y5NOW2) | [Kursunada](https://open.spotify.com/album/3UtNIGkQvgd4V5qJxQrebA) | 2:59 |
 | 35 | [KLWKN](https://open.spotify.com/track/1pi3VCMlGVaXvrjlVOkBPN) | [Music Hero](https://open.spotify.com/artist/52gTrzyF0DyfkFl1DQz9Oq) | [KLWKN](https://open.spotify.com/album/1TmGJJPRkYoxPEAo0xFnQV) | 4:16 |
-| 36 | [Kumpas \(from “2 Good 2 Be True”\)](https://open.spotify.com/track/143x7pgmHXYdHhTJUoeoma) | [Moira Dela Torre](https://open.spotify.com/artist/0rZRTXEmmPmx6gt92tBqIc) | [Kumpas \(from “2 Good 2 Be True”\)](https://open.spotify.com/album/3Y5UOySXapMRA2Krxq8r3S) | 4:28 |
-| 37 | [Pasensya Ka Na](https://open.spotify.com/track/4yrphG2212kF0aIt3qOt3g) | [Silent Sanctuary](https://open.spotify.com/artist/4nGp682WMiKS4X217kPw8C) | [Langit\. Luha.](https://open.spotify.com/album/6L9ym5oi9qCCJgYyVxgwxn) | 4:01 |
+| 36 | [Pasensya Ka Na](https://open.spotify.com/track/4yrphG2212kF0aIt3qOt3g) | [Silent Sanctuary](https://open.spotify.com/artist/4nGp682WMiKS4X217kPw8C) | [Langit\. Luha.](https://open.spotify.com/album/6L9ym5oi9qCCJgYyVxgwxn) | 4:01 |
+| 37 | [Kumpas \(from “2 Good 2 Be True”\)](https://open.spotify.com/track/143x7pgmHXYdHhTJUoeoma) | [Moira Dela Torre](https://open.spotify.com/artist/0rZRTXEmmPmx6gt92tBqIc) | [Kumpas \(from “2 Good 2 Be True”\)](https://open.spotify.com/album/3Y5UOySXapMRA2Krxq8r3S) | 4:28 |
 | 38 | [DELULU](https://open.spotify.com/track/0CBDY0SfSIaVWnOFrwzSbv) | [Zack Tabudlo](https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac) | [DELULU](https://open.spotify.com/album/2RIrEQbhMyFMJo58o5bLDA) | 3:16 |
 | 39 | [Crazier](https://open.spotify.com/track/0PQ84nbR1Owkr7RtGBmZI7) | [Arthur Miguel](https://open.spotify.com/artist/2Ev7vtPI38BE2kQvwmH4ce) | [Crazier](https://open.spotify.com/album/1RKdiat44rgOshOsNdgSXf) | 3:53 |
 | 40 | [Lifetime](https://open.spotify.com/track/3X9c4tBzSdGhlO4Fx3WYgW) | [Ben&Ben](https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb) | [Lifetime](https://open.spotify.com/album/277CpjwmcdLZsHwXpj9D8H) | 2:51 |
 
-Snapshot ID: `MCxiN2FjYTJiZDAwZjhhNWQ4MGNkMDhhMjgwODdhYjdmZDdmMjFiYzgz`
+Snapshot ID: `MCw1MTIxZWZmODZmYTRhMWJlMjZlYmZjMWZmYTgxNzZhYTI3MWI5YzI1`

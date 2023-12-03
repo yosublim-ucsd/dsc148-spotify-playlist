@@ -3548,7 +3548,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-03",
       "duration_ms": 231529,
       "name": "Falar de Amor",
       "url": "https://open.spotify.com/track/6jkqFX0JprURdUqSkWmUgK"
@@ -12012,6 +12012,28 @@
       "duration_ms": 218410,
       "name": "Zero Chances - Ao Vivo",
       "url": "https://open.spotify.com/track/2BApXORsRdAgiHFlmuxAMz"
+    },
+    {
+      "album": {
+        "name": "\u00c9 OS D",
+        "url": "https://open.spotify.com/album/7duVEHhFXXNS4GF0OFYBIN"
+      },
+      "artists": [
+        {
+          "name": "Mc Kadu",
+          "url": "https://open.spotify.com/artist/21ELc2P2rA3Cu6xw3VWqvv"
+        },
+        {
+          "name": "Perera DJ",
+          "url": "https://open.spotify.com/artist/1Bp5RHQ2K9k986YoxNvACB"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "\u00c9 OS D",
+      "url": "https://open.spotify.com/track/0FqqR9vFwoJoBKhTUfJl6q"
     },
     {
       "album": {

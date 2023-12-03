@@ -1,12 +1,12 @@
 {
   "description": "Il sound giusto per creare in cucina!",
-  "num_followers": 22757,
+  "num_followers": 22759,
   "original_name": "Musica per Cucinare",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyY2Q5N2ExOTY1NDM4NTI2ZTA3N2QwNTI3M2MzMzI2NjJjYjRhZDlm",
+  "snapshot_id": "MCw5ZWMwNWEzYTBjMmUzNGVkNDcyM2NmMzY0NzI1MzhkNWUyZTRiMTkz",
   "tracks": [
     {
       "added_at": "2020-11-10 18:47:22",
@@ -671,22 +671,18 @@
     {
       "added_at": "2020-11-10 18:47:22",
       "album": {
-        "name": "Gal Costa",
-        "url": "https://open.spotify.com/album/5ZVLLME05cmciSZz4IGcZu"
+        "name": "Intensified",
+        "url": "https://open.spotify.com/album/0TmbH6BZWBBmDGHNErPLxa"
       },
       "artists": [
         {
-          "name": "Gal Costa",
-          "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD"
-        },
-        {
-          "name": "Caetano Veloso",
-          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
+          "name": "Desmond Dekker & The Aces",
+          "url": "https://open.spotify.com/artist/4fmVPsGxjwP5ruiTEvIcOt"
         }
       ],
-      "duration_ms": 214933,
-      "name": "Que Pena (Ele J\u00e1 N\u00e3o Gosta Mais De Mim)",
-      "url": "https://open.spotify.com/track/1wuB9MID26ep43OlkOtBXd"
+      "duration_ms": 156786,
+      "name": "(Poor Mi) Israelites",
+      "url": "https://open.spotify.com/track/6zsH33Xbm0gAtBTx9R2vP0"
     },
     {
       "added_at": "2020-11-10 18:47:22",
@@ -703,6 +699,26 @@
       "duration_ms": 155666,
       "name": "Take It Easy My Brother Charles",
       "url": "https://open.spotify.com/track/399Hm1oqfzzQaZRu3CtVMb"
+    },
+    {
+      "added_at": "2020-11-10 18:47:22",
+      "album": {
+        "name": "Gal Costa",
+        "url": "https://open.spotify.com/album/5ZVLLME05cmciSZz4IGcZu"
+      },
+      "artists": [
+        {
+          "name": "Gal Costa",
+          "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD"
+        },
+        {
+          "name": "Caetano Veloso",
+          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
+        }
+      ],
+      "duration_ms": 214933,
+      "name": "Que Pena (Ele J\u00e1 N\u00e3o Gosta Mais De Mim)",
+      "url": "https://open.spotify.com/track/1wuB9MID26ep43OlkOtBXd"
     },
     {
       "added_at": "2020-11-10 18:47:22",
@@ -731,22 +747,6 @@
     {
       "added_at": "2020-11-10 18:47:22",
       "album": {
-        "name": "30 Greatest Hits: Portrait of a Legend 1951-1964",
-        "url": "https://open.spotify.com/album/4jiO2jRz7g50ESvYYKsKwZ"
-      },
-      "artists": [
-        {
-          "name": "Sam Cooke",
-          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
-        }
-      ],
-      "duration_ms": 165280,
-      "name": "Bring It On Home To Me",
-      "url": "https://open.spotify.com/track/4yjz1aazw6R8ZURpGbCAkp"
-    },
-    {
-      "added_at": "2020-11-10 18:47:22",
-      "album": {
         "name": "Lovestained",
         "url": "https://open.spotify.com/album/3tTbk9Yvi984H6ESRGk0Nl"
       },
@@ -763,18 +763,18 @@
     {
       "added_at": "2020-11-10 18:47:22",
       "album": {
-        "name": "Intensified",
-        "url": "https://open.spotify.com/album/0TmbH6BZWBBmDGHNErPLxa"
+        "name": "30 Greatest Hits: Portrait of a Legend 1951-1964",
+        "url": "https://open.spotify.com/album/4jiO2jRz7g50ESvYYKsKwZ"
       },
       "artists": [
         {
-          "name": "Desmond Dekker & The Aces",
-          "url": "https://open.spotify.com/artist/4fmVPsGxjwP5ruiTEvIcOt"
+          "name": "Sam Cooke",
+          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
         }
       ],
-      "duration_ms": 156786,
-      "name": "(Poor Mi) Israelites",
-      "url": "https://open.spotify.com/track/6zsH33Xbm0gAtBTx9R2vP0"
+      "duration_ms": 165280,
+      "name": "Bring It On Home To Me",
+      "url": "https://open.spotify.com/track/4yjz1aazw6R8ZURpGbCAkp"
     },
     {
       "added_at": "2020-11-10 18:47:22",
@@ -811,22 +811,6 @@
     {
       "added_at": "2020-11-10 18:47:22",
       "album": {
-        "name": "Blue Note Trip 7: Birds / Beats",
-        "url": "https://open.spotify.com/album/6Z4rwujDTEf2nBEc0eZqJF"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Donato",
-          "url": "https://open.spotify.com/artist/17wDxPR2GcU3r1dpCoCiUi"
-        }
-      ],
-      "duration_ms": 135093,
-      "name": "A R\u00e3",
-      "url": "https://open.spotify.com/track/0vZwdJBXOGppAMLjwDUNWg"
-    },
-    {
-      "added_at": "2020-11-10 18:47:22",
-      "album": {
         "name": "Buena Vista Social Club at Carnegie Hall (Live)",
         "url": "https://open.spotify.com/album/4lsvzkvzZqKJQsfjLV76RR"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 227760,
       "name": "Quiz\u00e1s, Quiz\u00e1s (Live)",
       "url": "https://open.spotify.com/track/78JVMoMUJw2zyeswgHKfrP"
+    },
+    {
+      "added_at": "2020-11-10 18:47:22",
+      "album": {
+        "name": "Blue Note Trip 7: Birds / Beats",
+        "url": "https://open.spotify.com/album/6Z4rwujDTEf2nBEc0eZqJF"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Donato",
+          "url": "https://open.spotify.com/artist/17wDxPR2GcU3r1dpCoCiUi"
+        }
+      ],
+      "duration_ms": 135093,
+      "name": "A R\u00e3",
+      "url": "https://open.spotify.com/track/0vZwdJBXOGppAMLjwDUNWg"
     },
     {
       "added_at": "2020-11-10 18:47:22",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2020-11-10 18:47:22",
       "album": {
-        "name": "Tesoros De Coleccion",
-        "url": "https://open.spotify.com/album/5fvc3yXYkuFeutWruzxCTk"
-      },
-      "artists": [
-        {
-          "name": "Los Panchos",
-          "url": "https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz"
-        }
-      ],
-      "duration_ms": 180626,
-      "name": "B\u00e9same Mucho",
-      "url": "https://open.spotify.com/track/1HlX3tDP7eJBs5CJx4XIIk"
-    },
-    {
-      "added_at": "2020-11-10 18:47:22",
-      "album": {
         "name": "The Loser / Now We Know",
         "url": "https://open.spotify.com/album/3Q9nz0AiROFVdjAwNDpwhv"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 218653,
       "name": "The Loser",
       "url": "https://open.spotify.com/track/3AGEHHqBOnAmQiJxxbasJu"
+    },
+    {
+      "added_at": "2020-11-10 18:47:22",
+      "album": {
+        "name": "Tesoros De Coleccion",
+        "url": "https://open.spotify.com/album/5fvc3yXYkuFeutWruzxCTk"
+      },
+      "artists": [
+        {
+          "name": "Los Panchos",
+          "url": "https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz"
+        }
+      ],
+      "duration_ms": 180626,
+      "name": "B\u00e9same Mucho",
+      "url": "https://open.spotify.com/track/1HlX3tDP7eJBs5CJx4XIIk"
     },
     {
       "added_at": "2020-11-10 18:47:22",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2020-11-10 18:47:22",
       "album": {
-        "name": "Dois Momentos",
-        "url": "https://open.spotify.com/album/2Q76MOA6Hs8KPk3brm8V6I"
-      },
-      "artists": [
-        {
-          "name": "Novos Baianos",
-          "url": "https://open.spotify.com/artist/2ohBjgFT9V0LRDWO2wF9DJ"
-        }
-      ],
-      "duration_ms": 198466,
-      "name": "Quando voc\u00ea chegar",
-      "url": "https://open.spotify.com/track/3S15asiD5pqbEp4mb9tMxa"
-    },
-    {
-      "added_at": "2020-11-10 18:47:22",
-      "album": {
         "name": "Buenos Hermanos",
         "url": "https://open.spotify.com/album/3oPg2VmRHEMdsxeh4pftSb"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 230266,
       "name": "Boliviana",
       "url": "https://open.spotify.com/track/0JiclsGP7YAZyBkfDzcfVZ"
+    },
+    {
+      "added_at": "2020-11-10 18:47:22",
+      "album": {
+        "name": "Dois Momentos",
+        "url": "https://open.spotify.com/album/2Q76MOA6Hs8KPk3brm8V6I"
+      },
+      "artists": [
+        {
+          "name": "Novos Baianos",
+          "url": "https://open.spotify.com/artist/2ohBjgFT9V0LRDWO2wF9DJ"
+        }
+      ],
+      "duration_ms": 198466,
+      "name": "Quando voc\u00ea chegar",
+      "url": "https://open.spotify.com/track/3S15asiD5pqbEp4mb9tMxa"
     },
     {
       "added_at": "2020-11-10 18:47:22",

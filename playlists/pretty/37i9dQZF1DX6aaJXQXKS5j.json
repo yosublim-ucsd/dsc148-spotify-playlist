@@ -1,12 +1,12 @@
 {
   "description": "In the trap with Bad Bunny \ud83d\udc30 \ud83d\udd25",
-  "num_followers": 28283,
+  "num_followers": 28320,
   "original_name": "Trap Bunny",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMDgxYzdkNGY2MzBlOTQ3MTQ2YWZkOGVmNTUxNmRlZmMyMDlhM2I5",
+  "snapshot_id": "MCw1NzA1M2FjYmY0MWMyMzhjMTZhYTZjZmVkYTBkZDFhNDQ0NWY3YWE4",
   "tracks": [
     {
       "added_at": "2023-10-13 04:01:00",
@@ -283,26 +283,6 @@
     {
       "added_at": "2023-10-13 04:01:00",
       "album": {
-        "name": "Sexto Sentido (feat. Bad Bunny)",
-        "url": "https://open.spotify.com/album/63RZ9So4XZXllOEUw5h5OV"
-      },
-      "artists": [
-        {
-          "name": "Gigolo Y La Exce",
-          "url": "https://open.spotify.com/artist/7lCRuW6BSXGAsxuQV9lR0i"
-        },
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 227291,
-      "name": "Sexto Sentido (feat. Bad Bunny)",
-      "url": "https://open.spotify.com/track/1XDBrOUa5swy7lhO06mggm"
-    },
-    {
-      "added_at": "2023-10-13 04:01:00",
-      "album": {
         "name": "47 (Remix)",
         "url": "https://open.spotify.com/album/7hlRNdjFs9DEPTrHhzFwYu"
       },
@@ -343,6 +323,26 @@
       "duration_ms": 517599,
       "name": "47 - Remix",
       "url": "https://open.spotify.com/track/2kQDcD7adY2odZLLfIexFj"
+    },
+    {
+      "added_at": "2023-10-13 04:01:00",
+      "album": {
+        "name": "Sexto Sentido (feat. Bad Bunny)",
+        "url": "https://open.spotify.com/album/63RZ9So4XZXllOEUw5h5OV"
+      },
+      "artists": [
+        {
+          "name": "Gigolo Y La Exce",
+          "url": "https://open.spotify.com/artist/7lCRuW6BSXGAsxuQV9lR0i"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 227291,
+      "name": "Sexto Sentido (feat. Bad Bunny)",
+      "url": "https://open.spotify.com/track/1XDBrOUa5swy7lhO06mggm"
     },
     {
       "added_at": "2023-10-13 04:01:00",
@@ -567,22 +567,6 @@
     {
       "added_at": "2023-10-13 04:01:00",
       "album": {
-        "name": "Soy Peor",
-        "url": "https://open.spotify.com/album/7ofZgPzOIVXY4ADCrGUqgF"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 257384,
-      "name": "Soy Peor",
-      "url": "https://open.spotify.com/track/1JxhrUWZjuI8AOjDJ1JpMN"
-    },
-    {
-      "added_at": "2023-10-13 04:01:00",
-      "album": {
         "name": "Me Mata",
         "url": "https://open.spotify.com/album/711Ewqb91hqv9aKXWPaBTI"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 412631,
       "name": "Me Mata",
       "url": "https://open.spotify.com/track/2wgDAPgBhFA7pnIbm0YOhP"
+    },
+    {
+      "added_at": "2023-10-13 04:01:00",
+      "album": {
+        "name": "Soy Peor",
+        "url": "https://open.spotify.com/album/7ofZgPzOIVXY4ADCrGUqgF"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 257384,
+      "name": "Soy Peor",
+      "url": "https://open.spotify.com/track/1JxhrUWZjuI8AOjDJ1JpMN"
     },
     {
       "added_at": "2023-10-13 04:01:00",

@@ -1,12 +1,12 @@
 {
   "description": "Legendary tracks featured in music video games and rhythm games over the years.",
-  "num_followers": 25063,
+  "num_followers": 25144,
   "original_name": "Expert Mode",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMzNhMjAwNWMwYTEyMWYxNmFiNWI2MjAyMWE1NGIxYWQ1MjlmYzQ2",
+  "snapshot_id": "MCwxZDg0NmVhZjE1ZDBkN2RhM2NiZjM1MzE5ODJjMTEwZWJlMDg1MDE5",
   "tracks": [
     {
       "added_at": "2022-10-12 16:09:56",
@@ -211,22 +211,6 @@
     {
       "added_at": "2022-10-12 16:09:56",
       "album": {
-        "name": "Animal (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6fpLLJsDSSAlToEDW2jv4F"
-      },
-      "artists": [
-        {
-          "name": "Kesha",
-          "url": "https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX"
-        }
-      ],
-      "duration_ms": 199693,
-      "name": "TiK ToK",
-      "url": "https://open.spotify.com/track/0HPD5WQqrq7wPWR7P7Dw1i"
-    },
-    {
-      "added_at": "2022-10-12 16:09:56",
-      "album": {
         "name": "Appetite For Destruction",
         "url": "https://open.spotify.com/album/28yHV3Gdg30AiB8h8em1eW"
       },
@@ -239,6 +223,22 @@
       "duration_ms": 273480,
       "name": "Welcome To The Jungle",
       "url": "https://open.spotify.com/track/0G21yYKMZoHa30cYVi1iA8"
+    },
+    {
+      "added_at": "2022-10-12 16:09:56",
+      "album": {
+        "name": "Animal (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6fpLLJsDSSAlToEDW2jv4F"
+      },
+      "artists": [
+        {
+          "name": "Kesha",
+          "url": "https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX"
+        }
+      ],
+      "duration_ms": 199693,
+      "name": "TiK ToK",
+      "url": "https://open.spotify.com/track/0HPD5WQqrq7wPWR7P7Dw1i"
     },
     {
       "added_at": "2022-10-12 16:09:56",
@@ -611,22 +611,6 @@
     {
       "added_at": "2022-10-12 16:09:56",
       "album": {
-        "name": "Agents Of Fortune",
-        "url": "https://open.spotify.com/album/6C9WzlQANeoD0GW5B41YJt"
-      },
-      "artists": [
-        {
-          "name": "Blue \u00d6yster Cult",
-          "url": "https://open.spotify.com/artist/00tVTdpEhQQw1bqdu8RCx2"
-        }
-      ],
-      "duration_ms": 308120,
-      "name": "(Don't Fear) The Reaper",
-      "url": "https://open.spotify.com/track/5QTxFnGygVM4jFQiBovmRo"
-    },
-    {
-      "added_at": "2022-10-12 16:09:56",
-      "album": {
         "name": "Eye Of The Tiger",
         "url": "https://open.spotify.com/album/4PT9VulQaQP6XR1xBI2x1W"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 243773,
       "name": "Eye of the Tiger",
       "url": "https://open.spotify.com/track/2HHtWyy5CgaQbC7XSoOb0e"
+    },
+    {
+      "added_at": "2022-10-12 16:09:56",
+      "album": {
+        "name": "Agents Of Fortune",
+        "url": "https://open.spotify.com/album/6C9WzlQANeoD0GW5B41YJt"
+      },
+      "artists": [
+        {
+          "name": "Blue \u00d6yster Cult",
+          "url": "https://open.spotify.com/artist/00tVTdpEhQQw1bqdu8RCx2"
+        }
+      ],
+      "duration_ms": 308120,
+      "name": "(Don't Fear) The Reaper",
+      "url": "https://open.spotify.com/track/5QTxFnGygVM4jFQiBovmRo"
     },
     {
       "added_at": "2022-10-12 16:09:56",
@@ -723,22 +723,6 @@
     {
       "added_at": "2022-10-12 16:09:56",
       "album": {
-        "name": "Cuz I Love You (Super Deluxe)",
-        "url": "https://open.spotify.com/album/7hBV0wo7cDHZQLYnuOJ312"
-      },
-      "artists": [
-        {
-          "name": "Lizzo",
-          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
-        }
-      ],
-      "duration_ms": 159735,
-      "name": "Good as Hell",
-      "url": "https://open.spotify.com/track/6KgBpzTuTRPebChN0VTyzV"
-    },
-    {
-      "added_at": "2022-10-12 16:09:56",
-      "album": {
         "name": "The Sweet Escape",
         "url": "https://open.spotify.com/album/7xnZ539lh8x6de9jzlpCJp"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 246466,
       "name": "The Sweet Escape",
       "url": "https://open.spotify.com/track/66ZcOcouenzZEnzTJvoFmH"
+    },
+    {
+      "added_at": "2022-10-12 16:09:56",
+      "album": {
+        "name": "Cuz I Love You (Super Deluxe)",
+        "url": "https://open.spotify.com/album/7hBV0wo7cDHZQLYnuOJ312"
+      },
+      "artists": [
+        {
+          "name": "Lizzo",
+          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
+        }
+      ],
+      "duration_ms": 159735,
+      "name": "Good as Hell",
+      "url": "https://open.spotify.com/track/6KgBpzTuTRPebChN0VTyzV"
     },
     {
       "added_at": "2022-10-12 16:09:56",
@@ -823,18 +823,18 @@
     {
       "added_at": "2022-10-12 16:09:56",
       "album": {
-        "name": "Therefore I Am",
-        "url": "https://open.spotify.com/album/5G58VVE9ub1KE01Mvbd8XM"
+        "name": "Road to Ruin (40th Anniversary Deluxe Edition)",
+        "url": "https://open.spotify.com/album/43zbrwwFHh5e7cmDQomx8Z"
       },
       "artists": [
         {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+          "name": "Ramones",
+          "url": "https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm"
         }
       ],
-      "duration_ms": 174321,
-      "name": "Therefore I Am",
-      "url": "https://open.spotify.com/track/54bFM56PmE4YLRnqpW6Tha"
+      "duration_ms": 149786,
+      "name": "I Wanna Be Sedated",
+      "url": "https://open.spotify.com/track/5NoQvINZLBV1wMYPdNmReL"
     }
   ],
   "unique_name": "Expert Mode",

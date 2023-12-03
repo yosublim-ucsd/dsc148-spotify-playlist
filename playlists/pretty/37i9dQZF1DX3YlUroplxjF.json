@@ -1,12 +1,12 @@
 {
   "description": "A heavy collision of punk, hardcore and everything in between. Cover: Knocked Loose",
-  "num_followers": 472424,
+  "num_followers": 472516,
   "original_name": "Crash Course",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzM2RmYjkxMzFiZWZmOGMyNDRlY2UyYjcxZWZiMDZlOTVkOWY2ODA5",
+  "snapshot_id": "MCwxMjg0OWY3YzFkYzI2YzAwNjQ3NzFhZmE5MDZlYzE2ZTVhZmMwODcz",
   "tracks": [
     {
       "added_at": "2023-06-20 21:21:38",
@@ -59,6 +59,22 @@
     {
       "added_at": "2023-06-20 21:21:38",
       "album": {
+        "name": "Tear Me to Pieces",
+        "url": "https://open.spotify.com/album/17SwYUB37YlHat6m7qCTge"
+      },
+      "artists": [
+        {
+          "name": "Story Of The Year",
+          "url": "https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt"
+        }
+      ],
+      "duration_ms": 174283,
+      "name": "War",
+      "url": "https://open.spotify.com/track/1ED1SD4TRK5NprtJ837Eaa"
+    },
+    {
+      "added_at": "2023-06-20 21:21:38",
+      "album": {
         "name": "Welcome To Horrorwood: The Silver Scream 2",
         "url": "https://open.spotify.com/album/4PyOq7kavqglGk3cexcygx"
       },
@@ -75,22 +91,6 @@
       "duration_ms": 203560,
       "name": "Hip To Be Scared [Feat. Jacoby Shaddix]",
       "url": "https://open.spotify.com/track/1tBghD5Z8rBeN7eHDXLamy"
-    },
-    {
-      "added_at": "2023-06-20 21:21:38",
-      "album": {
-        "name": "Tear Me to Pieces",
-        "url": "https://open.spotify.com/album/17SwYUB37YlHat6m7qCTge"
-      },
-      "artists": [
-        {
-          "name": "Story Of The Year",
-          "url": "https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt"
-        }
-      ],
-      "duration_ms": 174283,
-      "name": "War",
-      "url": "https://open.spotify.com/track/1ED1SD4TRK5NprtJ837Eaa"
     },
     {
       "added_at": "2023-06-20 21:21:38",
@@ -423,22 +423,6 @@
     {
       "added_at": "2023-06-20 21:21:38",
       "album": {
-        "name": "How It Feels to Be Lost (Deluxe)",
-        "url": "https://open.spotify.com/album/3L0vJbE2mnyvXbixErax8B"
-      },
-      "artists": [
-        {
-          "name": "Sleeping With Sirens",
-          "url": "https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA"
-        }
-      ],
-      "duration_ms": 198248,
-      "name": "Leave It All Behind",
-      "url": "https://open.spotify.com/track/3k0tqE5mlRFbzUB5iHVDFN"
-    },
-    {
-      "added_at": "2023-06-20 21:21:38",
-      "album": {
         "name": "Holy Hell",
         "url": "https://open.spotify.com/album/3gh9LlHXtUEPkqsWj60Qy7"
       },
@@ -455,18 +439,18 @@
     {
       "added_at": "2023-06-20 21:21:38",
       "album": {
-        "name": "Resentment",
-        "url": "https://open.spotify.com/album/64wQKGqvMqZrYrrdqqEbvO"
+        "name": "How It Feels to Be Lost (Deluxe)",
+        "url": "https://open.spotify.com/album/3L0vJbE2mnyvXbixErax8B"
       },
       "artists": [
         {
-          "name": "A Day To Remember",
-          "url": "https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN"
+          "name": "Sleeping With Sirens",
+          "url": "https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA"
         }
       ],
-      "duration_ms": 227266,
-      "name": "Resentment",
-      "url": "https://open.spotify.com/track/57yI1u6t6cFXbjgjQcRHug"
+      "duration_ms": 198248,
+      "name": "Leave It All Behind",
+      "url": "https://open.spotify.com/track/3k0tqE5mlRFbzUB5iHVDFN"
     },
     {
       "added_at": "2023-06-20 21:21:38",
@@ -483,6 +467,22 @@
       "duration_ms": 168000,
       "name": "High Horse",
       "url": "https://open.spotify.com/track/5ebWSNwQKrnZzx4jvoGX6W"
+    },
+    {
+      "added_at": "2023-06-20 21:21:38",
+      "album": {
+        "name": "Resentment",
+        "url": "https://open.spotify.com/album/64wQKGqvMqZrYrrdqqEbvO"
+      },
+      "artists": [
+        {
+          "name": "A Day To Remember",
+          "url": "https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN"
+        }
+      ],
+      "duration_ms": 227266,
+      "name": "Resentment",
+      "url": "https://open.spotify.com/track/57yI1u6t6cFXbjgjQcRHug"
     },
     {
       "added_at": "2023-06-20 21:21:38",
@@ -583,22 +583,6 @@
     {
       "added_at": "2023-06-20 21:21:38",
       "album": {
-        "name": "The World Is In Your Way (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/46U6TW57g10lUujKjyzZiG"
-      },
-      "artists": [
-        {
-          "name": "Dragged Under",
-          "url": "https://open.spotify.com/artist/3D1uNqaasEWzallSxKo1cH"
-        }
-      ],
-      "duration_ms": 225117,
-      "name": "Instability",
-      "url": "https://open.spotify.com/track/0hNgeS6kzIC4Rtdz4L0jsN"
-    },
-    {
-      "added_at": "2023-06-20 21:21:38",
-      "album": {
         "name": "Sudden Sky",
         "url": "https://open.spotify.com/album/7f8faOO0gxuG26Qo7GIlkr"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 200384,
       "name": "BLURRY (out of place)",
       "url": "https://open.spotify.com/track/5Zls4RuRbomkrthG1p18Tc"
+    },
+    {
+      "added_at": "2023-06-20 21:21:38",
+      "album": {
+        "name": "The World Is In Your Way (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/46U6TW57g10lUujKjyzZiG"
+      },
+      "artists": [
+        {
+          "name": "Dragged Under",
+          "url": "https://open.spotify.com/artist/3D1uNqaasEWzallSxKo1cH"
+        }
+      ],
+      "duration_ms": 225117,
+      "name": "Instability",
+      "url": "https://open.spotify.com/track/0hNgeS6kzIC4Rtdz4L0jsN"
     },
     {
       "added_at": "2023-06-20 21:21:38",
@@ -663,22 +663,6 @@
     {
       "added_at": "2023-06-20 21:21:38",
       "album": {
-        "name": "How It Feels to Be Lost (Deluxe)",
-        "url": "https://open.spotify.com/album/3L0vJbE2mnyvXbixErax8B"
-      },
-      "artists": [
-        {
-          "name": "Sleeping With Sirens",
-          "url": "https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA"
-        }
-      ],
-      "duration_ms": 182679,
-      "name": "Agree to Disagree",
-      "url": "https://open.spotify.com/track/47rnEcnCJ89jrL3yzQygEw"
-    },
-    {
-      "added_at": "2023-06-20 21:21:38",
-      "album": {
         "name": "Artificial Selection",
         "url": "https://open.spotify.com/album/4YkhIDrZZ3dFlH0POQ3Syj"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 238984,
       "name": "Son of Robot",
       "url": "https://open.spotify.com/track/2m9dpUx3PkIOa2LPfDbSA8"
+    },
+    {
+      "added_at": "2023-06-20 21:21:38",
+      "album": {
+        "name": "How It Feels to Be Lost (Deluxe)",
+        "url": "https://open.spotify.com/album/3L0vJbE2mnyvXbixErax8B"
+      },
+      "artists": [
+        {
+          "name": "Sleeping With Sirens",
+          "url": "https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA"
+        }
+      ],
+      "duration_ms": 182679,
+      "name": "Agree to Disagree",
+      "url": "https://open.spotify.com/track/47rnEcnCJ89jrL3yzQygEw"
     },
     {
       "added_at": "2023-06-20 21:21:38",
@@ -799,22 +799,6 @@
     {
       "added_at": "2023-06-20 21:21:38",
       "album": {
-        "name": "Afterburner",
-        "url": "https://open.spotify.com/album/0K8VeEO164P3ctndsCzs6U"
-      },
-      "artists": [
-        {
-          "name": "Dance Gavin Dance",
-          "url": "https://open.spotify.com/artist/6guC9FqvlVboSKTI77NG2k"
-        }
-      ],
-      "duration_ms": 236050,
-      "name": "Lyrics Lie",
-      "url": "https://open.spotify.com/track/56rDsioIJVni7hmFio7yZU"
-    },
-    {
-      "added_at": "2023-06-20 21:21:38",
-      "album": {
         "name": "D\u00e9j\u00e0 Vu",
         "url": "https://open.spotify.com/album/4aSQ7ZdevivIQFeSMWxPSW"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 268727,
       "name": "Signs",
       "url": "https://open.spotify.com/track/7v6YqvhuUAJXn08bOT9JBs"
+    },
+    {
+      "added_at": "2023-06-20 21:21:38",
+      "album": {
+        "name": "Afterburner",
+        "url": "https://open.spotify.com/album/0K8VeEO164P3ctndsCzs6U"
+      },
+      "artists": [
+        {
+          "name": "Dance Gavin Dance",
+          "url": "https://open.spotify.com/artist/6guC9FqvlVboSKTI77NG2k"
+        }
+      ],
+      "duration_ms": 236050,
+      "name": "Lyrics Lie",
+      "url": "https://open.spotify.com/track/56rDsioIJVni7hmFio7yZU"
     },
     {
       "added_at": "2023-06-20 21:21:38",
@@ -1027,22 +1027,18 @@
     {
       "added_at": "2023-06-20 21:21:38",
       "album": {
-        "name": "wonderful life (feat. Dani Filth)",
-        "url": "https://open.spotify.com/album/1uunFc8ZPthd7kFXaf393T"
+        "name": "Opening Night",
+        "url": "https://open.spotify.com/album/3dOLUxrcRZ1UuxcxeyNEgh"
       },
       "artists": [
         {
-          "name": "Bring Me The Horizon",
-          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
-        },
-        {
-          "name": "Dani Filth",
-          "url": "https://open.spotify.com/artist/76qhZXwfMnhJPXacLwGcNK"
+          "name": "Scowl",
+          "url": "https://open.spotify.com/artist/6hW33nVHPElaXuG2hQ0QOp"
         }
       ],
-      "duration_ms": 274403,
-      "name": "wonderful life (feat. Dani Filth)",
-      "url": "https://open.spotify.com/track/1kq5dLuzkRLgemasnkUg9G"
+      "duration_ms": 127383,
+      "name": "Opening Night",
+      "url": "https://open.spotify.com/track/39C4XHkmDebCPGK50NBZGe"
     },
     {
       "added_at": "2023-06-20 21:21:38",
@@ -1063,18 +1059,22 @@
     {
       "added_at": "2023-06-20 21:21:38",
       "album": {
-        "name": "Opening Night",
-        "url": "https://open.spotify.com/album/3dOLUxrcRZ1UuxcxeyNEgh"
+        "name": "wonderful life (feat. Dani Filth)",
+        "url": "https://open.spotify.com/album/1uunFc8ZPthd7kFXaf393T"
       },
       "artists": [
         {
-          "name": "Scowl",
-          "url": "https://open.spotify.com/artist/6hW33nVHPElaXuG2hQ0QOp"
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+        },
+        {
+          "name": "Dani Filth",
+          "url": "https://open.spotify.com/artist/76qhZXwfMnhJPXacLwGcNK"
         }
       ],
-      "duration_ms": 127383,
-      "name": "Opening Night",
-      "url": "https://open.spotify.com/track/39C4XHkmDebCPGK50NBZGe"
+      "duration_ms": 274403,
+      "name": "wonderful life (feat. Dani Filth)",
+      "url": "https://open.spotify.com/track/1kq5dLuzkRLgemasnkUg9G"
     },
     {
       "added_at": "2023-06-20 21:21:38",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2023-06-20 21:21:38",
       "album": {
-        "name": "Devastation",
-        "url": "https://open.spotify.com/album/770QyevFqrQduuJDRPtVHU"
-      },
-      "artists": [
-        {
-          "name": "Beartooth",
-          "url": "https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL"
-        }
-      ],
-      "duration_ms": 221748,
-      "name": "Devastation",
-      "url": "https://open.spotify.com/track/7JlMigJUTnVlmXODusrtdF"
-    },
-    {
-      "added_at": "2023-06-20 21:21:38",
-      "album": {
         "name": "How It Feels to Be Lost (Deluxe)",
         "url": "https://open.spotify.com/album/3L0vJbE2mnyvXbixErax8B"
       },
@@ -1379,6 +1363,22 @@
       "duration_ms": 190750,
       "name": "Break Me Down",
       "url": "https://open.spotify.com/track/6hUEwiltS9W4UdO3h2NCsK"
+    },
+    {
+      "added_at": "2023-06-20 21:21:38",
+      "album": {
+        "name": "Devastation",
+        "url": "https://open.spotify.com/album/770QyevFqrQduuJDRPtVHU"
+      },
+      "artists": [
+        {
+          "name": "Beartooth",
+          "url": "https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL"
+        }
+      ],
+      "duration_ms": 221748,
+      "name": "Devastation",
+      "url": "https://open.spotify.com/track/7JlMigJUTnVlmXODusrtdF"
     },
     {
       "added_at": "2023-06-20 21:21:38",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2023-06-20 21:21:38",
       "album": {
-        "name": "Afterlife",
-        "url": "https://open.spotify.com/album/41aWOCOKzixf8tmnc79Wdi"
-      },
-      "artists": [
-        {
-          "name": "Holding Absence",
-          "url": "https://open.spotify.com/artist/2tl280wIokrLjabzrSKTgU"
-        }
-      ],
-      "duration_ms": 226309,
-      "name": "Afterlife - Single Edit",
-      "url": "https://open.spotify.com/track/5EP4iTqknNPDQsbXrc6Ab3"
-    },
-    {
-      "added_at": "2023-06-20 21:21:38",
-      "album": {
         "name": "Familiar Drugs",
         "url": "https://open.spotify.com/album/6Cvt8vsgpxQ5DRG0nqW25B"
       },
@@ -1495,18 +1479,18 @@
     {
       "added_at": "2023-06-20 21:21:38",
       "album": {
-        "name": "LIVING PROOF",
-        "url": "https://open.spotify.com/album/035ul2Le143j2WBozMShrW"
+        "name": "Afterlife",
+        "url": "https://open.spotify.com/album/41aWOCOKzixf8tmnc79Wdi"
       },
       "artists": [
         {
-          "name": "DRAIN",
-          "url": "https://open.spotify.com/artist/7FAAkDlPg6pg0860CIDzmu"
+          "name": "Holding Absence",
+          "url": "https://open.spotify.com/artist/2tl280wIokrLjabzrSKTgU"
         }
       ],
-      "duration_ms": 139000,
-      "name": "FTS (KYS)",
-      "url": "https://open.spotify.com/track/4tPMDn5syMqjI7vhWhoqLR"
+      "duration_ms": 226309,
+      "name": "Afterlife - Single Edit",
+      "url": "https://open.spotify.com/track/5EP4iTqknNPDQsbXrc6Ab3"
     },
     {
       "added_at": "2023-06-20 21:21:38",
@@ -1523,6 +1507,22 @@
       "duration_ms": 185454,
       "name": "Messed Up",
       "url": "https://open.spotify.com/track/6VyVscmvqF2DvH94Yx8KCd"
+    },
+    {
+      "added_at": "2023-06-20 21:21:38",
+      "album": {
+        "name": "LIVING PROOF",
+        "url": "https://open.spotify.com/album/035ul2Le143j2WBozMShrW"
+      },
+      "artists": [
+        {
+          "name": "DRAIN",
+          "url": "https://open.spotify.com/artist/7FAAkDlPg6pg0860CIDzmu"
+        }
+      ],
+      "duration_ms": 139000,
+      "name": "FTS (KYS)",
+      "url": "https://open.spotify.com/track/4tPMDn5syMqjI7vhWhoqLR"
     },
     {
       "added_at": "2023-06-20 21:21:38",
@@ -1575,6 +1575,22 @@
     {
       "added_at": "2023-06-20 21:21:38",
       "album": {
+        "name": "Disease (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0W1v4PxSlD1gMIbUlejqr8"
+      },
+      "artists": [
+        {
+          "name": "Beartooth",
+          "url": "https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL"
+        }
+      ],
+      "duration_ms": 178154,
+      "name": "Takeover",
+      "url": "https://open.spotify.com/track/5TcpsBCqICDWlk2kT3ieFg"
+    },
+    {
+      "added_at": "2023-06-20 21:21:38",
+      "album": {
         "name": "Brick Wall",
         "url": "https://open.spotify.com/album/4r9I2tBybOiKUqPkoKvPOA"
       },
@@ -1603,22 +1619,6 @@
       "duration_ms": 228299,
       "name": "Stand Up",
       "url": "https://open.spotify.com/track/5UbS0IXeN6JCXFfFrAvBF0"
-    },
-    {
-      "added_at": "2023-06-20 21:21:38",
-      "album": {
-        "name": "Disease (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0W1v4PxSlD1gMIbUlejqr8"
-      },
-      "artists": [
-        {
-          "name": "Beartooth",
-          "url": "https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL"
-        }
-      ],
-      "duration_ms": 178154,
-      "name": "Takeover",
-      "url": "https://open.spotify.com/track/5TcpsBCqICDWlk2kT3ieFg"
     },
     {
       "added_at": "2023-06-20 21:21:38",

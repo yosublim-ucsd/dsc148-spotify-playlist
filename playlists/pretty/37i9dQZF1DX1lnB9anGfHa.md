@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lnB9anGfHa.md) - [plain]
 
 > A journey into the unknown, dark, and experimental.
 
-[Spotify](https://open.spotify.com/user/spotify) - 210,514 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 210,540 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lnB9anGfHa.md) - [plain]
 | 25 | [Inquietum](https://open.spotify.com/track/2Kh7KOKvfe25khXSJYH4rA) | [Samuele CYMA](https://open.spotify.com/artist/1RXsSSM8C7wdG5FSxDTMFM) | [Sigillata Luce](https://open.spotify.com/album/2BQuo5nQfPmd4TD15usjva) | 5:09 |
 | 26 | [Blood Be Fluid](https://open.spotify.com/track/7HyrigNQ5MIr19G4ECFNeH) | [Julia Romana](https://open.spotify.com/artist/3syw2pWKHP7n8VnXhCFn3d) | [Blood Be Fluid](https://open.spotify.com/album/1ECmQ3a1oTSozVhc49eiID) | 3:47 |
 | 27 | [Taivshral](https://open.spotify.com/track/0X8xhlGsWrdkcbZrfqOxGO) | [Enji](https://open.spotify.com/artist/5SAQAlJKszQa6PZyp4lT7s) | [Taivshral](https://open.spotify.com/album/7538gMorHWrqI3fX1RdYhq) | 3:07 |
-| 28 | [The Metallic Index](https://open.spotify.com/track/3GQbilk0MocKiEEccxsZmr) | [Fenella](https://open.spotify.com/artist/0IzOzLPM6viWFLxD2V8f9R), [Jane Weaver](https://open.spotify.com/artist/1UrfmsMDKHSYXj7SaPjyWL) | [The Metallic Index](https://open.spotify.com/album/0rFQ0WB7KaIEva6TiM0Wpr) | 1:34 |
-| 29 | [Close](https://open.spotify.com/track/1CIx89XwJuePwZchjrHudW) | [Johan Graden](https://open.spotify.com/artist/0mASxX1wZrJJQzv1ZiRxak), [Ellen Arkbro](https://open.spotify.com/artist/7cFSj2thh5HO4mnVZHP7nn) | [Close](https://open.spotify.com/album/5kmzOIqlnSKxGTj0BCc47u) | 5:20 |
+| 28 | [Close](https://open.spotify.com/track/1CIx89XwJuePwZchjrHudW) | [Johan Graden](https://open.spotify.com/artist/0mASxX1wZrJJQzv1ZiRxak), [Ellen Arkbro](https://open.spotify.com/artist/7cFSj2thh5HO4mnVZHP7nn) | [Close](https://open.spotify.com/album/5kmzOIqlnSKxGTj0BCc47u) | 5:20 |
+| 29 | [The Metallic Index](https://open.spotify.com/track/3GQbilk0MocKiEEccxsZmr) | [Fenella](https://open.spotify.com/artist/0IzOzLPM6viWFLxD2V8f9R), [Jane Weaver](https://open.spotify.com/artist/1UrfmsMDKHSYXj7SaPjyWL) | [The Metallic Index](https://open.spotify.com/album/0rFQ0WB7KaIEva6TiM0Wpr) | 1:34 |
 | 30 | [Assim](https://open.spotify.com/track/2qJ0alAK9ja55NUAafSykX) | [Xexa](https://open.spotify.com/artist/5YOOZDm22sEdpPpf8QX9J8) | [Vibrações de Prata](https://open.spotify.com/album/2JIG0FQTzPK42gw78K2Cuj) | 2:08 |
 | 31 | [American Coffee](https://open.spotify.com/track/2ywyJsQa0vew5YEbAr7Jgr) | [Jenny Hval](https://open.spotify.com/artist/5eerVxtb9lY9p6D7m89Bs7) | [Classic Objects](https://open.spotify.com/album/71T5vyKWwbd4oUPfDpyNwb) | 6:02 |
 | 32 | [Even It Out](https://open.spotify.com/track/6A5MnQeIz8R39Ed6huqwQI) | [Fever Ray](https://open.spotify.com/artist/5hE6NCoobhyEu6TRSbjOJY) | [Radical Romantics](https://open.spotify.com/album/0GSARUUhweinQufLR663b4) | 3:07 |
@@ -47,16 +47,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lnB9anGfHa.md) - [plain]
 | 37 | [Unknown Tokyo](https://open.spotify.com/track/6MruNrnfGnISP5aKUyFC4g) | [Clams Casino](https://open.spotify.com/artist/5vSQUyT33qxr1xAX2Tkf3A), [Jazztronik](https://open.spotify.com/artist/3TMLgJUsDIxI4CShGh8vYM) | [Unknown Tokyo](https://open.spotify.com/album/5WtMHNfW6oFN7spvwb1jwh) | 4:05 |
 | 38 | [Trececerotres](https://open.spotify.com/track/2YIhvE2LGV58BDeINvSRbx) | [Daniela Lalita](https://open.spotify.com/artist/2eblCDvXEKYYapO1uchGds) | [Trececerotres](https://open.spotify.com/album/5ENBXjQ6oBDLq0AD6YfPTO) | 2:15 |
 | 39 | [Aura](https://open.spotify.com/track/3yLrFNajQckehtRDyh2FiI) | [Hatis Noit](https://open.spotify.com/artist/1VMXdJgyzy12hZGmEk8LPY) | [Aura](https://open.spotify.com/album/1CtdQTfP0DzM3GJA95Po52) | 7:17 |
-| 40 | [The King](https://open.spotify.com/track/6aFYhF9iSJv4OCee099HxM) | [Anjimile](https://open.spotify.com/artist/4CmXLOB2gQfewLf8iTbNVp) | [The King](https://open.spotify.com/album/0ouw4GHpv8UexlEOMidhwJ) | 3:44 |
+| 40 | [Noche](https://open.spotify.com/track/0Tnq2OrBNLgwHVeGq6yob6) | [Fuensanta](https://open.spotify.com/artist/5Tda1L0VLxqMBAThEKFIjD) | [Noche](https://open.spotify.com/album/5eeIYt9yUyqyQuHhZw91ph) | 3:57 |
 | 41 | [Chills Me to the Bone](https://open.spotify.com/track/1TEHus4OKe6OsoABt5rASX) | [Tricky](https://open.spotify.com/artist/6hhA8TKRNryM8FNzqCqdDO), [Marta](https://open.spotify.com/artist/0yz9lVc98Tji7yjwkUe7l7) | [Fall to Pieces](https://open.spotify.com/album/6In2HeTX6Web6mNHcamTOO) | 2:16 |
-| 42 | [Noche](https://open.spotify.com/track/0Tnq2OrBNLgwHVeGq6yob6) | [Fuensanta](https://open.spotify.com/artist/5Tda1L0VLxqMBAThEKFIjD) | [Noche](https://open.spotify.com/album/5eeIYt9yUyqyQuHhZw91ph) | 3:57 |
+| 42 | [The King](https://open.spotify.com/track/6aFYhF9iSJv4OCee099HxM) | [Anjimile](https://open.spotify.com/artist/4CmXLOB2gQfewLf8iTbNVp) | [The King](https://open.spotify.com/album/0ouw4GHpv8UexlEOMidhwJ) | 3:44 |
 | 43 | [Thin Air \(WaterBABii\_MiiX\)](https://open.spotify.com/track/3njtYpKsQTnuKYVmIFLtaE) | [Waterbaby](https://open.spotify.com/artist/7rZM3S0PVEdLKpDLqtXIhx), [BABii](https://open.spotify.com/artist/30qGwXnygZNCzxjN7QsIR0) | [Thin Air \(WaterBABii\_MiiX\)](https://open.spotify.com/album/3m5gpzvJDi7wObxSwFjUmZ) | 4:02 |
 | 44 | [Dicen](https://open.spotify.com/track/23hHf7aRBMesANVdtp2stv) | [Lucrecia Dalt](https://open.spotify.com/artist/4LC4vkseYrSEDd6MjZvOO9) | [¡Ay!](https://open.spotify.com/album/6g5Cioj39K7ix89q2xAtsh) | 2:44 |
-| 45 | [V](https://open.spotify.com/track/3Sk8oGy02QK1eZ52A2BYyI) | [Of The Muses](https://open.spotify.com/artist/0bYSzLLgzeNiGoEsAYg2Ch) | [V](https://open.spotify.com/album/6I2ZYYta7J2bTkh1UMe8zm) | 8:46 |
-| 46 | [drowning](https://open.spotify.com/track/5xu47rMH8NorKBej7fWeTi) | [kraymira](https://open.spotify.com/artist/6SSZMkPO9imVUp2ZN9sITn) | [drowning](https://open.spotify.com/album/2t4svv2IxvyBnBqDaW0H1g) | 2:18 |
-| 47 | [Archeological Longing](https://open.spotify.com/track/3yrogOJPrt7rbnpIdIPNIe) | [Elaine Howley](https://open.spotify.com/artist/3STzxp6cfWNNQVcAQWYZgh) | [The Distance Between Heart And Mouth](https://open.spotify.com/album/2zXMfKxsrjOpTRfoYiGtQu) | 3:53 |
-| 48 | [Of Air](https://open.spotify.com/track/11dsa1I6VKaJbbtUw2a9HG) | [Lecx Stacy](https://open.spotify.com/artist/3hf2fbkCVahsazNW73SovO), [Clams Casino](https://open.spotify.com/artist/5vSQUyT33qxr1xAX2Tkf3A) | [Of Air](https://open.spotify.com/album/0mo9eadPkxiwJc2UavuFTX) | 3:08 |
-| 49 | [Afterburn](https://open.spotify.com/track/3ZeOlJzcevGwxnnIGS2e4C) | [Mesh Kimono](https://open.spotify.com/artist/0JrIlMMd4MQAQXo59etjQh) | [After Dark 4](https://open.spotify.com/album/6x3gv3hXKXbJC1VCsn1o8M) | 3:28 |
+| 45 | [drowning](https://open.spotify.com/track/5xu47rMH8NorKBej7fWeTi) | [kraymira](https://open.spotify.com/artist/6SSZMkPO9imVUp2ZN9sITn) | [drowning](https://open.spotify.com/album/2t4svv2IxvyBnBqDaW0H1g) | 2:18 |
+| 46 | [Archeological Longing](https://open.spotify.com/track/3yrogOJPrt7rbnpIdIPNIe) | [Elaine Howley](https://open.spotify.com/artist/3STzxp6cfWNNQVcAQWYZgh) | [The Distance Between Heart And Mouth](https://open.spotify.com/album/2zXMfKxsrjOpTRfoYiGtQu) | 3:53 |
+| 47 | [Afterburn](https://open.spotify.com/track/3ZeOlJzcevGwxnnIGS2e4C) | [Mesh Kimono](https://open.spotify.com/artist/0JrIlMMd4MQAQXo59etjQh) | [After Dark 4](https://open.spotify.com/album/6x3gv3hXKXbJC1VCsn1o8M) | 3:28 |
+| 48 | [V](https://open.spotify.com/track/3Sk8oGy02QK1eZ52A2BYyI) | [Of The Muses](https://open.spotify.com/artist/0bYSzLLgzeNiGoEsAYg2Ch) | [V](https://open.spotify.com/album/6I2ZYYta7J2bTkh1UMe8zm) | 8:46 |
+| 49 | [Of Air](https://open.spotify.com/track/11dsa1I6VKaJbbtUw2a9HG) | [Lecx Stacy](https://open.spotify.com/artist/3hf2fbkCVahsazNW73SovO), [Clams Casino](https://open.spotify.com/artist/5vSQUyT33qxr1xAX2Tkf3A) | [Of Air](https://open.spotify.com/album/0mo9eadPkxiwJc2UavuFTX) | 3:08 |
 | 50 | [Teeth Agape](https://open.spotify.com/track/5xi07QPZNbBs6MmKsGhrd1) | [Tanya Tagaq](https://open.spotify.com/artist/2WIb75pwIt78VCAhAtPObY) | [Tongues](https://open.spotify.com/album/565j8hb4CaU9pWZSz7tVMh) | 3:35 |
 
-Snapshot ID: `MCxhM2ZmNDFiMjI2OGUyNzMzYTRhOWRkODM0ZWU3YjIyMWQyODIwYjRi`
+Snapshot ID: `MCw1NTBkNjcyM2FmMjU1NmVlNmM4OGJmYjEzN2M5ZTcxMDU2YjNlMmVi`

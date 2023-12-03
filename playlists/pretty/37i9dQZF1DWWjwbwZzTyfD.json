@@ -1,12 +1,12 @@
 {
   "description": "The official soundtrack of Nike's NYvsNY, curated by the players. We Outside!",
-  "num_followers": 11532,
+  "num_followers": 11537,
   "original_name": "NYvsNY",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNGVmN2RhZTYxZjU5NDhiODIzNTQ4NTJlMDg2MThiMWM4ZGQ2NWVh",
+  "snapshot_id": "MCwyY2JmZmU4MWM0NDhmNzRkYTM2MjkzNGJhNWJlNDBlNjVkNzBhYzRm",
   "tracks": [
     {
       "added_at": "2023-07-10 21:55:04",
@@ -703,26 +703,6 @@
     {
       "added_at": "2023-06-27 06:48:40",
       "album": {
-        "name": "Over It",
-        "url": "https://open.spotify.com/album/1qgJNWnPIeK9rx7hF8JCPK"
-      },
-      "artists": [
-        {
-          "name": "Summer Walker",
-          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
-        },
-        {
-          "name": "Bryson Tiller",
-          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
-        }
-      ],
-      "duration_ms": 143226,
-      "name": "Playing Games (with Bryson Tiller) - Extended Version",
-      "url": "https://open.spotify.com/track/2xyx0o4xNOLLjBSbOOdcbA"
-    },
-    {
-      "added_at": "2023-06-27 06:48:40",
-      "album": {
         "name": "Perfect Ten",
         "url": "https://open.spotify.com/album/2WrNHOba5u6P9S9xEboaUy"
       },
@@ -739,6 +719,26 @@
       "duration_ms": 180434,
       "name": "Ballin' (with Roddy Ricch)",
       "url": "https://open.spotify.com/track/3QzAOrNlsabgbMwlZt7TAY"
+    },
+    {
+      "added_at": "2023-06-27 06:48:40",
+      "album": {
+        "name": "Over It",
+        "url": "https://open.spotify.com/album/1qgJNWnPIeK9rx7hF8JCPK"
+      },
+      "artists": [
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        },
+        {
+          "name": "Bryson Tiller",
+          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
+        }
+      ],
+      "duration_ms": 143226,
+      "name": "Playing Games (with Bryson Tiller) - Extended Version",
+      "url": "https://open.spotify.com/track/2xyx0o4xNOLLjBSbOOdcbA"
     },
     {
       "added_at": "2023-06-27 06:48:40",
@@ -1207,6 +1207,22 @@
     {
       "added_at": "2023-06-27 06:48:40",
       "album": {
+        "name": "Immortal",
+        "url": "https://open.spotify.com/album/7xgzD7onYd1Pms93ZOtxxX"
+      },
+      "artists": [
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        }
+      ],
+      "duration_ms": 254723,
+      "name": "Immortal",
+      "url": "https://open.spotify.com/track/4IO8X9W69dIQe0EC5ALXhq"
+    },
+    {
+      "added_at": "2023-06-27 06:48:40",
+      "album": {
         "name": "family ties (with Kendrick Lamar)",
         "url": "https://open.spotify.com/album/3HqmX8hGcbbQZODgayNEYx"
       },
@@ -1223,22 +1239,6 @@
       "duration_ms": 252069,
       "name": "family ties (with Kendrick Lamar)",
       "url": "https://open.spotify.com/track/7Bpx2vsWfQFBACRz4h3IqH"
-    },
-    {
-      "added_at": "2023-06-27 06:48:40",
-      "album": {
-        "name": "Immortal",
-        "url": "https://open.spotify.com/album/7xgzD7onYd1Pms93ZOtxxX"
-      },
-      "artists": [
-        {
-          "name": "21 Savage",
-          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
-        }
-      ],
-      "duration_ms": 254723,
-      "name": "Immortal",
-      "url": "https://open.spotify.com/track/4IO8X9W69dIQe0EC5ALXhq"
     },
     {
       "added_at": "2023-06-27 06:48:40",
@@ -1315,38 +1315,6 @@
     {
       "added_at": "2023-06-27 06:48:40",
       "album": {
-        "name": "Fantasia",
-        "url": "https://open.spotify.com/album/42DybH3gl3WcfXAQySOEiX"
-      },
-      "artists": [
-        {
-          "name": "Fantasia",
-          "url": "https://open.spotify.com/artist/7xAcVHPiirnUqfdqo0USb1"
-        }
-      ],
-      "duration_ms": 217346,
-      "name": "When I See U",
-      "url": "https://open.spotify.com/track/4iuNZTcvT9diFySSzVsnVS"
-    },
-    {
-      "added_at": "2023-06-27 06:48:40",
-      "album": {
-        "name": "Sniper Gang Presents Syko Bob & Snapkatt: Nightmare Babies",
-        "url": "https://open.spotify.com/album/0kxA9Bc8pamypR5GYXmeti"
-      },
-      "artists": [
-        {
-          "name": "Kodak Black",
-          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
-        }
-      ],
-      "duration_ms": 200547,
-      "name": "Super Gremlin",
-      "url": "https://open.spotify.com/track/4A8cWXxKfIL3lAyUDzXbCF"
-    },
-    {
-      "added_at": "2023-06-27 06:48:40",
-      "album": {
         "name": "Savage Mode",
         "url": "https://open.spotify.com/album/4I3EcXD4e3KcEoDJfFEZ5b"
       },
@@ -1367,6 +1335,22 @@
       "duration_ms": 258880,
       "name": "X (feat. Future)",
       "url": "https://open.spotify.com/track/6fwdbPMwP1zVStm8FybmkO"
+    },
+    {
+      "added_at": "2023-06-27 06:48:40",
+      "album": {
+        "name": "Fantasia",
+        "url": "https://open.spotify.com/album/42DybH3gl3WcfXAQySOEiX"
+      },
+      "artists": [
+        {
+          "name": "Fantasia",
+          "url": "https://open.spotify.com/artist/7xAcVHPiirnUqfdqo0USb1"
+        }
+      ],
+      "duration_ms": 217346,
+      "name": "When I See U",
+      "url": "https://open.spotify.com/track/4iuNZTcvT9diFySSzVsnVS"
     },
     {
       "added_at": "2023-06-27 06:48:40",
@@ -1407,6 +1391,22 @@
       "duration_ms": 209811,
       "name": "Tomorrow 2 (with Cardi B)",
       "url": "https://open.spotify.com/track/0WNfQxDGaPTl0yogcMR5v1"
+    },
+    {
+      "added_at": "2023-06-27 06:48:40",
+      "album": {
+        "name": "Sniper Gang Presents Syko Bob & Snapkatt: Nightmare Babies",
+        "url": "https://open.spotify.com/album/0kxA9Bc8pamypR5GYXmeti"
+      },
+      "artists": [
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "duration_ms": 200547,
+      "name": "Super Gremlin",
+      "url": "https://open.spotify.com/track/4A8cWXxKfIL3lAyUDzXbCF"
     },
     {
       "added_at": "2023-06-27 06:48:40",

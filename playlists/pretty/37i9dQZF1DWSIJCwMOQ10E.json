@@ -1,12 +1,12 @@
 {
   "description": "No hay nada como una Rumba Colombiana. \u00a1Hasta el amanecer! Foto: Gusi",
-  "num_followers": 96301,
+  "num_followers": 96312,
   "original_name": "Rumba Colombiana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhZDQ0OTY1M2U1NWE1MTdmZWNkOWM2MTVlNjU1OTM4ZmEyMjM4YmU0",
+  "snapshot_id": "MCxhMWUxODNjYmMwZmNlMDg3ZjY2NWU0NDhjZjA2NGE1OWNhYmZkMTk5",
   "tracks": [
     {
       "added_at": "2023-11-24 05:51:00",
@@ -563,6 +563,22 @@
     {
       "added_at": "2023-11-24 05:51:00",
       "album": {
+        "name": "Corazon Vallenato",
+        "url": "https://open.spotify.com/album/0TsndRPa1GLYdvsNEJ2VvZ"
+      },
+      "artists": [
+        {
+          "name": "Jose Luis Carrascal",
+          "url": "https://open.spotify.com/artist/0HfJ1yICQwR6jvdHST3SSh"
+        }
+      ],
+      "duration_ms": 298826,
+      "name": "Como Duele El Frio",
+      "url": "https://open.spotify.com/track/2QcUxndr7skMMHLElnl4Bo"
+    },
+    {
+      "added_at": "2023-11-24 05:51:00",
+      "album": {
         "name": "Bella (Remix)",
         "url": "https://open.spotify.com/album/4cEUisPsjbps3zDPV3pcnm"
       },
@@ -579,22 +595,6 @@
       "duration_ms": 218360,
       "name": "Bella - Remix",
       "url": "https://open.spotify.com/track/78nLeZtgvDeKygduWsgeUk"
-    },
-    {
-      "added_at": "2023-11-24 05:51:00",
-      "album": {
-        "name": "Corazon Vallenato",
-        "url": "https://open.spotify.com/album/0TsndRPa1GLYdvsNEJ2VvZ"
-      },
-      "artists": [
-        {
-          "name": "Jose Luis Carrascal",
-          "url": "https://open.spotify.com/artist/0HfJ1yICQwR6jvdHST3SSh"
-        }
-      ],
-      "duration_ms": 298826,
-      "name": "Como Duele El Frio",
-      "url": "https://open.spotify.com/track/2QcUxndr7skMMHLElnl4Bo"
     },
     {
       "added_at": "2023-11-24 05:51:00",

@@ -1,12 +1,12 @@
 {
   "description": "Baila como en la \u00e9poca de los autos, moda y rocanrol.",
-  "num_followers": 437358,
+  "num_followers": 437406,
   "original_name": "Fiesta 80era",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NjQ1NDhlMTcxNjMwYmVlY2ZlMzQzNzljZGNlMTMyYTUzMDkwYWM1",
+  "snapshot_id": "MCxjY2IzYWM1YjU3ZjIzNmRhZDQzNjZmNzZkYTBlNDdlMjQ4MWUwNmUy",
   "tracks": [
     {
       "added_at": "2018-12-09 15:53:33",
@@ -155,22 +155,6 @@
     {
       "added_at": "2018-12-09 15:53:33",
       "album": {
-        "name": "El Grito Del Tiempo",
-        "url": "https://open.spotify.com/album/53ysLjWIelVJ47Si7ouHB3"
-      },
-      "artists": [
-        {
-          "name": "Duncan Dhu",
-          "url": "https://open.spotify.com/artist/2MLHBMApNE5h8wIufiTPs7"
-        }
-      ],
-      "duration_ms": 235626,
-      "name": "En alg\u00fan lugar",
-      "url": "https://open.spotify.com/track/3UIENhLRdFIOuRan92cAQu"
-    },
-    {
-      "added_at": "2018-12-09 15:53:33",
-      "album": {
         "name": "Whenever You Need Somebody",
         "url": "https://open.spotify.com/album/6eUW0wxWtzkFdaEFsTJto6"
       },
@@ -183,6 +167,22 @@
       "duration_ms": 213573,
       "name": "Never Gonna Give You Up",
       "url": "https://open.spotify.com/track/4PTG3Z6ehGkBFwjybzWkR8"
+    },
+    {
+      "added_at": "2018-12-09 15:53:33",
+      "album": {
+        "name": "El Grito Del Tiempo",
+        "url": "https://open.spotify.com/album/53ysLjWIelVJ47Si7ouHB3"
+      },
+      "artists": [
+        {
+          "name": "Duncan Dhu",
+          "url": "https://open.spotify.com/artist/2MLHBMApNE5h8wIufiTPs7"
+        }
+      ],
+      "duration_ms": 235626,
+      "name": "En alg\u00fan lugar",
+      "url": "https://open.spotify.com/track/3UIENhLRdFIOuRan92cAQu"
     },
     {
       "added_at": "2018-12-09 15:53:33",

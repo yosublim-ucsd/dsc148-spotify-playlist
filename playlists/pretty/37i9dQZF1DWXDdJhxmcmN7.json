@@ -1,12 +1,12 @@
 {
   "description": "los mejores beats producidos en tierras mexicanas \ud83c\udf35",
-  "num_followers": 27483,
+  "num_followers": 27510,
   "original_name": "lofi mexa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhYmFjNzhhMzY4NWI1MThhNGQ5NjE2YTZjZTdkZDRkYWZhYzhjNDVl",
+  "snapshot_id": "MCxiYWNlYmY4NmJlOWVhZWI5YTJiNmQ3NGQxZDYwMzMzZDU0NjA5NGMy",
   "tracks": [
     {
       "added_at": "2023-11-24 06:00:00",
@@ -323,6 +323,22 @@
     {
       "added_at": "2023-11-24 06:00:00",
       "album": {
+        "name": "En el Tianguis Lo-Fi",
+        "url": "https://open.spotify.com/album/6uf6pQtXpXFos4m5SIWDuF"
+      },
+      "artists": [
+        {
+          "name": "Bandido Beat",
+          "url": "https://open.spotify.com/artist/55DbcJhGcCqYhWlzAdSpvL"
+        }
+      ],
+      "duration_ms": 319062,
+      "name": "En el Tianguis Lo-Fi",
+      "url": "https://open.spotify.com/track/4yPhUf2mE2BacW6uckwfvw"
+    },
+    {
+      "added_at": "2023-11-24 06:00:00",
+      "album": {
         "name": "Canciones para Escuchar Frente a la Ventana",
         "url": "https://open.spotify.com/album/5v12ASLi4FBNBdTdIzZLmy"
       },
@@ -339,22 +355,6 @@
       "duration_ms": 93000,
       "name": "Ukelele At Night",
       "url": "https://open.spotify.com/track/6dz4MfCYeaF9JX2sHnwlX5"
-    },
-    {
-      "added_at": "2023-11-24 06:00:00",
-      "album": {
-        "name": "En el Tianguis Lo-Fi",
-        "url": "https://open.spotify.com/album/6uf6pQtXpXFos4m5SIWDuF"
-      },
-      "artists": [
-        {
-          "name": "Bandido Beat",
-          "url": "https://open.spotify.com/artist/55DbcJhGcCqYhWlzAdSpvL"
-        }
-      ],
-      "duration_ms": 319062,
-      "name": "En el Tianguis Lo-Fi",
-      "url": "https://open.spotify.com/track/4yPhUf2mE2BacW6uckwfvw"
     },
     {
       "added_at": "2023-11-24 06:00:00",
@@ -523,6 +523,22 @@
     {
       "added_at": "2023-11-24 06:00:00",
       "album": {
+        "name": "Dalia",
+        "url": "https://open.spotify.com/album/6A7MFq1El3As1wHIbx6nhV"
+      },
+      "artists": [
+        {
+          "name": "Flora Vida",
+          "url": "https://open.spotify.com/artist/5gprsG9LtyIlMuQjotp3w8"
+        }
+      ],
+      "duration_ms": 173333,
+      "name": "Dalia",
+      "url": "https://open.spotify.com/track/27ATmkV5cdLQIJDNgOR0zm"
+    },
+    {
+      "added_at": "2023-11-24 06:00:00",
+      "album": {
         "name": "Chupacabras",
         "url": "https://open.spotify.com/album/2V9cxrxeCsfwFmXydznu2B"
       },
@@ -539,22 +555,6 @@
       "duration_ms": 103562,
       "name": "Chupacabras",
       "url": "https://open.spotify.com/track/2nWORwmocK5bMkgwDTPhyd"
-    },
-    {
-      "added_at": "2023-11-24 06:00:00",
-      "album": {
-        "name": "Dalia",
-        "url": "https://open.spotify.com/album/6A7MFq1El3As1wHIbx6nhV"
-      },
-      "artists": [
-        {
-          "name": "Flora Vida",
-          "url": "https://open.spotify.com/artist/5gprsG9LtyIlMuQjotp3w8"
-        }
-      ],
-      "duration_ms": 173333,
-      "name": "Dalia",
-      "url": "https://open.spotify.com/track/27ATmkV5cdLQIJDNgOR0zm"
     },
     {
       "added_at": "2023-11-24 06:00:00",
@@ -611,6 +611,22 @@
     {
       "added_at": "2023-11-24 06:00:00",
       "album": {
+        "name": "Copihue",
+        "url": "https://open.spotify.com/album/6FY1jYE3Fv2Zwvw8j5XhDR"
+      },
+      "artists": [
+        {
+          "name": "Flora Vida",
+          "url": "https://open.spotify.com/artist/5gprsG9LtyIlMuQjotp3w8"
+        }
+      ],
+      "duration_ms": 157500,
+      "name": "Copihue",
+      "url": "https://open.spotify.com/track/0cx4EjL0G6erSbMOpECbvR"
+    },
+    {
+      "added_at": "2023-11-24 06:00:00",
+      "album": {
         "name": "El D\u00eda M\u00e1s Corto",
         "url": "https://open.spotify.com/album/1BuMj28ClePeBCfnfkm4RF"
       },
@@ -663,34 +679,18 @@
     {
       "added_at": "2023-11-24 06:00:00",
       "album": {
-        "name": "I See Us",
-        "url": "https://open.spotify.com/album/0zB0QKnVSVEeFjYHjrUmfh"
+        "name": "simbiosis",
+        "url": "https://open.spotify.com/album/1ojXjQt8i318N8LL4lskZK"
       },
       "artists": [
         {
-          "name": "Fallen Roses",
-          "url": "https://open.spotify.com/artist/5I6WLC9Auo6aeTRHPQbdOv"
+          "name": "Ruth de las Plantas",
+          "url": "https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP"
         }
       ],
-      "duration_ms": 137196,
-      "name": "loving",
-      "url": "https://open.spotify.com/track/3ARGtxntpoIsQfZdnBHZC6"
-    },
-    {
-      "added_at": "2023-11-24 06:00:00",
-      "album": {
-        "name": "Copihue",
-        "url": "https://open.spotify.com/album/6FY1jYE3Fv2Zwvw8j5XhDR"
-      },
-      "artists": [
-        {
-          "name": "Flora Vida",
-          "url": "https://open.spotify.com/artist/5gprsG9LtyIlMuQjotp3w8"
-        }
-      ],
-      "duration_ms": 157500,
-      "name": "Copihue",
-      "url": "https://open.spotify.com/track/0cx4EjL0G6erSbMOpECbvR"
+      "duration_ms": 216282,
+      "name": "simbiosis",
+      "url": "https://open.spotify.com/track/4jhLp2tTaDgPTpUL0EyNjp"
     },
     {
       "added_at": "2023-11-24 06:00:00",
@@ -711,18 +711,18 @@
     {
       "added_at": "2023-11-24 06:00:00",
       "album": {
-        "name": "simbiosis",
-        "url": "https://open.spotify.com/album/1ojXjQt8i318N8LL4lskZK"
+        "name": "Saguaro",
+        "url": "https://open.spotify.com/album/0Q9gN3lrZJuqeaf9fqVfkb"
       },
       "artists": [
         {
-          "name": "Ruth de las Plantas",
-          "url": "https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP"
+          "name": "Flora Vida",
+          "url": "https://open.spotify.com/artist/5gprsG9LtyIlMuQjotp3w8"
         }
       ],
-      "duration_ms": 216282,
-      "name": "simbiosis",
-      "url": "https://open.spotify.com/track/4jhLp2tTaDgPTpUL0EyNjp"
+      "duration_ms": 132631,
+      "name": "Saguaro",
+      "url": "https://open.spotify.com/track/3FU5mFV1Kk63mtMv2xEru0"
     },
     {
       "added_at": "2023-11-24 06:00:00",
@@ -739,6 +739,22 @@
       "duration_ms": 97931,
       "name": "Ay Cabr\u00f3n",
       "url": "https://open.spotify.com/track/07MId57g9gjI1XrPZGfZaN"
+    },
+    {
+      "added_at": "2023-11-24 06:00:00",
+      "album": {
+        "name": "I See Us",
+        "url": "https://open.spotify.com/album/0zB0QKnVSVEeFjYHjrUmfh"
+      },
+      "artists": [
+        {
+          "name": "Fallen Roses",
+          "url": "https://open.spotify.com/artist/5I6WLC9Auo6aeTRHPQbdOv"
+        }
+      ],
+      "duration_ms": 137196,
+      "name": "loving",
+      "url": "https://open.spotify.com/track/3ARGtxntpoIsQfZdnBHZC6"
     },
     {
       "added_at": "2023-11-24 06:00:00",
@@ -779,22 +795,6 @@
     {
       "added_at": "2023-11-24 06:00:00",
       "album": {
-        "name": "Abr\u00e1zame mucho estos d\u00edas",
-        "url": "https://open.spotify.com/album/2ewnGGkHJg0pbo41zkSPXq"
-      },
-      "artists": [
-        {
-          "name": "Jiony",
-          "url": "https://open.spotify.com/artist/5jaiaZFHhEcPR2uAz8yGHP"
-        }
-      ],
-      "duration_ms": 162479,
-      "name": "Abr\u00e1zame mucho estos d\u00edas",
-      "url": "https://open.spotify.com/track/6HcZfq7BQHrVS9jlEmhBsU"
-    },
-    {
-      "added_at": "2023-11-24 06:00:00",
-      "album": {
         "name": "Rossa Nova",
         "url": "https://open.spotify.com/album/4tboziMwqukmTcb6UeUb5H"
       },
@@ -815,34 +815,34 @@
     {
       "added_at": "2023-11-24 06:00:00",
       "album": {
-        "name": "Dreaming of summer",
-        "url": "https://open.spotify.com/album/6MvTkD17pTjv8eJ3RHXzu0"
+        "name": "como los ni\u00f1os",
+        "url": "https://open.spotify.com/album/0ssD2LaGvT4CqXgCDifQjz"
       },
       "artists": [
         {
-          "name": "Grethel Ross",
-          "url": "https://open.spotify.com/artist/3IWq2rVkwWTMEWbGe6ZQRg"
+          "name": "RUIDO",
+          "url": "https://open.spotify.com/artist/1GMJF1EIGaocbA7lBJkkzr"
         }
       ],
-      "duration_ms": 95040,
-      "name": "Dreaming of summer",
-      "url": "https://open.spotify.com/track/12NdC7ZrZqYjCa3HLQh5dX"
+      "duration_ms": 150956,
+      "name": "como los ni\u00f1os",
+      "url": "https://open.spotify.com/track/6iLPL7IqACjvks08AuZq6i"
     },
     {
       "added_at": "2023-11-24 06:00:00",
       "album": {
-        "name": "Saguaro",
-        "url": "https://open.spotify.com/album/0Q9gN3lrZJuqeaf9fqVfkb"
+        "name": "Abr\u00e1zame mucho estos d\u00edas",
+        "url": "https://open.spotify.com/album/2ewnGGkHJg0pbo41zkSPXq"
       },
       "artists": [
         {
-          "name": "Flora Vida",
-          "url": "https://open.spotify.com/artist/5gprsG9LtyIlMuQjotp3w8"
+          "name": "Jiony",
+          "url": "https://open.spotify.com/artist/5jaiaZFHhEcPR2uAz8yGHP"
         }
       ],
-      "duration_ms": 132631,
-      "name": "Saguaro",
-      "url": "https://open.spotify.com/track/3FU5mFV1Kk63mtMv2xEru0"
+      "duration_ms": 162479,
+      "name": "Abr\u00e1zame mucho estos d\u00edas",
+      "url": "https://open.spotify.com/track/6HcZfq7BQHrVS9jlEmhBsU"
     },
     {
       "added_at": "2023-11-24 06:00:00",
@@ -863,18 +863,18 @@
     {
       "added_at": "2023-11-24 06:00:00",
       "album": {
-        "name": "como los ni\u00f1os",
-        "url": "https://open.spotify.com/album/0ssD2LaGvT4CqXgCDifQjz"
+        "name": "Dreaming of summer",
+        "url": "https://open.spotify.com/album/6MvTkD17pTjv8eJ3RHXzu0"
       },
       "artists": [
         {
-          "name": "RUIDO",
-          "url": "https://open.spotify.com/artist/1GMJF1EIGaocbA7lBJkkzr"
+          "name": "Grethel Ross",
+          "url": "https://open.spotify.com/artist/3IWq2rVkwWTMEWbGe6ZQRg"
         }
       ],
-      "duration_ms": 150956,
-      "name": "como los ni\u00f1os",
-      "url": "https://open.spotify.com/track/6iLPL7IqACjvks08AuZq6i"
+      "duration_ms": 95040,
+      "name": "Dreaming of summer",
+      "url": "https://open.spotify.com/track/12NdC7ZrZqYjCa3HLQh5dX"
     },
     {
       "added_at": "2023-11-24 06:00:00",
@@ -955,6 +955,22 @@
     {
       "added_at": "2023-11-24 06:00:00",
       "album": {
+        "name": "Buena Onda",
+        "url": "https://open.spotify.com/album/4TEvHPFbmROcLhe5qb1OlT"
+      },
+      "artists": [
+        {
+          "name": "Stereo Fear",
+          "url": "https://open.spotify.com/artist/4C3SNUywRgMgWvve6Q7uxM"
+        }
+      ],
+      "duration_ms": 140000,
+      "name": "Buena Onda",
+      "url": "https://open.spotify.com/track/2YEKBRf3fBAJ6QcylJak5M"
+    },
+    {
+      "added_at": "2023-11-24 06:00:00",
+      "album": {
         "name": "alone alone",
         "url": "https://open.spotify.com/album/2nCUNWm6QmLQqSYX7sTyuO"
       },
@@ -971,18 +987,34 @@
     {
       "added_at": "2023-11-24 06:00:00",
       "album": {
-        "name": "Buena Onda",
-        "url": "https://open.spotify.com/album/4TEvHPFbmROcLhe5qb1OlT"
+        "name": "Erick",
+        "url": "https://open.spotify.com/album/6pYpF5RlpLlTyD746OtTJL"
       },
       "artists": [
         {
-          "name": "Stereo Fear",
-          "url": "https://open.spotify.com/artist/4C3SNUywRgMgWvve6Q7uxM"
+          "name": "RUIDO",
+          "url": "https://open.spotify.com/artist/1GMJF1EIGaocbA7lBJkkzr"
         }
       ],
-      "duration_ms": 140000,
-      "name": "Buena Onda",
-      "url": "https://open.spotify.com/track/2YEKBRf3fBAJ6QcylJak5M"
+      "duration_ms": 172528,
+      "name": "Erick",
+      "url": "https://open.spotify.com/track/5mx2Zm4WSsM2fL6qjK9xgc"
+    },
+    {
+      "added_at": "2023-11-24 06:00:00",
+      "album": {
+        "name": "Canciones para Escuchar Frente a la Ventana",
+        "url": "https://open.spotify.com/album/5v12ASLi4FBNBdTdIzZLmy"
+      },
+      "artists": [
+        {
+          "name": "Iv\u00e1n Rosa",
+          "url": "https://open.spotify.com/artist/7i6BoVBVFvAbmIOT7GDvDF"
+        }
+      ],
+      "duration_ms": 179000,
+      "name": "22 Hrs.",
+      "url": "https://open.spotify.com/track/2IqIhvvNbx4Toteczeyntg"
     },
     {
       "added_at": "2023-11-24 06:00:00",
@@ -1007,50 +1039,22 @@
     {
       "added_at": "2023-11-24 06:00:00",
       "album": {
-        "name": "Canciones para Escuchar Frente a la Ventana",
-        "url": "https://open.spotify.com/album/5v12ASLi4FBNBdTdIzZLmy"
+        "name": "Ocaso Sin Fin",
+        "url": "https://open.spotify.com/album/3lZRj273QqSBGw7hq2ctIz"
       },
       "artists": [
         {
-          "name": "Iv\u00e1n Rosa",
-          "url": "https://open.spotify.com/artist/7i6BoVBVFvAbmIOT7GDvDF"
-        }
-      ],
-      "duration_ms": 179000,
-      "name": "22 Hrs.",
-      "url": "https://open.spotify.com/track/2IqIhvvNbx4Toteczeyntg"
-    },
-    {
-      "added_at": "2023-11-24 06:00:00",
-      "album": {
-        "name": "Erick",
-        "url": "https://open.spotify.com/album/6pYpF5RlpLlTyD746OtTJL"
-      },
-      "artists": [
+          "name": "Raouf Beats",
+          "url": "https://open.spotify.com/artist/5KVCvRxkmEVquvmkLe0fII"
+        },
         {
-          "name": "RUIDO",
-          "url": "https://open.spotify.com/artist/1GMJF1EIGaocbA7lBJkkzr"
+          "name": "DreamBetter",
+          "url": "https://open.spotify.com/artist/71CeLiuIiNZFUTnhVrutGi"
         }
       ],
-      "duration_ms": 172528,
-      "name": "Erick",
-      "url": "https://open.spotify.com/track/5mx2Zm4WSsM2fL6qjK9xgc"
-    },
-    {
-      "added_at": "2023-11-24 06:00:00",
-      "album": {
-        "name": "Thoughts",
-        "url": "https://open.spotify.com/album/0iLzW6pPI8X7o0Mr5ErVH7"
-      },
-      "artists": [
-        {
-          "name": "Cosmic Nuit",
-          "url": "https://open.spotify.com/artist/46LH6chzwNfYqkt6AklmZk"
-        }
-      ],
-      "duration_ms": 168857,
-      "name": "Thoughts",
-      "url": "https://open.spotify.com/track/7y1jE8yAcIsicq1jPRxbEc"
+      "duration_ms": 111219,
+      "name": "Extra\u00f1os (Strangers)",
+      "url": "https://open.spotify.com/track/4zjGq47FUV76qFoSbD9pl9"
     },
     {
       "added_at": "2023-11-24 06:00:00",
@@ -1099,22 +1103,38 @@
     {
       "added_at": "2023-11-24 06:00:00",
       "album": {
-        "name": "Ocaso Sin Fin",
-        "url": "https://open.spotify.com/album/3lZRj273QqSBGw7hq2ctIz"
+        "name": "Thoughts",
+        "url": "https://open.spotify.com/album/0iLzW6pPI8X7o0Mr5ErVH7"
       },
       "artists": [
         {
-          "name": "Raouf Beats",
-          "url": "https://open.spotify.com/artist/5KVCvRxkmEVquvmkLe0fII"
-        },
-        {
-          "name": "DreamBetter",
-          "url": "https://open.spotify.com/artist/71CeLiuIiNZFUTnhVrutGi"
+          "name": "Cosmic Nuit",
+          "url": "https://open.spotify.com/artist/46LH6chzwNfYqkt6AklmZk"
         }
       ],
-      "duration_ms": 111219,
-      "name": "Extra\u00f1os (Strangers)",
-      "url": "https://open.spotify.com/track/4zjGq47FUV76qFoSbD9pl9"
+      "duration_ms": 168857,
+      "name": "Thoughts",
+      "url": "https://open.spotify.com/track/7y1jE8yAcIsicq1jPRxbEc"
+    },
+    {
+      "added_at": "2023-11-24 06:00:00",
+      "album": {
+        "name": "Mexico City, Mexico",
+        "url": "https://open.spotify.com/album/0Wit1dwhIc0TreRS59vlDd"
+      },
+      "artists": [
+        {
+          "name": "LO-FI BEATS",
+          "url": "https://open.spotify.com/artist/7iUy9ctasMRtp5jwWs95Fm"
+        },
+        {
+          "name": "Lofi Hip-Hop Beats",
+          "url": "https://open.spotify.com/artist/3zw9kN0i8eKIDbGhEiIIwo"
+        }
+      ],
+      "duration_ms": 76800,
+      "name": "Mexico City, Mexico",
+      "url": "https://open.spotify.com/track/3NwIPWV0d9qFZIjHAXqAqq"
     },
     {
       "added_at": "2023-11-24 06:00:00",
@@ -1147,26 +1167,6 @@
       "duration_ms": 118166,
       "name": "Call me",
       "url": "https://open.spotify.com/track/0uphcJxEE2Slw2kg2Zo1PC"
-    },
-    {
-      "added_at": "2023-11-24 06:00:00",
-      "album": {
-        "name": "Mexico City, Mexico",
-        "url": "https://open.spotify.com/album/0Wit1dwhIc0TreRS59vlDd"
-      },
-      "artists": [
-        {
-          "name": "LO-FI BEATS",
-          "url": "https://open.spotify.com/artist/7iUy9ctasMRtp5jwWs95Fm"
-        },
-        {
-          "name": "Lofi Hip-Hop Beats",
-          "url": "https://open.spotify.com/artist/3zw9kN0i8eKIDbGhEiIIwo"
-        }
-      ],
-      "duration_ms": 76800,
-      "name": "Mexico City, Mexico",
-      "url": "https://open.spotify.com/track/3NwIPWV0d9qFZIjHAXqAqq"
     },
     {
       "added_at": "2023-11-24 06:00:00",
@@ -1275,6 +1275,26 @@
     {
       "added_at": "2023-11-24 06:00:00",
       "album": {
+        "name": "Agua",
+        "url": "https://open.spotify.com/album/3y3Xc0LlcqTF8JDWDqx0pq"
+      },
+      "artists": [
+        {
+          "name": "Ajvsco",
+          "url": "https://open.spotify.com/artist/0mc5LR2ANAISecKpU5gzCQ"
+        },
+        {
+          "name": "El More",
+          "url": "https://open.spotify.com/artist/02PrSshND8fAVGs3G0YVdg"
+        }
+      ],
+      "duration_ms": 197802,
+      "name": "Agua",
+      "url": "https://open.spotify.com/track/4Reotx5u8AUlqEMkDhhuIQ"
+    },
+    {
+      "added_at": "2023-11-24 06:00:00",
+      "album": {
         "name": "iced coffee",
         "url": "https://open.spotify.com/album/396IeTCeQsM2BcxX3C804T"
       },
@@ -1287,22 +1307,6 @@
       "duration_ms": 116824,
       "name": "iced coffee",
       "url": "https://open.spotify.com/track/7odYz6Lh6zJAoBNs7vRxf7"
-    },
-    {
-      "added_at": "2023-11-24 06:00:00",
-      "album": {
-        "name": "wandering",
-        "url": "https://open.spotify.com/album/7DECPk68hAEsO2z7yQpmgl"
-      },
-      "artists": [
-        {
-          "name": "Fallen Roses",
-          "url": "https://open.spotify.com/artist/5I6WLC9Auo6aeTRHPQbdOv"
-        }
-      ],
-      "duration_ms": 122477,
-      "name": "wandering",
-      "url": "https://open.spotify.com/track/1OLk9LBviwtoDpgzdDwvt9"
     },
     {
       "added_at": "2023-11-24 06:00:00",
@@ -1347,22 +1351,18 @@
     {
       "added_at": "2023-11-24 06:00:00",
       "album": {
-        "name": "Agua",
-        "url": "https://open.spotify.com/album/3y3Xc0LlcqTF8JDWDqx0pq"
+        "name": "wandering",
+        "url": "https://open.spotify.com/album/7DECPk68hAEsO2z7yQpmgl"
       },
       "artists": [
         {
-          "name": "Ajvsco",
-          "url": "https://open.spotify.com/artist/0mc5LR2ANAISecKpU5gzCQ"
-        },
-        {
-          "name": "El More",
-          "url": "https://open.spotify.com/artist/02PrSshND8fAVGs3G0YVdg"
+          "name": "Fallen Roses",
+          "url": "https://open.spotify.com/artist/5I6WLC9Auo6aeTRHPQbdOv"
         }
       ],
-      "duration_ms": 197802,
-      "name": "Agua",
-      "url": "https://open.spotify.com/track/4Reotx5u8AUlqEMkDhhuIQ"
+      "duration_ms": 122477,
+      "name": "wandering",
+      "url": "https://open.spotify.com/track/1OLk9LBviwtoDpgzdDwvt9"
     },
     {
       "added_at": "2023-11-24 06:00:00",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2023-11-24 06:00:00",
       "album": {
-        "name": "Efecto Foehn",
-        "url": "https://open.spotify.com/album/5yFtvEfmWF2dLlTqQUdjcF"
-      },
-      "artists": [
-        {
-          "name": "Sh\u014d.gun",
-          "url": "https://open.spotify.com/artist/6plLhphWU2xkdF23mooUF8"
-        }
-      ],
-      "duration_ms": 129350,
-      "name": "Efecto Foehn",
-      "url": "https://open.spotify.com/track/2T28Oqg9N0IU19GaienS6N"
-    },
-    {
-      "added_at": "2023-11-24 06:00:00",
-      "album": {
         "name": "Conchitas",
         "url": "https://open.spotify.com/album/6uqdZDw04CVlIQVYal9tK5"
       },
@@ -1463,6 +1447,22 @@
       "duration_ms": 149040,
       "name": "Conchitas",
       "url": "https://open.spotify.com/track/2aNOrwggEgb6fh7cIq51A7"
+    },
+    {
+      "added_at": "2023-11-24 06:00:00",
+      "album": {
+        "name": "Efecto Foehn",
+        "url": "https://open.spotify.com/album/5yFtvEfmWF2dLlTqQUdjcF"
+      },
+      "artists": [
+        {
+          "name": "Sh\u014d.gun",
+          "url": "https://open.spotify.com/artist/6plLhphWU2xkdF23mooUF8"
+        }
+      ],
+      "duration_ms": 129350,
+      "name": "Efecto Foehn",
+      "url": "https://open.spotify.com/track/2T28Oqg9N0IU19GaienS6N"
     },
     {
       "added_at": "2023-11-24 06:00:00",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2023-11-24 06:00:00",
       "album": {
-        "name": "crying",
-        "url": "https://open.spotify.com/album/25oe50MS3LDAeoix2UdYZZ"
-      },
-      "artists": [
-        {
-          "name": "Fallen Roses",
-          "url": "https://open.spotify.com/artist/5I6WLC9Auo6aeTRHPQbdOv"
-        }
-      ],
-      "duration_ms": 132083,
-      "name": "crying",
-      "url": "https://open.spotify.com/track/2QRnX5AclVqGgZQEjTUJxq"
-    },
-    {
-      "added_at": "2023-11-24 06:00:00",
-      "album": {
         "name": "Not Fun",
         "url": "https://open.spotify.com/album/2cZcbkeegNG4Jc0RdXEpdh"
       },
@@ -1515,18 +1499,18 @@
     {
       "added_at": "2023-11-24 06:00:00",
       "album": {
-        "name": "Hide n Seek",
-        "url": "https://open.spotify.com/album/74pTOHJtHYc0XRiCADv0q4"
+        "name": "crying",
+        "url": "https://open.spotify.com/album/25oe50MS3LDAeoix2UdYZZ"
       },
       "artists": [
         {
-          "name": "Outdream",
-          "url": "https://open.spotify.com/artist/6L8yEVFZqTkzA7ccfu2i1I"
+          "name": "Fallen Roses",
+          "url": "https://open.spotify.com/artist/5I6WLC9Auo6aeTRHPQbdOv"
         }
       ],
-      "duration_ms": 130714,
-      "name": "Hide n Seek",
-      "url": "https://open.spotify.com/track/6NQ5urTIuViE6DUYB2mXCa"
+      "duration_ms": 132083,
+      "name": "crying",
+      "url": "https://open.spotify.com/track/2QRnX5AclVqGgZQEjTUJxq"
     },
     {
       "added_at": "2023-11-24 06:00:00",
@@ -1543,6 +1527,22 @@
       "duration_ms": 136941,
       "name": "Amor Amor",
       "url": "https://open.spotify.com/track/3uT3f3Oq8gU0MSit6SP4z8"
+    },
+    {
+      "added_at": "2023-11-24 06:00:00",
+      "album": {
+        "name": "Hide n Seek",
+        "url": "https://open.spotify.com/album/74pTOHJtHYc0XRiCADv0q4"
+      },
+      "artists": [
+        {
+          "name": "Outdream",
+          "url": "https://open.spotify.com/artist/6L8yEVFZqTkzA7ccfu2i1I"
+        }
+      ],
+      "duration_ms": 130714,
+      "name": "Hide n Seek",
+      "url": "https://open.spotify.com/track/6NQ5urTIuViE6DUYB2mXCa"
     },
     {
       "added_at": "2023-11-24 06:00:00",
@@ -1631,22 +1631,6 @@
     {
       "added_at": "2023-11-24 06:00:00",
       "album": {
-        "name": "Waves",
-        "url": "https://open.spotify.com/album/43bXdzpch1I5OaPOJ5Nnf4"
-      },
-      "artists": [
-        {
-          "name": "Outdream",
-          "url": "https://open.spotify.com/artist/6L8yEVFZqTkzA7ccfu2i1I"
-        }
-      ],
-      "duration_ms": 144283,
-      "name": "Waves",
-      "url": "https://open.spotify.com/track/5TcPlr0F7tbLxIEAKyAgdP"
-    },
-    {
-      "added_at": "2023-11-24 06:00:00",
-      "album": {
         "name": "Oceanside",
         "url": "https://open.spotify.com/album/6uYOyysygXuuwMtE13hftg"
       },
@@ -1663,6 +1647,22 @@
       "duration_ms": 263000,
       "name": "Construction In The Rain",
       "url": "https://open.spotify.com/track/69wCguC1RADMeZ0wB03JKy"
+    },
+    {
+      "added_at": "2023-11-24 06:00:00",
+      "album": {
+        "name": "Waves",
+        "url": "https://open.spotify.com/album/43bXdzpch1I5OaPOJ5Nnf4"
+      },
+      "artists": [
+        {
+          "name": "Outdream",
+          "url": "https://open.spotify.com/artist/6L8yEVFZqTkzA7ccfu2i1I"
+        }
+      ],
+      "duration_ms": 144283,
+      "name": "Waves",
+      "url": "https://open.spotify.com/track/5TcPlr0F7tbLxIEAKyAgdP"
     },
     {
       "added_at": "2023-11-24 06:00:00",

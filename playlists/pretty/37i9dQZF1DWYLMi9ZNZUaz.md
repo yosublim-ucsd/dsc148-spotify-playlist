@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYLMi9ZNZUaz.md) - [plain]
 
 > Dòng chảy của rap Việt luôn cuồn cuộn\. Ảnh bìa: Đen
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,286 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,398 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYLMi9ZNZUaz.md) - [plain]
 | 32 | [người điên](https://open.spotify.com/track/2QUU1AtY5fndKDNbr17EFk) | [tlinh](https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR) | [ái](https://open.spotify.com/album/0LM9Cm43Sug8Hfpm84qmt6) | 2:27 |
 | 33 | [Lối Nhỏ](https://open.spotify.com/track/25edeHHueINMguqu9emCyV) | [Đen](https://open.spotify.com/artist/1LEtM3AleYg1xabW6CRkpi), [Phương Anh Đào](https://open.spotify.com/artist/6ZNAsA4h8V7SOLtiK8Vfav) | [Lối Nhỏ](https://open.spotify.com/album/77yV2mEkJaZ4oLu1M4fe5N) | 4:12 |
 | 34 | [Không Phải Gu](https://open.spotify.com/track/7h69br1nQFSSgdVQp6sPx6) | [HIEUTHUHAI](https://open.spotify.com/artist/5HZtdKfC4xU0wvhEyYDWiY), [B Ray](https://open.spotify.com/artist/1WvNgEoB66jmHodcj15Zi9), [Tage](https://open.spotify.com/artist/6kFhNMq6O8P5QKdqlGMUVW) | [Ai Cũng Phải Bắt Đầu Từ Đâu Đó](https://open.spotify.com/album/3Im5W6U3uL6A5fzahEG05u) | 3:21 |
-| 35 | [Đầu Đường Xó Chợ \(ft\. Lăng LD\)](https://open.spotify.com/track/2nFXaYb2fWOoUJXMPb6y4C) | [Obito](https://open.spotify.com/artist/0ZbgKh0FgPYeFP38nVaEGp), [Lăng LD](https://open.spotify.com/artist/0EOMdQwzUG6CKh9oWvcANr) | [Đánh Đổi](https://open.spotify.com/album/5NODJ4FZWvaLLiFd554kLI) | 3:04 |
-| 36 | [TOKYO Cypher](https://open.spotify.com/track/0eKIEiMHZv0pOxz4iGOXda) | [Lil Wuyn](https://open.spotify.com/artist/3Wj34lTDJnPp70u4YCl4jz), [16 BrT](https://open.spotify.com/artist/4jIoCS5bJr2TQ2SIbSPnwR), [16 Typh](https://open.spotify.com/artist/5U1dINFKjJlYNOSdMrHlRh) | [TOKYO Cypher](https://open.spotify.com/album/2lwCWQ7DzQNv8fqJKQ9AbL) | 2:58 |
+| 35 | [TOKYO Cypher](https://open.spotify.com/track/0eKIEiMHZv0pOxz4iGOXda) | [Lil Wuyn](https://open.spotify.com/artist/3Wj34lTDJnPp70u4YCl4jz), [16 BrT](https://open.spotify.com/artist/4jIoCS5bJr2TQ2SIbSPnwR), [16 Typh](https://open.spotify.com/artist/5U1dINFKjJlYNOSdMrHlRh) | [TOKYO Cypher](https://open.spotify.com/album/2lwCWQ7DzQNv8fqJKQ9AbL) | 2:58 |
+| 36 | [Đầu Đường Xó Chợ \(ft\. Lăng LD\)](https://open.spotify.com/track/2nFXaYb2fWOoUJXMPb6y4C) | [Obito](https://open.spotify.com/artist/0ZbgKh0FgPYeFP38nVaEGp), [Lăng LD](https://open.spotify.com/artist/0EOMdQwzUG6CKh9oWvcANr) | [Đánh Đổi](https://open.spotify.com/album/5NODJ4FZWvaLLiFd554kLI) | 3:04 |
 | 37 | [Ghé Qua](https://open.spotify.com/track/0pQ67Kp2kED4ISy1ieGPEq) | [PC](https://open.spotify.com/artist/3HD3V1nGFPwepBO7064Ij0), [Dick](https://open.spotify.com/artist/1tikl40deDgJWS57GTKiVh), [tofutns](https://open.spotify.com/artist/0Ux2qIQbEeqvv7uYLgHhDH) | [Ghé Qua](https://open.spotify.com/album/5UFpxFhOmg3nb3wWd3p48D) | 3:57 |
 | 38 | [Tay To](https://open.spotify.com/track/41aMYNen9G7uUbqLfV65cF) | [Rapital](https://open.spotify.com/artist/0wqus4nTxIoJvLZLwBt8Df), [RPT MCK](https://open.spotify.com/artist/1zSv9qZANOWB4HRE8sxeTL), [RPT PhongKhin](https://open.spotify.com/artist/2TmAAcsAhUVnRNtf3Jm0uc) | [Rapitalove](https://open.spotify.com/album/3ULu7EK5sl1zUdx2r7D15E) | 2:45 |
 | 39 | [NOLOVENOLIFE](https://open.spotify.com/track/4X2vrRE8Pi5hBMbWRjofAU) | [HIEUTHUHAI](https://open.spotify.com/artist/5HZtdKfC4xU0wvhEyYDWiY) | [Ai Cũng Phải Bắt Đầu Từ Đâu Đó](https://open.spotify.com/album/3Im5W6U3uL6A5fzahEG05u) | 2:50 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYLMi9ZNZUaz.md) - [plain]
 | 49 | [Dậy Mau](https://open.spotify.com/track/7AZggBEk10xtLwwHSgFPvV) | [QNT](https://open.spotify.com/artist/4LuFOXq87Tg0JSl5U7yxFZ) | [Dậy Mau](https://open.spotify.com/album/0TulZiji6TY2OSx9au0CTw) | 3:03 |
 | 50 | [Chẳng 1 Ai](https://open.spotify.com/track/7f29YBu2kdwdWiCj0xrTd8) | [CADMIUM](https://open.spotify.com/artist/6f5XlPB9qtr5eY5x9vUsMU), [T.Hyde](https://open.spotify.com/artist/3HOua3AllgtLfDsKg3qtWE), [Phankeo](https://open.spotify.com/artist/2rv0GwxSEWKhz54nLluNhK) | [Chẳng 1 Ai](https://open.spotify.com/album/4WIgzx5Hn9hAHlBNVTIC1z) | 2:57 |
 
-Snapshot ID: `MCxiNWY4YzJlZDdjMWFhNjgyMjliNmY1ZTVkNDhiMDBkOWY4ZWM1Y2Qw`
+Snapshot ID: `MCw5NzhhNjgzYmU4NmZkMDdhODkwODllODA2ODhhNGQ4YWJlNDQ4ODVk`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQaHIT8HMOV.md) - [plain]
 
 > Homegrown Ugandan hits in one playlist\. Cover: Joshua Baraka
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,902 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,905 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQaHIT8HMOV.md) - [plain]
 | 20 | [Cinderella](https://open.spotify.com/track/4HUfDL3FITibpGatbGUw6f) | [Rickman Manrick](https://open.spotify.com/artist/1T7mHyA2vGvrR8AAYPLXqM), [An\-Known](https://open.spotify.com/artist/3stZkIKmrZfjDLo1xgadxQ) | [Cinderella](https://open.spotify.com/album/2zWi7EGBKMpwU8VDLib9r2) | 3:47 |
 | 21 | [Sembera](https://open.spotify.com/track/7vgMzmsgtspbBfMVpX9JSk) | [Geosteady](https://open.spotify.com/artist/7kam501AHBrZZvvuiku9VG) | [Sembera](https://open.spotify.com/album/5waV4kXwhpQBV4Ws7d2Ppi) | 3:28 |
 | 22 | [Nkwata Bulungi \(Bailamos\)](https://open.spotify.com/track/7ov7271CIF8N5V5r6IspKw) | [Sheebah](https://open.spotify.com/artist/7d2j0CA7B9ACGv8xu2NuUu) | [Nkwata Bulungi \(Bailamos\)](https://open.spotify.com/album/5z0xDgKDEnZGSPUxIcikEV) | 3:07 |
-| 23 | [CHERRY SWEET](https://open.spotify.com/track/1B3h5EIwLDMtubHLu3edCM) | [MAUIMØON](https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b), [La Soülchyld](https://open.spotify.com/artist/22kR1CajfNQ3ZmPcjKATyV) | [CHERRY SWEET](https://open.spotify.com/album/1iu9wqIVEQ2cm20mO6DmvG) | 2:10 |
-| 24 | [Lucky Day](https://open.spotify.com/track/35eelQcBjSxSVUq41Ip1el) | [Azawi](https://open.spotify.com/artist/0ZhMKJPaUXzfU0FgAzIOgR) | [SANKOFA](https://open.spotify.com/album/1zSyQiZdfsczxs84VVghKC) | 2:09 |
+| 23 | [Lucky Day](https://open.spotify.com/track/35eelQcBjSxSVUq41Ip1el) | [Azawi](https://open.spotify.com/artist/0ZhMKJPaUXzfU0FgAzIOgR) | [SANKOFA](https://open.spotify.com/album/1zSyQiZdfsczxs84VVghKC) | 2:09 |
+| 24 | [CHERRY SWEET](https://open.spotify.com/track/1B3h5EIwLDMtubHLu3edCM) | [MAUIMØON](https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b), [La Soülchyld](https://open.spotify.com/artist/22kR1CajfNQ3ZmPcjKATyV) | [CHERRY SWEET](https://open.spotify.com/album/1iu9wqIVEQ2cm20mO6DmvG) | 2:10 |
 | 25 | [Singa](https://open.spotify.com/track/0nnoC0HoYWuixdEfgMt0SB) | [John Blaq](https://open.spotify.com/artist/4IbZQdYTpGIrF4EvUJcAEl), [Lydia Jazmine](https://open.spotify.com/artist/3iIWxRdX4e7W4ZD2urn7WM) | [Singa](https://open.spotify.com/album/5riKKBkN3da2gAB13Hh3B9) | 3:17 |
 | 26 | [Thank God](https://open.spotify.com/track/5QIykphDf5bz5UIdlFnDoa) | [Vinka](https://open.spotify.com/artist/2nTPCD3IukOtNX689ctkES) | [Thank God](https://open.spotify.com/album/4hjWLxMMEnYQumShwTWlzy) | 3:00 |
 | 27 | [Enjoyment](https://open.spotify.com/track/5pf5ek4NcXQAsuoRhvO7A3) | [Eddy Kenzo](https://open.spotify.com/artist/3eTpitQsrNQdmkQJHS2v2j), [Rickman Manrick](https://open.spotify.com/artist/1T7mHyA2vGvrR8AAYPLXqM) | [Enjoyment](https://open.spotify.com/album/2PhVNYUYi6uiCsZerHfds4) | 3:13 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQaHIT8HMOV.md) - [plain]
 | 49 | [Tattoo](https://open.spotify.com/track/6Ncvi8lNXro9qVQWNlcWtI) | [Victor Ruz](https://open.spotify.com/artist/45nNcIJai3fFcxj6cl3oDZ), [Caspian Marvin](https://open.spotify.com/artist/0pNu0RMscQ1va8rWZVhpwU) | [Tattoo](https://open.spotify.com/album/05oZe7vp4Q4U1hsvpGLLmB) | 3:34 |
 | 50 | [Talk To Me](https://open.spotify.com/track/0PvibNWu1jtYdsjSzijZKq) | [Teslah](https://open.spotify.com/artist/29d1gtSpXDMaZLyvHIZw4u), [Junior Gentle](https://open.spotify.com/artist/06fZAn6YJGxLd0m47pyc4O) | [Talk To Me](https://open.spotify.com/album/7GaJ0U2ye3tAnSUGBCDuBT) | 2:49 |
 
-Snapshot ID: `MCxjN2U0ZWQ5NTM3NDU5NzI0ODM4NzUwYjRiODA3NDY1OWM4ZWFiOTE0`
+Snapshot ID: `MCxkYTgyNTBjNTFhNDhiYTcyYmViOGNkNzBjMDJiMjMwMTA0YzE0ZDU1`

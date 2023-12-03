@@ -187,6 +187,24 @@
     },
     {
       "album": {
+        "name": "LA MELO EST GANGX",
+        "url": "https://open.spotify.com/album/4C9mVDiMHuxOZ2eORwkCE1"
+      },
+      "artists": [
+        {
+          "name": "Gazo",
+          "url": "https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I"
+        }
+      ],
+      "date_added": "2023-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116906,
+      "name": "100K",
+      "url": "https://open.spotify.com/track/0RXp3LrNZo89KjmfUJS0UO"
+    },
+    {
+      "album": {
         "name": "DRIVE",
         "url": "https://open.spotify.com/album/1Pl9ZGXwayXPg5qRVpYo74"
       },
@@ -584,6 +602,28 @@
       "duration_ms": 197898,
       "name": "24",
       "url": "https://open.spotify.com/track/7DBFslKWQzoRgO0HBBkL3u"
+    },
+    {
+      "album": {
+        "name": "LA MELO EST GANGX",
+        "url": "https://open.spotify.com/album/4C9mVDiMHuxOZ2eORwkCE1"
+      },
+      "artists": [
+        {
+          "name": "Gazo",
+          "url": "https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I"
+        },
+        {
+          "name": "Tiakola",
+          "url": "https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh"
+        }
+      ],
+      "date_added": "2023-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227480,
+      "name": "24/34",
+      "url": "https://open.spotify.com/track/6UWT2WWl2vU9SWkvkXk9Ax"
     },
     {
       "album": {
@@ -3148,7 +3188,7 @@
       ],
       "date_added": "2022-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-03",
       "duration_ms": 167303,
       "name": "As It Was",
       "url": "https://open.spotify.com/track/4Dvkj6JhhA12EX05fT7y2e"
@@ -3500,7 +3540,7 @@
       ],
       "date_added": "2023-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-03",
       "duration_ms": 145050,
       "name": "AURA",
       "url": "https://open.spotify.com/track/5345G7vEjOT2CvaECkqJiS"
@@ -9106,7 +9146,7 @@
       ],
       "date_added": "2023-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-03",
       "duration_ms": 178426,
       "name": "Cruel Summer",
       "url": "https://open.spotify.com/track/1BxfuPKGuaTgP7aM0Bbdwr"
@@ -17292,7 +17332,7 @@
       ],
       "date_added": "2023-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-03",
       "duration_ms": 185917,
       "name": "Houdini",
       "url": "https://open.spotify.com/track/4OMJGnvZfDvsePyCwRGO7X"
@@ -22044,7 +22084,7 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-29",
+      "date_removed": null,
       "duration_ms": 155453,
       "name": "Let It Snow! Let It Snow! Let It Snow! (with The B. Swanson Quartet)",
       "url": "https://open.spotify.com/track/4kKdvXD0ez7jp1296JmAts"
@@ -28573,6 +28613,28 @@
     },
     {
       "album": {
+        "name": "LA MELO EST GANGX",
+        "url": "https://open.spotify.com/album/4C9mVDiMHuxOZ2eORwkCE1"
+      },
+      "artists": [
+        {
+          "name": "Gazo",
+          "url": "https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I"
+        },
+        {
+          "name": "Tiakola",
+          "url": "https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh"
+        }
+      ],
+      "date_added": "2023-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216386,
+      "name": "NOTRE DAME",
+      "url": "https://open.spotify.com/track/5RJcEoBhxDo8QgmKfr3JG8"
+    },
+    {
+      "album": {
         "name": "Now And Then",
         "url": "https://open.spotify.com/album/2qQP2NgOoH6HqknnbpJmIk"
       },
@@ -33168,7 +33230,7 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-29",
+      "date_removed": null,
       "duration_ms": 135760,
       "name": "Rudolph The Red-Nosed Reindeer",
       "url": "https://open.spotify.com/track/2L9QLAhrvtP4EYg1lY0Tnw"
@@ -34510,7 +34572,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-03",
       "duration_ms": 188484,
       "name": "SEYA",
       "url": "https://open.spotify.com/track/6JI15EdgbGuhUjm4tWyIco"
@@ -35722,7 +35784,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2023-12-03",
       "duration_ms": 182160,
       "name": "Someone You Loved",
       "url": "https://open.spotify.com/track/7qEHsqek33rTcFNT9PFqLf"
@@ -38122,7 +38184,7 @@
       ],
       "date_added": "2023-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-03",
       "duration_ms": 208211,
       "name": "The Night We Met",
       "url": "https://open.spotify.com/track/0QZ5yyl6B6utIWkxeBDxQN"
@@ -42587,6 +42649,24 @@
     },
     {
       "album": {
+        "name": "Wonderful Dream (Holidays Are Coming)",
+        "url": "https://open.spotify.com/album/1GLOTjWuytJIpMtyliV7Xz"
+      },
+      "artists": [
+        {
+          "name": "Melanie Thornton",
+          "url": "https://open.spotify.com/artist/2apYMRrg5FxN4go0pfsCvf"
+        }
+      ],
+      "date_added": "2023-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230733,
+      "name": "Wonderful Dream (Holidays Are Coming) - Radio Version",
+      "url": "https://open.spotify.com/track/3Yww1k7Up2ja2ytfmXjJp8"
+    },
+    {
+      "album": {
         "name": "Ready To Fly",
         "url": "https://open.spotify.com/album/2cI7OSBaPrcOm9ppZipeJ3"
       },
@@ -43252,6 +43332,32 @@
       "duration_ms": 245896,
       "name": "Your Power",
       "url": "https://open.spotify.com/track/5qNh5WtzMbfpSj2jLlBkoD"
+    },
+    {
+      "album": {
+        "name": "Your Time Is Limited",
+        "url": "https://open.spotify.com/album/4RllIAQLEtXbNZhuTfJcMm"
+      },
+      "artists": [
+        {
+          "name": "Sanchez",
+          "url": "https://open.spotify.com/artist/3tHr3ykFroYeHORRV4dHWJ"
+        },
+        {
+          "name": "Der Manager",
+          "url": "https://open.spotify.com/artist/4s6VDBXoEEnkdspdSBM49f"
+        },
+        {
+          "name": "Luci",
+          "url": "https://open.spotify.com/artist/2qCX72yNuIAJAHhhctvlky"
+        }
+      ],
+      "date_added": "2023-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143750,
+      "name": "Your Time Is Limited",
+      "url": "https://open.spotify.com/track/59hRT5XjxiPEOJITkTnZh0"
     },
     {
       "album": {

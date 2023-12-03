@@ -5602,7 +5602,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2023-12-03",
       "duration_ms": 149751,
       "name": "Parliament Of Owls",
       "url": "https://open.spotify.com/track/0mNCNmylxTWB9GrFw4RVf6"
@@ -8418,6 +8418,28 @@
       "duration_ms": 227674,
       "name": "Woven Song \u2014 piano reworks",
       "url": "https://open.spotify.com/track/1wb6pRSvhekFyXO5j3fXol"
+    },
+    {
+      "album": {
+        "name": "some kind of peace \u2014 piano reworks",
+        "url": "https://open.spotify.com/album/79a34uOB7jdMrSECClgqOv"
+      },
+      "artists": [
+        {
+          "name": "Hania Rani",
+          "url": "https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD"
+        },
+        {
+          "name": "\u00d3lafur Arnalds",
+          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227674,
+      "name": "Woven Song \u2014 piano reworks",
+      "url": "https://open.spotify.com/track/2xQBYQi4xvqo3HcjOQg5Oj"
     },
     {
       "album": {

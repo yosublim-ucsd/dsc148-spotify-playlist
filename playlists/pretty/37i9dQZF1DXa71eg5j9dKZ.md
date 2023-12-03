@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa71eg5j9dKZ.md) - [plain]
 
 > The home for alternative electronic music\. Cover: KAYTRANADA
 
-[Spotify](https://open.spotify.com/user/spotify) - 501,207 likes - 100 songs - 6 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 501,215 likes - 100 songs - 6 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,7 +61,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa71eg5j9dKZ.md) - [plain]
 | 51 | [adore u](https://open.spotify.com/track/3YgtkOxZsTuaZdL8McA1FQ) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [adore u](https://open.spotify.com/album/7K3BWpksmH4L7BoqUdhZrL) | 3:40 |
 | 52 | [Halo Flip](https://open.spotify.com/track/59SaaebqvxHSui4LbocJYI) | [Vegyn](https://open.spotify.com/artist/5iUnvXddCpOrbWKm7QMr6o), [Lauren Auder](https://open.spotify.com/artist/5rxf4rjZ5lyhKt7DWM5dLL) | [Halo Flip](https://open.spotify.com/album/7KChHwaCKJLa1DxvXVHjzz) | 6:55 |
 | 53 | [My Crew \(feat\. Flowdan\)](https://open.spotify.com/track/0BX4SC4ZfRn2egJfxjcgKc) | [DANNY AVILA](https://open.spotify.com/artist/1Xv1qZHJ1hnRlWHRTZ3uci), [Flowdan](https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4) | [My Crew \(feat\. Flowdan\)](https://open.spotify.com/album/3wOiJZeH4xOCVejjMWk3Np) | 3:25 |
-| 54 | [Fine Day Anthem](https://open.spotify.com/track/6tifCCTIVBLC2TmTquYG7G) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Boys Noize](https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv) | [Fine Day Anthem](https://open.spotify.com/album/2mxzA7momOeBvCyKDgZRIb) | 3:13 |
+| 54 | [Fine Day Anthem](https://open.spotify.com/track/6tifCCTIVBLC2TmTquYG7G) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Boys Noize](https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv), [Opus III](https://open.spotify.com/artist/1hQuWl1dueM7ChRUZRn05z) | [Fine Day Anthem](https://open.spotify.com/album/2mxzA7momOeBvCyKDgZRIb) | 3:13 |
 | 55 | [Trust Again](https://open.spotify.com/track/6UtNK0tycnvtCAPtCHxZ5b) | [Swimming Paul](https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s) | [Trust Again](https://open.spotify.com/album/2wLRd0zrL5bjo1gpDQ8VHP) | 3:50 |
 | 56 | [JOY \(In Me All The Time\)](https://open.spotify.com/track/0cKYdxOPGO60h2c4DHbp7d) | [Joy Anonymous](https://open.spotify.com/artist/3pK4EcflBpG1Kpmjk5LK2R) | [JOY \(In Me All The Time\)](https://open.spotify.com/album/1wgSgebPc22KAzCsVcCPMG) | 3:42 |
 | 57 | [CAPONE](https://open.spotify.com/track/60JxtEarjwfNA43NSUAS69) | [Machinedrum](https://open.spotify.com/artist/06xa1OLBsMQJFXcl2tQkH4) | [4\#TRAX](https://open.spotify.com/album/1d4UulScUQloV42jkZN4cn) | 3:19 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa71eg5j9dKZ.md) - [plain]
 | 99 | [Ninetynine](https://open.spotify.com/track/1Ly3K26YPGfRc802bd8jsn) | [Bearcubs](https://open.spotify.com/artist/5iPtkyoEOCILhwFgl2a2d3) | [Ninetynine](https://open.spotify.com/album/4nfGboE0gBkRA3x1fd4vBn) | 3:20 |
 | 100 | [Zebadee](https://open.spotify.com/track/6yHSnAjPbUnLjXjAzP3QKX) | [Courage](https://open.spotify.com/artist/1kGMaFXRovFOZJqxbVdnHq), [bb sway](https://open.spotify.com/artist/5EszOYdmBVD4jD0vbyKyMz) | [Zebadee](https://open.spotify.com/album/78KGuDpY11w5qxhKUHqKxT) | 3:12 |
 
-Snapshot ID: `MCxkY2MxOTZmM2VmOWM2ODk3ZDYwYzA5Yjc3NTNhMGM4NjA5YWU5Nzky`
+Snapshot ID: `MCw3NGU2Y2IzYzk4YjBiMTBkNTZjNjAxMGNhNzk4NWFkMDFjOTRmZGM2`

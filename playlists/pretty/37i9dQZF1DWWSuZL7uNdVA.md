@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWSuZL7uNdVA.md) - [plain]
 
 > Bring Me The Horizon au top des meilleurs morceaux rock du moment.
 
-[Spotify](https://open.spotify.com/user/spotify) - 391,849 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 391,906 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWSuZL7uNdVA.md) - [plain]
 | 49 | [Sunshine](https://open.spotify.com/track/2czqsuJetQmyHxx3M009FX) | [Teenage Wrist](https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx) | [Still Love](https://open.spotify.com/album/2Cpp5NKmwqriSjzgOuk16d) | 3:14 |
 | 50 | [The Plan](https://open.spotify.com/track/6aXsqO4vskXScn6EuLAvCz) | [Droïd Fantôm](https://open.spotify.com/artist/7HrozFN6zYmxYBLejkkZuz) | [The Plan](https://open.spotify.com/album/5Yl97xpCRkjy25qhOtNq9V) | 3:26 |
 
-Snapshot ID: `MCwwMmU5YTQxMWVmYjUwZjAwN2NmNGZjZTBkYTIwY2FmY2I3NWZmNDRh`
+Snapshot ID: `MCwxZTk5NjRmMmJiYjRjOTc2YWY2ZmEzOWQ4MTk3OWM5YjQ3MWIyNzg1`

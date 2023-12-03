@@ -1,12 +1,12 @@
 {
   "description": "sultry and seductive feminine energy \ud83d\udd2a cover: Marilyn Monroe",
-  "num_followers": 862787,
+  "num_followers": 865585,
   "original_name": "Femme Fatale",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMThmNzM0OGNiN2Q3NzMzZGRmMWM5ZDlkYWVjYmYzYTVmOTY1NDAy",
+  "snapshot_id": "MCxjM2E3YTM5M2JhNTc3Mjc4MjM1MWQwN2FlNDRmNDM4MGVkOWE5YTc1",
   "tracks": [
     {
       "added_at": "2023-12-01 00:10:33",
@@ -899,6 +899,22 @@
     {
       "added_at": "2023-12-01 00:10:33",
       "album": {
+        "name": "Inbred",
+        "url": "https://open.spotify.com/album/013WXRAOja0kZ6gnlTCwJ5"
+      },
+      "artists": [
+        {
+          "name": "Ethel Cain",
+          "url": "https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2"
+        }
+      ],
+      "duration_ms": 204317,
+      "name": "Crush",
+      "url": "https://open.spotify.com/track/0nsIevK1SeDfZzDOi6Si75"
+    },
+    {
+      "added_at": "2023-12-01 00:10:33",
+      "album": {
         "name": "The Velvet Underground & Nico 45th Anniversary",
         "url": "https://open.spotify.com/album/4xwx0x7k6c5VuThz5qVqmV"
       },
@@ -915,22 +931,6 @@
       "duration_ms": 159000,
       "name": "Femme Fatale",
       "url": "https://open.spotify.com/track/3PG7BAJG9WkmNOJOlc4uAo"
-    },
-    {
-      "added_at": "2023-12-01 00:10:33",
-      "album": {
-        "name": "Inbred",
-        "url": "https://open.spotify.com/album/013WXRAOja0kZ6gnlTCwJ5"
-      },
-      "artists": [
-        {
-          "name": "Ethel Cain",
-          "url": "https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2"
-        }
-      ],
-      "duration_ms": 204317,
-      "name": "Crush",
-      "url": "https://open.spotify.com/track/0nsIevK1SeDfZzDOi6Si75"
     },
     {
       "added_at": "2023-12-01 00:10:33",

@@ -1,12 +1,12 @@
 {
   "description": "Game time.",
-  "num_followers": 156557,
+  "num_followers": 157362,
   "original_name": "Laced Up",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzOGEwYmVjOGJhZmViMTQ3Yjk0YzE4MWQxYTFlZmE3ZDk1YTJjNDgz",
+  "snapshot_id": "MCw4MjFkNWMyZDMxOTYxMmI4NzMxYTllM2Y2ZTE2ZGYxMmNjZmI3ZThk",
   "tracks": [
     {
       "added_at": "2023-11-29 18:29:05",
@@ -311,22 +311,6 @@
     {
       "added_at": "2023-11-29 18:29:05",
       "album": {
-        "name": "Too Hard",
-        "url": "https://open.spotify.com/album/750APP0eKVlcgOxaZnBnVt"
-      },
-      "artists": [
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        }
-      ],
-      "duration_ms": 162053,
-      "name": "Freestyle",
-      "url": "https://open.spotify.com/track/5BbdKBZO0TH0GhfxUfyhL9"
-    },
-    {
-      "added_at": "2023-11-29 18:29:05",
-      "album": {
         "name": "Whole Lotta Red",
         "url": "https://open.spotify.com/album/2QRedhP5RmKJiJ1i8VgDGR"
       },
@@ -339,6 +323,22 @@
       "duration_ms": 193234,
       "name": "Sky",
       "url": "https://open.spotify.com/track/29TPjc8wxfz4XMn21O7VsZ"
+    },
+    {
+      "added_at": "2023-11-29 18:29:05",
+      "album": {
+        "name": "Too Hard",
+        "url": "https://open.spotify.com/album/750APP0eKVlcgOxaZnBnVt"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "duration_ms": 162053,
+      "name": "Freestyle",
+      "url": "https://open.spotify.com/track/5BbdKBZO0TH0GhfxUfyhL9"
     },
     {
       "added_at": "2023-11-29 18:29:05",
@@ -471,22 +471,6 @@
     {
       "added_at": "2023-11-29 18:29:05",
       "album": {
-        "name": "MIDDLE CHILD",
-        "url": "https://open.spotify.com/album/3XzSOIE6zGLliuqsVGLmUc"
-      },
-      "artists": [
-        {
-          "name": "J. Cole",
-          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
-        }
-      ],
-      "duration_ms": 213593,
-      "name": "MIDDLE CHILD",
-      "url": "https://open.spotify.com/track/2JvzF1RMd7lE3KmFlsyZD8"
-    },
-    {
-      "added_at": "2023-11-29 18:29:05",
-      "album": {
         "name": "Lyf\u00eb",
         "url": "https://open.spotify.com/album/6Xo2PDEoQKzCndIbks2kvu"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 150241,
       "name": "Out th\u00eb way",
       "url": "https://open.spotify.com/track/6IyoLWzljeR3ldQo4KWHT6"
+    },
+    {
+      "added_at": "2023-11-29 18:29:05",
+      "album": {
+        "name": "MIDDLE CHILD",
+        "url": "https://open.spotify.com/album/3XzSOIE6zGLliuqsVGLmUc"
+      },
+      "artists": [
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        }
+      ],
+      "duration_ms": 213593,
+      "name": "MIDDLE CHILD",
+      "url": "https://open.spotify.com/track/2JvzF1RMd7lE3KmFlsyZD8"
     },
     {
       "added_at": "2023-11-29 18:29:05",
@@ -519,22 +519,22 @@
     {
       "added_at": "2023-11-29 18:29:05",
       "album": {
-        "name": "1989 (Taylor's Version) [Deluxe]",
-        "url": "https://open.spotify.com/album/1o59UpKw81iHR0HPiSkJR0"
+        "name": "good kid, m.A.A.d city",
+        "url": "https://open.spotify.com/album/6PBZN8cbwkqm1ERj2BGXJ1"
       },
       "artists": [
         {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        },
-        {
           "name": "Kendrick Lamar",
           "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        },
+        {
+          "name": "Jay Rock",
+          "url": "https://open.spotify.com/artist/28ExwzUQsvgJooOI0X1mr3"
         }
       ],
-      "duration_ms": 199773,
-      "name": "Bad Blood (feat. Kendrick Lamar) (Taylor's Version)",
-      "url": "https://open.spotify.com/track/6qAcApH8obo8eqatCKUHd9"
+      "duration_ms": 386906,
+      "name": "Money Trees",
+      "url": "https://open.spotify.com/track/2HbKqm4o0w5wEeEFXm2sD4"
     },
     {
       "added_at": "2023-11-29 18:29:05",
@@ -555,22 +555,22 @@
     {
       "added_at": "2023-11-29 18:29:05",
       "album": {
-        "name": "good kid, m.A.A.d city",
-        "url": "https://open.spotify.com/album/6PBZN8cbwkqm1ERj2BGXJ1"
+        "name": "1989 (Taylor's Version) [Deluxe]",
+        "url": "https://open.spotify.com/album/1o59UpKw81iHR0HPiSkJR0"
       },
       "artists": [
         {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
         },
         {
-          "name": "Jay Rock",
-          "url": "https://open.spotify.com/artist/28ExwzUQsvgJooOI0X1mr3"
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
         }
       ],
-      "duration_ms": 386906,
-      "name": "Money Trees",
-      "url": "https://open.spotify.com/track/2HbKqm4o0w5wEeEFXm2sD4"
+      "duration_ms": 199773,
+      "name": "Bad Blood (feat. Kendrick Lamar) (Taylor's Version)",
+      "url": "https://open.spotify.com/track/6qAcApH8obo8eqatCKUHd9"
     },
     {
       "added_at": "2023-11-29 18:29:05",
@@ -655,6 +655,22 @@
     {
       "added_at": "2023-11-29 18:29:05",
       "album": {
+        "name": "To Pimp A Butterfly",
+        "url": "https://open.spotify.com/album/7ycBtnsMtyVbbwTfJwRjSP"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "duration_ms": 219333,
+      "name": "Alright",
+      "url": "https://open.spotify.com/track/3iVcZ5G6tvkXZkZKlMpIUs"
+    },
+    {
+      "added_at": "2023-11-29 18:29:05",
+      "album": {
         "name": "Just Wanna Rock",
         "url": "https://open.spotify.com/album/2FD6g8bXEn2uQMYbeqqoCg"
       },
@@ -699,22 +715,6 @@
       "duration_ms": 183906,
       "name": "Mo Bamba",
       "url": "https://open.spotify.com/track/1xzBco0xcoJEDXktl7Jxrr"
-    },
-    {
-      "added_at": "2023-11-29 18:29:05",
-      "album": {
-        "name": "To Pimp A Butterfly",
-        "url": "https://open.spotify.com/album/7ycBtnsMtyVbbwTfJwRjSP"
-      },
-      "artists": [
-        {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
-        }
-      ],
-      "duration_ms": 219333,
-      "name": "Alright",
-      "url": "https://open.spotify.com/track/3iVcZ5G6tvkXZkZKlMpIUs"
     },
     {
       "added_at": "2023-11-29 18:29:05",
@@ -827,6 +827,22 @@
     {
       "added_at": "2023-11-29 18:29:05",
       "album": {
+        "name": "DAMN.",
+        "url": "https://open.spotify.com/album/4eLPsYPBmXABThSJ821sqY"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "duration_ms": 185946,
+      "name": "DNA.",
+      "url": "https://open.spotify.com/track/6HZILIRieu8S0iqY8kIKhj"
+    },
+    {
+      "added_at": "2023-11-29 18:29:05",
+      "album": {
         "name": "Heaven Or Hell",
         "url": "https://open.spotify.com/album/7z4GhRfLqfSkqrj5F3Yt2B"
       },
@@ -855,22 +871,6 @@
       "duration_ms": 91288,
       "name": "The Grinch",
       "url": "https://open.spotify.com/track/2VKHWIONh47ntN7wyoSxEQ"
-    },
-    {
-      "added_at": "2023-11-29 18:29:05",
-      "album": {
-        "name": "Culture II",
-        "url": "https://open.spotify.com/album/7fd7SEK25VS3gJAUgSwL6y"
-      },
-      "artists": [
-        {
-          "name": "Migos",
-          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
-        }
-      ],
-      "duration_ms": 190288,
-      "name": "Stir Fry",
-      "url": "https://open.spotify.com/track/2UVbBKQOdFAekPTRsnkzcf"
     }
   ],
   "unique_name": "Laced Up",

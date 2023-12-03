@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3CjvCIWRfv0.md) - [plain]
 
 > Soak up the atmosphere of a Greek taverna on a warm summer’s evening.
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,913 likes - 64 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,948 likes - 64 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3CjvCIWRfv0.md) - [plain]
 | 38 | [Near the Sea](https://open.spotify.com/track/7FijYL1eAyN6qpvKOVXmtx) | [Michalis Terzis](https://open.spotify.com/artist/5v8x1R1CLsuQN1U2H1IMZj) | [Magic of the Greek Bouzouki: Near the Sea](https://open.spotify.com/album/480jzKVG94eXc3Zq02CCOf) | 3:06 |
 | 39 | [Doxa to Theo](https://open.spotify.com/track/10Z7duswQqU3tTNSsVLF4b) | [Athenians, The](https://open.spotify.com/artist/0p2otK85GEjMMtOhqyZFsg) | [The Athenians: 20 Best Syrtakis From Greece](https://open.spotify.com/album/0mFWAvF8RpbrvM5NbXVwqB) | 2:52 |
 | 40 | [Apollon](https://open.spotify.com/track/3S8yZSagKU7PgMcc9eaMui) | [Greek Summer Band](https://open.spotify.com/artist/70gzrtgJH4HRfiNJoNEC8V) | [BOUZOUKI HITS, Vol.2.](https://open.spotify.com/album/4v5NyMSpKmdF1cYMIQQL1p) | 3:14 |
-| 41 | [Fragosiriani](https://open.spotify.com/track/3XGonxisWMNiHbnwUiGV8T) | [Bouzouki Kings](https://open.spotify.com/artist/4iVvG04w9XBch3kxXWMuxb) | [Tzatziki \- The Best Greek Music For The Best Greek Food](https://open.spotify.com/album/0AUimf9H8YL2ThZighzdrs) | 2:39 |
+| 41 | [Fragosyriani](https://open.spotify.com/track/3XGonxisWMNiHbnwUiGV8T) | [Bouzouki Kings](https://open.spotify.com/artist/4iVvG04w9XBch3kxXWMuxb), [Markos Vamvakaris](https://open.spotify.com/artist/2MOeRxQqwrvur6it4B3G3R) | [Tzatziki \- The Best Greek Music For The Best Greek Food](https://open.spotify.com/album/0AUimf9H8YL2ThZighzdrs) | 2:39 |
 | 42 | [March of Smyrna](https://open.spotify.com/track/1u5tWsKTpMKvkUrt3HdvKl) | [Michalis Terzis](https://open.spotify.com/artist/5v8x1R1CLsuQN1U2H1IMZj), [Kyriakos Gouvendas](https://open.spotify.com/artist/2i99PLT1r01q6duuJsmV8t), [Ploutarchos Reboutsikas](https://open.spotify.com/artist/5u1SMnmXKWqcjLJCWYfQe1), [Thanasis Vasilas](https://open.spotify.com/artist/6W0BTPNERby9NUUSyF5Fiq), [Nikos Katsikis](https://open.spotify.com/artist/3vp1ao4puFTxYah4KLc5AY), [Vassilis Chatziloukas](https://open.spotify.com/artist/4kJwp8PjlxUJh4bHYPqEqp), [Odysseas Papathanasiou\-Terzis](https://open.spotify.com/artist/6a1KaAAitmtVMzgQIlMtur), [Thanassis Sofras](https://open.spotify.com/artist/7utqr9X5ZLg6032rDoAbZf) | [Magic of the Greek Bouzouki](https://open.spotify.com/album/0D3XXijlSAIO6k1TrsFudU) | 3:25 |
 | 43 | [Margarita \- Margaro](https://open.spotify.com/track/4lgDrExkSslDWqHhHgIjYG) | [Athenians, The](https://open.spotify.com/artist/0p2otK85GEjMMtOhqyZFsg) | [Athenians: Greece](https://open.spotify.com/album/1mFxByzu4pT1VReVGpK3eZ) | 3:40 |
 | 44 | [Namoun Asteri \(I'd Love to Be a Star\) \[Greece\]](https://open.spotify.com/track/57zV8hIXS3GbmYK5SszD57) | [Kostas Smirnios](https://open.spotify.com/artist/2Mf51LfHijjv2zmotIrURm), [Romiosini](https://open.spotify.com/artist/1ZJgXjX7XCii5ULJPguZ9T) | [Best of Greece](https://open.spotify.com/album/1GQiiqb4muFNJL0x8tbeQF) | 3:31 |
@@ -73,4 +73,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3CjvCIWRfv0.md) - [plain]
 | 63 | [Flying Like an Eagle](https://open.spotify.com/track/6OAFG0apABNxxKqnLY6f3r) | [Mimis Plessas](https://open.spotify.com/artist/7emTBOtoCY4wkakcYrJ21I) | [Bouzouki Romance](https://open.spotify.com/album/08Fx0aUzgSgpBjMqU6xejf) | 3:04 |
 | 64 | [Vaporaki Tou Bournova](https://open.spotify.com/track/5rO6xnNsOqzSbJzi08OxaY) | [Manos Loizos](https://open.spotify.com/artist/3xFDHACooUWcJ6FP4tsCp4), [Bouzouki Kings](https://open.spotify.com/artist/4iVvG04w9XBch3kxXWMuxb) | [Roots Of Greek Music Vol\. 7: Manos Loizos](https://open.spotify.com/album/3Y087ASNJZrWEkgXMrAuAO) | 2:34 |
 
-Snapshot ID: `MCxjMWJiZmViNzBmNmY2ODE3NzljOGE0Njk3ODI4MDE4MjZiMTVkZDM0`
+Snapshot ID: `MCw1M2JhZDhhMTZlMzc5YzE2NzkyMzQzYzBjM2EzNGZmOTY5MTQ2MTUw`

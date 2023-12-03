@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9uNKnwcoVm9.md) - [plain]
 
 > Un playlist que te llena de esperanza\.  ¡Con fe!
 
-[Spotify](https://open.spotify.com/user/spotify) - 252,641 likes - 100 songs - 8 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 252,750 likes - 100 songs - 8 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,16 +57,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9uNKnwcoVm9.md) - [plain]
 | 47 | [Iglesia](https://open.spotify.com/track/4Po4C0odXzBWN3z5F9qiBa) | [Lilly Goodman](https://open.spotify.com/artist/6vetaGijEBK3wfhtCUWRBS) | [La Compilación](https://open.spotify.com/album/4OY1bctzMV7vclglgvN9Oe) | 4:05 |
 | 48 | [Revelacion](https://open.spotify.com/track/6qYidY706dT5LxQSmbTg94) | [Danilo Montero](https://open.spotify.com/artist/2a48vLoCcVkOMcCSqXreOF) | [Devoción \(En Vivo\)](https://open.spotify.com/album/6BQVnLlE5XJh8UY68xp4lk) | 7:52 |
 | 49 | [Jehová Es Mi Guerrero/Le Llaman \(Reprise\)](https://open.spotify.com/track/5IsqUSeMnxmoEdX9Ooot0r) | [Juan Carlos Alvarado](https://open.spotify.com/artist/1NWIpqck2zZ43JamLJgf6U) | [Fuego](https://open.spotify.com/album/1IIvk8o6xJnkPmzo8eSqXR) | 2:16 |
-| 50 | [Anhelo Conocerte Espiritu Santo](https://open.spotify.com/track/7ylsvpGbWJNgXUbqEyrxtk) | [Luigi Castro](https://open.spotify.com/artist/2AXhCIqHOofbAG4ew5WRF9) | [Recopilación](https://open.spotify.com/album/35kq5uh3NFFICxAXouBNPl) | 5:13 |
-| 51 | [Toda la Gloria](https://open.spotify.com/track/3lTjQX4rSNfLhXrqyNM8nn) | [Esperanza de Vida](https://open.spotify.com/artist/2JjoUSP8dUA7UhlWW59fK1) | [Fuego](https://open.spotify.com/album/3cDznNz3cXNQql9O9KTAvi) | 6:00 |
+| 50 | [Toda la Gloria](https://open.spotify.com/track/3lTjQX4rSNfLhXrqyNM8nn) | [Esperanza de Vida](https://open.spotify.com/artist/2JjoUSP8dUA7UhlWW59fK1) | [Fuego](https://open.spotify.com/album/3cDznNz3cXNQql9O9KTAvi) | 6:00 |
+| 51 | [Anhelo Conocerte Espiritu Santo](https://open.spotify.com/track/7ylsvpGbWJNgXUbqEyrxtk) | [Luigi Castro](https://open.spotify.com/artist/2AXhCIqHOofbAG4ew5WRF9) | [Recopilación](https://open.spotify.com/album/35kq5uh3NFFICxAXouBNPl) | 5:13 |
 | 52 | [Vengo A Adorarte](https://open.spotify.com/track/0c7KZFqrJwvIlaVtmTsJh3) | [Julio Melgar](https://open.spotify.com/artist/5O46r5EwzdUL8RR1aM6yU2) | [Creo en Ti](https://open.spotify.com/album/1TMLlJQHzj0J07QexSE72S) | 5:19 |
-| 53 | [Ponle Nombre a Tu Milagro](https://open.spotify.com/track/6vv7lMrDejc9E3EW5EfA9R) | [Ruth Mixter](https://open.spotify.com/artist/6Y3LN0FCFH8p38tlH7ctJA) | [Vive Tu Día](https://open.spotify.com/album/6fHvKK6aA0ucqGEoK3glz2) | 4:15 |
+| 53 | [Por el poder de tu amor \(The power of your Love\)](https://open.spotify.com/track/3euqm8P1Mye2BiCEtjwFbT) | [Ruth Mixter](https://open.spotify.com/artist/6Y3LN0FCFH8p38tlH7ctJA) | [Inquebrantable](https://open.spotify.com/album/4tsFZXkN7eXwhY4ujk6C3u) | 5:29 |
 | 54 | [Hay Una Fuente En Mí](https://open.spotify.com/track/5QcC5tFnqsNOjxksGXZHCB) | [Palabra en Acción](https://open.spotify.com/artist/4umfGspINdkBEwCjc1f5Xw), [Juan Carlos Alvarado](https://open.spotify.com/artist/1NWIpqck2zZ43JamLJgf6U) | [Santo Es El Señor](https://open.spotify.com/album/6o1JXibPpTx6TwbsmqkfSS) | 4:33 |
 | 55 | [Llegaste Tú](https://open.spotify.com/track/4gxJmwQeeG1RSJm1AtLlAS) | [Gadiel Espinoza](https://open.spotify.com/artist/6LsF1LrB6rmAiWps0Mo1t6) | [Al Que Vive](https://open.spotify.com/album/0EnsJ3Ctbamkhj0rOVtAhQ) | 4:12 |
 | 56 | [Mi Historia De Amor](https://open.spotify.com/track/4Io9nq91YUZNcCeQ0zDcID) | [Daniel Calveti](https://open.spotify.com/artist/4lZXpKLxWjMDFeNmiU4H1h) | [Mi Refugio](https://open.spotify.com/album/1tQiDUKWTbToF8mpA0GZNm) | 3:16 |
-| 57 | [Bendito Jesus \- En Vivo](https://open.spotify.com/track/2RW5lhGNfI0dKwVrx446iT) | [Danilo Montero](https://open.spotify.com/artist/2a48vLoCcVkOMcCSqXreOF) | [Devoción \(En Vivo\)](https://open.spotify.com/album/6BQVnLlE5XJh8UY68xp4lk) | 4:56 |
-| 58 | [Roca eterna](https://open.spotify.com/track/6XQmgFgA5ERwrgbmb7iUx3) | [Esperanza de Vida](https://open.spotify.com/artist/2JjoUSP8dUA7UhlWW59fK1) | [Me Has Hecho Libre](https://open.spotify.com/album/0dNBk8BUcnZoA0YouvHGRP) | 4:55 |
-| 59 | [Por el poder de tu amor \(The power of your Love\)](https://open.spotify.com/track/3euqm8P1Mye2BiCEtjwFbT) | [Ruth Mixter](https://open.spotify.com/artist/6Y3LN0FCFH8p38tlH7ctJA) | [Inquebrantable](https://open.spotify.com/album/4tsFZXkN7eXwhY4ujk6C3u) | 5:29 |
+| 57 | [Roca eterna](https://open.spotify.com/track/6XQmgFgA5ERwrgbmb7iUx3) | [Esperanza de Vida](https://open.spotify.com/artist/2JjoUSP8dUA7UhlWW59fK1) | [Me Has Hecho Libre](https://open.spotify.com/album/0dNBk8BUcnZoA0YouvHGRP) | 4:55 |
+| 58 | [Bendito Jesus \- En Vivo](https://open.spotify.com/track/2RW5lhGNfI0dKwVrx446iT) | [Danilo Montero](https://open.spotify.com/artist/2a48vLoCcVkOMcCSqXreOF) | [Devoción \(En Vivo\)](https://open.spotify.com/album/6BQVnLlE5XJh8UY68xp4lk) | 4:56 |
+| 59 | [Ponle Nombre a Tu Milagro](https://open.spotify.com/track/6vv7lMrDejc9E3EW5EfA9R) | [Ruth Mixter](https://open.spotify.com/artist/6Y3LN0FCFH8p38tlH7ctJA) | [Vive Tu Día](https://open.spotify.com/album/6fHvKK6aA0ucqGEoK3glz2) | 4:15 |
 | 60 | [No Me Digas Adiós](https://open.spotify.com/track/3egMhO3nfCiet0IGp95czv) | [Samuel Hernández](https://open.spotify.com/artist/17XxPdvl2MD39MnT9zhNjU) | [Dios Siempre Tiene el Control](https://open.spotify.com/album/1wDPq47guRiC7EIictF8mv) | 4:45 |
 | 61 | [¿A Quién Iré?](https://open.spotify.com/track/2n3PEgcF39O9S5z6gR0175) | [Julio Melgar](https://open.spotify.com/artist/5O46r5EwzdUL8RR1aM6yU2), [Danilo Montero](https://open.spotify.com/artist/2a48vLoCcVkOMcCSqXreOF) | [Vuelve](https://open.spotify.com/album/4YXb45eHQPeutBVlzBKWfI) | 6:25 |
 | 62 | [Donde Tú estás](https://open.spotify.com/track/4hvmopV4wO0CTe9DgicOOF) | [Coalo Zamorano](https://open.spotify.com/artist/1EIEV6r6Jr6BQIzwZJdf5b), [Rebeca Zamorano](https://open.spotify.com/artist/0VYpDFB2cAlvfacFCFvADL) | [Gloria sea a ti](https://open.spotify.com/album/2Iyng7Y20EuZ1VSOafcnPg) | 8:54 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9uNKnwcoVm9.md) - [plain]
 | 99 | [Escondido en Èl \- Spanish](https://open.spotify.com/track/5j7zEOjg0ySSGK5R3aSS3s) | [Luigi Castro](https://open.spotify.com/artist/2AXhCIqHOofbAG4ew5WRF9) | [Perdido en Tu Amor](https://open.spotify.com/album/0A92FA4s4a4jM7GuBqVE5F) | 4:57 |
 | 100 | [Hijo Pródigo](https://open.spotify.com/track/3nnICl5SaGPht8Ndnq1IDM) | [Fuego](https://open.spotify.com/artist/3F5E6wKnGN6qRjtsF2Z6vt) | [Por Fin en Casa](https://open.spotify.com/album/2cg1RtFVrDEf2LRTiSIxH1) | 4:47 |
 
-Snapshot ID: `MCxlMGQ5YTM1NDVlNjNmM2RhNzMxNGVhMmRjNzcyNzFhYzEyMjhlNGY1`
+Snapshot ID: `MCxkMTU1NGQwMDI2ZGM1NWE5Mjk4MjQ1MWU0YjRkNGE0N2Q2YjhhNDJl`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NhGf24haor.md) - [plain]
 
 > Updated weekly \| Hardstyle \| Cover: Gunz For Hire \(Ran\-D & Adaro\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 148,864 likes - 98 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 149,023 likes - 98 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,4 +107,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NhGf24haor.md) - [plain]
 | 97 | [The Best Night](https://open.spotify.com/track/5RdqaD1NJS8CFxDogGEj7w) | [X.AYA](https://open.spotify.com/artist/61QYj9ZPwaO68IxP6mhooq), [KYANU](https://open.spotify.com/artist/3VuZZ1n0XGacnz96Ys8mrZ) | [The Best Night](https://open.spotify.com/album/6HXupTPN8q8nTFWL5S43yg) | 2:42 |
 | 98 | [Bound By Blood](https://open.spotify.com/track/0urHN48EcZuLqImG7ASp98) | [Bloodlust](https://open.spotify.com/artist/1vDMUXdbIJHTSC8ZAf2Zqp), [Unresolved](https://open.spotify.com/artist/6glAHKAPvBPUQ4HQcYXxpr) | [Bound By Blood](https://open.spotify.com/album/2fH2mZmPLKbWrnFBdQ90gw) | 3:45 |
 
-Snapshot ID: `MCw0OWUzMzQ2NmJmOGExNzM5NmM1ZWUzOGIzMTQ0ZmQ5MDQ0YzUzYjBh`
+Snapshot ID: `MCxkM2Q3ZTU0YzgyZWI0ZDkwODVhMjk1YzUwNDQ4M2YyMjQ3ZDRkMjRj`

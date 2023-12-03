@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXbC1ZOkTuut.md) - [plain]
 
 > Descubre los nuevos álbumes de Música Mexicana del 2023\. Hit shuffle for a mixed listening experience\. Cover: Chiquis
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,408 likes - 203 songs - 10 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,456 likes - 203 songs - 10 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [LA QUE MANDA](https://open.spotify.com/track/3ONXaciwwjXzDEhZ8GF5ra) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [CHIQUIS \- BEE SIDE](https://open.spotify.com/album/4HFQEBKPajKOqug9XxW4P4) | 2:38 |
 | 2 | [LA NEGRA TOMASA](https://open.spotify.com/track/7eHrHMuCqBJSJvDChNvlob) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [CHIQUIS \- BEE SIDE](https://open.spotify.com/album/4HFQEBKPajKOqug9XxW4P4) | 3:16 |
 | 3 | [PA' TI](https://open.spotify.com/track/6lNB1znrjo8OtapJeUH1tS) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [CHIQUIS \- BEE SIDE](https://open.spotify.com/album/4HFQEBKPajKOqug9XxW4P4) | 3:10 |
-| 4 | [Pudiste pero No Quisiste](https://open.spotify.com/track/4GW1xy7yINUnuEQHaETaVC) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Como en los Viejos Tiempos](https://open.spotify.com/album/7kfuZtaN9zvpFhIIMZLvgI) | 3:32 |
-| 5 | [En el Pedir Está el Dar \(feat\. Gerardo Ortiz\)](https://open.spotify.com/track/6TwhEVtDU2LZFnkwEPrqed) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV), [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Como en los Viejos Tiempos](https://open.spotify.com/album/7kfuZtaN9zvpFhIIMZLvgI) | 3:00 |
+| 4 | [Pudiste Pero No Quisiste](https://open.spotify.com/track/4GW1xy7yINUnuEQHaETaVC) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Como en los Viejos Tiempos](https://open.spotify.com/album/7kfuZtaN9zvpFhIIMZLvgI) | 3:32 |
+| 5 | [En el Pedir Está el Dar](https://open.spotify.com/track/6TwhEVtDU2LZFnkwEPrqed) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV), [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Como en los Viejos Tiempos](https://open.spotify.com/album/7kfuZtaN9zvpFhIIMZLvgI) | 3:00 |
 | 6 | [El Que Quiere Puede](https://open.spotify.com/track/4MGkZ1KQBirBI04UAo76pn) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV), [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Como en los Viejos Tiempos](https://open.spotify.com/album/7kfuZtaN9zvpFhIIMZLvgI) | 2:17 |
 | 7 | [La Hija Del Sr.](https://open.spotify.com/track/3uSnklocXnasLoqWMMMurP) | [Grupo Recluta](https://open.spotify.com/artist/2Dlvgi70UoJJicfKgoW5Vo) | [1X1](https://open.spotify.com/album/1GsbrXF9wVjtvZR4aP33j5) | 3:33 |
 | 8 | [Sin Ver Atrás](https://open.spotify.com/track/2n65Bi6WzYhB8ZVGwUYrOd) | [Grupo Recluta](https://open.spotify.com/artist/2Dlvgi70UoJJicfKgoW5Vo) | [1X1](https://open.spotify.com/album/1GsbrXF9wVjtvZR4aP33j5) | 2:12 |
@@ -212,4 +212,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXbC1ZOkTuut.md) - [plain]
 | 202 | [La Gripa Del Perico](https://open.spotify.com/track/4VTRF8XNXWoO2tAffbaSpi) | [Los Elementos de Culiacan](https://open.spotify.com/artist/21Plz7ujtVKM3kx6zX4eNq) | [Mas Me Rinde La Hielera](https://open.spotify.com/album/4AqWWqIvVnQYWRD5bmLl8R) | 3:02 |
 | 203 | [El Arbol De Mi Familia](https://open.spotify.com/track/5ABXU27kjthunVsP9gwfZp) | [Los Elementos de Culiacan](https://open.spotify.com/artist/21Plz7ujtVKM3kx6zX4eNq) | [Mas Me Rinde La Hielera](https://open.spotify.com/album/4AqWWqIvVnQYWRD5bmLl8R) | 3:06 |
 
-Snapshot ID: `MCwzOGY4NzhhNTE1YTE0YjQ1ZDk1Njg3ZDIwYjJmMGJmMmQ3MDU4YmYw`
+Snapshot ID: `MCw3N2FmNmI1MWM5ZjZmNTZlNWFiODNkMTc5N2M0NmRkOTA3MjQwNjE3`

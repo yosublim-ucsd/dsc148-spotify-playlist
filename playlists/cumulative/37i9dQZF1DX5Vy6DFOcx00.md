@@ -4,7 +4,7 @@
 
 > iykyk
 
-1,236 songs - 2 day 18 hr 34 min
+1,237 songs - 2 day 18 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -453,6 +453,7 @@
 | [Heart To Heart](https://open.spotify.com/track/7EAMXbLcL0qXmciM5SwMh2) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [Here Comes The Cowboy](https://open.spotify.com/album/67PsnkYVPNpEsZffyTWGgW) | 3:31 | 2022-12-10 |  |
 | [Heartbroken \(feat\. Jessie Murph & Polo G\)](https://open.spotify.com/track/6NdnvPwQvZb147DVa4x14h) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Heartbroken \(feat\. Jessie Murph & Polo G\)](https://open.spotify.com/album/4cfA6cGpQSXr8jMMxfnNaS) | 3:24 | 2023-07-21 | 2023-09-09 |
 | [HEATED](https://open.spotify.com/track/1w7cgGZR86yWz1pA2puVJD) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [RENAISSANCE](https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb) | 4:20 | 2023-06-02 | 2023-08-08 |
+| [Heather](https://open.spotify.com/track/4xqrdfXkTW4T0RauPLv3WA) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Kid Krow](https://open.spotify.com/album/2CMlkzFI2oDAy5MbyV7OV5) | 3:18 | 2023-12-02 |  |
 | [Hell N Back](https://open.spotify.com/track/3NRql0A1Ef4RCvT473iqgD) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [Hell N Back](https://open.spotify.com/album/3aEdbaJGWXbBxn79DgjamF) | 3:33 | 2023-03-09 |  |
 | [Hellcats SRTs](https://open.spotify.com/track/1iK1hVN9o1zkpxw396QGbd) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Hood Hottest Princess](https://open.spotify.com/album/6uoGeT623i76TwlgYFfe42) | 2:33 | 2023-09-20 | 2023-10-04 |
 | [Her Way](https://open.spotify.com/track/3JEJwjqLkg2Jbau5922CAb) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYNEXTDOOR TWO](https://open.spotify.com/album/1xwhNJCfTwuRia7Cpo7IbJ) | 3:36 | 2023-01-18 | 2023-06-06 |
@@ -1080,7 +1081,7 @@
 | [The One That Got Away](https://open.spotify.com/track/3oL3XRtkP1WVbMxf7dtTdu) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Teenage Dream: The Complete Confection](https://open.spotify.com/album/5BvgP623rtvlc0HDcpzquz) | 3:47 | 2022-09-16 | 2023-02-09 |
 | [The Other Woman](https://open.spotify.com/track/1KuVEZR4xuQVNr1KkanAV4) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Ultraviolence \(Deluxe\)](https://open.spotify.com/album/1ORxRsK3MrSLvh7VQTF01F) | 3:01 | 2022-03-31 | 2022-06-21 |
 | [The Party & The After Party \- Original](https://open.spotify.com/track/0GROiXm03OrMC5ltXLhGIu) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [House Of Balloons \(Original\)](https://open.spotify.com/album/7zCODUHkfuRxsUjtuzNqbd) | 7:39 | 2023-11-28 |  |
-| [The Party & The After Party \- Original](https://open.spotify.com/track/7bvkyTwVkylUGJvz1UMjFk) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Trilogy](https://open.spotify.com/album/2XGEyGU76kj55OdHWynX0S) | 7:39 | 2023-11-07 |  |
+| [The Party & The After Party \- Original](https://open.spotify.com/track/7bvkyTwVkylUGJvz1UMjFk) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Trilogy](https://open.spotify.com/album/2XGEyGU76kj55OdHWynX0S) | 7:39 | 2023-11-07 | 2023-12-03 |
 | [The Perfect Girl](https://open.spotify.com/track/07STSJTiTPj7nkKDfvkjb9) | [Mareux](https://open.spotify.com/artist/7riQPkkGZBnTh9ve5qIhYo) | [The Perfect Girl \(Instrumental\)](https://open.spotify.com/album/2K5u6Ge8i4VnBIy0I0Tyl8) | 3:14 | 2022-04-20 | 2022-11-13 |
 | [The Perfect Girl](https://open.spotify.com/track/5RBOcBpJXaNnHCGViJmYhh) | [Mareux](https://open.spotify.com/artist/7riQPkkGZBnTh9ve5qIhYo) | [The Perfect Girl](https://open.spotify.com/album/2JnZQM70jbT0J1Xq0qgl24) | 3:14 | 2022-04-20 | 2023-06-06 |
 | [The Perfect Girl](https://open.spotify.com/track/6J4XizhuOlKmPWykPrHIrV) | [Mareux](https://open.spotify.com/artist/7riQPkkGZBnTh9ve5qIhYo) | [The Perfect Girl](https://open.spotify.com/album/6jeFN2iws6KV7sX17KI7XY) | 3:14 | 2021-11-14 | 2022-07-29 |
@@ -1171,7 +1172,7 @@
 | [Walk Around](https://open.spotify.com/track/6WFW82dzsdevDzS2zAle04) | [Double A\-Ron](https://open.spotify.com/artist/4F2fO13keDtQ3zYtKpxlua), [Jdillon](https://open.spotify.com/artist/5eNYvtpRb5v6pA7cAj6EeT) | [Walk Around](https://open.spotify.com/album/6UUugVOt7WnPXz3Oy1357L) | 2:12 | 2022-06-17 | 2022-06-28 |
 | [Wannabe](https://open.spotify.com/track/5ACZOGjT6I5He0pDZED56Z) | [why mona](https://open.spotify.com/artist/5C1tex8vm00yFKTitiOnMU) | [Wannabe](https://open.spotify.com/album/5VMaKMyX5OTgrmHwvOVJZ1) | 3:37 | 2022-08-12 | 2022-11-14 |
 | [WAP \(feat\. Megan Thee Stallion\)](https://open.spotify.com/track/4Oun2ylbjFKMPTiaSbbCih) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [WAP \(feat\. Megan Thee Stallion\)](https://open.spotify.com/album/2ogiazbrNEx0kQHGl5ZBTQ) | 3:07 | 2023-09-06 | 2023-10-04 |
-| [Wassup Gway](https://open.spotify.com/track/0CtuA9sDnOAU3NM8bHIMyu) | [FamousSally & YB](https://open.spotify.com/artist/58r9bevVFGCcTpNRT5Ha85) | [Wassup Gway](https://open.spotify.com/album/0lBc6xsaXgtiFrcy103fEY) | 2:24 | 2023-10-12 |  |
+| [Wassup Gway](https://open.spotify.com/track/0CtuA9sDnOAU3NM8bHIMyu) | [Famous Sally & YB](https://open.spotify.com/artist/58r9bevVFGCcTpNRT5Ha85) | [Wassup Gway](https://open.spotify.com/album/0lBc6xsaXgtiFrcy103fEY) | 2:24 | 2023-10-12 |  |
 | [Wassup Gwayy](https://open.spotify.com/track/5CQ0tp4ZdSrzj2ev9yieVV) | [FamousSally & YB](https://open.spotify.com/artist/58r9bevVFGCcTpNRT5Ha85) | [Wassup Gwayy](https://open.spotify.com/album/1RlJJaItCwvPI1qkIfsJax) | 2:24 | 2023-09-26 | 2023-10-13 |
 | [WASTE](https://open.spotify.com/track/4NgherJDfCXWBZBYheM4jK) | [Kxllswxtch](https://open.spotify.com/artist/2VDZoCBGjxbHJbnzSX5nP6) | [DISORDER](https://open.spotify.com/album/3yKGB4IYu6MeLkhFJFn9eI) | 2:00 | 2022-11-01 | 2023-04-27 |
 | [Wasted Summers](https://open.spotify.com/track/43MifzVnh8W3jJN0xqU9jR) | [juju<3](https://open.spotify.com/artist/496w0Fyed8J7IRzn5Ffb6x) | [Wasted Summers](https://open.spotify.com/album/5SrN0SPOdmdCBe0dyDcpsY) | 2:10 | 2023-08-08 |  |

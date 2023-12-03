@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2SzDYPXnP1a.md) - [plain]
 
 > Country tracks to get your beast mode on!
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,093 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,220 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,20 +36,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2SzDYPXnP1a.md) - [plain]
 | 26 | [SOLD OUT](https://open.spotify.com/track/3I56OBwJkDAyt9L00c8ois) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [SOLD OUT](https://open.spotify.com/album/7btdv2v09pv92AOX2SvmKm) | 3:22 |
 | 27 | [The Fighter](https://open.spotify.com/track/5OUSPcqhYTOzpbXzoEvKim) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf), [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Ripcord](https://open.spotify.com/album/1IbfOjLqUSkhtXLpX31WZq) | 3:04 |
 | 28 | [Country Boy Do \(feat\. Tyler Hubbard\)](https://open.spotify.com/track/24MH7MzHl5XAYlmMdn85CF) | [Nelly](https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw), [Tyler Hubbard](https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V) | [Heartland](https://open.spotify.com/album/1a7BlXLCqjTxQh6X8L9JBL) | 2:56 |
-| 29 | [Throw It Back \(feat\. Keith Urban\)](https://open.spotify.com/track/4BLiRJdtn8jwUVtvbHIv2T) | [BRELAND](https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1), [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Throw It Back \(feat\. Keith Urban\)](https://open.spotify.com/album/56rScV2lFznLUGxqYYwUpo) | 3:08 |
+| 29 | [Dutton Ranch Freestyle](https://open.spotify.com/track/13F5i1GqcozCFrZX9CpWi3) | [David Morris](https://open.spotify.com/artist/23Pb3oXBOQj9WEziS6laUW) | [Bored In The USA](https://open.spotify.com/album/7ChSMkhsiqg07qG0Acs73c) | 2:23 |
 | 30 | [Kerosene](https://open.spotify.com/track/2yhhcHTfvLC0HzSajGYL0h) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Kerosene](https://open.spotify.com/album/1NovG9mTUookEBrlHP6QC1) | 3:05 |
 | 31 | [The Weekend](https://open.spotify.com/track/48tAdjG4ng2JfECa7OQujk) | [Brantley Gilbert](https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa) | [The Devil Don't Sleep](https://open.spotify.com/album/42YmulIH1BikBWdnqelvnb) | 3:07 |
-| 32 | [Ride It Hard](https://open.spotify.com/track/6zqSYGnRnqwpNpCGI5dVfL) | [Warren Zeiders](https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi), [Sueco](https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD) | [Ride It Hard](https://open.spotify.com/album/09TSAcZhjfhqjnej2rcfIV) | 2:30 |
-| 33 | [People Talk](https://open.spotify.com/track/0ZHGYKgO3uim2g9JCIWU4U) | [Kidd G](https://open.spotify.com/artist/5edcHuf8pWH3I00WTorajM) | [People Talk](https://open.spotify.com/album/6cCWwahb1OUojXvaOVm9F4) | 3:11 |
+| 32 | [Throw It Back \(feat\. Keith Urban\)](https://open.spotify.com/track/4BLiRJdtn8jwUVtvbHIv2T) | [BRELAND](https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1), [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Throw It Back \(feat\. Keith Urban\)](https://open.spotify.com/album/56rScV2lFznLUGxqYYwUpo) | 3:08 |
+| 33 | [Ride It Hard](https://open.spotify.com/track/6zqSYGnRnqwpNpCGI5dVfL) | [Warren Zeiders](https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi), [Sueco](https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD) | [Ride It Hard](https://open.spotify.com/album/09TSAcZhjfhqjnej2rcfIV) | 2:30 |
 | 34 | [Tulsa](https://open.spotify.com/track/6mGv9INV7tnfldu5hFv0eH) | [Elle King](https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx) | [Tulsa](https://open.spotify.com/album/3v6zVsK3CAPEtIi3GHHMUN) | 2:42 |
-| 35 | [Dutton Ranch Freestyle](https://open.spotify.com/track/13F5i1GqcozCFrZX9CpWi3) | [David Morris](https://open.spotify.com/artist/23Pb3oXBOQj9WEziS6laUW) | [Bored In The USA](https://open.spotify.com/album/7ChSMkhsiqg07qG0Acs73c) | 2:23 |
+| 35 | [People Talk](https://open.spotify.com/track/0ZHGYKgO3uim2g9JCIWU4U) | [Kidd G](https://open.spotify.com/artist/5edcHuf8pWH3I00WTorajM) | [People Talk](https://open.spotify.com/album/6cCWwahb1OUojXvaOVm9F4) | 3:11 |
 | 36 | [Heart On Fire](https://open.spotify.com/track/0ysCB1Jg4hli0XlEWlipo7) | [Eric Church](https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV) | [Heart](https://open.spotify.com/album/5aWReU8nqP0WiJPRwiNTyt) | 4:18 |
 | 37 | [All Night](https://open.spotify.com/track/0gv4JVcgmb8HihoucEXVxh) | [Brothers Osborne](https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp) | [Skeletons](https://open.spotify.com/album/0OA03FrXlln4FvE30LaEXR) | 2:48 |
 | 38 | [I Hope](https://open.spotify.com/track/23T0OX7QOiIUFShSzbJ5Uo) | [Gabby Barrett](https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL) | [Goldmine](https://open.spotify.com/album/4Iqfx63CZhFGGIHiAvLxXY) | 3:30 |
-| 39 | [YOU'RE DRUNK, GO HOME](https://open.spotify.com/track/0XVBahLtPyfg5m1LxPxRTd) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF), [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX), [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72) | [SUBJECT TO CHANGE](https://open.spotify.com/album/6twfTQ122kNcHAUXjFbe8a) | 2:55 |
+| 39 | [Lights Come On](https://open.spotify.com/track/6JLiWJptfEdsz3TW4dnQGy) | [Jason Aldean](https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH) | [They Don't Know](https://open.spotify.com/album/2EhCp9jUMBdrJIrnDrhw4L) | 3:14 |
 | 40 | [Fire’t Up](https://open.spotify.com/track/748wrs9n0dSXFyY3VRZB9w) | [Brantley Gilbert](https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa) | [Fire & Brimstone](https://open.spotify.com/album/54NjC2mCWlhIE3Ji4G9Vl0) | 2:56 |
-| 41 | [Waiting for the Thunder](https://open.spotify.com/track/0Rxgdpe1zgZ6ZzHgxSaYEJ) | [Blackberry Smoke](https://open.spotify.com/artist/5P1oS9DUTPEqcrmXDmX4p8) | [Like an Arrow](https://open.spotify.com/album/4r0Zb1FdEFbpF5olm5ZIW0) | 4:07 |
-| 42 | [Lights Come On](https://open.spotify.com/track/6JLiWJptfEdsz3TW4dnQGy) | [Jason Aldean](https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH) | [They Don't Know](https://open.spotify.com/album/2EhCp9jUMBdrJIrnDrhw4L) | 3:14 |
+| 41 | [YOU'RE DRUNK, GO HOME](https://open.spotify.com/track/0XVBahLtPyfg5m1LxPxRTd) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF), [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX), [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72) | [SUBJECT TO CHANGE](https://open.spotify.com/album/6twfTQ122kNcHAUXjFbe8a) | 2:55 |
+| 42 | [Waiting for the Thunder](https://open.spotify.com/track/0Rxgdpe1zgZ6ZzHgxSaYEJ) | [Blackberry Smoke](https://open.spotify.com/artist/5P1oS9DUTPEqcrmXDmX4p8) | [Like an Arrow](https://open.spotify.com/album/4r0Zb1FdEFbpF5olm5ZIW0) | 4:07 |
 | 43 | [Rich](https://open.spotify.com/track/4H0vNUFcHPz5lytcLjwqkr) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [HERO \(Deluxe Edition\)](https://open.spotify.com/album/4sSXylKcBB3p47VfrBJlfK) | 3:28 |
 | 44 | [Fire up the Night \(feat\. HARDY\)](https://open.spotify.com/track/5dHF4UXvJ70xefCqD2Wj9N) | [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw), [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [Body Language \(Deluxe\)](https://open.spotify.com/album/6ObNVnYp53VJNtIcdo03WJ) | 3:12 |
 | 45 | [John Wayne](https://open.spotify.com/track/2fMFGxKTLDYroA9v6eKv9N) | [Whiskey Myers](https://open.spotify.com/artist/26opZSJcXshCmCwxgZQmBc) | [Tornillo](https://open.spotify.com/album/4U5NlmzgbAlqmHIEq8L8nT) | 4:55 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2SzDYPXnP1a.md) - [plain]
 | 49 | [Stick That In Your Country Song](https://open.spotify.com/track/5lH14PEjAXYuMTz0Dd4L1D) | [Eric Church](https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV) | [Stick That In Your Country Song](https://open.spotify.com/album/7wWQFNpOLyRK6y4Ch1NaQe) | 3:48 |
 | 50 | [County Roads](https://open.spotify.com/track/3cLJUuJRWBAP2k8LhWgONB) | [Elvie Shane](https://open.spotify.com/artist/2eIB6vFotL2su94z3pUC1j) | [Backslider](https://open.spotify.com/album/0iyg3QqROay2R4ejj8GBqP) | 3:11 |
 
-Snapshot ID: `MCwyNDZhYmQ0NmUwYjgzMTQxZjc5Y2JmNGQwZmY0ODAzMjU5YmE1M2Q0`
+Snapshot ID: `MCw5MzI3ZjBiNWFmNTJlNGJkMWZkY2I2NGRhNTE5NjdlNjJiODJkYmY5`

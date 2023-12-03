@@ -1,12 +1,12 @@
 {
   "description": "Oblique: Angular. Asymmetrical. Experimental.",
-  "num_followers": 170466,
+  "num_followers": 170519,
   "original_name": "Oblique",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZWY4NjRhNWIxZmM4ZDM5MTc4ZjMyZTY1YmY1ZDA0OTcxNDA3Mjg2",
+  "snapshot_id": "MCw2ODM4YThkYThjMzZiYjlkZTI5ZGFkMWE2NGNmNzNkNjFiODFkMjcy",
   "tracks": [
     {
       "added_at": "2023-11-10 01:13:32",
@@ -669,6 +669,22 @@
       "url": "https://open.spotify.com/track/2ywyJsQa0vew5YEbAr7Jgr"
     },
     {
+      "added_at": "2022-02-25 03:06:43",
+      "album": {
+        "name": "You Belong There",
+        "url": "https://open.spotify.com/album/1eb8tDRzXuhb3omC50SkHt"
+      },
+      "artists": [
+        {
+          "name": "Daniel Rossen",
+          "url": "https://open.spotify.com/artist/2N7DBqf05DIw5tqKLRAUq4"
+        }
+      ],
+      "duration_ms": 369231,
+      "name": "Unpeopled Space",
+      "url": "https://open.spotify.com/track/1DrBZs238KS2V3SYfE0ShK"
+    },
+    {
       "added_at": "2021-10-06 20:23:10",
       "album": {
         "name": "Hildegard",
@@ -693,38 +709,6 @@
       "url": "https://open.spotify.com/track/1RLMR4pVuuHEzn8mOe1U2s"
     },
     {
-      "added_at": "2023-08-24 03:26:17",
-      "album": {
-        "name": "Voyager",
-        "url": "https://open.spotify.com/album/6HHaF08StaSFk1MdDOMAp4"
-      },
-      "artists": [
-        {
-          "name": "Slauson Malone 1",
-          "url": "https://open.spotify.com/artist/6mWYIx4qV7et94cpRRU77N"
-        }
-      ],
-      "duration_ms": 189960,
-      "name": "Voyager",
-      "url": "https://open.spotify.com/track/7liCZGCeSyqcDRKhdlglHW"
-    },
-    {
-      "added_at": "2022-02-25 03:06:43",
-      "album": {
-        "name": "You Belong There",
-        "url": "https://open.spotify.com/album/1eb8tDRzXuhb3omC50SkHt"
-      },
-      "artists": [
-        {
-          "name": "Daniel Rossen",
-          "url": "https://open.spotify.com/artist/2N7DBqf05DIw5tqKLRAUq4"
-        }
-      ],
-      "duration_ms": 369231,
-      "name": "Unpeopled Space",
-      "url": "https://open.spotify.com/track/1DrBZs238KS2V3SYfE0ShK"
-    },
-    {
       "added_at": "2023-08-15 18:36:31",
       "album": {
         "name": "Sus Dog",
@@ -743,6 +727,22 @@
       "duration_ms": 276045,
       "name": "Sus Dog",
       "url": "https://open.spotify.com/track/4SIy0CT0thjNx55TAeBq6x"
+    },
+    {
+      "added_at": "2023-08-24 03:26:17",
+      "album": {
+        "name": "Voyager",
+        "url": "https://open.spotify.com/album/6HHaF08StaSFk1MdDOMAp4"
+      },
+      "artists": [
+        {
+          "name": "Slauson Malone 1",
+          "url": "https://open.spotify.com/artist/6mWYIx4qV7et94cpRRU77N"
+        }
+      ],
+      "duration_ms": 189960,
+      "name": "Voyager",
+      "url": "https://open.spotify.com/track/7liCZGCeSyqcDRKhdlglHW"
     },
     {
       "added_at": "2022-07-19 04:00:00",
@@ -841,6 +841,22 @@
       "url": "https://open.spotify.com/track/7BGPolTJ1ptq3zxGIf64yR"
     },
     {
+      "added_at": "2023-06-07 04:10:00",
+      "album": {
+        "name": "Crispy Moon",
+        "url": "https://open.spotify.com/album/1IVnU9K7Oym9JvBUQyhT4z"
+      },
+      "artists": [
+        {
+          "name": "Yama Warashi",
+          "url": "https://open.spotify.com/artist/2PwUZ1wTtmdDTEZbfnAh8C"
+        }
+      ],
+      "duration_ms": 300866,
+      "name": "Dividual Individual",
+      "url": "https://open.spotify.com/track/3Q74p61vgqdsCBFQlOP1kQ"
+    },
+    {
       "added_at": "2023-08-24 03:26:17",
       "album": {
         "name": "RPG",
@@ -875,22 +891,6 @@
       "duration_ms": 451986,
       "name": "STORY OF BLOOD",
       "url": "https://open.spotify.com/track/0MtY5fVdx8fnPzqooOwok4"
-    },
-    {
-      "added_at": "2023-06-07 04:10:00",
-      "album": {
-        "name": "Crispy Moon",
-        "url": "https://open.spotify.com/album/1IVnU9K7Oym9JvBUQyhT4z"
-      },
-      "artists": [
-        {
-          "name": "Yama Warashi",
-          "url": "https://open.spotify.com/artist/2PwUZ1wTtmdDTEZbfnAh8C"
-        }
-      ],
-      "duration_ms": 300866,
-      "name": "Dividual Individual",
-      "url": "https://open.spotify.com/track/3Q74p61vgqdsCBFQlOP1kQ"
     },
     {
       "added_at": "2021-10-06 20:23:10",
@@ -945,22 +945,6 @@
       "url": "https://open.spotify.com/track/48jMC9ZKe8SCCZqgg0MZnB"
     },
     {
-      "added_at": "2022-08-31 05:00:32",
-      "album": {
-        "name": "\u00a1Ay!",
-        "url": "https://open.spotify.com/album/6g5Cioj39K7ix89q2xAtsh"
-      },
-      "artists": [
-        {
-          "name": "Lucrecia Dalt",
-          "url": "https://open.spotify.com/artist/4LC4vkseYrSEDd6MjZvOO9"
-        }
-      ],
-      "duration_ms": 164598,
-      "name": "Dicen",
-      "url": "https://open.spotify.com/track/23hHf7aRBMesANVdtp2stv"
-    },
-    {
       "added_at": "2022-11-08 17:40:24",
       "album": {
         "name": "Follow the Cyborg",
@@ -975,6 +959,22 @@
       "duration_ms": 285898,
       "name": "Follow the Cyborg",
       "url": "https://open.spotify.com/track/29Tr5faNVWpHHaN2JytX98"
+    },
+    {
+      "added_at": "2022-08-31 05:00:32",
+      "album": {
+        "name": "\u00a1Ay!",
+        "url": "https://open.spotify.com/album/6g5Cioj39K7ix89q2xAtsh"
+      },
+      "artists": [
+        {
+          "name": "Lucrecia Dalt",
+          "url": "https://open.spotify.com/artist/4LC4vkseYrSEDd6MjZvOO9"
+        }
+      ],
+      "duration_ms": 164598,
+      "name": "Dicen",
+      "url": "https://open.spotify.com/track/23hHf7aRBMesANVdtp2stv"
     },
     {
       "added_at": "2023-05-22 18:30:22",
@@ -1217,6 +1217,22 @@
       "url": "https://open.spotify.com/track/4fbvhFhIhItsBS4V5EUdYu"
     },
     {
+      "added_at": "2023-03-31 19:12:14",
+      "album": {
+        "name": "Follow the Cyborg",
+        "url": "https://open.spotify.com/album/1FzCOEjfRrJvwMWqEUCsNO"
+      },
+      "artists": [
+        {
+          "name": "Miss Grit",
+          "url": "https://open.spotify.com/artist/0kUsW40KML1SWGeOAvGtzD"
+        }
+      ],
+      "duration_ms": 229183,
+      "name": "Nothing's Wrong",
+      "url": "https://open.spotify.com/track/3g5v5S6Adv3gqPpKuli6Q5"
+    },
+    {
       "added_at": "2023-06-05 20:56:02",
       "album": {
         "name": "Crispy Moon",
@@ -1265,38 +1281,6 @@
       "url": "https://open.spotify.com/track/49SiBBu5SZn0lqSFAhgJ5t"
     },
     {
-      "added_at": "2023-03-31 19:12:14",
-      "album": {
-        "name": "Follow the Cyborg",
-        "url": "https://open.spotify.com/album/1FzCOEjfRrJvwMWqEUCsNO"
-      },
-      "artists": [
-        {
-          "name": "Miss Grit",
-          "url": "https://open.spotify.com/artist/0kUsW40KML1SWGeOAvGtzD"
-        }
-      ],
-      "duration_ms": 229183,
-      "name": "Nothing's Wrong",
-      "url": "https://open.spotify.com/track/3g5v5S6Adv3gqPpKuli6Q5"
-    },
-    {
-      "added_at": "2021-10-06 20:23:10",
-      "album": {
-        "name": "Rivers That You Cannot See",
-        "url": "https://open.spotify.com/album/35iioCINJwSsujHf6csIMy"
-      },
-      "artists": [
-        {
-          "name": "North Americans",
-          "url": "https://open.spotify.com/artist/0SsM5OCOiiwycZIO63OT1S"
-        }
-      ],
-      "duration_ms": 235093,
-      "name": "Rivers That You Cannot See",
-      "url": "https://open.spotify.com/track/3FtbB9OOYaoxnn18aezZRh"
-    },
-    {
       "added_at": "2021-10-06 20:23:10",
       "album": {
         "name": "High January",
@@ -1317,6 +1301,22 @@
       "url": "https://open.spotify.com/track/3O05FgZ3XcjoVkZm6YpIKZ"
     },
     {
+      "added_at": "2021-10-06 20:23:10",
+      "album": {
+        "name": "Rivers That You Cannot See",
+        "url": "https://open.spotify.com/album/35iioCINJwSsujHf6csIMy"
+      },
+      "artists": [
+        {
+          "name": "North Americans",
+          "url": "https://open.spotify.com/artist/0SsM5OCOiiwycZIO63OT1S"
+        }
+      ],
+      "duration_ms": 235093,
+      "name": "Rivers That You Cannot See",
+      "url": "https://open.spotify.com/track/3FtbB9OOYaoxnn18aezZRh"
+    },
+    {
       "added_at": "2022-01-21 20:15:30",
       "album": {
         "name": "Songs For Vienna",
@@ -1331,22 +1331,6 @@
       "duration_ms": 188873,
       "name": "Feedback Loop",
       "url": "https://open.spotify.com/track/5LFjp7uFga0wfF7lOSSYYg"
-    },
-    {
-      "added_at": "2022-03-30 04:28:53",
-      "album": {
-        "name": "Sans oublier",
-        "url": "https://open.spotify.com/album/5gTvIe8CJZMUqsGohBOA7c"
-      },
-      "artists": [
-        {
-          "name": "Lysandre",
-          "url": "https://open.spotify.com/artist/5EtRfuHiXyKw18rAaIaSEh"
-        }
-      ],
-      "duration_ms": 170737,
-      "name": "La Roseraie",
-      "url": "https://open.spotify.com/track/4fSzvoIxLIW84DiqWd3axz"
     },
     {
       "added_at": "2021-10-06 20:23:10",
@@ -1381,6 +1365,22 @@
       "url": "https://open.spotify.com/track/7HoJFfvWJMlBfUh0wC0m1L"
     },
     {
+      "added_at": "2022-03-30 04:28:53",
+      "album": {
+        "name": "Sans oublier",
+        "url": "https://open.spotify.com/album/5gTvIe8CJZMUqsGohBOA7c"
+      },
+      "artists": [
+        {
+          "name": "Lysandre",
+          "url": "https://open.spotify.com/artist/5EtRfuHiXyKw18rAaIaSEh"
+        }
+      ],
+      "duration_ms": 170737,
+      "name": "La Roseraie",
+      "url": "https://open.spotify.com/track/4fSzvoIxLIW84DiqWd3axz"
+    },
+    {
       "added_at": "2023-01-03 23:48:36",
       "album": {
         "name": "Where To Put The Pain",
@@ -1411,6 +1411,30 @@
       "duration_ms": 293706,
       "name": "NIGHT CRAWLING",
       "url": "https://open.spotify.com/track/1mSYUtXT32YJZg2cALSq0O"
+    },
+    {
+      "added_at": "2022-03-11 06:40:47",
+      "album": {
+        "name": "SEIM",
+        "url": "https://open.spotify.com/album/2417iYb0cUeCNgshb6wTz8"
+      },
+      "artists": [
+        {
+          "name": "QUINQUIS",
+          "url": "https://open.spotify.com/artist/10FKxn7w2iNuFkI0uKm9KH"
+        },
+        {
+          "name": "Gareth Jones",
+          "url": "https://open.spotify.com/artist/1W9zmk9JQsQaKSpphFHkUV"
+        },
+        {
+          "name": "\u00d3lavur J\u00e1kupsson",
+          "url": "https://open.spotify.com/artist/0gfdV2BOENhfosiHzk0MCG"
+        }
+      ],
+      "duration_ms": 311533,
+      "name": "Run (feat. Gareth Jones & \u00d3lavur J\u00e1kupsson)",
+      "url": "https://open.spotify.com/track/0JOiqhfNPuIsNUBJpsPdPy"
     },
     {
       "added_at": "2022-08-19 01:53:48",
@@ -1451,30 +1475,6 @@
       "duration_ms": 182800,
       "name": "Peculiar Machine - Georgia Anne Muldrow Remix",
       "url": "https://open.spotify.com/track/2zHv421xcKeRKkeTU7S042"
-    },
-    {
-      "added_at": "2022-03-11 06:40:47",
-      "album": {
-        "name": "SEIM",
-        "url": "https://open.spotify.com/album/2417iYb0cUeCNgshb6wTz8"
-      },
-      "artists": [
-        {
-          "name": "QUINQUIS",
-          "url": "https://open.spotify.com/artist/10FKxn7w2iNuFkI0uKm9KH"
-        },
-        {
-          "name": "Gareth Jones",
-          "url": "https://open.spotify.com/artist/1W9zmk9JQsQaKSpphFHkUV"
-        },
-        {
-          "name": "\u00d3lavur J\u00e1kupsson",
-          "url": "https://open.spotify.com/artist/0gfdV2BOENhfosiHzk0MCG"
-        }
-      ],
-      "duration_ms": 311533,
-      "name": "Run (feat. Gareth Jones & \u00d3lavur J\u00e1kupsson)",
-      "url": "https://open.spotify.com/track/0JOiqhfNPuIsNUBJpsPdPy"
     },
     {
       "added_at": "2021-10-06 20:23:10",
@@ -1537,22 +1537,6 @@
       "url": "https://open.spotify.com/track/3g1uQN86mg2yLHnJCuN2fR"
     },
     {
-      "added_at": "2022-04-20 13:58:09",
-      "album": {
-        "name": "Las Olas Contra Todos",
-        "url": "https://open.spotify.com/album/4J8d90YhrrYBiZbSeRiacK"
-      },
-      "artists": [
-        {
-          "name": "La Villana",
-          "url": "https://open.spotify.com/artist/6hZrSCRkq3lgHZ9dFxpzhq"
-        }
-      ],
-      "duration_ms": 165113,
-      "name": "Las Olas Contra Todos",
-      "url": "https://open.spotify.com/track/67QxnzLtZh9NiD7NzlBgs1"
-    },
-    {
       "added_at": "2021-10-15 03:46:13",
       "album": {
         "name": "Vines",
@@ -1567,6 +1551,22 @@
       "duration_ms": 406163,
       "name": "Sunken Lupine",
       "url": "https://open.spotify.com/track/72SzjydU6s6oVsj2Ml1YV3"
+    },
+    {
+      "added_at": "2022-04-20 13:58:09",
+      "album": {
+        "name": "Las Olas Contra Todos",
+        "url": "https://open.spotify.com/album/4J8d90YhrrYBiZbSeRiacK"
+      },
+      "artists": [
+        {
+          "name": "La Villana",
+          "url": "https://open.spotify.com/artist/6hZrSCRkq3lgHZ9dFxpzhq"
+        }
+      ],
+      "duration_ms": 165113,
+      "name": "Las Olas Contra Todos",
+      "url": "https://open.spotify.com/track/67QxnzLtZh9NiD7NzlBgs1"
     },
     {
       "added_at": "2023-03-24 15:38:14",
@@ -1625,22 +1625,6 @@
       "url": "https://open.spotify.com/track/61aBhscbYMdkvI4V4ikn70"
     },
     {
-      "added_at": "2022-08-31 04:56:45",
-      "album": {
-        "name": "Sunset Dreams",
-        "url": "https://open.spotify.com/album/6SSE8rmfK2n5D10pJYBaYX"
-      },
-      "artists": [
-        {
-          "name": "Jane Weaver",
-          "url": "https://open.spotify.com/artist/1UrfmsMDKHSYXj7SaPjyWL"
-        }
-      ],
-      "duration_ms": 215831,
-      "name": "Don't Tell Me I'm Wrong",
-      "url": "https://open.spotify.com/track/4NUBJ6FdoxJWGaLD5IAw5p"
-    },
-    {
       "added_at": "2022-08-25 19:38:46",
       "album": {
         "name": "A Liberdade \u00e9 Cara",
@@ -1659,6 +1643,22 @@
       "duration_ms": 380973,
       "name": "A Liberdade \u00e9 Cara",
       "url": "https://open.spotify.com/track/5ZRDV496C5qfNwfrC5yUQb"
+    },
+    {
+      "added_at": "2022-08-31 04:56:45",
+      "album": {
+        "name": "Sunset Dreams",
+        "url": "https://open.spotify.com/album/6SSE8rmfK2n5D10pJYBaYX"
+      },
+      "artists": [
+        {
+          "name": "Jane Weaver",
+          "url": "https://open.spotify.com/artist/1UrfmsMDKHSYXj7SaPjyWL"
+        }
+      ],
+      "duration_ms": 215831,
+      "name": "Don't Tell Me I'm Wrong",
+      "url": "https://open.spotify.com/track/4NUBJ6FdoxJWGaLD5IAw5p"
     },
     {
       "added_at": "2021-10-06 20:23:10",

@@ -1,12 +1,12 @@
 {
   "description": "Various sounds, various decades, but with one thing in common: pure rock & roll.",
-  "num_followers": 1573692,
+  "num_followers": 1573790,
   "original_name": "Pure Rock & Roll",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ODZmMDBlZWFjMTAzYzhjNzBkYzBiMjAwYjg5ZmRmYjNiZTkxZDVl",
+  "snapshot_id": "MCwwYzZmNDJkN2QwYzc3ZDdiYjkzNzA5NDgzYjg0ZTA2MTViZDZlNmJm",
   "tracks": [
     {
       "added_at": "2023-10-13 04:00:00",
@@ -611,22 +611,6 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
-        "name": "The Joker",
-        "url": "https://open.spotify.com/album/5uYNj1HkZrWKAkhEYcGmJr"
-      },
-      "artists": [
-        {
-          "name": "Steve Miller Band",
-          "url": "https://open.spotify.com/artist/6QtGlUje9TIkLrgPZrESuk"
-        }
-      ],
-      "duration_ms": 264503,
-      "name": "The Joker",
-      "url": "https://open.spotify.com/track/1bp2IO61zbQrbWNmKKxg3f"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
         "name": "The Resistance",
         "url": "https://open.spotify.com/album/0eFHYz8NmK75zSplL5qlfM"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 304840,
       "name": "Uprising",
       "url": "https://open.spotify.com/track/4VqPOruhp5EdPBeR92t6lQ"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
+        "name": "The Joker",
+        "url": "https://open.spotify.com/album/5uYNj1HkZrWKAkhEYcGmJr"
+      },
+      "artists": [
+        {
+          "name": "Steve Miller Band",
+          "url": "https://open.spotify.com/artist/6QtGlUje9TIkLrgPZrESuk"
+        }
+      ],
+      "duration_ms": 264503,
+      "name": "The Joker",
+      "url": "https://open.spotify.com/track/1bp2IO61zbQrbWNmKKxg3f"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -659,22 +659,6 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
-        "name": "Who's Next (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5MqyhhHbT13zsloD3uHhlQ"
-      },
-      "artists": [
-        {
-          "name": "The Who",
-          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
-        }
-      ],
-      "duration_ms": 300400,
-      "name": "Baba O'Riley",
-      "url": "https://open.spotify.com/track/3qiyyUfYe7CRYLucrPmulD"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
         "name": "Get Born",
         "url": "https://open.spotify.com/album/6NrLpQCPYrNS3kVWxDgIlg"
       },
@@ -691,18 +675,18 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
-        "name": "Agents Of Fortune",
-        "url": "https://open.spotify.com/album/6C9WzlQANeoD0GW5B41YJt"
+        "name": "Who's Next (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5MqyhhHbT13zsloD3uHhlQ"
       },
       "artists": [
         {
-          "name": "Blue \u00d6yster Cult",
-          "url": "https://open.spotify.com/artist/00tVTdpEhQQw1bqdu8RCx2"
+          "name": "The Who",
+          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
         }
       ],
-      "duration_ms": 308120,
-      "name": "(Don't Fear) The Reaper",
-      "url": "https://open.spotify.com/track/5QTxFnGygVM4jFQiBovmRo"
+      "duration_ms": 300400,
+      "name": "Baba O'Riley",
+      "url": "https://open.spotify.com/track/3qiyyUfYe7CRYLucrPmulD"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -719,6 +703,22 @@
       "duration_ms": 161560,
       "name": "Johnny B. Goode",
       "url": "https://open.spotify.com/track/2QfiRTz5Yc8DdShCxG1tB2"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
+        "name": "Agents Of Fortune",
+        "url": "https://open.spotify.com/album/6C9WzlQANeoD0GW5B41YJt"
+      },
+      "artists": [
+        {
+          "name": "Blue \u00d6yster Cult",
+          "url": "https://open.spotify.com/artist/00tVTdpEhQQw1bqdu8RCx2"
+        }
+      ],
+      "duration_ms": 308120,
+      "name": "(Don't Fear) The Reaper",
+      "url": "https://open.spotify.com/track/5QTxFnGygVM4jFQiBovmRo"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -947,22 +947,6 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
-        "name": "American Fool",
-        "url": "https://open.spotify.com/album/4gouGcdQn9OvjX42xnWrF0"
-      },
-      "artists": [
-        {
-          "name": "John Mellencamp",
-          "url": "https://open.spotify.com/artist/3lPQ2Fk5JOwGWAF3ORFCqH"
-        }
-      ],
-      "duration_ms": 254493,
-      "name": "Jack & Diane",
-      "url": "https://open.spotify.com/track/43btz2xjMKpcmjkuRsvxyg"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
         "name": "Born In The U.S.A.",
         "url": "https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 278680,
       "name": "Born in the U.S.A.",
       "url": "https://open.spotify.com/track/0dOg1ySSI7NkpAe89Zo0b9"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
+        "name": "American Fool",
+        "url": "https://open.spotify.com/album/4gouGcdQn9OvjX42xnWrF0"
+      },
+      "artists": [
+        {
+          "name": "John Mellencamp",
+          "url": "https://open.spotify.com/artist/3lPQ2Fk5JOwGWAF3ORFCqH"
+        }
+      ],
+      "duration_ms": 254493,
+      "name": "Jack & Diane",
+      "url": "https://open.spotify.com/track/43btz2xjMKpcmjkuRsvxyg"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
-        "name": "Into The Great Wide Open",
-        "url": "https://open.spotify.com/album/42G5ULkCRRl3crJMlg6eKd"
-      },
-      "artists": [
-        {
-          "name": "Tom Petty and the Heartbreakers",
-          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
-        }
-      ],
-      "duration_ms": 242106,
-      "name": "Learning To Fly",
-      "url": "https://open.spotify.com/track/17S4XrLvF5jlGvGCJHgF51"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
         "name": "Dr. Feelgood (Deluxe Version)",
         "url": "https://open.spotify.com/album/0VPad241NfcHMOXcRcLrDe"
       },
@@ -1047,18 +1031,18 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
-        "name": "Everybody Wants",
-        "url": "https://open.spotify.com/album/7iLnNik9W0ttekJblYrVfj"
+        "name": "Into The Great Wide Open",
+        "url": "https://open.spotify.com/album/42G5ULkCRRl3crJMlg6eKd"
       },
       "artists": [
         {
-          "name": "The Struts",
-          "url": "https://open.spotify.com/artist/3lDpdwM8KILepMHqBWUhIA"
+          "name": "Tom Petty and the Heartbreakers",
+          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
         }
       ],
-      "duration_ms": 187653,
-      "name": "Could Have Been Me",
-      "url": "https://open.spotify.com/track/3IyCL4Em1GOpNGDf451Hg1"
+      "duration_ms": 242106,
+      "name": "Learning To Fly",
+      "url": "https://open.spotify.com/track/17S4XrLvF5jlGvGCJHgF51"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -1075,6 +1059,22 @@
       "duration_ms": 269920,
       "name": "Born to Run",
       "url": "https://open.spotify.com/track/6hTcuIQa0sxrrByu9wTD7s"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
+        "name": "Everybody Wants",
+        "url": "https://open.spotify.com/album/7iLnNik9W0ttekJblYrVfj"
+      },
+      "artists": [
+        {
+          "name": "The Struts",
+          "url": "https://open.spotify.com/artist/3lDpdwM8KILepMHqBWUhIA"
+        }
+      ],
+      "duration_ms": 187653,
+      "name": "Could Have Been Me",
+      "url": "https://open.spotify.com/track/3IyCL4Em1GOpNGDf451Hg1"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
-        "name": "Morrison Hotel",
-        "url": "https://open.spotify.com/album/6AFLOkpJjFF652jevcSOZX"
-      },
-      "artists": [
-        {
-          "name": "The Doors",
-          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
-        }
-      ],
-      "duration_ms": 243826,
-      "name": "Roadhouse Blues",
-      "url": "https://open.spotify.com/track/1Q5kgpp4pmyGqPwNBzkSrw"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
         "name": "Tom Petty & The Heartbreakers",
         "url": "https://open.spotify.com/album/6TLTd0P2CUI0Q29AQ1LyFi"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 214733,
       "name": "American Girl",
       "url": "https://open.spotify.com/track/7MRyJPksH3G2cXHN8UKYzP"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
+        "name": "Morrison Hotel",
+        "url": "https://open.spotify.com/album/6AFLOkpJjFF652jevcSOZX"
+      },
+      "artists": [
+        {
+          "name": "The Doors",
+          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
+        }
+      ],
+      "duration_ms": 243826,
+      "name": "Roadhouse Blues",
+      "url": "https://open.spotify.com/track/1Q5kgpp4pmyGqPwNBzkSrw"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
-        "name": "A Hard Day's Night (Remastered)",
-        "url": "https://open.spotify.com/album/6wCttLq0ADzkPgtRnUihLV"
-      },
-      "artists": [
-        {
-          "name": "The Beatles",
-          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
-        }
-      ],
-      "duration_ms": 154200,
-      "name": "A Hard Day's Night - Remastered 2009",
-      "url": "https://open.spotify.com/track/5J2CHimS7dWYMImCHkEFaJ"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
         "name": "Superunknown (20th Anniversary)",
         "url": "https://open.spotify.com/album/4K8bxkPDa5HENw0TK7WxJh"
       },
@@ -1395,6 +1379,22 @@
       "duration_ms": 246920,
       "name": "Spoonman",
       "url": "https://open.spotify.com/track/1jMaB19DiVR8OihLSuYFOt"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
+        "name": "A Hard Day's Night (Remastered)",
+        "url": "https://open.spotify.com/album/6wCttLq0ADzkPgtRnUihLV"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "duration_ms": 154200,
+      "name": "A Hard Day's Night - Remastered 2009",
+      "url": "https://open.spotify.com/track/5J2CHimS7dWYMImCHkEFaJ"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
-        "name": "1 (Remastered)",
-        "url": "https://open.spotify.com/album/7vEJAtP3KgKSpOHVgwm3Eh"
-      },
-      "artists": [
-        {
-          "name": "The Beatles",
-          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
-        }
-      ],
-      "duration_ms": 145746,
-      "name": "I Want To Hold Your Hand - Remastered 2015",
-      "url": "https://open.spotify.com/track/4pbG9SUmWIvsROVLF0zF9s"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
         "name": "From The Fires",
         "url": "https://open.spotify.com/album/6uSnHSIBGKUiW1uKQLYZ7w"
       },
@@ -1495,22 +1479,6 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
-        "name": "Steppenwolf",
-        "url": "https://open.spotify.com/album/64q58AfjSrrX9Egp7Zryw8"
-      },
-      "artists": [
-        {
-          "name": "Steppenwolf",
-          "url": "https://open.spotify.com/artist/1WRM9i067hd2ujxxi8FI3m"
-        }
-      ],
-      "duration_ms": 212893,
-      "name": "Born To Be Wild - Single Version",
-      "url": "https://open.spotify.com/track/3lN8PP6R2IxbLP05QpYXng"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
         "name": "Double Platinum",
         "url": "https://open.spotify.com/album/6zYKTFZrrXc4dGKN6ua796"
       },
@@ -1523,6 +1491,22 @@
       "duration_ms": 215933,
       "name": "Detroit Rock City",
       "url": "https://open.spotify.com/track/4Q9WS9ARvL7rkokSbnhM96"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
+        "name": "Steppenwolf",
+        "url": "https://open.spotify.com/album/64q58AfjSrrX9Egp7Zryw8"
+      },
+      "artists": [
+        {
+          "name": "Steppenwolf",
+          "url": "https://open.spotify.com/artist/1WRM9i067hd2ujxxi8FI3m"
+        }
+      ],
+      "duration_ms": 212893,
+      "name": "Born To Be Wild - Single Version",
+      "url": "https://open.spotify.com/track/3lN8PP6R2IxbLP05QpYXng"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -1559,18 +1543,18 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
-        "name": "Drones",
-        "url": "https://open.spotify.com/album/2wart5Qjnvx1fd7LPdQxgJ"
+        "name": "1 (Remastered)",
+        "url": "https://open.spotify.com/album/7vEJAtP3KgKSpOHVgwm3Eh"
       },
       "artists": [
         {
-          "name": "Muse",
-          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
         }
       ],
-      "duration_ms": 316717,
-      "name": "Psycho",
-      "url": "https://open.spotify.com/track/383QXk8nb2YrARMUwDdjQS"
+      "duration_ms": 145746,
+      "name": "I Want To Hold Your Hand - Remastered 2015",
+      "url": "https://open.spotify.com/track/4pbG9SUmWIvsROVLF0zF9s"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -1591,22 +1575,6 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
-        "name": "Lunatic",
-        "url": "https://open.spotify.com/album/71C65HI7THrlkpHHa24YJX"
-      },
-      "artists": [
-        {
-          "name": "KONGOS",
-          "url": "https://open.spotify.com/artist/58R5LHkK3vkmEyGUPOR5kS"
-        }
-      ],
-      "duration_ms": 211960,
-      "name": "Come with Me Now",
-      "url": "https://open.spotify.com/track/2kWowW0k4oFymhkr7LmvzO"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
         "name": "Kinks (Deluxe Edition)",
         "url": "https://open.spotify.com/album/6HrqKlhAQiv4GjFjwmuxDQ"
       },
@@ -1619,6 +1587,38 @@
       "duration_ms": 133933,
       "name": "You Really Got Me",
       "url": "https://open.spotify.com/track/6tZdL3Zp8JgrfDbsSeSV1S"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
+        "name": "Drones",
+        "url": "https://open.spotify.com/album/2wart5Qjnvx1fd7LPdQxgJ"
+      },
+      "artists": [
+        {
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+        }
+      ],
+      "duration_ms": 316717,
+      "name": "Psycho",
+      "url": "https://open.spotify.com/track/383QXk8nb2YrARMUwDdjQS"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
+        "name": "Lunatic",
+        "url": "https://open.spotify.com/album/71C65HI7THrlkpHHa24YJX"
+      },
+      "artists": [
+        {
+          "name": "KONGOS",
+          "url": "https://open.spotify.com/artist/58R5LHkK3vkmEyGUPOR5kS"
+        }
+      ],
+      "duration_ms": 211960,
+      "name": "Come with Me Now",
+      "url": "https://open.spotify.com/track/2kWowW0k4oFymhkr7LmvzO"
     }
   ],
   "unique_name": "Pure Rock & Roll",

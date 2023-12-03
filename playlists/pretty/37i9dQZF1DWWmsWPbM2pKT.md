@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWmsWPbM2pKT.md) - [plain]
 
 > Obscure, dreamy and nostalgic synth sounds from all over the world.
 
-[Spotify](https://open.spotify.com/user/spotify) - 245,831 likes - 118 songs - 7 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 246,433 likes - 118 songs - 7 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,7 +69,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWmsWPbM2pKT.md) - [plain]
 | 59 | [Ivo](https://open.spotify.com/track/7anJBerQqBKIbbKvLf9eAq) | [Cocteau Twins](https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp) | [Treasure](https://open.spotify.com/album/7pBPB9vwqCMLKNmUCK4k62) | 3:53 |
 | 60 | [Distance](https://open.spotify.com/track/4jU6Vuq0e1KSc1vOAKL3k2) | [Rendez Vous](https://open.spotify.com/artist/4a118edzJsiImCyPCZk6mY) | [Distance](https://open.spotify.com/album/2snog7U5uihIur22blJwwg) | 3:29 |
 | 61 | [Over It](https://open.spotify.com/track/3Vkl2lLObnQ9LDohDopxHH) | [Future Nobodies](https://open.spotify.com/artist/4GMN5lzHF0l56piLOQXhBH) | [Apasionada / Over It](https://open.spotify.com/album/1p6XSjHnvwwbsQNUv2oCvq) | 2:49 |
-| 62 | [Beauty & The Beast](https://open.spotify.com/track/4y5lSLNph2pbhsGBtx6Ijy) | [Nyxjvh](https://open.spotify.com/artist/0qynm6lz4zZ8lJZygwfovX) | [Beauty & The Beast](https://open.spotify.com/album/2dCLlJHR37aJE8y8IYm4d9) | 2:48 |
+| 62 | [Beauty & The Beast](https://open.spotify.com/track/5AGLQ34xEnw1yJ50tttiGT) | [Nyxjvh](https://open.spotify.com/artist/0qynm6lz4zZ8lJZygwfovX) | [Beauty & The Beast](https://open.spotify.com/album/78cIMbjainUImpT5we3vPG) | 2:48 |
 | 63 | [Club De Vampiros](https://open.spotify.com/track/7yQbHXCnBieG8tLJj1SEiW) | [French Police](https://open.spotify.com/artist/75vqTLIltGApfI0NxcsJaC) | [Club De Vampiros](https://open.spotify.com/album/2xjEFklVuHKvJ0D3OKTsIL) | 3:09 |
 | 64 | [Die World](https://open.spotify.com/track/3ZLFDPE35lm04kHyJEfkLV) | [Lebanon Hanover](https://open.spotify.com/artist/6w8h2uD28BEdg7bX4k3Lh7) | [The World Is Getting Colder](https://open.spotify.com/album/4IJBHdhLNFx7UC1AXsXJAO) | 4:33 |
 | 65 | [Lucid Dreaming](https://open.spotify.com/track/7iQM3uHalxTDWF9yfnLWUY) | [Forever Grey](https://open.spotify.com/artist/3HSpbkijRqVAa1bn0hyEfz) | [Sympathy Garden](https://open.spotify.com/album/0lJDsMUvO0gnnYMEjISatI) | 2:35 |
@@ -127,4 +127,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWmsWPbM2pKT.md) - [plain]
 | 117 | [Bela Lugosi's Dead \(Official Version\)](https://open.spotify.com/track/1wyVyr8OhYsC9l0WgPPbh8) | [Bauhaus](https://open.spotify.com/artist/5N5tQ9Dx1h8Od7aRmGj7Fi) | [The Bela Session](https://open.spotify.com/album/5NhiaFlFGgymG2rDNqAcm1) | 9:36 |
 | 118 | [Dark Entries](https://open.spotify.com/track/67MkU3b7k2fBL6oHHUiM09) | [Bauhaus](https://open.spotify.com/artist/5N5tQ9Dx1h8Od7aRmGj7Fi) | [In the Flat Field](https://open.spotify.com/album/4hPJRedKOmbvKnLdzV9w1w) | 3:51 |
 
-Snapshot ID: `MCxlMjRkNmQ5MDBiOTJmMzkxZjQ0NDQ4NDEwNmQxMTIxMjZhMjgzODc5`
+Snapshot ID: `MCwyYzcyMWZmMDNkMThkNzIzNjBhNGQ5NDQzYjYzOGNiNWEyN2I4YWEz`

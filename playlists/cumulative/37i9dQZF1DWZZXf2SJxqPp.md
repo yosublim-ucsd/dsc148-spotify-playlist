@@ -4,7 +4,7 @@
 
 > Musiquita riqui para chillear y echarla junto a la piscina.
 
-132 songs - 8 hr 57 min
+133 songs - 9 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [Agua fría](https://open.spotify.com/track/7CSebbAAlgMqngWpEkhBl5) | [The Bongo Hop](https://open.spotify.com/artist/0vIM6xovGnCeWUNYR42Zsk), [Laurene P Magnani](https://open.spotify.com/artist/0DdaH7M6V1DWkqJpAbHDuE) | [Satingarona, Pt\. 2](https://open.spotify.com/album/1dZQRZHQUDcXHwZpKwZHF2) | 4:54 | 2023-03-20 |  |
 | [Aurora Dijo Adiós](https://open.spotify.com/track/2Z82k4TZ7rLmyxrw8ApeQI) | [YoSoyMatt](https://open.spotify.com/artist/0NYE6CFlP7ElQR6r395gbV), [French Braids](https://open.spotify.com/artist/5y8mGL7UFApHn1BotAfcj1), [Eva de Marce](https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E) | [Aurora Dijo Adiós](https://open.spotify.com/album/16k4HKRG2p2d3E7k6dmzHJ) | 3:41 | 2023-03-20 | 2023-07-29 |
 | [beachin](https://open.spotify.com/track/3urYUGRvToBI4u87OzsSMZ) | [piri](https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s), [Tommy Villiers](https://open.spotify.com/artist/4M4KGWKy7pSQ5HaJNCutBN), [piri & tommy](https://open.spotify.com/artist/2U6J9Q89i1TNhesKreFD65) | [froge.mp3](https://open.spotify.com/album/4AueWk2dGXqbMFx7ogEAs7) | 3:15 | 2023-05-25 |  |
+| [Beginning \- Totally Enormous Extinct Dinosaurs Remix](https://open.spotify.com/track/6DKILAX03B9oLWDaLkw1Vp) | [LA Priest](https://open.spotify.com/artist/2JYMUWD8r1jFFjD1V3WcCX), [Totally Enormous Extinct Dinosaurs](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [Beginning \(Totally Enormous Extinct Dinosaurs Remix\)](https://open.spotify.com/album/7DcdXnMiadzyxSlQnLIsCo) | 5:50 | 2023-08-14 |  |
 | [Beige 70 \- Domenique Dumont Bilingual Remix](https://open.spotify.com/track/1mslMFJL31XTXZG92ip11I) | [Cola Boyy](https://open.spotify.com/artist/6CZN3MHeeEXh5PxKZivIa8), [Domenique Dumont](https://open.spotify.com/artist/6kNluNBHa4sh5BKIvyiDgf) | [Beige 70 \(Domenique Dumont Bilingual Remix\)](https://open.spotify.com/album/2cQynjKHiS66OzKPm7zUox) | 4:22 | 2023-03-20 |  |
 | [Better When We're Close](https://open.spotify.com/track/3ZGIZOg6juy0TkF1Gy8Gzg) | [Poolside](https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c), [Brijean](https://open.spotify.com/artist/2TRNyrjoKJnqSc9G8jCZfb) | [Better When We're Close](https://open.spotify.com/album/3QAQLlcR4CVx9ySkuNNnah) | 3:33 | 2023-03-20 | 2023-10-01 |
 | [Black Catbird](https://open.spotify.com/track/6s9n8j05v6iezQO4vdlClA) | [the Garifuna Collective](https://open.spotify.com/artist/24OmLPZEq6dYiGJbPCAFVm) | [Black Catbird](https://open.spotify.com/album/2UAjju53cSRuITsu4DNepc) | 2:45 | 2023-03-20 |  |
@@ -28,7 +29,7 @@
 | [Carrossel Do Tempo](https://open.spotify.com/track/6R3a2hraPYMwVCHfRw9hNr) | [Polo & Pan](https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM), [Abrão](https://open.spotify.com/artist/58V5v9MFPcR1Ok4K6gVQsq) | [Carrossel Do Tempo](https://open.spotify.com/album/6NUf2RplmZ17qr6uDDUUVy) | 4:57 | 2023-10-24 |  |
 | [Ceci n'est pas un cliché](https://open.spotify.com/track/1usZqtTrEPNm8gvn1vN4T8) | [Charlotte Adigéry](https://open.spotify.com/artist/0h1gX589xBKUCijeC8Bewy), [Bolis Pupul](https://open.spotify.com/artist/0dSnTqwXok006MwsjjlzUl) | [Topical Dancer](https://open.spotify.com/album/4ivk3u8J7qg7YoWUZlnGNz) | 3:46 | 2023-03-20 |  |
 | [Chemicals](https://open.spotify.com/track/2ORvnjpTAXtyTKnaGAgFIv) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG) | [times](https://open.spotify.com/album/6WlRyrfOBZGYA5u5TmloKY) | 4:15 | 2023-03-20 |  |
-| [CooCool](https://open.spotify.com/track/6NRNXenSNtuo5vVkuAq7EN) | [Róisín Murphy](https://open.spotify.com/artist/3qwabfaWewpfli7hMNM3O8), [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg) | [The Universe](https://open.spotify.com/album/2JKrj31ZTIjy8voQ7azDzC) | 4:31 | 2023-06-02 |  |
+| [CooCool](https://open.spotify.com/track/6NRNXenSNtuo5vVkuAq7EN) | [Róisín Murphy](https://open.spotify.com/artist/3qwabfaWewpfli7hMNM3O8), [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg) | [The Universe](https://open.spotify.com/album/2JKrj31ZTIjy8voQ7azDzC) | 4:31 | 2023-06-02 | 2023-12-03 |
 | [Descends](https://open.spotify.com/track/0z5fkd9sWqGpQd6cr8y0dH) | [Weekend Affair](https://open.spotify.com/artist/0dZXa7OgcOzv3tNUagbKb7) | [Du rivage](https://open.spotify.com/album/1RRsys1mwPSPsA0qbWHIWD) | 3:34 | 2023-03-20 |  |
 | [Discoman](https://open.spotify.com/track/5YpB83TMSxvNw3F7SMikHq) | [YoSoyMatt](https://open.spotify.com/artist/0NYE6CFlP7ElQR6r395gbV), [French Braids](https://open.spotify.com/artist/5y8mGL7UFApHn1BotAfcj1), [Eva de Marce](https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E) | [Discoman](https://open.spotify.com/album/0A2nttPiJAdDfjkmt9l2vT) | 3:40 | 2023-03-20 |  |
 | [Dominoes](https://open.spotify.com/track/59rkTkputMqoxunf9IRzOc) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Volcano](https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv) | 2:57 | 2023-08-14 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Musicaliza tu sesi\u00f3n de videojuegos con estos versos de barrio.",
-  "num_followers": 187347,
+  "num_followers": 187513,
   "original_name": "Gaming Belic\u00f3n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlOTQ4ZTNlNjdhMDYwZDc4NTc0Y2I5M2JlNzJiNDdiODkwY2M1OGVk",
+  "snapshot_id": "MCwxY2I4NTQ4MTk3YjAwMzg0ODI3ODliMTc4ZmRjZDkzNmUwMmIzYTg2",
   "tracks": [
     {
       "added_at": "2023-11-24 06:00:00",
@@ -823,22 +823,6 @@
     {
       "added_at": "2023-11-24 06:00:00",
       "album": {
-        "name": "En La Nube",
-        "url": "https://open.spotify.com/album/1J6jzIMsRgkA6LkTfWxu7V"
-      },
-      "artists": [
-        {
-          "name": "Lefty Sm",
-          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
-        }
-      ],
-      "duration_ms": 212519,
-      "name": "En La Nube",
-      "url": "https://open.spotify.com/track/469SKsdluQm37fIYZpJzKF"
-    },
-    {
-      "added_at": "2023-11-24 06:00:00",
-      "album": {
         "name": "Andamos Francos",
         "url": "https://open.spotify.com/album/4CsfRkIYoAO2PwjUOSMdr2"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 125402,
       "name": "Andamos Francos",
       "url": "https://open.spotify.com/track/3MiLSG8Ewq2Q4kgnQVKnmV"
+    },
+    {
+      "added_at": "2023-11-24 06:00:00",
+      "album": {
+        "name": "En La Nube",
+        "url": "https://open.spotify.com/album/1J6jzIMsRgkA6LkTfWxu7V"
+      },
+      "artists": [
+        {
+          "name": "Lefty Sm",
+          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+        }
+      ],
+      "duration_ms": 212519,
+      "name": "En La Nube",
+      "url": "https://open.spotify.com/track/469SKsdluQm37fIYZpJzKF"
     },
     {
       "added_at": "2023-11-24 06:00:00",
@@ -1615,22 +1615,18 @@
     {
       "added_at": "2023-11-24 06:00:00",
       "album": {
-        "name": "Adentro de la Disco (feat. Myke Towers)",
-        "url": "https://open.spotify.com/album/2gRPPH31jHTGwhniJINHVr"
+        "name": "Cementerio De Raperos",
+        "url": "https://open.spotify.com/album/1YsMsdZg7RB9eYHhW8fi3h"
       },
       "artists": [
         {
-          "name": "Darell",
-          "url": "https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf"
-        },
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+          "name": "TREN LOKOTE",
+          "url": "https://open.spotify.com/artist/6DjBv6gyR1HLsvwGUOD5V9"
         }
       ],
-      "duration_ms": 192720,
-      "name": "Adentro de la Disco (feat. Myke Towers)",
-      "url": "https://open.spotify.com/track/2QJQJEI9WvhqQViGS58gZ7"
+      "duration_ms": 238210,
+      "name": "Corren Con Suerte",
+      "url": "https://open.spotify.com/track/68q0aAYzOkB3q3ahb11cYx"
     },
     {
       "added_at": "2023-11-24 06:00:00",
@@ -1651,18 +1647,22 @@
     {
       "added_at": "2023-11-24 06:00:00",
       "album": {
-        "name": "Cementerio De Raperos",
-        "url": "https://open.spotify.com/album/1YsMsdZg7RB9eYHhW8fi3h"
+        "name": "Adentro de la Disco (feat. Myke Towers)",
+        "url": "https://open.spotify.com/album/2gRPPH31jHTGwhniJINHVr"
       },
       "artists": [
         {
-          "name": "TREN LOKOTE",
-          "url": "https://open.spotify.com/artist/6DjBv6gyR1HLsvwGUOD5V9"
+          "name": "Darell",
+          "url": "https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
         }
       ],
-      "duration_ms": 238210,
-      "name": "Corren Con Suerte",
-      "url": "https://open.spotify.com/track/68q0aAYzOkB3q3ahb11cYx"
+      "duration_ms": 192720,
+      "name": "Adentro de la Disco (feat. Myke Towers)",
+      "url": "https://open.spotify.com/track/2QJQJEI9WvhqQViGS58gZ7"
     },
     {
       "added_at": "2023-11-24 06:00:00",
@@ -1867,6 +1867,22 @@
     {
       "added_at": "2023-11-24 06:00:00",
       "album": {
+        "name": "VRGCRA",
+        "url": "https://open.spotify.com/album/1ZpLpDdS8bX7Yd8ARkDfTx"
+      },
+      "artists": [
+        {
+          "name": "Eme MalaFe",
+          "url": "https://open.spotify.com/artist/4RFrAp13K0fHKH7IpSdKxi"
+        }
+      ],
+      "duration_ms": 238666,
+      "name": "VRGCRA",
+      "url": "https://open.spotify.com/track/0b7azY2RKZWzYStlCui40W"
+    },
+    {
+      "added_at": "2023-11-24 06:00:00",
+      "album": {
         "name": "Barrio (with Lefty Sm)",
         "url": "https://open.spotify.com/album/1ymuLQZcpThyYLQHMd701v"
       },
@@ -1883,22 +1899,6 @@
       "duration_ms": 144414,
       "name": "Barrio (with Lefty Sm)",
       "url": "https://open.spotify.com/track/4oxKEbn3OLrNCW5JciZKvn"
-    },
-    {
-      "added_at": "2023-11-24 06:00:00",
-      "album": {
-        "name": "VRGCRA",
-        "url": "https://open.spotify.com/album/1ZpLpDdS8bX7Yd8ARkDfTx"
-      },
-      "artists": [
-        {
-          "name": "Eme MalaFe",
-          "url": "https://open.spotify.com/artist/4RFrAp13K0fHKH7IpSdKxi"
-        }
-      ],
-      "duration_ms": 238666,
-      "name": "VRGCRA",
-      "url": "https://open.spotify.com/track/0b7azY2RKZWzYStlCui40W"
     },
     {
       "added_at": "2023-11-24 06:00:00",

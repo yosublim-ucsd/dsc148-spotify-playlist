@@ -1,12 +1,12 @@
 {
   "description": "Bossa Nova e MPB como acompanhamento / Bossa y m\u00fasica brasile\u00f1a para todo momento.",
-  "num_followers": 204095,
+  "num_followers": 204196,
   "original_name": "Caf\u00e9 Bossa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNmE3YzhjYzFkMTgwYzY5ZGVlNzlkN2Y1ODdlMWJkYzM0MWQ3Y2Iw",
+  "snapshot_id": "MCwyMTQ3NjM3NzRlZGU2ZDk5ZThhMjNkNjA0OTE1OTZiMjAyOWJjNTIw",
   "tracks": [
     {
       "added_at": "2023-11-24 08:43:33",
@@ -83,22 +83,6 @@
     {
       "added_at": "2023-11-24 08:43:33",
       "album": {
-        "name": "Light Dance",
-        "url": "https://open.spotify.com/album/0M1TSMQxxvXzHdH4ZtgLkZ"
-      },
-      "artists": [
-        {
-          "name": "Ennio M\u00e1no",
-          "url": "https://open.spotify.com/artist/257NeKIWsdypZxr0j4xnOs"
-        }
-      ],
-      "duration_ms": 219750,
-      "name": "Light Dance",
-      "url": "https://open.spotify.com/track/7wHsraPGARpUvcRW8holDn"
-    },
-    {
-      "added_at": "2023-11-24 08:43:33",
-      "album": {
         "name": "Elis & Tom",
         "url": "https://open.spotify.com/album/3SE9n6EaVOJ81KA1KPLUWS"
       },
@@ -115,6 +99,22 @@
       "duration_ms": 194030,
       "name": "Chovendo Na Roseira",
       "url": "https://open.spotify.com/track/4FwoSbAlyYBm2hsmAb6S7Q"
+    },
+    {
+      "added_at": "2023-11-24 08:43:33",
+      "album": {
+        "name": "Light Dance",
+        "url": "https://open.spotify.com/album/0M1TSMQxxvXzHdH4ZtgLkZ"
+      },
+      "artists": [
+        {
+          "name": "Ennio M\u00e1no",
+          "url": "https://open.spotify.com/artist/257NeKIWsdypZxr0j4xnOs"
+        }
+      ],
+      "duration_ms": 219750,
+      "name": "Light Dance",
+      "url": "https://open.spotify.com/track/7wHsraPGARpUvcRW8holDn"
     },
     {
       "added_at": "2023-11-24 08:43:33",
@@ -839,22 +839,6 @@
     {
       "added_at": "2023-11-24 08:43:33",
       "album": {
-        "name": "Depressa a Vida Passa",
-        "url": "https://open.spotify.com/album/1lDrbSt52KH4mRi4U3HvRH"
-      },
-      "artists": [
-        {
-          "name": "Renato Braz",
-          "url": "https://open.spotify.com/artist/69urXE3DptYZDfblOG15D5"
-        }
-      ],
-      "duration_ms": 293560,
-      "name": "Depressa a Vida Passa",
-      "url": "https://open.spotify.com/track/4CEYFrHQhdutercm6HahHo"
-    },
-    {
-      "added_at": "2023-11-24 08:43:33",
-      "album": {
         "name": "Da Hora",
         "url": "https://open.spotify.com/album/7nPkLH5JVbbc1mvesc6cGi"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 275574,
       "name": "Nada \u00e9 Melhor Do Que Voc\u00ea",
       "url": "https://open.spotify.com/track/5av3enKGwy5cfBKX8dpQ4r"
+    },
+    {
+      "added_at": "2023-11-24 08:43:33",
+      "album": {
+        "name": "Depressa a Vida Passa",
+        "url": "https://open.spotify.com/album/1lDrbSt52KH4mRi4U3HvRH"
+      },
+      "artists": [
+        {
+          "name": "Renato Braz",
+          "url": "https://open.spotify.com/artist/69urXE3DptYZDfblOG15D5"
+        }
+      ],
+      "duration_ms": 293560,
+      "name": "Depressa a Vida Passa",
+      "url": "https://open.spotify.com/track/4CEYFrHQhdutercm6HahHo"
     },
     {
       "added_at": "2023-11-24 08:43:33",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2023-11-24 08:43:33",
       "album": {
-        "name": "Storytellers",
-        "url": "https://open.spotify.com/album/79Nec7JBai5QMAC0PX81ic"
-      },
-      "artists": [
-        {
-          "name": "Luciana Souza",
-          "url": "https://open.spotify.com/artist/0cv8X9QNT0s3OHfVVeNWkM"
-        }
-      ],
-      "duration_ms": 310680,
-      "name": "Se Acontecer",
-      "url": "https://open.spotify.com/track/1PuqbHqhn1uGiT6xTyt4hw"
-    },
-    {
-      "added_at": "2023-11-24 08:43:33",
-      "album": {
         "name": "Terra-M\u00e3e",
         "url": "https://open.spotify.com/album/6SmTAi6TI6ZMaovyx2VlCW"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 216701,
       "name": "Brasil Geral",
       "url": "https://open.spotify.com/track/188rIbFjJNm4jfGQspEk1P"
+    },
+    {
+      "added_at": "2023-11-24 08:43:33",
+      "album": {
+        "name": "Storytellers",
+        "url": "https://open.spotify.com/album/79Nec7JBai5QMAC0PX81ic"
+      },
+      "artists": [
+        {
+          "name": "Luciana Souza",
+          "url": "https://open.spotify.com/artist/0cv8X9QNT0s3OHfVVeNWkM"
+        }
+      ],
+      "duration_ms": 310680,
+      "name": "Se Acontecer",
+      "url": "https://open.spotify.com/track/1PuqbHqhn1uGiT6xTyt4hw"
     },
     {
       "added_at": "2023-11-24 08:43:33",
@@ -1279,18 +1279,22 @@
     {
       "added_at": "2023-11-24 08:43:33",
       "album": {
-        "name": "Hoje",
-        "url": "https://open.spotify.com/album/6CRvZxZavDdvzqjJbVcx2I"
+        "name": "M\u00fasicas para Travessia",
+        "url": "https://open.spotify.com/album/3E54CQmm6J2Ge6onPSlytt"
       },
       "artists": [
         {
-          "name": "Francis Hime",
-          "url": "https://open.spotify.com/artist/0fSXB6V1mhguJCAN7pLzu6"
+          "name": "Haroldo Bontempo",
+          "url": "https://open.spotify.com/artist/37Jxddw5IgpNlQz5e1GoJ9"
+        },
+        {
+          "name": "Lina Lanna",
+          "url": "https://open.spotify.com/artist/1wFynWZoJBFoyqtise048F"
         }
       ],
-      "duration_ms": 234973,
-      "name": "Samba Dolente",
-      "url": "https://open.spotify.com/track/6qbo26M43ipM0bTF5SgzzR"
+      "duration_ms": 124088,
+      "name": "Na Casa do Jornalista",
+      "url": "https://open.spotify.com/track/7DGTvZ3g9O825bhSRMhOaC"
     },
     {
       "added_at": "2023-11-24 08:43:33",
@@ -1311,22 +1315,38 @@
     {
       "added_at": "2023-11-24 08:43:33",
       "album": {
-        "name": "M\u00fasicas para Travessia",
-        "url": "https://open.spotify.com/album/3E54CQmm6J2Ge6onPSlytt"
+        "name": "Hoje",
+        "url": "https://open.spotify.com/album/6CRvZxZavDdvzqjJbVcx2I"
       },
       "artists": [
         {
-          "name": "Haroldo Bontempo",
-          "url": "https://open.spotify.com/artist/37Jxddw5IgpNlQz5e1GoJ9"
-        },
-        {
-          "name": "Lina Lanna",
-          "url": "https://open.spotify.com/artist/1wFynWZoJBFoyqtise048F"
+          "name": "Francis Hime",
+          "url": "https://open.spotify.com/artist/0fSXB6V1mhguJCAN7pLzu6"
         }
       ],
-      "duration_ms": 124088,
-      "name": "Na Casa do Jornalista",
-      "url": "https://open.spotify.com/track/7DGTvZ3g9O825bhSRMhOaC"
+      "duration_ms": 234973,
+      "name": "Samba Dolente",
+      "url": "https://open.spotify.com/track/6qbo26M43ipM0bTF5SgzzR"
+    },
+    {
+      "added_at": "2023-11-24 08:43:33",
+      "album": {
+        "name": "Navegante - Dudu Sperb Recebe Guinga",
+        "url": "https://open.spotify.com/album/0joPmEYgF2tleXLSTt2ZOT"
+      },
+      "artists": [
+        {
+          "name": "Guinga",
+          "url": "https://open.spotify.com/artist/5eTFGhsuJJrmwAF2ttmgOl"
+        },
+        {
+          "name": "Dudu Sperb",
+          "url": "https://open.spotify.com/artist/4jYtPDKiCaUGHZWwua1uSf"
+        }
+      ],
+      "duration_ms": 285613,
+      "name": "Choro Pro Z\u00e9",
+      "url": "https://open.spotify.com/track/3OXUEy3N0ZsQKcxy5x1VwG"
     },
     {
       "added_at": "2023-11-24 08:43:33",
@@ -1355,26 +1375,6 @@
       "duration_ms": 267488,
       "name": "Choro de Ver\u00e3o",
       "url": "https://open.spotify.com/track/6wn4H2ORKskGU81H6Hpook"
-    },
-    {
-      "added_at": "2023-11-24 08:43:33",
-      "album": {
-        "name": "Navegante - Dudu Sperb Recebe Guinga",
-        "url": "https://open.spotify.com/album/0joPmEYgF2tleXLSTt2ZOT"
-      },
-      "artists": [
-        {
-          "name": "Guinga",
-          "url": "https://open.spotify.com/artist/5eTFGhsuJJrmwAF2ttmgOl"
-        },
-        {
-          "name": "Dudu Sperb",
-          "url": "https://open.spotify.com/artist/4jYtPDKiCaUGHZWwua1uSf"
-        }
-      ],
-      "duration_ms": 285613,
-      "name": "Choro Pro Z\u00e9",
-      "url": "https://open.spotify.com/track/3OXUEy3N0ZsQKcxy5x1VwG"
     },
     {
       "added_at": "2023-11-24 08:43:33",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2023-11-24 08:43:33",
       "album": {
-        "name": "O Amor \u00e9 um Segredo Z\u00e9 Renato canta Paulinho da Viola",
-        "url": "https://open.spotify.com/album/7Mk4XTh9NVPd9mJMIW9v7e"
-      },
-      "artists": [
-        {
-          "name": "Z\u00e9 Renato",
-          "url": "https://open.spotify.com/artist/4qKsdS2IGIfnj00bQRP2mL"
-        }
-      ],
-      "duration_ms": 172949,
-      "name": "Um Caso Perdido",
-      "url": "https://open.spotify.com/track/4iRdzybP9SgiBqFrdRjVg6"
-    },
-    {
-      "added_at": "2023-11-24 08:43:33",
-      "album": {
         "name": "A Banca do Distinto",
         "url": "https://open.spotify.com/album/5xWkhmNrlCtTfj8BOSSClj"
       },
@@ -1511,6 +1495,22 @@
       "duration_ms": 152338,
       "name": "A Banca do Distinto",
       "url": "https://open.spotify.com/track/7kM9MuAIlRY3h0I8JnO68F"
+    },
+    {
+      "added_at": "2023-11-24 08:43:33",
+      "album": {
+        "name": "O Amor \u00e9 um Segredo Z\u00e9 Renato canta Paulinho da Viola",
+        "url": "https://open.spotify.com/album/7Mk4XTh9NVPd9mJMIW9v7e"
+      },
+      "artists": [
+        {
+          "name": "Z\u00e9 Renato",
+          "url": "https://open.spotify.com/artist/4qKsdS2IGIfnj00bQRP2mL"
+        }
+      ],
+      "duration_ms": 172949,
+      "name": "Um Caso Perdido",
+      "url": "https://open.spotify.com/track/4iRdzybP9SgiBqFrdRjVg6"
     },
     {
       "added_at": "2023-11-24 08:43:33",

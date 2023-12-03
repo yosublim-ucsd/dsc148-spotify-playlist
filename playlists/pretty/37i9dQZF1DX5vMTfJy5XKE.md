@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5vMTfJy5XKE.md) - [plain]
 
 > 'Tis the season! All new holiday releases\. Cover: Cher
 
-[Spotify](https://open.spotify.com/user/spotify) - 236,766 likes - 181 songs - 9 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 237,284 likes - 181 songs - 9 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5vMTfJy5XKE.md) - [plain]
 | 40 | [The Christmas Song](https://open.spotify.com/track/2VAITp078MLx0m5imRy3L5) | [JOSEPH](https://open.spotify.com/artist/5Wfvw7rDz7HA6gE2z6QhqO) | [The Christmas Song](https://open.spotify.com/album/5HcrrXCDiHybXTeASQruiL) | 2:53 |
 | 41 | [Merry Christmas, I Love You](https://open.spotify.com/track/05Nt0XCxYOCyr01G56AWVq) | [Robert Finley](https://open.spotify.com/artist/29mRqqZ15WaYjEsKNzcRkv) | [Merry Christmas, I Love You](https://open.spotify.com/album/0i4r4sJaZCyvgndUdMEXWI) | 2:57 |
 | 42 | [The Little Drummer Boy](https://open.spotify.com/track/3PS3si74boOaOC6zxf858B) | [Villagers](https://open.spotify.com/artist/2m1l9MLSslzup4vvokKgvQ), [Lisa Hannigan](https://open.spotify.com/artist/0z7Yuv7DuDQ5SaVn4VSlLt) | [The Little Drummer Boy](https://open.spotify.com/album/31DWNerPyDK7QIpaT3FAWF) | 2:56 |
-| 43 | [Greatest Gift](https://open.spotify.com/track/3NbSZ8YBpCpnDEdLMeEOtv) | [Adam Blackstone](https://open.spotify.com/artist/01qe6O86TULkQwNofn1zgs), [Boyz II Men](https://open.spotify.com/artist/6O74knDqdv3XaWtkII7Xjp) | [A Legacy Christmas](https://open.spotify.com/album/1YxEqMNJy5J9kZiMzG5iLA) | 4:27 |
+| 43 | [Greatest Gift](https://open.spotify.com/track/3NbSZ8YBpCpnDEdLMeEOtv) | [Adam Blackstone](https://open.spotify.com/artist/01qe6O86TULkQwNofn1zgs), [Boyz II Men](https://open.spotify.com/artist/6O74knDqdv3XaWtkII7Xjp) | [A Legacy Christmas](https://open.spotify.com/album/1YxEqMNJy5J9kZiMzG5iLA) | 4:25 |
 | 44 | [Closer To Christmas](https://open.spotify.com/track/6VUHVDpHctDMY0nhtSSzIt) | [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [Closer To Christmas](https://open.spotify.com/album/1PxZd6H4nwkimCB7GEbLYv) | 3:12 |
 | 45 | [The Man With The Bag](https://open.spotify.com/track/0aOVq9nUd7V1ZQaBJOzksy) | [Julie Benko](https://open.spotify.com/artist/2VxiprvyXzmROUx8sObjkO) | [The Man With The Bag](https://open.spotify.com/album/10hvp4CsZXetsllRbQ0K6c) | 2:59 |
 | 46 | [When It's December](https://open.spotify.com/track/6CtmwNoZ7K2er6hgH6rzEe) | [Savannah Sgro](https://open.spotify.com/artist/5aj9AKqFL0JpL2sQ8Q2irp) | [When It's December](https://open.spotify.com/album/3la1KzoRzhZQaRdzblcBRO) | 2:41 |
@@ -190,4 +190,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5vMTfJy5XKE.md) - [plain]
 | 180 | [Please Come Home for Christmas](https://open.spotify.com/track/3GZwaCUpDIOtZxZF7AbQLz) | [Aqyila](https://open.spotify.com/artist/4cXLEhsZ1W4T6qBiDYVih4) | [Please Come Home for Christmas](https://open.spotify.com/album/6vRbT0SJ0jkIj66OT4yrs8) | 2:45 |
 | 181 | [At Least I Have Santa](https://open.spotify.com/track/78InQyI314pCq9GVTrUBib) | [Jackie Evancho](https://open.spotify.com/artist/7FukyKMUPL10mDN9LgAngI) | [At Least I Have Santa](https://open.spotify.com/album/6cpaLiEmVaQrpPUPiAePDF) | 3:24 |
 
-Snapshot ID: `MCxiMTVmYzc0YWY2MGQwMzcwNTcxYTcwNGViY2UzZTE5MDgwOWI3YTk2`
+Snapshot ID: `MCxjZTA5Y2QzYzZhZTFhM2Q1YTRhMGQyYTI1YjE1ZmRmNmY1ZDgyNzVi`

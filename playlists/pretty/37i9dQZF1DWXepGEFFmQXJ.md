@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXepGEFFmQXJ.md) - [plain]
 
 > The cream of today's Country crop\. Cover: Zac & George
 
-[Spotify](https://open.spotify.com/user/spotify) - 372,440 likes - 84 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 372,552 likes - 84 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,4 +93,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXepGEFFmQXJ.md) - [plain]
 | 83 | [Take Me Home](https://open.spotify.com/track/2nuAkoDw5i0jLogecydq1y) | [Loren Ryan](https://open.spotify.com/artist/7feL5IApbaRD52R2efI9NG) | [Take Me Home](https://open.spotify.com/album/01Y0pBzYfnlxvcjG9HxCym) | 2:58 |
 | 84 | [Dance With You](https://open.spotify.com/track/5SIb4S2seQAeCHPXxiNHBL) | [Brett Young](https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0) | [Dance With You](https://open.spotify.com/album/7rbVJCe9cnXniQ9cgJW7lp) | 3:03 |
 
-Snapshot ID: `MCxlY2Q5MmQ2Mzc2MGQwN2Y5MWE4Y2ZiOTJiYTU4ZWVkOGJkYjIyZTIw`
+Snapshot ID: `MCxiY2ViYWFjMzdiYjNjY2IyMzBlMmFiNTUwODEwYWI4YjIwNDExYjk3`

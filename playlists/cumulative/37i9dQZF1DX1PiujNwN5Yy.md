@@ -4,7 +4,7 @@
 
 > Sad songs just 4 you para los días tristes.
 
-185 songs - 10 hr 36 min
+187 songs - 10 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,7 +45,7 @@
 | [Cuando lloras \(feat\. David Rees\)](https://open.spotify.com/track/5xpBHHSL7zwrZfE9QnqHI2) | [Despistaos](https://open.spotify.com/artist/0QE9iXPzgSaBq34OqIZ4n2), [David Rees](https://open.spotify.com/artist/2CQHyfluB4mliyv193Qn2L) | [Cuando lloras \(feat\. David Rees\)](https://open.spotify.com/album/7uDxV8cJyWJGai8ARnYSbZ) | 3:17 | 2021-12-06 | 2022-11-13 |
 | [culpa](https://open.spotify.com/track/7nByHsiIV08TNL6hG4nBBs) | [Valeria Castro](https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD) | [chiquita](https://open.spotify.com/album/4K29NpImQBdRlngO3NhNbK) | 3:18 | 2021-12-06 |  |
 | [cómo acaba](https://open.spotify.com/track/0wYkvjpi6tOpJfulqKSOD7) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [cómo acaba](https://open.spotify.com/album/1dCY4CPTeDesR7wjISYMbw) | 3:44 | 2021-12-06 |  |
-| [Cóseme \(2:22am\)](https://open.spotify.com/track/30Ezk8NvcRzLL4PWcj6RYL) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY) | [Dos y Veintidós](https://open.spotify.com/album/2NNHr7gzX5UIxW1tJpArpp) | 2:49 | 2021-12-06 |  |
+| [Cóseme \(2:22am\)](https://open.spotify.com/track/30Ezk8NvcRzLL4PWcj6RYL) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY) | [Dos y Veintidós](https://open.spotify.com/album/2NNHr7gzX5UIxW1tJpArpp) | 2:49 | 2021-12-06 | 2023-12-03 |
 | [De Mi Para Ti](https://open.spotify.com/track/3Mjv5UetR0Xh7qKUskkgrU) | [Maria Blaya](https://open.spotify.com/artist/0Ln3BisQiL0t2w7bsmju75) | [De Mi Para Ti](https://open.spotify.com/album/75ho9sVgUA63TS3FUw9qWO) | 2:57 | 2021-12-06 | 2022-07-29 |
 | [De Mi Para Ti](https://open.spotify.com/track/6l4xmyJ1a9sjjZjnaKzq7t) | [Maria Blaya](https://open.spotify.com/artist/0Ln3BisQiL0t2w7bsmju75) | [Silencio](https://open.spotify.com/album/7Lzac5wLxNo3PJOviNF59D) | 2:57 | 2022-05-03 |  |
 | [De Mí](https://open.spotify.com/track/4Si4I7aAPl7liGtTWlIYKN) | [Dromedarios Mágicos](https://open.spotify.com/artist/3UP83Ekm9Jse6j0dWZJlH9), [Ed Maverick](https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT) | [Subcampeón](https://open.spotify.com/album/0n25eeakMD41p1JUUlUinE) | 3:50 | 2021-12-06 |  |
@@ -160,14 +160,16 @@
 | [Sweat](https://open.spotify.com/track/6pULE9MZf21WIsVi3fKlOq) | [RY X](https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV) | [Dawn](https://open.spotify.com/album/0DvauBOn2G8RIEQR54Cmiv) | 3:59 | 2022-05-03 |  |
 | [T la Sudo \(Demo\)](https://open.spotify.com/track/1Vyf9dBD7DzVWobiEbHoKx) | [Sebastián Cortés](https://open.spotify.com/artist/3BCFlhrVzBKHbzBnWr13d9), [Roy Borland](https://open.spotify.com/artist/5Vr2AKX7BHkLTslxmuSMF7) | [T la Sudo \(Demo\)](https://open.spotify.com/album/35avDyqo3YuTl3panFpyFz) | 3:05 | 2021-12-06 |  |
 | [Take All Your Things](https://open.spotify.com/track/0Z6JPPinWTnMr2IewL15J2) | [St Woods](https://open.spotify.com/artist/7Cj0psFxm34eneGRVePhDI) | [Bones](https://open.spotify.com/album/1wIySeB9NtReed6unvzzm8) | 3:36 | 2021-12-06 | 2022-12-03 |
+| [Tal Vez](https://open.spotify.com/track/1XuZAls4De2DDJmg4MMbWl) | [3AM](https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D) | [Lluvia: Rain City Vol.2](https://open.spotify.com/album/1d3pKhYKoQ2d32Exs3wTyr) | 2:39 | 2023-11-17 |  |
 | [Tal Vez](https://open.spotify.com/track/2roQw5McQNlTzAu2dGGL14) | [3AM](https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D) | [Tal Vez](https://open.spotify.com/album/7pdEfZI6mGWqdwJCxzP0YB) | 2:39 | 2021-12-06 | 2023-04-13 |
-| [Tal Vez](https://open.spotify.com/track/6nm1A7TSAYLkCTmrdYAWp5) | [3AM](https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D) | [Tal Vez](https://open.spotify.com/album/3kE68K2LF8KdxJr2B2IoDw) | 2:39 | 2023-04-14 |  |
+| [Tal Vez](https://open.spotify.com/track/6nm1A7TSAYLkCTmrdYAWp5) | [3AM](https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D) | [Tal Vez](https://open.spotify.com/album/3kE68K2LF8KdxJr2B2IoDw) | 2:39 | 2023-04-14 | 2023-12-03 |
 | [te echo de menos </3](https://open.spotify.com/track/2cI9at8yZOA69znRNFFyOe) | [Covi Quintana](https://open.spotify.com/artist/2sSqkk6j5gRa7MzeQqMfIN) | [te echo de menos </3](https://open.spotify.com/album/0J9M2VOvAoiw3eC46vWOsr) | 3:01 | 2021-12-06 | 2022-07-29 |
 | [te echo de menos </3](https://open.spotify.com/track/7uf1a5JCGKgNoDj5hv1rFM) | [Covi Quintana](https://open.spotify.com/artist/2sSqkk6j5gRa7MzeQqMfIN) | [Mañana Te Escribo Otra Canción](https://open.spotify.com/album/13fka9ET1RGpC4jQx2W9kE) | 3:01 | 2022-05-03 | 2023-05-08 |
 | [TE FALLÉ](https://open.spotify.com/track/72zlIdJhtXtlnORjUcpxMz) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [TE FALLÉ](https://open.spotify.com/album/523VR8HZeb6r9sgCVNnMxM) | 3:17 | 2023-04-18 |  |
 | [Te Guardo](https://open.spotify.com/track/1cvSHX6jBzX93A6b6Q1j3K) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Primeras Canciones](https://open.spotify.com/album/2MTdMQ9S3ro39aKgQMmms3) | 3:21 | 2022-05-03 |  |
 | [Te Guardo](https://open.spotify.com/track/5fGIyvtxYc7BiijDvqOFGN) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Primeras Canciones](https://open.spotify.com/album/0R07UR8xJxMDwx6PCvp4XT) | 3:21 | 2021-12-06 | 2022-07-29 |
 | [TE PERDÍ](https://open.spotify.com/track/1Pe2xnS2FndbzQ0TNAFwXk) | [Fabiø Guerra](https://open.spotify.com/artist/3rQkoi7yo0Repzlzn4fMkp) | [TE PERDÍ](https://open.spotify.com/album/4s69BmjZT7AVIFve6CNyar) | 2:25 | 2023-08-17 | 2023-11-16 |
+| [Te Perdí](https://open.spotify.com/track/6l9PUb0ZwPNHTQTbCwHE71) | [Fabiø Guerra](https://open.spotify.com/artist/3rQkoi7yo0Repzlzn4fMkp) | [TE PERDI](https://open.spotify.com/album/6YNIkPiYZTbn08p4aANvHh) | 2:25 | 2023-11-17 |  |
 | [The Top](https://open.spotify.com/track/5a8zFeKUi02rwbKlMZeNiZ) | [Eva McBel](https://open.spotify.com/artist/1eh2IiirE7f7OZmcl20USQ) | [Some Kind of Portrait](https://open.spotify.com/album/5LJikFN5KojJ6tOKmy7r8m) | 3:47 | 2021-12-06 | 2022-12-15 |
 | [Those Three Words](https://open.spotify.com/track/46p5bbYFwaSN8C4OQORncK) | [Portair](https://open.spotify.com/artist/5eNDu0xRakAeO0Za8pRIuG) | [Those Three Words](https://open.spotify.com/album/7JfmBY9dnN5oxHSJKUnIt3) | 3:22 | 2022-08-01 | 2022-12-03 |
 | [Toda Esta Ciudad](https://open.spotify.com/track/7axrsgYy5Zf4UkpZ4FrKba) | [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [Toda Esta Ciudad](https://open.spotify.com/album/0gKz4zcMdN2BtVwEhthisC) | 5:20 | 2021-12-06 |  |

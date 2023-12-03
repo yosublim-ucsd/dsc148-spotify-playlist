@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUMLjiL1O98s.md) - [plain]
 
 > La nueva ola del Afrobeats con un toque latino\. Feid y Rema en portada
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,913 likes - 100 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,916 likes - 100 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,7 +61,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUMLjiL1O98s.md) - [plain]
 | 51 | [Bea](https://open.spotify.com/track/1SMBj0m4IL03ExtIbCHJMs) | [Malaka](https://open.spotify.com/artist/2IFT6Pp5gkM7cA6TO48VCD), [Wampi](https://open.spotify.com/artist/31BgFzpxI5OFoq7R5xjtwf), [El Bandolero](https://open.spotify.com/artist/5bSI7DmMQFvDRkV8RMe2wB) | [Bea](https://open.spotify.com/album/7pqnjrENDHvgfxJbo392yL) | 2:48 |
 | 52 | [Despecho](https://open.spotify.com/track/4iqoaXqkaLvPOqagS3Gh7r) | [BARBEL](https://open.spotify.com/artist/6oYwraA8pyfDH4Otny6ooZ), [Kendall Brown](https://open.spotify.com/artist/67YvgO6sQgQQPrFhPESewC), [Caleb Rs](https://open.spotify.com/artist/3HcmYyZ26lw8nyF4adbkcK) | [Despecho](https://open.spotify.com/album/5f0xkA2fkluMBJ7Z9mKDC1) | 4:44 |
 | 53 | [Tu](https://open.spotify.com/track/7yjKBCdDFM6mrwxsOK5iYM) | [IzyBeats](https://open.spotify.com/artist/1KkjdXDKJ6w8p2XAtTJ5Sn), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B), [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD) | [Tu](https://open.spotify.com/album/3OQ7OIIIWGjdHCBzZwDMbH) | 3:21 |
-| 54 | [Antojo \(DELUXE\)](https://open.spotify.com/track/3PDPm7FgXdz05yuKRby8A3) | [Criss & Ronny](https://open.spotify.com/artist/04byNS8WxNRTr1Fy2oQPrq), [Hamilton](https://open.spotify.com/artist/56xde3bnvx5G7v6Grx4985), [El Gerard](https://open.spotify.com/artist/6xGOuZE1ShpnIkO2JwHK0P), [La Colectiva Élite](https://open.spotify.com/artist/73RwFq5bmYCM3FRdYuuuHa) | [Antojo \(DELUXE\)](https://open.spotify.com/album/5OK6qhRZ8488geB2TdD9Vz) | 3:03 |
+| 54 | [Antojo \(DELUXE\)](https://open.spotify.com/track/0FTOeXnyvHAa5RY3hGV8xM) | [Criss & Ronny](https://open.spotify.com/artist/04byNS8WxNRTr1Fy2oQPrq), [Hamilton](https://open.spotify.com/artist/56xde3bnvx5G7v6Grx4985), [El Gerard](https://open.spotify.com/artist/6xGOuZE1ShpnIkO2JwHK0P), [La Colectiva Élite](https://open.spotify.com/artist/73RwFq5bmYCM3FRdYuuuHa) | [Antojo \(DELUXE\)](https://open.spotify.com/album/1Yx1AWSUOCfFJtUWc2JsM2) | 3:03 |
 | 55 | [Rosalia](https://open.spotify.com/track/0R9rf3OFri2zYFJssbkFyn) | [Dice Ailes](https://open.spotify.com/artist/6k96FH3t0HYJRLaMi3TNXa), [Kaydy Cain](https://open.spotify.com/artist/4nXXIxTneJksvGXrlmX8oA) | [Ladies First](https://open.spotify.com/album/5OXAbuAjAWGqE6sBQyRDJU) | 3:01 |
 | 56 | [Maria Elegante \(feat\. Afro B\)](https://open.spotify.com/track/2OU6RxOSA8n7nDpg3gF3aX) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Afro B](https://open.spotify.com/artist/7oMRcCu0OYSCtCyS3P37iC) | [Versions of Me](https://open.spotify.com/album/2TPl41Riu1SDbHoxhCIo2D) | 3:06 |
 | 57 | [Love magnético](https://open.spotify.com/track/4MbL0l5lpzXkUgf6fr7Eia) | [Maraví](https://open.spotify.com/artist/7ywfcCHkPBdIZub9j62NBj) | [Love magnético](https://open.spotify.com/album/31hkeNma4uQrU3VVfeRDjZ) | 2:52 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUMLjiL1O98s.md) - [plain]
 | 99 | [Síntomas](https://open.spotify.com/track/2QBpWDBpXFHMqGDpzloz5O) | [Gotex](https://open.spotify.com/artist/5GxbVXNNU8HJA7JX6Z18tl) | [Latidos](https://open.spotify.com/album/5YiqfVXsekY2Vxb4MGtSCG) | 3:00 |
 | 100 | [OMA](https://open.spotify.com/track/2tnb6KLgg0e3NCtvLkoer1) | [ZERO](https://open.spotify.com/artist/66l0RF4YIJeNNTZzqdP6ew) | [OMA](https://open.spotify.com/album/2197Q17orIgTBhVYZ01PwU) | 2:24 |
 
-Snapshot ID: `MCw4MWEwMTE4NWUxODQyYjQ0NTIxYzU0MmFjZGI2MjZlMzhkMTRmOWIw`
+Snapshot ID: `MCw5MzU3OGY5ZjRhYzEwNzEzNmFlMzY1NzJjZDIzNGVlOTcyM2Y5NDFh`

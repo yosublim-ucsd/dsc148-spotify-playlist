@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5iwIl2oN1P1.md) - [plain]
 
 > Get your Sunday sound right with this collection of current Gospel essentials.
 
-[Spotify](https://open.spotify.com/user/spotify) - 96,070 likes - 60 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,145 likes - 60 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,8 +16,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5iwIl2oN1P1.md) - [plain]
 | 6 | [I'm Getting Ready](https://open.spotify.com/track/5RjS5iW0FWn1U4ZaWjhLlP) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Heart\. Passion\. Pursuit.](https://open.spotify.com/album/39UpQWkYwByspw53CTZDis) | 8:26 |
 | 7 | [Love Theory](https://open.spotify.com/track/2Yfkjb3z3pN9DfS1yE0b3Y) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [LONG LIVE LOVE](https://open.spotify.com/album/0n0B8fefGF2CiVyNktbapt) | 4:11 |
 | 8 | [Made A Way](https://open.spotify.com/track/7gricPHxqsVEq1Lml7BFVu) | [Travis Greene](https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe) | [The Hill](https://open.spotify.com/album/2RJxSCEQJGBeJHej3IM2cV) | 9:51 |
-| 9 | [You Are Good](https://open.spotify.com/track/3Rn2n87UEQV0YxDCxvqSI8) | [Israel Houghton](https://open.spotify.com/artist/7pUnaNwiKa3p27L1EwB4X6) | [Decade](https://open.spotify.com/album/6oRlsJuXGdngrivhSqAq75) | 5:22 |
-| 10 | [Victory Belongs To Jesus](https://open.spotify.com/track/4bJM66nNeI2TZ1cSRKpLfm) | [Todd Dulaney](https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz) | [A Worshipper's Heart](https://open.spotify.com/album/5xaGK6HOJPPpRlcQEDVBfJ) | 5:44 |
+| 9 | [Victory Belongs To Jesus](https://open.spotify.com/track/4bJM66nNeI2TZ1cSRKpLfm) | [Todd Dulaney](https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz) | [A Worshipper's Heart](https://open.spotify.com/album/5xaGK6HOJPPpRlcQEDVBfJ) | 5:44 |
+| 10 | [You Are Good](https://open.spotify.com/track/3Rn2n87UEQV0YxDCxvqSI8) | [Israel Houghton](https://open.spotify.com/artist/7pUnaNwiKa3p27L1EwB4X6) | [Decade](https://open.spotify.com/album/6oRlsJuXGdngrivhSqAq75) | 5:22 |
 | 11 | [In Jesus Name](https://open.spotify.com/track/08MelkdJqbh68USUjAfr2T) | [Israel & New Breed](https://open.spotify.com/artist/77HU1Zb1VDIFvWKteJii0E) | [Covered: Alive In Asia \(Deluxe Version\)](https://open.spotify.com/album/2XHkWEJaHIrMfpKTMGr4wb) | 6:24 |
 | 12 | [You Deserve It \(feat\. Bishop Cortez Vaughn\)](https://open.spotify.com/track/6FeGkKpsH1ht2GRDCEa0O2) | [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD), [Bishop Cortez Vaughn](https://open.spotify.com/artist/5AkeEGPP5D9gUO61YH59Lz) | [You Deserve It \(Deluxe Edition\)](https://open.spotify.com/album/0NlDLxMWZfaAAbAmWTD7pP) | 6:05 |
 | 13 | [Brighter Day \- Live at Lakewood Church, Houston, TX \- June 16, 2000](https://open.spotify.com/track/5qFDlKHNb0v68YSghSY4GK) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [The Rebirth Of Kirk Franklin \(Live\)](https://open.spotify.com/album/1OSCxbStNDOwBaZIXcivce) | 5:40 |
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5iwIl2oN1P1.md) - [plain]
 | 19 | [I Love The Lord \(with Georgia Mass Choir\)](https://open.spotify.com/track/2xrXUa8o1JJtz8nobY2UsY) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP), [The Georgia Mass Choir](https://open.spotify.com/artist/1CdyK67jEL4DXXsmp8vFfN) | [The Preacher's Wife](https://open.spotify.com/album/4GtmXlzXsP67AKOVT8LWKK) | 4:56 |
 | 20 | [Your Great Name](https://open.spotify.com/track/00CAvPIbaOTN0dJAEC0fsT) | [Todd Dulaney](https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz) | [Your Great Name](https://open.spotify.com/album/2VFvahahHbaC4rgqnVvnlw) | 6:19 |
 | 21 | [Deliver Me \(This Is My Exodus\) \(feat\. Le'Andria Johnson\)](https://open.spotify.com/track/4imwSeFR8R3yKpfD2yNI2r) | [Donald Lawrence](https://open.spotify.com/artist/40tzRHO6w4wROAdb6Sr21l), [The Tri\-City Singers](https://open.spotify.com/artist/0kU5fC7WVwJlfd1eNj9cMn), [Le'Andria Johnson](https://open.spotify.com/artist/5gpgMHIDzhdGccwJniIXrh) | [Deliver Me \(This Is My Exodus\) \(feat\. Le'Andria Johnson\)](https://open.spotify.com/album/3vP8VfkQVpGJSviXLmk9ls) | 5:44 |
-| 22 | [More Than Anything \(Radio Edit\)](https://open.spotify.com/track/0mVB0IVgOK7P1G77ZHTMc5) | [Anita Wilson](https://open.spotify.com/artist/4rEGEwaOU6Mtdj4ylW0fjS) | [More Than Anything \(Radio Edit\)](https://open.spotify.com/album/1fdSuqqPJUPRgJqiQpvUtc) | 4:20 |
-| 23 | [You Are God Alone](https://open.spotify.com/track/2cWRop4KNmto1AiIdYPEBj) | [William McDowell](https://open.spotify.com/artist/6PTGRlwNbg36Mu4boWlixN) | [Arise](https://open.spotify.com/album/1cwl8uoycWw4fFMKMV0VEc) | 7:14 |
+| 22 | [You Are God Alone](https://open.spotify.com/track/2cWRop4KNmto1AiIdYPEBj) | [William McDowell](https://open.spotify.com/artist/6PTGRlwNbg36Mu4boWlixN) | [Arise](https://open.spotify.com/album/1cwl8uoycWw4fFMKMV0VEc) | 7:14 |
+| 23 | [More Than Anything \(Radio Edit\)](https://open.spotify.com/track/0mVB0IVgOK7P1G77ZHTMc5) | [Anita Wilson](https://open.spotify.com/artist/4rEGEwaOU6Mtdj4ylW0fjS) | [More Than Anything \(Radio Edit\)](https://open.spotify.com/album/1fdSuqqPJUPRgJqiQpvUtc) | 4:20 |
 | 24 | [Praise on the Inside](https://open.spotify.com/track/3GN2Y6iwlw1M7fhMHl60PI) | [J Moss](https://open.spotify.com/artist/6sj6FGLblnVfktDZPaydWP) | [V2...](https://open.spotify.com/album/17sHeVMLvbVPeKaTk3WQlY) | 3:43 |
 | 25 | [Not Lucky, I'm Loved](https://open.spotify.com/track/4jc7FTXFUhTaMRpmU42yfI) | [Jonathan McReynolds](https://open.spotify.com/artist/5ItTHwcEtFh6DEOBheMub9) | [Make Room](https://open.spotify.com/album/2Gn6iOiQIWzAgeE1TYCJGS) | 6:48 |
 | 26 | [Testimony](https://open.spotify.com/track/37PMWc1U9QTGRSh9cKzvDj) | [Anthony Brown & group therAPy](https://open.spotify.com/artist/4sgW8IRub0jAU29ecct87w), [Group Therapy](https://open.spotify.com/artist/0f7eDR1n3XZwch1xXwEsYW) | [Anthony Brown & group therAPy](https://open.spotify.com/album/1oavdXITKhu6Mgb1YlIOoN) | 4:17 |
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5iwIl2oN1P1.md) - [plain]
 | 29 | [I See Miracles](https://open.spotify.com/track/4c11HmomjkYU2wf9maxf17) | [Jekalyn Carr](https://open.spotify.com/artist/5ynRYAGjyPDE8unsFqi6MH) | [I See Miracles](https://open.spotify.com/album/09PFJeifkOxQbhkhV8igtM) | 4:20 |
 | 30 | [Blessin Me](https://open.spotify.com/track/075OkOIwlKjkMJxkfB36pt) | [Avery\*Sunshine](https://open.spotify.com/artist/4yMxdaUoKCalQPX9BMeeFf) | [Avery\*sunshine Album](https://open.spotify.com/album/3MqlTEkRsAntG8xBSeNcuB) | 4:42 |
 | 31 | [Work It Out \- Live](https://open.spotify.com/track/1SDaYLQD1C9twbdZYsNcbX) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [Work It Out \(Live\)](https://open.spotify.com/album/5fcf47GvauNXh7yGACSXpQ) | 5:20 |
-| 32 | [Never Have to Be Alone](https://open.spotify.com/track/43w5n3xRMBOQll8xQBuO41) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Never Have to Be Alone](https://open.spotify.com/album/34VkbeKpr1wXJZe1xW0Aif) | 3:47 |
-| 33 | [Well Done](https://open.spotify.com/track/64hIlYHCreOzGCuzWsivXW) | [Erica Campbell](https://open.spotify.com/artist/46CCmeVLrgc6MnyVpVMOzp) | [Well Done](https://open.spotify.com/album/2T6MoExj6ZfHxd5az22f35) | 4:52 |
+| 32 | [Well Done](https://open.spotify.com/track/64hIlYHCreOzGCuzWsivXW) | [Erica Campbell](https://open.spotify.com/artist/46CCmeVLrgc6MnyVpVMOzp) | [Well Done](https://open.spotify.com/album/2T6MoExj6ZfHxd5az22f35) | 4:52 |
+| 33 | [Never Have to Be Alone](https://open.spotify.com/track/43w5n3xRMBOQll8xQBuO41) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Never Have to Be Alone](https://open.spotify.com/album/34VkbeKpr1wXJZe1xW0Aif) | 3:47 |
 | 34 | [It's Yours](https://open.spotify.com/track/0xYwbNvw4TburjOJYs0GpQ) | [Jekalyn Carr](https://open.spotify.com/artist/5ynRYAGjyPDE8unsFqi6MH) | [One Nation Under God](https://open.spotify.com/album/3fdcELLJcdrGFL2VJQu6VP) | 6:58 |
 | 35 | [Gotta Have You](https://open.spotify.com/track/1JhJUr6uQ2bf8CNcVsARr4) | [Jonathan McReynolds](https://open.spotify.com/artist/5ItTHwcEtFh6DEOBheMub9) | [Life Music: Stage Two](https://open.spotify.com/album/2akE85yBX94ruIAOjR7ru4) | 2:56 |
 | 36 | [I Need A Word](https://open.spotify.com/track/4RLL0qL4Tvoq4l5e8hV2FS) | [Smokie Norful](https://open.spotify.com/artist/0sD8Amms4kSxs5tBV4CUmR) | [Forever Yours](https://open.spotify.com/album/3Cgcc6Op5ciiCTubUMjI88) | 4:04 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5iwIl2oN1P1.md) - [plain]
 | 59 | [Your Love](https://open.spotify.com/track/0RZfOr4ZxPJYOGqfhSQqoo) | [Tim Bowman Jr.](https://open.spotify.com/artist/5A8ZfGPAh4EUTmOJ0Fck3l) | [Listen](https://open.spotify.com/album/5YChjVISCxpP25SXcAeEQm) | 4:55 |
 | 60 | [One More Time](https://open.spotify.com/track/5nMWOR0iuCl0OJnHAtnj2T) | [Zacardi Cortez](https://open.spotify.com/artist/1e5OohAPdgqCeMq3eegvqp) | [Zacardi Cortez](https://open.spotify.com/album/6lqXXtJpXKLAJO9M287IGo) | 4:19 |
 
-Snapshot ID: `MCxlYTU4NWJmZTFkMDU3MjU0ODlmZmI4ZDdmOTYyZTZjZTkzYWY0ZDdh`
+Snapshot ID: `MCwwNTA5NDczODg3NWRiMzRiMGQ0MTE5MzA5MDU5NzVhMzEyZmRmYzc0`

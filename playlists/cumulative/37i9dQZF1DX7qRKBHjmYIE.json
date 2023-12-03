@@ -914,7 +914,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-03",
       "duration_ms": 202359,
       "name": "Barbed Wire",
       "url": "https://open.spotify.com/track/0Q5D0qPpJ30jLY9l5GK5Dm"
@@ -5347,6 +5347,28 @@
     },
     {
       "album": {
+        "name": "La Dosis",
+        "url": "https://open.spotify.com/album/6REG6XsOTiPC2c7h7LfWVq"
+      },
+      "artists": [
+        {
+          "name": "Alba Reche",
+          "url": "https://open.spotify.com/artist/4mkCQKEe89EI0kn0Q7tMyK"
+        },
+        {
+          "name": "Girl Ultra",
+          "url": "https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175282,
+      "name": "La Dosis",
+      "url": "https://open.spotify.com/track/1whTkcaiWWR8HqWpgiN7XD"
+    },
+    {
+      "album": {
         "name": "MAKIA",
         "url": "https://open.spotify.com/album/2zMjcbAV32pgiNPe5cuaDv"
       },
@@ -6796,7 +6818,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-03",
       "duration_ms": 162120,
       "name": "Monumento",
       "url": "https://open.spotify.com/track/1Lb0j0vG9oNCvZYqhXLa4s"
@@ -9446,6 +9468,24 @@
       "duration_ms": 172989,
       "name": "sin ti",
       "url": "https://open.spotify.com/track/4ot2OO7TQ67W8avmH1zL1f"
+    },
+    {
+      "album": {
+        "name": "1 1 1",
+        "url": "https://open.spotify.com/album/3AROvUBUe1mMAauVt73kRF"
+      },
+      "artists": [
+        {
+          "name": "Milo j",
+          "url": "https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242980,
+      "name": "SINCERA TE",
+      "url": "https://open.spotify.com/track/2bDPkeiKH5PMRPMpNeb3Kt"
     },
     {
       "album": {

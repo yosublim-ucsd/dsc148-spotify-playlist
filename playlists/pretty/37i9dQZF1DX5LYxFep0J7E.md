@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5LYxFep0J7E.md) - [plain]
 
 > Jazz favorites from 2023\. Cover: Terrace Martin \#SpotifyWrapped
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,517 likes - 75 songs - 6 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,705 likes - 75 songs - 6 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5LYxFep0J7E.md) - [plain]
 | 8 | [jazz is for ordinary people](https://open.spotify.com/track/12BaQt9aYdTlEtKreqB5V4) | [berlioz](https://open.spotify.com/artist/3k3RY7kR8f0vp8Cq27P141) | [jazz is for ordinary people](https://open.spotify.com/album/0EZTn2obuqMf9AbBG2PUKp) | 2:44 |
 | 9 | [Blue](https://open.spotify.com/track/3e2cdlozr0ZKut6dWOer3q) | [Joey Alexander](https://open.spotify.com/artist/0FcNSKwWZJb98ry9M2qEII) | [Continuance](https://open.spotify.com/album/0PFFqNI88PG7QKGYWvjwXQ) | 6:46 |
 | 10 | [Find Your Peace \(feat\. Common, Robert Glasper & Jean Baylor\) \- Single Edit](https://open.spotify.com/track/2tjCuqMwFr8YlqwoB1UALy) | [Keyon Harrold](https://open.spotify.com/artist/4JG781pl96pL2h0AoERgOA), [Common](https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc), [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn), [Jean Baylor](https://open.spotify.com/artist/2GFqj9ZTbvZNr0RYU9izAa) | [Find Your Peace \(feat\. Common, Robert Glasper & Jean Baylor\)](https://open.spotify.com/album/2Xk2tl4haAIAl0HPq5LNSN) | 4:30 |
-| 11 | [Dragonfly](https://open.spotify.com/track/3uyAmrmQS6GDm0XllcMGMK) | [Dana and Alden](https://open.spotify.com/artist/4odX9weZjAyv9EV05akfLX) | [Quiet Music for Young People](https://open.spotify.com/album/02aBmDkQat7UtqqF9lGZzE) | 5:57 |
+| 11 | [Dragonfly](https://open.spotify.com/track/3uyAmrmQS6GDm0XllcMGMK) | [Dana and Alden](https://open.spotify.com/artist/6xKRT9Uw0XOxNsmWX2vNBr) | [Quiet Music for Young People](https://open.spotify.com/album/02aBmDkQat7UtqqF9lGZzE) | 5:57 |
 | 12 | [The Good Life](https://open.spotify.com/track/7vCUJ7NPHoIVMGzmQLfoen) | [Christian McBride](https://open.spotify.com/artist/5ACxPOI9gR3l0cyy2dvkHv), [New Jawn](https://open.spotify.com/artist/0lpuuN7i6U5mUhMozlFncR) | [Prime](https://open.spotify.com/album/1vFLT0IUByItGLbFDb7NXJ) | 7:15 |
 | 13 | [I Can Say To You \[Feat\. Vanisha Gould\] \- Single Edit](https://open.spotify.com/track/77QJgfFBYZQU0zXByezYGs) | [Butcher Brown](https://open.spotify.com/artist/2jQ6wRQ7yP1UrctodeuYQP), [Vanisha Gould](https://open.spotify.com/artist/0z7qSkfrWXvgNrSgnidiag) | [I Can Say To You \[Feat\. Vanisha Gould\]](https://open.spotify.com/album/0cdH5hfYt9f70uLrkiSolC) | 3:37 |
 | 14 | [Means The World](https://open.spotify.com/track/6vme5zHwXOkBKKzfZaIrS3) | [Reuben James](https://open.spotify.com/artist/5tA28joO5iZ0eCnvyctqRH), [Braxton Cook](https://open.spotify.com/artist/60k4atxgEIMFz4DWHp0le1), [CARRTOONS](https://open.spotify.com/artist/0994Up3Ob4zUFm3OFOWpzJ), [Gareth Lockrane](https://open.spotify.com/artist/2Km3mLLDx9YqUgnzzE2Ahv) | [Champagne Kisses](https://open.spotify.com/album/1BkhAWj2DJmsapEOd0OUUU) | 3:01 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5LYxFep0J7E.md) - [plain]
 | 74 | [your intuition is your friend \(radio edit\)](https://open.spotify.com/track/1dcwRKcZEmYVEhC6LQhwka) | [muva of Earth](https://open.spotify.com/artist/3Sjvp3uM9DWVg54ZhdfmO3), [Edward Wakili\-Hick](https://open.spotify.com/artist/1MNaRPIUnpKM8gcmw1gaP7) | [your intuition is your friend \(radio edit\)](https://open.spotify.com/album/2fcTch13GHkeNdarAzmuH7) | 3:36 |
 | 75 | [borealis dancing](https://open.spotify.com/track/7LMjaI9q3JmYyraATLNXxS) | [Jaimie Branch](https://open.spotify.com/artist/54T6Gso8zGPk4czyWlnUw5) | [Fly or Die Fly or Die Fly or Die \(\(world war\)\)](https://open.spotify.com/album/2JVEwFxlm2BcTtEeYnB5zr) | 7:01 |
 
-Snapshot ID: `MCxhN2RlYmQ4NTMzMzY0Yzk2ZTNmODI2ZTZhYWMxY2U2NjRkNWJjNGY0`
+Snapshot ID: `MCxhNDBiZTY1NGUzYTFkYmU2ZWVkMWIwOTZkNTUwMWM3NmViNGM0YmQ2`

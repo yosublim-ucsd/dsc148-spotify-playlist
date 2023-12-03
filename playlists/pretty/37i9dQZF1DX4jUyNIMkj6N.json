@@ -1,12 +1,12 @@
 {
   "description": "The very best in Scandifolk - from Icelandic blues rock to Norwegicana.",
-  "num_followers": 193729,
+  "num_followers": 193794,
   "original_name": "Nordic Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMGY2YzE3YjBjYTE1YzdmNzU1YWMzYjY1YjFiNmRkZDkyZDAxZWZi",
+  "snapshot_id": "MCwyMWQ4MDA3YzBmZDIxMjIzM2EzM2ZhYmNiNzU1YjZlNDFhY2U0OWIz",
   "tracks": [
     {
       "added_at": "2023-11-30 23:00:00",
@@ -487,22 +487,6 @@
     {
       "added_at": "2023-11-30 23:00:00",
       "album": {
-        "name": "i went outside",
-        "url": "https://open.spotify.com/album/62WGQjLeIZ2aZ5yA8Tth25"
-      },
-      "artists": [
-        {
-          "name": "Arny Margret",
-          "url": "https://open.spotify.com/artist/0is0GJzcvwz5jg1qVZyOwW"
-        }
-      ],
-      "duration_ms": 293400,
-      "name": "i went outside",
-      "url": "https://open.spotify.com/track/4FqqjYkdjKttebtiv6ovJL"
-    },
-    {
-      "added_at": "2023-11-30 23:00:00",
-      "album": {
         "name": "Pixie's Parasol",
         "url": "https://open.spotify.com/album/4giKFINYxPLvnV0fBsv4Vw"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 182946,
       "name": "Pixie's Parasol",
       "url": "https://open.spotify.com/track/00Gbi2ytn6ZmA1ObVcPT93"
+    },
+    {
+      "added_at": "2023-11-30 23:00:00",
+      "album": {
+        "name": "i went outside",
+        "url": "https://open.spotify.com/album/62WGQjLeIZ2aZ5yA8Tth25"
+      },
+      "artists": [
+        {
+          "name": "Arny Margret",
+          "url": "https://open.spotify.com/artist/0is0GJzcvwz5jg1qVZyOwW"
+        }
+      ],
+      "duration_ms": 293400,
+      "name": "i went outside",
+      "url": "https://open.spotify.com/track/4FqqjYkdjKttebtiv6ovJL"
     },
     {
       "added_at": "2023-11-30 23:00:00",
@@ -655,18 +655,22 @@
     {
       "added_at": "2023-11-30 23:00:00",
       "album": {
-        "name": "Through The Eyes Of A Woman",
-        "url": "https://open.spotify.com/album/5Fp6OQtwSjjNumqtryDIxO"
+        "name": "Svarteboka",
+        "url": "https://open.spotify.com/album/34RiGqZ1AlGsAPtecMiclC"
       },
       "artists": [
         {
-          "name": "Lucky Lo",
-          "url": "https://open.spotify.com/artist/5RJfw4mV4qlNjmve8u1Unz"
+          "name": "G\u00e5te",
+          "url": "https://open.spotify.com/artist/3YxkGgMvqCQA75aFpy6524"
+        },
+        {
+          "name": "Djerv",
+          "url": "https://open.spotify.com/artist/0maicLMFF0aeHwJlQgZrNa"
         }
       ],
-      "duration_ms": 278133,
-      "name": "Through The Eyes Of A Woman",
-      "url": "https://open.spotify.com/track/2f5TJq8mnPoG03pHkIJamG"
+      "duration_ms": 240360,
+      "name": "Svarteboka",
+      "url": "https://open.spotify.com/track/5hssjRpOTbxPmWBPTV4KIK"
     },
     {
       "added_at": "2023-11-30 23:00:00",
@@ -687,22 +691,18 @@
     {
       "added_at": "2023-11-30 23:00:00",
       "album": {
-        "name": "Svarteboka",
-        "url": "https://open.spotify.com/album/34RiGqZ1AlGsAPtecMiclC"
+        "name": "Through The Eyes Of A Woman",
+        "url": "https://open.spotify.com/album/5Fp6OQtwSjjNumqtryDIxO"
       },
       "artists": [
         {
-          "name": "G\u00e5te",
-          "url": "https://open.spotify.com/artist/3YxkGgMvqCQA75aFpy6524"
-        },
-        {
-          "name": "Djerv",
-          "url": "https://open.spotify.com/artist/0maicLMFF0aeHwJlQgZrNa"
+          "name": "Lucky Lo",
+          "url": "https://open.spotify.com/artist/5RJfw4mV4qlNjmve8u1Unz"
         }
       ],
-      "duration_ms": 240360,
-      "name": "Svarteboka",
-      "url": "https://open.spotify.com/track/5hssjRpOTbxPmWBPTV4KIK"
+      "duration_ms": 278133,
+      "name": "Through The Eyes Of A Woman",
+      "url": "https://open.spotify.com/track/2f5TJq8mnPoG03pHkIJamG"
     },
     {
       "added_at": "2023-11-30 23:00:00",
@@ -739,38 +739,6 @@
     {
       "added_at": "2023-11-30 23:00:00",
       "album": {
-        "name": "Tell Me About It",
-        "url": "https://open.spotify.com/album/10yraezHmuWHzLrJK5qEls"
-      },
-      "artists": [
-        {
-          "name": "thea wang",
-          "url": "https://open.spotify.com/artist/1Rlj58KRo8BwuksKHsoZCo"
-        }
-      ],
-      "duration_ms": 200906,
-      "name": "Tell Me About It",
-      "url": "https://open.spotify.com/track/4NVTUHYCmMGtnnULELfZjy"
-    },
-    {
-      "added_at": "2023-11-30 23:00:00",
-      "album": {
-        "name": "1989",
-        "url": "https://open.spotify.com/album/3HJQEeP94g2GypjB0YFUAq"
-      },
-      "artists": [
-        {
-          "name": "Days of August",
-          "url": "https://open.spotify.com/artist/0yWSMZXHERES9DFEqgwYGf"
-        }
-      ],
-      "duration_ms": 267711,
-      "name": "1989",
-      "url": "https://open.spotify.com/track/2qOkpf7HmkRMwAkDDzDwcV"
-    },
-    {
-      "added_at": "2023-11-30 23:00:00",
-      "album": {
         "name": "Jag \u00e4r sen igen",
         "url": "https://open.spotify.com/album/0UiQGJXyPQz6ZEvl6I2Y5d"
       },
@@ -791,6 +759,38 @@
     {
       "added_at": "2023-11-30 23:00:00",
       "album": {
+        "name": "1989",
+        "url": "https://open.spotify.com/album/3HJQEeP94g2GypjB0YFUAq"
+      },
+      "artists": [
+        {
+          "name": "Days of August",
+          "url": "https://open.spotify.com/artist/0yWSMZXHERES9DFEqgwYGf"
+        }
+      ],
+      "duration_ms": 267711,
+      "name": "1989",
+      "url": "https://open.spotify.com/track/2qOkpf7HmkRMwAkDDzDwcV"
+    },
+    {
+      "added_at": "2023-11-30 23:00:00",
+      "album": {
+        "name": "Tell Me About It",
+        "url": "https://open.spotify.com/album/10yraezHmuWHzLrJK5qEls"
+      },
+      "artists": [
+        {
+          "name": "thea wang",
+          "url": "https://open.spotify.com/artist/1Rlj58KRo8BwuksKHsoZCo"
+        }
+      ],
+      "duration_ms": 200906,
+      "name": "Tell Me About It",
+      "url": "https://open.spotify.com/track/4NVTUHYCmMGtnnULELfZjy"
+    },
+    {
+      "added_at": "2023-11-30 23:00:00",
+      "album": {
         "name": "Br\u00e5tebrann",
         "url": "https://open.spotify.com/album/2KZF4X0awI3SD4xY8tWVzP"
       },
@@ -807,18 +807,22 @@
     {
       "added_at": "2023-11-30 23:00:00",
       "album": {
-        "name": "Palomino Deluxe (Child of Summer Edition)",
-        "url": "https://open.spotify.com/album/1zQPgJzwxqFxwQbw8SmMGd"
+        "name": "Sun, Moon, Stars",
+        "url": "https://open.spotify.com/album/5Zz3P4HvKnhar2gtvZrdL9"
       },
       "artists": [
         {
-          "name": "First Aid Kit",
-          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
+          "name": "Siv Jakobsen",
+          "url": "https://open.spotify.com/artist/0vWslArrZa7drINEUobJZl"
+        },
+        {
+          "name": "Ane Brun",
+          "url": "https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm"
         }
       ],
-      "duration_ms": 220573,
-      "name": "Angel - Acoustic String Version",
-      "url": "https://open.spotify.com/track/2qtyj7TOmcHQ5liWb8vOaV"
+      "duration_ms": 275613,
+      "name": "Sun, Moon, Stars",
+      "url": "https://open.spotify.com/track/0xHgo8tccD2tz1JjTjBcBd"
     },
     {
       "added_at": "2023-11-30 23:00:00",
@@ -843,22 +847,18 @@
     {
       "added_at": "2023-11-30 23:00:00",
       "album": {
-        "name": "Sun, Moon, Stars",
-        "url": "https://open.spotify.com/album/5Zz3P4HvKnhar2gtvZrdL9"
+        "name": "Palomino Deluxe (Child of Summer Edition)",
+        "url": "https://open.spotify.com/album/1zQPgJzwxqFxwQbw8SmMGd"
       },
       "artists": [
         {
-          "name": "Siv Jakobsen",
-          "url": "https://open.spotify.com/artist/0vWslArrZa7drINEUobJZl"
-        },
-        {
-          "name": "Ane Brun",
-          "url": "https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm"
+          "name": "First Aid Kit",
+          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
         }
       ],
-      "duration_ms": 275613,
-      "name": "Sun, Moon, Stars",
-      "url": "https://open.spotify.com/track/0xHgo8tccD2tz1JjTjBcBd"
+      "duration_ms": 220573,
+      "name": "Angel - Acoustic String Version",
+      "url": "https://open.spotify.com/track/2qtyj7TOmcHQ5liWb8vOaV"
     },
     {
       "added_at": "2023-11-30 23:00:00",
@@ -891,22 +891,6 @@
       "duration_ms": 220653,
       "name": "Out in the Backyard",
       "url": "https://open.spotify.com/track/5SEdPtbU8mBVtLYbTFjbJ3"
-    },
-    {
-      "added_at": "2023-11-30 23:00:00",
-      "album": {
-        "name": "You Don't Know",
-        "url": "https://open.spotify.com/album/4EeoeBGm4VyncHWSoX3gld"
-      },
-      "artists": [
-        {
-          "name": "Ellison",
-          "url": "https://open.spotify.com/artist/1pF3ZfKACJViikvLsIjELq"
-        }
-      ],
-      "duration_ms": 188953,
-      "name": "You Don't Know",
-      "url": "https://open.spotify.com/track/4nm8FXnQSkdPgpJEmwpfVT"
     },
     {
       "added_at": "2023-11-30 23:00:00",
@@ -963,6 +947,22 @@
     {
       "added_at": "2023-11-30 23:00:00",
       "album": {
+        "name": "You Don't Know",
+        "url": "https://open.spotify.com/album/4EeoeBGm4VyncHWSoX3gld"
+      },
+      "artists": [
+        {
+          "name": "Ellison",
+          "url": "https://open.spotify.com/artist/1pF3ZfKACJViikvLsIjELq"
+        }
+      ],
+      "duration_ms": 188953,
+      "name": "You Don't Know",
+      "url": "https://open.spotify.com/track/4nm8FXnQSkdPgpJEmwpfVT"
+    },
+    {
+      "added_at": "2023-11-30 23:00:00",
+      "album": {
         "name": "Tran\u00f8y fyr",
         "url": "https://open.spotify.com/album/6VdthuopHQGNXLcCH5Vwjy"
       },
@@ -975,22 +975,6 @@
       "duration_ms": 236480,
       "name": "Tran\u00f8y fyr",
       "url": "https://open.spotify.com/track/1ZiY38qhaI4HF6lilr2FV8"
-    },
-    {
-      "added_at": "2023-11-30 23:00:00",
-      "album": {
-        "name": "Almost Forever",
-        "url": "https://open.spotify.com/album/07wG7p38JlGpv7ijyWznZN"
-      },
-      "artists": [
-        {
-          "name": "Simen Mitlid",
-          "url": "https://open.spotify.com/artist/3AE2EXc8hnJxb0AoGf3i2A"
-        }
-      ],
-      "duration_ms": 230259,
-      "name": "Almost Forever",
-      "url": "https://open.spotify.com/track/3wx37zQZm1LDSMe3W1I1K2"
     },
     {
       "added_at": "2023-11-30 23:00:00",
@@ -1023,6 +1007,26 @@
       "duration_ms": 226642,
       "name": "Feathers",
       "url": "https://open.spotify.com/track/60XII1rND3K4yE3ffwbl4W"
+    },
+    {
+      "added_at": "2023-11-30 23:00:00",
+      "album": {
+        "name": "In The Silence",
+        "url": "https://open.spotify.com/album/2EnpffXCERRVc6ZkJgddmL"
+      },
+      "artists": [
+        {
+          "name": "Everything We're Not",
+          "url": "https://open.spotify.com/artist/55aF2K7WSCptXLM1vmObKz"
+        },
+        {
+          "name": "Sofia Dragt",
+          "url": "https://open.spotify.com/artist/6SbjUvOLEYreFr16Gvn8kv"
+        }
+      ],
+      "duration_ms": 167142,
+      "name": "In The Silence",
+      "url": "https://open.spotify.com/track/4Pyg2i2ZSUriQh5QuuBs0y"
     }
   ],
   "unique_name": "Nordic Folk",

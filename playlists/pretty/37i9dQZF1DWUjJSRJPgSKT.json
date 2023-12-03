@@ -1,12 +1,12 @@
 {
   "description": "Uptempo jazz classics.",
-  "num_followers": 21931,
+  "num_followers": 22023,
   "original_name": "Upbeat Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhY2I4YWVlYWJmZjc5OGJmYTFiYjM2NjM2MjlkNjQxZDIzNTliYjYy",
+  "snapshot_id": "MCxhYTM4OWQ4NjBhMThlYWFjNjJlNGY4ZTUxNDIyZGQwMTUzMGQxYmM1",
   "tracks": [
     {
       "added_at": "2023-11-23 14:03:48",
@@ -427,18 +427,18 @@
     {
       "added_at": "2023-11-23 14:03:48",
       "album": {
-        "name": "Art Blakey & The Jazz Messengers",
-        "url": "https://open.spotify.com/album/7n3N9COR04FrWRyl8eftZU"
+        "name": "The Amazing Bud Powell: Vol. 1 (The Rudy Van Gelder Edition)",
+        "url": "https://open.spotify.com/album/4JZpydaQoCZY03mYcPgsaS"
       },
       "artists": [
         {
-          "name": "Art Blakey & The Jazz Messengers",
-          "url": "https://open.spotify.com/artist/6ykfXAed2KOLOMI3R0TZdz"
+          "name": "Bud Powell",
+          "url": "https://open.spotify.com/artist/570vCzcespB48HIQyTbDO6"
         }
       ],
-      "duration_ms": 410866,
-      "name": "Alamode",
-      "url": "https://open.spotify.com/track/3Wglt4wIgeXIBp8nDTh7mQ"
+      "duration_ms": 169880,
+      "name": "52nd Street Theme - Remastered 1998/Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/0oDgc718NJn7CyiClFRExR"
     },
     {
       "added_at": "2023-11-23 14:03:48",
@@ -459,22 +459,6 @@
     {
       "added_at": "2023-11-23 14:03:48",
       "album": {
-        "name": "The Amazing Bud Powell: Vol. 1 (The Rudy Van Gelder Edition)",
-        "url": "https://open.spotify.com/album/4JZpydaQoCZY03mYcPgsaS"
-      },
-      "artists": [
-        {
-          "name": "Bud Powell",
-          "url": "https://open.spotify.com/artist/570vCzcespB48HIQyTbDO6"
-        }
-      ],
-      "duration_ms": 169880,
-      "name": "52nd Street Theme - Remastered 1998/Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/0oDgc718NJn7CyiClFRExR"
-    },
-    {
-      "added_at": "2023-11-23 14:03:48",
-      "album": {
         "name": "Clifford Brown And Max Roach",
         "url": "https://open.spotify.com/album/2EKn6vs5MXWjMubeBhqgKG"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 414266,
       "name": "The Blues Walk",
       "url": "https://open.spotify.com/track/10pXPSiE2qtzLMyeic3Vdm"
+    },
+    {
+      "added_at": "2023-11-23 14:03:48",
+      "album": {
+        "name": "Art Blakey & The Jazz Messengers",
+        "url": "https://open.spotify.com/album/7n3N9COR04FrWRyl8eftZU"
+      },
+      "artists": [
+        {
+          "name": "Art Blakey & The Jazz Messengers",
+          "url": "https://open.spotify.com/artist/6ykfXAed2KOLOMI3R0TZdz"
+        }
+      ],
+      "duration_ms": 410866,
+      "name": "Alamode",
+      "url": "https://open.spotify.com/track/3Wglt4wIgeXIBp8nDTh7mQ"
     },
     {
       "added_at": "2023-11-23 14:03:48",
@@ -683,6 +683,22 @@
     {
       "added_at": "2023-11-23 14:03:48",
       "album": {
+        "name": "Stitt Plays Bird (Remastered Version)",
+        "url": "https://open.spotify.com/album/1MXypNppCEPqKRxDhGbVxh"
+      },
+      "artists": [
+        {
+          "name": "Sonny Stitt",
+          "url": "https://open.spotify.com/artist/217b0uqAzsOOhGcnoANZqj"
+        }
+      ],
+      "duration_ms": 196373,
+      "name": "Now's the Time - Remastered Version",
+      "url": "https://open.spotify.com/track/7M0yitRCCCBxSBdaItK7ot"
+    },
+    {
+      "added_at": "2023-11-23 14:03:48",
+      "album": {
         "name": "Lee Konitz with Warne Marsh",
         "url": "https://open.spotify.com/album/1O14t3H4XZuiJb8LKImB1c"
       },
@@ -699,22 +715,6 @@
       "duration_ms": 377039,
       "name": "Donna Lee",
       "url": "https://open.spotify.com/track/2N7LJO1uufnSeXIwxooTzg"
-    },
-    {
-      "added_at": "2023-11-23 14:03:48",
-      "album": {
-        "name": "Stitt Plays Bird (Remastered Version)",
-        "url": "https://open.spotify.com/album/1MXypNppCEPqKRxDhGbVxh"
-      },
-      "artists": [
-        {
-          "name": "Sonny Stitt",
-          "url": "https://open.spotify.com/artist/217b0uqAzsOOhGcnoANZqj"
-        }
-      ],
-      "duration_ms": 196373,
-      "name": "Now's the Time - Remastered Version",
-      "url": "https://open.spotify.com/track/7M0yitRCCCBxSBdaItK7ot"
     },
     {
       "added_at": "2023-11-23 14:03:48",
@@ -903,6 +903,22 @@
     {
       "added_at": "2023-11-23 14:03:48",
       "album": {
+        "name": "Open Sesame (The Rudy Van Gelder Edition)",
+        "url": "https://open.spotify.com/album/4WF3FMkvyd8Ogh2Hz76C9v"
+      },
+      "artists": [
+        {
+          "name": "Freddie Hubbard",
+          "url": "https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em"
+        }
+      ],
+      "duration_ms": 431733,
+      "name": "Open Sesame - Remastered 2002/Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/3zkUZvGHBtphTSHQIychm1"
+    },
+    {
+      "added_at": "2023-11-23 14:03:48",
+      "album": {
         "name": "Ken Burns Jazz: The Definitive Dizzy Gillespie",
         "url": "https://open.spotify.com/album/5d5lbciRoWO4WdlSbJQVer"
       },
@@ -923,22 +939,6 @@
       "duration_ms": 853266,
       "name": "The Eternal Triangle",
       "url": "https://open.spotify.com/track/68cLT7rcwLt6dW3qBxJUlD"
-    },
-    {
-      "added_at": "2023-11-23 14:03:48",
-      "album": {
-        "name": "Open Sesame (The Rudy Van Gelder Edition)",
-        "url": "https://open.spotify.com/album/4WF3FMkvyd8Ogh2Hz76C9v"
-      },
-      "artists": [
-        {
-          "name": "Freddie Hubbard",
-          "url": "https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em"
-        }
-      ],
-      "duration_ms": 431733,
-      "name": "Open Sesame - Remastered 2002/Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/3zkUZvGHBtphTSHQIychm1"
     },
     {
       "added_at": "2023-11-23 14:03:48",

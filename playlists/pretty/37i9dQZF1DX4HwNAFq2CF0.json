@@ -1,12 +1,12 @@
 {
   "description": "The hits that keep on rocking your world. Cover: City and Colour",
-  "num_followers": 64632,
+  "num_followers": 64686,
   "original_name": "Rock Favourites",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkM2FmNTZhNjdjNTM1OWM3N2M5MjRjMGNiMTYwNWMzNTUxODk2YWQy",
+  "snapshot_id": "MCwwMThjNWNkNGY3OWVmZDU3MTliM2RkZTZkZDMzY2JhOGY4NmQ1YmU0",
   "tracks": [
     {
       "added_at": "2023-10-20 04:00:00",
@@ -747,22 +747,6 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Brothers",
-        "url": "https://open.spotify.com/album/7qE6RXYyz5kj5Tll7mJU0v"
-      },
-      "artists": [
-        {
-          "name": "The Black Keys",
-          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
-        }
-      ],
-      "duration_ms": 191800,
-      "name": "Howlin' for You",
-      "url": "https://open.spotify.com/track/0grFc6klR3hxoHLcgCYsF4"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
         "name": "How Will You Know If You Never Try",
         "url": "https://open.spotify.com/album/4TJUrdwbeKC9qcouPlBuLe"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 187133,
       "name": "Talk Too Much",
       "url": "https://open.spotify.com/track/4djIFfof5TpbSGRZUpsTXq"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "Brothers",
+        "url": "https://open.spotify.com/album/7qE6RXYyz5kj5Tll7mJU0v"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "duration_ms": 191800,
+      "name": "Howlin' for You",
+      "url": "https://open.spotify.com/track/0grFc6klR3hxoHLcgCYsF4"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -859,6 +859,22 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
+        "name": "Threat to Survival",
+        "url": "https://open.spotify.com/album/7969zwJB8p021EBcCUjsv9"
+      },
+      "artists": [
+        {
+          "name": "Shinedown",
+          "url": "https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI"
+        }
+      ],
+      "duration_ms": 224596,
+      "name": "Cut the Cord",
+      "url": "https://open.spotify.com/track/4LFBVDJV0xpayUvquQVzhS"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
         "name": "Drunk (And I Don't Wanna Go Home)",
         "url": "https://open.spotify.com/album/6F6ZYE96lTFgzWotepEDhZ"
       },
@@ -875,22 +891,6 @@
       "duration_ms": 245625,
       "name": "Drunk (And I Don't Wanna Go Home)",
       "url": "https://open.spotify.com/track/0QULNNd9z5s35entfiiXoa"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
-        "name": "Threat to Survival",
-        "url": "https://open.spotify.com/album/7969zwJB8p021EBcCUjsv9"
-      },
-      "artists": [
-        {
-          "name": "Shinedown",
-          "url": "https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI"
-        }
-      ],
-      "duration_ms": 224596,
-      "name": "Cut the Cord",
-      "url": "https://open.spotify.com/track/4LFBVDJV0xpayUvquQVzhS"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -975,22 +975,6 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "In A Perfect World (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1ttGpGzOEi6JDDOHO4qD1y"
-      },
-      "artists": [
-        {
-          "name": "Kodaline",
-          "url": "https://open.spotify.com/artist/4BxCuXFJrSWGi1KHcVqaU4"
-        }
-      ],
-      "duration_ms": 230266,
-      "name": "High Hopes",
-      "url": "https://open.spotify.com/track/6KkyuDhrEhR5nJVKtv9mCf"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
         "name": "The Ride",
         "url": "https://open.spotify.com/album/07IHAhsG4FnnfHQSb3bbAZ"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 256306,
       "name": "7",
       "url": "https://open.spotify.com/track/5ykbOijJEfRhuo2Td1m0Qd"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "In A Perfect World (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1ttGpGzOEi6JDDOHO4qD1y"
+      },
+      "artists": [
+        {
+          "name": "Kodaline",
+          "url": "https://open.spotify.com/artist/4BxCuXFJrSWGi1KHcVqaU4"
+        }
+      ],
+      "duration_ms": 230266,
+      "name": "High Hopes",
+      "url": "https://open.spotify.com/track/6KkyuDhrEhR5nJVKtv9mCf"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Ugly is Beautiful",
-        "url": "https://open.spotify.com/album/1HmWQo43Gt8BR2dylfv3o4"
-      },
-      "artists": [
-        {
-          "name": "Oliver Tree",
-          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
-        }
-      ],
-      "duration_ms": 145147,
-      "name": "Hurt",
-      "url": "https://open.spotify.com/track/6Ph8QwsRfZunN5e1GGBIqa"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
         "name": "Isolate And Medicate",
         "url": "https://open.spotify.com/album/4ZpfSlHwUXaL6kgFTL6hMk"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 197800,
       "name": "Nobody Praying For Me",
       "url": "https://open.spotify.com/track/3bq8WiQrEXMwPAibYs7tpu"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "Ugly is Beautiful",
+        "url": "https://open.spotify.com/album/1HmWQo43Gt8BR2dylfv3o4"
+      },
+      "artists": [
+        {
+          "name": "Oliver Tree",
+          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
+        }
+      ],
+      "duration_ms": 145147,
+      "name": "Hurt",
+      "url": "https://open.spotify.com/track/6Ph8QwsRfZunN5e1GGBIqa"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Savages",
-        "url": "https://open.spotify.com/album/6SfhyLVugAsXYDvs966WBn"
-      },
-      "artists": [
-        {
-          "name": "Theory of a Deadman",
-          "url": "https://open.spotify.com/artist/74eX4C98E4FCrAMl39qRsJ"
-        }
-      ],
-      "duration_ms": 202213,
-      "name": "Angel",
-      "url": "https://open.spotify.com/track/2qJkesdHu9sMMVFgkRkqhQ"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
         "name": "Servant Of The Mind (Deluxe)",
         "url": "https://open.spotify.com/album/1ujOfCZxF2d2R5oOfJbxnP"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 267826,
       "name": "Shotgun Blues",
       "url": "https://open.spotify.com/track/2SMNxADB0ffqaIoOwl2x06"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "Savages",
+        "url": "https://open.spotify.com/album/6SfhyLVugAsXYDvs966WBn"
+      },
+      "artists": [
+        {
+          "name": "Theory of a Deadman",
+          "url": "https://open.spotify.com/artist/74eX4C98E4FCrAMl39qRsJ"
+        }
+      ],
+      "duration_ms": 202213,
+      "name": "Angel",
+      "url": "https://open.spotify.com/track/2qJkesdHu9sMMVFgkRkqhQ"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "AMERICA",
-        "url": "https://open.spotify.com/album/0XcHdI2ZyNADjfvo5Ubs39"
-      },
-      "artists": [
-        {
-          "name": "Thirty Seconds To Mars",
-          "url": "https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD"
-        }
-      ],
-      "duration_ms": 185466,
-      "name": "Walk On Water",
-      "url": "https://open.spotify.com/track/6FT9FZccFD6nE8dMNslz2n"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
         "name": "OK ORCHESTRA",
         "url": "https://open.spotify.com/album/0KC9H4iFOOWiKEa5IzKKOE"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 170858,
       "name": "Bang!",
       "url": "https://open.spotify.com/track/4SQLQfcR0vhyIN4uPBlc0d"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "AMERICA",
+        "url": "https://open.spotify.com/album/0XcHdI2ZyNADjfvo5Ubs39"
+      },
+      "artists": [
+        {
+          "name": "Thirty Seconds To Mars",
+          "url": "https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD"
+        }
+      ],
+      "duration_ms": 185466,
+      "name": "Walk On Water",
+      "url": "https://open.spotify.com/track/6FT9FZccFD6nE8dMNslz2n"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -1599,18 +1599,18 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Going To Hell (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2PYeB2ZxvfvPsEpd951xP4"
+        "name": "For Crying Out Loud (Deluxe)",
+        "url": "https://open.spotify.com/album/0ymsF6XO1mZM1VKqI680jU"
       },
       "artists": [
         {
-          "name": "The Pretty Reckless",
-          "url": "https://open.spotify.com/artist/2R57sY41L9XvGPiIgHOaYq"
+          "name": "Kasabian",
+          "url": "https://open.spotify.com/artist/11wRdbnoYqRddKBrpHt4Ue"
         }
       ],
-      "duration_ms": 224533,
-      "name": "Heaven Knows",
-      "url": "https://open.spotify.com/track/04w73SmPfQkkmEpKbcrHOL"
+      "duration_ms": 215693,
+      "name": "You're in Love with a Psycho",
+      "url": "https://open.spotify.com/track/0AJhcuRl3i1FfPNr88ZScv"
     },
     {
       "added_at": "2023-10-20 04:00:00",

@@ -1,12 +1,12 @@
 {
   "description": "\uc5f0\uc778\uc5d0\uac8c \uc804\ud558\ub294 \ub178\ub7ab\ub9d0\uacfc \ub2ec\ub2ec\ud55c \uc2dc\uac04\uc744 \ud568\uaed8\ud558\uc138\uc694.",
-  "num_followers": 14374,
+  "num_followers": 14407,
   "original_name": "\uc0ac\ub791\ud558\ub294 \ub108\uc5d0\uac8c. (K-Pop Love Songs)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MjBkNTFiOTQyZTg5ZTk3NDZjMGY4MmU3MWU4MDEwNzM0YjllYjlh",
+  "snapshot_id": "MCwxNzc0NDFlY2JmM2M3OTBkNjI5ZGUzOWFiNjM1OTI2NWU2MTAzOWZm",
   "tracks": [
     {
       "added_at": "2023-11-03 06:21:20",
@@ -331,6 +331,22 @@
     {
       "added_at": "2023-11-03 06:21:20",
       "album": {
+        "name": "The Book of Us : Gluon - Nothing can tear us apart",
+        "url": "https://open.spotify.com/album/56gHPBARXATKcgK97NCvKq"
+      },
+      "artists": [
+        {
+          "name": "DAY6 (Even of Day)",
+          "url": "https://open.spotify.com/artist/6uAlmplr9znkwaYj3ysgLd"
+        }
+      ],
+      "duration_ms": 257752,
+      "name": "Where the sea sleeps",
+      "url": "https://open.spotify.com/track/6zJRgVg9A2EzkZRRzLx3eB"
+    },
+    {
+      "added_at": "2023-11-03 06:21:20",
+      "album": {
         "name": "You Might (Feat. SHIRT)",
         "url": "https://open.spotify.com/album/0ZkiSgqFmO169VYOFi02kD"
       },
@@ -347,22 +363,6 @@
       "duration_ms": 187185,
       "name": "You Might (Feat. SHIRT)",
       "url": "https://open.spotify.com/track/340yvMO5adu3bo1x5Zrw14"
-    },
-    {
-      "added_at": "2023-11-03 06:21:20",
-      "album": {
-        "name": "The Book of Us : Gluon - Nothing can tear us apart",
-        "url": "https://open.spotify.com/album/56gHPBARXATKcgK97NCvKq"
-      },
-      "artists": [
-        {
-          "name": "DAY6 (Even of Day)",
-          "url": "https://open.spotify.com/artist/6uAlmplr9znkwaYj3ysgLd"
-        }
-      ],
-      "duration_ms": 257752,
-      "name": "Where the sea sleeps",
-      "url": "https://open.spotify.com/track/6zJRgVg9A2EzkZRRzLx3eB"
     },
     {
       "added_at": "2023-11-03 06:21:20",
@@ -595,22 +595,6 @@
     {
       "added_at": "2023-11-03 06:21:20",
       "album": {
-        "name": "Don't be mad",
-        "url": "https://open.spotify.com/album/0sIbn4BGuc7oG21Fkl5x46"
-      },
-      "artists": [
-        {
-          "name": "Paul Kim",
-          "url": "https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv"
-        }
-      ],
-      "duration_ms": 184093,
-      "name": "Don't be mad",
-      "url": "https://open.spotify.com/track/4lXl37xDrmVwoz4CuninfI"
-    },
-    {
-      "added_at": "2023-11-03 06:21:20",
-      "album": {
         "name": "LOVE PLAYLIST 4 Part.1",
         "url": "https://open.spotify.com/album/2FyVlSQ1gQ1c80r0mm5JO5"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 215120,
       "name": "Be My Love",
       "url": "https://open.spotify.com/track/1FbxpeYh1qPvQMve046NQU"
+    },
+    {
+      "added_at": "2023-11-03 06:21:20",
+      "album": {
+        "name": "Don't be mad",
+        "url": "https://open.spotify.com/album/0sIbn4BGuc7oG21Fkl5x46"
+      },
+      "artists": [
+        {
+          "name": "Paul Kim",
+          "url": "https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv"
+        }
+      ],
+      "duration_ms": 184093,
+      "name": "Don't be mad",
+      "url": "https://open.spotify.com/track/4lXl37xDrmVwoz4CuninfI"
     },
     {
       "added_at": "2023-11-03 06:21:20",
@@ -659,26 +659,6 @@
     {
       "added_at": "2023-11-03 06:21:20",
       "album": {
-        "name": "Way U Are (feat. BIG Naughty)",
-        "url": "https://open.spotify.com/album/4MiEH8eGKh4AgU1d4eBw59"
-      },
-      "artists": [
-        {
-          "name": "Jiselle",
-          "url": "https://open.spotify.com/artist/6tjbcCaexKI8esvvEZPVnt"
-        },
-        {
-          "name": "BIG Naughty",
-          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
-        }
-      ],
-      "duration_ms": 163773,
-      "name": "Way U Are (feat. BIG Naughty)",
-      "url": "https://open.spotify.com/track/1cHwmkEYWHstlT9hRF0EeP"
-    },
-    {
-      "added_at": "2023-11-03 06:21:20",
-      "album": {
         "name": "Dear My Winter",
         "url": "https://open.spotify.com/album/5SxFwvCLUU5zXwHdNSlFnN"
       },
@@ -695,6 +675,26 @@
       "duration_ms": 200933,
       "name": "Dear My Winter",
       "url": "https://open.spotify.com/track/7sqtyHfTHtkLtnxuQ3ttvo"
+    },
+    {
+      "added_at": "2023-11-03 06:21:20",
+      "album": {
+        "name": "Way U Are (feat. BIG Naughty)",
+        "url": "https://open.spotify.com/album/4MiEH8eGKh4AgU1d4eBw59"
+      },
+      "artists": [
+        {
+          "name": "Jiselle",
+          "url": "https://open.spotify.com/artist/6tjbcCaexKI8esvvEZPVnt"
+        },
+        {
+          "name": "BIG Naughty",
+          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
+        }
+      ],
+      "duration_ms": 163773,
+      "name": "Way U Are (feat. BIG Naughty)",
+      "url": "https://open.spotify.com/track/1cHwmkEYWHstlT9hRF0EeP"
     },
     {
       "added_at": "2023-11-03 06:21:20",
@@ -831,22 +831,6 @@
     {
       "added_at": "2023-11-03 06:21:20",
       "album": {
-        "name": "Tale of the Nine Tailed 1938, Pt. 3 (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/5PYf2CJFr5WIatS4GQ2kmd"
-      },
-      "artists": [
-        {
-          "name": "THAMA",
-          "url": "https://open.spotify.com/artist/1Ktiv08TbBy195pQUH8Qld"
-        }
-      ],
-      "duration_ms": 152963,
-      "name": "Kiss The Rain",
-      "url": "https://open.spotify.com/track/00ZvMUjMundVCBeCGqhSf7"
-    },
-    {
-      "added_at": "2023-11-03 06:21:20",
-      "album": {
         "name": "YUMI's Cells 2, Pt. 1 (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/3g8K5V6U4ZkEC1X7rRZoBo"
       },
@@ -863,18 +847,18 @@
     {
       "added_at": "2023-11-03 06:21:20",
       "album": {
-        "name": "1.0",
-        "url": "https://open.spotify.com/album/2NQxbsV4UYXegJQWbzLR2c"
+        "name": "Tale of the Nine Tailed 1938, Pt. 3 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/5PYf2CJFr5WIatS4GQ2kmd"
       },
       "artists": [
         {
-          "name": "10cm",
-          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
+          "name": "THAMA",
+          "url": "https://open.spotify.com/artist/1Ktiv08TbBy195pQUH8Qld"
         }
       ],
-      "duration_ms": 172760,
-      "name": "Love in the Milky Way Cafe",
-      "url": "https://open.spotify.com/track/6k6Llm7Kw3Ad1Xo1e6sIcR"
+      "duration_ms": 152963,
+      "name": "Kiss The Rain",
+      "url": "https://open.spotify.com/track/00ZvMUjMundVCBeCGqhSf7"
     },
     {
       "added_at": "2023-11-03 06:21:20",
@@ -891,6 +875,22 @@
       "duration_ms": 165433,
       "name": "Single",
       "url": "https://open.spotify.com/track/2M1M1f5fRlSw5rturoCZeA"
+    },
+    {
+      "added_at": "2023-11-03 06:21:20",
+      "album": {
+        "name": "1.0",
+        "url": "https://open.spotify.com/album/2NQxbsV4UYXegJQWbzLR2c"
+      },
+      "artists": [
+        {
+          "name": "10cm",
+          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
+        }
+      ],
+      "duration_ms": 172760,
+      "name": "Love in the Milky Way Cafe",
+      "url": "https://open.spotify.com/track/6k6Llm7Kw3Ad1Xo1e6sIcR"
     },
     {
       "added_at": "2023-11-03 06:21:20",
@@ -943,18 +943,18 @@
     {
       "added_at": "2023-11-03 06:21:20",
       "album": {
-        "name": "Errr Day",
-        "url": "https://open.spotify.com/album/7uoPw6yndoEeatuxKzacnK"
+        "name": "A-TEEN2 Part.1",
+        "url": "https://open.spotify.com/album/2quxDpdeABmtoUbYIHgnNa"
       },
       "artists": [
         {
-          "name": "Youngjae",
-          "url": "https://open.spotify.com/artist/5qUAtC3NwSLYme4JqjlGfQ"
+          "name": "Yerin Baek",
+          "url": "https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK"
         }
       ],
-      "duration_ms": 204533,
-      "name": "Errr Day",
-      "url": "https://open.spotify.com/track/6q1tSNXzxeexSAXwp0dCiG"
+      "duration_ms": 210000,
+      "name": "Lean On Me",
+      "url": "https://open.spotify.com/track/43IxBx4zsgELpVdMIAkkF0"
     },
     {
       "added_at": "2023-11-03 06:21:20",
@@ -975,18 +975,18 @@
     {
       "added_at": "2023-11-03 06:21:20",
       "album": {
-        "name": "A-TEEN2 Part.1",
-        "url": "https://open.spotify.com/album/2quxDpdeABmtoUbYIHgnNa"
+        "name": "Errr Day",
+        "url": "https://open.spotify.com/album/7uoPw6yndoEeatuxKzacnK"
       },
       "artists": [
         {
-          "name": "Yerin Baek",
-          "url": "https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK"
+          "name": "Youngjae",
+          "url": "https://open.spotify.com/artist/5qUAtC3NwSLYme4JqjlGfQ"
         }
       ],
-      "duration_ms": 210000,
-      "name": "Lean On Me",
-      "url": "https://open.spotify.com/track/43IxBx4zsgELpVdMIAkkF0"
+      "duration_ms": 204533,
+      "name": "Errr Day",
+      "url": "https://open.spotify.com/track/6q1tSNXzxeexSAXwp0dCiG"
     },
     {
       "added_at": "2023-11-03 06:21:20",

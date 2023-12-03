@@ -1,12 +1,12 @@
 {
   "description": "Las superestrellas del agua y el jab\u00f3n.",
-  "num_followers": 127862,
+  "num_followers": 127956,
   "original_name": "Cantando en el Ba\u00f1o",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMWM0Njk3MThiOGE4YzM5MDQzYzcxNDA3YTE5ZjQ5NzE2M2I2N2Fl",
+  "snapshot_id": "MCw4NjU5Yjg4ZDQzZmFlNjMxNGEwNzA3ZjExNGU3N2Y1ODBmNGQxZTg0",
   "tracks": [
     {
       "added_at": "2023-08-29 14:09:26",
@@ -715,22 +715,6 @@
     {
       "added_at": "2023-08-29 14:09:26",
       "album": {
-        "name": "PRISM",
-        "url": "https://open.spotify.com/album/3jB9yFDwRe3KhtGnHXJntk"
-      },
-      "artists": [
-        {
-          "name": "Katy Perry",
-          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
-        }
-      ],
-      "duration_ms": 223546,
-      "name": "Roar",
-      "url": "https://open.spotify.com/track/27tNWlhdAryQY04Gb2ZhUI"
-    },
-    {
-      "added_at": "2023-08-29 14:09:26",
-      "album": {
         "name": "Mon Laferte (Vol. 1)",
         "url": "https://open.spotify.com/album/5sG9v1V0gjNbQQiXkYKWe0"
       },
@@ -747,34 +731,18 @@
     {
       "added_at": "2023-08-29 14:09:26",
       "album": {
-        "name": "H\u00e1blate de M\u00ed",
-        "url": "https://open.spotify.com/album/5DtrZ74RgqpVVqLWncmqyZ"
+        "name": "PRISM",
+        "url": "https://open.spotify.com/album/3jB9yFDwRe3KhtGnHXJntk"
       },
       "artists": [
         {
-          "name": "J\u00f3sean Log",
-          "url": "https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF"
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
         }
       ],
-      "duration_ms": 215986,
-      "name": "Chachach\u00e1",
-      "url": "https://open.spotify.com/track/6aommJFM8i3iT4inKuDSXh"
-    },
-    {
-      "added_at": "2023-09-01 15:24:06",
-      "album": {
-        "name": "Nuez",
-        "url": "https://open.spotify.com/album/05UGoDqdTiORAjyrt5wtlT"
-      },
-      "artists": [
-        {
-          "name": "Valentina Rico",
-          "url": "https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d"
-        }
-      ],
-      "duration_ms": 212698,
-      "name": "Nuez",
-      "url": "https://open.spotify.com/track/6Pt1SXtWsjL8tEKV94F5VX"
+      "duration_ms": 223546,
+      "name": "Roar",
+      "url": "https://open.spotify.com/track/27tNWlhdAryQY04Gb2ZhUI"
     },
     {
       "added_at": "2023-08-29 14:09:26",
@@ -795,6 +763,38 @@
       "duration_ms": 192313,
       "name": "M\u00f3naco",
       "url": "https://open.spotify.com/track/3HgvO4B5LLmdPOT2d8cSZd"
+    },
+    {
+      "added_at": "2023-09-01 15:24:06",
+      "album": {
+        "name": "Nuez",
+        "url": "https://open.spotify.com/album/05UGoDqdTiORAjyrt5wtlT"
+      },
+      "artists": [
+        {
+          "name": "Valentina Rico",
+          "url": "https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d"
+        }
+      ],
+      "duration_ms": 212698,
+      "name": "Nuez",
+      "url": "https://open.spotify.com/track/6Pt1SXtWsjL8tEKV94F5VX"
+    },
+    {
+      "added_at": "2023-08-29 14:09:26",
+      "album": {
+        "name": "H\u00e1blate de M\u00ed",
+        "url": "https://open.spotify.com/album/5DtrZ74RgqpVVqLWncmqyZ"
+      },
+      "artists": [
+        {
+          "name": "J\u00f3sean Log",
+          "url": "https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF"
+        }
+      ],
+      "duration_ms": 215986,
+      "name": "Chachach\u00e1",
+      "url": "https://open.spotify.com/track/6aommJFM8i3iT4inKuDSXh"
     },
     {
       "added_at": "2023-08-29 14:09:26",

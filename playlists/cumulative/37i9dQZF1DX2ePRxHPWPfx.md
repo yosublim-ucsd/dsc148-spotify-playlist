@@ -4,7 +4,7 @@
 
 > Warm tunes to get you in the snuggle spirit, la fogata y el chocolate caliente son opcionales.
 
-56 songs - 3 hr 11 min
+57 songs - 3 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [Monumento](https://open.spotify.com/track/3BUOQHWgnm8l5KDkzujs26) | [NAFTA](https://open.spotify.com/artist/5pg9cOudU7ezj3FnUABgu6) | [NAFTA II](https://open.spotify.com/album/4B2sJdUM5lyuiGv7KYi8It) | 2:55 | 2023-10-27 |  |
 | [Music Box](https://open.spotify.com/track/2h89x1ycsTH904Poc5COS4) | [Leith Ross](https://open.spotify.com/artist/4nxKz1dRYXnsGzN1lUURtG) | [Music Box](https://open.spotify.com/album/3l3xNSj9nQGYJ4ZPXBWVmf) | 4:25 | 2023-10-27 |  |
 | [My Love Mine All Mine](https://open.spotify.com/track/3vkCueOmm7xQDoJ17W1Pm3) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [The Land Is Inhospitable and So Are We](https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA) | 2:17 | 2023-10-27 |  |
+| [Noche De Paz](https://open.spotify.com/track/3XAQFFGDftEG4PXwfusXkX) | [Dylan Suarez](https://open.spotify.com/artist/1MgheGbvBpOtOTin9SVocs) | [Noche De Paz](https://open.spotify.com/album/2kyvfy3mtO5wR6o5P3ccx5) | 3:15 | 2023-11-22 |  |
 | [Permanente](https://open.spotify.com/track/3lDXncCCsimJ17cHYodtRl) | [LAGOS](https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia) | [Permanente](https://open.spotify.com/album/5CCwwqcE6HCHSBYgRNS4zz) | 3:55 | 2023-10-27 |  |
 | [Pluto Projector](https://open.spotify.com/track/4EWBhKf1fOFnyMtUzACXEc) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [Pony](https://open.spotify.com/album/5CNckxfLf4TCoMOoxgAU8l) | 4:27 | 2023-10-27 |  |
 | [Por Debajo De La Mesa](https://open.spotify.com/track/1livAifXh1DMv25kTfFFHR) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Romances](https://open.spotify.com/album/5bCqJHjSlxroHQdR8i8Qvo) | 3:04 | 2023-10-27 |  |
@@ -52,7 +53,7 @@
 | [Ribbons](https://open.spotify.com/track/1mn1vm47Qm3h91kgNRmXf0) | [Ryan Beatty](https://open.spotify.com/artist/60NNvDqsif0u40CXMV6jDQ) | [Calico](https://open.spotify.com/album/5OWpskyoZl9UMkHQwgA05O) | 3:17 | 2023-10-27 |  |
 | [rimas del verbo amar](https://open.spotify.com/track/4uJErcTeJUb93hu5Ud2kIX) | [BORJA](https://open.spotify.com/artist/3n3mizV0nZXD1pKzRGoBGw) | [rimas del verbo amar](https://open.spotify.com/album/7Dbf6NKWAFQu991Qm1MROn) | 4:10 | 2023-10-27 |  |
 | [Romancera](https://open.spotify.com/track/4HED7T9WqduhZ6TgMl7ugE) | [Guitarricadelafuente](https://open.spotify.com/artist/0oBiYchunKTMDesVICwrvL) | [Romancera](https://open.spotify.com/album/427UD26U4IkJqIUicqVMZ9) | 3:52 | 2023-10-27 |  |
-| [Sagitario](https://open.spotify.com/track/1jvRSXvGCUXD545RQJ3FcR) | [Valentina Rico](https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d) | [Si Te Soy Sincera](https://open.spotify.com/album/70uZwbL7dkxlCxuYhNmrSS) | 3:21 | 2023-10-27 |  |
+| [Sagitario](https://open.spotify.com/track/1jvRSXvGCUXD545RQJ3FcR) | [Valentina Rico](https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d) | [Si Te Soy Sincera](https://open.spotify.com/album/70uZwbL7dkxlCxuYhNmrSS) | 3:21 | 2023-10-27 | 2023-12-03 |
 | [Sonríe](https://open.spotify.com/track/2LxtK38dlYh9Byvv93ndYY) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Navidades Luis Miguel](https://open.spotify.com/album/0tu9kY2tDMuuuI6GtSDH9i) | 3:08 | 2023-10-27 |  |
 | [Sunlight](https://open.spotify.com/track/68rfeiR6CVcaq3XTsH7Ihl) | [Andrea Bejar](https://open.spotify.com/artist/5l3g6Xp8KQE4prw9hk6rQ8) | [Sunlight](https://open.spotify.com/album/7u2qRcWGqQIi8ifEuuefdh) | 3:23 | 2023-11-22 |  |
 | [Te Deseo Muy Felices Fiestas](https://open.spotify.com/track/45fKgDxHS174490B3qruhx) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Navidades Luis Miguel](https://open.spotify.com/album/0tu9kY2tDMuuuI6GtSDH9i) | 4:15 | 2023-10-27 |  |

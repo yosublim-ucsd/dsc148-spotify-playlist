@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX88mTcSM3nFc.md) - [plain]
 
 > christmas always makes me cry
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,580 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,685 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX88mTcSM3nFc.md) - [plain]
 | 15 | [Lonely This Christmas](https://open.spotify.com/track/6ka53p5HloApRQ2ptSpuGB) | [Mud](https://open.spotify.com/artist/3cqIsBnzV3BabbPWKz8Txf) | [The Very Best Of Mud](https://open.spotify.com/album/6fkg20RDjOK5JSZ3wqt6i4) | 3:33 |
 | 16 | [Merry Christmas Darling \- Remix](https://open.spotify.com/track/0z5HSQGWgnjdNvwbOmhB2w) | [Carpenters](https://open.spotify.com/artist/1eEfMU2AhEo7XnKgL7c304) | [Christmas Portrait \(Special Edition/Reissue\)](https://open.spotify.com/album/5GMAtv4CU6GYQMo36Uuiqc) | 3:06 |
 | 17 | [If We Make It Through December](https://open.spotify.com/track/2vnVkHPckitpXFyC2Q2ULG) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [If We Make It Through December](https://open.spotify.com/album/5c7rZDAKYf6PsA3MUfNZXL) | 2:59 |
-| 18 | [cindy lou who](https://open.spotify.com/track/15WQ0CnYIbWNCWvwp7IlYr) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [fruitcake](https://open.spotify.com/album/7EisdwWcodpmHxgpGVE5Pg) | 2:01 |
-| 19 | [Someday At Christmas](https://open.spotify.com/track/2X5noCM9Klrm4zXfyyPdRN) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Mono Singles](https://open.spotify.com/album/7oMcO4p7P1JtJR2G1v2NoK) | 2:48 |
+| 18 | [Someday At Christmas](https://open.spotify.com/track/2X5noCM9Klrm4zXfyyPdRN) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Mono Singles](https://open.spotify.com/album/7oMcO4p7P1JtJR2G1v2NoK) | 2:48 |
+| 19 | [cindy lou who](https://open.spotify.com/track/15WQ0CnYIbWNCWvwp7IlYr) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [fruitcake](https://open.spotify.com/album/7EisdwWcodpmHxgpGVE5Pg) | 2:01 |
 | 20 | [The Christmas Waltz \- Remastered 1999](https://open.spotify.com/track/6G7QhTqDsP5vIdLQTYXXOU) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [A Jolly Christmas From Frank Sinatra](https://open.spotify.com/album/0ny6mZMBrYSO0s8HAKbcVq) | 3:01 |
 | 21 | [What Are You Doing New Year's Eve?](https://open.spotify.com/track/19NdiithlwC8EfytiHVk7a) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Ella Wishes You A Swinging Christmas \(Expanded Edition\)](https://open.spotify.com/album/2UhPCUgK2IGUrg7lIvMYfb) | 3:32 |
 | 22 | [I'll Be Home For Christmas \- Single Version](https://open.spotify.com/track/1fjOitI0vZ41P63p1MQLcc) | [Bing Crosby](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S) | [Bing's Gold Records \- The Original Decca Recordings](https://open.spotify.com/album/6APFyabQl2w6j7eb19abyW) | 2:57 |
@@ -47,16 +47,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX88mTcSM3nFc.md) - [plain]
 | 37 | [Silent Night, Holy Night](https://open.spotify.com/track/3TsoMWVVcbs1mKHBiW5aWz) | [Andy Williams](https://open.spotify.com/artist/4sj6D0zlMOl25nprDJBiU9) | [The Andy Williams Christmas Album](https://open.spotify.com/album/4dcJHxlOJwtyypL7sx1qch) | 2:15 |
 | 38 | [Christmas Must Be Tonight](https://open.spotify.com/track/5HGeTJqFRlhY3VYC9phKw6) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt) | [This Warm December, A Brushfire Holiday Vol\. 2](https://open.spotify.com/album/4dTpeR3SNPSp77CztAXT7T) | 3:47 |
 | 39 | [The Holidays With You](https://open.spotify.com/track/3JMZ5QcFKxGpnMuqOWGvmU) | [Sara Watkins](https://open.spotify.com/artist/1FDE7zZ6jmP8HHb9ej3mek) | [The Holidays With You](https://open.spotify.com/album/02dmqljeCWllbNuP5BVbUg) | 2:05 |
-| 40 | [Angel In The Snow](https://open.spotify.com/track/7Cy8GDa9fgMatoRGFIKjg9) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [New Moon](https://open.spotify.com/album/1BbuJWxtdCS2r6wBt1JsSN) | 2:37 |
-| 41 | [For Those Who Can't Be Here](https://open.spotify.com/track/7nrB7gaYNe1x8Kvv7c0Tps) | [Tom Walker](https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh) | [For Those Who Can't Be Here](https://open.spotify.com/album/06whzJAwv0hrYW3i2N4TWx) | 3:03 |
+| 40 | [For Those Who Can't Be Here](https://open.spotify.com/track/7nrB7gaYNe1x8Kvv7c0Tps) | [Tom Walker](https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh) | [For Those Who Can't Be Here](https://open.spotify.com/album/06whzJAwv0hrYW3i2N4TWx) | 3:03 |
+| 41 | [Angel In The Snow](https://open.spotify.com/track/7Cy8GDa9fgMatoRGFIKjg9) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [New Moon](https://open.spotify.com/album/1BbuJWxtdCS2r6wBt1JsSN) | 2:37 |
 | 42 | [Frosty the Snowman](https://open.spotify.com/track/732qfVoTwzKNDTGm1MfJvp) | [Fiona Apple](https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL) | [The Hotel Café presents..\. Winter Songs](https://open.spotify.com/album/4fhTdBtyYkBi1pJpfSLRad) | 2:10 |
 | 43 | [The Little Boy That Santa Claus Forgot \- 1990 Remaster](https://open.spotify.com/track/4nYhFybm5G4ETNt19pcKzs) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [Cole, Christmas & Kids](https://open.spotify.com/album/6L559yGVxmFOW8ViMMbWI1) | 2:33 |
 | 44 | [Christmas Makes Me Cry](https://open.spotify.com/track/0pZjp6KTdWZVBIHGqfBaW7) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [A Very Kacey Christmas](https://open.spotify.com/album/7sIB15nu0Rp1vR8wXnTx3a) | 2:50 |
 | 45 | [2000 Miles](https://open.spotify.com/track/5v1SC5d3F8VHwqkXx53f7d) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [2000 Miles](https://open.spotify.com/album/0Uk9J6k7ZV1SCsezKHCg6w) | 3:15 |
 | 46 | [Mama It's Christmas](https://open.spotify.com/track/5vUAVSmkkzwcCtXZXuCJ6J) | [Maple Glider](https://open.spotify.com/artist/1Y3IqLN3JkfppIbJG2IWHk) | [To Enjoy is the Only Thing](https://open.spotify.com/album/0TyGoqeYSQepO17jg08VvK) | 4:56 |
 | 47 | [What Do The Lonely Do At Christmas?](https://open.spotify.com/track/4qXgtbu9ZIAhcWVKCwOL72) | [The Emotions](https://open.spotify.com/artist/64CuUOOirKmdAYLQSfaOyr) | [Christmas In Soulsville](https://open.spotify.com/album/1hKmCNqK4Iwxjwn0z9i8bN) | 3:27 |
-| 48 | [Every Holiday](https://open.spotify.com/track/2vXWJZVMkidqV3MwMpuw7a) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [Every Holiday](https://open.spotify.com/album/5AREDLpKoBwu7fTHBmta2B) | 3:44 |
-| 49 | [christmas will break your heart](https://open.spotify.com/track/0dMGq0YUOik1rMZicB96Qa) | [LCD Soundsystem](https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6) | [christmas will break your heart](https://open.spotify.com/album/3skXXEPIZHApEfglcwIlvR) | 4:26 |
+| 48 | [christmas will break your heart](https://open.spotify.com/track/0dMGq0YUOik1rMZicB96Qa) | [LCD Soundsystem](https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6) | [christmas will break your heart](https://open.spotify.com/album/3skXXEPIZHApEfglcwIlvR) | 4:26 |
+| 49 | [Every Holiday](https://open.spotify.com/track/2vXWJZVMkidqV3MwMpuw7a) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [Every Holiday](https://open.spotify.com/album/5AREDLpKoBwu7fTHBmta2B) | 3:44 |
 | 50 | [Whatever Happened To Christmas?](https://open.spotify.com/track/4fzMwQLxkY6qsimuyaDqed) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0), [The Jimmy Joyce Singers](https://open.spotify.com/artist/1M0wdYIdPlJz4Q0ZZjqdbt) | [Ultimate Christmas](https://open.spotify.com/album/1gCLWt3kXk5kNTZdsx6P8a) | 3:06 |
 
-Snapshot ID: `MCxmYTRiMDFmODc3NjdmOGUyMTgzYzhjZjljOTIzZjNmYTQ2NzQ3NmQy`
+Snapshot ID: `MCxiMWY0ZjgzNWQzZDU4MzA3MzM5OTNjMDM3OWE4ZTNjODM4YmEwZTUx`

@@ -1,12 +1,12 @@
 {
   "description": "Your music. Your faith. Your life. This is Pop for life!  Cover artist: Blessing Offor",
-  "num_followers": 202974,
+  "num_followers": 202995,
   "original_name": "Pop for Life",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZDUwMjI0NzYxMGY1ZTcyMGM2NTA5Njg0YTRmOWU2NjI1YTQ4NWYw",
+  "snapshot_id": "MCwzZDg3M2Y4YTk4MDcwYjNjMDVmODZjZjRmOTdiNTZkZWMzY2ZkY2Rl",
   "tracks": [
     {
       "added_at": "2023-01-13 21:46:56",
@@ -179,26 +179,6 @@
     {
       "added_at": "2023-01-13 21:46:56",
       "album": {
-        "name": "Missing Piece",
-        "url": "https://open.spotify.com/album/3cltdHvJPTK7hwtWCHgPz0"
-      },
-      "artists": [
-        {
-          "name": "Alive City",
-          "url": "https://open.spotify.com/artist/5Toah6plT6mSqAKVffLAj5"
-        },
-        {
-          "name": "Quasarpro",
-          "url": "https://open.spotify.com/artist/0LHG14z6WbWvKtUNTMF7Ww"
-        }
-      ],
-      "duration_ms": 193007,
-      "name": "Missing Piece",
-      "url": "https://open.spotify.com/track/5qHg5XJtrqtHVvkkto4gYp"
-    },
-    {
-      "added_at": "2023-01-13 21:46:56",
-      "album": {
         "name": "Shackles (Praise You)",
         "url": "https://open.spotify.com/album/3MV9tnmk8JZGXMhNg5rx7m"
       },
@@ -215,6 +195,26 @@
       "duration_ms": 158235,
       "name": "Shackles (Praise You)",
       "url": "https://open.spotify.com/track/7BS27vWbRTmCkSEpeFZRRy"
+    },
+    {
+      "added_at": "2023-01-13 21:46:56",
+      "album": {
+        "name": "Missing Piece",
+        "url": "https://open.spotify.com/album/3cltdHvJPTK7hwtWCHgPz0"
+      },
+      "artists": [
+        {
+          "name": "Alive City",
+          "url": "https://open.spotify.com/artist/5Toah6plT6mSqAKVffLAj5"
+        },
+        {
+          "name": "Quasarpro",
+          "url": "https://open.spotify.com/artist/0LHG14z6WbWvKtUNTMF7Ww"
+        }
+      ],
+      "duration_ms": 193007,
+      "name": "Missing Piece",
+      "url": "https://open.spotify.com/track/5qHg5XJtrqtHVvkkto4gYp"
     },
     {
       "added_at": "2023-01-13 21:46:56",
@@ -299,22 +299,6 @@
     {
       "added_at": "2023-01-13 21:46:56",
       "album": {
-        "name": "God Help Me",
-        "url": "https://open.spotify.com/album/5qwfcAITMqoSXLF5sh2yx8"
-      },
-      "artists": [
-        {
-          "name": "Unspoken",
-          "url": "https://open.spotify.com/artist/0CqDqmyIQ9VQHQp52OEbB0"
-        }
-      ],
-      "duration_ms": 157617,
-      "name": "Love Is Everything We Need",
-      "url": "https://open.spotify.com/track/5SCLsSvlwGeZuZTqma0SdQ"
-    },
-    {
-      "added_at": "2023-01-13 21:46:56",
-      "album": {
         "name": "You, Me, The Church, That's Us - Side A",
         "url": "https://open.spotify.com/album/1X0arfGuBkEscqJuBtCtl4"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 185910,
       "name": "I Believe",
       "url": "https://open.spotify.com/track/7l1zEDrW54eHBlNEE75NRB"
+    },
+    {
+      "added_at": "2023-01-13 21:46:56",
+      "album": {
+        "name": "God Help Me",
+        "url": "https://open.spotify.com/album/5qwfcAITMqoSXLF5sh2yx8"
+      },
+      "artists": [
+        {
+          "name": "Unspoken",
+          "url": "https://open.spotify.com/artist/0CqDqmyIQ9VQHQp52OEbB0"
+        }
+      ],
+      "duration_ms": 157617,
+      "name": "Love Is Everything We Need",
+      "url": "https://open.spotify.com/track/5SCLsSvlwGeZuZTqma0SdQ"
     },
     {
       "added_at": "2023-01-13 21:46:56",
@@ -371,22 +371,6 @@
     {
       "added_at": "2023-01-13 21:46:56",
       "album": {
-        "name": "Say Goodbye (Say Hello)",
-        "url": "https://open.spotify.com/album/4V63HNyGrPygSfITQolJYW"
-      },
-      "artists": [
-        {
-          "name": "The Afters",
-          "url": "https://open.spotify.com/artist/1Q9nxD19emMUTTWtFi7jZc"
-        }
-      ],
-      "duration_ms": 195358,
-      "name": "Say Goodbye (Say Hello)",
-      "url": "https://open.spotify.com/track/29qRIyGVrmRiCdZpHAVNa7"
-    },
-    {
-      "added_at": "2023-01-13 21:46:56",
-      "album": {
         "name": "Love Me Back to Life",
         "url": "https://open.spotify.com/album/3HZqRpVyE10Z5PEJ3gXLbM"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 167617,
       "name": "Love Me Back to Life",
       "url": "https://open.spotify.com/track/28ZTokxLv6KCdjjgqI0T5J"
+    },
+    {
+      "added_at": "2023-01-13 21:46:56",
+      "album": {
+        "name": "Say Goodbye (Say Hello)",
+        "url": "https://open.spotify.com/album/4V63HNyGrPygSfITQolJYW"
+      },
+      "artists": [
+        {
+          "name": "The Afters",
+          "url": "https://open.spotify.com/artist/1Q9nxD19emMUTTWtFi7jZc"
+        }
+      ],
+      "duration_ms": 195358,
+      "name": "Say Goodbye (Say Hello)",
+      "url": "https://open.spotify.com/track/29qRIyGVrmRiCdZpHAVNa7"
     },
     {
       "added_at": "2023-01-13 21:46:56",
@@ -527,22 +527,6 @@
     {
       "added_at": "2023-01-13 21:46:56",
       "album": {
-        "name": "Always Will Be",
-        "url": "https://open.spotify.com/album/5vX74Wne2jfdf4KjAaHT3x"
-      },
-      "artists": [
-        {
-          "name": "Jonathan Ogden",
-          "url": "https://open.spotify.com/artist/2Q1d40J0u4IWGg4oZNPBZ7"
-        }
-      ],
-      "duration_ms": 230000,
-      "name": "Always Will Be",
-      "url": "https://open.spotify.com/track/2e5TtXZgMvWnnVAv5zQuHX"
-    },
-    {
-      "added_at": "2023-01-13 21:46:56",
-      "album": {
         "name": "Good Life",
         "url": "https://open.spotify.com/album/0dCRBYfyfx8MJp26N9efng"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 186000,
       "name": "Feeling Good",
       "url": "https://open.spotify.com/track/5I2rVSetWAXunwCeqzJBhV"
+    },
+    {
+      "added_at": "2023-01-13 21:46:56",
+      "album": {
+        "name": "Always Will Be",
+        "url": "https://open.spotify.com/album/5vX74Wne2jfdf4KjAaHT3x"
+      },
+      "artists": [
+        {
+          "name": "Jonathan Ogden",
+          "url": "https://open.spotify.com/artist/2Q1d40J0u4IWGg4oZNPBZ7"
+        }
+      ],
+      "duration_ms": 230000,
+      "name": "Always Will Be",
+      "url": "https://open.spotify.com/track/2e5TtXZgMvWnnVAv5zQuHX"
     },
     {
       "added_at": "2023-01-13 21:46:56",
@@ -831,22 +831,6 @@
     {
       "added_at": "2023-01-13 21:46:56",
       "album": {
-        "name": "Broken Is Beautiful",
-        "url": "https://open.spotify.com/album/6Wx2aYawDBnNXuJhfQbtgK"
-      },
-      "artists": [
-        {
-          "name": "The Young Escape",
-          "url": "https://open.spotify.com/artist/39ZuGmOP3orNn5Pf8S13VW"
-        }
-      ],
-      "duration_ms": 250909,
-      "name": "Broken Is Beautiful",
-      "url": "https://open.spotify.com/track/0D7tG0LWJLqpSkrUacfBRh"
-    },
-    {
-      "added_at": "2023-01-13 21:46:56",
-      "album": {
         "name": "Say It (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2HwzqxG3WpaIqGjjbvXvWz"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 196161,
       "name": "Stained Glass",
       "url": "https://open.spotify.com/track/71ikD1S5jJUIiWAfuVhqXQ"
+    },
+    {
+      "added_at": "2023-01-13 21:46:56",
+      "album": {
+        "name": "Broken Is Beautiful",
+        "url": "https://open.spotify.com/album/6Wx2aYawDBnNXuJhfQbtgK"
+      },
+      "artists": [
+        {
+          "name": "The Young Escape",
+          "url": "https://open.spotify.com/artist/39ZuGmOP3orNn5Pf8S13VW"
+        }
+      ],
+      "duration_ms": 250909,
+      "name": "Broken Is Beautiful",
+      "url": "https://open.spotify.com/track/0D7tG0LWJLqpSkrUacfBRh"
     },
     {
       "added_at": "2023-01-13 21:46:56",
@@ -1051,8 +1051,8 @@
     {
       "added_at": "2023-01-13 21:46:56",
       "album": {
-        "name": "Covered",
-        "url": "https://open.spotify.com/album/4jh2AV1FQb7QRNRj23VY1D"
+        "name": "Better View, Part II",
+        "url": "https://open.spotify.com/album/6VJwdT4jWHtnhCtC7tzMNy"
       },
       "artists": [
         {
@@ -1060,9 +1060,9 @@
           "url": "https://open.spotify.com/artist/67xUUajI1dXaeY4e4ouwEN"
         }
       ],
-      "duration_ms": 196987,
-      "name": "Covered",
-      "url": "https://open.spotify.com/track/3BRT8Js2RaXg5KPicqK0gb"
+      "duration_ms": 184393,
+      "name": "Invited",
+      "url": "https://open.spotify.com/track/4LHJUZCjDrjI7mQEbM48r3"
     },
     {
       "added_at": "2023-01-13 21:46:56",
@@ -1107,6 +1107,22 @@
     {
       "added_at": "2023-01-13 21:46:56",
       "album": {
+        "name": "Tempo",
+        "url": "https://open.spotify.com/album/7p5h5fCyKUSY3oiAmD0vSh"
+      },
+      "artists": [
+        {
+          "name": "Run51",
+          "url": "https://open.spotify.com/artist/1qC0iwCgdWNwJM1KCxbX10"
+        }
+      ],
+      "duration_ms": 178587,
+      "name": "Tempo",
+      "url": "https://open.spotify.com/track/4vCOWKHmZGscJ4i0g9JVXg"
+    },
+    {
+      "added_at": "2023-01-13 21:46:56",
+      "album": {
         "name": "Never Too Far",
         "url": "https://open.spotify.com/album/3IDbW2wbji3bIy74oNWcs8"
       },
@@ -1127,34 +1143,22 @@
     {
       "added_at": "2023-01-13 21:46:56",
       "album": {
-        "name": "Tempo",
-        "url": "https://open.spotify.com/album/7p5h5fCyKUSY3oiAmD0vSh"
+        "name": "Come and Be My Love",
+        "url": "https://open.spotify.com/album/7cBoHY7VgpIUChSQS59R85"
       },
       "artists": [
         {
-          "name": "Run51",
-          "url": "https://open.spotify.com/artist/1qC0iwCgdWNwJM1KCxbX10"
-        }
-      ],
-      "duration_ms": 178587,
-      "name": "Tempo",
-      "url": "https://open.spotify.com/track/4vCOWKHmZGscJ4i0g9JVXg"
-    },
-    {
-      "added_at": "2023-01-13 21:46:56",
-      "album": {
-        "name": "It's About Time",
-        "url": "https://open.spotify.com/album/6YF6LnMttUrjDv1COLZahy"
-      },
-      "artists": [
+          "name": "Silas Magalh\u00e3es",
+          "url": "https://open.spotify.com/artist/4XEgyepPNaJ86gsPESPAg5"
+        },
         {
-          "name": "Kevin Quinn",
-          "url": "https://open.spotify.com/artist/3HTHz4rj84gMMV8T3u81op"
+          "name": "Asha Elia",
+          "url": "https://open.spotify.com/artist/60CbU4u8dlhoHzRCNhTA1S"
         }
       ],
-      "duration_ms": 174314,
-      "name": "It's About Time",
-      "url": "https://open.spotify.com/track/0aB914urPdqO2CNCMn5X8i"
+      "duration_ms": 162580,
+      "name": "Come and Be My Love",
+      "url": "https://open.spotify.com/track/41p6wYPGfrUkUYHgE550c0"
     },
     {
       "added_at": "2023-01-13 21:46:56",
@@ -1183,6 +1187,38 @@
     {
       "added_at": "2023-01-13 21:46:56",
       "album": {
+        "name": "It's About Time",
+        "url": "https://open.spotify.com/album/6YF6LnMttUrjDv1COLZahy"
+      },
+      "artists": [
+        {
+          "name": "Kevin Quinn",
+          "url": "https://open.spotify.com/artist/3HTHz4rj84gMMV8T3u81op"
+        }
+      ],
+      "duration_ms": 174314,
+      "name": "It's About Time",
+      "url": "https://open.spotify.com/track/0aB914urPdqO2CNCMn5X8i"
+    },
+    {
+      "added_at": "2023-01-13 21:46:56",
+      "album": {
+        "name": "Covered",
+        "url": "https://open.spotify.com/album/4jh2AV1FQb7QRNRj23VY1D"
+      },
+      "artists": [
+        {
+          "name": "Switch",
+          "url": "https://open.spotify.com/artist/67xUUajI1dXaeY4e4ouwEN"
+        }
+      ],
+      "duration_ms": 196987,
+      "name": "Covered",
+      "url": "https://open.spotify.com/track/3BRT8Js2RaXg5KPicqK0gb"
+    },
+    {
+      "added_at": "2023-01-13 21:46:56",
+      "album": {
         "name": "Step Into The Fight (Gregatron Remix)",
         "url": "https://open.spotify.com/album/51CtTp4TGVtbm1rFoja0lk"
       },
@@ -1195,42 +1231,6 @@
       "duration_ms": 213868,
       "name": "Step Into The Fight - Gregatron Remix",
       "url": "https://open.spotify.com/track/7MmEyVUNFyNXvCUy67M6RD"
-    },
-    {
-      "added_at": "2023-01-13 21:46:56",
-      "album": {
-        "name": "Better View, Part II",
-        "url": "https://open.spotify.com/album/6VJwdT4jWHtnhCtC7tzMNy"
-      },
-      "artists": [
-        {
-          "name": "Switch",
-          "url": "https://open.spotify.com/artist/67xUUajI1dXaeY4e4ouwEN"
-        }
-      ],
-      "duration_ms": 184393,
-      "name": "Invited",
-      "url": "https://open.spotify.com/track/4LHJUZCjDrjI7mQEbM48r3"
-    },
-    {
-      "added_at": "2023-01-13 21:46:56",
-      "album": {
-        "name": "Come and Be My Love",
-        "url": "https://open.spotify.com/album/7cBoHY7VgpIUChSQS59R85"
-      },
-      "artists": [
-        {
-          "name": "Silas Magalh\u00e3es",
-          "url": "https://open.spotify.com/artist/4XEgyepPNaJ86gsPESPAg5"
-        },
-        {
-          "name": "Asha Elia",
-          "url": "https://open.spotify.com/artist/60CbU4u8dlhoHzRCNhTA1S"
-        }
-      ],
-      "duration_ms": 162580,
-      "name": "Come and Be My Love",
-      "url": "https://open.spotify.com/track/41p6wYPGfrUkUYHgE550c0"
     },
     {
       "added_at": "2023-01-13 21:46:56",
@@ -1315,18 +1315,18 @@
     {
       "added_at": "2023-01-13 21:46:56",
       "album": {
-        "name": "Known, Seen, Loved",
-        "url": "https://open.spotify.com/album/2vyiLc8hSAi3nDNe11CoQn"
+        "name": "Lost On Me",
+        "url": "https://open.spotify.com/album/3jISEw2vtj2ckkBt7f5OQu"
       },
       "artists": [
         {
-          "name": "MORIAH",
-          "url": "https://open.spotify.com/artist/1w0QYx2G0ywsCClH84FcAv"
+          "name": "Landry Cantrell",
+          "url": "https://open.spotify.com/artist/6WYJ7U3mOA7bzOMkkkT3N6"
         }
       ],
-      "duration_ms": 188138,
-      "name": "Known, Seen, Loved",
-      "url": "https://open.spotify.com/track/1XMyGFBaTkXKsypEZD1dmr"
+      "duration_ms": 184385,
+      "name": "Source",
+      "url": "https://open.spotify.com/track/0YJFMeUJeibHyUNw8al76e"
     },
     {
       "added_at": "2023-01-13 21:46:56",
@@ -1351,18 +1351,18 @@
     {
       "added_at": "2023-01-13 21:46:56",
       "album": {
-        "name": "Lost On Me",
-        "url": "https://open.spotify.com/album/3jISEw2vtj2ckkBt7f5OQu"
+        "name": "Known, Seen, Loved",
+        "url": "https://open.spotify.com/album/2vyiLc8hSAi3nDNe11CoQn"
       },
       "artists": [
         {
-          "name": "Landry Cantrell",
-          "url": "https://open.spotify.com/artist/6WYJ7U3mOA7bzOMkkkT3N6"
+          "name": "MORIAH",
+          "url": "https://open.spotify.com/artist/1w0QYx2G0ywsCClH84FcAv"
         }
       ],
-      "duration_ms": 184385,
-      "name": "Source",
-      "url": "https://open.spotify.com/track/0YJFMeUJeibHyUNw8al76e"
+      "duration_ms": 188138,
+      "name": "Known, Seen, Loved",
+      "url": "https://open.spotify.com/track/1XMyGFBaTkXKsypEZD1dmr"
     },
     {
       "added_at": "2023-01-13 21:46:56",
@@ -1387,18 +1387,18 @@
     {
       "added_at": "2023-01-13 21:46:56",
       "album": {
-        "name": "more like you",
-        "url": "https://open.spotify.com/album/7LXQLC9LcezYqo9wTWzj2J"
+        "name": "I Will Follow You (Live)",
+        "url": "https://open.spotify.com/album/6cr9tcbIA8U3ZelOcClNR3"
       },
       "artists": [
         {
-          "name": "Reed Deming",
-          "url": "https://open.spotify.com/artist/1fKEt9S1A4iszlgL9rFjPR"
+          "name": "planetboom",
+          "url": "https://open.spotify.com/artist/3xDe2V5Jo2zjAT6oemUeDj"
         }
       ],
-      "duration_ms": 197500,
-      "name": "more like you",
-      "url": "https://open.spotify.com/track/039ZACDj8Cb8AA0jdKyQgT"
+      "duration_ms": 231123,
+      "name": "I Will Follow You - Live",
+      "url": "https://open.spotify.com/track/3iYqdGDa5Si2ae9A0jEL66"
     }
   ],
   "unique_name": "Pop for Life",

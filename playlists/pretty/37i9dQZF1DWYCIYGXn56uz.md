@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYCIYGXn56uz.md) - [plain]
 
 > ✨giovane✨pop✨z✨ Cover: Mew\. <a href="spotify:playlist:37i9dQZF1DWTDcvdOAx9xg">Scopri il Best Of del 2023 qui!</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 387,173 likes - 60 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 387,186 likes - 60 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYCIYGXn56uz.md) - [plain]
 | 59 | [La parte più bella di me \- RMX](https://open.spotify.com/track/3fqElKBSWrAvObrMqx5oP8) | [Anto Paga](https://open.spotify.com/artist/2EdLV4ftq7Ks8dR7roTHrq), [I Desideri](https://open.spotify.com/artist/4t7NH9MvLDY2RMiNLE50d8) | [La parte più bella di me \(RMX\)](https://open.spotify.com/album/2Knm3BBycBMixIas269Ik2) | 2:15 |
 | 60 | [Laggiù](https://open.spotify.com/track/5zRHxcZwWJKqNFONmFZcbk) | [Piccolo G](https://open.spotify.com/artist/5OIYMOg9lPLouzN3jIerv2) | [Laggiù](https://open.spotify.com/album/07mjhDHGXDltlvoFD9cVSj) | 2:39 |
 
-Snapshot ID: `MCw2YjlhNmNiMGI3OTEwYTU0OWU3YWI4ZjIyNWFkMzAzYWJjMWNkYzJm`
+Snapshot ID: `MCwxNDY1ZTc2MDhjYmIyNzVlNWMyMTZlNDY5ZTQ2Y2RhNmFiOTgyNTY3`

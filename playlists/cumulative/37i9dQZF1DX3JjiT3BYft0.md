@@ -4,7 +4,7 @@
 
 > Music from “BanG Dream! “ series! 次世代ガールズバンドプロジェクト『BanG Dream!（バンドリ！）』公式プレイリスト。
 
-367 songs - 1 day 2 hr 37 min
+368 songs - 1 day 2 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -134,7 +134,7 @@
 | [Pico! Papi! Girls Band Party☆PICO!!!](https://open.spotify.com/track/1z08YefAMfJ2ptFaniswty) | [香澄](https://open.spotify.com/artist/2sgl0Q7BtpEJyBTvfZfgaV), [蘭](https://open.spotify.com/artist/7Is8KdfbbtdKXXaSz61Jeu), [彩](https://open.spotify.com/artist/7zCumr2sucYrZFf5vpKY69), [友希那](https://open.spotify.com/artist/0FSUZ6pfjMsJRtrCNOOJkw), [こころ](https://open.spotify.com/artist/71qaQP4Hq29ERluMIIUdyM) | [Pico! Papi! Girls Band Party☆PICO!!!](https://open.spotify.com/album/4pWMug5ycdlFxRDG0Cj2xI) | 4:18 | 2022-06-23 | 2022-10-01 |
 | [Prelude to Gold](https://open.spotify.com/track/0Rbgngwzqoshr5LpGVZ7xB) | [Morfonica](https://open.spotify.com/artist/12BquJvJVg8XFRB3M90MmJ) | [Daylight](https://open.spotify.com/album/0eFR8VfRxxb8NxnZVn8HM0) | 4:30 | 2022-08-30 | 2022-09-21 |
 | [Proud of oneself](https://open.spotify.com/track/3LkLzp3pFCU70XjfPMqZJS) | [Roselia](https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy) | [劇場版「BanG Dream! Episode of Roselia」Theme Songs Collection](https://open.spotify.com/album/77QL1Doyhto0EZpnxCbDxR) | 3:55 | 2022-05-17 | 2022-07-28 |
-| [Proud of oneself](https://open.spotify.com/track/4DzmwPT3R4WvNK3uoZUti0) | [Roselia](https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy) | [劇場版「BanG Dream! Episode of Roselia」Theme Songs Collection](https://open.spotify.com/album/5u6E8FwjrbRDYrVh0SVHlS) | 3:55 | 2023-05-30 |  |
+| [Proud of oneself](https://open.spotify.com/track/4DzmwPT3R4WvNK3uoZUti0) | [Roselia](https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy) | [劇場版「BanG Dream! Episode of Roselia」Theme Songs Collection](https://open.spotify.com/album/5u6E8FwjrbRDYrVh0SVHlS) | 3:55 | 2023-05-30 | 2023-12-03 |
 | [Quintuple☆Smile](https://open.spotify.com/track/4u5uWG6Z7DI8eysB5KfpQe) | [香澄](https://open.spotify.com/artist/2sgl0Q7BtpEJyBTvfZfgaV), [蘭](https://open.spotify.com/artist/7Is8KdfbbtdKXXaSz61Jeu), [彩](https://open.spotify.com/artist/7zCumr2sucYrZFf5vpKY69), [友希那](https://open.spotify.com/artist/0FSUZ6pfjMsJRtrCNOOJkw), [こころ](https://open.spotify.com/artist/71qaQP4Hq29ERluMIIUdyM) | [Quintuple☆Smile](https://open.spotify.com/album/3Sch89X2lpqgiCfyansDMH) | 4:05 | 2022-06-23 | 2022-10-01 |
 | [R](https://open.spotify.com/track/47A0qgNW9wlP6MjHtiRU3t) | [Roselia](https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy) | [R](https://open.spotify.com/album/2AQAFDMU98RiR1Z1sjGot9) | 4:44 | 2022-06-23 | 2022-07-21 |
 | [R](https://open.spotify.com/track/5VDaJPJ2AeqPImMYpsgFvp) | [Roselia](https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy) | [R](https://open.spotify.com/album/2xRG2r54L8p0if9NsHeXX5) | 4:44 | 2022-06-23 | 2022-09-17 |
@@ -150,6 +150,7 @@
 | [ROZEN HORIZON](https://open.spotify.com/track/7BnQ7guT0xmlYP2EULTUwq) | [Roselia](https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy) | [ROZEN HORIZON](https://open.spotify.com/album/4w4tqtDKKmJkZBrngEsNM1) | 6:06 | 2022-05-17 | 2022-07-29 |
 | [ROZEN HORIZON](https://open.spotify.com/track/7dGXBMLYZF4wYCnkcxpOjd) | [Roselia](https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy) | [ROZEN HORIZON](https://open.spotify.com/album/03Zx4kGKtldlHXklQDPnfO) | 6:06 | 2022-06-23 | 2022-10-02 |
 | [ROZEN HORIZON](https://open.spotify.com/track/1hypmw0p1Ntu6T5VcAfT6K) | [Roselia](https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy) | [ROZEN HORIZON](https://open.spotify.com/album/6M4B2rkX3eByOIpi9DQaiz) | 6:06 | 2022-09-20 | 2023-09-11 |
+| [ROZEN HORIZON](https://open.spotify.com/track/590mAad0xehlwm9SbdZgrK) | [Roselia](https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy) | [ROZEN HORIZON](https://open.spotify.com/album/5YgaGp6mhmDjRndCtaKj3d) | 6:06 | 2023-11-21 |  |
 | [R·I·O·T](https://open.spotify.com/track/6qtsdJ8eSKi68ieKo43mOg) | [RAISE A SUILEN](https://open.spotify.com/artist/6zPsF3A9PvZ4s0NG6z76up) | [R·I·O·T](https://open.spotify.com/album/7971vL4vk2LncWMC0bioe3) | 5:01 | 2022-06-23 | 2022-07-24 |
 | [R·I·O·T](https://open.spotify.com/track/5SY9BO5RF5ecqQYtDYyCB5) | [RAISE A SUILEN](https://open.spotify.com/artist/6zPsF3A9PvZ4s0NG6z76up) | [ERA](https://open.spotify.com/album/7rw0JTu5asLZcjzmCUmbgD) | 5:01 | 2022-09-20 |  |
 | [R・I・O・T](https://open.spotify.com/track/1WcM5RgshQS5bZQEOMOHE8) | [RAISE A SUILEN](https://open.spotify.com/artist/6zPsF3A9PvZ4s0NG6z76up) | [ERA](https://open.spotify.com/album/62C2FYnrqee7cqVlrn24yk) | 5:04 | 2022-06-23 | 2022-10-02 |

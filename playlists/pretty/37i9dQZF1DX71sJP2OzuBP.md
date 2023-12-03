@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 
 > 上班時間很長，就讓最新最動聽的國語歌陪你，舒服輕聽一起渡過吧！
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,859 likes - 105 songs - 6 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,854 likes - 105 songs - 6 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 | 104 | [不懂絕望](https://open.spotify.com/track/1RLSpChhEUOWkPKRvWt9oY) | [陳威全](https://open.spotify.com/artist/1AXBUAKorwcXfesS9xj5m5) | [MAMAK](https://open.spotify.com/album/7J5hXDwdHTzIycAm38yZ65) | 4:09 |
 | 105 | [一首未完的歌](https://open.spotify.com/track/1RnGnadcVIfwOzk5OR8Hg2) | [Nicky Lee](https://open.spotify.com/artist/6DuHQk8gJbyVlhajer8IuF) | [一首未完的歌](https://open.spotify.com/album/63JEeEKzaiX3qF87bcPbPE) | 2:36 |
 
-Snapshot ID: `MCw0YTFmMjkwODAxMjVmYjk4MzAwY2JkZDNkNjk3YTZjMGQwMmRkNzgz`
+Snapshot ID: `MCxhM2NmZjJiZjkxZDU5MGQ2MWRlYTBjZWIzNGQ0OWM0MGU1MGVhYzBh`

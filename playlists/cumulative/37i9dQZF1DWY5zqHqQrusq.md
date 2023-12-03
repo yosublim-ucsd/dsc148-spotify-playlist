@@ -4,7 +4,7 @@
 
 > Chill, take a long walk and clear your mind
 
-66 songs - 3 hr 42 min
+68 songs - 3 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,7 @@
 | [Impilo Yami](https://open.spotify.com/track/2zgjDvC4btrPBHBg1w4QqM) | [SERRO](https://open.spotify.com/artist/4r3svQfFw0Ae5GMplY92u9) | [Misimu](https://open.spotify.com/album/68CvaHEB0uNEYLKUCosqYH) | 3:32 | 2022-11-11 |  |
 | [IN THE RAIN](https://open.spotify.com/track/4LolcPDdgSroaKquGfCFqt) | [Hamzaa](https://open.spotify.com/artist/3TXjnAw0sg1VVdnR9fGdBs) | [Full Circle](https://open.spotify.com/album/4PhEHRqWfgTnTwDXAVq4SN) | 2:40 | 2022-11-11 |  |
 | [Jaded](https://open.spotify.com/track/2oUqHt6WhKih0nmfHhVj3J) | [Le Ru](https://open.spotify.com/artist/2Kgd8TvR0MGJ0NRFkGX0DJ) | [The Ride](https://open.spotify.com/album/6ZLeYdY71zyZ9Vvl17XSGM) | 3:46 | 2022-11-11 | 2023-09-16 |
-| [Karma](https://open.spotify.com/track/6TWmMuc8pofbqBJA0jn4GW) | [Israel Onyach](https://open.spotify.com/artist/0FsioHzjzS6b1EZKadZsZK) | [Karma](https://open.spotify.com/album/6vxjwodaQOfH0QI2LJ63Qu) | 2:50 | 2022-11-11 |  |
+| [Karma](https://open.spotify.com/track/6TWmMuc8pofbqBJA0jn4GW) | [Israel Onyach](https://open.spotify.com/artist/0FsioHzjzS6b1EZKadZsZK) | [Karma](https://open.spotify.com/album/6vxjwodaQOfH0QI2LJ63Qu) | 2:50 | 2022-11-11 | 2023-12-03 |
 | [Kitanda Baridi](https://open.spotify.com/track/2eTVkoIsvzRmiOd1FiXwn5) | [Nasibi](https://open.spotify.com/artist/1XdK619e8CJcR5D5nxGF0h) | [Kitanda Baridi](https://open.spotify.com/album/37koEdQDcJf6odt9woXGUu) | 2:56 | 2023-09-15 |  |
 | [Less](https://open.spotify.com/track/4RuuafWTVxluP7QgNvlIXE) | [M\. Rumbi](https://open.spotify.com/artist/6ToQowXRJ5GkBPHDECCEoP), [Andyah](https://open.spotify.com/artist/0TEFK09eFLqYTE2fj7xUtX) | [Less](https://open.spotify.com/album/5oiJNwUcVFKzIICaCH0AVo) | 1:25 | 2022-11-11 | 2023-04-17 |
 | [Less](https://open.spotify.com/track/6ihCdfXsn8YNrt1YjANzjs) | [M\. Rumbi](https://open.spotify.com/artist/6ToQowXRJ5GkBPHDECCEoP), [Andyah](https://open.spotify.com/artist/0TEFK09eFLqYTE2fj7xUtX) | [More / Less](https://open.spotify.com/album/34EoIMWzhRXhAl1zbOmi7g) | 1:25 | 2022-11-11 |  |
@@ -56,8 +56,9 @@
 | [Save My Soul \(Who Will Remain?\)](https://open.spotify.com/track/4oCbEd2ub83mqyKQUhU3qN) | [Just a Band](https://open.spotify.com/artist/0udvEwi0yqxRFUnv5x0VJA) | [Save My Soul \(Who Will Remain?\)](https://open.spotify.com/album/65HSV5JvGWhtbvnBOITYMY) | 2:37 | 2022-11-11 |  |
 | [See Me](https://open.spotify.com/track/7eaKAVoEqeo98PBEIsgLM0) | [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86) | [Fallin' Apart](https://open.spotify.com/album/7sTMUZfjsk7CjmCybDP1nX) | 4:20 | 2022-11-11 | 2023-09-16 |
 | [Silaha](https://open.spotify.com/track/2yMdEGOICut7TC8VrMU1TA) | [Ukweli](https://open.spotify.com/artist/5I48tG854vS1rY1isuMOgQ), [KASHA](https://open.spotify.com/artist/3BFcfVVwbFe4z0iXW535By) | [Silaha](https://open.spotify.com/album/5qyqECj5IQxIP3fa4K4Qsu) | 4:20 | 2022-11-11 |  |
-| [Sio Siri](https://open.spotify.com/track/5oKoPTkNST0DFa6CYOrCS6) | [Watendawili](https://open.spotify.com/artist/0q5lwUUiJEjoNVtHQv1jdn) | [Sio Siri](https://open.spotify.com/album/1XkXWsoUaTSbYFtKjDOR54) | 3:08 | 2022-11-11 |  |
+| [Sio Siri](https://open.spotify.com/track/5oKoPTkNST0DFa6CYOrCS6) | [Watendawili](https://open.spotify.com/artist/0q5lwUUiJEjoNVtHQv1jdn) | [Sio Siri](https://open.spotify.com/album/1XkXWsoUaTSbYFtKjDOR54) | 3:08 | 2022-11-11 | 2023-12-03 |
 | [Skin](https://open.spotify.com/track/1j6AwoqDeTLmfvBeY281CN) | [Zowie Kengocha](https://open.spotify.com/artist/2lwHCnbymJQL6WUDaEKdci) | [You Never Learn](https://open.spotify.com/album/53p5igeY5gYg2TDXVKDeVd) | 3:39 | 2023-04-28 |  |
+| [Slowly](https://open.spotify.com/track/2fSLRfuJr2utyjHrbohiWu) | [Ochiko](https://open.spotify.com/artist/33hRHDCTA20GjDaJaCIEXi) | [The Footprint](https://open.spotify.com/album/04ZdDUDZ05hdtUawvudVL4) | 3:37 | 2023-12-02 |  |
 | [So Tired](https://open.spotify.com/track/2qt8hSdiYKD33C7zZcrxPB) | [Janice Iche](https://open.spotify.com/artist/0WKolZ2vjyVVJtGEGNBpeJ) | [So Tired](https://open.spotify.com/album/2ZbOkKbtmqC84BC1wzxfTR) | 3:35 | 2022-11-11 |  |
 | [Sometimes](https://open.spotify.com/track/1qOVb7IpU5Mp0vM7HVVA5V) | [Njoki Karu](https://open.spotify.com/artist/0pGewSIX8FwwBqZLsbDk7F) | [Tawasifu Ya Moyo](https://open.spotify.com/album/0BPwyOsMg7lQrdxWoy4YLv) | 3:52 | 2022-11-11 |  |
 | [Sometimes \- slowed+reverb remix](https://open.spotify.com/track/1Wai4S6wD7jE9vjrZW9Ydw) | [Mist'riii](https://open.spotify.com/artist/2ET4fikSmaataNBz8cJM4e) | [Sometimes \(slowed+reverb remix\)](https://open.spotify.com/album/05Lhrlmn5toScqQhr4pRXc) | 4:23 | 2022-11-11 |  |
@@ -66,6 +67,7 @@
 | [Sunshine](https://open.spotify.com/track/47jeYgNLyaN1pBLQrVE6x0) | [Muthaka](https://open.spotify.com/artist/1y2NzUCGrOaUPBZhhyUPcQ) | [Sunshine](https://open.spotify.com/album/3abCYOOplfgQSvt5vrOF29) | 3:28 | 2022-11-11 | 2023-04-29 |
 | [The Oasis on Mbaazi Street](https://open.spotify.com/track/6ncAWPMP3cxAmiwN6SI8ca) | [Lisa Oduor\-Noah](https://open.spotify.com/artist/2lzhfTv334wDq7W7tFyJHa) | [Lisa Oduor\-Noah](https://open.spotify.com/album/01OpRABjuFQgRtj4DdT55m) | 2:53 | 2022-11-11 | 2023-07-05 |
 | [The Oasis on Mbaazi Street](https://open.spotify.com/track/7oqKrDdrY5BvaNOTJ0wO7l) | [Lisa Oduor\-Noah](https://open.spotify.com/artist/2lzhfTv334wDq7W7tFyJHa) | [Lisa Oduor Noah](https://open.spotify.com/album/1j6atBlfWPYRhbhkOsKr0V) | 2:53 | 2023-04-28 |  |
+| [Things Change](https://open.spotify.com/track/67CQz7IH16hlEQf7AszkY8) | [Modest Chabari](https://open.spotify.com/artist/6lIgY6GFEW514NQ6bqafIm) | [Nostalgia](https://open.spotify.com/album/5ZZ5etoKU2wQ6eb2U5j1uZ) | 3:15 | 2023-12-02 |  |
 | [time \(with my ex\)](https://open.spotify.com/track/3vdmUmL9RzhrQTD67w5dl6) | [Papa](https://open.spotify.com/artist/3yhUYybUxwJn1or7zHXWHy) | [Legacy](https://open.spotify.com/album/1RJZeNA3Awf8RBHPqQ9Cha) | 2:30 | 2022-11-11 | 2023-10-21 |
 | [Time to Time](https://open.spotify.com/track/3fuUYQ8O8U6np3tJ2dTJfe) | [Jason Sibi\-Okumu](https://open.spotify.com/artist/62RxzBJ449g8jS0gZp4X06) | [Time to Time](https://open.spotify.com/album/28u4a1OlTaFeDbmjWM8gyw) | 3:41 | 2022-11-11 |  |
 | [Turn It Off](https://open.spotify.com/track/1juwVlJ15TZZXFo4vIEexs) | [Colossal Music](https://open.spotify.com/artist/6jlzMtFLWK4oUNyAeYu520), [Amara Tari](https://open.spotify.com/artist/03cHERVYQ8yOTu6Pu4DCxd), [Mbithi](https://open.spotify.com/artist/3M8x29mEaZklQcMDwHMgKH) | [TURN IT OFF](https://open.spotify.com/album/4ylxBzU0yxcLNsDGkBQnVS) | 3:42 | 2022-11-11 |  |

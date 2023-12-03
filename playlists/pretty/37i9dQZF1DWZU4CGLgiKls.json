@@ -1,12 +1,12 @@
 {
   "description": "Se viene el partido, la previa es con m\u00fasica!",
-  "num_followers": 570281,
+  "num_followers": 570316,
   "original_name": "Previa Futbolera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiM2IwZWM0YTA0NzBhZmY2ZWM5ZGUyOGQyYWRkZWMzMjI1MmU1YzQx",
+  "snapshot_id": "MCw1NDZiODUwZGI3ZjY2YzVlZTZkMjNjNmZiZDY4NmVkODc2M2JjOTI0",
   "tracks": [
     {
       "added_at": "2022-11-29 20:21:38",
@@ -819,18 +819,22 @@
     {
       "added_at": "2022-11-29 20:21:38",
       "album": {
-        "name": "PUNTO G",
-        "url": "https://open.spotify.com/album/7ushCUbR1asPHeuxA5Dq8N"
+        "name": "Mi\u00e9nteme",
+        "url": "https://open.spotify.com/album/4D9XS6o1GNMmuUWhI5Qixg"
       },
       "artists": [
         {
-          "name": "Quevedo",
-          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+        },
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
         }
       ],
-      "duration_ms": 151324,
-      "name": "PUNTO G",
-      "url": "https://open.spotify.com/track/0oBtwScT4B4BR5kZitNWd5"
+      "duration_ms": 165275,
+      "name": "Mi\u00e9nteme",
+      "url": "https://open.spotify.com/track/0cOa970mzTWAxKtltpkpLc"
     },
     {
       "added_at": "2022-11-29 20:21:38",
@@ -855,22 +859,18 @@
     {
       "added_at": "2022-11-29 20:21:38",
       "album": {
-        "name": "Mi\u00e9nteme",
-        "url": "https://open.spotify.com/album/4D9XS6o1GNMmuUWhI5Qixg"
+        "name": "PUNTO G",
+        "url": "https://open.spotify.com/album/7ushCUbR1asPHeuxA5Dq8N"
       },
       "artists": [
         {
-          "name": "TINI",
-          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
-        },
-        {
-          "name": "Maria Becerra",
-          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+          "name": "Quevedo",
+          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
         }
       ],
-      "duration_ms": 165275,
-      "name": "Mi\u00e9nteme",
-      "url": "https://open.spotify.com/track/0cOa970mzTWAxKtltpkpLc"
+      "duration_ms": 151324,
+      "name": "PUNTO G",
+      "url": "https://open.spotify.com/track/0oBtwScT4B4BR5kZitNWd5"
     },
     {
       "added_at": "2022-11-29 20:21:38",
@@ -1087,6 +1087,22 @@
     {
       "added_at": "2022-11-29 20:21:38",
       "album": {
+        "name": "El Milagro Argentino",
+        "url": "https://open.spotify.com/album/2pqscM7JlS6XR6fk7Y8tVZ"
+      },
+      "artists": [
+        {
+          "name": "Los Aut\u00e9nticos Decadentes",
+          "url": "https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj"
+        }
+      ],
+      "duration_ms": 313000,
+      "name": "Loco (Tu Forma De Ser)",
+      "url": "https://open.spotify.com/track/3ydweVPwq9PCEVJ8WwqT6u"
+    },
+    {
+      "added_at": "2022-11-29 20:21:38",
+      "album": {
         "name": "Devoto",
         "url": "https://open.spotify.com/album/417TYUiFFmZrHLGkTOTuJV"
       },
@@ -1103,22 +1119,6 @@
       "duration_ms": 212571,
       "name": "Devoto",
       "url": "https://open.spotify.com/track/5ggoKefe3Hk0UstyqSI8FA"
-    },
-    {
-      "added_at": "2022-11-29 20:21:38",
-      "album": {
-        "name": "El Milagro Argentino",
-        "url": "https://open.spotify.com/album/2pqscM7JlS6XR6fk7Y8tVZ"
-      },
-      "artists": [
-        {
-          "name": "Los Aut\u00e9nticos Decadentes",
-          "url": "https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj"
-        }
-      ],
-      "duration_ms": 313000,
-      "name": "Loco (Tu Forma De Ser)",
-      "url": "https://open.spotify.com/track/3ydweVPwq9PCEVJ8WwqT6u"
     },
     {
       "added_at": "2022-11-29 20:21:38",
@@ -1159,6 +1159,22 @@
     {
       "added_at": "2022-11-29 20:21:38",
       "album": {
+        "name": "House Of Pleasure",
+        "url": "https://open.spotify.com/album/0qmyud8qe8LqaVQ1YQ7S5G"
+      },
+      "artists": [
+        {
+          "name": "Plan B",
+          "url": "https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP"
+        }
+      ],
+      "duration_ms": 190560,
+      "name": "Es un Secreto",
+      "url": "https://open.spotify.com/track/7JwdbqIpiuWvGbRryKSuBz"
+    },
+    {
+      "added_at": "2022-11-29 20:21:38",
+      "album": {
         "name": "L-Gante: Bzrp Music Sessions, Vol. 38",
         "url": "https://open.spotify.com/album/6ScNKLKYY6rpgCIJThLnMH"
       },
@@ -1175,22 +1191,6 @@
       "duration_ms": 192347,
       "name": "L-Gante: Bzrp Music Sessions, Vol.38",
       "url": "https://open.spotify.com/track/1Crj1zkRMpsEjb9NOR6Zof"
-    },
-    {
-      "added_at": "2022-11-29 20:21:38",
-      "album": {
-        "name": "House Of Pleasure",
-        "url": "https://open.spotify.com/album/0qmyud8qe8LqaVQ1YQ7S5G"
-      },
-      "artists": [
-        {
-          "name": "Plan B",
-          "url": "https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP"
-        }
-      ],
-      "duration_ms": 190560,
-      "name": "Es un Secreto",
-      "url": "https://open.spotify.com/track/7JwdbqIpiuWvGbRryKSuBz"
     }
   ],
   "unique_name": "Previa Futbolera",

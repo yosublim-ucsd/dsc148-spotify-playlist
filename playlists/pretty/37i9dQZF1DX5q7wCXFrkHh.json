@@ -1,12 +1,12 @@
 {
   "description": "The classic piano recordings in Jazz. Cover: Oscar Peterson",
-  "num_followers": 80812,
+  "num_followers": 80907,
   "original_name": "Jazz Piano Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkM2JmNjVjZDJiZDRiNTlkYTU2YTEzMDY3NzYyZTQ2YzkzOGQyOGZl",
+  "snapshot_id": "MCwwYjk1OTM2MTM1NThmZjI3ZDQwMDcyNmU0ZDRhYTAzMDQ1MmE1NmQx",
   "tracks": [
     {
       "added_at": "2023-11-16 12:44:43",
@@ -163,18 +163,18 @@
     {
       "added_at": "2023-11-16 12:44:43",
       "album": {
-        "name": "The Awakening",
-        "url": "https://open.spotify.com/album/5oSVYKZLKGCmwYqmJ7AZnO"
+        "name": "The K\u00f6ln Concert",
+        "url": "https://open.spotify.com/album/0I8vpSE1bSmysN2PhmHoQg"
       },
       "artists": [
         {
-          "name": "Ahmad Jamal Trio",
-          "url": "https://open.spotify.com/artist/0BqALs1lInR9TTOulUADH7"
+          "name": "Keith Jarrett",
+          "url": "https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y"
         }
       ],
-      "duration_ms": 309200,
-      "name": "Dolphin Dance",
-      "url": "https://open.spotify.com/track/0kUYnVS6z9YhL22l9pDDcB"
+      "duration_ms": 416840,
+      "name": "K\u00f6ln, January 24, 1975, Pt. II C - Live",
+      "url": "https://open.spotify.com/track/4FMI4Ln1LhyxGldkNXan5e"
     },
     {
       "added_at": "2023-11-16 12:44:43",
@@ -195,18 +195,18 @@
     {
       "added_at": "2023-11-16 12:44:43",
       "album": {
-        "name": "The K\u00f6ln Concert",
-        "url": "https://open.spotify.com/album/0I8vpSE1bSmysN2PhmHoQg"
+        "name": "The Awakening",
+        "url": "https://open.spotify.com/album/5oSVYKZLKGCmwYqmJ7AZnO"
       },
       "artists": [
         {
-          "name": "Keith Jarrett",
-          "url": "https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y"
+          "name": "Ahmad Jamal Trio",
+          "url": "https://open.spotify.com/artist/0BqALs1lInR9TTOulUADH7"
         }
       ],
-      "duration_ms": 416840,
-      "name": "K\u00f6ln, January 24, 1975, Pt. II C - Live",
-      "url": "https://open.spotify.com/track/4FMI4Ln1LhyxGldkNXan5e"
+      "duration_ms": 309200,
+      "name": "Dolphin Dance",
+      "url": "https://open.spotify.com/track/0kUYnVS6z9YhL22l9pDDcB"
     },
     {
       "added_at": "2023-11-16 12:44:43",
@@ -251,6 +251,22 @@
     {
       "added_at": "2023-11-16 12:44:43",
       "album": {
+        "name": "The Other Side",
+        "url": "https://open.spotify.com/album/02y5z1G9EuN0BJRtdqbJRt"
+      },
+      "artists": [
+        {
+          "name": "Tord Gustavsen Trio",
+          "url": "https://open.spotify.com/artist/3aTJxwDLCqCNvjrG7USP1a"
+        }
+      ],
+      "duration_ms": 379533,
+      "name": "Curves",
+      "url": "https://open.spotify.com/track/5kPNj7l3Ru15LhHdWE5pVo"
+    },
+    {
+      "added_at": "2023-11-16 12:44:43",
+      "album": {
         "name": "Portrait In Jazz [Keepnews Collection]",
         "url": "https://open.spotify.com/album/7dlYNvbD4QYDL3sSkTCjxi"
       },
@@ -275,34 +291,18 @@
     {
       "added_at": "2023-11-16 12:44:43",
       "album": {
-        "name": "The Other Side",
-        "url": "https://open.spotify.com/album/02y5z1G9EuN0BJRtdqbJRt"
+        "name": "Time Out",
+        "url": "https://open.spotify.com/album/0nTTEAhCZsbbeplyDMIFuA"
       },
       "artists": [
         {
-          "name": "Tord Gustavsen Trio",
-          "url": "https://open.spotify.com/artist/3aTJxwDLCqCNvjrG7USP1a"
+          "name": "The Dave Brubeck Quartet",
+          "url": "https://open.spotify.com/artist/4iRZAbYvBqnxrbs6K25aJ7"
         }
       ],
-      "duration_ms": 379533,
-      "name": "Curves",
-      "url": "https://open.spotify.com/track/5kPNj7l3Ru15LhHdWE5pVo"
-    },
-    {
-      "added_at": "2023-11-16 12:44:43",
-      "album": {
-        "name": "The Awakening",
-        "url": "https://open.spotify.com/album/5oSVYKZLKGCmwYqmJ7AZnO"
-      },
-      "artists": [
-        {
-          "name": "Ahmad Jamal Trio",
-          "url": "https://open.spotify.com/artist/0BqALs1lInR9TTOulUADH7"
-        }
-      ],
-      "duration_ms": 442440,
-      "name": "I Love Music",
-      "url": "https://open.spotify.com/track/4MIPpjKWw1lLVwS6tLhis1"
+      "duration_ms": 442226,
+      "name": "Strange Meadow Lark",
+      "url": "https://open.spotify.com/track/6HvyFdP5JrCQdmxq2qi7MC"
     },
     {
       "added_at": "2023-11-16 12:44:43",
@@ -323,22 +323,6 @@
     {
       "added_at": "2023-11-16 12:44:43",
       "album": {
-        "name": "Time Out",
-        "url": "https://open.spotify.com/album/0nTTEAhCZsbbeplyDMIFuA"
-      },
-      "artists": [
-        {
-          "name": "The Dave Brubeck Quartet",
-          "url": "https://open.spotify.com/artist/4iRZAbYvBqnxrbs6K25aJ7"
-        }
-      ],
-      "duration_ms": 442226,
-      "name": "Strange Meadow Lark",
-      "url": "https://open.spotify.com/track/6HvyFdP5JrCQdmxq2qi7MC"
-    },
-    {
-      "added_at": "2023-11-16 12:44:43",
-      "album": {
         "name": "Explorations",
         "url": "https://open.spotify.com/album/5MuOxoJbvmGGIQxo6Pudu9"
       },
@@ -351,6 +335,22 @@
       "duration_ms": 349493,
       "name": "Nardis",
       "url": "https://open.spotify.com/track/37vEa9sfgAqEZuqX8AX0Zk"
+    },
+    {
+      "added_at": "2023-11-16 12:44:43",
+      "album": {
+        "name": "The Awakening",
+        "url": "https://open.spotify.com/album/5oSVYKZLKGCmwYqmJ7AZnO"
+      },
+      "artists": [
+        {
+          "name": "Ahmad Jamal Trio",
+          "url": "https://open.spotify.com/artist/0BqALs1lInR9TTOulUADH7"
+        }
+      ],
+      "duration_ms": 442440,
+      "name": "I Love Music",
+      "url": "https://open.spotify.com/track/4MIPpjKWw1lLVwS6tLhis1"
     },
     {
       "added_at": "2023-11-16 12:44:43",
@@ -879,22 +879,6 @@
     {
       "added_at": "2023-11-16 12:44:43",
       "album": {
-        "name": "Monk's Dream",
-        "url": "https://open.spotify.com/album/5VTlqV8lZH3YspQ1cDcjrL"
-      },
-      "artists": [
-        {
-          "name": "Thelonious Monk",
-          "url": "https://open.spotify.com/artist/4PDpGtF16XpqvXxsrFwQnN"
-        }
-      ],
-      "duration_ms": 268400,
-      "name": "Body and Soul",
-      "url": "https://open.spotify.com/track/7IAFc5iQti2tzob7Uo7N1Y"
-    },
-    {
-      "added_at": "2023-11-16 12:44:43",
-      "album": {
         "name": "My Spanish Heart",
         "url": "https://open.spotify.com/album/5V1WcC2ldcMBdFwQg0LltV"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 319066,
       "name": "Armando's Rhumba",
       "url": "https://open.spotify.com/track/4wpZadyjV07oPn5RyHqkRl"
+    },
+    {
+      "added_at": "2023-11-16 12:44:43",
+      "album": {
+        "name": "Monk's Dream",
+        "url": "https://open.spotify.com/album/5VTlqV8lZH3YspQ1cDcjrL"
+      },
+      "artists": [
+        {
+          "name": "Thelonious Monk",
+          "url": "https://open.spotify.com/artist/4PDpGtF16XpqvXxsrFwQnN"
+        }
+      ],
+      "duration_ms": 268400,
+      "name": "Body and Soul",
+      "url": "https://open.spotify.com/track/7IAFc5iQti2tzob7Uo7N1Y"
     },
     {
       "added_at": "2023-11-16 12:44:43",
@@ -1123,6 +1123,26 @@
     {
       "added_at": "2023-11-16 12:44:43",
       "album": {
+        "name": "Duke's Dream",
+        "url": "https://open.spotify.com/album/6zNBkblD9SxmMG9WP2ClMd"
+      },
+      "artists": [
+        {
+          "name": "Enrico Pieranunzi",
+          "url": "https://open.spotify.com/artist/5vACdMa2kY7jHnlJwqYRKP"
+        },
+        {
+          "name": "Rosario Giuliani",
+          "url": "https://open.spotify.com/artist/74RIvQKHT5SRchMBOCZJ06"
+        }
+      ],
+      "duration_ms": 440133,
+      "name": "I Got It Bad",
+      "url": "https://open.spotify.com/track/5Lu9OYEHAFP6KRls828iNn"
+    },
+    {
+      "added_at": "2023-11-16 12:44:43",
+      "album": {
         "name": "Lemuria-Seascape (Remastered)",
         "url": "https://open.spotify.com/album/5VPAg2cD1q7aVpdUYYuYhx"
       },
@@ -1143,26 +1163,6 @@
       "duration_ms": 344044,
       "name": "Fungii Mama - Remastered",
       "url": "https://open.spotify.com/track/55hl0N5Fb8SaQwSAAku2Wy"
-    },
-    {
-      "added_at": "2023-11-16 12:44:43",
-      "album": {
-        "name": "Duke's Dream",
-        "url": "https://open.spotify.com/album/6zNBkblD9SxmMG9WP2ClMd"
-      },
-      "artists": [
-        {
-          "name": "Enrico Pieranunzi",
-          "url": "https://open.spotify.com/artist/5vACdMa2kY7jHnlJwqYRKP"
-        },
-        {
-          "name": "Rosario Giuliani",
-          "url": "https://open.spotify.com/artist/74RIvQKHT5SRchMBOCZJ06"
-        }
-      ],
-      "duration_ms": 440133,
-      "name": "I Got It Bad",
-      "url": "https://open.spotify.com/track/5Lu9OYEHAFP6KRls828iNn"
     },
     {
       "added_at": "2023-11-16 12:44:43",
@@ -1279,18 +1279,18 @@
     {
       "added_at": "2023-11-16 12:44:43",
       "album": {
-        "name": "The Trio",
-        "url": "https://open.spotify.com/album/61YL3smwkMQDcs8qPqmPOx"
+        "name": "Waltz For Debby (Original Jazz Classics Remaster 2010)",
+        "url": "https://open.spotify.com/album/0MjlKhtsyax9HSWNkYaWM2"
       },
       "artists": [
         {
-          "name": "Hank Jones Trio",
-          "url": "https://open.spotify.com/artist/0mwM5zJkCaimWBvlUu0P6U"
+          "name": "Bill Evans Trio",
+          "url": "https://open.spotify.com/artist/3VEG6gxFIMfl4Cdog26avS"
         }
       ],
-      "duration_ms": 363179,
-      "name": "How High The Moon",
-      "url": "https://open.spotify.com/track/6NaOd4T2RdzU92CBTcTPQn"
+      "duration_ms": 392840,
+      "name": "Milestones",
+      "url": "https://open.spotify.com/track/1FSf2JmNY7qCq5GK8ZB67w"
     },
     {
       "added_at": "2023-11-16 12:44:43",
@@ -1311,18 +1311,18 @@
     {
       "added_at": "2023-11-16 12:44:43",
       "album": {
-        "name": "Waltz For Debby (Original Jazz Classics Remaster 2010)",
-        "url": "https://open.spotify.com/album/0MjlKhtsyax9HSWNkYaWM2"
+        "name": "The Trio",
+        "url": "https://open.spotify.com/album/61YL3smwkMQDcs8qPqmPOx"
       },
       "artists": [
         {
-          "name": "Bill Evans Trio",
-          "url": "https://open.spotify.com/artist/3VEG6gxFIMfl4Cdog26avS"
+          "name": "Hank Jones Trio",
+          "url": "https://open.spotify.com/artist/0mwM5zJkCaimWBvlUu0P6U"
         }
       ],
-      "duration_ms": 392840,
-      "name": "Milestones",
-      "url": "https://open.spotify.com/track/1FSf2JmNY7qCq5GK8ZB67w"
+      "duration_ms": 363179,
+      "name": "How High The Moon",
+      "url": "https://open.spotify.com/track/6NaOd4T2RdzU92CBTcTPQn"
     },
     {
       "added_at": "2023-11-16 12:44:43",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2023-11-16 12:44:43",
       "album": {
-        "name": "Inception",
-        "url": "https://open.spotify.com/album/28mQLO6qcMbaKfQB3qzCQK"
-      },
-      "artists": [
-        {
-          "name": "McCoy Tyner Trio",
-          "url": "https://open.spotify.com/artist/1EpLpC0tbCla8knfhET78p"
-        }
-      ],
-      "duration_ms": 375426,
-      "name": "Speak Low",
-      "url": "https://open.spotify.com/track/1zQGO7jITUE8D8w8mry8My"
-    },
-    {
-      "added_at": "2023-11-16 12:44:43",
-      "album": {
         "name": "Treasure Island",
         "url": "https://open.spotify.com/album/5iZKmlTiFgYSFJerVFAZoX"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 566066,
       "name": "The Rich (And The Poor)",
       "url": "https://open.spotify.com/track/1AIZWoktbERq2Z5qF30P1n"
+    },
+    {
+      "added_at": "2023-11-16 12:44:43",
+      "album": {
+        "name": "Inception",
+        "url": "https://open.spotify.com/album/28mQLO6qcMbaKfQB3qzCQK"
+      },
+      "artists": [
+        {
+          "name": "McCoy Tyner Trio",
+          "url": "https://open.spotify.com/artist/1EpLpC0tbCla8knfhET78p"
+        }
+      ],
+      "duration_ms": 375426,
+      "name": "Speak Low",
+      "url": "https://open.spotify.com/track/1zQGO7jITUE8D8w8mry8My"
     },
     {
       "added_at": "2023-11-16 12:44:43",
@@ -1487,8 +1487,8 @@
     {
       "added_at": "2023-11-16 12:44:43",
       "album": {
-        "name": "Nightconcert",
-        "url": "https://open.spotify.com/album/784DdGI83hMQqhFsfjwf96"
+        "name": "Ready Take One",
+        "url": "https://open.spotify.com/album/2wWuVfDOvITHUmb0KDzbrM"
       },
       "artists": [
         {
@@ -1496,9 +1496,9 @@
           "url": "https://open.spotify.com/artist/6C65D20ASusYqHGSIktfED"
         }
       ],
-      "duration_ms": 333581,
-      "name": "No More Shadows",
-      "url": "https://open.spotify.com/track/1cSvJkzOWAyZZKQSWWdNo9"
+      "duration_ms": 306967,
+      "name": "Wild Music",
+      "url": "https://open.spotify.com/track/7wS94SSkAxwYiCsauxuqWc"
     },
     {
       "added_at": "2023-11-16 12:44:43",
@@ -1675,18 +1675,18 @@
     {
       "added_at": "2023-11-16 12:44:43",
       "album": {
-        "name": "Anticipation",
-        "url": "https://open.spotify.com/album/4uSyd2HyJkL25NBvieXCiY"
+        "name": "Blackbird",
+        "url": "https://open.spotify.com/album/4XCLREMxloj6a48BlS3Sio"
       },
       "artists": [
         {
-          "name": "Eddie Higgins",
-          "url": "https://open.spotify.com/artist/0W5dlTiXGpQqs0OhqCRE92"
+          "name": "Shelly Berg Trio",
+          "url": "https://open.spotify.com/artist/6yN3eFi6kK1kiw3xm12HJ3"
         }
       ],
-      "duration_ms": 276131,
-      "name": "Falling in Love with Love",
-      "url": "https://open.spotify.com/track/47wToAWMFORf7uL8V62a82"
+      "duration_ms": 494213,
+      "name": "Blackbird",
+      "url": "https://open.spotify.com/track/3uVWwYNJMuhQ464tfH0a7f"
     }
   ],
   "unique_name": "Jazz Piano Classics",

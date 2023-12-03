@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX47rExFRJv8.md) - [plain]
 
 > The biggest songs in Latin America in 2018\. Cover: Bad Bunny
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,003 likes - 50 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,054 likes - 50 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX47rExFRJv8.md) - [plain]
 | 49 | [Celoso](https://open.spotify.com/track/33zcmmElV1YbRZe57biUjg) | [Lele Pons](https://open.spotify.com/artist/6i3DxIlAqnDkwELLw4aVrx) | [Celoso](https://open.spotify.com/album/0gXUZc4bTQzNqLvIyeObHm) | 2:59 |
 | 50 | [Rebota](https://open.spotify.com/track/4THusowxdHxwt0HBh5pyRx) | [Guaynaa](https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq) | [Rebota](https://open.spotify.com/album/4k7X71ESLjW13vV6XYI0MM) | 3:24 |
 
-Snapshot ID: `MCwzM2M0MjcwYTdjYTZiMjRkYjUyMTAzY2I3MGMzNjU3NTQ4NTlhMmZk`
+Snapshot ID: `MCw4Yzg4ZmE2YTYzZjk4NjMyZmM1NmI0MzRkYmQwM2EwOTNkZTc5N2Zj`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9yqRXedvZuv.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/zackbia/">Zack Bia</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,805 likes - 50 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,804 likes - 50 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9yqRXedvZuv.md) - [plain]
 | 19 | [Wasted Times](https://open.spotify.com/track/7DKS0rX27cCEPsK0R6tFWS) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [My Dear Melancholy,](https://open.spotify.com/album/4qZBW3f2Q8y0k1A84d4iAO) | 3:40 |
 | 20 | [Rain](https://open.spotify.com/track/4G1qRhOk1YY0kewtMaCrMC) | [SWV](https://open.spotify.com/artist/2NmK5FyrQ18HOPXq1UBzqa) | [Release Some Tension](https://open.spotify.com/album/2bHrxJQDBQdvow7vktRVUj) | 4:24 |
 | 21 | [Almeda](https://open.spotify.com/track/6IAgarq2wDeYzpsY2Kx0Hw) | [Solange](https://open.spotify.com/artist/2auiVi8sUZo17dLy1HwrTU) | [When I Get Home](https://open.spotify.com/album/4WF4HvVT7VjGnVjxjoCR6w) | 3:56 |
-| 22 | [blue](https://open.spotify.com/track/7pt64sepCy5QmDrgy9wOJS) | [Kamal.](https://open.spotify.com/artist/2gIHyzlzKxntjQWf8xAGaI) | [blue](https://open.spotify.com/album/3GsV8bdcTiMKRlrRlnnHvo) | 3:04 |
-| 23 | [Yes Sir](https://open.spotify.com/track/6Sn6WyJl9Xd2iWTfprdLCC) | [Chief Keef](https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P) | [4NEM](https://open.spotify.com/album/1yk448SJRapgsEqCaF81nM) | 4:08 |
+| 22 | [Yes Sir](https://open.spotify.com/track/6Sn6WyJl9Xd2iWTfprdLCC) | [Chief Keef](https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P) | [4NEM](https://open.spotify.com/album/1yk448SJRapgsEqCaF81nM) | 4:08 |
+| 23 | [blue](https://open.spotify.com/track/7pt64sepCy5QmDrgy9wOJS) | [Kamal.](https://open.spotify.com/artist/2gIHyzlzKxntjQWf8xAGaI) | [blue](https://open.spotify.com/album/3GsV8bdcTiMKRlrRlnnHvo) | 3:04 |
 | 24 | [A Keeper](https://open.spotify.com/track/0nAZGkBGKQCXyaoSJfRhC1) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Honestly, Nevermind](https://open.spotify.com/album/3cf4iSSKd8ffTncbtKljXw) | 2:53 |
 | 25 | [Burn One \(Interlude\)](https://open.spotify.com/track/6WgkOAIOPoumdilSCdYFPB) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Sonder Son](https://open.spotify.com/album/5Bp1EX2ypdFnJ5IUyiRl8w) | 1:48 |
 | 26 | [Wassup](https://open.spotify.com/track/1bjTEsJdDdbuA5JsdRRxhP) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [LIVE.LOVE.A$AP](https://open.spotify.com/album/4l6EPpP9hjQrLb8qNB9eC5) | 2:38 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9yqRXedvZuv.md) - [plain]
 | 49 | [Proud](https://open.spotify.com/track/6QnmXF5D5CH0WM9F7Nz3xt) | [SSGKobe](https://open.spotify.com/artist/1NHCwCMqV9oNQJXl16IltL) | [Proud](https://open.spotify.com/album/2gWZLUStRmDNXSq8oHA3z0) | 2:38 |
 | 50 | [Backhand](https://open.spotify.com/track/2Ud9396nsChHWRJ88De6mJ) | [HVN](https://open.spotify.com/artist/61GrWHOtJOXpqQjibezT8i) | [Welcome to Heaven](https://open.spotify.com/album/70W7Bb4eXlfcKY0s0vnZxD) | 1:46 |
 
-Snapshot ID: `MCw0MGQzMTg1MGYzYmM0NjVlMzMyNTcxZmVjMDgyM2M3ZTNkOGExNjI3`
+Snapshot ID: `MCxmZWVlMTcyZmIwYjY3NmE3OTI0YTdhMmUyNmVhNDljNmNkNDY0N2U4`

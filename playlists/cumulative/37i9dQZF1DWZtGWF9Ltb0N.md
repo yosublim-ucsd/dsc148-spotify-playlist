@@ -4,7 +4,7 @@
 
 > Floor shattering bass and dark soundscapes to dive into.
 
-517 songs - 1 day 13 hr 43 min
+518 songs - 1 day 13 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,6 +85,7 @@
 | [Connected Illusions](https://open.spotify.com/track/6hsklmT7gmue5XjeALOCYD) | [Truth](https://open.spotify.com/artist/0ZDCCJSvjcdJZH9hOl1uYc), [Youngsta](https://open.spotify.com/artist/4YOzXUg5iPj9vF0tapoXi6), [N\-Type](https://open.spotify.com/artist/2L3xOZQKjlT0Hb2QpTM4XY) | [Connected Illusions](https://open.spotify.com/album/78UEzphMC0BLrGDUyLUTsv) | 4:21 | 2022-10-14 |  |
 | [Contact](https://open.spotify.com/track/1JYsB74OPOHzVcyPPnBZbb) | [Soap Dodgers](https://open.spotify.com/artist/6mbdzxwYn2azIvdjQ9uINq) | [Ill Minded / Contact](https://open.spotify.com/album/3I4FrmegOLTrEQXDBxr43q) | 5:58 | 2022-02-17 | 2022-04-08 |
 | [Contra Theory](https://open.spotify.com/track/1WsLvlvA4Zlrwr0C3FrOGE) | [Subtle Mind](https://open.spotify.com/artist/37o1xku99QSw8IHyTRDfHB) | [Allusions LP](https://open.spotify.com/album/6QxS88nXazeU2qITa5aKOX) | 5:21 | 2022-02-17 | 2023-04-23 |
+| [Control](https://open.spotify.com/track/1aY7v8HDi8RbDzThPyt1xo) | [STVSH](https://open.spotify.com/artist/5nEtdd8cmhvf1zgNMFoQcI), [OkayJake](https://open.spotify.com/artist/1inEarlQOFZ2KWNnQDHqo3) | [Control](https://open.spotify.com/album/3udTNWALNOp3aW7alYlk9M) | 2:23 | 2023-11-24 |  |
 | [Cool & Relax](https://open.spotify.com/track/3jntNZjyiC3Hszr5u1ZGnn) | [Dubamine](https://open.spotify.com/artist/1cTFPzuPsiYtINcLic2qCV), [Nazamba](https://open.spotify.com/artist/4VqHq2AKycABRwXxTGVHSG) | [Cool & Relax](https://open.spotify.com/album/70SLEvGGpicx4iyfOzohvz) | 4:26 | 2023-03-17 |  |
 | [Counting](https://open.spotify.com/track/0jozSNmRCcQvIzuae6xQ78) | [Hamdi](https://open.spotify.com/artist/7vvicoei9BbKpZix8qSeLg), [Princess Superstar](https://open.spotify.com/artist/7JQn9DfFTtsFTg2dFc75jM) | [Counting](https://open.spotify.com/album/7l7BXWrlLLKfOBo8YQZoQi) | 3:52 | 2023-05-26 |  |
 | [COUNTRY RIDDIM](https://open.spotify.com/track/1dayiIC3odxNLViFQ7Iq4W) | [HOL!](https://open.spotify.com/artist/75YeSAKC6xPhgkjnltCmGB) | [COUNTRY RIDDIM](https://open.spotify.com/album/5m8PDUPsNjUHjdGcfP4IXc) | 2:57 | 2023-04-28 |  |
@@ -338,7 +339,7 @@
 | [Power Shift](https://open.spotify.com/track/0OfKxTJYCewcdDiDU1p8lJ) | [LSN](https://open.spotify.com/artist/3dwMTZKWkKexD1CeBzLJAt), [Flowdan](https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4) | [Power Shift](https://open.spotify.com/album/3nZWSpItsAvxUjbVe8kmHm) | 4:36 | 2022-12-09 | 2023-01-06 |
 | [Pressure](https://open.spotify.com/track/5slTNpY7BoMXWhPDOXkw8c) | [MYTHM](https://open.spotify.com/artist/5OC3ZSef1PDix2FZaXLial) | [Pressure](https://open.spotify.com/album/7ruLDcs83wpOXP4kvoiDks) | 3:11 | 2023-01-13 |  |
 | [Pressurising](https://open.spotify.com/track/1TClTNk97qP1hbAsbIo798) | [ENiGMA Dubz](https://open.spotify.com/artist/7ygSJBM6sZ0vXGJvjnL1V5), [NotLö](https://open.spotify.com/artist/0UmpDfZvwJpXxsOBaKmW5Z) | [Dungeon EP](https://open.spotify.com/album/0C2KzS2pddnR8iXQvM4yQu) | 4:13 | 2023-03-10 | 2023-05-23 |
-| [Probes](https://open.spotify.com/track/2Vqo5y7SvufrlLKcsNkYH8) | [Shanghai Doom](https://open.spotify.com/artist/0663ucUX5KdVY18dEYe0KC), [Tron3x](https://open.spotify.com/artist/4VkxUCarTjtPbHOBujBwlx) | [Failed Connections](https://open.spotify.com/album/5NgBfkQHTSUMuRxjg8ZGwC) | 3:30 | 2022-07-01 |  |
+| [Probes](https://open.spotify.com/track/2Vqo5y7SvufrlLKcsNkYH8) | [Shanghai Doom](https://open.spotify.com/artist/0663ucUX5KdVY18dEYe0KC), [Tron3x](https://open.spotify.com/artist/4VkxUCarTjtPbHOBujBwlx) | [Failed Connections](https://open.spotify.com/album/5NgBfkQHTSUMuRxjg8ZGwC) | 3:30 | 2022-07-01 | 2023-12-03 |
 | [Profit](https://open.spotify.com/track/1tPKSiahAXhNGFNHIFlTDQ) | [Ivy Lab](https://open.spotify.com/artist/3VXCvo9Sr0hbZ4mk6VOKBs) | [Profit](https://open.spotify.com/album/3ArOGOIHxL1NwwmI4ecAUh) | 2:35 | 2023-06-30 |  |
 | [Profit](https://open.spotify.com/track/5qN1hpuWczrJHZmxHnZDFM) | [Ivy Lab](https://open.spotify.com/artist/3VXCvo9Sr0hbZ4mk6VOKBs) | [Profit](https://open.spotify.com/album/2aFVyFx3Phgvkt6KhnGRuV) | 2:35 | 2023-04-21 | 2023-06-28 |
 | [Profound](https://open.spotify.com/track/3m92wis6TZWW6XeGyneEur) | [Bisweed](https://open.spotify.com/artist/6egUhNySE0htFQzdHxO6Nw) | [Kaleidoscope, Vol\. 2](https://open.spotify.com/album/7jLrpzLUbTLDMWG2r4xhSY) | 5:04 | 2022-02-17 | 2022-07-30 |

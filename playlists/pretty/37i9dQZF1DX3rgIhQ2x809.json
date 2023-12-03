@@ -1,12 +1,12 @@
 {
   "description": "De la isla, pa' el mundo! Representando la cultura con orgullo. Cover: Christian Alicea",
-  "num_followers": 70348,
+  "num_followers": 70356,
   "original_name": "Hecho en Puerto Rico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNDc2MjE5Yzk3ZWRjNjM5OGFiYWFlMjBhN2YwYTVmNjExOWY0ZDRk",
+  "snapshot_id": "MCw5NDUyY2ViYjc3MzlhOGZmMTFhNjkzNGEyYzA3OWEzYmFkYTBhODUx",
   "tracks": [
     {
       "added_at": "2023-06-09 02:27:24",
@@ -723,22 +723,6 @@
     {
       "added_at": "2023-06-09 02:27:24",
       "album": {
-        "name": "Bonnie and Clyde",
-        "url": "https://open.spotify.com/album/37xfmf71ctyktw4VCiFWc7"
-      },
-      "artists": [
-        {
-          "name": "iZaak",
-          "url": "https://open.spotify.com/artist/4s6Xg38sbqh4xpf4OqhVUK"
-        }
-      ],
-      "duration_ms": 209192,
-      "name": "Bonnie and Clyde",
-      "url": "https://open.spotify.com/track/06YfgRDoApwaMSQVHSCPMP"
-    },
-    {
-      "added_at": "2023-06-09 02:27:24",
-      "album": {
         "name": "L3tra 2",
         "url": "https://open.spotify.com/album/5uhDPHXOesUiqGwIp8n5XJ"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 183428,
       "name": "Mention",
       "url": "https://open.spotify.com/track/3SooDD3ycCki4IMZCHM7OR"
+    },
+    {
+      "added_at": "2023-06-09 02:27:24",
+      "album": {
+        "name": "Bonnie and Clyde",
+        "url": "https://open.spotify.com/album/37xfmf71ctyktw4VCiFWc7"
+      },
+      "artists": [
+        {
+          "name": "iZaak",
+          "url": "https://open.spotify.com/artist/4s6Xg38sbqh4xpf4OqhVUK"
+        }
+      ],
+      "duration_ms": 209192,
+      "name": "Bonnie and Clyde",
+      "url": "https://open.spotify.com/track/06YfgRDoApwaMSQVHSCPMP"
     },
     {
       "added_at": "2023-06-09 02:27:24",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2023-06-09 02:27:24",
       "album": {
-        "name": "TRAPPHONE",
-        "url": "https://open.spotify.com/album/2r8t3xBrocshJ1XeFOZLvk"
-      },
-      "artists": [
-        {
-          "name": "Anubiis",
-          "url": "https://open.spotify.com/artist/5X8Uu9qHN3KXLH2Fws87LB"
-        }
-      ],
-      "duration_ms": 107984,
-      "name": "TRAPPHONE",
-      "url": "https://open.spotify.com/track/3l6eaGBtFFZVmxXUyO9Lze"
-    },
-    {
-      "added_at": "2023-06-09 02:27:24",
-      "album": {
         "name": "IDGAF",
         "url": "https://open.spotify.com/album/30BnGphkbKkCmUChAFcxSA"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 134048,
       "name": "IDGAF",
       "url": "https://open.spotify.com/track/076GBcif3AM1IHfBJs545o"
+    },
+    {
+      "added_at": "2023-06-09 02:27:24",
+      "album": {
+        "name": "TRAPPHONE",
+        "url": "https://open.spotify.com/album/2r8t3xBrocshJ1XeFOZLvk"
+      },
+      "artists": [
+        {
+          "name": "Anubiis",
+          "url": "https://open.spotify.com/artist/5X8Uu9qHN3KXLH2Fws87LB"
+        }
+      ],
+      "duration_ms": 107984,
+      "name": "TRAPPHONE",
+      "url": "https://open.spotify.com/track/3l6eaGBtFFZVmxXUyO9Lze"
     },
     {
       "added_at": "2023-06-09 02:27:24",
@@ -1291,6 +1291,22 @@
     {
       "added_at": "2023-06-09 02:27:24",
       "album": {
+        "name": "BRUJULA",
+        "url": "https://open.spotify.com/album/0MfA07UgcDNEG8jv0hw6ti"
+      },
+      "artists": [
+        {
+          "name": "Ankhal",
+          "url": "https://open.spotify.com/artist/6NmMI7UnfmIpLRYoz8H9jm"
+        }
+      ],
+      "duration_ms": 165293,
+      "name": "BRUJULA",
+      "url": "https://open.spotify.com/track/7rM5p9uIjlARBdYYzfEEyf"
+    },
+    {
+      "added_at": "2023-06-09 02:27:24",
+      "album": {
         "name": "19 Crema",
         "url": "https://open.spotify.com/album/69lwdO2wfRE7UICTvC2nC6"
       },
@@ -1319,22 +1335,6 @@
       "duration_ms": 246408,
       "name": "19 Crema",
       "url": "https://open.spotify.com/track/3Toeb72Jvw4o5duxvPwYJP"
-    },
-    {
-      "added_at": "2023-06-09 02:27:24",
-      "album": {
-        "name": "BRUJULA",
-        "url": "https://open.spotify.com/album/0MfA07UgcDNEG8jv0hw6ti"
-      },
-      "artists": [
-        {
-          "name": "Ankhal",
-          "url": "https://open.spotify.com/artist/6NmMI7UnfmIpLRYoz8H9jm"
-        }
-      ],
-      "duration_ms": 165293,
-      "name": "BRUJULA",
-      "url": "https://open.spotify.com/track/7rM5p9uIjlARBdYYzfEEyf"
     },
     {
       "added_at": "2023-06-09 02:27:24",
@@ -1523,22 +1523,6 @@
     {
       "added_at": "2023-06-09 02:27:24",
       "album": {
-        "name": "Reggaet\u00f3n Sex",
-        "url": "https://open.spotify.com/album/35TMoHnvQ4krAgKZ8sSFif"
-      },
-      "artists": [
-        {
-          "name": "Dalex",
-          "url": "https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn"
-        }
-      ],
-      "duration_ms": 165473,
-      "name": "Amiga",
-      "url": "https://open.spotify.com/track/3HZLu1XXWZyxhnvTDq3K3T"
-    },
-    {
-      "added_at": "2023-06-09 02:27:24",
-      "album": {
         "name": "TAYYA",
         "url": "https://open.spotify.com/album/2LuYJPF8X45qRlUJb5vfGv"
       },
@@ -1551,6 +1535,22 @@
       "duration_ms": 160000,
       "name": "TAYYA",
       "url": "https://open.spotify.com/track/0PmACpKJ9LCTSC9jWnMqen"
+    },
+    {
+      "added_at": "2023-06-09 02:27:24",
+      "album": {
+        "name": "Reggaet\u00f3n Sex",
+        "url": "https://open.spotify.com/album/35TMoHnvQ4krAgKZ8sSFif"
+      },
+      "artists": [
+        {
+          "name": "Dalex",
+          "url": "https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn"
+        }
+      ],
+      "duration_ms": 165473,
+      "name": "Amiga",
+      "url": "https://open.spotify.com/track/3HZLu1XXWZyxhnvTDq3K3T"
     },
     {
       "added_at": "2023-06-09 02:27:24",
@@ -1667,6 +1667,26 @@
     {
       "added_at": "2023-06-09 02:27:24",
       "album": {
+        "name": "C\u00f3digos",
+        "url": "https://open.spotify.com/album/04lH7i7S1sf9xDx2zbIQZd"
+      },
+      "artists": [
+        {
+          "name": "Omy de Oro",
+          "url": "https://open.spotify.com/artist/65jIUih0ZeTUJhSTRuYxpi"
+        },
+        {
+          "name": "Lunay",
+          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
+        }
+      ],
+      "duration_ms": 195000,
+      "name": "Top 10",
+      "url": "https://open.spotify.com/track/1bXvpIjqxo5WHZWz6nfjtn"
+    },
+    {
+      "added_at": "2023-06-09 02:27:24",
+      "album": {
         "name": "Cupido",
         "url": "https://open.spotify.com/album/6myrgqSgzhFhIhZxO87XsY"
       },
@@ -1687,26 +1707,6 @@
       "duration_ms": 190946,
       "name": "Cupido",
       "url": "https://open.spotify.com/track/44B8PLdX1k6vzDtfUnwj5U"
-    },
-    {
-      "added_at": "2023-06-09 02:27:24",
-      "album": {
-        "name": "C\u00f3digos",
-        "url": "https://open.spotify.com/album/04lH7i7S1sf9xDx2zbIQZd"
-      },
-      "artists": [
-        {
-          "name": "Omy de Oro",
-          "url": "https://open.spotify.com/artist/65jIUih0ZeTUJhSTRuYxpi"
-        },
-        {
-          "name": "Lunay",
-          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
-        }
-      ],
-      "duration_ms": 195000,
-      "name": "Top 10",
-      "url": "https://open.spotify.com/track/1bXvpIjqxo5WHZWz6nfjtn"
     },
     {
       "added_at": "2023-06-09 02:27:24",
@@ -1767,22 +1767,6 @@
     {
       "added_at": "2023-06-09 02:27:24",
       "album": {
-        "name": "Berserker",
-        "url": "https://open.spotify.com/album/50mkOvKHePzYQtiQqZq2l5"
-      },
-      "artists": [
-        {
-          "name": "Alexio",
-          "url": "https://open.spotify.com/artist/4Tw0VaV1ENei24iQnktjXj"
-        }
-      ],
-      "duration_ms": 193003,
-      "name": "Berserker",
-      "url": "https://open.spotify.com/track/06kUBxzGUeklZRH9FjBKNi"
-    },
-    {
-      "added_at": "2023-06-09 02:27:24",
-      "album": {
         "name": "Nube",
         "url": "https://open.spotify.com/album/2J4jSwEt8wGWqNzr6Od25l"
       },
@@ -1799,6 +1783,22 @@
       "duration_ms": 223399,
       "name": "Nube",
       "url": "https://open.spotify.com/track/0uQGGTxOJAzDpQjjXk4B2s"
+    },
+    {
+      "added_at": "2023-06-09 02:27:24",
+      "album": {
+        "name": "Berserker",
+        "url": "https://open.spotify.com/album/50mkOvKHePzYQtiQqZq2l5"
+      },
+      "artists": [
+        {
+          "name": "Alexio",
+          "url": "https://open.spotify.com/artist/4Tw0VaV1ENei24iQnktjXj"
+        }
+      ],
+      "duration_ms": 193003,
+      "name": "Berserker",
+      "url": "https://open.spotify.com/track/06kUBxzGUeklZRH9FjBKNi"
     },
     {
       "added_at": "2023-06-09 02:27:24",

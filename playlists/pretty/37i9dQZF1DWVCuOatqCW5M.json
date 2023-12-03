@@ -1,12 +1,12 @@
 {
   "description": "New music from popular Hindi artists. Cover- Madhur Sharma",
-  "num_followers": 45396,
+  "num_followers": 45434,
   "original_name": "New Music Friday Hindi ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhYmRkMWJiMGFlMzJkMTk0NGM2MmJjMjg4OThhMDkxZjA2ZjRkZDZk",
+  "snapshot_id": "MCwxYzA3NWQzNDA4NzdmY2UyM2UxZTBkZmQ1ZDc1ODM2MTg4Njc1ZDNh",
   "tracks": [
     {
       "added_at": "2023-12-01 05:32:48",
@@ -223,7 +223,7 @@
     {
       "added_at": "2023-12-01 05:32:48",
       "album": {
-        "name": "Muskan",
+        "name": "Muskan (Acoustic)",
         "url": "https://open.spotify.com/album/1Eq6kZv2CA6XRrV4nZlR40"
       },
       "artists": [
@@ -233,7 +233,7 @@
         }
       ],
       "duration_ms": 188000,
-      "name": "Muskan",
+      "name": "Muskan - Acoustic",
       "url": "https://open.spotify.com/track/3ZEmgsL1KUBrgjawKL4OTY"
     },
     {

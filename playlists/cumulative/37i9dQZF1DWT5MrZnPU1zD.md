@@ -4,7 +4,7 @@
 
 > Pass the sticks & press play.
 
-878 songs - 1 day 18 hr 0 min
+879 songs - 1 day 18 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -128,6 +128,7 @@
 | [Bring Some Mo \(feat\. NLE Choppa\)](https://open.spotify.com/track/4DOTEPZlY1rrEM9YwzJmuu) | [Lil Eazzyy](https://open.spotify.com/artist/0rpUnzu4JIoRkKkGvdcm7b), [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [Bring Some Mo \(feat\. NLE Choppa\)](https://open.spotify.com/album/0fFqPfWEy8FdDqaPzXMOLx) | 2:55 | 2022-05-13 | 2022-07-24 |
 | [Bruuuh \(with Denzel Curry\) \- Remix](https://open.spotify.com/track/5LghBGmNUUwI2BvX2boIdK) | [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV) | [Bruuuh \(with Denzel Curry\) \[Remix\]](https://open.spotify.com/album/2VBF1VUAfb250CHkaReyAz) | 3:26 | 2021-09-03 | 2022-10-08 |
 | [Bubble Coat](https://open.spotify.com/track/68p0QMqLyiKS5iUtyGX3GP) | [27Delly](https://open.spotify.com/artist/4xonYr23bIYP8aRXWBGSbD) | [Bubble Coat](https://open.spotify.com/album/5CizX2mBWggbcmF5RyPScV) | 3:08 | 2022-03-25 | 2022-04-19 |
+| [Bulletproof \(feat\. NLE Choppa\)](https://open.spotify.com/track/7gVo4I0bZPEGwgdF3SNkK3) | [Big Scarr](https://open.spotify.com/artist/579LsvZcRVKtToYjS0tkKz), [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [Frozone](https://open.spotify.com/album/2HZ1eEAW85k2vfpqvDoquR) | 2:49 | 2023-12-01 |  |
 | [Bulletproof Maybach \(feat\. Offset\)](https://open.spotify.com/track/6rI8uFFmGyvS2N6sqDCdu3) | [DDG](https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [It's Not Me It's You \(Deluxe\)](https://open.spotify.com/album/4JUp6qReEgKfOP76grq6v0) | 2:57 | 2022-10-07 | 2023-05-24 |
 | [Bullseye 2 \(with Future\)](https://open.spotify.com/track/1glNxnW018oGrJoYRHQV9Q) | [Real Boston Richey](https://open.spotify.com/artist/1iwUuIOKYjV7SKIg27v4zi), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Public Housing](https://open.spotify.com/album/3H7rkiYB6yjsuMZbxApOCn) | 2:37 | 2022-09-23 | 2023-10-21 |
 | [Burglars & Murderers \(feat\. EST Gee\)](https://open.spotify.com/track/6JbrcjoMVBBNZllVOiHBcU) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [7220 \(Deluxe\)](https://open.spotify.com/album/2rGN0kLth4hNmyMffDTlpX) | 2:40 | 2022-07-01 | 2023-04-15 |
@@ -338,7 +339,7 @@
 | [Headshots](https://open.spotify.com/track/53e9gQYHBMAJoFYN7Gf0wj) | [Rundown Choppaboy](https://open.spotify.com/artist/3vh0hSUAhFfS2QDNsSgtDG), [NicWithTheKay](https://open.spotify.com/artist/6HzhKZLGHudtIyMibUXUaG) | [Headshots](https://open.spotify.com/album/7xq308CnKflzWm6OSSMzi2) | 2:17 | 2022-12-16 | 2023-01-14 |
 | [Headshots \(4r Da Locals\)](https://open.spotify.com/track/2rFTRICumonxxZKxxfEu8R) | [Isaiah Rashad](https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM) | [Headshots \(4r Da Locals\)](https://open.spotify.com/album/2gGoV7NU9CdWtNhIcvUKQ1) | 3:13 | 2021-09-03 | 2022-07-29 |
 | [Heard Of Me](https://open.spotify.com/track/7pw6IXqjBn0M68l5JI3mIV) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Heard Of Me](https://open.spotify.com/album/21EvF7Ad9W7agK0o0vSBqz) | 3:44 | 2023-10-20 |  |
-| [Heavy](https://open.spotify.com/track/43pjKTwerf0zk3WSj1TE7I) | [Danny Towers](https://open.spotify.com/artist/4e5oZygHeeRoTXc00gYWiu), [Tony Shhnow](https://open.spotify.com/artist/6w1PsA3Lux2vlfaymj66w8) | [Heavy](https://open.spotify.com/album/48eAYIvW7LSsqDVfOgJrER) | 2:53 | 2023-09-22 |  |
+| [Heavy](https://open.spotify.com/track/43pjKTwerf0zk3WSj1TE7I) | [Danny Towers](https://open.spotify.com/artist/4e5oZygHeeRoTXc00gYWiu), [Tony Shhnow](https://open.spotify.com/artist/6w1PsA3Lux2vlfaymj66w8) | [Heavy](https://open.spotify.com/album/48eAYIvW7LSsqDVfOgJrER) | 2:53 | 2023-09-22 | 2023-12-03 |
 | [Heavy \(with Lil Uzi Vert\)](https://open.spotify.com/track/02WDt2eCNOU2mt0DF5w678) | [Nigo](https://open.spotify.com/artist/2rAnv6brcXaglLZBB4XXEn), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Heavy](https://open.spotify.com/album/2RADneMo8givvCbM6k6yPR) | 3:20 | 2022-03-18 | 2022-08-22 |
 | [HEAVY METAL](https://open.spotify.com/track/7cf8xNXwU9K0BuHjyIvxLE) | [Mike Dimes](https://open.spotify.com/artist/6rIaHuCIUu32uj2CjlEBN3) | [HEAVY METAL](https://open.spotify.com/album/2fXn6a7SYYnSNyuWj0CvnX) | 2:51 | 2023-03-24 | 2023-05-11 |
 | [Hell](https://open.spotify.com/track/5X79uZsOrtg2iolPYhqeUa) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Hell](https://open.spotify.com/album/1F5dynTBqwMT46sY4OcvO6) | 2:19 | 2022-09-02 | 2022-09-17 |

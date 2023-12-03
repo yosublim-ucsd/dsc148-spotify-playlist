@@ -4,7 +4,7 @@
 
 > Las nuevas vibras del rock en español\. Cover: Bruses
 
-252 songs - 14 hr 1 min
+253 songs - 14 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -164,7 +164,7 @@
 | [No Te Bastó, Mi Corazón](https://open.spotify.com/track/6m3r7BP5JPOKSvxFxRpHvg) | [Pol Granch](https://open.spotify.com/artist/1aMt4A5jrQHxDYyC7rXgV0) | [No Te Bastó, Mi Corazón](https://open.spotify.com/album/3dMJjp5yY3yqbPFWs5Yu54) | 3:04 | 2022-07-19 |  |
 | [No Te Imaginás](https://open.spotify.com/track/7x00uv5aDR0MA8eIk7xAuf) | [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j) | [Luz](https://open.spotify.com/album/4C6joZxFL6lTg6tJDE9N6o) | 3:31 | 2022-04-15 |  |
 | [NO VUELVAS](https://open.spotify.com/track/2MGiJGLfaEAyKg70lwmrq2) | [KRISTAL](https://open.spotify.com/artist/7AZMHZVrYudHtNLQbXdJ7e) | [NO VUELVAS](https://open.spotify.com/album/0D2eL91H8kNo1FJlW1nUyg) | 2:58 | 2022-08-08 | 2023-02-02 |
-| [Noches Largas \(feat\. Bruses\)](https://open.spotify.com/track/5cOp5gpIT6HTJ2oDgaQsNu) | [SERBIA](https://open.spotify.com/artist/3ygIl3frs6gQCo1f0AGnRj), [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [Noches Largas \(feat\. Bruses\)](https://open.spotify.com/album/02mEkveH5bAH4lMS5PvrMo) | 4:53 | 2023-04-07 |  |
+| [Noches Largas \(feat\. Bruses\)](https://open.spotify.com/track/5cOp5gpIT6HTJ2oDgaQsNu) | [SERBIA](https://open.spotify.com/artist/3ygIl3frs6gQCo1f0AGnRj), [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [Noches Largas \(feat\. Bruses\)](https://open.spotify.com/album/02mEkveH5bAH4lMS5PvrMo) | 4:53 | 2023-04-07 | 2023-12-03 |
 | [Nos Quieren Dead](https://open.spotify.com/track/3zOqAICxaQok7mkOBe03Ps) | [Adolescentes Sin Edad](https://open.spotify.com/artist/6HBntxIY4gRjp8syM0IEYV) | [Nos Quieren Dead](https://open.spotify.com/album/1x9s4GTLwVdRVSd04bjvnI) | 3:07 | 2022-04-15 | 2022-12-10 |
 | [Noviembre](https://open.spotify.com/track/4tmRbBGXBf7UZTjcRHOMdY) | [Los Bunkers](https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT) | [Noviembre](https://open.spotify.com/album/0dlauudMf58IRyIAxj5knN) | 3:51 | 2023-11-03 |  |
 | [novio del año](https://open.spotify.com/track/40lKiE4aIosLiD5NmMeZm1) | [Paula Koops](https://open.spotify.com/artist/3jDSE2qvShLf8DbYmseNW0) | [novio del año](https://open.spotify.com/album/63x4EQFAEBFAPvmfkklkrn) | 2:34 | 2023-01-13 |  |
@@ -222,6 +222,7 @@
 | [Suéltate el pelo](https://open.spotify.com/track/3MGZVhOFo5ihrcUjFkE8mb) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0), [Álvaro De Luna](https://open.spotify.com/artist/5N3YDBGT2gUzXgLDTwPRi5) | [Suéltate el pelo](https://open.spotify.com/album/3Qz4Fa379ez2RFvMp4sXWz) | 2:51 | 2023-11-03 |  |
 | [Sálvame](https://open.spotify.com/track/5LtO9MeiYVVcaYkOlm4MbA) | [QBO](https://open.spotify.com/artist/7LPSpoCg3XmYjYtdZxFodd) | [Sálvame](https://open.spotify.com/album/6sNbXjhBsHufJvLcC9FP30) | 3:22 | 2022-04-15 | 2022-12-10 |
 | [Sólo Eres Tú](https://open.spotify.com/track/0EqWWA2CnRwcJIt7czGB5Z) | [Caifanes](https://open.spotify.com/artist/1GImnM7WYVp95431ypofy9) | [Sólo Eres Tú](https://open.spotify.com/album/2Pa9kp6NPUH9H2Af0TTbVg) | 3:53 | 2022-04-15 |  |
+| [Tajada](https://open.spotify.com/track/0HGchjSKUuMNsLg8zfwqFf) | [Babasónicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [Tajada](https://open.spotify.com/album/5hfg8YESqVnDHcOPiu4GSs) | 3:26 | 2023-12-01 |  |
 | [Takotsubo](https://open.spotify.com/track/0xQ5PRG33HEEjMS4WiGNaz) | [Floreana](https://open.spotify.com/artist/3pwB3UZlXcnlXoKr0abRVQ) | [Cuadros](https://open.spotify.com/album/4Zpj0ZC8asCsFfaHBa1yxK) | 3:23 | 2022-07-19 | 2022-12-10 |
 | [Talismán](https://open.spotify.com/track/2vcPTBC2Qi5yR6LCUgysdx) | [URSS Bajo el Árbol](https://open.spotify.com/artist/0CdtlByOfGrD6VOvsJUKTY) | [Ciclo Vol\. I](https://open.spotify.com/album/6uh3VvbrpyKuzjPi1Ybvbb) | 3:13 | 2022-07-19 | 2022-12-10 |
 | [Teletecho](https://open.spotify.com/track/7tk6NW5Mk9KJOE0v31yNb5) | [Cala Vento](https://open.spotify.com/artist/6QpQ7WsYLIpTV3yRa0fJo1), [Amaral](https://open.spotify.com/artist/4OkeTQCk0fvX6VBYpOOxDi) | [Teletecho y El Acecho](https://open.spotify.com/album/6SJqRfgnfUTB6Uny9iLPzk) | 3:22 | 2022-04-15 | 2023-04-16 |

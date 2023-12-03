@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaVgr4Tx5kRF.md) - [plain]
 
 > The songs that defined a golden era of British indie.
 
-[Spotify](https://open.spotify.com/user/spotify) - 639,089 likes - 65 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 639,189 likes - 65 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,9 +37,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaVgr4Tx5kRF.md) - [plain]
 | 27 | [I Am the Resurrection \- Remastered](https://open.spotify.com/track/5ikdUUm6JbnEVnp35c7dvy) | [The Stone Roses](https://open.spotify.com/artist/1lYT0A0LV5DUfxr6doRP3d) | [The Stone Roses](https://open.spotify.com/album/0um9FI6BLBldL5POP4D4Cw) | 8:12 |
 | 28 | [Stupid Girl \- Remastered 2015](https://open.spotify.com/track/3fNf71Ktya4CYMqGM6eRud) | [Garbage](https://open.spotify.com/artist/6S0GHTqz5sxK5f9HtLXn9q) | [Garbage \(20th Anniversary Deluxe Edition/Remastered\)](https://open.spotify.com/album/1Vze7jtjAVQOdIIQ8oO2X7) | 4:18 |
 | 29 | [Girl from Mars](https://open.spotify.com/track/0cA41ydiosNCgmmGiCST65) | [Ash](https://open.spotify.com/artist/2evydP72Z45DouM4uMGsIE) | [1977](https://open.spotify.com/album/1fxOFs3nc2mGf69PEbEQbf) | 3:30 |
-| 30 | [Good Enough](https://open.spotify.com/track/3uvTySdxejOSPEACJsajdW) | [Dodgy](https://open.spotify.com/artist/1dekSPU23UC5hw5b8Uxk9W) | [Free Peace Sweet](https://open.spotify.com/album/2C5AMWVyaTWboPCe49JVnl) | 4:01 |
+| 30 | [Chasing Rainbows](https://open.spotify.com/track/4IFC2bM8SquqQYOu9tiQ8C) | [Shed Seven](https://open.spotify.com/artist/3iejrAcqxYoVgyxp6zkWgs) | [Let It Ride](https://open.spotify.com/album/6CET3JYJyXlmfVLLQx2XeG) | 4:25 |
 | 31 | [Cigarettes & Alcohol \- Remastered](https://open.spotify.com/track/5adjc9rGazKvYcyEHNtoz1) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Definitely Maybe \(Deluxe Edition Remastered\)](https://open.spotify.com/album/3AMHMM2aNG6k3d7ybcQ5bY) | 4:49 |
-| 32 | [Chasing Rainbows](https://open.spotify.com/track/4IFC2bM8SquqQYOu9tiQ8C) | [Shed Seven](https://open.spotify.com/artist/3iejrAcqxYoVgyxp6zkWgs) | [Let It Ride](https://open.spotify.com/album/6CET3JYJyXlmfVLLQx2XeG) | 4:25 |
+| 32 | [Good Enough](https://open.spotify.com/track/3uvTySdxejOSPEACJsajdW) | [Dodgy](https://open.spotify.com/artist/1dekSPU23UC5hw5b8Uxk9W) | [Free Peace Sweet](https://open.spotify.com/album/2C5AMWVyaTWboPCe49JVnl) | 4:01 |
 | 33 | [The Universal](https://open.spotify.com/track/0qmCWYu7hOvriyuqXfPw7I) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [Blur: The Best Of](https://open.spotify.com/album/1bgkxe4t0HNeLn9rhrx79x) | 4:00 |
 | 34 | [Walkaway](https://open.spotify.com/track/3drQLSnECw7QSHMysFqFx7) | [Cast](https://open.spotify.com/artist/0vBDEQ1aLZpe4zgn2fPH6Z) | [All Change](https://open.spotify.com/album/4QpYfKscCgJ7cciYCEysg5) | 3:51 |
 | 35 | [The Life of Riley](https://open.spotify.com/track/5fB91ioIvFnr6QEgXLCf3V) | [The Lightning Seeds](https://open.spotify.com/artist/67YNiSqhrx1P8oPvIIvbP5) | [Sense](https://open.spotify.com/album/2COAzXF28KyjaOaxr901X0) | 4:05 |
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaVgr4Tx5kRF.md) - [plain]
 | 51 | [All You Good Good People](https://open.spotify.com/track/72TPbqNS18yOlXa5USPSSo) | [Embrace](https://open.spotify.com/artist/74K7bX12L8GBAWvPuyIgJ7) | [The Good Will Out](https://open.spotify.com/album/3eNC1W7Y3mkEVA10eTojFK) | 6:06 |
 | 52 | [A Design for Life \- 2016 Remastered Version](https://open.spotify.com/track/7rIoot9qXXs4H3n1kH2V4F) | [Manic Street Preachers](https://open.spotify.com/artist/2uH0RyPcX7fnCcT90HFDQX) | [Everything Must Go 20 \(Remastered\)](https://open.spotify.com/album/0N5NWxZazrftwlXMOgHQrC) | 4:17 |
 | 53 | [Kinky Afro \- 2007 Remaster](https://open.spotify.com/track/3OSJIs8o7v3reK5DHJrG48) | [Happy Mondays](https://open.spotify.com/artist/339DNkQkuhHKEcHw6oK8f0) | [Pills 'N' Thrills And Bellyaches \(Collector's Edition\)](https://open.spotify.com/album/2Qo9lJydzuAmcBUjGOvrMQ) | 3:59 |
-| 54 | [Loaded](https://open.spotify.com/track/7dSBZzVmyBaLDxT2v3EJHB) | [Primal Scream](https://open.spotify.com/artist/3wury2nd8idV4GecUg5xze) | [Screamadelica](https://open.spotify.com/album/4TECsw2dFHZ1ULrT7OA3OL) | 7:02 |
-| 55 | [What You Do To Me](https://open.spotify.com/track/6DOJgDuUVDaJ98GQxwyLTh) | [Teenage Fanclub](https://open.spotify.com/artist/2Sp19cOHSqAUlE64hekARW) | [Bandwagonesque](https://open.spotify.com/album/4M6vPZ4hQdOeH07D0JO2JQ) | 2:00 |
+| 54 | [What You Do To Me](https://open.spotify.com/track/6DOJgDuUVDaJ98GQxwyLTh) | [Teenage Fanclub](https://open.spotify.com/artist/2Sp19cOHSqAUlE64hekARW) | [Bandwagonesque](https://open.spotify.com/album/4M6vPZ4hQdOeH07D0JO2JQ) | 2:00 |
+| 55 | [Loaded](https://open.spotify.com/track/7dSBZzVmyBaLDxT2v3EJHB) | [Primal Scream](https://open.spotify.com/artist/3wury2nd8idV4GecUg5xze) | [Screamadelica](https://open.spotify.com/album/4TECsw2dFHZ1ULrT7OA3OL) | 7:02 |
 | 56 | [I Want to Be There \- When You Come](https://open.spotify.com/track/471Zj8j2ioowDrIhOzaZdy) | [Echo & the Bunnymen](https://open.spotify.com/artist/0fgYKF9Avljex0L9Wt5b8Z) | [Evergreen \(Expanded\)](https://open.spotify.com/album/7ynWqEk1YxxZ2TYf1v6imE) | 3:38 |
 | 57 | [Crystal](https://open.spotify.com/track/2M4PVaTJGjXV91X8HAVQEx) | [New Order](https://open.spotify.com/artist/0yNLKJebCb8Aueb54LYya3) | [Get Ready](https://open.spotify.com/album/6V0NOI7IaZDO9mBvHNc1jt) | 6:50 |
 | 58 | [Beautiful Ones](https://open.spotify.com/track/7lYkggWrQNo4tsGpY4yOOG) | [The London Suede](https://open.spotify.com/artist/6GuRYj1MEnu1WZhDA2Xy0t) | [Coming up \- 20th Anniversary Edition \(Audio Version\)](https://open.spotify.com/album/3YBbEumtx9naxbCQWoeu41) | 3:50 |
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaVgr4Tx5kRF.md) - [plain]
 | 60 | [Slight Return](https://open.spotify.com/track/6Pmr3g62IviFy4sBVII5Jp) | [The Bluetones](https://open.spotify.com/artist/66nOkPJTFgK25NMmojG04V) | [The Singles](https://open.spotify.com/album/3R9Lp4s38Y9pMfcwG9YP27) | 3:19 |
 | 61 | [One To Another](https://open.spotify.com/track/0svfKznUXTbPhqGi2v9uDc) | [The Charlatans](https://open.spotify.com/artist/5fScAXreYFnuqwOgBsJgSd) | [Tellin' Stories](https://open.spotify.com/album/2JcSP59a6uz4xrtfF5ysgv) | 4:29 |
 | 62 | [Wide Open Space](https://open.spotify.com/track/0Q4fqnPKrbOT6HYDhlvbNw) | [Mansun](https://open.spotify.com/artist/7rqRuB0wgUaStDN73PlV4U) | [Attack of the Grey Lantern](https://open.spotify.com/album/7v04VQBNE3VmBxf7vbnpnL) | 4:31 |
-| 63 | [Road Rage](https://open.spotify.com/track/439IqYqbfvhbioXkvaeg20) | [Catatonia](https://open.spotify.com/artist/4Bgfzia8wyaGaTn42egzTv) | [International Velvet](https://open.spotify.com/album/5JKgetvj4148279DoZG7XE) | 5:09 |
-| 64 | [Rocks](https://open.spotify.com/track/2MjYMvn7PlS4HAE1EtP7BJ) | [Primal Scream](https://open.spotify.com/artist/3wury2nd8idV4GecUg5xze) | [Give Out But Don't Give Up](https://open.spotify.com/album/51wKnaqc8kVTPeR99dpXg8) | 3:37 |
+| 63 | [Rocks](https://open.spotify.com/track/2MjYMvn7PlS4HAE1EtP7BJ) | [Primal Scream](https://open.spotify.com/artist/3wury2nd8idV4GecUg5xze) | [Give Out But Don't Give Up](https://open.spotify.com/album/51wKnaqc8kVTPeR99dpXg8) | 3:37 |
+| 64 | [Road Rage](https://open.spotify.com/track/439IqYqbfvhbioXkvaeg20) | [Catatonia](https://open.spotify.com/artist/4Bgfzia8wyaGaTn42egzTv) | [International Velvet](https://open.spotify.com/album/5JKgetvj4148279DoZG7XE) | 5:09 |
 | 65 | [Trash](https://open.spotify.com/track/4QJgpPPICeOLx2u1P3C53D) | [The London Suede](https://open.spotify.com/artist/6GuRYj1MEnu1WZhDA2Xy0t) | [Coming up \- 20th Anniversary Edition \(Audio Version\)](https://open.spotify.com/album/3YBbEumtx9naxbCQWoeu41) | 4:05 |
 
-Snapshot ID: `MCwxZTUzMzc4M2Y2NTNjZjU1NjgwNTExMjZiNzU1YzEwOWM2MDYyNzQ5`
+Snapshot ID: `MCwxZGY5YjI3YWU4ZWEzYjBhYTkzZjUyNDJhNmUwZTQzYmI0ZDM4NjI4`

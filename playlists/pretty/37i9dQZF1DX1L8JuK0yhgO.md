@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 
 > 音楽メディア<a href="http://spincoaster.com/">Spincoaster</a>が厳選したホットな新曲を毎週月曜日にお届け！
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,271 likes - 60 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,273 likes - 60 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 | 36 | [2nd Floor](https://open.spotify.com/track/3L9QmUd4cGGh6UUTlNirKS) | [Miso Extra](https://open.spotify.com/artist/0Vv0Cc8LAnIhUsYI4d5wBg) | [2nd Floor / Constant Surprises](https://open.spotify.com/album/5d1rIGWWwOr8jhmJ0cENB7) | 2:37 |
 | 37 | [パシフィック温泉](https://open.spotify.com/track/6BbT1rSq5b5ykIMXlgZ14A) | [wai wai music resort](https://open.spotify.com/artist/3iGMunIDQTNsfvWds1FVg5) | [パシフィック温泉](https://open.spotify.com/album/73ROXLVcMMWqbkrn1OT1go) | 4:21 |
 | 38 | [empty](https://open.spotify.com/track/5bnVByxBHuYynr7qO5V1cD) | [South Penguin](https://open.spotify.com/artist/2NNLlRoOgdg1EL1jmx2Tjf) | [empty](https://open.spotify.com/album/6u4uP0VXVOBAC3Gr4l4NOX) | 3:41 |
-| 39 | [Metamorphose Love](https://open.spotify.com/track/0VncsWhl0k2xzwAScprYXL) | [Keiichi Sokabe](https://open.spotify.com/artist/5L2Y03AcUOXCgvRMTy2Gwq) | [Metamorphose Love](https://open.spotify.com/album/3g7x2FtL9c2N5d4p9y7EUb) | 2:40 |
+| 39 | [Metamorphose Love](https://open.spotify.com/track/4A3PPYTWMWGowHVq5ilvOt) | [Keiichi Sokabe](https://open.spotify.com/artist/5L2Y03AcUOXCgvRMTy2Gwq) | [Hazard Of Love](https://open.spotify.com/album/618qCFzzmmL4iN3TlH2SPC) | 2:40 |
 | 40 | [Match Pomp](https://open.spotify.com/track/1s27XQgfXccu3SwpsU3ZBP) | [Monthly Mu & New Caledonia](https://open.spotify.com/artist/57KdMq2pCCdMjConSyzDsN) | [HUMANIAC](https://open.spotify.com/album/5wYKiUTV4VrL30c638WAME) | 3:11 |
 | 41 | [W.N.J\. \- SIngle ver.](https://open.spotify.com/track/0aH5HQKA3O5Huhg074ju0z) | [ken sato experience](https://open.spotify.com/artist/3WK7Kj23XT8zprUXg4dGWU), [FiJA](https://open.spotify.com/artist/37yszP4OZkNSupZFSPGtKl) | [W.N.J.](https://open.spotify.com/album/2sl1bDimc2N5lx7J47DxC3) | 2:54 |
 | 42 | [Wonder World](https://open.spotify.com/track/3hIcqzqrsi81Tskp2GKgJY) | [QUBIT](https://open.spotify.com/artist/02Xm23NCqdYlyFnpcTfdmI) | [9BIT](https://open.spotify.com/album/21iEZloCW9987uuN8n80Pi) | 3:59 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 | 59 | [On My Luv](https://open.spotify.com/track/6H9mffNOKeXnTGQ5xwUPGe) | [TeN](https://open.spotify.com/artist/13SGM3N74r68XG6d1OsECc) | [On My Luv](https://open.spotify.com/album/4MyDeuS50PrvyE0exx8tqb) | 2:27 |
 | 60 | [Ivy](https://open.spotify.com/track/1eBqCeR7Pf5aMD8uCbiTZR) | [tsubasa sasaki](https://open.spotify.com/artist/2FtdjGHCKCbbcciiHS0WMZ) | [Ivy](https://open.spotify.com/album/0fxQhDoIzwvgsI50arzKQa) | 2:48 |
 
-Snapshot ID: `MCw0M2M1ZDc2YTMzMzVkZjExYjBmMDhhYzcyYzU0YTQyMDRjODg5NDJl`
+Snapshot ID: `MCwyOWUyNzA3ODA1ZWZhMjVkYWZiMWM3YjBkODQ0ZGZhZjRkMDk0YmI2`

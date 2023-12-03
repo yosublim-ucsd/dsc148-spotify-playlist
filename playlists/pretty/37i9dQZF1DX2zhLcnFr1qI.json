@@ -1,12 +1,12 @@
 {
   "description": "Dance and Electronic tracks for the season <3",
-  "num_followers": 58593,
+  "num_followers": 59017,
   "original_name": "Electronic Christmas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3Mzc0ZjY1M2ZhYjdhNTZjYzZjZDdmZDNkNTcyODc1ZGE2ZTVjODlm",
+  "snapshot_id": "MCxmZDI1ZTg4MTBmMTc5ZmM1NDE5ZmVlZDdhNWI5OTViMGQ0ZTJmNjRm",
   "tracks": [
     {
       "added_at": "2023-11-29 16:22:03",
@@ -195,6 +195,30 @@
     {
       "added_at": "2023-11-29 16:22:03",
       "album": {
+        "name": "Christmas With You",
+        "url": "https://open.spotify.com/album/35w6FkcyNuQ3wtMG1sJhNX"
+      },
+      "artists": [
+        {
+          "name": "Kayote",
+          "url": "https://open.spotify.com/artist/5h9NCujJrwNVZz9bDIDbvn"
+        },
+        {
+          "name": "Tom Faber",
+          "url": "https://open.spotify.com/artist/3fJXOOFs3qd12qPgcZvzFJ"
+        },
+        {
+          "name": "JAIKO",
+          "url": "https://open.spotify.com/artist/0Z18DUpbXTOfz077PDtmhT"
+        }
+      ],
+      "duration_ms": 147096,
+      "name": "Christmas With You",
+      "url": "https://open.spotify.com/track/6CYRNlf9WHdKeuOFNZWTzO"
+    },
+    {
+      "added_at": "2023-11-29 16:22:03",
+      "album": {
         "name": "Carol Of The Bells (Spotify Singles Holiday)",
         "url": "https://open.spotify.com/album/4cvOEpiN4d4YMwM4eB9NvY"
       },
@@ -251,30 +275,6 @@
       "duration_ms": 178560,
       "name": "All I Want for Christmas",
       "url": "https://open.spotify.com/track/4Y22IgfwCLFVW6Utr8XXIu"
-    },
-    {
-      "added_at": "2023-11-29 16:22:03",
-      "album": {
-        "name": "Christmas With You",
-        "url": "https://open.spotify.com/album/35w6FkcyNuQ3wtMG1sJhNX"
-      },
-      "artists": [
-        {
-          "name": "Kayote",
-          "url": "https://open.spotify.com/artist/5h9NCujJrwNVZz9bDIDbvn"
-        },
-        {
-          "name": "Tom Faber",
-          "url": "https://open.spotify.com/artist/3fJXOOFs3qd12qPgcZvzFJ"
-        },
-        {
-          "name": "JAIKO",
-          "url": "https://open.spotify.com/artist/0Z18DUpbXTOfz077PDtmhT"
-        }
-      ],
-      "duration_ms": 147096,
-      "name": "Christmas With You",
-      "url": "https://open.spotify.com/track/6CYRNlf9WHdKeuOFNZWTzO"
     },
     {
       "added_at": "2023-11-29 16:22:03",
@@ -543,6 +543,22 @@
     {
       "added_at": "2023-11-29 16:22:03",
       "album": {
+        "name": "Christmas Bounce",
+        "url": "https://open.spotify.com/album/4e1IEmkrCmWcSvaGCtHLRw"
+      },
+      "artists": [
+        {
+          "name": "Helion",
+          "url": "https://open.spotify.com/artist/05GSra7vTwr8o54Brzp2nA"
+        }
+      ],
+      "duration_ms": 173515,
+      "name": "Christmas Bounce",
+      "url": "https://open.spotify.com/track/22Y8YQGRTTk4hHaOFtII8t"
+    },
+    {
+      "added_at": "2023-11-29 16:22:03",
+      "album": {
         "name": "Christmas Rave",
         "url": "https://open.spotify.com/album/0qWXWyan06KiYiMtYS2Q67"
       },
@@ -567,22 +583,6 @@
     {
       "added_at": "2023-11-29 16:22:03",
       "album": {
-        "name": "Christmas Bounce",
-        "url": "https://open.spotify.com/album/4e1IEmkrCmWcSvaGCtHLRw"
-      },
-      "artists": [
-        {
-          "name": "Helion",
-          "url": "https://open.spotify.com/artist/05GSra7vTwr8o54Brzp2nA"
-        }
-      ],
-      "duration_ms": 173515,
-      "name": "Christmas Bounce",
-      "url": "https://open.spotify.com/track/22Y8YQGRTTk4hHaOFtII8t"
-    },
-    {
-      "added_at": "2023-11-29 16:22:03",
-      "album": {
         "name": "Have Yourself A Merry Little Christmas",
         "url": "https://open.spotify.com/album/4jPnSXA5LhdzR8Cz9ZGa3D"
       },
@@ -595,46 +595,6 @@
       "duration_ms": 144440,
       "name": "Have Yourself A Merry Little Christmas",
       "url": "https://open.spotify.com/track/5L8OxPOln5z2D1rfutPZy4"
-    },
-    {
-      "added_at": "2023-11-29 16:22:03",
-      "album": {
-        "name": "A Very Decent Christmas 4",
-        "url": "https://open.spotify.com/album/71MKwZhqUkB1LRIYjgKH4g"
-      },
-      "artists": [
-        {
-          "name": "Major Lazer",
-          "url": "https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp"
-        },
-        {
-          "name": "Protoje",
-          "url": "https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr"
-        }
-      ],
-      "duration_ms": 193846,
-      "name": "Christmas Trees",
-      "url": "https://open.spotify.com/track/5QfF5xitFXtiqLBS3vdRkx"
-    },
-    {
-      "added_at": "2023-11-29 16:22:03",
-      "album": {
-        "name": "Caroling Caroling",
-        "url": "https://open.spotify.com/album/7zZ5oQWZWn0hZQUCihlGBc"
-      },
-      "artists": [
-        {
-          "name": "Kaskade",
-          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
-        },
-        {
-          "name": "Late Night Alumni",
-          "url": "https://open.spotify.com/artist/6JtFllJR7nhh8fa6oGefSj"
-        }
-      ],
-      "duration_ms": 206125,
-      "name": "Caroling Caroling",
-      "url": "https://open.spotify.com/track/6bHwkInIrzlxdtpLSaRcU6"
     },
     {
       "added_at": "2023-11-29 16:22:03",
@@ -659,6 +619,46 @@
     {
       "added_at": "2023-11-29 16:22:03",
       "album": {
+        "name": "Caroling Caroling",
+        "url": "https://open.spotify.com/album/7zZ5oQWZWn0hZQUCihlGBc"
+      },
+      "artists": [
+        {
+          "name": "Kaskade",
+          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
+        },
+        {
+          "name": "Late Night Alumni",
+          "url": "https://open.spotify.com/artist/6JtFllJR7nhh8fa6oGefSj"
+        }
+      ],
+      "duration_ms": 206125,
+      "name": "Caroling Caroling",
+      "url": "https://open.spotify.com/track/6bHwkInIrzlxdtpLSaRcU6"
+    },
+    {
+      "added_at": "2023-11-29 16:22:03",
+      "album": {
+        "name": "A Very Decent Christmas 4",
+        "url": "https://open.spotify.com/album/71MKwZhqUkB1LRIYjgKH4g"
+      },
+      "artists": [
+        {
+          "name": "Major Lazer",
+          "url": "https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp"
+        },
+        {
+          "name": "Protoje",
+          "url": "https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr"
+        }
+      ],
+      "duration_ms": 193846,
+      "name": "Christmas Trees",
+      "url": "https://open.spotify.com/track/5QfF5xitFXtiqLBS3vdRkx"
+    },
+    {
+      "added_at": "2023-11-29 16:22:03",
+      "album": {
         "name": "Winter Wonderland ^Bsiide",
         "url": "https://open.spotify.com/album/6pcKxl4tKNedCa0n5jmJ3a"
       },
@@ -671,22 +671,6 @@
       "duration_ms": 178739,
       "name": "Winter Wonderland ^Bsiide",
       "url": "https://open.spotify.com/track/3o61WoISh2MzY6FDB3G5ZE"
-    },
-    {
-      "added_at": "2023-11-29 16:22:03",
-      "album": {
-        "name": "Jingle Bells",
-        "url": "https://open.spotify.com/album/5FovzlmOYobIs5JRk9kZIz"
-      },
-      "artists": [
-        {
-          "name": "Wubbaduck",
-          "url": "https://open.spotify.com/artist/36JJbH66Q0tZbKcnjvliDT"
-        }
-      ],
-      "duration_ms": 150021,
-      "name": "Jingle Bells",
-      "url": "https://open.spotify.com/track/6abu6YFNdXxj6PFUdkGUfs"
     },
     {
       "added_at": "2023-11-29 16:22:03",
@@ -711,6 +695,22 @@
       "duration_ms": 151448,
       "name": "All I Want for Christmas Is You",
       "url": "https://open.spotify.com/track/2HMeL2UhAlfrEXigmFOPnQ"
+    },
+    {
+      "added_at": "2023-11-29 16:22:03",
+      "album": {
+        "name": "Jingle Bells",
+        "url": "https://open.spotify.com/album/5FovzlmOYobIs5JRk9kZIz"
+      },
+      "artists": [
+        {
+          "name": "Wubbaduck",
+          "url": "https://open.spotify.com/artist/36JJbH66Q0tZbKcnjvliDT"
+        }
+      ],
+      "duration_ms": 150021,
+      "name": "Jingle Bells",
+      "url": "https://open.spotify.com/track/6abu6YFNdXxj6PFUdkGUfs"
     },
     {
       "added_at": "2023-11-29 16:22:03",

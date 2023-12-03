@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUMIjnZuaulx.md) - [plain]
 
 > New songs from some of the latest and greatest Gospel music artists\.  Cover: <a href="spotify:artist:3EDwVZensg15abkTt5zfTM">Ricky Dillard</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 272,996 likes - 100 songs - 8 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 273,056 likes - 100 songs - 8 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [When I Think / I Give You Praise \- Live](https://open.spotify.com/track/5tKalDnf02u9iBKgfs0RAS) | [Ricky Dillard](https://open.spotify.com/artist/3EDwVZensg15abkTt5zfTM) | [When I Think / I Give You Praise \(Live\)](https://open.spotify.com/album/0ffWtIAVN0F7sOvZurNYne) | 8:54 |
+| 1 | [When I Think \- Live](https://open.spotify.com/track/5tKalDnf02u9iBKgfs0RAS) | [Ricky Dillard](https://open.spotify.com/artist/3EDwVZensg15abkTt5zfTM) | [When I Think \(Live\)](https://open.spotify.com/album/0ffWtIAVN0F7sOvZurNYne) | 8:54 |
 | 2 | [Grace \(feat\. Kierra Sheard\-Kelly\)](https://open.spotify.com/track/0tXgfxKBnI3iDI6GaDRrIk) | [Anthony Brown & group therAPy](https://open.spotify.com/artist/4sgW8IRub0jAU29ecct87w), [Kierra Sheard\-Kelly](https://open.spotify.com/artist/7k9QU2u4MTwjc6pHZoo9po) | [Affirmations](https://open.spotify.com/album/7nsuo2vcsPXDQdCQBY6SYv) | 5:37 |
 | 3 | [Lord I Love You \- Live](https://open.spotify.com/track/6DO834OLITajOfoPJ27ckA) | [Todd Dulaney](https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz) | [The Journey \(Live\)](https://open.spotify.com/album/55qkczyxlKcvYDDX5vpgFj) | 8:36 |
 | 4 | [You Carried Me \- Jekalyn's Version](https://open.spotify.com/track/2q6utlOBBdiOMZ4TcQ1CRj) | [Jekalyn Carr](https://open.spotify.com/artist/5ynRYAGjyPDE8unsFqi6MH) | [JEKALYN](https://open.spotify.com/album/4juJvUDtZiY996RJKlIxrK) | 5:03 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUMIjnZuaulx.md) - [plain]
 | 99 | [One Day](https://open.spotify.com/track/1aWEgCat4z6MwWZHQEdwPT) | [Casey J](https://open.spotify.com/artist/0B0NzcRnTARbZc83a34cDd) | [One Day](https://open.spotify.com/album/2X56R8P00VmhcRKhc8CMmF) | 3:41 |
 | 100 | [Waiting \(Reimagined\)](https://open.spotify.com/track/1eX6ayUcyZbvuQLyqZG6zu) | [Antoine Bradford](https://open.spotify.com/artist/1FYE37rOHOrxO1lHAQUkCl) | [Waiting \(Reimagined\)](https://open.spotify.com/album/1MD6xmLqXiKeuruRTskDur) | 3:45 |
 
-Snapshot ID: `MCwwZGU5NWFmZDE0MTMyODIwYTQ0NmU2MjgzYjIxNmIwMDZhMmUyYzIy`
+Snapshot ID: `MCw4ZjIwNWE3ZmY4OTkzODNjOTk3YTAxZTRiZTg3YjZjNTIxZjQwMjBm`

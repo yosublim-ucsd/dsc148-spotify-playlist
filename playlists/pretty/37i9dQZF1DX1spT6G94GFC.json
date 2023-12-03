@@ -1,29 +1,13 @@
 {
   "description": "These songs rocked the 80s.",
-  "num_followers": 2761446,
+  "num_followers": 2762463,
   "original_name": "80s Rock Anthems",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YWI3MjY0ZjljM2FiMmIyMWU4MjY0NjQ5MjU1OWQzNjc0OTFhOWU5",
+  "snapshot_id": "MCw1MjQxZGZlNTM5OTZmMTU3OWY1MWI1OGMxYmZkZGE2Y2FiOGI1M2Qw",
   "tracks": [
-    {
-      "added_at": "2023-11-16 15:11:24",
-      "album": {
-        "name": "Synchronicity (Remastered 2003)",
-        "url": "https://open.spotify.com/album/5W9OT0a5iZlBr83a9WMKFY"
-      },
-      "artists": [
-        {
-          "name": "The Police",
-          "url": "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE"
-        }
-      ],
-      "duration_ms": 253920,
-      "name": "Every Breath You Take",
-      "url": "https://open.spotify.com/track/1JSTJqkT5qHq8MDJnJbRE1"
-    },
     {
       "added_at": "2023-11-16 15:11:24",
       "album": {
@@ -39,6 +23,22 @@
       "duration_ms": 251488,
       "name": "Everybody Wants To Rule The World",
       "url": "https://open.spotify.com/track/4RvWPyQ5RL0ao9LPZeSouE"
+    },
+    {
+      "added_at": "2023-11-16 15:11:24",
+      "album": {
+        "name": "Synchronicity (Remastered 2003)",
+        "url": "https://open.spotify.com/album/5W9OT0a5iZlBr83a9WMKFY"
+      },
+      "artists": [
+        {
+          "name": "The Police",
+          "url": "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE"
+        }
+      ],
+      "duration_ms": 253920,
+      "name": "Every Breath You Take",
+      "url": "https://open.spotify.com/track/1JSTJqkT5qHq8MDJnJbRE1"
     },
     {
       "added_at": "2023-11-16 15:11:24",
@@ -155,18 +155,18 @@
     {
       "added_at": "2023-11-16 15:11:24",
       "album": {
-        "name": "1984 (Remastered)",
-        "url": "https://open.spotify.com/album/3REUXdj5OPKhuDTrTtCBU0"
+        "name": "Combat Rock (Remastered)",
+        "url": "https://open.spotify.com/album/1ZH5g1RDq3GY1OvyD0w0s2"
       },
       "artists": [
         {
-          "name": "Van Halen",
-          "url": "https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K"
+          "name": "The Clash",
+          "url": "https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS"
         }
       ],
-      "duration_ms": 241599,
-      "name": "Jump - 2015 Remaster",
-      "url": "https://open.spotify.com/track/7N3PAbqfTjSEU1edb2tY8j"
+      "duration_ms": 188986,
+      "name": "Should I Stay or Should I Go - Remastered",
+      "url": "https://open.spotify.com/track/39shmbIHICJ2Wxnk1fPSdz"
     },
     {
       "added_at": "2023-11-16 15:11:24",
@@ -187,18 +187,18 @@
     {
       "added_at": "2023-11-16 15:11:24",
       "album": {
-        "name": "Combat Rock (Remastered)",
-        "url": "https://open.spotify.com/album/1ZH5g1RDq3GY1OvyD0w0s2"
+        "name": "1984 (Remastered)",
+        "url": "https://open.spotify.com/album/3REUXdj5OPKhuDTrTtCBU0"
       },
       "artists": [
         {
-          "name": "The Clash",
-          "url": "https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS"
+          "name": "Van Halen",
+          "url": "https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K"
         }
       ],
-      "duration_ms": 188986,
-      "name": "Should I Stay or Should I Go - Remastered",
-      "url": "https://open.spotify.com/track/39shmbIHICJ2Wxnk1fPSdz"
+      "duration_ms": 241599,
+      "name": "Jump - 2015 Remaster",
+      "url": "https://open.spotify.com/track/7N3PAbqfTjSEU1edb2tY8j"
     },
     {
       "added_at": "2023-11-16 15:11:24",
@@ -651,18 +651,18 @@
     {
       "added_at": "2023-11-16 15:11:24",
       "album": {
-        "name": "American Fool",
-        "url": "https://open.spotify.com/album/4gouGcdQn9OvjX42xnWrF0"
+        "name": "Dr. Feelgood (Deluxe Version)",
+        "url": "https://open.spotify.com/album/0VPad241NfcHMOXcRcLrDe"
       },
       "artists": [
         {
-          "name": "John Mellencamp",
-          "url": "https://open.spotify.com/artist/3lPQ2Fk5JOwGWAF3ORFCqH"
+          "name": "M\u00f6tley Cr\u00fce",
+          "url": "https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL"
         }
       ],
-      "duration_ms": 218960,
-      "name": "Hurts So Good",
-      "url": "https://open.spotify.com/track/67eX1ovaHyVPUinMHeUtIM"
+      "duration_ms": 282653,
+      "name": "Kickstart My Heart",
+      "url": "https://open.spotify.com/track/65HA9FsYyA2xro9RzNlNmy"
     },
     {
       "added_at": "2023-11-16 15:11:24",
@@ -683,6 +683,22 @@
       "duration_ms": 248440,
       "name": "Under Pressure - Remastered 2011",
       "url": "https://open.spotify.com/track/11IzgLRXV7Cgek3tEgGgjw"
+    },
+    {
+      "added_at": "2023-11-16 15:11:24",
+      "album": {
+        "name": "American Fool",
+        "url": "https://open.spotify.com/album/4gouGcdQn9OvjX42xnWrF0"
+      },
+      "artists": [
+        {
+          "name": "John Mellencamp",
+          "url": "https://open.spotify.com/artist/3lPQ2Fk5JOwGWAF3ORFCqH"
+        }
+      ],
+      "duration_ms": 218960,
+      "name": "Hurts So Good",
+      "url": "https://open.spotify.com/track/67eX1ovaHyVPUinMHeUtIM"
     },
     {
       "added_at": "2023-11-16 15:11:24",
@@ -735,18 +751,18 @@
     {
       "added_at": "2023-11-16 15:11:24",
       "album": {
-        "name": "Dr. Feelgood (Deluxe Version)",
-        "url": "https://open.spotify.com/album/0VPad241NfcHMOXcRcLrDe"
+        "name": "Ace of Spades (Expanded Edition)",
+        "url": "https://open.spotify.com/album/619d4uJE3h2rOlw7kmSlD6"
       },
       "artists": [
         {
-          "name": "M\u00f6tley Cr\u00fce",
-          "url": "https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL"
+          "name": "Mot\u00f6rhead",
+          "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
         }
       ],
-      "duration_ms": 282653,
-      "name": "Kickstart My Heart",
-      "url": "https://open.spotify.com/track/65HA9FsYyA2xro9RzNlNmy"
+      "duration_ms": 168320,
+      "name": "Ace of Spades",
+      "url": "https://open.spotify.com/track/3CIOopLwvyMvXk97ZEksKO"
     },
     {
       "added_at": "2023-11-16 15:11:24",
@@ -763,22 +779,6 @@
       "duration_ms": 255680,
       "name": "Beds Are Burning - Remastered",
       "url": "https://open.spotify.com/track/1CtAzw53AIXKjAemxy4b1j"
-    },
-    {
-      "added_at": "2023-11-16 15:11:24",
-      "album": {
-        "name": "Ace of Spades (Expanded Edition)",
-        "url": "https://open.spotify.com/album/619d4uJE3h2rOlw7kmSlD6"
-      },
-      "artists": [
-        {
-          "name": "Mot\u00f6rhead",
-          "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
-        }
-      ],
-      "duration_ms": 168320,
-      "name": "Ace of Spades",
-      "url": "https://open.spotify.com/track/3CIOopLwvyMvXk97ZEksKO"
     },
     {
       "added_at": "2023-11-16 15:11:24",
@@ -831,22 +831,6 @@
     {
       "added_at": "2023-11-16 15:11:24",
       "album": {
-        "name": "Call Me",
-        "url": "https://open.spotify.com/album/18fOLsMG8Msf1DEaW0E71K"
-      },
-      "artists": [
-        {
-          "name": "Blondie",
-          "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
-        }
-      ],
-      "duration_ms": 212226,
-      "name": "Call Me",
-      "url": "https://open.spotify.com/track/7HKxTNVlkHsfMLhigmhC0I"
-    },
-    {
-      "added_at": "2023-11-16 15:11:24",
-      "album": {
         "name": "Open Up And Say...Ahh! (20th Anniversary Edition)",
         "url": "https://open.spotify.com/album/2AMWVB3FWknjcMeb6hMZnd"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 260173,
       "name": "Every Rose Has Its Thorn - Remastered 2003",
       "url": "https://open.spotify.com/track/43GS3mtezoIFiuIZCLLiDY"
+    },
+    {
+      "added_at": "2023-11-16 15:11:24",
+      "album": {
+        "name": "Call Me",
+        "url": "https://open.spotify.com/album/18fOLsMG8Msf1DEaW0E71K"
+      },
+      "artists": [
+        {
+          "name": "Blondie",
+          "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
+        }
+      ],
+      "duration_ms": 212226,
+      "name": "Call Me",
+      "url": "https://open.spotify.com/track/7HKxTNVlkHsfMLhigmhC0I"
     },
     {
       "added_at": "2023-11-16 15:11:24",
@@ -911,22 +911,6 @@
     {
       "added_at": "2023-11-16 15:11:24",
       "album": {
-        "name": "Born In The U.S.A.",
-        "url": "https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O"
-      },
-      "artists": [
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        }
-      ],
-      "duration_ms": 254733,
-      "name": "Glory Days",
-      "url": "https://open.spotify.com/track/2Y90nL1ohB4sgYELDs7uNx"
-    },
-    {
-      "added_at": "2023-11-16 15:11:24",
-      "album": {
         "name": "...And Justice for All (Remastered Deluxe Box Set)",
         "url": "https://open.spotify.com/album/2XbWaerVk9fjhEiGSrd6TF"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 446145,
       "name": "One (Remastered)",
       "url": "https://open.spotify.com/track/0LAcM6I7ijW4VVW0aytl1t"
+    },
+    {
+      "added_at": "2023-11-16 15:11:24",
+      "album": {
+        "name": "Born In The U.S.A.",
+        "url": "https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "duration_ms": 254733,
+      "name": "Glory Days",
+      "url": "https://open.spotify.com/track/2Y90nL1ohB4sgYELDs7uNx"
     },
     {
       "added_at": "2023-11-16 15:11:24",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2023-11-16 15:11:24",
       "album": {
-        "name": "Wild-Eyed Southern Boys",
-        "url": "https://open.spotify.com/album/0McWOHhD5uSpbT4wRuTgpj"
-      },
-      "artists": [
-        {
-          "name": "38 Special",
-          "url": "https://open.spotify.com/artist/3zXw2Eh96iTT51pytzHdZi"
-        }
-      ],
-      "duration_ms": 280636,
-      "name": "Hold On Loosely",
-      "url": "https://open.spotify.com/track/6i9dZZQWNB06HKsQYKTiPF"
-    },
-    {
-      "added_at": "2023-11-16 15:11:24",
-      "album": {
         "name": "Girls, Girls, Girls",
         "url": "https://open.spotify.com/album/0vPZhR1KpbRNBOQBsDScS8"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 270533,
       "name": "Girls, Girls, Girls",
       "url": "https://open.spotify.com/track/3439OLNIeD3y68kVuoZUO5"
+    },
+    {
+      "added_at": "2023-11-16 15:11:24",
+      "album": {
+        "name": "Wild-Eyed Southern Boys",
+        "url": "https://open.spotify.com/album/0McWOHhD5uSpbT4wRuTgpj"
+      },
+      "artists": [
+        {
+          "name": "38 Special",
+          "url": "https://open.spotify.com/artist/3zXw2Eh96iTT51pytzHdZi"
+        }
+      ],
+      "duration_ms": 280636,
+      "name": "Hold On Loosely",
+      "url": "https://open.spotify.com/track/6i9dZZQWNB06HKsQYKTiPF"
     },
     {
       "added_at": "2023-11-16 15:11:24",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2023-11-16 15:11:24",
       "album": {
-        "name": "Brothers in Arms",
-        "url": "https://open.spotify.com/album/7jvcSnCnugLcisBCNBm60s"
-      },
-      "artists": [
-        {
-          "name": "Dire Straits",
-          "url": "https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T"
-        }
-      ],
-      "duration_ms": 506400,
-      "name": "Money for Nothing",
-      "url": "https://open.spotify.com/track/4yqtwO7MQIIXqoiRBPHAgR"
-    },
-    {
-      "added_at": "2023-11-16 15:11:24",
-      "album": {
         "name": "Nothing's Shocking",
         "url": "https://open.spotify.com/album/4DVBJPJyizvHfJQt5pYaCa"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 287000,
       "name": "Jane Says",
       "url": "https://open.spotify.com/track/7c1Dar0pIAW7w5TzaGjt9t"
+    },
+    {
+      "added_at": "2023-11-16 15:11:24",
+      "album": {
+        "name": "Brothers in Arms",
+        "url": "https://open.spotify.com/album/7jvcSnCnugLcisBCNBm60s"
+      },
+      "artists": [
+        {
+          "name": "Dire Straits",
+          "url": "https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T"
+        }
+      ],
+      "duration_ms": 506400,
+      "name": "Money for Nothing",
+      "url": "https://open.spotify.com/track/4yqtwO7MQIIXqoiRBPHAgR"
     }
   ],
   "unique_name": "80s Rock Anthems",

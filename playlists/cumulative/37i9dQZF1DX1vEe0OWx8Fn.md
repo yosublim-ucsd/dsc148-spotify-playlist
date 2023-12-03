@@ -4,7 +4,7 @@
 
 > it was never just a phase
 
-177 songs - 9 hr 3 min
+178 songs - 9 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -144,6 +144,7 @@
 | [sarah jessica parker](https://open.spotify.com/track/42FjlGrFOZ958Dj0ctpqkr) | [Summer Heights](https://open.spotify.com/artist/2LAH4zTDmnodSIEEl6T1Ku) | [sarah jessica parker](https://open.spotify.com/album/5dvS4MtkUSjmWAVxP3xYHk) | 3:16 | 2022-02-04 | 2022-07-26 |
 | [Self\-care 101](https://open.spotify.com/track/1tFWBZIc8TqcAi15EgMuhi) | [Lazy Queen](https://open.spotify.com/artist/1U9zqBUEcScanms647YanK) | [Get Home Or Die Trying](https://open.spotify.com/album/34r4zqhE5Nt9zAn6lYqHs6) | 5:20 | 2021-11-19 | 2022-07-22 |
 | [Shapeshift](https://open.spotify.com/track/08KAB8LahxJB28HExOmPnL) | [Jenna Doe](https://open.spotify.com/artist/537KNo7PHzbkHiv5SGQ0eT) | [Shapeshift](https://open.spotify.com/album/5hgChCe2iQ66hwlMAINHyf) | 2:25 | 2022-02-04 | 2023-11-16 |
+| [She Likes My Tattoos](https://open.spotify.com/track/00JNccokQDsIv4oqNlz3LC) | [Pardyalone](https://open.spotify.com/artist/6M4q5QWjmpjuPAi7LVFEFG) | [I Left You In Minnesota](https://open.spotify.com/album/5okhFmMB4fzu8QCB4ZGXWP) | 2:44 | 2022-08-16 |  |
 | [She Likes My Tattoos](https://open.spotify.com/track/2Lle3tbO97Dd4I3deOZ92g) | [Pardyalone](https://open.spotify.com/artist/6M4q5QWjmpjuPAi7LVFEFG) | [She Likes My Tattoos](https://open.spotify.com/album/5K2xRnUFqZBB1FoWoegvp7) | 2:44 | 2022-08-16 | 2023-10-26 |
 | [She's A God](https://open.spotify.com/track/3rmVrevtGa5y7wieirt7rZ) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [She's A God](https://open.spotify.com/album/69MzaYbPgU7af0CPD5Ck1s) | 3:20 | 2023-05-25 |  |
 | [Shut Up \(feat\. phem & Travis Barker\)](https://open.spotify.com/track/02VGsfTMUmkZYlwhdkgTnB) | [Tyler Posey](https://open.spotify.com/artist/2J6oM8cqh6JxBLRged0d7U), [phem](https://open.spotify.com/artist/0MGJHTThvyAyqKuEAgPqDr), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [Shut Up \(feat\. phem & Travis Barker\)](https://open.spotify.com/album/1ZOWRJ0ZVIjV3eTte5koU4) | 3:01 | 2022-03-04 | 2022-07-29 |
@@ -182,7 +183,7 @@
 | [YOU NEEDED A HIT//](https://open.spotify.com/track/5DbBHcdkzRe1HnA132Dp0z) | [KennyHoopla](https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM) | [YOU NEEDED A HIT//](https://open.spotify.com/album/16Cce1oSCslSILGQCToU0C) | 2:00 | 2023-05-19 |  |
 | [You're So Fucking Pretty](https://open.spotify.com/track/2CQy2zQj9Cs7mRvPnxtHN4) | [The Regrettes](https://open.spotify.com/artist/67WNUxmM7y4WzHPAVzBu3E) | [You're So Fucking Pretty](https://open.spotify.com/album/3AP7UCAzrXif4SQQhxNUti) | 3:49 | 2022-02-04 | 2022-07-29 |
 | [You're So Fucking Pretty](https://open.spotify.com/track/2UzNrlJnzS5N0PDz2n2kwu) | [The Regrettes](https://open.spotify.com/artist/67WNUxmM7y4WzHPAVzBu3E) | [Further Joy](https://open.spotify.com/album/1rM5i5ofhPY3hdPA5wcozJ) | 3:49 | 2022-08-16 | 2022-12-09 |
-| [{ The Dreamer's Hotel }](https://open.spotify.com/track/0kKLYJlTi8RRR18vTOBsKd) | [Enter Shikari](https://open.spotify.com/artist/31jvzuB4ikftPQZJwrYfCF) | [Nothing is True & Everything is Possible](https://open.spotify.com/album/5RqRElQANHEUFyIWPt8FEp) | 2:53 | 2022-08-16 |  |
+| [{ The Dreamer's Hotel }](https://open.spotify.com/track/0kKLYJlTi8RRR18vTOBsKd) | [Enter Shikari](https://open.spotify.com/artist/31jvzuB4ikftPQZJwrYfCF) | [Nothing is True & Everything is Possible](https://open.spotify.com/album/5RqRElQANHEUFyIWPt8FEp) | 2:53 | 2022-08-16 | 2023-12-03 |
 | [{ The Dreamer’s Hotel }](https://open.spotify.com/track/54wnl8UEtlaWgy3mNaXMnL) | [Enter Shikari](https://open.spotify.com/artist/31jvzuB4ikftPQZJwrYfCF) | [Nothing is True & Everything is Possible](https://open.spotify.com/album/4VBnxLnSqWSodiwHIZGdIH) | 2:53 | 2022-03-04 | 2023-01-06 |
 | [\~Cya Later\~](https://open.spotify.com/track/6Ua3hwMCkhRYgesV5kC9Rl) | [Tired Lion](https://open.spotify.com/artist/5Vf0Z6jyMOGr07Gf8irDMt) | [Breakfast For Pathetics](https://open.spotify.com/album/4cr6QE3fflOcnK8W1AWZYo) | 3:20 | 2021-11-19 | 2022-05-23 |
 

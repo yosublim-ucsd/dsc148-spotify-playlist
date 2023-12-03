@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhEq8aJ7AYV.md) - [plain]
 
 > Tengan a la mano las máscaras de lucha libre y la tabla de surf.
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,088 likes - 75 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,114 likes - 75 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhEq8aJ7AYV.md) - [plain]
 | 34 | [There But for the Grace of God Go I](https://open.spotify.com/track/0pDMnocBxXOPjBiTfYr8bl) | [The Gories](https://open.spotify.com/artist/5tcr1ujTO3Q0WH2wkY7RWh) | [Outta Here](https://open.spotify.com/album/0lmtSiRNAX5QXkQm4IuWHb) | 3:07 |
 | 35 | [Frenesick](https://open.spotify.com/track/2Nj3Nav85I3sBSnJG0ff8A) | [Lost Acapulco](https://open.spotify.com/artist/2k4EVVU4sm6zXJSOpDVk0U) | [Acapulco Golden](https://open.spotify.com/album/54nY5IKYlpgFYYXbA5Y3hr) | 2:25 |
 | 36 | [El Beach Boy](https://open.spotify.com/track/6oqxj450uTm4141WYeLLOM) | [Fenomeno Fuzz](https://open.spotify.com/artist/7kg2KlLovywtCGI1zGlhgc) | [Martinis & Bikinis](https://open.spotify.com/album/3E2iEWxguD9ypkLuZ6UMoz) | 2:17 |
-| 37 | [Hombre Lobo Adolescente](https://open.spotify.com/track/1lVcqcdXrOqqtKyF8HoCWF) | [Rebel Cats](https://open.spotify.com/artist/2ukziVbiZa3N5eSdUOXgXL), [Fráncisco Familiar](https://open.spotify.com/artist/6inDzeziUIxChspv3DEKtJ) | [Rebel Cats Y Sus Amigos](https://open.spotify.com/album/6eEtfyJ0LiBL2EueE8Wmfw) | 2:42 |
-| 38 | [Wish You Were Here](https://open.spotify.com/track/0bPl0bTLYzpnkIZOtES29O) | [Arizona Baby](https://open.spotify.com/artist/1RzhOKsFwEhVZWR2OmCCqV), [Los Coronas](https://open.spotify.com/artist/47Q90hbpzShTWyi60e6uVN) | [Dos Bandas y un Destino](https://open.spotify.com/album/3BmLh6ul8Rbj9LiabRcKQ1) | 3:49 |
+| 37 | [Wish You Were Here](https://open.spotify.com/track/0bPl0bTLYzpnkIZOtES29O) | [Arizona Baby](https://open.spotify.com/artist/1RzhOKsFwEhVZWR2OmCCqV), [Los Coronas](https://open.spotify.com/artist/47Q90hbpzShTWyi60e6uVN) | [Dos Bandas y un Destino](https://open.spotify.com/album/3BmLh6ul8Rbj9LiabRcKQ1) | 3:49 |
+| 38 | [Hombre Lobo Adolescente](https://open.spotify.com/track/1lVcqcdXrOqqtKyF8HoCWF) | [Rebel Cats](https://open.spotify.com/artist/2ukziVbiZa3N5eSdUOXgXL), [Fráncisco Familiar](https://open.spotify.com/artist/6inDzeziUIxChspv3DEKtJ) | [Rebel Cats Y Sus Amigos](https://open.spotify.com/album/6eEtfyJ0LiBL2EueE8Wmfw) | 2:42 |
 | 39 | [Farewell to Monster Island](https://open.spotify.com/track/4L84ElkLcocqS6iuQjbL9m) | [Daikaiju](https://open.spotify.com/artist/1boMjUeqvfISOyhMtR89QC) | [Daikaiju](https://open.spotify.com/album/2JeW42eEkcpxw1UHvZFfVG) | 8:26 |
 | 40 | [Wading Out](https://open.spotify.com/track/3e7WFkI9OBb9ANwqJroJwZ) | [Favourite People](https://open.spotify.com/artist/2cIiivDGTDkt9aQVeJYCAt) | [Wading Out / Shell Island](https://open.spotify.com/album/6Fd1qlkC7Rj9Na2J9BfOiT) | 3:41 |
 | 41 | [The Godfather](https://open.spotify.com/track/4IbDm3FsKHrdbuAAWXZztu) | [Satan's Pilgrims](https://open.spotify.com/artist/7LQPLh6XX8uGuU8WKkHYIM) | [Plymouth Rock](https://open.spotify.com/album/3vBmJk8uUIqtH2wYPdVfq9) | 2:34 |
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhEq8aJ7AYV.md) - [plain]
 | 47 | [Mala Influencia](https://open.spotify.com/track/1yzoFk7CkO01YSC3GWi5Z1) | [Rebel Cats](https://open.spotify.com/artist/2ukziVbiZa3N5eSdUOXgXL), [Marcela Viejo](https://open.spotify.com/artist/1j2sGZWC8B3TvIxsK7mVpx), [Mario Cobo](https://open.spotify.com/artist/4Wq5nHO913AYYjcuHr59ML), [Dani Nel\-lo](https://open.spotify.com/artist/4pYQYbMal0JjX4kwmGgGdd) | [Rebel Cats Y Sus Amigos](https://open.spotify.com/album/6eEtfyJ0LiBL2EueE8Wmfw) | 3:27 |
 | 48 | [Tequila](https://open.spotify.com/track/6iBdawbfBxb7op85Ydd9C7) | [The Surfaris](https://open.spotify.com/artist/6gZVflqhSHhG3MjYrf1dOv) | [Surf Party: Best Of The Surfaris \- Live!](https://open.spotify.com/album/6Sxn3U1oloIaKAZl8pc0Y4) | 2:42 |
 | 49 | [Popcorno Revenge](https://open.spotify.com/track/2Ix5WVkZhrljeTTiKDPUcP) | [Messer Chups](https://open.spotify.com/artist/756Li3sKcK4EdDiniLPqRl) | [Surf Riders from the Swamp Lagoon](https://open.spotify.com/album/1PvhsuI9Rp7UA0Y4aFaeGp) | 2:34 |
-| 50 | [La Viuda Negra](https://open.spotify.com/track/0vlcfidir85v3y6ths4HWZ) | [Fenomeno Fuzz](https://open.spotify.com/artist/7kg2KlLovywtCGI1zGlhgc) | [Sonido Bestia](https://open.spotify.com/album/3X31PsiKoR8dBnc9wrQCIc) | 3:06 |
-| 51 | [Vaquero](https://open.spotify.com/track/7jJEMBy2f4bLHJZ8yG2Pxg) | [Los Elasticos](https://open.spotify.com/artist/6c4NKR57VVR6AjaoZB6q9Z) | [Death Calavera 2.2](https://open.spotify.com/album/3LG8wwHzcv0WgsxVeVaigW) | 2:52 |
+| 50 | [Vaquero](https://open.spotify.com/track/7jJEMBy2f4bLHJZ8yG2Pxg) | [Los Elasticos](https://open.spotify.com/artist/6c4NKR57VVR6AjaoZB6q9Z) | [Death Calavera 2.2](https://open.spotify.com/album/3LG8wwHzcv0WgsxVeVaigW) | 2:52 |
+| 51 | [La Viuda Negra](https://open.spotify.com/track/0vlcfidir85v3y6ths4HWZ) | [Fenomeno Fuzz](https://open.spotify.com/artist/7kg2KlLovywtCGI1zGlhgc) | [Sonido Bestia](https://open.spotify.com/album/3X31PsiKoR8dBnc9wrQCIc) | 3:06 |
 | 52 | [Shooby Doo Wop](https://open.spotify.com/track/0hRphF5bOnJkQzKSKuJbmc) | [Rebel Cats](https://open.spotify.com/artist/2ukziVbiZa3N5eSdUOXgXL), [Daniel Gutierrez](https://open.spotify.com/artist/4BjnUrsKtotSlzyIN5AYGq) | [Rebel Cats Y Sus Amigos](https://open.spotify.com/album/6eEtfyJ0LiBL2EueE8Wmfw) | 2:28 |
 | 53 | [Antimatter Man](https://open.spotify.com/track/6pLfrcn8DfDLW0tV3UYFjE) | [Man Or Astro\-Man?](https://open.spotify.com/artist/3z3lEz2qH5h6qJa8DYukxY) | [Defcon 5...4...3...2...1](https://open.spotify.com/album/5b59CWlbRYqdAJkoj1gQKe) | 2:35 |
 | 54 | [Santo Y Lunave](https://open.spotify.com/track/7LGPSSlvK98fMseE2I7Z83) | [Los Esquizitos](https://open.spotify.com/artist/2zYgJ6dbHzarjjnMCGeV2A) | [Los Esquizitos](https://open.spotify.com/album/72qcrTIMcqB0UxMnHDZ8R3) | 3:50 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhEq8aJ7AYV.md) - [plain]
 | 74 | [Abuela Zombie](https://open.spotify.com/track/0hFQrpJHkfTbXwG7frxlaj) | [Yucatán A GoGo](https://open.spotify.com/artist/7CzeS5wP7C4qjijGUTIAHh) | [Canciones Basura](https://open.spotify.com/album/2iUEXQDCElKqNqiqgezasO) | 2:51 |
 | 75 | [The Falcon Sleeps Tonight](https://open.spotify.com/track/4toFjXCMOTkZrw36kzixHy) | [Corizonas](https://open.spotify.com/artist/3Jyx7BnfcTeK52GYGoI3BP) | [The News Today](https://open.spotify.com/album/5RHDJFdQC90EIRn682wXXN) | 3:10 |
 
-Snapshot ID: `MCw2ODJmMDZjNTQ3MDA0NTYxMTk1Nzg0NDZjOThjOWUyNGZlZTgwZjc0`
+Snapshot ID: `MCxkYThlN2U4ZDZiNmI0MGMzNjZmNzRiZTQ5MjA3MTBjZTE2ZjA0ZTk5`

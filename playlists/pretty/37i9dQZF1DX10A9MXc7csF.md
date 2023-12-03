@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10A9MXc7csF.md) - [plain]
 
 > The new school of Música Mexicana\. Cover: Tyan G & El Padrinito Toys
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,795 likes - 60 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,853 likes - 60 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10A9MXc7csF.md) - [plain]
 | 59 | [GUZBYE](https://open.spotify.com/track/6qNktE3ki1AqZThqp5EL7u) | [miguel cornejo](https://open.spotify.com/artist/67s0oOKE73W45e5UawllhS), [Sebastian Esquivel](https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C), [Eugenio Esquivel](https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz) | [GUZBYE](https://open.spotify.com/album/0RJZJxSvOBnKSNU9nXQ6zD) | 3:08 |
 | 60 | [Corazón](https://open.spotify.com/track/6iNDMmX5d8ZhxXy8klgcMt) | [selines](https://open.spotify.com/artist/3kO8EO3svNUQSQW8rDOjAb) | [Corazón](https://open.spotify.com/album/2RT9PvhlYLEwy8KcO1DtUb) | 3:08 |
 
-Snapshot ID: `MCw4MWRiNzM3MmI3ODdiY2FmMTg3YzA1MWU2NGQ2YWQ1NTc3ODY0OWFj`
+Snapshot ID: `MCwwOTI0Zjk0MzdmZDBjZTRiMjNmM2NiNTllNmRlYjY1ZDkxYWFmMTMx`

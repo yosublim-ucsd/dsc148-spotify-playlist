@@ -1,12 +1,12 @@
 {
   "description": "Canzoni rap per party fino al mattino! Cover: ANNA, Capo Plaza, AVA",
-  "num_followers": 92598,
+  "num_followers": 92642,
   "original_name": "Club Rap ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwYzNiMGM3ZDA0NzdjNDMzNGNjMmJjNTBiZTQwZWRhY2IxMmE1OGUw",
+  "snapshot_id": "MCxiNmVhOTJkYWUyMTgyNzQ5NTMwZTE5YzM5MDM0N2Q2NDVlZDBlN2Qw",
   "tracks": [
     {
       "added_at": "2023-11-17 00:01:00",
@@ -1095,26 +1095,6 @@
     {
       "added_at": "2023-11-17 00:01:00",
       "album": {
-        "name": "Ma Jolie (feat. ANNA)",
-        "url": "https://open.spotify.com/album/5DiVq0GezpEej8E2krKSkz"
-      },
-      "artists": [
-        {
-          "name": "Medy",
-          "url": "https://open.spotify.com/artist/3lbFUmlaNMa9ZVSabLlkhn"
-        },
-        {
-          "name": "ANNA",
-          "url": "https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u"
-        }
-      ],
-      "duration_ms": 158769,
-      "name": "Ma Jolie (feat. ANNA)",
-      "url": "https://open.spotify.com/track/7J4FSE9i1mo3ZHtaMy27dy"
-    },
-    {
-      "added_at": "2023-11-17 00:01:00",
-      "album": {
         "name": "Glory Days EP",
         "url": "https://open.spotify.com/album/2rxe8Kwyd417YSYmSXs0CI"
       },
@@ -1139,6 +1119,26 @@
       "duration_ms": 222968,
       "name": "Blueface (feat. Izi, Tedua)",
       "url": "https://open.spotify.com/track/2Ctj9DfXfh9kW3erTp907i"
+    },
+    {
+      "added_at": "2023-11-17 00:01:00",
+      "album": {
+        "name": "Ma Jolie (feat. ANNA)",
+        "url": "https://open.spotify.com/album/5DiVq0GezpEej8E2krKSkz"
+      },
+      "artists": [
+        {
+          "name": "Medy",
+          "url": "https://open.spotify.com/artist/3lbFUmlaNMa9ZVSabLlkhn"
+        },
+        {
+          "name": "ANNA",
+          "url": "https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u"
+        }
+      ],
+      "duration_ms": 158769,
+      "name": "Ma Jolie (feat. ANNA)",
+      "url": "https://open.spotify.com/track/7J4FSE9i1mo3ZHtaMy27dy"
     },
     {
       "added_at": "2023-11-17 00:01:00",
@@ -1227,6 +1227,22 @@
     {
       "added_at": "2023-11-17 00:01:00",
       "album": {
+        "name": "FSK TRAPSHIT REVENGE",
+        "url": "https://open.spotify.com/album/4z4zCeqiEjTTBI0a8Uyl0S"
+      },
+      "artists": [
+        {
+          "name": "FSK SATELLITE",
+          "url": "https://open.spotify.com/artist/4UikIA2yhd0jVJSXD9IOJH"
+        }
+      ],
+      "duration_ms": 148500,
+      "name": "ANSIA NO",
+      "url": "https://open.spotify.com/track/2yuYI5NFhevxa05se7Qht9"
+    },
+    {
+      "added_at": "2023-11-17 00:01:00",
+      "album": {
         "name": "MACHETE MIXTAPE 4",
         "url": "https://open.spotify.com/album/5OOd2aAkgZJlYRqYlT1Axz"
       },
@@ -1247,22 +1263,6 @@
       "duration_ms": 177036,
       "name": "HO PAURA DI USCIRE 2 - prod. Mace",
       "url": "https://open.spotify.com/track/0nFCpnM7nistUWXRZpzOWM"
-    },
-    {
-      "added_at": "2023-11-17 00:01:00",
-      "album": {
-        "name": "FSK TRAPSHIT REVENGE",
-        "url": "https://open.spotify.com/album/4z4zCeqiEjTTBI0a8Uyl0S"
-      },
-      "artists": [
-        {
-          "name": "FSK SATELLITE",
-          "url": "https://open.spotify.com/artist/4UikIA2yhd0jVJSXD9IOJH"
-        }
-      ],
-      "duration_ms": 148500,
-      "name": "ANSIA NO",
-      "url": "https://open.spotify.com/track/2yuYI5NFhevxa05se7Qht9"
     },
     {
       "added_at": "2023-11-17 00:01:00",
@@ -1467,6 +1467,26 @@
     {
       "added_at": "2023-11-17 00:01:00",
       "album": {
+        "name": "Serio",
+        "url": "https://open.spotify.com/album/1ic2J2plYa6rkNs2KeGav3"
+      },
+      "artists": [
+        {
+          "name": "Emis Killa",
+          "url": "https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G"
+        },
+        {
+          "name": "Capo Plaza",
+          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
+        }
+      ],
+      "duration_ms": 218769,
+      "name": "Serio (feat. Capo Plaza)",
+      "url": "https://open.spotify.com/track/2Cm9pUNjLYpLo2gjIiTBPa"
+    },
+    {
+      "added_at": "2023-11-17 00:01:00",
+      "album": {
         "name": "Non Lo So",
         "url": "https://open.spotify.com/album/6Fet7iydk3JT8R6SPZYXfa"
       },
@@ -1491,26 +1511,6 @@
       "duration_ms": 142718,
       "name": "Candy",
       "url": "https://open.spotify.com/track/3a3EzSxWvDno8RpTMv7Xch"
-    },
-    {
-      "added_at": "2023-11-17 00:01:00",
-      "album": {
-        "name": "Serio",
-        "url": "https://open.spotify.com/album/1ic2J2plYa6rkNs2KeGav3"
-      },
-      "artists": [
-        {
-          "name": "Emis Killa",
-          "url": "https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G"
-        },
-        {
-          "name": "Capo Plaza",
-          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
-        }
-      ],
-      "duration_ms": 218769,
-      "name": "Serio (feat. Capo Plaza)",
-      "url": "https://open.spotify.com/track/2Cm9pUNjLYpLo2gjIiTBPa"
     },
     {
       "added_at": "2023-11-17 00:01:00",

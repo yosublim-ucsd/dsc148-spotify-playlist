@@ -5956,7 +5956,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": "2023-02-01",
+      "date_removed": null,
       "duration_ms": 198040,
       "name": "Heather",
       "url": "https://open.spotify.com/track/4xqrdfXkTW4T0RauPLv3WA"
@@ -11559,6 +11559,24 @@
     },
     {
       "album": {
+        "name": "ASHER",
+        "url": "https://open.spotify.com/album/2HNKo2vMGhc9wON4NDfb04"
+      },
+      "artists": [
+        {
+          "name": "Fabio Asher",
+          "url": "https://open.spotify.com/artist/6FTLayBxjkQeanFdUusk1I"
+        }
+      ],
+      "date_added": "2023-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246730,
+      "name": "Rumah Singgah",
+      "url": "https://open.spotify.com/track/3OTbh1VVrhebUzDor9r4pH"
+    },
+    {
+      "album": {
         "name": "Rumah Singgah",
         "url": "https://open.spotify.com/album/1shpGa8sRQWZqn9n5jX53o"
       },
@@ -11588,7 +11606,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-03",
       "duration_ms": 246730,
       "name": "Rumah Singgah",
       "url": "https://open.spotify.com/track/6raMBnVBIvvUngMLyDdzyP"
@@ -15572,7 +15590,7 @@
       ],
       "date_added": "2023-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-03",
       "duration_ms": 222369,
       "name": "What Was I Made For? [From The Motion Picture \"Barbie\"]",
       "url": "https://open.spotify.com/track/6wf7Yu7cxBSPrRlWeSeK0Q"

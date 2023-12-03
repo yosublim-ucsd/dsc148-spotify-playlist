@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3PsJxMtn1AP.md) - [plain]
 
 > A sonic wonderland of mesmerizing tunes...
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,413 likes - 50 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,490 likes - 50 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3PsJxMtn1AP.md) - [plain]
 | 49 | [Girl Supreme](https://open.spotify.com/track/1lpSuS2256fbNn3yKcrdqB) | [Σtella](https://open.spotify.com/artist/2tBWWgGv7H5ymPtJrT1rNu) | [Girl Supreme](https://open.spotify.com/album/4K7d10ZpPwzWTEnsVxJJ7v) | 2:48 |
 | 50 | [Ozone Scraper](https://open.spotify.com/track/0Q9R4VjA7LedOAoUBvT2fV) | [DJ Shadow](https://open.spotify.com/artist/5CE2IfdYZEQGIDsfiRm8SI) | [Ozone Scraper](https://open.spotify.com/album/5AUkiL7bPV1Hc6jGdYydrI) | 3:31 |
 
-Snapshot ID: `MCxkOGI1ZWFlMjljNzRjNWEzMDY3MWM0YjU5ZmI1Zjc5NzQzMWNhMzFh`
+Snapshot ID: `MCxjZTAwNzUyMzFmM2NkYmUxMmMxZjk2MmYwZTljNmIzMDc5YzhlN2Jj`

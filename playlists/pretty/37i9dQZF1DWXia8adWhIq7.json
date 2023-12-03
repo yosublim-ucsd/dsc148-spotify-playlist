@@ -1,12 +1,12 @@
 {
   "description": "Ou\u00e7a as novidades e sucessos do Pop Crist\u00e3o. Foto: Luma Elpidio",
-  "num_followers": 83295,
+  "num_followers": 83390,
   "original_name": "Pop Gospel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMGRiYTFiZGEwYTg4MTI1ZTRkNDIzYTNhZThiODVhYjI1YmY5NDgw",
+  "snapshot_id": "MCw3ZWY1ODkxNjkzZTUzYzBmMTNiMDkyMGFlNDVkNjNlMzAzYjgxNWYy",
   "tracks": [
     {
       "added_at": "2023-11-24 14:25:40",
@@ -471,22 +471,6 @@
     {
       "added_at": "2023-11-24 14:25:40",
       "album": {
-        "name": "Eu To Vivo",
-        "url": "https://open.spotify.com/album/1lztSLUPpggJsYVv6rEZjt"
-      },
-      "artists": [
-        {
-          "name": "Flavio Vitor Jr.",
-          "url": "https://open.spotify.com/artist/4TnxVt3dBBta2xVx2WWwPF"
-        }
-      ],
-      "duration_ms": 256476,
-      "name": "Eu To Vivo",
-      "url": "https://open.spotify.com/track/1BEB3kRruqodB1A61Srmfc"
-    },
-    {
-      "added_at": "2023-11-24 14:25:40",
-      "album": {
         "name": "O Tempo N\u00e3o Para",
         "url": "https://open.spotify.com/album/0ZMuQTRuZCZVZ9un30jtRi"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 202431,
       "name": "O Tempo N\u00e3o Para",
       "url": "https://open.spotify.com/track/4QnTfzAGFfEfxJMC6qkCIC"
+    },
+    {
+      "added_at": "2023-11-24 14:25:40",
+      "album": {
+        "name": "Eu To Vivo",
+        "url": "https://open.spotify.com/album/1lztSLUPpggJsYVv6rEZjt"
+      },
+      "artists": [
+        {
+          "name": "Flavio Vitor Jr.",
+          "url": "https://open.spotify.com/artist/4TnxVt3dBBta2xVx2WWwPF"
+        }
+      ],
+      "duration_ms": 256476,
+      "name": "Eu To Vivo",
+      "url": "https://open.spotify.com/track/1BEB3kRruqodB1A61Srmfc"
     },
     {
       "added_at": "2023-11-24 14:25:40",
@@ -607,6 +607,22 @@
     {
       "added_at": "2023-11-24 14:25:40",
       "album": {
+        "name": "SOCORRO",
+        "url": "https://open.spotify.com/album/0SlvlaBGd8P2dZ9hcKmHyU"
+      },
+      "artists": [
+        {
+          "name": "Rebeca Carvalho",
+          "url": "https://open.spotify.com/artist/7ejjZWVYdXuGjkLsUPW4xL"
+        }
+      ],
+      "duration_ms": 245744,
+      "name": "SOCORRO",
+      "url": "https://open.spotify.com/track/5M2v0sO51o9nbXzsCqVt9D"
+    },
+    {
+      "added_at": "2023-11-24 14:25:40",
+      "album": {
         "name": "Esperarei com Paci\u00eancia",
         "url": "https://open.spotify.com/album/53C192EeqK9cTA0dohXePM"
       },
@@ -627,22 +643,6 @@
       "duration_ms": 329500,
       "name": "Esperarei Com Paci\u00eancia",
       "url": "https://open.spotify.com/track/1QPj2hLuGuxqU8bHlUoUNS"
-    },
-    {
-      "added_at": "2023-11-24 14:25:40",
-      "album": {
-        "name": "SOCORRO",
-        "url": "https://open.spotify.com/album/0SlvlaBGd8P2dZ9hcKmHyU"
-      },
-      "artists": [
-        {
-          "name": "Rebeca Carvalho",
-          "url": "https://open.spotify.com/artist/7ejjZWVYdXuGjkLsUPW4xL"
-        }
-      ],
-      "duration_ms": 245744,
-      "name": "SOCORRO",
-      "url": "https://open.spotify.com/track/5M2v0sO51o9nbXzsCqVt9D"
     },
     {
       "added_at": "2023-11-24 14:25:40",
@@ -855,22 +855,22 @@
     {
       "added_at": "2023-11-24 14:25:40",
       "album": {
-        "name": "Epifania",
-        "url": "https://open.spotify.com/album/55tRKqircj6qHHB3tzMrGr"
+        "name": "Apenas Can\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/7JfcTaZohCXrarbXMox1Cg"
       },
       "artists": [
         {
-          "name": "Clovis",
-          "url": "https://open.spotify.com/artist/703PFYg5UbYSaUKry9NWhF"
+          "name": "Patricia Romania",
+          "url": "https://open.spotify.com/artist/0ffURL6H2AXKNqc2yvTN5K"
         },
         {
-          "name": "Daniela Ara\u00fajo",
-          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
+          "name": "Delino Mar\u00e7al",
+          "url": "https://open.spotify.com/artist/0MGbmpBm2Gzvy6ENd9D1qv"
         }
       ],
-      "duration_ms": 207667,
-      "name": "A Chave",
-      "url": "https://open.spotify.com/track/6kk7NYRUwebj54yAHZWU7j"
+      "duration_ms": 266020,
+      "name": "Apenas Can\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/43ZMXD6nz8fDresDGJWcFV"
     },
     {
       "added_at": "2023-11-24 14:25:40",
@@ -899,22 +899,22 @@
     {
       "added_at": "2023-11-24 14:25:40",
       "album": {
-        "name": "Apenas Can\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/7JfcTaZohCXrarbXMox1Cg"
+        "name": "Epifania",
+        "url": "https://open.spotify.com/album/55tRKqircj6qHHB3tzMrGr"
       },
       "artists": [
         {
-          "name": "Patricia Romania",
-          "url": "https://open.spotify.com/artist/0ffURL6H2AXKNqc2yvTN5K"
+          "name": "Clovis",
+          "url": "https://open.spotify.com/artist/703PFYg5UbYSaUKry9NWhF"
         },
         {
-          "name": "Delino Mar\u00e7al",
-          "url": "https://open.spotify.com/artist/0MGbmpBm2Gzvy6ENd9D1qv"
+          "name": "Daniela Ara\u00fajo",
+          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
         }
       ],
-      "duration_ms": 266020,
-      "name": "Apenas Can\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/43ZMXD6nz8fDresDGJWcFV"
+      "duration_ms": 207667,
+      "name": "A Chave",
+      "url": "https://open.spotify.com/track/6kk7NYRUwebj54yAHZWU7j"
     },
     {
       "added_at": "2023-11-24 14:25:40",
@@ -931,38 +931,6 @@
       "duration_ms": 272021,
       "name": "Em Teus Bra\u00e7os / Oh Qu\u00e3o Lindo Esse Nome \u00c9",
       "url": "https://open.spotify.com/track/4dSSiThOk4gCNJseSdZXym"
-    },
-    {
-      "added_at": "2023-11-24 14:25:40",
-      "album": {
-        "name": "Teu Reino Venha",
-        "url": "https://open.spotify.com/album/7AXrbAIoCbiI3ixrnLcCWw"
-      },
-      "artists": [
-        {
-          "name": "Cord\u00e3o de Tr\u00eas",
-          "url": "https://open.spotify.com/artist/7KsRO9uCI003Ks8wBTTy88"
-        }
-      ],
-      "duration_ms": 222103,
-      "name": "Teu Reino Venha",
-      "url": "https://open.spotify.com/track/2xYtgaVWlSpUBDq8BoAynx"
-    },
-    {
-      "added_at": "2023-11-24 14:25:40",
-      "album": {
-        "name": "Pra Sempre",
-        "url": "https://open.spotify.com/album/1sNaoPhwqCpwzL9d548MWN"
-      },
-      "artists": [
-        {
-          "name": "Talita Barreto",
-          "url": "https://open.spotify.com/artist/6hCE1qcuALXMkltFGrEM6Y"
-        }
-      ],
-      "duration_ms": 219857,
-      "name": "Pra Sempre",
-      "url": "https://open.spotify.com/track/4eoJ5kJTdzvLRixnthufTX"
     },
     {
       "added_at": "2023-11-24 14:25:40",
@@ -995,6 +963,38 @@
       "duration_ms": 226187,
       "name": "Teu Amor Me Consome",
       "url": "https://open.spotify.com/track/6gQuUoxL0ajOQeWEK1p9Vw"
+    },
+    {
+      "added_at": "2023-11-24 14:25:40",
+      "album": {
+        "name": "Teu Reino Venha",
+        "url": "https://open.spotify.com/album/7AXrbAIoCbiI3ixrnLcCWw"
+      },
+      "artists": [
+        {
+          "name": "Cord\u00e3o de Tr\u00eas",
+          "url": "https://open.spotify.com/artist/7KsRO9uCI003Ks8wBTTy88"
+        }
+      ],
+      "duration_ms": 222103,
+      "name": "Teu Reino Venha",
+      "url": "https://open.spotify.com/track/2xYtgaVWlSpUBDq8BoAynx"
+    },
+    {
+      "added_at": "2023-11-24 14:25:40",
+      "album": {
+        "name": "Pra Sempre",
+        "url": "https://open.spotify.com/album/1sNaoPhwqCpwzL9d548MWN"
+      },
+      "artists": [
+        {
+          "name": "Talita Barreto",
+          "url": "https://open.spotify.com/artist/6hCE1qcuALXMkltFGrEM6Y"
+        }
+      ],
+      "duration_ms": 219857,
+      "name": "Pra Sempre",
+      "url": "https://open.spotify.com/track/4eoJ5kJTdzvLRixnthufTX"
     },
     {
       "added_at": "2023-11-24 14:25:40",
@@ -1219,6 +1219,22 @@
     {
       "added_at": "2023-11-24 14:25:40",
       "album": {
+        "name": "Rota",
+        "url": "https://open.spotify.com/album/4YeDhdeWBJCA9CyQytxhoH"
+      },
+      "artists": [
+        {
+          "name": "Isabella Lopes",
+          "url": "https://open.spotify.com/artist/4Anc0OS4S3ZOLk295QoHds"
+        }
+      ],
+      "duration_ms": 196032,
+      "name": "Rota",
+      "url": "https://open.spotify.com/track/2ce659MS4j8MCjpebtgcL4"
+    },
+    {
+      "added_at": "2023-11-24 14:25:40",
+      "album": {
         "name": "Seu Amor",
         "url": "https://open.spotify.com/album/6LcTSFHZhMgI4qcfcVoRLs"
       },
@@ -1239,22 +1255,6 @@
       "duration_ms": 166530,
       "name": "Seu Amor",
       "url": "https://open.spotify.com/track/0v0lWoA3TVcsPYkHNP388C"
-    },
-    {
-      "added_at": "2023-11-24 14:25:40",
-      "album": {
-        "name": "Rota",
-        "url": "https://open.spotify.com/album/4YeDhdeWBJCA9CyQytxhoH"
-      },
-      "artists": [
-        {
-          "name": "Isabella Lopes",
-          "url": "https://open.spotify.com/artist/4Anc0OS4S3ZOLk295QoHds"
-        }
-      ],
-      "duration_ms": 196032,
-      "name": "Rota",
-      "url": "https://open.spotify.com/track/2ce659MS4j8MCjpebtgcL4"
     },
     {
       "added_at": "2023-11-24 14:25:40",
@@ -1367,38 +1367,6 @@
     {
       "added_at": "2023-11-24 14:25:40",
       "album": {
-        "name": "Contigo",
-        "url": "https://open.spotify.com/album/75MMXMPZcSAK8L0Q4QQhk0"
-      },
-      "artists": [
-        {
-          "name": "Leif Bessa",
-          "url": "https://open.spotify.com/artist/7AXkzxHwKWcrSmdAJ5e5WV"
-        }
-      ],
-      "duration_ms": 199864,
-      "name": "Contigo",
-      "url": "https://open.spotify.com/track/2z06u1grifKTmzRf48Hbdh"
-    },
-    {
-      "added_at": "2023-11-24 14:25:40",
-      "album": {
-        "name": "Al\u00e9m do Que Se V\u00ea",
-        "url": "https://open.spotify.com/album/7eBr2Gk1ELbv9nBX1qNaU2"
-      },
-      "artists": [
-        {
-          "name": "Yuri Costa",
-          "url": "https://open.spotify.com/artist/6DCegHgi8RLp02HGxvjegQ"
-        }
-      ],
-      "duration_ms": 234600,
-      "name": "Al\u00e9m do Que Se V\u00ea",
-      "url": "https://open.spotify.com/track/4XzEfk8FB5T2D0qEXHhaGW"
-    },
-    {
-      "added_at": "2023-11-24 14:25:40",
-      "album": {
         "name": "Casulo",
         "url": "https://open.spotify.com/album/4qMEh38ilE4hFKebd2Akva"
       },
@@ -1431,6 +1399,38 @@
       "duration_ms": 143417,
       "name": "Hoje Eu Vivo",
       "url": "https://open.spotify.com/track/6Iv1HNunu1jNHvwjoSTBhz"
+    },
+    {
+      "added_at": "2023-11-24 14:25:40",
+      "album": {
+        "name": "Contigo",
+        "url": "https://open.spotify.com/album/75MMXMPZcSAK8L0Q4QQhk0"
+      },
+      "artists": [
+        {
+          "name": "Leif Bessa",
+          "url": "https://open.spotify.com/artist/7AXkzxHwKWcrSmdAJ5e5WV"
+        }
+      ],
+      "duration_ms": 199864,
+      "name": "Contigo",
+      "url": "https://open.spotify.com/track/2z06u1grifKTmzRf48Hbdh"
+    },
+    {
+      "added_at": "2023-11-24 14:25:40",
+      "album": {
+        "name": "Al\u00e9m do Que Se V\u00ea",
+        "url": "https://open.spotify.com/album/7eBr2Gk1ELbv9nBX1qNaU2"
+      },
+      "artists": [
+        {
+          "name": "Yuri Costa",
+          "url": "https://open.spotify.com/artist/6DCegHgi8RLp02HGxvjegQ"
+        }
+      ],
+      "duration_ms": 234600,
+      "name": "Al\u00e9m do Que Se V\u00ea",
+      "url": "https://open.spotify.com/track/4XzEfk8FB5T2D0qEXHhaGW"
     },
     {
       "added_at": "2023-11-24 14:25:40",

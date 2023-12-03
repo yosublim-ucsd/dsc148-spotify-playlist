@@ -4,7 +4,7 @@
 
 > D vitaminin.
 
-105 songs - 5 hr 43 min
+106 songs - 5 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,7 +60,7 @@
 | [Late Night Feelings \(feat\. Lykke Li\)](https://open.spotify.com/track/7aQeWViSfRWSEwtJD86Eq0) | [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp), [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [Late Night Feelings \(feat\. Lykke Li\)](https://open.spotify.com/album/0kTSclkPCKfANMfQmUSFW5) | 4:11 | 2023-03-10 |  |
 | [Let You Love Me](https://open.spotify.com/track/6xtcFXSo8H9BZN637BMVKS) | [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [Let You Love Me](https://open.spotify.com/album/4INRJMYMJrSPsf5mbW26Fm) | 3:10 | 2023-03-10 |  |
 | [Like It Is](https://open.spotify.com/track/3frUvGrmGcay91lvFbOgsN) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Like It Is](https://open.spotify.com/album/0lWWqdcdtFgSd1j06F9JZC) | 3:03 | 2023-03-10 |  |
-| [Little Bit Of Love](https://open.spotify.com/track/0VrgIjDkmDwlgZk54Try2u) | [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy) | [Little Bit Of Love](https://open.spotify.com/album/1n46dubYWsiqfO1agUTVyz) | 3:15 | 2023-03-10 |  |
+| [Little Bit Of Love](https://open.spotify.com/track/0VrgIjDkmDwlgZk54Try2u) | [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy) | [Little Bit Of Love](https://open.spotify.com/album/1n46dubYWsiqfO1agUTVyz) | 3:15 | 2023-03-10 | 2023-12-03 |
 | [Lonely \(with Jonas Brothers\)](https://open.spotify.com/track/6eXFl418w8hsxKcLgv1jwJ) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Diplo Presents Thomas Wesley: Chapter 1 \- Snake Oil](https://open.spotify.com/album/24EiVoJXLPY9a6a7AqZNDg) | 2:19 | 2023-03-10 |  |
 | [Look At Her Now](https://open.spotify.com/track/7eOkHIcaoUhngxxypM5Ajr) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Rare](https://open.spotify.com/album/3YPFaTR7WMi1Hd4NVKdCJx) | 2:42 | 2023-03-10 |  |
 | [Looking For Me](https://open.spotify.com/track/2KYnSFIrSbaKUXWetW7Klt) | [Paul Woolford](https://open.spotify.com/artist/4CA8PTrbq1l5IgyvBA2JSV), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Kareen Lomax](https://open.spotify.com/artist/0Fb9qTWnjsB90xH3zWr4oa) | [Do You Dance?](https://open.spotify.com/album/6Az907HDvldO5qxqVyysz0) | 3:31 | 2023-03-10 |  |
@@ -113,5 +113,6 @@
 | [Wherever You Are](https://open.spotify.com/track/42fu5cmEhi5EWmoqaZUZuK) | [Kodaline](https://open.spotify.com/artist/4BxCuXFJrSWGi1KHcVqaU4) | [One Day At A Time](https://open.spotify.com/album/2S3HfZLtg6KQ6czD3lyfBH) | 3:05 | 2023-03-10 |  |
 | [You](https://open.spotify.com/track/2cc8Sw1OnCuA5bV8nqWqpE) | [Regard](https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev), [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP), [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [You](https://open.spotify.com/album/6cWawCk4DohREQA42eEOe1) | 3:53 | 2023-03-10 |  |
 | [You & Me](https://open.spotify.com/track/1bQhZOoXYqjXs7u7rFXo0h) | [James TW](https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v) | [Chapters](https://open.spotify.com/album/3GNzXsFbzdwM0WKCZtgeNP) | 3:51 | 2023-03-10 |  |
+| [You \(with Marshmello & Vance Joy\)](https://open.spotify.com/track/3wCk9LASPqyp2VovekThtF) | [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa), [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [FRIENDS KEEP SECRETS 2](https://open.spotify.com/album/7jainWomsRbTs5dGUOP21C) | 2:49 | 2023-03-10 |  |
 
 \*This playlist was first scraped on 2023-10-25. Prior content cannot be recovered.

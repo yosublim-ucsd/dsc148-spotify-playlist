@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8zwfXO8sDE6.md) - [plain]
 
 > Discover the amazing world of Japanese City Pop from the ‘70s./ ニューミュージックとも一線を画す、都会的で洗練された音楽＝シティポップ の誕生。黎明期の輝きは永遠に。
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,023 likes - 50 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,090 likes - 50 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8zwfXO8sDE6.md) - [plain]
 | 28 | [The Tokyo Taste](https://open.spotify.com/track/0YMnEMqd2xGK6FrMl481wX) | [Sadistics](https://open.spotify.com/artist/7Ek66FTad8558ELr5Vr2EW) | [ザ・ベスト](https://open.spotify.com/album/6A34idMpfb5WqzegCtRBWB) | 3:46 |
 | 29 | [Suna no Onna](https://open.spotify.com/track/3mBBBGjOaV4OAfJupWuMgc) | [Shigeru Suzuki](https://open.spotify.com/artist/4yN4amq8cBHHQ49NzFOO5Z) | [BAND WAGON \(Remastered 2017\)](https://open.spotify.com/album/50GY6D1DpjaffXS5Av5sXt) | 3:55 |
 | 30 | [流星都市](https://open.spotify.com/track/4FR0ZqOwoQY6FG7AjKPiJ7) | [Chu Kosaka](https://open.spotify.com/artist/4czBLtKKNzTc6E4cXDYJuA) | [HORO](https://open.spotify.com/album/0ccEpDpYPXeXtjaI2UKNd4) | 3:53 |
-| 31 | [夏の光に](https://open.spotify.com/track/0sGnR5jtx82QP9kJdkLQUr) | [Sumiko Yamagata](https://open.spotify.com/artist/4JG1gQtoe53W8X9W3OAk5C) | [サマー・シェイド](https://open.spotify.com/album/6FFjNNrnEQHDMkQtOG1Oyn) | 3:26 |
-| 32 | [I SAY WHO](https://open.spotify.com/track/1Ehd4X1eWAm2IP43xqPV2x) | [惣領 智子](https://open.spotify.com/artist/69L8hpJ0Tvo0jGRCbX3PNb) | [City Lights by the Moonlight](https://open.spotify.com/album/3T28jNrwSvbhytK59y3cAg) | 3:13 |
+| 31 | [I SAY WHO](https://open.spotify.com/track/1Ehd4X1eWAm2IP43xqPV2x) | [惣領 智子](https://open.spotify.com/artist/69L8hpJ0Tvo0jGRCbX3PNb) | [City Lights by the Moonlight](https://open.spotify.com/album/3T28jNrwSvbhytK59y3cAg) | 3:13 |
+| 32 | [夏の光に](https://open.spotify.com/track/0sGnR5jtx82QP9kJdkLQUr) | [Sumiko Yamagata](https://open.spotify.com/artist/4JG1gQtoe53W8X9W3OAk5C) | [サマー・シェイド](https://open.spotify.com/album/6FFjNNrnEQHDMkQtOG1Oyn) | 3:26 |
 | 33 | [LETTER TO NEW YORK](https://open.spotify.com/track/7zCIXu0Ekri6cVDEzbFysM) | [Jun Fukamachi](https://open.spotify.com/artist/488oRgvtKkBufay6VMpULR) | [オン・ザ・ムーヴ](https://open.spotify.com/album/4AZTW2PtZazbRpUtt1owwz) | 4:59 |
 | 34 | [星くず](https://open.spotify.com/track/61hZsSHXCRgjhxBl6bKL8Q) | [Makoto Kubota](https://open.spotify.com/artist/5QlBWlYKw2R1O2NUAV6rnA), [夕焼け楽団](https://open.spotify.com/artist/08qtgUVDVKMQq8lOFcRJnH) | [デキシー・フィーバー](https://open.spotify.com/album/5ZSwD45BH7WFK2wmUwvdur) | 4:01 |
 | 35 | [ON THE SEASHORE](https://open.spotify.com/track/17Zqy3ZiZLPDO11OcfoS1b) | [Sadistics](https://open.spotify.com/artist/7Ek66FTad8558ELr5Vr2EW) | [WE ARE JUST TAKING OFF](https://open.spotify.com/album/2SUGtlVqzJ69LDlmDLPbNi) | 6:11 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8zwfXO8sDE6.md) - [plain]
 | 49 | [夜間飛行](https://open.spotify.com/track/0nJSH4TfCIFtIzVhpTAQ9T) | [Yoshitaka Minami](https://open.spotify.com/artist/5dS698oTdel4MldPvYoj7p) | [SOUTH OF THE BORDER](https://open.spotify.com/album/7c23gn3fBcWYojzvB5wBp1) | 3:29 |
 | 50 | [シンプル・ラブ](https://open.spotify.com/track/0HZDrIXAyBCnkpz1Hsa6jm) | [Junko Ohashi & Minoya Central Station](https://open.spotify.com/artist/3RZbbIjngtULxQCp3wZrrM) | [City Pop Essentials \~ Idols 2 \~](https://open.spotify.com/album/6MRGLpcwXwsLTWRuPmcM6Y) | 3:47 |
 
-Snapshot ID: `MCwyZTFjNTY0YTQyNzEyZjg5MmRhM2FiZThkMTVjYTA3ZWY4ZWI0NDNk`
+Snapshot ID: `MCw5NmVjZjJiNzkwMWY2YzM2MzU4YWEyNzZmYjliMmMwNzE3ZDRlNTc0`

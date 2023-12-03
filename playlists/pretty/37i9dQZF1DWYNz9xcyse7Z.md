@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYNz9xcyse7Z.md) - [plain]
 
 > Cruzando cerros y arroyos mientras recordamos el legado campirano y rancherón.
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,223 likes - 100 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,465 likes - 100 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -101,12 +101,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYNz9xcyse7Z.md) - [plain]
 | 91 | [El Amor No Se Vende](https://open.spotify.com/track/0IvrsLn1zFZno6O5rpXKAP) | [Ramon Massiaca Y Los Dos Plebes](https://open.spotify.com/artist/70F5hQ2GuRjGCBawrf1joe) | [La Sombra Del Arbol](https://open.spotify.com/album/4R0sMZcXew3rNAiIfpPLax) | 3:27 |
 | 92 | [Las Lluvias](https://open.spotify.com/track/5JWnxJIBUa7bVHqaZIEoUy) | [Los Gavilanes de la Sierra](https://open.spotify.com/artist/1m41o6nhLXMVGGzz9kLgq1) | [Piel de Azúcar](https://open.spotify.com/album/6LRYnSGOYJZufNSd5IscGV) | 3:04 |
 | 93 | [Ayer Bajé De La Sierra](https://open.spotify.com/track/5mVCR3GfsTycFFiLils4s0) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [Grandes Exitos con Tuba, Acordeón y Guitarra Vol\. 1](https://open.spotify.com/album/2E9MK3bAEAJSpuyRqrSIb2) | 2:26 |
-| 94 | [El Niño De Oro](https://open.spotify.com/track/4GOyrQDlyPd3B7q0SoiE2Z) | [Los Cuen's De Sinaloa](https://open.spotify.com/artist/4QLyaPcH64FhlBxA8FAeN2) | [Los Cuen's De Sinaloa](https://open.spotify.com/album/0ySeNWEVo1p6JLkylvagO0) | 3:03 |
-| 95 | [Los Plebes Atrevidos](https://open.spotify.com/track/59hQ9CzM8Mrril2tKdXFj0) | [Los Cuen's De Sinaloa](https://open.spotify.com/artist/4QLyaPcH64FhlBxA8FAeN2) | [Los Cuen's De Sinaloa](https://open.spotify.com/album/0ySeNWEVo1p6JLkylvagO0) | 3:17 |
-| 96 | [Siempre Te Amaré](https://open.spotify.com/track/2fGpCK0pgClixom6AHIFNv) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [Desamor y Despecho](https://open.spotify.com/album/36UumirVgAYAdu5hlrQWr9) | 2:30 |
+| 94 | [Los Plebes Atrevidos](https://open.spotify.com/track/59hQ9CzM8Mrril2tKdXFj0) | [Los Cuen's De Sinaloa](https://open.spotify.com/artist/4QLyaPcH64FhlBxA8FAeN2) | [Los Cuen's De Sinaloa](https://open.spotify.com/album/0ySeNWEVo1p6JLkylvagO0) | 3:17 |
+| 95 | [Siempre Te Amaré](https://open.spotify.com/track/2fGpCK0pgClixom6AHIFNv) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [Desamor y Despecho](https://open.spotify.com/album/36UumirVgAYAdu5hlrQWr9) | 2:30 |
+| 96 | [El Niño De Oro](https://open.spotify.com/track/4GOyrQDlyPd3B7q0SoiE2Z) | [Los Cuen's De Sinaloa](https://open.spotify.com/artist/4QLyaPcH64FhlBxA8FAeN2) | [Los Cuen's De Sinaloa](https://open.spotify.com/album/0ySeNWEVo1p6JLkylvagO0) | 3:03 |
 | 97 | [Mi Virgencita](https://open.spotify.com/track/3CqPkvPNkDHVHPSeHCUbMu) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [Grandes Exitos con Tuba, Acordeón y Guitarra Vol\. 2](https://open.spotify.com/album/1fW1WW9YONI4LS3WRajavt) | 2:24 |
 | 98 | [Ni Dada La Quiero](https://open.spotify.com/track/0Co8QuZSebAcqdGNiytgWh) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [Desamor y Despecho](https://open.spotify.com/album/36UumirVgAYAdu5hlrQWr9) | 2:48 |
 | 99 | [Flor Hermosa](https://open.spotify.com/track/3UTj5afltxN4pVei3W29QF) | [Miguel Y Miguel](https://open.spotify.com/artist/7fmQXLCgx5q0vkGArvS6mm), [Los Intocables Del Norte](https://open.spotify.com/artist/33eHQlFrBesRCBTaieDr7z) | [Aqui En El Rancho](https://open.spotify.com/album/3Vc8Qcv33FPblUCq9ZcHBg) | 3:10 |
 | 100 | [Reflejos del Viejo](https://open.spotify.com/track/4qAMJga3GyOCwOkj40J3j7) | [Ariel Camacho y Los Plebes Del Rancho](https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul) | [El Karma](https://open.spotify.com/album/4OGTFgqeWBWK6FWJYAA8Ap) | 3:39 |
 
-Snapshot ID: `MCw4Mzk4MWQ5YWE3ZWM3YjdjZDc5NTZlZjFmNTg1MmViMmFlMDc3MTZh`
+Snapshot ID: `MCwwYTc1NDc4MjE3YzkyZjljN2JhYmZjOTllYmNhNzU3Yzc5NDBhZjMx`

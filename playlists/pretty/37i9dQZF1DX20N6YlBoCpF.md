@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20N6YlBoCpF.md) - [plain]
 
 > Die varste Afrikaanse musiek\. Cover: <a href="https://open.spotify.com/artist/2RJteaG1GUmH9lQVczVkpp?si=Iwj7OVDPSUy4l2S6VPNDHg">Demi Lee Moore</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,788 likes - 60 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,942 likes - 60 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20N6YlBoCpF.md) - [plain]
 | 36 | [As Jy Bid](https://open.spotify.com/track/5XOFgZpnRX4dzT07jUeZId) | [Mirandi](https://open.spotify.com/artist/4dPYOsa894nw9BTE6RRBrb) | [As Jy Bid](https://open.spotify.com/album/0amwyFqIhd0H9sAUZFxBBI) | 3:50 |
 | 37 | [Genesis](https://open.spotify.com/track/0rRPJmDCA8VJT41RuSR9WE) | [Rooibos & Wijn](https://open.spotify.com/artist/1BfSG1SUnel1R01QSsegNl) | [Genesis](https://open.spotify.com/album/7sh2okNRARZZWLSxQmgNDd) | 4:15 |
 | 38 | [Doen jou bes](https://open.spotify.com/track/3abRd4MyED6FwCIUa1p2HM) | [Jakkie Louw](https://open.spotify.com/artist/6nNrfFTYVccic4ORzpmdLG) | [Doen jou bes](https://open.spotify.com/album/7faIOqsaHaoznZEYyP5YB7) | 2:48 |
-| 39 | [Soen](https://open.spotify.com/track/5OQnmA3wT5JDL3RPRTRacI) | [Theo Amstel](https://open.spotify.com/artist/3C6hSKd1YurYkPr93D1JV4) | [Soen](https://open.spotify.com/album/1dd6MkrfKQp591jOxv3NO7) | 3:02 |
+| 39 | [Soen](https://open.spotify.com/track/5OQnmA3wT5JDL3RPRTRacI) | [Theo Amstel](https://open.spotify.com/artist/3C6hSKd1YurYkPr93D1JV4), [Stelle](https://open.spotify.com/artist/4J54uyaK1RW6AVWXVI4IxI) | [Soen](https://open.spotify.com/album/1dd6MkrfKQp591jOxv3NO7) | 3:02 |
 | 40 | [Daai Girl](https://open.spotify.com/track/6ivrpvgB86kwsySdLpjhV2) | [BiBi](https://open.spotify.com/artist/1jTYq06uhdOxUem1l7JRDX) | [Daai Girl](https://open.spotify.com/album/6kl5EDBv4XxeJBJfS9olsx) | 3:13 |
 | 41 | [Amper Daar](https://open.spotify.com/track/2ftyiIC6MvSqIAn7JatorV) | [Christo Du Plessis](https://open.spotify.com/artist/2dU7a6BYwRzIpM3TA0tInT) | [Amper Daar](https://open.spotify.com/album/6tghs8sNvs3Eo7L53lMj3R) | 3:38 |
 | 42 | [Dans Deur Die Donker](https://open.spotify.com/track/7qJBfedTGqxSzdqSuBfrW6) | [Fokofpolisiekar](https://open.spotify.com/artist/7JL8PgOQe05PjPZtwBfR8x) | [Dans Deur Die Donker](https://open.spotify.com/album/63sTwGlgIvUrLTz5ZimooE) | 3:02 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20N6YlBoCpF.md) - [plain]
 | 59 | [Vat Nog 'n Kans](https://open.spotify.com/track/3BWRuM2CoeTaSreGkn85EX) | [Deon Human](https://open.spotify.com/artist/4YqDKz5lbqNI4NR8RYkGx3) | [Vat Nog 'n Kans](https://open.spotify.com/album/3ODDpZ2GqUKcmT3Lwsal1b) | 3:19 |
 | 60 | [Man Vat](https://open.spotify.com/track/5LROJ2OfKdkIs2eowFZ1RY) | [Amore Barnard](https://open.spotify.com/artist/3WNuZdnThwkMxGrZtqH0lH) | [Man Vat](https://open.spotify.com/album/6VVFnCFu5fmsCRmcNbnZ57) | 3:37 |
 
-Snapshot ID: `MCxkZjkxNzAxNmYzZjVkYzU1MjljYTFkZjYwNWZiYWIyYzMwYmQ0OWQz`
+Snapshot ID: `MCwyOTNiZmIwZDU3ZWE1MmJiN2M3MDJlYTVmODdhMmJhNGUyNzIzOTU4`

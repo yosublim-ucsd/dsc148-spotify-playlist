@@ -3099,6 +3099,24 @@
     },
     {
       "album": {
+        "name": "THE DEEP",
+        "url": "https://open.spotify.com/album/5ZbTp52QK3RIXIQ05wCfdE"
+      },
+      "artists": [
+        {
+          "name": "Mishaal Tamer",
+          "url": "https://open.spotify.com/artist/2NM1t8dMvgeu9Lfl06574g"
+        }
+      ],
+      "date_added": "2023-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213031,
+      "name": "ALL NIGHT LONG",
+      "url": "https://open.spotify.com/track/0zprG792oR31uWPCkYbCJZ"
+    },
+    {
+      "album": {
         "name": "All Of It All",
         "url": "https://open.spotify.com/album/7xpldh6E2eQyxS6UWN9xEA"
       },
@@ -34567,7 +34585,7 @@
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 207568,
+      "duration_ms": 207500,
       "name": "Hype Song",
       "url": "https://open.spotify.com/track/7dgRK8IwI02y7MiBNd5a1b"
     },

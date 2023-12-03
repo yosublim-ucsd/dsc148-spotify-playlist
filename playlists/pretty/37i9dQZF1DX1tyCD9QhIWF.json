@@ -1,12 +1,12 @@
 {
   "description": "Big riffs and pounding drums to help you strut the streets.",
-  "num_followers": 2309563,
+  "num_followers": 2309479,
   "original_name": "Walk Like A Badass",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwYzUyYmVkMzkyMzlkOTc0NjI5M2FkYzE5MzYzYzcxMzEzNmMyNzcz",
+  "snapshot_id": "MCxlMWU2YzhiNzU2ZGZhNjQ0Y2Y5YTY3ZGNiNTFjNGVjN2NkZTE1NGI5",
   "tracks": [
     {
       "added_at": "2023-07-25 00:14:57",
@@ -507,22 +507,6 @@
     {
       "added_at": "2023-07-25 00:14:57",
       "album": {
-        "name": "Longshot",
-        "url": "https://open.spotify.com/album/6RsjG9ykQSkY3YMDSAwYs8"
-      },
-      "artists": [
-        {
-          "name": "Catfish and the Bottlemen",
-          "url": "https://open.spotify.com/artist/2xaAOVImG2O6lURwqperlD"
-        }
-      ],
-      "duration_ms": 232960,
-      "name": "Longshot",
-      "url": "https://open.spotify.com/track/1Yi8XPnCPoimWwqxwm3uz9"
-    },
-    {
-      "added_at": "2023-07-25 00:14:57",
-      "album": {
         "name": "YOU NEEDED A HIT//",
         "url": "https://open.spotify.com/album/16Cce1oSCslSILGQCToU0C"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 120149,
       "name": "YOU NEEDED A HIT//",
       "url": "https://open.spotify.com/track/5DbBHcdkzRe1HnA132Dp0z"
+    },
+    {
+      "added_at": "2023-07-25 00:14:57",
+      "album": {
+        "name": "Longshot",
+        "url": "https://open.spotify.com/album/6RsjG9ykQSkY3YMDSAwYs8"
+      },
+      "artists": [
+        {
+          "name": "Catfish and the Bottlemen",
+          "url": "https://open.spotify.com/artist/2xaAOVImG2O6lURwqperlD"
+        }
+      ],
+      "duration_ms": 232960,
+      "name": "Longshot",
+      "url": "https://open.spotify.com/track/1Yi8XPnCPoimWwqxwm3uz9"
     },
     {
       "added_at": "2023-07-25 00:14:57",
@@ -763,22 +763,6 @@
     {
       "added_at": "2023-07-25 00:14:57",
       "album": {
-        "name": "St. Charles Square",
-        "url": "https://open.spotify.com/album/6yNkTZJhIhSP7N8BsBzwLK"
-      },
-      "artists": [
-        {
-          "name": "Blur",
-          "url": "https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS"
-        }
-      ],
-      "duration_ms": 235325,
-      "name": "St. Charles Square",
-      "url": "https://open.spotify.com/track/0JQ3jQlKcmS3HUssKGfyLL"
-    },
-    {
-      "added_at": "2023-07-25 00:14:57",
-      "album": {
         "name": "I Like The Way You Die",
         "url": "https://open.spotify.com/album/4jGP8NOGoSlrHKfVcU1IVn"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 188026,
       "name": "I Like The Way You Die",
       "url": "https://open.spotify.com/track/13HPn0OyGLPtJ6iUNiwLYg"
+    },
+    {
+      "added_at": "2023-07-25 00:14:57",
+      "album": {
+        "name": "St. Charles Square",
+        "url": "https://open.spotify.com/album/6yNkTZJhIhSP7N8BsBzwLK"
+      },
+      "artists": [
+        {
+          "name": "Blur",
+          "url": "https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS"
+        }
+      ],
+      "duration_ms": 235325,
+      "name": "St. Charles Square",
+      "url": "https://open.spotify.com/track/0JQ3jQlKcmS3HUssKGfyLL"
     },
     {
       "added_at": "2023-07-25 00:14:57",
@@ -907,22 +907,6 @@
     {
       "added_at": "2023-07-25 00:14:57",
       "album": {
-        "name": "BLOODSTREAM",
-        "url": "https://open.spotify.com/album/3A1dpM3b53KREb9DeWsEoP"
-      },
-      "artists": [
-        {
-          "name": "Hot Milk",
-          "url": "https://open.spotify.com/artist/1koutXdSFq2PHqtxSWj9tK"
-        }
-      ],
-      "duration_ms": 189312,
-      "name": "BLOODSTREAM",
-      "url": "https://open.spotify.com/track/3ey44BzqrH2Si5FmeFZ300"
-    },
-    {
-      "added_at": "2023-07-25 00:14:57",
-      "album": {
         "name": "God Complex (Mojo)",
         "url": "https://open.spotify.com/album/6muDFrXDsitHPkwyZXS6Xu"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 106740,
       "name": "God Complex (Mojo)",
       "url": "https://open.spotify.com/track/1B3ouXA9iRkqY1ywvZbzZ5"
+    },
+    {
+      "added_at": "2023-07-25 00:14:57",
+      "album": {
+        "name": "BLOODSTREAM",
+        "url": "https://open.spotify.com/album/3A1dpM3b53KREb9DeWsEoP"
+      },
+      "artists": [
+        {
+          "name": "Hot Milk",
+          "url": "https://open.spotify.com/artist/1koutXdSFq2PHqtxSWj9tK"
+        }
+      ],
+      "duration_ms": 189312,
+      "name": "BLOODSTREAM",
+      "url": "https://open.spotify.com/track/3ey44BzqrH2Si5FmeFZ300"
     },
     {
       "added_at": "2023-07-25 00:14:57",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2023-07-25 00:14:57",
       "album": {
-        "name": "THREE HEADS*",
-        "url": "https://open.spotify.com/album/02BIHNzIl0WCC17CPM83gN"
-      },
-      "artists": [
-        {
-          "name": "Jean Dawson",
-          "url": "https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP"
-        }
-      ],
-      "duration_ms": 171842,
-      "name": "THREE HEADS*",
-      "url": "https://open.spotify.com/track/4apXjryIqMFUdOjWMM6zZp"
-    },
-    {
-      "added_at": "2023-07-25 00:14:57",
-      "album": {
         "name": "How Will I Know If Heaven Will Find Me?",
         "url": "https://open.spotify.com/album/5wtPiwfkmZQSbrMUODMD4f"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 237560,
       "name": "Ready For Something",
       "url": "https://open.spotify.com/track/0Tep6Kp3UHzpewyC0iSsDd"
+    },
+    {
+      "added_at": "2023-07-25 00:14:57",
+      "album": {
+        "name": "THREE HEADS*",
+        "url": "https://open.spotify.com/album/02BIHNzIl0WCC17CPM83gN"
+      },
+      "artists": [
+        {
+          "name": "Jean Dawson",
+          "url": "https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP"
+        }
+      ],
+      "duration_ms": 171842,
+      "name": "THREE HEADS*",
+      "url": "https://open.spotify.com/track/4apXjryIqMFUdOjWMM6zZp"
     },
     {
       "added_at": "2023-07-25 00:14:57",

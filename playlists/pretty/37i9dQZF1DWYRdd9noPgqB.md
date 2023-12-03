@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYRdd9noPgqB.md) - [plain]
 
 > La playlist qui fait du bien ☀️
 
-[Spotify](https://open.spotify.com/user/spotify) - 283,356 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 283,404 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYRdd9noPgqB.md) - [plain]
 | 49 | [All Night](https://open.spotify.com/track/1mHGtXWQSfnzB5CLVnsykO) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [All Night](https://open.spotify.com/album/4GJuAhTBGZUgdAFLU5phPk) | 3:28 |
 | 50 | [Sugar Hill \- Roisto Remix](https://open.spotify.com/track/4mPa2hYYzVACNKBJCcbgaY) | [Rose Rose](https://open.spotify.com/artist/7m5YHkCbSEVutUThNF5Lc9), [Roisto](https://open.spotify.com/artist/0zkoIIaqJT7WP0rly4rOMk) | [Sugar Hill \(Roisto Remix\)](https://open.spotify.com/album/60UTuv8Qx9koLLSIme158o) | 4:24 |
 
-Snapshot ID: `MCxhNTc1ZmJjNTU0NTZiZjMwOGY4MDM1YjYzNTk3YmQ0Njc4Yzk1YTU4`
+Snapshot ID: `MCxkNzU5ZjI0NDk4NGEyMzAwYTliNDhhMGM0MTcyMTM5NWY4OTBlMGU5`

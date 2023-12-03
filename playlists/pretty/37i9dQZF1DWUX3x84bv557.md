@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 
 > De nieuwste Nederlandse liedjes! Cover: Bankzitters
 
-[Spotify](https://open.spotify.com/user/spotify) - 160,499 likes - 78 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 160,500 likes - 78 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,4 +87,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 | 77 | [Dansplaat](https://open.spotify.com/track/57EktM9Ekh0zIeVkRsWuou) | [Wander](https://open.spotify.com/artist/0AIzSAisaARpSG26MvzYyM) | [Dansplaat](https://open.spotify.com/album/2nw1l5iN2YxAGmRwLhoJhE) | 2:41 |
 | 78 | [Wakker](https://open.spotify.com/track/3qD6YcX8EYahVoqfZyIzYC) | [Nobu](https://open.spotify.com/artist/5yuxqGyvuCkRY8X53yVy5u) | [Wakker](https://open.spotify.com/album/1bEM1VmjCucrV6SRcN8PRL) | 2:19 |
 
-Snapshot ID: `MCwzY2JjMDRjM2VlM2ZiN2Y2NmM1MzFjYTUyMzkyZTg4ZTM0NjU5NTFi`
+Snapshot ID: `MCxiNWI5ZGE5YzRmODY5Zjg5Mzk2NzdkMzAyZWRlYWUxYzkwOTQ1ZjAx`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxqA801UP5W.md) - [plain]
 
 > All your favourite pop songs, remixed to perfection\. Cover: Tyla
 
-[Spotify](https://open.spotify.com/user/spotify) - 454,375 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 454,397 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxqA801UP5W.md) - [plain]
 | 49 | [Tension \(Chromeo Remix\)](https://open.spotify.com/track/1FvLE1PSYgWy9t98gHyoz8) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA), [Chromeo](https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt) | [Tension \(The Remixes\)](https://open.spotify.com/album/6OCoaXc7qY2Y39b8FMTEb9) | 4:06 |
 | 50 | [Say So \(Jax Jones Midnight Snack Remix\)](https://open.spotify.com/track/7qrO2oI0A9DW6wQPjSADxx) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr) | [Say So \(Jax Jones Midnight Snack Remix\)](https://open.spotify.com/album/6pbeqvCzbgBigh3zo8SSit) | 3:30 |
 
-Snapshot ID: `MCw4NGZlODIyZjM0MjFlNTIzMTJlNTIxN2Y5MjkzODYzZDY2ODVjMmRk`
+Snapshot ID: `MCwwOTZkZTlmNzllMDc2ZjQzM2FjMDYyMjgxYTFjNDY4NjYwMDQ4M2E0`

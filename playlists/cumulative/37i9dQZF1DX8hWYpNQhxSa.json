@@ -2213,6 +2213,28 @@
     },
     {
       "album": {
+        "name": "Until the End \uff08TV\u30a2\u30cb\u30e1\u300eSPY\u00d7FAMILY\u300fSeason 2 \u633f\u5165\u6b4c\uff09",
+        "url": "https://open.spotify.com/album/5vAmBbnf5oeyKQKnxuhQSP"
+      },
+      "artists": [
+        {
+          "name": "(K)NoW_NAME",
+          "url": "https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A"
+        },
+        {
+          "name": "(K)NoW_NAME:Ayaka Tachibana",
+          "url": "https://open.spotify.com/artist/5vuVwUJtfN6bELEOhpb0a9"
+        }
+      ],
+      "date_added": "2023-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173500,
+      "name": "Until the End",
+      "url": "https://open.spotify.com/track/2o782mZSwxR34O9j9HaLwN"
+    },
+    {
+      "album": {
         "name": "SPY x FAMILY Soundtrack Vol. 1 (Music from the Original TV Series)",
         "url": "https://open.spotify.com/album/7e4jxoNaSmYXIWq7qQfQ0r"
       },

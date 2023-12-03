@@ -1,12 +1,12 @@
 {
   "description": "Indie folk that defined the 2010s.",
-  "num_followers": 61195,
+  "num_followers": 61256,
   "original_name": "10s Indie Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlODU4NDA1NzIzNzA0ZmUxNWFmYjhhZWQ3OGI5YzcwMzY3MjExOGE3",
+  "snapshot_id": "MCxkNDE5ZDNmODUwODJlYTE2NWIxNDdmNzE2NzQ5MjNlMzc0YzI0M2Ey",
   "tracks": [
     {
       "added_at": "2022-02-04 21:53:01",
@@ -123,22 +123,6 @@
     {
       "added_at": "2022-02-04 21:53:01",
       "album": {
-        "name": "Woodland",
-        "url": "https://open.spotify.com/album/1lq6KMHFACcE6GQZysxnSZ"
-      },
-      "artists": [
-        {
-          "name": "The Paper Kites",
-          "url": "https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy"
-        }
-      ],
-      "duration_ms": 210080,
-      "name": "Bloom - Bonus Track",
-      "url": "https://open.spotify.com/track/1HMQmOWrkieKYWlFsjUP3D"
-    },
-    {
-      "added_at": "2022-02-04 21:53:01",
-      "album": {
         "name": "Stranger in the Alps",
         "url": "https://open.spotify.com/album/0qWcLfCZ8wtcoOdX14oGNI"
       },
@@ -151,6 +135,22 @@
       "duration_ms": 229760,
       "name": "Motion Sickness",
       "url": "https://open.spotify.com/track/5xo8RrjJ9CVNrtRg2S3B1R"
+    },
+    {
+      "added_at": "2022-02-04 21:53:01",
+      "album": {
+        "name": "Woodland",
+        "url": "https://open.spotify.com/album/1lq6KMHFACcE6GQZysxnSZ"
+      },
+      "artists": [
+        {
+          "name": "The Paper Kites",
+          "url": "https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy"
+        }
+      ],
+      "duration_ms": 210080,
+      "name": "Bloom - Bonus Track",
+      "url": "https://open.spotify.com/track/1HMQmOWrkieKYWlFsjUP3D"
     },
     {
       "added_at": "2022-02-04 21:53:01",
@@ -219,22 +219,6 @@
     {
       "added_at": "2022-02-04 21:53:01",
       "album": {
-        "name": "Coming Home (Deluxe)",
-        "url": "https://open.spotify.com/album/21KIagsx1ZvYcv0sVkEAWv"
-      },
-      "artists": [
-        {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
-        }
-      ],
-      "duration_ms": 240200,
-      "name": "River",
-      "url": "https://open.spotify.com/track/3hhbDnFUb2bicI2df6VurK"
-    },
-    {
-      "added_at": "2022-02-04 21:53:01",
-      "album": {
         "name": "Young North",
         "url": "https://open.spotify.com/album/5ERrBoi8CAlmG0pNLjLtsn"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 191773,
       "name": "Paint",
       "url": "https://open.spotify.com/track/6uHvbKL0Yi37AuvNRmUfMw"
+    },
+    {
+      "added_at": "2022-02-04 21:53:01",
+      "album": {
+        "name": "Coming Home (Deluxe)",
+        "url": "https://open.spotify.com/album/21KIagsx1ZvYcv0sVkEAWv"
+      },
+      "artists": [
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+        }
+      ],
+      "duration_ms": 240200,
+      "name": "River",
+      "url": "https://open.spotify.com/track/3hhbDnFUb2bicI2df6VurK"
     },
     {
       "added_at": "2022-02-04 21:53:01",
@@ -811,22 +811,6 @@
     {
       "added_at": "2022-02-04 21:53:01",
       "album": {
-        "name": "Spotify Sessions",
-        "url": "https://open.spotify.com/album/0hjao9hWIDjmUFDiW6Q59W"
-      },
-      "artists": [
-        {
-          "name": "Villagers",
-          "url": "https://open.spotify.com/artist/2m1l9MLSslzup4vvokKgvQ"
-        }
-      ],
-      "duration_ms": 219093,
-      "name": "Nothing Arrived - Live from Spotify London",
-      "url": "https://open.spotify.com/track/0TQ8ZHFhrbH9I0WRjIzOCQ"
-    },
-    {
-      "added_at": "2022-02-04 21:53:01",
-      "album": {
         "name": "Lines",
         "url": "https://open.spotify.com/album/183PxCMvOPAdItWDCi1UJJ"
       },
@@ -843,18 +827,18 @@
     {
       "added_at": "2022-02-04 21:53:01",
       "album": {
-        "name": "Headlong",
-        "url": "https://open.spotify.com/album/0wqLLyEsGv9Lf8ztk1NKNZ"
+        "name": "Spotify Sessions",
+        "url": "https://open.spotify.com/album/0hjao9hWIDjmUFDiW6Q59W"
       },
       "artists": [
         {
-          "name": "John Smith",
-          "url": "https://open.spotify.com/artist/56GNqAFg9wJNTwcHsJhyS2"
+          "name": "Villagers",
+          "url": "https://open.spotify.com/artist/2m1l9MLSslzup4vvokKgvQ"
         }
       ],
-      "duration_ms": 219333,
-      "name": "Far Too Good",
-      "url": "https://open.spotify.com/track/1WUHeOPayLKPMG35uBJVUj"
+      "duration_ms": 219093,
+      "name": "Nothing Arrived - Live from Spotify London",
+      "url": "https://open.spotify.com/track/0TQ8ZHFhrbH9I0WRjIzOCQ"
     },
     {
       "added_at": "2022-02-04 21:53:01",
@@ -871,6 +855,22 @@
       "duration_ms": 212800,
       "name": "Dearly Departed (feat. Esm\u00e9 Patterson)",
       "url": "https://open.spotify.com/track/0ewrI06EIDMGXvgJxuyF3U"
+    },
+    {
+      "added_at": "2022-02-04 21:53:01",
+      "album": {
+        "name": "Headlong",
+        "url": "https://open.spotify.com/album/0wqLLyEsGv9Lf8ztk1NKNZ"
+      },
+      "artists": [
+        {
+          "name": "John Smith",
+          "url": "https://open.spotify.com/artist/56GNqAFg9wJNTwcHsJhyS2"
+        }
+      ],
+      "duration_ms": 219333,
+      "name": "Far Too Good",
+      "url": "https://open.spotify.com/track/1WUHeOPayLKPMG35uBJVUj"
     },
     {
       "added_at": "2022-02-04 21:53:01",
@@ -987,22 +987,6 @@
     {
       "added_at": "2022-02-04 21:53:01",
       "album": {
-        "name": "Little Giant",
-        "url": "https://open.spotify.com/album/3ZTS2uxdWAkBnIXzsCY8PZ"
-      },
-      "artists": [
-        {
-          "name": "Roo Panes",
-          "url": "https://open.spotify.com/artist/0XHM5ZNJDU8e4CfbWMeSzC"
-        }
-      ],
-      "duration_ms": 241720,
-      "name": "Tiger Striped Sky",
-      "url": "https://open.spotify.com/track/4C2aiAVTTVyZbCQZst5Xu1"
-    },
-    {
-      "added_at": "2022-02-04 21:53:01",
-      "album": {
         "name": "Imaginary Man",
         "url": "https://open.spotify.com/album/72YUTJrAuTuSHSVrgixbor"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 230786,
       "name": "Yellow Eyes",
       "url": "https://open.spotify.com/track/3HOXNIj8NjlgjQiBd3YVIi"
+    },
+    {
+      "added_at": "2022-02-04 21:53:01",
+      "album": {
+        "name": "Little Giant",
+        "url": "https://open.spotify.com/album/3ZTS2uxdWAkBnIXzsCY8PZ"
+      },
+      "artists": [
+        {
+          "name": "Roo Panes",
+          "url": "https://open.spotify.com/artist/0XHM5ZNJDU8e4CfbWMeSzC"
+        }
+      ],
+      "duration_ms": 241720,
+      "name": "Tiger Striped Sky",
+      "url": "https://open.spotify.com/track/4C2aiAVTTVyZbCQZst5Xu1"
     },
     {
       "added_at": "2022-02-04 21:53:01",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2022-02-04 21:53:01",
       "album": {
-        "name": "New Ways",
-        "url": "https://open.spotify.com/album/20svKqJRQv9sxYZQ7JGdct"
-      },
-      "artists": [
-        {
-          "name": "Leif Vollebekk",
-          "url": "https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs"
-        }
-      ],
-      "duration_ms": 247266,
-      "name": "Hot Tears",
-      "url": "https://open.spotify.com/track/1aU0F8KL0vaKQacSMQRN9d"
-    },
-    {
-      "added_at": "2022-02-04 21:53:01",
-      "album": {
         "name": "Dawn",
         "url": "https://open.spotify.com/album/0DvauBOn2G8RIEQR54Cmiv"
       },
@@ -1323,18 +1307,18 @@
     {
       "added_at": "2022-02-04 21:53:01",
       "album": {
-        "name": "The Wild Hunt",
-        "url": "https://open.spotify.com/album/2iZD3ggZbHlAg64cM9iQco"
+        "name": "New Ways",
+        "url": "https://open.spotify.com/album/20svKqJRQv9sxYZQ7JGdct"
       },
       "artists": [
         {
-          "name": "The Tallest Man On Earth",
-          "url": "https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa"
+          "name": "Leif Vollebekk",
+          "url": "https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs"
         }
       ],
-      "duration_ms": 255853,
-      "name": "Love is All",
-      "url": "https://open.spotify.com/track/5u9NUat59IiQFVEzZ4r3Np"
+      "duration_ms": 247266,
+      "name": "Hot Tears",
+      "url": "https://open.spotify.com/track/1aU0F8KL0vaKQacSMQRN9d"
     },
     {
       "added_at": "2022-02-04 21:53:01",
@@ -1355,18 +1339,18 @@
     {
       "added_at": "2022-02-04 21:53:01",
       "album": {
-        "name": "The Wild Swan",
-        "url": "https://open.spotify.com/album/0njBaqTHPEL9qHsrT6NBVz"
+        "name": "The Wild Hunt",
+        "url": "https://open.spotify.com/album/2iZD3ggZbHlAg64cM9iQco"
       },
       "artists": [
         {
-          "name": "Foy Vance",
-          "url": "https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu"
+          "name": "The Tallest Man On Earth",
+          "url": "https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa"
         }
       ],
-      "duration_ms": 229226,
-      "name": "She Burns",
-      "url": "https://open.spotify.com/track/3rUw4cRDeYVZhjkUXBnFUQ"
+      "duration_ms": 255853,
+      "name": "Love is All",
+      "url": "https://open.spotify.com/track/5u9NUat59IiQFVEzZ4r3Np"
     },
     {
       "added_at": "2022-02-04 21:53:01",
@@ -1387,18 +1371,18 @@
     {
       "added_at": "2022-02-04 21:53:01",
       "album": {
-        "name": "Barton Hollow",
-        "url": "https://open.spotify.com/album/4uWgDFxGAp7XlVSHuVBv4E"
+        "name": "The Wild Swan",
+        "url": "https://open.spotify.com/album/0njBaqTHPEL9qHsrT6NBVz"
       },
       "artists": [
         {
-          "name": "The Civil Wars",
-          "url": "https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE"
+          "name": "Foy Vance",
+          "url": "https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu"
         }
       ],
-      "duration_ms": 219466,
-      "name": "Poison & Wine",
-      "url": "https://open.spotify.com/track/4BFudy2Zbryi9a1KFad66B"
+      "duration_ms": 229226,
+      "name": "She Burns",
+      "url": "https://open.spotify.com/track/3rUw4cRDeYVZhjkUXBnFUQ"
     },
     {
       "added_at": "2022-02-04 21:53:01",
@@ -1431,6 +1415,22 @@
       "duration_ms": 299440,
       "name": "The Barrel",
       "url": "https://open.spotify.com/track/06lw2dBFqdXhAErz7Xz9Zs"
+    },
+    {
+      "added_at": "2022-02-04 21:53:01",
+      "album": {
+        "name": "Barton Hollow",
+        "url": "https://open.spotify.com/album/4uWgDFxGAp7XlVSHuVBv4E"
+      },
+      "artists": [
+        {
+          "name": "The Civil Wars",
+          "url": "https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE"
+        }
+      ],
+      "duration_ms": 219466,
+      "name": "Poison & Wine",
+      "url": "https://open.spotify.com/track/4BFudy2Zbryi9a1KFad66B"
     },
     {
       "added_at": "2022-02-04 21:53:01",
@@ -1559,22 +1559,6 @@
     {
       "added_at": "2022-02-04 21:53:01",
       "album": {
-        "name": "Free Yourself Up",
-        "url": "https://open.spotify.com/album/1eWP4CbLwVsVuC44utXBOD"
-      },
-      "artists": [
-        {
-          "name": "Lake Street Dive",
-          "url": "https://open.spotify.com/artist/3nuc29fYGlQbIrwh4yrNWd"
-        }
-      ],
-      "duration_ms": 191693,
-      "name": "I Can Change",
-      "url": "https://open.spotify.com/track/0jCe45cYIc6NXedmbIKy0Q"
-    },
-    {
-      "added_at": "2022-02-04 21:53:01",
-      "album": {
         "name": "U.F.O.F.",
         "url": "https://open.spotify.com/album/0sLnNGW4PzCYFQ4Pn7aVCP"
       },
@@ -1587,6 +1571,22 @@
       "duration_ms": 188413,
       "name": "UFOF",
       "url": "https://open.spotify.com/track/3Hbwbuk3ChdUf7M6Cn7uQB"
+    },
+    {
+      "added_at": "2022-02-04 21:53:01",
+      "album": {
+        "name": "Free Yourself Up",
+        "url": "https://open.spotify.com/album/1eWP4CbLwVsVuC44utXBOD"
+      },
+      "artists": [
+        {
+          "name": "Lake Street Dive",
+          "url": "https://open.spotify.com/artist/3nuc29fYGlQbIrwh4yrNWd"
+        }
+      ],
+      "duration_ms": 191693,
+      "name": "I Can Change",
+      "url": "https://open.spotify.com/track/0jCe45cYIc6NXedmbIKy0Q"
     },
     {
       "added_at": "2022-02-04 21:53:01",
@@ -1879,22 +1879,6 @@
     {
       "added_at": "2022-02-04 21:53:01",
       "album": {
-        "name": "The Wilds",
-        "url": "https://open.spotify.com/album/6mG8sVZlEsKwNZeSq8sMpA"
-      },
-      "artists": [
-        {
-          "name": "Henry Jamison",
-          "url": "https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC"
-        }
-      ],
-      "duration_ms": 233289,
-      "name": "Real Peach",
-      "url": "https://open.spotify.com/track/6p4mASLulKdpNFLxQhs0ff"
-    },
-    {
-      "added_at": "2022-02-04 21:53:01",
-      "album": {
         "name": "Two Hands",
         "url": "https://open.spotify.com/album/5pp7px9MITK2MqeFVbRWGo"
       },
@@ -1907,6 +1891,22 @@
       "duration_ms": 367093,
       "name": "Not",
       "url": "https://open.spotify.com/track/7lrhugjSbiImrNSLIFIq0c"
+    },
+    {
+      "added_at": "2022-02-04 21:53:01",
+      "album": {
+        "name": "The Wilds",
+        "url": "https://open.spotify.com/album/6mG8sVZlEsKwNZeSq8sMpA"
+      },
+      "artists": [
+        {
+          "name": "Henry Jamison",
+          "url": "https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC"
+        }
+      ],
+      "duration_ms": 233289,
+      "name": "Real Peach",
+      "url": "https://open.spotify.com/track/6p4mASLulKdpNFLxQhs0ff"
     },
     {
       "added_at": "2022-02-04 21:53:01",

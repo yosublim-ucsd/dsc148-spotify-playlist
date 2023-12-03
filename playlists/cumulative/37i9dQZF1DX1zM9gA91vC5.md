@@ -4,7 +4,7 @@
 
 > Concentração no máximo, sem distrações.
 
-940 songs - 1 day 16 hr 44 min
+941 songs - 1 day 16 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -229,7 +229,7 @@
 | [Enouement](https://open.spotify.com/track/2FGyZllOwDIALirU4HK6hZ) | [Josh Kramer](https://open.spotify.com/artist/2stOL2fH4SxcTNg7RXo9AG) | [Enouement](https://open.spotify.com/album/4dd6YuBtoc8bdxcQSiTlb7) | 2:14 | 2020-09-02 |  |
 | [Equinox](https://open.spotify.com/track/3WqvDhgb4GHPqoqwp9Pm2R) | [Denise Santoz](https://open.spotify.com/artist/4Uovljndj83LXd0QLdSCtp) | [Equinox](https://open.spotify.com/album/04NcQ5A5Lz4XolAQWMSo54) | 3:02 | 2020-09-02 | 2020-12-16 |
 | [Erinnerungen](https://open.spotify.com/track/0mXVKfTSOA5wdLx1COKyLc) | [Agnes Klein](https://open.spotify.com/artist/5ZxksGDvjeNLxyy7t4NSpV) | [Erinnerungen](https://open.spotify.com/album/52JKRxmZf174HBImkvwN2q) | 3:10 | 2021-02-12 |  |
-| [Eros](https://open.spotify.com/track/6S7DVL5a6gVfHCT93P2STO) | [Las Tinieblas](https://open.spotify.com/artist/3eY0YTyWNXA8z9zrWz1kYU) | [Eros](https://open.spotify.com/album/7hOhgHILlzIIjBziaqADKt) | 2:08 | 2022-02-01 |  |
+| [Eros](https://open.spotify.com/track/6S7DVL5a6gVfHCT93P2STO) | [Las Tinieblas](https://open.spotify.com/artist/3eY0YTyWNXA8z9zrWz1kYU) | [Eros](https://open.spotify.com/album/7hOhgHILlzIIjBziaqADKt) | 2:08 | 2022-02-01 | 2023-12-03 |
 | [Espérer](https://open.spotify.com/track/41tIf2rMJfYKpsZpU0Mj5M) | [Lunete Guillory](https://open.spotify.com/artist/77ZgHWAR9tmBMgQ759Qxgg) | [Espérer](https://open.spotify.com/album/7erovFp7Y94PfsNwDhYcJm) | 2:19 | 2021-04-10 | 2021-08-03 |
 | [Estebania](https://open.spotify.com/track/7JovgYye2faHH2pvnV0EY4) | [David Sato](https://open.spotify.com/artist/0Xp27nG9qE8eLiqvx1UUj5) | [Estebania](https://open.spotify.com/album/1wNGh4oE2iPQ7CgnPrbq4K) | 2:51 | 2021-09-16 |  |
 | [Esthetic](https://open.spotify.com/track/424kxlBHkHVxwwMkDlPp1s) | [Maru Gomes](https://open.spotify.com/artist/3c06rwhV9teHblfhGaUqdp) | [Esthetic](https://open.spotify.com/album/7JYclSv63BYa69okll9GKk) | 2:27 | 2021-09-30 |  |
@@ -399,6 +399,7 @@
 | [Keep Me](https://open.spotify.com/track/21rxhltWEcMhJmEaSbma3z) | [Elliot Ziegler](https://open.spotify.com/artist/0Wh30jSV0ZQf0IzHkEddBY) | [Sleepless](https://open.spotify.com/album/14hIy4MWeAp4AknOaad82A) | 3:10 | 2020-08-14\* | 2021-05-20 |
 | [Keep You Safe](https://open.spotify.com/track/6XwdGPFuIObAvlrgwTuFOC) | [Morunas](https://open.spotify.com/artist/36RxHbl3Duv6WNJjOGPhV4) | [Keep You Safe](https://open.spotify.com/album/7llQfYCqtcg0uXYQu2ZQOx) | 2:04 | 2022-01-18 | 2022-06-08 |
 | [Keepsake](https://open.spotify.com/track/0YBCgDLu77pzN0SyBW5JMN) | [Becca Hodges](https://open.spotify.com/artist/4Y8iwYWFndPFYflduTdhu7) | [Keepsake](https://open.spotify.com/album/0ij7eL3crRP4KW2O26P9pR) | 2:26 | 2020-10-15 | 2021-10-13 |
+| [Keepsake](https://open.spotify.com/track/3OacSixqamhyHu3M2fRqxU) | [Pamela Goldings](https://open.spotify.com/artist/0zz0ZeRODmieOdGKeznHQA) | [Keepsake](https://open.spotify.com/album/6g1Mpl8jLuLTcR8mO2Qpon) | 2:32 | 2023-11-28 |  |
 | [Kiriume](https://open.spotify.com/track/6VaWHjTTcKiPjWEkejHkMR) | [Arden Forest](https://open.spotify.com/artist/3LUa5res2UmvZ04kvlPMc7) | [Kiriume](https://open.spotify.com/album/63qOqv2FOkfpIUs2SKEuH6) | 2:24 | 2020-11-12 | 2022-12-24 |
 | [Knots](https://open.spotify.com/track/6OPZgEbGHJufMo64TipZF8) | [Norse Mythology](https://open.spotify.com/artist/05IxAmFj1DzEpTmjRJ6K54) | [Knots](https://open.spotify.com/album/0TN9Plv6OuVrZiuZ2shewx) | 3:32 | 2021-10-05 | 2022-06-08 |
 | [Knowing](https://open.spotify.com/track/5ZCVigQ6yH25D61oA2fE4T) | [Jacob Higgins](https://open.spotify.com/artist/4BIgXu3VhBUcX6Y0TOHpoi) | [Knowing](https://open.spotify.com/album/3BMt2E5mIp4jXuPrv6AH9w) | 2:32 | 2020-10-15 | 2021-09-29 |

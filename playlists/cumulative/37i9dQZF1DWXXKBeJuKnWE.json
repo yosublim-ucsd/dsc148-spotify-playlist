@@ -457,6 +457,24 @@
     },
     {
       "album": {
+        "name": "BLOOD PUDDLE",
+        "url": "https://open.spotify.com/album/5DfUyG3nyxRRKOzj5hV4PU"
+      },
+      "artists": [
+        {
+          "name": "Siiickbrain",
+          "url": "https://open.spotify.com/artist/1oPEr1Ci8sWOYj8SSh2VPE"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114285,
+      "name": "BLOOD PUDDLE",
+      "url": "https://open.spotify.com/track/5kkeXjTwDKrMJdpXA2nFZq"
+    },
+    {
+      "album": {
         "name": "BLOODPUDDLE",
         "url": "https://open.spotify.com/album/1ECcVLJb9ksKW15h4Slulo"
       },
@@ -468,7 +486,7 @@
       ],
       "date_added": "2023-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-03",
       "duration_ms": 114285,
       "name": "BLOODPUDDLE",
       "url": "https://open.spotify.com/track/4cbmaakH3pHNNBn4oYhxgO"

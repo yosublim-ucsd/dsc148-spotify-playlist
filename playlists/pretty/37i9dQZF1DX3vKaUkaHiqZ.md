@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3vKaUkaHiqZ.md) - [plain]
 
 > Listen to the official playlist for LUPIN, now streaming on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,405 likes - 62 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,428 likes - 62 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3vKaUkaHiqZ.md) - [plain]
 | 16 | [La Symphonie de Lupin \- Version 2](https://open.spotify.com/track/3X41jt6VlySv1NfVhiTy3R) | [Mathieu Lamboley](https://open.spotify.com/artist/04Q5tKdnKLhTFcph6K5d45) | [Lupin, Pt\. 3 \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/0do3a69YUs8eMhGE9p5yjK) | 8:57 |
 | 17 | [Atomic](https://open.spotify.com/track/5QIbR39hAEDIOkr4ggh4xc) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Eat To The Beat](https://open.spotify.com/album/4gbZS6jj6ufbiSG4C8jLv5) | 4:40 |
 | 18 | [What A Man](https://open.spotify.com/track/7dwJqwTXDtsrX1QLqb0o96) | [Linda Lyndell](https://open.spotify.com/artist/5zU5MAgXh6Lcs3FY2KSFNQ) | [The Complete Stax / Volt Soul Singles, Vol\. 2: 1968\-1971](https://open.spotify.com/album/09dsUwnIIqRL97qbvGTrjH) | 2:40 |
-| 19 | [Legends](https://open.spotify.com/track/0Xno1LwsmRIRIPU09e0Nqt) | [The MIDI Mafia](https://open.spotify.com/artist/24V7vAxwpng8m935rLmGwd), [Chel Strong](https://open.spotify.com/artist/5IQZJajZWvblyYQpdzQjLF), [Maxton Waller](https://open.spotify.com/artist/0MBMglsiNuGZMTGmCXrlb9) | [Harder Than Most](https://open.spotify.com/album/2J3WKXQQ0T8WGryJRJphOc) | 3:18 |
+| 19 | [Legends](https://open.spotify.com/track/565FPWYEoRvyWOWoFu3H5k) | [The Midi Mafia](https://open.spotify.com/artist/3j8KMnhscmfQJnJU02GiUP), [Chel Strong](https://open.spotify.com/artist/5IQZJajZWvblyYQpdzQjLF), [Maxton Waller](https://open.spotify.com/artist/0MBMglsiNuGZMTGmCXrlb9) | [Harder Than Most](https://open.spotify.com/album/6nnSoXCXZdohWiwjNpxcKg) | 3:18 |
 | 20 | [Lonely Boy](https://open.spotify.com/track/5G1sTBGbZT5o4PNRc75RKI) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [El Camino](https://open.spotify.com/album/5DLhV9yOvZ7IxVmljMXtNm) | 3:13 |
 | 21 | [Drug Song](https://open.spotify.com/track/2XBjubKK9kafRfGm0FOXX7) | [Janko Nilovic](https://open.spotify.com/artist/44w54ag6mZjclpEET3ROf9) | [Volume 1 \(3 albums: Super America, Soul Impressions, Pop Impressions\)](https://open.spotify.com/album/3kNsOrZbloHLQZS0gKxZzS) | 3:11 |
 | 22 | [English Summer](https://open.spotify.com/track/4T5KWGGwXTxlT2hyGKDtHb) | [Other Lives](https://open.spotify.com/artist/3bw0A7x5AgdJsK20ai5iS6) | [Rituals](https://open.spotify.com/album/12MSF8u9nEjGShsgteS0Lk) | 4:39 |
@@ -71,4 +71,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3vKaUkaHiqZ.md) - [plain]
 | 61 | [On ne change pas](https://open.spotify.com/track/06T13g0Hh00zWwMjtpqIKU) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [S'il Suffisait D'aimer](https://open.spotify.com/album/14GKp6GNpP9jL7g98QTxsY) | 4:08 |
 | 62 | [Meaning \- Choral Version](https://open.spotify.com/track/4ajEeUByf22nxfhqCHuJD9) | [Cascadeur](https://open.spotify.com/artist/5yUtzFVpUdN8UtyZzDD9o9) | [The Human Octopus](https://open.spotify.com/album/4nFqGxTrgWmVeMZdRW3VE0) | 2:57 |
 
-Snapshot ID: `MCw2YWVjMjhiMDc3N2YwNzIzZmU4NTMwZTMwMWM4YTQ4ODM5ZGY4MjQ2`
+Snapshot ID: `MCxkYjM4MDFlOTcyMTA4MTAyZWVmZWI4NDdmMTJmYzI3M2JhZmNiZGVj`

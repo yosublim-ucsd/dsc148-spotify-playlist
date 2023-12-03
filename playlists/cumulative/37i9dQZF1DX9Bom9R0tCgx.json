@@ -167,6 +167,24 @@
     },
     {
       "album": {
+        "name": "Apollo",
+        "url": "https://open.spotify.com/album/1LqYkBtUxZKXZ2MNmIjqTe"
+      },
+      "artists": [
+        {
+          "name": "Space 92",
+          "url": "https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 349000,
+      "name": "Apollo",
+      "url": "https://open.spotify.com/track/4jDTMcSXDCBbwUoU2BnzzP"
+    },
+    {
+      "album": {
         "name": "ARCEUS",
         "url": "https://open.spotify.com/album/0ZidtUuoVFsM2SUbXqWcFr"
       },
@@ -1860,7 +1878,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-03",
       "duration_ms": 166666,
       "name": "Low (Macon's HYPERTECHNO Remix)",
       "url": "https://open.spotify.com/track/7tMVmdCrQvj3iC0z8tZBZT"

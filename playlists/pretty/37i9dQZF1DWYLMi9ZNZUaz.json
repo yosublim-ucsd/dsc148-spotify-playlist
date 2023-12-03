@@ -1,12 +1,12 @@
 {
   "description": "D\u00f2ng ch\u1ea3y c\u1ee7a rap Vi\u1ec7t lu\u00f4n cu\u1ed3n cu\u1ed9n. \u1ea2nh b\u00eca: \u0110en",
-  "num_followers": 83286,
+  "num_followers": 83398,
   "original_name": "Hip-hop Vi\u1ec7t",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNWY4YzJlZDdjMWFhNjgyMjliNmY1ZTVkNDhiMDBkOWY4ZWM1Y2Qw",
+  "snapshot_id": "MCw5NzhhNjgzYmU4NmZkMDdhODkwODllODA2ODhhNGQ4YWJlNDQ4ODVk",
   "tracks": [
     {
       "added_at": "2023-11-30 07:27:19",
@@ -671,26 +671,6 @@
     {
       "added_at": "2023-11-30 07:27:19",
       "album": {
-        "name": "\u0110\u00e1nh \u0110\u1ed5i",
-        "url": "https://open.spotify.com/album/5NODJ4FZWvaLLiFd554kLI"
-      },
-      "artists": [
-        {
-          "name": "Obito",
-          "url": "https://open.spotify.com/artist/0ZbgKh0FgPYeFP38nVaEGp"
-        },
-        {
-          "name": "L\u0103ng LD",
-          "url": "https://open.spotify.com/artist/0EOMdQwzUG6CKh9oWvcANr"
-        }
-      ],
-      "duration_ms": 184615,
-      "name": "\u0110\u1ea7u \u0110\u01b0\u1eddng X\u00f3 Ch\u1ee3 (ft. L\u0103ng LD)",
-      "url": "https://open.spotify.com/track/2nFXaYb2fWOoUJXMPb6y4C"
-    },
-    {
-      "added_at": "2023-11-30 07:27:19",
-      "album": {
         "name": "TOKYO Cypher",
         "url": "https://open.spotify.com/album/2lwCWQ7DzQNv8fqJKQ9AbL"
       },
@@ -711,6 +691,26 @@
       "duration_ms": 178823,
       "name": "TOKYO Cypher",
       "url": "https://open.spotify.com/track/0eKIEiMHZv0pOxz4iGOXda"
+    },
+    {
+      "added_at": "2023-11-30 07:27:19",
+      "album": {
+        "name": "\u0110\u00e1nh \u0110\u1ed5i",
+        "url": "https://open.spotify.com/album/5NODJ4FZWvaLLiFd554kLI"
+      },
+      "artists": [
+        {
+          "name": "Obito",
+          "url": "https://open.spotify.com/artist/0ZbgKh0FgPYeFP38nVaEGp"
+        },
+        {
+          "name": "L\u0103ng LD",
+          "url": "https://open.spotify.com/artist/0EOMdQwzUG6CKh9oWvcANr"
+        }
+      ],
+      "duration_ms": 184615,
+      "name": "\u0110\u1ea7u \u0110\u01b0\u1eddng X\u00f3 Ch\u1ee3 (ft. L\u0103ng LD)",
+      "url": "https://open.spotify.com/track/2nFXaYb2fWOoUJXMPb6y4C"
     },
     {
       "added_at": "2023-11-30 07:27:19",

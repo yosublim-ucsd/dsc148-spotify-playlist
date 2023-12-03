@@ -4,7 +4,7 @@
 
 > 日本で活躍するボーイズグループを特集。cover: GENERATIONS from EXILE TRIBE
 
-59 songs - 3 hr 25 min
+60 songs - 3 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,7 +47,8 @@
 | [Salvia](https://open.spotify.com/track/0bcTxNXi8c0IUY0PhNYItd) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [Sarracenia / Salvia](https://open.spotify.com/album/4KO4Ul7zk5Rz2itJ5KKtyl) | 3:26 | 2023-11-23 |  |
 | [SHORYU \(→↓↘＋P\)](https://open.spotify.com/track/7HPxx65QOWaKi2O5tXMImn) | [龍宮城](https://open.spotify.com/artist/0xOawbTJb7VLKsaJGjpeCK) | [SHORYU \(→↓↘＋P\)](https://open.spotify.com/album/36of8h5UNm53gMLFAKWx8W) | 3:06 | 2023-11-23 |  |
 | [SIN](https://open.spotify.com/track/4uRh2YgZgcg7x2QsyllrbI) | [MADKID](https://open.spotify.com/artist/1tofuk7dTZwb6ZKsr7XRKB) | [SIN](https://open.spotify.com/album/3W6jQO7l9BPGV2uhgr6l28) | 3:44 | 2023-11-23 |  |
-| [SOS](https://open.spotify.com/track/3gahDIUGQT0Hlmf5zNN4ta) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [Mainstream](https://open.spotify.com/album/7ixevog8Pu3jbd3VeZSK7j) | 2:56 | 2023-11-23 |  |
+| [Smile Again](https://open.spotify.com/track/6EJDyT2T7pEeLLhNRR416r) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [Smile Again](https://open.spotify.com/album/7aIMR4kB87X92XrEzK6L6M) | 3:22 | 2023-11-30 |  |
+| [SOS](https://open.spotify.com/track/3gahDIUGQT0Hlmf5zNN4ta) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [Mainstream](https://open.spotify.com/album/7ixevog8Pu3jbd3VeZSK7j) | 2:56 | 2023-11-23 | 2023-12-03 |
 | [STARBOYS](https://open.spotify.com/track/1t4pem876QGWXXaBKLktMR) | [FANTASTICS from EXILE TRIBE](https://open.spotify.com/artist/162Ols90jU4CctXQz15NxS) | [STARBOYS](https://open.spotify.com/album/5Q33AkiYXkiY7wqRq2MmeY) | 3:28 | 2023-11-23 |  |
 | [Sugar Honey](https://open.spotify.com/track/7iB96cXDuwxr5mhPfg9J0U) | [WOLF HOWL HARMONY from EXILE TRIBE](https://open.spotify.com/artist/0SiKVvyHQlgxrfkCH45DVn) | [Sugar Honey](https://open.spotify.com/album/1sjIR9eofpdxuRYwNCgUYV) | 3:25 | 2023-11-23 | 2023-11-26 |
 | [SWITCHing](https://open.spotify.com/track/0t6EeePFHmdIXdS4TBRqyk) | [IMP.](https://open.spotify.com/artist/2ahbTOVqWJKyj6TUXqFcf1) | [SWITCHing](https://open.spotify.com/album/6zYRDSWPlRRb1B0FQantp8) | 3:05 | 2023-11-23 |  |

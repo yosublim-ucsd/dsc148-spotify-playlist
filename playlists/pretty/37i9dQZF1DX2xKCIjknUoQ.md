@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2xKCIjknUoQ.md) - [plain]
 
 > Le meilleur du rock français moderne\. Photo : Matmatah
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,788 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,842 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2xKCIjknUoQ.md) - [plain]
 | 49 | [So Much Trouble](https://open.spotify.com/track/0o9SvDBP6RblnFQYoj2ZGn) | [Izïa](https://open.spotify.com/artist/6T08mUIMB32dtqq5ryxQZ3) | [So Much Trouble](https://open.spotify.com/album/6IehctLdSng0qBqvDV5suy) | 4:02 |
 | 50 | [Je me souviens, je me rappelle](https://open.spotify.com/track/3vgmRlBi986YeWV95UNgJ6) | [Daniel Darc](https://open.spotify.com/artist/7iMdjNroWSI5FqRxeu2G5t) | [Crèvecoeur \(2019 remastered\)](https://open.spotify.com/album/5brOhiGaSGy404g0CaY3Yf) | 3:19 |
 
-Snapshot ID: `MCw3M2Y2NmI5MjhjYTQ5Zjk0NzMyNTg4MDY1OWJkYTc1OTY5Nzk3NjVk`
+Snapshot ID: `MCw1MTk0Y2MwMmRmZjViMGVlZDhhZTU1YTVkODBjOTJjNWI4Yjg1Mjcx`

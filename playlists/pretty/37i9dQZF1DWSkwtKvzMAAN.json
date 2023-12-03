@@ -1,12 +1,12 @@
 {
   "description": "Funky blips and blops",
-  "num_followers": 5476,
+  "num_followers": 5481,
   "original_name": "Electro Funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNTI4MmU2YTBiMGI4ZGI2YjUyZmE0MmRkMTY5NWNkZjIxYzUxNjI4",
+  "snapshot_id": "MCxmY2MwZjA4NjFlZTNmNjZlM2U1Nzg5YjhiYmYxYjRiNTI1NDRiM2Q3",
   "tracks": [
     {
       "added_at": "2020-08-28 18:46:05",
@@ -611,18 +611,18 @@
     {
       "added_at": "2020-08-28 18:46:05",
       "album": {
-        "name": "Call Me Up",
-        "url": "https://open.spotify.com/album/7wbGGlVNSqFOB0GXiC4S0d"
+        "name": "Rare Preludes, Vol. 4",
+        "url": "https://open.spotify.com/album/3ZQn7MOngY3Dgq8ZZ0XwE1"
       },
       "artists": [
         {
-          "name": "Bromar",
-          "url": "https://open.spotify.com/artist/4EG6PjDBrNbpKdQft6rk5S"
+          "name": "Wuf Ticket",
+          "url": "https://open.spotify.com/artist/0WANAwJZgqJQWUcxLzTisQ"
         }
       ],
-      "duration_ms": 403320,
-      "name": "Call Me Up",
-      "url": "https://open.spotify.com/track/50oH96vYAuUy0PUaxY6FeW"
+      "duration_ms": 402760,
+      "name": "The Key",
+      "url": "https://open.spotify.com/track/3vgbqGOEFgDsT1RAC4Auaf"
     },
     {
       "added_at": "2020-08-28 18:46:05",
@@ -643,18 +643,18 @@
     {
       "added_at": "2020-08-28 18:46:05",
       "album": {
-        "name": "Rare Preludes, Vol. 4",
-        "url": "https://open.spotify.com/album/3ZQn7MOngY3Dgq8ZZ0XwE1"
+        "name": "Call Me Up",
+        "url": "https://open.spotify.com/album/7wbGGlVNSqFOB0GXiC4S0d"
       },
       "artists": [
         {
-          "name": "Wuf Ticket",
-          "url": "https://open.spotify.com/artist/0WANAwJZgqJQWUcxLzTisQ"
+          "name": "Bromar",
+          "url": "https://open.spotify.com/artist/4EG6PjDBrNbpKdQft6rk5S"
         }
       ],
-      "duration_ms": 402760,
-      "name": "The Key",
-      "url": "https://open.spotify.com/track/3vgbqGOEFgDsT1RAC4Auaf"
+      "duration_ms": 403320,
+      "name": "Call Me Up",
+      "url": "https://open.spotify.com/track/50oH96vYAuUy0PUaxY6FeW"
     },
     {
       "added_at": "2020-08-28 18:46:05",

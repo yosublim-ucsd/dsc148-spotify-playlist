@@ -1,12 +1,12 @@
 {
   "description": "Need to get your energy level up? This will help!",
-  "num_followers": 378652,
+  "num_followers": 378794,
   "original_name": "Energy Booster: Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NWI5MDdlYjFjNGQ2MDE3YTJmYThiNTdhNDgyMDIzNzUxY2IyOTdl",
+  "snapshot_id": "MCxiMDdjNjhjY2NhMWFjNGU2MDBkODMxODU4N2NkNDlkNGU4NGE3YWIw",
   "tracks": [
     {
       "added_at": "2023-09-22 04:01:00",
@@ -143,18 +143,18 @@
     {
       "added_at": "2023-09-22 04:01:00",
       "album": {
-        "name": "Chief",
-        "url": "https://open.spotify.com/album/5dtw6CoMhbrSj01YUvdQOF"
+        "name": "Me And My Gang",
+        "url": "https://open.spotify.com/album/5XPdkIryKSpTKW21HUtvV0"
       },
       "artists": [
         {
-          "name": "Eric Church",
-          "url": "https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV"
+          "name": "Rascal Flatts",
+          "url": "https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn"
         }
       ],
-      "duration_ms": 191306,
-      "name": "Drink In My Hand",
-      "url": "https://open.spotify.com/track/1cktZnxiONH0hR6Q3DKy8h"
+      "duration_ms": 276320,
+      "name": "Life is a Highway",
+      "url": "https://open.spotify.com/track/2Fs18NaCDuluPG1DHGw1XG"
     },
     {
       "added_at": "2023-09-22 04:01:00",
@@ -175,18 +175,18 @@
     {
       "added_at": "2023-09-22 04:01:00",
       "album": {
-        "name": "Me And My Gang",
-        "url": "https://open.spotify.com/album/5XPdkIryKSpTKW21HUtvV0"
+        "name": "Chief",
+        "url": "https://open.spotify.com/album/5dtw6CoMhbrSj01YUvdQOF"
       },
       "artists": [
         {
-          "name": "Rascal Flatts",
-          "url": "https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn"
+          "name": "Eric Church",
+          "url": "https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV"
         }
       ],
-      "duration_ms": 276320,
-      "name": "Life is a Highway",
-      "url": "https://open.spotify.com/track/2Fs18NaCDuluPG1DHGw1XG"
+      "duration_ms": 191306,
+      "name": "Drink In My Hand",
+      "url": "https://open.spotify.com/track/1cktZnxiONH0hR6Q3DKy8h"
     },
     {
       "added_at": "2023-09-22 04:01:00",
@@ -503,6 +503,26 @@
     {
       "added_at": "2023-09-22 04:01:00",
       "album": {
+        "name": "Blue In The Sky",
+        "url": "https://open.spotify.com/album/2u0DD4sNHOcgbuJrJyMUu3"
+      },
+      "artists": [
+        {
+          "name": "Dustin Lynch",
+          "url": "https://open.spotify.com/artist/1dID9zgn0OV0Y8ud7Mh2tS"
+        },
+        {
+          "name": "MacKenzie Porter",
+          "url": "https://open.spotify.com/artist/6nXco5Q3cJJ0ZutnBOsSpq"
+        }
+      ],
+      "duration_ms": 171626,
+      "name": "Thinking 'Bout You (feat. MacKenzie Porter)",
+      "url": "https://open.spotify.com/track/5eUpUFdFaAeovPau6lQkqK"
+    },
+    {
+      "added_at": "2023-09-22 04:01:00",
+      "album": {
         "name": "Dierks Bentley",
         "url": "https://open.spotify.com/album/2yeODPn8igz9qQiitOZRyJ"
       },
@@ -531,26 +551,6 @@
       "duration_ms": 188893,
       "name": "One Of Them Girls",
       "url": "https://open.spotify.com/track/14GwnOeC9qYEKEA6uOZepa"
-    },
-    {
-      "added_at": "2023-09-22 04:01:00",
-      "album": {
-        "name": "Blue In The Sky",
-        "url": "https://open.spotify.com/album/2u0DD4sNHOcgbuJrJyMUu3"
-      },
-      "artists": [
-        {
-          "name": "Dustin Lynch",
-          "url": "https://open.spotify.com/artist/1dID9zgn0OV0Y8ud7Mh2tS"
-        },
-        {
-          "name": "MacKenzie Porter",
-          "url": "https://open.spotify.com/artist/6nXco5Q3cJJ0ZutnBOsSpq"
-        }
-      ],
-      "duration_ms": 171626,
-      "name": "Thinking 'Bout You (feat. MacKenzie Porter)",
-      "url": "https://open.spotify.com/track/5eUpUFdFaAeovPau6lQkqK"
     },
     {
       "added_at": "2023-09-22 04:01:00",
@@ -803,22 +803,6 @@
     {
       "added_at": "2023-09-22 04:01:00",
       "album": {
-        "name": "Carolina",
-        "url": "https://open.spotify.com/album/37iovsHz9HV9PPR2DLbNnC"
-      },
-      "artists": [
-        {
-          "name": "Eric Church",
-          "url": "https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV"
-        }
-      ],
-      "duration_ms": 191333,
-      "name": "Smoke A Little Smoke",
-      "url": "https://open.spotify.com/track/1ESipSqVefdknPg5IBKFND"
-    },
-    {
-      "added_at": "2023-09-22 04:01:00",
-      "album": {
         "name": "Lil Bit",
         "url": "https://open.spotify.com/album/6aw4FMaYoLmhMZEI5dcq8I"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 195962,
       "name": "Lil Bit",
       "url": "https://open.spotify.com/track/0NmuYnjETG3u3qx0OmEJev"
+    },
+    {
+      "added_at": "2023-09-22 04:01:00",
+      "album": {
+        "name": "Carolina",
+        "url": "https://open.spotify.com/album/37iovsHz9HV9PPR2DLbNnC"
+      },
+      "artists": [
+        {
+          "name": "Eric Church",
+          "url": "https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV"
+        }
+      ],
+      "duration_ms": 191333,
+      "name": "Smoke A Little Smoke",
+      "url": "https://open.spotify.com/track/1ESipSqVefdknPg5IBKFND"
     },
     {
       "added_at": "2023-09-22 04:01:00",
@@ -871,22 +871,6 @@
     {
       "added_at": "2023-09-22 04:01:00",
       "album": {
-        "name": "Crazy Ex-Girlfriend",
-        "url": "https://open.spotify.com/album/4y5aIMkIOdo6z1c8qsI6xb"
-      },
-      "artists": [
-        {
-          "name": "Miranda Lambert",
-          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
-        }
-      ],
-      "duration_ms": 191693,
-      "name": "Gunpowder & Lead",
-      "url": "https://open.spotify.com/track/3z1PqYwMtct2Dm4R9lhWnT"
-    },
-    {
-      "added_at": "2023-09-22 04:01:00",
-      "album": {
         "name": "Caught Up In The Country",
         "url": "https://open.spotify.com/album/00nsOLoJt01bwmsJzBFX11"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 160991,
       "name": "Caught Up In The Country",
       "url": "https://open.spotify.com/track/4aGG4VOWGv9RwlYQNsBrkE"
+    },
+    {
+      "added_at": "2023-09-22 04:01:00",
+      "album": {
+        "name": "Crazy Ex-Girlfriend",
+        "url": "https://open.spotify.com/album/4y5aIMkIOdo6z1c8qsI6xb"
+      },
+      "artists": [
+        {
+          "name": "Miranda Lambert",
+          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
+        }
+      ],
+      "duration_ms": 191693,
+      "name": "Gunpowder & Lead",
+      "url": "https://open.spotify.com/track/3z1PqYwMtct2Dm4R9lhWnT"
     },
     {
       "added_at": "2023-09-22 04:01:00",
@@ -959,6 +959,22 @@
     {
       "added_at": "2023-09-22 04:01:00",
       "album": {
+        "name": "Honeysuckle & Lightning Bugs",
+        "url": "https://open.spotify.com/album/2oxv6Q0GYUkYqz2dhUKo12"
+      },
+      "artists": [
+        {
+          "name": "Blanco Brown",
+          "url": "https://open.spotify.com/artist/3yzRiNMZdTsSUgplcyYZ4i"
+        }
+      ],
+      "duration_ms": 200593,
+      "name": "The Git Up",
+      "url": "https://open.spotify.com/track/01tA4XmJ4fGQNwti6b2hPm"
+    },
+    {
+      "added_at": "2023-09-22 04:01:00",
+      "album": {
         "name": "One Too Many",
         "url": "https://open.spotify.com/album/5j5ngp5GBH7zW3RhHljRK9"
       },
@@ -995,6 +1011,22 @@
     {
       "added_at": "2023-09-22 04:01:00",
       "album": {
+        "name": "Nightfall",
+        "url": "https://open.spotify.com/album/4qs02AtQxPiPkklCBD7y8q"
+      },
+      "artists": [
+        {
+          "name": "Little Big Town",
+          "url": "https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv"
+        }
+      ],
+      "duration_ms": 196160,
+      "name": "Wine, Beer, Whiskey",
+      "url": "https://open.spotify.com/track/5avVDmK9FVJpd3MDO8I3Zl"
+    },
+    {
+      "added_at": "2023-09-22 04:01:00",
+      "album": {
         "name": "Platinum",
         "url": "https://open.spotify.com/album/4ZnIw6llQFlXcFgjMNtrTw"
       },
@@ -1015,22 +1047,6 @@
     {
       "added_at": "2023-09-22 04:01:00",
       "album": {
-        "name": "Honeysuckle & Lightning Bugs",
-        "url": "https://open.spotify.com/album/2oxv6Q0GYUkYqz2dhUKo12"
-      },
-      "artists": [
-        {
-          "name": "Blanco Brown",
-          "url": "https://open.spotify.com/artist/3yzRiNMZdTsSUgplcyYZ4i"
-        }
-      ],
-      "duration_ms": 200593,
-      "name": "The Git Up",
-      "url": "https://open.spotify.com/track/01tA4XmJ4fGQNwti6b2hPm"
-    },
-    {
-      "added_at": "2023-09-22 04:01:00",
-      "album": {
         "name": "Pawn Shop",
         "url": "https://open.spotify.com/album/6BId6JLmkyr9QC81RdUWqT"
       },
@@ -1043,22 +1059,6 @@
       "duration_ms": 335480,
       "name": "Stay A Little Longer",
       "url": "https://open.spotify.com/track/23EkfwUdsRIz7jAZIcC8gb"
-    },
-    {
-      "added_at": "2023-09-22 04:01:00",
-      "album": {
-        "name": "Nightfall",
-        "url": "https://open.spotify.com/album/4qs02AtQxPiPkklCBD7y8q"
-      },
-      "artists": [
-        {
-          "name": "Little Big Town",
-          "url": "https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv"
-        }
-      ],
-      "duration_ms": 196160,
-      "name": "Wine, Beer, Whiskey",
-      "url": "https://open.spotify.com/track/5avVDmK9FVJpd3MDO8I3Zl"
     },
     {
       "added_at": "2023-09-22 04:01:00",
@@ -1163,38 +1163,6 @@
     {
       "added_at": "2023-09-22 04:01:00",
       "album": {
-        "name": "Tangled Up",
-        "url": "https://open.spotify.com/album/4ykbJPI8MPscFzROE8dqLy"
-      },
-      "artists": [
-        {
-          "name": "Thomas Rhett",
-          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
-        }
-      ],
-      "duration_ms": 190733,
-      "name": "Crash and Burn",
-      "url": "https://open.spotify.com/track/2Fk0WwAqTBesLtKg97nojy"
-    },
-    {
-      "added_at": "2023-09-22 04:01:00",
-      "album": {
-        "name": "Summer Forever",
-        "url": "https://open.spotify.com/album/3OkqAak6KhIQExElXif7UW"
-      },
-      "artists": [
-        {
-          "name": "Billy Currington",
-          "url": "https://open.spotify.com/artist/1By9QBFnjZAoI83BZppHlt"
-        }
-      ],
-      "duration_ms": 189000,
-      "name": "Don't It",
-      "url": "https://open.spotify.com/track/4iLPK8QnOvqm0Azbsk2GDn"
-    },
-    {
-      "added_at": "2023-09-22 04:01:00",
-      "album": {
         "name": "Pawn Shop",
         "url": "https://open.spotify.com/album/6BId6JLmkyr9QC81RdUWqT"
       },
@@ -1207,6 +1175,22 @@
       "duration_ms": 216800,
       "name": "It Ain't My Fault",
       "url": "https://open.spotify.com/track/08wJ1B9yu9sPeoRa5fbpr3"
+    },
+    {
+      "added_at": "2023-09-22 04:01:00",
+      "album": {
+        "name": "Tangled Up",
+        "url": "https://open.spotify.com/album/4ykbJPI8MPscFzROE8dqLy"
+      },
+      "artists": [
+        {
+          "name": "Thomas Rhett",
+          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
+        }
+      ],
+      "duration_ms": 190733,
+      "name": "Crash and Burn",
+      "url": "https://open.spotify.com/track/2Fk0WwAqTBesLtKg97nojy"
     },
     {
       "added_at": "2023-09-22 04:01:00",
@@ -1227,22 +1211,6 @@
     {
       "added_at": "2023-09-22 04:01:00",
       "album": {
-        "name": "Rewind",
-        "url": "https://open.spotify.com/album/3yHHbz0wapmu6xF82vHkCU"
-      },
-      "artists": [
-        {
-          "name": "Rascal Flatts",
-          "url": "https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn"
-        }
-      ],
-      "duration_ms": 209280,
-      "name": "I Like The Sound Of That",
-      "url": "https://open.spotify.com/track/5S5rw0WLVCAux5B5bWCehK"
-    },
-    {
-      "added_at": "2023-09-22 04:01:00",
-      "album": {
         "name": "747",
         "url": "https://open.spotify.com/album/1JHNRou038CfCC0RZztDz8"
       },
@@ -1259,18 +1227,34 @@
     {
       "added_at": "2023-09-22 04:01:00",
       "album": {
-        "name": "From A Room: Volume 2",
-        "url": "https://open.spotify.com/album/24fkX2Gdqw4a6pR9BUYbE5"
+        "name": "Summer Forever",
+        "url": "https://open.spotify.com/album/3OkqAak6KhIQExElXif7UW"
       },
       "artists": [
         {
-          "name": "Chris Stapleton",
-          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
+          "name": "Billy Currington",
+          "url": "https://open.spotify.com/artist/1By9QBFnjZAoI83BZppHlt"
         }
       ],
-      "duration_ms": 179226,
-      "name": "Hard Livin'",
-      "url": "https://open.spotify.com/track/6SYasTzcB2CZlJfkEO7ZrS"
+      "duration_ms": 189000,
+      "name": "Don't It",
+      "url": "https://open.spotify.com/track/4iLPK8QnOvqm0Azbsk2GDn"
+    },
+    {
+      "added_at": "2023-09-22 04:01:00",
+      "album": {
+        "name": "Rewind",
+        "url": "https://open.spotify.com/album/3yHHbz0wapmu6xF82vHkCU"
+      },
+      "artists": [
+        {
+          "name": "Rascal Flatts",
+          "url": "https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn"
+        }
+      ],
+      "duration_ms": 209280,
+      "name": "I Like The Sound Of That",
+      "url": "https://open.spotify.com/track/5S5rw0WLVCAux5B5bWCehK"
     },
     {
       "added_at": "2023-09-22 04:01:00",
@@ -1291,6 +1275,22 @@
       "duration_ms": 193880,
       "name": "Just the Way",
       "url": "https://open.spotify.com/track/4h5OVQQbeqw3lNaFIbmlzG"
+    },
+    {
+      "added_at": "2023-09-22 04:01:00",
+      "album": {
+        "name": "From A Room: Volume 2",
+        "url": "https://open.spotify.com/album/24fkX2Gdqw4a6pR9BUYbE5"
+      },
+      "artists": [
+        {
+          "name": "Chris Stapleton",
+          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
+        }
+      ],
+      "duration_ms": 179226,
+      "name": "Hard Livin'",
+      "url": "https://open.spotify.com/track/6SYasTzcB2CZlJfkEO7ZrS"
     },
     {
       "added_at": "2023-09-22 04:01:00",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2023-09-22 04:01:00",
       "album": {
-        "name": "From A Room: Volume 2",
-        "url": "https://open.spotify.com/album/24fkX2Gdqw4a6pR9BUYbE5"
-      },
-      "artists": [
-        {
-          "name": "Chris Stapleton",
-          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
-        }
-      ],
-      "duration_ms": 222653,
-      "name": "Midnight Train To Memphis",
-      "url": "https://open.spotify.com/track/6tInq1Sn2eehdsQGA9Aafh"
-    },
-    {
-      "added_at": "2023-09-22 04:01:00",
-      "album": {
         "name": "Just As I Am (Platinum Edition)",
         "url": "https://open.spotify.com/album/5kdGRd8zK6m135zrjwG6il"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 185920,
       "name": "Pickin' Wildflowers",
       "url": "https://open.spotify.com/track/2GgIDaPLsowybB3WgxLWUj"
+    },
+    {
+      "added_at": "2023-09-22 04:01:00",
+      "album": {
+        "name": "From A Room: Volume 2",
+        "url": "https://open.spotify.com/album/24fkX2Gdqw4a6pR9BUYbE5"
+      },
+      "artists": [
+        {
+          "name": "Chris Stapleton",
+          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
+        }
+      ],
+      "duration_ms": 222653,
+      "name": "Midnight Train To Memphis",
+      "url": "https://open.spotify.com/track/6tInq1Sn2eehdsQGA9Aafh"
     },
     {
       "added_at": "2023-09-22 04:01:00",
@@ -1639,22 +1639,6 @@
     {
       "added_at": "2023-09-22 04:01:00",
       "album": {
-        "name": "Pick Me Up",
-        "url": "https://open.spotify.com/album/0AFaIppKjr2lO1pCjx1wK5"
-      },
-      "artists": [
-        {
-          "name": "Gabby Barrett",
-          "url": "https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL"
-        }
-      ],
-      "duration_ms": 169440,
-      "name": "Pick Me Up",
-      "url": "https://open.spotify.com/track/7xNYZeFtrB05pi9tc6lEeb"
-    },
-    {
-      "added_at": "2023-09-22 04:01:00",
-      "album": {
         "name": "HERO (Deluxe Edition)",
         "url": "https://open.spotify.com/album/4sSXylKcBB3p47VfrBJlfK"
       },
@@ -1667,6 +1651,22 @@
       "duration_ms": 211767,
       "name": "80s Mercedes",
       "url": "https://open.spotify.com/track/58spuRyMUsjKHQHEGwLC99"
+    },
+    {
+      "added_at": "2023-09-22 04:01:00",
+      "album": {
+        "name": "Pick Me Up",
+        "url": "https://open.spotify.com/album/0AFaIppKjr2lO1pCjx1wK5"
+      },
+      "artists": [
+        {
+          "name": "Gabby Barrett",
+          "url": "https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL"
+        }
+      ],
+      "duration_ms": 169440,
+      "name": "Pick Me Up",
+      "url": "https://open.spotify.com/track/7xNYZeFtrB05pi9tc6lEeb"
     },
     {
       "added_at": "2023-09-22 04:01:00",
@@ -1703,22 +1703,6 @@
     {
       "added_at": "2023-09-22 04:01:00",
       "album": {
-        "name": "Storyteller",
-        "url": "https://open.spotify.com/album/4q3SkZWPYJtKno1RbnrjL4"
-      },
-      "artists": [
-        {
-          "name": "Carrie Underwood",
-          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
-        }
-      ],
-      "duration_ms": 204093,
-      "name": "Dirty Laundry",
-      "url": "https://open.spotify.com/track/5qRRiqndqXaq2QBudIrkYU"
-    },
-    {
-      "added_at": "2023-09-22 04:01:00",
-      "album": {
         "name": "My Kinda Party",
         "url": "https://open.spotify.com/album/4DDsvEKPW32jeMEAqmOdjv"
       },
@@ -1735,18 +1719,18 @@
     {
       "added_at": "2023-09-22 04:01:00",
       "album": {
-        "name": "HERO (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4sSXylKcBB3p47VfrBJlfK"
+        "name": "Storyteller",
+        "url": "https://open.spotify.com/album/4q3SkZWPYJtKno1RbnrjL4"
       },
       "artists": [
         {
-          "name": "Maren Morris",
-          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
+          "name": "Carrie Underwood",
+          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
         }
       ],
-      "duration_ms": 208893,
-      "name": "Rich",
-      "url": "https://open.spotify.com/track/4H0vNUFcHPz5lytcLjwqkr"
+      "duration_ms": 204093,
+      "name": "Dirty Laundry",
+      "url": "https://open.spotify.com/track/5qRRiqndqXaq2QBudIrkYU"
     },
     {
       "added_at": "2023-09-22 04:01:00",
@@ -1763,6 +1747,22 @@
       "duration_ms": 224629,
       "name": "Days Go By",
       "url": "https://open.spotify.com/track/2jwaErbghhcia4JqUYWz3g"
+    },
+    {
+      "added_at": "2023-09-22 04:01:00",
+      "album": {
+        "name": "HERO (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4sSXylKcBB3p47VfrBJlfK"
+      },
+      "artists": [
+        {
+          "name": "Maren Morris",
+          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
+        }
+      ],
+      "duration_ms": 208893,
+      "name": "Rich",
+      "url": "https://open.spotify.com/track/4H0vNUFcHPz5lytcLjwqkr"
     },
     {
       "added_at": "2023-09-22 04:01:00",
@@ -1851,22 +1851,6 @@
     {
       "added_at": "2023-09-22 04:01:00",
       "album": {
-        "name": "Unstoppable",
-        "url": "https://open.spotify.com/album/6xDwYyGCOkD2t9GuBikEL8"
-      },
-      "artists": [
-        {
-          "name": "Rascal Flatts",
-          "url": "https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn"
-        }
-      ],
-      "duration_ms": 242026,
-      "name": "Summer Nights",
-      "url": "https://open.spotify.com/track/2F08d4KocfOdWhn7aK3gDI"
-    },
-    {
-      "added_at": "2023-09-22 04:01:00",
-      "album": {
         "name": "Carnival Ride",
         "url": "https://open.spotify.com/album/5HwzpaqYOZABPnmvl5JYFX"
       },
@@ -1879,6 +1863,22 @@
       "duration_ms": 241053,
       "name": "Last Name",
       "url": "https://open.spotify.com/track/44xWtabQzBHKXxD0UVLSNQ"
+    },
+    {
+      "added_at": "2023-09-22 04:01:00",
+      "album": {
+        "name": "Unstoppable",
+        "url": "https://open.spotify.com/album/6xDwYyGCOkD2t9GuBikEL8"
+      },
+      "artists": [
+        {
+          "name": "Rascal Flatts",
+          "url": "https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn"
+        }
+      ],
+      "duration_ms": 242026,
+      "name": "Summer Nights",
+      "url": "https://open.spotify.com/track/2F08d4KocfOdWhn7aK3gDI"
     },
     {
       "added_at": "2023-09-22 04:01:00",
@@ -1915,22 +1915,6 @@
     {
       "added_at": "2023-09-22 04:01:00",
       "album": {
-        "name": "Start Here",
-        "url": "https://open.spotify.com/album/3MpmJPwKgMQ6hkGVlRwOpj"
-      },
-      "artists": [
-        {
-          "name": "Maddie & Tae",
-          "url": "https://open.spotify.com/artist/34bhyY8jfKez7uKakMfy4y"
-        }
-      ],
-      "duration_ms": 217840,
-      "name": "Girl In A Country Song",
-      "url": "https://open.spotify.com/track/1GRiBe0kNCNYpjwCHIyynI"
-    },
-    {
-      "added_at": "2023-09-22 04:01:00",
-      "album": {
         "name": "Bettie James Gold Edition",
         "url": "https://open.spotify.com/album/4qLuvW8Tyfzr8c79VM531V"
       },
@@ -1947,6 +1931,22 @@
       "duration_ms": 212720,
       "name": "Freedom Was A Highway",
       "url": "https://open.spotify.com/track/5tcZx2mz64HvI6MKIYjXoD"
+    },
+    {
+      "added_at": "2023-09-22 04:01:00",
+      "album": {
+        "name": "Start Here",
+        "url": "https://open.spotify.com/album/3MpmJPwKgMQ6hkGVlRwOpj"
+      },
+      "artists": [
+        {
+          "name": "Maddie & Tae",
+          "url": "https://open.spotify.com/artist/34bhyY8jfKez7uKakMfy4y"
+        }
+      ],
+      "duration_ms": 217840,
+      "name": "Girl In A Country Song",
+      "url": "https://open.spotify.com/track/1GRiBe0kNCNYpjwCHIyynI"
     },
     {
       "added_at": "2023-09-22 04:01:00",
@@ -2223,6 +2223,22 @@
     {
       "added_at": "2023-09-22 04:01:00",
       "album": {
+        "name": "Backslider",
+        "url": "https://open.spotify.com/album/0iyg3QqROay2R4ejj8GBqP"
+      },
+      "artists": [
+        {
+          "name": "Elvie Shane",
+          "url": "https://open.spotify.com/artist/2eIB6vFotL2su94z3pUC1j"
+        }
+      ],
+      "duration_ms": 191765,
+      "name": "County Roads",
+      "url": "https://open.spotify.com/track/3cLJUuJRWBAP2k8LhWgONB"
+    },
+    {
+      "added_at": "2023-09-22 04:01:00",
+      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/51G8SmLrrbgrlBaUXUCBQ3"
       },
@@ -2251,22 +2267,6 @@
       "duration_ms": 162973,
       "name": "Love Is Real",
       "url": "https://open.spotify.com/track/73gI9hHi8wKYyNvoHFmH9C"
-    },
-    {
-      "added_at": "2023-09-22 04:01:00",
-      "album": {
-        "name": "Backslider",
-        "url": "https://open.spotify.com/album/0iyg3QqROay2R4ejj8GBqP"
-      },
-      "artists": [
-        {
-          "name": "Elvie Shane",
-          "url": "https://open.spotify.com/artist/2eIB6vFotL2su94z3pUC1j"
-        }
-      ],
-      "duration_ms": 191765,
-      "name": "County Roads",
-      "url": "https://open.spotify.com/track/3cLJUuJRWBAP2k8LhWgONB"
     },
     {
       "added_at": "2023-09-22 04:01:00",

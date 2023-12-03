@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtDSKIiDhua.md) - [plain]
 
 > Highlights of 2023, tracks of 2023 in mood\. playlist\. Cover: The Weeknd
 
-[Spotify](https://open.spotify.com/user/spotify) - 114,269 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 114,677 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtDSKIiDhua.md) - [plain]
 | 49 | [Window](https://open.spotify.com/track/2qn1uAB6zNn8iRZXNQDblO) | [Galdive](https://open.spotify.com/artist/0aMrhUHnOzfiPcMc2PGiaT) | [Window/Dormer](https://open.spotify.com/album/2NLaH3YHgILL6M4vrPhj7W) | 3:35 |
 | 50 | [Treasure](https://open.spotify.com/track/3dx3nDvoEOJNBDPp3a9qX2) | [Sabrina Soetomo](https://open.spotify.com/artist/3EveEev3WbVFqsjRDoeJAH) | [Treasure](https://open.spotify.com/album/4KyKNlMN009fmiilJm43yZ) | 3:43 |
 
-Snapshot ID: `MCw0MDk4MmY2ZTZkNTljODY0N2IxZjJkNDVkOTA3OWMyNTVhZTg3OWUz`
+Snapshot ID: `MCxiNWZhMmIzMTU0MWQ2ZTNkMzA5OWNhYjJhMDhjZWNjMTIwMDY0OGE3`

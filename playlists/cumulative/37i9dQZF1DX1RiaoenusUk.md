@@ -4,7 +4,7 @@
 
 > Música groovera, for the true Funk Soldiers!
 
-107 songs - 7 hr 12 min
+108 songs - 7 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [Alergica](https://open.spotify.com/track/29BXe34owrTnjMoF9EHfaG) | [Los Funktasticos Genitales](https://open.spotify.com/artist/4R74HSH7siBB8VjKf1dJN2) | [Los Funktasticos Genitales](https://open.spotify.com/album/2SsjQc8kaNFCK5awLHLS1b) | 3:56 | 2023-02-17 |  |
 | [Ameba](https://open.spotify.com/track/41stonr2yiLj8R7wZFehVe) | [Groovin' Bohemia](https://open.spotify.com/artist/2h61fAPumECGmmEmJPJkj1) | [Groovin' Bohemia](https://open.spotify.com/album/22N6SuZAlDTlvgUGbM9UUI) | 7:25 | 2023-02-17 |  |
 | [Amor Inocente](https://open.spotify.com/track/5Ua8g5V7j5ah5ieDeJHzNV) | [Antes de Nacer](https://open.spotify.com/artist/1TxWs211DxYPxHvI5bNqfo) | [Amor Inocente](https://open.spotify.com/album/7pWtehv340syIcZaXSZclR) | 3:47 | 2023-02-17 | 2023-09-10 |
-| [Ando Buscando](https://open.spotify.com/track/7nBwBoDKXzHVKwfmR4fiFk) | [Flor Lovaglio](https://open.spotify.com/artist/3ZeKtTdfEsMQX1SlnK5BWU) | [Ando Buscando](https://open.spotify.com/album/2tVhz3vgd1Ic2PpTH10SU1) | 3:26 | 2023-02-17 |  |
+| [Ando Buscando](https://open.spotify.com/track/7nBwBoDKXzHVKwfmR4fiFk) | [Flor Lovaglio](https://open.spotify.com/artist/3ZeKtTdfEsMQX1SlnK5BWU) | [Ando Buscando](https://open.spotify.com/album/2tVhz3vgd1Ic2PpTH10SU1) | 3:26 | 2023-02-17 | 2023-12-03 |
 | [Asterisco](https://open.spotify.com/track/2jfEG3HUT7tCsmQGRzBxL2) | [La Negra Nieves](https://open.spotify.com/artist/0RL00Y8FR6izezA58JczU8) | [La Negra Nieves](https://open.spotify.com/album/6sPBV1t4LgqATxFjb6VPpj) | 4:19 | 2023-02-17 |  |
 | [Back to Life](https://open.spotify.com/track/5ABGgarzrlJ7bebh8wzOvr) | [Willy Crook](https://open.spotify.com/artist/0OdeZASgfypHefnghEjCAD) | [Eco \(feat\. Funky Torinos\)](https://open.spotify.com/album/5iN5lxXt3Bxw0Pd8bEtiRH) | 4:46 | 2023-02-17 |  |
 | [Back up in Flames](https://open.spotify.com/track/7c4BwXfR0CeJFWZ5NTW0er) | [Jasper](https://open.spotify.com/artist/0NmftytUMCkRMchne8I3hG) | [Tangible](https://open.spotify.com/album/7t8qpiBzPSnclvgm7GmsgG) | 3:44 | 2023-02-17 |  |
@@ -75,6 +75,7 @@
 | [Lightning](https://open.spotify.com/track/00FsHXEI0mghYOXWCxLenP) | [Palta & the mood](https://open.spotify.com/artist/6gLZHR1lfosx4paq2mc6rH) | [Guacamole](https://open.spotify.com/album/3raZcKrCjK3p09mhwHw52N) | 4:39 | 2023-02-17 | 2023-09-21 |
 | [Lightning](https://open.spotify.com/track/3LBvCd7GSvDJYxeJpgcuAu) | [Palta & the mood](https://open.spotify.com/artist/6gLZHR1lfosx4paq2mc6rH) | [Guacamole](https://open.spotify.com/album/0gWvcOPucxJeLFuMuTzTUl) | 4:39 | 2023-09-07 |  |
 | [Liviano Como el Viento](https://open.spotify.com/track/3rtUCQlFu2MUoiqiLB4tGR) | [De Kiruza](https://open.spotify.com/artist/4xH9kppPFTwGTtty82ZDfX) | [Musica Pa'l Mundo](https://open.spotify.com/album/1fFE1eKtIxh4ILklmzLoiv) | 4:53 | 2023-02-17 |  |
+| [Maravilla](https://open.spotify.com/track/6bwFgTUrYUkxygFNsE0HP5) | [Los Jureles](https://open.spotify.com/artist/5FNSAxcE6F6d4HPSoEPUyC) | [Maravilla](https://open.spotify.com/album/0UfukyWOep54c9zpc3ukyx) | 4:00 | 2023-10-06 |  |
 | [Maybe I'm Leo](https://open.spotify.com/track/7gqKNXv1P6oN0KAXnjxsLW) | [Javier Malosetti](https://open.spotify.com/artist/0k0zJds09TLWzvBW9NoPqV) | [Envés](https://open.spotify.com/album/0Jm4WmRMz3UrUxr4llIcrK) | 6:18 | 2023-02-17 |  |
 | [Melodías](https://open.spotify.com/track/6FFVgXUdy3hQepL1FtjbVH) | [Monoson](https://open.spotify.com/artist/3d56fwrxkhDUwyTeV6g56A) | [Melodías](https://open.spotify.com/album/4KtxaUtnvHgtieeMvlA1Kj) | 3:05 | 2023-02-17 |  |
 | [Mi Propio Paraíso](https://open.spotify.com/track/3JYUCQOHCkbvnZLZjpRQxc) | [Acus](https://open.spotify.com/artist/39DDfcoTv0v0HoZY1ZoPWp), [Nico Cota](https://open.spotify.com/artist/3R7H5BnszTX4pYrBXOkmeR) | [Peluche Peligroso](https://open.spotify.com/album/32szAPsRimQbYpPl4Bvkfn) | 4:26 | 2023-02-17 |  |

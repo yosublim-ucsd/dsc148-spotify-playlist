@@ -314,7 +314,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-03",
       "duration_ms": 101342,
       "name": "ALORS BRAZIL",
       "url": "https://open.spotify.com/track/6c5u3KmfMlBxW7bFSLfGNV"
@@ -354,6 +354,24 @@
       "duration_ms": 101321,
       "name": "ALORS BRAZIL",
       "url": "https://open.spotify.com/track/0k9k2Mr1gR7zeSLiNAqimY"
+    },
+    {
+      "album": {
+        "name": "Furia",
+        "url": "https://open.spotify.com/album/5NxVF4lNc3gaphnhLyL456"
+      },
+      "artists": [
+        {
+          "name": "nwmoscar",
+          "url": "https://open.spotify.com/artist/3rl9ErAF7w9iachW5kebwu"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101408,
+      "name": "Alors Brazil",
+      "url": "https://open.spotify.com/track/7qVIgqZ6tmbjuLH3GrwaA3"
     },
     {
       "album": {
@@ -586,6 +604,24 @@
     {
       "album": {
         "name": "AREAMATE MIZ",
+        "url": "https://open.spotify.com/album/2rSCvCqIW9US2DOhd7U5QY"
+      },
+      "artists": [
+        {
+          "name": "Anar",
+          "url": "https://open.spotify.com/artist/4C5EDmZfgkkSwUVFSvuUNP"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 80294,
+      "name": "AREAMATE MIZ",
+      "url": "https://open.spotify.com/track/53UBdhRf5D42DSvw0WXM1a"
+    },
+    {
+      "album": {
+        "name": "AREAMATE MIZ",
         "url": "https://open.spotify.com/album/5zjPzj6uBC7cKbBehDtsqc"
       },
       "artists": [
@@ -632,7 +668,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-03",
       "duration_ms": 80300,
       "name": "AREAMATE MIZ",
       "url": "https://open.spotify.com/track/5tOuixKq2uczw2km4SOh3s"
@@ -7100,7 +7136,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-03",
       "duration_ms": 145147,
       "name": "MONTAGEM CORAL",
       "url": "https://open.spotify.com/track/7cE9DsAvDWlFXfnIAZ1RDG"
@@ -12100,6 +12136,24 @@
       "duration_ms": 145055,
       "name": "Vois",
       "url": "https://open.spotify.com/track/3skDAUY9XQGnGquOZnbdJD"
+    },
+    {
+      "album": {
+        "name": "Vois",
+        "url": "https://open.spotify.com/album/1hex3aXzhYCGgtWuJdQfl3"
+      },
+      "artists": [
+        {
+          "name": "TheExorcist",
+          "url": "https://open.spotify.com/artist/4RP2lKGYgYkC0TUiTT2JTR"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145055,
+      "name": "Vois",
+      "url": "https://open.spotify.com/track/3GMqqxQa1VMp3gOGcesm6j"
     },
     {
       "album": {

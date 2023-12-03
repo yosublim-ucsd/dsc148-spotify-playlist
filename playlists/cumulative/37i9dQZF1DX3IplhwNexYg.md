@@ -4,7 +4,7 @@
 
 > The best in current indie rock\. Cover: Etta Marcus
 
-512 songs - 1 day 4 hr 47 min
+513 songs - 1 day 4 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,6 +114,7 @@
 | [dazies](https://open.spotify.com/track/1WucOL2fl6kxq6qz1jIGDM) | [yeule](https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X) | [dazies](https://open.spotify.com/album/2FmsHWgWAxpHPztCGn4xip) | 4:24 | 2023-07-13 | 2023-11-11 |
 | [Dead Weight](https://open.spotify.com/track/2O79y6ji57voBvM8Qmhw21) | [The Grogans](https://open.spotify.com/artist/3LiQA7CeDBEpoWI0TNBJgv) | [Dead Weight](https://open.spotify.com/album/1tL8iCIxXRoAeTYm6Kdgd2) | 3:43 | 2021-03-09 | 2022-01-17 |
 | [Deep](https://open.spotify.com/track/1Qd0jDJKlgBTuCNqlM4GWO) | [ARXX](https://open.spotify.com/artist/1pQ8qfxpuRJKEUFPGrf6Uc) | [Deep](https://open.spotify.com/album/3UVA6Nxe9gBBRVmbZwwIld) | 3:00 | 2021-03-19 | 2022-01-17 |
+| [Deep Diving](https://open.spotify.com/track/7mZqRLdsQ9zircq53qyW0z) | [The Snuts](https://open.spotify.com/artist/4AzAfQNuAyKOFG4DZMsdAo) | [Deep Diving](https://open.spotify.com/album/6jtHcOL3d6JKURexonnmRX) | 2:59 | 2023-12-01 |  |
 | [Deep End \(Paul’s in Pieces\)](https://open.spotify.com/track/5QD7OqeRVdpFys4QZ3UxeS) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [Laugh Track](https://open.spotify.com/album/7re8T0K3s8v3S3xeiQcOYi) | 4:29 | 2023-09-29 |  |
 | [Designated Driver](https://open.spotify.com/track/73u0xUD9Aag0hI1d2d0VU5) | [Motel Marys](https://open.spotify.com/artist/1mLFRG2MVmK7pRIoPTSRcj) | [Designated Driver](https://open.spotify.com/album/0MQ37Z3Hnkd1KhOHAhCkcH) | 2:35 | 2021-03-09 | 2022-01-17 |
 | [Devotion](https://open.spotify.com/track/6w6gCLDgv4L5AJtVDJNddn) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Devotion](https://open.spotify.com/album/1HEiOzOCnTP6rWQ8i5FskF) | 2:45 | 2023-05-25 | 2023-10-13 |
@@ -351,7 +352,7 @@
 | [Popular \(feat\. Matthew Caws of Nada Surf\)](https://open.spotify.com/track/5ppPV0hCtwt5TMTKF1xY57) | [Pom Pom Squad](https://open.spotify.com/artist/1yhTALwId0bpL1U1XRT3Zs), [Nada Surf](https://open.spotify.com/artist/11zHPjHnZN0ACA50rSnTcy), [Matthew Caws](https://open.spotify.com/artist/2euOhDrnToDMpxBiCPf72Z) | [Popular \(feat\. Matthew Caws of Nada Surf\)](https://open.spotify.com/album/7nvPKeZxfHFgbKTrRWqvCo) | 3:26 | 2022-01-17 | 2022-08-19 |
 | [Portrait of a Blank Slate](https://open.spotify.com/track/7505qe0xzCuDPaILCURnOC) | [Lovejoy](https://open.spotify.com/artist/33tFkBLsl6f8TjKkV0uF0C) | [Wake Up & It's Over](https://open.spotify.com/album/5LHuQr88XpvvuGpqgsu2gr) | 3:47 | 2023-05-18 |  |
 | [Praise You](https://open.spotify.com/track/5zFlp5CJqy3NPOYF1FXEYF) | [Afflecks Palace](https://open.spotify.com/artist/4IPPxhNko81s8pZsgyYhYW) | [Praise You](https://open.spotify.com/album/0FLyhyx0Ui5m8esZnPE6Qi) | 3:10 | 2022-08-18 | 2022-11-18 |
-| [Prophecy of the Dragon](https://open.spotify.com/track/6sDP5eAl2X2VZXc6vQfRJM) | [The Voidz](https://open.spotify.com/artist/4nUBBtLtzqZGpdiynTJbYJ) | [Prophecy of the Dragon](https://open.spotify.com/album/2vgY7kyz9brbPUKBE6DAqs) | 4:53 | 2023-05-25 |  |
+| [Prophecy of the Dragon](https://open.spotify.com/track/6sDP5eAl2X2VZXc6vQfRJM) | [The Voidz](https://open.spotify.com/artist/4nUBBtLtzqZGpdiynTJbYJ) | [Prophecy of the Dragon](https://open.spotify.com/album/2vgY7kyz9brbPUKBE6DAqs) | 4:53 | 2023-05-25 | 2023-12-03 |
 | [Punk Rock Loser](https://open.spotify.com/track/2pqoh1jUQoppztoQRRGyKK) | [Viagra Boys](https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg) | [Cave World](https://open.spotify.com/album/2IC2TP7bnwkfl56vjabLQt) | 3:57 | 2022-08-18 |  |
 | [Purple](https://open.spotify.com/track/01WnKRbZWhZaiF5YfOVJoz) | [Wunderhorse](https://open.spotify.com/artist/41pd7r1XBRsvdxY3vHEgib) | [Cub](https://open.spotify.com/album/1QNeya5YNW3oiuUi7B54y7) | 3:22 | 2022-10-06 |  |
 | [R Entertainment](https://open.spotify.com/track/2FL3nYZ8T0HmluyJx83FEL) | [Sports Team](https://open.spotify.com/artist/04JIxSs2P0iteVWtaskfeh) | [R Entertainment](https://open.spotify.com/album/32RAzHZGl1TmEx6C24Cd5X) | 3:08 | 2022-04-01 | 2022-08-19 |

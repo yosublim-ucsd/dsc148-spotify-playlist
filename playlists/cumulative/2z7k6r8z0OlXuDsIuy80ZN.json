@@ -291,6 +291,24 @@
     },
     {
       "album": {
+        "name": "b.o.b.o.",
+        "url": "https://open.spotify.com/album/2FdIPbrSPyPEL9jKup9KQC"
+      },
+      "artists": [
+        {
+          "name": "Paula Koops",
+          "url": "https://open.spotify.com/artist/3jDSE2qvShLf8DbYmseNW0"
+        }
+      ],
+      "date_added": "2023-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142406,
+      "name": "b.o.b.o.",
+      "url": "https://open.spotify.com/track/0aHqflgjBiuNWvFJw2MhoQ"
+    },
+    {
+      "album": {
         "name": "Baby Don't Hurt Me",
         "url": "https://open.spotify.com/album/327tc3Eruk1HP1w62iqROy"
       },
@@ -2764,7 +2782,7 @@
       ],
       "date_added": "2023-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-03",
       "duration_ms": 202184,
       "name": "Nochentera",
       "url": "https://open.spotify.com/track/20CozgjF6bshBw8cLhN23B"

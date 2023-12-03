@@ -4,7 +4,7 @@
 
 > These are the songs that shape <a href="https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy?si=ead57c8c75c94c3a">PVRIS'</a> alternative spirit\. Check out the latest COUNTER//CULTURE mixtape <a href="https://open.spotify.com/playlist/37i9dQZF1DX9n1dvGkpvfI"> here</a>.
 
-33 songs - 1 hr 46 min
+34 songs - 1 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,8 @@
 | [Dumbest Girl Alive](https://open.spotify.com/track/0qMZXgcLfkl5RI3q50KHMH) | [100 gecs](https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3) | [10,000 gecs](https://open.spotify.com/album/2XS5McKf3zdJWpcZ4OkZPZ) | 2:17 | 2023-07-14 |  |
 | [fitt \(with Amaarae\)](https://open.spotify.com/track/313idFpUfl9mhf3KZOHDPE) | [Dua Saleh](https://open.spotify.com/artist/2DGBzoOLcKLK3eWxFyugdB), [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [CROSSOVER \(Deluxe\)](https://open.spotify.com/album/3blh2LrECEQA15PwechWtO) | 3:36 | 2023-07-14 |  |
 | [God Is a Circle](https://open.spotify.com/track/596pY5JqwSgSqM8cA4A0rg) | [Yves Tumor](https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS) | [Praise A Lord Who Chews But Which Does Not Consume; \(Or Simply, Hot Between Worlds\)](https://open.spotify.com/album/5LIlFbWpjACyQFNW0nYvUC) | 3:32 | 2023-07-14 |  |
-| [GODDESS](https://open.spotify.com/track/2Yyf3awGJQnm70qSVoA9In) | [PVRIS](https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy) | [GODDESS](https://open.spotify.com/album/33oQ9C3SzYpP9d21X3BAkl) | 2:32 | 2023-07-14 |  |
+| [GODDESS](https://open.spotify.com/track/1ZngTOTM9nWJZOnG3vWkUF) | [PVRIS](https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy) | [EVERGREEN](https://open.spotify.com/album/4CLLPZzm1QDzUZ8FTkNPyy) | 2:32 | 2023-08-04 |  |
+| [GODDESS](https://open.spotify.com/track/2Yyf3awGJQnm70qSVoA9In) | [PVRIS](https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy) | [GODDESS](https://open.spotify.com/album/33oQ9C3SzYpP9d21X3BAkl) | 2:32 | 2023-07-14 | 2023-12-03 |
 | [Joy](https://open.spotify.com/track/0yKLTbW4G4oF5y3Cd3x9bu) | [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz) | [Is This Desire?](https://open.spotify.com/album/1LQlpOjLrnNvsqg6tosrYD) | 3:40 | 2023-07-14 |  |
 | [Keep It Tucked](https://open.spotify.com/track/1EdQCb51lC8usq47IMhADP) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [Keep It Tucked](https://open.spotify.com/album/0hiHeuhf5lqyeDbfCb7SQY) | 2:53 | 2023-07-14 |  |
 | [LEGEND](https://open.spotify.com/track/1E1opYkGrFzzJnHyVHDZvq) | [Alice Longyu Gao](https://open.spotify.com/artist/5HvKzBgj4yphQfBJjBJrhL), [Alice Glass](https://open.spotify.com/artist/4ukk0IyB7vL97QirpOcNr3) | [LEGEND](https://open.spotify.com/album/4eLLKhnfVgXbNeiZfKXWfb) | 2:37 | 2023-07-14 |  |

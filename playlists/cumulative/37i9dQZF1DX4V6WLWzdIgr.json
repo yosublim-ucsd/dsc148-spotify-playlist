@@ -610,6 +610,24 @@
     {
       "album": {
         "name": "Loro Ati Sejak Dini",
+        "url": "https://open.spotify.com/album/1cWsE4b3euHysg7MkSsIaW"
+      },
+      "artists": [
+        {
+          "name": "Evan Loss",
+          "url": "https://open.spotify.com/artist/4mzKYnv5GDC0hsEwcnJdjo"
+        }
+      ],
+      "date_added": "2023-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284674,
+      "name": "Loro Ati Sejak Dini",
+      "url": "https://open.spotify.com/track/03Ct1Mmyvj0f0Eg5Jk6ULp"
+    },
+    {
+      "album": {
+        "name": "Loro Ati Sejak Dini",
         "url": "https://open.spotify.com/album/69mI0XVoKizAkiULAx4FLj"
       },
       "artists": [
@@ -620,7 +638,7 @@
       ],
       "date_added": "2023-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-03",
       "duration_ms": 284674,
       "name": "Loro Ati Sejak Dini",
       "url": "https://open.spotify.com/track/0oUVBZrnc8S6qJEA8uH1On"
@@ -772,6 +790,24 @@
     {
       "album": {
         "name": "Nemen (Hiphop Dangdut Version)",
+        "url": "https://open.spotify.com/album/11lUbzZyDxoBy4yJYASpQy"
+      },
+      "artists": [
+        {
+          "name": "NDX A.K.A.",
+          "url": "https://open.spotify.com/artist/1IDBhlpDyKr53UKKxXRHXD"
+        }
+      ],
+      "date_added": "2023-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274879,
+      "name": "Nemen - Hiphop Dangdut Version",
+      "url": "https://open.spotify.com/track/3Q6DjwdB1gfLJMq1xkGov9"
+    },
+    {
+      "album": {
+        "name": "Nemen (Hiphop Dangdut Version)",
         "url": "https://open.spotify.com/album/7MpDfyRq8fXGiIQi2ownvc"
       },
       "artists": [
@@ -782,7 +818,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-03",
       "duration_ms": 274879,
       "name": "Nemen - Hiphop Dangdut Version",
       "url": "https://open.spotify.com/track/6UoW3rtYmYB6DE5xzNors8"

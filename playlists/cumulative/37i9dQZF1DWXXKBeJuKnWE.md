@@ -4,7 +4,7 @@
 
 > The home for heavy rockers\. Cover: Trash Boat
 
-254 songs - 15 hr 28 min
+255 songs - 15 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,8 @@
 | [Bite Through My Tongue](https://open.spotify.com/track/1cPGuicrSNjZhIocQaRNOV) | [Casey](https://open.spotify.com/artist/7KqVvL7NOdUWyQg2B63cck) | [Bite Through My Tongue](https://open.spotify.com/album/5JkNcCBmKSAkTR4fDllwhm) | 3:28 | 2023-12-01 |  |
 | [Black Sheep](https://open.spotify.com/track/0phSq8JjgvNlRmFaGDbmlh) | [Crown The Empire](https://open.spotify.com/artist/2vKiJjsgjgqIECUyYeIVvO) | [DOGMA](https://open.spotify.com/album/6TPRyXWXQuVfgmOO14xRno) | 3:52 | 2023-10-13 |  |
 | [Black Sheep](https://open.spotify.com/track/2izSnazOLEjr2N8ioPj2tQ) | [Crown The Empire](https://open.spotify.com/artist/2vKiJjsgjgqIECUyYeIVvO) | [Black Sheep](https://open.spotify.com/album/7dOV7dlS4FDKXpWp4TdCoX) | 3:52 | 2023-07-25 | 2023-11-05 |
-| [BLOODPUDDLE](https://open.spotify.com/track/4cbmaakH3pHNNBn4oYhxgO) | [Siiickbrain](https://open.spotify.com/artist/1oPEr1Ci8sWOYj8SSh2VPE) | [BLOODPUDDLE](https://open.spotify.com/album/1ECcVLJb9ksKW15h4Slulo) | 1:54 | 2023-07-25 |  |
+| [BLOOD PUDDLE](https://open.spotify.com/track/5kkeXjTwDKrMJdpXA2nFZq) | [Siiickbrain](https://open.spotify.com/artist/1oPEr1Ci8sWOYj8SSh2VPE) | [BLOOD PUDDLE](https://open.spotify.com/album/5DfUyG3nyxRRKOzj5hV4PU) | 1:54 | 2023-12-01 |  |
+| [BLOODPUDDLE](https://open.spotify.com/track/4cbmaakH3pHNNBn4oYhxgO) | [Siiickbrain](https://open.spotify.com/artist/1oPEr1Ci8sWOYj8SSh2VPE) | [BLOODPUDDLE](https://open.spotify.com/album/1ECcVLJb9ksKW15h4Slulo) | 1:54 | 2023-07-25 | 2023-12-03 |
 | [Bloodshot](https://open.spotify.com/track/0eyaXlEiQOmUyQo0PC0PpT) | [Enter Shikari](https://open.spotify.com/artist/31jvzuB4ikftPQZJwrYfCF) | [Bloodshot](https://open.spotify.com/album/2ZGm33efqRup92vVIxh1kw) | 3:24 | 2023-03-17 | 2023-03-25 |
 | [Bloodsuckers](https://open.spotify.com/track/2vbixTLaxeZetGfoKx3Yl1) | [Saint Agnes](https://open.spotify.com/artist/7c7LKkvEU9xLPyFmvV4njL) | [BLOODSUCKERS](https://open.spotify.com/album/78xfo3XQBKNBUzHXuXVYOb) | 3:22 | 2023-07-25 |  |
 | [Bloody Knuckles](https://open.spotify.com/track/1cAmibBZfF14IvY7MA0lDA) | [Sleeping With Sirens](https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA) | [Complete Collapse](https://open.spotify.com/album/1gWJtOk76VzVKiIKp1cCtd) | 3:27 | 2022-11-10 | 2023-02-20 |

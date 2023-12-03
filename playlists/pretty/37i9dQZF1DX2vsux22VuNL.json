@@ -1,12 +1,12 @@
 {
   "description": "Aquele som que \u00e9 pura brisa. \ud83c\udf43 Foto: Thiaguinho, L7NNON",
-  "num_followers": 292195,
+  "num_followers": 292222,
   "original_name": "brisa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MzAyYzUwNzI2MTEzMGU2NDU2ZmMyMTZiOGQ0MjI3NDY5MTc3ZGY1",
+  "snapshot_id": "MCxkNGVmMDA5M2Q4OTEwMzdjNWE2NDcwNzQ5MWU4Yjk1MDQ4MzI0MTBh",
   "tracks": [
     {
       "added_at": "2023-12-01 03:00:00",
@@ -603,18 +603,30 @@
     {
       "added_at": "2023-12-01 03:00:00",
       "album": {
-        "name": "Deixe-me Ir",
-        "url": "https://open.spotify.com/album/3d1coC12sf3UK6tzth5tiw"
+        "name": "Ac\u00fastico Canc\u00fan",
+        "url": "https://open.spotify.com/album/3l7i7Bku7mWVjTv0xyAmso"
       },
       "artists": [
         {
           "name": "Xam\u00e3",
           "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
+        },
+        {
+          "name": "Bagua Records",
+          "url": "https://open.spotify.com/artist/2450WxbFxHjnttFAv31zGk"
+        },
+        {
+          "name": "Gustah",
+          "url": "https://open.spotify.com/artist/0nzfP49X2nrzmmkwZf180L"
+        },
+        {
+          "name": "Irineu Bars\u00e9",
+          "url": "https://open.spotify.com/artist/0Q21K4tXniCV81hKaCkmaf"
         }
       ],
-      "duration_ms": 219534,
-      "name": "Deixe-me Ir",
-      "url": "https://open.spotify.com/track/18aw3zpdoRkQU9du7iE8kD"
+      "duration_ms": 212000,
+      "name": "Uma Linda Mulher - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/3tiNQKkPzqjLchoM3w0OxI"
     },
     {
       "added_at": "2023-12-01 03:00:00",
@@ -819,50 +831,18 @@
     {
       "added_at": "2023-12-01 03:00:00",
       "album": {
-        "name": "Ac\u00fastico Canc\u00fan",
-        "url": "https://open.spotify.com/album/3l7i7Bku7mWVjTv0xyAmso"
+        "name": "Deixe-me Ir",
+        "url": "https://open.spotify.com/album/3d1coC12sf3UK6tzth5tiw"
       },
       "artists": [
         {
           "name": "Xam\u00e3",
           "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
-        },
-        {
-          "name": "Bagua Records",
-          "url": "https://open.spotify.com/artist/2450WxbFxHjnttFAv31zGk"
-        },
-        {
-          "name": "Gustah",
-          "url": "https://open.spotify.com/artist/0nzfP49X2nrzmmkwZf180L"
-        },
-        {
-          "name": "Irineu Bars\u00e9",
-          "url": "https://open.spotify.com/artist/0Q21K4tXniCV81hKaCkmaf"
         }
       ],
-      "duration_ms": 212000,
-      "name": "Uma Linda Mulher - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/3tiNQKkPzqjLchoM3w0OxI"
-    },
-    {
-      "added_at": "2023-12-01 03:00:00",
-      "album": {
-        "name": "Sem Vergonha",
-        "url": "https://open.spotify.com/album/5OmacBr1VxnghnaYmSEbQB"
-      },
-      "artists": [
-        {
-          "name": "Lukinhas",
-          "url": "https://open.spotify.com/artist/0vsOB7tW4ItHtdZBzKQZxp"
-        },
-        {
-          "name": "Chris MC",
-          "url": "https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY"
-        }
-      ],
-      "duration_ms": 184399,
-      "name": "Sem Vergonha",
-      "url": "https://open.spotify.com/track/44taOjLEDoAWRZ7qxKzJVP"
+      "duration_ms": 219534,
+      "name": "Deixe-me Ir",
+      "url": "https://open.spotify.com/track/18aw3zpdoRkQU9du7iE8kD"
     },
     {
       "added_at": "2023-12-01 03:00:00",
@@ -887,6 +867,26 @@
       "duration_ms": 223448,
       "name": "Eu vim pra Somar",
       "url": "https://open.spotify.com/track/5CZXwIoZKIji8dNP0yy5L0"
+    },
+    {
+      "added_at": "2023-12-01 03:00:00",
+      "album": {
+        "name": "Sem Vergonha",
+        "url": "https://open.spotify.com/album/5OmacBr1VxnghnaYmSEbQB"
+      },
+      "artists": [
+        {
+          "name": "Lukinhas",
+          "url": "https://open.spotify.com/artist/0vsOB7tW4ItHtdZBzKQZxp"
+        },
+        {
+          "name": "Chris MC",
+          "url": "https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY"
+        }
+      ],
+      "duration_ms": 184399,
+      "name": "Sem Vergonha",
+      "url": "https://open.spotify.com/track/44taOjLEDoAWRZ7qxKzJVP"
     },
     {
       "added_at": "2023-12-01 03:00:00",
@@ -1063,22 +1063,22 @@
     {
       "added_at": "2023-12-01 03:00:00",
       "album": {
-        "name": "FOME",
-        "url": "https://open.spotify.com/album/7xuIwJhjqGszdjDiSSVHn2"
+        "name": "Por Isso Me Liga",
+        "url": "https://open.spotify.com/album/7E8sreIOIJeKUHj72Qmmsh"
       },
       "artists": [
         {
-          "name": "Amanda Coronha",
-          "url": "https://open.spotify.com/artist/49mOrWygxJo6j4ALdrVX6z"
+          "name": "Ol\u00edvia",
+          "url": "https://open.spotify.com/artist/2ujvd2c3fhWYQAzC9mT8UQ"
         },
         {
-          "name": "FP do Trem Bala",
-          "url": "https://open.spotify.com/artist/5hPHLE5ssifxHX5bhK8iXR"
+          "name": "Go Dassisti",
+          "url": "https://open.spotify.com/artist/6dHnnLJitCxdFTt9QmSQ8G"
         }
       ],
-      "duration_ms": 169868,
-      "name": "FOME",
-      "url": "https://open.spotify.com/track/1tH8mey9VPQl2fIQCXWNb9"
+      "duration_ms": 219168,
+      "name": "Por Isso Me Liga",
+      "url": "https://open.spotify.com/track/3uzwO1NH7TP6ftntaRGTYO"
     },
     {
       "added_at": "2023-12-01 03:00:00",
@@ -1127,22 +1127,22 @@
     {
       "added_at": "2023-12-01 03:00:00",
       "album": {
-        "name": "Por Isso Me Liga",
-        "url": "https://open.spotify.com/album/7E8sreIOIJeKUHj72Qmmsh"
+        "name": "FOME",
+        "url": "https://open.spotify.com/album/7xuIwJhjqGszdjDiSSVHn2"
       },
       "artists": [
         {
-          "name": "Ol\u00edvia",
-          "url": "https://open.spotify.com/artist/2ujvd2c3fhWYQAzC9mT8UQ"
+          "name": "Amanda Coronha",
+          "url": "https://open.spotify.com/artist/49mOrWygxJo6j4ALdrVX6z"
         },
         {
-          "name": "Go Dassisti",
-          "url": "https://open.spotify.com/artist/6dHnnLJitCxdFTt9QmSQ8G"
+          "name": "FP do Trem Bala",
+          "url": "https://open.spotify.com/artist/5hPHLE5ssifxHX5bhK8iXR"
         }
       ],
-      "duration_ms": 219168,
-      "name": "Por Isso Me Liga",
-      "url": "https://open.spotify.com/track/3uzwO1NH7TP6ftntaRGTYO"
+      "duration_ms": 169868,
+      "name": "FOME",
+      "url": "https://open.spotify.com/track/1tH8mey9VPQl2fIQCXWNb9"
     },
     {
       "added_at": "2023-12-01 03:00:00",
@@ -1167,26 +1167,6 @@
     {
       "added_at": "2023-12-01 03:00:00",
       "album": {
-        "name": "Freedom",
-        "url": "https://open.spotify.com/album/0Ze1e8yP0nQBmJpgr1DPrT"
-      },
-      "artists": [
-        {
-          "name": "YO\u00d9N",
-          "url": "https://open.spotify.com/artist/42nEiwAAE2ypWbygM9iyJi"
-        },
-        {
-          "name": "Luccas Carlos",
-          "url": "https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy"
-        }
-      ],
-      "duration_ms": 218048,
-      "name": "Freedom",
-      "url": "https://open.spotify.com/track/1900JESfRMYU1a35cFlqEm"
-    },
-    {
-      "added_at": "2023-12-01 03:00:00",
-      "album": {
         "name": "O Agora",
         "url": "https://open.spotify.com/album/2WWfpmd4ixsB2plCwPRsmC"
       },
@@ -1207,6 +1187,26 @@
       "duration_ms": 194730,
       "name": "O Agora",
       "url": "https://open.spotify.com/track/2h3rxJbIftSJCyIvae7rCU"
+    },
+    {
+      "added_at": "2023-12-01 03:00:00",
+      "album": {
+        "name": "Freedom",
+        "url": "https://open.spotify.com/album/0Ze1e8yP0nQBmJpgr1DPrT"
+      },
+      "artists": [
+        {
+          "name": "YO\u00d9N",
+          "url": "https://open.spotify.com/artist/42nEiwAAE2ypWbygM9iyJi"
+        },
+        {
+          "name": "Luccas Carlos",
+          "url": "https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy"
+        }
+      ],
+      "duration_ms": 218048,
+      "name": "Freedom",
+      "url": "https://open.spotify.com/track/1900JESfRMYU1a35cFlqEm"
     },
     {
       "added_at": "2023-12-01 03:00:00",
@@ -1331,6 +1331,22 @@
     {
       "added_at": "2023-12-01 03:00:00",
       "album": {
+        "name": "T\u00e1 Fod*",
+        "url": "https://open.spotify.com/album/6lProWEld2RgXzXN30KI1N"
+      },
+      "artists": [
+        {
+          "name": "Afrocidade",
+          "url": "https://open.spotify.com/artist/1kbDI5eg73ftGzwOf4OKZL"
+        }
+      ],
+      "duration_ms": 181647,
+      "name": "T\u00e1 Fod*",
+      "url": "https://open.spotify.com/track/3soB2fp5V9KVxQM6BZ6JIg"
+    },
+    {
+      "added_at": "2023-12-01 03:00:00",
+      "album": {
         "name": "CULPADO",
         "url": "https://open.spotify.com/album/1iHh6gAh0swarbFrU3gvie"
       },
@@ -1359,22 +1375,6 @@
       "duration_ms": 147025,
       "name": "Nenhuma Outra Mulher",
       "url": "https://open.spotify.com/track/1lFeq37jm49qbR95O2pbGt"
-    },
-    {
-      "added_at": "2023-12-01 03:00:00",
-      "album": {
-        "name": "T\u00e1 Fod*",
-        "url": "https://open.spotify.com/album/6lProWEld2RgXzXN30KI1N"
-      },
-      "artists": [
-        {
-          "name": "Afrocidade",
-          "url": "https://open.spotify.com/artist/1kbDI5eg73ftGzwOf4OKZL"
-        }
-      ],
-      "duration_ms": 181647,
-      "name": "T\u00e1 Fod*",
-      "url": "https://open.spotify.com/track/3soB2fp5V9KVxQM6BZ6JIg"
     },
     {
       "added_at": "2023-12-01 03:00:00",
@@ -1563,26 +1563,6 @@
     {
       "added_at": "2023-12-01 03:00:00",
       "album": {
-        "name": "Seu Z\u00e9",
-        "url": "https://open.spotify.com/album/7s3KnsNmFhgSyUxhfLcS3N"
-      },
-      "artists": [
-        {
-          "name": "Gu",
-          "url": "https://open.spotify.com/artist/08vwQJxPdhUyPBxT4Tf0cS"
-        },
-        {
-          "name": "IVYO",
-          "url": "https://open.spotify.com/artist/3HbuQbAHMPwBb4mQyNllCa"
-        }
-      ],
-      "duration_ms": 136430,
-      "name": "Seu Z\u00e9",
-      "url": "https://open.spotify.com/track/7uZm4WI4OqH25LFlNobiff"
-    },
-    {
-      "added_at": "2023-12-01 03:00:00",
-      "album": {
         "name": "Jeito Doce",
         "url": "https://open.spotify.com/album/3566q2civxcN8c7gx8TiJe"
       },
@@ -1603,6 +1583,26 @@
       "duration_ms": 182500,
       "name": "Jeito Doce",
       "url": "https://open.spotify.com/track/4QoYhyxLJ8HveJPflDIGhP"
+    },
+    {
+      "added_at": "2023-12-01 03:00:00",
+      "album": {
+        "name": "Seu Z\u00e9",
+        "url": "https://open.spotify.com/album/7s3KnsNmFhgSyUxhfLcS3N"
+      },
+      "artists": [
+        {
+          "name": "Gu",
+          "url": "https://open.spotify.com/artist/08vwQJxPdhUyPBxT4Tf0cS"
+        },
+        {
+          "name": "IVYO",
+          "url": "https://open.spotify.com/artist/3HbuQbAHMPwBb4mQyNllCa"
+        }
+      ],
+      "duration_ms": 136430,
+      "name": "Seu Z\u00e9",
+      "url": "https://open.spotify.com/track/7uZm4WI4OqH25LFlNobiff"
     },
     {
       "added_at": "2023-12-01 03:00:00",

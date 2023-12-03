@@ -1,12 +1,12 @@
 {
   "description": "Warm tunes to get you in the snuggle spirit, la fogata y el chocolate caliente son opcionales.",
-  "num_followers": 2654,
+  "num_followers": 2687,
   "original_name": "cozied up",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwOGMwODc1ZTMzYzBmNTFiZDY2MDViMDhhOTM0NzhhYzUwODY3Y2Mx",
+  "snapshot_id": "MCw2NjdjYzk4Y2YyOGJhYWViZGQ4ZTY2NTJlN2M3YmM0NjkwOTNlZGEx",
   "tracks": [
     {
       "added_at": "2023-11-22 17:10:02",
@@ -687,22 +687,6 @@
     {
       "added_at": "2023-11-22 17:10:02",
       "album": {
-        "name": "Medianoche",
-        "url": "https://open.spotify.com/album/3XCI5ZjZMArpKdOcyqVFZL"
-      },
-      "artists": [
-        {
-          "name": "La Isla Centeno",
-          "url": "https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Un Ratito",
-      "url": "https://open.spotify.com/track/6B5qbGyX9UPkdWJIkJlfnP"
-    },
-    {
-      "added_at": "2023-11-22 17:10:02",
-      "album": {
         "name": "Todos A Belen",
         "url": "https://open.spotify.com/album/54YLqTx1NcuQUkVARYdIBQ"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 221960,
       "name": "Ven A Mi Casa Esta Navidad",
       "url": "https://open.spotify.com/track/6mYn2tAQD0LmwqplaMbXhg"
+    },
+    {
+      "added_at": "2023-11-22 17:10:02",
+      "album": {
+        "name": "Medianoche",
+        "url": "https://open.spotify.com/album/3XCI5ZjZMArpKdOcyqVFZL"
+      },
+      "artists": [
+        {
+          "name": "La Isla Centeno",
+          "url": "https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Un Ratito",
+      "url": "https://open.spotify.com/track/6B5qbGyX9UPkdWJIkJlfnP"
     },
     {
       "added_at": "2023-11-22 17:10:02",
@@ -819,18 +819,18 @@
     {
       "added_at": "2023-11-22 17:10:02",
       "album": {
-        "name": "Si Te Soy Sincera",
-        "url": "https://open.spotify.com/album/70uZwbL7dkxlCxuYhNmrSS"
+        "name": "Noche De Paz",
+        "url": "https://open.spotify.com/album/2kyvfy3mtO5wR6o5P3ccx5"
       },
       "artists": [
         {
-          "name": "Valentina Rico",
-          "url": "https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d"
+          "name": "Dylan Suarez",
+          "url": "https://open.spotify.com/artist/1MgheGbvBpOtOTin9SVocs"
         }
       ],
-      "duration_ms": 201861,
-      "name": "Sagitario",
-      "url": "https://open.spotify.com/track/1jvRSXvGCUXD545RQJ3FcR"
+      "duration_ms": 195988,
+      "name": "Noche De Paz",
+      "url": "https://open.spotify.com/track/3XAQFFGDftEG4PXwfusXkX"
     }
   ],
   "unique_name": "cozied up",

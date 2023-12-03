@@ -1,12 +1,12 @@
 {
   "description": "100% Pinoy hits from your favorite artists! Cover: Sarah Geronimo",
-  "num_followers": 2441244,
+  "num_followers": 2441792,
   "original_name": "OPM Favorites",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZDI2YWQ5MTE5MTJkMzY2MDg2Nzg5NGUxOTgwZTYwN2Q2NmY1NWE2",
+  "snapshot_id": "MCw4NDdiMTBmNDVlODE0ODk4NzdkYmViNTNkMjI4MTdmM2FkYzQ1N2Nk",
   "tracks": [
     {
       "added_at": "2023-09-13 05:36:31",
@@ -747,22 +747,6 @@
     {
       "added_at": "2023-09-13 05:36:31",
       "album": {
-        "name": "Sid & Aya (Not a Love Story) [Original Movie Soundtrack]",
-        "url": "https://open.spotify.com/album/3ZHDOgwnd6f26MyLuXCS3U"
-      },
-      "artists": [
-        {
-          "name": "The Itchyworms",
-          "url": "https://open.spotify.com/artist/5cYJYBMg1n71v7cvthr1SO"
-        }
-      ],
-      "duration_ms": 260599,
-      "name": "Di Na Muli",
-      "url": "https://open.spotify.com/track/6JYIB3AEh1VtcqVcDDLC7p"
-    },
-    {
-      "added_at": "2023-09-13 05:36:31",
-      "album": {
         "name": "Sana",
         "url": "https://open.spotify.com/album/0ULmsFDDkOnwetCGrEvCSl"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 277098,
       "name": "Sana - Single Version",
       "url": "https://open.spotify.com/track/7o7FQ0zdggnSP8nrsAIy1m"
+    },
+    {
+      "added_at": "2023-09-13 05:36:31",
+      "album": {
+        "name": "Sid & Aya (Not a Love Story) [Original Movie Soundtrack]",
+        "url": "https://open.spotify.com/album/3ZHDOgwnd6f26MyLuXCS3U"
+      },
+      "artists": [
+        {
+          "name": "The Itchyworms",
+          "url": "https://open.spotify.com/artist/5cYJYBMg1n71v7cvthr1SO"
+        }
+      ],
+      "duration_ms": 260599,
+      "name": "Di Na Muli",
+      "url": "https://open.spotify.com/track/6JYIB3AEh1VtcqVcDDLC7p"
     },
     {
       "added_at": "2023-09-13 05:36:31",
@@ -795,18 +795,18 @@
     {
       "added_at": "2023-09-13 05:36:31",
       "album": {
-        "name": "KLWKN",
-        "url": "https://open.spotify.com/album/1TmGJJPRkYoxPEAo0xFnQV"
+        "name": "Hale",
+        "url": "https://open.spotify.com/album/3rYydzqOp83YUYh4EXjrbk"
       },
       "artists": [
         {
-          "name": "Music Hero",
-          "url": "https://open.spotify.com/artist/52gTrzyF0DyfkFl1DQz9Oq"
+          "name": "Hale",
+          "url": "https://open.spotify.com/artist/6Ww3OMFzCaO33ulKh1LBFN"
         }
       ],
-      "duration_ms": 256571,
-      "name": "KLWKN",
-      "url": "https://open.spotify.com/track/1pi3VCMlGVaXvrjlVOkBPN"
+      "duration_ms": 235920,
+      "name": "Kahit Pa",
+      "url": "https://open.spotify.com/track/444aHC3uiDijx7jzmMkIUK"
     },
     {
       "added_at": "2023-09-13 05:36:31",
@@ -827,18 +827,18 @@
     {
       "added_at": "2023-09-13 05:36:31",
       "album": {
-        "name": "Hale",
-        "url": "https://open.spotify.com/album/3rYydzqOp83YUYh4EXjrbk"
+        "name": "KLWKN",
+        "url": "https://open.spotify.com/album/1TmGJJPRkYoxPEAo0xFnQV"
       },
       "artists": [
         {
-          "name": "Hale",
-          "url": "https://open.spotify.com/artist/6Ww3OMFzCaO33ulKh1LBFN"
+          "name": "Music Hero",
+          "url": "https://open.spotify.com/artist/52gTrzyF0DyfkFl1DQz9Oq"
         }
       ],
-      "duration_ms": 235920,
-      "name": "Kahit Pa",
-      "url": "https://open.spotify.com/track/444aHC3uiDijx7jzmMkIUK"
+      "duration_ms": 256571,
+      "name": "KLWKN",
+      "url": "https://open.spotify.com/track/1pi3VCMlGVaXvrjlVOkBPN"
     },
     {
       "added_at": "2023-09-13 05:36:31",

@@ -1,12 +1,12 @@
 {
   "description": "Lo que necesita cualquier verbena veraniega.",
-  "num_followers": 354957,
+  "num_followers": 354952,
   "original_name": "Cl\u00e1sicos del Verano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwY2E0MjQxOWEyNjU3MTdkNjg0NDcxNGMwMGI5MDZiODk3ODI3NzE1",
+  "snapshot_id": "MCwyMWNkMTk4ZmViNjQzMDI5NDUyYTczMDc2OGU3ZDdmY2NjZjUwNDlk",
   "tracks": [
     {
       "added_at": "2023-06-09 09:38:51",
@@ -359,22 +359,6 @@
     {
       "added_at": "2023-06-09 09:38:51",
       "album": {
-        "name": "El Cartel: The Big Boss",
-        "url": "https://open.spotify.com/album/6FwmC2DvXlzz23X8nAWMbN"
-      },
-      "artists": [
-        {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
-        }
-      ],
-      "duration_ms": 209493,
-      "name": "Ella Me Levanto",
-      "url": "https://open.spotify.com/track/7fGODUqa0gtkb72oBVCgCD"
-    },
-    {
-      "added_at": "2023-06-09 09:38:51",
-      "album": {
         "name": "Hombres G (Edici\u00f3n 30 Aniversario)",
         "url": "https://open.spotify.com/album/2iMF2NlOZMfBTdHyubrg6y"
       },
@@ -387,6 +371,22 @@
       "duration_ms": 194080,
       "name": "Devu\u00e9lveme a mi chica",
       "url": "https://open.spotify.com/track/1Wrzhfa5bNlqvsnCztz190"
+    },
+    {
+      "added_at": "2023-06-09 09:38:51",
+      "album": {
+        "name": "El Cartel: The Big Boss",
+        "url": "https://open.spotify.com/album/6FwmC2DvXlzz23X8nAWMbN"
+      },
+      "artists": [
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        }
+      ],
+      "duration_ms": 209493,
+      "name": "Ella Me Levanto",
+      "url": "https://open.spotify.com/track/7fGODUqa0gtkb72oBVCgCD"
     },
     {
       "added_at": "2023-06-09 09:38:51",
@@ -759,22 +759,6 @@
     {
       "added_at": "2023-06-09 09:38:51",
       "album": {
-        "name": "Kiss (Deluxe)",
-        "url": "https://open.spotify.com/album/29blfJv8AddJrjuG3DpE13"
-      },
-      "artists": [
-        {
-          "name": "Carly Rae Jepsen",
-          "url": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
-        }
-      ],
-      "duration_ms": 193400,
-      "name": "Call Me Maybe",
-      "url": "https://open.spotify.com/track/3TGRqZ0a2l1LRblBkJoaDx"
-    },
-    {
-      "added_at": "2023-06-09 09:38:51",
-      "album": {
         "name": "Visual\u00edzate",
         "url": "https://open.spotify.com/album/2HXRjHb2nbLJa5r70FBtdT"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 203160,
       "name": "La Gozadera (feat. Marc Anthony)",
       "url": "https://open.spotify.com/track/0OMRAvrtLWE2TvcXorRiB9"
+    },
+    {
+      "added_at": "2023-06-09 09:38:51",
+      "album": {
+        "name": "Kiss (Deluxe)",
+        "url": "https://open.spotify.com/album/29blfJv8AddJrjuG3DpE13"
+      },
+      "artists": [
+        {
+          "name": "Carly Rae Jepsen",
+          "url": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
+        }
+      ],
+      "duration_ms": 193400,
+      "name": "Call Me Maybe",
+      "url": "https://open.spotify.com/track/3TGRqZ0a2l1LRblBkJoaDx"
     },
     {
       "added_at": "2023-06-09 09:38:51",
@@ -1239,22 +1239,18 @@
     {
       "added_at": "2023-06-09 09:38:51",
       "album": {
-        "name": "La Dura Vida del Joven Rapero",
-        "url": "https://open.spotify.com/album/507EX6i0GGn2b4l2DGcl2y"
+        "name": "In the Summertime",
+        "url": "https://open.spotify.com/album/17JTrT5dXyWYs0xmsnunp7"
       },
       "artists": [
         {
-          "name": "Don Patricio",
-          "url": "https://open.spotify.com/artist/6vPXtLmNd3mW0dd1Rb9eQ9"
-        },
-        {
-          "name": "Cruz Cafun\u00e9",
-          "url": "https://open.spotify.com/artist/0jeYkqwckGJoHQhhXwgzk3"
+          "name": "Mungo Jerry",
+          "url": "https://open.spotify.com/artist/2mbvqMGpwLsakeH45p1Jrb"
         }
       ],
-      "duration_ms": 219666,
-      "name": "Contando Lunares (feat. Cruz Cafun\u00e9)",
-      "url": "https://open.spotify.com/track/6uW0PIRcyZLvkoonm763xD"
+      "duration_ms": 211880,
+      "name": "In the Summertime",
+      "url": "https://open.spotify.com/track/2uzlv8PjqsVvF1DhEahyhy"
     },
     {
       "added_at": "2023-06-09 09:38:51",
@@ -1275,18 +1271,22 @@
     {
       "added_at": "2023-06-09 09:38:51",
       "album": {
-        "name": "In the Summertime",
-        "url": "https://open.spotify.com/album/17JTrT5dXyWYs0xmsnunp7"
+        "name": "La Dura Vida del Joven Rapero",
+        "url": "https://open.spotify.com/album/507EX6i0GGn2b4l2DGcl2y"
       },
       "artists": [
         {
-          "name": "Mungo Jerry",
-          "url": "https://open.spotify.com/artist/2mbvqMGpwLsakeH45p1Jrb"
+          "name": "Don Patricio",
+          "url": "https://open.spotify.com/artist/6vPXtLmNd3mW0dd1Rb9eQ9"
+        },
+        {
+          "name": "Cruz Cafun\u00e9",
+          "url": "https://open.spotify.com/artist/0jeYkqwckGJoHQhhXwgzk3"
         }
       ],
-      "duration_ms": 211880,
-      "name": "In the Summertime",
-      "url": "https://open.spotify.com/track/2uzlv8PjqsVvF1DhEahyhy"
+      "duration_ms": 219666,
+      "name": "Contando Lunares (feat. Cruz Cafun\u00e9)",
+      "url": "https://open.spotify.com/track/6uW0PIRcyZLvkoonm763xD"
     },
     {
       "added_at": "2023-06-09 09:38:51",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2023-06-09 09:38:51",
       "album": {
-        "name": "Tribalistas",
-        "url": "https://open.spotify.com/album/1kNwLPweR4ieuoGvbm1kP1"
-      },
-      "artists": [
-        {
-          "name": "Tribalistas",
-          "url": "https://open.spotify.com/artist/4laQz4PaKeh2Hu6QL6evVD"
-        }
-      ],
-      "duration_ms": 196933,
-      "name": "J\u00e1 Sei Namorar - 2004 Digital Remaster",
-      "url": "https://open.spotify.com/track/352FuGmGJClPjojSYjNrXG"
-    },
-    {
-      "added_at": "2023-06-09 09:38:51",
-      "album": {
         "name": "Na Balada (Ao Vivo)",
         "url": "https://open.spotify.com/album/2uQbJXZlyt1wJkRsfwETLc"
       },
@@ -1463,6 +1447,22 @@
       "duration_ms": 170493,
       "name": "Ai Se Eu Te Pego - Ao Vivo",
       "url": "https://open.spotify.com/track/29vem0DsWK4224LQyxcmA5"
+    },
+    {
+      "added_at": "2023-06-09 09:38:51",
+      "album": {
+        "name": "Tribalistas",
+        "url": "https://open.spotify.com/album/1kNwLPweR4ieuoGvbm1kP1"
+      },
+      "artists": [
+        {
+          "name": "Tribalistas",
+          "url": "https://open.spotify.com/artist/4laQz4PaKeh2Hu6QL6evVD"
+        }
+      ],
+      "duration_ms": 196933,
+      "name": "J\u00e1 Sei Namorar - 2004 Digital Remaster",
+      "url": "https://open.spotify.com/track/352FuGmGJClPjojSYjNrXG"
     },
     {
       "added_at": "2023-06-09 09:38:51",
@@ -1551,22 +1551,6 @@
     {
       "added_at": "2023-06-09 09:38:51",
       "album": {
-        "name": "Mar De Colores (Versi\u00f3n Extendida)",
-        "url": "https://open.spotify.com/album/66IXFg1AukADK41CP0xANr"
-      },
-      "artists": [
-        {
-          "name": "Alvaro Soler",
-          "url": "https://open.spotify.com/artist/2urF8dgLVfDjunO0pcHUEe"
-        }
-      ],
-      "duration_ms": 204666,
-      "name": "La Cintura",
-      "url": "https://open.spotify.com/track/6VUJQqyeQhAZHkQbSDqLtI"
-    },
-    {
-      "added_at": "2023-06-09 09:38:51",
-      "album": {
         "name": "2000 Grandes Exitos",
         "url": "https://open.spotify.com/album/4dqiQqmKsYhgmrocMXhogw"
       },
@@ -1579,6 +1563,22 @@
       "duration_ms": 231080,
       "name": "Mayonesa",
       "url": "https://open.spotify.com/track/5Qjx4obghhfhsh6DiUwpNM"
+    },
+    {
+      "added_at": "2023-06-09 09:38:51",
+      "album": {
+        "name": "Mar De Colores (Versi\u00f3n Extendida)",
+        "url": "https://open.spotify.com/album/66IXFg1AukADK41CP0xANr"
+      },
+      "artists": [
+        {
+          "name": "Alvaro Soler",
+          "url": "https://open.spotify.com/artist/2urF8dgLVfDjunO0pcHUEe"
+        }
+      ],
+      "duration_ms": 204666,
+      "name": "La Cintura",
+      "url": "https://open.spotify.com/track/6VUJQqyeQhAZHkQbSDqLtI"
     },
     {
       "added_at": "2023-06-09 09:38:51",
@@ -1683,6 +1683,22 @@
     {
       "added_at": "2023-06-09 09:38:51",
       "album": {
+        "name": "Grandes Exitos",
+        "url": "https://open.spotify.com/album/1HR0VmKYncW4JyMwRCSi9N"
+      },
+      "artists": [
+        {
+          "name": "Chayanne",
+          "url": "https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv"
+        }
+      ],
+      "duration_ms": 217426,
+      "name": "Torero",
+      "url": "https://open.spotify.com/track/709CndJJB3GTUhQD0LLFse"
+    },
+    {
+      "added_at": "2023-06-09 09:38:51",
+      "album": {
         "name": "Esta Ma\u00f1ana Y Otros Cuentos",
         "url": "https://open.spotify.com/album/6iqB5PzsLs7YIXVd8V84Ds"
       },
@@ -1703,22 +1719,6 @@
       "duration_ms": 225693,
       "name": "Nada Fue Un Error - Live In Spain / 2005",
       "url": "https://open.spotify.com/track/7GO6pBFbieZ30NjGIp2LP5"
-    },
-    {
-      "added_at": "2023-06-09 09:38:51",
-      "album": {
-        "name": "Grandes Exitos",
-        "url": "https://open.spotify.com/album/1HR0VmKYncW4JyMwRCSi9N"
-      },
-      "artists": [
-        {
-          "name": "Chayanne",
-          "url": "https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv"
-        }
-      ],
-      "duration_ms": 217426,
-      "name": "Torero",
-      "url": "https://open.spotify.com/track/709CndJJB3GTUhQD0LLFse"
     },
     {
       "added_at": "2023-06-09 09:38:51",
@@ -1787,6 +1787,22 @@
     {
       "added_at": "2023-06-09 09:38:51",
       "album": {
+        "name": "Corazon Latino",
+        "url": "https://open.spotify.com/album/2uwVT3EKTVmI3ik9yqsyMl"
+      },
+      "artists": [
+        {
+          "name": "David Bisbal",
+          "url": "https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB"
+        }
+      ],
+      "duration_ms": 209946,
+      "name": "Ave Mar\u00eda",
+      "url": "https://open.spotify.com/track/5U4pDBaeq2Jl2dKuWWUSsh"
+    },
+    {
+      "added_at": "2023-06-09 09:38:51",
+      "album": {
         "name": "Waka Waka (Esto es Africa) (feat. Freshlyground)",
         "url": "https://open.spotify.com/album/6zuPC93NJGRvfQAO3yzfCj"
       },
@@ -1803,22 +1819,6 @@
       "duration_ms": 202653,
       "name": "Waka Waka (Esto es Africa) (feat. Freshlyground)",
       "url": "https://open.spotify.com/track/0W8nDs4H2cqxxAgszNMYO3"
-    },
-    {
-      "added_at": "2023-06-09 09:38:51",
-      "album": {
-        "name": "Corazon Latino",
-        "url": "https://open.spotify.com/album/2uwVT3EKTVmI3ik9yqsyMl"
-      },
-      "artists": [
-        {
-          "name": "David Bisbal",
-          "url": "https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB"
-        }
-      ],
-      "duration_ms": 209946,
-      "name": "Ave Mar\u00eda",
-      "url": "https://open.spotify.com/track/5U4pDBaeq2Jl2dKuWWUSsh"
     },
     {
       "added_at": "2023-06-09 09:38:51",
@@ -1923,22 +1923,6 @@
     {
       "added_at": "2023-06-09 09:38:51",
       "album": {
-        "name": "Atado A Tu Amor",
-        "url": "https://open.spotify.com/album/3liBiZNxZoEkcv9ooLM20i"
-      },
-      "artists": [
-        {
-          "name": "Chayanne",
-          "url": "https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv"
-        }
-      ],
-      "duration_ms": 253133,
-      "name": "Salom\u00e9",
-      "url": "https://open.spotify.com/track/4dtlsMh8wam865qaU4WEnM"
-    },
-    {
-      "added_at": "2023-06-09 09:38:51",
-      "album": {
         "name": "Canciones Prohibidas",
         "url": "https://open.spotify.com/album/5QHJB2blBbAL8BjrD9hrhG"
       },
@@ -1955,18 +1939,18 @@
     {
       "added_at": "2023-06-09 09:38:51",
       "album": {
-        "name": "Ricky Martin",
-        "url": "https://open.spotify.com/album/1k1Cr3nlJDa8pvwZUJ5xfj"
+        "name": "Atado A Tu Amor",
+        "url": "https://open.spotify.com/album/3liBiZNxZoEkcv9ooLM20i"
       },
       "artists": [
         {
-          "name": "Ricky Martin",
-          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
+          "name": "Chayanne",
+          "url": "https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv"
         }
       ],
-      "duration_ms": 243226,
-      "name": "Livin' la Vida Loca - Spanish Version",
-      "url": "https://open.spotify.com/track/4Yq7WIbdjwx4H7JR6Bf3nZ"
+      "duration_ms": 253133,
+      "name": "Salom\u00e9",
+      "url": "https://open.spotify.com/track/4dtlsMh8wam865qaU4WEnM"
     },
     {
       "added_at": "2023-06-09 09:38:51",
@@ -1987,18 +1971,18 @@
     {
       "added_at": "2023-06-09 09:38:51",
       "album": {
-        "name": "El misterioso caso de Efecto Pasillo",
-        "url": "https://open.spotify.com/album/0eXjOfykk3LkiqPtFnFMji"
+        "name": "Ricky Martin",
+        "url": "https://open.spotify.com/album/1k1Cr3nlJDa8pvwZUJ5xfj"
       },
       "artists": [
         {
-          "name": "Efecto Pasillo",
-          "url": "https://open.spotify.com/artist/6CSa1r92LtHHdLG6kRabU3"
+          "name": "Ricky Martin",
+          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
         }
       ],
-      "duration_ms": 202146,
-      "name": "Pan y mantequilla",
-      "url": "https://open.spotify.com/track/2kZJ5wrpq1gCdHmVEjahoH"
+      "duration_ms": 243226,
+      "name": "Livin' la Vida Loca - Spanish Version",
+      "url": "https://open.spotify.com/track/4Yq7WIbdjwx4H7JR6Bf3nZ"
     },
     {
       "added_at": "2023-06-09 09:38:51",
@@ -2015,6 +1999,22 @@
       "duration_ms": 146337,
       "name": "Todos los d\u00edas sale el sol",
       "url": "https://open.spotify.com/track/1tmwswvJnwOIrskyCKVsgv"
+    },
+    {
+      "added_at": "2023-06-09 09:38:51",
+      "album": {
+        "name": "El misterioso caso de Efecto Pasillo",
+        "url": "https://open.spotify.com/album/0eXjOfykk3LkiqPtFnFMji"
+      },
+      "artists": [
+        {
+          "name": "Efecto Pasillo",
+          "url": "https://open.spotify.com/artist/6CSa1r92LtHHdLG6kRabU3"
+        }
+      ],
+      "duration_ms": 202146,
+      "name": "Pan y mantequilla",
+      "url": "https://open.spotify.com/track/2kZJ5wrpq1gCdHmVEjahoH"
     },
     {
       "added_at": "2023-06-09 09:38:51",
@@ -2087,18 +2087,18 @@
     {
       "added_at": "2023-06-09 09:38:51",
       "album": {
-        "name": "A Medio Vivir",
-        "url": "https://open.spotify.com/album/4URjPTEl3KRpkzWFTvYmiM"
+        "name": "Paulina",
+        "url": "https://open.spotify.com/album/64M45unRUhuzlOYth6w5HB"
       },
       "artists": [
         {
-          "name": "Ricky Martin",
-          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
+          "name": "Paulina Rubio",
+          "url": "https://open.spotify.com/artist/1d6dwipPrsFSJVmFTTdFSS"
         }
       ],
-      "duration_ms": 262573,
-      "name": "Mar\u00eda",
-      "url": "https://open.spotify.com/track/0QQHPRbgLJJ5XNzJV1l9BW"
+      "duration_ms": 254773,
+      "name": "Y Yo Sigo Aqui - Spanglish",
+      "url": "https://open.spotify.com/track/2Ma2f8jV8VKMJoAcnCvZ8h"
     },
     {
       "added_at": "2023-06-09 09:38:51",
@@ -2119,18 +2119,34 @@
     {
       "added_at": "2023-06-09 09:38:51",
       "album": {
-        "name": "Paulina",
-        "url": "https://open.spotify.com/album/64M45unRUhuzlOYth6w5HB"
+        "name": "A Medio Vivir",
+        "url": "https://open.spotify.com/album/4URjPTEl3KRpkzWFTvYmiM"
       },
       "artists": [
         {
-          "name": "Paulina Rubio",
-          "url": "https://open.spotify.com/artist/1d6dwipPrsFSJVmFTTdFSS"
+          "name": "Ricky Martin",
+          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
         }
       ],
-      "duration_ms": 254773,
-      "name": "Y Yo Sigo Aqui - Spanglish",
-      "url": "https://open.spotify.com/track/2Ma2f8jV8VKMJoAcnCvZ8h"
+      "duration_ms": 262573,
+      "name": "Mar\u00eda",
+      "url": "https://open.spotify.com/track/0QQHPRbgLJJ5XNzJV1l9BW"
+    },
+    {
+      "added_at": "2023-06-09 09:38:51",
+      "album": {
+        "name": "Macarena (EP)",
+        "url": "https://open.spotify.com/album/1anwf7hhIur6jnVg70pXGc"
+      },
+      "artists": [
+        {
+          "name": "Los Del Rio",
+          "url": "https://open.spotify.com/artist/2JXn03fudjyRkQ1Ye9f5rk"
+        }
+      ],
+      "duration_ms": 224626,
+      "name": "Macarena - Bayside Boys Remix",
+      "url": "https://open.spotify.com/track/07DcH2UllHvVRKjD2HEJuC"
     },
     {
       "added_at": "2023-06-09 09:38:51",
@@ -2151,22 +2167,6 @@
       "duration_ms": 191000,
       "name": "When Love Takes Over (feat. Kelly Rowland)",
       "url": "https://open.spotify.com/track/77FULy278MulVvGWS8BfK7"
-    },
-    {
-      "added_at": "2023-06-09 09:38:51",
-      "album": {
-        "name": "Macarena (EP)",
-        "url": "https://open.spotify.com/album/1anwf7hhIur6jnVg70pXGc"
-      },
-      "artists": [
-        {
-          "name": "Los Del Rio",
-          "url": "https://open.spotify.com/artist/2JXn03fudjyRkQ1Ye9f5rk"
-        }
-      ],
-      "duration_ms": 224626,
-      "name": "Macarena - Bayside Boys Remix",
-      "url": "https://open.spotify.com/track/07DcH2UllHvVRKjD2HEJuC"
     },
     {
       "added_at": "2023-06-09 09:38:51",
@@ -2311,18 +2311,18 @@
     {
       "added_at": "2023-06-09 09:38:51",
       "album": {
-        "name": "Confidencial/New Booklet",
-        "url": "https://open.spotify.com/album/4MlGPzHeuch6yl8VBzDDmU"
+        "name": "Kylie",
+        "url": "https://open.spotify.com/album/7lZXsT33rkuXF3WBZc5rQv"
       },
       "artists": [
         {
-          "name": "Tequila",
-          "url": "https://open.spotify.com/artist/6stZWw6L5Sjy5m7OdUR3rO"
+          "name": "Kylie Minogue",
+          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
         }
       ],
-      "duration_ms": 189133,
-      "name": "Salta!!!",
-      "url": "https://open.spotify.com/track/0M2tanh26PWePnaGVV3h3y"
+      "duration_ms": 193540,
+      "name": "The Loco-Motion",
+      "url": "https://open.spotify.com/track/2hBR3npBmnfr1VWB3O64Jt"
     },
     {
       "added_at": "2023-06-09 09:38:51",
@@ -2347,18 +2347,18 @@
     {
       "added_at": "2023-06-09 09:38:51",
       "album": {
-        "name": "Kylie",
-        "url": "https://open.spotify.com/album/7lZXsT33rkuXF3WBZc5rQv"
+        "name": "Confidencial/New Booklet",
+        "url": "https://open.spotify.com/album/4MlGPzHeuch6yl8VBzDDmU"
       },
       "artists": [
         {
-          "name": "Kylie Minogue",
-          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
+          "name": "Tequila",
+          "url": "https://open.spotify.com/artist/6stZWw6L5Sjy5m7OdUR3rO"
         }
       ],
-      "duration_ms": 193540,
-      "name": "The Loco-Motion",
-      "url": "https://open.spotify.com/track/2hBR3npBmnfr1VWB3O64Jt"
+      "duration_ms": 189133,
+      "name": "Salta!!!",
+      "url": "https://open.spotify.com/track/0M2tanh26PWePnaGVV3h3y"
     },
     {
       "added_at": "2023-06-09 09:38:51",
@@ -2447,22 +2447,6 @@
     {
       "added_at": "2023-06-09 09:38:51",
       "album": {
-        "name": "Gipsy Kings",
-        "url": "https://open.spotify.com/album/4aDmHcFNChCXPle7tMeoWS"
-      },
-      "artists": [
-        {
-          "name": "Gipsy Kings",
-          "url": "https://open.spotify.com/artist/3jc496ljiyrS3ECrD7QiqL"
-        }
-      ],
-      "duration_ms": 203173,
-      "name": "Bamboleo",
-      "url": "https://open.spotify.com/track/5siwoDxCGDYnmfWV5SlUpE"
-    },
-    {
-      "added_at": "2023-06-09 09:38:51",
-      "album": {
         "name": "Papi Chulo... Te Traigo El Mmmm",
         "url": "https://open.spotify.com/album/2PXmGyRtObJ5jdRjkaovZs"
       },
@@ -2475,6 +2459,22 @@
       "duration_ms": 180466,
       "name": "Papi Chulo... Te Traigo El Mmmm - Radio Version",
       "url": "https://open.spotify.com/track/6PRv5QDR843SgVpk4IqEit"
+    },
+    {
+      "added_at": "2023-06-09 09:38:51",
+      "album": {
+        "name": "Gipsy Kings",
+        "url": "https://open.spotify.com/album/4aDmHcFNChCXPle7tMeoWS"
+      },
+      "artists": [
+        {
+          "name": "Gipsy Kings",
+          "url": "https://open.spotify.com/artist/3jc496ljiyrS3ECrD7QiqL"
+        }
+      ],
+      "duration_ms": 203173,
+      "name": "Bamboleo",
+      "url": "https://open.spotify.com/track/5siwoDxCGDYnmfWV5SlUpE"
     },
     {
       "added_at": "2023-06-09 09:38:51",

@@ -1,12 +1,12 @@
 {
   "description": "canzoni felici italiane e internazionali per un autunno preso bene \u2600\ufe0f",
-  "num_followers": 48367,
+  "num_followers": 48377,
   "original_name": "una playlist felice",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZDQ3ZDRlMWZmYmU3MDgxYWVlZDZhNzgwMmVkZjY3OWY5YzRhNWIy",
+  "snapshot_id": "MCwzYjMyYzgxZjY4MGQ1ZTI3N2Q4ZjkxYWVhNGM2ZTI1YWYxMTFkNjIw",
   "tracks": [
     {
       "added_at": "2023-11-24 10:27:22",
@@ -439,6 +439,22 @@
     {
       "added_at": "2023-11-24 10:27:22",
       "album": {
+        "name": "Pray for the Wicked",
+        "url": "https://open.spotify.com/album/6ApYSpXF8GxZAgBTHDzYge"
+      },
+      "artists": [
+        {
+          "name": "Panic! At The Disco",
+          "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
+        }
+      ],
+      "duration_ms": 190946,
+      "name": "High Hopes",
+      "url": "https://open.spotify.com/track/1rqqCSm0Qe4I9rUvWncaom"
+    },
+    {
+      "added_at": "2023-11-24 10:27:22",
+      "album": {
         "name": "El Dorado",
         "url": "https://open.spotify.com/album/270o30h7cAlEhBnbuSpFZq"
       },
@@ -455,22 +471,6 @@
       "duration_ms": 140533,
       "name": "Mood (feat. iann dior)",
       "url": "https://open.spotify.com/track/4jPy3l0RUwlUI9T5XHBW2m"
-    },
-    {
-      "added_at": "2023-11-24 10:27:22",
-      "album": {
-        "name": "Pray for the Wicked",
-        "url": "https://open.spotify.com/album/6ApYSpXF8GxZAgBTHDzYge"
-      },
-      "artists": [
-        {
-          "name": "Panic! At The Disco",
-          "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
-        }
-      ],
-      "duration_ms": 190946,
-      "name": "High Hopes",
-      "url": "https://open.spotify.com/track/1rqqCSm0Qe4I9rUvWncaom"
     },
     {
       "added_at": "2023-11-24 10:27:22",
@@ -679,6 +679,22 @@
     {
       "added_at": "2023-11-24 10:27:22",
       "album": {
+        "name": "Surfer Rosa",
+        "url": "https://open.spotify.com/album/50j4Wm1b9hLpSpPIA39Vp9"
+      },
+      "artists": [
+        {
+          "name": "Pixies",
+          "url": "https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT"
+        }
+      ],
+      "duration_ms": 234973,
+      "name": "Where Is My Mind? - Remastered",
+      "url": "https://open.spotify.com/track/7wCmS9TTVUcIhRalDYFgPy"
+    },
+    {
+      "added_at": "2023-11-24 10:27:22",
+      "album": {
         "name": "Fine Line",
         "url": "https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml"
       },
@@ -707,22 +723,6 @@
       "duration_ms": 157017,
       "name": "DESPECH\u00c1",
       "url": "https://open.spotify.com/track/5ildQOEKmJuWGl2vRkFdYc"
-    },
-    {
-      "added_at": "2023-11-24 10:27:22",
-      "album": {
-        "name": "Surfer Rosa",
-        "url": "https://open.spotify.com/album/50j4Wm1b9hLpSpPIA39Vp9"
-      },
-      "artists": [
-        {
-          "name": "Pixies",
-          "url": "https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT"
-        }
-      ],
-      "duration_ms": 234973,
-      "name": "Where Is My Mind? - Remastered",
-      "url": "https://open.spotify.com/track/7wCmS9TTVUcIhRalDYFgPy"
     },
     {
       "added_at": "2023-11-24 10:27:22",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2023-11-24 10:27:22",
       "album": {
-        "name": "Don't Forget About Me, Demos",
-        "url": "https://open.spotify.com/album/1DNx0H5ZX1ax3yyRwtgT4S"
-      },
-      "artists": [
-        {
-          "name": "Dominic Fike",
-          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
-        }
-      ],
-      "duration_ms": 177666,
-      "name": "3 Nights",
-      "url": "https://open.spotify.com/track/1tNJrcVe6gwLEiZCtprs1u"
-    },
-    {
-      "added_at": "2023-11-24 10:27:22",
-      "album": {
         "name": "Where the Light Is",
         "url": "https://open.spotify.com/album/5nX3zwIAgHttSudEHLTsAW"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 158947,
       "name": "Sunday Best",
       "url": "https://open.spotify.com/track/1qYKWcEOrh2tM8PlgIm8K1"
+    },
+    {
+      "added_at": "2023-11-24 10:27:22",
+      "album": {
+        "name": "Don't Forget About Me, Demos",
+        "url": "https://open.spotify.com/album/1DNx0H5ZX1ax3yyRwtgT4S"
+      },
+      "artists": [
+        {
+          "name": "Dominic Fike",
+          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+        }
+      ],
+      "duration_ms": 177666,
+      "name": "3 Nights",
+      "url": "https://open.spotify.com/track/1tNJrcVe6gwLEiZCtprs1u"
     },
     {
       "added_at": "2023-11-24 10:27:22",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2023-11-24 10:27:22",
       "album": {
-        "name": "Voulez-Vous",
-        "url": "https://open.spotify.com/album/7iLuHJkrb9KHPkMgddYigh"
-      },
-      "artists": [
-        {
-          "name": "ABBA",
-          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
-        }
-      ],
-      "duration_ms": 260893,
-      "name": "Angeleyes",
-      "url": "https://open.spotify.com/track/7rWgGyRK7RAqAAXy4bLft9"
-    },
-    {
-      "added_at": "2023-11-24 10:27:22",
-      "album": {
         "name": "LLYLM",
         "url": "https://open.spotify.com/album/44mKxp7RB6x5O19VWqEXEm"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 174044,
       "name": "LLYLM",
       "url": "https://open.spotify.com/track/2SiAcexM2p1yX6joESbehd"
+    },
+    {
+      "added_at": "2023-11-24 10:27:22",
+      "album": {
+        "name": "Voulez-Vous",
+        "url": "https://open.spotify.com/album/7iLuHJkrb9KHPkMgddYigh"
+      },
+      "artists": [
+        {
+          "name": "ABBA",
+          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
+        }
+      ],
+      "duration_ms": 260893,
+      "name": "Angeleyes",
+      "url": "https://open.spotify.com/track/7rWgGyRK7RAqAAXy4bLft9"
     },
     {
       "added_at": "2023-11-24 10:27:22",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2023-11-24 10:27:22",
       "album": {
-        "name": "Mosquito",
-        "url": "https://open.spotify.com/album/4D4XpwlWhUNp8dOdYmuNIB"
-      },
-      "artists": [
-        {
-          "name": "PinkPantheress",
-          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
-        }
-      ],
-      "duration_ms": 146240,
-      "name": "Mosquito",
-      "url": "https://open.spotify.com/track/0LzidBf7cUsnZnG34OUPSF"
-    },
-    {
-      "added_at": "2023-11-24 10:27:22",
-      "album": {
         "name": "Lucid Dreams",
         "url": "https://open.spotify.com/album/4KAtLRVIfB0bKnRY01dveY"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 164986,
       "name": "Problematic",
       "url": "https://open.spotify.com/track/0I2BCIvlzrb6Iix9hAbQFF"
+    },
+    {
+      "added_at": "2023-11-24 10:27:22",
+      "album": {
+        "name": "Mosquito",
+        "url": "https://open.spotify.com/album/4D4XpwlWhUNp8dOdYmuNIB"
+      },
+      "artists": [
+        {
+          "name": "PinkPantheress",
+          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
+        }
+      ],
+      "duration_ms": 146240,
+      "name": "Mosquito",
+      "url": "https://open.spotify.com/track/0LzidBf7cUsnZnG34OUPSF"
     },
     {
       "added_at": "2023-11-24 10:27:22",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2023-11-24 10:27:22",
       "album": {
-        "name": "Wet Leg",
-        "url": "https://open.spotify.com/album/0r9awI5WRCZpwk0aVQ4bKO"
-      },
-      "artists": [
-        {
-          "name": "Wet Leg",
-          "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
-        }
-      ],
-      "duration_ms": 140080,
-      "name": "Wet Dream",
-      "url": "https://open.spotify.com/track/260Ub1Yuj4CobdISTOBvM9"
-    },
-    {
-      "added_at": "2023-11-24 10:27:22",
-      "album": {
         "name": "Memory Lane & Winter Song",
         "url": "https://open.spotify.com/album/5IvpvVd9LKgHACcUSHL5Y8"
       },
@@ -1399,6 +1383,22 @@
       "duration_ms": 192133,
       "name": "Memory Lane",
       "url": "https://open.spotify.com/track/7hHrs2q5c5rtzHLJ2DKHTT"
+    },
+    {
+      "added_at": "2023-11-24 10:27:22",
+      "album": {
+        "name": "Wet Leg",
+        "url": "https://open.spotify.com/album/0r9awI5WRCZpwk0aVQ4bKO"
+      },
+      "artists": [
+        {
+          "name": "Wet Leg",
+          "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
+        }
+      ],
+      "duration_ms": 140080,
+      "name": "Wet Dream",
+      "url": "https://open.spotify.com/track/260Ub1Yuj4CobdISTOBvM9"
     },
     {
       "added_at": "2023-11-24 10:27:22",
@@ -1583,30 +1583,6 @@
     {
       "added_at": "2023-11-24 10:27:22",
       "album": {
-        "name": "T\u00caTE (feat. Medy & VillaBanks)",
-        "url": "https://open.spotify.com/album/5TL8p0VHTb54SA7FGhL8lG"
-      },
-      "artists": [
-        {
-          "name": "AVA",
-          "url": "https://open.spotify.com/artist/7zPS3i8YJBNeDcqXUHfCMr"
-        },
-        {
-          "name": "Medy",
-          "url": "https://open.spotify.com/artist/3lbFUmlaNMa9ZVSabLlkhn"
-        },
-        {
-          "name": "VillaBanks",
-          "url": "https://open.spotify.com/artist/3ASAxVN1hNoYfoMcIkzZWL"
-        }
-      ],
-      "duration_ms": 180904,
-      "name": "T\u00caTE (feat. Medy & VillaBanks)",
-      "url": "https://open.spotify.com/track/14XAuSrVFla2uyMiYVwQtq"
-    },
-    {
-      "added_at": "2023-11-24 10:27:22",
-      "album": {
         "name": "IO, ME ED ALTRI GUAI",
         "url": "https://open.spotify.com/album/0EcYVyXLbn4z2KA8gBSmtS"
       },
@@ -1639,6 +1615,30 @@
       "duration_ms": 209732,
       "name": "Come With Me",
       "url": "https://open.spotify.com/track/3curUGAfGYvGcBbE1k5Fyy"
+    },
+    {
+      "added_at": "2023-11-24 10:27:22",
+      "album": {
+        "name": "T\u00caTE (feat. Medy & VillaBanks)",
+        "url": "https://open.spotify.com/album/5TL8p0VHTb54SA7FGhL8lG"
+      },
+      "artists": [
+        {
+          "name": "AVA",
+          "url": "https://open.spotify.com/artist/7zPS3i8YJBNeDcqXUHfCMr"
+        },
+        {
+          "name": "Medy",
+          "url": "https://open.spotify.com/artist/3lbFUmlaNMa9ZVSabLlkhn"
+        },
+        {
+          "name": "VillaBanks",
+          "url": "https://open.spotify.com/artist/3ASAxVN1hNoYfoMcIkzZWL"
+        }
+      ],
+      "duration_ms": 180904,
+      "name": "T\u00caTE (feat. Medy & VillaBanks)",
+      "url": "https://open.spotify.com/track/14XAuSrVFla2uyMiYVwQtq"
     },
     {
       "added_at": "2023-11-24 10:27:22",
@@ -1679,22 +1679,6 @@
     {
       "added_at": "2023-11-24 10:27:22",
       "album": {
-        "name": "know that you're not alone",
-        "url": "https://open.spotify.com/album/6YHrzZ7O74d7QZg2EkIURl"
-      },
-      "artists": [
-        {
-          "name": "Cat Burns",
-          "url": "https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn"
-        }
-      ],
-      "duration_ms": 176431,
-      "name": "know that you're not alone",
-      "url": "https://open.spotify.com/track/2FdrRql2ltOBghZNvwcNrn"
-    },
-    {
-      "added_at": "2023-11-24 10:27:22",
-      "album": {
         "name": "Just A Cloud Away",
         "url": "https://open.spotify.com/album/2ojXtf3VwPgpxsFHYujwCY"
       },
@@ -1707,6 +1691,22 @@
       "duration_ms": 176078,
       "name": "Just A Cloud Away",
       "url": "https://open.spotify.com/track/0DGTcMqvVR7fmBXgiG6jz4"
+    },
+    {
+      "added_at": "2023-11-24 10:27:22",
+      "album": {
+        "name": "know that you're not alone",
+        "url": "https://open.spotify.com/album/6YHrzZ7O74d7QZg2EkIURl"
+      },
+      "artists": [
+        {
+          "name": "Cat Burns",
+          "url": "https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn"
+        }
+      ],
+      "duration_ms": 176431,
+      "name": "know that you're not alone",
+      "url": "https://open.spotify.com/track/2FdrRql2ltOBghZNvwcNrn"
     },
     {
       "added_at": "2023-11-24 10:27:22",

@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4to60X6goeK.md) - [plain]
 
 > Go hard or go home\. Cover: Kanine
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,856 likes - 55 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,894 likes - 55 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Don't Stop](https://open.spotify.com/track/77Dn9E3WFNMzZGq7K1J6rR) | [MUZZ](https://open.spotify.com/artist/4UNnRb4LN2hGtbtMfPzMhg) | [Don't Stop](https://open.spotify.com/album/0PPTQ6w442u34twxct76hc) | 2:56 |
 | 2 | [Liquor & Cigarettes \(feat\. ArrDee\)](https://open.spotify.com/track/15BDY6GKFfk02WaoyytP9g) | [Chase & Status](https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq), [Hedex](https://open.spotify.com/artist/22I9QWygJ2IfxR855VsA3t), [ArrDee](https://open.spotify.com/artist/7m0BsF0t3K9WQFgKoPejfk) | [Liquor & Cigarettes \(feat\. ArrDee\)](https://open.spotify.com/album/7w1n03aRWJeZw1AVPDHpFC) | 3:09 |
-| 3 | [Relapse](https://open.spotify.com/track/75djESsa5AqCcroqOkkxsv) | [Skepsis](https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC) | [Relapse EP](https://open.spotify.com/album/3wIQC4FvRJKmrURVUwEVEV) | 4:23 |
+| 3 | [Relapse](https://open.spotify.com/track/75djESsa5AqCcroqOkkxsv) | [Skepsis](https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC) | [Relapse EP](https://open.spotify.com/album/3wIQC4FvRJKmrURVUwEVEV) | 4:28 |
 | 4 | [Release Me](https://open.spotify.com/track/5hcbBprSX4taWpm6DVUuWi) | [Kanine](https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV), [INDI](https://open.spotify.com/artist/6T2L2KzWTtlOO4DvTe2vo9) | [Release Me](https://open.spotify.com/album/1LodhytJqWA9yYSaPAUdcb) | 3:36 |
 | 5 | [Chant](https://open.spotify.com/track/65SsbtgsqPYv1p4Rq93fC9) | [1991](https://open.spotify.com/artist/2IP71LH7CbwddhsEXBI0fy) | [Chant](https://open.spotify.com/album/1W9a0pnDZti59LWh8e1Tiu) | 3:44 |
 | 6 | [Dance All Day](https://open.spotify.com/track/2hXyNPbdCnQd5ZkHlBJh3k) | [Grafix](https://open.spotify.com/artist/27YdXZOMLqvxI2pB5GyqyY) | [Dance All Day](https://open.spotify.com/album/2lsdUrUduc391Eo4spdmWq) | 3:43 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4to60X6goeK.md) - [plain]
 | 54 | [High Roller](https://open.spotify.com/track/7DHBGIYp3wvsjtetJEpCHZ) | [Turno](https://open.spotify.com/artist/1TVDml0EOLsjUxBCFzqWes) | [High Roller](https://open.spotify.com/album/5UeNqJ34X9HjC2szyJZkwM) | 4:35 |
 | 55 | [Headshot](https://open.spotify.com/track/69rb5Dk1Ivg386QQhyzrUX) | [Original Sin](https://open.spotify.com/artist/3D71zH4KfjyILeWehJheDV), [Eksman](https://open.spotify.com/artist/2654RQ9MP4lxi0PLQY3ig7) | [Shaolin Fist](https://open.spotify.com/album/2qmrtp1vQ4AFI0rms52Bip) | 4:01 |
 
-Snapshot ID: `MCwxNjVkZTlkNTZjZDU0OGUzODI3Y2RjNDkwZjBlOWNhNjYyYWZiOTU2`
+Snapshot ID: `MCwzNmRiZDFkZWVkZDFlMTFlMGMyYWM2MzcwZDNjMGUzYmNhNzNhYzk2`

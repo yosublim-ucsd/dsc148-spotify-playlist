@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 
 > Highlights of 2023, listen to women at full volume\. Cover:  <a href=“spotify:artist:5LkbTSqXfMBjFSGi9LOGjq”>Samara Joy</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,497 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,576 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 | 41 | [girlfriend](https://open.spotify.com/track/3oxjdkrul9fGW82LfkCdxg) | [hemlocke springs](https://open.spotify.com/artist/52PdgUJOjvS6Mpmjy1SAlx) | [girlfriend](https://open.spotify.com/album/6vLqlkHUKH696KzKUPiqdd) | 2:13 |
 | 42 | [Lose You \(feat\. Soccer Mommy\)](https://open.spotify.com/track/1ugQO8HhKXJ2kXaKJ6bznA) | [Bully](https://open.spotify.com/artist/34LdbFt5sVXKTJOzf1iExQ), [Soccer Mommy](https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q) | [Lucky For You](https://open.spotify.com/album/0Wl5Z73DtV3cgqf0MLXgxz) | 2:55 |
 | 43 | [Hooves](https://open.spotify.com/track/59gcuFEGvp32erxYFekyG4) | [Sir Chloe](https://open.spotify.com/artist/6rniTPs9zN26kYnkPdFl1U) | [I Am The Dog](https://open.spotify.com/album/0RjsbmAOQzWOq3fxQ002rX) | 2:43 |
-| 44 | [Fruit Loop](https://open.spotify.com/track/2vgoeRVrxhxuE7vvUSOVim) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Fruit Loop](https://open.spotify.com/album/1eGfr1AwGJ3bI2ONUhikpg) | 2:17 |
-| 45 | [Always Get This Way](https://open.spotify.com/track/5biKfVBoteSxCfBqrwlFEh) | [The Aces](https://open.spotify.com/artist/2AmfMGi3WZMxqFDHissIAe) | [I've Loved You For So Long](https://open.spotify.com/album/5LO06DFO56CESiQ6BjGsVJ) | 2:54 |
+| 44 | [Always Get This Way](https://open.spotify.com/track/5biKfVBoteSxCfBqrwlFEh) | [The Aces](https://open.spotify.com/artist/2AmfMGi3WZMxqFDHissIAe) | [I've Loved You For So Long](https://open.spotify.com/album/5LO06DFO56CESiQ6BjGsVJ) | 2:54 |
+| 45 | [Fruit Loop](https://open.spotify.com/track/2vgoeRVrxhxuE7vvUSOVim) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Fruit Loop](https://open.spotify.com/album/1eGfr1AwGJ3bI2ONUhikpg) | 2:17 |
 | 46 | [Feels Just Like It](https://open.spotify.com/track/1hEnVkgNq0t9WFO5Smzq5Y) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J), [Caroline Byrne](https://open.spotify.com/artist/2tVd9Bpt5Li9UsmKwhJ1nG) | [Light Places](https://open.spotify.com/album/5k3OoQgNSIK8dt0WhRRKku) | 4:01 |
 | 47 | [Everywhere I Go](https://open.spotify.com/track/2JHFr3SVvWSGoFKg3kvTgw) | [Cat Clyde](https://open.spotify.com/artist/7oRT0oC3vhUGQJCL6CYYzk) | [Down Rounder](https://open.spotify.com/album/2oxTJw5q7KQZYxXipOCoa8) | 2:19 |
 | 48 | [Nosebleeds](https://open.spotify.com/track/1XNeBNXSNFeY6HcrV3IEJv) | [MisterWives](https://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z) | [Nosebleeds](https://open.spotify.com/album/7EQ6sixCqVYPCPqARdU1Ct) | 3:03 |
 | 49 | [dale Play](https://open.spotify.com/track/33gFV76PlZtTunQCaqYIJH) | [RaiNao](https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN), [paopao](https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9) | [dale Play](https://open.spotify.com/album/0Iq5DxqRwkw2Y4uY0zun6V) | 3:46 |
 | 50 | [Anything 4 U](https://open.spotify.com/track/0MuAaWayfAeq0C6WDM15Mz) | [Kaleena Zanders](https://open.spotify.com/artist/0Sz2jslaxjcw2VM5zYh2jK), [Anabel Englund](https://open.spotify.com/artist/3ky8xBRraNNzxzXEw6Ga0c) | [Anything 4 U](https://open.spotify.com/album/7gjErqquS2uyJy0rGbYcOC) | 3:08 |
 
-Snapshot ID: `MCw2NTZmMTgzNDY5YzJiOTNkMTIxNWRjNDVlMWJjYTkzNGI4NzQ3YjUw`
+Snapshot ID: `MCxlZDc0MzkzNjdlY2QxMmJlNjAxMTM3MWMxOTJkMzQxMjUyMTlkOWI0`

@@ -1,12 +1,12 @@
 {
   "description": "The extraordinary women making great country music today. Cover: Megan Moroney",
-  "num_followers": 476297,
+  "num_followers": 476365,
   "original_name": "Women of Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZWY2M2RlMmE2MmY3OWEzNDJlZjFhMzQwZjQ4Yzg0ZmFjODU5NTg3",
+  "snapshot_id": "MCxjZTI1NTNmODExZmU4ZmJmMzYxYmQ0OTkxMjc0Mjg0MmEwNDUyZjNh",
   "tracks": [
     {
       "added_at": "2023-12-01 19:54:45",
@@ -583,22 +583,6 @@
     {
       "added_at": "2023-12-01 19:54:45",
       "album": {
-        "name": "Worth It",
-        "url": "https://open.spotify.com/album/3cA8ijJVzxkCtV9CePO8If"
-      },
-      "artists": [
-        {
-          "name": "Colbie Caillat",
-          "url": "https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu"
-        }
-      ],
-      "duration_ms": 183107,
-      "name": "Worth It",
-      "url": "https://open.spotify.com/track/1squCbXxHkHAO0VYRjTl2S"
-    },
-    {
-      "added_at": "2023-12-01 19:54:45",
-      "album": {
         "name": "I Hope You Dance",
         "url": "https://open.spotify.com/album/5NwzdF5qHEtXT6SepzhWJv"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 294533,
       "name": "I Hope You Dance",
       "url": "https://open.spotify.com/track/65B1tEOv5W294uCKbmEcFV"
+    },
+    {
+      "added_at": "2023-12-01 19:54:45",
+      "album": {
+        "name": "Worth It",
+        "url": "https://open.spotify.com/album/3cA8ijJVzxkCtV9CePO8If"
+      },
+      "artists": [
+        {
+          "name": "Colbie Caillat",
+          "url": "https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu"
+        }
+      ],
+      "duration_ms": 183107,
+      "name": "Worth It",
+      "url": "https://open.spotify.com/track/1squCbXxHkHAO0VYRjTl2S"
     },
     {
       "added_at": "2023-12-01 19:54:45",
@@ -663,22 +663,6 @@
     {
       "added_at": "2023-12-01 19:54:45",
       "album": {
-        "name": "Carnival Ride",
-        "url": "https://open.spotify.com/album/5HwzpaqYOZABPnmvl5JYFX"
-      },
-      "artists": [
-        {
-          "name": "Carrie Underwood",
-          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
-        }
-      ],
-      "duration_ms": 212173,
-      "name": "All-American Girl",
-      "url": "https://open.spotify.com/track/2dRPQFwPqAmc42mDRnsDQu"
-    },
-    {
-      "added_at": "2023-12-01 19:54:45",
-      "album": {
         "name": "Unapologetically (Deluxe Edition)",
         "url": "https://open.spotify.com/album/7Ht6xQ80vFtSe2n2KjAAsA"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 192840,
       "name": "Miss Me More",
       "url": "https://open.spotify.com/track/5NfJGBAL9mgFPRQxKJmiX2"
+    },
+    {
+      "added_at": "2023-12-01 19:54:45",
+      "album": {
+        "name": "Carnival Ride",
+        "url": "https://open.spotify.com/album/5HwzpaqYOZABPnmvl5JYFX"
+      },
+      "artists": [
+        {
+          "name": "Carrie Underwood",
+          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
+        }
+      ],
+      "duration_ms": 212173,
+      "name": "All-American Girl",
+      "url": "https://open.spotify.com/track/2dRPQFwPqAmc42mDRnsDQu"
     },
     {
       "added_at": "2023-12-01 19:54:45",
@@ -859,22 +859,6 @@
     {
       "added_at": "2023-12-01 19:54:45",
       "album": {
-        "name": "The Deana Carter Collection",
-        "url": "https://open.spotify.com/album/5WqK9zGqUlTw7IPY2k1Yqd"
-      },
-      "artists": [
-        {
-          "name": "Deana Carter",
-          "url": "https://open.spotify.com/artist/0aqrM7Fo3Ml66Kc5JAzmjt"
-        }
-      ],
-      "duration_ms": 290466,
-      "name": "Strawberry Wine",
-      "url": "https://open.spotify.com/track/3ODF56f90W3qxDqxHAUi3v"
-    },
-    {
-      "added_at": "2023-12-01 19:54:45",
-      "album": {
         "name": "Light On In The Kitchen",
         "url": "https://open.spotify.com/album/335hPIk2TDnJwANpw18P6G"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 212120,
       "name": "Light On In The Kitchen",
       "url": "https://open.spotify.com/track/2GAqIzPU7v3kfvY4hZQ9jm"
+    },
+    {
+      "added_at": "2023-12-01 19:54:45",
+      "album": {
+        "name": "The Deana Carter Collection",
+        "url": "https://open.spotify.com/album/5WqK9zGqUlTw7IPY2k1Yqd"
+      },
+      "artists": [
+        {
+          "name": "Deana Carter",
+          "url": "https://open.spotify.com/artist/0aqrM7Fo3Ml66Kc5JAzmjt"
+        }
+      ],
+      "duration_ms": 290466,
+      "name": "Strawberry Wine",
+      "url": "https://open.spotify.com/track/3ODF56f90W3qxDqxHAUi3v"
     },
     {
       "added_at": "2023-12-01 19:54:45",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2023-12-01 19:54:45",
       "album": {
-        "name": "Never Will",
-        "url": "https://open.spotify.com/album/0GETdJ0C2pHIqCFLoUa0rP"
-      },
-      "artists": [
-        {
-          "name": "Ashley McBryde",
-          "url": "https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV"
-        }
-      ],
-      "duration_ms": 217706,
-      "name": "Martha Divine",
-      "url": "https://open.spotify.com/track/7cokvE1fABqkJL8FgUiBcS"
-    },
-    {
-      "added_at": "2023-12-01 19:54:45",
-      "album": {
         "name": "If You Have To",
         "url": "https://open.spotify.com/album/6G8k0Ah1l0Nr94WKyU8G7p"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 199493,
       "name": "If You Have To",
       "url": "https://open.spotify.com/track/6FxC6j3SQlVsnokxxhAxXN"
+    },
+    {
+      "added_at": "2023-12-01 19:54:45",
+      "album": {
+        "name": "Never Will",
+        "url": "https://open.spotify.com/album/0GETdJ0C2pHIqCFLoUa0rP"
+      },
+      "artists": [
+        {
+          "name": "Ashley McBryde",
+          "url": "https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV"
+        }
+      ],
+      "duration_ms": 217706,
+      "name": "Martha Divine",
+      "url": "https://open.spotify.com/track/7cokvE1fABqkJL8FgUiBcS"
     },
     {
       "added_at": "2023-12-01 19:54:45",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2023-12-01 19:54:45",
       "album": {
-        "name": "Summer Don't Go",
-        "url": "https://open.spotify.com/album/3GK5RCU4e54nVBhEruifRK"
-      },
-      "artists": [
-        {
-          "name": "Tenille Arts",
-          "url": "https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu"
-        }
-      ],
-      "duration_ms": 168524,
-      "name": "Summer Don't Go",
-      "url": "https://open.spotify.com/track/7CwEDwMKJOimuaw6nOtE2r"
-    },
-    {
-      "added_at": "2023-12-01 19:54:45",
-      "album": {
         "name": "Stronger Than I Am",
         "url": "https://open.spotify.com/album/1nBPIUJHyWiD0bvhQ8lGIg"
       },
@@ -1423,18 +1407,34 @@
     {
       "added_at": "2023-12-01 19:54:45",
       "album": {
-        "name": "Waking Up Dreaming",
-        "url": "https://open.spotify.com/album/7GFyc7OOv95UntmgAPtPwn"
+        "name": "Summer Don't Go",
+        "url": "https://open.spotify.com/album/3GK5RCU4e54nVBhEruifRK"
       },
       "artists": [
         {
-          "name": "Shania Twain",
-          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
+          "name": "Tenille Arts",
+          "url": "https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu"
         }
       ],
-      "duration_ms": 198802,
-      "name": "Waking Up Dreaming",
-      "url": "https://open.spotify.com/track/5cc1GqkadgfMlLszRXqdhM"
+      "duration_ms": 168524,
+      "name": "Summer Don't Go",
+      "url": "https://open.spotify.com/track/7CwEDwMKJOimuaw6nOtE2r"
+    },
+    {
+      "added_at": "2023-12-01 19:54:45",
+      "album": {
+        "name": "Bridesmaids",
+        "url": "https://open.spotify.com/album/0VdFcNM19RTRUlX59heg5A"
+      },
+      "artists": [
+        {
+          "name": "Kylie Morgan",
+          "url": "https://open.spotify.com/artist/3g2yaL04Uapb5fxmwsUZgV"
+        }
+      ],
+      "duration_ms": 170266,
+      "name": "Bridesmaids",
+      "url": "https://open.spotify.com/track/6qrJ2kxNvGey8ZEWii5teB"
     },
     {
       "added_at": "2023-12-01 19:54:45",
@@ -1479,34 +1479,18 @@
     {
       "added_at": "2023-12-01 19:54:45",
       "album": {
-        "name": "Girl to Girl",
-        "url": "https://open.spotify.com/album/4KOYQ5wkg84yhv2klrUNGN"
+        "name": "Waking Up Dreaming",
+        "url": "https://open.spotify.com/album/7GFyc7OOv95UntmgAPtPwn"
       },
       "artists": [
         {
-          "name": "Tenille Arts",
-          "url": "https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu"
+          "name": "Shania Twain",
+          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
         }
       ],
-      "duration_ms": 182666,
-      "name": "Back Then, Right Now",
-      "url": "https://open.spotify.com/track/3wgo9ePs5s7OMO6yHQJB1T"
-    },
-    {
-      "added_at": "2023-12-01 19:54:45",
-      "album": {
-        "name": "Bridesmaids",
-        "url": "https://open.spotify.com/album/0VdFcNM19RTRUlX59heg5A"
-      },
-      "artists": [
-        {
-          "name": "Kylie Morgan",
-          "url": "https://open.spotify.com/artist/3g2yaL04Uapb5fxmwsUZgV"
-        }
-      ],
-      "duration_ms": 170266,
-      "name": "Bridesmaids",
-      "url": "https://open.spotify.com/track/6qrJ2kxNvGey8ZEWii5teB"
+      "duration_ms": 198802,
+      "name": "Waking Up Dreaming",
+      "url": "https://open.spotify.com/track/5cc1GqkadgfMlLszRXqdhM"
     },
     {
       "added_at": "2023-12-01 19:54:45",
@@ -1543,6 +1527,22 @@
     {
       "added_at": "2023-12-01 19:54:45",
       "album": {
+        "name": "Ghost Story",
+        "url": "https://open.spotify.com/album/7jiRQ5lBRvqoqSsPldfHjc"
+      },
+      "artists": [
+        {
+          "name": "Carrie Underwood",
+          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
+        }
+      ],
+      "duration_ms": 181400,
+      "name": "Ghost Story",
+      "url": "https://open.spotify.com/track/2FGOg7uYBfnspkPOISXTFY"
+    },
+    {
+      "added_at": "2023-12-01 19:54:45",
+      "album": {
         "name": "Never Wanted To Be That Girl",
         "url": "https://open.spotify.com/album/3dmVohUADaRH81z0AETGev"
       },
@@ -1563,18 +1563,18 @@
     {
       "added_at": "2023-12-01 19:54:45",
       "album": {
-        "name": "Ghost Story",
-        "url": "https://open.spotify.com/album/7jiRQ5lBRvqoqSsPldfHjc"
+        "name": "Girl to Girl",
+        "url": "https://open.spotify.com/album/4KOYQ5wkg84yhv2klrUNGN"
       },
       "artists": [
         {
-          "name": "Carrie Underwood",
-          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
+          "name": "Tenille Arts",
+          "url": "https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu"
         }
       ],
-      "duration_ms": 181400,
-      "name": "Ghost Story",
-      "url": "https://open.spotify.com/track/2FGOg7uYBfnspkPOISXTFY"
+      "duration_ms": 182666,
+      "name": "Back Then, Right Now",
+      "url": "https://open.spotify.com/track/3wgo9ePs5s7OMO6yHQJB1T"
     },
     {
       "added_at": "2023-12-01 19:54:45",
@@ -1627,18 +1627,18 @@
     {
       "added_at": "2023-12-01 19:54:45",
       "album": {
-        "name": "Sayin\u2019 What I\u2019m Thinkin\u2019",
-        "url": "https://open.spotify.com/album/2WBvIseHSAwsPP4YbNgZXR"
+        "name": "Woman You Got",
+        "url": "https://open.spotify.com/album/19GuJrC5nV45shkMHbBEXm"
       },
       "artists": [
         {
-          "name": "Lainey Wilson",
-          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+          "name": "Maddie & Tae",
+          "url": "https://open.spotify.com/artist/34bhyY8jfKez7uKakMfy4y"
         }
       ],
-      "duration_ms": 201653,
-      "name": "Sayin\u2019 What I\u2019m Thinkin\u2019",
-      "url": "https://open.spotify.com/track/5AzFlhzijKM7xFPY5b1taP"
+      "duration_ms": 177951,
+      "name": "Woman You Got",
+      "url": "https://open.spotify.com/track/2NNioXX1t4whQsBF8FfExl"
     }
   ],
   "unique_name": "Women of Country",

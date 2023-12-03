@@ -424,7 +424,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-03",
       "duration_ms": 183960,
       "name": "dejarse querer",
       "url": "https://open.spotify.com/track/2fVVRlRJoqWezN8l6LdpVa"
@@ -882,6 +882,24 @@
       "duration_ms": 182100,
       "name": "Los Marcianos",
       "url": "https://open.spotify.com/track/0MVwTUha6REf54EKPefwR9"
+    },
+    {
+      "album": {
+        "name": "Me Duele Hasta Pensarte",
+        "url": "https://open.spotify.com/album/1HWn7sgeNIfAC5tdB8k23X"
+      },
+      "artists": [
+        {
+          "name": "Sebasti\u00e1n Cort\u00e9s",
+          "url": "https://open.spotify.com/artist/3BCFlhrVzBKHbzBnWr13d9"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228688,
+      "name": "Me Duele Hasta Pensarte",
+      "url": "https://open.spotify.com/track/5QA2TH7f7sjc33DU3OEJMI"
     },
     {
       "album": {

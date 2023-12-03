@@ -1,12 +1,12 @@
 {
   "description": "soundtracking your ex calling/nothing's working/existential crisis",
-  "num_followers": 58000,
+  "num_followers": 57987,
   "original_name": "mercury in retrograde",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNTgwY2Y2OTVmNmE4NWIwMDI2YmIyZjI4OTdhN2YyNzEwM2RiOGM2",
+  "snapshot_id": "MCwyMWNmNTdmMTM3ODVhOWU4MGM2MWJmM2Y2OTkyNWIwYjAzYjhjYzky",
   "tracks": [
     {
       "added_at": "2023-05-12 07:59:00",
@@ -1171,6 +1171,22 @@
     {
       "added_at": "2023-05-12 07:59:00",
       "album": {
+        "name": "chapter 2",
+        "url": "https://open.spotify.com/album/2PjloAS981jof5y1KEhOPb"
+      },
+      "artists": [
+        {
+          "name": "girl in red",
+          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
+        }
+      ],
+      "duration_ms": 219638,
+      "name": "bad idea!",
+      "url": "https://open.spotify.com/track/1HRTFytvp1Bs50ckTlL5qs"
+    },
+    {
+      "added_at": "2023-05-12 07:59:00",
+      "album": {
         "name": "Astronomy",
         "url": "https://open.spotify.com/album/4vs2JiaS6RjyxMcl0MvxLk"
       },
@@ -1231,22 +1247,6 @@
       "duration_ms": 196986,
       "name": "Waiting For Never",
       "url": "https://open.spotify.com/track/753lkDSNs2u188xbl8Vrnx"
-    },
-    {
-      "added_at": "2023-05-12 07:59:00",
-      "album": {
-        "name": "chapter 2",
-        "url": "https://open.spotify.com/album/2PjloAS981jof5y1KEhOPb"
-      },
-      "artists": [
-        {
-          "name": "girl in red",
-          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
-        }
-      ],
-      "duration_ms": 219638,
-      "name": "bad idea!",
-      "url": "https://open.spotify.com/track/1HRTFytvp1Bs50ckTlL5qs"
     },
     {
       "added_at": "2023-05-12 07:59:00",

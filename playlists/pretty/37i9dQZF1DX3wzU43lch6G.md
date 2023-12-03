@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3wzU43lch6G.md) - [plain]
 
 > Melodik Türkçe şarkılarla yaz boyu sahildesin 🏖️
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,342 likes - 50 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,329 likes - 50 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3wzU43lch6G.md) - [plain]
 | 49 | [Çıkmaz Sokaklar](https://open.spotify.com/track/1XA15AzxjLcZdIiyIaxIM0) | [Eflatun](https://open.spotify.com/artist/4C6z2n5FgN4t6Eu2n9xjGC), [Burcu Güneş](https://open.spotify.com/artist/7EJB9F3fv0x2ezht730D7F) | [Çıkmaz Sokaklar](https://open.spotify.com/album/2jBSfhq7mFVnTtLMZDi3CW) | 4:21 |
 | 50 | [Nereye Böyle](https://open.spotify.com/track/55TrAm9okj6Kwj9KOvRHAL) | [Nazan Öncel](https://open.spotify.com/artist/4li4dx5mFgZlMVeHlARBHP) | [Yan Yana Fotoğraf Çektirelim](https://open.spotify.com/album/3L6OlTkIhVflGPFy2Tzl6A) | 4:37 |
 
-Snapshot ID: `MCw0OTFmMWJhYTA0MTIyNDNhZWU0NjM4MzA4NjY2OGQ0OWYwMWI2YTEz`
+Snapshot ID: `MCxjNWUwYWEzNTRlY2M0NjVkMzk4Zjc5NTk1ZjdiZWQwYWU0MGQxNzNl`

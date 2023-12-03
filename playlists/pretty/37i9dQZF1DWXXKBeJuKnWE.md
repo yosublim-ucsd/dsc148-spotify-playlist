@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXXKBeJuKnWE.md) - [plain]
 
 > The home for heavy rockers\. Cover: Trash Boat
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,227 likes - 91 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,252 likes - 91 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXXKBeJuKnWE.md) - [plain]
 | 76 | [Oportunista](https://open.spotify.com/track/5j6GKJumEweQIpE91QZcby) | [Calva Louise](https://open.spotify.com/artist/02nZLQtQ4vL5iHyp6atBrh) | [Oportunista](https://open.spotify.com/album/0bcLhYRcisUhImKFtAxxEh) | 3:08 |
 | 77 | [Twilight](https://open.spotify.com/track/3JPwUS8LRA6nBiukvMBb9a) | [As Everything Unfolds](https://open.spotify.com/artist/28IImD2QqPWTQ2cWgOMQNT) | [Ultraviolet](https://open.spotify.com/album/3shvTPBaqgggoWWKIZXC94) | 3:21 |
 | 78 | [Demure](https://open.spotify.com/track/0q3a74dm3dH5Sm8ORI2hnB) | [Heriot](https://open.spotify.com/artist/49O77SKrEk1b9sNjhI0kM4) | [Demure](https://open.spotify.com/album/7wuJv3LE3mXdMY0CxF29Mj) | 4:49 |
-| 79 | [BLOODPUDDLE](https://open.spotify.com/track/4cbmaakH3pHNNBn4oYhxgO) | [Siiickbrain](https://open.spotify.com/artist/1oPEr1Ci8sWOYj8SSh2VPE) | [BLOODPUDDLE](https://open.spotify.com/album/1ECcVLJb9ksKW15h4Slulo) | 1:54 |
+| 79 | [BLOOD PUDDLE](https://open.spotify.com/track/5kkeXjTwDKrMJdpXA2nFZq) | [Siiickbrain](https://open.spotify.com/artist/1oPEr1Ci8sWOYj8SSh2VPE) | [BLOOD PUDDLE](https://open.spotify.com/album/5DfUyG3nyxRRKOzj5hV4PU) | 1:54 |
 | 80 | [Orbit](https://open.spotify.com/track/5prO0h2vJBh5jUgzNFCvG4) | [Dream Wife](https://open.spotify.com/artist/2DaP4uXwKOXAaD77XokW9a) | [Social Lubrication](https://open.spotify.com/album/4zhDraKp81jTANE6rvH4G7) | 3:32 |
 | 81 | [Postcard Xo](https://open.spotify.com/track/2s5sA6obI4A2Up2LnNQI4k) | [RedHook](https://open.spotify.com/artist/6OVWDN6Ty6RfnhUJlrYBlI) | [Postcard From A Living Hell](https://open.spotify.com/album/0rLlOMVqC1ays12giqcMRS) | 2:56 |
 | 82 | [Honed Blade](https://open.spotify.com/track/5cLTEtlFjIhQynuwfngPwp) | [GEL](https://open.spotify.com/artist/1fRv9jiRIN7zAOSpOfRP73) | [Honed Blade](https://open.spotify.com/album/12U9KgMnYLJHd1UkZzdOJN) | 1:40 |
@@ -100,4 +100,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXXKBeJuKnWE.md) - [plain]
 | 90 | [Swallow](https://open.spotify.com/track/0bDFmPqNCXQcfAc3njZszA) | [Harpy](https://open.spotify.com/artist/0fLFfyc0914STFxEyQHZhX) | [Swallow](https://open.spotify.com/album/7hXMo6KNd71w3y7Zd4r134) | 3:09 |
 | 91 | [Scream](https://open.spotify.com/track/1Ar6ZDBwSNYGlSxAiT7xYH) | [CRASHFACE](https://open.spotify.com/artist/5KjrHPtIS2XCqs5zZwnydX) | [Prototype](https://open.spotify.com/album/3aEYmTTLwf0viUwQXVLKps) | 3:31 |
 
-Snapshot ID: `MCxhYTE1OTQ4ZWVhOTBmZmNiNmVkOGNjMmE5YWVhNDlhNTI4YjNmYjYy`
+Snapshot ID: `MCxjMmRjYzQ4Y2U2NThlMjg1NTE0MjFmYjdhNzIwYTlkNmY2ZGYxNjA1`

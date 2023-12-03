@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59CyY8YTix2.md) - [plain]
 
 > 国内ロックシーンで活躍する女性アーティストたちを特集。Japanese women rock icons\. Cover: 名誉伝説
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,207 likes - 70 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,213 likes - 70 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59CyY8YTix2.md) - [plain]
 | 28 | [レリトラ](https://open.spotify.com/track/5UZzUJcGrE0l4HVQ60G2NB) | [Ellipsick](https://open.spotify.com/artist/1jtFbKwxW3ZKJV5zvhWmiW) | [レリトラ](https://open.spotify.com/album/1vVB8OoGrJdfHXpfNmlmBl) | 3:12 |
 | 29 | [Rebellion](https://open.spotify.com/track/7KJdus5lqrlOHasB6kwvf4) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Rebellion](https://open.spotify.com/album/1RwGDS3qFOsT9mRJptyCEF) | 2:58 |
 | 30 | [innocent arrogance](https://open.spotify.com/track/7JgBlEV4AbeHVhaTczGdTg) | [BiSH](https://open.spotify.com/artist/0ebinq3ZTOQAJNag4sBTJj) | [innocent arrogance](https://open.spotify.com/album/1VoA8bMAIB5BRjSMqaFQkP) | 3:31 |
-| 31 | [永遠のブルー](https://open.spotify.com/track/1MsgOy65pxeU7BZkDvqItH) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [永遠のブルー](https://open.spotify.com/album/467z72afv2XBxXxaXrVOfo) | 3:48 |
-| 32 | [Red:birthmark](https://open.spotify.com/track/29m9hdcziVa1g3FrXtdNOe) | [AiNA THE END](https://open.spotify.com/artist/5k7KS34gxQbzdQaXWSOVKC) | [Red:birthmark](https://open.spotify.com/album/7AY0g8TDN47O4adtsPLFgj) | 3:36 |
+| 31 | [Red:birthmark](https://open.spotify.com/track/29m9hdcziVa1g3FrXtdNOe) | [AiNA THE END](https://open.spotify.com/artist/5k7KS34gxQbzdQaXWSOVKC) | [Red:birthmark](https://open.spotify.com/album/7AY0g8TDN47O4adtsPLFgj) | 3:36 |
+| 32 | [永遠のブルー](https://open.spotify.com/track/1MsgOy65pxeU7BZkDvqItH) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [永遠のブルー](https://open.spotify.com/album/467z72afv2XBxXxaXrVOfo) | 3:48 |
 | 33 | [可愛いユナちゃん](https://open.spotify.com/track/51Wglv2PINrDBmgjFBZAet) | [超☆社会的サンダル](https://open.spotify.com/artist/6T3QAYc6bkesA1o8mCc7G4) | [可愛いユナちゃん](https://open.spotify.com/album/2Tq9r4PxlmsRHur9umG7Aw) | 3:59 |
 | 34 | [ピンクブルー](https://open.spotify.com/track/1VRwCezjpvjnCrab92b1dk) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [pink blue](https://open.spotify.com/album/07kXEBPM0KuSkMTr73giQ0) | 3:56 |
 | 35 | [Enigma](https://open.spotify.com/track/2otEQ8u6yy6RrOdOAbAUfY) | [NEMOPHILA](https://open.spotify.com/artist/1ijXMkMWUj8mJrW2SnIvpp) | [Enigma](https://open.spotify.com/album/0q24SGJZK1HhVfthfgRS23) | 3:13 |
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59CyY8YTix2.md) - [plain]
 | 59 | [プロミスザスター ’23](https://open.spotify.com/track/7KqTlO3F2ADdDbKZvbl3Yc) | [BiSH](https://open.spotify.com/artist/0ebinq3ZTOQAJNag4sBTJj) | [BiSH THE BEST](https://open.spotify.com/album/31ogU6hrmcIquFGKu9zcX3) | 4:29 |
 | 60 | [故のLOVE](https://open.spotify.com/track/6vVKI6HXIsGssqGYGuKmF8) | [チョーキューメイ](https://open.spotify.com/artist/5ZFxExn8YICZm9JFo9dqTq) | [LOVEの飽和水蒸気量](https://open.spotify.com/album/6ZVZ2hZV5bnFpLFQOqptuM) | 3:30 |
 | 61 | [Sing The Moon](https://open.spotify.com/track/5aDVNw5prQNcjWF02jhxmo) | [Tsukuyomi](https://open.spotify.com/artist/2mcj8ajoE1eFlNkAihw5Cg) | [Sing The Moon](https://open.spotify.com/album/5J5JoAGR9Ui790ti2gDNiO) | 3:26 |
-| 62 | [僕は頑張るよっ feat\. ano](https://open.spotify.com/track/6HTt0UBXjddAblVhEVT5Lj) | [Shinsei Kamattechan](https://open.spotify.com/artist/1ZnuqrjIR4q8zhgriUYsSo), [ano](https://open.spotify.com/artist/7Il739Q5W4yJUYC3hfnX6z) | [僕は頑張るよっ feat\. ano](https://open.spotify.com/album/7eUAgP5PIKzqzHYquOpmfe) | 5:03 |
-| 63 | [光のない街](https://open.spotify.com/track/4sFFRTI8G2aKOyR8Nzh0VA) | [nano.RIPE](https://open.spotify.com/artist/1GQptL2kOEsfMXerW4OjMT) | [光のない街](https://open.spotify.com/album/6p4k2Cw0pgfk2BuYGmQUkK) | 4:13 |
+| 62 | [光のない街](https://open.spotify.com/track/4sFFRTI8G2aKOyR8Nzh0VA) | [nano.RIPE](https://open.spotify.com/artist/1GQptL2kOEsfMXerW4OjMT) | [光のない街](https://open.spotify.com/album/6p4k2Cw0pgfk2BuYGmQUkK) | 4:13 |
+| 63 | [僕は頑張るよっ feat\. ano](https://open.spotify.com/track/6HTt0UBXjddAblVhEVT5Lj) | [Shinsei Kamattechan](https://open.spotify.com/artist/1ZnuqrjIR4q8zhgriUYsSo), [ano](https://open.spotify.com/artist/7Il739Q5W4yJUYC3hfnX6z) | [僕は頑張るよっ feat\. ano](https://open.spotify.com/album/7eUAgP5PIKzqzHYquOpmfe) | 5:03 |
 | 64 | [夏が来るたび](https://open.spotify.com/track/55ItTj78No5IMK6yR9grGj) | [あたらよ](https://open.spotify.com/artist/2yRnjWtHzmDELwYaUiX0Yh) | [季億の箱](https://open.spotify.com/album/5vBcyTeKwu2h7JBdkjhURs) | 3:59 |
 | 65 | [人生オーバー](https://open.spotify.com/track/1WofPyCiUQ9I1XgczV8HV1) | [harha](https://open.spotify.com/artist/5V4VtQwk2WtMZd93CdYxvh) | [人生オーバー](https://open.spotify.com/album/1RBao56wV7JfUNLPFQoVN5) | 3:34 |
 | 66 | [わたしの宇宙](https://open.spotify.com/track/5xn9ggmbMNk93XV5ofQedP) | [SHISHAMO](https://open.spotify.com/artist/6MGHit7sV38BhpChZYByFv) | [わたしの宇宙](https://open.spotify.com/album/31466iOJPJaJ0ufRHpPkce) | 4:59 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59CyY8YTix2.md) - [plain]
 | 69 | [baby blue eyes](https://open.spotify.com/track/1ZH8xfse7AimYhri5u29ew) | [Conton Candy](https://open.spotify.com/artist/6FuFgQvi3GNYr4yDuh4Fxq) | [baby blue eyes](https://open.spotify.com/album/1GGa1VAV3dcPJRCIT7Y8ue) | 3:11 |
 | 70 | [Futaba](https://open.spotify.com/track/1orwxUzvNOgv02NwPORbS4) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [Falling into your eyes Record](https://open.spotify.com/album/5KLZZ5X7b8eM8OXXUBYfgz) | 4:37 |
 
-Snapshot ID: `MCxhNzYyNWI0Y2Q3ZTUzNWY5ZjYwMzU2MWYzZDg1NjNhNjYyNGQ2ODEy`
+Snapshot ID: `MCxhZGU3Njg0OTM1NjBjYjQ2ZTUyMWE4N2JhMDFkN2RmNTQ2NzBiNjcx`

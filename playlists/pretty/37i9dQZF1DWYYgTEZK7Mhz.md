@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYYgTEZK7Mhz.md) - [plain]
 
 > Un'estate al mare, stile balenare..\. 🏝️ Hit dell'estate italiana anni 60, 70 e 80!
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,909 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,953 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYYgTEZK7Mhz.md) - [plain]
 | 30 | [Abbronzatissima](https://open.spotify.com/track/5pBoclEiiZgUyZMXgR3jJ7) | [Edoardo Vianello](https://open.spotify.com/artist/1HGnzMzxvfaSkMi98DLkgo), [Elfrida Ismolli](https://open.spotify.com/artist/7KgjTBE5cyhpRvaePgqexx) | [Estate](https://open.spotify.com/album/62YRZrKrezkG7oEbtdDzFi) | 2:29 |
 | 31 | [Stessa spiaggia stesso mare](https://open.spotify.com/track/30FSOhZMMbmbBvWHKO1zRH) | [Piero Focaccia](https://open.spotify.com/artist/0lJodOFdgKJsP8TWJlhVjK) | [Stessa spiaggia stesso mare](https://open.spotify.com/album/6G8ubrPkyF6iNFO5mCOUlK) | 3:00 |
 | 32 | [Andavo A Cento All'Ora](https://open.spotify.com/track/0JcxwcoLqFiqNXAAw2AeoH) | [Gianni Morandi](https://open.spotify.com/artist/15FrhfFYJIx7Ijltkpjbsr) | [Gianni Morandi](https://open.spotify.com/album/1Z47BhRPU4sSFwXdJDYPsS) | 2:32 |
-| 33 | [24,000 baci](https://open.spotify.com/track/0WYFtZ7NL2SHwhnisVHpwM) | [Adriano Celetano](https://open.spotify.com/artist/6XDjliEwwXtUBoFwqtPeGc) | [Amore Mio \(Les plus belles chansons d'amour Italiennes\)](https://open.spotify.com/album/3iCbyFhMUuMQbJjoG5FnZg) | 2:16 |
-| 34 | [Fotoromanza](https://open.spotify.com/track/58KPUv9L8rmAosHctUoaJr) | [Gianna Nannini](https://open.spotify.com/artist/0h0p7RkMjCUMdcf0nXmHjX) | [Hitstory Deluxe Edition](https://open.spotify.com/album/21SiB3EmnL1D1uXbYWH3gv) | 4:28 |
+| 33 | [Fotoromanza](https://open.spotify.com/track/58KPUv9L8rmAosHctUoaJr) | [Gianna Nannini](https://open.spotify.com/artist/0h0p7RkMjCUMdcf0nXmHjX) | [Hitstory Deluxe Edition](https://open.spotify.com/album/21SiB3EmnL1D1uXbYWH3gv) | 4:28 |
+| 34 | [24,000 baci](https://open.spotify.com/track/0WYFtZ7NL2SHwhnisVHpwM) | [Adriano Celetano](https://open.spotify.com/artist/6XDjliEwwXtUBoFwqtPeGc) | [Amore Mio \(Les plus belles chansons d'amour Italiennes\)](https://open.spotify.com/album/3iCbyFhMUuMQbJjoG5FnZg) | 2:16 |
 | 35 | [Guarda come dondolo](https://open.spotify.com/track/1dtb5yOshvGUMIhYhvdoxh) | [Edoardo Vianello](https://open.spotify.com/artist/1HGnzMzxvfaSkMi98DLkgo), [Elfrida Ismolli](https://open.spotify.com/artist/7KgjTBE5cyhpRvaePgqexx) | [Estate](https://open.spotify.com/album/62YRZrKrezkG7oEbtdDzFi) | 2:31 |
 | 36 | [Vamos a la Playa](https://open.spotify.com/track/5ULXfqPkKKEb8eWK2UMTQP) | [Righeira](https://open.spotify.com/artist/6hfVCgKTJbLM6M18e2z7OI) | [Righeira The 80's Hit Songs](https://open.spotify.com/album/0kXv5aOToWfQDF31IfM7mm) | 3:37 |
 | 37 | [L'esercito del surf](https://open.spotify.com/track/0JceaCTWD2nVzPqA27yK9W) | [Catherine Spaak](https://open.spotify.com/artist/0GBQEo1KqJaRlPqO1UMLh2) | [Catherine Spaak](https://open.spotify.com/album/43kTmexEORoUruj66w0F4o) | 2:09 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYYgTEZK7Mhz.md) - [plain]
 | 49 | [Sei diventata nera](https://open.spotify.com/track/2nQzlb5i7JKIj1xMrf9yVu) | [Los Marcellos Ferial](https://open.spotify.com/artist/0qND4ojDsVHfdXhABRJkTN) | [Profumo di sole...](https://open.spotify.com/album/3hZVHN9BomKxHogbobO2hR) | 2:12 |
 | 50 | [Il mare nel cassetto](https://open.spotify.com/track/1FWuLRNYe3hP55SJ5X7LeK) | [Milva](https://open.spotify.com/artist/2yTY8E1aIo4qaM9m5teX8N) | [Le più belle canzoni di Milva](https://open.spotify.com/album/02bbP27Gmj806q1chWuZP1) | 3:00 |
 
-Snapshot ID: `MCw4NTA5MTBhMzhkMzBkYzVjYjA2MWM1ZGNiN2MwN2UwMjRjYTkyZTg0`
+Snapshot ID: `MCw3NTZmNTFmYmNjMmZlNWE3YjVjYzk4MjhjNjcxYmUzOTM3ZjE3OTNk`

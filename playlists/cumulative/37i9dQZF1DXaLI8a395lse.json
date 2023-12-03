@@ -1425,6 +1425,24 @@
     },
     {
       "album": {
+        "name": "You Are the Quarry",
+        "url": "https://open.spotify.com/album/0Lm2IOzemQ5aQqDGge3xVB"
+      },
+      "artists": [
+        {
+          "name": "Morrissey",
+          "url": "https://open.spotify.com/artist/3iTsJGG39nMg9YiolUgLMQ"
+        }
+      ],
+      "date_added": "2022-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218586,
+      "name": "First of the Gang to Die",
+      "url": "https://open.spotify.com/track/56rcBuVd1mpTeqP9cj3szc"
+    },
+    {
+      "album": {
         "name": "Refried Ectoplasm [Switched On Volume 2]",
         "url": "https://open.spotify.com/album/6e9SIhpwUY4B3oyVT2W7bW"
       },
@@ -2448,7 +2466,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-03",
       "duration_ms": 347093,
       "name": "Love Spreads",
       "url": "https://open.spotify.com/track/6JvEXmRh3l2acBzvqavgT9"

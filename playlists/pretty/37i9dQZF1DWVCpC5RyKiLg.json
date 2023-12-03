@@ -1,12 +1,12 @@
 {
   "description": "Pagode e Sertanejo pura sofr\u00eancia para te acompanhar na faxina!",
-  "num_followers": 709158,
+  "num_followers": 709263,
   "original_name": "Faxina com Sofr\u00eancia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNjNhYWI4ZjRjOTc4ZTkxZWRiYzBjMmJjZmM5OWQ0ODg0ZTdhMDYz",
+  "snapshot_id": "MCxmYTA5Mjc1MzUxYWQ4MjFhZjdmOGNiZWE5NzQ0MDdkZjYzNDk4NDVj",
   "tracks": [
     {
       "added_at": "2023-11-17 03:01:00",
@@ -427,22 +427,6 @@
     {
       "added_at": "2023-11-17 03:01:00",
       "album": {
-        "name": "Por Mais Beijos Ao Vivo",
-        "url": "https://open.spotify.com/album/1Yg3QTRv9IGAWeJQb7q8bT"
-      },
-      "artists": [
-        {
-          "name": "Z\u00e9 Neto & Cristiano",
-          "url": "https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs"
-        }
-      ],
-      "duration_ms": 169593,
-      "name": "Al\u00f4 Ambev (Segue Sua Vida) - Ao Vivo",
-      "url": "https://open.spotify.com/track/5m5aY6S9ttfIG157xli2Rs"
-    },
-    {
-      "added_at": "2023-11-17 03:01:00",
-      "album": {
         "name": "F\u00e3 de Carteirinha Sunset (Ao Vivo)",
         "url": "https://open.spotify.com/album/0QAoo8Zi6hG6dy2Ca58I9K"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 342622,
       "name": "Nem de Gra\u00e7a / Saudade Arrega\u00e7a - Ao Vivo",
       "url": "https://open.spotify.com/track/3rDAHk73LZmgJIyGZstWQ0"
+    },
+    {
+      "added_at": "2023-11-17 03:01:00",
+      "album": {
+        "name": "Por Mais Beijos Ao Vivo",
+        "url": "https://open.spotify.com/album/1Yg3QTRv9IGAWeJQb7q8bT"
+      },
+      "artists": [
+        {
+          "name": "Z\u00e9 Neto & Cristiano",
+          "url": "https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs"
+        }
+      ],
+      "duration_ms": 169593,
+      "name": "Al\u00f4 Ambev (Segue Sua Vida) - Ao Vivo",
+      "url": "https://open.spotify.com/track/5m5aY6S9ttfIG157xli2Rs"
     },
     {
       "added_at": "2023-11-17 03:01:00",
@@ -547,22 +547,6 @@
     {
       "added_at": "2023-11-17 03:01:00",
       "album": {
-        "name": "Ao Vivo em S\u00e3o Jos\u00e9 do Rio Preto (Deluxe)",
-        "url": "https://open.spotify.com/album/7eKb9OUJogXHVngYaCxTCR"
-      },
-      "artists": [
-        {
-          "name": "Z\u00e9 Neto & Cristiano",
-          "url": "https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs"
-        }
-      ],
-      "duration_ms": 169466,
-      "name": "Seu Pol\u00edcia - Ao Vivo",
-      "url": "https://open.spotify.com/track/39995SwI9fcO5ON9aku0gU"
-    },
-    {
-      "added_at": "2023-11-17 03:01:00",
-      "album": {
         "name": "Terra do Nunca (Ao Vivo)",
         "url": "https://open.spotify.com/album/5Sl0uDchhuleATxPwmSN4y"
       },
@@ -599,22 +583,6 @@
     {
       "added_at": "2023-11-17 03:01:00",
       "album": {
-        "name": "Realidade - Ao Vivo Em Manaus",
-        "url": "https://open.spotify.com/album/5EOY7EuE83D9oSeT9eR9ry"
-      },
-      "artists": [
-        {
-          "name": "Mar\u00edlia Mendon\u00e7a",
-          "url": "https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8"
-        }
-      ],
-      "duration_ms": 202066,
-      "name": "De Quem \u00c9 a Culpa? - Ao Vivo",
-      "url": "https://open.spotify.com/track/4YhPcVIxIAJrLhFVPGbJkE"
-    },
-    {
-      "added_at": "2023-11-17 03:01:00",
-      "album": {
         "name": "Continua",
         "url": "https://open.spotify.com/album/5MApIKrwbZby8tMOND098R"
       },
@@ -631,8 +599,24 @@
     {
       "added_at": "2023-11-17 03:01:00",
       "album": {
-        "name": "Esquece o Mundo L\u00e1 Fora (Ao Vivo) - Deluxe",
-        "url": "https://open.spotify.com/album/0wQ5Sn6RU4yL6WpeiWSaBN"
+        "name": "Realidade - Ao Vivo Em Manaus",
+        "url": "https://open.spotify.com/album/5EOY7EuE83D9oSeT9eR9ry"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00edlia Mendon\u00e7a",
+          "url": "https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8"
+        }
+      ],
+      "duration_ms": 202066,
+      "name": "De Quem \u00c9 a Culpa? - Ao Vivo",
+      "url": "https://open.spotify.com/track/4YhPcVIxIAJrLhFVPGbJkE"
+    },
+    {
+      "added_at": "2023-11-17 03:01:00",
+      "album": {
+        "name": "Ao Vivo em S\u00e3o Jos\u00e9 do Rio Preto (Deluxe)",
+        "url": "https://open.spotify.com/album/7eKb9OUJogXHVngYaCxTCR"
       },
       "artists": [
         {
@@ -640,9 +624,9 @@
           "url": "https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs"
         }
       ],
-      "duration_ms": 153934,
-      "name": "Status Que Eu N\u00e3o Queria - Ao Vivo",
-      "url": "https://open.spotify.com/track/43tDjfz9Inw7Soy0jzxowN"
+      "duration_ms": 169466,
+      "name": "Seu Pol\u00edcia - Ao Vivo",
+      "url": "https://open.spotify.com/track/39995SwI9fcO5ON9aku0gU"
     },
     {
       "added_at": "2023-11-17 03:01:00",
@@ -659,6 +643,22 @@
       "duration_ms": 204681,
       "name": "Sinto sua falta - Ao vivo",
       "url": "https://open.spotify.com/track/3eWHUE5D5R19q7BvOX7NSJ"
+    },
+    {
+      "added_at": "2023-11-17 03:01:00",
+      "album": {
+        "name": "Os Anjos Cantam",
+        "url": "https://open.spotify.com/album/0spzPH10djjrUshMB2z9jt"
+      },
+      "artists": [
+        {
+          "name": "Jorge & Mateus",
+          "url": "https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM"
+        }
+      ],
+      "duration_ms": 167240,
+      "name": "Nocaute",
+      "url": "https://open.spotify.com/track/2NnSYdNhqye00il4nRB4tj"
     },
     {
       "added_at": "2023-11-17 03:01:00",
@@ -711,22 +711,6 @@
     {
       "added_at": "2023-11-17 03:01:00",
       "album": {
-        "name": "Os Anjos Cantam",
-        "url": "https://open.spotify.com/album/0spzPH10djjrUshMB2z9jt"
-      },
-      "artists": [
-        {
-          "name": "Jorge & Mateus",
-          "url": "https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM"
-        }
-      ],
-      "duration_ms": 167240,
-      "name": "Nocaute",
-      "url": "https://open.spotify.com/track/2NnSYdNhqye00il4nRB4tj"
-    },
-    {
-      "added_at": "2023-11-17 03:01:00",
-      "album": {
         "name": "Sogra (Ao Vivo)",
         "url": "https://open.spotify.com/album/2JIKCyhUqzmfiDWYcZbKiH"
       },
@@ -763,6 +747,22 @@
     {
       "added_at": "2023-11-17 03:01:00",
       "album": {
+        "name": "Esquece o Mundo L\u00e1 Fora (Ao Vivo) - Deluxe",
+        "url": "https://open.spotify.com/album/0wQ5Sn6RU4yL6WpeiWSaBN"
+      },
+      "artists": [
+        {
+          "name": "Z\u00e9 Neto & Cristiano",
+          "url": "https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs"
+        }
+      ],
+      "duration_ms": 153934,
+      "name": "Status Que Eu N\u00e3o Queria - Ao Vivo",
+      "url": "https://open.spotify.com/track/43tDjfz9Inw7Soy0jzxowN"
+    },
+    {
+      "added_at": "2023-11-17 03:01:00",
+      "album": {
         "name": "Amando, Bebendo e Sofrendo (Ao Vivo) - EP 3",
         "url": "https://open.spotify.com/album/5tR4iEANCfJjjUOgxyYhtD"
       },
@@ -783,6 +783,22 @@
     {
       "added_at": "2023-11-17 03:01:00",
       "album": {
+        "name": "Ch\u00e3o de estrelas (Ao vivo)",
+        "url": "https://open.spotify.com/album/2sRaJ90PEqpDf1XU0T4zun"
+      },
+      "artists": [
+        {
+          "name": "Ferrugem",
+          "url": "https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2"
+        }
+      ],
+      "duration_ms": 224181,
+      "name": "At\u00e9 que enfim - Ao vivo",
+      "url": "https://open.spotify.com/track/1zI3RU0boCVsAXChjCvESu"
+    },
+    {
+      "added_at": "2023-11-17 03:01:00",
+      "album": {
         "name": "Sobrenome (Ao Vivo)",
         "url": "https://open.spotify.com/album/5mxkr7VInEvT2afoTjiQVB"
       },
@@ -799,22 +815,6 @@
       "duration_ms": 192253,
       "name": "Sobrenome - Ao vivo",
       "url": "https://open.spotify.com/track/3gYvOU6MJGBS2WNyDTW7Ui"
-    },
-    {
-      "added_at": "2023-11-17 03:01:00",
-      "album": {
-        "name": "Amor Da Sua Cama",
-        "url": "https://open.spotify.com/album/2FlH6Ha4zVKWQwCoOt8ldv"
-      },
-      "artists": [
-        {
-          "name": "Felipe Ara\u00fajo",
-          "url": "https://open.spotify.com/artist/47uyFQHOD02S0lj9ptRpoB"
-        }
-      ],
-      "duration_ms": 188309,
-      "name": "Amor Da Sua Cama",
-      "url": "https://open.spotify.com/track/5rq31V6YJVklhB7HxXn9I8"
     },
     {
       "added_at": "2023-11-17 03:01:00",
@@ -851,18 +851,18 @@
     {
       "added_at": "2023-11-17 03:01:00",
       "album": {
-        "name": "Ch\u00e3o de estrelas (Ao vivo)",
-        "url": "https://open.spotify.com/album/2sRaJ90PEqpDf1XU0T4zun"
+        "name": "Amor Da Sua Cama",
+        "url": "https://open.spotify.com/album/2FlH6Ha4zVKWQwCoOt8ldv"
       },
       "artists": [
         {
-          "name": "Ferrugem",
-          "url": "https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2"
+          "name": "Felipe Ara\u00fajo",
+          "url": "https://open.spotify.com/artist/47uyFQHOD02S0lj9ptRpoB"
         }
       ],
-      "duration_ms": 224181,
-      "name": "At\u00e9 que enfim - Ao vivo",
-      "url": "https://open.spotify.com/track/1zI3RU0boCVsAXChjCvESu"
+      "duration_ms": 188309,
+      "name": "Amor Da Sua Cama",
+      "url": "https://open.spotify.com/track/5rq31V6YJVklhB7HxXn9I8"
     },
     {
       "added_at": "2023-11-17 03:01:00",
@@ -879,6 +879,22 @@
       "duration_ms": 190244,
       "name": "\u00c1udio - Ao Vivo em Bras\u00edlia",
       "url": "https://open.spotify.com/track/2PqPSf3gtTED79rWGwVtYg"
+    },
+    {
+      "added_at": "2023-11-17 03:01:00",
+      "album": {
+        "name": "Prazer, eu sou Ferrugem (Ao vivo)",
+        "url": "https://open.spotify.com/album/3SkOXrdSri5EIpDpUvfdm3"
+      },
+      "artists": [
+        {
+          "name": "Ferrugem",
+          "url": "https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2"
+        }
+      ],
+      "duration_ms": 219592,
+      "name": "Pirata e tesouro - Ao vivo",
+      "url": "https://open.spotify.com/track/3Cabw7y9EoR68v7dBS76HQ"
     },
     {
       "added_at": "2023-11-17 03:01:00",
@@ -931,22 +947,6 @@
     {
       "added_at": "2023-11-17 03:01:00",
       "album": {
-        "name": "Prazer, eu sou Ferrugem (Ao vivo)",
-        "url": "https://open.spotify.com/album/3SkOXrdSri5EIpDpUvfdm3"
-      },
-      "artists": [
-        {
-          "name": "Ferrugem",
-          "url": "https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2"
-        }
-      ],
-      "duration_ms": 219592,
-      "name": "Pirata e tesouro - Ao vivo",
-      "url": "https://open.spotify.com/track/3Cabw7y9EoR68v7dBS76HQ"
-    },
-    {
-      "added_at": "2023-11-17 03:01:00",
-      "album": {
         "name": "Buteco do Gusttavo Lima, Vol. 2",
         "url": "https://open.spotify.com/album/1quJKGITMBDF2S4x0Zl2Vn"
       },
@@ -959,6 +959,22 @@
       "duration_ms": 199701,
       "name": "Apelido Carinhoso",
       "url": "https://open.spotify.com/track/5xYsacjSZrSYJQDacIs0tq"
+    },
+    {
+      "added_at": "2023-11-17 03:01:00",
+      "album": {
+        "name": "TunTunTun (Spotify Singles)",
+        "url": "https://open.spotify.com/album/4fvmp2unR8rEX9rEAiQgCK"
+      },
+      "artists": [
+        {
+          "name": "Grupo Benzadeus",
+          "url": "https://open.spotify.com/artist/66aYJzbeqXd9LyYc1qppzy"
+        }
+      ],
+      "duration_ms": 186501,
+      "name": "TunTunTun - Spotify Singles",
+      "url": "https://open.spotify.com/track/664sTugsU30HsYEwGfmv0C"
     },
     {
       "added_at": "2023-11-17 03:01:00",
@@ -999,34 +1015,22 @@
     {
       "added_at": "2023-11-17 03:01:00",
       "album": {
-        "name": "TunTunTun (Spotify Singles)",
-        "url": "https://open.spotify.com/album/4fvmp2unR8rEX9rEAiQgCK"
+        "name": "Prazer, eu sou Ferrugem (Ao vivo)",
+        "url": "https://open.spotify.com/album/3SkOXrdSri5EIpDpUvfdm3"
       },
       "artists": [
         {
-          "name": "Grupo Benzadeus",
-          "url": "https://open.spotify.com/artist/66aYJzbeqXd9LyYc1qppzy"
-        }
-      ],
-      "duration_ms": 186501,
-      "name": "TunTunTun - Spotify Singles",
-      "url": "https://open.spotify.com/track/664sTugsU30HsYEwGfmv0C"
-    },
-    {
-      "added_at": "2023-11-17 03:01:00",
-      "album": {
-        "name": "Livre (Ao Vivo / Deluxe)",
-        "url": "https://open.spotify.com/album/5XzBQMo9WMrpRlgoBaeTIf"
-      },
-      "artists": [
+          "name": "Ferrugem",
+          "url": "https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2"
+        },
         {
-          "name": "Lauana Prado",
-          "url": "https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y"
+          "name": "Bruno Cardoso",
+          "url": "https://open.spotify.com/artist/34IKMjXZ3Qy0vjG82n97r6"
         }
       ],
-      "duration_ms": 164407,
-      "name": "Viva Voz - Ao Vivo Em S\u00e3o Paulo / 2019",
-      "url": "https://open.spotify.com/track/1jomN1tLiPE5eGd9siFJYE"
+      "duration_ms": 207093,
+      "name": "\u00c9 natural (Participa\u00e7\u00e3o especial de Bruno Cardoso) - Ao vivo",
+      "url": "https://open.spotify.com/track/0vT797IpZpF5o1XLCnWCUL"
     },
     {
       "added_at": "2023-11-17 03:01:00",
@@ -1051,6 +1055,22 @@
     {
       "added_at": "2023-11-17 03:01:00",
       "album": {
+        "name": "Livre (Ao Vivo / Deluxe)",
+        "url": "https://open.spotify.com/album/5XzBQMo9WMrpRlgoBaeTIf"
+      },
+      "artists": [
+        {
+          "name": "Lauana Prado",
+          "url": "https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y"
+        }
+      ],
+      "duration_ms": 164407,
+      "name": "Viva Voz - Ao Vivo Em S\u00e3o Paulo / 2019",
+      "url": "https://open.spotify.com/track/1jomN1tLiPE5eGd9siFJYE"
+    },
+    {
+      "added_at": "2023-11-17 03:01:00",
+      "album": {
         "name": "De Bra\u00e7os Abertos (Ao Vivo)",
         "url": "https://open.spotify.com/album/6plZQVlgm6HDExDtMcb4iC"
       },
@@ -1071,26 +1091,6 @@
     {
       "added_at": "2023-11-17 03:01:00",
       "album": {
-        "name": "Prazer, eu sou Ferrugem (Ao vivo)",
-        "url": "https://open.spotify.com/album/3SkOXrdSri5EIpDpUvfdm3"
-      },
-      "artists": [
-        {
-          "name": "Ferrugem",
-          "url": "https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2"
-        },
-        {
-          "name": "Bruno Cardoso",
-          "url": "https://open.spotify.com/artist/34IKMjXZ3Qy0vjG82n97r6"
-        }
-      ],
-      "duration_ms": 207093,
-      "name": "\u00c9 natural (Participa\u00e7\u00e3o especial de Bruno Cardoso) - Ao vivo",
-      "url": "https://open.spotify.com/track/0vT797IpZpF5o1XLCnWCUL"
-    },
-    {
-      "added_at": "2023-11-17 03:01:00",
-      "album": {
         "name": "In The Cities - Ao Vivo Em Cuiab\u00e1",
         "url": "https://open.spotify.com/album/5nGde95l1DJcFZCB3NOduX"
       },
@@ -1103,6 +1103,22 @@
       "duration_ms": 220853,
       "name": "\u00c9 Com Ela Que Eu Estou - Ao Vivo",
       "url": "https://open.spotify.com/track/07NSyHtBkMt2pb9sJoZxUB"
+    },
+    {
+      "added_at": "2023-11-17 03:01:00",
+      "album": {
+        "name": "Prazer, eu sou Ferrugem (Ao vivo)",
+        "url": "https://open.spotify.com/album/3SkOXrdSri5EIpDpUvfdm3"
+      },
+      "artists": [
+        {
+          "name": "Ferrugem",
+          "url": "https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2"
+        }
+      ],
+      "duration_ms": 203894,
+      "name": "Pra voc\u00ea acreditar - Ao vivo",
+      "url": "https://open.spotify.com/track/5KNi9XFap48ry4puG7rvqv"
     },
     {
       "added_at": "2023-11-17 03:01:00",
@@ -1171,18 +1187,22 @@
     {
       "added_at": "2023-11-17 03:01:00",
       "album": {
-        "name": "Prazer, eu sou Ferrugem (Ao vivo)",
-        "url": "https://open.spotify.com/album/3SkOXrdSri5EIpDpUvfdm3"
+        "name": "Sensa\u00e7\u00f5es",
+        "url": "https://open.spotify.com/album/5Vh7WgMgkfdv89oPwPWf6p"
       },
       "artists": [
         {
-          "name": "Ferrugem",
-          "url": "https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2"
+          "name": "P\u00e9ricles",
+          "url": "https://open.spotify.com/artist/6gEzJZrbm0F4ihvE9iXR9z"
+        },
+        {
+          "name": "Lucas Morato",
+          "url": "https://open.spotify.com/artist/4ab6n3r4PdQroLqLsnV2JZ"
         }
       ],
-      "duration_ms": 203894,
-      "name": "Pra voc\u00ea acreditar - Ao vivo",
-      "url": "https://open.spotify.com/track/5KNi9XFap48ry4puG7rvqv"
+      "duration_ms": 269306,
+      "name": "Linda Voz (Ol\u00e1)",
+      "url": "https://open.spotify.com/track/7MXeSAgdXXsi3BAnuOLcxb"
     },
     {
       "added_at": "2023-11-17 03:01:00",
@@ -1223,46 +1243,6 @@
     {
       "added_at": "2023-11-17 03:01:00",
       "album": {
-        "name": "Yasmin Santos Ao Vivo em S\u00e3o Paulo - EP 2",
-        "url": "https://open.spotify.com/album/1QdpjznhhFhbJGwPYy42We"
-      },
-      "artists": [
-        {
-          "name": "Yasmin Santos",
-          "url": "https://open.spotify.com/artist/597XBqZtaiZC7laCNx3nVz"
-        },
-        {
-          "name": "Mar\u00edlia Mendon\u00e7a",
-          "url": "https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8"
-        }
-      ],
-      "duration_ms": 174178,
-      "name": "Para, Pensa e Volta - Ao Vivo",
-      "url": "https://open.spotify.com/track/2KyXyTrp3kp1Fsg7B1osYD"
-    },
-    {
-      "added_at": "2023-11-17 03:01:00",
-      "album": {
-        "name": "Sensa\u00e7\u00f5es",
-        "url": "https://open.spotify.com/album/5Vh7WgMgkfdv89oPwPWf6p"
-      },
-      "artists": [
-        {
-          "name": "P\u00e9ricles",
-          "url": "https://open.spotify.com/artist/6gEzJZrbm0F4ihvE9iXR9z"
-        },
-        {
-          "name": "Lucas Morato",
-          "url": "https://open.spotify.com/artist/4ab6n3r4PdQroLqLsnV2JZ"
-        }
-      ],
-      "duration_ms": 269306,
-      "name": "Linda Voz (Ol\u00e1)",
-      "url": "https://open.spotify.com/track/7MXeSAgdXXsi3BAnuOLcxb"
-    },
-    {
-      "added_at": "2023-11-17 03:01:00",
-      "album": {
         "name": "Romance Desapegado",
         "url": "https://open.spotify.com/album/20wtzoFxbEgoQgrlmIpBud"
       },
@@ -1275,6 +1255,22 @@
       "duration_ms": 184746,
       "name": "Romance Desapegado",
       "url": "https://open.spotify.com/track/54OqGd3dmug64db0ZtOtF4"
+    },
+    {
+      "added_at": "2023-11-17 03:01:00",
+      "album": {
+        "name": "O Embaixador (Ao Vivo)",
+        "url": "https://open.spotify.com/album/37nwqMqf3kqIsssO30l8MG"
+      },
+      "artists": [
+        {
+          "name": "Gusttavo Lima",
+          "url": "https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN"
+        }
+      ],
+      "duration_ms": 203739,
+      "name": "Cem Mil - Ao Vivo",
+      "url": "https://open.spotify.com/track/5pCyG634N2cC2aPgO5Oepf"
     }
   ],
   "unique_name": "Faxina com Sofr\u00eancia",

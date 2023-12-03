@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4NBorsTLJKk.md) - [plain]
 
 > 天空灰灰的、到處溼淋淋的，我們聽歌就好，先不要去感覺那些事。
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,913 likes - 75 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,928 likes - 75 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4NBorsTLJKk.md) - [plain]
 | 19 | [你走之后的雨季](https://open.spotify.com/track/4J8vr8PSp5NcGjs1K8sTT1) | [en](https://open.spotify.com/artist/7z7tLLiBfmH0kZ2lNVs8LW) | [你走之后的雨季](https://open.spotify.com/album/0PxczszuVunBNY7ZM08xpf) | 3:11 |
 | 20 | [茉莉雨](https://open.spotify.com/track/46PzflyM0fehl0AtZutikH) | [JJ Lin](https://open.spotify.com/artist/7Dx7RhX0mFuXhCOUgB01uM) | [新地球](https://open.spotify.com/album/4kXABOKrhJ2jKUNYGRQPr8) | 4:16 |
 | 21 | [偶陣雨](https://open.spotify.com/track/7CGqTLkREqWW3ipRFbUvbB) | [Fish Leong](https://open.spotify.com/artist/3aIDSTKS9yH745GUQBxDcS) | [愛久見人心](https://open.spotify.com/album/3nGoGGL3rO8nrrghIo3I0F) | 4:26 |
-| 22 | [街仔路雨落袂停](https://open.spotify.com/track/6eV9UVxth2ITN7WZXy1QU2) | [Enno Cheng](https://open.spotify.com/artist/0mVEQWHpQc30NdVqwtj8WJ), [陳嫺靜](https://open.spotify.com/artist/4wbipbaGeTXkuF5paNuJqB) | [給天王星](https://open.spotify.com/album/4mrjsYBHIsDiYzHrYdxNfY) | 4:04 |
-| 23 | [兩人雨天](https://open.spotify.com/track/3Y7mPzWHKsEKZNdqe4wjtu) | [Cosmos People](https://open.spotify.com/artist/0tNjyz75Px29Yuf1sjs25G) | [一萬小時](https://open.spotify.com/album/571Mh6oowokeW1RIfqCmaz) | 4:46 |
+| 22 | [兩人雨天](https://open.spotify.com/track/3Y7mPzWHKsEKZNdqe4wjtu) | [Cosmos People](https://open.spotify.com/artist/0tNjyz75Px29Yuf1sjs25G) | [一萬小時](https://open.spotify.com/album/571Mh6oowokeW1RIfqCmaz) | 4:46 |
+| 23 | [街仔路雨落袂停](https://open.spotify.com/track/6eV9UVxth2ITN7WZXy1QU2) | [Enno Cheng](https://open.spotify.com/artist/0mVEQWHpQc30NdVqwtj8WJ), [陳嫺靜](https://open.spotify.com/artist/4wbipbaGeTXkuF5paNuJqB) | [給天王星](https://open.spotify.com/album/4mrjsYBHIsDiYzHrYdxNfY) | 4:04 |
 | 24 | [雨不停。流 \- 電視劇《無神之地不下雨》片尾曲](https://open.spotify.com/track/6vS1IucniRN5dlIV9Zf3Ur) | [Shi Shi](https://open.spotify.com/artist/4XKp9GFAQfsh2NflSRnHQi) | [雨不停。流 \(電視劇《無神之地不下雨》片尾曲\)](https://open.spotify.com/album/07RSNZskdcUd9hES3kDGgU) | 4:25 |
 | 25 | [傾雨](https://open.spotify.com/track/2XyEyfd1d02fCeLG56gRSh) | [Hormone Boys](https://open.spotify.com/artist/7MR5iqnOtuXv9RMMMQbOIl) | [Hormone Boys](https://open.spotify.com/album/7FDNFIWHR4WyIBzqwZpaGD) | 4:09 |
 | 26 | [藍雨](https://open.spotify.com/track/6xJggWssdiq6VaFK13MXYB) | [Jacky Cheung](https://open.spotify.com/artist/1Hu58yHg2CXNfDhlPd7Tdd) | [真愛 新曲 + 真正精選](https://open.spotify.com/album/2yt1DMuGmxNqy1D5uuwmwW) | 4:16 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4NBorsTLJKk.md) - [plain]
 | 74 | [小雨](https://open.spotify.com/track/0bO7061F8NRnHMsZ88tRM3) | [Kumachan](https://open.spotify.com/artist/5DdhWWd83hbrWLXIVx129X) | [∞無限](https://open.spotify.com/album/5R3fhoNuPUPYLh4XSQRXEC) | 4:10 |
 | 75 | [雨不停](https://open.spotify.com/track/7ARryPCDXBDHptuCjqaxYf) | [陳思函](https://open.spotify.com/artist/6VOX2zlsFiZDHICYEy3oRD) | [寄居蟹](https://open.spotify.com/album/6Ph7NAFao76ppkg9FpDi6f) | 4:44 |
 
-Snapshot ID: `MCxkMDczM2E3N2Y4MGQwNDE5MzNjMTFjZjg3YWNiY2JhNTA4YjA3MDYy`
+Snapshot ID: `MCw0OTYxYTU4MGY0NmY3OTRhOGUxNDY2YTA2NDBhN2EwZjhhZjM0ODI1`

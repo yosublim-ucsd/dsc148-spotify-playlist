@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjXJCPYoIua.md) - [plain]
 
 > Rimas finas para inspirarte en el jale.
 
-[Spotify](https://open.spotify.com/user/spotify) - 105,888 likes - 100 songs - 6 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 105,998 likes - 100 songs - 6 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjXJCPYoIua.md) - [plain]
 | 55 | [Culón Culito](https://open.spotify.com/track/2JNqLKnqJejNzrmRLNFNFL) | [Cartel De Santa](https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP) | [Viejo Marihuano](https://open.spotify.com/album/0u6btZI3GPFtYX8T4DDW8O) | 3:43 |
 | 56 | [Tantas Veces](https://open.spotify.com/track/1IkpQA0SPJilH29vEnocOB) | [Alemán](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE), [Yung Sarria](https://open.spotify.com/artist/3vxYNXtM9uOMdRAXTXgtmf), [Fntxy](https://open.spotify.com/artist/7I85Ma5xjAo6nlvqOCIiWx) | [Eclipse](https://open.spotify.com/album/58bkzXIuIabVia7LjAOpT3) | 4:33 |
 | 57 | [Jump Around](https://open.spotify.com/track/6JymsaWDHk2Yj4e0yNBIFH) | [House Of Pain](https://open.spotify.com/artist/0AuW7OCyKfFrsMbtHrYgIV) | [House of Pain \(Fine Malt Lyrics\)](https://open.spotify.com/album/0hWY4eSi2bZ8tWplgjO0ph) | 3:34 |
-| 58 | [Dirt Off Your Shoulder](https://open.spotify.com/track/3IrkbGQCoEPAkzJ0Tkv8nm) | [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [The Black Album](https://open.spotify.com/album/4FWvo9oS4gRgHtAwDwUjiO) | 4:05 |
-| 59 | [Mucho para Mí](https://open.spotify.com/track/29FljZjbNMcXlHAf2lKHbR) | [Santa RM](https://open.spotify.com/artist/30BSBWLKnYJION1lCPugXc), [Franco Escamilla](https://open.spotify.com/artist/1ZlIROqKXOEvPgEffO8vri) | [Mucho para Mí](https://open.spotify.com/album/57dqYC3Drhz5gxPxcIn4d5) | 5:10 |
+| 58 | [Mucho para Mí](https://open.spotify.com/track/29FljZjbNMcXlHAf2lKHbR) | [Santa RM](https://open.spotify.com/artist/30BSBWLKnYJION1lCPugXc), [Franco Escamilla](https://open.spotify.com/artist/1ZlIROqKXOEvPgEffO8vri) | [Mucho para Mí](https://open.spotify.com/album/57dqYC3Drhz5gxPxcIn4d5) | 5:10 |
+| 59 | [Dirt Off Your Shoulder](https://open.spotify.com/track/3IrkbGQCoEPAkzJ0Tkv8nm) | [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [The Black Album](https://open.spotify.com/album/4FWvo9oS4gRgHtAwDwUjiO) | 4:05 |
 | 60 | [No Hay Manera](https://open.spotify.com/track/5dFaYG4WClIHhbHSe0m3FO) | [Akwid](https://open.spotify.com/artist/3mYFuz6iY7D9X78rOXg5CG) | [Proyecto Akwid](https://open.spotify.com/album/7IIVtFcrNzU7PV8gBqq6oM) | 4:03 |
 | 61 | [Bombos y Tarolas](https://open.spotify.com/track/5HxcRTUT0X0X7WzwPoj0cm) | [Cartel De Santa](https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP) | [Sincopa](https://open.spotify.com/album/4u16vv7jUXm8XTdvd2szGH) | 4:52 |
 | 62 | [Si Señor](https://open.spotify.com/track/3MameTW9RiNTUpFEoadsA3) | [Control Machete](https://open.spotify.com/artist/628gUkswCfCS1hIOOHmIpK) | [Artilleria Pesada, Presenta:](https://open.spotify.com/album/4EK8c4DmpA3uhyKt6P2B2v) | 4:13 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjXJCPYoIua.md) - [plain]
 | 99 | [Borrachos Y Grifos](https://open.spotify.com/track/4Moj88SKkcxqFmBLpovzzB) | [Adán Zapata](https://open.spotify.com/artist/1NGy8h3j8jFQvFv6cniUnl) | [Borrachos Y Grifos](https://open.spotify.com/album/4g6oslb6tvmkt0NHdstmOP) | 5:16 |
 | 100 | [Afuera Que Tengan Miedo](https://open.spotify.com/track/7lXM1W0RFoHXf4QRqx6U3g) | [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW) | [Afuera Que Tengan Miedo](https://open.spotify.com/album/5RrtVeQtn3IeueXIIKNr51) | 2:43 |
 
-Snapshot ID: `MCxkNDk5YjY3NjM4NGY5MTgzMzdlYzU0NDY1YjBiNTA3ODhlOGQzNTMy`
+Snapshot ID: `MCxmZWJjZGUwYjI0ZjRjZWFhNWRjYTMxYTM4ZTMyNWJhZjAyMTQ2M2Y5`

@@ -4,7 +4,7 @@
 
 > Pop acústico para tu día.
 
-188 songs - 11 hr 17 min
+189 songs - 11 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,7 +89,7 @@
 | [La Bilirrubina](https://open.spotify.com/track/6OOIW83rFMkhsI7CJWDh2q) | [Alex Ferreira](https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7) | [La Bilirrubina](https://open.spotify.com/album/0kh4VLOCR08XhntHTplGqC) | 3:50 | 2021-12-16 | 2022-07-29 |
 | [La Bilirrubina](https://open.spotify.com/track/7rCE3KwSwzNh8n8LC4O3zJ) | [Alex Ferreira](https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7) | [La Bilirrubina](https://open.spotify.com/album/0eXaOP4x8dvztlduyvz5AV) | 3:50 | 2022-06-07 |  |
 | [La Camisa Negra \- MTV Unplugged](https://open.spotify.com/track/6dHy6CvAKt5JBslhjDhlaF) | [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [Tr3s Presents Juanes MTV Unplugged](https://open.spotify.com/album/6Zy2wrvOOW0sxTWy7nF9BH) | 3:45 | 2021-12-16 | 2023-04-29 |
-| [La Canción](https://open.spotify.com/track/2p6vZOWwUYqlmnDGIaAl72) | [Sebastián Romero](https://open.spotify.com/artist/0FpJe752weMmwiyJyF8zXq), [Recoversión](https://open.spotify.com/artist/0NdB1t0K23mQgPxlAvqN1r) | [La Canción](https://open.spotify.com/album/0JKeAs7WGDWdoCjvdqgiKQ) | 4:13 | 2021-12-16 |  |
+| [La Canción](https://open.spotify.com/track/2p6vZOWwUYqlmnDGIaAl72) | [Sebastián Romero](https://open.spotify.com/artist/0FpJe752weMmwiyJyF8zXq), [Recoversión](https://open.spotify.com/artist/0NdB1t0K23mQgPxlAvqN1r) | [La Canción](https://open.spotify.com/album/0JKeAs7WGDWdoCjvdqgiKQ) | 4:13 | 2021-12-16 | 2023-12-03 |
 | [La Carretera \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/0INHoQnnPYxlXHsOL3Zeb8) | [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC) | [Spotify Singles](https://open.spotify.com/album/71ouQvRNQdWbSr4FI0i4g8) | 4:15 | 2021-12-16 |  |
 | [La chispa adecuada \- Live](https://open.spotify.com/track/25TiUPCYa2KYp3LFENEkJM) | [Heroes Del Silencio](https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT) | [Tour 2007](https://open.spotify.com/album/7agRISos8iXzrqsCQ8Owg6) | 5:24 | 2021-12-16 |  |
 | [La Difícil](https://open.spotify.com/track/0PaNKfwdqHjmW7hVEQ0lbu) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [La Difícil](https://open.spotify.com/album/6Pc3YAtxdkZba2tpmeXAXW) | 2:38 | 2021-12-16 | 2022-05-20 |
@@ -131,6 +131,7 @@
 | [Paciencia](https://open.spotify.com/track/6hYidRx2EkQ39bmZHvqqaI) | [Kora](https://open.spotify.com/artist/3ZxaYY2eYNWxg8v1s2k6JD) | [01 \- EP](https://open.spotify.com/album/1fRIsWiGXf323M5E1Ngqoy) | 3:29 | 2022-06-07 |  |
 | [Para Siempre](https://open.spotify.com/track/2CwOQJ5gCpn1MgQqyTna5d) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Para Siempre](https://open.spotify.com/album/4S960SG2fqdAUmVGfcmwCQ) | 3:21 | 2022-08-05 |  |
 | [Para Siempre](https://open.spotify.com/track/5Fc0FUbxgQlC9ZBAb6ffYt) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Para Siempre](https://open.spotify.com/album/6bFYJSjxE8O1LBSBtOwU4l) | 3:21 | 2021-12-16 | 2022-10-03 |
+| [Para Ti \- Versión Acústica](https://open.spotify.com/track/3wO71n44x8JqR1lLgsOU6v) | [Carlos Rivera](https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf) | [Para Ti \(Versión Acústica\)](https://open.spotify.com/album/2A4NWAmKm275rN9tycg6K3) | 3:21 | 2023-12-01 |  |
 | [Para Verte](https://open.spotify.com/track/4aiIi5Nn7EdDhoiw5DywDk) | [Vale](https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD) | [Para Verte](https://open.spotify.com/album/43b9yizo1mckUfWgItr7nk) | 3:02 | 2021-12-16 | 2023-04-29 |
 | [Parece Mentira](https://open.spotify.com/track/6MPOkyax2MTcsMVhbQ93vz) | [Diego Torres](https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh) | [Parece Mentira](https://open.spotify.com/album/4qVv2WWXeyeLZqXmbIJ1Pm) | 3:33 | 2023-06-02 |  |
 | [Pasos de cero \- Live from Spotify NYC](https://open.spotify.com/track/4SsgDQo4lLoFKbfoWhf5hh) | [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50) | [Pablo Alborán Spotify Sessions](https://open.spotify.com/album/2MvBTwo2wis5ucqYxOJANe) | 4:26 | 2021-12-16 |  |

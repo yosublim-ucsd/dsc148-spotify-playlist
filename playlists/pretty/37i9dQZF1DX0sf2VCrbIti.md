@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sf2VCrbIti.md) - [plain]
 
 > Que no falte la música, la familia y los amigos\. ¡Felices fiestas!
 
-[Spotify](https://open.spotify.com/user/spotify) - 365 likes - 50 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 416 likes - 50 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,10 +24,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sf2VCrbIti.md) - [plain]
 | 14 | [Ahora Quien \- Salsa Version](https://open.spotify.com/track/5A32KQZznC2HSqr9qzTl2N) | [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Valio La Pena](https://open.spotify.com/album/4O3yvEN5II2yKWKBPtDLD7) | 5:09 |
 | 15 | [Las Avispas](https://open.spotify.com/track/0K1XXuhaJBPWMcgjj3ug3u) | [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Para Ti](https://open.spotify.com/album/3bHkIxCLH1CmadBBWuRLxO) | 3:17 |
 | 16 | [Oiga, Mire, Vea](https://open.spotify.com/track/17Sfr3T1chYPGcmM4VlhCh) | [Guayacán Orquesta](https://open.spotify.com/artist/2pZ81eCkqxemIjqqfE1fhE) | [Sentimental de Punta a Punta](https://open.spotify.com/album/0MMzGqy6fMEb6ktGTuxEm2) | 5:25 |
-| 17 | [Brujeria](https://open.spotify.com/track/0k1hbeZodoEw34FAdbh8xM) | [El Gran Combo De Puerto Rico](https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu) | [Aqui No Se Sienta Nadie!](https://open.spotify.com/album/18m4lag970uk1AMSvaUZmg) | 3:25 |
+| 17 | [Tú Con El](https://open.spotify.com/track/6sRQjwLPdzADXhgZeKy6PQ) | [Frankie Ruiz](https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV) | [Cantándole al Amor, Vol\. 2](https://open.spotify.com/album/40fzRAKgRPlEcgr1mTWGLH) | 5:01 |
 | 18 | [El Día De Mi Suerte](https://open.spotify.com/track/7Kmfjms3yyhg2y56mN7EfZ) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW), [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [Lo Mato](https://open.spotify.com/album/4TzXeIsjyPLaNvgOd84bwr) | 5:28 |
 | 19 | [Lluvia](https://open.spotify.com/track/3SzJ4qlIjYkSO7bh0oKTXA) | [Eddie Santiago](https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I) | [De Verdad \(15 Super Exitos\)](https://open.spotify.com/album/7x4yJrZW7V1XdazGp7owXr) | 4:57 |
-| 20 | [Tú Con El](https://open.spotify.com/track/6sRQjwLPdzADXhgZeKy6PQ) | [Frankie Ruiz](https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV) | [Cantándole al Amor, Vol\. 2](https://open.spotify.com/album/40fzRAKgRPlEcgr1mTWGLH) | 5:01 |
+| 20 | [Brujeria](https://open.spotify.com/track/0k1hbeZodoEw34FAdbh8xM) | [El Gran Combo De Puerto Rico](https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu) | [Aqui No Se Sienta Nadie!](https://open.spotify.com/album/18m4lag970uk1AMSvaUZmg) | 3:25 |
 | 21 | [La Agarro Bajando](https://open.spotify.com/track/3GgI4QQWvsqqdKCvnNN0UM) | [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1) | [Intenso](https://open.spotify.com/album/75kOLlIjW99qG0rtOqD3rC) | 4:14 |
 | 22 | [Bidi Bidi Bom Bom](https://open.spotify.com/track/0o9Vr0BGIQPh32staLHcuU) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [La Leyenda \(Version Super Deluxe\)](https://open.spotify.com/album/058VOHYTS6kFauVUl6Eh03) | 3:07 |
 | 23 | [Conga!](https://open.spotify.com/track/3FdHgoJbH3DXNtGLh56pFu) | [Miami Sound Machine](https://open.spotify.com/artist/18xgcedCGxFbqLbIQn5R8F) | [Primitive Love](https://open.spotify.com/album/70ziXyCSplSPUpFmq9kh6M) | 4:14 |
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sf2VCrbIti.md) - [plain]
 | 43 | [Tiburon](https://open.spotify.com/track/26T9IOS6Bi9iOUjKkcZsZo) | [Proyecto Uno](https://open.spotify.com/artist/6w1XCiB8efbfnusJ2jzmvu) | [El Poder de la Música](https://open.spotify.com/album/4Wfbj8v9wtgnvTQs3nT49p) | 5:02 |
 | 44 | [Plástico](https://open.spotify.com/track/3ZIE8flTJ6WWn8wF0YzaaQ) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW), [Rubén Blades](https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj) | [Siembra](https://open.spotify.com/album/7wOJ9RTQr05ytqROWtTPzy) | 6:41 |
 | 45 | [Año Nuevo](https://open.spotify.com/track/32LOpPngSkY8V0sIVCVjPb) | [Billo's](https://open.spotify.com/artist/38zyliF0xdJKS7k1BIEuL6), [Cheo Garcia](https://open.spotify.com/artist/4qmK4DVyKkbpKe2VRanvTR) | [Billos Caracas Boys Fin de Año](https://open.spotify.com/album/4vdoIChGSZtQnOAPnEGe9R) | 2:51 |
-| 46 | [Ella Dice](https://open.spotify.com/track/4DBXjmV7W7igXSDwvlfH4C) | [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Mudanza y Acarreo](https://open.spotify.com/album/3OrV9YokDdQgnHN0wLcSJL) | 3:31 |
-| 47 | [El Merecumbe](https://open.spotify.com/track/6Ni5cSEp0cNutVN0w2578Y) | [Los Melódicos](https://open.spotify.com/artist/4LdArZAC1QPQdyz8JNOYVW), [La Billo's y Los Melodicos](https://open.spotify.com/artist/62okGmZQ0Yr2lQhBUL6h86) | [La Billo's y Los Melodicos de coleccion, vol.1](https://open.spotify.com/album/4oI9hX7GLmynB3iscdKhfY) | 2:37 |
+| 46 | [El Merecumbe](https://open.spotify.com/track/6Ni5cSEp0cNutVN0w2578Y) | [Los Melódicos](https://open.spotify.com/artist/4LdArZAC1QPQdyz8JNOYVW), [La Billo's y Los Melodicos](https://open.spotify.com/artist/62okGmZQ0Yr2lQhBUL6h86) | [La Billo's y Los Melodicos de coleccion, vol.1](https://open.spotify.com/album/4oI9hX7GLmynB3iscdKhfY) | 2:37 |
+| 47 | [Ella Dice](https://open.spotify.com/track/4DBXjmV7W7igXSDwvlfH4C) | [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Mudanza y Acarreo](https://open.spotify.com/album/3OrV9YokDdQgnHN0wLcSJL) | 3:31 |
 | 48 | [EL YATE \(feat\. Sergio George\) \- Versión Salsa](https://open.spotify.com/track/6BOuw1v7iJbOPYR9PigeJ4) | [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd), [Sergio George](https://open.spotify.com/artist/4Ht1HigABvctq7wW4D3jAC) | [EL YATE \(feat\. Sergio George\) \[Versión Salsa\]](https://open.spotify.com/album/6BRLupgfPwOkWkVrtCg9D1) | 3:13 |
 | 49 | [Viejo Año](https://open.spotify.com/track/7qThJQYcDMwvEFTcQQHEHV) | [Maracaibo 15](https://open.spotify.com/artist/1V6FooKFiokndcPHKJ4Tmz) | [Super Éxitos Maracaibo 15](https://open.spotify.com/album/2eosHIm0MBOnhvbiBANIH5) | 3:16 |
-| 50 | [Volveré](https://open.spotify.com/track/6THn83A87GCDaDZp9UQsPl) | [Wilfrido Vargas](https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4) | [Los Años Dorados](https://open.spotify.com/album/58FR55u0pbPYIZr1x7M5Qg) | 4:19 |
+| 50 | [Gaita Onomatopéyica](https://open.spotify.com/track/2BZUWYA2NcvrtWdStRn1KX) | [Gran Coquivacoa](https://open.spotify.com/artist/0D8yIOlFPxp7OL6n6UzJ38) | [La Maquina del Sabor '88](https://open.spotify.com/album/7nCZDVKgBlQDpgPpCS2XfL) | 2:51 |
 
-Snapshot ID: `MCwwYTBiNTY2MDQ2NDgyOGQ4YzliMDcyZjhjOWNkOTgzM2FhMzc4Yjky`
+Snapshot ID: `MCxiMWViODQxNjRjMDczYzZmN2NhMGQxYTBiMTRjNjIzNjU5MjQ2MDE3`

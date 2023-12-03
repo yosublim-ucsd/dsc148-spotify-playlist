@@ -4,7 +4,7 @@
 
 > The most unforgettable love songs from the 70s.
 
-167 songs - 10 hr 54 min
+168 songs - 10 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,7 +75,7 @@
 | [If You Don't Know Me by Now \(feat\. Teddy Pendergrass\)](https://open.spotify.com/track/1PIgcyfWEVxSZ4LWdrRye3) | [Harold Melvin & The Blue Notes](https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy), [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [Collectors' Item](https://open.spotify.com/album/1vwY34TADAqrRwfHoa0xzV) | 3:25 | 2022-03-28 | 2022-04-20 |
 | [If You Leave Me Now](https://open.spotify.com/track/0KMGxYKeUzK9wc5DZCt3HT) | [Chicago](https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0) | [Chicago X](https://open.spotify.com/album/4asBn7hzIq2Ka7rDzJN24P) | 3:55 | 2021-12-27 |  |
 | [Imagine \- Remastered 2010](https://open.spotify.com/track/7pKfPomDEeI4TPT6EOYjn9) | [John Lennon](https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H) | [Imagine](https://open.spotify.com/album/0xzaemKucrJpYhyl7TltAk) | 3:07 | 2022-03-28 |  |
-| [It's Sad to Belong \- Single Version](https://open.spotify.com/track/3zqvox7nyhykHe7WS8w9Rm) | [England Dan & John Ford Coley](https://open.spotify.com/artist/01W8kYNqFHyKicPfR0pLwO) | [Dowdy Ferry Road](https://open.spotify.com/album/7r92pnkbmoV5pXoMQEHFcJ) | 2:53 | 2022-01-10 |  |
+| [It's Sad to Belong \- Single Version](https://open.spotify.com/track/3zqvox7nyhykHe7WS8w9Rm) | [England Dan & John Ford Coley](https://open.spotify.com/artist/01W8kYNqFHyKicPfR0pLwO) | [Dowdy Ferry Road](https://open.spotify.com/album/7r92pnkbmoV5pXoMQEHFcJ) | 2:53 | 2022-01-10 | 2023-12-03 |
 | [It's Too Late](https://open.spotify.com/track/12q3V8ShACq2PSWINMc2rC) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Tapestry](https://open.spotify.com/album/12n11cgnpjXKLeqrnIERoS) | 3:53 | 2022-03-28 |  |
 | [Just the Way You Are](https://open.spotify.com/track/49MHCPzvMLXhRjDantBMVH) | [Billy Joel](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) | [The Stranger \(Legacy Edition\)](https://open.spotify.com/album/1Mhn9VosyjtWn4dMPFlna6) | 4:50 | 2021-12-27 |  |
 | [Just When I Needed You Most](https://open.spotify.com/track/55wl56WlKI85UBNZoFxe9P) | [Randy VanWarmer](https://open.spotify.com/artist/6IRQiyNmNGjGlrmEl0iArm) | [Warmer](https://open.spotify.com/album/4SpkNYHb0pnT9n6gEqkSvM) | 4:01 | 2021-12-27 | 2022-07-29 |
@@ -95,6 +95,7 @@
 | [Love and Other Bruises](https://open.spotify.com/track/4rhL7FHD96bQ0N5DR0Dv8u) | [Air Supply](https://open.spotify.com/artist/4xXCRXOfQKQ2gjWxNhNzYW) | [Love And Other Bruises](https://open.spotify.com/album/534ioF4snbcekTCRc1AhAB) | 3:42 | 2022-03-28 | 2022-04-21 |
 | [Love and Other Bruises](https://open.spotify.com/track/7jz7FfrYoEwVcBf1BNbcBb) | [Air Supply](https://open.spotify.com/artist/4xXCRXOfQKQ2gjWxNhNzYW) | [Air Supply](https://open.spotify.com/album/2ebMvsVfclK27T5fcmS6n1) | 3:43 | 2022-03-28 | 2022-04-21 |
 | [Love Hurts \- 2007 Remaster](https://open.spotify.com/track/72DefuF22C6aPKrWhRFCBS) | [Gram Parsons](https://open.spotify.com/artist/1KA3WXYMPLxomNuoE22LYd) | [Grievous Angel](https://open.spotify.com/album/6UQujMGmR5MbFsML9amCuN) | 3:42 | 2022-03-28 | 2022-04-17 |
+| [Love Is in the Air](https://open.spotify.com/track/4v2K1ZcRXUc87CLtEXI3Pf) | [John Paul Young](https://open.spotify.com/artist/2wMcQIxzH2LYHJZNxo9FcN) | [Classic Hits](https://open.spotify.com/album/03T5bXMySvcTGqm8RpIJsV) | 3:28 | 2023-05-22 |  |
 | [Love Is In The Air](https://open.spotify.com/track/3c4OULLWwgRqBfA2dJtRuY) | [John Paul Young](https://open.spotify.com/artist/2wMcQIxzH2LYHJZNxo9FcN) | [I Hate the Music](https://open.spotify.com/album/28L7sCuuF8Zt6dW1FuZqRh) | 3:30 | 2022-03-28 | 2023-11-05 |
 | [Love So Right](https://open.spotify.com/track/2rVxsVGLFssDfM5B9BUL0K) | [Bee Gees](https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN) | [Children Of The World](https://open.spotify.com/album/4V8z8vZUCyYUBlUI9CfSbY) | 3:35 | 2022-03-28 | 2022-04-19 |
 | [Lovin' You](https://open.spotify.com/track/3ebYtLVuV4HzEZUDcpZB9p) | [Minnie Riperton](https://open.spotify.com/artist/2i1IdHG5w0wiSmJGoqAGlj) | [Perfect Angel](https://open.spotify.com/album/3TFzRE2Mm1uZcJeu91UNs9) | 3:43 | 2022-03-28 | 2022-04-17 |

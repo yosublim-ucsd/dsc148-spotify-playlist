@@ -1,12 +1,12 @@
 {
   "description": "All the classic songs you love\u2014covered. Cover: Brandi Carlile",
-  "num_followers": 688609,
+  "num_followers": 688672,
   "original_name": "Classic Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMDgwNGZmMzk0YjZmNDgyN2Y4OTdhOTExODllZmIxZDUyNWIyZDQ3",
+  "snapshot_id": "MCw3NWI3MmU2YjI3MDQ1MWUyNzk1OTY5ZWFiOWRjMmM5MTQ0NGY1NzMz",
   "tracks": [
     {
       "added_at": "2023-10-20 16:58:03",
@@ -511,6 +511,22 @@
     {
       "added_at": "2023-10-20 16:58:03",
       "album": {
+        "name": "French Touch",
+        "url": "https://open.spotify.com/album/2bHQTGyLGnwMDqrsuMvTsQ"
+      },
+      "artists": [
+        {
+          "name": "Carla Bruni",
+          "url": "https://open.spotify.com/artist/1HVwzNriKEjaeE06okqSpx"
+        }
+      ],
+      "duration_ms": 211346,
+      "name": "Miss You",
+      "url": "https://open.spotify.com/track/5PrOgvXZU7RzhJQknS6hEu"
+    },
+    {
+      "added_at": "2023-10-20 16:58:03",
+      "album": {
         "name": "Forever Young (From NBC's Parenthood)",
         "url": "https://open.spotify.com/album/6Q7WssoFXDJoqNEkn8LnWN"
       },
@@ -527,22 +543,6 @@
       "duration_ms": 261370,
       "name": "Forever Young - From NBC's Parenthood",
       "url": "https://open.spotify.com/track/0QYgtwYCftkAqunXmvkZtr"
-    },
-    {
-      "added_at": "2023-10-20 16:58:03",
-      "album": {
-        "name": "French Touch",
-        "url": "https://open.spotify.com/album/2bHQTGyLGnwMDqrsuMvTsQ"
-      },
-      "artists": [
-        {
-          "name": "Carla Bruni",
-          "url": "https://open.spotify.com/artist/1HVwzNriKEjaeE06okqSpx"
-        }
-      ],
-      "duration_ms": 211346,
-      "name": "Miss You",
-      "url": "https://open.spotify.com/track/5PrOgvXZU7RzhJQknS6hEu"
     },
     {
       "added_at": "2023-10-20 16:58:03",
@@ -651,22 +651,6 @@
     {
       "added_at": "2023-10-20 16:58:03",
       "album": {
-        "name": "I Can Help",
-        "url": "https://open.spotify.com/album/5pDNnHHXe81EWs39cvhSjk"
-      },
-      "artists": [
-        {
-          "name": "Charley Crockett",
-          "url": "https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4"
-        }
-      ],
-      "duration_ms": 218225,
-      "name": "I Can Help",
-      "url": "https://open.spotify.com/track/6jA2i54oeB8cq1c3YF2YQG"
-    },
-    {
-      "added_at": "2023-10-20 16:58:03",
-      "album": {
         "name": "French Touch",
         "url": "https://open.spotify.com/album/2bHQTGyLGnwMDqrsuMvTsQ"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 241960,
       "name": "Go Your Own Way",
       "url": "https://open.spotify.com/track/0VuhdSYkAOmhASbt5vnkdO"
+    },
+    {
+      "added_at": "2023-10-20 16:58:03",
+      "album": {
+        "name": "I Can Help",
+        "url": "https://open.spotify.com/album/5pDNnHHXe81EWs39cvhSjk"
+      },
+      "artists": [
+        {
+          "name": "Charley Crockett",
+          "url": "https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4"
+        }
+      ],
+      "duration_ms": 218225,
+      "name": "I Can Help",
+      "url": "https://open.spotify.com/track/6jA2i54oeB8cq1c3YF2YQG"
     },
     {
       "added_at": "2023-10-20 16:58:03",
@@ -843,22 +843,6 @@
     {
       "added_at": "2023-10-20 16:58:03",
       "album": {
-        "name": "In Your Eyes",
-        "url": "https://open.spotify.com/album/6rMXObFQHowLksaLis6GXA"
-      },
-      "artists": [
-        {
-          "name": "Ben Abraham",
-          "url": "https://open.spotify.com/artist/3FfbgiZhcCkoiI7IzOwXlI"
-        }
-      ],
-      "duration_ms": 329086,
-      "name": "In Your Eyes",
-      "url": "https://open.spotify.com/track/5c0z1ccAIoZl1okUhiqNOc"
-    },
-    {
-      "added_at": "2023-10-20 16:58:03",
-      "album": {
         "name": "American IV: The Man Comes Around",
         "url": "https://open.spotify.com/album/2BlL4Gv2DLPu8p58Wcmlm9"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 234600,
       "name": "Bridge Over Troubled Water",
       "url": "https://open.spotify.com/track/3e0qSxu1fNPzDlwqWN3cBD"
+    },
+    {
+      "added_at": "2023-10-20 16:58:03",
+      "album": {
+        "name": "In Your Eyes",
+        "url": "https://open.spotify.com/album/6rMXObFQHowLksaLis6GXA"
+      },
+      "artists": [
+        {
+          "name": "Ben Abraham",
+          "url": "https://open.spotify.com/artist/3FfbgiZhcCkoiI7IzOwXlI"
+        }
+      ],
+      "duration_ms": 329086,
+      "name": "In Your Eyes",
+      "url": "https://open.spotify.com/track/5c0z1ccAIoZl1okUhiqNOc"
     },
     {
       "added_at": "2023-10-20 16:58:03",
@@ -1123,18 +1123,18 @@
     {
       "added_at": "2023-10-20 16:58:03",
       "album": {
-        "name": "Judah & The Lion (Unplugged)",
-        "url": "https://open.spotify.com/album/6YdwCaQPQ4j3h8F8fFWeUi"
+        "name": "Yesterday",
+        "url": "https://open.spotify.com/album/5wA9NBMfYM8cv3Wa3b7Xye"
       },
       "artists": [
         {
-          "name": "Judah & the Lion",
-          "url": "https://open.spotify.com/artist/3wWtfT7S2uVJJ3hGZlOLkZ"
+          "name": "Imaginary Future",
+          "url": "https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF"
         }
       ],
-      "duration_ms": 251805,
-      "name": "Soak up the Sun - Unplugged",
-      "url": "https://open.spotify.com/track/0eUty3IjjOqEheyWEb9Rsb"
+      "duration_ms": 141653,
+      "name": "Here Comes the Sun",
+      "url": "https://open.spotify.com/track/1xbHo1GPXcfbw3lg9ImsNL"
     },
     {
       "added_at": "2023-10-20 16:58:03",
@@ -1159,6 +1159,22 @@
     {
       "added_at": "2023-10-20 16:58:03",
       "album": {
+        "name": "Judah & The Lion (Unplugged)",
+        "url": "https://open.spotify.com/album/6YdwCaQPQ4j3h8F8fFWeUi"
+      },
+      "artists": [
+        {
+          "name": "Judah & the Lion",
+          "url": "https://open.spotify.com/artist/3wWtfT7S2uVJJ3hGZlOLkZ"
+        }
+      ],
+      "duration_ms": 251805,
+      "name": "Soak up the Sun - Unplugged",
+      "url": "https://open.spotify.com/track/0eUty3IjjOqEheyWEb9Rsb"
+    },
+    {
+      "added_at": "2023-10-20 16:58:03",
+      "album": {
         "name": "Vignettes",
         "url": "https://open.spotify.com/album/3q2dNzIenzJnFyDmV7cY3M"
       },
@@ -1171,22 +1187,6 @@
       "duration_ms": 255675,
       "name": "If It Makes You Happy",
       "url": "https://open.spotify.com/track/7ia7SaMGhr00G8EX5DMiFq"
-    },
-    {
-      "added_at": "2023-10-20 16:58:03",
-      "album": {
-        "name": "Yesterday",
-        "url": "https://open.spotify.com/album/5wA9NBMfYM8cv3Wa3b7Xye"
-      },
-      "artists": [
-        {
-          "name": "Imaginary Future",
-          "url": "https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF"
-        }
-      ],
-      "duration_ms": 141653,
-      "name": "Here Comes the Sun",
-      "url": "https://open.spotify.com/track/1xbHo1GPXcfbw3lg9ImsNL"
     },
     {
       "added_at": "2023-10-20 16:58:03",
@@ -1803,22 +1803,6 @@
     {
       "added_at": "2023-10-20 16:58:03",
       "album": {
-        "name": "Home",
-        "url": "https://open.spotify.com/album/7HJujLCjpNW735tY2vhgmc"
-      },
-      "artists": [
-        {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
-        }
-      ],
-      "duration_ms": 212186,
-      "name": "Home",
-      "url": "https://open.spotify.com/track/0xi6e2yX8GxvygU2g4noDc"
-    },
-    {
-      "added_at": "2023-10-20 16:58:03",
-      "album": {
         "name": "Anthem +3",
         "url": "https://open.spotify.com/album/6QjbX8JjvSfG5daXAeQKEU"
       },
@@ -1831,6 +1815,22 @@
       "duration_ms": 345773,
       "name": "Anthem",
       "url": "https://open.spotify.com/track/2oubpFgSp6kOuL4XeBIHe9"
+    },
+    {
+      "added_at": "2023-10-20 16:58:03",
+      "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/7HJujLCjpNW735tY2vhgmc"
+      },
+      "artists": [
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "duration_ms": 212186,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/0xi6e2yX8GxvygU2g4noDc"
     },
     {
       "added_at": "2023-10-20 16:58:03",

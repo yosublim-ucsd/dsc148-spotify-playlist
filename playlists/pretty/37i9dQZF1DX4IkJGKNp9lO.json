@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 30530,
+  "num_followers": 30550,
   "original_name": "Svensk Punk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNmE3ZDQ5ZDY0ZDM0YjAyNTJmZmVmYjQwNmJmMDIwZDI0MDBiZWFi",
+  "snapshot_id": "MCw1MGI2Y2JlY2RkOGEzOGM3ZTE3Y2JhZTNlZGFhZDQ3NzkwYzk5ZDc1",
   "tracks": [
     {
       "added_at": "2023-11-23 23:00:00",
@@ -403,22 +403,6 @@
     {
       "added_at": "2023-11-23 23:00:00",
       "album": {
-        "name": "D\u00f6d Mark 4Evigt",
-        "url": "https://open.spotify.com/album/70XKEcF9OgL0YE3icy72ft"
-      },
-      "artists": [
-        {
-          "name": "D\u00f6d Mark",
-          "url": "https://open.spotify.com/artist/36ufPZjygPOubok9wycfl9"
-        }
-      ],
-      "duration_ms": 109120,
-      "name": "I Din Sol",
-      "url": "https://open.spotify.com/track/5gihLvviOhCQSs80u4tRiF"
-    },
-    {
-      "added_at": "2023-11-23 23:00:00",
-      "album": {
         "name": "Demons From the Past",
         "url": "https://open.spotify.com/album/7MPicF3ZYteZYXCSveQ0Eb"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 148653,
       "name": "Lisa",
       "url": "https://open.spotify.com/track/3eh8uUhn2VGZA2WCpewFj8"
+    },
+    {
+      "added_at": "2023-11-23 23:00:00",
+      "album": {
+        "name": "D\u00f6d Mark 4Evigt",
+        "url": "https://open.spotify.com/album/70XKEcF9OgL0YE3icy72ft"
+      },
+      "artists": [
+        {
+          "name": "D\u00f6d Mark",
+          "url": "https://open.spotify.com/artist/36ufPZjygPOubok9wycfl9"
+        }
+      ],
+      "duration_ms": 109120,
+      "name": "I Din Sol",
+      "url": "https://open.spotify.com/track/5gihLvviOhCQSs80u4tRiF"
     },
     {
       "added_at": "2023-11-23 23:00:00",
@@ -919,22 +919,6 @@
     {
       "added_at": "2023-11-23 23:00:00",
       "album": {
-        "name": "Gbg Noir",
-        "url": "https://open.spotify.com/album/6ekcmRIvx0kvzrex5j1lNN"
-      },
-      "artists": [
-        {
-          "name": "En Svensk Tiger",
-          "url": "https://open.spotify.com/artist/3iW69eoN123eG0fXEdER0q"
-        }
-      ],
-      "duration_ms": 182526,
-      "name": "Svegregationen",
-      "url": "https://open.spotify.com/track/1JTg3ZsOwIpsqdpEKnhGmA"
-    },
-    {
-      "added_at": "2023-11-23 23:00:00",
-      "album": {
         "name": "Snabbmat F\u00f6r Folk I Farten",
         "url": "https://open.spotify.com/album/0QxstpnJJBgNvD4qzqolGw"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 210333,
       "name": "Sibylla",
       "url": "https://open.spotify.com/track/5ZXcG9xpZbedvg6XjEF9JC"
+    },
+    {
+      "added_at": "2023-11-23 23:00:00",
+      "album": {
+        "name": "Gbg Noir",
+        "url": "https://open.spotify.com/album/6ekcmRIvx0kvzrex5j1lNN"
+      },
+      "artists": [
+        {
+          "name": "En Svensk Tiger",
+          "url": "https://open.spotify.com/artist/3iW69eoN123eG0fXEdER0q"
+        }
+      ],
+      "duration_ms": 182526,
+      "name": "Svegregationen",
+      "url": "https://open.spotify.com/track/1JTg3ZsOwIpsqdpEKnhGmA"
     },
     {
       "added_at": "2023-11-23 23:00:00",
@@ -1111,18 +1111,18 @@
     {
       "added_at": "2023-11-23 23:00:00",
       "album": {
-        "name": "V\u00e4rdel\u00f6s",
-        "url": "https://open.spotify.com/album/4j1KS0IccBP03iFKJpj0qp"
+        "name": "I All Hast",
+        "url": "https://open.spotify.com/album/2K7NWoMhC7f8OFF9pkhh4B"
       },
       "artists": [
         {
-          "name": "Sten & Stalin",
-          "url": "https://open.spotify.com/artist/7xS4Uw7T0pNePx7S238bM9"
+          "name": "Trevolt",
+          "url": "https://open.spotify.com/artist/5lK0kv8seid7QSWSg3cDPr"
         }
       ],
-      "duration_ms": 151800,
-      "name": "Pappa Betalar",
-      "url": "https://open.spotify.com/track/6Z8nFhmIrtcWNYhwLb8qZB"
+      "duration_ms": 167266,
+      "name": "Mitt Sista Andetag",
+      "url": "https://open.spotify.com/track/1nKyiaTNzhUUYBTCqgxzUa"
     },
     {
       "added_at": "2023-11-23 23:00:00",
@@ -1159,18 +1159,18 @@
     {
       "added_at": "2023-11-23 23:00:00",
       "album": {
-        "name": "I All Hast",
-        "url": "https://open.spotify.com/album/2K7NWoMhC7f8OFF9pkhh4B"
+        "name": "V\u00e4rdel\u00f6s",
+        "url": "https://open.spotify.com/album/4j1KS0IccBP03iFKJpj0qp"
       },
       "artists": [
         {
-          "name": "Trevolt",
-          "url": "https://open.spotify.com/artist/5lK0kv8seid7QSWSg3cDPr"
+          "name": "Sten & Stalin",
+          "url": "https://open.spotify.com/artist/7xS4Uw7T0pNePx7S238bM9"
         }
       ],
-      "duration_ms": 167266,
-      "name": "Mitt Sista Andetag",
-      "url": "https://open.spotify.com/track/1nKyiaTNzhUUYBTCqgxzUa"
+      "duration_ms": 151800,
+      "name": "Pappa Betalar",
+      "url": "https://open.spotify.com/track/6Z8nFhmIrtcWNYhwLb8qZB"
     },
     {
       "added_at": "2023-11-23 23:00:00",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2023-11-23 23:00:00",
       "album": {
-        "name": "Tretton \u00d6vningar i Mindfulness",
-        "url": "https://open.spotify.com/album/4LQH4X3UEoOPQG5YNI9RrV"
-      },
-      "artists": [
-        {
-          "name": "EPA",
-          "url": "https://open.spotify.com/artist/6vLwmfijKpOf0xR8Mv79aj"
-        }
-      ],
-      "duration_ms": 160148,
-      "name": "Alaska",
-      "url": "https://open.spotify.com/track/6Le2xknWbtNI3yRmiBs03U"
-    },
-    {
-      "added_at": "2023-11-23 23:00:00",
-      "album": {
         "name": "Urs\u00e4kta r\u00f6ran - vi river allt",
         "url": "https://open.spotify.com/album/5tKwHsShJjIiGBvnipyFeW"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 156656,
       "name": "Masspsykos",
       "url": "https://open.spotify.com/track/5ae5eUFZPTUhtIhXAnXtSu"
+    },
+    {
+      "added_at": "2023-11-23 23:00:00",
+      "album": {
+        "name": "Tretton \u00d6vningar i Mindfulness",
+        "url": "https://open.spotify.com/album/4LQH4X3UEoOPQG5YNI9RrV"
+      },
+      "artists": [
+        {
+          "name": "EPA",
+          "url": "https://open.spotify.com/artist/6vLwmfijKpOf0xR8Mv79aj"
+        }
+      ],
+      "duration_ms": 160148,
+      "name": "Alaska",
+      "url": "https://open.spotify.com/track/6Le2xknWbtNI3yRmiBs03U"
     }
   ],
   "unique_name": "Svensk Punk",

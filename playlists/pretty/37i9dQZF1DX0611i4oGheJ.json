@@ -1,12 +1,12 @@
 {
   "description": "Sweet gems to help you slow down and savor your day.",
-  "num_followers": 431683,
+  "num_followers": 431871,
   "original_name": "Soft & Slow",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNmYyZGI2YjE0OWJiNTMxY2RkMTkzYWQ4MjBkMjJlZTJiNzNlNjRl",
+  "snapshot_id": "MCxlNDMxZmU2ODMwODI4M2QzNjAzMzQ1ZjUzOTQ1NzZjMWVlMTY2YWJl",
   "tracks": [
     {
       "added_at": "2023-12-01 05:00:00",
@@ -563,22 +563,6 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "Barton Hollow",
-        "url": "https://open.spotify.com/album/4uWgDFxGAp7XlVSHuVBv4E"
-      },
-      "artists": [
-        {
-          "name": "The Civil Wars",
-          "url": "https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE"
-        }
-      ],
-      "duration_ms": 219466,
-      "name": "Poison & Wine",
-      "url": "https://open.spotify.com/track/4BFudy2Zbryi9a1KFad66B"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
         "name": "Designer",
         "url": "https://open.spotify.com/album/39CMyhmaEk6JMlqYUXQNOI"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 299440,
       "name": "The Barrel",
       "url": "https://open.spotify.com/track/06lw2dBFqdXhAErz7Xz9Zs"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
+        "name": "Barton Hollow",
+        "url": "https://open.spotify.com/album/4uWgDFxGAp7XlVSHuVBv4E"
+      },
+      "artists": [
+        {
+          "name": "The Civil Wars",
+          "url": "https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE"
+        }
+      ],
+      "duration_ms": 219466,
+      "name": "Poison & Wine",
+      "url": "https://open.spotify.com/track/4BFudy2Zbryi9a1KFad66B"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -951,18 +951,18 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "Twist",
-        "url": "https://open.spotify.com/album/0jEibaehyR3jnPQCAFDaaL"
+        "name": "Falling In",
+        "url": "https://open.spotify.com/album/59ZFxwkLZ1vUJJVqHTdXEU"
       },
       "artists": [
         {
-          "name": "Lorkin O'Reilly",
-          "url": "https://open.spotify.com/artist/4NQg2mwGxphbDjrkc1Rb6l"
+          "name": "Inhaler",
+          "url": "https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH"
         }
       ],
-      "duration_ms": 186157,
-      "name": "Twist",
-      "url": "https://open.spotify.com/track/4KpGSVWhepx3OBVJivntjj"
+      "duration_ms": 315491,
+      "name": "Fade Into You",
+      "url": "https://open.spotify.com/track/0v55XuHDYNj4ELPzpRnNo0"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -983,18 +983,18 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "Falling In",
-        "url": "https://open.spotify.com/album/59ZFxwkLZ1vUJJVqHTdXEU"
+        "name": "Twist",
+        "url": "https://open.spotify.com/album/0jEibaehyR3jnPQCAFDaaL"
       },
       "artists": [
         {
-          "name": "Inhaler",
-          "url": "https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH"
+          "name": "Lorkin O'Reilly",
+          "url": "https://open.spotify.com/artist/4NQg2mwGxphbDjrkc1Rb6l"
         }
       ],
-      "duration_ms": 315491,
-      "name": "Fade Into You",
-      "url": "https://open.spotify.com/track/0v55XuHDYNj4ELPzpRnNo0"
+      "duration_ms": 186157,
+      "name": "Twist",
+      "url": "https://open.spotify.com/track/4KpGSVWhepx3OBVJivntjj"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -2027,22 +2027,6 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "Motel Bouquet",
-        "url": "https://open.spotify.com/album/1wzGEFBlLXHmoW4OK4Qapu"
-      },
-      "artists": [
-        {
-          "name": "Caitlin Canty",
-          "url": "https://open.spotify.com/artist/3QOwPxkPpGvhbiPaEs7Pnl"
-        }
-      ],
-      "duration_ms": 184787,
-      "name": "Motel",
-      "url": "https://open.spotify.com/track/6qe4MSI8cWbBqo2YBNmUic"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
         "name": "Nostalgia",
         "url": "https://open.spotify.com/album/2LhcszZRrPCmJZqhsTdI6S"
       },
@@ -2055,6 +2039,22 @@
       "duration_ms": 229432,
       "name": "Nostalgia",
       "url": "https://open.spotify.com/track/5TnodoKN3XEi80i2ZeCh1y"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
+        "name": "Motel Bouquet",
+        "url": "https://open.spotify.com/album/1wzGEFBlLXHmoW4OK4Qapu"
+      },
+      "artists": [
+        {
+          "name": "Caitlin Canty",
+          "url": "https://open.spotify.com/artist/3QOwPxkPpGvhbiPaEs7Pnl"
+        }
+      ],
+      "duration_ms": 184787,
+      "name": "Motel",
+      "url": "https://open.spotify.com/track/6qe4MSI8cWbBqo2YBNmUic"
     },
     {
       "added_at": "2023-12-01 05:00:00",

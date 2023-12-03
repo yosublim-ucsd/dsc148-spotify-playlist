@@ -1,12 +1,12 @@
 {
   "description": "Have a fantastic road trip with upbeat songs from your favorite Christian artists!",
-  "num_followers": 119692,
+  "num_followers": 119898,
   "original_name": "Christian Road Trip",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNDViMGI5OTc1MDJlYWI4NmRhODdhNzk3OGU1YzlkNmZiOTU1MWQ5",
+  "snapshot_id": "MCwyNzk5MWVjMjg3NTUxZjY5ZDI3YjI1NzYyZGZmOWJjYzgyNmZlYjhj",
   "tracks": [
     {
       "added_at": "2023-02-07 17:43:16",
@@ -999,22 +999,6 @@
     {
       "added_at": "2023-02-07 17:43:16",
       "album": {
-        "name": "Wildest Dreams",
-        "url": "https://open.spotify.com/album/7sMUMoz8M97aFHePhUpdR9"
-      },
-      "artists": [
-        {
-          "name": "Ryan Stevenson",
-          "url": "https://open.spotify.com/artist/1rxhmvc4pue9A2fEXnLT97"
-        }
-      ],
-      "duration_ms": 267333,
-      "name": "When We Fall Apart",
-      "url": "https://open.spotify.com/track/6QZP7wxsor0vZsI9dkKZk2"
-    },
-    {
-      "added_at": "2023-02-07 17:43:16",
-      "album": {
         "name": "Citizen of Heaven",
         "url": "https://open.spotify.com/album/7o7x7p8emSxFJXS2ECj1Us"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 222936,
       "name": "Miracle",
       "url": "https://open.spotify.com/track/0jJgHF533Wakrjt1lt6zwz"
+    },
+    {
+      "added_at": "2023-02-07 17:43:16",
+      "album": {
+        "name": "Wildest Dreams",
+        "url": "https://open.spotify.com/album/7sMUMoz8M97aFHePhUpdR9"
+      },
+      "artists": [
+        {
+          "name": "Ryan Stevenson",
+          "url": "https://open.spotify.com/artist/1rxhmvc4pue9A2fEXnLT97"
+        }
+      ],
+      "duration_ms": 267333,
+      "name": "When We Fall Apart",
+      "url": "https://open.spotify.com/track/6QZP7wxsor0vZsI9dkKZk2"
     },
     {
       "added_at": "2023-02-07 17:43:16",

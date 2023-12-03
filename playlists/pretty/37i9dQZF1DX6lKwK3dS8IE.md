@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6lKwK3dS8IE.md) - [plain]
 
 > Folk punk, anti\-folk, acoustic punk & more\. Cover: AJJ
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,105 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,104 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6lKwK3dS8IE.md) - [plain]
 | 49 | [I Know How It Feels](https://open.spotify.com/track/3gd0PGrjI49TL1keClyFBh) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [I Know How It Feels](https://open.spotify.com/album/5yWpmbHjwTVx2sVTkrr8KI) | 2:46 |
 | 50 | [Out of Egypt](https://open.spotify.com/track/4dzi9ff1Zm5PqLtn0gyM9a) | [Foxpaw](https://open.spotify.com/artist/3lrRCJ6WUwtvNVz9dPe3Yn) | [Still Dreaming, I Never See the Stars](https://open.spotify.com/album/69qLqOSmFzaKoLdH9I4V5x) | 2:19 |
 
-Snapshot ID: `MCw3ZjNkOGZlZTUxMTY1ODQyMmFiNjljZDAxMDMzOTU1OTdiOTU2ZWY1`
+Snapshot ID: `MCxmYjE2ZDkyOTg0MWU2ZmMyNGJhMWRmM2NkZjIxNWI5MmJjMjU2NzZm`

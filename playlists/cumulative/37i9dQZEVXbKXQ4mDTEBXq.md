@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Japan.
 
-357 songs - 22 hr 24 min
+360 songs - 22 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [ETA](https://open.spotify.com/track/56v8WEnGzLByGsDAXDiv4d) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 2nd EP 'Get Up'](https://open.spotify.com/album/4N1fROq2oeyLGAlQ1C1j18) | 2:31 | 2023-07-23 | 2023-11-14 |
 | [fake face dance music](https://open.spotify.com/track/4ayU74yaWEgHHpaf1WJ313) | [音田 雅則](https://open.spotify.com/artist/7KSbqXHO0xzNQhzaIWILIo) | [fake face dance music](https://open.spotify.com/album/1oSTnI41dwQQbO2GaYEL4I) | 2:31 | 2023-08-27 |  |
 | [FEARLESS](https://open.spotify.com/track/296nXCOv97WJNRWzIBQnoj) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [FEARLESS](https://open.spotify.com/album/4Mc7WwYH41hgUWeKX25Sot) | 2:48 | 2022-05-07 | 2022-08-25 |
+| [FEEL OR BEEF BADPOP IS DEAD](https://open.spotify.com/track/46FKKQrKaQJVz1kZNr3Aid) | [NAMEDARUMAAZ](https://open.spotify.com/artist/6y1Kuh89ySfhDL6lXPshpi) | [FEEL OR BEEF BADPOP IS DEAD](https://open.spotify.com/album/64jZuo9pd3g1aisDw4vcDa) | 6:49 | 2023-12-02 |  |
 | [Film out](https://open.spotify.com/track/3UHPGOkUcE4hE7sqBF4Snt) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Film out](https://open.spotify.com/album/2jae5Jx8Yh1WjP1K4wTFUa) | 3:34 | 2021-04-04 | 2021-11-17 |
 | [First Love](https://open.spotify.com/track/39HrUxcvKF3jtLz7fUDWXc) | [Hikaru Utada](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2) | [First Love](https://open.spotify.com/album/29U9LtzSF0ftWiLNNw1CP6) | 4:17 | 2022-12-05 | 2023-03-08 |
 | [First Love \- 2022 Mix](https://open.spotify.com/track/0PvuVoqa1IHCnTrNnltS70) | [Hikaru Utada](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2) | [First Love \(2022 Mix\)](https://open.spotify.com/album/1TwR0thoGz0hCk0ot73xID) | 4:21 | 2022-12-28 | 2023-01-03 |
@@ -235,7 +236,8 @@
 | [スパークル](https://open.spotify.com/track/3MR8qQiK1Bydhw9WjAzwzU) | [Lilas Ikuta](https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z) | [Sketch](https://open.spotify.com/album/5aCgGOMefRFhsLgclMThoy) | 3:30 | 2023-03-09 | 2023-03-21 |
 | [スパークル](https://open.spotify.com/track/6EuubEs5qOmJdpNhkU47OZ) | [Lilas Ikuta](https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z) | [スパークル](https://open.spotify.com/album/0HmvMEiGowPfT2UvYNRDcv) | 3:33 | 2023-01-16 | 2023-03-10 |
 | [セブンティーン](https://open.spotify.com/track/1TXhBe3DnaOFc7onTbEoiB) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [セブンティーン](https://open.spotify.com/album/2XGJwl5zpqPTmtLAPy2rr6) | 3:19 | 2023-04-05 | 2023-04-26 |
-| [ダンスホール](https://open.spotify.com/track/4NaaF28BeO9WzjDrSS71Nz) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [ダンスホール](https://open.spotify.com/album/3OyEc77lPQ8QOWMIWvZl08) | 3:23 | 2022-07-07 |  |
+| [ダンスホール](https://open.spotify.com/track/4NaaF28BeO9WzjDrSS71Nz) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [ダンスホール](https://open.spotify.com/album/3OyEc77lPQ8QOWMIWvZl08) | 3:23 | 2022-07-07 | 2023-12-03 |
+| [ダンスホール](https://open.spotify.com/track/5LkmpgQYtwHtuvASgnLBe1) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [Inferno & More Hits](https://open.spotify.com/album/6S3xkUk67SSNzWhGDoKyt5) | 3:23 | 2023-12-02 |  |
 | [チノカテ](https://open.spotify.com/track/7HIfg6iQgXkVEUMHAAXW2d) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [幻燈](https://open.spotify.com/album/4LBtT0FZ3JMjbklNwnW0Ms) | 4:07 | 2023-04-21 | 2023-04-23 |
 | [トウキョウ・シャンディ・ランデヴ](https://open.spotify.com/track/2MmgGuQzr0kkiA04lMdPXW) | [MAISONdes](https://open.spotify.com/artist/7LTiBdByoaUd329wCpmMcM), [花譜](https://open.spotify.com/artist/2c32JruIkUyfdycHmhIph4), [ツミキ](https://open.spotify.com/artist/7ctyyNnO9O2dDD8bHjkCAh) | [トウキョウ・シャンディ・ランデヴ](https://open.spotify.com/album/4PVGSr28Y12iTfD6QnzAkQ) | 3:04 | 2022-12-27 | 2023-06-07 |
 | [ドライフラワー](https://open.spotify.com/track/7dH0dpi751EoguDDg3xx6J) | [Yuuri](https://open.spotify.com/artist/0ixzjrK1wkN2zWBXt3VW3W) | [ドライフラワー](https://open.spotify.com/album/69BzgmDXpLIPQI4tUGuLZM) | 4:45 | 2021-03-27\* | 2022-01-14 |
@@ -284,7 +286,7 @@
 | [君に夢中](https://open.spotify.com/track/3mRNkUTu4ItqQ6GXy7L7KF) | [Hikaru Utada](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2) | [君に夢中](https://open.spotify.com/album/1FcGt8wyGckJfp7PlLPNdA) | 4:17 | 2021-11-28 | 2022-01-21 |
 | [君のまま](https://open.spotify.com/track/78NUnAsLzE6azxvuPDy9M7) | [百足](https://open.spotify.com/artist/4WgGn0neagCUyjQExpUBX7), [韻マン](https://open.spotify.com/artist/5KUOSKYLz09CFEp79nLJW5) | [君のまま](https://open.spotify.com/album/41CLZRQnCpvzfvi13Gl6EU) | 2:57 | 2023-02-26 | 2023-06-07 |
 | [喜劇](https://open.spotify.com/track/6pllZAdgBf4QTcFUrF3DzL) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [喜劇](https://open.spotify.com/album/0W9ENhe5arttYknqbp67DB) | 3:50 | 2022-04-09 | 2022-04-17 |
-| [地球儀 \- Spinning Globe](https://open.spotify.com/track/6x7SB38tuekpu4xpH9OIPY) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [地球儀 \- Spinning Globe](https://open.spotify.com/album/2FoCAlugem3yJk6lFxXP0W) | 4:33 | 2023-07-18 |  |
+| [地球儀 \- Spinning Globe](https://open.spotify.com/track/6x7SB38tuekpu4xpH9OIPY) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [地球儀 \- Spinning Globe](https://open.spotify.com/album/2FoCAlugem3yJk6lFxXP0W) | 4:33 | 2023-07-18 | 2023-12-03 |
 | [夜に駆ける](https://open.spotify.com/track/6MCjmGYlw6mQVWRFVgBRvB) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [THE BOOK](https://open.spotify.com/album/1xhO0GSoezdPJcSuNe1ySv) | 4:18 | 2021-03-27\* | 2022-10-21 |
 | [大正浪漫](https://open.spotify.com/track/3uw93CiI34uZlfk8ywep1e) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [大正浪漫](https://open.spotify.com/album/4D1e5OPqOqOWhQhiNleOOl) | 2:48 | 2021-09-17 | 2021-11-28 |
 | [常緑](https://open.spotify.com/track/6qn31XzTa6YKXs5FZpAPgP) | [Chippoke Ohashi](https://open.spotify.com/artist/3QWnDVzCzffmWoYCAGNajE) | [you](https://open.spotify.com/album/1zYNXMwnOzrM188c5DRQLw) | 2:51 | 2021-11-25 | 2022-10-14 |
@@ -320,8 +322,9 @@
 | [水平線](https://open.spotify.com/track/5m1i6hq7dmRlp3c1utE48L) | [back number](https://open.spotify.com/artist/6rs1KAoQnFalSqSU4LTh8g) | [水平線](https://open.spotify.com/album/4Z7pjeWlxxT8EXXlxW5i4y) | 4:45 | 2021-08-19 | 2023-01-19 |
 | [水平線](https://open.spotify.com/track/3RvdkNMcSy71m0aT6UF9Uf) | [back number](https://open.spotify.com/artist/6rs1KAoQnFalSqSU4LTh8g) | [ユーモア](https://open.spotify.com/album/4Owee1i5rIFJvQczZXSdiQ) | 4:48 | 2023-01-18 |  |
 | [炎](https://open.spotify.com/track/0cSkn2l67csUljEy0EEBPn) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [炎](https://open.spotify.com/album/1KmL1EZ0Pg9Vj3rPYMDqHY) | 4:35 | 2021-03-27\* | 2021-12-26 |
-| [点描の唄](https://open.spotify.com/track/1sIIlVrnPhrvmTrHtzM7tV) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9), [Sonoko Inoue](https://open.spotify.com/artist/71hQB5jxdNiHk5gzZRhicQ) | [青と夏](https://open.spotify.com/album/5enxwo7c4D5mhXp5f56OLy) | 5:07 | 2021-03-27\* |  |
+| [点描の唄](https://open.spotify.com/track/1sIIlVrnPhrvmTrHtzM7tV) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9), [Sonoko Inoue](https://open.spotify.com/artist/71hQB5jxdNiHk5gzZRhicQ) | [青と夏](https://open.spotify.com/album/5enxwo7c4D5mhXp5f56OLy) | 5:07 | 2021-03-27\* | 2023-12-03 |
 | [点描の唄](https://open.spotify.com/track/0l2wnmSJ8rW5dvS2eW3xNp) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9), [Sonoko Inoue](https://open.spotify.com/artist/71hQB5jxdNiHk5gzZRhicQ) | [My Favorite Mrs\. GREEN APPLE](https://open.spotify.com/album/6wJUlQmY13GcRkilYwo0gw) | 5:07 | 2022-06-21 | 2022-09-10 |
+| [点描の唄](https://open.spotify.com/track/7Md0Rk4s9khBtVpSD03bWl) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9), [Sonoko Inoue](https://open.spotify.com/artist/71hQB5jxdNiHk5gzZRhicQ) | [Inferno & More Hits](https://open.spotify.com/album/6S3xkUk67SSNzWhGDoKyt5) | 5:07 | 2023-12-02 |  |
 | [燈](https://open.spotify.com/track/5blG2vXcJC2n9l3rb5sCOr) | [Soushi Sakiyama](https://open.spotify.com/artist/1IEretLePzJKj8R6KCEaBA) | [燈](https://open.spotify.com/album/3wM9hHXOVaqczNQNYRxylz) | 3:58 | 2023-08-02 | 2023-08-11 |
 | [燈](https://open.spotify.com/track/7jtXjZ3JViUo9M3ogYAapO) | [Soushi Sakiyama](https://open.spotify.com/artist/1IEretLePzJKj8R6KCEaBA) | [i 触れる SAD UFO](https://open.spotify.com/album/39l5XqHOxUnSvkyToqhtIt) | 3:59 | 2023-08-10 | 2023-12-01 |
 | [猫](https://open.spotify.com/track/6sIx7Cn37DGEhjy9hBP8Gx) | [DISH//](https://open.spotify.com/artist/0jJmZHZHNe8n24Y33z5Nil) | [僕たちがやりました](https://open.spotify.com/album/0jf58OGRFXs8NG5hcUCJb0) | 4:36 | 2021-03-27\* | 2022-07-05 |

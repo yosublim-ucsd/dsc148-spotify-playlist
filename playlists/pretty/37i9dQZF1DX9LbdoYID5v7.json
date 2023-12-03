@@ -1,12 +1,12 @@
 {
   "description": "Music that created modern indie as we know it. Cover: Yeah Yeah Yeahs",
-  "num_followers": 443761,
+  "num_followers": 443857,
   "original_name": "The 2000s Indie Scene",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZGUyZjU2ZThjNDM3MzVhNGEzMTYzMzdjN2I0MTBhZmFlYjlmMmI5",
+  "snapshot_id": "MCw3ZGRhOThmNWNlMzg5YTkyYjYwMzQyYjIwOGMxZTc2YmFjZjQzMGZl",
   "tracks": [
     {
       "added_at": "2023-10-19 19:07:56",
@@ -603,22 +603,6 @@
     {
       "added_at": "2023-01-18 01:04:44",
       "album": {
-        "name": "Youth Novels",
-        "url": "https://open.spotify.com/album/65ain97ltDAxldCiOcBtHo"
-      },
-      "artists": [
-        {
-          "name": "Lykke Li",
-          "url": "https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in"
-        }
-      ],
-      "duration_ms": 273426,
-      "name": "Little Bit",
-      "url": "https://open.spotify.com/track/0Ps4Eh6SQjeLnubbCsQTDD"
-    },
-    {
-      "added_at": "2023-01-18 01:04:44",
-      "album": {
         "name": "Give Up (Deluxe 10th Anniversary Edition)",
         "url": "https://open.spotify.com/album/5MoaDbFw4nrm2P7Om1on3b"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 266506,
       "name": "Such Great Heights - Remastered",
       "url": "https://open.spotify.com/track/4G21jWo0Cm6lOIUNnZ2mUI"
+    },
+    {
+      "added_at": "2023-01-18 01:04:44",
+      "album": {
+        "name": "Youth Novels",
+        "url": "https://open.spotify.com/album/65ain97ltDAxldCiOcBtHo"
+      },
+      "artists": [
+        {
+          "name": "Lykke Li",
+          "url": "https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in"
+        }
+      ],
+      "duration_ms": 273426,
+      "name": "Little Bit",
+      "url": "https://open.spotify.com/track/0Ps4Eh6SQjeLnubbCsQTDD"
     },
     {
       "added_at": "2023-01-18 01:04:44",
@@ -991,22 +991,6 @@
     {
       "added_at": "2023-01-18 01:04:44",
       "album": {
-        "name": "The Reminder",
-        "url": "https://open.spotify.com/album/7bTdGfczXffzzNE9ssJj4Z"
-      },
-      "artists": [
-        {
-          "name": "Feist",
-          "url": "https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj"
-        }
-      ],
-      "duration_ms": 183666,
-      "name": "1234",
-      "url": "https://open.spotify.com/track/2CzWeyC9zlDpIOZPUUKrBW"
-    },
-    {
-      "added_at": "2023-01-18 01:04:44",
-      "album": {
         "name": "xx",
         "url": "https://open.spotify.com/album/6tzQKMilI02kn1lzLklDI8"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 338279,
       "name": "Destiny",
       "url": "https://open.spotify.com/track/27ViQppP3LZPCJl2A0w9kp"
+    },
+    {
+      "added_at": "2023-01-18 01:04:44",
+      "album": {
+        "name": "The Reminder",
+        "url": "https://open.spotify.com/album/7bTdGfczXffzzNE9ssJj4Z"
+      },
+      "artists": [
+        {
+          "name": "Feist",
+          "url": "https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj"
+        }
+      ],
+      "duration_ms": 183666,
+      "name": "1234",
+      "url": "https://open.spotify.com/track/2CzWeyC9zlDpIOZPUUKrBW"
     },
     {
       "added_at": "2023-01-18 01:04:44",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2023-01-18 01:04:44",
       "album": {
-        "name": "Santigold",
-        "url": "https://open.spotify.com/album/4yATru0hY3VgRHSreswbGj"
-      },
-      "artists": [
-        {
-          "name": "Santigold",
-          "url": "https://open.spotify.com/artist/6Jrxnp0JgqmeUX1veU591p"
-        }
-      ],
-      "duration_ms": 204906,
-      "name": "L.E.S. Artistes",
-      "url": "https://open.spotify.com/track/4dmCLAZbWYT0qtcG7GVMdb"
-    },
-    {
-      "added_at": "2023-01-18 01:04:44",
-      "album": {
         "name": "The Sunlandic Twins",
         "url": "https://open.spotify.com/album/2h79iBNx5cNPafy42aI1NE"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 255613,
       "name": "Wraith Pinned to the Mist and Other Games",
       "url": "https://open.spotify.com/track/0Ensfv1iBDcsOF6xNok14N"
+    },
+    {
+      "added_at": "2023-01-18 01:04:44",
+      "album": {
+        "name": "Santigold",
+        "url": "https://open.spotify.com/album/4yATru0hY3VgRHSreswbGj"
+      },
+      "artists": [
+        {
+          "name": "Santigold",
+          "url": "https://open.spotify.com/artist/6Jrxnp0JgqmeUX1veU591p"
+        }
+      ],
+      "duration_ms": 204906,
+      "name": "L.E.S. Artistes",
+      "url": "https://open.spotify.com/track/4dmCLAZbWYT0qtcG7GVMdb"
     },
     {
       "added_at": "2023-01-18 01:04:44",

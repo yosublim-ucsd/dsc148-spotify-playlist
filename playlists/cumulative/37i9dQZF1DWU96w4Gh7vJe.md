@@ -4,7 +4,7 @@
 
 > Sit back and relax to our favorite local indie and R&B sounds.
 
-59 songs - 3 hr 57 min
+60 songs - 4 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,11 +22,12 @@
 | [Could Be Something](https://open.spotify.com/track/3hrkISrdVUz0qJLeH2KI9r) | [Ben&Ben](https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb) | [Could Be Something](https://open.spotify.com/album/333wl5bz94xWRNTPBBfKcI) | 3:16 | 2023-10-20 | 2023-11-07 |
 | [Dati \(feat\. Skusta Clee\)](https://open.spotify.com/track/7pa4kToAE3b6Gtk7fWrsLl) | [John Roa](https://open.spotify.com/artist/2U5mF0PZqGu6glnz55yY0y), [Skusta Clee](https://open.spotify.com/artist/117XFtbZPnCI1EYKjYZWJc) | [Byahe](https://open.spotify.com/album/6GkdhbqD0GxO1YMan6eK2b) | 3:17 | 2023-10-20 |  |
 | [Don't Know What To Do \(Don't Know What To Say\)](https://open.spotify.com/track/1ER60P43ftVOLaMRvBfpnt) | [Mark Carpio](https://open.spotify.com/artist/2JEIN1g27pZdm3hKB9EwE5) | [Don't Know What To Do \(Don't Know What To Say\)](https://open.spotify.com/album/6ZozvLGJfI8IEdQCTeivYc) | 2:47 | 2023-10-20 |  |
+| [Especially For You](https://open.spotify.com/track/55k3xZxEr3wIXxeL8dPtcR) | [MYMP](https://open.spotify.com/artist/5elcNQkZ6FCZA3grSOMngY) | [Versions & Beyond](https://open.spotify.com/album/1cThuysJDdNOhR6dvgI1fx) | 3:43 | 2023-11-10 |  |
 | [Ex](https://open.spotify.com/track/0GHwNr0lqf8jpc9wesmnHo) | [Callalily](https://open.spotify.com/artist/4HOEnLufwAqJ2qoJPVnL01) | [Ex](https://open.spotify.com/album/0qny2u4DXtiOu7ENsopaaA) | 4:39 | 2023-10-20 | 2023-11-21 |
 | [Gitara](https://open.spotify.com/track/7nbIGbDitZIYoMrMsXunAu) | [Parokya Ni Edgar](https://open.spotify.com/artist/2XHTklRsNMOOQT56Zm3WS4) | [Halina Sa Parokya](https://open.spotify.com/album/7g5RBMWC3jvPVmytLEZLZL) | 4:02 | 2023-10-20 |  |
 | [Gusto feat\. Al James](https://open.spotify.com/track/6t4krDdBmRmcRH7mb8wPRL) | [Zack Tabudlo](https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac), [Al James](https://open.spotify.com/artist/2G7VQ1kVhVfNagytlousgm) | [Gusto](https://open.spotify.com/album/5x5yKLZt6MF5oznNY42pYK) | 4:20 | 2023-10-20 |  |
 | [Gusto With Ya](https://open.spotify.com/track/0hr2Itwh84Zn3PiRRjHTnw) | [DENȲ](https://open.spotify.com/artist/2Q2uIXpaRSH3Or0oT5nFXR) | [Gusto With Ya](https://open.spotify.com/album/3hQTzUwRIXnetrF1WrSrfk) | 2:42 | 2023-10-20 |  |
-| [Halfway There](https://open.spotify.com/track/78CpG0pJFe6KC3JjuMeEQu) | [Jolianne](https://open.spotify.com/artist/0GuaoBVOFuVXuhbrmSD1je) | [Halfway There](https://open.spotify.com/album/6Xs7i3w3oTmK6j2cpry6sg) | 2:35 | 2023-10-20 |  |
+| [Halfway There](https://open.spotify.com/track/78CpG0pJFe6KC3JjuMeEQu) | [Jolianne](https://open.spotify.com/artist/0GuaoBVOFuVXuhbrmSD1je) | [Halfway There](https://open.spotify.com/album/6Xs7i3w3oTmK6j2cpry6sg) | 2:35 | 2023-10-20 | 2023-12-03 |
 | [HINAHANAP\-HANAP](https://open.spotify.com/track/5MOuneXW2aavXBilskdGY7) | [jikamarie](https://open.spotify.com/artist/2M1iyuNJojQoNdyfIMr54j) | [HINAHANAP\-HANAP](https://open.spotify.com/album/38Sx6xPGEqsfen69jNid47) | 2:55 | 2023-11-10 |  |
 | [homebdy \(feat\. Madman Stan\)](https://open.spotify.com/track/01iNOMVE89uKaurFTDZX2Y) | [DEMI](https://open.spotify.com/artist/1bvOB4esBO2VFoCnaEheBO), [slimedemidemislime](https://open.spotify.com/artist/3gQfw9pQejHU7SPfBNtT3E), [Madman Stan](https://open.spotify.com/artist/0Rr0WdbX3xAbTYlbapkuTs) | [homebdy \(feat\. Madman Stan\)](https://open.spotify.com/album/1eNpFnIEHvsFYcIaSnf3bJ) | 2:21 | 2023-10-20 |  |
 | [how could it be](https://open.spotify.com/track/2fbuZc8ms9dRnKa8TgIrHW) | [Shan Capri](https://open.spotify.com/artist/2v6cSFZEDYoO3C9dAODVjr) | [how could it be](https://open.spotify.com/album/4RuBUy4SQ0EMVwUYcq47bY) | 3:42 | 2023-11-10 |  |

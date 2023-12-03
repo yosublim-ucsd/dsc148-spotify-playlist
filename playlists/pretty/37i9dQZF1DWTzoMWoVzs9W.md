@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTzoMWoVzs9W.md) - [plain]
 
 > Listen to all of her hits right here!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,085,584 likes - 70 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,085,632 likes - 70 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTzoMWoVzs9W.md) - [plain]
 | 69 | [Turn It Up](https://open.spotify.com/track/3912zNANDuLatGYzGSobcE) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Versions of Me](https://open.spotify.com/album/2TPl41Riu1SDbHoxhCIo2D) | 2:39 |
 | 70 | [Un altro ballo \(feat\. Anitta\)](https://open.spotify.com/track/7cJ9H8e0xzC0EBdsUVIBRx) | [Fred De Palma](https://open.spotify.com/artist/0QrUbsrL5imqntAfDl8i7q), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Un altro ballo \(feat\. Anitta\)](https://open.spotify.com/album/4ntB7pGMbRx3mNMDbbT2Je) | 2:47 |
 
-Snapshot ID: `MCw1NjRhMmQ1YWE3MmI1ZTg2YTZmZDEyNDM5NDA0NmMzNTdlYTUxZmEy`
+Snapshot ID: `MCw3YWEyMmQ1NzY5ZDM4MmMzZTg1ZWM3NWQ5ZDdmNDFiNGY0MDZkNzk3`

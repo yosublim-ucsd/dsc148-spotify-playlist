@@ -1,12 +1,12 @@
 {
   "description": "Blissful indie for dreamers.",
-  "num_followers": 298874,
+  "num_followers": 298947,
   "original_name": "Dreampop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjOGFiMjQ2N2JiNzI1NTg4MWU1MTVhZGFiNzM1NTExZWE3Mzg0NmQx",
+  "snapshot_id": "MCwzNGZiZjdmYzVkNWVmY2JjYTQyMDg5MTcxYzU2YzA5MTI2M2JjNTZi",
   "tracks": [
     {
       "added_at": "2023-07-21 10:37:28",
@@ -393,22 +393,6 @@
       "url": "https://open.spotify.com/track/2ngVZZGrIYAxyxaA2QcWTB"
     },
     {
-      "added_at": "2023-07-21 10:37:28",
-      "album": {
-        "name": "Boyhood",
-        "url": "https://open.spotify.com/album/0WeOawoUKtxcNqkdvmdN4n"
-      },
-      "artists": [
-        {
-          "name": "The Japanese House",
-          "url": "https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u"
-        }
-      ],
-      "duration_ms": 189624,
-      "name": "Boyhood",
-      "url": "https://open.spotify.com/track/4Y273Gix47holXvTP9hGpj"
-    },
-    {
       "added_at": "2023-09-29 10:51:04",
       "album": {
         "name": "Sit Down for Dinner",
@@ -423,6 +407,22 @@
       "duration_ms": 315005,
       "name": "Snowman",
       "url": "https://open.spotify.com/track/6gGKU1PSWNdLyjiURjfPil"
+    },
+    {
+      "added_at": "2023-07-21 10:37:28",
+      "album": {
+        "name": "Boyhood",
+        "url": "https://open.spotify.com/album/0WeOawoUKtxcNqkdvmdN4n"
+      },
+      "artists": [
+        {
+          "name": "The Japanese House",
+          "url": "https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u"
+        }
+      ],
+      "duration_ms": 189624,
+      "name": "Boyhood",
+      "url": "https://open.spotify.com/track/4Y273Gix47holXvTP9hGpj"
     },
     {
       "added_at": "2023-07-21 10:37:28",
@@ -507,22 +507,6 @@
     {
       "added_at": "2023-07-21 10:37:28",
       "album": {
-        "name": "Heavy Days",
-        "url": "https://open.spotify.com/album/5B2eSjpDpzAmIxfpGndPHe"
-      },
-      "artists": [
-        {
-          "name": "Still Corners",
-          "url": "https://open.spotify.com/artist/4zKYrXs8iN4AeHmO8ZxNqp"
-        }
-      ],
-      "duration_ms": 227683,
-      "name": "Heavy Days",
-      "url": "https://open.spotify.com/track/0nGmz6gDOZdRh0rYd623P9"
-    },
-    {
-      "added_at": "2023-07-21 10:37:28",
-      "album": {
         "name": "Lean Into Life",
         "url": "https://open.spotify.com/album/0bhNAmedySXmdR9xBhbpmZ"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 327266,
       "name": "Lean Into Life",
       "url": "https://open.spotify.com/track/59I8EVpxxsE50dQRPpaBms"
+    },
+    {
+      "added_at": "2023-07-21 10:37:28",
+      "album": {
+        "name": "Heavy Days",
+        "url": "https://open.spotify.com/album/5B2eSjpDpzAmIxfpGndPHe"
+      },
+      "artists": [
+        {
+          "name": "Still Corners",
+          "url": "https://open.spotify.com/artist/4zKYrXs8iN4AeHmO8ZxNqp"
+        }
+      ],
+      "duration_ms": 227683,
+      "name": "Heavy Days",
+      "url": "https://open.spotify.com/track/0nGmz6gDOZdRh0rYd623P9"
     },
     {
       "added_at": "2023-07-21 10:37:28",
@@ -635,22 +635,6 @@
     {
       "added_at": "2023-07-21 10:37:28",
       "album": {
-        "name": "This Empty Town",
-        "url": "https://open.spotify.com/album/4BOldAGooVBHr4LZsyVjAL"
-      },
-      "artists": [
-        {
-          "name": "Jaguar Sun",
-          "url": "https://open.spotify.com/artist/4WQwU51LUtrVrw0K8BMpAC"
-        }
-      ],
-      "duration_ms": 256204,
-      "name": "Keep You Warm",
-      "url": "https://open.spotify.com/track/4GjWZDfWw5ZnW9vmioJwY0"
-    },
-    {
-      "added_at": "2023-07-21 10:37:28",
-      "album": {
         "name": "The Clouds Cleared the Way",
         "url": "https://open.spotify.com/album/2GajVRWAWcqYuEcYZTLIn8"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 244000,
       "name": "The Clouds Cleared the Way",
       "url": "https://open.spotify.com/track/5Pdsyk2NuTJ56mE97DmxmN"
+    },
+    {
+      "added_at": "2023-07-21 10:37:28",
+      "album": {
+        "name": "This Empty Town",
+        "url": "https://open.spotify.com/album/4BOldAGooVBHr4LZsyVjAL"
+      },
+      "artists": [
+        {
+          "name": "Jaguar Sun",
+          "url": "https://open.spotify.com/artist/4WQwU51LUtrVrw0K8BMpAC"
+        }
+      ],
+      "duration_ms": 256204,
+      "name": "Keep You Warm",
+      "url": "https://open.spotify.com/track/4GjWZDfWw5ZnW9vmioJwY0"
     },
     {
       "added_at": "2023-07-21 10:37:28",
@@ -703,6 +703,22 @@
     {
       "added_at": "2023-07-21 10:37:28",
       "album": {
+        "name": "Fantasy",
+        "url": "https://open.spotify.com/album/7B6lEObl7aYkMjX8M89IRQ"
+      },
+      "artists": [
+        {
+          "name": "M83",
+          "url": "https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz"
+        }
+      ],
+      "duration_ms": 400037,
+      "name": "Earth To Sea",
+      "url": "https://open.spotify.com/track/2njyI8ksGaS9H0K3OZxVpp"
+    },
+    {
+      "added_at": "2023-07-21 10:37:28",
+      "album": {
         "name": "Morningside",
         "url": "https://open.spotify.com/album/21Ld2tSHSxYFkj7QHTHFQB"
       },
@@ -731,22 +747,6 @@
       "duration_ms": 331664,
       "name": "Somebody Else",
       "url": "https://open.spotify.com/track/3i9uLop8qSpPZ8g4yXXHTN"
-    },
-    {
-      "added_at": "2023-07-21 10:37:28",
-      "album": {
-        "name": "Fantasy",
-        "url": "https://open.spotify.com/album/7B6lEObl7aYkMjX8M89IRQ"
-      },
-      "artists": [
-        {
-          "name": "M83",
-          "url": "https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz"
-        }
-      ],
-      "duration_ms": 400037,
-      "name": "Earth To Sea",
-      "url": "https://open.spotify.com/track/2njyI8ksGaS9H0K3OZxVpp"
     },
     {
       "added_at": "2023-07-21 10:37:28",
@@ -915,22 +915,6 @@
     {
       "added_at": "2023-07-21 10:37:28",
       "album": {
-        "name": "Stay And Rest For A While",
-        "url": "https://open.spotify.com/album/1bSl8vFRJFYjLppddo8VrL"
-      },
-      "artists": [
-        {
-          "name": "Good Dog",
-          "url": "https://open.spotify.com/artist/1oJPedap0VtK48hM9Wm6S1"
-        }
-      ],
-      "duration_ms": 173259,
-      "name": "Stay And Rest For A While",
-      "url": "https://open.spotify.com/track/4tHWZg3t5LpOkdRd53gal2"
-    },
-    {
-      "added_at": "2023-07-21 10:37:28",
-      "album": {
         "name": "Gloomy Girl",
         "url": "https://open.spotify.com/album/4TzEXyEPMZZPXbjPPIdRWR"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 186410,
       "name": "Gloomy Girl",
       "url": "https://open.spotify.com/track/62Zgaht9Dx6HReIOamFMdN"
+    },
+    {
+      "added_at": "2023-07-21 10:37:28",
+      "album": {
+        "name": "Stay And Rest For A While",
+        "url": "https://open.spotify.com/album/1bSl8vFRJFYjLppddo8VrL"
+      },
+      "artists": [
+        {
+          "name": "Good Dog",
+          "url": "https://open.spotify.com/artist/1oJPedap0VtK48hM9Wm6S1"
+        }
+      ],
+      "duration_ms": 173259,
+      "name": "Stay And Rest For A While",
+      "url": "https://open.spotify.com/track/4tHWZg3t5LpOkdRd53gal2"
     },
     {
       "added_at": "2023-07-21 10:37:28",
@@ -963,22 +963,6 @@
     {
       "added_at": "2023-07-21 10:37:28",
       "album": {
-        "name": "If I Come Home",
-        "url": "https://open.spotify.com/album/7l2qDkPU22dXV5mylQTj45"
-      },
-      "artists": [
-        {
-          "name": "rozey",
-          "url": "https://open.spotify.com/artist/20fOKcudXS3Yyl6ifwXf2u"
-        }
-      ],
-      "duration_ms": 216145,
-      "name": "If I Come Home",
-      "url": "https://open.spotify.com/track/1pqrOSuEubjirB4OyBNHPm"
-    },
-    {
-      "added_at": "2023-07-21 10:37:28",
-      "album": {
         "name": "27 Club",
         "url": "https://open.spotify.com/album/2uWsbp1QOEZj9ofqSkKXQW"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 214137,
       "name": "27 Club",
       "url": "https://open.spotify.com/track/3lLEyB09dGdmsTY8F7P0Kw"
+    },
+    {
+      "added_at": "2023-07-21 10:37:28",
+      "album": {
+        "name": "If I Come Home",
+        "url": "https://open.spotify.com/album/7l2qDkPU22dXV5mylQTj45"
+      },
+      "artists": [
+        {
+          "name": "rozey",
+          "url": "https://open.spotify.com/artist/20fOKcudXS3Yyl6ifwXf2u"
+        }
+      ],
+      "duration_ms": 216145,
+      "name": "If I Come Home",
+      "url": "https://open.spotify.com/track/1pqrOSuEubjirB4OyBNHPm"
     },
     {
       "added_at": "2023-07-21 10:37:28",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2023-07-21 10:37:28",
       "album": {
-        "name": "Flora",
-        "url": "https://open.spotify.com/album/5MOsdLQs3Rx5ed7cnrH5Ku"
-      },
-      "artists": [
-        {
-          "name": "atmos bloom",
-          "url": "https://open.spotify.com/artist/5F6pjXWILFr4XnOngaKyo3"
-        }
-      ],
-      "duration_ms": 135375,
-      "name": "Daisy",
-      "url": "https://open.spotify.com/track/05EgVvYINhUHLomTjv5VKe"
-    },
-    {
-      "added_at": "2023-07-21 10:37:28",
-      "album": {
         "name": "Twin Heavy",
         "url": "https://open.spotify.com/album/6LFY3DlCGt04t3LY9NjNIC"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 227681,
       "name": "For You",
       "url": "https://open.spotify.com/track/2vmMoVSY98yTOpMZSDxMUf"
+    },
+    {
+      "added_at": "2023-07-21 10:37:28",
+      "album": {
+        "name": "Flora",
+        "url": "https://open.spotify.com/album/5MOsdLQs3Rx5ed7cnrH5Ku"
+      },
+      "artists": [
+        {
+          "name": "atmos bloom",
+          "url": "https://open.spotify.com/artist/5F6pjXWILFr4XnOngaKyo3"
+        }
+      ],
+      "duration_ms": 135375,
+      "name": "Daisy",
+      "url": "https://open.spotify.com/track/05EgVvYINhUHLomTjv5VKe"
     },
     {
       "added_at": "2023-07-21 10:37:28",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2023-07-21 10:37:28",
       "album": {
-        "name": "Flora",
-        "url": "https://open.spotify.com/album/5MOsdLQs3Rx5ed7cnrH5Ku"
-      },
-      "artists": [
-        {
-          "name": "atmos bloom",
-          "url": "https://open.spotify.com/artist/5F6pjXWILFr4XnOngaKyo3"
-        }
-      ],
-      "duration_ms": 195225,
-      "name": "Picnic In The Rain",
-      "url": "https://open.spotify.com/track/3tjTAQymCotMfHeoYqWjZh"
-    },
-    {
-      "added_at": "2023-07-21 10:37:28",
-      "album": {
         "name": "Make Me Wanna",
         "url": "https://open.spotify.com/album/5NjTqkwOPJByuwuZB9oxjs"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 202761,
       "name": "Make Me Wanna",
       "url": "https://open.spotify.com/track/4bDTwDYjVdTWMRvfoPGAla"
+    },
+    {
+      "added_at": "2023-07-21 10:37:28",
+      "album": {
+        "name": "Fantasy",
+        "url": "https://open.spotify.com/album/7B6lEObl7aYkMjX8M89IRQ"
+      },
+      "artists": [
+        {
+          "name": "M83",
+          "url": "https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz"
+        }
+      ],
+      "duration_ms": 389948,
+      "name": "Deceiver",
+      "url": "https://open.spotify.com/track/272VxhXNv8vFjtZi3FC9eJ"
     },
     {
       "added_at": "2023-07-21 10:37:28",
@@ -1215,6 +1215,22 @@
     {
       "added_at": "2023-07-21 10:37:28",
       "album": {
+        "name": "Flora",
+        "url": "https://open.spotify.com/album/5MOsdLQs3Rx5ed7cnrH5Ku"
+      },
+      "artists": [
+        {
+          "name": "atmos bloom",
+          "url": "https://open.spotify.com/artist/5F6pjXWILFr4XnOngaKyo3"
+        }
+      ],
+      "duration_ms": 195225,
+      "name": "Picnic In The Rain",
+      "url": "https://open.spotify.com/track/3tjTAQymCotMfHeoYqWjZh"
+    },
+    {
+      "added_at": "2023-07-21 10:37:28",
+      "album": {
         "name": "Detox",
         "url": "https://open.spotify.com/album/35GawsI3gsZ0VzMxGzUaFI"
       },
@@ -1227,22 +1243,6 @@
       "duration_ms": 273455,
       "name": "Detox",
       "url": "https://open.spotify.com/track/3noiIjMMoDd5mrjMrdcFUu"
-    },
-    {
-      "added_at": "2023-07-21 10:37:28",
-      "album": {
-        "name": "Fantasy",
-        "url": "https://open.spotify.com/album/7B6lEObl7aYkMjX8M89IRQ"
-      },
-      "artists": [
-        {
-          "name": "M83",
-          "url": "https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz"
-        }
-      ],
-      "duration_ms": 389948,
-      "name": "Deceiver",
-      "url": "https://open.spotify.com/track/272VxhXNv8vFjtZi3FC9eJ"
     },
     {
       "added_at": "2023-07-21 10:37:28",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2023-07-21 10:37:28",
       "album": {
-        "name": "Hyper-normal",
-        "url": "https://open.spotify.com/album/3mQjXEpNYf3kXHXhRQt9YG"
-      },
-      "artists": [
-        {
-          "name": "GRAZER",
-          "url": "https://open.spotify.com/artist/66npZ0iLHcWmV2DAC8oYRF"
-        }
-      ],
-      "duration_ms": 195691,
-      "name": "Hyper-normal",
-      "url": "https://open.spotify.com/track/137bcY3t0tco8OqzumsF4z"
-    },
-    {
-      "added_at": "2023-07-21 10:37:28",
-      "album": {
         "name": "Humpty Dumpty",
         "url": "https://open.spotify.com/album/1F68Q7RXXElRqb1nlklYKH"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 254000,
       "name": "I'm lost in a fishbowl",
       "url": "https://open.spotify.com/track/2UInBM4KnSCz1bqb0NNO3q"
+    },
+    {
+      "added_at": "2023-07-21 10:37:28",
+      "album": {
+        "name": "Hyper-normal",
+        "url": "https://open.spotify.com/album/3mQjXEpNYf3kXHXhRQt9YG"
+      },
+      "artists": [
+        {
+          "name": "GRAZER",
+          "url": "https://open.spotify.com/artist/66npZ0iLHcWmV2DAC8oYRF"
+        }
+      ],
+      "duration_ms": 195691,
+      "name": "Hyper-normal",
+      "url": "https://open.spotify.com/track/137bcY3t0tco8OqzumsF4z"
     },
     {
       "added_at": "2023-07-21 10:37:28",

@@ -4,7 +4,7 @@
 
 > Dembow dominicano to el día\. Foto: Tokischa
 
-416 songs - 22 hr 39 min
+417 songs - 22 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -186,7 +186,7 @@
 | [La Cueva de los Indios \- Remix](https://open.spotify.com/track/77uS85fmMaIjWSZlwFffB2) | [El Mega](https://open.spotify.com/artist/5CUH61JagyX1jRxaLHBpSs), [El Mayor Clasico](https://open.spotify.com/artist/5sZ0LIk7BJLJquEUUt5rJj) | [Dembow Latino](https://open.spotify.com/album/13pn00h8Ozr8jWvu6QSAl6) | 3:13 | 2023-05-26 |  |
 | [La Gente Ta Loca \- Remix](https://open.spotify.com/track/6BDQXT3Obgyp1Asd25mdva) | [Ceky Viciny](https://open.spotify.com/artist/5UopXhshFFqRIMfeZrBclq), [Bulin 47](https://open.spotify.com/artist/4J0m1OquRGY8HYHxMocXfy), [El Mayor Clasico](https://open.spotify.com/artist/5sZ0LIk7BJLJquEUUt5rJj) | [Demagogo Mil Informando](https://open.spotify.com/album/7deYXSwcPnLhlX4wEUV56G) | 3:42 | 2023-05-26 |  |
 | [La Gente Ta' Loca \- Remix](https://open.spotify.com/track/1xnkJ7O4Sz7D6vxPyjZkQt) | [Ceky Viciny](https://open.spotify.com/artist/5UopXhshFFqRIMfeZrBclq), [Bulin 47](https://open.spotify.com/artist/4J0m1OquRGY8HYHxMocXfy), [El Mayor Clasico](https://open.spotify.com/artist/5sZ0LIk7BJLJquEUUt5rJj) | [La Gente Ta' Loca \(Remix\)](https://open.spotify.com/album/7FSljR58CzFZISeEMj5bO1) | 3:38 | 2021-12-10 | 2023-08-03 |
-| [La Gomita](https://open.spotify.com/track/0QQbO11ji2wf2VitEQpCZL) | [Rochy RD](https://open.spotify.com/artist/4riOEaOW5hCeqomFDBk0aP) | [La Gomita](https://open.spotify.com/album/1TQ1nTb1tVfHnQOUtXKTx4) | 2:43 | 2021-12-10 |  |
+| [La Gomita](https://open.spotify.com/track/0QQbO11ji2wf2VitEQpCZL) | [Rochy RD](https://open.spotify.com/artist/4riOEaOW5hCeqomFDBk0aP) | [La Gomita](https://open.spotify.com/album/1TQ1nTb1tVfHnQOUtXKTx4) | 2:43 | 2021-12-10 | 2023-12-03 |
 | [La Lata](https://open.spotify.com/track/7Irs3xFqYdiNobk4WoXQUz) | [Principe Baru](https://open.spotify.com/artist/7pqTCXbnpkMutsNHe9nsdR) | [La Lata](https://open.spotify.com/album/13jw4VHvJs7a4j2o7bqnxq) | 3:39 | 2022-01-04 | 2022-07-18 |
 | [La Lata](https://open.spotify.com/track/6v12ojSTCebuRwkHVzit0G) | [Principe Baru](https://open.spotify.com/artist/7pqTCXbnpkMutsNHe9nsdR) | [La Lata](https://open.spotify.com/album/0E3fHngM4igfBCqYUghz4O) | 3:39 | 2022-11-21 |  |
 | [La Lengua](https://open.spotify.com/track/7evzE113CP4zTR5dsCAjjY) | [El Mayor Clasico](https://open.spotify.com/artist/5sZ0LIk7BJLJquEUUt5rJj) | [Exitos del Dembow](https://open.spotify.com/album/58UaKpvZpeuefnHUhIrap0) | 3:43 | 2022-01-04 | 2022-07-26 |
@@ -275,6 +275,7 @@
 | [Pa Mangá Mi Visa \- Doble T Y El Crock \(Los Pepe\)](https://open.spotify.com/track/4Lu38iSVMitFqiMhSdKAKU) | [Doble T Y El Crock](https://open.spotify.com/artist/4P1SSf1WTfa9Vf8zhLMVEr) | [I Love Urbano 2011](https://open.spotify.com/album/3UwbTQLjywqidZrrDsFZ9F) | 3:17 | 2021-12-10 | 2022-07-03 |
 | [Pa Que Aguante Eta](https://open.spotify.com/track/1zdPE06w06CYsHFO4S4FnX) | [Liro Shaq](https://open.spotify.com/artist/3oOJYwLB8FGSKYOQ5zx7Kk), [Musicologo The Libro](https://open.spotify.com/artist/0lIw3RIPiAC50dWNjJXe2Q) | [Pa Que Aguante Eta](https://open.spotify.com/album/3QRMuJOfICJpnq7dBokylV) | 3:01 | 2021-12-10 | 2022-07-29 |
 | [Pa Que Me Dan de Eso](https://open.spotify.com/track/3hWVPgTNDslRcAj07rHl83) | [Don Miguelo](https://open.spotify.com/artist/1noWnd8QFQD9VLxWEeo4Zf) | [Exitos](https://open.spotify.com/album/42RU6umN39He1k4je9NuXr) | 3:10 | 2021-12-10 | 2022-07-14 |
+| [Pa Que Me Dan De Eso](https://open.spotify.com/track/2QtNqIShiL9mOydwq0XVxc) | [Don Miguelo](https://open.spotify.com/artist/1noWnd8QFQD9VLxWEeo4Zf) | [Exitos](https://open.spotify.com/album/670TJ2hsrv8Lqump0NmLoN) | 3:12 | 2023-10-19 |  |
 | [Pa Que Me Dan de Eso](https://open.spotify.com/track/3p1QSTu0MI97klqS8IH6ND) | [Don Miguelo](https://open.spotify.com/artist/1noWnd8QFQD9VLxWEeo4Zf) | [Exitos](https://open.spotify.com/album/6DPfFTw3XRVYC1BjKa8UZP) | 3:12 | 2022-11-21 | 2023-11-17 |
 | [Pa' Mangá Mi Visa](https://open.spotify.com/track/6qx6qftiB9xoTF7GrPpvQb) | [Doble T y El Crok Los Pepes](https://open.spotify.com/artist/5nLePxVAY3VBwc4jv9Y8uW) | [I Love Urbano 2011 \(Dembow \- Mambo \- Reggaeton \- Merengue Urbano\)](https://open.spotify.com/album/4GT87SeLVbNcbb4KYqb0nj) | 3:17 | 2023-10-19 |  |
 | [Paketum](https://open.spotify.com/track/1Tam1wR5Hm7CudXEcX6dU9) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [Pablo Piddy](https://open.spotify.com/artist/4ezBKqi9gOB2jt9OUw2cmc), [Chael Produciendo](https://open.spotify.com/artist/2iI5KWXLjw1tqLQsdjuo0e) | [Paketum](https://open.spotify.com/album/2lN8KHVPTWKxvxpy0qbjz2) | 3:44 | 2022-11-21 | 2022-12-30 |

@@ -1,12 +1,12 @@
 {
   "description": "Country tracks to get your beast mode on! ",
-  "num_followers": 47093,
+  "num_followers": 47220,
   "original_name": "Beast Mode Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNDZhYmQ0NmUwYjgzMTQxZjc5Y2JmNGQwZmY0ODAzMjU5YmE1M2Q0",
+  "snapshot_id": "MCw5MzI3ZjBiNWFmNTJlNGJkMWZkY2I2NGRhNTE5NjdlNjJiODJkYmY5",
   "tracks": [
     {
       "added_at": "2023-12-01 05:01:00",
@@ -495,22 +495,18 @@
     {
       "added_at": "2023-12-01 05:01:00",
       "album": {
-        "name": "Throw It Back (feat. Keith Urban)",
-        "url": "https://open.spotify.com/album/56rScV2lFznLUGxqYYwUpo"
+        "name": "Bored In The USA",
+        "url": "https://open.spotify.com/album/7ChSMkhsiqg07qG0Acs73c"
       },
       "artists": [
         {
-          "name": "BRELAND",
-          "url": "https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1"
-        },
-        {
-          "name": "Keith Urban",
-          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
+          "name": "David Morris",
+          "url": "https://open.spotify.com/artist/23Pb3oXBOQj9WEziS6laUW"
         }
       ],
-      "duration_ms": 188936,
-      "name": "Throw It Back (feat. Keith Urban)",
-      "url": "https://open.spotify.com/track/4BLiRJdtn8jwUVtvbHIv2T"
+      "duration_ms": 143787,
+      "name": "Dutton Ranch Freestyle",
+      "url": "https://open.spotify.com/track/13F5i1GqcozCFrZX9CpWi3"
     },
     {
       "added_at": "2023-12-01 05:01:00",
@@ -547,6 +543,26 @@
     {
       "added_at": "2023-12-01 05:01:00",
       "album": {
+        "name": "Throw It Back (feat. Keith Urban)",
+        "url": "https://open.spotify.com/album/56rScV2lFznLUGxqYYwUpo"
+      },
+      "artists": [
+        {
+          "name": "BRELAND",
+          "url": "https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1"
+        },
+        {
+          "name": "Keith Urban",
+          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
+        }
+      ],
+      "duration_ms": 188936,
+      "name": "Throw It Back (feat. Keith Urban)",
+      "url": "https://open.spotify.com/track/4BLiRJdtn8jwUVtvbHIv2T"
+    },
+    {
+      "added_at": "2023-12-01 05:01:00",
+      "album": {
         "name": "Ride It Hard",
         "url": "https://open.spotify.com/album/09TSAcZhjfhqjnej2rcfIV"
       },
@@ -567,22 +583,6 @@
     {
       "added_at": "2023-12-01 05:01:00",
       "album": {
-        "name": "People Talk",
-        "url": "https://open.spotify.com/album/6cCWwahb1OUojXvaOVm9F4"
-      },
-      "artists": [
-        {
-          "name": "Kidd G",
-          "url": "https://open.spotify.com/artist/5edcHuf8pWH3I00WTorajM"
-        }
-      ],
-      "duration_ms": 191079,
-      "name": "People Talk",
-      "url": "https://open.spotify.com/track/0ZHGYKgO3uim2g9JCIWU4U"
-    },
-    {
-      "added_at": "2023-12-01 05:01:00",
-      "album": {
         "name": "Tulsa",
         "url": "https://open.spotify.com/album/3v6zVsK3CAPEtIi3GHHMUN"
       },
@@ -599,18 +599,18 @@
     {
       "added_at": "2023-12-01 05:01:00",
       "album": {
-        "name": "Bored In The USA",
-        "url": "https://open.spotify.com/album/7ChSMkhsiqg07qG0Acs73c"
+        "name": "People Talk",
+        "url": "https://open.spotify.com/album/6cCWwahb1OUojXvaOVm9F4"
       },
       "artists": [
         {
-          "name": "David Morris",
-          "url": "https://open.spotify.com/artist/23Pb3oXBOQj9WEziS6laUW"
+          "name": "Kidd G",
+          "url": "https://open.spotify.com/artist/5edcHuf8pWH3I00WTorajM"
         }
       ],
-      "duration_ms": 143787,
-      "name": "Dutton Ranch Freestyle",
-      "url": "https://open.spotify.com/track/13F5i1GqcozCFrZX9CpWi3"
+      "duration_ms": 191079,
+      "name": "People Talk",
+      "url": "https://open.spotify.com/track/0ZHGYKgO3uim2g9JCIWU4U"
     },
     {
       "added_at": "2023-12-01 05:01:00",
@@ -663,6 +663,38 @@
     {
       "added_at": "2023-12-01 05:01:00",
       "album": {
+        "name": "They Don't Know",
+        "url": "https://open.spotify.com/album/2EhCp9jUMBdrJIrnDrhw4L"
+      },
+      "artists": [
+        {
+          "name": "Jason Aldean",
+          "url": "https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH"
+        }
+      ],
+      "duration_ms": 194506,
+      "name": "Lights Come On",
+      "url": "https://open.spotify.com/track/6JLiWJptfEdsz3TW4dnQGy"
+    },
+    {
+      "added_at": "2023-12-01 05:01:00",
+      "album": {
+        "name": "Fire & Brimstone",
+        "url": "https://open.spotify.com/album/54NjC2mCWlhIE3Ji4G9Vl0"
+      },
+      "artists": [
+        {
+          "name": "Brantley Gilbert",
+          "url": "https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa"
+        }
+      ],
+      "duration_ms": 176506,
+      "name": "Fire\u2019t Up",
+      "url": "https://open.spotify.com/track/748wrs9n0dSXFyY3VRZB9w"
+    },
+    {
+      "added_at": "2023-12-01 05:01:00",
+      "album": {
         "name": "SUBJECT TO CHANGE",
         "url": "https://open.spotify.com/album/6twfTQ122kNcHAUXjFbe8a"
       },
@@ -687,22 +719,6 @@
     {
       "added_at": "2023-12-01 05:01:00",
       "album": {
-        "name": "Fire & Brimstone",
-        "url": "https://open.spotify.com/album/54NjC2mCWlhIE3Ji4G9Vl0"
-      },
-      "artists": [
-        {
-          "name": "Brantley Gilbert",
-          "url": "https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa"
-        }
-      ],
-      "duration_ms": 176506,
-      "name": "Fire\u2019t Up",
-      "url": "https://open.spotify.com/track/748wrs9n0dSXFyY3VRZB9w"
-    },
-    {
-      "added_at": "2023-12-01 05:01:00",
-      "album": {
         "name": "Like an Arrow",
         "url": "https://open.spotify.com/album/4r0Zb1FdEFbpF5olm5ZIW0"
       },
@@ -715,22 +731,6 @@
       "duration_ms": 247008,
       "name": "Waiting for the Thunder",
       "url": "https://open.spotify.com/track/0Rxgdpe1zgZ6ZzHgxSaYEJ"
-    },
-    {
-      "added_at": "2023-12-01 05:01:00",
-      "album": {
-        "name": "They Don't Know",
-        "url": "https://open.spotify.com/album/2EhCp9jUMBdrJIrnDrhw4L"
-      },
-      "artists": [
-        {
-          "name": "Jason Aldean",
-          "url": "https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH"
-        }
-      ],
-      "duration_ms": 194506,
-      "name": "Lights Come On",
-      "url": "https://open.spotify.com/track/6JLiWJptfEdsz3TW4dnQGy"
     },
     {
       "added_at": "2023-12-01 05:01:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 
 > Mujeres que brillaron en 2023\. Foto: Vesta Lugg
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,140 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,150 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 | 11 | [Ice](https://open.spotify.com/track/1jUKmgWQflhSh0zNGkkioo) | [Aura BAE](https://open.spotify.com/artist/7jIywNxfjSZ2Dxm6OOzQPF) | [Ice](https://open.spotify.com/album/2Eji6BbhvSy9gcjjfaHEVR) | 4:15 |
 | 12 | [Horas contigo](https://open.spotify.com/track/6Nmqg6NayPzIHUpWDGUSyL) | [Cancamusa](https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc) | [AMOR MINIMAL](https://open.spotify.com/album/5tydxQ3vJc63ORNQQsH8Fq) | 2:39 |
 | 13 | [Ahora Vienes A Llorar](https://open.spotify.com/track/25Ku8CtkLiXWmeWht3B8F1) | [Paula Rivas](https://open.spotify.com/artist/47i4noBzl5Os351Qlmxuia) | [Ahora Vienes A Llorar](https://open.spotify.com/album/7pRiVVQuOXEt03h1TTSFE2) | 3:02 |
-| 14 | [Niñx](https://open.spotify.com/track/0lnuA5TgQErEvDsyujAYsE) | [Ana Tijoux](https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz) | [Niñx](https://open.spotify.com/album/7456v3Q9ZExGfIl5r6H8N4) | 3:06 |
-| 15 | [Te Solté](https://open.spotify.com/track/6CGzjSgRvW7kJEb1a0vWaY) | [Shirel](https://open.spotify.com/artist/5fNV5ubt46GqUpyP7Mh4Ln) | [Te Solté](https://open.spotify.com/album/54tdI3PTq41uaeMje6QvCU) | 3:04 |
+| 14 | [Te Solté](https://open.spotify.com/track/6CGzjSgRvW7kJEb1a0vWaY) | [Shirel](https://open.spotify.com/artist/5fNV5ubt46GqUpyP7Mh4Ln) | [Te Solté](https://open.spotify.com/album/54tdI3PTq41uaeMje6QvCU) | 3:04 |
+| 15 | [Niñx](https://open.spotify.com/track/0lnuA5TgQErEvDsyujAYsE) | [Ana Tijoux](https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz) | [Niñx](https://open.spotify.com/album/7456v3Q9ZExGfIl5r6H8N4) | 3:06 |
 | 16 | [El Perdón \(feat\. Mon Laferte\)](https://open.spotify.com/track/16cTFZsb1ELjU7TfsKBmwg) | [Pascuala Ilabaca y Fauna](https://open.spotify.com/artist/6nf17XGXCx2PSgkhPYjSIA), [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Porteña](https://open.spotify.com/album/1Cw28qlsCwgIBYnhgqEyzC) | 2:49 |
 | 17 | [Divina](https://open.spotify.com/track/06WgKWhh02DQBtoHRy69dU) | [SOULFIA](https://open.spotify.com/artist/1Q9Sx5tOmwems0qwLJZ5Cy) | [Divina](https://open.spotify.com/album/5CyX6YevWHdid0U4XqGyYe) | 2:39 |
 | 18 | [Agua](https://open.spotify.com/track/52grFNgo0fWp9KzFioiuav) | [Seamoon](https://open.spotify.com/artist/2h0ht04lePhc9LY0GHHJ1O) | [Agua](https://open.spotify.com/album/3vLbZyR7b6YttNHL9fO0BE) | 2:57 |
@@ -41,22 +41,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 | 31 | [Keep Trying](https://open.spotify.com/track/4dAb5SYXihtnPpKfZKuI1N) | [Glo Herrera](https://open.spotify.com/artist/01Tt4JZxiEUvzPnOBNEG57), [Solosiberia](https://open.spotify.com/artist/0bmIdFgmr3BuMfWITJtpQ1) | [Keep Trying](https://open.spotify.com/album/6pY6BetCFdtRiaIGN5v7Ee) | 3:38 |
 | 32 | [Tu Luz](https://open.spotify.com/track/6aVQIyZVSyTlQlEJ33dLpg) | [Masquemusica](https://open.spotify.com/artist/38WvNBHvqwUXnwkWIioPxo) | [Tu Luz](https://open.spotify.com/album/1vrwvZHXzegcApAxcUyVLa) | 4:07 |
 | 33 | [Las palabras que no sientes](https://open.spotify.com/track/0L35bVS6euGPgrVPPYW8wW) | [Mora Lucay](https://open.spotify.com/artist/3gjqD5j7NaOCr4kLULEV0L) | [Las palabras que no sientes](https://open.spotify.com/album/4lZuwyxexe4p1YPxtgUmuR) | 2:28 |
-| 34 | [nada!](https://open.spotify.com/track/0yD6cfX6MaSzK5Z5PS9J0O) | [J18](https://open.spotify.com/artist/0DAA1By7FZlx94U5BO4d6Q) | [travesía](https://open.spotify.com/album/6rYhu4elCJMNgreuzQfK4H) | 2:29 |
-| 35 | [Que no te haga falta nada](https://open.spotify.com/track/0ShKnHt3NjEhcyby0TGOWu) | [Rosario Alfonso](https://open.spotify.com/artist/7mirwC8eaTt7tswix93TFZ) | [Sesiones 050: Rosario Alfonso](https://open.spotify.com/album/1qWWJu7EirLK7hLmGL1myQ) | 5:56 |
-| 36 | [1000](https://open.spotify.com/track/0LNeX04cUkoS0j9LDuNuyA) | [Amikiraa](https://open.spotify.com/artist/3xCoO7TgLAuhKkNz0uRwo2), [Jsnck!](https://open.spotify.com/artist/3oFAXYbLPLYimPiQ3JJzSj) | [1000](https://open.spotify.com/album/4W1bHfVBxpmXXGywqv7vx6) | 2:50 |
-| 37 | [Dream Love](https://open.spotify.com/track/6vStWiIMErT2VNSGnpfXaj) | [Vlntna B](https://open.spotify.com/artist/5leFwWpTacAWLAom8B2JbS) | [Dream Love](https://open.spotify.com/album/7fgGpLBb7ujLOECT2x5svf) | 2:55 |
-| 38 | [Cuerpo y Guitarra](https://open.spotify.com/track/0zpaa6HC7WIeu5A0ZGynOq) | [Mariel Mariel](https://open.spotify.com/artist/5MbC0GPijb60evRCEQLJAz) | [Cuerpo y Guitarra](https://open.spotify.com/album/0uyq3UPenEoAZ2nJwZ70eQ) | 2:57 |
-| 39 | [Te Fuiste](https://open.spotify.com/track/2Zdi36ph1ngwW5pCRjjz8u) | [Rou C](https://open.spotify.com/artist/2QDk2sxK8xHgNIIXNLgNZ9) | [Un Recuerdo](https://open.spotify.com/album/6RRlggxbDzDKkLUnFyNJ1M) | 3:16 |
-| 40 | [MAL NECESARIO](https://open.spotify.com/track/5NAY9xwApRcdX445YCN7MU) | [Anto Segovia](https://open.spotify.com/artist/3ZDlV4860jpcqhmIincWHF) | [MYKOSIS](https://open.spotify.com/album/0S0hdCgAvLwwYfWXx7cdro) | 2:54 |
-| 41 | [paterson](https://open.spotify.com/track/14ueXImr9oNsOt5bcBmJsJ) | [gabriela arcos](https://open.spotify.com/artist/3SdRPRuSNLp9lj06iZuQlx), [Martina Lluvias](https://open.spotify.com/artist/5x24CqyDaYbM6OUjxLYkUo) | [quién llama a esta hora](https://open.spotify.com/album/0kxhAbkGpkSqxQCV7Z1hzJ) | 4:42 |
-| 42 | [Dame Una Señal](https://open.spotify.com/track/3QuuNFeiWyDbUrRKpw8Ksq) | [Natalia Montenegro](https://open.spotify.com/artist/2UFybBcjbipkbyftHLfq8C), [Mariana Montenegro](https://open.spotify.com/artist/5ukVsGwdu2xaIWF4ytxBtm) | [Dame Una Señal](https://open.spotify.com/album/6i15JANt80vWGTIm1zEtzF) | 3:14 |
-| 43 | [NO ES TAN EASY](https://open.spotify.com/track/4Hhko23YrzihKi3zEeXMFw) | [Gigi Caro](https://open.spotify.com/artist/5tNMNTIBXGY7Hq6AyGCAR8) | [NO ES TAN EASY](https://open.spotify.com/album/2CILbbOCAltIv15hsEPYyR) | 3:21 |
-| 44 | [Ser Humano](https://open.spotify.com/track/0oXxVxgnejc4uRguZEcozJ) | [Paz Court](https://open.spotify.com/artist/4iYtGmJwcET4ym55GMp4Zm) | [Ser Humano](https://open.spotify.com/album/1Mo8Gl36Gf0PdHDPCxY8lk) | 3:16 |
+| 34 | [Volar](https://open.spotify.com/track/3qu7fBSjryb5kRTUAX4koC) | [Yorka](https://open.spotify.com/artist/71bG6LIwKMYALxV8WuIezn) | [Volar](https://open.spotify.com/album/1JdAQSX4XwFsgpaqXit3ly) | 3:19 |
+| 35 | [nada!](https://open.spotify.com/track/0yD6cfX6MaSzK5Z5PS9J0O) | [J18](https://open.spotify.com/artist/0DAA1By7FZlx94U5BO4d6Q) | [travesía](https://open.spotify.com/album/6rYhu4elCJMNgreuzQfK4H) | 2:29 |
+| 36 | [Que no te haga falta nada](https://open.spotify.com/track/0ShKnHt3NjEhcyby0TGOWu) | [Rosario Alfonso](https://open.spotify.com/artist/7mirwC8eaTt7tswix93TFZ) | [Sesiones 050: Rosario Alfonso](https://open.spotify.com/album/1qWWJu7EirLK7hLmGL1myQ) | 5:56 |
+| 37 | [1000](https://open.spotify.com/track/0LNeX04cUkoS0j9LDuNuyA) | [Amikiraa](https://open.spotify.com/artist/3xCoO7TgLAuhKkNz0uRwo2), [Jsnck!](https://open.spotify.com/artist/3oFAXYbLPLYimPiQ3JJzSj) | [1000](https://open.spotify.com/album/4W1bHfVBxpmXXGywqv7vx6) | 2:50 |
+| 38 | [Dream Love](https://open.spotify.com/track/6vStWiIMErT2VNSGnpfXaj) | [Vlntna B](https://open.spotify.com/artist/5leFwWpTacAWLAom8B2JbS) | [Dream Love](https://open.spotify.com/album/7fgGpLBb7ujLOECT2x5svf) | 2:55 |
+| 39 | [Cuerpo y Guitarra](https://open.spotify.com/track/0zpaa6HC7WIeu5A0ZGynOq) | [Mariel Mariel](https://open.spotify.com/artist/5MbC0GPijb60evRCEQLJAz) | [Cuerpo y Guitarra](https://open.spotify.com/album/0uyq3UPenEoAZ2nJwZ70eQ) | 2:57 |
+| 40 | [Te Fuiste](https://open.spotify.com/track/2Zdi36ph1ngwW5pCRjjz8u) | [Rou C](https://open.spotify.com/artist/2QDk2sxK8xHgNIIXNLgNZ9) | [Un Recuerdo](https://open.spotify.com/album/6RRlggxbDzDKkLUnFyNJ1M) | 3:16 |
+| 41 | [MAL NECESARIO](https://open.spotify.com/track/5NAY9xwApRcdX445YCN7MU) | [Anto Segovia](https://open.spotify.com/artist/3ZDlV4860jpcqhmIincWHF) | [MYKOSIS](https://open.spotify.com/album/0S0hdCgAvLwwYfWXx7cdro) | 2:54 |
+| 42 | [paterson](https://open.spotify.com/track/14ueXImr9oNsOt5bcBmJsJ) | [gabriela arcos](https://open.spotify.com/artist/3SdRPRuSNLp9lj06iZuQlx), [Martina Lluvias](https://open.spotify.com/artist/5x24CqyDaYbM6OUjxLYkUo) | [quién llama a esta hora](https://open.spotify.com/album/0kxhAbkGpkSqxQCV7Z1hzJ) | 4:42 |
+| 43 | [Dame Una Señal](https://open.spotify.com/track/3QuuNFeiWyDbUrRKpw8Ksq) | [Natalia Montenegro](https://open.spotify.com/artist/2UFybBcjbipkbyftHLfq8C), [Mariana Montenegro](https://open.spotify.com/artist/5ukVsGwdu2xaIWF4ytxBtm) | [Dame Una Señal](https://open.spotify.com/album/6i15JANt80vWGTIm1zEtzF) | 3:14 |
+| 44 | [NO ES TAN EASY](https://open.spotify.com/track/4Hhko23YrzihKi3zEeXMFw) | [Gigi Caro](https://open.spotify.com/artist/5tNMNTIBXGY7Hq6AyGCAR8) | [NO ES TAN EASY](https://open.spotify.com/album/2CILbbOCAltIv15hsEPYyR) | 3:21 |
 | 45 | [Love Yourself](https://open.spotify.com/track/5Z9bNiKhpFBvlhbHEXoGdw) | [Rvyo](https://open.spotify.com/artist/6eo5LO5tYMMvvKa6iLoY2n) | [Rayokuza](https://open.spotify.com/album/1T1lSe9cSHrRUfjNyYvcm9) | 2:31 |
-| 46 | [Nostalgia](https://open.spotify.com/track/37xvyz3KXZraJAp9l4w3yS) | [Nicole](https://open.spotify.com/artist/3iIMN6aYzb6coyCECxkHaS) | [Nostalgia](https://open.spotify.com/album/28HDi1j2SfwmNDjVCxBAcw) | 3:22 |
-| 47 | [LIBRE ALBEDRÍO](https://open.spotify.com/track/0CJXWzYuHSIK3hCSLKl3Vd) | [Nihla](https://open.spotify.com/artist/74UNE9EF6heknm43N3LPMf) | [LIBRE ALBEDRÍO](https://open.spotify.com/album/7cIBE0ZMEJe20UszosNS3a) | 2:32 |
-| 48 | [Dicen](https://open.spotify.com/track/4VAE7BnAnIQgM5bMo98mu8) | [Cheskv Liz](https://open.spotify.com/artist/5K9EtnARaTKRXF4d7onHBv), [Bzro89](https://open.spotify.com/artist/6wNDDqNJiaDvQHz7Dzi47t) | [Dicen](https://open.spotify.com/album/16hPxmwevmyL8esp9fU3fK) | 3:22 |
-| 49 | [SUFICIENTE](https://open.spotify.com/track/6TtsnJTv8MVf4oHwITp1C5) | [Casandra Paz](https://open.spotify.com/artist/09uLTF7iK7cR3WsyhGJCoQ) | [SUFICIENTE](https://open.spotify.com/album/4jHEmbxbpHFiv62IwoGSyO) | 3:21 |
-| 50 | [Volar](https://open.spotify.com/track/3qu7fBSjryb5kRTUAX4koC) | [Yorka](https://open.spotify.com/artist/71bG6LIwKMYALxV8WuIezn) | [Volar](https://open.spotify.com/album/1JdAQSX4XwFsgpaqXit3ly) | 3:19 |
+| 46 | [Ser Humano](https://open.spotify.com/track/0oXxVxgnejc4uRguZEcozJ) | [Paz Court](https://open.spotify.com/artist/4iYtGmJwcET4ym55GMp4Zm) | [Ser Humano](https://open.spotify.com/album/1Mo8Gl36Gf0PdHDPCxY8lk) | 3:16 |
+| 47 | [Nostalgia](https://open.spotify.com/track/37xvyz3KXZraJAp9l4w3yS) | [Nicole](https://open.spotify.com/artist/3iIMN6aYzb6coyCECxkHaS) | [Nostalgia](https://open.spotify.com/album/28HDi1j2SfwmNDjVCxBAcw) | 3:22 |
+| 48 | [LIBRE ALBEDRÍO](https://open.spotify.com/track/0CJXWzYuHSIK3hCSLKl3Vd) | [Nihla](https://open.spotify.com/artist/74UNE9EF6heknm43N3LPMf) | [LIBRE ALBEDRÍO](https://open.spotify.com/album/7cIBE0ZMEJe20UszosNS3a) | 2:32 |
+| 49 | [Dicen](https://open.spotify.com/track/4VAE7BnAnIQgM5bMo98mu8) | [Cheskv Liz](https://open.spotify.com/artist/5K9EtnARaTKRXF4d7onHBv), [Bzro89](https://open.spotify.com/artist/6wNDDqNJiaDvQHz7Dzi47t) | [Dicen](https://open.spotify.com/album/16hPxmwevmyL8esp9fU3fK) | 3:22 |
+| 50 | [SUFICIENTE](https://open.spotify.com/track/6TtsnJTv8MVf4oHwITp1C5) | [Casandra Paz](https://open.spotify.com/artist/09uLTF7iK7cR3WsyhGJCoQ) | [SUFICIENTE](https://open.spotify.com/album/4jHEmbxbpHFiv62IwoGSyO) | 3:21 |
 
-Snapshot ID: `MCwwNDc4ODlhZmFlMWJjYzI0ODU1ZWU0MTUwMzExNjc1MzczYzE3YzJj`
+Snapshot ID: `MCxmMmZjNGY0NDMxN2UxYjViYWFlNWRkZmVmOTE2OGI5MmI1N2Y2M2Jj`

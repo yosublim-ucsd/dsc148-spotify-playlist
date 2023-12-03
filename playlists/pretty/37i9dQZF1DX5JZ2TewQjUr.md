@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JZ2TewQjUr.md) - [plain]
 
 > 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: achi
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,638 likes - 91 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,640 likes - 91 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JZ2TewQjUr.md) - [plain]
 | 8 | [WASABI](https://open.spotify.com/track/5xmN2drLtpG3b0Y2QU1Vii) | [Chefwest](https://open.spotify.com/artist/76X04R0YI3EKzZ957qJeee), [shinylungs⁺₊✧](https://open.spotify.com/artist/2g7UAB5TToknyyKW44XvV9) | [WASABI](https://open.spotify.com/album/0MWmCPXqrtud5XLwMDSAic) | 2:27 |
 | 9 | [雞蛋仔格仔餅](https://open.spotify.com/track/3shhAUfODtIk754wOX4drL) | [Ritchie Leong](https://open.spotify.com/artist/64Z9Y2gzSyj45yml0RNV4T), [Chit](https://open.spotify.com/artist/0zoxbSXMM8poZ2MOq4yKjs) | [雞蛋仔格仔餅](https://open.spotify.com/album/2nDRvEHuTF603Uv2flY5LK) | 3:35 |
 | 10 | [Hidden 若隱若現](https://open.spotify.com/track/1G5bfVZHWfTj3DNrztu3WD) | [NOSmke](https://open.spotify.com/artist/5UEvJoDztX8J2LFmBCHyxb) | [Hidden 若隱若現](https://open.spotify.com/album/3JkeCTJtKWJvU42xZdFHbB) | 2:01 |
-| 11 | [PMSH \- 呼吸吧！1998](https://open.spotify.com/track/1FGzci3b0NduwgwGDJhaJy) | [PMSH](https://open.spotify.com/artist/2RDNEHPlhOr0YNh5BiXrUZ), [Jacky Fcy](https://open.spotify.com/artist/6tAsZe5P7VGL93DrHtq10f) | [PMSH \- 呼吸吧！1998](https://open.spotify.com/album/6ExnYAEm14jGJsMQgzFB7R) | 2:25 |
+| 11 | [呼吸吧！1998](https://open.spotify.com/track/1FGzci3b0NduwgwGDJhaJy) | [PMSH](https://open.spotify.com/artist/2RDNEHPlhOr0YNh5BiXrUZ), [Jacky Fcy](https://open.spotify.com/artist/6tAsZe5P7VGL93DrHtq10f) | [呼吸吧！1998](https://open.spotify.com/album/6ExnYAEm14jGJsMQgzFB7R) | 2:25 |
 | 12 | [Coastline](https://open.spotify.com/track/2Z66x9wDJt86pFAbXbPR6C) | [lwl.](https://open.spotify.com/artist/6PYHaynPn267y1UtD257V4) | [Coastline](https://open.spotify.com/album/6P1Gca2FGs2Z8zqdFxwkxV) | 4:20 |
 | 13 | [斷片](https://open.spotify.com/track/1NePC0gOQc0MbnSBKO6PdG) | [Jinson Ip](https://open.spotify.com/artist/43OJvTW9eyOp6TP6NACtqZ) | [斷片](https://open.spotify.com/album/6EEFMpifrXRGEX948OOJGy) | 4:02 |
 | 14 | [樂極忘形](https://open.spotify.com/track/22b4bTV6ahpx8CA8Ic5jZ4) | [凡枯 Faan Fu](https://open.spotify.com/artist/5LkzDIHj3Fc7BnQq4eQttR) | [樂極忘形](https://open.spotify.com/album/0wYXTbdRNnP50mDu6wV89q) | 3:26 |
@@ -100,4 +100,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JZ2TewQjUr.md) - [plain]
 | 90 | [Crashing Chase \(Drillphony\)](https://open.spotify.com/track/5yaoEzPu52YqtGGWm7uRlN) | [Dr\. Holic](https://open.spotify.com/artist/7z51d7cq05beTwW2OY1POM) | [Crashing Chase \(Drillphony\)](https://open.spotify.com/album/4cGqnjLgNFjhI2vyMDa4pO) | 2:34 |
 | 91 | [Sorry呢度係香港 \- REMIX](https://open.spotify.com/track/3ht0dlqYLY90PA6mOX1hSE) | [Billy Choi](https://open.spotify.com/artist/1tHLv9kMiqAZhpMEGZ4rFw), [The Low Mays](https://open.spotify.com/artist/2DUtkZYBQDfaBgJFFTIp5O), [KALAI 家麗](https://open.spotify.com/artist/1TwAmYMVhBwnBdNVKCHsOT) | [Sorry呢度係香港 \(REMIX\)](https://open.spotify.com/album/69GXEw42aJdTVL52BgNmiN) | 4:06 |
 
-Snapshot ID: `MCxmMWY3OWVjYTYwMzFlYmM4ZDI2Y2UwN2I4MWQ4NTQzYWNjZmU4YzFj`
+Snapshot ID: `MCw5YTY2YTk5NGQzOWYxMmU3YjQ3ODY2ZGNiNzNkMDg0NDM5OWM4NWI0`

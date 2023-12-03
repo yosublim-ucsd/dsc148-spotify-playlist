@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8v8B2bJN6zQ.md) - [plain]
 
 > Música eletrônica para aquele treino de peso.
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,288 likes - 66 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,324 likes - 66 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8v8B2bJN6zQ.md) - [plain]
 | 8 | [Carbonize](https://open.spotify.com/track/7bFY0GIdH7PMOg4ZT0N7fo) | [BOOTY LEAK](https://open.spotify.com/artist/6C8sBC5U3LyUE4GoleJWvx) | [Carbonize](https://open.spotify.com/album/72reU1t9z5OItKzUWb9AnD) | 2:28 |
 | 9 | [Baddadan \(feat\. IRAH, Flowdan, Trigga & Takura\)](https://open.spotify.com/track/2ZWmmrWUgDBcPSLihBMvhg) | [Chase & Status](https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq), [Bou](https://open.spotify.com/artist/35dxfY1wywqVRUEaVuMm13), [Flowdan](https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4), [IRAH](https://open.spotify.com/artist/17fY0VRyqRgmqI3dHlE1UU), [Trigga](https://open.spotify.com/artist/4LqFJ98PEA7gIrRtviMUmb), [Takura](https://open.spotify.com/artist/4n81jTX3LJ7zxNr6Ss8PkQ) | [Baddadan \(feat\. IRAH, Flowdan, Trigga & Takura\)](https://open.spotify.com/album/2xV74PLdZg5gwA65xGF8cF) | 2:57 |
 | 10 | [Tira A Camisa](https://open.spotify.com/track/74wXmElNAq0vNBS47FiZSz) | [Almanac](https://open.spotify.com/artist/2EJxcRlcIa5W1u2v42PvTv) | [Tira A Camisa](https://open.spotify.com/album/2uNjixcI6TJrlOcJfbJyuF) | 3:00 |
-| 11 | [Fine Day Anthem](https://open.spotify.com/track/6tifCCTIVBLC2TmTquYG7G) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Boys Noize](https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv) | [Fine Day Anthem](https://open.spotify.com/album/2mxzA7momOeBvCyKDgZRIb) | 3:13 |
+| 11 | [Fine Day Anthem](https://open.spotify.com/track/6tifCCTIVBLC2TmTquYG7G) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Boys Noize](https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv), [Opus III](https://open.spotify.com/artist/1hQuWl1dueM7ChRUZRn05z) | [Fine Day Anthem](https://open.spotify.com/album/2mxzA7momOeBvCyKDgZRIb) | 3:13 |
 | 12 | [Down \- Vini Vici, Vegas Remix](https://open.spotify.com/track/4aTxLz00W4Gd5kWwZlyazJ) | [illusionize](https://open.spotify.com/artist/3RloA7E4XMItSP4FjMBv3L), [Vini Vici](https://open.spotify.com/artist/29zsVzEH33dD5QqxeL8dvy), [Vegas \(Brazil\)](https://open.spotify.com/artist/5xk7F7RlG0tk0rsGmjFB7z) | [Down \(Vini Vici, Vegas Remix\)](https://open.spotify.com/album/64F2v768m88W4ICszMA837) | 2:58 |
 | 13 | [Darkside](https://open.spotify.com/track/3vYU3g6y2L0brDR3nt8F5d) | [Memento Mori](https://open.spotify.com/artist/4AJdOTtmWuYYElSe07eejR), [SPARKS](https://open.spotify.com/artist/7CNgXa0k7ieLtaynmrgUBl) | [Darkside](https://open.spotify.com/album/3vXkiXQge96O332xl5hoSt) | 3:21 |
 | 14 | [Future Scream](https://open.spotify.com/track/3JN0SMHCvA6wzmZndqmZcB) | [TOMA](https://open.spotify.com/artist/1s3CyvfKUCbNf3EIMg4TVe), [Pietro \(BR\)](https://open.spotify.com/artist/4Ms2A0pWyx4gUvrCXmH9bk) | [Future Scream](https://open.spotify.com/album/2vHkEeiYs6gddt6qSD3Df0) | 6:07 |
@@ -75,4 +75,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8v8B2bJN6zQ.md) - [plain]
 | 65 | [Who Knows](https://open.spotify.com/track/6kLwtwP6LFgkT5AuH6Ke8v) | [Scorsi](https://open.spotify.com/artist/0LQKGvxOXZHDCxuite9zcT) | [Who Knows](https://open.spotify.com/album/2aHDpFLOosTIylUlwg7Uft) | 3:16 |
 | 66 | [Future](https://open.spotify.com/track/32VQjdJsS3EPF9fmIUAIPl) | [Dualmind](https://open.spotify.com/artist/2gNRZGT58XSTrInywjcgil), [Gandolfi B.](https://open.spotify.com/artist/0Js4sdeapMvJ4hB3KDq58J) | [Future](https://open.spotify.com/album/5pVzwUaHFDj7fi0bN3l3Uq) | 1:24 |
 
-Snapshot ID: `MCwxNTM1YjVkNzIwNWI1NDk4ZTc4ZTExODE1MjNkYmNiZTViNGUyNmVh`
+Snapshot ID: `MCw3ZDhhN2ZlZTY3NzJiYjA3MTJlNjI2YTBkOTc3NDM1MWIyMWM0MmI3`

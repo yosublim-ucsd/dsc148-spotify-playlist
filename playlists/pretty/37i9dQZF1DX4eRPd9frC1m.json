@@ -1,12 +1,12 @@
 {
   "description": "Aggressive trap and bass for the <a href=\"spotify:genre:edm_dance\">gym</a>.",
-  "num_followers": 2590928,
+  "num_followers": 2591056,
   "original_name": "Hype",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZTgxMzBlNmM0MTJiODU2MDlmZDY1NzhkOGU3NmQzMmRmMDU0NTcy",
+  "snapshot_id": "MCxlMTFlZmFlOTQ2NTIxMmYxOGY5YTM1YmIyYjNjZDQ5YjRmMmRkNmU2",
   "tracks": [
     {
       "added_at": "2023-12-01 05:01:00",
@@ -327,8 +327,8 @@
     {
       "added_at": "2023-12-01 05:01:00",
       "album": {
-        "name": "Gassed Up",
-        "url": "https://open.spotify.com/album/4YOvPn7L8K4jgklVsA697b"
+        "name": "Ecstasy Of Soul",
+        "url": "https://open.spotify.com/album/3Z9gZ7C37E95mJkJrWIpJ8"
       },
       "artists": [
         {
@@ -336,17 +336,13 @@
           "url": "https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh"
         },
         {
-          "name": "Subtronics",
-          "url": "https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO"
-        },
-        {
-          "name": "Flowdan",
-          "url": "https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4"
+          "name": "GRiZ",
+          "url": "https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut"
         }
       ],
-      "duration_ms": 238285,
-      "name": "Gassed Up",
-      "url": "https://open.spotify.com/track/6uwjDA0Qi6hk8C6lPJIMc9"
+      "duration_ms": 238400,
+      "name": "Ecstasy Of Soul",
+      "url": "https://open.spotify.com/track/1E0CZWim9mfwrCkXvieES8"
     },
     {
       "added_at": "2023-12-01 05:01:00",
@@ -451,8 +447,8 @@
     {
       "added_at": "2023-12-01 05:01:00",
       "album": {
-        "name": "Ecstasy Of Soul",
-        "url": "https://open.spotify.com/album/3Z9gZ7C37E95mJkJrWIpJ8"
+        "name": "Gassed Up",
+        "url": "https://open.spotify.com/album/4YOvPn7L8K4jgklVsA697b"
       },
       "artists": [
         {
@@ -460,13 +456,17 @@
           "url": "https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh"
         },
         {
-          "name": "GRiZ",
-          "url": "https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut"
+          "name": "Subtronics",
+          "url": "https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO"
+        },
+        {
+          "name": "Flowdan",
+          "url": "https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4"
         }
       ],
-      "duration_ms": 238400,
-      "name": "Ecstasy Of Soul",
-      "url": "https://open.spotify.com/track/1E0CZWim9mfwrCkXvieES8"
+      "duration_ms": 238285,
+      "name": "Gassed Up",
+      "url": "https://open.spotify.com/track/6uwjDA0Qi6hk8C6lPJIMc9"
     },
     {
       "added_at": "2023-12-01 05:01:00",
@@ -627,6 +627,26 @@
     {
       "added_at": "2023-12-01 05:01:00",
       "album": {
+        "name": "WukiWorld",
+        "url": "https://open.spotify.com/album/523y2Ub7mQPON9romO2APM"
+      },
+      "artists": [
+        {
+          "name": "Wuki",
+          "url": "https://open.spotify.com/artist/6Se1y4vDcu9fVHLqdj1N3q"
+        },
+        {
+          "name": "Smokepurpp",
+          "url": "https://open.spotify.com/artist/21dooacK2WGBB5amYvKyfM"
+        }
+      ],
+      "duration_ms": 162375,
+      "name": "Birdz",
+      "url": "https://open.spotify.com/track/3LEztKH305u3WRpqKdG9Ch"
+    },
+    {
+      "added_at": "2023-12-01 05:01:00",
+      "album": {
         "name": "BANG YOUR HEAD",
         "url": "https://open.spotify.com/album/3FkWFc1jekxt65VaXhsIRk"
       },
@@ -647,26 +667,6 @@
       "duration_ms": 204798,
       "name": "BANG YOUR HEAD",
       "url": "https://open.spotify.com/track/2vk63a0DpsEDiCG4k0mjCF"
-    },
-    {
-      "added_at": "2023-12-01 05:01:00",
-      "album": {
-        "name": "WukiWorld",
-        "url": "https://open.spotify.com/album/523y2Ub7mQPON9romO2APM"
-      },
-      "artists": [
-        {
-          "name": "Wuki",
-          "url": "https://open.spotify.com/artist/6Se1y4vDcu9fVHLqdj1N3q"
-        },
-        {
-          "name": "Smokepurpp",
-          "url": "https://open.spotify.com/artist/21dooacK2WGBB5amYvKyfM"
-        }
-      ],
-      "duration_ms": 162375,
-      "name": "Birdz",
-      "url": "https://open.spotify.com/track/3LEztKH305u3WRpqKdG9Ch"
     },
     {
       "added_at": "2023-12-01 05:01:00",
@@ -775,18 +775,22 @@
     {
       "added_at": "2023-12-01 05:01:00",
       "album": {
-        "name": "Can We Be Free",
-        "url": "https://open.spotify.com/album/3gc3VKoim4ygl5LyfePAfP"
+        "name": "PEACE LOVE & WUBZ",
+        "url": "https://open.spotify.com/album/1gK7u6Sh9RvvpjKovemrx2"
       },
       "artists": [
         {
-          "name": "KUURO",
-          "url": "https://open.spotify.com/artist/5mVWu2Ofpm2mlEpuMm3b4Q"
+          "name": "LSDREAM",
+          "url": "https://open.spotify.com/artist/3Hrqjumb6WHg2aAUHJHLND"
+        },
+        {
+          "name": "Cojaxx",
+          "url": "https://open.spotify.com/artist/6R7363ayBrwb16Hh3G5ONZ"
         }
       ],
-      "duration_ms": 198315,
-      "name": "Can We Be Free",
-      "url": "https://open.spotify.com/track/4JHfB0tPjE38N5KTSaX39I"
+      "duration_ms": 240000,
+      "name": "PEACE LOVE & WUBZ",
+      "url": "https://open.spotify.com/track/0Mcts4Xh4FKZXOIy9tAjbA"
     },
     {
       "added_at": "2023-12-01 05:01:00",
@@ -811,42 +815,18 @@
     {
       "added_at": "2023-12-01 05:01:00",
       "album": {
-        "name": "PEACE LOVE & WUBZ",
-        "url": "https://open.spotify.com/album/1gK7u6Sh9RvvpjKovemrx2"
+        "name": "Can We Be Free",
+        "url": "https://open.spotify.com/album/3gc3VKoim4ygl5LyfePAfP"
       },
       "artists": [
         {
-          "name": "LSDREAM",
-          "url": "https://open.spotify.com/artist/3Hrqjumb6WHg2aAUHJHLND"
-        },
-        {
-          "name": "Cojaxx",
-          "url": "https://open.spotify.com/artist/6R7363ayBrwb16Hh3G5ONZ"
+          "name": "KUURO",
+          "url": "https://open.spotify.com/artist/5mVWu2Ofpm2mlEpuMm3b4Q"
         }
       ],
-      "duration_ms": 240000,
-      "name": "PEACE LOVE & WUBZ",
-      "url": "https://open.spotify.com/track/0Mcts4Xh4FKZXOIy9tAjbA"
-    },
-    {
-      "added_at": "2023-12-01 05:01:00",
-      "album": {
-        "name": "Sacrificial",
-        "url": "https://open.spotify.com/album/66jlZyvN4g2VBo9RNDYrOS"
-      },
-      "artists": [
-        {
-          "name": "Rezz",
-          "url": "https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw"
-        },
-        {
-          "name": "PVRIS",
-          "url": "https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy"
-        }
-      ],
-      "duration_ms": 182000,
-      "name": "Sacrificial",
-      "url": "https://open.spotify.com/track/5YvYKEQEYJp4orh4z3Dnpk"
+      "duration_ms": 198315,
+      "name": "Can We Be Free",
+      "url": "https://open.spotify.com/track/4JHfB0tPjE38N5KTSaX39I"
     },
     {
       "added_at": "2023-12-01 05:01:00",
@@ -871,6 +851,26 @@
       "duration_ms": 157036,
       "name": "HEADSH\u00d6T",
       "url": "https://open.spotify.com/track/1I53j1Vvwkla8P2JIecioT"
+    },
+    {
+      "added_at": "2023-12-01 05:01:00",
+      "album": {
+        "name": "Sacrificial",
+        "url": "https://open.spotify.com/album/66jlZyvN4g2VBo9RNDYrOS"
+      },
+      "artists": [
+        {
+          "name": "Rezz",
+          "url": "https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw"
+        },
+        {
+          "name": "PVRIS",
+          "url": "https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy"
+        }
+      ],
+      "duration_ms": 182000,
+      "name": "Sacrificial",
+      "url": "https://open.spotify.com/track/5YvYKEQEYJp4orh4z3Dnpk"
     },
     {
       "added_at": "2023-12-01 05:01:00",
@@ -939,22 +939,6 @@
       "duration_ms": 316420,
       "name": "Wake Up",
       "url": "https://open.spotify.com/track/1DegLHuaZdLmOvhUgsNV9I"
-    },
-    {
-      "added_at": "2023-12-01 05:01:00",
-      "album": {
-        "name": "Suffer In Silence",
-        "url": "https://open.spotify.com/album/7HS540iPPvyiOIwDbPGQGc"
-      },
-      "artists": [
-        {
-          "name": "Rezz",
-          "url": "https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw"
-        }
-      ],
-      "duration_ms": 194248,
-      "name": "Suffer In Silence",
-      "url": "https://open.spotify.com/track/6TMsLIRJQ7LkfFY3g0DGKS"
     },
     {
       "added_at": "2023-12-01 05:01:00",
@@ -1071,6 +1055,22 @@
     {
       "added_at": "2023-12-01 05:01:00",
       "album": {
+        "name": "Suffer In Silence",
+        "url": "https://open.spotify.com/album/7HS540iPPvyiOIwDbPGQGc"
+      },
+      "artists": [
+        {
+          "name": "Rezz",
+          "url": "https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw"
+        }
+      ],
+      "duration_ms": 194248,
+      "name": "Suffer In Silence",
+      "url": "https://open.spotify.com/track/6TMsLIRJQ7LkfFY3g0DGKS"
+    },
+    {
+      "added_at": "2023-12-01 05:01:00",
+      "album": {
         "name": "The Machines",
         "url": "https://open.spotify.com/album/5P3kvsIaj4aX7usKBJAPeQ"
       },
@@ -1091,22 +1091,22 @@
     {
       "added_at": "2023-12-01 05:01:00",
       "album": {
-        "name": "Breach",
-        "url": "https://open.spotify.com/album/5AHBWAHdJuIY5K6nIcHgJE"
+        "name": "Apex",
+        "url": "https://open.spotify.com/album/6zAoh1dmY6dDlkh9CSO5Im"
       },
       "artists": [
         {
-          "name": "RL Grime",
-          "url": "https://open.spotify.com/artist/5eIbEEQnDM8yuDVB0bimSP"
+          "name": "Excision",
+          "url": "https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb"
         },
         {
-          "name": "Juelz",
-          "url": "https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT"
+          "name": "Space Laces",
+          "url": "https://open.spotify.com/artist/37PZXblQTqpEWGdjctNcGP"
         }
       ],
-      "duration_ms": 249090,
-      "name": "Breach",
-      "url": "https://open.spotify.com/track/3vSYtWxpOfhp54VGGxCZrn"
+      "duration_ms": 282834,
+      "name": "Rumble",
+      "url": "https://open.spotify.com/track/3XfvTelX1xYLgwgpzfd8qi"
     },
     {
       "added_at": "2023-12-01 05:01:00",
@@ -1127,22 +1127,22 @@
     {
       "added_at": "2023-12-01 05:01:00",
       "album": {
-        "name": "Apex",
-        "url": "https://open.spotify.com/album/6zAoh1dmY6dDlkh9CSO5Im"
+        "name": "Breach",
+        "url": "https://open.spotify.com/album/5AHBWAHdJuIY5K6nIcHgJE"
       },
       "artists": [
         {
-          "name": "Excision",
-          "url": "https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb"
+          "name": "RL Grime",
+          "url": "https://open.spotify.com/artist/5eIbEEQnDM8yuDVB0bimSP"
         },
         {
-          "name": "Space Laces",
-          "url": "https://open.spotify.com/artist/37PZXblQTqpEWGdjctNcGP"
+          "name": "Juelz",
+          "url": "https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT"
         }
       ],
-      "duration_ms": 282834,
-      "name": "Rumble",
-      "url": "https://open.spotify.com/track/3XfvTelX1xYLgwgpzfd8qi"
+      "duration_ms": 249090,
+      "name": "Breach",
+      "url": "https://open.spotify.com/track/3vSYtWxpOfhp54VGGxCZrn"
     },
     {
       "added_at": "2023-12-01 05:01:00",
@@ -1271,26 +1271,6 @@
     {
       "added_at": "2023-12-01 05:01:00",
       "album": {
-        "name": "NEW WIP",
-        "url": "https://open.spotify.com/album/5NToLmDgH4V64h5f3Xzhkn"
-      },
-      "artists": [
-        {
-          "name": "Boombox Cartel",
-          "url": "https://open.spotify.com/artist/4m1yRHUMhvB8gKAJTjK4kO"
-        },
-        {
-          "name": "MadeinTYO",
-          "url": "https://open.spotify.com/artist/5SyGEPymt1G2uto47tVWvZ"
-        }
-      ],
-      "duration_ms": 186400,
-      "name": "NEW WIP",
-      "url": "https://open.spotify.com/track/6rv93pYJSTtReQIuwcCYvm"
-    },
-    {
-      "added_at": "2023-12-01 05:01:00",
-      "album": {
         "name": "Trenches",
         "url": "https://open.spotify.com/album/0BIuPX2XzG3P7Bir90cpP4"
       },
@@ -1307,6 +1287,26 @@
       "duration_ms": 169714,
       "name": "Trenches",
       "url": "https://open.spotify.com/track/6s4T0UEJs5kX6EsEjvfXpw"
+    },
+    {
+      "added_at": "2023-12-01 05:01:00",
+      "album": {
+        "name": "NEW WIP",
+        "url": "https://open.spotify.com/album/5NToLmDgH4V64h5f3Xzhkn"
+      },
+      "artists": [
+        {
+          "name": "Boombox Cartel",
+          "url": "https://open.spotify.com/artist/4m1yRHUMhvB8gKAJTjK4kO"
+        },
+        {
+          "name": "MadeinTYO",
+          "url": "https://open.spotify.com/artist/5SyGEPymt1G2uto47tVWvZ"
+        }
+      ],
+      "duration_ms": 186400,
+      "name": "NEW WIP",
+      "url": "https://open.spotify.com/track/6rv93pYJSTtReQIuwcCYvm"
     },
     {
       "added_at": "2023-12-01 05:01:00",
@@ -1423,6 +1423,30 @@
     {
       "added_at": "2023-12-01 05:01:00",
       "album": {
+        "name": "Mawlee (feat. Young Buck & DJ Afterthought)",
+        "url": "https://open.spotify.com/album/5qMppyyuoB5HQIYJyA82OY"
+      },
+      "artists": [
+        {
+          "name": "Riot Ten",
+          "url": "https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ"
+        },
+        {
+          "name": "Young Buck",
+          "url": "https://open.spotify.com/artist/4pr7J7wzgObkE3DD3Izi7q"
+        },
+        {
+          "name": "DJ Afterthought",
+          "url": "https://open.spotify.com/artist/46yoMIbiLf1tIH3CRZiSGX"
+        }
+      ],
+      "duration_ms": 178285,
+      "name": "Mawlee (feat. Young Buck & DJ Afterthought)",
+      "url": "https://open.spotify.com/track/0CLaGp0DMEjocSrAtvhcJl"
+    },
+    {
+      "added_at": "2023-12-01 05:01:00",
+      "album": {
         "name": "Moshpit / Comin For Ya Neck",
         "url": "https://open.spotify.com/album/0W1fVHmZ0s1E5l8EOWI5T6"
       },
@@ -1467,30 +1491,6 @@
       "duration_ms": 209137,
       "name": "RUNAWAY (feat. Josh Rubin)",
       "url": "https://open.spotify.com/track/1lj3aGG7Ltxap2LHXUgSvY"
-    },
-    {
-      "added_at": "2023-12-01 05:01:00",
-      "album": {
-        "name": "Mawlee (feat. Young Buck & DJ Afterthought)",
-        "url": "https://open.spotify.com/album/5qMppyyuoB5HQIYJyA82OY"
-      },
-      "artists": [
-        {
-          "name": "Riot Ten",
-          "url": "https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ"
-        },
-        {
-          "name": "Young Buck",
-          "url": "https://open.spotify.com/artist/4pr7J7wzgObkE3DD3Izi7q"
-        },
-        {
-          "name": "DJ Afterthought",
-          "url": "https://open.spotify.com/artist/46yoMIbiLf1tIH3CRZiSGX"
-        }
-      ],
-      "duration_ms": 178285,
-      "name": "Mawlee (feat. Young Buck & DJ Afterthought)",
-      "url": "https://open.spotify.com/track/0CLaGp0DMEjocSrAtvhcJl"
     },
     {
       "added_at": "2023-12-01 05:01:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2cW2nLJVrZg.md) - [plain]
 
 > Nominees — and past winners — from the 95th annual event celebrating Hollywood's brightest stars.
 
-[Spotify](https://open.spotify.com/user/spotify) - 264,696 likes - 56 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 264,685 likes - 56 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2cW2nLJVrZg.md) - [plain]
 | 22 | [City Of Stars \- From "La La Land" Soundtrack](https://open.spotify.com/track/6XQHlsNu6so4PdglFkJQRJ) | [Ryan Gosling](https://open.spotify.com/artist/6kXm2YCtdUOpRYNKeKhfue), [Emma Stone](https://open.spotify.com/artist/68Uwx1d3EbjDJhYsLjqvIq) | [La La Land \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3GU8BzFEAdFSRjc8jZkL3S) | 2:29 |
 | 23 | [Married Life](https://open.spotify.com/track/7iocNjLrxPHLl8njgRlv5U) | [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [Up \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5yN2LiMaA7nEXT35GW4hNu) | 4:10 |
 | 24 | [Remember Me \(Ernesto de la Cruz\)](https://open.spotify.com/track/4ljlAxfaEjO4Q4g9FMtVj4) | [Benjamin Bratt](https://open.spotify.com/artist/52H65pWOSERcDK6uVFRwN8) | [Coco \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7nMexBA71PdwPnfqS5Yji5) | 1:49 |
-| 25 | [Beauty and the Beast](https://open.spotify.com/track/4dhPM05Kr49JbsvPwGROnJ) | [Angela Lansbury](https://open.spotify.com/artist/0LtVJXnPR8msCJiE2DjHxy), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Beauty And The Beast \(Special Edition\)](https://open.spotify.com/album/5CXS5K2wldOxL8bweRXBrq) | 2:45 |
-| 26 | [The Breaking of the Fellowship \(feat\. "In Dreams"\)](https://open.spotify.com/track/1ykbtFnlIjmIFnZ8j6wg6i) | [Howard Shore](https://open.spotify.com/artist/0OcclcP5o8VKH2TRqSY2A7), [Edward Ross](https://open.spotify.com/artist/4bGeBg1rtCaIQEyxuRgctG) | [The Lord of the Rings: The Fellowship of the Ring \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/04rz93AqGy9JduzV3K81Dh) | 7:20 |
+| 25 | [The Breaking of the Fellowship \(feat\. "In Dreams"\)](https://open.spotify.com/track/1ykbtFnlIjmIFnZ8j6wg6i) | [Howard Shore](https://open.spotify.com/artist/0OcclcP5o8VKH2TRqSY2A7), [Edward Ross](https://open.spotify.com/artist/4bGeBg1rtCaIQEyxuRgctG) | [The Lord of the Rings: The Fellowship of the Ring \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/04rz93AqGy9JduzV3K81Dh) | 7:20 |
+| 26 | [Beauty and the Beast](https://open.spotify.com/track/4dhPM05Kr49JbsvPwGROnJ) | [Angela Lansbury](https://open.spotify.com/artist/0LtVJXnPR8msCJiE2DjHxy), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Beauty And The Beast \(Special Edition\)](https://open.spotify.com/album/5CXS5K2wldOxL8bweRXBrq) | 2:45 |
 | 27 | [If I Didn't Have You](https://open.spotify.com/track/7xf3S6Bv8hDqOtevZou602) | [Billy Crystal](https://open.spotify.com/artist/4obZSxPoSs6iedmMKPzhwh), [John Goodman](https://open.spotify.com/artist/7dHoDG0MERt9fs7DHyWRJJ) | [Monsters, Inc\. \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7hguux6E8wOGlNsKnZB6Sz) | 3:37 |
 | 28 | [Can You Feel The Love Tonight](https://open.spotify.com/track/67HKtdqchK0rmODxsBeWT8) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Love Songs](https://open.spotify.com/album/1bnoqPJyaxMCtYuSprcBTD) | 4:00 |
 | 29 | [Colors of the Wind \- From "Pocahontas"](https://open.spotify.com/track/2rnX4QWY4Wc1TCAZ0wK6yP) | [Judy Kuhn](https://open.spotify.com/artist/7tHd518aPjJYUgyv9bidBz) | [Songs and Story: Pocahontas](https://open.spotify.com/album/6uCMCobTioiSEnMgUle7uj) | 3:32 |
@@ -65,4 +65,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2cW2nLJVrZg.md) - [plain]
 | 55 | [Jai Ho](https://open.spotify.com/track/4i3MgUew8ynhf49Qwr4IP4) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Sukhwinder Singh](https://open.spotify.com/artist/19MVxKZZdPj2X0F8pi0OCT), [Tanvi Shah](https://open.spotify.com/artist/11PIHAhH0HI8SCdjhJ5zyA), [Mahalakshmi Iyer](https://open.spotify.com/artist/0Yb0T3wUUNiIvHjqnfkbuH) | [Slumdog Millionaire \- Music From The Motion Picture](https://open.spotify.com/album/2oJI1pZ52LD11fgIaxEdRx) | 5:19 |
 | 56 | [Sooner or Later](https://open.spotify.com/track/0QLuoNpyzXMcCLfVtFScE2) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [I'm Breathless](https://open.spotify.com/album/38nngL1nidjNYdHvJ3xJED) | 3:20 |
 
-Snapshot ID: `MCxiZDI5N2U2NmMyOTI1MTI1MWJiNjY3ZTYxOTY0Y2RhY2M3ZjJlODk3`
+Snapshot ID: `MCw1ODcyNzYyZWU2MjgxMmI3NmZlNDVlZTI1OTRhODBmNDhhZDdjZDVj`

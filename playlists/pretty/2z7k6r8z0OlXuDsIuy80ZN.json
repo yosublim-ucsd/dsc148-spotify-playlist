@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Los 40 principales \u00e9xitos de la radio musical! Se actualiza cada semana con la nueva lista de LOS40 \u00a1Busca m\u00e1s playlists en nuestro perfil y en la <a href=\"http://onelink.to/los40app\">app LOS40</a>!",
-  "num_followers": 133781,
+  "num_followers": 133864,
   "original_name": "Lista de LOS 40 (Oficial) | \ud83c\uddea\ud83c\uddf8",
   "owner": {
     "name": "LOS40",
     "url": "https://open.spotify.com/user/los40_spain"
   },
-  "snapshot_id": "ODczMywxMzdmZDFmYmYwMzE0MjZhNWQ2YjRjMWY2MzBjYTI5ZDJlYzM5YmJi",
+  "snapshot_id": "ODc2OSw4OGUxNTQ4MGNmZmQ0ZDc3ZmU1MjQ1NTZkNDM4YzQxMjVlMmNmMjQ3",
   "tracks": [
     {
       "added_at": "2023-11-27 09:23:12",
@@ -43,6 +43,22 @@
     {
       "added_at": "2023-11-27 09:23:12",
       "album": {
+        "name": "greedy",
+        "url": "https://open.spotify.com/album/3UOV8XvCwMKaATRNXrYCjN"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "duration_ms": 131872,
+      "name": "greedy",
+      "url": "https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t"
+    },
+    {
+      "added_at": "2023-11-27 09:23:12",
+      "album": {
         "name": "No_se_ve.mp3",
         "url": "https://open.spotify.com/album/7sAPapzxqBhYuDe7OxldCN"
       },
@@ -67,22 +83,6 @@
     {
       "added_at": "2023-11-27 09:23:12",
       "album": {
-        "name": "greedy",
-        "url": "https://open.spotify.com/album/3UOV8XvCwMKaATRNXrYCjN"
-      },
-      "artists": [
-        {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
-        }
-      ],
-      "duration_ms": 131872,
-      "name": "greedy",
-      "url": "https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t"
-    },
-    {
-      "added_at": "2023-11-27 09:23:12",
-      "album": {
         "name": "CORAZ\u00d3N VAC\u00cdO",
         "url": "https://open.spotify.com/album/3YBQyY0Bj7bpxj0VHAse0P"
       },
@@ -95,58 +95,6 @@
       "duration_ms": 160535,
       "name": "CORAZ\u00d3N VAC\u00cdO",
       "url": "https://open.spotify.com/track/3oNnzH6hmqIGIhJ1NcHlrh"
-    },
-    {
-      "added_at": "2023-11-27 09:23:12",
-      "album": {
-        "name": "Man\u00edaca",
-        "url": "https://open.spotify.com/album/2yMRu2OW5Eidm9XxIi0xye"
-      },
-      "artists": [
-        {
-          "name": "Abraham Mateo",
-          "url": "https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR"
-        }
-      ],
-      "duration_ms": 175175,
-      "name": "Man\u00edaca",
-      "url": "https://open.spotify.com/track/1sGknF0rpOXOCEeVc93WMR"
-    },
-    {
-      "added_at": "2023-11-27 09:23:12",
-      "album": {
-        "name": "Lover",
-        "url": "https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 178426,
-      "name": "Cruel Summer",
-      "url": "https://open.spotify.com/track/1BxfuPKGuaTgP7aM0Bbdwr"
-    },
-    {
-      "added_at": "2023-11-27 09:23:12",
-      "album": {
-        "name": "Clavaito",
-        "url": "https://open.spotify.com/album/04EvopsobNB5TNIzzAp0w0"
-      },
-      "artists": [
-        {
-          "name": "Chanel",
-          "url": "https://open.spotify.com/artist/5DeX42pr2TilrnsUgjG8D1"
-        },
-        {
-          "name": "Abraham Mateo",
-          "url": "https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR"
-        }
-      ],
-      "duration_ms": 162740,
-      "name": "Clavaito",
-      "url": "https://open.spotify.com/track/26V1bLUk0SBYkLEwl4caPR"
     },
     {
       "added_at": "2023-11-27 09:23:12",
@@ -167,6 +115,22 @@
       "duration_ms": 222461,
       "name": "BABY HELLO",
       "url": "https://open.spotify.com/track/2SOvWt6igzXViIjIiWNWEP"
+    },
+    {
+      "added_at": "2023-11-27 09:23:12",
+      "album": {
+        "name": "Man\u00edaca",
+        "url": "https://open.spotify.com/album/2yMRu2OW5Eidm9XxIi0xye"
+      },
+      "artists": [
+        {
+          "name": "Abraham Mateo",
+          "url": "https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR"
+        }
+      ],
+      "duration_ms": 175175,
+      "name": "Man\u00edaca",
+      "url": "https://open.spotify.com/track/1sGknF0rpOXOCEeVc93WMR"
     },
     {
       "added_at": "2023-11-27 09:23:12",
@@ -207,22 +171,18 @@
     {
       "added_at": "2023-11-27 09:23:12",
       "album": {
-        "name": "El Merengue",
-        "url": "https://open.spotify.com/album/6sU751LOdNBPvVErW1GunP"
+        "name": "Lover",
+        "url": "https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq"
       },
       "artists": [
         {
-          "name": "Marshmello",
-          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
-        },
-        {
-          "name": "Manuel Turizo",
-          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
         }
       ],
-      "duration_ms": 189668,
-      "name": "El Merengue",
-      "url": "https://open.spotify.com/track/51FvjPEGKq2zByeeEQ43V9"
+      "duration_ms": 178426,
+      "name": "Cruel Summer",
+      "url": "https://open.spotify.com/track/1BxfuPKGuaTgP7aM0Bbdwr"
     },
     {
       "added_at": "2023-11-27 09:23:12",
@@ -239,6 +199,26 @@
       "duration_ms": 185917,
       "name": "Houdini",
       "url": "https://open.spotify.com/track/4OMJGnvZfDvsePyCwRGO7X"
+    },
+    {
+      "added_at": "2023-11-27 09:23:12",
+      "album": {
+        "name": "Clavaito",
+        "url": "https://open.spotify.com/album/04EvopsobNB5TNIzzAp0w0"
+      },
+      "artists": [
+        {
+          "name": "Chanel",
+          "url": "https://open.spotify.com/artist/5DeX42pr2TilrnsUgjG8D1"
+        },
+        {
+          "name": "Abraham Mateo",
+          "url": "https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR"
+        }
+      ],
+      "duration_ms": 162740,
+      "name": "Clavaito",
+      "url": "https://open.spotify.com/track/26V1bLUk0SBYkLEwl4caPR"
     },
     {
       "added_at": "2023-11-27 09:23:12",
@@ -279,6 +259,42 @@
     {
       "added_at": "2023-11-27 09:23:12",
       "album": {
+        "name": "El Merengue",
+        "url": "https://open.spotify.com/album/6sU751LOdNBPvVErW1GunP"
+      },
+      "artists": [
+        {
+          "name": "Marshmello",
+          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
+        },
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        }
+      ],
+      "duration_ms": 189668,
+      "name": "El Merengue",
+      "url": "https://open.spotify.com/track/51FvjPEGKq2zByeeEQ43V9"
+    },
+    {
+      "added_at": "2023-11-27 09:23:12",
+      "album": {
+        "name": "Gimme Love",
+        "url": "https://open.spotify.com/album/4jLwuz6VaUKuIiS799cU2z"
+      },
+      "artists": [
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        }
+      ],
+      "duration_ms": 177921,
+      "name": "Gimme Love",
+      "url": "https://open.spotify.com/track/5o4XJKRxUK6nXhFLAIS33A"
+    },
+    {
+      "added_at": "2023-11-27 09:23:12",
+      "album": {
         "name": "Afro",
         "url": "https://open.spotify.com/album/4UB2nT0IAEunpdUFiuFUxA"
       },
@@ -299,18 +315,22 @@
     {
       "added_at": "2023-11-27 09:23:12",
       "album": {
-        "name": "Gimme Love",
-        "url": "https://open.spotify.com/album/4jLwuz6VaUKuIiS799cU2z"
+        "name": "Olvid\u00e9 Olvidarte",
+        "url": "https://open.spotify.com/album/3HKHxcUZx0qPs6iLacsp1P"
       },
       "artists": [
         {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+          "name": "Marlon",
+          "url": "https://open.spotify.com/artist/1RTZXV2Txeij9hW1C88mfs"
+        },
+        {
+          "name": "\u00c1lvaro De Luna",
+          "url": "https://open.spotify.com/artist/5N3YDBGT2gUzXgLDTwPRi5"
         }
       ],
-      "duration_ms": 177921,
-      "name": "Gimme Love",
-      "url": "https://open.spotify.com/track/5o4XJKRxUK6nXhFLAIS33A"
+      "duration_ms": 181840,
+      "name": "Olvid\u00e9 Olvidarte",
+      "url": "https://open.spotify.com/track/6nys7RehgP4R0KzSVGm3CI"
     },
     {
       "added_at": "2023-11-27 09:23:12",
@@ -351,6 +371,58 @@
     {
       "added_at": "2023-11-27 09:23:12",
       "album": {
+        "name": "Windows",
+        "url": "https://open.spotify.com/album/7M3OZ6ZLQHE5kF0yO7t07c"
+      },
+      "artists": [
+        {
+          "name": "Take That",
+          "url": "https://open.spotify.com/artist/1XgFuvRd7r5g0h844A5ZUQ"
+        }
+      ],
+      "duration_ms": 237914,
+      "name": "Windows",
+      "url": "https://open.spotify.com/track/6Qzt3SRdoxQdG2lza82ExB"
+    },
+    {
+      "added_at": "2023-11-27 09:23:12",
+      "album": {
+        "name": "De fiesta",
+        "url": "https://open.spotify.com/album/319Uhb5EWes2dveID7qULm"
+      },
+      "artists": [
+        {
+          "name": "DePol",
+          "url": "https://open.spotify.com/artist/16t23tANCHuuAN0yPqBbA0"
+        }
+      ],
+      "duration_ms": 179219,
+      "name": "De fiesta",
+      "url": "https://open.spotify.com/track/7FoQ76r1SLoFRRdfA1crLu"
+    },
+    {
+      "added_at": "2023-11-27 09:23:12",
+      "album": {
+        "name": "BUBALU",
+        "url": "https://open.spotify.com/album/0RjxDLuy3YP0zLuo8VB0JX"
+      },
+      "artists": [
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        },
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        }
+      ],
+      "duration_ms": 228253,
+      "name": "BUBALU",
+      "url": "https://open.spotify.com/track/36FTXlmbiV2diZdZukzLDm"
+    },
+    {
+      "added_at": "2023-11-27 09:23:12",
+      "album": {
         "name": "Baby Don't Hurt Me",
         "url": "https://open.spotify.com/album/327tc3Eruk1HP1w62iqROy"
       },
@@ -375,42 +447,6 @@
     {
       "added_at": "2023-11-27 09:23:12",
       "album": {
-        "name": "Olvid\u00e9 Olvidarte",
-        "url": "https://open.spotify.com/album/3HKHxcUZx0qPs6iLacsp1P"
-      },
-      "artists": [
-        {
-          "name": "Marlon",
-          "url": "https://open.spotify.com/artist/1RTZXV2Txeij9hW1C88mfs"
-        },
-        {
-          "name": "\u00c1lvaro De Luna",
-          "url": "https://open.spotify.com/artist/5N3YDBGT2gUzXgLDTwPRi5"
-        }
-      ],
-      "duration_ms": 181840,
-      "name": "Olvid\u00e9 Olvidarte",
-      "url": "https://open.spotify.com/track/6nys7RehgP4R0KzSVGm3CI"
-    },
-    {
-      "added_at": "2023-11-27 09:23:12",
-      "album": {
-        "name": "Windows",
-        "url": "https://open.spotify.com/album/7M3OZ6ZLQHE5kF0yO7t07c"
-      },
-      "artists": [
-        {
-          "name": "Take That",
-          "url": "https://open.spotify.com/artist/1XgFuvRd7r5g0h844A5ZUQ"
-        }
-      ],
-      "duration_ms": 237914,
-      "name": "Windows",
-      "url": "https://open.spotify.com/track/6Qzt3SRdoxQdG2lza82ExB"
-    },
-    {
-      "added_at": "2023-11-27 09:23:12",
-      "album": {
         "name": "COCO LOCO",
         "url": "https://open.spotify.com/album/21HEULXdjdbOsXoR0ajBeB"
       },
@@ -423,22 +459,6 @@
       "duration_ms": 166734,
       "name": "COCO LOCO",
       "url": "https://open.spotify.com/track/3kmWIej9tXjSWWYc9tPjJk"
-    },
-    {
-      "added_at": "2023-11-27 09:23:12",
-      "album": {
-        "name": "De fiesta",
-        "url": "https://open.spotify.com/album/319Uhb5EWes2dveID7qULm"
-      },
-      "artists": [
-        {
-          "name": "DePol",
-          "url": "https://open.spotify.com/artist/16t23tANCHuuAN0yPqBbA0"
-        }
-      ],
-      "duration_ms": 179219,
-      "name": "De fiesta",
-      "url": "https://open.spotify.com/track/7FoQ76r1SLoFRRdfA1crLu"
     },
     {
       "added_at": "2023-11-27 09:23:12",
@@ -463,18 +483,18 @@
     {
       "added_at": "2023-11-27 09:23:12",
       "album": {
-        "name": "VUELA ALTO",
-        "url": "https://open.spotify.com/album/06ilsWUEGlgydbCaYbniC7"
+        "name": "Ox\u00edgeno",
+        "url": "https://open.spotify.com/album/7zeftieaEtJ6pvaUIpsfYw"
       },
       "artists": [
         {
-          "name": "Nil Moliner",
-          "url": "https://open.spotify.com/artist/6X8uzem5Dbl4l2so4CeexD"
+          "name": "Alvaro Soler",
+          "url": "https://open.spotify.com/artist/2urF8dgLVfDjunO0pcHUEe"
         }
       ],
-      "duration_ms": 178961,
-      "name": "VUELA ALTO",
-      "url": "https://open.spotify.com/track/6Up49hQmFHWPMpxN8FIu9o"
+      "duration_ms": 154778,
+      "name": "Ox\u00edgeno",
+      "url": "https://open.spotify.com/track/5qy5t5uUULXGFxF0B4hIL0"
     },
     {
       "added_at": "2023-11-27 09:23:12",
@@ -503,18 +523,34 @@
     {
       "added_at": "2023-11-27 09:23:12",
       "album": {
-        "name": "Ox\u00edgeno",
-        "url": "https://open.spotify.com/album/7zeftieaEtJ6pvaUIpsfYw"
+        "name": "VUELA ALTO",
+        "url": "https://open.spotify.com/album/06ilsWUEGlgydbCaYbniC7"
       },
       "artists": [
         {
-          "name": "Alvaro Soler",
-          "url": "https://open.spotify.com/artist/2urF8dgLVfDjunO0pcHUEe"
+          "name": "Nil Moliner",
+          "url": "https://open.spotify.com/artist/6X8uzem5Dbl4l2so4CeexD"
         }
       ],
-      "duration_ms": 154778,
-      "name": "Ox\u00edgeno",
-      "url": "https://open.spotify.com/track/5qy5t5uUULXGFxF0B4hIL0"
+      "duration_ms": 178961,
+      "name": "VUELA ALTO",
+      "url": "https://open.spotify.com/track/6Up49hQmFHWPMpxN8FIu9o"
+    },
+    {
+      "added_at": "2023-11-27 09:23:12",
+      "album": {
+        "name": "Tattoo",
+        "url": "https://open.spotify.com/album/0LRTS7FyYLppkDLOZT02Xp"
+      },
+      "artists": [
+        {
+          "name": "Loreen",
+          "url": "https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl"
+        }
+      ],
+      "duration_ms": 183374,
+      "name": "Tattoo",
+      "url": "https://open.spotify.com/track/1DmW5Ep6ywYwxc2HMT5BG6"
     },
     {
       "added_at": "2023-11-27 09:23:12",
@@ -539,58 +575,6 @@
     {
       "added_at": "2023-11-27 09:23:12",
       "album": {
-        "name": "Los \u00c1ngeles",
-        "url": "https://open.spotify.com/album/4bPQ9fS8MUFcAfSq0NzBbI"
-      },
-      "artists": [
-        {
-          "name": "Aitana",
-          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
-        }
-      ],
-      "duration_ms": 158483,
-      "name": "Los \u00c1ngeles",
-      "url": "https://open.spotify.com/track/7lrMkztvl0MnRSB2i3KRRe"
-    },
-    {
-      "added_at": "2023-11-27 09:23:12",
-      "album": {
-        "name": "Tattoo",
-        "url": "https://open.spotify.com/album/0LRTS7FyYLppkDLOZT02Xp"
-      },
-      "artists": [
-        {
-          "name": "Loreen",
-          "url": "https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl"
-        }
-      ],
-      "duration_ms": 183374,
-      "name": "Tattoo",
-      "url": "https://open.spotify.com/track/1DmW5Ep6ywYwxc2HMT5BG6"
-    },
-    {
-      "added_at": "2023-11-27 09:23:12",
-      "album": {
-        "name": "BUBALU",
-        "url": "https://open.spotify.com/album/0RjxDLuy3YP0zLuo8VB0JX"
-      },
-      "artists": [
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        },
-        {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
-        }
-      ],
-      "duration_ms": 228253,
-      "name": "BUBALU",
-      "url": "https://open.spotify.com/track/36FTXlmbiV2diZdZukzLDm"
-    },
-    {
-      "added_at": "2023-11-27 09:23:12",
-      "album": {
         "name": "Copa Vac\u00eda",
         "url": "https://open.spotify.com/album/4qtiO9UGqajxnKC0z0Mxn7"
       },
@@ -611,6 +595,22 @@
     {
       "added_at": "2023-11-27 09:23:12",
       "album": {
+        "name": "Los \u00c1ngeles",
+        "url": "https://open.spotify.com/album/4bPQ9fS8MUFcAfSq0NzBbI"
+      },
+      "artists": [
+        {
+          "name": "Aitana",
+          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
+        }
+      ],
+      "duration_ms": 158483,
+      "name": "Los \u00c1ngeles",
+      "url": "https://open.spotify.com/track/7lrMkztvl0MnRSB2i3KRRe"
+    },
+    {
+      "added_at": "2023-11-27 09:23:12",
+      "album": {
         "name": "(It Goes Like) Nanana [Edit]",
         "url": "https://open.spotify.com/album/2LVDNOUUy2g8517ZEtQIcK"
       },
@@ -623,74 +623,6 @@
       "duration_ms": 231545,
       "name": "(It Goes Like) Nanana - Edit",
       "url": "https://open.spotify.com/track/23RoR84KodL5HWvUTneQ1w"
-    },
-    {
-      "added_at": "2023-11-27 09:23:12",
-      "album": {
-        "name": "TUYA",
-        "url": "https://open.spotify.com/album/5TZtxHs23y0ckhY6RqL8d3"
-      },
-      "artists": [
-        {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
-        }
-      ],
-      "duration_ms": 154551,
-      "name": "TUYA",
-      "url": "https://open.spotify.com/track/1HII0EIufOG0nGpWCQixbO"
-    },
-    {
-      "added_at": "2023-11-27 09:23:12",
-      "album": {
-        "name": "Nochentera",
-        "url": "https://open.spotify.com/album/4uCz8u5i2bIYVUOSRdtr6v"
-      },
-      "artists": [
-        {
-          "name": "Vicco",
-          "url": "https://open.spotify.com/artist/2z1MpPojFcvxYcEAx0lT6w"
-        }
-      ],
-      "duration_ms": 202184,
-      "name": "Nochentera",
-      "url": "https://open.spotify.com/track/20CozgjF6bshBw8cLhN23B"
-    },
-    {
-      "added_at": "2023-11-27 09:23:12",
-      "album": {
-        "name": "CRIMINAL",
-        "url": "https://open.spotify.com/album/3YdTZioBhiGLgxd7lFiHnB"
-      },
-      "artists": [
-        {
-          "name": "Ana Mena",
-          "url": "https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl"
-        },
-        {
-          "name": "Fred De Palma",
-          "url": "https://open.spotify.com/artist/0QrUbsrL5imqntAfDl8i7q"
-        }
-      ],
-      "duration_ms": 180525,
-      "name": "CRIMINAL",
-      "url": "https://open.spotify.com/track/0dCddleAveCZYwVbkEAhYR"
-    },
-    {
-      "added_at": "2023-11-27 09:23:12",
-      "album": {
-        "name": "5 estrellas",
-        "url": "https://open.spotify.com/album/1XMOWi216RSztbI7MXOwcV"
-      },
-      "artists": [
-        {
-          "name": "Marc Segu\u00ed",
-          "url": "https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF"
-        }
-      ],
-      "duration_ms": 198214,
-      "name": "5 estrellas",
-      "url": "https://open.spotify.com/track/5yszl4UEZcnrXdTmkawdjw"
     },
     {
       "added_at": "2023-11-27 09:23:12",
@@ -727,6 +659,74 @@
       "duration_ms": 195986,
       "name": "CLASSY 101",
       "url": "https://open.spotify.com/track/6XSqqQIy7Lm7SnwxS4NrGx"
+    },
+    {
+      "added_at": "2023-12-02 09:37:13",
+      "album": {
+        "name": "b.o.b.o.",
+        "url": "https://open.spotify.com/album/2FdIPbrSPyPEL9jKup9KQC"
+      },
+      "artists": [
+        {
+          "name": "Paula Koops",
+          "url": "https://open.spotify.com/artist/3jDSE2qvShLf8DbYmseNW0"
+        }
+      ],
+      "duration_ms": 142406,
+      "name": "b.o.b.o.",
+      "url": "https://open.spotify.com/track/0aHqflgjBiuNWvFJw2MhoQ"
+    },
+    {
+      "added_at": "2023-11-27 09:23:12",
+      "album": {
+        "name": "TUYA",
+        "url": "https://open.spotify.com/album/5TZtxHs23y0ckhY6RqL8d3"
+      },
+      "artists": [
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        }
+      ],
+      "duration_ms": 154551,
+      "name": "TUYA",
+      "url": "https://open.spotify.com/track/1HII0EIufOG0nGpWCQixbO"
+    },
+    {
+      "added_at": "2023-11-27 09:23:12",
+      "album": {
+        "name": "CRIMINAL",
+        "url": "https://open.spotify.com/album/3YdTZioBhiGLgxd7lFiHnB"
+      },
+      "artists": [
+        {
+          "name": "Ana Mena",
+          "url": "https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl"
+        },
+        {
+          "name": "Fred De Palma",
+          "url": "https://open.spotify.com/artist/0QrUbsrL5imqntAfDl8i7q"
+        }
+      ],
+      "duration_ms": 180525,
+      "name": "CRIMINAL",
+      "url": "https://open.spotify.com/track/0dCddleAveCZYwVbkEAhYR"
+    },
+    {
+      "added_at": "2023-11-27 09:23:12",
+      "album": {
+        "name": "5 estrellas",
+        "url": "https://open.spotify.com/album/1XMOWi216RSztbI7MXOwcV"
+      },
+      "artists": [
+        {
+          "name": "Marc Segu\u00ed",
+          "url": "https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF"
+        }
+      ],
+      "duration_ms": 198214,
+      "name": "5 estrellas",
+      "url": "https://open.spotify.com/track/5yszl4UEZcnrXdTmkawdjw"
     }
   ],
   "unique_name": "Lista de LOS 40 (Oficial) | \ud83c\uddea\ud83c\uddf8",

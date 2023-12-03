@@ -1,12 +1,12 @@
 {
   "description": "This is the remix... esc\u00fachalos ac\u00e1. Foto: Blessd, Ryan Castro, Bryant Myers",
-  "num_followers": 447386,
+  "num_followers": 447462,
   "original_name": "Remixes Urbanos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMDA3ZjE5ZGM5MDg5MzliNGM0YWFmN2UzNTBjYWYxZmY5YjU2MmI1",
+  "snapshot_id": "MCwxM2M0YTBmOWYwNzlmODFlNWY5NjYxZmYxMmQ2Y2Y4MzFjYzBmNjE1",
   "tracks": [
     {
       "added_at": "2023-11-23 17:27:27",
@@ -1303,6 +1303,26 @@
     {
       "added_at": "2023-11-23 17:27:27",
       "album": {
+        "name": "Tuenti (Remix)",
+        "url": "https://open.spotify.com/album/5tvMf5MkyB97XVuVLa4xSd"
+      },
+      "artists": [
+        {
+          "name": "Raul Clyde",
+          "url": "https://open.spotify.com/artist/2PAyYzUdafG4mFFp6Rynsk"
+        },
+        {
+          "name": "Saiko",
+          "url": "https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u"
+        }
+      ],
+      "duration_ms": 184276,
+      "name": "Tuenti - Remix",
+      "url": "https://open.spotify.com/track/1ZkIxbmM3ZUhn2OayBdwe5"
+    },
+    {
+      "added_at": "2023-11-23 17:27:27",
+      "album": {
         "name": "La Criatura",
         "url": "https://open.spotify.com/album/3C2Y8YZGNyGqXZLPHPUMj3"
       },
@@ -1331,26 +1351,6 @@
       "duration_ms": 217093,
       "name": "B\u00e1ilame - Remix",
       "url": "https://open.spotify.com/track/4l3xGFwoTinvYxsePytOOf"
-    },
-    {
-      "added_at": "2023-11-23 17:27:27",
-      "album": {
-        "name": "Tuenti (Remix)",
-        "url": "https://open.spotify.com/album/5tvMf5MkyB97XVuVLa4xSd"
-      },
-      "artists": [
-        {
-          "name": "Raul Clyde",
-          "url": "https://open.spotify.com/artist/2PAyYzUdafG4mFFp6Rynsk"
-        },
-        {
-          "name": "Saiko",
-          "url": "https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u"
-        }
-      ],
-      "duration_ms": 184276,
-      "name": "Tuenti - Remix",
-      "url": "https://open.spotify.com/track/1ZkIxbmM3ZUhn2OayBdwe5"
     },
     {
       "added_at": "2023-11-23 17:27:27",
@@ -1419,6 +1419,30 @@
     {
       "added_at": "2023-11-23 17:27:27",
       "album": {
+        "name": "Persia (Remix)",
+        "url": "https://open.spotify.com/album/4ELBi3Egy3cub0EzlJAN4W"
+      },
+      "artists": [
+        {
+          "name": "Jossef",
+          "url": "https://open.spotify.com/artist/7kaC28XGoTp1ViSZAA0iuX"
+        },
+        {
+          "name": "Jamby El Favo",
+          "url": "https://open.spotify.com/artist/128ftF9X7Kd7Di2fq3wYVs"
+        },
+        {
+          "name": "Eix",
+          "url": "https://open.spotify.com/artist/384MqcXCGGFh9UcjI5Tpc5"
+        }
+      ],
+      "duration_ms": 250906,
+      "name": "Persia - Remix",
+      "url": "https://open.spotify.com/track/3SgybTfx3GWHAcjhK9iPmz"
+    },
+    {
+      "added_at": "2023-11-23 17:27:27",
+      "album": {
         "name": "Poblado (Remix)",
         "url": "https://open.spotify.com/album/1avDIEjBJ9ayO1Lj7LxNM7"
       },
@@ -1471,30 +1495,6 @@
       "duration_ms": 192452,
       "name": "Dream Girl - Remix",
       "url": "https://open.spotify.com/track/099tjv6oy2opbpCOA3nBwX"
-    },
-    {
-      "added_at": "2023-11-23 17:27:27",
-      "album": {
-        "name": "Persia (Remix)",
-        "url": "https://open.spotify.com/album/4ELBi3Egy3cub0EzlJAN4W"
-      },
-      "artists": [
-        {
-          "name": "Jossef",
-          "url": "https://open.spotify.com/artist/7kaC28XGoTp1ViSZAA0iuX"
-        },
-        {
-          "name": "Jamby El Favo",
-          "url": "https://open.spotify.com/artist/128ftF9X7Kd7Di2fq3wYVs"
-        },
-        {
-          "name": "Eix",
-          "url": "https://open.spotify.com/artist/384MqcXCGGFh9UcjI5Tpc5"
-        }
-      ],
-      "duration_ms": 250906,
-      "name": "Persia - Remix",
-      "url": "https://open.spotify.com/track/3SgybTfx3GWHAcjhK9iPmz"
     },
     {
       "added_at": "2023-11-23 17:27:27",
@@ -1843,38 +1843,6 @@
     {
       "added_at": "2023-11-23 17:27:27",
       "album": {
-        "name": "Fiel (Remix)",
-        "url": "https://open.spotify.com/album/1jBESH0DEFN7z8WH8B0B5c"
-      },
-      "artists": [
-        {
-          "name": "Wisin",
-          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
-        },
-        {
-          "name": "Jhayco",
-          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
-        },
-        {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
-        },
-        {
-          "name": "Los Legendarios",
-          "url": "https://open.spotify.com/artist/0n6sKrG0xKAf8xmdqeNGke"
-        },
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        }
-      ],
-      "duration_ms": 349546,
-      "name": "Fiel - Remix",
-      "url": "https://open.spotify.com/track/43qcs9NpJhDxtG91zxFkj7"
-    },
-    {
-      "added_at": "2023-11-23 17:27:27",
-      "album": {
         "name": "DJ No Pare (feat. Zion, Dalex, Lenny Tav\u00e1rez) [Remix]",
         "url": "https://open.spotify.com/album/71uU1JDWZ61OMDtW8h1Kp8"
       },
@@ -1907,6 +1875,38 @@
       "duration_ms": 258600,
       "name": "DJ No Pare (feat. Zion, Dalex, Lenny Tav\u00e1rez) - Remix",
       "url": "https://open.spotify.com/track/1ndyl3wJCFs872XZ3ztPk6"
+    },
+    {
+      "added_at": "2023-11-23 17:27:27",
+      "album": {
+        "name": "Fiel (Remix)",
+        "url": "https://open.spotify.com/album/1jBESH0DEFN7z8WH8B0B5c"
+      },
+      "artists": [
+        {
+          "name": "Wisin",
+          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
+        },
+        {
+          "name": "Jhayco",
+          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
+        },
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        },
+        {
+          "name": "Los Legendarios",
+          "url": "https://open.spotify.com/artist/0n6sKrG0xKAf8xmdqeNGke"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "duration_ms": 349546,
+      "name": "Fiel - Remix",
+      "url": "https://open.spotify.com/track/43qcs9NpJhDxtG91zxFkj7"
     },
     {
       "added_at": "2023-11-23 17:27:27",
@@ -1963,34 +1963,6 @@
     {
       "added_at": "2023-11-23 17:27:27",
       "album": {
-        "name": "Mood (Remix) feat. Justin Bieber, J Balvin & iann dior",
-        "url": "https://open.spotify.com/album/4PTxbJPI4jj0Kx8hwr1v0T"
-      },
-      "artists": [
-        {
-          "name": "24kGoldn",
-          "url": "https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z"
-        },
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        },
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        },
-        {
-          "name": "iann dior",
-          "url": "https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS"
-        }
-      ],
-      "duration_ms": 192745,
-      "name": "Mood (Remix) feat. Justin Bieber, J Balvin & iann dior",
-      "url": "https://open.spotify.com/track/6FuGJB290AQMAHTfjOYVaK"
-    },
-    {
-      "added_at": "2023-11-23 17:27:27",
-      "album": {
         "name": "Te Extra\u00f1o a Lo Vio (feat. Balbi El Chamako, Bayron Fire, Bayriton, Tommy Boysen, Gringuitos Records, El Rey) [Remix]",
         "url": "https://open.spotify.com/album/4BbheII9RPkXhHCae8AoM0"
       },
@@ -2035,6 +2007,34 @@
       "duration_ms": 483683,
       "name": "Te Extra\u00f1o a Lo Vio (feat. Balbi El Chamako, Bayron Fire, Bayriton, Tommy Boysen, Gringuitos Records, El Rey) - Remix",
       "url": "https://open.spotify.com/track/6YNzvCsLwAJ4xZjdK9qk3r"
+    },
+    {
+      "added_at": "2023-11-23 17:27:27",
+      "album": {
+        "name": "Mood (Remix) feat. Justin Bieber, J Balvin & iann dior",
+        "url": "https://open.spotify.com/album/4PTxbJPI4jj0Kx8hwr1v0T"
+      },
+      "artists": [
+        {
+          "name": "24kGoldn",
+          "url": "https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z"
+        },
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        },
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "iann dior",
+          "url": "https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS"
+        }
+      ],
+      "duration_ms": 192745,
+      "name": "Mood (Remix) feat. Justin Bieber, J Balvin & iann dior",
+      "url": "https://open.spotify.com/track/6FuGJB290AQMAHTfjOYVaK"
     },
     {
       "added_at": "2023-11-23 17:27:27",
@@ -2091,46 +2091,6 @@
     {
       "added_at": "2023-11-23 17:27:27",
       "album": {
-        "name": "Victory",
-        "url": "https://open.spotify.com/album/6I32dRerwcm3jYRsprxb5k"
-      },
-      "artists": [
-        {
-          "name": "Wisin",
-          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
-        },
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        },
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        },
-        {
-          "name": "De La Ghetto",
-          "url": "https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb"
-        },
-        {
-          "name": "Arc\u00e1ngel",
-          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
-        },
-        {
-          "name": "Noriel",
-          "url": "https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL"
-        },
-        {
-          "name": "Almighty",
-          "url": "https://open.spotify.com/artist/6P6GTRTigHBp8ZesNtpCKH"
-        }
-      ],
-      "duration_ms": 386333,
-      "name": "Esc\u00e1pate Conmigo (feat. Ozuna, Bad Bunny, De La Ghetto, Arc\u00e1ngel, Noriel & Almighty) - Remix",
-      "url": "https://open.spotify.com/track/5YY7ht3PCArlLjLbcTiAvh"
-    },
-    {
-      "added_at": "2023-11-23 17:27:27",
-      "album": {
         "name": "Tra Tra Tra Remix",
         "url": "https://open.spotify.com/album/4TntWxJmNQSZJGcj3ewRBc"
       },
@@ -2151,6 +2111,42 @@
       "duration_ms": 171000,
       "name": "Tra Tra Tra Remix - Remix",
       "url": "https://open.spotify.com/track/4YqCBC4FwzGXuhixt5cgmm"
+    },
+    {
+      "added_at": "2023-11-23 17:27:27",
+      "album": {
+        "name": "Bellaquita (Remix)",
+        "url": "https://open.spotify.com/album/5dXeJdc2hib8JB3Vqon2zB"
+      },
+      "artists": [
+        {
+          "name": "Dalex",
+          "url": "https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn"
+        },
+        {
+          "name": "Lenny Tav\u00e1rez",
+          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
+        },
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        },
+        {
+          "name": "NATTI NATASHA",
+          "url": "https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7"
+        },
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        },
+        {
+          "name": "Justin Quiles",
+          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
+        }
+      ],
+      "duration_ms": 304733,
+      "name": "Bellaquita - Remix",
+      "url": "https://open.spotify.com/track/1Xnn1TPyr5h0hpRAT4B4EA"
     }
   ],
   "unique_name": "Remixes Urbanos",

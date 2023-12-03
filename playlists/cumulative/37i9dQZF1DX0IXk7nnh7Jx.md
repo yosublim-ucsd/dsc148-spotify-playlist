@@ -4,7 +4,7 @@
 
 > Celebrate the spirit of independence by listening to the best songs from faith\-based indie artists\.  Cover: <a href="spotify:artist:5Q8asiEUYLobc6DvKIsqOP">Claudia Isaki</a>
 
-466 songs - 1 day 3 hr 47 min
+467 songs - 1 day 3 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,7 @@
 | [Become](https://open.spotify.com/track/6Q4XaVEXnDEx41osoc32xq) | [Roy Tosh](https://open.spotify.com/artist/7JjM4ZFJffM5vti5m241ye), [Kurtis Hoppie](https://open.spotify.com/artist/2eR1Z2cyHOS4gFgA2GbRl8), [Lynnea](https://open.spotify.com/artist/7f06QWoFAvtpEuho7NEDLN) | [Become](https://open.spotify.com/album/4ZU6yLBB3Mt6ZttIXGsOWO) | 3:11 | 2023-12-01 |  |
 | [Behind The Scenes](https://open.spotify.com/track/1p3jR91C9jx4jSRIYSrYjB) | [One Common](https://open.spotify.com/artist/7C8oYaoYaMU08umRm46EK9) | [One Common](https://open.spotify.com/album/278YubPwMAWUmwQK2AIUDd) | 3:12 | 2023-12-01 |  |
 | [Between The Joy And The Sorrow](https://open.spotify.com/track/5jxbNNre9WDXom2hyJeE2e) | [Ian Yates](https://open.spotify.com/artist/1f4Ai5lRAeK0wameps1zqU) | [Between The Joy And The Sorrow \- Part 2](https://open.spotify.com/album/6wUCazGhDr64fdK4cYogNZ) | 3:22 | 2023-02-24 | 2023-03-16 |
-| [Between The Shadow And The Sun](https://open.spotify.com/track/5Dut0DQ52sPkJjMtNhuWfI) | [Lucy Grimble](https://open.spotify.com/artist/0d0ICZg8jE6D2RkDHCTIVq) | [Between The Shadow and The Sun](https://open.spotify.com/album/1tM7ST2EhCsTxXnIpSqKtH) | 3:52 | 2023-12-01 |  |
+| [Between The Shadow And The Sun](https://open.spotify.com/track/5Dut0DQ52sPkJjMtNhuWfI) | [Lucy Grimble](https://open.spotify.com/artist/0d0ICZg8jE6D2RkDHCTIVq) | [Between The Shadow and The Sun](https://open.spotify.com/album/1tM7ST2EhCsTxXnIpSqKtH) | 3:52 | 2023-12-01 | 2023-12-03 |
 | [Big God](https://open.spotify.com/track/5XrGp2rDnZyJ8WXU9WITJS) | [Marizu](https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9), [Buchi](https://open.spotify.com/artist/2acXp50dMwFs1JGzQUxyiS) | [Big God](https://open.spotify.com/album/1jQxpQTljyULGzQIFzU2PP) | 2:30 | 2023-08-04 |  |
 | [Big God](https://open.spotify.com/track/3vrD1zG1gJeGTkscxOMnO3) | [Terrian](https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP) | [Big God](https://open.spotify.com/album/3neRBcOUW8ZMem3hBAU1u1) | 3:11 | 2023-04-07 |  |
 | [Birds and Beasts](https://open.spotify.com/track/5SBofO5gakfyXJhG4yt6Xv) | [Mountain People Worship](https://open.spotify.com/artist/4PpHP5z3A0xsd2JU09LmDr) | [Birds and Beasts](https://open.spotify.com/album/1dJqFtsolDdhwF4ZMmvOPh) | 4:51 | 2023-12-01 |  |
@@ -399,6 +399,7 @@
 | [Testimony](https://open.spotify.com/track/5aYxzXhFNBdznGlzdEGg8z) | [Mission](https://open.spotify.com/artist/02gxa3HE5O0zBKRjeDh6Ba), [Pastor Mike Jr.](https://open.spotify.com/artist/1aNtFg4D7HdF8jOppyKpUS), [Aaron Cole](https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr) | [Second Wind](https://open.spotify.com/album/6PW0HnPuoe3xRde483kbAr) | 3:00 | 2023-11-03 |  |
 | [Thank You](https://open.spotify.com/track/0l2Y3iQqgDqnuh7qn2tw7d) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [Thank You](https://open.spotify.com/album/4g7lvkjDGen25u25SFNPFV) | 2:24 | 2023-11-03 |  |
 | [Thankful](https://open.spotify.com/track/69q1KdBZVBregb4xdX8XmL) | [Ryce](https://open.spotify.com/artist/0gKR8NI5vgeG9kCyt8q06v), [DJ DENZ The Rooster](https://open.spotify.com/artist/05OAH9fFWOKINDaeJ9N3Pd) | [Thankful](https://open.spotify.com/album/0wGBYAIS4m9j1wDX4RCbyG) | 3:14 | 2023-03-18 | 2023-03-23 |
+| [That Feel](https://open.spotify.com/track/5ujNb0DzpT1oP5M5oyyTmr) | [KMO Shamaal](https://open.spotify.com/artist/3IZpU8rUESdWsLRyfyHZqF) | [That Feel](https://open.spotify.com/album/6P2NFEDWyjEDhj91jjKs8Z) | 2:43 | 2023-12-01 |  |
 | [THAT'S WHAT I BELIEVE](https://open.spotify.com/track/4axmmCsHDChtKd2JdnD3OL) | [TEMITOPE](https://open.spotify.com/artist/2YrmP8ksRyeEVkzYp5to25) | [THAT'S WHAT I BELIEVE](https://open.spotify.com/album/0qKj76842Qf6U8uFYD8KZW) | 4:22 | 2023-02-19 | 2023-10-13 |
 | [That's What I Call Free](https://open.spotify.com/track/3siXfTF5Czys5WTvyeYMSY) | [Mas](https://open.spotify.com/artist/3f7sxX5HfXXiD3DvLm0CWm) | [Songs of the Silent Years](https://open.spotify.com/album/26yAYOcyHYielXh4JTlubc) | 3:51 | 2020-12-18 | 2022-07-29 |
 | [The Author](https://open.spotify.com/track/5kerGo1eZ5DUBvas9pPlvp) | [Albert Posis](https://open.spotify.com/artist/4bNOdxc26omK0xR7FPucJn) | [The Author](https://open.spotify.com/album/7edUmzYfGRHLXtnkbJn68O) | 3:18 | 2023-04-21 | 2023-04-29 |

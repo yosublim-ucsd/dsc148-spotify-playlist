@@ -1,12 +1,12 @@
 {
   "description": "Hop in.",
-  "num_followers": 1059083,
+  "num_followers": 1059138,
   "original_name": "Indie Rock Road Trip",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNTYxYmI4MmIzY2UzOWRmZjdkMWY3YzMxOWEzMjA4MzFkYzQ0M2Y4",
+  "snapshot_id": "MCw1ODk0ZGIwMWUyYzY4MDczMmRkNTBhMmE5ZWQ4MjkyMmZjMzk0ZjJk",
   "tracks": [
     {
       "added_at": "2023-09-29 19:49:08",
@@ -411,22 +411,6 @@
     {
       "added_at": "2023-09-29 19:49:08",
       "album": {
-        "name": "Brothers",
-        "url": "https://open.spotify.com/album/7qE6RXYyz5kj5Tll7mJU0v"
-      },
-      "artists": [
-        {
-          "name": "The Black Keys",
-          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
-        }
-      ],
-      "duration_ms": 191800,
-      "name": "Howlin' for You",
-      "url": "https://open.spotify.com/track/0grFc6klR3hxoHLcgCYsF4"
-    },
-    {
-      "added_at": "2023-09-29 19:49:08",
-      "album": {
         "name": "How Will You Know If You Never Try",
         "url": "https://open.spotify.com/album/4TJUrdwbeKC9qcouPlBuLe"
       },
@@ -459,6 +443,22 @@
     {
       "added_at": "2023-09-29 19:49:08",
       "album": {
+        "name": "Brothers",
+        "url": "https://open.spotify.com/album/7qE6RXYyz5kj5Tll7mJU0v"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "duration_ms": 191800,
+      "name": "Howlin' for You",
+      "url": "https://open.spotify.com/track/0grFc6klR3hxoHLcgCYsF4"
+    },
+    {
+      "added_at": "2023-09-29 19:49:08",
+      "album": {
         "name": "Lonesome Dreams (Bonus Track Version)",
         "url": "https://open.spotify.com/album/0AG1T3Wbq7TnYMItBqXp2c"
       },
@@ -475,22 +475,6 @@
     {
       "added_at": "2023-09-29 19:49:08",
       "album": {
-        "name": "Wolfgang Amadeus Phoenix",
-        "url": "https://open.spotify.com/album/0xG5b9nkWxKc5VTpo6Fq5I"
-      },
-      "artists": [
-        {
-          "name": "Phoenix",
-          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
-        }
-      ],
-      "duration_ms": 241640,
-      "name": "Lisztomania",
-      "url": "https://open.spotify.com/track/7fmJGzyvOcbh6UANsH8Cp6"
-    },
-    {
-      "added_at": "2023-09-29 19:49:08",
-      "album": {
         "name": "This Is All Yours",
         "url": "https://open.spotify.com/album/4oktVvRuO1In9B7Hz0xm0a"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 173630,
       "name": "Left Hand Free",
       "url": "https://open.spotify.com/track/4iEOVEULZRvmzYSZY2ViKN"
+    },
+    {
+      "added_at": "2023-09-29 19:49:08",
+      "album": {
+        "name": "Wolfgang Amadeus Phoenix",
+        "url": "https://open.spotify.com/album/0xG5b9nkWxKc5VTpo6Fq5I"
+      },
+      "artists": [
+        {
+          "name": "Phoenix",
+          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
+        }
+      ],
+      "duration_ms": 241640,
+      "name": "Lisztomania",
+      "url": "https://open.spotify.com/track/7fmJGzyvOcbh6UANsH8Cp6"
     },
     {
       "added_at": "2023-09-29 19:49:08",
@@ -687,22 +687,6 @@
     {
       "added_at": "2023-09-29 19:49:08",
       "album": {
-        "name": "Wincing The Night Away",
-        "url": "https://open.spotify.com/album/4Tm0dXi3s3aSAqng2DACHr"
-      },
-      "artists": [
-        {
-          "name": "The Shins",
-          "url": "https://open.spotify.com/artist/4LG4Bs1Gadht7TCrMytQUO"
-        }
-      ],
-      "duration_ms": 236711,
-      "name": "Australia",
-      "url": "https://open.spotify.com/track/47TQjzeG4KI0XWWb0wkbri"
-    },
-    {
-      "added_at": "2023-09-29 19:49:08",
-      "album": {
         "name": "The Suburbs (Deluxe)",
         "url": "https://open.spotify.com/album/0gkUcpkyW2SXN49Yktkf6F"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 315026,
       "name": "The Suburbs",
       "url": "https://open.spotify.com/track/5iItYl3Q6wCnKVfpK1uNVf"
+    },
+    {
+      "added_at": "2023-09-29 19:49:08",
+      "album": {
+        "name": "Wincing The Night Away",
+        "url": "https://open.spotify.com/album/4Tm0dXi3s3aSAqng2DACHr"
+      },
+      "artists": [
+        {
+          "name": "The Shins",
+          "url": "https://open.spotify.com/artist/4LG4Bs1Gadht7TCrMytQUO"
+        }
+      ],
+      "duration_ms": 236711,
+      "name": "Australia",
+      "url": "https://open.spotify.com/track/47TQjzeG4KI0XWWb0wkbri"
     },
     {
       "added_at": "2023-09-29 19:49:08",
@@ -827,22 +827,6 @@
     {
       "added_at": "2023-09-29 19:49:08",
       "album": {
-        "name": "Funeral",
-        "url": "https://open.spotify.com/album/6ZB8qaR9JNuS0Q0bG1nbcH"
-      },
-      "artists": [
-        {
-          "name": "Arcade Fire",
-          "url": "https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB"
-        }
-      ],
-      "duration_ms": 335333,
-      "name": "Wake Up",
-      "url": "https://open.spotify.com/track/6Hmj7SrLRbreLVfVS7mV1S"
-    },
-    {
-      "added_at": "2023-09-29 19:49:08",
-      "album": {
         "name": "Inside In / Inside Out",
         "url": "https://open.spotify.com/album/4MhInH4XT7ReDV5fCZjaSz"
       },
@@ -859,18 +843,18 @@
     {
       "added_at": "2023-09-29 19:49:08",
       "album": {
-        "name": "Sure Sure",
-        "url": "https://open.spotify.com/album/7EfgATnOllXJ96s4sSdzei"
+        "name": "Funeral",
+        "url": "https://open.spotify.com/album/6ZB8qaR9JNuS0Q0bG1nbcH"
       },
       "artists": [
         {
-          "name": "Sure Sure",
-          "url": "https://open.spotify.com/artist/1anAI9P9iSzc9qzLv6AtHZ"
+          "name": "Arcade Fire",
+          "url": "https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB"
         }
       ],
-      "duration_ms": 219260,
-      "name": "This Must Be The Place",
-      "url": "https://open.spotify.com/track/6PuoZT4kgw5DrUEdnQ6e01"
+      "duration_ms": 335333,
+      "name": "Wake Up",
+      "url": "https://open.spotify.com/track/6Hmj7SrLRbreLVfVS7mV1S"
     },
     {
       "added_at": "2023-09-29 19:49:08",
@@ -887,6 +871,22 @@
       "duration_ms": 354360,
       "name": "Lazy Eye",
       "url": "https://open.spotify.com/track/1aDLUzCyYpRXgrjwUWzV2X"
+    },
+    {
+      "added_at": "2023-09-29 19:49:08",
+      "album": {
+        "name": "Sure Sure",
+        "url": "https://open.spotify.com/album/7EfgATnOllXJ96s4sSdzei"
+      },
+      "artists": [
+        {
+          "name": "Sure Sure",
+          "url": "https://open.spotify.com/artist/1anAI9P9iSzc9qzLv6AtHZ"
+        }
+      ],
+      "duration_ms": 219260,
+      "name": "This Must Be The Place",
+      "url": "https://open.spotify.com/track/6PuoZT4kgw5DrUEdnQ6e01"
     },
     {
       "added_at": "2023-09-29 19:49:08",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2023-09-29 19:49:08",
       "album": {
-        "name": "Heza",
-        "url": "https://open.spotify.com/album/0LLfUIR0CcQX2YqlqiyJ1V"
-      },
-      "artists": [
-        {
-          "name": "Generationals",
-          "url": "https://open.spotify.com/artist/57MtJQ6Sc4tIxrXIhrqVJL"
-        }
-      ],
-      "duration_ms": 224933,
-      "name": "Put a Light On",
-      "url": "https://open.spotify.com/track/1M8HqdQbTxkUn1NaY6329V"
-    },
-    {
-      "added_at": "2023-09-29 19:49:08",
-      "album": {
         "name": "Hey u x",
         "url": "https://open.spotify.com/album/4KKRAmQ0ksj32l7mrgLOcF"
       },
@@ -1131,18 +1115,18 @@
     {
       "added_at": "2023-09-29 19:49:08",
       "album": {
-        "name": "Landmark",
-        "url": "https://open.spotify.com/album/0vb1g018puu47StlIi9wxC"
+        "name": "Heza",
+        "url": "https://open.spotify.com/album/0LLfUIR0CcQX2YqlqiyJ1V"
       },
       "artists": [
         {
-          "name": "Hippo Campus",
-          "url": "https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A"
+          "name": "Generationals",
+          "url": "https://open.spotify.com/artist/57MtJQ6Sc4tIxrXIhrqVJL"
         }
       ],
-      "duration_ms": 245456,
-      "name": "Way It Goes",
-      "url": "https://open.spotify.com/track/6CES1554HcWMIVroJfmmBm"
+      "duration_ms": 224933,
+      "name": "Put a Light On",
+      "url": "https://open.spotify.com/track/1M8HqdQbTxkUn1NaY6329V"
     },
     {
       "added_at": "2023-09-29 19:49:08",
@@ -1159,6 +1143,22 @@
       "duration_ms": 198040,
       "name": "The Ghost Inside",
       "url": "https://open.spotify.com/track/32fmQsWSAaDas2MJRyMSGG"
+    },
+    {
+      "added_at": "2023-09-29 19:49:08",
+      "album": {
+        "name": "Landmark",
+        "url": "https://open.spotify.com/album/0vb1g018puu47StlIi9wxC"
+      },
+      "artists": [
+        {
+          "name": "Hippo Campus",
+          "url": "https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A"
+        }
+      ],
+      "duration_ms": 245456,
+      "name": "Way It Goes",
+      "url": "https://open.spotify.com/track/6CES1554HcWMIVroJfmmBm"
     },
     {
       "added_at": "2023-09-29 19:49:08",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ArBUudJwM5.md) - [plain]
 
 > Mujeres que la rompieron en 2023\. Foto: Ivonne Guzmán
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,842 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,849 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,11 +24,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ArBUudJwM5.md) - [plain]
 | 14 | [No Lo Pienses Más](https://open.spotify.com/track/2BEtgwvbkVk5voukOuRdX5) | [Luz Gaggi](https://open.spotify.com/artist/5wKQ8RnelEGULisF5rlbtm) | [No Lo Pienses Más](https://open.spotify.com/album/71rAPDZUaJKAcQM19wweYK) | 2:51 |
 | 15 | [LÁ LÁ](https://open.spotify.com/track/3OLstixS9sFsb9LsMM7Tio) | [Marilina Bertoldi](https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy) | [LÁ LÁ](https://open.spotify.com/album/2MquiHZvoqA5HwAh6NTz0x) | 2:44 |
 | 16 | [Si Me Duele Que Duela](https://open.spotify.com/track/5iDW3YN3foLkUzdK9mAAvk) | [Valentina](https://open.spotify.com/artist/3oGhssL7pwYYY0J64HJHNR) | [Si Me Duele Que Duela](https://open.spotify.com/album/6gnumXyZdCKbpx7fmkBXuo) | 2:39 |
-| 17 | [Quiéreme \- Cuarteto](https://open.spotify.com/track/16TVpC45y7WRr5jRxyXWxc) | [Angela Leiva](https://open.spotify.com/artist/6Y4g5zwJI7jcRzGLXh0H5d), [Magui Olave](https://open.spotify.com/artist/1kfrmHoRbXekpUf2iM6zBE) | [Quiéreme \(Cuarteto\)](https://open.spotify.com/album/4dwtcMOGdBahKQSUk6sgaU) | 5:36 |
-| 18 | [Los Paisajes](https://open.spotify.com/track/6EraKvLemUTpusIFpGdPTn) | [Soledad](https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY) | [Natural](https://open.spotify.com/album/6vmXyjSgcNzzi7Zd1ikhvx) | 3:58 |
-| 19 | [Te Vas](https://open.spotify.com/track/2idbEBZxsGaKM4QxzShgd2) | [Sele Vera y Pampas de Bariloche](https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM) | [Te Vas](https://open.spotify.com/album/4SOIv6vtvF8rLywEiQzYmg) | 2:10 |
-| 20 | [La Araña](https://open.spotify.com/track/0V8rl5jHgjdhglRjpG7cbj) | [j mena](https://open.spotify.com/artist/6iYRN5eaz8LSxvwkhmwkRj) | [Mala Sangre](https://open.spotify.com/album/2wrjRXAX0alWHtCiwYGYG7) | 2:29 |
-| 21 | [Tengo](https://open.spotify.com/track/5tABEw4BVt9ImybrG0bHYE) | [Yami Safdie](https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp) | [SUR](https://open.spotify.com/album/3sjAEWf2QbTLsJZ93YSWVA) | 2:21 |
+| 17 | [Tengo](https://open.spotify.com/track/5tABEw4BVt9ImybrG0bHYE) | [Yami Safdie](https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp) | [SUR](https://open.spotify.com/album/3sjAEWf2QbTLsJZ93YSWVA) | 2:21 |
+| 18 | [Quiéreme \- Cuarteto](https://open.spotify.com/track/16TVpC45y7WRr5jRxyXWxc) | [Angela Leiva](https://open.spotify.com/artist/6Y4g5zwJI7jcRzGLXh0H5d), [Magui Olave](https://open.spotify.com/artist/1kfrmHoRbXekpUf2iM6zBE) | [Quiéreme \(Cuarteto\)](https://open.spotify.com/album/4dwtcMOGdBahKQSUk6sgaU) | 5:36 |
+| 19 | [Los Paisajes](https://open.spotify.com/track/6EraKvLemUTpusIFpGdPTn) | [Soledad](https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY) | [Natural](https://open.spotify.com/album/6vmXyjSgcNzzi7Zd1ikhvx) | 3:58 |
+| 20 | [Te Vas](https://open.spotify.com/track/2idbEBZxsGaKM4QxzShgd2) | [Sele Vera y Pampas de Bariloche](https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM) | [Te Vas](https://open.spotify.com/album/4SOIv6vtvF8rLywEiQzYmg) | 2:10 |
+| 21 | [La Araña](https://open.spotify.com/track/0V8rl5jHgjdhglRjpG7cbj) | [j mena](https://open.spotify.com/artist/6iYRN5eaz8LSxvwkhmwkRj) | [Mala Sangre](https://open.spotify.com/album/2wrjRXAX0alWHtCiwYGYG7) | 2:29 |
 | 22 | [Entrégate](https://open.spotify.com/track/5ZDQSDUVyBDesqJxWrWsnv) | [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS) | [Entrégate](https://open.spotify.com/album/72cfqHGrPSyunjF29CPcF4) | 3:11 |
 | 23 | [CHROME](https://open.spotify.com/track/3ufGWBFuPdZ2ckUF7hLIL8) | [Saramalacara](https://open.spotify.com/artist/3QchzUOTSCKWmaRGEEiuir), [dayvan](https://open.spotify.com/artist/1eTInlBizrAteaACHeE85y), [Evar](https://open.spotify.com/artist/0YWTSwecJ4cKrEQjrh46la) | [CHROME](https://open.spotify.com/album/4bZaL9GsAnNFPJ1y10JIbG) | 2:40 |
 | 24 | [Desaniversario](https://open.spotify.com/track/41XoV9JteU1gs49l71pr4o) | [La China](https://open.spotify.com/artist/7fRUttEpuIdM0JzPaCMwVO) | [Desaniversario](https://open.spotify.com/album/222BIV6PsPK1iliAOnXqdx) | 2:38 |
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ArBUudJwM5.md) - [plain]
 | 43 | [No va a pasar](https://open.spotify.com/track/5X6u72qVyFS6O5tsnBIlnO) | [ODD MAMI](https://open.spotify.com/artist/2Y6AtL4xQFvg8nroRM3ZV6) | [Ultra](https://open.spotify.com/album/2WQ0t4lLQINzhFzD74bODS) | 3:31 |
 | 44 | [me canse de las canciones de amor](https://open.spotify.com/track/1bAqJhVVywzcbt1keh5m6m) | [Lara91k](https://open.spotify.com/artist/2zPvDg6LI6NHPQVQIESjfW) | [ROMANCE MIXTAPE 2](https://open.spotify.com/album/0seBnIfzhEIp9o4sSQA8dk) | 1:31 |
 | 45 | [La Segunda de Nadie](https://open.spotify.com/track/6FjkffGC2bgqvWYAKtYYuY) | [Rocío Quiroz](https://open.spotify.com/artist/43PjjBbR7LawCx75hCbLmn) | [La Segunda de Nadie](https://open.spotify.com/album/0abOnKTYQrA5blXmG0Z6nU) | 2:26 |
-| 46 | [Vivir Así es Morir de Amor](https://open.spotify.com/track/0HVrDDFkkaAxSdJ9CiCnrW) | [Gladys "La bomba tucumana"](https://open.spotify.com/artist/09jut908wvFm55SqnO4DN3) | [Vivir Así es Morir de Amor](https://open.spotify.com/album/60X0LHhFAjc9DBPPyRwDJq) | 3:33 |
-| 47 | [Cuando Sea Grande](https://open.spotify.com/track/5QHMeQzf99dGl2WwTqiOu0) | [Mora Navarro](https://open.spotify.com/artist/1TVta41xrglUQxVheaXZJx) | [Cuando Sea Grande](https://open.spotify.com/album/6JVKbotUObykq6GfLYcVJL) | 2:27 |
+| 46 | [Cuando Sea Grande](https://open.spotify.com/track/5QHMeQzf99dGl2WwTqiOu0) | [Mora Navarro](https://open.spotify.com/artist/1TVta41xrglUQxVheaXZJx) | [Cuando Sea Grande](https://open.spotify.com/album/6JVKbotUObykq6GfLYcVJL) | 2:27 |
+| 47 | [Vivir Así es Morir de Amor](https://open.spotify.com/track/0HVrDDFkkaAxSdJ9CiCnrW) | [Gladys "La bomba tucumana"](https://open.spotify.com/artist/09jut908wvFm55SqnO4DN3) | [Vivir Así es Morir de Amor](https://open.spotify.com/album/60X0LHhFAjc9DBPPyRwDJq) | 3:33 |
 | 48 | [Nada Salvaje \(En Vivo Estadio Obras\)](https://open.spotify.com/track/0DfthOJSUZ8rpJ0MDYp4vt) | [Eruca Sativa](https://open.spotify.com/artist/2RPNbhguRnI9uqahGYcUc6), [Marilina Bertoldi](https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy) | [XV Años \- En Vivo Estadio Obras](https://open.spotify.com/album/7unx0aGfSv4shjF38D3qwX) | 5:04 |
 | 49 | [Cream Hot](https://open.spotify.com/track/54n8e8ov3mn1WnuNlKUYiV) | [Sara Hebe](https://open.spotify.com/artist/4pFUriuYqqAmBCvqF9o6LW), [La Finesse](https://open.spotify.com/artist/3xV8oWG5BKYU2LXVxS779A) | [Beivip](https://open.spotify.com/album/1pxnHWYPK67qato4SYjNut) | 2:55 |
 | 50 | [Dime Si \- remix](https://open.spotify.com/track/0loFeCW1BOS6hclCR34I84) | [Mimi Maura](https://open.spotify.com/artist/4VKHNaUBImLsxPOCdG5Mwl) | [Dime Si \(remix\)](https://open.spotify.com/album/6dhowGbbDriIPxZLZuisVO) | 4:14 |
 
-Snapshot ID: `MCw3NmNkZWNlZTRlYWVkOWNlMWJhNzMxMWYwOGFkOTdjNzFiNjM3OWEz`
+Snapshot ID: `MCw5ODNiMmFiOTBlODU3MmEzY2ZkZGY2MDMyMjhlZmIxNzQyNWE0YzQ4`

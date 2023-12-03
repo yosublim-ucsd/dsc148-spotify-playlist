@@ -1,12 +1,12 @@
 {
   "description": "Clock in from the comfort of your own home and let the music carry you through the day.",
-  "num_followers": 935869,
+  "num_followers": 935874,
   "original_name": "Work From Home",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMjA4OWU2YzM1MWQ1ODNkYTZiNDYzOGJhNTYwYmE0ZmJkNjgxYzY4",
+  "snapshot_id": "MCwzMTBjZjhmNGNmNzg3OWUxNzNkNmJmNGEwN2Y3OGZlYTk2OWFiNTc1",
   "tracks": [
     {
       "added_at": "2023-11-15 01:16:57",
@@ -271,6 +271,22 @@
     {
       "added_at": "2023-11-15 01:16:57",
       "album": {
+        "name": "folklore",
+        "url": "https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 210251,
+      "name": "the 1",
+      "url": "https://open.spotify.com/track/0Jlcvv8IykzHaSmj49uNW8"
+    },
+    {
+      "added_at": "2023-11-15 01:16:57",
+      "album": {
         "name": "Stuck with U",
         "url": "https://open.spotify.com/album/5mUdh6YWnUvf0MfklEk1oi"
       },
@@ -287,22 +303,6 @@
       "duration_ms": 228482,
       "name": "Stuck with U (with Justin Bieber)",
       "url": "https://open.spotify.com/track/4HBZA5flZLE435QTztThqH"
-    },
-    {
-      "added_at": "2023-11-15 01:16:57",
-      "album": {
-        "name": "folklore",
-        "url": "https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 210251,
-      "name": "the 1",
-      "url": "https://open.spotify.com/track/0Jlcvv8IykzHaSmj49uNW8"
     },
     {
       "added_at": "2023-11-15 01:16:57",
@@ -591,6 +591,22 @@
     {
       "added_at": "2023-11-15 01:16:57",
       "album": {
+        "name": "Put Your Records On",
+        "url": "https://open.spotify.com/album/6K7559pAYrNCJwsv1uIIK7"
+      },
+      "artists": [
+        {
+          "name": "Ritt Momney",
+          "url": "https://open.spotify.com/artist/7MPGCB854Qo4alYMOPkBka"
+        }
+      ],
+      "duration_ms": 210463,
+      "name": "Put Your Records On",
+      "url": "https://open.spotify.com/track/6AGOKlMZWLCaEJGnaROtF9"
+    },
+    {
+      "added_at": "2023-11-15 01:16:57",
+      "album": {
         "name": "Good Good",
         "url": "https://open.spotify.com/album/42dnGUpj3OEU4anDNW69j3"
       },
@@ -611,22 +627,6 @@
       "duration_ms": 247100,
       "name": "Good Good",
       "url": "https://open.spotify.com/track/0J1YRLYhTG1MBosjidD7OI"
-    },
-    {
-      "added_at": "2023-11-15 01:16:57",
-      "album": {
-        "name": "Put Your Records On",
-        "url": "https://open.spotify.com/album/6K7559pAYrNCJwsv1uIIK7"
-      },
-      "artists": [
-        {
-          "name": "Ritt Momney",
-          "url": "https://open.spotify.com/artist/7MPGCB854Qo4alYMOPkBka"
-        }
-      ],
-      "duration_ms": 210463,
-      "name": "Put Your Records On",
-      "url": "https://open.spotify.com/track/6AGOKlMZWLCaEJGnaROtF9"
     },
     {
       "added_at": "2023-11-15 01:16:57",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2023-11-15 01:16:57",
       "album": {
-        "name": "(Un)Commentary",
-        "url": "https://open.spotify.com/album/5Wvcnn5547f6xz8F9Kz6rO"
-      },
-      "artists": [
-        {
-          "name": "Alec Benjamin",
-          "url": "https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov"
-        }
-      ],
-      "duration_ms": 164396,
-      "name": "Older",
-      "url": "https://open.spotify.com/track/7JSSJf4TcJDv8KL6UO8FGH"
-    },
-    {
-      "added_at": "2023-11-15 01:16:57",
-      "album": {
         "name": "Smile",
         "url": "https://open.spotify.com/album/47zMF6LrXQ8odi6Xv1unC0"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 223297,
       "name": "Never Really Over",
       "url": "https://open.spotify.com/track/1IIV8jglA0klVZy17q665k"
+    },
+    {
+      "added_at": "2023-11-15 01:16:57",
+      "album": {
+        "name": "(Un)Commentary",
+        "url": "https://open.spotify.com/album/5Wvcnn5547f6xz8F9Kz6rO"
+      },
+      "artists": [
+        {
+          "name": "Alec Benjamin",
+          "url": "https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov"
+        }
+      ],
+      "duration_ms": 164396,
+      "name": "Older",
+      "url": "https://open.spotify.com/track/7JSSJf4TcJDv8KL6UO8FGH"
     },
     {
       "added_at": "2023-11-15 01:16:57",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2023-11-15 01:16:57",
       "album": {
-        "name": "House On Fire",
-        "url": "https://open.spotify.com/album/4zZ3DDacL1IvmaozxYEGuL"
-      },
-      "artists": [
-        {
-          "name": "Mimi Webb",
-          "url": "https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz"
-        }
-      ],
-      "duration_ms": 140803,
-      "name": "House On Fire",
-      "url": "https://open.spotify.com/track/2iHsdUnmKGIuc9oRE3DfgJ"
-    },
-    {
-      "added_at": "2023-11-15 01:16:57",
-      "album": {
         "name": "Gold Rush Kid",
         "url": "https://open.spotify.com/album/5RaDlk1pjOFSfcGDurH62z"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 194275,
       "name": "Dance All Over Me",
       "url": "https://open.spotify.com/track/4gIDvFHsqRsniD9JngIVCL"
+    },
+    {
+      "added_at": "2023-11-15 01:16:57",
+      "album": {
+        "name": "House On Fire",
+        "url": "https://open.spotify.com/album/4zZ3DDacL1IvmaozxYEGuL"
+      },
+      "artists": [
+        {
+          "name": "Mimi Webb",
+          "url": "https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz"
+        }
+      ],
+      "duration_ms": 140803,
+      "name": "House On Fire",
+      "url": "https://open.spotify.com/track/2iHsdUnmKGIuc9oRE3DfgJ"
     },
     {
       "added_at": "2023-11-15 01:16:57",
@@ -1639,22 +1639,6 @@
     {
       "added_at": "2023-11-15 01:16:57",
       "album": {
-        "name": "Glad You Exist",
-        "url": "https://open.spotify.com/album/4z2eVLzV0UxLc2O4VZMIjV"
-      },
-      "artists": [
-        {
-          "name": "Dan + Shay",
-          "url": "https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T"
-        }
-      ],
-      "duration_ms": 144533,
-      "name": "Glad You Exist",
-      "url": "https://open.spotify.com/track/472vIK1ldetTxRxG3ovaiY"
-    },
-    {
-      "added_at": "2023-11-15 01:16:57",
-      "album": {
         "name": "Be The One (with Khalid)",
         "url": "https://open.spotify.com/album/1K1Tr5tlgU8aCfijFih1zf"
       },
@@ -1675,6 +1659,22 @@
     {
       "added_at": "2023-11-15 01:16:57",
       "album": {
+        "name": "Glad You Exist",
+        "url": "https://open.spotify.com/album/4z2eVLzV0UxLc2O4VZMIjV"
+      },
+      "artists": [
+        {
+          "name": "Dan + Shay",
+          "url": "https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T"
+        }
+      ],
+      "duration_ms": 144533,
+      "name": "Glad You Exist",
+      "url": "https://open.spotify.com/track/472vIK1ldetTxRxG3ovaiY"
+    },
+    {
+      "added_at": "2023-11-15 01:16:57",
+      "album": {
         "name": "these words are all for you",
         "url": "https://open.spotify.com/album/2N9lFXoevPmnTNr8KhK5PS"
       },
@@ -1687,6 +1687,22 @@
       "duration_ms": 182187,
       "name": "wish you well",
       "url": "https://open.spotify.com/track/1Y3Lv6ul3BeSQltSAfwZdo"
+    },
+    {
+      "added_at": "2023-11-15 01:16:57",
+      "album": {
+        "name": "5SOS5",
+        "url": "https://open.spotify.com/album/6aPyqaE53xagYyLIYZjB1e"
+      },
+      "artists": [
+        {
+          "name": "5 Seconds of Summer",
+          "url": "https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy"
+        }
+      ],
+      "duration_ms": 147744,
+      "name": "BLENDER",
+      "url": "https://open.spotify.com/track/5bV5ro4rvBpgxo7nAeveiT"
     },
     {
       "added_at": "2023-11-15 01:16:57",
@@ -1727,22 +1743,6 @@
     {
       "added_at": "2023-11-15 01:16:57",
       "album": {
-        "name": "5SOS5",
-        "url": "https://open.spotify.com/album/6aPyqaE53xagYyLIYZjB1e"
-      },
-      "artists": [
-        {
-          "name": "5 Seconds of Summer",
-          "url": "https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy"
-        }
-      ],
-      "duration_ms": 147744,
-      "name": "BLENDER",
-      "url": "https://open.spotify.com/track/5bV5ro4rvBpgxo7nAeveiT"
-    },
-    {
-      "added_at": "2023-11-15 01:16:57",
-      "album": {
         "name": "ROOM FOR 2",
         "url": "https://open.spotify.com/album/51XyM5nK6zGwa4hWNNMmSz"
       },
@@ -1755,26 +1755,6 @@
       "duration_ms": 151500,
       "name": "ROOM FOR 2",
       "url": "https://open.spotify.com/track/7wfxf9QXBIWgBx1aG5QWhR"
-    },
-    {
-      "added_at": "2023-11-15 01:16:57",
-      "album": {
-        "name": "Call on me (feat. Ed Sheeran)",
-        "url": "https://open.spotify.com/album/23uCYiDGcfNkrKbGAfMTLx"
-      },
-      "artists": [
-        {
-          "name": "Vianney",
-          "url": "https://open.spotify.com/artist/4Nrd0CtP8txoQhnnlRA6V6"
-        },
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 200706,
-      "name": "Call on me (feat. Ed Sheeran)",
-      "url": "https://open.spotify.com/track/2RO4aPByijQUqBZhYm1apz"
     },
     {
       "added_at": "2023-11-15 01:16:57",
@@ -1795,6 +1775,26 @@
       "duration_ms": 161146,
       "name": "In The Dark (with Jhen\u00e9 Aiko)",
       "url": "https://open.spotify.com/track/0zaoWwS8RpE3LSDdmkg8TC"
+    },
+    {
+      "added_at": "2023-11-15 01:16:57",
+      "album": {
+        "name": "Call on me (feat. Ed Sheeran)",
+        "url": "https://open.spotify.com/album/23uCYiDGcfNkrKbGAfMTLx"
+      },
+      "artists": [
+        {
+          "name": "Vianney",
+          "url": "https://open.spotify.com/artist/4Nrd0CtP8txoQhnnlRA6V6"
+        },
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 200706,
+      "name": "Call on me (feat. Ed Sheeran)",
+      "url": "https://open.spotify.com/track/2RO4aPByijQUqBZhYm1apz"
     },
     {
       "added_at": "2023-11-15 01:16:57",
@@ -1975,22 +1975,6 @@
     {
       "added_at": "2023-11-15 01:16:57",
       "album": {
-        "name": "The Dumb Song",
-        "url": "https://open.spotify.com/album/1W2Srir1JwdyDQMrN66CF5"
-      },
-      "artists": [
-        {
-          "name": "AJR",
-          "url": "https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C"
-        }
-      ],
-      "duration_ms": 225946,
-      "name": "The Dumb Song",
-      "url": "https://open.spotify.com/track/5udkv8BEG1sAN5ZtR6CAzv"
-    },
-    {
-      "added_at": "2023-11-15 01:16:57",
-      "album": {
         "name": "Bridges",
         "url": "https://open.spotify.com/album/4Qw1soNFVQu96dlP7yDBSO"
       },
@@ -2003,6 +1987,22 @@
       "duration_ms": 212950,
       "name": "Cross Your Mind",
       "url": "https://open.spotify.com/track/5sPaFuUttXaGeMhq1HKJG5"
+    },
+    {
+      "added_at": "2023-11-15 01:16:57",
+      "album": {
+        "name": "The Dumb Song",
+        "url": "https://open.spotify.com/album/1W2Srir1JwdyDQMrN66CF5"
+      },
+      "artists": [
+        {
+          "name": "AJR",
+          "url": "https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C"
+        }
+      ],
+      "duration_ms": 225946,
+      "name": "The Dumb Song",
+      "url": "https://open.spotify.com/track/5udkv8BEG1sAN5ZtR6CAzv"
     },
     {
       "added_at": "2023-11-15 01:16:57",
@@ -2199,22 +2199,6 @@
     {
       "added_at": "2023-11-15 01:16:57",
       "album": {
-        "name": "When I Get There",
-        "url": "https://open.spotify.com/album/7JlQ5Gfci8WZDHIKdmFl1G"
-      },
-      "artists": [
-        {
-          "name": "P!nk",
-          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
-        }
-      ],
-      "duration_ms": 200173,
-      "name": "When I Get There",
-      "url": "https://open.spotify.com/track/74d3yEyNl807mtzttoKTbK"
-    },
-    {
-      "added_at": "2023-11-15 01:16:57",
-      "album": {
         "name": "How Long Do You Think It's Gonna Last?",
         "url": "https://open.spotify.com/album/3YbMxdapL6mvSQjosFkc0T"
       },
@@ -2231,6 +2215,22 @@
       "duration_ms": 330066,
       "name": "Birch",
       "url": "https://open.spotify.com/track/7wo2UNeQBowm28hfAJsEMz"
+    },
+    {
+      "added_at": "2023-11-15 01:16:57",
+      "album": {
+        "name": "When I Get There",
+        "url": "https://open.spotify.com/album/7JlQ5Gfci8WZDHIKdmFl1G"
+      },
+      "artists": [
+        {
+          "name": "P!nk",
+          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
+        }
+      ],
+      "duration_ms": 200173,
+      "name": "When I Get There",
+      "url": "https://open.spotify.com/track/74d3yEyNl807mtzttoKTbK"
     },
     {
       "added_at": "2023-11-15 01:16:57",
@@ -2423,22 +2423,6 @@
     {
       "added_at": "2023-11-15 01:16:57",
       "album": {
-        "name": "I Don't Miss You",
-        "url": "https://open.spotify.com/album/6ozapqxYdXe9uMaMfB6UZp"
-      },
-      "artists": [
-        {
-          "name": "JP Saxe",
-          "url": "https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe"
-        }
-      ],
-      "duration_ms": 217133,
-      "name": "I Don't Miss You",
-      "url": "https://open.spotify.com/track/3q9zwhKPHiUh8zVZ4sI5qs"
-    },
-    {
-      "added_at": "2023-11-15 01:16:57",
-      "album": {
         "name": "A LOT",
         "url": "https://open.spotify.com/album/4XGzDdMJjki0kKTPbrnD3j"
       },
@@ -2451,6 +2435,22 @@
       "duration_ms": 181945,
       "name": "A LOT",
       "url": "https://open.spotify.com/track/1cRY1p6f4k8B1fGt7hnP5H"
+    },
+    {
+      "added_at": "2023-11-15 01:16:57",
+      "album": {
+        "name": "I Don't Miss You",
+        "url": "https://open.spotify.com/album/6ozapqxYdXe9uMaMfB6UZp"
+      },
+      "artists": [
+        {
+          "name": "JP Saxe",
+          "url": "https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe"
+        }
+      ],
+      "duration_ms": 217133,
+      "name": "I Don't Miss You",
+      "url": "https://open.spotify.com/track/3q9zwhKPHiUh8zVZ4sI5qs"
     },
     {
       "added_at": "2023-11-15 01:16:57",
@@ -2487,22 +2487,6 @@
     {
       "added_at": "2023-11-15 01:16:57",
       "album": {
-        "name": "Waking Up Dreaming",
-        "url": "https://open.spotify.com/album/7GFyc7OOv95UntmgAPtPwn"
-      },
-      "artists": [
-        {
-          "name": "Shania Twain",
-          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
-        }
-      ],
-      "duration_ms": 198802,
-      "name": "Waking Up Dreaming",
-      "url": "https://open.spotify.com/track/5cc1GqkadgfMlLszRXqdhM"
-    },
-    {
-      "added_at": "2023-11-15 01:16:57",
-      "album": {
         "name": "YESSIE",
         "url": "https://open.spotify.com/album/50mB1fMh9YFuLjx92ywsqV"
       },
@@ -2515,6 +2499,22 @@
       "duration_ms": 183895,
       "name": "ONLY ONE",
       "url": "https://open.spotify.com/track/04xnC2Uwq38RPrwCLv6f0G"
+    },
+    {
+      "added_at": "2023-11-15 01:16:57",
+      "album": {
+        "name": "Waking Up Dreaming",
+        "url": "https://open.spotify.com/album/7GFyc7OOv95UntmgAPtPwn"
+      },
+      "artists": [
+        {
+          "name": "Shania Twain",
+          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
+        }
+      ],
+      "duration_ms": 198802,
+      "name": "Waking Up Dreaming",
+      "url": "https://open.spotify.com/track/5cc1GqkadgfMlLszRXqdhM"
     },
     {
       "added_at": "2023-11-15 01:16:57",
@@ -2583,6 +2583,26 @@
     {
       "added_at": "2023-11-15 01:16:57",
       "album": {
+        "name": "DISCO: Guest List Edition",
+        "url": "https://open.spotify.com/album/6X1cZakiDOXDbDUWiTVmGh"
+      },
+      "artists": [
+        {
+          "name": "Kylie Minogue",
+          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
+        },
+        {
+          "name": "Years & Years",
+          "url": "https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc"
+        }
+      ],
+      "duration_ms": 207986,
+      "name": "A Second to Midnight",
+      "url": "https://open.spotify.com/track/3lWQgPeo8TrZZQT4qPScxg"
+    },
+    {
+      "added_at": "2023-11-15 01:16:57",
+      "album": {
         "name": "Chicken Little",
         "url": "https://open.spotify.com/album/54Pdjd4Q1XSYJqt2dAdYko"
       },
@@ -2615,30 +2635,6 @@
       "duration_ms": 184346,
       "name": "Once",
       "url": "https://open.spotify.com/track/5SYYZNpzQ42443RzIhqNWG"
-    },
-    {
-      "added_at": "2023-11-15 01:16:57",
-      "album": {
-        "name": "Closure (feat. BIRDY and Mishaal)",
-        "url": "https://open.spotify.com/album/5zbJm1IeYNPeWEcxLH7yCk"
-      },
-      "artists": [
-        {
-          "name": "Sarcastic Sounds",
-          "url": "https://open.spotify.com/artist/1bq8rqNnfrojn0OSAfeNXJ"
-        },
-        {
-          "name": "Birdy",
-          "url": "https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP"
-        },
-        {
-          "name": "Mishaal Tamer",
-          "url": "https://open.spotify.com/artist/2NM1t8dMvgeu9Lfl06574g"
-        }
-      ],
-      "duration_ms": 183986,
-      "name": "Closure (feat. BIRDY and Mishaal)",
-      "url": "https://open.spotify.com/track/2gQqknpjQSpBwJOtvTOnqP"
     }
   ],
   "unique_name": "Work From Home",

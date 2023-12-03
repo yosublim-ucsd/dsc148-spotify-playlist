@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Un sa-sa-saludo a todos los amantes de la cu-cu-cumbia!",
-  "num_followers": 1293768,
+  "num_followers": 1294065,
   "original_name": "Cumbia Sonidera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1OTI2MWY4NjZlZWUyNzIwYzZiYzZhY2Y3ZWI4Zjg4NWQ0NzZiODZh",
+  "snapshot_id": "MCwzZGQ5YWIwMjI3YjM2OGJhMzMyNmYzMDI5OGFmMjc2ZmViMjM2NmEx",
   "tracks": [
     {
       "added_at": "2023-11-08 22:37:03",
@@ -915,22 +915,6 @@
     {
       "added_at": "2023-11-08 22:37:03",
       "album": {
-        "name": "Cumbia Pa' seguir Bailando",
-        "url": "https://open.spotify.com/album/6StHl9h5jusxFp10JAKmZu"
-      },
-      "artists": [
-        {
-          "name": "Cumbias Poblanas",
-          "url": "https://open.spotify.com/artist/5yfgm29nhL4CSbKZSPORu4"
-        }
-      ],
-      "duration_ms": 289802,
-      "name": "Las Amo a Las Dos",
-      "url": "https://open.spotify.com/track/4XqXGdhCvH9GL7DWeqUrWm"
-    },
-    {
-      "added_at": "2023-11-08 22:37:03",
-      "album": {
         "name": "Oye Mujer",
         "url": "https://open.spotify.com/album/6uppp1YRIV4bPZkJoFH8x1"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 305253,
       "name": "\u00c1ngel Malvado",
       "url": "https://open.spotify.com/track/3VHLSQsQXQWnEMQwrM5R8p"
+    },
+    {
+      "added_at": "2023-11-08 22:37:03",
+      "album": {
+        "name": "Cumbia Pa' seguir Bailando",
+        "url": "https://open.spotify.com/album/6StHl9h5jusxFp10JAKmZu"
+      },
+      "artists": [
+        {
+          "name": "Cumbias Poblanas",
+          "url": "https://open.spotify.com/artist/5yfgm29nhL4CSbKZSPORu4"
+        }
+      ],
+      "duration_ms": 289802,
+      "name": "Las Amo a Las Dos",
+      "url": "https://open.spotify.com/track/4XqXGdhCvH9GL7DWeqUrWm"
     },
     {
       "added_at": "2023-11-08 22:37:03",
@@ -999,22 +999,6 @@
     {
       "added_at": "2023-11-08 22:37:03",
       "album": {
-        "name": "De Reventon",
-        "url": "https://open.spotify.com/album/4qzxNsbEaoBc4M2ZFEyFoU"
-      },
-      "artists": [
-        {
-          "name": "Grupo Maravilla",
-          "url": "https://open.spotify.com/artist/0Ur2HPuhb0mRnXFPOsCFB7"
-        }
-      ],
-      "duration_ms": 254640,
-      "name": "Cosas Bonitas",
-      "url": "https://open.spotify.com/track/75VDWiZEfAt3dL49kASgvi"
-    },
-    {
-      "added_at": "2023-11-08 22:37:03",
-      "album": {
         "name": "Grito En Silencio",
         "url": "https://open.spotify.com/album/5FXAiILW1gioBCuF7I39wS"
       },
@@ -1031,18 +1015,18 @@
     {
       "added_at": "2023-11-08 22:37:03",
       "album": {
-        "name": "Tonto Cari\u00f1o",
-        "url": "https://open.spotify.com/album/1jsyIp7OFTpIHDkKXl0kgS"
+        "name": "De Reventon",
+        "url": "https://open.spotify.com/album/4qzxNsbEaoBc4M2ZFEyFoU"
       },
       "artists": [
         {
-          "name": "Los Papis RA7",
-          "url": "https://open.spotify.com/artist/1y7GWTEfMzxafQ4mL0uZpq"
+          "name": "Grupo Maravilla",
+          "url": "https://open.spotify.com/artist/0Ur2HPuhb0mRnXFPOsCFB7"
         }
       ],
-      "duration_ms": 299284,
-      "name": "Estupido",
-      "url": "https://open.spotify.com/track/1hA3c7Rf0oLHFNR4ZVL030"
+      "duration_ms": 254640,
+      "name": "Cosas Bonitas",
+      "url": "https://open.spotify.com/track/75VDWiZEfAt3dL49kASgvi"
     },
     {
       "added_at": "2023-11-08 22:37:03",
@@ -1059,6 +1043,22 @@
       "duration_ms": 252679,
       "name": "Cumbia Del Chinito",
       "url": "https://open.spotify.com/track/761FhLirwe3hFnJKgHUN8y"
+    },
+    {
+      "added_at": "2023-11-08 22:37:03",
+      "album": {
+        "name": "Tonto Cari\u00f1o",
+        "url": "https://open.spotify.com/album/1jsyIp7OFTpIHDkKXl0kgS"
+      },
+      "artists": [
+        {
+          "name": "Los Papis RA7",
+          "url": "https://open.spotify.com/artist/1y7GWTEfMzxafQ4mL0uZpq"
+        }
+      ],
+      "duration_ms": 299284,
+      "name": "Estupido",
+      "url": "https://open.spotify.com/track/1hA3c7Rf0oLHFNR4ZVL030"
     },
     {
       "added_at": "2023-11-08 22:37:03",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2023-11-08 22:37:03",
       "album": {
-        "name": "Cumbia Amazonica",
-        "url": "https://open.spotify.com/album/3Almc0ajaT7YXLxpn18QBL"
-      },
-      "artists": [
-        {
-          "name": "Los Mirlos",
-          "url": "https://open.spotify.com/artist/1ga48mxYYI9RuUrWLa3voh"
-        }
-      ],
-      "duration_ms": 169600,
-      "name": "La Danza de los Mirlos (Cumbia de los Pajaritos)",
-      "url": "https://open.spotify.com/track/0AnwIwxt96ERVRohy7hcnU"
-    },
-    {
-      "added_at": "2023-11-08 22:37:03",
-      "album": {
         "name": "Cumbias y Bachatas Vol.2",
         "url": "https://open.spotify.com/album/2VKXFDOa49Xj9Bby34QqxJ"
       },
@@ -1347,18 +1331,18 @@
     {
       "added_at": "2023-11-08 22:37:03",
       "album": {
-        "name": "Para Qu\u00e9 Llorar",
-        "url": "https://open.spotify.com/album/1z50aUk8ypdjqTzqxuQ0ig"
+        "name": "Cumbia Amazonica",
+        "url": "https://open.spotify.com/album/3Almc0ajaT7YXLxpn18QBL"
       },
       "artists": [
         {
-          "name": "Grupo G",
-          "url": "https://open.spotify.com/artist/4zKNSiS1LD7OT0z3hTqRE8"
+          "name": "Los Mirlos",
+          "url": "https://open.spotify.com/artist/1ga48mxYYI9RuUrWLa3voh"
         }
       ],
-      "duration_ms": 198213,
-      "name": "La Princesa Talibana",
-      "url": "https://open.spotify.com/track/7B7WVfPyjkowmWCvb1SXxd"
+      "duration_ms": 169600,
+      "name": "La Danza de los Mirlos (Cumbia de los Pajaritos)",
+      "url": "https://open.spotify.com/track/0AnwIwxt96ERVRohy7hcnU"
     },
     {
       "added_at": "2023-11-08 22:37:03",
@@ -1375,6 +1359,22 @@
       "duration_ms": 237080,
       "name": "Amor Carnal",
       "url": "https://open.spotify.com/track/2BvixI7ri9MTF60jLSZLGW"
+    },
+    {
+      "added_at": "2023-11-08 22:37:03",
+      "album": {
+        "name": "Para Qu\u00e9 Llorar",
+        "url": "https://open.spotify.com/album/1z50aUk8ypdjqTzqxuQ0ig"
+      },
+      "artists": [
+        {
+          "name": "Grupo G",
+          "url": "https://open.spotify.com/artist/4zKNSiS1LD7OT0z3hTqRE8"
+        }
+      ],
+      "duration_ms": 198213,
+      "name": "La Princesa Talibana",
+      "url": "https://open.spotify.com/track/7B7WVfPyjkowmWCvb1SXxd"
     },
     {
       "added_at": "2023-11-08 22:37:03",
@@ -1839,22 +1839,6 @@
     {
       "added_at": "2023-11-08 22:37:03",
       "album": {
-        "name": "Los Exitos de Tiberio y Sus Gatos Negros",
-        "url": "https://open.spotify.com/album/2zUls9Mq7XLfndfTtKeynj"
-      },
-      "artists": [
-        {
-          "name": "Tiberio Y Sus Gatos Negros",
-          "url": "https://open.spotify.com/artist/6a5iqJmvklikJ2kUIl2xl1"
-        }
-      ],
-      "duration_ms": 224573,
-      "name": "Lagrimas de Escarcha",
-      "url": "https://open.spotify.com/track/4rRX8M117ii4lulb7Iw379"
-    },
-    {
-      "added_at": "2023-11-08 22:37:03",
-      "album": {
         "name": "Toquin en Am\u00e9rica",
         "url": "https://open.spotify.com/album/6sZgQ0ACy8yOIDpAmxz8Nj"
       },
@@ -1867,6 +1851,22 @@
       "duration_ms": 207728,
       "name": "Caricias - Acar\u00edciame",
       "url": "https://open.spotify.com/track/0bxMHP8ltPjqDe6JCkEd9p"
+    },
+    {
+      "added_at": "2023-11-08 22:37:03",
+      "album": {
+        "name": "Los Exitos de Tiberio y Sus Gatos Negros",
+        "url": "https://open.spotify.com/album/2zUls9Mq7XLfndfTtKeynj"
+      },
+      "artists": [
+        {
+          "name": "Tiberio Y Sus Gatos Negros",
+          "url": "https://open.spotify.com/artist/6a5iqJmvklikJ2kUIl2xl1"
+        }
+      ],
+      "duration_ms": 224573,
+      "name": "Lagrimas de Escarcha",
+      "url": "https://open.spotify.com/track/4rRX8M117ii4lulb7Iw379"
     },
     {
       "added_at": "2023-11-08 22:37:03",

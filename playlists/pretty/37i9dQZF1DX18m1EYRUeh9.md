@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18m1EYRUeh9.md) - [plain]
 
 > Smooth indie jazz joints from around the globe\. Cover: André 3000
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,334 likes - 85 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,544 likes - 85 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18m1EYRUeh9.md) - [plain]
 | 7 | [Yesterday's Price](https://open.spotify.com/track/76w0UOermXSeAZIj0HfynR) | [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil), [Joshua Karpeh](https://open.spotify.com/artist/7Ld6G79PcddkizPC36ujEF), [Immanuel Wilkins](https://open.spotify.com/artist/5szMuuBbDzULkagWIfI5LG), [Ambrose Akinmusire](https://open.spotify.com/artist/4ai53dgSBGhQwcFtGyY1bF) | [Yesterday's Price](https://open.spotify.com/album/7xPy90fuevpNsr4pSLRSmB) | 5:15 |
 | 8 | [Earth](https://open.spotify.com/track/33SjP7IwTNrPEpZAn16Bzf) | [Sol Paradise](https://open.spotify.com/artist/5PihhSgYPtIRL4I0spglII) | [Earth](https://open.spotify.com/album/1L9EOt6qghU2kFVXItfI3S) | 3:23 |
 | 9 | [Waiting For You \(feat\. Naomi Sharon\)](https://open.spotify.com/track/6Dae6DNW72nLZ6KGyE7aeH) | [Majid Jordan](https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk), [Naomi Sharon](https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb) | [Waiting For You \(feat\. Naomi Sharon\)](https://open.spotify.com/album/09l5EnCPP1AKIqaozUT6LQ) | 3:39 |
-| 10 | [Dragonfly](https://open.spotify.com/track/3uyAmrmQS6GDm0XllcMGMK) | [Dana and Alden](https://open.spotify.com/artist/4odX9weZjAyv9EV05akfLX) | [Quiet Music for Young People](https://open.spotify.com/album/02aBmDkQat7UtqqF9lGZzE) | 5:57 |
+| 10 | [Dragonfly](https://open.spotify.com/track/3uyAmrmQS6GDm0XllcMGMK) | [Dana and Alden](https://open.spotify.com/artist/6xKRT9Uw0XOxNsmWX2vNBr) | [Quiet Music for Young People](https://open.spotify.com/album/02aBmDkQat7UtqqF9lGZzE) | 5:57 |
 | 11 | [Two Generations of Excess](https://open.spotify.com/track/3yNBnPv3JbGxGvTiIhndvx) | [Unknown Mortal Orchestra](https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp) | [II \(10 Year Anniversary Edition\)](https://open.spotify.com/album/1boMSpoKkFe901QZaU7Gb3) | 7:26 |
 | 12 | [Cosca](https://open.spotify.com/track/2R5rLyz7W77xL7dEsMMNkY) | [Conway the Machine](https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS), [Wun Two](https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE) | [Cosca](https://open.spotify.com/album/7mrB72SorH1BWaW8UNPCVe) | 1:56 |
 | 13 | [Marking My Time \- BADBADNOTGOOD Edit](https://open.spotify.com/track/37d6wINGgXhG8r95A13M4i) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL), [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ) | [Marking My Time \(BADBADNOTGOOD Edit\)](https://open.spotify.com/album/0g9kK2Bttr5JjicLzIQdYz) | 4:12 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18m1EYRUeh9.md) - [plain]
 | 84 | [Fight for Love](https://open.spotify.com/track/1LPQheJpIsG8rlUkCmZx2D) | [SAULT](https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR) | [11](https://open.spotify.com/album/0e5GuQaryu1bLZL9Gk3hS8) | 4:57 |
 | 85 | [Modern Miracle](https://open.spotify.com/track/6FtqBfzpYGTFt7yQPIaOFg) | [Paul Cherry](https://open.spotify.com/artist/1xbu7UyVdZxwIiNfLcUKqn) | [Pure Grooves Vol\. 1](https://open.spotify.com/album/796eeTpFCvH90a7DweaaNq) | 3:08 |
 
-Snapshot ID: `MCw1YzEyMGMwMTI0Y2E4ODU1ZjkyZTIyYzJmZmEyMTU5MDQwNGE4ODQw`
+Snapshot ID: `MCw2ZDVjYWI4ZGY4YjAyMWUxZTU1MzE1MWQxYzQwMDBiNDE5NmJjYmQ2`

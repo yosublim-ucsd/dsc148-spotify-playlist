@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6MhXz0jw61.md) - [plain]
 
 > Chillout hip\-hop vibes\. Cover: Drake
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,303,040 likes - 100 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,303,118 likes - 100 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6MhXz0jw61.md) - [plain]
 | 99 | [God Is Closer Then You Think](https://open.spotify.com/track/7Lnjw1l3IC5T0dXYdYB935) | [Wifisfuneral](https://open.spotify.com/artist/1vb1XqzyNMQ16BqbxRz5BV) | [Black Heart Revenge 2](https://open.spotify.com/album/4YyvVj3QeL8HPwp9ffjPFp) | 2:27 |
 | 100 | [Do Better](https://open.spotify.com/track/06kBwptOYkGn1xL5XvtsRT) | [Ab\-Soul](https://open.spotify.com/artist/0g9vAlRPK9Gt3FKCekk4TW), [Zacari](https://open.spotify.com/artist/3qBKjEOanahMxlRojwCzhI) | [Do Better](https://open.spotify.com/album/4XhdHEPifvpnVUa4S33548) | 3:51 |
 
-Snapshot ID: `MCxlM2JjYjI4NTE4MDE2NGYzNWRjZmEwOTYzZDZkNDIwN2M0MzYxZjQw`
+Snapshot ID: `MCw0MTkzNzY3NDY4MjkxNzUwYWUwODU5NTkzOTc3ZTVlMTFjNGU5NWFj`

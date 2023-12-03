@@ -4,7 +4,7 @@
 
 > The best of modern psychedelic rock,  neo\-psychedelic, and psychedelic indie.
 
-915 songs - 2 day 11 hr 59 min
+916 songs - 2 day 12 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -647,7 +647,8 @@
 | [Remaining Light](https://open.spotify.com/track/0WKO0qWoZAcai9Dw78vuge) | [Absolutely Free](https://open.spotify.com/artist/5DD56TbdQI5Xe9c8YSiTj5) | [Remaining Light](https://open.spotify.com/album/0bpEOLrNxcb91OXbhu1uSW) | 5:45 | 2021-09-17 | 2022-04-21 |
 | [Renegade](https://open.spotify.com/track/3SqMnzlS5KPE7wFFF4wBWa) | [Lava La Rue](https://open.spotify.com/artist/271bbpX3pdCi56ZJA1jQ43) | [Renegade](https://open.spotify.com/album/05yGOGCNiN4vhRfOlX50oG) | 2:54 | 2023-05-05 | 2023-08-26 |
 | [Reset](https://open.spotify.com/track/5QaAMG5SdD0OKmV3VVo7Wo) | [Colyer](https://open.spotify.com/artist/1L0pwxF6zglm74nG2gBWw5) | [Reset](https://open.spotify.com/album/6LgkETeWZxBGgEThkiALNi) | 4:58 | 2022-04-22 | 2022-10-08 |
-| [Restless Thoughts](https://open.spotify.com/track/3fJaQLBjTjl0TmXhff9TdL) | [Zooey Celeste](https://open.spotify.com/artist/5I03jA5mQ19EpbvyBDd9Jy) | [Restless Thoughts](https://open.spotify.com/album/5NYUwVB0BrNpQ35ZP3zgqk) | 2:32 | 2023-11-10 |  |
+| [Restless Thoughts](https://open.spotify.com/track/3fJaQLBjTjl0TmXhff9TdL) | [Zooey Celeste](https://open.spotify.com/artist/5I03jA5mQ19EpbvyBDd9Jy) | [Restless Thoughts](https://open.spotify.com/album/5NYUwVB0BrNpQ35ZP3zgqk) | 2:32 | 2023-11-10 | 2023-12-03 |
+| [Restless Thoughts](https://open.spotify.com/track/6rx2PKLSvz4El2ZW5o1skH) | [Zooey Celeste](https://open.spotify.com/artist/5I03jA5mQ19EpbvyBDd9Jy) | [Restless Thoughts](https://open.spotify.com/album/2Xitvfl8pZL8XH7iqxV9UJ) | 2:32 | 2023-11-10 |  |
 | [Revelator](https://open.spotify.com/track/0xVwkfyPh0brDtlmtdIb2d) | [Kainalu](https://open.spotify.com/artist/7s21yzsQI5NDymc5KNHkXc) | [Revelator](https://open.spotify.com/album/7zI8PDMo7i9ZZcIBL7BK1d) | 3:05 | 2022-03-04 | 2022-06-15 |
 | [Roddy](https://open.spotify.com/track/5hS8s1Vf4CeSRBT1bTWa39) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [Twenty Twenty](https://open.spotify.com/album/3kxxxUQ9HFVUSg2pDLYoZ0) | 4:12 | 2023-09-29 |  |
 | [Rolling Stone](https://open.spotify.com/track/77pZL5Oq2PVQIPFkEkusZU) | [Oliver Malcolm](https://open.spotify.com/artist/5ut4VhaCRPsEjAZ93jpPfK) | [Rolling Stone](https://open.spotify.com/album/7qkzYjhpUzGCiGzm9p3Dv8) | 2:49 | 2021-12-14 | 2023-03-07 |

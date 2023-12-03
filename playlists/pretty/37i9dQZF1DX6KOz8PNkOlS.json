@@ -1,12 +1,12 @@
 {
   "description": "Transform your workspace into a cozy retreat with gentle tunes and warm vibes",
-  "num_followers": 421409,
+  "num_followers": 421543,
   "original_name": "Soft Office",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2YTEzMWEzMjBiMjhlZTQ1MWRiNTliODZlOWY2ZTE0ZTBhOWExZWNl",
+  "snapshot_id": "MCwyOTdmYTE5YmViMjdkMWRhNzliYjY1YjYyZmYyMGY2MTI5MTk1OGVh",
   "tracks": [
     {
       "added_at": "2023-04-19 21:20:11",
@@ -479,6 +479,22 @@
     {
       "added_at": "2021-10-15 03:01:31",
       "album": {
+        "name": "Hotel Surrender",
+        "url": "https://open.spotify.com/album/1EvJl2nSEPBGnu0XqKAqbq"
+      },
+      "artists": [
+        {
+          "name": "Chet Faker",
+          "url": "https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om"
+        }
+      ],
+      "duration_ms": 274423,
+      "name": "Low",
+      "url": "https://open.spotify.com/track/4RJYhQEGxI42b2OkiA6eYP"
+    },
+    {
+      "added_at": "2021-10-15 03:01:31",
+      "album": {
         "name": "Love from NGC 7318",
         "url": "https://open.spotify.com/album/5WkMXfcM1qR0y8rdhlUaZ7"
       },
@@ -495,22 +511,6 @@
       "duration_ms": 168272,
       "name": "Love from NGC 7318",
       "url": "https://open.spotify.com/track/2CR01A8W6hmVZuXsVGf2Fn"
-    },
-    {
-      "added_at": "2021-10-15 03:01:31",
-      "album": {
-        "name": "Hotel Surrender",
-        "url": "https://open.spotify.com/album/1EvJl2nSEPBGnu0XqKAqbq"
-      },
-      "artists": [
-        {
-          "name": "Chet Faker",
-          "url": "https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om"
-        }
-      ],
-      "duration_ms": 274423,
-      "name": "Low",
-      "url": "https://open.spotify.com/track/4RJYhQEGxI42b2OkiA6eYP"
     },
     {
       "added_at": "2023-11-23 03:41:20",
@@ -931,18 +931,22 @@
     {
       "added_at": "2021-10-15 03:01:31",
       "album": {
-        "name": "Hope",
-        "url": "https://open.spotify.com/album/2cqVLSrisNHPR6Q1Q4HsBp"
+        "name": "Too Good (Unknown Mortal Orchestra Remix)",
+        "url": "https://open.spotify.com/album/5PHJreAXfXiHlSEWigdeFN"
       },
       "artists": [
         {
           "name": "Arlo Parks",
           "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+        },
+        {
+          "name": "Unknown Mortal Orchestra",
+          "url": "https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp"
         }
       ],
-      "duration_ms": 270066,
-      "name": "Hope",
-      "url": "https://open.spotify.com/track/6m5g6mY0EqyPW6Snc6n749"
+      "duration_ms": 235005,
+      "name": "Too Good - Unknown Mortal Orchestra Remix",
+      "url": "https://open.spotify.com/track/4jMmXKJjle1GD241r9s1oj"
     },
     {
       "added_at": "2022-10-05 01:25:40",
@@ -1091,22 +1095,18 @@
     {
       "added_at": "2021-10-15 03:01:31",
       "album": {
-        "name": "Too Good (Unknown Mortal Orchestra Remix)",
-        "url": "https://open.spotify.com/album/5PHJreAXfXiHlSEWigdeFN"
+        "name": "Hope",
+        "url": "https://open.spotify.com/album/2cqVLSrisNHPR6Q1Q4HsBp"
       },
       "artists": [
         {
           "name": "Arlo Parks",
           "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
-        },
-        {
-          "name": "Unknown Mortal Orchestra",
-          "url": "https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp"
         }
       ],
-      "duration_ms": 235005,
-      "name": "Too Good - Unknown Mortal Orchestra Remix",
-      "url": "https://open.spotify.com/track/4jMmXKJjle1GD241r9s1oj"
+      "duration_ms": 270066,
+      "name": "Hope",
+      "url": "https://open.spotify.com/track/6m5g6mY0EqyPW6Snc6n749"
     },
     {
       "added_at": "2023-02-21 02:56:05",
@@ -1213,22 +1213,6 @@
       "url": "https://open.spotify.com/track/0CC0kKfkPSIgokD882T9I5"
     },
     {
-      "added_at": "2021-10-15 03:01:31",
-      "album": {
-        "name": "Off Off On",
-        "url": "https://open.spotify.com/album/1X8kC5D2ke7puDYgalJtXj"
-      },
-      "artists": [
-        {
-          "name": "This Is The Kit",
-          "url": "https://open.spotify.com/artist/0ZUyFEafMwocvApBjTXvdo"
-        }
-      ],
-      "duration_ms": 200480,
-      "name": "Coming to Get You Nowhere",
-      "url": "https://open.spotify.com/track/2pvTzDOIibESGP5usDO0rG"
-    },
-    {
       "added_at": "2022-12-07 04:54:47",
       "album": {
         "name": "Eat You Alive",
@@ -1243,6 +1227,22 @@
       "duration_ms": 190000,
       "name": "Eat You Alive",
       "url": "https://open.spotify.com/track/1GnhDPcve5uOz4K8StzHtX"
+    },
+    {
+      "added_at": "2021-10-15 03:01:31",
+      "album": {
+        "name": "Off Off On",
+        "url": "https://open.spotify.com/album/1X8kC5D2ke7puDYgalJtXj"
+      },
+      "artists": [
+        {
+          "name": "This Is The Kit",
+          "url": "https://open.spotify.com/artist/0ZUyFEafMwocvApBjTXvdo"
+        }
+      ],
+      "duration_ms": 200480,
+      "name": "Coming to Get You Nowhere",
+      "url": "https://open.spotify.com/track/2pvTzDOIibESGP5usDO0rG"
     },
     {
       "added_at": "2021-10-15 03:01:31",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2021-10-15 03:01:31",
       "album": {
-        "name": "Candid",
-        "url": "https://open.spotify.com/album/02b3E6hkZ8TslA7nDnrrb2"
-      },
-      "artists": [
-        {
-          "name": "Whitney",
-          "url": "https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G"
-        }
-      ],
-      "duration_ms": 228694,
-      "name": "Rain",
-      "url": "https://open.spotify.com/track/0aGWSE3g81t44RSjqfqr7o"
-    },
-    {
-      "added_at": "2021-10-15 03:01:31",
-      "album": {
         "name": "Shout Out! To Freedom...",
         "url": "https://open.spotify.com/album/7aqqi7wkPw0zWqCqA5VQio"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 217346,
       "name": "Own Me",
       "url": "https://open.spotify.com/track/6GbOyB2RTcyFFp2EryEaPp"
+    },
+    {
+      "added_at": "2021-10-15 03:01:31",
+      "album": {
+        "name": "Candid",
+        "url": "https://open.spotify.com/album/02b3E6hkZ8TslA7nDnrrb2"
+      },
+      "artists": [
+        {
+          "name": "Whitney",
+          "url": "https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G"
+        }
+      ],
+      "duration_ms": 228694,
+      "name": "Rain",
+      "url": "https://open.spotify.com/track/0aGWSE3g81t44RSjqfqr7o"
     },
     {
       "added_at": "2022-09-29 00:10:44",
@@ -1393,22 +1393,6 @@
       "url": "https://open.spotify.com/track/5h6RX4lJ9opFcpGycS2ckD"
     },
     {
-      "added_at": "2023-03-30 03:13:10",
-      "album": {
-        "name": "Mormor",
-        "url": "https://open.spotify.com/album/6KhdFdT5IkcD2F5YBA5lVN"
-      },
-      "artists": [
-        {
-          "name": "Dina \u00d6gon",
-          "url": "https://open.spotify.com/artist/55Juru3AZOT8GrCxOaV3EI"
-        }
-      ],
-      "duration_ms": 240262,
-      "name": "Mormor",
-      "url": "https://open.spotify.com/track/4pXXHJv54uiOlcK9XoN9NB"
-    },
-    {
       "added_at": "2022-04-18 03:39:12",
       "album": {
         "name": "State of Mine",
@@ -1423,6 +1407,22 @@
       "duration_ms": 172436,
       "name": "Trippin",
       "url": "https://open.spotify.com/track/55ZSz4QtfzKj9Pjf7Ac6Ak"
+    },
+    {
+      "added_at": "2023-03-30 03:13:10",
+      "album": {
+        "name": "Mormor",
+        "url": "https://open.spotify.com/album/6KhdFdT5IkcD2F5YBA5lVN"
+      },
+      "artists": [
+        {
+          "name": "Dina \u00d6gon",
+          "url": "https://open.spotify.com/artist/55Juru3AZOT8GrCxOaV3EI"
+        }
+      ],
+      "duration_ms": 240262,
+      "name": "Mormor",
+      "url": "https://open.spotify.com/track/4pXXHJv54uiOlcK9XoN9NB"
     },
     {
       "added_at": "2022-01-12 18:14:24",
@@ -1553,22 +1553,6 @@
       "url": "https://open.spotify.com/track/6705wcrwrj3Z9QvvsCQpng"
     },
     {
-      "added_at": "2021-10-15 03:01:31",
-      "album": {
-        "name": "Sounds Of Blue",
-        "url": "https://open.spotify.com/album/3RZlQHoOCB6F9RjrFveKfc"
-      },
-      "artists": [
-        {
-          "name": "Morcheeba",
-          "url": "https://open.spotify.com/artist/6bWxFw65IEJzBYjx3SxUXd"
-        }
-      ],
-      "duration_ms": 214897,
-      "name": "Sounds Of Blue",
-      "url": "https://open.spotify.com/track/45VVYckfngIzT5gg8IFu3F"
-    },
-    {
       "added_at": "2023-01-04 01:09:50",
       "album": {
         "name": "20 Years Dope Noir - Oranje Album",
@@ -1591,6 +1575,22 @@
       "duration_ms": 185250,
       "name": "The Moon Above",
       "url": "https://open.spotify.com/track/0LSWKdrsuw8V2IQ3MsoOrF"
+    },
+    {
+      "added_at": "2021-10-15 03:01:31",
+      "album": {
+        "name": "Sounds Of Blue",
+        "url": "https://open.spotify.com/album/3RZlQHoOCB6F9RjrFveKfc"
+      },
+      "artists": [
+        {
+          "name": "Morcheeba",
+          "url": "https://open.spotify.com/artist/6bWxFw65IEJzBYjx3SxUXd"
+        }
+      ],
+      "duration_ms": 214897,
+      "name": "Sounds Of Blue",
+      "url": "https://open.spotify.com/track/45VVYckfngIzT5gg8IFu3F"
     },
     {
       "added_at": "2021-10-15 03:01:31",
@@ -1625,20 +1625,20 @@
       "url": "https://open.spotify.com/track/6rUPjRwq8gNoGxwFQ5z7PB"
     },
     {
-      "added_at": "2021-10-15 03:01:31",
+      "added_at": "2022-04-08 19:23:51",
       "album": {
-        "name": "Tru Love",
-        "url": "https://open.spotify.com/album/1mIwtmu3DzvkF0reJ90Pe8"
+        "name": "Home for Now",
+        "url": "https://open.spotify.com/album/5lQ1jNr2gktMSkGpGVmFlN"
       },
       "artists": [
         {
-          "name": "James Vincent McMorrow",
-          "url": "https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u"
+          "name": "Babeheaven",
+          "url": "https://open.spotify.com/artist/0RlWCq8bq0lJgR6ZTvcqjQ"
         }
       ],
-      "duration_ms": 198084,
-      "name": "Tru Love",
-      "url": "https://open.spotify.com/track/3HkIHa7ajjxgCB2Ag25els"
+      "duration_ms": 222994,
+      "name": "Jalisco",
+      "url": "https://open.spotify.com/track/7gEvMdJjKAlvW68yG4ASSX"
     },
     {
       "added_at": "2021-10-15 03:01:31",
@@ -1657,20 +1657,20 @@
       "url": "https://open.spotify.com/track/33mBfdwbMkOflInZGaLGJ2"
     },
     {
-      "added_at": "2022-04-08 19:23:51",
+      "added_at": "2021-10-15 03:01:31",
       "album": {
-        "name": "Home for Now",
-        "url": "https://open.spotify.com/album/5lQ1jNr2gktMSkGpGVmFlN"
+        "name": "Tru Love",
+        "url": "https://open.spotify.com/album/1mIwtmu3DzvkF0reJ90Pe8"
       },
       "artists": [
         {
-          "name": "Babeheaven",
-          "url": "https://open.spotify.com/artist/0RlWCq8bq0lJgR6ZTvcqjQ"
+          "name": "James Vincent McMorrow",
+          "url": "https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u"
         }
       ],
-      "duration_ms": 222994,
-      "name": "Jalisco",
-      "url": "https://open.spotify.com/track/7gEvMdJjKAlvW68yG4ASSX"
+      "duration_ms": 198084,
+      "name": "Tru Love",
+      "url": "https://open.spotify.com/track/3HkIHa7ajjxgCB2Ag25els"
     },
     {
       "added_at": "2021-10-15 03:01:31",
@@ -1691,22 +1691,6 @@
     {
       "added_at": "2021-10-15 03:01:31",
       "album": {
-        "name": "Awake",
-        "url": "https://open.spotify.com/album/6WvJL6ZCOXBbBtCOiyBOuK"
-      },
-      "artists": [
-        {
-          "name": "Rosehip",
-          "url": "https://open.spotify.com/artist/3FEUxHWFYivuxwd4tjIPoT"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "Awake",
-      "url": "https://open.spotify.com/track/1fxTBBkvupe6a6qo8fLGST"
-    },
-    {
-      "added_at": "2021-10-15 03:01:31",
-      "album": {
         "name": "Song of the Lark and Other Far Memories",
         "url": "https://open.spotify.com/album/7qO3AbJIz7XMLP4bVOI7wj"
       },
@@ -1723,6 +1707,22 @@
       "duration_ms": 208056,
       "name": "New Love Cassette (Mark Ronson Remix)",
       "url": "https://open.spotify.com/track/458PwXRF8eLf8SGKJIxilc"
+    },
+    {
+      "added_at": "2021-10-15 03:01:31",
+      "album": {
+        "name": "Awake",
+        "url": "https://open.spotify.com/album/6WvJL6ZCOXBbBtCOiyBOuK"
+      },
+      "artists": [
+        {
+          "name": "Rosehip",
+          "url": "https://open.spotify.com/artist/3FEUxHWFYivuxwd4tjIPoT"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "Awake",
+      "url": "https://open.spotify.com/track/1fxTBBkvupe6a6qo8fLGST"
     },
     {
       "added_at": "2021-10-15 03:01:31",

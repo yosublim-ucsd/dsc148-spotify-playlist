@@ -252,7 +252,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-03",
       "duration_ms": 217333,
       "name": "Capri c'est fini",
       "url": "https://open.spotify.com/track/0PIAMCcvkLZ6P2YwWZ1e5H"
@@ -1072,6 +1072,24 @@
       "duration_ms": 268243,
       "name": "Mais je t'aime",
       "url": "https://open.spotify.com/track/4dtG1p71E6VPt9BmVYWcY5"
+    },
+    {
+      "album": {
+        "name": "Message personnel (Version Deluxe)",
+        "url": "https://open.spotify.com/album/6tU1iGwcfWjFasYGnoVj6k"
+      },
+      "artists": [
+        {
+          "name": "Fran\u00e7oise Hardy",
+          "url": "https://open.spotify.com/artist/7x3f7c0fBanNlQwpx1255g"
+        }
+      ],
+      "date_added": "2023-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256506,
+      "name": "Message personnel - Remasteris\u00e9 en 2013",
+      "url": "https://open.spotify.com/track/1E1fwQ5Wmls13iEf4QjL9y"
     },
     {
       "album": {

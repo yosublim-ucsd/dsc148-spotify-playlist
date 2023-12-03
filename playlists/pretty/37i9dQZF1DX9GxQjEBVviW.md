@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9GxQjEBVviW.md) - [plain]
 
 > ​Boogie along to doo\-wop's greatest hits.
 
-[Spotify](https://open.spotify.com/user/spotify) - 219,432 likes - 50 songs - 2 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 219,503 likes - 50 songs - 2 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Under the Boardwalk](https://open.spotify.com/track/65jrjEhWfAvysKfnojk1i0) | [The Drifters](https://open.spotify.com/artist/1FqqOl9itIUpXr4jZPIVoT) | [Under the Boardwalk](https://open.spotify.com/album/7AgI5vniflcbh86Znea7yM) | 2:41 |
 | 2 | [I Only Have Eyes for You](https://open.spotify.com/track/3YdKJzcoMZMacISlpY4QoP) | [The Flamingos](https://open.spotify.com/artist/6iygtKnPG7TRvDaTYcLOd6) | [Flamingo Serenade](https://open.spotify.com/album/6XEtlJFNCbNrIz1Q5kdLjZ) | 3:22 |
-| 3 | [Mama Said](https://open.spotify.com/track/1SN5fcUZyWFktGbEoHdHOm) | [The Shirelles](https://open.spotify.com/artist/0x83OBqixqdCHnStP5VMcn) | [Remember When](https://open.spotify.com/album/6m8QVjXat9WFfyZPBSe0y8) | 2:04 |
-| 4 | [Sh\-Boom](https://open.spotify.com/track/2drXvACELcvwryaFRiRPdA) | [The Chords](https://open.spotify.com/artist/2iSZ41LUUYVcz5At9Xuz7T) | [Life Could Be a Dream: The Sh\-Boom Sound of The Chords](https://open.spotify.com/album/5MPJ9H0ko7mCsfjkyrg0xE) | 2:24 |
+| 3 | [Sh\-Boom](https://open.spotify.com/track/2drXvACELcvwryaFRiRPdA) | [The Chords](https://open.spotify.com/artist/2iSZ41LUUYVcz5At9Xuz7T) | [Life Could Be a Dream: The Sh\-Boom Sound of The Chords](https://open.spotify.com/album/5MPJ9H0ko7mCsfjkyrg0xE) | 2:24 |
+| 4 | [Mama Said](https://open.spotify.com/track/1SN5fcUZyWFktGbEoHdHOm) | [The Shirelles](https://open.spotify.com/artist/0x83OBqixqdCHnStP5VMcn) | [Remember When](https://open.spotify.com/album/6m8QVjXat9WFfyZPBSe0y8) | 2:04 |
 | 5 | [The Lion Sleeps Tonight \(Wimoweh\)](https://open.spotify.com/track/2F4FNcz68howQWD4zaGJSi) | [The Tokens](https://open.spotify.com/artist/1GAJzApRTMmYZ9EjQ91VOy) | [Wimoweh!!! \- The Best Of The Tokens](https://open.spotify.com/album/6NBox81OQox7U4I0hZB9t0) | 2:42 |
 | 6 | [Earth Angel](https://open.spotify.com/track/7GnMzVWOHLBPcfco4L1GtE) | [The Penguins](https://open.spotify.com/artist/6lOk7hCr8x3O9vHwylXyHR) | [Earth Angel](https://open.spotify.com/album/42uu50W2ko5aQriXh7naAd) | 2:51 |
 | 7 | [Love Potion No\. 9 \- Remastered / Single Version](https://open.spotify.com/track/5ytPMYb6dkoli8sNSEsdmZ) | [The Clovers](https://open.spotify.com/artist/0ckkj0a9CvIJr4h84B0OlN) | [The Best Of The Clovers \(Love Potion No\. 9\)](https://open.spotify.com/album/6tfGv9PH9Kx1fKpp2dVe4y) | 1:53 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9GxQjEBVviW.md) - [plain]
 | 49 | [Shop Around](https://open.spotify.com/track/1VMncXCJ34SIAosUKhzjHy) | [The Miracles](https://open.spotify.com/artist/6TqQLejnHXMGr7KcegxUND) | [Greatest Hits: From The Beginning](https://open.spotify.com/album/5XmTHDRdxXFdrctu02TLMP) | 2:49 |
 | 50 | [Maybe](https://open.spotify.com/track/3OQws3wO9koGb1g2QP2YsN) | [The Chantels](https://open.spotify.com/artist/08kLJJHCIH3KZGk4FZmWSK) | [Doo Wop Classics Vol\. 1](https://open.spotify.com/album/74o0BLyhgBt6bvNqflYNmp) | 2:50 |
 
-Snapshot ID: `MCxjYjk3MWM1MzljYzdlNDMwYjM5MjZiNWNjMjQzODZhOTYxNTQzNzg3`
+Snapshot ID: `MCwxOWU3NTBkNzhiZWI3NzA4ZTZlNDU4ODBhZWE0OGViYzU3YmI2ZDI4`

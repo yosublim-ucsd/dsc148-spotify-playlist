@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 
 > New jazz for open minds\. Cover: H ZETTRIO
 
-[Spotify](https://open.spotify.com/user/spotify) - 910,630 likes - 100 songs - 8 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 910,703 likes - 100 songs - 8 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 | 5 | [Não Ao Marco Temporal](https://open.spotify.com/track/242sgtNAjMw47sqowRPJ7s) | [Esperanza Spalding](https://open.spotify.com/artist/5bepW5vcdRzheNc0F8lHJ5) | [Não Ao Marco Temporal](https://open.spotify.com/album/4OhAAD1R2PQkCZnETwkkoz) | 3:09 |
 | 6 | [Cobham](https://open.spotify.com/track/6p46VYGOLxUbhPJB3pGxEt) | [Oli Howe](https://open.spotify.com/artist/0Ky1tgoT4tGP4yFEYOBfof), [HOWES3](https://open.spotify.com/artist/5kAArX8MAwHcmpsbdKhsuE) | [Six](https://open.spotify.com/album/0k821NyEThNcYPxBa6fO6E) | 6:36 |
 | 7 | [Winter](https://open.spotify.com/track/3HlO9LOzWYtazt0URqky8r) | [Myele Manzanza](https://open.spotify.com/artist/1UC8QBhdrzQGgnGPcdEMDd), [Matthew Sheens](https://open.spotify.com/artist/0JPXDx4VWAKMfFCVg2mw5E), [Matt Penman](https://open.spotify.com/artist/7HSQeZZSI9YNyVe2emSM9k) | [Crisis & Opportunity, Vol.4 \- Meditations](https://open.spotify.com/album/4xl86Mx1lHtBaH2y6HrLMb) | 7:48 |
-| 8 | [Dragonfly](https://open.spotify.com/track/3uyAmrmQS6GDm0XllcMGMK) | [Dana and Alden](https://open.spotify.com/artist/4odX9weZjAyv9EV05akfLX) | [Quiet Music for Young People](https://open.spotify.com/album/02aBmDkQat7UtqqF9lGZzE) | 5:57 |
+| 8 | [Dragonfly](https://open.spotify.com/track/3uyAmrmQS6GDm0XllcMGMK) | [Dana and Alden](https://open.spotify.com/artist/6xKRT9Uw0XOxNsmWX2vNBr) | [Quiet Music for Young People](https://open.spotify.com/album/02aBmDkQat7UtqqF9lGZzE) | 5:57 |
 | 9 | [The Comeback](https://open.spotify.com/track/0MOCXlySxIos7wMFITLore) | [J\-Rod Sullivan](https://open.spotify.com/artist/3sQFyYXUd3ATfqB8ASEy1u) | [The Comeback](https://open.spotify.com/album/1gh0ayHtxAjp2PaX9fJivk) | 6:05 |
 | 10 | [Lounge Lizard](https://open.spotify.com/track/39mehRLHX9wvfrooKeiWxa) | [Molly Lewis](https://open.spotify.com/artist/16eM95zw2t0KRDniuNFKVt) | [Lounge Lizard](https://open.spotify.com/album/4W6s4LdmewGx1WB1f0kWR0) | 3:49 |
 | 11 | [A Flower is a Lovesome Thing](https://open.spotify.com/track/1pZ9MJT3kKWTe9WDvfbgdN) | [Kurt Rosenwinkel](https://open.spotify.com/artist/253GMpCNwx1TJtASNAeDoP), [Geri Allen](https://open.spotify.com/artist/0jqAOYfo9ipclW7ATXPhHg) | [A Lovesome Thing](https://open.spotify.com/album/47b74rWLSpPJjFfmw3gLUh) | 10:18 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 | 99 | [Look To The Hills](https://open.spotify.com/track/6bfiCXTdEJBTskKdTfqzcj) | [Brian Blade & The Fellowship Band](https://open.spotify.com/artist/4gjFkHMQ2r46oQ7gsIQaCF) | [Kings Highway](https://open.spotify.com/album/6lenF7EOgaIQ9a1BQZRxac) | 4:20 |
 | 100 | [The Good Life](https://open.spotify.com/track/7vCUJ7NPHoIVMGzmQLfoen) | [Christian McBride](https://open.spotify.com/artist/5ACxPOI9gR3l0cyy2dvkHv), [New Jawn](https://open.spotify.com/artist/0lpuuN7i6U5mUhMozlFncR) | [Prime](https://open.spotify.com/album/1vFLT0IUByItGLbFDb7NXJ) | 7:15 |
 
-Snapshot ID: `MCw3NmYxYjQ5YWNlYjMxYjQxNjliMWI0ZmU3MmQ1NTE1NDU4YjA1M2Ew`
+Snapshot ID: `MCwxNWM2MmY5ZTRmM2NjNzIxMjQ0OGRmMTEwYjdhMDljNzJiMjg0YjNl`

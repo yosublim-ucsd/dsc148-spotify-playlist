@@ -1,12 +1,12 @@
 {
   "description": "Canciones te inspiran a ti y a todas las mam\u00e1s.",
-  "num_followers": 378954,
+  "num_followers": 379110,
   "original_name": "Las Rom\u00e1nticas de Mam\u00e1",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMDNlNWU5MGYxMmRiYjgzMmRmYzFiNjBiMTJhNGUyNThhMDY5ZTU3",
+  "snapshot_id": "MCxhZWE1ZmVhMzZkNzllM2Q2MDRkMzMwZmIzMzFjODliMmRmZDBmMTI5",
   "tracks": [
     {
       "added_at": "2023-09-27 23:59:28",
@@ -603,18 +603,18 @@
     {
       "added_at": "2023-09-27 23:59:28",
       "album": {
-        "name": "Ricardo Montaner Con La London Metropolitan Orchestra",
-        "url": "https://open.spotify.com/album/7dI1jAbtx6nFn2rcQKVPFE"
+        "name": "Donde Hay M\u00fasica (Spanish Version)",
+        "url": "https://open.spotify.com/album/49oNMRzQcMBCqiz03JOQqq"
       },
       "artists": [
         {
-          "name": "Ricardo Montaner",
-          "url": "https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD"
+          "name": "Eros Ramazzotti",
+          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
         }
       ],
-      "duration_ms": 289866,
-      "name": "Tan enamorados",
-      "url": "https://open.spotify.com/track/5kxol5m6MfiJgahqyzbDRH"
+      "duration_ms": 265626,
+      "name": "La Cosa Mas Bella",
+      "url": "https://open.spotify.com/track/1EZypwk0xcj64ZLAglhLs2"
     },
     {
       "added_at": "2023-09-27 23:59:28",
@@ -651,18 +651,18 @@
     {
       "added_at": "2023-09-27 23:59:28",
       "album": {
-        "name": "Donde Hay M\u00fasica (Spanish Version)",
-        "url": "https://open.spotify.com/album/49oNMRzQcMBCqiz03JOQqq"
+        "name": "Ricardo Montaner Con La London Metropolitan Orchestra",
+        "url": "https://open.spotify.com/album/7dI1jAbtx6nFn2rcQKVPFE"
       },
       "artists": [
         {
-          "name": "Eros Ramazzotti",
-          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
+          "name": "Ricardo Montaner",
+          "url": "https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD"
         }
       ],
-      "duration_ms": 265626,
-      "name": "La Cosa Mas Bella",
-      "url": "https://open.spotify.com/track/1EZypwk0xcj64ZLAglhLs2"
+      "duration_ms": 289866,
+      "name": "Tan enamorados",
+      "url": "https://open.spotify.com/track/5kxol5m6MfiJgahqyzbDRH"
     },
     {
       "added_at": "2023-09-27 23:59:28",
@@ -763,22 +763,6 @@
     {
       "added_at": "2023-09-27 23:59:28",
       "album": {
-        "name": "Luz Y Sombra",
-        "url": "https://open.spotify.com/album/57M2J9XUqv52BtTCJ5FifM"
-      },
-      "artists": [
-        {
-          "name": "Flans",
-          "url": "https://open.spotify.com/artist/4zbqGb99bANxJBsvwRr2zT"
-        }
-      ],
-      "duration_ms": 280040,
-      "name": "Las Mil Y Una Noches",
-      "url": "https://open.spotify.com/track/0b53GyMOfBCt5L6bh0CH3f"
-    },
-    {
-      "added_at": "2023-09-27 23:59:28",
-      "album": {
         "name": "Entre el Cielo y el Suelo (Bonus Tracks Edition)",
         "url": "https://open.spotify.com/album/1vDYLED9bQwm3FzIdXs5H9"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 174946,
       "name": "Me Cuesta Tanto Olvidarte",
       "url": "https://open.spotify.com/track/5xsY1Bm1FItKFFoJ3b964t"
+    },
+    {
+      "added_at": "2023-09-27 23:59:28",
+      "album": {
+        "name": "Luz Y Sombra",
+        "url": "https://open.spotify.com/album/57M2J9XUqv52BtTCJ5FifM"
+      },
+      "artists": [
+        {
+          "name": "Flans",
+          "url": "https://open.spotify.com/artist/4zbqGb99bANxJBsvwRr2zT"
+        }
+      ],
+      "duration_ms": 280040,
+      "name": "Las Mil Y Una Noches",
+      "url": "https://open.spotify.com/track/0b53GyMOfBCt5L6bh0CH3f"
     },
     {
       "added_at": "2023-09-27 23:59:28",
@@ -811,22 +811,6 @@
     {
       "added_at": "2023-09-27 23:59:28",
       "album": {
-        "name": "A las Cinco en el Astoria",
-        "url": "https://open.spotify.com/album/2x2ZnWT2gqKGXYul03g47r"
-      },
-      "artists": [
-        {
-          "name": "La Oreja de Van Gogh",
-          "url": "https://open.spotify.com/artist/4U7lXyKdSf1JbM1aXvsodC"
-        }
-      ],
-      "duration_ms": 239240,
-      "name": "Jueves",
-      "url": "https://open.spotify.com/track/1UDToCUvhfhYrTFxA1Xi4w"
-    },
-    {
-      "added_at": "2023-09-27 23:59:28",
-      "album": {
         "name": "Mar\u00eda Jos\u00e9",
         "url": "https://open.spotify.com/album/3ZYCIP3Z0UcypRrTLghQ4M"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 239706,
       "name": "Me equivoqu\u00e9",
       "url": "https://open.spotify.com/track/0mjwigpuvO4IAAMtoNoUyQ"
+    },
+    {
+      "added_at": "2023-09-27 23:59:28",
+      "album": {
+        "name": "A las Cinco en el Astoria",
+        "url": "https://open.spotify.com/album/2x2ZnWT2gqKGXYul03g47r"
+      },
+      "artists": [
+        {
+          "name": "La Oreja de Van Gogh",
+          "url": "https://open.spotify.com/artist/4U7lXyKdSf1JbM1aXvsodC"
+        }
+      ],
+      "duration_ms": 239240,
+      "name": "Jueves",
+      "url": "https://open.spotify.com/track/1UDToCUvhfhYrTFxA1Xi4w"
     },
     {
       "added_at": "2023-09-27 23:59:28",
@@ -947,22 +947,6 @@
     {
       "added_at": "2023-09-27 23:59:28",
       "album": {
-        "name": "Noelia",
-        "url": "https://open.spotify.com/album/2slvRFExgEeUIYzb55N0h9"
-      },
-      "artists": [
-        {
-          "name": "Noelia",
-          "url": "https://open.spotify.com/artist/0uMBj1TX0cktGnVzLlgWux"
-        }
-      ],
-      "duration_ms": 291626,
-      "name": "T\u00fa",
-      "url": "https://open.spotify.com/track/5n49jN2souYjOuP9vHDpu4"
-    },
-    {
-      "added_at": "2023-09-27 23:59:28",
-      "album": {
         "name": "Quisiera",
         "url": "https://open.spotify.com/album/3v2sq3JspM5Kny8Hz6ElyH"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 331360,
       "name": "La Chica de Humo",
       "url": "https://open.spotify.com/track/0GZ8UVlhn2tjHPpngzoLJk"
+    },
+    {
+      "added_at": "2023-09-27 23:59:28",
+      "album": {
+        "name": "Noelia",
+        "url": "https://open.spotify.com/album/2slvRFExgEeUIYzb55N0h9"
+      },
+      "artists": [
+        {
+          "name": "Noelia",
+          "url": "https://open.spotify.com/artist/0uMBj1TX0cktGnVzLlgWux"
+        }
+      ],
+      "duration_ms": 291626,
+      "name": "T\u00fa",
+      "url": "https://open.spotify.com/track/5n49jN2souYjOuP9vHDpu4"
     },
     {
       "added_at": "2023-09-27 23:59:28",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2023-09-27 23:59:28",
       "album": {
-        "name": "Intimamente",
-        "url": "https://open.spotify.com/album/5K5nnSuTpYNG2dc4mtDiRY"
-      },
-      "artists": [
-        {
-          "name": "Emmanuel",
-          "url": "https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576"
-        }
-      ],
-      "duration_ms": 217866,
-      "name": "Insoportablemente Bella",
-      "url": "https://open.spotify.com/track/24jLRb0lLtk4U3F2xPh2AH"
-    },
-    {
-      "added_at": "2023-09-27 23:59:28",
-      "album": {
         "name": "Desamor y Despecho",
         "url": "https://open.spotify.com/album/7otDfsqCNejESwOZAd5YVC"
       },
@@ -1123,6 +1107,22 @@
     {
       "added_at": "2023-09-27 23:59:28",
       "album": {
+        "name": "Intimamente",
+        "url": "https://open.spotify.com/album/5K5nnSuTpYNG2dc4mtDiRY"
+      },
+      "artists": [
+        {
+          "name": "Emmanuel",
+          "url": "https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576"
+        }
+      ],
+      "duration_ms": 217866,
+      "name": "Insoportablemente Bella",
+      "url": "https://open.spotify.com/track/24jLRb0lLtk4U3F2xPh2AH"
+    },
+    {
+      "added_at": "2023-09-27 23:59:28",
+      "album": {
         "name": "El Viaje de Copperpot",
         "url": "https://open.spotify.com/album/3HnSOodhuufrSTBnGZQ3fu"
       },
@@ -1135,22 +1135,6 @@
       "duration_ms": 226800,
       "name": "Paris",
       "url": "https://open.spotify.com/track/5ByvJeBlrYISiwy7AVEAmP"
-    },
-    {
-      "added_at": "2023-09-27 23:59:28",
-      "album": {
-        "name": "Coleccion Suprema",
-        "url": "https://open.spotify.com/album/3CxDiBxX6u10UpaRnYeKSx"
-      },
-      "artists": [
-        {
-          "name": "Yuri",
-          "url": "https://open.spotify.com/artist/4OgNARLQSC4yy7Dsa5cqxx"
-        }
-      ],
-      "duration_ms": 234320,
-      "name": "Maldita Primavera",
-      "url": "https://open.spotify.com/track/3GUyiFEglEm9rSToOf5YZW"
     },
     {
       "added_at": "2023-09-27 23:59:28",
@@ -1171,6 +1155,22 @@
     {
       "added_at": "2023-09-27 23:59:28",
       "album": {
+        "name": "Coleccion Suprema",
+        "url": "https://open.spotify.com/album/3CxDiBxX6u10UpaRnYeKSx"
+      },
+      "artists": [
+        {
+          "name": "Yuri",
+          "url": "https://open.spotify.com/artist/4OgNARLQSC4yy7Dsa5cqxx"
+        }
+      ],
+      "duration_ms": 234320,
+      "name": "Maldita Primavera",
+      "url": "https://open.spotify.com/track/3GUyiFEglEm9rSToOf5YZW"
+    },
+    {
+      "added_at": "2023-09-27 23:59:28",
+      "album": {
         "name": "Frente a ti",
         "url": "https://open.spotify.com/album/56NsyR1PkXMsHRhkENdODk"
       },
@@ -1183,6 +1183,22 @@
       "duration_ms": 228146,
       "name": "Mi error, mi fantas\u00eda",
       "url": "https://open.spotify.com/track/4fQgdmcUMqmlhhSjQdMHTE"
+    },
+    {
+      "added_at": "2023-09-27 23:59:28",
+      "album": {
+        "name": "Enrique Iglesias",
+        "url": "https://open.spotify.com/album/18FB0rct42g5hNr14l70GK"
+      },
+      "artists": [
+        {
+          "name": "Enrique Iglesias",
+          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
+        }
+      ],
+      "duration_ms": 244026,
+      "name": "Por Amarte",
+      "url": "https://open.spotify.com/track/3nTP1d8K9jHFHiozzXGVDF"
     },
     {
       "added_at": "2023-09-27 23:59:28",
@@ -1235,22 +1251,6 @@
     {
       "added_at": "2023-09-27 23:59:28",
       "album": {
-        "name": "Enrique Iglesias",
-        "url": "https://open.spotify.com/album/18FB0rct42g5hNr14l70GK"
-      },
-      "artists": [
-        {
-          "name": "Enrique Iglesias",
-          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
-        }
-      ],
-      "duration_ms": 244026,
-      "name": "Por Amarte",
-      "url": "https://open.spotify.com/track/3nTP1d8K9jHFHiozzXGVDF"
-    },
-    {
-      "added_at": "2023-09-27 23:59:28",
-      "album": {
         "name": "Adentro",
         "url": "https://open.spotify.com/album/3MXgh2NutxVsZvxHaNZG2s"
       },
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2023-09-27 23:59:28",
       "album": {
-        "name": "Tierra De Nadie",
-        "url": "https://open.spotify.com/album/3gV3uvJ1HSYVM88Tsh1DHi"
-      },
-      "artists": [
-        {
-          "name": "Ana Gabriel",
-          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
-        }
-      ],
-      "duration_ms": 227600,
-      "name": "Simplemente Amigos",
-      "url": "https://open.spotify.com/track/10PwPpr7BBxYon3pwS7k5G"
-    },
-    {
-      "added_at": "2023-09-27 23:59:28",
-      "album": {
         "name": "M\u00e1s",
         "url": "https://open.spotify.com/album/3MfNbOJuFb5H4CjrT49oiI"
       },
@@ -1295,6 +1279,22 @@
       "duration_ms": 323026,
       "name": "Y, \u00bfSi fuera ella?",
       "url": "https://open.spotify.com/track/1DmlUpnkg4N1VWquSoffF1"
+    },
+    {
+      "added_at": "2023-09-27 23:59:28",
+      "album": {
+        "name": "Tierra De Nadie",
+        "url": "https://open.spotify.com/album/3gV3uvJ1HSYVM88Tsh1DHi"
+      },
+      "artists": [
+        {
+          "name": "Ana Gabriel",
+          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
+        }
+      ],
+      "duration_ms": 227600,
+      "name": "Simplemente Amigos",
+      "url": "https://open.spotify.com/track/10PwPpr7BBxYon3pwS7k5G"
     },
     {
       "added_at": "2023-09-27 23:59:28",
@@ -1347,6 +1347,22 @@
     {
       "added_at": "2023-09-27 23:59:28",
       "album": {
+        "name": "Cosas Del Amor",
+        "url": "https://open.spotify.com/album/3DWm5mRGgDkBBQ8BH4TYIB"
+      },
+      "artists": [
+        {
+          "name": "Enrique Iglesias",
+          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
+        }
+      ],
+      "duration_ms": 264160,
+      "name": "Nunca Te Olvidar\u00e9",
+      "url": "https://open.spotify.com/track/0UjtkXe54YuY5SMwXYjkvq"
+    },
+    {
+      "added_at": "2023-09-27 23:59:28",
+      "album": {
         "name": "Lunas rotas",
         "url": "https://open.spotify.com/album/3iZk2FY3YtnSNjx06Ft8Xg"
       },
@@ -1379,26 +1395,6 @@
     {
       "added_at": "2023-09-27 23:59:28",
       "album": {
-        "name": "Papitwo (Deluxe)",
-        "url": "https://open.spotify.com/album/6mgs9ywhBqW5QSCMyYPC3g"
-      },
-      "artists": [
-        {
-          "name": "Miguel Bos\u00e9",
-          "url": "https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S"
-        },
-        {
-          "name": "Ximena Sari\u00f1ana",
-          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
-        }
-      ],
-      "duration_ms": 248049,
-      "name": "Aire soy (feat. Ximena Sari\u00f1ana)",
-      "url": "https://open.spotify.com/track/1ORb6uGvpjsFwZK8FUpzWy"
-    },
-    {
-      "added_at": "2023-09-27 23:59:28",
-      "album": {
         "name": "Qui\u00e9n Dijo Ayer",
         "url": "https://open.spotify.com/album/1icNy43dW75nSFOkucRFJZ"
       },
@@ -1415,22 +1411,6 @@
     {
       "added_at": "2023-09-27 23:59:28",
       "album": {
-        "name": "Cosas Del Amor",
-        "url": "https://open.spotify.com/album/3DWm5mRGgDkBBQ8BH4TYIB"
-      },
-      "artists": [
-        {
-          "name": "Enrique Iglesias",
-          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
-        }
-      ],
-      "duration_ms": 264160,
-      "name": "Nunca Te Olvidar\u00e9",
-      "url": "https://open.spotify.com/track/0UjtkXe54YuY5SMwXYjkvq"
-    },
-    {
-      "added_at": "2023-09-27 23:59:28",
-      "album": {
         "name": "Ricardo Montaner Con La London Metropolitan Orchestra",
         "url": "https://open.spotify.com/album/7dI1jAbtx6nFn2rcQKVPFE"
       },
@@ -1443,6 +1423,26 @@
       "duration_ms": 298293,
       "name": "Me va a extra\u00f1ar (aka Unchain My Heart)",
       "url": "https://open.spotify.com/track/35436ddSANnATz1eBT5FAY"
+    },
+    {
+      "added_at": "2023-09-27 23:59:28",
+      "album": {
+        "name": "Papitwo (Deluxe)",
+        "url": "https://open.spotify.com/album/6mgs9ywhBqW5QSCMyYPC3g"
+      },
+      "artists": [
+        {
+          "name": "Miguel Bos\u00e9",
+          "url": "https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S"
+        },
+        {
+          "name": "Ximena Sari\u00f1ana",
+          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
+        }
+      ],
+      "duration_ms": 248049,
+      "name": "Aire soy (feat. Ximena Sari\u00f1ana)",
+      "url": "https://open.spotify.com/track/1ORb6uGvpjsFwZK8FUpzWy"
     },
     {
       "added_at": "2023-09-27 23:59:28",
@@ -1495,6 +1495,22 @@
     {
       "added_at": "2023-09-27 23:59:28",
       "album": {
+        "name": "Enrique Iglesias",
+        "url": "https://open.spotify.com/album/18FB0rct42g5hNr14l70GK"
+      },
+      "artists": [
+        {
+          "name": "Enrique Iglesias",
+          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
+        }
+      ],
+      "duration_ms": 244000,
+      "name": "Si T\u00fa Te Vas",
+      "url": "https://open.spotify.com/track/7A1V7IEbwn2nuFGreV8DNv"
+    },
+    {
+      "added_at": "2023-09-27 23:59:28",
+      "album": {
         "name": "Lunas rotas",
         "url": "https://open.spotify.com/album/3iZk2FY3YtnSNjx06Ft8Xg"
       },
@@ -1539,22 +1555,6 @@
       "duration_ms": 248200,
       "name": "Entra en Mi Vida",
       "url": "https://open.spotify.com/track/4W6za66pgH7QBbeiU9kS1v"
-    },
-    {
-      "added_at": "2023-09-27 23:59:28",
-      "album": {
-        "name": "Enrique Iglesias",
-        "url": "https://open.spotify.com/album/18FB0rct42g5hNr14l70GK"
-      },
-      "artists": [
-        {
-          "name": "Enrique Iglesias",
-          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
-        }
-      ],
-      "duration_ms": 244000,
-      "name": "Si T\u00fa Te Vas",
-      "url": "https://open.spotify.com/track/7A1V7IEbwn2nuFGreV8DNv"
     },
     {
       "added_at": "2023-09-27 23:59:28",

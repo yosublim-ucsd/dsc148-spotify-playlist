@@ -108,7 +108,7 @@
       ],
       "date_added": "2022-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-03",
       "duration_ms": 164465,
       "name": "All I Want",
       "url": "https://open.spotify.com/track/0OedQD5eXPfAzUATFDOGhl"
@@ -539,6 +539,46 @@
     },
     {
       "album": {
+        "name": "Christmas Hits Different",
+        "url": "https://open.spotify.com/album/3yZQBoubh5fwN1gFHI8f7m"
+      },
+      "artists": [
+        {
+          "name": "TobyMac",
+          "url": "https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3"
+        },
+        {
+          "name": "Tasha Layton",
+          "url": "https://open.spotify.com/artist/3yCv2yloJueOb4Y3HEYgSq"
+        }
+      ],
+      "date_added": "2023-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208173,
+      "name": "Christmas Hits Different",
+      "url": "https://open.spotify.com/track/2waUZdv6NOCZwUfUFCIJis"
+    },
+    {
+      "album": {
+        "name": "Christmas In Hawaii",
+        "url": "https://open.spotify.com/album/5NAheJ9w5wWNYhgoRzQkeU"
+      },
+      "artists": [
+        {
+          "name": "We The Kingdom",
+          "url": "https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest"
+        }
+      ],
+      "date_added": "2023-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243466,
+      "name": "Christmas in Hawaii",
+      "url": "https://open.spotify.com/track/21Dnu9VPtg1qymVH0J9Xke"
+    },
+    {
+      "album": {
         "name": "Christmas Lights",
         "url": "https://open.spotify.com/album/2ML0HivGBfi9C1ihEAnqck"
       },
@@ -633,6 +673,24 @@
     },
     {
       "album": {
+        "name": "Christmas Time Is Here (Reimagined)",
+        "url": "https://open.spotify.com/album/4Ij1lGWKoaRcRw8v7pzGpn"
+      },
+      "artists": [
+        {
+          "name": "Local Sound",
+          "url": "https://open.spotify.com/artist/2cXyPSMdJcGw3t9yNhwTN2"
+        }
+      ],
+      "date_added": "2023-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189600,
+      "name": "Christmas Time Is Here (Reimagined)",
+      "url": "https://open.spotify.com/track/1r25fgMWTtczQg9t87m5pv"
+    },
+    {
+      "album": {
         "name": "Merry Christmas (Expanded Edition)",
         "url": "https://open.spotify.com/album/6lFHaBON0xRq8uPIjCUxa5"
       },
@@ -666,6 +724,24 @@
       "duration_ms": 182990,
       "name": "Christmas Valentine",
       "url": "https://open.spotify.com/track/3IGnC58kVTeQQGxEybWtaE"
+    },
+    {
+      "album": {
+        "name": "Menna Christmas",
+        "url": "https://open.spotify.com/album/11cc5FO58DTxFpjPQLBmVQ"
+      },
+      "artists": [
+        {
+          "name": "Menna",
+          "url": "https://open.spotify.com/artist/5kLvMAFanr3jQ7iuciSCuM"
+        }
+      ],
+      "date_added": "2023-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147969,
+      "name": "Christmas Wish",
+      "url": "https://open.spotify.com/track/1sKh3XHyI5sqa6qP2h6qMy"
     },
     {
       "album": {
@@ -706,6 +782,24 @@
       "duration_ms": 159388,
       "name": "December We'll Remember",
       "url": "https://open.spotify.com/track/4QFnLIjqUNsxQFd82z3xx8"
+    },
+    {
+      "album": {
+        "name": "A Merry Lofi Christmas",
+        "url": "https://open.spotify.com/album/6POlo0xOimnxIz7gfQg0rX"
+      },
+      "artists": [
+        {
+          "name": "Forrest Frank",
+          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
+        }
+      ],
+      "date_added": "2023-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128250,
+      "name": "Deck The Halls",
+      "url": "https://open.spotify.com/track/63ZvE7HuKmw3Wb6Q7dM96u"
     },
     {
       "album": {
@@ -1032,7 +1126,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-03",
       "duration_ms": 252640,
       "name": "Forever Evergreen (Here in the Winter)",
       "url": "https://open.spotify.com/track/0GHZixuBIWMWUsED3IaXSR"
@@ -1086,7 +1180,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-03",
       "duration_ms": 140464,
       "name": "Go Tell It On The Mountain",
       "url": "https://open.spotify.com/track/6MaTesDJBXPBsULCNSfTCB"
@@ -1148,6 +1242,28 @@
       "duration_ms": 242973,
       "name": "Go Tell It on the Mountain (feat. Brad Wheeler)",
       "url": "https://open.spotify.com/track/4bRJr0gSXtgOrLVG3Iwolh"
+    },
+    {
+      "album": {
+        "name": "Go Tell It On The Mountain (Rewrapped)",
+        "url": "https://open.spotify.com/album/5Rk1kinVPd0BPcAH8cjkuG"
+      },
+      "artists": [
+        {
+          "name": "for KING & COUNTRY",
+          "url": "https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC"
+        },
+        {
+          "name": "Gabby Barrett",
+          "url": "https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL"
+        }
+      ],
+      "date_added": "2023-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198642,
+      "name": "Go Tell It On The Mountain (Rewrapped)",
+      "url": "https://open.spotify.com/track/2zfXK6yHVv4xOiyIoqJaNf"
     },
     {
       "album": {
@@ -1245,6 +1361,24 @@
     },
     {
       "album": {
+        "name": "Hallelujah (Christmas Version)",
+        "url": "https://open.spotify.com/album/620sEzmHRuOfXiY2HhRZyN"
+      },
+      "artists": [
+        {
+          "name": "Jada Facer",
+          "url": "https://open.spotify.com/artist/4k51JgB5G0e33QYVpbcPuf"
+        }
+      ],
+      "date_added": "2023-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173836,
+      "name": "Hallelujah - Christmas Version",
+      "url": "https://open.spotify.com/track/7CVYW9e440Ffa8kyu6cC3Q"
+    },
+    {
+      "album": {
         "name": "Joy To Our World",
         "url": "https://open.spotify.com/album/6rwwb34IZFoebbkLoMNwn4"
       },
@@ -1278,6 +1412,24 @@
       "duration_ms": 244877,
       "name": "Hark The Herald Angels Sing",
       "url": "https://open.spotify.com/track/7ry33QJNnX9YJFEo51yUQK"
+    },
+    {
+      "album": {
+        "name": "Hark! The Herald Angels Sing",
+        "url": "https://open.spotify.com/album/16zKXuUfl1d58gk4ntAJHr"
+      },
+      "artists": [
+        {
+          "name": "Jenny Thorn",
+          "url": "https://open.spotify.com/artist/6lyyztZQV3gJ1ptg97K2y9"
+        }
+      ],
+      "date_added": "2023-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262674,
+      "name": "Hark! The Herald Angels Sing",
+      "url": "https://open.spotify.com/track/5V6sMZv9k53ngSlMMxz6wE"
     },
     {
       "album": {
@@ -1591,6 +1743,36 @@
     },
     {
       "album": {
+        "name": "No More Wasted Years",
+        "url": "https://open.spotify.com/album/1qpgxwVd0GemgTLsBDKRBx"
+      },
+      "artists": [
+        {
+          "name": "Common Hymnal",
+          "url": "https://open.spotify.com/artist/1q6xQXmuTccwh7gBR7ToUN"
+        },
+        {
+          "name": "James Paek",
+          "url": "https://open.spotify.com/artist/2TSvKiWhpJaQ6m2zhhA7rz"
+        },
+        {
+          "name": "Gabriella Velez",
+          "url": "https://open.spotify.com/artist/6RfRV0mC3oSKOAEbL1rSvO"
+        },
+        {
+          "name": "Royce Lovett",
+          "url": "https://open.spotify.com/artist/4BKyFlbGn3XvEAXQi3QR9N"
+        }
+      ],
+      "date_added": "2023-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260526,
+      "name": "Humble People, Humble Christ - Christmas Worship Bonus Track",
+      "url": "https://open.spotify.com/track/0syu2w7DHVOHtiGq1eSIoa"
+    },
+    {
+      "album": {
         "name": "Home For Christmas",
         "url": "https://open.spotify.com/album/0xFsRgSW5ufmhn2ytb4zCw"
       },
@@ -1660,7 +1842,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-03",
       "duration_ms": 165671,
       "name": "I Heard The Bells On Christmas Day",
       "url": "https://open.spotify.com/track/2QpnSAzTscRZvoE0EW922P"
@@ -1938,7 +2120,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-03",
       "duration_ms": 180676,
       "name": "Joy (To the World)",
       "url": "https://open.spotify.com/track/6u5QM6f2evRbxBIzqaPe96"
@@ -2062,6 +2244,24 @@
       "duration_ms": 257933,
       "name": "Joy to the World",
       "url": "https://open.spotify.com/track/2OggiWqL8exckT6kOrcDuA"
+    },
+    {
+      "album": {
+        "name": "Come Behold the Wondrous Mystery",
+        "url": "https://open.spotify.com/album/2tYGsvTA51Jp18CQb6uUhm"
+      },
+      "artists": [
+        {
+          "name": "The Gray Havens",
+          "url": "https://open.spotify.com/artist/4gzyIFii6fWdCiLsP0bocC"
+        }
+      ],
+      "date_added": "2023-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142955,
+      "name": "Joy to the World",
+      "url": "https://open.spotify.com/track/4ZFGsi1RZdId56Fq6BIAnG"
     },
     {
       "album": {
@@ -2334,7 +2534,7 @@
       ],
       "date_added": "2022-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-03",
       "duration_ms": 185639,
       "name": "Little Drummer Boy",
       "url": "https://open.spotify.com/track/24aU7xjRrQPYiH0GwkUvFa"
@@ -2424,7 +2624,7 @@
       ],
       "date_added": "2022-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-03",
       "duration_ms": 218571,
       "name": "Maybe Christmas Will Make It Right",
       "url": "https://open.spotify.com/track/3pRy8US6Hud7z9VcOZ0FQW"
@@ -2534,7 +2734,7 @@
       ],
       "date_added": "2022-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-03",
       "duration_ms": 234478,
       "name": "Mothers And Shepherds",
       "url": "https://open.spotify.com/track/4dNp6tEx0fcbiFGwF40h3k"
@@ -2600,6 +2800,28 @@
       "duration_ms": 261415,
       "name": "Noel (He Is Born) - Acoustic",
       "url": "https://open.spotify.com/track/17Lfjg1DnlDBc7BsVz1uOG"
+    },
+    {
+      "album": {
+        "name": "The Birth Of A King: Live In Concert",
+        "url": "https://open.spotify.com/album/185Mzor8MfxAWYoQrvwjc4"
+      },
+      "artists": [
+        {
+          "name": "Tommee Profitt",
+          "url": "https://open.spotify.com/artist/73jlPRxT7z5xk29sMqFDjU"
+        },
+        {
+          "name": "Stanaj",
+          "url": "https://open.spotify.com/artist/3zrUX1hQrUB9aXcOiyQLmN"
+        }
+      ],
+      "date_added": "2023-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274398,
+      "name": "Noel (He Is Born) - Live",
+      "url": "https://open.spotify.com/track/7z6BQY0aXTpPdn7AGywY3x"
     },
     {
       "album": {
@@ -2708,7 +2930,7 @@
       ],
       "date_added": "2022-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-03",
       "duration_ms": 215626,
       "name": "O Come, All Ye Faithful",
       "url": "https://open.spotify.com/track/2UJXlQri2qYzcReNqFHWZD"
@@ -2810,6 +3032,24 @@
       "duration_ms": 223058,
       "name": "O Holy Night",
       "url": "https://open.spotify.com/track/0nkezeQsDA5Owpul6PxRSJ"
+    },
+    {
+      "album": {
+        "name": "O Holy Night",
+        "url": "https://open.spotify.com/album/5RTWg1kU4d1q0Isw37Nz3O"
+      },
+      "artists": [
+        {
+          "name": "TAYA",
+          "url": "https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW"
+        }
+      ],
+      "date_added": "2023-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223653,
+      "name": "O Holy Night",
+      "url": "https://open.spotify.com/track/2dqayZh9u35azhsmakq4pN"
     },
     {
       "album": {
@@ -3101,6 +3341,28 @@
     },
     {
       "album": {
+        "name": "Ring Them Bells",
+        "url": "https://open.spotify.com/album/0GxLNpsn2hp1oKycqB1Poa"
+      },
+      "artists": [
+        {
+          "name": "Ben Fuller",
+          "url": "https://open.spotify.com/artist/57zYbDb1zNVoTYNUGmv45d"
+        },
+        {
+          "name": "Jonathan Traylor",
+          "url": "https://open.spotify.com/artist/7KcmdvVaaO7Y0pmHQjOEFo"
+        }
+      ],
+      "date_added": "2023-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219920,
+      "name": "Ring Them Bells",
+      "url": "https://open.spotify.com/track/6KLtFiTj68gDr0WXvjpOkt"
+    },
+    {
+      "album": {
         "name": "Merry Christmas From Brenda Lee",
         "url": "https://open.spotify.com/album/34wa3zf2prXFMk47t9zHFG"
       },
@@ -3354,7 +3616,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-03",
       "duration_ms": 257026,
       "name": "Silver Bells",
       "url": "https://open.spotify.com/track/3gndDjG0Lxsm2b1eH5nA0Z"
@@ -3596,7 +3858,7 @@
       ],
       "date_added": "2022-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-03",
       "duration_ms": 196186,
       "name": "The Christmas Waltz",
       "url": "https://open.spotify.com/track/7Fkoq2pfSTpN6Slh05dYYN"
@@ -3704,7 +3966,7 @@
       ],
       "date_added": "2022-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-03",
       "duration_ms": 297551,
       "name": "The Hope for All",
       "url": "https://open.spotify.com/track/6xRhLODIOh065PTQTj9008"
@@ -3780,7 +4042,7 @@
       ],
       "date_added": "2022-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-03",
       "duration_ms": 172201,
       "name": "This Christmas",
       "url": "https://open.spotify.com/track/4CBjktJLsRt8ZO8LSEq0lu"
@@ -3838,6 +4100,24 @@
       "duration_ms": 184838,
       "name": "This Christmas",
       "url": "https://open.spotify.com/track/3NQcGDkm0I1XFeFSlCWMqt"
+    },
+    {
+      "album": {
+        "name": "This Christmas",
+        "url": "https://open.spotify.com/album/2xZkGu01Qw3pdnPe2Vz3zX"
+      },
+      "artists": [
+        {
+          "name": "Tasha Layton",
+          "url": "https://open.spotify.com/artist/3yCv2yloJueOb4Y3HEYgSq"
+        }
+      ],
+      "date_added": "2023-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267482,
+      "name": "This Christmas",
+      "url": "https://open.spotify.com/track/5dl8MF0hfPDv0hxam7Bhtm"
     },
     {
       "album": {
@@ -4126,7 +4406,7 @@
       ],
       "date_added": "2022-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-03",
       "duration_ms": 164826,
       "name": "What Christmas Means to Me",
       "url": "https://open.spotify.com/track/7cIXP0NlDmF1MYy9rMrvLA"

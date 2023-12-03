@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasicas aconchegantes para aquecer a alma nos dias frios.",
-  "num_followers": 348643,
+  "num_followers": 348645,
   "original_name": "Friozinho",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMmNjOTE2YzAyYjVhYzg5Yzg3NWE0NDdjMjZhOTc2ZTBiYzAxN2Mw",
+  "snapshot_id": "MCxjZDliYjBkYWExZTlmZjVjNjFiYjEyY2E3Y2ExZWRhYzQ4NDIyODZk",
   "tracks": [
     {
       "added_at": "2023-11-24 15:27:37",
@@ -327,6 +327,22 @@
     {
       "added_at": "2023-11-24 15:27:37",
       "album": {
+        "name": "Good God!",
+        "url": "https://open.spotify.com/album/3fIxJzinc2MADbgfkLrmYY"
+      },
+      "artists": [
+        {
+          "name": "Rio Romeo",
+          "url": "https://open.spotify.com/artist/22y08IZx7u6SWpsfap1Cub"
+        }
+      ],
+      "duration_ms": 211000,
+      "name": "Nothing's New",
+      "url": "https://open.spotify.com/track/0EF1EE8zusg3Y869e56JFd"
+    },
+    {
+      "added_at": "2023-11-24 15:27:37",
+      "album": {
         "name": "Stuck with U",
         "url": "https://open.spotify.com/album/5mUdh6YWnUvf0MfklEk1oi"
       },
@@ -343,22 +359,6 @@
       "duration_ms": 228482,
       "name": "Stuck with U (with Justin Bieber)",
       "url": "https://open.spotify.com/track/4HBZA5flZLE435QTztThqH"
-    },
-    {
-      "added_at": "2023-11-24 15:27:37",
-      "album": {
-        "name": "Good God!",
-        "url": "https://open.spotify.com/album/3fIxJzinc2MADbgfkLrmYY"
-      },
-      "artists": [
-        {
-          "name": "Rio Romeo",
-          "url": "https://open.spotify.com/artist/22y08IZx7u6SWpsfap1Cub"
-        }
-      ],
-      "duration_ms": 211000,
-      "name": "Nothing's New",
-      "url": "https://open.spotify.com/track/0EF1EE8zusg3Y869e56JFd"
     },
     {
       "added_at": "2023-11-24 15:27:37",
@@ -615,22 +615,6 @@
     {
       "added_at": "2023-11-24 15:27:37",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/2kJnIPJHIRZlfOx0TZEKBP"
-      },
-      "artists": [
-        {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
-        }
-      ],
-      "duration_ms": 233617,
-      "name": "I Knew You Were Trouble - Spotify Singles",
-      "url": "https://open.spotify.com/track/30QYxvXOJZhGBF6DvpNb8w"
-    },
-    {
-      "added_at": "2023-11-24 15:27:37",
-      "album": {
         "name": "Good Riddance (Deluxe)",
         "url": "https://open.spotify.com/album/78YYcghEDz2dHRx0EcDGXZ"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 245629,
       "name": "I know it won't work",
       "url": "https://open.spotify.com/track/33uKUpu9ZXsHhcxRLoxnWI"
+    },
+    {
+      "added_at": "2023-11-24 15:27:37",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/2kJnIPJHIRZlfOx0TZEKBP"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "duration_ms": 233617,
+      "name": "I Knew You Were Trouble - Spotify Singles",
+      "url": "https://open.spotify.com/track/30QYxvXOJZhGBF6DvpNb8w"
     },
     {
       "added_at": "2023-11-24 15:27:37",
@@ -699,22 +699,6 @@
     {
       "added_at": "2023-11-24 15:27:37",
       "album": {
-        "name": "Freya Ridings",
-        "url": "https://open.spotify.com/album/3dcenoRctm8OAnqoCrQrLd"
-      },
-      "artists": [
-        {
-          "name": "Freya Ridings",
-          "url": "https://open.spotify.com/artist/5pDjmC5mRl7vDJhsjVwNfk"
-        }
-      ],
-      "duration_ms": 225853,
-      "name": "Lost Without You",
-      "url": "https://open.spotify.com/track/3cWI6Hj9LQ0MfMuhw9uSMc"
-    },
-    {
-      "added_at": "2023-11-24 15:27:37",
-      "album": {
         "name": "Sand",
         "url": "https://open.spotify.com/album/6K8VcnG6HUSp59xNOpEJhP"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 219584,
       "name": "Sand",
       "url": "https://open.spotify.com/track/3HYUKa1HkaSRk4C0xK4O5q"
+    },
+    {
+      "added_at": "2023-11-24 15:27:37",
+      "album": {
+        "name": "Freya Ridings",
+        "url": "https://open.spotify.com/album/3dcenoRctm8OAnqoCrQrLd"
+      },
+      "artists": [
+        {
+          "name": "Freya Ridings",
+          "url": "https://open.spotify.com/artist/5pDjmC5mRl7vDJhsjVwNfk"
+        }
+      ],
+      "duration_ms": 225853,
+      "name": "Lost Without You",
+      "url": "https://open.spotify.com/track/3cWI6Hj9LQ0MfMuhw9uSMc"
     },
     {
       "added_at": "2023-11-24 15:27:37",
@@ -823,26 +823,6 @@
     {
       "added_at": "2023-11-24 15:27:37",
       "album": {
-        "name": "We Go Down Together (with Khalid)",
-        "url": "https://open.spotify.com/album/3ja0XiK9ABd3vSbLNHlna3"
-      },
-      "artists": [
-        {
-          "name": "Dove Cameron",
-          "url": "https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE"
-        },
-        {
-          "name": "Khalid",
-          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
-        }
-      ],
-      "duration_ms": 184963,
-      "name": "We Go Down Together (with Khalid)",
-      "url": "https://open.spotify.com/track/2Y67qsABsPKMrvCxPCzL6r"
-    },
-    {
-      "added_at": "2023-11-24 15:27:37",
-      "album": {
         "name": "Minefields",
         "url": "https://open.spotify.com/album/6Pp5U1A6z6OogrtQEL5Q89"
       },
@@ -875,6 +855,26 @@
       "duration_ms": 121695,
       "name": "Once More",
       "url": "https://open.spotify.com/track/1exDZN0zsfDpsIKamOqmSz"
+    },
+    {
+      "added_at": "2023-11-24 15:27:37",
+      "album": {
+        "name": "We Go Down Together (with Khalid)",
+        "url": "https://open.spotify.com/album/3ja0XiK9ABd3vSbLNHlna3"
+      },
+      "artists": [
+        {
+          "name": "Dove Cameron",
+          "url": "https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE"
+        },
+        {
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+        }
+      ],
+      "duration_ms": 184963,
+      "name": "We Go Down Together (with Khalid)",
+      "url": "https://open.spotify.com/track/2Y67qsABsPKMrvCxPCzL6r"
     },
     {
       "added_at": "2023-11-24 15:27:37",
@@ -979,6 +979,22 @@
     {
       "added_at": "2023-11-24 15:27:37",
       "album": {
+        "name": "3 Boys",
+        "url": "https://open.spotify.com/album/1Iw32lOJC5lfInKyA7Zzt1"
+      },
+      "artists": [
+        {
+          "name": "Omar Apollo",
+          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
+        }
+      ],
+      "duration_ms": 209188,
+      "name": "3 Boys",
+      "url": "https://open.spotify.com/track/31Wlc9ZnraX3JxrvMg9e8H"
+    },
+    {
+      "added_at": "2023-11-24 15:27:37",
+      "album": {
         "name": "Angel Face",
         "url": "https://open.spotify.com/album/6CczqhUdYOH4qLSDnN3zkg"
       },
@@ -1007,22 +1023,6 @@
       "duration_ms": 159133,
       "name": "Carry Me Away",
       "url": "https://open.spotify.com/track/4Szq4dulKN9bOvLRW6uMdZ"
-    },
-    {
-      "added_at": "2023-11-24 15:27:37",
-      "album": {
-        "name": "3 Boys",
-        "url": "https://open.spotify.com/album/1Iw32lOJC5lfInKyA7Zzt1"
-      },
-      "artists": [
-        {
-          "name": "Omar Apollo",
-          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
-        }
-      ],
-      "duration_ms": 209188,
-      "name": "3 Boys",
-      "url": "https://open.spotify.com/track/31Wlc9ZnraX3JxrvMg9e8H"
     },
     {
       "added_at": "2023-11-24 15:27:37",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2023-11-24 15:27:37",
       "album": {
-        "name": "Paint My Bedroom Black",
-        "url": "https://open.spotify.com/album/7xpV6gsna8TzskCRjmSxLE"
-      },
-      "artists": [
-        {
-          "name": "Holly Humberstone",
-          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
-        }
-      ],
-      "duration_ms": 229713,
-      "name": "Paint My Bedroom Black",
-      "url": "https://open.spotify.com/track/3gA9Y5RsXBUKkr1IP6v4g3"
-    },
-    {
-      "added_at": "2023-11-24 15:27:37",
-      "album": {
         "name": "falling or flying",
         "url": "https://open.spotify.com/album/3cCpJc6LhvskN7i9w3WkaA"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 132213,
       "name": "Broken is the man",
       "url": "https://open.spotify.com/track/7BwnU39GlAArxm3JmQWcRp"
+    },
+    {
+      "added_at": "2023-11-24 15:27:37",
+      "album": {
+        "name": "Paint My Bedroom Black",
+        "url": "https://open.spotify.com/album/7xpV6gsna8TzskCRjmSxLE"
+      },
+      "artists": [
+        {
+          "name": "Holly Humberstone",
+          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
+        }
+      ],
+      "duration_ms": 229713,
+      "name": "Paint My Bedroom Black",
+      "url": "https://open.spotify.com/track/3gA9Y5RsXBUKkr1IP6v4g3"
     },
     {
       "added_at": "2023-11-24 15:27:37",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2023-11-24 15:27:37",
       "album": {
-        "name": "Conversations in the Dark",
-        "url": "https://open.spotify.com/album/5LVi2qET36RvkLil7mJclb"
-      },
-      "artists": [
-        {
-          "name": "John Legend",
-          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
-        }
-      ],
-      "duration_ms": 237426,
-      "name": "Conversations in the Dark",
-      "url": "https://open.spotify.com/track/6TYlDTa9AQDvjqwbxlvFyI"
-    },
-    {
-      "added_at": "2023-11-24 15:27:37",
-      "album": {
         "name": "when was it over? (feat. Sam Hunt)",
         "url": "https://open.spotify.com/album/3AgZTDS1wwPkLMs2HAcWjG"
       },
@@ -1311,6 +1295,22 @@
     {
       "added_at": "2023-11-24 15:27:37",
       "album": {
+        "name": "Conversations in the Dark",
+        "url": "https://open.spotify.com/album/5LVi2qET36RvkLil7mJclb"
+      },
+      "artists": [
+        {
+          "name": "John Legend",
+          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+        }
+      ],
+      "duration_ms": 237426,
+      "name": "Conversations in the Dark",
+      "url": "https://open.spotify.com/track/6TYlDTa9AQDvjqwbxlvFyI"
+    },
+    {
+      "added_at": "2023-11-24 15:27:37",
+      "album": {
         "name": "Alone In A Crowd",
         "url": "https://open.spotify.com/album/0x6KKhlAIZsuU6SVgSX9E9"
       },
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2023-11-24 15:27:37",
       "album": {
-        "name": "DEPOIS DO UNIVERSO",
-        "url": "https://open.spotify.com/album/4jsJ7WsXvoyiwYFx16MlqG"
-      },
-      "artists": [
-        {
-          "name": "GIULIA BE",
-          "url": "https://open.spotify.com/artist/0kjGPGtoyKwKVOZAKmv5K6"
-        }
-      ],
-      "duration_ms": 184160,
-      "name": "DEPOIS DO UNIVERSO",
-      "url": "https://open.spotify.com/track/6T5TyMUmqcg8ZIvTDYaJ1o"
-    },
-    {
-      "added_at": "2023-11-24 15:27:37",
-      "album": {
         "name": "Paper Crown",
         "url": "https://open.spotify.com/album/7sQDzWYBQavRBvvamkslFe"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 192407,
       "name": "Paper Crown",
       "url": "https://open.spotify.com/track/2fB0qwP98V9Yrv3mgR6IJJ"
+    },
+    {
+      "added_at": "2023-11-24 15:27:37",
+      "album": {
+        "name": "DEPOIS DO UNIVERSO",
+        "url": "https://open.spotify.com/album/4jsJ7WsXvoyiwYFx16MlqG"
+      },
+      "artists": [
+        {
+          "name": "GIULIA BE",
+          "url": "https://open.spotify.com/artist/0kjGPGtoyKwKVOZAKmv5K6"
+        }
+      ],
+      "duration_ms": 184160,
+      "name": "DEPOIS DO UNIVERSO",
+      "url": "https://open.spotify.com/track/6T5TyMUmqcg8ZIvTDYaJ1o"
     },
     {
       "added_at": "2023-11-24 15:27:37",
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2023-11-24 15:27:37",
       "album": {
-        "name": "Happy For You",
-        "url": "https://open.spotify.com/album/20cXMWG0KcvCA2N6O5ixbY"
-      },
-      "artists": [
-        {
-          "name": "Lukas Graham",
-          "url": "https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7"
-        }
-      ],
-      "duration_ms": 226402,
-      "name": "Happy For You",
-      "url": "https://open.spotify.com/track/68z9t6zihQgqzBGtexjTRG"
-    },
-    {
-      "added_at": "2023-11-24 15:27:37",
-      "album": {
         "name": "The Things I Left Unsaid",
         "url": "https://open.spotify.com/album/0x68nTDfyciGgU7UXNmm44"
       },
@@ -1611,6 +1595,22 @@
       "duration_ms": 182813,
       "name": "No Matter What",
       "url": "https://open.spotify.com/track/61rLJp9G9fJyzRAH9JUu9s"
+    },
+    {
+      "added_at": "2023-11-24 15:27:37",
+      "album": {
+        "name": "Happy For You",
+        "url": "https://open.spotify.com/album/20cXMWG0KcvCA2N6O5ixbY"
+      },
+      "artists": [
+        {
+          "name": "Lukas Graham",
+          "url": "https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7"
+        }
+      ],
+      "duration_ms": 226402,
+      "name": "Happy For You",
+      "url": "https://open.spotify.com/track/68z9t6zihQgqzBGtexjTRG"
     },
     {
       "added_at": "2023-11-24 15:27:37",
@@ -1635,22 +1635,6 @@
     {
       "added_at": "2023-11-24 15:27:37",
       "album": {
-        "name": "London Is Lonely",
-        "url": "https://open.spotify.com/album/7tD8r8V7O1wl4ULxmDZExG"
-      },
-      "artists": [
-        {
-          "name": "Holly Humberstone",
-          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
-        }
-      ],
-      "duration_ms": 234760,
-      "name": "London Is Lonely",
-      "url": "https://open.spotify.com/track/5dXiKFepHXZktud7z5635H"
-    },
-    {
-      "added_at": "2023-11-24 15:27:37",
-      "album": {
         "name": "would you love me now?",
         "url": "https://open.spotify.com/album/7FhtEvJcaDWM92vlsJUrkw"
       },
@@ -1667,18 +1651,18 @@
     {
       "added_at": "2023-11-24 15:27:37",
       "album": {
-        "name": "golden thing",
-        "url": "https://open.spotify.com/album/33MiMpGm7MU2UBggBqBIUz"
+        "name": "London Is Lonely",
+        "url": "https://open.spotify.com/album/7tD8r8V7O1wl4ULxmDZExG"
       },
       "artists": [
         {
-          "name": "Cody Simpson",
-          "url": "https://open.spotify.com/artist/79Xp2rRN7wdsaTJgttdX3K"
+          "name": "Holly Humberstone",
+          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
         }
       ],
-      "duration_ms": 219300,
-      "name": "golden thing",
-      "url": "https://open.spotify.com/track/5y2TuOFgwlpztHlqENHQOE"
+      "duration_ms": 234760,
+      "name": "London Is Lonely",
+      "url": "https://open.spotify.com/track/5dXiKFepHXZktud7z5635H"
     },
     {
       "added_at": "2023-11-24 15:27:37",
@@ -1695,6 +1679,22 @@
       "duration_ms": 266626,
       "name": "Let Her Go - Acoustic",
       "url": "https://open.spotify.com/track/38OudvGwGjmc5R4sDb2rd0"
+    },
+    {
+      "added_at": "2023-11-24 15:27:37",
+      "album": {
+        "name": "golden thing",
+        "url": "https://open.spotify.com/album/33MiMpGm7MU2UBggBqBIUz"
+      },
+      "artists": [
+        {
+          "name": "Cody Simpson",
+          "url": "https://open.spotify.com/artist/79Xp2rRN7wdsaTJgttdX3K"
+        }
+      ],
+      "duration_ms": 219300,
+      "name": "golden thing",
+      "url": "https://open.spotify.com/track/5y2TuOFgwlpztHlqENHQOE"
     }
   ],
   "unique_name": "Friozinho",

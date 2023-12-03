@@ -4,7 +4,7 @@
 
 > Fresh Latin pop on the rise\. Cover: Leo Rizzi & DannyLux
 
-515 songs - 1 day 1 hr 56 min
+516 songs - 1 day 2 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -251,12 +251,13 @@
 | [Laguna](https://open.spotify.com/track/1IXlvfEQyufn2NehDTUmdA) | [Rouss](https://open.spotify.com/artist/3Xa0w2RUuQw38J199xgj2A), [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2) | [Laguna](https://open.spotify.com/album/69GY4foDKPwFg8yTYY2fMS) | 3:42 | 2023-03-24 | 2023-04-15 |
 | [Legendaria](https://open.spotify.com/track/5bARvxCD7HTJXsBLN7UhbZ) | [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW), [Cali Y El Dandee](https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK) | [Legendaria](https://open.spotify.com/album/3pf7QneuFzJcgTPLVLXaBW) | 2:59 | 2023-02-24 | 2023-06-26 |
 | [Lenguaje Universal](https://open.spotify.com/track/7pwWmrmWNK1QBTypB8Fyit) | [Mario Puglia](https://open.spotify.com/artist/3TTSyoNDmtiQ8jSpELHinT), [Ervin River](https://open.spotify.com/artist/5FJ0JzZcNCGhquRX2zPmbL) | [Lenguaje Universal](https://open.spotify.com/album/6hAmWesJ6RymjaRafBBpwO) | 3:00 | 2022-07-08 | 2022-10-29 |
-| [Licencia Pa Beber](https://open.spotify.com/track/3oapAPyyIhKm3H6zdkOFTh) | [Llane](https://open.spotify.com/artist/7A02nc5WKMBLqSKXxGZ4o8) | [Licencia Pa Beber](https://open.spotify.com/album/1vHzcL6nVzPI6N95hkrm3J) | 2:57 | 2023-12-01 |  |
+| [Licencia Pa Beber](https://open.spotify.com/track/3oapAPyyIhKm3H6zdkOFTh) | [Llane](https://open.spotify.com/artist/7A02nc5WKMBLqSKXxGZ4o8) | [Licencia Pa Beber](https://open.spotify.com/album/1vHzcL6nVzPI6N95hkrm3J) | 2:57 | 2023-12-01 | 2023-12-03 |
 | [LICÁNTROPO](https://open.spotify.com/track/3HjaJVZlDcX7b1lxCuE3Ko) | [Belén Aguilera](https://open.spotify.com/artist/5fmYDIdgEkSgLdL6esxgfp) | [LICÁNTROPO](https://open.spotify.com/album/1ya3tWZT4yE8OfEuIzSKdE) | 2:46 | 2023-06-30 | 2023-08-05 |
 | [Linda Natural](https://open.spotify.com/track/61C5r6fPRxNFoOUG7JQPfH) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [Linda Natural](https://open.spotify.com/album/6CQRznzuAM7gKDTlfcrNQx) | 2:22 | 2023-09-08 | 2023-11-11 |
 | [Llorar En La Ducha](https://open.spotify.com/track/1eXn4omRJkqVqUynAcp7dR) | [Sebastián Romero](https://open.spotify.com/artist/0FpJe752weMmwiyJyF8zXq) | [Llorar En La Ducha](https://open.spotify.com/album/7vdPp2sx8qDWDKdQx9BA0O) | 3:15 | 2022-05-06 | 2022-07-29 |
 | [lo que hay x aquí](https://open.spotify.com/track/5IlLm20JXhKbMtsH20NblC) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [lo que hay x aquí](https://open.spotify.com/album/28MEC53zcdE731x6FX3Hsm) | 2:35 | 2023-03-10 | 2023-05-13 |
 | [Lo Que Me Harías En Otra Parte](https://open.spotify.com/track/1gCTNc0Jrk78CHiHbuT63w) | [Vale](https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD) | [A Contraluz](https://open.spotify.com/album/0fHMjHobSboBcY2NQ4JfAN) | 2:40 | 2023-04-28 | 2023-06-03 |
+| [Lo Que Queda de Mí](https://open.spotify.com/track/5ONDwiSzjziWVwmxRZCen6) | [iñigo quintero](https://open.spotify.com/artist/0jbo7KFNMiIkfBR6ih0yhm) | [Lo Que Queda de Mí](https://open.spotify.com/album/5gSUafhGxfjgna6Wr0fiVc) | 3:50 | 2023-12-01 |  |
 | [Loco](https://open.spotify.com/track/2PI1tFqXSeJQmgPniuWGda) | [Alejandro Santamaria](https://open.spotify.com/artist/7HXJp9OMIL5tdwZYleuBvy) | [Loco](https://open.spotify.com/album/55o4WYcOPxOlfw1mgVyGA0) | 2:30 | 2022-09-09 | 2022-10-29 |
 | [Loco](https://open.spotify.com/track/5QaGdJsaC5xvFhBi7TVLGl) | [Chris Lebron](https://open.spotify.com/artist/3GPTvhZ8XfH7WkHXidvELk), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [Loco](https://open.spotify.com/album/2uSOp7hmFukPAZqn4lJWpI) | 3:33 | 2022-10-28 | 2023-03-08 |
 | [Los Hombres Son Todos Iguales](https://open.spotify.com/track/2JNhw8a87uhQ8gTIf26RSb) | [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd) | [Los Hombres Son Todos Iguales](https://open.spotify.com/album/0kAaBCYWSzyRdFQ2Y1qjcY) | 4:04 | 2023-02-10 | 2023-03-29 |

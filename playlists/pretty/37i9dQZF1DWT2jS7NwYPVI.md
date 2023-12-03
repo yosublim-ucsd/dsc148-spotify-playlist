@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 
 > Your cheat sheet for everything on the rise rock & alt world\. Cover: Militarie Gun
 
-[Spotify](https://open.spotify.com/user/spotify) - 435,937 likes - 127 songs - 6 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 435,945 likes - 127 songs - 6 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -136,4 +136,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 | 126 | [YEAH!](https://open.spotify.com/track/2bgJCXFcRZkedHVpjOZO52) | [Between You & Me](https://open.spotify.com/artist/1P1y4wp6V0CwjhGcXPKgAu) | [YEAH!](https://open.spotify.com/album/46ot2yrvPoFe2I8i6AsRXc) | 3:02 |
 | 127 | [Too Close for Comfort](https://open.spotify.com/track/6nrX4aDdUSLgznm6rkQwLv) | [Marlhy](https://open.spotify.com/artist/1fvH6NeNDohKGKwvRiebRA) | [Too Close for Comfort](https://open.spotify.com/album/7yPQhBeX53EvGIs2gkDYkI) | 3:33 |
 
-Snapshot ID: `MCwwOGViMmEyYTdkOWMzOWQ5MDRlYzIzMmUzODA1MjY1OTgzM2EyMzFi`
+Snapshot ID: `MCw1ZjFiM2E2OWYxNWE0ZDhhMTI2ZjM3YTA0MDc5NmRjZTZjMjU0YWRl`

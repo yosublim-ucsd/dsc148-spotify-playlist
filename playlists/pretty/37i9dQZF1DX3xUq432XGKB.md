@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3xUq432XGKB.md) - [plain]
 
 > We're celebrating the 10th anniversary of <a href=https://splashhouse.com/>Splash House </a> with the announcement of their June line up!
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,771 likes - 52 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,823 likes - 52 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3xUq432XGKB.md) - [plain]
 | 51 | [Do U Wanna?](https://open.spotify.com/track/3JVyi1g3zaAHL9k0CRwghg) | [The Sponges](https://open.spotify.com/artist/3cj6O7NrjS5l0CVo8LhpV1) | [Love\. Death\. Funk?](https://open.spotify.com/album/2BeUzAPjKS5r0NMbmezusM) | 2:51 |
 | 52 | [Carry Us](https://open.spotify.com/track/40U8KhwvDcaoBFYV4hKfRn) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J), [Kaleena Zanders](https://open.spotify.com/artist/0Sz2jslaxjcw2VM5zYh2jK) | [Carry Us](https://open.spotify.com/album/1ZD3lsDNczYTYLhnKGiGxj) | 3:58 |
 
-Snapshot ID: `MCw2ZjRlZTg5Y2U5MmIwMDcxOGNkMDQzY2M4YzBhNzg1YmE1ZDVhOTM5`
+Snapshot ID: `MCxhMTVlZWEyMTJkNmJjOGYzZjdkZmZkYmIwMmM5ZWJkMzA4Mjg0NWE3`

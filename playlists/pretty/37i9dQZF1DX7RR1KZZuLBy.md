@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7RR1KZZuLBy.md) - [plain]
 
 > Listen to your favourite tunes for inspiration and upliftment.
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,073 likes - 50 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,112 likes - 50 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7RR1KZZuLBy.md) - [plain]
 | 49 | [Elshadai Adonai Medley \(Live\)](https://open.spotify.com/track/6Cu35kyDyoWUioEWyiYTpS) | [Spirit Of Praise](https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa), [Benjamin Dube](https://open.spotify.com/artist/2Bjh5lfBvG5Oy6gCtpSGy2), [Precious Mosotho](https://open.spotify.com/artist/2vQTWpv2T7PVBVomihqmwF) | [Spirit of Praise, Vol\. 5 \(Live\)](https://open.spotify.com/album/5Et0R7qd6D6SupvR8TScaD) | 7:00 |
 | 50 | [Bow Down and Worship \- Live](https://open.spotify.com/track/4pwIlf5w1m2gZJ97o49fpJ) | [Benjamin Dube](https://open.spotify.com/artist/2Bjh5lfBvG5Oy6gCtpSGy2) | [Glory in His Presence](https://open.spotify.com/album/4H0LkLQqfqbryyNUmzDvoq) | 10:55 |
 
-Snapshot ID: `MCxhMWI3YTU3MDFiNTQxYjA5NzNhMGY0M2QxZjczNTA0MGNlOWJlYWNi`
+Snapshot ID: `MCxjMzZhM2EzYTIzNDZiMzgxNzRlZDA4MzFiZTU2MzQ0YTBmMWQ3M2Vi`

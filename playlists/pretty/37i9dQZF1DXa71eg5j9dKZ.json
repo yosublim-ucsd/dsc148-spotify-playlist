@@ -1,12 +1,12 @@
 {
   "description": "The home for alternative electronic music. Cover: KAYTRANADA",
-  "num_followers": 501207,
+  "num_followers": 501215,
   "original_name": "Altar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkY2MxOTZmM2VmOWM2ODk3ZDYwYzA5Yjc3NTNhMGM4NjA5YWU5Nzky",
+  "snapshot_id": "MCw3NGU2Y2IzYzk4YjBiMTBkNTZjNjAxMGNhNzk4NWFkMDFjOTRmZGM2",
   "tracks": [
     {
       "added_at": "2023-12-01 00:01:00",
@@ -1022,6 +1022,10 @@
         {
           "name": "Boys Noize",
           "url": "https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv"
+        },
+        {
+          "name": "Opus III",
+          "url": "https://open.spotify.com/artist/1hQuWl1dueM7ChRUZRn05z"
         }
       ],
       "duration_ms": 193690,

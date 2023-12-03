@@ -1,12 +1,12 @@
 {
   "description": "The best metal songs of the 90s. Cover: Metallica",
-  "num_followers": 939938,
+  "num_followers": 940433,
   "original_name": "90s Metal Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZTJmNTgxMzMxNGVjMzJkNmMxMWI5NDg1NjFmZjdhNTVjZmQxMmIy",
+  "snapshot_id": "MCw5OWI2NDFlMzM5YjMwMGMwMmY4ZWVkZjY4YWY0NDUzZDA5YzM1NDI0",
   "tracks": [
     {
       "added_at": "2023-03-01 15:25:34",
@@ -1135,6 +1135,22 @@
     {
       "added_at": "2023-03-01 15:25:34",
       "album": {
+        "name": "Balls to Picasso (2001 Remaster)",
+        "url": "https://open.spotify.com/album/2AKNnewiklMkna3HbigH5X"
+      },
+      "artists": [
+        {
+          "name": "Bruce Dickinson",
+          "url": "https://open.spotify.com/artist/7Iffw1nP3NjCWkRIx3Ily9"
+        }
+      ],
+      "duration_ms": 384013,
+      "name": "Tears of the Dragon (2001 Remaster)",
+      "url": "https://open.spotify.com/track/3EiQGaaHMHFk5ykD1a7vYt"
+    },
+    {
+      "added_at": "2023-03-01 15:25:34",
+      "album": {
         "name": "March Or Die",
         "url": "https://open.spotify.com/album/3pbbbyxPPgBTAMbAcVzjex"
       },
@@ -1147,22 +1163,6 @@
       "duration_ms": 275160,
       "name": "Hellraiser",
       "url": "https://open.spotify.com/track/65JrmVnWM5KzM1WrXIY0tI"
-    },
-    {
-      "added_at": "2023-03-01 15:25:34",
-      "album": {
-        "name": "KE*A*H** (Psalm 69)",
-        "url": "https://open.spotify.com/album/2wz3P1w89gQd3iXdmF1IA5"
-      },
-      "artists": [
-        {
-          "name": "Ministry",
-          "url": "https://open.spotify.com/artist/1DXylZlWbVvlckNqwvjTEt"
-        }
-      ],
-      "duration_ms": 292586,
-      "name": "Jesus Built My Hotrod",
-      "url": "https://open.spotify.com/track/0BX3ysoHJvxmLEhPMAfb2z"
     },
     {
       "added_at": "2023-03-01 15:25:34",
@@ -1199,34 +1199,18 @@
     {
       "added_at": "2023-03-01 15:25:34",
       "album": {
-        "name": "Balls to Picasso (2001 Remaster)",
-        "url": "https://open.spotify.com/album/2AKNnewiklMkna3HbigH5X"
+        "name": "KE*A*H** (Psalm 69)",
+        "url": "https://open.spotify.com/album/2wz3P1w89gQd3iXdmF1IA5"
       },
       "artists": [
         {
-          "name": "Bruce Dickinson",
-          "url": "https://open.spotify.com/artist/7Iffw1nP3NjCWkRIx3Ily9"
+          "name": "Ministry",
+          "url": "https://open.spotify.com/artist/1DXylZlWbVvlckNqwvjTEt"
         }
       ],
-      "duration_ms": 384013,
-      "name": "Tears of the Dragon (2001 Remaster)",
-      "url": "https://open.spotify.com/track/3EiQGaaHMHFk5ykD1a7vYt"
-    },
-    {
-      "added_at": "2023-03-01 15:25:34",
-      "album": {
-        "name": "The Downward Spiral",
-        "url": "https://open.spotify.com/album/3nJnyDV8fwFpffo0EyHQto"
-      },
-      "artists": [
-        {
-          "name": "Nine Inch Nails",
-          "url": "https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO"
-        }
-      ],
-      "duration_ms": 178640,
-      "name": "March Of The Pigs",
-      "url": "https://open.spotify.com/track/59FwEQpuagQZQVP71h9OIq"
+      "duration_ms": 292586,
+      "name": "Jesus Built My Hotrod",
+      "url": "https://open.spotify.com/track/0BX3ysoHJvxmLEhPMAfb2z"
     },
     {
       "added_at": "2023-03-01 15:25:34",
@@ -1243,6 +1227,22 @@
       "duration_ms": 355973,
       "name": "Space Lord",
       "url": "https://open.spotify.com/track/6GGfYfQlQhHidVOJO1tNgK"
+    },
+    {
+      "added_at": "2023-03-01 15:25:34",
+      "album": {
+        "name": "The Downward Spiral",
+        "url": "https://open.spotify.com/album/3nJnyDV8fwFpffo0EyHQto"
+      },
+      "artists": [
+        {
+          "name": "Nine Inch Nails",
+          "url": "https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO"
+        }
+      ],
+      "duration_ms": 178640,
+      "name": "March Of The Pigs",
+      "url": "https://open.spotify.com/track/59FwEQpuagQZQVP71h9OIq"
     },
     {
       "added_at": "2023-03-01 15:25:34",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2023-03-01 15:25:34",
       "album": {
-        "name": "KE*A*H** (Psalm 69)",
-        "url": "https://open.spotify.com/album/2wz3P1w89gQd3iXdmF1IA5"
-      },
-      "artists": [
-        {
-          "name": "Ministry",
-          "url": "https://open.spotify.com/artist/1DXylZlWbVvlckNqwvjTEt"
-        }
-      ],
-      "duration_ms": 330706,
-      "name": "N.W.O.",
-      "url": "https://open.spotify.com/track/2D9LxUcR9zWxQtxiHsMA0n"
-    },
-    {
-      "added_at": "2023-03-01 15:25:34",
-      "album": {
         "name": "La Sexorcisto: Devil Music Volume 1",
         "url": "https://open.spotify.com/album/6Cvv0qNSdZNf9o0j8EohoD"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 356400,
       "name": "How The Gods Kill",
       "url": "https://open.spotify.com/track/5w8agmmSkjBh4ScKCAtWqx"
+    },
+    {
+      "added_at": "2023-03-01 15:25:34",
+      "album": {
+        "name": "KE*A*H** (Psalm 69)",
+        "url": "https://open.spotify.com/album/2wz3P1w89gQd3iXdmF1IA5"
+      },
+      "artists": [
+        {
+          "name": "Ministry",
+          "url": "https://open.spotify.com/artist/1DXylZlWbVvlckNqwvjTEt"
+        }
+      ],
+      "duration_ms": 330706,
+      "name": "N.W.O.",
+      "url": "https://open.spotify.com/track/2D9LxUcR9zWxQtxiHsMA0n"
     },
     {
       "added_at": "2023-03-01 15:25:34",
@@ -1403,22 +1403,6 @@
       "duration_ms": 217333,
       "name": "Ashes to Ashes",
       "url": "https://open.spotify.com/track/0FxRbTtlo8AutEbifokqGf"
-    },
-    {
-      "added_at": "2023-03-01 15:25:34",
-      "album": {
-        "name": "Astro Creep: 2000 Songs Of Love, Destruction And Other Synthetic Delusions Of The Electric Head",
-        "url": "https://open.spotify.com/album/4U9gI7vQHDDo651yYJo02O"
-      },
-      "artists": [
-        {
-          "name": "White Zombie",
-          "url": "https://open.spotify.com/artist/0CF71zaDOJWCynIkW9bSK8"
-        }
-      ],
-      "duration_ms": 268760,
-      "name": "More Human Than Human",
-      "url": "https://open.spotify.com/track/6JgxvNYi44NFHCtQmZncTv"
     },
     {
       "added_at": "2023-03-01 15:25:34",
@@ -1483,6 +1467,22 @@
       "duration_ms": 211426,
       "name": "Powertrip",
       "url": "https://open.spotify.com/track/2FqDEb5wkhtwSl8H2erumv"
+    },
+    {
+      "added_at": "2023-03-01 15:25:34",
+      "album": {
+        "name": "Astro Creep: 2000 Songs Of Love, Destruction And Other Synthetic Delusions Of The Electric Head",
+        "url": "https://open.spotify.com/album/4U9gI7vQHDDo651yYJo02O"
+      },
+      "artists": [
+        {
+          "name": "White Zombie",
+          "url": "https://open.spotify.com/artist/0CF71zaDOJWCynIkW9bSK8"
+        }
+      ],
+      "duration_ms": 268760,
+      "name": "More Human Than Human",
+      "url": "https://open.spotify.com/track/6JgxvNYi44NFHCtQmZncTv"
     },
     {
       "added_at": "2023-03-01 15:25:34",

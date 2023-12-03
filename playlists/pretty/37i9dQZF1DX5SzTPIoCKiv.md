@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5SzTPIoCKiv.md) - [plain]
 
 > Recent smashes from your favorite Christian Contemporary artists\.  Cover: Mac Powell
 
-[Spotify](https://open.spotify.com/user/spotify) - 601,350 likes - 100 songs - 6 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 601,428 likes - 100 songs - 6 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5SzTPIoCKiv.md) - [plain]
 | 37 | [Exit Us](https://open.spotify.com/track/3lKfNyhGrF2z6peiXtUx1m) | [James Paek](https://open.spotify.com/artist/2TSvKiWhpJaQ6m2zhhA7rz) | [Exit Us](https://open.spotify.com/album/2gFAJD4Qf3Y1IW5INr1f7V) | 3:37 |
 | 38 | [Eye of the Storm \(feat\. Gabe Real\)](https://open.spotify.com/track/6RSBBvhrP0KvkpaUSMPI11) | [Ryan Stevenson](https://open.spotify.com/artist/1rxhmvc4pue9A2fEXnLT97), [Gabereal](https://open.spotify.com/artist/7pMRuTQan8Xa2erCF93GR7) | [Fresh Start](https://open.spotify.com/album/0deQGdpl2LNu0o7s9wRVGk) | 5:31 |
 | 39 | [Death Was Arrested \(feat\. Seth Condrey\)](https://open.spotify.com/track/1rXQLRlZfNTj8uaxIsEZQi) | [North Point Worship](https://open.spotify.com/artist/1IGGfstLsypGtdI55tT3Z1), [Seth Condrey](https://open.spotify.com/artist/4DeiqSO9kyWDr1KuQTYMVg) | [Death Was Arrested \(feat\. Seth Condrey\)](https://open.spotify.com/album/4MkIi2td3gzbKS3fgNqvJr) | 4:55 |
-| 40 | [Roses](https://open.spotify.com/track/3HnuBJfiwfMKaeunoyN4YA) | [Andrew Ripp](https://open.spotify.com/artist/7oAskcd3mX9ZzxMPFHYqoN) | [Evergreen](https://open.spotify.com/album/7ebIxlhEADsL5NNiWmRRuk) | 4:02 |
-| 41 | [Dead Man Walking](https://open.spotify.com/track/1z5YtEopKg5pyjCM3BEsr5) | [Jeremy Camp](https://open.spotify.com/artist/5wpEBloInversG3zp3CVAk) | [The Story's Not Over](https://open.spotify.com/album/3gSR4A397QFdzyvO2qihm3) | 3:07 |
+| 40 | [Dead Man Walking](https://open.spotify.com/track/1z5YtEopKg5pyjCM3BEsr5) | [Jeremy Camp](https://open.spotify.com/artist/5wpEBloInversG3zp3CVAk) | [The Story's Not Over](https://open.spotify.com/album/3gSR4A397QFdzyvO2qihm3) | 3:07 |
+| 41 | [Roses](https://open.spotify.com/track/3HnuBJfiwfMKaeunoyN4YA) | [Andrew Ripp](https://open.spotify.com/artist/7oAskcd3mX9ZzxMPFHYqoN) | [Evergreen](https://open.spotify.com/album/7ebIxlhEADsL5NNiWmRRuk) | 4:02 |
 | 42 | [House Of The Lord](https://open.spotify.com/track/3Gyl1BvC41QD8rXEMfSQWY) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Hymn Of Heaven](https://open.spotify.com/album/51IGu0d5eyVVO3wAxIm2Ep) | 4:16 |
 | 43 | [The Blessing](https://open.spotify.com/track/2lIB1TU0Cqnc6RuYDjc92z) | [Kari Jobe](https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2), [Cody Carnes](https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0) | [The Blessing](https://open.spotify.com/album/2vdGtEIX7BYmmruQ7UbEFL) | 7:03 |
 | 44 | [Springtime](https://open.spotify.com/track/0TmYlHDVP4gUTkUbl7AIsv) | [Chris Renzema](https://open.spotify.com/artist/2hIvOHaLTl9XCyCbNPwYzT) | [Let the Ground Rest](https://open.spotify.com/album/67cPtLz0jVSsGHWLiIMip7) | 4:14 |
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5SzTPIoCKiv.md) - [plain]
 | 64 | [Reason](https://open.spotify.com/track/7nUflbCfoSFYiBOGH5D81R) | [Unspoken](https://open.spotify.com/artist/0CqDqmyIQ9VQHQp52OEbB0) | [Reason](https://open.spotify.com/album/3Nq9AIP3OMU6hKUpyiGjfS) | 3:19 |
 | 65 | [No Impossible with You](https://open.spotify.com/track/2XJ73OpbAluRnivJ4UI1C6) | [I AM THEY](https://open.spotify.com/artist/0XJ5RIvhlOL0harjI9jZvX) | [Trial & Triumph](https://open.spotify.com/album/4milDwwpzRI8oHNuaXmNNX) | 3:37 |
 | 66 | [Red Letters](https://open.spotify.com/track/0ezeXzG4Qi5GJGu9E3W4VY) | [Crowder](https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu) | [I Know A Ghost](https://open.spotify.com/album/7JiKelPfVrHUCRNsu6k9lq) | 3:48 |
-| 67 | [Home](https://open.spotify.com/track/2aMb1asq5acm7cDYlFsYhY) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Never Lose Sight \(Deluxe Edition\)](https://open.spotify.com/album/7BK26n0Gkw7bvAlAUdU53F) | 3:39 |
-| 68 | [I Am Loved](https://open.spotify.com/track/3eWfz0o9bJZ3t9GCPjLtQD) | [Mack Brock](https://open.spotify.com/artist/5yCOPpDHEQxwSJJL2LAqLj) | [I Am Loved](https://open.spotify.com/album/4pHDnWMt0uMGANMTr2yHem) | 7:12 |
+| 67 | [I Am Loved](https://open.spotify.com/track/3eWfz0o9bJZ3t9GCPjLtQD) | [Mack Brock](https://open.spotify.com/artist/5yCOPpDHEQxwSJJL2LAqLj) | [I Am Loved](https://open.spotify.com/album/4pHDnWMt0uMGANMTr2yHem) | 7:12 |
+| 68 | [Home](https://open.spotify.com/track/2aMb1asq5acm7cDYlFsYhY) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Never Lose Sight \(Deluxe Edition\)](https://open.spotify.com/album/7BK26n0Gkw7bvAlAUdU53F) | 3:39 |
 | 69 | [You've Always Been](https://open.spotify.com/track/7s2AninaWICPPvch6wBctw) | [Unspoken](https://open.spotify.com/artist/0CqDqmyIQ9VQHQp52OEbB0) | [Reason](https://open.spotify.com/album/3Nq9AIP3OMU6hKUpyiGjfS) | 3:38 |
 | 70 | [Symphony](https://open.spotify.com/track/0Wc49GX11eFZV4BjJd8yh9) | [Switch](https://open.spotify.com/artist/67xUUajI1dXaeY4e4ouwEN), [Dillon Chase](https://open.spotify.com/artist/3cj7pwtC0GuRFHayrbazV8) | [Symphony](https://open.spotify.com/album/5TigSX6SdwoGVhTS3sE8TW) | 4:04 |
 | 71 | [For My Good](https://open.spotify.com/track/2zRmDaYLsDw208NFV7CpFj) | [Cochren & Co.](https://open.spotify.com/artist/50hkKRxo0g8Ck4JqlwoJr4) | [Don't Lose Hope](https://open.spotify.com/album/3Us0eofAYq7tRuaH7A56i0) | 3:14 |
@@ -91,8 +91,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5SzTPIoCKiv.md) - [plain]
 | 81 | [Come To the Table](https://open.spotify.com/track/2gdSplXjHbjMMfLcwl3Nku) | [Sidewalk Prophets](https://open.spotify.com/artist/2SMYoM2Kbcj6rI6U3FRc4U) | [Something Different \(Deluxe Version\)](https://open.spotify.com/album/4S4lInmCZneeMgd2wUJAwr) | 4:15 |
 | 82 | [I Will Fear No More](https://open.spotify.com/track/7IKh3MlTFsgFOaqKc0z7If) | [The Afters](https://open.spotify.com/artist/1Q9nxD19emMUTTWtFi7jZc) | [The Beginning & Everything After](https://open.spotify.com/album/30Cu7H7abvkKw8EuWckmG0) | 3:22 |
 | 83 | [Fires](https://open.spotify.com/track/3ejVruvkKSlZKOmKdbUkt6) | [Jordan St\. Cyr](https://open.spotify.com/artist/4RbkVdTJEHZEfppvxBD6Il) | [Jordan St\. Cyr](https://open.spotify.com/album/0MCDpmEi7dRHtWtW9U4GXC) | 3:48 |
-| 84 | [Let It Rain \(Is There Anybody\)](https://open.spotify.com/track/3Rf7ZckSUqSffVhHmiwOde) | [Crowder](https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu), [Mandisa](https://open.spotify.com/artist/0YPElKYjOD1sofFCtLdYj3) | [I Know A Ghost](https://open.spotify.com/album/7JiKelPfVrHUCRNsu6k9lq) | 3:29 |
-| 85 | [Is He Worthy?](https://open.spotify.com/track/4E43YlwUlpYDJIxcMjt0S7) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Holy Roar](https://open.spotify.com/album/2MsjmtZb4JVzmQ2kmS6dVq) | 4:31 |
+| 84 | [Is He Worthy?](https://open.spotify.com/track/4E43YlwUlpYDJIxcMjt0S7) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Holy Roar](https://open.spotify.com/album/2MsjmtZb4JVzmQ2kmS6dVq) | 4:31 |
+| 85 | [Let It Rain \(Is There Anybody\)](https://open.spotify.com/track/3Rf7ZckSUqSffVhHmiwOde) | [Crowder](https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu), [Mandisa](https://open.spotify.com/artist/0YPElKYjOD1sofFCtLdYj3) | [I Know A Ghost](https://open.spotify.com/album/7JiKelPfVrHUCRNsu6k9lq) | 3:29 |
 | 86 | [Same God](https://open.spotify.com/track/3kHh1th3S2di1tg5XoZTzU) | [Hannah Kerr](https://open.spotify.com/artist/5FxshnB3eJ2YDn8xN8zDKq) | [Same God](https://open.spotify.com/album/294x9L2GHOfyL9k0Ufo1qh) | 3:49 |
 | 87 | [Not Today](https://open.spotify.com/track/33Nyq9QfKCXEQtzeg22vg7) | [Hillsong UNITED](https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM), [TAYA](https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW) | [Wonder](https://open.spotify.com/album/5ZWmzqJe0RH6HdT4ntNaX2) | 4:13 |
 | 88 | [Fighting For Me](https://open.spotify.com/track/5StojELSdCvj23qhF9OxDW) | [Riley Clemmons](https://open.spotify.com/artist/7yZC6AEhvCD5NFR8yDUxCG) | [Fighting For Me](https://open.spotify.com/album/47d2vWvqayOsNeFeRI43ba) | 3:49 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5SzTPIoCKiv.md) - [plain]
 | 99 | [Your Love Defends Me](https://open.spotify.com/track/066eFvkQXyR9UIYi65GsSu) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [Echoes \(Deluxe Edition\)](https://open.spotify.com/album/7HKEDHznm7Zngpw3oHkorA) | 3:46 |
 | 100 | [Freedom \- Live](https://open.spotify.com/track/5UKiOsxr7Q3NQT2LkyFt9n) | [Jesus Culture](https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8), [Kim Walker\-Smith](https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz) | [Living With A Fire \(Live\)](https://open.spotify.com/album/0K4TZjqRa9XgexXHvWTwlp) | 6:31 |
 
-Snapshot ID: `MCwyNGY2ZTcxZGIyOTFlNmI5ZGI5YmU3ZGE5NDMyNTBiMTgzNzM1NWQ2`
+Snapshot ID: `MCw1MzZlZDlkYjJkN2M0MTVhMjg3MjZlZGZkYjg2NTNiNjgwZmY1M2Nk`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVoRFkSJDMLO.md) - [plain]
 
 > Inspired by African drums\. Cover: Tyla 🇿🇦
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,746 likes - 100 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,811 likes - 100 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVoRFkSJDMLO.md) - [plain]
 | 7 | [Arizona](https://open.spotify.com/track/3SA6Rfor4ghxWbyxxdpV3c) | [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Arizona](https://open.spotify.com/album/0qiVeOmNPdZy5ky2j74Cga) | 2:19 |
 | 8 | [Calypso](https://open.spotify.com/track/2WUPLFsNGENJPqRLsCvSWX) | [V'ghn](https://open.spotify.com/artist/4vJ5CUGTaAXPBNzT8dVWCG) | [Calypso](https://open.spotify.com/album/28mPLM5kXhLb0dLA8WGdhA) | 3:04 |
 | 9 | [Fruit](https://open.spotify.com/track/6UqAmZi1jlmmFtiDVRQ1Dy) | [Masterkraft](https://open.spotify.com/artist/0lEUtJddtvvDlxtEmF9j0m), [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF), [Majeeed](https://open.spotify.com/artist/3xBgAZIqiYzRh0Du0uXFAk) | [Fruit](https://open.spotify.com/album/7kip8gYzZEfC4zHZxBmKSa) | 2:58 |
-| 10 | [Mavhoko \(feat\. Optimist Music ZA, Agzo & Thama Tee\)](https://open.spotify.com/track/55qPZu7i9GLljN87dnCvy0) | [Dinho](https://open.spotify.com/artist/4vrcirbPoyFvdc64YBlMof), [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D), [Ydee](https://open.spotify.com/artist/7iLjLJYrTQwFfYTdWWmOFc), [Optimist Music ZA](https://open.spotify.com/artist/69FMBSIEqfCYBg5xqWdDQV), [Agzo](https://open.spotify.com/artist/02Avi4NhHRYTWnZsX2Eb4v), [ThamaTee](https://open.spotify.com/artist/09t5iD3Pt1aH3THxYUCydF) | [Mavhoko \(feat\. Optimist Music ZA, Agzo & Thama Tee\)](https://open.spotify.com/album/4kgCbZRmRnpG3OkPEazJEv) | 6:15 |
+| 10 | [Mavhoko \(feat\. Optimist Music ZA, Agzo & Thama Tee\)](https://open.spotify.com/track/55qPZu7i9GLljN87dnCvy0) | [Dinho](https://open.spotify.com/artist/4vrcirbPoyFvdc64YBlMof), [Ghost](https://open.spotify.com/artist/4LYRJABsG4yVXQRXLvku3I), [Ydee](https://open.spotify.com/artist/7iLjLJYrTQwFfYTdWWmOFc), [Optimist Music ZA](https://open.spotify.com/artist/69FMBSIEqfCYBg5xqWdDQV), [Agzo](https://open.spotify.com/artist/02Avi4NhHRYTWnZsX2Eb4v), [ThamaTee](https://open.spotify.com/artist/09t5iD3Pt1aH3THxYUCydF) | [Mavhoko \(feat\. Optimist Music ZA, Agzo & Thama Tee\)](https://open.spotify.com/album/4kgCbZRmRnpG3OkPEazJEv) | 6:15 |
 | 11 | [OHEMA \(with Crayon & Bella Shmurda\)](https://open.spotify.com/track/7CkDjDtJjCZA7AW7RBvrvC) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG), [Crayon](https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [OHEMA \(with Crayon & Bella Shmurda\)](https://open.spotify.com/album/6J9hIO03GDl5zU5BkI1DV6) | 3:25 |
 | 12 | [Holy Ghost](https://open.spotify.com/track/0zVk3uuV9UhxAt48F3OL12) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Holy Ghost](https://open.spotify.com/album/5y1s96lknw32i5O1OObkhg) | 3:06 |
 | 13 | [YEARNING](https://open.spotify.com/track/6RfPRJQSwGOfmoav29DDXs) | [TOME](https://open.spotify.com/artist/2aRiWRO2A7xUI2sqZyJJmX) | [PRELUDE](https://open.spotify.com/album/4ipUpoO1xOuasyZA7HdwhC) | 2:14 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVoRFkSJDMLO.md) - [plain]
 | 99 | [I Wish \(feat\. Libianca\)](https://open.spotify.com/track/6Y22KIQd0RSREshosQvN2B) | [JAE5](https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p), [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL), [Libianca](https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ) | [I Wish \(feat\. Libianca\)](https://open.spotify.com/album/1UMJ7lsAe3c4PhvaB3BA2o) | 2:43 |
 | 100 | [Slip N Slide \(feat\. Skillibeng & Shenseea\)](https://open.spotify.com/track/1w5cQpiBrPmwcIgRrz1Jcc) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst), [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [More Love, Less Ego](https://open.spotify.com/album/73rKiFhHZatrwJL0B1F6hY) | 3:29 |
 
-Snapshot ID: `MCw2NzFjNTVhNzk5NzlkMzJkNjA5YWVjNjE4M2M0ZjAwY2U2OTEyM2Vm`
+Snapshot ID: `MCwzOWZmMDgxMzAyYTE5YmE1N2M2N2FjZDVhNGQ3ZGYxNzljYzNhOGJl`

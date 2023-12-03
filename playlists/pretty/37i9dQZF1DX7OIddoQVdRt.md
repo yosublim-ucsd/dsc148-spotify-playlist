@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7OIddoQVdRt.md) - [plain]
 
 > Experience the powerful messages and sounds of the current hits and classic Gospel songs\.  Guest curated by: <a href="spotify:artist:4akybxRTGHJZ1DXjLhJ1qu">Kirk Franklin</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 630,415 likes - 100 songs - 8 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 630,482 likes - 100 songs - 8 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7OIddoQVdRt.md) - [plain]
 | 32 | [Something Has To Break \(feat\. Tasha Cobbs Leonard\) \- Live](https://open.spotify.com/track/719l9b2QzAejHepSi8vK5a) | [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y), [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [KIERRA](https://open.spotify.com/album/2twow9qKoLnhZO8FDjw82a) | 6:42 |
 | 33 | [The Better Benediction \(pt.2\) \(feat\. Lisa Knowles\-Smith, Le'Andria Johnson, KeKe Wyatt, Kierra Sheard & Tasha Cobbs Leonard\)](https://open.spotify.com/track/44Gmc28OqMon8yhJfo3Nze) | [PJ Morton](https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7), [Lisa Knowles\-Smith](https://open.spotify.com/artist/000UmiuzgqlUjKHpvIWmAo), [Le'Andria Johnson](https://open.spotify.com/artist/5gpgMHIDzhdGccwJniIXrh), [KeKe Wyatt](https://open.spotify.com/artist/0KWcq2E8ejxp78jdfpCd4K), [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y), [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [Watch The Sun \(Deluxe\)](https://open.spotify.com/album/0AbnTdKhHNa7K7h5KBPox3) | 4:31 |
 | 34 | [More Than Anything \(Radio Edit\)](https://open.spotify.com/track/0mVB0IVgOK7P1G77ZHTMc5) | [Anita Wilson](https://open.spotify.com/artist/4rEGEwaOU6Mtdj4ylW0fjS) | [More Than Anything \(Radio Edit\)](https://open.spotify.com/album/1fdSuqqPJUPRgJqiQpvUtc) | 4:20 |
-| 35 | [When I Pray](https://open.spotify.com/track/6cwhJE7pYWON7vv9kwVvEt) | [DOE](https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW) | [When I Pray](https://open.spotify.com/album/1bxHNtHkMIs2P3vGy1QVcl) | 3:41 |
-| 36 | [Won't Let Go](https://open.spotify.com/track/37s52ztttg63S3jIDQNo7v) | [Travis Greene](https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe) | [Broken Record](https://open.spotify.com/album/3KvTiS9JDUb7IR1xOWl9Wj) | 3:58 |
+| 35 | [Won't Let Go](https://open.spotify.com/track/37s52ztttg63S3jIDQNo7v) | [Travis Greene](https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe) | [Broken Record](https://open.spotify.com/album/3KvTiS9JDUb7IR1xOWl9Wj) | 3:58 |
+| 36 | [When I Pray](https://open.spotify.com/track/6cwhJE7pYWON7vv9kwVvEt) | [DOE](https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW) | [When I Pray](https://open.spotify.com/album/1bxHNtHkMIs2P3vGy1QVcl) | 3:41 |
 | 37 | [Jehovah Jireh \- Live](https://open.spotify.com/track/7l6yY4kttGsr96vM9vY7XX) | [Jekalyn Carr](https://open.spotify.com/artist/5ynRYAGjyPDE8unsFqi6MH) | [Changing Your Story](https://open.spotify.com/album/33Ew8vazpkcYhyyNMv8jhj) | 6:13 |
 | 38 | [Not Lucky, I'm Loved](https://open.spotify.com/track/4jc7FTXFUhTaMRpmU42yfI) | [Jonathan McReynolds](https://open.spotify.com/artist/5ItTHwcEtFh6DEOBheMub9) | [Make Room](https://open.spotify.com/album/2Gn6iOiQIWzAgeE1TYCJGS) | 6:48 |
 | 39 | [Just for Me](https://open.spotify.com/track/37llIA4HTMvM3IvZUVbbC0) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [LONG LIVE LOVE](https://open.spotify.com/album/0n0B8fefGF2CiVyNktbapt) | 4:35 |
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7OIddoQVdRt.md) - [plain]
 | 46 | [Blessin Me](https://open.spotify.com/track/075OkOIwlKjkMJxkfB36pt) | [Avery\*Sunshine](https://open.spotify.com/artist/4yMxdaUoKCalQPX9BMeeFf) | [Avery\*sunshine Album](https://open.spotify.com/album/3MqlTEkRsAntG8xBSeNcuB) | 4:42 |
 | 47 | [I Still Have You](https://open.spotify.com/track/21ksdeytHBlKH3coDrDud9) | [Smokie Norful](https://open.spotify.com/artist/0sD8Amms4kSxs5tBV4CUmR) | [I Still Have You](https://open.spotify.com/album/2de2aejtRsBb5cbnZB5Orc) | 4:14 |
 | 48 | [In Spite Of Me](https://open.spotify.com/track/14jIX5rmoUWVPBNq3Q72J8) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx), [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX) | [Royalty: Live At The Ryman](https://open.spotify.com/album/66hDxNOJJd54OLzt79Uvef) | 5:46 |
-| 49 | [Never Have to Be Alone](https://open.spotify.com/track/43w5n3xRMBOQll8xQBuO41) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Never Have to Be Alone](https://open.spotify.com/album/34VkbeKpr1wXJZe1xW0Aif) | 3:47 |
-| 50 | [Well Done](https://open.spotify.com/track/64hIlYHCreOzGCuzWsivXW) | [Erica Campbell](https://open.spotify.com/artist/46CCmeVLrgc6MnyVpVMOzp) | [Well Done](https://open.spotify.com/album/2T6MoExj6ZfHxd5az22f35) | 4:52 |
+| 49 | [Well Done](https://open.spotify.com/track/64hIlYHCreOzGCuzWsivXW) | [Erica Campbell](https://open.spotify.com/artist/46CCmeVLrgc6MnyVpVMOzp) | [Well Done](https://open.spotify.com/album/2T6MoExj6ZfHxd5az22f35) | 4:52 |
+| 50 | [Never Have to Be Alone](https://open.spotify.com/track/43w5n3xRMBOQll8xQBuO41) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Never Have to Be Alone](https://open.spotify.com/album/34VkbeKpr1wXJZe1xW0Aif) | 3:47 |
 | 51 | [Work It Out \- Live](https://open.spotify.com/track/1SDaYLQD1C9twbdZYsNcbX) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [Work It Out \(Live\)](https://open.spotify.com/album/5fcf47GvauNXh7yGACSXpQ) | 5:20 |
 | 52 | [I Am \(Radio Edit\)](https://open.spotify.com/track/5gvwQLe4Z86vBVtTESworf) | [James Fortune](https://open.spotify.com/artist/4eIjSDb64R18sJaNlOGaFH), [Deborah Carolina](https://open.spotify.com/artist/1b89ZzY5HMXI8pQlTfFe4m) | [I Am](https://open.spotify.com/album/5YhYF97P4OAVJCWr3Id5fz) | 4:42 |
 | 53 | [I Need You \(Live\)](https://open.spotify.com/track/5nNZ8eGlitET1yeFHvizpI) | [Donnie McClurkin](https://open.spotify.com/artist/74IEeKcuS34kF2TjOigXra) | [I Need You \(Live\)](https://open.spotify.com/album/4SlkxSSyXxnx9y0qpVlaH8) | 5:23 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7OIddoQVdRt.md) - [plain]
 | 99 | [Get Up](https://open.spotify.com/track/5r3afYPAvNdqVpMfsHm6qS) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [Get Up](https://open.spotify.com/album/7HHLL2T8rdwV1T8Tzw4CLi) | 6:02 |
 | 100 | [Jireh \(feat\. Chandler Moore & Naomi Raine\)](https://open.spotify.com/track/7yu4816uyIqXiPvALxL44y) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix), [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk), [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD) | [Jireh \(feat\. Chandler Moore & Naomi Raine\)](https://open.spotify.com/album/4l5yZalv0TVl70Xe13dFjl) | 9:58 |
 
-Snapshot ID: `MCxkNTY4ODVmMzFlZGMxMTUyOTU0NDIyYTJhNjcxZjQzNjQzN2E2ZTM1`
+Snapshot ID: `MCwwYjQyNGY0ZmU4Mzg3N2IwNTMwMjcwYzg5MWRmYTc1MzRjMGNhZmJj`

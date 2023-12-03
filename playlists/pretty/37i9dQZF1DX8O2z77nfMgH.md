@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Lanzamientos de la semana\. Lo nuevo de toda Iberoamérica\. Foto: Gabito Ballesteros
 
-[Spotify](https://open.spotify.com/user/spotify) - 930,809 likes - 57 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 930,826 likes - 57 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 18 | [Madrid](https://open.spotify.com/track/49Br4XqYMOBlwM2YRGPQYy) | [Juhn](https://open.spotify.com/artist/2LmcxBak1alK1bf7d1beTr) | [Madrid](https://open.spotify.com/album/6fp9VIOrvejpy2WKofJmL3) | 2:57 |
 | 19 | [VICE CITY](https://open.spotify.com/track/1yGmlc8rsoRrKd9CrbgBRF) | [Crazy Point](https://open.spotify.com/artist/5PUdPz2UyFQzWlBLYp0HOb) | [VICE CITY](https://open.spotify.com/album/6viR5WVsPcynrX5HzbMnCM) | 3:28 |
 | 20 | [A Todos Los Rumberos](https://open.spotify.com/track/0xWjrm5J1Gn6DEECqAG0uo) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Santana](https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P), [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [A Todos Los Rumberos](https://open.spotify.com/album/52frB9GrrklsmChI5bwCEI) | 4:29 |
-| 21 | [Pudiste pero No Quisiste](https://open.spotify.com/track/4GW1xy7yINUnuEQHaETaVC) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Como en los Viejos Tiempos](https://open.spotify.com/album/7kfuZtaN9zvpFhIIMZLvgI) | 3:32 |
+| 21 | [Pudiste Pero No Quisiste](https://open.spotify.com/track/4GW1xy7yINUnuEQHaETaVC) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Como en los Viejos Tiempos](https://open.spotify.com/album/7kfuZtaN9zvpFhIIMZLvgI) | 3:32 |
 | 22 | [La Diabla](https://open.spotify.com/track/0R6NfOiLzLj4O5VbYSJAjf) | [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1) | [La Diabla](https://open.spotify.com/album/2IoSjweCu07y9mv5H1Cj3v) | 2:52 |
 | 23 | [Besitos](https://open.spotify.com/track/7yS5ru5Zte13ujlQZqVbtC) | [BARBEL](https://open.spotify.com/artist/6oYwraA8pyfDH4Otny6ooZ) | [Besitos](https://open.spotify.com/album/0ywsmAj4XOjXIP0OwJJJBj) | 5:01 |
 | 24 | [Detrás De Cámaras](https://open.spotify.com/track/0czchxjdPJBzRv6BBQajqH) | [Aczino](https://open.spotify.com/artist/4r1ZDYKzPt3iIjuq8LbT6X) | [Detrás De Cámaras](https://open.spotify.com/album/7zBMH6a1YSvK83JNTYPLhi) | 3:24 |
@@ -59,11 +59,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 49 | [Mi Negro](https://open.spotify.com/track/0bnUwH9AV8bapbQVO4lxeQ) | [La Dame Blanche](https://open.spotify.com/artist/6u4VjE5cKZRnY451pcfhbG) | [Atómica](https://open.spotify.com/album/7oj2qCLRzyE9VTI4T7eime) | 3:59 |
 | 50 | [Pelicula De Adolescentes](https://open.spotify.com/track/3bCJWrkcmgjcvyXvjHxTlK) | [Pavlo](https://open.spotify.com/artist/5HkbqKHZAvQjhjkhYm6mp2) | [Película De Adolescentes](https://open.spotify.com/album/7DjwtIgVbzZztvayuTWmhF) | 2:48 |
 | 51 | [Gira](https://open.spotify.com/track/7hDpEwR09FbmMtp5cYyeoN) | [Alvarezmejia](https://open.spotify.com/artist/5EwgF5JefyGGnsUn6cKuo7), [Mario Puglia](https://open.spotify.com/artist/3TTSyoNDmtiQ8jSpELHinT) | [Elefante](https://open.spotify.com/album/3xIKLVK61GlkdHojlOxzK3) | 2:58 |
-| 52 | [Dangerous](https://open.spotify.com/track/6laQgNGUtNzFMgmFlC0J0R) | [Jacin22](https://open.spotify.com/artist/0hKZWHSEyzoRIOlCTpKJ5i), [Green Mike](https://open.spotify.com/artist/20VTUJpEwtBhTyiQboIF2Z), [Lovererboy Broke Again](https://open.spotify.com/artist/33PZfrnWhnaA3OZI4A5Jhz) | [NO MORE LOVE JAIDA\( DELUXE \)](https://open.spotify.com/album/5Wn1tmHUIy7SoEFWLaRGTI) | 2:21 |
+| 52 | [Dangerous](https://open.spotify.com/track/2S98gd8hjcg5gtNDgsnyx3) | [Kleinevlam](https://open.spotify.com/artist/0UyOphy0eyixk0EmaDqBLx), [Cm2](https://open.spotify.com/artist/0CzeXlUTm8wTk43s6QB9XF), [YUNGSTEALY](https://open.spotify.com/artist/1PL5muiJjjGEed6vpzRA5A) | [Dangerous](https://open.spotify.com/album/5Jyih0CqOl9I85X6XKRjxM) | 2:21 |
 | 53 | [Matadinha De Saudade \- Ao Vivo](https://open.spotify.com/track/5G2BT0ajtZQNy6FMDA5u8P) | [Grupo Menos É Mais](https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi), [Xand Avião](https://open.spotify.com/artist/43DRDu6nLSeIedZ7T1A616) | [Matadinha De Saudade \(Ao Vivo\)](https://open.spotify.com/album/1pxeauQMDEzXSu0xgzFMFR) | 2:56 |
 | 54 | [Carta Aberta](https://open.spotify.com/track/4VI4yOAb7fWrFCnuGBIaeG) | [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW) | [Carta Aberta](https://open.spotify.com/album/7yGXpufcJyZEZ5fcyv2NGq) | 4:22 |
 | 55 | [Leão do Dia](https://open.spotify.com/track/3KOEm1IpFPlqphGOWihzWh) | [João Gomes](https://open.spotify.com/artist/4JNo6Q5KdcRf1vtSX9mB0S) | [De Norte a Sul](https://open.spotify.com/album/72u6Y6KtOvwCp5y95uuRGx) | 2:43 |
 | 56 | [Amando O Inimigo \- Ao Vivo](https://open.spotify.com/track/3Ygy9AMTdoFHOWABEIuHWS) | [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [Ao Vivo Em Portugal](https://open.spotify.com/album/7lyxcFS7vs0VfgZDnY2cop) | 3:01 |
 | 57 | [Voltei Pra Cachorrada](https://open.spotify.com/track/2gF0DUT64JEFjqb0PJXj1M) | [Zé Felipe](https://open.spotify.com/artist/7cmuxPnXRJxwuYDHfbD8Eu), [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY) | [Voltei Pra Cachorrada](https://open.spotify.com/album/4PIUg2M3yEkQQFEK0zY0uz) | 2:23 |
 
-Snapshot ID: `MCwzMzk1MzZlYjllYTQ4MDk3NzU1OTc2ZGI4MDRlNjUzMTA1ZDg1YTM3`
+Snapshot ID: `MCxkNjZiODEyNmU2YjJiNDQyM2M2NDRhNTcyYzhjMzAyMGJiMDJmNzJk`

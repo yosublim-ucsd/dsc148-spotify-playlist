@@ -6370,7 +6370,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-03",
       "duration_ms": 290377,
       "name": "Haram Aliek",
       "url": "https://open.spotify.com/track/0nOYzdwXVX4ATRYVENxOyb"
@@ -6558,7 +6558,7 @@
       ],
       "date_added": "2021-12-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-30",
+      "date_removed": null,
       "duration_ms": 198040,
       "name": "Heather",
       "url": "https://open.spotify.com/track/4xqrdfXkTW4T0RauPLv3WA"
@@ -7936,7 +7936,7 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-03",
       "duration_ms": 219637,
       "name": "Kareh Nafsi",
       "url": "https://open.spotify.com/track/2HBLe2Hkm1l2Om72BJ9Bxx"
@@ -16393,6 +16393,24 @@
     },
     {
       "album": {
+        "name": "Montgomery Ricky",
+        "url": "https://open.spotify.com/album/25paSmOYSF03s81DCNqQn3"
+      },
+      "artists": [
+        {
+          "name": "Ricky Montgomery",
+          "url": "https://open.spotify.com/artist/0ZUvK7zGdXLd78mQr3t1Tw"
+        }
+      ],
+      "date_added": "2023-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181920,
+      "name": "This December",
+      "url": "https://open.spotify.com/track/3gjRRs7gmh3Euynu1cau1d"
+    },
+    {
+      "album": {
         "name": "This Is The Life (eDeluxe)",
         "url": "https://open.spotify.com/album/5DaToG3KvHnUgTPqY4cEbq"
       },
@@ -18100,7 +18118,7 @@
       ],
       "date_added": "2023-11-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-02",
+      "date_removed": null,
       "duration_ms": 147557,
       "name": "Yes or No",
       "url": "https://open.spotify.com/track/2gkVEnpahpE3bQuvGuCpAV"
@@ -20644,7 +20662,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-03",
       "duration_ms": 348003,
       "name": "\u0648\u064a\u0646 \u0635\u0631\u062a\u064a",
       "url": "https://open.spotify.com/track/0ywKzyhWxFQWGiQyjDBQFw"

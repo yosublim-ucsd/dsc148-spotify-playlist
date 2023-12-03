@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYkosMCdlEHA.md) - [plain]
 
 > Versões desplugadas para curtir um reggae com os pés na areia!
 
-[Spotify](https://open.spotify.com/user/spotify) - 129,317 likes - 75 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 129,443 likes - 75 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYkosMCdlEHA.md) - [plain]
 | 41 | [Roots Dance](https://open.spotify.com/track/6fkjiRiUOO5UTUC5hPwqcB) | [Chimarruts](https://open.spotify.com/artist/6rNz4V8ocdBOLgXmLxLVcW) | [Só Pra Brilhar](https://open.spotify.com/album/4dcwRYbS4okDFQiwPcEGuY) | 3:33 |
 | 42 | [I Wanna Be](https://open.spotify.com/track/1BCX365xfyXvfhkMtUFGuE) | [Marina Peralta](https://open.spotify.com/artist/5zL3IWBA5pdMvLUmj0Dq2O), [Rockers Control](https://open.spotify.com/artist/1iPwoFhbDDW4WQGiehzuun) | [ADMIRÁVEL CHIP NOVO \(RE\)ATIVADO](https://open.spotify.com/album/6bIHDpi2YUAO3C2CinsGSZ) | 3:40 |
 | 43 | [Tô De Pé \- Acústico](https://open.spotify.com/track/22QdpwlY4mNXPhl2j9RfgD) | [Maneva](https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb) | [Tô De Pé \(Acústico\)](https://open.spotify.com/album/5hdGzsTpsuqyjzFmfSL37v) | 2:49 |
-| 44 | [Stepping Out \- Live](https://open.spotify.com/track/2XPATe2p5O9RLC6T1XgI9b) | [Steel Pulse](https://open.spotify.com/artist/6UL7BodGc5iVmQGlMwHR0g) | [Rastafari Centennial: Live In Paris \- Elysee Montmartre](https://open.spotify.com/album/0DBU2QlxJuMujoxvydwrcd) | 5:58 |
-| 45 | [Lunar \(acústico\)](https://open.spotify.com/track/0N9qQtxL7sNEqKbGO9qTTw) | [3030](https://open.spotify.com/artist/3OHpci0ruhvaMv9F795LR5) | [Lunar \(acústico\)](https://open.spotify.com/album/34wfLXnN1uN11x0be2uoRS) | 4:00 |
+| 44 | [Lunar \(acústico\)](https://open.spotify.com/track/0N9qQtxL7sNEqKbGO9qTTw) | [3030](https://open.spotify.com/artist/3OHpci0ruhvaMv9F795LR5) | [Lunar \(acústico\)](https://open.spotify.com/album/34wfLXnN1uN11x0be2uoRS) | 4:00 |
+| 45 | [Stepping Out \- Live](https://open.spotify.com/track/2XPATe2p5O9RLC6T1XgI9b) | [Steel Pulse](https://open.spotify.com/artist/6UL7BodGc5iVmQGlMwHR0g) | [Rastafari Centennial: Live In Paris \- Elysee Montmartre](https://open.spotify.com/album/0DBU2QlxJuMujoxvydwrcd) | 5:58 |
 | 46 | [Nesses Olhos \- Ao Vivo](https://open.spotify.com/track/5BeOmmGoxAvDus9Ozpc0MI) | [Armandinho](https://open.spotify.com/artist/3h7RaVXBvdSNa7LXQtVYqH) | [Acústico \(Ao Vivo\)](https://open.spotify.com/album/6lmVZjhGk3WXhilmHHNbdR) | 3:44 |
 | 47 | [Firmamento \(Wrong Girl to Play With\) \[Acústico\]](https://open.spotify.com/track/5ML1D7QsoupxcvUJgf7eD1) | [Cidade Negra](https://open.spotify.com/artist/4cx31cxKTg5L8blZE24qfZ) | [Acústico Cidade Negra](https://open.spotify.com/album/2p9ayxfFobzpbtnF8mJyUL) | 3:42 |
 | 48 | [Cravo e Canela \- Acústico \| Ao Vivo](https://open.spotify.com/track/7EyY1Ho77ywcjzsh6KxBSu) | [Gabriel Elias](https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK) | [Casa de Praia Acústico \(Ao Vivo\)](https://open.spotify.com/album/0FXWVgacZM1Me0aWimzzeE) | 3:35 |
@@ -74,7 +74,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYkosMCdlEHA.md) - [plain]
 | 64 | [É Bonito de Ver](https://open.spotify.com/track/6JXOaARzGXPf2AFBadmKYt) | [Madayati](https://open.spotify.com/artist/1O2fKaLzlTYxvMe5aY738K) | [É Bonito de Ver](https://open.spotify.com/album/61gzMs1yYECO4jWiZ3I2T3) | 3:21 |
 | 65 | [Acorda Pra Vida](https://open.spotify.com/track/0pHR15s9OE55dlr3Coi2X1) | [Nazirê](https://open.spotify.com/artist/0v6SZmVraj9p6fs3Zzz3ZO) | [Acorda Pra Vida](https://open.spotify.com/album/2pi1P36f6Y5K7LZHxdg6ef) | 3:33 |
 | 66 | [Pra Voar / Posso Ser \- Acústico](https://open.spotify.com/track/4ZSnJiFUbRVaNZNElILf8X) | [Viegas](https://open.spotify.com/artist/6rTzxjnhz5roe983OC25he) | [Pra Voar / Posso Ser \(Acústico\)](https://open.spotify.com/album/7lEPNP5nRxPQhpFErWoGLV) | 4:21 |
-| 67 | [Calor \- Acústico](https://open.spotify.com/track/31wCSoGTNRPXOOfsLpvxBR) | [Helio Bentes](https://open.spotify.com/artist/0BIwZsx9BET2BstY2DRa9x) | [Acústico Helio Bentes, Vol\. 02](https://open.spotify.com/album/1mKc2nreQkWbuCKYNEyF4E) | 4:43 |
+| 67 | [Calor \- Acústico](https://open.spotify.com/track/3IUipHNAKErjn0c6LOzyxw) | [Helio Bentes](https://open.spotify.com/artist/0BIwZsx9BET2BstY2DRa9x) | [Acústico Helio Bentes Vol\. 2 \(Acústica\)](https://open.spotify.com/album/2qiVyCE4Fnmuow8MC7YRA9) | 4:43 |
 | 68 | [Onda do Arraial \- Ao Vivo](https://open.spotify.com/track/2JSxHhnDHsz0d6v22amg7y) | [Armandinho](https://open.spotify.com/artist/3h7RaVXBvdSNa7LXQtVYqH) | [Acústico \(Ao Vivo\)](https://open.spotify.com/album/6lmVZjhGk3WXhilmHHNbdR) | 3:25 |
 | 69 | [Saudades Do Tempo \- Ao Vivo Em São Paulo](https://open.spotify.com/track/4CROpP2nRsHjCWUxJ7Ewpy) | [Maneva](https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb) | [Ao Vivo Em São Paulo](https://open.spotify.com/album/5Wrwotv3hfJp1nDAoQgRzZ) | 4:56 |
 | 70 | [O Destino Não Quis](https://open.spotify.com/track/05sQfg8PUdgc7XSAGUw7HJ) | [Maneva](https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb) | [Maneva: Acústicas](https://open.spotify.com/album/4G8VnII4g89pxFrkObrjOr) | 3:30 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYkosMCdlEHA.md) - [plain]
 | 74 | [Amor Fora Da Lei \- Acústico / Ao Vivo](https://open.spotify.com/track/35ivG7tuA3VNjIR8AFT9jJ) | [Maneva](https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb) | [Acústico Na Casa Do Lago \(Acústico / Ao Vivo\)](https://open.spotify.com/album/1ctYS1uopnfJFU3LPYEo60) | 3:50 |
 | 75 | [Corre Pro Meu Mar \- Acústico / Ao Vivo](https://open.spotify.com/track/6o1uuE7FrCUUN1zqB37nLR) | [Maneva](https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb), [Gabriel Elias](https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK) | [Corre Pro Meu Mar \(Acústico / Ao Vivo\)](https://open.spotify.com/album/6MYUGgADS5UKWNKwwdOyCw) | 3:23 |
 
-Snapshot ID: `MCxhM2NkOTQxZDEyYzVmYWZjYzA5OGNmYWE0ZWQwOTM1OTZjOTU5YzYx`
+Snapshot ID: `MCwzZDM4MGRlNDhjODFmMjM0MzIzZTg5MTQ2YjdkOWU1MzJjMGY1OTQx`

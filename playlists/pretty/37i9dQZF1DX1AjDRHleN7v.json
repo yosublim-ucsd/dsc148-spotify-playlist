@@ -1,12 +1,12 @@
 {
   "description": "Um pouco de reggae pra acompanhar a brisa do mar.",
-  "num_followers": 288651,
+  "num_followers": 288821,
   "original_name": "Praiana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNzQyOTk3OTRjZjJkOTU0NTRmMDEwOTk5Njc5ODRjOTc1ZjBhOTgy",
+  "snapshot_id": "MCxlMTdjM2IzNWI1Y2Y3NDk3NmRlZjUzMmEzYWRhOWYyYzQ3ZjMzMTgx",
   "tracks": [
     {
       "added_at": "2023-11-10 03:01:00",
@@ -539,22 +539,6 @@
     {
       "added_at": "2023-11-10 03:01:00",
       "album": {
-        "name": "LEVE",
-        "url": "https://open.spotify.com/album/2SSx10zSB8ZtF98MgDEKvr"
-      },
-      "artists": [
-        {
-          "name": "Thiago Muller",
-          "url": "https://open.spotify.com/artist/6WyIBfeJIvg5bYY0GRFZwi"
-        }
-      ],
-      "duration_ms": 143023,
-      "name": "LEVE",
-      "url": "https://open.spotify.com/track/7dnmU4oMR74LOnR9x5NQUo"
-    },
-    {
-      "added_at": "2023-11-10 03:01:00",
-      "album": {
         "name": "Me Beija",
         "url": "https://open.spotify.com/album/5H4GpgPTKEXQTifFxo9vlk"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 179816,
       "name": "Me Beija",
       "url": "https://open.spotify.com/track/5iZ9HUP9pMc9su3wX5OqRM"
+    },
+    {
+      "added_at": "2023-11-10 03:01:00",
+      "album": {
+        "name": "LEVE",
+        "url": "https://open.spotify.com/album/2SSx10zSB8ZtF98MgDEKvr"
+      },
+      "artists": [
+        {
+          "name": "Thiago Muller",
+          "url": "https://open.spotify.com/artist/6WyIBfeJIvg5bYY0GRFZwi"
+        }
+      ],
+      "duration_ms": 143023,
+      "name": "LEVE",
+      "url": "https://open.spotify.com/track/7dnmU4oMR74LOnR9x5NQUo"
     },
     {
       "added_at": "2023-11-10 03:01:00",
@@ -623,22 +623,6 @@
     {
       "added_at": "2023-11-10 03:01:00",
       "album": {
-        "name": "Santa Terra",
-        "url": "https://open.spotify.com/album/75Z8oFAjxXrGABH4URez3B"
-      },
-      "artists": [
-        {
-          "name": "Qback",
-          "url": "https://open.spotify.com/artist/6Uvbaff54Nvzomm1kQLX8q"
-        }
-      ],
-      "duration_ms": 276509,
-      "name": "Santa Terra",
-      "url": "https://open.spotify.com/track/0yjWotYZzx2xrW2SxTZyeG"
-    },
-    {
-      "added_at": "2023-11-10 03:01:00",
-      "album": {
         "name": "Frequ\u00eancia do Amor",
         "url": "https://open.spotify.com/album/4xDj13FFF1V1qDwnQ8mHie"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 161107,
       "name": "Frequ\u00eancia do Amor",
       "url": "https://open.spotify.com/track/5uhttrGCBD63qRmJbQOmM1"
+    },
+    {
+      "added_at": "2023-11-10 03:01:00",
+      "album": {
+        "name": "Santa Terra",
+        "url": "https://open.spotify.com/album/75Z8oFAjxXrGABH4URez3B"
+      },
+      "artists": [
+        {
+          "name": "Qback",
+          "url": "https://open.spotify.com/artist/6Uvbaff54Nvzomm1kQLX8q"
+        }
+      ],
+      "duration_ms": 276509,
+      "name": "Santa Terra",
+      "url": "https://open.spotify.com/track/0yjWotYZzx2xrW2SxTZyeG"
     },
     {
       "added_at": "2023-11-10 03:01:00",
@@ -795,6 +795,22 @@
     {
       "added_at": "2023-11-10 03:01:00",
       "album": {
+        "name": "Cai\u00e7ara",
+        "url": "https://open.spotify.com/album/7GRtOhtBDFj6jRTFKrgoZK"
+      },
+      "artists": [
+        {
+          "name": "Vitti Romera",
+          "url": "https://open.spotify.com/artist/7tc8zhkjLM3ymqrDmFHajk"
+        }
+      ],
+      "duration_ms": 174622,
+      "name": "Cai\u00e7ara",
+      "url": "https://open.spotify.com/track/348fxaFJRVpt775GjR31aM"
+    },
+    {
+      "added_at": "2023-11-10 03:01:00",
+      "album": {
         "name": "Eleva",
         "url": "https://open.spotify.com/album/2ihl3JKPKWTIS342D41zFA"
       },
@@ -811,22 +827,6 @@
       "duration_ms": 214798,
       "name": "Eleva",
       "url": "https://open.spotify.com/track/5sRGPPWfKuP6ytamjiZX00"
-    },
-    {
-      "added_at": "2023-11-10 03:01:00",
-      "album": {
-        "name": "Cai\u00e7ara",
-        "url": "https://open.spotify.com/album/7GRtOhtBDFj6jRTFKrgoZK"
-      },
-      "artists": [
-        {
-          "name": "Vitti Romera",
-          "url": "https://open.spotify.com/artist/7tc8zhkjLM3ymqrDmFHajk"
-        }
-      ],
-      "duration_ms": 174622,
-      "name": "Cai\u00e7ara",
-      "url": "https://open.spotify.com/track/348fxaFJRVpt775GjR31aM"
     },
     {
       "added_at": "2023-11-10 03:01:00",
@@ -867,18 +867,22 @@
     {
       "added_at": "2023-11-10 03:01:00",
       "album": {
-        "name": "Saquarema (Remix)",
-        "url": "https://open.spotify.com/album/7sWij8NaethU2vuouVcjgr"
+        "name": "Terra do Sol",
+        "url": "https://open.spotify.com/album/479XhvUfr2RSx6IamTa0L8"
       },
       "artists": [
         {
-          "name": "Blitz",
-          "url": "https://open.spotify.com/artist/1POsQml4E21Ku75BirHFMQ"
+          "name": "Calm\u00f4",
+          "url": "https://open.spotify.com/artist/2UhdhFK77w8HgPFhdPZDWy"
+        },
+        {
+          "name": "Tupi Machine",
+          "url": "https://open.spotify.com/artist/2K7WZmzw0YSyXW1xZE1T4l"
         }
       ],
-      "duration_ms": 232353,
-      "name": "Saquarema - Remix",
-      "url": "https://open.spotify.com/track/3UroqLcI69FDBw4l41iVGO"
+      "duration_ms": 153253,
+      "name": "Terra do Sol",
+      "url": "https://open.spotify.com/track/5DFRBacvE2sPo5XSFCFvZf"
     },
     {
       "added_at": "2023-11-10 03:01:00",
@@ -899,22 +903,18 @@
     {
       "added_at": "2023-11-10 03:01:00",
       "album": {
-        "name": "Terra do Sol",
-        "url": "https://open.spotify.com/album/479XhvUfr2RSx6IamTa0L8"
+        "name": "Saquarema (Remix)",
+        "url": "https://open.spotify.com/album/7sWij8NaethU2vuouVcjgr"
       },
       "artists": [
         {
-          "name": "Calm\u00f4",
-          "url": "https://open.spotify.com/artist/2UhdhFK77w8HgPFhdPZDWy"
-        },
-        {
-          "name": "Tupi Machine",
-          "url": "https://open.spotify.com/artist/2K7WZmzw0YSyXW1xZE1T4l"
+          "name": "Blitz",
+          "url": "https://open.spotify.com/artist/1POsQml4E21Ku75BirHFMQ"
         }
       ],
-      "duration_ms": 153253,
-      "name": "Terra do Sol",
-      "url": "https://open.spotify.com/track/5DFRBacvE2sPo5XSFCFvZf"
+      "duration_ms": 232353,
+      "name": "Saquarema - Remix",
+      "url": "https://open.spotify.com/track/3UroqLcI69FDBw4l41iVGO"
     },
     {
       "added_at": "2023-11-10 03:01:00",

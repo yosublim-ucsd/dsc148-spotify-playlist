@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYOiy3rOFsDS.md) - [plain]
 
 > Romance antigüito en voz de tus artistas pop con Kali Uchis en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 534,604 likes - 100 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 534,687 likes - 100 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,9 +81,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYOiy3rOFsDS.md) - [plain]
 | 71 | [La Copa Rota](https://open.spotify.com/track/4tl5rhoOV51BDiQ4TIfz7o) | [La Santa Cecilia](https://open.spotify.com/artist/2FZrEn80eCoWrrkGXPLF0v) | [La Copa Rota](https://open.spotify.com/album/3drxZZ3WbobQSPlWE41EKM) | 3:09 |
 | 72 | [Nada personal \(A dueto con Ana Torroja\)](https://open.spotify.com/track/56pm6QlEYiAQyCCidxsTSN) | [Armando Manzanero Duetos 2](https://open.spotify.com/artist/3ynESLbVr0i6wxyRMMF08A) | [Armando Manzanero Duetos 2](https://open.spotify.com/album/7CVN6xKqwDafXQ4vTsNUwl) | 3:12 |
 | 73 | [Cuando Vuelva a Tu Lado](https://open.spotify.com/track/1TtvU2uSTwTaqloJwGItk7) | [Kika Edgar](https://open.spotify.com/artist/2QTmeZpVjHmIoYSRwsoucA) | [Solo Boleros](https://open.spotify.com/album/4Pfgh3WJiJH1FUtwiI3oxD) | 2:58 |
-| 74 | [Bésame mucho](https://open.spotify.com/track/1AwB8JSmLNu0X76njUpqzz) | [Edna Vazquez](https://open.spotify.com/artist/4GxX2P0gUw7uiWtg8nNOrP), [Pink Martini](https://open.spotify.com/artist/6KyUat70qaniuiZq63HzFZ) | [Bésame mucho](https://open.spotify.com/album/6dFvBCQkwOJwCWQsSHsFEW) | 4:04 |
+| 74 | [La Apuesta](https://open.spotify.com/track/6jfErD7qRP00pXqzZhFyr0) | [Paola Decanini](https://open.spotify.com/artist/17yUbbjExrUX4RrV7fqkNE) | [DUAL](https://open.spotify.com/album/0a8nzPpmgew18suqLjTQnk) | 3:27 |
 | 75 | [Contigo aprendí](https://open.spotify.com/track/0pO5eDgP67Inq0SrSRbxuB) | [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU) | [El palacio de las flores](https://open.spotify.com/album/5AeKNE9h7MfjCFY0llkDmg) | 4:19 |
-| 76 | [La Apuesta](https://open.spotify.com/track/6jfErD7qRP00pXqzZhFyr0) | [Paola Decanini](https://open.spotify.com/artist/17yUbbjExrUX4RrV7fqkNE) | [DUAL](https://open.spotify.com/album/0a8nzPpmgew18suqLjTQnk) | 3:27 |
+| 76 | [Bésame mucho](https://open.spotify.com/track/1AwB8JSmLNu0X76njUpqzz) | [Edna Vazquez](https://open.spotify.com/artist/4GxX2P0gUw7uiWtg8nNOrP), [Pink Martini](https://open.spotify.com/artist/6KyUat70qaniuiZq63HzFZ) | [Bésame mucho](https://open.spotify.com/album/6dFvBCQkwOJwCWQsSHsFEW) | 4:04 |
 | 77 | [Te matan los celos](https://open.spotify.com/track/5SR85Imahcv9tZGFjz3MCX) | [Café Quijano](https://open.spotify.com/artist/2ECP3nWC88LaFz4oQzTo3Z) | [Orígenes: El Bolero Vol.3](https://open.spotify.com/album/3cpEWPCmAkKQunvQmeYP1t) | 3:30 |
 | 78 | [En la Orilla del Mar](https://open.spotify.com/track/1RYZwlDS2wt1rj0c249X7x) | [Carlos Cuevas](https://open.spotify.com/artist/5oyTT8C73YIMhLyuXYLtiL) | [Los Boleros de Oro de la Música Tropical](https://open.spotify.com/album/2MCSHOk67yIocitxqMZAaJ) | 2:45 |
 | 79 | [Propuesta](https://open.spotify.com/track/0qHDXcOQlaLQ0lWPWpPdeH) | [Kalimba](https://open.spotify.com/artist/4RjamFQJNT8nVbTKXJDJgv) | [Homenaje A Las Grandes Canciones, Vol\. II](https://open.spotify.com/album/2A03ukPh044CVuW70bSKeW) | 4:17 |
@@ -102,11 +102,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYOiy3rOFsDS.md) - [plain]
 | 92 | [Almohada](https://open.spotify.com/track/3lL5AiJtpdGe7AYCIwJ5cI) | [Cristian Castro](https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ) | [Celebrando Al Príncipe](https://open.spotify.com/album/2HZkh6ay4cVKa8lxMvDfol) | 4:02 |
 | 93 | [Apasionadamente](https://open.spotify.com/track/7a1Ftd97mqW58rBQmqwPel) | [Mel Muñiz](https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y) | [Apasionadamente](https://open.spotify.com/album/0xgN5G0w8qGlw1onYHHdks) | 3:00 |
 | 94 | [Drume Negrita \- En Vivo Desde Fonobox](https://open.spotify.com/track/2VOi95darUSa1k1p1FwHui) | [Priscilla Félix](https://open.spotify.com/artist/0WWelL4rhUknYdkhfKDnLu) | [Drume Negrita \(Desde Fonobox\) \[En Vivo\]](https://open.spotify.com/album/7JpwHuLixoy7VnWipc4Q7r) | 2:44 |
-| 95 | [Solamente una Vez](https://open.spotify.com/track/4uqmcATBKbBKN5Tec5I4T1) | [César Avila](https://open.spotify.com/artist/3rngVMXFqeLP0WFB1ss6J1) | [Extrañándote en Cuarentena](https://open.spotify.com/album/1UfEr0bXeemQhpBacsZRfO) | 2:11 |
-| 96 | [Preso](https://open.spotify.com/track/1HbrJm8GebgXE24ixji0hR) | [Paco de María](https://open.spotify.com/artist/2mbskxBaHE1KFkmul4slY2) | [Una Buena Señal](https://open.spotify.com/album/7K4Skg7SyLMzLhgSXAcoYC) | 3:47 |
+| 95 | [Preso](https://open.spotify.com/track/1HbrJm8GebgXE24ixji0hR) | [Paco de María](https://open.spotify.com/artist/2mbskxBaHE1KFkmul4slY2) | [Una Buena Señal](https://open.spotify.com/album/7K4Skg7SyLMzLhgSXAcoYC) | 3:47 |
+| 96 | [Solamente una Vez](https://open.spotify.com/track/4uqmcATBKbBKN5Tec5I4T1) | [César Avila](https://open.spotify.com/artist/3rngVMXFqeLP0WFB1ss6J1) | [Extrañándote en Cuarentena](https://open.spotify.com/album/1UfEr0bXeemQhpBacsZRfO) | 2:11 |
 | 97 | [Te Tocaba A Ti Llorar](https://open.spotify.com/track/69wyLBhOeKlS4VcilXZhzN) | [Escarlata](https://open.spotify.com/artist/6eDMcSQvrGt2zoVFSIwmgZ), [Alex Ubago](https://open.spotify.com/artist/2tY2GFdhH0Wa2VBvsxew5X) | [Te Tocaba A Ti Llorar](https://open.spotify.com/album/1QdQqLnwuQsKnfZ5blD3Al) | 3:13 |
 | 98 | [En las Noches](https://open.spotify.com/track/6rs3m0e1GYVFjLQaUXAiZ6) | [Daniela Escalante](https://open.spotify.com/artist/00YbcwdtRDXKGvdpBsUfkd) | [En las Noches](https://open.spotify.com/album/2CPuqoB1XiRqOmmX6MUa5e) | 3:59 |
 | 99 | [Gracias](https://open.spotify.com/track/618mROSwHp4JeTR0E17KPC) | [La Ciencia de Juancho Valencia](https://open.spotify.com/artist/0qEMz90gSP62fGglkNnhg9) | [Enclave de Bolero](https://open.spotify.com/album/3C7x9eBK8VpQY4l6UgIQPy) | 3:27 |
 | 100 | [Jacaranda](https://open.spotify.com/track/3BuXMPHThfHp3znFM3vOnp) | [Carlos Cuevas](https://open.spotify.com/artist/5oyTT8C73YIMhLyuXYLtiL) | [Triología](https://open.spotify.com/album/1pW0PEHTSVkSyVlmdfvxwL) | 3:11 |
 
-Snapshot ID: `MCw2NDhmNzMxNTY4Njk3NjMwODAxM2QxYmEwOWQ2MDRhZjlmZWMxNTdk`
+Snapshot ID: `MCw1N2NhN2JkNDhkM2Y2ZDkyN2RlNzIwMTFjNTQzNGZkYmU4MmM4Njhh`

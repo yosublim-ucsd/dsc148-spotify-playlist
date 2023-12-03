@@ -1,12 +1,12 @@
 {
   "description": "Updated every Friday with the very best classical new releases. Cover: Gautier Capu\u00e7on",
-  "num_followers": 703548,
+  "num_followers": 703612,
   "original_name": "Classical New Releases",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNTk3N2RkMmUwYWU1MmQ0MzYyZmMzZjE1OGVjOTU1ZDI3YjFhZGZl",
+  "snapshot_id": "MCxlMjUyZDBhNjBiMTFkZWIzN2MyZWE0ZmY5MDBhMTI4ZjlmYWE4MjM3",
   "tracks": [
     {
       "added_at": "2023-12-01 04:00:00",
@@ -291,21 +291,17 @@
     {
       "added_at": "2023-12-01 04:00:00",
       "album": {
-        "name": "Snowman (feat. Bruce Dukov) [Solo Piano Version]",
+        "name": "Snowman (Solo Piano Version)",
         "url": "https://open.spotify.com/album/1kWjNIByN8BGmSLURcVhVJ"
       },
       "artists": [
         {
           "name": "Chloe Flower",
           "url": "https://open.spotify.com/artist/1COAEcXEhWarbbgcz44KmJ"
-        },
-        {
-          "name": "Bruce Dukov",
-          "url": "https://open.spotify.com/artist/1K7AOYNfu9lXjOGUpocgLB"
         }
       ],
       "duration_ms": 185591,
-      "name": "Snowman (feat. Bruce Dukov) - Solo Piano Version",
+      "name": "Snowman - Solo Piano Version",
       "url": "https://open.spotify.com/track/01ZChj1Qy8mpmTYLbpSt4J"
     },
     {

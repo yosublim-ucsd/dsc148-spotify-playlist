@@ -1,12 +1,12 @@
 {
   "description": "When Rock meets Rap: covers, collabs, mashups and everything that rhymes.",
-  "num_followers": 297509,
+  "num_followers": 297630,
   "original_name": "Rap 'n' Roll",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMmE1ZTYwMzYwMDcxNDQwMjg1MGQ5NjJiN2ExMjc2NWQ0ODcwMTEy",
+  "snapshot_id": "MCw3YWUwZGUxNTBiZGY5YzZkN2NjMDA3NmRhYWI0YzhjNjk1ODc1MmNl",
   "tracks": [
     {
       "added_at": "2023-10-01 21:11:39",
@@ -323,26 +323,6 @@
     {
       "added_at": "2023-10-01 21:11:39",
       "album": {
-        "name": "Radioactive",
-        "url": "https://open.spotify.com/album/2M0IZTKgkN3ZpYluF4lKAM"
-      },
-      "artists": [
-        {
-          "name": "Imagine Dragons",
-          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
-        },
-        {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
-        }
-      ],
-      "duration_ms": 276040,
-      "name": "Radioactive",
-      "url": "https://open.spotify.com/track/69yfbpvmkIaB10msnKT7Q5"
-    },
-    {
-      "added_at": "2023-10-01 21:11:39",
-      "album": {
         "name": "Significant Other",
         "url": "https://open.spotify.com/album/3HCCUaRSjHSFOe4fqE0BiP"
       },
@@ -375,6 +355,26 @@
       "duration_ms": 261173,
       "name": "Hokus Pokus",
       "url": "https://open.spotify.com/track/3ij7wTT8OOy8MhkT6AS5aS"
+    },
+    {
+      "added_at": "2023-10-01 21:11:39",
+      "album": {
+        "name": "Radioactive",
+        "url": "https://open.spotify.com/album/2M0IZTKgkN3ZpYluF4lKAM"
+      },
+      "artists": [
+        {
+          "name": "Imagine Dragons",
+          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+        },
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "duration_ms": 276040,
+      "name": "Radioactive",
+      "url": "https://open.spotify.com/track/69yfbpvmkIaB10msnKT7Q5"
     },
     {
       "added_at": "2023-10-01 21:11:39",
@@ -483,22 +483,6 @@
     {
       "added_at": "2023-10-01 21:11:39",
       "album": {
-        "name": "STILL SUCKS",
-        "url": "https://open.spotify.com/album/2lZ9RqGnGXH8gtH3DK02tJ"
-      },
-      "artists": [
-        {
-          "name": "Limp Bizkit",
-          "url": "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
-        }
-      ],
-      "duration_ms": 132206,
-      "name": "Dad Vibes",
-      "url": "https://open.spotify.com/track/2ppAkaBj4vaL0qsFm1TOKI"
-    },
-    {
-      "added_at": "2023-10-01 21:11:39",
-      "album": {
         "name": "311",
         "url": "https://open.spotify.com/album/6VIeIM5tetuv7FrYxISffU"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 172160,
       "name": "Down",
       "url": "https://open.spotify.com/track/0HDaKOlVAfUWXdFR2RhBtN"
+    },
+    {
+      "added_at": "2023-10-01 21:11:39",
+      "album": {
+        "name": "STILL SUCKS",
+        "url": "https://open.spotify.com/album/2lZ9RqGnGXH8gtH3DK02tJ"
+      },
+      "artists": [
+        {
+          "name": "Limp Bizkit",
+          "url": "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
+        }
+      ],
+      "duration_ms": 132206,
+      "name": "Dad Vibes",
+      "url": "https://open.spotify.com/track/2ppAkaBj4vaL0qsFm1TOKI"
     },
     {
       "added_at": "2023-10-01 21:11:39",
@@ -535,22 +535,6 @@
     {
       "added_at": "2023-10-01 21:11:39",
       "album": {
-        "name": "The Moment (Digital Deluxe)",
-        "url": "https://open.spotify.com/album/3qEFmt0o13JEKWOEkqDs4u"
-      },
-      "artists": [
-        {
-          "name": "Framing Hanley",
-          "url": "https://open.spotify.com/artist/3niqfoc7C6lIeCNVz8iZYE"
-        }
-      ],
-      "duration_ms": 187906,
-      "name": "Lollipop",
-      "url": "https://open.spotify.com/track/49dFv4gH1SeY90FySDOwCE"
-    },
-    {
-      "added_at": "2023-10-01 21:11:39",
-      "album": {
         "name": "Bad Vibes Forever",
         "url": "https://open.spotify.com/album/3hn46RDrEmoi4XhLjgdNjZ"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 151683,
       "name": "IT'S ALL FADING TO BLACK (feat. blink-182)",
       "url": "https://open.spotify.com/track/0R6dvBlNevqkzioHLoygbI"
+    },
+    {
+      "added_at": "2023-10-01 21:11:39",
+      "album": {
+        "name": "The Moment (Digital Deluxe)",
+        "url": "https://open.spotify.com/album/3qEFmt0o13JEKWOEkqDs4u"
+      },
+      "artists": [
+        {
+          "name": "Framing Hanley",
+          "url": "https://open.spotify.com/artist/3niqfoc7C6lIeCNVz8iZYE"
+        }
+      ],
+      "duration_ms": 187906,
+      "name": "Lollipop",
+      "url": "https://open.spotify.com/track/49dFv4gH1SeY90FySDOwCE"
     },
     {
       "added_at": "2023-10-01 21:11:39",
@@ -695,30 +695,22 @@
     {
       "added_at": "2023-10-01 21:11:39",
       "album": {
-        "name": "Chocolate Starfish And The Hot Dog Flavored Water",
-        "url": "https://open.spotify.com/album/5mi7FKaWE5CtcOjdyxScA7"
+        "name": "amo",
+        "url": "https://open.spotify.com/album/04mkS7FooK8fRbB626T9NR"
       },
       "artists": [
         {
-          "name": "Limp Bizkit",
-          "url": "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
         },
         {
-          "name": "Redman",
-          "url": "https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM"
-        },
-        {
-          "name": "Method Man",
-          "url": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
-        },
-        {
-          "name": "DMX",
-          "url": "https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG"
+          "name": "Rahzel",
+          "url": "https://open.spotify.com/artist/6vunRaBya0Sx6CMJZAlHTZ"
         }
       ],
-      "duration_ms": 382826,
-      "name": "Rollin' (Urban Assault Vehicle)",
-      "url": "https://open.spotify.com/track/3nsxMrnYlfBNotHRevTRgM"
+      "duration_ms": 240586,
+      "name": "heavy metal (feat. Rahzel)",
+      "url": "https://open.spotify.com/track/6baGTtDakSNvUfW3FJd8yX"
     },
     {
       "added_at": "2023-10-01 21:11:39",
@@ -743,22 +735,30 @@
     {
       "added_at": "2023-10-01 21:11:39",
       "album": {
-        "name": "amo",
-        "url": "https://open.spotify.com/album/04mkS7FooK8fRbB626T9NR"
+        "name": "Chocolate Starfish And The Hot Dog Flavored Water",
+        "url": "https://open.spotify.com/album/5mi7FKaWE5CtcOjdyxScA7"
       },
       "artists": [
         {
-          "name": "Bring Me The Horizon",
-          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+          "name": "Limp Bizkit",
+          "url": "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
         },
         {
-          "name": "Rahzel",
-          "url": "https://open.spotify.com/artist/6vunRaBya0Sx6CMJZAlHTZ"
+          "name": "Redman",
+          "url": "https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM"
+        },
+        {
+          "name": "Method Man",
+          "url": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
+        },
+        {
+          "name": "DMX",
+          "url": "https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG"
         }
       ],
-      "duration_ms": 240586,
-      "name": "heavy metal (feat. Rahzel)",
-      "url": "https://open.spotify.com/track/6baGTtDakSNvUfW3FJd8yX"
+      "duration_ms": 382826,
+      "name": "Rollin' (Urban Assault Vehicle)",
+      "url": "https://open.spotify.com/track/3nsxMrnYlfBNotHRevTRgM"
     },
     {
       "added_at": "2023-10-01 21:11:39",
@@ -839,6 +839,22 @@
     {
       "added_at": "2023-10-01 21:11:39",
       "album": {
+        "name": "Ready To Go",
+        "url": "https://open.spotify.com/album/5qwnsXwdLqlobT21jkU8ur"
+      },
+      "artists": [
+        {
+          "name": "Limp Bizkit",
+          "url": "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
+        }
+      ],
+      "duration_ms": 361360,
+      "name": "Ready To Go",
+      "url": "https://open.spotify.com/track/5kS6gc6Df3eV676GGUF832"
+    },
+    {
+      "added_at": "2023-10-01 21:11:39",
+      "album": {
         "name": "Game On (feat. Good Charlotte) [from \"Pixels - The Movie\"]",
         "url": "https://open.spotify.com/album/45qTcdlqFuZfj25pnYxeVL"
       },
@@ -879,22 +895,6 @@
       "duration_ms": 248266,
       "name": "It's Goin' Down (feat. Mike Shinoda & Mr. Hahn)",
       "url": "https://open.spotify.com/track/7qFEFcjmSAtODGtLYqraCq"
-    },
-    {
-      "added_at": "2023-10-01 21:11:39",
-      "album": {
-        "name": "Ready To Go",
-        "url": "https://open.spotify.com/album/5qwnsXwdLqlobT21jkU8ur"
-      },
-      "artists": [
-        {
-          "name": "Limp Bizkit",
-          "url": "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
-        }
-      ],
-      "duration_ms": 361360,
-      "name": "Ready To Go",
-      "url": "https://open.spotify.com/track/5kS6gc6Df3eV676GGUF832"
     },
     {
       "added_at": "2023-10-01 21:11:39",
@@ -955,26 +955,6 @@
     {
       "added_at": "2023-10-01 21:11:39",
       "album": {
-        "name": "Apelogies",
-        "url": "https://open.spotify.com/album/0TAeIWcUAjAb1ZBXzaDOGV"
-      },
-      "artists": [
-        {
-          "name": "Shaka Ponk",
-          "url": "https://open.spotify.com/artist/0VJIBKdqJygrupAxpSTk7q"
-        },
-        {
-          "name": "Cypress Hill",
-          "url": "https://open.spotify.com/artist/4P0dddbxPil35MNN9G2MEX"
-        }
-      ],
-      "duration_ms": 276160,
-      "name": "Pure 90 (Rapping Queen)",
-      "url": "https://open.spotify.com/track/24ZEVCdOTKgdcM41B598NM"
-    },
-    {
-      "added_at": "2023-10-01 21:11:39",
-      "album": {
         "name": "Remember That You Will Die",
         "url": "https://open.spotify.com/album/3cN3mENkACWuRCDOuQUtfw"
       },
@@ -991,6 +971,26 @@
       "duration_ms": 151318,
       "name": "Fuck Around and Find Out (feat. $NOT)",
       "url": "https://open.spotify.com/track/4d0ySS7ajnuH4FFPaf3EQK"
+    },
+    {
+      "added_at": "2023-10-01 21:11:39",
+      "album": {
+        "name": "Apelogies",
+        "url": "https://open.spotify.com/album/0TAeIWcUAjAb1ZBXzaDOGV"
+      },
+      "artists": [
+        {
+          "name": "Shaka Ponk",
+          "url": "https://open.spotify.com/artist/0VJIBKdqJygrupAxpSTk7q"
+        },
+        {
+          "name": "Cypress Hill",
+          "url": "https://open.spotify.com/artist/4P0dddbxPil35MNN9G2MEX"
+        }
+      ],
+      "duration_ms": 276160,
+      "name": "Pure 90 (Rapping Queen)",
+      "url": "https://open.spotify.com/track/24ZEVCdOTKgdcM41B598NM"
     },
     {
       "added_at": "2023-10-01 21:11:39",
@@ -1131,26 +1131,6 @@
     {
       "added_at": "2023-10-01 21:11:39",
       "album": {
-        "name": "Extinction Level Event: The Final World Front",
-        "url": "https://open.spotify.com/album/4zb4gmGzDYtlWMjmc1NZWW"
-      },
-      "artists": [
-        {
-          "name": "Busta Rhymes",
-          "url": "https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK"
-        },
-        {
-          "name": "Ozzy Osbourne",
-          "url": "https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY"
-        }
-      ],
-      "duration_ms": 275973,
-      "name": "This Means War!! (feat. Ozzy Osbourne)",
-      "url": "https://open.spotify.com/track/2wIujxyI75Z6HQuq0NmJiR"
-    },
-    {
-      "added_at": "2023-10-01 21:11:39",
-      "album": {
         "name": "Judgement Night: Music From The Motion Picture",
         "url": "https://open.spotify.com/album/1qwrbuNLtDcuj2myhuESlh"
       },
@@ -1167,6 +1147,26 @@
       "duration_ms": 229266,
       "name": "I Love You Mary Jane",
       "url": "https://open.spotify.com/track/4eObWNJwTvfQe66wIzfHjb"
+    },
+    {
+      "added_at": "2023-10-01 21:11:39",
+      "album": {
+        "name": "Extinction Level Event: The Final World Front",
+        "url": "https://open.spotify.com/album/4zb4gmGzDYtlWMjmc1NZWW"
+      },
+      "artists": [
+        {
+          "name": "Busta Rhymes",
+          "url": "https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK"
+        },
+        {
+          "name": "Ozzy Osbourne",
+          "url": "https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY"
+        }
+      ],
+      "duration_ms": 275973,
+      "name": "This Means War!! (feat. Ozzy Osbourne)",
+      "url": "https://open.spotify.com/track/2wIujxyI75Z6HQuq0NmJiR"
     },
     {
       "added_at": "2023-10-01 21:11:39",

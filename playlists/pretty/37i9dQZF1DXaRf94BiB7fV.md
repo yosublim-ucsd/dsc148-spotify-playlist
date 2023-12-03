@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRf94BiB7fV.md) - [plain]
 
 > Our editors' picks of the best Fresh Finds tracks from India this year\. Cover: Aditya Rikhari \#SpotifyWrapped
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,708 likes - 50 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,789 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRf94BiB7fV.md) - [plain]
 | 28 | [Dil Da Pecha](https://open.spotify.com/track/01RBxV5NhoOft5qsYwbPLj) | [Semwal](https://open.spotify.com/artist/0uNhaTjKYwyBEKJoG7gPjq), [Agaazz](https://open.spotify.com/artist/1jHc7ramBygplLEh3assYX) | [Dil Da Pecha](https://open.spotify.com/album/5mXgJptsMxD8kOGVxSJ6nB) | 3:12 |
 | 29 | [Aao](https://open.spotify.com/track/0kUTSj4qTINZJp2kB35Dmr) | [Arpit Agnihotri](https://open.spotify.com/artist/0KJlY42ShDmGyvtcUTxu4M) | [Aao](https://open.spotify.com/album/2GN9FwmSYNw1lFN6FqEwJu) | 4:18 |
 | 30 | [Sarfira](https://open.spotify.com/track/1ZSDzB23e4K7Xg9WIKIymh) | [Kaustav Mahapatra](https://open.spotify.com/artist/00p7GHRob77P2mA30WGAMY) | [Sarfira](https://open.spotify.com/album/2HG9Q3MXLiZyRefh2680Ie) | 2:57 |
-| 31 | [Zindagi Kya Hai Tu](https://open.spotify.com/track/7yKgwroibBix9wNOdfxxmy) | [Joell](https://open.spotify.com/artist/68dq9WskDdoAdDfzFAkXPd) | [Zindagi Kya Hai Tu](https://open.spotify.com/album/5eq8YiBlX958Wb3A1WGmbq) | 4:55 |
+| 31 | [Zindagi Kya Hai Tu](https://open.spotify.com/track/7yKgwroibBix9wNOdfxxmy) | [Joell](https://open.spotify.com/artist/68dq9WskDdoAdDfzFAkXPd), [Chinmayi Tripathi](https://open.spotify.com/artist/2SBaWEFGgEDAPXw8dLqDfi) | [Zindagi Kya Hai Tu](https://open.spotify.com/album/5eq8YiBlX958Wb3A1WGmbq) | 4:55 |
 | 32 | [Na Jaane](https://open.spotify.com/track/0mUEwijSgvunBXVlGgMUlg) | [Shreya Sharma](https://open.spotify.com/artist/7dBArfr9ULWGoLbc0gzKzo) | [Na Jaane](https://open.spotify.com/album/782TOhZYOQLlvVjwX2trU0) | 3:39 |
 | 33 | [Fallen](https://open.spotify.com/track/7qUXtrjjf0KqCCxD9SAw3Q) | [Tyesha Kohli](https://open.spotify.com/artist/5CXHXgoOC6fIFdtyxTZ5sO) | [Fallen](https://open.spotify.com/album/5BJLzLDSNLCbzwuNwifnVE) | 4:25 |
 | 34 | [Kaho na](https://open.spotify.com/track/5znUlfypbCVjEzqGvzy0Xw) | [Abir](https://open.spotify.com/artist/0XHapa0VH6XHwA3wlqextO) | [Kaho na](https://open.spotify.com/album/3z1UN7JGoHwRv8E1gwoG6E) | 2:14 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRf94BiB7fV.md) - [plain]
 | 49 | [Kyu Hi Hum Mile](https://open.spotify.com/track/6POdfxoYKn6PE0OK4PlY6R) | [Atul Gupta](https://open.spotify.com/artist/6oBR9IHSypECG3HX96270k) | [Kyu Hi Hum Mile](https://open.spotify.com/album/5z3R00e3c5u6LFhV0wtDx1) | 4:20 |
 | 50 | [Guzarish](https://open.spotify.com/track/4dE5eNG3DVTvIZMy4pY4Jr) | [citimall](https://open.spotify.com/artist/0wnr36mC2ENfSqlGhgAxqU) | [Guzarish](https://open.spotify.com/album/6xRVOiJUIWwWFuUoUfAkQV) | 3:13 |
 
-Snapshot ID: `MCw2OWQxZDAwZTI0OWI2OWJlOWI4NmZjODE3MTM4NGIzMzdjNWU2NTM2`
+Snapshot ID: `MCwwODUzMGMwMzI0MzY0NThmYTViOGU1Njc3MTkyMGQwYTg5NDBhZjBi`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 
 > Hear what's new in folk, roots & indie singer\-songwriter\. Cover: Field Medic
 
-[Spotify](https://open.spotify.com/user/spotify) - 796,702 likes - 150 songs - 8 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 796,861 likes - 150 songs - 8 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 | 149 | [Any Time or Place](https://open.spotify.com/track/4N8rWo3HAKhYHVQ9KQDe9G) | [Josiah and the Bonnevilles](https://open.spotify.com/artist/3FMcVBx2TMq2f5gEPcUieC) | [Any Time or Place](https://open.spotify.com/album/79HRqrbC6nNviOHEcqYmT5) | 2:15 |
 | 150 | [Lifetime](https://open.spotify.com/track/0jVRZSyLXC48J2G66b12Ms) | [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j) | [Lifetime](https://open.spotify.com/album/6PvL70jTGrQAekjocgG620) | 5:06 |
 
-Snapshot ID: `MCwwMGZmY2MyNDBhMTMxMDY4YzA2N2QzYjI0YmRjZjYxNjNlNjczZDM0`
+Snapshot ID: `MCxmYmRlOWVlYWQ4NDk3M2Y4NGRlZmE2Mjg5ZjA2ZmEwZDEzMDBiYWI3`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX137AZKLkKC6.md) - [plain]
 
 > Las grandes del Despecho y el Género Popular\. Foto: Jessi Uribe
 
-[Spotify](https://open.spotify.com/user/spotify) - 215,931 likes - 80 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 216,023 likes - 80 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,9 +12,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX137AZKLkKC6.md) - [plain]
 | 2 | [El Jefe](https://open.spotify.com/track/5wjsJIUf6pdrwauPDae43o) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [El Jefe](https://open.spotify.com/album/12v3LOTr03ykEMdyekvM1X) | 2:50 |
 | 3 | [Qué Pensaste](https://open.spotify.com/track/1qde1NqHQno17MdNziaYmN) | [Grupo Dominio](https://open.spotify.com/artist/3AIAbiLXeCSSSqYqo8zMAi), [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS), [Paola Jara](https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk) | [Qué Pensaste](https://open.spotify.com/album/1375E6oaMeXeSJM7Y0zWes) | 3:20 |
 | 4 | [Hasta La Madre](https://open.spotify.com/track/2ZXu8wKzZ9eSAOHxrxcraF) | [Yeison Jimenez](https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT), [Pasabordo](https://open.spotify.com/artist/6tYuW96NhiYI3sAxEDsqK4) | [Hasta La Madre](https://open.spotify.com/album/1amlimmx04UgT7cL4aRkq5) | 2:38 |
-| 5 | [ALCH SI](https://open.spotify.com/track/5cWgwbui8BasfjCXvBZ7UA) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [ALCH SI](https://open.spotify.com/album/7rCPyUIciqYswpRXTa1JYc) | 2:33 |
+| 5 | [Alch Si](https://open.spotify.com/track/5cWgwbui8BasfjCXvBZ7UA) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Alch Si](https://open.spotify.com/album/7rCPyUIciqYswpRXTa1JYc) | 2:33 |
 | 6 | [El Malo \- Remix](https://open.spotify.com/track/15FunEnp98TNXSnfb2wECW) | [Nico Hernández](https://open.spotify.com/artist/3aiVpKhE6bg52ZvxMDmlip), [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS), [Pipe Bueno](https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng) | [El Malo \(Remix\)](https://open.spotify.com/album/3gjPRTTtRKp3tmDVtA8EO9) | 4:19 |
-| 7 | [¿Culpa de Quién? \(Remix\)](https://open.spotify.com/track/5zRc8LYoCkrBp8ryT2iN60) | [Yohan Usuga](https://open.spotify.com/artist/5XZHGnpHe7zHUjbZSlgIhJ), [Zion Hwang](https://open.spotify.com/artist/6YcBooN3MXDrt8UL5DLQnZ), [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS) | [¿Culpa de Quién? \(Remix\)](https://open.spotify.com/album/6p1oBzyenswryLUPHYeyXA) | 2:53 |
+| 7 | [¿Culpa de Quién? \(Remix\)](https://open.spotify.com/track/5zRc8LYoCkrBp8ryT2iN60) | [Yohan Usuga](https://open.spotify.com/artist/5XZHGnpHe7zHUjbZSlgIhJ), [Zion Hwang](https://open.spotify.com/artist/2dvndHOR9rTRjzHxDdgxfD), [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS) | [¿Culpa de Quién? \(Remix\)](https://open.spotify.com/album/6p1oBzyenswryLUPHYeyXA) | 2:53 |
 | 8 | [Que Onda](https://open.spotify.com/track/6uIIdjYTxxpWOyWuVXrKQO) | [Calle 24](https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR), [Chino Pacas](https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Que Onda](https://open.spotify.com/album/4x6cjOcVz44aiLSOHCLKPd) | 3:11 |
 | 9 | [TE FUI A SEGUIR](https://open.spotify.com/track/2vRmz7wDDxRY4zPSzwEmIT) | [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3), [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A) | [1 1 1](https://open.spotify.com/album/3AROvUBUe1mMAauVt73kRF) | 2:33 |
 | 10 | [La Cantina \- Remix](https://open.spotify.com/track/1BLceHxSV6Wx1MRC4gkt3f) | [Hernan Gómez](https://open.spotify.com/artist/0l7EOx40o81pCVpGwizH9I), [Luis Alfonso](https://open.spotify.com/artist/0GchaVw5KfSVEm0xl0OXEe), [Pipe Bueno](https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng) | [La Cantina \(Remix\)](https://open.spotify.com/album/5b6smqZoLVbL7loTzYddRp) | 3:37 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX137AZKLkKC6.md) - [plain]
 | 79 | [Matemos las Ganas](https://open.spotify.com/track/0bID0lGh8aR5jc6PkiyPUN) | [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS) | [Matemos las Ganas](https://open.spotify.com/album/4F9KrbhXKsZaHMv5R0zmom) | 3:02 |
 | 80 | [Qué Mal Te Ves Sin Mí](https://open.spotify.com/track/4lc3SmNj0FBtPGygUfeGc4) | [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [No Pongan Esas Canciones](https://open.spotify.com/album/0NTVddhlKzjxGdCAdWR80h) | 3:17 |
 
-Snapshot ID: `MCxmZjdmMGY4NDc5ZThjOTk4NzNjZTFmMTkyYWQ3NzA4NDNiMDA2ODQy`
+Snapshot ID: `MCxlN2ZmZjlhYTAyMzBlZGY2YzU4ZmZhMTNlMzVlZjA3ZjFlNWM2ZTc3`

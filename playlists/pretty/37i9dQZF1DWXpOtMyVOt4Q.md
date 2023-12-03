@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXpOtMyVOt4Q.md) - [plain]
 
 > Chill tunes to soundtrack your gaming session.
 
-[Spotify](https://open.spotify.com/user/spotify) - 252,006 likes - 50 songs - 1 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 252,107 likes - 50 songs - 1 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,15 +32,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXpOtMyVOt4Q.md) - [plain]
 | 22 | [Shelter](https://open.spotify.com/track/2uiJtY5SHZI5dIvN7JmovH) | [Nectry](https://open.spotify.com/artist/5WWf3jqI33Bwufm8vHBqGG), [Antent](https://open.spotify.com/artist/6ovctVkv7d2fBdilDRYfDW) | [Shelter](https://open.spotify.com/album/1vsh8Ayq54a9N3XEXUT43e) | 2:40 |
 | 23 | [sleepless](https://open.spotify.com/track/2l3IMrkVUCUYLhSRGapTqu) | [Ødyzon](https://open.spotify.com/artist/0okIfQPBF07agcxdQM7WG9) | [sleepless](https://open.spotify.com/album/6PRpxN0aYV7kHmSOAaGWRr) | 2:29 |
 | 24 | [i watch the moon](https://open.spotify.com/track/7yyO5lmOGN4l5TNl8AwDpV) | [Flemish Bond](https://open.spotify.com/artist/4DAPVs6oobdlMxB54nt0Ik) | [i watch the moon](https://open.spotify.com/album/2pe0JZv3mO7GYLnfv86QMM) | 1:42 |
-| 25 | [where did you go?](https://open.spotify.com/track/3krTCz4RFiTFUE4Eyw0mIq) | [MADEBYGODES](https://open.spotify.com/artist/4OXlZUkQMXImUKcUGuukhc), [Sedogy Bedam](https://open.spotify.com/artist/198xMLATWaPlxnxW6dzgWt) | [where did you go?](https://open.spotify.com/album/6hXY9yHknQ6mIca4ZOP1HG) | 1:36 |
-| 26 | [Long Whale Song](https://open.spotify.com/track/47UkAwI7ygrMl6JZ5ZExPQ) | [SymphoCat](https://open.spotify.com/artist/4cX8nm4XgKt3U0hfVx9NqN) | [Long Whale Song](https://open.spotify.com/album/5VwTFSh4mFOM0VleoTFPZv) | 19:25 |
+| 25 | [Long Whale Song](https://open.spotify.com/track/47UkAwI7ygrMl6JZ5ZExPQ) | [SymphoCat](https://open.spotify.com/artist/4cX8nm4XgKt3U0hfVx9NqN) | [Long Whale Song](https://open.spotify.com/album/5VwTFSh4mFOM0VleoTFPZv) | 19:25 |
+| 26 | [where did you go?](https://open.spotify.com/track/3krTCz4RFiTFUE4Eyw0mIq) | [MADEBYGODES](https://open.spotify.com/artist/4OXlZUkQMXImUKcUGuukhc), [Sedogy Bedam](https://open.spotify.com/artist/198xMLATWaPlxnxW6dzgWt) | [where did you go?](https://open.spotify.com/album/6hXY9yHknQ6mIca4ZOP1HG) | 1:36 |
 | 27 | [Fallen Down \(Reprise\) \- Piano Slowed & Reverb](https://open.spotify.com/track/3Ttu9jVJBNSkyOuydS9RZ6) | [Augustin Garnier](https://open.spotify.com/artist/4l0fkLKO9mQEVub2zoouh8) | [Fallen Down \(Reprise\)](https://open.spotify.com/album/5jqDoz4ZXsfUQyh6PrQO9b) | 2:30 |
 | 28 | [A Time to Wait](https://open.spotify.com/track/5KXdGGSVtKLinb8NCPUb0X) | [Alicks](https://open.spotify.com/artist/60J5TDNg9Xxp9zxDXpBOjM) | [Help Me Out](https://open.spotify.com/album/5aOvfgizZIKyUeZ37oNYRi) | 3:27 |
 | 29 | [walk](https://open.spotify.com/track/1qCgW8pAIIiDuoN1slJCd9) | [james king](https://open.spotify.com/artist/4YFBzXjMSL5zHMlUDyocli) | [hollow](https://open.spotify.com/album/7IFoewD0yAxNyLHHVqALoG) | 1:54 |
 | 30 | [Greenland](https://open.spotify.com/track/7hlBb5jUQH764VF99CinP4) | [Emancipator](https://open.spotify.com/artist/6HCnsY0Rxi3cg53xreoAIm) | [Safe in the Steep Cliffs](https://open.spotify.com/album/6NkSldA9yAJrDomtPAz1Zs) | 3:11 |
 | 31 | [against me](https://open.spotify.com/track/7lyEwN7BB2XufCMWMjEaGk) | [abece](https://open.spotify.com/artist/30EAeQTgUhGDScjjT3gHXs) | [against me](https://open.spotify.com/album/2Ouy3w7JR2SuWPomoa5qz7) | 1:34 |
-| 32 | [fallinginlove.](https://open.spotify.com/track/2QPfaEicJRxxQ2WlBrqhAw) | [pandora.](https://open.spotify.com/artist/2kz8ErEfOCprZuWDcFgzSM), [chillwithme](https://open.spotify.com/artist/7AvcFSTZCBcqx0Uf03lrP8), [cødy](https://open.spotify.com/artist/0CLVTdLvMwJzZtHovVneAC) | [daydream.](https://open.spotify.com/album/5QgfYuguhp3BQkr8c7AqxR) | 1:37 |
-| 33 | [Starry Night](https://open.spotify.com/track/2CHU4jx0WDXqgid08iZOB6) | [Jordan Critz](https://open.spotify.com/artist/37eAVTi0h4cxTkScarLPFC) | [Novella](https://open.spotify.com/album/6N1QTJSMGI3hXRpfqNJdTP) | 4:58 |
+| 32 | [Starry Night](https://open.spotify.com/track/2CHU4jx0WDXqgid08iZOB6) | [Jordan Critz](https://open.spotify.com/artist/37eAVTi0h4cxTkScarLPFC) | [Novella](https://open.spotify.com/album/6N1QTJSMGI3hXRpfqNJdTP) | 4:58 |
+| 33 | [fallinginlove.](https://open.spotify.com/track/2QPfaEicJRxxQ2WlBrqhAw) | [pandora.](https://open.spotify.com/artist/2kz8ErEfOCprZuWDcFgzSM), [chillwithme](https://open.spotify.com/artist/7AvcFSTZCBcqx0Uf03lrP8), [cødy](https://open.spotify.com/artist/0CLVTdLvMwJzZtHovVneAC) | [daydream.](https://open.spotify.com/album/5QgfYuguhp3BQkr8c7AqxR) | 1:37 |
 | 34 | [The Beach](https://open.spotify.com/track/41CMzNSRuMlxCxBiFMJhpC) | [hélix](https://open.spotify.com/artist/0ro2QSQn9ViTKd2iuaygHj) | [The Beach](https://open.spotify.com/album/0b7YKgSQgWkVxpYsbd4oBQ) | 2:36 |
 | 35 | [Organ Variation](https://open.spotify.com/track/6dkJvNZ7DJWzTFXv3KHmoT) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ) | [Interstellar \(Original Motion Picture Soundtrack\) \[Expanded Edition\]](https://open.spotify.com/album/3B61kSKTxlY36cYgzvf3cP) | 4:51 |
 | 36 | [waking up in the park](https://open.spotify.com/track/278zobyI14d3iaE39jGfHM) | [j'san](https://open.spotify.com/artist/5iMUho98faEp2w6j5p44PH) | [waking up in the park](https://open.spotify.com/album/4jGrBMzBYAxIMdwxOLvlod) | 1:08 |
@@ -48,15 +48,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXpOtMyVOt4Q.md) - [plain]
 | 38 | [Melanine](https://open.spotify.com/track/5uTnqjoCiHCZJ3TmQpOhpH) | [Tycho](https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry) | [Dive](https://open.spotify.com/album/4CBUbnGFz2iKFJjYqRIwst) | 2:53 |
 | 39 | [Drifting Away](https://open.spotify.com/track/2eNGGlykvjQyStOU7DBHvE) | [Austin Farwell](https://open.spotify.com/artist/3gfeKrOBLlmoaUXfGJzmS5) | [Drifting Away](https://open.spotify.com/album/1hQ6aHQZssr7VVzIczYZMa) | 2:45 |
 | 40 | [No Time Left](https://open.spotify.com/track/1ZHRQbm7S54eSKEhKiw1rl) | [Hazy](https://open.spotify.com/artist/4zoz0st7CqesHkO58AbJtl) | [Nirvana](https://open.spotify.com/album/4YakhJKIpxIx7HGD8WI4oz) | 1:45 |
-| 41 | [livin](https://open.spotify.com/track/2XgZ0iZEOrqjiXMUyPcFqJ) | [yassprodd](https://open.spotify.com/artist/0WZLL9XHd4QId3RNI2kZ6Y) | [livin](https://open.spotify.com/album/3EKBf6jNY2loEs6R7BBdsq) | 1:31 |
-| 42 | [laleconparticulere.](https://open.spotify.com/track/3sUo9q67Pl3izLgUgfyHKK) | [pandora.](https://open.spotify.com/artist/2kz8ErEfOCprZuWDcFgzSM), [chillwithme](https://open.spotify.com/artist/7AvcFSTZCBcqx0Uf03lrP8), [cødy](https://open.spotify.com/artist/0CLVTdLvMwJzZtHovVneAC) | [laleconparticulere.](https://open.spotify.com/album/4koTRhv7vJHays2gNvf31v) | 1:03 |
+| 41 | [laleconparticulere.](https://open.spotify.com/track/3sUo9q67Pl3izLgUgfyHKK) | [pandora.](https://open.spotify.com/artist/2kz8ErEfOCprZuWDcFgzSM), [chillwithme](https://open.spotify.com/artist/7AvcFSTZCBcqx0Uf03lrP8), [cødy](https://open.spotify.com/artist/0CLVTdLvMwJzZtHovVneAC) | [laleconparticulere.](https://open.spotify.com/album/4koTRhv7vJHays2gNvf31v) | 1:03 |
+| 42 | [livin](https://open.spotify.com/track/2XgZ0iZEOrqjiXMUyPcFqJ) | [yassprodd](https://open.spotify.com/artist/0WZLL9XHd4QId3RNI2kZ6Y) | [livin](https://open.spotify.com/album/3EKBf6jNY2loEs6R7BBdsq) | 1:31 |
 | 43 | [Dandelion's Lullaby](https://open.spotify.com/track/4TLoYT6uaGydqUQRZ9hlxG) | [Raimu](https://open.spotify.com/artist/4PMAJlYIlc9EafX6z8lwZ3) | [Dandelion's Lullaby](https://open.spotify.com/album/3c9eWf9ONwSr9LKlwZ0ODW) | 2:03 |
 | 44 | [i need to be honest](https://open.spotify.com/track/5pMTNM75nUpdfbV9N0MMGV) | [vic](https://open.spotify.com/artist/4lc3yLPyNJpyOTpUB8U8Pa) | [im fine i promise](https://open.spotify.com/album/5IZx8gvWoXufbLsUGFyvZ2) | 0:50 |
 | 45 | [love within](https://open.spotify.com/track/6wv5lxSg3U9DSC5KvbQdfr) | [Linearwave](https://open.spotify.com/artist/2wIeBTEs0AsPb74kYdEcNk) | [love within](https://open.spotify.com/album/4NYnzOZDYMcQvA3Ome46ej) | 1:37 |
 | 46 | [Dead Metal](https://open.spotify.com/track/7CCPRhIy6VHd4ZmquuIggW) | [Rhys Lindsay](https://open.spotify.com/artist/1LD84W4loy082VZ4Mw7Td8) | [Exo One \(Original Game Soundtrack\)](https://open.spotify.com/album/22rQYIwZ0eL57N6FQ3ixme) | 1:05 |
 | 47 | [star struck](https://open.spotify.com/track/3JcRY9LLi7aLBqceAbAJaC) | [alixe.](https://open.spotify.com/artist/5CqGgJNg6sTMBr8KbBCqYn) | [star struck](https://open.spotify.com/album/0lWOg0zxjpIS81tzwUB0qr) | 1:36 |
 | 48 | [some light](https://open.spotify.com/track/6K87kUhlsVou4V4TfdhVtt) | [airshade](https://open.spotify.com/artist/78PMYaOMIdiuJBtmSIFluQ) | [some light](https://open.spotify.com/album/0oFtq5MKHlFR1eoGj8u62T) | 1:51 |
-| 49 | [Insomnia Dream](https://open.spotify.com/track/1wkD1pgESRrQysLpioCew3) | [colours in the dark](https://open.spotify.com/artist/4lRRwA3JsWrOD8f47gI2iI) | [Insomnia Dream](https://open.spotify.com/album/6gjd1kVza1OQREmtvcGUC7) | 2:42 |
-| 50 | [The Lonely Tree Corecore Depressed](https://open.spotify.com/track/6op1kH6zHU9JJu7vRZwrap) | [Leox](https://open.spotify.com/artist/7c4E98MuM8NBQGrSDC2n9r) | [The Lonely Tree Corecore Depressed](https://open.spotify.com/album/5MS01aBztEzPQLUN5OZhpd) | 1:22 |
+| 49 | [the lonely tree \(slowed\)](https://open.spotify.com/track/4Jjsn1g5vJJPdbPuJD2XBM) | [ciaffa](https://open.spotify.com/artist/40jlY1amdIaVtPMKjdBj7x) | [the lonely tree](https://open.spotify.com/album/6RPBdWsjsNsJWN9i2M3tDe) | 2:45 |
+| 50 | [Insomnia Dream](https://open.spotify.com/track/1wkD1pgESRrQysLpioCew3) | [colours in the dark](https://open.spotify.com/artist/4lRRwA3JsWrOD8f47gI2iI) | [Insomnia Dream](https://open.spotify.com/album/6gjd1kVza1OQREmtvcGUC7) | 2:42 |
 
-Snapshot ID: `MCw1MWQ4ZDk2YzMzMjUzZDRkNDFhNDg3ZDY2N2ExZjE4NDg2YTAyOWMx`
+Snapshot ID: `MCw4ODllMjFlZWVlNjYzMzNhZWU1M2ZhYTg2MGYzODFkOGEyMWQ0MGNh`

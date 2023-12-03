@@ -1,12 +1,12 @@
 {
   "description": "Flow sudamericano con El Doctor & Pablo Chill-E.",
-  "num_followers": 318438,
+  "num_followers": 318466,
   "original_name": "Flow al Sur",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZDZhNDM1ZjhlOTYxOTdkNWU5NzMwY2NjOTNiMjQ1N2Q0ZjQ4ODY0",
+  "snapshot_id": "MCxkZDRjZjZlMjVkZWE3YzM4ZGU1NjIyNzQ4ZTcxY2M0ZTZlODBjM2Mz",
   "tracks": [
     {
       "added_at": "2023-12-01 17:47:19",
@@ -903,6 +903,22 @@
     {
       "added_at": "2023-12-01 17:47:19",
       "album": {
+        "name": "Vida Gangster",
+        "url": "https://open.spotify.com/album/0cWDantlEEkAwu9Z0gAiMX"
+      },
+      "artists": [
+        {
+          "name": "Lauty Gram",
+          "url": "https://open.spotify.com/artist/6WAnQfBWB7ddhujPsFQ0pG"
+        }
+      ],
+      "duration_ms": 170058,
+      "name": "Vida Gangster",
+      "url": "https://open.spotify.com/track/4I4FFtKZLtyqw4he9pPtL7"
+    },
+    {
+      "added_at": "2023-12-01 17:47:19",
+      "album": {
         "name": "XQ TAN SOLA?",
         "url": "https://open.spotify.com/album/3Yd8cEiwelgcJrxPi6YEWE"
       },
@@ -919,22 +935,6 @@
       "duration_ms": 200073,
       "name": "XQ TAN SOLA?",
       "url": "https://open.spotify.com/track/5DoGJMtInwrPZrzyKnuqMi"
-    },
-    {
-      "added_at": "2023-12-01 17:47:19",
-      "album": {
-        "name": "Vida Gangster",
-        "url": "https://open.spotify.com/album/0cWDantlEEkAwu9Z0gAiMX"
-      },
-      "artists": [
-        {
-          "name": "Lauty Gram",
-          "url": "https://open.spotify.com/artist/6WAnQfBWB7ddhujPsFQ0pG"
-        }
-      ],
-      "duration_ms": 170058,
-      "name": "Vida Gangster",
-      "url": "https://open.spotify.com/track/4I4FFtKZLtyqw4he9pPtL7"
     },
     {
       "added_at": "2023-12-01 17:47:19",
@@ -1335,8 +1335,8 @@
     {
       "added_at": "2023-12-01 17:47:19",
       "album": {
-        "name": "Temporada de Reggaet\u00f3n 2",
-        "url": "https://open.spotify.com/album/6anO6Uh11TivGpTI56aKCH"
+        "name": "Antes de Ameri",
+        "url": "https://open.spotify.com/album/26nUVuonXEdbJTo9PeBYoR"
       },
       "artists": [
         {
@@ -1344,13 +1344,65 @@
           "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
         },
         {
-          "name": "Mora",
-          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
+          "name": "Jhayco",
+          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
         }
       ],
-      "duration_ms": 195652,
-      "name": "Amor Bipolar",
-      "url": "https://open.spotify.com/track/54azU25VdlyMhiqHOOCZeL"
+      "duration_ms": 173729,
+      "name": "RoCKSTAR 2.0",
+      "url": "https://open.spotify.com/track/7vQUmIUpnnOmzmSKDGJAol"
+    },
+    {
+      "added_at": "2023-12-01 17:47:19",
+      "album": {
+        "name": "511",
+        "url": "https://open.spotify.com/album/10vvdzSUQmL6hYsoPDhG3X"
+      },
+      "artists": [
+        {
+          "name": "Milo j",
+          "url": "https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3"
+        }
+      ],
+      "duration_ms": 106095,
+      "name": "TOI HECHO",
+      "url": "https://open.spotify.com/track/1qjb7lJPQ4oxQ3kSeZYXlt"
+    },
+    {
+      "added_at": "2023-12-01 17:47:19",
+      "album": {
+        "name": "Se Prepar\u00f3",
+        "url": "https://open.spotify.com/album/4JTkeIMIRGbaeL0LVP5r75"
+      },
+      "artists": [
+        {
+          "name": "Jairo Vera",
+          "url": "https://open.spotify.com/artist/5CAruGjgds3QlF5ICtEnnc"
+        },
+        {
+          "name": "Abraham Wayne",
+          "url": "https://open.spotify.com/artist/72mrMoRnOdPYVJfcoBdV8Z"
+        }
+      ],
+      "duration_ms": 192571,
+      "name": "Se Prepar\u00f3",
+      "url": "https://open.spotify.com/track/0rKjSZGak5unyPhqt3bCPz"
+    },
+    {
+      "added_at": "2023-12-01 17:47:19",
+      "album": {
+        "name": "Mayor Que Yo",
+        "url": "https://open.spotify.com/album/3IYDWHpVnmeM5t5Me43iQm"
+      },
+      "artists": [
+        {
+          "name": "Lauty Gram",
+          "url": "https://open.spotify.com/artist/6WAnQfBWB7ddhujPsFQ0pG"
+        }
+      ],
+      "duration_ms": 160937,
+      "name": "Mayor Que Yo",
+      "url": "https://open.spotify.com/track/1v3PvIWxBzOCILSy0Kpweu"
     },
     {
       "added_at": "2023-12-01 17:47:19",
@@ -1375,70 +1427,6 @@
     {
       "added_at": "2023-12-01 17:47:19",
       "album": {
-        "name": "511",
-        "url": "https://open.spotify.com/album/10vvdzSUQmL6hYsoPDhG3X"
-      },
-      "artists": [
-        {
-          "name": "Milo j",
-          "url": "https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3"
-        }
-      ],
-      "duration_ms": 106095,
-      "name": "TOI HECHO",
-      "url": "https://open.spotify.com/track/1qjb7lJPQ4oxQ3kSeZYXlt"
-    },
-    {
-      "added_at": "2023-12-01 17:47:19",
-      "album": {
-        "name": "Te Extra\u00f1o a Lo Vio (feat. Balbi El Chamako, Bayron Fire, Bayriton, Tommy Boysen, Gringuitos Records, El Rey) [Remix]",
-        "url": "https://open.spotify.com/album/4BbheII9RPkXhHCae8AoM0"
-      },
-      "artists": [
-        {
-          "name": "Jairo Vera",
-          "url": "https://open.spotify.com/artist/5CAruGjgds3QlF5ICtEnnc"
-        },
-        {
-          "name": "Nickoog Clk",
-          "url": "https://open.spotify.com/artist/6rHwFb0YjWexAYxTjm4eIj"
-        },
-        {
-          "name": "Gino Mella",
-          "url": "https://open.spotify.com/artist/7HYJrA3HSTNDmkl5pylhaY"
-        },
-        {
-          "name": "Balbi El Chamako",
-          "url": "https://open.spotify.com/artist/3k090bKo2iSqNdowffKHrt"
-        },
-        {
-          "name": "Bayron Fire",
-          "url": "https://open.spotify.com/artist/2IAxPmQzx2NuutHe7ta7gs"
-        },
-        {
-          "name": "Bayriton",
-          "url": "https://open.spotify.com/artist/29fcEFHRcOhfTYXvS8POPV"
-        },
-        {
-          "name": "Tommy Boysen",
-          "url": "https://open.spotify.com/artist/0wWmUneAuhQn9L3qibj5UO"
-        },
-        {
-          "name": "Gringuitos Records",
-          "url": "https://open.spotify.com/artist/5AYSnRNynWULTIDjzAbgxV"
-        },
-        {
-          "name": "El Rey",
-          "url": "https://open.spotify.com/artist/5Hhbu5PnHYAkO5LOVeEsmx"
-        }
-      ],
-      "duration_ms": 483683,
-      "name": "Te Extra\u00f1o a Lo Vio (feat. Balbi El Chamako, Bayron Fire, Bayriton, Tommy Boysen, Gringuitos Records, El Rey) - Remix",
-      "url": "https://open.spotify.com/track/6YNzvCsLwAJ4xZjdK9qk3r"
-    },
-    {
-      "added_at": "2023-12-01 17:47:19",
-      "album": {
         "name": "Toda Guapa",
         "url": "https://open.spotify.com/album/5jBPkUmcXBzPyff2y1Wzc2"
       },
@@ -1455,22 +1443,6 @@
       "duration_ms": 155275,
       "name": "Toda Guapa",
       "url": "https://open.spotify.com/track/6XLOKUNpCZRkWAKfEDeArF"
-    },
-    {
-      "added_at": "2023-12-01 17:47:19",
-      "album": {
-        "name": "Mayor Que Yo",
-        "url": "https://open.spotify.com/album/3IYDWHpVnmeM5t5Me43iQm"
-      },
-      "artists": [
-        {
-          "name": "Lauty Gram",
-          "url": "https://open.spotify.com/artist/6WAnQfBWB7ddhujPsFQ0pG"
-        }
-      ],
-      "duration_ms": 160937,
-      "name": "Mayor Que Yo",
-      "url": "https://open.spotify.com/track/1v3PvIWxBzOCILSy0Kpweu"
     },
     {
       "added_at": "2023-12-01 17:47:19",
@@ -1535,8 +1507,8 @@
     {
       "added_at": "2023-12-01 17:47:19",
       "album": {
-        "name": "Antes de Ameri",
-        "url": "https://open.spotify.com/album/26nUVuonXEdbJTo9PeBYoR"
+        "name": "Temporada de Reggaet\u00f3n 2",
+        "url": "https://open.spotify.com/album/6anO6Uh11TivGpTI56aKCH"
       },
       "artists": [
         {
@@ -1544,13 +1516,13 @@
           "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
         },
         {
-          "name": "Jhayco",
-          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
+          "name": "Mora",
+          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
         }
       ],
-      "duration_ms": 173729,
-      "name": "RoCKSTAR 2.0",
-      "url": "https://open.spotify.com/track/7vQUmIUpnnOmzmSKDGJAol"
+      "duration_ms": 195652,
+      "name": "Amor Bipolar",
+      "url": "https://open.spotify.com/track/54azU25VdlyMhiqHOOCZeL"
     },
     {
       "added_at": "2023-12-01 17:47:19",
@@ -1599,8 +1571,8 @@
     {
       "added_at": "2023-12-01 17:47:19",
       "album": {
-        "name": "Se Prepar\u00f3",
-        "url": "https://open.spotify.com/album/4JTkeIMIRGbaeL0LVP5r75"
+        "name": "Te Extra\u00f1o a Lo Vio (feat. Balbi El Chamako, Bayron Fire, Bayriton, Tommy Boysen, Gringuitos Records, El Rey) [Remix]",
+        "url": "https://open.spotify.com/album/4BbheII9RPkXhHCae8AoM0"
       },
       "artists": [
         {
@@ -1608,13 +1580,41 @@
           "url": "https://open.spotify.com/artist/5CAruGjgds3QlF5ICtEnnc"
         },
         {
-          "name": "Abraham Wayne",
-          "url": "https://open.spotify.com/artist/72mrMoRnOdPYVJfcoBdV8Z"
+          "name": "Nickoog Clk",
+          "url": "https://open.spotify.com/artist/6rHwFb0YjWexAYxTjm4eIj"
+        },
+        {
+          "name": "Gino Mella",
+          "url": "https://open.spotify.com/artist/7HYJrA3HSTNDmkl5pylhaY"
+        },
+        {
+          "name": "Balbi El Chamako",
+          "url": "https://open.spotify.com/artist/3k090bKo2iSqNdowffKHrt"
+        },
+        {
+          "name": "Bayron Fire",
+          "url": "https://open.spotify.com/artist/2IAxPmQzx2NuutHe7ta7gs"
+        },
+        {
+          "name": "Bayriton",
+          "url": "https://open.spotify.com/artist/29fcEFHRcOhfTYXvS8POPV"
+        },
+        {
+          "name": "Tommy Boysen",
+          "url": "https://open.spotify.com/artist/0wWmUneAuhQn9L3qibj5UO"
+        },
+        {
+          "name": "Gringuitos Records",
+          "url": "https://open.spotify.com/artist/5AYSnRNynWULTIDjzAbgxV"
+        },
+        {
+          "name": "El Rey",
+          "url": "https://open.spotify.com/artist/5Hhbu5PnHYAkO5LOVeEsmx"
         }
       ],
-      "duration_ms": 192571,
-      "name": "Se Prepar\u00f3",
-      "url": "https://open.spotify.com/track/0rKjSZGak5unyPhqt3bCPz"
+      "duration_ms": 483683,
+      "name": "Te Extra\u00f1o a Lo Vio (feat. Balbi El Chamako, Bayron Fire, Bayriton, Tommy Boysen, Gringuitos Records, El Rey) - Remix",
+      "url": "https://open.spotify.com/track/6YNzvCsLwAJ4xZjdK9qk3r"
     },
     {
       "added_at": "2023-12-01 17:47:19",
@@ -1707,6 +1707,26 @@
     {
       "added_at": "2023-12-01 17:47:19",
       "album": {
+        "name": "WorKING",
+        "url": "https://open.spotify.com/album/5HIukESDGbdiiL03rL5aBl"
+      },
+      "artists": [
+        {
+          "name": "King Savagge",
+          "url": "https://open.spotify.com/artist/7DXregrznS25AM30UY9sUU"
+        },
+        {
+          "name": "Jere Klein",
+          "url": "https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9"
+        }
+      ],
+      "duration_ms": 194214,
+      "name": "2 Hielos",
+      "url": "https://open.spotify.com/track/5Q9WL6KjOioqfqJdX2W72I"
+    },
+    {
+      "added_at": "2023-12-01 17:47:19",
+      "album": {
         "name": "SE ENDIABLA",
         "url": "https://open.spotify.com/album/6cnpSkpsSBOUM8cBvu2dXp"
       },
@@ -1767,26 +1787,6 @@
     {
       "added_at": "2023-12-01 17:47:19",
       "album": {
-        "name": "WorKING",
-        "url": "https://open.spotify.com/album/5HIukESDGbdiiL03rL5aBl"
-      },
-      "artists": [
-        {
-          "name": "King Savagge",
-          "url": "https://open.spotify.com/artist/7DXregrznS25AM30UY9sUU"
-        },
-        {
-          "name": "Jere Klein",
-          "url": "https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9"
-        }
-      ],
-      "duration_ms": 194214,
-      "name": "2 Hielos",
-      "url": "https://open.spotify.com/track/5Q9WL6KjOioqfqJdX2W72I"
-    },
-    {
-      "added_at": "2023-12-01 17:47:19",
-      "album": {
         "name": "Hood (Remix)",
         "url": "https://open.spotify.com/album/4ojUS0aIHkPPxworw8ZMTv"
       },
@@ -1803,22 +1803,6 @@
       "duration_ms": 176372,
       "name": "Hood - Remix",
       "url": "https://open.spotify.com/track/3UytZp1xDkNkROyIwE7DbY"
-    },
-    {
-      "added_at": "2023-12-01 17:47:19",
-      "album": {
-        "name": "Felices x Siempre",
-        "url": "https://open.spotify.com/album/1DW15sDiWh55xNKb5uqIp2"
-      },
-      "artists": [
-        {
-          "name": "Maria Becerra",
-          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
-        }
-      ],
-      "duration_ms": 199656,
-      "name": "Felices x Siempre",
-      "url": "https://open.spotify.com/track/42Gzfqnfpk7Pp1ydM60eNn"
     },
     {
       "added_at": "2023-12-01 17:47:19",
@@ -1847,6 +1831,22 @@
     {
       "added_at": "2023-12-01 17:47:19",
       "album": {
+        "name": "Felices x Siempre",
+        "url": "https://open.spotify.com/album/1DW15sDiWh55xNKb5uqIp2"
+      },
+      "artists": [
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        }
+      ],
+      "duration_ms": 199656,
+      "name": "Felices x Siempre",
+      "url": "https://open.spotify.com/track/42Gzfqnfpk7Pp1ydM60eNn"
+    },
+    {
+      "added_at": "2023-12-01 17:47:19",
+      "album": {
         "name": "FINALMENTE RICO",
         "url": "https://open.spotify.com/album/5w6b1S6V1hgZetL2YaQPJk"
       },
@@ -1863,6 +1863,26 @@
       "duration_ms": 187200,
       "name": "GANAS",
       "url": "https://open.spotify.com/track/2RQsLucjZb02cKkz3s8NZ5"
+    },
+    {
+      "added_at": "2023-12-01 17:47:19",
+      "album": {
+        "name": "Con Puras de 25",
+        "url": "https://open.spotify.com/album/5YScK348YCNiTK8yotpMM5"
+      },
+      "artists": [
+        {
+          "name": "Jairo Vera",
+          "url": "https://open.spotify.com/artist/5CAruGjgds3QlF5ICtEnnc"
+        },
+        {
+          "name": "Best",
+          "url": "https://open.spotify.com/artist/4Ng3fh1nc5L04iXPL8vqc7"
+        }
+      ],
+      "duration_ms": 138461,
+      "name": "Con Puras de 25",
+      "url": "https://open.spotify.com/track/7Am9Us7Lub64dgaJ3jCeL7"
     },
     {
       "added_at": "2023-12-01 17:47:19",
@@ -1887,26 +1907,6 @@
       "duration_ms": 258285,
       "name": "Llamame Bebe",
       "url": "https://open.spotify.com/track/66vWfpNGNT4y6nPdW5WMtj"
-    },
-    {
-      "added_at": "2023-12-01 17:47:19",
-      "album": {
-        "name": "Con Puras de 25",
-        "url": "https://open.spotify.com/album/5YScK348YCNiTK8yotpMM5"
-      },
-      "artists": [
-        {
-          "name": "Jairo Vera",
-          "url": "https://open.spotify.com/artist/5CAruGjgds3QlF5ICtEnnc"
-        },
-        {
-          "name": "Best",
-          "url": "https://open.spotify.com/artist/4Ng3fh1nc5L04iXPL8vqc7"
-        }
-      ],
-      "duration_ms": 138461,
-      "name": "Con Puras de 25",
-      "url": "https://open.spotify.com/track/7Am9Us7Lub64dgaJ3jCeL7"
     },
     {
       "added_at": "2023-12-01 17:47:19",

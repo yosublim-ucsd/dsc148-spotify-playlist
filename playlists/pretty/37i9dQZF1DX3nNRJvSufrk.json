@@ -1,12 +1,12 @@
 {
   "description": "Can you keep up? Get moving to the rapid rhythms of Footwork & Juke, originating in 1990s Chicago. Cover: DJ Manny",
-  "num_followers": 31903,
+  "num_followers": 31914,
   "original_name": "Footwork/Juke",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5OWUwOTRlYzBkOTRjMWZjN2ExNmJmYjk5Mzg2MjQwM2U4N2Y4MzY4",
+  "snapshot_id": "MCwxNjU2MmEyNjBhMmFlZTBiMzRjN2YyZTM5MWEwMDNhYTljZDU2MzRi",
   "tracks": [
     {
       "added_at": "2023-06-30 04:00:00",
@@ -239,6 +239,22 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
+        "name": "No Cap 4 2020 (SBF14)",
+        "url": "https://open.spotify.com/album/5MgKGMeW2RO46jiF0R1v2R"
+      },
+      "artists": [
+        {
+          "name": "DJ Earl",
+          "url": "https://open.spotify.com/artist/3Y6Xd3ZOlhkroMrz1Bmo0Y"
+        }
+      ],
+      "duration_ms": 157000,
+      "name": "No Cap 4 2020 - SBF14",
+      "url": "https://open.spotify.com/track/2MPzyS96YOHV8789Bk8j9p"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
         "name": "Relationships",
         "url": "https://open.spotify.com/album/0PuR1XbAkXUSEI9yGNHeaX"
       },
@@ -263,22 +279,6 @@
       "duration_ms": 212546,
       "name": "(+)3",
       "url": "https://open.spotify.com/track/4TYeI1lLLFgFojIZcuFNr2"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
-        "name": "No Cap 4 2020 (SBF14)",
-        "url": "https://open.spotify.com/album/5MgKGMeW2RO46jiF0R1v2R"
-      },
-      "artists": [
-        {
-          "name": "DJ Earl",
-          "url": "https://open.spotify.com/artist/3Y6Xd3ZOlhkroMrz1Bmo0Y"
-        }
-      ],
-      "duration_ms": 157000,
-      "name": "No Cap 4 2020 - SBF14",
-      "url": "https://open.spotify.com/track/2MPzyS96YOHV8789Bk8j9p"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -403,22 +403,6 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "Intuition",
-        "url": "https://open.spotify.com/album/7rgcAQIrNsHCPRp8p7CWpM"
-      },
-      "artists": [
-        {
-          "name": "DJ FLP",
-          "url": "https://open.spotify.com/artist/7mcrgPUbytCnGDjt7PYXCA"
-        }
-      ],
-      "duration_ms": 363230,
-      "name": "Forgotten",
-      "url": "https://open.spotify.com/track/69L3zcmAXAW09qTz7HoQlX"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
         "name": "Players, Ballers, Rollers",
         "url": "https://open.spotify.com/album/3TCqiFkNsX6O9NfJwKcgu1"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 145426,
       "name": "Bounce",
       "url": "https://open.spotify.com/track/2by9dE80FvGCBjyQxd2zJo"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
+        "name": "Intuition",
+        "url": "https://open.spotify.com/album/7rgcAQIrNsHCPRp8p7CWpM"
+      },
+      "artists": [
+        {
+          "name": "DJ FLP",
+          "url": "https://open.spotify.com/artist/7mcrgPUbytCnGDjt7PYXCA"
+        }
+      ],
+      "duration_ms": 363230,
+      "name": "Forgotten",
+      "url": "https://open.spotify.com/track/69L3zcmAXAW09qTz7HoQlX"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -547,22 +547,6 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "Bangs & Works, Vol.1: A Chicago Footwork Compilation",
-        "url": "https://open.spotify.com/album/3zM6n40Te2hywzxpj9k5tr"
-      },
-      "artists": [
-        {
-          "name": "DJ Trouble",
-          "url": "https://open.spotify.com/artist/33KsPfISa6inRnrPvWutSy"
-        }
-      ],
-      "duration_ms": 180453,
-      "name": "Bangs & Works",
-      "url": "https://open.spotify.com/track/5UMr3rsYiX6ajMaydiiluf"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
         "name": "Aspects",
         "url": "https://open.spotify.com/album/41TVmUMGU9ngfPb350XfwC"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 108000,
       "name": "Imma Dog",
       "url": "https://open.spotify.com/track/524AOf3Zmp93608e38RukD"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
+        "name": "Bangs & Works, Vol.1: A Chicago Footwork Compilation",
+        "url": "https://open.spotify.com/album/3zM6n40Te2hywzxpj9k5tr"
+      },
+      "artists": [
+        {
+          "name": "DJ Trouble",
+          "url": "https://open.spotify.com/artist/33KsPfISa6inRnrPvWutSy"
+        }
+      ],
+      "duration_ms": 180453,
+      "name": "Bangs & Works",
+      "url": "https://open.spotify.com/track/5UMr3rsYiX6ajMaydiiluf"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -675,22 +675,6 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "Da Trak Genious",
-        "url": "https://open.spotify.com/album/5Ae4gsudmsRBqFiY6px4Xh"
-      },
-      "artists": [
-        {
-          "name": "DJ Nate",
-          "url": "https://open.spotify.com/artist/5tefnddMVyra0vGqyFVEjM"
-        }
-      ],
-      "duration_ms": 169693,
-      "name": "Below Zero",
-      "url": "https://open.spotify.com/track/2CuUS7ofCI8fmmVe2vyGqW"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
         "name": "Kush, Rhodes & 808's",
         "url": "https://open.spotify.com/album/4xW3MYeu3Gwc224UHhNAfV"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 210000,
       "name": "Keep the Drug$",
       "url": "https://open.spotify.com/track/7tzfOnSTtrr8Gzl00240Ik"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
+        "name": "Da Trak Genious",
+        "url": "https://open.spotify.com/album/5Ae4gsudmsRBqFiY6px4Xh"
+      },
+      "artists": [
+        {
+          "name": "DJ Nate",
+          "url": "https://open.spotify.com/artist/5tefnddMVyra0vGqyFVEjM"
+        }
+      ],
+      "duration_ms": 169693,
+      "name": "Below Zero",
+      "url": "https://open.spotify.com/track/2CuUS7ofCI8fmmVe2vyGqW"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -759,22 +759,22 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "Rituals EP",
-        "url": "https://open.spotify.com/album/7dA9oiC0iPu2yNXnOK8rn3"
+        "name": "Bs6",
+        "url": "https://open.spotify.com/album/5PhWDWDVBHZ4dtr2kg6xAu"
       },
       "artists": [
         {
-          "name": "BSN Posse",
-          "url": "https://open.spotify.com/artist/1fnlGaoXeWH8RMPVKR2gBU"
+          "name": "Hyroglifics",
+          "url": "https://open.spotify.com/artist/6hNELDwN2cBEdL74cpXKc0"
         },
         {
-          "name": "Jon1st",
-          "url": "https://open.spotify.com/artist/4rkqsUdw0a2YaadfuNM7zF"
+          "name": "Sinistarr",
+          "url": "https://open.spotify.com/artist/1AqybHsTw984feND8RwcCe"
         }
       ],
-      "duration_ms": 316023,
-      "name": "Burnin Shoes",
-      "url": "https://open.spotify.com/track/4ap5hCK1x2EjMd6QyJFZiK"
+      "duration_ms": 225460,
+      "name": "BS6",
+      "url": "https://open.spotify.com/track/4G2ylGiKx1KonQKyPsxulR"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -795,22 +795,22 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "Bs6",
-        "url": "https://open.spotify.com/album/5PhWDWDVBHZ4dtr2kg6xAu"
+        "name": "Rituals EP",
+        "url": "https://open.spotify.com/album/7dA9oiC0iPu2yNXnOK8rn3"
       },
       "artists": [
         {
-          "name": "Hyroglifics",
-          "url": "https://open.spotify.com/artist/6hNELDwN2cBEdL74cpXKc0"
+          "name": "BSN Posse",
+          "url": "https://open.spotify.com/artist/1fnlGaoXeWH8RMPVKR2gBU"
         },
         {
-          "name": "Sinistarr",
-          "url": "https://open.spotify.com/artist/1AqybHsTw984feND8RwcCe"
+          "name": "Jon1st",
+          "url": "https://open.spotify.com/artist/4rkqsUdw0a2YaadfuNM7zF"
         }
       ],
-      "duration_ms": 225460,
-      "name": "BS6",
-      "url": "https://open.spotify.com/track/4G2ylGiKx1KonQKyPsxulR"
+      "duration_ms": 316023,
+      "name": "Burnin Shoes",
+      "url": "https://open.spotify.com/track/4ap5hCK1x2EjMd6QyJFZiK"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -851,22 +851,6 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "VIP VAULTS",
-        "url": "https://open.spotify.com/album/7dQjTAus3GtAzuFhAiEPHz"
-      },
-      "artists": [
-        {
-          "name": "Slick Shoota",
-          "url": "https://open.spotify.com/artist/2P1OqKNHmAOg9RfAufNNkR"
-        }
-      ],
-      "duration_ms": 271083,
-      "name": "147",
-      "url": "https://open.spotify.com/track/60I8YrrHXJnfPmo9U8yBnu"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
         "name": "Druguse",
         "url": "https://open.spotify.com/album/33JOcNGQQ1MT6fYzfxAhJh"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 208530,
       "name": "Elevate",
       "url": "https://open.spotify.com/track/0qcYatTVf33ouptkYHtUqL"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
+        "name": "VIP VAULTS",
+        "url": "https://open.spotify.com/album/7dQjTAus3GtAzuFhAiEPHz"
+      },
+      "artists": [
+        {
+          "name": "Slick Shoota",
+          "url": "https://open.spotify.com/artist/2P1OqKNHmAOg9RfAufNNkR"
+        }
+      ],
+      "duration_ms": 271083,
+      "name": "147",
+      "url": "https://open.spotify.com/track/60I8YrrHXJnfPmo9U8yBnu"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -947,18 +947,18 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "Guaranteed",
-        "url": "https://open.spotify.com/album/1HMCwgdVCktmbzoKPxAzzX"
+        "name": "Juking For Live (I.C.T.W)",
+        "url": "https://open.spotify.com/album/3k2t4ylBBWNH7ovwqceYHq"
       },
       "artists": [
         {
-          "name": "Caidance",
-          "url": "https://open.spotify.com/artist/3bWNdjdWiWNdv1xPOnFU1r"
+          "name": "DJ Slugo",
+          "url": "https://open.spotify.com/artist/1cdLR0Fz14MLkWY78hNTYT"
         }
       ],
-      "duration_ms": 220800,
-      "name": "Stick Em'",
-      "url": "https://open.spotify.com/track/1Pr37UKvEs9EWlO70gTPhF"
+      "duration_ms": 236571,
+      "name": "Juking For Live (I.C.T.W)",
+      "url": "https://open.spotify.com/track/65CmlkO3DCwB0ZQvU9vaZY"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -999,22 +999,6 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "Juking For Live (I.C.T.W)",
-        "url": "https://open.spotify.com/album/3k2t4ylBBWNH7ovwqceYHq"
-      },
-      "artists": [
-        {
-          "name": "DJ Slugo",
-          "url": "https://open.spotify.com/artist/1cdLR0Fz14MLkWY78hNTYT"
-        }
-      ],
-      "duration_ms": 236571,
-      "name": "Juking For Live (I.C.T.W)",
-      "url": "https://open.spotify.com/track/65CmlkO3DCwB0ZQvU9vaZY"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
         "name": "Street Bangers Factory 04",
         "url": "https://open.spotify.com/album/5tnvRpXyVXxWYjNjxIwe4d"
       },
@@ -1031,18 +1015,18 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "The Grove",
-        "url": "https://open.spotify.com/album/0KRdcfl8C4iPEhmw0Qgwce"
+        "name": "Guaranteed",
+        "url": "https://open.spotify.com/album/1HMCwgdVCktmbzoKPxAzzX"
       },
       "artists": [
         {
-          "name": "DJ Orange Julius",
-          "url": "https://open.spotify.com/artist/4DiPpabfaBSsHYvjlPkazH"
+          "name": "Caidance",
+          "url": "https://open.spotify.com/artist/3bWNdjdWiWNdv1xPOnFU1r"
         }
       ],
-      "duration_ms": 217508,
-      "name": "Bring It Back",
-      "url": "https://open.spotify.com/track/0NesKGMUOHjOoPI6KWNLKT"
+      "duration_ms": 220800,
+      "name": "Stick Em'",
+      "url": "https://open.spotify.com/track/1Pr37UKvEs9EWlO70gTPhF"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -1059,6 +1043,22 @@
       "duration_ms": 138232,
       "name": "Miau",
       "url": "https://open.spotify.com/track/6kEIRclfzZfraQY9Cn3F01"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
+        "name": "The Grove",
+        "url": "https://open.spotify.com/album/0KRdcfl8C4iPEhmw0Qgwce"
+      },
+      "artists": [
+        {
+          "name": "DJ Orange Julius",
+          "url": "https://open.spotify.com/artist/4DiPpabfaBSsHYvjlPkazH"
+        }
+      ],
+      "duration_ms": 217508,
+      "name": "Bring It Back",
+      "url": "https://open.spotify.com/track/0NesKGMUOHjOoPI6KWNLKT"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -1119,6 +1119,22 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
+        "name": "Heavy on DA Footwork",
+        "url": "https://open.spotify.com/album/3cwJ07tqWWspBoeWQvWBYJ"
+      },
+      "artists": [
+        {
+          "name": "Dj Spaldin",
+          "url": "https://open.spotify.com/artist/2TWLvBrhwsGGnd10vmtIBj"
+        }
+      ],
+      "duration_ms": 246308,
+      "name": "Nycfw",
+      "url": "https://open.spotify.com/track/3EQA4h2oX2HsqUXwmb9EMs"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
         "name": "HNADFUL OF SAND",
         "url": "https://open.spotify.com/album/0VvFwyjGybjRMlzKvRn3HV"
       },
@@ -1143,22 +1159,6 @@
       "duration_ms": 150375,
       "name": "HNADFUL OF SAND",
       "url": "https://open.spotify.com/track/4qpbXynEqm71wahVnnYYRP"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
-        "name": "Heavy on DA Footwork",
-        "url": "https://open.spotify.com/album/3cwJ07tqWWspBoeWQvWBYJ"
-      },
-      "artists": [
-        {
-          "name": "Dj Spaldin",
-          "url": "https://open.spotify.com/artist/2TWLvBrhwsGGnd10vmtIBj"
-        }
-      ],
-      "duration_ms": 246308,
-      "name": "Nycfw",
-      "url": "https://open.spotify.com/track/3EQA4h2oX2HsqUXwmb9EMs"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "Ww3",
-        "url": "https://open.spotify.com/album/4QY4yD4BeJPqJPskLtbEDB"
-      },
-      "artists": [
-        {
-          "name": "Dj Spaldin",
-          "url": "https://open.spotify.com/artist/2TWLvBrhwsGGnd10vmtIBj"
-        }
-      ],
-      "duration_ms": 214915,
-      "name": "Flicka",
-      "url": "https://open.spotify.com/track/7BMJLV7eWICgcb1ouJAhq3"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
         "name": "All I See Is Red",
         "url": "https://open.spotify.com/album/2yd17ccvJmGS9MRAjceY0z"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 164383,
       "name": "Bounce That Booty - Jackmaster Werks Remix",
       "url": "https://open.spotify.com/track/6Ta2yIK2q5GAs2tqTLRLX5"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
+        "name": "Ww3",
+        "url": "https://open.spotify.com/album/4QY4yD4BeJPqJPskLtbEDB"
+      },
+      "artists": [
+        {
+          "name": "Dj Spaldin",
+          "url": "https://open.spotify.com/artist/2TWLvBrhwsGGnd10vmtIBj"
+        }
+      ],
+      "duration_ms": 214915,
+      "name": "Flicka",
+      "url": "https://open.spotify.com/track/7BMJLV7eWICgcb1ouJAhq3"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "Heavy on DA Footwork",
-        "url": "https://open.spotify.com/album/3cwJ07tqWWspBoeWQvWBYJ"
-      },
-      "artists": [
-        {
-          "name": "Dj Spaldin",
-          "url": "https://open.spotify.com/artist/2TWLvBrhwsGGnd10vmtIBj"
-        }
-      ],
-      "duration_ms": 232708,
-      "name": "Overture of Spaldin",
-      "url": "https://open.spotify.com/track/764tyXjLix45eNDYsWIFxw"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
         "name": "T3 TRAXX, Vol. 2",
         "url": "https://open.spotify.com/album/0VXeDXXyazcUW5kbzSOWSH"
       },
@@ -1399,6 +1383,22 @@
       "duration_ms": 186000,
       "name": "L",
       "url": "https://open.spotify.com/track/5NhmNspdkZwdMYeebLY1Hi"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
+        "name": "Heavy on DA Footwork",
+        "url": "https://open.spotify.com/album/3cwJ07tqWWspBoeWQvWBYJ"
+      },
+      "artists": [
+        {
+          "name": "Dj Spaldin",
+          "url": "https://open.spotify.com/artist/2TWLvBrhwsGGnd10vmtIBj"
+        }
+      ],
+      "duration_ms": 232708,
+      "name": "Overture of Spaldin",
+      "url": "https://open.spotify.com/track/764tyXjLix45eNDYsWIFxw"
     },
     {
       "added_at": "2023-06-30 04:00:00",

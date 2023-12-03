@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 
 > Die Playlist, die dich fühlt\. Cover: JBS, MilleniumKid
 
-[Spotify](https://open.spotify.com/user/spotify) - 446,839 likes - 101 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 446,907 likes - 101 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 | 2 | [Meet you at the Graveyard](https://open.spotify.com/track/5wQyLDy36ihxX69E7JBi4L) | [Cleffy](https://open.spotify.com/artist/0Dd84sfPxs6Aj0PjlCM1P7) | [Clean Sheets, Dirty Walls](https://open.spotify.com/album/1XBXF77YB5WTnLAkfFMwkM) | 2:52 |
 | 3 | [Vielleicht Vielleicht](https://open.spotify.com/track/559mLg44MrcA7JzYGbpXfL) | [MilleniumKid](https://open.spotify.com/artist/6nJEMDVNcq7fduXgk7EdGG), [JBS](https://open.spotify.com/artist/6l8dHVPkuEFzpQjhCH4xXT) | [Vielleicht Vielleicht](https://open.spotify.com/album/3xunU89Mwwaw3gbwwLg0BX) | 2:22 |
 | 4 | [Berlin](https://open.spotify.com/track/0FTzEpdHkYu0D5MBJbjGSh) | [Nicolas Binder](https://open.spotify.com/artist/4cisvT0RilDGHw8lzANpUA) | [Berlin](https://open.spotify.com/album/66WOqWah15Fu8rRxWVAHNf) | 3:14 |
-| 5 | [winterlove2.0](https://open.spotify.com/track/1szS7JF64tEmQke86QpFDV) | [Maikel](https://open.spotify.com/artist/2T1zM7AtA0Cd9u1m3PBFEY), [badchieff](https://open.spotify.com/artist/6GoNVmYCl0yUm4pEp80vn6), [Miksu / Macloud](https://open.spotify.com/artist/76dRoxKtDwYkgCQePok9cU) | [winterlove2.0](https://open.spotify.com/album/6FVvZwks2Bz8xpYFUSbQrb) | 3:11 |
+| 5 | [winterlove2.0](https://open.spotify.com/track/1szS7JF64tEmQke86QpFDV) | [Maikel](https://open.spotify.com/artist/2T1zM7AtA0Cd9u1m3PBFEY), [badchieff](https://open.spotify.com/artist/6GoNVmYCl0yUm4pEp80vn6), [Miksu / Macloud](https://open.spotify.com/artist/76dRoxKtDwYkgCQePok9cU) | [winterlove2.0](https://open.spotify.com/album/6FVvZwks2Bz8xpYFUSbQrb) | 3:08 |
 | 6 | [HUSO](https://open.spotify.com/track/37h4oEmchSH4UXFXq5NQbT) | [Ritter Lean](https://open.spotify.com/artist/2IiYcx1PUPlEFbW54buLBt), [Ski Aggu](https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H) | [HUSO](https://open.spotify.com/album/6uh1MujKNxhqhPdkb3rQUI) | 2:24 |
 | 7 | [Broken Trust](https://open.spotify.com/track/5Y4OwloGr9QSxZLZ5DXGte) | [SAY3AM](https://open.spotify.com/artist/3UxUktdCJsomjKqozWDWSu), [Staarz](https://open.spotify.com/artist/0bb1EZkY7SlcGKU9e5T9DL) | [Broken Trust](https://open.spotify.com/album/3Wm96XwUfNEfVCTYmyQmBH) | 2:03 |
 | 8 | [Denkmal 2.0 \- Replay Okay Edit](https://open.spotify.com/track/7h02U5HuG4u2AdAvCuKHEn) | [Wir sind Helden](https://open.spotify.com/artist/3jiOHVFdVQjbSDVeC7RgY7), [Replay Okay](https://open.spotify.com/artist/2pWTB3Q2GjoZpznmktG6uC) | [Denkmal 2.0 \(Replay Okay Edit\)](https://open.spotify.com/album/2wMqZxrWMXG1QLwWnUrOFa) | 2:04 |
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 | 100 | [Paris Paris](https://open.spotify.com/track/5DCsBJ761OKZT9QAYljRB7) | [JBS](https://open.spotify.com/artist/6l8dHVPkuEFzpQjhCH4xXT) | [Paris Paris](https://open.spotify.com/album/69rUtSl9ZypyPH225w0TfD) | 2:56 |
 | 101 | [Why Do You Hate Me](https://open.spotify.com/track/2sgbEfih4ClTQ13fo3zaOl) | [CH4YN](https://open.spotify.com/artist/3G42n5HyIQhYUmKX67yOaU) | [Why Do You Hate Me](https://open.spotify.com/album/2TOSa1BTQF23HlqLjOSltx) | 2:23 |
 
-Snapshot ID: `MCw1NmVlYjE4ZjQ5ZmFhYjAyNTlhMDY4ZGFmMTUzMzEzMWM3Nzg3MTRl`
+Snapshot ID: `MCxlYWQ4NDZlNzM3YjE5MzY5YTNhZjFhZTI2YzJlMzQxMTA0YTAzZjg0`

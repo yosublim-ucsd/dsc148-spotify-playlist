@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8gDIpdqp1XJ.md) - [plain]
 
 > The best of modern psychedelic rock,  neo\-psychedelic, and psychedelic indie.
 
-[Spotify](https://open.spotify.com/user/spotify) - 879,655 likes - 100 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 879,606 likes - 100 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8gDIpdqp1XJ.md) - [plain]
 | 21 | [Roddy](https://open.spotify.com/track/5hS8s1Vf4CeSRBT1bTWa39) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [Twenty Twenty](https://open.spotify.com/album/3kxxxUQ9HFVUSg2pDLYoZ0) | 4:12 |
 | 22 | [Gem & I](https://open.spotify.com/track/5cOaDhLJ6dGnIMAFeHsjT5) | [Animal Collective](https://open.spotify.com/artist/4kwxTgCKMipBKhSnEstNKj) | [Gem & I](https://open.spotify.com/album/3UQvkojaS56sOTpiKZalUW) | 3:39 |
 | 23 | [This Time](https://open.spotify.com/track/79ob9RdP6xf1MmdIxW9jSt) | [Future Utopia](https://open.spotify.com/artist/1vlBj1Zv2y6dCNdGeIBsNo) | [This Time](https://open.spotify.com/album/1FP5BG78Zrej8cyry5DZ2w) | 3:50 |
-| 24 | [Restless Thoughts](https://open.spotify.com/track/3fJaQLBjTjl0TmXhff9TdL) | [Zooey Celeste](https://open.spotify.com/artist/5I03jA5mQ19EpbvyBDd9Jy) | [Restless Thoughts](https://open.spotify.com/album/5NYUwVB0BrNpQ35ZP3zgqk) | 2:32 |
+| 24 | [Restless Thoughts](https://open.spotify.com/track/6rx2PKLSvz4El2ZW5o1skH) | [Zooey Celeste](https://open.spotify.com/artist/5I03jA5mQ19EpbvyBDd9Jy) | [Restless Thoughts](https://open.spotify.com/album/2Xitvfl8pZL8XH7iqxV9UJ) | 2:32 |
 | 25 | [Melting With You](https://open.spotify.com/track/3INE9jzMsNmQQULETlkbr6) | [The Stingrays](https://open.spotify.com/artist/0A3Tb2Y2PfWwfRlA89oHCd) | [Melting With You](https://open.spotify.com/album/7G3WHSqKkWPzi93U0jum8I) | 2:54 |
 | 26 | [All is One](https://open.spotify.com/track/1WSHM20IR1bliV1jzEPZyK) | [BALTHVS](https://open.spotify.com/artist/2CtiNJi0zB35RHYXViVjKG) | [Third Vibration](https://open.spotify.com/album/2tk4OOnz9uDT9BLJY4EBLY) | 3:51 |
 | 27 | [Tongues ii](https://open.spotify.com/track/5hsiKHlyGKPgJgxKRzU01O) | [Slomo Sapiens](https://open.spotify.com/artist/1TDdS4QH1Z5hNQNe4YeM3Q) | [Tongues ii](https://open.spotify.com/album/39eb7GTOFKzbixXcKZBA3p) | 5:36 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8gDIpdqp1XJ.md) - [plain]
 | 99 | [Crushxd](https://open.spotify.com/track/3asSrvrWbMpX4v4ilkj5So) | [Crumb](https://open.spotify.com/artist/4kSGbjWGxTchKpIxXPJv0B) | [Crushxd](https://open.spotify.com/album/46VsFMbRWN6hXT2J0a8fzo) | 3:06 |
 | 100 | [Lately](https://open.spotify.com/track/08Q1EXipT8rCIiBy7k6ePX) | [j\. pastel](https://open.spotify.com/artist/4e0F3Bqyp0BpE3VmNh4qKS) | [Lately](https://open.spotify.com/album/14maTnZCS9S3FG0YZ21LyL) | 3:56 |
 
-Snapshot ID: `MCw3MzZkNmZkNzdhOTVkYzZiN2FhZmQ3YTc2Yjc0OWM3ZjIyMzJhNDU3`
+Snapshot ID: `MCxkMTVjZTM4NjFmYjFjMDFjOWYzNmZjNjhmYzk1NmRkMjFjNzEyYzJk`

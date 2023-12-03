@@ -4,7 +4,7 @@
 
 > Fall in love with the sensual sounds of Kizomba! Cover: Cubita.
 
-334 songs - 20 hr 1 min
+335 songs - 20 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,6 +61,7 @@
 | [Cada Detalhe Teu](https://open.spotify.com/track/2Vwgxwetkkc87mAcjM0rgw) | [Irina Barros](https://open.spotify.com/artist/1oXW86kOCopYzoAWOOc6gj) | [Cada Detalhe Teu](https://open.spotify.com/album/7LvYLQTaKMrhRZq2vrSn6G) | 3:28 | 2021-12-10 | 2022-07-19 |
 | [Cara Trancada](https://open.spotify.com/track/1U07y8ugAZcUC2SMjasLoZ) | [KONSTANTINO](https://open.spotify.com/artist/4zdhRvYNGW2zd5f4yarhdJ) | [Cara Trancada](https://open.spotify.com/album/1K4ppTJiB80RfqNKA0B7rI) | 4:16 | 2021-12-10 |  |
 | [Chama a Polícia](https://open.spotify.com/track/5nXyhuzNJ5jHdpPDq5ywaS) | [Jenny Cabral](https://open.spotify.com/artist/66xcfAp997B9qNAwwEtQvK), [Dotorado Pro](https://open.spotify.com/artist/6CMcJKC5K1MFHQJYKdTLPd) | [Chama a Polícia](https://open.spotify.com/album/0gbGNvo50htawNPbtkBzJ7) | 3:02 | 2023-09-07 | 2023-09-15 |
+| [Chega Mais](https://open.spotify.com/track/62QnPfgjS0g6OZA94Y9kYO) | [Nice Life](https://open.spotify.com/artist/3aItXxnatnsBD8y7r80GuZ), [Tony Z](https://open.spotify.com/artist/1LQV4iAHmqsgD14kDSm3Pt) | [Chega Mais](https://open.spotify.com/album/4C5NUgH6nrd0FcxugTWGIl) | 3:14 | 2023-12-01 |  |
 | [Chocolate](https://open.spotify.com/track/39M2ax2nivC7jKJrYxrTuQ) | [Dynamo](https://open.spotify.com/artist/6QIDj58kioY2urnpvAttwi) | [Chocolate](https://open.spotify.com/album/6imRBmBRoHhUV2YGUto0IF) | 3:03 | 2022-10-20 | 2022-11-04 |
 | [Chocolate](https://open.spotify.com/track/5JSaK3zQTNv1L7PvpvelbE) | [Nelson Freitas](https://open.spotify.com/artist/6yWyIM8jA96kl3jlCXpabB) | [Dpos D' Quarentena](https://open.spotify.com/album/1U0cUGkzOq6ESgOs1S8yLF) | 3:10 | 2021-12-10 | 2022-09-19 |
 | [Chouchou](https://open.spotify.com/track/4FSz7bPu2Otha5yvFZk1UQ) | [Atim](https://open.spotify.com/artist/6iFLWK7YxKQc9r5WPdoyJr), [Jennifer Dias](https://open.spotify.com/artist/45qwEAGFSoIAhlRJqYZIml) | [Chouchou](https://open.spotify.com/album/2moMpJNDCjO18fma2HUBo2) | 3:03 | 2021-12-10 | 2023-09-20 |
@@ -270,7 +271,7 @@
 | [Segunda Rodada](https://open.spotify.com/track/3MUx7bmAwesSvSDl31BXHN) | [Kizomba da Boa](https://open.spotify.com/artist/5s5qErKST3QG1Lsiqg4v3i), [Anderson Mário](https://open.spotify.com/artist/1CS75XxFYNouLuB55te4YO), [Nsoki](https://open.spotify.com/artist/6HfAa52MnValWEHNMdWAlH), [Button](https://open.spotify.com/artist/0poxcWsjEiMEeHyPyQRItI), [Kletuz](https://open.spotify.com/artist/4Xq2SG5ib8kT7j0bM4ELAA), [Phedilson](https://open.spotify.com/artist/0Hl3YB8bwQ8anDJkvXo6he) | [Segunda Rodada](https://open.spotify.com/album/6Wetr2P1qCn3oCvDU5zIe9) | 4:15 | 2023-03-17 | 2023-03-25 |
 | [Sempre Sonhei \(feat\. Yasmine\)](https://open.spotify.com/track/64Q24Ag632aSnXA2MnoRet) | [Rui Orlando](https://open.spotify.com/artist/1g00QP1vSwdi3mnn0PmzPa), [Yasmine](https://open.spotify.com/artist/1E1m4bwOYgSMH4Q8o7DJYr) | [Sempre Sonhei \(feat\. Yasmine\)](https://open.spotify.com/album/28CIGKGLowlhWdHy7G8IHO) | 3:59 | 2021-12-10 |  |
 | [Sentimento](https://open.spotify.com/track/17oWF2oYVYeowqlELXrXMy) | [Kizomba da Boa](https://open.spotify.com/artist/5s5qErKST3QG1Lsiqg4v3i), [Filho do Zua](https://open.spotify.com/artist/08HE59FnzdSLSYWuesN8hm) | [Sentimento](https://open.spotify.com/album/29sQkBIBvtYMcrvbVLlNZ3) | 3:12 | 2021-12-10 | 2023-11-18 |
-| [Ser Feliz](https://open.spotify.com/track/4tb70HZ8PwboF7aGGVBl1I) | [Liriany](https://open.spotify.com/artist/7gsMzXapXdZ5XzVPJp4rBd), [Landrick](https://open.spotify.com/artist/0K7M2QEMiMcok8igQeSsRU) | [Ser Feliz](https://open.spotify.com/album/7uTQAEBWfbze3iYIfOqmdR) | 3:25 | 2021-12-10 |  |
+| [Ser Feliz](https://open.spotify.com/track/4tb70HZ8PwboF7aGGVBl1I) | [Liriany](https://open.spotify.com/artist/7gsMzXapXdZ5XzVPJp4rBd), [Landrick](https://open.spotify.com/artist/0K7M2QEMiMcok8igQeSsRU) | [Ser Feliz](https://open.spotify.com/album/7uTQAEBWfbze3iYIfOqmdR) | 3:25 | 2021-12-10 | 2023-12-03 |
 | [Sexual Healing](https://open.spotify.com/track/2Rz27kKIB8LlbjzvyM1utV) | [Kaysha](https://open.spotify.com/artist/2DBaDAcrh5sf17yR1qbnsy) | [Sexual Healing](https://open.spotify.com/album/24RsjQJf1PscWiaj7dEOFy) | 4:57 | 2022-03-25 | 2022-04-21 |
 | [She's Dangerous \- Lil Maro Kizomba Remix](https://open.spotify.com/track/24mv6gkruGz3VMQlrbq2XE) | [Kaysha](https://open.spotify.com/artist/2DBaDAcrh5sf17yR1qbnsy), [Nelson Freitas](https://open.spotify.com/artist/6yWyIM8jA96kl3jlCXpabB), [Big Nelo](https://open.spotify.com/artist/6fndolyUimclrN96l2IWdc), [Lil Maro](https://open.spotify.com/artist/5JKD7sTK9ipdYfb4wEXA9g) | [She's Dangerous \(Lil Maro Remixes\)](https://open.spotify.com/album/6Dm6VDa4OKtBYJ4SXlewTJ) | 4:16 | 2022-01-10 | 2022-01-13 |
 | [Si Ki Min Krè](https://open.spotify.com/track/5XG59w0v2cDzu4Al2xcUMl) | [June Freedom](https://open.spotify.com/artist/7dYb5EKtRnRaWM0GQ12cKC), [Djodje](https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo) | [Si Ki Min Krè](https://open.spotify.com/album/0VW7FjphPCaebGCrlTlpzW) | 2:39 | 2022-02-18 |  |

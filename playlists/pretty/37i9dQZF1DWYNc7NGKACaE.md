@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYNc7NGKACaE.md) - [plain]
 
 > essa é só pra quem vive no 2.0x
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,061 likes - 65 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,109 likes - 65 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYNc7NGKACaE.md) - [plain]
 | 18 | [SIMPLESMENTE ELA, NÃO CONSIGO VIVER LONGE](https://open.spotify.com/track/4vZ0z3T7VLK0cAmytlaL7j) | [Funk SÉRIE GOLD](https://open.spotify.com/artist/1IaKgxqkPHO3AZxeKi1n5n) | [SIMPLESMENTE ELA, NÃO CONSIGO VIVER LONGE](https://open.spotify.com/album/3usDkrN06OZGhSRPB3bwnG) | 2:33 |
 | 19 | [Subzero \(Speed Plug\)](https://open.spotify.com/track/7nRkeXa1Kn63CV1WmVxttB) | [Caeljugz](https://open.spotify.com/artist/70QYj3IRKyvbr7xZcpzkZw) | [Subzero \(Speed Plug\)](https://open.spotify.com/album/44mblZRV7Zfkd4NJXO58dI) | 2:05 |
 | 20 | [Put0 & Cheiroso \(Speed Plug\)](https://open.spotify.com/track/4A8qiMlkmXJDo9D8G3coYr) | [Jvcriaa](https://open.spotify.com/artist/0vu0cYjf77leIXg2xaj6uG), [éoTGL](https://open.spotify.com/artist/5h32OOrRYLBSUfE7COLjfx), [ProdbySnow](https://open.spotify.com/artist/2u1iQQ4ZbVvPEwhpWVExUe), [Denzelthreal](https://open.spotify.com/artist/1CZmKC8jyRLzsDmYuCw850), [Oficialtalim](https://open.spotify.com/artist/48NAhXDturv64ONhQZpkAM) | [Put0 & Cheiroso \(Speed Plug\)](https://open.spotify.com/album/2ybG6TaxLTpdxlD3iKSE1D) | 2:39 |
-| 21 | [Plug! \(Speed Plug\)](https://open.spotify.com/track/3LZIqLS8BfUZp9T1k39IZb) | [Muzzi](https://open.spotify.com/artist/6J9B0QuNm4QTuyjsHveigy) | [Plug! \(Speed Plug\)](https://open.spotify.com/album/16zg9fzXtFEqb0q0367yxd) | 1:42 |
-| 22 | [Karma \- Speed](https://open.spotify.com/track/1cX47FI8Fasq3pY6p6kXV4) | [Gapes](https://open.spotify.com/artist/3ADff4whbAS71o4L1B3vYu), [fallkee](https://open.spotify.com/artist/6Hchz4vXMjAxlkpjiwQC4o), [Dougb](https://open.spotify.com/artist/74FaA4BR2SefBgRTPa8jJh) | [Karma](https://open.spotify.com/album/28Ie3Vq0wTIfjnrfrHsFS6) | 2:00 |
+| 21 | [Karma \- Speed](https://open.spotify.com/track/1cX47FI8Fasq3pY6p6kXV4) | [Gapes](https://open.spotify.com/artist/3ADff4whbAS71o4L1B3vYu), [fallkee](https://open.spotify.com/artist/6Hchz4vXMjAxlkpjiwQC4o), [Dougb](https://open.spotify.com/artist/74FaA4BR2SefBgRTPa8jJh) | [Karma](https://open.spotify.com/album/28Ie3Vq0wTIfjnrfrHsFS6) | 2:00 |
+| 22 | [Plug! \(Speed Plug\)](https://open.spotify.com/track/3LZIqLS8BfUZp9T1k39IZb) | [Muzzi](https://open.spotify.com/artist/6J9B0QuNm4QTuyjsHveigy) | [Plug! \(Speed Plug\)](https://open.spotify.com/album/16zg9fzXtFEqb0q0367yxd) | 1:42 |
 | 23 | [Bora Bill \( Speed Up \)](https://open.spotify.com/track/0AYpmDJgiWUZeFyNRQNYOL) | [neri´s](https://open.spotify.com/artist/4xZLCFL4431VfYQAP7cffQ) | [Bora Bill \( Speed Up \)](https://open.spotify.com/album/4UwzWJtLo9CqnFkgxQJgpn) | 1:44 |
 | 24 | [Ela Tá Querendo \- Remix](https://open.spotify.com/track/3AB3etyCs8orfDXKB7OVez) | [Gabb MC](https://open.spotify.com/artist/5qyPbwqvOEp7FvR1EeTQQ2), [Gaab](https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut), [2L Motta](https://open.spotify.com/artist/6vlGnGiNA4XMXY6aPhBowm), [DJ MK De Niterói](https://open.spotify.com/artist/4QBJyByBb8tDUFD9XRi5Rs), [Love Funk](https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC) | [Ela Tá Querendo \(Remix\)](https://open.spotify.com/album/205zkN1K6TB8WPFwXxVq3O) | 1:15 |
 | 25 | [Tranquilão Speed](https://open.spotify.com/track/6WpanZKjU4JEqJlG2D9mrM) | [ogtreasure](https://open.spotify.com/artist/3SyOg7lVYi7SEIVgvaVKe0), [L30](https://open.spotify.com/artist/1BxVqY0zR8ymT4bLg6abA3), [Real Gutti](https://open.spotify.com/artist/7agWCX0Q1FjITmRtM89zAI) | [Tranquilão Speed](https://open.spotify.com/album/34fvOgLGTaHfwlvwOciAMn) | 2:19 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYNc7NGKACaE.md) - [plain]
 | 64 | [Peça \- Speed](https://open.spotify.com/track/5IpBsqWPLu7PEeT2nwc8gV) | [soiff](https://open.spotify.com/artist/1WDWki77tJepD82NpS4xIk), [uhENZX](https://open.spotify.com/artist/52fAfxMuT0da9zgXHlixmz) | [Peça](https://open.spotify.com/album/7E3g8qsgfOfCeLkipm0PSt) | 2:15 |
 | 65 | [Tipo Naldo \- Speed Up](https://open.spotify.com/track/2qtBBIFce6oCciYrb84Mgh) | [tiaresz](https://open.spotify.com/artist/4v6LpdfGfBSAdeVdBgUasP), [DJ Wkilla](https://open.spotify.com/artist/5nHUlAMjYkOtzSvqwzcdUW) | [Tipo Naldo](https://open.spotify.com/album/02ZI31XkyjAi7w9zANAUMQ) | 2:18 |
 
-Snapshot ID: `MCw0ZDYwNmI3ZjRiYzFjMjNlMjFiYzAxYjcxMjA2N2Y3ZjIzOWI1ODM4`
+Snapshot ID: `MCxlYjc1MTk1MWZhMTFjYmU1NmM2MTcwMjRjMWRjM2EyZGRiMzQ3MWUw`

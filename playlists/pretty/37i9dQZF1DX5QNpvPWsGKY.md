@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5QNpvPWsGKY.md) - [plain]
 
 > Un buffet de ritmos sabrositos para satisfacer tu paladar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,234 likes - 125 songs - 7 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,330 likes - 125 songs - 7 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,8 +81,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5QNpvPWsGKY.md) - [plain]
 | 71 | [Cumbia Del Chinito](https://open.spotify.com/track/761FhLirwe3hFnJKgHUN8y) | [Super Grupo Colombia](https://open.spotify.com/artist/4VUjAlb1nGT2FW5n4CPxwi) | [Super Grupo Colombia](https://open.spotify.com/album/16b1llxcevVntDsf1HLbtK) | 4:12 |
 | 72 | [Yo Quiero Quebrarte](https://open.spotify.com/track/0Byi0pNpSr0FKDQ8HtMwKY) | [Los Felinos](https://open.spotify.com/artist/6RVdNANISrVp76M0Wjy4hX) | [Soy El Aventurero](https://open.spotify.com/album/7rVVL3koiagqhD3yMYpAQy) | 3:06 |
 | 73 | [Nunca Pense Llorar](https://open.spotify.com/track/3oXF0sRycbyJUDRd5BqTUw) | [Rossy War y Su Banda Kaliente](https://open.spotify.com/artist/04laTTTa6l3hNn8a1EG7UQ) | [Como un Dulce Poema, Vol\. 3](https://open.spotify.com/album/0XdMiGlG64yiq2Np190XbY) | 4:09 |
-| 74 | [El Zancudito Loco](https://open.spotify.com/track/0B6dN8EPnrZmM8OJGwlcRj) | [Los Plebeyos](https://open.spotify.com/artist/3VZbsevxBrgXLWjJ2Q8O7a) | [16 Exitos Super Tropicales](https://open.spotify.com/album/3f4RJ24ZEtH5lgMy9hrTb4) | 2:04 |
-| 75 | [En realidad](https://open.spotify.com/track/3I4kCERqFLTFNVwl5YCKo9) | [Abracadabra](https://open.spotify.com/artist/1F10Dyz1RuRFkgHQ5Es3uZ) | [Encuentro Romántico](https://open.spotify.com/album/4bujC3sYUCIghBbAX9egyk) | 3:43 |
+| 74 | [En realidad](https://open.spotify.com/track/3I4kCERqFLTFNVwl5YCKo9) | [Abracadabra](https://open.spotify.com/artist/1F10Dyz1RuRFkgHQ5Es3uZ) | [Encuentro Romántico](https://open.spotify.com/album/4bujC3sYUCIghBbAX9egyk) | 3:43 |
+| 75 | [El Zancudito Loco](https://open.spotify.com/track/0B6dN8EPnrZmM8OJGwlcRj) | [Los Plebeyos](https://open.spotify.com/artist/3VZbsevxBrgXLWjJ2Q8O7a) | [16 Exitos Super Tropicales](https://open.spotify.com/album/3f4RJ24ZEtH5lgMy9hrTb4) | 2:04 |
 | 76 | [Dulcemente Enamorada](https://open.spotify.com/track/2hWTlxqGczIVUC3tl6LaMJ) | [Los Mier](https://open.spotify.com/artist/2B8mbONjmLnXk4wpqF5UPQ) | [Viva el Amor](https://open.spotify.com/album/6agj4FL2hImOYAV3WAGXBN) | 2:39 |
 | 77 | [Sabes A Chocolate](https://open.spotify.com/track/1JxRbEr1CKM16m4ovHg2hz) | [Kumbia Kings](https://open.spotify.com/artist/3jO5UGHrEzfd5YIamfs7Ir), [A.B\. Quintanilla III](https://open.spotify.com/artist/5MP9bH9aUryiKQeUvABLIU), [Pee Wee Gonzalez](https://open.spotify.com/artist/7mj8ZMCC4iGR0OQsUy6cvB) | [THE BEST OF](https://open.spotify.com/album/4gqN1u9QLecW2piklO69l0) | 3:47 |
 | 78 | [Cariñito Sin MI](https://open.spotify.com/track/7zSluZ0cnnNomeIGYSThMm) | [Pastor Lopez](https://open.spotify.com/artist/6Ud6RjvNXVe39mKiGUb7zE) | [Sus Más Grandes Éxitos Volume 2](https://open.spotify.com/album/60LUbwOhyXfoMZDOV1fXQv) | 3:55 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5QNpvPWsGKY.md) - [plain]
 | 124 | [El Muñeco](https://open.spotify.com/track/19G8XMtHCX6y6eYTLDbaU3) | [Liberación](https://open.spotify.com/artist/5xwugJ4uudppmOCCZateE5) | [Pensando En Ella](https://open.spotify.com/album/7chUnyKUwq88xEWfyGEV7a) | 2:42 |
 | 125 | [Ojitos Mentirosos](https://open.spotify.com/track/3ZPxSh4Tif71ilz50LOrAT) | [Los Dinamiteros de Colombia](https://open.spotify.com/artist/0OJXBz0TBaRCbyDpx62nZW) | [20 Exitos: Lo Mejor de la Cumbia](https://open.spotify.com/album/6J9GMOkFYIg8wPPmsiirSt) | 3:37 |
 
-Snapshot ID: `MCxmMGRmNWE1ZjZhMTRmZGI5OTRhZmYzMzRkOGE3OGFiZTY5Njc4YjM5`
+Snapshot ID: `MCw4ZmVkNTdjMThkYmIyOGQ5OWZkODI2YjczNWIxNGU4ZmUwOTI0YjEx`

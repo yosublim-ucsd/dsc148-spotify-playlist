@@ -1,12 +1,12 @@
 {
   "description": "Eagles, The Byrds and all your favorite country rock",
-  "num_followers": 151233,
+  "num_followers": 151301,
   "original_name": "Country Rock Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmYjllNDlhYTExYTFmMmQ3NWI4N2Y4Y2VlM2VlNDhkNzJiNmE4OTk5",
+  "snapshot_id": "MCxlZTFjNmI0MDg1MzA4ZmY5OGE4MzQwYzU4ZDg1MmMxYzFjYWEyNDA0",
   "tracks": [
     {
       "added_at": "2020-08-05 15:52:11",
@@ -673,6 +673,26 @@
       "url": "https://open.spotify.com/track/0tcq9tNIw5JHUywymB07OA"
     },
     {
+      "added_at": "2020-08-05 15:52:11",
+      "album": {
+        "name": "Magnetic South (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2JdE6W8pxUtwNET1xI3OZ7"
+      },
+      "artists": [
+        {
+          "name": "Michael Nesmith",
+          "url": "https://open.spotify.com/artist/5Tic1bWAbmRoLrqaJ5SxU2"
+        },
+        {
+          "name": "The First National Band",
+          "url": "https://open.spotify.com/artist/08xBftDfAD7CMC51uxUuZF"
+        }
+      ],
+      "duration_ms": 159133,
+      "name": "Mama Nantucket",
+      "url": "https://open.spotify.com/track/3PqhliKIHScPgJgse7KHTq"
+    },
+    {
       "added_at": "2022-06-01 14:18:36",
       "album": {
         "name": "Austinology - Alleys of Austin",
@@ -715,26 +735,6 @@
       "duration_ms": 256106,
       "name": "Cosmic Cowboy",
       "url": "https://open.spotify.com/track/3vvceIDWVANlLWKoJUzBn6"
-    },
-    {
-      "added_at": "2020-08-05 15:52:11",
-      "album": {
-        "name": "Magnetic South (Expanded Edition)",
-        "url": "https://open.spotify.com/album/2JdE6W8pxUtwNET1xI3OZ7"
-      },
-      "artists": [
-        {
-          "name": "Michael Nesmith",
-          "url": "https://open.spotify.com/artist/5Tic1bWAbmRoLrqaJ5SxU2"
-        },
-        {
-          "name": "The First National Band",
-          "url": "https://open.spotify.com/artist/08xBftDfAD7CMC51uxUuZF"
-        }
-      ],
-      "duration_ms": 159133,
-      "name": "Mama Nantucket",
-      "url": "https://open.spotify.com/track/3PqhliKIHScPgJgse7KHTq"
     },
     {
       "added_at": "2020-08-05 15:52:11",
@@ -835,22 +835,18 @@
     {
       "added_at": "2020-08-05 15:52:11",
       "album": {
-        "name": "Best Of",
-        "url": "https://open.spotify.com/album/53g97Xwkme1StWj2GC3BkG"
+        "name": "Roger McGuinn & Band (Bonus Track Version)",
+        "url": "https://open.spotify.com/album/4B18e2isBj5VRpU4kEhDpc"
       },
       "artists": [
         {
-          "name": "Nitty Gritty Dirt Band",
-          "url": "https://open.spotify.com/artist/7y70dch6JuuuNnwlsOQvwW"
-        },
-        {
-          "name": "Nicolette Larson",
-          "url": "https://open.spotify.com/artist/0NCXrh1XOnHNp4mM0JUFJw"
+          "name": "Roger McGuinn",
+          "url": "https://open.spotify.com/artist/3ExrAwcOqgGjt9kFRwdM76"
         }
       ],
-      "duration_ms": 235106,
-      "name": "Make A Little Magic - 2001 Remaster",
-      "url": "https://open.spotify.com/track/6bYroZcslsd84iw56ft2a6"
+      "duration_ms": 183493,
+      "name": "Circle Song",
+      "url": "https://open.spotify.com/track/0A1Mc9xBNpbOV5JPWVSxzd"
     }
   ],
   "unique_name": "Country Rock Classics",

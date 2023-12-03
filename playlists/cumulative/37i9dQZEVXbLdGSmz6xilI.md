@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Vietnam.
 
-908 songs - 2 day 4 hr 46 min
+909 songs - 2 day 4 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -181,7 +181,7 @@
 | [Cool With You](https://open.spotify.com/track/02wk5BttM0QL38ERjLPQJB) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 2nd EP 'Get Up'](https://open.spotify.com/album/4N1fROq2oeyLGAlQ1C1j18) | 2:27 | 2023-07-22 | 2023-07-31 |
 | [Cream Soda](https://open.spotify.com/track/42h7yc9Rda1IOMYLACVgld) | [EXO](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) | [EXIST – The 7th Album](https://open.spotify.com/album/4qMcBYh4ZlwDeb7vfgZO61) | 3:05 | 2023-07-12 | 2023-07-18 |
 | [Creepin' \(with The Weeknd & 21 Savage\)](https://open.spotify.com/track/2dHHgzDwk4BJdRwy9uXhTO) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [HEROES & VILLAINS](https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP) | 3:41 | 2022-12-13 | 2022-12-21 |
-| [Cruel Summer](https://open.spotify.com/track/1BxfuPKGuaTgP7aM0Bbdwr) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Lover](https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq) | 2:58 | 2023-07-08 |  |
+| [Cruel Summer](https://open.spotify.com/track/1BxfuPKGuaTgP7aM0Bbdwr) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Lover](https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq) | 2:58 | 2023-07-08 | 2023-12-03 |
 | [Cry Your Heart Out](https://open.spotify.com/track/09u787BYeYIGd2mFIJ505t) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [30](https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa) | 4:15 | 2021-11-21 | 2021-11-22 |
 | [Crystal Snow](https://open.spotify.com/track/6NbfFVZ01Ttvvqmcok8DxL) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [FACE YOURSELF](https://open.spotify.com/album/66J1OXSaS3hBZASOV3el8t) | 5:23 | 2021-12-26 | 2021-12-27 |
 | [Cupid](https://open.spotify.com/track/4dKa5ZzlGqUy3Wo0yaXKNI) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [The Beginning: Cupid](https://open.spotify.com/album/1ZXXEGGhHYgOEzYUjP6bPR) | 2:54 | 2023-03-17 | 2023-04-03 |
@@ -370,7 +370,7 @@
 | [I Need U](https://open.spotify.com/track/43qX7PiMfluhGyrJrjcP9p) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [The Best Of BTS \(Korea Edition\)](https://open.spotify.com/album/6IzIrnssfyQVtYZ9RDJfkh) | 3:34 | 2022-06-11 | 2022-06-13 |
 | [I Need U \- Remix](https://open.spotify.com/track/4pzjU0AnZa6Vfphk292e9Q) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [The Most Beautiful Moment in Life: Young Forever](https://open.spotify.com/album/1k5bJ8l5oL5xxVBVHjil09) | 3:43 | 2022-03-02 | 2022-03-04 |
 | [id 072019](https://open.spotify.com/track/1o6cYDMHvKOfizi4d9Lqxr) | [W/N](https://open.spotify.com/artist/6NF9Oa4ThQWCj6mogFSrVD) | [id 072019](https://open.spotify.com/album/7ftthhLvgY5KSMOcpQsMCS) | 4:31 | 2023-08-02 |  |
-| [id T41104 \(feat\. 267\)](https://open.spotify.com/track/07tiPBhMqiKqHowwqDBtfK) | [W/N](https://open.spotify.com/artist/6NF9Oa4ThQWCj6mogFSrVD), [267](https://open.spotify.com/artist/1jLM6ulW6ldwRWX9smNYmt) | [id T41104 \(feat\. 267\)](https://open.spotify.com/album/0La3zbQBwaHHKruwY8ylfd) | 3:20 | 2023-11-02 |  |
+| [id T41104 \(feat\. 267\)](https://open.spotify.com/track/07tiPBhMqiKqHowwqDBtfK) | [W/N](https://open.spotify.com/artist/6NF9Oa4ThQWCj6mogFSrVD), [267](https://open.spotify.com/artist/1jLM6ulW6ldwRWX9smNYmt) | [id T41104 \(feat\. 267\)](https://open.spotify.com/album/0La3zbQBwaHHKruwY8ylfd) | 3:20 | 2023-11-02 | 2023-12-03 |
 | [IDOL](https://open.spotify.com/track/1e8J3XClxZbFmvIHLI8CE4) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Love Yourself 結 'Answer'](https://open.spotify.com/album/43wFM1HquliY3iwKWzPN4y) | 3:42 | 2022-06-11 | 2022-06-13 |
 | [Illusion](https://open.spotify.com/track/5uFqjHOo3Sh0bVPCKf3DdH) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Illusion](https://open.spotify.com/album/4r815m6eq8OXYzfqtk3FST) | 3:15 | 2022-06-02 | 2022-06-05 |
 | [In the morning](https://open.spotify.com/track/2QdH0rKlV3d9Y6lWzcnlBH) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [GUESS WHO](https://open.spotify.com/album/1PKhKkeCqANY5E9RGcUWUX) | 2:52 | 2021-05-03 | 2021-05-16 |
@@ -704,6 +704,7 @@
 | [Spicy](https://open.spotify.com/track/1ULdASrNy5rurl1TZfFaMP) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [MY WORLD \- The 3rd Mini Album](https://open.spotify.com/album/69xF8jTd0c4Zoo7DT3Rwrn) | 3:17 | 2023-05-09 | 2023-05-13 |
 | [Spring Day](https://open.spotify.com/track/2j1fFjWHCI9KJSwcuYAOyF) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [You Never Walk Alone](https://open.spotify.com/album/6THpewjqJ15ORBJkh5CEYb) | 4:34 | 2022-01-10 | 2022-06-14 |
 | [Standing Next to You](https://open.spotify.com/track/2KslE17cAJNHTsI2MI0jb2) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc) | [GOLDEN](https://open.spotify.com/album/5pSk3c3wVwnb2arb6ohCPU) | 3:26 | 2023-11-04 |  |
+| [Standing Next to You \(Usher Remix\)](https://open.spotify.com/track/0VPFT123HKoQ2J6ipeDcI1) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [Standing Next to You \(Usher Remix\)](https://open.spotify.com/album/3bKfV6NFUOd6KMCkDJyEbh) | 3:34 | 2023-12-02 |  |
 | [Stay](https://open.spotify.com/track/0TdWVbcerMAcvljXrl9gpG) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [BE](https://open.spotify.com/album/6nYfHQnvkvOTNHnOhDT3sr) | 3:24 | 2022-06-11 | 2022-06-13 |
 | [Stay](https://open.spotify.com/track/3ndCsZfq8OVwwkz9mmZvUz) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [BE](https://open.spotify.com/album/2qehskW9lYGWfYb0xPZkrS) | 3:24 | 2021-11-22 | 2021-11-23 |
 | [STAY \(with Justin Bieber\)](https://open.spotify.com/track/5HCyWlXZPP0y6Gqq8TgA20) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [STAY \(with Justin Bieber\)](https://open.spotify.com/album/4QLAtpLNUsHEYrcHXmMIZZ) | 2:21 | 2021-07-11 | 2021-07-25 |
@@ -884,7 +885,7 @@
 | [ZOOM](https://open.spotify.com/track/4IaxDf2FixiQXq0mW7key9) | [Jessi](https://open.spotify.com/artist/64k5e9kV9MdukXjFrR5R37) | [ZOOM](https://open.spotify.com/album/57dUGxpMd89tEkY3ZVwfKz) | 2:54 | 2022-05-08 | 2022-05-16 |
 | [À Lôi](https://open.spotify.com/track/3kxFvcB92qQg9wl52CQ7aV) | [Double2T](https://open.spotify.com/artist/1NM99SQTX93oCkzvNXWJCf), [Masew](https://open.spotify.com/artist/3nGqUwkJHiLPDECMVrX1Sq) | [À Lôi](https://open.spotify.com/album/5DUBKdrQ7CsTblmHQXh4ae) | 3:17 | 2023-07-19 | 2023-09-23 |
 | [ái](https://open.spotify.com/track/3Gr6ucPp3qJbBZ3yrGmZTt) | [tlinh](https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR) | [ái](https://open.spotify.com/album/0LM9Cm43Sug8Hfpm84qmt6) | 1:07 | 2023-08-18 | 2023-08-20 |
-| [Ánh Sao Và Bầu Trời](https://open.spotify.com/track/5iZHnufFUgATzrpGgH1K0W) | [T.R.I](https://open.spotify.com/artist/2rVYwIYNEsMxtt8j5yemHb) | [Ánh Sao Và Bầu Trời](https://open.spotify.com/album/1JLUfM3IFpFyBSyhNQWkYw) | 4:20 | 2022-05-09 | 2023-11-29 |
+| [Ánh Sao Và Bầu Trời](https://open.spotify.com/track/5iZHnufFUgATzrpGgH1K0W) | [T.R.I](https://open.spotify.com/artist/2rVYwIYNEsMxtt8j5yemHb) | [Ánh Sao Và Bầu Trời](https://open.spotify.com/album/1JLUfM3IFpFyBSyhNQWkYw) | 4:20 | 2022-05-09 |  |
 | [Âm Thầm Bên Em](https://open.spotify.com/track/1Huy9G87D6pbIveFulsH0P) | [Sơn Tùng M\-TP](https://open.spotify.com/artist/5dfZ5uSmzR7VQK0udbAVpf) | [m\-tp M\-TP](https://open.spotify.com/album/5hxm3ulOLVvjFdZNFO3n4M) | 4:53 | 2021-09-02 | 2023-07-09 |
 | [Ði Trong Mùa Hè](https://open.spotify.com/track/5ZblwtW67ZlZp8gXCcrGzn) | [Đen](https://open.spotify.com/artist/1LEtM3AleYg1xabW6CRkpi), [Trần Tiến](https://open.spotify.com/artist/5Def8ubFOWsEcchedgMnnG) | [Ði Trong Mùa Hè](https://open.spotify.com/album/7hj23eziHPiLaooEpxDhfm) | 4:31 | 2022-05-11 | 2022-05-13 |
 | [Đau Nhất Là Lặng Im](https://open.spotify.com/track/5H7UgZQk2p5x4nmeuDjmE4) | [ERIK](https://open.spotify.com/artist/1L1VfizWn4DkFt602yD80U) | [Đau Nhất Là Lặng Im](https://open.spotify.com/album/7eKrlj1Iv6T1jBSRppsFFD) | 4:46 | 2022-02-19 | 2022-05-30 |

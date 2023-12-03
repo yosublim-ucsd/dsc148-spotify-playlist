@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 
 > Todas las semanas los nuevos lanzamientos de Rock en español, con Babasónicos en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,821 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,836 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 | 15 | [DEJAME EN PAZ \(LA LA LA\)](https://open.spotify.com/track/2k9ObAyI5OcWL4ViSPaiQu) | [MIKI](https://open.spotify.com/artist/5ngVZyrFVySdOrvwhYmuss), [Melted Ice Cream](https://open.spotify.com/artist/5sM0rohMauU34KstMcmrw9) | [DÉJAME EN PAZ \(LA LA LA\)](https://open.spotify.com/album/5aBxyhBz0kBgluwA07PAXI) | 2:33 |
 | 16 | [KLF](https://open.spotify.com/track/3A7Vq0gmRNu9iiAQWSkqxK) | [VVV \[Trippin'you\]](https://open.spotify.com/artist/7tszuN9emjCCsC7kccXTFU) | [Vaciador](https://open.spotify.com/album/5enUkEXel9Mxsh9jC1QEzP) | 3:43 |
 | 17 | [Tiempo](https://open.spotify.com/track/26O60rz0MdvMaZrXnxmUx2) | [Sôber](https://open.spotify.com/artist/3Y2UMfxP15qisezhYgjTKN), [Morti](https://open.spotify.com/artist/4jhxAI0EpziXCoDYePeCVU), [Carlos Escobedo](https://open.spotify.com/artist/3LmN82uIHO6C9StywUF0CA) | [Tiempo](https://open.spotify.com/album/1v0D9N9Bxgb5elc8lMwDsW) | 4:23 |
-| 18 | [El Satélite](https://open.spotify.com/track/0XQGjs9FPMA8IITUGlWgEb) | [Triana](https://open.spotify.com/artist/5hlBb5u8K5D8yrL8jwZ7N9) | [El Satélite](https://open.spotify.com/album/371duaBiF1ehrDKUZRRhfm) | 5:29 |
+| 18 | [La Luna](https://open.spotify.com/track/0XQGjs9FPMA8IITUGlWgEb) | [Triana](https://open.spotify.com/artist/5hlBb5u8K5D8yrL8jwZ7N9) | [La Luna](https://open.spotify.com/album/371duaBiF1ehrDKUZRRhfm) | 5:29 |
 | 19 | [Madre Corazón de Átomo](https://open.spotify.com/track/3PSJCQuRCeowzPFRCVePsO) | [Chinoy](https://open.spotify.com/artist/7ah2GYpn05JkpAIk7vop8g), [Kaskivano](https://open.spotify.com/artist/0i36EQVtjFoow9nw3UgYCl) | [Madre Corazón de Átomo](https://open.spotify.com/album/5NIxNiU2TPC2bgjbJSyddE) | 3:52 |
 | 20 | [Aspen](https://open.spotify.com/track/2OQoYibM8qKDEYyoF8IJSY) | [Hermann](https://open.spotify.com/artist/4uJAIixIy1uSjLlhEcXxH6), [Mal Momento](https://open.spotify.com/artist/3e10QpiUTMOykbAe9AAkbn) | [Aspen](https://open.spotify.com/album/7o5qHB53KsS2ry3fx6V8HZ) | 3:59 |
 | 21 | [Cangrejal](https://open.spotify.com/track/4DNSjR34NzyowHIiNBpdrr) | [Bestia Bebé](https://open.spotify.com/artist/3j7kmtxJ0aptdHr9ZCnEkp) | [Vamos a Destruir](https://open.spotify.com/album/0D04Gwef4aeN5bEGzsvenm) | 4:10 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 | 49 | [Nostálgicos](https://open.spotify.com/track/61BPHYRW0Lq3oY27ZZh547) | [Sugarcrush](https://open.spotify.com/artist/42qSwWCF0ZJBVKtpuG1XlJ) | [Nostálgicos](https://open.spotify.com/album/4b33uhkkq4t4cNZXHjWoNd) | 1:46 |
 | 50 | [Hoy](https://open.spotify.com/track/3N6ixwY9zWebcKwhNMmpHH) | [Planta Noriega](https://open.spotify.com/artist/4g4tiZ32HPHbcNgd1qJIyp) | [Hoy](https://open.spotify.com/album/0mQyeSfBgqI3r8CVQcYFI9) | 3:27 |
 
-Snapshot ID: `MCwzZWVmZWQ1NDhkYWI2MDAxYjBjNDUwYmY0OTc5NjhlYzU1NTk5ZTcw`
+Snapshot ID: `MCxjOWEzMDY3MTA2NzQ3NTc3OTM0MzFmNzcyNTdjYjdmY2UzN2QwOTM5`

@@ -1,12 +1,12 @@
 {
   "description": "The soundtrack to the internet. Cover: Lil Mabu",
-  "num_followers": 1393158,
+  "num_followers": 1393003,
   "original_name": "Internet People",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhY2MyMmZmYmJjNWI0OTRkMWFkMmFmODk2ZmU2NWYxZjQyM2FmYTIw",
+  "snapshot_id": "MCwyMWI0MDY5NWMzMGExYzAxM2U2MzRkYTg4YjQ4ZjM2YmE0OWJmY2Y0",
   "tracks": [
     {
       "added_at": "2023-12-01 05:00:00",
@@ -140,7 +140,7 @@
       },
       "artists": [
         {
-          "name": "FamousSally & YB",
+          "name": "Famous Sally & YB",
           "url": "https://open.spotify.com/artist/58r9bevVFGCcTpNRT5Ha85"
         }
       ],
@@ -1506,6 +1506,10 @@
         {
           "name": "Mike Dimes",
           "url": "https://open.spotify.com/artist/6rIaHuCIUu32uj2CjlEBN3"
+        },
+        {
+          "name": "Powers Pleasant",
+          "url": "https://open.spotify.com/artist/0fYw4bch7qTxBZLS3rSVMj"
         }
       ],
       "duration_ms": 112000,

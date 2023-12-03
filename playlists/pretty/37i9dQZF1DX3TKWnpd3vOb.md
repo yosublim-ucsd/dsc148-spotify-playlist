@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TKWnpd3vOb.md) - [plain]
 
 > Encuentra un mix de clásicos y nuevos talentos\. Foto: Kuervos del Sur
 
-[Spotify](https://open.spotify.com/user/spotify) - 199,491 likes - 90 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 199,500 likes - 90 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,18 +66,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TKWnpd3vOb.md) - [plain]
 | 56 | [Para Estar](https://open.spotify.com/track/2VQJKuneBaDNwjBHbWn5FK) | [Oye, Elizabeth](https://open.spotify.com/artist/38qv984wcg1RA24MVl4BVP) | [A Madrugar](https://open.spotify.com/album/1Ubx3PYhvbbrXrS9SF5Cvc) | 4:32 |
 | 57 | [Dignidad](https://open.spotify.com/track/3Uz4E986pBirZXn5ye3l0J) | [La Mórbida](https://open.spotify.com/artist/6c6bxhGugdKBXAGkoup27K) | [Dignidad](https://open.spotify.com/album/6qZWeqxYDcp9WOSHWlCRkt) | 4:08 |
 | 58 | [Mis Hermanos Sueñan Despiertos](https://open.spotify.com/track/4zkPhAfJssqmudOKotu0vr) | [Plumas](https://open.spotify.com/artist/3y5Ow3rtN1WGkfFIXLIxMg) | [Mis Hermanos Sueñan Despiertos](https://open.spotify.com/album/5eSV2mQOF7eUBcyc59i4kg) | 3:24 |
-| 59 | [Viajar \- Space Mix](https://open.spotify.com/track/0sGmeT8k85FWLkIREqdwda) | [Lucybell](https://open.spotify.com/artist/3rqpBcetrJVphNTRHDv9ht), [Cote Foncea](https://open.spotify.com/artist/17Et5bvvC8HQhiXU27wKQn) | [Viajar](https://open.spotify.com/album/7bnqsPENupVaK25z382mq9) | 4:52 |
-| 60 | [Vueltas y Vueltas](https://open.spotify.com/track/7v6l4Wa1SE7L26HQSj06ty) | [Noiz](https://open.spotify.com/artist/5NpCexmiedqpm9vOpdf5jW) | [Vueltas y Vueltas](https://open.spotify.com/album/6j9IY5ciee6ujWB671w2vl) | 3:15 |
+| 59 | [Vueltas y Vueltas](https://open.spotify.com/track/7v6l4Wa1SE7L26HQSj06ty) | [Noiz](https://open.spotify.com/artist/5NpCexmiedqpm9vOpdf5jW) | [Vueltas y Vueltas](https://open.spotify.com/album/6j9IY5ciee6ujWB671w2vl) | 3:15 |
+| 60 | [Viajar \- Space Mix](https://open.spotify.com/track/0sGmeT8k85FWLkIREqdwda) | [Lucybell](https://open.spotify.com/artist/3rqpBcetrJVphNTRHDv9ht), [Cote Foncea](https://open.spotify.com/artist/17Et5bvvC8HQhiXU27wKQn) | [Viajar](https://open.spotify.com/album/7bnqsPENupVaK25z382mq9) | 4:52 |
 | 61 | [Tu mundo al revés](https://open.spotify.com/track/2BmAsbXWfUCLmuTSoRKvFy) | [Valija Diplomatica](https://open.spotify.com/artist/2euAtk0firHMqPFDJHLJCV) | [Tu mundo al revés](https://open.spotify.com/album/4ARJfbBo30TOBB7n1M9IUE) | 3:44 |
 | 62 | [Despertar \(Cuando Todo Quema\)](https://open.spotify.com/track/7nSP1Z0q3am5FizKDJTTOX) | [Massonico](https://open.spotify.com/artist/1ztINaqHzkQnwJJR75cKfB) | [Despertar \(Cuando Todo Quema\)](https://open.spotify.com/album/5HN0SbzXXWutMumpGzUJAk) | 3:21 |
 | 63 | [Un Día por Concepción](https://open.spotify.com/track/4VhvatqWWBgHHwqJmFx8x2) | [Billy Norton](https://open.spotify.com/artist/1UfRX7LoEjVtkiVgykLgCb) | [Un Día por Concepción](https://open.spotify.com/album/5bh1wyxjcC5CzXjKo0eaTw) | 3:03 |
 | 64 | [Diabla](https://open.spotify.com/track/4RbFoRUXx2LxWvjpSanqqa) | [Tsunamis](https://open.spotify.com/artist/2oqOl5iVYtC7mpaqUtm5pU) | [7 Mares](https://open.spotify.com/album/4im29JIy0zo9FsVD5rHvAy) | 4:18 |
 | 65 | [Volver](https://open.spotify.com/track/69IG0p2mNwmnh6EtbwrUa5) | [We Are The Grand](https://open.spotify.com/artist/4DAFJvYjVrSQfEM67zeXQT) | [Reversiones, Vol\. 1](https://open.spotify.com/album/25Fry1roXU1jvvQOsOUgof) | 5:15 |
-| 66 | [Nuestro Amor](https://open.spotify.com/track/1qV8Z8nwhEwH7Z5J0u1VCU) | [Upa!](https://open.spotify.com/artist/3SQwqIl6r35rkAXPw7cm9n) | [Nuestro Amor](https://open.spotify.com/album/2azUl3rf0aMEQNzvGTeF98) | 4:15 |
-| 67 | [Bien](https://open.spotify.com/track/0pMmpEaKdAJnu3RWxWDw6B) | [99 Payasos](https://open.spotify.com/artist/2WSHIN9bs2GkKpPCaRz23c) | [Bien](https://open.spotify.com/album/0nWFCj8PtvoSWJpmlhRrSs) | 2:57 |
-| 68 | [Surfing caracol](https://open.spotify.com/track/41xLPySJ8th6QbO0aEKrBd) | [Confío en tus amigos](https://open.spotify.com/artist/6eeMg2f1msRTEqwKKC1KZ4) | [Rápida Comida](https://open.spotify.com/album/3wljTa4XPg1EYHfRvAOeid) | 2:04 |
+| 66 | [Bien](https://open.spotify.com/track/0pMmpEaKdAJnu3RWxWDw6B) | [99 Payasos](https://open.spotify.com/artist/2WSHIN9bs2GkKpPCaRz23c) | [Bien](https://open.spotify.com/album/0nWFCj8PtvoSWJpmlhRrSs) | 2:57 |
+| 67 | [Nuestro Amor](https://open.spotify.com/track/1qV8Z8nwhEwH7Z5J0u1VCU) | [Upa!](https://open.spotify.com/artist/3SQwqIl6r35rkAXPw7cm9n) | [Nuestro Amor](https://open.spotify.com/album/2azUl3rf0aMEQNzvGTeF98) | 4:15 |
+| 68 | [Sangre y Revolución](https://open.spotify.com/track/7F9YkBBy9UbisYPKEYu9bt) | [Kutral Kai Paz](https://open.spotify.com/artist/3vszuJ8MGiTnqljThfpVJB) | [Sangre y Revolución](https://open.spotify.com/album/5DCuvjIbb3I8CpBNE1UoFN) | 3:48 |
 | 69 | [La Pelea](https://open.spotify.com/track/2sevFQjf4CLlhosI9knEhs) | [Super Especial](https://open.spotify.com/artist/7EiWbSp3dVXfPJMfIFnbJ1) | [La Pelea](https://open.spotify.com/album/3kbW39Z4MLMUv8TQogzwD3) | 3:25 |
-| 70 | [Sangre y Revolución](https://open.spotify.com/track/7F9YkBBy9UbisYPKEYu9bt) | [Kutral Kai Paz](https://open.spotify.com/artist/3vszuJ8MGiTnqljThfpVJB) | [Sangre y Revolución](https://open.spotify.com/album/5DCuvjIbb3I8CpBNE1UoFN) | 3:48 |
+| 70 | [Surfing caracol](https://open.spotify.com/track/41xLPySJ8th6QbO0aEKrBd) | [Confío en tus amigos](https://open.spotify.com/artist/6eeMg2f1msRTEqwKKC1KZ4) | [Rápida Comida](https://open.spotify.com/album/3wljTa4XPg1EYHfRvAOeid) | 2:04 |
 | 71 | [Yod](https://open.spotify.com/track/6XTZFGXabuOw71RMOgtao3) | [Hausi Kuta](https://open.spotify.com/artist/5iVb4hi1IDpP6NKIKdEwpF) | [Yod](https://open.spotify.com/album/2HhVFAfXWf6eZeOU8R75jg) | 3:41 |
 | 72 | [Hay Fuego en Los Andes](https://open.spotify.com/track/7s18XNjnKPqcGSzKThyChu) | [Los Desaparecidos](https://open.spotify.com/artist/1NrUmEDC0p9B2SxImC7i2N) | [Hay Fuego en Los Andes](https://open.spotify.com/album/0fb6c3y3Mg7HTk0OJYl6Ym) | 4:06 |
 | 73 | [Soldados](https://open.spotify.com/track/3TCj56rGlJRCmX7L8Kgwgk) | [Kapitol](https://open.spotify.com/artist/5FuX1pfwNKtfSvimMmLSbt) | [Santos](https://open.spotify.com/album/3h8muVhOvlsw6Olfn5XrHG) | 3:45 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TKWnpd3vOb.md) - [plain]
 | 89 | [La vida mi vida se vive así \- Radio Edit](https://open.spotify.com/track/4KiadmrJu0p0LYGPshd7kB) | [Valija Diplomatica](https://open.spotify.com/artist/2euAtk0firHMqPFDJHLJCV) | [La vida mi vida se vive así \(Radio Edit\)](https://open.spotify.com/album/6d8HeRuWTKAoDDWxzeoRGS) | 2:54 |
 | 90 | [Somos Más](https://open.spotify.com/track/5JmVYyk9IQIsYqlNm6XpQQ) | [Massonico](https://open.spotify.com/artist/1ztINaqHzkQnwJJR75cKfB) | [Somos Más](https://open.spotify.com/album/5SdKXgGkKl6BdDYyzhOPKa) | 2:55 |
 
-Snapshot ID: `MCwyMzI3NmY3MDIwOWM4ZDE4NTMwZGJlOGRjZDQ0ZDZjNjQ1OTNjZWQ4`
+Snapshot ID: `MCw3MGRlNDUxY2Y5YTAxNTA4OGRiYjE1OGYxZGUzNTRjNTVlMDUzZjM2`

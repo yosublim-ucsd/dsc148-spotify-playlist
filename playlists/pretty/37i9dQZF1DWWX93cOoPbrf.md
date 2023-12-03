@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWX93cOoPbrf.md) - [plain]
 
 > Lo más fresco de la cosecha 2023\. Enigma Norteño en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 796,560 likes - 75 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 796,799 likes - 75 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWX93cOoPbrf.md) - [plain]
 | 74 | [La Tierra del Corrido \- Spotify Singles](https://open.spotify.com/track/1oZqJaE23GEn4SOFQcnTPB) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK), [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [La Tierra del Corrido \- Spotify Singles](https://open.spotify.com/album/0ZbkzVai25cBAjmy7uoUkW) | 3:31 |
 | 75 | [Chalineras](https://open.spotify.com/track/6y9kwY2Z6zOUmVymmj9P06) | [Régulo Caro](https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W), [Beto Sierra](https://open.spotify.com/artist/6kPf6aO5cAHU2RJUDN1UUy) | [Chalineras](https://open.spotify.com/album/06AC0m6945Q1SLAv6sSvp2) | 3:37 |
 
-Snapshot ID: `MCxhOGRmYTZjZTRkZGM2OTM4MmJkMmFlOTRjMDhkYjNlZGUxMDEwYzc0`
+Snapshot ID: `MCwxMTAwNDVkNGYzOTEwYjJiNzhmZDc2NTQ3Zjc2YWM2MzQ0YjEyZTRi`

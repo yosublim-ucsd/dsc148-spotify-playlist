@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWJOmJ7nRx0C.md) - [plain]
 
 > Instructions: volume up\. Cover: Palaye Royale
 
-[Spotify](https://open.spotify.com/user/spotify) - 934,892 likes - 110 songs - 6 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 934,937 likes - 110 songs - 6 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWJOmJ7nRx0C.md) - [plain]
 | 20 | [Cobra \(Rock Remix\) \[feat\. Spiritbox\]](https://open.spotify.com/track/6HNWDjbome8TQp0rYRZTQS) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Cobra \(Rock Remix\) \[feat\. Spiritbox\]](https://open.spotify.com/album/30DntygbtMJmhmSFr8ZY5Y) | 3:06 |
 | 21 | [Nightmare](https://open.spotify.com/track/5c3fIHmLHmL4iaqUuqBPHo) | [From Ashes to New](https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX) | [Blackout](https://open.spotify.com/album/2JvaxDiBaKADQ3Fb9SvEZF) | 3:07 |
 | 22 | [Artificial](https://open.spotify.com/track/2EU5LeESSJgbYKCc5l4rms) | [Daughtry](https://open.spotify.com/artist/5P5FTygHyx2G57oszR3Wot) | [Artificial](https://open.spotify.com/album/3dYWUL9aUiAtc9OKGotTfV) | 3:39 |
-| 23 | [Leave a Light On](https://open.spotify.com/track/0b6fNjbiW4uF0W01GAfRVg) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Ego Trip](https://open.spotify.com/album/5OSVAtytFqdJwIJpD3gGEJ) | 3:07 |
+| 23 | [Leave a Light On \(Talk Away The Dark\)](https://open.spotify.com/track/0b6fNjbiW4uF0W01GAfRVg) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Ego Trip](https://open.spotify.com/album/5OSVAtytFqdJwIJpD3gGEJ) | 3:07 |
 | 24 | [Already Over](https://open.spotify.com/track/4Akq61SpQYUE8IuE7hHNH8) | [Mike Shinoda](https://open.spotify.com/artist/6xBZgSMsnKVmaAxzWEwMSD) | [Already Over](https://open.spotify.com/album/3c2fbU1EH35iSMWlTRqLih) | 2:40 |
 | 25 | [Pull Me Through](https://open.spotify.com/track/4EmnzJLkWYI9JyYTWtnOVT) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Back To The Water Below](https://open.spotify.com/album/4B9IAqwQaPYHQi7kJcpPFQ) | 3:08 |
 | 26 | [Nowhere To Go But Everywhere](https://open.spotify.com/track/0XT3u4dsfUh4A9EhH2FzoO) | [Bush](https://open.spotify.com/artist/78SHxLdtysAXgywQ4vE0Oa) | [Nowhere To Go But Everywhere](https://open.spotify.com/album/2Ptp2BvVc7YsdSL3YXBWNu) | 4:03 |
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWJOmJ7nRx0C.md) - [plain]
 | 109 | [Agua](https://open.spotify.com/track/1FVPHZcQQGiEO7XUmqsxCh) | [Porno for Pyros](https://open.spotify.com/artist/58etTNn7xmsQZhjnfjpAXL) | [Agua](https://open.spotify.com/album/36WjrK0Tv7WhAX0BZim8sG) | 3:49 |
 | 110 | [Dynamite \- 2023 Version](https://open.spotify.com/track/2ldT3qdqwNsnKAji6AarfD) | [Any Given Sin](https://open.spotify.com/artist/1376cQHGVXyY9lSz0Wf900) | [Dynamite \(2023 Version\)](https://open.spotify.com/album/4pY0MgV6z1PBAX4e8YYK2L) | 3:18 |
 
-Snapshot ID: `MCwwMjY1NDkyYmNjYjUyZjAwYzNlOGUwNjYyYzExYmU0NTg2NzAyOTI1`
+Snapshot ID: `MCxhZGU4ZDdjMmI2MDEyNmJmYWIyODUyNGVmNDJhNzhhM2QwNzgwZmM0`

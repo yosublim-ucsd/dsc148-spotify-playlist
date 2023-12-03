@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 
 > The best new rock tracks every week\. Cover: Normandie
 
-[Spotify](https://open.spotify.com/user/spotify) - 436,583 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 436,745 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 | 49 | [River](https://open.spotify.com/track/6QJvhRV3W7qtqGlhPsLa92) | [Monomers](https://open.spotify.com/artist/0MYxZLFZQRGMYEtN1tntq6) | [River](https://open.spotify.com/album/4ufMbjpp7FH4RQhHItsD8s) | 2:35 |
 | 50 | [\*snow in berlin\*](https://open.spotify.com/track/6MgDPVjjEloarAofqPE4we) | [LØLØ](https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0) | [\*snow in berlin\*](https://open.spotify.com/album/7K3Ig78OIzZBNlvFdtzAfk) | 2:39 |
 
-Snapshot ID: `MCw2OTY0MDUxMjYyYmU0Zjg4YjU5MjI3ZDNlZjY3NjU2YWRjNjJiYTZj`
+Snapshot ID: `MCw0ZjVkZTUyNzg0YTdmZjUxNTg1YTk0OWFlYjI2YmVlZjQ5Y2VlZTM2`

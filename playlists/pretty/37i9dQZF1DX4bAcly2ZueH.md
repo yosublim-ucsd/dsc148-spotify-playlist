@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bAcly2ZueH.md) - [plain]
 
 > 例えば、部屋で猫と昼寝をするように、ゆったりとしたエレクトロチルで小休憩しませんか？？
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,026 likes - 100 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,039 likes - 100 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,7 +78,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bAcly2ZueH.md) - [plain]
 | 68 | [Catch Me](https://open.spotify.com/track/5lC6ryISkGNFPR2PMMdiSV) | [Laxcity](https://open.spotify.com/artist/4YUBqnGDhH4JphZIhi9cdB), [Sherry W](https://open.spotify.com/artist/1VRYoddmAxzr1h41tzCwms) | [Catharsis](https://open.spotify.com/album/6RqEBspNZboimm13lOf5Hj) | 3:51 |
 | 69 | [Emi](https://open.spotify.com/track/13kpVy1mmtoxyGs7TSQS1F) | [Daigo Hanada](https://open.spotify.com/artist/7kxdoQTibsQW5pOim1p2i3) | [Emi](https://open.spotify.com/album/5oVfx9FpogQzFa3UKJsMMM) | 2:29 |
 | 70 | [Thank You \(feat\. Jozzy\)](https://open.spotify.com/track/5xN7LpsBhJb277t1lsfpLR) | [Netsky](https://open.spotify.com/artist/5TgQ66WuWkoQ2xYxaSTnVP), [Jozzy](https://open.spotify.com/artist/6Ja6zFB5d7XRihhfMo6KzY) | [Abbot Kinney](https://open.spotify.com/album/3H1ZzSXNWaIqiCpgHajR8F) | 3:11 |
-| 71 | [GOOODBYE FOREVER](https://open.spotify.com/track/757t86dILxUPEpgtaEppFM) | [sakehands](https://open.spotify.com/artist/1GNuumO9mu72hz4nwjEa9D), [LO](https://open.spotify.com/artist/3I2k3orxF9AxTV9T4ZKBYz) | [GOOODBYE FOREVER](https://open.spotify.com/album/1j9xpqOFvJ68usu7Yjjblx) | 2:16 |
+| 71 | [GOOODBYE FOREVER](https://open.spotify.com/track/757t86dILxUPEpgtaEppFM) | [sakehands](https://open.spotify.com/artist/1GNuumO9mu72hz4nwjEa9D), [Lo](https://open.spotify.com/artist/4O02rYoPWNEnz2B8zWvZ5y) | [GOOODBYE FOREVER](https://open.spotify.com/album/1j9xpqOFvJ68usu7Yjjblx) | 2:16 |
 | 72 | [Love](https://open.spotify.com/track/3XeT86JyIocazYBBuKAnN5) | [Kastorbeats](https://open.spotify.com/artist/49iPLmqT2MJYoLqR1xzcMC) | [Love](https://open.spotify.com/album/4JqlARz1ulnW4QkaMEhuXe) | 2:18 |
 | 73 | [ugotmyheart](https://open.spotify.com/track/3VbVcvK33AjjIC4iTvK0qK) | [Nezumi Coo](https://open.spotify.com/artist/485gYZbLuEOqVA4QqYsXjs), [Miyna Usui](https://open.spotify.com/artist/1TUVadr4tlnrjcvN4SSrqk) | [Nezumi Coo](https://open.spotify.com/album/1aJd14wjwAinjWL1tUMVSH) | 3:15 |
 | 74 | [No Love](https://open.spotify.com/track/4ncuzXLHYIh6KSW4UrEH0Y) | [92elm](https://open.spotify.com/artist/5YCia3zgXxdXMKePBNMkJk) | [No Love](https://open.spotify.com/album/1iF700mTP95gGLjDKnY9oR) | 2:57 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bAcly2ZueH.md) - [plain]
 | 99 | [Yura Yura](https://open.spotify.com/track/5clAgVJ2jUqP9diNgNuV82) | [paniyolo](https://open.spotify.com/artist/3HXP7bQnSqzXn76CRDRDnr) | [Yura Yura](https://open.spotify.com/album/4I6LEZPwd2lRIsbRgfbOBd) | 2:18 |
 | 100 | [Holding On](https://open.spotify.com/track/5WhLz63p2yzbpTROq87AT0) | [LAKEY INSPIRED](https://open.spotify.com/artist/3zDGjdtoxUiH7YcTWOdtMd) | [Holding On](https://open.spotify.com/album/1hVENLbXnEHqjREdfjurS7) | 2:26 |
 
-Snapshot ID: `MCw4ZTc1MThjOGQ1ZGMwZDgzOWRmYTNhNWFmMGRhYWM4MjFhOTE1YjVh`
+Snapshot ID: `MCw5YTkyN2YyN2E4YzcwZDRjNWRmMTY2OGQyMGZiZjQ0MWMzMTIxZDc2`

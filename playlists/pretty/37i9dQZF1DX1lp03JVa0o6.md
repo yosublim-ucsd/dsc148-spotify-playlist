@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lp03JVa0o6.md) - [plain]
 
 > Today's biggest Dance hits! Cover: Kaytranada
 
-[Spotify](https://open.spotify.com/user/spotify) - 411,396 likes - 95 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 411,439 likes - 95 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lp03JVa0o6.md) - [plain]
 | 76 | [On & On](https://open.spotify.com/track/1xgRUkB6OZH70aFtTGkk9n) | [Tom Santa](https://open.spotify.com/artist/1dTEPvUhxpFzL7UMKHWFfZ) | [On & On](https://open.spotify.com/album/02IhYgiRbwckRrXTKYrRPV) | 2:45 |
 | 77 | [Other Boys](https://open.spotify.com/track/5WZlorRUxgryaweu7kqeHd) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE) | [Other Boys](https://open.spotify.com/album/3eb9d46lBCh5p1XBn66jBQ) | 2:17 |
 | 78 | [Bring It Back \(Spencer Ramsay Remix\)](https://open.spotify.com/track/558wlAeGGjLBB1cua3OpSh) | [Sikdope](https://open.spotify.com/artist/3EXfNuPuR3OFEdlyoSutcG), [Interupt](https://open.spotify.com/artist/0OFn6uw0q674vCcjDRNP4I), [Spencer Ramsay](https://open.spotify.com/artist/1IgLSPF7mCbDA9rJmDzqji) | [Bring It Back \(Spencer Ramsay Remix\)](https://open.spotify.com/album/2JVhngo2MEV6euWD4HqLZ7) | 2:05 |
-| 79 | [Fine Day Anthem](https://open.spotify.com/track/6tifCCTIVBLC2TmTquYG7G) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Boys Noize](https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv) | [Fine Day Anthem](https://open.spotify.com/album/2mxzA7momOeBvCyKDgZRIb) | 3:13 |
+| 79 | [Fine Day Anthem](https://open.spotify.com/track/6tifCCTIVBLC2TmTquYG7G) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Boys Noize](https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv), [Opus III](https://open.spotify.com/artist/1hQuWl1dueM7ChRUZRn05z) | [Fine Day Anthem](https://open.spotify.com/album/2mxzA7momOeBvCyKDgZRIb) | 3:13 |
 | 80 | [New Age Dreaming](https://open.spotify.com/track/6KxUvWRs2kDp1apoVADBXq) | [Moss](https://open.spotify.com/artist/2Jc8cCPK5iNSXVUgf79gD6), [The Boy Of Many Colors](https://open.spotify.com/artist/6TH3slGLeQpUTS5Ng01bWx) | [New Age Dreaming](https://open.spotify.com/album/046CzF0aCtKCebNqLD6zHI) | 3:39 |
 | 81 | [Jungle](https://open.spotify.com/track/0OvO2X2Q3i98dc5RcgEN3x) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Mae Stephens](https://open.spotify.com/artist/311uEW9rt5g2NmzjGEKS2E) | [Jungle](https://open.spotify.com/album/6YFH6hee6fTJjlRddtl8gN) | 2:55 |
 | 82 | [BOTH](https://open.spotify.com/track/7mobUfp1aL8A6CdugCMWft) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [BOTH](https://open.spotify.com/album/4WithBxkUVDf6Xe0KbTOkL) | 3:08 |
@@ -104,4 +104,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lp03JVa0o6.md) - [plain]
 | 94 | [TAKE IT OFF](https://open.spotify.com/track/7zp9FOU4cjFdGN1zdWTvcB) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt), [Aatig](https://open.spotify.com/artist/21OabQwzpxuFNxp7p781Ao) | [TAKE IT OFF](https://open.spotify.com/album/29p3XedLUbGNxK7aje4WPW) | 3:14 |
 | 95 | [Like It \(feat\. Reckz'Capo\)](https://open.spotify.com/track/4yWySFuYFhkVrHggrfnulp) | [Kinder](https://open.spotify.com/artist/0ufdKQBFDYKui7twp71QLm), [Reckz'Capo](https://open.spotify.com/artist/0mmIDGCcblwYtZgsNPGDlo) | [Like It \(feat\. Reckz'Capo\)](https://open.spotify.com/album/7uE7ppiL1rC4JOjfkYryay) | 3:15 |
 
-Snapshot ID: `MCxlODE4YTk5MzkyZGQyMjk4M2JiMDU2OWEzNGMwNmE5MWViNjBhZjc0`
+Snapshot ID: `MCxlNmEwNDQ2M2M2OGE0YjNiM2U5MDQ4ZmUzOGMzZGQxYjhhODJlZjM1`

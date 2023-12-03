@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0gw71wbsSV6.md) - [plain]
 
 > 忙しかった1日の終わりは、半身浴と心に沁みる音楽でゆったりリラックス。
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,763 likes - 50 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,774 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0gw71wbsSV6.md) - [plain]
 | 45 | [Butterflies \(feat\. AURORA\)](https://open.spotify.com/track/1dWUBCoztAMZcqec1CAE6z) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX), [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [Butterflies \(feat\. AURORA\)](https://open.spotify.com/album/3399XMtHgSm7F0DClLiSsU) | 2:10 |
 | 46 | [Promise](https://open.spotify.com/track/08PdFBcXzpkn1cWNgmKqhn) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Bewitched](https://open.spotify.com/album/1rpCHilZQkw84A3Y9czvMO) | 3:54 |
 | 47 | [Comedy](https://open.spotify.com/track/5SuOikwiRyPMVoIQDJUgSV) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [Comedy](https://open.spotify.com/album/41ERrwfzos93Xlf6hFBiDn) | 3:50 |
-| 48 | [colorblind](https://open.spotify.com/track/4o3XxiQ9BljY4OU38zanC0) | [Mokita](https://open.spotify.com/artist/3sKeaby6GMSJWgYueZaSjE) | [colorblind](https://open.spotify.com/album/5P0vqIQlY92T0uYUcYw0yI) | 3:13 |
-| 49 | [Sad Forever](https://open.spotify.com/track/63jCeAYGLcRL21xm0jKlgn) | [Lauren Spencer Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [Mirror \(Deluxe\)](https://open.spotify.com/album/5mm7YZkfxMlprJTOJEWfxq) | 2:55 |
-| 50 | [Doesn’t Do Me Any Good](https://open.spotify.com/track/3Rou7KR8ctza5jeqQfyer0) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT) | [Angel Face](https://open.spotify.com/album/6CczqhUdYOH4qLSDnN3zkg) | 3:52 |
+| 48 | [Take Me Home, Country Roads](https://open.spotify.com/track/7qF0FfuzBFwMe1lNHkEDxW) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Take Me Home, Country Roads](https://open.spotify.com/album/5qDjtBY8cC4bO6wytuGOuT) | 2:46 |
+| 49 | [colorblind](https://open.spotify.com/track/4o3XxiQ9BljY4OU38zanC0) | [Mokita](https://open.spotify.com/artist/3sKeaby6GMSJWgYueZaSjE) | [colorblind](https://open.spotify.com/album/5P0vqIQlY92T0uYUcYw0yI) | 3:13 |
+| 50 | [Sad Forever](https://open.spotify.com/track/63jCeAYGLcRL21xm0jKlgn) | [Lauren Spencer Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [Mirror \(Deluxe\)](https://open.spotify.com/album/5mm7YZkfxMlprJTOJEWfxq) | 2:55 |
 
-Snapshot ID: `MCxhYTQ4N2Q2OGUyYzY0MTBiODM4YmRiNDc2M2NiYzA1YTllMGQ4MmI2`
+Snapshot ID: `MCxlMmNhNWQzOWJlMzUxNTYyNTZlZGY1YzVkZGQyNTFlYzk0Yzk0MTNi`

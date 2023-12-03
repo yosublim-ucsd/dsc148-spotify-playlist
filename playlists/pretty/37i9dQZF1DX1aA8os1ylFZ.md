@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aA8os1ylFZ.md) - [plain]
 
 > get into your feels with some r&b magic
 
-[Spotify](https://open.spotify.com/user/spotify) - 240,597 likes - 100 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 240,640 likes - 100 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aA8os1ylFZ.md) - [plain]
 | 46 | [Tasty](https://open.spotify.com/track/6lSwB0f2MN7uhJT7q4dRvS) | [DaniLeigh](https://open.spotify.com/artist/0XIKGBo9PnK1ApI5tZA60d) | [Tasty](https://open.spotify.com/album/44aLFnq6Fjpb3JBPKsEpaK) | 2:30 |
 | 47 | [In My Bag](https://open.spotify.com/track/3Hz7mhkeYyAG09l90fVKQo) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [IRL](https://open.spotify.com/album/7bKq4j24ElIraQgGgitmTh) | 3:49 |
 | 48 | [Deeper](https://open.spotify.com/track/4NfGgVjYu5xqBLYAFdw7F0) | [Kiana Ledé](https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs) | [Deeper](https://open.spotify.com/album/7EYqiOzMfAuyPVtNwGHXQR) | 3:34 |
-| 49 | [FIRST PLACE](https://open.spotify.com/track/0eOyi2vAmX9ZxXhZ1aAEMy) | [Lavils](https://open.spotify.com/artist/21IzgxyClVgsRUoFtE13mX) | [FIRST PLACE](https://open.spotify.com/album/2WqRCYXLCzsxMNLM5gYuAo) | 2:01 |
-| 50 | [Look My Way](https://open.spotify.com/track/2AvdB48FWJJMKzKeWgPt1R) | [Kevin Ross](https://open.spotify.com/artist/5ae3MM8dgOn3QPHzqFDJlY) | [Look My Way](https://open.spotify.com/album/2GyWrPZ5ziSDUezZyhllEq) | 2:54 |
+| 49 | [Look My Way](https://open.spotify.com/track/2AvdB48FWJJMKzKeWgPt1R) | [Kevin Ross](https://open.spotify.com/artist/5ae3MM8dgOn3QPHzqFDJlY) | [Look My Way](https://open.spotify.com/album/2GyWrPZ5ziSDUezZyhllEq) | 2:54 |
+| 50 | [FIRST PLACE](https://open.spotify.com/track/0eOyi2vAmX9ZxXhZ1aAEMy) | [Lavils](https://open.spotify.com/artist/21IzgxyClVgsRUoFtE13mX) | [FIRST PLACE](https://open.spotify.com/album/2WqRCYXLCzsxMNLM5gYuAo) | 2:01 |
 | 51 | [Another Life](https://open.spotify.com/track/6Bv0HF6uWodg3DIDXSDQs4) | [Naomi Sharon](https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb) | [Another Life](https://open.spotify.com/album/5CiIjIsYsYSpqPCUbfLYgo) | 4:30 |
 | 52 | [Stranger](https://open.spotify.com/track/4TRcHzOWfy7EmYYdci24jv) | [RealestK](https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx) | [Stranger](https://open.spotify.com/album/5tjjkvT0Tm06eXsJjV7sms) | 2:35 |
 | 53 | [All or Nothing \(feat\. Ella Mai\)](https://open.spotify.com/track/1kCHMAf5TOU97HhuRHNyi1) | [Queen Naija](https://open.spotify.com/artist/3nViOFa3kZW8OMSNOzwr98), [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [After the Butterflies](https://open.spotify.com/album/2fyaGl2f9n6oNUVhf7XJhM) | 3:10 |
@@ -79,8 +79,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aA8os1ylFZ.md) - [plain]
 | 69 | [Find Me Again](https://open.spotify.com/track/3QXVVOPVHLMXFjFI3UQ5cB) | [1STVIRGINIA](https://open.spotify.com/artist/34igzgmICCp2wgRfgr1jKW), [SRNO](https://open.spotify.com/artist/0Kwf0zcciIFGLCKiqNcO6Q) | [Find Me Again](https://open.spotify.com/album/7GxmqeXiLac35NmgcqdAuI) | 2:47 |
 | 70 | [Online](https://open.spotify.com/track/7oPafvnkhwW6BPEmIvdzVk) | [Afroham](https://open.spotify.com/artist/1CYfML6hZtnvqIZbdcXE6E), [Djemeia](https://open.spotify.com/artist/1Sx36c12X39Dnwp3NHRgsJ) | [Online](https://open.spotify.com/album/2U4iDmJzwom2wsG7u0bN0v) | 2:45 |
 | 71 | [Out of Touch](https://open.spotify.com/track/10fdgkGHCbjVIbNBfTSmfx) | [PHABO](https://open.spotify.com/artist/5FdZDr2bMbEcnsEKRgO3rn), [Shaé Universe](https://open.spotify.com/artist/5gaElx30yTGGiOCVnml29N) | [Out of Touch](https://open.spotify.com/album/6vIwR0j1Ya3UJeuFTQPcdr) | 3:32 |
-| 72 | [Just Expectationz](https://open.spotify.com/track/10GbMfN6Bt4V9k1blNBjzz) | [Azekel](https://open.spotify.com/artist/446nYwuXzCKnDwZUu4kGQA), [Ivy Sole](https://open.spotify.com/artist/4NcMrSi3B8eUVy6e1Ni3wu) | [Just Expectationz](https://open.spotify.com/album/4fuHL63s4VtjWQLy5QqlTa) | 3:48 |
-| 73 | [Bag \(with Lucky Daye\)](https://open.spotify.com/track/5c4w6QktLsSuO1gqH4YKE7) | [Col3trane](https://open.spotify.com/artist/4hTL3jOgvZwOqegEZTOrCc), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Bag \(with Lucky Daye\)](https://open.spotify.com/album/0TUbzetDrAOIy2RI194WEY) | 3:31 |
+| 72 | [Bag \(with Lucky Daye\)](https://open.spotify.com/track/5c4w6QktLsSuO1gqH4YKE7) | [Col3trane](https://open.spotify.com/artist/4hTL3jOgvZwOqegEZTOrCc), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Bag \(with Lucky Daye\)](https://open.spotify.com/album/0TUbzetDrAOIy2RI194WEY) | 3:31 |
+| 73 | [Just Expectationz](https://open.spotify.com/track/10GbMfN6Bt4V9k1blNBjzz) | [Azekel](https://open.spotify.com/artist/446nYwuXzCKnDwZUu4kGQA), [Ivy Sole](https://open.spotify.com/artist/4NcMrSi3B8eUVy6e1Ni3wu) | [Just Expectationz](https://open.spotify.com/album/4fuHL63s4VtjWQLy5QqlTa) | 3:48 |
 | 74 | [Baeside](https://open.spotify.com/track/61INco9IWV4MfDHnuLZQkt) | [LORNZO](https://open.spotify.com/artist/165m3O9waRPKckujKZnFlz) | [Baeside](https://open.spotify.com/album/6b4rqnlyogdajmmTc8tpRZ) | 1:44 |
 | 75 | [Heartbreaker](https://open.spotify.com/track/4eLFb0Ygy59SEisCWsa85h) | [Larissa Lambert](https://open.spotify.com/artist/1tM4ox3QsSpl3R2VwLjJ47), [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg) | [I Love You And Its Getting Worse](https://open.spotify.com/album/4EveH7LTJ6mTkxXWK6y2Vu) | 2:59 |
 | 76 | [hoe bedoel je?](https://open.spotify.com/track/7juYCJy0yvKaV8uvZJV4p9) | [Danny Dubb](https://open.spotify.com/artist/1ZzmoEKSOVNm75SY7T1zBe) | [hoe bedoel je?](https://open.spotify.com/album/4CN04dChYLqFWOaSDhtOG3) | 2:17 |
@@ -91,8 +91,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aA8os1ylFZ.md) - [plain]
 | 81 | [Candy Store](https://open.spotify.com/track/52k3JDkTOm35bER4EwRtTD) | [RANI](https://open.spotify.com/artist/3SYnDj7btg9gFY7ps8m5d5) | [Candy Store](https://open.spotify.com/album/3nzA2nfVpSVNIVbJPXzFQR) | 2:49 |
 | 82 | [Emotionally Unavailable](https://open.spotify.com/track/4ysqeIgg9nExbHT9jyXMZu) | [Alice Aera](https://open.spotify.com/artist/1r6ajY5Cgb1Rhl88UWG4B7), [Khalil](https://open.spotify.com/artist/0Ve0bm5U01MnOpONJMoEC4) | [Emotionally Unavailable](https://open.spotify.com/album/6GTubdptJMyDY8WBuWH7ws) | 2:22 |
 | 83 | [Loveloca](https://open.spotify.com/track/1JCKPYM0yFZfXeC04RmeiB) | [J.A.D.E](https://open.spotify.com/artist/286YnD3iVn80KxG43TyBHH) | [Loveloca](https://open.spotify.com/album/6cc0aH6M1S3SAUdMglc37e) | 2:54 |
-| 84 | [All I Need](https://open.spotify.com/track/5V5MLWpaH416tfZl5e5z84) | [Miss Lafamilia](https://open.spotify.com/artist/5RUIxQGzPzXUD19Rb3W4e9) | [All I Need](https://open.spotify.com/album/1CjPP5G4HZ9AuiJrMLHm6A) | 2:53 |
-| 85 | [Fierce](https://open.spotify.com/track/6mKsCz4g17ghwIfk2UhaKT) | [Romy Dya](https://open.spotify.com/artist/5gWzmnHTLNXz5CjOc0wAuK) | [Fierce](https://open.spotify.com/album/6tKTVT89iafMp3Btwod0pY) | 2:22 |
+| 84 | [Fierce](https://open.spotify.com/track/6mKsCz4g17ghwIfk2UhaKT) | [Romy Dya](https://open.spotify.com/artist/5gWzmnHTLNXz5CjOc0wAuK) | [Fierce](https://open.spotify.com/album/6tKTVT89iafMp3Btwod0pY) | 2:22 |
+| 85 | [All I Need](https://open.spotify.com/track/5V5MLWpaH416tfZl5e5z84) | [Miss Lafamilia](https://open.spotify.com/artist/5RUIxQGzPzXUD19Rb3W4e9) | [All I Need](https://open.spotify.com/album/1CjPP5G4HZ9AuiJrMLHm6A) | 2:53 |
 | 86 | [Linger On](https://open.spotify.com/track/6sAhTL86FQa2RhdbozNECI) | [Sky Feliz](https://open.spotify.com/artist/7EeqJ1ky6b1Kjf4vgGkx3O) | [Patience](https://open.spotify.com/album/6OskzKNJss2nReEKRchfiy) | 2:44 |
 | 87 | [Headlights](https://open.spotify.com/track/1eiPx1hsXwBUnrSqmaygUx) | [Miller Blue](https://open.spotify.com/artist/2soHr8jGZ0ATxc6X6BgmbA) | [Headlights](https://open.spotify.com/album/2OqSKDW0ZotjVuZPrg15N8) | 2:53 |
 | 88 | [Mood](https://open.spotify.com/track/1YoaC97vl8UBcXM9J0V3ro) | [Natalie La Rose](https://open.spotify.com/artist/2qdONMCoDngQk0eV4Avs1i) | [Mood](https://open.spotify.com/album/1bxGp98YJlaWr6nLaBIvHp) | 3:06 |
@@ -104,9 +104,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aA8os1ylFZ.md) - [plain]
 | 94 | [City Girl](https://open.spotify.com/track/1uuCG9rNTnjI7hljkFlGFO) | [Quessswho](https://open.spotify.com/artist/4Q23rm8jYyd2ft6Cm1MhwJ) | [City Girl](https://open.spotify.com/album/6p0O1QjQAqtFvY3s1tLYLn) | 2:01 |
 | 95 | [Do They Know](https://open.spotify.com/track/2duXRr3V3koJ0w6WsEDOAU) | [Full Crate](https://open.spotify.com/artist/0JeTRYMH7FoBiMcLXg1n8g) | [Do They Know](https://open.spotify.com/album/3qhMA6qBm8VcurTYcY94AM) | 2:02 |
 | 96 | [Whatever I Guess?](https://open.spotify.com/track/0oiTps85hBha6oKXqSU9Kz) | [Ashia Vu](https://open.spotify.com/artist/7hZljhtRZAvfjAskOUmKU4) | [Whatever I Guess?](https://open.spotify.com/album/4fkxCVh692oxovALJrl1iu) | 3:33 |
-| 97 | [WASTEMAN](https://open.spotify.com/track/6RqUIRQuupESKh8DvgTuRV) | [Ezra James](https://open.spotify.com/artist/1a204anh3vzbv9K6oHhJL8), [Malek Lasike](https://open.spotify.com/artist/5nDVx1nImDgnXayZDWm69e) | [WASTEMAN](https://open.spotify.com/album/5hkDbZCyoA0kD0vdCbyNBA) | 3:02 |
-| 98 | [Awareness \- Radio Edit](https://open.spotify.com/track/2bp8l2gJkGgsUszjJaruXp) | [Kyara Shereen](https://open.spotify.com/artist/2xtnBW8NATpAS0zySpH23Q), [This is Lema](https://open.spotify.com/artist/6xukNNXDc47oIMHVZR5SQv) | [Essence](https://open.spotify.com/album/113oIbTJ2PlFjNOw6xyMrF) | 2:52 |
+| 97 | [Awareness \- Radio Edit](https://open.spotify.com/track/2bp8l2gJkGgsUszjJaruXp) | [Kyara Shereen](https://open.spotify.com/artist/2xtnBW8NATpAS0zySpH23Q), [This is Lema](https://open.spotify.com/artist/6xukNNXDc47oIMHVZR5SQv) | [Essence](https://open.spotify.com/album/113oIbTJ2PlFjNOw6xyMrF) | 2:52 |
+| 98 | [WASTEMAN](https://open.spotify.com/track/6RqUIRQuupESKh8DvgTuRV) | [Ezra James](https://open.spotify.com/artist/1a204anh3vzbv9K6oHhJL8), [Malek Lasike](https://open.spotify.com/artist/5nDVx1nImDgnXayZDWm69e) | [WASTEMAN](https://open.spotify.com/album/5hkDbZCyoA0kD0vdCbyNBA) | 3:02 |
 | 99 | [Flexible](https://open.spotify.com/track/159K76vGQ2yVz9RSjtRagM) | [Jazz Carta](https://open.spotify.com/artist/2fsmNXzoUW0KzBWIwNgzif) | [Flexible](https://open.spotify.com/album/1a3tYzPmrBmAPXQEEegBTI) | 2:21 |
 | 100 | [Balcony](https://open.spotify.com/track/2IS5TQnd26IKxRg7cewEdO) | [Anuka](https://open.spotify.com/artist/4tp1pUIwgLWIIIIOo1yPYp) | [Balcony](https://open.spotify.com/album/695ukF8LGhGU4pagxtsxFc) | 2:40 |
 
-Snapshot ID: `MCxlOTFkZjg3YjUxM2ZkOTA1YzVlOTc4ZjMwMzQyZmE5YzBmODc3OWY3`
+Snapshot ID: `MCxiYmE3ZTM0ZDBjZTQ4Mjk2MjRmMjkyYjliY2M4ZDc4YjgzZDVmOWRk`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQZRn97DpO8.md) - [plain]
 
 > Quand R&B francophone rime avec douceur 🍯\. Photo : aupinard
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,683 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,805 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQZRn97DpO8.md) - [plain]
 | 49 | [ELLE](https://open.spotify.com/track/2tGFMERxBPeRJ0OzQ6BAZv) | [Kÿfy](https://open.spotify.com/artist/4tK6ffV3TyicR0N0WtulqB) | [ELLE](https://open.spotify.com/album/0BtEyJbzrnpWrNWuMeip8z) | 2:57 |
 | 50 | [Rouge](https://open.spotify.com/track/0MGa47R4L0OFTUd0H2AOBU) | [Naë](https://open.spotify.com/artist/0B3klp4sg7D2YYsKWwLvzh) | [Rouge](https://open.spotify.com/album/5CEexTwatSOWIHJdarjQiR) | 2:34 |
 
-Snapshot ID: `MCxkZWMwYzNiNGY5N2ZmNmZlMmY0YWIxNjk0MThiYzliZDUxZDlkYWNi`
+Snapshot ID: `MCxlODlhMTkyMTAxYjVmOGIzY2Q5NDAyOTI4OTcwYjVlYmJjOGUyODFh`

@@ -4,7 +4,7 @@
 
 > The sounds keeping the streets of Nigeria on fire\. <br/>Cover: Shallipoppi
 
-187 songs - 8 hr 44 min
+188 songs - 8 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [Am I a Yahoo Boy](https://open.spotify.com/track/7lWPp0cGS1w5JYEJ8NB3n5) | [Naira Marley](https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [Am I a Yahoo Boy](https://open.spotify.com/album/0cXmTtt5BlvsgTn3Ggv0CL) | 2:28 | 2022-06-29 | 2023-09-09 |
 | [Amala](https://open.spotify.com/track/7ldle0j4O3JdX4XVVYY2Vx) | [Khaid](https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep), [Rexxie](https://open.spotify.com/artist/5z207JpMeX1oCYVvMKReku) | [Amala](https://open.spotify.com/album/42FZKw04wgLtGEYerWZ9Xp) | 2:27 | 2022-11-14 | 2023-10-20 |
 | [Amdallah](https://open.spotify.com/track/0KBrX7XrrLWxv4nO3NOHQh) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Amdallah](https://open.spotify.com/album/5Xd5kbHU5hpjwnVVcn2zb7) | 3:00 | 2023-06-02 | 2023-11-23 |
+| [Amdallah](https://open.spotify.com/track/38YGMEC8sWIkkUWYZVw5GE) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Vibe Till Thy Kingdom Come](https://open.spotify.com/album/5sXH36sWuho5Xei85Ru5sj) | 3:00 | 2023-12-01 |  |
 | [Ara \(Gen Gen Tin\)](https://open.spotify.com/track/1j9I9JrUTXNblSWazCq9CU) | [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [Ara \(Gen Gen Tin\)](https://open.spotify.com/album/4ysDR8PYoFO4R6rNMOYSSO) | 2:26 | 2023-03-10 |  |
 | [Ashewo Boy](https://open.spotify.com/track/3VwRxqjO4kvpaiBefwzZ1S) | [Ayox](https://open.spotify.com/artist/1lxw1eewbvAVmEwJrYUDEx), [Tekno](https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut) | [Last Son of a Widow](https://open.spotify.com/album/5ggCK28dJNwpH58dNI8BFr) | 2:26 | 2023-10-20 |  |
 | [Ask About Me](https://open.spotify.com/track/7E86nXdcmISA9vBH0Egx7O) | [Mohbad](https://open.spotify.com/artist/0a8YNI8VHVPYKIPvCiJDxa) | [Ask About Me](https://open.spotify.com/album/6u0gaySWdi8suKJ8WE91Z9) | 2:55 | 2023-04-14 |  |
@@ -121,7 +122,7 @@
 | [Mental](https://open.spotify.com/track/5j7OST3AEbe2N3nmMZflWg) | [Bad Boy Timz](https://open.spotify.com/artist/68R39izwNAztATrXMOqkJS) | [No Bad Boy, No Party](https://open.spotify.com/album/3haflscpuVSkTXo1yw3ghT) | 3:06 | 2023-06-22 | 2023-06-27 |
 | [My Life](https://open.spotify.com/track/5pmuDpn0aIzw8mjJBUWUsv) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [El Major](https://open.spotify.com/album/1bzj6N5AlG4yQwcGVltCxn) | 2:11 | 2023-11-17 | 2023-12-02 |
 | [My Life](https://open.spotify.com/track/0SJYLFDUX2F1IMTdXS23zI) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [My Life](https://open.spotify.com/album/7mkucWU2lfNiqr20iNL5lV) | 2:12 | 2022-08-05 | 2023-11-17 |
-| [New Born Fela](https://open.spotify.com/track/3yifENCc2SkxVfpfnuCwas) | [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [New Born Fela](https://open.spotify.com/album/0uN0RVYSdznI1vu1VvjgwB) | 2:09 | 2022-08-05 |  |
+| [New Born Fela](https://open.spotify.com/track/3yifENCc2SkxVfpfnuCwas) | [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [New Born Fela](https://open.spotify.com/album/0uN0RVYSdznI1vu1VvjgwB) | 2:09 | 2022-08-05 | 2023-12-03 |
 | [New Religion](https://open.spotify.com/track/2KwnwVXtAlpSDdRVO9ccTJ) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [New Religion](https://open.spotify.com/album/6TVnbiHfSh4UX5fCJC4sG1) | 2:33 | 2023-06-02 |  |
 | [NI NIGERIA](https://open.spotify.com/track/4p92W0Op710L8WIzt6EQGf) | [Tomi Tribe](https://open.spotify.com/artist/3Rk3u5yJYynTAwt50Fbm51), [Toyé](https://open.spotify.com/artist/3ako9MDpww4Y5tjUV02tmi) | [NI NIGERIA](https://open.spotify.com/album/4aoMwgAa2hqW9tvSCZF33K) | 2:25 | 2023-05-04 | 2023-08-18 |
 | [No Advise Me](https://open.spotify.com/track/563TepXA7x9GT17SHlSBMW) | [Orezi](https://open.spotify.com/artist/6voVBz1bN1mWZCLpNZGqzD) | [No Advise Me](https://open.spotify.com/album/1DVKvXIvBqaIIuPQxy1qkK) | 2:58 | 2022-11-18 | 2023-05-15 |

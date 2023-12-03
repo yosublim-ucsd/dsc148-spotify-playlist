@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTI0B69TStH2.md) - [plain]
 
 > Najciekawsze muzyczne odkrycia od niezależnych polskich artystów w 2023 roku\. Cover:  <a href="spotify:artist:7ruGjTmqO10lSqHWRIchnU">Daniel Godson</a> \#SpotifyWrapped
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,231 likes - 100 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,264 likes - 100 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTI0B69TStH2.md) - [plain]
 | 45 | [Rozumy](https://open.spotify.com/track/4I6A39jiWA7doSC1294g02) | [Jacko Brango](https://open.spotify.com/artist/4cbzjCAZp1uf5Ctc7hqToV) | [Rozumy](https://open.spotify.com/album/71G3jhyxnPMjy1rqcxdhdI) | 2:53 |
 | 46 | [Kryzys Tożsamości](https://open.spotify.com/track/6IAbTccWLWi0pnGpND9Ftw) | [Wrona](https://open.spotify.com/artist/4BGx0SJF0EyZw3Es7vCBs7) | [Kryzys Tożsamości](https://open.spotify.com/album/70aQk9bn6VNcge2KJrEvy0) | 3:12 |
 | 47 | [hobbit \(tam, ale nie z powrotem\)](https://open.spotify.com/track/62JuZCdmg7Hb3VsaaPgzbq) | [jaś&małgosia](https://open.spotify.com/artist/7Abi3cGp415znWBbgd4obq) | [hobbit \(tam, ale nie z powrotem\)](https://open.spotify.com/album/1ZTJTi4mXfJeZqLAtngI24) | 2:23 |
-| 48 | [king kong](https://open.spotify.com/track/6TFsuhv0JuNlFgzFTriX3Z) | [mop](https://open.spotify.com/artist/6mHsoKwXCaQ3TCWBBPu9Dy), [Młody B](https://open.spotify.com/artist/1ceZGV3Fa3QfceeyiSQA4c) | [Dziecko Słońca](https://open.spotify.com/album/3cfNgpbh94NVFgduSaSWoj) | 3:16 |
+| 48 | [king kong](https://open.spotify.com/track/6TFsuhv0JuNlFgzFTriX3Z) | [mop](https://open.spotify.com/artist/6mHsoKwXCaQ3TCWBBPu9Dy), [Młody Budda](https://open.spotify.com/artist/1ceZGV3Fa3QfceeyiSQA4c) | [Dziecko Słońca](https://open.spotify.com/album/3cfNgpbh94NVFgduSaSWoj) | 3:16 |
 | 49 | [Elvis](https://open.spotify.com/track/6ECyOXQ2622F9WpFgRfHeK) | [Zuta](https://open.spotify.com/artist/4WsiLOvvpCEdV40Wg1kzui) | [Elvis](https://open.spotify.com/album/500FdqaafUB2tmAwc4GT7S) | 2:54 |
 | 50 | [Spoko luz](https://open.spotify.com/track/2dOUokmAhcd9VXn3Qvk5qr) | [noco](https://open.spotify.com/artist/4M3HMSoC2JKbhCRdHQ5wkA) | [Spoko luz](https://open.spotify.com/album/3elAkGaKkY4BbEfwTBLzAR) | 4:38 |
 | 51 | [Nie Wiem Co Mam Ci Powiedzieć](https://open.spotify.com/track/3BtL5sMesEbaWvRoH1DXfv) | [FUMY](https://open.spotify.com/artist/5epINSRBF876OEhoQWzzLi) | [Nie Wiem Co Mam Ci Powiedzieć](https://open.spotify.com/album/3uzDsier6QAaGjaQ3HKEo0) | 3:07 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTI0B69TStH2.md) - [plain]
 | 99 | [Trauma](https://open.spotify.com/track/6jl8DV7cegEqY6pWYFRbHw) | [LIT](https://open.spotify.com/artist/0axhGJWYkI9LuFVKorPwT8) | [Trauma](https://open.spotify.com/album/0NGvqd9ltrz1HBp9B1OQyu) | 3:46 |
 | 100 | [Prosecco](https://open.spotify.com/track/2r0YYsBrX73AEtFUYjxfZh) | [12 kamieni](https://open.spotify.com/artist/4X5vA3EzcDxZQxAcECzGqH), [Szymon Szczot](https://open.spotify.com/artist/3SYXkGixE2adr3Cm8ctN2E) | [Prosecco](https://open.spotify.com/album/0ErGxuvwWHteWwbJSTJlLB) | 2:45 |
 
-Snapshot ID: `MCwwYjRjNjNiYjY2ODIyYTA2OTY4OTFlMTM0Zjg3MGEwNDIzNDA2NzJh`
+Snapshot ID: `MCxkNGQyYjVkOTJiNTczNmE2YTYyMjY0NzYwNmMzODYxNWQ4MDIyZjZm`

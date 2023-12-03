@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWS4QNfVp7YQ.md) - [plain]
 
 > Échate un zapateo al ritmo del tribal.
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,523 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,595 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,9 +25,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWS4QNfVp7YQ.md) - [plain]
 | 15 | [Tas pedita bb?](https://open.spotify.com/track/5jvYkMOu0IpNjGzH080zDI) | [AXHE](https://open.spotify.com/artist/0Yd11KNwQqqx6kEmuuSfEe) | [Tas pedita bb?](https://open.spotify.com/album/3NQgFbC1GTt3rZ2A0vzpvv) | 2:11 |
 | 16 | [La Trompeta Del Diablo](https://open.spotify.com/track/60cUW8whWzeVIONqISksOO) | [Jey Agredo](https://open.spotify.com/artist/6s6TzzI6MiyL8FzhiEXULY), [Guaracha Aleteo Vip](https://open.spotify.com/artist/4qDy1sm9QajMeYMFflFwUA) | [Aleteo VIP Golden Edition](https://open.spotify.com/album/3UocGQ73CV9X9dJ8mbI7pb) | 4:26 |
 | 17 | [Celosa](https://open.spotify.com/track/1zZakVmfBR7AkepHwBCWZ7) | [El Pelón del Mikrophone](https://open.spotify.com/artist/7fD78qBivZ5nhloRHma0Pw) | [Los Reyes del Tribal](https://open.spotify.com/album/7aZA6VrLLeLQUNge1y0BuF) | 3:14 |
-| 18 | [Fly Sound](https://open.spotify.com/track/1S97PagCTc4uorToNepM7r) | [David Lopez](https://open.spotify.com/artist/293KGMp3aKVQ5JmyVt8VIb) | [Fly Sound](https://open.spotify.com/album/1Ts18Ne9bWETR7ZG5C7XH5) | 5:48 |
-| 19 | [Mi Trompeta](https://open.spotify.com/track/0QNljcLUmisv00QqepKK4t) | [Dj Rocka](https://open.spotify.com/artist/6FZI89BrWDIRqUOW64CgNJ), [Yer Cortez](https://open.spotify.com/artist/1PaP0yYtwyr8l6RUNtNwlw) | [Mi Trompeta](https://open.spotify.com/album/5pdUlJrrGMnktuwbeU5nmI) | 3:58 |
-| 20 | [La Culebritica](https://open.spotify.com/track/589A2uQDPameLScx9xkUDn) | [Tribal Guarachero](https://open.spotify.com/artist/5joTsOB4J8FAS2srUZrwCt) | [Muchísimo Tribal](https://open.spotify.com/album/5QN3rjn0ivCi8PtLv63vlp) | 3:40 |
+| 18 | [La Culebritica](https://open.spotify.com/track/589A2uQDPameLScx9xkUDn) | [Tribal Guarachero](https://open.spotify.com/artist/5joTsOB4J8FAS2srUZrwCt) | [Muchísimo Tribal](https://open.spotify.com/album/5QN3rjn0ivCi8PtLv63vlp) | 3:40 |
+| 19 | [Fly Sound](https://open.spotify.com/track/1S97PagCTc4uorToNepM7r) | [David Lopez](https://open.spotify.com/artist/293KGMp3aKVQ5JmyVt8VIb) | [Fly Sound](https://open.spotify.com/album/1Ts18Ne9bWETR7ZG5C7XH5) | 5:48 |
+| 20 | [Mi Trompeta](https://open.spotify.com/track/0QNljcLUmisv00QqepKK4t) | [Dj Rocka](https://open.spotify.com/artist/6FZI89BrWDIRqUOW64CgNJ), [Yer Cortez](https://open.spotify.com/artist/1PaP0yYtwyr8l6RUNtNwlw) | [Mi Trompeta](https://open.spotify.com/album/5pdUlJrrGMnktuwbeU5nmI) | 3:58 |
 | 21 | [Tribal Guarachoso](https://open.spotify.com/track/6cpZP3klWUpzQBMheImhO0) | [3BallMTY](https://open.spotify.com/artist/1MLs9allBZrajb5Dc4146L) | [Inténtalo \(Deluxe Edition\)](https://open.spotify.com/album/4ldSAxBxxmdxlfoh81njb4) | 3:11 |
 | 22 | [Cuando](https://open.spotify.com/track/55YjhypCixxXshs5zrwT2A) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [Los Dutis](https://open.spotify.com/artist/7euy0eWE4fAyce469eL2fi) | [Cuando](https://open.spotify.com/album/4vjlN1DfaBvhVSGfmmNukt) | 2:50 |
 | 23 | [Toco el Cielo \(Dayvi Remix\)](https://open.spotify.com/track/52YR2Gi2z7uCiSTb0zq36a) | [Yilberking](https://open.spotify.com/artist/31ZHTvBmdrhQZpLAJSTCnt), [Dayvi](https://open.spotify.com/artist/2TWBei99x2tV70bdYbWdAf), [Manco the Sound](https://open.spotify.com/artist/2orC1t4J80YDSFYtZ7DIPI) | [Toco el Cielo \(Dayvi Remix\)](https://open.spotify.com/album/6Bf9OGh6wWNdshA4xDHneQ) | 5:58 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWS4QNfVp7YQ.md) - [plain]
 | 49 | [Brindemos Por Ellas](https://open.spotify.com/track/1MdQvMEpQ6xqsNW7HVH5v2) | [Cornetto](https://open.spotify.com/artist/5VUUCzj7ZOGku7STS2vUQc), [Baby Joss](https://open.spotify.com/artist/2zv53qyEf6YlpmOvRHbRUn) | [Brindemos Por Ellas](https://open.spotify.com/album/5MqF13YB9GTHdMIkTerpEs) | 3:28 |
 | 50 | [Mueve Tu Caderita](https://open.spotify.com/track/7E6SsIPD1wn0SZsm4CxJhr) | [DJ Morphius](https://open.spotify.com/artist/0JG1qMChKnNWRh0GRgOJJN) | [Las Más Picudas del Tribal](https://open.spotify.com/album/4X8TwSLAqP8J60F0wXfYOA) | 3:12 |
 
-Snapshot ID: `MCw5ZGViOTc0NGIwZmQ2OWI0NjJlMThlOTJhYTgwOGRjYzExNjU0OGQ5`
+Snapshot ID: `MCxmZjQ2MzQyZGJjYjZkN2U4ODMzY2IxODI2ZTk3Yjk5ZTViY2U3Nzgy`

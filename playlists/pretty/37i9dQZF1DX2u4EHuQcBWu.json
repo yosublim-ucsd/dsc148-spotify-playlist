@@ -1,12 +1,12 @@
 {
   "description": "Himnos de Resistencia: Somos un pueblo fuerte que no se calla.",
-  "num_followers": 184218,
+  "num_followers": 184296,
   "original_name": "Himnos de Resistencia Latinoamericana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZDEyODM2OGQ2MzQ0MzY3OWQ4ZDJhMWZmNTQ2NjQyMGM5OWUzZDg1",
+  "snapshot_id": "MCwxMDBjODdjYzMzYzMyYTE1MDRjZGQzMjU2MGRlOTg5OTZhZDg4MDY3",
   "tracks": [
     {
       "added_at": "2023-10-13 03:00:00",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2023-10-13 03:00:00",
       "album": {
-        "name": "El Corrido de Milo Vela",
-        "url": "https://open.spotify.com/album/0TkqWGLLhKA7Izw3sPpIq8"
-      },
-      "artists": [
-        {
-          "name": "Vivir Quintana",
-          "url": "https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2"
-        }
-      ],
-      "duration_ms": 210426,
-      "name": "El Corrido de Milo Vela",
-      "url": "https://open.spotify.com/track/3zwBVTTefiTWLRerxC2fts"
-    },
-    {
-      "added_at": "2023-10-13 03:00:00",
-      "album": {
         "name": "Mostros",
         "url": "https://open.spotify.com/album/4gcc4CQKB7Dttr8bMkhhjA"
       },
@@ -1343,6 +1327,22 @@
     {
       "added_at": "2023-10-13 03:00:00",
       "album": {
+        "name": "El Corrido de Milo Vela",
+        "url": "https://open.spotify.com/album/0TkqWGLLhKA7Izw3sPpIq8"
+      },
+      "artists": [
+        {
+          "name": "Vivir Quintana",
+          "url": "https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2"
+        }
+      ],
+      "duration_ms": 210426,
+      "name": "El Corrido de Milo Vela",
+      "url": "https://open.spotify.com/track/3zwBVTTefiTWLRerxC2fts"
+    },
+    {
+      "added_at": "2023-10-13 03:00:00",
+      "album": {
         "name": "Fiesta",
         "url": "https://open.spotify.com/album/5VGGdaFaGS8Yd3ZzlWHeGv"
       },
@@ -1355,22 +1355,6 @@
       "duration_ms": 128573,
       "name": "Resistir\u00e9",
       "url": "https://open.spotify.com/track/5wHu5Ht9C8tJ9L6HIxpb9c"
-    },
-    {
-      "added_at": "2023-10-13 03:00:00",
-      "album": {
-        "name": "Yo Vivo en Esta Ciudad",
-        "url": "https://open.spotify.com/album/5rpMRdL6IxV1obCxjf4q5i"
-      },
-      "artists": [
-        {
-          "name": "Pedro Y Pablo",
-          "url": "https://open.spotify.com/artist/5YDpwWFLxk3wmHBKqAcfiI"
-        }
-      ],
-      "duration_ms": 227093,
-      "name": "La Marcha De La Bronca",
-      "url": "https://open.spotify.com/track/4sUEtsaCvQVIkzMksupERW"
     },
     {
       "added_at": "2023-10-13 03:00:00",
@@ -1391,6 +1375,22 @@
     {
       "added_at": "2023-10-13 03:00:00",
       "album": {
+        "name": "Yo Vivo en Esta Ciudad",
+        "url": "https://open.spotify.com/album/5rpMRdL6IxV1obCxjf4q5i"
+      },
+      "artists": [
+        {
+          "name": "Pedro Y Pablo",
+          "url": "https://open.spotify.com/artist/5YDpwWFLxk3wmHBKqAcfiI"
+        }
+      ],
+      "duration_ms": 227093,
+      "name": "La Marcha De La Bronca",
+      "url": "https://open.spotify.com/track/4sUEtsaCvQVIkzMksupERW"
+    },
+    {
+      "added_at": "2023-10-13 03:00:00",
+      "album": {
         "name": "Buscando America",
         "url": "https://open.spotify.com/album/3fKfLNe4w7qBIeGOMqXBbu"
       },
@@ -1403,26 +1403,6 @@
       "duration_ms": 483360,
       "name": "El Padre Antonio - Y El Monaguillo Andres",
       "url": "https://open.spotify.com/track/2iyffU4KcLybIIn7MvkiuH"
-    },
-    {
-      "added_at": "2023-10-13 03:00:00",
-      "album": {
-        "name": "Canci\u00f3n Sin Miedo",
-        "url": "https://open.spotify.com/album/7LK8yw2OrKJ7Nv0BZ6EIKz"
-      },
-      "artists": [
-        {
-          "name": "Vivir Quintana",
-          "url": "https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2"
-        },
-        {
-          "name": "Mon Laferte",
-          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
-        }
-      ],
-      "duration_ms": 213000,
-      "name": "Canci\u00f3n Sin Miedo",
-      "url": "https://open.spotify.com/track/28WYHiLShsQh3NEV5FfhsW"
     },
     {
       "added_at": "2023-10-13 03:00:00",
@@ -1467,22 +1447,6 @@
     {
       "added_at": "2023-10-13 03:00:00",
       "album": {
-        "name": "La Nueva Cancion Chilena, Vol. 1",
-        "url": "https://open.spotify.com/album/6lXAQ5Gozo845iSrcQEvfI"
-      },
-      "artists": [
-        {
-          "name": "Quilapay\u00fan",
-          "url": "https://open.spotify.com/artist/76sZcEL2ZXBTqNeFJAhlup"
-        }
-      ],
-      "duration_ms": 279333,
-      "name": "La Muralla",
-      "url": "https://open.spotify.com/track/7xTdDHBepVRqP9BqobHI75"
-    },
-    {
-      "added_at": "2023-10-13 03:00:00",
-      "album": {
         "name": "Mujeres",
         "url": "https://open.spotify.com/album/3NOtXGgprgAE7XcyimuA6P"
       },
@@ -1499,6 +1463,42 @@
       "duration_ms": 215579,
       "name": "Mujeres",
       "url": "https://open.spotify.com/track/0PELaQWHo1MA89JH4lHyRj"
+    },
+    {
+      "added_at": "2023-10-13 03:00:00",
+      "album": {
+        "name": "Canci\u00f3n Sin Miedo",
+        "url": "https://open.spotify.com/album/7LK8yw2OrKJ7Nv0BZ6EIKz"
+      },
+      "artists": [
+        {
+          "name": "Vivir Quintana",
+          "url": "https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2"
+        },
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        }
+      ],
+      "duration_ms": 213000,
+      "name": "Canci\u00f3n Sin Miedo",
+      "url": "https://open.spotify.com/track/28WYHiLShsQh3NEV5FfhsW"
+    },
+    {
+      "added_at": "2023-10-13 03:00:00",
+      "album": {
+        "name": "La Nueva Cancion Chilena, Vol. 1",
+        "url": "https://open.spotify.com/album/6lXAQ5Gozo845iSrcQEvfI"
+      },
+      "artists": [
+        {
+          "name": "Quilapay\u00fan",
+          "url": "https://open.spotify.com/artist/76sZcEL2ZXBTqNeFJAhlup"
+        }
+      ],
+      "duration_ms": 279333,
+      "name": "La Muralla",
+      "url": "https://open.spotify.com/track/7xTdDHBepVRqP9BqobHI75"
     },
     {
       "added_at": "2023-10-13 03:00:00",

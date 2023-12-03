@@ -2329,6 +2329,28 @@
     },
     {
       "album": {
+        "name": "\u00c9NFASIS",
+        "url": "https://open.spotify.com/album/3Yg6mB7aDyVFTZBMcJPG5B"
+      },
+      "artists": [
+        {
+          "name": "Jere Klein",
+          "url": "https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9"
+        },
+        {
+          "name": "Drakomafia",
+          "url": "https://open.spotify.com/artist/20BNHnI2SfySwLwWCAu4ew"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157793,
+      "name": "MI BRUJA",
+      "url": "https://open.spotify.com/track/39ioahXgovoR6DlDsoEqbk"
+    },
+    {
+      "album": {
         "name": "Mi Bruja",
         "url": "https://open.spotify.com/album/5Ol2T2oQpuxa9JZMij9ES6"
       },
@@ -2348,28 +2370,6 @@
       "duration_ms": 157793,
       "name": "Mi Bruja",
       "url": "https://open.spotify.com/track/6jU9HGQhLCUuA3jmwmxQCo"
-    },
-    {
-      "album": {
-        "name": "\u00c9NFASIS",
-        "url": "https://open.spotify.com/album/3Yg6mB7aDyVFTZBMcJPG5B"
-      },
-      "artists": [
-        {
-          "name": "Jere Klein",
-          "url": "https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9"
-        },
-        {
-          "name": "Drakomafia",
-          "url": "https://open.spotify.com/artist/20BNHnI2SfySwLwWCAu4ew"
-        }
-      ],
-      "date_added": "2023-12-01",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 190812,
-      "name": "MI BRUJA",
-      "url": "https://open.spotify.com/track/39ioahXgovoR6DlDsoEqbk"
     },
     {
       "album": {

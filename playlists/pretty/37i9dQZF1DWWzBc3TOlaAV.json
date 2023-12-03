@@ -1,12 +1,12 @@
 {
   "description": "These songs rocked the '60s. Cover: Jimi Hendrix",
-  "num_followers": 883019,
+  "num_followers": 883142,
   "original_name": "60s Rock Anthems",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MzJjMjVjNWFlNzQxYWIwMTBhN2VhZTMyNzI0MmNjNzJjZTUzY2Qw",
+  "snapshot_id": "MCw3MDY4M2Q3OTI1ZDJjMjM3ZjYzMWNmYWRhMTgwOGMxMTQzYzdmOTg4",
   "tracks": [
     {
       "added_at": "2023-01-18 21:00:56",
@@ -299,22 +299,6 @@
     {
       "added_at": "2023-01-18 21:00:56",
       "album": {
-        "name": "David Bowie (aka Space Oddity) [2015 Remaster]",
-        "url": "https://open.spotify.com/album/1ay9Z4R5ZYI2TY7WiDhNYQ"
-      },
-      "artists": [
-        {
-          "name": "David Bowie",
-          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
-        }
-      ],
-      "duration_ms": 318026,
-      "name": "Space Oddity - 2015 Remaster",
-      "url": "https://open.spotify.com/track/72Z17vmmeQKAg8bptWvpVG"
-    },
-    {
-      "added_at": "2023-01-18 21:00:56",
-      "album": {
         "name": "Are You Experienced",
         "url": "https://open.spotify.com/album/7rSZXXHHvIhF4yUFdaOCy9"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 170813,
       "name": "Purple Haze",
       "url": "https://open.spotify.com/track/0wJoRiX5K5BxlqZTolB2LD"
+    },
+    {
+      "added_at": "2023-01-18 21:00:56",
+      "album": {
+        "name": "David Bowie (aka Space Oddity) [2015 Remaster]",
+        "url": "https://open.spotify.com/album/1ay9Z4R5ZYI2TY7WiDhNYQ"
+      },
+      "artists": [
+        {
+          "name": "David Bowie",
+          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
+        }
+      ],
+      "duration_ms": 318026,
+      "name": "Space Oddity - 2015 Remaster",
+      "url": "https://open.spotify.com/track/72Z17vmmeQKAg8bptWvpVG"
     },
     {
       "added_at": "2023-01-18 21:00:56",
@@ -363,18 +363,18 @@
     {
       "added_at": "2023-01-18 21:00:56",
       "album": {
-        "name": "Music From Big Pink (Remastered)",
-        "url": "https://open.spotify.com/album/0ky5kdvfPxSmSpj03hpSAE"
+        "name": "Surrealistic Pillow",
+        "url": "https://open.spotify.com/album/6lPb7Eoon6QPbscWbMsk6a"
       },
       "artists": [
         {
-          "name": "The Band",
-          "url": "https://open.spotify.com/artist/4vpDg7Y7fU982Ds30zawDA"
+          "name": "Jefferson Airplane",
+          "url": "https://open.spotify.com/artist/2qFr8w5sWUITRlzZ9kZotF"
         }
       ],
-      "duration_ms": 274493,
-      "name": "The Weight - Remastered 2000",
-      "url": "https://open.spotify.com/track/0P7DoyGrr4Wp9w5TotEtUC"
+      "duration_ms": 150640,
+      "name": "White Rabbit",
+      "url": "https://open.spotify.com/track/4vpeKl0vMGdAXpZiQB2Dtd"
     },
     {
       "added_at": "2023-01-18 21:00:56",
@@ -411,18 +411,18 @@
     {
       "added_at": "2023-01-18 21:00:56",
       "album": {
-        "name": "Surrealistic Pillow",
-        "url": "https://open.spotify.com/album/6lPb7Eoon6QPbscWbMsk6a"
+        "name": "Music From Big Pink (Remastered)",
+        "url": "https://open.spotify.com/album/0ky5kdvfPxSmSpj03hpSAE"
       },
       "artists": [
         {
-          "name": "Jefferson Airplane",
-          "url": "https://open.spotify.com/artist/2qFr8w5sWUITRlzZ9kZotF"
+          "name": "The Band",
+          "url": "https://open.spotify.com/artist/4vpDg7Y7fU982Ds30zawDA"
         }
       ],
-      "duration_ms": 150640,
-      "name": "White Rabbit",
-      "url": "https://open.spotify.com/track/4vpeKl0vMGdAXpZiQB2Dtd"
+      "duration_ms": 274493,
+      "name": "The Weight - Remastered 2000",
+      "url": "https://open.spotify.com/track/0P7DoyGrr4Wp9w5TotEtUC"
     },
     {
       "added_at": "2023-01-18 21:00:56",
@@ -619,18 +619,18 @@
     {
       "added_at": "2023-01-18 21:00:56",
       "album": {
-        "name": "All Summer Long (Mono & Stereo)",
-        "url": "https://open.spotify.com/album/6GnzWMUyNEETCq6eftD98v"
+        "name": "Kinks (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6HrqKlhAQiv4GjFjwmuxDQ"
       },
       "artists": [
         {
-          "name": "The Beach Boys",
-          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
+          "name": "The Kinks",
+          "url": "https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E"
         }
       ],
-      "duration_ms": 134386,
-      "name": "I Get Around (Mono)",
-      "url": "https://open.spotify.com/track/3v9xlH6BpmRbqL7hgNJhfT"
+      "duration_ms": 133933,
+      "name": "You Really Got Me",
+      "url": "https://open.spotify.com/track/6tZdL3Zp8JgrfDbsSeSV1S"
     },
     {
       "added_at": "2023-01-18 21:00:56",
@@ -667,6 +667,22 @@
     {
       "added_at": "2023-01-18 21:00:56",
       "album": {
+        "name": "All Summer Long (Mono & Stereo)",
+        "url": "https://open.spotify.com/album/6GnzWMUyNEETCq6eftD98v"
+      },
+      "artists": [
+        {
+          "name": "The Beach Boys",
+          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
+        }
+      ],
+      "duration_ms": 134386,
+      "name": "I Get Around (Mono)",
+      "url": "https://open.spotify.com/track/3v9xlH6BpmRbqL7hgNJhfT"
+    },
+    {
+      "added_at": "2023-01-18 21:00:56",
+      "album": {
         "name": "Electric Ladyland",
         "url": "https://open.spotify.com/album/5z090LQztiqh13wYspQvKQ"
       },
@@ -679,22 +695,6 @@
       "duration_ms": 313373,
       "name": "Voodoo Child (Slight Return)",
       "url": "https://open.spotify.com/track/2AxCeJ6PSsBYiTckM0HLY7"
-    },
-    {
-      "added_at": "2023-01-18 21:00:56",
-      "album": {
-        "name": "Kinks (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6HrqKlhAQiv4GjFjwmuxDQ"
-      },
-      "artists": [
-        {
-          "name": "The Kinks",
-          "url": "https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E"
-        }
-      ],
-      "duration_ms": 133933,
-      "name": "You Really Got Me",
-      "url": "https://open.spotify.com/track/6tZdL3Zp8JgrfDbsSeSV1S"
     },
     {
       "added_at": "2023-01-18 21:00:56",
@@ -907,22 +907,6 @@
     {
       "added_at": "2023-01-18 21:00:56",
       "album": {
-        "name": "Disraeli Gears",
-        "url": "https://open.spotify.com/album/6fRqzJT070Kp9RWlSXmKcY"
-      },
-      "artists": [
-        {
-          "name": "Cream",
-          "url": "https://open.spotify.com/artist/74oJ4qxwOZvX6oSsu1DGnw"
-        }
-      ],
-      "duration_ms": 250000,
-      "name": "Sunshine Of Your Love",
-      "url": "https://open.spotify.com/track/6FRwDxXsvSasw0y2eDArsz"
-    },
-    {
-      "added_at": "2023-01-18 21:00:56",
-      "album": {
         "name": "Kinks (Deluxe Edition)",
         "url": "https://open.spotify.com/album/6HrqKlhAQiv4GjFjwmuxDQ"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 142226,
       "name": "All Day and All of the Night",
       "url": "https://open.spotify.com/track/1mfV2kv9RwFKVI8kEQlmOJ"
+    },
+    {
+      "added_at": "2023-01-18 21:00:56",
+      "album": {
+        "name": "Disraeli Gears",
+        "url": "https://open.spotify.com/album/6fRqzJT070Kp9RWlSXmKcY"
+      },
+      "artists": [
+        {
+          "name": "Cream",
+          "url": "https://open.spotify.com/artist/74oJ4qxwOZvX6oSsu1DGnw"
+        }
+      ],
+      "duration_ms": 250000,
+      "name": "Sunshine Of Your Love",
+      "url": "https://open.spotify.com/track/6FRwDxXsvSasw0y2eDArsz"
     },
     {
       "added_at": "2023-01-18 21:00:56",

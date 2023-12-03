@@ -1,12 +1,12 @@
 {
   "description": "Grandes sucessos e novidades do rock Crist\u00e3o. Foto: Catarina Von Bora",
-  "num_followers": 133062,
+  "num_followers": 133101,
   "original_name": "Templo do Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZDE0Yjk1NWRmNGU5ZmVhMTgwNTE5YzdlMWQ2MmIzMGQ0YWM2OTNm",
+  "snapshot_id": "MCw1NTM0YTZiZTAxMTg1ODM5NmFmZDQ3NjEyMTM2ZDUwYzBkZjJiYjNm",
   "tracks": [
     {
       "added_at": "2023-11-24 07:21:54",
@@ -783,22 +783,18 @@
     {
       "added_at": "2023-11-24 07:21:54",
       "album": {
-        "name": "Estrangeiro",
-        "url": "https://open.spotify.com/album/3kI4PndJ7hoyt13PWIICpI"
+        "name": "Sou Teu",
+        "url": "https://open.spotify.com/album/47i2kk0tnCyY6VdjE3ZPZC"
       },
       "artists": [
         {
-          "name": "Rosa de Saron",
-          "url": "https://open.spotify.com/artist/7EBn9lIBKysikqbU2XDnoX"
-        },
-        {
-          "name": "Anjos de Resgate",
-          "url": "https://open.spotify.com/artist/6NdqC1F1roz6KejkMjoIJK"
+          "name": "David Quinlan",
+          "url": "https://open.spotify.com/artist/71FkOGkNoEpRQAAmV9CP73"
         }
       ],
-      "duration_ms": 226911,
-      "name": "Estrangeiro",
-      "url": "https://open.spotify.com/track/2HdkGrK8kgT65oTqI2IyWU"
+      "duration_ms": 350664,
+      "name": "Sou Teu",
+      "url": "https://open.spotify.com/track/73Ut3bFGmzXZbaf5LvEPlJ"
     },
     {
       "added_at": "2023-11-24 07:21:54",
@@ -827,18 +823,22 @@
     {
       "added_at": "2023-11-24 07:21:54",
       "album": {
-        "name": "Sou Teu",
-        "url": "https://open.spotify.com/album/47i2kk0tnCyY6VdjE3ZPZC"
+        "name": "Estrangeiro",
+        "url": "https://open.spotify.com/album/3kI4PndJ7hoyt13PWIICpI"
       },
       "artists": [
         {
-          "name": "David Quinlan",
-          "url": "https://open.spotify.com/artist/71FkOGkNoEpRQAAmV9CP73"
+          "name": "Rosa de Saron",
+          "url": "https://open.spotify.com/artist/7EBn9lIBKysikqbU2XDnoX"
+        },
+        {
+          "name": "Anjos de Resgate",
+          "url": "https://open.spotify.com/artist/6NdqC1F1roz6KejkMjoIJK"
         }
       ],
-      "duration_ms": 350664,
-      "name": "Sou Teu",
-      "url": "https://open.spotify.com/track/73Ut3bFGmzXZbaf5LvEPlJ"
+      "duration_ms": 226911,
+      "name": "Estrangeiro",
+      "url": "https://open.spotify.com/track/2HdkGrK8kgT65oTqI2IyWU"
     },
     {
       "added_at": "2023-11-24 07:21:54",

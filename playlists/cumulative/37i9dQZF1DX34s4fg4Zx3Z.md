@@ -4,7 +4,7 @@
 
 > Những ca khúc Fresh Finds Vietnam nổi bật năm 2023\. Ảnh bìa: Southalid
 
-1,431 songs - 3 day 11 hr 44 min
+1,432 songs - 3 day 11 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -152,7 +152,8 @@
 | [Bác Sĩ Tâm Lý \(feat\. Zury\)](https://open.spotify.com/track/6yPQP5wi1RpRN5cpMsl1Ji) | [Groovie Lã Thắng](https://open.spotify.com/artist/1yx4rYyjUYupI7Ji1YvXRh), [Zury](https://open.spotify.com/artist/6trcC12iSMcsT5qalkoDZt) | [Bác Sĩ Tâm Lý \(feat\. Zury\)](https://open.spotify.com/album/6wr0qrBCAX0YoCw0MZ6UgQ) | 4:07 | 2022-01-06 | 2022-02-11 |
 | [Bão Trong Tim](https://open.spotify.com/track/2VUYb93eU3Byq4GwLqB3QF) | [Hạnh Sino](https://open.spotify.com/artist/3f7Dr7qtAJutrBV8mjozhh) | [Bão Trong Tim](https://open.spotify.com/album/7zN9jWMMo8N5UZyV9p5qz0) | 4:03 | 2022-09-18 | 2022-11-01 |
 | [Bé Ơi, Yêu Không](https://open.spotify.com/track/23eUSrVQqicjDyWNS2rzJk) | [DIY](https://open.spotify.com/artist/5R6ZWyXZyqhafn4vneQ4vj), [Kiyoshi Phan](https://open.spotify.com/artist/68NSOMlOaNbs7eYe42qaAc), [ZeoMusic](https://open.spotify.com/artist/5O6HVDKin747dImPXntypg) | [Bé Ơi, Yêu Không](https://open.spotify.com/album/4LLfrd8YzHrOpytwkF87OZ) | 2:12 | 2023-10-17 | 2023-11-17 |
-| [Bên Em Nhẹ Nhàng Thôi](https://open.spotify.com/track/3cJdxUxZX4SO7xOqJiwyd8) | [Riown](https://open.spotify.com/artist/1vvDwGd3z0eywYay5NPMyG) | [Bên Em Nhẹ Nhàng Thôi](https://open.spotify.com/album/1bJbzL7BVZfyCrjekVaA1w) | 3:39 | 2022-11-10 |  |
+| [Bên Em Nhẹ Nhàng Thôi](https://open.spotify.com/track/3cJdxUxZX4SO7xOqJiwyd8) | [Riown](https://open.spotify.com/artist/1vvDwGd3z0eywYay5NPMyG) | [Bên Em Nhẹ Nhàng Thôi](https://open.spotify.com/album/1bJbzL7BVZfyCrjekVaA1w) | 3:39 | 2022-11-10 | 2023-12-03 |
+| [Bên Em Nhẹ Nhàng Thôi \- R&B](https://open.spotify.com/track/3k4EFIDxAR42B5G4pnVful) | [Riown](https://open.spotify.com/artist/1vvDwGd3z0eywYay5NPMyG) | [Bên Em Nhẹ Nhàng Thôi \(R&B\)](https://open.spotify.com/album/53KyM5jfhTMlCMWX73SGmE) | 3:47 | 2023-11-29 |  |
 | [Bên Em Tonight](https://open.spotify.com/track/2XUTyMSpJFRIwSzk8LQ4NY) | [Koo](https://open.spotify.com/artist/32bN36S2HiZzGVsfxhvb4E), [Wang](https://open.spotify.com/artist/0HqNIZwtUtRM5FEuXrdZWf), [So Hi](https://open.spotify.com/artist/4xY9VlSeEtEM6y42hpuxvU) | [Bên Em Tonight](https://open.spotify.com/album/5KYZF0jptu542gUr1FrtlT) | 3:29 | 2022-01-14 | 2022-03-01 |
 | [Bình Yên Có Em](https://open.spotify.com/track/6kyX47iDg45YVB31hoINBW) | [ICM](https://open.spotify.com/artist/6kuERXgoQuYGDs0onogMvZ), [Quân Han](https://open.spotify.com/artist/3bn2ShZbl8WxdwJzyOlkbd) | [Bình Yên Có Em](https://open.spotify.com/album/3UWwViUOzDuZxKo0CAI0N6) | 2:56 | 2023-09-08 | 2023-10-04 |
 | [Bình Yên Vẫn Còn Đây](https://open.spotify.com/track/5Rpv2GSfGfvguUhgwym9tA) | [Dani D](https://open.spotify.com/artist/0I6jb4RjMkF84T2e5VsjlG) | [Bình Yên Vẫn Còn Đây](https://open.spotify.com/album/7pwZLEqxfQaol5daLdGz7o) | 5:12 | 2023-07-18 | 2023-09-15 |
@@ -1009,7 +1010,7 @@
 | [Sau Chia Tay](https://open.spotify.com/track/7fIQnPDPrMMTHlu8PgN5wG) | [Erin](https://open.spotify.com/artist/2KFqKJvmyR5FRdW2Ww8YeY) | [Sau Chia Tay](https://open.spotify.com/album/1qAalM7fTS1bxyIp329xLx) | 3:35 | 2022-04-27 | 2022-05-27 |
 | [Sau Chỉ Thị](https://open.spotify.com/track/6CPSPJVweZH2Wha6BHZqn3) | [Minors](https://open.spotify.com/artist/6uk0FkxpMpQFEDvNxJEhH9) | [Sau Chỉ Thị](https://open.spotify.com/album/1TWZZdS739cSVn5VHM1TOA) | 3:18 | 2022-01-06 | 2022-04-08 |
 | [Sau Ngày Chia Tay](https://open.spotify.com/track/235Tyllxkn3Uqawvo8O7hj) | [Luke D](https://open.spotify.com/artist/6Q8rdOp4MwNFF18K75sMzZ) | [Sau Ngày Chia Tay](https://open.spotify.com/album/2OJ8s6PgfqQMraoZxd59ZK) | 4:01 | 2022-04-07 | 2023-01-06 |
-| [Sau Những Lần Đau \- Remake](https://open.spotify.com/track/6DXlafxUhuXiRZah0yDP6t) | [Dũng](https://open.spotify.com/artist/7MmYt8AEBM64SmtswuUUEH), [fhung](https://open.spotify.com/artist/4YShTTdbTtAijqfto0IBWG) | [Sau Những Lần Đau \(Remake\)](https://open.spotify.com/album/58RkQJVMwNKPmBtUYXhd80) | 2:20 | 2023-05-15 |  |
+| [Sau Những Lần Đau \- Remake](https://open.spotify.com/track/6DXlafxUhuXiRZah0yDP6t) | [Dũng](https://open.spotify.com/artist/7MmYt8AEBM64SmtswuUUEH), [fhung](https://open.spotify.com/artist/4YShTTdbTtAijqfto0IBWG), [Hà Anh](https://open.spotify.com/artist/3JRVedtRD0Xyk5PtvH8ueE) | [Sau Những Lần Đau \(Remake\)](https://open.spotify.com/album/58RkQJVMwNKPmBtUYXhd80) | 2:20 | 2023-05-15 |  |
 | [Sau Tấm Rèm](https://open.spotify.com/track/2vTDpUUNROmQ3jMtHOGyNX) | [NGHI](https://open.spotify.com/artist/2TDL6ZO5XzjAnzrSK1Cipe) | [Sau Tấm Rèm](https://open.spotify.com/album/7EgeAEPfjYha527vC4tiqX) | 3:17 | 2023-10-11 | 2023-11-30 |
 | [SAY](https://open.spotify.com/track/20rR63U6xYxC33q4mSupSM) | [Summer Vee](https://open.spotify.com/artist/6gWEeFGU5pCS3WOabthYiI) | [SAY](https://open.spotify.com/album/10Fzf4whOsxpq0fDTm2Np2) | 2:54 | 2023-09-14 | 2023-10-13 |
 | [Say Anh](https://open.spotify.com/track/1GrzzMZnXUsdrmPn6K1wut) | [Mỹ Mỹ](https://open.spotify.com/artist/21trGUfOb8qkRjI4EyF1qm), [Dlow](https://open.spotify.com/artist/4HDPRR3da0slyl0H2dUXM7) | [Say Anh](https://open.spotify.com/album/6ZEl3kaPiFCnR2HM71sVZf) | 3:32 | 2022-06-26 | 2022-09-28 |

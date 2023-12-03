@@ -4,7 +4,7 @@
 
 > Songs of faith, hope, and the greatest of these, love.
 
-146 songs - 8 hr 44 min
+147 songs - 8 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,7 +73,7 @@
 | [I Will Always Be Yours](https://open.spotify.com/track/35RrDnREM1xxx4YBxDHikm) | [Ben Rector](https://open.spotify.com/artist/4AapPt7H6bGH4i7chTulpI) | [Magic](https://open.spotify.com/album/3Mb8bYV4FKmdnmrlSYqp3j) | 3:46 | 2020-04-17 |  |
 | [I Will Always Be Yours](https://open.spotify.com/track/4m1lB7qJ78VPYsQy7RoBcU) | [Ben Rector](https://open.spotify.com/artist/4AapPt7H6bGH4i7chTulpI) | [Magic](https://open.spotify.com/album/1FmtmLnB1KrXjK0uWLkyhq) | 3:46 | 2020-04-17 | 2022-07-29 |
 | [I'll Wait For You](https://open.spotify.com/track/5vNQTqS0JToEWzlizaGzpy) | [MORIAH](https://open.spotify.com/artist/1w0QYx2G0ywsCClH84FcAv) | [Brave](https://open.spotify.com/album/57VocguMCPpTbtRBPb7h0f) | 3:46 | 2020-04-17 |  |
-| [I'm in Love With You](https://open.spotify.com/track/1X40brgUhO1VaZ8CHtKBnt) | [Joy Williams](https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa) | [Genesis](https://open.spotify.com/album/56H4CnTe0xS1VpZLgC9wAf) | 4:06 | 2020-04-17 |  |
+| [I'm in Love With You](https://open.spotify.com/track/1X40brgUhO1VaZ8CHtKBnt) | [Joy Williams](https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa) | [Genesis](https://open.spotify.com/album/56H4CnTe0xS1VpZLgC9wAf) | 4:06 | 2020-04-17 | 2023-12-03 |
 | [If Only](https://open.spotify.com/track/3LJr3TanDnPqDHXWzet4Yi) | [Million Miles](https://open.spotify.com/artist/3exZi47Gf3ZlXjKbvLp5Wm) | [If Only](https://open.spotify.com/album/5GOzSUBrOb6PaXHMQQixr2) | 3:27 | 2020-04-17 |  |
 | [It's Our Time](https://open.spotify.com/track/4MTAzJrRxvLxCOfHWU9ZiL) | [The Light the Heat](https://open.spotify.com/artist/17EpO9pUubOAhnTopBgQYR) | [It's Our Time](https://open.spotify.com/album/3N59QkHMDcyqShOGyH41MD) | 3:41 | 2020-04-17 | 2022-07-29 |
 | [It's Our Time](https://open.spotify.com/track/71p9FBPJZtc77fs4AxUX6T) | [The Light the Heat](https://open.spotify.com/artist/17EpO9pUubOAhnTopBgQYR) | [It's Our Time](https://open.spotify.com/album/1HP1KymMq8MzxzjqLgyjaZ) | 3:41 | 2020-04-17 |  |
@@ -135,6 +135,7 @@
 | [Together](https://open.spotify.com/track/3BWvRBAgmWS7v7hgZnSn9S) | [Steven Curtis Chapman](https://open.spotify.com/artist/3vcFXwLEUdfWMu7gTQKyot) | [The Glorious Unfolding](https://open.spotify.com/album/48saUjxC3qdrxuEKa5jiGZ) | 4:02 | 2020-04-17 |  |
 | [Unfailing Love](https://open.spotify.com/track/7CdKRgZiFWgMWDIbbFURZA) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [The Ultimate Collection: Love Songs](https://open.spotify.com/album/0lYU6ZXAFCW6OA8N8v3xRX) | 3:59 | 2020-04-17 | 2023-11-14 |
 | [Wait For You](https://open.spotify.com/track/6KcldlI0awLZXnw0fQ8eA6) | [Marie Love](https://open.spotify.com/artist/5K9zbxy7ezNSd4Jj5DUR2h) | [Wait For You](https://open.spotify.com/album/6HQYLXyQt5ZZtuUGIkBbjw) | 2:12 | 2023-01-31 |  |
+| [Warm](https://open.spotify.com/track/5spzlJAr9QnRzkF0kJhGhv) | [AO1 Collective](https://open.spotify.com/artist/7B1PFNIplX3KFKPizcl8e5), [Jeremiah Paltan](https://open.spotify.com/artist/7gaLLumDYrznRYzpPtvrru) | [Warm](https://open.spotify.com/album/3OuRCknIWadGRarsOyhdgC) | 2:56 | 2023-01-31 |  |
 | [We Can Be More](https://open.spotify.com/track/6Jpcc6gwS1viCvse3M4Rji) | [Sho Baraka](https://open.spotify.com/artist/3dpswct31rsudWf8ZASWZe), [J.R.](https://open.spotify.com/artist/1gkN5N1Npacwm1QsSsVonK) | [Lions and Liars](https://open.spotify.com/album/4B7PDu1JK0rIOYsylICHyX) | 3:12 | 2023-01-31 |  |
 | [We Will Dance](https://open.spotify.com/track/1vvKpTt15DT2xWA6mNcF6o) | [Steven Curtis Chapman](https://open.spotify.com/artist/3vcFXwLEUdfWMu7gTQKyot) | [All About Love](https://open.spotify.com/album/0GtzQXs1ecJK73NsRXfXAM) | 4:40 | 2020-04-17 |  |
 | [What A Mystery](https://open.spotify.com/track/2FYSON92zpz3iiDAmG2IMg) | [Josh Wilson](https://open.spotify.com/artist/1SbnQl7KrIVnXhYcQcMjL2) | [Carry Me](https://open.spotify.com/album/4xjAeY5J7q6iHlRWEF07b0) | 2:57 | 2020-04-17 |  |

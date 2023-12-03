@@ -1,12 +1,12 @@
 {
   "description": "Country Music that rocks. Cover: Treaty Oak Revival",
-  "num_followers": 571672,
+  "num_followers": 571794,
   "original_name": "Country Rocks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxYmRjOTg5OTg1ODNmYzRiODYyZjE1ZTM3NDg2YzkwY2ViMmM0ZDVj",
+  "snapshot_id": "MCxhZjc0N2EwMzgzY2UzODY1NzZlNzE1NWNiMzRmYjNlZGRhNTdjZTUz",
   "tracks": [
     {
       "added_at": "2023-12-01 22:30:39",
@@ -575,18 +575,18 @@
     {
       "added_at": "2023-12-01 22:30:39",
       "album": {
-        "name": "SOLD OUT",
-        "url": "https://open.spotify.com/album/7btdv2v09pv92AOX2SvmKm"
+        "name": "Whitsitt Chapel",
+        "url": "https://open.spotify.com/album/2v1Lb9hidHkvvlIXYzSmeZ"
       },
       "artists": [
         {
-          "name": "HARDY",
-          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
         }
       ],
-      "duration_ms": 202912,
-      "name": "SOLD OUT",
-      "url": "https://open.spotify.com/track/3I56OBwJkDAyt9L00c8ois"
+      "duration_ms": 178440,
+      "name": "Halfway To Hell",
+      "url": "https://open.spotify.com/track/1fAeFPXsX08Ovnn9iV1x27"
     },
     {
       "added_at": "2023-12-01 22:30:39",
@@ -607,18 +607,18 @@
     {
       "added_at": "2023-12-01 22:30:39",
       "album": {
-        "name": "Whitsitt Chapel",
-        "url": "https://open.spotify.com/album/2v1Lb9hidHkvvlIXYzSmeZ"
+        "name": "SOLD OUT",
+        "url": "https://open.spotify.com/album/7btdv2v09pv92AOX2SvmKm"
       },
       "artists": [
         {
-          "name": "Jelly Roll",
-          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+          "name": "HARDY",
+          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
         }
       ],
-      "duration_ms": 178440,
-      "name": "Halfway To Hell",
-      "url": "https://open.spotify.com/track/1fAeFPXsX08Ovnn9iV1x27"
+      "duration_ms": 202912,
+      "name": "SOLD OUT",
+      "url": "https://open.spotify.com/track/3I56OBwJkDAyt9L00c8ois"
     },
     {
       "added_at": "2023-12-01 22:30:39",
@@ -755,22 +755,18 @@
     {
       "added_at": "2023-12-01 22:30:39",
       "album": {
-        "name": "The Better Me",
-        "url": "https://open.spotify.com/album/29ryaHa8XIbX6bPJ8KmfRm"
+        "name": "Tejano Punk Boyz",
+        "url": "https://open.spotify.com/album/4jNsjnBYtuXuprFqRhbA85"
       },
       "artists": [
         {
-          "name": "Beartooth",
-          "url": "https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL"
-        },
-        {
-          "name": "HARDY",
-          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
+          "name": "Giovannie and the Hired Guns",
+          "url": "https://open.spotify.com/artist/0sJqZPLoTiqTqXz4nxKw94"
         }
       ],
-      "duration_ms": 195236,
-      "name": "The Better Me",
-      "url": "https://open.spotify.com/track/07EVpY24NcxUIAeluojBLz"
+      "duration_ms": 168311,
+      "name": "Ramon Ayala",
+      "url": "https://open.spotify.com/track/6lFVmakxYOXqtBtkbGXrOD"
     },
     {
       "added_at": "2023-12-01 22:30:39",
@@ -823,18 +819,22 @@
     {
       "added_at": "2023-12-01 22:30:39",
       "album": {
-        "name": "Tejano Punk Boyz",
-        "url": "https://open.spotify.com/album/4jNsjnBYtuXuprFqRhbA85"
+        "name": "The Better Me",
+        "url": "https://open.spotify.com/album/29ryaHa8XIbX6bPJ8KmfRm"
       },
       "artists": [
         {
-          "name": "Giovannie and the Hired Guns",
-          "url": "https://open.spotify.com/artist/0sJqZPLoTiqTqXz4nxKw94"
+          "name": "Beartooth",
+          "url": "https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL"
+        },
+        {
+          "name": "HARDY",
+          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
         }
       ],
-      "duration_ms": 168311,
-      "name": "Ramon Ayala",
-      "url": "https://open.spotify.com/track/6lFVmakxYOXqtBtkbGXrOD"
+      "duration_ms": 195236,
+      "name": "The Better Me",
+      "url": "https://open.spotify.com/track/07EVpY24NcxUIAeluojBLz"
     },
     {
       "added_at": "2023-12-01 22:30:39",
@@ -1067,18 +1067,18 @@
     {
       "added_at": "2023-12-01 22:30:39",
       "album": {
-        "name": "Creeps",
-        "url": "https://open.spotify.com/album/2lUDd3HMuFnMgK3KfniBGB"
+        "name": "Get Rollin'",
+        "url": "https://open.spotify.com/album/5uLm9XqpibzmIaFUz80jLb"
       },
       "artists": [
         {
-          "name": "Koe Wetzel",
-          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
+          "name": "Nickelback",
+          "url": "https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF"
         }
       ],
-      "duration_ms": 226309,
-      "name": "Creeps",
-      "url": "https://open.spotify.com/track/0zOert4KpMDEf332FVRuxb"
+      "duration_ms": 234848,
+      "name": "High Time",
+      "url": "https://open.spotify.com/track/2A5Xy5HWeRWvWjvv7ObIFZ"
     },
     {
       "added_at": "2023-12-01 22:30:39",
@@ -1135,18 +1135,18 @@
     {
       "added_at": "2023-12-01 22:30:39",
       "album": {
-        "name": "Get Rollin'",
-        "url": "https://open.spotify.com/album/5uLm9XqpibzmIaFUz80jLb"
+        "name": "Creeps",
+        "url": "https://open.spotify.com/album/2lUDd3HMuFnMgK3KfniBGB"
       },
       "artists": [
         {
-          "name": "Nickelback",
-          "url": "https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF"
+          "name": "Koe Wetzel",
+          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
         }
       ],
-      "duration_ms": 234848,
-      "name": "High Time",
-      "url": "https://open.spotify.com/track/2A5Xy5HWeRWvWjvv7ObIFZ"
+      "duration_ms": 226309,
+      "name": "Creeps",
+      "url": "https://open.spotify.com/track/0zOert4KpMDEf332FVRuxb"
     },
     {
       "added_at": "2023-12-01 22:30:39",
@@ -1271,18 +1271,18 @@
     {
       "added_at": "2023-12-01 22:30:39",
       "album": {
-        "name": "That Lonesome Song",
-        "url": "https://open.spotify.com/album/3mb6QMOelljOicaqCo4F6i"
+        "name": "Highway Desperado",
+        "url": "https://open.spotify.com/album/2SCppOPkT7XTKBJV2XIQUw"
       },
       "artists": [
         {
-          "name": "Jamey Johnson",
-          "url": "https://open.spotify.com/artist/5yhxqYI0JBwUKfXpSEjiM8"
+          "name": "Jason Aldean",
+          "url": "https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH"
         }
       ],
-      "duration_ms": 251960,
-      "name": "Between Jennings And Jones",
-      "url": "https://open.spotify.com/track/2Jq2KzxOvLrlH16hlcnm7d"
+      "duration_ms": 200626,
+      "name": "Tough Crowd",
+      "url": "https://open.spotify.com/track/4XufHN8jFwyZEjvplEJh3w"
     },
     {
       "added_at": "2023-12-01 22:30:39",
@@ -1323,34 +1323,18 @@
     {
       "added_at": "2023-12-01 22:30:39",
       "album": {
-        "name": "Highway Desperado",
-        "url": "https://open.spotify.com/album/2SCppOPkT7XTKBJV2XIQUw"
+        "name": "That Lonesome Song",
+        "url": "https://open.spotify.com/album/3mb6QMOelljOicaqCo4F6i"
       },
       "artists": [
         {
-          "name": "Jason Aldean",
-          "url": "https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH"
+          "name": "Jamey Johnson",
+          "url": "https://open.spotify.com/artist/5yhxqYI0JBwUKfXpSEjiM8"
         }
       ],
-      "duration_ms": 200626,
-      "name": "Tough Crowd",
-      "url": "https://open.spotify.com/track/4XufHN8jFwyZEjvplEJh3w"
-    },
-    {
-      "added_at": "2023-12-01 22:30:39",
-      "album": {
-        "name": "Looking Back Now",
-        "url": "https://open.spotify.com/album/47MPMs9cQemgI2ek85Rbqd"
-      },
-      "artists": [
-        {
-          "name": "Cody Hibbard",
-          "url": "https://open.spotify.com/artist/71DKcYMBfZtxrOB7w6pKq5"
-        }
-      ],
-      "duration_ms": 209836,
-      "name": "Looking Back Now",
-      "url": "https://open.spotify.com/track/37imLguIvWwDJNT6RGO2Qi"
+      "duration_ms": 251960,
+      "name": "Between Jennings And Jones",
+      "url": "https://open.spotify.com/track/2Jq2KzxOvLrlH16hlcnm7d"
     },
     {
       "added_at": "2023-12-01 22:30:39",
@@ -1367,6 +1351,22 @@
       "duration_ms": 176813,
       "name": "I Only Date Cowboys",
       "url": "https://open.spotify.com/track/0Jq7igSKyTZxkvLoqr0bsX"
+    },
+    {
+      "added_at": "2023-12-01 22:30:39",
+      "album": {
+        "name": "Looking Back Now",
+        "url": "https://open.spotify.com/album/47MPMs9cQemgI2ek85Rbqd"
+      },
+      "artists": [
+        {
+          "name": "Cody Hibbard",
+          "url": "https://open.spotify.com/artist/71DKcYMBfZtxrOB7w6pKq5"
+        }
+      ],
+      "duration_ms": 209836,
+      "name": "Looking Back Now",
+      "url": "https://open.spotify.com/track/37imLguIvWwDJNT6RGO2Qi"
     },
     {
       "added_at": "2023-12-01 22:30:39",
@@ -1547,6 +1547,22 @@
     {
       "added_at": "2023-12-01 22:30:39",
       "album": {
+        "name": "My Kinda Party",
+        "url": "https://open.spotify.com/album/4DDsvEKPW32jeMEAqmOdjv"
+      },
+      "artists": [
+        {
+          "name": "Jason Aldean",
+          "url": "https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH"
+        }
+      ],
+      "duration_ms": 202466,
+      "name": "Tattoos on This Town",
+      "url": "https://open.spotify.com/track/4tL7NTZPdKd5kdYRQ6bgpO"
+    },
+    {
+      "added_at": "2023-12-01 22:30:39",
+      "album": {
         "name": "Straw in the Wind",
         "url": "https://open.spotify.com/album/4qaAjhI72YFVMbusfwiO6x"
       },
@@ -1559,22 +1575,6 @@
       "duration_ms": 199773,
       "name": "Let the Rain Come Down",
       "url": "https://open.spotify.com/track/7aQWQSrLhPuRbHUewe6HLB"
-    },
-    {
-      "added_at": "2023-12-01 22:30:39",
-      "album": {
-        "name": "World On Fire",
-        "url": "https://open.spotify.com/album/1PVoMQaN6xLMAsBOu27Lf7"
-      },
-      "artists": [
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        }
-      ],
-      "duration_ms": 261269,
-      "name": "World On Fire",
-      "url": "https://open.spotify.com/track/680abMjLEy7wOLgR7zaQv4"
     },
     {
       "added_at": "2023-12-01 22:30:39",
@@ -1643,18 +1643,18 @@
     {
       "added_at": "2023-12-01 22:30:39",
       "album": {
-        "name": "My Kinda Party",
-        "url": "https://open.spotify.com/album/4DDsvEKPW32jeMEAqmOdjv"
+        "name": "World On Fire",
+        "url": "https://open.spotify.com/album/1PVoMQaN6xLMAsBOu27Lf7"
       },
       "artists": [
         {
-          "name": "Jason Aldean",
-          "url": "https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH"
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
         }
       ],
-      "duration_ms": 202466,
-      "name": "Tattoos on This Town",
-      "url": "https://open.spotify.com/track/4tL7NTZPdKd5kdYRQ6bgpO"
+      "duration_ms": 261269,
+      "name": "World On Fire",
+      "url": "https://open.spotify.com/track/680abMjLEy7wOLgR7zaQv4"
     },
     {
       "added_at": "2023-12-01 22:30:39",
@@ -1691,18 +1691,18 @@
     {
       "added_at": "2023-12-01 22:30:39",
       "album": {
-        "name": "April Showers",
-        "url": "https://open.spotify.com/album/35DYE0Y5qdxojyBA2CXVYX"
+        "name": "Call It Country",
+        "url": "https://open.spotify.com/album/2eqtyCMsctct0i1SWDHN2h"
       },
       "artists": [
         {
-          "name": "Koe Wetzel",
-          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
+          "name": "Travis Denning",
+          "url": "https://open.spotify.com/artist/6CegFHnUqJcOBipgphZ2CJ"
         }
       ],
-      "duration_ms": 182346,
-      "name": "April Showers",
-      "url": "https://open.spotify.com/track/0E2VoyCHqPn47yGMVgQmrK"
+      "duration_ms": 151148,
+      "name": "Call It Country",
+      "url": "https://open.spotify.com/track/1H5I9ObhTNdSvcIJnM5CoT"
     }
   ],
   "unique_name": "Country Rocks",

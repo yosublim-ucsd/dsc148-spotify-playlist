@@ -3569,6 +3569,32 @@
     },
     {
       "album": {
+        "name": "Superfly",
+        "url": "https://open.spotify.com/album/71hXzRGKVQeRnv2YKvzbfo"
+      },
+      "artists": [
+        {
+          "name": "Rohony",
+          "url": "https://open.spotify.com/artist/3FgZ0agsmQ50Y9VflHdcio"
+        },
+        {
+          "name": "mdmx",
+          "url": "https://open.spotify.com/artist/0F2wMgHb1xp9HlWN4rt5Ke"
+        },
+        {
+          "name": "Pavel Mach\u00e1t",
+          "url": "https://open.spotify.com/artist/0eWttDUfPVwCAA8bo83iGI"
+        }
+      ],
+      "date_added": "2023-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165428,
+      "name": "Cassiopea",
+      "url": "https://open.spotify.com/track/1XWaH5Lz5FXgf6JbfclwNB"
+    },
+    {
+      "album": {
         "name": "Celebrity Rehab",
         "url": "https://open.spotify.com/album/7qOBSvbdvPQ9vFOSxMfcZr"
       },
@@ -5810,7 +5836,7 @@
       ],
       "date_added": "2023-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-03",
       "duration_ms": 151578,
       "name": "DTB for Life",
       "url": "https://open.spotify.com/track/0uqziJ0jXgIl13movC27ut"
@@ -6768,7 +6794,7 @@
       ],
       "date_added": "2023-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-03",
       "duration_ms": 200600,
       "name": "Flowers",
       "url": "https://open.spotify.com/track/7DSAEUvxU8FajXtRloy8M0"
@@ -8090,7 +8116,7 @@
       ],
       "date_added": "2021-11-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-29",
+      "date_removed": null,
       "duration_ms": 214333,
       "name": "Happy Xmas (War Is Over) - Remastered 2010",
       "url": "https://open.spotify.com/track/27RYrbL6S02LNVhDWVl38b"
@@ -8720,7 +8746,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-01",
+      "date_removed": null,
       "duration_ms": 119786,
       "name": "Holly Jolly Christmas",
       "url": "https://open.spotify.com/track/6tjituizSxwSmBB5vtgHZE"
@@ -9084,7 +9110,7 @@
       ],
       "date_added": "2022-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-03",
       "duration_ms": 148485,
       "name": "I Ain't Worried",
       "url": "https://open.spotify.com/track/4h9wh7iOZ0GGn8QVp4RAOB"
@@ -9588,7 +9614,7 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-01",
+      "date_removed": null,
       "duration_ms": 151000,
       "name": "It's the Most Wonderful Time of the Year",
       "url": "https://open.spotify.com/track/1IcR6RlgvDczfvoWJSSY2A"
@@ -13224,7 +13250,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-28",
+      "date_removed": null,
       "duration_ms": 220160,
       "name": "Merry Christmas Everyone",
       "url": "https://open.spotify.com/track/2TE4xW3ImvpltVU0cPcKUn"
@@ -13496,7 +13522,7 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-29",
+      "date_removed": null,
       "duration_ms": 182946,
       "name": "Mistletoe",
       "url": "https://open.spotify.com/track/7xapw9Oy21WpfEcib2ErSA"
@@ -13590,7 +13616,7 @@
       ],
       "date_added": "2022-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-03",
       "duration_ms": 250760,
       "name": "Mockingbird",
       "url": "https://open.spotify.com/track/561jH07mF1jHuk7KlaeF0s"
@@ -16676,7 +16702,7 @@
       ],
       "date_added": "2023-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-03",
       "duration_ms": 230480,
       "name": "Paint The Town Red",
       "url": "https://open.spotify.com/track/56y1jOTK0XSvJzVv9vHQBK"
@@ -17079,6 +17105,28 @@
     },
     {
       "album": {
+        "name": "POCH*AL",
+        "url": "https://open.spotify.com/album/64gLPxU9VuoX5QWb7nf2AM"
+      },
+      "artists": [
+        {
+          "name": "Adam Mi\u0161\u00edk",
+          "url": "https://open.spotify.com/artist/7jY6bjQW4nkuknuIoeRNeQ"
+        },
+        {
+          "name": "Alex Aurin",
+          "url": "https://open.spotify.com/artist/5W85dlqbtlIX7KxuxrQNye"
+        }
+      ],
+      "date_added": "2023-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134399,
+      "name": "POCH*AL",
+      "url": "https://open.spotify.com/track/6kuaNyqYezGtQ9Uhn3KMf0"
+    },
+    {
+      "album": {
         "name": "POD DRN",
         "url": "https://open.spotify.com/album/37gj1ub8b6qdv7nICPh7X3"
       },
@@ -17452,7 +17500,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-03",
       "duration_ms": 132359,
       "name": "Prada",
       "url": "https://open.spotify.com/track/59NraMJsLaMCVtwXTSia8i"
@@ -17488,7 +17536,7 @@
       ],
       "date_added": "2022-12-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-03",
       "duration_ms": 120000,
       "name": "Praha den a noc",
       "url": "https://open.spotify.com/track/7xWbvfPrSjTWdsBNHOqdJJ"
@@ -17800,7 +17848,7 @@
       ],
       "date_added": "2022-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-03",
       "duration_ms": 187744,
       "name": "PR\u0160\u00cd, PR\u0160\u00cd",
       "url": "https://open.spotify.com/track/27FjG8BCMk1UjOcBfffHk4"
@@ -18118,7 +18166,7 @@
       ],
       "date_added": "2021-11-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-01",
+      "date_removed": null,
       "duration_ms": 303893,
       "name": "P\u016flno\u010dn\u00ed",
       "url": "https://open.spotify.com/track/5Thza83zbkoIupxDHf9kmq"
@@ -19076,7 +19124,7 @@
       ],
       "date_added": "2023-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-03",
       "duration_ms": 153402,
       "name": "Samota (with Sofian Medjmedj)",
       "url": "https://open.spotify.com/track/76LbBQHtxDetE9fCVEZqK0"
@@ -21384,7 +21432,7 @@
       ],
       "date_added": "2021-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-03",
       "duration_ms": 174666,
       "name": "S\u00edla Starejch V\u00edn",
       "url": "https://open.spotify.com/track/6qgMr9LacgnihY9IdYriMP"
@@ -21786,7 +21834,7 @@
       ],
       "date_added": "2023-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-03",
       "duration_ms": 208211,
       "name": "The Night We Met",
       "url": "https://open.spotify.com/track/0QZ5yyl6B6utIWkxeBDxQN"
@@ -22595,6 +22643,32 @@
     },
     {
       "album": {
+        "name": "Superfly",
+        "url": "https://open.spotify.com/album/71hXzRGKVQeRnv2YKvzbfo"
+      },
+      "artists": [
+        {
+          "name": "Rohony",
+          "url": "https://open.spotify.com/artist/3FgZ0agsmQ50Y9VflHdcio"
+        },
+        {
+          "name": "mdmx",
+          "url": "https://open.spotify.com/artist/0F2wMgHb1xp9HlWN4rt5Ke"
+        },
+        {
+          "name": "TOKYO DRIFT",
+          "url": "https://open.spotify.com/artist/1KhQqptEcjZyLHeHwtQXWb"
+        }
+      ],
+      "date_added": "2023-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "U Roh\u00e1\u010de",
+      "url": "https://open.spotify.com/track/7JCbpjSzNjlye5broWEoJW"
+    },
+    {
+      "album": {
         "name": "ROMEO",
         "url": "https://open.spotify.com/album/2UQwJOfPOpgvVQSvyZ3mWZ"
       },
@@ -22696,7 +22770,7 @@
       ],
       "date_added": "2023-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-01",
+      "date_removed": null,
       "duration_ms": 229640,
       "name": "Underneath the Tree",
       "url": "https://open.spotify.com/track/3YZE5qDV7u1ZD1gZc47ZeR"
@@ -23864,7 +23938,7 @@
       ],
       "date_added": "2022-11-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-29",
+      "date_removed": null,
       "duration_ms": 221054,
       "name": "V\u00e1no\u010dn\u00ed (feat. Teri Blitzen)",
       "url": "https://open.spotify.com/track/2eDK36OyLEXUYP0DxlTLIE"

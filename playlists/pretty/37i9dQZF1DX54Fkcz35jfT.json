@@ -1,12 +1,12 @@
 {
   "description": "\u56fd\u5185\u5916\u306e\u69d8\u3005\u306a\u30b7\u30fc\u30f3\u3068\u5171\u9cf4\u3059\u308b\u65e5\u672c\u306e\u30e9\u30a6\u30c9\u30fb\u30ed\u30c3\u30af\u3092\u7279\u96c6\u3002Cover: FZMZ",
-  "num_followers": 42124,
+  "num_followers": 42144,
   "original_name": "Loud Rock Japan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyODU4MDY5MTkyYTgzYzA4NzBhOTc1MjYyZTFkMWMwZDY1Zjg0ODQy",
+  "snapshot_id": "MCwzZmUxNjUyY2MwZDlmMzQwYzA1OGZmZDNmMmM4ZjY1MjMwNmU0OGUx",
   "tracks": [
     {
       "added_at": "2023-11-30 15:00:00",
@@ -859,22 +859,6 @@
     {
       "added_at": "2023-11-30 15:00:00",
       "album": {
-        "name": "Luxury Disease (Japanese Version)",
-        "url": "https://open.spotify.com/album/1GDFRCws0YeYcDQYL6UWCD"
-      },
-      "artists": [
-        {
-          "name": "ONE OK ROCK",
-          "url": "https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO"
-        }
-      ],
-      "duration_ms": 227347,
-      "name": "Wonder - Japanese Version",
-      "url": "https://open.spotify.com/track/6hZA6dmEWKd7CVCT0FVFZO"
-    },
-    {
-      "added_at": "2023-11-30 15:00:00",
-      "album": {
         "name": "THE ETERNAL DOOM",
         "url": "https://open.spotify.com/album/35kPTUOLmfdvLb7IyrTInP"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 180666,
       "name": "\u5384\u707d",
       "url": "https://open.spotify.com/track/0IAJ4414Gaan0R3Eq6dtBm"
+    },
+    {
+      "added_at": "2023-11-30 15:00:00",
+      "album": {
+        "name": "Luxury Disease (Japanese Version)",
+        "url": "https://open.spotify.com/album/1GDFRCws0YeYcDQYL6UWCD"
+      },
+      "artists": [
+        {
+          "name": "ONE OK ROCK",
+          "url": "https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO"
+        }
+      ],
+      "duration_ms": 227347,
+      "name": "Wonder - Japanese Version",
+      "url": "https://open.spotify.com/track/6hZA6dmEWKd7CVCT0FVFZO"
     },
     {
       "added_at": "2023-11-30 15:00:00",
@@ -1495,18 +1495,18 @@
     {
       "added_at": "2023-11-30 15:00:00",
       "album": {
-        "name": "LUST (Selected Edition)",
-        "url": "https://open.spotify.com/album/5kAkYG1awEWhHuqDP5FjZE"
+        "name": "PLAY",
+        "url": "https://open.spotify.com/album/6qq2rGeaSuxtn4szFhLMVg"
       },
       "artists": [
         {
-          "name": "\u30b3\u30ed\u30ca\u30ca\u30e2\u30ec\u30e2\u30e2",
-          "url": "https://open.spotify.com/artist/1LrHPFKVeA6Lw0vffeFZbr"
+          "name": "ROTTENGRAFFTY",
+          "url": "https://open.spotify.com/artist/5VLauD4FsZKQzCZEuJsxSj"
         }
       ],
-      "duration_ms": 222479,
-      "name": "\u30d3\u30ad\u30cb\u30fb\u30b9\u30dd\u30fc\u30c4\u30fb\u30dd\u30f3\u30c1\u30f3",
-      "url": "https://open.spotify.com/track/3cSfR5ePuViozu47qMhxNv"
+      "duration_ms": 251400,
+      "name": "\u5bc2\u5bde -sekibaku-",
+      "url": "https://open.spotify.com/track/2CTniBM95HMN060rKGccXW"
     },
     {
       "added_at": "2023-11-30 15:00:00",
@@ -1559,18 +1559,18 @@
     {
       "added_at": "2023-11-30 15:00:00",
       "album": {
-        "name": "PLAY",
-        "url": "https://open.spotify.com/album/6qq2rGeaSuxtn4szFhLMVg"
+        "name": "LUST (Selected Edition)",
+        "url": "https://open.spotify.com/album/5kAkYG1awEWhHuqDP5FjZE"
       },
       "artists": [
         {
-          "name": "ROTTENGRAFFTY",
-          "url": "https://open.spotify.com/artist/5VLauD4FsZKQzCZEuJsxSj"
+          "name": "\u30b3\u30ed\u30ca\u30ca\u30e2\u30ec\u30e2\u30e2",
+          "url": "https://open.spotify.com/artist/1LrHPFKVeA6Lw0vffeFZbr"
         }
       ],
-      "duration_ms": 251400,
-      "name": "\u5bc2\u5bde -sekibaku-",
-      "url": "https://open.spotify.com/track/2CTniBM95HMN060rKGccXW"
+      "duration_ms": 222479,
+      "name": "\u30d3\u30ad\u30cb\u30fb\u30b9\u30dd\u30fc\u30c4\u30fb\u30dd\u30f3\u30c1\u30f3",
+      "url": "https://open.spotify.com/track/3cSfR5ePuViozu47qMhxNv"
     },
     {
       "added_at": "2023-11-30 15:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV6JokBKVkMy.md) - [plain]
 
 > The sound and soul that keeps Mauritius jamming
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,260 likes - 50 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,273 likes - 50 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV6JokBKVkMy.md) - [plain]
 | 46 | [Anita\-Papa / Creole\-Barè](https://open.spotify.com/track/5j5DHnAYh4qN7r7wkocP7a) | [Denis Azor](https://open.spotify.com/artist/07p5q6fIWYLesAR39CJQDf) | [Music from Mauritius](https://open.spotify.com/album/1DRPsjliENVvsUKDZ469x3) | 6:10 |
 | 47 | [Janvier](https://open.spotify.com/track/7ghFwRDUHXJjYHS9dr0zJ2) | [Andy Janvier](https://open.spotify.com/artist/2BKTbLVNXHa47v0BjuQZvS) | [Coulèr Mélanzé](https://open.spotify.com/album/4BmxLIj92iDtmHAuOnAiiB) | 4:06 |
 | 48 | [Touletemp \(feat\. Sista Queen\)](https://open.spotify.com/track/1fx4MLYw7whk15f4dvhqpX) | [Jah Mike](https://open.spotify.com/artist/5feVIF1cBHjeTWCFFVivoH), [Sista Queen](https://open.spotify.com/artist/7cI26ISQuWm0h8rlYL1so8) | [Enn lot kouler](https://open.spotify.com/album/3j1W3VSJEYDOJIK4V8RQok) | 3:57 |
-| 49 | [Sega Champagne](https://open.spotify.com/track/1e2rj3iOYXGEJ6Ybftt5Uc) | [Dj sebak](https://open.spotify.com/artist/2UuZrG6o0LIr6DHfRmaCaW), [Allkind](https://open.spotify.com/artist/4wwdxuQPc2GPHX7floaX97) | [Sega Champagne](https://open.spotify.com/album/3Cml3TVka9BZIw3Rz6st5Q) | 3:51 |
-| 50 | [Medley: créole comme l'espagnol / Séga charlot](https://open.spotify.com/track/2DwjoEPD7o6fibRYnd4Zyd) | [Narmine Ducap](https://open.spotify.com/artist/5Y9cLaiuHNHVI6cXDcBpbC) | [Crazé salle verte](https://open.spotify.com/album/3u7u5R4RCYrLbQSmUuoFKK) | 3:35 |
+| 49 | [Medley: créole comme l'espagnol / Séga charlot](https://open.spotify.com/track/2DwjoEPD7o6fibRYnd4Zyd) | [Narmine Ducap](https://open.spotify.com/artist/5Y9cLaiuHNHVI6cXDcBpbC) | [Crazé salle verte](https://open.spotify.com/album/3u7u5R4RCYrLbQSmUuoFKK) | 3:35 |
+| 50 | [Sega Champagne](https://open.spotify.com/track/1e2rj3iOYXGEJ6Ybftt5Uc) | [Dj sebak](https://open.spotify.com/artist/2UuZrG6o0LIr6DHfRmaCaW), [Allkind](https://open.spotify.com/artist/4wwdxuQPc2GPHX7floaX97) | [Sega Champagne](https://open.spotify.com/album/3Cml3TVka9BZIw3Rz6st5Q) | 3:51 |
 
-Snapshot ID: `MCxmNDQ2ZTVlOGNmMWE0MTg3MjZhYzAwZDUzYWQ2M2ZmMjI3NDU4MTM4`
+Snapshot ID: `MCxlNzZiN2NiNjc0NDg2Y2FlNjQ0N2RhNTU2OTVkMWIwZTk5MDQ5YzVm`

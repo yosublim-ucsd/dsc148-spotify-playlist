@@ -1,12 +1,12 @@
 {
   "description": "Brighten your day with a mix of folksy mood boosters.",
-  "num_followers": 1967611,
+  "num_followers": 1967618,
   "original_name": "Happy Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmOTQ4ZDMzOGFmOGUzZWY5ZTg4YTM3ZDQ3YzgwNzE4NmU3YjQ0MGY2",
+  "snapshot_id": "MCwyYWM4MWU3YjhlNmJlNGFiM2YzNmUzOWI5YmMwNjhkMWQyYmEwMjQw",
   "tracks": [
     {
       "added_at": "2023-11-14 22:52:49",
@@ -223,18 +223,18 @@
     {
       "added_at": "2023-11-14 22:52:49",
       "album": {
-        "name": "Dream Your Life Away (Special Edition)",
-        "url": "https://open.spotify.com/album/5S9b8euumqMhQbMk0zzQdH"
+        "name": "Little Neon Limelight",
+        "url": "https://open.spotify.com/album/4FcLsVJY0NIKB8V9aHc1wh"
       },
       "artists": [
         {
-          "name": "Vance Joy",
-          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
+          "name": "Houndmouth",
+          "url": "https://open.spotify.com/artist/7EGwUS3c5dXduO4sMyLWC5"
         }
       ],
-      "duration_ms": 223640,
-      "name": "Mess Is Mine",
-      "url": "https://open.spotify.com/track/29jtZGdgpE2lWm2mkIt6HS"
+      "duration_ms": 239881,
+      "name": "Sedona",
+      "url": "https://open.spotify.com/track/2MQhTbX792AT6YyzwLz9dt"
     },
     {
       "added_at": "2023-11-14 22:52:49",
@@ -255,18 +255,18 @@
     {
       "added_at": "2023-11-14 22:52:49",
       "album": {
-        "name": "Little Neon Limelight",
-        "url": "https://open.spotify.com/album/4FcLsVJY0NIKB8V9aHc1wh"
+        "name": "Dream Your Life Away (Special Edition)",
+        "url": "https://open.spotify.com/album/5S9b8euumqMhQbMk0zzQdH"
       },
       "artists": [
         {
-          "name": "Houndmouth",
-          "url": "https://open.spotify.com/artist/7EGwUS3c5dXduO4sMyLWC5"
+          "name": "Vance Joy",
+          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
         }
       ],
-      "duration_ms": 239881,
-      "name": "Sedona",
-      "url": "https://open.spotify.com/track/2MQhTbX792AT6YyzwLz9dt"
+      "duration_ms": 223640,
+      "name": "Mess Is Mine",
+      "url": "https://open.spotify.com/track/29jtZGdgpE2lWm2mkIt6HS"
     },
     {
       "added_at": "2023-11-14 22:52:49",
@@ -499,22 +499,6 @@
     {
       "added_at": "2023-11-14 22:52:49",
       "album": {
-        "name": "Paradise Valley",
-        "url": "https://open.spotify.com/album/712VoD72K500yLhhgqCyVe"
-      },
-      "artists": [
-        {
-          "name": "John Mayer",
-          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
-        }
-      ],
-      "duration_ms": 253493,
-      "name": "Wildfire",
-      "url": "https://open.spotify.com/track/0QTCTu0CXv4X1JEE4gNpGv"
-    },
-    {
-      "added_at": "2023-11-14 22:52:49",
-      "album": {
         "name": "Boys & Girls (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0ZyG5ztRbkxjZdKQ94N0lC"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 226186,
       "name": "Hold On",
       "url": "https://open.spotify.com/track/436bx0eHJS5DPgIyfsDU31"
+    },
+    {
+      "added_at": "2023-11-14 22:52:49",
+      "album": {
+        "name": "Paradise Valley",
+        "url": "https://open.spotify.com/album/712VoD72K500yLhhgqCyVe"
+      },
+      "artists": [
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+        }
+      ],
+      "duration_ms": 253493,
+      "name": "Wildfire",
+      "url": "https://open.spotify.com/track/0QTCTu0CXv4X1JEE4gNpGv"
     },
     {
       "added_at": "2023-11-14 22:52:49",
@@ -827,6 +827,22 @@
     {
       "added_at": "2023-11-14 22:52:49",
       "album": {
+        "name": "River Fools & Mountain Saints",
+        "url": "https://open.spotify.com/album/6OsF7JfA48kcvWcV4auWIl"
+      },
+      "artists": [
+        {
+          "name": "Ian Noe",
+          "url": "https://open.spotify.com/artist/2TEpPi5SFalflhpcQHq3lB"
+        }
+      ],
+      "duration_ms": 193080,
+      "name": "Tom Barrett",
+      "url": "https://open.spotify.com/track/6YbQXUNroKs9qofA8gttor"
+    },
+    {
+      "added_at": "2023-11-14 22:52:49",
+      "album": {
         "name": "Ready or Not (feat. Sierra Ferrell)",
         "url": "https://open.spotify.com/album/5JcW9l6CD3JJbn7DbJrrkh"
       },
@@ -847,22 +863,6 @@
     {
       "added_at": "2023-11-14 22:52:49",
       "album": {
-        "name": "River Fools & Mountain Saints",
-        "url": "https://open.spotify.com/album/6OsF7JfA48kcvWcV4auWIl"
-      },
-      "artists": [
-        {
-          "name": "Ian Noe",
-          "url": "https://open.spotify.com/artist/2TEpPi5SFalflhpcQHq3lB"
-        }
-      ],
-      "duration_ms": 193080,
-      "name": "Tom Barrett",
-      "url": "https://open.spotify.com/track/6YbQXUNroKs9qofA8gttor"
-    },
-    {
-      "added_at": "2023-11-14 22:52:49",
-      "album": {
         "name": "Chlo\u00eb and the Next 20th Century",
         "url": "https://open.spotify.com/album/2tfg6zi5pwuYeQ0IHYnOBz"
       },
@@ -879,22 +879,6 @@
     {
       "added_at": "2023-11-14 22:52:49",
       "album": {
-        "name": "Living Mirage",
-        "url": "https://open.spotify.com/album/27LNgTSAGxE2fitrsCukmT"
-      },
-      "artists": [
-        {
-          "name": "The Head And The Heart",
-          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
-        }
-      ],
-      "duration_ms": 252301,
-      "name": "People Need A Melody",
-      "url": "https://open.spotify.com/track/5tlu2nA8GxkDx8UTKG1rLV"
-    },
-    {
-      "added_at": "2023-11-14 22:52:49",
-      "album": {
         "name": "The Love Still Held Me Near",
         "url": "https://open.spotify.com/album/57arSTDRPVYZRm6uIuR1ym"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 236840,
       "name": "Underground",
       "url": "https://open.spotify.com/track/6bpoSwD4xu2WWIVQH07LMa"
+    },
+    {
+      "added_at": "2023-11-14 22:52:49",
+      "album": {
+        "name": "Living Mirage",
+        "url": "https://open.spotify.com/album/27LNgTSAGxE2fitrsCukmT"
+      },
+      "artists": [
+        {
+          "name": "The Head And The Heart",
+          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
+        }
+      ],
+      "duration_ms": 252301,
+      "name": "People Need A Melody",
+      "url": "https://open.spotify.com/track/5tlu2nA8GxkDx8UTKG1rLV"
     },
     {
       "added_at": "2023-11-14 22:52:49",
@@ -1235,6 +1235,34 @@
     {
       "added_at": "2023-11-14 22:52:49",
       "album": {
+        "name": "Rolling Golden Holy",
+        "url": "https://open.spotify.com/album/43mr98g3RoWlC3jyxAKf5I"
+      },
+      "artists": [
+        {
+          "name": "Bonny Light Horseman",
+          "url": "https://open.spotify.com/artist/0Qi9Fcmn1DJAoG8Agf5ibb"
+        },
+        {
+          "name": "Ana\u00efs Mitchell",
+          "url": "https://open.spotify.com/artist/7K5Lm5dxoEwEpOS0Fc3l3s"
+        },
+        {
+          "name": "Eric D. Johnson",
+          "url": "https://open.spotify.com/artist/4LBdlNpHBD8dHPcVCrjSB6"
+        },
+        {
+          "name": "Josh Kaufman",
+          "url": "https://open.spotify.com/artist/3kKgcBXTgyAZhXPV3AaSZc"
+        }
+      ],
+      "duration_ms": 196126,
+      "name": "California",
+      "url": "https://open.spotify.com/track/0YuFmCuwYxzytcLRKTn5Fg"
+    },
+    {
+      "added_at": "2023-11-14 22:52:49",
+      "album": {
         "name": "My Boy",
         "url": "https://open.spotify.com/album/6BkPM6yssffxIhcKimWI3B"
       },
@@ -1279,34 +1307,6 @@
       "duration_ms": 213525,
       "name": "Requiem",
       "url": "https://open.spotify.com/track/6JBePQo5cw6z7PvCbkQ09t"
-    },
-    {
-      "added_at": "2023-11-14 22:52:49",
-      "album": {
-        "name": "Rolling Golden Holy",
-        "url": "https://open.spotify.com/album/43mr98g3RoWlC3jyxAKf5I"
-      },
-      "artists": [
-        {
-          "name": "Bonny Light Horseman",
-          "url": "https://open.spotify.com/artist/0Qi9Fcmn1DJAoG8Agf5ibb"
-        },
-        {
-          "name": "Ana\u00efs Mitchell",
-          "url": "https://open.spotify.com/artist/7K5Lm5dxoEwEpOS0Fc3l3s"
-        },
-        {
-          "name": "Eric D. Johnson",
-          "url": "https://open.spotify.com/artist/4LBdlNpHBD8dHPcVCrjSB6"
-        },
-        {
-          "name": "Josh Kaufman",
-          "url": "https://open.spotify.com/artist/3kKgcBXTgyAZhXPV3AaSZc"
-        }
-      ],
-      "duration_ms": 196126,
-      "name": "California",
-      "url": "https://open.spotify.com/track/0YuFmCuwYxzytcLRKTn5Fg"
     },
     {
       "added_at": "2023-11-14 22:52:49",

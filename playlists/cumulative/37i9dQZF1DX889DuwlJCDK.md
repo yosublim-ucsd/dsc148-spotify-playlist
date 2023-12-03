@@ -4,7 +4,7 @@
 
 > 新進気鋭の邦ロックサウンドをひとつのプレイリストに。Cover: マルシィ
 
-353 songs - 21 hr 39 min
+354 songs - 21 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,7 +99,8 @@
 | [Memory](https://open.spotify.com/track/5VjIsZGx4Io1lGrjDeZZtI) | [Qujila Yoluno Machi](https://open.spotify.com/artist/3hdtbNgPSlPKcE082xdCMq) | [Memory](https://open.spotify.com/album/1BZIL3wcac9vq6EQUXZMbl) | 3:37 | 2023-11-07 |  |
 | [MID DAY](https://open.spotify.com/track/4gSM9yLYDnBlBZBhNCFTvO) | [JET JACKET](https://open.spotify.com/artist/3ijo3WLa2yLL37wtOVMNta) | [MID DAY](https://open.spotify.com/album/0FUAPjCkQMjG8FdiIbntVH) | 3:53 | 2023-10-10 | 2023-11-22 |
 | [minamisenju](https://open.spotify.com/track/1mp86sit6E3951MCbwvAj3) | [downt](https://open.spotify.com/artist/1u3B7ghkXe7pvfxZTmBJlV) | [SAKANA e.p.](https://open.spotify.com/album/0ZeigWcAC16AtsdVXBzLJ5) | 3:13 | 2023-07-27 | 2023-08-03 |
-| [Mix](https://open.spotify.com/track/0ObVtzwc7YEuMjDQSTQyCW) | [マルシィ](https://open.spotify.com/artist/7oQ6zxSp4eQjvVkk9rGIDV) | [Mix](https://open.spotify.com/album/00p5rwTYsV62tV3RXRYZAO) | 3:29 | 2023-11-28 |  |
+| [Mix](https://open.spotify.com/track/0ObVtzwc7YEuMjDQSTQyCW) | [マルシィ](https://open.spotify.com/artist/7oQ6zxSp4eQjvVkk9rGIDV) | [Mix](https://open.spotify.com/album/00p5rwTYsV62tV3RXRYZAO) | 3:29 | 2023-11-28 | 2023-12-03 |
+| [Mix](https://open.spotify.com/track/4VroMacNKHZjmi2OruZzmO) | [マルシィ](https://open.spotify.com/artist/7oQ6zxSp4eQjvVkk9rGIDV) | [Candle](https://open.spotify.com/album/1Dy7aa6yDhK1X0RdrVnHhq) | 3:30 | 2023-11-30 |  |
 | [more than words](https://open.spotify.com/track/2ZT6eELxeETGamaiXu6vmk) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [more than words](https://open.spotify.com/album/6fdrt4Aa8bJIHb5L0GTn7V) | 4:49 | 2023-09-05 |  |
 | [mp4](https://open.spotify.com/track/3nTfpPpnDVCHulWWRu1Dmk) | [POOLS](https://open.spotify.com/artist/12vqf5QMISRc8umYNvqFw8) | [mp4](https://open.spotify.com/album/1fiLuScWK4IZfM2qVTbEXn) | 2:32 | 2023-11-21 | 2023-11-29 |
 | [Musica](https://open.spotify.com/track/1iaDqtkMhnPYa8QDS6KFOy) | [Brandy Senki](https://open.spotify.com/artist/2Y1i6bxyYpz8SaVBfWZHeT) | [Jinrui metsubou Wonderland](https://open.spotify.com/album/1lyPHH5S3dpgLoAUtkgHSk) | 3:01 | 2023-08-08 | 2023-08-16 |

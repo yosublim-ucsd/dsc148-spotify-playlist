@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Mujeres mexicanas ic\u00f3nicas del 2023 a todo volumen! Vivir Quintana en portada. ",
-  "num_followers": 79368,
+  "num_followers": 79373,
   "original_name": "EQUAL M\u00e9xico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZTI1NWYwYjhhZDVjYTA1YThjMWNiMTI3NjQ1YWI0OGVlODA2ZDk4",
+  "snapshot_id": "MCwyN2M5OTE4MGVkNTc1MzJjNDM1ZWUwMGEyZWQxYTMwNmM4OTRhOWQ3",
   "tracks": [
     {
       "added_at": "2023-11-29 12:16:00",
@@ -399,6 +399,22 @@
     {
       "added_at": "2023-11-29 12:16:00",
       "album": {
+        "name": "Tu Historia",
+        "url": "https://open.spotify.com/album/37hygnVgTNDZxFQ9FJMLII"
+      },
+      "artists": [
+        {
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+        }
+      ],
+      "duration_ms": 198558,
+      "name": "Mismo Amor",
+      "url": "https://open.spotify.com/track/7stAazwZr0UUVRd5glymAz"
+    },
+    {
+      "added_at": "2023-11-29 12:16:00",
+      "album": {
         "name": "daydreaming",
         "url": "https://open.spotify.com/album/1zsf05JNT2seWKnDbwQzfn"
       },
@@ -427,22 +443,6 @@
       "duration_ms": 232283,
       "name": "EL FINAL",
       "url": "https://open.spotify.com/track/2v0HNNJ3mijsvzOgHq8EHO"
-    },
-    {
-      "added_at": "2023-11-29 12:16:00",
-      "album": {
-        "name": "Tu Historia",
-        "url": "https://open.spotify.com/album/37hygnVgTNDZxFQ9FJMLII"
-      },
-      "artists": [
-        {
-          "name": "Julieta Venegas",
-          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
-        }
-      ],
-      "duration_ms": 198558,
-      "name": "Mismo Amor",
-      "url": "https://open.spotify.com/track/7stAazwZr0UUVRd5glymAz"
     },
     {
       "added_at": "2023-11-29 12:16:00",
@@ -743,6 +743,22 @@
     {
       "added_at": "2023-11-29 12:16:00",
       "album": {
+        "name": "Mala Amiga",
+        "url": "https://open.spotify.com/album/7uVtPIsdz0UNaiWZOXWKZr"
+      },
+      "artists": [
+        {
+          "name": "Karina Galicia",
+          "url": "https://open.spotify.com/artist/0syMDHmkYbx5dG8bOnZ60z"
+        }
+      ],
+      "duration_ms": 195478,
+      "name": "Mala Amiga",
+      "url": "https://open.spotify.com/track/6acWLZMJWZw29wcehfY1WU"
+    },
+    {
+      "added_at": "2023-11-29 12:16:00",
+      "album": {
         "name": "No s\u00e9 si vuelva a verte",
         "url": "https://open.spotify.com/album/5FV6Y27m253VFLvB5or7UH"
       },
@@ -759,18 +775,18 @@
     {
       "added_at": "2023-11-29 12:16:00",
       "album": {
-        "name": "Mala Amiga",
-        "url": "https://open.spotify.com/album/7uVtPIsdz0UNaiWZOXWKZr"
+        "name": "Hola Lola",
+        "url": "https://open.spotify.com/album/5QMxRYcUld2N5Oe75ePcge"
       },
       "artists": [
         {
-          "name": "Karina Galicia",
-          "url": "https://open.spotify.com/artist/0syMDHmkYbx5dG8bOnZ60z"
+          "name": "Andru",
+          "url": "https://open.spotify.com/artist/3oOQ670Uw0UyVnmj9XM58W"
         }
       ],
-      "duration_ms": 195478,
-      "name": "Mala Amiga",
-      "url": "https://open.spotify.com/track/6acWLZMJWZw29wcehfY1WU"
+      "duration_ms": 237142,
+      "name": "Hola Lola",
+      "url": "https://open.spotify.com/track/5IfspIqcWREksXTijVm3M9"
     },
     {
       "added_at": "2023-11-29 12:16:00",
@@ -791,22 +807,6 @@
       "duration_ms": 240000,
       "name": "POLVO",
       "url": "https://open.spotify.com/track/6vA5gkHwob4xiw200jHeDa"
-    },
-    {
-      "added_at": "2023-11-29 12:16:00",
-      "album": {
-        "name": "Hola Lola",
-        "url": "https://open.spotify.com/album/5QMxRYcUld2N5Oe75ePcge"
-      },
-      "artists": [
-        {
-          "name": "Andru",
-          "url": "https://open.spotify.com/artist/3oOQ670Uw0UyVnmj9XM58W"
-        }
-      ],
-      "duration_ms": 237142,
-      "name": "Hola Lola",
-      "url": "https://open.spotify.com/track/5IfspIqcWREksXTijVm3M9"
     },
     {
       "added_at": "2023-11-29 12:16:00",

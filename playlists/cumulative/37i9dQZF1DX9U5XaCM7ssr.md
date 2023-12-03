@@ -4,11 +4,12 @@
 
 > Lagu\-lagu mengsedih yang menyayat hati 😭
 
-116 songs - 8 hr 14 min
+117 songs - 8 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [Abadi \- Indo Version](https://open.spotify.com/track/0ayofCPOAkAr15OoUvq1ft) | [Dendi Nata](https://open.spotify.com/artist/509YLwDnYeTaVfX0Kl6Jdn) | [Abadi \(Indo Version\)](https://open.spotify.com/album/2HhelrWGdpxRtdBZO2E9vd) | 4:17 | 2023-06-07 |  |
+| [Abadi \- Indo Version](https://open.spotify.com/track/0ayofCPOAkAr15OoUvq1ft) | [Dendi Nata](https://open.spotify.com/artist/509YLwDnYeTaVfX0Kl6Jdn) | [Abadi \(Indo Version\)](https://open.spotify.com/album/2HhelrWGdpxRtdBZO2E9vd) | 4:17 | 2023-06-07 | 2023-12-03 |
+| [Abadi \- Indo Version](https://open.spotify.com/track/6F1k53k4zbTYUHjmBR8ZYn) | [Dendi Nata](https://open.spotify.com/artist/509YLwDnYeTaVfX0Kl6Jdn) | [Abadi \(Indo Version\)](https://open.spotify.com/album/0eBQURGEgpCvD6SlYwdXQD) | 4:17 | 2023-11-13 |  |
 | [Ada Selamanya](https://open.spotify.com/track/20RyUmtp32IZ52AqGH2B01) | [For Revenge](https://open.spotify.com/artist/0f6TyESD8E1mD2oLJ4TGv1), [Fiersa Besari](https://open.spotify.com/artist/06QVnTCdjs4jPKO0487EGV) | [Ada Selamanya](https://open.spotify.com/album/3OMKXDMhWMBVl9FmCZ83WK) | 3:21 | 2023-06-09 | 2023-07-07 |
 | [Akhir Tak Bahagia](https://open.spotify.com/track/0BYoWATcndOBcsCfKdTKRx) | [Misellia](https://open.spotify.com/artist/5IjwAAk3njAeiFY1InInsn) | [Akhir Tak Bahagia](https://open.spotify.com/album/7zv0LcKjGlAUiTXQJzqhSY) | 3:05 | 2022-11-28 | 2023-03-02 |
 | [Aku Yang Salah](https://open.spotify.com/track/0OgwkVbQ4jVfsZJO4Xs9hC) | [Mahalini](https://open.spotify.com/artist/3wOsYKZM0zcKNasi3I7fP4), [Nuca](https://open.spotify.com/artist/5x3nSujruZLuB6xBicI6Ai) | [Aku Yang Salah](https://open.spotify.com/album/3H5eQDyoOyoOy9yYXnyTPh) | 4:10 | 2023-02-03 | 2023-10-01 |

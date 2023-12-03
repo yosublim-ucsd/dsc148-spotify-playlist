@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Y4P09E4dNP.md) - [plain]
 
 > A fusion of highlife and hip\-hop, these hip\-life jams are undeniable.
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,831 likes - 39 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,860 likes - 39 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Y4P09E4dNP.md) - [plain]
 | 18 | [Theresa](https://open.spotify.com/track/4dqtM8dvFvK7GWE1bjDYI4) | [Daddy Lumba](https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr) | [Obi Ate Meso Buo](https://open.spotify.com/album/0R50BVSdGAr8Tj9R8JFuF7) | 5:39 |
 | 19 | [Yesterday](https://open.spotify.com/track/2lw3bvokPAzxFWsfsWYoOH) | [R2Bees](https://open.spotify.com/artist/0LFsP7WPfu5inz9a1amcE4) | [Site 15](https://open.spotify.com/album/4uI60dVqyZ6pVU36oUb0j2) | 3:23 |
 | 20 | [Aketesia](https://open.spotify.com/track/6D4DkmGGCliXAlqsZVgRkA) | [Kontihene](https://open.spotify.com/artist/0uKjsrSxXWqfWF2mFyehs7) | [Nyankonton](https://open.spotify.com/album/3Nu5sSuQWQX7QcZ80GD7vc) | 5:11 |
-| 21 | [Wafom](https://open.spotify.com/track/5BZqJbegEpkD2SjCYBxkfC) | [Daasebre Gyamenah](https://open.spotify.com/artist/6esNAzhyTV6I5TaWXhqO12) | [Ultimate Classics, Vol\. 1](https://open.spotify.com/album/0nNcFT8sn4ljkpKvgfxkTi) | 5:44 |
-| 22 | [Dondo](https://open.spotify.com/track/6qXsfvpsehSXQqPSS22DKg) | [Bradez](https://open.spotify.com/artist/4NkWh677uYqY9rWwqThNEL), [Kwabena Kwabena](https://open.spotify.com/artist/6zKu61RG80pBKOMUbBKNMr) | [Dondo](https://open.spotify.com/album/3N2CZfeQGWnlbuMIPodm2A) | 5:51 |
+| 21 | [Dondo](https://open.spotify.com/track/6qXsfvpsehSXQqPSS22DKg) | [Bradez](https://open.spotify.com/artist/4NkWh677uYqY9rWwqThNEL), [Kwabena Kwabena](https://open.spotify.com/artist/6zKu61RG80pBKOMUbBKNMr) | [Dondo](https://open.spotify.com/album/3N2CZfeQGWnlbuMIPodm2A) | 5:51 |
+| 22 | [Wafom](https://open.spotify.com/track/5BZqJbegEpkD2SjCYBxkfC) | [Daasebre Gyamenah](https://open.spotify.com/artist/6esNAzhyTV6I5TaWXhqO12) | [Ultimate Classics, Vol\. 1](https://open.spotify.com/album/0nNcFT8sn4ljkpKvgfxkTi) | 5:44 |
 | 23 | [Metua](https://open.spotify.com/track/5bExIlmqGqjAEqem7Bhg4C) | [Amerado](https://open.spotify.com/artist/4vNCRfPa5uflWbtrBxEZew), [Kuami Eugene](https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl) | [Metua](https://open.spotify.com/album/7q7TpogtxZn3EZ0hBJWmt3) | 3:49 |
 | 24 | [Atweetan](https://open.spotify.com/track/5RUySragatyT0s0BZZbh7b) | [Kofi Nti](https://open.spotify.com/artist/2ms1z7qBF4uLM8hzdjGhL9), [Ofori Amponsah](https://open.spotify.com/artist/5JZrKd8FCWdpkGwn6iEkXg) | [Rakia](https://open.spotify.com/album/7dXy5OVxXCdsTHvFeSEG7T) | 5:06 |
 | 25 | [Falling](https://open.spotify.com/track/3HfwFXzBr7AwLKHyLPGWHL) | [Smallgod](https://open.spotify.com/artist/4qgwPhVCW359a62QYueaVP), [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V), [Darkoo](https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR) | [Connecting the Dots](https://open.spotify.com/album/1q6SQV8J22Is1SsgKAh4eJ) | 2:45 |
@@ -48,4 +48,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Y4P09E4dNP.md) - [plain]
 | 38 | [Atadwe](https://open.spotify.com/track/77szM9v9r3cQLb753RcRjW) | [Papa Sheee](https://open.spotify.com/artist/0ktHlUz0hzcpJnnAJ7KDPw) | [Atadwe](https://open.spotify.com/album/1RmAEbz2aviWvoa4YwUQNk) | 6:00 |
 | 39 | [Oye Ohene featuring Tinny](https://open.spotify.com/track/4SOb4NVBitP5gvKClrIbvq) | [Obrafour](https://open.spotify.com/artist/55YBIMBzI2Xx5gJ6Sqo1GG) | [Nte Tee Pa](https://open.spotify.com/album/1UJkGB9Kbbd7Z5kMYR1YRv) | 5:00 |
 
-Snapshot ID: `MCw3MGU3MTY3MDJhNWZjNmYyMDEzM2ViZDE3NWNmZDg4NzE2NjU3OTcy`
+Snapshot ID: `MCw5ZmY4NjI3OWNmN2E1YmQzZjQyZWJjZDU4YjBlMTk1NWRiODI1MGNh`

@@ -4,7 +4,7 @@
 
 > African Praise music taking you all the way up!
 
-113 songs - 9 hr 37 min
+114 songs - 9 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Bigger Everyday](https://open.spotify.com/track/4VGnb9i2pDrPhppHLmfVHb) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM), [Festizie](https://open.spotify.com/artist/2uimm8D8LQw4mlFRGWPLQu), [The membrane](https://open.spotify.com/artist/0XaFHkogeaW0EN4jeO0qI5), [Uwa](https://open.spotify.com/artist/3PhBxIUdrJCXeEprUL5pkV), [Chris Heaven](https://open.spotify.com/artist/0wWIHR4oX0miVq88XpVoYZ), [Temple](https://open.spotify.com/artist/6qicD8blmXzFzYEgGYfYfa) | [Too Faithful](https://open.spotify.com/album/1ELb6tHupgVxBvvSURINnN) | 6:12 | 2023-04-06 |  |
 | [BLESS ME](https://open.spotify.com/track/7EUUYhtpRLorHFzPqzkdsW) | [Jaderah](https://open.spotify.com/artist/5h0YEFbvd46PMori1xWBFM) | [BLESS ME](https://open.spotify.com/album/2XHD6EX55HJfkZXGqLOH2M) | 3:14 | 2023-09-15 | 2023-10-12 |
 | [Blessings \(Everywhere I Go\)](https://open.spotify.com/track/6wgw0w5N3AQ7AfHcoL2JqW) | [Noël Mio](https://open.spotify.com/artist/7JzZd8sCTmIpJW62zNS0ta), [Marizu](https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9), [Kingdmusic](https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL), [Theresa Phondo](https://open.spotify.com/artist/6mCpEfb5IMFQ2Iqtl1h8iX) | [Blessings \(Everywhere I Go\)](https://open.spotify.com/album/0EpZhsAfVEDl1vGfhV6mMg) | 3:03 | 2023-09-01 | 2023-09-28 |
+| [Carry me like Baby](https://open.spotify.com/track/2g5uy0nM9DW0JJJLefJFgJ) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [Blessed](https://open.spotify.com/album/5wyDRKWKtPq3znLWVOtUIk) | 3:12 | 2023-12-01 |  |
 | [Cock & Bull](https://open.spotify.com/track/3ZRgwGkJsp5LKVUopyVfUg) | [Prinx Emmanuel](https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz) | [Cock & Bull](https://open.spotify.com/album/6Uogs97Nbk2Ed4UtBJYQdi) | 10:02 | 2023-04-14 | 2023-09-04 |
 | [COME AND SEE](https://open.spotify.com/track/6AcuWVJLutTcYQJQSikgZI) | [Joepraize](https://open.spotify.com/artist/36zaJBikfrPslhG3cYnv8s), [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [The Assignment](https://open.spotify.com/album/2HuCRu5g3Et1hPhutXCJoK) | 4:22 | 2023-04-06 |  |
 | [Commando](https://open.spotify.com/track/7xXuJDOPMq2oIWryexZQ5A) | [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9), [Oyije](https://open.spotify.com/artist/5yyv47kIRS1JBvjBzDOyGa), [Rehmahz](https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY) | [Commando](https://open.spotify.com/album/2pyYdLMR85a4xogAD5ikcn) | 2:33 | 2023-08-25 | 2023-09-15 |
@@ -107,7 +108,7 @@
 | [Tobechukwu \- Live](https://open.spotify.com/track/79zFqU5mmz9wnuKfjaiPJp) | [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn), [MERCY CHINWO BLESSED](https://open.spotify.com/artist/1wo9fKt92KBDi8UxJyGFJI) | [HALLELUJAH LIVE](https://open.spotify.com/album/5xe3knii9RbZzikwkiIqBY) | 8:08 | 2023-04-06 |  |
 | [Turn Me Around](https://open.spotify.com/track/0pvx4EQPY5ag9KKQzTYTNu) | [Samsong](https://open.spotify.com/artist/2vPVXxqaSgF7s5U5PrXNUS) | [On Top of the World](https://open.spotify.com/album/27L74fWY70e6BpJV85QPYn) | 4:49 | 2023-04-06 | 2023-07-15 |
 | [W.O.W \(Walking On Water\) \- Reprise](https://open.spotify.com/track/1xpO4efGhPiVhXMdxGfV29) | [Toluwanimee](https://open.spotify.com/artist/5dfvaMnwLZAGCIp6YNsgiI) | [W.O.W \(Walking On Water\) \[Reprise\]](https://open.spotify.com/album/5ferhImBZxXX8CSe2f7Gf8) | 8:04 | 2023-09-29 | 2023-10-09 |
-| [We Praise You Lord](https://open.spotify.com/track/5PIWHAMG8q65e3N3R5sO6Q) | [Kayode Akojenu](https://open.spotify.com/artist/4O48ObVF6aHUEOgTVaNcwj) | [African Praise](https://open.spotify.com/album/5XNTJwz4mGTJAVjNE9gpFn) | 1:31 | 2023-04-06 |  |
+| [We Praise You Lord](https://open.spotify.com/track/5PIWHAMG8q65e3N3R5sO6Q) | [Kayode Akojenu](https://open.spotify.com/artist/4O48ObVF6aHUEOgTVaNcwj) | [African Praise](https://open.spotify.com/album/5XNTJwz4mGTJAVjNE9gpFn) | 1:31 | 2023-04-06 | 2023-12-03 |
 | [What I Want II](https://open.spotify.com/track/3xRjZHi4uuP70BDnqmrxJp) | [Elikem Kofi](https://open.spotify.com/artist/2C7IIt1lmxuWOGnzJ9bFkl), [CalledOut Music](https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH) | [What I Want II](https://open.spotify.com/album/3FYbMrsCX9Fqk3Y7b5KrXG) | 3:00 | 2023-08-18 | 2023-09-13 |
 | [When I See You](https://open.spotify.com/track/2s4m4TSn6vl0y2fdJZyUkG) | [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM) | [The Birth of Revival](https://open.spotify.com/album/2Cglyux6VJ6U1fcLaDGtHH) | 13:32 | 2023-04-06 |  |
 | [Who Is on the Lord's Side](https://open.spotify.com/track/5pVeIe34S5rbP6FZAEahBS) | [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM), [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [The Birth of Revival](https://open.spotify.com/album/2Cglyux6VJ6U1fcLaDGtHH) | 10:29 | 2023-04-06 |  |

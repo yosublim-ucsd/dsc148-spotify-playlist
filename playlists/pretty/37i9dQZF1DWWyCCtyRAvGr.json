@@ -1,12 +1,12 @@
 {
   "description": "A relaxing evening with a smooth glass never sounded so good. Hit play and let the room fill with some of the classics.",
-  "num_followers": 163364,
+  "num_followers": 163456,
   "original_name": "Blues on the Rocks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlODVhYjg1ZjUzYTU1OTUzZWFmM2RkNDJjMGRiMTcyNzJiZmYzMjkw",
+  "snapshot_id": "MCxkNjdhY2Q5OWFhMmU0M2U3YTMyN2I3MGVlMWZjMzJmMjYyOTlmZDU1",
   "tracks": [
     {
       "added_at": "2023-10-05 13:18:26",
@@ -519,6 +519,22 @@
     {
       "added_at": "2023-10-05 13:18:26",
       "album": {
+        "name": "Hung Down Head",
+        "url": "https://open.spotify.com/album/4x3NEnpfAk2NY3jD6UDLEV"
+      },
+      "artists": [
+        {
+          "name": "Lowell Fulson",
+          "url": "https://open.spotify.com/artist/3VhvGNnWfzmlEyiuhzdgf5"
+        }
+      ],
+      "duration_ms": 189466,
+      "name": "Reconsider Baby",
+      "url": "https://open.spotify.com/track/65JvAtDMWtNIjDCDOLeJ2A"
+    },
+    {
+      "added_at": "2023-10-05 13:18:26",
+      "album": {
         "name": "The Blues Don't Lie",
         "url": "https://open.spotify.com/album/4l9eneOLKyG0u5W4bkDQwp"
       },
@@ -535,22 +551,6 @@
       "duration_ms": 222000,
       "name": "Follow The Money (feat. James Taylor)",
       "url": "https://open.spotify.com/track/0BjPesQ5R1GbeAqziScKAs"
-    },
-    {
-      "added_at": "2023-10-05 13:18:26",
-      "album": {
-        "name": "Hung Down Head",
-        "url": "https://open.spotify.com/album/4x3NEnpfAk2NY3jD6UDLEV"
-      },
-      "artists": [
-        {
-          "name": "Lowell Fulson",
-          "url": "https://open.spotify.com/artist/3VhvGNnWfzmlEyiuhzdgf5"
-        }
-      ],
-      "duration_ms": 189466,
-      "name": "Reconsider Baby",
-      "url": "https://open.spotify.com/track/65JvAtDMWtNIjDCDOLeJ2A"
     },
     {
       "added_at": "2023-10-05 13:18:26",
@@ -603,22 +603,6 @@
     {
       "added_at": "2023-10-05 13:18:26",
       "album": {
-        "name": "Poet Of the Blues (Mojo Workin'- Blues For The Next Generation)",
-        "url": "https://open.spotify.com/album/5kOOtdwY3JI17osYqWEbnD"
-      },
-      "artists": [
-        {
-          "name": "Willie Dixon",
-          "url": "https://open.spotify.com/artist/5v8WPpMk60cqZbuZLdXjKY"
-        }
-      ],
-      "duration_ms": 295466,
-      "name": "Spoonful",
-      "url": "https://open.spotify.com/track/6c2qCpSjexlM9HYg9TnFFt"
-    },
-    {
-      "added_at": "2023-10-05 13:18:26",
-      "album": {
         "name": "His Best: The Electric B.B. King (Expanded Edition)",
         "url": "https://open.spotify.com/album/5mdl9vCNEXZl1EbRdHMRW4"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 309373,
       "name": "Don't Answer The Door",
       "url": "https://open.spotify.com/track/5JIsQC6ObGhzzRHMdEPMdV"
+    },
+    {
+      "added_at": "2023-10-05 13:18:26",
+      "album": {
+        "name": "Poet Of the Blues (Mojo Workin'- Blues For The Next Generation)",
+        "url": "https://open.spotify.com/album/5kOOtdwY3JI17osYqWEbnD"
+      },
+      "artists": [
+        {
+          "name": "Willie Dixon",
+          "url": "https://open.spotify.com/artist/5v8WPpMk60cqZbuZLdXjKY"
+        }
+      ],
+      "duration_ms": 295466,
+      "name": "Spoonful",
+      "url": "https://open.spotify.com/track/6c2qCpSjexlM9HYg9TnFFt"
     },
     {
       "added_at": "2023-10-05 13:18:26",
@@ -871,6 +871,22 @@
     {
       "added_at": "2023-10-05 13:18:26",
       "album": {
+        "name": "Fragments - Time Out of Mind Sessions (1996-1997): The Bootleg Series, Vol. 17",
+        "url": "https://open.spotify.com/album/145Jtm8B3iZcxttgY9Y5NJ"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "duration_ms": 214320,
+      "name": "Dirt Road Blues - 2022 Remix",
+      "url": "https://open.spotify.com/track/6QEmvsAYHNRZ5D7lyq6Nvf"
+    },
+    {
+      "added_at": "2023-10-05 13:18:26",
+      "album": {
         "name": "Traveler's Blues",
         "url": "https://open.spotify.com/album/4qZssWithmdjNIlbve7XJ3"
       },
@@ -887,22 +903,6 @@
       "duration_ms": 347360,
       "name": "Ball and Chain",
       "url": "https://open.spotify.com/track/5JrKfqQFOTwksNVdAUSF4b"
-    },
-    {
-      "added_at": "2023-10-05 13:18:26",
-      "album": {
-        "name": "Fragments - Time Out of Mind Sessions (1996-1997): The Bootleg Series, Vol. 17",
-        "url": "https://open.spotify.com/album/145Jtm8B3iZcxttgY9Y5NJ"
-      },
-      "artists": [
-        {
-          "name": "Bob Dylan",
-          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
-        }
-      ],
-      "duration_ms": 214320,
-      "name": "Dirt Road Blues - 2022 Remix",
-      "url": "https://open.spotify.com/track/6QEmvsAYHNRZ5D7lyq6Nvf"
     },
     {
       "added_at": "2023-10-05 13:18:26",
@@ -1135,6 +1135,22 @@
     {
       "added_at": "2023-10-05 13:18:26",
       "album": {
+        "name": "Your Lies",
+        "url": "https://open.spotify.com/album/1c9emJLzeTRuws8ov0S7JB"
+      },
+      "artists": [
+        {
+          "name": "The Cinelli Brothers",
+          "url": "https://open.spotify.com/artist/25Sjy5qO63Dpa7nqHjTTNF"
+        }
+      ],
+      "duration_ms": 193130,
+      "name": "Your Lies",
+      "url": "https://open.spotify.com/track/33ic6QylSASWCW3LI6qvqH"
+    },
+    {
+      "added_at": "2023-10-05 13:18:26",
+      "album": {
         "name": "West Side Soul (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2bonSc9cW7a0YcFBiH9naX"
       },
@@ -1167,18 +1183,18 @@
     {
       "added_at": "2023-10-05 13:18:26",
       "album": {
-        "name": "Your Lies",
-        "url": "https://open.spotify.com/album/1c9emJLzeTRuws8ov0S7JB"
+        "name": "Crackdown",
+        "url": "https://open.spotify.com/album/5ikMOG2XXGBIZrsccTOUhL"
       },
       "artists": [
         {
-          "name": "The Cinelli Brothers",
-          "url": "https://open.spotify.com/artist/25Sjy5qO63Dpa7nqHjTTNF"
+          "name": "GA-20",
+          "url": "https://open.spotify.com/artist/5lg8xPLWMK8R3EfQlKA5bT"
         }
       ],
-      "duration_ms": 193130,
-      "name": "Your Lies",
-      "url": "https://open.spotify.com/track/33ic6QylSASWCW3LI6qvqH"
+      "duration_ms": 211819,
+      "name": "Easy On The Eyes",
+      "url": "https://open.spotify.com/track/4mEITOF0rKhIZr3rBJuwk0"
     },
     {
       "added_at": "2023-10-05 13:18:26",
@@ -1195,22 +1211,6 @@
       "duration_ms": 212200,
       "name": "Caldonia",
       "url": "https://open.spotify.com/track/3JhhFy0eBmSqNOegoaIUff"
-    },
-    {
-      "added_at": "2023-10-05 13:18:26",
-      "album": {
-        "name": "Crackdown",
-        "url": "https://open.spotify.com/album/5ikMOG2XXGBIZrsccTOUhL"
-      },
-      "artists": [
-        {
-          "name": "GA-20",
-          "url": "https://open.spotify.com/artist/5lg8xPLWMK8R3EfQlKA5bT"
-        }
-      ],
-      "duration_ms": 211819,
-      "name": "Easy On The Eyes",
-      "url": "https://open.spotify.com/track/4mEITOF0rKhIZr3rBJuwk0"
     },
     {
       "added_at": "2023-10-05 13:18:26",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2023-10-05 13:18:26",
       "album": {
-        "name": "Living Chicago Blues, Vol. 4",
-        "url": "https://open.spotify.com/album/2u30yjGXHGTO5UTWlyG47J"
-      },
-      "artists": [
-        {
-          "name": "Andrew Brown",
-          "url": "https://open.spotify.com/artist/3PJ8OSq1gHjL4CIyn1S2bR"
-        }
-      ],
-      "duration_ms": 301440,
-      "name": "I Got News For You",
-      "url": "https://open.spotify.com/track/4wnZn5PQ708PUgTJufylmp"
-    },
-    {
-      "added_at": "2023-10-05 13:18:26",
-      "album": {
         "name": "The Best Of Freddie King: The Shelter Years",
         "url": "https://open.spotify.com/album/4gpyOtOO0Ws6zhvcp4ASMY"
       },
@@ -1363,6 +1347,22 @@
       "duration_ms": 240466,
       "name": "Reconsider Baby - Remastered",
       "url": "https://open.spotify.com/track/5Avx6u0cFb5P0fL4qzijGC"
+    },
+    {
+      "added_at": "2023-10-05 13:18:26",
+      "album": {
+        "name": "Living Chicago Blues, Vol. 4",
+        "url": "https://open.spotify.com/album/2u30yjGXHGTO5UTWlyG47J"
+      },
+      "artists": [
+        {
+          "name": "Andrew Brown",
+          "url": "https://open.spotify.com/artist/3PJ8OSq1gHjL4CIyn1S2bR"
+        }
+      ],
+      "duration_ms": 301440,
+      "name": "I Got News For You",
+      "url": "https://open.spotify.com/track/4wnZn5PQ708PUgTJufylmp"
     },
     {
       "added_at": "2023-10-05 13:18:26",
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2023-10-05 13:18:26",
       "album": {
-        "name": "Outdated Emotion",
-        "url": "https://open.spotify.com/album/2ZmQvtqYsWVFPDrG1ssz7z"
-      },
-      "artists": [
-        {
-          "name": "Delbert McClinton",
-          "url": "https://open.spotify.com/artist/3Ri72CuuQSCLLkDRJgniFU"
-        }
-      ],
-      "duration_ms": 146397,
-      "name": "Connecticut Blues",
-      "url": "https://open.spotify.com/track/3iQxKD67vxkRxUWHEXqGRg"
-    },
-    {
-      "added_at": "2023-10-05 13:18:26",
-      "album": {
         "name": "Hiding Place",
         "url": "https://open.spotify.com/album/7dcq4XdSEHjdkNkRokWx5D"
       },
@@ -1507,6 +1491,22 @@
       "duration_ms": 443160,
       "name": "Hiding Place",
       "url": "https://open.spotify.com/track/1W6xHj8Ic4p1QienSgdaFU"
+    },
+    {
+      "added_at": "2023-10-05 13:18:26",
+      "album": {
+        "name": "Outdated Emotion",
+        "url": "https://open.spotify.com/album/2ZmQvtqYsWVFPDrG1ssz7z"
+      },
+      "artists": [
+        {
+          "name": "Delbert McClinton",
+          "url": "https://open.spotify.com/artist/3Ri72CuuQSCLLkDRJgniFU"
+        }
+      ],
+      "duration_ms": 146397,
+      "name": "Connecticut Blues",
+      "url": "https://open.spotify.com/track/3iQxKD67vxkRxUWHEXqGRg"
     },
     {
       "added_at": "2023-10-05 13:18:26",

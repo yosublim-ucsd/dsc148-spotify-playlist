@@ -1,12 +1,12 @@
 {
   "description": "Still in rotation. Cover: Bryson Tiller",
-  "num_followers": 2147146,
+  "num_followers": 2147298,
   "original_name": "Gold Edition",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNmNjYmE3MmU2NjBkYTZiMWM2ZTdlNTE0YzZkNDVlMDZmNDRkYzZk",
+  "snapshot_id": "MCw5ZDc0MjhlNjg3ZGQzYzM4NDZiZWE2ODc0NmJhNGUyODJlZTk3NzRk",
   "tracks": [
     {
       "added_at": "2023-10-27 04:00:00",
@@ -277,22 +277,6 @@
       "url": "https://open.spotify.com/track/0WtDGnWL2KrMCk0mI1Gpwz"
     },
     {
-      "added_at": "2022-08-03 15:25:39",
-      "album": {
-        "name": "Starboy",
-        "url": "https://open.spotify.com/album/2ODvWsOgouMbaA5xf0RkJe"
-      },
-      "artists": [
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        }
-      ],
-      "duration_ms": 260252,
-      "name": "Die For You",
-      "url": "https://open.spotify.com/track/2Ch7LmS7r2Gy2kc64wv3Bz"
-    },
-    {
       "added_at": "2023-08-11 02:37:59",
       "album": {
         "name": "RENAISSANCE",
@@ -307,6 +291,22 @@
       "duration_ms": 225388,
       "name": "CUFF IT",
       "url": "https://open.spotify.com/track/1xzi1Jcr7mEi9K2RfzLOqS"
+    },
+    {
+      "added_at": "2022-08-03 15:25:39",
+      "album": {
+        "name": "Starboy",
+        "url": "https://open.spotify.com/album/2ODvWsOgouMbaA5xf0RkJe"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        }
+      ],
+      "duration_ms": 260252,
+      "name": "Die For You",
+      "url": "https://open.spotify.com/track/2Ch7LmS7r2Gy2kc64wv3Bz"
     },
     {
       "added_at": "2022-03-14 17:48:22",
@@ -465,6 +465,22 @@
       "url": "https://open.spotify.com/track/14SaZBTjxlorHJQxXh01Hu"
     },
     {
+      "added_at": "2023-08-11 02:37:59",
+      "album": {
+        "name": "What You Heard",
+        "url": "https://open.spotify.com/album/10WCcQKzXZot04kzENu62Z"
+      },
+      "artists": [
+        {
+          "name": "Sonder",
+          "url": "https://open.spotify.com/artist/2ICR2m4hOBPhaYiZB3rnLW"
+        }
+      ],
+      "duration_ms": 238242,
+      "name": "What You Heard",
+      "url": "https://open.spotify.com/track/3a3dQOO19moXPeTt2PomoT"
+    },
+    {
       "added_at": "2022-09-24 17:12:30",
       "album": {
         "name": "Trip",
@@ -483,22 +499,6 @@
       "duration_ms": 276960,
       "name": "Sativa",
       "url": "https://open.spotify.com/track/2pg2TiYo9Rb8KeB5JjP7jS"
-    },
-    {
-      "added_at": "2023-08-11 02:37:59",
-      "album": {
-        "name": "What You Heard",
-        "url": "https://open.spotify.com/album/10WCcQKzXZot04kzENu62Z"
-      },
-      "artists": [
-        {
-          "name": "Sonder",
-          "url": "https://open.spotify.com/artist/2ICR2m4hOBPhaYiZB3rnLW"
-        }
-      ],
-      "duration_ms": 238242,
-      "name": "What You Heard",
-      "url": "https://open.spotify.com/track/3a3dQOO19moXPeTt2PomoT"
     },
     {
       "added_at": "2022-03-14 17:48:22",
@@ -821,26 +821,6 @@
       "url": "https://open.spotify.com/track/3XKIUb7HzIF1Vu9usunMzc"
     },
     {
-      "added_at": "2023-08-11 02:37:59",
-      "album": {
-        "name": "Still Over It",
-        "url": "https://open.spotify.com/album/4lPqFAvgmG97pxyxQsyCQx"
-      },
-      "artists": [
-        {
-          "name": "Summer Walker",
-          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
-        },
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        }
-      ],
-      "duration_ms": 231497,
-      "name": "No Love (with SZA)",
-      "url": "https://open.spotify.com/track/08SB2OtZkaliju77WYEKxk"
-    },
-    {
       "added_at": "2022-03-14 17:48:22",
       "album": {
         "name": "While We Wait",
@@ -859,6 +839,26 @@
       "duration_ms": 201787,
       "name": "Nights Like This (feat. Ty Dolla $ign)",
       "url": "https://open.spotify.com/track/6ZRuF2n1CQxyxxAAWsKJOy"
+    },
+    {
+      "added_at": "2023-08-11 02:37:59",
+      "album": {
+        "name": "Still Over It",
+        "url": "https://open.spotify.com/album/4lPqFAvgmG97pxyxQsyCQx"
+      },
+      "artists": [
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        },
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "duration_ms": 231497,
+      "name": "No Love (with SZA)",
+      "url": "https://open.spotify.com/track/08SB2OtZkaliju77WYEKxk"
     },
     {
       "added_at": "2022-07-30 03:34:52",
@@ -1001,42 +1001,6 @@
       "url": "https://open.spotify.com/track/6cEguiQecbXrFlsnMi2ysr"
     },
     {
-      "added_at": "2022-07-30 03:46:43",
-      "album": {
-        "name": "All I Want Is You",
-        "url": "https://open.spotify.com/album/493HYe7N5pleudEZRyhE7R"
-      },
-      "artists": [
-        {
-          "name": "Miguel",
-          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
-        },
-        {
-          "name": "J. Cole",
-          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
-        }
-      ],
-      "duration_ms": 295920,
-      "name": "All I Want Is You (feat. J. Cole)",
-      "url": "https://open.spotify.com/track/5VA4Ispp52EA1sOqzMz3Av"
-    },
-    {
-      "added_at": "2022-09-24 17:12:30",
-      "album": {
-        "name": "For Broken Ears",
-        "url": "https://open.spotify.com/album/2sU8ByeYc5BOBFNDr58CGV"
-      },
-      "artists": [
-        {
-          "name": "Tems",
-          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
-        }
-      ],
-      "duration_ms": 196204,
-      "name": "Higher",
-      "url": "https://open.spotify.com/track/2QdSb68BzZGMgCbsrFmSLc"
-    },
-    {
       "added_at": "2022-03-14 17:48:22",
       "album": {
         "name": "East Atlanta Love Letter",
@@ -1057,6 +1021,58 @@
       "url": "https://open.spotify.com/track/4at3d5QWnlibMVN75ECDrp"
     },
     {
+      "added_at": "2022-09-24 17:12:30",
+      "album": {
+        "name": "For Broken Ears",
+        "url": "https://open.spotify.com/album/2sU8ByeYc5BOBFNDr58CGV"
+      },
+      "artists": [
+        {
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+        }
+      ],
+      "duration_ms": 196204,
+      "name": "Higher",
+      "url": "https://open.spotify.com/track/2QdSb68BzZGMgCbsrFmSLc"
+    },
+    {
+      "added_at": "2022-07-30 03:46:43",
+      "album": {
+        "name": "All I Want Is You",
+        "url": "https://open.spotify.com/album/493HYe7N5pleudEZRyhE7R"
+      },
+      "artists": [
+        {
+          "name": "Miguel",
+          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
+        },
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        }
+      ],
+      "duration_ms": 295920,
+      "name": "All I Want Is You (feat. J. Cole)",
+      "url": "https://open.spotify.com/track/5VA4Ispp52EA1sOqzMz3Av"
+    },
+    {
+      "added_at": "2022-07-30 03:46:43",
+      "album": {
+        "name": "Public Displays Of Affection: The Album",
+        "url": "https://open.spotify.com/album/7fe4Mem3wWgY6zkTFuKUI9"
+      },
+      "artists": [
+        {
+          "name": "Muni Long",
+          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
+        }
+      ],
+      "duration_ms": 204316,
+      "name": "Hrs & Hrs",
+      "url": "https://open.spotify.com/track/3ncmoWTwJgx63LwMTyBCXf"
+    },
+    {
       "added_at": "2022-03-14 17:48:22",
       "album": {
         "name": "Lady Lady",
@@ -1075,22 +1091,6 @@
       "duration_ms": 301893,
       "name": "Tadow",
       "url": "https://open.spotify.com/track/51rPRW8NjxZoWPPjnRGzHw"
-    },
-    {
-      "added_at": "2022-07-30 03:46:43",
-      "album": {
-        "name": "Public Displays Of Affection: The Album",
-        "url": "https://open.spotify.com/album/7fe4Mem3wWgY6zkTFuKUI9"
-      },
-      "artists": [
-        {
-          "name": "Muni Long",
-          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
-        }
-      ],
-      "duration_ms": 204316,
-      "name": "Hrs & Hrs",
-      "url": "https://open.spotify.com/track/3ncmoWTwJgx63LwMTyBCXf"
     },
     {
       "added_at": "2022-07-30 03:34:52",
@@ -1129,22 +1129,6 @@
       "url": "https://open.spotify.com/track/4PEGwWH4tL6H7dGl4uVSPg"
     },
     {
-      "added_at": "2022-07-30 03:34:52",
-      "album": {
-        "name": "Last Day Of Summer",
-        "url": "https://open.spotify.com/album/4hTM8jZ8DCCqglmZUDMSPz"
-      },
-      "artists": [
-        {
-          "name": "Summer Walker",
-          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
-        }
-      ],
-      "duration_ms": 188906,
-      "name": "Karma",
-      "url": "https://open.spotify.com/track/2Fyjjpg03fn7n5cj0Qm380"
-    },
-    {
       "added_at": "2023-08-11 02:37:59",
       "album": {
         "name": "Who Hurt You?",
@@ -1159,6 +1143,22 @@
       "duration_ms": 231964,
       "name": "Who Hurt You?",
       "url": "https://open.spotify.com/track/23c9gmiiv7RCu7twft0Mym"
+    },
+    {
+      "added_at": "2022-07-30 03:34:52",
+      "album": {
+        "name": "Last Day Of Summer",
+        "url": "https://open.spotify.com/album/4hTM8jZ8DCCqglmZUDMSPz"
+      },
+      "artists": [
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        }
+      ],
+      "duration_ms": 188906,
+      "name": "Karma",
+      "url": "https://open.spotify.com/track/2Fyjjpg03fn7n5cj0Qm380"
     },
     {
       "added_at": "2023-01-26 12:39:45",
@@ -1269,22 +1269,6 @@
       "url": "https://open.spotify.com/track/4AxG1T6UJJ4xCX4Wz6JDLG"
     },
     {
-      "added_at": "2022-03-14 17:48:22",
-      "album": {
-        "name": "Fantasia",
-        "url": "https://open.spotify.com/album/42DybH3gl3WcfXAQySOEiX"
-      },
-      "artists": [
-        {
-          "name": "Fantasia",
-          "url": "https://open.spotify.com/artist/7xAcVHPiirnUqfdqo0USb1"
-        }
-      ],
-      "duration_ms": 217346,
-      "name": "When I See U",
-      "url": "https://open.spotify.com/track/4iuNZTcvT9diFySSzVsnVS"
-    },
-    {
       "added_at": "2023-09-29 00:53:25",
       "album": {
         "name": "AMERICA HAS A PROBLEM (feat. Kendrick Lamar)",
@@ -1303,6 +1287,22 @@
       "duration_ms": 260962,
       "name": "AMERICA HAS A PROBLEM (feat. Kendrick Lamar)",
       "url": "https://open.spotify.com/track/6l8mgVN9Xf1hiDIFGA6CTE"
+    },
+    {
+      "added_at": "2022-03-14 17:48:22",
+      "album": {
+        "name": "Fantasia",
+        "url": "https://open.spotify.com/album/42DybH3gl3WcfXAQySOEiX"
+      },
+      "artists": [
+        {
+          "name": "Fantasia",
+          "url": "https://open.spotify.com/artist/7xAcVHPiirnUqfdqo0USb1"
+        }
+      ],
+      "duration_ms": 217346,
+      "name": "When I See U",
+      "url": "https://open.spotify.com/track/4iuNZTcvT9diFySSzVsnVS"
     }
   ],
   "unique_name": "Gold Edition",

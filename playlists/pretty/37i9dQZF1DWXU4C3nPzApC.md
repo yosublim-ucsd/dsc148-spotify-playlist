@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXU4C3nPzApC.md) - [plain]
 
 > The best music with a Nashville flavour\. Cover: Luke Combs
 
-[Spotify](https://open.spotify.com/user/spotify) - 178,522 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 178,536 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXU4C3nPzApC.md) - [plain]
 | 3 | [Welcome to the Club](https://open.spotify.com/track/1ve542s6OQNdpgtJEcUTvx) | [Twinnie](https://open.spotify.com/artist/73zbrZKfIqOfVWaSM4k71b) | [Welcome to the Club](https://open.spotify.com/album/39lqBskpYDfWOYwGwKMk8I) | 3:09 |
 | 4 | [Meant to Be](https://open.spotify.com/track/5Fleg1XWLGqswcZMzz34ao) | [Sasha McVeigh](https://open.spotify.com/artist/4yrY81mNjR3hqlOAhu80IQ) | [Meant to Be](https://open.spotify.com/album/1NjQDczP1cEpfqq09qSP76) | 3:14 |
 | 5 | [Rich Men North of Richmond](https://open.spotify.com/track/78Du4CMFgnhdlG33gblkiP) | [Oliver Anthony Music](https://open.spotify.com/artist/6IkfE2JyVoKwBZXvuytKX3) | [Rich Men North of Richmond](https://open.spotify.com/album/02X1cQOUcwYPxgFfqHeitI) | 3:07 |
-| 6 | [Whiskey Over Ice](https://open.spotify.com/track/40l3hHo13OeWAK9j44coP3) | [Kezia Gill](https://open.spotify.com/artist/38gOBONmMcD1Cp45Lhf2Vc) | [Whiskey Over Ice](https://open.spotify.com/album/62vwEapLmOCJYlGFebORoB) | 3:24 |
+| 6 | [Whiskey Over Ice](https://open.spotify.com/track/42hCZDuTbcvlVNSHV9GyUd) | [Kezia Gill](https://open.spotify.com/artist/38gOBONmMcD1Cp45Lhf2Vc) | [Misfit](https://open.spotify.com/album/7fVjPrr995cKODmShqTH7M) | 3:24 |
 | 7 | [IF YOU GO DOWN \(I'M GOIN' DOWN TOO\)](https://open.spotify.com/track/1jX9wlAgVkAl0fCZqkCI73) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [SUBJECT TO CHANGE](https://open.spotify.com/album/6twfTQ122kNcHAUXjFbe8a) | 2:46 |
 | 8 | [This \- Country Version](https://open.spotify.com/track/0iyhBapZwcQ1IUZ2XvaHJk) | [Megan McKenna](https://open.spotify.com/artist/0aAQxfnyKfbTRfkUfxSCIu) | [This \(Country Version\)](https://open.spotify.com/album/3JulUDdS5a7071Zf39vfDt) | 3:09 |
 | 9 | [I See Stars](https://open.spotify.com/track/3J85ZK3csrITTIYudfW504) | [The Shires](https://open.spotify.com/artist/48hCuDf2HUMGTgMhqLfic3) | [10 Year Plan](https://open.spotify.com/album/6CY8lxQxwgqGvBrhKPolut) | 3:18 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXU4C3nPzApC.md) - [plain]
 | 49 | [It Matters To Her](https://open.spotify.com/track/4aSRUXfKuBbmje0eXNukuL) | [Scotty McCreery](https://open.spotify.com/artist/6ZV6lGY0prbqpTD0Md8i29) | [Same Truck](https://open.spotify.com/album/0R9QjGSDl6EX4yWu3Rr1eU) | 2:51 |
 | 50 | [Outrunnin' Your Memory](https://open.spotify.com/track/79gv58G6usuURwl6TlmBTu) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS), [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Growin' Up](https://open.spotify.com/album/1m9DVgV0kEBiVZ4ElhJEte) | 4:14 |
 
-Snapshot ID: `MCxkOWIwNTI1YjY4ODU4NTNkYzY4OThlZjRmODA0MDRkMDJmNmY5MTVi`
+Snapshot ID: `MCw1YTE0NGUyZTMyNDZlOGVkY2NmYTJiMDAyOWU4M2RjNmQyZDMzMjA3`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX26MMm9GTjCc.md) - [plain]
 
 > The soundtrack to your festive get\-together!
 
-[Spotify](https://open.spotify.com/user/spotify) - 408,925 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 409,496 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX26MMm9GTjCc.md) - [plain]
 | 49 | [Run Rudolph Run](https://open.spotify.com/track/2fpZlIhqXByz1IJke9B4zY) | [Hanson](https://open.spotify.com/artist/0SdiiPkr02EUdekHZJkt58) | [Snowed In](https://open.spotify.com/album/564uqr2elEUQySk2eKFp6V) | 3:12 |
 | 50 | [Last Christmas](https://open.spotify.com/track/1jjuOT18tPbqXhaxvsBani) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [Last Christmas](https://open.spotify.com/album/2UOO3MgYXf829xN014WdNX) | 3:32 |
 
-Snapshot ID: `MCw3ZTg2YjUxZjk1MTZkNTUzNzJhZjkzM2NiYzQyNGQyM2M4Mzc1NzBh`
+Snapshot ID: `MCxmNTlmYzA5OWI4ZWJkZTFjMWQ2MmRhZTlhNjc0MTBlNTIzOWU5NTNm`

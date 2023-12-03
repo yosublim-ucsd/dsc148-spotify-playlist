@@ -4,7 +4,7 @@
 
 > The best music with a Nashville flavour\. Cover: Luke Combs
 
-157 songs - 8 hr 42 min
+158 songs - 8 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -158,7 +158,8 @@
 | [WHAT I HAVE](https://open.spotify.com/track/6NQRyB65XYawngq6Cq1uKm) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [SUBJECT TO CHANGE](https://open.spotify.com/album/6twfTQ122kNcHAUXjFbe8a) | 2:58 | 2023-03-07 |  |
 | [When's It Gonna Happen](https://open.spotify.com/track/0h0PVL7SoC7l4sJ5AYQZX5) | [Tenille Townes](https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z) | [When's It Gonna Happen](https://open.spotify.com/album/7nQ3jAmRGhlHQOB66gWtad) | 3:37 | 2022-03-08 | 2023-03-08 |
 | [Whiskey On You](https://open.spotify.com/track/6Tm4Io4ct4w14nB1EUzsY3) | [Nate Smith](https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x) | [Whiskey On You](https://open.spotify.com/album/3MrvNAqlEsm5iScBAf9Cfm) | 3:03 | 2023-03-07 |  |
-| [Whiskey Over Ice](https://open.spotify.com/track/40l3hHo13OeWAK9j44coP3) | [Kezia Gill](https://open.spotify.com/artist/38gOBONmMcD1Cp45Lhf2Vc) | [Whiskey Over Ice](https://open.spotify.com/album/62vwEapLmOCJYlGFebORoB) | 3:24 | 2023-03-07 |  |
+| [Whiskey Over Ice](https://open.spotify.com/track/40l3hHo13OeWAK9j44coP3) | [Kezia Gill](https://open.spotify.com/artist/38gOBONmMcD1Cp45Lhf2Vc) | [Whiskey Over Ice](https://open.spotify.com/album/62vwEapLmOCJYlGFebORoB) | 3:24 | 2023-03-07 | 2023-12-03 |
+| [Whiskey Over Ice](https://open.spotify.com/track/42hCZDuTbcvlVNSHV9GyUd) | [Kezia Gill](https://open.spotify.com/artist/38gOBONmMcD1Cp45Lhf2Vc) | [Misfit](https://open.spotify.com/album/7fVjPrr995cKODmShqTH7M) | 3:24 | 2023-08-25 |  |
 | [Why Are We Making It So Hard?](https://open.spotify.com/track/5XkHJa65PQTLdEjQloGct9) | [Lauren Housley](https://open.spotify.com/artist/1GLRGBLmRIc3p0mVq4F0J3) | [Girl From The North](https://open.spotify.com/album/1vGs33XK2R675HngDM4O2W) | 4:08 | 2021-12-17 | 2022-01-12 |
 | [Wild as Her](https://open.spotify.com/track/4RG7P0CXQ4pe0OeCAHjX5L) | [Corey Kent](https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc) | [Wild as Her](https://open.spotify.com/album/4mGSNYd2LF27N8MaFwxNFg) | 3:19 | 2023-03-07 |  |
 | [Wilder Days](https://open.spotify.com/track/2vubFQgAJO5SeuVa7ytIHc) | [Morgan Wade](https://open.spotify.com/artist/4eYE8Z6cfEHEdG22lTyucP) | [Reckless](https://open.spotify.com/album/1PuZ5juin9Mpt3Tyiygzio) | 4:11 | 2022-01-11 | 2023-03-08 |

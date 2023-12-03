@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0FOF1IUWK1W.md) - [plain]
 
 > Mc Ws da leste, Dj Chadin do C, MC Cothiê e os maiores hits do país\. O que tá bombando tá aqui.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,047,318 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,049,643 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0FOF1IUWK1W.md) - [plain]
 | 25 | [Quase Algo \- Ao Vivo](https://open.spotify.com/track/4zW6JV4aqhXpbfZLZyEFvP) | [Henrique & Juliano](https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT) | [To Be \(Ao Vivo Em Nova Iorque EP1\)](https://open.spotify.com/album/5WeYemRNOgJ1sfcXJcgf6N) | 2:58 |
 | 26 | [Novidade na Área](https://open.spotify.com/track/2uhw2oYbugGJbn10wipNX5) | [Mc Livinho](https://open.spotify.com/artist/7me0S5Z40qVWj3gzyK8aC3), [DJ Matt D](https://open.spotify.com/artist/1rIc4yTieeRq25NA3T8RQ5) | [Novidade na Área](https://open.spotify.com/album/1ehFLXfMUcEfTksKeFP0cl) | 2:00 |
 | 27 | [Carta Aberta](https://open.spotify.com/track/4VI4yOAb7fWrFCnuGBIaeG) | [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW) | [Carta Aberta](https://open.spotify.com/album/7yGXpufcJyZEZ5fcyv2NGq) | 4:22 |
-| 28 | [10 Carros](https://open.spotify.com/track/2twZl1jsRbJRTNCE6VB6eW) | [Chefin](https://open.spotify.com/artist/68PYmgkbRP1qZnEWOry7sB), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd) | [10 Carros](https://open.spotify.com/album/1ZakiImfctMIFKkLNIDlcI) | 2:21 |
+| 28 | [10 Carros](https://open.spotify.com/track/2twZl1jsRbJRTNCE6VB6eW) | [Chefin](https://open.spotify.com/artist/68PYmgkbRP1qZnEWOry7sB), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd), [LB Único](https://open.spotify.com/artist/7w1eimo0NMZhuwNZTf4MHY) | [10 Carros](https://open.spotify.com/album/1ZakiImfctMIFKkLNIDlcI) | 2:21 |
 | 29 | [Eu Não Previ \- Ao Vivo em Goiânia](https://open.spotify.com/track/3S8M3mZGIc10IdtmNTsrjQ) | [Traia Véia](https://open.spotify.com/artist/0FMBXfGasuAjdpsCs7zgju), [Murilo Huff](https://open.spotify.com/artist/3hq7WoPJsrRP0KMSLhUgRz) | [Traia Véia \(Ao Vivo em Goiânia\)](https://open.spotify.com/album/73lR6Nivc8Qwu3Jym41CKg) | 2:14 |
 | 30 | [Fode Bem](https://open.spotify.com/track/3Zgs8GjLi5hArtyLQhZ06Y) | [Felipe Amorim](https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U), [Mc Mika](https://open.spotify.com/artist/6exBFuevXZvHrbP3oKtfWe) | [Cadê o After? Pt\. 1](https://open.spotify.com/album/4Vy1Rn4htx3L0ojjaeePww) | 2:16 |
 | 31 | [Sou Musa do Verão](https://open.spotify.com/track/2cZ62VBKsdZ7u1kKKJdFOc) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [Sugar Papi](https://open.spotify.com/album/4KNN5lVMc1EREJFlbppJqH) | 3:07 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0FOF1IUWK1W.md) - [plain]
 | 49 | [Oi Balde \- Ao Vivo](https://open.spotify.com/track/3mzbab4H0iZYkHggSEj0UX) | [Zé Neto & Cristiano](https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs) | [Escolhas, Vol\. 1 \(Ao Vivo\)](https://open.spotify.com/album/3Hm805Bj72CboaLxaCJnqC) | 2:39 |
 | 50 | [Leão](https://open.spotify.com/track/2K9kZpwD2CzTa6iiSYYOoO) | [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Decretos Reais, Vol\. 2](https://open.spotify.com/album/44GonyeOgM1vGc9uHpoimf) | 2:46 |
 
-Snapshot ID: `MCwxMWNkNjEwMDhjN2Y3NmI1MGNkOWU4MzE0MTEzYjE1MDhlOWNlMzEz`
+Snapshot ID: `MCw1NjUzNGMwNjc4N2IwMWQwYzdkNzRhNTg3OGNkNDg5MDZkYWE0MzI1`

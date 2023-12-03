@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2B3xivNXPeb.md) - [plain]
 
 > Whether you're cooking or pottering about, here's an all\-day soundtrack to enjoy in the comfort of your own home.
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,799 likes - 100 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,811 likes - 100 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2B3xivNXPeb.md) - [plain]
 | 67 | [Giving It In](https://open.spotify.com/track/1yoAw5lhSJZ3FutPzCm6EC) | [Faye Meana](https://open.spotify.com/artist/0IYLHzQ2biFwd5DNJUZ5yP) | [Giving It In](https://open.spotify.com/album/0qqvcHcINrNFwkFfaqpRO1) | 3:20 |
 | 68 | [Golden](https://open.spotify.com/track/4Ni5urPYXXrSLJMrs81LXW) | [shiv](https://open.spotify.com/artist/5rxxzsO9zojzg0FfWVmIv7) | [Golden](https://open.spotify.com/album/5rRtE3wuqsxxGp5CsujWXw) | 3:09 |
 | 69 | [From A Lover](https://open.spotify.com/track/3s0gco9dCNjVm1B0Pr0Gau) | [Yazmin Lacey](https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg) | [Voice Notes](https://open.spotify.com/album/4CsDEoqySY9EaYJX5MlIXs) | 2:55 |
-| 70 | [Lost](https://open.spotify.com/track/3jS0d7uwqKGbfwQ2ia2JN0) | [Jalen Ngonda](https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ) | [Come Around and Love Me](https://open.spotify.com/album/0E2PgtXRUHCslZ7gRselUq) | 3:28 |
-| 71 | [Inspiration Information](https://open.spotify.com/track/3q8AgabNzK1mPJdI8egIcn) | [Shuggie Otis](https://open.spotify.com/artist/4YHtIE7FI8ITfekzzN5Jpl) | [Inspiration Information/ Wings Of Love](https://open.spotify.com/album/0JittRuqxUKruy1LlfxY4S) | 4:12 |
+| 70 | [Inspiration Information](https://open.spotify.com/track/3q8AgabNzK1mPJdI8egIcn) | [Shuggie Otis](https://open.spotify.com/artist/4YHtIE7FI8ITfekzzN5Jpl) | [Inspiration Information/ Wings Of Love](https://open.spotify.com/album/0JittRuqxUKruy1LlfxY4S) | 4:12 |
+| 71 | [Lost](https://open.spotify.com/track/3jS0d7uwqKGbfwQ2ia2JN0) | [Jalen Ngonda](https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ) | [Come Around and Love Me](https://open.spotify.com/album/0E2PgtXRUHCslZ7gRselUq) | 3:28 |
 | 72 | [Got To Be Good](https://open.spotify.com/track/6yE6Pgow6jdsChOOAdKwaV) | [Gotts Street Park](https://open.spotify.com/artist/2hwy5DELim1AxB1sHPqn4y), [Pip Millett](https://open.spotify.com/artist/1QfEfvB62EEl4upf2ANKkR) | [Got To Be Good](https://open.spotify.com/album/2ONIS7NH82FtlwOd0lCg7e) | 2:39 |
 | 73 | [Falling Apart](https://open.spotify.com/track/1uxW2hzpUKMkNAGnVVF3Xy) | [LÉON](https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia) | [Apart](https://open.spotify.com/album/1NthtnctJUX7DxcNv43Kft) | 3:15 |
 | 74 | [Blame](https://open.spotify.com/track/27dM3Oji0ytPXDYGVwDoJj) | [Gabriels](https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz) | [Bloodline](https://open.spotify.com/album/6w9KqIfC7zIoKmdJgs9yBA) | 2:50 |
@@ -94,14 +94,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2B3xivNXPeb.md) - [plain]
 | 84 | [I Need \- Mav's Version](https://open.spotify.com/track/5PfmVIO6dwDTDL4u2ICfMd) | [Maverick Sabre](https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q) | [Lonely Are the Brave \(Mav's Version\)](https://open.spotify.com/album/62MJBLFK4G1AM9ZZS0p3Ph) | 3:59 |
 | 85 | [Courtyard Theatre](https://open.spotify.com/track/3sKMUyp6Z2Ex9aFPv03xZd) | [Tamzene](https://open.spotify.com/artist/77YCAroJisD7uOECsiPcAL) | [Dublin Sessions](https://open.spotify.com/album/5dFdSNChr9iVoEMBdCVB4w) | 3:09 |
 | 86 | [Please Love Me Again](https://open.spotify.com/track/4b605Ezmi2n7Oyk4vbdhsh) | [Liam Bailey](https://open.spotify.com/artist/022EiWsch2zvty0qBUksDO) | [Please Love Me Again](https://open.spotify.com/album/6DBdEhwchCMmQFJh5mhFXt) | 3:06 |
-| 87 | [The Love I Need](https://open.spotify.com/track/6kMz52ZCGAPfeoVrZM759i) | [Girlhood](https://open.spotify.com/artist/1zmozsuAfLwrawutG7x9VA), [Tiece](https://open.spotify.com/artist/0UbTE69ThKzx2DaD3M496P) | [Girlhood](https://open.spotify.com/album/3WSp38o6QVGRbRRvhUrb7M) | 3:23 |
-| 88 | [Taurus](https://open.spotify.com/track/03jLQhVcW1wyHpGaATzbQW) | [Aby Coulibaly](https://open.spotify.com/artist/1ZjJVQsxUHP7MKnZg8yE33) | [Taurus](https://open.spotify.com/album/65PxIf97kRctYT8rshapFc) | 3:06 |
+| 87 | [Taurus](https://open.spotify.com/track/03jLQhVcW1wyHpGaATzbQW) | [Aby Coulibaly](https://open.spotify.com/artist/1ZjJVQsxUHP7MKnZg8yE33) | [Taurus](https://open.spotify.com/album/65PxIf97kRctYT8rshapFc) | 3:06 |
+| 88 | [The Love I Need](https://open.spotify.com/track/6kMz52ZCGAPfeoVrZM759i) | [Girlhood](https://open.spotify.com/artist/1zmozsuAfLwrawutG7x9VA), [Tiece](https://open.spotify.com/artist/0UbTE69ThKzx2DaD3M496P) | [Girlhood](https://open.spotify.com/album/3WSp38o6QVGRbRRvhUrb7M) | 3:23 |
 | 89 | [Nostalgia \(feat\. Taura\)](https://open.spotify.com/track/6TajNVI83TPoOEc3PCzcIt) | [edbl](https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO), [Taura Lamb](https://open.spotify.com/artist/6YvaXV2q3iL1MyxYiiDWbH) | [Nostalgia](https://open.spotify.com/album/3afE6m4GD6Wv8sl3EUyFD7) | 3:43 |
 | 90 | [Angels & Queens](https://open.spotify.com/track/2jzS9aY0dLR4TI6tlnLMTO) | [Gabriels](https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz) | [Angels & Queens \- Part I \(Track by Track\)](https://open.spotify.com/album/3RWX330xVrZqAQ5JpSyI7h) | 3:19 |
 | 91 | [Scream \(Funk My Life Up\)](https://open.spotify.com/track/56oQl8ABVlcZlJN43wooTd) | [Paolo Nutini](https://open.spotify.com/artist/7x5rK9BClDQ8wmCkYAGsQp) | [Caustic Love](https://open.spotify.com/album/7M0WhcuEYzzeQwTNy1bDDO) | 3:09 |
 | 92 | [At What Cost](https://open.spotify.com/track/45dq2Tj670CC0WOZEFashZ) | [Ella More](https://open.spotify.com/artist/727Q7I2a8uB63eFKd4N38p) | [At What Cost](https://open.spotify.com/album/0EMkOcbLfE9zCeDVjxLqsL) | 4:16 |
-| 93 | [Resting State](https://open.spotify.com/track/2PwJU6fEjoThOXal3axKEf) | [Lucy Park](https://open.spotify.com/artist/2ve69eWi8j7eGKEsKz2WLF) | [Resting State](https://open.spotify.com/album/3RMcQ8d4hH9nK2hBNKx8Gy) | 3:13 |
-| 94 | [Wasted](https://open.spotify.com/track/3dpCarDMIp7RFxdUQ45Ccm) | [Alfie Sharp](https://open.spotify.com/artist/00BVhzOhPeFH9fVVCNqF9P) | [Wasted](https://open.spotify.com/album/3HUWH7rKToMqZDBuX2ECAa) | 4:02 |
+| 93 | [Wasted](https://open.spotify.com/track/3dpCarDMIp7RFxdUQ45Ccm) | [Alfie Sharp](https://open.spotify.com/artist/00BVhzOhPeFH9fVVCNqF9P) | [Wasted](https://open.spotify.com/album/3HUWH7rKToMqZDBuX2ECAa) | 4:02 |
+| 94 | [Resting State](https://open.spotify.com/track/2PwJU6fEjoThOXal3axKEf) | [Lucy Park](https://open.spotify.com/artist/2ve69eWi8j7eGKEsKz2WLF) | [Resting State](https://open.spotify.com/album/3RMcQ8d4hH9nK2hBNKx8Gy) | 3:13 |
 | 95 | [Joe](https://open.spotify.com/track/3s5wyiMCUfnLDYVX4xSRUX) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [Borderline](https://open.spotify.com/album/2vFRIrn95QJ37C8E31aAcz) | 3:07 |
 | 96 | [Siesta \(feat\. Emeli Sandé\)](https://open.spotify.com/track/32OSu2ZovlRteBCFyB3NLo) | [Ezra Collective](https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W), [Emeli Sandé](https://open.spotify.com/artist/7sfgqEdoeBTjd8lQsPT3Cy) | [Siesta \(feat\. Emeli Sandé\)](https://open.spotify.com/album/2mLz1qJnElGlzVDpBV8PQI) | 5:48 |
 | 97 | [Dance With You Again](https://open.spotify.com/track/1c7NLS2Fuq7V5NJgzz8wZX) | [Tamzene](https://open.spotify.com/artist/77YCAroJisD7uOECsiPcAL) | [Dance With You Again](https://open.spotify.com/album/55QbNLNgWTx4yQfc0ukv8v) | 3:07 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2B3xivNXPeb.md) - [plain]
 | 99 | [Nostalgia](https://open.spotify.com/track/37C4hvdsHygqpA4Xzo8eAW) | [Alfie Sharp](https://open.spotify.com/artist/00BVhzOhPeFH9fVVCNqF9P) | [Nostalgia](https://open.spotify.com/album/5hBs54fSWzHghnJYobTNLS) | 4:25 |
 | 100 | [East End Coast](https://open.spotify.com/track/1RSaRPRiGcBT3yK9qIJ68E) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [Borderline](https://open.spotify.com/album/2vFRIrn95QJ37C8E31aAcz) | 3:46 |
 
-Snapshot ID: `MCxjODhlYTQwNGJkZjg4MGYxZTNlNGZmN2JlYzdlMjBmOTk0ODZmMDcx`
+Snapshot ID: `MCwwNmFlMjVjMTM1ZTIyM2M2YmIxOWU4YWE5ZjMzZjRiM2NjMGJiNjJh`

@@ -4,7 +4,7 @@
 
 > Here's to the groom! Enjoy your day with the boys!
 
-186 songs - 11 hr 2 min
+187 songs - 11 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,9 +39,10 @@
 | [Bottoms Up \(feat\. Nicki Minaj\)](https://open.spotify.com/track/4AYX69oFP3UOS1CFmV9UfO) | [Trey Songz](https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Passion, Pain & Pleasure \(Deluxe Version\)](https://open.spotify.com/album/3sDoSYf2AKB2IegZmkISGD) | 4:02 | 2022-05-11 |  |
 | [Boulevard of Broken Dreams](https://open.spotify.com/track/5GorCbAP4aL0EJ16frG2hd) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Greatest Hits: God's Favorite Band](https://open.spotify.com/album/3id4t9IqRoB1f1smOERtrY) | 4:22 | 2022-01-20 | 2022-05-12 |
 | [Breaking Me](https://open.spotify.com/track/3H7ihDc1dqLriiWXwsc2po) | [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [A7S](https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7) | [Breaking Me](https://open.spotify.com/album/3nBQlhUvErkw8DVpF47WAn) | 2:46 | 2021-07-23 | 2022-05-12 |
-| [Bring Em Out](https://open.spotify.com/track/3CcvahnsiArpTHYQEWV2Au) | [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT) | [Urban Legend](https://open.spotify.com/album/1oFucub5OjyG4XPsDUzhil) | 3:36 | 2022-05-11 |  |
+| [Bring Em Out](https://open.spotify.com/track/3CcvahnsiArpTHYQEWV2Au) | [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT) | [Urban Legend](https://open.spotify.com/album/1oFucub5OjyG4XPsDUzhil) | 3:36 | 2022-05-11 | 2023-12-03 |
 | [broken](https://open.spotify.com/track/6XcfKZvJio9Z0fQy11GnNX) | [lovelytheband](https://open.spotify.com/artist/4KJ6jujcNPzOyhdNoiNftp) | [finding it hard to smile](https://open.spotify.com/album/2AbPwLvpR0FwpqGt4ZY1q4) | 3:24 | 2022-05-11 |  |
 | [Burn The House Down](https://open.spotify.com/track/0TkJIyL69RAUIbNwGub6uR) | [AJR](https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C) | [The Click \(Deluxe Edition\)](https://open.spotify.com/album/51iPchT1rPmDNT5FYGoPn5) | 3:32 | 2022-05-11 | 2023-11-04 |
+| [Burn The House Down](https://open.spotify.com/track/2QKLrgXNQtK2c8QbLRO3XC) | [AJR](https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C) | [The Click \(Deluxe Edition\)](https://open.spotify.com/album/3fhEairiL0g4qfXVUTFtF1) | 3:32 | 2022-05-11 |  |
 | [Buzzin Remix](https://open.spotify.com/track/7BmI4hAj6dXIQgA77ZlOzm) | [Mann](https://open.spotify.com/artist/3sAHunotiQdUXKSsFj5KUg), [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh) | [Mann's World](https://open.spotify.com/album/2yip0DrYSHtCeNqLf1LIxF) | 3:44 | 2022-05-11 |  |
 | [Can't Hold Us \(feat\. Ray Dalton\)](https://open.spotify.com/track/3bidbhpOYeV4knp8AIu8Xn) | [Macklemore & Ryan Lewis](https://open.spotify.com/artist/5BcAKTbp20cv7tC5VqPFoC), [Macklemore](https://open.spotify.com/artist/3JhNCzhSMTxs9WLGJJxWOY), [Ryan Lewis](https://open.spotify.com/artist/4myTppRgh0rojLxx8RycOp), [Ray Dalton](https://open.spotify.com/artist/4e0nWw2r4BoQSKPQ2zpU13) | [The Heist](https://open.spotify.com/album/76FXHQhTuT4QMIxfL09gX8) | 4:18 | 2020-07-21 | 2022-05-12 |
 | [Champion](https://open.spotify.com/track/2aHlRZIGUFThu3eQePm6yI) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Graduation](https://open.spotify.com/album/5fPglEDz9YEwRgbLRvhCZy) | 2:47 | 2022-05-11 | 2022-07-29 |

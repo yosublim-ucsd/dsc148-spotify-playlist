@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 
 > The best jazz new releases\. Cover: Lusaint
 
-[Spotify](https://open.spotify.com/user/spotify) - 129,979 likes - 50 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 130,096 likes - 50 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 | 49 | [Baila Mulata](https://open.spotify.com/track/7Ax9Ex9DhMnczPd0pjlPQr) | [Roberto Fonseca](https://open.spotify.com/artist/0Yi6vOMIP1cqp8WppadgOu) | [La Gran Diversión](https://open.spotify.com/album/4UO0arXcVIKzndEZIAp6Co) | 3:23 |
 | 50 | [I Might Never See You Again](https://open.spotify.com/track/2ERNVROnqMvIdWTVT8bkim) | [Charley Rose Trio](https://open.spotify.com/artist/5VW8lQtZn9995Dbtf7FSRL), [Enzo Carniel](https://open.spotify.com/artist/2g4MfwXbDBoVoyeE54DIEk), [Ariel Tessier](https://open.spotify.com/artist/7y16hI4NEVEspAqNm7nG5H) | [Dada Pulp](https://open.spotify.com/album/020HlvI3o3TYr0fTMysQ7m) | 6:24 |
 
-Snapshot ID: `MCxlMzMzNGYwN2E5NzQ2Y2UwZjYzYmNlYzdmYWQ0MzA1MTU4MDJlYTE3`
+Snapshot ID: `MCxmZGZmM2RmZjBiNDBlMTBjNTNhYWM4NzkxNDFiYmI1NmY2NGVhNzM2`

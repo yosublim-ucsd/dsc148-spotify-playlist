@@ -1,12 +1,12 @@
 {
   "description": "Just try not to move to this mix of recent hits. Cover: Kx5",
-  "num_followers": 85237,
+  "num_followers": 85313,
   "original_name": "Dance Favourites",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZTcwNDNkMTRjYTM1NzJkNjZjZDk2ZWZhNjk1M2IyNTk3NzYzZmE2",
+  "snapshot_id": "MCxmZjNlNGRhZDNhNWEyYTg4OGQ2YzY4NGUwOTdmMTEzZTdmYjNmYjVi",
   "tracks": [
     {
       "added_at": "2023-09-29 04:00:00",
@@ -231,22 +231,18 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "El Merengue",
-        "url": "https://open.spotify.com/album/6sU751LOdNBPvVErW1GunP"
+        "name": "Something To Give Each Other",
+        "url": "https://open.spotify.com/album/5UcGyEltve5psjxSRsHx8E"
       },
       "artists": [
         {
-          "name": "Marshmello",
-          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
-        },
-        {
-          "name": "Manuel Turizo",
-          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+          "name": "Troye Sivan",
+          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
         }
       ],
-      "duration_ms": 189668,
-      "name": "El Merengue",
-      "url": "https://open.spotify.com/track/51FvjPEGKq2zByeeEQ43V9"
+      "duration_ms": 156391,
+      "name": "Rush",
+      "url": "https://open.spotify.com/track/4ZnkygoWLzcGbQYCm3lkae"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -267,18 +263,22 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "Something To Give Each Other",
-        "url": "https://open.spotify.com/album/5UcGyEltve5psjxSRsHx8E"
+        "name": "El Merengue",
+        "url": "https://open.spotify.com/album/6sU751LOdNBPvVErW1GunP"
       },
       "artists": [
         {
-          "name": "Troye Sivan",
-          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
+          "name": "Marshmello",
+          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
+        },
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
         }
       ],
-      "duration_ms": 156391,
-      "name": "Rush",
-      "url": "https://open.spotify.com/track/4ZnkygoWLzcGbQYCm3lkae"
+      "duration_ms": 189668,
+      "name": "El Merengue",
+      "url": "https://open.spotify.com/track/51FvjPEGKq2zByeeEQ43V9"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -1407,22 +1407,22 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "Emorio",
-        "url": "https://open.spotify.com/album/3yP0Nsb8jyXY4HMNb6tkO9"
+        "name": "Eat Your Man (with Nelly Furtado)",
+        "url": "https://open.spotify.com/album/6UC9oEbksP0m0Sfl1sgVEQ"
       },
       "artists": [
         {
-          "name": "Trinix",
-          "url": "https://open.spotify.com/artist/3HqP3nd8WI0VfHRhApPlan"
+          "name": "Dom Dolla",
+          "url": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
         },
         {
-          "name": "Faf\u00e1 de Bel\u00e9m",
-          "url": "https://open.spotify.com/artist/6n45wsxj6sDedgwEyTza6d"
+          "name": "Nelly Furtado",
+          "url": "https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc"
         }
       ],
-      "duration_ms": 163840,
-      "name": "Emorio",
-      "url": "https://open.spotify.com/track/14VthBnru6kiREQUYAuNSL"
+      "duration_ms": 197164,
+      "name": "Eat Your Man (with Nelly Furtado)",
+      "url": "https://open.spotify.com/track/6Ea2oEzysv4UECGNxL1IEW"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -1443,26 +1443,6 @@
       "duration_ms": 138819,
       "name": "Sweet Dreams",
       "url": "https://open.spotify.com/track/4uDhts78RdwIDjEqPrYVKp"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
-        "name": "Eat Your Man (with Nelly Furtado)",
-        "url": "https://open.spotify.com/album/6UC9oEbksP0m0Sfl1sgVEQ"
-      },
-      "artists": [
-        {
-          "name": "Dom Dolla",
-          "url": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
-        },
-        {
-          "name": "Nelly Furtado",
-          "url": "https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc"
-        }
-      ],
-      "duration_ms": 197164,
-      "name": "Eat Your Man (with Nelly Furtado)",
-      "url": "https://open.spotify.com/track/6Ea2oEzysv4UECGNxL1IEW"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -1491,6 +1471,26 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
+        "name": "Emorio",
+        "url": "https://open.spotify.com/album/3yP0Nsb8jyXY4HMNb6tkO9"
+      },
+      "artists": [
+        {
+          "name": "Trinix",
+          "url": "https://open.spotify.com/artist/3HqP3nd8WI0VfHRhApPlan"
+        },
+        {
+          "name": "Faf\u00e1 de Bel\u00e9m",
+          "url": "https://open.spotify.com/artist/6n45wsxj6sDedgwEyTza6d"
+        }
+      ],
+      "duration_ms": 163840,
+      "name": "Emorio",
+      "url": "https://open.spotify.com/track/14VthBnru6kiREQUYAuNSL"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
         "name": "Fine Day Anthem",
         "url": "https://open.spotify.com/album/2mxzA7momOeBvCyKDgZRIb"
       },
@@ -1502,6 +1502,10 @@
         {
           "name": "Boys Noize",
           "url": "https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv"
+        },
+        {
+          "name": "Opus III",
+          "url": "https://open.spotify.com/artist/1hQuWl1dueM7ChRUZRn05z"
         }
       ],
       "duration_ms": 193690,
@@ -1763,6 +1767,22 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
+        "name": "Tension (Deluxe)",
+        "url": "https://open.spotify.com/album/4VNaEhdswqNiEMAcfSav9g"
+      },
+      "artists": [
+        {
+          "name": "Kylie Minogue",
+          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
+        }
+      ],
+      "duration_ms": 166266,
+      "name": "Padam Padam",
+      "url": "https://open.spotify.com/track/44MuEHdlociG8KjhPhOVw5"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
         "name": "California Dreamin' (feat. High Jinx)",
         "url": "https://open.spotify.com/album/4QNJtrJyZlV4CMzvQqPcjW"
       },
@@ -1819,18 +1839,18 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "Tension (Deluxe)",
-        "url": "https://open.spotify.com/album/4VNaEhdswqNiEMAcfSav9g"
+        "name": "Maria Maria",
+        "url": "https://open.spotify.com/album/4VMuvqjQv3yvtFdlLs9Mnd"
       },
       "artists": [
         {
-          "name": "Kylie Minogue",
-          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
+          "name": "TECH IT DEEP",
+          "url": "https://open.spotify.com/artist/0zG1jPdH10g3d0dZINMYkw"
         }
       ],
-      "duration_ms": 166266,
-      "name": "Padam Padam",
-      "url": "https://open.spotify.com/track/44MuEHdlociG8KjhPhOVw5"
+      "duration_ms": 161801,
+      "name": "Maria Maria",
+      "url": "https://open.spotify.com/track/4wP6mzWZC94dYmU6OYeljf"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -1851,22 +1871,6 @@
       "duration_ms": 165524,
       "name": "Tell It To My Heart",
       "url": "https://open.spotify.com/track/46nvQpUDsxpS08UTFOeKTA"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
-        "name": "Maria Maria",
-        "url": "https://open.spotify.com/album/4VMuvqjQv3yvtFdlLs9Mnd"
-      },
-      "artists": [
-        {
-          "name": "TECH IT DEEP",
-          "url": "https://open.spotify.com/artist/0zG1jPdH10g3d0dZINMYkw"
-        }
-      ],
-      "duration_ms": 161801,
-      "name": "Maria Maria",
-      "url": "https://open.spotify.com/track/4wP6mzWZC94dYmU6OYeljf"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -1971,22 +1975,22 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "messy in heaven",
-        "url": "https://open.spotify.com/album/0a9uNlopPXGg37OC20qDk6"
+        "name": "Genesys",
+        "url": "https://open.spotify.com/album/7rCb8j8kaVvoKE44Dxf21y"
       },
       "artists": [
         {
-          "name": "venbee",
-          "url": "https://open.spotify.com/artist/4UWWa5dKgTLAx8mv6Ju6X1"
+          "name": "Anyma",
+          "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
         },
         {
-          "name": "goddard.",
-          "url": "https://open.spotify.com/artist/3yDDYheQFqfhKZXdjFQuuP"
+          "name": "Chris Avantgarde",
+          "url": "https://open.spotify.com/artist/715OI7hiv58daVlEDXM47U"
         }
       ],
-      "duration_ms": 170437,
-      "name": "messy in heaven",
-      "url": "https://open.spotify.com/track/5RobAV5ROH5KARimi7n3cO"
+      "duration_ms": 186240,
+      "name": "Eternity",
+      "url": "https://open.spotify.com/track/1GBBbKOarAJ38HwIfLcOji"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -2011,22 +2015,22 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "Genesys",
-        "url": "https://open.spotify.com/album/7rCb8j8kaVvoKE44Dxf21y"
+        "name": "messy in heaven",
+        "url": "https://open.spotify.com/album/0a9uNlopPXGg37OC20qDk6"
       },
       "artists": [
         {
-          "name": "Anyma",
-          "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
+          "name": "venbee",
+          "url": "https://open.spotify.com/artist/4UWWa5dKgTLAx8mv6Ju6X1"
         },
         {
-          "name": "Chris Avantgarde",
-          "url": "https://open.spotify.com/artist/715OI7hiv58daVlEDXM47U"
+          "name": "goddard.",
+          "url": "https://open.spotify.com/artist/3yDDYheQFqfhKZXdjFQuuP"
         }
       ],
-      "duration_ms": 186240,
-      "name": "Eternity",
-      "url": "https://open.spotify.com/track/1GBBbKOarAJ38HwIfLcOji"
+      "duration_ms": 170437,
+      "name": "messy in heaven",
+      "url": "https://open.spotify.com/track/5RobAV5ROH5KARimi7n3cO"
     }
   ],
   "unique_name": "Dance Favourites",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0SlHbqMm3vJ.md) - [plain]
 
 > A collection R&B and Afropop cuts from West Africa’s finest artists\. Cover: Moelogo
 
-[Spotify](https://open.spotify.com/user/spotify) - 218,249 likes - 80 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 218,285 likes - 80 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0SlHbqMm3vJ.md) - [plain]
 | 37 | [OVAMI](https://open.spotify.com/track/1QO7M1UGJsHno3cf5aHCri) | [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT), [Flavour](https://open.spotify.com/artist/0oKNR4ahj1CPnK2kQmbOfo) | [OVAMI](https://open.spotify.com/album/2HYi42ojRq0cI1qiTttMj3) | 3:24 |
 | 38 | [Feran Mi](https://open.spotify.com/track/05iqnP8vkEYkrJLQPRMkyt) | [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV), [Johnny Drille](https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9) | [Maverick](https://open.spotify.com/album/2gbx0YcLDduf3oqujoq1fI) | 3:16 |
 | 39 | [Old](https://open.spotify.com/track/5NqUNHSCMW7ikeHXGFVIbN) | [Sam Opoku](https://open.spotify.com/artist/5NDzGl3leOCXxfUcyQC0sv) | [Old](https://open.spotify.com/album/7m8teznwhjVGEHlHQPhBGW) | 4:11 |
-| 40 | [Khartoum \(with Adekunle Gold\)](https://open.spotify.com/track/3dYbTnGgy0QoLyeNL7Rfw5) | [Bas](https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ), [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [Khartoum](https://open.spotify.com/album/5flPonJ0HI6M26uzBwNWvS) | 2:22 |
-| 41 | [Ole \(feat\. BNXN\)](https://open.spotify.com/track/6GkFuU6FVfx866bhM1T1Iz) | [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh), [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Qing Madi](https://open.spotify.com/album/03pDzWfMzVVQL3BRVIutJn) | 2:50 |
+| 40 | [Ole \(feat\. BNXN\)](https://open.spotify.com/track/6GkFuU6FVfx866bhM1T1Iz) | [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh), [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Qing Madi](https://open.spotify.com/album/03pDzWfMzVVQL3BRVIutJn) | 2:50 |
+| 41 | [Khartoum \(with Adekunle Gold\)](https://open.spotify.com/track/3dYbTnGgy0QoLyeNL7Rfw5) | [Bas](https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ), [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [Khartoum](https://open.spotify.com/album/5flPonJ0HI6M26uzBwNWvS) | 2:22 |
 | 42 | [All In](https://open.spotify.com/track/2VSX6yoH66zYjEbLieZMnl) | [GuiltyBeatz](https://open.spotify.com/artist/5DCdWXQ0QHQYlok4KK97em), [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu), [NESTA](https://open.spotify.com/artist/0TWVX68OyQscge2TZzChPx) | [All In](https://open.spotify.com/album/5tgwOWxriOGrApV0GEe32i) | 3:32 |
 | 43 | [capture my soul \(feat\. Joeboy\)](https://open.spotify.com/track/6nWbowN2n1DXxyfQGhx2Zz) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz), [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Sad Romance \(Deluxe\)](https://open.spotify.com/album/1gC4BgOWemcVLQBM8pnIsZ) | 3:31 |
 | 44 | [Ego Oyibo](https://open.spotify.com/track/0pqrP2OT0JMdHa5sPwpjr7) | [Chike](https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q) | [Ego Oyibo](https://open.spotify.com/album/3eh4uQxSDuk3CWeXMEh3SB) | 3:03 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0SlHbqMm3vJ.md) - [plain]
 | 79 | [Falling](https://open.spotify.com/track/4nZrMIPiY3Ti2OdsQkOb8I) | [Basiil](https://open.spotify.com/artist/1KOeTyRjoGl0MPu4NRklMV), [Camidoh](https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi) | [I Know I Am](https://open.spotify.com/album/0n8t233j9SxfeORXpC9msV) | 2:36 |
 | 80 | [Softies Vibe](https://open.spotify.com/track/45gohzfD4mrYZgVRkkNSRE) | [Rukmani](https://open.spotify.com/artist/4lz2CgyavcVw3XfnvID7FV) | [Angel On The Run](https://open.spotify.com/album/2T574vuC96N9WW0bpIQzcR) | 2:45 |
 
-Snapshot ID: `MCxiNjAwZWU3MjUzOTEzOGFkNDI3MGNiOWYzMWM0ZTZiZWE1YmI3Njll`
+Snapshot ID: `MCwxZTBmZWQ0OTkyNDc4MzQ1MWIwZmM3Y2YwNzc2YTk4ZDk5Nzk2MzI5`

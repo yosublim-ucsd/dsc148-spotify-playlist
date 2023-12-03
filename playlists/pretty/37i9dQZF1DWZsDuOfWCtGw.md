@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZsDuOfWCtGw.md) - [plain]
 
 > The biggest house tracks we couldn't get enough of this year\. Cover: FISHER
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,352 likes - 75 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,315 likes - 75 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZsDuOfWCtGw.md) - [plain]
 | 20 | [If Love Is A Skill](https://open.spotify.com/track/1WGkofNgcsQlcSkGNNT331) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J), [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q) | [Light Places](https://open.spotify.com/album/5k3OoQgNSIK8dt0WhRRKku) | 3:37 |
 | 21 | [Set Me Free](https://open.spotify.com/track/5zA3gMIFlgnhNQj39GcTqE) | [D.O.D](https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB) | [Set Me Free](https://open.spotify.com/album/2SR6UldibmBVT6te65lEuI) | 3:00 |
 | 22 | [Food for the Soul](https://open.spotify.com/track/7u0fz3V6cYeYTX91DMmIvQ) | [it's murph](https://open.spotify.com/artist/3zW0xazqnHoq9QV9zBROVC) | [Food for the Soul](https://open.spotify.com/album/3U20hCbqPM745vgo0PVcmw) | 3:30 |
-| 23 | [Fine Day Anthem](https://open.spotify.com/track/6tifCCTIVBLC2TmTquYG7G) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Boys Noize](https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv) | [Fine Day Anthem](https://open.spotify.com/album/2mxzA7momOeBvCyKDgZRIb) | 3:13 |
+| 23 | [Fine Day Anthem](https://open.spotify.com/track/6tifCCTIVBLC2TmTquYG7G) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Boys Noize](https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv), [Opus III](https://open.spotify.com/artist/1hQuWl1dueM7ChRUZRn05z) | [Fine Day Anthem](https://open.spotify.com/album/2mxzA7momOeBvCyKDgZRIb) | 3:13 |
 | 24 | [Rhythm \(Of The Night\)](https://open.spotify.com/track/4G58eym5EGj8ZG1qt8DXIx) | [Something Good](https://open.spotify.com/artist/0g5BdWwyb5SWkGnz9p4neX), [Yotto](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo) | [Rhythm \(Of The Night\)](https://open.spotify.com/album/3i4rXOFxdMqzFJtXTxV1IW) | 3:21 |
 | 25 | [Take Me Away](https://open.spotify.com/track/1EXDjOpV3Lbiv8CzJ7caHs) | [ACRAZE](https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd) | [Take Me Away](https://open.spotify.com/album/6EYwIO2gr5pTgQBysWPQvt) | 2:59 |
 | 26 | [Different Side](https://open.spotify.com/track/76Lq3l4TEzt2javAjXezAr) | [Michael Bibi](https://open.spotify.com/artist/4cvdQRyHmkSQSakUrW2oxv), [KinAhau](https://open.spotify.com/artist/3C7Tv0IqIGLjA9rpVaeHRB), [Audio Bullys](https://open.spotify.com/artist/5kwHgbzNHq1iHkUSrAmjjQ) | [Different Side](https://open.spotify.com/album/5MvoxzRfTWDYjNF98qRezc) | 3:13 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZsDuOfWCtGw.md) - [plain]
 | 74 | [Drive](https://open.spotify.com/track/61k7UiVsYL4S19A2XgJYhi) | [Prunk](https://open.spotify.com/artist/6FJfLfGO9X2AVNz0sFscrG), [Dennis Quin](https://open.spotify.com/artist/1iaGffGcjxdzSFkwfCN2Ul) | [Le Funk](https://open.spotify.com/album/60BqgLIFbLMXQTBiTQqiyp) | 3:59 |
 | 75 | [Move With Me](https://open.spotify.com/track/2Z97CJDXvzW9DpoUv5lMBY) | [Mia More](https://open.spotify.com/artist/5LokU7BD5Ue4oLzjtUWYGU), [Able Faces](https://open.spotify.com/artist/7nL523vzwv24ad0oFf2VZ2) | [Move With Me](https://open.spotify.com/album/5v5gVZILcpnPhyGfeeVPrc) | 2:41 |
 
-Snapshot ID: `MCw4NGJkYTYwMDFiNzk2NjIxYjIyMTRiNGY4YjQxNTJkN2RlMzFhMzhl`
+Snapshot ID: `MCwyNTYxNTYyYWU1M2JhNzlkODk2M2U5ZmUyZjQ3NmFkZjQyMGMxZGY2`

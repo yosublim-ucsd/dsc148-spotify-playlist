@@ -846,7 +846,7 @@
       ],
       "date_added": "2023-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-03",
       "duration_ms": 154360,
       "name": "Baddie",
       "url": "https://open.spotify.com/track/7uyeEbG6hyApgXuEypGcsZ"
@@ -9664,7 +9664,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-03",
       "duration_ms": 263344,
       "name": "\u4f60\u7684\u4e16\u754c",
       "url": "https://open.spotify.com/track/0bC5zT5eItHOF8Oz6RdD12"
@@ -10522,7 +10522,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": "2023-10-05",
+      "date_removed": null,
       "duration_ms": 258838,
       "name": "\u591c\u306b\u99c6\u3051\u308b",
       "url": "https://open.spotify.com/track/6MCjmGYlw6mQVWRFVgBRvB"
@@ -11534,7 +11534,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-03",
       "duration_ms": 220938,
       "name": "\u6642\u5019\u4e0d\u65e9",
       "url": "https://open.spotify.com/track/433FK3gktWwmjkAPMSqVNO"
@@ -12226,7 +12226,7 @@
       ],
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-01",
+      "date_removed": null,
       "duration_ms": 278133,
       "name": "\u70ba\u4f55\u56b4\u91cd\u5230\u9019\u6a23",
       "url": "https://open.spotify.com/track/2nNl8uFxj9tu9jqYwSzkMm"
@@ -12956,6 +12956,24 @@
       "duration_ms": 222668,
       "name": "\u7dca\u6025\u806f\u7d61\u4eba",
       "url": "https://open.spotify.com/track/1sb71AvysPMJlsx4qYtTpG"
+    },
+    {
+      "album": {
+        "name": "THE BOOK",
+        "url": "https://open.spotify.com/album/1xhO0GSoezdPJcSuNe1ySv"
+      },
+      "artists": [
+        {
+          "name": "YOASOBI",
+          "url": "https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj"
+        }
+      ],
+      "date_added": "2023-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248026,
+      "name": "\u7fa4\u9752",
+      "url": "https://open.spotify.com/track/1zd35Y44Blc1CwwVbW3Qnk"
     },
     {
       "album": {

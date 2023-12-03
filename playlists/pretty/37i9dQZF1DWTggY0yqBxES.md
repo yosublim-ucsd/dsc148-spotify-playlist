@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTggY0yqBxES.md) - [plain]
 
 > New, leftfield, and for the real hip\-hop stans! Cover: AG Club
 
-[Spotify](https://open.spotify.com/user/spotify) - 947,270 likes - 99 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 947,306 likes - 99 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTggY0yqBxES.md) - [plain]
 | 98 | [No L's](https://open.spotify.com/track/12CNybio0Bxean3F3uYugU) | [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD) | [Luv 4 Rent](https://open.spotify.com/album/6dtDTbVBQ9QwsNaqEnjsOT) | 2:55 |
 | 99 | [TURNIN' HEADS](https://open.spotify.com/track/3MT8ekypV5xYBLstqFpDkV) | [Kari Faux](https://open.spotify.com/artist/4c2ighP1wj8E5dVGJDCOiB), [Big K.R.I.T.](https://open.spotify.com/artist/0CKa42Jqrc9fSFbDjePaXP) | [TURNIN' HEADS](https://open.spotify.com/album/2vEstBvc73vJEJ39gFwE50) | 2:56 |
 
-Snapshot ID: `MCwyNmQ1ZjBhZjNmNTE3YjA4NGI3NWM3YjAxOThjOTVlNzBlNjVlMzcw`
+Snapshot ID: `MCxmM2Q2NjA3MmUzODQzMDg5MzE4OWI5YzY2Zjk1ZWViOTVmMTRkM2M5`

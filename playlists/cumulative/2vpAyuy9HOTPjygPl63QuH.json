@@ -30025,6 +30025,24 @@
     },
     {
       "album": {
+        "name": "Watts",
+        "url": "https://open.spotify.com/album/3IhzIcjFBD3VQHee0DB2Eg"
+      },
+      "artists": [
+        {
+          "name": "Miguel Bastida",
+          "url": "https://open.spotify.com/artist/5wHxSZdr7rIyqlFJxH1gCM"
+        }
+      ],
+      "date_added": "2023-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197250,
+      "name": "Watts",
+      "url": "https://open.spotify.com/track/5gsJJzemZZTCTSUxIFQm6u"
+    },
+    {
+      "album": {
         "name": "WDMS",
         "url": "https://open.spotify.com/album/0l1jwit8lXCrNVOFczjelq"
       },

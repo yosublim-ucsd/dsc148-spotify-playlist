@@ -1,12 +1,12 @@
 {
   "description": "Where hip-hop and soul meets jazz. Cover: Digable Planets",
-  "num_followers": 318723,
+  "num_followers": 318861,
   "original_name": "Acid Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NGUyMDJkM2Q1M2E4MjczNTVlMzlhZWIyNDcyN2UxNzgzZmVkMTFk",
+  "snapshot_id": "MCxiYjAxZDQ4NzE3YjhmMzE4MmM5ODIxNDNiZTcyYTBlMWRhZGZkNmVi",
   "tracks": [
     {
       "added_at": "2022-07-14 19:24:43",
@@ -247,22 +247,6 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
-        "name": "Dah Shinin'",
-        "url": "https://open.spotify.com/album/0TaYPOKCUDyvZU2APQ7kPM"
-      },
-      "artists": [
-        {
-          "name": "Smif-N-Wessun",
-          "url": "https://open.spotify.com/artist/2p0Hf0MF8Nw8lwAXokczf0"
-        }
-      ],
-      "duration_ms": 237720,
-      "name": "Bucktown",
-      "url": "https://open.spotify.com/track/5fyRqeycMofUoGmDis5Gu6"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
         "name": "Love Approach (Bonus Track)",
         "url": "https://open.spotify.com/album/7MKr7uOdenxSKTk0RCZ0mP"
       },
@@ -275,6 +259,22 @@
       "duration_ms": 282080,
       "name": "Funkin' for Jamaica",
       "url": "https://open.spotify.com/track/55xXj4qc4ByMxcVRb5Slc4"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
+        "name": "Dah Shinin'",
+        "url": "https://open.spotify.com/album/0TaYPOKCUDyvZU2APQ7kPM"
+      },
+      "artists": [
+        {
+          "name": "Smif-N-Wessun",
+          "url": "https://open.spotify.com/artist/2p0Hf0MF8Nw8lwAXokczf0"
+        }
+      ],
+      "duration_ms": 237720,
+      "name": "Bucktown",
+      "url": "https://open.spotify.com/track/5fyRqeycMofUoGmDis5Gu6"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -803,22 +803,6 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
-        "name": "Expansions",
-        "url": "https://open.spotify.com/album/1tMUBZE5cSHtJCn0HT9FaW"
-      },
-      "artists": [
-        {
-          "name": "Bacao Rhythm & Steel Band",
-          "url": "https://open.spotify.com/artist/0sjhSgEkyVa8QRmkkuckJ0"
-        }
-      ],
-      "duration_ms": 151948,
-      "name": "Space",
-      "url": "https://open.spotify.com/track/6pnryYnhE5zBugXN1QxPBg"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
         "name": "Pass It On",
         "url": "https://open.spotify.com/album/789KsljLATC1ZZDAxBeK27"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 253173,
       "name": "Be Thankful (feat. Erykah Badu)",
       "url": "https://open.spotify.com/track/20RTW1RVNY4B2uUo2MrFTg"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
+        "name": "Expansions",
+        "url": "https://open.spotify.com/album/1tMUBZE5cSHtJCn0HT9FaW"
+      },
+      "artists": [
+        {
+          "name": "Bacao Rhythm & Steel Band",
+          "url": "https://open.spotify.com/artist/0sjhSgEkyVa8QRmkkuckJ0"
+        }
+      ],
+      "duration_ms": 151948,
+      "name": "Space",
+      "url": "https://open.spotify.com/track/6pnryYnhE5zBugXN1QxPBg"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -859,22 +859,6 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
-        "name": "Hard Work",
-        "url": "https://open.spotify.com/album/36qRTryrmjNPkO6AX8fKTw"
-      },
-      "artists": [
-        {
-          "name": "John Handy",
-          "url": "https://open.spotify.com/artist/3Hl3dCaBcrnvBAOMAW4nJR"
-        }
-      ],
-      "duration_ms": 417960,
-      "name": "Hard Work",
-      "url": "https://open.spotify.com/track/4URLJkB6D5QxvOB7H3kmGI"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
         "name": "Adrenalin",
         "url": "https://open.spotify.com/album/79JZAbb01l4hyVs0JNJJEe"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 410319,
       "name": "Feel The Real",
       "url": "https://open.spotify.com/track/2tTMoXavkBdOsjKGaKdzdm"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
+        "name": "Hard Work",
+        "url": "https://open.spotify.com/album/36qRTryrmjNPkO6AX8fKTw"
+      },
+      "artists": [
+        {
+          "name": "John Handy",
+          "url": "https://open.spotify.com/artist/3Hl3dCaBcrnvBAOMAW4nJR"
+        }
+      ],
+      "duration_ms": 417960,
+      "name": "Hard Work",
+      "url": "https://open.spotify.com/track/4URLJkB6D5QxvOB7H3kmGI"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -927,22 +927,6 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
-        "name": "To The Sky (Remastered)",
-        "url": "https://open.spotify.com/album/1cTTBccilA8gZVMtbCpiJj"
-      },
-      "artists": [
-        {
-          "name": "Black Mighty Orchestra",
-          "url": "https://open.spotify.com/artist/6ToaCgW43Bu3SJURJyRAYI"
-        }
-      ],
-      "duration_ms": 196682,
-      "name": "Ocean Beach",
-      "url": "https://open.spotify.com/track/5bs3xYcyeBztF37B693bL4"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
         "name": "And Now The Legacy Begins",
         "url": "https://open.spotify.com/album/6AelbV20VsSWwnYhalKjdd"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 220000,
       "name": "Wash Your Face In My Sink",
       "url": "https://open.spotify.com/track/33thSPOfzybaOuyZb3ZLpm"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
+        "name": "To The Sky (Remastered)",
+        "url": "https://open.spotify.com/album/1cTTBccilA8gZVMtbCpiJj"
+      },
+      "artists": [
+        {
+          "name": "Black Mighty Orchestra",
+          "url": "https://open.spotify.com/artist/6ToaCgW43Bu3SJURJyRAYI"
+        }
+      ],
+      "duration_ms": 196682,
+      "name": "Ocean Beach",
+      "url": "https://open.spotify.com/track/5bs3xYcyeBztF37B693bL4"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -1275,6 +1275,22 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
+        "name": "I-Level",
+        "url": "https://open.spotify.com/album/0OCJNxmBNVXTS9tAAwXea8"
+      },
+      "artists": [
+        {
+          "name": "iLEVEL",
+          "url": "https://open.spotify.com/artist/6giP3D3xjy48VZKi3nk3eE"
+        }
+      ],
+      "duration_ms": 241539,
+      "name": "Give Me",
+      "url": "https://open.spotify.com/track/5VSxOUW2zqOo77pauTqpFG"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
         "name": "Rubberband EP",
         "url": "https://open.spotify.com/album/4iHtBFo4si4ke896dw2yHJ"
       },
@@ -1291,22 +1307,6 @@
       "duration_ms": 344986,
       "name": "Rubberband of Life (feat. Ledisi)",
       "url": "https://open.spotify.com/track/7IYV3GN411W65phaX3XP6Q"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
-        "name": "I-Level",
-        "url": "https://open.spotify.com/album/0OCJNxmBNVXTS9tAAwXea8"
-      },
-      "artists": [
-        {
-          "name": "iLEVEL",
-          "url": "https://open.spotify.com/artist/6giP3D3xjy48VZKi3nk3eE"
-        }
-      ],
-      "duration_ms": 241539,
-      "name": "Give Me",
-      "url": "https://open.spotify.com/track/5VSxOUW2zqOo77pauTqpFG"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
-        "name": "Dad Man Cat",
-        "url": "https://open.spotify.com/album/3jKJyvl0TGB6uLPlCoUClR"
-      },
-      "artists": [
-        {
-          "name": "Corduroy",
-          "url": "https://open.spotify.com/artist/4ABvs5lSQ25f8fIJ1EHgyH"
-        }
-      ],
-      "duration_ms": 265266,
-      "name": "Long Cool & Bubbly",
-      "url": "https://open.spotify.com/track/1R7t4fria7ZtUtFbRRbXSl"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
         "name": "Pushin' On",
         "url": "https://open.spotify.com/album/1uYaIjqXcqrCLIeA0syxar"
       },
@@ -1375,6 +1359,22 @@
       "duration_ms": 199560,
       "name": "Pushin' On",
       "url": "https://open.spotify.com/track/7LiC67aNpgqxkZJPC49UjM"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
+        "name": "Dad Man Cat",
+        "url": "https://open.spotify.com/album/3jKJyvl0TGB6uLPlCoUClR"
+      },
+      "artists": [
+        {
+          "name": "Corduroy",
+          "url": "https://open.spotify.com/artist/4ABvs5lSQ25f8fIJ1EHgyH"
+        }
+      ],
+      "duration_ms": 265266,
+      "name": "Long Cool & Bubbly",
+      "url": "https://open.spotify.com/track/1R7t4fria7ZtUtFbRRbXSl"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -1431,6 +1431,22 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
+        "name": "Groove Collective",
+        "url": "https://open.spotify.com/album/3yhvrkLMZjGzb0uBQq5y2N"
+      },
+      "artists": [
+        {
+          "name": "Groove Collective",
+          "url": "https://open.spotify.com/artist/4jtNe96TPlvnre0tgcL5pg"
+        }
+      ],
+      "duration_ms": 394826,
+      "name": "Whatchugot",
+      "url": "https://open.spotify.com/track/5kMnWSBKSLnN7Su1XDTttO"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
         "name": "In Pursuit Of The 13th Note",
         "url": "https://open.spotify.com/album/03uKLwGoJ4G5juOAJOuW5S"
       },
@@ -1463,22 +1479,6 @@
       "duration_ms": 319733,
       "name": "I Am The Black Gold Of The Sun",
       "url": "https://open.spotify.com/track/54xrXbM3vHE6JkVqkorRdG"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
-        "name": "Groove Collective",
-        "url": "https://open.spotify.com/album/3yhvrkLMZjGzb0uBQq5y2N"
-      },
-      "artists": [
-        {
-          "name": "Groove Collective",
-          "url": "https://open.spotify.com/artist/4jtNe96TPlvnre0tgcL5pg"
-        }
-      ],
-      "duration_ms": 394826,
-      "name": "Whatchugot",
-      "url": "https://open.spotify.com/track/5kMnWSBKSLnN7Su1XDTttO"
     },
     {
       "added_at": "2022-07-14 19:24:43",

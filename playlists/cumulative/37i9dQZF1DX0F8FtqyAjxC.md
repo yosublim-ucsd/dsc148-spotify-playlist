@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:3NKVm2Jedcf6ibJr6pMUVx">Jayda G</a>'s favorite tracks\. Updated regularly\. Curated by Jayda G\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-150 songs - 14 hr 10 min
+151 songs - 14 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,7 +99,8 @@
 | [Never Let You Go](https://open.spotify.com/track/6tn5z1MWbKF0y1MygcOn0J) | [Savanna](https://open.spotify.com/artist/1PlMwUWyWobenj3SHUzRdS) | [Back Street Brit Funk compiled by Joey Negro](https://open.spotify.com/album/7ePTPHIRm76J8B9bWu162e) | 5:37 | 2022-07-07 | 2023-11-23 |
 | [Never Let You Go](https://open.spotify.com/track/6xHJTRNAePpZjmXfFQgyTI) | [Savanna](https://open.spotify.com/artist/1PlMwUWyWobenj3SHUzRdS) | [Back Street Brit Funk compiled by Joey Negro](https://open.spotify.com/album/4cwOh2TV6zMqzp2zBP8MdS) | 5:37 | 2022-07-07 | 2022-10-01 |
 | [Never No More Lonely](https://open.spotify.com/track/3vvFD7Vd5gANTraXckJeuu) | [Fingers Inc.](https://open.spotify.com/artist/7DbXdVqrretuCKPkTeX8Kk) | [Another Side](https://open.spotify.com/album/0h1OjjFTmWLJaRGLhOuNf7) | 5:30 | 2023-04-11 | 2023-08-26 |
-| [Ngibambe \- Jayda G Remix](https://open.spotify.com/track/73FtRvqWb77kuYk40DYNNS) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Major League Djz](https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb), [Gaba Cannal](https://open.spotify.com/artist/2Hj2zBCjnAnmLmNIyjuMGo), [Russell Zuma](https://open.spotify.com/artist/0juy2RagFC1qDPlMhEkepe), [Jayda G](https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx) | [Ngibambe \(Jayda G Remix\)](https://open.spotify.com/album/2o0QaLNDnvx7Zoe9erwOzp) | 3:34 | 2023-11-22 |  |
+| [Ngibambe \- Jayda G Remix](https://open.spotify.com/track/73FtRvqWb77kuYk40DYNNS) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Major League Djz](https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb), [Gaba Cannal](https://open.spotify.com/artist/2Hj2zBCjnAnmLmNIyjuMGo), [Russell Zuma](https://open.spotify.com/artist/0juy2RagFC1qDPlMhEkepe), [Jayda G](https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx) | [Ngibambe \(Jayda G Remix\)](https://open.spotify.com/album/2o0QaLNDnvx7Zoe9erwOzp) | 3:34 | 2023-11-22 | 2023-12-03 |
+| [Ngibambe \- Jayda G Remix](https://open.spotify.com/track/7hUAGVK8EX0ZeXBlTNQd9P) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Major League Djz](https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb), [Gaba Cannal](https://open.spotify.com/artist/2Hj2zBCjnAnmLmNIyjuMGo), [Russell Zuma](https://open.spotify.com/artist/0juy2RagFC1qDPlMhEkepe), [Jayda G](https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx) | [Piano Republik \(Remixes\)](https://open.spotify.com/album/0rq3Jg8TCAfln9gJIwBBh8) | 3:34 | 2023-11-22 |  |
 | [Nkao Tempela](https://open.spotify.com/track/7JtWy2vvKVXLaymyTXUJ0K) | [Ch'cco](https://open.spotify.com/artist/2j4WQI5RTNgyEd7wbDTRe1), [Mellow & Sleazy](https://open.spotify.com/artist/5MJ5f1XKD9yu7aWfG8OGjz) | [Nkao Tempela](https://open.spotify.com/album/3D1mDVYQeABd8ZXUiyKVQE) | 6:01 | 2022-07-07 | 2023-03-09 |
 | [No Enemy](https://open.spotify.com/track/7qgUf0BDgA9QilFOX1JbBA) | [Animai](https://open.spotify.com/artist/3rUghwDRUFMbgo2AOwvh2f) | [No Enemy](https://open.spotify.com/album/5U5AZuUR3s4iHAKSaErCKH) | 3:58 | 2023-03-08 | 2023-08-22 |
 | [Obsession \- The Nassau Mix](https://open.spotify.com/track/40qDrLR7m89ot5AZlomjL5) | [Guy Cuevas](https://open.spotify.com/artist/3bGBcyrpabz51qp62K9MdK) | [Obsession](https://open.spotify.com/album/4462HXsBZVPwWL0rh08h8H) | 5:57 | 2022-11-21 | 2023-11-23 |

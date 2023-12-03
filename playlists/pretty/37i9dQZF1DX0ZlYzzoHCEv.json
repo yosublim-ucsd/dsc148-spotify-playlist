@@ -1,12 +1,12 @@
 {
   "description": "musica per quando non sai insomma come",
-  "num_followers": 68859,
+  "num_followers": 69193,
   "original_name": "la mia testa:",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYjFhNmMyODZjODljNzMyYTczMjljOTQ5NWU1ZTNiYmU0Njk5ZmMw",
+  "snapshot_id": "MCwzNmEyYmQzZTk4NTkzMGNiYTliOWY5MGY4ZjkxMTI0ZTU5OWMzNTg4",
   "tracks": [
     {
       "added_at": "2023-11-17 08:35:13",
@@ -339,22 +339,6 @@
     {
       "added_at": "2023-11-17 08:35:13",
       "album": {
-        "name": "SPIT IN MY FACE!",
-        "url": "https://open.spotify.com/album/2XurGuugADHAwF8gEYjtMA"
-      },
-      "artists": [
-        {
-          "name": "ThxSoMch",
-          "url": "https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF"
-        }
-      ],
-      "duration_ms": 147874,
-      "name": "SPIT IN MY FACE!",
-      "url": "https://open.spotify.com/track/1N8TTK1Uoy7UvQNUazfUt5"
-    },
-    {
-      "added_at": "2023-11-17 08:35:13",
-      "album": {
         "name": "My 21st Century Blues",
         "url": "https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH"
       },
@@ -375,18 +359,18 @@
     {
       "added_at": "2023-11-17 08:35:13",
       "album": {
-        "name": "The Beginning: Cupid",
-        "url": "https://open.spotify.com/album/5letLUZIFsQikJYShfGNs4"
+        "name": "SPIT IN MY FACE!",
+        "url": "https://open.spotify.com/album/2XurGuugADHAwF8gEYjtMA"
       },
       "artists": [
         {
-          "name": "FIFTY FIFTY",
-          "url": "https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6"
+          "name": "ThxSoMch",
+          "url": "https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF"
         }
       ],
-      "duration_ms": 174253,
-      "name": "Cupid - Twin Ver.",
-      "url": "https://open.spotify.com/track/7FbrGaHYVDmfr7KoLIZnQ7"
+      "duration_ms": 147874,
+      "name": "SPIT IN MY FACE!",
+      "url": "https://open.spotify.com/track/1N8TTK1Uoy7UvQNUazfUt5"
     },
     {
       "added_at": "2023-11-17 08:35:13",
@@ -407,6 +391,22 @@
       "duration_ms": 156943,
       "name": "Unholy (feat. Kim Petras)",
       "url": "https://open.spotify.com/track/3nqQXoyQOWXiESFLlDF1hG"
+    },
+    {
+      "added_at": "2023-11-17 08:35:13",
+      "album": {
+        "name": "The Beginning: Cupid",
+        "url": "https://open.spotify.com/album/5letLUZIFsQikJYShfGNs4"
+      },
+      "artists": [
+        {
+          "name": "FIFTY FIFTY",
+          "url": "https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6"
+        }
+      ],
+      "duration_ms": 174253,
+      "name": "Cupid - Twin Ver.",
+      "url": "https://open.spotify.com/track/7FbrGaHYVDmfr7KoLIZnQ7"
     },
     {
       "added_at": "2023-11-17 08:35:13",
@@ -543,6 +543,22 @@
     {
       "added_at": "2023-11-17 08:35:13",
       "album": {
+        "name": "Gemini Rights",
+        "url": "https://open.spotify.com/album/3Ks0eeH0GWpY4AU20D5HPD"
+      },
+      "artists": [
+        {
+          "name": "Steve Lacy",
+          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
+        }
+      ],
+      "duration_ms": 232066,
+      "name": "Bad Habit",
+      "url": "https://open.spotify.com/track/4k6Uh1HXdhtusDW5y8Gbvy"
+    },
+    {
+      "added_at": "2023-11-17 08:35:13",
+      "album": {
         "name": "Gawk",
         "url": "https://open.spotify.com/album/1vWOYk3hF5bgVUUUaPvYLh"
       },
@@ -575,22 +591,6 @@
       "duration_ms": 85360,
       "name": "nuts",
       "url": "https://open.spotify.com/track/4k3xDpAdBuM17mNNHhOZkK"
-    },
-    {
-      "added_at": "2023-11-17 08:35:13",
-      "album": {
-        "name": "Gemini Rights",
-        "url": "https://open.spotify.com/album/3Ks0eeH0GWpY4AU20D5HPD"
-      },
-      "artists": [
-        {
-          "name": "Steve Lacy",
-          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
-        }
-      ],
-      "duration_ms": 232066,
-      "name": "Bad Habit",
-      "url": "https://open.spotify.com/track/4k6Uh1HXdhtusDW5y8Gbvy"
     },
     {
       "added_at": "2023-11-17 08:35:13",
@@ -727,6 +727,22 @@
     {
       "added_at": "2023-11-17 08:35:13",
       "album": {
+        "name": "RAVE",
+        "url": "https://open.spotify.com/album/0doOTVLn5DctSLGftsar6T"
+      },
+      "artists": [
+        {
+          "name": "Dxrk \u30c0\u30fc\u30af",
+          "url": "https://open.spotify.com/artist/5TvFfw1MgSntdU9A7yncyA"
+        }
+      ],
+      "duration_ms": 169245,
+      "name": "RAVE",
+      "url": "https://open.spotify.com/track/01kfSdF9zfcDLri5sSWEoL"
+    },
+    {
+      "added_at": "2023-11-17 08:35:13",
+      "album": {
         "name": "Just Wanna Rock",
         "url": "https://open.spotify.com/album/2FD6g8bXEn2uQMYbeqqoCg"
       },
@@ -755,22 +771,6 @@
       "duration_ms": 110416,
       "name": "NARCISSISTIC PERSONALITY DISORDER",
       "url": "https://open.spotify.com/track/6lDJ0CkQ6LdQv5EUQ39rpg"
-    },
-    {
-      "added_at": "2023-11-17 08:35:13",
-      "album": {
-        "name": "RAVE",
-        "url": "https://open.spotify.com/album/0doOTVLn5DctSLGftsar6T"
-      },
-      "artists": [
-        {
-          "name": "Dxrk \u30c0\u30fc\u30af",
-          "url": "https://open.spotify.com/artist/5TvFfw1MgSntdU9A7yncyA"
-        }
-      ],
-      "duration_ms": 169245,
-      "name": "RAVE",
-      "url": "https://open.spotify.com/track/01kfSdF9zfcDLri5sSWEoL"
     },
     {
       "added_at": "2023-11-17 08:35:13",
@@ -895,22 +895,6 @@
     {
       "added_at": "2023-11-17 08:35:13",
       "album": {
-        "name": "DISORDER",
-        "url": "https://open.spotify.com/album/3yKGB4IYu6MeLkhFJFn9eI"
-      },
-      "artists": [
-        {
-          "name": "Kxllswxtch",
-          "url": "https://open.spotify.com/artist/2VDZoCBGjxbHJbnzSX5nP6"
-        }
-      ],
-      "duration_ms": 120428,
-      "name": "WASTE",
-      "url": "https://open.spotify.com/track/4NgherJDfCXWBZBYheM4jK"
-    },
-    {
-      "added_at": "2023-11-17 08:35:13",
-      "album": {
         "name": "How to: Friend, Love, Freefall",
         "url": "https://open.spotify.com/album/7vXiklrUeffx5o2F8VYwm3"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 152293,
       "name": "It's Called: Freefall",
       "url": "https://open.spotify.com/track/474uVhyGgK5MtY9gMcDgGl"
+    },
+    {
+      "added_at": "2023-11-17 08:35:13",
+      "album": {
+        "name": "DISORDER",
+        "url": "https://open.spotify.com/album/3yKGB4IYu6MeLkhFJFn9eI"
+      },
+      "artists": [
+        {
+          "name": "Kxllswxtch",
+          "url": "https://open.spotify.com/artist/2VDZoCBGjxbHJbnzSX5nP6"
+        }
+      ],
+      "duration_ms": 120428,
+      "name": "WASTE",
+      "url": "https://open.spotify.com/track/4NgherJDfCXWBZBYheM4jK"
     },
     {
       "added_at": "2023-11-17 08:35:13",
@@ -943,22 +943,6 @@
     {
       "added_at": "2023-11-17 08:35:13",
       "album": {
-        "name": "My Ordinary Life",
-        "url": "https://open.spotify.com/album/4AmFZET7RGujQAhG80kjwu"
-      },
-      "artists": [
-        {
-          "name": "The Living Tombstone",
-          "url": "https://open.spotify.com/artist/0I6yADrmeyvw66g7yjkqIF"
-        }
-      ],
-      "duration_ms": 230893,
-      "name": "My Ordinary Life",
-      "url": "https://open.spotify.com/track/6tMdpUXfT70TD6Eh3XfB1p"
-    },
-    {
-      "added_at": "2023-11-17 08:35:13",
-      "album": {
         "name": "vendetta!",
         "url": "https://open.spotify.com/album/68lLFdlKCAqUQ3p3uDlozr"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 107044,
       "name": "vendetta!",
       "url": "https://open.spotify.com/track/5Sk39LuvdwuvL84jD01Dum"
+    },
+    {
+      "added_at": "2023-11-17 08:35:13",
+      "album": {
+        "name": "My Ordinary Life",
+        "url": "https://open.spotify.com/album/4AmFZET7RGujQAhG80kjwu"
+      },
+      "artists": [
+        {
+          "name": "The Living Tombstone",
+          "url": "https://open.spotify.com/artist/0I6yADrmeyvw66g7yjkqIF"
+        }
+      ],
+      "duration_ms": 230893,
+      "name": "My Ordinary Life",
+      "url": "https://open.spotify.com/track/6tMdpUXfT70TD6Eh3XfB1p"
     },
     {
       "added_at": "2023-11-17 08:35:13",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2023-11-17 08:35:13",
       "album": {
-        "name": "Players",
-        "url": "https://open.spotify.com/album/4cAAsw7mPkGt15GXQzWlrM"
-      },
-      "artists": [
-        {
-          "name": "Coi Leray",
-          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
-        }
-      ],
-      "duration_ms": 139560,
-      "name": "Players",
-      "url": "https://open.spotify.com/track/6UN73IYd0hZxLi8wFPMQij"
-    },
-    {
-      "added_at": "2023-11-17 08:35:13",
-      "album": {
         "name": "Gemini Rights",
         "url": "https://open.spotify.com/album/3Ks0eeH0GWpY4AU20D5HPD"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 156506,
       "name": "Static",
       "url": "https://open.spotify.com/track/4OmfWzukSVD140NiAIEjem"
+    },
+    {
+      "added_at": "2023-11-17 08:35:13",
+      "album": {
+        "name": "Players",
+        "url": "https://open.spotify.com/album/4cAAsw7mPkGt15GXQzWlrM"
+      },
+      "artists": [
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        }
+      ],
+      "duration_ms": 139560,
+      "name": "Players",
+      "url": "https://open.spotify.com/track/6UN73IYd0hZxLi8wFPMQij"
     },
     {
       "added_at": "2023-11-17 08:35:13",

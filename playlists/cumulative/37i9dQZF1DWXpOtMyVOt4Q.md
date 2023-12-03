@@ -4,7 +4,7 @@
 
 > Chill tunes to soundtrack your gaming session.
 
-225 songs - 13 hr 31 min
+226 songs - 13 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -202,7 +202,8 @@
 | [The Beach](https://open.spotify.com/track/41CMzNSRuMlxCxBiFMJhpC) | [hélix](https://open.spotify.com/artist/0ro2QSQn9ViTKd2iuaygHj) | [The Beach](https://open.spotify.com/album/0b7YKgSQgWkVxpYsbd4oBQ) | 2:36 | 2023-09-08 |  |
 | [The Choice](https://open.spotify.com/track/2IXJyG1DX93g2EhFXghz37) | [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt), [Alan Umstead](https://open.spotify.com/artist/6dwp73sWeoHMobWygzWYDP) | [The Last of Us](https://open.spotify.com/album/2GFFxj8aR2XpwIMYanOPjh) | 1:42 | 2019-12-16 | 2022-09-01 |
 | [The hall is dancing](https://open.spotify.com/track/6UnSlwVAEPblKJING6FH5Z) | [Fabrizio Paterlini](https://open.spotify.com/artist/0jrFMgW018F1XVnLtCXOKi) | [Transitions](https://open.spotify.com/album/7dopFnnInju2yjJe127paH) | 1:03 | 2023-09-08 |  |
-| [The Lonely Tree Corecore Depressed](https://open.spotify.com/track/6op1kH6zHU9JJu7vRZwrap) | [Leox](https://open.spotify.com/artist/7c4E98MuM8NBQGrSDC2n9r) | [The Lonely Tree Corecore Depressed](https://open.spotify.com/album/5MS01aBztEzPQLUN5OZhpd) | 1:22 | 2023-11-29 |  |
+| [the lonely tree \(slowed\)](https://open.spotify.com/track/4Jjsn1g5vJJPdbPuJD2XBM) | [ciaffa](https://open.spotify.com/artist/40jlY1amdIaVtPMKjdBj7x) | [the lonely tree](https://open.spotify.com/album/6RPBdWsjsNsJWN9i2M3tDe) | 2:45 | 2023-11-29 |  |
+| [The Lonely Tree Corecore Depressed](https://open.spotify.com/track/6op1kH6zHU9JJu7vRZwrap) | [Leox](https://open.spotify.com/artist/7c4E98MuM8NBQGrSDC2n9r) | [The Lonely Tree Corecore Depressed](https://open.spotify.com/album/5MS01aBztEzPQLUN5OZhpd) | 1:22 | 2023-11-29 | 2023-12-03 |
 | [The Long Spring](https://open.spotify.com/track/1pRSp8bfk0kruIwrINVZ3u) | [Explosions In The Sky](https://open.spotify.com/artist/1uQWmt1OhuHGRKmZ2ZcL6p) | [Thank You \(Anniversary Compilation\)](https://open.spotify.com/album/5sVNhFHuw3979uDE6QHBXS) | 5:34 | 2019-12-16 | 2022-07-29 |
 | [The Long Spring](https://open.spotify.com/track/5IXJMEnetYlvXhCykA4SHk) | [Explosions In The Sky](https://open.spotify.com/artist/1uQWmt1OhuHGRKmZ2ZcL6p) | [Thank You](https://open.spotify.com/album/0lsemTnF3BwhU1ISBeyrOc) | 5:34 | 2019-12-16 | 2022-09-01 |
 | [The Loser](https://open.spotify.com/track/0yTGQpPOgcsS8Xqp5bQO58) | [Verzache](https://open.spotify.com/artist/59KX7XUUgAOOo5IyDjca0T) | [The Loser](https://open.spotify.com/album/77bm4AHldCf4STieStlVJg) | 2:11 | 2022-08-31 | 2022-10-06 |

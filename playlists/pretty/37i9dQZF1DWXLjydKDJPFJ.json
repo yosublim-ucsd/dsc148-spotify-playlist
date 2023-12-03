@@ -1,12 +1,12 @@
 {
   "description": "Compare, prenda el carb\u00f3n y saque la bocina que ya se arm\u00f3 la carnita.",
-  "num_followers": 341797,
+  "num_followers": 342092,
   "original_name": "Carnita Asada Estilo Norte\u00f1o",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxODg1NWI1ODEzYWU2MjI2MDQ4ZGNiMjUxMWQzNjllY2RmOWZjMzc2",
+  "snapshot_id": "MCw0OTUzOTA0ODRkMmE5YjU3MzA3YmFmOGYzYzNhZjc2ZmQyOTFiNjJh",
   "tracks": [
     {
       "added_at": "2023-11-08 23:01:07",
@@ -475,6 +475,22 @@
     {
       "added_at": "2023-11-08 23:01:07",
       "album": {
+        "name": "Desvelado",
+        "url": "https://open.spotify.com/album/2BCS2taG5BuYeL3QPCbcz2"
+      },
+      "artists": [
+        {
+          "name": "Bobby Pulido",
+          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
+        }
+      ],
+      "duration_ms": 221226,
+      "name": "Desvelado",
+      "url": "https://open.spotify.com/track/2JJSGhPpATm8lXeYjD95fw"
+    },
+    {
+      "added_at": "2023-11-08 23:01:07",
+      "album": {
         "name": "Ya Sup\u00e9rame (En Vivo)",
         "url": "https://open.spotify.com/album/1Aiov6IELpNAdCHMzbz6Ml"
       },
@@ -491,38 +507,18 @@
     {
       "added_at": "2023-11-08 23:01:07",
       "album": {
-        "name": "Puerta Abierta, Vol. 1 (En Vivo)",
-        "url": "https://open.spotify.com/album/7rJgUM53wtu1WnwcAMaEgg"
+        "name": "Libre Por Naturaleza",
+        "url": "https://open.spotify.com/album/2XsiX1tRabcnYmJatmnsSK"
       },
       "artists": [
         {
-          "name": "El Fantasma",
-          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
-        },
-        {
-          "name": "Los Dos Carnales",
-          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+          "name": "Duelo",
+          "url": "https://open.spotify.com/artist/0nnp7oJpY2J6yZOqtdKaWq"
         }
       ],
-      "duration_ms": 142064,
-      "name": "Cabr\u00f3n y Vago - En Vivo",
-      "url": "https://open.spotify.com/track/4nbWX2HzrOEnX4xxvYRCyU"
-    },
-    {
-      "added_at": "2023-11-08 23:01:07",
-      "album": {
-        "name": "Desvelado",
-        "url": "https://open.spotify.com/album/2BCS2taG5BuYeL3QPCbcz2"
-      },
-      "artists": [
-        {
-          "name": "Bobby Pulido",
-          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
-        }
-      ],
-      "duration_ms": 221226,
-      "name": "Desvelado",
-      "url": "https://open.spotify.com/track/2JJSGhPpATm8lXeYjD95fw"
+      "duration_ms": 192760,
+      "name": "Pu\u00f1o De Diamantes",
+      "url": "https://open.spotify.com/track/1IzGf1RLpHuImi5lsCD3T9"
     },
     {
       "added_at": "2023-11-08 23:01:07",
@@ -547,18 +543,22 @@
     {
       "added_at": "2023-11-08 23:01:07",
       "album": {
-        "name": "Libre Por Naturaleza",
-        "url": "https://open.spotify.com/album/2XsiX1tRabcnYmJatmnsSK"
+        "name": "Puerta Abierta, Vol. 1 (En Vivo)",
+        "url": "https://open.spotify.com/album/7rJgUM53wtu1WnwcAMaEgg"
       },
       "artists": [
         {
-          "name": "Duelo",
-          "url": "https://open.spotify.com/artist/0nnp7oJpY2J6yZOqtdKaWq"
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        },
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
         }
       ],
-      "duration_ms": 192760,
-      "name": "Pu\u00f1o De Diamantes",
-      "url": "https://open.spotify.com/track/1IzGf1RLpHuImi5lsCD3T9"
+      "duration_ms": 142064,
+      "name": "Cabr\u00f3n y Vago - En Vivo",
+      "url": "https://open.spotify.com/track/4nbWX2HzrOEnX4xxvYRCyU"
     },
     {
       "added_at": "2023-11-08 23:01:07",
@@ -595,22 +595,6 @@
     {
       "added_at": "2023-11-08 23:01:07",
       "album": {
-        "name": "Soy Lo Que Quiero... Indispensable (Edici\u00f3n Especial)",
-        "url": "https://open.spotify.com/album/4kWF9XKqqLONgYtUQ4alvb"
-      },
-      "artists": [
-        {
-          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
-          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
-        }
-      ],
-      "duration_ms": 237080,
-      "name": "Ojos Verdes",
-      "url": "https://open.spotify.com/track/6981hdSOqG8tP6xTqaySa1"
-    },
-    {
-      "added_at": "2023-11-08 23:01:07",
-      "album": {
         "name": "Calidad",
         "url": "https://open.spotify.com/album/2ZaaYylAxHJ6sPJe9mHwHb"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 170053,
       "name": "Calidad",
       "url": "https://open.spotify.com/track/0uBcoM4zxRXk7kmsmxoiFS"
+    },
+    {
+      "added_at": "2023-11-08 23:01:07",
+      "album": {
+        "name": "Soy Lo Que Quiero... Indispensable (Edici\u00f3n Especial)",
+        "url": "https://open.spotify.com/album/4kWF9XKqqLONgYtUQ4alvb"
+      },
+      "artists": [
+        {
+          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
+          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
+        }
+      ],
+      "duration_ms": 237080,
+      "name": "Ojos Verdes",
+      "url": "https://open.spotify.com/track/6981hdSOqG8tP6xTqaySa1"
     },
     {
       "added_at": "2023-11-08 23:01:07",
@@ -723,22 +723,6 @@
     {
       "added_at": "2023-11-08 23:01:07",
       "album": {
-        "name": "Simbolo Sexual",
-        "url": "https://open.spotify.com/album/2WJhXkMXbuXnwkWVb2u0PJ"
-      },
-      "artists": [
-        {
-          "name": "Panter B\u00e9lico",
-          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
-        }
-      ],
-      "duration_ms": 180208,
-      "name": "S\u00edmbolo Sexual",
-      "url": "https://open.spotify.com/track/7nDgUvJLsinxKYyQhv3tAK"
-    },
-    {
-      "added_at": "2023-11-08 23:01:07",
-      "album": {
         "name": "Se\u00f1alado por Costumbre",
         "url": "https://open.spotify.com/album/0zwj2mx5EeRPkdU9r9yeXs"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 176000,
       "name": "La Escuela No Me Gust\u00f3",
       "url": "https://open.spotify.com/track/4qArKIA7dnmdushoBlkV94"
+    },
+    {
+      "added_at": "2023-11-08 23:01:07",
+      "album": {
+        "name": "Simbolo Sexual",
+        "url": "https://open.spotify.com/album/2WJhXkMXbuXnwkWVb2u0PJ"
+      },
+      "artists": [
+        {
+          "name": "Panter B\u00e9lico",
+          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
+        }
+      ],
+      "duration_ms": 180208,
+      "name": "S\u00edmbolo Sexual",
+      "url": "https://open.spotify.com/track/7nDgUvJLsinxKYyQhv3tAK"
     },
     {
       "added_at": "2023-11-08 23:01:07",
@@ -863,22 +863,6 @@
     {
       "added_at": "2023-11-08 23:01:07",
       "album": {
-        "name": "Punto y Aparte",
-        "url": "https://open.spotify.com/album/7Gz10vsu3ws0QRJpAHpuL0"
-      },
-      "artists": [
-        {
-          "name": "Panter B\u00e9lico",
-          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
-        }
-      ],
-      "duration_ms": 158918,
-      "name": "Punto y Aparte",
-      "url": "https://open.spotify.com/track/7z2Z8mwfsoMnNArKB946gU"
-    },
-    {
-      "added_at": "2023-11-08 23:01:07",
-      "album": {
         "name": "En Vivo desde El Foro Lizos Music",
         "url": "https://open.spotify.com/album/6Am6MERXwzXEATDw7cdnag"
       },
@@ -927,6 +911,22 @@
     {
       "added_at": "2023-11-08 23:01:07",
       "album": {
+        "name": "Punto y Aparte",
+        "url": "https://open.spotify.com/album/7Gz10vsu3ws0QRJpAHpuL0"
+      },
+      "artists": [
+        {
+          "name": "Panter B\u00e9lico",
+          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
+        }
+      ],
+      "duration_ms": 158918,
+      "name": "Punto y Aparte",
+      "url": "https://open.spotify.com/track/7z2Z8mwfsoMnNArKB946gU"
+    },
+    {
+      "added_at": "2023-11-08 23:01:07",
+      "album": {
         "name": "Ya Me Entere (En Vivo)",
         "url": "https://open.spotify.com/album/0P74VgufHFNWnZrrn9Xhpe"
       },
@@ -947,6 +947,22 @@
     {
       "added_at": "2023-11-08 23:01:07",
       "album": {
+        "name": "Todo tuyo",
+        "url": "https://open.spotify.com/album/6EGXXDM0tEb4mTuC4ofMei"
+      },
+      "artists": [
+        {
+          "name": "Pesado",
+          "url": "https://open.spotify.com/artist/4BwiodzEp9Hwes5HeFjMVK"
+        }
+      ],
+      "duration_ms": 235906,
+      "name": "Loco",
+      "url": "https://open.spotify.com/track/0uCuoqJ3uvSTU8I3Vtvnfu"
+    },
+    {
+      "added_at": "2023-11-08 23:01:07",
+      "album": {
         "name": "3 Doritos Despues (En Vivo)",
         "url": "https://open.spotify.com/album/4PJXpxazXhN6AOC0xUagQF"
       },
@@ -963,22 +979,6 @@
       "duration_ms": 218453,
       "name": "3 Doritos Despues (En Vivo)",
       "url": "https://open.spotify.com/track/07aKw7LfC27IGSb5ppldIQ"
-    },
-    {
-      "added_at": "2023-11-08 23:01:07",
-      "album": {
-        "name": "Todo tuyo",
-        "url": "https://open.spotify.com/album/6EGXXDM0tEb4mTuC4ofMei"
-      },
-      "artists": [
-        {
-          "name": "Pesado",
-          "url": "https://open.spotify.com/artist/4BwiodzEp9Hwes5HeFjMVK"
-        }
-      ],
-      "duration_ms": 235906,
-      "name": "Loco",
-      "url": "https://open.spotify.com/track/0uCuoqJ3uvSTU8I3Vtvnfu"
     },
     {
       "added_at": "2023-11-08 23:01:07",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2023-11-08 23:01:07",
       "album": {
-        "name": "Te Amo",
-        "url": "https://open.spotify.com/album/52PyyMTKyJtiNzxvnoGaPq"
-      },
-      "artists": [
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        }
-      ],
-      "duration_ms": 193621,
-      "name": "Te Amo",
-      "url": "https://open.spotify.com/track/2r69ZhXm40bzjGIPdRvaqk"
-    },
-    {
-      "added_at": "2023-11-08 23:01:07",
-      "album": {
         "name": "Vuelvo Contigo",
         "url": "https://open.spotify.com/album/3Bqrpyh09jij3b2SiqzQlU"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 161493,
       "name": "A M\u00ed, \u00bfQu\u00e9 Me Qued\u00f3?",
       "url": "https://open.spotify.com/track/0b72rOmkspR8dJHsUjaVi4"
+    },
+    {
+      "added_at": "2023-11-08 23:01:07",
+      "album": {
+        "name": "Te Amo",
+        "url": "https://open.spotify.com/album/52PyyMTKyJtiNzxvnoGaPq"
+      },
+      "artists": [
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        }
+      ],
+      "duration_ms": 193621,
+      "name": "Te Amo",
+      "url": "https://open.spotify.com/track/2r69ZhXm40bzjGIPdRvaqk"
     },
     {
       "added_at": "2023-11-08 23:01:07",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2023-11-08 23:01:07",
       "album": {
-        "name": "Bonita",
-        "url": "https://open.spotify.com/album/263Byb9kFZxoZMcmPEbKca"
-      },
-      "artists": [
-        {
-          "name": "Los Dorados",
-          "url": "https://open.spotify.com/artist/5whwFeuDSOzWgGAUs8KTUI"
-        }
-      ],
-      "duration_ms": 201084,
-      "name": "Bonita",
-      "url": "https://open.spotify.com/track/5TdIP1VCcWF1CRw810RRqc"
-    },
-    {
-      "added_at": "2023-11-08 23:01:07",
-      "album": {
         "name": "Unas M\u00edas y Otras Prestadas, Vol. 2",
         "url": "https://open.spotify.com/album/6sF3LfhZPhZWAbdzsJ6hHz"
       },
@@ -1415,6 +1399,22 @@
       "duration_ms": 224523,
       "name": "Te Felicito",
       "url": "https://open.spotify.com/track/5S5iGgjym5A1JUDAv50wYg"
+    },
+    {
+      "added_at": "2023-11-08 23:01:07",
+      "album": {
+        "name": "Bonita",
+        "url": "https://open.spotify.com/album/263Byb9kFZxoZMcmPEbKca"
+      },
+      "artists": [
+        {
+          "name": "Los Dorados",
+          "url": "https://open.spotify.com/artist/5whwFeuDSOzWgGAUs8KTUI"
+        }
+      ],
+      "duration_ms": 201084,
+      "name": "Bonita",
+      "url": "https://open.spotify.com/track/5TdIP1VCcWF1CRw810RRqc"
     },
     {
       "added_at": "2023-11-08 23:01:07",
@@ -1699,22 +1699,6 @@
     {
       "added_at": "2023-11-08 23:01:07",
       "album": {
-        "name": "Malamente",
-        "url": "https://open.spotify.com/album/043NQRYJMoTeqqMQpvXYh4"
-      },
-      "artists": [
-        {
-          "name": "Yuridia",
-          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
-        }
-      ],
-      "duration_ms": 176292,
-      "name": "Malamente",
-      "url": "https://open.spotify.com/track/6hz7lasdrLrRF7foBVVHbi"
-    },
-    {
-      "added_at": "2023-11-08 23:01:07",
-      "album": {
         "name": "Me Cuesta",
         "url": "https://open.spotify.com/album/62C5ubjYWmmEPfryq1uiUa"
       },
@@ -1727,6 +1711,22 @@
       "duration_ms": 181374,
       "name": "Me Cuesta",
       "url": "https://open.spotify.com/track/7Es3jdZdUTMhAlYo0EzBpN"
+    },
+    {
+      "added_at": "2023-11-08 23:01:07",
+      "album": {
+        "name": "Malamente",
+        "url": "https://open.spotify.com/album/043NQRYJMoTeqqMQpvXYh4"
+      },
+      "artists": [
+        {
+          "name": "Yuridia",
+          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+        }
+      ],
+      "duration_ms": 176292,
+      "name": "Malamente",
+      "url": "https://open.spotify.com/track/6hz7lasdrLrRF7foBVVHbi"
     },
     {
       "added_at": "2023-11-08 23:01:07",
@@ -2103,6 +2103,22 @@
     {
       "added_at": "2023-11-08 23:01:07",
       "album": {
+        "name": "Lives, Vol.1",
+        "url": "https://open.spotify.com/album/4cWhUcmMJdjiYA4FyKpCFQ"
+      },
+      "artists": [
+        {
+          "name": "Secretto",
+          "url": "https://open.spotify.com/artist/1p2oJls3t03KjBx99Lj2ZQ"
+        }
+      ],
+      "duration_ms": 240416,
+      "name": "Le Hace Falta Un Beso",
+      "url": "https://open.spotify.com/track/0b601Fnoi2vTzGeSMippyu"
+    },
+    {
+      "added_at": "2023-11-08 23:01:07",
+      "album": {
         "name": "En Cambio No",
         "url": "https://open.spotify.com/album/2hNjG4PRS550kZO1sjj02l"
       },
@@ -2135,22 +2151,6 @@
       "duration_ms": 203440,
       "name": "Te Quiero Mucho",
       "url": "https://open.spotify.com/track/6PyD9wjBeQB2pFZJl14KsM"
-    },
-    {
-      "added_at": "2023-11-08 23:01:07",
-      "album": {
-        "name": "Lives, Vol.1",
-        "url": "https://open.spotify.com/album/4cWhUcmMJdjiYA4FyKpCFQ"
-      },
-      "artists": [
-        {
-          "name": "Secretto",
-          "url": "https://open.spotify.com/artist/1p2oJls3t03KjBx99Lj2ZQ"
-        }
-      ],
-      "duration_ms": 240416,
-      "name": "Le Hace Falta Un Beso",
-      "url": "https://open.spotify.com/track/0b601Fnoi2vTzGeSMippyu"
     },
     {
       "added_at": "2023-11-08 23:01:07",
@@ -2271,6 +2271,22 @@
     {
       "added_at": "2023-11-08 23:01:07",
       "album": {
+        "name": "TE QUIERO",
+        "url": "https://open.spotify.com/album/4JQx52nfJX5YfcEMTs1ceq"
+      },
+      "artists": [
+        {
+          "name": "Pesado",
+          "url": "https://open.spotify.com/artist/4BwiodzEp9Hwes5HeFjMVK"
+        }
+      ],
+      "duration_ms": 153733,
+      "name": "TE QUIERO",
+      "url": "https://open.spotify.com/track/7r3xWBPAiFNZS7QVxXc3HJ"
+    },
+    {
+      "added_at": "2023-11-08 23:01:07",
+      "album": {
         "name": "De Norte a Sur",
         "url": "https://open.spotify.com/album/0WbzAROHxqLtsjzrd6UtXm"
       },
@@ -2287,22 +2303,6 @@
       "duration_ms": 167827,
       "name": "Me Gana el Sentimiento",
       "url": "https://open.spotify.com/track/0NcONqc4jhioyKur5pvPc3"
-    },
-    {
-      "added_at": "2023-11-08 23:01:07",
-      "album": {
-        "name": "TE QUIERO",
-        "url": "https://open.spotify.com/album/4JQx52nfJX5YfcEMTs1ceq"
-      },
-      "artists": [
-        {
-          "name": "Pesado",
-          "url": "https://open.spotify.com/artist/4BwiodzEp9Hwes5HeFjMVK"
-        }
-      ],
-      "duration_ms": 153733,
-      "name": "TE QUIERO",
-      "url": "https://open.spotify.com/track/7r3xWBPAiFNZS7QVxXc3HJ"
     },
     {
       "added_at": "2023-11-08 23:01:07",

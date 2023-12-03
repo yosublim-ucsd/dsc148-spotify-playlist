@@ -4,7 +4,7 @@
 
 > The biggest songs of the 1980s\. Cover: Michael Jackson.
 
-687 songs - 2 day 0 hr 43 min
+688 songs - 2 day 0 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [All Night Long \- Single Version](https://open.spotify.com/track/4giIdAr7Plyu5LQzBOR4FP) | [Lionel Richie](https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl) | [Back To Front](https://open.spotify.com/album/3oCmLDbxXc1SDZIkwGo0x5) | 4:20 | 2022-06-02 | 2022-12-30 |
 | [All Right](https://open.spotify.com/track/5tE2kEW1Jom3Qc93UPBT79) | [Christopher Cross](https://open.spotify.com/artist/695W5F2Ih8dYahLdjVOIoH) | [Another Page](https://open.spotify.com/album/0o9hrKTjZk0O3QAGYDSDD2) | 4:13 | 2019-12-18 | 2022-07-29 |
 | [Alone](https://open.spotify.com/track/54b8qPFqYqIndfdxiLApea) | [Heart](https://open.spotify.com/artist/34jw2BbxjoYalTp8cJFCPv) | [Bad Animals](https://open.spotify.com/album/56dfEbntfVTMCxjrjggL1e) | 3:38 | 2019-05-26\* | 2023-11-09 |
+| [Alone \- Remastered](https://open.spotify.com/track/0h17TpfCKbbib1J37Qgj7r) | [Heart](https://open.spotify.com/artist/34jw2BbxjoYalTp8cJFCPv) | [Greatest Hits 1985\-1995](https://open.spotify.com/album/5bOhnWhieBJGivUovmtob5) | 3:39 | 2023-11-09 |  |
 | [Always on My Mind](https://open.spotify.com/track/07ABETRdek3ACMpRPvQuaT) | [Pet Shop Boys](https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh) | [Discography \- Complete Singles Collection](https://open.spotify.com/album/0Jt2LzWgtGxy3GZH5i2Kcy) | 3:54 | 2019-05-26\* | 2022-07-29 |
 | [Amante Bandido](https://open.spotify.com/track/1wJneaMg40pI9qxGXPxG9X) | [Miguel Bosé](https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S) | [Bravo Bosé \- 30 Grandes Exitos](https://open.spotify.com/album/2CGUVc0znuuZlW0pAAk4aS) | 4:23 | 2019-08-26 | 2019-08-27 |
 | [Angel Eyes \(Home And Away\)](https://open.spotify.com/track/2ClEdZjrJD2lQOrWU1qqO5) | [Wet Wet Wet](https://open.spotify.com/artist/2u0gw0uCWBMiqV7h0N8kai) | [Popped In Souled Out](https://open.spotify.com/album/5HqzVjfKEE9nMOYpQxQiz1) | 5:16 | 2020-06-29 | 2022-01-02 |
@@ -90,7 +91,7 @@
 | [Careless Whisper](https://open.spotify.com/track/2R7858bg0GHuBBxjTyOL7N) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [The Final](https://open.spotify.com/album/6ZJD7uT643TvniNyAk90bd) | 5:02 | 2019-06-22 | 2019-08-09 |
 | [Caribbean Queen \(No More Love On the Run\)](https://open.spotify.com/track/4JEylZNW8SbO4zUyfVrpb7) | [Billy Ocean](https://open.spotify.com/artist/5IDs1CK15HegSAhGEbSYXo) | [The Very Best of Billy Ocean](https://open.spotify.com/album/7n4OT3zEZaEiyKKd6mFAhi) | 4:04 | 2020-06-25 |  |
 | [Carrie](https://open.spotify.com/track/29wJiSQcze8HEmxkUQykyp) | [Europe](https://open.spotify.com/artist/7Js6Lde8thlIHXggv2SCBz) | [The Final Countdown \(Expanded Edition\)](https://open.spotify.com/album/5Jkd47JEaCU1g4DcGBnHm3) | 4:32 | 2019-06-26 | 2022-11-13 |
-| [Celebration](https://open.spotify.com/track/3K7Q9PHUWPTaknlbFPThn2) | [Kool & The Gang](https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI) | [Celebrate!](https://open.spotify.com/album/2kc4mhFRsoIRVD0XEYnwhI) | 4:58 | 2020-12-22 |  |
+| [Celebration](https://open.spotify.com/track/3K7Q9PHUWPTaknlbFPThn2) | [Kool & The Gang](https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI) | [Celebrate!](https://open.spotify.com/album/2kc4mhFRsoIRVD0XEYnwhI) | 4:58 | 2020-12-22 | 2023-12-03 |
 | [Cendrillon \- Remasterisé en 2015](https://open.spotify.com/track/3uZyx7GfVWJh2Aum6xS6my) | [Téléphone](https://open.spotify.com/artist/3fQq9bb2ZKNv24V1A4vwBK) | [Dure limite \(Remasterisé en 2015\)](https://open.spotify.com/album/1ePKFTIr8ZODp91iwt4kVf) | 3:58 | 2019-08-26 | 2019-08-27 |
 | [Centerfold](https://open.spotify.com/track/1ynmMEK1fkyiZ6Z6F3ThEt) | [The J\. Geils Band](https://open.spotify.com/artist/69Mj3u4FTUrpyeGNSIaU6F) | [Freeze Frame](https://open.spotify.com/album/48joW5905AMbTFLvy8ZWch) | 3:36 | 2019-06-21 | 2023-10-23 |
 | [Chain Reaction](https://open.spotify.com/track/2S9lDlH0ZLVwpJiRQUdLJE) | [Diana Ross](https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl) | [Love and Life: The Very Best of Diana Ross](https://open.spotify.com/album/6syCFYImxKPSf6G8Oh3bIq) | 3:50 | 2022-06-02 | 2022-07-29 |

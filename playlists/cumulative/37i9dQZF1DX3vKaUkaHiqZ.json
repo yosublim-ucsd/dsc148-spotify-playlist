@@ -784,10 +784,36 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-03",
       "duration_ms": 198633,
       "name": "Legends",
       "url": "https://open.spotify.com/track/0Xno1LwsmRIRIPU09e0Nqt"
+    },
+    {
+      "album": {
+        "name": "Harder Than Most",
+        "url": "https://open.spotify.com/album/6nnSoXCXZdohWiwjNpxcKg"
+      },
+      "artists": [
+        {
+          "name": "The Midi Mafia",
+          "url": "https://open.spotify.com/artist/3j8KMnhscmfQJnJU02GiUP"
+        },
+        {
+          "name": "Chel Strong",
+          "url": "https://open.spotify.com/artist/5IQZJajZWvblyYQpdzQjLF"
+        },
+        {
+          "name": "Maxton Waller",
+          "url": "https://open.spotify.com/artist/0MBMglsiNuGZMTGmCXrlb9"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198633,
+      "name": "Legends",
+      "url": "https://open.spotify.com/track/565FPWYEoRvyWOWoFu3H5k"
     },
     {
       "album": {

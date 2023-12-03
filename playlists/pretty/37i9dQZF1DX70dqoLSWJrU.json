@@ -1,12 +1,12 @@
 {
   "description": "Heartbreaking and sad instrumental and vocal Jazz.",
-  "num_followers": 69747,
+  "num_followers": 69805,
   "original_name": "Heartbreak Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMWJmOGFlOWM1MDdhODMwMDYwNzZmOWYxMmJiYzkwNGFhMmQ3ZjFi",
+  "snapshot_id": "MCxiNDcyYWZkYWFhZmVmNDkyNTM2MzJjNjQwYjhhZmYzZjA3NjFmMTIx",
   "tracks": [
     {
       "added_at": "2023-11-16 14:53:39",
@@ -159,6 +159,22 @@
     {
       "added_at": "2023-11-16 14:53:39",
       "album": {
+        "name": "Wild Is The Wind",
+        "url": "https://open.spotify.com/album/2EYVXfypcucR62WMKJl6Mr"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        }
+      ],
+      "duration_ms": 235760,
+      "name": "If I Should Lose You",
+      "url": "https://open.spotify.com/track/6YRVj7ZJyFrr6tso0QV15e"
+    },
+    {
+      "added_at": "2023-11-16 14:53:39",
+      "album": {
         "name": "Breakfast on the Morning Tram (Bonus Edition)",
         "url": "https://open.spotify.com/album/6XmdcBZamVqXAQflgp9ksR"
       },
@@ -179,22 +195,6 @@
       "duration_ms": 279376,
       "name": "Never Let Me Go",
       "url": "https://open.spotify.com/track/2CUE9wgebjfvbu8It4RmZn"
-    },
-    {
-      "added_at": "2023-11-16 14:53:39",
-      "album": {
-        "name": "Wild Is The Wind",
-        "url": "https://open.spotify.com/album/2EYVXfypcucR62WMKJl6Mr"
-      },
-      "artists": [
-        {
-          "name": "Nina Simone",
-          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
-        }
-      ],
-      "duration_ms": 235760,
-      "name": "If I Should Lose You",
-      "url": "https://open.spotify.com/track/6YRVj7ZJyFrr6tso0QV15e"
     },
     {
       "added_at": "2023-11-16 14:53:39",
@@ -567,22 +567,6 @@
     {
       "added_at": "2023-11-16 14:53:39",
       "album": {
-        "name": "It Had To be You... The Great American Songbook",
-        "url": "https://open.spotify.com/album/4Ssek6XSIaTLnP4Fq3olTM"
-      },
-      "artists": [
-        {
-          "name": "Rod Stewart",
-          "url": "https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT"
-        }
-      ],
-      "duration_ms": 257226,
-      "name": "You Go To My Head",
-      "url": "https://open.spotify.com/track/522fhFdFIhJ2XFQVcBroXg"
-    },
-    {
-      "added_at": "2023-11-16 14:53:39",
-      "album": {
         "name": "Chet Baker Sings And Plays (Remastered 2004)",
         "url": "https://open.spotify.com/album/6NVtIIsVMTuphtcAN9FxCc"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 290693,
       "name": "You Don't Know What Love Is - Remastered 2004",
       "url": "https://open.spotify.com/track/2SFux1hir5ZaiPqNd7R15D"
+    },
+    {
+      "added_at": "2023-11-16 14:53:39",
+      "album": {
+        "name": "It Had To be You... The Great American Songbook",
+        "url": "https://open.spotify.com/album/4Ssek6XSIaTLnP4Fq3olTM"
+      },
+      "artists": [
+        {
+          "name": "Rod Stewart",
+          "url": "https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT"
+        }
+      ],
+      "duration_ms": 257226,
+      "name": "You Go To My Head",
+      "url": "https://open.spotify.com/track/522fhFdFIhJ2XFQVcBroXg"
     },
     {
       "added_at": "2023-11-16 14:53:39",
@@ -615,22 +615,6 @@
     {
       "added_at": "2023-11-16 14:53:39",
       "album": {
-        "name": "Dippin'",
-        "url": "https://open.spotify.com/album/3mx9Te2p8koxBI9oe1341j"
-      },
-      "artists": [
-        {
-          "name": "Hank Mobley",
-          "url": "https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv"
-        }
-      ],
-      "duration_ms": 329533,
-      "name": "I See Your Face Before Me - Remastered",
-      "url": "https://open.spotify.com/track/3yitw1j44b1AiXvTKFe3lG"
-    },
-    {
-      "added_at": "2023-11-16 14:53:39",
-      "album": {
         "name": "It's Time For Ernestine",
         "url": "https://open.spotify.com/album/4VEMfnBuWDt6Ims4wQWH8L"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 148560,
       "name": "That Old Feeling",
       "url": "https://open.spotify.com/track/4gxqeb52ocvxNTNwHquFsW"
+    },
+    {
+      "added_at": "2023-11-16 14:53:39",
+      "album": {
+        "name": "Dippin'",
+        "url": "https://open.spotify.com/album/3mx9Te2p8koxBI9oe1341j"
+      },
+      "artists": [
+        {
+          "name": "Hank Mobley",
+          "url": "https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv"
+        }
+      ],
+      "duration_ms": 329533,
+      "name": "I See Your Face Before Me - Remastered",
+      "url": "https://open.spotify.com/track/3yitw1j44b1AiXvTKFe3lG"
     },
     {
       "added_at": "2023-11-16 14:53:39",
@@ -795,6 +795,22 @@
     {
       "added_at": "2023-11-16 14:53:39",
       "album": {
+        "name": "Something Nice",
+        "url": "https://open.spotify.com/album/1eudqXesmmxC08VZaNtEaq"
+      },
+      "artists": [
+        {
+          "name": "Etta Jones",
+          "url": "https://open.spotify.com/artist/3CEdEF8RsuL3hAFJaujvr0"
+        }
+      ],
+      "duration_ms": 219000,
+      "name": "Maybe You'll Be There",
+      "url": "https://open.spotify.com/track/3lzTDiidk78yOW2UUX1r4a"
+    },
+    {
+      "added_at": "2023-11-16 14:53:39",
+      "album": {
         "name": "When Sunny Gets Blue",
         "url": "https://open.spotify.com/album/2tcBjPtxrfZLep0WKsdVAR"
       },
@@ -815,22 +831,6 @@
     {
       "added_at": "2023-11-16 14:53:39",
       "album": {
-        "name": "Something Nice",
-        "url": "https://open.spotify.com/album/1eudqXesmmxC08VZaNtEaq"
-      },
-      "artists": [
-        {
-          "name": "Etta Jones",
-          "url": "https://open.spotify.com/artist/3CEdEF8RsuL3hAFJaujvr0"
-        }
-      ],
-      "duration_ms": 219000,
-      "name": "Maybe You'll Be There",
-      "url": "https://open.spotify.com/track/3lzTDiidk78yOW2UUX1r4a"
-    },
-    {
-      "added_at": "2023-11-16 14:53:39",
-      "album": {
         "name": "Standard Time Vol. 2: Intimacy Calling",
         "url": "https://open.spotify.com/album/4cmRWv6XOmC9sRryBkeU8U"
       },
@@ -843,26 +843,6 @@
       "duration_ms": 191840,
       "name": "The End Of A Love Affair",
       "url": "https://open.spotify.com/track/2PwzTstbRh96XOTltOY8Tn"
-    },
-    {
-      "added_at": "2023-11-16 14:53:39",
-      "album": {
-        "name": "I'll Be Seeing You",
-        "url": "https://open.spotify.com/album/7bEA5jGqt2KYhjCa73OWpL"
-      },
-      "artists": [
-        {
-          "name": "Ellen Andersson",
-          "url": "https://open.spotify.com/artist/5N87utqQzCT8NHBW7JJXog"
-        },
-        {
-          "name": "Peter Asplund",
-          "url": "https://open.spotify.com/artist/3gCWfv5obnwNI5vF6PTAwz"
-        }
-      ],
-      "duration_ms": 404066,
-      "name": "You've Changed",
-      "url": "https://open.spotify.com/track/4IyuCMvAXWnalmM3ItK6OR"
     },
     {
       "added_at": "2023-11-16 14:53:39",
@@ -899,6 +879,26 @@
       "duration_ms": 218666,
       "name": "Everything Happens To Me - Complete Take 2",
       "url": "https://open.spotify.com/track/1FjIeuSHpU3x2J8cKCbc6r"
+    },
+    {
+      "added_at": "2023-11-16 14:53:39",
+      "album": {
+        "name": "I'll Be Seeing You",
+        "url": "https://open.spotify.com/album/7bEA5jGqt2KYhjCa73OWpL"
+      },
+      "artists": [
+        {
+          "name": "Ellen Andersson",
+          "url": "https://open.spotify.com/artist/5N87utqQzCT8NHBW7JJXog"
+        },
+        {
+          "name": "Peter Asplund",
+          "url": "https://open.spotify.com/artist/3gCWfv5obnwNI5vF6PTAwz"
+        }
+      ],
+      "duration_ms": 404066,
+      "name": "You've Changed",
+      "url": "https://open.spotify.com/track/4IyuCMvAXWnalmM3ItK6OR"
     },
     {
       "added_at": "2023-11-16 14:53:39",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2023-11-16 14:53:39",
       "album": {
-        "name": "Born To Be Blue",
-        "url": "https://open.spotify.com/album/6vDO6c6V3hYq3KA2psLsZv"
-      },
-      "artists": [
-        {
-          "name": "Beverly Kenney",
-          "url": "https://open.spotify.com/artist/65AXHPhvpKkrCIlk5BuUQT"
-        }
-      ],
-      "duration_ms": 211906,
-      "name": "Born To Be Blue",
-      "url": "https://open.spotify.com/track/0zjHHk5Lqrf3j1ZpevLcJl"
-    },
-    {
-      "added_at": "2023-11-16 14:53:39",
-      "album": {
         "name": "Scott Hamilton Plays Ballads",
         "url": "https://open.spotify.com/album/0bw16TpTm9imdckwKYYoKm"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 297426,
       "name": "In A Sentimental Mood",
       "url": "https://open.spotify.com/track/26BECFXVYWMwjDgxHLj5BI"
+    },
+    {
+      "added_at": "2023-11-16 14:53:39",
+      "album": {
+        "name": "Born To Be Blue",
+        "url": "https://open.spotify.com/album/6vDO6c6V3hYq3KA2psLsZv"
+      },
+      "artists": [
+        {
+          "name": "Beverly Kenney",
+          "url": "https://open.spotify.com/artist/65AXHPhvpKkrCIlk5BuUQT"
+        }
+      ],
+      "duration_ms": 211906,
+      "name": "Born To Be Blue",
+      "url": "https://open.spotify.com/track/0zjHHk5Lqrf3j1ZpevLcJl"
     },
     {
       "added_at": "2023-11-16 14:53:39",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2023-11-16 14:53:39",
       "album": {
-        "name": "The Rockin' Chair Lady",
-        "url": "https://open.spotify.com/album/4lPSYNGinkzy6Taq0rRXYC"
-      },
-      "artists": [
-        {
-          "name": "Mildred Bailey",
-          "url": "https://open.spotify.com/artist/0LyTHMstvqKiSoqdnnjqix"
-        }
-      ],
-      "duration_ms": 189533,
-      "name": "Blues In My Heart",
-      "url": "https://open.spotify.com/track/60RxFPqYiG9bP7sRv4IiBe"
-    },
-    {
-      "added_at": "2023-11-16 14:53:39",
-      "album": {
         "name": "Abbey Lincoln's Affair... A Story Of A Girl In Love (Expanded Edition)",
         "url": "https://open.spotify.com/album/75kSQXvLMJh5TsK65zGkOg"
       },
@@ -1475,6 +1459,22 @@
       "duration_ms": 191000,
       "name": "No More",
       "url": "https://open.spotify.com/track/0OhVyeMWNraRrgGPByQiWc"
+    },
+    {
+      "added_at": "2023-11-16 14:53:39",
+      "album": {
+        "name": "The Rockin' Chair Lady",
+        "url": "https://open.spotify.com/album/4lPSYNGinkzy6Taq0rRXYC"
+      },
+      "artists": [
+        {
+          "name": "Mildred Bailey",
+          "url": "https://open.spotify.com/artist/0LyTHMstvqKiSoqdnnjqix"
+        }
+      ],
+      "duration_ms": 189533,
+      "name": "Blues In My Heart",
+      "url": "https://open.spotify.com/track/60RxFPqYiG9bP7sRv4IiBe"
     },
     {
       "added_at": "2023-11-16 14:53:39",

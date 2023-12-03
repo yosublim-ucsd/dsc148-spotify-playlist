@@ -1,12 +1,12 @@
 {
   "description": "The biggest hits from country artists around the globe. Cover: Riaan Benade\u0301",
-  "num_followers": 44520,
+  "num_followers": 44653,
   "original_name": "Country Worldwide",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMzg3YzE0MTdhZmM3NzRmMjc4ZjExZWMyMTliNTcwN2Y3ZDI3YzU0",
+  "snapshot_id": "MCw0M2NhZmYxMjQwM2JjNWE1ZGQ0YTIyMzMzZjExZWZjYjJjNjI1OTY5",
   "tracks": [
     {
       "added_at": "2023-11-24 05:00:00",
@@ -555,18 +555,18 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
-        "name": "Poets & Old Souls",
-        "url": "https://open.spotify.com/album/19X9Ts9AYIRrqthSTf3qss"
+        "name": "Coal",
+        "url": "https://open.spotify.com/album/5c5a2dLd2qLVN5zlaOcKJQ"
       },
       "artists": [
         {
-          "name": "Bryan Martin",
-          "url": "https://open.spotify.com/artist/0ChjBYedhZTQnWZWQYg15U"
+          "name": "Dylan Gossett",
+          "url": "https://open.spotify.com/artist/4H4M0Y4cN39zIVDHvdW53x"
         }
       ],
-      "duration_ms": 188482,
-      "name": "We Ride",
-      "url": "https://open.spotify.com/track/72kGuWpRiuA149Bn5lDkIO"
+      "duration_ms": 194440,
+      "name": "Coal",
+      "url": "https://open.spotify.com/track/4dtIxANFBU6CfhI9c2hf2g"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -587,18 +587,18 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
-        "name": "Coal",
-        "url": "https://open.spotify.com/album/5c5a2dLd2qLVN5zlaOcKJQ"
+        "name": "Poets & Old Souls",
+        "url": "https://open.spotify.com/album/19X9Ts9AYIRrqthSTf3qss"
       },
       "artists": [
         {
-          "name": "Dylan Gossett",
-          "url": "https://open.spotify.com/artist/4H4M0Y4cN39zIVDHvdW53x"
+          "name": "Bryan Martin",
+          "url": "https://open.spotify.com/artist/0ChjBYedhZTQnWZWQYg15U"
         }
       ],
-      "duration_ms": 194440,
-      "name": "Coal",
-      "url": "https://open.spotify.com/track/4dtIxANFBU6CfhI9c2hf2g"
+      "duration_ms": 188482,
+      "name": "We Ride",
+      "url": "https://open.spotify.com/track/72kGuWpRiuA149Bn5lDkIO"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -931,22 +931,18 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
-        "name": "10,000 Hours (with Justin Bieber)",
-        "url": "https://open.spotify.com/album/4ow6xJwn49gpWz7iHpOzWY"
+        "name": "23",
+        "url": "https://open.spotify.com/album/2LTt0pFwjPS5Zdc7tlmwyl"
       },
       "artists": [
         {
-          "name": "Dan + Shay",
-          "url": "https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T"
-        },
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+          "name": "Chayce Beckham",
+          "url": "https://open.spotify.com/artist/5ujvZU2thXjZgFKPUt1rDt"
         }
       ],
-      "duration_ms": 167693,
-      "name": "10,000 Hours (with Justin Bieber)",
-      "url": "https://open.spotify.com/track/2wrJq5XKLnmhRXHIAf9xBa"
+      "duration_ms": 228144,
+      "name": "23",
+      "url": "https://open.spotify.com/track/1ZpPaBDswjV3VSUKqLDXPE"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -1047,18 +1043,22 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
-        "name": "23",
-        "url": "https://open.spotify.com/album/2LTt0pFwjPS5Zdc7tlmwyl"
+        "name": "10,000 Hours (with Justin Bieber)",
+        "url": "https://open.spotify.com/album/4ow6xJwn49gpWz7iHpOzWY"
       },
       "artists": [
         {
-          "name": "Chayce Beckham",
-          "url": "https://open.spotify.com/artist/5ujvZU2thXjZgFKPUt1rDt"
+          "name": "Dan + Shay",
+          "url": "https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T"
+        },
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
         }
       ],
-      "duration_ms": 228144,
-      "name": "23",
-      "url": "https://open.spotify.com/track/1ZpPaBDswjV3VSUKqLDXPE"
+      "duration_ms": 167693,
+      "name": "10,000 Hours (with Justin Bieber)",
+      "url": "https://open.spotify.com/track/2wrJq5XKLnmhRXHIAf9xBa"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -1179,18 +1179,18 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
-        "name": "Here's To The Good Times",
-        "url": "https://open.spotify.com/album/5MH765pytbQasmDxXArTah"
+        "name": "Need You Now",
+        "url": "https://open.spotify.com/album/3hnGcNi8oqGdwTm3CeniFA"
       },
       "artists": [
         {
-          "name": "Florida Georgia Line",
-          "url": "https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg"
+          "name": "Lady A",
+          "url": "https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA"
         }
       ],
-      "duration_ms": 208960,
-      "name": "Cruise",
-      "url": "https://open.spotify.com/track/0i5el041vd6nxrGEU8QRxy"
+      "duration_ms": 277573,
+      "name": "Need You Now",
+      "url": "https://open.spotify.com/track/11EX5yhxr9Ihl3IN1asrfK"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -1211,18 +1211,18 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
-        "name": "Need You Now",
-        "url": "https://open.spotify.com/album/3hnGcNi8oqGdwTm3CeniFA"
+        "name": "Here's To The Good Times",
+        "url": "https://open.spotify.com/album/5MH765pytbQasmDxXArTah"
       },
       "artists": [
         {
-          "name": "Lady A",
-          "url": "https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA"
+          "name": "Florida Georgia Line",
+          "url": "https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg"
         }
       ],
-      "duration_ms": 277573,
-      "name": "Need You Now",
-      "url": "https://open.spotify.com/track/11EX5yhxr9Ihl3IN1asrfK"
+      "duration_ms": 208960,
+      "name": "Cruise",
+      "url": "https://open.spotify.com/track/0i5el041vd6nxrGEU8QRxy"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
-        "name": "One Of Them Girls",
-        "url": "https://open.spotify.com/album/42Rl6aaMTG6EgYxzjP41qp"
-      },
-      "artists": [
-        {
-          "name": "Lee Brice",
-          "url": "https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk"
-        }
-      ],
-      "duration_ms": 188893,
-      "name": "One Of Them Girls",
-      "url": "https://open.spotify.com/track/14GwnOeC9qYEKEA6uOZepa"
-    },
-    {
-      "added_at": "2023-11-24 05:00:00",
-      "album": {
         "name": "Blue In The Sky",
         "url": "https://open.spotify.com/album/2u0DD4sNHOcgbuJrJyMUu3"
       },
@@ -1295,22 +1279,34 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
-        "name": "Flower Shops (feat. Morgan Wallen)",
-        "url": "https://open.spotify.com/album/5gdgH8d7W2KwkK03Ea0vpi"
+        "name": "One Of Them Girls",
+        "url": "https://open.spotify.com/album/42Rl6aaMTG6EgYxzjP41qp"
       },
       "artists": [
         {
-          "name": "ERNEST",
-          "url": "https://open.spotify.com/artist/4GGfAshSkqoxpZdoaHm7ky"
-        },
-        {
-          "name": "Morgan Wallen",
-          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+          "name": "Lee Brice",
+          "url": "https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk"
         }
       ],
-      "duration_ms": 214405,
-      "name": "Flower Shops (feat. Morgan Wallen)",
-      "url": "https://open.spotify.com/track/2ccuOtUjIyx3tPcsnpeBzJ"
+      "duration_ms": 188893,
+      "name": "One Of Them Girls",
+      "url": "https://open.spotify.com/track/14GwnOeC9qYEKEA6uOZepa"
+    },
+    {
+      "added_at": "2023-11-24 05:00:00",
+      "album": {
+        "name": "Bell Bottom Country",
+        "url": "https://open.spotify.com/album/06q6BDUpP6OS8Xnx3YC2M0"
+      },
+      "artists": [
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        }
+      ],
+      "duration_ms": 199040,
+      "name": "Heart Like A Truck",
+      "url": "https://open.spotify.com/track/5DIBVDJOHh7djepAjKHWCO"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -1335,18 +1331,22 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
-        "name": "Bell Bottom Country",
-        "url": "https://open.spotify.com/album/06q6BDUpP6OS8Xnx3YC2M0"
+        "name": "Flower Shops (feat. Morgan Wallen)",
+        "url": "https://open.spotify.com/album/5gdgH8d7W2KwkK03Ea0vpi"
       },
       "artists": [
         {
-          "name": "Lainey Wilson",
-          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+          "name": "ERNEST",
+          "url": "https://open.spotify.com/artist/4GGfAshSkqoxpZdoaHm7ky"
+        },
+        {
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
         }
       ],
-      "duration_ms": 199040,
-      "name": "Heart Like A Truck",
-      "url": "https://open.spotify.com/track/5DIBVDJOHh7djepAjKHWCO"
+      "duration_ms": 214405,
+      "name": "Flower Shops (feat. Morgan Wallen)",
+      "url": "https://open.spotify.com/track/2ccuOtUjIyx3tPcsnpeBzJ"
     },
     {
       "added_at": "2023-11-24 05:00:00",

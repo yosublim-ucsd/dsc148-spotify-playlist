@@ -1,12 +1,12 @@
 {
   "description": "D\u00e9couvrez les meilleures nouveaut\u00e9s francophones. Photo: Etienne Dufresne",
-  "num_followers": 39309,
+  "num_followers": 39318,
   "original_name": "Nouveaut\u00e9s francophones",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNjdiYTY4NzhkOWIyOTExOTgxMGMzZTVlYWYxYjI4MTk2NzJjNTM5",
+  "snapshot_id": "MCxjNmM0ZWEzOTcwOTA2MDUzOTY1MThiM2FjZWJhY2I4OGRjMjI1MGVk",
   "tracks": [
     {
       "added_at": "2023-12-01 05:00:00",
@@ -211,22 +211,18 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "Bonsoir Paris (Mama No Cry)",
-        "url": "https://open.spotify.com/album/2nZoEqQ0HREvujxUpQ2Ohn"
+        "name": "27",
+        "url": "https://open.spotify.com/album/5e3bPy9xbaSULrXRVG8fp8"
       },
       "artists": [
         {
-          "name": "S.Pri Noir",
-          "url": "https://open.spotify.com/artist/5olcgTzelGdyP1rHRLyWgs"
-        },
-        {
-          "name": "Tiakola",
-          "url": "https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh"
+          "name": "ElGrandeToto",
+          "url": "https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx"
         }
       ],
-      "duration_ms": 218392,
-      "name": "Bonsoir Paris (Mama No Cry)",
-      "url": "https://open.spotify.com/track/6RZ5IuPlCVcXSrnzQ5jsE7"
+      "duration_ms": 254800,
+      "name": "MAGHRIBI",
+      "url": "https://open.spotify.com/track/01GVrWU4CZgZyHFMShuQb1"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -247,18 +243,22 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "27",
-        "url": "https://open.spotify.com/album/5e3bPy9xbaSULrXRVG8fp8"
+        "name": "Bonsoir Paris (Mama No Cry)",
+        "url": "https://open.spotify.com/album/2nZoEqQ0HREvujxUpQ2Ohn"
       },
       "artists": [
         {
-          "name": "ElGrandeToto",
-          "url": "https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx"
+          "name": "S.Pri Noir",
+          "url": "https://open.spotify.com/artist/5olcgTzelGdyP1rHRLyWgs"
+        },
+        {
+          "name": "Tiakola",
+          "url": "https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh"
         }
       ],
-      "duration_ms": 254800,
-      "name": "MAGHRIBI",
-      "url": "https://open.spotify.com/track/01GVrWU4CZgZyHFMShuQb1"
+      "duration_ms": 218392,
+      "name": "Bonsoir Paris (Mama No Cry)",
+      "url": "https://open.spotify.com/track/6RZ5IuPlCVcXSrnzQ5jsE7"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -275,38 +275,6 @@
       "duration_ms": 141662,
       "name": "\u00c7a Parait",
       "url": "https://open.spotify.com/track/53hrIOmrtgJYJi1rIfVJTF"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
-        "name": "Lova",
-        "url": "https://open.spotify.com/album/6kFn3QbTXiRr6ZTkVdIoGa"
-      },
-      "artists": [
-        {
-          "name": "Tayc",
-          "url": "https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60"
-        }
-      ],
-      "duration_ms": 173810,
-      "name": "Lova",
-      "url": "https://open.spotify.com/track/37wnGbe2R8r7BMKoSzDydC"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
-        "name": "VIAUVILLE",
-        "url": "https://open.spotify.com/album/6sKwsxSZk7W17bbYE7jwf6"
-      },
-      "artists": [
-        {
-          "name": "Calamine",
-          "url": "https://open.spotify.com/artist/1eYuV6IDT7vYuBdIF0SgjJ"
-        }
-      ],
-      "duration_ms": 268037,
-      "name": "VIAUVILLE",
-      "url": "https://open.spotify.com/track/30g0IU3gMdc2hF7v09G5pG"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -331,6 +299,38 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
+        "name": "VIAUVILLE",
+        "url": "https://open.spotify.com/album/6sKwsxSZk7W17bbYE7jwf6"
+      },
+      "artists": [
+        {
+          "name": "Calamine",
+          "url": "https://open.spotify.com/artist/1eYuV6IDT7vYuBdIF0SgjJ"
+        }
+      ],
+      "duration_ms": 268037,
+      "name": "VIAUVILLE",
+      "url": "https://open.spotify.com/track/30g0IU3gMdc2hF7v09G5pG"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
+        "name": "Lova",
+        "url": "https://open.spotify.com/album/6kFn3QbTXiRr6ZTkVdIoGa"
+      },
+      "artists": [
+        {
+          "name": "Tayc",
+          "url": "https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60"
+        }
+      ],
+      "duration_ms": 173810,
+      "name": "Lova",
+      "url": "https://open.spotify.com/track/37wnGbe2R8r7BMKoSzDydC"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
         "name": "Collection sentimentale",
         "url": "https://open.spotify.com/album/3UHtmUs3McULYFFrZYYySb"
       },
@@ -347,18 +347,22 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "SALE \u00c9POQUE",
-        "url": "https://open.spotify.com/album/5156pxycfavNl9oMoDNWL2"
+        "name": "LA MELO EST GANGX",
+        "url": "https://open.spotify.com/album/4C9mVDiMHuxOZ2eORwkCE1"
       },
       "artists": [
         {
-          "name": "Lacrim",
-          "url": "https://open.spotify.com/artist/7DUTsWY3RBd64vh8UtgtYA"
+          "name": "Gazo",
+          "url": "https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I"
+        },
+        {
+          "name": "Tiakola",
+          "url": "https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh"
         }
       ],
-      "duration_ms": 183106,
-      "name": "MAIN MOITE",
-      "url": "https://open.spotify.com/track/2b8wnmu5nhWbolp1RVWA86"
+      "duration_ms": 216386,
+      "name": "NOTRE DAME",
+      "url": "https://open.spotify.com/track/5RJcEoBhxDo8QgmKfr3JG8"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -379,18 +383,18 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "Au suivant",
-        "url": "https://open.spotify.com/album/6ckMeHqNLxSIHSWVpXQyA7"
+        "name": "SALE \u00c9POQUE",
+        "url": "https://open.spotify.com/album/5156pxycfavNl9oMoDNWL2"
       },
       "artists": [
         {
-          "name": "Lynda",
-          "url": "https://open.spotify.com/artist/2GlEiSHYEKlq9cUYDa9oZb"
+          "name": "Lacrim",
+          "url": "https://open.spotify.com/artist/7DUTsWY3RBd64vh8UtgtYA"
         }
       ],
-      "duration_ms": 199123,
-      "name": "Au suivant",
-      "url": "https://open.spotify.com/track/6O6071g2kIG6A78TMiF3Fz"
+      "duration_ms": 183106,
+      "name": "MAIN MOITE",
+      "url": "https://open.spotify.com/track/2b8wnmu5nhWbolp1RVWA86"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -411,22 +415,18 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "Terminus",
-        "url": "https://open.spotify.com/album/0E35WUjsmg1t3SSSZqstHT"
+        "name": "Au suivant",
+        "url": "https://open.spotify.com/album/6ckMeHqNLxSIHSWVpXQyA7"
       },
       "artists": [
         {
-          "name": "Sidiki Diabat\u00e9",
-          "url": "https://open.spotify.com/artist/0ShXtJGjzmboEPVOvIdbQA"
-        },
-        {
-          "name": "Gazo",
-          "url": "https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I"
+          "name": "Lynda",
+          "url": "https://open.spotify.com/artist/2GlEiSHYEKlq9cUYDa9oZb"
         }
       ],
-      "duration_ms": 158449,
-      "name": "Terminus",
-      "url": "https://open.spotify.com/track/5RDeToFz2JnPSvJyhcoz4J"
+      "duration_ms": 199123,
+      "name": "Au suivant",
+      "url": "https://open.spotify.com/track/6O6071g2kIG6A78TMiF3Fz"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -451,22 +451,6 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "Commando",
-        "url": "https://open.spotify.com/album/0UrZIIXENkXrBBvhwqyMJx"
-      },
-      "artists": [
-        {
-          "name": "Shay",
-          "url": "https://open.spotify.com/artist/3MNnSV5hDd2UzZzgqD8xlU"
-        }
-      ],
-      "duration_ms": 171649,
-      "name": "Commando",
-      "url": "https://open.spotify.com/track/36aSwnrZXd0k334PSXT7w2"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
         "name": "Il y a",
         "url": "https://open.spotify.com/album/55RuSf55f21hk6VLj55JYs"
       },
@@ -487,6 +471,42 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
+        "name": "Terminus",
+        "url": "https://open.spotify.com/album/0E35WUjsmg1t3SSSZqstHT"
+      },
+      "artists": [
+        {
+          "name": "Sidiki Diabat\u00e9",
+          "url": "https://open.spotify.com/artist/0ShXtJGjzmboEPVOvIdbQA"
+        },
+        {
+          "name": "Gazo",
+          "url": "https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I"
+        }
+      ],
+      "duration_ms": 158449,
+      "name": "Terminus",
+      "url": "https://open.spotify.com/track/5RDeToFz2JnPSvJyhcoz4J"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
+        "name": "Commando",
+        "url": "https://open.spotify.com/album/0UrZIIXENkXrBBvhwqyMJx"
+      },
+      "artists": [
+        {
+          "name": "Shay",
+          "url": "https://open.spotify.com/artist/3MNnSV5hDd2UzZzgqD8xlU"
+        }
+      ],
+      "duration_ms": 171649,
+      "name": "Commando",
+      "url": "https://open.spotify.com/track/36aSwnrZXd0k334PSXT7w2"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
         "name": "ATHENA",
         "url": "https://open.spotify.com/album/4krkLLyWeRYqr8JLIAx0KP"
       },
@@ -499,26 +519,6 @@
       "duration_ms": 191416,
       "name": "Warda",
       "url": "https://open.spotify.com/track/1LSz924w38ZryrV1nGnFIV"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
-        "name": "I Got U (feat. Niska)",
-        "url": "https://open.spotify.com/album/0Iq4aDgUWAe4uz4zdpA6JR"
-      },
-      "artists": [
-        {
-          "name": "Ronisia",
-          "url": "https://open.spotify.com/artist/4krMq8pXkLVTGplpYgHlnV"
-        },
-        {
-          "name": "Niska",
-          "url": "https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV"
-        }
-      ],
-      "duration_ms": 202886,
-      "name": "I Got U (feat. Niska)",
-      "url": "https://open.spotify.com/track/1jSJOq8PEYMnSdonuMz4eK"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -539,22 +539,22 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "Vautours",
-        "url": "https://open.spotify.com/album/4W8PYeeUqDsani46ODRgLK"
+        "name": "I Got U (feat. Niska)",
+        "url": "https://open.spotify.com/album/0Iq4aDgUWAe4uz4zdpA6JR"
       },
       "artists": [
         {
-          "name": "Ziak",
-          "url": "https://open.spotify.com/artist/2ubn2zwyYaLdHOCKnTouU2"
+          "name": "Ronisia",
+          "url": "https://open.spotify.com/artist/4krMq8pXkLVTGplpYgHlnV"
         },
         {
-          "name": "Koba LaD",
-          "url": "https://open.spotify.com/artist/1q7T9rFQ2a2ukA1PU51fo3"
+          "name": "Niska",
+          "url": "https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV"
         }
       ],
-      "duration_ms": 190815,
-      "name": "Vautours",
-      "url": "https://open.spotify.com/track/3Z6CZX1swZYFc4vInNQzIO"
+      "duration_ms": 202886,
+      "name": "I Got U (feat. Niska)",
+      "url": "https://open.spotify.com/track/1jSJOq8PEYMnSdonuMz4eK"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -583,18 +583,22 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "Encore plus",
-        "url": "https://open.spotify.com/album/2p1iQufm1aLmR3oIo6ENOr"
+        "name": "Vautours",
+        "url": "https://open.spotify.com/album/4W8PYeeUqDsani46ODRgLK"
       },
       "artists": [
         {
-          "name": "Landy",
-          "url": "https://open.spotify.com/artist/2EFpb61Lpi0l5ldOiqbZkK"
+          "name": "Ziak",
+          "url": "https://open.spotify.com/artist/2ubn2zwyYaLdHOCKnTouU2"
+        },
+        {
+          "name": "Koba LaD",
+          "url": "https://open.spotify.com/artist/1q7T9rFQ2a2ukA1PU51fo3"
         }
       ],
-      "duration_ms": 189230,
-      "name": "Encore plus",
-      "url": "https://open.spotify.com/track/39lgf886U50NvJ8DRntHIL"
+      "duration_ms": 190815,
+      "name": "Vautours",
+      "url": "https://open.spotify.com/track/3Z6CZX1swZYFc4vInNQzIO"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -611,6 +615,22 @@
       "duration_ms": 183981,
       "name": "XOXO",
       "url": "https://open.spotify.com/track/2S9p5lu7tZvYMob6q7mmBe"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
+        "name": "Encore plus",
+        "url": "https://open.spotify.com/album/2p1iQufm1aLmR3oIo6ENOr"
+      },
+      "artists": [
+        {
+          "name": "Landy",
+          "url": "https://open.spotify.com/artist/2EFpb61Lpi0l5ldOiqbZkK"
+        }
+      ],
+      "duration_ms": 189230,
+      "name": "Encore plus",
+      "url": "https://open.spotify.com/track/39lgf886U50NvJ8DRntHIL"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -667,22 +687,6 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "Joli coeur",
-        "url": "https://open.spotify.com/album/2r0jcbln2gKoim766i3rsd"
-      },
-      "artists": [
-        {
-          "name": "Ronisia",
-          "url": "https://open.spotify.com/artist/4krMq8pXkLVTGplpYgHlnV"
-        }
-      ],
-      "duration_ms": 194466,
-      "name": "Joli coeur",
-      "url": "https://open.spotify.com/track/00YhQePKpHGPqcnmYxIj0x"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
         "name": "Maintenant",
         "url": "https://open.spotify.com/album/3QoOwSTdtIHltBdrel4lav"
       },
@@ -703,6 +707,22 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
+        "name": "Maman savait",
+        "url": "https://open.spotify.com/album/5lDkKa1xngzmFwJou4LLFH"
+      },
+      "artists": [
+        {
+          "name": "Benab",
+          "url": "https://open.spotify.com/artist/0qO3t2MHM5NIEJ5fw9VndY"
+        }
+      ],
+      "duration_ms": 178519,
+      "name": "Maman savait",
+      "url": "https://open.spotify.com/track/2rWe6Sf38aKWjmP6hTIy9U"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
         "name": "CRASH C\u0152UR",
         "url": "https://open.spotify.com/album/37b90qQXuhhAzmxQlQLWOK"
       },
@@ -719,18 +739,18 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "Maman savait",
-        "url": "https://open.spotify.com/album/5lDkKa1xngzmFwJou4LLFH"
+        "name": "Joli coeur",
+        "url": "https://open.spotify.com/album/2r0jcbln2gKoim766i3rsd"
       },
       "artists": [
         {
-          "name": "Benab",
-          "url": "https://open.spotify.com/artist/0qO3t2MHM5NIEJ5fw9VndY"
+          "name": "Ronisia",
+          "url": "https://open.spotify.com/artist/4krMq8pXkLVTGplpYgHlnV"
         }
       ],
-      "duration_ms": 178519,
-      "name": "Maman savait",
-      "url": "https://open.spotify.com/track/2rWe6Sf38aKWjmP6hTIy9U"
+      "duration_ms": 194466,
+      "name": "Joli coeur",
+      "url": "https://open.spotify.com/track/00YhQePKpHGPqcnmYxIj0x"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -787,22 +807,6 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "Tant de choses",
-        "url": "https://open.spotify.com/album/6EfLgtRJhhgLDPriPnpbgU"
-      },
-      "artists": [
-        {
-          "name": "DTF",
-          "url": "https://open.spotify.com/artist/37ioGUZGhKk7VjWIocx8kM"
-        }
-      ],
-      "duration_ms": 204477,
-      "name": "Tant de choses",
-      "url": "https://open.spotify.com/track/7ac0WtAVR9UjpSyrDY9yLQ"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
         "name": "LUEUR & ESPOIR",
         "url": "https://open.spotify.com/album/7Mheug4iMEyK1hPsQJ7bsi"
       },
@@ -819,6 +823,22 @@
       "duration_ms": 194153,
       "name": "ON EN REPARLERA",
       "url": "https://open.spotify.com/track/3xqTtUkGP8rjdnZHBbSNJJ"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
+        "name": "Tant de choses",
+        "url": "https://open.spotify.com/album/6EfLgtRJhhgLDPriPnpbgU"
+      },
+      "artists": [
+        {
+          "name": "DTF",
+          "url": "https://open.spotify.com/artist/37ioGUZGhKk7VjWIocx8kM"
+        }
+      ],
+      "duration_ms": 204477,
+      "name": "Tant de choses",
+      "url": "https://open.spotify.com/track/7ac0WtAVR9UjpSyrDY9yLQ"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -871,22 +891,6 @@
       "duration_ms": 190696,
       "name": "Sur la glace",
       "url": "https://open.spotify.com/track/0Pw98pAQO87gY4zS1xyoqb"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
-        "name": "fou",
-        "url": "https://open.spotify.com/album/1fYpB6W7Yt1RopNSdVGMk9"
-      },
-      "artists": [
-        {
-          "name": "Z\u00e9lie",
-          "url": "https://open.spotify.com/artist/0TGeOStDbxqVi8UJdBQsEx"
-        }
-      ],
-      "duration_ms": 168720,
-      "name": "fou",
-      "url": "https://open.spotify.com/track/1FG0HeNkIK4bmj6W1iBg3B"
     }
   ],
   "unique_name": "Nouveaut\u00e9s francophones",

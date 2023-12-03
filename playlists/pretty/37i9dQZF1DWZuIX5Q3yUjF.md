@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZuIX5Q3yUjF.md) - [plain]
 
 > Il meglio dell'R&B italiano\. Cover: Martino
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,955 likes - 70 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,961 likes - 70 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZuIX5Q3yUjF.md) - [plain]
 | 69 | [L'R&B in Italia non esiste \(Interlude\)](https://open.spotify.com/track/5haGMsywnKV4e2FqsYjoKH) | [Martina May](https://open.spotify.com/artist/1nEZxArpiNayoK02nNzJxR) | [L'R&B IN ITALIA NON ESISTE](https://open.spotify.com/album/41IqmB0uShPRiNVsYyOmbg) | 2:23 |
 | 70 | [Meraviglioso](https://open.spotify.com/track/1jkRoA2wGzgOlzjAaGpXV6) | [MOLTObELLO](https://open.spotify.com/artist/0y6ssu4rdIqbyP0ipQq40Q) | [Meraviglioso](https://open.spotify.com/album/705PmwstoLNz8Euf23n7wo) | 2:37 |
 
-Snapshot ID: `MCw4ODcwNTU1N2MzZTQ4ZTc3MzM3YjQzNmRiNTdhZjU3NDExMTc4ZGYy`
+Snapshot ID: `MCw3NmVmYzBlNzlmYjFmYWNhM2RjYzJiMzMyZDkyNjI0NzlhODE1NGQw`

@@ -1,12 +1,12 @@
 {
   "description": "Dale play y que la m\u00fasica te acompa\u00f1e.",
-  "num_followers": 266925,
+  "num_followers": 266961,
   "original_name": "Radio Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMjYzOTU5YWFhM2ZiODUzM2VlNjJmYWUwNDMwN2EyZjQ4YjI5NThm",
+  "snapshot_id": "MCwzNjQzZThhNzU2YzUxOTRmOThkZThlMzA0YzU0MDlhYzhkOWVkNzBh",
   "tracks": [
     {
       "added_at": "2023-12-01 03:00:00",
@@ -575,6 +575,22 @@
     {
       "added_at": "2023-12-01 03:00:00",
       "album": {
+        "name": "Eres Diamante",
+        "url": "https://open.spotify.com/album/6phS5YYVMKIpCKeymOdL7v"
+      },
+      "artists": [
+        {
+          "name": "Elsa y Elmar",
+          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
+        }
+      ],
+      "duration_ms": 240295,
+      "name": "Ojos Noche",
+      "url": "https://open.spotify.com/track/6ltxt8idwnKPqZ5wmTEkpV"
+    },
+    {
+      "added_at": "2023-12-01 03:00:00",
+      "album": {
         "name": "Fuego de Noche, Nieve de D\u00eda",
         "url": "https://open.spotify.com/album/5MPWqO3tZLzTjCXYK74Sos"
       },
@@ -591,22 +607,6 @@
       "duration_ms": 282565,
       "name": "Fuego de Noche, Nieve de D\u00eda",
       "url": "https://open.spotify.com/track/4zdKE0VFQ0su2GpZMBCwUM"
-    },
-    {
-      "added_at": "2023-12-01 03:00:00",
-      "album": {
-        "name": "Eres Diamante",
-        "url": "https://open.spotify.com/album/6phS5YYVMKIpCKeymOdL7v"
-      },
-      "artists": [
-        {
-          "name": "Elsa y Elmar",
-          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
-        }
-      ],
-      "duration_ms": 240295,
-      "name": "Ojos Noche",
-      "url": "https://open.spotify.com/track/6ltxt8idwnKPqZ5wmTEkpV"
     },
     {
       "added_at": "2023-12-01 03:00:00",
@@ -651,46 +651,6 @@
     {
       "added_at": "2023-12-01 03:00:00",
       "album": {
-        "name": "Canci\u00f3n Bonita",
-        "url": "https://open.spotify.com/album/0MykRhKNiatX85K4bCHL8U"
-      },
-      "artists": [
-        {
-          "name": "Carlos Vives",
-          "url": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
-        },
-        {
-          "name": "Ricky Martin",
-          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
-        }
-      ],
-      "duration_ms": 169559,
-      "name": "Canci\u00f3n Bonita",
-      "url": "https://open.spotify.com/track/5iF33sXejXwfTuidVHMll0"
-    },
-    {
-      "added_at": "2023-12-01 03:00:00",
-      "album": {
-        "name": "C\u00f3mo Quisiera Decirte",
-        "url": "https://open.spotify.com/album/2eezcuGSGf0vmHtUizvjz8"
-      },
-      "artists": [
-        {
-          "name": "Mario Guerrero",
-          "url": "https://open.spotify.com/artist/6olBVa8DSbt2M0FAR7AAkI"
-        },
-        {
-          "name": "Los Angeles Negros",
-          "url": "https://open.spotify.com/artist/1NiC1V6xc8OR1ERiIoCvtx"
-        }
-      ],
-      "duration_ms": 152286,
-      "name": "C\u00f3mo Quisiera Decirte",
-      "url": "https://open.spotify.com/track/0MOa78S4DdOn8nfIqwcsaZ"
-    },
-    {
-      "added_at": "2023-12-01 03:00:00",
-      "album": {
         "name": "Empezar Desde Cero",
         "url": "https://open.spotify.com/album/3dFYNMT0LYCPhpw8Q010pJ"
       },
@@ -727,6 +687,46 @@
       "duration_ms": 254773,
       "name": "Inalcanzable",
       "url": "https://open.spotify.com/track/3VlS9yWZ9WkzaePi8oobTj"
+    },
+    {
+      "added_at": "2023-12-01 03:00:00",
+      "album": {
+        "name": "C\u00f3mo Quisiera Decirte",
+        "url": "https://open.spotify.com/album/2eezcuGSGf0vmHtUizvjz8"
+      },
+      "artists": [
+        {
+          "name": "Mario Guerrero",
+          "url": "https://open.spotify.com/artist/6olBVa8DSbt2M0FAR7AAkI"
+        },
+        {
+          "name": "Los Angeles Negros",
+          "url": "https://open.spotify.com/artist/1NiC1V6xc8OR1ERiIoCvtx"
+        }
+      ],
+      "duration_ms": 152286,
+      "name": "C\u00f3mo Quisiera Decirte",
+      "url": "https://open.spotify.com/track/0MOa78S4DdOn8nfIqwcsaZ"
+    },
+    {
+      "added_at": "2023-12-01 03:00:00",
+      "album": {
+        "name": "Canci\u00f3n Bonita",
+        "url": "https://open.spotify.com/album/0MykRhKNiatX85K4bCHL8U"
+      },
+      "artists": [
+        {
+          "name": "Carlos Vives",
+          "url": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
+        },
+        {
+          "name": "Ricky Martin",
+          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
+        }
+      ],
+      "duration_ms": 169559,
+      "name": "Canci\u00f3n Bonita",
+      "url": "https://open.spotify.com/track/5iF33sXejXwfTuidVHMll0"
     },
     {
       "added_at": "2023-12-01 03:00:00",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2023-12-01 03:00:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/3sjYvK0dmsaQSqQZR5Tn51"
-      },
-      "artists": [
-        {
-          "name": "Lali",
-          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
-        }
-      ],
-      "duration_ms": 152425,
-      "name": "1Amor",
-      "url": "https://open.spotify.com/track/44FRdgBmwq8LEgDtjBDkiu"
-    },
-    {
-      "added_at": "2023-12-01 03:00:00",
-      "album": {
         "name": "La Voz Del Viento",
         "url": "https://open.spotify.com/album/0fbAh4EhR85ddKTzO7vS8a"
       },
@@ -1163,18 +1147,18 @@
     {
       "added_at": "2023-12-01 03:00:00",
       "album": {
-        "name": "BAIL\u00c9 CON MI EX",
-        "url": "https://open.spotify.com/album/1Q2VAJl9617SehQItOqzqI"
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3sjYvK0dmsaQSqQZR5Tn51"
       },
       "artists": [
         {
-          "name": "Becky G",
-          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+          "name": "Lali",
+          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
         }
       ],
-      "duration_ms": 161880,
-      "name": "BAIL\u00c9 CON MI EX",
-      "url": "https://open.spotify.com/track/0Yc0ziTsyjahYqlWXVXlTU"
+      "duration_ms": 152425,
+      "name": "1Amor",
+      "url": "https://open.spotify.com/track/44FRdgBmwq8LEgDtjBDkiu"
     },
     {
       "added_at": "2023-12-01 03:00:00",
@@ -1195,6 +1179,22 @@
       "duration_ms": 206674,
       "name": "Lo Que en Ti Veo",
       "url": "https://open.spotify.com/track/2cLOSF54zDP52z6ma8mivK"
+    },
+    {
+      "added_at": "2023-12-01 03:00:00",
+      "album": {
+        "name": "BAIL\u00c9 CON MI EX",
+        "url": "https://open.spotify.com/album/1Q2VAJl9617SehQItOqzqI"
+      },
+      "artists": [
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        }
+      ],
+      "duration_ms": 161880,
+      "name": "BAIL\u00c9 CON MI EX",
+      "url": "https://open.spotify.com/track/0Yc0ziTsyjahYqlWXVXlTU"
     },
     {
       "added_at": "2023-12-01 03:00:00",
@@ -1427,26 +1427,6 @@
     {
       "added_at": "2023-12-01 03:00:00",
       "album": {
-        "name": "Yo No Te Pido la Luna",
-        "url": "https://open.spotify.com/album/64RDIlFxajlL9xg1XuXCTW"
-      },
-      "artists": [
-        {
-          "name": "Soledad",
-          "url": "https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY"
-        },
-        {
-          "name": "MYA",
-          "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
-        }
-      ],
-      "duration_ms": 171153,
-      "name": "Yo No Te Pido la Luna",
-      "url": "https://open.spotify.com/track/20ltlI3KqpAnJJgo4mr32Q"
-    },
-    {
-      "added_at": "2023-12-01 03:00:00",
-      "album": {
         "name": "Blanco",
         "url": "https://open.spotify.com/album/519UdgyNfgG6LCTTLNjirk"
       },
@@ -1463,6 +1443,26 @@
       "duration_ms": 214824,
       "name": "El Amor Que Me Ten\u00eda - Versi\u00f3n Ac\u00fastica",
       "url": "https://open.spotify.com/track/0OzlamwH7ExWvidVp2f9oK"
+    },
+    {
+      "added_at": "2023-12-01 03:00:00",
+      "album": {
+        "name": "Yo No Te Pido la Luna",
+        "url": "https://open.spotify.com/album/64RDIlFxajlL9xg1XuXCTW"
+      },
+      "artists": [
+        {
+          "name": "Soledad",
+          "url": "https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY"
+        },
+        {
+          "name": "MYA",
+          "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
+        }
+      ],
+      "duration_ms": 171153,
+      "name": "Yo No Te Pido la Luna",
+      "url": "https://open.spotify.com/track/20ltlI3KqpAnJJgo4mr32Q"
     },
     {
       "added_at": "2023-12-01 03:00:00",
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2023-12-01 03:00:00",
       "album": {
-        "name": "Amor Pasajero",
-        "url": "https://open.spotify.com/album/3ZufYhU3vzNGPNMq5pO7ls"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Yatra",
-          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
-        }
-      ],
-      "duration_ms": 152080,
-      "name": "Amor Pasajero",
-      "url": "https://open.spotify.com/track/2AQrDkF3XiC3xCkAM4OkJx"
-    },
-    {
-      "added_at": "2023-12-01 03:00:00",
-      "album": {
         "name": "Viaje a ning\u00fan lado (con Carin Leon)",
         "url": "https://open.spotify.com/album/1zsGPMjwq2tK1reGSPhmZ4"
       },
@@ -1571,6 +1555,38 @@
       "duration_ms": 229567,
       "name": "Viaje a ning\u00fan lado (con Carin Leon)",
       "url": "https://open.spotify.com/track/2MqQtML6652d7oIgrdumKH"
+    },
+    {
+      "added_at": "2023-12-01 03:00:00",
+      "album": {
+        "name": "Amor Pasajero",
+        "url": "https://open.spotify.com/album/3ZufYhU3vzNGPNMq5pO7ls"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+        }
+      ],
+      "duration_ms": 152080,
+      "name": "Amor Pasajero",
+      "url": "https://open.spotify.com/track/2AQrDkF3XiC3xCkAM4OkJx"
+    },
+    {
+      "added_at": "2023-12-01 03:00:00",
+      "album": {
+        "name": "SloMo",
+        "url": "https://open.spotify.com/album/4XH5TqMkP2lFr75tCLtPVz"
+      },
+      "artists": [
+        {
+          "name": "Chanel",
+          "url": "https://open.spotify.com/artist/5DeX42pr2TilrnsUgjG8D1"
+        }
+      ],
+      "duration_ms": 176285,
+      "name": "SloMo",
+      "url": "https://open.spotify.com/track/0T71AvVXY4RB65tvdIyzdO"
     },
     {
       "added_at": "2023-12-01 03:00:00",
@@ -1595,22 +1611,6 @@
     {
       "added_at": "2023-12-01 03:00:00",
       "album": {
-        "name": "SloMo",
-        "url": "https://open.spotify.com/album/4XH5TqMkP2lFr75tCLtPVz"
-      },
-      "artists": [
-        {
-          "name": "Chanel",
-          "url": "https://open.spotify.com/artist/5DeX42pr2TilrnsUgjG8D1"
-        }
-      ],
-      "duration_ms": 176285,
-      "name": "SloMo",
-      "url": "https://open.spotify.com/track/0T71AvVXY4RB65tvdIyzdO"
-    },
-    {
-      "added_at": "2023-12-01 03:00:00",
-      "album": {
         "name": "Un Poquito",
         "url": "https://open.spotify.com/album/4zeNVeRzsJVbr7grkRYuko"
       },
@@ -1631,8 +1631,8 @@
     {
       "added_at": "2023-12-01 03:00:00",
       "album": {
-        "name": "Uno los Dos",
-        "url": "https://open.spotify.com/album/1HvZ1Cipa88AAshhY1Jfe9"
+        "name": "Hotel Miranda!",
+        "url": "https://open.spotify.com/album/5QL33hpDp6XBWdNsc0VGUO"
       },
       "artists": [
         {
@@ -1640,13 +1640,29 @@
           "url": "https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY"
         },
         {
-          "name": "Emilia",
-          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
+          "name": "Francisca Valenzuela",
+          "url": "https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt"
         }
       ],
-      "duration_ms": 215426,
-      "name": "Uno los Dos",
-      "url": "https://open.spotify.com/track/7Cg58yt6PVyvckydVLRZsp"
+      "duration_ms": 188501,
+      "name": "Enamorada",
+      "url": "https://open.spotify.com/track/7j2KGu5tIRjWfOb2LxPoFR"
+    },
+    {
+      "added_at": "2023-12-01 03:00:00",
+      "album": {
+        "name": "Un T\u00e9 De Tilo Por Favor",
+        "url": "https://open.spotify.com/album/4qYkS2ENsUzeIc2DpUJVjT"
+      },
+      "artists": [
+        {
+          "name": "Natalie Perez",
+          "url": "https://open.spotify.com/artist/1Y99HOeRzRc27my6NJE3rE"
+        }
+      ],
+      "duration_ms": 184080,
+      "name": "Algo Tiene",
+      "url": "https://open.spotify.com/track/40n1j3nwbuF44QZOiKDsQ3"
     },
     {
       "added_at": "2023-12-01 03:00:00",
@@ -1667,22 +1683,6 @@
       "duration_ms": 188126,
       "name": "Regresa",
       "url": "https://open.spotify.com/track/7p8SFNiZjUjbGrA9nK8tGW"
-    },
-    {
-      "added_at": "2023-12-01 03:00:00",
-      "album": {
-        "name": "Un T\u00e9 De Tilo Por Favor",
-        "url": "https://open.spotify.com/album/4qYkS2ENsUzeIc2DpUJVjT"
-      },
-      "artists": [
-        {
-          "name": "Natalie Perez",
-          "url": "https://open.spotify.com/artist/1Y99HOeRzRc27my6NJE3rE"
-        }
-      ],
-      "duration_ms": 184080,
-      "name": "Algo Tiene",
-      "url": "https://open.spotify.com/track/40n1j3nwbuF44QZOiKDsQ3"
     },
     {
       "added_at": "2023-12-01 03:00:00",
@@ -1759,8 +1759,8 @@
     {
       "added_at": "2023-12-01 03:00:00",
       "album": {
-        "name": "Hotel Miranda!",
-        "url": "https://open.spotify.com/album/5QL33hpDp6XBWdNsc0VGUO"
+        "name": "Uno los Dos",
+        "url": "https://open.spotify.com/album/1HvZ1Cipa88AAshhY1Jfe9"
       },
       "artists": [
         {
@@ -1768,13 +1768,13 @@
           "url": "https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY"
         },
         {
-          "name": "Francisca Valenzuela",
-          "url": "https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt"
+          "name": "Emilia",
+          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
         }
       ],
-      "duration_ms": 188501,
-      "name": "Enamorada",
-      "url": "https://open.spotify.com/track/7j2KGu5tIRjWfOb2LxPoFR"
+      "duration_ms": 215426,
+      "name": "Uno los Dos",
+      "url": "https://open.spotify.com/track/7Cg58yt6PVyvckydVLRZsp"
     },
     {
       "added_at": "2023-12-01 03:00:00",
@@ -1791,26 +1791,6 @@
       "duration_ms": 126958,
       "name": "Se\u00f1ales",
       "url": "https://open.spotify.com/track/4cIM8wpHVqmPTtLgH4ehun"
-    },
-    {
-      "added_at": "2023-12-01 03:00:00",
-      "album": {
-        "name": "PITADA",
-        "url": "https://open.spotify.com/album/5zSmYPGllvnokcYJfKBHYH"
-      },
-      "artists": [
-        {
-          "name": "Emmanuel Horvilleur",
-          "url": "https://open.spotify.com/artist/3Pc0Gebx1aAAJlZh3zysmI"
-        },
-        {
-          "name": "Zoe Gotusso",
-          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
-        }
-      ],
-      "duration_ms": 226840,
-      "name": "Amor Loco",
-      "url": "https://open.spotify.com/track/1QpOjZOumwGNIo5uvbSHIt"
     },
     {
       "added_at": "2023-12-01 03:00:00",
@@ -1843,6 +1823,26 @@
       "duration_ms": 165360,
       "name": "PENDEJO",
       "url": "https://open.spotify.com/track/5cy2dREJqJAyf3CNr509W7"
+    },
+    {
+      "added_at": "2023-12-01 03:00:00",
+      "album": {
+        "name": "PITADA",
+        "url": "https://open.spotify.com/album/5zSmYPGllvnokcYJfKBHYH"
+      },
+      "artists": [
+        {
+          "name": "Emmanuel Horvilleur",
+          "url": "https://open.spotify.com/artist/3Pc0Gebx1aAAJlZh3zysmI"
+        },
+        {
+          "name": "Zoe Gotusso",
+          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
+        }
+      ],
+      "duration_ms": 226840,
+      "name": "Amor Loco",
+      "url": "https://open.spotify.com/track/1QpOjZOumwGNIo5uvbSHIt"
     },
     {
       "added_at": "2023-12-01 03:00:00",

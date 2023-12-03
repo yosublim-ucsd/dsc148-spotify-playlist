@@ -1242,7 +1242,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-03",
       "duration_ms": 232277,
       "name": "Doesn\u2019t Do Me Any Good",
       "url": "https://open.spotify.com/track/3Rou7KR8ctza5jeqQfyer0"
@@ -3870,6 +3870,24 @@
       "duration_ms": 162253,
       "name": "Tada de Futotta Jinsei",
       "url": "https://open.spotify.com/track/2Qb4apNFWlRnZNfTtLGL4F"
+    },
+    {
+      "album": {
+        "name": "Take Me Home, Country Roads",
+        "url": "https://open.spotify.com/album/5qDjtBY8cC4bO6wytuGOuT"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166676,
+      "name": "Take Me Home, Country Roads",
+      "url": "https://open.spotify.com/track/7qF0FfuzBFwMe1lNHkEDxW"
     },
     {
       "album": {

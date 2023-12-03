@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTmhGAhbrFb3.md) - [plain]
 
 > Música ambiental para noches tranquilas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 532,756 likes - 284 songs - 14 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 532,744 likes - 284 songs - 14 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTmhGAhbrFb3.md) - [plain]
 | 10 | [Confianza](https://open.spotify.com/track/5MN8kJAw4b4lgNlz1KO32M) | [Alegro Moya](https://open.spotify.com/artist/15YhDrOSaJa3ZoiwykoifX) | [Confianza](https://open.spotify.com/album/168r4UP4oBoygnv2Y47oLp) | 3:18 |
 | 11 | [The Sky Is A Sea](https://open.spotify.com/track/5RmKyK9bzcqP7n8YbyPIo9) | [Criollo Clouds](https://open.spotify.com/artist/2oV0NR81ygDpyfMqZoC4Wz) | [The Sky Is A Sea](https://open.spotify.com/album/4rxjuTWBboVJCkZhE7LVGQ) | 3:17 |
 | 12 | [Nova](https://open.spotify.com/track/5NZufHYsCDxpDW1LAQhsGj) | [Vellore](https://open.spotify.com/artist/7IYQPynt9mzd6LR9XFW9zR) | [Nova](https://open.spotify.com/album/2S6BPLsVzzUV3vAIkXpq84) | 2:28 |
-| 13 | [Silent Care](https://open.spotify.com/track/59Z5sHfSmt3WNsVSzITqIS) | [Anarekli](https://open.spotify.com/artist/0owGYDx2xWGY0t6Nelyf4N), [Iasamani](https://open.spotify.com/artist/4hSFuG3jC5Hs7FuY0RLvLw), [Napiri](https://open.spotify.com/artist/7eRXsFw2derSU4CcwaVjfG) | [Silent Care](https://open.spotify.com/album/0t1fFLciAhyww32qcrNLng) | 2:27 |
+| 13 | [Silent Care](https://open.spotify.com/track/59Z5sHfSmt3WNsVSzITqIS) | [Anarekli](https://open.spotify.com/artist/0owGYDx2xWGY0t6Nelyf4N), [Iasamani](https://open.spotify.com/artist/6AdGVwkv68xlsPwV2KvEF8), [Napiri](https://open.spotify.com/artist/7eRXsFw2derSU4CcwaVjfG) | [Silent Care](https://open.spotify.com/album/0t1fFLciAhyww32qcrNLng) | 2:27 |
 | 14 | [Wherever The Light Takes Me](https://open.spotify.com/track/0kQs60Eec9PnDAwvyS3iN1) | [Gual Levine](https://open.spotify.com/artist/1mhDm5AwhS5vAUIO91hHVU) | [Wherever The Light Takes Me](https://open.spotify.com/album/0EhwcIS4mOfZCech509hwA) | 2:51 |
 | 15 | [White Star](https://open.spotify.com/track/1VkdH6Zvj3OTIpuwreP3iF) | [Tryggve Malmberg](https://open.spotify.com/artist/53E9B0OiR03VSuqIqhCguq) | [White Star](https://open.spotify.com/album/0YanaTVFC7Gij9cL8DjXHc) | 2:51 |
 | 16 | [Agbaye](https://open.spotify.com/track/1155sK5VOJc7DC23kdiJjU) | [Torpor Snooze](https://open.spotify.com/artist/5KKzkIqyec5NR4h5vxE0Wx) | [Agbaye](https://open.spotify.com/album/2jiYTUEzw4EOiLmr6Qow2k) | 3:08 |
@@ -293,4 +293,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTmhGAhbrFb3.md) - [plain]
 | 283 | [She’ll be right](https://open.spotify.com/track/0ttVkIiUhVo6j6cxJ6Rnbr) | [Jordan Beggs](https://open.spotify.com/artist/2qHe4hsn9sRe5qm4uUVXwF) | [She’ll be right](https://open.spotify.com/album/0lhVRQb6dOfoet7rJtPBYg) | 3:15 |
 | 284 | [Sarek](https://open.spotify.com/track/7tN9gRPc8eYR9mS5cQsV0M) | [Laponia](https://open.spotify.com/artist/2ofMsV0f4ziG96f4ZKPzGr) | [Sarek](https://open.spotify.com/album/2CmyrbcaDXk5SulZg9nRIi) | 2:10 |
 
-Snapshot ID: `MCwxNDkyNWZkYjAxODUxMmRlZTQwMTYzMTg4N2ZhODg5ZWI0YWY0YTJm`
+Snapshot ID: `MCxhOTY3MmQ2YThiMzFhODU3NDFlY2ZkN2IwZjljMjg2ODllYWI0OWQ0`

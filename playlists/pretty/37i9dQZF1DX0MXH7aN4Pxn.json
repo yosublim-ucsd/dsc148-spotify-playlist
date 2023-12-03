@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 685860,
+  "num_followers": 685856,
   "original_name": "PARTY MODE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4YjgxYmE0NzQ0ODQ5ZmE5NDllZjlkYjE0NWYzMmFhZDJjZDViMmYw",
+  "snapshot_id": "MCw0ZDAzOTE0MDI2NWE5YjY0YTZjMzU5NDBjNmI5NTdlOGJmMTBiN2M4",
   "tracks": [
     {
       "added_at": "2023-11-10 00:01:00",
@@ -567,22 +567,18 @@
     {
       "added_at": "2023-11-10 00:01:00",
       "album": {
-        "name": "Need You Now",
-        "url": "https://open.spotify.com/album/5aY4t7BbsfZ7WOTSOXnMUc"
+        "name": "KILL DEM",
+        "url": "https://open.spotify.com/album/71iqkeqFNSiCgum1gPfeZo"
       },
       "artists": [
         {
-          "name": "D.O.D",
-          "url": "https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB"
-        },
-        {
-          "name": "Jax Jones",
-          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
+          "name": "Jamie xx",
+          "url": "https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ"
         }
       ],
-      "duration_ms": 160000,
-      "name": "Need You Now",
-      "url": "https://open.spotify.com/track/7K9ZxHYSwVJ1BTC044EUNw"
+      "duration_ms": 223536,
+      "name": "KILL DEM",
+      "url": "https://open.spotify.com/track/5CE0k1VmTXgCtaa5L288LP"
     },
     {
       "added_at": "2023-11-10 00:01:00",
@@ -615,18 +611,22 @@
     {
       "added_at": "2023-11-10 00:01:00",
       "album": {
-        "name": "KILL DEM",
-        "url": "https://open.spotify.com/album/71iqkeqFNSiCgum1gPfeZo"
+        "name": "Need You Now",
+        "url": "https://open.spotify.com/album/5aY4t7BbsfZ7WOTSOXnMUc"
       },
       "artists": [
         {
-          "name": "Jamie xx",
-          "url": "https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ"
+          "name": "D.O.D",
+          "url": "https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB"
+        },
+        {
+          "name": "Jax Jones",
+          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
         }
       ],
-      "duration_ms": 223536,
-      "name": "KILL DEM",
-      "url": "https://open.spotify.com/track/5CE0k1VmTXgCtaa5L288LP"
+      "duration_ms": 160000,
+      "name": "Need You Now",
+      "url": "https://open.spotify.com/track/7K9ZxHYSwVJ1BTC044EUNw"
     },
     {
       "added_at": "2023-11-10 00:01:00",
@@ -1427,6 +1427,22 @@
     {
       "added_at": "2023-11-10 00:01:00",
       "album": {
+        "name": "Au Seve",
+        "url": "https://open.spotify.com/album/2khQnnhKRdljReqsaYuk3N"
+      },
+      "artists": [
+        {
+          "name": "Julio Bashmore",
+          "url": "https://open.spotify.com/artist/0WAZJYudbUpl0EOjvdrnRG"
+        }
+      ],
+      "duration_ms": 393387,
+      "name": "Au Seve",
+      "url": "https://open.spotify.com/track/7w0W6W9dz5lVH3M3IWgwIT"
+    },
+    {
+      "added_at": "2023-11-10 00:01:00",
+      "album": {
         "name": "Who Let The Dogs Out (feat. EVALINA)",
         "url": "https://open.spotify.com/album/6HuFQMd2x57nMXOImxw9Tm"
       },
@@ -1447,22 +1463,6 @@
     {
       "added_at": "2023-11-10 00:01:00",
       "album": {
-        "name": "Au Seve",
-        "url": "https://open.spotify.com/album/2khQnnhKRdljReqsaYuk3N"
-      },
-      "artists": [
-        {
-          "name": "Julio Bashmore",
-          "url": "https://open.spotify.com/artist/0WAZJYudbUpl0EOjvdrnRG"
-        }
-      ],
-      "duration_ms": 393387,
-      "name": "Au Seve",
-      "url": "https://open.spotify.com/track/7w0W6W9dz5lVH3M3IWgwIT"
-    },
-    {
-      "added_at": "2023-11-10 00:01:00",
-      "album": {
         "name": "Everything I Do",
         "url": "https://open.spotify.com/album/7DWDzLGhYO99yvQzk5kSJc"
       },
@@ -1479,6 +1479,22 @@
       "duration_ms": 194721,
       "name": "Everything I Do",
       "url": "https://open.spotify.com/track/6xIavZrzwKrMN8glvjCj1O"
+    },
+    {
+      "added_at": "2023-11-10 00:01:00",
+      "album": {
+        "name": "Love Again",
+        "url": "https://open.spotify.com/album/1nE53MrFK1xt3AYvKdwpQZ"
+      },
+      "artists": [
+        {
+          "name": "New Hype",
+          "url": "https://open.spotify.com/artist/394nMXTFPSgEKKDUverHbo"
+        }
+      ],
+      "duration_ms": 172538,
+      "name": "Love Again",
+      "url": "https://open.spotify.com/track/7mQmVvJCFwhHSSXwZwnPRQ"
     },
     {
       "added_at": "2023-11-10 00:01:00",
@@ -1511,54 +1527,6 @@
     {
       "added_at": "2023-11-10 00:01:00",
       "album": {
-        "name": "Love Again",
-        "url": "https://open.spotify.com/album/1nE53MrFK1xt3AYvKdwpQZ"
-      },
-      "artists": [
-        {
-          "name": "New Hype",
-          "url": "https://open.spotify.com/artist/394nMXTFPSgEKKDUverHbo"
-        }
-      ],
-      "duration_ms": 172538,
-      "name": "Love Again",
-      "url": "https://open.spotify.com/track/7mQmVvJCFwhHSSXwZwnPRQ"
-    },
-    {
-      "added_at": "2023-11-10 00:01:00",
-      "album": {
-        "name": "Somebody To Love",
-        "url": "https://open.spotify.com/album/6mWlw6oGjrIBh9ng0L9bim"
-      },
-      "artists": [
-        {
-          "name": "Ben Kim",
-          "url": "https://open.spotify.com/artist/0quOpHBDwcOmM5B9V3TPpL"
-        }
-      ],
-      "duration_ms": 159375,
-      "name": "Somebody To Love",
-      "url": "https://open.spotify.com/track/6hzWWZjqHcoI2KIWpldo9v"
-    },
-    {
-      "added_at": "2023-11-10 00:01:00",
-      "album": {
-        "name": "Better Off Alone",
-        "url": "https://open.spotify.com/album/6HCH2cdZK9JAAbgDeijTJR"
-      },
-      "artists": [
-        {
-          "name": "THAT KIND",
-          "url": "https://open.spotify.com/artist/4zxtCQ4mwZH38FVCSbpqlZ"
-        }
-      ],
-      "duration_ms": 153412,
-      "name": "Better Off Alone",
-      "url": "https://open.spotify.com/track/7GxgdE0yni4IKu8DSg5ibQ"
-    },
-    {
-      "added_at": "2023-11-10 00:01:00",
-      "album": {
         "name": "Ascending Into The Clouds (feat. Elisabeth Troy) [Edit]",
         "url": "https://open.spotify.com/album/6RkAmdnqMxodcx6t6dKg5K"
       },
@@ -1579,6 +1547,38 @@
       "duration_ms": 208217,
       "name": "Ascending Into The Clouds (feat. Elisabeth Troy) - Edit",
       "url": "https://open.spotify.com/track/5dlwxxHd9RNBPP3PwlLZgB"
+    },
+    {
+      "added_at": "2023-11-10 00:01:00",
+      "album": {
+        "name": "Better Off Alone",
+        "url": "https://open.spotify.com/album/6HCH2cdZK9JAAbgDeijTJR"
+      },
+      "artists": [
+        {
+          "name": "THAT KIND",
+          "url": "https://open.spotify.com/artist/4zxtCQ4mwZH38FVCSbpqlZ"
+        }
+      ],
+      "duration_ms": 153412,
+      "name": "Better Off Alone",
+      "url": "https://open.spotify.com/track/7GxgdE0yni4IKu8DSg5ibQ"
+    },
+    {
+      "added_at": "2023-11-10 00:01:00",
+      "album": {
+        "name": "Somebody To Love",
+        "url": "https://open.spotify.com/album/6mWlw6oGjrIBh9ng0L9bim"
+      },
+      "artists": [
+        {
+          "name": "Ben Kim",
+          "url": "https://open.spotify.com/artist/0quOpHBDwcOmM5B9V3TPpL"
+        }
+      ],
+      "duration_ms": 159375,
+      "name": "Somebody To Love",
+      "url": "https://open.spotify.com/track/6hzWWZjqHcoI2KIWpldo9v"
     },
     {
       "added_at": "2023-11-10 00:01:00",

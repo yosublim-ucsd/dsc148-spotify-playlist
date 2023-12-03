@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX53URsQFhR0Q.md) - [plain]
 
 > Hit rewind on these classic Ghanaian gospel songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,220 likes - 50 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,244 likes - 50 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX53URsQFhR0Q.md) - [plain]
 | 46 | [Yesu Mo](https://open.spotify.com/track/5LDQxqWab9bVdOMv0K1Ut6) | [Jack Odoom](https://open.spotify.com/artist/64XvgVFW2ccbs5nltV7USi), [oware JNR](https://open.spotify.com/artist/3DnFBMzlM2xnDDqxeej1bh) | [Yesu Mo](https://open.spotify.com/album/31oohGVTzpXoirIkH3KMMV) | 6:34 |
 | 47 | [Bue Kwan Ma Me](https://open.spotify.com/track/0gUVb28Uegg96XfBZYZglR) | [Ama Boahemaa](https://open.spotify.com/artist/0CeSW6zLjIerwS3S0hMetU) | [Ghana Gospel Classics, Vol\. 1](https://open.spotify.com/album/6mQQJMMcckDuVfEPTex79h) | 6:17 |
 | 48 | [Mema Meni So](https://open.spotify.com/track/3Rr1Y9nXzMpjqZcsKvzydb) | [Obaapa Christy](https://open.spotify.com/artist/1S3KAAsxnbkkrwlil4LMMk) | [Holy Ghost](https://open.spotify.com/album/2QrY1DPOzjjcnglsiYPsn0) | 5:18 |
-| 49 | [I Have a God](https://open.spotify.com/track/4lMleOHHpi7NOlDNzB2dvH) | [Francis Agyei](https://open.spotify.com/artist/3Hfa3UtgEZjW9pnYKSI5Q2) | [God You Are So Good](https://open.spotify.com/album/3NrW1Gz5zkKAHJGKQNcQZi) | 6:24 |
+| 49 | [Agyenkwah](https://open.spotify.com/track/21yaqOkfraywhbQNhRv6y9) | [Dsp Kofi Sarpong](https://open.spotify.com/artist/5n5XQctzehn4LwiGS2A0el) | [My Saviour](https://open.spotify.com/album/5HdtiJgyYJWXeAXEOJh6RP) | 5:31 |
 | 50 | [Ebenezer](https://open.spotify.com/track/1F4U4726baiMPBAaXCVolt) | [Stella Seal](https://open.spotify.com/artist/4xoLUMaBonp3ZZyAzrl3WI) | [Afe Ato Me](https://open.spotify.com/album/1QaWoExSDXeUkEEP7WKr8Q) | 5:14 |
 
-Snapshot ID: `MCw1MDI2YzIxYjI1MmI1YTI4ZDFmM2Q2NWJlMjBhOWIwZGY2MjFiYmQz`
+Snapshot ID: `MCxlOTkyOWRlNTIwODJjMGVlMzFmNjU1MDVmNTk2YjU5Y2VkZGI5MWQ4`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaEn7fIWvesa.md) - [plain]
 
 > A lo cubano 🔥 Con El Chacal en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,803 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,846 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaEn7fIWvesa.md) - [plain]
 | 42 | [Te Quiero Pa' Mi](https://open.spotify.com/track/6f1iOMpbJFItdBug6CepDl) | [El Kimiko y Yordy](https://open.spotify.com/artist/0DjHJO4Ez3nSVfhv8x95cn) | [Te Quiero Pa' Mi](https://open.spotify.com/album/7HWJg3Yznnix51OBoq4BRP) | 3:21 |
 | 43 | [Calentando la Habana](https://open.spotify.com/track/1AZQo01NYm6BUxhUaxB4lf) | [El Chacal](https://open.spotify.com/artist/1xFn1xod58AGaSZjrxdiXA) | [Fiesta](https://open.spotify.com/album/42FfGtg64uJb5qUndVJ0bH) | 4:13 |
 | 44 | [Pobre Corazón \- with Lenier](https://open.spotify.com/track/29orueqF7k02TWw9CVHQh1) | [Divan](https://open.spotify.com/artist/5R9qfSPB77aX9n9GKww0PP), [Lenier](https://open.spotify.com/artist/4zWFlKgU4j7ryWg5nsOmU6) | [\#Round2](https://open.spotify.com/album/6a3ea5TFfoPTy5mg4QitFr) | 2:58 |
-| 45 | [Tu & Yo \- Remix](https://open.spotify.com/track/2hW67JZRADAZAF093j8NqW) | [El Kamel](https://open.spotify.com/artist/3YgwtcjB89K3jjvK0dvL34), [Bryan Omega](https://open.spotify.com/artist/6xWHyWz4dEAEcUieksnCqq), [Dekano Kano y Efowa Owa](https://open.spotify.com/artist/3lyh1gSW0AbRFRTksN8H9W), [El Taiger](https://open.spotify.com/artist/4PFgfReja3r59JaekHpeuf), [DJ Conds](https://open.spotify.com/artist/42ppAzaKW3DW3bYRmxd1Dw) | [Tu & Yo \(Remix\)](https://open.spotify.com/album/7aC9SavBc4WfPAbcVqiBbk) | 2:57 |
-| 46 | [No Mas Mentiras \- Remix](https://open.spotify.com/track/0TdwfvUyv7i96T6cbWROF3) | [Jacob Forever](https://open.spotify.com/artist/4fCRFHEQgjqakvFgQCliMp), [El Uniko](https://open.spotify.com/artist/78vl46oKTqjC6esrYZK2Mu), [El Micha](https://open.spotify.com/artist/0d7jzRhjOifL8X9hxNvbEn) | [No Mas Mentiras \(Remix\)](https://open.spotify.com/album/30vjNDLhlQGEKeKzeFvvb8) | 4:04 |
+| 45 | [No Mas Mentiras \- Remix](https://open.spotify.com/track/0TdwfvUyv7i96T6cbWROF3) | [Jacob Forever](https://open.spotify.com/artist/4fCRFHEQgjqakvFgQCliMp), [El Uniko](https://open.spotify.com/artist/78vl46oKTqjC6esrYZK2Mu), [El Micha](https://open.spotify.com/artist/0d7jzRhjOifL8X9hxNvbEn) | [No Mas Mentiras \(Remix\)](https://open.spotify.com/album/30vjNDLhlQGEKeKzeFvvb8) | 4:04 |
+| 46 | [Tu & Yo \- Remix](https://open.spotify.com/track/2hW67JZRADAZAF093j8NqW) | [El Kamel](https://open.spotify.com/artist/3YgwtcjB89K3jjvK0dvL34), [Bryan Omega](https://open.spotify.com/artist/6xWHyWz4dEAEcUieksnCqq), [Dekano Kano y Efowa Owa](https://open.spotify.com/artist/3lyh1gSW0AbRFRTksN8H9W), [El Taiger](https://open.spotify.com/artist/4PFgfReja3r59JaekHpeuf), [DJ Conds](https://open.spotify.com/artist/42ppAzaKW3DW3bYRmxd1Dw) | [Tu & Yo \(Remix\)](https://open.spotify.com/album/7aC9SavBc4WfPAbcVqiBbk) | 2:57 |
 | 47 | [Secuestro](https://open.spotify.com/track/5sK0UjjnF5STHk2wct5U9G) | [Fixty Ordara y Ja Rulay](https://open.spotify.com/artist/5NHJiPzOi1EFeCB8WBiVKH), [Ja Rulay](https://open.spotify.com/artist/2xaNqd76QhUudoNKJ3dUYV), [Fixty Ordara](https://open.spotify.com/artist/7qAgkEaX7gtv2KisuQdp3E) | [Secuestro](https://open.spotify.com/album/14f6CGPw4pb4r5Las2cPM7) | 2:53 |
 | 48 | [El Campeón](https://open.spotify.com/track/4vUcoqQTwNQkkzb73UYh3L) | [El Kimiko y Yordy](https://open.spotify.com/artist/0DjHJO4Ez3nSVfhv8x95cn), [Michel Boutic](https://open.spotify.com/artist/1uac76BPb8mnvmQv6AtBZ9), [EL YORDY DK](https://open.spotify.com/artist/4Sjaa8KPxSPX7VqcixAGn8) | [El Campeón](https://open.spotify.com/album/2wVjbn3TSUBnPOfvsiEbwV) | 2:48 |
 | 49 | [Descaradita](https://open.spotify.com/track/1gURkcy589Sa8Xl5r3EBAP) | [El Chulo](https://open.spotify.com/artist/7kj75f6jra7M10czBhd0Gt), [Jacob Forever](https://open.spotify.com/artist/4fCRFHEQgjqakvFgQCliMp), [El Taiger](https://open.spotify.com/artist/4PFgfReja3r59JaekHpeuf), [Yoani Star](https://open.spotify.com/artist/6fjsWobMoPEAgXjDItU93E) | [Descaradita](https://open.spotify.com/album/5MAsXFNE1EwY2bUqGwQFTk) | 4:18 |
 | 50 | [Dale Pa' Miami](https://open.spotify.com/track/6Z3g1JRk0PL2UWGtWW1PxI) | [El Chacal](https://open.spotify.com/artist/1xFn1xod58AGaSZjrxdiXA), [Jacob Forever](https://open.spotify.com/artist/4fCRFHEQgjqakvFgQCliMp) | [Dale Pa' Miami](https://open.spotify.com/album/3pivUJGUg3vK0yqWFqsKer) | 3:14 |
 
-Snapshot ID: `MCxkZjYyMjY2YzY0ZjBiNThmOTMwOTY3M2QyZjE0YjYzM2EzNzkzZTNh`
+Snapshot ID: `MCxhMDYxOWRmYjM4ZTQzM2I3NzAzMTg1ZGU3OGZmZDgxYjZhMWI4NzY1`

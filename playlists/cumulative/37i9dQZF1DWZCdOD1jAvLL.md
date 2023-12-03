@@ -4,7 +4,7 @@
 
 > Ride the bassline\. Cover: Apashe
 
-611 songs - 1 day 9 hr 45 min
+612 songs - 1 day 9 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -252,6 +252,7 @@
 | [Hooyah!](https://open.spotify.com/track/3v3NFAqax9Zg6TFBltTMF8) | [CHYL](https://open.spotify.com/artist/15HOfHbNWedCAcJ3Cm1mbc), [Fahjah](https://open.spotify.com/artist/7LjoOGD9rMWkR8clGUu2Id) | [Hooyah!](https://open.spotify.com/album/15IjJw4B6jvRPPtbuwHHkI) | 2:12 | 2023-02-10 |  |
 | [Horizon](https://open.spotify.com/track/1vsRO2CO1N7eyryohEMU6r) | [Phil Gonzo](https://open.spotify.com/artist/5MOUpeSR9eHImHFNg78RCU) | [Horizon](https://open.spotify.com/album/3lc95dFU3Mr1L8ilH1MsEY) | 4:08 | 2022-08-12 | 2022-10-29 |
 | [Hostile](https://open.spotify.com/track/6LUzj32ZNLC5Ogju5UfSEi) | [Habstrakt](https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn) | [Heritage](https://open.spotify.com/album/4hO0xNT3cqylkfL5Raw3zG) | 2:33 | 2023-04-28 |  |
+| [Hot In Here](https://open.spotify.com/track/0jzGm5fCcbUdaiUj4hAxeM) | [Champion](https://open.spotify.com/artist/3cHya45cxGzLYIPg2LRCCR), [Sammy Virji](https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb) | [Hot In Here](https://open.spotify.com/album/02oLtxGI6xxN68iVnnDR6W) | 3:11 | 2023-12-01 |  |
 | [Hov](https://open.spotify.com/track/0TyAdWCeWxjOy4ve1AajDl) | [Ashton Adams](https://open.spotify.com/artist/3bZea9sKoCDVDY4hwfgo4X), [100m's](https://open.spotify.com/artist/3DqGUfCidr1acIyds7GWxl) | [Hov](https://open.spotify.com/album/4XJojTas5NZRk04xXbVZBc) | 2:31 | 2022-02-25 | 2022-04-02 |
 | [How it is](https://open.spotify.com/track/7HQEKWXO8oGMvnGSvhRK4j) | [Malaa](https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS) | [How it is](https://open.spotify.com/album/2DjP7cXRnwyry7ji5iVYcc) | 3:01 | 2022-06-10 | 2022-09-03 |
 | [How We Do](https://open.spotify.com/track/0oDnZigAyI2RTxareDIuXO) | [CID](https://open.spotify.com/artist/4FCzCS0KEgb0rgySWINItO), [Joshwa](https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5) | [How We Do](https://open.spotify.com/album/5QyO0fxIi4l2LFQkbWUGWw) | 3:07 | 2022-02-18 | 2022-06-25 |
@@ -302,7 +303,7 @@
 | [LEFT TO RIGHT](https://open.spotify.com/track/2IyT4A7X7QYMAhEK6etsi3) | [Odd Mob](https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9) | [LEFT TO RIGHT](https://open.spotify.com/album/4H59uwAu61DMDtHwZxAhy3) | 2:26 | 2022-08-12 | 2022-12-06 |
 | [LEFT TO RIGHT](https://open.spotify.com/track/4zzZGPInXkaUa4KEuuyFSn) | [Odd Mob](https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9) | [LEFT TO RIGHT](https://open.spotify.com/album/4dFzMinnMwvmQZLQubahEh) | 2:26 | 2022-08-12 | 2022-09-05 |
 | [Let You Do This \(with Buy Now\)](https://open.spotify.com/track/5OlgbvkngYf6dibaafcqcO) | [Salvatore Ganacci](https://open.spotify.com/artist/5PdkRVDASsw6P7QoqRpz0F), [Sebastian Ingrosso](https://open.spotify.com/artist/6hyMWrxGBsOx6sWcVj1DqP), [Steve Angello](https://open.spotify.com/artist/4FqPRilb0Ja0TKG3RS3y4s), [Buy Now](https://open.spotify.com/artist/7s2LRZMqnuMufCcNvu8eZJ) | [Let You Do This](https://open.spotify.com/album/4Dq63kA76g29J8viZ448Zg) | 3:22 | 2022-09-23 | 2023-01-21 |
-| [Let's Begin](https://open.spotify.com/track/46Fsgmz1Zc5ZMmhqFGmjaF) | [Kryder](https://open.spotify.com/artist/1xfLBmx0n8DQri9HxJsq9O), [Dope Earth Alien](https://open.spotify.com/artist/2wajUFt1bQDrz8A73tQrkN) | [Let's Begin](https://open.spotify.com/album/2QB0mD6cQ2yPnMmo4QaoN8) | 2:53 | 2023-11-24 |  |
+| [Let's Begin](https://open.spotify.com/track/46Fsgmz1Zc5ZMmhqFGmjaF) | [Kryder](https://open.spotify.com/artist/1xfLBmx0n8DQri9HxJsq9O), [Dope Earth Alien](https://open.spotify.com/artist/2wajUFt1bQDrz8A73tQrkN) | [Let's Begin](https://open.spotify.com/album/2QB0mD6cQ2yPnMmo4QaoN8) | 2:53 | 2023-11-24 | 2023-12-03 |
 | [Let's Freak](https://open.spotify.com/track/5DbvVp3W55HN5igEic72Xs) | [LOVRA](https://open.spotify.com/artist/4fIPBdK4awAR1W14u3v1J5), [Kevin McKay](https://open.spotify.com/artist/07VdEUK5mf0rifGeNqs0Wg) | [Let's Freak](https://open.spotify.com/album/681OCAwzVaNg6yPgMQ3uJx) | 2:34 | 2022-05-06 | 2022-07-30 |
 | [Let's Rave, Make Love](https://open.spotify.com/track/6mylgnvuGYjcakF6ur4uHC) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Shapov](https://open.spotify.com/artist/36VSvhsPFTdsj1CtmatPiQ) | [Welcome Home](https://open.spotify.com/album/1Jz9lsCZlbb7pW829VbgXH) | 3:20 | 2022-05-06 | 2022-06-25 |
 | [Libre](https://open.spotify.com/track/7KibjIxYJsdP9UGjjMUEn6) | [Habstrakt](https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn), [IMANU](https://open.spotify.com/artist/5Y7rFm0tiJTVDzGLMzz0W1) | [Heritage](https://open.spotify.com/album/4hO0xNT3cqylkfL5Raw3zG) | 3:18 | 2023-03-31 | 2023-10-28 |

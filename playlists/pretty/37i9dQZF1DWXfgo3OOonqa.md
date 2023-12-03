@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 
 > Håll det 100.
 
-[Spotify](https://open.spotify.com/user/spotify) - 321,936 likes - 85 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 321,988 likes - 85 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 | 84 | [STILO](https://open.spotify.com/track/60KPeB0eJuksnuvfnXkA3B) | [1.Cuz](https://open.spotify.com/artist/5uvOG0MwnD2ANrxNBUPtNr) | [STILO](https://open.spotify.com/album/6tsnSrVthXlEmRxmwGdc7q) | 2:21 |
 | 85 | [MA TINSÄNI](https://open.spotify.com/track/7b9DNLoGVzpxv1yRugBPWg) | [Jazlin](https://open.spotify.com/artist/2PXGoeN12YqSbK0fCpSPPl) | [MA TINSÄNI](https://open.spotify.com/album/59qPPpQLTU8kCP1cqDQbcI) | 2:12 |
 
-Snapshot ID: `MCxiYmM1NWZiNDM0YjdmOWZiNjZjMzA2MzE4ZGM1YmZiODc2MTRmMWEw`
+Snapshot ID: `MCxkMjIyMzQzMjE1ZDVhYWJlM2E5YzlhODQ3OTU0ZjEwNmQ4ZDg2MjNm`

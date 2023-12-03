@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1k0OdTn3ZMX.md) - [plain]
 
 > nü\-metal revival is happening here and now with P.O.D and Tatiana from Jinjer.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,225 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,359 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1k0OdTn3ZMX.md) - [plain]
 | 49 | [Showdown](https://open.spotify.com/track/0dMlUGAmgBLLLjiufG5R18) | [Rise Of The Northstar](https://open.spotify.com/artist/5vDfbSPkurKQxpVVXALJ4K) | [Showdown](https://open.spotify.com/album/0hynTwx1tRcpaCMf2t2YXv) | 4:11 |
 | 50 | [This Is Over](https://open.spotify.com/track/5aX9v4Y1q1iibwYmsPVchf) | [Ill Niño](https://open.spotify.com/artist/1xJ6l1VXgGuyZ0uhu27caF) | [This Is Over](https://open.spotify.com/album/1WTW5zVbx104vQyQolqOHf) | 3:06 |
 
-Snapshot ID: `MCw2ZWFiMjhjMGIwODljOGNiN2NmMTk3ZWYyNmNlYzYwZTg5NjQ3MGM4`
+Snapshot ID: `MCwxOWViYWI1YTczOGE4YTdkNGFlN2I5ODU0MzZmYzk0Mjc3ZGVjNDAw`

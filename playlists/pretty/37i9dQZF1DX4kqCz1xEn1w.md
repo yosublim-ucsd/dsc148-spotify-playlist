@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kqCz1xEn1w.md) - [plain]
 
 > Victory over death has been won today, forever!
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,766 likes - 100 songs - 9 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,760 likes - 100 songs - 9 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,14 +35,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kqCz1xEn1w.md) - [plain]
 | 25 | [Revelation Song](https://open.spotify.com/track/3pZVH0mPC6fxtmjOT0i9t5) | [Kari Jobe](https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2) | [Kari Jobe](https://open.spotify.com/album/43qobCIpLpsxshjc7PbAXb) | 6:01 |
 | 26 | [Surrounded \(Fight My Battles\)](https://open.spotify.com/track/73u7dTjaBTMyvs3KWOThGR) | [Michael W\. Smith](https://open.spotify.com/artist/5aBxFPaaGk9204ssHUvXWN) | [Surrounded](https://open.spotify.com/album/0RpjkgJDTV3IiltZf1Udkl) | 5:00 |
 | 27 | [Graves Into Gardens \(Live\)](https://open.spotify.com/track/0pNizrRmvu5S16fH6ccm0v) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix), [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v) | [Graves Into Gardens \(Live\)](https://open.spotify.com/album/3AYUzOtIQoLrxDZNwaPErh) | 7:32 |
-| 28 | [Whom Shall I Fear \(God Of Angel Armies\)](https://open.spotify.com/track/2VuwpxQR7rTPWkoLkpANdz) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Burning Lights](https://open.spotify.com/album/3tSSB1DofuOXRnNXPDjwiW) | 4:27 |
+| 28 | [At The Cross \(Love Ran Red\)](https://open.spotify.com/track/27uBwOJbW6kHsCbKGukxMK) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Love Ran Red](https://open.spotify.com/album/1I5FTCyGotvADiEmqPeWjY) | 4:10 |
 | 29 | [What A Beautiful Name \- Live](https://open.spotify.com/track/1yYUIjT3bZ9RB9vejqYy9f) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24), [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC) | [Let There Be Light \(Deluxe\)](https://open.spotify.com/album/5SuiUBJmzzlOZqj3rogcja) | 5:41 |
 | 30 | [Holy Spirit \- Live](https://open.spotify.com/track/5Xjcst6Rle74VteHx0zczO) | [Jesus Culture](https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8), [Kim Walker\-Smith](https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz) | [Live From New York](https://open.spotify.com/album/6td3dp0Q2whXxXpvG8vXvP) | 8:09 |
 | 31 | [Hosanna](https://open.spotify.com/track/5VlojXyAGM1q9ke2ybxrVT) | [Hillsong UNITED](https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM), [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC) | [All Of The Above](https://open.spotify.com/album/0nJ35Byhm8jzBS3QzjSv4D) | 5:30 |
 | 32 | [I Am Not Alone \- Live](https://open.spotify.com/track/48LRu8wJeDbUaAlZMg7fBF) | [Kari Jobe](https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2) | [Majestic \(Live\)](https://open.spotify.com/album/1CMgCsrwDku8Q6bOjNSJJr) | 5:33 |
 | 33 | [Resurrecting \(Live\)](https://open.spotify.com/track/1GtmiINnAu5K2VEqyh1Xdc) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix) | [Here As In Heaven](https://open.spotify.com/album/6KToyzPBIfHNyB5vWEfjrF) | 7:47 |
 | 34 | [Break Every Chain \- Live](https://open.spotify.com/track/2cut7Izp9DLQ26dP8HQ1fE) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [Grace \(Live/Deluxe\)](https://open.spotify.com/album/1x6hrh2j50CCOozAmvc9I5) | 8:18 |
-| 35 | [At The Cross \(Love Ran Red\)](https://open.spotify.com/track/27uBwOJbW6kHsCbKGukxMK) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Love Ran Red](https://open.spotify.com/album/1I5FTCyGotvADiEmqPeWjY) | 4:10 |
+| 35 | [Whom Shall I Fear \(God Of Angel Armies\)](https://open.spotify.com/track/2VuwpxQR7rTPWkoLkpANdz) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Burning Lights](https://open.spotify.com/album/3tSSB1DofuOXRnNXPDjwiW) | 4:27 |
 | 36 | [Another In The Fire \- Live](https://open.spotify.com/track/5PmHmU5AaBy9ld3bdQkD96) | [Hillsong UNITED](https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM), [Chris Davenport](https://open.spotify.com/artist/6Lu7A9Om0rGL9dgzDLR1ed), [Joel Houston](https://open.spotify.com/artist/4VJSN1kOmlYi5A6FEmGu64) | [People \(Live\)](https://open.spotify.com/album/5tLfBSUv5KGNNOqbyKo1rD) | 6:33 |
 | 37 | [Set A Fire \- Live](https://open.spotify.com/track/0WFaQNCdmyONO7GIWL8mDZ) | [Jesus Culture](https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8), [Chris Quilala](https://open.spotify.com/artist/45HXIkMqrQerbaPuw6FgKD) | [Live From New York](https://open.spotify.com/album/6td3dp0Q2whXxXpvG8vXvP) | 5:15 |
 | 38 | [Wonderful, Merciful Savior](https://open.spotify.com/track/1GfXRWcCxijFPbR5hYNh5q) | [Selah](https://open.spotify.com/artist/5dZiRoY9Vpp6qrxqXNRwPE) | [Greatest Hymns, Vol\. 2](https://open.spotify.com/album/1JmmM3kMCKzYbuBHphQMFP) | 3:51 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kqCz1xEn1w.md) - [plain]
 | 99 | [Thank You](https://open.spotify.com/track/4nzSgYDePiYrLJbrxqE36p) | [Highlands Worship](https://open.spotify.com/artist/48ubKBTTmlA82dffZ223In) | [Thank You](https://open.spotify.com/album/344FLgN07l7Ye9un6qWaNu) | 4:33 |
 | 100 | [Calvary's Shadow](https://open.spotify.com/track/5saR4W1MyuwWJTCT78pOrn) | [River Valley Worship](https://open.spotify.com/artist/1VXCIEol192OgSF9VzowGV) | [Million Lifetimes](https://open.spotify.com/album/4yYkpJ8KaR4pvZDFFPYdgA) | 4:32 |
 
-Snapshot ID: `MCxhODJmMzYyOTAxNDdiNDk0NWUyZDhhNzk4ZDhiOTUwZWU5Zjk5MjI1`
+Snapshot ID: `MCwxODBjMTM5MWU5YzJkNWI1ZmI4MmYxMWYzYjY2YmQ5ZTBmOTFhZTY1`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases\. Cover: Gazo, Tiakola
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,890 likes - 109 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,913 likes - 109 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 13 | [Sorry Mama Papa](https://open.spotify.com/track/0fF0IJSe5HVQnC6PFRPzEz) | [Florentina](https://open.spotify.com/artist/7adCbfW9aRcBxWhuuSNXTo) | [Details](https://open.spotify.com/album/2hfaV0g2aEvB5hOduWzqPB) | 2:33 |
 | 14 | [CORONER](https://open.spotify.com/track/0fU8nZlFxeplNx9SeuYEQL) | [ASHE 22](https://open.spotify.com/artist/3tTvSeZiFDP3CY5EdPGcR4), [Maes](https://open.spotify.com/artist/6L34dW6SKMSDaGIfYDU19j) | [KH\-22](https://open.spotify.com/album/1zqvKz8fhd93s4GPYFDYAP) | 2:51 |
 | 15 | [Over You](https://open.spotify.com/track/5taWS1rNgxDbnYotCGyg28) | [Gil Glaze](https://open.spotify.com/artist/6pNzdcgIaKQKsYNS5agP4V) | [Over You](https://open.spotify.com/album/647LXIG083ChlUMRtPjiLo) | 2:59 |
-| 16 | [winterlove2.0](https://open.spotify.com/track/1szS7JF64tEmQke86QpFDV) | [Maikel](https://open.spotify.com/artist/2T1zM7AtA0Cd9u1m3PBFEY), [badchieff](https://open.spotify.com/artist/6GoNVmYCl0yUm4pEp80vn6), [Miksu / Macloud](https://open.spotify.com/artist/76dRoxKtDwYkgCQePok9cU) | [winterlove2.0](https://open.spotify.com/album/6FVvZwks2Bz8xpYFUSbQrb) | 3:11 |
+| 16 | [winterlove2.0](https://open.spotify.com/track/1szS7JF64tEmQke86QpFDV) | [Maikel](https://open.spotify.com/artist/2T1zM7AtA0Cd9u1m3PBFEY), [badchieff](https://open.spotify.com/artist/6GoNVmYCl0yUm4pEp80vn6), [Miksu / Macloud](https://open.spotify.com/artist/76dRoxKtDwYkgCQePok9cU) | [winterlove2.0](https://open.spotify.com/album/6FVvZwks2Bz8xpYFUSbQrb) | 3:08 |
 | 17 | [Thank You \(Not So Bad\)](https://open.spotify.com/track/09CnYHiZ5jGT1wr1TXJ9Zt) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Dido](https://open.spotify.com/artist/2mpeljBig2IXLXRAFO9AAs), [W&W](https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4), [Dimitri Vegas](https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO), [Like Mike](https://open.spotify.com/artist/4pwXiI7Z5ZStkgKowZyoKi) | [Thank You \(Not So Bad\)](https://open.spotify.com/album/1J7XItLnNLegigdh4AjGKN) | 2:20 |
 | 18 | [Pretty Lady](https://open.spotify.com/track/5TtleMfzmuJjjd3iVG07XH) | [ARY](https://open.spotify.com/artist/6L7j9oK58YpVLZClqX0iF4), [Eddin](https://open.spotify.com/artist/2Diqn1jFkehRd9MVDGKGdq) | [Pretty Lady](https://open.spotify.com/album/3PckyB3K4Om0TgDF25i6QE) | 2:39 |
 | 19 | [Keisha](https://open.spotify.com/track/2eIpm3C9VrZgVbJwa5v1Es) | [Tayron Kwidan's](https://open.spotify.com/artist/1wlqglR1kdPF2T0Rxee11v) | [Keisha](https://open.spotify.com/album/4xowVeOMIfvQ88PXNMcuDd) | 2:52 |
@@ -118,4 +118,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 108 | [Who Are You Running From](https://open.spotify.com/track/3jSDhLHxnERqG9XWc4ynFz) | [Sevdaliza](https://open.spotify.com/artist/5MraexJKZDrQYzS98kNwie) | [Who Are You Running From](https://open.spotify.com/album/3sWrHw3QHMZXIfEjZ4x387) | 3:16 |
 | 109 | [Requiem \(feat\. Mathias Reiser\)](https://open.spotify.com/track/2BkoMtjLhejCHwbYWKtcNz) | [Peter Plate](https://open.spotify.com/artist/1UEipeDjRtS1qnuhmKgmXg), [Ulf Leo Sommer](https://open.spotify.com/artist/4anaTI5qQtKKp5D6I5sgDp), [Joshua Lange](https://open.spotify.com/artist/6LmAQh4EtCTvhV5d9nKgbg), [Mathias Reiser](https://open.spotify.com/artist/4tJMIoQpBowzSZt0oIsxR6) | [Requiem \(feat\. Mathias Reiser\)](https://open.spotify.com/album/5FnhEE3zDHX16JSB2pOPpY) | 3:33 |
 
-Snapshot ID: `MCxjZTFmN2M4OGRlMWUwMWZiZmJlNTUzMDZjYmI1OTdjOTM2MDA2ODlm`
+Snapshot ID: `MCwxNTg3OTJjYTEyMGVkZjRhNmE3YjU4NWQ1M2NlMjgxODBmMTU3NTI5`

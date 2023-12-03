@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 
 > Os destaques de 2023! Simone Mendes e mais mulheres poderosas para serem ouvidas no volume máximo!
 
-[Spotify](https://open.spotify.com/user/spotify) - 155,475 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 155,974 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 28 | [Caju \(Da Série Original Amazon Cangaço Novo\)](https://open.spotify.com/track/2BZvNHHo8bxS90MoKwRPAc) | [Rachel Reis](https://open.spotify.com/artist/12i4XNuGj3mOnIsmeyw1HR) | [Caju \(Da Série Original Amazon Cangaço Novo\)](https://open.spotify.com/album/13Q7kbWqa4y3atnMHDKvuw) | 2:36 |
 | 29 | [PLAYLIST DE SEXO](https://open.spotify.com/track/4lxDwxNxvod11PZzYMPcmw) | [Carol Biazin](https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN) | [REVERSA](https://open.spotify.com/album/46flJXmb1UBv1jvP6lAMoj) | 2:38 |
 | 30 | [Perigo](https://open.spotify.com/track/7zP9OLU7uItlPuoxrYGN1K) | [Mariana Nolasco](https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH) | [Quem É Ela?](https://open.spotify.com/album/632zAF6KJH5GFji5N6SoN9) | 2:38 |
-| 31 | [Faz Assim](https://open.spotify.com/track/2qCSK0uuTnTBYa18SlSzyM) | [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET), [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm) | [Faz Assim](https://open.spotify.com/album/1qmvJynSDGx7sHhH0JO6Gf) | 3:37 |
-| 32 | [Bomba](https://open.spotify.com/track/6EOoEjJEfyijbj5JXmbPw3) | [PRISCILLA](https://open.spotify.com/artist/4jkOEd7kQE6UyiXnuQy9pa) | [Bomba](https://open.spotify.com/album/50fMxICIH05gOr9npaZiPo) | 2:16 |
+| 31 | [Bomba](https://open.spotify.com/track/6EOoEjJEfyijbj5JXmbPw3) | [PRISCILLA](https://open.spotify.com/artist/4jkOEd7kQE6UyiXnuQy9pa) | [Bomba](https://open.spotify.com/album/50fMxICIH05gOr9npaZiPo) | 2:16 |
+| 32 | [Faz Assim](https://open.spotify.com/track/2qCSK0uuTnTBYa18SlSzyM) | [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET), [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm) | [Faz Assim](https://open.spotify.com/album/1qmvJynSDGx7sHhH0JO6Gf) | 3:37 |
 | 33 | [AEIOU](https://open.spotify.com/track/49QWN3Hq99FriZqIWEISYQ) | [Rebecca](https://open.spotify.com/artist/5MS6HieNmKxzkAM8amE8sr), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Vivi](https://open.spotify.com/artist/4UhPHvXjn0st73ksfh8DjU) | [AEIOU](https://open.spotify.com/album/6SeOld4CS4Le8JuxMmkfXP) | 2:46 |
 | 34 | [Pausa](https://open.spotify.com/track/4ZNQesxN8vNtOh5hL5qeWD) | [Joyce Alane](https://open.spotify.com/artist/3oDfBqnWBkgMSag02YYXHG) | [Pausa](https://open.spotify.com/album/0s7AxN40rQwUGlFfoD3B6H) | 3:39 |
 | 35 | [Desfruta](https://open.spotify.com/track/2DLAjolKrLcgS0776mg9OO) | [Alice Caymmi](https://open.spotify.com/artist/3ExGkIKgqWpIr2hr0nepRp), [Rachel Reis](https://open.spotify.com/artist/12i4XNuGj3mOnIsmeyw1HR) | [Desfruta](https://open.spotify.com/album/3DqQXeeEpBPP8MzSadczqB) | 3:14 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 49 | [Tem Dendê/ Figa de Guiné \- Ao Vivo](https://open.spotify.com/track/6JZMrxEDFKNQouzJwpwaoN) | [Alcione](https://open.spotify.com/artist/0hPar6ePAELiu9rYMdvMEo) | [Alcione 50 Anos \(Ao Vivo\)](https://open.spotify.com/album/0ONQQA0n7AHNzHFjMcrth0) | 3:32 |
 | 50 | [Homenagem](https://open.spotify.com/track/2EzZnXR3UgkoX92WHgoNYD) | [Luiza Lian](https://open.spotify.com/artist/0mqrSBamArf14pPZE2Q9kW) | [7 Estrelas \| quem arrancou o céu?](https://open.spotify.com/album/5weOG4lzh2hlbs1oq5YKjy) | 3:26 |
 
-Snapshot ID: `MCwwMTRhYTU1Mzk1Y2MwOTkwZTZmNDBiNjgzMDM0MzZlYzU3OTkwZGRi`
+Snapshot ID: `MCw3YTA2ZmYxNTYzZTQwNjZiZjk2ZjQ3Yjg5MjRmNmQ5OThlMGMzZTBk`

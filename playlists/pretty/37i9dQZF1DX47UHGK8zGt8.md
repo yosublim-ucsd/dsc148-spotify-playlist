@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX47UHGK8zGt8.md) - [plain]
 
 > Músicas calminhas pra começar o dia bem relax.
 
-[Spotify](https://open.spotify.com/user/spotify) - 510,617 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 510,822 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX47UHGK8zGt8.md) - [plain]
 | 49 | [Noite](https://open.spotify.com/track/2v21Q5ape3sbMXCNBX7NIy) | [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm), [Vitor Kley](https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U) | [Noite](https://open.spotify.com/album/6IT90sVXN3ljIjZgYQDTci) | 3:31 |
 | 50 | [relicário](https://open.spotify.com/track/1fZgxJgmmOl8zCyHgcKAWE) | [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe) | [N](https://open.spotify.com/album/0ArhyC2E8UYtNhFYBialf0) | 4:05 |
 
-Snapshot ID: `MCw0MDgzOGIyMzkzMmQ4Nzc4YzQ0YTM5ZDM4YjZhYjE4MTcyMzk5ZTQ3`
+Snapshot ID: `MCxhY2MxZDU3ZTQwMmUzZWE0Yjc4OGZhNmEwYzAzMWRmZTc4ZDUxNjAw`

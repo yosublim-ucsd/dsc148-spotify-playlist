@@ -1,12 +1,12 @@
 {
   "description": "Upbeat dance pop to keep your heart pumping.",
-  "num_followers": 4090504,
+  "num_followers": 4090717,
   "original_name": "Cardio",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZWU5YzNkNzVkNWU3NWJkMGJjZDRlMjY4NzEzYTc5ZTI1NzlmNTcx",
+  "snapshot_id": "MCw2MGJhYmY4NzJlZmFlMWRkMWMwYjU2NzU3OTU5YjAxODczNWMyMjFk",
   "tracks": [
     {
       "added_at": "2023-12-01 05:30:27",
@@ -667,6 +667,26 @@
     {
       "added_at": "2023-12-01 05:30:27",
       "album": {
+        "name": "Paradise Again",
+        "url": "https://open.spotify.com/album/2Dbe9L757CSQbhnbW5PVSH"
+      },
+      "artists": [
+        {
+          "name": "Swedish House Mafia",
+          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
+        },
+        {
+          "name": "Connie Constance",
+          "url": "https://open.spotify.com/artist/4RB2kk5dmocmMiHFBlmOEt"
+        }
+      ],
+      "duration_ms": 214071,
+      "name": "Heaven Takes You Home (feat. Connie Constance)",
+      "url": "https://open.spotify.com/track/3nEHrvNNtgLv9rneTAYVr4"
+    },
+    {
+      "added_at": "2023-12-01 05:30:27",
+      "album": {
         "name": "Disconnect",
         "url": "https://open.spotify.com/album/3H9K8wtrhvkSSqnkevhaHA"
       },
@@ -703,26 +723,6 @@
       "duration_ms": 255693,
       "name": "La Jumpa",
       "url": "https://open.spotify.com/track/5MxFWjuqQIsbNWbMdMdbli"
-    },
-    {
-      "added_at": "2023-12-01 05:30:27",
-      "album": {
-        "name": "Paradise Again",
-        "url": "https://open.spotify.com/album/2Dbe9L757CSQbhnbW5PVSH"
-      },
-      "artists": [
-        {
-          "name": "Swedish House Mafia",
-          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
-        },
-        {
-          "name": "Connie Constance",
-          "url": "https://open.spotify.com/artist/4RB2kk5dmocmMiHFBlmOEt"
-        }
-      ],
-      "duration_ms": 214071,
-      "name": "Heaven Takes You Home (feat. Connie Constance)",
-      "url": "https://open.spotify.com/track/3nEHrvNNtgLv9rneTAYVr4"
     },
     {
       "added_at": "2023-12-01 05:30:27",
@@ -955,26 +955,6 @@
     {
       "added_at": "2023-12-01 05:30:27",
       "album": {
-        "name": "DNA (Loving You) [feat. Hannah Boleyn]",
-        "url": "https://open.spotify.com/album/6chhPL4qq4x8IEkvEDTL3R"
-      },
-      "artists": [
-        {
-          "name": "Billy Gillies",
-          "url": "https://open.spotify.com/artist/0kmovylAP20DMJhS3BE2CO"
-        },
-        {
-          "name": "Hannah Boleyn",
-          "url": "https://open.spotify.com/artist/6EP96GaItADv1rNqR2oGIR"
-        }
-      ],
-      "duration_ms": 164919,
-      "name": "DNA (Loving You) [feat. Hannah Boleyn]",
-      "url": "https://open.spotify.com/track/6ibDVMcMUNqZ5eXT9sD4Vy"
-    },
-    {
-      "added_at": "2023-12-01 05:30:27",
-      "album": {
         "name": "Where You Are",
         "url": "https://open.spotify.com/album/4bIEy1wDeaEklS1BanbsmR"
       },
@@ -991,6 +971,26 @@
       "duration_ms": 236000,
       "name": "Where You Are",
       "url": "https://open.spotify.com/track/4qDpLaFGf5ampf2DXD2TMA"
+    },
+    {
+      "added_at": "2023-12-01 05:30:27",
+      "album": {
+        "name": "DNA (Loving You) [feat. Hannah Boleyn]",
+        "url": "https://open.spotify.com/album/6chhPL4qq4x8IEkvEDTL3R"
+      },
+      "artists": [
+        {
+          "name": "Billy Gillies",
+          "url": "https://open.spotify.com/artist/0kmovylAP20DMJhS3BE2CO"
+        },
+        {
+          "name": "Hannah Boleyn",
+          "url": "https://open.spotify.com/artist/6EP96GaItADv1rNqR2oGIR"
+        }
+      ],
+      "duration_ms": 164919,
+      "name": "DNA (Loving You) [feat. Hannah Boleyn]",
+      "url": "https://open.spotify.com/track/6ibDVMcMUNqZ5eXT9sD4Vy"
     },
     {
       "added_at": "2023-12-01 05:30:27",
@@ -1179,54 +1179,6 @@
     {
       "added_at": "2023-12-01 05:30:27",
       "album": {
-        "name": "Dientes",
-        "url": "https://open.spotify.com/album/6GkydlRWHz1bNVuVV9cD9O"
-      },
-      "artists": [
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        },
-        {
-          "name": "USHER",
-          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
-        },
-        {
-          "name": "DJ Khaled",
-          "url": "https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP"
-        }
-      ],
-      "duration_ms": 166426,
-      "name": "Dientes",
-      "url": "https://open.spotify.com/track/4vAMy0dxoyoIHGuIgKqcwm"
-    },
-    {
-      "added_at": "2023-12-01 05:30:27",
-      "album": {
-        "name": "Back To You",
-        "url": "https://open.spotify.com/album/1wntuGFGZSdkDL3pOTcdpr"
-      },
-      "artists": [
-        {
-          "name": "Lost Frequencies",
-          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
-        },
-        {
-          "name": "Elley Duh\u00e9",
-          "url": "https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K"
-        },
-        {
-          "name": "X Ambassadors",
-          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
-        }
-      ],
-      "duration_ms": 157252,
-      "name": "Back To You",
-      "url": "https://open.spotify.com/track/3K00Ib1shkOEiAXU5pec6e"
-    },
-    {
-      "added_at": "2023-12-01 05:30:27",
-      "album": {
         "name": "Heartbreak Anthem (with David Guetta & Little Mix)",
         "url": "https://open.spotify.com/album/6kBuGNoOGE7uiPhN82dcJ1"
       },
@@ -1251,6 +1203,30 @@
     {
       "added_at": "2023-12-01 05:30:27",
       "album": {
+        "name": "Dientes",
+        "url": "https://open.spotify.com/album/6GkydlRWHz1bNVuVV9cD9O"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "USHER",
+          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
+        },
+        {
+          "name": "DJ Khaled",
+          "url": "https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP"
+        }
+      ],
+      "duration_ms": 166426,
+      "name": "Dientes",
+      "url": "https://open.spotify.com/track/4vAMy0dxoyoIHGuIgKqcwm"
+    },
+    {
+      "added_at": "2023-12-01 05:30:27",
+      "album": {
         "name": "MONEY ON THE DASH",
         "url": "https://open.spotify.com/album/1nlaLDMPSzXL8G5LPBDhwd"
       },
@@ -1267,6 +1243,30 @@
       "duration_ms": 145666,
       "name": "MONEY ON THE DASH",
       "url": "https://open.spotify.com/track/1p0jBDjxORjYNJyAphBRpE"
+    },
+    {
+      "added_at": "2023-12-01 05:30:27",
+      "album": {
+        "name": "Back To You",
+        "url": "https://open.spotify.com/album/1wntuGFGZSdkDL3pOTcdpr"
+      },
+      "artists": [
+        {
+          "name": "Lost Frequencies",
+          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
+        },
+        {
+          "name": "Elley Duh\u00e9",
+          "url": "https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K"
+        },
+        {
+          "name": "X Ambassadors",
+          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
+        }
+      ],
+      "duration_ms": 157252,
+      "name": "Back To You",
+      "url": "https://open.spotify.com/track/3K00Ib1shkOEiAXU5pec6e"
     },
     {
       "added_at": "2023-12-01 05:30:27",
@@ -1354,6 +1354,10 @@
         {
           "name": "Boys Noize",
           "url": "https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv"
+        },
+        {
+          "name": "Opus III",
+          "url": "https://open.spotify.com/artist/1hQuWl1dueM7ChRUZRn05z"
         }
       ],
       "duration_ms": 193690,
@@ -1427,6 +1431,22 @@
     {
       "added_at": "2023-12-01 05:30:27",
       "album": {
+        "name": "Edge of Seventeen",
+        "url": "https://open.spotify.com/album/6oeEtPWpOfed7plMHI5qef"
+      },
+      "artists": [
+        {
+          "name": "Wuki",
+          "url": "https://open.spotify.com/artist/6Se1y4vDcu9fVHLqdj1N3q"
+        }
+      ],
+      "duration_ms": 164042,
+      "name": "Edge of Seventeen",
+      "url": "https://open.spotify.com/track/5IFSvSEeCAvvBEQ85poqKB"
+    },
+    {
+      "added_at": "2023-12-01 05:30:27",
+      "album": {
         "name": "Real Love",
         "url": "https://open.spotify.com/album/7jENFxE6ngcSKd9UqjEKxY"
       },
@@ -1443,22 +1463,6 @@
       "duration_ms": 163000,
       "name": "Real Love",
       "url": "https://open.spotify.com/track/6afdNrotJ1PCt9DoFiHpLj"
-    },
-    {
-      "added_at": "2023-12-01 05:30:27",
-      "album": {
-        "name": "Edge of Seventeen",
-        "url": "https://open.spotify.com/album/6oeEtPWpOfed7plMHI5qef"
-      },
-      "artists": [
-        {
-          "name": "Wuki",
-          "url": "https://open.spotify.com/artist/6Se1y4vDcu9fVHLqdj1N3q"
-        }
-      ],
-      "duration_ms": 164042,
-      "name": "Edge of Seventeen",
-      "url": "https://open.spotify.com/track/5IFSvSEeCAvvBEQ85poqKB"
     },
     {
       "added_at": "2023-12-01 05:30:27",
@@ -1531,6 +1535,22 @@
     {
       "added_at": "2023-12-01 05:30:27",
       "album": {
+        "name": "Heavy Metal Love",
+        "url": "https://open.spotify.com/album/2WTW41lq0cDQjdsXhRhyqH"
+      },
+      "artists": [
+        {
+          "name": "twocolors",
+          "url": "https://open.spotify.com/artist/7ACEUD7UsmmXrnj4OLt8f9"
+        }
+      ],
+      "duration_ms": 132000,
+      "name": "Heavy Metal Love",
+      "url": "https://open.spotify.com/track/07VcTAooOBP8hIluuUS5xr"
+    },
+    {
+      "added_at": "2023-12-01 05:30:27",
+      "album": {
         "name": "Don\u2019t Wake Me Up",
         "url": "https://open.spotify.com/album/6ydP9IJkzpippCnXf2bpNs"
       },
@@ -1547,22 +1567,6 @@
       "duration_ms": 188894,
       "name": "Don\u2019t Wake Me Up",
       "url": "https://open.spotify.com/track/3LEgGAl9zLcQWGTp7ptqtQ"
-    },
-    {
-      "added_at": "2023-12-01 05:30:27",
-      "album": {
-        "name": "Heavy Metal Love",
-        "url": "https://open.spotify.com/album/2WTW41lq0cDQjdsXhRhyqH"
-      },
-      "artists": [
-        {
-          "name": "twocolors",
-          "url": "https://open.spotify.com/artist/7ACEUD7UsmmXrnj4OLt8f9"
-        }
-      ],
-      "duration_ms": 132000,
-      "name": "Heavy Metal Love",
-      "url": "https://open.spotify.com/track/07VcTAooOBP8hIluuUS5xr"
     },
     {
       "added_at": "2023-12-01 05:30:27",
@@ -1647,26 +1651,6 @@
     {
       "added_at": "2023-12-01 05:30:27",
       "album": {
-        "name": "Tell It To My Heart",
-        "url": "https://open.spotify.com/album/27rVuwJ0g0eKRpnvEhQl3G"
-      },
-      "artists": [
-        {
-          "name": "MEDUZA",
-          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
-        },
-        {
-          "name": "Hozier",
-          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
-        }
-      ],
-      "duration_ms": 165524,
-      "name": "Tell It To My Heart",
-      "url": "https://open.spotify.com/track/46nvQpUDsxpS08UTFOeKTA"
-    },
-    {
-      "added_at": "2023-12-01 05:30:27",
-      "album": {
         "name": "Water",
         "url": "https://open.spotify.com/album/2GyIYK9C2K870xKjo5HI9D"
       },
@@ -1683,6 +1667,26 @@
       "duration_ms": 191733,
       "name": "Water",
       "url": "https://open.spotify.com/track/4Q2IUQo8YuoCqiRrDazKK4"
+    },
+    {
+      "added_at": "2023-12-01 05:30:27",
+      "album": {
+        "name": "Tell It To My Heart",
+        "url": "https://open.spotify.com/album/27rVuwJ0g0eKRpnvEhQl3G"
+      },
+      "artists": [
+        {
+          "name": "MEDUZA",
+          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
+        },
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "duration_ms": 165524,
+      "name": "Tell It To My Heart",
+      "url": "https://open.spotify.com/track/46nvQpUDsxpS08UTFOeKTA"
     },
     {
       "added_at": "2023-12-01 05:30:27",

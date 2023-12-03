@@ -1,12 +1,12 @@
 {
   "description": "When you're thinking of the one who gives you the butterflies. ",
-  "num_followers": 98570,
+  "num_followers": 98988,
   "original_name": "Crushing ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2YzVjNmUzMjAwYjhmYzA0MTE0NWU3Nzk4MDZmZmJiZGQ3ZWE2ZGZi",
+  "snapshot_id": "MCw5ODM4NmE4NmY1ODE2YzM0ODU5N2IwYzUzY2ZkYjdkZjNhZGUwNDE0",
   "tracks": [
     {
       "added_at": "2023-11-21 16:41:41",
@@ -447,22 +447,6 @@
     {
       "added_at": "2023-11-21 16:41:41",
       "album": {
-        "name": "Sixpence None the Richer",
-        "url": "https://open.spotify.com/album/0PrcwzkQVEy4y6JPvT5bix"
-      },
-      "artists": [
-        {
-          "name": "Sixpence None The Richer",
-          "url": "https://open.spotify.com/artist/0lJlKQvuM2Sd9DPPyUXcHg"
-        }
-      ],
-      "duration_ms": 208680,
-      "name": "Kiss Me",
-      "url": "https://open.spotify.com/track/754kgU5rWscRTfvlsuEwFp"
-    },
-    {
-      "added_at": "2023-11-21 16:41:41",
-      "album": {
         "name": "Being Funny In A Foreign Language",
         "url": "https://open.spotify.com/album/6dVCpQ7oGJD1oYs2fv1t5M"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 326490,
       "name": "About You",
       "url": "https://open.spotify.com/track/1fDFHXcykq4iw8Gg7s5hG9"
+    },
+    {
+      "added_at": "2023-11-21 16:41:41",
+      "album": {
+        "name": "Sixpence None the Richer",
+        "url": "https://open.spotify.com/album/0PrcwzkQVEy4y6JPvT5bix"
+      },
+      "artists": [
+        {
+          "name": "Sixpence None The Richer",
+          "url": "https://open.spotify.com/artist/0lJlKQvuM2Sd9DPPyUXcHg"
+        }
+      ],
+      "duration_ms": 208680,
+      "name": "Kiss Me",
+      "url": "https://open.spotify.com/track/754kgU5rWscRTfvlsuEwFp"
     },
     {
       "added_at": "2023-11-21 16:41:41",
@@ -627,18 +627,18 @@
     {
       "added_at": "2023-11-21 16:41:41",
       "album": {
-        "name": "Hell N Back",
-        "url": "https://open.spotify.com/album/3aEdbaJGWXbBxn79DgjamF"
+        "name": "Glue Song",
+        "url": "https://open.spotify.com/album/3KmSMUwyrakryureTNI4U8"
       },
       "artists": [
         {
-          "name": "Bakar",
-          "url": "https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H"
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
         }
       ],
-      "duration_ms": 213573,
-      "name": "Hell N Back",
-      "url": "https://open.spotify.com/track/3NRql0A1Ef4RCvT473iqgD"
+      "duration_ms": 135066,
+      "name": "Glue Song",
+      "url": "https://open.spotify.com/track/3iBgrkexCzVuPy4O9vx7Mf"
     },
     {
       "added_at": "2023-11-21 16:41:41",
@@ -659,18 +659,18 @@
     {
       "added_at": "2023-11-21 16:41:41",
       "album": {
-        "name": "Glue Song",
-        "url": "https://open.spotify.com/album/3KmSMUwyrakryureTNI4U8"
+        "name": "Hell N Back",
+        "url": "https://open.spotify.com/album/3aEdbaJGWXbBxn79DgjamF"
       },
       "artists": [
         {
-          "name": "beabadoobee",
-          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+          "name": "Bakar",
+          "url": "https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H"
         }
       ],
-      "duration_ms": 135066,
-      "name": "Glue Song",
-      "url": "https://open.spotify.com/track/3iBgrkexCzVuPy4O9vx7Mf"
+      "duration_ms": 213573,
+      "name": "Hell N Back",
+      "url": "https://open.spotify.com/track/3NRql0A1Ef4RCvT473iqgD"
     },
     {
       "added_at": "2023-11-21 16:41:41",
@@ -707,22 +707,6 @@
     {
       "added_at": "2023-11-21 16:41:41",
       "album": {
-        "name": "Honeymoon",
-        "url": "https://open.spotify.com/album/6QZyKchQivUBTSMcoBmlPa"
-      },
-      "artists": [
-        {
-          "name": "Beach Bunny",
-          "url": "https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H"
-        }
-      ],
-      "duration_ms": 147350,
-      "name": "Cloud 9",
-      "url": "https://open.spotify.com/track/6vFsBXYczYsP0H3lgunZOm"
-    },
-    {
-      "added_at": "2023-11-21 16:41:41",
-      "album": {
         "name": "Montgomery Ricky",
         "url": "https://open.spotify.com/album/25paSmOYSF03s81DCNqQn3"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 249586,
       "name": "Line Without a Hook",
       "url": "https://open.spotify.com/track/5NvOZCjZaGGGL597exlQWv"
+    },
+    {
+      "added_at": "2023-11-21 16:41:41",
+      "album": {
+        "name": "Honeymoon",
+        "url": "https://open.spotify.com/album/6QZyKchQivUBTSMcoBmlPa"
+      },
+      "artists": [
+        {
+          "name": "Beach Bunny",
+          "url": "https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H"
+        }
+      ],
+      "duration_ms": 147350,
+      "name": "Cloud 9",
+      "url": "https://open.spotify.com/track/6vFsBXYczYsP0H3lgunZOm"
     },
     {
       "added_at": "2023-11-21 16:41:41",
@@ -1115,6 +1115,22 @@
     {
       "added_at": "2023-11-21 16:41:41",
       "album": {
+        "name": "Up From Below - 10th Anniversary Edition",
+        "url": "https://open.spotify.com/album/2nqKKUI6G3YGYNyjqBxjmd"
+      },
+      "artists": [
+        {
+          "name": "Edward Sharpe & The Magnetic Zeros",
+          "url": "https://open.spotify.com/artist/7giUHu5pv6YTZgSkxxCcgh"
+        }
+      ],
+      "duration_ms": 306373,
+      "name": "Home (2019 Remaster)",
+      "url": "https://open.spotify.com/track/5uGXVcOINWmyUzpz0lKq7m"
+    },
+    {
+      "added_at": "2023-11-21 16:41:41",
+      "album": {
         "name": "Loving is Easy",
         "url": "https://open.spotify.com/album/3GgV5IZzgFljVfmxFeHsLY"
       },
@@ -1147,22 +1163,6 @@
       "duration_ms": 162560,
       "name": "Hey Lover!",
       "url": "https://open.spotify.com/track/7rC3P7tpWriaC4hYWKwGQd"
-    },
-    {
-      "added_at": "2023-11-21 16:41:41",
-      "album": {
-        "name": "Up From Below - 10th Anniversary Edition",
-        "url": "https://open.spotify.com/album/2nqKKUI6G3YGYNyjqBxjmd"
-      },
-      "artists": [
-        {
-          "name": "Edward Sharpe & The Magnetic Zeros",
-          "url": "https://open.spotify.com/artist/7giUHu5pv6YTZgSkxxCcgh"
-        }
-      ],
-      "duration_ms": 306373,
-      "name": "Home (2019 Remaster)",
-      "url": "https://open.spotify.com/track/5uGXVcOINWmyUzpz0lKq7m"
     },
     {
       "added_at": "2023-11-21 16:41:41",

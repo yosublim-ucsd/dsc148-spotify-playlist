@@ -1,12 +1,12 @@
 {
   "description": "Make it new. Fresh takes on vintage soul, folk, blues, and roots rock. Cover: Abraham Alexander",
-  "num_followers": 376833,
+  "num_followers": 376855,
   "original_name": "the new retro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MzYxNGYxYzQyMGNhYTYzMmMyZGE2NDViOWJlYjJiODExYTk3NTRj",
+  "snapshot_id": "MCxlYzUxOGY0NWUyMDk1YTBjMDhiYjQ3YmQyZGRkMmQ5MTA1N2Q3Mjg3",
   "tracks": [
     {
       "added_at": "2023-09-15 04:00:00",
@@ -939,22 +939,6 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "The Shelters",
-        "url": "https://open.spotify.com/album/451kD1EliOug21dypPYnMn"
-      },
-      "artists": [
-        {
-          "name": "The Shelters",
-          "url": "https://open.spotify.com/artist/7LrFQFaZaxfa9deqkjvc89"
-        }
-      ],
-      "duration_ms": 238924,
-      "name": "Rebel Heart",
-      "url": "https://open.spotify.com/track/3Pc4BTWoH6x0PmeGfQzn5a"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
         "name": "Midnight",
         "url": "https://open.spotify.com/album/6vH6hPl0Woh6Cp1EUbpYq7"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 195546,
       "name": "Empty Heart",
       "url": "https://open.spotify.com/track/2eP517crFrL5ggUAEoug16"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
+        "name": "The Shelters",
+        "url": "https://open.spotify.com/album/451kD1EliOug21dypPYnMn"
+      },
+      "artists": [
+        {
+          "name": "The Shelters",
+          "url": "https://open.spotify.com/artist/7LrFQFaZaxfa9deqkjvc89"
+        }
+      ],
+      "duration_ms": 238924,
+      "name": "Rebel Heart",
+      "url": "https://open.spotify.com/track/3Pc4BTWoH6x0PmeGfQzn5a"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "There's a Light",
-        "url": "https://open.spotify.com/album/7kOkk55lZ5AHyiv58OaCJ6"
-      },
-      "artists": [
-        {
-          "name": "Liz Vice",
-          "url": "https://open.spotify.com/artist/5KYcfVCcUgV4d1KP3Wozyx"
-        }
-      ],
-      "duration_ms": 277675,
-      "name": "Empty Me Out",
-      "url": "https://open.spotify.com/track/3xEx3xxA06MuO4SGZ4jrkV"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
         "name": "The Very Last Day",
         "url": "https://open.spotify.com/album/71K6pqQC9BGomxvPDQVM3T"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 180013,
       "name": "The Very Last Day",
       "url": "https://open.spotify.com/track/76Fc9ApTagfE0DFLFdnMj1"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
+        "name": "There's a Light",
+        "url": "https://open.spotify.com/album/7kOkk55lZ5AHyiv58OaCJ6"
+      },
+      "artists": [
+        {
+          "name": "Liz Vice",
+          "url": "https://open.spotify.com/artist/5KYcfVCcUgV4d1KP3Wozyx"
+        }
+      ],
+      "duration_ms": 277675,
+      "name": "Empty Me Out",
+      "url": "https://open.spotify.com/track/3xEx3xxA06MuO4SGZ4jrkV"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "First Time Feeling",
-        "url": "https://open.spotify.com/album/7lAuqI7aCLX66UAyT74Yuu"
-      },
-      "artists": [
-        {
-          "name": "Leah Blevins",
-          "url": "https://open.spotify.com/artist/1cpkiJukYGm0dr7Fm9HpNW"
-        }
-      ],
-      "duration_ms": 186016,
-      "name": "First Time Feeling",
-      "url": "https://open.spotify.com/track/4FBwo4kO38ZKBFF29U9GCJ"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
         "name": "Seventeen Acres",
         "url": "https://open.spotify.com/album/2gHqNCEbiiYGoE8WAEkFZf"
       },
@@ -1415,6 +1399,22 @@
       "duration_ms": 122750,
       "name": "Crazy Woman",
       "url": "https://open.spotify.com/track/5ke9Y5BL0wbGOg4pshd1B0"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
+        "name": "First Time Feeling",
+        "url": "https://open.spotify.com/album/7lAuqI7aCLX66UAyT74Yuu"
+      },
+      "artists": [
+        {
+          "name": "Leah Blevins",
+          "url": "https://open.spotify.com/artist/1cpkiJukYGm0dr7Fm9HpNW"
+        }
+      ],
+      "duration_ms": 186016,
+      "name": "First Time Feeling",
+      "url": "https://open.spotify.com/track/4FBwo4kO38ZKBFF29U9GCJ"
     },
     {
       "added_at": "2023-09-15 04:00:00",

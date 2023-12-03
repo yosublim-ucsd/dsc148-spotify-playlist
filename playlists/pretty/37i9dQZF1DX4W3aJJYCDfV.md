@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from Tyla \(pictured\), D\-Block Europe, Taylor Swift and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 843,829 likes - 124 songs - 6 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 843,899 likes - 124 songs - 6 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 42 | [Was I Ever Alone?](https://open.spotify.com/track/4BDQ6qmjENrdu4G18xfTuU) | [twst](https://open.spotify.com/artist/5zEQC9Hbg0Sql7lQB466xD) | [TWST0002 \(Off\-World\)](https://open.spotify.com/album/6OUbgFiB8b7YbFFE7AZFEh) | 3:50 |
 | 43 | [We Made It](https://open.spotify.com/track/5vuMXy5DUyOY5kOvaiOrN1) | [Maino](https://open.spotify.com/artist/20apXQGKM00jJTvYfyKwlb), [Giggs](https://open.spotify.com/artist/3S0tlB4fE7ChxI2pWz8Xip) | [We Made It](https://open.spotify.com/album/73ssqyLwb9cht2Y4GaOY11) | 3:06 |
 | 44 | [these things](https://open.spotify.com/track/4HcyFHDzaRMuQEufw2rtmj) | [kid apollo](https://open.spotify.com/artist/13aNIXsYtPJ8kUmv9VgU7u) | [these things / sylvie](https://open.spotify.com/album/2wnbPWikMcWC2DinHY8Gfv) | 2:46 |
-| 45 | [Relapse](https://open.spotify.com/track/75djESsa5AqCcroqOkkxsv) | [Skepsis](https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC) | [Relapse EP](https://open.spotify.com/album/3wIQC4FvRJKmrURVUwEVEV) | 4:23 |
+| 45 | [Relapse](https://open.spotify.com/track/75djESsa5AqCcroqOkkxsv) | [Skepsis](https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC) | [Relapse EP](https://open.spotify.com/album/3wIQC4FvRJKmrURVUwEVEV) | 4:28 |
 | 46 | [Send It To Oslo](https://open.spotify.com/track/5vVma4c4Yr5kBj9C3UtmU0) | [Sparky Deathcap](https://open.spotify.com/artist/2Ru6erK9heeCeWQDx0sDmR) | [Tear Jerky](https://open.spotify.com/album/1AfHTpAigqkGzSGwu9avlm) | 2:59 |
 | 47 | [Lo Que Queda de Mí](https://open.spotify.com/track/5ONDwiSzjziWVwmxRZCen6) | [iñigo quintero](https://open.spotify.com/artist/0jbo7KFNMiIkfBR6ih0yhm) | [Lo Que Queda de Mí](https://open.spotify.com/album/5gSUafhGxfjgna6Wr0fiVc) | 3:50 |
 | 48 | [Good to Know](https://open.spotify.com/track/0LWmdlIV12JSZ0ReoAlfSp) | [Sadie Jean](https://open.spotify.com/artist/0sMAHzxguan2KpnKFZPW2d) | [Simple Like 17](https://open.spotify.com/album/38mgE0EOY124eG4CqL32ii) | 2:42 |
@@ -120,7 +120,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 110 | [Bad Whine \- Edit](https://open.spotify.com/track/3fLXoRPwq0ULBdSbM3sWA4) | [Jaden Thompson](https://open.spotify.com/artist/0mdzsyApmam6OqNr4Z3vKQ) | [Bad Whine](https://open.spotify.com/album/3fEmPsSWohcjPXbBR5XElB) | 3:32 |
 | 111 | [Everything's Not Fine](https://open.spotify.com/track/6fvFzv3h94tKr9SWhR6SSh) | [PHIA](https://open.spotify.com/artist/6O6aPDrL58wZRzQ6Rqq9or) | [Everything's Not Fine](https://open.spotify.com/album/5tCSaDGt7dqIMBTuWCCx5P) | 2:59 |
 | 112 | [College Graduate](https://open.spotify.com/track/3ZIAQe0V8jARnSFfAKbmiT) | [Alex Gough](https://open.spotify.com/artist/1rNNeas60ogZm9uhv1VZOh) | [College Graduate](https://open.spotify.com/album/5unHbsZnESNFR2SVQiBJA0) | 2:23 |
-| 113 | [Nothing To Me Now](https://open.spotify.com/track/3oS6xLeEQ1sUcP3XPFcmnM) | [Ed Patrick](https://open.spotify.com/artist/3LE4OOntA2Yq3x1TTuQURx) | [Leaf EP](https://open.spotify.com/album/0y7jqqL7deEpW7PbKI4Ulg) | 2:25 |
+| 113 | [Nothing To Me Now](https://open.spotify.com/track/3oS6xLeEQ1sUcP3XPFcmnM) | [Ed Patrick](https://open.spotify.com/artist/3LE4OOntA2Yq3x1TTuQURx) | [Leaf](https://open.spotify.com/album/0y7jqqL7deEpW7PbKI4Ulg) | 2:25 |
 | 114 | [Hold On](https://open.spotify.com/track/52kR5ekGen49fmFxpF3xYu) | [Alika](https://open.spotify.com/artist/1U3n3wACHLjc8sS1obMEuf) | [Face Front](https://open.spotify.com/album/6Mx4DnKWUceoF7HMo00BHU) | 3:23 |
 | 115 | [Marcus Garvey](https://open.spotify.com/track/1X2jCOgXx6RaRRNOkooGBQ) | [GIDEÖN](https://open.spotify.com/artist/1iVCq3rhTkFD4gveUnY9a5) | [Marcus Garvey](https://open.spotify.com/album/0ZnDJb6GBi4KrCDF2908vD) | 5:01 |
 | 116 | [It's Not Like The Christmas Films](https://open.spotify.com/track/71OZ0HuvcoHKBqFoUvAkKh) | [Sunflower Thieves](https://open.spotify.com/artist/6UwPoe3ZqpC4OUuKgIinVW) | [It's Not Like The Christmas Films](https://open.spotify.com/album/3LjUiCmDdDIlkCMXg9q1MW) | 3:40 |
@@ -133,4 +133,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 123 | [jamcod](https://open.spotify.com/track/1DBRdzUgZrX7WBygQD2GhR) | [The Jesus and Mary Chain](https://open.spotify.com/artist/4rjlerN21ygkIhmUv55irs) | [jamcod](https://open.spotify.com/album/5vIGXSK8CJfU136cXYtziM) | 3:59 |
 | 124 | [Crazy Form](https://open.spotify.com/track/2KoeSRTm9cRulYnkaEyUaP) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [THE WORLD EP.FIN : WILL](https://open.spotify.com/album/1r0F1EzzNOaJyB7U0Jp5RH) | 3:18 |
 
-Snapshot ID: `MCw0N2JjZTFkNzViZjBmYjY2MWNhMTBjNTY3OGVjZWVlNGViZDY5YzQz`
+Snapshot ID: `MCwxNDRkOThmZDllMmM0M2U3OTk3NGU3ODA1MzM3ZWQ0YjU0ZmY4Y2Rj`

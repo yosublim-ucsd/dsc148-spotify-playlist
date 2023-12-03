@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSry5YU3YRoZ.md) - [plain]
 
 > 차분하고 감성적인 음악들과 함께 편안한 밤 되세요 :\) \(Listen to K\-Pop sleeping songs\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,460 likes - 50 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,475 likes - 50 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSry5YU3YRoZ.md) - [plain]
 | 5 | [Lullaby](https://open.spotify.com/track/6cmdeeOEeyZG9YaJ1WRhnJ) | [Jukjae](https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U) | [A Day](https://open.spotify.com/album/23anuZwn9s0ezFWgmywqL9) | 3:19 |
 | 6 | [Sweet Lullaby](https://open.spotify.com/track/1NHf1Nuumrgje7lmuM2QVY) | [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [Sweet Lullaby](https://open.spotify.com/album/65RzyhETVL6M4MmdMRcM5X) | 3:15 |
 | 7 | [Lullaby](https://open.spotify.com/track/7BUtoP9NXEe7MgWvIG2KGE) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [Love poem](https://open.spotify.com/album/2xEH7SRzJq7LgA0fCtTlxH) | 4:21 |
-| 8 | [내가 니편이 되어 줄게 I Will Be on Your Side](https://open.spotify.com/track/15EEempFA9NjYGXhjxs9H7) | [Coffeeboy](https://open.spotify.com/artist/5F0ZKImhec2HLnFQzsl1CM) | [세 번째 음악 로스팅 3rd Music Roasting](https://open.spotify.com/album/4mTjpPc2hkMI2cJ1dnMzle) | 5:57 |
-| 9 | [I don't know](https://open.spotify.com/track/1izlxYnH96m4nsGXiSUit6) | [deulrejang](https://open.spotify.com/artist/1jdSKlrCsJ5qLsT7YuOiwM) | [Hi, I am Deulre Jang](https://open.spotify.com/album/7kSPx9x0TpAhYrt3Tuomt9) | 4:08 |
+| 8 | [I don't know](https://open.spotify.com/track/1izlxYnH96m4nsGXiSUit6) | [deulrejang](https://open.spotify.com/artist/1jdSKlrCsJ5qLsT7YuOiwM) | [Hi, I am Deulre Jang](https://open.spotify.com/album/7kSPx9x0TpAhYrt3Tuomt9) | 4:08 |
+| 9 | [내가 니편이 되어 줄게 I Will Be on Your Side](https://open.spotify.com/track/15EEempFA9NjYGXhjxs9H7) | [Coffeeboy](https://open.spotify.com/artist/5F0ZKImhec2HLnFQzsl1CM) | [세 번째 음악 로스팅 3rd Music Roasting](https://open.spotify.com/album/4mTjpPc2hkMI2cJ1dnMzle) | 5:57 |
 | 10 | [Listen And Sleep](https://open.spotify.com/track/524zQBp9uyUs3e77GE5tZ8) | [J\_ust](https://open.spotify.com/artist/6Jj218qsLCZlYHwRGbXEGZ) | [Would You Sleep?](https://open.spotify.com/album/5onylFvAu8WKvHvPGC46lF) | 4:37 |
 | 11 | [Going Home](https://open.spotify.com/track/4tHETrzVBsR50PKRmw9yZA) | [Sunwoojunga](https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW) | [Call It Love, Part 3 \(Original Soundtrack from the Disney+ Original Series\)](https://open.spotify.com/album/6nymfoD8cwhnm1jMkuHvI2) | 4:57 |
 | 12 | [When love passes by](https://open.spotify.com/track/2e9GsDKqjTGRbv6lI3mK9E) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [A flower bookmark](https://open.spotify.com/album/460uGpon2JwPfRgDohV2bP) | 4:00 |
@@ -28,25 +28,25 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSry5YU3YRoZ.md) - [plain]
 | 18 | [Dreams in summer night](https://open.spotify.com/track/08IZihEWj0fhBgF19DeZBj) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [A flower bookmark](https://open.spotify.com/album/460uGpon2JwPfRgDohV2bP) | 3:57 |
 | 19 | [Goodbye](https://open.spotify.com/track/01xHwwkwASfIfuO7tzCwli) | [Kim MinSeok](https://open.spotify.com/artist/3CHn74oCO6xiThDGQcDMeA) | [Goodbye](https://open.spotify.com/album/2fIKo8rgZyUXBQswQdeHcK) | 4:14 |
 | 20 | [Lilac](https://open.spotify.com/track/7sUdQYehUxm6Wr8fE1UuFl) | [Mingginyu](https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd) | [Flowering](https://open.spotify.com/album/54hii26kTxdUy7SY9OfWrW) | 3:28 |
-| 21 | [I can't sleep](https://open.spotify.com/track/5ydSTEHJyPzk6NyJMqaIge) | [Nahee](https://open.spotify.com/artist/5uTRxWUE0w5hHOui1lbQjD) | [I can't sleep](https://open.spotify.com/album/3HjdDamqmT4w93YOYYZadJ) | 3:22 |
-| 22 | [대답 \(stripped\) Answer \(stripped\)](https://open.spotify.com/track/5IpxJA8Wz0lX58IP7pyVhI) | [Krr](https://open.spotify.com/artist/2wCEpu2tMAildqH0BrJNT7) | [대답 Answer \(stripped\)](https://open.spotify.com/album/7Cz6lmKK3rCibiIYLDHeke) | 3:02 |
+| 21 | [대답 \(stripped\) Answer \(stripped\)](https://open.spotify.com/track/5IpxJA8Wz0lX58IP7pyVhI) | [Krr](https://open.spotify.com/artist/2wCEpu2tMAildqH0BrJNT7) | [대답 Answer \(stripped\)](https://open.spotify.com/album/7Cz6lmKK3rCibiIYLDHeke) | 3:02 |
+| 22 | [I can't sleep](https://open.spotify.com/track/5ydSTEHJyPzk6NyJMqaIge) | [Nahee](https://open.spotify.com/artist/5uTRxWUE0w5hHOui1lbQjD) | [I can't sleep](https://open.spotify.com/album/3HjdDamqmT4w93YOYYZadJ) | 3:22 |
 | 23 | [입맞춤](https://open.spotify.com/track/34g679Tij4q8Cf6p0YGNXt) | [MeloMance](https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e) | [Sentimental](https://open.spotify.com/album/4xU2M05RpGxtCm7Db6qZy3) | 4:17 |
 | 24 | [a story to tell \(Original Ver.\)](https://open.spotify.com/track/7s1qstK42U47xyFOJHiqhH) | [Betty](https://open.spotify.com/artist/3BakCONT5qkN5wyybtOUhW) | [Beautiful GunbarI OST](https://open.spotify.com/album/6J9aBraciskBz10VIcOwo5) | 2:51 |
 | 25 | [편지 Letter](https://open.spotify.com/track/79OAaveywANnqqwzmBKo6f) | [WISUE](https://open.spotify.com/artist/6AtePm872YnH0PPQZpNFry) | [편지 Letter](https://open.spotify.com/album/352elMfFQTnoMOPYZxIuec) | 4:06 |
 | 26 | [Moon](https://open.spotify.com/track/3wQl1WeJe9dINbvvfexZhr) | [109](https://open.spotify.com/artist/1M2Yug6EvJTlraF6ewM9Oh) | [We need to meet now](https://open.spotify.com/album/6rQL9qDD47aKHZN392iww7) | 3:49 |
 | 27 | [Just the two of us](https://open.spotify.com/track/7sZUzmcbOwDq3ABOts0K37) | [DAVICHI](https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq) | [&10](https://open.spotify.com/album/1LO8EUUBv1ZdacxIx1KoWF) | 4:14 |
-| 28 | [For A Long Time \(with Jung Yubin\)](https://open.spotify.com/track/7wUq7l86ffQyMt1zs06338) | [saevom](https://open.spotify.com/artist/4GAVUIrGNz35VbCFfHTsca), [Jeong Yubin](https://open.spotify.com/artist/3hTlITCaMAJYlwQpcUv1hl) | [The End Of The Summer](https://open.spotify.com/album/3JEw0H8fWbGDGmgX0ddPpC) | 4:03 |
-| 29 | [Fine](https://open.spotify.com/track/4YNh8dtLsWVykAv0i2BG01) | [Darin](https://open.spotify.com/artist/3NeWfnkjhDK8umjBipcf5W) | [Fine](https://open.spotify.com/album/15aHvAj26u3yUPTPJHr8AL) | 4:11 |
+| 28 | [Fine](https://open.spotify.com/track/4YNh8dtLsWVykAv0i2BG01) | [Darin](https://open.spotify.com/artist/3NeWfnkjhDK8umjBipcf5W) | [Fine](https://open.spotify.com/album/15aHvAj26u3yUPTPJHr8AL) | 4:11 |
+| 29 | [For A Long Time \(with Jung Yubin\)](https://open.spotify.com/track/7wUq7l86ffQyMt1zs06338) | [saevom](https://open.spotify.com/artist/4GAVUIrGNz35VbCFfHTsca), [Jeong Yubin](https://open.spotify.com/artist/3hTlITCaMAJYlwQpcUv1hl) | [The End Of The Summer](https://open.spotify.com/album/3JEw0H8fWbGDGmgX0ddPpC) | 4:03 |
 | 30 | [두 사람 The Lover](https://open.spotify.com/track/5sBDtoaGEzE7rotVDcEFLq) | [OKDAL](https://open.spotify.com/artist/43qbEc59aqLydrvuWsrNoE) | [두 사람 The Lover](https://open.spotify.com/album/3UioVSNzdRV1lxbzkIb0Il) | 3:05 |
 | 31 | [여름밤](https://open.spotify.com/track/3D2XzN5RUtogeIw7f9fTCS) | [Herz Analog](https://open.spotify.com/artist/35qf2lYforklQasGTtc3Uw) | [어서오세요 여름밤](https://open.spotify.com/album/0GB6OFRgrSKlAXu8GcUbQx) | 4:19 |
 | 32 | [Choose You](https://open.spotify.com/track/6sTvm65LQPE0kjBVTVjVOm) | [Stella Jang](https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV) | [STELLA I](https://open.spotify.com/album/1TCX395u7CaSsCLtiwsMAN) | 4:05 |
 | 33 | [영원회귀 Eternal return](https://open.spotify.com/track/7yORm0vTVACc8r2K7Z0G6w) | [GYE0M](https://open.spotify.com/artist/2nFAl5FcbuagY1zVglLvPc) | [영원회귀 Eternal return](https://open.spotify.com/album/2Ja2kwTKcN1ANA6qk0TVbt) | 3:43 |
-| 34 | [Snowman](https://open.spotify.com/track/01niXSdE51tZcNUrpGEqjn) | [BEN](https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k) | [Lonely night](https://open.spotify.com/album/1PPYjHO08pHBbIKvWrx5jA) | 5:25 |
-| 35 | [Going home](https://open.spotify.com/track/6rnHkf4EUMA9HWWsHEuLYh) | [Lucia](https://open.spotify.com/artist/3VHFAtB6fPQwpAWQ5rn4uc) | [Beautiful Now \(Original Television Soundtrack\) Pt\. 8](https://open.spotify.com/album/47BJR3AeDuXKNUewXf1OAq) | 3:33 |
-| 36 | [But I'm Trying To Tell You How Much I Love You \(with Moonbit\)](https://open.spotify.com/track/3k8zcUpzJjDrJ5RC297q1w) | [saevom](https://open.spotify.com/artist/4GAVUIrGNz35VbCFfHTsca), [Moonbit](https://open.spotify.com/artist/5rwDc7dGKrtZg9TN1vsSPx) | [Remember](https://open.spotify.com/album/0TYEpVePmN48ssaj40OrMy) | 4:13 |
-| 37 | [Remind of You](https://open.spotify.com/track/3XP4CrI6jHlo2ZJ9Jpn4EX) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Offset](https://open.spotify.com/album/04TsF8IFb70DdBYDT8egvw) | 4:03 |
-| 38 | [Call me now](https://open.spotify.com/track/7AfXFqHlw1HVRPobCInpsU) | [JI JIN SEOK](https://open.spotify.com/artist/5iwc2ZJnuU9g4F6JaAY6Zw) | [Call me now](https://open.spotify.com/album/31a95WflUiSabbWq0RAchF) | 3:53 |
-| 39 | [밤, 결 \(stripped\) The Night Time \(stripped\)](https://open.spotify.com/track/0wIwa4JZbljozgeIEcSxsT) | [Krr](https://open.spotify.com/artist/2wCEpu2tMAildqH0BrJNT7) | [옷장 Closet](https://open.spotify.com/album/0pguC5BCed8NAbhtHXTSOB) | 3:22 |
+| 34 | [Going home](https://open.spotify.com/track/6rnHkf4EUMA9HWWsHEuLYh) | [Lucia](https://open.spotify.com/artist/3VHFAtB6fPQwpAWQ5rn4uc) | [Beautiful Now \(Original Television Soundtrack\) Pt\. 8](https://open.spotify.com/album/47BJR3AeDuXKNUewXf1OAq) | 3:33 |
+| 35 | [Snowman](https://open.spotify.com/track/01niXSdE51tZcNUrpGEqjn) | [BEN](https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k) | [Lonely night](https://open.spotify.com/album/1PPYjHO08pHBbIKvWrx5jA) | 5:25 |
+| 36 | [Remind of You](https://open.spotify.com/track/3XP4CrI6jHlo2ZJ9Jpn4EX) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Offset](https://open.spotify.com/album/04TsF8IFb70DdBYDT8egvw) | 4:03 |
+| 37 | [But I'm Trying To Tell You How Much I Love You \(with Moonbit\)](https://open.spotify.com/track/3k8zcUpzJjDrJ5RC297q1w) | [saevom](https://open.spotify.com/artist/4GAVUIrGNz35VbCFfHTsca), [Moonbit](https://open.spotify.com/artist/5rwDc7dGKrtZg9TN1vsSPx) | [Remember](https://open.spotify.com/album/0TYEpVePmN48ssaj40OrMy) | 4:13 |
+| 38 | [밤, 결 \(stripped\) The Night Time \(stripped\)](https://open.spotify.com/track/0wIwa4JZbljozgeIEcSxsT) | [Krr](https://open.spotify.com/artist/2wCEpu2tMAildqH0BrJNT7) | [옷장 Closet](https://open.spotify.com/album/0pguC5BCed8NAbhtHXTSOB) | 3:22 |
+| 39 | [Call me now](https://open.spotify.com/track/7AfXFqHlw1HVRPobCInpsU) | [JI JIN SEOK](https://open.spotify.com/artist/5iwc2ZJnuU9g4F6JaAY6Zw) | [Call me now](https://open.spotify.com/album/31a95WflUiSabbWq0RAchF) | 3:53 |
 | 40 | [dear heart](https://open.spotify.com/track/1l8m2AYyklcReKPLQcGH9d) | [Kim Hyunchang](https://open.spotify.com/artist/2IEHO7wbuUKxOVkMKaT5KB) | [Demo songs](https://open.spotify.com/album/6MnPLoqYKHzJuzoh2CIxxi) | 4:06 |
 | 41 | [Shadow](https://open.spotify.com/track/4eiB70BZrnHWf1YehBPjGg) | [Jo eunsae](https://open.spotify.com/artist/3uUEE8V8efV6AAD3F5oZtj) | [Shadow](https://open.spotify.com/album/3ilZqI8FLVaCnKtdjNB24q) | 3:27 |
 | 42 | [Glass](https://open.spotify.com/track/45xFvznhVt4u8RzHMhC8hc) | [MeloMance](https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e) | [Glass](https://open.spotify.com/album/4Ek9ovRZi20qAA9Y3M6BAn) | 4:15 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSry5YU3YRoZ.md) - [plain]
 | 49 | [Youth](https://open.spotify.com/track/7pdrLAo29KaqUTO3iD1O4z) | [Shin Ji Hoon](https://open.spotify.com/artist/0RpcAXbMHCcEEurjyHvuyg) | [youth](https://open.spotify.com/album/2qyRTNUHodWjs2FrP7tAYv) | 3:36 |
 | 50 | [버드나무 Willow Tree](https://open.spotify.com/track/0qS4pPDUt33BOb276wUT0H) | [Darin](https://open.spotify.com/artist/3NeWfnkjhDK8umjBipcf5W) | [버드나무 Willow Tree](https://open.spotify.com/album/3Yf5uL1IDlFL4Fghq5ypIV) | 4:39 |
 
-Snapshot ID: `MCwwYTliNzIzMjUxMzM5YjliZDgzOGU2NzQ3ODViMTRjMmNjMTMzZDkw`
+Snapshot ID: `MCw0ZDRlNGU2NTkzNmQxYmU4NTM2ODQ4MmJmYTkxMzZjYTM0ODRjM2Y1`

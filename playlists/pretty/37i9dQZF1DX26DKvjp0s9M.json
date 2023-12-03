@@ -1,12 +1,12 @@
 {
   "description": "The best of the best from oldies to new classics. Cover: Mac DeMarco",
-  "num_followers": 938452,
+  "num_followers": 938832,
   "original_name": "Essential Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NjMzYzc1ZjcxMWZmMTM2MWM3YzJiOWY0MDIxY2JhMzE2ZjA4ZmVk",
+  "snapshot_id": "MCw4MDU2NWIxMTU4NmZjMTBkZTIwM2NjYjkwMDM3MjYxYTI1YThlY2Uy",
   "tracks": [
     {
       "added_at": "2023-04-21 01:33:59",
@@ -379,18 +379,18 @@
     {
       "added_at": "2023-04-21 01:33:59",
       "album": {
-        "name": "Jealous",
-        "url": "https://open.spotify.com/album/4keJsdw9XhEvimhIgXmtO1"
+        "name": "five seconds flat",
+        "url": "https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD"
       },
       "artists": [
         {
-          "name": "Eyedress",
-          "url": "https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB"
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
         }
       ],
-      "duration_ms": 122338,
-      "name": "Jealous",
-      "url": "https://open.spotify.com/track/1aXV8GrmQLvgoFtBPERP7E"
+      "duration_ms": 182887,
+      "name": "ceilings",
+      "url": "https://open.spotify.com/track/2L9N0zZnd37dwF0clgxMGI"
     },
     {
       "added_at": "2023-11-09 23:57:06",
@@ -419,18 +419,18 @@
     {
       "added_at": "2023-04-21 01:33:59",
       "album": {
-        "name": "five seconds flat",
-        "url": "https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD"
+        "name": "Jealous",
+        "url": "https://open.spotify.com/album/4keJsdw9XhEvimhIgXmtO1"
       },
       "artists": [
         {
-          "name": "Lizzy McAlpine",
-          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+          "name": "Eyedress",
+          "url": "https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB"
         }
       ],
-      "duration_ms": 182887,
-      "name": "ceilings",
-      "url": "https://open.spotify.com/track/2L9N0zZnd37dwF0clgxMGI"
+      "duration_ms": 122338,
+      "name": "Jealous",
+      "url": "https://open.spotify.com/track/1aXV8GrmQLvgoFtBPERP7E"
     },
     {
       "added_at": "2023-04-21 01:33:59",
@@ -919,22 +919,6 @@
     {
       "added_at": "2023-04-21 01:33:59",
       "album": {
-        "name": "Hell N Back",
-        "url": "https://open.spotify.com/album/3aEdbaJGWXbBxn79DgjamF"
-      },
-      "artists": [
-        {
-          "name": "Bakar",
-          "url": "https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H"
-        }
-      ],
-      "duration_ms": 213573,
-      "name": "Hell N Back",
-      "url": "https://open.spotify.com/track/3NRql0A1Ef4RCvT473iqgD"
-    },
-    {
-      "added_at": "2023-04-21 01:33:59",
-      "album": {
         "name": "How to: Friend, Love, Freefall",
         "url": "https://open.spotify.com/album/7vXiklrUeffx5o2F8VYwm3"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 152293,
       "name": "It's Called: Freefall",
       "url": "https://open.spotify.com/track/474uVhyGgK5MtY9gMcDgGl"
+    },
+    {
+      "added_at": "2023-04-21 01:33:59",
+      "album": {
+        "name": "Hell N Back",
+        "url": "https://open.spotify.com/album/3aEdbaJGWXbBxn79DgjamF"
+      },
+      "artists": [
+        {
+          "name": "Bakar",
+          "url": "https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H"
+        }
+      ],
+      "duration_ms": 213573,
+      "name": "Hell N Back",
+      "url": "https://open.spotify.com/track/3NRql0A1Ef4RCvT473iqgD"
     },
     {
       "added_at": "2023-04-21 01:33:59",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2023-04-21 01:33:59",
       "album": {
-        "name": "BALLADS 1",
-        "url": "https://open.spotify.com/album/34GQP3dILpyCN018y2k61L"
-      },
-      "artists": [
-        {
-          "name": "Joji",
-          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
-        }
-      ],
-      "duration_ms": 174357,
-      "name": "YEAH RIGHT",
-      "url": "https://open.spotify.com/track/1VGzxJnVQND7Cg5H5wGj14"
-    },
-    {
-      "added_at": "2023-04-21 01:33:59",
-      "album": {
         "name": "Writer's Block",
         "url": "https://open.spotify.com/album/5g4E06cxsFEMFE9hSekAt2"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 276693,
       "name": "Young Folks",
       "url": "https://open.spotify.com/track/4dyx5SzxPPaD8xQIid5Wjj"
+    },
+    {
+      "added_at": "2023-04-21 01:33:59",
+      "album": {
+        "name": "BALLADS 1",
+        "url": "https://open.spotify.com/album/34GQP3dILpyCN018y2k61L"
+      },
+      "artists": [
+        {
+          "name": "Joji",
+          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
+        }
+      ],
+      "duration_ms": 174357,
+      "name": "YEAH RIGHT",
+      "url": "https://open.spotify.com/track/1VGzxJnVQND7Cg5H5wGj14"
     },
     {
       "added_at": "2023-04-21 01:33:59",
@@ -1327,6 +1327,22 @@
     {
       "added_at": "2023-04-21 01:33:59",
       "album": {
+        "name": "Real Love Baby",
+        "url": "https://open.spotify.com/album/75614DWrksimeV4oXUhaYP"
+      },
+      "artists": [
+        {
+          "name": "Father John Misty",
+          "url": "https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT"
+        }
+      ],
+      "duration_ms": 189293,
+      "name": "Real Love Baby",
+      "url": "https://open.spotify.com/track/0Z57YWES04xGh3AImDz6Qr"
+    },
+    {
+      "added_at": "2023-04-21 01:33:59",
+      "album": {
         "name": "Good News For People Who Love Bad News",
         "url": "https://open.spotify.com/album/0TGTGuc2vXv6ZECoAf52N0"
       },
@@ -1359,22 +1375,6 @@
       "duration_ms": 252811,
       "name": "Texas Sun",
       "url": "https://open.spotify.com/track/24ntSW3QVJzR79lHAAOTaY"
-    },
-    {
-      "added_at": "2023-04-21 01:33:59",
-      "album": {
-        "name": "Real Love Baby",
-        "url": "https://open.spotify.com/album/75614DWrksimeV4oXUhaYP"
-      },
-      "artists": [
-        {
-          "name": "Father John Misty",
-          "url": "https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT"
-        }
-      ],
-      "duration_ms": 189293,
-      "name": "Real Love Baby",
-      "url": "https://open.spotify.com/track/0Z57YWES04xGh3AImDz6Qr"
     },
     {
       "added_at": "2023-04-21 01:33:59",

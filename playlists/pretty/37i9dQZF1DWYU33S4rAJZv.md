@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYU33S4rAJZv.md) - [plain]
 
 > Warm and cozy Christmas Jazz to your hot cup of coffee.
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,340 likes - 108 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,659 likes - 108 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYU33S4rAJZv.md) - [plain]
 | 45 | [Go Tell It on the Mountain](https://open.spotify.com/track/7Ky59sXOqkMalt0P77XmBS) | [Paul Moretti Trio](https://open.spotify.com/artist/13xgTeeJ91pCS0JYRCL41b) | [Happy Christmas, Little Friend](https://open.spotify.com/album/66xxXSW7xjV4bLQwj3FXtF) | 4:45 |
 | 46 | [Sleigh Ride](https://open.spotify.com/track/1ba3RJ93r300sxl3BXUstM) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL), [Clayton\-Hamilton Jazz Orchestra](https://open.spotify.com/artist/3BDNDjVtAxrIqFDIO5cUgy) | [Christmas Songs](https://open.spotify.com/album/6jo4NImjVrEduySw2QJ2cO) | 3:26 |
 | 47 | [Oh what a merry christmas day](https://open.spotify.com/track/4lIPBRlA44zsLXpGzg3mS1) | [Red Brick Lane](https://open.spotify.com/artist/2zw8MpGMCASv0YfeAuUUzJ) | [Oh what a merry christmas day](https://open.spotify.com/album/68NZ8wGUvONWBNzaYoosN3) | 1:36 |
-| 48 | [Away in a Manger](https://open.spotify.com/track/3a4h07qqC9Sze6mO1PIy8A) | [Henrik Gunde](https://open.spotify.com/artist/5wV54RYtj1H3Jt5OVgjRHu), [Jesper Bodilsen](https://open.spotify.com/artist/1rWaPwUXLx3KlTmOcO66L2), [Morten Lund](https://open.spotify.com/artist/44ioweuAw5P80TwfcibcpP) | [Moods for Christmas](https://open.spotify.com/album/7tMX542vM15zwil5ox5K4q) | 4:13 |
+| 48 | [Away in a Manger](https://open.spotify.com/track/4tC5KnbzFQkCidMADdGwIX) | [Henrik Gunde](https://open.spotify.com/artist/5wV54RYtj1H3Jt5OVgjRHu), [Jesper Bodilsen](https://open.spotify.com/artist/1rWaPwUXLx3KlTmOcO66L2), [Morten Lund](https://open.spotify.com/artist/44ioweuAw5P80TwfcibcpP) | [Moods for Christmas](https://open.spotify.com/album/3fglg7fc84GufShnpi7Zcs) | 4:13 |
 | 49 | [Mary's Boy Child](https://open.spotify.com/track/3C9YQp0it2R4rV1lp7p1n9) | [Dem Jazzophiliacs](https://open.spotify.com/artist/5387bdIuCYIoe0VO52TfPe) | [Mary's Boychild](https://open.spotify.com/album/57BaLpqMTYqUkMUXbaUzNi) | 3:30 |
 | 50 | [That Holiday Feeling](https://open.spotify.com/track/1bKVlbJLBpyyXM5SwJovPW) | [Jane Monheit](https://open.spotify.com/artist/7rwI5cbw9cUKFVul2rZMiZ), [John Pizzarelli](https://open.spotify.com/artist/5Yc3oYPNlABAj17eZiNJqf) | [The Merriest](https://open.spotify.com/album/3VoVYgeYB0L3ZwYx0ox2UF) | 3:57 |
 | 51 | [Dear Mister Santa Claus](https://open.spotify.com/track/4DKezb77R3VcocSnYNmkHV) | [Hank Jones](https://open.spotify.com/artist/0BhFfJmScFj7OzqVaDqnSv) | [Here's Love](https://open.spotify.com/album/1ZdiCXkY42gbLVoap08HsZ) | 3:55 |
@@ -77,7 +77,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYU33S4rAJZv.md) - [plain]
 | 67 | [It's Christmas in New York](https://open.spotify.com/track/4kfVEaZGZL3AcrcAvsyYNf) | [Roddy Doyle Trio](https://open.spotify.com/artist/2NpfQuA1kHiGx9LHgDx4p3) | [It's Christmas in New York](https://open.spotify.com/album/2DmDhBWAZQXULbEPjCtUKI) | 4:43 |
 | 68 | [Jingle Bells](https://open.spotify.com/track/4ylXKnf5PQdCcOiXzKGysV) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL), [Clayton\-Hamilton Jazz Orchestra](https://open.spotify.com/artist/3BDNDjVtAxrIqFDIO5cUgy) | [Christmas Songs](https://open.spotify.com/album/6jo4NImjVrEduySw2QJ2cO) | 3:25 |
 | 69 | [Christmas Children](https://open.spotify.com/track/04StngW1Y0GV26sKl59WiW) | [Kurt Elling](https://open.spotify.com/artist/1UhC1mCcd9SFXLibHhMX61) | [The Beautiful Day](https://open.spotify.com/album/3kGxAL9kbsUAkqY9S9mRzI) | 4:32 |
-| 70 | [Let It Snow](https://open.spotify.com/track/7JW12NOgyjulvjyArdl7mt) | [Walt Weiskopf](https://open.spotify.com/artist/0tdWD3Wpf0kyUYI6zeT1w3) | [Let It Snow](https://open.spotify.com/album/3ABZH0SW7agqCG2Jb72Gjk) | 3:30 |
+| 70 | [Let It Snow](https://open.spotify.com/track/5SDjkkDQNLMdfE4NzLfwfM) | [Walt Weiskopf](https://open.spotify.com/artist/0tdWD3Wpf0kyUYI6zeT1w3) | [European Quartet: A Little Christmas Music](https://open.spotify.com/album/4pXCSK1kVmRuvScTZ5q9mn) | 3:30 |
 | 71 | [Merry Christmas, Baby](https://open.spotify.com/track/4GHG80QW7qKZZTjfMw1QTy) | [Charles Brown](https://open.spotify.com/artist/3trsSEaKM3UM2R9RBJwdtJ) | [The Best Of Charles Brown: Driftin' Blues](https://open.spotify.com/album/4QvCL6tF7xQAlSrRFohnZp) | 2:53 |
 | 72 | [Under My Christmas Tree](https://open.spotify.com/track/4tKd4QHmVtC0EB4FvVCWyf) | [Carlton Maison Quartet](https://open.spotify.com/artist/0Tq1tUZV3Vw3CUvNwIjxpm) | [Under My Christmas Tree](https://open.spotify.com/album/3486nX6gEewOk56YcHVrxA) | 3:06 |
 | 73 | [Silver Bells](https://open.spotify.com/track/4QX5pZQpQTgVlkqfUTDim0) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [The Dean Martin Christmas Album](https://open.spotify.com/album/4Kd6niUoyuNkcLRVmThm0H) | 2:22 |
@@ -117,4 +117,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYU33S4rAJZv.md) - [plain]
 | 107 | [Jolly Holiday](https://open.spotify.com/track/1nNmGXc4dcQHvteyiwjWv9) | [More than Jazz](https://open.spotify.com/artist/6BLANsh44CPzD19TF0X0Et) | [Jolly Holiday](https://open.spotify.com/album/6Bq0rkBNkUOFwGwMCPFHuN) | 3:18 |
 | 108 | [Here We Come A\-Caroling](https://open.spotify.com/track/6dAElJFsKJmqRrqaHYoJfg) | [Goblin Quartet](https://open.spotify.com/artist/0ceEvbf4gmN9my4kriQVfm) | [Here We Come A\-Caroling](https://open.spotify.com/album/3egzz4FGBjVceoI4hO89BI) | 2:23 |
 
-Snapshot ID: `MCw0ZWQ0ZmNlMzA4YTc5ZTFiYWQ5ZDY1ZjAxNjdiYjIwZDViYjkzMWFm`
+Snapshot ID: `MCw5YTJjZWE3ODU5ZDA2YTUzOTBmNTE5ODQxN2RjMWRjMDFhMmUzM2Fk`

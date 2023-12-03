@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPYCwLnB6q1.md) - [plain]
 
 > These are the songs that shape <a href="https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy?si=ead57c8c75c94c3a">PVRIS'</a> alternative spirit\. Check out the latest COUNTER//CULTURE mixtape <a href="https://open.spotify.com/playlist/37i9dQZF1DX9n1dvGkpvfI"> here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,931 likes - 31 songs - 1 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,962 likes - 31 songs - 1 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,6 +38,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPYCwLnB6q1.md) - [plain]
 | 28 | [Like A Knife](https://open.spotify.com/track/3KtIEskaAF8eojLEoy9SgN) | [Jessica Winter](https://open.spotify.com/artist/0gCYUYF1zfqZk5pG0e2ojy) | [More Sad Music](https://open.spotify.com/album/4rBkmbNkDyYQYxjcPxJeTU) | 3:00 |
 | 29 | [Shinigami Eyes](https://open.spotify.com/track/0YQEWdfq3ajtNtK106Dr0k) | [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Shinigami Eyes](https://open.spotify.com/album/4wsyyLWO72hZ39U6hrl31A) | 2:39 |
 | 30 | [Comme Des Garçons \(Like The Boys\)](https://open.spotify.com/track/43bYs8QkPdCdy5esfnmU1T) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [SAWAYAMA](https://open.spotify.com/album/3stadz88XVpHcXnVYMHc4J) | 3:01 |
-| 31 | [GODDESS](https://open.spotify.com/track/2Yyf3awGJQnm70qSVoA9In) | [PVRIS](https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy) | [GODDESS](https://open.spotify.com/album/33oQ9C3SzYpP9d21X3BAkl) | 2:32 |
+| 31 | [GODDESS](https://open.spotify.com/track/1ZngTOTM9nWJZOnG3vWkUF) | [PVRIS](https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy) | [EVERGREEN](https://open.spotify.com/album/4CLLPZzm1QDzUZ8FTkNPyy) | 2:32 |
 
-Snapshot ID: `MCwwMTQ0NGJlZjkyOTE1ZmRmMWUxNDFjODVmYmExZTIyOWI1YzE5MmEy`
+Snapshot ID: `MCxiZDQ1YzQ3NWY0NjY5ZmYwMzgxMGMwYzdhMjE5ZDI2OWMyY2VjNjBm`

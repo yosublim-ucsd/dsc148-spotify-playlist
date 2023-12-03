@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTVE8ZCcLQ5Q.md) - [plain]
 
 > Descubra Abbot e novos talentos brasileiros no horizonte.
 
-[Spotify](https://open.spotify.com/user/spotify) - 419,259 likes - 75 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 419,232 likes - 75 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,11 +49,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTVE8ZCcLQ5Q.md) - [plain]
 | 39 | [Baby Hair](https://open.spotify.com/track/6tgveJsfKptFd0mvJG9Iv6) | [Pretta Poder](https://open.spotify.com/artist/6CEm11gYIUP8EeirFIXAYt), [Chris Beats Zn](https://open.spotify.com/artist/0YOr5sV4zMMyj5xviWiFjW), [SoudCrime](https://open.spotify.com/artist/0Huu7Wxkay3mCaoMuVkRNg) | [Baby Hair](https://open.spotify.com/album/6Hk41Rh3IMBcdhOwneSaQo) | 2:33 |
 | 40 | [Ceder](https://open.spotify.com/track/6kTqxXfCTgWMWWrMlpBGFm) | [Melly](https://open.spotify.com/artist/7a7n9ka0Mnevq19mOU8tcW), [Hiran](https://open.spotify.com/artist/590jgrhOiQjSIASrY4mwPW) | [Ceder](https://open.spotify.com/album/2U7SgeSUNChbpRuNzng2OS) | 3:17 |
 | 41 | [bonita e miserável](https://open.spotify.com/track/1ePCG4jmr5NWT84Pw678kZ) | [Clarissa](https://open.spotify.com/artist/0DLHvj99Ne31Ockr6koARK) | [bonita e miserável](https://open.spotify.com/album/2uF3enSQoCCusAYTAiIWhK) | 2:51 |
-| 42 | [Eu Te Dei, Amor](https://open.spotify.com/track/295aNQC63tnXBPFfohPcqO) | [Duquesa](https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx), [Go Dassisti](https://open.spotify.com/artist/6dHnnLJitCxdFTt9QmSQ8G) | [Eu Te Dei, Amor](https://open.spotify.com/album/3YYgYJsqWixI7kvzG0xVjY) | 2:11 |
-| 43 | [Aquecimento](https://open.spotify.com/track/50xFtTjve71h0UwBRM5aWW) | [SHURY](https://open.spotify.com/artist/7luJJRhYeoWYyJ6GALZvjM), [LARINHX](https://open.spotify.com/artist/00kQ5yo7yxd5KC1ihuH77i) | [Aquecimento](https://open.spotify.com/album/7D9ko1HfH2A1tTOA8UYyaw) | 2:03 |
-| 44 | [Me liga](https://open.spotify.com/track/4ia06gVwN3wMDpZXRMFcX6) | [Big Bllakk](https://open.spotify.com/artist/2676LWh4GgqdAaYkRpqTcd), [Pedro Apoema](https://open.spotify.com/artist/1eJwhQn6j41JvgXfWeh2g0), [Erick Di](https://open.spotify.com/artist/6ITlDmLtSRT8f36NVQQENS) | [Me liga](https://open.spotify.com/album/3VeZjOr9TbplcmNHzZ9xG7) | 2:30 |
-| 45 | [Favelinha](https://open.spotify.com/track/3qjjTCINpvCRG22lFWUeod) | [Jovem MK](https://open.spotify.com/artist/01APkKC04vJYFKyYVxSZWR), [Mu540](https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU) | [Favelinha](https://open.spotify.com/album/46iB1eRPEXsHE2IqPr1qHd) | 1:42 |
-| 46 | [O Justo Não Treme](https://open.spotify.com/track/449BJmYTFxZiF3hIyRrrOw) | [Veigh](https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse), [Nagalli](https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk), [Supernova Ent](https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw) | [O Justo Não Treme](https://open.spotify.com/album/1pm3hj3qfoAE19oN5paIec) | 2:49 |
+| 42 | [O Justo Não Treme](https://open.spotify.com/track/449BJmYTFxZiF3hIyRrrOw) | [Veigh](https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse), [Nagalli](https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk), [Supernova Ent](https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw) | [O Justo Não Treme](https://open.spotify.com/album/1pm3hj3qfoAE19oN5paIec) | 2:49 |
+| 43 | [Eu Te Dei, Amor](https://open.spotify.com/track/295aNQC63tnXBPFfohPcqO) | [Duquesa](https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx), [Go Dassisti](https://open.spotify.com/artist/6dHnnLJitCxdFTt9QmSQ8G) | [Eu Te Dei, Amor](https://open.spotify.com/album/3YYgYJsqWixI7kvzG0xVjY) | 2:11 |
+| 44 | [Aquecimento](https://open.spotify.com/track/50xFtTjve71h0UwBRM5aWW) | [SHURY](https://open.spotify.com/artist/7luJJRhYeoWYyJ6GALZvjM), [LARINHX](https://open.spotify.com/artist/00kQ5yo7yxd5KC1ihuH77i) | [Aquecimento](https://open.spotify.com/album/7D9ko1HfH2A1tTOA8UYyaw) | 2:03 |
+| 45 | [Me liga](https://open.spotify.com/track/4ia06gVwN3wMDpZXRMFcX6) | [Big Bllakk](https://open.spotify.com/artist/2676LWh4GgqdAaYkRpqTcd), [Pedro Apoema](https://open.spotify.com/artist/1eJwhQn6j41JvgXfWeh2g0), [Erick Di](https://open.spotify.com/artist/6ITlDmLtSRT8f36NVQQENS) | [Me liga](https://open.spotify.com/album/3VeZjOr9TbplcmNHzZ9xG7) | 2:30 |
+| 46 | [Favelinha](https://open.spotify.com/track/3qjjTCINpvCRG22lFWUeod) | [Jovem MK](https://open.spotify.com/artist/01APkKC04vJYFKyYVxSZWR), [Mu540](https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU) | [Favelinha](https://open.spotify.com/album/46iB1eRPEXsHE2IqPr1qHd) | 1:42 |
 | 47 | [Deixar na B](https://open.spotify.com/track/3KYHgasdHqKROkh17t1LT9) | [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6) | [Deixar na B](https://open.spotify.com/album/4INsklfCI6hFcmWBc2MkF3) | 2:09 |
 | 48 | [Daqui de Cima](https://open.spotify.com/track/717tAnbqbE7NMGDVOFdwww) | [Arthurzim](https://open.spotify.com/artist/60chcKrdgEA7TZbi4fWVri) | [Do Alto da Laje](https://open.spotify.com/album/62hm4EluZad8WpNZZPdR0H) | 2:39 |
 | 49 | [Phone](https://open.spotify.com/track/4MLf65UBiNnLtqBhlliNyM) | [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF) | [Phone](https://open.spotify.com/album/2bPSxJj209g3KOyyA44RPL) | 2:46 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTVE8ZCcLQ5Q.md) - [plain]
 | 74 | [Se Fecha](https://open.spotify.com/track/5iinZw7x6qOVf48tgBGpI5) | [Hate Rct](https://open.spotify.com/artist/0g36YnLj0KIFfgJhTeM9d7), [Noze](https://open.spotify.com/artist/0D7VE7FoqaknItgitI6Ojc), [OG L](https://open.spotify.com/artist/6usXKXCK5gkyeZ18o3Fmg6) | [Se Fecha](https://open.spotify.com/album/0mt6v6UL8sTN16kwK4sWHB) | 2:17 |
 | 75 | [Vivara](https://open.spotify.com/track/6v8l1VlZloOoR83tK8OWKK) | [Mc Jean](https://open.spotify.com/artist/7iT64TaHLjA4wDm53frq3B), [Campanha MC](https://open.spotify.com/artist/73afrwTwaERzC4iChaDgaY), [MC Murilo MT](https://open.spotify.com/artist/0KelBuBLAY4mPbrEdNtzlP) | [Vivara](https://open.spotify.com/album/3BIAmUy9t19xvRg9dQGXDk) | 4:16 |
 
-Snapshot ID: `MCw0NDZjZDMxMGZkNTZlNzMxZWFlYmY4MWU3OTRjNWVkNjY2MmUyMTY4`
+Snapshot ID: `MCw3NzllZGFlODgwNjA1ZDM0MzkwNDc3YWU5NjljY2Q5ZWRmOGQ4ZDQ0`

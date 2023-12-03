@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Hasta las 15! Monster merengue hits! Cover: Olga Ta\u00f1\u00f3n",
-  "num_followers": 386664,
+  "num_followers": 386707,
   "original_name": "Merengue Mania",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNjA5NTUxNGYxODU0NjVlZWFmNjAwNjdhYmIxYjJiNGM0ZWJiYmJk",
+  "snapshot_id": "MCxjODRhY2I0NTM2N2MxNzBlNDhlM2Y3ZDMyZTI0NGUzMWZhMjZkZjhl",
   "tracks": [
     {
       "added_at": "2023-11-17 05:00:00",
@@ -631,30 +631,6 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "No Es Normal",
-        "url": "https://open.spotify.com/album/3fW9ft7QAV7Wc8uofcU163"
-      },
-      "artists": [
-        {
-          "name": "Venesti",
-          "url": "https://open.spotify.com/artist/50oHbeWPotfWlzdi4bojSU"
-        },
-        {
-          "name": "Nacho",
-          "url": "https://open.spotify.com/artist/2ayNSoKPCRAfjp6hQ76hRu"
-        },
-        {
-          "name": "Maffio",
-          "url": "https://open.spotify.com/artist/5RzT7CM6Ot0sh0EHefMicV"
-        }
-      ],
-      "duration_ms": 181894,
-      "name": "No Es Normal",
-      "url": "https://open.spotify.com/track/2Z4X8Y8Iedaf14Cgs0Dnri"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
         "name": "Mucho Flow",
         "url": "https://open.spotify.com/album/4PcgDgI57IETJimbIVnESV"
       },
@@ -683,6 +659,30 @@
       "duration_ms": 306442,
       "name": "La Quiero a Morir",
       "url": "https://open.spotify.com/track/66cquyyzQVJr3XFTokrHxl"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "No Es Normal",
+        "url": "https://open.spotify.com/album/3fW9ft7QAV7Wc8uofcU163"
+      },
+      "artists": [
+        {
+          "name": "Venesti",
+          "url": "https://open.spotify.com/artist/50oHbeWPotfWlzdi4bojSU"
+        },
+        {
+          "name": "Nacho",
+          "url": "https://open.spotify.com/artist/2ayNSoKPCRAfjp6hQ76hRu"
+        },
+        {
+          "name": "Maffio",
+          "url": "https://open.spotify.com/artist/5RzT7CM6Ot0sh0EHefMicV"
+        }
+      ],
+      "duration_ms": 181894,
+      "name": "No Es Normal",
+      "url": "https://open.spotify.com/track/2Z4X8Y8Iedaf14Cgs0Dnri"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -787,22 +787,6 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "10 De Colecci\u00f3n",
-        "url": "https://open.spotify.com/album/4se9bp1pffpDBHyzFWD4YV"
-      },
-      "artists": [
-        {
-          "name": "Johnny Ventura",
-          "url": "https://open.spotify.com/artist/7fvEDuYk5vkKKZGpv6Knus"
-        }
-      ],
-      "duration_ms": 275186,
-      "name": "Patac\u00f3n Pisao",
-      "url": "https://open.spotify.com/track/7J3rDUSA4vDHaqHPblboTU"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
         "name": "Vete y Dile",
         "url": "https://open.spotify.com/album/3bLNzJGuGCJCPnJw4lqwTn"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 271226,
       "name": "Anoche Hablamos de Amor",
       "url": "https://open.spotify.com/track/0ElCcbF18PWFCLzMwIJU9m"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "10 De Colecci\u00f3n",
+        "url": "https://open.spotify.com/album/4se9bp1pffpDBHyzFWD4YV"
+      },
+      "artists": [
+        {
+          "name": "Johnny Ventura",
+          "url": "https://open.spotify.com/artist/7fvEDuYk5vkKKZGpv6Knus"
+        }
+      ],
+      "duration_ms": 275186,
+      "name": "Patac\u00f3n Pisao",
+      "url": "https://open.spotify.com/track/7J3rDUSA4vDHaqHPblboTU"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -851,18 +851,18 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "Lo Mejor De...To\u00f1o Rosario",
-        "url": "https://open.spotify.com/album/475agtJk3uN4dSg38QKx5t"
+        "name": "Serie 2000",
+        "url": "https://open.spotify.com/album/7DZr03Gh34452PtpkVRc5m"
       },
       "artists": [
         {
-          "name": "To\u00f1o Rosario",
-          "url": "https://open.spotify.com/artist/4DjY0CaKAejJgghVHTaOUy"
+          "name": "Wilfrido Vargas",
+          "url": "https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4"
         }
       ],
-      "duration_ms": 400266,
-      "name": "Kiliki Taka Ti",
-      "url": "https://open.spotify.com/track/7zSuMBPE82UBr6eNpJEzSd"
+      "duration_ms": 251733,
+      "name": "El Africano",
+      "url": "https://open.spotify.com/track/04bMI6KabOuaqBBgBvaa32"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -883,18 +883,18 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "Serie 2000",
-        "url": "https://open.spotify.com/album/7DZr03Gh34452PtpkVRc5m"
+        "name": "Lo Mejor De...To\u00f1o Rosario",
+        "url": "https://open.spotify.com/album/475agtJk3uN4dSg38QKx5t"
       },
       "artists": [
         {
-          "name": "Wilfrido Vargas",
-          "url": "https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4"
+          "name": "To\u00f1o Rosario",
+          "url": "https://open.spotify.com/artist/4DjY0CaKAejJgghVHTaOUy"
         }
       ],
-      "duration_ms": 251733,
-      "name": "El Africano",
-      "url": "https://open.spotify.com/track/04bMI6KabOuaqBBgBvaa32"
+      "duration_ms": 400266,
+      "name": "Kiliki Taka Ti",
+      "url": "https://open.spotify.com/track/7zSuMBPE82UBr6eNpJEzSd"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -967,6 +967,22 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
+        "name": "100% Merengue",
+        "url": "https://open.spotify.com/album/341ZS1EddJkPqUYVa8mBoI"
+      },
+      "artists": [
+        {
+          "name": "Olga Ta\u00f1\u00f3n",
+          "url": "https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE"
+        }
+      ],
+      "duration_ms": 242973,
+      "name": "Es Mentiroso",
+      "url": "https://open.spotify.com/track/31usVfDz8LKV0J0iZtgsA7"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
         "name": "JotaB\u00e9",
         "url": "https://open.spotify.com/album/037Atxwv4mxxFRXM4564RS"
       },
@@ -983,22 +999,6 @@
       "duration_ms": 167722,
       "name": "JotaB\u00e9",
       "url": "https://open.spotify.com/track/3CrTrdgbJQl6NWUBTsLyYd"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
-        "name": "100% Merengue",
-        "url": "https://open.spotify.com/album/341ZS1EddJkPqUYVa8mBoI"
-      },
-      "artists": [
-        {
-          "name": "Olga Ta\u00f1\u00f3n",
-          "url": "https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE"
-        }
-      ],
-      "duration_ms": 242973,
-      "name": "Es Mentiroso",
-      "url": "https://open.spotify.com/track/31usVfDz8LKV0J0iZtgsA7"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -1111,6 +1111,22 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
+        "name": "La Vida Da Vuelta",
+        "url": "https://open.spotify.com/album/1U5Ulw5MM2Qv5BafWrF4h1"
+      },
+      "artists": [
+        {
+          "name": "Olga Ta\u00f1\u00f3n",
+          "url": "https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE"
+        }
+      ],
+      "duration_ms": 162882,
+      "name": "La Vida Da Vuelta",
+      "url": "https://open.spotify.com/track/2sJkbRybtcw6nq9sN4fpad"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
         "name": "\u00c1mame",
         "url": "https://open.spotify.com/album/597baQKoB3ONSe3Q5Q89DK"
       },
@@ -1127,22 +1143,6 @@
       "duration_ms": 228332,
       "name": "\u00c1mame",
       "url": "https://open.spotify.com/track/0Tj0Kg5cMVV1XiPeb8khrv"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
-        "name": "La Vida Da Vuelta",
-        "url": "https://open.spotify.com/album/1U5Ulw5MM2Qv5BafWrF4h1"
-      },
-      "artists": [
-        {
-          "name": "Olga Ta\u00f1\u00f3n",
-          "url": "https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE"
-        }
-      ],
-      "duration_ms": 162882,
-      "name": "La Vida Da Vuelta",
-      "url": "https://open.spotify.com/track/2sJkbRybtcw6nq9sN4fpad"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "Tus Mentiras",
-        "url": "https://open.spotify.com/album/6NRvNitD7WdrrbxsVZ0MFZ"
-      },
-      "artists": [
-        {
-          "name": "Joey Montana",
-          "url": "https://open.spotify.com/artist/3ATyg4fGC9F8trfb0GRWmX"
-        }
-      ],
-      "duration_ms": 163349,
-      "name": "Tus Mentiras",
-      "url": "https://open.spotify.com/track/2g9FBhKSP6mM0WYaButfgA"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
         "name": "Borracho Me Doli\u00f3",
         "url": "https://open.spotify.com/album/6AE77a72SdgWl4W55LcSny"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 188160,
       "name": "Borracho Me Doli\u00f3",
       "url": "https://open.spotify.com/track/2z6vCpMGkY9vmJqMCsbrnj"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "Tus Mentiras",
+        "url": "https://open.spotify.com/album/6NRvNitD7WdrrbxsVZ0MFZ"
+      },
+      "artists": [
+        {
+          "name": "Joey Montana",
+          "url": "https://open.spotify.com/artist/3ATyg4fGC9F8trfb0GRWmX"
+        }
+      ],
+      "duration_ms": 163349,
+      "name": "Tus Mentiras",
+      "url": "https://open.spotify.com/track/2g9FBhKSP6mM0WYaButfgA"
     },
     {
       "added_at": "2023-11-17 05:00:00",

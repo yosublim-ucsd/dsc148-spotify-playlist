@@ -1,12 +1,12 @@
 {
   "description": "A mixtape for the perfect anime fight scene.",
-  "num_followers": 845420,
+  "num_followers": 847091,
   "original_name": "sh\u014dnen",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMDJmZjFmMWNmNDJmYTUwZjgyYmQ0NjBlMzk1MDhkYjQ4ZWMwZTJl",
+  "snapshot_id": "MCw3ZDE5YzU4OGNhZmZkZWRhNzhmOGYzNDI5YTQ1MmUyOWVlODhhNDYz",
   "tracks": [
     {
       "added_at": "2023-11-30 21:49:16",
@@ -143,22 +143,6 @@
     {
       "added_at": "2023-09-26 20:58:57",
       "album": {
-        "name": "paranoia",
-        "url": "https://open.spotify.com/album/6jS7gC4DBGC5GLA99RFwEx"
-      },
-      "artists": [
-        {
-          "name": "KENTENSHI",
-          "url": "https://open.spotify.com/artist/7Ad37JjLQE0Gjd9YuGHj3j"
-        }
-      ],
-      "duration_ms": 117408,
-      "name": "paranoia",
-      "url": "https://open.spotify.com/track/7w4t6sPVdboBZpa5prmUuj"
-    },
-    {
-      "added_at": "2023-09-26 20:58:57",
-      "album": {
         "name": "STOKELEY",
         "url": "https://open.spotify.com/album/0z0z4DcXhHiobX5ZKAw8Qn"
       },
@@ -171,6 +155,22 @@
       "duration_ms": 138426,
       "name": "Unbothered",
       "url": "https://open.spotify.com/track/5hwUsRKvnO5yThjVrxHQVt"
+    },
+    {
+      "added_at": "2023-09-26 20:58:57",
+      "album": {
+        "name": "paranoia",
+        "url": "https://open.spotify.com/album/6jS7gC4DBGC5GLA99RFwEx"
+      },
+      "artists": [
+        {
+          "name": "KENTENSHI",
+          "url": "https://open.spotify.com/artist/7Ad37JjLQE0Gjd9YuGHj3j"
+        }
+      ],
+      "duration_ms": 117408,
+      "name": "paranoia",
+      "url": "https://open.spotify.com/track/7w4t6sPVdboBZpa5prmUuj"
     },
     {
       "added_at": "2023-09-26 20:58:57",
@@ -903,6 +903,22 @@
     {
       "added_at": "2023-09-26 20:58:57",
       "album": {
+        "name": "Let\u2019s Ride",
+        "url": "https://open.spotify.com/album/7AHgpws4jUS12JxsqorrJO"
+      },
+      "artists": [
+        {
+          "name": "Khantrast",
+          "url": "https://open.spotify.com/artist/1MOetFIO4hBem9p9FVP9Jo"
+        }
+      ],
+      "duration_ms": 120981,
+      "name": "Let\u2019s Ride",
+      "url": "https://open.spotify.com/track/2ZNGVeQUOXsKqRgMVmyr3r"
+    },
+    {
+      "added_at": "2023-09-26 20:58:57",
+      "album": {
         "name": "C'est La Vie",
         "url": "https://open.spotify.com/album/4cR3Cgc4klmCeDgFkA3nz7"
       },
@@ -923,22 +939,6 @@
       "duration_ms": 160161,
       "name": "C'est La Vie (with bbno$ & Rich Brian)",
       "url": "https://open.spotify.com/track/0cgy8EueqwMuYzOZrW5vPB"
-    },
-    {
-      "added_at": "2023-09-26 20:58:57",
-      "album": {
-        "name": "Let\u2019s Ride",
-        "url": "https://open.spotify.com/album/7AHgpws4jUS12JxsqorrJO"
-      },
-      "artists": [
-        {
-          "name": "Khantrast",
-          "url": "https://open.spotify.com/artist/1MOetFIO4hBem9p9FVP9Jo"
-        }
-      ],
-      "duration_ms": 120981,
-      "name": "Let\u2019s Ride",
-      "url": "https://open.spotify.com/track/2ZNGVeQUOXsKqRgMVmyr3r"
     },
     {
       "added_at": "2023-09-26 20:58:57",
@@ -1009,22 +1009,6 @@
       "url": "https://open.spotify.com/track/1VvwxqIfKRazmvE7zdDFRg"
     },
     {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
-        "name": "BAIXO",
-        "url": "https://open.spotify.com/album/4FZ9dWvoOMpOMzh914Jmhc"
-      },
-      "artists": [
-        {
-          "name": "xxanteria",
-          "url": "https://open.spotify.com/artist/4nl0CCx6PpEOOr2Z2ThPdp"
-        }
-      ],
-      "duration_ms": 104013,
-      "name": "BAIXO",
-      "url": "https://open.spotify.com/track/3f1Jurx7wpabtVoxpLrtCE"
-    },
-    {
       "added_at": "2023-09-26 20:58:57",
       "album": {
         "name": "2077",
@@ -1039,6 +1023,22 @@
       "duration_ms": 135074,
       "name": "2077",
       "url": "https://open.spotify.com/track/6kRxT8sggyNJ6mYoSKTwCh"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
+        "name": "BAIXO",
+        "url": "https://open.spotify.com/album/4FZ9dWvoOMpOMzh914Jmhc"
+      },
+      "artists": [
+        {
+          "name": "xxanteria",
+          "url": "https://open.spotify.com/artist/4nl0CCx6PpEOOr2Z2ThPdp"
+        }
+      ],
+      "duration_ms": 104013,
+      "name": "BAIXO",
+      "url": "https://open.spotify.com/track/3f1Jurx7wpabtVoxpLrtCE"
     },
     {
       "added_at": "2023-11-28 14:56:54",
@@ -1059,22 +1059,6 @@
       "duration_ms": 88079,
       "name": "lucky7!",
       "url": "https://open.spotify.com/track/4tkbMkT6vDOq0GzuSQyF6d"
-    },
-    {
-      "added_at": "2023-09-26 20:58:57",
-      "album": {
-        "name": "JoJo Pose",
-        "url": "https://open.spotify.com/album/4x9AjlHkbRPKSEtpsf8ZmJ"
-      },
-      "artists": [
-        {
-          "name": "Apollo Fresh",
-          "url": "https://open.spotify.com/artist/3ivDFy7UfjLbyIGzepJ5hJ"
-        }
-      ],
-      "duration_ms": 105333,
-      "name": "JoJo Pose",
-      "url": "https://open.spotify.com/track/4dPVmeisPfQrLcjx0Wz1KW"
     },
     {
       "added_at": "2023-09-26 20:58:57",
@@ -1107,6 +1091,22 @@
       "duration_ms": 158710,
       "name": "CHROME BERETTA",
       "url": "https://open.spotify.com/track/1UZYIwfkoiTGuiUGx4nFyL"
+    },
+    {
+      "added_at": "2023-09-26 20:58:57",
+      "album": {
+        "name": "JoJo Pose",
+        "url": "https://open.spotify.com/album/4x9AjlHkbRPKSEtpsf8ZmJ"
+      },
+      "artists": [
+        {
+          "name": "Apollo Fresh",
+          "url": "https://open.spotify.com/artist/3ivDFy7UfjLbyIGzepJ5hJ"
+        }
+      ],
+      "duration_ms": 105333,
+      "name": "JoJo Pose",
+      "url": "https://open.spotify.com/track/4dPVmeisPfQrLcjx0Wz1KW"
     },
     {
       "added_at": "2023-09-26 20:58:57",
@@ -1161,22 +1161,6 @@
       "url": "https://open.spotify.com/track/4QlbH3QGLr13WeLUywH9DA"
     },
     {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
-        "name": "7AM",
-        "url": "https://open.spotify.com/album/6Mf15O3wMv52ySP3aSTre1"
-      },
-      "artists": [
-        {
-          "name": "Adrian",
-          "url": "https://open.spotify.com/artist/5uK6fW2LmljRHZEmHKv9tA"
-        }
-      ],
-      "duration_ms": 145950,
-      "name": "7AM",
-      "url": "https://open.spotify.com/track/3HoSi38l1e6E1K1lHWUCeV"
-    },
-    {
       "added_at": "2023-09-26 20:58:57",
       "album": {
         "name": "Cyberfreak",
@@ -1191,6 +1175,22 @@
       "duration_ms": 118093,
       "name": "Cyberfreak",
       "url": "https://open.spotify.com/track/5xjBjhBgqR9lJguneF01jQ"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
+        "name": "7AM",
+        "url": "https://open.spotify.com/album/6Mf15O3wMv52ySP3aSTre1"
+      },
+      "artists": [
+        {
+          "name": "Adrian",
+          "url": "https://open.spotify.com/artist/5uK6fW2LmljRHZEmHKv9tA"
+        }
+      ],
+      "duration_ms": 145950,
+      "name": "7AM",
+      "url": "https://open.spotify.com/track/3HoSi38l1e6E1K1lHWUCeV"
     },
     {
       "added_at": "2023-09-26 20:58:57",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2023-09-26 20:58:57",
       "album": {
-        "name": "MK Plus Ultra",
-        "url": "https://open.spotify.com/album/6oy7rNsd09qEKBDEDUawEg"
-      },
-      "artists": [
-        {
-          "name": "do not resurrect",
-          "url": "https://open.spotify.com/artist/0QRp7CyL31iErUn6cX0YU3"
-        }
-      ],
-      "duration_ms": 130914,
-      "name": "MK Plus Ultra",
-      "url": "https://open.spotify.com/track/4jfsYlMJM9hZNbIWVczbJq"
-    },
-    {
-      "added_at": "2023-09-26 20:58:57",
-      "album": {
         "name": "I'm Toxic",
         "url": "https://open.spotify.com/album/0LbmzupwRcQfKfF2VQr4q0"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 116323,
       "name": "I'm Toxic",
       "url": "https://open.spotify.com/track/6aLzDW8TlgccoWycY99mfU"
+    },
+    {
+      "added_at": "2023-09-26 20:58:57",
+      "album": {
+        "name": "MK Plus Ultra",
+        "url": "https://open.spotify.com/album/6oy7rNsd09qEKBDEDUawEg"
+      },
+      "artists": [
+        {
+          "name": "do not resurrect",
+          "url": "https://open.spotify.com/artist/0QRp7CyL31iErUn6cX0YU3"
+        }
+      ],
+      "duration_ms": 130914,
+      "name": "MK Plus Ultra",
+      "url": "https://open.spotify.com/track/4jfsYlMJM9hZNbIWVczbJq"
     }
   ],
   "unique_name": "sh\u014dnen",

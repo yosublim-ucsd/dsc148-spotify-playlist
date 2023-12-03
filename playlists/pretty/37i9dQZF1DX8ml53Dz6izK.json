@@ -1,12 +1,12 @@
 {
   "description": "< insert emo glitter gif here >",
-  "num_followers": 63689,
+  "num_followers": 63796,
   "original_name": "CrySpace",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2YTFhNzgwMGI2MDA2NDYxMGFhNWY4NzdhNDFhYTk2MDQzZmZiNmU0",
+  "snapshot_id": "MCw5NTNhYzczOGI0MTEwODA4OTI0YjQwYjEyYzcyOWM4YTQ2ZDMyNjE4",
   "tracks": [
     {
       "added_at": "2023-10-20 22:49:42",
@@ -43,22 +43,6 @@
     {
       "added_at": "2023-10-20 22:49:42",
       "album": {
-        "name": "Infest",
-        "url": "https://open.spotify.com/album/0BHa0ePkvGAVKymB4FU58m"
-      },
-      "artists": [
-        {
-          "name": "Papa Roach",
-          "url": "https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X"
-        }
-      ],
-      "duration_ms": 199906,
-      "name": "Last Resort",
-      "url": "https://open.spotify.com/track/5W8YXBz9MTIDyrpYaCg2Ky"
-    },
-    {
-      "added_at": "2023-10-20 22:49:42",
-      "album": {
         "name": "The Reason (15th Anniversary Deluxe)",
         "url": "https://open.spotify.com/album/2zE1YKY7Okj10Tjl09jjth"
       },
@@ -71,6 +55,22 @@
       "duration_ms": 232800,
       "name": "The Reason",
       "url": "https://open.spotify.com/track/77loZpT5Y5PRP1S451P9Yz"
+    },
+    {
+      "added_at": "2023-10-20 22:49:42",
+      "album": {
+        "name": "Infest",
+        "url": "https://open.spotify.com/album/0BHa0ePkvGAVKymB4FU58m"
+      },
+      "artists": [
+        {
+          "name": "Papa Roach",
+          "url": "https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X"
+        }
+      ],
+      "duration_ms": 199906,
+      "name": "Last Resort",
+      "url": "https://open.spotify.com/track/5W8YXBz9MTIDyrpYaCg2Ky"
     },
     {
       "added_at": "2023-10-20 22:49:42",
@@ -427,22 +427,6 @@
     {
       "added_at": "2023-10-20 22:49:42",
       "album": {
-        "name": "Riot!",
-        "url": "https://open.spotify.com/album/71rziY9eLo1tA2dBMxrwhc"
-      },
-      "artists": [
-        {
-          "name": "Paramore",
-          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
-        }
-      ],
-      "duration_ms": 220480,
-      "name": "That's What You Get",
-      "url": "https://open.spotify.com/track/1JdKrFyoU05abww0Zv0ayQ"
-    },
-    {
-      "added_at": "2023-10-20 22:49:42",
-      "album": {
         "name": "Let's Cheers To This",
         "url": "https://open.spotify.com/album/3RSJ0kbP7TxLRqH7BqX8Gl"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 250240,
       "name": "If You Can't Hang",
       "url": "https://open.spotify.com/track/2Tc9VznHtQUmfOgE3L1RdN"
+    },
+    {
+      "added_at": "2023-10-20 22:49:42",
+      "album": {
+        "name": "Riot!",
+        "url": "https://open.spotify.com/album/71rziY9eLo1tA2dBMxrwhc"
+      },
+      "artists": [
+        {
+          "name": "Paramore",
+          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
+        }
+      ],
+      "duration_ms": 220480,
+      "name": "That's What You Get",
+      "url": "https://open.spotify.com/track/1JdKrFyoU05abww0Zv0ayQ"
     },
     {
       "added_at": "2023-10-20 22:49:42",
@@ -811,22 +811,6 @@
     {
       "added_at": "2023-10-20 22:49:42",
       "album": {
-        "name": "Zombies! Aliens! Vampires! Dinosaurs!",
-        "url": "https://open.spotify.com/album/6caG763FP5oUCdxklebHh6"
-      },
-      "artists": [
-        {
-          "name": "Hellogoodbye",
-          "url": "https://open.spotify.com/artist/6GH0NzpthMGxu1mcfAkOde"
-        }
-      ],
-      "duration_ms": 240546,
-      "name": "Here (In Your Arms)",
-      "url": "https://open.spotify.com/track/1GV98LUEVk1U3LWAkX2Apw"
-    },
-    {
-      "added_at": "2023-10-20 22:49:42",
-      "album": {
         "name": "A Fever You Can't Sweat Out",
         "url": "https://open.spotify.com/album/2YeOhhJg3OWpN0F1VYPxtW"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 205752,
       "name": "But It's Better If You Do",
       "url": "https://open.spotify.com/track/2ZqTtndqAZDRAWw2vgZwQK"
+    },
+    {
+      "added_at": "2023-10-20 22:49:42",
+      "album": {
+        "name": "Zombies! Aliens! Vampires! Dinosaurs!",
+        "url": "https://open.spotify.com/album/6caG763FP5oUCdxklebHh6"
+      },
+      "artists": [
+        {
+          "name": "Hellogoodbye",
+          "url": "https://open.spotify.com/artist/6GH0NzpthMGxu1mcfAkOde"
+        }
+      ],
+      "duration_ms": 240546,
+      "name": "Here (In Your Arms)",
+      "url": "https://open.spotify.com/track/1GV98LUEVk1U3LWAkX2Apw"
     },
     {
       "added_at": "2023-10-20 22:49:42",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2023-10-20 22:49:42",
       "album": {
-        "name": "What It Is To Burn",
-        "url": "https://open.spotify.com/album/28DROCResQvsdO6Hjmb32x"
-      },
-      "artists": [
-        {
-          "name": "Finch",
-          "url": "https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za"
-        }
-      ],
-      "duration_ms": 199600,
-      "name": "Letters To You",
-      "url": "https://open.spotify.com/track/1lldOhIq1tf0XyQUBWDeOc"
-    },
-    {
-      "added_at": "2023-10-20 22:49:42",
-      "album": {
         "name": "Hard Feelings",
         "url": "https://open.spotify.com/album/4bUiEIZLN53j0zIXcxHzRR"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 198243,
       "name": "Cutthroat",
       "url": "https://open.spotify.com/track/4kCUavIIL9zaAPE9fRnl88"
+    },
+    {
+      "added_at": "2023-10-20 22:49:42",
+      "album": {
+        "name": "What It Is To Burn",
+        "url": "https://open.spotify.com/album/28DROCResQvsdO6Hjmb32x"
+      },
+      "artists": [
+        {
+          "name": "Finch",
+          "url": "https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za"
+        }
+      ],
+      "duration_ms": 199600,
+      "name": "Letters To You",
+      "url": "https://open.spotify.com/track/1lldOhIq1tf0XyQUBWDeOc"
     },
     {
       "added_at": "2023-10-20 22:49:42",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2023-10-20 22:49:42",
       "album": {
-        "name": "Everything In Transit (Non-PA Release)",
-        "url": "https://open.spotify.com/album/3kb9M8LHAO4JKh2Z7ZgiOV"
-      },
-      "artists": [
-        {
-          "name": "Jack's Mannequin",
-          "url": "https://open.spotify.com/artist/42aeGx2I3uXINpGqC8L0LD"
-        }
-      ],
-      "duration_ms": 251933,
-      "name": "Dark Blue",
-      "url": "https://open.spotify.com/track/2XFOuxF5xUZ00RaVfaIdw2"
-    },
-    {
-      "added_at": "2023-10-20 22:49:42",
-      "album": {
         "name": "Can't Stop Won't Stop",
         "url": "https://open.spotify.com/album/0bxAg2688N46MOhGVHxRFJ"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 157453,
       "name": "Everything I Ask For",
       "url": "https://open.spotify.com/track/7oO2hXd8ancgNouU8w3b1N"
+    },
+    {
+      "added_at": "2023-10-20 22:49:42",
+      "album": {
+        "name": "Everything In Transit (Non-PA Release)",
+        "url": "https://open.spotify.com/album/3kb9M8LHAO4JKh2Z7ZgiOV"
+      },
+      "artists": [
+        {
+          "name": "Jack's Mannequin",
+          "url": "https://open.spotify.com/artist/42aeGx2I3uXINpGqC8L0LD"
+        }
+      ],
+      "duration_ms": 251933,
+      "name": "Dark Blue",
+      "url": "https://open.spotify.com/track/2XFOuxF5xUZ00RaVfaIdw2"
     },
     {
       "added_at": "2023-10-20 22:49:42",

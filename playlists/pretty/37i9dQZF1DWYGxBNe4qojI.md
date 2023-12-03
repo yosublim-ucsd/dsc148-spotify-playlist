@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYGxBNe4qojI.md) - [plain]
 
 > Where it all started\. Cover: Wu\-Tang
 
-[Spotify](https://open.spotify.com/user/spotify) - 362,484 likes - 50 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 362,704 likes - 50 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYGxBNe4qojI.md) - [plain]
 | 31 | [Represent](https://open.spotify.com/track/6DPrhGVJ1WTZvM9fKptnGe) | [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q) | [Illmatic](https://open.spotify.com/album/3kEtdS2pH6hKcMU9Wioob1) | 4:12 |
 | 32 | [Put It On](https://open.spotify.com/track/6JI5wNWYdBw68GZjOMmgK5) | [Big L](https://open.spotify.com/artist/30fiiwr2EeZp1tAhzYCmyM) | [Lifestylez Ov Da Poor & Dangerous](https://open.spotify.com/album/7xvBUHu5jJ7X0wdRHudLFD) | 3:37 |
 | 33 | [Shadowboxin'](https://open.spotify.com/track/7bp5DfkdK1OAvNJ1U4HfDA) | [GZA](https://open.spotify.com/artist/6ns6XAOsw4B0nDUIovAOUO), [Method Man](https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt) | [Liquid Swords](https://open.spotify.com/album/3k8xoyOXkGgZxUKgpmxz4P) | 3:29 |
-| 34 | [Get Money](https://open.spotify.com/track/53oWwSxPuyH2cjYKXH8fgO) | [Junior M.A.F.I.A.](https://open.spotify.com/artist/3r0OeTcOw37N9juMYyyw39) | [Conspiracy \(PA\)](https://open.spotify.com/album/02GVhWjMuoQBQUtNhjWsnG) | 4:34 |
-| 35 | [Sound of da Police](https://open.spotify.com/track/3Y6XWs8xMlCngyIxNOFnsp) | [KRS\-One](https://open.spotify.com/artist/2gINJ8xw86xawPyGvx1bla) | [Return of the Boom Bap](https://open.spotify.com/album/64ub4SfdC8wvPjdUXw8QY9) | 4:18 |
+| 34 | [Sound of da Police](https://open.spotify.com/track/3Y6XWs8xMlCngyIxNOFnsp) | [KRS\-One](https://open.spotify.com/artist/2gINJ8xw86xawPyGvx1bla) | [Return of the Boom Bap](https://open.spotify.com/album/64ub4SfdC8wvPjdUXw8QY9) | 4:18 |
+| 35 | [Get Money](https://open.spotify.com/track/53oWwSxPuyH2cjYKXH8fgO) | [Junior M.A.F.I.A.](https://open.spotify.com/artist/3r0OeTcOw37N9juMYyyw39) | [Conspiracy \(PA\)](https://open.spotify.com/album/02GVhWjMuoQBQUtNhjWsnG) | 4:34 |
 | 36 | [Above The Clouds](https://open.spotify.com/track/3ZBSXNYdTZVaBUQI3E2rF6) | [Gang Starr](https://open.spotify.com/artist/5cMgGlA1xGyeAB2ctYlRdZ), [Inspectah Deck](https://open.spotify.com/artist/4OBbOrkD4geIjOLrICN3wO) | [Moment Of Truth](https://open.spotify.com/album/5f6Nz2v1DESbpu1NerEql2) | 3:41 |
 | 37 | [Notorious Thugs \- 2014 Remaster](https://open.spotify.com/track/19FsxX4RthRMZGfXkImdCb) | [The Notorious B.I.G.](https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb) | [Life After Death \(2014 Remastered Edition\)](https://open.spotify.com/album/7dRdaGSxgcBdJnrOviQRuB) | 6:06 |
 | 38 | [Hey Ma](https://open.spotify.com/track/2fE1hcjUxlLxXrZusTEJlq) | [Cam'ron](https://open.spotify.com/artist/7iMvwE8qANp3aIfAGKEAwS), [Juelz Santana](https://open.spotify.com/artist/6Uh8uJyN9g7oFjDK16nJgb), [Freekey Zeekey](https://open.spotify.com/artist/6EjZmcZTs67OVOG511gGn3), [Toya](https://open.spotify.com/artist/02ehFoytLUjat0JMYpYsml) | [Come Home With Me](https://open.spotify.com/album/1lEkQcVvPwNZmkBIEJPSrv) | 3:40 |
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYGxBNe4qojI.md) - [plain]
 | 41 | [Bring The Pain](https://open.spotify.com/track/3F3R4uyTMkX9jRCEVVmdz6) | [Method Man](https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt) | [Tical](https://open.spotify.com/album/26RDYvX2sIuiEUhqVPkNaf) | 3:09 |
 | 42 | [Doin' It](https://open.spotify.com/track/4WMBl2wiGUSGa5C7tfQEAo) | [LL COOL J](https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC), [Leshaun](https://open.spotify.com/artist/0vHAWbRVMR4fNF1ABEe8D2) | [Mr\. Smith \(Deluxe Edition\)](https://open.spotify.com/album/6b7NVGKHlwKyQzFKoVTaMA) | 4:53 |
 | 43 | [What They Do](https://open.spotify.com/track/1B53Y95tPd4ah4FExO0egE) | [The Roots](https://open.spotify.com/artist/78xUyw6FkVZrRAtziFdtdu) | [Illadelph Halflife](https://open.spotify.com/album/4hkERQVrmM9JQ9g2eie2tL) | 5:57 |
-| 44 | [Whoa!](https://open.spotify.com/track/71u5SjnkSQgzIt1UzHchbi) | [Black Rob](https://open.spotify.com/artist/1QPZhx0asYTBxD5RDqfU49) | [Life Story](https://open.spotify.com/album/1MSBtKtGF1VLBtSLgwcwKR) | 3:58 |
-| 45 | [Definition](https://open.spotify.com/track/4C7Ss9bTPOWJMh3rarF1mN) | [Black Star](https://open.spotify.com/artist/67ei8ib6PLT1w3OkhIb4fB) | [Mos Def & Talib Kweli Are Black Star](https://open.spotify.com/album/6GRzmk9UGL7odxprOPop1Q) | 3:26 |
+| 44 | [Definition](https://open.spotify.com/track/4C7Ss9bTPOWJMh3rarF1mN) | [Black Star](https://open.spotify.com/artist/67ei8ib6PLT1w3OkhIb4fB) | [Mos Def & Talib Kweli Are Black Star](https://open.spotify.com/album/6GRzmk9UGL7odxprOPop1Q) | 3:26 |
+| 45 | [Whoa!](https://open.spotify.com/track/71u5SjnkSQgzIt1UzHchbi) | [Black Rob](https://open.spotify.com/artist/1QPZhx0asYTBxD5RDqfU49) | [Life Story](https://open.spotify.com/album/1MSBtKtGF1VLBtSLgwcwKR) | 3:58 |
 | 46 | [I'll Be There For You/You're All I Need To Get By \- Puff Daddy Mix](https://open.spotify.com/track/6C3yPXYG2NJYlIYVe5J7hv) | [Method Man](https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt), [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr) | [Tical \(Deluxe Edition\)](https://open.spotify.com/album/7DyAbrlPQTi2v6DAmgC8Qa) | 5:09 |
 | 47 | [Magic Stick](https://open.spotify.com/track/0aULRU35N9kTj6O1xMULRR) | [Lil' Kim](https://open.spotify.com/artist/5tth2a3v0sWwV1C7bApBdX) | [La Bella Mafia](https://open.spotify.com/album/6UlNLXBFLqRDiKnyrF4oDE) | 5:59 |
 | 48 | [Loungin \(Who Do Ya Luv\) \- Remix](https://open.spotify.com/track/0UN5OvKlbg06LnZyVk48ll) | [LL COOL J](https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC), [Total](https://open.spotify.com/artist/1urjDGTd4iBze91Z1W1gu7) | [Mr\. Smith \(Deluxe Edition\)](https://open.spotify.com/album/6b7NVGKHlwKyQzFKoVTaMA) | 3:49 |
 | 49 | [Flava in Ya Ear Remix \(feat\. The Notorious B.I.G., LL Cool J, Busta Rhymes, Rampage\)](https://open.spotify.com/track/4JYUDRtPZuVNi7FAnbHyux) | [Craig Mack](https://open.spotify.com/artist/4akj4uteQQrrGxhX9Rjuyf), [Busta Rhymes](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK), [LL COOL J](https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC), [Rampage](https://open.spotify.com/artist/6edzoyx2aOvZpdFeCCWU1t), [The Notorious B.I.G.](https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb) | [Flava In Ya Ear Remix](https://open.spotify.com/album/7mYcq3B0faiA5IvhDCdypL) | 5:02 |
 | 50 | [Oh My God \(feat\. Busta Rhymes\)](https://open.spotify.com/track/6FI3RJ58Ztl0X1VtA6pVs9) | [A Tribe Called Quest](https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa), [Busta Rhymes](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK) | [Midnight Marauders](https://open.spotify.com/album/4v5x3Oo3UjQ9YmF3hRAip5) | 3:28 |
 
-Snapshot ID: `MCwzODczNGE2NmVjN2YxMjQwNjIwZTU2YzJjM2NiNmYyYzcxMDQ2OTQw`
+Snapshot ID: `MCw1ZGNiYjk3ODc5MjdmMjhlYmNlZmU4ZjQ5MDRjYTBiZDAwMzlhYzg0`

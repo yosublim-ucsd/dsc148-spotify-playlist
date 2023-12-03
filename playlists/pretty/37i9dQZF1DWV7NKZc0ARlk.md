@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV7NKZc0ARlk.md) - [plain]
 
 > Los éxitos del pop suenan mejor en vivo\. Foto: Thalia
 
-[Spotify](https://open.spotify.com/user/spotify) - 136,962 likes - 50 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 137,189 likes - 50 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV7NKZc0ARlk.md) - [plain]
 | 49 | [Confieso \- En Vivo](https://open.spotify.com/track/7LdnlQjKYxFJ1Ar7sM3sN4) | [OV7](https://open.spotify.com/artist/5zaT4Qu9otu6z4oyWjRqM2) | [OV7 Primera Fila](https://open.spotify.com/album/2xFC6CVueT0H9MqW8RkySa) | 3:43 |
 | 50 | [Yo Te Pido Amor \(Primera Fila\) \(feat\. Pandora\) \- En Vivo](https://open.spotify.com/track/0QIKg7unxus0JeC8PhzCXQ) | [Yuri](https://open.spotify.com/artist/4OgNARLQSC4yy7Dsa5cqxx), [Pandora](https://open.spotify.com/artist/44nb9BaqV2jVvxKCaXHwlP) | [Primera Fila \(En Vivo\)](https://open.spotify.com/album/19FjT2Eq5zuZqscnwhjNFH) | 4:42 |
 
-Snapshot ID: `MCxjY2FmZjZjYmE4MWMwMDEwMzdkYjdiZmNiM2ZhODk3MTQyY2MyZjI4`
+Snapshot ID: `MCxhOWVlM2UwOTljMTc5NjdlOTA0OGE5NTVjMDQ4ZTk4NjE0OWViYThh`

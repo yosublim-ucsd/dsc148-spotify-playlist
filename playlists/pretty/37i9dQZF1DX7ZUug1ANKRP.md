@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZUug1ANKRP.md) - [plain]
 
 > The biggest Dance hits and the ones to come\. Cover: Nicolas Julian
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,799,134 likes - 50 songs - 2 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,799,315 likes - 50 songs - 2 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZUug1ANKRP.md) - [plain]
 | 35 | [AEIOU](https://open.spotify.com/track/5I8YyKG5iIdOiuTFnX9YVC) | [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u), [Empire of the Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c) | [AEIOU](https://open.spotify.com/album/2F00Hw4CHbhTPMeUllX8Oc) | 3:15 |
 | 36 | [Let Me Think About It Again](https://open.spotify.com/track/4J4Fk7x2y8jQBxm332n0oY) | [Showtek](https://open.spotify.com/artist/3gk0OYeLFWYupGFRHqLSR7), [Ida Corr](https://open.spotify.com/artist/30ut8L4gmEz4vNr1zNhpbh) | [Let Me Think About It Again](https://open.spotify.com/album/5BiDACecOtLeeDR7ElF7zz) | 3:15 |
 | 37 | [Fuego](https://open.spotify.com/track/42jqtDBoV2YGTRbFI02p6H) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Blasterjaxx](https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD), [Zafrir](https://open.spotify.com/artist/3DJVDo0kd19fZXpTabasOX) | [Fuego](https://open.spotify.com/album/5YWOlO1sHAk84Oh4W9NhzX) | 2:32 |
-| 38 | [Rock My Body \(with SASH!\) \[W&W x R3HAB VIP Remix\]](https://open.spotify.com/track/65Iiyhh7rD0vq0bmCPz2YK) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8), [W&W](https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4), [Sash!](https://open.spotify.com/artist/5XTxV2ifoYkmNb13Gb6cKz) | [Rock My Body \(with SASH!\) \[W&W x R3HAB VIP Remix\]](https://open.spotify.com/album/435wMn4soTVne8q2Ayjpj0) | 2:48 |
+| 38 | [Rock My Body \(with Sash!\) \- W&W x R3HAB VIP Remix](https://open.spotify.com/track/65Iiyhh7rD0vq0bmCPz2YK) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8), [W&W](https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4), [Sash!](https://open.spotify.com/artist/5XTxV2ifoYkmNb13Gb6cKz) | [Rock My Body \(with SASH!\) \[W&W x R3HAB VIP Remix\]](https://open.spotify.com/album/435wMn4soTVne8q2Ayjpj0) | 2:48 |
 | 39 | [Sleepless \(feat\. GoldFord\)](https://open.spotify.com/track/3NO0uDaqtPzSSU9GAj39hC) | [Restricted](https://open.spotify.com/artist/7mx6iGwPF157vXwYcl1DQ3), [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [GoldFord](https://open.spotify.com/artist/4I2QW85rkIhCRRZt1kuBqS) | [Sleepless \(feat\. GoldFord\)](https://open.spotify.com/album/3748XL91ovL1Tpni1BWAor) | 2:17 |
 | 40 | [Prada](https://open.spotify.com/track/59NraMJsLaMCVtwXTSia8i) | [cassö](https://open.spotify.com/artist/5wCmhq5J2hPwL2r0eKurxn), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [D\-Block Europe](https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y) | [Prada](https://open.spotify.com/album/5MU0RmBSpoSxOPYBfcobDc) | 2:12 |
 | 41 | [Past Lives](https://open.spotify.com/track/6pPJAAEMeczRyC74w6ltBS) | [OBS](https://open.spotify.com/artist/5pT9S3KV5SqnzKHpSYf3ko) | [Past Lives](https://open.spotify.com/album/2Jq08vEaaRbd8m3av62Cwh) | 2:39 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZUug1ANKRP.md) - [plain]
 | 49 | [Wake Me Up \- Radio Edit](https://open.spotify.com/track/6d0T2bz3qCRTtG126QFkp3) | [MOLOW](https://open.spotify.com/artist/3X2bWmlO8Oq7dIeEgAbTAB), [Nito\-Onna](https://open.spotify.com/artist/79GiwayvvpyZVErpH6BLsY) | [Wake Me Up](https://open.spotify.com/album/4GfBtGzN9za6LxsOgWU7jT) | 2:48 |
 | 50 | [Good Life](https://open.spotify.com/track/09rcsC6M15EZPbCVmrqUYK) | [FAST BOY](https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb) | [Good Life](https://open.spotify.com/album/4L7JQYnj8oGhI4OfdQjFjv) | 3:16 |
 
-Snapshot ID: `MCw2YTE5YzU0OGJhYjMxYjJkODQ3MjgwODNjOGJhZjZkYWE1ZGEzNjcx`
+Snapshot ID: `MCxkMTk3YWZlOGVlM2ZjZGMzMzk1NjFlMDYwZWVjZjNjMmMyY2YwYWZj`

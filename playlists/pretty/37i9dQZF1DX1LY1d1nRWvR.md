@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1LY1d1nRWvR.md) - [plain]
 
 > Kick back  and soak up the warm and soothing tones of jazz and electronic.
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,736 likes - 50 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,779 likes - 50 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1LY1d1nRWvR.md) - [plain]
 | 19 | [Buya \- Da Capo Remix](https://open.spotify.com/track/4OezP9SDdFDOkANm9qdXYt) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Toshi](https://open.spotify.com/artist/6G621T2CmHyx5LCvd8QE63), [Da Capo](https://open.spotify.com/artist/4YuviELTmYBvDR66ThrMy9) | [Buya](https://open.spotify.com/album/6MmO8KpXWEyz4qh41tnzhU) | 7:44 |
 | 20 | [Yardley Suite](https://open.spotify.com/track/3FLsuVjJ5Ioqb1hgst8N1b) | [Ruby Rushton](https://open.spotify.com/artist/6DO2Eyazl6ToBSvp7OGLuF) | [Yardley Suite](https://open.spotify.com/album/6GYzn93otdQDLDrlHx3mSX) | 3:55 |
 | 21 | [Rainbow Road](https://open.spotify.com/track/2R9lqoximtsPHmnuvj3ptd) | [Dan Kye](https://open.spotify.com/artist/05YrP00agTrYezUyAsukKf) | [Small Moments](https://open.spotify.com/album/75GwgzYvvgaJQS6DooqcIC) | 5:27 |
-| 22 | [Puppets](https://open.spotify.com/track/3xMALoXxfRhXggfUQGuStD) | [Jane Maximova](https://open.spotify.com/artist/1rV8eRHOV685BeNEa59lyt) | [Equinox](https://open.spotify.com/album/3GnAPmVrTXfY0Fr5Hqxr2h) | 4:58 |
-| 23 | [Leaves](https://open.spotify.com/track/4lGXye7yRWuhEb8jyaAYc2) | [Move D](https://open.spotify.com/artist/3hwmrS8MSceZwnZYvZFf97), [Justin Carter](https://open.spotify.com/artist/5uPFbw1zCaZDbZFlmrA15x) | [To the Disco '77 \(Live Rework\)](https://open.spotify.com/album/6a5zxWkfXH3jcXrjmdGSn2) | 9:54 |
+| 22 | [Leaves](https://open.spotify.com/track/4lGXye7yRWuhEb8jyaAYc2) | [Move D](https://open.spotify.com/artist/3hwmrS8MSceZwnZYvZFf97), [Justin Carter](https://open.spotify.com/artist/5uPFbw1zCaZDbZFlmrA15x) | [To the Disco '77 \(Live Rework\)](https://open.spotify.com/album/6a5zxWkfXH3jcXrjmdGSn2) | 9:54 |
+| 23 | [Puppets](https://open.spotify.com/track/3xMALoXxfRhXggfUQGuStD) | [Jane Maximova](https://open.spotify.com/artist/1rV8eRHOV685BeNEa59lyt) | [Equinox](https://open.spotify.com/album/3GnAPmVrTXfY0Fr5Hqxr2h) | 4:58 |
 | 24 | [Ho Chi Min](https://open.spotify.com/track/2vykok21C0IyTjpvUOcBWi) | [Red Axes](https://open.spotify.com/artist/5Owm9QgL9BSCRQKTX6T08G), [Bèo Dạt Mây Trôi](https://open.spotify.com/artist/5aiU9zkwOsUWaoKL3LZhvM), [HCMC Students](https://open.spotify.com/artist/7eTh42doMpsnT6Z6pKI9tK) | [Trips \#2: Vietnam](https://open.spotify.com/album/1NNk1ZIK6pil96rgNOXuBY) | 7:20 |
 | 25 | [Nankoo on Keys](https://open.spotify.com/track/4VImgRabUMMuNYftIVN3Go) | [Al Dobson Jr.](https://open.spotify.com/artist/3YOthLzFPTgp0fEtLRUoES), [Reginald Omas Mamode](https://open.spotify.com/artist/5f6KVvbRDEzdb6zTNVpYZy) | [Rye Lane Vol\. 1](https://open.spotify.com/album/5rjE3dz41m5JeNhDtq7Ahh) | 2:12 |
 | 26 | [Bamboo](https://open.spotify.com/track/4nEHMZYdH2z4vPO8nJW9wF) | [Harvey Sutherland](https://open.spotify.com/artist/4CxFlJDif0atTK3gZebcEf) | [Brothers](https://open.spotify.com/album/731CVmFi5tJ0gT2wvVQAss) | 6:16 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1LY1d1nRWvR.md) - [plain]
 | 44 | [Tanto Tiempo \- Village Cuts Remix](https://open.spotify.com/track/7opvEv3xPJsMIiPrvq4S5e) | [Scrimshire](https://open.spotify.com/artist/5iVIpHSJD1uKtL3impLoKL), [Penya](https://open.spotify.com/artist/33E3A9UvKfjQno9m6S5xwU), [Village Cuts](https://open.spotify.com/artist/1a3m42fKHHR2MsiBQK3GVU) | [Tanto Tiempo](https://open.spotify.com/album/37idrhwVE8BaAIw4uJ7klK) | 4:55 |
 | 45 | [Piña Colada](https://open.spotify.com/track/5wt62HFSYWz87H5dztBufJ) | [Blue Lab Beats](https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR), [Nubya Garcia](https://open.spotify.com/artist/6O5k8LLRfDK8v9jj1GazAQ), [Richie Seivwright](https://open.spotify.com/artist/1iyQnonWJYO8XSOkWQITUH) | [Xover](https://open.spotify.com/album/08OWYxVuGW8F7Ne2TdNMUp) | 3:59 |
 | 46 | [All My Troubles](https://open.spotify.com/track/3m8ilb2QT4RgsPJSh2g6UZ) | [Demuja](https://open.spotify.com/artist/1LfqhJiCiHfVzrBOVaBXc1) | [All My Troubles](https://open.spotify.com/album/599n6aMLqgGci5iScyb4nN) | 5:08 |
-| 47 | [Mind](https://open.spotify.com/track/5sfTya6OQoW2rDLKSVT2Qk) | [Fatima](https://open.spotify.com/artist/5uNCGgWH5Id1cW8kh9Sc67), [Floating Points](https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L) | [Follow You EP \(feat\. Floating Points\)](https://open.spotify.com/album/5dt7lQjyinjDt7y0a8tzmw) | 4:27 |
-| 48 | [The Sapiens \(Original Mix\) \[Mixed\]](https://open.spotify.com/track/0g7DrfLCjrhogkP8cIAHm3) | [Caiiro](https://open.spotify.com/artist/0fs9otT9TtwXUOcFXZomZY) | [Music is King 2019 Appreciation Mix \(DJ Mix\)](https://open.spotify.com/album/6ZNoVc15w0AyCOkwNhxHjW) | 6:49 |
+| 47 | [The Sapiens \(Original Mix\) \[Mixed\]](https://open.spotify.com/track/0g7DrfLCjrhogkP8cIAHm3) | [Caiiro](https://open.spotify.com/artist/0fs9otT9TtwXUOcFXZomZY) | [Music is King 2019 Appreciation Mix \(DJ Mix\)](https://open.spotify.com/album/6ZNoVc15w0AyCOkwNhxHjW) | 6:49 |
+| 48 | [Mind](https://open.spotify.com/track/5sfTya6OQoW2rDLKSVT2Qk) | [Fatima](https://open.spotify.com/artist/5uNCGgWH5Id1cW8kh9Sc67), [Floating Points](https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L) | [Follow You EP \(feat\. Floating Points\)](https://open.spotify.com/album/5dt7lQjyinjDt7y0a8tzmw) | 4:27 |
 | 49 | [Been A Long Night](https://open.spotify.com/track/6R1iUygNnqOmUBmMUsDM7I) | [Galcher Lustwerk](https://open.spotify.com/artist/1c7bxvBwJrMuZKwx4EDPHf) | [Information](https://open.spotify.com/album/5qMjQBgXiEDIoNFHatsaNA) | 4:32 |
 | 50 | [Frog Fractions](https://open.spotify.com/track/5IrQwd8F9oTkDNxSPrkJSy) | [Khotin](https://open.spotify.com/artist/0q2WkTHTEczNf8wNq6MBRk) | [New Tab](https://open.spotify.com/album/4sSEUm4dCycVP7EXTmd4SP) | 4:40 |
 
-Snapshot ID: `MCxkYTIwYWM1MmFjYTY0MTI1NWI0YWNjZDllNmNiNjExNjkyYWJlYWIx`
+Snapshot ID: `MCwxNWQ5MmNmYWYzYzMyZDM4ODA1ZmFhNjZjNjg2MDI0YmRkYzM2YjJm`

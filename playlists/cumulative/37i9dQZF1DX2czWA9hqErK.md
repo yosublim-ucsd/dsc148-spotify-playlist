@@ -4,7 +4,7 @@
 
 > Laid back sounds to see you through your day.
 
-576 songs - 1 day 8 hr 22 min
+577 songs - 1 day 8 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,7 +108,7 @@
 | [Circles](https://open.spotify.com/track/6NzE4VCzkOJqhvu50petzp) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [Circles](https://open.spotify.com/album/759nAWr8uZcHeW5klHVE7T) | 3:04 | 2022-04-04 | 2022-07-29 |
 | [closed doors](https://open.spotify.com/track/6SzZkHnTey3zSPZwSxP2wK) | [emie nathan](https://open.spotify.com/artist/6vFlOaLfKZPqqJuJ3YWhAB) | [closed doors](https://open.spotify.com/album/576Xi5hfuVniNkeLdIapkb) | 3:13 | 2022-03-25 | 2022-05-04 |
 | [closure](https://open.spotify.com/track/5iKyrrKFZ9zHbW0mpW18GA) | [Henry Moodie](https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5) | [closure](https://open.spotify.com/album/1r2rmgwbxAqt6qG6DWRpYy) | 3:03 | 2023-10-13 |  |
-| [Coffee Shop](https://open.spotify.com/track/40tZTQ47XEMg7KT61xAEOI) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [Coffee Shop](https://open.spotify.com/album/1jWqXdJ2EeP9CZvIfa3F9U) | 2:04 | 2023-06-30 |  |
+| [Coffee Shop](https://open.spotify.com/track/40tZTQ47XEMg7KT61xAEOI) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [Coffee Shop](https://open.spotify.com/album/1jWqXdJ2EeP9CZvIfa3F9U) | 2:04 | 2023-06-30 | 2023-12-03 |
 | [Cold Feet](https://open.spotify.com/track/2GkIiFzUqrWMsUOW0ZfI9t) | [BRÍET](https://open.spotify.com/artist/6opz1Ax3VqCmeQBGax1erx) | [Cold Feet](https://open.spotify.com/album/4ZKiqq00irRE5dCl8Uvv8a) | 3:42 | 2022-01-25 | 2022-07-26 |
 | [Colours Of You](https://open.spotify.com/track/7hjPM7rlZo3netjXWOZqcT) | [Baby Queen](https://open.spotify.com/artist/4VqlewwKZJoIcA88PYHUDd) | [Colours Of You](https://open.spotify.com/album/6VJe4cAIDoLXMbntuNpbO3) | 4:15 | 2022-05-31 | 2022-10-22 |
 | [Come On Over](https://open.spotify.com/track/5nIdoIyDQQOfT39DH0c5vc) | [Tadhg Daly](https://open.spotify.com/artist/59HyKDC9r5zpdyq5eraay1) | [Come On Over](https://open.spotify.com/album/2mEhOdeOpA8kaUjjUTtv5l) | 2:41 | 2021-12-16 | 2022-04-04 |
@@ -123,7 +123,7 @@
 | [cruel](https://open.spotify.com/track/05K6M63VAEG3GwfmKPbrOH) | [Aislin Evans](https://open.spotify.com/artist/3v5hwKzY8gS0nDAfT78Ydx) | [cruel](https://open.spotify.com/album/61FUBtPcOfc0kxrBJlBPmt) | 3:22 | 2022-01-17 | 2022-07-18 |
 | [Cry](https://open.spotify.com/track/0SXtIKwGuLlHJ7Q7gwo0Te) | [Kate McGill](https://open.spotify.com/artist/2zEASt0PHuI24e3JlAe17d) | [Cry](https://open.spotify.com/album/4zerSuxIYLWLemMPPC8Ivi) | 3:47 | 2021-12-16 | 2022-02-09 |
 | [Cut Me Out Your Photos](https://open.spotify.com/track/2JDu2WDRJxQrLVMCHXh3HY) | [Tamzene](https://open.spotify.com/artist/77YCAroJisD7uOECsiPcAL) | [Cut Me Out Your Photos](https://open.spotify.com/album/5xPuSqnIZdMXZIT1L3WBYU) | 2:48 | 2022-04-04 | 2023-08-02 |
-| [Dancing In The Courthouse](https://open.spotify.com/track/4ZwgD4frTwoDdOUsjyoqAJ) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Dancing In The Courthouse](https://open.spotify.com/album/6y1x1MUnhsqTIRkp6KpYkq) | 2:37 | 2023-04-14 |  |
+| [Dancing In The Courthouse](https://open.spotify.com/track/4ZwgD4frTwoDdOUsjyoqAJ) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Dancing In The Courthouse](https://open.spotify.com/album/6y1x1MUnhsqTIRkp6KpYkq) | 2:37 | 2023-04-14 | 2023-12-03 |
 | [Danger](https://open.spotify.com/track/1zAITH7C5UFYNE8DOFlE7h) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Danger](https://open.spotify.com/album/6jJup68OjU0nYjj6LWIsUj) | 2:55 | 2022-10-21 | 2023-06-17 |
 | [Dark Red](https://open.spotify.com/track/3EaJDYHA0KnX88JvDhL9oa) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Dark Red](https://open.spotify.com/album/7vrsFZNVhrriKh0SZKJW41) | 2:53 | 2022-10-21 | 2023-01-21 |
 | [Daylight](https://open.spotify.com/track/1odExI7RdWc4BT515LTAwj) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [Daylight](https://open.spotify.com/album/6NcI39WPu4kY6Tul11nhSv) | 3:32 | 2023-04-14 |  |
@@ -293,7 +293,7 @@
 | [justified](https://open.spotify.com/track/6IW4TUC3zHW4tpikDg1w7Y) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [justified](https://open.spotify.com/album/4d4qaLHCcfXzMbGa33Kpqg) | 3:00 | 2021-12-16 | 2022-03-26 |
 | [Kathleen](https://open.spotify.com/track/5GvYvRNu7aZREXorC4QgG5) | [Foxes](https://open.spotify.com/artist/7qRll6DYV06u2VuRPAVqug) | [Kathleen](https://open.spotify.com/album/033RgEECdDhMgQ643vJpoL) | 3:51 | 2021-12-16 | 2022-02-15 |
 | [Keep Me \- Acoustic](https://open.spotify.com/track/1ayOMuDEULRqZ4QYVwSNV7) | [Ashley Singh](https://open.spotify.com/artist/0W5v1wZ9vqtoIgklZa1wcH) | [Keep Me \(Acoustic\)](https://open.spotify.com/album/4tWmODeN8k30gu97ErsaJM) | 2:43 | 2021-12-16 | 2023-09-15 |
-| [Kissing In Swimming Pools](https://open.spotify.com/track/0JJh7LqfSiVfDrrDwcEQJL) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Paint My Bedroom Black](https://open.spotify.com/album/0o9lEiGZLsVcfTwl6z77oB) | 4:47 | 2023-10-24 | 2023-12-02 |
+| [Kissing In Swimming Pools](https://open.spotify.com/track/0JJh7LqfSiVfDrrDwcEQJL) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Paint My Bedroom Black](https://open.spotify.com/album/0o9lEiGZLsVcfTwl6z77oB) | 4:47 | 2023-10-24 |  |
 | [Know Me Again \(with Cate\)](https://open.spotify.com/track/503vjbISPH5hJbGpYOFAcN) | [Cian Ducrot](https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W), [Cate](https://open.spotify.com/artist/7D25zMq1tDmT0nfh6ieYph) | [Know Me Again \(with Cate\)](https://open.spotify.com/album/3W4GE7d5HHoLgctPM1c8A0) | 4:15 | 2021-12-16 | 2022-01-11 |
 | [labour](https://open.spotify.com/track/2Ggr9IfS70wYQacW8nZKPG) | [Paris Paloma](https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp) | [labour](https://open.spotify.com/album/4h7ERA3MzqEh9B3edziLAn) | 3:57 | 2023-03-28 | 2023-10-14 |
 | [Lady Kisses](https://open.spotify.com/track/48WdmKl5yJSHRyiYJ6lm3g) | [Chrissi](https://open.spotify.com/artist/6dKtberVRbUX3Azn8gt2mt) | [Lady Kisses](https://open.spotify.com/album/1IkLdBiaZQ1wLa40y2fNrw) | 2:48 | 2022-03-29 | 2022-04-21 |
@@ -488,6 +488,7 @@
 | [Superbloodmoon \(feat\. d4vd\)](https://open.spotify.com/track/4IhsInWIIjUg9Q04eqgnGl) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx), [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Superbloodmoon \(feat\. d4vd\)](https://open.spotify.com/album/27Dh0ZuhW6QrVAdtw4MV0I) | 2:31 | 2023-08-01 |  |
 | [Sweet Moment](https://open.spotify.com/track/3C29msNvApwxpOxhuqD2rX) | [Mackenzy Mackay](https://open.spotify.com/artist/28WNtilgFPn1mdz3h0FjHl) | [Sweet Moment](https://open.spotify.com/album/2nFkX9nkVdBdXvTSt1zXqL) | 2:07 | 2023-12-01 |  |
 | [Sweetest Human Being Alive](https://open.spotify.com/track/1zwplwLfK5H0D86lPYkxBG) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Gold Rush Kid](https://open.spotify.com/album/5RaDlk1pjOFSfcGDurH62z) | 3:45 | 2023-01-10 |  |
+| [Take Me Home, Country Roads](https://open.spotify.com/track/7qF0FfuzBFwMe1lNHkEDxW) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Take Me Home, Country Roads](https://open.spotify.com/album/5qDjtBY8cC4bO6wytuGOuT) | 2:46 | 2023-12-01 |  |
 | [Take My Hand](https://open.spotify.com/track/55OlGT0r7dPTNuBlZXOjeA) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [Take My Hand](https://open.spotify.com/album/6EHFU2wqSK47x1yZ93Lu7n) | 3:59 | 2022-04-04 | 2022-11-25 |
 | [Take My Hand](https://open.spotify.com/track/6euGVWSYUNW2e7jRjHr13M) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [BLENDER](https://open.spotify.com/album/5RWbbE6qM3kNDSNyXuNNXS) | 3:59 | 2022-10-21 | 2023-01-21 |
 | [Take My Heart](https://open.spotify.com/track/7i6ba4Pz9c6i0TnDKUmI7F) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [Take My Heart](https://open.spotify.com/album/1AqN9WyeYYPPLEvclp2xlI) | 4:18 | 2023-04-04 | 2023-06-20 |
