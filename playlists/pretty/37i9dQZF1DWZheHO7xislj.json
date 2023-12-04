@@ -1,12 +1,12 @@
 {
   "description": "Classic and new soul music for the perfect dinner.",
-  "num_followers": 138926,
+  "num_followers": 138942,
   "original_name": "Soulful Dinner",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MWYwYTBmZWQ0NDNhMTdhNzZmY2EzOTgzNDBjM2E2MzI1Y2I5MWEy",
+  "snapshot_id": "MCwzNjdlYjJlMzhmMGNjOWNmMWIyZWFmMDMzNGQ0MjM3ZjljNDg1MDMz",
   "tracks": [
     {
       "added_at": "2023-08-15 12:19:30",
@@ -683,22 +683,6 @@
     {
       "added_at": "2023-08-15 12:19:30",
       "album": {
-        "name": "Mary Wells Sings My Guy",
-        "url": "https://open.spotify.com/album/6pUoPt9A6P1G8YJ5vw6GBP"
-      },
-      "artists": [
-        {
-          "name": "Mary Wells",
-          "url": "https://open.spotify.com/artist/1cjZk1xXn3YCToNg3uJpA7"
-        }
-      ],
-      "duration_ms": 174440,
-      "name": "My Guy",
-      "url": "https://open.spotify.com/track/4591VqUIXysNlmI5NcAIUd"
-    },
-    {
-      "added_at": "2023-08-15 12:19:30",
-      "album": {
         "name": "I'm Still in Love with You",
         "url": "https://open.spotify.com/album/7hI0QCwcx9GB8MZK24IfTT"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 307062,
       "name": "Love and Happiness",
       "url": "https://open.spotify.com/track/6SMHgPgNkhe9lneNTbgtel"
+    },
+    {
+      "added_at": "2023-08-15 12:19:30",
+      "album": {
+        "name": "Mary Wells Sings My Guy",
+        "url": "https://open.spotify.com/album/6pUoPt9A6P1G8YJ5vw6GBP"
+      },
+      "artists": [
+        {
+          "name": "Mary Wells",
+          "url": "https://open.spotify.com/artist/1cjZk1xXn3YCToNg3uJpA7"
+        }
+      ],
+      "duration_ms": 174440,
+      "name": "My Guy",
+      "url": "https://open.spotify.com/track/4591VqUIXysNlmI5NcAIUd"
     },
     {
       "added_at": "2023-08-15 12:19:30",
@@ -731,6 +731,22 @@
     {
       "added_at": "2023-08-15 12:19:30",
       "album": {
+        "name": "Otis Blue: Otis Redding Sings Soul (Collector's Edition)",
+        "url": "https://open.spotify.com/album/68BCjMsHX4Gf11BJSkjwGz"
+      },
+      "artists": [
+        {
+          "name": "Otis Redding",
+          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
+        }
+      ],
+      "duration_ms": 181666,
+      "name": "I've Been Loving You Too Long",
+      "url": "https://open.spotify.com/track/4pdLyulbYLCrPmDzWWeJIZ"
+    },
+    {
+      "added_at": "2023-08-15 12:19:30",
+      "album": {
         "name": "Spinners",
         "url": "https://open.spotify.com/album/6QVemXFGMR4OLvlXvtQVjg"
       },
@@ -747,18 +763,18 @@
     {
       "added_at": "2023-08-15 12:19:30",
       "album": {
-        "name": "Otis Blue: Otis Redding Sings Soul (Collector's Edition)",
-        "url": "https://open.spotify.com/album/68BCjMsHX4Gf11BJSkjwGz"
+        "name": "Al Green Explores Your Mind",
+        "url": "https://open.spotify.com/album/2ss0g53nagKtGnoYjwo77Q"
       },
       "artists": [
         {
-          "name": "Otis Redding",
-          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
+          "name": "Al Green",
+          "url": "https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93"
         }
       ],
-      "duration_ms": 181666,
-      "name": "I've Been Loving You Too Long",
-      "url": "https://open.spotify.com/track/4pdLyulbYLCrPmDzWWeJIZ"
+      "duration_ms": 225373,
+      "name": "Take Me to the River",
+      "url": "https://open.spotify.com/track/62r1CS9zL1FL5Ilb7hLX7n"
     },
     {
       "added_at": "2023-08-15 12:19:30",
@@ -791,22 +807,6 @@
       "duration_ms": 194427,
       "name": "Who Is He (And What Is He to You)?",
       "url": "https://open.spotify.com/track/1KywyxekfDEp3Ym7YP7S25"
-    },
-    {
-      "added_at": "2023-08-15 12:19:30",
-      "album": {
-        "name": "Al Green Explores Your Mind",
-        "url": "https://open.spotify.com/album/2ss0g53nagKtGnoYjwo77Q"
-      },
-      "artists": [
-        {
-          "name": "Al Green",
-          "url": "https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93"
-        }
-      ],
-      "duration_ms": 225373,
-      "name": "Take Me to the River",
-      "url": "https://open.spotify.com/track/62r1CS9zL1FL5Ilb7hLX7n"
     },
     {
       "added_at": "2023-08-15 12:19:30",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2023-08-15 12:19:30",
       "album": {
-        "name": "Fugue State",
-        "url": "https://open.spotify.com/album/3DiHrdZ5z0AqW6JTpLAKxG"
-      },
-      "artists": [
-        {
-          "name": "Vulfpeck",
-          "url": "https://open.spotify.com/artist/7pXu47GoqSYRajmBCjxdD6"
-        }
-      ],
-      "duration_ms": 199639,
-      "name": "1612",
-      "url": "https://open.spotify.com/track/39rHfrVqCX6A55GF7uOZSC"
-    },
-    {
-      "added_at": "2023-08-15 12:19:30",
-      "album": {
         "name": "I Love The Way You Love",
         "url": "https://open.spotify.com/album/4dCm84vJLO30e0fiS3sgPi"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 165360,
       "name": "Comin' Home Baby",
       "url": "https://open.spotify.com/track/71tjsDvB4EMJqNG8EMmFnb"
+    },
+    {
+      "added_at": "2023-08-15 12:19:30",
+      "album": {
+        "name": "Fugue State",
+        "url": "https://open.spotify.com/album/3DiHrdZ5z0AqW6JTpLAKxG"
+      },
+      "artists": [
+        {
+          "name": "Vulfpeck",
+          "url": "https://open.spotify.com/artist/7pXu47GoqSYRajmBCjxdD6"
+        }
+      ],
+      "duration_ms": 199639,
+      "name": "1612",
+      "url": "https://open.spotify.com/track/39rHfrVqCX6A55GF7uOZSC"
     },
     {
       "added_at": "2023-08-15 12:19:30",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2023-08-15 12:19:30",
       "album": {
-        "name": "19",
-        "url": "https://open.spotify.com/album/59ULskOkBMij4zL8pS7mi0"
-      },
-      "artists": [
-        {
-          "name": "Adele",
-          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
-        }
-      ],
-      "duration_ms": 197346,
-      "name": "Right As Rain",
-      "url": "https://open.spotify.com/track/6oW04c2E7lebl09WHsBAWO"
-    },
-    {
-      "added_at": "2023-08-15 12:19:30",
-      "album": {
         "name": "Adventures In Paradise",
         "url": "https://open.spotify.com/album/0OoRiTZs9hsRz7KxB8JkSX"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 250866,
       "name": "Baby, This Love I Have",
       "url": "https://open.spotify.com/track/397fxHew7NyjryGWGr1Imy"
+    },
+    {
+      "added_at": "2023-08-15 12:19:30",
+      "album": {
+        "name": "19",
+        "url": "https://open.spotify.com/album/59ULskOkBMij4zL8pS7mi0"
+      },
+      "artists": [
+        {
+          "name": "Adele",
+          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
+        }
+      ],
+      "duration_ms": 197346,
+      "name": "Right As Rain",
+      "url": "https://open.spotify.com/track/6oW04c2E7lebl09WHsBAWO"
     },
     {
       "added_at": "2023-08-15 12:19:30",
@@ -1819,22 +1819,6 @@
     {
       "added_at": "2023-08-15 12:19:30",
       "album": {
-        "name": "Songs In A Minor",
-        "url": "https://open.spotify.com/album/5qUlPoDmNxCSzqVx81RDLJ"
-      },
-      "artists": [
-        {
-          "name": "Alicia Keys",
-          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
-        }
-      ],
-      "duration_ms": 237626,
-      "name": "How Come You Don't Call Me",
-      "url": "https://open.spotify.com/track/29cup7R0CQiUB1lj4Laq72"
-    },
-    {
-      "added_at": "2023-08-15 12:19:30",
-      "album": {
         "name": "Love Letters",
         "url": "https://open.spotify.com/album/7jfRBjUiIc9uUbdikDiUh6"
       },
@@ -1847,6 +1831,22 @@
       "duration_ms": 251986,
       "name": "Hercules",
       "url": "https://open.spotify.com/track/0GVurvfPLwv6sNXaqtxHWQ"
+    },
+    {
+      "added_at": "2023-08-15 12:19:30",
+      "album": {
+        "name": "Songs In A Minor",
+        "url": "https://open.spotify.com/album/5qUlPoDmNxCSzqVx81RDLJ"
+      },
+      "artists": [
+        {
+          "name": "Alicia Keys",
+          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
+        }
+      ],
+      "duration_ms": 237626,
+      "name": "How Come You Don't Call Me",
+      "url": "https://open.spotify.com/track/29cup7R0CQiUB1lj4Laq72"
     },
     {
       "added_at": "2023-08-15 12:19:30",
@@ -1883,6 +1883,22 @@
     {
       "added_at": "2023-08-15 12:19:30",
       "album": {
+        "name": "Stronger Than Pride",
+        "url": "https://open.spotify.com/album/2y7DbLcG7L5BNx1IkY1PoK"
+      },
+      "artists": [
+        {
+          "name": "Sade",
+          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
+        }
+      ],
+      "duration_ms": 262800,
+      "name": "Nothing Can Come Between Us",
+      "url": "https://open.spotify.com/track/2OtKvk9zsA9hbRJKMiyy3b"
+    },
+    {
+      "added_at": "2023-08-15 12:19:30",
+      "album": {
         "name": "The Way I See It",
         "url": "https://open.spotify.com/album/4pZGQstlWtYIPjDMX79HDB"
       },
@@ -1911,22 +1927,6 @@
       "duration_ms": 184466,
       "name": "Groove Me",
       "url": "https://open.spotify.com/track/0gtTfaz5zzbJA28Ypu7k0W"
-    },
-    {
-      "added_at": "2023-08-15 12:19:30",
-      "album": {
-        "name": "Stronger Than Pride",
-        "url": "https://open.spotify.com/album/2y7DbLcG7L5BNx1IkY1PoK"
-      },
-      "artists": [
-        {
-          "name": "Sade",
-          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
-        }
-      ],
-      "duration_ms": 262800,
-      "name": "Nothing Can Come Between Us",
-      "url": "https://open.spotify.com/track/2OtKvk9zsA9hbRJKMiyy3b"
     },
     {
       "added_at": "2023-08-15 12:19:30",
@@ -1995,6 +1995,22 @@
     {
       "added_at": "2023-08-15 12:19:30",
       "album": {
+        "name": "The Ultimate Collection",
+        "url": "https://open.spotify.com/album/3JYT9f8X9LOfpTzbKDWN4a"
+      },
+      "artists": [
+        {
+          "name": "Sade",
+          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
+        }
+      ],
+      "duration_ms": 265186,
+      "name": "The Sweetest Taboo - Remastered",
+      "url": "https://open.spotify.com/track/5SRvh35HZmN5bNe8iT4ST5"
+    },
+    {
+      "added_at": "2023-08-15 12:19:30",
+      "album": {
         "name": "Soul Messin'",
         "url": "https://open.spotify.com/album/5WPhlzl38yomyOqn5MNnMe"
       },
@@ -2015,22 +2031,6 @@
     {
       "added_at": "2023-08-15 12:19:30",
       "album": {
-        "name": "A Strange Arrangement",
-        "url": "https://open.spotify.com/album/0kI88dzVn3VuvjfNS2JElU"
-      },
-      "artists": [
-        {
-          "name": "Mayer Hawthorne",
-          "url": "https://open.spotify.com/artist/4d53BMrRlQkrQMz5d59f2O"
-        }
-      ],
-      "duration_ms": 150933,
-      "name": "Just Ain't Gonna Work Out",
-      "url": "https://open.spotify.com/track/6Tdkn9doJ1eiWLH2njMN5X"
-    },
-    {
-      "added_at": "2023-08-15 12:19:30",
-      "album": {
         "name": "Naturally",
         "url": "https://open.spotify.com/album/5io1OKXglvIexVDrBXxuF4"
       },
@@ -2047,22 +2047,6 @@
     {
       "added_at": "2023-08-15 12:19:30",
       "album": {
-        "name": "The Ultimate Collection",
-        "url": "https://open.spotify.com/album/3JYT9f8X9LOfpTzbKDWN4a"
-      },
-      "artists": [
-        {
-          "name": "Sade",
-          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
-        }
-      ],
-      "duration_ms": 265186,
-      "name": "The Sweetest Taboo - Remastered",
-      "url": "https://open.spotify.com/track/5SRvh35HZmN5bNe8iT4ST5"
-    },
-    {
-      "added_at": "2023-08-15 12:19:30",
-      "album": {
         "name": "Irma Thomas Collection: 1961-1966",
         "url": "https://open.spotify.com/album/3MhMYjRhAkiZ9F4GDkcpuy"
       },
@@ -2075,6 +2059,22 @@
       "duration_ms": 159733,
       "name": "Ruler Of My Heart",
       "url": "https://open.spotify.com/track/2W9cyvOHeC26mSy96802Kk"
+    },
+    {
+      "added_at": "2023-08-15 12:19:30",
+      "album": {
+        "name": "A Strange Arrangement",
+        "url": "https://open.spotify.com/album/0kI88dzVn3VuvjfNS2JElU"
+      },
+      "artists": [
+        {
+          "name": "Mayer Hawthorne",
+          "url": "https://open.spotify.com/artist/4d53BMrRlQkrQMz5d59f2O"
+        }
+      ],
+      "duration_ms": 150933,
+      "name": "Just Ain't Gonna Work Out",
+      "url": "https://open.spotify.com/track/6Tdkn9doJ1eiWLH2njMN5X"
     },
     {
       "added_at": "2023-08-15 12:19:30",
@@ -2251,22 +2251,6 @@
     {
       "added_at": "2023-08-15 12:19:30",
       "album": {
-        "name": "Stand By Your Man",
-        "url": "https://open.spotify.com/album/5FSETqzUj1EAlIVvPYmv5r"
-      },
-      "artists": [
-        {
-          "name": "Candi Staton",
-          "url": "https://open.spotify.com/artist/3S34Unhn5yRcaH5K9aU5Et"
-        }
-      ],
-      "duration_ms": 213026,
-      "name": "He Called Me Baby",
-      "url": "https://open.spotify.com/track/3zIiZrCROmhS9ERPdEHXYa"
-    },
-    {
-      "added_at": "2023-08-15 12:19:30",
-      "album": {
         "name": "Like a Ship (Without a Sail)",
         "url": "https://open.spotify.com/album/3NbIhR8hfscuwmD7MWBXpz"
       },
@@ -2279,6 +2263,22 @@
       "duration_ms": 278680,
       "name": "Like a Ship",
       "url": "https://open.spotify.com/track/4Oq0AUVncfWa2rD0idz6oV"
+    },
+    {
+      "added_at": "2023-08-15 12:19:30",
+      "album": {
+        "name": "Stand By Your Man",
+        "url": "https://open.spotify.com/album/5FSETqzUj1EAlIVvPYmv5r"
+      },
+      "artists": [
+        {
+          "name": "Candi Staton",
+          "url": "https://open.spotify.com/artist/3S34Unhn5yRcaH5K9aU5Et"
+        }
+      ],
+      "duration_ms": 213026,
+      "name": "He Called Me Baby",
+      "url": "https://open.spotify.com/track/3zIiZrCROmhS9ERPdEHXYa"
     },
     {
       "added_at": "2023-08-15 12:19:30",
@@ -2331,22 +2331,6 @@
     {
       "added_at": "2023-08-15 12:19:30",
       "album": {
-        "name": "Just Being Myself",
-        "url": "https://open.spotify.com/album/4Pusa4MZ3mEmXKOOWE9nFs"
-      },
-      "artists": [
-        {
-          "name": "Dionne Warwick",
-          "url": "https://open.spotify.com/artist/2JSjCHK79gdaiPWdKiNUNp"
-        }
-      ],
-      "duration_ms": 270200,
-      "name": "You're Gonna Need Me",
-      "url": "https://open.spotify.com/track/5ezYm2LkW25YhkkTp7bC9u"
-    },
-    {
-      "added_at": "2023-08-15 12:19:30",
-      "album": {
         "name": "I Can't Stand the Rain",
         "url": "https://open.spotify.com/album/67Sjm7EwrWbnnyojmhP4KL"
       },
@@ -2359,6 +2343,22 @@
       "duration_ms": 192893,
       "name": "Until You Came into My Life",
       "url": "https://open.spotify.com/track/2kyFN7sfxOgNLkxw66c1Ij"
+    },
+    {
+      "added_at": "2023-08-15 12:19:30",
+      "album": {
+        "name": "Just Being Myself",
+        "url": "https://open.spotify.com/album/4Pusa4MZ3mEmXKOOWE9nFs"
+      },
+      "artists": [
+        {
+          "name": "Dionne Warwick",
+          "url": "https://open.spotify.com/artist/2JSjCHK79gdaiPWdKiNUNp"
+        }
+      ],
+      "duration_ms": 270200,
+      "name": "You're Gonna Need Me",
+      "url": "https://open.spotify.com/track/5ezYm2LkW25YhkkTp7bC9u"
     },
     {
       "added_at": "2023-08-15 12:19:30",
@@ -2499,22 +2499,6 @@
     {
       "added_at": "2023-08-15 12:19:30",
       "album": {
-        "name": "Fancy",
-        "url": "https://open.spotify.com/album/10HnbWEJzWwVI7dhgnT6F6"
-      },
-      "artists": [
-        {
-          "name": "Bobbie Gentry",
-          "url": "https://open.spotify.com/artist/4E9w0bms6HcEppFlWjeW2d"
-        }
-      ],
-      "duration_ms": 258912,
-      "name": "Fancy",
-      "url": "https://open.spotify.com/track/6aarvZBVzYo3sp4NYOBqCp"
-    },
-    {
-      "added_at": "2023-08-15 12:19:30",
-      "album": {
         "name": "Hey, Love",
         "url": "https://open.spotify.com/album/3XW1kRGE11W8COttJYbCk9"
       },
@@ -2527,6 +2511,22 @@
       "duration_ms": 344560,
       "name": "I Am The Black Gold Of The Sun - Remastered",
       "url": "https://open.spotify.com/track/520qcJGrYM0HORZ5LsYg2K"
+    },
+    {
+      "added_at": "2023-08-15 12:19:30",
+      "album": {
+        "name": "Fancy",
+        "url": "https://open.spotify.com/album/10HnbWEJzWwVI7dhgnT6F6"
+      },
+      "artists": [
+        {
+          "name": "Bobbie Gentry",
+          "url": "https://open.spotify.com/artist/4E9w0bms6HcEppFlWjeW2d"
+        }
+      ],
+      "duration_ms": 258912,
+      "name": "Fancy",
+      "url": "https://open.spotify.com/track/6aarvZBVzYo3sp4NYOBqCp"
     },
     {
       "added_at": "2023-08-15 12:19:30",
@@ -2727,22 +2727,6 @@
     {
       "added_at": "2023-08-15 12:19:30",
       "album": {
-        "name": "Naked & Warm",
-        "url": "https://open.spotify.com/album/6Vw78flzzFEhn7CektCgMY"
-      },
-      "artists": [
-        {
-          "name": "Bill Withers",
-          "url": "https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj"
-        }
-      ],
-      "duration_ms": 644826,
-      "name": "City of the Angels",
-      "url": "https://open.spotify.com/track/7yokzOJMDlz8WdZz92j33G"
-    },
-    {
-      "added_at": "2023-08-15 12:19:30",
-      "album": {
         "name": "The Essential Patti LaBelle",
         "url": "https://open.spotify.com/album/2BTLvBugU9bxzrXZtnFjn3"
       },
@@ -2755,6 +2739,22 @@
       "duration_ms": 300120,
       "name": "Love, Need And Want You",
       "url": "https://open.spotify.com/track/5Ikg1hHVz53mrytVXGrztN"
+    },
+    {
+      "added_at": "2023-08-15 12:19:30",
+      "album": {
+        "name": "Naked & Warm",
+        "url": "https://open.spotify.com/album/6Vw78flzzFEhn7CektCgMY"
+      },
+      "artists": [
+        {
+          "name": "Bill Withers",
+          "url": "https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj"
+        }
+      ],
+      "duration_ms": 644826,
+      "name": "City of the Angels",
+      "url": "https://open.spotify.com/track/7yokzOJMDlz8WdZz92j33G"
     },
     {
       "added_at": "2023-08-15 12:19:30",
@@ -2855,22 +2855,6 @@
     {
       "added_at": "2023-08-15 12:19:30",
       "album": {
-        "name": "Marbles",
-        "url": "https://open.spotify.com/album/618uPUChbE55hBhZwJ4YKE"
-      },
-      "artists": [
-        {
-          "name": "Kris Berry",
-          "url": "https://open.spotify.com/artist/0IIPgITtEO4JJfipw57KGv"
-        }
-      ],
-      "duration_ms": 192226,
-      "name": "Crystal Ball (In the Cupboard)",
-      "url": "https://open.spotify.com/track/3um8vOZ8XxTeSvxHneXvgG"
-    },
-    {
-      "added_at": "2023-08-15 12:19:30",
-      "album": {
         "name": "The Best Of William Bell",
         "url": "https://open.spotify.com/album/3qOZr2tczUvMFciKLk6lzb"
       },
@@ -2887,6 +2871,22 @@
       "duration_ms": 160933,
       "name": "Private Number",
       "url": "https://open.spotify.com/track/0j0NJyTIMkozPchYkvGoOS"
+    },
+    {
+      "added_at": "2023-08-15 12:19:30",
+      "album": {
+        "name": "Marbles",
+        "url": "https://open.spotify.com/album/618uPUChbE55hBhZwJ4YKE"
+      },
+      "artists": [
+        {
+          "name": "Kris Berry",
+          "url": "https://open.spotify.com/artist/0IIPgITtEO4JJfipw57KGv"
+        }
+      ],
+      "duration_ms": 192226,
+      "name": "Crystal Ball (In the Cupboard)",
+      "url": "https://open.spotify.com/track/3um8vOZ8XxTeSvxHneXvgG"
     },
     {
       "added_at": "2023-08-15 12:19:30",
@@ -3059,22 +3059,6 @@
     {
       "added_at": "2023-08-15 12:19:30",
       "album": {
-        "name": "Beach Diggin', Vol. 3",
-        "url": "https://open.spotify.com/album/7mHNiS5p3EwV4iOzcLj9PU"
-      },
-      "artists": [
-        {
-          "name": "Bobbie Houston",
-          "url": "https://open.spotify.com/artist/4i975rT2vHNcwrOqEm6laa"
-        }
-      ],
-      "duration_ms": 186617,
-      "name": "I Want to Make It with You",
-      "url": "https://open.spotify.com/track/7egAxxDZTzwWUbLeTOY50e"
-    },
-    {
-      "added_at": "2023-08-15 12:19:30",
-      "album": {
         "name": "Loose Fit",
         "url": "https://open.spotify.com/album/50CjNUYxGgbXKVHkVQyGIZ"
       },
@@ -3087,6 +3071,22 @@
       "duration_ms": 175466,
       "name": "Traffic Jam",
       "url": "https://open.spotify.com/track/3cKMxZt3WTp0tIiF3j2rX3"
+    },
+    {
+      "added_at": "2023-08-15 12:19:30",
+      "album": {
+        "name": "Beach Diggin', Vol. 3",
+        "url": "https://open.spotify.com/album/7mHNiS5p3EwV4iOzcLj9PU"
+      },
+      "artists": [
+        {
+          "name": "Bobbie Houston",
+          "url": "https://open.spotify.com/artist/4i975rT2vHNcwrOqEm6laa"
+        }
+      ],
+      "duration_ms": 186617,
+      "name": "I Want to Make It with You",
+      "url": "https://open.spotify.com/track/7egAxxDZTzwWUbLeTOY50e"
     },
     {
       "added_at": "2023-08-15 12:19:30",
@@ -3247,22 +3247,6 @@
     {
       "added_at": "2023-08-15 12:19:30",
       "album": {
-        "name": "Soul Power",
-        "url": "https://open.spotify.com/album/1aLiavRsS14I7FDHVTvE40"
-      },
-      "artists": [
-        {
-          "name": "Curtis Harding",
-          "url": "https://open.spotify.com/artist/0CUpzKPDfIVzYqMn47jiV3"
-        }
-      ],
-      "duration_ms": 270325,
-      "name": "Next Time",
-      "url": "https://open.spotify.com/track/3aJ0bZfRxG7WxuYfEp5GxD"
-    },
-    {
-      "added_at": "2023-08-15 12:19:30",
-      "album": {
         "name": "Boss Man",
         "url": "https://open.spotify.com/album/3TJXaEUG0E8Tvex7tAzlCK"
       },
@@ -3275,6 +3259,22 @@
       "duration_ms": 190680,
       "name": "Have A Heart",
       "url": "https://open.spotify.com/track/3krDSP5K5hAKEIOXuxXXH2"
+    },
+    {
+      "added_at": "2023-08-15 12:19:30",
+      "album": {
+        "name": "Soul Power",
+        "url": "https://open.spotify.com/album/1aLiavRsS14I7FDHVTvE40"
+      },
+      "artists": [
+        {
+          "name": "Curtis Harding",
+          "url": "https://open.spotify.com/artist/0CUpzKPDfIVzYqMn47jiV3"
+        }
+      ],
+      "duration_ms": 270325,
+      "name": "Next Time",
+      "url": "https://open.spotify.com/track/3aJ0bZfRxG7WxuYfEp5GxD"
     },
     {
       "added_at": "2023-08-15 12:19:30",

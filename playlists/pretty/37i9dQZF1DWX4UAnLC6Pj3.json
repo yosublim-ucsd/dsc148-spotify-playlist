@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Los \u00e9xitos de banda que necesitas! Roberto Tapia y Grupo Marca Registrada en portada.",
-  "num_followers": 1144071,
+  "num_followers": 1144197,
   "original_name": "Banda 2023",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MGIzN2FiNDdkZWIxZDdjMGVhOGQ5ZTIyMDA2MjQwZDRmNGVhODM1",
+  "snapshot_id": "MCxlOGEyZWJhYzI2NTY0NzQ3NjZjZThiNjExMWFkNzUzZjhiZDEwN2U4",
   "tracks": [
     {
       "added_at": "2023-12-01 05:00:00",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "Tiempo Fuera",
-        "url": "https://open.spotify.com/album/3ofYz6uyOpKbp8DHnCefh3"
-      },
-      "artists": [
-        {
-          "name": "Nathan Galante",
-          "url": "https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB"
-        }
-      ],
-      "duration_ms": 198040,
-      "name": "Tiempo Fuera",
-      "url": "https://open.spotify.com/track/01gAbqtPWVRLzHKZjqbtwM"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
         "name": "Pa Que Se Me Quite Lo Cabr\u00f3n",
         "url": "https://open.spotify.com/album/2CRrebtUMFQMKDXqcMJLyW"
       },
@@ -1215,18 +1199,18 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "Para Ti Exclusivo (En Vivo Desde Arandas Jalisco)",
-        "url": "https://open.spotify.com/album/4xZFqokyvpfFKHkHlSeePO"
+        "name": "Tiempo Fuera",
+        "url": "https://open.spotify.com/album/3ofYz6uyOpKbp8DHnCefh3"
       },
       "artists": [
         {
-          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
-          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
+          "name": "Nathan Galante",
+          "url": "https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB"
         }
       ],
-      "duration_ms": 196360,
-      "name": "De Ti Exclusivo",
-      "url": "https://open.spotify.com/track/404MXA5pRTh93BrxPeGrQp"
+      "duration_ms": 198040,
+      "name": "Tiempo Fuera",
+      "url": "https://open.spotify.com/track/01gAbqtPWVRLzHKZjqbtwM"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -1243,6 +1227,22 @@
       "duration_ms": 180106,
       "name": "Prov\u00f3came",
       "url": "https://open.spotify.com/track/3wnpHn5p1XuiNSNOCJOCxs"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
+        "name": "Para Ti Exclusivo (En Vivo Desde Arandas Jalisco)",
+        "url": "https://open.spotify.com/album/4xZFqokyvpfFKHkHlSeePO"
+      },
+      "artists": [
+        {
+          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
+          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
+        }
+      ],
+      "duration_ms": 196360,
+      "name": "De Ti Exclusivo",
+      "url": "https://open.spotify.com/track/404MXA5pRTh93BrxPeGrQp"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -1303,26 +1303,6 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "Sue\u00f1os de Ni\u00f1o (En Vivo)",
-        "url": "https://open.spotify.com/album/6QeM5ysFgWsrZCnERu5hrP"
-      },
-      "artists": [
-        {
-          "name": "Los Alegres Del Barranco",
-          "url": "https://open.spotify.com/artist/2TSslwx9J30KElgEr68sdv"
-        },
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        }
-      ],
-      "duration_ms": 249121,
-      "name": "Sue\u00f1os de Ni\u00f1o (En Vivo)",
-      "url": "https://open.spotify.com/track/0ZFUm0cdR8IRqmbSCizos8"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
         "name": "Todo Depende de Ti (En Vivo)",
         "url": "https://open.spotify.com/album/6Uw8SR3sqcGD58x8PVvkn1"
       },
@@ -1339,6 +1319,26 @@
       "duration_ms": 209365,
       "name": "Todo Depende de Ti - En Vivo",
       "url": "https://open.spotify.com/track/5rSx6fcfJvoCqy6JHcLv7d"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
+        "name": "Sue\u00f1os de Ni\u00f1o (En Vivo)",
+        "url": "https://open.spotify.com/album/6QeM5ysFgWsrZCnERu5hrP"
+      },
+      "artists": [
+        {
+          "name": "Los Alegres Del Barranco",
+          "url": "https://open.spotify.com/artist/2TSslwx9J30KElgEr68sdv"
+        },
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        }
+      ],
+      "duration_ms": 249121,
+      "name": "Sue\u00f1os de Ni\u00f1o (En Vivo)",
+      "url": "https://open.spotify.com/track/0ZFUm0cdR8IRqmbSCizos8"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -1471,6 +1471,22 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
+        "name": "Soltero Para Rato",
+        "url": "https://open.spotify.com/album/12LwolaVdtNRJfUpXU84RZ"
+      },
+      "artists": [
+        {
+          "name": "Banda Los Sebastianes De Sa\u00fal Plata",
+          "url": "https://open.spotify.com/artist/2XTrqe2RU5niqO0RNA6Zct"
+        }
+      ],
+      "duration_ms": 189506,
+      "name": "Soltero Para Rato",
+      "url": "https://open.spotify.com/track/12or4TvmDjzEg05ZYGt0to"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
         "name": "Amor Clandestino",
         "url": "https://open.spotify.com/album/7yjF8BA8QCEg6w5zcklYLA"
       },
@@ -1487,22 +1503,6 @@
       "duration_ms": 227696,
       "name": "Amor Clandestino - Versi\u00f3n Regional Mexicano",
       "url": "https://open.spotify.com/track/5qZaNA8FPzxPEtOaRj9zeY"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
-        "name": "Soltero Para Rato",
-        "url": "https://open.spotify.com/album/12LwolaVdtNRJfUpXU84RZ"
-      },
-      "artists": [
-        {
-          "name": "Banda Los Sebastianes De Sa\u00fal Plata",
-          "url": "https://open.spotify.com/artist/2XTrqe2RU5niqO0RNA6Zct"
-        }
-      ],
-      "duration_ms": 189506,
-      "name": "Soltero Para Rato",
-      "url": "https://open.spotify.com/track/12or4TvmDjzEg05ZYGt0to"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -1627,22 +1627,6 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "Las Preferidas, Vol. 5 (En vivo)",
-        "url": "https://open.spotify.com/album/6ERihYOfcsvTucjGuBXuI7"
-      },
-      "artists": [
-        {
-          "name": "Marca MP",
-          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
-        }
-      ],
-      "duration_ms": 245183,
-      "name": "Due\u00f1o De Ti - En vivo",
-      "url": "https://open.spotify.com/track/0QAxYBIRvhno4Fiv47pKDU"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
         "name": "Te Quiero Mil",
         "url": "https://open.spotify.com/album/1lj9LmpujBYxwvM5IOvwBc"
       },
@@ -1655,6 +1639,22 @@
       "duration_ms": 183986,
       "name": "Te Quiero Mil",
       "url": "https://open.spotify.com/track/741g3I9tKBq0GHEx0up03Z"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
+        "name": "Las Preferidas, Vol. 5 (En vivo)",
+        "url": "https://open.spotify.com/album/6ERihYOfcsvTucjGuBXuI7"
+      },
+      "artists": [
+        {
+          "name": "Marca MP",
+          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
+        }
+      ],
+      "duration_ms": 245183,
+      "name": "Due\u00f1o De Ti - En vivo",
+      "url": "https://open.spotify.com/track/0QAxYBIRvhno4Fiv47pKDU"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -1723,22 +1723,6 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "No Es Cierto Que Nunca Te Quise",
-        "url": "https://open.spotify.com/album/62ROzJk7dyyExvGQXJZats"
-      },
-      "artists": [
-        {
-          "name": "Banda Peque\u00f1os Musical",
-          "url": "https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE"
-        }
-      ],
-      "duration_ms": 140063,
-      "name": "No Es Cierto Que Nunca Te Quise",
-      "url": "https://open.spotify.com/track/7zA3aIGMcvxEtW45H12w0E"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
         "name": "Si Esta Botella Hablara",
         "url": "https://open.spotify.com/album/098L2b6zmrDW8PX9LRq88o"
       },
@@ -1755,6 +1739,22 @@
       "duration_ms": 188511,
       "name": "Si Esta Botella Hablara",
       "url": "https://open.spotify.com/track/3KMqPVzCOTcDAy5cGBEv5N"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
+        "name": "No Es Cierto Que Nunca Te Quise",
+        "url": "https://open.spotify.com/album/62ROzJk7dyyExvGQXJZats"
+      },
+      "artists": [
+        {
+          "name": "Banda Peque\u00f1os Musical",
+          "url": "https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE"
+        }
+      ],
+      "duration_ms": 140063,
+      "name": "No Es Cierto Que Nunca Te Quise",
+      "url": "https://open.spotify.com/track/7zA3aIGMcvxEtW45H12w0E"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -1971,22 +1971,6 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "Me Vas A Comparar",
-        "url": "https://open.spotify.com/album/6bb5iifYSqMDuIcDMU3Sxi"
-      },
-      "artists": [
-        {
-          "name": "Jorge Medina",
-          "url": "https://open.spotify.com/artist/4uZP9vHYfFu3DW9ywwtLpf"
-        }
-      ],
-      "duration_ms": 207453,
-      "name": "Me Vas A Comparar",
-      "url": "https://open.spotify.com/track/2qp7K5TngemNXJWOw41nxa"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
         "name": "Voy Pa\u2019Arriba Y Con Viada",
         "url": "https://open.spotify.com/album/3CPelQDAucCTS0qDJllAHB"
       },
@@ -1999,6 +1983,22 @@
       "duration_ms": 176146,
       "name": "Voy Pa\u2019Arriba Y Con Viada",
       "url": "https://open.spotify.com/track/3Ci2QXttB3371jfqJcmJcJ"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
+        "name": "Me Vas A Comparar",
+        "url": "https://open.spotify.com/album/6bb5iifYSqMDuIcDMU3Sxi"
+      },
+      "artists": [
+        {
+          "name": "Jorge Medina",
+          "url": "https://open.spotify.com/artist/4uZP9vHYfFu3DW9ywwtLpf"
+        }
+      ],
+      "duration_ms": 207453,
+      "name": "Me Vas A Comparar",
+      "url": "https://open.spotify.com/track/2qp7K5TngemNXJWOw41nxa"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -2091,6 +2091,22 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
+        "name": "Hecho En M\u00e9xico\u2026M\u00e1gico",
+        "url": "https://open.spotify.com/album/4umhJQSX5KHfnoSpqgjbLv"
+      },
+      "artists": [
+        {
+          "name": "Banda El Recodo",
+          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
+        }
+      ],
+      "duration_ms": 423653,
+      "name": "Popurr\u00ed Al Divo (La Diferencia, Si Quieres, Mi Fracaso)",
+      "url": "https://open.spotify.com/track/4qMT2GDBi1r5u2JPQTmT6f"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
         "name": "Las Edades (En Vivo)",
         "url": "https://open.spotify.com/album/6B8h0NCYvt8pu1zn17rZKF"
       },
@@ -2155,22 +2171,6 @@
       "duration_ms": 175090,
       "name": "24/7 Dolido",
       "url": "https://open.spotify.com/track/1jt49y7J8bwMhXpvo3wbvO"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
-        "name": "Hecho En M\u00e9xico\u2026M\u00e1gico",
-        "url": "https://open.spotify.com/album/4umhJQSX5KHfnoSpqgjbLv"
-      },
-      "artists": [
-        {
-          "name": "Banda El Recodo",
-          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
-        }
-      ],
-      "duration_ms": 423653,
-      "name": "Popurr\u00ed Al Divo (La Diferencia, Si Quieres, Mi Fracaso)",
-      "url": "https://open.spotify.com/track/4qMT2GDBi1r5u2JPQTmT6f"
     },
     {
       "added_at": "2023-12-01 05:00:00",

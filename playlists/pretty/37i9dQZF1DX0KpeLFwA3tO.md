@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 
 > The best new music from the wide world of punk\. Cover: Alkaline Trio
 
-[Spotify](https://open.spotify.com/user/spotify) - 298,096 likes - 100 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 298,129 likes - 100 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 | 99 | [DANCE WITH ME](https://open.spotify.com/track/0FnuaL9AcJxAdzwGPcIHVr) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [DANCE WITH ME](https://open.spotify.com/album/3Uo59FndkcDDp0H7k9yJmh) | 3:08 |
 | 100 | [THE OUTSIDE \- OUTSIDERS VERSION](https://open.spotify.com/track/4iGlMhSSuRHUlNAknDjvT8) | [BOYS LIKE GIRLS](https://open.spotify.com/artist/0vWCyXMrrvMlCcepuOJaGI), [3OH!3](https://open.spotify.com/artist/0FWzNDaEu9jdgcYTbcOa4F), [State Champs](https://open.spotify.com/artist/1qqdO7xMptucPDMopsOdkr), [The Summer Set](https://open.spotify.com/artist/0pwyD6DhbFWn8uVSz2Fr0w), [The Ready Set](https://open.spotify.com/artist/2eRJjYEaWyGZbOBGYFLBoC) | [THE OUTSIDE \(OUTSIDERS VERSION\)](https://open.spotify.com/album/14kvTa7vi9xBLZqg6lc1Km) | 4:04 |
 
-Snapshot ID: `MCwzM2JiY2MyNDg1ZjUzNzczMmUzYzk0MGVlYjI1NDcyMzhlZmRjNDlm`
+Snapshot ID: `MCxhMzcxYzE0OGJmOTFmNzY2ZjBlODVmMmRkYmQ2NDg3ZTkzOWRmY2Fk`

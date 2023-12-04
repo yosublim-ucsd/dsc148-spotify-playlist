@@ -1,12 +1,12 @@
 {
   "description": "The biggest pop hits to come from the land down under.",
-  "num_followers": 67037,
+  "num_followers": 67041,
   "original_name": "Aussie Pop Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNTNmMjUyOTVmNTgyOWMyOGU3ZGY3MDU3ZmY3ZTA4ZTBhMjAwYTBh",
+  "snapshot_id": "MCw1NzI1ODQzZjg5ZTliNmFiZjQxODAwYzNlYzg5NTUxMDllYWFhYmFi",
   "tracks": [
     {
       "added_at": "2022-04-18 02:03:22",
@@ -287,22 +287,6 @@
     {
       "added_at": "2022-04-18 02:03:22",
       "album": {
-        "name": "This Is Acting (Deluxe Version)",
-        "url": "https://open.spotify.com/album/2eV6DIPDnGl1idcjww6xyX"
-      },
-      "artists": [
-        {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
-        }
-      ],
-      "duration_ms": 211666,
-      "name": "Cheap Thrills",
-      "url": "https://open.spotify.com/track/3S4px9f4lceWdKf0gWciFu"
-    },
-    {
-      "added_at": "2022-04-18 02:03:22",
-      "album": {
         "name": "Skin",
         "url": "https://open.spotify.com/album/4NZWRpoMuXaHU7csTjWdB5"
       },
@@ -319,6 +303,22 @@
       "duration_ms": 234909,
       "name": "Never Be Like You (feat. Kai)",
       "url": "https://open.spotify.com/track/5WI2ltQIdwgzf1SNE76JyR"
+    },
+    {
+      "added_at": "2022-04-18 02:03:22",
+      "album": {
+        "name": "This Is Acting (Deluxe Version)",
+        "url": "https://open.spotify.com/album/2eV6DIPDnGl1idcjww6xyX"
+      },
+      "artists": [
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        }
+      ],
+      "duration_ms": 211666,
+      "name": "Cheap Thrills",
+      "url": "https://open.spotify.com/track/3S4px9f4lceWdKf0gWciFu"
     },
     {
       "added_at": "2022-04-18 02:03:22",
@@ -407,6 +407,22 @@
     {
       "added_at": "2022-04-18 02:03:22",
       "album": {
+        "name": "1000 Forms Of Fear (Deluxe Version)",
+        "url": "https://open.spotify.com/album/6FdNvoO5sF4EKwCX9je1MH"
+      },
+      "artists": [
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        }
+      ],
+      "duration_ms": 257200,
+      "name": "Elastic Heart",
+      "url": "https://open.spotify.com/track/5S9lfZu1YF8xKkgSsqL2Bd"
+    },
+    {
+      "added_at": "2022-04-18 02:03:22",
+      "album": {
         "name": "Surfers Paradise (Expanded)",
         "url": "https://open.spotify.com/album/5oQFHp1OcYC9eHYTG84vAH"
       },
@@ -451,22 +467,6 @@
       "duration_ms": 204726,
       "name": "My My My!",
       "url": "https://open.spotify.com/track/4NiehSBQthimPzRsVeOgCT"
-    },
-    {
-      "added_at": "2022-04-18 02:03:22",
-      "album": {
-        "name": "1000 Forms Of Fear (Deluxe Version)",
-        "url": "https://open.spotify.com/album/6FdNvoO5sF4EKwCX9je1MH"
-      },
-      "artists": [
-        {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
-        }
-      ],
-      "duration_ms": 257200,
-      "name": "Elastic Heart",
-      "url": "https://open.spotify.com/track/5S9lfZu1YF8xKkgSsqL2Bd"
     },
     {
       "added_at": "2022-04-18 02:03:22",
@@ -535,22 +535,6 @@
     {
       "added_at": "2022-04-18 02:03:22",
       "album": {
-        "name": "Blue Neighbourhood (Deluxe)",
-        "url": "https://open.spotify.com/album/5ouTDazE4LF9bVJPx1nlgW"
-      },
-      "artists": [
-        {
-          "name": "Troye Sivan",
-          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
-        }
-      ],
-      "duration_ms": 185194,
-      "name": "YOUTH",
-      "url": "https://open.spotify.com/track/1cOyWWUr3oXJIxY0AjJEx9"
-    },
-    {
-      "added_at": "2022-04-18 02:03:22",
-      "album": {
         "name": "Divinyls",
         "url": "https://open.spotify.com/album/50bQGJWB4VoD1GY3c4vYbv"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 227640,
       "name": "I Touch Myself",
       "url": "https://open.spotify.com/track/6oNvmplQGUkmAh441Teows"
+    },
+    {
+      "added_at": "2022-04-18 02:03:22",
+      "album": {
+        "name": "Blue Neighbourhood (Deluxe)",
+        "url": "https://open.spotify.com/album/5ouTDazE4LF9bVJPx1nlgW"
+      },
+      "artists": [
+        {
+          "name": "Troye Sivan",
+          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
+        }
+      ],
+      "duration_ms": 185194,
+      "name": "YOUTH",
+      "url": "https://open.spotify.com/track/1cOyWWUr3oXJIxY0AjJEx9"
     },
     {
       "added_at": "2022-04-18 02:03:22",

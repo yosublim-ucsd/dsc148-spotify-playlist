@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 685856,
+  "num_followers": 685849,
   "original_name": "PARTY MODE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZDAzOTE0MDI2NWE5YjY0YTZjMzU5NDBjNmI5NTdlOGJmMTBiN2M4",
+  "snapshot_id": "MCw4YjgxYmE0NzQ0ODQ5ZmE5NDllZjlkYjE0NWYzMmFhZDJjZDViMmYw",
   "tracks": [
     {
       "added_at": "2023-11-10 00:01:00",
@@ -1167,22 +1167,18 @@
     {
       "added_at": "2023-11-10 00:01:00",
       "album": {
-        "name": "Motown Philly",
-        "url": "https://open.spotify.com/album/2Rb5KdeDt7P1WASorfVR46"
+        "name": "Settle (Deluxe)",
+        "url": "https://open.spotify.com/album/1lM5IfaqcIsXd6UCV3aDSs"
       },
       "artists": [
         {
-          "name": "Shermanology",
-          "url": "https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI"
-        },
-        {
-          "name": "Boyz II Men",
-          "url": "https://open.spotify.com/artist/6O74knDqdv3XaWtkII7Xjp"
+          "name": "Disclosure",
+          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
         }
       ],
-      "duration_ms": 158140,
-      "name": "Motown Philly",
-      "url": "https://open.spotify.com/track/07Jkr2QHuoVGBLVhZNpRFl"
+      "duration_ms": 284026,
+      "name": "When A Fire Starts To Burn",
+      "url": "https://open.spotify.com/track/7qVLZuvzNjyiy3TVtEBwBE"
     },
     {
       "added_at": "2023-11-10 00:01:00",
@@ -1203,18 +1199,22 @@
     {
       "added_at": "2023-11-10 00:01:00",
       "album": {
-        "name": "Settle (Deluxe)",
-        "url": "https://open.spotify.com/album/1lM5IfaqcIsXd6UCV3aDSs"
+        "name": "Motown Philly",
+        "url": "https://open.spotify.com/album/2Rb5KdeDt7P1WASorfVR46"
       },
       "artists": [
         {
-          "name": "Disclosure",
-          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
+          "name": "Shermanology",
+          "url": "https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI"
+        },
+        {
+          "name": "Boyz II Men",
+          "url": "https://open.spotify.com/artist/6O74knDqdv3XaWtkII7Xjp"
         }
       ],
-      "duration_ms": 284026,
-      "name": "When A Fire Starts To Burn",
-      "url": "https://open.spotify.com/track/7qVLZuvzNjyiy3TVtEBwBE"
+      "duration_ms": 158140,
+      "name": "Motown Philly",
+      "url": "https://open.spotify.com/track/07Jkr2QHuoVGBLVhZNpRFl"
     },
     {
       "added_at": "2023-11-10 00:01:00",
@@ -1483,6 +1483,30 @@
     {
       "added_at": "2023-11-10 00:01:00",
       "album": {
+        "name": "Ascending Into The Clouds (feat. Elisabeth Troy) [Edit]",
+        "url": "https://open.spotify.com/album/6RkAmdnqMxodcx6t6dKg5K"
+      },
+      "artists": [
+        {
+          "name": "Tiga",
+          "url": "https://open.spotify.com/artist/5l9wiTZVfqQTfMDOt0HtwC"
+        },
+        {
+          "name": "Hudson Mohawke",
+          "url": "https://open.spotify.com/artist/6olWbKW2VLhFCHfOi0iEDb"
+        },
+        {
+          "name": "Elisabeth Troy",
+          "url": "https://open.spotify.com/artist/2PWJP6HKlECQurewX1uGuT"
+        }
+      ],
+      "duration_ms": 208217,
+      "name": "Ascending Into The Clouds (feat. Elisabeth Troy) - Edit",
+      "url": "https://open.spotify.com/track/5dlwxxHd9RNBPP3PwlLZgB"
+    },
+    {
+      "added_at": "2023-11-10 00:01:00",
+      "album": {
         "name": "Love Again",
         "url": "https://open.spotify.com/album/1nE53MrFK1xt3AYvKdwpQZ"
       },
@@ -1527,26 +1551,18 @@
     {
       "added_at": "2023-11-10 00:01:00",
       "album": {
-        "name": "Ascending Into The Clouds (feat. Elisabeth Troy) [Edit]",
-        "url": "https://open.spotify.com/album/6RkAmdnqMxodcx6t6dKg5K"
+        "name": "Somebody To Love",
+        "url": "https://open.spotify.com/album/6mWlw6oGjrIBh9ng0L9bim"
       },
       "artists": [
         {
-          "name": "Tiga",
-          "url": "https://open.spotify.com/artist/5l9wiTZVfqQTfMDOt0HtwC"
-        },
-        {
-          "name": "Hudson Mohawke",
-          "url": "https://open.spotify.com/artist/6olWbKW2VLhFCHfOi0iEDb"
-        },
-        {
-          "name": "Elisabeth Troy",
-          "url": "https://open.spotify.com/artist/2PWJP6HKlECQurewX1uGuT"
+          "name": "Ben Kim",
+          "url": "https://open.spotify.com/artist/0quOpHBDwcOmM5B9V3TPpL"
         }
       ],
-      "duration_ms": 208217,
-      "name": "Ascending Into The Clouds (feat. Elisabeth Troy) - Edit",
-      "url": "https://open.spotify.com/track/5dlwxxHd9RNBPP3PwlLZgB"
+      "duration_ms": 159375,
+      "name": "Somebody To Love",
+      "url": "https://open.spotify.com/track/6hzWWZjqHcoI2KIWpldo9v"
     },
     {
       "added_at": "2023-11-10 00:01:00",
@@ -1563,22 +1579,6 @@
       "duration_ms": 153412,
       "name": "Better Off Alone",
       "url": "https://open.spotify.com/track/7GxgdE0yni4IKu8DSg5ibQ"
-    },
-    {
-      "added_at": "2023-11-10 00:01:00",
-      "album": {
-        "name": "Somebody To Love",
-        "url": "https://open.spotify.com/album/6mWlw6oGjrIBh9ng0L9bim"
-      },
-      "artists": [
-        {
-          "name": "Ben Kim",
-          "url": "https://open.spotify.com/artist/0quOpHBDwcOmM5B9V3TPpL"
-        }
-      ],
-      "duration_ms": 159375,
-      "name": "Somebody To Love",
-      "url": "https://open.spotify.com/track/6hzWWZjqHcoI2KIWpldo9v"
     },
     {
       "added_at": "2023-11-10 00:01:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18vEkgMAyAR.md) - [plain]
 
 > Your everyday pick\-me\-up playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,938 likes - 60 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,971 likes - 60 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18vEkgMAyAR.md) - [plain]
 | 59 | [Oh My Soul \(Bloukaas Remix\)](https://open.spotify.com/track/6MpScQlifniy57CFLOxOCC) | [Kurt Darren](https://open.spotify.com/artist/3fFoaTI85WuaVkSMUxeYRd) | [Oh My Soul \(Bloukaas Remix\)](https://open.spotify.com/album/0lLLTsyd0ix7BXFJYuhDrs) | 4:20 |
 | 60 | ['Til I Found You](https://open.spotify.com/track/0LcCeKrpFTzqKrTAzNFIHo) | [Jeremy Loops](https://open.spotify.com/artist/0Dct2Gu0qEbgGRjfaxew8g) | [‘Til I Found You](https://open.spotify.com/album/1Vk4CueKjarGcPSoWX8DUE) | 2:52 |
 
-Snapshot ID: `MCxkYzhhZGE1ODE1OTZiYTYzOGE0NjM3NjU0MjczOTdhOGY4ZGUwMzg4`
+Snapshot ID: `MCxmOWY4MWNmMzBlZjAyYjY1YjAxNjMyZTJiMWQyZmFmZGI4M2FlMzA4`

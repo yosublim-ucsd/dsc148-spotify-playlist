@@ -1,12 +1,12 @@
 {
   "description": "Escucha lo mejor del pop electr\u00f3nico en espa\u00f1ol.",
-  "num_followers": 23800,
+  "num_followers": 23807,
   "original_name": "ElectroPop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhYTBjYzVjZWE0NzYwMzYwNjkyMDZlNmQ1NWIyZTRjYzY1YjUwZDA5",
+  "snapshot_id": "MCw2ZTJkYjRjYTQ4OWM3YzcxZmVmMmI3ODA4ZmI2ZDljOTIyMzdkODli",
   "tracks": [
     {
       "added_at": "2023-12-01 03:00:00",
@@ -547,22 +547,18 @@
     {
       "added_at": "2023-12-01 03:00:00",
       "album": {
-        "name": "Dejarte Estar (Pyura Remix)",
-        "url": "https://open.spotify.com/album/12S0HzVMapdyKJ7WCkevpD"
+        "name": "Borracha en un Ba\u00f1o Ajeno",
+        "url": "https://open.spotify.com/album/4OTw7mFzyL9pKgNXOMd4EG"
       },
       "artists": [
         {
-          "name": "El Zar",
-          "url": "https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi"
-        },
-        {
-          "name": "Pyura",
-          "url": "https://open.spotify.com/artist/77cMdN9JK8HlrCtHdPKSHi"
+          "name": "Juliana Gattas",
+          "url": "https://open.spotify.com/artist/4beHLf0L7m2eBwhyifF9Kn"
         }
       ],
-      "duration_ms": 175804,
-      "name": "Dejarte Estar (Pyura Remix)",
-      "url": "https://open.spotify.com/track/4HdaqE9B6ljQefhcVMy2bo"
+      "duration_ms": 240531,
+      "name": "Borracha en un Ba\u00f1o Ajeno",
+      "url": "https://open.spotify.com/track/7Mvra8PCttugZU8ZqoMkZS"
     },
     {
       "added_at": "2023-12-01 03:00:00",
@@ -583,6 +579,26 @@
       "duration_ms": 154737,
       "name": "PARA AFUERA",
       "url": "https://open.spotify.com/track/6d0vMjFXHK2GkM7DOnwL5h"
+    },
+    {
+      "added_at": "2023-12-01 03:00:00",
+      "album": {
+        "name": "Dejarte Estar (Pyura Remix)",
+        "url": "https://open.spotify.com/album/12S0HzVMapdyKJ7WCkevpD"
+      },
+      "artists": [
+        {
+          "name": "El Zar",
+          "url": "https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi"
+        },
+        {
+          "name": "Pyura",
+          "url": "https://open.spotify.com/artist/77cMdN9JK8HlrCtHdPKSHi"
+        }
+      ],
+      "duration_ms": 175804,
+      "name": "Dejarte Estar (Pyura Remix)",
+      "url": "https://open.spotify.com/track/4HdaqE9B6ljQefhcVMy2bo"
     },
     {
       "added_at": "2023-12-01 03:00:00",
@@ -639,22 +655,6 @@
     {
       "added_at": "2023-12-01 03:00:00",
       "album": {
-        "name": "MAL NECESARIO",
-        "url": "https://open.spotify.com/album/2N7E8e5LmRFUv7yRnYazyB"
-      },
-      "artists": [
-        {
-          "name": "Anto Segovia",
-          "url": "https://open.spotify.com/artist/3ZDlV4860jpcqhmIincWHF"
-        }
-      ],
-      "duration_ms": 174826,
-      "name": "MAL NECESARIO",
-      "url": "https://open.spotify.com/track/55M73tEx2Db51y2hXvkaY9"
-    },
-    {
-      "added_at": "2023-12-01 03:00:00",
-      "album": {
         "name": "la noche de ayer",
         "url": "https://open.spotify.com/album/4e31Xo3NfTRxm9TdVgw4DR"
       },
@@ -667,6 +667,22 @@
       "duration_ms": 255591,
       "name": "la noche de ayer",
       "url": "https://open.spotify.com/track/7aSmfvPckOTRr0AJ3rmCCF"
+    },
+    {
+      "added_at": "2023-12-01 03:00:00",
+      "album": {
+        "name": "MAL NECESARIO",
+        "url": "https://open.spotify.com/album/2N7E8e5LmRFUv7yRnYazyB"
+      },
+      "artists": [
+        {
+          "name": "Anto Segovia",
+          "url": "https://open.spotify.com/artist/3ZDlV4860jpcqhmIincWHF"
+        }
+      ],
+      "duration_ms": 174826,
+      "name": "MAL NECESARIO",
+      "url": "https://open.spotify.com/track/55M73tEx2Db51y2hXvkaY9"
     },
     {
       "added_at": "2023-12-01 03:00:00",
@@ -687,22 +703,6 @@
       "duration_ms": 172500,
       "name": "Espantap\u00e1jaros",
       "url": "https://open.spotify.com/track/3FTM8opz8X75WNvaXIRtQJ"
-    },
-    {
-      "added_at": "2023-12-01 03:00:00",
-      "album": {
-        "name": "Borracha en un Ba\u00f1o Ajeno",
-        "url": "https://open.spotify.com/album/4OTw7mFzyL9pKgNXOMd4EG"
-      },
-      "artists": [
-        {
-          "name": "Juliana Gattas",
-          "url": "https://open.spotify.com/artist/4beHLf0L7m2eBwhyifF9Kn"
-        }
-      ],
-      "duration_ms": 240531,
-      "name": "Borracha en un Ba\u00f1o Ajeno",
-      "url": "https://open.spotify.com/track/7Mvra8PCttugZU8ZqoMkZS"
     },
     {
       "added_at": "2023-12-01 03:00:00",
@@ -923,22 +923,6 @@
     {
       "added_at": "2023-12-01 03:00:00",
       "album": {
-        "name": "Des",
-        "url": "https://open.spotify.com/album/0aNPqbzj34bIvcshvWSZLX"
-      },
-      "artists": [
-        {
-          "name": "Un Planeta",
-          "url": "https://open.spotify.com/artist/3lk6Afqeq4ST8Yz15OkOHE"
-        }
-      ],
-      "duration_ms": 225550,
-      "name": "Arriba",
-      "url": "https://open.spotify.com/track/3fD9K7rYQJi0IDozmqpGYp"
-    },
-    {
-      "added_at": "2023-12-01 03:00:00",
-      "album": {
         "name": "Desaparecer",
         "url": "https://open.spotify.com/album/0yuO4ugzCbvXyyJLSfLHqh"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 260000,
       "name": "Desaparecer",
       "url": "https://open.spotify.com/track/1mbA8WPUU8vUQzjyULTTCd"
+    },
+    {
+      "added_at": "2023-12-01 03:00:00",
+      "album": {
+        "name": "Des",
+        "url": "https://open.spotify.com/album/0aNPqbzj34bIvcshvWSZLX"
+      },
+      "artists": [
+        {
+          "name": "Un Planeta",
+          "url": "https://open.spotify.com/artist/3lk6Afqeq4ST8Yz15OkOHE"
+        }
+      ],
+      "duration_ms": 225550,
+      "name": "Arriba",
+      "url": "https://open.spotify.com/track/3fD9K7rYQJi0IDozmqpGYp"
     },
     {
       "added_at": "2023-12-01 03:00:00",
@@ -1103,6 +1103,22 @@
     {
       "added_at": "2023-12-01 03:00:00",
       "album": {
+        "name": "Conexi\u00f3n De Amor",
+        "url": "https://open.spotify.com/album/0Ix9AzDcPeQKSNYNzKSxSt"
+      },
+      "artists": [
+        {
+          "name": "Make Mama Proud",
+          "url": "https://open.spotify.com/artist/5szSyl9vXGIHY6Ln8K14UI"
+        }
+      ],
+      "duration_ms": 232550,
+      "name": "CONEXI\u00d3N DE AMOR",
+      "url": "https://open.spotify.com/track/58F5bd40PlBLvoRKzKWDCD"
+    },
+    {
+      "added_at": "2023-12-01 03:00:00",
+      "album": {
         "name": "Despu\u00e9s De Ti",
         "url": "https://open.spotify.com/album/2O8B8Y5bKAiimKnNU0p7OT"
       },
@@ -1139,6 +1155,22 @@
     {
       "added_at": "2023-12-01 03:00:00",
       "album": {
+        "name": "Ficci\u00f3n",
+        "url": "https://open.spotify.com/album/7kqvgYRCFIHjRTEXnVjSWW"
+      },
+      "artists": [
+        {
+          "name": "Varese",
+          "url": "https://open.spotify.com/artist/5DG278QHnEKfWW9zAGFeRg"
+        }
+      ],
+      "duration_ms": 201601,
+      "name": "Ficci\u00f3n",
+      "url": "https://open.spotify.com/track/19ql2PoaEn31alAgeIpsp1"
+    },
+    {
+      "added_at": "2023-12-01 03:00:00",
+      "album": {
         "name": "No Ves Tal Vez (Evlay Remix)",
         "url": "https://open.spotify.com/album/0GHjBHc8ZxFE22P9YATmku"
       },
@@ -1163,22 +1195,6 @@
     {
       "added_at": "2023-12-01 03:00:00",
       "album": {
-        "name": "Ficci\u00f3n",
-        "url": "https://open.spotify.com/album/7kqvgYRCFIHjRTEXnVjSWW"
-      },
-      "artists": [
-        {
-          "name": "Varese",
-          "url": "https://open.spotify.com/artist/5DG278QHnEKfWW9zAGFeRg"
-        }
-      ],
-      "duration_ms": 201601,
-      "name": "Ficci\u00f3n",
-      "url": "https://open.spotify.com/track/19ql2PoaEn31alAgeIpsp1"
-    },
-    {
-      "added_at": "2023-12-01 03:00:00",
-      "album": {
         "name": "Bajo la piel",
         "url": "https://open.spotify.com/album/06KYlFtTKi0XoT444EMjDM"
       },
@@ -1199,18 +1215,18 @@
     {
       "added_at": "2023-12-01 03:00:00",
       "album": {
-        "name": "Conexi\u00f3n De Amor",
-        "url": "https://open.spotify.com/album/0Ix9AzDcPeQKSNYNzKSxSt"
+        "name": "Fonomix",
+        "url": "https://open.spotify.com/album/32vMhnRB3JbmRzAVd30KDL"
       },
       "artists": [
         {
-          "name": "Make Mama Proud",
-          "url": "https://open.spotify.com/artist/5szSyl9vXGIHY6Ln8K14UI"
+          "name": "Fonosida",
+          "url": "https://open.spotify.com/artist/6HXJR7OM92v2ncgjL8gVkX"
         }
       ],
-      "duration_ms": 232550,
-      "name": "CONEXI\u00d3N DE AMOR",
-      "url": "https://open.spotify.com/track/58F5bd40PlBLvoRKzKWDCD"
+      "duration_ms": 157974,
+      "name": "Grana",
+      "url": "https://open.spotify.com/track/5PL1SaEHcnb50LJ7itQgNO"
     },
     {
       "added_at": "2023-12-01 03:00:00",
@@ -1227,22 +1243,6 @@
       "duration_ms": 311386,
       "name": "El Magnetismo",
       "url": "https://open.spotify.com/track/4RJpJjhEH1yFizM4CGD65Z"
-    },
-    {
-      "added_at": "2023-12-01 03:00:00",
-      "album": {
-        "name": "Fonomix",
-        "url": "https://open.spotify.com/album/32vMhnRB3JbmRzAVd30KDL"
-      },
-      "artists": [
-        {
-          "name": "Fonosida",
-          "url": "https://open.spotify.com/artist/6HXJR7OM92v2ncgjL8gVkX"
-        }
-      ],
-      "duration_ms": 157974,
-      "name": "Grana",
-      "url": "https://open.spotify.com/track/5PL1SaEHcnb50LJ7itQgNO"
     },
     {
       "added_at": "2023-12-01 03:00:00",
@@ -1407,6 +1407,22 @@
     {
       "added_at": "2023-12-01 03:00:00",
       "album": {
+        "name": "Guazatumba",
+        "url": "https://open.spotify.com/album/63nVyKVXvnLNnVR6x3mlxC"
+      },
+      "artists": [
+        {
+          "name": "Dani Umpi",
+          "url": "https://open.spotify.com/artist/1KYLoFQ7Cwm4eOHruB5OMI"
+        }
+      ],
+      "duration_ms": 229726,
+      "name": "Circular",
+      "url": "https://open.spotify.com/track/21Rw3bEHD9hdwDIpD3BaWk"
+    },
+    {
+      "added_at": "2023-12-01 03:00:00",
+      "album": {
         "name": "7 canciones antes de que nos corten la luz",
         "url": "https://open.spotify.com/album/58Kzrvix7aM7yh0N4CpRVm"
       },
@@ -1443,22 +1459,6 @@
       "duration_ms": 192786,
       "name": "Voces",
       "url": "https://open.spotify.com/track/4E3Qq52I36ROOLPrr9iDiy"
-    },
-    {
-      "added_at": "2023-12-01 03:00:00",
-      "album": {
-        "name": "Guazatumba",
-        "url": "https://open.spotify.com/album/63nVyKVXvnLNnVR6x3mlxC"
-      },
-      "artists": [
-        {
-          "name": "Dani Umpi",
-          "url": "https://open.spotify.com/artist/1KYLoFQ7Cwm4eOHruB5OMI"
-        }
-      ],
-      "duration_ms": 229726,
-      "name": "Circular",
-      "url": "https://open.spotify.com/track/21Rw3bEHD9hdwDIpD3BaWk"
     },
     {
       "added_at": "2023-12-01 03:00:00",
@@ -1703,6 +1703,22 @@
     {
       "added_at": "2023-12-01 03:00:00",
       "album": {
+        "name": "FRIENDZONE",
+        "url": "https://open.spotify.com/album/1NHbPkbVifHFoUNUjds3rj"
+      },
+      "artists": [
+        {
+          "name": "Lucas & The Woods",
+          "url": "https://open.spotify.com/artist/4OIDWn0ASVx73rysnf6pqA"
+        }
+      ],
+      "duration_ms": 210659,
+      "name": "FRIENDZONE",
+      "url": "https://open.spotify.com/track/6ifxoXGBxLp7O967IDt67l"
+    },
+    {
+      "added_at": "2023-12-01 03:00:00",
+      "album": {
         "name": "La Mar (Remixes)",
         "url": "https://open.spotify.com/album/7BUfVp5TlqMljuNoO8tX1O"
       },
@@ -1719,22 +1735,6 @@
       "duration_ms": 347000,
       "name": "Dejarte de Querer - Nico Castro Remix",
       "url": "https://open.spotify.com/track/6PXKYJVbtpfZuOTmiIgJC2"
-    },
-    {
-      "added_at": "2023-12-01 03:00:00",
-      "album": {
-        "name": "FRIENDZONE",
-        "url": "https://open.spotify.com/album/1NHbPkbVifHFoUNUjds3rj"
-      },
-      "artists": [
-        {
-          "name": "Lucas & The Woods",
-          "url": "https://open.spotify.com/artist/4OIDWn0ASVx73rysnf6pqA"
-        }
-      ],
-      "duration_ms": 210659,
-      "name": "FRIENDZONE",
-      "url": "https://open.spotify.com/track/6ifxoXGBxLp7O967IDt67l"
     }
   ],
   "unique_name": "ElectroPop",

@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXpOtMyVOt4Q.md) - [plain]
 
 > Chill tunes to soundtrack your gaming session.
 
-[Spotify](https://open.spotify.com/user/spotify) - 252,107 likes - 50 songs - 1 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 252,231 likes - 50 songs - 2 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [snowfall \(Slowed + Reverb\)](https://open.spotify.com/track/4VkEkljlOC5cMbRMhREO5E) | [Øneheart](https://open.spotify.com/artist/0dgJbQ0bKPyUXco8hEXN7X), [reidenshi](https://open.spotify.com/artist/6SdlxyPsQ3B0yYncFmDULP) | [snowfall \(Slowed + Reverb\)](https://open.spotify.com/album/3odz9MUzucRfbCCH8hxqCK) | 2:30 |
 | 2 | [interstellar.](https://open.spotify.com/track/4eEfckO9ZJlMntQJFEjxq6) | [pandora.](https://open.spotify.com/artist/2kz8ErEfOCprZuWDcFgzSM), [chillwithme](https://open.spotify.com/artist/7AvcFSTZCBcqx0Uf03lrP8), [cødy](https://open.spotify.com/artist/0CLVTdLvMwJzZtHovVneAC) | [daydream.](https://open.spotify.com/album/5QgfYuguhp3BQkr8c7AqxR) | 1:37 |
-| 3 | [One](https://open.spotify.com/track/5P5qoDP64nxGf1WDGWUD8M) | [Sangam](https://open.spotify.com/artist/1ORqMSJSmrCCJtFNUt7OqR) | [You Forget This](https://open.spotify.com/album/2Ll8qxqQd6J2cIb0PgFHSC) | 1:44 |
-| 4 | [Behind Every Decision](https://open.spotify.com/track/2kbruQXVXFmxxm4l75zuwy) | [Yehezkel Raz](https://open.spotify.com/artist/31klRMTQJ94NrxwIZJwJBY) | [Preludes, Book 2 \- Torrents](https://open.spotify.com/album/23evXngVDHzY3P9A2wNDJY) | 1:45 |
+| 3 | [Behind Every Decision](https://open.spotify.com/track/2kbruQXVXFmxxm4l75zuwy) | [Yehezkel Raz](https://open.spotify.com/artist/31klRMTQJ94NrxwIZJwJBY) | [Preludes, Book 2 \- Torrents](https://open.spotify.com/album/23evXngVDHzY3P9A2wNDJY) | 1:45 |
+| 4 | [One](https://open.spotify.com/track/5P5qoDP64nxGf1WDGWUD8M) | [Sangam](https://open.spotify.com/artist/1ORqMSJSmrCCJtFNUt7OqR) | [You Forget This](https://open.spotify.com/album/2Ll8qxqQd6J2cIb0PgFHSC) | 1:44 |
 | 5 | [Solas](https://open.spotify.com/track/0yfMign5fsLtw5I4pK73ge) | [Gibran Alcocer](https://open.spotify.com/artist/5nWYvcpaqKtp08cYxjOfFr) | [Solas](https://open.spotify.com/album/2XZXXXuThQ8JwPjoTcGIkF) | 2:26 |
 | 6 | [apathy](https://open.spotify.com/track/6WUgqFZhbNRaeBuzG2ahfJ) | [Øneheart](https://open.spotify.com/artist/0dgJbQ0bKPyUXco8hEXN7X) | [apathy](https://open.spotify.com/album/1N99dokdMWpcIDa9r6BqYk) | 1:57 |
 | 7 | [The hall is dancing](https://open.spotify.com/track/6UnSlwVAEPblKJING6FH5Z) | [Fabrizio Paterlini](https://open.spotify.com/artist/0jrFMgW018F1XVnLtCXOKi) | [Transitions](https://open.spotify.com/album/7dopFnnInju2yjJe127paH) | 1:03 |
@@ -49,14 +49,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXpOtMyVOt4Q.md) - [plain]
 | 39 | [Drifting Away](https://open.spotify.com/track/2eNGGlykvjQyStOU7DBHvE) | [Austin Farwell](https://open.spotify.com/artist/3gfeKrOBLlmoaUXfGJzmS5) | [Drifting Away](https://open.spotify.com/album/1hQ6aHQZssr7VVzIczYZMa) | 2:45 |
 | 40 | [No Time Left](https://open.spotify.com/track/1ZHRQbm7S54eSKEhKiw1rl) | [Hazy](https://open.spotify.com/artist/4zoz0st7CqesHkO58AbJtl) | [Nirvana](https://open.spotify.com/album/4YakhJKIpxIx7HGD8WI4oz) | 1:45 |
 | 41 | [laleconparticulere.](https://open.spotify.com/track/3sUo9q67Pl3izLgUgfyHKK) | [pandora.](https://open.spotify.com/artist/2kz8ErEfOCprZuWDcFgzSM), [chillwithme](https://open.spotify.com/artist/7AvcFSTZCBcqx0Uf03lrP8), [cødy](https://open.spotify.com/artist/0CLVTdLvMwJzZtHovVneAC) | [laleconparticulere.](https://open.spotify.com/album/4koTRhv7vJHays2gNvf31v) | 1:03 |
-| 42 | [livin](https://open.spotify.com/track/2XgZ0iZEOrqjiXMUyPcFqJ) | [yassprodd](https://open.spotify.com/artist/0WZLL9XHd4QId3RNI2kZ6Y) | [livin](https://open.spotify.com/album/3EKBf6jNY2loEs6R7BBdsq) | 1:31 |
+| 42 | [i need to be honest](https://open.spotify.com/track/5pMTNM75nUpdfbV9N0MMGV) | [vic](https://open.spotify.com/artist/4lc3yLPyNJpyOTpUB8U8Pa) | [im fine i promise](https://open.spotify.com/album/5IZx8gvWoXufbLsUGFyvZ2) | 0:50 |
 | 43 | [Dandelion's Lullaby](https://open.spotify.com/track/4TLoYT6uaGydqUQRZ9hlxG) | [Raimu](https://open.spotify.com/artist/4PMAJlYIlc9EafX6z8lwZ3) | [Dandelion's Lullaby](https://open.spotify.com/album/3c9eWf9ONwSr9LKlwZ0ODW) | 2:03 |
-| 44 | [i need to be honest](https://open.spotify.com/track/5pMTNM75nUpdfbV9N0MMGV) | [vic](https://open.spotify.com/artist/4lc3yLPyNJpyOTpUB8U8Pa) | [im fine i promise](https://open.spotify.com/album/5IZx8gvWoXufbLsUGFyvZ2) | 0:50 |
+| 44 | [livin](https://open.spotify.com/track/2XgZ0iZEOrqjiXMUyPcFqJ) | [yassprodd](https://open.spotify.com/artist/0WZLL9XHd4QId3RNI2kZ6Y) | [livin](https://open.spotify.com/album/3EKBf6jNY2loEs6R7BBdsq) | 1:31 |
 | 45 | [love within](https://open.spotify.com/track/6wv5lxSg3U9DSC5KvbQdfr) | [Linearwave](https://open.spotify.com/artist/2wIeBTEs0AsPb74kYdEcNk) | [love within](https://open.spotify.com/album/4NYnzOZDYMcQvA3Ome46ej) | 1:37 |
 | 46 | [Dead Metal](https://open.spotify.com/track/7CCPRhIy6VHd4ZmquuIggW) | [Rhys Lindsay](https://open.spotify.com/artist/1LD84W4loy082VZ4Mw7Td8) | [Exo One \(Original Game Soundtrack\)](https://open.spotify.com/album/22rQYIwZ0eL57N6FQ3ixme) | 1:05 |
 | 47 | [star struck](https://open.spotify.com/track/3JcRY9LLi7aLBqceAbAJaC) | [alixe.](https://open.spotify.com/artist/5CqGgJNg6sTMBr8KbBCqYn) | [star struck](https://open.spotify.com/album/0lWOg0zxjpIS81tzwUB0qr) | 1:36 |
 | 48 | [some light](https://open.spotify.com/track/6K87kUhlsVou4V4TfdhVtt) | [airshade](https://open.spotify.com/artist/78PMYaOMIdiuJBtmSIFluQ) | [some light](https://open.spotify.com/album/0oFtq5MKHlFR1eoGj8u62T) | 1:51 |
-| 49 | [the lonely tree \(slowed\)](https://open.spotify.com/track/4Jjsn1g5vJJPdbPuJD2XBM) | [ciaffa](https://open.spotify.com/artist/40jlY1amdIaVtPMKjdBj7x) | [the lonely tree](https://open.spotify.com/album/6RPBdWsjsNsJWN9i2M3tDe) | 2:45 |
-| 50 | [Insomnia Dream](https://open.spotify.com/track/1wkD1pgESRrQysLpioCew3) | [colours in the dark](https://open.spotify.com/artist/4lRRwA3JsWrOD8f47gI2iI) | [Insomnia Dream](https://open.spotify.com/album/6gjd1kVza1OQREmtvcGUC7) | 2:42 |
+| 49 | [Escape](https://open.spotify.com/track/5AG0X3UeMHs63YmQRFi1ER) | [Lord Belphegor](https://open.spotify.com/artist/7Ihaz9qzDaF2OtnBkdpbll) | [Escape](https://open.spotify.com/album/2LjePrIEdfjjqQvxlxidUJ) | 4:37 |
+| 50 | [the lonely tree \(slowed\)](https://open.spotify.com/track/4Jjsn1g5vJJPdbPuJD2XBM) | [ciaffa](https://open.spotify.com/artist/40jlY1amdIaVtPMKjdBj7x) | [the lonely tree](https://open.spotify.com/album/6RPBdWsjsNsJWN9i2M3tDe) | 2:45 |
 
-Snapshot ID: `MCw4ODllMjFlZWVlNjYzMzNhZWU1M2ZhYTg2MGYzODFkOGEyMWQ0MGNh`
+Snapshot ID: `MCw1MWQ4ZDk2YzMzMjUzZDRkNDFhNDg3ZDY2N2ExZjE4NDg2YTAyOWMx`

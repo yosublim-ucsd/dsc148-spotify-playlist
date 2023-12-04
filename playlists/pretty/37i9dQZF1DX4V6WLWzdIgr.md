@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4V6WLWzdIgr.md) - [plain]
 
 > Sedihe koyo ngene, nggak bahaya ta? 😢
 
-[Spotify](https://open.spotify.com/user/spotify) - 144,554 likes - 58 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 144,837 likes - 58 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4V6WLWzdIgr.md) - [plain]
 | 22 | [Cintamu Sepahit Topi Miring](https://open.spotify.com/track/1ixNEKbIZTTZ5LIz3rr9jD) | [Jogja Hip Hop Foundation](https://open.spotify.com/artist/0Pk4JEXgC64RBmovnQDZ27) | [Semar Mesem Romo Mendem](https://open.spotify.com/album/7nC7NZkREbTAIWuknYkWlP) | 4:54 |
 | 23 | [Kurangku Opo](https://open.spotify.com/track/5v2gEm7WZNJChdoNqgGSxA) | [Ronda Genk](https://open.spotify.com/artist/67H1jUlHffu3RzhSAWRl7z) | [Kurangku Opo](https://open.spotify.com/album/5rCg6XiVS9xmBiUEoYn0Dq) | 6:28 |
 | 24 | [NEMEN](https://open.spotify.com/track/0TuttExCt1JaKvrX2DvIXU) | [Sasya Arkhisna](https://open.spotify.com/artist/7lI4C2dx9SKfc3DD4zzkXA) | [NEMEN](https://open.spotify.com/album/7rKRjcEnQ3y8Ji1OK475tn) | 5:16 |
-| 25 | [Tak Ikhlasno](https://open.spotify.com/track/3c24cpsd4wWF9mqLsNAGm5) | [Happy Asmara](https://open.spotify.com/artist/5423rMdVbchY2cgu0GgH5X) | [Tak Ikhlasno](https://open.spotify.com/album/6lXi6pJWfrUP27FtWJY3zT) | 5:10 |
+| 25 | [Tak Ikhlasno](https://open.spotify.com/track/7byQmHNYSJVjFAzd8eciFQ) | [Happy Asmara](https://open.spotify.com/artist/5423rMdVbchY2cgu0GgH5X) | [Tak Ikhlasno](https://open.spotify.com/album/6LD8JaQ7efxzh0rChA3zCx) | 5:10 |
 | 26 | [Tangise Sarangan](https://open.spotify.com/track/2NjOl7W9zT3ZnyUFsEyrmU) | [Woro Widowati](https://open.spotify.com/artist/0wjrZ5PUcVjAbUUX33JRr8) | [Tangise Sarangan](https://open.spotify.com/album/70BN1abiYV64ksDeUF0zDB) | 6:55 |
 | 27 | [Cidro 2](https://open.spotify.com/track/17yog0bsFVvumvOuux03wM) | [Wandra Restusiyan](https://open.spotify.com/artist/0Kfx3xYTsVxoa0RqiaXrJP), [Esa Risty](https://open.spotify.com/artist/3HShuvuxdHdvUxRqPjGrAc) | [Cidro 2](https://open.spotify.com/album/72oOmFtjOGQNNM96ZUQ7fA) | 4:02 |
 | 28 | [Durung Ikhlas](https://open.spotify.com/track/0dokrFBhI5MAJ9UYGplJWx) | [Lavora](https://open.spotify.com/artist/6g7rgHXRnw8trLFXSnhue4) | [Durung Ikhlas](https://open.spotify.com/album/03bt7cjECUUsUrcrGDBwHr) | 4:02 |
@@ -67,4 +67,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4V6WLWzdIgr.md) - [plain]
 | 57 | [Tetep Neng Ati](https://open.spotify.com/track/6U4LPOlk6I3c6WGnyV5ZPq) | [OMWAWES](https://open.spotify.com/artist/4SsvQOTuKik8GmK6GtB21A) | [Om Wawes](https://open.spotify.com/album/4sgIDlQTDTvuMBvC1dicp1) | 5:08 |
 | 58 | [Lilakno Lungaku](https://open.spotify.com/track/6eQL36g0j3GlofcGauLJH7) | [Losskita](https://open.spotify.com/artist/3BifJ2eD9KMFgAGa8LbPtI) | [Lilakno Lungaku](https://open.spotify.com/album/1sf4AWv0GiLGTzRrfAhgDA) | 5:35 |
 
-Snapshot ID: `MCwzMDNkZWMwYjVmOTRiNWQ3ZjFlOGY2NjkzYmVlYTUxM2IxYzQ0NWRj`
+Snapshot ID: `MCxlY2M5OGYxODI2MzE2YjcxNmZiMzE3ZmQ3YzJjYWY1MTc1YmU2YTU0`

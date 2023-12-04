@@ -1,12 +1,12 @@
 {
   "description": "Los \u00e9xitos del pop suenan mejor en vivo. Foto: Thalia ",
-  "num_followers": 137189,
+  "num_followers": 137385,
   "original_name": "Vivo de Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhOWVlM2UwOTljMTc5NjdlOTA0OGE5NTVjMDQ4ZTk4NjE0OWViYThh",
+  "snapshot_id": "MCxjY2FmZjZjYmE4MWMwMDEwMzdkYjdiZmNiM2ZhODk3MTQyY2MyZjI4",
   "tracks": [
     {
       "added_at": "2023-08-11 13:33:49",
@@ -140,9 +140,9 @@
           "url": "https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8"
         }
       ],
-      "duration_ms": 226986,
-      "name": "Perd\u00f3n, Perd\u00f3n - HA-ASH Primera Fila - Hecho Realidad [En Vivo]",
-      "url": "https://open.spotify.com/track/15Hx1oi6C3AxYhhvolqrJG"
+      "duration_ms": 247760,
+      "name": "Ex de Verdad - HA-ASH Primera Fila - Hecho Realidad [En Vivo]",
+      "url": "https://open.spotify.com/track/40lU8uy8xKKRAP9A1N3BqH"
     },
     {
       "added_at": "2023-08-11 13:33:49",
@@ -199,26 +199,22 @@
     {
       "added_at": "2023-08-11 13:33:49",
       "album": {
-        "name": "Esta Ma\u00f1ana Y Otros Cuentos",
-        "url": "https://open.spotify.com/album/6iqB5PzsLs7YIXVd8V84Ds"
+        "name": "MTV Unplugged. El Libro De Las Mutaciones",
+        "url": "https://open.spotify.com/album/3AO4YRY9r2gQL6GWLtdm7h"
       },
       "artists": [
         {
-          "name": "Coti",
-          "url": "https://open.spotify.com/artist/1OUDQLymoysITxprkd0Qvj"
+          "name": "Bunbury",
+          "url": "https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT"
         },
         {
-          "name": "Paulina Rubio",
-          "url": "https://open.spotify.com/artist/1d6dwipPrsFSJVmFTTdFSS"
-        },
-        {
-          "name": "Julieta Venegas",
-          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+          "name": "Le\u00f3n Larregui",
+          "url": "https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d"
         }
       ],
-      "duration_ms": 225693,
-      "name": "Nada Fue Un Error - Live In Spain / 2005",
-      "url": "https://open.spotify.com/track/7GO6pBFbieZ30NjGIp2LP5"
+      "duration_ms": 291117,
+      "name": "La chispa adecuada (feat. Le\u00f3n Larregui) - MTV Unplugged",
+      "url": "https://open.spotify.com/track/5vnAu12wplLvx1XH01PwRH"
     },
     {
       "added_at": "2023-08-11 13:33:49",
@@ -232,9 +228,9 @@
           "url": "https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8"
         }
       ],
-      "duration_ms": 247760,
-      "name": "Ex de Verdad - HA-ASH Primera Fila - Hecho Realidad [En Vivo]",
-      "url": "https://open.spotify.com/track/40lU8uy8xKKRAP9A1N3BqH"
+      "duration_ms": 226986,
+      "name": "Perd\u00f3n, Perd\u00f3n - HA-ASH Primera Fila - Hecho Realidad [En Vivo]",
+      "url": "https://open.spotify.com/track/15Hx1oi6C3AxYhhvolqrJG"
     },
     {
       "added_at": "2023-08-11 13:33:49",
@@ -275,22 +271,26 @@
     {
       "added_at": "2023-08-11 13:33:49",
       "album": {
-        "name": "MTV Unplugged. El Libro De Las Mutaciones",
-        "url": "https://open.spotify.com/album/3AO4YRY9r2gQL6GWLtdm7h"
+        "name": "Esta Ma\u00f1ana Y Otros Cuentos",
+        "url": "https://open.spotify.com/album/6iqB5PzsLs7YIXVd8V84Ds"
       },
       "artists": [
         {
-          "name": "Bunbury",
-          "url": "https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT"
+          "name": "Coti",
+          "url": "https://open.spotify.com/artist/1OUDQLymoysITxprkd0Qvj"
         },
         {
-          "name": "Le\u00f3n Larregui",
-          "url": "https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d"
+          "name": "Paulina Rubio",
+          "url": "https://open.spotify.com/artist/1d6dwipPrsFSJVmFTTdFSS"
+        },
+        {
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
         }
       ],
-      "duration_ms": 291117,
-      "name": "La chispa adecuada (feat. Le\u00f3n Larregui) - MTV Unplugged",
-      "url": "https://open.spotify.com/track/5vnAu12wplLvx1XH01PwRH"
+      "duration_ms": 225693,
+      "name": "Nada Fue Un Error - Live In Spain / 2005",
+      "url": "https://open.spotify.com/track/7GO6pBFbieZ30NjGIp2LP5"
     },
     {
       "added_at": "2023-08-11 13:33:49",

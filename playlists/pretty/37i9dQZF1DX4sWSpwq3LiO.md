@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4sWSpwq3LiO.md) - [plain]
 
 > Peaceful piano to help you slow down, breathe, and relax.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,223,987 likes - 244 songs - 10 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,225,086 likes - 244 songs - 10 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -253,4 +253,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4sWSpwq3LiO.md) - [plain]
 | 243 | [Romance no 1 "Nordica"](https://open.spotify.com/track/5yWWqRGYKTfSoFTYKAnDlo) | [Antoine Minot](https://open.spotify.com/artist/7uJIaUfHJ3VtFpeYm2jPTz) | [Romance no 1 "Nordica"](https://open.spotify.com/album/4ax1MdqYOUcrhrYPlgPfA5) | 2:52 |
 | 244 | [Sleeping at last](https://open.spotify.com/track/1ri9OTTCvGn1yMlDiqAdFS) | [Stephanie Middleton](https://open.spotify.com/artist/2Uz5ooYuumPgHwe1HVjFtT) | [Sleeping at last](https://open.spotify.com/album/0nOyDcj7i5cEolSP2RZ2uW) | 2:14 |
 
-Snapshot ID: `MCw3YWU1NmM2NjVmZmZiZjhhYmIxZWEzOWZhMDMyYWEzMWIxOTExOWUy`
+Snapshot ID: `MCwzN2M5OTNiMjg3MGQ4ZmMzMWY0NjBhZmIyMDBjNjk3Mzg3NDI0YTMw`

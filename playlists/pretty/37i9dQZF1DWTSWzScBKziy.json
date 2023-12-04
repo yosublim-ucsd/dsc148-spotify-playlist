@@ -1,12 +1,12 @@
 {
   "description": "Find what's fresh & buzzing in Christian & Gospel music right here!  Cover:  K-Anthony",
-  "num_followers": 94421,
+  "num_followers": 94455,
   "original_name": "Sing A New Song",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NTNlZDNmNTlhZjQ0MTJmNjE0YmNkYzk1YTQ5NDg1NzcxMmUyMjMy",
+  "snapshot_id": "MCxkZGY5OGU1YmY0NmM2NTE1M2I4NjJiN2UzYjA5NjdkNDM0MTU2NzIy",
   "tracks": [
     {
       "added_at": "2022-10-29 07:17:38",
@@ -747,22 +747,6 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
-        "name": "Good Feeling (Radio Version)",
-        "url": "https://open.spotify.com/album/3kT4i3tkyT8FmcuAYUPJjJ"
-      },
-      "artists": [
-        {
-          "name": "Austin French",
-          "url": "https://open.spotify.com/artist/5m8b1Ofn4kNkzRV84GopBU"
-        }
-      ],
-      "duration_ms": 161583,
-      "name": "Good Feeling - Radio Version",
-      "url": "https://open.spotify.com/track/7L3dULJxns4VDBBgItRVR6"
-    },
-    {
-      "added_at": "2022-10-29 07:17:38",
-      "album": {
         "name": "Facing A Task Unfinished",
         "url": "https://open.spotify.com/album/4iaznzAVvJg550xaOBDKOz"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 315986,
       "name": "He Will Hold Me Fast",
       "url": "https://open.spotify.com/track/4weqRLQumuxDEpFVZR3jgu"
+    },
+    {
+      "added_at": "2022-10-29 07:17:38",
+      "album": {
+        "name": "Good Feeling (Radio Version)",
+        "url": "https://open.spotify.com/album/3kT4i3tkyT8FmcuAYUPJjJ"
+      },
+      "artists": [
+        {
+          "name": "Austin French",
+          "url": "https://open.spotify.com/artist/5m8b1Ofn4kNkzRV84GopBU"
+        }
+      ],
+      "duration_ms": 161583,
+      "name": "Good Feeling - Radio Version",
+      "url": "https://open.spotify.com/track/7L3dULJxns4VDBBgItRVR6"
     },
     {
       "added_at": "2022-10-29 07:17:38",
@@ -987,6 +987,22 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
+        "name": "Already Blessed",
+        "url": "https://open.spotify.com/album/302vTUIId9Yy7XVI42gGiY"
+      },
+      "artists": [
+        {
+          "name": "Chidiya Ohiagu",
+          "url": "https://open.spotify.com/artist/7H9pyCCQxjzJb9aaIsrSgp"
+        }
+      ],
+      "duration_ms": 228068,
+      "name": "Already Blessed",
+      "url": "https://open.spotify.com/track/6EVBja1SChiDywjTRfS1Rk"
+    },
+    {
+      "added_at": "2022-10-29 07:17:38",
+      "album": {
         "name": "Only You Can Do It",
         "url": "https://open.spotify.com/album/5rhWXmx3zQh0z2F2bcaOV1"
       },
@@ -1015,22 +1031,6 @@
       "duration_ms": 240357,
       "name": "Waking Up",
       "url": "https://open.spotify.com/track/4Pi5of5NI3ceSd9MAzFf9w"
-    },
-    {
-      "added_at": "2022-10-29 07:17:38",
-      "album": {
-        "name": "Already Blessed",
-        "url": "https://open.spotify.com/album/302vTUIId9Yy7XVI42gGiY"
-      },
-      "artists": [
-        {
-          "name": "Chidiya Ohiagu",
-          "url": "https://open.spotify.com/artist/7H9pyCCQxjzJb9aaIsrSgp"
-        }
-      ],
-      "duration_ms": 228068,
-      "name": "Already Blessed",
-      "url": "https://open.spotify.com/track/6EVBja1SChiDywjTRfS1Rk"
     },
     {
       "added_at": "2022-10-29 07:17:38",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
-        "name": "Known, Seen, Loved",
-        "url": "https://open.spotify.com/album/2vyiLc8hSAi3nDNe11CoQn"
-      },
-      "artists": [
-        {
-          "name": "MORIAH",
-          "url": "https://open.spotify.com/artist/1w0QYx2G0ywsCClH84FcAv"
-        }
-      ],
-      "duration_ms": 188138,
-      "name": "Known, Seen, Loved",
-      "url": "https://open.spotify.com/track/1XMyGFBaTkXKsypEZD1dmr"
-    },
-    {
-      "added_at": "2022-10-29 07:17:38",
-      "album": {
         "name": "If It Comes From You",
         "url": "https://open.spotify.com/album/6xMkcoUOnaZ3GtvkQIIQYA"
       },
@@ -1531,6 +1515,22 @@
       "duration_ms": 294349,
       "name": "If It Comes From You",
       "url": "https://open.spotify.com/track/1TXEoiSeCPgMfBfoc9LhZf"
+    },
+    {
+      "added_at": "2022-10-29 07:17:38",
+      "album": {
+        "name": "Known, Seen, Loved",
+        "url": "https://open.spotify.com/album/2vyiLc8hSAi3nDNe11CoQn"
+      },
+      "artists": [
+        {
+          "name": "MORIAH",
+          "url": "https://open.spotify.com/artist/1w0QYx2G0ywsCClH84FcAv"
+        }
+      ],
+      "duration_ms": 188138,
+      "name": "Known, Seen, Loved",
+      "url": "https://open.spotify.com/track/1XMyGFBaTkXKsypEZD1dmr"
     },
     {
       "added_at": "2022-10-29 07:17:38",
@@ -1651,18 +1651,18 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
-        "name": "I Met Jesus In Miami",
-        "url": "https://open.spotify.com/album/0ne1BFbmYUj1OClXGHLp7A"
+        "name": "Lost On Me",
+        "url": "https://open.spotify.com/album/3jISEw2vtj2ckkBt7f5OQu"
       },
       "artists": [
         {
-          "name": "VOUS Worship",
-          "url": "https://open.spotify.com/artist/3LoDhoZo5Mkue9sAuj1KHb"
+          "name": "Landry Cantrell",
+          "url": "https://open.spotify.com/artist/6WYJ7U3mOA7bzOMkkkT3N6"
         }
       ],
-      "duration_ms": 230506,
-      "name": "I Came Home",
-      "url": "https://open.spotify.com/track/0EVb9XEij2x5ZayAjCgWVe"
+      "duration_ms": 236117,
+      "name": "What He Didn't Do",
+      "url": "https://open.spotify.com/track/6gBhJLa1VAhQCxIflUZH8R"
     },
     {
       "added_at": "2022-10-29 07:17:38",
@@ -1683,34 +1683,34 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
-        "name": "Lost On Me",
-        "url": "https://open.spotify.com/album/3jISEw2vtj2ckkBt7f5OQu"
+        "name": "I Met Jesus In Miami",
+        "url": "https://open.spotify.com/album/0ne1BFbmYUj1OClXGHLp7A"
       },
       "artists": [
         {
-          "name": "Landry Cantrell",
-          "url": "https://open.spotify.com/artist/6WYJ7U3mOA7bzOMkkkT3N6"
+          "name": "VOUS Worship",
+          "url": "https://open.spotify.com/artist/3LoDhoZo5Mkue9sAuj1KHb"
         }
       ],
-      "duration_ms": 236117,
-      "name": "What He Didn't Do",
-      "url": "https://open.spotify.com/track/6gBhJLa1VAhQCxIflUZH8R"
+      "duration_ms": 230506,
+      "name": "I Came Home",
+      "url": "https://open.spotify.com/track/0EVb9XEij2x5ZayAjCgWVe"
     },
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
-        "name": "Plans",
-        "url": "https://open.spotify.com/album/5p3ZxGjxM3xnGi8gzHLU6f"
+        "name": "The Word Is Working (Refreshed)",
+        "url": "https://open.spotify.com/album/3TyFoR8keShYsZIn60RZ8d"
       },
       "artists": [
         {
-          "name": "Rend Collective",
-          "url": "https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ"
+          "name": "Ada Ehi",
+          "url": "https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt"
         }
       ],
-      "duration_ms": 222985,
-      "name": "Plans",
-      "url": "https://open.spotify.com/track/7ylUm6UwDblnxBNFq1E0nh"
+      "duration_ms": 407811,
+      "name": "The Word Is Working (Refreshed)",
+      "url": "https://open.spotify.com/track/2ZdIyaCMPY5fTX3GL3DYe7"
     }
   ],
   "unique_name": "Sing A New Song",

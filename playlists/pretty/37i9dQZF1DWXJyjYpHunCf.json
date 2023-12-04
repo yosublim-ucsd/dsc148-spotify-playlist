@@ -1,12 +1,12 @@
 {
   "description": "The best of folk-infused pop and singer-songwriter. Cover: Darren Kiely",
-  "num_followers": 880539,
+  "num_followers": 880751,
   "original_name": "Folk Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzYmY3ZDc4MzlkZTRlYTAwZDU4MmRhNjhkNjQ1OWQzNDBjYzgyOGY2",
+  "snapshot_id": "MCxjZTE5NGIzNmFjOTAxYzBlNzRmNGNlZWYwZWI0YjI5OGExMDIxZGMz",
   "tracks": [
     {
       "added_at": "2023-12-01 05:00:00",
@@ -543,22 +543,6 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "Your Bones",
-        "url": "https://open.spotify.com/album/4DYdcN6zXdIH8lWmtd1FQV"
-      },
-      "artists": [
-        {
-          "name": "Chelsea Cutler",
-          "url": "https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp"
-        }
-      ],
-      "duration_ms": 159400,
-      "name": "Your Bones",
-      "url": "https://open.spotify.com/track/6bIJHwyaNb1txgOKbYh0rH"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
         "name": "Sonder (2023)",
         "url": "https://open.spotify.com/album/0uEpKcZU1hGooddCjct4j2"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 198221,
       "name": "Better Days",
       "url": "https://open.spotify.com/track/0B6hW0mGwtejHAWuJ0qMka"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
+        "name": "Your Bones",
+        "url": "https://open.spotify.com/album/4DYdcN6zXdIH8lWmtd1FQV"
+      },
+      "artists": [
+        {
+          "name": "Chelsea Cutler",
+          "url": "https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp"
+        }
+      ],
+      "duration_ms": 159400,
+      "name": "Your Bones",
+      "url": "https://open.spotify.com/track/6bIJHwyaNb1txgOKbYh0rH"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -627,26 +627,6 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "Roses",
-        "url": "https://open.spotify.com/album/6w6TexLleVpQxVzOKOBaOD"
-      },
-      "artists": [
-        {
-          "name": "The Paper Kites",
-          "url": "https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy"
-        },
-        {
-          "name": "Lucy Rose",
-          "url": "https://open.spotify.com/artist/2uvY5pgdD9t1CZ5zMNw1rl"
-        }
-      ],
-      "duration_ms": 191234,
-      "name": "For All You Give",
-      "url": "https://open.spotify.com/track/6LLb6rVMgQnGNZwwHSxTzn"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
         "name": "Endless Summer Vacation",
         "url": "https://open.spotify.com/album/5DvJgsMLbaR1HmAI6VhfcQ"
       },
@@ -663,6 +643,26 @@
       "duration_ms": 231000,
       "name": "Thousand Miles (feat. Brandi Carlile)",
       "url": "https://open.spotify.com/track/3DoSolxGSDoV7G7MtcIPiZ"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
+        "name": "Roses",
+        "url": "https://open.spotify.com/album/6w6TexLleVpQxVzOKOBaOD"
+      },
+      "artists": [
+        {
+          "name": "The Paper Kites",
+          "url": "https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy"
+        },
+        {
+          "name": "Lucy Rose",
+          "url": "https://open.spotify.com/artist/2uvY5pgdD9t1CZ5zMNw1rl"
+        }
+      ],
+      "duration_ms": 191234,
+      "name": "For All You Give",
+      "url": "https://open.spotify.com/track/6LLb6rVMgQnGNZwwHSxTzn"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -1135,6 +1135,22 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
+        "name": "Songs for the Drunk and Broken Hearted",
+        "url": "https://open.spotify.com/album/6OGJr5I1SVTn9cla4JPiO1"
+      },
+      "artists": [
+        {
+          "name": "Passenger",
+          "url": "https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66"
+        }
+      ],
+      "duration_ms": 201720,
+      "name": "Sword from the Stone",
+      "url": "https://open.spotify.com/track/1Fc2Gqn9bTuoeSHfhl1net"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
         "name": "People Don't Change",
         "url": "https://open.spotify.com/album/3MCI7K9Qj3lAMADbHP4EaQ"
       },
@@ -1167,22 +1183,6 @@
       "duration_ms": 222739,
       "name": "drywall",
       "url": "https://open.spotify.com/track/49XjLtTAwwhC8tupC8E8wp"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
-        "name": "Songs for the Drunk and Broken Hearted",
-        "url": "https://open.spotify.com/album/6OGJr5I1SVTn9cla4JPiO1"
-      },
-      "artists": [
-        {
-          "name": "Passenger",
-          "url": "https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66"
-        }
-      ],
-      "duration_ms": 201720,
-      "name": "Sword from the Stone",
-      "url": "https://open.spotify.com/track/1Fc2Gqn9bTuoeSHfhl1net"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "Pretty Picture, Dirty Brush",
-        "url": "https://open.spotify.com/album/6gRMw9HleQT2CGc7gIPPdj"
-      },
-      "artists": [
-        {
-          "name": "The Harmaleighs",
-          "url": "https://open.spotify.com/artist/0JpiOyzO3e8FYCsDe8EaUN"
-        }
-      ],
-      "duration_ms": 156360,
-      "name": "I Keep Ticking On",
-      "url": "https://open.spotify.com/track/1Etp6DlUsn2P5im8f7J9HP"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
         "name": "fifth avenue",
         "url": "https://open.spotify.com/album/5pOGpCTL403o4QYXoZQ9zh"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 173376,
       "name": "fifth avenue",
       "url": "https://open.spotify.com/track/1IE79nIDouMaDGHEapWTUj"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
+        "name": "Pretty Picture, Dirty Brush",
+        "url": "https://open.spotify.com/album/6gRMw9HleQT2CGc7gIPPdj"
+      },
+      "artists": [
+        {
+          "name": "The Harmaleighs",
+          "url": "https://open.spotify.com/artist/0JpiOyzO3e8FYCsDe8EaUN"
+        }
+      ],
+      "duration_ms": 156360,
+      "name": "I Keep Ticking On",
+      "url": "https://open.spotify.com/track/1Etp6DlUsn2P5im8f7J9HP"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "Twin Forks",
-        "url": "https://open.spotify.com/album/5RtOloqFxDxiJJgAkDqrvZ"
-      },
-      "artists": [
-        {
-          "name": "Twin Forks",
-          "url": "https://open.spotify.com/artist/6GwNGuDRNbx5XwoHQA3QiD"
-        }
-      ],
-      "duration_ms": 170962,
-      "name": "Back to You",
-      "url": "https://open.spotify.com/track/6iB4FVNBjXR9M5nhvSlZde"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
         "name": "Lost",
         "url": "https://open.spotify.com/album/2q2sRqH8kcKVf1bFsqvx7w"
       },
@@ -1495,6 +1479,22 @@
       "duration_ms": 179731,
       "name": "Blood Red",
       "url": "https://open.spotify.com/track/3tJ3FGEU3wKpE8cNDiu060"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
+        "name": "Twin Forks",
+        "url": "https://open.spotify.com/album/5RtOloqFxDxiJJgAkDqrvZ"
+      },
+      "artists": [
+        {
+          "name": "Twin Forks",
+          "url": "https://open.spotify.com/artist/6GwNGuDRNbx5XwoHQA3QiD"
+        }
+      ],
+      "duration_ms": 170962,
+      "name": "Back to You",
+      "url": "https://open.spotify.com/track/6iB4FVNBjXR9M5nhvSlZde"
     },
     {
       "added_at": "2023-12-01 05:00:00",

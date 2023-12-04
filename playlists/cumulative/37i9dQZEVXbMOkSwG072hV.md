@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Brazil.
 
-1,870 songs - 4 day 0 hr 28 min
+1,871 songs - 4 day 0 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -447,7 +447,7 @@
 | [Deixa Escondido](https://open.spotify.com/track/417l7rLN1PNgay8sIcKK4D) | [Vitux](https://open.spotify.com/artist/53uZ1yBIdMXGoGIJlVab5t) | [Deixa Escondido](https://open.spotify.com/album/2bs6HtXUZNHRTHngAyTYvi) | 3:09 | 2022-10-19 | 2022-10-25 |
 | [Deixa Escondido \(Speed\) \- Remix](https://open.spotify.com/track/3yH9JvETN22IB1KDEMBv7Y) | [Vitux](https://open.spotify.com/artist/53uZ1yBIdMXGoGIJlVab5t) | [Deixa Escondido \(Speed\) \[Remix\]](https://open.spotify.com/album/1205QRpQV4bEJw6YsShzkh) | 2:31 | 2022-10-22 | 2022-10-26 |
 | [Deixa Escondido \- Sarra no Pentão](https://open.spotify.com/track/2DD0BY8n0GjSbA5hqLUzCg) | [DJ PAULIN](https://open.spotify.com/artist/7eIq1rjn5GWmAKp3tdTyLv) | [Deixa Escondido \- Sarra no Pentão](https://open.spotify.com/album/1oF8qOHfK8tnTFG2N7r0ng) | 2:05 | 2023-01-07 | 2023-01-27 |
-| [Deixa Eu Amar Você](https://open.spotify.com/track/2DyuHPs5w0HXuzzusnoMYa) | [Fernando & Sorocaba](https://open.spotify.com/artist/1oSgjdbgLYULVmEBojPRw8) | [On Fire](https://open.spotify.com/album/2EgIkuV76R6XfAefSNOkWX) | 3:11 | 2023-11-21 |  |
+| [Deixa Eu Amar Você](https://open.spotify.com/track/2DyuHPs5w0HXuzzusnoMYa) | [Fernando & Sorocaba](https://open.spotify.com/artist/1oSgjdbgLYULVmEBojPRw8) | [On Fire](https://open.spotify.com/album/2EgIkuV76R6XfAefSNOkWX) | 3:11 | 2023-11-21 | 2023-12-04 |
 | [Deixa eu botar meu boneco \- Baile do Polly 2.0](https://open.spotify.com/track/6vtgGf9Xn7fsr6jr1aGSRt) | [Oh Polêmico](https://open.spotify.com/artist/6sFRadg88wiacDp0uIQ6VW) | [Deixa eu botar meu boneco \(Baile do Polly 2.0\)](https://open.spotify.com/album/1WC0f6GW92K5JzuD2V13N8) | 3:12 | 2023-01-24 | 2023-03-06 |
 | [Deixa Eu Mentir \- Ao Vivo](https://open.spotify.com/track/61uYosyDVLdFCzVNS7EZmF) | [Leo Chaves](https://open.spotify.com/artist/0FYpZOHSyfPpCSsLwydVbL), [Henrique & Juliano](https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT) | [Deixa Eu Mentir / Fotos \(Ao Vivo\)](https://open.spotify.com/album/7a9NGexK3gAxrU1YRKFosB) | 3:26 | 2023-01-24 | 2023-02-01 |
 | [Deixa Eu Sarrar](https://open.spotify.com/track/05m1SD5y6Og9gnjIUU8Ho7) | [Medellin](https://open.spotify.com/artist/06zC1Z0YDLeWPBLIEAkswh), [BR DA TIJUCA](https://open.spotify.com/artist/7KEk6kxe9YqyuVg9QeMVNQ), [MC Kevin o Chris](https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ) | [Deixa Eu Sarrar](https://open.spotify.com/album/3ZUola3zxGHfecAO5AIOlv) | 2:10 | 2022-04-19 | 2022-05-08 |
@@ -999,6 +999,7 @@
 | [Me Dá Um Dinheiro Aí](https://open.spotify.com/track/6LZbr5LJXHvFG1Cztgs1HF) | [Banda Gol](https://open.spotify.com/artist/3wJpJ3peSD0wgw8cttrr8k) | [Baile de Carnaval: As Melhores Marchinhas de Todos os Tempos](https://open.spotify.com/album/2soSNWvOOVLzQutEEkXtIA) | 2:21 | 2022-03-01 | 2022-03-06 |
 | [Me Gustas Tu](https://open.spotify.com/track/6b37xrsNCWYIUphFBazqD6) | [Manu Chao](https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM) | [Próxima Estación: Esperanza](https://open.spotify.com/album/4t1LLdXiWTfoywqricztFo) | 3:59 | 2022-12-16 | 2023-01-04 |
 | [Me Lambe](https://open.spotify.com/track/48cRh79BIB3MTXuwJY8rOJ) | [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [SUPER](https://open.spotify.com/album/66R0BPV3pIJCpOWjAc1MBD) | 2:55 | 2023-09-06 | 2023-09-13 |
+| [Me Leva Pra Casa / Escrito Nas Estrelas / Saudade \- Ao Vivo](https://open.spotify.com/track/2sYFUcurlISdHlAsnYCEgD) | [Lauana Prado](https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y) | [Raiz Goiânia \(Ao Vivo\)](https://open.spotify.com/album/6v9Ul1m0zyx9G3uwv8jRhu) | 4:25 | 2023-12-03 |  |
 | [Me Mama Ai, Oque Que Tem?](https://open.spotify.com/track/5HHJE7JkqkWP7QeT7DHdSs) | [DJ Guih MS](https://open.spotify.com/artist/7BRrnLVibTwGNUP5HkiBUY), [Mc Gw](https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2), [Delano](https://open.spotify.com/artist/5TmW0cFVEYEbypgTdSNNDn) | [Me Mama Ai, Oque Que Tem?](https://open.spotify.com/album/4S4DCjHuHzaorD68wgjVlP) | 3:35 | 2022-01-29 | 2022-02-27 |
 | [Me Olha Nos Olhos / Futuro Prometido / Não Tem Perdão \- Ao Vivo](https://open.spotify.com/track/6npsMy4sqPy5oywywl2UJy) | [Sorriso Maroto](https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG), [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [Sorriso Eu Gosto No Pagode \- Parte 2 \(Ao Vivo\)](https://open.spotify.com/album/2xcArGM32SN0HS6owAdKqg) | 6:41 | 2023-11-21 | 2023-11-28 |
 | [Me Papa Que É Pop](https://open.spotify.com/track/4gsf0jXtWVDswXSxvUIvc4) | [Mc Lullu](https://open.spotify.com/artist/62NFUnRQI3ctTgZdCquSHD), [Dj Brunin XM](https://open.spotify.com/artist/6MSMZkBlZT4vhQmjO5Ynv3) | [Me Papa Que É Pop](https://open.spotify.com/album/4VZckLjkW2434SZ4XBnE1u) | 2:06 | 2023-09-02 | 2023-09-13 |

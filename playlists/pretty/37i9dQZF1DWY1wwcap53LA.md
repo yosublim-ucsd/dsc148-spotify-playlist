@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY1wwcap53LA.md) - [plain]
 
 > Country music making waves\. Cover: Tanner Adell
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,535 likes - 127 songs - 6 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,565 likes - 127 songs - 6 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -136,4 +136,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY1wwcap53LA.md) - [plain]
 | 126 | [Good Love](https://open.spotify.com/track/7sMoGNd6xOM7CD1WdFRWBQ) | [Shy Carter](https://open.spotify.com/artist/7JZafQsN8syJ9agEtcyP4V) | [Good Love](https://open.spotify.com/album/3lpdLJbh71M7f7YezuOEww) | 2:59 |
 | 127 | [Small Town](https://open.spotify.com/track/2AQNauizjgSmFeUIdtlNqS) | [Warrick McZeke](https://open.spotify.com/artist/49r2zkItXkIJc5tDfnVCIi) | [Small Town](https://open.spotify.com/album/7ESdUin17RB1cW22mGntRb) | 3:42 |
 
-Snapshot ID: `MCwyODdlY2MxNDJjODdkZTkxMzYwMTc3NzNhZWMyOWY3MGYyYWYyNWI0`
+Snapshot ID: `MCxmNjYxNjViZDkzNmMxZjI1YzEwZTY2OGRhZGY0NDgxOTNkMzlkYzZh`

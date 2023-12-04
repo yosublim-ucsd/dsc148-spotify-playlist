@@ -1,12 +1,12 @@
 {
   "description": "The official EA SPORTS FC 24 Soundtrack.",
-  "num_followers": 70549,
+  "num_followers": 70718,
   "original_name": "EA SPORTS FC 24 Official Soundtrack",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMzVkZDk5ZDRkMDM3NjMzYTI4OGYzOTZkM2U5OThjOTZhODFkOTEw",
+  "snapshot_id": "MCw2YzkzYmQzZWYwOTUzMzQxYzM4ZjRmNzkxYTM5NTQ3YjRjMTlkYjBi",
   "tracks": [
     {
       "added_at": "2023-11-20 15:00:00",
@@ -517,6 +517,22 @@
       "url": "https://open.spotify.com/track/0DsQ0M6qf1aJvZmktDwxy8"
     },
     {
+      "added_at": "2023-11-20 15:00:00",
+      "album": {
+        "name": "Space Heavy",
+        "url": "https://open.spotify.com/album/31UtR7w5vJtg8AmBvWAwL5"
+      },
+      "artists": [
+        {
+          "name": "King Krule",
+          "url": "https://open.spotify.com/artist/4wyNyxs74Ux8UIDopNjIai"
+        }
+      ],
+      "duration_ms": 245933,
+      "name": "Seaforth",
+      "url": "https://open.spotify.com/track/6RRCXZcBlOrQ4GsKElW0BH"
+    },
+    {
       "added_at": "2023-12-01 18:29:06",
       "album": {
         "name": "Shame",
@@ -535,22 +551,6 @@
       "duration_ms": 152610,
       "name": "Shame (with Elmiene)",
       "url": "https://open.spotify.com/track/28Ir6VUbomCsKRYXJDS8pW"
-    },
-    {
-      "added_at": "2023-11-20 15:00:00",
-      "album": {
-        "name": "Space Heavy",
-        "url": "https://open.spotify.com/album/31UtR7w5vJtg8AmBvWAwL5"
-      },
-      "artists": [
-        {
-          "name": "King Krule",
-          "url": "https://open.spotify.com/artist/4wyNyxs74Ux8UIDopNjIai"
-        }
-      ],
-      "duration_ms": 245933,
-      "name": "Seaforth",
-      "url": "https://open.spotify.com/track/6RRCXZcBlOrQ4GsKElW0BH"
     },
     {
       "added_at": "2023-11-20 15:00:00",
@@ -611,6 +611,22 @@
     {
       "added_at": "2023-11-20 15:00:00",
       "album": {
+        "name": "JUNGLE",
+        "url": "https://open.spotify.com/album/409STQlcajDkM1vdhM4Qxo"
+      },
+      "artists": [
+        {
+          "name": "The Blaze",
+          "url": "https://open.spotify.com/artist/1Dt1UKLtrJIW1xxRBejjos"
+        }
+      ],
+      "duration_ms": 265213,
+      "name": "LONELY",
+      "url": "https://open.spotify.com/track/7r9DWgmElZrjI0G8erYKRr"
+    },
+    {
+      "added_at": "2023-11-20 15:00:00",
+      "album": {
         "name": "CATALYST",
         "url": "https://open.spotify.com/album/5Il5xcMQhzdH6YFKZH3VGU"
       },
@@ -627,22 +643,6 @@
       "duration_ms": 206746,
       "name": "CATALYST",
       "url": "https://open.spotify.com/track/3wPpMU6d8h9yxvBadDDr44"
-    },
-    {
-      "added_at": "2023-11-20 15:00:00",
-      "album": {
-        "name": "JUNGLE",
-        "url": "https://open.spotify.com/album/409STQlcajDkM1vdhM4Qxo"
-      },
-      "artists": [
-        {
-          "name": "The Blaze",
-          "url": "https://open.spotify.com/artist/1Dt1UKLtrJIW1xxRBejjos"
-        }
-      ],
-      "duration_ms": 265213,
-      "name": "LONELY",
-      "url": "https://open.spotify.com/track/7r9DWgmElZrjI0G8erYKRr"
     },
     {
       "added_at": "2023-11-20 15:00:00",
@@ -719,22 +719,6 @@
     {
       "added_at": "2023-11-20 15:00:00",
       "album": {
-        "name": "For Granted",
-        "url": "https://open.spotify.com/album/451l9odp6JqepvnwoFRqtQ"
-      },
-      "artists": [
-        {
-          "name": "Yaeji",
-          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
-        }
-      ],
-      "duration_ms": 161946,
-      "name": "For Granted",
-      "url": "https://open.spotify.com/track/61h5rJ790Vov9ks2Vut5mo"
-    },
-    {
-      "added_at": "2023-11-20 15:00:00",
-      "album": {
         "name": "Henge",
         "url": "https://open.spotify.com/album/0B9BY82cIWo4DjRMkUOeeW"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 222200,
       "name": "The Stranger",
       "url": "https://open.spotify.com/track/6vWKSlMiyGlsWzRw8REBxE"
+    },
+    {
+      "added_at": "2023-11-20 15:00:00",
+      "album": {
+        "name": "For Granted",
+        "url": "https://open.spotify.com/album/451l9odp6JqepvnwoFRqtQ"
+      },
+      "artists": [
+        {
+          "name": "Yaeji",
+          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
+        }
+      ],
+      "duration_ms": 161946,
+      "name": "For Granted",
+      "url": "https://open.spotify.com/track/61h5rJ790Vov9ks2Vut5mo"
     },
     {
       "added_at": "2023-11-20 15:00:00",
@@ -923,6 +923,26 @@
     {
       "added_at": "2023-11-20 15:00:00",
       "album": {
+        "name": "Panna Cotta",
+        "url": "https://open.spotify.com/album/76bR8wlB1DS5iaKqFy3fWH"
+      },
+      "artists": [
+        {
+          "name": "Winston Surfshirt",
+          "url": "https://open.spotify.com/artist/61HS7DjYDQIkKSeGvpqmJh"
+        },
+        {
+          "name": "Young Franco",
+          "url": "https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl"
+        }
+      ],
+      "duration_ms": 177467,
+      "name": "Complicated (feat. Young Franco)",
+      "url": "https://open.spotify.com/track/2TdAhpmGqB1DhzI0Auo9lq"
+    },
+    {
+      "added_at": "2023-11-20 15:00:00",
+      "album": {
         "name": "STRUGGLER",
         "url": "https://open.spotify.com/album/1mzWBk8fzEEMumcy5IuVcf"
       },
@@ -955,26 +975,6 @@
       "duration_ms": 163750,
       "name": "I Just Wanna Dance",
       "url": "https://open.spotify.com/track/4dJsbFmhri91euJQbhVqT8"
-    },
-    {
-      "added_at": "2023-11-20 15:00:00",
-      "album": {
-        "name": "Panna Cotta",
-        "url": "https://open.spotify.com/album/76bR8wlB1DS5iaKqFy3fWH"
-      },
-      "artists": [
-        {
-          "name": "Winston Surfshirt",
-          "url": "https://open.spotify.com/artist/61HS7DjYDQIkKSeGvpqmJh"
-        },
-        {
-          "name": "Young Franco",
-          "url": "https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl"
-        }
-      ],
-      "duration_ms": 177467,
-      "name": "Complicated (feat. Young Franco)",
-      "url": "https://open.spotify.com/track/2TdAhpmGqB1DhzI0Auo9lq"
     },
     {
       "added_at": "2023-11-20 15:00:00",
@@ -1051,6 +1051,22 @@
     {
       "added_at": "2023-11-20 15:00:00",
       "album": {
+        "name": "Fantasy",
+        "url": "https://open.spotify.com/album/7B6lEObl7aYkMjX8M89IRQ"
+      },
+      "artists": [
+        {
+          "name": "M83",
+          "url": "https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz"
+        }
+      ],
+      "duration_ms": 243354,
+      "name": "Amnesia",
+      "url": "https://open.spotify.com/track/4ZyCS7eIVZBB4BIkF9UGfW"
+    },
+    {
+      "added_at": "2023-11-20 15:00:00",
+      "album": {
         "name": "Hostage",
         "url": "https://open.spotify.com/album/4fAX7xHj1PJZfIMKtnri9G"
       },
@@ -1079,22 +1095,6 @@
       "duration_ms": 212521,
       "name": "TOMMY",
       "url": "https://open.spotify.com/track/2z0vNWVD3E6FCXZZkt58Po"
-    },
-    {
-      "added_at": "2023-11-20 15:00:00",
-      "album": {
-        "name": "Fantasy",
-        "url": "https://open.spotify.com/album/7B6lEObl7aYkMjX8M89IRQ"
-      },
-      "artists": [
-        {
-          "name": "M83",
-          "url": "https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz"
-        }
-      ],
-      "duration_ms": 243354,
-      "name": "Amnesia",
-      "url": "https://open.spotify.com/track/4ZyCS7eIVZBB4BIkF9UGfW"
     },
     {
       "added_at": "2023-11-20 15:00:00",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2023-11-20 15:00:00",
       "album": {
-        "name": "A STRANGER",
-        "url": "https://open.spotify.com/album/0o3v4DaaAydiFZLv9nsUeC"
-      },
-      "artists": [
-        {
-          "name": "DAMEDAME*",
-          "url": "https://open.spotify.com/artist/3X6c2uu6yXYP4XnprvDg11"
-        }
-      ],
-      "duration_ms": 167391,
-      "name": "A STRANGER",
-      "url": "https://open.spotify.com/track/6t26Su0fcxR2tbHzNfzE8I"
-    },
-    {
-      "added_at": "2023-11-20 15:00:00",
-      "album": {
         "name": "denver luna (acappella)",
         "url": "https://open.spotify.com/album/5jayItxgtL0rwZzJKwcr2G"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 147320,
       "name": "denver luna (acappella)",
       "url": "https://open.spotify.com/track/4hGgIWJLCzQpEyWvdbsf8q"
+    },
+    {
+      "added_at": "2023-11-20 15:00:00",
+      "album": {
+        "name": "A STRANGER",
+        "url": "https://open.spotify.com/album/0o3v4DaaAydiFZLv9nsUeC"
+      },
+      "artists": [
+        {
+          "name": "DAMEDAME*",
+          "url": "https://open.spotify.com/artist/3X6c2uu6yXYP4XnprvDg11"
+        }
+      ],
+      "duration_ms": 167391,
+      "name": "A STRANGER",
+      "url": "https://open.spotify.com/track/6t26Su0fcxR2tbHzNfzE8I"
     },
     {
       "added_at": "2023-11-20 15:00:00",
@@ -1427,6 +1427,22 @@
     {
       "added_at": "2023-11-20 15:00:00",
       "album": {
+        "name": "Better Than I?",
+        "url": "https://open.spotify.com/album/1C3pe9P7vbFgAXH4NUDRr5"
+      },
+      "artists": [
+        {
+          "name": "Shakes",
+          "url": "https://open.spotify.com/artist/4f7G11kEJCEhCDVGaSkS9y"
+        }
+      ],
+      "duration_ms": 145861,
+      "name": "Better Than I?",
+      "url": "https://open.spotify.com/track/0nt7P9iu1hp7cxoNq7mZrG"
+    },
+    {
+      "added_at": "2023-11-20 15:00:00",
+      "album": {
         "name": "Luv 4 Rent",
         "url": "https://open.spotify.com/album/1gIhUSOKHS9WoUCZeBR8Ao"
       },
@@ -1447,22 +1463,6 @@
       "duration_ms": 268667,
       "name": "Pro Freak (with Doechii, Fatman Scoop)",
       "url": "https://open.spotify.com/track/2pDUb0DE5L5soxdQfyzDDc"
-    },
-    {
-      "added_at": "2023-11-20 15:00:00",
-      "album": {
-        "name": "Better Than I?",
-        "url": "https://open.spotify.com/album/1C3pe9P7vbFgAXH4NUDRr5"
-      },
-      "artists": [
-        {
-          "name": "Shakes",
-          "url": "https://open.spotify.com/artist/4f7G11kEJCEhCDVGaSkS9y"
-        }
-      ],
-      "duration_ms": 145861,
-      "name": "Better Than I?",
-      "url": "https://open.spotify.com/track/0nt7P9iu1hp7cxoNq7mZrG"
     },
     {
       "added_at": "2023-11-20 15:00:00",
@@ -1635,22 +1635,6 @@
     {
       "added_at": "2023-11-20 15:00:00",
       "album": {
-        "name": "Pinking Shears",
-        "url": "https://open.spotify.com/album/5tEQyQksm6Hx1QPpvr8NYK"
-      },
-      "artists": [
-        {
-          "name": "Mandy, Indiana",
-          "url": "https://open.spotify.com/artist/2nDJxXJ7PtW7eLpFXcGH3u"
-        }
-      ],
-      "duration_ms": 152420,
-      "name": "Pinking Shears",
-      "url": "https://open.spotify.com/track/25nJyg6wnbRLN1zkmbX8cF"
-    },
-    {
-      "added_at": "2023-11-20 15:00:00",
-      "album": {
         "name": "WRECKED",
         "url": "https://open.spotify.com/album/2e36y4LFJxSObcZOvWrMBF"
       },
@@ -1671,6 +1655,22 @@
       "duration_ms": 173535,
       "name": "FORMULA",
       "url": "https://open.spotify.com/track/6H8YEkzK8FziT1QWnu6fdl"
+    },
+    {
+      "added_at": "2023-11-20 15:00:00",
+      "album": {
+        "name": "Pinking Shears",
+        "url": "https://open.spotify.com/album/5tEQyQksm6Hx1QPpvr8NYK"
+      },
+      "artists": [
+        {
+          "name": "Mandy, Indiana",
+          "url": "https://open.spotify.com/artist/2nDJxXJ7PtW7eLpFXcGH3u"
+        }
+      ],
+      "duration_ms": 152420,
+      "name": "Pinking Shears",
+      "url": "https://open.spotify.com/track/25nJyg6wnbRLN1zkmbX8cF"
     },
     {
       "added_at": "2023-11-20 15:00:00",
@@ -1983,6 +1983,22 @@
     {
       "added_at": "2023-11-20 15:00:00",
       "album": {
+        "name": "THESE DISHES AIN'T GONNA DO THEMSELVES",
+        "url": "https://open.spotify.com/album/7taQKL7ALK6QeXr8pva6O4"
+      },
+      "artists": [
+        {
+          "name": "KABEAUSH\u00c9",
+          "url": "https://open.spotify.com/artist/0NNG4hBbXRp6HQ2EMEkYlj"
+        }
+      ],
+      "duration_ms": 174693,
+      "name": "THESE DISHES AIN'T GONNA DO THEMSELVES",
+      "url": "https://open.spotify.com/track/5IHOTDXjEwmjzvbt7yldMZ"
+    },
+    {
+      "added_at": "2023-11-20 15:00:00",
+      "album": {
         "name": "MMM",
         "url": "https://open.spotify.com/album/0Fbc2gf82fyBWrpDQqxnco"
       },
@@ -1999,22 +2015,6 @@
       "duration_ms": 144928,
       "name": "MMM",
       "url": "https://open.spotify.com/track/5ubj4AhuTnQ5qzuhv4CP3P"
-    },
-    {
-      "added_at": "2023-11-20 15:00:00",
-      "album": {
-        "name": "THESE DISHES AIN'T GONNA DO THEMSELVES",
-        "url": "https://open.spotify.com/album/7taQKL7ALK6QeXr8pva6O4"
-      },
-      "artists": [
-        {
-          "name": "KABEAUSH\u00c9",
-          "url": "https://open.spotify.com/artist/0NNG4hBbXRp6HQ2EMEkYlj"
-        }
-      ],
-      "duration_ms": 174693,
-      "name": "THESE DISHES AIN'T GONNA DO THEMSELVES",
-      "url": "https://open.spotify.com/track/5IHOTDXjEwmjzvbt7yldMZ"
     },
     {
       "added_at": "2023-11-20 15:00:00",

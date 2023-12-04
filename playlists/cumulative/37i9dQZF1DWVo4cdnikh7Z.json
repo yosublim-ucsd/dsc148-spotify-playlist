@@ -9650,7 +9650,7 @@
       ],
       "date_added": "2023-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-04",
       "duration_ms": 220440,
       "name": "Killer Killer (From \"Captain Miller\")",
       "url": "https://open.spotify.com/track/014ZDoWdhujjWpp3Jauc4W"
@@ -9672,7 +9672,7 @@
       ],
       "date_added": "2023-11-22",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-24",
+      "date_removed": null,
       "duration_ms": 220440,
       "name": "Killer Killer (From \"Captain Miller\") (Tamil)",
       "url": "https://open.spotify.com/track/2aFg2jORQAQwny1oIivRun"
@@ -10418,7 +10418,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-04",
       "duration_ms": 191517,
       "name": "Life is On (From \"Annapoorani\")",
       "url": "https://open.spotify.com/track/3ddbf90chTkRcheH4XxU2q"
@@ -10456,6 +10456,40 @@
       "duration_ms": 191517,
       "name": "Life is On (From \"Annapoorani\") (Tamil)",
       "url": "https://open.spotify.com/track/7pcFmiJ56CbcfTpRrgpjuk"
+    },
+    {
+      "album": {
+        "name": "Annapoorani (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6O4GCv6C3R0IdY0VEch0kv"
+      },
+      "artists": [
+        {
+          "name": "D. Harshini Nethra",
+          "url": "https://open.spotify.com/artist/3aAMaw6tZfpiedaleT4Di0"
+        },
+        {
+          "name": "V.M. Shreenitha",
+          "url": "https://open.spotify.com/artist/5suhI0Yia2tSCRN0sjYrpA"
+        },
+        {
+          "name": "R. Gokul",
+          "url": "https://open.spotify.com/artist/47gEnVsVySzz8tyuc6NZ4w"
+        },
+        {
+          "name": "V. Shivathmika",
+          "url": "https://open.spotify.com/artist/4xePdQ8zeScxPnmoMuKLM3"
+        },
+        {
+          "name": "Vivek",
+          "url": "https://open.spotify.com/artist/25Pa1Vz1ZuTHmXPiYeMcgx"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191116,
+      "name": "Life is On, Ver. 2",
+      "url": "https://open.spotify.com/track/1tKOocdJAQveKfRHKm7Ggp"
     },
     {
       "album": {

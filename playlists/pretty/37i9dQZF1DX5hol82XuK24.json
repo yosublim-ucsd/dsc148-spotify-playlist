@@ -1,12 +1,12 @@
 {
   "description": "Are you afraid of the dark?",
-  "num_followers": 420501,
+  "num_followers": 420531,
   "original_name": "Spooky",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YThmMzk4NzhiMmM3MGFjN2Y1NzUyNmJhNzYwYWRlMTkyOTczOTY0",
+  "snapshot_id": "MCxhNDQ4NzNiNTc0NGY3MzliNDkzOTBmODVkNTY4NDVjNzA5YTNjZDA0",
   "tracks": [
     {
       "added_at": "2023-11-03 23:08:22",
@@ -679,22 +679,6 @@
     {
       "added_at": "2023-11-03 23:08:22",
       "album": {
-        "name": "Show Me Your Mind",
-        "url": "https://open.spotify.com/album/1SRKtsEc9mOeNc6yhQrzpM"
-      },
-      "artists": [
-        {
-          "name": "Sunken",
-          "url": "https://open.spotify.com/artist/7KkGto8VYz1WpvIsaSGsFs"
-        }
-      ],
-      "duration_ms": 213236,
-      "name": "Show Me Your Mind",
-      "url": "https://open.spotify.com/track/2ZgOEDHGRz34mewrKsND2t"
-    },
-    {
-      "added_at": "2023-11-03 23:08:22",
-      "album": {
         "name": "Dark Corners and Alchemy",
         "url": "https://open.spotify.com/album/3pcb6cs5ZquBAOiZXuQQRA"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 153915,
       "name": "princes of melancholia",
       "url": "https://open.spotify.com/track/6VTs85uQ0holJSYhflQsua"
+    },
+    {
+      "added_at": "2023-11-03 23:08:22",
+      "album": {
+        "name": "Show Me Your Mind",
+        "url": "https://open.spotify.com/album/1SRKtsEc9mOeNc6yhQrzpM"
+      },
+      "artists": [
+        {
+          "name": "Sunken",
+          "url": "https://open.spotify.com/artist/7KkGto8VYz1WpvIsaSGsFs"
+        }
+      ],
+      "duration_ms": 213236,
+      "name": "Show Me Your Mind",
+      "url": "https://open.spotify.com/track/2ZgOEDHGRz34mewrKsND2t"
     },
     {
       "added_at": "2023-11-03 23:08:22",
@@ -823,22 +823,6 @@
     {
       "added_at": "2023-11-03 23:08:22",
       "album": {
-        "name": "Valley Ghoul",
-        "url": "https://open.spotify.com/album/5FxIFpKhK6juAjoMzYmypW"
-      },
-      "artists": [
-        {
-          "name": "Provoker",
-          "url": "https://open.spotify.com/artist/62s5q1tm3UAcRnbGY9CCI9"
-        }
-      ],
-      "duration_ms": 182778,
-      "name": "Valley Ghoul",
-      "url": "https://open.spotify.com/track/4Gpvffa23tFfBjbusONE01"
-    },
-    {
-      "added_at": "2023-11-03 23:08:22",
-      "album": {
         "name": "Spirituals",
         "url": "https://open.spotify.com/album/2AMcE13TUlCDdXVBlR0sdo"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 156480,
       "name": "My Horror",
       "url": "https://open.spotify.com/track/7qaFdrjVYpKH9lFPaWBBix"
+    },
+    {
+      "added_at": "2023-11-03 23:08:22",
+      "album": {
+        "name": "Valley Ghoul",
+        "url": "https://open.spotify.com/album/5FxIFpKhK6juAjoMzYmypW"
+      },
+      "artists": [
+        {
+          "name": "Provoker",
+          "url": "https://open.spotify.com/artist/62s5q1tm3UAcRnbGY9CCI9"
+        }
+      ],
+      "duration_ms": 182778,
+      "name": "Valley Ghoul",
+      "url": "https://open.spotify.com/track/4Gpvffa23tFfBjbusONE01"
     },
     {
       "added_at": "2023-11-03 23:08:22",
@@ -935,6 +935,22 @@
     {
       "added_at": "2023-11-03 23:08:22",
       "album": {
+        "name": "Let Them In",
+        "url": "https://open.spotify.com/album/46ry8INQSKZQPkjBAwhYou"
+      },
+      "artists": [
+        {
+          "name": "Johnny Goth",
+          "url": "https://open.spotify.com/artist/1ejkQAcOu9cl7kEbZ3Nb8b"
+        }
+      ],
+      "duration_ms": 233968,
+      "name": "Burn Out",
+      "url": "https://open.spotify.com/track/6MhC5b2cyCER2LpuCXR3Fb"
+    },
+    {
+      "added_at": "2023-11-03 23:08:22",
+      "album": {
         "name": "Dancing with Ghosts",
         "url": "https://open.spotify.com/album/1yLAAVq1QqUKEhKJKkHjdl"
       },
@@ -951,22 +967,6 @@
       "duration_ms": 299400,
       "name": "Dancing with Ghosts",
       "url": "https://open.spotify.com/track/2vXq4DzEwtxMyc5WLOg6EY"
-    },
-    {
-      "added_at": "2023-11-03 23:08:22",
-      "album": {
-        "name": "Let Them In",
-        "url": "https://open.spotify.com/album/46ry8INQSKZQPkjBAwhYou"
-      },
-      "artists": [
-        {
-          "name": "Johnny Goth",
-          "url": "https://open.spotify.com/artist/1ejkQAcOu9cl7kEbZ3Nb8b"
-        }
-      ],
-      "duration_ms": 233968,
-      "name": "Burn Out",
-      "url": "https://open.spotify.com/track/6MhC5b2cyCER2LpuCXR3Fb"
     },
     {
       "added_at": "2023-11-03 23:08:22",
@@ -1103,6 +1103,22 @@
     {
       "added_at": "2023-11-03 23:08:22",
       "album": {
+        "name": "Heart Under",
+        "url": "https://open.spotify.com/album/6zVROv27567N68Hu6EVbxb"
+      },
+      "artists": [
+        {
+          "name": "Just Mustard",
+          "url": "https://open.spotify.com/artist/0wXaC3fHGVXbhwn5iLZMMi"
+        }
+      ],
+      "duration_ms": 230133,
+      "name": "I Am You",
+      "url": "https://open.spotify.com/track/1hH8iCAI7si2uM6JGn7Pdl"
+    },
+    {
+      "added_at": "2023-11-03 23:08:22",
+      "album": {
         "name": "Take Me Down (Nourished by Time Version)",
         "url": "https://open.spotify.com/album/3IixjGRUGeSJtzsA92Ybbr"
       },
@@ -1135,22 +1151,6 @@
       "duration_ms": 327540,
       "name": "Too Sad",
       "url": "https://open.spotify.com/track/6VoVG0X8ToU27bWyAXduJb"
-    },
-    {
-      "added_at": "2023-11-03 23:08:22",
-      "album": {
-        "name": "Heart Under",
-        "url": "https://open.spotify.com/album/6zVROv27567N68Hu6EVbxb"
-      },
-      "artists": [
-        {
-          "name": "Just Mustard",
-          "url": "https://open.spotify.com/artist/0wXaC3fHGVXbhwn5iLZMMi"
-        }
-      ],
-      "duration_ms": 230133,
-      "name": "I Am You",
-      "url": "https://open.spotify.com/track/1hH8iCAI7si2uM6JGn7Pdl"
     },
     {
       "added_at": "2023-11-03 23:08:22",

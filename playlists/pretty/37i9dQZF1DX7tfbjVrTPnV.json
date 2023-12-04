@@ -1,12 +1,12 @@
 {
   "description": "Enjoy new and classic releases from icons of folk and Americana. Cover: Lori McKenna",
-  "num_followers": 198060,
+  "num_followers": 198122,
   "original_name": "Americana Icons",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYjIxMmJhZGY0YmIzZjU4MzA4NDA3NGU2MmEzZDVkZGU2YTZmNWQ2",
+  "snapshot_id": "MCw5ZmNjM2UzOTVjNGM3NmQwNWFmY2Q4ZTU4MzQ0NjYyNzYzNzg0MGFh",
   "tracks": [
     {
       "added_at": "2023-08-11 04:00:00",
@@ -475,6 +475,22 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
+        "name": "The Muse",
+        "url": "https://open.spotify.com/album/2xkAdEXW7nGQAJMptaOk2d"
+      },
+      "artists": [
+        {
+          "name": "The Wood Brothers",
+          "url": "https://open.spotify.com/artist/6FxuPrpa8phaP3Xn73emhT"
+        }
+      ],
+      "duration_ms": 201000,
+      "name": "The Muse",
+      "url": "https://open.spotify.com/track/2eEj2cIxdU4wm47z7UBMIC"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
         "name": "Childhood Home",
         "url": "https://open.spotify.com/album/1LzGZidfjepFeFOHNxxrIX"
       },
@@ -491,22 +507,6 @@
       "duration_ms": 162800,
       "name": "A House Is A Home",
       "url": "https://open.spotify.com/track/1YYikTSCFdbivfd22fqGsX"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
-        "name": "The Muse",
-        "url": "https://open.spotify.com/album/2xkAdEXW7nGQAJMptaOk2d"
-      },
-      "artists": [
-        {
-          "name": "The Wood Brothers",
-          "url": "https://open.spotify.com/artist/6FxuPrpa8phaP3Xn73emhT"
-        }
-      ],
-      "duration_ms": 201000,
-      "name": "The Muse",
-      "url": "https://open.spotify.com/track/2eEj2cIxdU4wm47z7UBMIC"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -651,22 +651,6 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "The Tree",
-        "url": "https://open.spotify.com/album/2Jv8rT6pudH0eIlgu90zKm"
-      },
-      "artists": [
-        {
-          "name": "Lori McKenna",
-          "url": "https://open.spotify.com/artist/1OV5mEATxtVma7fleFaUyl"
-        }
-      ],
-      "duration_ms": 222279,
-      "name": "People Get Old",
-      "url": "https://open.spotify.com/track/2Tm7nXWJouomHeRN9bT6IK"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
         "name": "Soul Journey",
         "url": "https://open.spotify.com/album/75NIWZjBwsF7MyfbG8JPwr"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 256026,
       "name": "Look At Miss Ohio",
       "url": "https://open.spotify.com/track/5vPRCX0Bj8O374jTCAQRLS"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "The Tree",
+        "url": "https://open.spotify.com/album/2Jv8rT6pudH0eIlgu90zKm"
+      },
+      "artists": [
+        {
+          "name": "Lori McKenna",
+          "url": "https://open.spotify.com/artist/1OV5mEATxtVma7fleFaUyl"
+        }
+      ],
+      "duration_ms": 222279,
+      "name": "People Get Old",
+      "url": "https://open.spotify.com/track/2Tm7nXWJouomHeRN9bT6IK"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -747,6 +747,22 @@
       "duration_ms": 273693,
       "name": "Do I Look Worried",
       "url": "https://open.spotify.com/track/1JFdocYRMthec2BNrkOF1b"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "Time (The Revelator)",
+        "url": "https://open.spotify.com/album/55FP2ypQcghszSqylyBRbp"
+      },
+      "artists": [
+        {
+          "name": "Gillian Welch",
+          "url": "https://open.spotify.com/artist/2H5elA2mJKrHmqkN9GSfkz"
+        }
+      ],
+      "duration_ms": 288000,
+      "name": "Everything Is Free",
+      "url": "https://open.spotify.com/track/0H8ukN2MIW2iNvqJP1kb4O"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -867,22 +883,6 @@
       "duration_ms": 221826,
       "name": "This Train is Bound for Glory",
       "url": "https://open.spotify.com/track/7mfn1O2YQifrW5nZhAhCGL"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
-        "name": "Time (The Revelator)",
-        "url": "https://open.spotify.com/album/55FP2ypQcghszSqylyBRbp"
-      },
-      "artists": [
-        {
-          "name": "Gillian Welch",
-          "url": "https://open.spotify.com/artist/2H5elA2mJKrHmqkN9GSfkz"
-        }
-      ],
-      "duration_ms": 288000,
-      "name": "Everything Is Free",
-      "url": "https://open.spotify.com/track/0H8ukN2MIW2iNvqJP1kb4O"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "Mountains Of Sorrow, Rivers Of Song (Deluxe)",
-        "url": "https://open.spotify.com/album/7mmqWjgDqup34v4bVcTHTx"
-      },
-      "artists": [
-        {
-          "name": "Amos Lee",
-          "url": "https://open.spotify.com/artist/0QrowybipCKUDnq5y10PD2"
-        }
-      ],
-      "duration_ms": 255533,
-      "name": "Johnson Blvd",
-      "url": "https://open.spotify.com/track/7yVaOoJkOA6Ds8nL9KFDAe"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
         "name": "Mortal City",
         "url": "https://open.spotify.com/album/6EVUAMSaUKG6mxVQcWDdJG"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 287933,
       "name": "Iowa (Traveling, Pt. 3)",
       "url": "https://open.spotify.com/track/1DPu4VZvRagYKnkDtn4FbU"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "Mountains Of Sorrow, Rivers Of Song (Deluxe)",
+        "url": "https://open.spotify.com/album/7mmqWjgDqup34v4bVcTHTx"
+      },
+      "artists": [
+        {
+          "name": "Amos Lee",
+          "url": "https://open.spotify.com/artist/0QrowybipCKUDnq5y10PD2"
+        }
+      ],
+      "duration_ms": 255533,
+      "name": "Johnson Blvd",
+      "url": "https://open.spotify.com/track/7yVaOoJkOA6Ds8nL9KFDAe"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -1407,26 +1407,18 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "Southern Family",
-        "url": "https://open.spotify.com/album/2cKzkXbgcoQjaFMCPbJDdi"
+        "name": "The Worse Things Get, The Harder I Fight, The Harder I Fight, The More I Love You (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/56PXLjwRAZTqpZjM07FeR5"
       },
       "artists": [
         {
-          "name": "Morgane Stapleton",
-          "url": "https://open.spotify.com/artist/2NMDcLqpSDPcPA3OMitdnX"
-        },
-        {
-          "name": "Chris Stapleton",
-          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
-        },
-        {
-          "name": "Southern Family",
-          "url": "https://open.spotify.com/artist/6AQnRGiSkXiVUvqz9Owe4x"
+          "name": "Neko Case",
+          "url": "https://open.spotify.com/artist/4Cedjq5BQL3MhapRvDpFED"
         }
       ],
-      "duration_ms": 373266,
-      "name": "You Are My Sunshine (with Chris Stapleton)",
-      "url": "https://open.spotify.com/track/0JqHPXj2YlV0oIbWleZjDS"
+      "duration_ms": 227826,
+      "name": "Night Still Comes",
+      "url": "https://open.spotify.com/track/0l5TOyEd5RswsWnqOaOX0X"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -1463,18 +1455,26 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "The Worse Things Get, The Harder I Fight, The Harder I Fight, The More I Love You (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/56PXLjwRAZTqpZjM07FeR5"
+        "name": "Southern Family",
+        "url": "https://open.spotify.com/album/2cKzkXbgcoQjaFMCPbJDdi"
       },
       "artists": [
         {
-          "name": "Neko Case",
-          "url": "https://open.spotify.com/artist/4Cedjq5BQL3MhapRvDpFED"
+          "name": "Morgane Stapleton",
+          "url": "https://open.spotify.com/artist/2NMDcLqpSDPcPA3OMitdnX"
+        },
+        {
+          "name": "Chris Stapleton",
+          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
+        },
+        {
+          "name": "Southern Family",
+          "url": "https://open.spotify.com/artist/6AQnRGiSkXiVUvqz9Owe4x"
         }
       ],
-      "duration_ms": 227826,
-      "name": "Night Still Comes",
-      "url": "https://open.spotify.com/track/0l5TOyEd5RswsWnqOaOX0X"
+      "duration_ms": 373266,
+      "name": "You Are My Sunshine (with Chris Stapleton)",
+      "url": "https://open.spotify.com/track/0JqHPXj2YlV0oIbWleZjDS"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -1771,22 +1771,6 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "Give the People What They Want",
-        "url": "https://open.spotify.com/album/3f8j4GaxidCnaDhlD72V0O"
-      },
-      "artists": [
-        {
-          "name": "Sharon Jones & The Dap-Kings",
-          "url": "https://open.spotify.com/artist/6LufpoVlIYKQCu9Gjpk8B7"
-        }
-      ],
-      "duration_ms": 211266,
-      "name": "Stranger to My Happiness",
-      "url": "https://open.spotify.com/track/1ajv5XuWMbe35X13ACtyv9"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
         "name": "Black Roses",
         "url": "https://open.spotify.com/album/1iC9LrnPFTIBmXuAd6xRcA"
       },
@@ -1803,18 +1787,18 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "Remedy",
-        "url": "https://open.spotify.com/album/5UeWaLSzyg0dpeCdQyx9u0"
+        "name": "Give the People What They Want",
+        "url": "https://open.spotify.com/album/3f8j4GaxidCnaDhlD72V0O"
       },
       "artists": [
         {
-          "name": "Old Crow Medicine Show",
-          "url": "https://open.spotify.com/artist/4DBi4EYXgiqbkxvWUXUzMi"
+          "name": "Sharon Jones & The Dap-Kings",
+          "url": "https://open.spotify.com/artist/6LufpoVlIYKQCu9Gjpk8B7"
         }
       ],
-      "duration_ms": 230106,
-      "name": "Brushy Mountain Conjugal Trailer",
-      "url": "https://open.spotify.com/track/1qHro6dwCdlg9XPhNvWrLe"
+      "duration_ms": 211266,
+      "name": "Stranger to My Happiness",
+      "url": "https://open.spotify.com/track/1ajv5XuWMbe35X13ACtyv9"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -1831,6 +1815,22 @@
       "duration_ms": 201960,
       "name": "A Woman's Love",
       "url": "https://open.spotify.com/track/4IkhRQizRckM60amLGAQhg"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "Remedy",
+        "url": "https://open.spotify.com/album/5UeWaLSzyg0dpeCdQyx9u0"
+      },
+      "artists": [
+        {
+          "name": "Old Crow Medicine Show",
+          "url": "https://open.spotify.com/artist/4DBi4EYXgiqbkxvWUXUzMi"
+        }
+      ],
+      "duration_ms": 230106,
+      "name": "Brushy Mountain Conjugal Trailer",
+      "url": "https://open.spotify.com/track/1qHro6dwCdlg9XPhNvWrLe"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -1947,26 +1947,6 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "Our Year",
-        "url": "https://open.spotify.com/album/4czX5gzvl0sypiWj6yZM7c"
-      },
-      "artists": [
-        {
-          "name": "Bruce Robison",
-          "url": "https://open.spotify.com/artist/5cqtplMyw7hPLjW47Jr7Uq"
-        },
-        {
-          "name": "Kelly Willis",
-          "url": "https://open.spotify.com/artist/2WG7Z6CpNehgR1WGgjKF0E"
-        }
-      ],
-      "duration_ms": 142173,
-      "name": "This Will Be Our Year",
-      "url": "https://open.spotify.com/track/2xJ46eURgNsOroUGbcOJ9s"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
         "name": "Way Out West",
         "url": "https://open.spotify.com/album/60pQBVeOJlYePpptEhEouB"
       },
@@ -2011,6 +1991,26 @@
       "duration_ms": 169266,
       "name": "Me and You",
       "url": "https://open.spotify.com/track/0AxwGUoC4g9pp2lesuvvg0"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "Our Year",
+        "url": "https://open.spotify.com/album/4czX5gzvl0sypiWj6yZM7c"
+      },
+      "artists": [
+        {
+          "name": "Bruce Robison",
+          "url": "https://open.spotify.com/artist/5cqtplMyw7hPLjW47Jr7Uq"
+        },
+        {
+          "name": "Kelly Willis",
+          "url": "https://open.spotify.com/artist/2WG7Z6CpNehgR1WGgjKF0E"
+        }
+      ],
+      "duration_ms": 142173,
+      "name": "This Will Be Our Year",
+      "url": "https://open.spotify.com/track/2xJ46eURgNsOroUGbcOJ9s"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -2119,22 +2119,6 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "First Rose of Spring",
-        "url": "https://open.spotify.com/album/5WVhM9o7WmTU8n4JgGYHdC"
-      },
-      "artists": [
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        }
-      ],
-      "duration_ms": 231080,
-      "name": "Our Song",
-      "url": "https://open.spotify.com/track/14wfXHLj8MLp59Yxe0Gesf"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
         "name": "Trouble and Love",
         "url": "https://open.spotify.com/album/4y2kVQxcRP5bo2t55EFpDR"
       },
@@ -2147,6 +2131,22 @@
       "duration_ms": 326746,
       "name": "Oh Soul",
       "url": "https://open.spotify.com/track/0PdULrhTlH3sUzdBNDxILS"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "First Rose of Spring",
+        "url": "https://open.spotify.com/album/5WVhM9o7WmTU8n4JgGYHdC"
+      },
+      "artists": [
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
+      ],
+      "duration_ms": 231080,
+      "name": "Our Song",
+      "url": "https://open.spotify.com/track/14wfXHLj8MLp59Yxe0Gesf"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -2555,22 +2555,6 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "Killin' Uncle Buzzy",
-        "url": "https://open.spotify.com/album/3XmWV3KKzHEkV0iZXWSU8l"
-      },
-      "artists": [
-        {
-          "name": "Travis Meadows",
-          "url": "https://open.spotify.com/artist/5d2EFS71gAHBeP1KWOBgCA"
-        }
-      ],
-      "duration_ms": 246373,
-      "name": "Learning How to Live Alone",
-      "url": "https://open.spotify.com/track/0KRiKjCsqMRN0Pmp2CFzQK"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
         "name": "The Killing Fields",
         "url": "https://open.spotify.com/album/5cEX0d8qgLfNjNT7yyOkxS"
       },
@@ -2587,6 +2571,22 @@
       "duration_ms": 263000,
       "name": "The Killing Fields",
       "url": "https://open.spotify.com/track/4JvN6gikGBJ65KjEGEnAUP"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "Killin' Uncle Buzzy",
+        "url": "https://open.spotify.com/album/3XmWV3KKzHEkV0iZXWSU8l"
+      },
+      "artists": [
+        {
+          "name": "Travis Meadows",
+          "url": "https://open.spotify.com/artist/5d2EFS71gAHBeP1KWOBgCA"
+        }
+      ],
+      "duration_ms": 246373,
+      "name": "Learning How to Live Alone",
+      "url": "https://open.spotify.com/track/0KRiKjCsqMRN0Pmp2CFzQK"
     },
     {
       "added_at": "2023-08-11 04:00:00",

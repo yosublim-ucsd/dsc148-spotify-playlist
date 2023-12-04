@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > All\-new releases by Latin artists! Cover: Milo j
 
-[Spotify](https://open.spotify.com/user/spotify) - 586,338 likes - 55 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 586,478 likes - 55 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 54 | [MAGIA NEGRA](https://open.spotify.com/track/1E71uY1krMSN6fyX7zOt2L) | [Le Coco](https://open.spotify.com/artist/2ikSIaA1jYSCznIZnWiw2v) | [MAGIA NEGRA](https://open.spotify.com/album/4XnM8cvuYpAjfR3bXwoXEc) | 3:34 |
 | 55 | [Sol Mujer](https://open.spotify.com/track/53euvf5bCCJE2sWLelaLLJ) | [NotMike](https://open.spotify.com/artist/2A4kFqtxOV5F75jjPt6Dxy), [Tobbi](https://open.spotify.com/artist/3VFnmu0xXggZpaGaUwXfeR) | [Sol Mujer](https://open.spotify.com/album/6JdBhhNi4diKD2mj3Y38gL) | 3:32 |
 
-Snapshot ID: `MCwxN2YyY2E2N2I1NTJjZDM1YjUzMzE2MGNiNGVmZDMxYTIwNGM2ZTc3`
+Snapshot ID: `MCwxMTRjZDA2OTBkOGY0OGZhODA2Nzc4YTcwOWE5MzBlYzhhOWNlOGMw`

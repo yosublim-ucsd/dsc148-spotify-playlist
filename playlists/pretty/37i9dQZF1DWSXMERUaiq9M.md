@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXMERUaiq9M.md) - [plain]
 
 > love peace techno
 
-[Spotify](https://open.spotify.com/user/spotify) - 193,047 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 193,341 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXMERUaiq9M.md) - [plain]
 | 13 | [In The City \(Charli XCX & Sam Smith\) \- DJ HEARTSTRING REMIX](https://open.spotify.com/track/1PPyQo1k7wI1U6BcaD0ZfT) | [DJ HEARTSTRING](https://open.spotify.com/artist/5tcwaJBUyEdxQxvieuQxU7), [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [In The City \(Charli XCX & Sam Smith\) \[DJ HEARTSTRING REMIX\]](https://open.spotify.com/album/4DgbJO2O9XXAMYXP6j3cX6) | 3:33 |
 | 14 | [Party All The Time](https://open.spotify.com/track/49iD1q5Z58aEDqCemEXpS1) | [Hannah Laing](https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o), [HVRR](https://open.spotify.com/artist/3F3QWH7UilOE5tiKzAzgde) | [Party All The Time](https://open.spotify.com/album/4quE07XoEsKoWZpiCRCtlq) | 2:09 |
 | 15 | [My Gasoline](https://open.spotify.com/track/6dyfsauAoa5qN0tj9JKamE) | [Maddix](https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA), [Fēlēs](https://open.spotify.com/artist/7akxhVMmCpSDFw152XqCu6) | [My Gasoline](https://open.spotify.com/album/0EaF9YPTmGw5K9ndExhQ7a) | 3:56 |
-| 16 | [KETA UND KRAWALL](https://open.spotify.com/track/6zP4Utvok4QRXlNYBZkpGa) | [Ikkimel](https://open.spotify.com/artist/0CzoJbqBbtBNLArLyAFDPn), [Barré](https://open.spotify.com/artist/2oxB9ArMXPTWdsMg4kKmLl) | [KETA UND KRAWALL](https://open.spotify.com/album/1J45kvnBanNkQebLmKvXTa) | 2:05 |
-| 17 | [Typa Girl](https://open.spotify.com/track/16SKOkyJsJNeJkHUFTcDUm) | [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi) | [Dunes](https://open.spotify.com/album/5OraR3Y7Ccd990r66pBWUB) | 3:04 |
+| 16 | [Typa Girl](https://open.spotify.com/track/16SKOkyJsJNeJkHUFTcDUm) | [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi) | [Dunes](https://open.spotify.com/album/5OraR3Y7Ccd990r66pBWUB) | 3:04 |
+| 17 | [KETA UND KRAWALL](https://open.spotify.com/track/6zP4Utvok4QRXlNYBZkpGa) | [Ikkimel](https://open.spotify.com/artist/0CzoJbqBbtBNLArLyAFDPn), [Barré](https://open.spotify.com/artist/2oxB9ArMXPTWdsMg4kKmLl) | [KETA UND KRAWALL](https://open.spotify.com/album/1J45kvnBanNkQebLmKvXTa) | 2:05 |
 | 18 | [Get Shaky](https://open.spotify.com/track/267DliVFe67u89luc9v6UD) | [KXXMA](https://open.spotify.com/artist/6AFA7y2tNohNcpaLwDRyxx), [TurboKevin](https://open.spotify.com/artist/2nxyC1TQywKkvfkvuaiaW6) | [Get Shaky](https://open.spotify.com/album/11Xrum0ysuitc8vtBrlmQM) | 3:57 |
 | 19 | [Rock Your Life](https://open.spotify.com/track/4P7vWzrD05xyvDzWMlI7TN) | [P.Vanillaboy](https://open.spotify.com/artist/6no5okBU3PLAhvonZbi21z), [penglord](https://open.spotify.com/artist/2DTVU6DwbfC2wMt3YIdiv4) | [P2P](https://open.spotify.com/album/0V8nN61lBUpwy8zOXZUO4T) | 4:41 |
 | 20 | [Sarà perché ti amo](https://open.spotify.com/track/6nQLIugrQVRZ7UKaTVdnmS) | [Ricchi E Poveri](https://open.spotify.com/artist/5BwOOeKayeMZXa5SSaiRxv), [Luca\-Dante Spadafora](https://open.spotify.com/artist/6k9e4mFFVtEAAhGdvJBtqB) | [Sarà perché ti amo](https://open.spotify.com/album/42TliMaS2eKrHcVEzggsAh) | 2:14 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXMERUaiq9M.md) - [plain]
 | 49 | [All Of It](https://open.spotify.com/track/79grw34DPX7iCvVUfBPB9S) | [Funk Tribu](https://open.spotify.com/artist/1vK8NnrPlBlF34LaiFX1SK), [Lucy Dye](https://open.spotify.com/artist/43ExVtoWEweRa8s1SlFZUj) | [All Of It](https://open.spotify.com/album/5iHDU2XwpJwk0xiIH1Bc6Z) | 5:31 |
 | 50 | [All Good Things \(Come To An End\)](https://open.spotify.com/track/4PfnalD9fzuJ5Kx58Bwmu5) | [DJ Traytex](https://open.spotify.com/artist/6mrd6VB8APeUr5ATWunRZX) | [All Good Things \(Come To An End\)](https://open.spotify.com/album/2rijCmu0yFrRBslQ5ujkW7) | 3:24 |
 
-Snapshot ID: `MCw4YWJiMzUyYzA1ZWFlYzYzNzIzZDMzM2ZhNjJkM2M3NWM2MWY3MDM2`
+Snapshot ID: `MCw4ZWRmMzY3YzdmNGMwYjcyM2JjYjU0ODQ3NDgzZmNjNWZmMzNhNmUw`

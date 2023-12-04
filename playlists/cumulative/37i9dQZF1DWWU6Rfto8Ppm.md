@@ -4,7 +4,7 @@
 
 > Acuérdate de estos clásicos\. Foto: Don Omar.
 
-412 songs - 1 day 0 hr 47 min
+413 songs - 1 day 0 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [Abusadora](https://open.spotify.com/track/5nR0AuLqlOHoHZ7fehUYuF) | [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9) | [La Revolución \- Evolution \(International Version\)](https://open.spotify.com/album/7CCfcuCn7J3dvHYziLI4T1) | 3:00 | 2021-12-17 | 2022-07-29 |
 | [Abusadora](https://open.spotify.com/track/6Zdjh0uRQPt22BPckJgvEj) | [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9) | [La Revolucion \(Deluxe\)](https://open.spotify.com/album/7zTlfidBmhUVtUmLSKk7WF) | 3:00 | 2022-07-27 |  |
 | [Acechándote](https://open.spotify.com/track/1how0UKUUwdF0ukchBbVy4) | [Yaga & Mackie](https://open.spotify.com/artist/16Juw2gfa9IxEL3Vu69cH7) | [Clase Aparte](https://open.spotify.com/album/3EZqNZv60m7uPbyKlFUJ1Y) | 3:32 | 2023-07-24 |  |
-| [Agarrala](https://open.spotify.com/track/50K0GKbudptd9wZwQlQWdj) | [Trebol Clan](https://open.spotify.com/artist/3YXpTiyVmYCfANOlnWv6vr) | [Reggaeton Hall of Fame, Vol\. 1](https://open.spotify.com/album/7z9bNKljyF4BCVf6srNhN0) | 2:37 | 2023-10-05 |  |
+| [Agarrala](https://open.spotify.com/track/50K0GKbudptd9wZwQlQWdj) | [Trebol Clan](https://open.spotify.com/artist/3YXpTiyVmYCfANOlnWv6vr) | [Reggaeton Hall of Fame, Vol\. 1](https://open.spotify.com/album/7z9bNKljyF4BCVf6srNhN0) | 2:37 | 2023-10-05 | 2023-12-04 |
 | [Agresivo](https://open.spotify.com/track/2kGnzHH1Q6YaxjNylz68CM) | [Jowell & Randy](https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [La Calle Vol\. 1](https://open.spotify.com/album/30iJTNP5UbuT2QFDlOVwME) | 3:49 | 2021-12-17 |  |
 | [Agárrala \- Remix](https://open.spotify.com/track/43yyvWNjl3yWpghcrxZYkr) | [Trebol Clan](https://open.spotify.com/artist/3YXpTiyVmYCfANOlnWv6vr) | [Los Bacatranes](https://open.spotify.com/album/6L3AvTd86IFDOEcPCLUmf7) | 2:32 | 2021-12-17 | 2023-11-04 |
 | [Agárrale el Pantalón \(feat\. Zion & Lennox\)](https://open.spotify.com/track/3Wd4Yl2TjjTxkvlJCHWvB9) | [Alexis y Fido](https://open.spotify.com/artist/7tU1VKOuxiNZwBZC6RHidA), [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1) | [The Pitbulls](https://open.spotify.com/album/3OGa8iAHFfNXNT6wngG1eH) | 3:09 | 2021-12-17 | 2023-01-12 |
@@ -288,6 +288,7 @@
 | [Quiero Bailar](https://open.spotify.com/track/1EyH5BK5Cx5XzQyEDks0fT) | [Ivy Queen](https://open.spotify.com/artist/6p2442ymrT9lZEuCZJdYcH) | [Diva Platinum Edition](https://open.spotify.com/album/5n1pmoNSuLWs9bSGXzUY7e) | 3:04 | 2022-07-27 | 2023-01-12 |
 | [Quiero Bailar](https://open.spotify.com/track/7mY1dIaY9vY6Jrlrjg3dRn) | [Ivy Queen](https://open.spotify.com/artist/6p2442ymrT9lZEuCZJdYcH) | [DIVA\- Platinum Edition](https://open.spotify.com/album/0Sv18KP8WCk1eHGnhJqTrb) | 3:06 | 2022-12-07 |  |
 | [Quiero Saber](https://open.spotify.com/track/4VKI2yBkCE4mWhFBwZp0LU) | [Ivy Queen](https://open.spotify.com/artist/6p2442ymrT9lZEuCZJdYcH) | [DIVA\- Platinum Edition](https://open.spotify.com/album/0Sv18KP8WCk1eHGnhJqTrb) | 2:55 | 2021-12-17 |  |
+| [Quiero una Chica](https://open.spotify.com/track/2fHkNZLuGbBGCw2jrNScwd) | [Latin Dreams](https://open.spotify.com/artist/0fbZUQ5vFLok76WdZ33lhX) | [Quiero Una Chica](https://open.spotify.com/album/6xOGIp8MvIrOwSwkwaCheM) | 3:25 | 2023-10-05 |  |
 | [Quiero una Chica](https://open.spotify.com/track/3afj5hDroznm9rXBsqY2cg) | [Latin Dreams](https://open.spotify.com/artist/0fbZUQ5vFLok76WdZ33lhX) | [Quiero Una Chica](https://open.spotify.com/album/34eKYYPYq2EhyTVaQiQjfT) | 3:37 | 2021-12-17 | 2023-11-19 |
 | [Quitate Tu Pa Ponerme Yo](https://open.spotify.com/track/16KDdey3vnSBWwqUZoe1cT) | [Eddie Dee](https://open.spotify.com/artist/7zLcnirfgw1VEHHshuGcDR), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Gallego](https://open.spotify.com/artist/6P9Adm5Ne2YtzhV1hOjQcC), [Tego Calderón](https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP), [Voltio](https://open.spotify.com/artist/3Okcq0dqLVlEFHRZ5t22bA), [Ivy Queen](https://open.spotify.com/artist/6p2442ymrT9lZEuCZJdYcH), [Johnny Prez](https://open.spotify.com/artist/6gm3ZEpugRTHbtEn3A6Siw), [Wiso G](https://open.spotify.com/artist/0LZaKjCxp13clON7dlplRt), [Lennox](https://open.spotify.com/artist/7BOLXRhKCofrP6ESS7Owuo) | [12 Discipulos](https://open.spotify.com/album/7txBx0XCrl5IhJuTNgNV4w) | 4:51 | 2021-12-17 |  |
 | [Quizas \- Remix](https://open.spotify.com/track/5lSASgj3h5dWTK7pr4vkBq) | [Tony Dize](https://open.spotify.com/artist/3LKXWvXFWrkwUzJWxzwVpW), [Ken\-Y](https://open.spotify.com/artist/4DYFVNKZ1uixa6SQTvzQwJ) | [Los Vaqueros Wild Wild Mixes](https://open.spotify.com/album/4Yufs8sW6tHUNvkDAVTaYn) | 4:00 | 2021-12-17 | 2022-07-29 |

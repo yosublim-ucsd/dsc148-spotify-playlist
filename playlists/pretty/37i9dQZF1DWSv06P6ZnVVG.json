@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Pa' toda la raza carnavalera!",
-  "num_followers": 27427,
+  "num_followers": 27511,
   "original_name": "Banda Carnavalera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZjY1MWI2NzdhN2ZkNTA2ZDQ4NTg3ODdiZTRiODEwMWFhMDAyNWFl",
+  "snapshot_id": "MCwzNDkzMWFiY2M1NTRkNzc0Zjk4ZTljNjg4MmJhNGY2YjM5MzdmODlk",
   "tracks": [
     {
       "added_at": "2022-08-02 22:31:47",
@@ -407,8 +407,8 @@
     {
       "added_at": "2022-08-02 22:31:47",
       "album": {
-        "name": "Me Hac\u00edan Falta Huevos",
-        "url": "https://open.spotify.com/album/1VcgV7OkxAxXLKTpnSBGJI"
+        "name": "Mudanzas A La Luna",
+        "url": "https://open.spotify.com/album/6xJfh54aAD89uBv0b8EYIb"
       },
       "artists": [
         {
@@ -416,9 +416,9 @@
           "url": "https://open.spotify.com/artist/1DA8SLXtp8MMVpgaOWzMQr"
         }
       ],
-      "duration_ms": 198133,
-      "name": "Qu\u00edtate El Zapato",
-      "url": "https://open.spotify.com/track/0NSg3mf1Zjvf4PafCQCB2Q"
+      "duration_ms": 181440,
+      "name": "Las G\u00fcilotas",
+      "url": "https://open.spotify.com/track/2bCsFEdKi0EXK8GWSkNClD"
     },
     {
       "added_at": "2022-08-02 22:31:47",
@@ -507,8 +507,8 @@
     {
       "added_at": "2022-08-02 22:31:47",
       "album": {
-        "name": "Mudanzas A La Luna",
-        "url": "https://open.spotify.com/album/6xJfh54aAD89uBv0b8EYIb"
+        "name": "Me Hac\u00edan Falta Huevos",
+        "url": "https://open.spotify.com/album/1VcgV7OkxAxXLKTpnSBGJI"
       },
       "artists": [
         {
@@ -516,9 +516,9 @@
           "url": "https://open.spotify.com/artist/1DA8SLXtp8MMVpgaOWzMQr"
         }
       ],
-      "duration_ms": 181440,
-      "name": "Las G\u00fcilotas",
-      "url": "https://open.spotify.com/track/2bCsFEdKi0EXK8GWSkNClD"
+      "duration_ms": 198133,
+      "name": "Qu\u00edtate El Zapato",
+      "url": "https://open.spotify.com/track/0NSg3mf1Zjvf4PafCQCB2Q"
     },
     {
       "added_at": "2022-08-02 22:31:47",
@@ -687,22 +687,6 @@
     {
       "added_at": "2022-08-02 22:31:47",
       "album": {
-        "name": "Estabas T\u00fa",
-        "url": "https://open.spotify.com/album/7Hs7cWNemcy8goTydz5pW0"
-      },
-      "artists": [
-        {
-          "name": "Banda La Pi\u00f1era",
-          "url": "https://open.spotify.com/artist/4sT9x4j4hhwjHwfiOvL9je"
-        }
-      ],
-      "duration_ms": 153066,
-      "name": "El Cable",
-      "url": "https://open.spotify.com/track/5DTyBCIE6H6exUdve72eZh"
-    },
-    {
-      "added_at": "2022-08-02 22:31:47",
-      "album": {
         "name": "Las Mamirriquis",
         "url": "https://open.spotify.com/album/3Q6ytU0NXA47Ba4HEhaE6I"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 164087,
       "name": "La Burra Orejona",
       "url": "https://open.spotify.com/track/4g9S6u0oMzIsRrHvubAyXt"
+    },
+    {
+      "added_at": "2022-08-02 22:31:47",
+      "album": {
+        "name": "Estabas T\u00fa",
+        "url": "https://open.spotify.com/album/7Hs7cWNemcy8goTydz5pW0"
+      },
+      "artists": [
+        {
+          "name": "Banda La Pi\u00f1era",
+          "url": "https://open.spotify.com/artist/4sT9x4j4hhwjHwfiOvL9je"
+        }
+      ],
+      "duration_ms": 153066,
+      "name": "El Cable",
+      "url": "https://open.spotify.com/track/5DTyBCIE6H6exUdve72eZh"
     },
     {
       "added_at": "2022-08-02 22:31:47",
@@ -819,26 +819,6 @@
     {
       "added_at": "2022-08-02 22:31:47",
       "album": {
-        "name": "La Trayectoria! (De Arturo Camarillo)",
-        "url": "https://open.spotify.com/album/5mcVVKulTCGOStTTJ6Pgir"
-      },
-      "artists": [
-        {
-          "name": "Banda Trancazo",
-          "url": "https://open.spotify.com/artist/6RS70ocGGNzPKiJVhgf3m9"
-        },
-        {
-          "name": "Arturo Camarillo",
-          "url": "https://open.spotify.com/artist/3p0GWiyIY3AOcBWvXXVQ4h"
-        }
-      ],
-      "duration_ms": 243506,
-      "name": "Popurr\u00ed Mexicano: Son de la Negra / Pelea de Gallos",
-      "url": "https://open.spotify.com/track/0gi7rXrTRTmQqsoVrVW3X8"
-    },
-    {
-      "added_at": "2022-08-02 22:31:47",
-      "album": {
         "name": "Carnavaleando con la Tierra Mojada",
         "url": "https://open.spotify.com/album/5znsyujVo3YajOYUiSUdnQ"
       },
@@ -867,6 +847,26 @@
       "duration_ms": 166876,
       "name": "El Chavo del Ocho (The Elephant Never Forgets)",
       "url": "https://open.spotify.com/track/5cFY7DAekksn0hroUe8K02"
+    },
+    {
+      "added_at": "2022-08-02 22:31:47",
+      "album": {
+        "name": "La Trayectoria! (De Arturo Camarillo)",
+        "url": "https://open.spotify.com/album/5mcVVKulTCGOStTTJ6Pgir"
+      },
+      "artists": [
+        {
+          "name": "Banda Trancazo",
+          "url": "https://open.spotify.com/artist/6RS70ocGGNzPKiJVhgf3m9"
+        },
+        {
+          "name": "Arturo Camarillo",
+          "url": "https://open.spotify.com/artist/3p0GWiyIY3AOcBWvXXVQ4h"
+        }
+      ],
+      "duration_ms": 243506,
+      "name": "Popurr\u00ed Mexicano: Son de la Negra / Pelea de Gallos",
+      "url": "https://open.spotify.com/track/0gi7rXrTRTmQqsoVrVW3X8"
     },
     {
       "added_at": "2022-08-02 22:31:47",
@@ -919,26 +919,6 @@
     {
       "added_at": "2022-08-02 22:31:47",
       "album": {
-        "name": "Para Ti",
-        "url": "https://open.spotify.com/album/6Nv7sfvruLGAqTBtnTO0sr"
-      },
-      "artists": [
-        {
-          "name": "Banda Trancazo",
-          "url": "https://open.spotify.com/artist/6RS70ocGGNzPKiJVhgf3m9"
-        },
-        {
-          "name": "Arturo Camarillo",
-          "url": "https://open.spotify.com/artist/3p0GWiyIY3AOcBWvXXVQ4h"
-        }
-      ],
-      "duration_ms": 166269,
-      "name": "Cinco Trancazos",
-      "url": "https://open.spotify.com/track/1MX5rdoOWTuned116iNSIF"
-    },
-    {
-      "added_at": "2022-08-02 22:31:47",
-      "album": {
         "name": "Una Leyenda",
         "url": "https://open.spotify.com/album/4q2ttJ0S8WeMFFJYUET8kf"
       },
@@ -971,22 +951,6 @@
     {
       "added_at": "2022-08-02 22:31:47",
       "album": {
-        "name": "Mas Zacatecano Que Nunca",
-        "url": "https://open.spotify.com/album/6zv9F7ORGgSGIP7pC8aNLH"
-      },
-      "artists": [
-        {
-          "name": "El Nono y Su Banda Reina de Jerez",
-          "url": "https://open.spotify.com/artist/6koqQSKPGrPcFLjJvFHRxG"
-        }
-      ],
-      "duration_ms": 154266,
-      "name": "Zapateando Con La Banda",
-      "url": "https://open.spotify.com/track/6lDjvoyKmgHhmKbLqtqoji"
-    },
-    {
-      "added_at": "2022-08-02 22:31:47",
-      "album": {
         "name": "Bailando Ando",
         "url": "https://open.spotify.com/album/0kSHlUFHyJgwldae6Xt6Ss"
       },
@@ -999,6 +963,42 @@
       "duration_ms": 261712,
       "name": "El Sonao",
       "url": "https://open.spotify.com/track/6dSReOEVUQqBgXGYQyWSZw"
+    },
+    {
+      "added_at": "2022-08-02 22:31:47",
+      "album": {
+        "name": "Para Ti",
+        "url": "https://open.spotify.com/album/6Nv7sfvruLGAqTBtnTO0sr"
+      },
+      "artists": [
+        {
+          "name": "Banda Trancazo",
+          "url": "https://open.spotify.com/artist/6RS70ocGGNzPKiJVhgf3m9"
+        },
+        {
+          "name": "Arturo Camarillo",
+          "url": "https://open.spotify.com/artist/3p0GWiyIY3AOcBWvXXVQ4h"
+        }
+      ],
+      "duration_ms": 166269,
+      "name": "Cinco Trancazos",
+      "url": "https://open.spotify.com/track/1MX5rdoOWTuned116iNSIF"
+    },
+    {
+      "added_at": "2022-08-02 22:31:47",
+      "album": {
+        "name": "Mas Zacatecano Que Nunca",
+        "url": "https://open.spotify.com/album/6zv9F7ORGgSGIP7pC8aNLH"
+      },
+      "artists": [
+        {
+          "name": "El Nono y Su Banda Reina de Jerez",
+          "url": "https://open.spotify.com/artist/6koqQSKPGrPcFLjJvFHRxG"
+        }
+      ],
+      "duration_ms": 154266,
+      "name": "Zapateando Con La Banda",
+      "url": "https://open.spotify.com/track/6lDjvoyKmgHhmKbLqtqoji"
     },
     {
       "added_at": "2022-08-02 22:31:47",

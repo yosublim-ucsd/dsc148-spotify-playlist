@@ -294,7 +294,7 @@
       ],
       "date_added": "2020-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-04",
       "duration_ms": 140373,
       "name": "All I Have to Do Is Dream (Single Version)",
       "url": "https://open.spotify.com/track/0Q1tq0hFra4W9k6kx1MSjG"
@@ -766,7 +766,7 @@
       ],
       "date_added": "2020-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-04",
       "duration_ms": 142906,
       "name": "Bye Bye Love",
       "url": "https://open.spotify.com/track/6OPMgzdjWaxR0P8mCql03S"
@@ -2931,6 +2931,24 @@
     },
     {
       "album": {
+        "name": "The Platters",
+        "url": "https://open.spotify.com/album/1T6CcZgciHOZeeAZnw9jji"
+      },
+      "artists": [
+        {
+          "name": "The Platters",
+          "url": "https://open.spotify.com/artist/2lP463yIRHre8VLbw0giyi"
+        }
+      ],
+      "date_added": "2023-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165440,
+      "name": "On My Word Of Honor",
+      "url": "https://open.spotify.com/track/55qDgsYwCX2IMK1Y2H1819"
+    },
+    {
+      "album": {
         "name": "Trying",
         "url": "https://open.spotify.com/album/6wNlsCkqpdsIU4CGHUgWij"
       },
@@ -3470,6 +3488,24 @@
       "duration_ms": 171826,
       "name": "Someday (You'll Want Me To Want You) - Remastered",
       "url": "https://open.spotify.com/track/6ew1MCEKObxl8HbkdszmzP"
+    },
+    {
+      "album": {
+        "name": "Nat King Cole's 8 Top Pops",
+        "url": "https://open.spotify.com/album/1yP0VKloRyuwhzchRWZlaC"
+      },
+      "artists": [
+        {
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+        }
+      ],
+      "date_added": "2023-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172986,
+      "name": "Somewhere Along The Way",
+      "url": "https://open.spotify.com/track/7fjHMzndGGwGH44CtjcO35"
     },
     {
       "album": {

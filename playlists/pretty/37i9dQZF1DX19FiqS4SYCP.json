@@ -1,12 +1,12 @@
 {
   "description": "Tejano's new wave! La nueva ola de m\u00fasica tejana. Cover: Gary Hobbs",
-  "num_followers": 140628,
+  "num_followers": 140637,
   "original_name": "New Tejano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxOWFmOTg3YmJkMTdjMTRkMmFlZmNhOWE2MDljNmVhMzRkZGQ0NDA5",
+  "snapshot_id": "MCwyNWMyMjUxMTNmYWM5YjBhNTg5YWI1ODNkZTdmODRjN2Q0MTI1OWI0",
   "tracks": [
     {
       "added_at": "2023-09-13 20:37:36",
@@ -27,22 +27,6 @@
     {
       "added_at": "2023-09-13 20:37:36",
       "album": {
-        "name": "Maldita Costumbre",
-        "url": "https://open.spotify.com/album/6SeKcVgD6d6UucSg0UDcCH"
-      },
-      "artists": [
-        {
-          "name": "Kate Kristol",
-          "url": "https://open.spotify.com/artist/4qCW2u6nAjUzJmyjqTDK9V"
-        }
-      ],
-      "duration_ms": 151000,
-      "name": "Maldita Costumbre",
-      "url": "https://open.spotify.com/track/5qfqdelSyHt7G65NDNp2V3"
-    },
-    {
-      "added_at": "2023-09-13 20:37:36",
-      "album": {
         "name": "No Deb\u00ed Llamar",
         "url": "https://open.spotify.com/album/2p1HECGPyPNlUYGEEwBpuM"
       },
@@ -55,6 +39,22 @@
       "duration_ms": 207057,
       "name": "No Deb\u00ed Llamar",
       "url": "https://open.spotify.com/track/0vAZRwLRhyZ6LgYGY4raTT"
+    },
+    {
+      "added_at": "2023-09-13 20:37:36",
+      "album": {
+        "name": "Maldita Costumbre",
+        "url": "https://open.spotify.com/album/6SeKcVgD6d6UucSg0UDcCH"
+      },
+      "artists": [
+        {
+          "name": "Kate Kristol",
+          "url": "https://open.spotify.com/artist/4qCW2u6nAjUzJmyjqTDK9V"
+        }
+      ],
+      "duration_ms": 151000,
+      "name": "Maldita Costumbre",
+      "url": "https://open.spotify.com/track/5qfqdelSyHt7G65NDNp2V3"
     },
     {
       "added_at": "2023-09-13 20:37:36",
@@ -407,22 +407,6 @@
     {
       "added_at": "2023-09-13 20:37:36",
       "album": {
-        "name": "Santa Borrachera",
-        "url": "https://open.spotify.com/album/06tTbkZkCcVx8vZEWlH1YO"
-      },
-      "artists": [
-        {
-          "name": "SuenaTron",
-          "url": "https://open.spotify.com/artist/52ux0FayVJTKOWSh87mGd4"
-        }
-      ],
-      "duration_ms": 177777,
-      "name": "Santa Borrachera",
-      "url": "https://open.spotify.com/track/3C9q4S1xltxBYKpaFTQGqf"
-    },
-    {
-      "added_at": "2023-09-13 20:37:36",
-      "album": {
         "name": "Coleccion De Canciones",
         "url": "https://open.spotify.com/album/4relDr0ItEwUCjOO9gBJ5v"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 191824,
       "name": "Cuatro O Cinco Farolasos",
       "url": "https://open.spotify.com/track/5GrQy4hk0EXu5XO1W89Ero"
+    },
+    {
+      "added_at": "2023-09-13 20:37:36",
+      "album": {
+        "name": "Santa Borrachera",
+        "url": "https://open.spotify.com/album/06tTbkZkCcVx8vZEWlH1YO"
+      },
+      "artists": [
+        {
+          "name": "SuenaTron",
+          "url": "https://open.spotify.com/artist/52ux0FayVJTKOWSh87mGd4"
+        }
+      ],
+      "duration_ms": 177777,
+      "name": "Santa Borrachera",
+      "url": "https://open.spotify.com/track/3C9q4S1xltxBYKpaFTQGqf"
     },
     {
       "added_at": "2023-09-13 20:37:36",
@@ -487,22 +487,6 @@
     {
       "added_at": "2023-09-13 20:37:36",
       "album": {
-        "name": "Sientes Igual",
-        "url": "https://open.spotify.com/album/0sn1yEI18W8oDFqaMcgj5C"
-      },
-      "artists": [
-        {
-          "name": "The Latin Breed",
-          "url": "https://open.spotify.com/artist/2GiOrcBCuXQJ2oRIMWJxAP"
-        }
-      ],
-      "duration_ms": 170316,
-      "name": "Sientes Igual",
-      "url": "https://open.spotify.com/track/6a6ySbNBUD3hsU2Kl0JEb5"
-    },
-    {
-      "added_at": "2023-09-13 20:37:36",
-      "album": {
         "name": "Una Ilusi\u00f3n",
         "url": "https://open.spotify.com/album/4r0G7rL668VA5YsHTwzVsU"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 196875,
       "name": "Una Ilusi\u00f3n",
       "url": "https://open.spotify.com/track/2kYq6e5BuHzKr8iRsl5AWo"
+    },
+    {
+      "added_at": "2023-09-13 20:37:36",
+      "album": {
+        "name": "Sientes Igual",
+        "url": "https://open.spotify.com/album/0sn1yEI18W8oDFqaMcgj5C"
+      },
+      "artists": [
+        {
+          "name": "The Latin Breed",
+          "url": "https://open.spotify.com/artist/2GiOrcBCuXQJ2oRIMWJxAP"
+        }
+      ],
+      "duration_ms": 170316,
+      "name": "Sientes Igual",
+      "url": "https://open.spotify.com/track/6a6ySbNBUD3hsU2Kl0JEb5"
     },
     {
       "added_at": "2023-09-13 20:37:36",
@@ -619,22 +619,6 @@
     {
       "added_at": "2023-09-13 20:37:36",
       "album": {
-        "name": "Porque Vivo Enamorado",
-        "url": "https://open.spotify.com/album/5GtBt9MN0FOppVuMy2vvWS"
-      },
-      "artists": [
-        {
-          "name": "Roel Martinez",
-          "url": "https://open.spotify.com/artist/4RikQLyFZfarbZVAapJ7fe"
-        }
-      ],
-      "duration_ms": 222466,
-      "name": "Porque Vivo Enamorado",
-      "url": "https://open.spotify.com/track/32ovEWIxJqBuOr5WGrPGGx"
-    },
-    {
-      "added_at": "2023-09-13 20:37:36",
-      "album": {
         "name": "Amigo Fiel",
         "url": "https://open.spotify.com/album/4bFSwa77NlmSKLUNavclWx"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 216476,
       "name": "Amigo Fiel",
       "url": "https://open.spotify.com/track/2e57bUnVZ0zGmVzcPiZlue"
+    },
+    {
+      "added_at": "2023-09-13 20:37:36",
+      "album": {
+        "name": "Porque Vivo Enamorado",
+        "url": "https://open.spotify.com/album/5GtBt9MN0FOppVuMy2vvWS"
+      },
+      "artists": [
+        {
+          "name": "Roel Martinez",
+          "url": "https://open.spotify.com/artist/4RikQLyFZfarbZVAapJ7fe"
+        }
+      ],
+      "duration_ms": 222466,
+      "name": "Porque Vivo Enamorado",
+      "url": "https://open.spotify.com/track/32ovEWIxJqBuOr5WGrPGGx"
     },
     {
       "added_at": "2023-09-13 20:37:36",
@@ -683,22 +683,6 @@
     {
       "added_at": "2023-09-13 20:37:36",
       "album": {
-        "name": "El Error M\u00e1s Bello",
-        "url": "https://open.spotify.com/album/7o7d17PLyFmjGB0an0yovJ"
-      },
-      "artists": [
-        {
-          "name": "Juan Trevi\u00f1o",
-          "url": "https://open.spotify.com/artist/0Gct7JOgXGrHRMaeQNCtvG"
-        }
-      ],
-      "duration_ms": 205258,
-      "name": "El Error M\u00e1s Bello",
-      "url": "https://open.spotify.com/track/53gfKh57VZYYkQtoxHmxUt"
-    },
-    {
-      "added_at": "2023-09-13 20:37:36",
-      "album": {
         "name": "Me Estoy Enamorando",
         "url": "https://open.spotify.com/album/5RJg4RhFCjohxFLkga8e4C"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 193850,
       "name": "Me Estoy Enamorando",
       "url": "https://open.spotify.com/track/125nNouH95Q996cSYS79lb"
+    },
+    {
+      "added_at": "2023-09-13 20:37:36",
+      "album": {
+        "name": "El Error M\u00e1s Bello",
+        "url": "https://open.spotify.com/album/7o7d17PLyFmjGB0an0yovJ"
+      },
+      "artists": [
+        {
+          "name": "Juan Trevi\u00f1o",
+          "url": "https://open.spotify.com/artist/0Gct7JOgXGrHRMaeQNCtvG"
+        }
+      ],
+      "duration_ms": 205258,
+      "name": "El Error M\u00e1s Bello",
+      "url": "https://open.spotify.com/track/53gfKh57VZYYkQtoxHmxUt"
     },
     {
       "added_at": "2023-09-13 20:37:36",
@@ -731,22 +731,6 @@
     {
       "added_at": "2023-09-13 20:37:36",
       "album": {
-        "name": "Ven",
-        "url": "https://open.spotify.com/album/5HVrcYwT78z0OsbZmiEtLV"
-      },
-      "artists": [
-        {
-          "name": "ALICIA C",
-          "url": "https://open.spotify.com/artist/0JEYuKSjp4pSEcUujGTz0X"
-        }
-      ],
-      "duration_ms": 177225,
-      "name": "Ven",
-      "url": "https://open.spotify.com/track/6FS7iWuieGglr6YX7olj0x"
-    },
-    {
-      "added_at": "2023-09-13 20:37:36",
-      "album": {
         "name": "Mas Tequila Por Favor",
         "url": "https://open.spotify.com/album/6c8zLJghD3wMxjum5l0e03"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 200493,
       "name": "Mas Tequila Por Favor",
       "url": "https://open.spotify.com/track/1VNObsfdjnomFIjmYAcKOU"
+    },
+    {
+      "added_at": "2023-09-13 20:37:36",
+      "album": {
+        "name": "Ven",
+        "url": "https://open.spotify.com/album/5HVrcYwT78z0OsbZmiEtLV"
+      },
+      "artists": [
+        {
+          "name": "ALICIA C",
+          "url": "https://open.spotify.com/artist/0JEYuKSjp4pSEcUujGTz0X"
+        }
+      ],
+      "duration_ms": 177225,
+      "name": "Ven",
+      "url": "https://open.spotify.com/track/6FS7iWuieGglr6YX7olj0x"
     },
     {
       "added_at": "2023-09-13 20:37:36",
@@ -811,22 +811,6 @@
     {
       "added_at": "2023-09-13 20:37:36",
       "album": {
-        "name": "Sed\u00faceme",
-        "url": "https://open.spotify.com/album/0G49TBSDw4AQAuf6heH1U4"
-      },
-      "artists": [
-        {
-          "name": "Juan Trevi\u00f1o",
-          "url": "https://open.spotify.com/artist/0Gct7JOgXGrHRMaeQNCtvG"
-        }
-      ],
-      "duration_ms": 209836,
-      "name": "Sed\u00faceme",
-      "url": "https://open.spotify.com/track/29Rhx1cGgyB3jtBSx6SkoL"
-    },
-    {
-      "added_at": "2023-09-13 20:37:36",
-      "album": {
         "name": "No Te Voy A Perder",
         "url": "https://open.spotify.com/album/0kBhiiQahCqllcbv1vbqRA"
       },
@@ -839,6 +823,38 @@
       "duration_ms": 242906,
       "name": "No Te Voy A Perder",
       "url": "https://open.spotify.com/track/2xZGtw6RW6qBUCeHCzaVQW"
+    },
+    {
+      "added_at": "2023-09-13 20:37:36",
+      "album": {
+        "name": "Entiende Corazon",
+        "url": "https://open.spotify.com/album/1Loi3JQQha8KJ64mnpwvj6"
+      },
+      "artists": [
+        {
+          "name": "Zereno",
+          "url": "https://open.spotify.com/artist/1gg5ZEil8p1ezUJNSOLcJ5"
+        }
+      ],
+      "duration_ms": 189166,
+      "name": "Entiende Corazon",
+      "url": "https://open.spotify.com/track/30s5of3Zk9mTK71nc2PJas"
+    },
+    {
+      "added_at": "2023-09-13 20:37:36",
+      "album": {
+        "name": "Sed\u00faceme",
+        "url": "https://open.spotify.com/album/0G49TBSDw4AQAuf6heH1U4"
+      },
+      "artists": [
+        {
+          "name": "Juan Trevi\u00f1o",
+          "url": "https://open.spotify.com/artist/0Gct7JOgXGrHRMaeQNCtvG"
+        }
+      ],
+      "duration_ms": 209836,
+      "name": "Sed\u00faceme",
+      "url": "https://open.spotify.com/track/29Rhx1cGgyB3jtBSx6SkoL"
     },
     {
       "added_at": "2023-09-13 20:37:36",
@@ -875,22 +891,6 @@
       "duration_ms": 223998,
       "name": "Amor Eterno",
       "url": "https://open.spotify.com/track/2eqC236uwgGhieuk0ZeK9B"
-    },
-    {
-      "added_at": "2023-09-13 20:37:36",
-      "album": {
-        "name": "Entiende Corazon",
-        "url": "https://open.spotify.com/album/1Loi3JQQha8KJ64mnpwvj6"
-      },
-      "artists": [
-        {
-          "name": "Zereno",
-          "url": "https://open.spotify.com/artist/1gg5ZEil8p1ezUJNSOLcJ5"
-        }
-      ],
-      "duration_ms": 189166,
-      "name": "Entiende Corazon",
-      "url": "https://open.spotify.com/track/30s5of3Zk9mTK71nc2PJas"
     },
     {
       "added_at": "2023-09-13 20:37:36",
@@ -983,22 +983,6 @@
     {
       "added_at": "2023-09-13 20:37:36",
       "album": {
-        "name": "Los Peces En El Rio",
-        "url": "https://open.spotify.com/album/1exTpPwJ4ZUqf6l37TKlMX"
-      },
-      "artists": [
-        {
-          "name": "Veronique Medrano",
-          "url": "https://open.spotify.com/artist/4fN7gCSTewGjaMJnuk8K2h"
-        }
-      ],
-      "duration_ms": 181846,
-      "name": "Los Peces En El Rio",
-      "url": "https://open.spotify.com/track/2hXxwyJm64VCEURkHq0le5"
-    },
-    {
-      "added_at": "2023-09-13 20:37:36",
-      "album": {
         "name": "\u00bfC\u00f3mo Puede Ser As\u00ed?",
         "url": "https://open.spotify.com/album/0ZNklUBNTfrn5OeFPWYJci"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 187058,
       "name": "\u00bfComo Puede Ser As\u00ed?",
       "url": "https://open.spotify.com/track/3dl1BnbuZitazqKqjCjp5d"
+    },
+    {
+      "added_at": "2023-09-13 20:37:36",
+      "album": {
+        "name": "Los Peces En El Rio",
+        "url": "https://open.spotify.com/album/1exTpPwJ4ZUqf6l37TKlMX"
+      },
+      "artists": [
+        {
+          "name": "Veronique Medrano",
+          "url": "https://open.spotify.com/artist/4fN7gCSTewGjaMJnuk8K2h"
+        }
+      ],
+      "duration_ms": 181846,
+      "name": "Los Peces En El Rio",
+      "url": "https://open.spotify.com/track/2hXxwyJm64VCEURkHq0le5"
     },
     {
       "added_at": "2023-09-13 20:37:36",
@@ -1111,6 +1111,22 @@
     {
       "added_at": "2023-09-13 20:37:36",
       "album": {
+        "name": "Toda Una Vida",
+        "url": "https://open.spotify.com/album/0hf4M1OfFfsgOhCRU6KcNf"
+      },
+      "artists": [
+        {
+          "name": "Andie Bustamante",
+          "url": "https://open.spotify.com/artist/47UmYJPZ4xYXNvnzIddqlK"
+        }
+      ],
+      "duration_ms": 180410,
+      "name": "Toda Una Vida",
+      "url": "https://open.spotify.com/track/5UmuGyqgMzhFJxML3ILvKV"
+    },
+    {
+      "added_at": "2023-09-13 20:37:36",
+      "album": {
         "name": "Quebrando Cadenas",
         "url": "https://open.spotify.com/album/7qDDCuy8R1ak1va6myxUkm"
       },
@@ -1127,22 +1143,6 @@
       "duration_ms": 240383,
       "name": "Quebrando Cadenas",
       "url": "https://open.spotify.com/track/6EftRXMyuDZaM4vtgJ6dQn"
-    },
-    {
-      "added_at": "2023-09-13 20:37:36",
-      "album": {
-        "name": "Toda Una Vida",
-        "url": "https://open.spotify.com/album/0hf4M1OfFfsgOhCRU6KcNf"
-      },
-      "artists": [
-        {
-          "name": "Andie Bustamante",
-          "url": "https://open.spotify.com/artist/47UmYJPZ4xYXNvnzIddqlK"
-        }
-      ],
-      "duration_ms": 180410,
-      "name": "Toda Una Vida",
-      "url": "https://open.spotify.com/track/5UmuGyqgMzhFJxML3ILvKV"
     },
     {
       "added_at": "2023-09-13 20:37:36",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2023-09-13 20:37:36",
       "album": {
-        "name": "Te Quiero Mas",
-        "url": "https://open.spotify.com/album/0W08397Xa5q57fL4gOX4iK"
-      },
-      "artists": [
-        {
-          "name": "Rita Capuchina",
-          "url": "https://open.spotify.com/artist/6DJJ34LoaX8bf7tkOjCW3k"
-        }
-      ],
-      "duration_ms": 188506,
-      "name": "Te Quiero Mas",
-      "url": "https://open.spotify.com/track/3U6nRkzp8vX1OJgD3Nqrh5"
-    },
-    {
-      "added_at": "2023-09-13 20:37:36",
-      "album": {
         "name": "NADIE",
         "url": "https://open.spotify.com/album/3YqlDwjNBkHNRko6zm7jeA"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 161623,
       "name": "NADIE",
       "url": "https://open.spotify.com/track/1wML61KAX8TTp70dVqqa9V"
+    },
+    {
+      "added_at": "2023-09-13 20:37:36",
+      "album": {
+        "name": "Te Quiero Mas",
+        "url": "https://open.spotify.com/album/0W08397Xa5q57fL4gOX4iK"
+      },
+      "artists": [
+        {
+          "name": "Rita Capuchina",
+          "url": "https://open.spotify.com/artist/6DJJ34LoaX8bf7tkOjCW3k"
+        }
+      ],
+      "duration_ms": 188506,
+      "name": "Te Quiero Mas",
+      "url": "https://open.spotify.com/track/3U6nRkzp8vX1OJgD3Nqrh5"
     },
     {
       "added_at": "2023-09-13 20:37:36",

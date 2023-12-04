@@ -1,12 +1,12 @@
 {
   "description": "essa \u00e9 s\u00f3 pra quem vive no 2.0x\n",
-  "num_followers": 74109,
+  "num_followers": 74144,
   "original_name": "speed BR",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYjc1MTk1MWZhMTFjYmU1NmM2MTcwMjRjMWRjM2EyZGRiMzQ3MWUw",
+  "snapshot_id": "MCw0ZDYwNmI3ZjRiYzFjMjNlMjFiYzAxYjcxMjA2N2Y3ZjIzOWI1ODM4",
   "tracks": [
     {
       "added_at": "2023-11-13 14:29:15",
@@ -527,6 +527,22 @@
     {
       "added_at": "2023-11-13 14:29:15",
       "album": {
+        "name": "Jesus Invadiu a Cena (Deluxe)",
+        "url": "https://open.spotify.com/album/2i9A3MdMLm2DaslCoMZMKX"
+      },
+      "artists": [
+        {
+          "name": "VICTIN",
+          "url": "https://open.spotify.com/artist/3brCnZDTt5fHf0BBXvPa6p"
+        }
+      ],
+      "duration_ms": 146823,
+      "name": "Aff - Speed Up",
+      "url": "https://open.spotify.com/track/2KvhoUSJ3m6BYGefGVzjmX"
+    },
+    {
+      "added_at": "2023-11-13 14:29:15",
+      "album": {
         "name": "Palha\u00e7ada Speed",
         "url": "https://open.spotify.com/album/1fKdX1WUjbyGyeijMhZqBw"
       },
@@ -543,22 +559,6 @@
       "duration_ms": 149170,
       "name": "Palha\u00e7ada Speed",
       "url": "https://open.spotify.com/track/0p3W8vsHX4OjaCHypFM3Hl"
-    },
-    {
-      "added_at": "2023-11-13 14:29:15",
-      "album": {
-        "name": "Jesus Invadiu a Cena (Deluxe)",
-        "url": "https://open.spotify.com/album/2i9A3MdMLm2DaslCoMZMKX"
-      },
-      "artists": [
-        {
-          "name": "VICTIN",
-          "url": "https://open.spotify.com/artist/3brCnZDTt5fHf0BBXvPa6p"
-        }
-      ],
-      "duration_ms": 146823,
-      "name": "Aff - Speed Up",
-      "url": "https://open.spotify.com/track/2KvhoUSJ3m6BYGefGVzjmX"
     },
     {
       "added_at": "2023-11-13 14:29:15",

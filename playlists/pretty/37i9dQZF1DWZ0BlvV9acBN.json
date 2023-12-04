@@ -1,12 +1,12 @@
 {
   "description": "Grandes sucessos e novidades do rock Crist\u00e3o. Foto: Catarina Von Bora",
-  "num_followers": 133101,
+  "num_followers": 133138,
   "original_name": "Templo do Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NTM0YTZiZTAxMTg1ODM5NmFmZDQ3NjEyMTM2ZDUwYzBkZjJiYjNm",
+  "snapshot_id": "MCxkZDE0Yjk1NWRmNGU5ZmVhMTgwNTE5YzdlMWQ2MmIzMGQ0YWM2OTNm",
   "tracks": [
     {
       "added_at": "2023-11-24 07:21:54",
@@ -571,6 +571,22 @@
     {
       "added_at": "2023-11-24 07:21:54",
       "album": {
+        "name": "Eu Vou Amanhecer (ao Vivo)",
+        "url": "https://open.spotify.com/album/0puuCUbHqQAhodavAxZbkj"
+      },
+      "artists": [
+        {
+          "name": "Fernandinho",
+          "url": "https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY"
+        }
+      ],
+      "duration_ms": 341789,
+      "name": "Eu Vou Amanhecer - Ao Vivo",
+      "url": "https://open.spotify.com/track/7MUFfFp3Voeu9N8hBBm960"
+    },
+    {
+      "added_at": "2023-11-24 07:21:54",
+      "album": {
         "name": "Dia De Milagres",
         "url": "https://open.spotify.com/album/5HAEqBs5oAlXReyhPPYYsQ"
       },
@@ -591,22 +607,6 @@
       "duration_ms": 262480,
       "name": "Dia De Milagres",
       "url": "https://open.spotify.com/track/6O2R8WvZMTqCY8qrzgaHoT"
-    },
-    {
-      "added_at": "2023-11-24 07:21:54",
-      "album": {
-        "name": "Eu Vou Amanhecer (ao Vivo)",
-        "url": "https://open.spotify.com/album/0puuCUbHqQAhodavAxZbkj"
-      },
-      "artists": [
-        {
-          "name": "Fernandinho",
-          "url": "https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY"
-        }
-      ],
-      "duration_ms": 341789,
-      "name": "Eu Vou Amanhecer - Ao Vivo",
-      "url": "https://open.spotify.com/track/7MUFfFp3Voeu9N8hBBm960"
     },
     {
       "added_at": "2023-11-24 07:21:54",

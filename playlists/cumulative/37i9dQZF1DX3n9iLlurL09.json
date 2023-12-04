@@ -1162,7 +1162,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-04",
       "duration_ms": 241613,
       "name": "It's Only Life",
       "url": "https://open.spotify.com/track/4UXSYJDEgOlMX3MXVkaiyH"
@@ -1328,6 +1328,24 @@
       "duration_ms": 198613,
       "name": "Love Is Blindness",
       "url": "https://open.spotify.com/track/1kBM7AURqQTIXFePNVpEwP"
+    },
+    {
+      "album": {
+        "name": "Here",
+        "url": "https://open.spotify.com/album/5odt1i6YOdDwi7o6v9AzBA"
+      },
+      "artists": [
+        {
+          "name": "Edward Sharpe & The Magnetic Zeros",
+          "url": "https://open.spotify.com/artist/7giUHu5pv6YTZgSkxxCcgh"
+        }
+      ],
+      "date_added": "2022-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259079,
+      "name": "Man on Fire",
+      "url": "https://open.spotify.com/track/0rg69E3wqGu7cGZCIkHvdS"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVfUtaeUAwqa.md) - [plain]
 
 > Dixieland, Chicago Style and upbeat traditional jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,576 likes - 55 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,578 likes - 55 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVfUtaeUAwqa.md) - [plain]
 | 34 | [Bugle Boy March](https://open.spotify.com/track/3fbvU3HoMviq8NaxeL6lA2) | [Paul Barbarin & His New Orleans Jazz Band](https://open.spotify.com/artist/3FE6ZZKTPt5j31R5uPkTYS) | [Paul Barbarin & His New Orleans Jazz Band](https://open.spotify.com/album/3zRlKQfk8NNRwWumbt6FMx) | 5:15 |
 | 35 | [While We Danced at Mardi Gras](https://open.spotify.com/track/3lpUzWKVWykt3fDIPp7P9d) | [Sharkey Bonano](https://open.spotify.com/artist/4o2zkCpWF0zLf7NNpm7ZJM) | [Mardi Gras Parade Music from New Orleans](https://open.spotify.com/album/6NCyS4G2gDofmdtpSSoR6o) | 4:45 |
 | 36 | [Livery Stable Blues \(Barnyard Blues\)](https://open.spotify.com/track/6xoBzYhLzG3yBgDbmD0rwn) | [Muggsy Spanier](https://open.spotify.com/artist/0u61vtGdkaLTguZ5mVxLjK) | [1939\-1944](https://open.spotify.com/album/7EwAhN0zF9PtbLdRmRsomC) | 3:01 |
-| 37 | [Roses of Picardy](https://open.spotify.com/track/2eksoro6WHBtJzAO4HdXar) | [George Girard](https://open.spotify.com/artist/2SmPgpPN8GmVdFBYgsRsud), [Stanley Mendelson](https://open.spotify.com/artist/5JJlaaIvTD9K58QNw8nBFG), [Johnny Senac](https://open.spotify.com/artist/1996CQ5it5fbdZQMLZu3e0), [Abbie Brunies](https://open.spotify.com/artist/2KeWtakcNFeypauMJeqxcI), [Raymond Burke](https://open.spotify.com/artist/1k9qij2IWERN0mwiWfwynE), [Jack Delaney](https://open.spotify.com/artist/2F1gi8KBOgDVX4oRbes9bU) | [George Girard's Band](https://open.spotify.com/album/0pSfyYcO5ik5MklfWkVkpr) | 2:59 |
-| 38 | [Ain't She Sweet](https://open.spotify.com/track/2Yiwql4Qw3wFJjrE1XuJE8) | [Preservation Hall Hot 4 with Duke Dejan](https://open.spotify.com/artist/6BM1PL11hO27q6qvFbKP1x) | [Preservation Hall Hot 4 With Duke Dejan](https://open.spotify.com/album/6zcn7J6jypQujdpAqOy8ZD) | 4:10 |
+| 37 | [Ain't She Sweet](https://open.spotify.com/track/2Yiwql4Qw3wFJjrE1XuJE8) | [Preservation Hall Hot 4 with Duke Dejan](https://open.spotify.com/artist/6BM1PL11hO27q6qvFbKP1x) | [Preservation Hall Hot 4 With Duke Dejan](https://open.spotify.com/album/6zcn7J6jypQujdpAqOy8ZD) | 4:10 |
+| 38 | [Roses of Picardy](https://open.spotify.com/track/2eksoro6WHBtJzAO4HdXar) | [George Girard](https://open.spotify.com/artist/2SmPgpPN8GmVdFBYgsRsud), [Stanley Mendelson](https://open.spotify.com/artist/5JJlaaIvTD9K58QNw8nBFG), [Johnny Senac](https://open.spotify.com/artist/1996CQ5it5fbdZQMLZu3e0), [Abbie Brunies](https://open.spotify.com/artist/2KeWtakcNFeypauMJeqxcI), [Raymond Burke](https://open.spotify.com/artist/1k9qij2IWERN0mwiWfwynE), [Jack Delaney](https://open.spotify.com/artist/2F1gi8KBOgDVX4oRbes9bU) | [George Girard's Band](https://open.spotify.com/album/0pSfyYcO5ik5MklfWkVkpr) | 2:59 |
 | 39 | [Old Time Religion](https://open.spotify.com/track/1plVFdbU55lutOgsvH9Wir) | [Papa Celestin](https://open.spotify.com/artist/2Nn7FP7OOiT3NZEoBKhDHx) | [Marie Laveau](https://open.spotify.com/album/6pF59BdkYmZh6n56gLWWKw) | 3:19 |
 | 40 | [Ring On Her Fingers](https://open.spotify.com/track/0bLM6cdigteELpTKlD2rqI) | [Dixieland Band](https://open.spotify.com/artist/71UbbCG8OqxYBuXcMhQA5E) | [Kings Of Dixieland](https://open.spotify.com/album/6kvwhPapltlF6gvuIgdz71) | 2:19 |
 | 41 | [Lassa's Trombone](https://open.spotify.com/track/40GGKzPCqYCqhydSjk3d6Y) | [The Kings Of Dixieland](https://open.spotify.com/artist/0c2LcuGtYHJWSMtAZrx1Bg) | [The Best Of Dixieland Volume 2](https://open.spotify.com/album/1RB0fpiwqDNTEn6OECBiTV) | 2:47 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVfUtaeUAwqa.md) - [plain]
 | 54 | [Washington Post March](https://open.spotify.com/track/0HAyFITVG4G4X5RBhAxw2Q) | [Pete Fountain and The Kings Of Dixieland](https://open.spotify.com/artist/4DiuBrdftGJabfEaPk45So) | [The Best Of Dixieland Volume 1](https://open.spotify.com/album/4uuTStbaZ9PvYt5wHphSb4) | 3:12 |
 | 55 | [Semper Fidelis](https://open.spotify.com/track/2xWLN4RW1XR7nYXZLBaRzG) | [The Kings Of Dixieland](https://open.spotify.com/artist/0c2LcuGtYHJWSMtAZrx1Bg) | [4th of July Parade: 30 Patriotic Marches for Independence Day](https://open.spotify.com/album/432LmWXgVvgFmHJRc1WQIj) | 3:09 |
 
-Snapshot ID: `MCw4YjUzNjFlZmFhMTY3OGJhMmU2YmI3NjAxOTcyMjc1ZTNkZjgyMjI0`
+Snapshot ID: `MCxkM2M5MDA3MmM4ZjY1OTYwODhkMzEzY2VlMDdlZjRjOTM3MzVmYTk2`

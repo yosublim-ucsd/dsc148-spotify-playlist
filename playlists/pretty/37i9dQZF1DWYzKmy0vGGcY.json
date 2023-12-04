@@ -1,12 +1,12 @@
 {
   "description": "Mellow songs from the 1960s. Cover: Etta James.",
-  "num_followers": 276346,
+  "num_followers": 276473,
   "original_name": "Soft 60s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MzIyNGM2MjA0M2E3NzQzMjYyNmNmMDFiNGMzMzg3YzcwNTg2MjI3",
+  "snapshot_id": "MCw4OTQ0YTQ4OTc4M2FiMjkxMWMyYmQ4NmM4Y2JiZDJlZWUxYmI2ZjJk",
   "tracks": [
     {
       "added_at": "2022-05-30 13:00:37",
@@ -835,22 +835,6 @@
     {
       "added_at": "2022-05-30 13:00:37",
       "album": {
-        "name": "The Dock of the Bay",
-        "url": "https://open.spotify.com/album/0kSkzG0sfuG4lRuFF5jWVr"
-      },
-      "artists": [
-        {
-          "name": "Otis Redding",
-          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
-        }
-      ],
-      "duration_ms": 166826,
-      "name": "(Sittin' On) the Dock of the Bay",
-      "url": "https://open.spotify.com/track/4Y4Gd3ty8uut6Qw43c7yJc"
-    },
-    {
-      "added_at": "2022-05-30 13:00:37",
-      "album": {
         "name": "I'll Cry If I Want To",
         "url": "https://open.spotify.com/album/7KSrseQi4wJDUfMT4mxNo8"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 138000,
       "name": "Misty",
       "url": "https://open.spotify.com/track/2exbololsmP1XM2gmBEvAW"
+    },
+    {
+      "added_at": "2022-05-30 13:00:37",
+      "album": {
+        "name": "The Dock of the Bay",
+        "url": "https://open.spotify.com/album/0kSkzG0sfuG4lRuFF5jWVr"
+      },
+      "artists": [
+        {
+          "name": "Otis Redding",
+          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
+        }
+      ],
+      "duration_ms": 166826,
+      "name": "(Sittin' On) the Dock of the Bay",
+      "url": "https://open.spotify.com/track/4Y4Gd3ty8uut6Qw43c7yJc"
     },
     {
       "added_at": "2022-05-30 13:00:37",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2022-05-30 13:00:37",
       "album": {
-        "name": "Spanish Harlem",
-        "url": "https://open.spotify.com/album/2WcVleVG28RWzWLDLZnVgp"
-      },
-      "artists": [
-        {
-          "name": "Ben E. King",
-          "url": "https://open.spotify.com/artist/3plJVWt88EqjvtuB4ZDRV3"
-        }
-      ],
-      "duration_ms": 174293,
-      "name": "Spanish Harlem",
-      "url": "https://open.spotify.com/track/3UCmuRdeTriWgOZMEJsfqZ"
-    },
-    {
-      "added_at": "2022-05-30 13:00:37",
-      "album": {
         "name": "Platinum - A Life In Music",
         "url": "https://open.spotify.com/album/0gv5aiVS1WBUZOKeb7YawE"
       },
@@ -1111,18 +1095,18 @@
     {
       "added_at": "2022-05-30 13:00:37",
       "album": {
-        "name": "Latin Ala Lee",
-        "url": "https://open.spotify.com/album/5A7sAUKBDHvRyA5AxkeKAK"
+        "name": "Spanish Harlem",
+        "url": "https://open.spotify.com/album/2WcVleVG28RWzWLDLZnVgp"
       },
       "artists": [
         {
-          "name": "Peggy Lee",
-          "url": "https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc"
+          "name": "Ben E. King",
+          "url": "https://open.spotify.com/artist/3plJVWt88EqjvtuB4ZDRV3"
         }
       ],
-      "duration_ms": 151973,
-      "name": "Till There Was You - Remastered",
-      "url": "https://open.spotify.com/track/0CczH75yFBo53bVqLRvYn4"
+      "duration_ms": 174293,
+      "name": "Spanish Harlem",
+      "url": "https://open.spotify.com/track/3UCmuRdeTriWgOZMEJsfqZ"
     },
     {
       "added_at": "2022-05-30 13:00:37",
@@ -1143,18 +1127,18 @@
     {
       "added_at": "2022-05-30 13:00:37",
       "album": {
-        "name": "Chronology",
-        "url": "https://open.spotify.com/album/5LUcaJu2OGKCCABM4kgSMj"
+        "name": "Latin Ala Lee",
+        "url": "https://open.spotify.com/album/5A7sAUKBDHvRyA5AxkeKAK"
       },
       "artists": [
         {
-          "name": "Brian Hyland",
-          "url": "https://open.spotify.com/artist/6YROFUbu5zRCHi2xkir5pk"
+          "name": "Peggy Lee",
+          "url": "https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc"
         }
       ],
-      "duration_ms": 162160,
-      "name": "Sealed With A Kiss",
-      "url": "https://open.spotify.com/track/6oM4ryXpuZmbFfBv2sEe7v"
+      "duration_ms": 151973,
+      "name": "Till There Was You - Remastered",
+      "url": "https://open.spotify.com/track/0CczH75yFBo53bVqLRvYn4"
     },
     {
       "added_at": "2022-05-30 13:00:37",
@@ -1171,6 +1155,22 @@
       "duration_ms": 157266,
       "name": "Piece of My Heart",
       "url": "https://open.spotify.com/track/2GbePPrWWSRxcmW6QRSPae"
+    },
+    {
+      "added_at": "2022-05-30 13:00:37",
+      "album": {
+        "name": "Chronology",
+        "url": "https://open.spotify.com/album/5LUcaJu2OGKCCABM4kgSMj"
+      },
+      "artists": [
+        {
+          "name": "Brian Hyland",
+          "url": "https://open.spotify.com/artist/6YROFUbu5zRCHi2xkir5pk"
+        }
+      ],
+      "duration_ms": 162160,
+      "name": "Sealed With A Kiss",
+      "url": "https://open.spotify.com/track/6oM4ryXpuZmbFfBv2sEe7v"
     },
     {
       "added_at": "2022-05-30 13:00:37",
@@ -1287,6 +1287,22 @@
     {
       "added_at": "2022-05-30 13:00:37",
       "album": {
+        "name": "The Complete Dinah Washington On Mercury Vol. 2 (1950-1952)",
+        "url": "https://open.spotify.com/album/2ijZDafBX3xtZSGUkxccZ6"
+      },
+      "artists": [
+        {
+          "name": "Dinah Washington",
+          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
+        }
+      ],
+      "duration_ms": 182573,
+      "name": "Mad About The Boy",
+      "url": "https://open.spotify.com/track/1c7ELD4W6VyoKTglc4zzUH"
+    },
+    {
+      "added_at": "2022-05-30 13:00:37",
+      "album": {
         "name": "If I Can Dream: Elvis Presley with the Royal Philharmonic Orchestra",
         "url": "https://open.spotify.com/album/3BYCjGZjrTkilIY7U25fNt"
       },
@@ -1303,22 +1319,6 @@
       "duration_ms": 198600,
       "name": "Can't Help Falling In Love - with The Royal Philharmonic Orchestra",
       "url": "https://open.spotify.com/track/2MRJ3Oqb5yAONPvQyoWnQ9"
-    },
-    {
-      "added_at": "2022-05-30 13:00:37",
-      "album": {
-        "name": "The Complete Dinah Washington On Mercury Vol. 2 (1950-1952)",
-        "url": "https://open.spotify.com/album/2ijZDafBX3xtZSGUkxccZ6"
-      },
-      "artists": [
-        {
-          "name": "Dinah Washington",
-          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
-        }
-      ],
-      "duration_ms": 182573,
-      "name": "Mad About The Boy",
-      "url": "https://open.spotify.com/track/1c7ELD4W6VyoKTglc4zzUH"
     },
     {
       "added_at": "2022-05-30 13:00:37",

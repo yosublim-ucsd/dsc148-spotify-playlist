@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXbC1ZOkTuut.md) - [plain]
 
 > Descubre los nuevos álbumes de Música Mexicana del 2023\. Hit shuffle for a mixed listening experience\. Cover: Chiquis
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,456 likes - 203 songs - 10 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,496 likes - 203 songs - 10 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -212,4 +212,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXbC1ZOkTuut.md) - [plain]
 | 202 | [La Gripa Del Perico](https://open.spotify.com/track/4VTRF8XNXWoO2tAffbaSpi) | [Los Elementos de Culiacan](https://open.spotify.com/artist/21Plz7ujtVKM3kx6zX4eNq) | [Mas Me Rinde La Hielera](https://open.spotify.com/album/4AqWWqIvVnQYWRD5bmLl8R) | 3:02 |
 | 203 | [El Arbol De Mi Familia](https://open.spotify.com/track/5ABXU27kjthunVsP9gwfZp) | [Los Elementos de Culiacan](https://open.spotify.com/artist/21Plz7ujtVKM3kx6zX4eNq) | [Mas Me Rinde La Hielera](https://open.spotify.com/album/4AqWWqIvVnQYWRD5bmLl8R) | 3:06 |
 
-Snapshot ID: `MCw3N2FmNmI1MWM5ZjZmNTZlNWFiODNkMTc5N2M0NmRkOTA3MjQwNjE3`
+Snapshot ID: `MCwzOGY4NzhhNTE1YTE0YjQ1ZDk1Njg3ZDIwYjJmMGJmMmQ3MDU4YmYw`

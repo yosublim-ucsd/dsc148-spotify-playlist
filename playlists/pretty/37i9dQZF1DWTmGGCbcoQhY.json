@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Un sa-sa-saludo a todos los amantes de la cu-cu-cumbia!",
-  "num_followers": 1294065,
+  "num_followers": 1294338,
   "original_name": "Cumbia Sonidera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZGQ5YWIwMjI3YjM2OGJhMzMyNmYzMDI5OGFmMjc2ZmViMjM2NmEx",
+  "snapshot_id": "MCw1OTI2MWY4NjZlZWUyNzIwYzZiYzZhY2Y3ZWI4Zjg4NWQ0NzZiODZh",
   "tracks": [
     {
       "added_at": "2023-11-08 22:37:03",
@@ -307,18 +307,18 @@
     {
       "added_at": "2023-11-08 22:37:03",
       "album": {
-        "name": "Mu\u00e9vete",
-        "url": "https://open.spotify.com/album/2wlGJHKt8joZ35jI0nfzF1"
+        "name": "Guaracha Sabrosona",
+        "url": "https://open.spotify.com/album/0UZNJ0LcKDFyozURk4DUKJ"
       },
       "artists": [
         {
-          "name": "Los Telez",
-          "url": "https://open.spotify.com/artist/4KZzz3Ri83L1aE5rNK9q3A"
+          "name": "Alberto Pedraza",
+          "url": "https://open.spotify.com/artist/3TQh6LXI9ADgyZJTT19TeR"
         }
       ],
-      "duration_ms": 225333,
-      "name": "Gritar\u00eda",
-      "url": "https://open.spotify.com/track/0t1UDIDBS2u8k0TltYUHaE"
+      "duration_ms": 219026,
+      "name": "Guaracha Sabrosona",
+      "url": "https://open.spotify.com/track/0p88CmD2dgRH9Y52unhHi3"
     },
     {
       "added_at": "2023-11-08 22:37:03",
@@ -339,18 +339,18 @@
     {
       "added_at": "2023-11-08 22:37:03",
       "album": {
-        "name": "Guaracha Sabrosona",
-        "url": "https://open.spotify.com/album/0UZNJ0LcKDFyozURk4DUKJ"
+        "name": "Mu\u00e9vete",
+        "url": "https://open.spotify.com/album/2wlGJHKt8joZ35jI0nfzF1"
       },
       "artists": [
         {
-          "name": "Alberto Pedraza",
-          "url": "https://open.spotify.com/artist/3TQh6LXI9ADgyZJTT19TeR"
+          "name": "Los Telez",
+          "url": "https://open.spotify.com/artist/4KZzz3Ri83L1aE5rNK9q3A"
         }
       ],
-      "duration_ms": 219026,
-      "name": "Guaracha Sabrosona",
-      "url": "https://open.spotify.com/track/0p88CmD2dgRH9Y52unhHi3"
+      "duration_ms": 225333,
+      "name": "Gritar\u00eda",
+      "url": "https://open.spotify.com/track/0t1UDIDBS2u8k0TltYUHaE"
     },
     {
       "added_at": "2023-11-08 22:37:03",
@@ -451,22 +451,6 @@
     {
       "added_at": "2023-11-08 22:37:03",
       "album": {
-        "name": "15 Grandes",
-        "url": "https://open.spotify.com/album/5IFN7h62KHYzNaI5BBIpHj"
-      },
-      "artists": [
-        {
-          "name": "Diablos Locos",
-          "url": "https://open.spotify.com/artist/4VB5hjhR9zb2ZdkShUBGvY"
-        }
-      ],
-      "duration_ms": 308837,
-      "name": "Si No La Tengo",
-      "url": "https://open.spotify.com/track/5BSYu3CEg0L9sDBNXOwKTk"
-    },
-    {
-      "added_at": "2023-11-08 22:37:03",
-      "album": {
         "name": "Guarachando",
         "url": "https://open.spotify.com/album/5uHNavgy4yM4orwoEBWMjO"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 244413,
       "name": "Coraz\u00f3n Solitario",
       "url": "https://open.spotify.com/track/7f7ChKewJr4Mjm8rDl53iP"
+    },
+    {
+      "added_at": "2023-11-08 22:37:03",
+      "album": {
+        "name": "15 Grandes",
+        "url": "https://open.spotify.com/album/5IFN7h62KHYzNaI5BBIpHj"
+      },
+      "artists": [
+        {
+          "name": "Diablos Locos",
+          "url": "https://open.spotify.com/artist/4VB5hjhR9zb2ZdkShUBGvY"
+        }
+      ],
+      "duration_ms": 308837,
+      "name": "Si No La Tengo",
+      "url": "https://open.spotify.com/track/5BSYu3CEg0L9sDBNXOwKTk"
     },
     {
       "added_at": "2023-11-08 22:37:03",
@@ -647,6 +647,22 @@
     {
       "added_at": "2023-11-08 22:37:03",
       "album": {
+        "name": "Los Reyes De Los Sonidos",
+        "url": "https://open.spotify.com/album/2iJqJTne30V8xi4X0AqUP6"
+      },
+      "artists": [
+        {
+          "name": "Grupo Sonador",
+          "url": "https://open.spotify.com/artist/2EliUhznUrwHp1yJvhlHQF"
+        }
+      ],
+      "duration_ms": 216613,
+      "name": "El Paso Del Gigante",
+      "url": "https://open.spotify.com/track/5SW0bSJXKMukbh8FCcplA6"
+    },
+    {
+      "added_at": "2023-11-08 22:37:03",
+      "album": {
         "name": "El Final De Nuestra Historia",
         "url": "https://open.spotify.com/album/2U9DusHrxN3ni4l6hGZOCu"
       },
@@ -663,22 +679,6 @@
       "duration_ms": 235853,
       "name": "El Final De Nuestra Historia",
       "url": "https://open.spotify.com/track/4lSHY97TsrsOn0cqBkUrDs"
-    },
-    {
-      "added_at": "2023-11-08 22:37:03",
-      "album": {
-        "name": "Los Reyes De Los Sonidos",
-        "url": "https://open.spotify.com/album/2iJqJTne30V8xi4X0AqUP6"
-      },
-      "artists": [
-        {
-          "name": "Grupo Sonador",
-          "url": "https://open.spotify.com/artist/2EliUhznUrwHp1yJvhlHQF"
-        }
-      ],
-      "duration_ms": 216613,
-      "name": "El Paso Del Gigante",
-      "url": "https://open.spotify.com/track/5SW0bSJXKMukbh8FCcplA6"
     },
     {
       "added_at": "2023-11-08 22:37:03",
@@ -747,22 +747,6 @@
     {
       "added_at": "2023-11-08 22:37:03",
       "album": {
-        "name": "Oro Puro: \u00c9xitos",
-        "url": "https://open.spotify.com/album/21g7e1NwMiTJMr6G38h0hA"
-      },
-      "artists": [
-        {
-          "name": "Los Telez",
-          "url": "https://open.spotify.com/artist/4KZzz3Ri83L1aE5rNK9q3A"
-        }
-      ],
-      "duration_ms": 211760,
-      "name": "Int\u00e9ntalo T\u00fa",
-      "url": "https://open.spotify.com/track/7tc8n0EmYbjoiouaxYTlyV"
-    },
-    {
-      "added_at": "2023-11-08 22:37:03",
-      "album": {
         "name": "Sin Mirar Atr\u00e1s",
         "url": "https://open.spotify.com/album/2FoP3XV69oKsMxfK5oJkRX"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 196597,
       "name": "Al\u00e9jate de Mi",
       "url": "https://open.spotify.com/track/2elSQMWeHJCiMCmwAUf43W"
+    },
+    {
+      "added_at": "2023-11-08 22:37:03",
+      "album": {
+        "name": "Oro Puro: \u00c9xitos",
+        "url": "https://open.spotify.com/album/21g7e1NwMiTJMr6G38h0hA"
+      },
+      "artists": [
+        {
+          "name": "Los Telez",
+          "url": "https://open.spotify.com/artist/4KZzz3Ri83L1aE5rNK9q3A"
+        }
+      ],
+      "duration_ms": 211760,
+      "name": "Int\u00e9ntalo T\u00fa",
+      "url": "https://open.spotify.com/track/7tc8n0EmYbjoiouaxYTlyV"
     },
     {
       "added_at": "2023-11-08 22:37:03",
@@ -843,22 +843,6 @@
     {
       "added_at": "2023-11-08 22:37:03",
       "album": {
-        "name": "La Monjita Voladora - Cumbia Sonidera",
-        "url": "https://open.spotify.com/album/7HxXxjI6VekYFOUtJL7n2V"
-      },
-      "artists": [
-        {
-          "name": "Grupo Toca Recio",
-          "url": "https://open.spotify.com/artist/1j98coEFrGNwVfl7gGMO7u"
-        }
-      ],
-      "duration_ms": 249768,
-      "name": "La Monjita Voladora - Cumbia Sonidera",
-      "url": "https://open.spotify.com/track/24zP7HDzOD078cjG0q61i3"
-    },
-    {
-      "added_at": "2023-11-08 22:37:03",
-      "album": {
         "name": "No Me Enga\u00f1es Nunca",
         "url": "https://open.spotify.com/album/0tUwtwf1x9pnkZUM9tXrSX"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 233933,
       "name": "No Me Enga\u00f1es Nunca",
       "url": "https://open.spotify.com/track/061AptiQT6XhEkTViCMHWx"
+    },
+    {
+      "added_at": "2023-11-08 22:37:03",
+      "album": {
+        "name": "La Monjita Voladora - Cumbia Sonidera",
+        "url": "https://open.spotify.com/album/7HxXxjI6VekYFOUtJL7n2V"
+      },
+      "artists": [
+        {
+          "name": "Grupo Toca Recio",
+          "url": "https://open.spotify.com/artist/1j98coEFrGNwVfl7gGMO7u"
+        }
+      ],
+      "duration_ms": 249768,
+      "name": "La Monjita Voladora - Cumbia Sonidera",
+      "url": "https://open.spotify.com/track/24zP7HDzOD078cjG0q61i3"
     },
     {
       "added_at": "2023-11-08 22:37:03",
@@ -999,22 +999,6 @@
     {
       "added_at": "2023-11-08 22:37:03",
       "album": {
-        "name": "Grito En Silencio",
-        "url": "https://open.spotify.com/album/5FXAiILW1gioBCuF7I39wS"
-      },
-      "artists": [
-        {
-          "name": "Grupo Carabo",
-          "url": "https://open.spotify.com/artist/0pY1OqclT7G3fojvX0dKdv"
-        }
-      ],
-      "duration_ms": 215973,
-      "name": "El Afilador",
-      "url": "https://open.spotify.com/track/7ob6SovekT6cESeyUHiFQn"
-    },
-    {
-      "added_at": "2023-11-08 22:37:03",
-      "album": {
         "name": "De Reventon",
         "url": "https://open.spotify.com/album/4qzxNsbEaoBc4M2ZFEyFoU"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 254640,
       "name": "Cosas Bonitas",
       "url": "https://open.spotify.com/track/75VDWiZEfAt3dL49kASgvi"
+    },
+    {
+      "added_at": "2023-11-08 22:37:03",
+      "album": {
+        "name": "Grito En Silencio",
+        "url": "https://open.spotify.com/album/5FXAiILW1gioBCuF7I39wS"
+      },
+      "artists": [
+        {
+          "name": "Grupo Carabo",
+          "url": "https://open.spotify.com/artist/0pY1OqclT7G3fojvX0dKdv"
+        }
+      ],
+      "duration_ms": 215973,
+      "name": "El Afilador",
+      "url": "https://open.spotify.com/track/7ob6SovekT6cESeyUHiFQn"
     },
     {
       "added_at": "2023-11-08 22:37:03",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2023-11-08 22:37:03",
       "album": {
-        "name": "Trayectoria",
-        "url": "https://open.spotify.com/album/0YtGKnOCOt9IYnHDsuJwQt"
-      },
-      "artists": [
-        {
-          "name": "Los Yes Yes",
-          "url": "https://open.spotify.com/artist/6h9B8wche8pbvJ0wiWKn8q"
-        }
-      ],
-      "duration_ms": 247453,
-      "name": "Negrita",
-      "url": "https://open.spotify.com/track/2Bei9aVd6E0PejqXO5VArJ"
-    },
-    {
-      "added_at": "2023-11-08 22:37:03",
-      "album": {
         "name": "Dejame Pensar",
         "url": "https://open.spotify.com/album/21edwS4PjbYCYBwWBvQMYF"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 277455,
       "name": "Dejame Pensar",
       "url": "https://open.spotify.com/track/70uHRAF2e3JyTYaCCULZM5"
+    },
+    {
+      "added_at": "2023-11-08 22:37:03",
+      "album": {
+        "name": "Trayectoria",
+        "url": "https://open.spotify.com/album/0YtGKnOCOt9IYnHDsuJwQt"
+      },
+      "artists": [
+        {
+          "name": "Los Yes Yes",
+          "url": "https://open.spotify.com/artist/6h9B8wche8pbvJ0wiWKn8q"
+        }
+      ],
+      "duration_ms": 247453,
+      "name": "Negrita",
+      "url": "https://open.spotify.com/track/2Bei9aVd6E0PejqXO5VArJ"
     },
     {
       "added_at": "2023-11-08 22:37:03",
@@ -1275,18 +1275,18 @@
     {
       "added_at": "2023-11-08 22:37:03",
       "album": {
-        "name": "Vaya Que Sabor!!",
-        "url": "https://open.spotify.com/album/5ekGtbNe6EW4omlCEKZBSL"
+        "name": "Cumbias y Bachatas Vol.2",
+        "url": "https://open.spotify.com/album/2VKXFDOa49Xj9Bby34QqxJ"
       },
       "artists": [
         {
-          "name": "Pepe Gomez Jr. y su Grupo Union 82",
-          "url": "https://open.spotify.com/artist/3aiiZsdJHqXrPkYOBQI0Uo"
+          "name": "Grupo Ternura Dinastia Toxqui",
+          "url": "https://open.spotify.com/artist/6zgNAWCeLAvNWLasnMi2oZ"
         }
       ],
-      "duration_ms": 199999,
-      "name": "Embrujo de Cumbia",
-      "url": "https://open.spotify.com/track/4RHwuJ7oskqoI0LqMY9RfD"
+      "duration_ms": 253236,
+      "name": "El Fantasma del Amor",
+      "url": "https://open.spotify.com/track/7sQTaMi77raGv1nTPhLRcZ"
     },
     {
       "added_at": "2023-11-08 22:37:03",
@@ -1315,18 +1315,18 @@
     {
       "added_at": "2023-11-08 22:37:03",
       "album": {
-        "name": "Cumbias y Bachatas Vol.2",
-        "url": "https://open.spotify.com/album/2VKXFDOa49Xj9Bby34QqxJ"
+        "name": "Vaya Que Sabor!!",
+        "url": "https://open.spotify.com/album/5ekGtbNe6EW4omlCEKZBSL"
       },
       "artists": [
         {
-          "name": "Grupo Ternura Dinastia Toxqui",
-          "url": "https://open.spotify.com/artist/6zgNAWCeLAvNWLasnMi2oZ"
+          "name": "Pepe Gomez Jr. y su Grupo Union 82",
+          "url": "https://open.spotify.com/artist/3aiiZsdJHqXrPkYOBQI0Uo"
         }
       ],
-      "duration_ms": 253236,
-      "name": "El Fantasma del Amor",
-      "url": "https://open.spotify.com/track/7sQTaMi77raGv1nTPhLRcZ"
+      "duration_ms": 199999,
+      "name": "Embrujo de Cumbia",
+      "url": "https://open.spotify.com/track/4RHwuJ7oskqoI0LqMY9RfD"
     },
     {
       "added_at": "2023-11-08 22:37:03",
@@ -1443,6 +1443,22 @@
     {
       "added_at": "2023-11-08 22:37:03",
       "album": {
+        "name": "El Ritmo Mamalon",
+        "url": "https://open.spotify.com/album/3QjaVFKBo0Skrb55Sv2a0I"
+      },
+      "artists": [
+        {
+          "name": "Grupo Jalado",
+          "url": "https://open.spotify.com/artist/71mQj8OrRgy3smRMjnFioM"
+        }
+      ],
+      "duration_ms": 193375,
+      "name": "El Ritmo Mamalon",
+      "url": "https://open.spotify.com/track/5RgJSONsPv1HRM8qNTnR4u"
+    },
+    {
+      "added_at": "2023-11-08 22:37:03",
+      "album": {
         "name": "Recuerdos",
         "url": "https://open.spotify.com/album/3bvSVLCNLuiBqLiXt6bAN5"
       },
@@ -1487,22 +1503,6 @@
       "duration_ms": 235293,
       "name": "Me Volv\u00ed A Acordar De Ti",
       "url": "https://open.spotify.com/track/6z4LGme7tL991yvpk1gURW"
-    },
-    {
-      "added_at": "2023-11-08 22:37:03",
-      "album": {
-        "name": "El Ritmo Mamalon",
-        "url": "https://open.spotify.com/album/3QjaVFKBo0Skrb55Sv2a0I"
-      },
-      "artists": [
-        {
-          "name": "Grupo Jalado",
-          "url": "https://open.spotify.com/artist/71mQj8OrRgy3smRMjnFioM"
-        }
-      ],
-      "duration_ms": 193375,
-      "name": "El Ritmo Mamalon",
-      "url": "https://open.spotify.com/track/5RgJSONsPv1HRM8qNTnR4u"
     },
     {
       "added_at": "2023-11-08 22:37:03",
@@ -1599,22 +1599,6 @@
     {
       "added_at": "2023-11-08 22:37:03",
       "album": {
-        "name": "Enamoradas",
-        "url": "https://open.spotify.com/album/3ZLUqvji6GFOP3sAw04gJA"
-      },
-      "artists": [
-        {
-          "name": "Aroma",
-          "url": "https://open.spotify.com/artist/0IZ9yCkg8kUjJNwMA8SHYX"
-        }
-      ],
-      "duration_ms": 177213,
-      "name": "Por Un Rato",
-      "url": "https://open.spotify.com/track/1tuNezfWG1gxqSiyOOQhDt"
-    },
-    {
-      "added_at": "2023-11-08 22:37:03",
-      "album": {
         "name": "Noches Oscuras",
         "url": "https://open.spotify.com/album/5TJ4Loi2pZaTEfIqFpRh4B"
       },
@@ -1627,6 +1611,22 @@
       "duration_ms": 350511,
       "name": "Noches Oscuras",
       "url": "https://open.spotify.com/track/2Yr4K1V5LXpSMjWpQ6FGt9"
+    },
+    {
+      "added_at": "2023-11-08 22:37:03",
+      "album": {
+        "name": "Enamoradas",
+        "url": "https://open.spotify.com/album/3ZLUqvji6GFOP3sAw04gJA"
+      },
+      "artists": [
+        {
+          "name": "Aroma",
+          "url": "https://open.spotify.com/artist/0IZ9yCkg8kUjJNwMA8SHYX"
+        }
+      ],
+      "duration_ms": 177213,
+      "name": "Por Un Rato",
+      "url": "https://open.spotify.com/track/1tuNezfWG1gxqSiyOOQhDt"
     },
     {
       "added_at": "2023-11-08 22:37:03",
@@ -1807,6 +1807,22 @@
     {
       "added_at": "2023-11-08 22:37:03",
       "album": {
+        "name": "Toquin en Am\u00e9rica",
+        "url": "https://open.spotify.com/album/6sZgQ0ACy8yOIDpAmxz8Nj"
+      },
+      "artists": [
+        {
+          "name": "Los Javugoh",
+          "url": "https://open.spotify.com/artist/6WpqijLQ174As9uCl0RbP5"
+        }
+      ],
+      "duration_ms": 207728,
+      "name": "Caricias - Acar\u00edciame",
+      "url": "https://open.spotify.com/track/0bxMHP8ltPjqDe6JCkEd9p"
+    },
+    {
+      "added_at": "2023-11-08 22:37:03",
+      "album": {
         "name": "La Cumbia Se\u00f1al",
         "url": "https://open.spotify.com/album/6YTxVxs81ZfPj1afYAiGaj"
       },
@@ -1835,22 +1851,6 @@
       "duration_ms": 202666,
       "name": "Eres",
       "url": "https://open.spotify.com/track/1OeKx8ya9DRQBWKJmlRFJp"
-    },
-    {
-      "added_at": "2023-11-08 22:37:03",
-      "album": {
-        "name": "Toquin en Am\u00e9rica",
-        "url": "https://open.spotify.com/album/6sZgQ0ACy8yOIDpAmxz8Nj"
-      },
-      "artists": [
-        {
-          "name": "Los Javugoh",
-          "url": "https://open.spotify.com/artist/6WpqijLQ174As9uCl0RbP5"
-        }
-      ],
-      "duration_ms": 207728,
-      "name": "Caricias - Acar\u00edciame",
-      "url": "https://open.spotify.com/track/0bxMHP8ltPjqDe6JCkEd9p"
     },
     {
       "added_at": "2023-11-08 22:37:03",
@@ -2003,18 +2003,18 @@
     {
       "added_at": "2023-11-08 22:37:03",
       "album": {
-        "name": "Las Clasicas Con Los Yes Yes",
-        "url": "https://open.spotify.com/album/0n8IqXoFifn6WsBu9OGLiv"
+        "name": "Dos en Uno",
+        "url": "https://open.spotify.com/album/62IIfBRz6IlMviHqNs1lNt"
       },
       "artists": [
         {
-          "name": "Los Yes Yes",
-          "url": "https://open.spotify.com/artist/6h9B8wche8pbvJ0wiWKn8q"
+          "name": "Grupo Macao de Alex y Jhonny",
+          "url": "https://open.spotify.com/artist/2GAmpY3SIeEIjNjP8AjP2Z"
         }
       ],
-      "duration_ms": 186840,
-      "name": "Un Poblano En Nueva York",
-      "url": "https://open.spotify.com/track/0atpapzPqDHfYRWeOlgDQf"
+      "duration_ms": 313740,
+      "name": "Dos en Uno",
+      "url": "https://open.spotify.com/track/6z9FyLFLp1lLeRg3h0hPPU"
     },
     {
       "added_at": "2023-11-08 22:37:03",
@@ -2035,18 +2035,18 @@
     {
       "added_at": "2023-11-08 22:37:03",
       "album": {
-        "name": "Dos en Uno",
-        "url": "https://open.spotify.com/album/62IIfBRz6IlMviHqNs1lNt"
+        "name": "Las Clasicas Con Los Yes Yes",
+        "url": "https://open.spotify.com/album/0n8IqXoFifn6WsBu9OGLiv"
       },
       "artists": [
         {
-          "name": "Grupo Macao de Alex y Jhonny",
-          "url": "https://open.spotify.com/artist/2GAmpY3SIeEIjNjP8AjP2Z"
+          "name": "Los Yes Yes",
+          "url": "https://open.spotify.com/artist/6h9B8wche8pbvJ0wiWKn8q"
         }
       ],
-      "duration_ms": 313740,
-      "name": "Dos en Uno",
-      "url": "https://open.spotify.com/track/6z9FyLFLp1lLeRg3h0hPPU"
+      "duration_ms": 186840,
+      "name": "Un Poblano En Nueva York",
+      "url": "https://open.spotify.com/track/0atpapzPqDHfYRWeOlgDQf"
     },
     {
       "added_at": "2023-11-08 22:37:03",

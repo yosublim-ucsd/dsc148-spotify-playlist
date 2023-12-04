@@ -1,12 +1,12 @@
 {
   "description": "This is the best of ska, new and classic. Cover: Madness",
-  "num_followers": 364364,
+  "num_followers": 364417,
   "original_name": "The Essential Ska",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NzI4Y2I1YWEyNWYwZGI5NjJmMmVhYzUwNjBiMDFjMzIwZmM5Mzlj",
+  "snapshot_id": "MCw4MDdhMzc4ODAxMWFiMjAzYTQxYzQxOWMyZGZkMThkYTkwNmIyMTYw",
   "tracks": [
     {
       "added_at": "2023-11-24 01:10:39",
@@ -595,22 +595,6 @@
     {
       "added_at": "2023-11-24 01:10:39",
       "album": {
-        "name": "I Just Can't Stop It (Remastered)",
-        "url": "https://open.spotify.com/album/08zjJfP4f6cXGxscvztbvh"
-      },
-      "artists": [
-        {
-          "name": "The English Beat",
-          "url": "https://open.spotify.com/artist/1eVEVL20zNLcGrPDOR691N"
-        }
-      ],
-      "duration_ms": 190333,
-      "name": "Mirror In the Bathroom",
-      "url": "https://open.spotify.com/track/3LUhdkixxrrqv3nfNfkINe"
-    },
-    {
-      "added_at": "2023-11-24 01:10:39",
-      "album": {
         "name": "The Fury of the Aquabats!",
         "url": "https://open.spotify.com/album/3ytuNr6VyEkILS2PG14LCM"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 182800,
       "name": "Super Rad!",
       "url": "https://open.spotify.com/track/0wZuFLzQhVAJU9JSmdixTE"
+    },
+    {
+      "added_at": "2023-11-24 01:10:39",
+      "album": {
+        "name": "I Just Can't Stop It (Remastered)",
+        "url": "https://open.spotify.com/album/08zjJfP4f6cXGxscvztbvh"
+      },
+      "artists": [
+        {
+          "name": "The English Beat",
+          "url": "https://open.spotify.com/artist/1eVEVL20zNLcGrPDOR691N"
+        }
+      ],
+      "duration_ms": 190333,
+      "name": "Mirror In the Bathroom",
+      "url": "https://open.spotify.com/track/3LUhdkixxrrqv3nfNfkINe"
     },
     {
       "added_at": "2023-11-24 01:10:39",
@@ -723,22 +723,6 @@
     {
       "added_at": "2023-11-24 01:10:39",
       "album": {
-        "name": "Ball Of Fire",
-        "url": "https://open.spotify.com/album/09U02a0PnmQnAXSa121FVN"
-      },
-      "artists": [
-        {
-          "name": "The Skatalites",
-          "url": "https://open.spotify.com/artist/4og9jrin5xH5JiFPbeGUPb"
-        }
-      ],
-      "duration_ms": 420840,
-      "name": "Rock Fort Rock",
-      "url": "https://open.spotify.com/track/5iLpRDS6TNaIxh1zppyfEY"
-    },
-    {
-      "added_at": "2023-11-24 01:10:39",
-      "album": {
         "name": "Let\u2019s Face It",
         "url": "https://open.spotify.com/album/5Q9CP8RlnRY3MfcRliWj6r"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 166166,
       "name": "The Rascal King",
       "url": "https://open.spotify.com/track/2EeIsfOZ3RNXUahTLJXluT"
+    },
+    {
+      "added_at": "2023-11-24 01:10:39",
+      "album": {
+        "name": "Ball Of Fire",
+        "url": "https://open.spotify.com/album/09U02a0PnmQnAXSa121FVN"
+      },
+      "artists": [
+        {
+          "name": "The Skatalites",
+          "url": "https://open.spotify.com/artist/4og9jrin5xH5JiFPbeGUPb"
+        }
+      ],
+      "duration_ms": 420840,
+      "name": "Rock Fort Rock",
+      "url": "https://open.spotify.com/track/5iLpRDS6TNaIxh1zppyfEY"
     },
     {
       "added_at": "2023-11-24 01:10:39",
@@ -819,6 +819,22 @@
     {
       "added_at": "2023-11-24 01:10:39",
       "album": {
+        "name": "More Noise And Other Disturbances",
+        "url": "https://open.spotify.com/album/28xDdUxyWOjPzZKbcQMJlO"
+      },
+      "artists": [
+        {
+          "name": "The Mighty Mighty Bosstones",
+          "url": "https://open.spotify.com/artist/5uYXMC13cIUulobh204QuK"
+        }
+      ],
+      "duration_ms": 206800,
+      "name": "Where'd You Go",
+      "url": "https://open.spotify.com/track/6KwaJu7h79dMxDvcxgiyfc"
+    },
+    {
+      "added_at": "2023-11-24 01:10:39",
+      "album": {
         "name": "Tragic Kingdom",
         "url": "https://open.spotify.com/album/3VekjWskUut57hx6W9wqL8"
       },
@@ -863,22 +879,6 @@
       "duration_ms": 143546,
       "name": "Where I'm Going",
       "url": "https://open.spotify.com/track/3MXxV2BQjMEhZmTtLkIOPz"
-    },
-    {
-      "added_at": "2023-11-24 01:10:39",
-      "album": {
-        "name": "More Noise And Other Disturbances",
-        "url": "https://open.spotify.com/album/28xDdUxyWOjPzZKbcQMJlO"
-      },
-      "artists": [
-        {
-          "name": "The Mighty Mighty Bosstones",
-          "url": "https://open.spotify.com/artist/5uYXMC13cIUulobh204QuK"
-        }
-      ],
-      "duration_ms": 206800,
-      "name": "Where'd You Go",
-      "url": "https://open.spotify.com/track/6KwaJu7h79dMxDvcxgiyfc"
     },
     {
       "added_at": "2023-11-24 01:10:39",
@@ -935,22 +935,6 @@
     {
       "added_at": "2023-11-24 01:10:39",
       "album": {
-        "name": "Willis",
-        "url": "https://open.spotify.com/album/2p6CFGaXrhWuV7RbpL7xXY"
-      },
-      "artists": [
-        {
-          "name": "The Pietasters",
-          "url": "https://open.spotify.com/artist/7tleIwvDsYTM0MAXBTOeKn"
-        }
-      ],
-      "duration_ms": 196733,
-      "name": "Out All Night",
-      "url": "https://open.spotify.com/track/5GG2T4nFuS1L5xb9U3iJ8G"
-    },
-    {
-      "added_at": "2023-11-24 01:10:39",
-      "album": {
         "name": "One Step Beyond...",
         "url": "https://open.spotify.com/album/5Jst9QoWbNmjQFUyGIkMnA"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 138360,
       "name": "One Step Beyond",
       "url": "https://open.spotify.com/track/1G6eFFDRaLr9EbThnhzMBD"
+    },
+    {
+      "added_at": "2023-11-24 01:10:39",
+      "album": {
+        "name": "Willis",
+        "url": "https://open.spotify.com/album/2p6CFGaXrhWuV7RbpL7xXY"
+      },
+      "artists": [
+        {
+          "name": "The Pietasters",
+          "url": "https://open.spotify.com/artist/7tleIwvDsYTM0MAXBTOeKn"
+        }
+      ],
+      "duration_ms": 196733,
+      "name": "Out All Night",
+      "url": "https://open.spotify.com/track/5GG2T4nFuS1L5xb9U3iJ8G"
     },
     {
       "added_at": "2023-11-24 01:10:39",
@@ -999,22 +999,6 @@
     {
       "added_at": "2023-11-24 01:10:39",
       "album": {
-        "name": "Middle Finger",
-        "url": "https://open.spotify.com/album/3mHlnMg1GsCzHy142QBpzH"
-      },
-      "artists": [
-        {
-          "name": "Ballyhoo!",
-          "url": "https://open.spotify.com/artist/6py4uFIC7T6RdrZnH6hFYJ"
-        }
-      ],
-      "duration_ms": 206032,
-      "name": "Middle Finger",
-      "url": "https://open.spotify.com/track/6xt46jtvhOjqf0bbJ3wT3v"
-    },
-    {
-      "added_at": "2023-11-24 01:10:39",
-      "album": {
         "name": "Twenty-Eight Teeth",
         "url": "https://open.spotify.com/album/6vlMw1g1CoKOuVAj80aTe9"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 214266,
       "name": "My Town",
       "url": "https://open.spotify.com/track/2Bf8CoBhV8kDpQju55Tuha"
+    },
+    {
+      "added_at": "2023-11-24 01:10:39",
+      "album": {
+        "name": "Middle Finger",
+        "url": "https://open.spotify.com/album/3mHlnMg1GsCzHy142QBpzH"
+      },
+      "artists": [
+        {
+          "name": "Ballyhoo!",
+          "url": "https://open.spotify.com/artist/6py4uFIC7T6RdrZnH6hFYJ"
+        }
+      ],
+      "duration_ms": 206032,
+      "name": "Middle Finger",
+      "url": "https://open.spotify.com/track/6xt46jtvhOjqf0bbJ3wT3v"
     },
     {
       "added_at": "2023-11-24 01:10:39",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2023-11-24 01:10:39",
       "album": {
-        "name": "Message to the World",
-        "url": "https://open.spotify.com/album/7z2lGMV0XR1ssaaO3Eb3P3"
-      },
-      "artists": [
-        {
-          "name": "Ballyhoo!",
-          "url": "https://open.spotify.com/artist/6py4uFIC7T6RdrZnH6hFYJ"
-        }
-      ],
-      "duration_ms": 183506,
-      "name": "Social Drinker",
-      "url": "https://open.spotify.com/track/5sxcHFhYvo54vXt7fl900y"
-    },
-    {
-      "added_at": "2023-11-24 01:10:39",
-      "album": {
         "name": "Keasbey Nights",
         "url": "https://open.spotify.com/album/2sFPd4EWqI4x6RsaeMqA8a"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 194146,
       "name": "On & On & On",
       "url": "https://open.spotify.com/track/66UiVrGhYHHyfJlE1g8y61"
+    },
+    {
+      "added_at": "2023-11-24 01:10:39",
+      "album": {
+        "name": "Message to the World",
+        "url": "https://open.spotify.com/album/7z2lGMV0XR1ssaaO3Eb3P3"
+      },
+      "artists": [
+        {
+          "name": "Ballyhoo!",
+          "url": "https://open.spotify.com/artist/6py4uFIC7T6RdrZnH6hFYJ"
+        }
+      ],
+      "duration_ms": 183506,
+      "name": "Social Drinker",
+      "url": "https://open.spotify.com/track/5sxcHFhYvo54vXt7fl900y"
     },
     {
       "added_at": "2023-11-24 01:10:39",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2023-11-24 01:10:39",
       "album": {
-        "name": "Everything Sucks",
-        "url": "https://open.spotify.com/album/5FLHSvc1Q7TW2hqspnqKRF"
-      },
-      "artists": [
-        {
-          "name": "Reel Big Fish",
-          "url": "https://open.spotify.com/artist/3bXhZFreBJF4QDUUiMmtZW"
-        }
-      ],
-      "duration_ms": 220693,
-      "name": "Beer",
-      "url": "https://open.spotify.com/track/7rDOSQkStxj28M4GRM6Xbs"
-    },
-    {
-      "added_at": "2023-11-24 01:10:39",
-      "album": {
         "name": "Unstoppable",
         "url": "https://open.spotify.com/album/1kJP7cQaT8xHYSKlknNiuS"
       },
@@ -1367,6 +1351,22 @@
       "duration_ms": 188573,
       "name": "Unstoppable",
       "url": "https://open.spotify.com/track/1ikzC1az2vXMR060qvDnvW"
+    },
+    {
+      "added_at": "2023-11-24 01:10:39",
+      "album": {
+        "name": "Everything Sucks",
+        "url": "https://open.spotify.com/album/5FLHSvc1Q7TW2hqspnqKRF"
+      },
+      "artists": [
+        {
+          "name": "Reel Big Fish",
+          "url": "https://open.spotify.com/artist/3bXhZFreBJF4QDUUiMmtZW"
+        }
+      ],
+      "duration_ms": 220693,
+      "name": "Beer",
+      "url": "https://open.spotify.com/track/7rDOSQkStxj28M4GRM6Xbs"
     },
     {
       "added_at": "2023-11-24 01:10:39",
@@ -1435,6 +1435,22 @@
     {
       "added_at": "2023-11-24 01:10:39",
       "album": {
+        "name": "Life Sucks... Let's Dance!",
+        "url": "https://open.spotify.com/album/7oZd1PgW5rhdtVP8N8d6Wy"
+      },
+      "artists": [
+        {
+          "name": "Reel Big Fish",
+          "url": "https://open.spotify.com/artist/3bXhZFreBJF4QDUUiMmtZW"
+        }
+      ],
+      "duration_ms": 164552,
+      "name": "You Can't Have All of Me",
+      "url": "https://open.spotify.com/track/4f0tP0do1PtMf0OASpHPTY"
+    },
+    {
+      "added_at": "2023-11-24 01:10:39",
+      "album": {
         "name": "South Somewhere Else",
         "url": "https://open.spotify.com/album/0I2o0Ivz3uo7LxwWdM2AtO"
       },
@@ -1479,22 +1495,6 @@
       "duration_ms": 185088,
       "name": "Enjoy Yourself",
       "url": "https://open.spotify.com/track/2gXudOFrHDzj7D2JqbcFWm"
-    },
-    {
-      "added_at": "2023-11-24 01:10:39",
-      "album": {
-        "name": "Life Sucks... Let's Dance!",
-        "url": "https://open.spotify.com/album/7oZd1PgW5rhdtVP8N8d6Wy"
-      },
-      "artists": [
-        {
-          "name": "Reel Big Fish",
-          "url": "https://open.spotify.com/artist/3bXhZFreBJF4QDUUiMmtZW"
-        }
-      ],
-      "duration_ms": 164552,
-      "name": "You Can't Have All of Me",
-      "url": "https://open.spotify.com/track/4f0tP0do1PtMf0OASpHPTY"
     },
     {
       "added_at": "2023-11-24 01:10:39",

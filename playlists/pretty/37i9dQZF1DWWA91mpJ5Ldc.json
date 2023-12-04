@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasica brasileira para temperar as receitas do dia-a-dia.",
-  "num_followers": 121325,
+  "num_followers": 121369,
   "original_name": "Cozinhando em Casa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYTdkM2ZmY2YxNGJkMWQ5MTQ4YjA0MjlmOTlmZDM0NGE0YjIwZTRl",
+  "snapshot_id": "MCw1MzA4Mjg2ZmRjYWQ4ZTY5NzU5MmM2ZmVhOTA4ZjM3ZDQ3NWEzZWFh",
   "tracks": [
     {
       "added_at": "2023-11-03 06:05:48",
@@ -207,22 +207,6 @@
     {
       "added_at": "2023-11-03 06:05:48",
       "album": {
-        "name": "COR",
-        "url": "https://open.spotify.com/album/43Q8jiKg8whuFnVCwA1xOC"
-      },
-      "artists": [
-        {
-          "name": "ANAVIT\u00d3RIA",
-          "url": "https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe"
-        }
-      ],
-      "duration_ms": 244386,
-      "name": "Te amar \u00e9 massa demais",
-      "url": "https://open.spotify.com/track/5PLtrIrBZytL4L11AyxOHR"
-    },
-    {
-      "added_at": "2023-11-03 06:05:48",
-      "album": {
         "name": "Musica para Churrasco, Vol. 1",
         "url": "https://open.spotify.com/album/3LVFK1YwvyZMU1u20U2dMg"
       },
@@ -235,6 +219,22 @@
       "duration_ms": 326493,
       "name": "Quem N\u00e3o Quer Sou Eu",
       "url": "https://open.spotify.com/track/7JFGnfONNe5vepbGwZBkhL"
+    },
+    {
+      "added_at": "2023-11-03 06:05:48",
+      "album": {
+        "name": "COR",
+        "url": "https://open.spotify.com/album/43Q8jiKg8whuFnVCwA1xOC"
+      },
+      "artists": [
+        {
+          "name": "ANAVIT\u00d3RIA",
+          "url": "https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe"
+        }
+      ],
+      "duration_ms": 244386,
+      "name": "Te amar \u00e9 massa demais",
+      "url": "https://open.spotify.com/track/5PLtrIrBZytL4L11AyxOHR"
     },
     {
       "added_at": "2023-11-03 06:05:48",
@@ -463,22 +463,6 @@
     {
       "added_at": "2023-11-03 06:05:48",
       "album": {
-        "name": "Roupa Branca",
-        "url": "https://open.spotify.com/album/6tlXAjDZUnoQmIP1lcrqMC"
-      },
-      "artists": [
-        {
-          "name": "Sued Nunes",
-          "url": "https://open.spotify.com/artist/3CFyVJRAmjkptSfvwMljQi"
-        }
-      ],
-      "duration_ms": 147770,
-      "name": "Roupa Branca",
-      "url": "https://open.spotify.com/track/1XWwzbDvvuRLFMRjoJ3ecC"
-    },
-    {
-      "added_at": "2023-11-03 06:05:48",
-      "album": {
         "name": "Amanh\u00e3",
         "url": "https://open.spotify.com/album/7AWmeGS2m6VEeAAUbW4upq"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 172794,
       "name": "+ 1 Minuto",
       "url": "https://open.spotify.com/track/31UbXsSRMDhTnue6NAw22i"
+    },
+    {
+      "added_at": "2023-11-03 06:05:48",
+      "album": {
+        "name": "Roupa Branca",
+        "url": "https://open.spotify.com/album/6tlXAjDZUnoQmIP1lcrqMC"
+      },
+      "artists": [
+        {
+          "name": "Sued Nunes",
+          "url": "https://open.spotify.com/artist/3CFyVJRAmjkptSfvwMljQi"
+        }
+      ],
+      "duration_ms": 147770,
+      "name": "Roupa Branca",
+      "url": "https://open.spotify.com/track/1XWwzbDvvuRLFMRjoJ3ecC"
     },
     {
       "added_at": "2023-11-03 06:05:48",
@@ -575,18 +575,22 @@
     {
       "added_at": "2023-11-03 06:05:48",
       "album": {
-        "name": "Te Amo L\u00e1 Fora",
-        "url": "https://open.spotify.com/album/5o6MJpi6Y4fQwI8gmv0oZc"
+        "name": "Servi\u00e7o",
+        "url": "https://open.spotify.com/album/4HN3LF9h0II1QfSJvs5x96"
       },
       "artists": [
+        {
+          "name": "Castello Branco",
+          "url": "https://open.spotify.com/artist/18mXdMHUw1ULPaeW1DNy90"
+        },
         {
           "name": "DUDA BEAT",
           "url": "https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o"
         }
       ],
-      "duration_ms": 246346,
-      "name": "Decis\u00e3o de Te Amar",
-      "url": "https://open.spotify.com/track/6iyBtf6dboO5YVYS3XUbVC"
+      "duration_ms": 179622,
+      "name": "C\u00e9u da Boca",
+      "url": "https://open.spotify.com/track/5RYsihoTr47Rd9uXYrVZpC"
     },
     {
       "added_at": "2023-11-03 06:05:48",
@@ -611,22 +615,18 @@
     {
       "added_at": "2023-11-03 06:05:48",
       "album": {
-        "name": "Servi\u00e7o",
-        "url": "https://open.spotify.com/album/4HN3LF9h0II1QfSJvs5x96"
+        "name": "Te Amo L\u00e1 Fora",
+        "url": "https://open.spotify.com/album/5o6MJpi6Y4fQwI8gmv0oZc"
       },
       "artists": [
-        {
-          "name": "Castello Branco",
-          "url": "https://open.spotify.com/artist/18mXdMHUw1ULPaeW1DNy90"
-        },
         {
           "name": "DUDA BEAT",
           "url": "https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o"
         }
       ],
-      "duration_ms": 179622,
-      "name": "C\u00e9u da Boca",
-      "url": "https://open.spotify.com/track/5RYsihoTr47Rd9uXYrVZpC"
+      "duration_ms": 246346,
+      "name": "Decis\u00e3o de Te Amar",
+      "url": "https://open.spotify.com/track/6iyBtf6dboO5YVYS3XUbVC"
     },
     {
       "added_at": "2023-11-03 06:05:48",
@@ -975,6 +975,22 @@
     {
       "added_at": "2023-11-03 06:05:48",
       "album": {
+        "name": "Viver (Mais leve que o ar)",
+        "url": "https://open.spotify.com/album/2TSwxXVstj31Js9PAgJ55u"
+      },
+      "artists": [
+        {
+          "name": "Marcelo Falc\u00e3o",
+          "url": "https://open.spotify.com/artist/4r6d4drhz83kHCRVJnzgdr"
+        }
+      ],
+      "duration_ms": 259453,
+      "name": "Gold Coast",
+      "url": "https://open.spotify.com/track/27hudnRUnesKNOZoiuLPVs"
+    },
+    {
+      "added_at": "2023-11-03 06:05:48",
+      "album": {
         "name": "Trevo, Figuinha e Suor na Camisa",
         "url": "https://open.spotify.com/album/5AYV4MJslPN48xaab39ZuW"
       },
@@ -991,22 +1007,6 @@
       "duration_ms": 170453,
       "name": "Trevo, Figuinha e Suor na Camisa",
       "url": "https://open.spotify.com/track/5XlSsxpTi0usJnQSUwBORk"
-    },
-    {
-      "added_at": "2023-11-03 06:05:48",
-      "album": {
-        "name": "Viver (Mais leve que o ar)",
-        "url": "https://open.spotify.com/album/2TSwxXVstj31Js9PAgJ55u"
-      },
-      "artists": [
-        {
-          "name": "Marcelo Falc\u00e3o",
-          "url": "https://open.spotify.com/artist/4r6d4drhz83kHCRVJnzgdr"
-        }
-      ],
-      "duration_ms": 259453,
-      "name": "Gold Coast",
-      "url": "https://open.spotify.com/track/27hudnRUnesKNOZoiuLPVs"
     },
     {
       "added_at": "2023-11-03 06:05:48",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2023-11-03 06:05:48",
       "album": {
-        "name": "Bom Mesmo \u00e9 Estar Debaixo D'\u00c1gua Deluxe",
-        "url": "https://open.spotify.com/album/0jO0rVqH4aJkfl3bA6l3yk"
-      },
-      "artists": [
-        {
-          "name": "Luedji Luna",
-          "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
-        }
-      ],
-      "duration_ms": 304780,
-      "name": "Enquanto Durmo",
-      "url": "https://open.spotify.com/track/1St2uU9hgjVMnmuLeLePlk"
-    },
-    {
-      "added_at": "2023-11-03 06:05:48",
-      "album": {
         "name": "Simples Assim",
         "url": "https://open.spotify.com/album/6znAgdIQOwEqEvYvymTWPa"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 217241,
       "name": "Em Outro Lugar",
       "url": "https://open.spotify.com/track/0ptLqVT3A8ZittU6I3qMvf"
+    },
+    {
+      "added_at": "2023-11-03 06:05:48",
+      "album": {
+        "name": "Bom Mesmo \u00e9 Estar Debaixo D'\u00c1gua Deluxe",
+        "url": "https://open.spotify.com/album/0jO0rVqH4aJkfl3bA6l3yk"
+      },
+      "artists": [
+        {
+          "name": "Luedji Luna",
+          "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
+        }
+      ],
+      "duration_ms": 304780,
+      "name": "Enquanto Durmo",
+      "url": "https://open.spotify.com/track/1St2uU9hgjVMnmuLeLePlk"
     }
   ],
   "unique_name": "Cozinhando em Casa",

@@ -1,12 +1,12 @@
 {
   "description": "This is what folk sounds like en espa\u00f1ol. Cover: Mateo Falgas",
-  "num_followers": 18964,
+  "num_followers": 18982,
   "original_name": "Latin Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZGUzNGE3NzkzNTE3MTA5ZjYzMzZhMGZlMGI2ZDYwMmQ3Y2IxOWEy",
+  "snapshot_id": "MCwxNDRjODIzZjQzMmRmZjFkYjJmOGM5MWNiNGYwNTY4NmNlZTk5ZjUw",
   "tracks": [
     {
       "added_at": "2023-12-01 05:01:00",
@@ -831,6 +831,22 @@
     {
       "added_at": "2023-12-01 05:01:00",
       "album": {
+        "name": "Larga Duraci\u00f3n",
+        "url": "https://open.spotify.com/album/4ih5clBRBMTQSMkRgpKf1a"
+      },
+      "artists": [
+        {
+          "name": "Paulino Monroy",
+          "url": "https://open.spotify.com/artist/2a15NvJ0ASGPEuWgGCCIJC"
+        }
+      ],
+      "duration_ms": 198536,
+      "name": "Las Vacas",
+      "url": "https://open.spotify.com/track/28OcOTibh6MFjwIrdS4eZh"
+    },
+    {
+      "added_at": "2023-12-01 05:01:00",
+      "album": {
         "name": "Estas Canciones Me Recuerdan a Ti",
         "url": "https://open.spotify.com/album/79iOQFpvUfcxDUMhBRZYRM"
       },
@@ -847,22 +863,6 @@
       "duration_ms": 203950,
       "name": "La Ola",
       "url": "https://open.spotify.com/track/0bg3L5f70z9iEaJki8Cgfa"
-    },
-    {
-      "added_at": "2023-12-01 05:01:00",
-      "album": {
-        "name": "Larga Duraci\u00f3n",
-        "url": "https://open.spotify.com/album/4ih5clBRBMTQSMkRgpKf1a"
-      },
-      "artists": [
-        {
-          "name": "Paulino Monroy",
-          "url": "https://open.spotify.com/artist/2a15NvJ0ASGPEuWgGCCIJC"
-        }
-      ],
-      "duration_ms": 198536,
-      "name": "Las Vacas",
-      "url": "https://open.spotify.com/track/28OcOTibh6MFjwIrdS4eZh"
     },
     {
       "added_at": "2023-12-01 05:01:00",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2023-12-01 05:01:00",
       "album": {
-        "name": "Perla Rosa",
-        "url": "https://open.spotify.com/album/4DonK7uIiQdNGQBMYf1JKf"
-      },
-      "artists": [
-        {
-          "name": "SNENiE",
-          "url": "https://open.spotify.com/artist/3iIgIzm5nwy5y2uuudWKTb"
-        }
-      ],
-      "duration_ms": 231604,
-      "name": "Un ratito m\u00e1s",
-      "url": "https://open.spotify.com/track/6oxu4nBUPJonbBptv1bX1n"
-    },
-    {
-      "added_at": "2023-12-01 05:01:00",
-      "album": {
         "name": "Milagro y Desastre",
         "url": "https://open.spotify.com/album/1NzQ77Keod0h1jD7xTltxe"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 245672,
       "name": "Milagro y Desastre",
       "url": "https://open.spotify.com/track/6EHmvfEPEp9LjUxuA4LZXE"
+    },
+    {
+      "added_at": "2023-12-01 05:01:00",
+      "album": {
+        "name": "Perla Rosa",
+        "url": "https://open.spotify.com/album/4DonK7uIiQdNGQBMYf1JKf"
+      },
+      "artists": [
+        {
+          "name": "SNENiE",
+          "url": "https://open.spotify.com/artist/3iIgIzm5nwy5y2uuudWKTb"
+        }
+      ],
+      "duration_ms": 231604,
+      "name": "Un ratito m\u00e1s",
+      "url": "https://open.spotify.com/track/6oxu4nBUPJonbBptv1bX1n"
     },
     {
       "added_at": "2023-12-01 05:01:00",

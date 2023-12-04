@@ -1,12 +1,12 @@
 {
   "description": "Walk down memory lane with the biggest rock anthems.",
-  "num_followers": 600915,
+  "num_followers": 601006,
   "original_name": "Songs We Rocked Out To",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyOGVhZDQyZDZmYTJlOGU0YzE4YjllOGQ1OTYwMWFmYTAyOTFhMDcx",
+  "snapshot_id": "MCxiM2YzMmNjOTNjODFlOGY5OTRhMjI2MDhlNTU3MmE1NTk4OTNkNjg5",
   "tracks": [
     {
       "added_at": "2022-08-23 23:56:36",
@@ -747,22 +747,6 @@
     {
       "added_at": "2022-08-23 23:56:36",
       "album": {
-        "name": "So Wrong, It's Right",
-        "url": "https://open.spotify.com/album/0H4ELcHequ3OligrjWfrZP"
-      },
-      "artists": [
-        {
-          "name": "All Time Low",
-          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
-        }
-      ],
-      "duration_ms": 182826,
-      "name": "Dear Maria, Count Me In",
-      "url": "https://open.spotify.com/track/0JJP0IS4w0fJx01EcrfkDe"
-    },
-    {
-      "added_at": "2022-08-23 23:56:36",
-      "album": {
         "name": "(What's The Story) Morning Glory? (Deluxe Remastered Edition)",
         "url": "https://open.spotify.com/album/6tOe4eAF8xNhEkl9WyvsE4"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 258773,
       "name": "Wonderwall - Remastered",
       "url": "https://open.spotify.com/track/7ygpwy2qP3NbrxVkHvUhXY"
+    },
+    {
+      "added_at": "2022-08-23 23:56:36",
+      "album": {
+        "name": "So Wrong, It's Right",
+        "url": "https://open.spotify.com/album/0H4ELcHequ3OligrjWfrZP"
+      },
+      "artists": [
+        {
+          "name": "All Time Low",
+          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
+        }
+      ],
+      "duration_ms": 182826,
+      "name": "Dear Maria, Count Me In",
+      "url": "https://open.spotify.com/track/0JJP0IS4w0fJx01EcrfkDe"
     },
     {
       "added_at": "2022-08-23 23:56:36",

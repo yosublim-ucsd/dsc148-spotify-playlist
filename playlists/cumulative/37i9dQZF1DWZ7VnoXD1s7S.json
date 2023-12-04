@@ -1416,7 +1416,7 @@
       ],
       "date_added": "2022-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-04",
       "duration_ms": 107949,
       "name": "Infinite Cloud",
       "url": "https://open.spotify.com/track/1iyeCgNmyLz6Ghip1VVarW"
@@ -1438,6 +1438,28 @@
       "duration_ms": 107949,
       "name": "Infinite Cloud",
       "url": "https://open.spotify.com/track/2uufSlJp3cSuv6hQXOs05B"
+    },
+    {
+      "album": {
+        "name": "Infinite Cloud",
+        "url": "https://open.spotify.com/album/5PBXsF4rwr1KOJkIxKbF4d"
+      },
+      "artists": [
+        {
+          "name": "Elliot Norlander",
+          "url": "https://open.spotify.com/artist/2vcH94PF19UypegwaEughz"
+        },
+        {
+          "name": "azzz",
+          "url": "https://open.spotify.com/artist/0UyI1qLUujBq87h9VqYIYh"
+        }
+      ],
+      "date_added": "2023-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107169,
+      "name": "Infinite Cloud",
+      "url": "https://open.spotify.com/track/4c5MdOKty7RhhqviGZWYrL"
     },
     {
       "album": {

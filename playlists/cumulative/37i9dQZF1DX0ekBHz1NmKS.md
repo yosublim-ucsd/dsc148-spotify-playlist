@@ -4,7 +4,7 @@
 
 > En samling av de bästa svenska låtarna just nu.
 
-884 songs - 1 day 22 hr 38 min
+885 songs - 1 day 22 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,7 +91,7 @@
 | [Bon Appetit](https://open.spotify.com/track/1MolHrXegbSaKOsAoljmUe) | [Medina](https://open.spotify.com/artist/3HbP7OfT7PCV0BrR0ReUkC) | [Bon Appetit](https://open.spotify.com/album/50F2HrBKKm5iYhx1mcEJHR) | 2:30 | 2023-03-30 | 2023-05-15 |
 | [Bon Voyage](https://open.spotify.com/track/5tLiS8p0h4bvKzfXZQRuHR) | [Dotter](https://open.spotify.com/artist/5CPsScBTPYY11Lv4Eb7k4t) | [Bon Voyage](https://open.spotify.com/album/2uv4wl8CnCEb0ZIIKOaCj5) | 2:54 | 2022-02-05 | 2022-07-28 |
 | [Borde veta bättre](https://open.spotify.com/track/3W8uHFs1NQm5bXVgAGKYvo) | [Junie](https://open.spotify.com/artist/3Jy86CVPHDVN858HitaK1N), [Denz](https://open.spotify.com/artist/3D0rwfKngK6Rr80niHDLP7) | [Borde veta bättre](https://open.spotify.com/album/1GxOfH3LSqV3ySAEbCSnHE) | 2:45 | 2023-02-02 | 2023-04-24 |
-| [Both Ways](https://open.spotify.com/track/7fJT8SSG96Su9Q40Bjs8x2) | [ELMA](https://open.spotify.com/artist/6KOsVFKDwAaTwdmOek0a2c) | [Both Ways](https://open.spotify.com/album/7lrIOVjFYRKTIDPFufwfJF) | 2:31 | 2023-10-12 |  |
+| [Both Ways](https://open.spotify.com/track/7fJT8SSG96Su9Q40Bjs8x2) | [ELMA](https://open.spotify.com/artist/6KOsVFKDwAaTwdmOek0a2c) | [Both Ways](https://open.spotify.com/album/7lrIOVjFYRKTIDPFufwfJF) | 2:31 | 2023-10-12 | 2023-12-04 |
 | [Bounds \(Mhmm\)](https://open.spotify.com/track/0FluRpeiZg41lLclRtWQwc) | [Nápoles](https://open.spotify.com/artist/3Dobjv7S9rOSiQMb1Jjnk1) | [Bounds \(Mhmm\)](https://open.spotify.com/album/6V96CPuNmhLCWiqsVLjqbN) | 2:45 | 2022-11-17 | 2023-01-06 |
 | [Boys We Chased](https://open.spotify.com/track/3pVSRJ6HUxdk9GFl4FTvmg) | [Boys and Ivy](https://open.spotify.com/artist/3GrJO6kJGc0koDm1C1dBBk) | [Boys We Chased](https://open.spotify.com/album/05kCs6VC9to0deUTGfioej) | 3:29 | 2022-03-10 | 2022-07-29 |
 | [Bra ihop](https://open.spotify.com/track/1V8ZCGO852CLJmj0qhNXwh) | [Lisa Howard](https://open.spotify.com/artist/65eHyQC0V8h38ia3dLKaRm) | [Bra ihop](https://open.spotify.com/album/7r6cb6MK0xNBmqeGV9fKWC) | 3:43 | 2021-12-16 | 2022-03-11 |
@@ -113,6 +113,7 @@
 | [Bästa som hänt](https://open.spotify.com/track/2FqMN5yQNBTN1argtzblRl) | [Jobe](https://open.spotify.com/artist/3LpFNC9X6KX4aUmGaWaeGP) | [Bästa som hänt](https://open.spotify.com/album/7plgkCP375uQfQtP9O8wh2) | 2:56 | 2023-10-13 |  |
 | [Bästa Vi Gjort](https://open.spotify.com/track/3xzTKNUOxzEBovAKpd5AQO) | [Lamix](https://open.spotify.com/artist/3QQwosodozp54DdCKrlAry), [Timbuktu](https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe) | [Bästa Vi Gjort](https://open.spotify.com/album/4GoKbr5Cdm3Y36fb3P7775) | 2:52 | 2022-04-28 | 2022-08-14 |
 | [Bästa Vi Gjort](https://open.spotify.com/track/5ITfTyOipNdU9hammDtEk8) | [Lamix](https://open.spotify.com/artist/3QQwosodozp54DdCKrlAry), [Timbuktu](https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe) | [Bästa Vi Gjort](https://open.spotify.com/album/5lpnElAi4OHtsdAqDWMHwR) | 2:52 | 2022-09-15 | 2023-02-01 |
+| [bästis](https://open.spotify.com/track/2hJwtg1TWFQE4NlIMJ4pXD) | [IMAN](https://open.spotify.com/artist/4ODUdqz93vJsCMMdJ0R30e) | [bästis](https://open.spotify.com/album/4BSVDte8vvUyJzvAAY4Gnp) | 3:28 | 2023-11-30 |  |
 | [Call Me By Your Name](https://open.spotify.com/track/1fJ3YZVLYkoMYDvrAqDf0M) | [Omar Rudberg](https://open.spotify.com/artist/6uRXUjochRDA9d5Sq2tZZd), [Claudia Neuser](https://open.spotify.com/artist/74p7Pm6wFtrqjANyjFyktq) | [Call Me By Your Name](https://open.spotify.com/album/0An6hUMasLgdJO5n2ZaLVO) | 2:50 | 2023-01-05 | 2023-10-06 |
 | [Can We Talk About Me?](https://open.spotify.com/track/144HD6H46Fkqen2mLoU74O) | [Paula Jivén](https://open.spotify.com/artist/42VDvOzr6eyxscOD2ax83D) | [Can We Talk About Me?](https://open.spotify.com/album/3MG4Q3ipd9raU28ZBxv89f) | 2:44 | 2023-02-01 | 2023-03-31 |
 | [Can't Stay Away](https://open.spotify.com/track/4herjqbsHfOHoIzRPti4JA) | [Darin](https://open.spotify.com/artist/1rKFeRryEci6cxNkdvHzNr) | [Can't Stay Away](https://open.spotify.com/album/3OIvFO4C2CQGRxYUQ9D8yf) | 3:00 | 2021-12-16 | 2022-03-09 |

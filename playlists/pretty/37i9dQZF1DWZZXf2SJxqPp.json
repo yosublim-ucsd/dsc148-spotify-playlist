@@ -1,12 +1,12 @@
 {
   "description": "Musiquita riqui para chillear y echarla junto a la piscina.",
-  "num_followers": 130674,
+  "num_followers": 130700,
   "original_name": "\u00a1A la Alberca!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NGY5NjQ3MTEzYmY5M2E5MmI2MDY2OTk4YjZmNjVkMmViMTUyMTQ2",
+  "snapshot_id": "MCw5ZDNiYmE5ZjI4MjgwZTQ1MzNlNGIwNDZiMmNhZWVlZWRhNWNkZDc4",
   "tracks": [
     {
       "added_at": "2023-08-14 14:58:41",
@@ -403,22 +403,6 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
-        "name": "Outer Peace",
-        "url": "https://open.spotify.com/album/4kacwUKxOLBmawdgRg2Xri"
-      },
-      "artists": [
-        {
-          "name": "Toro y Moi",
-          "url": "https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp"
-        }
-      ],
-      "duration_ms": 183752,
-      "name": "Ordinary Pleasure",
-      "url": "https://open.spotify.com/track/0Dh7LsAuAyaaucEMD5ULHV"
-    },
-    {
-      "added_at": "2023-08-14 14:58:41",
-      "album": {
         "name": "Starry Night",
         "url": "https://open.spotify.com/album/0bYW9weJ7SXRaBFbWuBQeI"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 398598,
       "name": "Starry Night",
       "url": "https://open.spotify.com/track/46KG2wmw38sYm1GoRHIsOW"
+    },
+    {
+      "added_at": "2023-08-14 14:58:41",
+      "album": {
+        "name": "Outer Peace",
+        "url": "https://open.spotify.com/album/4kacwUKxOLBmawdgRg2Xri"
+      },
+      "artists": [
+        {
+          "name": "Toro y Moi",
+          "url": "https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp"
+        }
+      ],
+      "duration_ms": 183752,
+      "name": "Ordinary Pleasure",
+      "url": "https://open.spotify.com/track/0Dh7LsAuAyaaucEMD5ULHV"
     },
     {
       "added_at": "2023-08-14 14:58:41",
@@ -783,22 +783,6 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
-        "name": "LALI",
-        "url": "https://open.spotify.com/album/2nc62Mll62aIDw3wUiAHW3"
-      },
-      "artists": [
-        {
-          "name": "Lali",
-          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
-        }
-      ],
-      "duration_ms": 170869,
-      "name": "Sola",
-      "url": "https://open.spotify.com/track/5VuJ8ujlsdNV8ZOle0TYfK"
-    },
-    {
-      "added_at": "2023-08-14 14:58:41",
-      "album": {
         "name": "Way to Go (Club Soda Mix)",
         "url": "https://open.spotify.com/album/7F8R0maiBdTe0Ey5qkqZet"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 224390,
       "name": "Way to Go - Club Soda Mix",
       "url": "https://open.spotify.com/track/2kXcKyonAMXWjW0iWTnm2P"
+    },
+    {
+      "added_at": "2023-08-14 14:58:41",
+      "album": {
+        "name": "LALI",
+        "url": "https://open.spotify.com/album/2nc62Mll62aIDw3wUiAHW3"
+      },
+      "artists": [
+        {
+          "name": "Lali",
+          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
+        }
+      ],
+      "duration_ms": 170869,
+      "name": "Sola",
+      "url": "https://open.spotify.com/track/5VuJ8ujlsdNV8ZOle0TYfK"
     },
     {
       "added_at": "2023-08-14 14:58:41",
@@ -947,22 +947,6 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
-        "name": "Si Te Portas Bonito",
-        "url": "https://open.spotify.com/album/2O1INg3ragKUjPmQ5jMPQy"
-      },
-      "artists": [
-        {
-          "name": "Sofia Kourtesis",
-          "url": "https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf"
-        }
-      ],
-      "duration_ms": 301850,
-      "name": "Si Te Portas Bonito",
-      "url": "https://open.spotify.com/track/0W4522kMykidUIBpOoI8oP"
-    },
-    {
-      "added_at": "2023-08-14 14:58:41",
-      "album": {
         "name": "Satingarona, Pt. 2",
         "url": "https://open.spotify.com/album/1dZQRZHQUDcXHwZpKwZHF2"
       },
@@ -983,18 +967,18 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
-        "name": "Sister",
-        "url": "https://open.spotify.com/album/4INuwtV1B2dNCUbFkUXtFL"
+        "name": "Si Te Portas Bonito",
+        "url": "https://open.spotify.com/album/2O1INg3ragKUjPmQ5jMPQy"
       },
       "artists": [
         {
-          "name": "TSHA",
-          "url": "https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh"
+          "name": "Sofia Kourtesis",
+          "url": "https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf"
         }
       ],
-      "duration_ms": 268829,
-      "name": "Sister",
-      "url": "https://open.spotify.com/track/2StEq5J2bCq5JiwCKbansz"
+      "duration_ms": 301850,
+      "name": "Si Te Portas Bonito",
+      "url": "https://open.spotify.com/track/0W4522kMykidUIBpOoI8oP"
     },
     {
       "added_at": "2023-08-14 14:58:41",
@@ -1011,6 +995,22 @@
       "duration_ms": 205948,
       "name": "Restless",
       "url": "https://open.spotify.com/track/4IFRlX2QFsEYC3mxrZECUd"
+    },
+    {
+      "added_at": "2023-08-14 14:58:41",
+      "album": {
+        "name": "Sister",
+        "url": "https://open.spotify.com/album/4INuwtV1B2dNCUbFkUXtFL"
+      },
+      "artists": [
+        {
+          "name": "TSHA",
+          "url": "https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh"
+        }
+      ],
+      "duration_ms": 268829,
+      "name": "Sister",
+      "url": "https://open.spotify.com/track/2StEq5J2bCq5JiwCKbansz"
     },
     {
       "added_at": "2023-08-14 14:58:41",
@@ -1051,6 +1051,26 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
+        "name": "Topical Dancer",
+        "url": "https://open.spotify.com/album/4ivk3u8J7qg7YoWUZlnGNz"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Adig\u00e9ry",
+          "url": "https://open.spotify.com/artist/0h1gX589xBKUCijeC8Bewy"
+        },
+        {
+          "name": "Bolis Pupul",
+          "url": "https://open.spotify.com/artist/0dSnTqwXok006MwsjjlzUl"
+        }
+      ],
+      "duration_ms": 226253,
+      "name": "Ceci n'est pas un clich\u00e9",
+      "url": "https://open.spotify.com/track/1usZqtTrEPNm8gvn1vN4T8"
+    },
+    {
+      "added_at": "2023-08-14 14:58:41",
+      "album": {
         "name": "Santa Mar\u00eda",
         "url": "https://open.spotify.com/album/0QM0NUGL0bnMOEJwh3EJvm"
       },
@@ -1071,26 +1091,6 @@
       "duration_ms": 260584,
       "name": "Santa Mar\u00eda",
       "url": "https://open.spotify.com/track/2QH0Glmg5qHmt1S1Dj0NLS"
-    },
-    {
-      "added_at": "2023-08-14 14:58:41",
-      "album": {
-        "name": "Topical Dancer",
-        "url": "https://open.spotify.com/album/4ivk3u8J7qg7YoWUZlnGNz"
-      },
-      "artists": [
-        {
-          "name": "Charlotte Adig\u00e9ry",
-          "url": "https://open.spotify.com/artist/0h1gX589xBKUCijeC8Bewy"
-        },
-        {
-          "name": "Bolis Pupul",
-          "url": "https://open.spotify.com/artist/0dSnTqwXok006MwsjjlzUl"
-        }
-      ],
-      "duration_ms": 226253,
-      "name": "Ceci n'est pas un clich\u00e9",
-      "url": "https://open.spotify.com/track/1usZqtTrEPNm8gvn1vN4T8"
     },
     {
       "added_at": "2023-08-14 14:58:41",
@@ -1539,6 +1539,22 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
+        "name": "Hustler's Lullaby",
+        "url": "https://open.spotify.com/album/742wdMvR7gEPIPL8ubSl8z"
+      },
+      "artists": [
+        {
+          "name": "Rick Wade",
+          "url": "https://open.spotify.com/artist/1HaiySQ7RMsuvfCEVML84p"
+        }
+      ],
+      "duration_ms": 314181,
+      "name": "Shinjuku Strut",
+      "url": "https://open.spotify.com/track/40eiz1003cXrXFRnMtBvIU"
+    },
+    {
+      "added_at": "2023-08-14 14:58:41",
+      "album": {
         "name": "Voodoo? (Lazywax Remix)",
         "url": "https://open.spotify.com/album/4Lbd1wUo222I65CLuxYEj9"
       },
@@ -1555,22 +1571,6 @@
       "duration_ms": 386443,
       "name": "Voodoo? - Lazywax Remix",
       "url": "https://open.spotify.com/track/2wHeYDrniYngp3did3McYD"
-    },
-    {
-      "added_at": "2023-08-14 14:58:41",
-      "album": {
-        "name": "Hustler's Lullaby",
-        "url": "https://open.spotify.com/album/742wdMvR7gEPIPL8ubSl8z"
-      },
-      "artists": [
-        {
-          "name": "Rick Wade",
-          "url": "https://open.spotify.com/artist/1HaiySQ7RMsuvfCEVML84p"
-        }
-      ],
-      "duration_ms": 314181,
-      "name": "Shinjuku Strut",
-      "url": "https://open.spotify.com/track/40eiz1003cXrXFRnMtBvIU"
     },
     {
       "added_at": "2023-08-14 14:58:41",
@@ -1659,22 +1659,6 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
-        "name": "Isla Mater",
-        "url": "https://open.spotify.com/album/5S48a0ZYFosSdYkZIoLV1D"
-      },
-      "artists": [
-        {
-          "name": "Connie Isla",
-          "url": "https://open.spotify.com/artist/3rRWzsERkCNBl27Nih029a"
-        }
-      ],
-      "duration_ms": 191428,
-      "name": "Fugaz",
-      "url": "https://open.spotify.com/track/2xzdpc3aZm9mKmJpumCsRY"
-    },
-    {
-      "added_at": "2023-08-14 14:58:41",
-      "album": {
         "name": "Horizons",
         "url": "https://open.spotify.com/album/0cvFQyuT54tOUaVJVSTB5y"
       },
@@ -1691,6 +1675,22 @@
       "duration_ms": 261224,
       "name": "How Long",
       "url": "https://open.spotify.com/track/1uOtAQ7g9zVKf8vh0dcO4d"
+    },
+    {
+      "added_at": "2023-08-14 14:58:41",
+      "album": {
+        "name": "Isla Mater",
+        "url": "https://open.spotify.com/album/5S48a0ZYFosSdYkZIoLV1D"
+      },
+      "artists": [
+        {
+          "name": "Connie Isla",
+          "url": "https://open.spotify.com/artist/3rRWzsERkCNBl27Nih029a"
+        }
+      ],
+      "duration_ms": 191428,
+      "name": "Fugaz",
+      "url": "https://open.spotify.com/track/2xzdpc3aZm9mKmJpumCsRY"
     },
     {
       "added_at": "2023-08-14 14:58:41",

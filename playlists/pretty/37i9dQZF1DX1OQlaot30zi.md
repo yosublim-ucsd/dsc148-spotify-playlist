@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di Tedua, Nerissima Serpe, Massimo Pericolo, Ghali, Boro e tanti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,666 likes - 84 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,696 likes - 84 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,4 +93,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 83 | [DEAD BROKE](https://open.spotify.com/track/6uyyELd94hx5aSATZMgwke) | [Young Kofla](https://open.spotify.com/artist/6NcPuIV1hhaupm3wGsSx1R), [Fluss Uchiha](https://open.spotify.com/artist/1iqQyjmk9FN45sd8V8CPJo) | [DEAD BROKE](https://open.spotify.com/album/5T7z5jkvGvQdzbq8fWbLyB) | 2:46 |
 | 84 | [+Freddo](https://open.spotify.com/track/1WRAGwxtrW7oqRM6n8xIS2) | [Ombrv](https://open.spotify.com/artist/3k0UmxDhNM3pdvDlQjhg82) | [+Freddo](https://open.spotify.com/album/0zW7laPPT6VM49UZEFkAPK) | 2:16 |
 
-Snapshot ID: `MCxjNDc1ZGNjMDBlMzM4ODMyY2YzMzQ3M2EwNDJjYmJlNzk1ZTc1MDVh`
+Snapshot ID: `MCxjZjBmNjBjOWVkYjMxN2NjN2Y0ODYyYzg3MmFiNDI1YThhZWY4OTAw`

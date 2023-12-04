@@ -4,7 +4,7 @@
 
 > A weekly selection of tracks that I love to listen to at home or play out at a party.
 
-1,174 songs - 3 day 2 hr 33 min
+1,177 songs - 3 day 2 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -168,6 +168,7 @@
 | [By Myself](https://open.spotify.com/track/7wPLlenIz7xLZwYDgS2nG7) | [Vluarr](https://open.spotify.com/artist/0ClkclGbzsEY0aBtqq8MrB) | [By Myself](https://open.spotify.com/album/7wbpSjbRgHsjtT7Gb8VRa7) | 2:35 | 2023-11-10 | 2023-11-27 |
 | [Calico](https://open.spotify.com/track/2lJM9fK3zYQRXVXOTauwhZ) | [1tbsp](https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4) | [kanashī](https://open.spotify.com/album/3y6f7n2bRBCXJLCrg3D4jp) | 4:51 | 2022-11-18 | 2022-12-03 |
 | [Call Me](https://open.spotify.com/track/4wJwh34rm2dDZbYh8Kxzh4) | [Duke & Jones](https://open.spotify.com/artist/3jNm5wvIx1eR5NDdXhMkNV), [Marlhy](https://open.spotify.com/artist/1fvH6NeNDohKGKwvRiebRA) | [Call Me](https://open.spotify.com/album/6g9D1wN5E3s8fPvvRLCanx) | 2:53 | 2023-06-24 | 2023-07-08 |
+| [Call Me \- Chill Mix](https://open.spotify.com/track/44yeyFTKxJR5Rd9ppeKVkp) | [Duke & Jones](https://open.spotify.com/artist/3jNm5wvIx1eR5NDdXhMkNV), [Marlhy](https://open.spotify.com/artist/1fvH6NeNDohKGKwvRiebRA) | [Call Me \(Chill Mix\)](https://open.spotify.com/album/3JJdAMFcu8g5daNyNOFShJ) | 2:46 | 2023-12-03 |  |
 | [Call Me Anytime](https://open.spotify.com/track/3bNKYsbCGQFjOJseVJelw4) | [Jay Hardway](https://open.spotify.com/artist/12SPNXi0aDpFt0rMVbmLrr) | [Call Me Anytime](https://open.spotify.com/album/7BkjWEZ8iCxpfKd8B2JyHh) | 2:47 | 2023-01-13 | 2023-01-22 |
 | [Call Your Name](https://open.spotify.com/track/7FyqTJJ8bdFVpNMoMNQbXA) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [John Newman](https://open.spotify.com/artist/34v5MVKeQnIo0CWYMbbrPf) | [Call Your Name](https://open.spotify.com/album/3uq11p3soNrPDKFOUFwebO) | 2:50 | 2023-07-28 | 2023-08-13 |
 | [CALLING](https://open.spotify.com/track/2F3u0vjB6EU3nHUA83Pc9i) | [YOURS](https://open.spotify.com/artist/1Jlo1wSVOtMmEMpTbhEdI7) | [CALLING](https://open.spotify.com/album/1BzDZRZ5BwniITtzkyKBtr) | 3:30 | 2023-03-31 | 2023-04-15 |
@@ -760,6 +761,7 @@
 | [Off Wiv Ya Headz](https://open.spotify.com/track/29LpCEcWnk9lFfzR2o3YVW) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Off Wiv Ya Headz](https://open.spotify.com/album/5TZjI8gx4AhL4yIdW6o8DQ) | 3:26 | 2023-06-24 | 2023-07-01 |
 | [Oh My \(feat\. Moby\)](https://open.spotify.com/track/7bkh1qYJaSKEux7TbiGkDQ) | [Luude](https://open.spotify.com/artist/20cmhoGvN0eyzhmsHJH1Mg), [Issey Cross](https://open.spotify.com/artist/5QrV5Vr4KdsyKtifvD6X1U), [Moby](https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF) | [Oh My \(feat\. Moby\)](https://open.spotify.com/album/0oDVhVLCJtWlNH5d6Worxh) | 2:40 | 2023-01-13 | 2023-01-22 |
 | [Oi \- Sofia Kourtesis Remix](https://open.spotify.com/track/6KebNoEtQ4ZYiea7S4m00h) | [Catching Flies](https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ), [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [Oi \(Sofia Kourtesis Remix\)](https://open.spotify.com/album/46tOcV48XPP42wkr7pwYsy) | 3:01 | 2022-12-03 | 2023-01-07 |
+| [OMG](https://open.spotify.com/track/51IlUFX7fJtmUk7Ab2ZnRf) | [Andrew Mathers](https://open.spotify.com/artist/5rjFsTXq2iEMk09Pxtz2U0) | [OMG](https://open.spotify.com/album/35zrj3ysyMnwNZhrbQllpc) | 2:53 | 2023-12-03 |  |
 | [On & On](https://open.spotify.com/track/5myWu4dkSiBhShuzs1dp7T) | [Ferreck Dawn](https://open.spotify.com/artist/3cnAJv9gydgm52KFIsdvO8), [Mila Falls](https://open.spotify.com/artist/5m1yocXnIqkhC8dyQQd6Ve) | [Tomorrowland Music \- The Adscendo Singles](https://open.spotify.com/album/0FoVJ8uprfzbzlIEVVIaft) | 2:35 | 2023-09-08 | 2023-09-23 |
 | [On A Roll](https://open.spotify.com/track/3I3mFTXSkm1epZjxMux2R9) | [Sander van Doorn](https://open.spotify.com/artist/22bukBZvUppuwQwmDz75Gz) | [On A Roll](https://open.spotify.com/album/1KCHakwZNrc0nRf4wMqJrc) | 3:04 | 2023-07-07 | 2023-07-16 |
 | [On A Trip \(with Marten Hørger\)](https://open.spotify.com/track/2bwqslkQUqcfme3JEMKY6A) | [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf), [Marten Hørger](https://open.spotify.com/artist/0EdUwJSqkMmsH6Agg3G8Ls) | [On A Trip \(with Marten Hørger\)](https://open.spotify.com/album/1id19CmK2WRwdm5LQ25jao) | 3:26 | 2023-11-10 | 2023-11-18 |
@@ -834,6 +836,7 @@
 | [Pulse](https://open.spotify.com/track/2wLwHrBJeJMRD4R4s6TCZU) | [Badflite](https://open.spotify.com/artist/3AEEmo3VYEBbQBUUEY2fUS) | [Pulse](https://open.spotify.com/album/42cgrGlqco9XP7gyhoxFM5) | 3:08 | 2023-10-20 | 2023-11-11 |
 | [Push The Love \- Seb Zito Remix](https://open.spotify.com/track/0JpjBUzhrLH9Md5DSP4jSS) | [Todd Edwards](https://open.spotify.com/artist/6MFopqejpmTUUZlcRmGzgg), [Seb Zito](https://open.spotify.com/artist/2IwfvuKftX9D7CFF4qCTM8) | [Push The Love \(Seb Zito Remix\)](https://open.spotify.com/album/0p31PmsmGMYkOvc7Zro3DQ) | 3:38 | 2023-09-29 | 2023-10-16 |
 | [Putaria](https://open.spotify.com/track/5VDX0PYPSaNJn0z6pW11jB) | [Malaa](https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS), [Lodgerz](https://open.spotify.com/artist/1v6MeV1kAPbXmFeF60LtZE), [Illegal Music](https://open.spotify.com/artist/1GtUSudmcirmaUqcgBzu3u) | [Putaria](https://open.spotify.com/album/7GqQTyGs2Jk6MSQtGFxW6F) | 2:40 | 2023-06-24 | 2023-07-01 |
+| [PWR](https://open.spotify.com/track/2tkvREjLtU4AZjdokXdCEq) | [Eleganto](https://open.spotify.com/artist/0MMdZHo4Jeldyg5awD2w5V) | [PWR](https://open.spotify.com/album/5WWaDKWi0Z48Q8PUE4gBpe) | 3:25 | 2023-12-03 |  |
 | [Quantum Love](https://open.spotify.com/track/5dJXIANf7rjEXtfBxKSArq) | [Integral Bread](https://open.spotify.com/artist/2qBtD1XQ3tY8PNUOSrQJwB) | [Anjunadeep Explorations 21: Curated by Tony McGuinness](https://open.spotify.com/album/6bM7XsnzOm7ZipRDiuEzMr) | 3:53 | 2022-11-04 | 2022-11-13 |
 | [Quick Highs](https://open.spotify.com/track/46Gsf4884pmAWdul0n5Px0) | [Curbi](https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT), [Helen](https://open.spotify.com/artist/2z2l9z2yioLWSoCECNIyEl) | [Quick Highs](https://open.spotify.com/album/7JyrchSeYCqkjbzrajEXOf) | 3:14 | 2023-06-24 | 2023-07-01 |
 | [Quicksand](https://open.spotify.com/track/62rryUWfIksNhJ4CQkEehN) | [Me & George](https://open.spotify.com/artist/4VYA3yEmxcU2ElaVRPHGFv) | [George](https://open.spotify.com/album/25bwSrjGoIdinBG254QlB6) | 3:44 | 2023-10-15 | 2023-10-29 |

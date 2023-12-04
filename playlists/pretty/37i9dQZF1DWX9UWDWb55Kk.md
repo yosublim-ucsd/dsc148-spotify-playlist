@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9UWDWb55Kk.md) - [plain]
 
 > La música de la séptima temporada de ÉLI7E vive aquí ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 256,240 likes - 408 songs - 1 day 1 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 256,253 likes - 408 songs - 1 day 1 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -265,7 +265,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9UWDWb55Kk.md) - [plain]
 | 255 | [Inmortal](https://open.spotify.com/track/71ZPU4m7TYxlPoqjqIld8T) | [Choley](https://open.spotify.com/artist/498vJ548Oigp5VEGisWq1q) | [Inmortal](https://open.spotify.com/album/6I3OAl6Sp1f6gz5rVSOXBn) | 3:56 |
 | 256 | [I Want To Die By Your Side](https://open.spotify.com/track/5lSefILPPXL9WbOqXKQuNN) | [The Magic Theatre](https://open.spotify.com/artist/4dsqiX7DwmvBXNh1DrYKtZ) | [I Want To Die By Your Side](https://open.spotify.com/album/6880NTfHXJUImJjcB0519U) | 4:15 |
 | 257 | [Dido and Aeneas, Z\. 626: Act III: 1st Sailor and Chorus: Come away, fellow sailors](https://open.spotify.com/track/0v81snM3IW91SE8IOQnBYv) | [Henry Purcell](https://open.spotify.com/artist/3tMLo1k3iUo82coMLWXzxq), [Kym Amps](https://open.spotify.com/artist/56oDszbm45yCU64AkDCjST), [David van Asch](https://open.spotify.com/artist/1pkHduzgfdb8ahbhAFZQl3), [Anna Crookes](https://open.spotify.com/artist/3rHaFUOEX0zmjTCpz2ldCj), [The Scholars Baroque Ensemble](https://open.spotify.com/artist/79zqMJ0Tc0wATqK0eszdsJ) | [Purcell: Dido and Aeneas](https://open.spotify.com/album/7jVOb1LO22X5POgSSWZ69K) | 1:32 |
-| 258 | [Boom Shaka](https://open.spotify.com/track/3gxUBykZcSjxCqIqo63lqy) | [Muzi](https://open.spotify.com/artist/4fd3n8zcAmsG2up1QWDNj5) | [Boom Shaka](https://open.spotify.com/album/3TOmp0iecoQZL4CcwjsaP0) | 3:07 |
+| 258 | [Boom Shaka](https://open.spotify.com/track/1rl96BW1uiXGvVjWq0IKFx) | [Muzi](https://open.spotify.com/artist/4fd3n8zcAmsG2up1QWDNj5) | [Boom Shaka](https://open.spotify.com/album/7fPJslpGw7VqKoescAheTZ) | 3:07 |
 | 259 | [Telomeres](https://open.spotify.com/track/1skNf4EJwQTEgd9xRlPWwj) | [Holstenwall](https://open.spotify.com/artist/52MPtKTAqtaXkaLzbdZJBI) | [Le Podium \#3](https://open.spotify.com/album/5Tn9zIBomTXF1bpd1ZFMxv) | 3:21 |
 | 260 | [That Way Again](https://open.spotify.com/track/0TIQ60yLeT4khQVvzH673I) | [Mazzy Star](https://open.spotify.com/artist/37w38cCSGgKLdayTRjna4W) | [Still EP](https://open.spotify.com/album/4bpU9t9wzqJcIg40bmMf3K) | 4:13 |
 | 261 | [Sleep On Needles](https://open.spotify.com/track/654FiEpwJcc3tPNkmCYmrC) | [Sondre Lerche](https://open.spotify.com/artist/0Q6X1jqwOVQuclYp2P1bub) | [Faces Down](https://open.spotify.com/album/6r1xt8j4dx60jqjlUs9fSE) | 4:45 |
@@ -417,4 +417,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9UWDWb55Kk.md) - [plain]
 | 407 | [1987 \- Original mix](https://open.spotify.com/track/2w74y6Iy98dFo2buhXu4fU) | [Ticon](https://open.spotify.com/artist/1UjhKEWO8s7Vvidh2LzwZ1) | [Iboga Revival Vol.01](https://open.spotify.com/album/24Sc7Xy1Gpauxjp8f3rfV1) | 8:27 |
 | 408 | [You Are the One](https://open.spotify.com/track/4ZWmHquNez0tTqRKCAu7TQ) | [Adanowsky](https://open.spotify.com/artist/3yS2Ua2b0erJP5dx3xs063) | [Amador](https://open.spotify.com/album/27scONugjs898tPlDCKo3p) | 3:36 |
 
-Snapshot ID: `MCxjODhiYTc1N2IzYWQ0MGJkMWIyN2ZkNDc5NmIwYmFhZDFiMDEyZjRm`
+Snapshot ID: `MCwxODk4ZGJkNmJhNWI2NzIxNWUzOThlYTUwMjgxNzFiMGVmMzY3NWJi`

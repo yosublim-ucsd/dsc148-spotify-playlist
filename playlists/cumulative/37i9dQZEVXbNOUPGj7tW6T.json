@@ -1483,6 +1483,24 @@
     },
     {
       "album": {
+        "name": "Bonito",
+        "url": "https://open.spotify.com/album/3EUZMxNoVk4jyQlIiG27UO"
+      },
+      "artists": [
+        {
+          "name": "El Duglas",
+          "url": "https://open.spotify.com/artist/0TihXBYo70wnbfcmJ47bF9"
+        }
+      ],
+      "date_added": "2023-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185927,
+      "name": "Bonito",
+      "url": "https://open.spotify.com/track/09eahr9he14Pam6BP84DJ0"
+    },
+    {
+      "album": {
         "name": "Botella Tras Botella",
         "url": "https://open.spotify.com/album/3Jv8XjzlQel3avRbOzysXB"
       },
@@ -3670,7 +3688,7 @@
       ],
       "date_added": "2023-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-04",
       "duration_ms": 216327,
       "name": "FINA",
       "url": "https://open.spotify.com/track/3nNmRE0DxHC6ZaKkrpUumS"

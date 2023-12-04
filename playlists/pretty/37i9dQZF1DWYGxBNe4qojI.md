@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYGxBNe4qojI.md) - [plain]
 
 > Where it all started\. Cover: Wu\-Tang
 
-[Spotify](https://open.spotify.com/user/spotify) - 362,704 likes - 50 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 362,887 likes - 50 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYGxBNe4qojI.md) - [plain]
 | 28 | [Party And Bullshit](https://open.spotify.com/track/5mqPg2dyqb1gBNyg9ycGcT) | [The Notorious B.I.G.](https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb) | [Whos The Man ? Soundtrack](https://open.spotify.com/album/2lka9gSjkghBBSjktHnN6o) | 3:39 |
 | 29 | [Always On Time](https://open.spotify.com/track/2lXJr5BkUPZpQUV2ZGN1Wv) | [Ja Rule](https://open.spotify.com/artist/1J2VVASYAamtQ3Bt8wGgA6), [Ashanti](https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83) | [Pain Is Love](https://open.spotify.com/album/6x7ohjhYzzmCglAT4TD9T9) | 4:05 |
 | 30 | [Find a Way](https://open.spotify.com/track/2MAaiV0bbeq4FpSwPe2rR8) | [A Tribe Called Quest](https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa) | [The Love Movement](https://open.spotify.com/album/0FH3WsTCWaDmfpEojJ4sN2) | 3:23 |
-| 31 | [Represent](https://open.spotify.com/track/6DPrhGVJ1WTZvM9fKptnGe) | [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q) | [Illmatic](https://open.spotify.com/album/3kEtdS2pH6hKcMU9Wioob1) | 4:12 |
-| 32 | [Put It On](https://open.spotify.com/track/6JI5wNWYdBw68GZjOMmgK5) | [Big L](https://open.spotify.com/artist/30fiiwr2EeZp1tAhzYCmyM) | [Lifestylez Ov Da Poor & Dangerous](https://open.spotify.com/album/7xvBUHu5jJ7X0wdRHudLFD) | 3:37 |
+| 31 | [Put It On](https://open.spotify.com/track/6JI5wNWYdBw68GZjOMmgK5) | [Big L](https://open.spotify.com/artist/30fiiwr2EeZp1tAhzYCmyM) | [Lifestylez Ov Da Poor & Dangerous](https://open.spotify.com/album/7xvBUHu5jJ7X0wdRHudLFD) | 3:37 |
+| 32 | [Represent](https://open.spotify.com/track/6DPrhGVJ1WTZvM9fKptnGe) | [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q) | [Illmatic](https://open.spotify.com/album/3kEtdS2pH6hKcMU9Wioob1) | 4:12 |
 | 33 | [Shadowboxin'](https://open.spotify.com/track/7bp5DfkdK1OAvNJ1U4HfDA) | [GZA](https://open.spotify.com/artist/6ns6XAOsw4B0nDUIovAOUO), [Method Man](https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt) | [Liquid Swords](https://open.spotify.com/album/3k8xoyOXkGgZxUKgpmxz4P) | 3:29 |
 | 34 | [Sound of da Police](https://open.spotify.com/track/3Y6XWs8xMlCngyIxNOFnsp) | [KRS\-One](https://open.spotify.com/artist/2gINJ8xw86xawPyGvx1bla) | [Return of the Boom Bap](https://open.spotify.com/album/64ub4SfdC8wvPjdUXw8QY9) | 4:18 |
 | 35 | [Get Money](https://open.spotify.com/track/53oWwSxPuyH2cjYKXH8fgO) | [Junior M.A.F.I.A.](https://open.spotify.com/artist/3r0OeTcOw37N9juMYyyw39) | [Conspiracy \(PA\)](https://open.spotify.com/album/02GVhWjMuoQBQUtNhjWsnG) | 4:34 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYGxBNe4qojI.md) - [plain]
 | 49 | [Flava in Ya Ear Remix \(feat\. The Notorious B.I.G., LL Cool J, Busta Rhymes, Rampage\)](https://open.spotify.com/track/4JYUDRtPZuVNi7FAnbHyux) | [Craig Mack](https://open.spotify.com/artist/4akj4uteQQrrGxhX9Rjuyf), [Busta Rhymes](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK), [LL COOL J](https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC), [Rampage](https://open.spotify.com/artist/6edzoyx2aOvZpdFeCCWU1t), [The Notorious B.I.G.](https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb) | [Flava In Ya Ear Remix](https://open.spotify.com/album/7mYcq3B0faiA5IvhDCdypL) | 5:02 |
 | 50 | [Oh My God \(feat\. Busta Rhymes\)](https://open.spotify.com/track/6FI3RJ58Ztl0X1VtA6pVs9) | [A Tribe Called Quest](https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa), [Busta Rhymes](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK) | [Midnight Marauders](https://open.spotify.com/album/4v5x3Oo3UjQ9YmF3hRAip5) | 3:28 |
 
-Snapshot ID: `MCw1ZGNiYjk3ODc5MjdmMjhlYmNlZmU4ZjQ5MDRjYTBiZDAwMzlhYzg0`
+Snapshot ID: `MCwzODczNGE2NmVjN2YxMjQwNjIwZTU2YzJjM2NiNmYyYzcxMDQ2OTQw`

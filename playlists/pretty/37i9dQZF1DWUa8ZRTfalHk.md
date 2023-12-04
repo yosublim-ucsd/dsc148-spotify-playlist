@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUa8ZRTfalHk.md) - [plain]
 
 > Who's now and next in pop\. Cover: Dove Cameron
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,153,577 likes - 86 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,154,077 likes - 86 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,4 +95,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUa8ZRTfalHk.md) - [plain]
 | 85 | [You & Me](https://open.spotify.com/track/6gcuJpHu0Ey30D5WR76y98) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [JENNIE Special Single \[You & Me\]](https://open.spotify.com/album/1Vzh3fTdh0R0evafCcpNpL) | 2:59 |
 | 86 | [Vertigo](https://open.spotify.com/track/7KQejvX8GC4qMjB8vWSp2p) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [Vertigo](https://open.spotify.com/album/6zhMdnveqL0wIAZPPaPKPc) | 2:59 |
 
-Snapshot ID: `MCw4NGZhNjFhMzE3MzY0MjMzYmEwYTQ2MjBiYjIwZTkzMzgzMjBkOGM4`
+Snapshot ID: `MCwzZGI0YzgzNTYxM2EyYTQxYjUxMzVkOWIxOTMzMjlhNGVkZTBlOGFh`

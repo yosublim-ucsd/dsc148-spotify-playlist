@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4YTUxYjViNGMxMDE0MzBkMjM2NTUyNDdmZWE1MGQ3MmEwYjAwNzgw",
+  "snapshot_id": "MCwzZmI1MzY4MmZkNGZlMDJhMDNhZDFkZTE0MGM2NTE4M2E2ZGU1ZjI3",
   "tracks": [
     {
       "added_at": "2021-09-10 04:35:25",
@@ -427,18 +427,18 @@
     {
       "added_at": "2021-09-10 04:35:25",
       "album": {
-        "name": "I Can Hear the Birds",
-        "url": "https://open.spotify.com/album/5e2c7ge98FEC2RaAAq0wV1"
+        "name": "Who Are You",
+        "url": "https://open.spotify.com/album/3IlpmrOKZkuPNopf0WCk1F"
       },
       "artists": [
         {
-          "name": "Totally Enormous Extinct Dinosaurs",
-          "url": "https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN"
+          "name": "E Ruscha V",
+          "url": "https://open.spotify.com/artist/0NOdYxMmwVSeIshVxo6eVE"
         }
       ],
-      "duration_ms": 288866,
-      "name": "Brockley",
-      "url": "https://open.spotify.com/track/5gz0QlcMMxQXZgXC1uvi5k"
+      "duration_ms": 124265,
+      "name": "The Hostess",
+      "url": "https://open.spotify.com/track/0ZibOOMZvxb78LLTzkogKL"
     },
     {
       "added_at": "2021-09-10 04:35:25",
@@ -457,6 +457,22 @@
       "url": "https://open.spotify.com/track/75qP1ztAEjjJwvU967su8u"
     },
     {
+      "added_at": "2021-09-10 04:35:25",
+      "album": {
+        "name": "I Can Hear the Birds",
+        "url": "https://open.spotify.com/album/5e2c7ge98FEC2RaAAq0wV1"
+      },
+      "artists": [
+        {
+          "name": "Totally Enormous Extinct Dinosaurs",
+          "url": "https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN"
+        }
+      ],
+      "duration_ms": 288866,
+      "name": "Brockley",
+      "url": "https://open.spotify.com/track/5gz0QlcMMxQXZgXC1uvi5k"
+    },
+    {
       "added_at": "2021-11-12 05:17:41",
       "album": {
         "name": "Collected Pieces: 2015-2020",
@@ -471,22 +487,6 @@
       "duration_ms": 298061,
       "name": "Mary, You Were Wrong",
       "url": "https://open.spotify.com/track/5u2Ff7OgkD1yp2oOyMxiHp"
-    },
-    {
-      "added_at": "2021-09-10 04:35:25",
-      "album": {
-        "name": "Who Are You",
-        "url": "https://open.spotify.com/album/3IlpmrOKZkuPNopf0WCk1F"
-      },
-      "artists": [
-        {
-          "name": "E Ruscha V",
-          "url": "https://open.spotify.com/artist/0NOdYxMmwVSeIshVxo6eVE"
-        }
-      ],
-      "duration_ms": 124265,
-      "name": "The Hostess",
-      "url": "https://open.spotify.com/track/0ZibOOMZvxb78LLTzkogKL"
     },
     {
       "added_at": "2021-09-10 04:35:25",
@@ -543,22 +543,6 @@
     {
       "added_at": "2021-09-10 04:35:25",
       "album": {
-        "name": "Dropsonde",
-        "url": "https://open.spotify.com/album/20oIWphcRX2FDfRHa2e580"
-      },
-      "artists": [
-        {
-          "name": "Biosphere",
-          "url": "https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr"
-        }
-      ],
-      "duration_ms": 268051,
-      "name": "Dissolving Clouds",
-      "url": "https://open.spotify.com/track/2IB1P4oT2EHRFJA5O7eRnC"
-    },
-    {
-      "added_at": "2021-09-10 04:35:25",
-      "album": {
         "name": "Komachi",
         "url": "https://open.spotify.com/album/4IkrCCorQFfEfwoiCt441A"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 236040,
       "name": "Nami",
       "url": "https://open.spotify.com/track/45m8T6QIgYoCZnUNxYeyml"
+    },
+    {
+      "added_at": "2021-09-10 04:35:25",
+      "album": {
+        "name": "Dropsonde",
+        "url": "https://open.spotify.com/album/20oIWphcRX2FDfRHa2e580"
+      },
+      "artists": [
+        {
+          "name": "Biosphere",
+          "url": "https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr"
+        }
+      ],
+      "duration_ms": 268051,
+      "name": "Dissolving Clouds",
+      "url": "https://open.spotify.com/track/2IB1P4oT2EHRFJA5O7eRnC"
     },
     {
       "added_at": "2021-09-10 04:35:25",
@@ -663,22 +663,6 @@
     {
       "added_at": "2021-09-10 04:35:25",
       "album": {
-        "name": "Geogaddi",
-        "url": "https://open.spotify.com/album/4T7JGfRryhw5POaXalkApE"
-      },
-      "artists": [
-        {
-          "name": "Boards of Canada",
-          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
-        }
-      ],
-      "duration_ms": 235493,
-      "name": "Dawn Chorus",
-      "url": "https://open.spotify.com/track/1AzyK709SaGmKOT32r0jSj"
-    },
-    {
-      "added_at": "2021-09-10 04:35:25",
-      "album": {
         "name": "Clouds",
         "url": "https://open.spotify.com/album/4FC9qI04vobItNEKVeRh8Q"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 448352,
       "name": "Impossible Island",
       "url": "https://open.spotify.com/track/312f1c2NbtQKam65h7Mq39"
+    },
+    {
+      "added_at": "2021-09-10 04:35:25",
+      "album": {
+        "name": "Geogaddi",
+        "url": "https://open.spotify.com/album/4T7JGfRryhw5POaXalkApE"
+      },
+      "artists": [
+        {
+          "name": "Boards of Canada",
+          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
+        }
+      ],
+      "duration_ms": 235493,
+      "name": "Dawn Chorus",
+      "url": "https://open.spotify.com/track/1AzyK709SaGmKOT32r0jSj"
     },
     {
       "added_at": "2021-09-10 04:35:25",

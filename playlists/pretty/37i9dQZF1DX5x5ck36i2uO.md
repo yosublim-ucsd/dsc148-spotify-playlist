@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5x5ck36i2uO.md) - [plain]
 
 > 부드럽고 고급스러운 재즈향이 가미된 힙합음악을 즐겨보세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,692 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,719 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5x5ck36i2uO.md) - [plain]
 | 21 | [010](https://open.spotify.com/track/4iRlKTcGQJd6hDCnAS76QT) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal), [GIRIBOY](https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq) | [Show Me the Money 8 Final](https://open.spotify.com/album/0No2BeroBuNsk2WOFzuQrk) | 3:02 |
 | 22 | [ice coffee](https://open.spotify.com/track/0NXN8CNyQOQvZuSuFP75IB) | [nafla](https://open.spotify.com/artist/3Zn6C68VCosoQrxu4D2Btr) | [u n u, Pt\. 1](https://open.spotify.com/album/7mOkHhVubCkf42pkrazJxq) | 2:53 |
 | 23 | [Stay Cool](https://open.spotify.com/track/2PTI0f4zBER1Rp87QnfrdS) | [Simon Dominic](https://open.spotify.com/artist/57W9ikVc6O2wLDtmclSjvN), [Zion.T](https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby) | [Simon Dominic Presents \`SNL LEAGUE BEGINS\`](https://open.spotify.com/album/6MorHjwkN577QPEPBNVUp5) | 4:34 |
-| 24 | [Chingchingching \(Feat\. DeVita\)](https://open.spotify.com/track/6jKbZh8WfA2dgkdZ6lPaI8) | [Don Malik](https://open.spotify.com/artist/1DKIdDHKHi3rIwG4UB5zLE), [DeVita](https://open.spotify.com/artist/5PS3ZZE5bBiZ3Ct9HiRG2B) | [PAID IN SEOUL](https://open.spotify.com/album/3gaEvY1i5mFMW7fFMxMn1F) | 3:02 |
-| 25 | [In The Morning \(Feat\. Bryn\)](https://open.spotify.com/track/3LqM4Ly49qhBej4C6AoiYo) | [YANGHONGWON](https://open.spotify.com/artist/1SsVqqC31h54Hg08g7uQhM), [Bryn](https://open.spotify.com/artist/74r4YBm6qWOBKKF6MhVXVq) | [In The Morning](https://open.spotify.com/album/6EiWZ23G5KGSwPYO5kMztu) | 3:15 |
+| 24 | [In The Morning \(Feat\. Bryn\)](https://open.spotify.com/track/3LqM4Ly49qhBej4C6AoiYo) | [YANGHONGWON](https://open.spotify.com/artist/1SsVqqC31h54Hg08g7uQhM), [Bryn](https://open.spotify.com/artist/74r4YBm6qWOBKKF6MhVXVq) | [In The Morning](https://open.spotify.com/album/6EiWZ23G5KGSwPYO5kMztu) | 3:15 |
+| 25 | [Chingchingching \(Feat\. DeVita\)](https://open.spotify.com/track/6jKbZh8WfA2dgkdZ6lPaI8) | [Don Malik](https://open.spotify.com/artist/1DKIdDHKHi3rIwG4UB5zLE), [DeVita](https://open.spotify.com/artist/5PS3ZZE5bBiZ3Ct9HiRG2B) | [PAID IN SEOUL](https://open.spotify.com/album/3gaEvY1i5mFMW7fFMxMn1F) | 3:02 |
 | 26 | [Gyeongsan\-si](https://open.spotify.com/track/2Vjwz8mExrUU2A2YV5DvI7) | [Kim Seungmin](https://open.spotify.com/artist/31VffPWiL2AAwNIMODB9qZ) | [PROTOTYPE RESEARCH \#0063](https://open.spotify.com/album/0djyRzAxBwLFkW89M8XdwP) | 3:05 |
 | 27 | [i \(Feat\. Jung Yup\) \(Prod\. BOYCOLD\)](https://open.spotify.com/track/6lANlfKORDVvUtn7TAODY3) | [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0), [Jung Yup](https://open.spotify.com/artist/4WMs26vY2z4DWUmWnDVaYP) | [Black & White Film](https://open.spotify.com/album/6PIfLssUGUbQwFYf1frasa) | 2:55 |
 | 28 | [gucci girl](https://open.spotify.com/track/5CDTCUl3TD36C5Ezhdfr3C) | [nafla](https://open.spotify.com/artist/3Zn6C68VCosoQrxu4D2Btr) | [u n u, Pt\. 1](https://open.spotify.com/album/7mOkHhVubCkf42pkrazJxq) | 3:20 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5x5ck36i2uO.md) - [plain]
 | 47 | [INSTANT \(feat\. SUMIN\)](https://open.spotify.com/track/3EhrOTY5Xlb0OOc8miuZGN) | [Park Kyung](https://open.spotify.com/artist/0hT0UrjmzkLJouAT52ck6j), [SUMIN](https://open.spotify.com/artist/0K4MGKGmjtdIE0W3GkGmyU) | [INSTANT \(feat\. SUMIN\)](https://open.spotify.com/album/6L6muVWjU1eq1StwzmNkV0) | 2:58 |
 | 48 | [넋 NUGS \(feat\. THAMA\)](https://open.spotify.com/track/4vsI1y8QYSBaVHfcUBXt2p) | [Joon's Second Life](https://open.spotify.com/artist/5etf1dUZgMqYB1tQBEdgvb), [Yonghoon Jeong](https://open.spotify.com/artist/2QIJvvyb9gFXRqVKlv882e), [Soul delivery](https://open.spotify.com/artist/4OTMKWZ890jj8quiWRwfxA), [HAEUN](https://open.spotify.com/artist/7BYHne6KtWNlbJnjZwLLRW), [SHINDRUM](https://open.spotify.com/artist/0Zvh7pzTiN04XiiDAOzHjB), [THAMA](https://open.spotify.com/artist/1Ktiv08TbBy195pQUH8Qld) | [FOODCOURT](https://open.spotify.com/album/1GsIHj2gZzXfOGzDqZLR8K) | 4:25 |
 | 49 | [Money Serenade \(Feat\. Wonstein & Kim Seung Min\)](https://open.spotify.com/track/1rZAKzPkA1VfkakGSszBg7) | [Mommy Son](https://open.spotify.com/artist/5xWKWXamxbujIdti9xpnI1), [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk), [Kim Seungmin](https://open.spotify.com/artist/31VffPWiL2AAwNIMODB9qZ) | [GOOD GIRL Episode 3](https://open.spotify.com/album/2iY5eEAH23aCB9JGCNZO5k) | 3:40 |
-| 50 | [You and Me \(feat\. Gummy\)](https://open.spotify.com/track/0LvTksPA6IPRyI8m3blITL) | [Nucksal](https://open.spotify.com/artist/6v5cGuRCZKq08nLI4WXJuB), [Gummy](https://open.spotify.com/artist/0hRHbwZ0xSwfVHl4FTv7jq) | [1Q87](https://open.spotify.com/album/5PWkEmaDQmIEqoqSg1VhsJ) | 3:10 |
+| 50 | [Good night night \(Feat\. pH\-1\)](https://open.spotify.com/track/5u0aDrolL0ZOElpoeizsdE) | [Don Malik](https://open.spotify.com/artist/1DKIdDHKHi3rIwG4UB5zLE), [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W) | [PAID IN SEOUL](https://open.spotify.com/album/3gaEvY1i5mFMW7fFMxMn1F) | 2:48 |
 
-Snapshot ID: `MCxmNmU1OGYyZTczZTQzYmQ1ZWU1M2IzMjRmYzQzMGNkZWY2Njg3MzA5`
+Snapshot ID: `MCw0NzYzNGRkZDY5OGE2Y2ZhMmRkMThkYTkxNGNjNWEzZTkzZjQ3YTYy`

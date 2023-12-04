@@ -65,7 +65,7 @@ naming collisions when archiving personalized playlists, which have the
 same name for every user. To add an alias, add a single line
 containing the desired name to `playlists/registry/<playlist_id>`.
 
-## Playlists \(7086\)
+## Playlists \(7090\)
 
 - ["Suzume" & Songs from Makoto Shinkai's Movies \(\~2022\)](/playlists/pretty/37i9dQZF1DX0KA2LHWBFpC.md)
 - [\#FlashbackFriday](/playlists/pretty/2dWfCGZguakRQagX7wM6Mi.md)
@@ -1090,6 +1090,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [Canadian '90s](/playlists/pretty/37i9dQZF1DX9NmM48Aqz3e.md)
 - [Canadian Gems](/playlists/pretty/37i9dQZF1DX1tOeW0T94Z0.md)
 - [Canadian Road Trip](/playlists/pretty/37i9dQZF1DX4JPdPsQxLCG.md)
+- [Cancionero Joan Sebastian](/playlists/pretty/37i9dQZF1DX3UoY5WYA1QF.md)
 - [Cancionero Juan Gabriel](/playlists/pretty/37i9dQZF1DX3hXmsXxRAC2.md)
 - [Cancionero Marco Antonio Solis](/playlists/pretty/37i9dQZF1DWWl8jvdRonp8.md)
 - [Cancionero Mexicano](/playlists/pretty/37i9dQZF1DWXP3HyjUhW1b.md)
@@ -1914,6 +1915,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [FRIDAY HAUS \- " PLAYLIST BY BLEU CLAIR "](/playlists/pretty/6ZkpoSfbVoUoMm6rvrQEUm.md)
 - [FRONTEO](/playlists/pretty/37i9dQZF1DX6jW9mPgBGv2.md)
 - [FTB](/playlists/pretty/0ea8UX0P9phKEpXzFjy6q5.md)
+- [Faerie Core](/playlists/pretty/37i9dQZF1DWZorhbhZSuqi.md)
 - [Fairy Tales](/playlists/pretty/37i9dQZF1DX0gxuYiQFvQL.md)
 - [Fais dodo](/playlists/pretty/37i9dQZF1DWSmMYD9cJ98J.md)
 - [Faith Finds](/playlists/pretty/37i9dQZF1DX82qPOvdCxxq.md)
@@ -4919,6 +4921,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [Sweet Jazz](/playlists/pretty/37i9dQZF1DWWMGLiuK4OqL.md)
 - [Sweet Lullabies](/playlists/pretty/37i9dQZF1DX8skPjZYk8mL.md)
 - [Sweet Soul Chillout](/playlists/pretty/37i9dQZF1DXbcgQ8d7s0A0.md)
+- [Sweet Soul Sunday](/playlists/pretty/37i9dQZF1DX7QC1DnNqj3m.md)
 - [Sweet Winter Songs](/playlists/pretty/62Tpw0jhT8kxF3KPbGciTk.md)
 - [Sweetgrass](/playlists/pretty/44Ht3IACEyKqiLBZupIhIk.md)
 - [Swing Revival](/playlists/pretty/37i9dQZF1DWYotlhbgVGaH.md)
@@ -7003,6 +7006,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [Éxitos Paraguay](/playlists/pretty/37i9dQZF1DX15N77UE8GEz.md)
 - [Éxitos Puerto Rico](/playlists/pretty/37i9dQZF1DX1Zs6DCeRyof.md)
 - [Éxitos USA](/playlists/pretty/37i9dQZF1DX4oUPBOaEkL6.md)
+- [Éxitos Uruguay](/playlists/pretty/37i9dQZF1DX7kV7MLy24Ug.md)
 - [Éxitos Venezuela](/playlists/pretty/37i9dQZF1DX8kTuG4gvrVk.md)
 - [Éxitos de Balneario](/playlists/pretty/37i9dQZF1DWVpZt0hgkZZM.md)
 - [Éxitos del Ayer](/playlists/pretty/37i9dQZF1DX4Ma23gvJILl.md)

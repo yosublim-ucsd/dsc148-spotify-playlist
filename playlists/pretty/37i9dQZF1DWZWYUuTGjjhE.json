@@ -1,12 +1,12 @@
 {
   "description": "Timeless easy listening from the sixties...",
-  "num_followers": 352027,
+  "num_followers": 352108,
   "original_name": "Easy 60s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZjIwYjRjOTU1NDU0Y2Y4YjQwYzg0YTJmZWFlNDk4NWZhYjgyYzVh",
+  "snapshot_id": "MCw0ZmUxN2M3MmExNWNlZGMzNmY3MzEwOThjYTU2NjcxMjA1NTc2Yzlh",
   "tracks": [
     {
       "added_at": "2023-10-17 16:16:50",
@@ -511,22 +511,6 @@
     {
       "added_at": "2023-10-17 16:16:50",
       "album": {
-        "name": "Dance Party",
-        "url": "https://open.spotify.com/album/3lFGAL3WruNTdBXfct7ZbZ"
-      },
-      "artists": [
-        {
-          "name": "Martha Reeves & The Vandellas",
-          "url": "https://open.spotify.com/artist/1Pe5hlKMCTULjosqZ6KanP"
-        }
-      ],
-      "duration_ms": 165226,
-      "name": "Dancing In The Street",
-      "url": "https://open.spotify.com/track/6rLqjzGV5VMLDWEnuUqi8q"
-    },
-    {
-      "added_at": "2023-10-17 16:16:50",
-      "album": {
         "name": "Remember When",
         "url": "https://open.spotify.com/album/6m8QVjXat9WFfyZPBSe0y8"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 160864,
       "name": "Will You Love Me Tomorrow",
       "url": "https://open.spotify.com/track/25IiJu0DjOqsnQXgNHWp5i"
+    },
+    {
+      "added_at": "2023-10-17 16:16:50",
+      "album": {
+        "name": "Dance Party",
+        "url": "https://open.spotify.com/album/3lFGAL3WruNTdBXfct7ZbZ"
+      },
+      "artists": [
+        {
+          "name": "Martha Reeves & The Vandellas",
+          "url": "https://open.spotify.com/artist/1Pe5hlKMCTULjosqZ6KanP"
+        }
+      ],
+      "duration_ms": 165226,
+      "name": "Dancing In The Street",
+      "url": "https://open.spotify.com/track/6rLqjzGV5VMLDWEnuUqi8q"
     },
     {
       "added_at": "2023-10-17 16:16:50",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2023-10-17 16:16:50",
       "album": {
-        "name": "Full Metal Jacket (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3tpJtzZm4Urb0n2ITN5mwF"
-      },
-      "artists": [
-        {
-          "name": "The Dixie Cups",
-          "url": "https://open.spotify.com/artist/7ICvZfP4VHAPZ5Wdt03772"
-        }
-      ],
-      "duration_ms": 167773,
-      "name": "Chapel Of Love",
-      "url": "https://open.spotify.com/track/0SMRck5oZi9hc16L6FuRF6"
-    },
-    {
-      "added_at": "2023-10-17 16:16:50",
-      "album": {
         "name": "Johnny Tillotson's Best",
         "url": "https://open.spotify.com/album/6EMFcjkD4LHxfwqfJlPjsb"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 154466,
       "name": "Poetry In Motion",
       "url": "https://open.spotify.com/track/1ASWAH866Xn0gWeX3zC2SW"
+    },
+    {
+      "added_at": "2023-10-17 16:16:50",
+      "album": {
+        "name": "Full Metal Jacket (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3tpJtzZm4Urb0n2ITN5mwF"
+      },
+      "artists": [
+        {
+          "name": "The Dixie Cups",
+          "url": "https://open.spotify.com/artist/7ICvZfP4VHAPZ5Wdt03772"
+        }
+      ],
+      "duration_ms": 167773,
+      "name": "Chapel Of Love",
+      "url": "https://open.spotify.com/track/0SMRck5oZi9hc16L6FuRF6"
     },
     {
       "added_at": "2023-10-17 16:16:50",

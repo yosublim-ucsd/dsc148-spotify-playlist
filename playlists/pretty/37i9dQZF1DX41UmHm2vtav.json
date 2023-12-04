@@ -1,12 +1,12 @@
 {
   "description": "Entre na onda com hits tropicais e remixes para curtir a praia com amigos.",
-  "num_followers": 452731,
+  "num_followers": 452901,
   "original_name": "Festa na Praia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZjUwYTk1Nzk0NGI5MmYzZDZmNzQ1NjJiOTRlNmZkYzUxMGQxNTkx",
+  "snapshot_id": "MCw4NGRhM2YwZTc0MjUyMDkxOGJmNmEyNTkyMWNmOTRjNWY4NWU2NzEw",
   "tracks": [
     {
       "added_at": "2023-11-24 10:53:42",
@@ -799,6 +799,30 @@
     {
       "added_at": "2023-11-24 10:53:42",
       "album": {
+        "name": "Sem Ch\u00e3o (Malemol\u00eancia)",
+        "url": "https://open.spotify.com/album/1KMNZU2XgBIFejM1j0DHwR"
+      },
+      "artists": [
+        {
+          "name": "Dubdogz",
+          "url": "https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1"
+        },
+        {
+          "name": "Watzgood",
+          "url": "https://open.spotify.com/artist/1ufrKfcoRS0V7srGXC6ADa"
+        },
+        {
+          "name": "C\u00e9u",
+          "url": "https://open.spotify.com/artist/2eFVsaX3yHLPeWpiqvmeFn"
+        }
+      ],
+      "duration_ms": 158769,
+      "name": "Sem Ch\u00e3o (Malemol\u00eancia)",
+      "url": "https://open.spotify.com/track/4DEU9APTmDLxnOsZnxhxI2"
+    },
+    {
+      "added_at": "2023-11-24 10:53:42",
+      "album": {
         "name": "All The Lies (with Felix Jaehn & The Vamps)",
         "url": "https://open.spotify.com/album/4fPfnp90F94F1Ab8UANpHL"
       },
@@ -867,30 +891,6 @@
       "duration_ms": 160429,
       "name": "Save Me",
       "url": "https://open.spotify.com/track/3Fq1tzIgvxTm0pRcqVbsRy"
-    },
-    {
-      "added_at": "2023-11-24 10:53:42",
-      "album": {
-        "name": "Sem Ch\u00e3o (Malemol\u00eancia)",
-        "url": "https://open.spotify.com/album/1KMNZU2XgBIFejM1j0DHwR"
-      },
-      "artists": [
-        {
-          "name": "Dubdogz",
-          "url": "https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1"
-        },
-        {
-          "name": "Watzgood",
-          "url": "https://open.spotify.com/artist/1ufrKfcoRS0V7srGXC6ADa"
-        },
-        {
-          "name": "C\u00e9u",
-          "url": "https://open.spotify.com/artist/2eFVsaX3yHLPeWpiqvmeFn"
-        }
-      ],
-      "duration_ms": 158769,
-      "name": "Sem Ch\u00e3o (Malemol\u00eancia)",
-      "url": "https://open.spotify.com/track/4DEU9APTmDLxnOsZnxhxI2"
     },
     {
       "added_at": "2023-11-24 10:53:42",
@@ -1003,26 +1003,6 @@
     {
       "added_at": "2023-11-24 10:53:42",
       "album": {
-        "name": "Low (feat. Victor Perry)",
-        "url": "https://open.spotify.com/album/20QswexjjSxo9hivrYnoN5"
-      },
-      "artists": [
-        {
-          "name": "Tom Enzy",
-          "url": "https://open.spotify.com/artist/6Nva7JhU0nL9SZ8ZvJni6O"
-        },
-        {
-          "name": "Victor Perry",
-          "url": "https://open.spotify.com/artist/29yyPuky7khfsycbqK19uE"
-        }
-      ],
-      "duration_ms": 145952,
-      "name": "Low (feat. Victor Perry)",
-      "url": "https://open.spotify.com/track/625TJ9ab8IthbxUDDZk8FD"
-    },
-    {
-      "added_at": "2023-11-24 10:53:42",
-      "album": {
         "name": "Z\u00e9 do caro\u00e7o",
         "url": "https://open.spotify.com/album/2FlQQe9dVw5Feqdv1HWO2Q"
       },
@@ -1043,22 +1023,22 @@
     {
       "added_at": "2023-11-24 10:53:42",
       "album": {
-        "name": "Somebody That You Loved",
-        "url": "https://open.spotify.com/album/2hZK1aGxPqE8XMyUK8bV79"
+        "name": "Low (feat. Victor Perry)",
+        "url": "https://open.spotify.com/album/20QswexjjSxo9hivrYnoN5"
       },
       "artists": [
         {
-          "name": "Bruno Martini",
-          "url": "https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L"
+          "name": "Tom Enzy",
+          "url": "https://open.spotify.com/artist/6Nva7JhU0nL9SZ8ZvJni6O"
         },
         {
-          "name": "New Hope Club",
-          "url": "https://open.spotify.com/artist/2WuKU0SYZOQyY3MmE4vtez"
+          "name": "Victor Perry",
+          "url": "https://open.spotify.com/artist/29yyPuky7khfsycbqK19uE"
         }
       ],
-      "duration_ms": 215998,
-      "name": "Somebody That You Loved",
-      "url": "https://open.spotify.com/track/2x6kFL5AIIwacxHySO4mXP"
+      "duration_ms": 145952,
+      "name": "Low (feat. Victor Perry)",
+      "url": "https://open.spotify.com/track/625TJ9ab8IthbxUDDZk8FD"
     },
     {
       "added_at": "2023-11-24 10:53:42",
@@ -1083,30 +1063,6 @@
     {
       "added_at": "2023-11-24 10:53:42",
       "album": {
-        "name": "Lovezinho",
-        "url": "https://open.spotify.com/album/5DcJcjPxI78aGL7LCvbMsx"
-      },
-      "artists": [
-        {
-          "name": "Santti",
-          "url": "https://open.spotify.com/artist/7e6KqpXfInWHjdQufAnsyj"
-        },
-        {
-          "name": "Malifoo",
-          "url": "https://open.spotify.com/artist/6Mt8or6ZkKPJSSECpY7Pu5"
-        },
-        {
-          "name": "Treyce",
-          "url": "https://open.spotify.com/artist/2CxOaVqRvTLZAZ7nFnJhsU"
-        }
-      ],
-      "duration_ms": 172986,
-      "name": "Lovezinho",
-      "url": "https://open.spotify.com/track/7kjfe7IZeVHpBDaa4ftu7K"
-    },
-    {
-      "added_at": "2023-11-24 10:53:42",
-      "album": {
         "name": "Halfway (feat. Twan Ray)",
         "url": "https://open.spotify.com/album/3Ql67TcOvEK8VOSML3UEv1"
       },
@@ -1127,6 +1083,50 @@
       "duration_ms": 158416,
       "name": "Halfway (feat. Twan Ray)",
       "url": "https://open.spotify.com/track/1BAupWJ7hkJFJuOL0eHb45"
+    },
+    {
+      "added_at": "2023-11-24 10:53:42",
+      "album": {
+        "name": "Somebody That You Loved",
+        "url": "https://open.spotify.com/album/2hZK1aGxPqE8XMyUK8bV79"
+      },
+      "artists": [
+        {
+          "name": "Bruno Martini",
+          "url": "https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L"
+        },
+        {
+          "name": "New Hope Club",
+          "url": "https://open.spotify.com/artist/2WuKU0SYZOQyY3MmE4vtez"
+        }
+      ],
+      "duration_ms": 215998,
+      "name": "Somebody That You Loved",
+      "url": "https://open.spotify.com/track/2x6kFL5AIIwacxHySO4mXP"
+    },
+    {
+      "added_at": "2023-11-24 10:53:42",
+      "album": {
+        "name": "Lovezinho",
+        "url": "https://open.spotify.com/album/5DcJcjPxI78aGL7LCvbMsx"
+      },
+      "artists": [
+        {
+          "name": "Santti",
+          "url": "https://open.spotify.com/artist/7e6KqpXfInWHjdQufAnsyj"
+        },
+        {
+          "name": "Malifoo",
+          "url": "https://open.spotify.com/artist/6Mt8or6ZkKPJSSECpY7Pu5"
+        },
+        {
+          "name": "Treyce",
+          "url": "https://open.spotify.com/artist/2CxOaVqRvTLZAZ7nFnJhsU"
+        }
+      ],
+      "duration_ms": 172986,
+      "name": "Lovezinho",
+      "url": "https://open.spotify.com/track/7kjfe7IZeVHpBDaa4ftu7K"
     },
     {
       "added_at": "2023-11-24 10:53:42",
@@ -1251,26 +1251,6 @@
     {
       "added_at": "2023-11-24 10:53:42",
       "album": {
-        "name": "I Do (with Zeeba)",
-        "url": "https://open.spotify.com/album/1m1opaakLIL6TzL7NjFhso"
-      },
-      "artists": [
-        {
-          "name": "Bruno Martini",
-          "url": "https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L"
-        },
-        {
-          "name": "Zeeba",
-          "url": "https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK"
-        }
-      ],
-      "duration_ms": 173446,
-      "name": "I Do - with Zeeba",
-      "url": "https://open.spotify.com/track/6lgLLgwC7vKguYUPSszMNt"
-    },
-    {
-      "added_at": "2023-11-24 10:53:42",
-      "album": {
         "name": "Se Voc\u00ea Quiser",
         "url": "https://open.spotify.com/album/69ULBtdTrF5BxymBScNMQK"
       },
@@ -1291,6 +1271,66 @@
       "duration_ms": 174219,
       "name": "Se Voc\u00ea Quiser",
       "url": "https://open.spotify.com/track/0Zk7UObYCZLCLd1pqN3Gjb"
+    },
+    {
+      "added_at": "2023-11-24 10:53:42",
+      "album": {
+        "name": "I Do (with Zeeba)",
+        "url": "https://open.spotify.com/album/1m1opaakLIL6TzL7NjFhso"
+      },
+      "artists": [
+        {
+          "name": "Bruno Martini",
+          "url": "https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L"
+        },
+        {
+          "name": "Zeeba",
+          "url": "https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK"
+        }
+      ],
+      "duration_ms": 173446,
+      "name": "I Do - with Zeeba",
+      "url": "https://open.spotify.com/track/6lgLLgwC7vKguYUPSszMNt"
+    },
+    {
+      "added_at": "2023-11-24 10:53:42",
+      "album": {
+        "name": "PQP A Vida \u00c9 Boa Demais",
+        "url": "https://open.spotify.com/album/2JmmMClnqqzOqlT0uJOT3C"
+      },
+      "artists": [
+        {
+          "name": "Xand Avi\u00e3o",
+          "url": "https://open.spotify.com/artist/43DRDu6nLSeIedZ7T1A616"
+        },
+        {
+          "name": "Ralk",
+          "url": "https://open.spotify.com/artist/5fL22gqogawtrDsvcNVyyC"
+        }
+      ],
+      "duration_ms": 194285,
+      "name": "PQP A Vida \u00c9 Boa Demais",
+      "url": "https://open.spotify.com/track/3ArUQ2uOknm7t3xIKu4zFb"
+    },
+    {
+      "added_at": "2023-11-24 10:53:42",
+      "album": {
+        "name": "Certeza - Zabot Remix",
+        "url": "https://open.spotify.com/album/53dgwj85VBXlIeb8UMLmtT"
+      },
+      "artists": [
+        {
+          "name": "Mariana Nolasco",
+          "url": "https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH"
+        },
+        {
+          "name": "Zabot",
+          "url": "https://open.spotify.com/artist/0THJM1gyjt92ogxB0A9SrB"
+        }
+      ],
+      "duration_ms": 181500,
+      "name": "Certeza - Zabot Remix",
+      "url": "https://open.spotify.com/track/5QmITZMc3kLAY6trGa9ohA"
     },
     {
       "added_at": "2023-11-24 10:53:42",
@@ -1319,26 +1359,6 @@
     {
       "added_at": "2023-11-24 10:53:42",
       "album": {
-        "name": "Certeza - Zabot Remix",
-        "url": "https://open.spotify.com/album/53dgwj85VBXlIeb8UMLmtT"
-      },
-      "artists": [
-        {
-          "name": "Mariana Nolasco",
-          "url": "https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH"
-        },
-        {
-          "name": "Zabot",
-          "url": "https://open.spotify.com/artist/0THJM1gyjt92ogxB0A9SrB"
-        }
-      ],
-      "duration_ms": 181500,
-      "name": "Certeza - Zabot Remix",
-      "url": "https://open.spotify.com/track/5QmITZMc3kLAY6trGa9ohA"
-    },
-    {
-      "added_at": "2023-11-24 10:53:42",
-      "album": {
         "name": "Aurora",
         "url": "https://open.spotify.com/album/0TLb9JNDquLhasSkRI0mxA"
       },
@@ -1355,26 +1375,6 @@
       "duration_ms": 150000,
       "name": "Aurora",
       "url": "https://open.spotify.com/track/5DEy27mge0YVglYMfjgak6"
-    },
-    {
-      "added_at": "2023-11-24 10:53:42",
-      "album": {
-        "name": "PQP A Vida \u00c9 Boa Demais",
-        "url": "https://open.spotify.com/album/2JmmMClnqqzOqlT0uJOT3C"
-      },
-      "artists": [
-        {
-          "name": "Xand Avi\u00e3o",
-          "url": "https://open.spotify.com/artist/43DRDu6nLSeIedZ7T1A616"
-        },
-        {
-          "name": "Ralk",
-          "url": "https://open.spotify.com/artist/5fL22gqogawtrDsvcNVyyC"
-        }
-      ],
-      "duration_ms": 194285,
-      "name": "PQP A Vida \u00c9 Boa Demais",
-      "url": "https://open.spotify.com/track/3ArUQ2uOknm7t3xIKu4zFb"
     },
     {
       "added_at": "2023-11-24 10:53:42",
@@ -1443,26 +1443,6 @@
     {
       "added_at": "2023-11-24 10:53:42",
       "album": {
-        "name": "Que Dia",
-        "url": "https://open.spotify.com/album/046LEmjGDEolXA3K5zxDFl"
-      },
-      "artists": [
-        {
-          "name": "Zabot",
-          "url": "https://open.spotify.com/artist/0THJM1gyjt92ogxB0A9SrB"
-        },
-        {
-          "name": "Serginho Moah",
-          "url": "https://open.spotify.com/artist/3P8z5gushp1EfF1FndSRw1"
-        }
-      ],
-      "duration_ms": 175546,
-      "name": "Que Dia",
-      "url": "https://open.spotify.com/track/4JLk3WmaRmMmYe4HQBoz6H"
-    },
-    {
-      "added_at": "2023-11-24 10:53:42",
-      "album": {
         "name": "Youngr",
         "url": "https://open.spotify.com/album/6fQblFsVP8G1oZuRn6F3fz"
       },
@@ -1479,6 +1459,26 @@
       "duration_ms": 175204,
       "name": "Youngr",
       "url": "https://open.spotify.com/track/29q1t40crnI8D5tLGYMgn8"
+    },
+    {
+      "added_at": "2023-11-24 10:53:42",
+      "album": {
+        "name": "Que Dia",
+        "url": "https://open.spotify.com/album/046LEmjGDEolXA3K5zxDFl"
+      },
+      "artists": [
+        {
+          "name": "Zabot",
+          "url": "https://open.spotify.com/artist/0THJM1gyjt92ogxB0A9SrB"
+        },
+        {
+          "name": "Serginho Moah",
+          "url": "https://open.spotify.com/artist/3P8z5gushp1EfF1FndSRw1"
+        }
+      ],
+      "duration_ms": 175546,
+      "name": "Que Dia",
+      "url": "https://open.spotify.com/track/4JLk3WmaRmMmYe4HQBoz6H"
     },
     {
       "added_at": "2023-11-24 10:53:42",

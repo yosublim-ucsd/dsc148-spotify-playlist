@@ -1,12 +1,12 @@
 {
   "description": "Himnos de Resistencia: Somos un pueblo fuerte que no se calla.",
-  "num_followers": 184296,
+  "num_followers": 184355,
   "original_name": "Himnos de Resistencia Latinoamericana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMDBjODdjYzMzYzMyYTE1MDRjZGQzMjU2MGRlOTg5OTZhZDg4MDY3",
+  "snapshot_id": "MCw5ZDEyODM2OGQ2MzQ0MzY3OWQ4ZDJhMWZmNTQ2NjQyMGM5OWUzZDg1",
   "tracks": [
     {
       "added_at": "2023-10-13 03:00:00",
@@ -927,22 +927,6 @@
     {
       "added_at": "2023-10-13 03:00:00",
       "album": {
-        "name": "Escribo Rap Con R De Revolucion",
-        "url": "https://open.spotify.com/album/4XvUXpek6UQmjm5ig49yL7"
-      },
-      "artists": [
-        {
-          "name": "Portavoz",
-          "url": "https://open.spotify.com/artist/271TPCWy79Q4utmSP6uSQg"
-        }
-      ],
-      "duration_ms": 268467,
-      "name": "Al Pueblo Le Asusta La Revolucio\u0301n",
-      "url": "https://open.spotify.com/track/582Lfqa9mSQO8bXtZImRYl"
-    },
-    {
-      "added_at": "2023-10-13 03:00:00",
-      "album": {
         "name": "Entren Los Que Quieran",
         "url": "https://open.spotify.com/album/3yqcj5G3zkeXuWIx6cjQgx"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 249733,
       "name": "Calma Pueblo (feat. Omar Rodr\u00edguez)",
       "url": "https://open.spotify.com/track/4eES4FfNECMQCcb4Ao9yhj"
+    },
+    {
+      "added_at": "2023-10-13 03:00:00",
+      "album": {
+        "name": "Escribo Rap Con R De Revolucion",
+        "url": "https://open.spotify.com/album/4XvUXpek6UQmjm5ig49yL7"
+      },
+      "artists": [
+        {
+          "name": "Portavoz",
+          "url": "https://open.spotify.com/artist/271TPCWy79Q4utmSP6uSQg"
+        }
+      ],
+      "duration_ms": 268467,
+      "name": "Al Pueblo Le Asusta La Revolucio\u0301n",
+      "url": "https://open.spotify.com/track/582Lfqa9mSQO8bXtZImRYl"
     },
     {
       "added_at": "2023-10-13 03:00:00",
@@ -1447,22 +1447,18 @@
     {
       "added_at": "2023-10-13 03:00:00",
       "album": {
-        "name": "Mujeres",
-        "url": "https://open.spotify.com/album/3NOtXGgprgAE7XcyimuA6P"
+        "name": "La Nueva Cancion Chilena, Vol. 1",
+        "url": "https://open.spotify.com/album/6lXAQ5Gozo845iSrcQEvfI"
       },
       "artists": [
         {
-          "name": "Julieta Venegas",
-          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
-        },
-        {
-          "name": "Miau Tr\u00edo",
-          "url": "https://open.spotify.com/artist/0WIn93XS8EmNaLPG3AZpeL"
+          "name": "Quilapay\u00fan",
+          "url": "https://open.spotify.com/artist/76sZcEL2ZXBTqNeFJAhlup"
         }
       ],
-      "duration_ms": 215579,
-      "name": "Mujeres",
-      "url": "https://open.spotify.com/track/0PELaQWHo1MA89JH4lHyRj"
+      "duration_ms": 279333,
+      "name": "La Muralla",
+      "url": "https://open.spotify.com/track/7xTdDHBepVRqP9BqobHI75"
     },
     {
       "added_at": "2023-10-13 03:00:00",
@@ -1487,18 +1483,22 @@
     {
       "added_at": "2023-10-13 03:00:00",
       "album": {
-        "name": "La Nueva Cancion Chilena, Vol. 1",
-        "url": "https://open.spotify.com/album/6lXAQ5Gozo845iSrcQEvfI"
+        "name": "Mujeres",
+        "url": "https://open.spotify.com/album/3NOtXGgprgAE7XcyimuA6P"
       },
       "artists": [
         {
-          "name": "Quilapay\u00fan",
-          "url": "https://open.spotify.com/artist/76sZcEL2ZXBTqNeFJAhlup"
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+        },
+        {
+          "name": "Miau Tr\u00edo",
+          "url": "https://open.spotify.com/artist/0WIn93XS8EmNaLPG3AZpeL"
         }
       ],
-      "duration_ms": 279333,
-      "name": "La Muralla",
-      "url": "https://open.spotify.com/track/7xTdDHBepVRqP9BqobHI75"
+      "duration_ms": 215579,
+      "name": "Mujeres",
+      "url": "https://open.spotify.com/track/0PELaQWHo1MA89JH4lHyRj"
     },
     {
       "added_at": "2023-10-13 03:00:00",
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2023-10-13 03:00:00",
       "album": {
-        "name": "Dime Qu\u00e9 Pasa",
-        "url": "https://open.spotify.com/album/4DifRQy4Dyey9NSS7ywnEx"
-      },
-      "artists": [
-        {
-          "name": "La Floripondio",
-          "url": "https://open.spotify.com/artist/73Vk4dL8kYkbRJxWJDq1wL"
-        }
-      ],
-      "duration_ms": 110308,
-      "name": "Matar al Presidente",
-      "url": "https://open.spotify.com/track/6HA0cETjAdZVme1VZvA5pf"
-    },
-    {
-      "added_at": "2023-10-13 03:00:00",
-      "album": {
         "name": "S\u00edganme los Buenos",
         "url": "https://open.spotify.com/album/2rW21cjOMIZYEneQKO74Gm"
       },
@@ -1551,6 +1535,22 @@
       "duration_ms": 207580,
       "name": "S\u00edganme los Buenos",
       "url": "https://open.spotify.com/track/64hFXTMZsmDAT0kiWZrYwD"
+    },
+    {
+      "added_at": "2023-10-13 03:00:00",
+      "album": {
+        "name": "Dime Qu\u00e9 Pasa",
+        "url": "https://open.spotify.com/album/4DifRQy4Dyey9NSS7ywnEx"
+      },
+      "artists": [
+        {
+          "name": "La Floripondio",
+          "url": "https://open.spotify.com/artist/73Vk4dL8kYkbRJxWJDq1wL"
+        }
+      ],
+      "duration_ms": 110308,
+      "name": "Matar al Presidente",
+      "url": "https://open.spotify.com/track/6HA0cETjAdZVme1VZvA5pf"
     },
     {
       "added_at": "2023-10-13 03:00:00",
@@ -1859,42 +1859,18 @@
     {
       "added_at": "2023-10-13 03:00:00",
       "album": {
-        "name": "Grita Tierra",
-        "url": "https://open.spotify.com/album/16xnx1BIx96nDG1T20MF3z"
+        "name": "Paco Vampiro",
+        "url": "https://open.spotify.com/album/71wsgoCJ3gvOV7zh9sjbLX"
       },
       "artists": [
         {
-          "name": "UN Live",
-          "url": "https://open.spotify.com/artist/598aN61ejdgFL6RzTmphnJ"
-        },
-        {
-          "name": "Catalina Garc\u00eda",
-          "url": "https://open.spotify.com/artist/2eWiATMtcOCS8vAjRJp9iY"
-        },
-        {
-          "name": "Roco Pachukote",
-          "url": "https://open.spotify.com/artist/2ODbtFkjehgsWGLhybegVA"
-        },
-        {
-          "name": "Sandesh Manuel",
-          "url": "https://open.spotify.com/artist/1FP9jgHKP3F3gojPpPZMH1"
-        },
-        {
-          "name": "Conector",
-          "url": "https://open.spotify.com/artist/07911i0JpJbxQyDEHDgkbT"
-        },
-        {
-          "name": "Daniel Roa",
-          "url": "https://open.spotify.com/artist/3dPJfVYIqsjDsBRA5z8vKF"
-        },
-        {
-          "name": "Hna Nidia Mac\u00edas",
-          "url": "https://open.spotify.com/artist/2BbhmRWi28bLVgHBClCdEp"
+          "name": "Alex Anwandter",
+          "url": "https://open.spotify.com/artist/0M8uC0u1YRUGCieOKmQF02"
         }
       ],
-      "duration_ms": 275327,
-      "name": "Grita Tierra",
-      "url": "https://open.spotify.com/track/1TbUrLorDczVuZuPz0U5lZ"
+      "duration_ms": 201284,
+      "name": "Paco Vampiro",
+      "url": "https://open.spotify.com/track/1d8izQZm0HT6s49oOm235o"
     }
   ],
   "unique_name": "Himnos de Resistencia Latinoamericana",

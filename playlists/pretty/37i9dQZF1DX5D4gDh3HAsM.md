@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5D4gDh3HAsM.md) - [plain]
 
 > Jazzy takes on your favorite Holiday songs\. Cover: Samara Joy
 
-[Spotify](https://open.spotify.com/user/spotify) - 533,255 likes - 100 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 534,878 likes - 100 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5D4gDh3HAsM.md) - [plain]
 | 43 | [Sleigh Ride](https://open.spotify.com/track/1YrVIuRdDYU9eWBBzw1QUC) | [Bill Cantos](https://open.spotify.com/artist/6WjNgC678BdeXKqJ1TrS9D) | [Sleigh Ride](https://open.spotify.com/album/0NvuVQK17mnmE4hzALEuDZ) | 3:00 |
 | 44 | [Christmas Is Here Can You Feel It?](https://open.spotify.com/track/6sEi1drxUrpCpFG3ghyjM4) | [Harry Allen](https://open.spotify.com/artist/7HEPzI1k3SXs2lJ3EixmjR), [Eddie Erickson](https://open.spotify.com/artist/1uWVg0K3ku7Zh8RK5K48Jn) | [Christmas Is Here Can You Feel It?](https://open.spotify.com/album/4AMjJZc09IPAVR6qacuZhu) | 2:52 |
 | 45 | [Presente De Natal](https://open.spotify.com/track/18LXMJGsZliL55WLM5RKSD) | [Cesar Camargo Mariano](https://open.spotify.com/artist/43B6M32q64TmvCjO9WAhWd) | [Christmas Memories](https://open.spotify.com/album/5tISGCwXMNUl3sBigxGRQe) | 4:45 |
-| 46 | [Wonderful Christmastime](https://open.spotify.com/track/6qaVpEUBt6tLOrzZkRjhJB) | [Walt Weiskopf](https://open.spotify.com/artist/0tdWD3Wpf0kyUYI6zeT1w3) | [European Quartet: A Little Christmas Music](https://open.spotify.com/album/2KxLBRm5ZqsiiTs6efbZHb) | 5:20 |
+| 46 | [Wonderful Christmastime](https://open.spotify.com/track/6udnKJQQZyTzDskBWH9New) | [Walt Weiskopf](https://open.spotify.com/artist/0tdWD3Wpf0kyUYI6zeT1w3) | [European Quartet: A Little Christmas Music](https://open.spotify.com/album/4pXCSK1kVmRuvScTZ5q9mn) | 5:19 |
 | 47 | [The Christmas Waltz](https://open.spotify.com/track/0NG05wDqGPCQWOkzBErSyn) | [Jaimee Paul](https://open.spotify.com/artist/09VxnBvEC5lDFLmMkEYOmr), [Pat Coil](https://open.spotify.com/artist/2B8UFlcrZdKZD5qV83m503), [Jacob Jezioro](https://open.spotify.com/artist/2LItgcmlHsUt6BikoXc1Df), [Danny Gottlieb](https://open.spotify.com/artist/29aflj7NM4ocg7fMqbhifM) | [The Christmas Waltz](https://open.spotify.com/album/41aUgrcnR0L2MYsfTOcpsb) | 3:09 |
 | 48 | [It's the Most Wonderful Time of the Year](https://open.spotify.com/track/6jViGawrRIuTOAvUS8kuBy) | [Sam Levine](https://open.spotify.com/artist/1CmCeIsw4tTFiufFAJx04M), [Pat Coil](https://open.spotify.com/artist/2B8UFlcrZdKZD5qV83m503), [Jacob Jezioro](https://open.spotify.com/artist/2LItgcmlHsUt6BikoXc1Df), [Danny Gottlieb](https://open.spotify.com/artist/29aflj7NM4ocg7fMqbhifM) | [It's the Most Wonderful Time of the Year](https://open.spotify.com/album/0XRBLeu4R4aZQrx6epBCE2) | 3:59 |
 | 49 | [Just Me This Year](https://open.spotify.com/track/03nVaudcIV9z2XjgB6PlHa) | [Rachael & Vilray](https://open.spotify.com/artist/3UHyuBA5qay3xcxFr3Z1Y9) | [Just Me This Year](https://open.spotify.com/album/41LqeaMFiSUUY9IygGpmTr) | 3:07 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5D4gDh3HAsM.md) - [plain]
 | 95 | [Santa Baby](https://open.spotify.com/track/1VKndPOz75Bk97MT4Jg46Z) | [Haley Reinhart](https://open.spotify.com/artist/5cKlE8f6b26h61Ml7m052Q) | [Santa Baby](https://open.spotify.com/album/2RqEmOKf7AE3yeGMAQR3mJ) | 2:56 |
 | 96 | [What Child Is This?](https://open.spotify.com/track/2OWHlfjpe1GwUp9s0F6uXF) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Behold](https://open.spotify.com/album/1Yn7YD40ikGVNPDQklj4rX) | 3:15 |
 | 97 | [That Holiday Feeling](https://open.spotify.com/track/1bKVlbJLBpyyXM5SwJovPW) | [Jane Monheit](https://open.spotify.com/artist/7rwI5cbw9cUKFVul2rZMiZ), [John Pizzarelli](https://open.spotify.com/artist/5Yc3oYPNlABAj17eZiNJqf) | [The Merriest](https://open.spotify.com/album/3VoVYgeYB0L3ZwYx0ox2UF) | 3:57 |
-| 98 | [Mary's Boy Child](https://open.spotify.com/track/5rfIV7AoYPDdv6XZZjGPKh) | [Carl Winther](https://open.spotify.com/artist/6sGRzzszXhAo63o0iHBs7R) | [A Jazzy Christmas Celebration](https://open.spotify.com/album/6Ss48nr4OdDZvR9Si3ONQP) | 2:06 |
+| 98 | [Mary's Boy Child](https://open.spotify.com/track/7HuThzVZqpdfCSGZAfZbiS) | [Carl Winther](https://open.spotify.com/artist/6sGRzzszXhAo63o0iHBs7R) | [A Jazzy Christmas Celebration](https://open.spotify.com/album/7M4BN6Gb0ny9GvML8AiH6W) | 2:06 |
 | 99 | [O Little Town Of Bethlehem](https://open.spotify.com/track/7lFGTWPpGaBMxX8vjHLmLT) | [Oscar Peterson](https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB) | [An Oscar Peterson Christmas](https://open.spotify.com/album/4lkW34BvnZk0RBZLlvDddC) | 3:16 |
 | 100 | [Mistletoe And Holly \- Remastered 1999](https://open.spotify.com/track/7faDzZnZYqTyYThx2sbHVQ) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [A Jolly Christmas From Frank Sinatra](https://open.spotify.com/album/0ny6mZMBrYSO0s8HAKbcVq) | 2:16 |
 
-Snapshot ID: `MCwyY2UyZTc3ODI5MzMxMDY2NWY4NzdjM2JjNzdjMTU2ZDU2OWVjNGI0`
+Snapshot ID: `MCw4MGY0Yzg4NmUzMGVhNTgxMDBjNmRiMDMzNTkyZWE2MzBkNDYzNzdh`

@@ -1,12 +1,12 @@
 {
   "description": "The greatest Alternative Rock songs through the decades. Cover: The Killers",
-  "num_followers": 697670,
+  "num_followers": 697826,
   "original_name": "Essential Alternative",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYmZkNTdiMGRmN2MxY2JlZGEwZTNmMzYxOGFhNTdhNTY4OGI2NDQw",
+  "snapshot_id": "MCwzNmYxZDQxZDQ2OWI2ZmE1OWQ5ZmZkZDVhYzQ0MmQxNGQwY2YzNTU1",
   "tracks": [
     {
       "added_at": "2022-11-23 20:10:22",
@@ -475,22 +475,6 @@
     {
       "added_at": "2022-11-23 20:10:22",
       "album": {
-        "name": "Rise And Fall, Rage And Grace",
-        "url": "https://open.spotify.com/album/67v63ubEsvDUQkYMzI7A9t"
-      },
-      "artists": [
-        {
-          "name": "The Offspring",
-          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
-        }
-      ],
-      "duration_ms": 177826,
-      "name": "You're Gonna Go Far, Kid",
-      "url": "https://open.spotify.com/track/6TfBA04WJ3X1d1wXhaCFVT"
-    },
-    {
-      "added_at": "2022-11-23 20:10:22",
-      "album": {
         "name": "The Black Parade",
         "url": "https://open.spotify.com/album/0FZK97MXMm5mUQ8mtudjuK"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 161920,
       "name": "Teenagers",
       "url": "https://open.spotify.com/track/7j31rVgGX9Q2blT92VBEA0"
+    },
+    {
+      "added_at": "2022-11-23 20:10:22",
+      "album": {
+        "name": "Rise And Fall, Rage And Grace",
+        "url": "https://open.spotify.com/album/67v63ubEsvDUQkYMzI7A9t"
+      },
+      "artists": [
+        {
+          "name": "The Offspring",
+          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+        }
+      ],
+      "duration_ms": 177826,
+      "name": "You're Gonna Go Far, Kid",
+      "url": "https://open.spotify.com/track/6TfBA04WJ3X1d1wXhaCFVT"
     },
     {
       "added_at": "2022-11-23 20:10:22",
@@ -875,22 +875,6 @@
     {
       "added_at": "2022-11-23 20:10:22",
       "album": {
-        "name": "Only By The Night",
-        "url": "https://open.spotify.com/album/5CZR6ljD0x9fTiS4mh9wMp"
-      },
-      "artists": [
-        {
-          "name": "Kings of Leon",
-          "url": "https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx"
-        }
-      ],
-      "duration_ms": 230760,
-      "name": "Use Somebody",
-      "url": "https://open.spotify.com/track/5VGlqQANWDKJFl0MBG3sg2"
-    },
-    {
-      "added_at": "2022-11-23 20:10:22",
-      "album": {
         "name": "Sublime",
         "url": "https://open.spotify.com/album/14eK347GdWO4mBBx78tsut"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 182746,
       "name": "Santeria",
       "url": "https://open.spotify.com/track/2hnMS47jN0etwvFPzYk11f"
+    },
+    {
+      "added_at": "2022-11-23 20:10:22",
+      "album": {
+        "name": "Only By The Night",
+        "url": "https://open.spotify.com/album/5CZR6ljD0x9fTiS4mh9wMp"
+      },
+      "artists": [
+        {
+          "name": "Kings of Leon",
+          "url": "https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx"
+        }
+      ],
+      "duration_ms": 230760,
+      "name": "Use Somebody",
+      "url": "https://open.spotify.com/track/5VGlqQANWDKJFl0MBG3sg2"
     },
     {
       "added_at": "2022-11-23 20:10:22",
@@ -1455,22 +1455,6 @@
     {
       "added_at": "2022-11-23 20:10:22",
       "album": {
-        "name": "Oh, Inverted World (20th Anniversary Remaster)",
-        "url": "https://open.spotify.com/album/5XmhHMj5LZLWo32aA6ntKE"
-      },
-      "artists": [
-        {
-          "name": "The Shins",
-          "url": "https://open.spotify.com/artist/4LG4Bs1Gadht7TCrMytQUO"
-        }
-      ],
-      "duration_ms": 230866,
-      "name": "New Slang - 2021 Remaster",
-      "url": "https://open.spotify.com/track/0NslHuacjxQYfUTOW3HCIV"
-    },
-    {
-      "added_at": "2022-11-23 20:10:22",
-      "album": {
         "name": "Third Eye Blind",
         "url": "https://open.spotify.com/album/2gToC0XAblE9h3UZD6aAaQ"
       },
@@ -1483,6 +1467,22 @@
       "duration_ms": 268360,
       "name": "Semi-Charmed Life",
       "url": "https://open.spotify.com/track/42et6fnHCw1HIPSrdPprMl"
+    },
+    {
+      "added_at": "2022-11-23 20:10:22",
+      "album": {
+        "name": "Oh, Inverted World (20th Anniversary Remaster)",
+        "url": "https://open.spotify.com/album/5XmhHMj5LZLWo32aA6ntKE"
+      },
+      "artists": [
+        {
+          "name": "The Shins",
+          "url": "https://open.spotify.com/artist/4LG4Bs1Gadht7TCrMytQUO"
+        }
+      ],
+      "duration_ms": 230866,
+      "name": "New Slang - 2021 Remaster",
+      "url": "https://open.spotify.com/track/0NslHuacjxQYfUTOW3HCIV"
     },
     {
       "added_at": "2022-11-23 20:10:22",
@@ -1631,22 +1631,6 @@
     {
       "added_at": "2022-11-23 20:10:22",
       "album": {
-        "name": "DECEMBERUNDERGROUND",
-        "url": "https://open.spotify.com/album/1XcA7EEpVRg3FpVbhWu9JV"
-      },
-      "artists": [
-        {
-          "name": "AFI",
-          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
-        }
-      ],
-      "duration_ms": 206586,
-      "name": "Miss Murder",
-      "url": "https://open.spotify.com/track/0Ti2dlF2xLjXblvdU5fCxM"
-    },
-    {
-      "added_at": "2022-11-23 20:10:22",
-      "album": {
         "name": "Love Will Tear Us Apart",
         "url": "https://open.spotify.com/album/0u0CJa9zwFbGSU8JWQYS5G"
       },
@@ -1659,6 +1643,22 @@
       "duration_ms": 208453,
       "name": "Love Will Tear Us Apart - 2020 Remaster",
       "url": "https://open.spotify.com/track/34iOH7LY3vme5rQxsVILZ4"
+    },
+    {
+      "added_at": "2022-11-23 20:10:22",
+      "album": {
+        "name": "DECEMBERUNDERGROUND",
+        "url": "https://open.spotify.com/album/1XcA7EEpVRg3FpVbhWu9JV"
+      },
+      "artists": [
+        {
+          "name": "AFI",
+          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
+        }
+      ],
+      "duration_ms": 206586,
+      "name": "Miss Murder",
+      "url": "https://open.spotify.com/track/0Ti2dlF2xLjXblvdU5fCxM"
     },
     {
       "added_at": "2022-11-23 20:10:22",
@@ -1695,22 +1695,6 @@
     {
       "added_at": "2022-11-23 20:10:22",
       "album": {
-        "name": "Ten",
-        "url": "https://open.spotify.com/album/5B4PYA7wNN4WdEXdIJu58a"
-      },
-      "artists": [
-        {
-          "name": "Pearl Jam",
-          "url": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
-        }
-      ],
-      "duration_ms": 318226,
-      "name": "Jeremy",
-      "url": "https://open.spotify.com/track/62nQ8UZVqR2RMvkJHkcO2o"
-    },
-    {
-      "added_at": "2022-11-23 20:10:22",
-      "album": {
         "name": "I Should Coco",
         "url": "https://open.spotify.com/album/4XeQWsW3K9qjfv5FP9Jtcv"
       },
@@ -1723,6 +1707,22 @@
       "duration_ms": 180880,
       "name": "Alright",
       "url": "https://open.spotify.com/track/5CQvKyzkWI7TnUu2oB9QZ0"
+    },
+    {
+      "added_at": "2022-11-23 20:10:22",
+      "album": {
+        "name": "Ten",
+        "url": "https://open.spotify.com/album/5B4PYA7wNN4WdEXdIJu58a"
+      },
+      "artists": [
+        {
+          "name": "Pearl Jam",
+          "url": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
+        }
+      ],
+      "duration_ms": 318226,
+      "name": "Jeremy",
+      "url": "https://open.spotify.com/track/62nQ8UZVqR2RMvkJHkcO2o"
     },
     {
       "added_at": "2022-11-23 20:10:22",
@@ -1919,38 +1919,6 @@
     {
       "added_at": "2022-11-23 20:10:22",
       "album": {
-        "name": "Siamese Dream (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0bQglEvsHphrS19FGODEGo"
-      },
-      "artists": [
-        {
-          "name": "The Smashing Pumpkins",
-          "url": "https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i"
-        }
-      ],
-      "duration_ms": 201173,
-      "name": "Today - 2011 Remaster",
-      "url": "https://open.spotify.com/track/0u5aO1GYsIhAWCPuXdwnak"
-    },
-    {
-      "added_at": "2022-11-23 20:10:22",
-      "album": {
-        "name": "Absolution",
-        "url": "https://open.spotify.com/album/0HcHPBu9aaF1MxOiZmUQTl"
-      },
-      "artists": [
-        {
-          "name": "Muse",
-          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
-        }
-      ],
-      "duration_ms": 237039,
-      "name": "Time is Running Out",
-      "url": "https://open.spotify.com/track/2takcwOaAZWiXQijPHIx7B"
-    },
-    {
-      "added_at": "2022-11-23 20:10:22",
-      "album": {
         "name": "This Is All Yours",
         "url": "https://open.spotify.com/album/4oktVvRuO1In9B7Hz0xm0a"
       },
@@ -1979,6 +1947,38 @@
       "duration_ms": 241640,
       "name": "Lisztomania",
       "url": "https://open.spotify.com/track/7fmJGzyvOcbh6UANsH8Cp6"
+    },
+    {
+      "added_at": "2022-11-23 20:10:22",
+      "album": {
+        "name": "Siamese Dream (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0bQglEvsHphrS19FGODEGo"
+      },
+      "artists": [
+        {
+          "name": "The Smashing Pumpkins",
+          "url": "https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i"
+        }
+      ],
+      "duration_ms": 201173,
+      "name": "Today - 2011 Remaster",
+      "url": "https://open.spotify.com/track/0u5aO1GYsIhAWCPuXdwnak"
+    },
+    {
+      "added_at": "2022-11-23 20:10:22",
+      "album": {
+        "name": "Absolution",
+        "url": "https://open.spotify.com/album/0HcHPBu9aaF1MxOiZmUQTl"
+      },
+      "artists": [
+        {
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+        }
+      ],
+      "duration_ms": 237039,
+      "name": "Time is Running Out",
+      "url": "https://open.spotify.com/track/2takcwOaAZWiXQijPHIx7B"
     },
     {
       "added_at": "2022-11-23 20:10:22",
@@ -2047,22 +2047,6 @@
     {
       "added_at": "2022-11-23 20:10:22",
       "album": {
-        "name": "Bleed American",
-        "url": "https://open.spotify.com/album/0UJhhj5bn5AGAjryFnhueP"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Eat World",
-          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
-        }
-      ],
-      "duration_ms": 220026,
-      "name": "Sweetness",
-      "url": "https://open.spotify.com/track/429IbFR4yp2J81CeTwF5iY"
-    },
-    {
-      "added_at": "2022-11-23 20:10:22",
-      "album": {
         "name": "Vs.",
         "url": "https://open.spotify.com/album/3BSOiAas8BpJOii3kCPyjV"
       },
@@ -2075,6 +2059,22 @@
       "duration_ms": 234333,
       "name": "Daughter - Remastered",
       "url": "https://open.spotify.com/track/53eJFr4Mfbw5PXJ01K6cFw"
+    },
+    {
+      "added_at": "2022-11-23 20:10:22",
+      "album": {
+        "name": "Bleed American",
+        "url": "https://open.spotify.com/album/0UJhhj5bn5AGAjryFnhueP"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Eat World",
+          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
+        }
+      ],
+      "duration_ms": 220026,
+      "name": "Sweetness",
+      "url": "https://open.spotify.com/track/429IbFR4yp2J81CeTwF5iY"
     },
     {
       "added_at": "2022-11-23 20:10:22",
@@ -2591,22 +2591,6 @@
     {
       "added_at": "2022-11-23 20:10:22",
       "album": {
-        "name": "Return To Cookie Mountain",
-        "url": "https://open.spotify.com/album/4sD8WQQ8f1x3L4YFa9qFIO"
-      },
-      "artists": [
-        {
-          "name": "TV On The Radio",
-          "url": "https://open.spotify.com/artist/3HJIB8sYPyxrFGuwvKXSLR"
-        }
-      ],
-      "duration_ms": 277466,
-      "name": "Wolf Like Me",
-      "url": "https://open.spotify.com/track/6Zgd7SomLTZkL1WPh4CUnV"
-    },
-    {
-      "added_at": "2022-11-23 20:10:22",
-      "album": {
         "name": "Nothing's Shocking",
         "url": "https://open.spotify.com/album/4DVBJPJyizvHfJQt5pYaCa"
       },
@@ -2619,6 +2603,22 @@
       "duration_ms": 287000,
       "name": "Jane Says",
       "url": "https://open.spotify.com/track/7c1Dar0pIAW7w5TzaGjt9t"
+    },
+    {
+      "added_at": "2022-11-23 20:10:22",
+      "album": {
+        "name": "Return To Cookie Mountain",
+        "url": "https://open.spotify.com/album/4sD8WQQ8f1x3L4YFa9qFIO"
+      },
+      "artists": [
+        {
+          "name": "TV On The Radio",
+          "url": "https://open.spotify.com/artist/3HJIB8sYPyxrFGuwvKXSLR"
+        }
+      ],
+      "duration_ms": 277466,
+      "name": "Wolf Like Me",
+      "url": "https://open.spotify.com/track/6Zgd7SomLTZkL1WPh4CUnV"
     },
     {
       "added_at": "2022-11-23 20:10:22",
@@ -2927,22 +2927,6 @@
     {
       "added_at": "2022-11-23 20:10:22",
       "album": {
-        "name": "The Reminder",
-        "url": "https://open.spotify.com/album/7bTdGfczXffzzNE9ssJj4Z"
-      },
-      "artists": [
-        {
-          "name": "Feist",
-          "url": "https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj"
-        }
-      ],
-      "duration_ms": 183666,
-      "name": "1234",
-      "url": "https://open.spotify.com/track/2CzWeyC9zlDpIOZPUUKrBW"
-    },
-    {
-      "added_at": "2022-11-23 20:10:22",
-      "album": {
         "name": "Only By The Night",
         "url": "https://open.spotify.com/album/5CZR6ljD0x9fTiS4mh9wMp"
       },
@@ -2955,6 +2939,22 @@
       "duration_ms": 180840,
       "name": "Notion",
       "url": "https://open.spotify.com/track/40e9kU9Wd4vbedqSA7Io4n"
+    },
+    {
+      "added_at": "2022-11-23 20:10:22",
+      "album": {
+        "name": "The Reminder",
+        "url": "https://open.spotify.com/album/7bTdGfczXffzzNE9ssJj4Z"
+      },
+      "artists": [
+        {
+          "name": "Feist",
+          "url": "https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj"
+        }
+      ],
+      "duration_ms": 183666,
+      "name": "1234",
+      "url": "https://open.spotify.com/track/2CzWeyC9zlDpIOZPUUKrBW"
     },
     {
       "added_at": "2022-11-23 20:10:22",
@@ -3135,22 +3135,6 @@
     {
       "added_at": "2022-11-23 20:10:22",
       "album": {
-        "name": "Santigold",
-        "url": "https://open.spotify.com/album/4yATru0hY3VgRHSreswbGj"
-      },
-      "artists": [
-        {
-          "name": "Santigold",
-          "url": "https://open.spotify.com/artist/6Jrxnp0JgqmeUX1veU591p"
-        }
-      ],
-      "duration_ms": 204906,
-      "name": "L.E.S. Artistes",
-      "url": "https://open.spotify.com/track/4dmCLAZbWYT0qtcG7GVMdb"
-    },
-    {
-      "added_at": "2022-11-23 20:10:22",
-      "album": {
         "name": "Ga Ga Ga Ga Ga (2017 Remaster)",
         "url": "https://open.spotify.com/album/3tSpLdSd2zhM0N0aYZd13E"
       },
@@ -3163,6 +3147,22 @@
       "duration_ms": 222106,
       "name": "The Underdog",
       "url": "https://open.spotify.com/track/2ZLL9Blx7Tq4tBrhE9YvXE"
+    },
+    {
+      "added_at": "2022-11-23 20:10:22",
+      "album": {
+        "name": "Santigold",
+        "url": "https://open.spotify.com/album/4yATru0hY3VgRHSreswbGj"
+      },
+      "artists": [
+        {
+          "name": "Santigold",
+          "url": "https://open.spotify.com/artist/6Jrxnp0JgqmeUX1veU591p"
+        }
+      ],
+      "duration_ms": 204906,
+      "name": "L.E.S. Artistes",
+      "url": "https://open.spotify.com/track/4dmCLAZbWYT0qtcG7GVMdb"
     },
     {
       "added_at": "2022-11-23 20:10:22",
@@ -3263,6 +3263,22 @@
     {
       "added_at": "2022-11-23 20:10:22",
       "album": {
+        "name": "Kill the Moonlight",
+        "url": "https://open.spotify.com/album/519PD4UWRalte2kjiiPY8i"
+      },
+      "artists": [
+        {
+          "name": "Spoon",
+          "url": "https://open.spotify.com/artist/0K1q0nXQ8is36PzOKAMbNe"
+        }
+      ],
+      "duration_ms": 159386,
+      "name": "The Way We Get By",
+      "url": "https://open.spotify.com/track/2k6TManBkFAweRUCH6jYny"
+    },
+    {
+      "added_at": "2022-11-23 20:10:22",
+      "album": {
         "name": "Is a Real Boy",
         "url": "https://open.spotify.com/album/67GbWmsrvtIdOOUYRo7do7"
       },
@@ -3291,22 +3307,6 @@
       "duration_ms": 343906,
       "name": "Panic Switch",
       "url": "https://open.spotify.com/track/597i9UhHbW8hHgBUp8Tm54"
-    },
-    {
-      "added_at": "2022-11-23 20:10:22",
-      "album": {
-        "name": "Kill the Moonlight",
-        "url": "https://open.spotify.com/album/519PD4UWRalte2kjiiPY8i"
-      },
-      "artists": [
-        {
-          "name": "Spoon",
-          "url": "https://open.spotify.com/artist/0K1q0nXQ8is36PzOKAMbNe"
-        }
-      ],
-      "duration_ms": 159386,
-      "name": "The Way We Get By",
-      "url": "https://open.spotify.com/track/2k6TManBkFAweRUCH6jYny"
     },
     {
       "added_at": "2022-11-23 20:10:22",

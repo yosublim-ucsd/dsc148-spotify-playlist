@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pUgchHqyKO.md) - [plain]
 
 > Put on your cowboy hat and pull up your boots \- Luke Combs is in town! Celebrate Luke Combs’ 2023 tour with his official setlist\. Yeehaw 🤠
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,354 likes - 26 songs - 1 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,425 likes - 26 songs - 1 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,4 +35,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pUgchHqyKO.md) - [plain]
 | 25 | [The Kind of Love We Make](https://open.spotify.com/track/28n8z9IQKyjMPxmvYMBqZa) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [The Kind of Love We Make](https://open.spotify.com/album/77B78XJKo4LcsrRg34GNTu) | 3:44 |
 | 26 | [Brand New Man \- with Luke Combs](https://open.spotify.com/track/001UkMQHw4zXfFNdKpwXAF) | [Brooks & Dunn](https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz), [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Reboot](https://open.spotify.com/album/0U3nI78LUpAwprraUf7vAS) | 3:11 |
 
-Snapshot ID: `MCxkZjU3YmU4NTFhMzY4NDI5MWRmZTgxZThhZDNkMzJkNWUwNDQ2YmQx`
+Snapshot ID: `MCwzMTgxYTcxODBhNzlkN2NiODI4NGU3MjM4M2U0YzhiNWY3NGFiYWY5`

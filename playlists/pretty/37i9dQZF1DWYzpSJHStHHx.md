@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzpSJHStHHx.md) - [plain]
 
 > All new surf rock.
 
-[Spotify](https://open.spotify.com/user/spotify) - 488,452 likes - 76 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 488,436 likes - 76 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,7 +73,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzpSJHStHHx.md) - [plain]
 | 63 | [Stay Away](https://open.spotify.com/track/4pFJoK8BYWUFWYpwWIrAS1) | [Pushing Daisies](https://open.spotify.com/artist/50oSzk4RyTrGHKut0cp7IG) | [Stay Away](https://open.spotify.com/album/4i23R2GAxAEbNyvwptInnG) | 1:49 |
 | 64 | [Car Sales Men](https://open.spotify.com/track/0FyZzLlMr9ZU11D2NWmkBP) | [Media House](https://open.spotify.com/artist/6sMnrjbUXdunhzDoCUagoj) | [Car Sales Men](https://open.spotify.com/album/4O9BYxLmiGbjKfrrfSGjOU) | 3:59 |
 | 65 | [Ceviche](https://open.spotify.com/track/5HCF5NaxKCb0CniAsqvzAE) | [The Audio Visual Drop Kicks](https://open.spotify.com/artist/0eCbFQwL3GpvgaW1wrjLSI) | [Ceviche](https://open.spotify.com/album/15vi8YHbu0Lfl3o1IGI80i) | 4:05 |
-| 66 | [Wrong Orange County](https://open.spotify.com/track/0G5tNGns4fGKnMFm3RVY35) | [Northern Tides](https://open.spotify.com/artist/5RDawlMZZYVnjXvbNYziit) | [Wrong Orange County](https://open.spotify.com/album/6YK5cxmblsgGpN94WDLKm5) | 2:39 |
+| 66 | [Wrong Orange County](https://open.spotify.com/track/3iGySa8gM6bowH2BXouK9A) | [Northern Tides](https://open.spotify.com/artist/6lfjgq4CvRcQGtwdoJpLi3) | [Wrong Orange County](https://open.spotify.com/album/73sSceVG2lhbrKPnz5KE9Y) | 2:39 |
 | 67 | [On The Boulevard](https://open.spotify.com/track/7lWEi7r4v3XSwfUuDpIPFv) | [Ruby Cannon](https://open.spotify.com/artist/5Bm2GkImt8KBnUsXBwnco9) | [On The Boulevard](https://open.spotify.com/album/2cG3aIM9i7oEhEE8SawuuS) | 3:00 |
 | 68 | [Shout It From Aloud](https://open.spotify.com/track/6QhMC49OkL4KJVXOleKkjW) | [ZORB](https://open.spotify.com/artist/2Vgs3PvnxQXophunupTaRH) | [Shout It From Aloud](https://open.spotify.com/album/0OdbfDY4Uh8ymZLrj6dhg1) | 3:59 |
 | 69 | [Yes](https://open.spotify.com/track/1s0EhxGMlnR0E47dRmwFZe) | [Room Service](https://open.spotify.com/artist/2uUXIzIj1xEIyauiajWeyo) | [Things Left to Do](https://open.spotify.com/album/5kR8QkF6vQ2M8eFsiRiWSg) | 3:40 |
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzpSJHStHHx.md) - [plain]
 | 75 | [El Pollo Loco](https://open.spotify.com/track/3b0fmQkUTH4jYD7IzhbXxl) | [Seven Seventy](https://open.spotify.com/artist/5fB5DQX8yOXY0NL900eDEa) | [El Pollo Loco](https://open.spotify.com/album/2HhlSKDNrG0mtp3HN1p9UW) | 3:32 |
 | 76 | [Carol](https://open.spotify.com/track/4NX5VjHmaaFTMMSXh4LcTd) | [SweetLipp](https://open.spotify.com/artist/7tBfbnypPbK5fYNPBV0vCV) | [Carol](https://open.spotify.com/album/2HdWhxRkD2gNGVwV7Xd1X7) | 2:40 |
 
-Snapshot ID: `MCw4MzJkYjhjNmNhNjBiODcwYWI0OWQ2OWQ4YmI0Y2Y2OTIxNWZiYTlh`
+Snapshot ID: `MCw5MGI3NjI0Yzc3Mzc2NjU4Y2QxM2FkMmE2NGE0Yzc5ZWNiYTllNDIz`

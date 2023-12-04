@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSWzScBKziy.md) - [plain]
 
 > Find what's fresh & buzzing in Christian & Gospel music right here!  Cover:  K\-Anthony
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,421 likes - 100 songs - 6 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,455 likes - 100 songs - 6 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSWzScBKziy.md) - [plain]
 | 40 | [Jesus at a Distance](https://open.spotify.com/track/1dWpEnUYgYkJHMT7zXKMh4) | [Casting Crowns](https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r) | [Healer \(Deluxe\)](https://open.spotify.com/album/0WMEBJvWLGzgMMToZMitk4) | 3:49 |
 | 41 | [No Matter What](https://open.spotify.com/track/0OV98BulGkPOoLuO6ADWit) | [Jordan St\. Cyr](https://open.spotify.com/artist/4RbkVdTJEHZEfppvxBD6Il) | [Jordan St\. Cyr](https://open.spotify.com/album/0MCDpmEi7dRHtWtW9U4GXC) | 3:08 |
 | 42 | [But the Cross](https://open.spotify.com/track/0NaNbWaGY87JEfdgB3bf1B) | [Ben Fuller](https://open.spotify.com/artist/57zYbDb1zNVoTYNUGmv45d) | [Who I Am](https://open.spotify.com/album/2AQpfAuGzzPvarUVlKjjTO) | 3:19 |
-| 43 | [Good Feeling \- Radio Version](https://open.spotify.com/track/7L3dULJxns4VDBBgItRVR6) | [Austin French](https://open.spotify.com/artist/5m8b1Ofn4kNkzRV84GopBU) | [Good Feeling \(Radio Version\)](https://open.spotify.com/album/3kT4i3tkyT8FmcuAYUPJjJ) | 2:41 |
-| 44 | [He Will Hold Me Fast](https://open.spotify.com/track/4weqRLQumuxDEpFVZR3jgu) | [Keith & Kristyn Getty](https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx) | [Facing A Task Unfinished](https://open.spotify.com/album/4iaznzAVvJg550xaOBDKOz) | 5:15 |
+| 43 | [He Will Hold Me Fast](https://open.spotify.com/track/4weqRLQumuxDEpFVZR3jgu) | [Keith & Kristyn Getty](https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx) | [Facing A Task Unfinished](https://open.spotify.com/album/4iaznzAVvJg550xaOBDKOz) | 5:15 |
+| 44 | [Good Feeling \- Radio Version](https://open.spotify.com/track/7L3dULJxns4VDBBgItRVR6) | [Austin French](https://open.spotify.com/artist/5m8b1Ofn4kNkzRV84GopBU) | [Good Feeling \(Radio Version\)](https://open.spotify.com/album/3kT4i3tkyT8FmcuAYUPJjJ) | 2:41 |
 | 45 | [If The Lord Builds The House](https://open.spotify.com/track/1zpHt22QPmUe7q7MvXLovh) | [Hope Darst](https://open.spotify.com/artist/0B5924KrMyjdeYqZsPpw36) | [If The Lord Builds The House](https://open.spotify.com/album/0fYeBYxodM5uCuM2MqGsk9) | 3:55 |
 | 46 | [The Church I Grew Up In \- Live](https://open.spotify.com/track/1qbE7mV02uhmzGOTwcL6SM) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [The Church I Grew Up in \(Live\)](https://open.spotify.com/album/0FD34ZXUqyDj3NQooEi5qi) | 4:56 |
 | 47 | [Fight On My Knees](https://open.spotify.com/track/3XHP45ZQGX9aJDwmtSvyXo) | [Evan Craft](https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4) | [Fight On My Knees](https://open.spotify.com/album/2x0LzPFomEY4AmIF6hm2BZ) | 3:08 |
@@ -64,9 +64,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSWzScBKziy.md) - [plain]
 | 54 | [Hurt Is](https://open.spotify.com/track/6JFX5E32owJBYbL4OSOVtC) | [David Dunn](https://open.spotify.com/artist/57ZPJfidpxGJGkyjcmz68v) | [Hurt Is](https://open.spotify.com/album/5Q0cqBHZTVVKuyOnbDqJ1b) | 3:03 |
 | 55 | [The Healing](https://open.spotify.com/track/2At0XB6Jq68CBQLKvdRP6m) | [Blanca](https://open.spotify.com/artist/0GMSpOzEVXA4kboHiyvddO), [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz) | [The Healing](https://open.spotify.com/album/2rp4zkcLtJfaet6Yhc6YpZ) | 3:49 |
 | 56 | [Good Lord \(feat\. Katy Nichole\)](https://open.spotify.com/track/63lYvDRx5ySVsjwVzQF9YJ) | [David Leonard](https://open.spotify.com/artist/2r9qoFx4EhGP8RYFQ4eMIE), [Katy Nichole](https://open.spotify.com/artist/4sdhhi6q1Ez9l5PagQsykC) | [Good Lord](https://open.spotify.com/album/6m0JzlLDkr7eDuzB8SOXBt) | 3:22 |
-| 57 | [Only You Can Do It](https://open.spotify.com/track/0wUKaAELGGKa0M1SMhJI88) | [Chris August](https://open.spotify.com/artist/5ThfTvfTCfzJAEvtEI2Jf8) | [Only You Can Do It](https://open.spotify.com/album/5rhWXmx3zQh0z2F2bcaOV1) | 2:20 |
-| 58 | [Waking Up](https://open.spotify.com/track/4Pi5of5NI3ceSd9MAzFf9w) | [John Mark Pantana](https://open.spotify.com/artist/6cbdCv0bmLwcxSVFM7tuyG) | [Waking Up](https://open.spotify.com/album/1tSnfLnAiRj2gok0fD0Y1H) | 4:00 |
-| 59 | [Already Blessed](https://open.spotify.com/track/6EVBja1SChiDywjTRfS1Rk) | [Chidiya Ohiagu](https://open.spotify.com/artist/7H9pyCCQxjzJb9aaIsrSgp) | [Already Blessed](https://open.spotify.com/album/302vTUIId9Yy7XVI42gGiY) | 3:48 |
+| 57 | [Already Blessed](https://open.spotify.com/track/6EVBja1SChiDywjTRfS1Rk) | [Chidiya Ohiagu](https://open.spotify.com/artist/7H9pyCCQxjzJb9aaIsrSgp) | [Already Blessed](https://open.spotify.com/album/302vTUIId9Yy7XVI42gGiY) | 3:48 |
+| 58 | [Only You Can Do It](https://open.spotify.com/track/0wUKaAELGGKa0M1SMhJI88) | [Chris August](https://open.spotify.com/artist/5ThfTvfTCfzJAEvtEI2Jf8) | [Only You Can Do It](https://open.spotify.com/album/5rhWXmx3zQh0z2F2bcaOV1) | 2:20 |
+| 59 | [Waking Up](https://open.spotify.com/track/4Pi5of5NI3ceSd9MAzFf9w) | [John Mark Pantana](https://open.spotify.com/artist/6cbdCv0bmLwcxSVFM7tuyG) | [Waking Up](https://open.spotify.com/album/1tSnfLnAiRj2gok0fD0Y1H) | 4:00 |
 | 60 | [Miracle Power](https://open.spotify.com/track/0EVQYyD5xzmiEjXKRjJ8tx) | [We The Kingdom](https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest) | [Miracle Power](https://open.spotify.com/album/0tpf8K9V96KmH1vndscRZq) | 4:37 |
 | 61 | [Good News](https://open.spotify.com/track/2MZrUgL0lk5qvGsWvH7uK4) | [PEABOD](https://open.spotify.com/artist/07pdmGwYuT4ZOVDAxR6njL) | [Growing Up, Pt.2](https://open.spotify.com/album/095pCpYCaDjZF7txmFbhIr) | 3:13 |
 | 62 | [Rest On Us \- Single Version](https://open.spotify.com/track/0XLwjUJ1XEiQQ0nx7LVMZr) | [Elle Limebear](https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD) | [Rest On Us](https://open.spotify.com/album/5oijhJhsrP8CewlpbOpgiX) | 3:44 |
@@ -95,8 +95,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSWzScBKziy.md) - [plain]
 | 85 | [Say Amen](https://open.spotify.com/track/5uPjLPvofaEYditIE1mjzz) | [Jeremy Camp](https://open.spotify.com/artist/5wpEBloInversG3zp3CVAk) | [When You Speak \(Deluxe\)](https://open.spotify.com/album/4gqvwAZqd78xeSPE10MObb) | 3:36 |
 | 86 | [This Is the Day](https://open.spotify.com/track/7irqgbDHvcg4hQwhIR260Y) | [CityAlight](https://open.spotify.com/artist/4UNta2jPQJ844nyw1bsyPg) | [This Is the Day](https://open.spotify.com/album/29KW3MYzgYG4RxdqXPVoP2) | 5:25 |
 | 87 | [Bloom](https://open.spotify.com/track/1Il0XFrv9AL3u6cpgvRvSF) | [Mitch Wong](https://open.spotify.com/artist/0NmuD3IXcEGYAEX5hZxu39), [Lindy Cofer](https://open.spotify.com/artist/643zIYUXOTyNvxKia2i27I) | [Bloom](https://open.spotify.com/album/4OigF874NcgVswGDcQ85WG) | 3:06 |
-| 88 | [Known, Seen, Loved](https://open.spotify.com/track/1XMyGFBaTkXKsypEZD1dmr) | [MORIAH](https://open.spotify.com/artist/1w0QYx2G0ywsCClH84FcAv) | [Known, Seen, Loved](https://open.spotify.com/album/2vyiLc8hSAi3nDNe11CoQn) | 3:08 |
-| 89 | [If It Comes From You](https://open.spotify.com/track/1TXEoiSeCPgMfBfoc9LhZf) | [Shaylee Simeone](https://open.spotify.com/artist/0gp2s7j9MdVVkcu7UIfpHQ) | [If It Comes From You](https://open.spotify.com/album/6xMkcoUOnaZ3GtvkQIIQYA) | 4:54 |
+| 88 | [If It Comes From You](https://open.spotify.com/track/1TXEoiSeCPgMfBfoc9LhZf) | [Shaylee Simeone](https://open.spotify.com/artist/0gp2s7j9MdVVkcu7UIfpHQ) | [If It Comes From You](https://open.spotify.com/album/6xMkcoUOnaZ3GtvkQIIQYA) | 4:54 |
+| 89 | [Known, Seen, Loved](https://open.spotify.com/track/1XMyGFBaTkXKsypEZD1dmr) | [MORIAH](https://open.spotify.com/artist/1w0QYx2G0ywsCClH84FcAv) | [Known, Seen, Loved](https://open.spotify.com/album/2vyiLc8hSAi3nDNe11CoQn) | 3:08 |
 | 90 | [Anyway](https://open.spotify.com/track/5uz2zHutuRY8Rz8DEBsw6j) | [Benjamin William Hastings](https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm) | [Anyway](https://open.spotify.com/album/5X2SncUK145UKSjcTvGWKW) | 5:13 |
 | 91 | [HEY GOD](https://open.spotify.com/track/4JehmSn8qjxB3BSQSHkiwr) | [KAYDEN](https://open.spotify.com/artist/5Dq2DMerDcvcdlzPTmo6Jn), [David Ryan Cook](https://open.spotify.com/artist/0rXE8A2EXq1Z0pZPA46z0T) | [HEY GOD](https://open.spotify.com/album/16dHro8vtYbycbNct69lmT) | 2:54 |
 | 92 | [In Good Hands](https://open.spotify.com/track/2nzJmPNJj4Wki8xmdAOWhK) | [Andrew Ripp](https://open.spotify.com/artist/7oAskcd3mX9ZzxMPFHYqoN) | [In Good Hands](https://open.spotify.com/album/78YcAcIlPislZ3egxPnPOt) | 4:10 |
@@ -104,9 +104,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSWzScBKziy.md) - [plain]
 | 94 | [God Thing](https://open.spotify.com/track/0SI39fe6eJtLtLezge9veM) | [Anne Wilson](https://open.spotify.com/artist/75JvBeqW4BJ4xgnbMAq6MN) | [God Thing](https://open.spotify.com/album/1A45aq1ogAeLMNtS7ldJhW) | 3:19 |
 | 95 | [Need You](https://open.spotify.com/track/1g1gGNiGpQ8Oc83C3W6Wuq) | [Caz](https://open.spotify.com/artist/4BC0mFwxuHdoumvM6sxLDu) | [Need You](https://open.spotify.com/album/4xOxYOkrefDfXuOVenXPIl) | 3:20 |
 | 96 | [Big Tent Revival](https://open.spotify.com/track/6HwopkhVngqyPILoTSF7Cs) | [Zach Williams](https://open.spotify.com/artist/6g10GEtmIVqIQBhPZh4ScQ) | [Big Tent Revival](https://open.spotify.com/album/4lllQ22qsMsSNXECqHWwro) | 3:38 |
-| 97 | [I Came Home](https://open.spotify.com/track/0EVb9XEij2x5ZayAjCgWVe) | [VOUS Worship](https://open.spotify.com/artist/3LoDhoZo5Mkue9sAuj1KHb) | [I Met Jesus In Miami](https://open.spotify.com/album/0ne1BFbmYUj1OClXGHLp7A) | 3:50 |
+| 97 | [What He Didn't Do](https://open.spotify.com/track/6gBhJLa1VAhQCxIflUZH8R) | [Landry Cantrell](https://open.spotify.com/artist/6WYJ7U3mOA7bzOMkkkT3N6) | [Lost On Me](https://open.spotify.com/album/3jISEw2vtj2ckkBt7f5OQu) | 3:56 |
 | 98 | [Safe](https://open.spotify.com/track/4pOlyNWBQeWZwYoqnQHwEB) | [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD) | [Journey](https://open.spotify.com/album/0LWrNQc2qnMHOWAC7EA2RJ) | 4:38 |
-| 99 | [What He Didn't Do](https://open.spotify.com/track/6gBhJLa1VAhQCxIflUZH8R) | [Landry Cantrell](https://open.spotify.com/artist/6WYJ7U3mOA7bzOMkkkT3N6) | [Lost On Me](https://open.spotify.com/album/3jISEw2vtj2ckkBt7f5OQu) | 3:56 |
-| 100 | [Plans](https://open.spotify.com/track/7ylUm6UwDblnxBNFq1E0nh) | [Rend Collective](https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ) | [Plans](https://open.spotify.com/album/5p3ZxGjxM3xnGi8gzHLU6f) | 3:42 |
+| 99 | [I Came Home](https://open.spotify.com/track/0EVb9XEij2x5ZayAjCgWVe) | [VOUS Worship](https://open.spotify.com/artist/3LoDhoZo5Mkue9sAuj1KHb) | [I Met Jesus In Miami](https://open.spotify.com/album/0ne1BFbmYUj1OClXGHLp7A) | 3:50 |
+| 100 | [The Word Is Working \(Refreshed\)](https://open.spotify.com/track/2ZdIyaCMPY5fTX3GL3DYe7) | [Ada Ehi](https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt) | [The Word Is Working \(Refreshed\)](https://open.spotify.com/album/3TyFoR8keShYsZIn60RZ8d) | 6:47 |
 
-Snapshot ID: `MCw0NTNlZDNmNTlhZjQ0MTJmNjE0YmNkYzk1YTQ5NDg1NzcxMmUyMjMy`
+Snapshot ID: `MCxkZGY5OGU1YmY0NmM2NTE1M2I4NjJiN2UzYjA5NjdkNDM0MTU2NzIy`

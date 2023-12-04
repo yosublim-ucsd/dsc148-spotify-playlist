@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0OEZC3cbQmU.md) - [plain]
 
 > A palavra do Senhor na voz de grandes adoradores do Brasil\. Foto: Isadora Pompeo
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,023,054 likes - 75 songs - 7 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,023,665 likes - 75 songs - 7 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0OEZC3cbQmU.md) - [plain]
 | 74 | [Hosana \- Ao Vivo](https://open.spotify.com/track/4O7Ln8etrGytw9GzXTcwZX) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto), [Lukas Agustinho](https://open.spotify.com/artist/14IQ7niDNXIIrOSjr32E7O) | [Hosana \(Ao Vivo\)](https://open.spotify.com/album/3cplcet0CoHxlsAfh9O1UA) | 5:26 |
 | 75 | [Todos Os Meus Dias \- Ao Vivo](https://open.spotify.com/track/7vQVMorqtlcOD2vRqDTFgS) | [Gabriel Guedes de Almeida](https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB) | [Todos Os Meus Dias \(Ao Vivo\)](https://open.spotify.com/album/47ZBDaMCFQJfGJaqceUQMS) | 3:24 |
 
-Snapshot ID: `MCxlOTA5MWUxMzhlYTdjYmM1N2M2OTY1YzNhMWM5OWJkNGU1MzllZGI3`
+Snapshot ID: `MCw0YjU2MzIyMGNiNTRmZTk3Y2Y1MmE4NGViN2ZjYmFkMThjMDUyMTEx`

@@ -1,12 +1,12 @@
 {
   "description": "A mix of punk rock to get you through your workout.",
-  "num_followers": 542676,
+  "num_followers": 542696,
   "original_name": "Punk Rock Workout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MzNlNGI4MzkwYWY4ZWRjZDYyOGQ1NGFlZDUxZmE2NmZkNDlhMDJk",
+  "snapshot_id": "MCxiOTc0NmRjOTY1NWYwNjdjOTI5NzBlZDk2ODJjODg5MmU4ZTdlZTFh",
   "tracks": [
     {
       "added_at": "2020-11-20 21:27:18",
@@ -107,18 +107,22 @@
     {
       "added_at": "2020-11-20 21:27:18",
       "album": {
-        "name": "The Young and The Hopeless",
-        "url": "https://open.spotify.com/album/5CTygC3aONv7l0klY4k3hc"
+        "name": "Tickets To My Downfall",
+        "url": "https://open.spotify.com/album/57lgFncHBYu5E3igZnuCJK"
       },
       "artists": [
         {
-          "name": "Good Charlotte",
-          "url": "https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS"
+          "name": "Machine Gun Kelly",
+          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
+        },
+        {
+          "name": "blackbear",
+          "url": "https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM"
         }
       ],
-      "duration_ms": 175093,
-      "name": "The Anthem",
-      "url": "https://open.spotify.com/track/0BRHnOFm6sjxN1i9LJrUDu"
+      "duration_ms": 139460,
+      "name": "my ex's best friend (with blackbear)",
+      "url": "https://open.spotify.com/track/7kDUspsoYfLkWnZR7qwHZl"
     },
     {
       "added_at": "2020-11-20 21:27:18",
@@ -155,22 +159,18 @@
     {
       "added_at": "2020-11-20 21:27:18",
       "album": {
-        "name": "Tickets To My Downfall",
-        "url": "https://open.spotify.com/album/57lgFncHBYu5E3igZnuCJK"
+        "name": "The Young and The Hopeless",
+        "url": "https://open.spotify.com/album/5CTygC3aONv7l0klY4k3hc"
       },
       "artists": [
         {
-          "name": "Machine Gun Kelly",
-          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
-        },
-        {
-          "name": "blackbear",
-          "url": "https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM"
+          "name": "Good Charlotte",
+          "url": "https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS"
         }
       ],
-      "duration_ms": 139460,
-      "name": "my ex's best friend (with blackbear)",
-      "url": "https://open.spotify.com/track/7kDUspsoYfLkWnZR7qwHZl"
+      "duration_ms": 175093,
+      "name": "The Anthem",
+      "url": "https://open.spotify.com/track/0BRHnOFm6sjxN1i9LJrUDu"
     },
     {
       "added_at": "2020-11-20 21:27:18",
@@ -255,6 +255,26 @@
     {
       "added_at": "2020-11-20 21:27:18",
       "album": {
+        "name": "Tickets To My Downfall",
+        "url": "https://open.spotify.com/album/57lgFncHBYu5E3igZnuCJK"
+      },
+      "artists": [
+        {
+          "name": "Machine Gun Kelly",
+          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
+        },
+        {
+          "name": "Halsey",
+          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
+        }
+      ],
+      "duration_ms": 171620,
+      "name": "forget me too (feat. Halsey)",
+      "url": "https://open.spotify.com/track/1VSuFS7PahCN3SWbOcQ98m"
+    },
+    {
+      "added_at": "2020-11-20 21:27:18",
+      "album": {
         "name": "The Sufferer & The Witness",
         "url": "https://open.spotify.com/album/1VZ0i4vJ0AkPbmpuaktZMJ"
       },
@@ -267,22 +287,6 @@
       "duration_ms": 199386,
       "name": "Prayer Of The Refugee",
       "url": "https://open.spotify.com/track/4OSbctVD37ycS0H3rwRm72"
-    },
-    {
-      "added_at": "2020-11-20 21:27:18",
-      "album": {
-        "name": "Bleed American",
-        "url": "https://open.spotify.com/album/0UJhhj5bn5AGAjryFnhueP"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Eat World",
-          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
-        }
-      ],
-      "duration_ms": 181493,
-      "name": "Bleed American",
-      "url": "https://open.spotify.com/track/61XspFITuKmAlYdQacNCbF"
     },
     {
       "added_at": "2020-11-20 21:27:18",
@@ -303,22 +307,18 @@
     {
       "added_at": "2020-11-20 21:27:18",
       "album": {
-        "name": "Tickets To My Downfall",
-        "url": "https://open.spotify.com/album/57lgFncHBYu5E3igZnuCJK"
+        "name": "Bleed American",
+        "url": "https://open.spotify.com/album/0UJhhj5bn5AGAjryFnhueP"
       },
       "artists": [
         {
-          "name": "Machine Gun Kelly",
-          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
-        },
-        {
-          "name": "Halsey",
-          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
+          "name": "Jimmy Eat World",
+          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
         }
       ],
-      "duration_ms": 171620,
-      "name": "forget me too (feat. Halsey)",
-      "url": "https://open.spotify.com/track/1VSuFS7PahCN3SWbOcQ98m"
+      "duration_ms": 181493,
+      "name": "Bleed American",
+      "url": "https://open.spotify.com/track/61XspFITuKmAlYdQacNCbF"
     },
     {
       "added_at": "2020-11-20 21:27:18",
@@ -355,22 +355,6 @@
     {
       "added_at": "2020-11-20 21:27:18",
       "album": {
-        "name": "Does This Look Infected?",
-        "url": "https://open.spotify.com/album/2kLmv0O8blKeM5HKxLtQrC"
-      },
-      "artists": [
-        {
-          "name": "Sum 41",
-          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
-        }
-      ],
-      "duration_ms": 158733,
-      "name": "Still Waiting",
-      "url": "https://open.spotify.com/track/2OMqSRS11ly56zg9u5za6c"
-    },
-    {
-      "added_at": "2020-11-20 21:27:18",
-      "album": {
         "name": "We The Kings",
         "url": "https://open.spotify.com/album/34lYm54X8P7MO9LezUTmQL"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 220146,
       "name": "Check Yes, Juliet",
       "url": "https://open.spotify.com/track/7N2PNxzZXxCdAHiAfsklhT"
+    },
+    {
+      "added_at": "2020-11-20 21:27:18",
+      "album": {
+        "name": "Does This Look Infected?",
+        "url": "https://open.spotify.com/album/2kLmv0O8blKeM5HKxLtQrC"
+      },
+      "artists": [
+        {
+          "name": "Sum 41",
+          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
+        }
+      ],
+      "duration_ms": 158733,
+      "name": "Still Waiting",
+      "url": "https://open.spotify.com/track/2OMqSRS11ly56zg9u5za6c"
     },
     {
       "added_at": "2020-11-20 21:27:18",
@@ -435,22 +435,6 @@
     {
       "added_at": "2020-11-20 21:27:18",
       "album": {
-        "name": "Lights And Sounds",
-        "url": "https://open.spotify.com/album/5EaEOUs3O1MZRicDMUIuqo"
-      },
-      "artists": [
-        {
-          "name": "Yellowcard",
-          "url": "https://open.spotify.com/artist/3zxKH0qp3nBCuPZCZT5Vaf"
-        }
-      ],
-      "duration_ms": 208186,
-      "name": "Lights And Sounds",
-      "url": "https://open.spotify.com/track/4XOZaPYeMn9hcbpyS90NnD"
-    },
-    {
-      "added_at": "2020-11-20 21:27:18",
-      "album": {
         "name": "SIGNED and SEALED in BLOOD",
         "url": "https://open.spotify.com/album/5YYbg2ZO8rK84Zf4Z5yWPJ"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 306520,
       "name": "Rose Tattoo",
       "url": "https://open.spotify.com/track/4bLKGUkVRxIyrN1770DdDm"
+    },
+    {
+      "added_at": "2020-11-20 21:27:18",
+      "album": {
+        "name": "Lights And Sounds",
+        "url": "https://open.spotify.com/album/5EaEOUs3O1MZRicDMUIuqo"
+      },
+      "artists": [
+        {
+          "name": "Yellowcard",
+          "url": "https://open.spotify.com/artist/3zxKH0qp3nBCuPZCZT5Vaf"
+        }
+      ],
+      "duration_ms": 208186,
+      "name": "Lights And Sounds",
+      "url": "https://open.spotify.com/track/4XOZaPYeMn9hcbpyS90NnD"
     },
     {
       "added_at": "2020-11-20 21:27:18",
@@ -515,22 +515,6 @@
     {
       "added_at": "2020-11-20 21:27:18",
       "album": {
-        "name": "Does This Look Infected?",
-        "url": "https://open.spotify.com/album/2kLmv0O8blKeM5HKxLtQrC"
-      },
-      "artists": [
-        {
-          "name": "Sum 41",
-          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
-        }
-      ],
-      "duration_ms": 198493,
-      "name": "The Hell Song",
-      "url": "https://open.spotify.com/track/17XgxMFNzBYv38TEJRC18D"
-    },
-    {
-      "added_at": "2020-11-20 21:27:18",
-      "album": {
         "name": "Land Of The Free?",
         "url": "https://open.spotify.com/album/6oEh869vJQY1QdfZlVQ0ly"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 196120,
       "name": "Fuck Authority",
       "url": "https://open.spotify.com/track/3Id64dLhfH7z0mmcylxuNp"
+    },
+    {
+      "added_at": "2020-11-20 21:27:18",
+      "album": {
+        "name": "Does This Look Infected?",
+        "url": "https://open.spotify.com/album/2kLmv0O8blKeM5HKxLtQrC"
+      },
+      "artists": [
+        {
+          "name": "Sum 41",
+          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
+        }
+      ],
+      "duration_ms": 198493,
+      "name": "The Hell Song",
+      "url": "https://open.spotify.com/track/17XgxMFNzBYv38TEJRC18D"
     },
     {
       "added_at": "2021-07-08 22:59:55",
@@ -627,22 +627,6 @@
     {
       "added_at": "2020-11-20 21:27:18",
       "album": {
-        "name": "I Am Human",
-        "url": "https://open.spotify.com/album/2otpfrHaD6vNXhQPvAbJIU"
-      },
-      "artists": [
-        {
-          "name": "Escape the Fate",
-          "url": "https://open.spotify.com/artist/5ojhEavq6altxW8fWIlLum"
-        }
-      ],
-      "duration_ms": 187371,
-      "name": "Broken Heart",
-      "url": "https://open.spotify.com/track/0lKNxyT9fCChvnnjthRVkb"
-    },
-    {
-      "added_at": "2020-11-20 21:27:18",
-      "album": {
         "name": "Hits Back",
         "url": "https://open.spotify.com/album/3Zkggi5I9uH5x94DuN6u1S"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 163240,
       "name": "I Fought the Law",
       "url": "https://open.spotify.com/track/7lSDCrF11sdTVfjbAQVZE8"
+    },
+    {
+      "added_at": "2020-11-20 21:27:18",
+      "album": {
+        "name": "I Am Human",
+        "url": "https://open.spotify.com/album/2otpfrHaD6vNXhQPvAbJIU"
+      },
+      "artists": [
+        {
+          "name": "Escape the Fate",
+          "url": "https://open.spotify.com/artist/5ojhEavq6altxW8fWIlLum"
+        }
+      ],
+      "duration_ms": 187371,
+      "name": "Broken Heart",
+      "url": "https://open.spotify.com/track/0lKNxyT9fCChvnnjthRVkb"
     },
     {
       "added_at": "2020-11-20 21:27:18",
@@ -675,22 +675,6 @@
     {
       "added_at": "2020-11-20 21:27:18",
       "album": {
-        "name": "Order In Decline",
-        "url": "https://open.spotify.com/album/7j11BWRSLFBFUVR4EPG6WD"
-      },
-      "artists": [
-        {
-          "name": "Sum 41",
-          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
-        }
-      ],
-      "duration_ms": 216571,
-      "name": "Out For Blood",
-      "url": "https://open.spotify.com/track/30XUVaCG8ghAiE45SnXLhn"
-    },
-    {
-      "added_at": "2020-11-20 21:27:18",
-      "album": {
         "name": "Pennywise (2005 Remaster)",
         "url": "https://open.spotify.com/album/5NHEi9LvFF2IEOct2BTUMt"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 180893,
       "name": "Bro Hymn - 2005 Remaster",
       "url": "https://open.spotify.com/track/1ybhXkz4S8k9fdBZNBan7L"
+    },
+    {
+      "added_at": "2020-11-20 21:27:18",
+      "album": {
+        "name": "Order In Decline",
+        "url": "https://open.spotify.com/album/7j11BWRSLFBFUVR4EPG6WD"
+      },
+      "artists": [
+        {
+          "name": "Sum 41",
+          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
+        }
+      ],
+      "duration_ms": 216571,
+      "name": "Out For Blood",
+      "url": "https://open.spotify.com/track/30XUVaCG8ghAiE45SnXLhn"
     },
     {
       "added_at": "2020-11-20 21:27:18",
@@ -867,22 +867,6 @@
     {
       "added_at": "2020-11-20 21:27:18",
       "album": {
-        "name": "Father of All...",
-        "url": "https://open.spotify.com/album/7ij8wQxCAexZiXZbMOHcxE"
-      },
-      "artists": [
-        {
-          "name": "Green Day",
-          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
-        }
-      ],
-      "duration_ms": 151362,
-      "name": "Father of All...",
-      "url": "https://open.spotify.com/track/17C1AVZVh5jhJU4eAcovpl"
-    },
-    {
-      "added_at": "2020-11-20 21:27:18",
-      "album": {
         "name": "Skinny Dipping",
         "url": "https://open.spotify.com/album/5SsU0tZD4YMXJZqHzUsd0F"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 204253,
       "name": "Lavender Bones",
       "url": "https://open.spotify.com/track/11RX9JI2RFo70n5XH8U3Mk"
+    },
+    {
+      "added_at": "2020-11-20 21:27:18",
+      "album": {
+        "name": "Father of All...",
+        "url": "https://open.spotify.com/album/7ij8wQxCAexZiXZbMOHcxE"
+      },
+      "artists": [
+        {
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+        }
+      ],
+      "duration_ms": 151362,
+      "name": "Father of All...",
+      "url": "https://open.spotify.com/track/17C1AVZVh5jhJU4eAcovpl"
     },
     {
       "added_at": "2020-11-20 21:27:18",
@@ -1141,24 +1141,20 @@
       "url": "https://open.spotify.com/track/4v2Bq0xDB7uNN73I5b44Du"
     },
     {
-      "added_at": "2021-07-08 22:59:55",
+      "added_at": "2020-11-20 21:27:18",
       "album": {
-        "name": "deathwish (feat. nothing,nowhere.)",
-        "url": "https://open.spotify.com/album/04tqbIcuZwsGL5Ut22eOKw"
+        "name": "Pink Elephant",
+        "url": "https://open.spotify.com/album/7mSFPsjZjTx8K1UmtDSQPu"
       },
       "artists": [
         {
           "name": "Stand Atlantic",
           "url": "https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh"
-        },
-        {
-          "name": "nothing,nowhere.",
-          "url": "https://open.spotify.com/artist/7FngGIEGgN3Iwauw1MvO4P"
         }
       ],
-      "duration_ms": 147907,
-      "name": "deathwish (feat. nothing,nowhere.)",
-      "url": "https://open.spotify.com/track/4pi7qRGw2DDKAJMGHGcZ2O"
+      "duration_ms": 233453,
+      "name": "Hate Me (Sometimes)",
+      "url": "https://open.spotify.com/track/69Y6dB1U7AZ0FfDdzol6ir"
     },
     {
       "added_at": "2020-11-20 21:27:18",
@@ -1199,22 +1195,6 @@
     {
       "added_at": "2020-11-20 21:27:18",
       "album": {
-        "name": "Into the Raging Sea",
-        "url": "https://open.spotify.com/album/668M0j58jceb2KVxomANs6"
-      },
-      "artists": [
-        {
-          "name": "Broadside",
-          "url": "https://open.spotify.com/artist/7EGdqeEDe7WMqOVyDFUYyo"
-        }
-      ],
-      "duration_ms": 221539,
-      "name": "Foolish Believer",
-      "url": "https://open.spotify.com/track/1b4ObYUAxvigL7kOw6rBdL"
-    },
-    {
-      "added_at": "2020-11-20 21:27:18",
-      "album": {
         "name": "Mindreader",
         "url": "https://open.spotify.com/album/0jbugiJKa2cibYeQktz5MQ"
       },
@@ -1243,6 +1223,22 @@
       "duration_ms": 166673,
       "name": "Man Overboard",
       "url": "https://open.spotify.com/track/72iJsJMdTGjshAZdNJbSKU"
+    },
+    {
+      "added_at": "2020-11-20 21:27:18",
+      "album": {
+        "name": "Into the Raging Sea",
+        "url": "https://open.spotify.com/album/668M0j58jceb2KVxomANs6"
+      },
+      "artists": [
+        {
+          "name": "Broadside",
+          "url": "https://open.spotify.com/artist/7EGdqeEDe7WMqOVyDFUYyo"
+        }
+      ],
+      "duration_ms": 221539,
+      "name": "Foolish Believer",
+      "url": "https://open.spotify.com/track/1b4ObYUAxvigL7kOw6rBdL"
     },
     {
       "added_at": "2020-11-20 21:27:18",
@@ -1309,20 +1305,24 @@
       "url": "https://open.spotify.com/track/402Ecma69MRxeQK6ml6YbI"
     },
     {
-      "added_at": "2020-11-20 21:27:18",
+      "added_at": "2021-07-08 22:59:55",
       "album": {
-        "name": "Pink Elephant",
-        "url": "https://open.spotify.com/album/7mSFPsjZjTx8K1UmtDSQPu"
+        "name": "deathwish (feat. nothing,nowhere.)",
+        "url": "https://open.spotify.com/album/04tqbIcuZwsGL5Ut22eOKw"
       },
       "artists": [
         {
           "name": "Stand Atlantic",
           "url": "https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh"
+        },
+        {
+          "name": "nothing,nowhere.",
+          "url": "https://open.spotify.com/artist/7FngGIEGgN3Iwauw1MvO4P"
         }
       ],
-      "duration_ms": 233453,
-      "name": "Hate Me (Sometimes)",
-      "url": "https://open.spotify.com/track/69Y6dB1U7AZ0FfDdzol6ir"
+      "duration_ms": 147907,
+      "name": "deathwish (feat. nothing,nowhere.)",
+      "url": "https://open.spotify.com/track/4pi7qRGw2DDKAJMGHGcZ2O"
     },
     {
       "added_at": "2020-11-20 21:27:18",
@@ -1575,22 +1575,6 @@
     {
       "added_at": "2020-11-20 21:27:18",
       "album": {
-        "name": "Lost Touch",
-        "url": "https://open.spotify.com/album/768qzd6dkobekdNcDtw8np"
-      },
-      "artists": [
-        {
-          "name": "We Were Sharks",
-          "url": "https://open.spotify.com/artist/5VJPxda81cx3ZGltjWM36I"
-        }
-      ],
-      "duration_ms": 154971,
-      "name": "Hotel Beds",
-      "url": "https://open.spotify.com/track/4HvBQhvil6T5ISq1qr5u03"
-    },
-    {
-      "added_at": "2020-11-20 21:27:18",
-      "album": {
         "name": "Afterburner",
         "url": "https://open.spotify.com/album/0K8VeEO164P3ctndsCzs6U"
       },
@@ -1603,6 +1587,22 @@
       "duration_ms": 221241,
       "name": "One in a Million",
       "url": "https://open.spotify.com/track/3FadCH3vql11UfyCLSXiU4"
+    },
+    {
+      "added_at": "2020-11-20 21:27:18",
+      "album": {
+        "name": "Lost Touch",
+        "url": "https://open.spotify.com/album/768qzd6dkobekdNcDtw8np"
+      },
+      "artists": [
+        {
+          "name": "We Were Sharks",
+          "url": "https://open.spotify.com/artist/5VJPxda81cx3ZGltjWM36I"
+        }
+      ],
+      "duration_ms": 154971,
+      "name": "Hotel Beds",
+      "url": "https://open.spotify.com/track/4HvBQhvil6T5ISq1qr5u03"
     },
     {
       "added_at": "2020-11-20 21:27:18",

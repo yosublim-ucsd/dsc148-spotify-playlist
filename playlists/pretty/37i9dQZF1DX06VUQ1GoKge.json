@@ -1,12 +1,12 @@
 {
   "description": "Attribute to the strength built through the years, as Robb would say.",
-  "num_followers": 561066,
+  "num_followers": 561018,
   "original_name": "Blood, Sweat & Cheers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MTgyZDUzODg3NjQ2MDVmZmNlMzg3OTRmODVkOTJlMzUyOTE1NDRm",
+  "snapshot_id": "MCw0ZjNkNzhkZWY5MmY4MTJjNDExYTMxNjk2YTE3MWVhODc3NWI2YTE4",
   "tracks": [
     {
       "added_at": "2023-11-30 20:35:14",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2023-11-30 20:35:14",
       "album": {
-        "name": "Scars (Expanded Edition)",
-        "url": "https://open.spotify.com/album/2XLiRCMRy5WuuF373tKBZ8"
-      },
-      "artists": [
-        {
-          "name": "Soil",
-          "url": "https://open.spotify.com/artist/4PoYwGOztIrPpBfRIlMSxP"
-        }
-      ],
-      "duration_ms": 195653,
-      "name": "Halo",
-      "url": "https://open.spotify.com/track/1QixTwDZCcfBzA7QMyont0"
-    },
-    {
-      "added_at": "2023-11-30 20:35:14",
-      "album": {
         "name": "Fatalism",
         "url": "https://open.spotify.com/album/6yMmUKkAfVoHJT71ZpoBi5"
       },
@@ -1307,6 +1291,22 @@
       "duration_ms": 239291,
       "name": "Inhumane",
       "url": "https://open.spotify.com/track/4JpUHYV5xwiBHx9wnTSjh1"
+    },
+    {
+      "added_at": "2023-11-30 20:35:14",
+      "album": {
+        "name": "Scars (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2XLiRCMRy5WuuF373tKBZ8"
+      },
+      "artists": [
+        {
+          "name": "Soil",
+          "url": "https://open.spotify.com/artist/4PoYwGOztIrPpBfRIlMSxP"
+        }
+      ],
+      "duration_ms": 195653,
+      "name": "Halo",
+      "url": "https://open.spotify.com/track/1QixTwDZCcfBzA7QMyont0"
     },
     {
       "added_at": "2023-11-30 20:35:14",
@@ -1607,18 +1607,18 @@
     {
       "added_at": "2023-11-30 20:35:14",
       "album": {
-        "name": "Dark Passion Play",
-        "url": "https://open.spotify.com/album/4oOfQhhbHBfIcIDwuJjwTy"
+        "name": "Nightmare Logic",
+        "url": "https://open.spotify.com/album/3suNG9n4WGYQabXhUTkQ70"
       },
       "artists": [
         {
-          "name": "Nightwish",
-          "url": "https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1"
+          "name": "Power Trip",
+          "url": "https://open.spotify.com/artist/3TmaQHOfq1olDKHtE38zYT"
         }
       ],
-      "duration_ms": 231444,
-      "name": "Amaranth",
-      "url": "https://open.spotify.com/track/1vzqcPRQ6P1Uw7NZ5M77wJ"
+      "duration_ms": 225245,
+      "name": "Executioner's Tax (Swing of the Axe)",
+      "url": "https://open.spotify.com/track/1kbwEcixFWVj5dFO9Kso3J"
     }
   ],
   "unique_name": "Blood, Sweat & Cheers",

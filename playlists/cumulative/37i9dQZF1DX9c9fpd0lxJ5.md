@@ -4,7 +4,7 @@
 
 > indie tunes to make you shine bby :\)
 
-211 songs - 11 hr 51 min
+212 songs - 11 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -141,6 +141,7 @@
 | [Nostalgia](https://open.spotify.com/track/3wwHxBjK4Y1IohNUVgwX31) | [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Nostalgia](https://open.spotify.com/album/056KBSR2KBMankHXTbizsL) | 2:55 | 2021-12-29 |  |
 | [Nunca Tristes \(Me Vale Madre\)](https://open.spotify.com/track/3LWay44eeYFEh27Gf1UA7J) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Nunca Tristes \(Me Vale Madre\)](https://open.spotify.com/album/5YoNvYemEqvFVdWicpjPe8) | 3:24 | 2022-12-02 | 2023-08-05 |
 | [ojitos caramelo \- Remix](https://open.spotify.com/track/3IQY6p8CS54KVq1Od2ZrQZ) | [Gala Nell](https://open.spotify.com/artist/4CVNESQIOFNvurriZVBarY), [Charlie Rodd](https://open.spotify.com/artist/2vylKAxeoJ2dAwIi9ck762), [Ivana](https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ) | [ojitos caramelo \(Remix\)](https://open.spotify.com/album/0TSnNs3JqtmICglBkojDID) | 2:24 | 2023-03-17 |  |
+| [Otros Ritmos](https://open.spotify.com/track/090MzGykdRx3XjeQAuUOlE) | [Adrian Bello](https://open.spotify.com/artist/0ZwjmGhps2YvUMzB7ihFV8) | [Otros Ritmos](https://open.spotify.com/album/04s9wRdnHcOxBsz2swbiNc) | 3:42 | 2023-12-01 |  |
 | [Our Devices Own](https://open.spotify.com/track/0PhdahpDZ1bTXo7KyByzNj) | [Cienfue](https://open.spotify.com/artist/0hPQfsafhd7umQTz29DCiT), [Van Arro](https://open.spotify.com/artist/439Y7cCZKrYYToCxmrxiLg) | [Our Devices Own](https://open.spotify.com/album/4Kc8mvpbOy8ZKggA0QO2LO) | 3:53 | 2021-12-29 | 2022-07-28 |
 | [Para No Verte Más](https://open.spotify.com/track/1gzbiNMJlLlMISFKaZc7yu) | [Planeta No](https://open.spotify.com/artist/47hetBUhKhfBmk8nXeriqN) | [Para No Verte Más](https://open.spotify.com/album/5pM0YNN8lzjKLlH8aeXhus) | 3:05 | 2021-12-29 |  |
 | [Paraíso](https://open.spotify.com/track/0YqJFO4bUZn1chzZ6KR9l9) | [Monogem](https://open.spotify.com/artist/4rNzwpjkFq8A7SeCMKBkEV) | [Paraíso](https://open.spotify.com/album/4X61CX0485026hU97ZPc57) | 3:52 | 2021-12-29 | 2022-10-14 |
@@ -217,7 +218,7 @@
 | [Where Do You Go?](https://open.spotify.com/track/2T9810jw3SFTcQtHL89utw) | [Leanys](https://open.spotify.com/artist/0e1Zih19iuVEnhZPOuqL9V) | [Where Do You Go?](https://open.spotify.com/album/0mgwFqh3CUu9DAX9HBvXpq) | 2:27 | 2023-08-04 |  |
 | [Ya no nos hablamos](https://open.spotify.com/track/3KjIRxUv81zmSqiphtRxGp) | [Veintiuno](https://open.spotify.com/artist/2k60o7SVpOKmzpuTEAG3L8), [Silvestre y La Naranja](https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO) | [Ya no nos hablamos](https://open.spotify.com/album/2POquPZMJWFB1SocRQGW9A) | 3:35 | 2023-10-06 |  |
 | [¿A Dónde Vas?](https://open.spotify.com/track/7wzsI1Gca3y33WE2FhN45m) | [La Isla Centeno](https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L) | [Miocarditis](https://open.spotify.com/album/7gohod4Ik5cAHMLXRSoJ9j) | 3:40 | 2021-12-29 | 2023-04-19 |
-| [¿Pa Qué?](https://open.spotify.com/track/4eReQpWfpFVEKrWyynpadO) | [Letón Pé](https://open.spotify.com/artist/76LJ0AYW9sxNGRfKnag1vO), [Chøby](https://open.spotify.com/artist/6xsIIOuNuBj1Lvmcn87fQd) | [¿Pa Qué?](https://open.spotify.com/album/1aBwufMjzi19BkmB4tkapq) | 3:22 | 2022-06-15 |  |
+| [¿Pa Qué?](https://open.spotify.com/track/4eReQpWfpFVEKrWyynpadO) | [Letón Pé](https://open.spotify.com/artist/76LJ0AYW9sxNGRfKnag1vO), [Chøby](https://open.spotify.com/artist/6xsIIOuNuBj1Lvmcn87fQd) | [¿Pa Qué?](https://open.spotify.com/album/1aBwufMjzi19BkmB4tkapq) | 3:22 | 2022-06-15 | 2023-12-04 |
 | [¿Pa Qué?](https://open.spotify.com/track/6lOYaF4qJxk3woJ0YVCVgu) | [Letón Pé](https://open.spotify.com/artist/76LJ0AYW9sxNGRfKnag1vO), [Chøby](https://open.spotify.com/artist/6xsIIOuNuBj1Lvmcn87fQd) | [¿Pa Qué?](https://open.spotify.com/album/4qwDq324z7bZ2IZ9Rq5hM1) | 3:22 | 2021-12-29 | 2022-07-29 |
 
 \*This playlist was first scraped on 2021-12-30. Prior content cannot be recovered.

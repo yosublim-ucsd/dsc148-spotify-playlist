@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4s3V2rTswzO.md) - [plain]
 
 > Set the scene for romance with beautiful classical music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 449,334 likes - 51 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 449,396 likes - 51 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4s3V2rTswzO.md) - [plain]
 | 20 | [The Carnival of the Animals, R\. 125: XIII\. The Swan \(Arr\. for Cello and Piano\)](https://open.spotify.com/track/0jOnZhF75V68VsBObWx2XO) | [Camille Saint\-Saëns](https://open.spotify.com/artist/436sYg6CZhNefQJogaXeK0), [Yo\-Yo Ma](https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk), [Kathryn Stott](https://open.spotify.com/artist/7JmDqds7Y1LRSWZVM8e0Og) | [Songs from the Arc of Life](https://open.spotify.com/album/2y85NsbsBnGTXcXgHpj3PD) | 2:54 |
 | 21 | [Bach: Arioso \(Arr\. Cortot After Harpsichord Concerto No\. 5 in F Minor, BWV 1056\)](https://open.spotify.com/track/5xfujtIVvNc4ieq441J8NJ) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Dong Hyek Lim](https://open.spotify.com/artist/3Iu4Pq63V1WcBWrNNthgPP) | [Bach: Arioso \(Arr\. Cortot After Harpsichord Concerto No\. 5 in F Minor, BWV 1056\)](https://open.spotify.com/album/4HgNY10OgAjf7mKvcLPRDA) | 2:54 |
 | 22 | [The Lily \- Piano Version](https://open.spotify.com/track/7rcUjAbjRTbatpdYH5rEmx) | [Gabríel Ólafs](https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB) | [Solon Islandus \(Deluxe\)](https://open.spotify.com/album/70KIVTNVTj77svaPJ3C9za) | 1:56 |
-| 23 | [Clarinet Concerto in A Major, K\. 622: Clarinet Concerto in A Major, K\. 622/II\. Adagio](https://open.spotify.com/track/70h1nYoPh4869FrsT9IILv) | [Wolfgang Amadeus Mozart](https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS), [Martin Fröst](https://open.spotify.com/artist/3HmzM7c3S5iM1jBG3gl0FF), [Swedish Chamber Orchestra](https://open.spotify.com/artist/1mlMBjVFn5oeZLAXHIM5no) | [Mozart: Ecstasy & Abyss \[PRAGUE, 1791\]](https://open.spotify.com/album/2c69Z15sDrOpOpCJmPPPgI) | 6:51 |
+| 23 | [Clarinet Concerto in A Major, K\. 622: II\. Adagio](https://open.spotify.com/track/70h1nYoPh4869FrsT9IILv) | [Wolfgang Amadeus Mozart](https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS), [Martin Fröst](https://open.spotify.com/artist/3HmzM7c3S5iM1jBG3gl0FF), [Swedish Chamber Orchestra](https://open.spotify.com/artist/1mlMBjVFn5oeZLAXHIM5no) | [Mozart: Ecstasy & Abyss \[PRAGUE, 1791\]](https://open.spotify.com/album/2c69Z15sDrOpOpCJmPPPgI) | 6:51 |
 | 24 | [Sechs Klavierstücke, Op\. 118: II\. Intermezzo in A Major](https://open.spotify.com/track/1Oo7XEqkrwifJn17aA0ocF) | [Johannes Brahms](https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq), [Arcadi Volodos](https://open.spotify.com/artist/2DG9aIMzcln3w7SIVGGnmg) | [Volodos Plays Brahms](https://open.spotify.com/album/1zWSdYsAlF38LhpcMEthzO) | 6:18 |
 | 25 | [Sarabande](https://open.spotify.com/track/2iHfxxA58scvsi5P0L1B4i) | [Robert de Visée](https://open.spotify.com/artist/4br5HVmW3Xed5Zvffl0RSU), [Toby Carr](https://open.spotify.com/artist/5zNhfoSYfBlwIffqIExoB3) | [Sarabande](https://open.spotify.com/album/7pTnWPUbgVoojmLt3mwZRR) | 2:12 |
 | 26 | [Beau soir, L\. 6 \(Arranged for Violin and Piano by Jascha Heifetz\)](https://open.spotify.com/track/1DsqYVJjTCfYmxOnlDPQPr) | [Claude Debussy](https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP), [Joshua Bell](https://open.spotify.com/artist/3Ka1nDpDzxDveEqUPzIeom) | [Voice of the Violin](https://open.spotify.com/album/1BXO57T2KEgCS6ca9tlmZ6) | 2:27 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4s3V2rTswzO.md) - [plain]
 | 50 | [The Poetry Of Wind And Waves](https://open.spotify.com/track/3o9Yhvfzz2M7vpznPrCmFi) | [Rob Grant](https://open.spotify.com/artist/5Y1ry2fgj4VzEjWndZu8Rw) | [The Poetry Of Wind And Waves](https://open.spotify.com/album/7CENd1RU98aqawftWBefgk) | 2:30 |
 | 51 | [Peer Gynt, Op\. 23: Solveig's Song \(Arr\. for Violin and Piano by Charlie Siem\)](https://open.spotify.com/track/4ghT12J2hsyfn0JZ4RDWrf) | [Edvard Grieg](https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy), [Charlie Siem](https://open.spotify.com/artist/3knr6OYOZpM3DI8pBOAfAS), [Itamar Golan](https://open.spotify.com/artist/2idBst8P3vn2RRBc3UOcwu) | [Vaughan Williams and Grieg: Violin Sonatas](https://open.spotify.com/album/0WufA4zaVLfu1VDwyyK8SZ) | 4:49 |
 
-Snapshot ID: `MCw4ZDlmYzcxMzUxZDliNjRlYzNkMWQzZTVkNzAyMTFjMTc1ODZkZGVj`
+Snapshot ID: `MCw0NDBhNTg3MjI3MmMyMGVlN2Y1N2RiNjM3NDc3MDRlMDFhMDllMTVk`

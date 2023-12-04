@@ -1,12 +1,12 @@
 {
   "description": "Para subir la temperatura. Foto: Lebr\u00f3n Brothers",
-  "num_followers": 71783,
+  "num_followers": 71852,
   "original_name": "Salsa Brava",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMTNmY2ExZDdlOTY0YzM4ZDhkMGVkYzUzMjY5ZGNhMDIyZDBkYjNi",
+  "snapshot_id": "MCw4ZmI0ZTdiYmNmYmYxYjBjZWU4Mjc3OGQ4YmE1YWY3MzMwNTM3NGE3",
   "tracks": [
     {
       "added_at": "2022-01-11 21:31:49",
@@ -699,22 +699,6 @@
     {
       "added_at": "2022-01-11 21:31:49",
       "album": {
-        "name": "Acid",
-        "url": "https://open.spotify.com/album/0RpE6Nz3Cyb7gx2CpC5dJn"
-      },
-      "artists": [
-        {
-          "name": "Ray Barretto",
-          "url": "https://open.spotify.com/artist/2h4ndKS2vRWeFLpq8ARu0D"
-        }
-      ],
-      "duration_ms": 307173,
-      "name": "Acid",
-      "url": "https://open.spotify.com/track/4J4S8Fm2BJt59zPWygsbpr"
-    },
-    {
-      "added_at": "2022-01-11 21:31:49",
-      "album": {
         "name": "Sabor",
         "url": "https://open.spotify.com/album/4sJYlpxdpG1nnResKUbAKD"
       },
@@ -731,18 +715,18 @@
     {
       "added_at": "2022-01-11 21:31:49",
       "album": {
-        "name": "Picadillo A La Criolla",
-        "url": "https://open.spotify.com/album/5YSx10FSWV3fsoO0tAuvNv"
+        "name": "Acid",
+        "url": "https://open.spotify.com/album/0RpE6Nz3Cyb7gx2CpC5dJn"
       },
       "artists": [
         {
-          "name": "Lebr\u00f3n Brothers",
-          "url": "https://open.spotify.com/artist/3MeSOWo9ZSTe5Esf66uXam"
+          "name": "Ray Barretto",
+          "url": "https://open.spotify.com/artist/2h4ndKS2vRWeFLpq8ARu0D"
         }
       ],
-      "duration_ms": 290960,
-      "name": "Temperatura",
-      "url": "https://open.spotify.com/track/1Iv6gLvrLTOCGzNGf1txYo"
+      "duration_ms": 307173,
+      "name": "Acid",
+      "url": "https://open.spotify.com/track/4J4S8Fm2BJt59zPWygsbpr"
     },
     {
       "added_at": "2022-01-11 21:31:49",
@@ -759,6 +743,22 @@
       "duration_ms": 289960,
       "name": "Estamos en Salsa",
       "url": "https://open.spotify.com/track/6nONybSopBGecWPK0pcvva"
+    },
+    {
+      "added_at": "2022-01-11 21:31:49",
+      "album": {
+        "name": "Picadillo A La Criolla",
+        "url": "https://open.spotify.com/album/5YSx10FSWV3fsoO0tAuvNv"
+      },
+      "artists": [
+        {
+          "name": "Lebr\u00f3n Brothers",
+          "url": "https://open.spotify.com/artist/3MeSOWo9ZSTe5Esf66uXam"
+        }
+      ],
+      "duration_ms": 290960,
+      "name": "Temperatura",
+      "url": "https://open.spotify.com/track/1Iv6gLvrLTOCGzNGf1txYo"
     },
     {
       "added_at": "2022-01-11 21:31:49",
@@ -847,6 +847,22 @@
     {
       "added_at": "2022-01-11 21:31:49",
       "album": {
+        "name": "Barretto Power",
+        "url": "https://open.spotify.com/album/5RxIBMJ5ZrQo1YmD1bk9k7"
+      },
+      "artists": [
+        {
+          "name": "Ray Barretto",
+          "url": "https://open.spotify.com/artist/2h4ndKS2vRWeFLpq8ARu0D"
+        }
+      ],
+      "duration_ms": 270613,
+      "name": "Quitate La M\u00e1scara",
+      "url": "https://open.spotify.com/track/7AhoOwG8qWE5RK7GS1XA6w"
+    },
+    {
+      "added_at": "2022-01-11 21:31:49",
+      "album": {
         "name": "Baile Con Cortijo",
         "url": "https://open.spotify.com/album/0GlMPsTR4U1x1k3TkUcK7o"
       },
@@ -863,22 +879,6 @@
       "duration_ms": 180560,
       "name": "El Negro Bemb\u00f3n",
       "url": "https://open.spotify.com/track/5HBSFow30fXy0bPsCji7b9"
-    },
-    {
-      "added_at": "2022-01-11 21:31:49",
-      "album": {
-        "name": "Salsa Y Control",
-        "url": "https://open.spotify.com/album/539af69eELgsPBWn4ZwK8I"
-      },
-      "artists": [
-        {
-          "name": "Lebr\u00f3n Brothers",
-          "url": "https://open.spotify.com/artist/3MeSOWo9ZSTe5Esf66uXam"
-        }
-      ],
-      "duration_ms": 227400,
-      "name": "Salsa Y Control",
-      "url": "https://open.spotify.com/track/4y6QWwI8lqYYemjYK1PCPc"
     }
   ],
   "unique_name": "Salsa Brava",

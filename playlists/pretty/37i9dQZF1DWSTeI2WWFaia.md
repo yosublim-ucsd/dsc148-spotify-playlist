@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTeI2WWFaia.md) - [plain]
 
 > Lyrical, lo\-fi, and lowlife raps\. Cover: Mark Battles
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,617,767 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,617,736 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTeI2WWFaia.md) - [plain]
 | 24 | [Office Hours \(feat\. 50 Cent\)](https://open.spotify.com/track/7cXlDCmulkI5UWLCtSjhRF) | [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q), [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh) | [Magic 2](https://open.spotify.com/album/2TcGsG6Ht4iMbEQ0u62Rbz) | 3:52 |
 | 25 | [Smoke Break\-Dance \(feat\. JID\)](https://open.spotify.com/track/3EcqaLV76JnvSQOInAmdXv) | [Mick Jenkins](https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7) | [The Patience](https://open.spotify.com/album/1R7oXtXCQEI7GDujxImL87) | 2:55 |
 | 26 | [Flavors of Karma](https://open.spotify.com/track/56Nv3kZNdUPL6BsC1I0jd7) | [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V), [Spillage Village](https://open.spotify.com/artist/7izarc0fRIPbdZ8cVyChRf) | [RIP Human Art](https://open.spotify.com/album/1RDjmGZKjYCMTCTzUBSIVf) | 4:34 |
-| 27 | [Vertigo \(feat\. Action Bronson\)](https://open.spotify.com/track/7BbppQIMIrxOkJIfdM4syU) | [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu), [Action Bronson](https://open.spotify.com/artist/7BMccF0hQFBpP6417k1OtQ) | [Flying High, Part 2](https://open.spotify.com/album/21cT6jnDfeUTCN1J2bzllz) | 2:57 |
-| 28 | [Blowfly \(with Ab\-Soul\)](https://open.spotify.com/track/2tRcF1bE5ESw9c8ljLXLsR) | [Jay Rock](https://open.spotify.com/artist/28ExwzUQsvgJooOI0X1mr3), [Ab\-Soul](https://open.spotify.com/artist/0g9vAlRPK9Gt3FKCekk4TW) | [Blowfly \(with Ab\-Soul\)](https://open.spotify.com/album/6LTCNeWyfbzaIP3O0tcEXD) | 2:46 |
+| 27 | [Blowfly \(with Ab\-Soul\)](https://open.spotify.com/track/2tRcF1bE5ESw9c8ljLXLsR) | [Jay Rock](https://open.spotify.com/artist/28ExwzUQsvgJooOI0X1mr3), [Ab\-Soul](https://open.spotify.com/artist/0g9vAlRPK9Gt3FKCekk4TW) | [Blowfly \(with Ab\-Soul\)](https://open.spotify.com/album/6LTCNeWyfbzaIP3O0tcEXD) | 2:46 |
+| 28 | [Vertigo \(feat\. Action Bronson\)](https://open.spotify.com/track/7BbppQIMIrxOkJIfdM4syU) | [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu), [Action Bronson](https://open.spotify.com/artist/7BMccF0hQFBpP6417k1OtQ) | [Flying High, Part 2](https://open.spotify.com/album/21cT6jnDfeUTCN1J2bzllz) | 2:57 |
 | 29 | [No Yeast \(feat\. Boldy James & Westside Gunn\) \- Remix](https://open.spotify.com/track/3g94P2bRVtVe1GqJnYOoV1) | [Curren$y](https://open.spotify.com/artist/6X8WdFjrNhXATMDSs26aCc), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu), [Boldy James](https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY), [Westside Gunn](https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW) | [No Yeast \(Remix\) \[feat\. Boldy James & Westside Gunn\]](https://open.spotify.com/album/1cTjjDQu00jgCLmSQLNF4G) | 3:47 |
 | 30 | [Suicide in Selfridges](https://open.spotify.com/track/7KuoNaz8JL1xppLQRSHuO5) | [Westside Gunn](https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW), [DJ Drama](https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG) | [And Then You Pray For Me](https://open.spotify.com/album/3CXoPCQuBb7kP9vEFcfXKU) | 2:51 |
 | 31 | [I Love This Feeling](https://open.spotify.com/track/3UDor25dsBp55meFUeOpx2) | [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q) | [Magic 3](https://open.spotify.com/album/1NLLTGSKTYOvlFKFtRXFGz) | 3:17 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTeI2WWFaia.md) - [plain]
 | 47 | [Montagna](https://open.spotify.com/track/5mk53q4ragqU6CMaTH6JQ3) | [Conway the Machine](https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS), [Wun Two](https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE), [Goosebytheway](https://open.spotify.com/artist/7Lbpx0EuKekUdtfDuNStfh) | [Montagna](https://open.spotify.com/album/2uShVWVliRbY4ePhpQ1MG9) | 2:54 |
 | 48 | [YES!](https://open.spotify.com/track/577J3qiLUuwmdz6r2GdgJM) | [Killer Mike](https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI) | [MICHAEL \(Deluxe\)](https://open.spotify.com/album/5dhb5ZpYSm2gH8OCxAKTn1) | 2:57 |
 | 49 | [Passion](https://open.spotify.com/track/6oVLxrogWL86DNet6SR6y2) | [Millyz](https://open.spotify.com/artist/7dDYME7Y3GoEQotd8gUvQg) | [Passion](https://open.spotify.com/album/3AFkefqinn7Jz7DuvuvLoe) | 3:05 |
-| 50 | [Dead Men \(feat\. Cozz\)](https://open.spotify.com/track/6yy0W5bgERNnQ5diS20fdT) | [408 Darwin](https://open.spotify.com/artist/7GmjP8u0uwwAwBt3e3tmdS), [Cozz](https://open.spotify.com/artist/5oFkj1qSlyBUmV5d6Edgtq) | [Dead Men \(feat\. Cozz\)](https://open.spotify.com/album/5kwKgot9Kn11YSbiuWJr7O) | 2:51 |
+| 50 | [Show & Tell \(feat\. Freddie Gibbs\)](https://open.spotify.com/track/4iJVfdFivbtN9n72aUtgOx) | [Mick Jenkins](https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx), [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb) | [The Patience](https://open.spotify.com/album/1R7oXtXCQEI7GDujxImL87) | 4:20 |
 
-Snapshot ID: `MCw1YWE2MjAyYjk1YTg2MDA4ZTVhN2E4ZWNiMDMxMzMzMjg3NzJkM2Vj`
+Snapshot ID: `MCwzOThjYzFiZjIwYzhjODVkYzllZjAyMmQxZmYzZGY1ZjU4MmJiNGNj`

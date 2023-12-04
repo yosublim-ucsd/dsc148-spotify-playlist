@@ -1,12 +1,12 @@
 {
   "description": "Lyrical, lo-fi, and lowlife raps. Cover: Mark Battles",
-  "num_followers": 1617767,
+  "num_followers": 1617736,
   "original_name": "Spilled Ink",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1YWE2MjAyYjk1YTg2MDA4ZTVhN2E4ZWNiMDMxMzMzMjg3NzJkM2Vj",
+  "snapshot_id": "MCwzOThjYzFiZjIwYzhjODVkYzllZjAyMmQxZmYzZGY1ZjU4MmJiNGNj",
   "tracks": [
     {
       "added_at": "2023-12-01 04:00:00",
@@ -539,26 +539,6 @@
     {
       "added_at": "2023-12-01 04:00:00",
       "album": {
-        "name": "Flying High, Part 2",
-        "url": "https://open.spotify.com/album/21cT6jnDfeUTCN1J2bzllz"
-      },
-      "artists": [
-        {
-          "name": "The Alchemist",
-          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
-        },
-        {
-          "name": "Action Bronson",
-          "url": "https://open.spotify.com/artist/7BMccF0hQFBpP6417k1OtQ"
-        }
-      ],
-      "duration_ms": 177360,
-      "name": "Vertigo (feat. Action Bronson)",
-      "url": "https://open.spotify.com/track/7BbppQIMIrxOkJIfdM4syU"
-    },
-    {
-      "added_at": "2023-12-01 04:00:00",
-      "album": {
         "name": "Blowfly (with Ab-Soul)",
         "url": "https://open.spotify.com/album/6LTCNeWyfbzaIP3O0tcEXD"
       },
@@ -575,6 +555,26 @@
       "duration_ms": 166238,
       "name": "Blowfly (with Ab-Soul)",
       "url": "https://open.spotify.com/track/2tRcF1bE5ESw9c8ljLXLsR"
+    },
+    {
+      "added_at": "2023-12-01 04:00:00",
+      "album": {
+        "name": "Flying High, Part 2",
+        "url": "https://open.spotify.com/album/21cT6jnDfeUTCN1J2bzllz"
+      },
+      "artists": [
+        {
+          "name": "The Alchemist",
+          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
+        },
+        {
+          "name": "Action Bronson",
+          "url": "https://open.spotify.com/artist/7BMccF0hQFBpP6417k1OtQ"
+        }
+      ],
+      "duration_ms": 177360,
+      "name": "Vertigo (feat. Action Bronson)",
+      "url": "https://open.spotify.com/track/7BbppQIMIrxOkJIfdM4syU"
     },
     {
       "added_at": "2023-12-01 04:00:00",
@@ -1007,22 +1007,22 @@
     {
       "added_at": "2023-12-01 04:00:00",
       "album": {
-        "name": "Dead Men (feat. Cozz)",
-        "url": "https://open.spotify.com/album/5kwKgot9Kn11YSbiuWJr7O"
+        "name": "The Patience",
+        "url": "https://open.spotify.com/album/1R7oXtXCQEI7GDujxImL87"
       },
       "artists": [
         {
-          "name": "408 Darwin",
-          "url": "https://open.spotify.com/artist/7GmjP8u0uwwAwBt3e3tmdS"
+          "name": "Mick Jenkins",
+          "url": "https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx"
         },
         {
-          "name": "Cozz",
-          "url": "https://open.spotify.com/artist/5oFkj1qSlyBUmV5d6Edgtq"
+          "name": "Freddie Gibbs",
+          "url": "https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb"
         }
       ],
-      "duration_ms": 171989,
-      "name": "Dead Men (feat. Cozz)",
-      "url": "https://open.spotify.com/track/6yy0W5bgERNnQ5diS20fdT"
+      "duration_ms": 260000,
+      "name": "Show & Tell (feat. Freddie Gibbs)",
+      "url": "https://open.spotify.com/track/4iJVfdFivbtN9n72aUtgOx"
     }
   ],
   "unique_name": "Spilled Ink",

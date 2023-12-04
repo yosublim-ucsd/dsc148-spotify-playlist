@@ -1,12 +1,12 @@
 {
   "description": "Productores latinos underground para bailar con aud\u00edfonos.",
-  "num_followers": 123647,
+  "num_followers": 123654,
   "original_name": "Escena Electr\u00f3nica Experimental",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMjg5YjJiNTIxOTY4MWRmMWMxMGMwMmY5OWNiOGY1OTI4Mzc5YjIx",
+  "snapshot_id": "MCwzMmM5MDNmMWNiZDU5NjVkN2Y2MWE3MjdlYTAzM2E4ZGQ3NTZhZGZi",
   "tracks": [
     {
       "added_at": "2022-08-18 23:29:09",
@@ -147,18 +147,22 @@
     {
       "added_at": "2022-08-18 23:29:09",
       "album": {
-        "name": "Or\u00edgenes",
-        "url": "https://open.spotify.com/album/3OjVcHtegHO8FE3DUkTmTX"
+        "name": "Nuestra Forma",
+        "url": "https://open.spotify.com/album/1yubXuGPPftP0P8KcOhIZx"
       },
       "artists": [
         {
-          "name": "Sotomayor",
-          "url": "https://open.spotify.com/artist/13UO3EqZHeNkeDQKjUS8oH"
+          "name": "DJs Pareja",
+          "url": "https://open.spotify.com/artist/5oTo90z4UYa7QUQ3Je3dQ7"
+        },
+        {
+          "name": "LUPE",
+          "url": "https://open.spotify.com/artist/4PRzyAvNqlYKSMhsKl2e0j"
         }
       ],
-      "duration_ms": 226058,
-      "name": "Sin control",
-      "url": "https://open.spotify.com/track/3UkXq2GbRv2RdwHvwrPkph"
+      "duration_ms": 347073,
+      "name": "No Puedo Funcionar",
+      "url": "https://open.spotify.com/track/6NTvPhG0uLiXLSjhNMOZAT"
     },
     {
       "added_at": "2022-08-18 23:29:09",
@@ -179,22 +183,18 @@
     {
       "added_at": "2022-08-18 23:29:09",
       "album": {
-        "name": "Nuestra Forma",
-        "url": "https://open.spotify.com/album/1yubXuGPPftP0P8KcOhIZx"
+        "name": "Or\u00edgenes",
+        "url": "https://open.spotify.com/album/3OjVcHtegHO8FE3DUkTmTX"
       },
       "artists": [
         {
-          "name": "DJs Pareja",
-          "url": "https://open.spotify.com/artist/5oTo90z4UYa7QUQ3Je3dQ7"
-        },
-        {
-          "name": "LUPE",
-          "url": "https://open.spotify.com/artist/4PRzyAvNqlYKSMhsKl2e0j"
+          "name": "Sotomayor",
+          "url": "https://open.spotify.com/artist/13UO3EqZHeNkeDQKjUS8oH"
         }
       ],
-      "duration_ms": 347073,
-      "name": "No Puedo Funcionar",
-      "url": "https://open.spotify.com/track/6NTvPhG0uLiXLSjhNMOZAT"
+      "duration_ms": 226058,
+      "name": "Sin control",
+      "url": "https://open.spotify.com/track/3UkXq2GbRv2RdwHvwrPkph"
     },
     {
       "added_at": "2022-08-18 23:29:09",
@@ -295,22 +295,6 @@
     {
       "added_at": "2022-08-18 23:29:09",
       "album": {
-        "name": "Minena",
-        "url": "https://open.spotify.com/album/0IWOooqWyw1lf5xqYGGs3H"
-      },
-      "artists": [
-        {
-          "name": "Ranma Entero",
-          "url": "https://open.spotify.com/artist/779eiS92bExNWIAWxmiWIB"
-        }
-      ],
-      "duration_ms": 275574,
-      "name": "Minena",
-      "url": "https://open.spotify.com/track/4yvUIVFjmNJL7nrb0irmBa"
-    },
-    {
-      "added_at": "2022-08-18 23:29:09",
-      "album": {
         "name": "Maelstrom",
         "url": "https://open.spotify.com/album/1hefknIQ0TMrdyr6HT1qtI"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 342017,
       "name": "Maelstrom",
       "url": "https://open.spotify.com/track/1xBqxKhj35tVGNmq4NpQ4e"
+    },
+    {
+      "added_at": "2022-08-18 23:29:09",
+      "album": {
+        "name": "Minena",
+        "url": "https://open.spotify.com/album/0IWOooqWyw1lf5xqYGGs3H"
+      },
+      "artists": [
+        {
+          "name": "Ranma Entero",
+          "url": "https://open.spotify.com/artist/779eiS92bExNWIAWxmiWIB"
+        }
+      ],
+      "duration_ms": 275574,
+      "name": "Minena",
+      "url": "https://open.spotify.com/track/4yvUIVFjmNJL7nrb0irmBa"
     },
     {
       "added_at": "2022-08-18 23:29:09",
@@ -547,6 +547,22 @@
     {
       "added_at": "2022-08-18 23:29:09",
       "album": {
+        "name": "Hola",
+        "url": "https://open.spotify.com/album/632kGPMnxUSMHTngCCeb4Z"
+      },
+      "artists": [
+        {
+          "name": "Dietscha Jung",
+          "url": "https://open.spotify.com/artist/6DYNkp4jACOeI3bn2gmKqg"
+        }
+      ],
+      "duration_ms": 141818,
+      "name": "K Royal Con Las de Harina",
+      "url": "https://open.spotify.com/track/08V1tV1HjwZeV04MaV9dpQ"
+    },
+    {
+      "added_at": "2022-08-18 23:29:09",
+      "album": {
         "name": "Tierra del Fuego",
         "url": "https://open.spotify.com/album/3bM79Y0P0jnhA6Yz8lE2Fa"
       },
@@ -579,26 +595,6 @@
     {
       "added_at": "2022-08-18 23:29:09",
       "album": {
-        "name": "Esta Noche",
-        "url": "https://open.spotify.com/album/4otyeBB3oeu6L7M7tYD1It"
-      },
-      "artists": [
-        {
-          "name": "Rodion",
-          "url": "https://open.spotify.com/artist/4G12bh08cCVQXa9pO4iIRe"
-        },
-        {
-          "name": "Alejandro Paz",
-          "url": "https://open.spotify.com/artist/58JUcJgPMahuJHcVQM5CNL"
-        }
-      ],
-      "duration_ms": 311693,
-      "name": "Esta Noche",
-      "url": "https://open.spotify.com/track/2nPpXPgqCAUlmMxjnaaoMG"
-    },
-    {
-      "added_at": "2022-08-18 23:29:09",
-      "album": {
         "name": "Si Mami",
         "url": "https://open.spotify.com/album/6RMpW1nConyzYdawMen6ps"
       },
@@ -615,6 +611,26 @@
       "duration_ms": 308571,
       "name": "Si Mami",
       "url": "https://open.spotify.com/track/3iG93FbuY3fqgfedMCC6A7"
+    },
+    {
+      "added_at": "2022-08-18 23:29:09",
+      "album": {
+        "name": "Esta Noche",
+        "url": "https://open.spotify.com/album/4otyeBB3oeu6L7M7tYD1It"
+      },
+      "artists": [
+        {
+          "name": "Rodion",
+          "url": "https://open.spotify.com/artist/4G12bh08cCVQXa9pO4iIRe"
+        },
+        {
+          "name": "Alejandro Paz",
+          "url": "https://open.spotify.com/artist/58JUcJgPMahuJHcVQM5CNL"
+        }
+      ],
+      "duration_ms": 311693,
+      "name": "Esta Noche",
+      "url": "https://open.spotify.com/track/2nPpXPgqCAUlmMxjnaaoMG"
     },
     {
       "added_at": "2022-08-18 23:29:09",
@@ -703,22 +719,6 @@
     {
       "added_at": "2022-08-18 23:29:09",
       "album": {
-        "name": "I Can't Find",
-        "url": "https://open.spotify.com/album/5Jj04Klsiv5Iw6CzFDRYVe"
-      },
-      "artists": [
-        {
-          "name": "The Mechanic",
-          "url": "https://open.spotify.com/artist/2WeMFNubmmrJqYYlBwc60I"
-        }
-      ],
-      "duration_ms": 224000,
-      "name": "I Can't Find",
-      "url": "https://open.spotify.com/track/6mgPAe08nGJuIrFwCYuJSN"
-    },
-    {
-      "added_at": "2022-08-18 23:29:09",
-      "album": {
         "name": "Bufebe",
         "url": "https://open.spotify.com/album/1BU2ah2FQ4SbswByhQonrO"
       },
@@ -735,6 +735,22 @@
       "duration_ms": 324444,
       "name": "Corrado",
       "url": "https://open.spotify.com/track/0ulKl0MCIn9mYHmxK8DLA2"
+    },
+    {
+      "added_at": "2022-08-18 23:29:09",
+      "album": {
+        "name": "I Can't Find",
+        "url": "https://open.spotify.com/album/5Jj04Klsiv5Iw6CzFDRYVe"
+      },
+      "artists": [
+        {
+          "name": "The Mechanic",
+          "url": "https://open.spotify.com/artist/2WeMFNubmmrJqYYlBwc60I"
+        }
+      ],
+      "duration_ms": 224000,
+      "name": "I Can't Find",
+      "url": "https://open.spotify.com/track/6mgPAe08nGJuIrFwCYuJSN"
     },
     {
       "added_at": "2022-12-21 17:17:38",
@@ -843,22 +859,6 @@
     {
       "added_at": "2022-08-18 23:29:09",
       "album": {
-        "name": "Hola",
-        "url": "https://open.spotify.com/album/632kGPMnxUSMHTngCCeb4Z"
-      },
-      "artists": [
-        {
-          "name": "Dietscha Jung",
-          "url": "https://open.spotify.com/artist/6DYNkp4jACOeI3bn2gmKqg"
-        }
-      ],
-      "duration_ms": 141818,
-      "name": "K Royal Con Las de Harina",
-      "url": "https://open.spotify.com/track/08V1tV1HjwZeV04MaV9dpQ"
-    },
-    {
-      "added_at": "2022-08-18 23:29:09",
-      "album": {
         "name": "Ananda",
         "url": "https://open.spotify.com/album/458iq3ckasP86d5CoLlyJb"
       },
@@ -911,22 +911,18 @@
     {
       "added_at": "2022-08-18 23:29:09",
       "album": {
-        "name": "Desire Path",
-        "url": "https://open.spotify.com/album/4QMLBkfHh8ZrBLm3HGDx9V"
+        "name": "Resistencia",
+        "url": "https://open.spotify.com/album/3TG0EIcV4lRzXY6NQEZD1O"
       },
       "artists": [
         {
-          "name": "Lila Tirando a Violeta",
-          "url": "https://open.spotify.com/artist/1ZD9xcoRJKY4ldaV4UuAhx"
-        },
-        {
-          "name": "Nicola Cruz",
-          "url": "https://open.spotify.com/artist/0OltT51j3hIkgaDJqqPzDn"
+          "name": "DJ Raff",
+          "url": "https://open.spotify.com/artist/1yBSX25jjXRF6KqAKGygy2"
         }
       ],
-      "duration_ms": 215462,
-      "name": "Cuerpo Que Flota",
-      "url": "https://open.spotify.com/track/4x9kOCgS6h3IBFZPR8asWe"
+      "duration_ms": 265125,
+      "name": "Resistencia",
+      "url": "https://open.spotify.com/track/57JZk6IzsVOdSx7U3iAX58"
     }
   ],
   "unique_name": "Escena Electr\u00f3nica Experimental",

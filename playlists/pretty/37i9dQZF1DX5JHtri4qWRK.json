@@ -1,12 +1,12 @@
 {
   "description": "R&B jams for the brokenhearted.",
-  "num_followers": 7944,
+  "num_followers": 7947,
   "original_name": "Heartbreak Hotel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4OGYwNjgyNmY2Mjc4ZTZkZWVlMjZjN2Q1MWIzOTI3NTQ2MmI5NTNj",
+  "snapshot_id": "MCwzMmE1MzhlYTI2MjYwOTYxY2IwOTBiMzBmMmUzNjdhMDYzYmNlNmI2",
   "tracks": [
     {
       "added_at": "2021-12-14 12:56:56",
@@ -551,22 +551,6 @@
     {
       "added_at": "2021-12-14 12:56:56",
       "album": {
-        "name": "JoJo",
-        "url": "https://open.spotify.com/album/1UIesw6QSRT3VrFN36hwgp"
-      },
-      "artists": [
-        {
-          "name": "JoJo",
-          "url": "https://open.spotify.com/artist/5xuNBZoM7z1Vv8IQ6uM0p6"
-        }
-      ],
-      "duration_ms": 242840,
-      "name": "Leave (Get Out)",
-      "url": "https://open.spotify.com/track/3DOxMCaNBNvnjSzpHUSjE3"
-    },
-    {
-      "added_at": "2021-12-14 12:56:56",
-      "album": {
         "name": "Chris Brown (Expanded Edition)",
         "url": "https://open.spotify.com/album/49gaz5rhWWgqCw61M9700v"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 289760,
       "name": "Say Goodbye",
       "url": "https://open.spotify.com/track/5F7IJrXD6Fa3EmqoYE0gU4"
+    },
+    {
+      "added_at": "2021-12-14 12:56:56",
+      "album": {
+        "name": "JoJo",
+        "url": "https://open.spotify.com/album/1UIesw6QSRT3VrFN36hwgp"
+      },
+      "artists": [
+        {
+          "name": "JoJo",
+          "url": "https://open.spotify.com/artist/5xuNBZoM7z1Vv8IQ6uM0p6"
+        }
+      ],
+      "duration_ms": 242840,
+      "name": "Leave (Get Out)",
+      "url": "https://open.spotify.com/track/3DOxMCaNBNvnjSzpHUSjE3"
     },
     {
       "added_at": "2021-12-14 12:56:56",
@@ -647,22 +647,6 @@
     {
       "added_at": "2021-12-14 12:56:56",
       "album": {
-        "name": "Good Girl Gone Bad: Reloaded",
-        "url": "https://open.spotify.com/album/3JSWZWeTHF4HDGt5Eozdy7"
-      },
-      "artists": [
-        {
-          "name": "Rihanna",
-          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
-        }
-      ],
-      "duration_ms": 294720,
-      "name": "Rehab",
-      "url": "https://open.spotify.com/track/5X3ahLXhOw16BR09GjYPUT"
-    },
-    {
-      "added_at": "2021-12-14 12:56:56",
-      "album": {
         "name": "My Love Is Your Love",
         "url": "https://open.spotify.com/album/00NABajpGsPCObfcl4LJsM"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 292400,
       "name": "It's Not Right But It's Okay",
       "url": "https://open.spotify.com/track/7861kBrZ5aw7o4NfggcyYW"
+    },
+    {
+      "added_at": "2021-12-14 12:56:56",
+      "album": {
+        "name": "Good Girl Gone Bad: Reloaded",
+        "url": "https://open.spotify.com/album/3JSWZWeTHF4HDGt5Eozdy7"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "duration_ms": 294720,
+      "name": "Rehab",
+      "url": "https://open.spotify.com/track/5X3ahLXhOw16BR09GjYPUT"
     },
     {
       "added_at": "2021-12-14 12:56:56",
@@ -783,22 +783,6 @@
     {
       "added_at": "2021-12-14 12:56:56",
       "album": {
-        "name": "Over",
-        "url": "https://open.spotify.com/album/5AnJbiMebwoHI7mwgbhv2H"
-      },
-      "artists": [
-        {
-          "name": "Lucky Daye",
-          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
-        }
-      ],
-      "duration_ms": 205275,
-      "name": "Over",
-      "url": "https://open.spotify.com/track/1DOgkaR5Gqa8JtPEIbQORC"
-    },
-    {
-      "added_at": "2021-12-14 12:56:56",
-      "album": {
         "name": "Unleash The Dragon",
         "url": "https://open.spotify.com/album/0nyora4kbjBGE4d1B9gxnm"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 274226,
       "name": "Incomplete",
       "url": "https://open.spotify.com/track/3w8Mw9GHYepoTWOSdiyosj"
+    },
+    {
+      "added_at": "2021-12-14 12:56:56",
+      "album": {
+        "name": "Over",
+        "url": "https://open.spotify.com/album/5AnJbiMebwoHI7mwgbhv2H"
+      },
+      "artists": [
+        {
+          "name": "Lucky Daye",
+          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
+        }
+      ],
+      "duration_ms": 205275,
+      "name": "Over",
+      "url": "https://open.spotify.com/track/1DOgkaR5Gqa8JtPEIbQORC"
     },
     {
       "added_at": "2021-12-14 12:56:56",
@@ -1191,22 +1191,18 @@
     {
       "added_at": "2021-12-14 12:56:56",
       "album": {
-        "name": "Insecure",
-        "url": "https://open.spotify.com/album/7hhWPFOdpmA1R9pUM5iUwe"
+        "name": "Faith",
+        "url": "https://open.spotify.com/album/36G7gDkkRckUGU7lgG6nev"
       },
       "artists": [
         {
-          "name": "Jazmine Sullivan",
-          "url": "https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq"
-        },
-        {
-          "name": "Bryson Tiller",
-          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
+          "name": "Faith Evans",
+          "url": "https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn"
         }
       ],
-      "duration_ms": 218072,
-      "name": "Insecure",
-      "url": "https://open.spotify.com/track/360NCp4XoQ0sFi5jgu5Ww7"
+      "duration_ms": 324280,
+      "name": "Soon as I Get Home",
+      "url": "https://open.spotify.com/track/6SkGfPa77E4giShVbk9N6R"
     },
     {
       "added_at": "2021-12-14 12:56:56",
@@ -1227,18 +1223,22 @@
     {
       "added_at": "2021-12-14 12:56:56",
       "album": {
-        "name": "Faith",
-        "url": "https://open.spotify.com/album/36G7gDkkRckUGU7lgG6nev"
+        "name": "Insecure",
+        "url": "https://open.spotify.com/album/7hhWPFOdpmA1R9pUM5iUwe"
       },
       "artists": [
         {
-          "name": "Faith Evans",
-          "url": "https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn"
+          "name": "Jazmine Sullivan",
+          "url": "https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq"
+        },
+        {
+          "name": "Bryson Tiller",
+          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
         }
       ],
-      "duration_ms": 324280,
-      "name": "Soon as I Get Home",
-      "url": "https://open.spotify.com/track/6SkGfPa77E4giShVbk9N6R"
+      "duration_ms": 218072,
+      "name": "Insecure",
+      "url": "https://open.spotify.com/track/360NCp4XoQ0sFi5jgu5Ww7"
     },
     {
       "added_at": "2021-12-14 12:56:56",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2021-12-14 12:56:56",
       "album": {
-        "name": "Your Woman",
-        "url": "https://open.spotify.com/album/2y7sSNd02a5uTfauRPY0lp"
-      },
-      "artists": [
-        {
-          "name": "Sunshine Anderson",
-          "url": "https://open.spotify.com/artist/0hnmRa5ahunapQbPjKUbMK"
-        }
-      ],
-      "duration_ms": 295826,
-      "name": "Heard It All Before",
-      "url": "https://open.spotify.com/track/0xikWgPgYN9BEes0ieZ8Co"
-    },
-    {
-      "added_at": "2021-12-14 12:56:56",
-      "album": {
         "name": "Chasing Summer",
         "url": "https://open.spotify.com/album/7mU7c3lx4jCFocOYEc2rs7"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 174946,
       "name": "You Can't Save Me",
       "url": "https://open.spotify.com/track/1OykBmq3vmMSEOQShNIBLv"
+    },
+    {
+      "added_at": "2021-12-14 12:56:56",
+      "album": {
+        "name": "Your Woman",
+        "url": "https://open.spotify.com/album/2y7sSNd02a5uTfauRPY0lp"
+      },
+      "artists": [
+        {
+          "name": "Sunshine Anderson",
+          "url": "https://open.spotify.com/artist/0hnmRa5ahunapQbPjKUbMK"
+        }
+      ],
+      "duration_ms": 295826,
+      "name": "Heard It All Before",
+      "url": "https://open.spotify.com/track/0xikWgPgYN9BEes0ieZ8Co"
     },
     {
       "added_at": "2021-12-14 12:56:56",
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2021-12-14 12:56:56",
       "album": {
-        "name": "Be Right Back",
-        "url": "https://open.spotify.com/album/7MbcxleVqx5qeZgXdw5FAi"
-      },
-      "artists": [
-        {
-          "name": "Jorja Smith",
-          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
-        }
-      ],
-      "duration_ms": 204174,
-      "name": "Addicted",
-      "url": "https://open.spotify.com/track/778x5bolqJeICcrtSBNrko"
-    },
-    {
-      "added_at": "2021-12-14 12:56:56",
-      "album": {
         "name": "Sober",
         "url": "https://open.spotify.com/album/7BCTfMzue11vOGekGO0xL0"
       },
@@ -1583,6 +1567,22 @@
     {
       "added_at": "2021-12-14 12:56:56",
       "album": {
+        "name": "Be Right Back",
+        "url": "https://open.spotify.com/album/7MbcxleVqx5qeZgXdw5FAi"
+      },
+      "artists": [
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        }
+      ],
+      "duration_ms": 204174,
+      "name": "Addicted",
+      "url": "https://open.spotify.com/track/778x5bolqJeICcrtSBNrko"
+    },
+    {
+      "added_at": "2021-12-14 12:56:56",
+      "album": {
         "name": "3LW",
         "url": "https://open.spotify.com/album/7l1ra4zaCXyfr4yTby63t7"
       },
@@ -1595,22 +1595,6 @@
       "duration_ms": 263440,
       "name": "No More (Baby I'ma Do Right)",
       "url": "https://open.spotify.com/track/5zn1hpm9N0ylKB7kOtpCw2"
-    },
-    {
-      "added_at": "2021-12-14 12:56:56",
-      "album": {
-        "name": "Ain't Nothin' Like Me",
-        "url": "https://open.spotify.com/album/0dd14CK6sAyTBse2l54qBi"
-      },
-      "artists": [
-        {
-          "name": "Joe",
-          "url": "https://open.spotify.com/artist/3zTOe1BtyTkwNvYZOxXktX"
-        }
-      ],
-      "duration_ms": 232533,
-      "name": "If I Was Your Man",
-      "url": "https://open.spotify.com/track/5PH2eU6P5LdnwDezBu8334"
     },
     {
       "added_at": "2021-12-14 12:56:56",
@@ -1631,6 +1615,22 @@
       "duration_ms": 254373,
       "name": "All I Have",
       "url": "https://open.spotify.com/track/1RQE33QW6K4YFKGPLHjbcC"
+    },
+    {
+      "added_at": "2021-12-14 12:56:56",
+      "album": {
+        "name": "Ain't Nothin' Like Me",
+        "url": "https://open.spotify.com/album/0dd14CK6sAyTBse2l54qBi"
+      },
+      "artists": [
+        {
+          "name": "Joe",
+          "url": "https://open.spotify.com/artist/3zTOe1BtyTkwNvYZOxXktX"
+        }
+      ],
+      "duration_ms": 232533,
+      "name": "If I Was Your Man",
+      "url": "https://open.spotify.com/track/5PH2eU6P5LdnwDezBu8334"
     },
     {
       "added_at": "2021-12-14 12:56:56",

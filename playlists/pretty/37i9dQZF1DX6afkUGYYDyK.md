@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6afkUGYYDyK.md) - [plain]
 
 > Give thanks to the Lord, in all circumstances, with these songs about being grateful.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,595 likes - 60 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,598 likes - 60 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6afkUGYYDyK.md) - [plain]
 | 24 | [Thank You Lord \- Live](https://open.spotify.com/track/0UOyOUzF8iUMiOE4GwyhqX) | [River Valley Worship](https://open.spotify.com/artist/1VXCIEol192OgSF9VzowGV) | [Thank You Lord \(Live\)](https://open.spotify.com/album/4hCrCVaCuc9JSAtjdGhHEE) | 4:56 |
 | 25 | [How Good of God](https://open.spotify.com/track/5hP9ouI6yMgG1EPq1hs76t) | [Matthew West](https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj) | [How Good of God](https://open.spotify.com/album/5aqixOvRJiO8k0gvZfUiZT) | 2:44 |
 | 26 | [Give Thanks to God](https://open.spotify.com/track/3nto4q3YUOCXwmCqTDCoCa) | [Housefires](https://open.spotify.com/artist/6egyCFgiJ1j941PaxKoWJD) | [We Say Yes](https://open.spotify.com/album/7FzR2gm8o75sFpdfuLT9Wg) | 5:53 |
-| 27 | [We Give Thanks \(Psalm 107\) \- Live](https://open.spotify.com/track/2HHI1ZtuLVPP49CpegOLjU) | [Sovereign Grace Music](https://open.spotify.com/artist/6MYKRhEIKscR8qdGlvpk9y) | [Unchanging God: Songs from the Book of Psalms, Vol\. 2 \(Live\)](https://open.spotify.com/album/6LM6JFK07PBR23fXtI0mSt) | 4:10 |
-| 28 | [Give Thanks](https://open.spotify.com/track/5te7BpMkUriBJ5ZmEGWDv7) | [Sinach](https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe) | [Give Thanks](https://open.spotify.com/album/04dmKUkVguSeV11xLPWI55) | 5:05 |
+| 27 | [Give Thanks](https://open.spotify.com/track/5te7BpMkUriBJ5ZmEGWDv7) | [Sinach](https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe) | [Give Thanks](https://open.spotify.com/album/04dmKUkVguSeV11xLPWI55) | 5:05 |
+| 28 | [We Give Thanks \(Psalm 107\) \- Live](https://open.spotify.com/track/2HHI1ZtuLVPP49CpegOLjU) | [Sovereign Grace Music](https://open.spotify.com/artist/6MYKRhEIKscR8qdGlvpk9y) | [Unchanging God: Songs from the Book of Psalms, Vol\. 2 \(Live\)](https://open.spotify.com/album/6LM6JFK07PBR23fXtI0mSt) | 4:10 |
 | 29 | [Beautiful Day \(House of the Lord\)](https://open.spotify.com/track/3Ox0AN8KFVec5GqUz0c2Vh) | [FRVR FREE](https://open.spotify.com/artist/5FmI4OG0dMj7m60DsceUrn) | [Beautiful Day \(House of the Lord\)](https://open.spotify.com/album/7yOXtwk3vprAVZla2WDpuv) | 3:47 |
 | 30 | [Give Thanks \- Live](https://open.spotify.com/track/3mgMFa0mfIkjZipKJjOOyz) | [Hannah Hobbs](https://open.spotify.com/artist/4goNjt1yECtAvQw8Br9SKX) | [Give Thanks \(Live\)](https://open.spotify.com/album/21stsYT26Dm4qlPYy10Q83) | 4:14 |
 | 31 | [Give Thanks](https://open.spotify.com/track/0NZnbmbjxWKDGAUZYGDB2m) | [Marvin Sapp](https://open.spotify.com/artist/5r0KYGxdIZEHZ6z6XbkVbo) | [Nothing Else Matters](https://open.spotify.com/album/0w9GZohthFktowKLWmBEYq) | 5:27 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6afkUGYYDyK.md) - [plain]
 | 59 | [Thankful \- Live](https://open.spotify.com/track/62xo55xXPDuNekVHmERjc0) | [Cross Worship](https://open.spotify.com/artist/09uw68tTAf3gYSPAktJa7f), [Lilly Powers](https://open.spotify.com/artist/0dkmEy84PNteOhnxSZyJkt) | [Thankful \(Live\)](https://open.spotify.com/album/2rywYmIP5UX9JbaQx2H5x8) | 6:59 |
 | 60 | [Lord I Thank You](https://open.spotify.com/track/0ClqLgTR23AyZmRi3KLr2f) | [Mississippi Mass Choir](https://open.spotify.com/artist/30aMh21vdYVIjdVgIgHaqW) | [Amazing Love](https://open.spotify.com/album/31gd6YqNrLughgK0iMLZEk) | 4:57 |
 
-Snapshot ID: `MCw5NzZmNjBkN2Q4YTUwZmRmM2Y3ZDc1NjAwOTQwMTkyMjAxMmE2ZDA0`
+Snapshot ID: `MCxlNjkyNjI4MjA4YTg2M2E4NzVhOGIxMjZmYzcxZjlkMmUyMTAwMTlk`

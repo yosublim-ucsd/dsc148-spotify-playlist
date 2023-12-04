@@ -1,12 +1,12 @@
 {
   "description": "<a href=\"spotify:genre:edm_dance\">Dance</a> hits from the 90s and 00s!",
-  "num_followers": 1433469,
+  "num_followers": 1433746,
   "original_name": "Dance Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMTk1MGQwOTc2OTIwMGZjNDE0Mjk1MjA1MTBmOGE5Nzc5ZTM5NDFh",
+  "snapshot_id": "MCwxY2EzZDg3N2U0Mjk4ZWI0MGY2MWE0Njk4M2IwOWU5MDhjYWI4YTE1",
   "tracks": [
     {
       "added_at": "2023-03-22 14:00:00",
@@ -67,6 +67,22 @@
     {
       "added_at": "2023-03-22 14:00:00",
       "album": {
+        "name": "L'Amour Toujours",
+        "url": "https://open.spotify.com/album/61hGQNFwmqGHXm5eeMkd4d"
+      },
+      "artists": [
+        {
+          "name": "Gigi D'Agostino",
+          "url": "https://open.spotify.com/artist/1OAjDaKgg00KCUYqDe68un"
+        }
+      ],
+      "duration_ms": 242053,
+      "name": "L'Amour Toujours",
+      "url": "https://open.spotify.com/track/52LJ3hyknOijCrE5gCD0rE"
+    },
+    {
+      "added_at": "2023-03-22 14:00:00",
+      "album": {
         "name": "Infinity 2008",
         "url": "https://open.spotify.com/album/1uyF93NDsuRn4LqZIl3lyY"
       },
@@ -83,22 +99,6 @@
       "duration_ms": 192294,
       "name": "Infinity 2008 - Klaas Vocal Edit",
       "url": "https://open.spotify.com/track/3aQz0z86zrKjd1mcZlonxE"
-    },
-    {
-      "added_at": "2023-03-22 14:00:00",
-      "album": {
-        "name": "L'Amour Toujours",
-        "url": "https://open.spotify.com/album/61hGQNFwmqGHXm5eeMkd4d"
-      },
-      "artists": [
-        {
-          "name": "Gigi D'Agostino",
-          "url": "https://open.spotify.com/artist/1OAjDaKgg00KCUYqDe68un"
-        }
-      ],
-      "duration_ms": 242053,
-      "name": "L'Amour Toujours",
-      "url": "https://open.spotify.com/track/52LJ3hyknOijCrE5gCD0rE"
     },
     {
       "added_at": "2023-03-22 14:00:00",
@@ -571,6 +571,30 @@
     {
       "added_at": "2023-03-22 14:00:00",
       "album": {
+        "name": "Heaven",
+        "url": "https://open.spotify.com/album/15UjVcCwrMwAEPzAoVrZ55"
+      },
+      "artists": [
+        {
+          "name": "DJ Sammy",
+          "url": "https://open.spotify.com/artist/4z4m1P0iX2nRSPDBEZ8LBT"
+        },
+        {
+          "name": "Yanou",
+          "url": "https://open.spotify.com/artist/5SWX583ExJOL7cv8572Crs"
+        },
+        {
+          "name": "Do",
+          "url": "https://open.spotify.com/artist/7sQECgfT3RtfL0RZWK63Wg"
+        }
+      ],
+      "duration_ms": 235000,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/0KT6DLAELYSbgfUemzwGPX"
+    },
+    {
+      "added_at": "2023-03-22 14:00:00",
+      "album": {
         "name": "Day 'N' Nite (Crookers Remix)",
         "url": "https://open.spotify.com/album/6tisDlBrOOltEsFFq2vy6F"
       },
@@ -603,30 +627,6 @@
       "duration_ms": 567106,
       "name": "Halcyon and On and On",
       "url": "https://open.spotify.com/track/5xcunlfaZvD9BDQsLONI7A"
-    },
-    {
-      "added_at": "2023-03-22 14:00:00",
-      "album": {
-        "name": "Heaven",
-        "url": "https://open.spotify.com/album/15UjVcCwrMwAEPzAoVrZ55"
-      },
-      "artists": [
-        {
-          "name": "DJ Sammy",
-          "url": "https://open.spotify.com/artist/4z4m1P0iX2nRSPDBEZ8LBT"
-        },
-        {
-          "name": "Yanou",
-          "url": "https://open.spotify.com/artist/5SWX583ExJOL7cv8572Crs"
-        },
-        {
-          "name": "Do",
-          "url": "https://open.spotify.com/artist/7sQECgfT3RtfL0RZWK63Wg"
-        }
-      ],
-      "duration_ms": 235000,
-      "name": "Heaven",
-      "url": "https://open.spotify.com/track/0KT6DLAELYSbgfUemzwGPX"
     },
     {
       "added_at": "2023-03-22 14:00:00",
@@ -727,22 +727,6 @@
     {
       "added_at": "2023-03-22 14:00:00",
       "album": {
-        "name": "Don't Call Me Baby",
-        "url": "https://open.spotify.com/album/5L0SjLio3BQhFfvLxS5Eg7"
-      },
-      "artists": [
-        {
-          "name": "Madison Avenue",
-          "url": "https://open.spotify.com/artist/6otgz5gkB40UnWFwTy0VDh"
-        }
-      ],
-      "duration_ms": 228140,
-      "name": "Don't Call Me Baby",
-      "url": "https://open.spotify.com/track/4fazGt0v2v2zkzddQOcDZD"
-    },
-    {
-      "added_at": "2023-03-22 14:00:00",
-      "album": {
         "name": "Guetta Blaster",
         "url": "https://open.spotify.com/album/2YKWh8IkQkekPgg5RIEtOn"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 219946,
       "name": "The World Is Mine",
       "url": "https://open.spotify.com/track/0TBaFEx7WENZgqLXWErD0b"
+    },
+    {
+      "added_at": "2023-03-22 14:00:00",
+      "album": {
+        "name": "Don't Call Me Baby",
+        "url": "https://open.spotify.com/album/5L0SjLio3BQhFfvLxS5Eg7"
+      },
+      "artists": [
+        {
+          "name": "Madison Avenue",
+          "url": "https://open.spotify.com/artist/6otgz5gkB40UnWFwTy0VDh"
+        }
+      ],
+      "duration_ms": 228140,
+      "name": "Don't Call Me Baby",
+      "url": "https://open.spotify.com/track/4fazGt0v2v2zkzddQOcDZD"
     },
     {
       "added_at": "2023-03-22 14:00:00",
@@ -1023,22 +1023,18 @@
     {
       "added_at": "2023-03-22 14:00:00",
       "album": {
-        "name": "ResuRection",
-        "url": "https://open.spotify.com/album/7sdKCL2Si8ukvdc98z20PO"
+        "name": "Strobelite Seduction",
+        "url": "https://open.spotify.com/album/3HmqTzRg3Ccs5vUVIlwh3Y"
       },
       "artists": [
         {
-          "name": "Planet Perfecto Knights",
-          "url": "https://open.spotify.com/artist/24To1vtxXzfI8ok2WUeRMs"
-        },
-        {
-          "name": "Paul Mark Oakenfold",
-          "url": "https://open.spotify.com/artist/7L6RvRPjVWKyHqGU7CN9oo"
+          "name": "Kaskade",
+          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
         }
       ],
-      "duration_ms": 236521,
-      "name": "ResuRection - Paul Oakenfold Full On Fluoro Mix",
-      "url": "https://open.spotify.com/track/6aMbSmv99DETtr97inIrJ4"
+      "duration_ms": 237386,
+      "name": "Move For Me",
+      "url": "https://open.spotify.com/track/5KOt1QRD9YQQrrzwLCWuTN"
     },
     {
       "added_at": "2023-03-22 14:00:00",
@@ -1063,18 +1059,22 @@
     {
       "added_at": "2023-03-22 14:00:00",
       "album": {
-        "name": "Strobelite Seduction",
-        "url": "https://open.spotify.com/album/3HmqTzRg3Ccs5vUVIlwh3Y"
+        "name": "ResuRection",
+        "url": "https://open.spotify.com/album/7sdKCL2Si8ukvdc98z20PO"
       },
       "artists": [
         {
-          "name": "Kaskade",
-          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
+          "name": "Planet Perfecto Knights",
+          "url": "https://open.spotify.com/artist/24To1vtxXzfI8ok2WUeRMs"
+        },
+        {
+          "name": "Paul Mark Oakenfold",
+          "url": "https://open.spotify.com/artist/7L6RvRPjVWKyHqGU7CN9oo"
         }
       ],
-      "duration_ms": 237386,
-      "name": "Move For Me",
-      "url": "https://open.spotify.com/track/5KOt1QRD9YQQrrzwLCWuTN"
+      "duration_ms": 236521,
+      "name": "ResuRection - Paul Oakenfold Full On Fluoro Mix",
+      "url": "https://open.spotify.com/track/6aMbSmv99DETtr97inIrJ4"
     },
     {
       "added_at": "2023-03-22 14:00:00",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2023-03-22 14:00:00",
       "album": {
-        "name": "Underlying Feeling",
-        "url": "https://open.spotify.com/album/3UTLZYi4Mk1fAsEteWp58u"
-      },
-      "artists": [
-        {
-          "name": "Sylvia Tosun",
-          "url": "https://open.spotify.com/artist/0DhprLDFQGaundr4WVi9P1"
-        }
-      ],
-      "duration_ms": 224842,
-      "name": "Underlying Feeling - Adam K & Soha Radio Edit",
-      "url": "https://open.spotify.com/track/3RaCcyWwRIdczuefF10UCb"
-    },
-    {
-      "added_at": "2023-03-22 14:00:00",
-      "album": {
         "name": "I Am Free",
         "url": "https://open.spotify.com/album/0OIyUH1v56TJsEXh1HywyN"
       },
@@ -1383,6 +1367,22 @@
       "duration_ms": 207066,
       "name": "I Am Free - Radio Edit",
       "url": "https://open.spotify.com/track/1cSOchpDSHvJjtBHLVrxT1"
+    },
+    {
+      "added_at": "2023-03-22 14:00:00",
+      "album": {
+        "name": "Underlying Feeling",
+        "url": "https://open.spotify.com/album/3UTLZYi4Mk1fAsEteWp58u"
+      },
+      "artists": [
+        {
+          "name": "Sylvia Tosun",
+          "url": "https://open.spotify.com/artist/0DhprLDFQGaundr4WVi9P1"
+        }
+      ],
+      "duration_ms": 224842,
+      "name": "Underlying Feeling - Adam K & Soha Radio Edit",
+      "url": "https://open.spotify.com/track/3RaCcyWwRIdczuefF10UCb"
     },
     {
       "added_at": "2023-03-22 14:00:00",
@@ -1739,22 +1739,6 @@
     {
       "added_at": "2023-03-22 14:00:00",
       "album": {
-        "name": "Strange Condition",
-        "url": "https://open.spotify.com/album/0xAiJhllwbeJH9HGMR5FnI"
-      },
-      "artists": [
-        {
-          "name": "Morgan Page",
-          "url": "https://open.spotify.com/artist/1N9n8MSxrr4Emhb566493b"
-        }
-      ],
-      "duration_ms": 213546,
-      "name": "Strange Condition - Inpetto Radio Edit",
-      "url": "https://open.spotify.com/track/74rPAWzJdu1g43PtBpTGrf"
-    },
-    {
-      "added_at": "2023-03-22 14:00:00",
-      "album": {
         "name": "L.E.F.",
         "url": "https://open.spotify.com/album/3GLtESPuGDtTWoiR6p6K69"
       },
@@ -1767,6 +1751,22 @@
       "duration_ms": 354613,
       "name": "Beautiful",
       "url": "https://open.spotify.com/track/3BBioBvGxikn3mVT2hhrEm"
+    },
+    {
+      "added_at": "2023-03-22 14:00:00",
+      "album": {
+        "name": "Strange Condition",
+        "url": "https://open.spotify.com/album/0xAiJhllwbeJH9HGMR5FnI"
+      },
+      "artists": [
+        {
+          "name": "Morgan Page",
+          "url": "https://open.spotify.com/artist/1N9n8MSxrr4Emhb566493b"
+        }
+      ],
+      "duration_ms": 213546,
+      "name": "Strange Condition - Inpetto Radio Edit",
+      "url": "https://open.spotify.com/track/74rPAWzJdu1g43PtBpTGrf"
     },
     {
       "added_at": "2023-03-22 14:00:00",
@@ -2211,8 +2211,8 @@
     {
       "added_at": "2023-03-22 14:00:00",
       "album": {
-        "name": "Imagination",
-        "url": "https://open.spotify.com/album/2mXLJXAsGZVBPMTcKM25Ar"
+        "name": "Awaken (Pt. 2) [Remixes]",
+        "url": "https://open.spotify.com/album/1ZMzi9pfVDFExVCKiDkYZO"
       },
       "artists": [
         {
@@ -2220,9 +2220,9 @@
           "url": "https://open.spotify.com/artist/6UAyCjS0OPMd1Ham8bvs9g"
         }
       ],
-      "duration_ms": 225400,
-      "name": "Imagination - Ti\u00ebsto Remix Radio Edit",
-      "url": "https://open.spotify.com/track/1mNiQ0hVgB7xQZ938A8lIJ"
+      "duration_ms": 224986,
+      "name": "Awaken - Ron Reeser & Dan Saenz Radio Edit",
+      "url": "https://open.spotify.com/track/05u4uCA07oXnopEdlZ57Ug"
     }
   ],
   "unique_name": "Dance Classics",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZEbxox96IUk.md) - [plain]
 
 > C'est parti pour une nuit de folie ! Photo : Gilbert Montagné
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,241 likes - 60 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,259 likes - 60 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZEbxox96IUk.md) - [plain]
 | 59 | [Pour le plaisir](https://open.spotify.com/track/3UbjLaV37WezwuvT2pdsIL) | [Herbert Léonard](https://open.spotify.com/artist/2VsTgQUocqoaXjLG5YerlB) | [Best of Herbert Léonard](https://open.spotify.com/album/6ZudFHSwgkQxsmCDwjHSRX) | 3:48 |
 | 60 | [Tes états d'âme Eric](https://open.spotify.com/track/41OT0gmF3Ku5BAo06uoKvN) | [Luna Parker](https://open.spotify.com/artist/6JWjzo212lkYEtlowpF2sK) | [Felin Pour L'Autre](https://open.spotify.com/album/3yw7s4ANFbfPw4uYFVjvW0) | 3:30 |
 
-Snapshot ID: `MCw3YzhmM2Y0NjkzNDNmMjBhY2IwNzAyYzMzMjBiMjA2NDRlOGI4OGQ1`
+Snapshot ID: `MCwyYWMwNjQ4NmJhZWU4YjBkYzNlZGU1NjZkZjYxNDIxY2I5Mzk3M2E3`

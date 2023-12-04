@@ -1,12 +1,12 @@
 {
   "description": "Music from \"Love Live! Nijigasaki High School Idol Club\" \u300c\u30e9\u30d6\u30e9\u30a4\u30d6\uff01\u8679\u30f6\u54b2\u5b66\u5712\u30b9\u30af\u30fc\u30eb\u30a2\u30a4\u30c9\u30eb\u540c\u597d\u4f1a\u300d\u306e\u697d\u66f2\u30921\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3067\u3002\n\u00a92022 \u30d7\u30ed\u30b8\u30a7\u30af\u30c8\u30e9\u30d6\u30e9\u30a4\u30d6\uff01\u8679\u30f6\u54b2\u5b66\u5712\u30b9\u30af\u30fc\u30eb\u30a2\u30a4\u30c9\u30eb\u540c\u597d\u4f1a",
-  "num_followers": 13270,
+  "num_followers": 13294,
   "original_name": "Love Live! Nijigasaki High School Idol Club \u30e9\u30d6\u30e9\u30a4\u30d6!\u8679\u30f6\u54b2\u5b66\u5712\u30b9\u30af\u30fc\u30eb\u30a2\u30a4\u30c9\u30eb\u540c\u597d\u4f1a",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZDU1YWY3MzRmMjY2NGQ4ZjVhN2Q4OGM0YWEwMmUwOTQ2ODE2MjJl",
+  "snapshot_id": "MCw0NWQ5MjgyM2MyMGRmOTE1ODBiMDliMDZjY2E4ZjI0ZGU5NmY3YmEz",
   "tracks": [
     {
       "added_at": "2023-11-07 18:16:32",
@@ -403,22 +403,6 @@
     {
       "added_at": "2023-11-07 18:16:32",
       "album": {
-        "name": "Fly with You!!",
-        "url": "https://open.spotify.com/album/0liOwoOHpSHuRVt6DcvTFX"
-      },
-      "artists": [
-        {
-          "name": "Shizuku Osaka (CV: Kaori Maeda)",
-          "url": "https://open.spotify.com/artist/0wr7BgwyUkizi1cVYkzxk7"
-        }
-      ],
-      "duration_ms": 242933,
-      "name": "Koakuma LOVE",
-      "url": "https://open.spotify.com/track/1dkFzcQjaw7YkPT83raO3j"
-    },
-    {
-      "added_at": "2023-11-07 18:16:32",
-      "album": {
         "name": "SUPER NOVA",
         "url": "https://open.spotify.com/album/58rcP5kDJA3ygA3K1B6gMH"
       },
@@ -456,13 +440,29 @@
       },
       "artists": [
         {
-          "name": "Setsuna Yuki (CV: Coco Hayashi)",
-          "url": "https://open.spotify.com/artist/4uhgRKs6zvKdexMFWGRxwT"
+          "name": "Shizuku Osaka (CV: Kaori Maeda)",
+          "url": "https://open.spotify.com/artist/0wr7BgwyUkizi1cVYkzxk7"
         }
       ],
-      "duration_ms": 219840,
-      "name": "Cherry Bomb",
-      "url": "https://open.spotify.com/track/6Ut3eQN8VLwQXjRejHmNk3"
+      "duration_ms": 242933,
+      "name": "Koakuma LOVE",
+      "url": "https://open.spotify.com/track/1dkFzcQjaw7YkPT83raO3j"
+    },
+    {
+      "added_at": "2023-11-07 18:16:32",
+      "album": {
+        "name": "Dream with You / Poppin' Up! / DIVE! (\u4e0a\u539f\u6b69\u5922\u76e4)",
+        "url": "https://open.spotify.com/album/5azLupKAc7jhnLpGV6n2O1"
+      },
+      "artists": [
+        {
+          "name": "\u4e0a\u539f\u6b69\u5922 (CV.\u5927\u897f\u4e9c\u7396\u7483)",
+          "url": "https://open.spotify.com/artist/7it8CXxJEe5Rn1fSl34ugQ"
+        }
+      ],
+      "duration_ms": 258105,
+      "name": "Dream with You",
+      "url": "https://open.spotify.com/track/2pOgQuNCRUmDvAKjqwmGR9"
     },
     {
       "added_at": "2023-11-07 18:16:32",
@@ -483,18 +483,18 @@
     {
       "added_at": "2023-11-07 18:16:32",
       "album": {
-        "name": "Dream with You / Poppin' Up! / DIVE! (\u4e0a\u539f\u6b69\u5922\u76e4)",
-        "url": "https://open.spotify.com/album/5azLupKAc7jhnLpGV6n2O1"
+        "name": "Fly with You!!",
+        "url": "https://open.spotify.com/album/0liOwoOHpSHuRVt6DcvTFX"
       },
       "artists": [
         {
-          "name": "\u4e0a\u539f\u6b69\u5922 (CV.\u5927\u897f\u4e9c\u7396\u7483)",
-          "url": "https://open.spotify.com/artist/7it8CXxJEe5Rn1fSl34ugQ"
+          "name": "Setsuna Yuki (CV: Coco Hayashi)",
+          "url": "https://open.spotify.com/artist/4uhgRKs6zvKdexMFWGRxwT"
         }
       ],
-      "duration_ms": 258105,
-      "name": "Dream with You",
-      "url": "https://open.spotify.com/track/2pOgQuNCRUmDvAKjqwmGR9"
+      "duration_ms": 219840,
+      "name": "Cherry Bomb",
+      "url": "https://open.spotify.com/track/6Ut3eQN8VLwQXjRejHmNk3"
     },
     {
       "added_at": "2023-11-07 18:16:32",
@@ -579,18 +579,18 @@
     {
       "added_at": "2023-11-07 18:16:32",
       "album": {
-        "name": "Fly with You!!",
-        "url": "https://open.spotify.com/album/0liOwoOHpSHuRVt6DcvTFX"
+        "name": "SUPER NOVA",
+        "url": "https://open.spotify.com/album/58rcP5kDJA3ygA3K1B6gMH"
       },
       "artists": [
         {
-          "name": "Mia Taylor (CV: Shu Uchida)",
-          "url": "https://open.spotify.com/artist/1NhKUvJaDW9KlwxUomMal5"
+          "name": "DiverDiva",
+          "url": "https://open.spotify.com/artist/0PyKHNnxTNPQDA4Ow7jRnd"
         }
       ],
-      "duration_ms": 238986,
-      "name": "Lemonade",
-      "url": "https://open.spotify.com/track/7sppMR5Ag87PFaGFdzgq1m"
+      "duration_ms": 254013,
+      "name": "SUPER NOVA",
+      "url": "https://open.spotify.com/track/4AN5xcopsmXq2JSF1SNHEz"
     },
     {
       "added_at": "2023-11-07 18:16:32",
@@ -611,18 +611,18 @@
     {
       "added_at": "2023-11-07 18:16:32",
       "album": {
-        "name": "SUPER NOVA",
-        "url": "https://open.spotify.com/album/58rcP5kDJA3ygA3K1B6gMH"
+        "name": "Fly with You!!",
+        "url": "https://open.spotify.com/album/0liOwoOHpSHuRVt6DcvTFX"
       },
       "artists": [
         {
-          "name": "DiverDiva",
-          "url": "https://open.spotify.com/artist/0PyKHNnxTNPQDA4Ow7jRnd"
+          "name": "Mia Taylor (CV: Shu Uchida)",
+          "url": "https://open.spotify.com/artist/1NhKUvJaDW9KlwxUomMal5"
         }
       ],
-      "duration_ms": 254013,
-      "name": "SUPER NOVA",
-      "url": "https://open.spotify.com/track/4AN5xcopsmXq2JSF1SNHEz"
+      "duration_ms": 238986,
+      "name": "Lemonade",
+      "url": "https://open.spotify.com/track/7sppMR5Ag87PFaGFdzgq1m"
     },
     {
       "added_at": "2023-11-07 18:16:32",
@@ -659,22 +659,6 @@
     {
       "added_at": "2023-11-07 18:16:32",
       "album": {
-        "name": "Fly with You!!",
-        "url": "https://open.spotify.com/album/0liOwoOHpSHuRVt6DcvTFX"
-      },
-      "artists": [
-        {
-          "name": "Ayumu Uehara (CV: Aguri Onishi)",
-          "url": "https://open.spotify.com/artist/0qBW9nTHObmROrT0n1rYFF"
-        }
-      ],
-      "duration_ms": 276706,
-      "name": "Walking Dream",
-      "url": "https://open.spotify.com/track/42zJg09ge19Pv5l0epKj7B"
-    },
-    {
-      "added_at": "2023-11-07 18:16:32",
-      "album": {
         "name": "TOKIMEKI Runners",
         "url": "https://open.spotify.com/album/5LUYddVFCB1iKO3c6qEnEQ"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 224720,
       "name": "Starlight",
       "url": "https://open.spotify.com/track/2H8qziW7IGOPO3yXAhk9o4"
+    },
+    {
+      "added_at": "2023-11-07 18:16:32",
+      "album": {
+        "name": "Fly with You!!",
+        "url": "https://open.spotify.com/album/0liOwoOHpSHuRVt6DcvTFX"
+      },
+      "artists": [
+        {
+          "name": "Ayumu Uehara (CV: Aguri Onishi)",
+          "url": "https://open.spotify.com/artist/0qBW9nTHObmROrT0n1rYFF"
+        }
+      ],
+      "duration_ms": 276706,
+      "name": "Walking Dream",
+      "url": "https://open.spotify.com/track/42zJg09ge19Pv5l0epKj7B"
     },
     {
       "added_at": "2023-11-07 18:16:32",

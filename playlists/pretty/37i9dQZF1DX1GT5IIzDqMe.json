@@ -1,12 +1,12 @@
 {
   "description": "Detroit <a href=\"spotify:genre:techno\">Techno</a> Essentials. Cover: DJ Minx.",
-  "num_followers": 86916,
+  "num_followers": 86979,
   "original_name": "Detroit Techno",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNjA1YjhjZmU5ZmJkNGFjYmYxNGE4YjhlNTczMjMzMjM2NDI3OTZk",
+  "snapshot_id": "MCwyOTE0ZTU0MGFkNWVjMmM2OWY1NDc0OTkxZTVjOWRjYzZlYWI4NDAx",
   "tracks": [
     {
       "added_at": "2023-10-26 20:41:14",
@@ -619,6 +619,22 @@
     {
       "added_at": "2023-10-26 20:41:14",
       "album": {
+        "name": "Maintain The Golden Ratio",
+        "url": "https://open.spotify.com/album/5dV2HXWXjGWqR4oOTXJw4Z"
+      },
+      "artists": [
+        {
+          "name": "Cybotron",
+          "url": "https://open.spotify.com/artist/5Mr6zawZ90BzjY14EROmSm"
+        }
+      ],
+      "duration_ms": 282702,
+      "name": "The Golden Ratio (Version)",
+      "url": "https://open.spotify.com/track/2bQ2B1Zvk8ecLp1VAcI0bt"
+    },
+    {
+      "added_at": "2023-10-26 20:41:14",
+      "album": {
         "name": "Best of Techno (Compilation Tracks)",
         "url": "https://open.spotify.com/album/2GEevWXNKUigGbxea87nGK"
       },
@@ -635,38 +651,18 @@
     {
       "added_at": "2023-10-26 20:41:14",
       "album": {
-        "name": "Into The Groove",
-        "url": "https://open.spotify.com/album/7IQCupztgZD0CkAp0ohAHf"
+        "name": "When We Used to Play",
+        "url": "https://open.spotify.com/album/1tdeIyzQBV8wym67Wpegbo"
       },
       "artists": [
         {
           "name": "Blake Baxter",
           "url": "https://open.spotify.com/artist/3ZKUeqiV2UX5sKhOipqw1h"
-        },
-        {
-          "name": "Abe Duque",
-          "url": "https://open.spotify.com/artist/1vT97kA0pAS6X4gyB7FIGp"
         }
       ],
-      "duration_ms": 396190,
-      "name": "Into The Groove - Extended Mix",
-      "url": "https://open.spotify.com/track/6zTgrvY5YaGFvs8RrQDK3V"
-    },
-    {
-      "added_at": "2023-10-26 20:41:14",
-      "album": {
-        "name": "Maintain The Golden Ratio",
-        "url": "https://open.spotify.com/album/5dV2HXWXjGWqR4oOTXJw4Z"
-      },
-      "artists": [
-        {
-          "name": "Cybotron",
-          "url": "https://open.spotify.com/artist/5Mr6zawZ90BzjY14EROmSm"
-        }
-      ],
-      "duration_ms": 282702,
-      "name": "The Golden Ratio (Version)",
-      "url": "https://open.spotify.com/track/2bQ2B1Zvk8ecLp1VAcI0bt"
+      "duration_ms": 500807,
+      "name": "When We Used To Play - Extended Mix",
+      "url": "https://open.spotify.com/track/2t3xaBvKKhMotBH5kNt3nu"
     },
     {
       "added_at": "2023-10-26 20:41:14",
@@ -707,22 +703,6 @@
     {
       "added_at": "2023-10-26 20:41:14",
       "album": {
-        "name": "The Art of Music",
-        "url": "https://open.spotify.com/album/3Nlt0lmS0UzBfTRPrkMGQm"
-      },
-      "artists": [
-        {
-          "name": "K-Hand",
-          "url": "https://open.spotify.com/artist/0qWuk2qgRK2HNKYxqbIn5G"
-        }
-      ],
-      "duration_ms": 320866,
-      "name": "Telekinesis",
-      "url": "https://open.spotify.com/track/4Wa515K1fkOSwdK64rIKZn"
-    },
-    {
-      "added_at": "2023-10-26 20:41:14",
-      "album": {
         "name": "We All Move Together",
         "url": "https://open.spotify.com/album/6H0EcJF033CuU5TsJqzoid"
       },
@@ -743,18 +723,18 @@
     {
       "added_at": "2023-10-26 20:41:14",
       "album": {
-        "name": "When We Used to Play",
-        "url": "https://open.spotify.com/album/1tdeIyzQBV8wym67Wpegbo"
+        "name": "The Art of Music",
+        "url": "https://open.spotify.com/album/3Nlt0lmS0UzBfTRPrkMGQm"
       },
       "artists": [
         {
-          "name": "Blake Baxter",
-          "url": "https://open.spotify.com/artist/3ZKUeqiV2UX5sKhOipqw1h"
+          "name": "K-Hand",
+          "url": "https://open.spotify.com/artist/0qWuk2qgRK2HNKYxqbIn5G"
         }
       ],
-      "duration_ms": 500807,
-      "name": "When We Used To Play - Extended Mix",
-      "url": "https://open.spotify.com/track/2t3xaBvKKhMotBH5kNt3nu"
+      "duration_ms": 320866,
+      "name": "Telekinesis",
+      "url": "https://open.spotify.com/track/4Wa515K1fkOSwdK64rIKZn"
     },
     {
       "added_at": "2023-10-26 20:41:14",
@@ -799,6 +779,22 @@
     {
       "added_at": "2023-10-26 20:41:14",
       "album": {
+        "name": "Maintain",
+        "url": "https://open.spotify.com/album/0EKfOlx4buzvQPIRcITgqe"
+      },
+      "artists": [
+        {
+          "name": "Cybotron",
+          "url": "https://open.spotify.com/artist/5Mr6zawZ90BzjY14EROmSm"
+        }
+      ],
+      "duration_ms": 296013,
+      "name": "Maintain",
+      "url": "https://open.spotify.com/track/5bPOMaHvchTI5nlnvl9VJB"
+    },
+    {
+      "added_at": "2023-10-26 20:41:14",
+      "album": {
         "name": "Protein Valve EP",
         "url": "https://open.spotify.com/album/4LU9fvyf1nqv22veiUGXNp"
       },
@@ -811,6 +807,46 @@
       "duration_ms": 330462,
       "name": "A.M. Track",
       "url": "https://open.spotify.com/track/3rNDbLTgpgN1NYMLXIrIA2"
+    },
+    {
+      "added_at": "2023-10-26 20:41:14",
+      "album": {
+        "name": "Into The Groove",
+        "url": "https://open.spotify.com/album/7IQCupztgZD0CkAp0ohAHf"
+      },
+      "artists": [
+        {
+          "name": "Blake Baxter",
+          "url": "https://open.spotify.com/artist/3ZKUeqiV2UX5sKhOipqw1h"
+        },
+        {
+          "name": "Abe Duque",
+          "url": "https://open.spotify.com/artist/1vT97kA0pAS6X4gyB7FIGp"
+        }
+      ],
+      "duration_ms": 396190,
+      "name": "Into The Groove - Extended Mix",
+      "url": "https://open.spotify.com/track/6zTgrvY5YaGFvs8RrQDK3V"
+    },
+    {
+      "added_at": "2023-10-26 20:41:14",
+      "album": {
+        "name": "We All Move Together",
+        "url": "https://open.spotify.com/album/6H0EcJF033CuU5TsJqzoid"
+      },
+      "artists": [
+        {
+          "name": "Inner City",
+          "url": "https://open.spotify.com/artist/0vUJ3QLN3MlRfjOc2LjGWp"
+        },
+        {
+          "name": "Idris Elba",
+          "url": "https://open.spotify.com/artist/0Dc2rdPzleezxhvQhQbXuS"
+        }
+      ],
+      "duration_ms": 352599,
+      "name": "We All Move Together - Album Mix",
+      "url": "https://open.spotify.com/track/5bdh7s1mGPfiBh2Thxlxsu"
     },
     {
       "added_at": "2023-10-26 20:41:14",
@@ -851,42 +887,6 @@
       "duration_ms": 339336,
       "name": "Do It All Night (C2 Edit) - Mixed",
       "url": "https://open.spotify.com/track/2FZ2tYMA7fyh8yeRigzU5s"
-    },
-    {
-      "added_at": "2023-10-26 20:41:14",
-      "album": {
-        "name": "We All Move Together",
-        "url": "https://open.spotify.com/album/6H0EcJF033CuU5TsJqzoid"
-      },
-      "artists": [
-        {
-          "name": "Inner City",
-          "url": "https://open.spotify.com/artist/0vUJ3QLN3MlRfjOc2LjGWp"
-        },
-        {
-          "name": "Idris Elba",
-          "url": "https://open.spotify.com/artist/0Dc2rdPzleezxhvQhQbXuS"
-        }
-      ],
-      "duration_ms": 352599,
-      "name": "We All Move Together - Album Mix",
-      "url": "https://open.spotify.com/track/5bdh7s1mGPfiBh2Thxlxsu"
-    },
-    {
-      "added_at": "2023-10-26 20:41:14",
-      "album": {
-        "name": "Maintain",
-        "url": "https://open.spotify.com/album/0EKfOlx4buzvQPIRcITgqe"
-      },
-      "artists": [
-        {
-          "name": "Cybotron",
-          "url": "https://open.spotify.com/artist/5Mr6zawZ90BzjY14EROmSm"
-        }
-      ],
-      "duration_ms": 296013,
-      "name": "Maintain",
-      "url": "https://open.spotify.com/track/5bPOMaHvchTI5nlnvl9VJB"
     },
     {
       "added_at": "2023-10-26 20:41:14",

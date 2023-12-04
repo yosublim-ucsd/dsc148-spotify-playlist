@@ -4,7 +4,7 @@
 
 > Aquí vive el hip\-hop mexicano\. Dan Sanchez, Tornillo y Natanael Cano en la casa.
 
-457 songs - 1 day 3 hr 18 min
+458 songs - 1 day 3 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,8 @@
 | [Aquí Afuera](https://open.spotify.com/track/6kCDjSErf3LudSsdbPgzLd) | [Zxmyr](https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8), [Chikis RA](https://open.spotify.com/artist/77LLHWAIQ3ox7VDtrqofeA) | [Aquí Afuera](https://open.spotify.com/album/3FyYPBlR3oF8sp4LMJNRjo) | 3:08 | 2022-07-29 | 2023-03-11 |
 | [Aquí Dentro](https://open.spotify.com/track/3vRoi44ImFNJAgPySXJeFE) | [Cirujano Resendez](https://open.spotify.com/artist/0nFyvpRgCIvNG2JVyAGdbY), [Zxmyr](https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8) | [Aquí Dentro](https://open.spotify.com/album/5bTbyJ5DuBQB2xuUJ6qf1i) | 2:56 | 2023-04-20 | 2023-09-23 |
 | [Ashe](https://open.spotify.com/track/4Y2lNs0JZjFgVHVYYI0OE6) | [Neto Reyno](https://open.spotify.com/artist/7sgnuH8OwU32WbGLZwD03q), [La Sinclair](https://open.spotify.com/artist/5kkRe5KI7U7AvJ3PgLMwB9) | [Ashe](https://open.spotify.com/album/5E5w7D7aPR4RNEAnjaX0Y8) | 5:26 | 2022-07-22 | 2022-09-09 |
-| [Asi Morire](https://open.spotify.com/track/3w21zNcx8MJXHRbPHWSzMn) | [Ovi](https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Asi Morire](https://open.spotify.com/album/7octZhhTn13no8w7w4fofd) | 3:45 | 2023-12-01 |  |
+| [Asi Morire](https://open.spotify.com/track/2V1vUMTqMsJx5r4sybGfcN) | [Ovi](https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Asi Morire](https://open.spotify.com/album/4TsNFuyGgPVYpblIDVd5l1) | 3:45 | 2023-12-01 |  |
+| [Asi Morire](https://open.spotify.com/track/3w21zNcx8MJXHRbPHWSzMn) | [Ovi](https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Asi Morire](https://open.spotify.com/album/7octZhhTn13no8w7w4fofd) | 3:45 | 2023-12-01 | 2023-12-04 |
 | [Así Es Como Es](https://open.spotify.com/track/7AHcgO9JWCA8cwyQ9gPOBH) | [El Pinche Mara](https://open.spotify.com/artist/3L7OHIT4kfdcDSnnGM0TKN), [Royal Religion](https://open.spotify.com/artist/0l4wnZV8y2KyYdKHtlkMOX) | [Así Es Como Es](https://open.spotify.com/album/5cNd3JTnVB3cRY5WkSv3m9) | 3:46 | 2023-01-27 | 2023-03-04 |
 | [Atrapado En La Rutina](https://open.spotify.com/track/7HQEiku5JYDQT7s32SNf4I) | [Sekreto](https://open.spotify.com/artist/10AZXGM20MM2f3bAm7ZjR8), [Tabernario](https://open.spotify.com/artist/2uG7vLSehD2quPeYSPkT73), [Caballeros Del Plan G](https://open.spotify.com/artist/568lw0anJJJnjTXII3gHaf) | [Atrapado En La Rutina](https://open.spotify.com/album/7x85JEDbV9aoWiKI5Xukj3) | 2:44 | 2023-10-13 | 2023-12-02 |
 | [Aves](https://open.spotify.com/track/0CTwgxO20AME455MURJiHu) | [Solo Cadaver](https://open.spotify.com/artist/2pOyR8sdYfEmd4VIyeLDUy) | [Aves](https://open.spotify.com/album/0zHbCVIPjPnESnH1oZM9iw) | 3:19 | 2023-02-10 | 2023-04-09 |

@@ -1,12 +1,12 @@
 {
   "description": "Descubre lo m\u00e1s nuevo del movimiento. Cover: Gonzy",
-  "num_followers": 521685,
+  "num_followers": 521715,
   "original_name": "el nuevo urbano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5OTk4OTRkNjhkZGE3NjgxNDA2MzdmM2VkMzY2YTIxZmQ4NzU4ZmQ1",
+  "snapshot_id": "MCxjM2NlZjcxOTY5MzNiZDJkMmI5YWJjMzQyMWFlNDM1NzZiNDhhMGRi",
   "tracks": [
     {
       "added_at": "2023-12-01 05:01:00",
@@ -871,26 +871,6 @@
     {
       "added_at": "2023-12-01 05:01:00",
       "album": {
-        "name": "MOR, No Le Temas a La Oscuridad",
-        "url": "https://open.spotify.com/album/16ScBmKm5WA3RwvTqiQlJd"
-      },
-      "artists": [
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        },
-        {
-          "name": "\u00d1engo Flow",
-          "url": "https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz"
-        }
-      ],
-      "duration_ms": 170640,
-      "name": "GANGSTERS Y PISTOLAS",
-      "url": "https://open.spotify.com/track/2GOnlLJqDMvlXlEqD8AQqn"
-    },
-    {
-      "added_at": "2023-12-01 05:01:00",
-      "album": {
         "name": "Oye BB",
         "url": "https://open.spotify.com/album/3dRkgg45xl85zTpkZvSqPV"
       },
@@ -907,6 +887,26 @@
       "duration_ms": 147662,
       "name": "Oye BB",
       "url": "https://open.spotify.com/track/2QftZPguVY5lKNwyXPDywB"
+    },
+    {
+      "added_at": "2023-12-01 05:01:00",
+      "album": {
+        "name": "MOR, No Le Temas a La Oscuridad",
+        "url": "https://open.spotify.com/album/16ScBmKm5WA3RwvTqiQlJd"
+      },
+      "artists": [
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        },
+        {
+          "name": "\u00d1engo Flow",
+          "url": "https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz"
+        }
+      ],
+      "duration_ms": 170640,
+      "name": "GANGSTERS Y PISTOLAS",
+      "url": "https://open.spotify.com/track/2GOnlLJqDMvlXlEqD8AQqn"
     },
     {
       "added_at": "2023-12-01 05:01:00",
@@ -1131,6 +1131,26 @@
     {
       "added_at": "2023-12-01 05:01:00",
       "album": {
+        "name": "Te Cambie Por El",
+        "url": "https://open.spotify.com/album/6bHnkWxT6LqkySnS1yeOTW"
+      },
+      "artists": [
+        {
+          "name": "Kim Loaiza",
+          "url": "https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A"
+        },
+        {
+          "name": "Omar Montes",
+          "url": "https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF"
+        }
+      ],
+      "duration_ms": 170695,
+      "name": "Te Cambie Por El",
+      "url": "https://open.spotify.com/track/20j2PxqYHqamcH6g8vPMSp"
+    },
+    {
+      "added_at": "2023-12-01 05:01:00",
+      "album": {
         "name": "LVEU: VIVE LA TUYA...NO LA MIA",
         "url": "https://open.spotify.com/album/1ZVJTCW5rxpHKNgsNL91J2"
       },
@@ -1143,6 +1163,26 @@
       "duration_ms": 183157,
       "name": "NOVATO",
       "url": "https://open.spotify.com/track/2bcBQUFjbrsS8rq0u5PK6O"
+    },
+    {
+      "added_at": "2023-12-01 05:01:00",
+      "album": {
+        "name": "PLEBITA",
+        "url": "https://open.spotify.com/album/1LeugvjTI7mdcVwmED0DpW"
+      },
+      "artists": [
+        {
+          "name": "Ryan Castro",
+          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "duration_ms": 147228,
+      "name": "PLEBITA",
+      "url": "https://open.spotify.com/track/2T27yDWUrmTBEF08PH8bFs"
     },
     {
       "added_at": "2023-12-01 05:01:00",
@@ -1167,22 +1207,18 @@
     {
       "added_at": "2023-12-01 05:01:00",
       "album": {
-        "name": "Te Cambie Por El",
-        "url": "https://open.spotify.com/album/6bHnkWxT6LqkySnS1yeOTW"
+        "name": "Maullame",
+        "url": "https://open.spotify.com/album/02SfPrc9u72kuzrv2ZFjFj"
       },
       "artists": [
         {
-          "name": "Kim Loaiza",
-          "url": "https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A"
-        },
-        {
-          "name": "Omar Montes",
-          "url": "https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF"
+          "name": "Cris Mj",
+          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
         }
       ],
-      "duration_ms": 170695,
-      "name": "Te Cambie Por El",
-      "url": "https://open.spotify.com/track/20j2PxqYHqamcH6g8vPMSp"
+      "duration_ms": 246428,
+      "name": "Maullame",
+      "url": "https://open.spotify.com/track/0hKXlakDWwbKS43VuHDV5d"
     },
     {
       "added_at": "2023-12-01 05:01:00",
@@ -1207,42 +1243,6 @@
       "duration_ms": 243913,
       "name": "BARCELONA",
       "url": "https://open.spotify.com/track/10MB5BRNILT229BsnB2oRU"
-    },
-    {
-      "added_at": "2023-12-01 05:01:00",
-      "album": {
-        "name": "Maullame",
-        "url": "https://open.spotify.com/album/02SfPrc9u72kuzrv2ZFjFj"
-      },
-      "artists": [
-        {
-          "name": "Cris Mj",
-          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
-        }
-      ],
-      "duration_ms": 246428,
-      "name": "Maullame",
-      "url": "https://open.spotify.com/track/0hKXlakDWwbKS43VuHDV5d"
-    },
-    {
-      "added_at": "2023-12-01 05:01:00",
-      "album": {
-        "name": "PLEBITA",
-        "url": "https://open.spotify.com/album/1LeugvjTI7mdcVwmED0DpW"
-      },
-      "artists": [
-        {
-          "name": "Ryan Castro",
-          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
-        },
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        }
-      ],
-      "duration_ms": 147228,
-      "name": "PLEBITA",
-      "url": "https://open.spotify.com/track/2T27yDWUrmTBEF08PH8bFs"
     },
     {
       "added_at": "2023-12-01 05:01:00",
@@ -1355,26 +1355,6 @@
     {
       "added_at": "2023-12-01 05:01:00",
       "album": {
-        "name": "ALTER EGO",
-        "url": "https://open.spotify.com/album/0ghlpJtcN9O9Sk72voIHJm"
-      },
-      "artists": [
-        {
-          "name": "Chesca",
-          "url": "https://open.spotify.com/artist/7DgpPXntG6DkNR4hCi4PjP"
-        },
-        {
-          "name": "Don Omar",
-          "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
-        }
-      ],
-      "duration_ms": 168125,
-      "name": "Ella Perrea",
-      "url": "https://open.spotify.com/track/6BGjArXcJnxm5Uyp0O7050"
-    },
-    {
-      "added_at": "2023-12-01 05:01:00",
-      "album": {
         "name": "Perreando Triste (feat. Uzielito Mix)",
         "url": "https://open.spotify.com/album/0Z0tJ5ucn0zI9Z1nuPruCs"
       },
@@ -1399,6 +1379,26 @@
       "duration_ms": 175483,
       "name": "Perreando Triste (feat. Uzielito Mix)",
       "url": "https://open.spotify.com/track/7yo64TVgvf9hBKZKCuVhUy"
+    },
+    {
+      "added_at": "2023-12-01 05:01:00",
+      "album": {
+        "name": "ALTER EGO",
+        "url": "https://open.spotify.com/album/0ghlpJtcN9O9Sk72voIHJm"
+      },
+      "artists": [
+        {
+          "name": "Chesca",
+          "url": "https://open.spotify.com/artist/7DgpPXntG6DkNR4hCi4PjP"
+        },
+        {
+          "name": "Don Omar",
+          "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
+        }
+      ],
+      "duration_ms": 168125,
+      "name": "Ella Perrea",
+      "url": "https://open.spotify.com/track/6BGjArXcJnxm5Uyp0O7050"
     },
     {
       "added_at": "2023-12-01 05:01:00",
@@ -1631,6 +1631,22 @@
     {
       "added_at": "2023-12-01 05:01:00",
       "album": {
+        "name": "EASY BOY",
+        "url": "https://open.spotify.com/album/0HhtQpQQZE43qLFJ9TJ2pd"
+      },
+      "artists": [
+        {
+          "name": "La Cruz",
+          "url": "https://open.spotify.com/artist/0JoFdUO6q5ZRdnfRADpRiJ"
+        }
+      ],
+      "duration_ms": 176326,
+      "name": "EASY BOY",
+      "url": "https://open.spotify.com/track/4f6bRqMzm8HEJIbZI2RkbB"
+    },
+    {
+      "added_at": "2023-12-01 05:01:00",
+      "album": {
         "name": "Barbie",
         "url": "https://open.spotify.com/album/7bzkPUjkBq6BUGlxpAYgXU"
       },
@@ -1647,22 +1663,6 @@
       "duration_ms": 196500,
       "name": "Barbie",
       "url": "https://open.spotify.com/track/1rUdyuKqzUVzanfMEgfFaX"
-    },
-    {
-      "added_at": "2023-12-01 05:01:00",
-      "album": {
-        "name": "EASY BOY",
-        "url": "https://open.spotify.com/album/0HhtQpQQZE43qLFJ9TJ2pd"
-      },
-      "artists": [
-        {
-          "name": "La Cruz",
-          "url": "https://open.spotify.com/artist/0JoFdUO6q5ZRdnfRADpRiJ"
-        }
-      ],
-      "duration_ms": 176326,
-      "name": "EASY BOY",
-      "url": "https://open.spotify.com/track/4f6bRqMzm8HEJIbZI2RkbB"
     },
     {
       "added_at": "2023-12-01 05:01:00",
@@ -1823,22 +1823,6 @@
     {
       "added_at": "2023-12-01 05:01:00",
       "album": {
-        "name": "Bella - Koso",
-        "url": "https://open.spotify.com/album/6nbyFnHbOCVeDekmWthCMv"
-      },
-      "artists": [
-        {
-          "name": "Hozwal",
-          "url": "https://open.spotify.com/artist/1lgtR3WlcFxEy6yPoOh0J2"
-        }
-      ],
-      "duration_ms": 149021,
-      "name": "Bella - Koso",
-      "url": "https://open.spotify.com/track/1BtxrI8KXtyH61pdQAsv9U"
-    },
-    {
-      "added_at": "2023-12-01 05:01:00",
-      "album": {
         "name": "Bellakito",
         "url": "https://open.spotify.com/album/64Ff6wk6lyoCqVU6JRlLwx"
       },
@@ -1859,22 +1843,18 @@
     {
       "added_at": "2023-12-01 05:01:00",
       "album": {
-        "name": "Normal",
-        "url": "https://open.spotify.com/album/0hTgOFvhOFoWTm4fGMoS5B"
+        "name": "Bella - Koso",
+        "url": "https://open.spotify.com/album/6nbyFnHbOCVeDekmWthCMv"
       },
       "artists": [
         {
-          "name": "YoGambii",
-          "url": "https://open.spotify.com/artist/5RuWFvTN5tmKqn0KUfNruD"
-        },
-        {
-          "name": "Xantos",
-          "url": "https://open.spotify.com/artist/3HPOnbuwLP2qlwWQ7cgxYW"
+          "name": "Hozwal",
+          "url": "https://open.spotify.com/artist/1lgtR3WlcFxEy6yPoOh0J2"
         }
       ],
-      "duration_ms": 149370,
-      "name": "Normal",
-      "url": "https://open.spotify.com/track/0O7Nbk0SNBXVuPImdjvIRS"
+      "duration_ms": 149021,
+      "name": "Bella - Koso",
+      "url": "https://open.spotify.com/track/1BtxrI8KXtyH61pdQAsv9U"
     },
     {
       "added_at": "2023-12-01 05:01:00",
@@ -1899,6 +1879,26 @@
       "duration_ms": 135232,
       "name": "Flight 0012",
       "url": "https://open.spotify.com/track/1BSCXxXQNrneoZmlUwkcmb"
+    },
+    {
+      "added_at": "2023-12-01 05:01:00",
+      "album": {
+        "name": "Normal",
+        "url": "https://open.spotify.com/album/0hTgOFvhOFoWTm4fGMoS5B"
+      },
+      "artists": [
+        {
+          "name": "YoGambii",
+          "url": "https://open.spotify.com/artist/5RuWFvTN5tmKqn0KUfNruD"
+        },
+        {
+          "name": "Xantos",
+          "url": "https://open.spotify.com/artist/3HPOnbuwLP2qlwWQ7cgxYW"
+        }
+      ],
+      "duration_ms": 149370,
+      "name": "Normal",
+      "url": "https://open.spotify.com/track/0O7Nbk0SNBXVuPImdjvIRS"
     },
     {
       "added_at": "2023-12-01 05:01:00",

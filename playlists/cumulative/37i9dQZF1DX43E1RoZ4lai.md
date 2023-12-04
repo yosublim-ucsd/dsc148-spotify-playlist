@@ -4,7 +4,7 @@
 
 > The best jazz pianists today\. Cover: Aaron Diehl
 
-413 songs - 1 day 12 hr 42 min
+414 songs - 1 day 12 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,7 @@
 | [Avidity](https://open.spotify.com/track/3FIZziHP2yndFDt2JdZ4Mg) | [Carsten Dahl](https://open.spotify.com/artist/4CSBqdnCyXayFaZR10Pvda) | [Simplicity](https://open.spotify.com/album/6SXKypQFf1M6rN5wdZ7s30) | 1:58 | 2022-02-10 | 2022-09-03 |
 | [Back To Base](https://open.spotify.com/track/0OmMCADwzH6I61Wk0vDps8) | [Espen Eriksen Trio](https://open.spotify.com/artist/57BkYLMXOYqJ7KHFhd1VST) | [End of Summer](https://open.spotify.com/album/2LleX2N1IzAe93C0qpBxuZ) | 4:30 | 2022-02-10 | 2022-09-03 |
 | [Back To St\. Joe](https://open.spotify.com/track/392h4442MZXo1N8HiQYSrp) | [David Hamilton](https://open.spotify.com/artist/2BsAEN5xq7dLjxgx9dO3QE) | [Back To St\. Joe](https://open.spotify.com/album/6VVw2ZGyGkNLpkRBDbQxtE) | 4:15 | 2022-03-18 |  |
-| [Balbec](https://open.spotify.com/track/39lgQtu1XqX3ac4oOrgkRK) | [Christian Pabst](https://open.spotify.com/artist/0lFPDEXuwezwsnMy65m4Ri) | [Balbec](https://open.spotify.com/album/6yF6oWhAZGCEF6lLTbYyDD) | 5:45 | 2022-02-10 |  |
+| [Balbec](https://open.spotify.com/track/39lgQtu1XqX3ac4oOrgkRK) | [Christian Pabst](https://open.spotify.com/artist/0lFPDEXuwezwsnMy65m4Ri) | [Balbec](https://open.spotify.com/album/6yF6oWhAZGCEF6lLTbYyDD) | 5:45 | 2022-02-10 | 2023-12-04 |
 | [Beam Me Up](https://open.spotify.com/track/08eOn7vbIOaY0yN1jUz9hw) | [Fred Hersch Trio](https://open.spotify.com/artist/6iBvBotxtLvyFZoUPytqgP) | [Heartsongs](https://open.spotify.com/album/1xf8Ny57YgeCJxNKm2oVDd) | 4:28 | 2022-02-10 | 2022-07-14 |
 | [Beignet](https://open.spotify.com/track/179Jr6fqOod5QM4vdyVgwN) | [Dr\. John](https://open.spotify.com/artist/320TrJub4arztwXRm7kqVO) | [Plays Mac Rebennack](https://open.spotify.com/album/5mz8zXcWTPKrjDxk6FdYiS) | 1:50 | 2023-09-29 |  |
 | [Bergen](https://open.spotify.com/track/2JPNNELGvaqqEbrjn1flYx) | [Rymden](https://open.spotify.com/artist/2yxMIwcfg9qdyodUwirbRW), [Bugge Wesseltoft](https://open.spotify.com/artist/4p35pLn1lRgqoVVsnqNZEK), [Magnus Öström](https://open.spotify.com/artist/1ZPtjLlwSZjToQXcq2JVy2), [Dan Berglund](https://open.spotify.com/artist/4kgT3nNA0k08zCF5xUCLb4) | [Reflections and Odysseys](https://open.spotify.com/album/4zTsD1CmVivVkizao8YOjf) | 6:24 | 2022-02-10 | 2022-09-03 |
@@ -151,6 +151,7 @@
 | [I Loves You Pogy](https://open.spotify.com/track/4OhyNqYIpDZM7RWqZtQt5Z) | [Steve Kuhn](https://open.spotify.com/artist/6KEBRNgSvb95hjK9Nh0tzt) | [Porgy](https://open.spotify.com/album/3U2aPSYf6tu5YVgBw1X7SR) | 6:45 | 2022-02-10 | 2022-09-03 |
 | [I'll Know](https://open.spotify.com/track/7qLzoarYodaUHezJvndAdK) | [Bill Charlap Trio](https://open.spotify.com/artist/5isSr1JUeHt5cgh8oWz1Ja) | [I'll Know](https://open.spotify.com/album/3daQUpLhrwncXGrSozlkeT) | 5:12 | 2022-02-10 |  |
 | [I'm Old Fashioned](https://open.spotify.com/track/1SaSHkz1R2gQ7byWHto1cw) | [Sebastiaan Van Bavel](https://open.spotify.com/artist/2s2gCyp5PRxYXpT6usimF6) | [Sebastiaan Van Bavel Studies Jerome Kern](https://open.spotify.com/album/3RbdJnQd1no4Ud18ESaGzc) | 5:58 | 2022-02-10 | 2022-10-20 |
+| [I'm Old Fashioned](https://open.spotify.com/track/4A6INxp75HBvw9jK45eVje) | [Sebastiaan Van Bavel](https://open.spotify.com/artist/2s2gCyp5PRxYXpT6usimF6) | [Sebastiaan Van Bavel Studies Jerome Kern](https://open.spotify.com/album/50dwd2RBZG0cYgeVHyYQys) | 5:58 | 2022-02-10 |  |
 | [If I Should Lose You](https://open.spotify.com/track/4da36q6VCwrg4f5pIYx4uf) | [David Hazeltine](https://open.spotify.com/artist/5mQGacj97PLCoX9YOEGf0Q) | [If I Should Lose You](https://open.spotify.com/album/2rTHaKAdXTq8B4XHmWjI4d) | 5:27 | 2022-02-25 |  |
 | [If I Should Lose You](https://open.spotify.com/track/6rKJcDJA2XwfCMVOFuD00B) | [Jacob Karlzon](https://open.spotify.com/artist/3R4vdaqhh9jn2fOCned9nM) | [Jacob Karlzon Trio: Today](https://open.spotify.com/album/10ZG1HoTjvzHzq7kvATtMm) | 6:49 | 2022-02-10 | 2022-09-03 |
 | [If I Were A Bell](https://open.spotify.com/track/6cp5rZOUVR0DWMf97J1VLy) | [Gerald Clayton](https://open.spotify.com/artist/5mYw31MXiGnqTMliAcl7m8) | [Bond: The Paris Sessions](https://open.spotify.com/album/7Gz8HtQfjCxFNNFD67MuI2) | 7:46 | 2022-02-10 | 2022-09-03 |

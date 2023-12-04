@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZbpkxU5t9L.md) - [plain]
 
 > いま話題の曲を週末にまとめてチェック。Cover: ちゃんみな
 
-[Spotify](https://open.spotify.com/user/spotify) - 115,917 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,029 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZbpkxU5t9L.md) - [plain]
 | 49 | [Ditto](https://open.spotify.com/track/3r8RuvgbX9s7ammBn07D3W) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [Ditto](https://open.spotify.com/album/7bnqo1fdJU9nSfXQd3bSMe) | 3:05 |
 | 50 | [Hoshi no Furu Hi ni](https://open.spotify.com/track/1wUV9QbSDeBKintovkTn5v) | [aiko](https://open.spotify.com/artist/6TDMbiQCWeMClsMr9ORLRK) | [Hoshi no Furu Hi ni](https://open.spotify.com/album/39nOsCE0tDfgTBPVRHwpvk) | 4:49 |
 
-Snapshot ID: `MCwzZTdhYzZiNDc1ODYxNWJiNmIyNDEyNjI3MjU5ZDliZTlhOTk3YTdl`
+Snapshot ID: `MCwyOTBmNzE4MjUzOTU1Mjk2YWMyOGMwMWY2MWNkYmEyYjAyYmQyZmUw`

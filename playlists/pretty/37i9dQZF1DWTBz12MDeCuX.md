@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 
 > Die Playlist, die dich fühlt\. Cover: JBS, MilleniumKid
 
-[Spotify](https://open.spotify.com/user/spotify) - 446,907 likes - 101 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 446,916 likes - 101 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 | 100 | [Paris Paris](https://open.spotify.com/track/5DCsBJ761OKZT9QAYljRB7) | [JBS](https://open.spotify.com/artist/6l8dHVPkuEFzpQjhCH4xXT) | [Paris Paris](https://open.spotify.com/album/69rUtSl9ZypyPH225w0TfD) | 2:56 |
 | 101 | [Why Do You Hate Me](https://open.spotify.com/track/2sgbEfih4ClTQ13fo3zaOl) | [CH4YN](https://open.spotify.com/artist/3G42n5HyIQhYUmKX67yOaU) | [Why Do You Hate Me](https://open.spotify.com/album/2TOSa1BTQF23HlqLjOSltx) | 2:23 |
 
-Snapshot ID: `MCxlYWQ4NDZlNzM3YjE5MzY5YTNhZjFhZTI2YzJlMzQxMTA0YTAzZjg0`
+Snapshot ID: `MCw1NmVlYjE4ZjQ5ZmFhYjAyNTlhMDY4ZGFmMTUzMzEzMWM3Nzg3MTRl`

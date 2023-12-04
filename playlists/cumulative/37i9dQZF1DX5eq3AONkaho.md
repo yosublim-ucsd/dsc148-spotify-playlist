@@ -4,7 +4,7 @@
 
 > Why so serious? Get through your workday with K\-Pop\. \(내적댄스 유발 노동요와 함께 신나는 업무 & 공부시간을 보내세요!\)
 
-933 songs - 2 day 4 hr 30 min
+934 songs - 2 day 4 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,6 +73,7 @@
 | [Atlantis](https://open.spotify.com/track/0BBUGRUURDjwcXmDS3kQkN) | [SHINee](https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR) | [Atlantis \- The 7th Album Repackage](https://open.spotify.com/album/4hyhyzEkMEsaSHzkuMn4Ds) | 2:58 | 2021-11-17 | 2022-07-28 |
 | [Atlantis Princess](https://open.spotify.com/track/3NFXgRyGUH3j0dQ9PB4rWC) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl) | [Our Beloved BoA \#2 \- SM STATION](https://open.spotify.com/album/3UQxkD9aJu22ihimovD0qs) | 3:31 | 2021-11-17 | 2022-07-21 |
 | [Attention](https://open.spotify.com/track/2pIUpMhHL6L9Z5lnKxJJr9) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 1st EP 'New Jeans'](https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV) | 3:00 | 2022-08-12 |  |
+| [Ay\-Yo](https://open.spotify.com/track/2KwOuFfwQyT9mZqjvchd81) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [Ay\-Yo \- The 4th Album Repackage](https://open.spotify.com/album/3VjW3uIc8WG4tXF2wKW9BJ) | 3:41 | 2023-11-04 |  |
 | [AYA](https://open.spotify.com/track/4BZXVFYCb76Q0Klojq4piV) | [MAMAMOO](https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G) | [TRAVEL](https://open.spotify.com/album/3xje7wSW2xwQx2GNJ5cfNu) | 3:31 | 2021-11-17 | 2023-03-29 |
 | [B.B.B \(Never Say Good\-Bye\)](https://open.spotify.com/track/4Unzjk9hUFslqeoPx9z6RM) | [NATURE](https://open.spotify.com/artist/5WUom9mTTEewPdUmI4qnQi) | [NATURE WORLD: CODE M](https://open.spotify.com/album/3XJnhd1OJGfH3qXbIz02l4) | 2:48 | 2022-03-24 | 2022-04-21 |
 | [Baby Don’t Stop](https://open.spotify.com/track/1EYSS9Lp7a9f20C3FaOVgI) | [NCT](https://open.spotify.com/artist/48eO052eSDcn8aTxiv6QaG), [NCT U](https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ) | [NCT 2018 EMPATHY](https://open.spotify.com/album/3KAJvo62RNQEtXwIyB5rzX) | 3:03 | 2022-02-16 | 2023-03-29 |
@@ -510,7 +511,7 @@
 | [Love To Hate Me](https://open.spotify.com/track/7iKDsPfLT0d5mu2htfMKBZ) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [THE ALBUM](https://open.spotify.com/album/71O60S5gIJSIAhdnrDIh3N) | 2:51 | 2021-11-17 | 2022-07-29 |
 | [Love War \(Feat\. BE'O\)](https://open.spotify.com/track/1UjN1QVbHnzJiqjkqzWmZK) | [YENA](https://open.spotify.com/artist/49muoiIu4uea4PO8vueUNN), [BE'O](https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7) | [Love War](https://open.spotify.com/album/3gWIe0cTPYqrI8xIYHjten) | 3:08 | 2023-01-16 | 2023-11-05 |
 | [LOVE% \(feat\. DAWN\)](https://open.spotify.com/track/2bR7KFQESL278uZAc1vb4U) | [DEMIAN](https://open.spotify.com/artist/6DNTezBmjBm68oYPCENCcA), [DAWN 던](https://open.spotify.com/artist/7DxCK6bwfQC3F2ajZ02R2F) | [A Blue not Blues](https://open.spotify.com/album/1sonSzv8w0K8IMdasvLxKp) | 3:33 | 2021-11-17 | 2022-07-24 |
-| [Loved](https://open.spotify.com/track/2nWVowkuFVY6hCRBylnaZh) | [B.I](https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6) | [Loved](https://open.spotify.com/album/5O5mq8leoHh0Cc8UPUxbhq) | 2:36 | 2023-11-04 |  |
+| [Loved](https://open.spotify.com/track/2nWVowkuFVY6hCRBylnaZh) | [B.I](https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6) | [Loved](https://open.spotify.com/album/5O5mq8leoHh0Cc8UPUxbhq) | 2:36 | 2023-11-04 | 2023-12-04 |
 | [LOVER](https://open.spotify.com/track/5aaJ5Y9Rzv0XftLcIsftw1) | [TEEN TOP](https://open.spotify.com/artist/3offPqpKAKmpQkIdWnjzkc) | [TEEN TOP STORY : 8PISODE](https://open.spotify.com/album/4Lgxemzl6UcyS54Cw4OnKJ) | 3:22 | 2022-03-24 | 2022-04-20 |
 | [Lover Like Me](https://open.spotify.com/track/33H4jpDv7tK6UxPukAiabA) | [CL](https://open.spotify.com/artist/0tzSBCPJZmHTdOA3ZV2mN3) | [Lover Like Me](https://open.spotify.com/album/3MqhLDy7jbZlkQHpArYWbC) | 2:57 | 2022-02-03 | 2022-07-29 |
 | [Lovesick Girls](https://open.spotify.com/track/4Ws314Ylb27BVsvlZOy30C) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [THE ALBUM](https://open.spotify.com/album/71O60S5gIJSIAhdnrDIh3N) | 3:14 | 2021-11-17 | 2022-07-29 |

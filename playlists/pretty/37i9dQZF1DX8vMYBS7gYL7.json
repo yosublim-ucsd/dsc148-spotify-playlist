@@ -1,12 +1,12 @@
 {
   "description": "Un poco de sabrosura y color para esos d\u00edas lluviosos.",
-  "num_followers": 35024,
+  "num_followers": 35075,
   "original_name": "Lluvia Tropical",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNjU5NDIyNDA5NDgxMDhjMGJjZDRiYzFlOWFmY2JiODVmODJiZDJl",
+  "snapshot_id": "MCxjMDY3OWU1ZGU5NzBlN2ViMWVmYTM3MmQwMzZjZDMzMTkyNDI0NjMw",
   "tracks": [
     {
       "added_at": "2021-11-23 20:12:50",
@@ -767,26 +767,6 @@
     {
       "added_at": "2021-11-23 20:12:50",
       "album": {
-        "name": "Ag\u00fazate",
-        "url": "https://open.spotify.com/album/2R2Y7hVi5E6mDjepQZYRN4"
-      },
-      "artists": [
-        {
-          "name": "Ricardo \"Richie\" Ray",
-          "url": "https://open.spotify.com/artist/2spUXl3eKq2URO97haSzAc"
-        },
-        {
-          "name": "Bobby Cruz",
-          "url": "https://open.spotify.com/artist/0JIMhbNg4VwToE3unSL3C4"
-        }
-      ],
-      "duration_ms": 377253,
-      "name": "Ag\u00fazate",
-      "url": "https://open.spotify.com/track/1JtLVwufQ1S0KggOg7ZxbA"
-    },
-    {
-      "added_at": "2021-11-23 20:12:50",
-      "album": {
         "name": "Discos Bailables",
         "url": "https://open.spotify.com/album/04bxlf3LWGIRIC1b0lZKoI"
       },
@@ -815,6 +795,26 @@
       "duration_ms": 182200,
       "name": "Qui\u00e9reme Sempre",
       "url": "https://open.spotify.com/track/2UkKWdjByMLTsxQDiP3XAc"
+    },
+    {
+      "added_at": "2021-11-23 20:12:50",
+      "album": {
+        "name": "Ag\u00fazate",
+        "url": "https://open.spotify.com/album/2R2Y7hVi5E6mDjepQZYRN4"
+      },
+      "artists": [
+        {
+          "name": "Ricardo \"Richie\" Ray",
+          "url": "https://open.spotify.com/artist/2spUXl3eKq2URO97haSzAc"
+        },
+        {
+          "name": "Bobby Cruz",
+          "url": "https://open.spotify.com/artist/0JIMhbNg4VwToE3unSL3C4"
+        }
+      ],
+      "duration_ms": 377253,
+      "name": "Ag\u00fazate",
+      "url": "https://open.spotify.com/track/1JtLVwufQ1S0KggOg7ZxbA"
     },
     {
       "added_at": "2021-11-23 20:12:50",

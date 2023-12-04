@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX16Q183eyvd.md) - [plain]
 
 > Push play on the coolest playlist around, and get ready to jump around.
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,279 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,292 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,9 +40,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX16Q183eyvd.md) - [plain]
 | 30 | [Go DJ](https://open.spotify.com/track/1iD60ApOiYKOb32UCaYWP1) | [Lil' Max$o](https://open.spotify.com/artist/7kXeApbOgTQGEeF76m6qQP) | [Kids Rap Radio](https://open.spotify.com/album/3rVTfED6gnKVwhU7VEf6y5) | 3:22 |
 | 31 | [I'm Healthy](https://open.spotify.com/track/7ECdYi17tlPuGg9YVblRPU) | [Blake Rules](https://open.spotify.com/artist/5cdbXEnJgop6zjIxn4ljZ8), [Netherfriends](https://open.spotify.com/artist/5nYfBUxnHtI6LAp32fl9qY) | [Kids Trap](https://open.spotify.com/album/70NZulwHGHVgluy1pwMY3C) | 2:33 |
 | 32 | [Shake Ya Tailfeather](https://open.spotify.com/track/2t3ZxwOLtpRYxctPbXRRns) | [Giggle Club](https://open.spotify.com/artist/0VXTiAhwelyAgBsxbbinnf) | [Kids Rap Radio](https://open.spotify.com/album/3rVTfED6gnKVwhU7VEf6y5) | 3:58 |
-| 33 | [Rise](https://open.spotify.com/track/00Nx5kFUJBcdGa0GNPH8Lx) | [SaulPaul](https://open.spotify.com/artist/0WLNaHsTTp6sWxaL7KykCu) | [Tower to Tower 2](https://open.spotify.com/album/0FT8XvXuscoSlxZb5138Fq) | 3:03 |
+| 33 | [Safari](https://open.spotify.com/track/1Cz147uNA3JuLlaF60TP5K) | [Eek\-A\-Mouse](https://open.spotify.com/artist/6xqlgBccdlxUh5DeJSx2ho) | [Mouse\-A\-Mania](https://open.spotify.com/album/1XHsqic4Jn9koJxkRYwVNw) | 3:25 |
 | 34 | [Hey Ya](https://open.spotify.com/track/7qEaSln7DzqWAxVWPJG8hz) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Kidz Bop Party Hits](https://open.spotify.com/album/7dtTU6GpOYFNwF5hE1o4zE) | 3:55 |
-| 35 | [Safari](https://open.spotify.com/track/1Cz147uNA3JuLlaF60TP5K) | [Eek\-A\-Mouse](https://open.spotify.com/artist/6xqlgBccdlxUh5DeJSx2ho) | [Mouse\-A\-Mania](https://open.spotify.com/album/1XHsqic4Jn9koJxkRYwVNw) | 3:25 |
+| 35 | [Rise](https://open.spotify.com/track/00Nx5kFUJBcdGa0GNPH8Lx) | [SaulPaul](https://open.spotify.com/artist/0WLNaHsTTp6sWxaL7KykCu) | [Tower to Tower 2](https://open.spotify.com/album/0FT8XvXuscoSlxZb5138Fq) | 3:03 |
 | 36 | [Bored is a Bad Word](https://open.spotify.com/track/6l8PVMHkToebBTlJacW6Fa) | [Secret Agent 23 Skidoo](https://open.spotify.com/artist/7zhRp9EH4bF8lJx7wQtj5Q) | [Underground Playground](https://open.spotify.com/album/41kgd9xgfuYAmKasunl4Sa) | 3:43 |
 | 37 | [Dance Party in the House](https://open.spotify.com/track/6ZSMbNa2ZSmLR7LlC5Bz0m) | [Blake Rules](https://open.spotify.com/artist/5cdbXEnJgop6zjIxn4ljZ8), [Netherfriends](https://open.spotify.com/artist/5nYfBUxnHtI6LAp32fl9qY) | [Kids Trap \(In the House\)](https://open.spotify.com/album/2waS7cb3Rnkr2oZLO6l0Wf) | 3:18 |
 | 38 | [Jumping Jacks \- Feat\. Jabari & Baby Power](https://open.spotify.com/track/4WMe7Vxf5Mf6HoE0p28nYR) | [Mee Wee](https://open.spotify.com/artist/53oYcs7ZLh8S3lmt3E5fBp) | [Mee Wee: Hip Hop For Kids](https://open.spotify.com/album/1yjk5rVfA943EL3QvbVvGU) | 2:10 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX16Q183eyvd.md) - [plain]
 | 49 | [The Cypher](https://open.spotify.com/track/1RlNTr0g5m8b1juzyPEz1e) | [Pj Panda](https://open.spotify.com/artist/5JoLyttlVOhNk4gGBTXsMS) | [The Cypher](https://open.spotify.com/album/0iFJLdXv22Uam0ItEQ4076) | 2:52 |
 | 50 | [TELL EM](https://open.spotify.com/track/4IrDPdjKLcQNnCoP4vWF6o) | [GoKeeKeeGo](https://open.spotify.com/artist/7zsyllxtoU29NBJPu96jbz) | [TELL EM](https://open.spotify.com/album/0cuRGPN7DtPu6M1Y0vAOzX) | 2:54 |
 
-Snapshot ID: `MCxjNzg1Zjk3NTU0Y2UzNzQxOWVkYzQ2NDMyYWQ3ZDg5N2U1ODA3NzRi`
+Snapshot ID: `MCw2YTIxYWY2ZTMwZjljZDc3ZWQwZDQ4MmY0MWEwOTYyMjZhYmFkNmEz`

@@ -4700,7 +4700,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-04",
       "duration_ms": 318320,
       "name": "Israel's Son",
       "url": "https://open.spotify.com/track/4gAV3sMEZn4lrfKPGARCqA"
@@ -9558,6 +9558,24 @@
       "duration_ms": 201813,
       "name": "Taste It",
       "url": "https://open.spotify.com/track/5nyoBFZpN6miTIrBeNJtyB"
+    },
+    {
+      "album": {
+        "name": "Balls to Picasso (2001 Remaster)",
+        "url": "https://open.spotify.com/album/2AKNnewiklMkna3HbigH5X"
+      },
+      "artists": [
+        {
+          "name": "Bruce Dickinson",
+          "url": "https://open.spotify.com/artist/7Iffw1nP3NjCWkRIx3Ily9"
+        }
+      ],
+      "date_added": "2023-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 384013,
+      "name": "Tears of the Dragon (2001 Remaster)",
+      "url": "https://open.spotify.com/track/3EiQGaaHMHFk5ykD1a7vYt"
     },
     {
       "album": {

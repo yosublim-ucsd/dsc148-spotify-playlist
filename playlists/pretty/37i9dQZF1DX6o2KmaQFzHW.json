@@ -1,12 +1,12 @@
 {
   "description": "Cl\u00e1sicos del folklore argentino de la mano de sus m\u00e1s grandes int\u00e9rpretes. Foto: Chaque\u00f1o Palavecino.",
-  "num_followers": 180390,
+  "num_followers": 180442,
   "original_name": "Folklore de Siempre",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYzEyYjViNGNkZjlmMTU0OWI3Yjg2MWM4ZWQ5Mjc5MThmMDk5OGU0",
+  "snapshot_id": "MCxhMzA3NjdlMjQ0OGQwNWRlNTNmYjhiYjdlNWI5ZDRjNzZiZWY0Yjk5",
   "tracks": [
     {
       "added_at": "2023-09-07 20:59:53",
@@ -59,18 +59,18 @@
     {
       "added_at": "2023-09-07 20:59:53",
       "album": {
-        "name": "Signos",
-        "url": "https://open.spotify.com/album/5WZizOyx12sTkACa66HQ4q"
+        "name": "\u00c9xitos Sin Fronteras",
+        "url": "https://open.spotify.com/album/3SGF45hToDUlV5Gvurtmp7"
       },
       "artists": [
         {
-          "name": "Los Nocheros",
-          "url": "https://open.spotify.com/artist/2ydE5oBt6cwsDxH1TpIFmO"
+          "name": "Los Chalchaleros",
+          "url": "https://open.spotify.com/artist/0t8lKcdJV0dEicuocOteOw"
         }
       ],
-      "duration_ms": 291040,
-      "name": "Entre La Tierra Y El Cielo",
-      "url": "https://open.spotify.com/track/1hQgzgaxymIbhqoWpMYDnf"
+      "duration_ms": 180200,
+      "name": "La Cerrillana",
+      "url": "https://open.spotify.com/track/4E38Uglo9qAS9VqHdhyycF"
     },
     {
       "added_at": "2023-09-07 20:59:53",
@@ -91,18 +91,18 @@
     {
       "added_at": "2023-09-07 20:59:53",
       "album": {
-        "name": "\u00c9xitos Sin Fronteras",
-        "url": "https://open.spotify.com/album/3SGF45hToDUlV5Gvurtmp7"
+        "name": "Signos",
+        "url": "https://open.spotify.com/album/5WZizOyx12sTkACa66HQ4q"
       },
       "artists": [
         {
-          "name": "Los Chalchaleros",
-          "url": "https://open.spotify.com/artist/0t8lKcdJV0dEicuocOteOw"
+          "name": "Los Nocheros",
+          "url": "https://open.spotify.com/artist/2ydE5oBt6cwsDxH1TpIFmO"
         }
       ],
-      "duration_ms": 180200,
-      "name": "La Cerrillana",
-      "url": "https://open.spotify.com/track/4E38Uglo9qAS9VqHdhyycF"
+      "duration_ms": 291040,
+      "name": "Entre La Tierra Y El Cielo",
+      "url": "https://open.spotify.com/track/1hQgzgaxymIbhqoWpMYDnf"
     },
     {
       "added_at": "2023-09-07 20:59:53",
@@ -207,22 +207,6 @@
     {
       "added_at": "2023-09-07 20:59:53",
       "album": {
-        "name": "Signos",
-        "url": "https://open.spotify.com/album/5WZizOyx12sTkACa66HQ4q"
-      },
-      "artists": [
-        {
-          "name": "Los Nocheros",
-          "url": "https://open.spotify.com/artist/2ydE5oBt6cwsDxH1TpIFmO"
-        }
-      ],
-      "duration_ms": 161160,
-      "name": "Chacarera Del Rancho",
-      "url": "https://open.spotify.com/track/7FxhDl2TtdtWa7P490QGTS"
-    },
-    {
-      "added_at": "2023-09-07 20:59:53",
-      "album": {
         "name": "Los 20 A\u00f1os de Los Manseros Santiague\u00f1os",
         "url": "https://open.spotify.com/album/175Pk8soXmGSZPy2R6Ic3n"
       },
@@ -235,6 +219,22 @@
       "duration_ms": 199693,
       "name": "Entra a Mi Hogar",
       "url": "https://open.spotify.com/track/0vICUGzGQoi7KT0ALk4r2m"
+    },
+    {
+      "added_at": "2023-09-07 20:59:53",
+      "album": {
+        "name": "Signos",
+        "url": "https://open.spotify.com/album/5WZizOyx12sTkACa66HQ4q"
+      },
+      "artists": [
+        {
+          "name": "Los Nocheros",
+          "url": "https://open.spotify.com/artist/2ydE5oBt6cwsDxH1TpIFmO"
+        }
+      ],
+      "duration_ms": 161160,
+      "name": "Chacarera Del Rancho",
+      "url": "https://open.spotify.com/track/7FxhDl2TtdtWa7P490QGTS"
     },
     {
       "added_at": "2023-09-07 20:59:53",
@@ -303,22 +303,18 @@
     {
       "added_at": "2023-09-07 20:59:53",
       "album": {
-        "name": "Carnaval, Pasi\u00f3n del Norte",
-        "url": "https://open.spotify.com/album/0WaV0ZGsHi6ImqIe8OTDvC"
+        "name": "30 A\u00f1os Con el Canto",
+        "url": "https://open.spotify.com/album/10WOUoHlzhyTLKhMJdVP0x"
       },
       "artists": [
         {
-          "name": "Los Nocheros",
-          "url": "https://open.spotify.com/artist/2ydE5oBt6cwsDxH1TpIFmO"
-        },
-        {
-          "name": "Los Tekis",
-          "url": "https://open.spotify.com/artist/0iutktJLkNNtErs8c3EoF6"
+          "name": "Los Manseros Santiague\u00f1os",
+          "url": "https://open.spotify.com/artist/0IAWTLWnUIzKVQDTGoYJk2"
         }
       ],
-      "duration_ms": 185226,
-      "name": "Vienes y Te Vas",
-      "url": "https://open.spotify.com/track/188wTON3SZIoUVG39rINeq"
+      "duration_ms": 173733,
+      "name": "Para los Ojos M\u00e1s Bellos",
+      "url": "https://open.spotify.com/track/4w9ax8d0trOBzXX36a9rEe"
     },
     {
       "added_at": "2023-09-07 20:59:53",
@@ -375,18 +371,22 @@
     {
       "added_at": "2023-09-07 20:59:53",
       "album": {
-        "name": "30 A\u00f1os Con el Canto",
-        "url": "https://open.spotify.com/album/10WOUoHlzhyTLKhMJdVP0x"
+        "name": "Carnaval, Pasi\u00f3n del Norte",
+        "url": "https://open.spotify.com/album/0WaV0ZGsHi6ImqIe8OTDvC"
       },
       "artists": [
         {
-          "name": "Los Manseros Santiague\u00f1os",
-          "url": "https://open.spotify.com/artist/0IAWTLWnUIzKVQDTGoYJk2"
+          "name": "Los Nocheros",
+          "url": "https://open.spotify.com/artist/2ydE5oBt6cwsDxH1TpIFmO"
+        },
+        {
+          "name": "Los Tekis",
+          "url": "https://open.spotify.com/artist/0iutktJLkNNtErs8c3EoF6"
         }
       ],
-      "duration_ms": 173733,
-      "name": "Para los Ojos M\u00e1s Bellos",
-      "url": "https://open.spotify.com/track/4w9ax8d0trOBzXX36a9rEe"
+      "duration_ms": 185226,
+      "name": "Vienes y Te Vas",
+      "url": "https://open.spotify.com/track/188wTON3SZIoUVG39rINeq"
     },
     {
       "added_at": "2023-09-07 20:59:53",
@@ -459,18 +459,18 @@
     {
       "added_at": "2023-09-07 20:59:53",
       "album": {
-        "name": "Hernan Figueroa Reyes El Unico",
-        "url": "https://open.spotify.com/album/1R1AaAeSP5aOfX6Sai5Lk7"
+        "name": "Las Chacareras Vol.1",
+        "url": "https://open.spotify.com/album/4jfQ43IAdWCXAONZdoMPRh"
       },
       "artists": [
         {
-          "name": "Hernan Figueroa Reyes",
-          "url": "https://open.spotify.com/artist/4uIoOdivSAzUdJB8CTfP8S"
+          "name": "Los Manseros Santiague\u00f1os",
+          "url": "https://open.spotify.com/artist/0IAWTLWnUIzKVQDTGoYJk2"
         }
       ],
-      "duration_ms": 168948,
-      "name": "El Corralero",
-      "url": "https://open.spotify.com/track/4aQnqYqxg3JlDz2CyS1aap"
+      "duration_ms": 171990,
+      "name": "A\u00f1oranzas",
+      "url": "https://open.spotify.com/track/2H0jbraCWzCg45Al8dD0tu"
     },
     {
       "added_at": "2023-09-07 20:59:53",
@@ -491,18 +491,18 @@
     {
       "added_at": "2023-09-07 20:59:53",
       "album": {
-        "name": "Navega",
-        "url": "https://open.spotify.com/album/6EnBUygxpoTiTTA6z0xhCx"
+        "name": "Hernan Figueroa Reyes El Unico",
+        "url": "https://open.spotify.com/album/1R1AaAeSP5aOfX6Sai5Lk7"
       },
       "artists": [
         {
-          "name": "Jorge Fandermole",
-          "url": "https://open.spotify.com/artist/4l6qncc7ne4yU7z9i1Mtet"
+          "name": "Hernan Figueroa Reyes",
+          "url": "https://open.spotify.com/artist/4uIoOdivSAzUdJB8CTfP8S"
         }
       ],
-      "duration_ms": 306586,
-      "name": "Oraci\u00f3n del remanso",
-      "url": "https://open.spotify.com/track/2RJgedUGuVZTMRRjQzRnWd"
+      "duration_ms": 168948,
+      "name": "El Corralero",
+      "url": "https://open.spotify.com/track/4aQnqYqxg3JlDz2CyS1aap"
     },
     {
       "added_at": "2023-09-07 20:59:53",
@@ -519,22 +519,6 @@
       "duration_ms": 128893,
       "name": "Chacarera del Olvido",
       "url": "https://open.spotify.com/track/1TsrW24N0hgAlOWNCTjIlL"
-    },
-    {
-      "added_at": "2023-09-07 20:59:53",
-      "album": {
-        "name": "Las Chacareras Vol.1",
-        "url": "https://open.spotify.com/album/4jfQ43IAdWCXAONZdoMPRh"
-      },
-      "artists": [
-        {
-          "name": "Los Manseros Santiague\u00f1os",
-          "url": "https://open.spotify.com/artist/0IAWTLWnUIzKVQDTGoYJk2"
-        }
-      ],
-      "duration_ms": 171990,
-      "name": "A\u00f1oranzas",
-      "url": "https://open.spotify.com/track/2H0jbraCWzCg45Al8dD0tu"
     },
     {
       "added_at": "2023-09-07 20:59:53",
@@ -583,6 +567,22 @@
       "duration_ms": 214493,
       "name": "Luna Tucumana - Remastered 2003",
       "url": "https://open.spotify.com/track/2R85ZXoflj01lCJPWyDQZC"
+    },
+    {
+      "added_at": "2023-09-07 20:59:53",
+      "album": {
+        "name": "Navega",
+        "url": "https://open.spotify.com/album/6EnBUygxpoTiTTA6z0xhCx"
+      },
+      "artists": [
+        {
+          "name": "Jorge Fandermole",
+          "url": "https://open.spotify.com/artist/4l6qncc7ne4yU7z9i1Mtet"
+        }
+      ],
+      "duration_ms": 306586,
+      "name": "Oraci\u00f3n del remanso",
+      "url": "https://open.spotify.com/track/2RJgedUGuVZTMRRjQzRnWd"
     },
     {
       "added_at": "2023-09-07 20:59:53",
@@ -647,18 +647,18 @@
     {
       "added_at": "2023-09-07 20:59:53",
       "album": {
-        "name": "La Llave",
-        "url": "https://open.spotify.com/album/3FhFLJcOQ3xuECoy24Dpe6"
+        "name": "Chango",
+        "url": "https://open.spotify.com/album/1gNaGgEmk8a9rH2eRExnKV"
       },
       "artists": [
         {
-          "name": "Abel Pintos",
-          "url": "https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa"
+          "name": "Raly Barrionuevo",
+          "url": "https://open.spotify.com/artist/0mdD8YXAyJDJ2BHxIKF0Yf"
         }
       ],
-      "duration_ms": 230093,
-      "name": "Todo Est\u00e1 en Vos",
-      "url": "https://open.spotify.com/track/3m0iTs6YcT467EhgWMequG"
+      "duration_ms": 231733,
+      "name": "Zamba de Abril",
+      "url": "https://open.spotify.com/track/71l747KWxSIlCOiKbtBokH"
     },
     {
       "added_at": "2023-09-07 20:59:53",
@@ -679,18 +679,18 @@
     {
       "added_at": "2023-09-07 20:59:53",
       "album": {
-        "name": "Chango",
-        "url": "https://open.spotify.com/album/1gNaGgEmk8a9rH2eRExnKV"
+        "name": "La Llave",
+        "url": "https://open.spotify.com/album/3FhFLJcOQ3xuECoy24Dpe6"
       },
       "artists": [
         {
-          "name": "Raly Barrionuevo",
-          "url": "https://open.spotify.com/artist/0mdD8YXAyJDJ2BHxIKF0Yf"
+          "name": "Abel Pintos",
+          "url": "https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa"
         }
       ],
-      "duration_ms": 231733,
-      "name": "Zamba de Abril",
-      "url": "https://open.spotify.com/track/71l747KWxSIlCOiKbtBokH"
+      "duration_ms": 230093,
+      "name": "Todo Est\u00e1 en Vos",
+      "url": "https://open.spotify.com/track/3m0iTs6YcT467EhgWMequG"
     },
     {
       "added_at": "2023-09-07 20:59:53",
@@ -711,18 +711,18 @@
     {
       "added_at": "2023-09-07 20:59:53",
       "album": {
-        "name": "Ahora",
-        "url": "https://open.spotify.com/album/6QmwupG6RMQozuQy04d5NF"
+        "name": "Horacio Guarany",
+        "url": "https://open.spotify.com/album/7aD2UhWw7u2wqK23hVKpsT"
       },
       "artists": [
         {
-          "name": "Cuti y Roberto Carabajal",
-          "url": "https://open.spotify.com/artist/4GN1eZnMxHLMX8a7sBBbFc"
+          "name": "Horacio Guarany",
+          "url": "https://open.spotify.com/artist/7exkSLWDTlXJYcmBhWp9cl"
         }
       ],
-      "duration_ms": 179722,
-      "name": "Entre A Mi Pago Sin Golpear",
-      "url": "https://open.spotify.com/track/39qcpH01L186HXM3fjrXeG"
+      "duration_ms": 131066,
+      "name": "Caballo Que No Galopa",
+      "url": "https://open.spotify.com/track/2CljEveFdykiGGUOgg7djM"
     },
     {
       "added_at": "2023-09-07 20:59:53",
@@ -743,18 +743,18 @@
     {
       "added_at": "2023-09-07 20:59:53",
       "album": {
-        "name": "Horacio Guarany",
-        "url": "https://open.spotify.com/album/7aD2UhWw7u2wqK23hVKpsT"
+        "name": "Ahora",
+        "url": "https://open.spotify.com/album/6QmwupG6RMQozuQy04d5NF"
       },
       "artists": [
         {
-          "name": "Horacio Guarany",
-          "url": "https://open.spotify.com/artist/7exkSLWDTlXJYcmBhWp9cl"
+          "name": "Cuti y Roberto Carabajal",
+          "url": "https://open.spotify.com/artist/4GN1eZnMxHLMX8a7sBBbFc"
         }
       ],
-      "duration_ms": 131066,
-      "name": "Caballo Que No Galopa",
-      "url": "https://open.spotify.com/track/2CljEveFdykiGGUOgg7djM"
+      "duration_ms": 179722,
+      "name": "Entre A Mi Pago Sin Golpear",
+      "url": "https://open.spotify.com/track/39qcpH01L186HXM3fjrXeG"
     },
     {
       "added_at": "2023-09-07 20:59:53",
@@ -811,6 +811,22 @@
     {
       "added_at": "2023-09-07 20:59:53",
       "album": {
+        "name": "Zambas Inolvidables Y Una Canci\u00f3n Al Vino",
+        "url": "https://open.spotify.com/album/1EpLxDhlOpSzCCg6FiZ1Wz"
+      },
+      "artists": [
+        {
+          "name": "Horacio Guarany",
+          "url": "https://open.spotify.com/artist/7exkSLWDTlXJYcmBhWp9cl"
+        }
+      ],
+      "duration_ms": 177720,
+      "name": "Cuando Ya Nadie Te Nombre",
+      "url": "https://open.spotify.com/track/5RyS7JpzPMacnkKzQIpeka"
+    },
+    {
+      "added_at": "2023-09-07 20:59:53",
+      "album": {
         "name": "Canci\u00f3n Para Una Mentira",
         "url": "https://open.spotify.com/album/5DS1KiJug4nVfpk4llnSeX"
       },
@@ -859,22 +875,6 @@
     {
       "added_at": "2023-09-07 20:59:53",
       "album": {
-        "name": "Zambas Inolvidables Y Una Canci\u00f3n Al Vino",
-        "url": "https://open.spotify.com/album/1EpLxDhlOpSzCCg6FiZ1Wz"
-      },
-      "artists": [
-        {
-          "name": "Horacio Guarany",
-          "url": "https://open.spotify.com/artist/7exkSLWDTlXJYcmBhWp9cl"
-        }
-      ],
-      "duration_ms": 177720,
-      "name": "Cuando Ya Nadie Te Nombre",
-      "url": "https://open.spotify.com/track/5RyS7JpzPMacnkKzQIpeka"
-    },
-    {
-      "added_at": "2023-09-07 20:59:53",
-      "album": {
         "name": "Desde Adentro",
         "url": "https://open.spotify.com/album/3sVX158atFIJCx8C3hhav0"
       },
@@ -911,6 +911,26 @@
     {
       "added_at": "2023-09-07 20:59:53",
       "album": {
+        "name": "Carnaval, Pasi\u00f3n del Norte",
+        "url": "https://open.spotify.com/album/0WaV0ZGsHi6ImqIe8OTDvC"
+      },
+      "artists": [
+        {
+          "name": "Los Nocheros",
+          "url": "https://open.spotify.com/artist/2ydE5oBt6cwsDxH1TpIFmO"
+        },
+        {
+          "name": "Los Tekis",
+          "url": "https://open.spotify.com/artist/0iutktJLkNNtErs8c3EoF6"
+        }
+      ],
+      "duration_ms": 202053,
+      "name": "Canto Nochero",
+      "url": "https://open.spotify.com/track/0omW2uqEb73K7uvzNFzRDm"
+    },
+    {
+      "added_at": "2023-09-07 20:59:53",
+      "album": {
         "name": "From Argentina To The World",
         "url": "https://open.spotify.com/album/6s6i8lmBcB27bjpzsNkksR"
       },
@@ -923,22 +943,6 @@
       "duration_ms": 210400,
       "name": "El Arriero",
       "url": "https://open.spotify.com/track/0DDk5QBU6Fsj4OtaDNHtfa"
-    },
-    {
-      "added_at": "2023-09-07 20:59:53",
-      "album": {
-        "name": "Signos",
-        "url": "https://open.spotify.com/album/5WZizOyx12sTkACa66HQ4q"
-      },
-      "artists": [
-        {
-          "name": "Los Nocheros",
-          "url": "https://open.spotify.com/artist/2ydE5oBt6cwsDxH1TpIFmO"
-        }
-      ],
-      "duration_ms": 170160,
-      "name": "La Descre\u00edda",
-      "url": "https://open.spotify.com/track/3iRMUBsU6dF9qByGhDpMId"
     },
     {
       "added_at": "2023-09-07 20:59:53",

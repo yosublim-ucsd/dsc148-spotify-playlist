@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3mvx0imueXo.md) - [plain]
 
 > Let the music lift your soul\. Vibes from the different islands in the Caribbean
 
-[Spotify](https://open.spotify.com/user/spotify) - 406,348 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 406,409 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3mvx0imueXo.md) - [plain]
 | 49 | [Stay Woke](https://open.spotify.com/track/6osoYGfqRBZ2QdHo1pBCk5) | [Lion D](https://open.spotify.com/artist/6dV7tQuFIXDX8nbGkWCSnz), [Million Stylez](https://open.spotify.com/artist/2TF8gIfNvlOCCEgAoOUz2L), [Danjah](https://open.spotify.com/artist/2ZyQXz3BsnPPB5bcUYZ6hO), [Bizzarri](https://open.spotify.com/artist/6u2JGZYGitPzTfCRjnAAie) | [Stay Woke](https://open.spotify.com/album/34i058rgu3AHHS7IoIy25O) | 3:09 |
 | 50 | [Same Ole Song](https://open.spotify.com/track/7iCUiFVauafAFjY7EbBJsW) | [Dre Island](https://open.spotify.com/artist/0TS9FVfPz9X4ijxno3KBi8), [Teejay](https://open.spotify.com/artist/30hElzuHCZ1qzCl364SHma) | [Now I Rise \(Deluxe Edition\)](https://open.spotify.com/album/60k6wvQw02aUj1Ds6GnPtD) | 3:57 |
 
-Snapshot ID: `MCw0OGM4YTM0NDY1NTc5MGY2NTk2NWFmZTExYWE3Zjg2NjkxMGM3YWRk`
+Snapshot ID: `MCxjMGNkZmRkM2U1ZDVlNTI3ZjMyYzM4YzVlNGY1Y2FkYTZjY2I0Zjgw`

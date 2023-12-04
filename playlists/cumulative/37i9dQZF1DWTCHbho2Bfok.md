@@ -4,7 +4,7 @@
 
 > All the festive faves to soundtrack your very merry Christmas!
 
-115 songs - 6 hr 13 min
+116 songs - 6 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,8 @@
 | [Feliz Navidad](https://open.spotify.com/track/0oPdaY4dXtc3ZsaG17V972) | [José Feliciano](https://open.spotify.com/artist/7K78lVZ8XzkjfRSI7570FF) | [Feliz Navidad](https://open.spotify.com/album/3No96PtEFyRfX1oELmZTPu) | 3:02 | 2021-12-23 |  |
 | [Feliz Navidad](https://open.spotify.com/track/5lZgpy1koAXPoB6OIQf1Gg) | [José Feliciano](https://open.spotify.com/artist/7K78lVZ8XzkjfRSI7570FF) | [Weihnachtslieder zum Kochen](https://open.spotify.com/album/3YBEFjNxVfvKwKGnQJqxza) | 3:02 | 2021-12-23 | 2022-11-13 |
 | [Feliz Navidad](https://open.spotify.com/track/7taXf5odg9xCAZERYfyOkS) | [José Feliciano](https://open.spotify.com/artist/7K78lVZ8XzkjfRSI7570FF) | [The Definite Best](https://open.spotify.com/album/4E8tfxh5YBsHLtTHA1tMTv) | 3:02 | 2021-12-23 | 2022-07-29 |
-| [Frosty The Snowman](https://open.spotify.com/track/2xvxRzlLQxVIKRuaWi3Bax) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [The Very Best Christmas Songs 2021](https://open.spotify.com/album/27sH8W5FH3hsFcK8ki6UpB) | 2:11 | 2021-12-23 |  |
+| [Frosty The Snowman](https://open.spotify.com/track/2xvxRzlLQxVIKRuaWi3Bax) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [The Very Best Christmas Songs 2021](https://open.spotify.com/album/27sH8W5FH3hsFcK8ki6UpB) | 2:11 | 2021-12-23 | 2023-12-04 |
+| [Frosty The Snowman](https://open.spotify.com/track/65irrLqfCMRiO3p87P4C0D) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Ella Wishes You A Swinging Christmas \(Expanded Edition\)](https://open.spotify.com/album/2UhPCUgK2IGUrg7lIvMYfb) | 2:11 | 2022-12-06 |  |
 | [Happy Xmas \(War Is Over\)](https://open.spotify.com/track/0MV4MLZVeP4JvYVt3djxOX) | [John Lennon](https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H), [The Plastic Ono Band](https://open.spotify.com/artist/4m2kfAHEnK7Z7qLGxeWtro), [The Harlem Community Choir](https://open.spotify.com/artist/0vneleczrRRNPF1vj0x0vy) | [Cozy Christmas](https://open.spotify.com/album/4qMWHviG4RoJGal19Kvh0M) | 3:32 | 2021-12-23 | 2022-11-14 |
 | [Happy Xmas \(War Is Over\) \- Remastered 2010](https://open.spotify.com/track/3zJw3rugfpVrmBeDDnUYzy) | [John Lennon](https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H), [The Harlem Community Choir](https://open.spotify.com/artist/0vneleczrRRNPF1vj0x0vy), [The Plastic Ono Band](https://open.spotify.com/artist/4m2kfAHEnK7Z7qLGxeWtro), [Yoko Ono](https://open.spotify.com/artist/2s4tjL6W3qrblOe0raIzwJ) | [Power To The People \- The Hits](https://open.spotify.com/album/7mXg4fLJHmmnjAahH15Wsj) | 3:33 | 2021-12-23 | 2022-07-29 |
 | [Happy Xmas \(War Is Over\) \- Remastered 2010](https://open.spotify.com/track/27RYrbL6S02LNVhDWVl38b) | [John Lennon](https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H), [Yoko Ono](https://open.spotify.com/artist/2s4tjL6W3qrblOe0raIzwJ) | [Signature Box](https://open.spotify.com/album/555NIhJIQ4XoS5N7VglF0v) | 3:34 | 2021-12-23 |  |

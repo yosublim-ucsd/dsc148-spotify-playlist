@@ -4,7 +4,7 @@
 
 > Hip hop and rap music from Nigeria\. Cover: <a href="https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy?si=U8w7\_PIuTm6h7wIv43Ji2g"> ODUMODUBLVCK</a>
 
-323 songs - 15 hr 27 min
+324 songs - 15 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,7 @@
 | [Big 7](https://open.spotify.com/track/3A17uQFJab0NDpyIeZAavF) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [I Told Them...](https://open.spotify.com/album/1JzjwUKkPsdHg1SQ7qa5hc) | 2:23 | 2023-11-10 |  |
 | [Big Energy](https://open.spotify.com/track/4wG7xubJwUdjvdVJvAV1d9) | [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu) | [Big Energy](https://open.spotify.com/album/4ooUYNH9ZD44v6wpIv5huk) | 3:05 | 2022-06-09 | 2023-06-17 |
 | [Blessed Sinner](https://open.spotify.com/track/66fLV81N2fPV5XSaZn459U) | [Rord Kelly](https://open.spotify.com/artist/2yFOQnykNui2qOv0dENRyR) | [Blessed Sinner](https://open.spotify.com/album/015Ci9KJFaVbvorl31nEv8) | 2:58 | 2023-03-17 | 2023-05-05 |
-| [Blessings](https://open.spotify.com/track/6brVEF4Ru3xosD8F6zYJXY) | [Kayode](https://open.spotify.com/artist/2m9oQENA478WyWswPjnxyr), [PsychoYP](https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [STILL FIGURING LIFE](https://open.spotify.com/album/3lnimhNmAuy3FzBkCiVfT9) | 2:41 | 2023-05-12 |  |
+| [Blessings](https://open.spotify.com/track/6brVEF4Ru3xosD8F6zYJXY) | [Kayode](https://open.spotify.com/artist/2m9oQENA478WyWswPjnxyr), [PsychoYP](https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [STILL FIGURING LIFE](https://open.spotify.com/album/3lnimhNmAuy3FzBkCiVfT9) | 2:41 | 2023-05-12 | 2023-12-04 |
 | [Blood Hot](https://open.spotify.com/track/3ocQ7frjALF31yCx5eMhTz) | [Dremo](https://open.spotify.com/artist/47fErV0VDIx6PmuhtWGTYu), [Kida Kudz](https://open.spotify.com/artist/4wrFUdBKN4RBMtC3ZoLVdw), [The Flowolf](https://open.spotify.com/artist/1mcBWQVnnsPhMLCUB6iISP) | [Blood Hot](https://open.spotify.com/album/3hEla1QCivyzb2KEXXDgGy) | 2:25 | 2022-06-30 | 2022-10-14 |
 | [BLOOD ON THE DANCE FLOOR \(feat\. Bloody Civilian and Wale\)](https://open.spotify.com/track/35MU2MEhQMw0NhXZztAP9m) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Bloody Civilian](https://open.spotify.com/artist/59gzAeE63TMTxOdjU3Ew0K), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [EZIOKWU](https://open.spotify.com/album/6e1McsPwHgiySHVlpZRhFx) | 3:53 | 2023-10-06 |  |
 | [Body Language](https://open.spotify.com/track/0O5ZbaNWha50PwklOprDgy) | [Falz](https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl), [Ajebo Hustlers](https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4) | [Body Language](https://open.spotify.com/album/52NNbFus4RMbeBzdYmNmx5) | 2:27 | 2022-06-09 | 2022-11-05 |
@@ -250,6 +250,7 @@
 | [SAVAGE BY FENTY](https://open.spotify.com/track/35kUFJhbmP05do7bR4JorK) | [EverythingOShauN](https://open.spotify.com/artist/5OTdYlGM1r6HuTFAonqq03) | [SAVAGE BY FENTY](https://open.spotify.com/album/60fZP68vLte6PtTPYMQFzN) | 2:20 | 2023-02-11 | 2023-02-17 |
 | [Sere](https://open.spotify.com/track/7bhCJLuXAhD7VXkjvwrtG4) | [Evil Beast](https://open.spotify.com/artist/5u8fXdV50qHK0ywnVWbmmw), [Tega Boi Dc](https://open.spotify.com/artist/16CdFOraHt0BYRkeB7gT5M) | [Sere](https://open.spotify.com/album/5fzyuJuRuonlLJDnXzYx8q) | 2:10 | 2023-11-24 | 2023-12-01 |
 | [Sere \(feat\. Tega boi dc\)](https://open.spotify.com/track/0Kl55thn00rFid2leXTeo9) | [Evil Beast](https://open.spotify.com/artist/5u8fXdV50qHK0ywnVWbmmw), [Tega Boi Dc](https://open.spotify.com/artist/16CdFOraHt0BYRkeB7gT5M) | [Sere](https://open.spotify.com/album/1ANJrFdux0Uj3j89YlhhUh) | 2:10 | 2023-09-11 | 2023-11-25 |
+| [Sere \(feat\. Tega boi dc\)](https://open.spotify.com/track/5hU61pgNrTLnAdJORwv5Nd) | [Evil Beast](https://open.spotify.com/artist/5u8fXdV50qHK0ywnVWbmmw), [Tega Boi Dc](https://open.spotify.com/artist/16CdFOraHt0BYRkeB7gT5M) | [Sere \(feat\. Tega boi dc\)](https://open.spotify.com/album/0luLBx14FYCia0BSO2y1Ws) | 2:10 | 2023-12-01 |  |
 | [Shakara](https://open.spotify.com/track/6XPPB2eOwBid6EbveTmVYe) | [Ice Prince](https://open.spotify.com/artist/1sSt1DqqqFLkPwfrqafVyn), [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Shakara](https://open.spotify.com/album/2IAaPLIeM9CHUzqrTllGJI) | 3:20 | 2022-06-09 | 2023-02-24 |
 | [Shakur](https://open.spotify.com/track/6FAZgSguZfXqdpqtVjV7iP) | [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep), [Ms Banks](https://open.spotify.com/artist/4imxqng3RrOBmykL2DhIJC) | [Resan](https://open.spotify.com/album/0UjVcregRqCYPSbSKaCPmd) | 2:23 | 2022-10-14 | 2022-10-29 |
 | [Shina Peters](https://open.spotify.com/track/0DxBucbIM0unAoubGFRl9J) | [Reminisce](https://open.spotify.com/artist/4YIOi9aFNviV1jRQeiNZgO), [Mohbad](https://open.spotify.com/artist/0a8YNI8VHVPYKIPvCiJDxa) | [Shina Peters](https://open.spotify.com/album/1v9I3AogBgQUvCokc8B52P) | 2:46 | 2023-06-02 | 2023-06-17 |

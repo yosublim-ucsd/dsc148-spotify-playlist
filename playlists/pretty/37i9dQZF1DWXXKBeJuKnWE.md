@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXXKBeJuKnWE.md) - [plain]
 
 > The home for heavy rockers\. Cover: Trash Boat
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,252 likes - 91 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,264 likes - 91 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -100,4 +100,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXXKBeJuKnWE.md) - [plain]
 | 90 | [Swallow](https://open.spotify.com/track/0bDFmPqNCXQcfAc3njZszA) | [Harpy](https://open.spotify.com/artist/0fLFfyc0914STFxEyQHZhX) | [Swallow](https://open.spotify.com/album/7hXMo6KNd71w3y7Zd4r134) | 3:09 |
 | 91 | [Scream](https://open.spotify.com/track/1Ar6ZDBwSNYGlSxAiT7xYH) | [CRASHFACE](https://open.spotify.com/artist/5KjrHPtIS2XCqs5zZwnydX) | [Prototype](https://open.spotify.com/album/3aEYmTTLwf0viUwQXVLKps) | 3:31 |
 
-Snapshot ID: `MCxjMmRjYzQ4Y2U2NThlMjg1NTE0MjFmYjdhNzIwYTlkNmY2ZGYxNjA1`
+Snapshot ID: `MCxhYTE1OTQ4ZWVhOTBmZmNiNmVkOGNjMmE5YWVhNDlhNTI4YjNmYjYy`

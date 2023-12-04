@@ -1,12 +1,12 @@
 {
   "description": "Soft and cozy acoustic covers of famous songs.",
-  "num_followers": 1133498,
+  "num_followers": 1133515,
   "original_name": "Chill Acoustic Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2OGZkMWU0MDM1NzE3ZWU3MzM1ZDA0MTE0YTQxYmRiMDIwOGM2YzIx",
+  "snapshot_id": "MCw4OWJiODAyYzMxZGMwZWJhZTBiYzcyZWY0NTE4ZTM1ODYxYTcwYzEx",
   "tracks": [
     {
       "added_at": "2023-11-24 00:01:00",
@@ -207,22 +207,6 @@
     {
       "added_at": "2023-11-24 00:01:00",
       "album": {
-        "name": "Don't You (Forget About Me)",
-        "url": "https://open.spotify.com/album/2GGSKP9yuyZRAsygbY8prb"
-      },
-      "artists": [
-        {
-          "name": "Brassfield",
-          "url": "https://open.spotify.com/artist/4VWdngsndsvJd348vi76I0"
-        }
-      ],
-      "duration_ms": 175122,
-      "name": "Don't You (Forget About Me)",
-      "url": "https://open.spotify.com/track/7cMg25mIUyWRpyiFDTdiPi"
-    },
-    {
-      "added_at": "2023-11-24 00:01:00",
-      "album": {
         "name": "Torn",
         "url": "https://open.spotify.com/album/0og0ExNcAjYK1nCWKyklL6"
       },
@@ -235,6 +219,22 @@
       "duration_ms": 223874,
       "name": "Torn",
       "url": "https://open.spotify.com/track/4INNiMO9R9UnwpLOtzizn6"
+    },
+    {
+      "added_at": "2023-11-24 00:01:00",
+      "album": {
+        "name": "Don't You (Forget About Me)",
+        "url": "https://open.spotify.com/album/2GGSKP9yuyZRAsygbY8prb"
+      },
+      "artists": [
+        {
+          "name": "Brassfield",
+          "url": "https://open.spotify.com/artist/4VWdngsndsvJd348vi76I0"
+        }
+      ],
+      "duration_ms": 175122,
+      "name": "Don't You (Forget About Me)",
+      "url": "https://open.spotify.com/track/7cMg25mIUyWRpyiFDTdiPi"
     },
     {
       "added_at": "2023-11-24 00:01:00",
@@ -355,22 +355,6 @@
     {
       "added_at": "2023-11-24 00:01:00",
       "album": {
-        "name": "WHAT THE HELL ARE WE DYING FOR?",
-        "url": "https://open.spotify.com/album/7pbeE2xmYADDOEjd3H62xA"
-      },
-      "artists": [
-        {
-          "name": "Macy Ellen",
-          "url": "https://open.spotify.com/artist/3KwkTBHTZViURYGQrl266L"
-        }
-      ],
-      "duration_ms": 202000,
-      "name": "WHAT THE HELL ARE WE DYING FOR?",
-      "url": "https://open.spotify.com/track/1fsOH02E5iqS6xZZY7UOpd"
-    },
-    {
-      "added_at": "2023-11-24 00:01:00",
-      "album": {
         "name": "Ysabelle",
         "url": "https://open.spotify.com/album/1LzchyMzJU8dRzQhlcy8n1"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 189673,
       "name": "I Like Me Better",
       "url": "https://open.spotify.com/track/2GzvzxXnyJ9l3obE4JskC2"
+    },
+    {
+      "added_at": "2023-11-24 00:01:00",
+      "album": {
+        "name": "WHAT THE HELL ARE WE DYING FOR?",
+        "url": "https://open.spotify.com/album/7pbeE2xmYADDOEjd3H62xA"
+      },
+      "artists": [
+        {
+          "name": "Macy Ellen",
+          "url": "https://open.spotify.com/artist/3KwkTBHTZViURYGQrl266L"
+        }
+      ],
+      "duration_ms": 202000,
+      "name": "WHAT THE HELL ARE WE DYING FOR?",
+      "url": "https://open.spotify.com/track/1fsOH02E5iqS6xZZY7UOpd"
     },
     {
       "added_at": "2023-11-24 00:01:00",
@@ -547,8 +547,8 @@
     {
       "added_at": "2023-11-24 00:01:00",
       "album": {
-        "name": "see you soon",
-        "url": "https://open.spotify.com/album/3R0uLgP4cb8h4BEMzmAvLW"
+        "name": "what if",
+        "url": "https://open.spotify.com/album/1W5ECbG8ihdhKRkRpVEWNq"
       },
       "artists": [
         {
@@ -556,9 +556,9 @@
           "url": "https://open.spotify.com/artist/4eUw7FO3xhglLxCYeUTmlG"
         }
       ],
-      "duration_ms": 158647,
-      "name": "see you soon",
-      "url": "https://open.spotify.com/track/3lAWDyjTH7SeHckJRJOGrf"
+      "duration_ms": 201666,
+      "name": "what if",
+      "url": "https://open.spotify.com/track/0osUQtTOZphz3EEHOtTKJl"
     },
     {
       "added_at": "2023-11-24 00:01:00",
@@ -627,8 +627,8 @@
     {
       "added_at": "2023-11-24 00:01:00",
       "album": {
-        "name": "what if",
-        "url": "https://open.spotify.com/album/1W5ECbG8ihdhKRkRpVEWNq"
+        "name": "see you soon",
+        "url": "https://open.spotify.com/album/3R0uLgP4cb8h4BEMzmAvLW"
       },
       "artists": [
         {
@@ -636,9 +636,9 @@
           "url": "https://open.spotify.com/artist/4eUw7FO3xhglLxCYeUTmlG"
         }
       ],
-      "duration_ms": 201666,
-      "name": "what if",
-      "url": "https://open.spotify.com/track/0osUQtTOZphz3EEHOtTKJl"
+      "duration_ms": 158647,
+      "name": "see you soon",
+      "url": "https://open.spotify.com/track/3lAWDyjTH7SeHckJRJOGrf"
     },
     {
       "added_at": "2023-11-24 00:01:00",
@@ -995,22 +995,6 @@
     {
       "added_at": "2023-11-24 00:01:00",
       "album": {
-        "name": "Arcade",
-        "url": "https://open.spotify.com/album/0c5J1SUFA3rPbIZhK1kj62"
-      },
-      "artists": [
-        {
-          "name": "Bailey Jehl",
-          "url": "https://open.spotify.com/artist/3HX0wFvwBn3wbxrtHuEUus"
-        }
-      ],
-      "duration_ms": 148015,
-      "name": "Arcade",
-      "url": "https://open.spotify.com/track/1h80wgwF7yRWVL8hhcECwy"
-    },
-    {
-      "added_at": "2023-11-24 00:01:00",
-      "album": {
         "name": "Kissing Other People (Acoustic)",
         "url": "https://open.spotify.com/album/1OkuJQhcqBAbxBD7Hbhi0T"
       },
@@ -1043,18 +1027,18 @@
     {
       "added_at": "2023-11-24 00:01:00",
       "album": {
-        "name": "STAY",
-        "url": "https://open.spotify.com/album/1sNm6M8h7Rx5vPVcoQzgDG"
+        "name": "Arcade",
+        "url": "https://open.spotify.com/album/0c5J1SUFA3rPbIZhK1kj62"
       },
       "artists": [
         {
-          "name": "Isaac Hale",
-          "url": "https://open.spotify.com/artist/6Rsd9PL48rBbTSgG75Yjy4"
+          "name": "Bailey Jehl",
+          "url": "https://open.spotify.com/artist/3HX0wFvwBn3wbxrtHuEUus"
         }
       ],
-      "duration_ms": 132789,
-      "name": "STAY",
-      "url": "https://open.spotify.com/track/1ejniTp6tQF5xULkomIwrj"
+      "duration_ms": 148015,
+      "name": "Arcade",
+      "url": "https://open.spotify.com/track/1h80wgwF7yRWVL8hhcECwy"
     },
     {
       "added_at": "2023-11-24 00:01:00",
@@ -1075,18 +1059,18 @@
     {
       "added_at": "2023-11-24 00:01:00",
       "album": {
-        "name": "All of me - Acoustic",
-        "url": "https://open.spotify.com/album/2TsiANPJWN2t0z0ya5wAcd"
+        "name": "STAY",
+        "url": "https://open.spotify.com/album/1sNm6M8h7Rx5vPVcoQzgDG"
       },
       "artists": [
         {
-          "name": "Norah Davis",
-          "url": "https://open.spotify.com/artist/22BqfoPGcFnnj0ldab5D9G"
+          "name": "Isaac Hale",
+          "url": "https://open.spotify.com/artist/6Rsd9PL48rBbTSgG75Yjy4"
         }
       ],
-      "duration_ms": 268551,
-      "name": "All of me - Acoustic",
-      "url": "https://open.spotify.com/track/5vWzHxL50EEk7GCEBhXwrQ"
+      "duration_ms": 132789,
+      "name": "STAY",
+      "url": "https://open.spotify.com/track/1ejniTp6tQF5xULkomIwrj"
     },
     {
       "added_at": "2023-11-24 00:01:00",
@@ -1107,6 +1091,22 @@
     {
       "added_at": "2023-11-24 00:01:00",
       "album": {
+        "name": "All of me - Acoustic",
+        "url": "https://open.spotify.com/album/2TsiANPJWN2t0z0ya5wAcd"
+      },
+      "artists": [
+        {
+          "name": "Norah Davis",
+          "url": "https://open.spotify.com/artist/22BqfoPGcFnnj0ldab5D9G"
+        }
+      ],
+      "duration_ms": 268551,
+      "name": "All of me - Acoustic",
+      "url": "https://open.spotify.com/track/5vWzHxL50EEk7GCEBhXwrQ"
+    },
+    {
+      "added_at": "2023-11-24 00:01:00",
+      "album": {
         "name": "Crazy Love",
         "url": "https://open.spotify.com/album/3ssxRD3YsdiESDBhp42uiy"
       },
@@ -1119,22 +1119,6 @@
       "duration_ms": 192461,
       "name": "Crazy Love",
       "url": "https://open.spotify.com/track/5zIJSNhDKaBsSlgbkcBS8Q"
-    },
-    {
-      "added_at": "2023-11-24 00:01:00",
-      "album": {
-        "name": "Visiting Hours (Acoustic)",
-        "url": "https://open.spotify.com/album/5C7zrFEPvQgSyD0wDRLOAW"
-      },
-      "artists": [
-        {
-          "name": "Fox & Hart",
-          "url": "https://open.spotify.com/artist/7cFrfYqBMkAmUn6ftD8KlH"
-        }
-      ],
-      "duration_ms": 197202,
-      "name": "Visiting Hours (Acoustic)",
-      "url": "https://open.spotify.com/track/2jf62eJL5GepSpGDy61pcK"
     },
     {
       "added_at": "2023-11-24 00:01:00",
@@ -1155,6 +1139,22 @@
       "duration_ms": 201655,
       "name": "OTW - Acoustic Version",
       "url": "https://open.spotify.com/track/3kK2BuV20t1y7zMLSxDy6h"
+    },
+    {
+      "added_at": "2023-11-24 00:01:00",
+      "album": {
+        "name": "Visiting Hours (Acoustic)",
+        "url": "https://open.spotify.com/album/5C7zrFEPvQgSyD0wDRLOAW"
+      },
+      "artists": [
+        {
+          "name": "Fox & Hart",
+          "url": "https://open.spotify.com/artist/7cFrfYqBMkAmUn6ftD8KlH"
+        }
+      ],
+      "duration_ms": 197202,
+      "name": "Visiting Hours (Acoustic)",
+      "url": "https://open.spotify.com/track/2jf62eJL5GepSpGDy61pcK"
     },
     {
       "added_at": "2023-11-24 00:01:00",
@@ -1207,6 +1207,22 @@
     {
       "added_at": "2023-11-24 00:01:00",
       "album": {
+        "name": "Beautiful People",
+        "url": "https://open.spotify.com/album/2ETALrfBaNSSZbFITODMkM"
+      },
+      "artists": [
+        {
+          "name": "Sara Farell",
+          "url": "https://open.spotify.com/artist/39S7Y72G0tdDPy2INGFicV"
+        }
+      ],
+      "duration_ms": 212624,
+      "name": "Beautiful People",
+      "url": "https://open.spotify.com/track/2G0MFuEXoxdDgBjfFXP65I"
+    },
+    {
+      "added_at": "2023-11-24 00:01:00",
+      "album": {
         "name": "Anyone",
         "url": "https://open.spotify.com/album/2cPbdPF0OhQXxL6PFbXbxg"
       },
@@ -1223,18 +1239,18 @@
     {
       "added_at": "2023-11-24 00:01:00",
       "album": {
-        "name": "Beautiful People",
-        "url": "https://open.spotify.com/album/2ETALrfBaNSSZbFITODMkM"
+        "name": "Waterfalls",
+        "url": "https://open.spotify.com/album/2xoeY7T8uj7C0ITIPNBoPz"
       },
       "artists": [
         {
-          "name": "Sara Farell",
-          "url": "https://open.spotify.com/artist/39S7Y72G0tdDPy2INGFicV"
+          "name": "Tobey Rosen",
+          "url": "https://open.spotify.com/artist/7xW6v5mmwGhWtoZ0x2AhLN"
         }
       ],
-      "duration_ms": 212624,
-      "name": "Beautiful People",
-      "url": "https://open.spotify.com/track/2G0MFuEXoxdDgBjfFXP65I"
+      "duration_ms": 170884,
+      "name": "Waterfalls",
+      "url": "https://open.spotify.com/track/3lKlGhiNTsv3moOzbMXBUf"
     },
     {
       "added_at": "2023-11-24 00:01:00",
@@ -1267,22 +1283,6 @@
       "duration_ms": 191971,
       "name": "Desperado",
       "url": "https://open.spotify.com/track/0ReprZkqLJKjuBH0nowV44"
-    },
-    {
-      "added_at": "2023-11-24 00:01:00",
-      "album": {
-        "name": "Waterfalls",
-        "url": "https://open.spotify.com/album/2xoeY7T8uj7C0ITIPNBoPz"
-      },
-      "artists": [
-        {
-          "name": "Tobey Rosen",
-          "url": "https://open.spotify.com/artist/7xW6v5mmwGhWtoZ0x2AhLN"
-        }
-      ],
-      "duration_ms": 170884,
-      "name": "Waterfalls",
-      "url": "https://open.spotify.com/track/3lKlGhiNTsv3moOzbMXBUf"
     },
     {
       "added_at": "2023-11-24 00:01:00",
@@ -1415,6 +1415,22 @@
     {
       "added_at": "2023-11-24 00:01:00",
       "album": {
+        "name": "Make You Feel My Love",
+        "url": "https://open.spotify.com/album/67BVLFInYTSKVAx4VCuq5L"
+      },
+      "artists": [
+        {
+          "name": "Morgan St. Douglas",
+          "url": "https://open.spotify.com/artist/4kwtiqubnECtzOECKGYJOT"
+        }
+      ],
+      "duration_ms": 189680,
+      "name": "Make You Feel My Love",
+      "url": "https://open.spotify.com/track/2pcoc3E6EKzKC1wTztiz4I"
+    },
+    {
+      "added_at": "2023-11-24 00:01:00",
+      "album": {
         "name": "Sure Thing",
         "url": "https://open.spotify.com/album/4gEJtympDfHPCd0I1Aft8c"
       },
@@ -1479,22 +1495,6 @@
       "duration_ms": 203603,
       "name": "Eyes Closed",
       "url": "https://open.spotify.com/track/1MFZQ3L9XixU9Hi3XLXeRl"
-    },
-    {
-      "added_at": "2023-11-24 00:01:00",
-      "album": {
-        "name": "Make You Feel My Love",
-        "url": "https://open.spotify.com/album/67BVLFInYTSKVAx4VCuq5L"
-      },
-      "artists": [
-        {
-          "name": "Morgan St. Douglas",
-          "url": "https://open.spotify.com/artist/4kwtiqubnECtzOECKGYJOT"
-        }
-      ],
-      "duration_ms": 189680,
-      "name": "Make You Feel My Love",
-      "url": "https://open.spotify.com/track/2pcoc3E6EKzKC1wTztiz4I"
     },
     {
       "added_at": "2023-11-24 00:01:00",
@@ -1579,22 +1579,6 @@
     {
       "added_at": "2023-11-24 00:01:00",
       "album": {
-        "name": "Pillowtalk",
-        "url": "https://open.spotify.com/album/5Q4v3WlXy542KhJUVIs9oz"
-      },
-      "artists": [
-        {
-          "name": "Simon Sage",
-          "url": "https://open.spotify.com/artist/1C2Plo9IW9Caj5uZnwLrIz"
-        }
-      ],
-      "duration_ms": 153374,
-      "name": "Pillowtalk",
-      "url": "https://open.spotify.com/track/4bIHIz5ywe7IsmRTWygU02"
-    },
-    {
-      "added_at": "2023-11-24 00:01:00",
-      "album": {
         "name": "Boyfriend",
         "url": "https://open.spotify.com/album/7r7rQgJcP9VU2uDV4uQfJo"
       },
@@ -1607,6 +1591,22 @@
       "duration_ms": 179745,
       "name": "Boyfriend",
       "url": "https://open.spotify.com/track/7aq8uaeA9Uo1yu7HkiEGcG"
+    },
+    {
+      "added_at": "2023-11-24 00:01:00",
+      "album": {
+        "name": "Pillowtalk",
+        "url": "https://open.spotify.com/album/5Q4v3WlXy542KhJUVIs9oz"
+      },
+      "artists": [
+        {
+          "name": "Simon Sage",
+          "url": "https://open.spotify.com/artist/1C2Plo9IW9Caj5uZnwLrIz"
+        }
+      ],
+      "duration_ms": 153374,
+      "name": "Pillowtalk",
+      "url": "https://open.spotify.com/track/4bIHIz5ywe7IsmRTWygU02"
     },
     {
       "added_at": "2023-11-24 00:01:00",

@@ -282,7 +282,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-04",
       "duration_ms": 235866,
       "name": "24",
       "url": "https://open.spotify.com/track/1ZQyL0btMyOriHIqrrvpSV"
@@ -2212,7 +2212,7 @@
       ],
       "date_added": "2023-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-04",
       "duration_ms": 163546,
       "name": "Bakka ekki \u00fat",
       "url": "https://open.spotify.com/track/0EgIa9cIW52lXHIYbkUFR9"
@@ -6447,6 +6447,24 @@
     },
     {
       "album": {
+        "name": "New Light Through Old Windows",
+        "url": "https://open.spotify.com/album/7p9ePF3nuGOHHKdK54xjHH"
+      },
+      "artists": [
+        {
+          "name": "Chris Rea",
+          "url": "https://open.spotify.com/artist/5KEG7G8LDYlHgFDqZyEEs2"
+        }
+      ],
+      "date_added": "2023-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239946,
+      "name": "Driving Home for Christmas",
+      "url": "https://open.spotify.com/track/0ZoHHROTzwIYeNAHRPedTY"
+    },
+    {
+      "album": {
         "name": "Dancing with Strangers (Deluxe Edition, 2019 Remaster)",
         "url": "https://open.spotify.com/album/5tR0alqUd1KMW37vPnsOC4"
       },
@@ -9992,7 +10010,7 @@
       ],
       "date_added": "2022-11-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-26",
+      "date_removed": null,
       "duration_ms": 224072,
       "name": "Gle\u00f0i og fri\u00f0arj\u00f3l",
       "url": "https://open.spotify.com/track/7znHeSOkpkYNF3FhiHwFta"
@@ -12340,7 +12358,7 @@
       ],
       "date_added": "2021-11-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-26",
+      "date_removed": null,
       "duration_ms": 123205,
       "name": "H\u00e1t\u00ed\u00f0 \u00ed b\u00e6",
       "url": "https://open.spotify.com/track/2EGgDjfNyCskVU0YArzB2D"
@@ -14844,7 +14862,7 @@
       ],
       "date_added": "2022-11-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-29",
+      "date_removed": null,
       "duration_ms": 253979,
       "name": "K\u00f3s\u00edheit par exelans",
       "url": "https://open.spotify.com/track/3XukFNF4RBUOLAEiTIbMhV"
@@ -15930,7 +15948,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-04",
       "duration_ms": 197137,
       "name": "Lj\u00f3s",
       "url": "https://open.spotify.com/track/0RT86wBrufYQZSdN852Wjn"
@@ -16498,7 +16516,7 @@
       ],
       "date_added": "2023-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-04",
       "duration_ms": 138411,
       "name": "Lovin On Me",
       "url": "https://open.spotify.com/track/4xhsWYTOGcal8zt0J161CU"
@@ -21234,7 +21252,7 @@
       ],
       "date_added": "2023-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-04",
       "duration_ms": 132359,
       "name": "Prada",
       "url": "https://open.spotify.com/track/59NraMJsLaMCVtwXTSia8i"
@@ -22552,7 +22570,7 @@
       ],
       "date_added": "2023-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-04",
       "duration_ms": 547733,
       "name": "Runaway",
       "url": "https://open.spotify.com/track/3DK6m7It6Pw857FcQftMds"
@@ -24112,7 +24130,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-28",
+      "date_removed": null,
       "duration_ms": 181266,
       "name": "Sleigh Ride",
       "url": "https://open.spotify.com/track/7fUYUcWy853HS8YJn0b3Sr"
@@ -25340,7 +25358,7 @@
       ],
       "date_added": "2023-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-04",
       "duration_ms": 191927,
       "name": "Stingi\u00f0 henni \u00ed steininn",
       "url": "https://open.spotify.com/track/4FO7upk8MhVmHTs4GQ4Wdg"
@@ -25514,6 +25532,28 @@
       "duration_ms": 203156,
       "name": "Styttist \u00ed \u00fea\u00f0",
       "url": "https://open.spotify.com/track/3veY63DgDUzZB44wMUQVz8"
+    },
+    {
+      "album": {
+        "name": "J\u00f3lasj\u00f3r",
+        "url": "https://open.spotify.com/album/4nr67uzUX2JWEbAxiNI9yw"
+      },
+      "artists": [
+        {
+          "name": "Baggal\u00fatur",
+          "url": "https://open.spotify.com/artist/0zGt5wXkvlORfIk5tnFxAD"
+        },
+        {
+          "name": "Bryndis Jakobsdottir",
+          "url": "https://open.spotify.com/artist/0DhIXgQNwZlP63RyqKiiiD"
+        }
+      ],
+      "date_added": "2023-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203156,
+      "name": "Styttist \u00ed \u00fea\u00f0",
+      "url": "https://open.spotify.com/track/5wTyujDdXNA0tuTN6ZiNk9"
     },
     {
       "album": {
@@ -26824,7 +26864,7 @@
       ],
       "date_added": "2021-11-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-29",
+      "date_removed": null,
       "duration_ms": 192160,
       "name": "The Christmas Song (Merry Christmas To You)",
       "url": "https://open.spotify.com/track/4PS1e8f2LvuTFgUs1Cn3ON"

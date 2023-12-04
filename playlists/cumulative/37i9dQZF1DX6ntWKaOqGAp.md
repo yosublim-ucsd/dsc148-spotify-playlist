@@ -4,7 +4,7 @@
 
 > 日本ロックシーンの最新話題曲をひとつのプレイリストに。Cover: King Gnu
 
-1,054 songs - 2 day 18 hr 19 min
+1,055 songs - 2 day 18 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -184,7 +184,7 @@
 | [GAME](https://open.spotify.com/track/2aZ6Du5TkxZUjvHW9uH8Qj) | [CHAI](https://open.spotify.com/artist/0NZsNnETGPWLKJj2Y0vpBx) | [CHAI](https://open.spotify.com/album/5g4cqZOzCM2kUN6D1HX9ds) | 2:45 | 2023-09-21 | 2023-10-04 |
 | [GAME](https://open.spotify.com/track/4hEiY5q0DxSCLjGP9xGMdX) | [CHAI](https://open.spotify.com/artist/0NZsNnETGPWLKJj2Y0vpBx) | [GAME](https://open.spotify.com/album/645s2yWzejpnI65xOQlLzS) | 2:45 | 2023-09-20 | 2023-09-25 |
 | [Get High](https://open.spotify.com/track/4dvDMK8wf5iHucQrjEEgDB) | [chilldspot](https://open.spotify.com/artist/4uJKSLGvdvinobijrcfKw4) | [Get High](https://open.spotify.com/album/1vyUAdY2zcg4r5ZwIdBNaK) | 3:40 | 2023-01-13 | 2023-02-15 |
-| [Ghost](https://open.spotify.com/track/1ty6M7cgiQ192ATax4vStT) | [Kuhakugokko](https://open.spotify.com/artist/1t2jU16aGbeRc63vVMf1Zn) | [Minus Zero](https://open.spotify.com/album/4RwGeFZqSvu8PfLEXsVqoP) | 3:22 | 2023-11-07 |  |
+| [Ghost](https://open.spotify.com/track/1ty6M7cgiQ192ATax4vStT) | [Kuhakugokko](https://open.spotify.com/artist/1t2jU16aGbeRc63vVMf1Zn) | [Minus Zero](https://open.spotify.com/album/4RwGeFZqSvu8PfLEXsVqoP) | 3:22 | 2023-11-07 | 2023-12-04 |
 | [Ghost Town](https://open.spotify.com/track/2sJZU9wjC3CnUPW3hPAb3i) | [天国姑娘](https://open.spotify.com/artist/60JSPE63xy6m6MWoY0D663) | [Ghost Town](https://open.spotify.com/album/1pYhD2XLd92NXZrokQwXPJ) | 3:08 | 2023-10-03 | 2023-11-01 |
 | [ghosted](https://open.spotify.com/track/0X53TLIHdotP2JeUYq4NbW) | [BLUE ENCOUNT](https://open.spotify.com/artist/1CWmF1EcrKoWIbZt9Ivfg2) | [アマリリス](https://open.spotify.com/album/4jqo33DQb1mHK7ynzNmKa9) | 2:54 | 2023-09-05 | 2023-10-11 |
 | [Gift \(alt ver.\)](https://open.spotify.com/track/51u4vuTh5g43isSIHLwXl3) | [go!go!vanillas](https://open.spotify.com/artist/0aqPTOZlKG6ltJHv7BNlsm) | [Gift \(alt ver.\)](https://open.spotify.com/album/4e0NQvgBanO1WXGg3PieA6) | 4:19 | 2023-09-20 | 2023-10-11 |
@@ -609,6 +609,7 @@
 | [ことほぎ](https://open.spotify.com/track/5bNzSOlYpTNdTm5aZMgi8F) | [Tele](https://open.spotify.com/artist/2DesRdo7rppo0VC8cR3vsf) | [ことほぎ](https://open.spotify.com/album/04muYXXquLz6xuOgh89zZv) | 3:21 | 2023-04-25 | 2023-06-30 |
 | [このままじゃ](https://open.spotify.com/track/2HIp2q3CAjJTxSsVfEKlni) | [ヤユヨ](https://open.spotify.com/artist/0JUlkKazTRFzIGvtMe1d1c) | [SPIRAL](https://open.spotify.com/album/3YS2w784zqJBCAVGbsubJW) | 4:33 | 2023-03-14 | 2023-03-25 |
 | [さくら色](https://open.spotify.com/track/5A7ERS6fFumxylYQehLAWS) | [Kaneyorimasaru](https://open.spotify.com/artist/5h5smZjPHUEDyYNuafjehf) | [わたしのノクターン](https://open.spotify.com/album/21f4jp3g8EpGOxtboyQ62R) | 3:52 | 2023-01-24 | 2023-01-26 |
+| [さすらい](https://open.spotify.com/track/031TxiS8q3h6Js2mbR3GPm) | [Tamio Okuda](https://open.spotify.com/artist/3ZWE1TnryM03rfzVin17K0) | [さすらい](https://open.spotify.com/album/4Dl6sL07KuneoBXvmMDGS2) | 3:26 | 2023-12-03 |  |
 | [さびしくなかった](https://open.spotify.com/track/5fWSVyq6kagKHex5EHBO85) | [SPITZ](https://open.spotify.com/artist/5kjGRHClVacSyllOUqU1S0) | [ひみつスタジオ](https://open.spotify.com/album/5u95y591xPiCFY3UI5gHqY) | 4:30 | 2023-05-23 | 2023-07-05 |
 | [さよuなら](https://open.spotify.com/track/0bELtgWGunnj4aElCUgHje) | [Cody・Lee\(李\)](https://open.spotify.com/artist/6ccfWQCLB9Gu3caY9gR5dX) | [さよuなら](https://open.spotify.com/album/4Jh1hxtZ0WbjVTnsK1KoGz) | 4:51 | 2023-09-05 | 2023-10-11 |
 | [さよならを言えたかな](https://open.spotify.com/track/4VP5WUKSbviGuoLy6c46Ea) | [クレナズム](https://open.spotify.com/artist/72PvGatrHUWZIbyyntvdpM) | [さよならを言えたかな](https://open.spotify.com/album/0JcjkBE4V8o679zLmzfJdf) | 3:14 | 2023-02-28 | 2023-05-10 |

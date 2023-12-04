@@ -1523,6 +1523,28 @@
     },
     {
       "album": {
+        "name": "LOVERBOY",
+        "url": "https://open.spotify.com/album/299pfWd3fonYSQoONNjS7C"
+      },
+      "artists": [
+        {
+          "name": "AMARNI",
+          "url": "https://open.spotify.com/artist/6HxQEau8zFYzY8fJ7pKEco"
+        },
+        {
+          "name": "Baka Not Nice",
+          "url": "https://open.spotify.com/artist/3yvCFkK57FXH7JIwZQ5CmU"
+        }
+      ],
+      "date_added": "2023-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169756,
+      "name": "LOVERBOY",
+      "url": "https://open.spotify.com/track/2J5tWDzTxQclM0vG8VPVVG"
+    },
+    {
+      "album": {
         "name": "Lovin On Me",
         "url": "https://open.spotify.com/album/6VCO0fDBGbRW8mCEvV95af"
       },

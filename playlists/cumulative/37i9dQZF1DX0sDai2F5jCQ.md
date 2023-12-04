@@ -4,7 +4,7 @@
 
 > Hip\-Hop's hottest from Australia, New Zealand and beyond\. Cover: Vv Pete
 
-127 songs - 6 hr 15 min
+128 songs - 6 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,6 +79,7 @@
 | [Lemme See](https://open.spotify.com/track/53QRPT9Z42ALxGL1YGT9x1) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [When I Was Dead](https://open.spotify.com/album/65SsQtOf5Cd25fanX62XRR) | 2:45 | 2023-11-16 |  |
 | [Let It Spray](https://open.spotify.com/track/61VB5Z61QQmcERlHfgI4ze) | [Ay Huncho](https://open.spotify.com/artist/3HKD4MjCgkSrWjhebSa1Np), [wewantwraiths](https://open.spotify.com/artist/3LYyk2fBTwdAw3aN6hrrY2), [Hooligan Hefs](https://open.spotify.com/artist/1VXE1xqGNlT9HG6TcjpQ9I) | [Let It Spray](https://open.spotify.com/album/6olqZhsmwWGWx27MEogmk8) | 2:30 | 2023-09-22 | 2023-11-17 |
 | [LLTK](https://open.spotify.com/track/6XNrW7oM3S7VsokV65VcVp) | [No Money Enterprise](https://open.spotify.com/artist/3cI6oSkDCirRNVAgBsGJyB) | [LLTK](https://open.spotify.com/album/1D1ouEX6eIt8I3iF4RpqfV) | 2:52 | 2023-10-05 | 2023-11-03 |
+| [LOVERBOY](https://open.spotify.com/track/2J5tWDzTxQclM0vG8VPVVG) | [AMARNI](https://open.spotify.com/artist/6HxQEau8zFYzY8fJ7pKEco), [Baka Not Nice](https://open.spotify.com/artist/3yvCFkK57FXH7JIwZQ5CmU) | [LOVERBOY](https://open.spotify.com/album/299pfWd3fonYSQoONNjS7C) | 2:49 | 2023-12-04 |  |
 | [Lovin On Me](https://open.spotify.com/track/4xhsWYTOGcal8zt0J161CU) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Lovin On Me](https://open.spotify.com/album/6VCO0fDBGbRW8mCEvV95af) | 2:18 | 2023-11-09 |  |
 | [Mamas Car](https://open.spotify.com/track/51JtGJtPkfPz4qLHFIwC4j) | [Vv Pete](https://open.spotify.com/artist/66IkoRt5JAg88LCnPuyxXr), [UTILITY](https://open.spotify.com/artist/07SL7uPXhqtBGz0Pqljjgi) | [Mamas Car](https://open.spotify.com/album/5jSswkACL8ldBkgeuWKG4o) | 2:16 | 2023-10-19 | 2023-12-01 |
 | [Mask On \[Feat\. Joey BadA$$\]](https://open.spotify.com/track/3ICvetSViYp5NedhfHCq6i) | [Sampa the Great](https://open.spotify.com/artist/7fw0E8WHdG3r9SuPBcGmWk), [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH) | [As Above, So Below](https://open.spotify.com/album/3QBYDADSp9ca7yNWL4hGzu) | 2:52 | 2023-10-12 | 2023-11-03 |

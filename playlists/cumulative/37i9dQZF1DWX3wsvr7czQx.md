@@ -4,7 +4,7 @@
 
 > Icons only\. Cover: Duran Duran
 
-111 songs - 7 hr 11 min
+113 songs - 7 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,7 +55,8 @@
 | [I Don't Mind](https://open.spotify.com/track/5qO1z8NyHcPCcjgxAnFMgj) | [Lindsey Buckingham](https://open.spotify.com/artist/3Dzj993UEz8Z5ovxuirzFO) | [Lindsey Buckingham](https://open.spotify.com/album/0atVY7fmPpavJNvQjXxcPG) | 4:05 | 2021-10-22 | 2023-10-14 |
 | [I Still Believe](https://open.spotify.com/track/2gnWpyn0nHoT11V7awaP5g) | [Diana Ross](https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl) | [I Still Believe](https://open.spotify.com/album/3Jj21Z3ec4p5SwZU3lXshM) | 3:38 | 2021-11-05 |  |
 | [I'm In](https://open.spotify.com/track/0uVt1UqcssBjFCQogJCkoz) | [a\-ha](https://open.spotify.com/artist/2jzc5TC5TVFLXQlBNiIUzE) | [I'm In](https://open.spotify.com/album/306o3fqhgQdpZQiyqFu2Eb) | 5:05 | 2022-07-08 |  |
-| [i/o \- Bright\-Side Mix](https://open.spotify.com/track/7onf6RIP2d08FOHos3U324) | [Peter Gabriel](https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I) | [i/o \(Bright\-Side Mix\)](https://open.spotify.com/album/6TmXl8JQXo6XJvQShFn6Ru) | 3:52 | 2023-04-07 |  |
+| [i/o \- Bright\-Side Mix](https://open.spotify.com/track/7onf6RIP2d08FOHos3U324) | [Peter Gabriel](https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I) | [i/o \(Bright\-Side Mix\)](https://open.spotify.com/album/6TmXl8JQXo6XJvQShFn6Ru) | 3:52 | 2023-04-07 | 2023-12-04 |
+| [i/o \- Bright\-Side Mix](https://open.spotify.com/track/2GToIWQPDYTQdxCdnPZEdA) | [Peter Gabriel](https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I) | [i/o](https://open.spotify.com/album/2Rr46ynx6lOJnkbF2s9VXB) | 3:53 | 2023-04-07 |  |
 | [In Your Eyes \- Single Mix](https://open.spotify.com/track/0OSFYKf4XR55DaHt77SykL) | [Wet Wet Wet](https://open.spotify.com/artist/2u0gw0uCWBMiqV7h0N8kai), [Jeremy Wheatley](https://open.spotify.com/artist/0GJpMrjpR5nfgZgoM4YIgV) | [Northern Town / In Your Eyes](https://open.spotify.com/album/4rlDC3Az0mrX1WBRhLWVUM) | 3:20 | 2022-01-07 |  |
 | [Just A Notion](https://open.spotify.com/track/1vzLCOukxhUA26QnqACxVL) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Just A Notion](https://open.spotify.com/album/2GaJEBV9MsxCsAInGtMRJ6) | 3:31 | 2021-10-22 | 2023-02-04 |
 | [Just The Beginning](https://open.spotify.com/track/2fMw2LCmWiDVVGCqMIxVOs) | [Michael Bolton](https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn) | [Just The Beginning](https://open.spotify.com/album/64zhv06ZKT442BXcPja3aE) | 3:25 | 2023-04-14 |  |
@@ -84,7 +85,8 @@
 | [One More Cup Of Coffee](https://open.spotify.com/track/2I6UEY3f6CQ1rsbpn3Cg7H) | [Tom Jones](https://open.spotify.com/artist/1T0wRBO0CK0vK8ouUMqEl5) | [Surrounded By Time](https://open.spotify.com/album/06iDUt5q4pxGHcide19i7X) | 3:45 | 2021-10-29 | 2023-11-05 |
 | [One More Cup Of Coffee](https://open.spotify.com/track/5dqUHvugSJOiPXqPkTCuMY) | [Tom Jones](https://open.spotify.com/artist/1T0wRBO0CK0vK8ouUMqEl5) | [Surrounded By Time](https://open.spotify.com/album/04BIk4z6szD5cNpvmjOY5D) | 3:45 | 2021-10-29 |  |
 | [One More Time](https://open.spotify.com/track/5oD2dU9uXCuCLYKGeTYi7i) | [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT) | [One More Time](https://open.spotify.com/album/0187WUsGIlSalPRu0BOu1y) | 3:58 | 2021-10-22 | 2022-05-07 |
-| [Panopticom \- Bright Side Mix](https://open.spotify.com/track/0DpMQVZpl0bsIlFbm5CS7V) | [Peter Gabriel](https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I) | [Panopticom \(Bright Side Mix\)](https://open.spotify.com/album/3vMQQGbY67Sj77bD6dT8zt) | 5:13 | 2023-01-06 |  |
+| [Panopticom \- Bright Side Mix](https://open.spotify.com/track/0DpMQVZpl0bsIlFbm5CS7V) | [Peter Gabriel](https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I) | [Panopticom \(Bright Side Mix\)](https://open.spotify.com/album/3vMQQGbY67Sj77bD6dT8zt) | 5:13 | 2023-01-06 | 2023-12-04 |
+| [Panopticom \- Bright Side Mix](https://open.spotify.com/track/7CkKAVRnPMZCRM0Ona8NL3) | [Peter Gabriel](https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I) | [i/o](https://open.spotify.com/album/2Rr46ynx6lOJnkbF2s9VXB) | 5:16 | 2023-01-06 |  |
 | [Precious Time](https://open.spotify.com/track/4U9OxFxU1rM1GixGF2MXRS) | [Paul Carrack](https://open.spotify.com/artist/0FFuvdY7fuiuTmHN9unYoz) | [Precious Time](https://open.spotify.com/album/6C6bBwceQNCXaNK78OPTKe) | 4:27 | 2021-10-22 | 2022-04-02 |
 | [Pretending](https://open.spotify.com/track/3WYq8auGS8CFtRM7XLNxJn) | [Van Morrison](https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A) | [Pretending](https://open.spotify.com/album/5sHQpKS54EcEG784t7bJaO) | 6:47 | 2022-04-08 |  |
 | [Ride \- Edit](https://open.spotify.com/track/32MB6prxawrLGkw6knhJBb) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Ride \(Edit\)](https://open.spotify.com/album/1N1yANyT1E01JumCbGsfm9) | 3:40 | 2021-10-22 | 2023-05-06 |

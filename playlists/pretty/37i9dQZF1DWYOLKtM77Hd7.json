@@ -1,275 +1,51 @@
 {
-  "description": "'Tis the season to enjoy these classic Christmas songs for the whole family.",
-  "num_followers": 271892,
+  "description": "'Tis the season to enjoy these classic Christmas songs for the whole family. Curated by John Legend. ",
+  "num_followers": 272609,
   "original_name": "Holiday Magic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YTUzYmM2OWJhZmQyZmZjMGZhMTFjYjVmMzI0YTZhNTNhZTU5MjE2",
+  "snapshot_id": "MCw5ODJkMjc3MmVjMjk1MzBkYzJhN2I2ZmE0ZWJlY2JmOGVkNmQ2OTA0",
   "tracks": [
     {
-      "added_at": "2023-11-27 15:41:33",
+      "added_at": "2023-12-03 05:00:00",
       "album": {
-        "name": "When Christmas Comes Around...",
-        "url": "https://open.spotify.com/album/5sVFXIMrFRKBtDOexVlBBU"
+        "name": "A Legendary Christmas",
+        "url": "https://open.spotify.com/album/67vlDQxXPo2JKnZ5e6tHKY"
       },
       "artists": [
         {
-          "name": "Kelly Clarkson",
-          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
-        }
-      ],
-      "duration_ms": 114699,
-      "name": "It's Beginning to Look a Lot Like Christmas",
-      "url": "https://open.spotify.com/track/0TN4LrBEiaXc7BWfC77Nt3"
-    },
-    {
-      "added_at": "2023-11-27 15:41:33",
-      "album": {
-        "name": "Rock 'N' Roll Rarities",
-        "url": "https://open.spotify.com/album/1DILNh7maaYyKxe15V9xLq"
-      },
-      "artists": [
-        {
-          "name": "Chuck Berry",
-          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
-        }
-      ],
-      "duration_ms": 165733,
-      "name": "Run Rudolph Run",
-      "url": "https://open.spotify.com/track/2pnPe4pJtq7689i5ydzvJJ"
-    },
-    {
-      "added_at": "2023-11-27 15:41:33",
-      "album": {
-        "name": "His Christmas Album",
-        "url": "https://open.spotify.com/album/5GwSEUy6xZC2pEva84muRA"
-      },
-      "artists": [
-        {
-          "name": "Gene Autry",
-          "url": "https://open.spotify.com/artist/5ixB75BQR3ADoWQkcHQJTs"
-        }
-      ],
-      "duration_ms": 113556,
-      "name": "Frosty the Snowman",
-      "url": "https://open.spotify.com/track/5pMZO580uekpfOoJcqF0ld"
-    },
-    {
-      "added_at": "2023-11-27 15:41:33",
-      "album": {
-        "name": "A Christmas Gift For You From Phil Spector",
-        "url": "https://open.spotify.com/album/2kzkwgOFAtRsDsas5Hi0Qu"
-      },
-      "artists": [
-        {
-          "name": "The Ronettes",
-          "url": "https://open.spotify.com/artist/7CyeXFnOrfC1N6z4naIpgo"
-        }
-      ],
-      "duration_ms": 181266,
-      "name": "Sleigh Ride",
-      "url": "https://open.spotify.com/track/5ASM6Qjiav2xPe7gRkQMsQ"
-    },
-    {
-      "added_at": "2023-11-27 15:41:33",
-      "album": {
-        "name": "The Muppets: A Green and Red Christmas",
-        "url": "https://open.spotify.com/album/2SRnKY8vy3G72k8D55tWoA"
-      },
-      "artists": [
-        {
-          "name": "Kermit the Frog",
-          "url": "https://open.spotify.com/artist/1PGjAoXiKP1Hcx788WVFx9"
-        }
-      ],
-      "duration_ms": 229093,
-      "name": "Have Yourself a Merry Little Christmas",
-      "url": "https://open.spotify.com/track/7pDQSx6Gee0ZTpLE41ZtXR"
-    },
-    {
-      "added_at": "2023-11-27 15:41:33",
-      "album": {
-        "name": "Give Love At Christmas",
-        "url": "https://open.spotify.com/album/40nc0tA9KcJHexXijyqHSP"
-      },
-      "artists": [
-        {
-          "name": "The Temptations",
-          "url": "https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG"
-        }
-      ],
-      "duration_ms": 365720,
-      "name": "Silent Night",
-      "url": "https://open.spotify.com/track/2mtm0aF6c7Yd66sFaE3ipu"
-    },
-    {
-      "added_at": "2023-11-27 15:41:33",
-      "album": {
-        "name": "Merry Christmas",
-        "url": "https://open.spotify.com/album/61ulfFSmmxMhc2wCdmdMkN"
-      },
-      "artists": [
-        {
-          "name": "Mariah Carey",
-          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
-        }
-      ],
-      "duration_ms": 241106,
-      "name": "All I Want for Christmas Is You",
-      "url": "https://open.spotify.com/track/0bYg9bo50gSsH3LtXe2SQn"
-    },
-    {
-      "added_at": "2023-11-27 15:41:33",
-      "album": {
-        "name": "A Donny Hathaway Collection",
-        "url": "https://open.spotify.com/album/2D2sMtTf1Db5bkSRGvWGKB"
-      },
-      "artists": [
-        {
-          "name": "Donny Hathaway",
-          "url": "https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S"
-        }
-      ],
-      "duration_ms": 231173,
-      "name": "This Christmas",
-      "url": "https://open.spotify.com/track/38xhBO2AKrJnjdjVnhJES6"
-    },
-    {
-      "added_at": "2023-11-27 15:41:33",
-      "album": {
-        "name": "When Christmas Comes Around...",
-        "url": "https://open.spotify.com/album/5sVFXIMrFRKBtDOexVlBBU"
-      },
-      "artists": [
-        {
-          "name": "Kelly Clarkson",
-          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
-        }
-      ],
-      "duration_ms": 112673,
-      "name": "Rockin' Around the Christmas Tree",
-      "url": "https://open.spotify.com/track/2O3v6UgFhJT1achAJ0aNSA"
-    },
-    {
-      "added_at": "2023-11-27 15:41:33",
-      "album": {
-        "name": "Home Alone (Original Motion Picture Soundtrack) [Anniversary Edition]",
-        "url": "https://open.spotify.com/album/3rDo7fQDUwJ6qmxwP5yQsY"
-      },
-      "artists": [
-        {
-          "name": "Mykola Dmytrovych Leontovych",
-          "url": "https://open.spotify.com/artist/6lBN3Tzt61u8i9AJoAhKzF"
+          "name": "John Legend",
+          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
         },
         {
-          "name": "John Williams",
-          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
         }
       ],
-      "duration_ms": 85266,
-      "name": "Carol of the Bells",
-      "url": "https://open.spotify.com/track/4tHqQMWSqmL6YjXwsqthDI"
+      "duration_ms": 160226,
+      "name": "What Christmas Means to Me (feat. Stevie Wonder)",
+      "url": "https://open.spotify.com/track/13XMz3rpVYITzjFIsSYlZ1"
     },
     {
-      "added_at": "2023-11-27 15:41:33",
+      "added_at": "2023-12-03 05:00:00",
       "album": {
-        "name": "A Christmas Gift For You From Phil Spector",
-        "url": "https://open.spotify.com/album/2kzkwgOFAtRsDsas5Hi0Qu"
+        "name": "Ella & Louis Wish You A Swinging Holiday",
+        "url": "https://open.spotify.com/album/3q1B9PagZJbdvRhw7ZXuJz"
       },
       "artists": [
         {
-          "name": "Darlene Love",
-          "url": "https://open.spotify.com/artist/391oLRVmoTkumiN79HkTWu"
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
         }
       ],
-      "duration_ms": 166453,
-      "name": "Christmas (Baby Please Come Home)",
-      "url": "https://open.spotify.com/track/46pF1zFimM582ss1PrMy68"
+      "duration_ms": 175986,
+      "name": "Sleigh Ride",
+      "url": "https://open.spotify.com/track/1fXBpXQjO3OtE1Oh5gJ2BZ"
     },
     {
-      "added_at": "2023-11-27 15:41:33",
-      "album": {
-        "name": "Twenty Five",
-        "url": "https://open.spotify.com/album/5HaOXSCK1IlwzV4ve7CUKY"
-      },
-      "artists": [
-        {
-          "name": "Wham!",
-          "url": "https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM"
-        }
-      ],
-      "duration_ms": 267160,
-      "name": "Last Christmas - Remastered",
-      "url": "https://open.spotify.com/track/6wn2nmFn3wDuiMldRiuRuL"
-    },
-    {
-      "added_at": "2023-11-27 15:41:33",
-      "album": {
-        "name": "Tougher Than Leather (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5opAMGIf8Hn7xIaTPdHFDv"
-      },
-      "artists": [
-        {
-          "name": "Run\u2013D.M.C.",
-          "url": "https://open.spotify.com/artist/3CQIn7N5CuRDP8wEI7FiDA"
-        }
-      ],
-      "duration_ms": 178613,
-      "name": "Christmas In Hollis",
-      "url": "https://open.spotify.com/track/41onDks2UPbyjer5fMeUWf"
-    },
-    {
-      "added_at": "2023-11-27 15:41:33",
-      "album": {
-        "name": "Santa Tell Me",
-        "url": "https://open.spotify.com/album/27MNgBEnLCKoafz1g2Zu97"
-      },
-      "artists": [
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        }
-      ],
-      "duration_ms": 204093,
-      "name": "Santa Tell Me",
-      "url": "https://open.spotify.com/track/0lizgQ7Qw35od7CYaoMBZb"
-    },
-    {
-      "added_at": "2023-11-27 15:41:33",
-      "album": {
-        "name": "McCartney II (Special Edition)",
-        "url": "https://open.spotify.com/album/48rypPDKdKiusMXKaYcEGV"
-      },
-      "artists": [
-        {
-          "name": "Paul McCartney",
-          "url": "https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB"
-        }
-      ],
-      "duration_ms": 227653,
-      "name": "Wonderful Christmastime - Edited Version / Remastered 2011",
-      "url": "https://open.spotify.com/track/1SV1fxF65n9NhRHp3KlBuu"
-    },
-    {
-      "added_at": "2023-11-27 15:41:33",
-      "album": {
-        "name": "Have A Holly Jolly Christmas",
-        "url": "https://open.spotify.com/album/6MvKUOSuPdfH0WLeQjR3eR"
-      },
-      "artists": [
-        {
-          "name": "Burl Ives",
-          "url": "https://open.spotify.com/artist/0MHgLfmQdutffmvWe5XBTN"
-        }
-      ],
-      "duration_ms": 130026,
-      "name": "Rudolph The Red-Nosed Reindeer",
-      "url": "https://open.spotify.com/track/47otoIkhx3fkdivEXL5OB6"
-    },
-    {
-      "added_at": "2023-11-27 15:41:33",
+      "added_at": "2023-12-03 05:00:00",
       "album": {
         "name": "The Christmas Song (Expanded Edition)",
         "url": "https://open.spotify.com/album/6vBGI5522jvPi0ZZuGQNp4"
@@ -280,133 +56,9 @@
           "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
         }
       ],
-      "duration_ms": 192160,
-      "name": "The Christmas Song (Merry Christmas To You)",
-      "url": "https://open.spotify.com/track/4PS1e8f2LvuTFgUs1Cn3ON"
-    },
-    {
-      "added_at": "2023-11-27 15:41:33",
-      "album": {
-        "name": "The Best Of The Waitresses",
-        "url": "https://open.spotify.com/album/5WBJTuam0c279awlGAfEaU"
-      },
-      "artists": [
-        {
-          "name": "The Waitresses",
-          "url": "https://open.spotify.com/artist/57AKOY1SF1062tuVzgAPv8"
-        }
-      ],
-      "duration_ms": 320800,
-      "name": "Christmas Wrapping",
-      "url": "https://open.spotify.com/track/3nhzTOc939C4v4ecTEZTPl"
-    },
-    {
-      "added_at": "2023-11-27 15:41:33",
-      "album": {
-        "name": "I Saw Mommy Kissing Santa Claus",
-        "url": "https://open.spotify.com/album/6EHcJgbGZLQraX73KAldPX"
-      },
-      "artists": [
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        }
-      ],
-      "duration_ms": 164444,
-      "name": "I Saw Mommy Kissing Santa Claus",
-      "url": "https://open.spotify.com/track/5nD6sYdHB9YEo8gXSVEyMW"
-    },
-    {
-      "added_at": "2023-11-27 15:41:33",
-      "album": {
-        "name": "Mono Singles",
-        "url": "https://open.spotify.com/album/7oMcO4p7P1JtJR2G1v2NoK"
-      },
-      "artists": [
-        {
-          "name": "Stevie Wonder",
-          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
-        }
-      ],
-      "duration_ms": 148146,
-      "name": "What Christmas Means To Me",
-      "url": "https://open.spotify.com/track/1V0qqWBbIWt8hlAjxTZedR"
-    },
-    {
-      "added_at": "2023-11-27 15:41:33",
-      "album": {
-        "name": "Jingle Bell Rock",
-        "url": "https://open.spotify.com/album/46RzcdoDpVi5UcRLML218R"
-      },
-      "artists": [
-        {
-          "name": "Daryl Hall & John Oates",
-          "url": "https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H"
-        }
-      ],
-      "duration_ms": 126360,
-      "name": "Jingle Bell Rock - Daryl's Version",
-      "url": "https://open.spotify.com/track/6pVW5LRWgeLaHudxauOTJU"
-    },
-    {
-      "added_at": "2023-11-27 15:41:33",
-      "album": {
-        "name": "Feliz Navidad",
-        "url": "https://open.spotify.com/album/3No96PtEFyRfX1oELmZTPu"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Feliciano",
-          "url": "https://open.spotify.com/artist/7K78lVZ8XzkjfRSI7570FF"
-        }
-      ],
-      "duration_ms": 182066,
-      "name": "Feliz Navidad",
-      "url": "https://open.spotify.com/track/0oPdaY4dXtc3ZsaG17V972"
-    },
-    {
-      "added_at": "2023-11-27 15:41:33",
-      "album": {
-        "name": "White Christmas - A Christmas Festival",
-        "url": "https://open.spotify.com/album/6yzjErG9plP2b6b62R6yvn"
-      },
-      "artists": [
-        {
-          "name": "Irving Berlin",
-          "url": "https://open.spotify.com/artist/32zXZpxwb2bq7oGzAhe1Ii"
-        },
-        {
-          "name": "Boston Pops Orchestra",
-          "url": "https://open.spotify.com/artist/7CIcEIOiWaZcEH35cpsdZq"
-        },
-        {
-          "name": "Arthur Fiedler",
-          "url": "https://open.spotify.com/artist/2JQBcP1ceEAdwHM6cvSCv8"
-        }
-      ],
-      "duration_ms": 203000,
-      "name": "White Christmas",
-      "url": "https://open.spotify.com/track/16CUCqzVir1o0TPnDZRScr"
-    },
-    {
-      "added_at": "2023-11-27 15:41:33",
-      "album": {
-        "name": "Christmas With The Chipmunks (2010)",
-        "url": "https://open.spotify.com/album/3X7elwYMwXz3flSYNtSfHQ"
-      },
-      "artists": [
-        {
-          "name": "Alvin & The Chipmunks",
-          "url": "https://open.spotify.com/artist/1SCWcYnoEh1978ycTDhZoW"
-        },
-        {
-          "name": "David Seville",
-          "url": "https://open.spotify.com/artist/4NI5R1DbX27ODY5JTqnv2l"
-        }
-      ],
-      "duration_ms": 141466,
-      "name": "The Chipmunk Song (Christmas Don't Be Late) - Remastered 1999",
-      "url": "https://open.spotify.com/track/02NKMA9cIkq6VuBNu9q9Wf"
+      "duration_ms": 68760,
+      "name": "Deck The Halls",
+      "url": "https://open.spotify.com/track/0rHToGels2lt8Y0mCYoF90"
     },
     {
       "added_at": "2023-11-27 15:41:33",
@@ -425,314 +77,106 @@
       "url": "https://open.spotify.com/track/1vZKP9XURuqMp1SpXGnoyb"
     },
     {
-      "added_at": "2023-11-27 15:41:33",
+      "added_at": "2023-12-03 05:00:00",
       "album": {
-        "name": "Santa Claus Is Comin' to Town (Live at C.W. Post College, Greenvale, NY - December 1975)",
-        "url": "https://open.spotify.com/album/6SEtGOi92yZM5TyAGlXlpZ"
+        "name": "The Andy Williams Christmas Album",
+        "url": "https://open.spotify.com/album/4dcJHxlOJwtyypL7sx1qch"
       },
       "artists": [
         {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+          "name": "Andy Williams",
+          "url": "https://open.spotify.com/artist/4sj6D0zlMOl25nprDJBiU9"
         }
       ],
-      "duration_ms": 267600,
-      "name": "Santa Claus Is Comin' to Town - Live at C.W. Post College, Greenvale, NY - December 1975",
-      "url": "https://open.spotify.com/track/6s2wpWPFPAgKg2LXxi1Oee"
+      "duration_ms": 151933,
+      "name": "It's the Most Wonderful Time of the Year",
+      "url": "https://open.spotify.com/track/5hslUAKq9I9CG2bAulFkHN"
     },
     {
-      "added_at": "2023-11-27 15:41:33",
+      "added_at": "2023-12-03 05:00:00",
       "album": {
-        "name": "White Christmas",
-        "url": "https://open.spotify.com/album/42KK3F8HTm1dyv5iFsCXdw"
+        "name": "Crescent City Christmas Card",
+        "url": "https://open.spotify.com/album/2NByhuKF7RIqf9OQhs6rJ6"
       },
       "artists": [
         {
-          "name": "Bing Crosby",
-          "url": "https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S"
-        },
-        {
-          "name": "The Andrews Sisters",
-          "url": "https://open.spotify.com/artist/2NCGI6dLTxLdI9XHdv7QfM"
+          "name": "Wynton Marsalis",
+          "url": "https://open.spotify.com/artist/375zxMmh2cSgUzFFnva0O7"
         }
       ],
-      "duration_ms": 175333,
-      "name": "Mele Kalikimaka (Merry Christmas)",
-      "url": "https://open.spotify.com/track/04vLj9QUXoKdRlsp3gkURo"
+      "duration_ms": 186000,
+      "name": "Hark! The Herald Angels Sing",
+      "url": "https://open.spotify.com/track/0xKTdKwBalLkjGh5wKfGaD"
     },
     {
-      "added_at": "2023-11-27 15:41:33",
+      "added_at": "2023-12-03 05:00:00",
       "album": {
-        "name": "Dominick the Donkey and Other Hits",
-        "url": "https://open.spotify.com/album/3QfPlnKLvD9IQwVJhcp4Rj"
+        "name": "You Deserve It All",
+        "url": "https://open.spotify.com/album/5Ak2W28qw9158kDPOwQJFd"
       },
       "artists": [
         {
-          "name": "Lou Monte",
-          "url": "https://open.spotify.com/artist/7dbKeVkihtOifdiu7f3rUg"
+          "name": "John Legend",
+          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
         }
       ],
-      "duration_ms": 150746,
-      "name": "Dominick the Donkey (The Italian Christmas Donkey)",
-      "url": "https://open.spotify.com/track/6W332S9Wbc6TOBlChnemKD"
+      "duration_ms": 198626,
+      "name": "You Deserve It All",
+      "url": "https://open.spotify.com/track/2ZAEbbKPNf1Wv1fifB2nyd"
     },
     {
-      "added_at": "2023-11-27 15:41:33",
+      "added_at": "2023-12-03 05:00:00",
       "album": {
-        "name": "Dr. Seuss' How The Grinch Stole Christmas! (Original TV Soundtrack)",
-        "url": "https://open.spotify.com/album/6P62c1CkC8iNejWXQGegDQ"
+        "name": "Santa's Funk & Soul Christmas Party, Vol. 2",
+        "url": "https://open.spotify.com/album/5uVigJkLm0UdSh8g7kwfbI"
       },
       "artists": [
         {
-          "name": "Thurl Ravenscroft",
-          "url": "https://open.spotify.com/artist/5Gejwv3xz2DpLcxVpMD6hL"
-        },
-        {
-          "name": "Boris Karloff",
-          "url": "https://open.spotify.com/artist/1W9sjfsJp3TqWFgvScMZdG"
+          "name": "Pearl Bailey",
+          "url": "https://open.spotify.com/artist/2cskX7NGnrWMjA4PRSxVPL"
         }
       ],
-      "duration_ms": 315706,
-      "name": "You're A Mean One, Mr. Grinch",
-      "url": "https://open.spotify.com/track/4qP2V09IpTct5A1ZSnr1zh"
+      "duration_ms": 138038,
+      "name": "Jingle Bells Cha Cha",
+      "url": "https://open.spotify.com/track/3BkV955wMjlrMWOHZcVc1M"
     },
     {
-      "added_at": "2023-11-27 15:41:33",
+      "added_at": "2023-12-03 05:00:00",
       "album": {
-        "name": "Brain Drain",
-        "url": "https://open.spotify.com/album/5UpjwoQrnySbzFDUbtS74d"
+        "name": "The Dean Martin Christmas Album",
+        "url": "https://open.spotify.com/album/4Kd6niUoyuNkcLRVmThm0H"
       },
       "artists": [
         {
-          "name": "Ramones",
-          "url": "https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm"
+          "name": "Dean Martin",
+          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
         }
       ],
-      "duration_ms": 123600,
-      "name": "Merry Christmas (I Don't Want to Fight Tonight)",
-      "url": "https://open.spotify.com/track/7EGQaR9y8XyKeDW7jiDndI"
+      "duration_ms": 115186,
+      "name": "Let It Snow! Let It Snow! Let It Snow!",
+      "url": "https://open.spotify.com/track/1dQPM6NTmRjDHFiXQpwEOi"
     },
     {
-      "added_at": "2023-11-27 15:41:33",
+      "added_at": "2023-12-03 05:00:00",
       "album": {
-        "name": "Christmas Is the Time to Say \"I Love You\"",
-        "url": "https://open.spotify.com/album/6ljRiNswE0QEYRltbRdVTX"
+        "name": "Everyday Is Christmas (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2vcGYJcPfXUmCdcXXqqukg"
       },
       "artists": [
         {
-          "name": "Billy Squier",
-          "url": "https://open.spotify.com/artist/3Fz2GbraVXhcpXnoi2Oe1r"
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
         }
       ],
-      "duration_ms": 174780,
-      "name": "Christmas Is The Time To Say \"I Love You\"",
-      "url": "https://open.spotify.com/track/2NSFg6KZjXOXLOZ3ayZFbV"
+      "duration_ms": 242864,
+      "name": "Snowflake",
+      "url": "https://open.spotify.com/track/0DbGG3nbq1R3TNLkKTx6aZ"
     },
     {
-      "added_at": "2023-11-27 15:41:33",
+      "added_at": "2023-12-03 05:00:00",
       "album": {
-        "name": "A Christmas Together",
-        "url": "https://open.spotify.com/album/6PHcSJ2860KNPMhguTlqaW"
-      },
-      "artists": [
-        {
-          "name": "John Denver",
-          "url": "https://open.spotify.com/artist/7EK1bQADBoqbYXnT4Cqv9w"
-        },
-        {
-          "name": "The Muppets",
-          "url": "https://open.spotify.com/artist/0czJqnJDu3vWrLHmsbLunu"
-        }
-      ],
-      "duration_ms": 263946,
-      "name": "Twelve Days Of Christmas",
-      "url": "https://open.spotify.com/track/72BraAeVGy3b1fg9GHs7sI"
-    },
-    {
-      "added_at": "2023-11-27 15:41:33",
-      "album": {
-        "name": "Grandma Got Run Over By A Reindeer",
-        "url": "https://open.spotify.com/album/1Yb2OydAnf7uyfKeNs7awC"
-      },
-      "artists": [
-        {
-          "name": "Elmo & Patsy",
-          "url": "https://open.spotify.com/artist/3Ubvmshojm0HJHWWr4C6GF"
-        }
-      ],
-      "duration_ms": 206360,
-      "name": "Grandma Got Run over by a Reindeer",
-      "url": "https://open.spotify.com/track/49iHYFjT5yO6WEw6KerX9o"
-    },
-    {
-      "added_at": "2023-11-27 15:41:33",
-      "album": {
-        "name": "Do They Know It's Christmas?",
-        "url": "https://open.spotify.com/album/0Q96oESySVI3gLFTkhttn5"
-      },
-      "artists": [
-        {
-          "name": "Band Aid",
-          "url": "https://open.spotify.com/artist/35S20clEkkSNUo23ViaslZ"
-        }
-      ],
-      "duration_ms": 222533,
-      "name": "Do They Know It's Christmas? - 1984 Version",
-      "url": "https://open.spotify.com/track/0247StOpd3AkeBQzANX4Zf"
-    },
-    {
-      "added_at": "2023-11-27 15:41:33",
-      "album": {
-        "name": "Home For Christmas",
-        "url": "https://open.spotify.com/album/6uIB97CqMcssTss9WrtX8c"
-      },
-      "artists": [
-        {
-          "name": "*NSYNC",
-          "url": "https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o"
-        }
-      ],
-      "duration_ms": 255306,
-      "name": "Merry Christmas, Happy Holidays",
-      "url": "https://open.spotify.com/track/4v9WbaxW8HdjqfUiWYWsII"
-    },
-    {
-      "added_at": "2023-11-27 15:41:33",
-      "album": {
-        "name": "Signature Box",
-        "url": "https://open.spotify.com/album/555NIhJIQ4XoS5N7VglF0v"
-      },
-      "artists": [
-        {
-          "name": "John Lennon",
-          "url": "https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H"
-        },
-        {
-          "name": "Yoko Ono",
-          "url": "https://open.spotify.com/artist/2s4tjL6W3qrblOe0raIzwJ"
-        }
-      ],
-      "duration_ms": 214333,
-      "name": "Happy Xmas (War Is Over) - Remastered 2010",
-      "url": "https://open.spotify.com/track/27RYrbL6S02LNVhDWVl38b"
-    },
-    {
-      "added_at": "2023-11-27 15:41:33",
-      "album": {
-        "name": "I Believe In Father Christmas EP",
-        "url": "https://open.spotify.com/album/6RvE3NTJQI7P732gb8o4zD"
-      },
-      "artists": [
-        {
-          "name": "U2",
-          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
-        }
-      ],
-      "duration_ms": 139760,
-      "name": "Christmas (Baby Please Come Home)",
-      "url": "https://open.spotify.com/track/2wIOEh6QNccqsHYEPZTrRP"
-    },
-    {
-      "added_at": "2023-11-27 15:41:33",
-      "album": {
-        "name": "I Want a Hippopotamus for Christmas (Hippo the Hero)",
-        "url": "https://open.spotify.com/album/0nuyFYoBsK4Z1j3DimhUZ4"
-      },
-      "artists": [
-        {
-          "name": "Gayla Peevey",
-          "url": "https://open.spotify.com/artist/1suIIDedjFJRuu8k7b55hZ"
-        }
-      ],
-      "duration_ms": 155466,
-      "name": "I Want a Hippopotamus for Christmas (Hippo the Hero)",
-      "url": "https://open.spotify.com/track/5P8Xvy5tzhmfyfA6GplQ8h"
-    },
-    {
-      "added_at": "2023-11-27 15:41:33",
-      "album": {
-        "name": "The Beach Boys' Christmas Album",
-        "url": "https://open.spotify.com/album/67nqYhvjDyJXGD64937Lw3"
-      },
-      "artists": [
-        {
-          "name": "The Beach Boys",
-          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
-        }
-      ],
-      "duration_ms": 118840,
-      "name": "Little Saint Nick - 1991 Remix",
-      "url": "https://open.spotify.com/track/5xlS0QkVrSH7ssEbBgBzbM"
-    },
-    {
-      "added_at": "2023-11-27 15:41:33",
-      "album": {
-        "name": "Have A Holly Jolly Christmas",
-        "url": "https://open.spotify.com/album/6MvKUOSuPdfH0WLeQjR3eR"
-      },
-      "artists": [
-        {
-          "name": "Burl Ives",
-          "url": "https://open.spotify.com/artist/0MHgLfmQdutffmvWe5XBTN"
-        }
-      ],
-      "duration_ms": 135533,
-      "name": "A Holly Jolly Christmas",
-      "url": "https://open.spotify.com/track/77khP2fIVhSW23NwxrRluh"
-    },
-    {
-      "added_at": "2023-11-27 15:41:33",
-      "album": {
-        "name": "Rudolph The Red Nosed Reindeer And Other Christmas Classics",
-        "url": "https://open.spotify.com/album/3BPDSjoJlho8oiUPUNrShM"
-      },
-      "artists": [
-        {
-          "name": "Gene Autry",
-          "url": "https://open.spotify.com/artist/5ixB75BQR3ADoWQkcHQJTs"
-        }
-      ],
-      "duration_ms": 150266,
-      "name": "Here Comes Santa Claus (Right Down Santa Claus Lane) - 1947 Version",
-      "url": "https://open.spotify.com/track/25leEEaz1gIpp7o21Fqyjo"
-    },
-    {
-      "added_at": "2023-11-27 15:41:33",
-      "album": {
-        "name": "The Christmas Song",
-        "url": "https://open.spotify.com/album/2d3wa6DNw6HEdrKf6VmW4O"
-      },
-      "artists": [
-        {
-          "name": "Nat King Cole",
-          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
-        }
-      ],
-      "duration_ms": 105346,
-      "name": "The Happiest Christmas Tree - Remastered 2009",
-      "url": "https://open.spotify.com/track/3AS3L8LdKsqf2RvslO6AUz"
-    },
-    {
-      "added_at": "2023-11-27 15:41:33",
-      "album": {
-        "name": "The Muppet Christmas Carol (Special Anniversary Edition)",
-        "url": "https://open.spotify.com/album/63DYbHrvwaBaWVjqQkNvT0"
-      },
-      "artists": [
-        {
-          "name": "Kermit",
-          "url": "https://open.spotify.com/artist/2lKVLoBlDFcONGT1XhQsIw"
-        }
-      ],
-      "duration_ms": 170293,
-      "name": "One More Sleep \u2019til Christmas",
-      "url": "https://open.spotify.com/track/4ZEUe2d1foQdbsNdgQXZlS"
-    },
-    {
-      "added_at": "2023-11-27 15:41:33",
-      "album": {
-        "name": "A Charlie Brown Christmas [2012 Remastered & Expanded Edition]",
-        "url": "https://open.spotify.com/album/2XnNY3GEkbWHor5kyvXLu4"
+        "name": "Charlie Brown Holiday Hits",
+        "url": "https://open.spotify.com/album/1d3w7T3iyK3JJQ6kdpE6l9"
       },
       "artists": [
         {
@@ -740,9 +184,197 @@
           "url": "https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS"
         }
       ],
-      "duration_ms": 309386,
-      "name": "O Tannenbaum",
-      "url": "https://open.spotify.com/track/4YhY2qHdBmSX33uj8ms0oq"
+      "duration_ms": 163093,
+      "name": "Christmas Time Is Here",
+      "url": "https://open.spotify.com/track/3bMfUUpzUzqWp9II00yRhE"
+    },
+    {
+      "added_at": "2023-12-03 05:00:00",
+      "album": {
+        "name": "Merry Christmas",
+        "url": "https://open.spotify.com/album/4v2byuh7XMZGBrYjH3XnBx"
+      },
+      "artists": [
+        {
+          "name": "Lionel Hampton",
+          "url": "https://open.spotify.com/artist/2PjgZkwAEk7UTin4jP6HLP"
+        },
+        {
+          "name": "Sonny Parker",
+          "url": "https://open.spotify.com/artist/70RwoGWutTm2ztdpEBmwdv"
+        }
+      ],
+      "duration_ms": 162746,
+      "name": "Boogie Woogie Santa Claus",
+      "url": "https://open.spotify.com/track/03MYXczT3SF2QYCdZYVUpJ"
+    },
+    {
+      "added_at": "2023-12-03 05:00:00",
+      "album": {
+        "name": "20th Century Masters: The Millennium Collection: Best Of Ohio Players",
+        "url": "https://open.spotify.com/album/2NcCahKwE4GqoRHc0I7d8r"
+      },
+      "artists": [
+        {
+          "name": "Ohio Players",
+          "url": "https://open.spotify.com/artist/6m30rs1IQqnWqV5nKMpU7U"
+        }
+      ],
+      "duration_ms": 236506,
+      "name": "Happy Holidays",
+      "url": "https://open.spotify.com/track/5HSOfYEgop9oybrHV9weHm"
+    },
+    {
+      "added_at": "2023-11-27 15:41:33",
+      "album": {
+        "name": "A Donny Hathaway Collection",
+        "url": "https://open.spotify.com/album/2D2sMtTf1Db5bkSRGvWGKB"
+      },
+      "artists": [
+        {
+          "name": "Donny Hathaway",
+          "url": "https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S"
+        }
+      ],
+      "duration_ms": 231173,
+      "name": "This Christmas",
+      "url": "https://open.spotify.com/track/38xhBO2AKrJnjdjVnhJES6"
+    },
+    {
+      "added_at": "2023-12-03 05:00:00",
+      "album": {
+        "name": "Christmas Classics",
+        "url": "https://open.spotify.com/album/3f22Ap0VSZYWsqrGcphUnY"
+      },
+      "artists": [
+        {
+          "name": "Nancy Wilson",
+          "url": "https://open.spotify.com/artist/2JfVCMa3FlvQRlLT5uH9zb"
+        }
+      ],
+      "duration_ms": 163440,
+      "name": "The Christmas Waltz",
+      "url": "https://open.spotify.com/track/2lG9U6SYKTpoUBLspRbyMc"
+    },
+    {
+      "added_at": "2023-11-27 15:41:33",
+      "album": {
+        "name": "Merry Christmas",
+        "url": "https://open.spotify.com/album/61ulfFSmmxMhc2wCdmdMkN"
+      },
+      "artists": [
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        }
+      ],
+      "duration_ms": 241106,
+      "name": "All I Want for Christmas Is You",
+      "url": "https://open.spotify.com/track/0bYg9bo50gSsH3LtXe2SQn"
+    },
+    {
+      "added_at": "2023-12-03 05:00:00",
+      "album": {
+        "name": "Christmas Album",
+        "url": "https://open.spotify.com/album/5M8U1qYKvRQHJJVHmPY7QD"
+      },
+      "artists": [
+        {
+          "name": "The Jackson 5",
+          "url": "https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW"
+        }
+      ],
+      "duration_ms": 144013,
+      "name": "Santa Claus Is Coming To Town",
+      "url": "https://open.spotify.com/track/2QpN1ZVw8eJO5f7WcvUA1k"
+    },
+    {
+      "added_at": "2023-12-03 05:00:00",
+      "album": {
+        "name": "I Saw Mommy Kissing Santa Claus (Live At Union Chapel / BBC Radio 2)",
+        "url": "https://open.spotify.com/album/6dqlzQqdAogeEjI8ORSXAj"
+      },
+      "artists": [
+        {
+          "name": "Amy Winehouse",
+          "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
+        }
+      ],
+      "duration_ms": 132053,
+      "name": "I Saw Mommy Kissing Santa Claus - Live At Union Chapel / BBC Radio 2",
+      "url": "https://open.spotify.com/track/4lcOoKiLjBddCcg9FkeIJL"
+    },
+    {
+      "added_at": "2023-12-03 05:00:00",
+      "album": {
+        "name": "Louis Wishes You a Cool Yule",
+        "url": "https://open.spotify.com/album/2KquMleTyS3Ykm7440PjL6"
+      },
+      "artists": [
+        {
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+        },
+        {
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+        }
+      ],
+      "duration_ms": 191093,
+      "name": "I've Got My Love To Keep Me Warm",
+      "url": "https://open.spotify.com/track/0Ffhk7o19DQC3eU4nPxiJe"
+    },
+    {
+      "added_at": "2023-12-03 05:00:00",
+      "album": {
+        "name": "Warm In December (Edit)",
+        "url": "https://open.spotify.com/album/5RYN71suwnCCydI7oVfVYM"
+      },
+      "artists": [
+        {
+          "name": "Samara Joy",
+          "url": "https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq"
+        }
+      ],
+      "duration_ms": 161210,
+      "name": "Warm In December - Edit",
+      "url": "https://open.spotify.com/track/4iZUPqpbdr4cI8OOzlKKqR"
+    },
+    {
+      "added_at": "2023-12-03 05:00:00",
+      "album": {
+        "name": "A Legendary Christmas",
+        "url": "https://open.spotify.com/album/67vlDQxXPo2JKnZ5e6tHKY"
+      },
+      "artists": [
+        {
+          "name": "John Legend",
+          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+        },
+        {
+          "name": "Esperanza Spalding",
+          "url": "https://open.spotify.com/artist/5bepW5vcdRzheNc0F8lHJ5"
+        }
+      ],
+      "duration_ms": 223240,
+      "name": "Have Yourself a Merry Little Christmas (feat. Esperanza Spalding)",
+      "url": "https://open.spotify.com/track/0FuXrVBkBEn7WmPm8rT4GV"
+    },
+    {
+      "added_at": "2023-12-03 05:00:00",
+      "album": {
+        "name": "A Swingin' Christmas Featuring The Count Basie Big Band",
+        "url": "https://open.spotify.com/album/5XwXBRHD4t7yKAHY5Smb8j"
+      },
+      "artists": [
+        {
+          "name": "Tony Bennett",
+          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
+        }
+      ],
+      "duration_ms": 207253,
+      "name": "O Christmas Tree",
+      "url": "https://open.spotify.com/track/2VsCE6ui7N4IRzGIGT7Di8"
     },
     {
       "added_at": "2023-11-27 15:41:33",
@@ -756,93 +388,189 @@
           "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
         }
       ],
-      "duration_ms": 68760,
-      "name": "Deck The Halls",
-      "url": "https://open.spotify.com/track/0rHToGels2lt8Y0mCYoF90"
+      "duration_ms": 192160,
+      "name": "The Christmas Song (Merry Christmas To You)",
+      "url": "https://open.spotify.com/track/4PS1e8f2LvuTFgUs1Cn3ON"
     },
     {
-      "added_at": "2023-11-27 15:41:33",
+      "added_at": "2023-12-03 05:00:00",
       "album": {
-        "name": "Learning to Crawl (Expanded & Remastered)",
-        "url": "https://open.spotify.com/album/48NYXFdasUBuSeO3RAolt3"
+        "name": "Mono Singles",
+        "url": "https://open.spotify.com/album/7oMcO4p7P1JtJR2G1v2NoK"
       },
       "artists": [
         {
-          "name": "Pretenders",
-          "url": "https://open.spotify.com/artist/0GByy3DcfbQwDvXGCWmzv9"
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
         }
       ],
-      "duration_ms": 220426,
-      "name": "2000 Miles - 2007 Remaster",
-      "url": "https://open.spotify.com/track/5wTM2Bm8phDwHAuOsfBwhU"
+      "duration_ms": 168413,
+      "name": "Someday At Christmas",
+      "url": "https://open.spotify.com/track/2X5noCM9Klrm4zXfyyPdRN"
     },
     {
-      "added_at": "2023-11-27 15:41:33",
+      "added_at": "2023-12-03 05:00:00",
       "album": {
-        "name": "A Christmas Together",
-        "url": "https://open.spotify.com/album/6PHcSJ2860KNPMhguTlqaW"
+        "name": "LAST CHRISTMAS",
+        "url": "https://open.spotify.com/album/6egzU9NKfora01qaNbvwfZ"
       },
       "artists": [
         {
-          "name": "John Denver",
-          "url": "https://open.spotify.com/artist/7EK1bQADBoqbYXnT4Cqv9w"
+          "name": "Wham!",
+          "url": "https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM"
+        }
+      ],
+      "duration_ms": 262960,
+      "name": "Last Christmas",
+      "url": "https://open.spotify.com/track/2FRnf9qhLbvw8fu4IBXx78"
+    },
+    {
+      "added_at": "2023-12-03 05:00:00",
+      "album": {
+        "name": "The Ultimate Jazz Christmas",
+        "url": "https://open.spotify.com/album/2zn5A07eHENpWATjtscdRL"
+      },
+      "artists": [
+        {
+          "name": "Nancy Wilson",
+          "url": "https://open.spotify.com/artist/2JfVCMa3FlvQRlLT5uH9zb"
+        }
+      ],
+      "duration_ms": 137546,
+      "name": "That's What I Want For Christmas - Remastered 1992",
+      "url": "https://open.spotify.com/track/0jgVkOMLMRZTgx06ddo4DQ"
+    },
+    {
+      "added_at": "2023-12-03 05:00:00",
+      "album": {
+        "name": "The Decca Singles 1949-1958",
+        "url": "https://open.spotify.com/album/4PF4AAZ8f5stId2e5dSkE1"
+      },
+      "artists": [
+        {
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
         },
         {
-          "name": "The Muppets",
-          "url": "https://open.spotify.com/artist/0czJqnJDu3vWrLHmsbLunu"
+          "name": "Benny Carter",
+          "url": "https://open.spotify.com/artist/5dlCVmfRbWVGOJYHzGyk32"
         }
       ],
-      "duration_ms": 65346,
-      "name": "We Wish You A Merry Christmas",
-      "url": "https://open.spotify.com/track/0Xrev0e2wVRSkq84SJiEMg"
+      "duration_ms": 174893,
+      "name": "Christmas In New Orleans",
+      "url": "https://open.spotify.com/track/6K9qv0rAJ0QUjPnlRpMwvd"
     },
     {
-      "added_at": "2023-11-27 15:41:33",
+      "added_at": "2023-12-03 05:00:00",
       "album": {
-        "name": "The McGuire Sisters Greatest Hits",
-        "url": "https://open.spotify.com/album/1XUHMyIyGrUkx9kfRZYCIm"
+        "name": "A Legendary Christmas",
+        "url": "https://open.spotify.com/album/4rvtCloap7CfNl2Ogl8B87"
       },
       "artists": [
         {
-          "name": "The McGuire Sisters",
-          "url": "https://open.spotify.com/artist/6oXkzBf6bMupenvf4tKtmN"
+          "name": "John Legend",
+          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
         }
       ],
-      "duration_ms": 130000,
-      "name": "Christmas Alphabet",
-      "url": "https://open.spotify.com/track/7s7e8daLJ9Uw1NBXlZlkwf"
+      "duration_ms": 254419,
+      "name": "Merry Merry Christmas",
+      "url": "https://open.spotify.com/track/4pj2EFJJ9WHEP5FvzCVlNh"
     },
     {
-      "added_at": "2023-11-27 15:41:33",
+      "added_at": "2023-12-03 05:00:00",
       "album": {
-        "name": "Elvis' Christmas Album",
-        "url": "https://open.spotify.com/album/6zk4RKl6JFlgLCV4Z7DQ7N"
+        "name": "The Christmas Album",
+        "url": "https://open.spotify.com/album/4wTX7tba8lEyX0Zph3Eckn"
       },
       "artists": [
         {
-          "name": "Elvis Presley",
-          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+          "name": "Leslie Odom Jr.",
+          "url": "https://open.spotify.com/artist/3cR4rhS2hBWqI7rJEBacvN"
+        },
+        {
+          "name": "The Walls Group",
+          "url": "https://open.spotify.com/artist/3UZQmKr3fkPDCdIRtdX1RV"
+        },
+        {
+          "name": "Michea Walls",
+          "url": "https://open.spotify.com/artist/6TDQ0UnODTdW4k230SMvCI"
         }
       ],
-      "duration_ms": 129173,
-      "name": "Blue Christmas",
-      "url": "https://open.spotify.com/track/3QiAAp20rPC3dcAtKtMaqQ"
+      "duration_ms": 173660,
+      "name": "Mele Kalikimaka (feat. The Walls Group & Michea Walls)",
+      "url": "https://open.spotify.com/track/7bQF95kCwlZtUcZoe05iU3"
     },
     {
-      "added_at": "2023-11-27 15:41:33",
+      "added_at": "2023-12-03 05:00:00",
       "album": {
-        "name": "Bob Rivers & Twisted Radio - Twisted Christmas Boxed Set",
-        "url": "https://open.spotify.com/album/1CqsDLEDJtZxKrKzAFNbz0"
+        "name": "Wonderful Christmastime",
+        "url": "https://open.spotify.com/album/49XrmssckVUXTNhGqjM6Yq"
       },
       "artists": [
         {
-          "name": "Bob Rivers & Twisted Radio",
-          "url": "https://open.spotify.com/artist/7LSj8VCfJkkw9FQkEnQZLc"
+          "name": "Dwan Hill",
+          "url": "https://open.spotify.com/artist/3JviNpSnB2gu3sUo8qdEOQ"
+        },
+        {
+          "name": "Ben Abraham",
+          "url": "https://open.spotify.com/artist/3FfbgiZhcCkoiI7IzOwXlI"
+        },
+        {
+          "name": "The New Respects",
+          "url": "https://open.spotify.com/artist/5lwtznzBlmVM2IhgrCWbT9"
         }
       ],
-      "duration_ms": 202026,
-      "name": "Didn't I Get This Last Year?",
-      "url": "https://open.spotify.com/track/0kPLIXhrliRxKHjCb6kxdP"
+      "duration_ms": 163313,
+      "name": "Wonderful Christmastime",
+      "url": "https://open.spotify.com/track/3KDxJRc413tjjiL9ajGZhQ"
+    },
+    {
+      "added_at": "2023-12-03 05:00:00",
+      "album": {
+        "name": "Christmas Album",
+        "url": "https://open.spotify.com/album/5M8U1qYKvRQHJJVHmPY7QD"
+      },
+      "artists": [
+        {
+          "name": "The Jackson 5",
+          "url": "https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW"
+        }
+      ],
+      "duration_ms": 183546,
+      "name": "Give Love On Christmas Day",
+      "url": "https://open.spotify.com/track/7yx9MhMadpziMH2J76hzkW"
+    },
+    {
+      "added_at": "2023-12-03 05:00:00",
+      "album": {
+        "name": "Ultimate Christmas",
+        "url": "https://open.spotify.com/album/1gCLWt3kXk5kNTZdsx6P8a"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "duration_ms": 193266,
+      "name": "I'll Be Home For Christmas (If Only In My Dreams)",
+      "url": "https://open.spotify.com/track/6U3qWV8btMu6cv9mSpFQen"
+    },
+    {
+      "added_at": "2023-12-03 05:00:00",
+      "album": {
+        "name": "A Legendary Christmas",
+        "url": "https://open.spotify.com/album/67vlDQxXPo2JKnZ5e6tHKY"
+      },
+      "artists": [
+        {
+          "name": "John Legend",
+          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+        }
+      ],
+      "duration_ms": 210786,
+      "name": "Happy Xmas (War Is Over)",
+      "url": "https://open.spotify.com/track/1x0NszvaftnHtijIId3ivk"
     }
   ],
   "unique_name": "Holiday Magic",

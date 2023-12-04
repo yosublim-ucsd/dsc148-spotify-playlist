@@ -4,7 +4,7 @@
 
 > Sedihe koyo ngene, nggak bahaya ta? 😢
 
-69 songs - 5 hr 44 min
+70 songs - 5 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,7 +68,8 @@
 | [Sepine Wengi](https://open.spotify.com/track/250cwRyihzWCQynWdL6RTn) | [Happy Asmara](https://open.spotify.com/artist/5423rMdVbchY2cgu0GgH5X) | [Sepine Wengi](https://open.spotify.com/album/1p53UK2w3WGOEI0S8bpQ9d) | 4:37 | 2021-09-08 |  |
 | [Sewates Konco](https://open.spotify.com/track/3ZsxUx6uEUq2JaaJZHpY8J) | [Lavora](https://open.spotify.com/artist/6g7rgHXRnw8trLFXSnhue4), [Destya Eka](https://open.spotify.com/artist/2tm1IWxQUHQJNbqZRIH49s) | [Sewates Konco](https://open.spotify.com/album/6X6IZWFp4R4ViCcXrJIXqs) | 5:03 | 2023-03-31 |  |
 | [Sing Tak Sayang Ilang](https://open.spotify.com/track/6peEINbo70GxP08o9TC9LU) | [Dory Harsa](https://open.spotify.com/artist/4srslZ2sGZ7GQoikELwXsX) | [Sing Tak Sayang Ilang](https://open.spotify.com/album/1IUvBhHScJl87iPOS081TH) | 4:26 | 2021-09-08 |  |
-| [Tak Ikhlasno](https://open.spotify.com/track/3c24cpsd4wWF9mqLsNAGm5) | [Happy Asmara](https://open.spotify.com/artist/5423rMdVbchY2cgu0GgH5X) | [Tak Ikhlasno](https://open.spotify.com/album/6lXi6pJWfrUP27FtWJY3zT) | 5:10 | 2023-05-19 |  |
+| [Tak Ikhlasno](https://open.spotify.com/track/3c24cpsd4wWF9mqLsNAGm5) | [Happy Asmara](https://open.spotify.com/artist/5423rMdVbchY2cgu0GgH5X) | [Tak Ikhlasno](https://open.spotify.com/album/6lXi6pJWfrUP27FtWJY3zT) | 5:10 | 2023-05-19 | 2023-12-04 |
+| [Tak Ikhlasno](https://open.spotify.com/track/7byQmHNYSJVjFAzd8eciFQ) | [Happy Asmara](https://open.spotify.com/artist/5423rMdVbchY2cgu0GgH5X) | [Tak Ikhlasno](https://open.spotify.com/album/6LD8JaQ7efxzh0rChA3zCx) | 5:10 | 2023-10-11 |  |
 | [Takdire Pisah](https://open.spotify.com/track/5jMO4LPNKOkhgqxiknYMwa) | [Diorama Official](https://open.spotify.com/artist/1fUKdAlQVtR3mZmdiFTzrq) | [Takdire Pisah](https://open.spotify.com/album/4fbDMnj1IJfMESBKFdvVLa) | 5:16 | 2023-09-13 |  |
 | [Tangise Sarangan](https://open.spotify.com/track/2NjOl7W9zT3ZnyUFsEyrmU) | [Woro Widowati](https://open.spotify.com/artist/0wjrZ5PUcVjAbUUX33JRr8) | [Tangise Sarangan](https://open.spotify.com/album/70BN1abiYV64ksDeUF0zDB) | 6:55 | 2023-08-09 |  |
 | [Tatu](https://open.spotify.com/track/6Mp5wge6ri9XgqcQqMJVyb) | [Happy Asmara](https://open.spotify.com/artist/5423rMdVbchY2cgu0GgH5X) | [Tatu](https://open.spotify.com/album/2u8kGA8Duva5Dxruf7NyxH) | 4:46 | 2021-09-08 | 2023-02-05 |

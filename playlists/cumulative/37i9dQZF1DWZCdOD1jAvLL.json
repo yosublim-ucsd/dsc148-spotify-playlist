@@ -1944,7 +1944,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-04",
       "duration_ms": 239047,
       "name": "buttons!",
       "url": "https://open.spotify.com/track/5ekfEEnkAHxrn2KNvyZg7E"
@@ -3842,7 +3842,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-04",
       "duration_ms": 180517,
       "name": "Faster",
       "url": "https://open.spotify.com/track/2EZ27G58YiHySXVFR1R14I"
@@ -5729,6 +5729,32 @@
     },
     {
       "album": {
+        "name": "Into U",
+        "url": "https://open.spotify.com/album/5nSJWsxgo6XCBWyyperlwk"
+      },
+      "artists": [
+        {
+          "name": "Newmagick",
+          "url": "https://open.spotify.com/artist/7A3r3evEOAHQHtdumIMG8M"
+        },
+        {
+          "name": "Bread Beatz",
+          "url": "https://open.spotify.com/artist/6Bwo8WbpyBecVCrrKcAtuH"
+        },
+        {
+          "name": "$werve",
+          "url": "https://open.spotify.com/artist/60vF1fLR6yzLxCQUlnAYYj"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158139,
+      "name": "Into U",
+      "url": "https://open.spotify.com/track/7Esv32DsoH0GlAm42R4eXD"
+    },
+    {
+      "album": {
         "name": "Is It You",
         "url": "https://open.spotify.com/album/0slFvrkkV4qgU8HPsDZDSh"
       },
@@ -6132,6 +6158,32 @@
       "duration_ms": 174600,
       "name": "La candela viva",
       "url": "https://open.spotify.com/track/6EJuJAg1Ydjkoj9SCwMUyN"
+    },
+    {
+      "album": {
+        "name": "Last Words",
+        "url": "https://open.spotify.com/album/7KosWcByYbJiHXhZBy2Q2I"
+      },
+      "artists": [
+        {
+          "name": "Pegboard Nerds",
+          "url": "https://open.spotify.com/artist/0lLY20XpZ9yDobkbHI7u1y"
+        },
+        {
+          "name": "Sophon",
+          "url": "https://open.spotify.com/artist/7AmI3Zl33iDdhRMvq0MiAV"
+        },
+        {
+          "name": "RUSUR",
+          "url": "https://open.spotify.com/artist/4gTKDU9Pj2UNRnpheTNpdh"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179988,
+      "name": "Last Words",
+      "url": "https://open.spotify.com/track/3YtI2ueiyc0amSuuLsiQgQ"
     },
     {
       "album": {
@@ -6658,7 +6710,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-04",
       "duration_ms": 217142,
       "name": "LIMIT",
       "url": "https://open.spotify.com/track/76IbCTgkgm0t8PaX5x488g"
@@ -7612,6 +7664,28 @@
       "duration_ms": 190625,
       "name": "Move Your Body (feat. Moxie Knox)",
       "url": "https://open.spotify.com/track/2QUjCgRuF6grKzr4mINjs8"
+    },
+    {
+      "album": {
+        "name": "My Crew (feat. Flowdan)",
+        "url": "https://open.spotify.com/album/3wOiJZeH4xOCVejjMWk3Np"
+      },
+      "artists": [
+        {
+          "name": "DANNY AVILA",
+          "url": "https://open.spotify.com/artist/1Xv1qZHJ1hnRlWHRTZ3uci"
+        },
+        {
+          "name": "Flowdan",
+          "url": "https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205555,
+      "name": "My Crew (feat. Flowdan)",
+      "url": "https://open.spotify.com/track/0BX4SC4ZfRn2egJfxjcgKc"
     },
     {
       "album": {

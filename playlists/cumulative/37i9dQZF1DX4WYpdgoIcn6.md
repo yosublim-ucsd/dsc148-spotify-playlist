@@ -4,7 +4,7 @@
 
 > Kick back to the best new and recent chill hits.
 
-915 songs - 2 day 1 hr 43 min
+916 songs - 2 day 1 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -539,7 +539,7 @@
 | [Midnight Flight](https://open.spotify.com/track/3g5WeIzhUqA4aXeSCUBwo4) | [Conor Matthews](https://open.spotify.com/artist/5iWU68xnsNiacwbt1fYEcq) | [Midnight Flight](https://open.spotify.com/album/0an4k7xSVyd367rh9TOdtT) | 2:59 | 2019-10-25 | 2021-01-31 |
 | [Mind Is A Prison](https://open.spotify.com/track/4GGSmoTmc5LClrowB4SmEw) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [Mind Is A Prison](https://open.spotify.com/album/3oFteG1YXJg2LS6R7Ge2yB) | 2:42 | 2019-12-18 | 2021-05-14 |
 | [Mine \(Night\)](https://open.spotify.com/track/48VADu4d52jUY0yl1Lyvtr) | [Dipha Barus](https://open.spotify.com/artist/0UtZ0DRiE8usRg9GyjCPCr), [Raisa](https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk) | [Mine \(Night\)](https://open.spotify.com/album/5QxSzOO4ak5PkgAd3tH3Kq) | 3:45 | 2019-06-22 | 2019-10-26 |
-| [Miserable Man](https://open.spotify.com/track/6gPPoRYJwCsoB2VVdPJfmo) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [Miserable Man](https://open.spotify.com/album/2l8bIF7dlr0xNkFJnQXUE4) | 3:52 | 2022-02-17 |  |
+| [Miserable Man](https://open.spotify.com/track/6gPPoRYJwCsoB2VVdPJfmo) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [Miserable Man](https://open.spotify.com/album/2l8bIF7dlr0xNkFJnQXUE4) | 3:52 | 2022-02-17 | 2023-12-04 |
 | [Miss You](https://open.spotify.com/track/2JKUye1VGGeLUdQ5Z8OZhe) | [Blewbird](https://open.spotify.com/artist/3aKYNxHBFiIcw0yrv06R6W), [Carmen Rose](https://open.spotify.com/artist/72bGdAOgypgnjHAGgDdOBh) | [Miss You](https://open.spotify.com/album/49T8KuSMzfODRFcPJrVbmZ) | 3:12 | 2019-06-21 | 2020-01-04 |
 | [Missed You \- Bonus Track](https://open.spotify.com/track/6TooMkzB9xE9FM9qxuEQeX) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [After Hours \(Deluxe\)](https://open.spotify.com/album/2gWDbNPfFcIR1EewwlvyqJ) | 2:24 | 2020-06-12 | 2020-09-18 |
 | [Missing You](https://open.spotify.com/track/0LcNMuOiULmxJK3bdHTfDF) | [The Vamps](https://open.spotify.com/artist/7gAppWoH7pcYmphCVTXkzs) | [Missing You \- EP](https://open.spotify.com/album/4DOC4Vu1nbDlVetELknFhP) | 3:34 | 2019-05-25\* | 2020-04-03 |
@@ -765,6 +765,7 @@
 | [Swan Upon Leda](https://open.spotify.com/track/3JtVtwLYCy9WXcHLQyzRnl) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Swan Upon Leda](https://open.spotify.com/album/5aO7IZl8KxtyCeke37Jvk4) | 3:42 | 2022-10-06 | 2022-11-30 |
 | [T\-Shirts](https://open.spotify.com/track/1Ozmz8mMsPv6LlwcCW2U8l) | [James Smith](https://open.spotify.com/artist/543ccHFPnZfJMD8tRGPtu7) | [T\-Shirts](https://open.spotify.com/album/11wuHldrnFEf8lLKhM9u9X) | 3:10 | 2019-05-25\* | 2019-09-13 |
 | [Take A Walk](https://open.spotify.com/track/7hB49K9WgbReO3XkDH9YW5) | [James Droll](https://open.spotify.com/artist/3lPtB78D5puSWQ7ltAafQw), [TRØVES](https://open.spotify.com/artist/66tyfeU6ZerzudGCX9mXcg) | [Take A Walk](https://open.spotify.com/album/1OiVCCgPl2fp3pBOdPLTJm) | 3:08 | 2019-06-21 | 2019-08-27 |
+| [Take Me Home, Country Roads](https://open.spotify.com/track/7qF0FfuzBFwMe1lNHkEDxW) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Take Me Home, Country Roads](https://open.spotify.com/album/5qDjtBY8cC4bO6wytuGOuT) | 2:46 | 2023-11-30 |  |
 | [Takeaway](https://open.spotify.com/track/3g0mEQx3NTanacLseoP0Gw) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Lennon Stella](https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot) | [World War Joy](https://open.spotify.com/album/01GR4NL5O5CZM51k0aejKD) | 3:29 | 2022-07-07 |  |
 | [Takeaway \(feat\. Lennon Stella\)](https://open.spotify.com/track/6wo37KVqFJhtuxPTpLCcfe) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Lennon Stella](https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot) | [World War Joy...Takeaway](https://open.spotify.com/album/1JawI0XkEwmQ5Bwef3RMbq) | 3:29 | 2019-08-13 | 2022-04-21 |
 | [Talk Slow](https://open.spotify.com/track/4T45Mh70gFLu7ggUUFdyOf) | [Cody Lovaas](https://open.spotify.com/artist/7fWrZ2q4fGZAnuCPfgSU52) | [Talk Slow](https://open.spotify.com/album/7m7vgTgDBs99hojptJCqD1) | 2:44 | 2019-06-26 | 2020-03-15 |

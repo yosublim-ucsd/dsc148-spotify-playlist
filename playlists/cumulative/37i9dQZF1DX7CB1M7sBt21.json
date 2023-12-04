@@ -1401,6 +1401,28 @@
     },
     {
       "album": {
+        "name": "Goes Like This",
+        "url": "https://open.spotify.com/album/2V8yiW5TVx3u3tGwqlLwlX"
+      },
+      "artists": [
+        {
+          "name": "Hardwell",
+          "url": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
+        },
+        {
+          "name": "ShortRound",
+          "url": "https://open.spotify.com/artist/1ujyB2Dmn2EFyVmjDBjGGK"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248750,
+      "name": "Goes Like This",
+      "url": "https://open.spotify.com/track/7t1rB0I5QZFhCtPAwOuqqc"
+    },
+    {
+      "album": {
         "name": "Goodbye",
         "url": "https://open.spotify.com/album/2wUKHXscUlHKW0tEVVYqRs"
       },
@@ -2958,7 +2980,7 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-04",
       "duration_ms": 206998,
       "name": "On A Trip (with Marten H\u00f8rger)",
       "url": "https://open.spotify.com/track/2c0UQY0FD9cZbMePPB7NdM"

@@ -4,7 +4,7 @@
 
 > Any songs you forgot existed? Let's go deep into 90s rock! Cover: Pixies.
 
-645 songs - 1 day 23 hr 16 min
+646 songs - 1 day 23 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -268,7 +268,7 @@
 | [Iris](https://open.spotify.com/track/7d9NhEPJ2x0taAJwdcNet7) | [Live](https://open.spotify.com/artist/6eoJpTIlcuxJNjV5fDzDJH) | [Throwing Copper](https://open.spotify.com/album/4ZsG3ifn9sIcrFT1ecw0gF) | 3:59 | 2022-04-28 | 2022-07-29 |
 | [Irresponsible Hate Anthem](https://open.spotify.com/track/7wyVuNCEr1j8NfG1vwMXZp) | [Marilyn Manson](https://open.spotify.com/artist/2VYQTNDsvvKN9wmU5W7xpj) | [Antichrist Superstar](https://open.spotify.com/album/7APnZJwayR3lH9aUDPDYQB) | 4:17 | 2022-04-28 | 2022-05-25 |
 | [Is Your Mama Gonna Miss Ya?](https://open.spotify.com/track/4x6wy9GPwb5QAqyZwLcZY9) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [Waking Up The Neighbours](https://open.spotify.com/album/6Rk2VghhfqeYrgKxS21eBh) | 4:40 | 2022-04-28 | 2022-05-24 |
-| [Israel's Son](https://open.spotify.com/track/4gAV3sMEZn4lrfKPGARCqA) | [Silverchair](https://open.spotify.com/artist/4iudEcmuPlYNdbP3e1bdn1) | [Frogstomp \(Deluxe Edition\) \[Remastered\]](https://open.spotify.com/album/4kp8sfeCDUMm4JKRdrD3aC) | 5:18 | 2022-04-28 |  |
+| [Israel's Son](https://open.spotify.com/track/4gAV3sMEZn4lrfKPGARCqA) | [Silverchair](https://open.spotify.com/artist/4iudEcmuPlYNdbP3e1bdn1) | [Frogstomp \(Deluxe Edition\) \[Remastered\]](https://open.spotify.com/album/4kp8sfeCDUMm4JKRdrD3aC) | 5:18 | 2022-04-28 | 2023-12-04 |
 | [It \('s A Monster\)](https://open.spotify.com/track/4HHi7n6fwSUJSGlqvfPGKA) | [Extreme](https://open.spotify.com/artist/6w7j5wQ5AI5OQYlcM15s2L) | [Extreme II \- Pornograffitti](https://open.spotify.com/album/7GOk2a0toWcEMGEm8uKLyz) | 4:24 | 2022-04-28 | 2022-07-27 |
 | [It's A Shame About Ray \- Remastered](https://open.spotify.com/track/0ccE7u6mHbB1LaSc1ZIQWm) | [The Lemonheads](https://open.spotify.com/artist/6w7fc6IZlo5zwBaKT5jU1X) | [It's A Shame About Ray \(Expanded Edition\)](https://open.spotify.com/album/3AKjod7W29b6DQKwuInZji) | 3:07 | 2022-04-28 | 2022-07-29 |
 | [It's Good To Be King](https://open.spotify.com/track/1c0flvMImhKMuiZIc0VzEb) | [Tom Petty](https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn) | [Wildflowers](https://open.spotify.com/album/3ZGUBwDiY5HPOcWv4SBPQg) | 5:10 | 2022-04-28 | 2022-07-27 |
@@ -538,6 +538,7 @@
 | [Talk Tonight \- Remastered](https://open.spotify.com/track/6zLD6Cx1xvZSLSuSYi1h4M) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [\(What's the Story\) Morning Glory? \[Remastered Deluxe Edition\]](https://open.spotify.com/album/4okKcGkaoWYRgu9wBYjg8u) | 4:22 | 2022-04-28 | 2022-07-29 |
 | [Talk Tonight \- Remastered](https://open.spotify.com/track/2LNV0347QKt4AHxRSfCBij) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [\(What's The Story\) Morning Glory? \(Deluxe Remastered Edition\)](https://open.spotify.com/album/6tOe4eAF8xNhEkl9WyvsE4) | 4:23 | 2022-11-17 |  |
 | [Taste It](https://open.spotify.com/track/5nyoBFZpN6miTIrBeNJtyB) | [INXS](https://open.spotify.com/artist/1eClJfHLoDI4rZe5HxzBFv) | [Welcome To Wherever You Are \(Remastered\)](https://open.spotify.com/album/6BucEUL1TVDW6WQ59RS3WV) | 3:21 | 2022-04-28 | 2022-07-12 |
+| [Tears of the Dragon \(2001 Remaster\)](https://open.spotify.com/track/3EiQGaaHMHFk5ykD1a7vYt) | [Bruce Dickinson](https://open.spotify.com/artist/7Iffw1nP3NjCWkRIx3Ily9) | [Balls to Picasso \(2001 Remaster\)](https://open.spotify.com/album/2AKNnewiklMkna3HbigH5X) | 6:24 | 2023-01-18 |  |
 | [Tears of the Dragon \- 2001 Remastered Version](https://open.spotify.com/track/1fvlJQrm3yoN2TpKH5FgiR) | [Bruce Dickinson](https://open.spotify.com/artist/7Iffw1nP3NjCWkRIx3Ily9) | [Balls To Picasso \(2001 Remastered Version\)](https://open.spotify.com/album/6Jbj3GyCsicdHpMDlMchN8) | 6:24 | 2022-04-28 | 2023-11-18 |
 | [Tease Me Please Me](https://open.spotify.com/track/2QpY0RaiEsfiguZZRcMWo0) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Crazy World](https://open.spotify.com/album/3dLKM8bD8R3H3XnSOXGjTF) | 4:45 | 2022-04-28 | 2022-07-27 |
 | [Tell Her This](https://open.spotify.com/track/0bnuObY08o8EMPvqvFTEtg) | [Del Amitri](https://open.spotify.com/artist/2Q4FnG5T6NTUcAAZwuMV5K) | [Twisted](https://open.spotify.com/album/0eMkSSaQQ9cWk4l07WPRPy) | 3:11 | 2022-04-28 | 2022-05-25 |

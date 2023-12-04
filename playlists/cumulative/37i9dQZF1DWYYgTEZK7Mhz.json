@@ -16,10 +16,28 @@
       ],
       "date_added": "2023-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-04",
       "duration_ms": 136080,
       "name": "24,000 baci",
       "url": "https://open.spotify.com/track/0WYFtZ7NL2SHwhnisVHpwM"
+    },
+    {
+      "album": {
+        "name": "Anni '60",
+        "url": "https://open.spotify.com/album/09oVFxD8GT8LJGXwkN4IcU"
+      },
+      "artists": [
+        {
+          "name": "Adriano Celentano",
+          "url": "https://open.spotify.com/artist/1yq9UuPp5DIb5w6eswGbKV"
+        }
+      ],
+      "date_added": "2023-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137665,
+      "name": "24.000 Baci",
+      "url": "https://open.spotify.com/track/3XJmcsXl48gtkjx33EuPWK"
     },
     {
       "album": {

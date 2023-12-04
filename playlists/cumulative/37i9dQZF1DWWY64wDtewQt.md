@@ -4,7 +4,7 @@
 
 > the beat of your drift
 
-637 songs - 1 day 0 hr 20 min
+639 songs - 1 day 0 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,10 +23,11 @@
 | [ALARM](https://open.spotify.com/track/4r4A0sPJCht0qP4DoOzwFJ) | [KXNVRA](https://open.spotify.com/artist/5UJkhYfIETGF5PMO0DT3aj), [HIDEOUS MORBID](https://open.spotify.com/artist/7G5D01HWj1IELY5nfLQrw6) | [ALARM](https://open.spotify.com/album/6rjfUMDvJcicRolDPVfZ9p) | 2:06 | 2023-07-21 | 2023-07-29 |
 | [ALCHEMY](https://open.spotify.com/track/53GU3nsawC307mKyhH22W2) | [MC ORSEN](https://open.spotify.com/artist/2DXPtOc14uPVvK7qggj2a3), [ARCHEZ](https://open.spotify.com/artist/2sADpsTiKjzV9DRVDMXAeN) | [ALCHEMY](https://open.spotify.com/album/5TpBVt5Q2u6VIW6aZ9K01m) | 2:20 | 2022-06-03 | 2022-08-06 |
 | [ALL GAS NO BRAKES](https://open.spotify.com/track/7lrWNB3WKgVGe1q7UP14pR) | [Sinizter](https://open.spotify.com/artist/5owshUGXR3vxuTQqfo28Q8), [Kaito Shoma](https://open.spotify.com/artist/3Tv1UzQAvn0v0hKTxisXnR) | [ALL GAS NO BRAKES](https://open.spotify.com/album/3kmuOoRDxLUziLPSzbA5m2) | 2:20 | 2022-06-17 | 2022-07-23 |
+| [ALORS BRAZIL](https://open.spotify.com/track/7hn2gCHz5NAzgPqakWrtms) | [Armut](https://open.spotify.com/artist/72Jq4Qx7m1XizJTU5jv9Wj), [Ayparia](https://open.spotify.com/artist/0nTNWXnHMzSj7wRtd3ECos), [dec24](https://open.spotify.com/artist/3Q9jNHE6UHnQcEWH2SXFF8) | [ALORS BRAZIL](https://open.spotify.com/album/1krtBVdioH9cO7TDFnoPzu) | 1:41 | 2023-09-15 |  |
 | [ALORS BRAZIL](https://open.spotify.com/track/6c5u3KmfMlBxW7bFSLfGNV) | [fatit](https://open.spotify.com/artist/42zw1tQc4mHAo0Ejfd4HgT) | [ALORS BRAZIL](https://open.spotify.com/album/3WblrqsrqkJ72Lm09vAHE4) | 1:41 | 2023-09-15 | 2023-12-03 |
 | [ALORS BRAZIL](https://open.spotify.com/track/0ZOBrgBm0Rs4Ot7PQfAy8B) | [Jevio](https://open.spotify.com/artist/2bRqeQN0PGPakfgytsXq67) | [ALORS BRAZIL](https://open.spotify.com/album/4Sem9dJiZ2xJk4IuKCgAKX) | 1:40 | 2023-09-15 | 2023-11-30 |
 | [ALORS BRAZIL](https://open.spotify.com/track/0k9k2Mr1gR7zeSLiNAqimY) | [NONTHENSE](https://open.spotify.com/artist/2APh66XEiqOiDt3bKhBWmn) | [ALORS BRAZIL](https://open.spotify.com/album/2el6zQ2h7fcrjaAMUaFp6P) | 1:41 | 2023-09-15 | 2023-11-27 |
-| [Alors Brazil](https://open.spotify.com/track/7qVIgqZ6tmbjuLH3GrwaA3) | [nwmoscar](https://open.spotify.com/artist/3rl9ErAF7w9iachW5kebwu) | [Furia](https://open.spotify.com/album/5NxVF4lNc3gaphnhLyL456) | 1:41 | 2023-09-15 |  |
+| [Alors Brazil](https://open.spotify.com/track/7qVIgqZ6tmbjuLH3GrwaA3) | [nwmoscar](https://open.spotify.com/artist/3rl9ErAF7w9iachW5kebwu) | [Furia](https://open.spotify.com/album/5NxVF4lNc3gaphnhLyL456) | 1:41 | 2023-09-15 | 2023-12-04 |
 | [Always Want Me](https://open.spotify.com/track/24HvJre1s9gcYsgm5kV3Wz) | [DVRST](https://open.spotify.com/artist/0XFgyr4jwM0MGeZZW0VzA5), [Scarlxrd](https://open.spotify.com/artist/6rYogEVj60BCIsLukpAnwr) | [Always Want Me](https://open.spotify.com/album/7hnUt41M77FkCfwn7wMcXo) | 2:10 | 2022-12-02 | 2023-02-05 |
 | [AMBAL](https://open.spotify.com/track/7usbKajM9jbTQUWGdfXCiu) | [Goos](https://open.spotify.com/artist/3qbEungOBNy6JhQGP8v5cr) | [AMBAL](https://open.spotify.com/album/0uafNnjgxsjXeU91wRoWCe) | 2:32 | 2023-01-06 | 2023-03-04 |
 | [AMNESIA](https://open.spotify.com/track/32P1387Vb7TuwbprjRmtQN) | [Hikki Gaya](https://open.spotify.com/artist/0lkQpwtSrw1KdJNSCVAzCC) | [AMNESIA](https://open.spotify.com/album/1XLMa0f05anowH4OmrATqF) | 2:11 | 2022-07-15 | 2022-10-15 |
@@ -361,6 +362,7 @@
 | [MONTAGEM CORAL](https://open.spotify.com/track/7cE9DsAvDWlFXfnIAZ1RDG) | [fatit](https://open.spotify.com/artist/42zw1tQc4mHAo0Ejfd4HgT) | [MONTAGEM CORAL](https://open.spotify.com/album/0TTWmaMq5n2f9XzGRBvCIR) | 2:25 | 2023-09-22 | 2023-12-03 |
 | [Montagem Coral](https://open.spotify.com/track/1IluQAUAhRumwIYsBuYqFQ) | [flux.beats](https://open.spotify.com/artist/3TkE7Wo4vLvOjTZPYNKGjL) | [Montagem Coral \(Slowed + Reverb\)](https://open.spotify.com/album/7bITNZFQVcVzUCESciDyFJ) | 2:23 | 2023-09-22 | 2023-10-30 |
 | [Montagem Coral](https://open.spotify.com/track/3cE1cyAdPmv5Eq5ZBaQmYV) | [flux.beats](https://open.spotify.com/artist/3TkE7Wo4vLvOjTZPYNKGjL) | [Montagem Coral](https://open.spotify.com/album/6RfEECBJXORJnhJNdVB4mN) | 2:23 | 2023-09-22 | 2023-10-17 |
+| [MONTAGEM CORAL](https://open.spotify.com/track/16pCNpN8qTkUViMALO0U3Z) | [sadakatsiz](https://open.spotify.com/artist/0zZR7LKqUKMJSVnoogF6Mi) | [MONTAGEM CORAL](https://open.spotify.com/album/6JQs1jzCDA6MHAqaBTxxgy) | 2:25 | 2023-09-22 |  |
 | [MONTAGEM CORAL](https://open.spotify.com/track/3XxgfnKzZAc8hZlsjBCOIK) | [somai](https://open.spotify.com/artist/6q8Xr34whpzJxsu3lax6fh) | [MONTAGEM CORAL](https://open.spotify.com/album/2OKsctX02r3R3qhyq64mSG) | 2:25 | 2023-09-22 | 2023-10-05 |
 | [MONTAGEM CORAL](https://open.spotify.com/track/2rjXdiDz6cmKTn4MbnR6rS) | [veysxl](https://open.spotify.com/artist/0WeEdxpSmM2Rtjqm2mbSp3), [batuzane](https://open.spotify.com/artist/0xNQSJ31hA6QrnQNzQkK6P) | [MONTAGEM CORAL](https://open.spotify.com/album/58pJKKlXJ1s5aIhk4rwkIT) | 2:25 | 2023-09-22 | 2023-11-22 |
 | [Montagem Coral](https://open.spotify.com/track/3F02rCPD3IvrnZ7GPSjR5t) | [vicX](https://open.spotify.com/artist/4qiIMJtorRG5GfdyRsLBtC) | [Montagem Coral](https://open.spotify.com/album/6m8N6j8GfGmW3cqgP5uiHq) | 2:25 | 2023-09-22 | 2023-10-12 |
@@ -609,7 +611,7 @@
 | [vitality!](https://open.spotify.com/track/66n3AI9LxzXkVymlKRzaUT) | [Sadfriendd](https://open.spotify.com/artist/4UT0p3ljEiD472lZp44KLH), [Dxrk ダーク](https://open.spotify.com/artist/5TvFfw1MgSntdU9A7yncyA) | [vitality!](https://open.spotify.com/album/4jew7cIwWty3hKw43tHdol) | 2:08 | 2022-08-19 | 2022-10-01 |
 | [Vois](https://open.spotify.com/track/1qoy8HArv6VFchZB5KWXCm) | [Euphemism](https://open.spotify.com/artist/2LjnVIznJsfd8XzrUqXHTr) | [Vois](https://open.spotify.com/album/0zB2ihg6636WiNDK7ShIcZ) | 2:25 | 2023-09-22 | 2023-12-01 |
 | [Vois](https://open.spotify.com/track/3skDAUY9XQGnGquOZnbdJD) | [Euphemism](https://open.spotify.com/artist/2LjnVIznJsfd8XzrUqXHTr) | [Vois](https://open.spotify.com/album/3FM0HgM0hUgCXbu7TiZkpx) | 2:25 | 2023-09-22 | 2023-11-16 |
-| [Vois](https://open.spotify.com/track/3GMqqxQa1VMp3gOGcesm6j) | [TheExorcist](https://open.spotify.com/artist/4RP2lKGYgYkC0TUiTT2JTR) | [Vois](https://open.spotify.com/album/1hex3aXzhYCGgtWuJdQfl3) | 2:25 | 2023-09-22 |  |
+| [Vois](https://open.spotify.com/track/3GMqqxQa1VMp3gOGcesm6j) | [TheExorcist](https://open.spotify.com/artist/4RP2lKGYgYkC0TUiTT2JTR) | [Vois](https://open.spotify.com/album/1hex3aXzhYCGgtWuJdQfl3) | 2:25 | 2023-09-22 | 2023-12-04 |
 | [Vois sur ton chemin](https://open.spotify.com/track/3EBW62oChNTesOLm7hnuEk) | [Euphemism](https://open.spotify.com/artist/2LjnVIznJsfd8XzrUqXHTr) | [Vois sur ton chemin](https://open.spotify.com/album/53FR5HN59YWVkNFlUqelaV) | 2:25 | 2023-09-22 | 2023-11-10 |
 | [VOLTAGE](https://open.spotify.com/track/57imsUFDfNUFWj7h6KvIA9) | [Ghostface Playa](https://open.spotify.com/artist/5xegBBY3vjR75woVR9kiy7), [KXNVRA](https://open.spotify.com/artist/5UJkhYfIETGF5PMO0DT3aj) | [VOLTAGE](https://open.spotify.com/album/0zv5KKqqIta6DctPU07yRr) | 2:07 | 2023-04-14 | 2023-04-27 |
 | [VUK VUK](https://open.spotify.com/track/50a8i9ASSSsh8OLUsMu6uL) | [Kordhell](https://open.spotify.com/artist/2W6WP4pHQTFlbr2z9S4n54), [Dragon Boys](https://open.spotify.com/artist/2qW1dvYTdC1fGOYyTqzaLy) | [VUK VUK](https://open.spotify.com/album/4oxCXdKXFj1fTSbqQ4sOaX) | 2:16 | 2023-04-14 | 2023-09-09 |

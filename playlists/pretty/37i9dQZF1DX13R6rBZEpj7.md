@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX13R6rBZEpj7.md) - [plain]
 
 > Turn up the volume for some filthy bassline! ft\. Y U QT
 
-[Spotify](https://open.spotify.com/user/spotify) - 200,307 likes - 70 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 200,315 likes - 70 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,11 +48,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX13R6rBZEpj7.md) - [plain]
 | 38 | [<3<3<3](https://open.spotify.com/track/3LWTK96kI6eu29am9GEMS3) | [Baauer](https://open.spotify.com/artist/25fqWEebq6PoiGQIHIrdtv) | [<3<3<3](https://open.spotify.com/album/7yyMB6HnHMXsB1xoocebJE) | 3:05 |
 | 39 | [Lost It](https://open.spotify.com/track/1LaZl4dhIj9v3uUPwJpfVG) | [ENiGMA Dubz](https://open.spotify.com/artist/7ygSJBM6sZ0vXGJvjnL1V5), [Snowy](https://open.spotify.com/artist/3opizXFB4I7D4926tpYMUP) | [Mixtape 1: \#Heaters](https://open.spotify.com/album/5vlmZo8r8wFHTs7w4aMZZt) | 3:35 |
 | 40 | [Skanker](https://open.spotify.com/track/6h2bwZae3TtaQPN7H4Nzwr) | [TS7](https://open.spotify.com/artist/4EV6hgVc6KD0SFOIJJLFki), [Scrufizzer](https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1) | [Skanker](https://open.spotify.com/album/1RCj9Ix2fIuV633QXLzJ48) | 3:47 |
-| 41 | [Knock Knock](https://open.spotify.com/track/19SBdTkyhMdRDNxpydbxzc) | [NuBass](https://open.spotify.com/artist/5Nd61ppMOQbbtF1HV13kBO), [Deppz](https://open.spotify.com/artist/7jhS9dwK214Tp1KgEVfyd2) | [Knock Knock](https://open.spotify.com/album/1wCezsULBQ87NvJ3u2bTQ2) | 3:18 |
+| 41 | [Live And Direct](https://open.spotify.com/track/36xxmNRjLOJdQzVuNDPRJo) | [Diffrent](https://open.spotify.com/artist/7mycnkT3eOskxxGbN9skkV) | [Live And Direct](https://open.spotify.com/album/3Y25vmDNLn0ByJPZIBi8Td) | 2:51 |
 | 42 | [Party Right](https://open.spotify.com/track/6cS27V3QGz0WdRqSRioDu3) | [Zero](https://open.spotify.com/artist/6ocDQwCTkVro3cmejcF1DH), [Logan\_olm](https://open.spotify.com/artist/7ezXYwQkPrEkSXdVsFowz0) | [Party Right / Snake Charmer](https://open.spotify.com/album/1ZDew2sa32OfMmXnUJCzBx) | 3:36 |
 | 43 | [Only You](https://open.spotify.com/track/1VejWyeRqpiexvnQQXmacA) | [Birch](https://open.spotify.com/artist/30XFjY5QiLhaU51gQGAKNv) | [Only You](https://open.spotify.com/album/4U1NmXaUZTF5PzKwnU3BSV) | 3:36 |
-| 44 | [Ruins](https://open.spotify.com/track/7ADvgniUzfEEh2eTqgpkz8) | [Sisko](https://open.spotify.com/artist/0helc55eMzPEXyUqV0qZt3), [3000 Bass](https://open.spotify.com/artist/6J3C2BgdZTvYCIoCTzybDM) | [Ruins](https://open.spotify.com/album/01BZZCEXgzCdHDx8fWcVpv) | 3:57 |
-| 45 | [Live And Direct](https://open.spotify.com/track/36xxmNRjLOJdQzVuNDPRJo) | [Diffrent](https://open.spotify.com/artist/7mycnkT3eOskxxGbN9skkV) | [Live And Direct](https://open.spotify.com/album/3Y25vmDNLn0ByJPZIBi8Td) | 2:51 |
+| 44 | [Knock Knock](https://open.spotify.com/track/19SBdTkyhMdRDNxpydbxzc) | [NuBass](https://open.spotify.com/artist/5Nd61ppMOQbbtF1HV13kBO), [Deppz](https://open.spotify.com/artist/7jhS9dwK214Tp1KgEVfyd2) | [Knock Knock](https://open.spotify.com/album/1wCezsULBQ87NvJ3u2bTQ2) | 3:18 |
+| 45 | [Ruins](https://open.spotify.com/track/7ADvgniUzfEEh2eTqgpkz8) | [Sisko](https://open.spotify.com/artist/0helc55eMzPEXyUqV0qZt3), [3000 Bass](https://open.spotify.com/artist/6J3C2BgdZTvYCIoCTzybDM) | [Ruins](https://open.spotify.com/album/01BZZCEXgzCdHDx8fWcVpv) | 3:57 |
 | 46 | [Acid](https://open.spotify.com/track/1RvSHMTBwIpNbqvpSPHcNV) | [Skepsis](https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC) | [Faith In Chaos](https://open.spotify.com/album/26Vyrwt4qfkiPMqUJUf7dr) | 3:45 |
 | 47 | [Gully](https://open.spotify.com/track/2NVMb5oEdeOakcDcpUtEri) | [Solex](https://open.spotify.com/artist/4sEjCapdcBsTMA0lj1Ep4G), [Fugzi](https://open.spotify.com/artist/7bxrsA8nztT5Gf4E3dRLWc) | [Gully](https://open.spotify.com/album/0lPpodKFrrKabX3wWFYxjt) | 3:30 |
 | 48 | [One Ting](https://open.spotify.com/track/0kxVhuTPJMtAP3dj9Q7tuG) | [Phibes](https://open.spotify.com/artist/21VZgcYa29ZVvRQzmUNakx) | [One Ting](https://open.spotify.com/album/51lQCt9KSngVbAqR4Qvc8E) | 3:52 |
@@ -74,9 +74,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX13R6rBZEpj7.md) - [plain]
 | 64 | [Hard Hitters](https://open.spotify.com/track/6T4YgCYDVBlzpdtsknFeQ7) | [Tsuki](https://open.spotify.com/artist/2yJbiseBZFvrCK5GueLnk7), [Dread MC](https://open.spotify.com/artist/2U5JmM5bTJuARrzQYnDAKn) | [Hard Hitters](https://open.spotify.com/album/10ugYCkUnBCin3OWtGTlMl) | 3:52 |
 | 65 | [Pure](https://open.spotify.com/track/3Hw8clcor9ojrg1AqHHKxp) | [Badger](https://open.spotify.com/artist/4mnrcwjD8rgFeOzvXmkcw3) | [Pure](https://open.spotify.com/album/1S8CHaPPbF68PW1Y8E1V2t) | 2:46 |
 | 66 | [Barrington](https://open.spotify.com/track/5EBKqgDTtlFfigzfGbNbii) | [MPH](https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof) | [Barrington / Bodies](https://open.spotify.com/album/0uDvHt1lG8KyGrxmfDBmpk) | 3:41 |
-| 67 | [Get Right](https://open.spotify.com/track/4p2RKpiWTdaDTPTJ63fMEM) | [BIIANCO](https://open.spotify.com/artist/4Axsf7QVnPabbam5y6NwLt), [Dread MC](https://open.spotify.com/artist/2U5JmM5bTJuARrzQYnDAKn) | [Get Right](https://open.spotify.com/album/2T3PGm9B64yh7FQYdfAh6J) | 3:15 |
-| 68 | [Troubled Waters \- Zed Bias UKG Mix; Radio Edit](https://open.spotify.com/track/2q3vMfgqIXm08cmVTSyN5P) | [The Streets](https://open.spotify.com/artist/4GvOygVQquMaPm8oAc0vXi), [Zed Bias](https://open.spotify.com/artist/1XZzbCZRuj6eOdRxQcmiD7) | [Troubled Waters \(Zed Bias Remixes\)](https://open.spotify.com/album/2PY8eTuCUDIISFcZa6IIWA) | 3:51 |
-| 69 | [Redlight](https://open.spotify.com/track/60GofMxxkrLuEIOS9JluGG) | [Livsey](https://open.spotify.com/artist/3NTztqzlD6wmkIMRwvurdL), [Nika D](https://open.spotify.com/artist/4rhvvviNTpgE0r6A3Vb5nG), [Virus Syndicate](https://open.spotify.com/artist/0NV5eY4Jzg4ldg2ikGnV4n) | [Liberation](https://open.spotify.com/album/5JX891euRdXxQuUNl5f1oW) | 4:09 |
+| 67 | [Redlight](https://open.spotify.com/track/60GofMxxkrLuEIOS9JluGG) | [Livsey](https://open.spotify.com/artist/3NTztqzlD6wmkIMRwvurdL), [Nika D](https://open.spotify.com/artist/4rhvvviNTpgE0r6A3Vb5nG), [Virus Syndicate](https://open.spotify.com/artist/0NV5eY4Jzg4ldg2ikGnV4n) | [Liberation](https://open.spotify.com/album/5JX891euRdXxQuUNl5f1oW) | 4:09 |
+| 68 | [Get Right](https://open.spotify.com/track/4p2RKpiWTdaDTPTJ63fMEM) | [BIIANCO](https://open.spotify.com/artist/4Axsf7QVnPabbam5y6NwLt), [Dread MC](https://open.spotify.com/artist/2U5JmM5bTJuARrzQYnDAKn) | [Get Right](https://open.spotify.com/album/2T3PGm9B64yh7FQYdfAh6J) | 3:15 |
+| 69 | [Troubled Waters \- Zed Bias UKG Mix; Radio Edit](https://open.spotify.com/track/2q3vMfgqIXm08cmVTSyN5P) | [The Streets](https://open.spotify.com/artist/4GvOygVQquMaPm8oAc0vXi), [Zed Bias](https://open.spotify.com/artist/1XZzbCZRuj6eOdRxQcmiD7) | [Troubled Waters \(Zed Bias Remixes\)](https://open.spotify.com/album/2PY8eTuCUDIISFcZa6IIWA) | 3:51 |
 | 70 | [This Sound](https://open.spotify.com/track/5sQoVIKIgJnPkjZoq42AhX) | [My Nu Leng](https://open.spotify.com/artist/2rChxbkkh2U5ZrPuShKmTZ), [Dread MC](https://open.spotify.com/artist/2U5JmM5bTJuARrzQYnDAKn), [Kaya](https://open.spotify.com/artist/2ZQgZayNg80uKN5pjwv30k) | [This Sound](https://open.spotify.com/album/3tvCBG7axwQrj57zrurbws) | 4:17 |
 
-Snapshot ID: `MCxkZDVmOGM5ZjMzYWVkNzQ0ZDcwYjE0NjQxYmU3MWQ4YTY2MmZmYTk1`
+Snapshot ID: `MCw5OWJhYjdkZTUwMTFmNTQ1N2Y3MjAwNjZhZGUxYzA3Zjg4ZmQyYzlk`

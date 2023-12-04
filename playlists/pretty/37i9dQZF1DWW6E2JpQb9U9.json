@@ -1,12 +1,12 @@
 {
   "description": "Rock en vivo de la A a la Z, de ayer, de hoy y de siempre... \u00a1Canten ustedes! Foto: Eruca Sativa & Marilina Bertoldi",
-  "num_followers": 105688,
+  "num_followers": 105735,
   "original_name": "Vivo de Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NTUxYmMxOTUwZTBmYmNjMDA4ZTM1NzNjOGI5ZWI5ZGZmZjU1MmEx",
+  "snapshot_id": "MCw4MDg2MDhkZmUxZGU2MGZmYWI0MTlkYTBkOWE3N2NhNWIyNjE2ZjQ5",
   "tracks": [
     {
       "added_at": "2023-12-01 03:00:00",
@@ -699,6 +699,22 @@
     {
       "added_at": "2023-12-01 03:00:00",
       "album": {
+        "name": "El Amor Despu\u00e9s Del Amor 20 A\u00f1os ( En Vivo )",
+        "url": "https://open.spotify.com/album/69hkXFR8jgVt1cLqfQmKEj"
+      },
+      "artists": [
+        {
+          "name": "Fito Paez",
+          "url": "https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu"
+        }
+      ],
+      "duration_ms": 247613,
+      "name": "La Rueda M\u00e1gica - En Vivo",
+      "url": "https://open.spotify.com/track/4lhtqmdz80xSAKWMwDUcuK"
+    },
+    {
+      "added_at": "2023-12-01 03:00:00",
+      "album": {
         "name": "Nada Salvaje (En Vivo Estadio Obras)",
         "url": "https://open.spotify.com/album/60zgn0XnSkJDP5teuPppPt"
       },
@@ -719,22 +735,6 @@
     {
       "added_at": "2023-12-01 03:00:00",
       "album": {
-        "name": "El Amor Despu\u00e9s Del Amor 20 A\u00f1os ( En Vivo )",
-        "url": "https://open.spotify.com/album/69hkXFR8jgVt1cLqfQmKEj"
-      },
-      "artists": [
-        {
-          "name": "Fito Paez",
-          "url": "https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu"
-        }
-      ],
-      "duration_ms": 247613,
-      "name": "La Rueda M\u00e1gica - En Vivo",
-      "url": "https://open.spotify.com/track/4lhtqmdz80xSAKWMwDUcuK"
-    },
-    {
-      "added_at": "2023-12-01 03:00:00",
-      "album": {
         "name": "Repuesto de Fe (En Vivo)",
         "url": "https://open.spotify.com/album/37T4qeUVTpx7Ps3HhSKdKc"
       },
@@ -751,18 +751,18 @@
     {
       "added_at": "2023-12-01 03:00:00",
       "album": {
-        "name": "En Vivo Obras",
-        "url": "https://open.spotify.com/album/2l7x79wrLp28jt7qRjErxT"
+        "name": "En Vivo en el Estadio \u00danico",
+        "url": "https://open.spotify.com/album/7GYnlBfQuUjK8ArBRMtYxp"
       },
       "artists": [
         {
-          "name": "Almafuerte",
-          "url": "https://open.spotify.com/artist/6qYd7xlmeeeDkPfx6mZ9PV"
+          "name": "La Beriso",
+          "url": "https://open.spotify.com/artist/0Dy32zfSrQ332Bz8wsthKJ"
         }
       ],
-      "duration_ms": 249144,
-      "name": "S\u00e9 Vos - En Vivo",
-      "url": "https://open.spotify.com/track/5qmap4CQeX4rNCIi2rBOJ8"
+      "duration_ms": 341626,
+      "name": "Traicionero - En Vivo en el Estadio \u00danico",
+      "url": "https://open.spotify.com/track/64ovzYdza1i6uCLVxp7qWb"
     },
     {
       "added_at": "2023-12-01 03:00:00",
@@ -783,18 +783,18 @@
     {
       "added_at": "2023-12-01 03:00:00",
       "album": {
-        "name": "En Vivo en el Estadio \u00danico",
-        "url": "https://open.spotify.com/album/7GYnlBfQuUjK8ArBRMtYxp"
+        "name": "En Vivo Obras",
+        "url": "https://open.spotify.com/album/2l7x79wrLp28jt7qRjErxT"
       },
       "artists": [
         {
-          "name": "La Beriso",
-          "url": "https://open.spotify.com/artist/0Dy32zfSrQ332Bz8wsthKJ"
+          "name": "Almafuerte",
+          "url": "https://open.spotify.com/artist/6qYd7xlmeeeDkPfx6mZ9PV"
         }
       ],
-      "duration_ms": 341626,
-      "name": "Traicionero - En Vivo en el Estadio \u00danico",
-      "url": "https://open.spotify.com/track/64ovzYdza1i6uCLVxp7qWb"
+      "duration_ms": 249144,
+      "name": "S\u00e9 Vos - En Vivo",
+      "url": "https://open.spotify.com/track/5qmap4CQeX4rNCIi2rBOJ8"
     },
     {
       "added_at": "2023-12-01 03:00:00",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2023-12-01 03:00:00",
       "album": {
-        "name": "Ac\u00fastico,Teatro Opera, Buenos Aires, Argentina.",
-        "url": "https://open.spotify.com/album/6j8Pylv9STVsYonxYxUoYE"
-      },
-      "artists": [
-        {
-          "name": "Attaque 77",
-          "url": "https://open.spotify.com/artist/5rI6C5mJm6GYXbGHhpHTu9"
-        }
-      ],
-      "duration_ms": 212106,
-      "name": "Beatle - Ac\u00fastico en Vivo",
-      "url": "https://open.spotify.com/track/0HCcZ5tV6KCUOtcXjttwq8"
-    },
-    {
-      "added_at": "2023-12-01 03:00:00",
-      "album": {
         "name": "Otra Noche en la Luna (Episodio I)",
         "url": "https://open.spotify.com/album/49Dc7i19OTFHpmyqxdIGyI"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 244800,
       "name": "Las Cosas Que No Se Tocan - En Vivo Luna Park",
       "url": "https://open.spotify.com/track/0FgxJadnECY2W5cvt9tKVg"
+    },
+    {
+      "added_at": "2023-12-01 03:00:00",
+      "album": {
+        "name": "Ac\u00fastico,Teatro Opera, Buenos Aires, Argentina.",
+        "url": "https://open.spotify.com/album/6j8Pylv9STVsYonxYxUoYE"
+      },
+      "artists": [
+        {
+          "name": "Attaque 77",
+          "url": "https://open.spotify.com/artist/5rI6C5mJm6GYXbGHhpHTu9"
+        }
+      ],
+      "duration_ms": 212106,
+      "name": "Beatle - Ac\u00fastico en Vivo",
+      "url": "https://open.spotify.com/track/0HCcZ5tV6KCUOtcXjttwq8"
     },
     {
       "added_at": "2023-12-01 03:00:00",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2023-12-01 03:00:00",
       "album": {
-        "name": "Estadio Newell's Old Boys, 18 de Mayo de 2018 (En Vivo)",
-        "url": "https://open.spotify.com/album/5WOqG6HvWWAd7YvlK6TObB"
-      },
-      "artists": [
-        {
-          "name": "La Renga",
-          "url": "https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C"
-        }
-      ],
-      "duration_ms": 253968,
-      "name": "En el Bald\u00edo - En Vivo",
-      "url": "https://open.spotify.com/track/7J8rmygjDWHb3fpwIEJDnH"
-    },
-    {
-      "added_at": "2023-12-01 03:00:00",
-      "album": {
         "name": "Barek (En Vivo Luna Park)",
         "url": "https://open.spotify.com/album/4qYSyuSs6ErU3W62tstxo5"
       },
@@ -1383,6 +1367,22 @@
       "duration_ms": 243253,
       "name": "Barek - En Vivo Luna Park",
       "url": "https://open.spotify.com/track/3F6owj1sw7oPul8jedGkhT"
+    },
+    {
+      "added_at": "2023-12-01 03:00:00",
+      "album": {
+        "name": "Estadio Newell's Old Boys, 18 de Mayo de 2018 (En Vivo)",
+        "url": "https://open.spotify.com/album/5WOqG6HvWWAd7YvlK6TObB"
+      },
+      "artists": [
+        {
+          "name": "La Renga",
+          "url": "https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C"
+        }
+      ],
+      "duration_ms": 253968,
+      "name": "En el Bald\u00edo - En Vivo",
+      "url": "https://open.spotify.com/track/7J8rmygjDWHb3fpwIEJDnH"
     },
     {
       "added_at": "2023-12-01 03:00:00",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2023-12-01 03:00:00",
       "album": {
-        "name": "Vivo Paranoico",
-        "url": "https://open.spotify.com/album/5CHgzhgDsOlwS1jPjRxe07"
-      },
-      "artists": [
-        {
-          "name": "Ratones Paranoicos",
-          "url": "https://open.spotify.com/artist/5fVtUielMhdztOA34ArB6c"
-        }
-      ],
-      "duration_ms": 205080,
-      "name": "Carol - Vivo",
-      "url": "https://open.spotify.com/track/4V7EMmfiohP17t5ulxDCQF"
-    },
-    {
-      "added_at": "2023-12-01 03:00:00",
-      "album": {
         "name": "Razzmatazz (En directo)",
         "url": "https://open.spotify.com/album/0lhtRV9TKRZriNswVCca9q"
       },
@@ -1483,18 +1467,18 @@
     {
       "added_at": "2023-12-01 03:00:00",
       "album": {
-        "name": "Fr\u00e1gil (En Vivo)",
-        "url": "https://open.spotify.com/album/1zsmfIrdaVCBnmLvwKPKYq"
+        "name": "Vivo Paranoico",
+        "url": "https://open.spotify.com/album/5CHgzhgDsOlwS1jPjRxe07"
       },
       "artists": [
         {
-          "name": "La Vela Puerca",
-          "url": "https://open.spotify.com/artist/6nVcjUJemqpJjc1WevwTvL"
+          "name": "Ratones Paranoicos",
+          "url": "https://open.spotify.com/artist/5fVtUielMhdztOA34ArB6c"
         }
       ],
-      "duration_ms": 200985,
-      "name": "Fr\u00e1gil - En Vivo",
-      "url": "https://open.spotify.com/track/3fu3BMBP66gT5NklGqB9Cl"
+      "duration_ms": 205080,
+      "name": "Carol - Vivo",
+      "url": "https://open.spotify.com/track/4V7EMmfiohP17t5ulxDCQF"
     },
     {
       "added_at": "2023-12-01 03:00:00",
@@ -1511,6 +1495,22 @@
       "duration_ms": 253733,
       "name": "Arde la ciudad",
       "url": "https://open.spotify.com/track/4TAdfQJXaMWfJK63aGH2zJ"
+    },
+    {
+      "added_at": "2023-12-01 03:00:00",
+      "album": {
+        "name": "Fr\u00e1gil (En Vivo)",
+        "url": "https://open.spotify.com/album/1zsmfIrdaVCBnmLvwKPKYq"
+      },
+      "artists": [
+        {
+          "name": "La Vela Puerca",
+          "url": "https://open.spotify.com/artist/6nVcjUJemqpJjc1WevwTvL"
+        }
+      ],
+      "duration_ms": 200985,
+      "name": "Fr\u00e1gil - En Vivo",
+      "url": "https://open.spotify.com/track/3fu3BMBP66gT5NklGqB9Cl"
     },
     {
       "added_at": "2023-12-01 03:00:00",

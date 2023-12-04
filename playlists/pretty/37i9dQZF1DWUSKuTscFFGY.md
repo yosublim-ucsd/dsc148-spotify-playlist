@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUSKuTscFFGY.md) - [plain]
 
 > Découvrez les meilleures nouveautés pop\. Photo : Dove Cameron
 
-[Spotify](https://open.spotify.com/user/spotify) - 232,407 likes - 60 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 232,458 likes - 60 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUSKuTscFFGY.md) - [plain]
 | 59 | [Sad Forever](https://open.spotify.com/track/63jCeAYGLcRL21xm0jKlgn) | [Lauren Spencer Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [Mirror \(Deluxe\)](https://open.spotify.com/album/5mm7YZkfxMlprJTOJEWfxq) | 2:55 |
 | 60 | [BITTERSWEET](https://open.spotify.com/track/4Ap4XPfDknSxcqBTVbyEqp) | [Clinton Kane](https://open.spotify.com/artist/7okSU80WTrn4LXlyXYbX3P) | [BITTERSWEET](https://open.spotify.com/album/5aVRKxppPPFxvPYGXNerNX) | 2:38 |
 
-Snapshot ID: `MCxlNDdkZDc1N2Y2YTMwODI3ZGU2YzVkNDlmNjEwMDczNTExMGRiY2Zh`
+Snapshot ID: `MCxhZGM2NzU4Y2MzNmRiY2MyZWVmZGYzNmY0YjViOTMyODExNDYyMzQw`

@@ -4,7 +4,7 @@
 
 > Instructions: volume up\. Cover: Palaye Royale
 
-1,041 songs - 2 day 14 hr 19 min
+1,042 songs - 2 day 14 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -146,7 +146,8 @@
 | [Buried in the Sun](https://open.spotify.com/track/1RwZqkzexsLSf7aONgcpoi) | [Thrice](https://open.spotify.com/artist/3NChzMpu9exTlNPiqUQ2DE) | [Horizons / East](https://open.spotify.com/album/6JLTZPPzQDKjv6zkenbZnc) | 3:01 | 2021-09-17 | 2022-03-26 |
 | [Burn](https://open.spotify.com/track/6UhTcphGFjBnbkfMD4u8db) | [Alexis Munroe](https://open.spotify.com/artist/6yBtoVjaVbLRaxnxlepboB) | [Burn](https://open.spotify.com/album/7c3JgRXjeSYbqjtyW9Xdae) | 3:33 | 2023-01-27 | 2023-05-13 |
 | [Burn It Up](https://open.spotify.com/track/0E9cZM5tqkk0KDSqHsx4p6) | [Cory Marks](https://open.spotify.com/artist/17pJAHDfdLvGuUwl2DkEgv) | [Burn It Up](https://open.spotify.com/album/05ufuvHmeSOSvGUFra5tPj) | 3:26 | 2022-09-16 | 2022-11-12 |
-| [Burn MF \(feat\. Rob Zombie\)](https://open.spotify.com/track/4zFrUrmwGjLWWDvlyOTcTu) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM), [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [Burn MF \(feat\. Rob Zombie\)](https://open.spotify.com/album/6VPBlSRkkWju1JgMxpVFqU) | 3:37 | 2023-11-17 |  |
+| [Burn MF \(feat\. Rob Zombie\)](https://open.spotify.com/track/1rH3m5jxL3TkznX0owKS39) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM), [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [The Wrong Side of Heaven Volume 1 + 2](https://open.spotify.com/album/2lEUy2FQGa4QchYQRbkN6t) | 3:37 | 2023-12-01 |  |
+| [Burn MF \(feat\. Rob Zombie\)](https://open.spotify.com/track/4zFrUrmwGjLWWDvlyOTcTu) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM), [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [Burn MF \(feat\. Rob Zombie\)](https://open.spotify.com/album/6VPBlSRkkWju1JgMxpVFqU) | 3:37 | 2023-11-17 | 2023-12-04 |
 | [Burn With You](https://open.spotify.com/track/59HNDyS0NSPoPU1BjvVebk) | [Egypt Central](https://open.spotify.com/artist/1d5wNTZ8WZYE5WuXXjug9w) | [Burn With You](https://open.spotify.com/album/4RxTruqh7IQ6zMG44NAdhS) | 3:14 | 2021-07-09 | 2022-02-12 |
 | [Bury Me](https://open.spotify.com/track/1NSYXbAScmN0YlfrA7wTuS) | [Lansdowne](https://open.spotify.com/artist/5urnoBZifR5YXG5YdCOj34) | [Bury Me](https://open.spotify.com/album/473EymkgPRlNPrNULlRcau) | 3:22 | 2023-10-27 |  |
 | [By The Sound](https://open.spotify.com/track/7fUyorTZHGV2Nv7y6kU2b2) | [Caskets](https://open.spotify.com/artist/2XIbOWDT5vZPW7jNyzdfcK) | [By The Sound](https://open.spotify.com/album/5OdLYsLViZQUxq1KkOYioq) | 3:42 | 2023-02-17 | 2023-05-20 |

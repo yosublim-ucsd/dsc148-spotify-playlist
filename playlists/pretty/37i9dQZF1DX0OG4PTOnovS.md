@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0OG4PTOnovS.md) - [plain]
 
 > The whole family can worship together with these upbeat, inspirational songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,092 likes - 66 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,101 likes - 66 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0OG4PTOnovS.md) - [plain]
 | 21 | [Let It Rise](https://open.spotify.com/track/1DvX3oEER1H4KV2LWvAnlI) | [Maranatha! Kids](https://open.spotify.com/artist/40JuNvEnk3vufsyLg9WX5n) | [Top 25 Kids' Praise Songs 2012](https://open.spotify.com/album/4LQGT35YB9CxVcSSp5NnbJ) | 3:33 |
 | 22 | [My Strength \(feat\. Emily Hearn\)](https://open.spotify.com/track/02GQZBMcL90iqQA2CDtgHm) | [Amber Sky Records](https://open.spotify.com/artist/6cAxRZyhkM7NqvV2hSc7Wb), [Emily Hearn](https://open.spotify.com/artist/4LuEEQLErHvNdZDxEWf6W1) | [Alive](https://open.spotify.com/album/5ONjVBfYyUJpmXnz5DoU0k) | 3:00 |
 | 23 | [Above The Noise](https://open.spotify.com/track/3oyNDBaHZBcjm2J0c0jGRM) | [Valley Creek Kids](https://open.spotify.com/artist/2f7xu7t7PTkbnt7cfeCxjs) | [Above The Noise](https://open.spotify.com/album/7BkJaIA2dSOWiN0ysTrI5A) | 3:31 |
-| 24 | [Alive With You](https://open.spotify.com/track/2RV0A2ALFNQzmoiPbokUsj) | [Gateway Kids Worship](https://open.spotify.com/artist/5spb8btR2z1lSREzcyg56E), [Landree DePrang](https://open.spotify.com/artist/6xHFOZfBZv7bGG43jixotl) | [Alive With You](https://open.spotify.com/album/6RFaGa95Rvc8s5ptahTybj) | 3:14 |
+| 24 | [Alive With You](https://open.spotify.com/track/3f5IcwQK1ctqJxXW39nsaB) | [Gateway Kids Worship](https://open.spotify.com/artist/5spb8btR2z1lSREzcyg56E), [Landree DePrang](https://open.spotify.com/artist/6xHFOZfBZv7bGG43jixotl) | [Alive With You](https://open.spotify.com/album/3tRgYm24BzuInWNQ9g311x) | 3:14 |
 | 25 | [I Could Sing Of Your Love Forever](https://open.spotify.com/track/5DitwE7RJ4424F09PUe2xq) | [Kids Worship Performers](https://open.spotify.com/artist/5FjG20GrL65IRBtxWMua2I) | [Kids Worship](https://open.spotify.com/album/4UJ8RjRSXUu08DahKcivwc) | 4:06 |
 | 26 | [\(Don't You Know\) It's Time To Praise The Lord](https://open.spotify.com/track/3jdRHx3dv2Rg4Ywdm3SGvj) | [Kids Praise Co.](https://open.spotify.com/artist/72GwlC9WENLKUaZiwixp5V) | [Top 50 Kids' Praise! Company](https://open.spotify.com/album/76ydbYVdYIcrk0fvIykacg) | 0:59 |
 | 27 | [It All Starts In My Brain](https://open.spotify.com/track/0SOaCOYoYn4mBy4NUSCpSe) | [Hillsong Kids](https://open.spotify.com/artist/6B9zcemB6pCVlbLac9pwWF), [Funny Man Dan](https://open.spotify.com/artist/5GbgoLqaCZMn0AKHMbc6sJ) | [Songs Of Some Silliness](https://open.spotify.com/album/5mv36wjykVxgYKblk2KLRJ) | 1:37 |
@@ -75,4 +75,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0OG4PTOnovS.md) - [plain]
 | 65 | [This is Amazing Grace](https://open.spotify.com/track/6saLHwRKrJIleVAizsRhoV) | [Saddleback Kids Worship](https://open.spotify.com/artist/3JmOsw9Th41J8BDZ7QGM63), [Ian Escalante](https://open.spotify.com/artist/4VdTEoEk67dYLvPALOIXIT) | [Brave](https://open.spotify.com/album/1JM1e0eP26O8eXfLJxYOom) | 4:34 |
 | 66 | [Praise Goes On](https://open.spotify.com/track/7jRcvNpCOtgkoHQO8i4o37) | [Elevation Church Kids](https://open.spotify.com/artist/0ZGQ1XnxB8h4eiAjtIhNx5) | [One In a Million](https://open.spotify.com/album/2NV57pQNW911GnUj1koyTj) | 3:09 |
 
-Snapshot ID: `MCxkNjM1YWY1ODA4YzJhY2FkNDJmZmI4YzNlZjBlYWNmM2U2YTBkZjk0`
+Snapshot ID: `MCw3YWY0NzBmNWJmMDMxMjYxNTQ2YWVmOWEyOTQzNGU3MDM4NmI0MTRh`

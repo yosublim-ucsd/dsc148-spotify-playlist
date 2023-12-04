@@ -4,7 +4,7 @@
 
 > California music breaking waves\. Cover: <a href="spotify:artist:5cgtn5YWC3Fr06wTps1dBq">Goapele</a>
 
-969 songs - 2 day 0 hr 24 min
+970 songs - 2 day 0 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -791,7 +791,8 @@
 | [Social Media \(feat\. BlueBucksClan\)](https://open.spotify.com/track/3RcnvAxmNhR67asCbmFWsh) | [1takejay](https://open.spotify.com/artist/6vCAhgYcKSL1curqoT6eNu), [BlueBucksClan](https://open.spotify.com/artist/1l61CX1j6go8arTjPH9wy0) | [Social Media \(feat\. BlueBucksClan\)](https://open.spotify.com/album/5LDH6Gt1UVEXrfK3ANsJqy) | 2:55 | 2022-08-26 | 2022-09-17 |
 | [Somebody Else](https://open.spotify.com/track/4RIbSHUQwWV8Z8OwJQeZe6) | [Samaria](https://open.spotify.com/artist/4FreKg40BVDMPRLGeubyku) | [Somebody Else](https://open.spotify.com/album/6VXrlg78tYydMhUcXjxogm) | 3:40 | 2022-08-26 | 2022-09-25 |
 | [Somebody Told Me](https://open.spotify.com/track/72elEHWSWoCcQZaHCfdeyh) | [Your Grandparents](https://open.spotify.com/artist/4H2uN93zRcRAVmTINvxuiq), [Amindi](https://open.spotify.com/artist/1xQIR56DxgWYZPUvOLRIua) | [Somebody Told Me](https://open.spotify.com/album/5nJ1fosTWsfTfkHKFbDHfk) | 4:15 | 2022-06-07 | 2022-07-19 |
-| [Somethin Bout U](https://open.spotify.com/track/3aEQjuGpL2ZyYtnOKEgP6w) | [KYLE](https://open.spotify.com/artist/4qBgvVog0wzW75IQ48mU7v), [Teezo Touchdown](https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36) | [Somethin Bout U](https://open.spotify.com/album/0P3gIwj163thjGGYQW7ZDp) | 2:52 | 2023-12-01 |  |
+| [Somethin Bout U](https://open.spotify.com/track/1ewcXX3jGDSlL0afdrJRYq) | [KYLE](https://open.spotify.com/artist/4qBgvVog0wzW75IQ48mU7v), [Teezo Touchdown](https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36) | [Somethin Bout U](https://open.spotify.com/album/3hCqgEwy309nX74TGAOHs5) | 2:52 | 2023-12-01 |  |
+| [Somethin Bout U](https://open.spotify.com/track/3aEQjuGpL2ZyYtnOKEgP6w) | [KYLE](https://open.spotify.com/artist/4qBgvVog0wzW75IQ48mU7v), [Teezo Touchdown](https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36) | [Somethin Bout U](https://open.spotify.com/album/0P3gIwj163thjGGYQW7ZDp) | 2:52 | 2023-12-01 | 2023-12-04 |
 | [Sometimes](https://open.spotify.com/track/0vQZ4DMWUNyCqUJdqfEkfx) | [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL), [Zacari](https://open.spotify.com/artist/3qBKjEOanahMxlRojwCzhI) | [Sometimes](https://open.spotify.com/album/1iDx4jaQfX1ZN1HE7GpeJF) | 2:46 | 2022-03-04 | 2022-05-14 |
 | [Sorry For Da Wait](https://open.spotify.com/track/0qxmVXMW0pboOPOE2aJeox) | [GoGetta.Kb](https://open.spotify.com/artist/5u2OAxF8Fz7s7BwusF0w7h) | [Sorry For Da Wait](https://open.spotify.com/album/7tvW2UEbRa9c12Hksl8Zdh) | 1:43 | 2023-01-13 | 2023-02-15 |
 | [Sorry Not Sorry](https://open.spotify.com/track/1nsTTk3FqgnqmIdCjbv4GP) | [Bla$ta](https://open.spotify.com/artist/2bfz6u4hgmuMljhyMPCzoZ), [BoozaKeepScorin](https://open.spotify.com/artist/4HS5IW4JDjVsu7nnbqvFbE), [800Peez](https://open.spotify.com/artist/4meaF3XOiZmMeR6Lf4etpV) | [Kings Of The North](https://open.spotify.com/album/5gm7mKiGvvbfBJbPcF6d42) | 3:07 | 2023-07-14 | 2023-08-12 |

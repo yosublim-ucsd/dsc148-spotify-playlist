@@ -1,12 +1,12 @@
 {
   "description": "Lo nuevo del Trap, Rap y Reggaeton Cristiano. \nFoto: Vaes",
-  "num_followers": 177364,
+  "num_followers": 177409,
   "original_name": "Flow Cristiano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkOGYxYjJhNjdmMGVhZjczOGRiZDlkMWRmZDcxZDdlMDNiNDNiNGIz",
+  "snapshot_id": "MCwxNzFjNDM5NzIyMDUyMWNkMGFiYjY3MjM3MzMzM2RkM2NjYjM4NjM4",
   "tracks": [
     {
       "added_at": "2022-08-27 05:04:45",
@@ -1855,26 +1855,6 @@
     {
       "added_at": "2022-08-27 05:04:45",
       "album": {
-        "name": "Se Enamor\u00f3",
-        "url": "https://open.spotify.com/album/4t6WWvaLdzL40EyEfv9Qci"
-      },
-      "artists": [
-        {
-          "name": "Daniela Galeano",
-          "url": "https://open.spotify.com/artist/5iBuQW2ANJlj4eqhEv43Be"
-        },
-        {
-          "name": "Lizzy Parra",
-          "url": "https://open.spotify.com/artist/1Cm5r6LqrFQDuA0F4KUIQz"
-        }
-      ],
-      "duration_ms": 219500,
-      "name": "Se Enamor\u00f3",
-      "url": "https://open.spotify.com/track/3M8yZ5w6kxm2yIQE8444Jg"
-    },
-    {
-      "added_at": "2022-08-27 05:04:45",
-      "album": {
         "name": "No Tiene Sentido",
         "url": "https://open.spotify.com/album/1o7jXsTfe2SrhI4HEPoaKO"
       },
@@ -1899,22 +1879,22 @@
     {
       "added_at": "2022-08-27 05:04:45",
       "album": {
-        "name": "M\u00e1s Como T\u00fa \u2013 Remix",
-        "url": "https://open.spotify.com/album/7sql4hYL7mAYVzYde7KmHZ"
+        "name": "Se Enamor\u00f3",
+        "url": "https://open.spotify.com/album/4t6WWvaLdzL40EyEfv9Qci"
       },
       "artists": [
         {
-          "name": "Alex Zurdo",
-          "url": "https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd"
+          "name": "Daniela Galeano",
+          "url": "https://open.spotify.com/artist/5iBuQW2ANJlj4eqhEv43Be"
         },
         {
-          "name": "Linaje Escogido",
-          "url": "https://open.spotify.com/artist/2S0DRUKIeTtGef4BPbKcc0"
+          "name": "Lizzy Parra",
+          "url": "https://open.spotify.com/artist/1Cm5r6LqrFQDuA0F4KUIQz"
         }
       ],
-      "duration_ms": 206230,
-      "name": "M\u00e1s Como T\u00fa \u2013 Remix",
-      "url": "https://open.spotify.com/track/0cN87JXZzLCLml6H7MQkaj"
+      "duration_ms": 219500,
+      "name": "Se Enamor\u00f3",
+      "url": "https://open.spotify.com/track/3M8yZ5w6kxm2yIQE8444Jg"
     },
     {
       "added_at": "2022-08-27 05:04:45",
@@ -1935,6 +1915,26 @@
       "duration_ms": 190095,
       "name": "El Fuego",
       "url": "https://open.spotify.com/track/48f9BX8tVDm406EAABwTJW"
+    },
+    {
+      "added_at": "2022-08-27 05:04:45",
+      "album": {
+        "name": "M\u00e1s Como T\u00fa \u2013 Remix",
+        "url": "https://open.spotify.com/album/7sql4hYL7mAYVzYde7KmHZ"
+      },
+      "artists": [
+        {
+          "name": "Alex Zurdo",
+          "url": "https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd"
+        },
+        {
+          "name": "Linaje Escogido",
+          "url": "https://open.spotify.com/artist/2S0DRUKIeTtGef4BPbKcc0"
+        }
+      ],
+      "duration_ms": 206230,
+      "name": "M\u00e1s Como T\u00fa \u2013 Remix",
+      "url": "https://open.spotify.com/track/0cN87JXZzLCLml6H7MQkaj"
     },
     {
       "added_at": "2022-08-27 05:04:45",

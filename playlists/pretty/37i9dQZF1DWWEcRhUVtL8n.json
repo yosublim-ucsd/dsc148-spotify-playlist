@@ -1,12 +1,12 @@
 {
   "description": "New and approved indie pop. Cover: hemlocke springs ",
-  "num_followers": 1697360,
+  "num_followers": 1697377,
   "original_name": "Indie Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2OWUxOGY5ZTMzNjU3N2I4NTQ5OWM0MGQ0OWY4OGFhYmM2ODQ0N2Y4",
+  "snapshot_id": "MCw3MjBlNTgzZTc1ODJjNTA0ZTA1MjNmZjI2NTQ5YzEzODE4ZWI3NmZk",
   "tracks": [
     {
       "added_at": "2023-03-24 04:00:00",
@@ -473,20 +473,20 @@
       "url": "https://open.spotify.com/track/3zyzC28g7uU4YfWN840ciZ"
     },
     {
-      "added_at": "2023-10-13 04:00:00",
+      "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "Paint My Bedroom Black",
-        "url": "https://open.spotify.com/album/7xpV6gsna8TzskCRjmSxLE"
+        "name": "Desire, I Want To Turn Into You",
+        "url": "https://open.spotify.com/album/22PkV1Le9P3X4RY4xtmK0q"
       },
       "artists": [
         {
-          "name": "Holly Humberstone",
-          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
+          "name": "Caroline Polachek",
+          "url": "https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a"
         }
       ],
-      "duration_ms": 229713,
-      "name": "Paint My Bedroom Black",
-      "url": "https://open.spotify.com/track/3gA9Y5RsXBUKkr1IP6v4g3"
+      "duration_ms": 232625,
+      "name": "Welcome To My Island",
+      "url": "https://open.spotify.com/track/4bp2wYweUPvsBrQfntdYcr"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -505,36 +505,20 @@
       "url": "https://open.spotify.com/track/3NzCQuUAMhCSzLRuo6YWIY"
     },
     {
-      "added_at": "2023-03-24 04:00:00",
+      "added_at": "2023-10-13 04:00:00",
       "album": {
-        "name": "Desire, I Want To Turn Into You",
-        "url": "https://open.spotify.com/album/22PkV1Le9P3X4RY4xtmK0q"
+        "name": "Paint My Bedroom Black",
+        "url": "https://open.spotify.com/album/7xpV6gsna8TzskCRjmSxLE"
       },
       "artists": [
         {
-          "name": "Caroline Polachek",
-          "url": "https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a"
+          "name": "Holly Humberstone",
+          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
         }
       ],
-      "duration_ms": 232625,
-      "name": "Welcome To My Island",
-      "url": "https://open.spotify.com/track/4bp2wYweUPvsBrQfntdYcr"
-    },
-    {
-      "added_at": "2023-04-10 21:20:08",
-      "album": {
-        "name": "Ghost of Chicago",
-        "url": "https://open.spotify.com/album/72PNMowKsDq60TGmr8o8sU"
-      },
-      "artists": [
-        {
-          "name": "Noah Floersch",
-          "url": "https://open.spotify.com/artist/6fU24B4K9kWmFt5WTwwsLF"
-        }
-      ],
-      "duration_ms": 187100,
-      "name": "Ghost of Chicago",
-      "url": "https://open.spotify.com/track/4whpHwKr9rH2MTFzXk7mkW"
+      "duration_ms": 229713,
+      "name": "Paint My Bedroom Black",
+      "url": "https://open.spotify.com/track/3gA9Y5RsXBUKkr1IP6v4g3"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -551,6 +535,22 @@
       "duration_ms": 172354,
       "name": "sunny day",
       "url": "https://open.spotify.com/track/7dA3NRsBnVKtQZgjR5Lzf8"
+    },
+    {
+      "added_at": "2023-04-10 21:20:08",
+      "album": {
+        "name": "Ghost of Chicago",
+        "url": "https://open.spotify.com/album/72PNMowKsDq60TGmr8o8sU"
+      },
+      "artists": [
+        {
+          "name": "Noah Floersch",
+          "url": "https://open.spotify.com/artist/6fU24B4K9kWmFt5WTwwsLF"
+        }
+      ],
+      "duration_ms": 187100,
+      "name": "Ghost of Chicago",
+      "url": "https://open.spotify.com/track/4whpHwKr9rH2MTFzXk7mkW"
     },
     {
       "added_at": "2023-11-06 22:17:47",
@@ -773,6 +773,22 @@
       "url": "https://open.spotify.com/track/2Tuaa6mlnDZ7vJhtdQ8ZSw"
     },
     {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
+        "name": "Her Favorite Flowers",
+        "url": "https://open.spotify.com/album/3ZtwVDikRanGqN17IGpWgh"
+      },
+      "artists": [
+        {
+          "name": "Rocco",
+          "url": "https://open.spotify.com/artist/30gZlVVUt3gwNXlLorZjuq"
+        }
+      ],
+      "duration_ms": 193242,
+      "name": "hold me, never let go",
+      "url": "https://open.spotify.com/track/6JfcUgZqHbb20KTfHayS9j"
+    },
+    {
       "added_at": "2023-08-25 04:56:29",
       "album": {
         "name": "Slowly",
@@ -845,22 +861,6 @@
       "url": "https://open.spotify.com/track/1U675HGzKcVxVjdz522XYI"
     },
     {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
-        "name": "Her Favorite Flowers",
-        "url": "https://open.spotify.com/album/3ZtwVDikRanGqN17IGpWgh"
-      },
-      "artists": [
-        {
-          "name": "Rocco",
-          "url": "https://open.spotify.com/artist/30gZlVVUt3gwNXlLorZjuq"
-        }
-      ],
-      "duration_ms": 193242,
-      "name": "hold me, never let go",
-      "url": "https://open.spotify.com/track/6JfcUgZqHbb20KTfHayS9j"
-    },
-    {
       "added_at": "2023-07-07 18:51:45",
       "album": {
         "name": "a beautiful blur",
@@ -877,22 +877,6 @@
       "url": "https://open.spotify.com/track/02CUxAiWvvEq6pLItneLQ6"
     },
     {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
-        "name": "easy breezy",
-        "url": "https://open.spotify.com/album/3oiZnlQEBv4kVT0yoSr86S"
-      },
-      "artists": [
-        {
-          "name": "Yaeji",
-          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
-        }
-      ],
-      "duration_ms": 199880,
-      "name": "easy breezy",
-      "url": "https://open.spotify.com/track/1eXzN85vuVH3VpDJlsrH8j"
-    },
-    {
       "added_at": "2023-06-02 04:00:00",
       "album": {
         "name": "Bloom",
@@ -907,6 +891,22 @@
       "duration_ms": 213271,
       "name": "Bloom",
       "url": "https://open.spotify.com/track/7LODrLEO3DzBUyxxCuA6Eo"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "easy breezy",
+        "url": "https://open.spotify.com/album/3oiZnlQEBv4kVT0yoSr86S"
+      },
+      "artists": [
+        {
+          "name": "Yaeji",
+          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
+        }
+      ],
+      "duration_ms": 199880,
+      "name": "easy breezy",
+      "url": "https://open.spotify.com/track/1eXzN85vuVH3VpDJlsrH8j"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -1377,22 +1377,6 @@
       "url": "https://open.spotify.com/track/3B9rkj19z4Hno7NdkN6cNe"
     },
     {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
-        "name": "Boy Scout",
-        "url": "https://open.spotify.com/album/5IyUVUACxYS7DE1URy80jv"
-      },
-      "artists": [
-        {
-          "name": "JAWNY",
-          "url": "https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP"
-        }
-      ],
-      "duration_ms": 200261,
-      "name": "Boy Scout",
-      "url": "https://open.spotify.com/track/0rJltghxX2Ene77FGVYxdL"
-    },
-    {
       "added_at": "2023-03-31 04:00:00",
       "album": {
         "name": "Seasons",
@@ -1407,6 +1391,22 @@
       "duration_ms": 164196,
       "name": "Give A Little Kindness",
       "url": "https://open.spotify.com/track/7JrYr89YEIGwWqiEFUlSvj"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
+        "name": "Boy Scout",
+        "url": "https://open.spotify.com/album/5IyUVUACxYS7DE1URy80jv"
+      },
+      "artists": [
+        {
+          "name": "JAWNY",
+          "url": "https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP"
+        }
+      ],
+      "duration_ms": 200261,
+      "name": "Boy Scout",
+      "url": "https://open.spotify.com/track/0rJltghxX2Ene77FGVYxdL"
     },
     {
       "added_at": "2023-08-25 04:56:29",
@@ -1475,6 +1475,22 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
+        "name": "Pollen",
+        "url": "https://open.spotify.com/album/4Fk0oNk3vdmFjuTlpmKIQU"
+      },
+      "artists": [
+        {
+          "name": "Tennis",
+          "url": "https://open.spotify.com/artist/1ybAN3utgdoUL1MUCtH4QM"
+        }
+      ],
+      "duration_ms": 254133,
+      "name": "Let's Make a Mistake Tonight",
+      "url": "https://open.spotify.com/track/00wi8vEbJgzq62wfz1UMkX"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
         "name": "To Be Yours",
         "url": "https://open.spotify.com/album/2WWkAkh5eMxUELEyHKPFGf"
       },
@@ -1491,22 +1507,6 @@
       "duration_ms": 211782,
       "name": "To Be Yours",
       "url": "https://open.spotify.com/track/3lNBpsW30g2xSngVw2l1U7"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
-        "name": "Pollen",
-        "url": "https://open.spotify.com/album/4Fk0oNk3vdmFjuTlpmKIQU"
-      },
-      "artists": [
-        {
-          "name": "Tennis",
-          "url": "https://open.spotify.com/artist/1ybAN3utgdoUL1MUCtH4QM"
-        }
-      ],
-      "duration_ms": 254133,
-      "name": "Let's Make a Mistake Tonight",
-      "url": "https://open.spotify.com/track/00wi8vEbJgzq62wfz1UMkX"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -1621,22 +1621,6 @@
       "url": "https://open.spotify.com/track/7ul0qSFpZHXS8XncqBNIwS"
     },
     {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
-        "name": "I Met God",
-        "url": "https://open.spotify.com/album/3TUtl9BQPfP4kWqXveAyv6"
-      },
-      "artists": [
-        {
-          "name": "Valley Boy",
-          "url": "https://open.spotify.com/artist/46VzbEZDkCQKJX3o4g8gMD"
-        }
-      ],
-      "duration_ms": 262454,
-      "name": "I Met God",
-      "url": "https://open.spotify.com/track/6v9CIwn1623LQd9x6qXodk"
-    },
-    {
       "added_at": "2023-03-24 04:00:00",
       "album": {
         "name": "flounder",
@@ -1667,6 +1651,22 @@
       "duration_ms": 219582,
       "name": "Water Pistol",
       "url": "https://open.spotify.com/track/66FQlENQhffJNXm8Ae4KIg"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
+        "name": "I Met God",
+        "url": "https://open.spotify.com/album/3TUtl9BQPfP4kWqXveAyv6"
+      },
+      "artists": [
+        {
+          "name": "Valley Boy",
+          "url": "https://open.spotify.com/artist/46VzbEZDkCQKJX3o4g8gMD"
+        }
+      ],
+      "duration_ms": 262454,
+      "name": "I Met God",
+      "url": "https://open.spotify.com/track/6v9CIwn1623LQd9x6qXodk"
     }
   ],
   "unique_name": "Indie Pop",

@@ -4,7 +4,7 @@
 
 > This week's best new metal & hard rock tracks\. Cover: P.O.D\. & Tatiana Shmayluk of Jinjer
 
-5,211 songs - 14 day 17 hr 7 min
+5,212 songs - 14 day 17 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3704,7 +3704,8 @@
 | [Rusted Gold](https://open.spotify.com/track/0TMz9nWJmDrVTezNEEJwjJ) | [Gama Bomb](https://open.spotify.com/artist/7h0muodpQ1q5o3RajwownN) | [Rusted Gold](https://open.spotify.com/album/3RW8Y1C2JCX0EoMd0dDA8O) | 3:57 | 2023-10-13 | 2023-10-21 |
 | [Rōnin](https://open.spotify.com/track/11ArWSwCKdG9P0ZAzDlS2G) | [Ibaraki](https://open.spotify.com/artist/2KfAvhpbfc8YkLBj6w3hfU), [Gerard Way](https://open.spotify.com/artist/4YZ5ECfbM2xSTSQTJGBbO5) | [Rōnin](https://open.spotify.com/album/6QxmiqZTHh35bUPiYtgXgc) | 9:13 | 2022-03-24 | 2022-04-08 |
 | [S.D.I\. \- Mmxxiii Version](https://open.spotify.com/track/4gswVCvy8vsnFU86PRaEMA) | [Bonfire](https://open.spotify.com/artist/7gqKcfoY25do9k18uCCgIT) | [S.D.I\. \(MMXXIII Version\)](https://open.spotify.com/album/1i9jtRIft4NXjsSdMjLE6S) | 5:51 | 2023-03-31 | 2023-04-09 |
-| [S.E.X.](https://open.spotify.com/track/0YTyQ8tK1bFgbuVbUL0333) | [Cobra Spell](https://open.spotify.com/artist/4UrOQcsh8WvcWpugasHJCM) | [S.E.X.](https://open.spotify.com/album/6r8rSW4aCkHQxSyGb8wQyf) | 4:38 | 2023-12-01 |  |
+| [S.E.X.](https://open.spotify.com/track/0YTyQ8tK1bFgbuVbUL0333) | [Cobra Spell](https://open.spotify.com/artist/4UrOQcsh8WvcWpugasHJCM) | [S.E.X.](https://open.spotify.com/album/6r8rSW4aCkHQxSyGb8wQyf) | 4:38 | 2023-12-01 | 2023-12-04 |
+| [S.E.X.](https://open.spotify.com/track/4bSWZIgjCsCLzGCwlcv3Sm) | [Cobra Spell](https://open.spotify.com/artist/4UrOQcsh8WvcWpugasHJCM) | [666](https://open.spotify.com/album/1WNMeQCI0EvQiTkrBzq2be) | 4:38 | 2023-12-01 |  |
 | [S.H.T](https://open.spotify.com/track/2nzWTaexL4lGqHLSAyQvYU) | [IMMERSE](https://open.spotify.com/artist/3S3vmLBBxnscJGPLeqVKQN) | [S.H.T](https://open.spotify.com/album/2ZhEq7niZx07CQkh2x5qbL) | 3:07 | 2023-04-21 | 2023-04-29 |
 | [Sabotage](https://open.spotify.com/track/40tLJfk4S75x8R2OprJsiN) | [Coat Of Arms](https://open.spotify.com/artist/63U8atFXZ3sax4eeV212tq) | [Sabotage](https://open.spotify.com/album/3Jb0Y9Gloz9OhN6ZcK506A) | 2:52 | 2023-10-06 | 2023-10-14 |
 | [Sacred](https://open.spotify.com/track/0t4TOpK2sqt3Xzj3WlATlk) | [Omnium Gatherum](https://open.spotify.com/artist/52xuvlUvnxqH0xzxGPKXSu) | [Slasher \- EP](https://open.spotify.com/album/5WsMlyF5REQmjiP4ANaVFu) | 4:29 | 2023-06-02 | 2023-06-10 |

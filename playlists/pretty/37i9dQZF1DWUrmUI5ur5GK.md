@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUrmUI5ur5GK.md) - [plain]
 
 > Classic drinking singalongs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,816 likes - 55 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,834 likes - 55 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUrmUI5ur5GK.md) - [plain]
 | 54 | [The Pub with No Beer](https://open.spotify.com/track/5zZthzbOkBkz2gfwxoTpSP) | [Drinking Songs](https://open.spotify.com/artist/4qcIdXhkdYXAaybMaVjpvU) | [Original Irish Drinking Songs](https://open.spotify.com/album/5r8OT9nU29Yx4jHkecubAk) | 2:35 |
 | 55 | [Poor Paddy Works On The Railway](https://open.spotify.com/track/45EnPYFTEPNaBLxU9JDQwa) | [The Wild Rover](https://open.spotify.com/artist/64cO7ZH9TrRnOh7MUCfLBJ) | [Traditional Celtic Ballads](https://open.spotify.com/album/2VghxcDkb3hLDtTshYBaP8) | 2:54 |
 
-Snapshot ID: `MCwxYWM0MGM2Mzc1NTFiZTc4MDAzZjUxOGUzZWRmYmQ3NmUwMTA2OGY2`
+Snapshot ID: `MCxjMDNkOGY2Y2IxNzc5YzQxOTM2YmNhYzhjNzc4YzE1MDg5NzY4YjEx`

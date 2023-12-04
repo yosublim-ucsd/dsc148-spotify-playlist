@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYaxoJ3YwOh3.md) - [plain]
 
 > Enchanting vibes, to help you find a relaxing moment of wellness.
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,484 likes - 94 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,528 likes - 94 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYaxoJ3YwOh3.md) - [plain]
 | 71 | [Meditation](https://open.spotify.com/track/5Z4lXr3SC43QgYmhXeHNaA) | [Sufi Lounge](https://open.spotify.com/artist/4NmV2aAqjIDi2nVhKjsk39) | [Meditation](https://open.spotify.com/album/3LmunxZ9ihwNanicxMpqYl) | 2:11 |
 | 72 | [Arabic Relaxation & Spa](https://open.spotify.com/track/1E1G65tdElBWDMHozuMd6s) | [Healing Oriental Spa Collection](https://open.spotify.com/artist/0LohrwJvGCI9TAxhXIDf2v) | [Arabic Relaxation & Spa \(Best Arabian Instrumental Sounds, Relax, Ethnic Nights with Saz, Duduk & Flute\)](https://open.spotify.com/album/5RpuWZrVphDGU0ycATwchl) | 3:33 |
 | 73 | [हीलिंग संगीत](https://open.spotify.com/track/42OSQ6hAF9tviEK9IfU0uJ) | [Raku\-Nu](https://open.spotify.com/artist/19muc2M3JSNOXolYB1Z2Eh) | [हीलिंग संगीत](https://open.spotify.com/album/3B32SEiXthq0sp3WLuxrKj) | 2:46 |
-| 74 | [Tabla Breath](https://open.spotify.com/track/1xCGBNquEBWEYeliECZqki) | [Benjy Wertheimer](https://open.spotify.com/artist/2Y4VeDUhZAE8UfGXqZJ7dX), [John De Kadt](https://open.spotify.com/artist/3rd5aojNBopxBjaZdoLOrb) | [One River](https://open.spotify.com/album/1HbGyonYWkmb31ShzOSW6g) | 5:26 |
+| 74 | [Tabla Breath](https://open.spotify.com/track/6P6eZPLalsneaRcCT6fMgp) | [Benjy Wertheimer](https://open.spotify.com/artist/2Y4VeDUhZAE8UfGXqZJ7dX), [John De Kadt](https://open.spotify.com/artist/3rd5aojNBopxBjaZdoLOrb) | [One River](https://open.spotify.com/album/2sLe3CidNMoGusZDUouKcA) | 5:26 |
 | 75 | [The Fallen Tapang](https://open.spotify.com/track/6C4TKUSrJgs7uVXOjPeBis) | [Anak Borneo 婆羅洲之子](https://open.spotify.com/artist/0CVpClWXwT0efLt0ibRVSB) | [The Fallen Tapang](https://open.spotify.com/album/5GgwKQEkwCDBWKT1zP2W5q) | 4:03 |
 | 76 | [Tranquility Sands \(Limitless\)](https://open.spotify.com/track/74K0t5QbnOBQjUtTc900u1) | [Abe Hathot](https://open.spotify.com/artist/40tqIiKClGVYgzgxL4YoQw) | [Tranquility Sands](https://open.spotify.com/album/3usYkjYhdS5wngDom5JVeh) | 4:12 |
 | 77 | [Emotional Balance](https://open.spotify.com/track/1v1dDDk8KjIfGPmOUhe4iG) | [Oasis of Relaxation and Meditation](https://open.spotify.com/artist/1f9ymt2Hm1RUD18aA7B1bT) | [Middle Eastern Meditation \(Relaxing Arabic Music, Spirituality, Sacred Relaxation, Prophetic Healing\)](https://open.spotify.com/album/4m754WhMXAVWoF7SkWhWc8) | 3:38 |
@@ -103,4 +103,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYaxoJ3YwOh3.md) - [plain]
 | 93 | [Anatolia](https://open.spotify.com/track/6hEN2MHD98OWVTiX3vmX9u) | [Sufi Music Ensemble](https://open.spotify.com/artist/1ix9du49JgezeHOdRlAq8B) | [Himma](https://open.spotify.com/album/69pxnvITOgpIJ4aPwDecbQ) | 8:07 |
 | 94 | [Raqsat albedoi](https://open.spotify.com/track/0LqbB6gdqYV3YZQjv52VC7) | [Ahmed Mukhtar](https://open.spotify.com/artist/1hx8suKwq86AfSk8LcgFTa), [Sattar Al\-Saadi](https://open.spotify.com/artist/7jVCcEEugAHRdcJDtoALXH) | [Music form Iraq: Rhythms of Baghdad](https://open.spotify.com/album/5VgBB99flx04RpN43MH2vx) | 5:27 |
 
-Snapshot ID: `MCxjMDNhZDY1ZDNlM2ZiMDI1NGUwNzk4NjNhOWQzYWExZWNkN2ZkOGIz`
+Snapshot ID: `MCwzMmVhZjUwZTg3MjBiNDEyMGEyMGI0ODYxZWUzN2VlMWQ0ZWNhMTU1`

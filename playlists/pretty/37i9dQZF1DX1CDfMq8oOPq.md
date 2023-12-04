@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1CDfMq8oOPq.md) - [plain]
 
 > só faixa rosa, tem disposição? 🎀 Foto: Karol Conka, Tasha & Tracie
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,762 likes - 50 songs - 2 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,830 likes - 50 songs - 2 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,12 +44,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1CDfMq8oOPq.md) - [plain]
 | 34 | [Seu Particular](https://open.spotify.com/track/7FbeeyMWZsJw36SaRbFNMk) | [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Mello Santana](https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY) | [Maldita](https://open.spotify.com/album/5YAVUmI41dnIgFCHPCtVFu) | 3:19 |
 | 35 | [N.I.N.A](https://open.spotify.com/track/0ZVW6vKav9Jp9AunMFmulJ) | [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET), [Terra](https://open.spotify.com/artist/0wTyCMz1sLbxVNN0OP18oW), [Kash](https://open.spotify.com/artist/4QQfMoY4iQmKwz7Ni1QVpt) | [PELE](https://open.spotify.com/album/57LANvZ85BtVlj31EAY7EK) | 3:44 |
 | 36 | [Zero Buxixo](https://open.spotify.com/track/3cYgq3iE7oxCQV8KwiZZG9) | [Afreekassia](https://open.spotify.com/artist/1wYviDrVOvFPtg3CFn3DHp), [G.a.B.o](https://open.spotify.com/artist/1tbm8dDyvUKWMZPikJM7UR) | [SOU + EU](https://open.spotify.com/album/0cReQ0rS6UZ5JLz7Ufp3EV) | 2:34 |
-| 37 | [Chica Mala](https://open.spotify.com/track/3vOCetJgzOxCDeGcrQ6YTI) | [O Complô](https://open.spotify.com/artist/3FyAD47F118oSKTeFy4v0Y), [Suppa Fla](https://open.spotify.com/artist/4P4XoMWWVzc9YJhrFBe0Xa), [Grand Master Duda](https://open.spotify.com/artist/5uqY9GPy0XodzrS3JDfiE0) | [Chica Mala](https://open.spotify.com/album/0QjPI0ICniI92V1VuXl40U) | 2:51 |
+| 37 | [Primeiro de Maio \(Gostosas Inteligentes\)](https://open.spotify.com/track/2DaHDTiB8DhBDIM7csF7Ny) | [Duquesa](https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx), [THS](https://open.spotify.com/artist/3mI838insJsm1g7P3EsQW4) | [Primeiro de Maio \(Gostosas Inteligentes\)](https://open.spotify.com/album/3sPEyvePf2VVTs3QF0OZSt) | 2:10 |
 | 38 | [Ashley Banks](https://open.spotify.com/track/5zu8LEldkTfctEEFVQID8x) | [Cristal](https://open.spotify.com/artist/6i4nbGTS2gSP0e6emkTqdX) | [Ashley Banks](https://open.spotify.com/album/6CDE1Mgxb05mEbjI9LdyQY) | 3:28 |
-| 39 | [MADDY](https://open.spotify.com/track/0sTU2re42O2KQGpyqK7ngN) | [A$HP](https://open.spotify.com/artist/5oxgCTOTWnVbCyOXmDEZD9) | [MADDY](https://open.spotify.com/album/2JQSEpZshZaAqlFyySYtu6) | 2:26 |
-| 40 | [Muito Calma](https://open.spotify.com/track/5MLnrPYZDlH1MRRaD4rRXU) | [Torya](https://open.spotify.com/artist/1WWepZwmNRqvNIOpLyX8dh), [Gibin](https://open.spotify.com/artist/7lC3tO6g2CQhlN0yeDVLDM) | [A Preta](https://open.spotify.com/album/0c6NCCSnLJjgQTZlkzUmQS) | 2:25 |
-| 41 | [Preta Patrícia](https://open.spotify.com/track/3IkBv7RRbbZchtrO4hziB6) | [MC Taya](https://open.spotify.com/artist/7vUQ69pnimnTG3WAWnVP9i) | [Preta Patrícia](https://open.spotify.com/album/6aTXMJZMd1AAeTkLHCrTOX) | 4:14 |
-| 42 | [Primeiro de Maio \(Gostosas Inteligentes\)](https://open.spotify.com/track/2DaHDTiB8DhBDIM7csF7Ny) | [Duquesa](https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx), [THS](https://open.spotify.com/artist/3mI838insJsm1g7P3EsQW4) | [Primeiro de Maio \(Gostosas Inteligentes\)](https://open.spotify.com/album/3sPEyvePf2VVTs3QF0OZSt) | 2:10 |
+| 39 | [Chica Mala](https://open.spotify.com/track/3vOCetJgzOxCDeGcrQ6YTI) | [O Complô](https://open.spotify.com/artist/3FyAD47F118oSKTeFy4v0Y), [Suppa Fla](https://open.spotify.com/artist/4P4XoMWWVzc9YJhrFBe0Xa), [Grand Master Duda](https://open.spotify.com/artist/5uqY9GPy0XodzrS3JDfiE0) | [Chica Mala](https://open.spotify.com/album/0QjPI0ICniI92V1VuXl40U) | 2:51 |
+| 40 | [MADDY](https://open.spotify.com/track/0sTU2re42O2KQGpyqK7ngN) | [A$HP](https://open.spotify.com/artist/5oxgCTOTWnVbCyOXmDEZD9) | [MADDY](https://open.spotify.com/album/2JQSEpZshZaAqlFyySYtu6) | 2:26 |
+| 41 | [Muito Calma](https://open.spotify.com/track/5MLnrPYZDlH1MRRaD4rRXU) | [Torya](https://open.spotify.com/artist/1WWepZwmNRqvNIOpLyX8dh), [Gibin](https://open.spotify.com/artist/7lC3tO6g2CQhlN0yeDVLDM) | [A Preta](https://open.spotify.com/album/0c6NCCSnLJjgQTZlkzUmQS) | 2:25 |
+| 42 | [Preta Patrícia](https://open.spotify.com/track/3IkBv7RRbbZchtrO4hziB6) | [MC Taya](https://open.spotify.com/artist/7vUQ69pnimnTG3WAWnVP9i) | [Preta Patrícia](https://open.spotify.com/album/6aTXMJZMd1AAeTkLHCrTOX) | 4:14 |
 | 43 | [Pretchuka](https://open.spotify.com/track/2L8yK9YF7NtVJ4DiCn92wf) | [Paige](https://open.spotify.com/artist/1XqfMFbATKSRu5nDy2AZO9), [Vitor Akin](https://open.spotify.com/artist/6CsiuADjEWXV6FvM7Hhoik) | [Pretchuka](https://open.spotify.com/album/4zW14n2MInFmIjgZtHRQNd) | 2:33 |
 | 44 | [No Te Gusta](https://open.spotify.com/track/2cxFkzZjvADzi8aWCfb0oo) | [Monna Brutal](https://open.spotify.com/artist/5lC34RckSyg9Y7UlkWfN8n) | [Limonnada](https://open.spotify.com/album/2jhYJ1sGIKotj2VFIciO6f) | 4:07 |
 | 45 | [Escandalosa](https://open.spotify.com/track/2Dw34c2hzajVaoq4UYgr60) | [Mc Morena](https://open.spotify.com/artist/28QnIZpWxKcxuSk4iRLUgX), [Laura Sette](https://open.spotify.com/artist/0MAXbFqd77wekpgo1nNUYc), [Pepito](https://open.spotify.com/artist/1NkYIE4k7do1uPr2zbojgE) | [Inimitável](https://open.spotify.com/album/4OuuNSNhugOcXfO6QAj6GL) | 2:20 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1CDfMq8oOPq.md) - [plain]
 | 49 | [Hentai](https://open.spotify.com/track/7zavTjMO64hQNg6KZkvGR8) | [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb), [Leo Justi](https://open.spotify.com/artist/1puzPcrOHKTMQ6KTuYfqU0), [Heavy Baile](https://open.spotify.com/artist/2E4sNJOOy9hae0J8DkT43M) | [Hentai](https://open.spotify.com/album/1gSYN4x7QCuRTynao5vr02) | 2:22 |
 | 50 | [First](https://open.spotify.com/track/0oomKGn85TDeVwhSIiTLQA) | [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6) | [First](https://open.spotify.com/album/3cdm9REaJt8UGdSC3N2gSN) | 2:12 |
 
-Snapshot ID: `MCw2YTFlZTgzMDQ3NjgwZGM1MTJlZjE1YzlmZDZmNmE3YmQ2Y2QzMjhk`
+Snapshot ID: `MCxjMzI3NGIwNmZkN2VmOGVlNGVhNTYzMDQzN2EzNmFjNzI5Y2VmMzlh`

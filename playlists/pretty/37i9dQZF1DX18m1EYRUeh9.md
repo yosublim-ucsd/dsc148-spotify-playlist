@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18m1EYRUeh9.md) - [plain]
 
 > Smooth indie jazz joints from around the globe\. Cover: André 3000
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,544 likes - 85 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,778 likes - 85 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18m1EYRUeh9.md) - [plain]
 | 84 | [Fight for Love](https://open.spotify.com/track/1LPQheJpIsG8rlUkCmZx2D) | [SAULT](https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR) | [11](https://open.spotify.com/album/0e5GuQaryu1bLZL9Gk3hS8) | 4:57 |
 | 85 | [Modern Miracle](https://open.spotify.com/track/6FtqBfzpYGTFt7yQPIaOFg) | [Paul Cherry](https://open.spotify.com/artist/1xbu7UyVdZxwIiNfLcUKqn) | [Pure Grooves Vol\. 1](https://open.spotify.com/album/796eeTpFCvH90a7DweaaNq) | 3:08 |
 
-Snapshot ID: `MCw2ZDVjYWI4ZGY4YjAyMWUxZTU1MzE1MWQxYzQwMDBiNDE5NmJjYmQ2`
+Snapshot ID: `MCw1YzEyMGMwMTI0Y2E4ODU1ZjkyZTIyYzJmZmEyMTU5MDQwNGE4ODQw`

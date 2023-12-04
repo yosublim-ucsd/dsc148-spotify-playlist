@@ -2,9 +2,9 @@
 
 ### [Made In Uganda](https://open.spotify.com/playlist/37i9dQZF1DWXQaHIT8HMOV)
 
-> Homegrown Ugandan hits in one playlist\. Cover: Joshua Baraka
+> Homegrown Ugandan hits in one playlist\. Cover: Kalibwani
 
-186 songs - 9 hr 37 min
+187 songs - 9 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,7 @@
 | [Captain](https://open.spotify.com/track/4t0AscNyN1Bb2o1IRrN1YF) | [Kivumbi King](https://open.spotify.com/artist/3HUSbkQozU4gXUD82jAbRv), [A Pass](https://open.spotify.com/artist/70FdrG5oIuFyE1eA8HC8XX) | [Captain](https://open.spotify.com/album/7q5fBbqtu0Ypcb3mCvlKjE) | 2:12 | 2023-08-11 |  |
 | [Chai Mata](https://open.spotify.com/track/0yB5G5Yd2wJvIZDpNXMWBl) | [John Blaq](https://open.spotify.com/artist/4IbZQdYTpGIrF4EvUJcAEl) | [Chai Mata](https://open.spotify.com/album/5ZvpAM99cjGQ4JboHey2Jw) | 2:55 | 2022-08-05 |  |
 | [Chai We Njaye](https://open.spotify.com/track/2eugayDg4riGTlUp2yx6Sa) | [Omutume Planet](https://open.spotify.com/artist/23MyhX1vqiF6XkWBA0opmp) | [Chai We Njaye](https://open.spotify.com/album/4qLSlCEFhQhZnAVXRDPMgS) | 2:44 | 2023-03-20 | 2023-04-15 |
-| [Chai We Njaye](https://open.spotify.com/track/7kXVi2P9NlNOFlK4FNXD4m) | [Omutume Planet](https://open.spotify.com/artist/23MyhX1vqiF6XkWBA0opmp) | [Chai We Njaye](https://open.spotify.com/album/6lIx77CZt7TXrp0LpT9eJc) | 2:45 | 2023-04-27 | 2023-12-02 |
+| [Chai We Njaye](https://open.spotify.com/track/7kXVi2P9NlNOFlK4FNXD4m) | [Omutume Planet](https://open.spotify.com/artist/23MyhX1vqiF6XkWBA0opmp) | [Chai We Njaye](https://open.spotify.com/album/6lIx77CZt7TXrp0LpT9eJc) | 2:45 | 2023-04-27 |  |
 | [Champion](https://open.spotify.com/track/2Ro8OuIwKZzAB3K1qxzfnC) | [Mun G](https://open.spotify.com/artist/4YRE1c6l4kkNRfT1sXCjEU) | [Mun G Singles](https://open.spotify.com/album/6xpiZsqFrXT8O5bFIRCXSJ) | 4:30 | 2022-11-10 | 2023-03-16 |
 | [Change the World](https://open.spotify.com/track/25AXVpk13te2q8PEG1lR4u) | [K!MERA](https://open.spotify.com/artist/1C3pCs0DmKTCvmqAJYerKN) | [Change the World](https://open.spotify.com/album/0hZFzKNPZQ5ytBeIgynnhm) | 3:50 | 2022-05-19 | 2022-10-07 |
 | [CHERRY SWEET](https://open.spotify.com/track/1B3h5EIwLDMtubHLu3edCM) | [MAUIMØON](https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b), [La Soülchyld](https://open.spotify.com/artist/22kR1CajfNQ3ZmPcjKATyV) | [CHERRY SWEET](https://open.spotify.com/album/1iu9wqIVEQ2cm20mO6DmvG) | 2:10 | 2022-07-29 |  |
@@ -67,6 +67,7 @@
 | [Fertilizer](https://open.spotify.com/track/10JDfsIelDol1IxN2PCEnG) | [Daddy Andre](https://open.spotify.com/artist/4lKjCuPd5ch3mlJOs6Yowo), [Nina Roz](https://open.spotify.com/artist/5kLs8AtvdqLkXMRJtbhdXh) | [Fertilizer](https://open.spotify.com/album/6Pz7K5KdsXCbk5CybkwIlp) | 2:55 | 2023-06-30 |  |
 | [Follow](https://open.spotify.com/track/399mVb63j9nI8lb1A4TQRB) | [Eddy Kenzo](https://open.spotify.com/artist/3eTpitQsrNQdmkQJHS2v2j) | [Follow](https://open.spotify.com/album/3kbvJRFu6ajBhVeDFLcqTd) | 3:30 | 2022-07-29 | 2023-04-07 |
 | [Freedom](https://open.spotify.com/track/6v0S8ZVm5axCSsuoqcuB3J) | [Jesse10s](https://open.spotify.com/artist/6oOIGUtyWVdPoJmgOE1bGH) | [Freedom](https://open.spotify.com/album/3MJB9ehVEovi0DhK19B4tS) | 2:54 | 2022-11-25 | 2023-11-28 |
+| [Frequency](https://open.spotify.com/track/5BUZgm3cD3xv7E3t20SB7W) | [Tungi 256](https://open.spotify.com/artist/43EG4QtCw8bydahlorUJaR) | [Frequency](https://open.spotify.com/album/4Re1QCXEiOQJ1XO2QiVHUd) | 3:14 | 2023-11-30 |  |
 | [Gemazima](https://open.spotify.com/track/6ctNl82yEypzLqeeMzrTkL) | [Daddy Andre](https://open.spotify.com/artist/4lKjCuPd5ch3mlJOs6Yowo), [Teslah](https://open.spotify.com/artist/29d1gtSpXDMaZLyvHIZw4u) | [Gemazima](https://open.spotify.com/album/02QbNNia59RV4jwu00khDg) | 3:01 | 2023-01-12 | 2023-02-11 |
 | [Geza Bugeza](https://open.spotify.com/track/0KCeBr5ylT1GJzt9bu4SkW) | [Nina Roz](https://open.spotify.com/artist/5kLs8AtvdqLkXMRJtbhdXh) | [Geza Bugeza](https://open.spotify.com/album/6rpL5Yl2Gu8H0xqPSu445P) | 2:20 | 2023-01-12 | 2023-06-12 |
 | [Geza Bugeza](https://open.spotify.com/track/5fZzENyrqSsaxlUdMEjYpH) | [Nina Roz](https://open.spotify.com/artist/5kLs8AtvdqLkXMRJtbhdXh) | [Chronicles Of A Woman](https://open.spotify.com/album/3aZbRfKKvhnPtuYgaEdxSD) | 2:20 | 2023-01-12 | 2023-01-21 |
@@ -169,8 +170,8 @@
 | [SUPAHAWT](https://open.spotify.com/track/4ir8C4oqZRrLHlC6VQ3mTF) | [MAUIMØON](https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b), [La Soülchyld](https://open.spotify.com/artist/22kR1CajfNQ3ZmPcjKATyV) | [From Uganda With Love](https://open.spotify.com/album/11kGKF5IyOqwrg9Dpp7NzL) | 1:50 | 2023-02-16 |  |
 | [Sweat](https://open.spotify.com/track/7FIHui4Mu8rczCTtlQfc8G) | [Chxf Barry](https://open.spotify.com/artist/4vMmIzBBucgN0Hend2wz0S), [MAUIMØON](https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b), [Nick Souza](https://open.spotify.com/artist/1O8j2yoItrx52KzYSdAlrt) | [Sweat](https://open.spotify.com/album/1oopAtqogP3gYfkyw9H5L5) | 3:10 | 2023-08-11 |  |
 | [Take You](https://open.spotify.com/track/7xc148xFfMndltrNdx7mlv) | [A Pass](https://open.spotify.com/artist/70FdrG5oIuFyE1eA8HC8XX) | [Same Story Riddim](https://open.spotify.com/album/3Itlyhw4rqZmtXDtbJA9CK) | 3:00 | 2023-02-11 | 2023-02-17 |
-| [Talk To Me](https://open.spotify.com/track/0PvibNWu1jtYdsjSzijZKq) | [Teslah](https://open.spotify.com/artist/29d1gtSpXDMaZLyvHIZw4u), [Junior Gentle](https://open.spotify.com/artist/06fZAn6YJGxLd0m47pyc4O) | [Talk To Me](https://open.spotify.com/album/7GaJ0U2ye3tAnSUGBCDuBT) | 2:49 | 2023-11-24 |  |
-| [Tattoo](https://open.spotify.com/track/6Ncvi8lNXro9qVQWNlcWtI) | [Victor Ruz](https://open.spotify.com/artist/45nNcIJai3fFcxj6cl3oDZ), [Caspian Marvin](https://open.spotify.com/artist/0pNu0RMscQ1va8rWZVhpwU) | [Tattoo](https://open.spotify.com/album/05oZe7vp4Q4U1hsvpGLLmB) | 3:34 | 2023-07-28 |  |
+| [Talk To Me](https://open.spotify.com/track/0PvibNWu1jtYdsjSzijZKq) | [Teslah](https://open.spotify.com/artist/29d1gtSpXDMaZLyvHIZw4u), [Junior Gentle](https://open.spotify.com/artist/06fZAn6YJGxLd0m47pyc4O) | [Talk To Me](https://open.spotify.com/album/7GaJ0U2ye3tAnSUGBCDuBT) | 2:49 | 2023-11-24 | 2023-12-04 |
+| [Tattoo](https://open.spotify.com/track/6Ncvi8lNXro9qVQWNlcWtI) | [Victor Ruz](https://open.spotify.com/artist/45nNcIJai3fFcxj6cl3oDZ), [Caspian Marvin](https://open.spotify.com/artist/0pNu0RMscQ1va8rWZVhpwU) | [Tattoo](https://open.spotify.com/album/05oZe7vp4Q4U1hsvpGLLmB) | 3:34 | 2023-07-28 | 2023-12-04 |
 | [Teach Me](https://open.spotify.com/track/3g08psCbQyJhxel56KYsAF) | [K!MERA](https://open.spotify.com/artist/1C3pCs0DmKTCvmqAJYerKN) | [Teach Me](https://open.spotify.com/album/4mHUQjlllJE7u2KELbIT5x) | 4:19 | 2022-09-01 | 2023-03-20 |
 | [Tebali Ready](https://open.spotify.com/track/11GS4DjFxj9GHPnlOhKe5K) | [A Pass](https://open.spotify.com/artist/70FdrG5oIuFyE1eA8HC8XX) | [Tebali Ready](https://open.spotify.com/album/4yafC0oNDkExVSN21Nie1P) | 2:39 | 2022-05-27 | 2023-01-13 |
 | [Ten Over 10](https://open.spotify.com/track/3WUrKiGFCB64hHJFGPa7bt) | [Azawi](https://open.spotify.com/artist/0ZhMKJPaUXzfU0FgAzIOgR) | [Ten Over 10 \(Producer Edition\)](https://open.spotify.com/album/5qe99ztflopyhcStRxZHkE) | 3:22 | 2023-04-21 | 2023-07-01 |

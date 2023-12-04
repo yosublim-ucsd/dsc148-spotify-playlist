@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1sSSKY6eN8p.md) - [plain]
 
 > Music From "Monster Hunter Now"! 音楽で辿る「Monster Hunter Now」の世界! © 2023 Niantic\. Characters / Artwork/ Music © CAPCOM CO., LTD.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,870 likes - 41 songs - 1 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,896 likes - 41 songs - 1 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,4 +50,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1sSSKY6eN8p.md) - [plain]
 | 40 | [Murmurs from the Land Forbidden](https://open.spotify.com/track/2uE9xSQBNqfs9MUiRuCGwl) | [Akihiko Narita](https://open.spotify.com/artist/6iA27PNXCsDXNyhLGYk6Bl) | [MONSTER HUNTER: WORLD ORIGINAL SOUNDTRACK](https://open.spotify.com/album/3QkEVIvIqgVfyHY0Lf8QRG) | 4:43 |
 | 41 | [Murmurs from the Land Forbidden : The Chase](https://open.spotify.com/track/1xf7vm598YNqHwjTaN0Xkr) | [Akihiko Narita](https://open.spotify.com/artist/6iA27PNXCsDXNyhLGYk6Bl) | [MONSTER HUNTER: WORLD ORIGINAL SOUNDTRACK](https://open.spotify.com/album/3QkEVIvIqgVfyHY0Lf8QRG) | 2:28 |
 
-Snapshot ID: `MCxkOTFjNjlkZWNmNWZlZTViYmRiYTVlN2JmNDA3NzhmNTIwNTU1ZGFl`
+Snapshot ID: `MCxkNDU3YTFjOGUzYmFiZjQ0YTc1YjcxYmQ5ZjY3YjEzNDFmOWU3ODYz`

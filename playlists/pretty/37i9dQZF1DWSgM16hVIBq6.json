@@ -1,12 +1,12 @@
 {
   "description": "Se prendi\u00f3 la fiesta, featuring Marc Anthony.",
-  "num_followers": 80983,
+  "num_followers": 81034,
   "original_name": "SABOR",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NGI3ZmIzYWIyYzY4OTk2NWRiNjIwOTkzZTRkZmNmZjUwYzkyZjQ3",
+  "snapshot_id": "MCwzODc1NGEwOWRhYTZmODdkYjY2YzExOWE1NmRhYWZiYzM3NmVhNzRl",
   "tracks": [
     {
       "added_at": "2023-11-30 00:49:56",
@@ -339,26 +339,6 @@
     {
       "added_at": "2023-11-30 00:49:56",
       "album": {
-        "name": "FIVE (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7fIqsFfeYEEP9RO25KHj8P"
-      },
-      "artists": [
-        {
-          "name": "Prince Royce",
-          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
-        },
-        {
-          "name": "Shakira",
-          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
-        }
-      ],
-      "duration_ms": 196480,
-      "name": "Deja vu",
-      "url": "https://open.spotify.com/track/46HdsiK0uR26B2dY9QPzda"
-    },
-    {
-      "added_at": "2023-11-30 00:49:56",
-      "album": {
         "name": "Visual\u00edzate",
         "url": "https://open.spotify.com/album/2HXRjHb2nbLJa5r70FBtdT"
       },
@@ -375,6 +355,26 @@
       "duration_ms": 203160,
       "name": "La Gozadera (feat. Marc Anthony)",
       "url": "https://open.spotify.com/track/0OMRAvrtLWE2TvcXorRiB9"
+    },
+    {
+      "added_at": "2023-11-30 00:49:56",
+      "album": {
+        "name": "FIVE (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7fIqsFfeYEEP9RO25KHj8P"
+      },
+      "artists": [
+        {
+          "name": "Prince Royce",
+          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
+        },
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        }
+      ],
+      "duration_ms": 196480,
+      "name": "Deja vu",
+      "url": "https://open.spotify.com/track/46HdsiK0uR26B2dY9QPzda"
     },
     {
       "added_at": "2023-11-30 00:49:56",
@@ -543,6 +543,22 @@
     {
       "added_at": "2023-11-30 00:49:56",
       "album": {
+        "name": "Oro Salsero",
+        "url": "https://open.spotify.com/album/0FQmLebvYxK7seqvm32JKA"
+      },
+      "artists": [
+        {
+          "name": "Jerry Rivera",
+          "url": "https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO"
+        }
+      ],
+      "duration_ms": 301573,
+      "name": "Amores Como el Nuestro",
+      "url": "https://open.spotify.com/track/1RpCXjlxFGS6LfPOvqSJ7M"
+    },
+    {
+      "added_at": "2023-11-30 00:49:56",
+      "album": {
         "name": "Una Vaina Loca",
         "url": "https://open.spotify.com/album/1I92y0NxYT4cUYSQePekyM"
       },
@@ -563,22 +579,6 @@
       "duration_ms": 226187,
       "name": "Una Vaina Loca",
       "url": "https://open.spotify.com/track/2qEoAz0i6yEz5dPggABcLH"
-    },
-    {
-      "added_at": "2023-11-30 00:49:56",
-      "album": {
-        "name": "Oro Salsero",
-        "url": "https://open.spotify.com/album/0FQmLebvYxK7seqvm32JKA"
-      },
-      "artists": [
-        {
-          "name": "Jerry Rivera",
-          "url": "https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO"
-        }
-      ],
-      "duration_ms": 301573,
-      "name": "Amores Como el Nuestro",
-      "url": "https://open.spotify.com/track/1RpCXjlxFGS6LfPOvqSJ7M"
     },
     {
       "added_at": "2023-11-30 00:49:56",
@@ -1387,22 +1387,18 @@
     {
       "added_at": "2023-11-30 00:49:56",
       "album": {
-        "name": "Adicto (feat. Marc Anthony)",
-        "url": "https://open.spotify.com/album/3WkWeNvKY4CMeLwKIeOugQ"
+        "name": "Para El Bailador",
+        "url": "https://open.spotify.com/album/2Nn1Spyz1iM55bGEsTD2pA"
       },
       "artists": [
         {
-          "name": "Prince Royce",
-          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
-        },
-        {
-          "name": "Marc Anthony",
-          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+          "name": "La Makina",
+          "url": "https://open.spotify.com/artist/4SlusIRNswGYkTjhflokfX"
         }
       ],
-      "duration_ms": 209191,
-      "name": "Adicto (feat. Marc Anthony)",
-      "url": "https://open.spotify.com/track/4Xqpt53kWML7eTObGxQ43i"
+      "duration_ms": 228893,
+      "name": "No Me Digas Que No",
+      "url": "https://open.spotify.com/track/5hD4JNBJ2vcM42x8hPxnvo"
     },
     {
       "added_at": "2023-11-30 00:49:56",
@@ -1427,6 +1423,26 @@
     {
       "added_at": "2023-11-30 00:49:56",
       "album": {
+        "name": "Adicto (feat. Marc Anthony)",
+        "url": "https://open.spotify.com/album/3WkWeNvKY4CMeLwKIeOugQ"
+      },
+      "artists": [
+        {
+          "name": "Prince Royce",
+          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
+        },
+        {
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+        }
+      ],
+      "duration_ms": 209191,
+      "name": "Adicto (feat. Marc Anthony)",
+      "url": "https://open.spotify.com/track/4Xqpt53kWML7eTObGxQ43i"
+    },
+    {
+      "added_at": "2023-11-30 00:49:56",
+      "album": {
         "name": "MAFIOSA",
         "url": "https://open.spotify.com/album/2UViwTgvnwO2aKYLFrQ9RH"
       },
@@ -1439,22 +1455,6 @@
       "duration_ms": 266217,
       "name": "MAFIOSA",
       "url": "https://open.spotify.com/track/1X1vW0xDpkOS35ZxcPqLv6"
-    },
-    {
-      "added_at": "2023-11-30 00:49:56",
-      "album": {
-        "name": "Para El Bailador",
-        "url": "https://open.spotify.com/album/2Nn1Spyz1iM55bGEsTD2pA"
-      },
-      "artists": [
-        {
-          "name": "La Makina",
-          "url": "https://open.spotify.com/artist/4SlusIRNswGYkTjhflokfX"
-        }
-      ],
-      "duration_ms": 228893,
-      "name": "No Me Digas Que No",
-      "url": "https://open.spotify.com/track/5hD4JNBJ2vcM42x8hPxnvo"
     },
     {
       "added_at": "2023-11-30 00:49:56",
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2023-11-30 00:49:56",
       "album": {
-        "name": "Coleccion de Oro",
-        "url": "https://open.spotify.com/album/6eK3n2MpVdKqhIOnH9BCe5"
-      },
-      "artists": [
-        {
-          "name": "Luis Enrique",
-          "url": "https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI"
-        }
-      ],
-      "duration_ms": 266893,
-      "name": "T\u00fa No Le Amas Le Temes",
-      "url": "https://open.spotify.com/track/1PD4tVf0GAIe3KX03ijHsN"
-    },
-    {
-      "added_at": "2023-11-30 00:49:56",
-      "album": {
         "name": "The Reventon: 30 Pegaditas",
         "url": "https://open.spotify.com/album/1BVdrfS67jHUUNBF4epJeD"
       },
@@ -1563,6 +1547,22 @@
       "duration_ms": 263253,
       "name": "El Baile del Perrito",
       "url": "https://open.spotify.com/track/2XESoQVXG9ssxyjxXSrmxo"
+    },
+    {
+      "added_at": "2023-11-30 00:49:56",
+      "album": {
+        "name": "Coleccion de Oro",
+        "url": "https://open.spotify.com/album/6eK3n2MpVdKqhIOnH9BCe5"
+      },
+      "artists": [
+        {
+          "name": "Luis Enrique",
+          "url": "https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI"
+        }
+      ],
+      "duration_ms": 266893,
+      "name": "T\u00fa No Le Amas Le Temes",
+      "url": "https://open.spotify.com/track/1PD4tVf0GAIe3KX03ijHsN"
     },
     {
       "added_at": "2023-11-30 00:49:56",
@@ -1615,6 +1615,22 @@
     {
       "added_at": "2023-11-30 00:49:56",
       "album": {
+        "name": "Internacional",
+        "url": "https://open.spotify.com/album/5jr3mCoNe2N4vTRrUlwxT3"
+      },
+      "artists": [
+        {
+          "name": "Oro Solido",
+          "url": "https://open.spotify.com/artist/7wLYNBd1fXGEKSLJMNnlt4"
+        }
+      ],
+      "duration_ms": 267733,
+      "name": "La Tanga",
+      "url": "https://open.spotify.com/track/0c27iEtApUClcQ44aZ4BIP"
+    },
+    {
+      "added_at": "2023-11-30 00:49:56",
+      "album": {
         "name": "Mala y Peligrosa (feat. Bad Bunny)",
         "url": "https://open.spotify.com/album/5g7QwZJvDLvaSGjqFVex0d"
       },
@@ -1635,38 +1651,6 @@
     {
       "added_at": "2023-11-30 00:49:56",
       "album": {
-        "name": "El Baile",
-        "url": "https://open.spotify.com/album/3yUu8PQm3x32cqOSjpHGWC"
-      },
-      "artists": [
-        {
-          "name": "Wilfrido Vargas",
-          "url": "https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4"
-        }
-      ],
-      "duration_ms": 223059,
-      "name": "A Mover la Colita",
-      "url": "https://open.spotify.com/track/1KhcGUG4W3972WwaOoB0DO"
-    },
-    {
-      "added_at": "2023-11-30 00:49:56",
-      "album": {
-        "name": "Internacional",
-        "url": "https://open.spotify.com/album/5jr3mCoNe2N4vTRrUlwxT3"
-      },
-      "artists": [
-        {
-          "name": "Oro Solido",
-          "url": "https://open.spotify.com/artist/7wLYNBd1fXGEKSLJMNnlt4"
-        }
-      ],
-      "duration_ms": 267733,
-      "name": "La Tanga",
-      "url": "https://open.spotify.com/track/0c27iEtApUClcQ44aZ4BIP"
-    },
-    {
-      "added_at": "2023-11-30 00:49:56",
-      "album": {
         "name": "Mis 30 Mejores Canciones",
         "url": "https://open.spotify.com/album/6fuOt44vgqDnAnZguOJecP"
       },
@@ -1683,22 +1667,6 @@
     {
       "added_at": "2023-11-30 00:49:56",
       "album": {
-        "name": "ALTER EGO",
-        "url": "https://open.spotify.com/album/3si9Tt0MEyLf26borb6B5p"
-      },
-      "artists": [
-        {
-          "name": "Prince Royce",
-          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
-        }
-      ],
-      "duration_ms": 216897,
-      "name": "Loter\u00eda",
-      "url": "https://open.spotify.com/track/17Ey9p2LVX9BWaq51t56xU"
-    },
-    {
-      "added_at": "2023-11-30 00:49:56",
-      "album": {
         "name": "Rebotando",
         "url": "https://open.spotify.com/album/5aAR4JhNb2bA0r6uPHlhYz"
       },
@@ -1711,6 +1679,38 @@
       "duration_ms": 246266,
       "name": "Como Un Trueno",
       "url": "https://open.spotify.com/track/5NuGimnwSMQwBKgCCy7wIn"
+    },
+    {
+      "added_at": "2023-11-30 00:49:56",
+      "album": {
+        "name": "El Baile",
+        "url": "https://open.spotify.com/album/3yUu8PQm3x32cqOSjpHGWC"
+      },
+      "artists": [
+        {
+          "name": "Wilfrido Vargas",
+          "url": "https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4"
+        }
+      ],
+      "duration_ms": 223059,
+      "name": "A Mover la Colita",
+      "url": "https://open.spotify.com/track/1KhcGUG4W3972WwaOoB0DO"
+    },
+    {
+      "added_at": "2023-11-30 00:49:56",
+      "album": {
+        "name": "ALTER EGO",
+        "url": "https://open.spotify.com/album/3si9Tt0MEyLf26borb6B5p"
+      },
+      "artists": [
+        {
+          "name": "Prince Royce",
+          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
+        }
+      ],
+      "duration_ms": 216897,
+      "name": "Loter\u00eda",
+      "url": "https://open.spotify.com/track/17Ey9p2LVX9BWaq51t56xU"
     },
     {
       "added_at": "2023-11-30 00:49:56",

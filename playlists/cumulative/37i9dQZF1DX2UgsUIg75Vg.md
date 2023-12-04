@@ -2,7 +2,7 @@
 
 ### [Chilled R&B](https://open.spotify.com/playlist/37i9dQZF1DX2UgsUIg75Vg)
 
-> Chilled R&B jams for your most relaxed moods\. Cover: Arin Ray
+> Chilled R&B jams for your most relaxed moods\. Cover: Ari Lennox
 
 839 songs - 1 day 23 hr 1 min
 

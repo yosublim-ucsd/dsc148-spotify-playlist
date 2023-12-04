@@ -1,12 +1,12 @@
 {
   "description": "The extraordinary women making great country music today. Cover: Megan Moroney",
-  "num_followers": 476365,
+  "num_followers": 476422,
   "original_name": "Women of Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZTI1NTNmODExZmU4ZmJmMzYxYmQ0OTkxMjc0Mjg0MmEwNDUyZjNh",
+  "snapshot_id": "MCxjZWY2M2RlMmE2MmY3OWEzNDJlZjFhMzQwZjQ4Yzg0ZmFjODU5NTg3",
   "tracks": [
     {
       "added_at": "2023-12-01 19:54:45",
@@ -859,18 +859,18 @@
     {
       "added_at": "2023-12-01 19:54:45",
       "album": {
-        "name": "Light On In The Kitchen",
-        "url": "https://open.spotify.com/album/335hPIk2TDnJwANpw18P6G"
+        "name": "Good Person",
+        "url": "https://open.spotify.com/album/3Ua9kX869krW1M3UjEJVPv"
       },
       "artists": [
         {
-          "name": "Ashley McBryde",
-          "url": "https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV"
+          "name": "Ingrid Andress",
+          "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
         }
       ],
-      "duration_ms": 212120,
-      "name": "Light On In The Kitchen",
-      "url": "https://open.spotify.com/track/2GAqIzPU7v3kfvY4hZQ9jm"
+      "duration_ms": 196162,
+      "name": "Feel Like This",
+      "url": "https://open.spotify.com/track/4QWXSTeUHFzU0INh7SNqSU"
     },
     {
       "added_at": "2023-12-01 19:54:45",
@@ -907,18 +907,18 @@
     {
       "added_at": "2023-12-01 19:54:45",
       "album": {
-        "name": "Good Person",
-        "url": "https://open.spotify.com/album/3Ua9kX869krW1M3UjEJVPv"
+        "name": "Light On In The Kitchen",
+        "url": "https://open.spotify.com/album/335hPIk2TDnJwANpw18P6G"
       },
       "artists": [
         {
-          "name": "Ingrid Andress",
-          "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
+          "name": "Ashley McBryde",
+          "url": "https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV"
         }
       ],
-      "duration_ms": 196162,
-      "name": "Feel Like This",
-      "url": "https://open.spotify.com/track/4QWXSTeUHFzU0INh7SNqSU"
+      "duration_ms": 212120,
+      "name": "Light On In The Kitchen",
+      "url": "https://open.spotify.com/track/2GAqIzPU7v3kfvY4hZQ9jm"
     },
     {
       "added_at": "2023-12-01 19:54:45",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2023-12-01 19:54:45",
       "album": {
-        "name": "Heels Over Head",
-        "url": "https://open.spotify.com/album/79CHHS2PirPGS6zHSgHogt"
-      },
-      "artists": [
-        {
-          "name": "Carly Pearce",
-          "url": "https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72"
-        }
-      ],
-      "duration_ms": 194920,
-      "name": "Heels Over Head",
-      "url": "https://open.spotify.com/track/4QShZHQERrTVI2IDzWmbzJ"
-    },
-    {
-      "added_at": "2023-12-01 19:54:45",
-      "album": {
         "name": "star-crossed",
         "url": "https://open.spotify.com/album/6y9LbrjY2TpaLvtbE7FTkc"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 180800,
       "name": "justified",
       "url": "https://open.spotify.com/track/4wONXG4GqWSscEyZlx300W"
+    },
+    {
+      "added_at": "2023-12-01 19:54:45",
+      "album": {
+        "name": "Heels Over Head",
+        "url": "https://open.spotify.com/album/79CHHS2PirPGS6zHSgHogt"
+      },
+      "artists": [
+        {
+          "name": "Carly Pearce",
+          "url": "https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72"
+        }
+      ],
+      "duration_ms": 194920,
+      "name": "Heels Over Head",
+      "url": "https://open.spotify.com/track/4QShZHQERrTVI2IDzWmbzJ"
     },
     {
       "added_at": "2023-12-01 19:54:45",
@@ -1343,6 +1343,22 @@
     {
       "added_at": "2023-12-01 19:54:45",
       "album": {
+        "name": "29",
+        "url": "https://open.spotify.com/album/4d9k0jS5GUloTE0JRqncyn"
+      },
+      "artists": [
+        {
+          "name": "Carly Pearce",
+          "url": "https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72"
+        }
+      ],
+      "duration_ms": 181183,
+      "name": "Should\u2019ve Known Better",
+      "url": "https://open.spotify.com/track/6ihxXxSjslaVYd3oaAHCMT"
+    },
+    {
+      "added_at": "2023-12-01 19:54:45",
+      "album": {
         "name": "Pistol Made of Roses",
         "url": "https://open.spotify.com/album/2r8MHSTtnErtLRIhwR2P9E"
       },
@@ -1371,22 +1387,6 @@
       "duration_ms": 189442,
       "name": "Greener Pasture",
       "url": "https://open.spotify.com/track/3fA0FKdkPmBa62MSxwewKE"
-    },
-    {
-      "added_at": "2023-12-01 19:54:45",
-      "album": {
-        "name": "29",
-        "url": "https://open.spotify.com/album/4d9k0jS5GUloTE0JRqncyn"
-      },
-      "artists": [
-        {
-          "name": "Carly Pearce",
-          "url": "https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72"
-        }
-      ],
-      "duration_ms": 181183,
-      "name": "Should\u2019ve Known Better",
-      "url": "https://open.spotify.com/track/6ihxXxSjslaVYd3oaAHCMT"
     },
     {
       "added_at": "2023-12-01 19:54:45",
@@ -1495,6 +1495,26 @@
     {
       "added_at": "2023-12-01 19:54:45",
       "album": {
+        "name": "Never Wanted To Be That Girl",
+        "url": "https://open.spotify.com/album/3dmVohUADaRH81z0AETGev"
+      },
+      "artists": [
+        {
+          "name": "Carly Pearce",
+          "url": "https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72"
+        },
+        {
+          "name": "Ashley McBryde",
+          "url": "https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV"
+        }
+      ],
+      "duration_ms": 214416,
+      "name": "Never Wanted To Be That Girl",
+      "url": "https://open.spotify.com/track/3TuMOIzXkhKFDNHyQ7Mo8J"
+    },
+    {
+      "added_at": "2023-12-01 19:54:45",
+      "album": {
         "name": "Strangers",
         "url": "https://open.spotify.com/album/07xNmQBSa65Wxv8qPsFaLY"
       },
@@ -1543,26 +1563,6 @@
     {
       "added_at": "2023-12-01 19:54:45",
       "album": {
-        "name": "Never Wanted To Be That Girl",
-        "url": "https://open.spotify.com/album/3dmVohUADaRH81z0AETGev"
-      },
-      "artists": [
-        {
-          "name": "Carly Pearce",
-          "url": "https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72"
-        },
-        {
-          "name": "Ashley McBryde",
-          "url": "https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV"
-        }
-      ],
-      "duration_ms": 214416,
-      "name": "Never Wanted To Be That Girl",
-      "url": "https://open.spotify.com/track/3TuMOIzXkhKFDNHyQ7Mo8J"
-    },
-    {
-      "added_at": "2023-12-01 19:54:45",
-      "album": {
         "name": "Girl to Girl",
         "url": "https://open.spotify.com/album/4KOYQ5wkg84yhv2klrUNGN"
       },
@@ -1595,22 +1595,6 @@
     {
       "added_at": "2023-12-01 19:54:45",
       "album": {
-        "name": "Somethin' Bout You",
-        "url": "https://open.spotify.com/album/4ejJyrAvRvhVRadKmVPByS"
-      },
-      "artists": [
-        {
-          "name": "Mickey Guyton",
-          "url": "https://open.spotify.com/artist/6nfN5B7Jmi853SHa9106Hz"
-        }
-      ],
-      "duration_ms": 156906,
-      "name": "Somethin' Bout You",
-      "url": "https://open.spotify.com/track/2hsarLx1u2OgOmkcJ8ejBm"
-    },
-    {
-      "added_at": "2023-12-01 19:54:45",
-      "album": {
         "name": "Palomino",
         "url": "https://open.spotify.com/album/69z5d2iu6PdaRZWvx8YVUl"
       },
@@ -1627,18 +1611,34 @@
     {
       "added_at": "2023-12-01 19:54:45",
       "album": {
-        "name": "Woman You Got",
-        "url": "https://open.spotify.com/album/19GuJrC5nV45shkMHbBEXm"
+        "name": "Somethin' Bout You",
+        "url": "https://open.spotify.com/album/4ejJyrAvRvhVRadKmVPByS"
       },
       "artists": [
         {
-          "name": "Maddie & Tae",
-          "url": "https://open.spotify.com/artist/34bhyY8jfKez7uKakMfy4y"
+          "name": "Mickey Guyton",
+          "url": "https://open.spotify.com/artist/6nfN5B7Jmi853SHa9106Hz"
         }
       ],
-      "duration_ms": 177951,
-      "name": "Woman You Got",
-      "url": "https://open.spotify.com/track/2NNioXX1t4whQsBF8FfExl"
+      "duration_ms": 156906,
+      "name": "Somethin' Bout You",
+      "url": "https://open.spotify.com/track/2hsarLx1u2OgOmkcJ8ejBm"
+    },
+    {
+      "added_at": "2023-12-01 19:54:45",
+      "album": {
+        "name": "Sayin\u2019 What I\u2019m Thinkin\u2019",
+        "url": "https://open.spotify.com/album/2WBvIseHSAwsPP4YbNgZXR"
+      },
+      "artists": [
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        }
+      ],
+      "duration_ms": 201653,
+      "name": "Sayin\u2019 What I\u2019m Thinkin\u2019",
+      "url": "https://open.spotify.com/track/5AzFlhzijKM7xFPY5b1taP"
     }
   ],
   "unique_name": "Women of Country",

@@ -139,6 +139,28 @@
     },
     {
       "album": {
+        "name": "GLOOMY BOOGIE Vol. 2",
+        "url": "https://open.spotify.com/album/2QmP1Re18kxf8OUbRKw4GN"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Kheng",
+          "url": "https://open.spotify.com/artist/53GouHDfCfsBJIn1OjYmPO"
+        },
+        {
+          "name": "Rangga Jones",
+          "url": "https://open.spotify.com/artist/330A2O2MYF4bWFjwM5PJ4z"
+        }
+      ],
+      "date_added": "2023-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162500,
+      "name": "A Nothing Day",
+      "url": "https://open.spotify.com/track/3XuBSGfyPaVxfpt97F5IVJ"
+    },
+    {
+      "album": {
         "name": "After The Tone",
         "url": "https://open.spotify.com/album/7HwIUiOremortAibAsFUPM"
       },
@@ -820,7 +842,7 @@
       ],
       "date_added": "2023-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-04",
       "duration_ms": 188135,
       "name": "Breakup Never Felt So Good",
       "url": "https://open.spotify.com/track/50m4RCFL1hNROtgyiaZZh4"
@@ -972,7 +994,7 @@
       ],
       "date_added": "2023-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-04",
       "duration_ms": 154705,
       "name": "Cheat Life (feat. punchnello)(prod. by GRAY)",
       "url": "https://open.spotify.com/track/25ZpVBEhPmKuMwJHVbUXIG"
@@ -1118,6 +1140,24 @@
       "duration_ms": 158297,
       "name": "crazy",
       "url": "https://open.spotify.com/track/7LrlwTbFCZQnPPzwOwgTNn"
+    },
+    {
+      "album": {
+        "name": "Crush!",
+        "url": "https://open.spotify.com/album/0clcYq3eLhpPzTF4TCp8XB"
+      },
+      "artists": [
+        {
+          "name": "xooos",
+          "url": "https://open.spotify.com/artist/0OqnFLmTWiVGm3Ifk6mahQ"
+        }
+      ],
+      "date_added": "2023-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128080,
+      "name": "Crush!",
+      "url": "https://open.spotify.com/track/6lZrMteR4f7nHrNW4ot3H1"
     },
     {
       "album": {
@@ -2268,6 +2308,24 @@
       "duration_ms": 187026,
       "name": "Kids Are Born Stars",
       "url": "https://open.spotify.com/track/2pD74s7WAlBWUXjrTsKgdS"
+    },
+    {
+      "album": {
+        "name": "King",
+        "url": "https://open.spotify.com/album/5LXxoJ288tW1BnkrF8rZg6"
+      },
+      "artists": [
+        {
+          "name": "Thomas Ng",
+          "url": "https://open.spotify.com/artist/2ZeeJPDvqzQ7c8iG3rRsyc"
+        }
+      ],
+      "date_added": "2023-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194285,
+      "name": "King",
+      "url": "https://open.spotify.com/track/6O2ruDL64hebg6W2VPvDLX"
     },
     {
       "album": {
@@ -4000,7 +4058,7 @@
       ],
       "date_added": "2022-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-04",
       "duration_ms": 229282,
       "name": "Stay With Me (with Justin Timberlake, Halsey, & Pharrell)",
       "url": "https://open.spotify.com/track/5lfWrciYtohtIMVDVZd0Rf"

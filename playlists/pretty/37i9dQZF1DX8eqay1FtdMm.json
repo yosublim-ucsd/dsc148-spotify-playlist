@@ -1,12 +1,12 @@
 {
   "description": "Enjoy the selection of \u2018vocals with unique voices\u2019 selected by BMK! (BMK\uac00 \uc120\uace1\ud55c '\ub3c5\ubcf4\uc801\uc778 \uc74c\uc0c9\uc774 \ub3cb\ubcf4\uc774\ub294 \ubcf4\uceec\ub4e4' \uc120\uace1\uc744 \uc990\uaca8\ubcf4\uc138\uc694!)",
-  "num_followers": 326432,
+  "num_followers": 326392,
   "original_name": "v o K a l : BMK Takeover",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NGZlODdlZmQ1Y2FmMjljYzc5NWRkOWRjY2RiNDcyZTc0ZjFlZjU4",
+  "snapshot_id": "MCw4M2ZjYzhjNDlhNTFkNzBlZTY0ZGJlNWY4NGE1M2I5OTdlMWRmOWYx",
   "tracks": [
     {
       "added_at": "2023-12-01 09:36:21",
@@ -759,22 +759,6 @@
     {
       "added_at": "2023-12-01 09:36:21",
       "album": {
-        "name": "Do",
-        "url": "https://open.spotify.com/album/7K165jm1VJckEwlPU3rnkX"
-      },
-      "artists": [
-        {
-          "name": "Paul Blanco",
-          "url": "https://open.spotify.com/artist/2fiGm496AG7ePURQiSSJIw"
-        }
-      ],
-      "duration_ms": 165986,
-      "name": "Do",
-      "url": "https://open.spotify.com/track/5jtm4uDYLZXYK84iorHOKF"
-    },
-    {
-      "added_at": "2023-12-01 09:36:21",
-      "album": {
         "name": "Jelly box Flower Way SEJEONG",
         "url": "https://open.spotify.com/album/32dL7nyPowMbiu8QFrAkIM"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 239122,
       "name": "Flower Way (Prod. By ZICO)",
       "url": "https://open.spotify.com/track/1dOD5F2hX5TBtKdQlEseR7"
+    },
+    {
+      "added_at": "2023-12-01 09:36:21",
+      "album": {
+        "name": "Do",
+        "url": "https://open.spotify.com/album/7K165jm1VJckEwlPU3rnkX"
+      },
+      "artists": [
+        {
+          "name": "Paul Blanco",
+          "url": "https://open.spotify.com/artist/2fiGm496AG7ePURQiSSJIw"
+        }
+      ],
+      "duration_ms": 165986,
+      "name": "Do",
+      "url": "https://open.spotify.com/track/5jtm4uDYLZXYK84iorHOKF"
     },
     {
       "added_at": "2023-12-01 09:36:21",
@@ -975,22 +975,6 @@
     {
       "added_at": "2023-12-01 09:36:21",
       "album": {
-        "name": "The King's Affection OST Part.3",
-        "url": "https://open.spotify.com/album/0BIXwx4XAJR9xe9k3DZK2J"
-      },
-      "artists": [
-        {
-          "name": "Baek Ji Young",
-          "url": "https://open.spotify.com/artist/3l0MJ9LCiBlMyOMaz485Q5"
-        }
-      ],
-      "duration_ms": 221080,
-      "name": "IF I",
-      "url": "https://open.spotify.com/track/3QGz3EzsWbW9LoNVk5MPHT"
-    },
-    {
-      "added_at": "2023-12-01 09:36:21",
-      "album": {
         "name": "When it snows(Feat.Heize)",
         "url": "https://open.spotify.com/album/1d2YKQ02RQA97EyrB55ZcK"
       },
@@ -1011,18 +995,18 @@
     {
       "added_at": "2023-12-01 09:36:21",
       "album": {
-        "name": "Naul <Ballad Pop City>",
-        "url": "https://open.spotify.com/album/5KN5V04kjs7YeTVyQcpqqZ"
+        "name": "The King's Affection OST Part.3",
+        "url": "https://open.spotify.com/album/0BIXwx4XAJR9xe9k3DZK2J"
       },
       "artists": [
         {
-          "name": "TAEYEON",
-          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
+          "name": "Baek Ji Young",
+          "url": "https://open.spotify.com/artist/3l0MJ9LCiBlMyOMaz485Q5"
         }
       ],
-      "duration_ms": 260668,
-      "name": "Nights Into Days (Prod. by Naul)",
-      "url": "https://open.spotify.com/track/7yMSnQEier8Kp4iQuIvt0t"
+      "duration_ms": 221080,
+      "name": "IF I",
+      "url": "https://open.spotify.com/track/3QGz3EzsWbW9LoNVk5MPHT"
     },
     {
       "added_at": "2023-12-01 09:36:21",
@@ -1039,6 +1023,22 @@
       "duration_ms": 267857,
       "name": "Baby I Know",
       "url": "https://open.spotify.com/track/6Qrz1XYQHe0yTVZw5r3KCs"
+    },
+    {
+      "added_at": "2023-12-01 09:36:21",
+      "album": {
+        "name": "Naul <Ballad Pop City>",
+        "url": "https://open.spotify.com/album/5KN5V04kjs7YeTVyQcpqqZ"
+      },
+      "artists": [
+        {
+          "name": "TAEYEON",
+          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
+        }
+      ],
+      "duration_ms": 260668,
+      "name": "Nights Into Days (Prod. by Naul)",
+      "url": "https://open.spotify.com/track/7yMSnQEier8Kp4iQuIvt0t"
     },
     {
       "added_at": "2023-12-01 09:36:21",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2023-12-01 09:36:21",
       "album": {
-        "name": "Such a thing",
-        "url": "https://open.spotify.com/album/6Il2iRzPVqDWuZNkNfPFka"
-      },
-      "artists": [
-        {
-          "name": "Paul Blanco",
-          "url": "https://open.spotify.com/artist/2fiGm496AG7ePURQiSSJIw"
-        }
-      ],
-      "duration_ms": 266986,
-      "name": "Such a thing",
-      "url": "https://open.spotify.com/track/4RJHDWdfgBwc1WXdL2aWaj"
-    },
-    {
-      "added_at": "2023-12-01 09:36:21",
-      "album": {
         "name": "A Love Supreme",
         "url": "https://open.spotify.com/album/7Mcgv379kU4bRHl54JJqhi"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 210106,
       "name": "I Want to Be Closer to You",
       "url": "https://open.spotify.com/track/6QlCumx7Sow4nRgVt6tDms"
+    },
+    {
+      "added_at": "2023-12-01 09:36:21",
+      "album": {
+        "name": "Such a thing",
+        "url": "https://open.spotify.com/album/6Il2iRzPVqDWuZNkNfPFka"
+      },
+      "artists": [
+        {
+          "name": "Paul Blanco",
+          "url": "https://open.spotify.com/artist/2fiGm496AG7ePURQiSSJIw"
+        }
+      ],
+      "duration_ms": 266986,
+      "name": "Such a thing",
+      "url": "https://open.spotify.com/track/4RJHDWdfgBwc1WXdL2aWaj"
     },
     {
       "added_at": "2023-12-01 09:36:21",
@@ -1319,26 +1319,6 @@
     {
       "added_at": "2023-12-01 09:36:21",
       "album": {
-        "name": "HANGANG",
-        "url": "https://open.spotify.com/album/3VF7eXNnX3jEgJVAPcC7BM"
-      },
-      "artists": [
-        {
-          "name": "Paul Kim",
-          "url": "https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv"
-        },
-        {
-          "name": "BIG Naughty",
-          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
-        }
-      ],
-      "duration_ms": 199133,
-      "name": "HANGANG (Feat. BIG Naughty)",
-      "url": "https://open.spotify.com/track/25QGSFaB28MnIp7CIX1Nkk"
-    },
-    {
-      "added_at": "2023-12-01 09:36:21",
-      "album": {
         "name": "Mother Nature (H\u2082O)",
         "url": "https://open.spotify.com/album/6gdnJ11QQyvpVljTUR3BWw"
       },
@@ -1359,6 +1339,26 @@
     {
       "added_at": "2023-12-01 09:36:21",
       "album": {
+        "name": "HANGANG",
+        "url": "https://open.spotify.com/album/3VF7eXNnX3jEgJVAPcC7BM"
+      },
+      "artists": [
+        {
+          "name": "Paul Kim",
+          "url": "https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv"
+        },
+        {
+          "name": "BIG Naughty",
+          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
+        }
+      ],
+      "duration_ms": 199133,
+      "name": "HANGANG (Feat. BIG Naughty)",
+      "url": "https://open.spotify.com/track/25QGSFaB28MnIp7CIX1Nkk"
+    },
+    {
+      "added_at": "2023-12-01 09:36:21",
+      "album": {
         "name": "in the bed",
         "url": "https://open.spotify.com/album/2CtElDOpo2hSKXWVpf0qBj"
       },
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2023-12-01 09:36:21",
       "album": {
-        "name": "It\u2032s You",
-        "url": "https://open.spotify.com/album/5wPEtP41dY7dqF3GcLBlfC"
-      },
-      "artists": [
-        {
-          "name": "Colde",
-          "url": "https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB"
-        }
-      ],
-      "duration_ms": 193000,
-      "name": "It\u2032s You",
-      "url": "https://open.spotify.com/track/23PyDwW8pLgDsjpyFdjYgj"
-    },
-    {
-      "added_at": "2023-12-01 09:36:21",
-      "album": {
         "name": "I'M",
         "url": "https://open.spotify.com/album/3OnWObhf5pDIx4NLTAqYZa"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 238252,
       "name": "\ub0b4\uac00 \uc800\uc9c0\ub978 \uc0ac\ub791",
       "url": "https://open.spotify.com/track/72UARrP1LDMUMuZ7tRAxku"
+    },
+    {
+      "added_at": "2023-12-01 09:36:21",
+      "album": {
+        "name": "It\u2032s You",
+        "url": "https://open.spotify.com/album/5wPEtP41dY7dqF3GcLBlfC"
+      },
+      "artists": [
+        {
+          "name": "Colde",
+          "url": "https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB"
+        }
+      ],
+      "duration_ms": 193000,
+      "name": "It\u2032s You",
+      "url": "https://open.spotify.com/track/23PyDwW8pLgDsjpyFdjYgj"
     },
     {
       "added_at": "2023-12-01 09:36:21",
@@ -1655,22 +1655,22 @@
     {
       "added_at": "2023-12-01 09:36:21",
       "album": {
-        "name": "Need you (With Sung Si Kyung)",
-        "url": "https://open.spotify.com/album/4LsFiCmcvpuz0yD6BoSBpL"
+        "name": "The King: Eternal Monarch (Original Television Soundtrack), Pt. 13",
+        "url": "https://open.spotify.com/album/30LZlh9d2k2GMQOPbJvdxd"
       },
       "artists": [
         {
-          "name": "SOLE",
-          "url": "https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt"
+          "name": "Onestar",
+          "url": "https://open.spotify.com/artist/6EmgTIhhXGtfAmYYTfdtlz"
         },
         {
-          "name": "Sung Si Kyung",
-          "url": "https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc"
+          "name": "KIM JAE HWAN",
+          "url": "https://open.spotify.com/artist/7LdZwtnhfB1GoC9SE9tvyb"
         }
       ],
-      "duration_ms": 240066,
-      "name": "Need you (With Sung Si Kyung)",
-      "url": "https://open.spotify.com/track/0WhWueHRzb6ctQ4QySvFeD"
+      "duration_ms": 251160,
+      "name": "You're My End and My Beginning",
+      "url": "https://open.spotify.com/track/1q3axbxKGkwHdLLQtxmyl2"
     }
   ],
   "unique_name": "v o K a l : BMK Takeover",

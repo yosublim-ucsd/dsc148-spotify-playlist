@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XfcfEnrDRE.md) - [plain]
 
 > The ever\-evolving sound of Alt! Cover: Gable Price and Friends
 
-[Spotify](https://open.spotify.com/user/spotify) - 236,443 likes - 100 songs - 6 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 236,469 likes - 100 songs - 6 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XfcfEnrDRE.md) - [plain]
 | 41 | [Run \- Twenty Version](https://open.spotify.com/track/6Qg4obUZBQ0R8M1Q3Lg6mN) | [Kutless](https://open.spotify.com/artist/3lLT23km6QvzYCojCXAYtX) | [Twenty](https://open.spotify.com/album/05Lk7Ave4ANejifje8LKCZ) | 4:22 |
 | 42 | [Calm Before the Storm](https://open.spotify.com/track/7wsBA8293E5O4SMS1nH350) | [United Pursuit](https://open.spotify.com/artist/4YCpRzudpG6AeE0IvCjiGo) | [Calm Before the Storm](https://open.spotify.com/album/3jWsaxV8HH7v4osDCriC6Q) | 3:55 |
 | 43 | [atlas](https://open.spotify.com/track/283U7PMWoZbPz8eUxPJ9ZS) | [Paul Whitacre](https://open.spotify.com/artist/4QcUyC5d8B6rRL61AYAegO) | [hard to dream](https://open.spotify.com/album/0QFiXNPL6xwYY6wYC8H1jq) | 3:52 |
-| 44 | [Still Mighty](https://open.spotify.com/track/7lNZVe64Do0fQIUR2AGli8) | [Leeland](https://open.spotify.com/artist/6j1fmLreVuAay7k6Gudfa2) | [Still Mighty](https://open.spotify.com/album/0fGqJjdvlODlS1d0clsMQs) | 3:52 |
-| 45 | [whisper](https://open.spotify.com/track/5iCW4em6gVLIiSnbyUlzPF) | [Sam Bowman](https://open.spotify.com/artist/4cRZTgXsG1S8tR5vtkUqxP) | [whisper](https://open.spotify.com/album/0NhDwb4S51VP84jfOJXxM6) | 2:31 |
+| 44 | [whisper](https://open.spotify.com/track/5iCW4em6gVLIiSnbyUlzPF) | [Sam Bowman](https://open.spotify.com/artist/4cRZTgXsG1S8tR5vtkUqxP) | [whisper](https://open.spotify.com/album/0NhDwb4S51VP84jfOJXxM6) | 2:31 |
+| 45 | [Still Mighty](https://open.spotify.com/track/7lNZVe64Do0fQIUR2AGli8) | [Leeland](https://open.spotify.com/artist/6j1fmLreVuAay7k6Gudfa2) | [Still Mighty](https://open.spotify.com/album/0fGqJjdvlODlS1d0clsMQs) | 3:52 |
 | 46 | [First Love](https://open.spotify.com/track/3eOxPVgmYGVYPMnPK44Rm1) | [Young Oceans](https://open.spotify.com/artist/41crVXG3GeS8TmyWEaPZVr) | [You Are Fullness](https://open.spotify.com/album/6eEbe6FfkDdyVfSQzo0lqo) | 5:25 |
 | 47 | [Feel Holy](https://open.spotify.com/track/1HxtNVkzA5PAzeqDXLCX37) | [Eliza King](https://open.spotify.com/artist/3b3oceAq7kCrQBmrsWOtMa) | [Feel Holy](https://open.spotify.com/album/33BAADumKYukAW2Mw0w4ac) | 5:31 |
 | 48 | [Rooftops](https://open.spotify.com/track/3Kx67wg68HCdDLWGeKepL8) | [Kurtis Hoppie](https://open.spotify.com/artist/2eR1Z2cyHOS4gFgA2GbRl8) | [Rooftops](https://open.spotify.com/album/0E5sGFa3NnW5Jj2iIkDwqq) | 2:49 |
@@ -74,10 +74,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XfcfEnrDRE.md) - [plain]
 | 64 | [Keep Your Head Up \- Radio Version](https://open.spotify.com/track/5MCclZ7cXNHyyAkvNqHYBm) | [Fireflight](https://open.spotify.com/artist/5v6wlK6GCKVovWMbPqSHNy) | [Keep Your Head Up \(Radio Version\)](https://open.spotify.com/album/0EqvE6md1QlGSu2qjYHc1r) | 3:35 |
 | 65 | [No Fear In Love](https://open.spotify.com/track/2NXKrBVJYAvVLUPm5lMPaE) | [WorshipMob](https://open.spotify.com/artist/2gVSazqKUYYYS645CEhrcL), [White Flag](https://open.spotify.com/artist/1Kb1JBQgQyAVncGfPetaKg) | [No Fear In Love](https://open.spotify.com/album/5zmejejlQErGrI0qDJiXoS) | 8:35 |
 | 66 | [Lifeline](https://open.spotify.com/track/1XzmSmJvC8vVNTT40BRyP6) | [Lion of Judah](https://open.spotify.com/artist/5xMljsTgyAQODxCMD7K2zH) | [Closer](https://open.spotify.com/album/7xrtDbxo1Clr7M5YIDqJXw) | 3:12 |
-| 67 | [Mountains](https://open.spotify.com/track/1MIuSxzMBDUcLqHzI1Dfo1) | [Jonas Myrin](https://open.spotify.com/artist/2NFO8MvrS1FOyjQZKwgra5) | [Mountains](https://open.spotify.com/album/01CGd2LzkhL2l85kU0bgpP) | 3:24 |
-| 68 | [Raise Up](https://open.spotify.com/track/6wulXQCZNl4nrD4W5qxoOg) | [Semler](https://open.spotify.com/artist/1UPqLSmKOY8Ld8LoAuNA5g) | [Stages Of A Breakdown](https://open.spotify.com/album/68BNGjFd975yYbcLvQh8oT) | 3:12 |
-| 69 | [Way, Truth, Life](https://open.spotify.com/track/5INCnWloUf354udWzwGgYs) | [Jonny Henninger](https://open.spotify.com/artist/1L9zhXcitRv35NwUZmwBZ4), [Naomi Mae](https://open.spotify.com/artist/7vNoVbs242w1vl2kaeOfdK) | [Way, Truth, Life](https://open.spotify.com/album/34FQy01AMCNmDh2NJ4ustB) | 2:53 |
-| 70 | [Love Over Religion](https://open.spotify.com/track/7uZEBTWHzuG68sXaADrwW5) | [Dara Maclean](https://open.spotify.com/artist/51mDLET3uU71KUA2OkDvFm) | [River](https://open.spotify.com/album/1wo9f0FTXsciSHZCKD808u) | 4:12 |
+| 67 | [Love Over Religion](https://open.spotify.com/track/7uZEBTWHzuG68sXaADrwW5) | [Dara Maclean](https://open.spotify.com/artist/51mDLET3uU71KUA2OkDvFm) | [River](https://open.spotify.com/album/1wo9f0FTXsciSHZCKD808u) | 4:12 |
+| 68 | [Way, Truth, Life](https://open.spotify.com/track/5INCnWloUf354udWzwGgYs) | [Jonny Henninger](https://open.spotify.com/artist/1L9zhXcitRv35NwUZmwBZ4), [Naomi Mae](https://open.spotify.com/artist/7vNoVbs242w1vl2kaeOfdK) | [Way, Truth, Life](https://open.spotify.com/album/34FQy01AMCNmDh2NJ4ustB) | 2:53 |
+| 69 | [Raise Up](https://open.spotify.com/track/6wulXQCZNl4nrD4W5qxoOg) | [Semler](https://open.spotify.com/artist/1UPqLSmKOY8Ld8LoAuNA5g) | [Stages Of A Breakdown](https://open.spotify.com/album/68BNGjFd975yYbcLvQh8oT) | 3:12 |
+| 70 | [Mountains](https://open.spotify.com/track/1MIuSxzMBDUcLqHzI1Dfo1) | [Jonas Myrin](https://open.spotify.com/artist/2NFO8MvrS1FOyjQZKwgra5) | [Mountains](https://open.spotify.com/album/01CGd2LzkhL2l85kU0bgpP) | 3:24 |
 | 71 | [Mercy Shores](https://open.spotify.com/track/2DfrxAll5ft3nKQNa6OKEo) | [LOVKN](https://open.spotify.com/artist/2bEFxVGVlzEIEdDAaQZCrc) | [Mercy Shores](https://open.spotify.com/album/2hFkHnWuHRlxvtzMsOe5H7) | 3:26 |
 | 72 | [Pulp](https://open.spotify.com/track/53hcnXo6HTK3fZTbh9DqPv) | [Love Ghost](https://open.spotify.com/artist/7oYWWttOyiltgT19mfoUWi) | [Pulp](https://open.spotify.com/album/4nAhfRvtz1ZkTh0ivN5iHQ) | 3:59 |
 | 73 | [Fighting Myself](https://open.spotify.com/track/3W2UszPJ6jF0OYE5FTtetQ) | [Alive City](https://open.spotify.com/artist/5Toah6plT6mSqAKVffLAj5) | [Fighting Myself](https://open.spotify.com/album/22JJVIcCRz2yqjVH5WIZqx) | 3:38 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XfcfEnrDRE.md) - [plain]
 | 99 | [Hey Jesus](https://open.spotify.com/track/2Uo4QoDPsHkpUNSVJyJYts) | [Trey Pearson](https://open.spotify.com/artist/5pjtpHRdrbbw9zZWx83zCF), [Semler](https://open.spotify.com/artist/1UPqLSmKOY8Ld8LoAuNA5g) | [Somebody You Knew](https://open.spotify.com/album/3V2XutQhnbyGFH8FSfqw5E) | 3:18 |
 | 100 | [DANGEROUS](https://open.spotify.com/track/7j0iPwOZJoqO3J66UbPX6l) | [Anchor & Braille](https://open.spotify.com/artist/0ofu3spkMmDV3INNoMtXbM) | [DANGEROUS](https://open.spotify.com/album/4bQ7tfvG5eQSbSoMoWlZ7G) | 3:42 |
 
-Snapshot ID: `MCw4OWUzYWIyNzU2YjczNjg1N2E2ODhkM2JiMzIyMzBhZmI2NzVkOGYy`
+Snapshot ID: `MCxiMGRmZmVkNGFiMjNlNGY1YzI3N2U3YjZmMGJkNWQ0NWExMDNhODY5`

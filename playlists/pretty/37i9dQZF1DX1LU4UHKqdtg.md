@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1LU4UHKqdtg.md) - [plain]
 
 > The freshest K\-Pop of today!  //最先端のK\-Popをピックアップ！ Cover: ATEEZ
 
-[Spotify](https://open.spotify.com/user/spotify) - 393,566 likes - 80 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 393,908 likes - 80 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1LU4UHKqdtg.md) - [plain]
 | 79 | [Slow Dancing](https://open.spotify.com/track/5h1BN75CEh8wdSwE1xrbSe) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [Layover](https://open.spotify.com/album/7ixOAT89NSsgUITYc5ByB5) | 3:07 |
 | 80 | [こんなに君を](https://open.spotify.com/track/0scTh8IQayvHhgTAC7gEsb) | [Sung Si Kyung](https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc) | [こんなに君を](https://open.spotify.com/album/43HFNNbIHaLF3b7gLaQPCP) | 4:00 |
 
-Snapshot ID: `MCxkNmI0YWE3OWUzOTlmYTJiZjY3NGRhNGQyMjVjNTUxYmViMGE5NzVk`
+Snapshot ID: `MCwxNTkzNzVlMzc3ZWM5MTBkZDg2ZGUwMmNlMGJhY2IyOTJjOGUxZmZk`

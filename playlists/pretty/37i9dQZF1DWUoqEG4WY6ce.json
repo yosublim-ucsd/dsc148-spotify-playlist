@@ -1,12 +1,12 @@
 {
   "description": "Hop in.",
-  "num_followers": 1059138,
+  "num_followers": 1059189,
   "original_name": "Indie Rock Road Trip",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ODk0ZGIwMWUyYzY4MDczMmRkNTBhMmE5ZWQ4MjkyMmZjMzk0ZjJk",
+  "snapshot_id": "MCwxNTYxYmI4MmIzY2UzOWRmZjdkMWY3YzMxOWEzMjA4MzFkYzQ0M2Y4",
   "tracks": [
     {
       "added_at": "2023-09-29 19:49:08",
@@ -411,22 +411,6 @@
     {
       "added_at": "2023-09-29 19:49:08",
       "album": {
-        "name": "How Will You Know If You Never Try",
-        "url": "https://open.spotify.com/album/4TJUrdwbeKC9qcouPlBuLe"
-      },
-      "artists": [
-        {
-          "name": "COIN",
-          "url": "https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE"
-        }
-      ],
-      "duration_ms": 187133,
-      "name": "Talk Too Much",
-      "url": "https://open.spotify.com/track/4djIFfof5TpbSGRZUpsTXq"
-    },
-    {
-      "added_at": "2023-09-29 19:49:08",
-      "album": {
         "name": "Mt. Joy",
         "url": "https://open.spotify.com/album/5h9FO7QRZMcrcnSYvihQ01"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 186133,
       "name": "Astrovan",
       "url": "https://open.spotify.com/track/14e46mURUUwB3i2vTe1gFz"
+    },
+    {
+      "added_at": "2023-09-29 19:49:08",
+      "album": {
+        "name": "How Will You Know If You Never Try",
+        "url": "https://open.spotify.com/album/4TJUrdwbeKC9qcouPlBuLe"
+      },
+      "artists": [
+        {
+          "name": "COIN",
+          "url": "https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE"
+        }
+      ],
+      "duration_ms": 187133,
+      "name": "Talk Too Much",
+      "url": "https://open.spotify.com/track/4djIFfof5TpbSGRZUpsTXq"
     },
     {
       "added_at": "2023-09-29 19:49:08",
@@ -1371,6 +1371,22 @@
     {
       "added_at": "2023-09-29 19:49:08",
       "album": {
+        "name": "Crushing",
+        "url": "https://open.spotify.com/album/50G6NiGQgtYNiwNK018q8v"
+      },
+      "artists": [
+        {
+          "name": "Julia Jacklin",
+          "url": "https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g"
+        }
+      ],
+      "duration_ms": 182306,
+      "name": "Pressure To Party",
+      "url": "https://open.spotify.com/track/480rD34KfGbMaT0L6zjeIu"
+    },
+    {
+      "added_at": "2023-09-29 19:49:08",
+      "album": {
         "name": "Yoshimi Battles the Pink Robots",
         "url": "https://open.spotify.com/album/49LA20VMk65fQyEaIzYdvf"
       },
@@ -1403,22 +1419,6 @@
     {
       "added_at": "2023-09-29 19:49:08",
       "album": {
-        "name": "Crushing",
-        "url": "https://open.spotify.com/album/50G6NiGQgtYNiwNK018q8v"
-      },
-      "artists": [
-        {
-          "name": "Julia Jacklin",
-          "url": "https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g"
-        }
-      ],
-      "duration_ms": 182306,
-      "name": "Pressure To Party",
-      "url": "https://open.spotify.com/track/480rD34KfGbMaT0L6zjeIu"
-    },
-    {
-      "added_at": "2023-09-29 19:49:08",
-      "album": {
         "name": "Oh, Inverted World (20th Anniversary Remaster)",
         "url": "https://open.spotify.com/album/5XmhHMj5LZLWo32aA6ntKE"
       },
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2023-09-29 19:49:08",
       "album": {
-        "name": "We Were Dead Before The Ship Even Sank",
-        "url": "https://open.spotify.com/album/2lXBCL76UL5PCPbfAqKBkz"
-      },
-      "artists": [
-        {
-          "name": "Modest Mouse",
-          "url": "https://open.spotify.com/artist/1yAwtBaoHLEDWAnWR87hBT"
-        }
-      ],
-      "duration_ms": 264813,
-      "name": "Missed the Boat",
-      "url": "https://open.spotify.com/track/4asjU3sDnn3002bTJIg2vZ"
-    },
-    {
-      "added_at": "2023-09-29 19:49:08",
-      "album": {
         "name": "Nathaniel Rateliff & The Night Sweats",
         "url": "https://open.spotify.com/album/1uJRMyfjWu3255ihMnNuj4"
       },
@@ -1463,6 +1447,22 @@
       "duration_ms": 253733,
       "name": "I Need Never Get Old",
       "url": "https://open.spotify.com/track/6YfEvtwpQwGAWZBWzNmoIw"
+    },
+    {
+      "added_at": "2023-09-29 19:49:08",
+      "album": {
+        "name": "We Were Dead Before The Ship Even Sank",
+        "url": "https://open.spotify.com/album/2lXBCL76UL5PCPbfAqKBkz"
+      },
+      "artists": [
+        {
+          "name": "Modest Mouse",
+          "url": "https://open.spotify.com/artist/1yAwtBaoHLEDWAnWR87hBT"
+        }
+      ],
+      "duration_ms": 264813,
+      "name": "Missed the Boat",
+      "url": "https://open.spotify.com/track/4asjU3sDnn3002bTJIg2vZ"
     },
     {
       "added_at": "2023-09-29 19:49:08",

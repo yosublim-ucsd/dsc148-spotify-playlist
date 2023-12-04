@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX79NXMEFYhh.md) - [plain]
 
 > If you’re sappy and you know it, listen to these cheesy tunes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 950,994 likes - 50 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 951,049 likes - 50 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX79NXMEFYhh.md) - [plain]
 | 10 | [You'll Be Safe Here](https://open.spotify.com/track/2MU7C3czJUhO7KJ2yumoB1) | [Moira Dela Torre](https://open.spotify.com/artist/0rZRTXEmmPmx6gt92tBqIc) | [You'll Be Safe Here](https://open.spotify.com/album/0R09cayA4ShMtoaAVWgao4) | 5:03 |
 | 11 | [Nagbabakasakali](https://open.spotify.com/track/4fE0gWRGGRTxMCiJ51As3w) | [polaris.](https://open.spotify.com/artist/48iP2a3vIRKl7MtFZDLnUx), [drmfy](https://open.spotify.com/artist/4hsyXkZRXr0zZ8WNQAJnhp) | [Nagbabakasakali](https://open.spotify.com/album/3QGjMQB9pwrBzvdbHacVdQ) | 3:22 |
 | 12 | [this time](https://open.spotify.com/track/3RflzntjekyDoIlm11kNIN) | [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3) | [this time](https://open.spotify.com/album/7JXBW10JRr5UtC7CjPZR5t) | 2:56 |
-| 13 | [Courage \(Acoustic Version\)](https://open.spotify.com/track/2qsd9R4G0g1dZwVejfGowK) | [Ben&Ben](https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb) | [Courage \(Acoustic Version\)](https://open.spotify.com/album/3KNTVXEXg2Y99cbsQcb34u) | 4:46 |
+| 13 | [Courage \(Acoustic Ver.\)](https://open.spotify.com/track/2qsd9R4G0g1dZwVejfGowK) | [Ben&Ben](https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb) | [Courage \(Acoustic Ver.\)](https://open.spotify.com/album/3KNTVXEXg2Y99cbsQcb34u) | 4:46 |
 | 14 | [Trust Me Mate](https://open.spotify.com/track/2wWX4sZGZNc7lA594ZOhP7) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [Trust Me Mate](https://open.spotify.com/album/3EL23ULlG8ejjORjNZ4KXp) | 2:58 |
 | 15 | [Your Universe](https://open.spotify.com/track/5PlL9nRL673efjDc3iNHcA) | [Arthur Miguel](https://open.spotify.com/artist/2Ev7vtPI38BE2kQvwmH4ce) | [Your Universe](https://open.spotify.com/album/4sqO3RMFtKZ1JtHHqBOa36) | 4:56 |
 | 16 | [Lihim](https://open.spotify.com/track/2K0CH6BtfBtY7wMnsKIuzo) | [Arthur Miguel](https://open.spotify.com/artist/2Ev7vtPI38BE2kQvwmH4ce) | [Lihim](https://open.spotify.com/album/2FIBgr9TXQpqItmTNIT89U) | 4:06 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX79NXMEFYhh.md) - [plain]
 | 49 | [Love Will Keep Us Alive](https://open.spotify.com/track/73rrFU3kxJfhwEkWEUKFjg) | [Nosy & Mila](https://open.spotify.com/artist/1GaGCu3PAD272YCbjJj5lU) | [Greatest Hits](https://open.spotify.com/album/2axCtTfl9UnGW64StC9CWz) | 5:37 |
 | 50 | [Sunsets With You](https://open.spotify.com/track/43t6oyPWJ67nifk7JgDgoI) | [Cliff](https://open.spotify.com/artist/3jjbX9cm5Np3ekAypS71si), [Yden](https://open.spotify.com/artist/3TrbbmtvHwXSKbBc1tClSV) | [Sunsets With You](https://open.spotify.com/album/2fEfoRUwtHZa6OZ44Mjc6X) | 4:13 |
 
-Snapshot ID: `MCwzNDMxYmE1NjhjODVlMDIwOWIzMzYwMDMyMzJlZTgyNTVlOTkwMzJl`
+Snapshot ID: `MCwzN2YxZjMyYTExZGY4MWFhZjhlNjM5ZGY5ZThjZjVhZTY1MzQ0Y2I0`

@@ -1,12 +1,12 @@
 {
   "description": "Dejate llevar por los mejores lentos del rock. Foto: Fabiana Cantilo",
-  "num_followers": 103445,
+  "num_followers": 103600,
   "original_name": "Baladas Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NWZjZjk1YTNhMjY2NzJiNGYyYjcxNmM0NjJjYjIyODY2YzU1Zjkx",
+  "snapshot_id": "MCw5ZDExNDQ0NDk4N2MyNmM5YmEwZmMzOGY0NjY4ZDNlOWQwNWMwYjJh",
   "tracks": [
     {
       "added_at": "2023-11-24 03:00:00",
@@ -107,22 +107,6 @@
     {
       "added_at": "2023-11-24 03:00:00",
       "album": {
-        "name": "Peluson Of Milk",
-        "url": "https://open.spotify.com/album/0sEqp7Del2dp8HmXE8Geqv"
-      },
-      "artists": [
-        {
-          "name": "Luis Alberto Spinetta",
-          "url": "https://open.spotify.com/artist/1MuQ2m2tg7naeRGAOxYZer"
-        }
-      ],
-      "duration_ms": 160866,
-      "name": "Seguir Viviendo Sin Tu Amor",
-      "url": "https://open.spotify.com/track/2qBirMakpTdz9ymxrZEyzg"
-    },
-    {
-      "added_at": "2023-11-24 03:00:00",
-      "album": {
         "name": "Simplemente",
         "url": "https://open.spotify.com/album/0DEAl6Dhwr8bIITWGVQR2Y"
       },
@@ -135,6 +119,22 @@
       "duration_ms": 342520,
       "name": "Triste canci\u00f3n",
       "url": "https://open.spotify.com/track/11dn3mAagE0hOvd35rBNeV"
+    },
+    {
+      "added_at": "2023-11-24 03:00:00",
+      "album": {
+        "name": "Peluson Of Milk",
+        "url": "https://open.spotify.com/album/0sEqp7Del2dp8HmXE8Geqv"
+      },
+      "artists": [
+        {
+          "name": "Luis Alberto Spinetta",
+          "url": "https://open.spotify.com/artist/1MuQ2m2tg7naeRGAOxYZer"
+        }
+      ],
+      "duration_ms": 160866,
+      "name": "Seguir Viviendo Sin Tu Amor",
+      "url": "https://open.spotify.com/track/2qBirMakpTdz9ymxrZEyzg"
     },
     {
       "added_at": "2023-11-24 03:00:00",
@@ -255,18 +255,18 @@
     {
       "added_at": "2023-11-24 03:00:00",
       "album": {
-        "name": "Armando Camale\u00f3n",
-        "url": "https://open.spotify.com/album/1d8IGsUrIw7cXqFcwUM5pP"
+        "name": "\u00a1Bang! \u00a1Bang!... Est\u00e1s Liquidado",
+        "url": "https://open.spotify.com/album/07hue2DRapyJHxGJBROTYb"
       },
       "artists": [
         {
-          "name": "Los Tipitos",
-          "url": "https://open.spotify.com/artist/1SykQGBiBwkQ1fcGpJ1BJt"
+          "name": "Patricio Rey y sus Redonditos de Ricota",
+          "url": "https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ"
         }
       ],
-      "duration_ms": 237546,
-      "name": "Campanas en la Noche",
-      "url": "https://open.spotify.com/track/0C9V5jMElp7laZZdsCHufD"
+      "duration_ms": 176173,
+      "name": "Esa Estrella Era Mi Lujo",
+      "url": "https://open.spotify.com/track/5exsngywf8qMS6f00gKVWY"
     },
     {
       "added_at": "2023-11-24 03:00:00",
@@ -287,18 +287,18 @@
     {
       "added_at": "2023-11-24 03:00:00",
       "album": {
-        "name": "\u00a1Bang! \u00a1Bang!... Est\u00e1s Liquidado",
-        "url": "https://open.spotify.com/album/07hue2DRapyJHxGJBROTYb"
+        "name": "Armando Camale\u00f3n",
+        "url": "https://open.spotify.com/album/1d8IGsUrIw7cXqFcwUM5pP"
       },
       "artists": [
         {
-          "name": "Patricio Rey y sus Redonditos de Ricota",
-          "url": "https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ"
+          "name": "Los Tipitos",
+          "url": "https://open.spotify.com/artist/1SykQGBiBwkQ1fcGpJ1BJt"
         }
       ],
-      "duration_ms": 176173,
-      "name": "Esa Estrella Era Mi Lujo",
-      "url": "https://open.spotify.com/track/5exsngywf8qMS6f00gKVWY"
+      "duration_ms": 237546,
+      "name": "Campanas en la Noche",
+      "url": "https://open.spotify.com/track/0C9V5jMElp7laZZdsCHufD"
     },
     {
       "added_at": "2023-11-24 03:00:00",
@@ -451,18 +451,22 @@
     {
       "added_at": "2023-11-24 03:00:00",
       "album": {
-        "name": "Artaud",
-        "url": "https://open.spotify.com/album/5MJR9j21vjEi4ODxzhvoTA"
+        "name": "Tango 4",
+        "url": "https://open.spotify.com/album/0JTWqpFlJobaZW5V0Y0R5T"
       },
       "artists": [
         {
-          "name": "Pescado Rabioso",
-          "url": "https://open.spotify.com/artist/3q1NXsv9XypOUCJfEatXH9"
+          "name": "Charly Garc\u00eda",
+          "url": "https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo"
+        },
+        {
+          "name": "Pedro Aznar",
+          "url": "https://open.spotify.com/artist/2FFrhWZS9vJsh2UvxYPRr6"
         }
       ],
-      "duration_ms": 204466,
-      "name": "Bajan",
-      "url": "https://open.spotify.com/track/6hmYi0E6EBEmDeztQHaH0C"
+      "duration_ms": 186466,
+      "name": "Tu Amor",
+      "url": "https://open.spotify.com/track/3obYcaXHdTB1EvZE3PVQhd"
     },
     {
       "added_at": "2023-11-24 03:00:00",
@@ -483,22 +487,18 @@
     {
       "added_at": "2023-11-24 03:00:00",
       "album": {
-        "name": "Tango 4",
-        "url": "https://open.spotify.com/album/0JTWqpFlJobaZW5V0Y0R5T"
+        "name": "Artaud",
+        "url": "https://open.spotify.com/album/5MJR9j21vjEi4ODxzhvoTA"
       },
       "artists": [
         {
-          "name": "Charly Garc\u00eda",
-          "url": "https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo"
-        },
-        {
-          "name": "Pedro Aznar",
-          "url": "https://open.spotify.com/artist/2FFrhWZS9vJsh2UvxYPRr6"
+          "name": "Pescado Rabioso",
+          "url": "https://open.spotify.com/artist/3q1NXsv9XypOUCJfEatXH9"
         }
       ],
-      "duration_ms": 186466,
-      "name": "Tu Amor",
-      "url": "https://open.spotify.com/track/3obYcaXHdTB1EvZE3PVQhd"
+      "duration_ms": 204466,
+      "name": "Bajan",
+      "url": "https://open.spotify.com/track/6hmYi0E6EBEmDeztQHaH0C"
     },
     {
       "added_at": "2023-11-24 03:00:00",
@@ -587,6 +587,22 @@
     {
       "added_at": "2023-11-24 03:00:00",
       "album": {
+        "name": "La Hija De La Lagrima",
+        "url": "https://open.spotify.com/album/1ayedQfx32UihcgGBsb8oA"
+      },
+      "artists": [
+        {
+          "name": "Charly Garc\u00eda",
+          "url": "https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo"
+        }
+      ],
+      "duration_ms": 186466,
+      "name": "Chipi-Chipi",
+      "url": "https://open.spotify.com/track/6pCZYiB2ZoLfDuapZbpKl8"
+    },
+    {
+      "added_at": "2023-11-24 03:00:00",
+      "album": {
         "name": "Otro D\u00eda en el Planeta Tierra",
         "url": "https://open.spotify.com/album/4Q2jY2HQPZxGimNjoKFKaC"
       },
@@ -619,22 +635,6 @@
       "duration_ms": 247419,
       "name": "Tan Distintos",
       "url": "https://open.spotify.com/track/5lVxdKsJkQClhBLK7lfurE"
-    },
-    {
-      "added_at": "2023-11-24 03:00:00",
-      "album": {
-        "name": "La Hija De La Lagrima",
-        "url": "https://open.spotify.com/album/1ayedQfx32UihcgGBsb8oA"
-      },
-      "artists": [
-        {
-          "name": "Charly Garc\u00eda",
-          "url": "https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo"
-        }
-      ],
-      "duration_ms": 186466,
-      "name": "Chipi-Chipi",
-      "url": "https://open.spotify.com/track/6pCZYiB2ZoLfDuapZbpKl8"
     },
     {
       "added_at": "2023-11-24 03:00:00",
@@ -799,22 +799,6 @@
     {
       "added_at": "2023-11-24 03:00:00",
       "album": {
-        "name": "Karmagedon",
-        "url": "https://open.spotify.com/album/7BwJSFUMeLoEFyJEXbTLLv"
-      },
-      "artists": [
-        {
-          "name": "Attaque 77",
-          "url": "https://open.spotify.com/artist/5rI6C5mJm6GYXbGHhpHTu9"
-        }
-      ],
-      "duration_ms": 328746,
-      "name": "Chance",
-      "url": "https://open.spotify.com/track/5jU0mt57ZibD3Us55vMs9Y"
-    },
-    {
-      "added_at": "2023-11-24 03:00:00",
-      "album": {
         "name": "Devorador De Corazones",
         "url": "https://open.spotify.com/album/7nJFHb7cLQNlv710wRjbvH"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 178800,
       "name": "Nada Es Igual",
       "url": "https://open.spotify.com/track/3YLIsu2NZxqfEPj4ADA7WX"
+    },
+    {
+      "added_at": "2023-11-24 03:00:00",
+      "album": {
+        "name": "Karmagedon",
+        "url": "https://open.spotify.com/album/7BwJSFUMeLoEFyJEXbTLLv"
+      },
+      "artists": [
+        {
+          "name": "Attaque 77",
+          "url": "https://open.spotify.com/artist/5rI6C5mJm6GYXbGHhpHTu9"
+        }
+      ],
+      "duration_ms": 328746,
+      "name": "Chance",
+      "url": "https://open.spotify.com/track/5jU0mt57ZibD3Us55vMs9Y"
     },
     {
       "added_at": "2023-11-24 03:00:00",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2023-11-24 03:00:00",
       "album": {
-        "name": "La Trampa",
-        "url": "https://open.spotify.com/album/1LOIcSJvLUkmJlqvxdzVC3"
-      },
-      "artists": [
-        {
-          "name": "Koino Yokan",
-          "url": "https://open.spotify.com/artist/31kgZWvoPhxDcTKgVbgi3J"
-        }
-      ],
-      "duration_ms": 216184,
-      "name": "La Trampa",
-      "url": "https://open.spotify.com/track/5uD1CL09esqtKnRx6oZeqm"
-    },
-    {
-      "added_at": "2023-11-24 03:00:00",
-      "album": {
         "name": "Intemperie",
         "url": "https://open.spotify.com/album/0vW5os63sQZKBtIxsqFx9f"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 222706,
       "name": "Olivia",
       "url": "https://open.spotify.com/track/7aMBK1r16NAACeiJHsb9cf"
+    },
+    {
+      "added_at": "2023-11-24 03:00:00",
+      "album": {
+        "name": "La Trampa",
+        "url": "https://open.spotify.com/album/1LOIcSJvLUkmJlqvxdzVC3"
+      },
+      "artists": [
+        {
+          "name": "Koino Yokan",
+          "url": "https://open.spotify.com/artist/31kgZWvoPhxDcTKgVbgi3J"
+        }
+      ],
+      "duration_ms": 216184,
+      "name": "La Trampa",
+      "url": "https://open.spotify.com/track/5uD1CL09esqtKnRx6oZeqm"
     },
     {
       "added_at": "2023-11-24 03:00:00",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2023-11-24 03:00:00",
       "album": {
-        "name": "Pensamientos",
-        "url": "https://open.spotify.com/album/2RYIfoNF29kFoR60jOpaHf"
-      },
-      "artists": [
-        {
-          "name": "Airbag",
-          "url": "https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr"
-        }
-      ],
-      "duration_ms": 233839,
-      "name": "Pensamientos",
-      "url": "https://open.spotify.com/track/1daUWaMsFC5RM4HKydKJoG"
-    },
-    {
-      "added_at": "2023-11-24 03:00:00",
-      "album": {
         "name": "Serie Oro",
         "url": "https://open.spotify.com/album/0wys34onwdNHLCTZWLjLt8"
       },
@@ -1383,6 +1367,22 @@
       "duration_ms": 313693,
       "name": "\u00bfQu\u00e9 Ves?",
       "url": "https://open.spotify.com/track/5lHCIbpRu6P02qggxYjaDq"
+    },
+    {
+      "added_at": "2023-11-24 03:00:00",
+      "album": {
+        "name": "Pensamientos",
+        "url": "https://open.spotify.com/album/2RYIfoNF29kFoR60jOpaHf"
+      },
+      "artists": [
+        {
+          "name": "Airbag",
+          "url": "https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr"
+        }
+      ],
+      "duration_ms": 233839,
+      "name": "Pensamientos",
+      "url": "https://open.spotify.com/track/1daUWaMsFC5RM4HKydKJoG"
     },
     {
       "added_at": "2023-11-24 03:00:00",
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2023-11-24 03:00:00",
       "album": {
-        "name": "La Canci\u00f3n que Peg\u00f3 en el Palo",
-        "url": "https://open.spotify.com/album/3XzxczDjDX13dF9Jspa9OQ"
-      },
-      "artists": [
-        {
-          "name": "Antonio Birabent",
-          "url": "https://open.spotify.com/artist/66DfDCITtbXcmQnQfOMPqZ"
-        }
-      ],
-      "duration_ms": 185590,
-      "name": "La Canci\u00f3n que Peg\u00f3 en el Palo",
-      "url": "https://open.spotify.com/track/22vZWcv2TDPn0qocJgbvVj"
-    },
-    {
-      "added_at": "2023-11-24 03:00:00",
-      "album": {
         "name": "Todo el d\u00eda M\u00daSICA",
         "url": "https://open.spotify.com/album/6h6cdHzP4xPvbnj5TKBwan"
       },
@@ -1639,6 +1623,22 @@
       "duration_ms": 336360,
       "name": "Balada Del Diablo y La Muerte",
       "url": "https://open.spotify.com/track/2eaGcVlo52WljP0gxl20zC"
+    },
+    {
+      "added_at": "2023-11-24 03:00:00",
+      "album": {
+        "name": "La Canci\u00f3n que Peg\u00f3 en el Palo",
+        "url": "https://open.spotify.com/album/3XzxczDjDX13dF9Jspa9OQ"
+      },
+      "artists": [
+        {
+          "name": "Antonio Birabent",
+          "url": "https://open.spotify.com/artist/66DfDCITtbXcmQnQfOMPqZ"
+        }
+      ],
+      "duration_ms": 185590,
+      "name": "La Canci\u00f3n que Peg\u00f3 en el Palo",
+      "url": "https://open.spotify.com/track/22vZWcv2TDPn0qocJgbvVj"
     },
     {
       "added_at": "2023-11-24 03:00:00",

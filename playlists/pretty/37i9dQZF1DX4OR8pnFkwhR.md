@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 
 > Spotifyが注目するニューカマー・プレイリスト。Cover: Tele
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,979 likes - 80 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,997 likes - 80 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 | 79 | [あなたへのおすすめ\(A\-bug Remix\)](https://open.spotify.com/track/1FA49CNEIxQS8Kv6Qw0v71) | [Uilou](https://open.spotify.com/artist/3CdEu2bSpVDTmpSMWqFKCL), [A\-bug](https://open.spotify.com/artist/5kDZSgsJllCJAkgTiFsOJT) | [あなたへのおすすめ\(A\-bug Remix\)](https://open.spotify.com/album/0epGDt5NBxIiSV4Z8i5Fnh) | 4:05 |
 | 80 | [オープンエンド](https://open.spotify.com/track/69wC7CS0O12zmn0GYP31aR) | [家主](https://open.spotify.com/artist/2rLK1nmuxeVG9mtZMWf3GB) | [オープンエンド](https://open.spotify.com/album/08GxJarYWyPK3qic88we7u) | 5:06 |
 
-Snapshot ID: `MCw2MDkzMWRhYjUwNjc1YzJlYzk0OTQwZjljZTFhY2IwYjk2N2QxMDA4`
+Snapshot ID: `MCw2YTM3Mzc1ODY3ODk3NzU0MzFlYTMyMzRiZWNiNTc3MzkyZTZmZGJi`

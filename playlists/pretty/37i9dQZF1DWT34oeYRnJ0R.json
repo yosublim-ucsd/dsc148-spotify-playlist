@@ -1,12 +1,12 @@
 {
   "description": "Just vibes. Cover: Farruko, La Factoria & Eddy Lover. ",
-  "num_followers": 690210,
+  "num_followers": 690200,
   "original_name": "Vibras",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZDAzNmU2ZDUwNWQzOTFjZWI2ZmViZGNjNGFjY2Y5MWZlOTI5YTYw",
+  "snapshot_id": "MCxkMjliN2Q2MjMxNzBhZTJiNWM4Yjg3NGUxNmEzNGQ3OWQ0ZjVmNDVk",
   "tracks": [
     {
       "added_at": "2023-11-17 16:14:25",
@@ -1295,30 +1295,6 @@
     {
       "added_at": "2023-11-17 16:14:25",
       "album": {
-        "name": "DEKKOLETERA 333",
-        "url": "https://open.spotify.com/album/12gXwHN7MFHNc48utTmuGM"
-      },
-      "artists": [
-        {
-          "name": "DEKKO",
-          "url": "https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE"
-        },
-        {
-          "name": "Totoy El Frio",
-          "url": "https://open.spotify.com/artist/5IYRfypwG9BDDh5ZRPI80z"
-        },
-        {
-          "name": "Montano",
-          "url": "https://open.spotify.com/artist/3LlWsXsjIJmaKmPaB9GIyH"
-        }
-      ],
-      "duration_ms": 191561,
-      "name": "No Te Creas Tanto",
-      "url": "https://open.spotify.com/track/3lTqxHwO6NqyGZhOxhWFvV"
-    },
-    {
-      "added_at": "2023-11-17 16:14:25",
-      "album": {
         "name": "Bonita",
         "url": "https://open.spotify.com/album/5S7g9lFAwX5rUAM2I4idTS"
       },
@@ -1339,6 +1315,30 @@
       "duration_ms": 250082,
       "name": "Bonita",
       "url": "https://open.spotify.com/track/7p5s4J9dNNYpZdAgJIOH6Z"
+    },
+    {
+      "added_at": "2023-11-17 16:14:25",
+      "album": {
+        "name": "DEKKOLETERA 333",
+        "url": "https://open.spotify.com/album/12gXwHN7MFHNc48utTmuGM"
+      },
+      "artists": [
+        {
+          "name": "DEKKO",
+          "url": "https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE"
+        },
+        {
+          "name": "Totoy El Frio",
+          "url": "https://open.spotify.com/artist/5IYRfypwG9BDDh5ZRPI80z"
+        },
+        {
+          "name": "Montano",
+          "url": "https://open.spotify.com/artist/3LlWsXsjIJmaKmPaB9GIyH"
+        }
+      ],
+      "duration_ms": 191561,
+      "name": "No Te Creas Tanto",
+      "url": "https://open.spotify.com/track/3lTqxHwO6NqyGZhOxhWFvV"
     },
     {
       "added_at": "2023-11-17 16:14:25",
@@ -1407,6 +1407,22 @@
     {
       "added_at": "2023-11-17 16:14:25",
       "album": {
+        "name": "LA CANCI\u00d3N",
+        "url": "https://open.spotify.com/album/775HIr3RQ0ZfqLVrHr69aI"
+      },
+      "artists": [
+        {
+          "name": "maye",
+          "url": "https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt"
+        }
+      ],
+      "duration_ms": 212297,
+      "name": "LA CANCI\u00d3N",
+      "url": "https://open.spotify.com/track/2wIgWVIyA4bzRW6RmdXMoI"
+    },
+    {
+      "added_at": "2023-11-17 16:14:25",
+      "album": {
         "name": "CHRONOS",
         "url": "https://open.spotify.com/album/39ZCda6u6x5gq6HkNA3D1n"
       },
@@ -1423,22 +1439,6 @@
       "duration_ms": 248703,
       "name": "CHRONOS",
       "url": "https://open.spotify.com/track/29eomS83SDqGWkRgdvOUFC"
-    },
-    {
-      "added_at": "2023-11-17 16:14:25",
-      "album": {
-        "name": "LA CANCI\u00d3N",
-        "url": "https://open.spotify.com/album/775HIr3RQ0ZfqLVrHr69aI"
-      },
-      "artists": [
-        {
-          "name": "maye",
-          "url": "https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt"
-        }
-      ],
-      "duration_ms": 212297,
-      "name": "LA CANCI\u00d3N",
-      "url": "https://open.spotify.com/track/2wIgWVIyA4bzRW6RmdXMoI"
     },
     {
       "added_at": "2023-11-17 16:14:25",
@@ -1503,6 +1503,22 @@
     {
       "added_at": "2023-11-17 16:14:25",
       "album": {
+        "name": "Amor En Espa\u00f1ol",
+        "url": "https://open.spotify.com/album/1e8k4kAKtcC5GIjfP4JDdR"
+      },
+      "artists": [
+        {
+          "name": "Jesse Baez",
+          "url": "https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3"
+        }
+      ],
+      "duration_ms": 187440,
+      "name": "Monte Carlo",
+      "url": "https://open.spotify.com/track/0vV9YneKNzEEsAxQBFfOzp"
+    },
+    {
+      "added_at": "2023-11-17 16:14:25",
+      "album": {
         "name": "obst\u00e1culo",
         "url": "https://open.spotify.com/album/5jbm9uB1EjIdrSQKWZcori"
       },
@@ -1519,22 +1535,6 @@
       "duration_ms": 135704,
       "name": "obst\u00e1culo",
       "url": "https://open.spotify.com/track/0aNEvtr8iBURNCLr6naHfa"
-    },
-    {
-      "added_at": "2023-11-17 16:14:25",
-      "album": {
-        "name": "Amor En Espa\u00f1ol",
-        "url": "https://open.spotify.com/album/1e8k4kAKtcC5GIjfP4JDdR"
-      },
-      "artists": [
-        {
-          "name": "Jesse Baez",
-          "url": "https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3"
-        }
-      ],
-      "duration_ms": 187440,
-      "name": "Monte Carlo",
-      "url": "https://open.spotify.com/track/0vV9YneKNzEEsAxQBFfOzp"
     },
     {
       "added_at": "2023-11-17 16:14:25",
@@ -1619,22 +1619,6 @@
     {
       "added_at": "2023-11-17 16:14:25",
       "album": {
-        "name": "Brindo",
-        "url": "https://open.spotify.com/album/12nEDX9e0eG6qu6056EPU5"
-      },
-      "artists": [
-        {
-          "name": "Rawayana",
-          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
-        }
-      ],
-      "duration_ms": 284492,
-      "name": "Brindo",
-      "url": "https://open.spotify.com/track/3CjxGKDPbeRaO8BLnCddyK"
-    },
-    {
-      "added_at": "2023-11-17 16:14:25",
-      "album": {
         "name": "Otro D\u00eda Lluvioso (with Lenny Tavarez & Becky G feat. Dalex)",
         "url": "https://open.spotify.com/album/0m6bQoUFFfVmty2EsA3XjA"
       },
@@ -1659,6 +1643,22 @@
       "duration_ms": 265280,
       "name": "Otro D\u00eda Lluvioso (with Lenny Tavarez & Becky G feat. Dalex)",
       "url": "https://open.spotify.com/track/1TwSySLk24VxFyly1iqW9h"
+    },
+    {
+      "added_at": "2023-11-17 16:14:25",
+      "album": {
+        "name": "Brindo",
+        "url": "https://open.spotify.com/album/12nEDX9e0eG6qu6056EPU5"
+      },
+      "artists": [
+        {
+          "name": "Rawayana",
+          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
+        }
+      ],
+      "duration_ms": 284492,
+      "name": "Brindo",
+      "url": "https://open.spotify.com/track/3CjxGKDPbeRaO8BLnCddyK"
     },
     {
       "added_at": "2023-11-17 16:14:25",
@@ -1807,6 +1807,22 @@
     {
       "added_at": "2023-11-17 16:14:25",
       "album": {
+        "name": "Trickstar",
+        "url": "https://open.spotify.com/album/3gRXyOU8EUuqwCbOqxSBaH"
+      },
+      "artists": [
+        {
+          "name": "Bb trickz",
+          "url": "https://open.spotify.com/artist/5QS9NAK4AgJPTcRe472pZA"
+        }
+      ],
+      "duration_ms": 87000,
+      "name": "Dices que",
+      "url": "https://open.spotify.com/track/1y3UT74qi3hgzBygSpMkVi"
+    },
+    {
+      "added_at": "2023-11-17 16:14:25",
+      "album": {
         "name": "Mood (Remix)",
         "url": "https://open.spotify.com/album/2yNM7Di0fiM4T4uRSoiJ1L"
       },
@@ -1843,22 +1859,6 @@
       "duration_ms": 192669,
       "name": "Bubbaloo",
       "url": "https://open.spotify.com/track/3HRk0M1NNFc1jDtfOTmG9N"
-    },
-    {
-      "added_at": "2023-11-17 16:14:25",
-      "album": {
-        "name": "Trickstar",
-        "url": "https://open.spotify.com/album/3gRXyOU8EUuqwCbOqxSBaH"
-      },
-      "artists": [
-        {
-          "name": "Bb trickz",
-          "url": "https://open.spotify.com/artist/5QS9NAK4AgJPTcRe472pZA"
-        }
-      ],
-      "duration_ms": 87000,
-      "name": "Dices que",
-      "url": "https://open.spotify.com/track/1y3UT74qi3hgzBygSpMkVi"
     },
     {
       "added_at": "2023-11-17 16:14:25",

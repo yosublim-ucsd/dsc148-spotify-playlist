@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTiKrF1Gb3Cp.md) - [plain]
 
 > Musicaliza tu sesión de videojuegos con estos versos de barrio.
 
-[Spotify](https://open.spotify.com/user/spotify) - 187,513 likes - 100 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 187,673 likes - 100 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTiKrF1Gb3Cp.md) - [plain]
 | 70 | [Siempre Peligroso \(feat\. Fermin IV Caballero\)](https://open.spotify.com/track/1hSJnfkEqbGF5afz5aqKqi) | [Cypress Hill](https://open.spotify.com/artist/4P0dddbxPil35MNN9G2MEX), [Fermin IV Caballero](https://open.spotify.com/artist/2ADe1weFY6flwz9LoSDcy3) | [Los Grandes Éxitos En Español \(Spanish Greatest Hits\)](https://open.spotify.com/album/7u6yoSRjIBM2EI52DJLMkZ) | 3:57 |
 | 71 | [Fantasía Espacial](https://open.spotify.com/track/7sw0eBhRmEDTvU22MYEjoG) | [Millonario](https://open.spotify.com/artist/2N2aJ1SXQxMkhHD8C6fhYD) | [Fantasía Espacial](https://open.spotify.com/album/1LABMIShNILlvmaGh8SwJh) | 3:15 |
 | 72 | [Ni Muy Muy Ni Tan Tan](https://open.spotify.com/track/0IQ0mB0s9OB1opgTEniuf2) | [Under Side 821](https://open.spotify.com/artist/2NtN73hhhgFt2NmbBOlFz1) | [Nosotros Somos la Under Side Karnal](https://open.spotify.com/album/3EhmA2L1zzqE5ibQaoyNnL) | 5:08 |
-| 73 | [La Feria Drogas y Muerte](https://open.spotify.com/track/3J1aXbNrnGsSmgIJ5Q5zzN) | [Remik Gonzalez](https://open.spotify.com/artist/4Hzj6dfl1y5x5TzCSsvLB6), [TREN LOKOTE](https://open.spotify.com/artist/6DjBv6gyR1HLsvwGUOD5V9) | [High Con Class XIII](https://open.spotify.com/album/5PZxScqkkCa4bjdZcq9fuh) | 4:12 |
-| 74 | [Noche De Lokera](https://open.spotify.com/track/2AE2CB3jFINTfjhlOWgDx9) | [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A) | [Hits Visuales, Vol\. 1](https://open.spotify.com/album/2IHqRzkYGxiiVSZ8mdKnok) | 4:24 |
+| 73 | [Noche De Lokera](https://open.spotify.com/track/2AE2CB3jFINTfjhlOWgDx9) | [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A) | [Hits Visuales, Vol\. 1](https://open.spotify.com/album/2IHqRzkYGxiiVSZ8mdKnok) | 4:24 |
+| 74 | [La Feria Drogas y Muerte](https://open.spotify.com/track/3J1aXbNrnGsSmgIJ5Q5zzN) | [Remik Gonzalez](https://open.spotify.com/artist/4Hzj6dfl1y5x5TzCSsvLB6), [TREN LOKOTE](https://open.spotify.com/artist/6DjBv6gyR1HLsvwGUOD5V9) | [High Con Class XIII](https://open.spotify.com/album/5PZxScqkkCa4bjdZcq9fuh) | 4:12 |
 | 75 | [Gran Vida](https://open.spotify.com/track/2IvmWEs5kz7l8uTUsH2Qox) | [Alemán](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE) | [Huracán](https://open.spotify.com/album/1yM29w2suYVpMursUbXQMi) | 3:27 |
 | 76 | [Llévame](https://open.spotify.com/track/0eduCnvSAPlph82xkBOGsY) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2) | [Mundo](https://open.spotify.com/album/1ZSEd6KC03jopwyB22gaK9) | 3:01 |
 | 77 | [Ileso](https://open.spotify.com/track/15cuGrCRcbTwSA3yVTGLnq) | [Control Machete](https://open.spotify.com/artist/628gUkswCfCS1hIOOHmIpK) | [Artilleria Pesada, Presenta:](https://open.spotify.com/album/4EK8c4DmpA3uhyKt6P2B2v) | 6:21 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTiKrF1Gb3Cp.md) - [plain]
 | 99 | [Pa Los Barrios Y Las Clikas](https://open.spotify.com/track/722FnPcAf2KnbXzdokciiz) | [El Pinche Mara](https://open.spotify.com/artist/3L7OHIT4kfdcDSnnGM0TKN), [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A), [TREN LOKOTE](https://open.spotify.com/artist/6DjBv6gyR1HLsvwGUOD5V9) | [Pa los Barrios y las Clikas](https://open.spotify.com/album/7LfNHO58gshGnniObPb4L1) | 3:47 |
 | 100 | [Al Millón](https://open.spotify.com/track/1ITxkijE0eZUgesUI4Lr3Z) | [El Burger](https://open.spotify.com/artist/55sUDNma3qznDILZgydRHT), [Razeth](https://open.spotify.com/artist/77rxkeN6QawsVfX7J4dm0n), [Alann Mora](https://open.spotify.com/artist/2tYG2qpxONKldJ39D27Zbb) | [Al Millón](https://open.spotify.com/album/4P9XxgcqLfqBrNLHn1RTL0) | 2:18 |
 
-Snapshot ID: `MCwxY2I4NTQ4MTk3YjAwMzg0ODI3ODliMTc4ZmRjZDkzNmUwMmIzYTg2`
+Snapshot ID: `MCxlOTQ4ZTNlNjdhMDYwZDc4NTc0Y2I5M2JlNzJiNDdiODkwY2M1OGVk`

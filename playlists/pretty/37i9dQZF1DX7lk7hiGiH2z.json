@@ -1,12 +1,12 @@
 {
   "description": "Zeit f\u00fcr Pl\u00e4tzchen backen, Schlittschuhlaufen und Schneemann bauen \ud83c\udf6a\u26f8\ufe0f\u2603\ufe0f",
-  "num_followers": 31488,
+  "num_followers": 31598,
   "original_name": "Familienzeit: Winter",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ODQxYjEzOGQzNmE3MzQyOTk3YTRiMDRhNmE2ZjA5MWI2YWY0MWEz",
+  "snapshot_id": "MCxjYWYwODlmZDQ1OTBhMDM3MzRlZDEzZWU0YjZiNzQyMjU2N2ZkNmQ5",
   "tracks": [
     {
       "added_at": "2023-11-22 16:45:00",
@@ -319,22 +319,6 @@
     {
       "added_at": "2023-11-22 16:45:00",
       "album": {
-        "name": "Alle Jahre wieder",
-        "url": "https://open.spotify.com/album/5zWifkkpJ1HuwGAQHCSy91"
-      },
-      "artists": [
-        {
-          "name": "DIKKA",
-          "url": "https://open.spotify.com/artist/79BUGg8I39oq0mSeIetvob"
-        }
-      ],
-      "duration_ms": 157333,
-      "name": "Alle Jahre wieder",
-      "url": "https://open.spotify.com/track/1rynQ6uOgOXUjiHzKBqzOG"
-    },
-    {
-      "added_at": "2023-11-22 16:45:00",
-      "album": {
         "name": "Giraffenaffen 4 - Winterzeit",
         "url": "https://open.spotify.com/album/4NA5h5vfjAStxzWPqORxsl"
       },
@@ -355,22 +339,6 @@
     {
       "added_at": "2023-11-22 16:45:00",
       "album": {
-        "name": "KIDZ BOP Christmas",
-        "url": "https://open.spotify.com/album/7GJVFlUmqCb71CJRDzm5E5"
-      },
-      "artists": [
-        {
-          "name": "Kidz Bop Kids",
-          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
-        }
-      ],
-      "duration_ms": 140666,
-      "name": "Have A Holly Jolly Christmas",
-      "url": "https://open.spotify.com/track/7b0KnScryOgaV9uKTWpeUm"
-    },
-    {
-      "added_at": "2023-11-22 16:45:00",
-      "album": {
         "name": "Weihnachtskeksrakete",
         "url": "https://open.spotify.com/album/34ra71Y7hPwBvbwe1kse7o"
       },
@@ -383,6 +351,22 @@
       "duration_ms": 135903,
       "name": "Weihnachtskeksrakete",
       "url": "https://open.spotify.com/track/7hyisV0kr3uhzNcgJef3aO"
+    },
+    {
+      "added_at": "2023-11-22 16:45:00",
+      "album": {
+        "name": "KIDZ BOP Christmas",
+        "url": "https://open.spotify.com/album/7GJVFlUmqCb71CJRDzm5E5"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "duration_ms": 140666,
+      "name": "Have A Holly Jolly Christmas",
+      "url": "https://open.spotify.com/track/7b0KnScryOgaV9uKTWpeUm"
     },
     {
       "added_at": "2023-11-22 16:45:00",
@@ -403,6 +387,22 @@
       "duration_ms": 205226,
       "name": "Leise rieselt der Schnee",
       "url": "https://open.spotify.com/track/5ElQqxkOJVS1sGSw7Xycsm"
+    },
+    {
+      "added_at": "2023-11-22 16:45:00",
+      "album": {
+        "name": "Alle Jahre wieder",
+        "url": "https://open.spotify.com/album/5zWifkkpJ1HuwGAQHCSy91"
+      },
+      "artists": [
+        {
+          "name": "DIKKA",
+          "url": "https://open.spotify.com/artist/79BUGg8I39oq0mSeIetvob"
+        }
+      ],
+      "duration_ms": 157333,
+      "name": "Alle Jahre wieder",
+      "url": "https://open.spotify.com/track/1rynQ6uOgOXUjiHzKBqzOG"
     },
     {
       "added_at": "2023-11-22 16:45:00",
@@ -563,22 +563,6 @@
     {
       "added_at": "2023-11-22 16:45:00",
       "album": {
-        "name": "Der M\u00f6hrennasen-Dieb (Das kleine Kaninchen)",
-        "url": "https://open.spotify.com/album/5c0mWyYiR5b4QYd3JJHNoE"
-      },
-      "artists": [
-        {
-          "name": "Libatiba",
-          "url": "https://open.spotify.com/artist/3NEU7lGgdawG62CVqUp7kX"
-        }
-      ],
-      "duration_ms": 158124,
-      "name": "Der M\u00f6hrennasen-Dieb (Das kleine Kaninchen)",
-      "url": "https://open.spotify.com/track/1FE1QAZadTxlzYznstQthF"
-    },
-    {
-      "added_at": "2023-11-22 16:45:00",
-      "album": {
         "name": "Endlich Winter!",
         "url": "https://open.spotify.com/album/09wNwzLZ3ahuBq3x0XyQ6o"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 201893,
       "name": "Schneeballschlacht",
       "url": "https://open.spotify.com/track/10dVgwpVEyUqXLhxn9eFzR"
+    },
+    {
+      "added_at": "2023-11-22 16:45:00",
+      "album": {
+        "name": "Der M\u00f6hrennasen-Dieb (Das kleine Kaninchen)",
+        "url": "https://open.spotify.com/album/5c0mWyYiR5b4QYd3JJHNoE"
+      },
+      "artists": [
+        {
+          "name": "Libatiba",
+          "url": "https://open.spotify.com/artist/3NEU7lGgdawG62CVqUp7kX"
+        }
+      ],
+      "duration_ms": 158124,
+      "name": "Der M\u00f6hrennasen-Dieb (Das kleine Kaninchen)",
+      "url": "https://open.spotify.com/track/1FE1QAZadTxlzYznstQthF"
     },
     {
       "added_at": "2023-11-22 16:45:00",
@@ -695,22 +695,6 @@
     {
       "added_at": "2023-11-22 16:45:00",
       "album": {
-        "name": "Kleiner Eisb\u00e4r: Rettet die Rentiere",
-        "url": "https://open.spotify.com/album/5l8eXvO70uONJiwfrCz20L"
-      },
-      "artists": [
-        {
-          "name": "Kleiner Eisb\u00e4r",
-          "url": "https://open.spotify.com/artist/4Oym9ShOwhMXks25JifOv6"
-        }
-      ],
-      "duration_ms": 237826,
-      "name": "Kleiner Eisb\u00e4r, wohin f\u00e4hrst du?",
-      "url": "https://open.spotify.com/track/1AI8P6wAShygMS4cGNK7Y8"
-    },
-    {
-      "added_at": "2023-11-22 16:45:00",
-      "album": {
         "name": "Winterzauberlieder",
         "url": "https://open.spotify.com/album/5Xhwclz0kD81yrmXZxOpFw"
       },
@@ -727,22 +711,34 @@
     {
       "added_at": "2023-11-22 16:45:00",
       "album": {
-        "name": "Unter meinem Bett. Das Weihnachtsalbum",
-        "url": "https://open.spotify.com/album/3AQbRqNj7LdKICSmwIrDQu"
+        "name": "Kleiner Eisb\u00e4r: Rettet die Rentiere",
+        "url": "https://open.spotify.com/album/5l8eXvO70uONJiwfrCz20L"
       },
       "artists": [
         {
-          "name": "Deniz & Ove",
-          "url": "https://open.spotify.com/artist/6mExL2mzC5cf1JsQz0MA9X"
-        },
-        {
-          "name": "WIM",
-          "url": "https://open.spotify.com/artist/5jCFF91eZDDh1NS9gfQW4F"
+          "name": "Kleiner Eisb\u00e4r",
+          "url": "https://open.spotify.com/artist/4Oym9ShOwhMXks25JifOv6"
         }
       ],
-      "duration_ms": 191866,
-      "name": "Ich will Schnee",
-      "url": "https://open.spotify.com/track/45c5OmNGQCZd0c6RIn9H61"
+      "duration_ms": 237826,
+      "name": "Kleiner Eisb\u00e4r, wohin f\u00e4hrst du?",
+      "url": "https://open.spotify.com/track/1AI8P6wAShygMS4cGNK7Y8"
+    },
+    {
+      "added_at": "2023-11-22 16:45:00",
+      "album": {
+        "name": "Es dauert nicht mehr lang",
+        "url": "https://open.spotify.com/album/254SdsCj6CyNi9wkABoonn"
+      },
+      "artists": [
+        {
+          "name": "Libatiba",
+          "url": "https://open.spotify.com/artist/3NEU7lGgdawG62CVqUp7kX"
+        }
+      ],
+      "duration_ms": 151512,
+      "name": "Es dauert nicht mehr lang",
+      "url": "https://open.spotify.com/track/7yy6vkKP5JogHDYEidLFaN"
     },
     {
       "added_at": "2023-11-22 16:45:00",
@@ -763,18 +759,22 @@
     {
       "added_at": "2023-11-22 16:45:00",
       "album": {
-        "name": "Es dauert nicht mehr lang",
-        "url": "https://open.spotify.com/album/254SdsCj6CyNi9wkABoonn"
+        "name": "Unter meinem Bett. Das Weihnachtsalbum",
+        "url": "https://open.spotify.com/album/3AQbRqNj7LdKICSmwIrDQu"
       },
       "artists": [
         {
-          "name": "Libatiba",
-          "url": "https://open.spotify.com/artist/3NEU7lGgdawG62CVqUp7kX"
+          "name": "Deniz & Ove",
+          "url": "https://open.spotify.com/artist/6mExL2mzC5cf1JsQz0MA9X"
+        },
+        {
+          "name": "WIM",
+          "url": "https://open.spotify.com/artist/5jCFF91eZDDh1NS9gfQW4F"
         }
       ],
-      "duration_ms": 151512,
-      "name": "Es dauert nicht mehr lang",
-      "url": "https://open.spotify.com/track/7yy6vkKP5JogHDYEidLFaN"
+      "duration_ms": 191866,
+      "name": "Ich will Schnee",
+      "url": "https://open.spotify.com/track/45c5OmNGQCZd0c6RIn9H61"
     },
     {
       "added_at": "2023-11-22 16:45:00",
@@ -875,22 +875,6 @@
     {
       "added_at": "2023-11-22 16:45:00",
       "album": {
-        "name": "Wir sind die Wichtel",
-        "url": "https://open.spotify.com/album/5EHR8zntKL9n3zLAoObvSq"
-      },
-      "artists": [
-        {
-          "name": "Simon Sagt",
-          "url": "https://open.spotify.com/artist/4B1AsCllmZk9SVd2OUyBRr"
-        }
-      ],
-      "duration_ms": 169627,
-      "name": "Wir sind die Wichtel",
-      "url": "https://open.spotify.com/track/5Z4oTHTkzt1hDD5DO0jzB0"
-    },
-    {
-      "added_at": "2023-11-22 16:45:00",
-      "album": {
         "name": "Unter meinem Bett. Das Weihnachtsalbum",
         "url": "https://open.spotify.com/album/3AQbRqNj7LdKICSmwIrDQu"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 174760,
       "name": "Schnee im Gefrierfach",
       "url": "https://open.spotify.com/track/3yBqtPvqa227XC2jFzPz17"
+    },
+    {
+      "added_at": "2023-11-22 16:45:00",
+      "album": {
+        "name": "Wir sind die Wichtel",
+        "url": "https://open.spotify.com/album/5EHR8zntKL9n3zLAoObvSq"
+      },
+      "artists": [
+        {
+          "name": "Simon Sagt",
+          "url": "https://open.spotify.com/artist/4B1AsCllmZk9SVd2OUyBRr"
+        }
+      ],
+      "duration_ms": 169627,
+      "name": "Wir sind die Wichtel",
+      "url": "https://open.spotify.com/track/5Z4oTHTkzt1hDD5DO0jzB0"
     },
     {
       "added_at": "2023-11-22 16:45:00",
@@ -955,18 +955,18 @@
     {
       "added_at": "2023-11-22 16:45:00",
       "album": {
-        "name": "Folge 74 - Benjamin Bl\u00fcmchen singt Weihnachtslieder",
-        "url": "https://open.spotify.com/album/6AVz3QZh2M5qneXF3MyNua"
+        "name": "Endlich Winter!",
+        "url": "https://open.spotify.com/album/09wNwzLZ3ahuBq3x0XyQ6o"
       },
       "artists": [
         {
-          "name": "Benjamin Bl\u00fcmchen",
-          "url": "https://open.spotify.com/artist/1l6d0RIxTL3JytlLGvWzYe"
+          "name": "herrH",
+          "url": "https://open.spotify.com/artist/2weS8n5DrZpok2Wcf9TRsQ"
         }
       ],
-      "duration_ms": 195280,
-      "name": "Weihnachten im Zoo",
-      "url": "https://open.spotify.com/track/3HELc2Q8PkHC4pwYZY8wYn"
+      "duration_ms": 189013,
+      "name": "Morgen kommt der Nikolaus",
+      "url": "https://open.spotify.com/track/3ectmvs9nM45NX4748ZEL5"
     },
     {
       "added_at": "2023-11-22 16:45:00",
@@ -999,18 +999,18 @@
     {
       "added_at": "2023-11-22 16:45:00",
       "album": {
-        "name": "Endlich Winter!",
-        "url": "https://open.spotify.com/album/09wNwzLZ3ahuBq3x0XyQ6o"
+        "name": "Folge 74 - Benjamin Bl\u00fcmchen singt Weihnachtslieder",
+        "url": "https://open.spotify.com/album/6AVz3QZh2M5qneXF3MyNua"
       },
       "artists": [
         {
-          "name": "herrH",
-          "url": "https://open.spotify.com/artist/2weS8n5DrZpok2Wcf9TRsQ"
+          "name": "Benjamin Bl\u00fcmchen",
+          "url": "https://open.spotify.com/artist/1l6d0RIxTL3JytlLGvWzYe"
         }
       ],
-      "duration_ms": 189013,
-      "name": "Morgen kommt der Nikolaus",
-      "url": "https://open.spotify.com/track/3ectmvs9nM45NX4748ZEL5"
+      "duration_ms": 195280,
+      "name": "Weihnachten im Zoo",
+      "url": "https://open.spotify.com/track/3HELc2Q8PkHC4pwYZY8wYn"
     },
     {
       "added_at": "2023-11-22 16:45:00",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2023-11-22 16:45:00",
       "album": {
-        "name": "Weckt den Weihnachtsmann",
-        "url": "https://open.spotify.com/album/5Q8D7jMstKaZrKh6xCc18H"
-      },
-      "artists": [
-        {
-          "name": "Volker Rosin",
-          "url": "https://open.spotify.com/artist/4LDZtk1nfyhIx4bzDDHoBf"
-        }
-      ],
-      "duration_ms": 213600,
-      "name": "Wundersch\u00f6ne Weihnachtszeit",
-      "url": "https://open.spotify.com/track/3eneVHkg8zT9pKjp1fOiJ1"
-    },
-    {
-      "added_at": "2023-11-22 16:45:00",
-      "album": {
         "name": "Summ, Summ, Summ! - Best Of",
         "url": "https://open.spotify.com/album/6zaIi89MZCZeZHpl7lojle"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 161733,
       "name": "Fr\u00f6hliche Weihnacht \u00fcberall",
       "url": "https://open.spotify.com/track/71XOtd7ceMQJ6eGtJQ8UzT"
+    },
+    {
+      "added_at": "2023-11-22 16:45:00",
+      "album": {
+        "name": "Weckt den Weihnachtsmann",
+        "url": "https://open.spotify.com/album/5Q8D7jMstKaZrKh6xCc18H"
+      },
+      "artists": [
+        {
+          "name": "Volker Rosin",
+          "url": "https://open.spotify.com/artist/4LDZtk1nfyhIx4bzDDHoBf"
+        }
+      ],
+      "duration_ms": 213600,
+      "name": "Wundersch\u00f6ne Weihnachtszeit",
+      "url": "https://open.spotify.com/track/3eneVHkg8zT9pKjp1fOiJ1"
     },
     {
       "added_at": "2023-11-22 16:45:00",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2023-11-22 16:45:00",
       "album": {
-        "name": "Unsere sch\u00f6nsten Weihnachtslieder",
-        "url": "https://open.spotify.com/album/1Bs8R1MlRykYywXeH0dEvJ"
-      },
-      "artists": [
-        {
-          "name": "Familie Sonntag",
-          "url": "https://open.spotify.com/artist/34rlWZv8uNVp6YbXJyHLoR"
-        }
-      ],
-      "duration_ms": 211586,
-      "name": "24 T\u00fcrchen",
-      "url": "https://open.spotify.com/track/3BXBI1g61AtNE0xIhJ6ONE"
-    },
-    {
-      "added_at": "2023-11-22 16:45:00",
-      "album": {
         "name": "Summ, Summ, Summ! - Die beliebtesten Weihnachtslieder",
         "url": "https://open.spotify.com/album/6eDDX5gAtuCrsBtRIHpR4q"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 150426,
       "name": "O Tannenbaum",
       "url": "https://open.spotify.com/track/2qgt9DvHOd9Yu4BgUdtZ63"
+    },
+    {
+      "added_at": "2023-11-22 16:45:00",
+      "album": {
+        "name": "Unsere sch\u00f6nsten Weihnachtslieder",
+        "url": "https://open.spotify.com/album/1Bs8R1MlRykYywXeH0dEvJ"
+      },
+      "artists": [
+        {
+          "name": "Familie Sonntag",
+          "url": "https://open.spotify.com/artist/34rlWZv8uNVp6YbXJyHLoR"
+        }
+      ],
+      "duration_ms": 211586,
+      "name": "24 T\u00fcrchen",
+      "url": "https://open.spotify.com/track/3BXBI1g61AtNE0xIhJ6ONE"
     },
     {
       "added_at": "2023-11-22 16:45:00",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2023-11-22 16:45:00",
       "album": {
-        "name": "Eisb\u00e4r-Pinguin Rock",
-        "url": "https://open.spotify.com/album/6hXLzTFy2ZHZYmFnFOe1uB"
-      },
-      "artists": [
-        {
-          "name": "Simone Ludwig",
-          "url": "https://open.spotify.com/artist/18gN8Rna2Zfjt2t4wh8QwI"
-        }
-      ],
-      "duration_ms": 185454,
-      "name": "Eisb\u00e4r-Pinguin Rock",
-      "url": "https://open.spotify.com/track/18eVvbrJHnLSj4shiCB7iT"
-    },
-    {
-      "added_at": "2023-11-22 16:45:00",
-      "album": {
         "name": "Lamettawetter EP",
         "url": "https://open.spotify.com/album/7saMLvIPzyVGjHX5DRWBWZ"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 203794,
       "name": "Wo ist der Schneemann?",
       "url": "https://open.spotify.com/track/72SCIq5HYYugfzSvuAW14M"
+    },
+    {
+      "added_at": "2023-11-22 16:45:00",
+      "album": {
+        "name": "Eisb\u00e4r-Pinguin Rock",
+        "url": "https://open.spotify.com/album/6hXLzTFy2ZHZYmFnFOe1uB"
+      },
+      "artists": [
+        {
+          "name": "Simone Ludwig",
+          "url": "https://open.spotify.com/artist/18gN8Rna2Zfjt2t4wh8QwI"
+        }
+      ],
+      "duration_ms": 185454,
+      "name": "Eisb\u00e4r-Pinguin Rock",
+      "url": "https://open.spotify.com/track/18eVvbrJHnLSj4shiCB7iT"
     },
     {
       "added_at": "2023-11-22 16:45:00",

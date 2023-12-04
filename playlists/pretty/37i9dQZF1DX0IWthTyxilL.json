@@ -1,12 +1,12 @@
 {
   "description": "Sons da floresta para inspirar seus dia ou noite.",
-  "num_followers": 10074,
+  "num_followers": 10092,
   "original_name": "Sons da Floresta",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZDQxMjA0ZWE2NTU1YzhkZDI2ZWY5NDNjOGIzMDYwMDBmZDUwMjM1",
+  "snapshot_id": "MCxiODZkMTA3OWY3MzJiNjFlYTg4ZDZjZjliY2VmMmVjNGUxZTliNGE1",
   "tracks": [
     {
       "added_at": "2023-06-19 12:57:37",
@@ -299,6 +299,22 @@
     {
       "added_at": "2023-06-19 12:57:37",
       "album": {
+        "name": "Fresh Forest",
+        "url": "https://open.spotify.com/album/2HvyUszsRZo8u0f1pca5fm"
+      },
+      "artists": [
+        {
+          "name": "Eskil Hermes",
+          "url": "https://open.spotify.com/artist/4RgayOFOiMm8j5DeeBpXby"
+        }
+      ],
+      "duration_ms": 125573,
+      "name": "Tropical Rainbirds",
+      "url": "https://open.spotify.com/track/18TcUAVl6zWF81ns2ObwdJ"
+    },
+    {
+      "added_at": "2023-06-19 12:57:37",
+      "album": {
         "name": "Nature Sounds",
         "url": "https://open.spotify.com/album/7BeL9OdzLuHh0Mk62zA1CX"
       },
@@ -311,22 +327,6 @@
       "duration_ms": 243919,
       "name": "Summmer Forest",
       "url": "https://open.spotify.com/track/2zWCsaxlGbohARJlNQ5aSM"
-    },
-    {
-      "added_at": "2023-06-19 12:57:37",
-      "album": {
-        "name": "Fresh Forest",
-        "url": "https://open.spotify.com/album/2HvyUszsRZo8u0f1pca5fm"
-      },
-      "artists": [
-        {
-          "name": "Eskil Hermes",
-          "url": "https://open.spotify.com/artist/4RgayOFOiMm8j5DeeBpXby"
-        }
-      ],
-      "duration_ms": 157524,
-      "name": "Fresh Forest",
-      "url": "https://open.spotify.com/track/1EnpczqhePEswNjzfyirRV"
     },
     {
       "added_at": "2023-06-19 12:57:37",
@@ -379,6 +379,22 @@
     {
       "added_at": "2023-06-19 12:57:37",
       "album": {
+        "name": "Fresh Forest",
+        "url": "https://open.spotify.com/album/2HvyUszsRZo8u0f1pca5fm"
+      },
+      "artists": [
+        {
+          "name": "Eskil Hermes",
+          "url": "https://open.spotify.com/artist/4RgayOFOiMm8j5DeeBpXby"
+        }
+      ],
+      "duration_ms": 157524,
+      "name": "Fresh Forest",
+      "url": "https://open.spotify.com/track/1EnpczqhePEswNjzfyirRV"
+    },
+    {
+      "added_at": "2023-06-19 12:57:37",
+      "album": {
         "name": "Sounds of Mount Desert Island",
         "url": "https://open.spotify.com/album/2pwkOeetQXNKjKrXIDu2JB"
       },
@@ -391,22 +407,6 @@
       "duration_ms": 204186,
       "name": "Seal Cove Pond 10/30 8am",
       "url": "https://open.spotify.com/track/5sT358T58i5g3nbJHZ1U6F"
-    },
-    {
-      "added_at": "2023-06-19 12:57:37",
-      "album": {
-        "name": "Nature Sounds",
-        "url": "https://open.spotify.com/album/7BeL9OdzLuHh0Mk62zA1CX"
-      },
-      "artists": [
-        {
-          "name": "Nature Recordings",
-          "url": "https://open.spotify.com/artist/4xE3NbWDeC7BEIlzQIjG5H"
-        }
-      ],
-      "duration_ms": 232000,
-      "name": "Birds And Breeze",
-      "url": "https://open.spotify.com/track/5vRvzOHbx40CCMkmSC28fY"
     },
     {
       "added_at": "2023-06-19 12:57:37",
@@ -459,18 +459,18 @@
     {
       "added_at": "2023-06-19 12:57:37",
       "album": {
-        "name": "Fresh Forest",
-        "url": "https://open.spotify.com/album/2HvyUszsRZo8u0f1pca5fm"
+        "name": "Nature Sounds",
+        "url": "https://open.spotify.com/album/7BeL9OdzLuHh0Mk62zA1CX"
       },
       "artists": [
         {
-          "name": "Eskil Hermes",
-          "url": "https://open.spotify.com/artist/4RgayOFOiMm8j5DeeBpXby"
+          "name": "Nature Recordings",
+          "url": "https://open.spotify.com/artist/4xE3NbWDeC7BEIlzQIjG5H"
         }
       ],
-      "duration_ms": 125573,
-      "name": "Tropical Rainbirds",
-      "url": "https://open.spotify.com/track/18TcUAVl6zWF81ns2ObwdJ"
+      "duration_ms": 232000,
+      "name": "Birds And Breeze",
+      "url": "https://open.spotify.com/track/5vRvzOHbx40CCMkmSC28fY"
     },
     {
       "added_at": "2023-06-19 12:57:37",

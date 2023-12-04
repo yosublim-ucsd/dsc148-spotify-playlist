@@ -4,7 +4,7 @@
 
 > Enjoy music & episodes of "SPY×FAMILY"! /「SPY×FAMILY」の楽曲とエピソードを１つのプレイリストに。©TE/S, SFP
 
-138 songs - 11 hr 40 min
+139 songs - 11 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -130,7 +130,8 @@
 | [try again](https://open.spotify.com/track/7LPI1LMZ8cx1kmSfWdL6bu) | [\(K\)NoW\_NAME](https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A) | [TVアニメ「SPY×FAMILY」オリジナル・サウンドトラック \(Vol.1\)](https://open.spotify.com/album/4Tun5Ibl0lRYCv9K7LCzqL) | 1:50 | 2022-06-25 | 2022-07-29 |
 | [Twilight](https://open.spotify.com/track/33k3wkuJv5uVM1uxbpP8Dg) | [\(K\)NoW\_NAME](https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A) | [TVアニメ「SPY×FAMILY」オリジナル・サウンドトラック \(Vol.1\)](https://open.spotify.com/album/4Tun5Ibl0lRYCv9K7LCzqL) | 2:03 | 2022-06-25 | 2022-07-29 |
 | [Twilight](https://open.spotify.com/track/5mpFXqtrkBAvi49Kth24SH) | [\(K\)NoW\_NAME](https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A) | [SPY x FAMILY Soundtrack Vol\. 1 \(Music from the Original TV Series\)](https://open.spotify.com/album/7e4jxoNaSmYXIWq7qQfQ0r) | 2:03 | 2022-06-25 |  |
-| [Until the End](https://open.spotify.com/track/2o782mZSwxR34O9j9HaLwN) | [\(K\)NoW\_NAME](https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A), [\(K\)NoW\_NAME:Ayaka Tachibana](https://open.spotify.com/artist/5vuVwUJtfN6bELEOhpb0a9) | [Until the End （TVアニメ『SPY×FAMILY』Season 2 挿入歌）](https://open.spotify.com/album/5vAmBbnf5oeyKQKnxuhQSP) | 2:53 | 2023-12-02 |  |
+| [Until the End](https://open.spotify.com/track/2o782mZSwxR34O9j9HaLwN) | [\(K\)NoW\_NAME](https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A), [\(K\)NoW\_NAME:Ayaka Tachibana](https://open.spotify.com/artist/5vuVwUJtfN6bELEOhpb0a9) | [Until the End （TVアニメ『SPY×FAMILY』Season 2 挿入歌）](https://open.spotify.com/album/5vAmBbnf5oeyKQKnxuhQSP) | 2:53 | 2023-12-02 | 2023-12-04 |
+| [Until the End \(Animation『SPY×FAMILY』Season 2 Insert Song\)](https://open.spotify.com/track/71kA6J6oOgpv4cGswDPqGu) | [\(K\)NoW\_NAME](https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A), [\(K\)NoW\_NAME:Ayaka Tachibana](https://open.spotify.com/artist/5vuVwUJtfN6bELEOhpb0a9) | [Until the End \(Animation『SPY×FAMILY』Season 2 Insert Song\)](https://open.spotify.com/album/5Fn3ukbNzl5b7ntiMKnRp3) | 2:53 | 2023-12-02 |  |
 | [verge of a setback](https://open.spotify.com/track/0FqBlrQG8uNWYLvwJQo64G) | [\(K\)NoW\_NAME](https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A) | [SPY x FAMILY Soundtrack Vol\. 1 \(Music from the Original TV Series\)](https://open.spotify.com/album/7e4jxoNaSmYXIWq7qQfQ0r) | 1:52 | 2022-06-25 |  |
 | [verge of a setback](https://open.spotify.com/track/5Ajdp8WVFj2px9prPRYYx8) | [\(K\)NoW\_NAME](https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A) | [TVアニメ「SPY×FAMILY」オリジナル・サウンドトラック \(Vol.1\)](https://open.spotify.com/album/4Tun5Ibl0lRYCv9K7LCzqL) | 1:52 | 2022-06-25 | 2022-07-29 |
 | [Very Elegant](https://open.spotify.com/track/46rgVwV7tuEi5MIOfhM2ks) | [\(K\)NoW\_NAME](https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A) | [TVアニメ「SPY×FAMILY」オリジナル・サウンドトラック \(Vol.1\)](https://open.spotify.com/album/4Tun5Ibl0lRYCv9K7LCzqL) | 2:15 | 2022-06-25 | 2022-07-29 |

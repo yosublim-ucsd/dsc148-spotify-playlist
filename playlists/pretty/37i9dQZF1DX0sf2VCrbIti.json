@@ -1,12 +1,12 @@
 {
   "description": "Que no falte la m\u00fasica, la familia y los amigos. \u00a1Felices fiestas!",
-  "num_followers": 416,
+  "num_followers": 472,
   "original_name": "Fiesta Decembrina",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMWViODQxNjRjMDczYzZmN2NhMGQxYTBiMTRjNjIzNjU5MjQ2MDE3",
+  "snapshot_id": "MCwwYTBiNTY2MDQ2NDgyOGQ4YzliMDcyZjhjOWNkOTgzM2FhMzc4Yjky",
   "tracks": [
     {
       "added_at": "2023-12-01 05:01:00",
@@ -87,18 +87,22 @@
     {
       "added_at": "2023-12-01 05:01:00",
       "album": {
-        "name": "Un Verano Sin Ti",
-        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
+        "name": "Pa' Otro La 'O",
+        "url": "https://open.spotify.com/album/1AwPrz3G3D1Xx9wiKHNmHX"
       },
       "artists": [
         {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+          "name": "ChiChi Peralta",
+          "url": "https://open.spotify.com/artist/5GNSVtCq2hiXDx7jUA5Iou"
+        },
+        {
+          "name": "Jandy Feliz",
+          "url": "https://open.spotify.com/artist/3hz57XL7wSiPMO9g3k1CW6"
         }
       ],
-      "duration_ms": 230400,
-      "name": "Despu\u00e9s de la Playa",
-      "url": "https://open.spotify.com/track/1dm6z1fWB0cErMszU25dy2"
+      "duration_ms": 271031,
+      "name": "Procura",
+      "url": "https://open.spotify.com/track/2q9udNV9NK0BL3q9p6TLxf"
     },
     {
       "added_at": "2023-12-01 05:01:00",
@@ -123,22 +127,18 @@
     {
       "added_at": "2023-12-01 05:01:00",
       "album": {
-        "name": "Pa' Otro La 'O",
-        "url": "https://open.spotify.com/album/1AwPrz3G3D1Xx9wiKHNmHX"
+        "name": "Un Verano Sin Ti",
+        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
       },
       "artists": [
         {
-          "name": "ChiChi Peralta",
-          "url": "https://open.spotify.com/artist/5GNSVtCq2hiXDx7jUA5Iou"
-        },
-        {
-          "name": "Jandy Feliz",
-          "url": "https://open.spotify.com/artist/3hz57XL7wSiPMO9g3k1CW6"
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
         }
       ],
-      "duration_ms": 271031,
-      "name": "Procura",
-      "url": "https://open.spotify.com/track/2q9udNV9NK0BL3q9p6TLxf"
+      "duration_ms": 230400,
+      "name": "Despu\u00e9s de la Playa",
+      "url": "https://open.spotify.com/track/1dm6z1fWB0cErMszU25dy2"
     },
     {
       "added_at": "2023-12-01 05:01:00",
@@ -827,22 +827,18 @@
     {
       "added_at": "2023-12-01 05:01:00",
       "album": {
-        "name": "EL YATE (feat. Sergio George) [Versi\u00f3n Salsa]",
-        "url": "https://open.spotify.com/album/6BRLupgfPwOkWkVrtCg9D1"
+        "name": "La Maquina del Sabor '88",
+        "url": "https://open.spotify.com/album/7nCZDVKgBlQDpgPpCS2XfL"
       },
       "artists": [
         {
-          "name": "Lenny Tav\u00e1rez",
-          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
-        },
-        {
-          "name": "Sergio George",
-          "url": "https://open.spotify.com/artist/4Ht1HigABvctq7wW4D3jAC"
+          "name": "Gran Coquivacoa",
+          "url": "https://open.spotify.com/artist/0D8yIOlFPxp7OL6n6UzJ38"
         }
       ],
-      "duration_ms": 193046,
-      "name": "EL YATE (feat. Sergio George) - Versi\u00f3n Salsa",
-      "url": "https://open.spotify.com/track/6BOuw1v7iJbOPYR9PigeJ4"
+      "duration_ms": 171320,
+      "name": "Gaita Onomatop\u00e9yica",
+      "url": "https://open.spotify.com/track/2BZUWYA2NcvrtWdStRn1KX"
     },
     {
       "added_at": "2023-12-01 05:01:00",
@@ -863,18 +859,22 @@
     {
       "added_at": "2023-12-01 05:01:00",
       "album": {
-        "name": "La Maquina del Sabor '88",
-        "url": "https://open.spotify.com/album/7nCZDVKgBlQDpgPpCS2XfL"
+        "name": "EL YATE (feat. Sergio George) [Versi\u00f3n Salsa]",
+        "url": "https://open.spotify.com/album/6BRLupgfPwOkWkVrtCg9D1"
       },
       "artists": [
         {
-          "name": "Gran Coquivacoa",
-          "url": "https://open.spotify.com/artist/0D8yIOlFPxp7OL6n6UzJ38"
+          "name": "Lenny Tav\u00e1rez",
+          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
+        },
+        {
+          "name": "Sergio George",
+          "url": "https://open.spotify.com/artist/4Ht1HigABvctq7wW4D3jAC"
         }
       ],
-      "duration_ms": 171320,
-      "name": "Gaita Onomatop\u00e9yica",
-      "url": "https://open.spotify.com/track/2BZUWYA2NcvrtWdStRn1KX"
+      "duration_ms": 193046,
+      "name": "EL YATE (feat. Sergio George) - Versi\u00f3n Salsa",
+      "url": "https://open.spotify.com/track/6BOuw1v7iJbOPYR9PigeJ4"
     }
   ],
   "unique_name": "Fiesta Decembrina",

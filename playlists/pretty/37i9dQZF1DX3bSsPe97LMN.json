@@ -1,12 +1,12 @@
 {
   "description": "Esta es la plebada que est\u00e1 marcando tendencia en la M\u00fasica Mexicana. Arriola en portada.",
-  "num_followers": 58675,
+  "num_followers": 58691,
   "original_name": "La Nueva Ola: M\u00fasica Mexicana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0Y2MyMWViZTFhMjc2MTZiYTdhY2YxN2Y0MjQwYTU1NjIyODkxYjYz",
+  "snapshot_id": "MCwzN2RjMmMwZmJiODUzM2U1Mjc1MzE1NDBiM2RlNGFmODhkYjY0YzA0",
   "tracks": [
     {
       "added_at": "2023-11-10 15:27:32",
@@ -95,22 +95,6 @@
     {
       "added_at": "2023-11-10 15:27:32",
       "album": {
-        "name": "Disfruto",
-        "url": "https://open.spotify.com/album/0aUNOBEeSPDD7nKdOBYZPB"
-      },
-      "artists": [
-        {
-          "name": "Israel Morales",
-          "url": "https://open.spotify.com/artist/6ojwZd66jiZlplxrG6JVjW"
-        }
-      ],
-      "duration_ms": 204000,
-      "name": "Disfruto",
-      "url": "https://open.spotify.com/track/4dxueEvA4IjUBjB50mt8h4"
-    },
-    {
-      "added_at": "2023-11-10 15:27:32",
-      "album": {
         "name": "Tepito Buffa",
         "url": "https://open.spotify.com/album/2DYcln2e3YMNVDpu9OPNlj"
       },
@@ -123,6 +107,22 @@
       "duration_ms": 172822,
       "name": "Tepito Buffa",
       "url": "https://open.spotify.com/track/4YMUY0CX1Atj0w4gxyEbVg"
+    },
+    {
+      "added_at": "2023-11-10 15:27:32",
+      "album": {
+        "name": "Disfruto",
+        "url": "https://open.spotify.com/album/0aUNOBEeSPDD7nKdOBYZPB"
+      },
+      "artists": [
+        {
+          "name": "Israel Morales",
+          "url": "https://open.spotify.com/artist/6ojwZd66jiZlplxrG6JVjW"
+        }
+      ],
+      "duration_ms": 204000,
+      "name": "Disfruto",
+      "url": "https://open.spotify.com/track/4dxueEvA4IjUBjB50mt8h4"
     },
     {
       "added_at": "2023-11-10 15:27:32",
@@ -251,18 +251,18 @@
     {
       "added_at": "2023-11-10 15:27:32",
       "album": {
-        "name": "Me Duele",
-        "url": "https://open.spotify.com/album/1Vq8Ynt4RN2B6S1dmpfKnV"
+        "name": "Lujos Flamantes",
+        "url": "https://open.spotify.com/album/4sFXSzYvHlAz3OpUc5kRv6"
       },
       "artists": [
         {
-          "name": "Officialalex425",
-          "url": "https://open.spotify.com/artist/2cmqbSrv0RSUeYRuWkqSiQ"
+          "name": "Grupo Supr3me",
+          "url": "https://open.spotify.com/artist/2D04F1wci9jME32L68xaAv"
         }
       ],
-      "duration_ms": 201142,
-      "name": "Me Duele",
-      "url": "https://open.spotify.com/track/5lUaSlCN3Zne9VKRbk7Xfp"
+      "duration_ms": 148653,
+      "name": "Lujos Flamantes",
+      "url": "https://open.spotify.com/track/7INI7hvoGSZB5W3YDEJXg5"
     },
     {
       "added_at": "2023-11-10 15:27:32",
@@ -283,18 +283,18 @@
     {
       "added_at": "2023-11-10 15:27:32",
       "album": {
-        "name": "Lujos Flamantes",
-        "url": "https://open.spotify.com/album/4sFXSzYvHlAz3OpUc5kRv6"
+        "name": "Me Duele",
+        "url": "https://open.spotify.com/album/1Vq8Ynt4RN2B6S1dmpfKnV"
       },
       "artists": [
         {
-          "name": "Grupo Supr3me",
-          "url": "https://open.spotify.com/artist/2D04F1wci9jME32L68xaAv"
+          "name": "Officialalex425",
+          "url": "https://open.spotify.com/artist/2cmqbSrv0RSUeYRuWkqSiQ"
         }
       ],
-      "duration_ms": 148653,
-      "name": "Lujos Flamantes",
-      "url": "https://open.spotify.com/track/7INI7hvoGSZB5W3YDEJXg5"
+      "duration_ms": 201142,
+      "name": "Me Duele",
+      "url": "https://open.spotify.com/track/5lUaSlCN3Zne9VKRbk7Xfp"
     },
     {
       "added_at": "2023-11-10 15:27:32",
@@ -315,22 +315,6 @@
     {
       "added_at": "2023-11-10 15:27:32",
       "album": {
-        "name": "Alucin-ando",
-        "url": "https://open.spotify.com/album/02bJTDJPcfyUH53QxqWfVo"
-      },
-      "artists": [
-        {
-          "name": "Alain Manases",
-          "url": "https://open.spotify.com/artist/32QFBnDMzuyPeMAYpTSyLb"
-        }
-      ],
-      "duration_ms": 163317,
-      "name": "Alucin-ando",
-      "url": "https://open.spotify.com/track/2Uv2x4gbt51VV4eS6b1Cxm"
-    },
-    {
-      "added_at": "2023-11-10 15:27:32",
-      "album": {
         "name": "Llegar A La Luna",
         "url": "https://open.spotify.com/album/68OaTF0C5uLmD2FtXbxAPK"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 214973,
       "name": "Llegar A La Luna",
       "url": "https://open.spotify.com/track/56Ya7Vj9jcXY2rghRfVB1R"
+    },
+    {
+      "added_at": "2023-11-10 15:27:32",
+      "album": {
+        "name": "Alucin-ando",
+        "url": "https://open.spotify.com/album/02bJTDJPcfyUH53QxqWfVo"
+      },
+      "artists": [
+        {
+          "name": "Alain Manases",
+          "url": "https://open.spotify.com/artist/32QFBnDMzuyPeMAYpTSyLb"
+        }
+      ],
+      "duration_ms": 163317,
+      "name": "Alucin-ando",
+      "url": "https://open.spotify.com/track/2Uv2x4gbt51VV4eS6b1Cxm"
     },
     {
       "added_at": "2023-11-10 15:27:32",
@@ -387,22 +387,6 @@
     {
       "added_at": "2023-11-10 15:27:32",
       "album": {
-        "name": "Mil Pedazos",
-        "url": "https://open.spotify.com/album/0dchtdW6KeKfbHGwMMxppF"
-      },
-      "artists": [
-        {
-          "name": "Natalie L\u00f3pez",
-          "url": "https://open.spotify.com/artist/7C69hD7HaCYbhgrVqYiHXU"
-        }
-      ],
-      "duration_ms": 181525,
-      "name": "Mil Pedazos",
-      "url": "https://open.spotify.com/track/2Mi5BLsctdUzadFCTbhSQC"
-    },
-    {
-      "added_at": "2023-11-10 15:27:32",
-      "album": {
         "name": "Ll\u00f3rame M\u00e1s Fuerte",
         "url": "https://open.spotify.com/album/58521yc5XgyIwX0KjWL0z0"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 227142,
       "name": "Ll\u00f3rame M\u00e1s Fuerte",
       "url": "https://open.spotify.com/track/4MTLY1AiRFlQe0cV6Fl7SN"
+    },
+    {
+      "added_at": "2023-11-10 15:27:32",
+      "album": {
+        "name": "Mil Pedazos",
+        "url": "https://open.spotify.com/album/0dchtdW6KeKfbHGwMMxppF"
+      },
+      "artists": [
+        {
+          "name": "Natalie L\u00f3pez",
+          "url": "https://open.spotify.com/artist/7C69hD7HaCYbhgrVqYiHXU"
+        }
+      ],
+      "duration_ms": 181525,
+      "name": "Mil Pedazos",
+      "url": "https://open.spotify.com/track/2Mi5BLsctdUzadFCTbhSQC"
     },
     {
       "added_at": "2023-11-10 15:27:32",
@@ -583,22 +583,6 @@
     {
       "added_at": "2023-11-10 15:27:32",
       "album": {
-        "name": "Descifrar",
-        "url": "https://open.spotify.com/album/0iS5WqBx0TeI4duoxqk57F"
-      },
-      "artists": [
-        {
-          "name": "Los Aptos",
-          "url": "https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO"
-        }
-      ],
-      "duration_ms": 256885,
-      "name": "Hace Mucho Tiempo",
-      "url": "https://open.spotify.com/track/790myZFzSomT1B5MkFhuNT"
-    },
-    {
-      "added_at": "2023-11-10 15:27:32",
-      "album": {
         "name": "De Este Lado",
         "url": "https://open.spotify.com/album/4WrwlsCSBx3MMNKgByhHBG"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 187500,
       "name": "De Este Lado",
       "url": "https://open.spotify.com/track/2u7I1qFc8QdKcHxj3sP9hT"
+    },
+    {
+      "added_at": "2023-11-10 15:27:32",
+      "album": {
+        "name": "Descifrar",
+        "url": "https://open.spotify.com/album/0iS5WqBx0TeI4duoxqk57F"
+      },
+      "artists": [
+        {
+          "name": "Los Aptos",
+          "url": "https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO"
+        }
+      ],
+      "duration_ms": 256885,
+      "name": "Hace Mucho Tiempo",
+      "url": "https://open.spotify.com/track/790myZFzSomT1B5MkFhuNT"
     },
     {
       "added_at": "2023-11-10 15:27:32",
@@ -703,22 +703,6 @@
     {
       "added_at": "2023-11-10 15:27:32",
       "album": {
-        "name": "Lo Obvio",
-        "url": "https://open.spotify.com/album/69WQe5IHTQR4Jxo6sCmqRi"
-      },
-      "artists": [
-        {
-          "name": "Reflejo Nuevo",
-          "url": "https://open.spotify.com/artist/48x8d1G7hZkHfnbIhz9fi8"
-        }
-      ],
-      "duration_ms": 140453,
-      "name": "Lo Obvio",
-      "url": "https://open.spotify.com/track/4gLsJ73b2gHw5Zc9YZgZjz"
-    },
-    {
-      "added_at": "2023-11-10 15:27:32",
-      "album": {
         "name": "Rubicon",
         "url": "https://open.spotify.com/album/6zJbfrnTwqZ2LtcnOWlfOw"
       },
@@ -735,22 +719,6 @@
     {
       "added_at": "2023-11-10 15:27:32",
       "album": {
-        "name": "CUANDO LLUEVE",
-        "url": "https://open.spotify.com/album/0Me1LJTvDr06VOYB9jfWjq"
-      },
-      "artists": [
-        {
-          "name": "Una Canci\u00f3n Bonita",
-          "url": "https://open.spotify.com/artist/3hLAnFsw8LnNJ9FDXSCCP7"
-        }
-      ],
-      "duration_ms": 258528,
-      "name": "CUANDO LLUEVE",
-      "url": "https://open.spotify.com/track/1zGm84bD3EQLq7Iot79U3T"
-    },
-    {
-      "added_at": "2023-11-10 15:27:32",
-      "album": {
         "name": "El Cartel",
         "url": "https://open.spotify.com/album/0HqCmk2VoIZHC93BcseRpE"
       },
@@ -763,6 +731,38 @@
       "duration_ms": 215360,
       "name": "El Cartel",
       "url": "https://open.spotify.com/track/3QDZ8JRgs2iKp3yejxpSaU"
+    },
+    {
+      "added_at": "2023-11-10 15:27:32",
+      "album": {
+        "name": "Lo Obvio",
+        "url": "https://open.spotify.com/album/69WQe5IHTQR4Jxo6sCmqRi"
+      },
+      "artists": [
+        {
+          "name": "Reflejo Nuevo",
+          "url": "https://open.spotify.com/artist/48x8d1G7hZkHfnbIhz9fi8"
+        }
+      ],
+      "duration_ms": 140453,
+      "name": "Lo Obvio",
+      "url": "https://open.spotify.com/track/4gLsJ73b2gHw5Zc9YZgZjz"
+    },
+    {
+      "added_at": "2023-11-10 15:27:32",
+      "album": {
+        "name": "CUANDO LLUEVE",
+        "url": "https://open.spotify.com/album/0Me1LJTvDr06VOYB9jfWjq"
+      },
+      "artists": [
+        {
+          "name": "Una Canci\u00f3n Bonita",
+          "url": "https://open.spotify.com/artist/3hLAnFsw8LnNJ9FDXSCCP7"
+        }
+      ],
+      "duration_ms": 258528,
+      "name": "CUANDO LLUEVE",
+      "url": "https://open.spotify.com/track/1zGm84bD3EQLq7Iot79U3T"
     },
     {
       "added_at": "2023-11-10 15:27:32",
@@ -819,22 +819,6 @@
     {
       "added_at": "2023-11-10 15:27:32",
       "album": {
-        "name": "Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/4xM0FfeqFIyDwYbWhjuBoe"
-      },
-      "artists": [
-        {
-          "name": "Los Luna",
-          "url": "https://open.spotify.com/artist/3je77Yzq2c9d7lcxx7hvkC"
-        }
-      ],
-      "duration_ms": 183600,
-      "name": "Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/3rVlDhGNxSQApSOFM4XHYd"
-    },
-    {
-      "added_at": "2023-11-10 15:27:32",
-      "album": {
         "name": "Sal",
         "url": "https://open.spotify.com/album/41oaDCSgz0dm75je22VRME"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 164364,
       "name": "Sal",
       "url": "https://open.spotify.com/track/7xRI4RckSJk8uJIJ8o6KlS"
+    },
+    {
+      "added_at": "2023-11-10 15:27:32",
+      "album": {
+        "name": "Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/4xM0FfeqFIyDwYbWhjuBoe"
+      },
+      "artists": [
+        {
+          "name": "Los Luna",
+          "url": "https://open.spotify.com/artist/3je77Yzq2c9d7lcxx7hvkC"
+        }
+      ],
+      "duration_ms": 183600,
+      "name": "Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/3rVlDhGNxSQApSOFM4XHYd"
     },
     {
       "added_at": "2023-11-10 15:27:32",
@@ -943,6 +943,22 @@
     {
       "added_at": "2023-11-10 15:27:32",
       "album": {
+        "name": "Los Billetes Ponen La Edad \"JRE\"",
+        "url": "https://open.spotify.com/album/6JTgWswtPAaK7XyeqB1vGc"
+      },
+      "artists": [
+        {
+          "name": "Manuel Rodriguez",
+          "url": "https://open.spotify.com/artist/2tSneO7PgprETUeUA8NfDH"
+        }
+      ],
+      "duration_ms": 183106,
+      "name": "Billetes Y Armas",
+      "url": "https://open.spotify.com/track/422n4HBnGDQ9Dp1vz77G54"
+    },
+    {
+      "added_at": "2023-11-10 15:27:32",
+      "album": {
         "name": "Solo",
         "url": "https://open.spotify.com/album/0g4HdaQjNybjGfYPevA1Vz"
       },
@@ -959,22 +975,6 @@
       "duration_ms": 175454,
       "name": "Solo",
       "url": "https://open.spotify.com/track/4ffEwH5xuTvAjqDRkdCYdp"
-    },
-    {
-      "added_at": "2023-11-10 15:27:32",
-      "album": {
-        "name": "Los Billetes Ponen La Edad \"JRE\"",
-        "url": "https://open.spotify.com/album/6JTgWswtPAaK7XyeqB1vGc"
-      },
-      "artists": [
-        {
-          "name": "Manuel Rodriguez",
-          "url": "https://open.spotify.com/artist/2tSneO7PgprETUeUA8NfDH"
-        }
-      ],
-      "duration_ms": 183106,
-      "name": "Billetes Y Armas",
-      "url": "https://open.spotify.com/track/422n4HBnGDQ9Dp1vz77G54"
     },
     {
       "added_at": "2023-11-10 15:27:32",
@@ -1243,22 +1243,18 @@
     {
       "added_at": "2023-11-10 15:27:32",
       "album": {
-        "name": "El Chamaquito",
-        "url": "https://open.spotify.com/album/4GJxnawlts3HizXeVb7Fye"
+        "name": "En La Lumbre (En Vivo, Sonora, M\u00e9xico, 2023)",
+        "url": "https://open.spotify.com/album/0xroiBY5yESM9Rp7qh1dFM"
       },
       "artists": [
         {
-          "name": "Brandon Reyes y Elvin",
-          "url": "https://open.spotify.com/artist/5KwtioA5ns9gfpFaHpxqlq"
-        },
-        {
-          "name": "Pantera De Culiacan Sinaloa",
-          "url": "https://open.spotify.com/artist/0mRXQOJkMRuEgfF345LOZ0"
+          "name": "Jessy Castillo",
+          "url": "https://open.spotify.com/artist/6MPmMMvkDjhd2SxWm8jQ61"
         }
       ],
-      "duration_ms": 228706,
-      "name": "El Chamaquito",
-      "url": "https://open.spotify.com/track/43m5eJ9Ln6AqcuDJvEtN33"
+      "duration_ms": 162474,
+      "name": "En La Lumbre - En Vivo, Sonora, M\u00e9xico, 2023",
+      "url": "https://open.spotify.com/track/2ZnQIKPgq3SptPgG4XTnYU"
     },
     {
       "added_at": "2023-11-10 15:27:32",
@@ -1279,22 +1275,6 @@
     {
       "added_at": "2023-11-10 15:27:32",
       "album": {
-        "name": "En La Lumbre (En Vivo, Sonora, M\u00e9xico, 2023)",
-        "url": "https://open.spotify.com/album/0xroiBY5yESM9Rp7qh1dFM"
-      },
-      "artists": [
-        {
-          "name": "Jessy Castillo",
-          "url": "https://open.spotify.com/artist/6MPmMMvkDjhd2SxWm8jQ61"
-        }
-      ],
-      "duration_ms": 162474,
-      "name": "En La Lumbre - En Vivo, Sonora, M\u00e9xico, 2023",
-      "url": "https://open.spotify.com/track/2ZnQIKPgq3SptPgG4XTnYU"
-    },
-    {
-      "added_at": "2023-11-10 15:27:32",
-      "album": {
         "name": "VIDA LOK4",
         "url": "https://open.spotify.com/album/4ujPObxnBaMOhDUB9qLt78"
       },
@@ -1307,6 +1287,26 @@
       "duration_ms": 193714,
       "name": "VIDA LOK4",
       "url": "https://open.spotify.com/track/1hk76aRYEBVuJtweBQ0GEe"
+    },
+    {
+      "added_at": "2023-11-10 15:27:32",
+      "album": {
+        "name": "El Chamaquito",
+        "url": "https://open.spotify.com/album/4GJxnawlts3HizXeVb7Fye"
+      },
+      "artists": [
+        {
+          "name": "Brandon Reyes y Elvin",
+          "url": "https://open.spotify.com/artist/5KwtioA5ns9gfpFaHpxqlq"
+        },
+        {
+          "name": "Pantera De Culiacan Sinaloa",
+          "url": "https://open.spotify.com/artist/0mRXQOJkMRuEgfF345LOZ0"
+        }
+      ],
+      "duration_ms": 228706,
+      "name": "El Chamaquito",
+      "url": "https://open.spotify.com/track/43m5eJ9Ln6AqcuDJvEtN33"
     },
     {
       "added_at": "2023-11-10 15:27:32",
@@ -1379,18 +1379,18 @@
     {
       "added_at": "2023-11-10 15:27:32",
       "album": {
-        "name": "Yo Soy Guerrera",
-        "url": "https://open.spotify.com/album/59Tnc8xzcatjqS7n9eBdks"
+        "name": "Tiempo",
+        "url": "https://open.spotify.com/album/4X4pNm2ByzuQrE6N0eGUEH"
       },
       "artists": [
         {
-          "name": "Las Fenix",
-          "url": "https://open.spotify.com/artist/2ZNrWgSrqOlD6uF54Hx4ZY"
+          "name": "Los Del Momento",
+          "url": "https://open.spotify.com/artist/0JEQwqiLH4duEyXPCldsfS"
         }
       ],
-      "duration_ms": 138837,
-      "name": "Yo Soy Guerrera",
-      "url": "https://open.spotify.com/track/02qS6Wk3yj1SfEqYt8d8Ya"
+      "duration_ms": 177640,
+      "name": "Tiempo",
+      "url": "https://open.spotify.com/track/6Y7N2iPTtfTy5WMJivwYdX"
     },
     {
       "added_at": "2023-11-10 15:27:32",
@@ -1407,6 +1407,22 @@
       "duration_ms": 197293,
       "name": "Dir\u00e9",
       "url": "https://open.spotify.com/track/69ITm1oTZq5xmdPou7oj2r"
+    },
+    {
+      "added_at": "2023-11-10 15:27:32",
+      "album": {
+        "name": "Yo Soy Guerrera",
+        "url": "https://open.spotify.com/album/59Tnc8xzcatjqS7n9eBdks"
+      },
+      "artists": [
+        {
+          "name": "Las Fenix",
+          "url": "https://open.spotify.com/artist/2ZNrWgSrqOlD6uF54Hx4ZY"
+        }
+      ],
+      "duration_ms": 138837,
+      "name": "Yo Soy Guerrera",
+      "url": "https://open.spotify.com/track/02qS6Wk3yj1SfEqYt8d8Ya"
     },
     {
       "added_at": "2023-11-10 15:27:32",
@@ -1519,22 +1535,6 @@
     {
       "added_at": "2023-11-10 15:27:32",
       "album": {
-        "name": "Tiempo",
-        "url": "https://open.spotify.com/album/4X4pNm2ByzuQrE6N0eGUEH"
-      },
-      "artists": [
-        {
-          "name": "Los Del Momento",
-          "url": "https://open.spotify.com/artist/0JEQwqiLH4duEyXPCldsfS"
-        }
-      ],
-      "duration_ms": 177640,
-      "name": "Tiempo",
-      "url": "https://open.spotify.com/track/6Y7N2iPTtfTy5WMJivwYdX"
-    },
-    {
-      "added_at": "2023-11-10 15:27:32",
-      "album": {
         "name": "Quiero Abrazarte Tanto",
         "url": "https://open.spotify.com/album/6bSOwQJmOghBp04eohKJL3"
       },
@@ -1551,22 +1551,6 @@
     {
       "added_at": "2023-11-10 15:27:32",
       "album": {
-        "name": "Tal Vez",
-        "url": "https://open.spotify.com/album/3dKFFChE0pV72EGw3Hhgly"
-      },
-      "artists": [
-        {
-          "name": "Gabo Ponce",
-          "url": "https://open.spotify.com/artist/2Cby4NWU4TyYUK8Lx2LViY"
-        }
-      ],
-      "duration_ms": 323595,
-      "name": "Tal Vez",
-      "url": "https://open.spotify.com/track/4KCGkBwcME4GUR96jGvR4s"
-    },
-    {
-      "added_at": "2023-11-10 15:27:32",
-      "album": {
         "name": "Los Chismes",
         "url": "https://open.spotify.com/album/1b3pThADFDTmQITRpwRqzI"
       },
@@ -1579,6 +1563,22 @@
       "duration_ms": 154033,
       "name": "Los Chismes",
       "url": "https://open.spotify.com/track/39DEc4b2WcKd9aNAM37Xa0"
+    },
+    {
+      "added_at": "2023-11-10 15:27:32",
+      "album": {
+        "name": "Tal Vez",
+        "url": "https://open.spotify.com/album/3dKFFChE0pV72EGw3Hhgly"
+      },
+      "artists": [
+        {
+          "name": "Gabo Ponce",
+          "url": "https://open.spotify.com/artist/2Cby4NWU4TyYUK8Lx2LViY"
+        }
+      ],
+      "duration_ms": 323595,
+      "name": "Tal Vez",
+      "url": "https://open.spotify.com/track/4KCGkBwcME4GUR96jGvR4s"
     },
     {
       "added_at": "2023-11-10 15:27:32",

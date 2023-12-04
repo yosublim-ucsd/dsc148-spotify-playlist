@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 
 > La playlist che è come andare ai concerti! Novità rock, indie, punk ed emo dall'Italia\. Cover: MILANOSPORT
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,875 likes - 71 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,866 likes - 71 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,4 +80,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 | 70 | [Eye of the Day](https://open.spotify.com/track/3M5zmqmD9yjsi9QuDNIWGk) | [Marta Del Grandi](https://open.spotify.com/artist/05E477LFSZYN1svLmKnrYh) | [Selva](https://open.spotify.com/album/6yeIH3hBtQCKRHPR4Hju7M) | 3:11 |
 | 71 | [Neuro Queer Cyber Punk \(italia\)](https://open.spotify.com/track/1UK7liy7XxmvtFcbiLj914) | [Sun Dojo](https://open.spotify.com/artist/3MRGrKnnFFaVCtsjOGIKgb) | [Neuro Queer Cyber Punk \(italia\)](https://open.spotify.com/album/73Ae3sW9ClAH9khsl5hZrk) | 0:57 |
 
-Snapshot ID: `MCw0MWIwZmYxYjAyMmIxMDRlMjFkYWRiZTdiZDE5YjJiZjViNjkzNWVj`
+Snapshot ID: `MCw1ZjMyMDk5YTM0M2UzYTY1Y2IzOGJkZjZlZjRmM2UwMDE0YzliMGIz`

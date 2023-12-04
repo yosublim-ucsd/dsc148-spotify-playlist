@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3EbcelyrZPd.md) - [plain]
 
 > Get your fill of vibes straight out of Tanzania\. Cover: Rayvanny, Reekado Banx & Lexsil
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,027 likes - 70 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,086 likes - 70 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3EbcelyrZPd.md) - [plain]
 | 69 | [Waya](https://open.spotify.com/track/1Lns0UTuRt98pcYQvNW3MP) | [Benny Chill](https://open.spotify.com/artist/1uJg0HEhieOSn2XW4nSSF1), [Focalistic](https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju), [Phina](https://open.spotify.com/artist/1gFTuZHiQgl5NAgqNEK2Rl), [Mustbedubz](https://open.spotify.com/artist/5mgakxehZfMH23hQRLcy9p) | [Waya](https://open.spotify.com/album/5sNak7LY72ggfl933MsTxC) | 4:59 |
 | 70 | [Wa Sasa](https://open.spotify.com/track/1FVz0hH9kEafMYlQjIkBTf) | [Kusah](https://open.spotify.com/artist/260q55nLIeMDgpXiUJYTRK) | [Wa Sasa](https://open.spotify.com/album/3oxmKTtd1oBP7WACgKrh4m) | 3:14 |
 
-Snapshot ID: `MCwxMzEzNTg1YzEyMDA3NmZkMTNlMDQ5ZjQxNDQzODlhNjc2NDdjZWI1`
+Snapshot ID: `MCxmNjg3NWFlN2ZiZjNmMWIyYjNjZGFjMzE2MGIwNDEyN2QzOWI1NThm`

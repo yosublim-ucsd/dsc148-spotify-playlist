@@ -4,7 +4,7 @@
 
 > La música de la séptima temporada de ÉLI7E vive aquí ✨
 
-437 songs - 1 day 3 hr 40 min
+438 songs - 1 day 3 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,7 +66,8 @@
 | [Bo$$day](https://open.spotify.com/track/0QLB087RjF3zRLdKhpld8d) | [Don Elektron](https://open.spotify.com/artist/7DlW3AsJBngztfUBjAY0W2), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [Bo$$day](https://open.spotify.com/album/1Yn3gqAQitxjKrll6vSpWT) | 2:25 | 2021-09-01 | 2023-08-27 |
 | [Bo$$day](https://open.spotify.com/track/5Ffwxh0yiixJq4vb1RIwqs) | [Don Elektron](https://open.spotify.com/artist/7DlW3AsJBngztfUBjAY0W2), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [Bo$$day](https://open.spotify.com/album/5bJG3i8JuLi4XoXMg7aO5w) | 2:25 | 2021-09-01 | 2023-08-31 |
 | [Bo$$say](https://open.spotify.com/track/0fDfYGkutAZiD6ukpaOFwZ) | [Don Elektron](https://open.spotify.com/artist/7DlW3AsJBngztfUBjAY0W2), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [Bo$$say](https://open.spotify.com/album/0Eutm1B5tRvxbEyzMKUpYu) | 2:25 | 2021-09-01 |  |
-| [Boom Shaka](https://open.spotify.com/track/3gxUBykZcSjxCqIqo63lqy) | [Muzi](https://open.spotify.com/artist/4fd3n8zcAmsG2up1QWDNj5) | [Boom Shaka](https://open.spotify.com/album/3TOmp0iecoQZL4CcwjsaP0) | 3:07 | 2021-09-01 |  |
+| [Boom Shaka](https://open.spotify.com/track/1rl96BW1uiXGvVjWq0IKFx) | [Muzi](https://open.spotify.com/artist/4fd3n8zcAmsG2up1QWDNj5) | [Boom Shaka](https://open.spotify.com/album/7fPJslpGw7VqKoescAheTZ) | 3:07 | 2021-09-01 |  |
+| [Boom Shaka](https://open.spotify.com/track/3gxUBykZcSjxCqIqo63lqy) | [Muzi](https://open.spotify.com/artist/4fd3n8zcAmsG2up1QWDNj5) | [Boom Shaka](https://open.spotify.com/album/3TOmp0iecoQZL4CcwjsaP0) | 3:07 | 2021-09-01 | 2023-12-04 |
 | [Bottle Episode](https://open.spotify.com/track/5N1RLbHEM7Q0Qo1achKzrY) | [Mandy, Indiana](https://open.spotify.com/artist/2nDJxXJ7PtW7eLpFXcGH3u) | [Bottle Episode](https://open.spotify.com/album/2nYI8TZegutcUWAvOYGoSP) | 4:39 | 2023-10-21 |  |
 | [Bounty](https://open.spotify.com/track/486TM1WRQHYRWCj5heYnVU) | [CLYPSO](https://open.spotify.com/artist/0PLRwyoWBDRiK3QnflnDbd) | [Cameo](https://open.spotify.com/album/3p4cI1NS8IGXwbg7DFowD7) | 3:15 | 2022-04-08 |  |
 | [Breathe For Me](https://open.spotify.com/track/0B9MMdHFOFFhqFVbVS8Irg) | [Attic Lights](https://open.spotify.com/artist/53I53JqO0ELxsVxEu9v1p4) | [Say You Love Me](https://open.spotify.com/album/0R1GkMTHWdc33OHicmxGSo) | 4:23 | 2021-09-01 |  |

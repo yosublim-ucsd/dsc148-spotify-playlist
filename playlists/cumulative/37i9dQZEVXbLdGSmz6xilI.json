@@ -2617,6 +2617,24 @@
     },
     {
       "album": {
+        "name": "B\u1ea3o T\u00e0ng",
+        "url": "https://open.spotify.com/album/4ZaeSyWcJmXC2tJgU70q31"
+      },
+      "artists": [
+        {
+          "name": "Low G",
+          "url": "https://open.spotify.com/artist/6TITnFVRcl0AcZ4syE7Toe"
+        }
+      ],
+      "date_added": "2023-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185142,
+      "name": "B\u1ea3o T\u00e0ng",
+      "url": "https://open.spotify.com/track/2ctmaWoBxLBYiZB7AKmK1D"
+    },
+    {
+      "album": {
         "name": "B\u1eadt T\u00ecnh Y\u00eau L\u00ean",
         "url": "https://open.spotify.com/album/6jOJUucuzH32n2BdTJ9lOB"
       },
@@ -2698,7 +2716,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-04",
       "duration_ms": 214736,
       "name": "Call Me",
       "url": "https://open.spotify.com/track/08GUMwJRpisuxHGyRzoSuu"
@@ -13796,7 +13814,7 @@
       ],
       "date_added": "2023-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-04",
       "duration_ms": 214760,
       "name": "Standing Next to You (Usher Remix)",
       "url": "https://open.spotify.com/track/0VPFT123HKoQ2J6ipeDcI1"
@@ -16680,7 +16698,7 @@
       ],
       "date_added": "2022-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-06",
+      "date_removed": null,
       "duration_ms": 273499,
       "name": "Wild Flower (with youjeen)",
       "url": "https://open.spotify.com/track/1AZjCZSGEjlxUufFQwSszF"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 
 > 🩸 Emo, punk e rock 🇮🇹 e 🌎! Cover: Sally Cruz
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,475 likes - 65 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,474 likes - 65 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 | 64 | [Puoi fare meglio](https://open.spotify.com/track/6m1y1HHAlYjB2pmi9I8gRV) | [chiello](https://open.spotify.com/artist/5mjasIBQQPIqA9GV2Ys61h) | [Puoi fare meglio](https://open.spotify.com/album/1j2XwuZzOBU5fXZjsnxcW3) | 2:57 |
 | 65 | [MI SPIACE MA È NO Feat\. DARRN \(lui bravissimo io urlo e basta\)](https://open.spotify.com/track/237FG3JiayYXagJ0Eb9qjC) | [Simone Panetti](https://open.spotify.com/artist/4lajcWQSiNMQ4b76eevJ5f), [DARRN](https://open.spotify.com/artist/7tIRfM2ZxdW5Qz2qVQIpB4) | [TITOLO PROVVISORIO](https://open.spotify.com/album/32dfx6NuDgeTHhqK0E8leD) | 1:58 |
 
-Snapshot ID: `MCxmODYxMzE3OGZhMTk0MjVjMTk3YmZmMGZhNjIzMjA4MjE2YTA0YmU4`
+Snapshot ID: `MCw0NGFhMDgzYWUzOTZhNTczMWFkMzBlNDk1MTZmNjJhZThhNDcyMjQx`

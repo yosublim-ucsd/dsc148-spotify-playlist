@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ7VnoXD1s7S.md) - [plain]
 
 > no\-clip out of reality
 
-[Spotify](https://open.spotify.com/user/spotify) - 678,176 likes - 77 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 679,574 likes - 77 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ7VnoXD1s7S.md) - [plain]
 | 4 | [Poison Tree](https://open.spotify.com/track/6Q5uDNuuFYa8ToL3CCoHPC) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [Inca Ore / Grouper](https://open.spotify.com/album/2oztVYt7jDJBTysn00vM6E) | 3:16 |
 | 5 | [you not the same](https://open.spotify.com/track/4txrAyGAWA9JqZzoNHiPRh) | [TileKid](https://open.spotify.com/artist/7HaSqpaqnOWSaqvezpdhX4) | [you not the same](https://open.spotify.com/album/2oWrvVt4fIMO5DEHXSUrhS) | 2:08 |
 | 6 | [snowfall](https://open.spotify.com/track/4xF4ZBGPZKxECeDFrqSAG4) | [Øneheart](https://open.spotify.com/artist/0dgJbQ0bKPyUXco8hEXN7X), [reidenshi](https://open.spotify.com/artist/6SdlxyPsQ3B0yYncFmDULP) | [snowfall](https://open.spotify.com/album/4NRsGHlWBTl4rdLcq8CKcH) | 2:04 |
-| 7 | [Infinite Cloud](https://open.spotify.com/track/1iyeCgNmyLz6Ghip1VVarW) | [azzz](https://open.spotify.com/artist/0UyI1qLUujBq87h9VqYIYh) | [Infinite Cloud](https://open.spotify.com/album/6uQrwva2QnqUhGeg47t6DK) | 1:47 |
+| 7 | [Infinite Cloud](https://open.spotify.com/track/4c5MdOKty7RhhqviGZWYrL) | [Elliot Norlander](https://open.spotify.com/artist/2vcH94PF19UypegwaEughz), [azzz](https://open.spotify.com/artist/0UyI1qLUujBq87h9VqYIYh) | [Infinite Cloud](https://open.spotify.com/album/5PBXsF4rwr1KOJkIxKbF4d) | 1:47 |
 | 8 | [Oh Klahoma](https://open.spotify.com/track/6SZwj6cjc8JQbkrr8cbIUn) | [Jack Stauber](https://open.spotify.com/artist/1vVHevk2PD45epYnDi9CCc) | [Pop Food](https://open.spotify.com/album/1RHa1VdX6lsLbeedgsV1cb) | 3:05 |
 | 9 | [drowning](https://open.spotify.com/track/32xjgqHt76Q8sipEop3Bci) | [Vague003](https://open.spotify.com/artist/6dJ1iY51ZgNt93gelvdF3k) | [drowning](https://open.spotify.com/album/5FNQDzhZFLwzKyEOwDlmTp) | 1:57 |
 | 10 | [I feel like I'm losing you](https://open.spotify.com/track/4aJcJzcgU9popOg5qnsGMX) | [SØINS](https://open.spotify.com/artist/59NQ59Ln72fh95XTQJcWEg) | [I feel like I'm losing you](https://open.spotify.com/album/5qw5BHflKSmlFw6Mr28aXA) | 2:22 |
@@ -86,4 +86,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ7VnoXD1s7S.md) - [plain]
 | 76 | [Bye](https://open.spotify.com/track/4JosyubgIpErAsvMKwph8n) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [Figure 8](https://open.spotify.com/album/7DC0pE943VR5tAKIvQXHts) | 1:53 |
 | 77 | [Out](https://open.spotify.com/track/3XacRs7DmGzAb8auxz6Wnt) | [Dorian Concept](https://open.spotify.com/artist/2sriRQRt36DnfHtD68zZlj) | [What We Do For Others](https://open.spotify.com/album/5k6G0HcMny4OCIIuwuVEJR) | 2:42 |
 
-Snapshot ID: `MCxlYmE2YjI4ZmFiMzhmNWJmMmQ3NGNhNTk3N2M4YTcyNTFlZTlmMGIz`
+Snapshot ID: `MCw2MmZlM2Y5NDUwNmM1MDIwODUzZDI3YTJhNGNjMTY5NDM5ODEzMDli`

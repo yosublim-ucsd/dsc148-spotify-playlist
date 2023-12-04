@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTiVLKoHQ1yC.md) - [plain]
 
 > Come alive with this progressive & melodic house selection.
 
-[Spotify](https://open.spotify.com/user/spotify) - 170,710 likes - 60 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 170,783 likes - 60 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTiVLKoHQ1yC.md) - [plain]
 | 59 | [Unite](https://open.spotify.com/track/6jIC6IkCjNSyItQXPSkx1H) | [Yeadon](https://open.spotify.com/artist/3I2GYH3sJaBakVf5tydDbn) | [Unite](https://open.spotify.com/album/6Bpgmzi5nD2JMTFVCvdFBd) | 3:08 |
 | 60 | [Influence \- Edit](https://open.spotify.com/track/1zPRy3M77zRP9nqxULP04s) | [Joe Turner](https://open.spotify.com/artist/6mWRj2iXabH0pqlYnqYMup) | [Influence](https://open.spotify.com/album/7d3X4vmORcxsVK9Hq3dJ0o) | 4:19 |
 
-Snapshot ID: `MCw4YzZlZjc0YzIzZDBjOTg3MmU1ODM2OWVmOWRjZDk2NmY4NDY2ZGRh`
+Snapshot ID: `MCxlNDBkNWE5Y2IzZjIwNmM5NjExYzZiYTIzYzVjYjE2YzlmNTNjYTZm`

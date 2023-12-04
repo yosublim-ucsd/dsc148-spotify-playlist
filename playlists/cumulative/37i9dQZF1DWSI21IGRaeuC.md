@@ -4,7 +4,7 @@
 
 > Dive into the deep end of the tech house spectrum.
 
-254 songs - 20 hr 44 min
+255 songs - 20 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -195,6 +195,7 @@
 | [Small Things](https://open.spotify.com/track/11fsAfyLE6m6j1Zay5hpvF) | [Steve Darko](https://open.spotify.com/artist/7h9yW5sJS4vddfJ8nBSpxP), [Nik Thrine](https://open.spotify.com/artist/0CCV0w2pytcnTSGanKFJxB) | [Small Things](https://open.spotify.com/album/69kWU5hSeKRyZkhsh5snWS) | 4:49 | 2022-06-03 | 2023-05-27 |
 | [So Hot](https://open.spotify.com/track/2uLhfL4MvW6jTGEYt6NYPM) | [Daniel Orpi](https://open.spotify.com/artist/4gutgD9w8iSiLjvYYy72dO) | [So Hot EP](https://open.spotify.com/album/6000OjbTdVRwMFFKSDxwdV) | 3:32 | 2022-06-03 | 2022-09-30 |
 | [So Sweet \- Matthias Tanzmann Remix](https://open.spotify.com/track/0KBOVJnMYY8bgqrfzuAIG5) | [Dennis Cruz](https://open.spotify.com/artist/27mWOSZjlpmtoqsRjRwQyu), [Matthias Tanzmann](https://open.spotify.com/artist/6bxLLapj6NByiP5cr6jMeK) | [So Sweet \(Matthias Tanzmann Remix\)](https://open.spotify.com/album/5hOWFQMBcssUJsnTAt7lr5) | 5:33 | 2022-11-11 | 2022-12-31 |
+| [Space Bump](https://open.spotify.com/track/76oZNzrXQRRGW4imfrPB1R) | [Bruno Furlan](https://open.spotify.com/artist/6gssIbF04dCX3COZvyr0JF), [Deeft](https://open.spotify.com/artist/21pCbE79vQK4sEuuwW4XJ6) | [Space Bump](https://open.spotify.com/album/3hyeFEy3z2lB4Iq7oue2Ji) | 2:47 | 2023-12-01 |  |
 | [Spring Girl](https://open.spotify.com/track/03mX4WEpvZPkHmEsd2ZoV8) | [Adam Ten](https://open.spotify.com/artist/05tmGPn4fFdVpnsMt0YW5S), [Maori](https://open.spotify.com/artist/2GjC0P8uCItsOxEYXtm7kv) | [Spring Girl](https://open.spotify.com/album/2JjG2Nnj87eX9lDnNNNdqP) | 3:48 | 2023-08-25 |  |
 | [Steamroller](https://open.spotify.com/track/1Hp1FU6me1dv5q4ei6qnbp) | [Ango Tamarin](https://open.spotify.com/artist/7uSgmPTHeYgIu7Q5JwQpQy) | [Steamroller EP](https://open.spotify.com/album/0frpqLt1rPcJSi5ZAqemSx) | 6:10 | 2022-06-03 | 2022-07-28 |
 | [street knowledge.](https://open.spotify.com/track/711gJWmej4ldX9N7BJQvbR) | [Ranger Trucco](https://open.spotify.com/artist/36N80lh8tNu7XedcW55NC3) | [summer '23](https://open.spotify.com/album/2EbpNouTaGpQLUPQ6xfXJ4) | 6:19 | 2023-08-25 | 2023-11-11 |
@@ -202,7 +203,7 @@
 | [Stutter](https://open.spotify.com/track/1OTixnhGk8U4HleNJCNUg9) | [Jansons](https://open.spotify.com/artist/0gztzLIt9uRDJd4Jl9TSLY), [Notelle](https://open.spotify.com/artist/2QH237xSFhmfZJHrRulT7U) | [Stutter EP](https://open.spotify.com/album/6S3BbGBdXGll07mJj5i6UV) | 3:53 | 2022-06-03 |  |
 | [Summer Of Love](https://open.spotify.com/track/0HMWBMDhQiMcuBH8PQmZqq) | [Fleur Shore](https://open.spotify.com/artist/7GyRA9n7JVslQGcbo72Dil) | [Summer Of Love](https://open.spotify.com/album/7duYShW24ZnlYT08ovEadQ) | 5:41 | 2022-06-17 | 2022-07-29 |
 | [Superfly](https://open.spotify.com/track/55g2IGNdPK7dnOkFtttmOB) | [Endor](https://open.spotify.com/artist/6F3vLfyutkUhpM50G84eMt) | [Superfly](https://open.spotify.com/album/7C9qqtM8RY29wFZE2BAQEJ) | 2:57 | 2022-06-10 | 2022-08-30 |
-| [Superlicious](https://open.spotify.com/track/31D6WOQYjLdcKMXoNGWKSV) | [Sosa UK](https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5) | [Superlicious](https://open.spotify.com/album/1blY0k0w4peV2SB8sVjB6y) | 3:01 | 2023-09-22 |  |
+| [Superlicious](https://open.spotify.com/track/31D6WOQYjLdcKMXoNGWKSV) | [Sosa UK](https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5) | [Superlicious](https://open.spotify.com/album/1blY0k0w4peV2SB8sVjB6y) | 3:01 | 2023-09-22 | 2023-12-04 |
 | [Superlicious](https://open.spotify.com/track/6YtsfLBQpR23z1GN3IC6Tm) | [Sosa UK](https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5) | [Superlicious](https://open.spotify.com/album/6JH3t6xNDVN7DY5t15KOAs) | 3:01 | 2023-03-17 | 2023-08-26 |
 | [Supermodel Thick](https://open.spotify.com/track/4czwcLS8x96vBcCDAFBeKv) | [Jho Roscioli](https://open.spotify.com/artist/1YyeTuJ8IrPSpPiZMq0rhH) | [Supermodel Thick](https://open.spotify.com/album/1WBrocFNoWaAwV1n7y4UTo) | 5:26 | 2023-07-28 |  |
 | [Take](https://open.spotify.com/track/5dSroDlwbzzCUxKDqEZkMx) | [Lucas Bahr](https://open.spotify.com/artist/59m7b8FHdw1hWXmFeTNx1v) | [Take](https://open.spotify.com/album/0v8VQooN6egDZnTMjGSGU5) | 2:28 | 2023-10-13 |  |

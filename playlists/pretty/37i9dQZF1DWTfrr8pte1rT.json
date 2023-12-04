@@ -1,12 +1,12 @@
 {
   "description": "Rock with a Drop. Cover: Sullivan King \\m/",
-  "num_followers": 320780,
+  "num_followers": 320808,
   "original_name": "Rocktronic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MGNmMTJhYjM3Y2ZlOTRjZWM1NTAxY2Y0ZDhkZDk2NTZjYTAwOGU4",
+  "snapshot_id": "MCw3ODgwMjU2MjBjNWI2NGYwYmY0M2I4MzgyNjI4NjlmOTBhZmFkOWI1",
   "tracks": [
     {
       "added_at": "2023-12-01 05:00:00",
@@ -523,26 +523,6 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
-        "name": "amo",
-        "url": "https://open.spotify.com/album/04mkS7FooK8fRbB626T9NR"
-      },
-      "artists": [
-        {
-          "name": "Bring Me The Horizon",
-          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
-        },
-        {
-          "name": "Grimes",
-          "url": "https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab"
-        }
-      ],
-      "duration_ms": 325501,
-      "name": "nihilist blues (feat. Grimes)",
-      "url": "https://open.spotify.com/track/1JdWRS3PBZlSgKcPKcULtr"
-    },
-    {
-      "added_at": "2023-11-24 05:00:00",
-      "album": {
         "name": "ILLENIUM",
         "url": "https://open.spotify.com/album/0ValflNlWce21wm5PlwV60"
       },
@@ -559,6 +539,26 @@
       "duration_ms": 187317,
       "name": "Back to You",
       "url": "https://open.spotify.com/track/0NNFtjZHwjTZzBtBkRxhtY"
+    },
+    {
+      "added_at": "2023-11-24 05:00:00",
+      "album": {
+        "name": "amo",
+        "url": "https://open.spotify.com/album/04mkS7FooK8fRbB626T9NR"
+      },
+      "artists": [
+        {
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+        },
+        {
+          "name": "Grimes",
+          "url": "https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab"
+        }
+      ],
+      "duration_ms": 325501,
+      "name": "nihilist blues (feat. Grimes)",
+      "url": "https://open.spotify.com/track/1JdWRS3PBZlSgKcPKcULtr"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -859,26 +859,6 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
-        "name": "Sacrificial",
-        "url": "https://open.spotify.com/album/66jlZyvN4g2VBo9RNDYrOS"
-      },
-      "artists": [
-        {
-          "name": "Rezz",
-          "url": "https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw"
-        },
-        {
-          "name": "PVRIS",
-          "url": "https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy"
-        }
-      ],
-      "duration_ms": 182000,
-      "name": "Sacrificial",
-      "url": "https://open.spotify.com/track/5YvYKEQEYJp4orh4z3Dnpk"
-    },
-    {
-      "added_at": "2023-11-24 05:00:00",
-      "album": {
         "name": "Sentiment",
         "url": "https://open.spotify.com/album/4eZHJqBC68gC2UtAKeiCnA"
       },
@@ -899,6 +879,26 @@
       "duration_ms": 202493,
       "name": "Emotion Sickness",
       "url": "https://open.spotify.com/track/5NWyhQjPTh37ygOq4UHYZk"
+    },
+    {
+      "added_at": "2023-11-24 05:00:00",
+      "album": {
+        "name": "Sacrificial",
+        "url": "https://open.spotify.com/album/66jlZyvN4g2VBo9RNDYrOS"
+      },
+      "artists": [
+        {
+          "name": "Rezz",
+          "url": "https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw"
+        },
+        {
+          "name": "PVRIS",
+          "url": "https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy"
+        }
+      ],
+      "duration_ms": 182000,
+      "name": "Sacrificial",
+      "url": "https://open.spotify.com/track/5YvYKEQEYJp4orh4z3Dnpk"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -943,22 +943,22 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
-        "name": "The Great Electronic Swindle",
-        "url": "https://open.spotify.com/album/20huTj57KXvDNglsTbvoDi"
+        "name": "Out Of Options (feat. midwxst)",
+        "url": "https://open.spotify.com/album/1wcJej04CsVq2oheKzXeDV"
       },
       "artists": [
         {
-          "name": "The Bloody Beetroots",
-          "url": "https://open.spotify.com/artist/0QJKELJZZuLAjqLOOixJm5"
+          "name": "San Holo",
+          "url": "https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo"
         },
         {
-          "name": "Jet",
-          "url": "https://open.spotify.com/artist/5ypxebeHEIXjMtJb17uJlI"
+          "name": "midwxst",
+          "url": "https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8"
         }
       ],
-      "duration_ms": 167343,
-      "name": "My Name Is Thunder",
-      "url": "https://open.spotify.com/track/3XXkwHcdDSx25VmH7Rq3rx"
+      "duration_ms": 156500,
+      "name": "Out Of Options (feat. midwxst)",
+      "url": "https://open.spotify.com/track/4VJRH6rxf9BkGYUsadAXdN"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -999,22 +999,22 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
-        "name": "Out Of Options (feat. midwxst)",
-        "url": "https://open.spotify.com/album/1wcJej04CsVq2oheKzXeDV"
+        "name": "The Great Electronic Swindle",
+        "url": "https://open.spotify.com/album/20huTj57KXvDNglsTbvoDi"
       },
       "artists": [
         {
-          "name": "San Holo",
-          "url": "https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo"
+          "name": "The Bloody Beetroots",
+          "url": "https://open.spotify.com/artist/0QJKELJZZuLAjqLOOixJm5"
         },
         {
-          "name": "midwxst",
-          "url": "https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8"
+          "name": "Jet",
+          "url": "https://open.spotify.com/artist/5ypxebeHEIXjMtJb17uJlI"
         }
       ],
-      "duration_ms": 156500,
-      "name": "Out Of Options (feat. midwxst)",
-      "url": "https://open.spotify.com/track/4VJRH6rxf9BkGYUsadAXdN"
+      "duration_ms": 167343,
+      "name": "My Name Is Thunder",
+      "url": "https://open.spotify.com/track/3XXkwHcdDSx25VmH7Rq3rx"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -1183,26 +1183,6 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
-        "name": "Wish You Were Here",
-        "url": "https://open.spotify.com/album/3YlsIOcaWk0GUhmcb9RE6W"
-      },
-      "artists": [
-        {
-          "name": "MitiS",
-          "url": "https://open.spotify.com/artist/16yUpGkBRgc2eDMd3bB3Uw"
-        },
-        {
-          "name": "Beauty School Dropout",
-          "url": "https://open.spotify.com/artist/2MJMW3WtQnDq7DKezFn5jO"
-        }
-      ],
-      "duration_ms": 214400,
-      "name": "Wish You Were Here",
-      "url": "https://open.spotify.com/track/3E0vyXi0sg1Kegs7lGgjDc"
-    },
-    {
-      "added_at": "2023-11-24 05:00:00",
-      "album": {
         "name": "This Will Be My Year",
         "url": "https://open.spotify.com/album/4a2QqVjgLQeYJCbkZT5UjH"
       },
@@ -1219,6 +1199,26 @@
       "duration_ms": 180618,
       "name": "This Will Be My Year",
       "url": "https://open.spotify.com/track/11U7Iww4rFNk6tFFG5kJGJ"
+    },
+    {
+      "added_at": "2023-11-24 05:00:00",
+      "album": {
+        "name": "Wish You Were Here",
+        "url": "https://open.spotify.com/album/3YlsIOcaWk0GUhmcb9RE6W"
+      },
+      "artists": [
+        {
+          "name": "MitiS",
+          "url": "https://open.spotify.com/artist/16yUpGkBRgc2eDMd3bB3Uw"
+        },
+        {
+          "name": "Beauty School Dropout",
+          "url": "https://open.spotify.com/artist/2MJMW3WtQnDq7DKezFn5jO"
+        }
+      ],
+      "duration_ms": 214400,
+      "name": "Wish You Were Here",
+      "url": "https://open.spotify.com/track/3E0vyXi0sg1Kegs7lGgjDc"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -1303,6 +1303,26 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
+        "name": "Timebomb (feat. MOD SUN)",
+        "url": "https://open.spotify.com/album/40yndRDwPV70abVTMtxNBU"
+      },
+      "artists": [
+        {
+          "name": "Two Friends",
+          "url": "https://open.spotify.com/artist/44Ewva5aHOX00EwaX2D2mh"
+        },
+        {
+          "name": "MOD SUN",
+          "url": "https://open.spotify.com/artist/3u2R8st1bb6zfBqNWceRXG"
+        }
+      ],
+      "duration_ms": 182040,
+      "name": "Timebomb (feat. MOD SUN)",
+      "url": "https://open.spotify.com/track/4kAsc2vx4NBqk9dXn1nrZC"
+    },
+    {
+      "added_at": "2023-11-24 05:00:00",
+      "album": {
         "name": "Never Change (Sullivan King Remix)",
         "url": "https://open.spotify.com/album/7oIr0bLgBlxMScTiaVlU3K"
       },
@@ -1347,46 +1367,6 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
-        "name": "Timebomb (feat. MOD SUN)",
-        "url": "https://open.spotify.com/album/40yndRDwPV70abVTMtxNBU"
-      },
-      "artists": [
-        {
-          "name": "Two Friends",
-          "url": "https://open.spotify.com/artist/44Ewva5aHOX00EwaX2D2mh"
-        },
-        {
-          "name": "MOD SUN",
-          "url": "https://open.spotify.com/artist/3u2R8st1bb6zfBqNWceRXG"
-        }
-      ],
-      "duration_ms": 182040,
-      "name": "Timebomb (feat. MOD SUN)",
-      "url": "https://open.spotify.com/track/4kAsc2vx4NBqk9dXn1nrZC"
-    },
-    {
-      "added_at": "2023-11-24 05:00:00",
-      "album": {
-        "name": "Thrones of Blood",
-        "url": "https://open.spotify.com/album/3bA9JNdeH91Id0ilofZlVX"
-      },
-      "artists": [
-        {
-          "name": "Sullivan King",
-          "url": "https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e"
-        },
-        {
-          "name": "Kai Wachi",
-          "url": "https://open.spotify.com/artist/2fNr4ldujwq97v1jWeqs8K"
-        }
-      ],
-      "duration_ms": 165857,
-      "name": "Riot",
-      "url": "https://open.spotify.com/track/2npMfTDQAwY1Jga13HS01O"
-    },
-    {
-      "added_at": "2023-11-24 05:00:00",
-      "album": {
         "name": "Won't Make A Sound",
         "url": "https://open.spotify.com/album/30dC6io6lDi08GNNyGnudg"
       },
@@ -1407,6 +1387,26 @@
       "duration_ms": 276480,
       "name": "Won't Make A Sound",
       "url": "https://open.spotify.com/track/1mgsWGf69P448vP0md1Z8e"
+    },
+    {
+      "added_at": "2023-11-24 05:00:00",
+      "album": {
+        "name": "Thrones of Blood",
+        "url": "https://open.spotify.com/album/3bA9JNdeH91Id0ilofZlVX"
+      },
+      "artists": [
+        {
+          "name": "Sullivan King",
+          "url": "https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e"
+        },
+        {
+          "name": "Kai Wachi",
+          "url": "https://open.spotify.com/artist/2fNr4ldujwq97v1jWeqs8K"
+        }
+      ],
+      "duration_ms": 165857,
+      "name": "Riot",
+      "url": "https://open.spotify.com/track/2npMfTDQAwY1Jga13HS01O"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -1447,6 +1447,26 @@
       "duration_ms": 284137,
       "name": "Monsters",
       "url": "https://open.spotify.com/track/2baHywIRnkbKD7ff5C8Cuz"
+    },
+    {
+      "added_at": "2023-11-24 05:00:00",
+      "album": {
+        "name": "Liar (with OST)",
+        "url": "https://open.spotify.com/album/1dVm3KtEc7sr2ymzpXBxDn"
+      },
+      "artists": [
+        {
+          "name": "Kayzo",
+          "url": "https://open.spotify.com/artist/72iCiKwu6nu6Qq9emIwzYv"
+        },
+        {
+          "name": "OST",
+          "url": "https://open.spotify.com/artist/0SPumghRyXz86GmepkeDmB"
+        }
+      ],
+      "duration_ms": 296250,
+      "name": "Liar (with OST)",
+      "url": "https://open.spotify.com/track/3dApO0DoZinSPrKKPhoKuz"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -1499,22 +1519,22 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
-        "name": "Liar (with OST)",
-        "url": "https://open.spotify.com/album/1dVm3KtEc7sr2ymzpXBxDn"
+        "name": "Werewolf: Synthwave Edition",
+        "url": "https://open.spotify.com/album/36KmpPLQT5kQ1BAOTtN6bF"
       },
       "artists": [
         {
-          "name": "Kayzo",
-          "url": "https://open.spotify.com/artist/72iCiKwu6nu6Qq9emIwzYv"
+          "name": "Motionless In White",
+          "url": "https://open.spotify.com/artist/6MwPCCR936cYfM1dLsGVnl"
         },
         {
-          "name": "OST",
-          "url": "https://open.spotify.com/artist/0SPumghRyXz86GmepkeDmB"
+          "name": "Saxl Rose",
+          "url": "https://open.spotify.com/artist/28VuUrhLvudCiA9zYn0FMq"
         }
       ],
-      "duration_ms": 296250,
-      "name": "Liar (with OST)",
-      "url": "https://open.spotify.com/track/3dApO0DoZinSPrKKPhoKuz"
+      "duration_ms": 211387,
+      "name": "Werewolf: Synthwave Edition",
+      "url": "https://open.spotify.com/track/0D4v7cIYb2bIYKNG7BQtbW"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -1543,26 +1563,6 @@
       "duration_ms": 161118,
       "name": "Your Shoes",
       "url": "https://open.spotify.com/track/6tssyzOMVjrQs8qj2NgmcP"
-    },
-    {
-      "added_at": "2023-11-24 05:00:00",
-      "album": {
-        "name": "Werewolf: Synthwave Edition",
-        "url": "https://open.spotify.com/album/36KmpPLQT5kQ1BAOTtN6bF"
-      },
-      "artists": [
-        {
-          "name": "Motionless In White",
-          "url": "https://open.spotify.com/artist/6MwPCCR936cYfM1dLsGVnl"
-        },
-        {
-          "name": "Saxl Rose",
-          "url": "https://open.spotify.com/artist/28VuUrhLvudCiA9zYn0FMq"
-        }
-      ],
-      "duration_ms": 211387,
-      "name": "Werewolf: Synthwave Edition",
-      "url": "https://open.spotify.com/track/0D4v7cIYb2bIYKNG7BQtbW"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -1639,6 +1639,22 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
+        "name": "Happy",
+        "url": "https://open.spotify.com/album/7dU0k0K5sPL9HjlNayeJO5"
+      },
+      "artists": [
+        {
+          "name": "Silent Child",
+          "url": "https://open.spotify.com/artist/59XQUEHhy5830QsAsmhe2M"
+        }
+      ],
+      "duration_ms": 160941,
+      "name": "Happy",
+      "url": "https://open.spotify.com/track/4yP4JAXW3rfqHYUO36knit"
+    },
+    {
+      "added_at": "2023-11-24 05:00:00",
+      "album": {
         "name": "A Change of Perspective (Deluxe)",
         "url": "https://open.spotify.com/album/0MjTA2onvTA3XzdyU64KpD"
       },
@@ -1659,18 +1675,18 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
-        "name": "Happy",
-        "url": "https://open.spotify.com/album/7dU0k0K5sPL9HjlNayeJO5"
+        "name": "Enemy Brain Entertainment Suite",
+        "url": "https://open.spotify.com/album/1wOfvS8Y6lJbwmyGnjvW1b"
       },
       "artists": [
         {
-          "name": "Silent Child",
-          "url": "https://open.spotify.com/artist/59XQUEHhy5830QsAsmhe2M"
+          "name": "Fox Stevenson",
+          "url": "https://open.spotify.com/artist/2BQWHuvxG4kMYnfghdaCIy"
         }
       ],
-      "duration_ms": 160941,
-      "name": "Happy",
-      "url": "https://open.spotify.com/track/4yP4JAXW3rfqHYUO36knit"
+      "duration_ms": 251511,
+      "name": "Enemy Brain",
+      "url": "https://open.spotify.com/track/0Ut7NNgAIlY9RGeXIvNfXF"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -1695,18 +1711,38 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
-        "name": "Enemy Brain Entertainment Suite",
-        "url": "https://open.spotify.com/album/1wOfvS8Y6lJbwmyGnjvW1b"
+        "name": "Falling",
+        "url": "https://open.spotify.com/album/6s01oJfNMzklI98wT7YgDU"
       },
       "artists": [
         {
-          "name": "Fox Stevenson",
-          "url": "https://open.spotify.com/artist/2BQWHuvxG4kMYnfghdaCIy"
+          "name": "Rezz",
+          "url": "https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw"
+        },
+        {
+          "name": "Underoath",
+          "url": "https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK"
         }
       ],
-      "duration_ms": 251511,
-      "name": "Enemy Brain",
-      "url": "https://open.spotify.com/track/0Ut7NNgAIlY9RGeXIvNfXF"
+      "duration_ms": 209411,
+      "name": "Falling",
+      "url": "https://open.spotify.com/track/2jy15HYKNtWQ0STN9ZOw8v"
+    },
+    {
+      "added_at": "2023-11-24 05:00:00",
+      "album": {
+        "name": "Loving You Kills Me",
+        "url": "https://open.spotify.com/album/53r3BRA2TeyJyEtYDBrI60"
+      },
+      "artists": [
+        {
+          "name": "GG Magree",
+          "url": "https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n"
+        }
+      ],
+      "duration_ms": 174657,
+      "name": "Loving You Kills Me",
+      "url": "https://open.spotify.com/track/2Zjg31wnbhRzGsnOrnEY0r"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -1731,42 +1767,6 @@
       "duration_ms": 255448,
       "name": "On My Own",
       "url": "https://open.spotify.com/track/7JiWFKym2XX7vgQDt0uUmB"
-    },
-    {
-      "added_at": "2023-11-24 05:00:00",
-      "album": {
-        "name": "Loving You Kills Me",
-        "url": "https://open.spotify.com/album/53r3BRA2TeyJyEtYDBrI60"
-      },
-      "artists": [
-        {
-          "name": "GG Magree",
-          "url": "https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n"
-        }
-      ],
-      "duration_ms": 174657,
-      "name": "Loving You Kills Me",
-      "url": "https://open.spotify.com/track/2Zjg31wnbhRzGsnOrnEY0r"
-    },
-    {
-      "added_at": "2023-11-24 05:00:00",
-      "album": {
-        "name": "Falling",
-        "url": "https://open.spotify.com/album/6s01oJfNMzklI98wT7YgDU"
-      },
-      "artists": [
-        {
-          "name": "Rezz",
-          "url": "https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw"
-        },
-        {
-          "name": "Underoath",
-          "url": "https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK"
-        }
-      ],
-      "duration_ms": 209411,
-      "name": "Falling",
-      "url": "https://open.spotify.com/track/2jy15HYKNtWQ0STN9ZOw8v"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -1811,26 +1811,6 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
-        "name": "Ghost Story (with All Time Low)",
-        "url": "https://open.spotify.com/album/2Jduh10Puwm4d0FG9XH37E"
-      },
-      "artists": [
-        {
-          "name": "Cheat Codes",
-          "url": "https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU"
-        },
-        {
-          "name": "All Time Low",
-          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
-        }
-      ],
-      "duration_ms": 166971,
-      "name": "Ghost Story (with All Time Low)",
-      "url": "https://open.spotify.com/track/0DlrV801mOlq3zZijliOqB"
-    },
-    {
-      "added_at": "2023-11-24 05:00:00",
-      "album": {
         "name": "Throne",
         "url": "https://open.spotify.com/album/7BkAmE9oQgwNLUXfUejlk0"
       },
@@ -1847,6 +1827,26 @@
       "duration_ms": 220000,
       "name": "Throne",
       "url": "https://open.spotify.com/track/5zuypqd222hx8o7vIIXta5"
+    },
+    {
+      "added_at": "2023-11-24 05:00:00",
+      "album": {
+        "name": "Ghost Story (with All Time Low)",
+        "url": "https://open.spotify.com/album/2Jduh10Puwm4d0FG9XH37E"
+      },
+      "artists": [
+        {
+          "name": "Cheat Codes",
+          "url": "https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU"
+        },
+        {
+          "name": "All Time Low",
+          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
+        }
+      ],
+      "duration_ms": 166971,
+      "name": "Ghost Story (with All Time Low)",
+      "url": "https://open.spotify.com/track/0DlrV801mOlq3zZijliOqB"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -1875,6 +1875,22 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
+        "name": "BURNING RUBBER",
+        "url": "https://open.spotify.com/album/2IQbuEqIESTmjTgYctYH8e"
+      },
+      "artists": [
+        {
+          "name": "Jeris Johnson",
+          "url": "https://open.spotify.com/artist/2hmePXeTr2b7cdRAtRjvPq"
+        }
+      ],
+      "duration_ms": 133888,
+      "name": "BURNING RUBBER",
+      "url": "https://open.spotify.com/track/4LJ6NBnEKhZSBIC3PsBTFA"
+    },
+    {
+      "added_at": "2023-11-24 05:00:00",
+      "album": {
         "name": "SKINS",
         "url": "https://open.spotify.com/album/6MQeqXw9V1TmwvQRmZCSfP"
       },
@@ -1891,22 +1907,6 @@
       "duration_ms": 310607,
       "name": "Skins",
       "url": "https://open.spotify.com/track/54zrIs7UXX7kp3sFj7mlvG"
-    },
-    {
-      "added_at": "2023-11-24 05:00:00",
-      "album": {
-        "name": "BURNING RUBBER",
-        "url": "https://open.spotify.com/album/2IQbuEqIESTmjTgYctYH8e"
-      },
-      "artists": [
-        {
-          "name": "Jeris Johnson",
-          "url": "https://open.spotify.com/artist/2hmePXeTr2b7cdRAtRjvPq"
-        }
-      ],
-      "duration_ms": 133888,
-      "name": "BURNING RUBBER",
-      "url": "https://open.spotify.com/track/4LJ6NBnEKhZSBIC3PsBTFA"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -2099,22 +2099,6 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
-        "name": "Dead Man Walking Pt. 1",
-        "url": "https://open.spotify.com/album/5Rulijsb8lWwqPSFbzEHgD"
-      },
-      "artists": [
-        {
-          "name": "Zomboy",
-          "url": "https://open.spotify.com/artist/0ycHhPwPvoaO4VGzmMnXGq"
-        }
-      ],
-      "duration_ms": 287000,
-      "name": "Dead Man Walking",
-      "url": "https://open.spotify.com/track/1BocvYKP6Khn2AXOLqNmUS"
-    },
-    {
-      "added_at": "2023-11-24 05:00:00",
-      "album": {
         "name": "Baptize (Sullivan King Remix)",
         "url": "https://open.spotify.com/album/5uQbdtWsZJNZwD7MUFYwYj"
       },
@@ -2131,6 +2115,22 @@
       "duration_ms": 250241,
       "name": "Baptize - Sullivan King Remix",
       "url": "https://open.spotify.com/track/2BapJncaYH9qOeNizjXv2Q"
+    },
+    {
+      "added_at": "2023-11-24 05:00:00",
+      "album": {
+        "name": "Dead Man Walking Pt. 1",
+        "url": "https://open.spotify.com/album/5Rulijsb8lWwqPSFbzEHgD"
+      },
+      "artists": [
+        {
+          "name": "Zomboy",
+          "url": "https://open.spotify.com/artist/0ycHhPwPvoaO4VGzmMnXGq"
+        }
+      ],
+      "duration_ms": 287000,
+      "name": "Dead Man Walking",
+      "url": "https://open.spotify.com/track/1BocvYKP6Khn2AXOLqNmUS"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -2191,6 +2191,22 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
+        "name": "FIMBULVETR",
+        "url": "https://open.spotify.com/album/2xZklOn1SNJBZpWaKvxnmP"
+      },
+      "artists": [
+        {
+          "name": "YMIR",
+          "url": "https://open.spotify.com/artist/7MxaflmSZI1igZLk7Rg2LD"
+        }
+      ],
+      "duration_ms": 233203,
+      "name": "FIMBULVETR",
+      "url": "https://open.spotify.com/track/66ScyH02Wf1ntSSnHihDhN"
+    },
+    {
+      "added_at": "2023-11-24 05:00:00",
+      "album": {
         "name": "Searching For Nothing",
         "url": "https://open.spotify.com/album/3d4wTJ2uxT7wrZ13yhxZBa"
       },
@@ -2211,18 +2227,18 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
-        "name": "FIMBULVETR",
-        "url": "https://open.spotify.com/album/2xZklOn1SNJBZpWaKvxnmP"
+        "name": "Playing Chess",
+        "url": "https://open.spotify.com/album/50tXNZuf7nO2A2RvckpFrl"
       },
       "artists": [
         {
-          "name": "YMIR",
-          "url": "https://open.spotify.com/artist/7MxaflmSZI1igZLk7Rg2LD"
+          "name": "Giol\u00ec & Assia",
+          "url": "https://open.spotify.com/artist/6mM9a86Nrw0y7f9MaJGbpU"
         }
       ],
-      "duration_ms": 233203,
-      "name": "FIMBULVETR",
-      "url": "https://open.spotify.com/track/66ScyH02Wf1ntSSnHihDhN"
+      "duration_ms": 231739,
+      "name": "Playing Chess",
+      "url": "https://open.spotify.com/track/2leNp4jIw6UIypwbcIVR3S"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -2243,22 +2259,6 @@
       "duration_ms": 202714,
       "name": "Last Forever",
       "url": "https://open.spotify.com/track/3AsCaUpOdqmQYtNsEonbvx"
-    },
-    {
-      "added_at": "2023-11-24 05:00:00",
-      "album": {
-        "name": "Playing Chess",
-        "url": "https://open.spotify.com/album/50tXNZuf7nO2A2RvckpFrl"
-      },
-      "artists": [
-        {
-          "name": "Giol\u00ec & Assia",
-          "url": "https://open.spotify.com/artist/6mM9a86Nrw0y7f9MaJGbpU"
-        }
-      ],
-      "duration_ms": 231739,
-      "name": "Playing Chess",
-      "url": "https://open.spotify.com/track/2leNp4jIw6UIypwbcIVR3S"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -2419,18 +2419,18 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
-        "name": "Pure Smile Snake Venom",
-        "url": "https://open.spotify.com/album/7nXYRc3PivS07SCWTWPl0R"
+        "name": "Fallout",
+        "url": "https://open.spotify.com/album/5qXRnuy8l76kO4TfVGjOUW"
       },
       "artists": [
         {
-          "name": "Eartheater",
-          "url": "https://open.spotify.com/artist/18ca9d5EU5R1AhVKPR1cm0"
+          "name": "HVDES",
+          "url": "https://open.spotify.com/artist/3koHmmPvpgZWHcVmK8AKDq"
         }
       ],
-      "duration_ms": 221106,
-      "name": "Pure Smile Snake Venom",
-      "url": "https://open.spotify.com/track/3tbIgRlbQ9s0MYkJTv8ued"
+      "duration_ms": 292173,
+      "name": "Fallout",
+      "url": "https://open.spotify.com/track/0Z3azmUTP30fOD1XJ0hSjV"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -2455,38 +2455,18 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
-        "name": "Fallout",
-        "url": "https://open.spotify.com/album/5qXRnuy8l76kO4TfVGjOUW"
+        "name": "Pure Smile Snake Venom",
+        "url": "https://open.spotify.com/album/7nXYRc3PivS07SCWTWPl0R"
       },
       "artists": [
         {
-          "name": "HVDES",
-          "url": "https://open.spotify.com/artist/3koHmmPvpgZWHcVmK8AKDq"
+          "name": "Eartheater",
+          "url": "https://open.spotify.com/artist/18ca9d5EU5R1AhVKPR1cm0"
         }
       ],
-      "duration_ms": 292173,
-      "name": "Fallout",
-      "url": "https://open.spotify.com/track/0Z3azmUTP30fOD1XJ0hSjV"
-    },
-    {
-      "added_at": "2023-11-24 05:00:00",
-      "album": {
-        "name": "Bad Luck",
-        "url": "https://open.spotify.com/album/3VjDetfhWUDHNNSawdk81Q"
-      },
-      "artists": [
-        {
-          "name": "Pegboard Nerds",
-          "url": "https://open.spotify.com/artist/0lLY20XpZ9yDobkbHI7u1y"
-        },
-        {
-          "name": "Kiz Keyz",
-          "url": "https://open.spotify.com/artist/7GAnVRGrOJIUhOQKEehgFS"
-        }
-      ],
-      "duration_ms": 171243,
-      "name": "Bad Luck",
-      "url": "https://open.spotify.com/track/2lcapVdJDedPx2GYGtKxwz"
+      "duration_ms": 221106,
+      "name": "Pure Smile Snake Venom",
+      "url": "https://open.spotify.com/track/3tbIgRlbQ9s0MYkJTv8ued"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -2507,6 +2487,26 @@
       "duration_ms": 232123,
       "name": "Ohio is for Lovers",
       "url": "https://open.spotify.com/track/78QULk7GWaRjHz15jPLPuQ"
+    },
+    {
+      "added_at": "2023-11-24 05:00:00",
+      "album": {
+        "name": "Bad Luck",
+        "url": "https://open.spotify.com/album/3VjDetfhWUDHNNSawdk81Q"
+      },
+      "artists": [
+        {
+          "name": "Pegboard Nerds",
+          "url": "https://open.spotify.com/artist/0lLY20XpZ9yDobkbHI7u1y"
+        },
+        {
+          "name": "Kiz Keyz",
+          "url": "https://open.spotify.com/artist/7GAnVRGrOJIUhOQKEehgFS"
+        }
+      ],
+      "duration_ms": 171243,
+      "name": "Bad Luck",
+      "url": "https://open.spotify.com/track/2lcapVdJDedPx2GYGtKxwz"
     }
   ],
   "unique_name": "Rocktronic",

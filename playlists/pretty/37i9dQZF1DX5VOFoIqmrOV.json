@@ -1,12 +1,12 @@
 {
   "description": "The finest set of Telugu music from the past 10 years. \nCover : Ala Vaikunthapurramuloo",
-  "num_followers": 311953,
+  "num_followers": 312136,
   "original_name": "Tollywood Pearls",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZTczMWFjNGNkNjk2MGQ5OTIxNzA5MDQ4MjdkZDk1YmM0OTFmMDNi",
+  "snapshot_id": "MCxhNmJjNmZjYjQ1MDAwNGIyODNiZmJiZWE4ODFlZDJkZTJjNTlkNTUy",
   "tracks": [
     {
       "added_at": "2022-02-09 09:10:51",
@@ -489,22 +489,6 @@
       "url": "https://open.spotify.com/track/2YmXGUx32C3CUEgcAyHcGf"
     },
     {
-      "added_at": "2022-07-24 04:40:57",
-      "album": {
-        "name": "Kirrak Party",
-        "url": "https://open.spotify.com/album/2S8HTTAlfF9ig5wfFkOw6p"
-      },
-      "artists": [
-        {
-          "name": "Vijay Prakash",
-          "url": "https://open.spotify.com/artist/4iA6bUhiZyvRKJf4FNVX39"
-        }
-      ],
-      "duration_ms": 216171,
-      "name": "Guruvaram",
-      "url": "https://open.spotify.com/track/58DAnVD65xKeQW3ARTBolV"
-    },
-    {
       "added_at": "2023-08-07 09:11:28",
       "album": {
         "name": "Idharammayilatho",
@@ -523,6 +507,22 @@
       "duration_ms": 263729,
       "name": "Violin Song",
       "url": "https://open.spotify.com/track/1C2gJaINSao4GEXySYopiS"
+    },
+    {
+      "added_at": "2022-07-24 04:40:57",
+      "album": {
+        "name": "Kirrak Party",
+        "url": "https://open.spotify.com/album/2S8HTTAlfF9ig5wfFkOw6p"
+      },
+      "artists": [
+        {
+          "name": "Vijay Prakash",
+          "url": "https://open.spotify.com/artist/4iA6bUhiZyvRKJf4FNVX39"
+        }
+      ],
+      "duration_ms": 216171,
+      "name": "Guruvaram",
+      "url": "https://open.spotify.com/track/58DAnVD65xKeQW3ARTBolV"
     },
     {
       "added_at": "2023-08-07 09:11:28",
@@ -711,6 +711,22 @@
     {
       "added_at": "2023-08-07 09:11:28",
       "album": {
+        "name": "Arjun Reddy",
+        "url": "https://open.spotify.com/album/1tqm6TOZEJfsjJagQPFbyd"
+      },
+      "artists": [
+        {
+          "name": "L. V. Revanth",
+          "url": "https://open.spotify.com/artist/2OrTfOi3k8VMFLuvC527bB"
+        }
+      ],
+      "duration_ms": 252286,
+      "name": "Telisiney Na Nuvvey",
+      "url": "https://open.spotify.com/track/6f7qFjos0WWqvtEnwFDS0a"
+    },
+    {
+      "added_at": "2023-08-07 09:11:28",
+      "album": {
         "name": "Dhruva",
         "url": "https://open.spotify.com/album/2mutIulE85wKAHrrP0oCuM"
       },
@@ -727,22 +743,6 @@
       "duration_ms": 200772,
       "name": "Choosa Choosa",
       "url": "https://open.spotify.com/track/0iIvZ25h16B9DhjptYp8hK"
-    },
-    {
-      "added_at": "2023-08-07 09:11:28",
-      "album": {
-        "name": "Arjun Reddy",
-        "url": "https://open.spotify.com/album/1tqm6TOZEJfsjJagQPFbyd"
-      },
-      "artists": [
-        {
-          "name": "L. V. Revanth",
-          "url": "https://open.spotify.com/artist/2OrTfOi3k8VMFLuvC527bB"
-        }
-      ],
-      "duration_ms": 252286,
-      "name": "Telisiney Na Nuvvey",
-      "url": "https://open.spotify.com/track/6f7qFjos0WWqvtEnwFDS0a"
     },
     {
       "added_at": "2023-05-04 06:50:45",
@@ -1205,26 +1205,6 @@
       "url": "https://open.spotify.com/track/0BFQi3erN3X4tT6ZrthC5d"
     },
     {
-      "added_at": "2022-08-16 07:40:21",
-      "album": {
-        "name": "Inthandham [From \"Sita Ramam (Telugu)\"]",
-        "url": "https://open.spotify.com/album/6J9Jhm6rr5RboOPtvzkNrX"
-      },
-      "artists": [
-        {
-          "name": "Vishal Chandrashekhar",
-          "url": "https://open.spotify.com/artist/0rL4uL3xfYOt2p7NHhS8qr"
-        },
-        {
-          "name": "S.P. Charan",
-          "url": "https://open.spotify.com/artist/1BIAyVQxDuYrMqZ8H1Faja"
-        }
-      ],
-      "duration_ms": 218808,
-      "name": "Inthandham (From \"Sita Ramam (Telugu)\")",
-      "url": "https://open.spotify.com/track/3BVjPpVvki8Jpm1Ew21UjH"
-    },
-    {
       "added_at": "2023-08-07 09:11:28",
       "album": {
         "name": "Malli Malli Idi Rani Roju",
@@ -1243,6 +1223,26 @@
       "duration_ms": 271428,
       "name": "Yenno Yenno",
       "url": "https://open.spotify.com/track/6jaQom4BBYEoylc4NSMcga"
+    },
+    {
+      "added_at": "2022-08-16 07:40:21",
+      "album": {
+        "name": "Inthandham [From \"Sita Ramam (Telugu)\"]",
+        "url": "https://open.spotify.com/album/6J9Jhm6rr5RboOPtvzkNrX"
+      },
+      "artists": [
+        {
+          "name": "Vishal Chandrashekhar",
+          "url": "https://open.spotify.com/artist/0rL4uL3xfYOt2p7NHhS8qr"
+        },
+        {
+          "name": "S.P. Charan",
+          "url": "https://open.spotify.com/artist/1BIAyVQxDuYrMqZ8H1Faja"
+        }
+      ],
+      "duration_ms": 218808,
+      "name": "Inthandham (From \"Sita Ramam (Telugu)\")",
+      "url": "https://open.spotify.com/track/3BVjPpVvki8Jpm1Ew21UjH"
     },
     {
       "added_at": "2023-05-04 06:50:45",

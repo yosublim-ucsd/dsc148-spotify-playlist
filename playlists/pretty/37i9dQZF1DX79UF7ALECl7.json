@@ -1,12 +1,12 @@
 {
   "description": "Have some chill house with your coffee\n",
-  "num_followers": 121036,
+  "num_followers": 121055,
   "original_name": "Coffee Club",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZTkwMGIwOWJjOTU3ODU5NjQyMjE3NjI4NTg2MjA3NzhjMjg1NDk2",
+  "snapshot_id": "MCw5OWMyOGQzOTU3Yjk1OTdmM2QwMjM1ZDI4NWIwNzM1YmViNWQ1MWZj",
   "tracks": [
     {
       "added_at": "2023-11-30 16:06:40",
@@ -47,30 +47,6 @@
     {
       "added_at": "2023-11-30 16:06:40",
       "album": {
-        "name": "When the Sun Goes Down",
-        "url": "https://open.spotify.com/album/2cWBcF4eIjTTJGBaAb7xXr"
-      },
-      "artists": [
-        {
-          "name": "HAYM",
-          "url": "https://open.spotify.com/artist/6QQD5qFg4hsxqks5NGZEel"
-        },
-        {
-          "name": "Tom Polo",
-          "url": "https://open.spotify.com/artist/3QSfc9ujwQnb254isTp4VK"
-        },
-        {
-          "name": "Mars Twins",
-          "url": "https://open.spotify.com/artist/2255cIvJST7JWNyUizO1py"
-        }
-      ],
-      "duration_ms": 124113,
-      "name": "When the Sun Goes Down",
-      "url": "https://open.spotify.com/track/1OEbaiPMlMDCPMM4ReCIIH"
-    },
-    {
-      "added_at": "2023-11-30 16:06:40",
-      "album": {
         "name": "Away",
         "url": "https://open.spotify.com/album/53ffmHurxQTIN3ZRZ3lVZx"
       },
@@ -99,6 +75,30 @@
       "duration_ms": 107586,
       "name": "House Shit",
       "url": "https://open.spotify.com/track/4jw0Ezk1j8xaAdKNdkgX22"
+    },
+    {
+      "added_at": "2023-11-30 16:06:40",
+      "album": {
+        "name": "When the Sun Goes Down",
+        "url": "https://open.spotify.com/album/2cWBcF4eIjTTJGBaAb7xXr"
+      },
+      "artists": [
+        {
+          "name": "HAYM",
+          "url": "https://open.spotify.com/artist/6QQD5qFg4hsxqks5NGZEel"
+        },
+        {
+          "name": "Tom Polo",
+          "url": "https://open.spotify.com/artist/3QSfc9ujwQnb254isTp4VK"
+        },
+        {
+          "name": "Mars Twins",
+          "url": "https://open.spotify.com/artist/2255cIvJST7JWNyUizO1py"
+        }
+      ],
+      "duration_ms": 124113,
+      "name": "When the Sun Goes Down",
+      "url": "https://open.spotify.com/track/1OEbaiPMlMDCPMM4ReCIIH"
     },
     {
       "added_at": "2023-11-30 16:06:40",
@@ -255,22 +255,6 @@
     {
       "added_at": "2023-11-30 16:06:40",
       "album": {
-        "name": "Endurance / Heart",
-        "url": "https://open.spotify.com/album/62QvEUJymDy8luwuJQFALW"
-      },
-      "artists": [
-        {
-          "name": "Road Kahan",
-          "url": "https://open.spotify.com/artist/3YR1VNcG6ld2CHMSkia9Xs"
-        }
-      ],
-      "duration_ms": 200126,
-      "name": "Endurance",
-      "url": "https://open.spotify.com/track/2PEQZNjNKN4GEsUbo3yD8d"
-    },
-    {
-      "added_at": "2023-11-30 16:06:40",
-      "album": {
         "name": "Noemie",
         "url": "https://open.spotify.com/album/2QOW9TFUMABmFYGMPXDi1c"
       },
@@ -283,6 +267,22 @@
       "duration_ms": 178000,
       "name": "Noemie",
       "url": "https://open.spotify.com/track/0WcwBpZZ0CLBz47Z1fEqfy"
+    },
+    {
+      "added_at": "2023-11-30 16:06:40",
+      "album": {
+        "name": "Endurance / Heart",
+        "url": "https://open.spotify.com/album/62QvEUJymDy8luwuJQFALW"
+      },
+      "artists": [
+        {
+          "name": "Road Kahan",
+          "url": "https://open.spotify.com/artist/3YR1VNcG6ld2CHMSkia9Xs"
+        }
+      ],
+      "duration_ms": 200126,
+      "name": "Endurance",
+      "url": "https://open.spotify.com/track/2PEQZNjNKN4GEsUbo3yD8d"
     },
     {
       "added_at": "2023-11-30 16:06:40",
@@ -763,18 +763,18 @@
     {
       "added_at": "2023-11-30 16:06:40",
       "album": {
-        "name": "Falling",
-        "url": "https://open.spotify.com/album/2WqkuyYDmZuiRDe9Y9MgfL"
+        "name": "Petricor",
+        "url": "https://open.spotify.com/album/0IVYH4XuCGwV5Xdw6oL1nG"
       },
       "artists": [
         {
-          "name": "Road Kahan",
-          "url": "https://open.spotify.com/artist/3YR1VNcG6ld2CHMSkia9Xs"
+          "name": "Sinego",
+          "url": "https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb"
         }
       ],
-      "duration_ms": 182407,
-      "name": "Falling",
-      "url": "https://open.spotify.com/track/0s2ca6bYZBcJYIkD69p50I"
+      "duration_ms": 204427,
+      "name": "Petricor",
+      "url": "https://open.spotify.com/track/5d4DtQUmvFYubKmOhL0p7m"
     },
     {
       "added_at": "2023-11-30 16:06:40",
@@ -799,18 +799,18 @@
     {
       "added_at": "2023-11-30 16:06:40",
       "album": {
-        "name": "Petricor",
-        "url": "https://open.spotify.com/album/0IVYH4XuCGwV5Xdw6oL1nG"
+        "name": "Falling",
+        "url": "https://open.spotify.com/album/2WqkuyYDmZuiRDe9Y9MgfL"
       },
       "artists": [
         {
-          "name": "Sinego",
-          "url": "https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb"
+          "name": "Road Kahan",
+          "url": "https://open.spotify.com/artist/3YR1VNcG6ld2CHMSkia9Xs"
         }
       ],
-      "duration_ms": 204427,
-      "name": "Petricor",
-      "url": "https://open.spotify.com/track/5d4DtQUmvFYubKmOhL0p7m"
+      "duration_ms": 182407,
+      "name": "Falling",
+      "url": "https://open.spotify.com/track/0s2ca6bYZBcJYIkD69p50I"
     },
     {
       "added_at": "2023-11-30 16:06:40",
@@ -1111,22 +1111,18 @@
     {
       "added_at": "2023-11-30 16:06:40",
       "album": {
-        "name": "Infinity (The Remixes)",
-        "url": "https://open.spotify.com/album/2CpBDYbLROR0mt45dswpiD"
+        "name": "Cherry Skies",
+        "url": "https://open.spotify.com/album/5yytMHzOYkzesn2dON2tCe"
       },
       "artists": [
         {
-          "name": "Bluma Petersen",
-          "url": "https://open.spotify.com/artist/1I7A8xBGgo3BLIWoG8B91h"
-        },
-        {
-          "name": "SLCT",
-          "url": "https://open.spotify.com/artist/1WblOSbQMKczLhoK041oOM"
+          "name": "Mike D' Jais",
+          "url": "https://open.spotify.com/artist/1ekYM3tHN9Dt7HAUoHclwq"
         }
       ],
-      "duration_ms": 176356,
-      "name": "Infinity (SLCT Remix) (Instrumental Version)",
-      "url": "https://open.spotify.com/track/3XZu6dyTtjOlvskuMfJPTM"
+      "duration_ms": 210000,
+      "name": "Cherry Skies",
+      "url": "https://open.spotify.com/track/2taL7WpjrPMzwn65gVfxqP"
     },
     {
       "added_at": "2023-11-30 16:06:40",
@@ -1147,18 +1143,22 @@
     {
       "added_at": "2023-11-30 16:06:40",
       "album": {
-        "name": "Cherry Skies",
-        "url": "https://open.spotify.com/album/5yytMHzOYkzesn2dON2tCe"
+        "name": "Infinity (The Remixes)",
+        "url": "https://open.spotify.com/album/2CpBDYbLROR0mt45dswpiD"
       },
       "artists": [
         {
-          "name": "Mike D' Jais",
-          "url": "https://open.spotify.com/artist/1ekYM3tHN9Dt7HAUoHclwq"
+          "name": "Bluma Petersen",
+          "url": "https://open.spotify.com/artist/1I7A8xBGgo3BLIWoG8B91h"
+        },
+        {
+          "name": "SLCT",
+          "url": "https://open.spotify.com/artist/1WblOSbQMKczLhoK041oOM"
         }
       ],
-      "duration_ms": 210000,
-      "name": "Cherry Skies",
-      "url": "https://open.spotify.com/track/2taL7WpjrPMzwn65gVfxqP"
+      "duration_ms": 176356,
+      "name": "Infinity (SLCT Remix) (Instrumental Version)",
+      "url": "https://open.spotify.com/track/3XZu6dyTtjOlvskuMfJPTM"
     },
     {
       "added_at": "2023-11-30 16:06:40",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2023-11-30 16:06:40",
       "album": {
-        "name": "V\u00edn",
-        "url": "https://open.spotify.com/album/2N4UzYs2Qk7xRyc67kaehi"
-      },
-      "artists": [
-        {
-          "name": "Janus Rasmussen",
-          "url": "https://open.spotify.com/artist/0F2fFVawIwHt6W9az6SPaA"
-        }
-      ],
-      "duration_ms": 309596,
-      "name": "April",
-      "url": "https://open.spotify.com/track/6KmIwU5i6sCvyeNgP8QB4o"
-    },
-    {
-      "added_at": "2023-11-30 16:06:40",
-      "album": {
         "name": "Profound EP",
         "url": "https://open.spotify.com/album/3SSZfZPuBVKpFaSriYWBUt"
       },
@@ -1239,6 +1223,22 @@
     {
       "added_at": "2023-11-30 16:06:40",
       "album": {
+        "name": "V\u00edn",
+        "url": "https://open.spotify.com/album/2N4UzYs2Qk7xRyc67kaehi"
+      },
+      "artists": [
+        {
+          "name": "Janus Rasmussen",
+          "url": "https://open.spotify.com/artist/0F2fFVawIwHt6W9az6SPaA"
+        }
+      ],
+      "duration_ms": 309596,
+      "name": "April",
+      "url": "https://open.spotify.com/track/6KmIwU5i6sCvyeNgP8QB4o"
+    },
+    {
+      "added_at": "2023-11-30 16:06:40",
+      "album": {
         "name": "Alive",
         "url": "https://open.spotify.com/album/003P9cOisHb5VLP12SHkXH"
       },
@@ -1255,22 +1255,6 @@
       "duration_ms": 280888,
       "name": "Alive",
       "url": "https://open.spotify.com/track/7gTNtKHUoCCkb5kygNE1vn"
-    },
-    {
-      "added_at": "2023-11-30 16:06:40",
-      "album": {
-        "name": "Eyes on You",
-        "url": "https://open.spotify.com/album/5vobo9lKoWbJpwyZAnp0Kl"
-      },
-      "artists": [
-        {
-          "name": "Mike D' Jais",
-          "url": "https://open.spotify.com/artist/1ekYM3tHN9Dt7HAUoHclwq"
-        }
-      ],
-      "duration_ms": 207500,
-      "name": "Eyes on You",
-      "url": "https://open.spotify.com/track/66EbSUqia2l6aOJvSKpOW7"
     },
     {
       "added_at": "2023-11-30 16:06:40",
@@ -1303,6 +1287,22 @@
       "duration_ms": 331960,
       "name": "Company",
       "url": "https://open.spotify.com/track/5rUwnnAkh9XcZsLt5hdgoF"
+    },
+    {
+      "added_at": "2023-11-30 16:06:40",
+      "album": {
+        "name": "Eyes on You",
+        "url": "https://open.spotify.com/album/5vobo9lKoWbJpwyZAnp0Kl"
+      },
+      "artists": [
+        {
+          "name": "Mike D' Jais",
+          "url": "https://open.spotify.com/artist/1ekYM3tHN9Dt7HAUoHclwq"
+        }
+      ],
+      "duration_ms": 207500,
+      "name": "Eyes on You",
+      "url": "https://open.spotify.com/track/66EbSUqia2l6aOJvSKpOW7"
     },
     {
       "added_at": "2023-11-30 16:06:40",
@@ -1359,6 +1359,22 @@
     {
       "added_at": "2023-11-30 16:06:40",
       "album": {
+        "name": "Chill Executive Officer (CEO), Vol. 7 [Selected by Maykel Piron]",
+        "url": "https://open.spotify.com/album/4wvrrh7LugJVuufRSpE4pt"
+      },
+      "artists": [
+        {
+          "name": "B\u00f8lling",
+          "url": "https://open.spotify.com/artist/3lTVwL069q4XSE9pcacCXS"
+        }
+      ],
+      "duration_ms": 199346,
+      "name": "Nothing Happened",
+      "url": "https://open.spotify.com/track/7aMBDyba2YVpoKWHXBijrG"
+    },
+    {
+      "added_at": "2023-11-30 16:06:40",
+      "album": {
         "name": "Aftergold (5 Year Anniversary)",
         "url": "https://open.spotify.com/album/5QMSCiDAPdRfU27M7N7Ro2"
       },
@@ -1379,22 +1395,6 @@
     {
       "added_at": "2023-11-30 16:06:40",
       "album": {
-        "name": "Chill Executive Officer (CEO), Vol. 7 [Selected by Maykel Piron]",
-        "url": "https://open.spotify.com/album/4wvrrh7LugJVuufRSpE4pt"
-      },
-      "artists": [
-        {
-          "name": "B\u00f8lling",
-          "url": "https://open.spotify.com/artist/3lTVwL069q4XSE9pcacCXS"
-        }
-      ],
-      "duration_ms": 199346,
-      "name": "Nothing Happened",
-      "url": "https://open.spotify.com/track/7aMBDyba2YVpoKWHXBijrG"
-    },
-    {
-      "added_at": "2023-11-30 16:06:40",
-      "album": {
         "name": "Reconnect",
         "url": "https://open.spotify.com/album/3EP85qe0EoJe5p7TqEPqG7"
       },
@@ -1407,22 +1407,6 @@
       "duration_ms": 252234,
       "name": "Reconnect",
       "url": "https://open.spotify.com/track/5f81kMkgmZLBsio8pAM6oA"
-    },
-    {
-      "added_at": "2023-11-30 16:06:40",
-      "album": {
-        "name": "Mr. Magic",
-        "url": "https://open.spotify.com/album/3ThYrWOxW8L6qdwwMBZBtk"
-      },
-      "artists": [
-        {
-          "name": "Baka G",
-          "url": "https://open.spotify.com/artist/7CfH9Pe1z2V3OuUCIH9ru4"
-        }
-      ],
-      "duration_ms": 345534,
-      "name": "Mr. Magic",
-      "url": "https://open.spotify.com/track/0dSoodH9dHclkP2kMec21H"
     },
     {
       "added_at": "2023-11-30 16:06:40",
@@ -1451,22 +1435,34 @@
     {
       "added_at": "2023-11-30 16:06:40",
       "album": {
-        "name": "Twilight",
-        "url": "https://open.spotify.com/album/0xA3Pyif2qZdMymcAMUXAI"
+        "name": "Mr. Magic",
+        "url": "https://open.spotify.com/album/3ThYrWOxW8L6qdwwMBZBtk"
       },
       "artists": [
         {
-          "name": "M1NT",
-          "url": "https://open.spotify.com/artist/5gzGYECW5rYT6NccH5zZGL"
-        },
-        {
-          "name": "blnkspc_",
-          "url": "https://open.spotify.com/artist/3hZaebXqrD5crmyMP2x1qa"
+          "name": "Baka G",
+          "url": "https://open.spotify.com/artist/7CfH9Pe1z2V3OuUCIH9ru4"
         }
       ],
-      "duration_ms": 175711,
-      "name": "Twilight",
-      "url": "https://open.spotify.com/track/3KJD5sOIQGruWKiixUjZsA"
+      "duration_ms": 345534,
+      "name": "Mr. Magic",
+      "url": "https://open.spotify.com/track/0dSoodH9dHclkP2kMec21H"
+    },
+    {
+      "added_at": "2023-11-30 16:06:40",
+      "album": {
+        "name": "Deneb Cygni",
+        "url": "https://open.spotify.com/album/4E8xASCYvVo4vBkuESnpOP"
+      },
+      "artists": [
+        {
+          "name": "Takuya Yamashita",
+          "url": "https://open.spotify.com/artist/4zpl6dfVHVNbqAIk6huc2v"
+        }
+      ],
+      "duration_ms": 453559,
+      "name": "Deneb Cygni - Original Mix",
+      "url": "https://open.spotify.com/track/7w3TeiGbzbfvPE192wpKdX"
     },
     {
       "added_at": "2023-11-30 16:06:40",
@@ -1491,18 +1487,22 @@
     {
       "added_at": "2023-11-30 16:06:40",
       "album": {
-        "name": "Deneb Cygni",
-        "url": "https://open.spotify.com/album/4E8xASCYvVo4vBkuESnpOP"
+        "name": "Twilight",
+        "url": "https://open.spotify.com/album/0xA3Pyif2qZdMymcAMUXAI"
       },
       "artists": [
         {
-          "name": "Takuya Yamashita",
-          "url": "https://open.spotify.com/artist/4zpl6dfVHVNbqAIk6huc2v"
+          "name": "M1NT",
+          "url": "https://open.spotify.com/artist/5gzGYECW5rYT6NccH5zZGL"
+        },
+        {
+          "name": "blnkspc_",
+          "url": "https://open.spotify.com/artist/3hZaebXqrD5crmyMP2x1qa"
         }
       ],
-      "duration_ms": 453559,
-      "name": "Deneb Cygni - Original Mix",
-      "url": "https://open.spotify.com/track/7w3TeiGbzbfvPE192wpKdX"
+      "duration_ms": 175711,
+      "name": "Twilight",
+      "url": "https://open.spotify.com/track/3KJD5sOIQGruWKiixUjZsA"
     },
     {
       "added_at": "2023-11-30 16:06:40",
@@ -1531,6 +1531,22 @@
     {
       "added_at": "2023-11-30 16:06:40",
       "album": {
+        "name": "Wax Casting",
+        "url": "https://open.spotify.com/album/1S6wyTKwsHD4heZDkpm9hx"
+      },
+      "artists": [
+        {
+          "name": "Mr. Woodcole",
+          "url": "https://open.spotify.com/artist/38AUTCj4EteaGRYKghL9qg"
+        }
+      ],
+      "duration_ms": 195971,
+      "name": "Blue Orchid",
+      "url": "https://open.spotify.com/track/5S5BANAZW6Z3w7QNieTDLm"
+    },
+    {
+      "added_at": "2023-11-30 16:06:40",
+      "album": {
         "name": "Astro Reescrituras",
         "url": "https://open.spotify.com/album/29sunXe011nEVfz7Yzo7zN"
       },
@@ -1547,22 +1563,6 @@
       "duration_ms": 257183,
       "name": "Religar - Chancha Via Circuito Remix",
       "url": "https://open.spotify.com/track/0jlscRIgKn35uudF8MP17p"
-    },
-    {
-      "added_at": "2023-11-30 16:06:40",
-      "album": {
-        "name": "Wax Casting",
-        "url": "https://open.spotify.com/album/1S6wyTKwsHD4heZDkpm9hx"
-      },
-      "artists": [
-        {
-          "name": "Mr. Woodcole",
-          "url": "https://open.spotify.com/artist/38AUTCj4EteaGRYKghL9qg"
-        }
-      ],
-      "duration_ms": 195971,
-      "name": "Blue Orchid",
-      "url": "https://open.spotify.com/track/5S5BANAZW6Z3w7QNieTDLm"
     },
     {
       "added_at": "2023-11-30 16:06:40",
@@ -1651,6 +1651,22 @@
     {
       "added_at": "2023-11-30 16:06:40",
       "album": {
+        "name": "9",
+        "url": "https://open.spotify.com/album/1QAF4JyZ1mqNnuyS0IW9r7"
+      },
+      "artists": [
+        {
+          "name": "Apparel Wax",
+          "url": "https://open.spotify.com/artist/2nlNttZvT9FlaPBIP1H4Io"
+        }
+      ],
+      "duration_ms": 284205,
+      "name": "009A1",
+      "url": "https://open.spotify.com/track/6D4hzvjgUZKVOEvH6kGXGd"
+    },
+    {
+      "added_at": "2023-11-30 16:06:40",
+      "album": {
         "name": "Always",
         "url": "https://open.spotify.com/album/08SC4H56dAvQNwqhbOo18k"
       },
@@ -1667,22 +1683,6 @@
       "duration_ms": 191005,
       "name": "Always",
       "url": "https://open.spotify.com/track/2PXDK2k7QSjGLfzBjuZ1hw"
-    },
-    {
-      "added_at": "2023-11-30 16:06:40",
-      "album": {
-        "name": "9",
-        "url": "https://open.spotify.com/album/1QAF4JyZ1mqNnuyS0IW9r7"
-      },
-      "artists": [
-        {
-          "name": "Apparel Wax",
-          "url": "https://open.spotify.com/artist/2nlNttZvT9FlaPBIP1H4Io"
-        }
-      ],
-      "duration_ms": 284205,
-      "name": "009A1",
-      "url": "https://open.spotify.com/track/6D4hzvjgUZKVOEvH6kGXGd"
     },
     {
       "added_at": "2023-11-30 16:06:40",

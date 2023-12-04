@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasica groovera, for the true Funk Soldiers!",
-  "num_followers": 25191,
+  "num_followers": 25203,
   "original_name": "Nota Funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NDQ0ODExOWE4NmRiMjVmZTBkYTFhYTM4N2E0MTY2MTg5MWJkMTVk",
+  "snapshot_id": "MCxhMTQ5N2I3ZmY2Y2Y3NzgzODliZjU4MTJjZmQ0NGVjYTZlODA1YTJj",
   "tracks": [
     {
       "added_at": "2023-10-06 03:00:00",
@@ -651,22 +651,6 @@
     {
       "added_at": "2023-10-06 03:00:00",
       "album": {
-        "name": "Latin Funk All-Stars",
-        "url": "https://open.spotify.com/album/1O5LoF8u5HvjPf54M9RS6A"
-      },
-      "artists": [
-        {
-          "name": "Los Tetas",
-          "url": "https://open.spotify.com/artist/4yjiCh3gayolGLTCVpHojS"
-        }
-      ],
-      "duration_ms": 350360,
-      "name": "Papi \u00bfD\u00f3nde Est\u00e1 El Funk?",
-      "url": "https://open.spotify.com/track/2xsAvvob9qFtBiEI1SK76p"
-    },
-    {
-      "added_at": "2023-10-06 03:00:00",
-      "album": {
         "name": "Resistencia",
         "url": "https://open.spotify.com/album/63wXeCZv9gxTXrffLnDHmY"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 176924,
       "name": "Freaky",
       "url": "https://open.spotify.com/track/1mKpZeH6wpdhI4jpGYy870"
+    },
+    {
+      "added_at": "2023-10-06 03:00:00",
+      "album": {
+        "name": "Latin Funk All-Stars",
+        "url": "https://open.spotify.com/album/1O5LoF8u5HvjPf54M9RS6A"
+      },
+      "artists": [
+        {
+          "name": "Los Tetas",
+          "url": "https://open.spotify.com/artist/4yjiCh3gayolGLTCVpHojS"
+        }
+      ],
+      "duration_ms": 350360,
+      "name": "Papi \u00bfD\u00f3nde Est\u00e1 El Funk?",
+      "url": "https://open.spotify.com/track/2xsAvvob9qFtBiEI1SK76p"
     },
     {
       "added_at": "2023-10-06 03:00:00",
@@ -815,6 +815,22 @@
     {
       "added_at": "2023-10-06 03:00:00",
       "album": {
+        "name": "Resistencia",
+        "url": "https://open.spotify.com/album/63wXeCZv9gxTXrffLnDHmY"
+      },
+      "artists": [
+        {
+          "name": "Palta & the mood",
+          "url": "https://open.spotify.com/artist/6gLZHR1lfosx4paq2mc6rH"
+        }
+      ],
+      "duration_ms": 218172,
+      "name": "Resistencia",
+      "url": "https://open.spotify.com/track/0ZF0cMx6gnYIdRkNEZ4Kdn"
+    },
+    {
+      "added_at": "2023-10-06 03:00:00",
+      "album": {
         "name": "Peluche Peligroso",
         "url": "https://open.spotify.com/album/32szAPsRimQbYpPl4Bvkfn"
       },
@@ -831,22 +847,6 @@
       "duration_ms": 266203,
       "name": "Mi Propio Para\u00edso",
       "url": "https://open.spotify.com/track/3JYUCQOHCkbvnZLZjpRQxc"
-    },
-    {
-      "added_at": "2023-10-06 03:00:00",
-      "album": {
-        "name": "Resistencia",
-        "url": "https://open.spotify.com/album/63wXeCZv9gxTXrffLnDHmY"
-      },
-      "artists": [
-        {
-          "name": "Palta & the mood",
-          "url": "https://open.spotify.com/artist/6gLZHR1lfosx4paq2mc6rH"
-        }
-      ],
-      "duration_ms": 218172,
-      "name": "Resistencia",
-      "url": "https://open.spotify.com/track/0ZF0cMx6gnYIdRkNEZ4Kdn"
     },
     {
       "added_at": "2023-10-06 03:00:00",
@@ -979,6 +979,26 @@
     {
       "added_at": "2023-10-06 03:00:00",
       "album": {
+        "name": "Peluche Peligroso",
+        "url": "https://open.spotify.com/album/32szAPsRimQbYpPl4Bvkfn"
+      },
+      "artists": [
+        {
+          "name": "Acus",
+          "url": "https://open.spotify.com/artist/39DDfcoTv0v0HoZY1ZoPWp"
+        },
+        {
+          "name": "Julieta Rada",
+          "url": "https://open.spotify.com/artist/5KA95SZBQeMgNMTuqnxzJd"
+        }
+      ],
+      "duration_ms": 227221,
+      "name": "La Buena Vida",
+      "url": "https://open.spotify.com/track/3KnVVquGyEkY3ECjuBMZMK"
+    },
+    {
+      "added_at": "2023-10-06 03:00:00",
+      "album": {
         "name": "Guacamole",
         "url": "https://open.spotify.com/album/0gWvcOPucxJeLFuMuTzTUl"
       },
@@ -1011,26 +1031,6 @@
       "duration_ms": 178000,
       "name": "Debilidad",
       "url": "https://open.spotify.com/track/382BrveYviOFjqpqA5d1M2"
-    },
-    {
-      "added_at": "2023-10-06 03:00:00",
-      "album": {
-        "name": "Peluche Peligroso",
-        "url": "https://open.spotify.com/album/32szAPsRimQbYpPl4Bvkfn"
-      },
-      "artists": [
-        {
-          "name": "Acus",
-          "url": "https://open.spotify.com/artist/39DDfcoTv0v0HoZY1ZoPWp"
-        },
-        {
-          "name": "Julieta Rada",
-          "url": "https://open.spotify.com/artist/5KA95SZBQeMgNMTuqnxzJd"
-        }
-      ],
-      "duration_ms": 227221,
-      "name": "La Buena Vida",
-      "url": "https://open.spotify.com/track/3KnVVquGyEkY3ECjuBMZMK"
     },
     {
       "added_at": "2023-10-06 03:00:00",
@@ -1191,18 +1191,18 @@
     {
       "added_at": "2023-10-06 03:00:00",
       "album": {
-        "name": "De Reviente",
-        "url": "https://open.spotify.com/album/5OGFRQuRwXXYOQJM2D07mS"
+        "name": "Family Game",
+        "url": "https://open.spotify.com/album/5ERVTaDTdK8gCSMGH0K0s3"
       },
       "artists": [
         {
-          "name": "Warlock ARG",
-          "url": "https://open.spotify.com/artist/3Et7l92EvT83F7NsmtDYzV"
+          "name": "De La Rivera",
+          "url": "https://open.spotify.com/artist/4U48zETkokPB76fnXQiO2b"
         }
       ],
-      "duration_ms": 205374,
-      "name": "Pret\u00e9rito Mujer",
-      "url": "https://open.spotify.com/track/5JOImD8nkvP8kpyNLs0HBi"
+      "duration_ms": 218045,
+      "name": "B\u00e9sala",
+      "url": "https://open.spotify.com/track/3IPmxzelbMUy6kdhfhSueF"
     },
     {
       "added_at": "2023-10-06 03:00:00",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2023-10-06 03:00:00",
       "album": {
-        "name": "Family Game",
-        "url": "https://open.spotify.com/album/5ERVTaDTdK8gCSMGH0K0s3"
-      },
-      "artists": [
-        {
-          "name": "De La Rivera",
-          "url": "https://open.spotify.com/artist/4U48zETkokPB76fnXQiO2b"
-        }
-      ],
-      "duration_ms": 218045,
-      "name": "B\u00e9sala",
-      "url": "https://open.spotify.com/track/3IPmxzelbMUy6kdhfhSueF"
-    },
-    {
-      "added_at": "2023-10-06 03:00:00",
-      "album": {
         "name": "Guacamole",
         "url": "https://open.spotify.com/album/0gWvcOPucxJeLFuMuTzTUl"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 337573,
       "name": "Dizzy",
       "url": "https://open.spotify.com/track/2OzRdN6EUUfVBl7QACp6B1"
+    },
+    {
+      "added_at": "2023-10-06 03:00:00",
+      "album": {
+        "name": "De Reviente",
+        "url": "https://open.spotify.com/album/5OGFRQuRwXXYOQJM2D07mS"
+      },
+      "artists": [
+        {
+          "name": "Warlock ARG",
+          "url": "https://open.spotify.com/artist/3Et7l92EvT83F7NsmtDYzV"
+        }
+      ],
+      "duration_ms": 205374,
+      "name": "Pret\u00e9rito Mujer",
+      "url": "https://open.spotify.com/track/5JOImD8nkvP8kpyNLs0HBi"
     },
     {
       "added_at": "2023-10-06 03:00:00",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2023-10-06 03:00:00",
       "album": {
-        "name": "Maravilla",
-        "url": "https://open.spotify.com/album/0UfukyWOep54c9zpc3ukyx"
-      },
-      "artists": [
-        {
-          "name": "Los Jureles",
-          "url": "https://open.spotify.com/artist/5FNSAxcE6F6d4HPSoEPUyC"
-        }
-      ],
-      "duration_ms": 240458,
-      "name": "Maravilla",
-      "url": "https://open.spotify.com/track/6bwFgTUrYUkxygFNsE0HP5"
-    },
-    {
-      "added_at": "2023-10-06 03:00:00",
-      "album": {
         "name": "Sudamericano",
         "url": "https://open.spotify.com/album/0aicK68Tg0bOAb7vPOFmwt"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 252120,
       "name": "Insomnia",
       "url": "https://open.spotify.com/track/69CrLrn3sGEiwxmki7IwlN"
+    },
+    {
+      "added_at": "2023-10-06 03:00:00",
+      "album": {
+        "name": "Maravilla",
+        "url": "https://open.spotify.com/album/0UfukyWOep54c9zpc3ukyx"
+      },
+      "artists": [
+        {
+          "name": "Los Jureles",
+          "url": "https://open.spotify.com/artist/5FNSAxcE6F6d4HPSoEPUyC"
+        }
+      ],
+      "duration_ms": 240458,
+      "name": "Maravilla",
+      "url": "https://open.spotify.com/track/6bwFgTUrYUkxygFNsE0HP5"
     },
     {
       "added_at": "2023-10-06 03:00:00",
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2023-10-06 03:00:00",
       "album": {
-        "name": "Aire",
-        "url": "https://open.spotify.com/album/3Ew0mVd4RRu7UFWMMalvmR"
-      },
-      "artists": [
-        {
-          "name": "Ania Ivania",
-          "url": "https://open.spotify.com/artist/4X5zjb9hLr37IngXyDpdZb"
-        }
-      ],
-      "duration_ms": 190373,
-      "name": "Aire",
-      "url": "https://open.spotify.com/track/062HCNJ9IvnGox5GgkNHBJ"
-    },
-    {
-      "added_at": "2023-10-06 03:00:00",
-      "album": {
         "name": "Get Porn",
         "url": "https://open.spotify.com/album/3XCMSUgt9Ic45XXlA5ublh"
       },
@@ -1519,6 +1503,22 @@
       "duration_ms": 343362,
       "name": "Get Porn",
       "url": "https://open.spotify.com/track/16bUIajNJpM6DNFoHDP19D"
+    },
+    {
+      "added_at": "2023-10-06 03:00:00",
+      "album": {
+        "name": "Aire",
+        "url": "https://open.spotify.com/album/3Ew0mVd4RRu7UFWMMalvmR"
+      },
+      "artists": [
+        {
+          "name": "Ania Ivania",
+          "url": "https://open.spotify.com/artist/4X5zjb9hLr37IngXyDpdZb"
+        }
+      ],
+      "duration_ms": 190373,
+      "name": "Aire",
+      "url": "https://open.spotify.com/track/062HCNJ9IvnGox5GgkNHBJ"
     },
     {
       "added_at": "2023-10-06 03:00:00",

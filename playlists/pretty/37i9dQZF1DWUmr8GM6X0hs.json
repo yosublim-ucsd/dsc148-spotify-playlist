@@ -1,12 +1,12 @@
 {
   "description": "El inolvidable sonido del amor nunca hab\u00eda estado tan cerca de ti.",
-  "num_followers": 75743,
+  "num_followers": 75798,
   "original_name": "Boleros en Casa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNmY3YWM1MDc5ZGNhMzZkNTlmYWE1YjVmZGJlMmMwMTBkOWI4NjUy",
+  "snapshot_id": "MCwzODY3ZjI4NTEwNjRkZTg5MWQ3Y2VlMjdmN2M1OTUxNmUyZTAxZTIx",
   "tracks": [
     {
       "added_at": "2023-10-20 04:59:00",
@@ -699,22 +699,6 @@
     {
       "added_at": "2023-10-20 04:59:00",
       "album": {
-        "name": "Boleros & Baladas: Peruvians Sing For The Brokenhearted",
-        "url": "https://open.spotify.com/album/2aKXlmYHTdm68pa9Q289Pk"
-      },
-      "artists": [
-        {
-          "name": "Daniel Aranda",
-          "url": "https://open.spotify.com/artist/4QCcLssqPwu4I7BJUECJPJ"
-        }
-      ],
-      "duration_ms": 195000,
-      "name": "Solo Cenizas Quedaron",
-      "url": "https://open.spotify.com/track/5blYKQjsXDbGhENFKFBMXJ"
-    },
-    {
-      "added_at": "2023-10-20 04:59:00",
-      "album": {
         "name": "Una Rockola en el Cielo, Vol. 1",
         "url": "https://open.spotify.com/album/5dcGv6iJb00Ba4YP3xMrRU"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 113653,
       "name": "Se\u00f1or Abogado",
       "url": "https://open.spotify.com/track/2mA6p6NMBq8Zd1GE3PuPSv"
+    },
+    {
+      "added_at": "2023-10-20 04:59:00",
+      "album": {
+        "name": "Boleros & Baladas: Peruvians Sing For The Brokenhearted",
+        "url": "https://open.spotify.com/album/2aKXlmYHTdm68pa9Q289Pk"
+      },
+      "artists": [
+        {
+          "name": "Daniel Aranda",
+          "url": "https://open.spotify.com/artist/4QCcLssqPwu4I7BJUECJPJ"
+        }
+      ],
+      "duration_ms": 195000,
+      "name": "Solo Cenizas Quedaron",
+      "url": "https://open.spotify.com/track/5blYKQjsXDbGhENFKFBMXJ"
     },
     {
       "added_at": "2023-10-20 04:59:00",
@@ -935,22 +935,6 @@
     {
       "added_at": "2023-10-20 04:59:00",
       "album": {
-        "name": "Mucho Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/7vJaotg3rgAIezud8FO4QU"
-      },
-      "artists": [
-        {
-          "name": "Tania Libertad",
-          "url": "https://open.spotify.com/artist/2nvZRZAeuKXzsntCKFHTKh"
-        }
-      ],
-      "duration_ms": 191000,
-      "name": "Esc\u00e1ndalo / Luz y Sombra",
-      "url": "https://open.spotify.com/track/3L1iwOmLRPkzYLf8IPNZuJ"
-    },
-    {
-      "added_at": "2023-10-20 04:59:00",
-      "album": {
         "name": "Pedrito Otiniano y Sus Exitos",
         "url": "https://open.spotify.com/album/37tYAxmi3FWqBFjVl46F75"
       },
@@ -967,18 +951,18 @@
     {
       "added_at": "2023-10-20 04:59:00",
       "album": {
-        "name": "Un Bolero un Vals",
-        "url": "https://open.spotify.com/album/5IcQgIVDhWwn5BWXqVbBZo"
+        "name": "Mucho Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/7vJaotg3rgAIezud8FO4QU"
       },
       "artists": [
         {
-          "name": "Eva Ayll\u00f3n",
-          "url": "https://open.spotify.com/artist/6AQFORISOneOZkh6r1sGS2"
+          "name": "Tania Libertad",
+          "url": "https://open.spotify.com/artist/2nvZRZAeuKXzsntCKFHTKh"
         }
       ],
-      "duration_ms": 384253,
-      "name": "Qu\u00e9 Quieres T\u00fa de Mi / De Qu\u00e9 Estoy Hecha",
-      "url": "https://open.spotify.com/track/5umXQ7OjEhHaZ4iIXi19pT"
+      "duration_ms": 191000,
+      "name": "Esc\u00e1ndalo / Luz y Sombra",
+      "url": "https://open.spotify.com/track/3L1iwOmLRPkzYLf8IPNZuJ"
     },
     {
       "added_at": "2023-10-20 04:59:00",
@@ -995,6 +979,22 @@
       "duration_ms": 204174,
       "name": "Acepto Mi Destino",
       "url": "https://open.spotify.com/track/7GbcDRHXyRn1ZEzZWopF0h"
+    },
+    {
+      "added_at": "2023-10-20 04:59:00",
+      "album": {
+        "name": "Un Bolero un Vals",
+        "url": "https://open.spotify.com/album/5IcQgIVDhWwn5BWXqVbBZo"
+      },
+      "artists": [
+        {
+          "name": "Eva Ayll\u00f3n",
+          "url": "https://open.spotify.com/artist/6AQFORISOneOZkh6r1sGS2"
+        }
+      ],
+      "duration_ms": 384253,
+      "name": "Qu\u00e9 Quieres T\u00fa de Mi / De Qu\u00e9 Estoy Hecha",
+      "url": "https://open.spotify.com/track/5umXQ7OjEhHaZ4iIXi19pT"
     },
     {
       "added_at": "2023-10-20 04:59:00",

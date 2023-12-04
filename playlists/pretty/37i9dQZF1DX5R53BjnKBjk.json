@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNzZmYmI2NTcxYTUzYzY0OTExYzk2MzExMGE0YzBiMDI0MjBjZmRi",
+  "snapshot_id": "MCxhMjAyMDUzZjc5NzllMDA1NzQ4MmQ2ODNlYTU2N2RkZGU4OGFjYjFl",
   "tracks": [
     {
       "added_at": "2023-11-30 21:58:24",
@@ -251,22 +251,6 @@
     {
       "added_at": "2023-11-30 21:58:24",
       "album": {
-        "name": "Embalo",
-        "url": "https://open.spotify.com/album/624MHrTakiCB7vJ6hEFSnJ"
-      },
-      "artists": [
-        {
-          "name": "TIRI",
-          "url": "https://open.spotify.com/artist/2biikdsPdw63klSogoB5Ab"
-        }
-      ],
-      "duration_ms": 201231,
-      "name": "Embalo",
-      "url": "https://open.spotify.com/track/0v4oVq2rcPisPB7rVzl78c"
-    },
-    {
-      "added_at": "2023-11-30 21:58:24",
-      "album": {
         "name": "Aquino e a Orquestra Invis\u00edvel",
         "url": "https://open.spotify.com/album/39FjAAoFhZFSZhyl63dlqe"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 173880,
       "name": "MTV",
       "url": "https://open.spotify.com/track/33fnVp55zYGLfhWBgl2j9O"
+    },
+    {
+      "added_at": "2023-11-30 21:58:24",
+      "album": {
+        "name": "Embalo",
+        "url": "https://open.spotify.com/album/624MHrTakiCB7vJ6hEFSnJ"
+      },
+      "artists": [
+        {
+          "name": "TIRI",
+          "url": "https://open.spotify.com/artist/2biikdsPdw63klSogoB5Ab"
+        }
+      ],
+      "duration_ms": 201231,
+      "name": "Embalo",
+      "url": "https://open.spotify.com/track/0v4oVq2rcPisPB7rVzl78c"
     },
     {
       "added_at": "2023-11-30 21:58:24",
@@ -487,6 +487,22 @@
     {
       "added_at": "2023-11-30 21:58:24",
       "album": {
+        "name": "Voc\u00ea Sabe",
+        "url": "https://open.spotify.com/album/73EzZvEoh8UVPo1Bn2xaG6"
+      },
+      "artists": [
+        {
+          "name": "TEG\u00ca",
+          "url": "https://open.spotify.com/artist/18nE4hjHEiTKeE5kNerL0F"
+        }
+      ],
+      "duration_ms": 155750,
+      "name": "Voc\u00ea Sabe",
+      "url": "https://open.spotify.com/track/5KhLRmnp5eEJkfaU783YEc"
+    },
+    {
+      "added_at": "2023-11-30 21:58:24",
+      "album": {
         "name": "Beija e Arranha",
         "url": "https://open.spotify.com/album/2y8gYJ78u7TLa3iZaYxOV3"
       },
@@ -519,22 +535,6 @@
     {
       "added_at": "2023-11-30 21:58:24",
       "album": {
-        "name": "Voc\u00ea Sabe",
-        "url": "https://open.spotify.com/album/73EzZvEoh8UVPo1Bn2xaG6"
-      },
-      "artists": [
-        {
-          "name": "TEG\u00ca",
-          "url": "https://open.spotify.com/artist/18nE4hjHEiTKeE5kNerL0F"
-        }
-      ],
-      "duration_ms": 155750,
-      "name": "Voc\u00ea Sabe",
-      "url": "https://open.spotify.com/track/5KhLRmnp5eEJkfaU783YEc"
-    },
-    {
-      "added_at": "2023-11-30 21:58:24",
-      "album": {
         "name": "Eclipse",
         "url": "https://open.spotify.com/album/3HGf7CQc2q2LU2MnuW8edv"
       },
@@ -547,6 +547,26 @@
       "duration_ms": 230588,
       "name": "Eclipse",
       "url": "https://open.spotify.com/track/3vOvr7KuYrDH0QqqKv0LYr"
+    },
+    {
+      "added_at": "2023-11-30 21:58:24",
+      "album": {
+        "name": "Futurea",
+        "url": "https://open.spotify.com/album/69xqVcgw0e3isdlb9WPv4K"
+      },
+      "artists": [
+        {
+          "name": "Vincee",
+          "url": "https://open.spotify.com/artist/5ulojLoRdBdeXIyXdrxHoN"
+        },
+        {
+          "name": "Tuyo",
+          "url": "https://open.spotify.com/artist/3Ujv6sa60JRiaxS8RVuNOj"
+        }
+      ],
+      "duration_ms": 166611,
+      "name": "Medo de Mim",
+      "url": "https://open.spotify.com/track/1YGM6jSDkEPjlT2zDS9Qg0"
     },
     {
       "added_at": "2023-11-30 21:58:24",
@@ -583,26 +603,6 @@
       "duration_ms": 199608,
       "name": "Talante",
       "url": "https://open.spotify.com/track/5P1WNHW4nUcBDFQPXHbSfR"
-    },
-    {
-      "added_at": "2023-11-30 21:58:24",
-      "album": {
-        "name": "Futurea",
-        "url": "https://open.spotify.com/album/69xqVcgw0e3isdlb9WPv4K"
-      },
-      "artists": [
-        {
-          "name": "Vincee",
-          "url": "https://open.spotify.com/artist/5ulojLoRdBdeXIyXdrxHoN"
-        },
-        {
-          "name": "Tuyo",
-          "url": "https://open.spotify.com/artist/3Ujv6sa60JRiaxS8RVuNOj"
-        }
-      ],
-      "duration_ms": 166611,
-      "name": "Medo de Mim",
-      "url": "https://open.spotify.com/track/1YGM6jSDkEPjlT2zDS9Qg0"
     },
     {
       "added_at": "2023-11-30 21:58:24",
@@ -851,22 +851,6 @@
     {
       "added_at": "2023-11-30 21:58:24",
       "album": {
-        "name": "Ideia Errada",
-        "url": "https://open.spotify.com/album/1eefaivkaBR83Ni4R9y6sR"
-      },
-      "artists": [
-        {
-          "name": "Cigana",
-          "url": "https://open.spotify.com/artist/5tV6Fk6pRBJIEi232T3IOL"
-        }
-      ],
-      "duration_ms": 239360,
-      "name": "Ideia Errada",
-      "url": "https://open.spotify.com/track/0Rhho7mWTiqJ0Yl4Qs0wNZ"
-    },
-    {
-      "added_at": "2023-11-30 21:58:24",
-      "album": {
         "name": "Jardins",
         "url": "https://open.spotify.com/album/06SSk5GYDJEMlIS77KOTZT"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 167551,
       "name": "Jardins",
       "url": "https://open.spotify.com/track/7oOrG9wjvIDmbKgkhWgXN8"
+    },
+    {
+      "added_at": "2023-11-30 21:58:24",
+      "album": {
+        "name": "Ideia Errada",
+        "url": "https://open.spotify.com/album/1eefaivkaBR83Ni4R9y6sR"
+      },
+      "artists": [
+        {
+          "name": "Cigana",
+          "url": "https://open.spotify.com/artist/5tV6Fk6pRBJIEi232T3IOL"
+        }
+      ],
+      "duration_ms": 239360,
+      "name": "Ideia Errada",
+      "url": "https://open.spotify.com/track/0Rhho7mWTiqJ0Yl4Qs0wNZ"
     },
     {
       "added_at": "2023-11-30 21:58:24",
@@ -995,6 +995,22 @@
     {
       "added_at": "2023-11-30 21:58:24",
       "album": {
+        "name": "Deixa Pra L\u00e1",
+        "url": "https://open.spotify.com/album/5Dat9zmMxlC6ps8Vd3ULgt"
+      },
+      "artists": [
+        {
+          "name": "Verdan",
+          "url": "https://open.spotify.com/artist/216WFAjGnzkqlbHfnPs36Y"
+        }
+      ],
+      "duration_ms": 152137,
+      "name": "Deixa Pra L\u00e1",
+      "url": "https://open.spotify.com/track/0TjjzhFUY3h5GrG3yuWUiJ"
+    },
+    {
+      "added_at": "2023-11-30 21:58:24",
+      "album": {
         "name": "Queda livre",
         "url": "https://open.spotify.com/album/0XBxBinisK7SboSGUFHZvp"
       },
@@ -1011,22 +1027,6 @@
       "duration_ms": 198000,
       "name": "Queda livre",
       "url": "https://open.spotify.com/track/39w1alJZX8NjXmsmeLbjhX"
-    },
-    {
-      "added_at": "2023-11-30 21:58:24",
-      "album": {
-        "name": "Deixa Pra L\u00e1",
-        "url": "https://open.spotify.com/album/5Dat9zmMxlC6ps8Vd3ULgt"
-      },
-      "artists": [
-        {
-          "name": "Verdan",
-          "url": "https://open.spotify.com/artist/216WFAjGnzkqlbHfnPs36Y"
-        }
-      ],
-      "duration_ms": 152137,
-      "name": "Deixa Pra L\u00e1",
-      "url": "https://open.spotify.com/track/0TjjzhFUY3h5GrG3yuWUiJ"
     },
     {
       "added_at": "2023-11-30 21:58:24",
@@ -1087,6 +1087,22 @@
     {
       "added_at": "2023-11-30 21:58:24",
       "album": {
+        "name": "reluz",
+        "url": "https://open.spotify.com/album/4RhsyCCyX1IViJF9P7MBVM"
+      },
+      "artists": [
+        {
+          "name": "As\u00fa",
+          "url": "https://open.spotify.com/artist/33niI54BdTNsMN18d5lLM0"
+        }
+      ],
+      "duration_ms": 193053,
+      "name": "reluz",
+      "url": "https://open.spotify.com/track/2NqY3ZHWi8NxHiz6RlTyqu"
+    },
+    {
+      "added_at": "2023-11-30 21:58:24",
+      "album": {
         "name": "Me Liga",
         "url": "https://open.spotify.com/album/1ZqRWkRBnhqLkZyqAd3WiM"
       },
@@ -1115,22 +1131,6 @@
       "duration_ms": 144742,
       "name": "Esse Jogo",
       "url": "https://open.spotify.com/track/33c34e6kbE9MfiJVaqZpOI"
-    },
-    {
-      "added_at": "2023-11-30 21:58:24",
-      "album": {
-        "name": "reluz",
-        "url": "https://open.spotify.com/album/4RhsyCCyX1IViJF9P7MBVM"
-      },
-      "artists": [
-        {
-          "name": "As\u00fa",
-          "url": "https://open.spotify.com/artist/33niI54BdTNsMN18d5lLM0"
-        }
-      ],
-      "duration_ms": 193053,
-      "name": "reluz",
-      "url": "https://open.spotify.com/track/2NqY3ZHWi8NxHiz6RlTyqu"
     },
     {
       "added_at": "2023-11-30 21:58:24",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2023-11-30 21:58:24",
       "album": {
-        "name": "N\u00e3o Complica",
-        "url": "https://open.spotify.com/album/5cVTeir11bJByiSLJcadLQ"
-      },
-      "artists": [
-        {
-          "name": "Mavi",
-          "url": "https://open.spotify.com/artist/0eFYxhPPa43Kn72wtcAA7f"
-        }
-      ],
-      "duration_ms": 161668,
-      "name": "N\u00e3o Complica",
-      "url": "https://open.spotify.com/track/6tKDV2xTSe9yTzy4xt6Q2A"
-    },
-    {
-      "added_at": "2023-11-30 21:58:24",
-      "album": {
         "name": "Por um Fio",
         "url": "https://open.spotify.com/album/7Ii1ewzjCQfZkULEOCMdDd"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 189271,
       "name": "Por um Fio",
       "url": "https://open.spotify.com/track/1APCTPKE5pVFC8GUr2kMA4"
+    },
+    {
+      "added_at": "2023-11-30 21:58:24",
+      "album": {
+        "name": "N\u00e3o Complica",
+        "url": "https://open.spotify.com/album/5cVTeir11bJByiSLJcadLQ"
+      },
+      "artists": [
+        {
+          "name": "Mavi",
+          "url": "https://open.spotify.com/artist/0eFYxhPPa43Kn72wtcAA7f"
+        }
+      ],
+      "duration_ms": 161668,
+      "name": "N\u00e3o Complica",
+      "url": "https://open.spotify.com/track/6tKDV2xTSe9yTzy4xt6Q2A"
     },
     {
       "added_at": "2023-11-30 21:58:24",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2023-11-30 21:58:24",
       "album": {
-        "name": "De repente voc\u00ea",
-        "url": "https://open.spotify.com/album/2DeoeyTAwykibd8ERHw3VC"
-      },
-      "artists": [
-        {
-          "name": "Marta Maria",
-          "url": "https://open.spotify.com/artist/6bksEANPlDvhAocqR44x7H"
-        }
-      ],
-      "duration_ms": 160500,
-      "name": "De repente voc\u00ea",
-      "url": "https://open.spotify.com/track/1uNPYO9ZaIO91uHjvhYhxN"
-    },
-    {
-      "added_at": "2023-11-30 21:58:24",
-      "album": {
         "name": "Fora de S\u00e9rie",
         "url": "https://open.spotify.com/album/0VtGpgS7R3h1miGNzGap30"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 198250,
       "name": "Fora de S\u00e9rie",
       "url": "https://open.spotify.com/track/321nrfz5F0VEjBhgo2mB8R"
+    },
+    {
+      "added_at": "2023-11-30 21:58:24",
+      "album": {
+        "name": "De repente voc\u00ea",
+        "url": "https://open.spotify.com/album/2DeoeyTAwykibd8ERHw3VC"
+      },
+      "artists": [
+        {
+          "name": "Marta Maria",
+          "url": "https://open.spotify.com/artist/6bksEANPlDvhAocqR44x7H"
+        }
+      ],
+      "duration_ms": 160500,
+      "name": "De repente voc\u00ea",
+      "url": "https://open.spotify.com/track/1uNPYO9ZaIO91uHjvhYhxN"
     },
     {
       "added_at": "2023-11-30 21:58:24",

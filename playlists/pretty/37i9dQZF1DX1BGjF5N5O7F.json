@@ -1,12 +1,12 @@
 {
   "description": "sensual roots & indie folk.",
-  "num_followers": 565104,
+  "num_followers": 565191,
   "original_name": "intertwined",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZjZhZmUyMTZhZWIxNWZmNGFhNmY5ZWI4NGJhODVjZDczZDM2YjFl",
+  "snapshot_id": "MCw3OThkYWIyZjAyNDg5ZWVmNDNmODhhNWRmZjcwNjAwYTc3YzU0Mzgx",
   "tracks": [
     {
       "added_at": "2023-09-15 04:00:00",
@@ -347,22 +347,6 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "Pretend",
-        "url": "https://open.spotify.com/album/7g2ZA4JCgG8Jxr67i23xlz"
-      },
-      "artists": [
-        {
-          "name": "Seinabo Sey",
-          "url": "https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i"
-        }
-      ],
-      "duration_ms": 209341,
-      "name": "Hard Time",
-      "url": "https://open.spotify.com/track/3gFS9CKU70Wm7vAoA0O1uW"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
         "name": "Black Pumas",
         "url": "https://open.spotify.com/album/4KJGypBUe7ANibtri1msUe"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 249920,
       "name": "Know You Better",
       "url": "https://open.spotify.com/track/03Yo5FRYVfTB2EuiyOmHLe"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
+        "name": "Pretend",
+        "url": "https://open.spotify.com/album/7g2ZA4JCgG8Jxr67i23xlz"
+      },
+      "artists": [
+        {
+          "name": "Seinabo Sey",
+          "url": "https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i"
+        }
+      ],
+      "duration_ms": 209341,
+      "name": "Hard Time",
+      "url": "https://open.spotify.com/track/3gFS9CKU70Wm7vAoA0O1uW"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -559,22 +559,6 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "The Weather Station",
-        "url": "https://open.spotify.com/album/31zbZWJ5o51IijJaVjZDOQ"
-      },
-      "artists": [
-        {
-          "name": "The Weather Station",
-          "url": "https://open.spotify.com/artist/39ZEMGRv3pIYTYKEhr4Abu"
-        }
-      ],
-      "duration_ms": 220253,
-      "name": "Thirty",
-      "url": "https://open.spotify.com/track/2TQXJmPwCgmIXpAtz9dyCI"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
         "name": "Until the Hunter",
         "url": "https://open.spotify.com/album/72uDE3xlSwejX3iYZqWTWU"
       },
@@ -595,18 +579,18 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "Trouble",
-        "url": "https://open.spotify.com/album/2DQHgaOMVOs2OKLaksiMx9"
+        "name": "The Weather Station",
+        "url": "https://open.spotify.com/album/31zbZWJ5o51IijJaVjZDOQ"
       },
       "artists": [
         {
-          "name": "Ray LaMontagne",
-          "url": "https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj"
+          "name": "The Weather Station",
+          "url": "https://open.spotify.com/artist/39ZEMGRv3pIYTYKEhr4Abu"
         }
       ],
-      "duration_ms": 171640,
-      "name": "Burn",
-      "url": "https://open.spotify.com/track/3ESjXFvI5GUNFoCCg30u5s"
+      "duration_ms": 220253,
+      "name": "Thirty",
+      "url": "https://open.spotify.com/track/2TQXJmPwCgmIXpAtz9dyCI"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -623,6 +607,22 @@
       "duration_ms": 230201,
       "name": "Never Tear Us Apart",
       "url": "https://open.spotify.com/track/5LfyeUdF28bljfTmVmD7gm"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
+        "name": "Trouble",
+        "url": "https://open.spotify.com/album/2DQHgaOMVOs2OKLaksiMx9"
+      },
+      "artists": [
+        {
+          "name": "Ray LaMontagne",
+          "url": "https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj"
+        }
+      ],
+      "duration_ms": 171640,
+      "name": "Burn",
+      "url": "https://open.spotify.com/track/3ESjXFvI5GUNFoCCg30u5s"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -691,22 +691,6 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "Violence in a Quiet Mind",
-        "url": "https://open.spotify.com/album/12p8Tpkhv5tbW99wzGjP4D"
-      },
-      "artists": [
-        {
-          "name": "Haux",
-          "url": "https://open.spotify.com/artist/1ifC4znYCvmMSJ0rght5JS"
-        }
-      ],
-      "duration_ms": 163733,
-      "name": "Craving",
-      "url": "https://open.spotify.com/track/2MlzYSDQbg3K2FtfnDI4Nc"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
         "name": "My Love Is a Hurricane",
         "url": "https://open.spotify.com/album/3RWnnxLBxt6PLTj0sXxv3o"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 238373,
       "name": "Making Love on the Mountain - Sexy Mix",
       "url": "https://open.spotify.com/track/7aFHFN6cvjgKEUGF1SMA8I"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
+        "name": "Violence in a Quiet Mind",
+        "url": "https://open.spotify.com/album/12p8Tpkhv5tbW99wzGjP4D"
+      },
+      "artists": [
+        {
+          "name": "Haux",
+          "url": "https://open.spotify.com/artist/1ifC4znYCvmMSJ0rght5JS"
+        }
+      ],
+      "duration_ms": 163733,
+      "name": "Craving",
+      "url": "https://open.spotify.com/track/2MlzYSDQbg3K2FtfnDI4Nc"
     },
     {
       "added_at": "2023-09-15 04:00:00",

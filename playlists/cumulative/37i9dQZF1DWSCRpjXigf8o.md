@@ -4,7 +4,7 @@
 
 > 爽やかな1日を、スロー〜ミッドテンポな音楽と共に心地よくスタートしませんか？？
 
-466 songs - 1 day 4 hr 36 min
+467 songs - 1 day 4 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -301,7 +301,7 @@
 | [Quai](https://open.spotify.com/track/7pAHrBXNISzLLFiquzlMpb) | [SADFRANK](https://open.spotify.com/artist/2F4sUnzP850MX9jgOLgwuW) | [Quai](https://open.spotify.com/album/6wq3R7atGikH6erhFOvAqm) | 6:50 | 2022-11-15 | 2022-12-07 |
 | [Rainy Runway](https://open.spotify.com/track/3bkWf5QEbNlshZMmGcYxbK) | [KIRINJI](https://open.spotify.com/artist/0O1UtbTe4ca7HabaiMhYZ7) | [Rainy Runway](https://open.spotify.com/album/2QtIY3WAWrq8KsFtZe13JH) | 4:01 | 2022-10-20 | 2022-11-09 |
 | [Reality Mind](https://open.spotify.com/track/553klLGtJCONJztTXktVF6) | [Madeline Kenney](https://open.spotify.com/artist/2mirb9SKAm6IUHtPwreoqN) | [A New Reality Mind](https://open.spotify.com/album/6gWz09raxjmq1EMIPcbnFy) | 3:41 | 2023-07-27 | 2023-08-25 |
-| [reckless driving](https://open.spotify.com/track/5GpEHUNI0T7L7H3DnAaBXh) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS), [Ben Kessler](https://open.spotify.com/artist/6Lx82nbEVfeTfEa4yT01Jo) | [five seconds flat](https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD) | 3:09 | 2023-03-07 |  |
+| [reckless driving](https://open.spotify.com/track/5GpEHUNI0T7L7H3DnAaBXh) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS), [Ben Kessler](https://open.spotify.com/artist/6Lx82nbEVfeTfEa4yT01Jo) | [five seconds flat](https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD) | 3:09 | 2023-03-07 | 2023-12-04 |
 | [Redwoods \- Abridged](https://open.spotify.com/track/05PXJyerno19ypVqyYBIaO) | [Hayden Everett](https://open.spotify.com/artist/6sIPNR4ZDctKr2OSiAVtBc) | [Woodgreen Street](https://open.spotify.com/album/3iETcOC29J9zEnZIYnbWWI) | 3:43 | 2023-07-06 | 2023-10-25 |
 | [Responder \(Live Session\)](https://open.spotify.com/track/4VYZuxJh4HwZgvWiPmcvSV) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [LIGHTHOUSE](https://open.spotify.com/album/4F9zqfgck0CJyuym96hLpD) | 3:37 | 2023-09-07 | 2023-10-04 |
 | [Right Behind](https://open.spotify.com/track/17B8mzCBY8OPzRxUJBpqk2) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Bar & Grill](https://open.spotify.com/album/3nY1adGXhrb5La2iZMpsJE) | 3:12 | 2023-02-28 | 2023-04-21 |
@@ -341,6 +341,7 @@
 | [Sunny day](https://open.spotify.com/track/12UQIJePnGeLmpVReYpG2w) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Beatopia](https://open.spotify.com/album/2rhNQbqRNxiNQkDXTffe1V) | 2:40 | 2022-10-20 | 2023-10-05 |
 | [Symphony \- SalaAM ReMi LP Mix](https://open.spotify.com/track/5Wgoa3syX7zZvFoIIhR1US) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA), [Salaam Remi](https://open.spotify.com/artist/0rlS0SzVFk8BoiAW0fGBbN) | [You're The Man](https://open.spotify.com/album/7aX5aMq94oHw4eQdQBo854) | 2:53 | 2022-12-06 | 2023-01-27 |
 | [Table](https://open.spotify.com/track/5OkOZ6NZzrqSUE3OlBY2RJ) | [Katy Kirby](https://open.spotify.com/artist/3ZH4IYVc5qVlKyJoZhGpwy) | [Table](https://open.spotify.com/album/1ZDE21dsxXP6INA3HwkvID) | 2:00 | 2023-10-24 | 2023-11-29 |
+| [Take Me Home, Country Roads](https://open.spotify.com/track/7qF0FfuzBFwMe1lNHkEDxW) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Take Me Home, Country Roads](https://open.spotify.com/album/5qDjtBY8cC4bO6wytuGOuT) | 2:46 | 2023-11-30 |  |
 | [Taking Things For Granted](https://open.spotify.com/track/2UY1uX2Wt5cj5mUVCa4c3O) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Taking Things For Granted](https://open.spotify.com/album/44idK1vYXKaSlCxRugsLrN) | 3:36 | 2023-04-20 | 2023-08-18 |
 | [Talk](https://open.spotify.com/track/30v1ffMJ8gcCYv5YfrLE99) | [Asilo](https://open.spotify.com/artist/72lfhTlPxWHRqGnIdr9Jxh) | [Talk](https://open.spotify.com/album/6miL71NzGTRCH5BOW4SO3R) | 4:38 | 2022-11-08 | 2022-12-07 |
 | [Talking To Myself \- demo](https://open.spotify.com/track/0qB5bMRX5nG0F8qwHJgWmB) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [Talking To Myself \(demo\)](https://open.spotify.com/album/1tQ0dVXzTgKy42UgCg1UxZ) | 3:04 | 2023-03-14 | 2023-04-23 |

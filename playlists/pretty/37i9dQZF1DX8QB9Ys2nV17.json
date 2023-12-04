@@ -1,12 +1,12 @@
 {
   "description": "The greatest female voices in blues today. Cover: Amythyst Kiah",
-  "num_followers": 173724,
+  "num_followers": 173745,
   "original_name": "EQUAL Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NTBmN2E0NTA2M2RiNTY3ZDlkMDg1MzY0MDM5ZjM2Y2VjMjQ1NjQy",
+  "snapshot_id": "MCwxZWU3NmY0NjE2MmUwNjMzZTIyOWIzNTRhOGE4MGUxOTUwYmQ1Mjk1",
   "tracks": [
     {
       "added_at": "2022-03-08 14:01:09",
@@ -303,22 +303,6 @@
     {
       "added_at": "2022-03-08 14:01:09",
       "album": {
-        "name": "Uncivil War",
-        "url": "https://open.spotify.com/album/5nzja6pp2VI6ywfosAhcBM"
-      },
-      "artists": [
-        {
-          "name": "Shemekia Copeland",
-          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
-        }
-      ],
-      "duration_ms": 216171,
-      "name": "Money Makes You Ugly",
-      "url": "https://open.spotify.com/track/5niqr1DK4xpCGGcGH6Zk4P"
-    },
-    {
-      "added_at": "2022-03-08 14:01:09",
-      "album": {
         "name": "Hannah Wicklund & The Steppin Stones",
         "url": "https://open.spotify.com/album/2GWRuo0azCjGlupKL5wY74"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 243396,
       "name": "Ghost",
       "url": "https://open.spotify.com/track/19isNY7Hvhg0Mw7skGLHqT"
+    },
+    {
+      "added_at": "2022-03-08 14:01:09",
+      "album": {
+        "name": "Uncivil War",
+        "url": "https://open.spotify.com/album/5nzja6pp2VI6ywfosAhcBM"
+      },
+      "artists": [
+        {
+          "name": "Shemekia Copeland",
+          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
+        }
+      ],
+      "duration_ms": 216171,
+      "name": "Money Makes You Ugly",
+      "url": "https://open.spotify.com/track/5niqr1DK4xpCGGcGH6Zk4P"
     },
     {
       "added_at": "2022-03-08 14:01:09",
@@ -383,22 +383,6 @@
     {
       "added_at": "2022-03-08 14:01:09",
       "album": {
-        "name": "Uncivil War",
-        "url": "https://open.spotify.com/album/5nzja6pp2VI6ywfosAhcBM"
-      },
-      "artists": [
-        {
-          "name": "Shemekia Copeland",
-          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
-        }
-      ],
-      "duration_ms": 266071,
-      "name": "Clotilda's On Fire",
-      "url": "https://open.spotify.com/track/0G42OWO7nynxXHht2X9mEU"
-    },
-    {
-      "added_at": "2022-03-08 14:01:09",
-      "album": {
         "name": "Presumed Innocent",
         "url": "https://open.spotify.com/album/6W1dqxSFVwT5eL7WlUQUtn"
       },
@@ -415,22 +399,6 @@
     {
       "added_at": "2022-03-08 14:01:09",
       "album": {
-        "name": "Ain't Too Worried Yet",
-        "url": "https://open.spotify.com/album/3ifmjG8tSe2MtZzFpmUKg4"
-      },
-      "artists": [
-        {
-          "name": "Bad Flamingo",
-          "url": "https://open.spotify.com/artist/3Ht7Wd1qVgmFyW63bl5eKE"
-        }
-      ],
-      "duration_ms": 212903,
-      "name": "Ain't Too Worried Yet",
-      "url": "https://open.spotify.com/track/0jf5lyDBbgIU7kt5ULc1ZF"
-    },
-    {
-      "added_at": "2022-03-08 14:01:09",
-      "album": {
         "name": "Juice Me Up",
         "url": "https://open.spotify.com/album/6YbtdgILdYRkOVFNK2PPha"
       },
@@ -443,6 +411,22 @@
       "duration_ms": 303600,
       "name": "Falling",
       "url": "https://open.spotify.com/track/30h268bCKmGWxFleXGYATy"
+    },
+    {
+      "added_at": "2022-03-08 14:01:09",
+      "album": {
+        "name": "Ain't Too Worried Yet",
+        "url": "https://open.spotify.com/album/3ifmjG8tSe2MtZzFpmUKg4"
+      },
+      "artists": [
+        {
+          "name": "Bad Flamingo",
+          "url": "https://open.spotify.com/artist/3Ht7Wd1qVgmFyW63bl5eKE"
+        }
+      ],
+      "duration_ms": 212903,
+      "name": "Ain't Too Worried Yet",
+      "url": "https://open.spotify.com/track/0jf5lyDBbgIU7kt5ULc1ZF"
     },
     {
       "added_at": "2022-03-08 14:01:09",
@@ -479,6 +463,22 @@
     {
       "added_at": "2022-03-08 14:01:09",
       "album": {
+        "name": "Uncivil War",
+        "url": "https://open.spotify.com/album/5nzja6pp2VI6ywfosAhcBM"
+      },
+      "artists": [
+        {
+          "name": "Shemekia Copeland",
+          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
+        }
+      ],
+      "duration_ms": 266071,
+      "name": "Clotilda's On Fire",
+      "url": "https://open.spotify.com/track/0G42OWO7nynxXHht2X9mEU"
+    },
+    {
+      "added_at": "2022-03-08 14:01:09",
+      "album": {
         "name": "Love on the Rocks",
         "url": "https://open.spotify.com/album/2UE190kQ5nUHXGpP5r686Q"
       },
@@ -511,6 +511,22 @@
     {
       "added_at": "2022-03-08 14:01:09",
       "album": {
+        "name": "Soft Place To Fall",
+        "url": "https://open.spotify.com/album/7MDS3NXJ5thAHZkUcALtDN"
+      },
+      "artists": [
+        {
+          "name": "Deborah Coleman",
+          "url": "https://open.spotify.com/artist/7Dk3koHTPpEymzuWOWzzny"
+        }
+      ],
+      "duration_ms": 291840,
+      "name": "I'm A Woman",
+      "url": "https://open.spotify.com/track/0HPazJXESVCimRyMggplg5"
+    },
+    {
+      "added_at": "2022-03-08 14:01:09",
+      "album": {
         "name": "Tricky Thing",
         "url": "https://open.spotify.com/album/4aPtimYS5kIEl8d03ToDUz"
       },
@@ -527,18 +543,18 @@
     {
       "added_at": "2022-03-08 14:01:09",
       "album": {
-        "name": "Soft Place To Fall",
-        "url": "https://open.spotify.com/album/7MDS3NXJ5thAHZkUcALtDN"
+        "name": "The Beautiful Bones",
+        "url": "https://open.spotify.com/album/5a1VvpMgW0Mz0FDVOYOV38"
       },
       "artists": [
         {
-          "name": "Deborah Coleman",
-          "url": "https://open.spotify.com/artist/7Dk3koHTPpEymzuWOWzzny"
+          "name": "Kelley Hunt",
+          "url": "https://open.spotify.com/artist/0L7Y276gBjB2pxuyhpgzgv"
         }
       ],
-      "duration_ms": 291840,
-      "name": "I'm A Woman",
-      "url": "https://open.spotify.com/track/0HPazJXESVCimRyMggplg5"
+      "duration_ms": 264253,
+      "name": "Release and Be Free",
+      "url": "https://open.spotify.com/track/7d1ZzOIyACB64aEibmWfH7"
     },
     {
       "added_at": "2022-03-08 14:01:09",
@@ -559,22 +575,6 @@
       "duration_ms": 370760,
       "name": "Gemini Heart",
       "url": "https://open.spotify.com/track/3gP6wL0DFyrJr4DzGgLhBq"
-    },
-    {
-      "added_at": "2022-03-08 14:01:09",
-      "album": {
-        "name": "The Beautiful Bones",
-        "url": "https://open.spotify.com/album/5a1VvpMgW0Mz0FDVOYOV38"
-      },
-      "artists": [
-        {
-          "name": "Kelley Hunt",
-          "url": "https://open.spotify.com/artist/0L7Y276gBjB2pxuyhpgzgv"
-        }
-      ],
-      "duration_ms": 264253,
-      "name": "Release and Be Free",
-      "url": "https://open.spotify.com/track/7d1ZzOIyACB64aEibmWfH7"
     },
     {
       "added_at": "2022-03-08 14:01:09",
@@ -643,22 +643,6 @@
     {
       "added_at": "2022-03-08 14:01:09",
       "album": {
-        "name": "Ain't Gonna Hush!",
-        "url": "https://open.spotify.com/album/3MIXDhkjD5nJEKqmmJWEh4"
-      },
-      "artists": [
-        {
-          "name": "Saffire-The Uppity Blues Women",
-          "url": "https://open.spotify.com/artist/0mOWWTxAbxY6z9WAoxkQ3E"
-        }
-      ],
-      "duration_ms": 138066,
-      "name": "Ain't Gonna Hush",
-      "url": "https://open.spotify.com/track/62Zws2ATx9MYalkQ5O5Jvw"
-    },
-    {
-      "added_at": "2022-03-08 14:01:09",
-      "album": {
         "name": "Love Spin",
         "url": "https://open.spotify.com/album/4mvFBBjUbJm2WQx59Jlkq4"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 231080,
       "name": "Life Of The Party",
       "url": "https://open.spotify.com/track/6GWulv1RwkqTN5Ak2BCRa5"
+    },
+    {
+      "added_at": "2022-03-08 14:01:09",
+      "album": {
+        "name": "Ain't Gonna Hush!",
+        "url": "https://open.spotify.com/album/3MIXDhkjD5nJEKqmmJWEh4"
+      },
+      "artists": [
+        {
+          "name": "Saffire-The Uppity Blues Women",
+          "url": "https://open.spotify.com/artist/0mOWWTxAbxY6z9WAoxkQ3E"
+        }
+      ],
+      "duration_ms": 138066,
+      "name": "Ain't Gonna Hush",
+      "url": "https://open.spotify.com/track/62Zws2ATx9MYalkQ5O5Jvw"
     },
     {
       "added_at": "2022-03-08 14:01:09",
@@ -739,22 +739,6 @@
     {
       "added_at": "2022-03-08 14:01:09",
       "album": {
-        "name": "Dig In Deep",
-        "url": "https://open.spotify.com/album/5vN4mU8RJ1rllLYGlIuOKR"
-      },
-      "artists": [
-        {
-          "name": "Bonnie Raitt",
-          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
-        }
-      ],
-      "duration_ms": 289026,
-      "name": "Unintended Consequence Of Love",
-      "url": "https://open.spotify.com/track/0DSob5ze3sstCI5FFpCRwj"
-    },
-    {
-      "added_at": "2022-03-08 14:01:09",
-      "album": {
         "name": "Loud Guitars, Big Suspicions",
         "url": "https://open.spotify.com/album/31YVnDFP920mK7VVqU3Fyp"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 209866,
       "name": "No Riders",
       "url": "https://open.spotify.com/track/0NHW16lrKx7ra3ix9xKqxh"
+    },
+    {
+      "added_at": "2022-03-08 14:01:09",
+      "album": {
+        "name": "Dig In Deep",
+        "url": "https://open.spotify.com/album/5vN4mU8RJ1rllLYGlIuOKR"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+        }
+      ],
+      "duration_ms": 289026,
+      "name": "Unintended Consequence Of Love",
+      "url": "https://open.spotify.com/track/0DSob5ze3sstCI5FFpCRwj"
     },
     {
       "added_at": "2022-03-08 14:01:09",
@@ -867,6 +867,22 @@
     {
       "added_at": "2022-03-08 14:01:09",
       "album": {
+        "name": "The Sky Is Crying",
+        "url": "https://open.spotify.com/album/3mQMXVI0HCbJ6yamBHpcBU"
+      },
+      "artists": [
+        {
+          "name": "Erja Lyytinen",
+          "url": "https://open.spotify.com/artist/73i095FtGSlyCoudRYl6MD"
+        }
+      ],
+      "duration_ms": 306680,
+      "name": "It Hurts Me Too",
+      "url": "https://open.spotify.com/track/7EFUJYLscAMh62ZkSUhZyc"
+    },
+    {
+      "added_at": "2022-03-08 14:01:09",
+      "album": {
         "name": "Change in the Weather: Janiva Magness Sings John Fogerty",
         "url": "https://open.spotify.com/album/18GO2VNtW7TBm0X4Qk0uJ5"
       },
@@ -883,22 +899,6 @@
       "duration_ms": 230400,
       "name": "Lodi",
       "url": "https://open.spotify.com/track/4dEgvYbysxyVEdn6oSupuy"
-    },
-    {
-      "added_at": "2022-03-08 14:01:09",
-      "album": {
-        "name": "The Sky Is Crying",
-        "url": "https://open.spotify.com/album/3mQMXVI0HCbJ6yamBHpcBU"
-      },
-      "artists": [
-        {
-          "name": "Erja Lyytinen",
-          "url": "https://open.spotify.com/artist/73i095FtGSlyCoudRYl6MD"
-        }
-      ],
-      "duration_ms": 306680,
-      "name": "It Hurts Me Too",
-      "url": "https://open.spotify.com/track/7EFUJYLscAMh62ZkSUhZyc"
     }
   ],
   "unique_name": "EQUAL Blues",

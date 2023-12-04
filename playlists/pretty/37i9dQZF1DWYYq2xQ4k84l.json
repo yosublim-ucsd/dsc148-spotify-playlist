@@ -1,12 +1,12 @@
 {
   "description": "The biggest songs in Latin America in 2004. Cover: Juanes",
-  "num_followers": 33284,
+  "num_followers": 33303,
   "original_name": "Latin Hits 2004",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNjk3ZjY0OTc2MGZhOGI2NWFmNjZiNDU5OGI2OWMxZDQzNDZhZTJj",
+  "snapshot_id": "MCw5NzY3YTA4OTMwNmY4MDM1NDY3N2FiOGM1YTdiYjllM2JkYjgwYzcx",
   "tracks": [
     {
       "added_at": "2021-12-22 23:41:59",
@@ -263,18 +263,18 @@
     {
       "added_at": "2021-12-22 23:41:59",
       "album": {
-        "name": "Reggaeton Hall of Fame, Vol. 1",
-        "url": "https://open.spotify.com/album/7z9bNKljyF4BCVf6srNhN0"
+        "name": "Vol. II",
+        "url": "https://open.spotify.com/album/01UJJt3Aregqk8jZMDPB5x"
       },
       "artists": [
         {
-          "name": "Trebol Clan",
-          "url": "https://open.spotify.com/artist/3YXpTiyVmYCfANOlnWv6vr"
+          "name": "Cartel De Santa",
+          "url": "https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP"
         }
       ],
-      "duration_ms": 157701,
-      "name": "Agarrala",
-      "url": "https://open.spotify.com/track/50K0GKbudptd9wZwQlQWdj"
+      "duration_ms": 262746,
+      "name": "El Arte del Enga\u00f1o",
+      "url": "https://open.spotify.com/track/0sQdIxWPpjCFLLUfOXhR0V"
     },
     {
       "added_at": "2021-12-22 23:41:59",
@@ -307,22 +307,6 @@
       "duration_ms": 289466,
       "name": "Vali\u00f3 la Pena - Salsa Version",
       "url": "https://open.spotify.com/track/2AMDKSt4HJWZbuLupJuNrj"
-    },
-    {
-      "added_at": "2021-12-22 23:41:59",
-      "album": {
-        "name": "Vol. II",
-        "url": "https://open.spotify.com/album/01UJJt3Aregqk8jZMDPB5x"
-      },
-      "artists": [
-        {
-          "name": "Cartel De Santa",
-          "url": "https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP"
-        }
-      ],
-      "duration_ms": 262746,
-      "name": "El Arte del Enga\u00f1o",
-      "url": "https://open.spotify.com/track/0sQdIxWPpjCFLLUfOXhR0V"
     },
     {
       "added_at": "2021-12-22 23:41:59",
@@ -363,22 +347,6 @@
     {
       "added_at": "2021-12-22 23:41:59",
       "album": {
-        "name": "Mi Sangre",
-        "url": "https://open.spotify.com/album/2HbvQeJXke68tjwOcsj8ne"
-      },
-      "artists": [
-        {
-          "name": "Juanes",
-          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
-        }
-      ],
-      "duration_ms": 217560,
-      "name": "Volverte A Ver",
-      "url": "https://open.spotify.com/track/2ZqFfDwNjKvPu3USx3onhO"
-    },
-    {
-      "added_at": "2021-12-22 23:41:59",
-      "album": {
         "name": "Travesia",
         "url": "https://open.spotify.com/album/6wx5HorxwpIFkNXsTJBvE5"
       },
@@ -391,6 +359,22 @@
       "duration_ms": 266493,
       "name": "Tengo Ganas",
       "url": "https://open.spotify.com/track/5nmLj87o23HJrI7GgqXXUw"
+    },
+    {
+      "added_at": "2021-12-22 23:41:59",
+      "album": {
+        "name": "Mi Sangre",
+        "url": "https://open.spotify.com/album/2HbvQeJXke68tjwOcsj8ne"
+      },
+      "artists": [
+        {
+          "name": "Juanes",
+          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
+        }
+      ],
+      "duration_ms": 217560,
+      "name": "Volverte A Ver",
+      "url": "https://open.spotify.com/track/2ZqFfDwNjKvPu3USx3onhO"
     },
     {
       "added_at": "2021-12-22 23:41:59",
@@ -411,22 +395,6 @@
     {
       "added_at": "2021-12-22 23:41:59",
       "album": {
-        "name": "Mexico en la Piel (edicion diamante)",
-        "url": "https://open.spotify.com/album/41VfVz6sKvbm1yCbqAlwfM"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
-        }
-      ],
-      "duration_ms": 209213,
-      "name": "M\u00e9xico En La Piel",
-      "url": "https://open.spotify.com/track/5BPq1UQa1NSN647R6IzD3n"
-    },
-    {
-      "added_at": "2021-12-22 23:41:59",
-      "album": {
         "name": "Armando Camale\u00f3n",
         "url": "https://open.spotify.com/album/1d8IGsUrIw7cXqFcwUM5pP"
       },
@@ -439,6 +407,22 @@
       "duration_ms": 237546,
       "name": "Campanas en la Noche",
       "url": "https://open.spotify.com/track/0C9V5jMElp7laZZdsCHufD"
+    },
+    {
+      "added_at": "2021-12-22 23:41:59",
+      "album": {
+        "name": "Mexico en la Piel (edicion diamante)",
+        "url": "https://open.spotify.com/album/41VfVz6sKvbm1yCbqAlwfM"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "duration_ms": 209213,
+      "name": "M\u00e9xico En La Piel",
+      "url": "https://open.spotify.com/track/5BPq1UQa1NSN647R6IzD3n"
     },
     {
       "added_at": "2021-12-22 23:41:59",
@@ -511,22 +495,6 @@
     {
       "added_at": "2021-12-22 23:41:59",
       "album": {
-        "name": "Mi Sangre",
-        "url": "https://open.spotify.com/album/2HbvQeJXke68tjwOcsj8ne"
-      },
-      "artists": [
-        {
-          "name": "Juanes",
-          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
-        }
-      ],
-      "duration_ms": 249000,
-      "name": "Para Tu Amor",
-      "url": "https://open.spotify.com/track/2quTytCTP9kKLvpveyO1mt"
-    },
-    {
-      "added_at": "2021-12-22 23:41:59",
-      "album": {
         "name": "Sinverguenza",
         "url": "https://open.spotify.com/album/7adZK0OmOhHL3DnEL5qWKb"
       },
@@ -539,6 +507,22 @@
       "duration_ms": 235893,
       "name": "Pasos de gigantes",
       "url": "https://open.spotify.com/track/5cfyheAkmqThtjovwfQnD4"
+    },
+    {
+      "added_at": "2021-12-22 23:41:59",
+      "album": {
+        "name": "Mi Sangre",
+        "url": "https://open.spotify.com/album/2HbvQeJXke68tjwOcsj8ne"
+      },
+      "artists": [
+        {
+          "name": "Juanes",
+          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
+        }
+      ],
+      "duration_ms": 249000,
+      "name": "Para Tu Amor",
+      "url": "https://open.spotify.com/track/2quTytCTP9kKLvpveyO1mt"
     },
     {
       "added_at": "2021-12-22 23:41:59",
@@ -691,22 +675,6 @@
     {
       "added_at": "2021-12-22 23:41:59",
       "album": {
-        "name": "A Contraluz",
-        "url": "https://open.spotify.com/album/7LMidzEe6utRLx7hPiq2AL"
-      },
-      "artists": [
-        {
-          "name": "La Vela Puerca",
-          "url": "https://open.spotify.com/artist/6nVcjUJemqpJjc1WevwTvL"
-        }
-      ],
-      "duration_ms": 281533,
-      "name": "Va A Escampar",
-      "url": "https://open.spotify.com/track/4MPwBYidOWnwpKlqQYJEzX"
-    },
-    {
-      "added_at": "2021-12-22 23:41:59",
-      "album": {
         "name": "Jardin",
         "url": "https://open.spotify.com/album/38SjCB7KnLKUgyEBjRfGmC"
       },
@@ -719,6 +687,22 @@
       "duration_ms": 218013,
       "name": "Desde Que",
       "url": "https://open.spotify.com/track/4QLfVqOrpBOJra53EhlEX0"
+    },
+    {
+      "added_at": "2021-12-22 23:41:59",
+      "album": {
+        "name": "A Contraluz",
+        "url": "https://open.spotify.com/album/7LMidzEe6utRLx7hPiq2AL"
+      },
+      "artists": [
+        {
+          "name": "La Vela Puerca",
+          "url": "https://open.spotify.com/artist/6nVcjUJemqpJjc1WevwTvL"
+        }
+      ],
+      "duration_ms": 281533,
+      "name": "Va A Escampar",
+      "url": "https://open.spotify.com/track/4MPwBYidOWnwpKlqQYJEzX"
     },
     {
       "added_at": "2021-12-22 23:41:59",
@@ -739,22 +723,6 @@
     {
       "added_at": "2021-12-22 23:41:59",
       "album": {
-        "name": "Vuelo",
-        "url": "https://open.spotify.com/album/08KOgBq2xXcfunaEs3Nf2P"
-      },
-      "artists": [
-        {
-          "name": "Kudai",
-          "url": "https://open.spotify.com/artist/0Wnd6L0qEnk8jiCIHrWXaC"
-        }
-      ],
-      "duration_ms": 195666,
-      "name": "Sin Despertar",
-      "url": "https://open.spotify.com/track/1Cafs1zrIyOzF8XPmkSI4p"
-    },
-    {
-      "added_at": "2021-12-22 23:41:59",
-      "album": {
         "name": "Coleccion Cristiana",
         "url": "https://open.spotify.com/album/4u3f2d7j7SUlPh5dGaJf1v"
       },
@@ -767,6 +735,22 @@
       "duration_ms": 195653,
       "name": "Las Avispas",
       "url": "https://open.spotify.com/track/1oInQX1RuH1TcHuDv8Gvw3"
+    },
+    {
+      "added_at": "2021-12-22 23:41:59",
+      "album": {
+        "name": "Vuelo",
+        "url": "https://open.spotify.com/album/08KOgBq2xXcfunaEs3Nf2P"
+      },
+      "artists": [
+        {
+          "name": "Kudai",
+          "url": "https://open.spotify.com/artist/0Wnd6L0qEnk8jiCIHrWXaC"
+        }
+      ],
+      "duration_ms": 195666,
+      "name": "Sin Despertar",
+      "url": "https://open.spotify.com/track/1Cafs1zrIyOzF8XPmkSI4p"
     },
     {
       "added_at": "2021-12-22 23:41:59",
@@ -851,6 +835,22 @@
       "duration_ms": 270533,
       "name": "Hoy Tengo Miedo",
       "url": "https://open.spotify.com/track/7dkzqJnqaLDEH8MsP1Rxx7"
+    },
+    {
+      "added_at": "2021-12-22 23:41:59",
+      "album": {
+        "name": "Los Bacatranes",
+        "url": "https://open.spotify.com/album/0SwqLSkutjgKHO8Y7jCplA"
+      },
+      "artists": [
+        {
+          "name": "Trebol Clan",
+          "url": "https://open.spotify.com/artist/3YXpTiyVmYCfANOlnWv6vr"
+        }
+      ],
+      "duration_ms": 208169,
+      "name": "Gata Fiera",
+      "url": "https://open.spotify.com/track/3z6HxlyOlcd2bPBTUNElC8"
     }
   ],
   "unique_name": "Latin Hits 2004",

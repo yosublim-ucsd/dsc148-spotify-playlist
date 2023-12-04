@@ -7981,6 +7981,28 @@
     },
     {
       "album": {
+        "name": "KH-22",
+        "url": "https://open.spotify.com/album/1zqvKz8fhd93s4GPYFDYAP"
+      },
+      "artists": [
+        {
+          "name": "ASHE 22",
+          "url": "https://open.spotify.com/artist/3tTvSeZiFDP3CY5EdPGcR4"
+        },
+        {
+          "name": "Maes",
+          "url": "https://open.spotify.com/artist/6L34dW6SKMSDaGIfYDU19j"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171428,
+      "name": "CORONER",
+      "url": "https://open.spotify.com/track/0fU8nZlFxeplNx9SeuYEQL"
+    },
+    {
+      "album": {
         "name": "Costco freestyle",
         "url": "https://open.spotify.com/album/7zXtx6SQ1XkGiEi63Qrh8Q"
       },
@@ -37002,7 +37024,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-04",
       "duration_ms": 190696,
       "name": "Sur la glace",
       "url": "https://open.spotify.com/track/0Pw98pAQO87gY4zS1xyoqb"

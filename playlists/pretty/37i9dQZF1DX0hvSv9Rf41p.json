@@ -1,12 +1,12 @@
 {
   "description": "All things <a href=\"spotify:genre:bass\">bass</a> with NGHTMRE, Rezz & DeathbyRomy",
-  "num_followers": 976992,
+  "num_followers": 976996,
   "original_name": "Bass Arcade",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MjUyNWFmNWFlYzI3MjQwZTMzNzQxNTZjZGFiNGVjYjM0NTM4YTQ1",
+  "snapshot_id": "MCwwNzdhYjQ2MTE3OTg1ZTNhNjY4MzdlY2IzZjU3MzAzM2MyMjRkZDM1",
   "tracks": [
     {
       "added_at": "2023-11-17 05:00:00",
@@ -1109,26 +1109,6 @@
       "url": "https://open.spotify.com/track/4p16E9c9Ig6xFMGS3Y82mT"
     },
     {
-      "added_at": "2023-11-10 05:00:00",
-      "album": {
-        "name": "Lost In Mumbai",
-        "url": "https://open.spotify.com/album/641ITlNYNF5fjZUoWM97yC"
-      },
-      "artists": [
-        {
-          "name": "Apashe",
-          "url": "https://open.spotify.com/artist/1fd3fmwlhrDl2U5wbbPQYN"
-        },
-        {
-          "name": "Geoffroy",
-          "url": "https://open.spotify.com/artist/0VzoflxRgSVEWHYmCbMOJJ"
-        }
-      ],
-      "duration_ms": 180480,
-      "name": "Lost In Mumbai",
-      "url": "https://open.spotify.com/track/3WZDLEcdZXE0TtLYrbJmmH"
-    },
-    {
       "added_at": "2023-10-20 04:01:00",
       "album": {
         "name": "Sweet Dreams (Are Made Of This)",
@@ -1147,6 +1127,26 @@
       "duration_ms": 154285,
       "name": "Sweet Dreams (Are Made Of This)",
       "url": "https://open.spotify.com/track/2VgsFO5sOTrLo2AOXV7q0W"
+    },
+    {
+      "added_at": "2023-11-10 05:00:00",
+      "album": {
+        "name": "Lost In Mumbai",
+        "url": "https://open.spotify.com/album/641ITlNYNF5fjZUoWM97yC"
+      },
+      "artists": [
+        {
+          "name": "Apashe",
+          "url": "https://open.spotify.com/artist/1fd3fmwlhrDl2U5wbbPQYN"
+        },
+        {
+          "name": "Geoffroy",
+          "url": "https://open.spotify.com/artist/0VzoflxRgSVEWHYmCbMOJJ"
+        }
+      ],
+      "duration_ms": 180480,
+      "name": "Lost In Mumbai",
+      "url": "https://open.spotify.com/track/3WZDLEcdZXE0TtLYrbJmmH"
     },
     {
       "added_at": "2023-10-20 04:01:00",
@@ -1257,6 +1257,22 @@
       "url": "https://open.spotify.com/track/2vk63a0DpsEDiCG4k0mjCF"
     },
     {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
+        "name": "Tear Jerker",
+        "url": "https://open.spotify.com/album/5vqaFNDtNXDaXjM7MoCOeu"
+      },
+      "artists": [
+        {
+          "name": "Cyclops",
+          "url": "https://open.spotify.com/artist/1vOTVnnyLvVTeuwrZLghCN"
+        }
+      ],
+      "duration_ms": 155538,
+      "name": "Tear Jerker",
+      "url": "https://open.spotify.com/track/44tKnY1Tsoe9jPGmoA1H2c"
+    },
+    {
       "added_at": "2023-10-20 04:01:00",
       "album": {
         "name": "Fight or Flight",
@@ -1275,22 +1291,6 @@
       "duration_ms": 151538,
       "name": "Fight or Flight",
       "url": "https://open.spotify.com/track/0biZ6lxXHy4eHweTbOD33W"
-    },
-    {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
-        "name": "Tear Jerker",
-        "url": "https://open.spotify.com/album/5vqaFNDtNXDaXjM7MoCOeu"
-      },
-      "artists": [
-        {
-          "name": "Cyclops",
-          "url": "https://open.spotify.com/artist/1vOTVnnyLvVTeuwrZLghCN"
-        }
-      ],
-      "duration_ms": 155538,
-      "name": "Tear Jerker",
-      "url": "https://open.spotify.com/track/44tKnY1Tsoe9jPGmoA1H2c"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -1769,26 +1769,6 @@
       "url": "https://open.spotify.com/track/4eX9IUbwqNJKyzFWDRExjc"
     },
     {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
-        "name": "Wish You Were Here",
-        "url": "https://open.spotify.com/album/3YlsIOcaWk0GUhmcb9RE6W"
-      },
-      "artists": [
-        {
-          "name": "MitiS",
-          "url": "https://open.spotify.com/artist/16yUpGkBRgc2eDMd3bB3Uw"
-        },
-        {
-          "name": "Beauty School Dropout",
-          "url": "https://open.spotify.com/artist/2MJMW3WtQnDq7DKezFn5jO"
-        }
-      ],
-      "duration_ms": 214400,
-      "name": "Wish You Were Here",
-      "url": "https://open.spotify.com/track/3E0vyXi0sg1Kegs7lGgjDc"
-    },
-    {
       "added_at": "2023-11-10 05:00:00",
       "album": {
         "name": "All Of A Sudden",
@@ -1811,6 +1791,26 @@
       "duration_ms": 181617,
       "name": "All Of A Sudden",
       "url": "https://open.spotify.com/track/4cZjrMVO2Cd1IDlHSbo6rb"
+    },
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
+        "name": "Wish You Were Here",
+        "url": "https://open.spotify.com/album/3YlsIOcaWk0GUhmcb9RE6W"
+      },
+      "artists": [
+        {
+          "name": "MitiS",
+          "url": "https://open.spotify.com/artist/16yUpGkBRgc2eDMd3bB3Uw"
+        },
+        {
+          "name": "Beauty School Dropout",
+          "url": "https://open.spotify.com/artist/2MJMW3WtQnDq7DKezFn5jO"
+        }
+      ],
+      "duration_ms": 214400,
+      "name": "Wish You Were Here",
+      "url": "https://open.spotify.com/track/3E0vyXi0sg1Kegs7lGgjDc"
     },
     {
       "added_at": "2023-10-20 04:01:00",
@@ -1879,26 +1879,22 @@
     {
       "added_at": "2023-10-20 04:01:00",
       "album": {
-        "name": "NO FEAR",
-        "url": "https://open.spotify.com/album/36SmlBYQsx9egrbscTMe9D"
+        "name": "Microworlds",
+        "url": "https://open.spotify.com/album/1OrVf4ejXLTMfWUiXtXU3C"
       },
       "artists": [
         {
-          "name": "DIESEL",
-          "url": "https://open.spotify.com/artist/75vCyksqhYjtt5VIpc8g7u"
+          "name": "CloZee",
+          "url": "https://open.spotify.com/artist/1496XxkytEk26FUJLfpVZr"
         },
         {
-          "name": "Jessica Audiffred",
-          "url": "https://open.spotify.com/artist/4odLDriBk6oEZotzLPTSnD"
-        },
-        {
-          "name": "Shaquille O'Neal",
-          "url": "https://open.spotify.com/artist/67RWyN1fDOu7WuSTIi5hE7"
+          "name": "Ella Vos",
+          "url": "https://open.spotify.com/artist/2zmrsXMHxagFz6vI2cD7r6"
         }
       ],
-      "duration_ms": 174400,
-      "name": "NO FEAR",
-      "url": "https://open.spotify.com/track/0xy1H3TnhU478kNe7E8Wxc"
+      "duration_ms": 209341,
+      "name": "Glow In The Dark",
+      "url": "https://open.spotify.com/track/43QTqbEuSMnofYrZ1fuNwi"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -1923,22 +1919,26 @@
     {
       "added_at": "2023-10-20 04:01:00",
       "album": {
-        "name": "Microworlds",
-        "url": "https://open.spotify.com/album/1OrVf4ejXLTMfWUiXtXU3C"
+        "name": "NO FEAR",
+        "url": "https://open.spotify.com/album/36SmlBYQsx9egrbscTMe9D"
       },
       "artists": [
         {
-          "name": "CloZee",
-          "url": "https://open.spotify.com/artist/1496XxkytEk26FUJLfpVZr"
+          "name": "DIESEL",
+          "url": "https://open.spotify.com/artist/75vCyksqhYjtt5VIpc8g7u"
         },
         {
-          "name": "Ella Vos",
-          "url": "https://open.spotify.com/artist/2zmrsXMHxagFz6vI2cD7r6"
+          "name": "Jessica Audiffred",
+          "url": "https://open.spotify.com/artist/4odLDriBk6oEZotzLPTSnD"
+        },
+        {
+          "name": "Shaquille O'Neal",
+          "url": "https://open.spotify.com/artist/67RWyN1fDOu7WuSTIi5hE7"
         }
       ],
-      "duration_ms": 209341,
-      "name": "Glow In The Dark",
-      "url": "https://open.spotify.com/track/43QTqbEuSMnofYrZ1fuNwi"
+      "duration_ms": 174400,
+      "name": "NO FEAR",
+      "url": "https://open.spotify.com/track/0xy1H3TnhU478kNe7E8Wxc"
     },
     {
       "added_at": "2023-10-20 04:01:00",
@@ -1987,42 +1987,6 @@
     {
       "added_at": "2023-10-20 04:01:00",
       "album": {
-        "name": "Summer Of Saigon",
-        "url": "https://open.spotify.com/album/770o01vMAudjvaj6TzBnMO"
-      },
-      "artists": [
-        {
-          "name": "Elephant Heart",
-          "url": "https://open.spotify.com/artist/2nwPBvsuf070C7KYSWoXbD"
-        }
-      ],
-      "duration_ms": 233452,
-      "name": "Summer Of Saigon",
-      "url": "https://open.spotify.com/track/5BWpRTmIud6QuaKxZI4Ilr"
-    },
-    {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
-        "name": "Heavy Metal",
-        "url": "https://open.spotify.com/album/4iGcggDKOW8w0tObYP1xdF"
-      },
-      "artists": [
-        {
-          "name": "Flux Pavilion",
-          "url": "https://open.spotify.com/artist/7muzHifhMdnfN1xncRLOqk"
-        },
-        {
-          "name": "PAV4N",
-          "url": "https://open.spotify.com/artist/1csMDtU42ZYNaqadbA4TAK"
-        }
-      ],
-      "duration_ms": 229805,
-      "name": "Heavy Metal",
-      "url": "https://open.spotify.com/track/701sPqgQqlzdBPE8reDeBH"
-    },
-    {
-      "added_at": "2023-10-20 04:01:00",
-      "album": {
         "name": "Your Lovin'",
         "url": "https://open.spotify.com/album/7rBFU32lvfinN9H59HWKU7"
       },
@@ -2055,6 +2019,42 @@
       "duration_ms": 238566,
       "name": "Brightest Light (feat. Dotter)",
       "url": "https://open.spotify.com/track/1Xf3rkHsxGa5eJxvVOxug3"
+    },
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
+        "name": "Heavy Metal",
+        "url": "https://open.spotify.com/album/4iGcggDKOW8w0tObYP1xdF"
+      },
+      "artists": [
+        {
+          "name": "Flux Pavilion",
+          "url": "https://open.spotify.com/artist/7muzHifhMdnfN1xncRLOqk"
+        },
+        {
+          "name": "PAV4N",
+          "url": "https://open.spotify.com/artist/1csMDtU42ZYNaqadbA4TAK"
+        }
+      ],
+      "duration_ms": 229805,
+      "name": "Heavy Metal",
+      "url": "https://open.spotify.com/track/701sPqgQqlzdBPE8reDeBH"
+    },
+    {
+      "added_at": "2023-10-20 04:01:00",
+      "album": {
+        "name": "Summer Of Saigon",
+        "url": "https://open.spotify.com/album/770o01vMAudjvaj6TzBnMO"
+      },
+      "artists": [
+        {
+          "name": "Elephant Heart",
+          "url": "https://open.spotify.com/artist/2nwPBvsuf070C7KYSWoXbD"
+        }
+      ],
+      "duration_ms": 233452,
+      "name": "Summer Of Saigon",
+      "url": "https://open.spotify.com/track/5BWpRTmIud6QuaKxZI4Ilr"
     },
     {
       "added_at": "2023-11-10 05:00:00",

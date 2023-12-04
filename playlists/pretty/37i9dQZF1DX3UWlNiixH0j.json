@@ -1,12 +1,12 @@
 {
   "description": "\u65e5\u672c\u306e\u30a4\u30f3\u30c7\u30a3\u30fc\u30fb\u30b5\u30a6\u30f3\u30c9\u3092\u7279\u96c6\u3002The freshest indie sounds from Japan. cover: \u677e\u6728\u7f8e\u5b9a",
-  "num_followers": 54773,
+  "num_followers": 54865,
   "original_name": "Edge!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZWJjNzUzYzJjMmNlYWU3MjE3ZDE0NTlkNDdkMThiODM3ODUwN2U5",
+  "snapshot_id": "MCxlYjEyYWUwMmQ4ZDBkNGM5YTJhOTU1OTdjMDNlNTllNWEzMzRjOTYx",
   "tracks": [
     {
       "added_at": "2023-11-30 15:56:56",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2023-11-30 15:56:56",
       "album": {
-        "name": "\u3042\u306a\u305f\u306e\u865c",
-        "url": "https://open.spotify.com/album/4R4Rdu7a4a56r7oYJzRZLr"
-      },
-      "artists": [
-        {
-          "name": "\u677e\u6728\u7f8e\u5b9a",
-          "url": "https://open.spotify.com/artist/4VytANV5Kt1OqJpzkkc6wA"
-        }
-      ],
-      "duration_ms": 188575,
-      "name": "\u3042\u306a\u305f\u306e\u865c",
-      "url": "https://open.spotify.com/track/0kIJE88GHrcAt0tnaV3ROG"
-    },
-    {
-      "added_at": "2023-11-30 15:56:56",
-      "album": {
         "name": "\u3042\u308a\u304c\u3068\u3046",
         "url": "https://open.spotify.com/album/3yvG3IQ4OQwzw9rxoYzceV"
       },
@@ -1227,18 +1211,18 @@
     {
       "added_at": "2023-11-30 15:56:56",
       "album": {
-        "name": "Booorn!!",
-        "url": "https://open.spotify.com/album/5EQ83ifAXP6CnqWmb4oZm3"
+        "name": "\u3042\u306a\u305f\u306e\u865c",
+        "url": "https://open.spotify.com/album/4R4Rdu7a4a56r7oYJzRZLr"
       },
       "artists": [
         {
-          "name": "Tempalay",
-          "url": "https://open.spotify.com/artist/5IlQkA8Lq4X0dOWHBumeJP"
+          "name": "\u677e\u6728\u7f8e\u5b9a",
+          "url": "https://open.spotify.com/artist/4VytANV5Kt1OqJpzkkc6wA"
         }
       ],
-      "duration_ms": 222857,
-      "name": "Booorn!!",
-      "url": "https://open.spotify.com/track/48oPAi5Va2Qm3ep6q6506R"
+      "duration_ms": 188575,
+      "name": "\u3042\u306a\u305f\u306e\u865c",
+      "url": "https://open.spotify.com/track/0kIJE88GHrcAt0tnaV3ROG"
     },
     {
       "added_at": "2023-11-30 15:56:56",
@@ -1255,6 +1239,22 @@
       "duration_ms": 306346,
       "name": "\u30aa\u30fc\u30d7\u30f3\u30a8\u30f3\u30c9",
       "url": "https://open.spotify.com/track/69wC7CS0O12zmn0GYP31aR"
+    },
+    {
+      "added_at": "2023-11-30 15:56:56",
+      "album": {
+        "name": "Booorn!!",
+        "url": "https://open.spotify.com/album/5EQ83ifAXP6CnqWmb4oZm3"
+      },
+      "artists": [
+        {
+          "name": "Tempalay",
+          "url": "https://open.spotify.com/artist/5IlQkA8Lq4X0dOWHBumeJP"
+        }
+      ],
+      "duration_ms": 222857,
+      "name": "Booorn!!",
+      "url": "https://open.spotify.com/track/48oPAi5Va2Qm3ep6q6506R"
     },
     {
       "added_at": "2023-11-30 15:56:56",
@@ -1379,6 +1379,22 @@
     {
       "added_at": "2023-11-30 15:56:56",
       "album": {
+        "name": "Quicksand",
+        "url": "https://open.spotify.com/album/2Lb2A5WI9ti7WlJG8f1Gte"
+      },
+      "artists": [
+        {
+          "name": "Bialystocks",
+          "url": "https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe"
+        }
+      ],
+      "duration_ms": 185133,
+      "name": "Sashiiro",
+      "url": "https://open.spotify.com/track/2WEDTNH2nR7aN6RP2tzxh5"
+    },
+    {
+      "added_at": "2023-11-30 15:56:56",
+      "album": {
         "name": "CHELSEA",
         "url": "https://open.spotify.com/album/2lJVa505accbQtDWLPIKa7"
       },
@@ -1391,22 +1407,6 @@
       "duration_ms": 211728,
       "name": "CHELSEA",
       "url": "https://open.spotify.com/track/1DTFAX3tGh7Ir8WeHKA36i"
-    },
-    {
-      "added_at": "2023-11-30 15:56:56",
-      "album": {
-        "name": "OLD ROOKIE EP.1",
-        "url": "https://open.spotify.com/album/0cc0kTXheZsfEllaCljvKI"
-      },
-      "artists": [
-        {
-          "name": "Dengaryu",
-          "url": "https://open.spotify.com/artist/77UuWIk4w0o7rsn3q1Peru"
-        }
-      ],
-      "duration_ms": 149425,
-      "name": "Old Rookie",
-      "url": "https://open.spotify.com/track/6wo2dSc2HAsF0KUqti4UQn"
     },
     {
       "added_at": "2023-11-30 15:56:56",
@@ -1427,18 +1427,18 @@
     {
       "added_at": "2023-11-30 15:56:56",
       "album": {
-        "name": "Quicksand",
-        "url": "https://open.spotify.com/album/2Lb2A5WI9ti7WlJG8f1Gte"
+        "name": "OLD ROOKIE EP.1",
+        "url": "https://open.spotify.com/album/0cc0kTXheZsfEllaCljvKI"
       },
       "artists": [
         {
-          "name": "Bialystocks",
-          "url": "https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe"
+          "name": "Dengaryu",
+          "url": "https://open.spotify.com/artist/77UuWIk4w0o7rsn3q1Peru"
         }
       ],
-      "duration_ms": 185133,
-      "name": "Sashiiro",
-      "url": "https://open.spotify.com/track/2WEDTNH2nR7aN6RP2tzxh5"
+      "duration_ms": 149425,
+      "name": "Old Rookie",
+      "url": "https://open.spotify.com/track/6wo2dSc2HAsF0KUqti4UQn"
     },
     {
       "added_at": "2023-11-30 15:56:56",
@@ -1459,42 +1459,6 @@
     {
       "added_at": "2023-11-30 15:56:56",
       "album": {
-        "name": "\u80b4",
-        "url": "https://open.spotify.com/album/3FgHoa9C34h5KOuA9VrVZp"
-      },
-      "artists": [
-        {
-          "name": "domico",
-          "url": "https://open.spotify.com/artist/0CQuAKiUYqH0OK020E3miJ"
-        }
-      ],
-      "duration_ms": 160144,
-      "name": "\u4e0d\u7720\u5c0e\u5165\u5264",
-      "url": "https://open.spotify.com/track/0NL5SHYE1u3TgA0WtYhwlF"
-    },
-    {
-      "added_at": "2023-11-30 15:56:56",
-      "album": {
-        "name": "Mo ai ni",
-        "url": "https://open.spotify.com/album/79saUDsLWYgwn46WMKRtW7"
-      },
-      "artists": [
-        {
-          "name": "She Her Her Hers",
-          "url": "https://open.spotify.com/artist/3Th9UyipOGp08husDe0Era"
-        },
-        {
-          "name": "\u77f3\u73ba\u5f64",
-          "url": "https://open.spotify.com/artist/1m4PLF4txR3ykHKa3uVWcd"
-        }
-      ],
-      "duration_ms": 178673,
-      "name": "Mo ai ni",
-      "url": "https://open.spotify.com/track/6iSG9jmLnHlXaYgbIlBCUP"
-    },
-    {
-      "added_at": "2023-11-30 15:56:56",
-      "album": {
         "name": "Rainy Day",
         "url": "https://open.spotify.com/album/2AFqDaqL6nvDsYRZwXpPWu"
       },
@@ -1507,6 +1471,22 @@
       "duration_ms": 181666,
       "name": "Rainy Day",
       "url": "https://open.spotify.com/track/22f48KIbKzgpOkAtVvyUQW"
+    },
+    {
+      "added_at": "2023-11-30 15:56:56",
+      "album": {
+        "name": "\u80b4",
+        "url": "https://open.spotify.com/album/3FgHoa9C34h5KOuA9VrVZp"
+      },
+      "artists": [
+        {
+          "name": "domico",
+          "url": "https://open.spotify.com/artist/0CQuAKiUYqH0OK020E3miJ"
+        }
+      ],
+      "duration_ms": 160144,
+      "name": "\u4e0d\u7720\u5c0e\u5165\u5264",
+      "url": "https://open.spotify.com/track/0NL5SHYE1u3TgA0WtYhwlF"
     },
     {
       "added_at": "2023-11-30 15:56:56",
@@ -1539,22 +1519,6 @@
     {
       "added_at": "2023-11-30 15:56:56",
       "album": {
-        "name": "NEW BORN GHOST",
-        "url": "https://open.spotify.com/album/7I0gE5xwblR3qtvT3Z4uxc"
-      },
-      "artists": [
-        {
-          "name": "Tele",
-          "url": "https://open.spotify.com/artist/2DesRdo7rppo0VC8cR3vsf"
-        }
-      ],
-      "duration_ms": 141793,
-      "name": "\u30d0\u30fc\u30b9\u30c7\u30a4",
-      "url": "https://open.spotify.com/track/5DiTlBAb9KTVbggIvZSDuE"
-    },
-    {
-      "added_at": "2023-11-30 15:56:56",
-      "album": {
         "name": "\u967d\u6c17\u306a\u4f11\u65e5",
         "url": "https://open.spotify.com/album/6j9nxtP0BmchrWc9JkBT2G"
       },
@@ -1567,6 +1531,42 @@
       "duration_ms": 268500,
       "name": "\u5922\u306b\u306a\u3089\u306a\u3044\u3088\u3046\u306b",
       "url": "https://open.spotify.com/track/3akniqbPdq5nhh19QtxAq2"
+    },
+    {
+      "added_at": "2023-11-30 15:56:56",
+      "album": {
+        "name": "Mo ai ni",
+        "url": "https://open.spotify.com/album/79saUDsLWYgwn46WMKRtW7"
+      },
+      "artists": [
+        {
+          "name": "She Her Her Hers",
+          "url": "https://open.spotify.com/artist/3Th9UyipOGp08husDe0Era"
+        },
+        {
+          "name": "\u77f3\u73ba\u5f64",
+          "url": "https://open.spotify.com/artist/1m4PLF4txR3ykHKa3uVWcd"
+        }
+      ],
+      "duration_ms": 178673,
+      "name": "Mo ai ni",
+      "url": "https://open.spotify.com/track/6iSG9jmLnHlXaYgbIlBCUP"
+    },
+    {
+      "added_at": "2023-11-30 15:56:56",
+      "album": {
+        "name": "NEW BORN GHOST",
+        "url": "https://open.spotify.com/album/7I0gE5xwblR3qtvT3Z4uxc"
+      },
+      "artists": [
+        {
+          "name": "Tele",
+          "url": "https://open.spotify.com/artist/2DesRdo7rppo0VC8cR3vsf"
+        }
+      ],
+      "duration_ms": 141793,
+      "name": "\u30d0\u30fc\u30b9\u30c7\u30a4",
+      "url": "https://open.spotify.com/track/5DiTlBAb9KTVbggIvZSDuE"
     },
     {
       "added_at": "2023-11-30 15:56:56",
@@ -1619,22 +1619,6 @@
     {
       "added_at": "2023-11-30 15:56:56",
       "album": {
-        "name": "\u30b9\u30ab\u30d5\u30a3\u30f3\u306e\u3046\u305f",
-        "url": "https://open.spotify.com/album/3EmJjo9wN19HWDyoFMSgp1"
-      },
-      "artists": [
-        {
-          "name": "\u4e2d\u6751\u4f73\u7a42",
-          "url": "https://open.spotify.com/artist/0illCOhPkFBykngmCWos6u"
-        }
-      ],
-      "duration_ms": 150903,
-      "name": "\u30b9\u30ab\u30d5\u30a3\u30f3\u306e\u3046\u305f",
-      "url": "https://open.spotify.com/track/6J6oZQOtnPZap0gHG88DSi"
-    },
-    {
-      "added_at": "2023-11-30 15:56:56",
-      "album": {
         "name": "Blue light",
         "url": "https://open.spotify.com/album/7CgmEdA9U6sm9bneO5gc6M"
       },
@@ -1647,6 +1631,22 @@
       "duration_ms": 235500,
       "name": "Blue light",
       "url": "https://open.spotify.com/track/4maIfu6RioRLlTBOeTnP5g"
+    },
+    {
+      "added_at": "2023-11-30 15:56:56",
+      "album": {
+        "name": "\u30b9\u30ab\u30d5\u30a3\u30f3\u306e\u3046\u305f",
+        "url": "https://open.spotify.com/album/3EmJjo9wN19HWDyoFMSgp1"
+      },
+      "artists": [
+        {
+          "name": "\u4e2d\u6751\u4f73\u7a42",
+          "url": "https://open.spotify.com/artist/0illCOhPkFBykngmCWos6u"
+        }
+      ],
+      "duration_ms": 150903,
+      "name": "\u30b9\u30ab\u30d5\u30a3\u30f3\u306e\u3046\u305f",
+      "url": "https://open.spotify.com/track/6J6oZQOtnPZap0gHG88DSi"
     },
     {
       "added_at": "2023-11-30 15:56:56",
@@ -1667,18 +1667,22 @@
     {
       "added_at": "2023-11-30 15:56:56",
       "album": {
-        "name": "BIGLOVE",
-        "url": "https://open.spotify.com/album/30vJnOO8ywQhgOUyTjX5GJ"
+        "name": "Ctrl Z (feat. Foi)",
+        "url": "https://open.spotify.com/album/5JrSCjgBmW2kTKIVvJSXen"
       },
       "artists": [
         {
-          "name": "TENDOUJI",
-          "url": "https://open.spotify.com/artist/7kOS7xo3ryc1MmhfP0fNnX"
+          "name": "Sala",
+          "url": "https://open.spotify.com/artist/6PCEjMwZEdp6lUJv7z2prW"
+        },
+        {
+          "name": "Foi",
+          "url": "https://open.spotify.com/artist/395MrZuV4ZaUrn1QUPu8FB"
         }
       ],
-      "duration_ms": 170707,
-      "name": "BIGLOVE",
-      "url": "https://open.spotify.com/track/5q5DpwaeE6qAv1TyF0D5D8"
+      "duration_ms": 189871,
+      "name": "Ctrl Z (feat. Foi)",
+      "url": "https://open.spotify.com/track/2eonLjVLwcaGt9GZT5urhI"
     }
   ],
   "unique_name": "Edge!",

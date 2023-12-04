@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2l1BM6ggRui.md) - [plain]
 
 > 듣고만 있어도 행복한 노래들과 더더욱 행복하세요 ;\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,215 likes - 60 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,235 likes - 60 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,11 +62,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2l1BM6ggRui.md) - [plain]
 | 52 | [Happy Song](https://open.spotify.com/track/1eUQ5JMD5vGz24Wxcq8fDv) | [MeloMance](https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e) | [Our Blues, Pt\. 7 \(Original Television Soundtrack\)](https://open.spotify.com/album/5CkqLnLIpyWKmt6iUIhW5s) | 3:57 |
 | 53 | [Naked](https://open.spotify.com/track/2dFIqSB5r0IrqJFJS367Kx) | [xooos](https://open.spotify.com/artist/0OqnFLmTWiVGm3Ifk6mahQ) | [Naked](https://open.spotify.com/album/2zpxFjdb5JINyMyvTpyGOc) | 2:54 |
 | 54 | [Answer](https://open.spotify.com/track/5DFVWocetuRnKhy7WjO8Ht) | [homezone](https://open.spotify.com/artist/31hDouD40df6TsqnZZpNAK) | [Answer](https://open.spotify.com/album/1bUlMzOPjvgiCWDfAzKD3r) | 3:44 |
-| 55 | [New Tomorrow](https://open.spotify.com/track/2ayD6EPasDViEQa4bwat0c) | [FANTASY BOYS](https://open.spotify.com/artist/4IAcb0MN1CCHpwUaq5iEUU) | [NEW TOMORROW](https://open.spotify.com/album/3H3lbA7Dn1BVIflkUqfYUU) | 3:50 |
-| 56 | [be](https://open.spotify.com/track/2ixTL8BqsPxaH9qPgEhFV1) | [EUNHYUK](https://open.spotify.com/artist/4QRqp8zf5JtqaMk2OOU3NX) | [be](https://open.spotify.com/album/33UNyWkPMOczcDOk4kxWd2) | 3:49 |
+| 55 | [be](https://open.spotify.com/track/2ixTL8BqsPxaH9qPgEhFV1) | [EUNHYUK](https://open.spotify.com/artist/4QRqp8zf5JtqaMk2OOU3NX) | [be](https://open.spotify.com/album/33UNyWkPMOczcDOk4kxWd2) | 3:49 |
+| 56 | [New Tomorrow](https://open.spotify.com/track/2ayD6EPasDViEQa4bwat0c) | [FANTASY BOYS](https://open.spotify.com/artist/4IAcb0MN1CCHpwUaq5iEUU) | [NEW TOMORROW](https://open.spotify.com/album/3H3lbA7Dn1BVIflkUqfYUU) | 3:50 |
 | 57 | [상상한 꿈](https://open.spotify.com/track/16sVrdJ0NHmLwan43hH9BF) | [JAMIE](https://open.spotify.com/artist/12WC3s3087JX9hDaTj4nW8) | [START\-UP \(Original Television Soundtrack\) Pt\. 13](https://open.spotify.com/album/0WCGyBf5B1e4JsB6okoJmB) | 3:33 |
 | 58 | [DREAMLIKE](https://open.spotify.com/track/6d3pjHp69A5RABSAJ7zqJH) | [IZ\*ONE](https://open.spotify.com/artist/5r1tUTxVSgvBHnoDuDODPH) | [BLOOM\*IZ](https://open.spotify.com/album/5dm3PMCHxTSOdDFZ1hlfMm) | 3:46 |
 | 59 | [I FLY](https://open.spotify.com/track/3YW9BZAvwIvXF6C7D3cN6r) | [JIHYO](https://open.spotify.com/artist/7F1iAHRYxR3MY7yAEuFqgL) | [오늘의 웹툰 \(Original Soundtrack\) Pt\. 1](https://open.spotify.com/album/0eWeQtF47FUpI8kRLDEiCp) | 3:50 |
 | 60 | [Parade](https://open.spotify.com/track/2lsXJ7F3QYJrQ9cQ9Icx1n) | [KANGDANIEL](https://open.spotify.com/artist/5vGoWnZO65NBgiZYBmi3iW) | [The Story](https://open.spotify.com/album/4tk1TxAS90si1va7jPWqGg) | 3:02 |
 
-Snapshot ID: `MCw3ODI1NDY0OTU1NmEzOGNlMzQzYTAxM2Q0NWMxM2JiMGM1MzE3YmY1`
+Snapshot ID: `MCw5NWRiNTkxOGIwNjVlOTE1Y2ViMWU2OGU4ZWMzZTU3YzQyNjA2OWUy`

@@ -1,12 +1,12 @@
 {
   "description": "The unforgettable romantic Jazz songs.",
-  "num_followers": 264857,
+  "num_followers": 265001,
   "original_name": "Jazz for Lovers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZWI5ZDVlNzI5NTE3NWY5MjU5MjE0NmY0N2Y3ZDRmMzRmMGU2YTA4",
+  "snapshot_id": "MCw3YzVjMjYwOTkyZTlhYmNhYTU4ODRlZWQ0NDhhNjBjZWJmYzBhNGQx",
   "tracks": [
     {
       "added_at": "2023-11-22 14:35:11",
@@ -379,22 +379,6 @@
     {
       "added_at": "2023-11-22 14:35:11",
       "album": {
-        "name": "Love Swings",
-        "url": "https://open.spotify.com/album/5Jny59DZHuswsttq0zJE65"
-      },
-      "artists": [
-        {
-          "name": "Bobby Darin",
-          "url": "https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ"
-        }
-      ],
-      "duration_ms": 133213,
-      "name": "It Had to Be You",
-      "url": "https://open.spotify.com/track/3qTYzMkbzxqRtA2hlSz4Ba"
-    },
-    {
-      "added_at": "2023-11-22 14:35:11",
-      "album": {
         "name": "Swings Rodgers And Hart",
         "url": "https://open.spotify.com/album/6LArOC2pxaG9rYlTCIIeXN"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 129266,
       "name": "I Could Write A Book",
       "url": "https://open.spotify.com/track/04kFa5D5by0or1IN6bI9N7"
+    },
+    {
+      "added_at": "2023-11-22 14:35:11",
+      "album": {
+        "name": "Love Swings",
+        "url": "https://open.spotify.com/album/5Jny59DZHuswsttq0zJE65"
+      },
+      "artists": [
+        {
+          "name": "Bobby Darin",
+          "url": "https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ"
+        }
+      ],
+      "duration_ms": 133213,
+      "name": "It Had to Be You",
+      "url": "https://open.spotify.com/track/3qTYzMkbzxqRtA2hlSz4Ba"
     },
     {
       "added_at": "2023-11-22 14:35:11",
@@ -835,26 +835,6 @@
     {
       "added_at": "2023-11-22 14:35:11",
       "album": {
-        "name": "The Silver Lining - The Songs of Jerome Kern",
-        "url": "https://open.spotify.com/album/6HT89sSe135gyyxJhaLs2m"
-      },
-      "artists": [
-        {
-          "name": "Tony Bennett",
-          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
-        },
-        {
-          "name": "Bill Charlap",
-          "url": "https://open.spotify.com/artist/2QX8yUROOnWTSLFg4sZ9Gg"
-        }
-      ],
-      "duration_ms": 174280,
-      "name": "The Way You Look Tonight",
-      "url": "https://open.spotify.com/track/3mADbrwcu80uRhrgrAaPTz"
-    },
-    {
-      "added_at": "2023-11-22 14:35:11",
-      "album": {
         "name": "Anita Sings The Most",
         "url": "https://open.spotify.com/album/3kInD4ls57TJY4ATGDIqAS"
       },
@@ -871,6 +851,26 @@
       "duration_ms": 144466,
       "name": "Taking A Chance On Love",
       "url": "https://open.spotify.com/track/6gaYlANvT72vnO0cGACx2A"
+    },
+    {
+      "added_at": "2023-11-22 14:35:11",
+      "album": {
+        "name": "The Silver Lining - The Songs of Jerome Kern",
+        "url": "https://open.spotify.com/album/6HT89sSe135gyyxJhaLs2m"
+      },
+      "artists": [
+        {
+          "name": "Tony Bennett",
+          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
+        },
+        {
+          "name": "Bill Charlap",
+          "url": "https://open.spotify.com/artist/2QX8yUROOnWTSLFg4sZ9Gg"
+        }
+      ],
+      "duration_ms": 174280,
+      "name": "The Way You Look Tonight",
+      "url": "https://open.spotify.com/track/3mADbrwcu80uRhrgrAaPTz"
     },
     {
       "added_at": "2023-11-22 14:35:11",
@@ -1215,18 +1215,18 @@
     {
       "added_at": "2023-11-22 14:35:11",
       "album": {
-        "name": "You Are Free",
-        "url": "https://open.spotify.com/album/6AFnZ1lljnYwntxC8YHSy7"
+        "name": "This Time I'm Swingin'",
+        "url": "https://open.spotify.com/album/6BzWacVGd1soCBPYzGRm2Y"
       },
       "artists": [
         {
-          "name": "Joe Williams",
-          "url": "https://open.spotify.com/artist/7FMGtucexJvUxVz7scydEL"
+          "name": "Dean Martin",
+          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
         }
       ],
-      "duration_ms": 125946,
-      "name": "Have You Met Miss Jones",
-      "url": "https://open.spotify.com/track/597IFswsQ0TaWnNn2S9wYh"
+      "duration_ms": 182120,
+      "name": "Until The Real Thing Comes Along - Remastered/1998",
+      "url": "https://open.spotify.com/track/6rHGfH2SCBlwZSQTm2FfYD"
     },
     {
       "added_at": "2023-11-22 14:35:11",
@@ -1251,18 +1251,18 @@
     {
       "added_at": "2023-11-22 14:35:11",
       "album": {
-        "name": "This Time I'm Swingin'",
-        "url": "https://open.spotify.com/album/6BzWacVGd1soCBPYzGRm2Y"
+        "name": "You Are Free",
+        "url": "https://open.spotify.com/album/6AFnZ1lljnYwntxC8YHSy7"
       },
       "artists": [
         {
-          "name": "Dean Martin",
-          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
+          "name": "Joe Williams",
+          "url": "https://open.spotify.com/artist/7FMGtucexJvUxVz7scydEL"
         }
       ],
-      "duration_ms": 182120,
-      "name": "Until The Real Thing Comes Along - Remastered/1998",
-      "url": "https://open.spotify.com/track/6rHGfH2SCBlwZSQTm2FfYD"
+      "duration_ms": 125946,
+      "name": "Have You Met Miss Jones",
+      "url": "https://open.spotify.com/track/597IFswsQ0TaWnNn2S9wYh"
     },
     {
       "added_at": "2023-11-22 14:35:11",
@@ -1303,18 +1303,18 @@
     {
       "added_at": "2023-11-22 14:35:11",
       "album": {
-        "name": "The Complete Great American Songbook",
-        "url": "https://open.spotify.com/album/3xUOObdRU9f2wblHafYx0j"
+        "name": "So Warm",
+        "url": "https://open.spotify.com/album/6gnhgowSVTcOXuP9v3Jcr0"
       },
       "artists": [
         {
-          "name": "Rod Stewart",
-          "url": "https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT"
+          "name": "Etta Jones",
+          "url": "https://open.spotify.com/artist/3CEdEF8RsuL3hAFJaujvr0"
         }
       ],
-      "duration_ms": 186133,
-      "name": "Night And Day",
-      "url": "https://open.spotify.com/track/6MbV4d7n6EGqq7wuGazsUw"
+      "duration_ms": 162240,
+      "name": "If You Were Mine",
+      "url": "https://open.spotify.com/track/1sMb1VoCi31FQiC435Rocn"
     },
     {
       "added_at": "2023-11-22 14:35:11",
@@ -1335,18 +1335,18 @@
     {
       "added_at": "2023-11-22 14:35:11",
       "album": {
-        "name": "So Warm",
-        "url": "https://open.spotify.com/album/6gnhgowSVTcOXuP9v3Jcr0"
+        "name": "The Complete Great American Songbook",
+        "url": "https://open.spotify.com/album/3xUOObdRU9f2wblHafYx0j"
       },
       "artists": [
         {
-          "name": "Etta Jones",
-          "url": "https://open.spotify.com/artist/3CEdEF8RsuL3hAFJaujvr0"
+          "name": "Rod Stewart",
+          "url": "https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT"
         }
       ],
-      "duration_ms": 162240,
-      "name": "If You Were Mine",
-      "url": "https://open.spotify.com/track/1sMb1VoCi31FQiC435Rocn"
+      "duration_ms": 186133,
+      "name": "Night And Day",
+      "url": "https://open.spotify.com/track/6MbV4d7n6EGqq7wuGazsUw"
     },
     {
       "added_at": "2023-11-22 14:35:11",

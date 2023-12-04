@@ -1,12 +1,12 @@
 {
   "description": "Immerse in an imaginary panorama of atmospheric soundscapes.",
-  "num_followers": 328311,
+  "num_followers": 328345,
   "original_name": "Deep Listening",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYTU5YjczZWViMzc2NGQ3OThmMzFjOTZlY2FjMTQwOWIwYjE4OWEz",
+  "snapshot_id": "MCw1N2U2Nzc3MDIwMzE2OWRhYTVjZWRmMDc3ZGY4NWNlN2I3YjYzM2Yz",
   "tracks": [
     {
       "added_at": "2023-11-23 02:41:10",
@@ -831,22 +831,18 @@
     {
       "added_at": "2021-10-06 04:52:47",
       "album": {
-        "name": "Image Tapes Vol. 1",
-        "url": "https://open.spotify.com/album/3yTXYqamF5Kq1FiGjPph0J"
+        "name": "Los Desamores de Dewey Martino",
+        "url": "https://open.spotify.com/album/2piXKaen2vZtVg4ZDDUtYg"
       },
       "artists": [
         {
-          "name": "Savoir Adore",
-          "url": "https://open.spotify.com/artist/2weMnYqCmtNUrSLAJq5dD8"
-        },
-        {
-          "name": "Image Tapes",
-          "url": "https://open.spotify.com/artist/2gi84HSldDZMD7fwwY4xAz"
+          "name": "Dewey Martino",
+          "url": "https://open.spotify.com/artist/5kY5tnaN1fW6DHy7br4AGX"
         }
       ],
-      "duration_ms": 125030,
-      "name": "image no. 4",
-      "url": "https://open.spotify.com/track/1TbDfkXAw8sbd3oewgAOW4"
+      "duration_ms": 216000,
+      "name": "Pipopapipo",
+      "url": "https://open.spotify.com/track/4mk4svlMfeb0BIdQahW1ZC"
     }
   ],
   "unique_name": "Deep Listening",

@@ -1,12 +1,12 @@
 {
   "description": "We hear you.",
-  "num_followers": 1173049,
+  "num_followers": 1173022,
   "original_name": "idk.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyODQyN2M1ZjBmOWY2NzRjNTk3Zjc2Y2ExYmFhYjFjNzViYWY3OTk1",
+  "snapshot_id": "MCwwMjNiNzQwNDg4OTE3MzY5NTFlZGU3ZjBjNTIyYzNiNDE2ZDNjMDk3",
   "tracks": [
     {
       "added_at": "2023-11-09 23:50:22",
@@ -435,22 +435,6 @@
     {
       "added_at": "2023-09-29 20:20:52",
       "album": {
-        "name": "No Surprises",
-        "url": "https://open.spotify.com/album/4Ff20g63ORgfY7NBeiv86V"
-      },
-      "artists": [
-        {
-          "name": "Juliana Chahayed",
-          "url": "https://open.spotify.com/artist/2qvGuhgaubJ02pfiKcJAdR"
-        }
-      ],
-      "duration_ms": 120961,
-      "name": "No Surprises",
-      "url": "https://open.spotify.com/track/62aaJpv0hPmj7HMc21zKwW"
-    },
-    {
-      "added_at": "2023-09-29 20:20:52",
-      "album": {
         "name": "Learning",
         "url": "https://open.spotify.com/album/0g1hqdwk04yfQdXgt3ifzG"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 136250,
       "name": "Eulogy For Nobody",
       "url": "https://open.spotify.com/track/11ozTm1ilFrLxwtdWt1iK0"
+    },
+    {
+      "added_at": "2023-09-29 20:20:52",
+      "album": {
+        "name": "No Surprises",
+        "url": "https://open.spotify.com/album/4Ff20g63ORgfY7NBeiv86V"
+      },
+      "artists": [
+        {
+          "name": "Juliana Chahayed",
+          "url": "https://open.spotify.com/artist/2qvGuhgaubJ02pfiKcJAdR"
+        }
+      ],
+      "duration_ms": 120961,
+      "name": "No Surprises",
+      "url": "https://open.spotify.com/track/62aaJpv0hPmj7HMc21zKwW"
     },
     {
       "added_at": "2023-09-29 20:20:52",
@@ -891,6 +891,22 @@
     {
       "added_at": "2023-09-29 20:20:52",
       "album": {
+        "name": "Edits",
+        "url": "https://open.spotify.com/album/6Ux5Oh3nIRkezubTZqNBdl"
+      },
+      "artists": [
+        {
+          "name": "Ricky Montgomery",
+          "url": "https://open.spotify.com/artist/0ZUvK7zGdXLd78mQr3t1Tw"
+        }
+      ],
+      "duration_ms": 197513,
+      "name": "Sorry for Me",
+      "url": "https://open.spotify.com/track/44olvKgVfAJMgRtxjup3xN"
+    },
+    {
+      "added_at": "2023-09-29 20:20:52",
+      "album": {
         "name": "Man\u2019s Best Friend",
         "url": "https://open.spotify.com/album/2L1GB55rNVE3rQYPjCeUTt"
       },
@@ -919,22 +935,6 @@
       "duration_ms": 142588,
       "name": "I Need U",
       "url": "https://open.spotify.com/track/6tmZRSTEAW90RI8nXsly1f"
-    },
-    {
-      "added_at": "2023-09-29 20:20:52",
-      "album": {
-        "name": "Edits",
-        "url": "https://open.spotify.com/album/6Ux5Oh3nIRkezubTZqNBdl"
-      },
-      "artists": [
-        {
-          "name": "Ricky Montgomery",
-          "url": "https://open.spotify.com/artist/0ZUvK7zGdXLd78mQr3t1Tw"
-        }
-      ],
-      "duration_ms": 197513,
-      "name": "Sorry for Me",
-      "url": "https://open.spotify.com/track/44olvKgVfAJMgRtxjup3xN"
     },
     {
       "added_at": "2023-09-29 20:20:52",
@@ -1087,6 +1087,22 @@
     {
       "added_at": "2023-09-29 20:20:52",
       "album": {
+        "name": "Unpeeled",
+        "url": "https://open.spotify.com/album/4zpN41aGAYPWX3dzE19rH7"
+      },
+      "artists": [
+        {
+          "name": "Cage The Elephant",
+          "url": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
+        }
+      ],
+      "duration_ms": 280213,
+      "name": "Right Before My Eyes - Unpeeled",
+      "url": "https://open.spotify.com/track/7d6qX28ITEgBUhCJ86SeYq"
+    },
+    {
+      "added_at": "2023-09-29 20:20:52",
+      "album": {
         "name": "please never fall in love again",
         "url": "https://open.spotify.com/album/4ITVAD8V9UWaLKDzMfP4Hd"
       },
@@ -1103,22 +1119,6 @@
       "duration_ms": 157642,
       "name": "please never fall in love again",
       "url": "https://open.spotify.com/track/1pVvfmQB9OB8FqCbp2UGA8"
-    },
-    {
-      "added_at": "2023-09-29 20:20:52",
-      "album": {
-        "name": "Unpeeled",
-        "url": "https://open.spotify.com/album/4zpN41aGAYPWX3dzE19rH7"
-      },
-      "artists": [
-        {
-          "name": "Cage The Elephant",
-          "url": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
-        }
-      ],
-      "duration_ms": 280213,
-      "name": "Right Before My Eyes - Unpeeled",
-      "url": "https://open.spotify.com/track/7d6qX28ITEgBUhCJ86SeYq"
     },
     {
       "added_at": "2023-09-29 20:20:52",
@@ -1277,6 +1277,22 @@
       "url": "https://open.spotify.com/track/3X3cftpXwcSXQM4fC5ihdo"
     },
     {
+      "added_at": "2023-10-16 20:29:38",
+      "album": {
+        "name": "Hitchhiker",
+        "url": "https://open.spotify.com/album/32Srim9ACKmJsJvszNNlTe"
+      },
+      "artists": [
+        {
+          "name": "Cuco",
+          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
+        }
+      ],
+      "duration_ms": 260446,
+      "name": "Planet Express",
+      "url": "https://open.spotify.com/track/7HY0lAbWyJr6JqvKgRQDEL"
+    },
+    {
       "added_at": "2023-09-29 20:20:52",
       "album": {
         "name": "handgun",
@@ -1291,22 +1307,6 @@
       "duration_ms": 173446,
       "name": "handgun",
       "url": "https://open.spotify.com/track/5ScV9dmyjpNeQp7UwIKwTM"
-    },
-    {
-      "added_at": "2023-09-29 20:20:52",
-      "album": {
-        "name": "Tired",
-        "url": "https://open.spotify.com/album/4H95f4yelOV9xhe2FI9F9c"
-      },
-      "artists": [
-        {
-          "name": "Sik World",
-          "url": "https://open.spotify.com/artist/39G9Mcs99KhOEtVuthwztS"
-        }
-      ],
-      "duration_ms": 178303,
-      "name": "Tired",
-      "url": "https://open.spotify.com/track/4ys3qPP1YnF2IgEB2x8EOW"
     },
     {
       "added_at": "2023-09-29 20:20:52",
@@ -1329,20 +1329,36 @@
       "url": "https://open.spotify.com/track/1fgC2MHbJnPgvDfdTpC62c"
     },
     {
-      "added_at": "2023-10-16 20:29:38",
+      "added_at": "2023-09-29 20:20:52",
       "album": {
-        "name": "Hitchhiker",
-        "url": "https://open.spotify.com/album/32Srim9ACKmJsJvszNNlTe"
+        "name": "Tired",
+        "url": "https://open.spotify.com/album/4H95f4yelOV9xhe2FI9F9c"
       },
       "artists": [
         {
-          "name": "Cuco",
-          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
+          "name": "Sik World",
+          "url": "https://open.spotify.com/artist/39G9Mcs99KhOEtVuthwztS"
         }
       ],
-      "duration_ms": 260446,
-      "name": "Planet Express",
-      "url": "https://open.spotify.com/track/7HY0lAbWyJr6JqvKgRQDEL"
+      "duration_ms": 178303,
+      "name": "Tired",
+      "url": "https://open.spotify.com/track/4ys3qPP1YnF2IgEB2x8EOW"
+    },
+    {
+      "added_at": "2023-09-29 20:20:52",
+      "album": {
+        "name": "Don't Leave, Don't Go / Bleed",
+        "url": "https://open.spotify.com/album/1awanVhccvZ0L2WTMm9FfT"
+      },
+      "artists": [
+        {
+          "name": "Deyaz",
+          "url": "https://open.spotify.com/artist/1wHWfSUySUXQV73PnpUBUc"
+        }
+      ],
+      "duration_ms": 184242,
+      "name": "Don't Leave, Don't Go",
+      "url": "https://open.spotify.com/track/07nd9H2REZKIhVgp3n36YL"
     },
     {
       "added_at": "2023-09-29 20:20:52",
@@ -1375,38 +1391,6 @@
       "duration_ms": 194754,
       "name": "If I Really Love You",
       "url": "https://open.spotify.com/track/3l3lUyNu5zh6H6uByc5Xnr"
-    },
-    {
-      "added_at": "2023-10-16 20:29:38",
-      "album": {
-        "name": "trust exercises",
-        "url": "https://open.spotify.com/album/7F8Up4TqiQZO2cdsVUDUY8"
-      },
-      "artists": [
-        {
-          "name": "easy life",
-          "url": "https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK"
-        }
-      ],
-      "duration_ms": 214002,
-      "name": "trust exercises",
-      "url": "https://open.spotify.com/track/3NEPYiw4V5tmQLguweXgPP"
-    },
-    {
-      "added_at": "2023-09-29 20:20:52",
-      "album": {
-        "name": "Don't Leave, Don't Go / Bleed",
-        "url": "https://open.spotify.com/album/1awanVhccvZ0L2WTMm9FfT"
-      },
-      "artists": [
-        {
-          "name": "Deyaz",
-          "url": "https://open.spotify.com/artist/1wHWfSUySUXQV73PnpUBUc"
-        }
-      ],
-      "duration_ms": 184242,
-      "name": "Don't Leave, Don't Go",
-      "url": "https://open.spotify.com/track/07nd9H2REZKIhVgp3n36YL"
     },
     {
       "added_at": "2023-09-29 20:20:52",
@@ -1443,6 +1427,22 @@
       "duration_ms": 289058,
       "name": "just wanna forget you",
       "url": "https://open.spotify.com/track/67sznBMSDKrj1zeFFNCQHo"
+    },
+    {
+      "added_at": "2023-10-16 20:29:38",
+      "album": {
+        "name": "trust exercises",
+        "url": "https://open.spotify.com/album/7F8Up4TqiQZO2cdsVUDUY8"
+      },
+      "artists": [
+        {
+          "name": "easy life",
+          "url": "https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK"
+        }
+      ],
+      "duration_ms": 214002,
+      "name": "trust exercises",
+      "url": "https://open.spotify.com/track/3NEPYiw4V5tmQLguweXgPP"
     },
     {
       "added_at": "2023-09-29 20:20:52",
@@ -1623,22 +1623,6 @@
     {
       "added_at": "2023-09-29 20:20:52",
       "album": {
-        "name": "Coming Clean",
-        "url": "https://open.spotify.com/album/3bKEeTVDEtHn9qxtDk0yJv"
-      },
-      "artists": [
-        {
-          "name": "Brandon",
-          "url": "https://open.spotify.com/artist/08HpiyWkp2Z7gFTkVae265"
-        }
-      ],
-      "duration_ms": 111710,
-      "name": "Baby",
-      "url": "https://open.spotify.com/track/38jJdP6hG3x63SKrJZutMW"
-    },
-    {
-      "added_at": "2023-09-29 20:20:52",
-      "album": {
         "name": "If I Showed You",
         "url": "https://open.spotify.com/album/4qEq6hmy1zANkNRAEuRRku"
       },
@@ -1651,6 +1635,22 @@
       "duration_ms": 195467,
       "name": "If I Showed You",
       "url": "https://open.spotify.com/track/3orIMfSneqeHamYzH5xSjz"
+    },
+    {
+      "added_at": "2023-09-29 20:20:52",
+      "album": {
+        "name": "Coming Clean",
+        "url": "https://open.spotify.com/album/3bKEeTVDEtHn9qxtDk0yJv"
+      },
+      "artists": [
+        {
+          "name": "Brandon",
+          "url": "https://open.spotify.com/artist/08HpiyWkp2Z7gFTkVae265"
+        }
+      ],
+      "duration_ms": 111710,
+      "name": "Baby",
+      "url": "https://open.spotify.com/track/38jJdP6hG3x63SKrJZutMW"
     },
     {
       "added_at": "2023-09-29 20:20:52",

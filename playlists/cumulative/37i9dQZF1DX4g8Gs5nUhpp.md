@@ -4,7 +4,7 @@
 
 > V\-Pop nở hoa trên những ca khúc này\. Ảnh bìa: Binz
 
-216 songs - 13 hr 47 min
+217 songs - 13 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [Chạy Khỏi Thế Giới Này](https://open.spotify.com/track/5ECHJ1llWBNYLVCYrllD3x) | [Da LAB](https://open.spotify.com/artist/6zUWZmyi5MLOEynQ5wCI5f), [Phương Ly](https://open.spotify.com/artist/5Kh0ta0UY4uJ4g2CIdq9V9) | [Chạy Khỏi Thế Giới Này](https://open.spotify.com/album/50HY9g20cVF2PKCYmy5LFZ) | 4:15 | 2022-07-05 |  |
 | [Chậm Lại](https://open.spotify.com/track/067J8jL5iPDzVBH0jClJpI) | [Vũ.](https://open.spotify.com/artist/57g2v7gJZepcwsuwssIfZs) | [Chậm Lại](https://open.spotify.com/album/4sGS3UYEjJtBi4MuiOwGKV) | 3:43 | 2022-08-25 | 2022-09-12 |
 | [Chết Trong Em](https://open.spotify.com/track/4QjxvzEFwb63NZ1pp3wvHy) | [Thịnh Suy](https://open.spotify.com/artist/2xK6qcvfXuFFbU0NL95aeo) | [Chết Trong Em](https://open.spotify.com/album/38JFpZ6hGFaQ4BUxT7XcI0) | 4:16 | 2022-11-07 | 2023-02-01 |
+| [Chịu Cách Mình Nói Thua](https://open.spotify.com/track/3ZbZtdEw9U0uZW4tZItIwq) | [RHYDER](https://open.spotify.com/artist/1W2pigH6UYwuTuFbwoSfVZ), [CoolKid](https://open.spotify.com/artist/1Qia4CTwh6x0CZbD0079zi), [BAN](https://open.spotify.com/artist/0CO1IZAPmgTbkfXvcRCLsL) | [Chịu Cách Mình Nói Thua](https://open.spotify.com/album/6H01GjpEb6taXvwiqEzpFy) | 3:01 | 2023-12-03 |  |
 | [Cà Phê](https://open.spotify.com/track/5cvW3PYJeQjRTnj9vHP5Va) | [MIN](https://open.spotify.com/artist/0IdAjS2LRieBR3gzoazdAw) | [50/50](https://open.spotify.com/album/2guZsP5qfBxYma8Y4mhVff) | 3:10 | 2022-05-27 |  |
 | [Có Ai Thương Em Như Anh](https://open.spotify.com/track/7AD5F85waSb3yZxZxEXhJM) | [Tóc Tiên](https://open.spotify.com/artist/4YkqEuVf1Jf2x2XDqJ2CvC), [Touliver](https://open.spotify.com/artist/5UNWQJdUbO8Gbg9Qn3r52M) | [Có Ai Thương Em Như Anh](https://open.spotify.com/album/3MxId1GopqGHnUTynUIuFA) | 3:51 | 2023-01-31 |  |
 | [Có Chơi Có Chịu](https://open.spotify.com/track/2pYFHEy0xp48Le5Bfw5vcX) | [Karik](https://open.spotify.com/artist/2Bwp23pD4UVsSkchHDZw4F), [Only C](https://open.spotify.com/artist/5GBXwBVQufRCmwI1bNRIUo) | [Có Chơi Có Chịu](https://open.spotify.com/album/4N7qnvyotrQcxAF8fKqO4e) | 3:43 | 2022-10-05 | 2022-12-19 |

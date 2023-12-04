@@ -1,12 +1,12 @@
 {
   "description": "Lo mejor del rock de aqu\u00ed, como Robe.",
-  "num_followers": 571638,
+  "num_followers": 571725,
   "original_name": "Rock Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MGE0Mjc5OGU0ZDdmZmM0NGQ2NjY5MTI0MTQwN2YzYzExYTUyY2M0",
+  "snapshot_id": "MCw3MWVjYWZlYjhhMDhhMWQyNmJkNDcyOWJlMjYzMGNkZjBiYjRiYmVm",
   "tracks": [
     {
       "added_at": "2023-11-30 22:59:00",
@@ -751,26 +751,6 @@
     {
       "added_at": "2023-11-30 22:59:00",
       "album": {
-        "name": "Estoy aqu\u00ed (feat. La Pegatina)",
-        "url": "https://open.spotify.com/album/2XFhxf774ufp6QdJasM2rL"
-      },
-      "artists": [
-        {
-          "name": "Despistaos",
-          "url": "https://open.spotify.com/artist/0QE9iXPzgSaBq34OqIZ4n2"
-        },
-        {
-          "name": "La Pegatina",
-          "url": "https://open.spotify.com/artist/4xvB67czbtvemGVXGa81oK"
-        }
-      ],
-      "duration_ms": 176747,
-      "name": "Estoy aqu\u00ed (feat. La Pegatina)",
-      "url": "https://open.spotify.com/track/6BZyZKGieV83gE9IZcNZCz"
-    },
-    {
-      "added_at": "2023-11-30 22:59:00",
-      "album": {
         "name": "Sinti\u00e9ndolo Mucho (feat. Leiva)",
         "url": "https://open.spotify.com/album/3bZgGd7L26rA44M7ppFSyi"
       },
@@ -791,22 +771,38 @@
     {
       "added_at": "2023-11-30 22:59:00",
       "album": {
-        "name": "OK",
-        "url": "https://open.spotify.com/album/1o2O6dZPkhr0Fflqo0T80E"
+        "name": "Estoy aqu\u00ed (feat. La Pegatina)",
+        "url": "https://open.spotify.com/album/2XFhxf774ufp6QdJasM2rL"
       },
       "artists": [
         {
-          "name": "Leiva",
-          "url": "https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7"
+          "name": "Despistaos",
+          "url": "https://open.spotify.com/artist/0QE9iXPzgSaBq34OqIZ4n2"
         },
         {
-          "name": "No Te Va Gustar",
-          "url": "https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j"
+          "name": "La Pegatina",
+          "url": "https://open.spotify.com/artist/4xvB67czbtvemGVXGa81oK"
         }
       ],
-      "duration_ms": 257637,
-      "name": "OK",
-      "url": "https://open.spotify.com/track/1MYQcK8lIZXO1oXIc6vT4U"
+      "duration_ms": 176747,
+      "name": "Estoy aqu\u00ed (feat. La Pegatina)",
+      "url": "https://open.spotify.com/track/6BZyZKGieV83gE9IZcNZCz"
+    },
+    {
+      "added_at": "2023-11-30 22:59:00",
+      "album": {
+        "name": "Muy Deficiente",
+        "url": "https://open.spotify.com/album/6nSNoI4zgtfMm1H9NXI4r1"
+      },
+      "artists": [
+        {
+          "name": "Platero Y Tu",
+          "url": "https://open.spotify.com/artist/1fQt5j7DTPuAOjdbTYgWav"
+        }
+      ],
+      "duration_ms": 250093,
+      "name": "El roce de tu cuerpo",
+      "url": "https://open.spotify.com/track/3EPd9riN2R8Zjl6GkrxxGl"
     },
     {
       "added_at": "2023-11-30 22:59:00",
@@ -827,18 +823,22 @@
     {
       "added_at": "2023-11-30 22:59:00",
       "album": {
-        "name": "Muy Deficiente",
-        "url": "https://open.spotify.com/album/6nSNoI4zgtfMm1H9NXI4r1"
+        "name": "OK",
+        "url": "https://open.spotify.com/album/1o2O6dZPkhr0Fflqo0T80E"
       },
       "artists": [
         {
-          "name": "Platero Y Tu",
-          "url": "https://open.spotify.com/artist/1fQt5j7DTPuAOjdbTYgWav"
+          "name": "Leiva",
+          "url": "https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7"
+        },
+        {
+          "name": "No Te Va Gustar",
+          "url": "https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j"
         }
       ],
-      "duration_ms": 250093,
-      "name": "El roce de tu cuerpo",
-      "url": "https://open.spotify.com/track/3EPd9riN2R8Zjl6GkrxxGl"
+      "duration_ms": 257637,
+      "name": "OK",
+      "url": "https://open.spotify.com/track/1MYQcK8lIZXO1oXIc6vT4U"
     },
     {
       "added_at": "2023-11-30 22:59:00",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2023-11-30 22:59:00",
       "album": {
-        "name": "Vispera De Todos Los Santos",
-        "url": "https://open.spotify.com/album/3oMQlXuuVWj4hPFvgKK7oY"
-      },
-      "artists": [
-        {
-          "name": "Los Suaves",
-          "url": "https://open.spotify.com/artist/1Z3i5hUtelWqBwEA1RoWhL"
-        }
-      ],
-      "duration_ms": 294200,
-      "name": "Palabras Para Julia",
-      "url": "https://open.spotify.com/track/2jGfKzi1RvbkAyffbDyESE"
-    },
-    {
-      "added_at": "2023-11-30 22:59:00",
-      "album": {
         "name": "Saca La Lengua",
         "url": "https://open.spotify.com/album/2d1m9ILYHaBna2aAUjRCXY"
       },
@@ -1327,6 +1311,22 @@
       "duration_ms": 237000,
       "name": "Adi\u00f3s pap\u00e1",
       "url": "https://open.spotify.com/track/29OKK8URiORBpRsimvzsmm"
+    },
+    {
+      "added_at": "2023-11-30 22:59:00",
+      "album": {
+        "name": "Vispera De Todos Los Santos",
+        "url": "https://open.spotify.com/album/3oMQlXuuVWj4hPFvgKK7oY"
+      },
+      "artists": [
+        {
+          "name": "Los Suaves",
+          "url": "https://open.spotify.com/artist/1Z3i5hUtelWqBwEA1RoWhL"
+        }
+      ],
+      "duration_ms": 294200,
+      "name": "Palabras Para Julia",
+      "url": "https://open.spotify.com/track/2jGfKzi1RvbkAyffbDyESE"
     },
     {
       "added_at": "2023-11-30 22:59:00",
@@ -1363,18 +1363,18 @@
     {
       "added_at": "2023-11-30 22:59:00",
       "album": {
-        "name": "Fugitivos De Paraiso",
-        "url": "https://open.spotify.com/album/07hX6jcfLjbSP2NtkpKRCk"
+        "name": "Vamos Tirando",
+        "url": "https://open.spotify.com/album/5gNFpJQAyJQvaBmMF8GH0V"
       },
       "artists": [
         {
-          "name": "Doctor Deseo",
-          "url": "https://open.spotify.com/artist/41h0P2FVHr6YTMfhjkrnhA"
+          "name": "Platero Y Tu",
+          "url": "https://open.spotify.com/artist/1fQt5j7DTPuAOjdbTYgWav"
         }
       ],
-      "duration_ms": 231000,
-      "name": "Corazon de Tango",
-      "url": "https://open.spotify.com/track/5Hep3JI0YhpNNpbcurrvSS"
+      "duration_ms": 188106,
+      "name": "Tras la barra",
+      "url": "https://open.spotify.com/track/0fN93Sc6gJCkHbh9bqlLX7"
     },
     {
       "added_at": "2023-11-30 22:59:00",
@@ -1395,18 +1395,18 @@
     {
       "added_at": "2023-11-30 22:59:00",
       "album": {
-        "name": "Vamos Tirando",
-        "url": "https://open.spotify.com/album/5gNFpJQAyJQvaBmMF8GH0V"
+        "name": "Fugitivos De Paraiso",
+        "url": "https://open.spotify.com/album/07hX6jcfLjbSP2NtkpKRCk"
       },
       "artists": [
         {
-          "name": "Platero Y Tu",
-          "url": "https://open.spotify.com/artist/1fQt5j7DTPuAOjdbTYgWav"
+          "name": "Doctor Deseo",
+          "url": "https://open.spotify.com/artist/41h0P2FVHr6YTMfhjkrnhA"
         }
       ],
-      "duration_ms": 188106,
-      "name": "Tras la barra",
-      "url": "https://open.spotify.com/track/0fN93Sc6gJCkHbh9bqlLX7"
+      "duration_ms": 231000,
+      "name": "Corazon de Tango",
+      "url": "https://open.spotify.com/track/5Hep3JI0YhpNNpbcurrvSS"
     },
     {
       "added_at": "2023-11-30 22:59:00",
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2023-11-30 22:59:00",
       "album": {
-        "name": "Un Encuentro",
-        "url": "https://open.spotify.com/album/3OQX2EwYNN3FVKuUVLkVOL"
-      },
-      "artists": [
-        {
-          "name": "Triana",
-          "url": "https://open.spotify.com/artist/5hlBb5u8K5D8yrL8jwZ7N9"
-        }
-      ],
-      "duration_ms": 263506,
-      "name": "Tu frialdad",
-      "url": "https://open.spotify.com/track/2A3WfAbX9KHMQhewdpUiok"
-    },
-    {
-      "added_at": "2023-11-30 22:59:00",
-      "album": {
         "name": "Un d\u00eda nada m\u00e1s",
         "url": "https://open.spotify.com/album/4f3OQ1DIzm3Oszv2rD5c3x"
       },
@@ -1559,6 +1543,22 @@
       "duration_ms": 249791,
       "name": "Fr\u00edo (con Fito y Fitipaldis, Tarque y Rosendo)",
       "url": "https://open.spotify.com/track/2CEDonzkAIXcNpXKXfcq57"
+    },
+    {
+      "added_at": "2023-11-30 22:59:00",
+      "album": {
+        "name": "Un Encuentro",
+        "url": "https://open.spotify.com/album/3OQX2EwYNN3FVKuUVLkVOL"
+      },
+      "artists": [
+        {
+          "name": "Triana",
+          "url": "https://open.spotify.com/artist/5hlBb5u8K5D8yrL8jwZ7N9"
+        }
+      ],
+      "duration_ms": 263506,
+      "name": "Tu frialdad",
+      "url": "https://open.spotify.com/track/2A3WfAbX9KHMQhewdpUiok"
     },
     {
       "added_at": "2023-11-30 22:59:00",
@@ -1663,22 +1663,6 @@
     {
       "added_at": "2023-11-30 22:59:00",
       "album": {
-        "name": "Para volverte a decir",
-        "url": "https://open.spotify.com/album/4MKKOwt0Lw7susoIuMBo5s"
-      },
-      "artists": [
-        {
-          "name": "Arco",
-          "url": "https://open.spotify.com/artist/3HdW1zs4IHQSFa3gebmlGY"
-        }
-      ],
-      "duration_ms": 191231,
-      "name": "Para volverte a decir",
-      "url": "https://open.spotify.com/track/55quatI4AI4K0Tj3XNAxy7"
-    },
-    {
-      "added_at": "2023-11-30 22:59:00",
-      "album": {
         "name": "20 a\u00f1os de canciones",
         "url": "https://open.spotify.com/album/47xgtvfLA126uHFF1Hipi3"
       },
@@ -1691,6 +1675,22 @@
       "duration_ms": 169773,
       "name": "Cien gaviotas",
       "url": "https://open.spotify.com/track/5i07tC6hV5AtYTr0tsP0Uy"
+    },
+    {
+      "added_at": "2023-11-30 22:59:00",
+      "album": {
+        "name": "Para volverte a decir",
+        "url": "https://open.spotify.com/album/4MKKOwt0Lw7susoIuMBo5s"
+      },
+      "artists": [
+        {
+          "name": "Arco",
+          "url": "https://open.spotify.com/artist/3HdW1zs4IHQSFa3gebmlGY"
+        }
+      ],
+      "duration_ms": 191231,
+      "name": "Para volverte a decir",
+      "url": "https://open.spotify.com/track/55quatI4AI4K0Tj3XNAxy7"
     },
     {
       "added_at": "2023-11-30 22:59:00",

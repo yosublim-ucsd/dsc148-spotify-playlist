@@ -5478,7 +5478,7 @@
       ],
       "date_added": "2023-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-04",
       "duration_ms": 189247,
       "name": "reckless driving",
       "url": "https://open.spotify.com/track/5GpEHUNI0T7L7H3DnAaBXh"
@@ -6200,6 +6200,24 @@
       "duration_ms": 120867,
       "name": "Table",
       "url": "https://open.spotify.com/track/5OkOZ6NZzrqSUE3OlBY2RJ"
+    },
+    {
+      "album": {
+        "name": "Take Me Home, Country Roads",
+        "url": "https://open.spotify.com/album/5qDjtBY8cC4bO6wytuGOuT"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166676,
+      "name": "Take Me Home, Country Roads",
+      "url": "https://open.spotify.com/track/7qF0FfuzBFwMe1lNHkEDxW"
     },
     {
       "album": {

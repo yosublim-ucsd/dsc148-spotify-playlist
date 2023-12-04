@@ -1508,7 +1508,7 @@
       ],
       "date_added": "2023-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-04",
       "duration_ms": 265360,
       "name": "Agora Hills",
       "url": "https://open.spotify.com/track/5PyDJG7SQRgWXefgexqIge"
@@ -9510,7 +9510,7 @@
       ],
       "date_added": "2023-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-04",
       "duration_ms": 214973,
       "name": "Drama",
       "url": "https://open.spotify.com/track/5XWlyfo0kZ8LF7VSyfS4Ew"
@@ -13950,6 +13950,28 @@
       "duration_ms": 196007,
       "name": "Growing Old With You",
       "url": "https://open.spotify.com/track/5n4kMW5dn7MHFhXQuJb9zG"
+    },
+    {
+      "album": {
+        "name": "Gucci Gabhru",
+        "url": "https://open.spotify.com/album/2HI0L36kWoMhhzIPQw9xki"
+      },
+      "artists": [
+        {
+          "name": "Harkirat Sangha",
+          "url": "https://open.spotify.com/artist/1fhomnuqkIYFeXNoJB5DjT"
+        },
+        {
+          "name": "Starboy X",
+          "url": "https://open.spotify.com/artist/0Fvud1OrUvlMHqxbEGmtnj"
+        }
+      ],
+      "date_added": "2023-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151597,
+      "name": "Gucci Gabhru",
+      "url": "https://open.spotify.com/track/11FzxuVIoOWo07FyGwT8iR"
     },
     {
       "album": {
@@ -19340,6 +19362,24 @@
       "duration_ms": 190460,
       "name": "Koinu no Carnival -From \"Minute Waltz\"-",
       "url": "https://open.spotify.com/track/3OP9la2QTA5artehqjFJCp"
+    },
+    {
+      "album": {
+        "name": "Kratos (A Little Closer)",
+        "url": "https://open.spotify.com/album/5pFCMAphKik56FTRTgLgqh"
+      },
+      "artists": [
+        {
+          "name": "Alex LeMirage",
+          "url": "https://open.spotify.com/artist/2fYtH8OoLTeDIicmFH9dNu"
+        }
+      ],
+      "date_added": "2023-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "Kratos (A Little Closer)",
+      "url": "https://open.spotify.com/track/5xblvfji6HaQl7L4OwBMsm"
     },
     {
       "album": {

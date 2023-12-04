@@ -4,7 +4,7 @@
 
 > Hymns for darker hours.
 
-254 songs - 21 hr 9 min
+255 songs - 21 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -128,6 +128,7 @@
 | [Low Smoulder](https://open.spotify.com/track/7d8ZJaA8vvqu3FoIhGZ73V) | [William Ryan Fritch](https://open.spotify.com/artist/4uKt0y4zMxjivxkjDsT3gl) | [Low Smoulder / Canary](https://open.spotify.com/album/3bUoijDzf8zWf0KfYF1OA1) | 6:26 | 2022-01-21 |  |
 | [Luna](https://open.spotify.com/track/2MEhiY4t1uYcq1MpkNzvWd) | [Pascal Schumacher](https://open.spotify.com/artist/0VSt9azgjBhQlNlSlySE7M), [Echo Collective](https://open.spotify.com/artist/0vA5v6tBmGdzhupEeUDK9S) | [Luna](https://open.spotify.com/album/03VL92zMZKklDDcd5Js06l) | 6:06 | 2022-03-11 |  |
 | [Långt under noll](https://open.spotify.com/track/1dK4zCAejB4XhAJ8eTe3Q0) | [Snufmumriko](https://open.spotify.com/artist/4CIFtRfH6DXyP9AUbnbotn) | [Radio Mnemosyne](https://open.spotify.com/album/0n7XF4hzFVdZXQcufUcV8Y) | 6:22 | 2022-03-04 |  |
+| [Mariupol](https://open.spotify.com/track/1qTuz5CKK9JmGhFGHFcvTW) | [Natalia Tsupryk](https://open.spotify.com/artist/3u32k4tGe6y6GiYNBsi0DX) | [When We Return to the Sun](https://open.spotify.com/album/2YYhlfUBBzGGsV18uztQgL) | 7:05 | 2023-12-01 |  |
 | [Mariupol](https://open.spotify.com/track/7DkH47aURAR2Bbm1j66Km5) | [Natalia Tsupryk](https://open.spotify.com/artist/3u32k4tGe6y6GiYNBsi0DX) | [When We Return to the Sun](https://open.spotify.com/album/1Zn4nlsuoEMfv07ydhkjUx) | 7:05 | 2022-12-20 | 2023-11-04 |
 | [Mariupol](https://open.spotify.com/track/7zMZfDDk4r5W1iHIGcWama) | [Natalia Tsupryk](https://open.spotify.com/artist/3u32k4tGe6y6GiYNBsi0DX) | [Mariupol](https://open.spotify.com/album/6dP1JXzSX90FjRiKPFmnew) | 7:05 | 2022-11-11 | 2022-12-16 |
 | [Meet Me At Sachas](https://open.spotify.com/track/6yI4LxYfqXY09ukPhbogkm) | [Space Afrika](https://open.spotify.com/artist/6cU1HCzqStKzT3NUuaaCO5) | [Honest Labour](https://open.spotify.com/album/7Cr6BDi4l08zU8OCKC74Cq) | 2:06 | 2022-01-21 |  |
@@ -252,7 +253,7 @@
 | [Vilja](https://open.spotify.com/track/32CngTyROmI3rQzQly467Z) | [Mats Erlandsson](https://open.spotify.com/artist/5HAu4Np5pmLMUoI194nAEs) | [Minnesmärke](https://open.spotify.com/album/2xqi6xom8eHt1GyEbidRm1) | 19:08 | 2022-01-21 | 2022-07-29 |
 | [Vow](https://open.spotify.com/track/59KxNMmQnuIMMoHsCu7vPX) | [TDSOM](https://open.spotify.com/artist/3DPfgW4qhyNleslbUz2Efn) | [Vow](https://open.spotify.com/album/3o9XrLC64TF8IjbyuSbmNy) | 3:56 | 2022-03-25 |  |
 | [Wasa Stone Trio](https://open.spotify.com/track/3CJv88R1gtnn1xrC2NOW5G) | [CTM](https://open.spotify.com/artist/7yaj7l8QczhEsLttuFDaRz), [August Rosenbaum](https://open.spotify.com/artist/60jACvCiMkGWezYS8VZXQ4) | [Celeste](https://open.spotify.com/album/5KVMzzZ01MJxw5Sd9qvdCY) | 2:15 | 2022-01-21 | 2023-11-14 |
-| [Waves \- Oliver Doerell & Helga Raimondi Rework](https://open.spotify.com/track/5oXGS29Qa8Pv7ITfKLm9X4) | [Vetle Nærø](https://open.spotify.com/artist/1FjMgsUfnOoSWTHuVzAukf) | [Waves \(Oliver Doerell & Helga Raimondi Rework\)](https://open.spotify.com/album/5t2W6cCG2GjfC1gRVZv1eB) | 5:14 | 2022-01-28 |  |
+| [Waves \- Oliver Doerell & Helga Raimondi Rework](https://open.spotify.com/track/5oXGS29Qa8Pv7ITfKLm9X4) | [Vetle Nærø](https://open.spotify.com/artist/1FjMgsUfnOoSWTHuVzAukf) | [Waves \(Oliver Doerell & Helga Raimondi Rework\)](https://open.spotify.com/album/5t2W6cCG2GjfC1gRVZv1eB) | 5:14 | 2022-01-28 | 2023-12-04 |
 | [Where Lonely Embers Glow](https://open.spotify.com/track/2wnL9GReYcMbMA29ILdhdS) | [Dead Melodies](https://open.spotify.com/artist/34dfHqxGTjPV0tY4sHfHxu) | [Memento](https://open.spotify.com/album/1ZbO6GlyoIo9nXdHe7dPZH) | 6:51 | 2022-04-01 |  |
 | [Where Shadows Cross](https://open.spotify.com/track/01PSwIYcSK1go1pMU4WpCK) | [Warmth](https://open.spotify.com/artist/687UOpjghQt4KG3gfqJy5d), [Fionnlagh](https://open.spotify.com/artist/5EG6Uwsagvsrl6ukTGuqeh) | [Where Shadows Cross](https://open.spotify.com/album/1dk1O5iKnW1rcNogvKlqOi) | 2:36 | 2023-10-06 |  |
 | [Wingbeats Source III: Piano and Wings](https://open.spotify.com/track/1nxNCdh7SLOxFny6EmmzL3) | [Hidden Orchestra](https://open.spotify.com/artist/4Rj2COYs5hQsw8rYIxSviz) | [Wingbeats](https://open.spotify.com/album/1daolYgECDn9hgAKsWuX2n) | 2:36 | 2022-07-22 | 2023-04-29 |

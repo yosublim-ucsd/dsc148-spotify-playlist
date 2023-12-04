@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZUug1ANKRP.md) - [plain]
 
 > The biggest Dance hits and the ones to come\. Cover: Nicolas Julian
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,799,315 likes - 50 songs - 2 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,799,461 likes - 50 songs - 2 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZUug1ANKRP.md) - [plain]
 | 49 | [Wake Me Up \- Radio Edit](https://open.spotify.com/track/6d0T2bz3qCRTtG126QFkp3) | [MOLOW](https://open.spotify.com/artist/3X2bWmlO8Oq7dIeEgAbTAB), [Nito\-Onna](https://open.spotify.com/artist/79GiwayvvpyZVErpH6BLsY) | [Wake Me Up](https://open.spotify.com/album/4GfBtGzN9za6LxsOgWU7jT) | 2:48 |
 | 50 | [Good Life](https://open.spotify.com/track/09rcsC6M15EZPbCVmrqUYK) | [FAST BOY](https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb) | [Good Life](https://open.spotify.com/album/4L7JQYnj8oGhI4OfdQjFjv) | 3:16 |
 
-Snapshot ID: `MCxkMTk3YWZlOGVlM2ZjZGMzMzk1NjFlMDYwZWVjZjNjMmMyY2YwYWZj`
+Snapshot ID: `MCw2YTE5YzU0OGJhYjMxYjJkODQ3MjgwODNjOGJhZjZkYWE1ZGEzNjcx`

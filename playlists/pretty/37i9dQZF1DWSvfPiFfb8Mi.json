@@ -1,12 +1,12 @@
 {
   "description": "<a href=\"spotify:genre:0JQ5DAqbMKFwT0m6BbKvGP\">Disco</a>, house, funk and soul for the good times.",
-  "num_followers": 545607,
+  "num_followers": 545655,
   "original_name": "Poolside Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNTVhMDk1N2E3NGJlYzA1OTM1MjkwMzc1MWFhMzFkMTkyNmE0NWIz",
+  "snapshot_id": "MCwxNzNkOTMzNDU5NzZjMDA4NmVlODhiOWY4MWUwMzZkNWY2NDU0ZGIx",
   "tracks": [
     {
       "added_at": "2023-12-01 05:00:00",
@@ -863,22 +863,6 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "We Could Be Falling In Love",
-        "url": "https://open.spotify.com/album/6EuHWsdfuK3DUzxyT36B7L"
-      },
-      "artists": [
-        {
-          "name": "Poolside",
-          "url": "https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c"
-        }
-      ],
-      "duration_ms": 179487,
-      "name": "We Could Be Falling In Love - Edit",
-      "url": "https://open.spotify.com/track/1GG5oCmzdmD2bNV67wwCsT"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
         "name": "OASIS",
         "url": "https://open.spotify.com/album/6e74y0B8zXO3CEtVVFihd8"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 237368,
       "name": "EASE YOUR MIND",
       "url": "https://open.spotify.com/track/7IRyfeJIBmi08GYgEZwWMM"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
+        "name": "We Could Be Falling In Love",
+        "url": "https://open.spotify.com/album/6EuHWsdfuK3DUzxyT36B7L"
+      },
+      "artists": [
+        {
+          "name": "Poolside",
+          "url": "https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c"
+        }
+      ],
+      "duration_ms": 179487,
+      "name": "We Could Be Falling In Love - Edit",
+      "url": "https://open.spotify.com/track/1GG5oCmzdmD2bNV67wwCsT"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -1019,6 +1019,22 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
+        "name": "Everyday People",
+        "url": "https://open.spotify.com/album/1LJpax4mCpovZiAJUZFChP"
+      },
+      "artists": [
+        {
+          "name": "Prok & Fitch",
+          "url": "https://open.spotify.com/artist/62akbR2hpk0ArA98zOYNys"
+        }
+      ],
+      "duration_ms": 165494,
+      "name": "Everyday People",
+      "url": "https://open.spotify.com/track/68FsnsTl1yNJKX8RYgbcMy"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
         "name": "retro electrique fever",
         "url": "https://open.spotify.com/album/2y6UGYRHMrQQ1IJZ4vWYbb"
       },
@@ -1035,22 +1051,6 @@
       "duration_ms": 154687,
       "name": "retro electrique fever",
       "url": "https://open.spotify.com/track/0DRZRfXOWgj2VNJNRRqNnR"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
-        "name": "Everyday People",
-        "url": "https://open.spotify.com/album/1LJpax4mCpovZiAJUZFChP"
-      },
-      "artists": [
-        {
-          "name": "Prok & Fitch",
-          "url": "https://open.spotify.com/artist/62akbR2hpk0ArA98zOYNys"
-        }
-      ],
-      "duration_ms": 165494,
-      "name": "Everyday People",
-      "url": "https://open.spotify.com/track/68FsnsTl1yNJKX8RYgbcMy"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -1155,6 +1155,22 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
+        "name": "Manifesto",
+        "url": "https://open.spotify.com/album/20Xt1wX0TmekDqvzD0JSVY"
+      },
+      "artists": [
+        {
+          "name": "Folamour",
+          "url": "https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS"
+        }
+      ],
+      "duration_ms": 355480,
+      "name": "Poundland Anthem",
+      "url": "https://open.spotify.com/track/6WR6Rd2dCpnwDda3ehLEPX"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
         "name": "Skipping Like A Stone (feat. Beck) [Gerd Janson Remix]",
         "url": "https://open.spotify.com/album/1sTGjuVWoBksS49T9pOp4b"
       },
@@ -1175,22 +1191,6 @@
       "duration_ms": 185821,
       "name": "Skipping Like A Stone (feat. Beck) - Gerd Janson Remix",
       "url": "https://open.spotify.com/track/3qDaCdP9xU4wMoLYJCipyo"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
-        "name": "Manifesto",
-        "url": "https://open.spotify.com/album/20Xt1wX0TmekDqvzD0JSVY"
-      },
-      "artists": [
-        {
-          "name": "Folamour",
-          "url": "https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS"
-        }
-      ],
-      "duration_ms": 355480,
-      "name": "Poundland Anthem",
-      "url": "https://open.spotify.com/track/6WR6Rd2dCpnwDda3ehLEPX"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -1291,6 +1291,26 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
+        "name": "King Of My Castle (Purple Disco Machine Remix)",
+        "url": "https://open.spotify.com/album/0JqppbYzqLzTiB7oNqTKBM"
+      },
+      "artists": [
+        {
+          "name": "Wamdue Project",
+          "url": "https://open.spotify.com/artist/2U33UlGhnPqg3B5xJTn3zm"
+        },
+        {
+          "name": "Purple Disco Machine",
+          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
+        }
+      ],
+      "duration_ms": 199191,
+      "name": "King of My Castle (Purple Disco Machine Remix) (Edit)",
+      "url": "https://open.spotify.com/track/5oQwwbj26sFjxlL1oT4TJU"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
         "name": "Weekend Love",
         "url": "https://open.spotify.com/album/1JkJernn4xd0y6AeJM9N07"
       },
@@ -1311,26 +1331,6 @@
       "duration_ms": 219280,
       "name": "Weekend Love",
       "url": "https://open.spotify.com/track/0X89tZvVGokJi9NDuz5tqN"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
-        "name": "King Of My Castle (Purple Disco Machine Remix)",
-        "url": "https://open.spotify.com/album/0JqppbYzqLzTiB7oNqTKBM"
-      },
-      "artists": [
-        {
-          "name": "Wamdue Project",
-          "url": "https://open.spotify.com/artist/2U33UlGhnPqg3B5xJTn3zm"
-        },
-        {
-          "name": "Purple Disco Machine",
-          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
-        }
-      ],
-      "duration_ms": 199191,
-      "name": "King of My Castle (Purple Disco Machine Remix) (Edit)",
-      "url": "https://open.spotify.com/track/5oQwwbj26sFjxlL1oT4TJU"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "Never Let It Go",
-        "url": "https://open.spotify.com/album/1PzFixM8RxL243yEs2kd9Q"
-      },
-      "artists": [
-        {
-          "name": "Final Djs",
-          "url": "https://open.spotify.com/artist/591Lye06icbAJuSGpZ9hBa"
-        }
-      ],
-      "duration_ms": 158405,
-      "name": "Never Let It Go",
-      "url": "https://open.spotify.com/track/1IwaKRghYbdynuLDiCbemP"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
         "name": "A Mixtape by Anish Kumar",
         "url": "https://open.spotify.com/album/2FKcfRXY5LYv0pALiLRh3g"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 194645,
       "name": "Little Miss Dynamite",
       "url": "https://open.spotify.com/track/0UgyZoaRyRZ8NSiAF8RIiz"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
+        "name": "Never Let It Go",
+        "url": "https://open.spotify.com/album/1PzFixM8RxL243yEs2kd9Q"
+      },
+      "artists": [
+        {
+          "name": "Final Djs",
+          "url": "https://open.spotify.com/artist/591Lye06icbAJuSGpZ9hBa"
+        }
+      ],
+      "duration_ms": 158405,
+      "name": "Never Let It Go",
+      "url": "https://open.spotify.com/track/1IwaKRghYbdynuLDiCbemP"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -1539,26 +1539,18 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "Studio 54",
-        "url": "https://open.spotify.com/album/5eqNUuxFHel3GEUPeaaFbv"
+        "name": "Emotion EP",
+        "url": "https://open.spotify.com/album/1o9O7AGvoCSG8w2Ana24YA"
       },
       "artists": [
         {
-          "name": "Young Franco",
-          "url": "https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl"
-        },
-        {
-          "name": "Leyla Blue",
-          "url": "https://open.spotify.com/artist/6HpIVA13SPof8sYuXRUfxj"
-        },
-        {
-          "name": "Jafunk",
-          "url": "https://open.spotify.com/artist/5KtUig38eqxK2rOtHZnz0k"
+          "name": "Purple Disco Machine",
+          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
         }
       ],
-      "duration_ms": 166289,
-      "name": "Studio 54",
-      "url": "https://open.spotify.com/track/20blT6R5DJhfrk9c16lQ4E"
+      "duration_ms": 184918,
+      "name": "Emotion",
+      "url": "https://open.spotify.com/track/2CiOFdudXTfZfsd1lZqrhR"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -1587,18 +1579,26 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "Emotion EP",
-        "url": "https://open.spotify.com/album/1o9O7AGvoCSG8w2Ana24YA"
+        "name": "Studio 54",
+        "url": "https://open.spotify.com/album/5eqNUuxFHel3GEUPeaaFbv"
       },
       "artists": [
         {
-          "name": "Purple Disco Machine",
-          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
+          "name": "Young Franco",
+          "url": "https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl"
+        },
+        {
+          "name": "Leyla Blue",
+          "url": "https://open.spotify.com/artist/6HpIVA13SPof8sYuXRUfxj"
+        },
+        {
+          "name": "Jafunk",
+          "url": "https://open.spotify.com/artist/5KtUig38eqxK2rOtHZnz0k"
         }
       ],
-      "duration_ms": 184918,
-      "name": "Emotion",
-      "url": "https://open.spotify.com/track/2CiOFdudXTfZfsd1lZqrhR"
+      "duration_ms": 166289,
+      "name": "Studio 54",
+      "url": "https://open.spotify.com/track/20blT6R5DJhfrk9c16lQ4E"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -1739,6 +1739,22 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
+        "name": "Seventies",
+        "url": "https://open.spotify.com/album/5X6J5NTJIWPCJzcRwIKXmb"
+      },
+      "artists": [
+        {
+          "name": "Theo Kottis",
+          "url": "https://open.spotify.com/artist/3qEwwb8O7MSkGRohGYEzkO"
+        }
+      ],
+      "duration_ms": 196035,
+      "name": "Seventies",
+      "url": "https://open.spotify.com/track/4k0vs6zgt0NYq6tmDum4nP"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
         "name": "Colors (The Knocks Remix)",
         "url": "https://open.spotify.com/album/0g92mDVGfKe09Nmf1vBoMU"
       },
@@ -1795,22 +1811,6 @@
       "duration_ms": 220299,
       "name": "Waiting 4 You",
       "url": "https://open.spotify.com/track/6APQPY2tZzOV9T4iNSXdYe"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
-        "name": "Seventies",
-        "url": "https://open.spotify.com/album/5X6J5NTJIWPCJzcRwIKXmb"
-      },
-      "artists": [
-        {
-          "name": "Theo Kottis",
-          "url": "https://open.spotify.com/artist/3qEwwb8O7MSkGRohGYEzkO"
-        }
-      ],
-      "duration_ms": 196035,
-      "name": "Seventies",
-      "url": "https://open.spotify.com/track/4k0vs6zgt0NYq6tmDum4nP"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -1911,22 +1911,22 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "Take It Back (feat. Davie)",
-        "url": "https://open.spotify.com/album/5NN6jIlYaOhjirtYiGuPNr"
+        "name": "Feeling For You (feat. FARLEY)",
+        "url": "https://open.spotify.com/album/43JAltifXLaRCkVzgfV7eb"
       },
       "artists": [
         {
-          "name": "Mousse T.",
-          "url": "https://open.spotify.com/artist/5N6EzjkOoyABhNZJggeXi6"
+          "name": "CHANEY",
+          "url": "https://open.spotify.com/artist/2dUjApyXX9UqIsFGzoHyhX"
         },
         {
-          "name": "Davie",
-          "url": "https://open.spotify.com/artist/3LtkIxt8EHLpuXMOpFYZ06"
+          "name": "FARLEY",
+          "url": "https://open.spotify.com/artist/7uYA1SvZLemlrGJxyqdf4O"
         }
       ],
-      "duration_ms": 216020,
-      "name": "Take It Back (feat. Davie)",
-      "url": "https://open.spotify.com/track/60ILwSbZxEZ6qgYZMPAq4D"
+      "duration_ms": 226785,
+      "name": "Feeling For You (feat. FARLEY)",
+      "url": "https://open.spotify.com/track/6pC6TW94GCOUwEj7ZchIk6"
     }
   ],
   "unique_name": "Poolside Disco",

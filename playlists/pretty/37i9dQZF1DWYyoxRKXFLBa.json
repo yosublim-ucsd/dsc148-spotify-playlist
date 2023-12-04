@@ -1,12 +1,12 @@
 {
   "description": "Conoce a puras morras rifadas en La Marketa. \u00a1S\u00fabele al volumen, te esperamos el 6 de Agosto en Jard\u00edn Ju\u00e1rez! En portada: Now Girls Rule",
-  "num_followers": 8538,
+  "num_followers": 8543,
   "original_name": "Ruidosas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4YzVkNzgxMmVmMzVmMDU2MjgwYzA5YzUzMTc2NDI1MGQyMDczMjcx",
+  "snapshot_id": "MCwzODVlNTJlNjRkNjU5ZWY2MGUwOGJmNGMwNDljY2E3MWRkNzdkMTgx",
   "tracks": [
     {
       "added_at": "2023-07-28 20:39:17",
@@ -867,22 +867,6 @@
     {
       "added_at": "2023-07-28 20:39:17",
       "album": {
-        "name": "Amarillo",
-        "url": "https://open.spotify.com/album/2MC5DH933tWiyL8vE5hJ70"
-      },
-      "artists": [
-        {
-          "name": "Herbolaria",
-          "url": "https://open.spotify.com/artist/5DrflPAe5ZoSkw2FtxrnZW"
-        }
-      ],
-      "duration_ms": 144500,
-      "name": "Amarillo",
-      "url": "https://open.spotify.com/track/3uNedRR60eGommt5hVXjHT"
-    },
-    {
-      "added_at": "2023-07-28 20:39:17",
-      "album": {
         "name": "CLAR%SCURO",
         "url": "https://open.spotify.com/album/27oMHySev9yNNTbME6hAJL"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 226960,
       "name": "Tu Color",
       "url": "https://open.spotify.com/track/5F5iYSIvNIZTfr2xInIz99"
+    },
+    {
+      "added_at": "2023-07-28 20:39:17",
+      "album": {
+        "name": "Amarillo",
+        "url": "https://open.spotify.com/album/2MC5DH933tWiyL8vE5hJ70"
+      },
+      "artists": [
+        {
+          "name": "Herbolaria",
+          "url": "https://open.spotify.com/artist/5DrflPAe5ZoSkw2FtxrnZW"
+        }
+      ],
+      "duration_ms": 144500,
+      "name": "Amarillo",
+      "url": "https://open.spotify.com/track/3uNedRR60eGommt5hVXjHT"
     },
     {
       "added_at": "2023-07-28 20:39:17",
@@ -963,22 +963,6 @@
     {
       "added_at": "2023-07-28 20:39:17",
       "album": {
-        "name": "San Juan",
-        "url": "https://open.spotify.com/album/0yTWbDuC3kIwhLwd4SlKnl"
-      },
-      "artists": [
-        {
-          "name": "Tigre Ulli",
-          "url": "https://open.spotify.com/artist/5BCAv8GCW0wT3cTY11dl5v"
-        }
-      ],
-      "duration_ms": 225587,
-      "name": "San Juan",
-      "url": "https://open.spotify.com/track/6DEYeMOEYnd0G5cKMrubRd"
-    },
-    {
-      "added_at": "2023-07-28 20:39:17",
-      "album": {
         "name": "Kill V. Maim",
         "url": "https://open.spotify.com/album/2VKbyz0lCi3tw7DBGAY5g6"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 254328,
       "name": "Kill V. Maim",
       "url": "https://open.spotify.com/track/3HPi0ghN9BErsKwlTlFz31"
+    },
+    {
+      "added_at": "2023-07-28 20:39:17",
+      "album": {
+        "name": "San Juan",
+        "url": "https://open.spotify.com/album/0yTWbDuC3kIwhLwd4SlKnl"
+      },
+      "artists": [
+        {
+          "name": "Tigre Ulli",
+          "url": "https://open.spotify.com/artist/5BCAv8GCW0wT3cTY11dl5v"
+        }
+      ],
+      "duration_ms": 225587,
+      "name": "San Juan",
+      "url": "https://open.spotify.com/track/6DEYeMOEYnd0G5cKMrubRd"
     },
     {
       "added_at": "2023-07-28 20:39:17",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2023-07-28 20:39:17",
       "album": {
-        "name": "Romantinski",
-        "url": "https://open.spotify.com/album/2q6MDcpS342VSGIxCrOg6e"
-      },
-      "artists": [
-        {
-          "name": "Aiko el grupo",
-          "url": "https://open.spotify.com/artist/0mk9dVJMJF4fanFzeZo6K1"
-        }
-      ],
-      "duration_ms": 170224,
-      "name": "Romantinski",
-      "url": "https://open.spotify.com/track/3Wy7M9W8QqwyNQwovhHNw4"
-    },
-    {
-      "added_at": "2023-07-28 20:39:17",
-      "album": {
         "name": "Lilith",
         "url": "https://open.spotify.com/album/1g3IB4r5OnU3guMehCPAie"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 168500,
       "name": "Lilith",
       "url": "https://open.spotify.com/track/2Vnl0gMfZ9pct8LvLDm0KJ"
+    },
+    {
+      "added_at": "2023-07-28 20:39:17",
+      "album": {
+        "name": "Romantinski",
+        "url": "https://open.spotify.com/album/2q6MDcpS342VSGIxCrOg6e"
+      },
+      "artists": [
+        {
+          "name": "Aiko el grupo",
+          "url": "https://open.spotify.com/artist/0mk9dVJMJF4fanFzeZo6K1"
+        }
+      ],
+      "duration_ms": 170224,
+      "name": "Romantinski",
+      "url": "https://open.spotify.com/track/3Wy7M9W8QqwyNQwovhHNw4"
     },
     {
       "added_at": "2023-07-28 20:39:17",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2023-07-28 20:39:17",
       "album": {
-        "name": "La Ciudad Que Dejamos",
-        "url": "https://open.spotify.com/album/17wOANgahKkdnXVZpkw6ey"
-      },
-      "artists": [
-        {
-          "name": "Fin del Mundo",
-          "url": "https://open.spotify.com/artist/4PpMBcLg4QALOMjz0umVkn"
-        }
-      ],
-      "duration_ms": 274414,
-      "name": "Desvelo",
-      "url": "https://open.spotify.com/track/1jxb4xO5jc3yOazCbl5jy3"
-    },
-    {
-      "added_at": "2023-07-28 20:39:17",
-      "album": {
         "name": "Corrida al Arco",
         "url": "https://open.spotify.com/album/6o0XLbTOCvzBz7rH0kYZUk"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 253456,
       "name": "Corrida al Arco",
       "url": "https://open.spotify.com/track/5QTBQvrTCudXdatBV3ycRF"
+    },
+    {
+      "added_at": "2023-07-28 20:39:17",
+      "album": {
+        "name": "La Ciudad Que Dejamos",
+        "url": "https://open.spotify.com/album/17wOANgahKkdnXVZpkw6ey"
+      },
+      "artists": [
+        {
+          "name": "Fin del Mundo",
+          "url": "https://open.spotify.com/artist/4PpMBcLg4QALOMjz0umVkn"
+        }
+      ],
+      "duration_ms": 274414,
+      "name": "Desvelo",
+      "url": "https://open.spotify.com/track/1jxb4xO5jc3yOazCbl5jy3"
     },
     {
       "added_at": "2023-07-28 20:39:17",

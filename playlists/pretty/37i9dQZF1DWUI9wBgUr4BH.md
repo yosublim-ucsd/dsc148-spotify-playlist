@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUI9wBgUr4BH.md) - [plain]
 
 > Les hits de demain sont déjà ici\. Photo : Tate McRae
 
-[Spotify](https://open.spotify.com/user/spotify) - 286,107 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 286,151 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUI9wBgUr4BH.md) - [plain]
 | 49 | [Brighter Day \(Tout Ira Mieux\)](https://open.spotify.com/track/6TVRj9QoNrb3DC207qZXpc) | [Ben Cristovao](https://open.spotify.com/artist/1bpca6RQE5kp92pIwPMBE8) | [Brighter Day](https://open.spotify.com/album/1LvvXjmpkJVtEqDzBxVEJ7) | 2:04 |
 | 50 | [Heart Still Beating](https://open.spotify.com/track/1IYlFAw4SThAoRx5DWwAjT) | [Nathan Dawe](https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Heart Still Beating](https://open.spotify.com/album/7jLbqg4aQyJdd9Wq6zrB2m) | 2:29 |
 
-Snapshot ID: `MCxmNzFiZTYyMzRiNGU5YzcwODFlOTk1ZjkyMjg3ODRlNjY1ZDg4MWYx`
+Snapshot ID: `MCxmMjE1M2I1YTE4YTNlODE0OWZmZjUwZTRjN2MwMTM5ZmEyZGZhNDVk`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVh9guDyUECQ.md) - [plain]
 
 > Lo nuevo del Trap, Rap y Reggaeton Cristiano\. <br/>Foto: Vaes
 
-[Spotify](https://open.spotify.com/user/spotify) - 177,364 likes - 100 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 177,409 likes - 100 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -103,10 +103,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVh9guDyUECQ.md) - [plain]
 | 93 | [Inmenso](https://open.spotify.com/track/4LWYsRTUmdO6gdR9ONCHLy) | [Madiel Lara](https://open.spotify.com/artist/6n6D2g1FuTmnFiMDD4RT42) | [Inmenso](https://open.spotify.com/album/0UvCUnwqkdpSXIlW6gsJw3) | 2:37 |
 | 94 | [Firme Y Enfocado](https://open.spotify.com/track/3pFyebmyBd2tQzQKx3HsGr) | [Manny Montes](https://open.spotify.com/artist/41A1tLHviwiCao1vXl1cgd), [Práctiko](https://open.spotify.com/artist/6ynr4n6tj5GrNjiZudUjWA) | [Firme Y Enfocado](https://open.spotify.com/album/5ZE3KBdyEiI41sXiw1BUZx) | 3:51 |
 | 95 | [Como Siempre](https://open.spotify.com/track/7GJFGUpd6V1LkTrm9hgavK) | [Wolandia](https://open.spotify.com/artist/46eL7q4TISdKjN2px64rhu), [Creyente.7](https://open.spotify.com/artist/5MaYKizuZvefKKYa85knBs), [Jota Brother](https://open.spotify.com/artist/25IVywaI7Vt98ZeVW3LrYr), [Rapacortes](https://open.spotify.com/artist/4vpADGNWS3zDDxd2hQrOoM), [Simiente Incorruptible](https://open.spotify.com/artist/00lO9exwxYAnFcYeWhtotT) | [Como Siempre](https://open.spotify.com/album/6JTvSdp2X8Qx6nSpL8dkqh) | 5:41 |
-| 96 | [Se Enamoró](https://open.spotify.com/track/3M8yZ5w6kxm2yIQE8444Jg) | [Daniela Galeano](https://open.spotify.com/artist/5iBuQW2ANJlj4eqhEv43Be), [Lizzy Parra](https://open.spotify.com/artist/1Cm5r6LqrFQDuA0F4KUIQz) | [Se Enamoró](https://open.spotify.com/album/4t6WWvaLdzL40EyEfv9Qci) | 3:39 |
-| 97 | [No Tiene Sentido](https://open.spotify.com/track/2jSSGUPLFu6OFlFuTWOLlP) | [Esencia Pr](https://open.spotify.com/artist/5OyUXzH1TSSG8e9ETUMieM), [Jaydan](https://open.spotify.com/artist/7h9VV4VCZdFXVh3FsUxus5), [Jay Kalyl](https://open.spotify.com/artist/0sHeKC0Zcxpz4wOHHE5oJ7) | [No Tiene Sentido](https://open.spotify.com/album/1o7jXsTfe2SrhI4HEPoaKO) | 4:13 |
-| 98 | [Más Como Tú – Remix](https://open.spotify.com/track/0cN87JXZzLCLml6H7MQkaj) | [Alex Zurdo](https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd), [Linaje Escogido](https://open.spotify.com/artist/2S0DRUKIeTtGef4BPbKcc0) | [Más Como Tú – Remix](https://open.spotify.com/album/7sql4hYL7mAYVzYde7KmHZ) | 3:26 |
-| 99 | [El Fuego](https://open.spotify.com/track/48f9BX8tVDm406EAABwTJW) | [Sarah La Profeta](https://open.spotify.com/artist/7oSuYRjBK40aiakDdYUvCL), [Lizzy Parra](https://open.spotify.com/artist/1Cm5r6LqrFQDuA0F4KUIQz) | [El Fuego](https://open.spotify.com/album/32gxyKrCEHuLdixBXby5Dh) | 3:10 |
+| 96 | [No Tiene Sentido](https://open.spotify.com/track/2jSSGUPLFu6OFlFuTWOLlP) | [Esencia Pr](https://open.spotify.com/artist/5OyUXzH1TSSG8e9ETUMieM), [Jaydan](https://open.spotify.com/artist/7h9VV4VCZdFXVh3FsUxus5), [Jay Kalyl](https://open.spotify.com/artist/0sHeKC0Zcxpz4wOHHE5oJ7) | [No Tiene Sentido](https://open.spotify.com/album/1o7jXsTfe2SrhI4HEPoaKO) | 4:13 |
+| 97 | [Se Enamoró](https://open.spotify.com/track/3M8yZ5w6kxm2yIQE8444Jg) | [Daniela Galeano](https://open.spotify.com/artist/5iBuQW2ANJlj4eqhEv43Be), [Lizzy Parra](https://open.spotify.com/artist/1Cm5r6LqrFQDuA0F4KUIQz) | [Se Enamoró](https://open.spotify.com/album/4t6WWvaLdzL40EyEfv9Qci) | 3:39 |
+| 98 | [El Fuego](https://open.spotify.com/track/48f9BX8tVDm406EAABwTJW) | [Sarah La Profeta](https://open.spotify.com/artist/7oSuYRjBK40aiakDdYUvCL), [Lizzy Parra](https://open.spotify.com/artist/1Cm5r6LqrFQDuA0F4KUIQz) | [El Fuego](https://open.spotify.com/album/32gxyKrCEHuLdixBXby5Dh) | 3:10 |
+| 99 | [Más Como Tú – Remix](https://open.spotify.com/track/0cN87JXZzLCLml6H7MQkaj) | [Alex Zurdo](https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd), [Linaje Escogido](https://open.spotify.com/artist/2S0DRUKIeTtGef4BPbKcc0) | [Más Como Tú – Remix](https://open.spotify.com/album/7sql4hYL7mAYVzYde7KmHZ) | 3:26 |
 | 100 | [Fronteamos Con Amor](https://open.spotify.com/track/6wiYHlQnl1IBe0Djrg2B1c) | [Christian Ponce](https://open.spotify.com/artist/4Xhe8s10yLiuTzG7k1Kq4W), [Ander Bock](https://open.spotify.com/artist/3ARwD7QJqYlDmcFeB6oPQM), [Odanis BSK](https://open.spotify.com/artist/2equ79Fk9Rj9vmQsuJpIJ9) | [Fronteamos Con Amor](https://open.spotify.com/album/2Kk0D2bP1Xc7VZ8s3F4SP5) | 3:42 |
 
-Snapshot ID: `MCxkOGYxYjJhNjdmMGVhZjczOGRiZDlkMWRmZDcxZDdlMDNiNDNiNGIz`
+Snapshot ID: `MCwxNzFjNDM5NzIyMDUyMWNkMGFiYjY3MjM3MzMzM2RkM2NjYjM4NjM4`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6kTuqlKpqS9.md) - [plain]
 
 > ¡De la tarima a tus bocinas! Lo mejor del mariachi en vivo\. Juan Gabriel en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,912 likes - 75 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,981 likes - 75 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,13 +37,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6kTuqlKpqS9.md) - [plain]
 | 27 | [No \- En Vivo Desde El Teatro Real](https://open.spotify.com/track/0qVDR0ggGqFmiyOQQPY9k9) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Confidencias Reales \(En Vivo Desde El Teatro Real\)](https://open.spotify.com/album/1Psmz14dcKR0QEyoUeGxXP) | 3:27 |
 | 28 | [El Rey](https://open.spotify.com/track/4ttexpvsnPqqnPxSTH3roN) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Pisteando Con La Regida \(Vol\. 3\)](https://open.spotify.com/album/43VJC0wCb2qkm1KrIdRYqc) | 2:09 |
 | 29 | [El Rey \- En Vivo](https://open.spotify.com/track/7KQJyqHkmOk6LTf9OtooYc) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [El Concierto](https://open.spotify.com/album/6efyUFJcUK18KRFTMoxNSI) | 2:21 |
-| 30 | [Seremos \- En Vivo Desde El Lunario/Mariachi/Banda](https://open.spotify.com/track/0Kguq4LDvq2YrUU4QDVBW3) | [El Bebeto](https://open.spotify.com/artist/1YhMWppPt9RVODKD1KCs7W) | [Desde El Lunario, Ciudad De México \(En Vivo Desde El Lunario/Mariachi/Banda\)](https://open.spotify.com/album/0OciUfz9VZIm5N4ZHIHlg5) | 3:07 |
-| 31 | [En El Último Trago](https://open.spotify.com/track/1WdmbYpsCVwFTNxbmgF44G) | [Lupillo Rivera](https://open.spotify.com/artist/341CfLcUdaBGixB8IJjYwW) | [Mariachi Hit Parade](https://open.spotify.com/album/1lQUnQ5cmgVuNBgJLFIv3A) | 2:18 |
+| 30 | [En El Último Trago](https://open.spotify.com/track/1WdmbYpsCVwFTNxbmgF44G) | [Lupillo Rivera](https://open.spotify.com/artist/341CfLcUdaBGixB8IJjYwW) | [Mariachi Hit Parade](https://open.spotify.com/album/1lQUnQ5cmgVuNBgJLFIv3A) | 2:18 |
+| 31 | [Seremos \- En Vivo Desde El Lunario/Mariachi/Banda](https://open.spotify.com/track/0Kguq4LDvq2YrUU4QDVBW3) | [El Bebeto](https://open.spotify.com/artist/1YhMWppPt9RVODKD1KCs7W) | [Desde El Lunario, Ciudad De México \(En Vivo Desde El Lunario/Mariachi/Banda\)](https://open.spotify.com/album/0OciUfz9VZIm5N4ZHIHlg5) | 3:07 |
 | 32 | [En Mi Viejo San Juan \- En Vivo en Puerto Rico \- Teatro Bellas Artes /2000](https://open.spotify.com/track/4VelAw3TjuAW0hlL9Gr8ei) | [Marco Antonio Solís](https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd) | [En Vivo](https://open.spotify.com/album/2B6NtQv1oRA1uVD8qQC0k6) | 4:18 |
 | 33 | [Me Nace del Corazón \(En Vivo\) \- En el Palacio de Bellas Artes](https://open.spotify.com/track/6q2RdCyxpwrAY4dpXBJiKQ) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [En el Palacio de Bellas Artes](https://open.spotify.com/album/5M3SIJXfL9RQOCUOaXI7TI) | 2:44 |
 | 34 | [Nube Viajera \- En Vivo Desde El Teatro Real](https://open.spotify.com/track/6CxF5ueVVqHgRDAwJG8XFG) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Confidencias Reales \(En Vivo Desde El Teatro Real\)](https://open.spotify.com/album/1Psmz14dcKR0QEyoUeGxXP) | 4:02 |
-| 35 | [Llorar \- En Vivo](https://open.spotify.com/track/41cqLjW5gEtYy28Y13KABP) | [Lucero](https://open.spotify.com/artist/3SNKhPPfra7g7Crq1QA330) | [Enamorada En Vivo](https://open.spotify.com/album/0KwekhZvggPoJpp7a8Y6GJ) | 3:09 |
-| 36 | [A Pesar de Todos \- En Vivo](https://open.spotify.com/track/16VI8N8iECaBkUdadqchqq) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Ana Gabriel En La Plaza De Toros México](https://open.spotify.com/album/3yRVRIoZEWipJo3po8jkhy) | 3:48 |
+| 35 | [A Pesar de Todos \- En Vivo](https://open.spotify.com/track/16VI8N8iECaBkUdadqchqq) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Ana Gabriel En La Plaza De Toros México](https://open.spotify.com/album/3yRVRIoZEWipJo3po8jkhy) | 3:48 |
+| 36 | [Llorar \- En Vivo](https://open.spotify.com/track/41cqLjW5gEtYy28Y13KABP) | [Lucero](https://open.spotify.com/artist/3SNKhPPfra7g7Crq1QA330) | [Enamorada En Vivo](https://open.spotify.com/album/0KwekhZvggPoJpp7a8Y6GJ) | 3:09 |
 | 37 | [Un Idiota \- En Vivo](https://open.spotify.com/track/4SOuLV8CIh8hrcfLL4BjLK) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [El Último Jaripeo \(En Vivo\)](https://open.spotify.com/album/3j2h6UwTZiyj2QQe3Vrvzc) | 3:07 |
 | 38 | [La Diferencia](https://open.spotify.com/track/74nYy9TioHzoaPghz6m77N) | [Lupillo Rivera](https://open.spotify.com/artist/341CfLcUdaBGixB8IJjYwW) | [Mariachi Hit Parade](https://open.spotify.com/album/1lQUnQ5cmgVuNBgJLFIv3A) | 3:11 |
 | 39 | [La Malagueña \- En Vivo](https://open.spotify.com/track/0QK9r9sfr18lojfOIwPZE2) | [Carlos Rivera](https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf) | [Con Ustedes..\. Car10s Rivera en Vivo](https://open.spotify.com/album/249ZBjtCsCYklCPuQDqyo2) | 4:53 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6kTuqlKpqS9.md) - [plain]
 | 74 | [Cielo Rojo \- En Vivo Auditorio Nacional](https://open.spotify.com/track/6MXu4vPjcCVKJdPsU0vhyc) | [Lucero](https://open.spotify.com/artist/3SNKhPPfra7g7Crq1QA330) | [Lucero En Vivo Auditorio Nacional](https://open.spotify.com/album/6oKLH9JQpGvD7qU11xS5ZD) | 4:26 |
 | 75 | [Viva México / Guadalajara \(En Vivo\) \- En el Palacio de Bellas Artes](https://open.spotify.com/track/1dGhp7hbHWFhYSzJDITEl8) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [En el Palacio de Bellas Artes](https://open.spotify.com/album/5M3SIJXfL9RQOCUOaXI7TI) | 2:58 |
 
-Snapshot ID: `MCxmOTQ5NTAyNmRkZDM0YzllNmFkN2Y2N2ZmMzc3ZThjYWFiMzdmMDRh`
+Snapshot ID: `MCxjOTUyNDlmMjhmODAzZTRmN2I0OGYzODIzMDM5NTU5MjBlNDg2YTIy`

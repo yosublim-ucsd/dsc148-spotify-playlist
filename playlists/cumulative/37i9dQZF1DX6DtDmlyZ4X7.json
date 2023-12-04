@@ -736,7 +736,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-04",
       "duration_ms": 195750,
       "name": "Apart",
       "url": "https://open.spotify.com/track/6f0drxUwd9EIdAvuTmIKYY"
@@ -4824,6 +4824,24 @@
       "duration_ms": 124139,
       "name": "Keep You Safe",
       "url": "https://open.spotify.com/track/6XwdGPFuIObAvlrgwTuFOC"
+    },
+    {
+      "album": {
+        "name": "Keepsake",
+        "url": "https://open.spotify.com/album/6g1Mpl8jLuLTcR8mO2Qpon"
+      },
+      "artists": [
+        {
+          "name": "Pamela Goldings",
+          "url": "https://open.spotify.com/artist/0zz0ZeRODmieOdGKeznHQA"
+        }
+      ],
+      "date_added": "2023-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152142,
+      "name": "Keepsake",
+      "url": "https://open.spotify.com/track/3OacSixqamhyHu3M2fRqxU"
     },
     {
       "album": {

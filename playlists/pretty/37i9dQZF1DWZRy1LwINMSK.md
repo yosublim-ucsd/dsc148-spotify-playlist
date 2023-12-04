@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRy1LwINMSK.md) - [plain]
 
 > La casa del trap chileno\. Foto: Harry Nach & Aqua VS.
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,455 likes - 106 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,585 likes - 106 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRy1LwINMSK.md) - [plain]
 | 19 | [Amiri Jeans](https://open.spotify.com/track/1kavadKZM6Ah01m1rFCU0o) | [Piero 47](https://open.spotify.com/artist/4xZrvfK8khgRIXk63gSFeB), [King Fly](https://open.spotify.com/artist/3bfahxMCLID17MMlD2DfGc) | [La Luz Es Única](https://open.spotify.com/album/1DsJVfcNlWH0W1Ie4QxBWB) | 2:16 |
 | 20 | [Singapur \(feat\. Yung Beef\)](https://open.spotify.com/track/1Q7NJD40pBK47Ii1ZdBTyi) | [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D), [Yung Beef](https://open.spotify.com/artist/1rTUwYS38LkQTlT2fhikch) | [S.U.N.O](https://open.spotify.com/album/6V18lHqeCbGGFxtpkOJVpk) | 2:49 |
 | 21 | [Queremo Ma](https://open.spotify.com/track/6fguZ8G9c3TvJsjM1oEgwH) | [Z Jocker](https://open.spotify.com/artist/6IaOUkLKnYH0q8Vm2AdhQ5), [Piero 47](https://open.spotify.com/artist/4xZrvfK8khgRIXk63gSFeB) | [Queremo Ma](https://open.spotify.com/album/1semEeAcwPUyW9ad6OU7mA) | 2:33 |
-| 22 | [Mi Bruja](https://open.spotify.com/track/6jU9HGQhLCUuA3jmwmxQCo) | [Jere Klein](https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9), [Drakomafia](https://open.spotify.com/artist/20BNHnI2SfySwLwWCAu4ew) | [Mi Bruja](https://open.spotify.com/album/5Ol2T2oQpuxa9JZMij9ES6) | 2:37 |
+| 22 | [MI BRUJA](https://open.spotify.com/track/39ioahXgovoR6DlDsoEqbk) | [Jere Klein](https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9), [Drakomafia](https://open.spotify.com/artist/20BNHnI2SfySwLwWCAu4ew) | [ÉNFASIS](https://open.spotify.com/album/3Yg6mB7aDyVFTZBMcJPG5B) | 2:37 |
 | 23 | [Jaguar](https://open.spotify.com/track/3k3Hm3PBmnE7bNCExKOxFm) | [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D), [ITHAN NY](https://open.spotify.com/artist/0LshXUmIub6xKvOq4QmtNs) | [Jaguar](https://open.spotify.com/album/5DxjVYkGm326bIHaFv6nvX) | 3:15 |
 | 24 | [X Dinero](https://open.spotify.com/track/5rqOopoA9X1ybr0Yfk9YOx) | [Julianno Sosa](https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL) | [Trap Life](https://open.spotify.com/album/20TTxQ5tBU35RYiAghI6uf) | 2:54 |
 | 25 | [Perco Con Mari](https://open.spotify.com/track/1qkVJlyVaLZbwolRZmc17i) | [Kevin Martes 13](https://open.spotify.com/artist/2OEZ0KKJrKXsRQ6hU9bbfS), [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D) | [Perco Con Mari](https://open.spotify.com/album/0IVrXEJ6q4tiYEJNWqkjlA) | 3:59 |
@@ -115,4 +115,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRy1LwINMSK.md) - [plain]
 | 105 | [XERATON](https://open.spotify.com/track/3yGRwTF5wDOb1cSj6Fes42) | [AKRIILA](https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL), [Harry Nach](https://open.spotify.com/artist/0NnUMWDCDi1snuMja6IdxH) | [001](https://open.spotify.com/album/4hg1fV1YKWKPF3XUpO12z1) | 2:41 |
 | 106 | [Asueto](https://open.spotify.com/track/1KGiwpyYj2ImDyYezmjLHm) | [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D) | [S.U.N.O](https://open.spotify.com/album/6V18lHqeCbGGFxtpkOJVpk) | 2:57 |
 
-Snapshot ID: `MCw2MDA0NDZhZDJmYTc4ZGRmNjBhYmEyNWEwOTRjMWY0ZTJhNzYyODZh`
+Snapshot ID: `MCxiNTUzMjJhNmQ1NTZhMGNjYWYwYzQzYjFmNTkwNTE5N2I5NDIzOWQw`

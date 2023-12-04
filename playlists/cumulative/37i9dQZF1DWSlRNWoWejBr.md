@@ -4,7 +4,7 @@
 
 > OU VC DANÇA OU O GRAVE T BALANÇA
 
-121 songs - 5 hr 8 min
+122 songs - 5 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,9 +69,10 @@
 | [MONTAGEM ANOS 2000](https://open.spotify.com/track/4zNy0cxc4p36OLdPr0sI6h) | [DJ Arana](https://open.spotify.com/artist/22RXQj1gd5zEbcRjdxiJbu), [MC Maneirinho](https://open.spotify.com/artist/3M8aD9XWxfel3jZakRbibZ), [Mc Luan](https://open.spotify.com/artist/1RdD4CJBoJIEo0vOogJCCF), [Mc Tigão](https://open.spotify.com/artist/7GH9MFF3c1nPkH2bQ7JG2X) | [A.Mago \- Playlist do Mago](https://open.spotify.com/album/4vhbsr8IwQoKgTiKGlo6So) | 2:58 | 2023-10-06 |  |
 | [Montagem Coral](https://open.spotify.com/track/6qPD86pGirtqqW6g6eZE73) | [alper6nen](https://open.spotify.com/artist/2utuBsTVf7KFufCvJBofcj) | [Montagem Coral](https://open.spotify.com/album/2VKY7nldcrex9oGUdr0ahM) | 1:44 | 2023-10-24 | 2023-10-31 |
 | [Montagem Coral](https://open.spotify.com/track/2gSznr1VkIxWdWXBJ8xdix) | [DJ Holanda](https://open.spotify.com/artist/7yC8pbSjZCPUp7q9zxhGAC), [Mc Gw](https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2), [Mc Th](https://open.spotify.com/artist/0bg3fNpRQgZTCAg3Bseyly), [MC Cyclope](https://open.spotify.com/artist/5yGArOIHgCn6AOA86LaW9N) | [Montagem Coral](https://open.spotify.com/album/7yB8cqc8wyJXq9w4oEZ9Qu) | 2:25 | 2023-10-06 | 2023-11-27 |
-| [MONTAGEM CORAL](https://open.spotify.com/track/7cE9DsAvDWlFXfnIAZ1RDG) | [fatit](https://open.spotify.com/artist/42zw1tQc4mHAo0Ejfd4HgT) | [MONTAGEM CORAL](https://open.spotify.com/album/0TTWmaMq5n2f9XzGRBvCIR) | 2:25 | 2023-11-29 |  |
+| [MONTAGEM CORAL](https://open.spotify.com/track/7cE9DsAvDWlFXfnIAZ1RDG) | [fatit](https://open.spotify.com/artist/42zw1tQc4mHAo0Ejfd4HgT) | [MONTAGEM CORAL](https://open.spotify.com/album/0TTWmaMq5n2f9XzGRBvCIR) | 2:25 | 2023-11-29 | 2023-12-04 |
 | [Montagem Coral](https://open.spotify.com/track/1IluQAUAhRumwIYsBuYqFQ) | [flux.beats](https://open.spotify.com/artist/3TkE7Wo4vLvOjTZPYNKGjL) | [Montagem Coral \(Slowed + Reverb\)](https://open.spotify.com/album/7bITNZFQVcVzUCESciDyFJ) | 2:23 | 2023-10-24 | 2023-10-30 |
 | [Montagem Coral](https://open.spotify.com/track/3cE1cyAdPmv5Eq5ZBaQmYV) | [flux.beats](https://open.spotify.com/artist/3TkE7Wo4vLvOjTZPYNKGjL) | [Montagem Coral](https://open.spotify.com/album/6RfEECBJXORJnhJNdVB4mN) | 2:23 | 2023-10-13 | 2023-10-17 |
+| [MONTAGEM CORAL](https://open.spotify.com/track/16pCNpN8qTkUViMALO0U3Z) | [sadakatsiz](https://open.spotify.com/artist/0zZR7LKqUKMJSVnoogF6Mi) | [MONTAGEM CORAL](https://open.spotify.com/album/6JQs1jzCDA6MHAqaBTxxgy) | 2:25 | 2023-11-29 |  |
 | [MONTAGEM CORAL](https://open.spotify.com/track/2rjXdiDz6cmKTn4MbnR6rS) | [veysxl](https://open.spotify.com/artist/0WeEdxpSmM2Rtjqm2mbSp3), [batuzane](https://open.spotify.com/artist/0xNQSJ31hA6QrnQNzQkK6P) | [MONTAGEM CORAL](https://open.spotify.com/album/58pJKKlXJ1s5aIhk4rwkIT) | 2:25 | 2023-11-16 | 2023-11-23 |
 | [Montagem Coral](https://open.spotify.com/track/3F02rCPD3IvrnZ7GPSjR5t) | [vicX](https://open.spotify.com/artist/4qiIMJtorRG5GfdyRsLBtC) | [Montagem Coral](https://open.spotify.com/album/6m8N6j8GfGmW3cqgP5uiHq) | 2:25 | 2023-10-09 | 2023-10-12 |
 | [Montagem Coral](https://open.spotify.com/track/2aHLWvUgwUnDRWYQjmYJPl) | [young god](https://open.spotify.com/artist/4J2LHP07P9VG5PQHZNFfjT) | [Montagem Coral](https://open.spotify.com/album/3u9YkCaYo544roaesI591t) | 2:25 | 2023-10-16 | 2023-10-22 |

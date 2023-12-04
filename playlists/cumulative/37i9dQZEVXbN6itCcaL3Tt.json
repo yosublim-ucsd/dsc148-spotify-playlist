@@ -1808,7 +1808,7 @@
       ],
       "date_added": "2023-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-04",
       "duration_ms": 134000,
       "name": "ALL DAY FRESH",
       "url": "https://open.spotify.com/track/7u6Z5O7qeprlI6glcP68sJ"
@@ -5414,7 +5414,7 @@
       ],
       "date_added": "2023-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-04",
       "duration_ms": 43533,
       "name": "Chciwo\u015b\u0107",
       "url": "https://open.spotify.com/track/4dUBoXpJ3ZtlcpNXRtt4VQ"
@@ -8203,6 +8203,24 @@
     },
     {
       "album": {
+        "name": "New Light Through Old Windows",
+        "url": "https://open.spotify.com/album/7p9ePF3nuGOHHKdK54xjHH"
+      },
+      "artists": [
+        {
+          "name": "Chris Rea",
+          "url": "https://open.spotify.com/artist/5KEG7G8LDYlHgFDqZyEEs2"
+        }
+      ],
+      "date_added": "2023-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239946,
+      "name": "Driving Home for Christmas",
+      "url": "https://open.spotify.com/track/0ZoHHROTzwIYeNAHRPedTY"
+    },
+    {
+      "album": {
         "name": "Dancing with Strangers (Deluxe Edition, 2019 Remaster)",
         "url": "https://open.spotify.com/album/5tR0alqUd1KMW37vPnsOC4"
       },
@@ -8626,7 +8644,7 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-03",
+      "date_removed": null,
       "duration_ms": 150937,
       "name": "Dzi\u0119ki, \u017ce jeste\u015b",
       "url": "https://open.spotify.com/track/5Qw74vxmtJzAEYjy1wfVCk"
@@ -9212,7 +9230,7 @@
       ],
       "date_added": "2023-09-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-03",
+      "date_removed": null,
       "duration_ms": 130093,
       "name": "Explosion Ech poleczko - DNSQ Remix",
       "url": "https://open.spotify.com/track/3QHZAr43uvIGpWfJAHhFX3"
@@ -9484,6 +9502,24 @@
       "duration_ms": 206693,
       "name": "Felga",
       "url": "https://open.spotify.com/track/5WejXxDkYAb86sLa5QOg8m"
+    },
+    {
+      "album": {
+        "name": "Feliz Navidad",
+        "url": "https://open.spotify.com/album/3No96PtEFyRfX1oELmZTPu"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Feliciano",
+          "url": "https://open.spotify.com/artist/7K78lVZ8XzkjfRSI7570FF"
+        }
+      ],
+      "date_added": "2023-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182066,
+      "name": "Feliz Navidad",
+      "url": "https://open.spotify.com/track/0oPdaY4dXtc3ZsaG17V972"
     },
     {
       "album": {
@@ -10470,7 +10506,7 @@
       ],
       "date_added": "2023-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-04",
       "duration_ms": 39573,
       "name": "Gniew",
       "url": "https://open.spotify.com/track/3Xk4Hx4dhL0tzGCABjMbDA"
@@ -15112,7 +15148,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-28",
+      "date_removed": null,
       "duration_ms": 226413,
       "name": "Kto wie?",
       "url": "https://open.spotify.com/track/1uxcfbhnvYPwqBlSRwDIZV"
@@ -15214,7 +15250,7 @@
       ],
       "date_added": "2023-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-04",
       "duration_ms": 132413,
       "name": "K\u0142amca k\u0142amca",
       "url": "https://open.spotify.com/track/34kVU0e40U4yWQfTbllyRZ"
@@ -15786,7 +15822,7 @@
       ],
       "date_added": "2023-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-04",
       "duration_ms": 41946,
       "name": "Lenistwo",
       "url": "https://open.spotify.com/track/0jbsFtAainW2Jsre4C9zgD"
@@ -17710,7 +17746,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-28",
+      "date_removed": null,
       "duration_ms": 182946,
       "name": "Mistletoe",
       "url": "https://open.spotify.com/track/7xapw9Oy21WpfEcib2ErSA"
@@ -19102,7 +19138,7 @@
       ],
       "date_added": "2023-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-04",
       "duration_ms": 219986,
       "name": "Nad nami",
       "url": "https://open.spotify.com/track/2mvR9d2EcWUbm2jvHJ6YpN"
@@ -21324,7 +21360,7 @@
       ],
       "date_added": "2023-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-04",
       "duration_ms": 199533,
       "name": "Otch\u0142a\u0144",
       "url": "https://open.spotify.com/track/2XSiWZJ40OfVG5jc3uegV3"
@@ -26518,7 +26554,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-29",
+      "date_removed": null,
       "duration_ms": 181266,
       "name": "Sleigh Ride",
       "url": "https://open.spotify.com/track/7fUYUcWy853HS8YJn0b3Sr"
@@ -28224,7 +28260,7 @@
       ],
       "date_added": "2023-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-03",
+      "date_removed": null,
       "duration_ms": 180937,
       "name": "Taxi",
       "url": "https://open.spotify.com/track/1g88Qpz9ZsJM1hlB3PLdgY"
@@ -29630,6 +29666,24 @@
     {
       "album": {
         "name": "Wrapped In Red",
+        "url": "https://open.spotify.com/album/7Jahqd1kx9Qau0E9x9iZj6"
+      },
+      "artists": [
+        {
+          "name": "Kelly Clarkson",
+          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
+        }
+      ],
+      "date_added": "2023-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229640,
+      "name": "Underneath the Tree",
+      "url": "https://open.spotify.com/track/3YZE5qDV7u1ZD1gZc47ZeR"
+    },
+    {
+      "album": {
+        "name": "Wrapped In Red",
         "url": "https://open.spotify.com/album/0t70lpfTyHEv0uuq21fhdZ"
       },
       "artists": [
@@ -30846,7 +30900,7 @@
       ],
       "date_added": "2023-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-04",
       "duration_ms": 250586,
       "name": "Wieczna gra",
       "url": "https://open.spotify.com/track/7xkTinVeHSrHdHL3sNiVln"
@@ -33072,7 +33126,7 @@
       ],
       "date_added": "2023-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-04",
       "duration_ms": 39026,
       "name": "\u0141akomstwo",
       "url": "https://open.spotify.com/track/1wNEdqSTBlElsKNjoDEEiy"

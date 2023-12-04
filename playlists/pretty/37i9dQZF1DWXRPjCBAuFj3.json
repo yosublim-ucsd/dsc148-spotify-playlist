@@ -1,12 +1,12 @@
 {
   "description": "Il rap pi\u00f9 forte del mondo in una sola playlist. Cover: Gazo, Tiakola",
-  "num_followers": 208601,
+  "num_followers": 208622,
   "original_name": "Rap Internazionale",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzY2IwZmRkYzhhNTc5NTlmMWIwZTY0ZTljMWI2OGVmY2U1ZGM0NGVh",
+  "snapshot_id": "MCwwNzc0ZTY4YmI0M2Q0OGY3OTBhZjdmNGQzNjM0OWUwMWM1ZDZlOGEy",
   "tracks": [
     {
       "added_at": "2023-12-01 09:06:00",
@@ -239,6 +239,26 @@
     {
       "added_at": "2023-12-01 09:06:00",
       "album": {
+        "name": "Casanova",
+        "url": "https://open.spotify.com/album/2m57s4b2rbxphb86w4LeeA"
+      },
+      "artists": [
+        {
+          "name": "Soolking",
+          "url": "https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds"
+        },
+        {
+          "name": "Gazo",
+          "url": "https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I"
+        }
+      ],
+      "duration_ms": 189090,
+      "name": "Casanova",
+      "url": "https://open.spotify.com/track/30D9x5LFgL2o9xidjX2wtE"
+    },
+    {
+      "added_at": "2023-12-01 09:06:00",
+      "album": {
         "name": "Watch This (ARIZONATEARS Pluggnb Remix)",
         "url": "https://open.spotify.com/album/3VvPLpCZR5viLBFTbzm6E1"
       },
@@ -259,26 +279,6 @@
       "duration_ms": 163139,
       "name": "Watch This - ARIZONATEARS Pluggnb Remix",
       "url": "https://open.spotify.com/track/0FA4wrjDJvJTTU8AepZTup"
-    },
-    {
-      "added_at": "2023-12-01 09:06:00",
-      "album": {
-        "name": "Casanova",
-        "url": "https://open.spotify.com/album/2m57s4b2rbxphb86w4LeeA"
-      },
-      "artists": [
-        {
-          "name": "Soolking",
-          "url": "https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds"
-        },
-        {
-          "name": "Gazo",
-          "url": "https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I"
-        }
-      ],
-      "duration_ms": 189090,
-      "name": "Casanova",
-      "url": "https://open.spotify.com/track/30D9x5LFgL2o9xidjX2wtE"
     },
     {
       "added_at": "2023-12-01 09:06:00",
@@ -495,22 +495,18 @@
     {
       "added_at": "2023-12-01 09:06:00",
       "album": {
-        "name": "Bongos (feat. Megan Thee Stallion)",
-        "url": "https://open.spotify.com/album/3XYWRia8E82cJI6WrDLTTQ"
+        "name": "LET GO",
+        "url": "https://open.spotify.com/album/1QYPAEk2Ksj3WPv3mvoDnL"
       },
       "artists": [
         {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
-        },
-        {
-          "name": "Megan Thee Stallion",
-          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+          "name": "Central Cee",
+          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
         }
       ],
-      "duration_ms": 175099,
-      "name": "Bongos (feat. Megan Thee Stallion)",
-      "url": "https://open.spotify.com/track/4YQImHflXSiIMXntcwPkx8"
+      "duration_ms": 174246,
+      "name": "LET GO",
+      "url": "https://open.spotify.com/track/3zkyus0njMCL6phZmNNEeN"
     },
     {
       "added_at": "2023-12-01 09:06:00",
@@ -531,22 +527,22 @@
     {
       "added_at": "2023-12-01 09:06:00",
       "album": {
-        "name": "All My Life (feat. J. Cole)",
-        "url": "https://open.spotify.com/album/0lZQagJ5r0crB35zphSD4A"
+        "name": "Bongos (feat. Megan Thee Stallion)",
+        "url": "https://open.spotify.com/album/3XYWRia8E82cJI6WrDLTTQ"
       },
       "artists": [
         {
-          "name": "Lil Durk",
-          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
         },
         {
-          "name": "J. Cole",
-          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
         }
       ],
-      "duration_ms": 223878,
-      "name": "All My Life (feat. J. Cole)",
-      "url": "https://open.spotify.com/track/6HgWWaMu31KdOpEG5l28BG"
+      "duration_ms": 175099,
+      "name": "Bongos (feat. Megan Thee Stallion)",
+      "url": "https://open.spotify.com/track/4YQImHflXSiIMXntcwPkx8"
     },
     {
       "added_at": "2023-12-01 09:06:00",
@@ -587,18 +583,22 @@
     {
       "added_at": "2023-12-01 09:06:00",
       "album": {
-        "name": "LET GO",
-        "url": "https://open.spotify.com/album/1QYPAEk2Ksj3WPv3mvoDnL"
+        "name": "All My Life (feat. J. Cole)",
+        "url": "https://open.spotify.com/album/0lZQagJ5r0crB35zphSD4A"
       },
       "artists": [
         {
-          "name": "Central Cee",
-          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        },
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
         }
       ],
-      "duration_ms": 174246,
-      "name": "LET GO",
-      "url": "https://open.spotify.com/track/3zkyus0njMCL6phZmNNEeN"
+      "duration_ms": 223878,
+      "name": "All My Life (feat. J. Cole)",
+      "url": "https://open.spotify.com/track/6HgWWaMu31KdOpEG5l28BG"
     },
     {
       "added_at": "2023-12-01 09:06:00",
@@ -1035,6 +1035,22 @@
     {
       "added_at": "2023-12-01 09:06:00",
       "album": {
+        "name": "Que la famille",
+        "url": "https://open.spotify.com/album/2LOyzVRA6BJgfgGxQj21O1"
+      },
+      "artists": [
+        {
+          "name": "PNL",
+          "url": "https://open.spotify.com/artist/3NH8t45zOTqzlZgBvZRjvB"
+        }
+      ],
+      "duration_ms": 283493,
+      "name": "J\u2019comprends pas",
+      "url": "https://open.spotify.com/track/1CxtymiucDK0AB9vgGZ6q2"
+    },
+    {
+      "added_at": "2023-12-01 09:06:00",
+      "album": {
         "name": "Turn Yo Clic Up (feat. Future)",
         "url": "https://open.spotify.com/album/1LaC62xZdpsUF19kVBbPCy"
       },
@@ -1051,22 +1067,6 @@
       "duration_ms": 230835,
       "name": "Turn Yo Clic Up (feat. Future)",
       "url": "https://open.spotify.com/track/7LTCmtMpf3JPfBE8gAl64z"
-    },
-    {
-      "added_at": "2023-12-01 09:06:00",
-      "album": {
-        "name": "Que la famille",
-        "url": "https://open.spotify.com/album/2LOyzVRA6BJgfgGxQj21O1"
-      },
-      "artists": [
-        {
-          "name": "PNL",
-          "url": "https://open.spotify.com/artist/3NH8t45zOTqzlZgBvZRjvB"
-        }
-      ],
-      "duration_ms": 283493,
-      "name": "J\u2019comprends pas",
-      "url": "https://open.spotify.com/track/1CxtymiucDK0AB9vgGZ6q2"
     },
     {
       "added_at": "2023-12-01 09:06:00",
@@ -1163,6 +1163,22 @@
     {
       "added_at": "2023-12-01 09:06:00",
       "album": {
+        "name": "Je M'appelle",
+        "url": "https://open.spotify.com/album/6T6uWGOSAUhvoZfLlIyDuJ"
+      },
+      "artists": [
+        {
+          "name": "Benzz",
+          "url": "https://open.spotify.com/artist/2GYIFLUsVVHPPUzOfJndRh"
+        }
+      ],
+      "duration_ms": 139574,
+      "name": "Je M'appelle",
+      "url": "https://open.spotify.com/track/6A3SB2C4U6JtCavQOXLYNN"
+    },
+    {
+      "added_at": "2023-12-01 09:06:00",
+      "album": {
         "name": "WHAT'S THE MOVE? (feat. Future and BabyDrill)",
         "url": "https://open.spotify.com/album/4GwIahaGnJ2cA4QfAJ74nF"
       },
@@ -1183,22 +1199,6 @@
       "duration_ms": 199547,
       "name": "WHAT'S THE MOVE? (feat. Future and BabyDrill)",
       "url": "https://open.spotify.com/track/0oqnZWNBvobs1t181f45Ck"
-    },
-    {
-      "added_at": "2023-12-01 09:06:00",
-      "album": {
-        "name": "Je M'appelle",
-        "url": "https://open.spotify.com/album/6T6uWGOSAUhvoZfLlIyDuJ"
-      },
-      "artists": [
-        {
-          "name": "Benzz",
-          "url": "https://open.spotify.com/artist/2GYIFLUsVVHPPUzOfJndRh"
-        }
-      ],
-      "duration_ms": 139574,
-      "name": "Je M'appelle",
-      "url": "https://open.spotify.com/track/6A3SB2C4U6JtCavQOXLYNN"
     },
     {
       "added_at": "2023-12-01 09:06:00",
@@ -1263,34 +1263,6 @@
     {
       "added_at": "2023-12-01 09:06:00",
       "album": {
-        "name": "WHATS POPPIN (feat. DaBaby, Tory Lanez & Lil Wayne) [Remix]",
-        "url": "https://open.spotify.com/album/36jrqYRpGVpJqztuqCii22"
-      },
-      "artists": [
-        {
-          "name": "Jack Harlow",
-          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
-        },
-        {
-          "name": "Tory Lanez",
-          "url": "https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg"
-        },
-        {
-          "name": "DaBaby",
-          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
-        },
-        {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
-        }
-      ],
-      "duration_ms": 227478,
-      "name": "WHATS POPPIN (feat. DaBaby, Tory Lanez & Lil Wayne) - Remix",
-      "url": "https://open.spotify.com/track/2MbdDtCv5LUVjYy9RuGTgC"
-    },
-    {
-      "added_at": "2023-12-01 09:06:00",
-      "album": {
         "name": "In My Head",
         "url": "https://open.spotify.com/album/4I00tpvL54vnWy49vH5fRK"
       },
@@ -1323,22 +1295,30 @@
     {
       "added_at": "2023-12-01 09:06:00",
       "album": {
-        "name": "Pretty Girl (with Rema)",
-        "url": "https://open.spotify.com/album/4IjqbyZZsfaNHnxV92CFuH"
+        "name": "WHATS POPPIN (feat. DaBaby, Tory Lanez & Lil Wayne) [Remix]",
+        "url": "https://open.spotify.com/album/36jrqYRpGVpJqztuqCii22"
       },
       "artists": [
         {
-          "name": "Ice Spice",
-          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
         },
         {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+          "name": "Tory Lanez",
+          "url": "https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg"
+        },
+        {
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
         }
       ],
-      "duration_ms": 137907,
-      "name": "Pretty Girl (with Rema)",
-      "url": "https://open.spotify.com/track/1p5GikXPiCkw5T2VrSPrO1"
+      "duration_ms": 227478,
+      "name": "WHATS POPPIN (feat. DaBaby, Tory Lanez & Lil Wayne) - Remix",
+      "url": "https://open.spotify.com/track/2MbdDtCv5LUVjYy9RuGTgC"
     },
     {
       "added_at": "2023-12-01 09:06:00",
@@ -1375,6 +1355,26 @@
       "duration_ms": 128014,
       "name": "Onna Come Up",
       "url": "https://open.spotify.com/track/0e4A9Fak1nJ7RtBD8YpoEo"
+    },
+    {
+      "added_at": "2023-12-01 09:06:00",
+      "album": {
+        "name": "Pretty Girl (with Rema)",
+        "url": "https://open.spotify.com/album/4IjqbyZZsfaNHnxV92CFuH"
+      },
+      "artists": [
+        {
+          "name": "Ice Spice",
+          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
+        },
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        }
+      ],
+      "duration_ms": 137907,
+      "name": "Pretty Girl (with Rema)",
+      "url": "https://open.spotify.com/track/1p5GikXPiCkw5T2VrSPrO1"
     },
     {
       "added_at": "2023-12-01 09:06:00",
@@ -1551,22 +1551,6 @@
     {
       "added_at": "2023-12-01 09:06:00",
       "album": {
-        "name": "J'fais que danser",
-        "url": "https://open.spotify.com/album/4w7f8o2ZkjNPBJalSVrh27"
-      },
-      "artists": [
-        {
-          "name": "Jul",
-          "url": "https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy"
-        }
-      ],
-      "duration_ms": 173586,
-      "name": "J'fais que danser",
-      "url": "https://open.spotify.com/track/0SqLN8ZqucYOGZH7SD4HGC"
-    },
-    {
-      "added_at": "2023-12-01 09:06:00",
-      "album": {
         "name": "When I Was Dead",
         "url": "https://open.spotify.com/album/65SsQtOf5Cd25fanX62XRR"
       },
@@ -1579,6 +1563,22 @@
       "duration_ms": 165765,
       "name": "Lemme See",
       "url": "https://open.spotify.com/track/53QRPT9Z42ALxGL1YGT9x1"
+    },
+    {
+      "added_at": "2023-12-01 09:06:00",
+      "album": {
+        "name": "J'fais que danser",
+        "url": "https://open.spotify.com/album/4w7f8o2ZkjNPBJalSVrh27"
+      },
+      "artists": [
+        {
+          "name": "Jul",
+          "url": "https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy"
+        }
+      ],
+      "duration_ms": 173586,
+      "name": "J'fais que danser",
+      "url": "https://open.spotify.com/track/0SqLN8ZqucYOGZH7SD4HGC"
     },
     {
       "added_at": "2023-12-01 09:06:00",
@@ -1623,6 +1623,26 @@
       "duration_ms": 189011,
       "name": "RIOT (Rowdy Pipe'n)",
       "url": "https://open.spotify.com/track/0B1xarnfKvUFWUoFdQnooq"
+    },
+    {
+      "added_at": "2023-12-01 09:06:00",
+      "album": {
+        "name": "YOUNGSTA",
+        "url": "https://open.spotify.com/album/65dEDwbxXWzx93f6Vs5A0Q"
+      },
+      "artists": [
+        {
+          "name": "UZI",
+          "url": "https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1"
+        },
+        {
+          "name": "Baby Gang",
+          "url": "https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0"
+        }
+      ],
+      "duration_ms": 172427,
+      "name": "SIMARIK",
+      "url": "https://open.spotify.com/track/5m0FBZ3g71Tv2v5XYZ4pKv"
     },
     {
       "added_at": "2023-12-01 09:06:00",
@@ -1695,26 +1715,6 @@
       "duration_ms": 213975,
       "name": "Right On",
       "url": "https://open.spotify.com/track/6ws54n2IzyrIxxyzlG2bVJ"
-    },
-    {
-      "added_at": "2023-12-01 09:06:00",
-      "album": {
-        "name": "YOUNGSTA",
-        "url": "https://open.spotify.com/album/65dEDwbxXWzx93f6Vs5A0Q"
-      },
-      "artists": [
-        {
-          "name": "UZI",
-          "url": "https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1"
-        },
-        {
-          "name": "Baby Gang",
-          "url": "https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0"
-        }
-      ],
-      "duration_ms": 172427,
-      "name": "SIMARIK",
-      "url": "https://open.spotify.com/track/5m0FBZ3g71Tv2v5XYZ4pKv"
     },
     {
       "added_at": "2023-12-01 09:06:00",
@@ -1843,22 +1843,6 @@
     {
       "added_at": "2023-12-01 09:06:00",
       "album": {
-        "name": "Kat Food",
-        "url": "https://open.spotify.com/album/0hyOMHe8ZFK0oCZhb2xnks"
-      },
-      "artists": [
-        {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
-        }
-      ],
-      "duration_ms": 286579,
-      "name": "Kat Food",
-      "url": "https://open.spotify.com/track/6WYo4HDHHvMJZU1lNebB3V"
-    },
-    {
-      "added_at": "2023-12-01 09:06:00",
-      "album": {
         "name": "Latest Trends",
         "url": "https://open.spotify.com/album/0vkahJN8SNXT05PgGc46nu"
       },
@@ -1871,6 +1855,22 @@
       "duration_ms": 158117,
       "name": "Latest Trends",
       "url": "https://open.spotify.com/track/7pnQ23WgZca9jEfMts9qsR"
+    },
+    {
+      "added_at": "2023-12-01 09:06:00",
+      "album": {
+        "name": "Kat Food",
+        "url": "https://open.spotify.com/album/0hyOMHe8ZFK0oCZhb2xnks"
+      },
+      "artists": [
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        }
+      ],
+      "duration_ms": 286579,
+      "name": "Kat Food",
+      "url": "https://open.spotify.com/track/6WYo4HDHHvMJZU1lNebB3V"
     },
     {
       "added_at": "2023-12-01 09:06:00",
@@ -2303,6 +2303,22 @@
     {
       "added_at": "2023-12-01 09:06:00",
       "album": {
+        "name": "C'est quand qu'il s'\u00e9teint ?",
+        "url": "https://open.spotify.com/album/1WYGwCvsfFrr7kuQcfNnJr"
+      },
+      "artists": [
+        {
+          "name": "Jul",
+          "url": "https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy"
+        }
+      ],
+      "duration_ms": 251266,
+      "name": "Entra\u00eenement",
+      "url": "https://open.spotify.com/track/5JwqiWLLvi0HGABtvw57eX"
+    },
+    {
+      "added_at": "2023-12-01 09:06:00",
+      "album": {
         "name": "CARACAS",
         "url": "https://open.spotify.com/album/5rvrYFIWTdEb3XsC38jtOe"
       },
@@ -2319,22 +2335,6 @@
       "duration_ms": 147096,
       "name": "CARACAS",
       "url": "https://open.spotify.com/track/17vItZcGnnlgsoV7HWhUF2"
-    },
-    {
-      "added_at": "2023-12-01 09:06:00",
-      "album": {
-        "name": "Why Would I?",
-        "url": "https://open.spotify.com/album/2lAvIgCeAzIgdjJHLjuBt5"
-      },
-      "artists": [
-        {
-          "name": "Fivio Foreign",
-          "url": "https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM"
-        }
-      ],
-      "duration_ms": 119172,
-      "name": "Why Would I?",
-      "url": "https://open.spotify.com/track/5IN2qvFpISNge4Bed3fJz4"
     }
   ],
   "unique_name": "Rap Internazionale",

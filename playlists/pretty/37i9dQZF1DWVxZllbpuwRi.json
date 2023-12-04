@@ -1,12 +1,12 @@
 {
   "description": "Aqui o ver\u00e3o dura 365 dias! Passe o protetor solar, aumente o som e aperte o play!",
-  "num_followers": 620957,
+  "num_followers": 620922,
   "original_name": "Ver\u00e3o Forever",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMzc1ZmRlZmNmYjBkNWU1ZTlmZDkwOGYzOTdiMzJiYWI0ZTkyYThk",
+  "snapshot_id": "MCw1YTliNzdmNzI0ZWZiZjQyNzFjNDFlMDNiMDE3ZTExMjE1OGFiMzkw",
   "tracks": [
     {
       "added_at": "2023-02-17 03:00:00",
@@ -751,26 +751,6 @@
     {
       "added_at": "2023-02-17 03:00:00",
       "album": {
-        "name": "Haw\u00e1i (Remix)",
-        "url": "https://open.spotify.com/album/1Ag9EPbzibwzz0S0WpgX3v"
-      },
-      "artists": [
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        },
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        }
-      ],
-      "duration_ms": 200481,
-      "name": "Haw\u00e1i - Remix",
-      "url": "https://open.spotify.com/track/0GzuHFG4Ql6DoyxFRnIk3F"
-    },
-    {
-      "added_at": "2023-02-17 03:00:00",
-      "album": {
         "name": "Baila Conmigo (feat. Kelly Ruiz)",
         "url": "https://open.spotify.com/album/68hy2xnNgeo0dO0YOm4Th7"
       },
@@ -795,18 +775,22 @@
     {
       "added_at": "2023-02-17 03:00:00",
       "album": {
-        "name": "Youngblood",
-        "url": "https://open.spotify.com/album/16Qs4jnIyXe7jprnMNRddy"
+        "name": "Haw\u00e1i (Remix)",
+        "url": "https://open.spotify.com/album/1Ag9EPbzibwzz0S0WpgX3v"
       },
       "artists": [
         {
-          "name": "5 Seconds of Summer",
-          "url": "https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy"
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        },
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
         }
       ],
-      "duration_ms": 203417,
-      "name": "Youngblood",
-      "url": "https://open.spotify.com/track/55S2PQgSMYAhgoTCcGCDfw"
+      "duration_ms": 200481,
+      "name": "Haw\u00e1i - Remix",
+      "url": "https://open.spotify.com/track/0GzuHFG4Ql6DoyxFRnIk3F"
     },
     {
       "added_at": "2023-02-17 03:00:00",
@@ -827,6 +811,22 @@
       "duration_ms": 231920,
       "name": "Clandestino",
       "url": "https://open.spotify.com/track/7DrluKkTviBwCc8AV3VGmf"
+    },
+    {
+      "added_at": "2023-02-17 03:00:00",
+      "album": {
+        "name": "Youngblood",
+        "url": "https://open.spotify.com/album/16Qs4jnIyXe7jprnMNRddy"
+      },
+      "artists": [
+        {
+          "name": "5 Seconds of Summer",
+          "url": "https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy"
+        }
+      ],
+      "duration_ms": 203417,
+      "name": "Youngblood",
+      "url": "https://open.spotify.com/track/55S2PQgSMYAhgoTCcGCDfw"
     },
     {
       "added_at": "2023-02-17 03:00:00",
@@ -2011,6 +2011,30 @@
     {
       "added_at": "2023-02-17 03:00:00",
       "album": {
+        "name": "Savages",
+        "url": "https://open.spotify.com/album/4fOyvPBU7A3PYkc0gAodTL"
+      },
+      "artists": [
+        {
+          "name": "Sunnery James & Ryan Marciano",
+          "url": "https://open.spotify.com/artist/7kABWMhjA5GIl9PBEasBPt"
+        },
+        {
+          "name": "Bruno Martini",
+          "url": "https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L"
+        },
+        {
+          "name": "Mayra",
+          "url": "https://open.spotify.com/artist/3XSWVsSggcTo6Bv8pcDqnt"
+        }
+      ],
+      "duration_ms": 175020,
+      "name": "Savages",
+      "url": "https://open.spotify.com/track/5d3NlNeGMJRu8EIT0X559G"
+    },
+    {
+      "added_at": "2023-02-17 03:00:00",
+      "album": {
         "name": "MAMACITA (remixes)",
         "url": "https://open.spotify.com/album/2lp5TTSc5rQcb8RAtI0Owq"
       },
@@ -2035,30 +2059,6 @@
       "duration_ms": 138439,
       "name": "MAMACITA (Rafinha RSQ remix) (feat. Rafinha RSQ)",
       "url": "https://open.spotify.com/track/7kDbReexSaT5kuJrPeKSpE"
-    },
-    {
-      "added_at": "2023-02-17 03:00:00",
-      "album": {
-        "name": "Savages",
-        "url": "https://open.spotify.com/album/4fOyvPBU7A3PYkc0gAodTL"
-      },
-      "artists": [
-        {
-          "name": "Sunnery James & Ryan Marciano",
-          "url": "https://open.spotify.com/artist/7kABWMhjA5GIl9PBEasBPt"
-        },
-        {
-          "name": "Bruno Martini",
-          "url": "https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L"
-        },
-        {
-          "name": "Mayra",
-          "url": "https://open.spotify.com/artist/3XSWVsSggcTo6Bv8pcDqnt"
-        }
-      ],
-      "duration_ms": 175020,
-      "name": "Savages",
-      "url": "https://open.spotify.com/track/5d3NlNeGMJRu8EIT0X559G"
     },
     {
       "added_at": "2023-02-17 03:00:00",

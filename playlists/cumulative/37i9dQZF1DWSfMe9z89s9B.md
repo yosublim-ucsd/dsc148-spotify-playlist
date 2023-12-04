@@ -4,7 +4,7 @@
 
 > Leaders of the new school...Alternative R&B\. Cover: Sean Leon & Jessie Reyez
 
-1,038 songs - 2 day 7 hr 28 min
+1,039 songs - 2 day 7 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -388,7 +388,7 @@
 | [Good Love](https://open.spotify.com/track/4pfEs1kebSz7coMT9EhfoG) | [Otis Kane](https://open.spotify.com/artist/2rp9zfs7yPrwCGVl4CjWAl), [KALLITECHNIS](https://open.spotify.com/artist/6i3sYlO1zUHf5IWHpXt4Sl) | [Good Love](https://open.spotify.com/album/6644XhPFkGMwMcXeRsj8QL) | 3:09 | 2021-06-04 | 2022-07-27 |
 | [Good Mornin'](https://open.spotify.com/track/1pDOIIp3aHcabzH6lzEaef) | [Flwr Chyld](https://open.spotify.com/artist/33luNNaeHIJ5KfjW56aleZ), [Sebastian Mikael](https://open.spotify.com/artist/4hknFHNFp3UMm2Rbc6Ansf) | [Good Mornin'](https://open.spotify.com/album/6cNLcpoIxjswd3ijVeiTRa) | 2:22 | 2022-07-15 | 2022-10-15 |
 | [Good Mornin'](https://open.spotify.com/track/31DhZKH7E1T41TAnK0qyC5) | [Flwr Chyld](https://open.spotify.com/artist/33luNNaeHIJ5KfjW56aleZ), [Sebastian Mikael](https://open.spotify.com/artist/4hknFHNFp3UMm2Rbc6Ansf) | [Good Mornin'](https://open.spotify.com/album/64NvU8C9yzuAce13fu751Z) | 2:22 | 2022-07-15 | 2023-09-23 |
-| [Good News](https://open.spotify.com/track/2oXhUifLIC0brl2xFfjONm) | [Jamila Woods](https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B) | [Good News](https://open.spotify.com/album/4c0gGmxV7oCRLp79PrebTe) | 3:03 | 2023-09-15 |  |
+| [Good News](https://open.spotify.com/track/2oXhUifLIC0brl2xFfjONm) | [Jamila Woods](https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B) | [Good News](https://open.spotify.com/album/4c0gGmxV7oCRLp79PrebTe) | 3:03 | 2023-09-15 | 2023-12-04 |
 | [Good News](https://open.spotify.com/track/3p9zEhikB0h8QF3YbfNUcM) | [Shamiya Battles](https://open.spotify.com/artist/3NTdPQSh0JSz5c5AGngQyE) | [Good News](https://open.spotify.com/album/1vCKYpbMa1kg52IoOiCtaM) | 2:41 | 2021-06-11 | 2021-12-31 |
 | [Good Things \(Remix\)](https://open.spotify.com/track/3linBtGF8ouzEncml6s2ux) | [Jay Glavany](https://open.spotify.com/artist/6aT5HlqkUdmkXLk5dc4o3Q), [Benita](https://open.spotify.com/artist/7eg1HMzWrYIgVFtoq4UZZA) | [Good Things \(Remix\)](https://open.spotify.com/album/4rMkdfw5lunESFETaf4TsH) | 3:37 | 2022-11-25 | 2023-02-04 |
 | [Goodbye Paris](https://open.spotify.com/track/7vDTqg9YLvr3ONmSrPleCL) | [Santino Le Saint](https://open.spotify.com/artist/49WBtnIs3VA1tHR7jQG1F6) | [Goodbye Paris](https://open.spotify.com/album/1j9bISVe9klnDse00amxRQ) | 3:45 | 2022-09-23 | 2023-02-04 |
@@ -670,6 +670,7 @@
 | [Outta This World](https://open.spotify.com/track/7G07BhMd2IrDD23C0MHsww) | [Harrison](https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT), [TOBi](https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN) | [Outta This World](https://open.spotify.com/album/4AQJLbmwplWDQ5KvU4WJFG) | 2:45 | 2022-04-01 | 2022-08-13 |
 | [Palm Wine Dreamz](https://open.spotify.com/track/5aYuMcDrdKnfj9rjfKGeWW) | [Azekel](https://open.spotify.com/artist/446nYwuXzCKnDwZUu4kGQA), [anaiis](https://open.spotify.com/artist/0OtS8ueEJDd0RZnHdHOJDl), [Kojey Radical](https://open.spotify.com/artist/1HMhQzj2QXxR40zGDdaK6y) | [Palm Wine Dreamz](https://open.spotify.com/album/5oqMDtxSMqki1Kr2P3qr1b) | 3:51 | 2022-10-14 | 2022-10-29 |
 | [Paper Thin](https://open.spotify.com/track/1rV59uezLaLErSyjNHPhTJ) | [Lianne La Havas](https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt) | [Paper Thin](https://open.spotify.com/album/33fybrWr3dFLVT8ZViCSc7) | 4:58 | 2022-04-01 | 2022-04-14 |
+| [paralyzed](https://open.spotify.com/track/5mJN7OPMym5RU7iODPV7SL) | [Souly Had](https://open.spotify.com/artist/20WmX0l9JgOpehDOAXY6iO) | [paralyzed](https://open.spotify.com/album/2pLMdZ6fSfEHkduFOLmZp9) | 2:01 | 2023-12-01 |  |
 | [Paranoid](https://open.spotify.com/track/6j8HM3EDv4QQSq4M9cd0dY) | [Lani Rose](https://open.spotify.com/artist/7bdI7Q9ffxcej6cfVUktvb) | [Paranoid](https://open.spotify.com/album/7JOv3QfjZAvwXUsUFoxI9N) | 3:21 | 2021-05-14 | 2022-04-15 |
 | [Parmesan](https://open.spotify.com/track/37d0TegvP0JpoAQcclpL3b) | [Kyle Dion](https://open.spotify.com/artist/5qfkUSH3ip5dD2eEPhjkT3) | [Parmesan](https://open.spotify.com/album/2zPNCcIG1HfKJqXwubxbgW) | 2:38 | 2021-09-10 | 2022-06-27 |
 | [Party](https://open.spotify.com/track/4TofowAu3RF1cIfioP3iTe) | [Kenneth Whalum](https://open.spotify.com/artist/2lnrl1gyJvhaFtNIIRnB16) | [Party](https://open.spotify.com/album/39VV9CgOw89msE6jn2jxNW) | 4:11 | 2021-06-04 | 2022-01-29 |

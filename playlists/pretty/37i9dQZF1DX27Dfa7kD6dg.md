@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX27Dfa7kD6dg.md) - [plain]
 
 > New York salsa...it's home.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,082 likes - 115 songs - 8 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,168 likes - 115 songs - 8 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX27Dfa7kD6dg.md) - [plain]
 | 47 | [Esos Ojitos Negros](https://open.spotify.com/track/0rjZnZyqRc95UlV4lQNhxn) | [El Gran Combo De Puerto Rico](https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu) | [25th Anniversary](https://open.spotify.com/album/7GO5kZOp732nPbwGVsQePn) | 4:34 |
 | 48 | [Pirata](https://open.spotify.com/track/25yBFDuKXnpPdlBSYZPZvF) | [Yiyo Sarante](https://open.spotify.com/artist/2rwLjVHS15sfzciKXXNbgA) | [Singles](https://open.spotify.com/album/6tiLc1GWbqY9MScyrQGeI9) | 5:38 |
 | 49 | [Acuyuye](https://open.spotify.com/track/5LCpO7pp92DHmXzCLtJnnj) | [Johnny Pacheco](https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o) | [Pacheco Y Su Charanga Vol\. 3: Que Suene La Flauta](https://open.spotify.com/album/694VA7cAltUDJrYV05dvsy) | 2:33 |
-| 50 | [Ran Kan Kan](https://open.spotify.com/track/3FCN9xduajof2MGIJbWdGe) | [Tito Puente](https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX) | [The Latin World Of Tito Puente](https://open.spotify.com/album/4jDlifFGsIq4Am1bSbCXVH) | 3:10 |
-| 51 | [Bamboléo](https://open.spotify.com/track/4Gu8MRCmbJbX2sGueXipVg) | [Fania All Stars](https://open.spotify.com/artist/1OdyhpUABf8avaZ9r8nI1u), [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Bamboléo](https://open.spotify.com/album/10FXtMH6uOwaTMFs9bpmY2) | 5:27 |
+| 50 | [Bamboléo](https://open.spotify.com/track/4Gu8MRCmbJbX2sGueXipVg) | [Fania All Stars](https://open.spotify.com/artist/1OdyhpUABf8avaZ9r8nI1u), [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Bamboléo](https://open.spotify.com/album/10FXtMH6uOwaTMFs9bpmY2) | 5:27 |
+| 51 | [Ran Kan Kan](https://open.spotify.com/track/3FCN9xduajof2MGIJbWdGe) | [Tito Puente](https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX) | [The Latin World Of Tito Puente](https://open.spotify.com/album/4jDlifFGsIq4Am1bSbCXVH) | 3:10 |
 | 52 | [Linda Mujer](https://open.spotify.com/track/0jJmkvcRT2vGETrMAgwmIk) | [El Timba](https://open.spotify.com/artist/0O0OynmaAvfmXAsBwNHBwi), [Fabio Gianni](https://open.spotify.com/artist/0l8NVW6mW9GPWR43ueCYPu) | [Guaguamambo](https://open.spotify.com/album/0LVF4qB04lxxLeUlXhqZS9) | 5:13 |
 | 53 | [Juan Pachanga](https://open.spotify.com/track/1jUMNoLhnrD3c8iWncVFSr) | [Rubén Blades](https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj), [Fania All Stars](https://open.spotify.com/artist/1OdyhpUABf8avaZ9r8nI1u) | [Bohemio y Poeta](https://open.spotify.com/album/08zXnylrEGWXgMcFI5eBm4) | 6:13 |
 | 54 | [Amor Perfecto](https://open.spotify.com/track/6aceQoxzSrHTvrmcAEOXaY) | [Alex Matos](https://open.spotify.com/artist/4nwpr7Msz5dvHftcPNkDRC) | [El Salsero De Ahora](https://open.spotify.com/album/3assxvTXExDZ6uxjvxojvQ) | 4:35 |
@@ -92,8 +92,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX27Dfa7kD6dg.md) - [plain]
 | 82 | [La Negra Tomasa](https://open.spotify.com/track/2gfri3SpCftv9UAqNJ1IDD) | [Vocal Sampling](https://open.spotify.com/artist/5WNsC1A1Bg1bCkylOw3bpD) | [Live in Berlin](https://open.spotify.com/album/0fKzk4CCTilGtw4T4lBxFi) | 4:19 |
 | 83 | [Tutuneco](https://open.spotify.com/track/2rGtqPVV2JQPkuxH3HRiu2) | [Cortijo Y Su Combo](https://open.spotify.com/artist/4S3JIryQM3mFVhXmQKjtma), [Ismael Rivera](https://open.spotify.com/artist/788HzQOFhN3mcDo0InBqbJ) | [La Epoca de Oro, Vol\. 1](https://open.spotify.com/album/3DeeTSAsbputi8InQLDtui) | 2:38 |
 | 84 | [Puerto Rico 2006 \(feat\. Eddie Palmieri\)](https://open.spotify.com/track/2ZDRSkczBnN0i1l4Ofybg9) | [Víctor Manuelle](https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2), [Eddie Palmieri](https://open.spotify.com/artist/2VviFtXYreO6Zn9n8Ibk6C) | [Decision Unanime](https://open.spotify.com/album/3koPizaQfKKMX9Fbp8j7fz) | 5:23 |
-| 85 | [Mambo Gozón](https://open.spotify.com/track/2P12SmID74922J8JwQd90j) | [Tito Puente](https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX) | [Here comes..\. Tito Puente!](https://open.spotify.com/album/4MOl4SznY1dtfg7MZYfROw) | 2:47 |
-| 86 | [Tumba La Caña Jibarito](https://open.spotify.com/track/3qiFFGj7QQ2XOFbO0NA56s) | [La Sonora Matancera](https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD), [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [La Dinámica!](https://open.spotify.com/album/0f3n5513x4jjxDMe8IvAaT) | 2:41 |
+| 85 | [Tumba La Caña Jibarito](https://open.spotify.com/track/3qiFFGj7QQ2XOFbO0NA56s) | [La Sonora Matancera](https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD), [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [La Dinámica!](https://open.spotify.com/album/0f3n5513x4jjxDMe8IvAaT) | 2:41 |
+| 86 | [Mambo Gozón](https://open.spotify.com/track/2P12SmID74922J8JwQd90j) | [Tito Puente](https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX) | [Here comes..\. Tito Puente!](https://open.spotify.com/album/4MOl4SznY1dtfg7MZYfROw) | 2:47 |
 | 87 | [Quiéreme Tal Como Soy](https://open.spotify.com/track/6w9ghQgpSD8gOa29mcnvd9) | [El Gran Combo De New York](https://open.spotify.com/artist/10fmLCyVtSdgMCYnjIPCpu) | [Salsa Sensual, Vol\. 1](https://open.spotify.com/album/20rmPQW0XSuaqPWu6Lqfkv) | 4:52 |
 | 88 | [Rumba Rumbero](https://open.spotify.com/track/4gsXvTDs4yC7LrnJpNsWLA) | [La Critica](https://open.spotify.com/artist/5poEGfCmeFo8HcoNaOLIo0) | [La Crítica: Salseros De Corazón, Vol\. 3](https://open.spotify.com/album/0icCOLmmUE8cpKPbLGrAel) | 4:03 |
 | 89 | [Por Eso Está Conmigo](https://open.spotify.com/track/6b0OsYDnKJNO7vM8YArVwz) | [Johnny Rivera](https://open.spotify.com/artist/6IcML1o1dzmMwBim7hyirf) | [Cuando Parará La Lluvia](https://open.spotify.com/album/0sHhkFC7qkLjTufP56kGlA) | 4:40 |
@@ -108,8 +108,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX27Dfa7kD6dg.md) - [plain]
 | 98 | [Ran Kan Kan](https://open.spotify.com/track/69ulmthmmwP9CaSqVQldoE) | [The Mambo Express](https://open.spotify.com/artist/6MnbaNwCECXZ66BEGXlTkl) | [Mambo Mania Vol\. 3](https://open.spotify.com/album/7GRXwv2BXJlOTU9QKLd44m) | 2:59 |
 | 99 | [Tanga](https://open.spotify.com/track/3Zl8hT1zwIa3wMlWFkfEWx) | [Machito & His Orchestra](https://open.spotify.com/artist/14IhDLK3FnairSloyYjw9h) | [Yo Soy La Rumba](https://open.spotify.com/album/5WVBmJISneoN4do5JPLcDx) | 3:34 |
 | 100 | [La Peluca](https://open.spotify.com/track/3cr60B0NqxUVBQARustTmn) | [Dave Santiago](https://open.spotify.com/artist/4re8q1mKhYrYr3i1ivlsVq) | [Dave Santiago & Latin Affair](https://open.spotify.com/album/5nsIWHi6VDXMiQw7s55YHY) | 5:22 |
-| 101 | [Cuando Sale El Sol](https://open.spotify.com/track/0uf3jiwe0HBtiQL8zUbVmO) | [Tito Rodriguez](https://open.spotify.com/artist/10n4KkyM4UDt4pf9H4aDlS) | [From Hollywood](https://open.spotify.com/album/7EXzKJRYWTAnZdmxCKtxtf) | 2:52 |
-| 102 | [Yo Me Quedo](https://open.spotify.com/track/6bwLgRFk9bZa59Uof5fXBf) | [Tony Vega](https://open.spotify.com/artist/3Yg61bt7pZYX1bbMXEj8oY) | [Oro Salsero](https://open.spotify.com/album/2tG9CZgoAY04Rr1iR5OstZ) | 4:59 |
+| 101 | [Yo Me Quedo](https://open.spotify.com/track/6bwLgRFk9bZa59Uof5fXBf) | [Tony Vega](https://open.spotify.com/artist/3Yg61bt7pZYX1bbMXEj8oY) | [Oro Salsero](https://open.spotify.com/album/2tG9CZgoAY04Rr1iR5OstZ) | 4:59 |
+| 102 | [Cuando Sale El Sol](https://open.spotify.com/track/0uf3jiwe0HBtiQL8zUbVmO) | [Tito Rodriguez](https://open.spotify.com/artist/10n4KkyM4UDt4pf9H4aDlS) | [From Hollywood](https://open.spotify.com/album/7EXzKJRYWTAnZdmxCKtxtf) | 2:52 |
 | 103 | [Tokyo Blues](https://open.spotify.com/track/3PHRSSdqkYjuX5JMO3auBc) | [Tito Puente](https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX) | [The Best Of The Concord Years](https://open.spotify.com/album/180D50gDi4kEpa2TpVbNQ3) | 5:15 |
 | 104 | [Un Telegrama](https://open.spotify.com/track/6D2ZGTWXKrvvRrwpQK765o) | [Cortijo Y Su Combo](https://open.spotify.com/artist/4S3JIryQM3mFVhXmQKjtma), [Ismael Rivera](https://open.spotify.com/artist/788HzQOFhN3mcDo0InBqbJ) | [La Epoca de Oro, Vol\. 1](https://open.spotify.com/album/3DeeTSAsbputi8InQLDtui) | 2:57 |
 | 105 | [New York State of Mind](https://open.spotify.com/track/3HP07vhvfEXajpBL0pgdsW) | [Bobby Rodriguez y La Compania](https://open.spotify.com/artist/4AlehYieSy692kucODs8Na) | [Juntos Otra Vez](https://open.spotify.com/album/1aDMTl12KZoP0RqOdiEXow) | 5:17 |
@@ -124,4 +124,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX27Dfa7kD6dg.md) - [plain]
 | 114 | [El Cantante](https://open.spotify.com/track/3gIZxkCKjNP1tft5TynUED) | [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Marc Anthony "El Cantante" OST](https://open.spotify.com/album/4MRdW6rlNSqpnCAZKGxqLC) | 6:47 |
 | 115 | [Insaciable](https://open.spotify.com/track/2NhpUxYubhTbFqn8PFNfwo) | [Eddie Santiago](https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I) | [Serie Millennium: Eddie Santiago](https://open.spotify.com/album/6trSesFexVgSw7P7eeSN6L) | 4:29 |
 
-Snapshot ID: `MCwzZDNhNTMwOWE1Yjc3ZWQ4NmI5ZTA3Zjc2OTMxNGNlMjc0MjhjMzNi`
+Snapshot ID: `MCxmZWIxMmE5NTc2OTE4MDhhNTVmMzU2MjA4YmIyN2Q3Y2Q4OTZiMmQ5`

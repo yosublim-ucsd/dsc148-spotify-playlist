@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrH4yMJbkL8.md) - [plain]
 
 > A free space for Indigenous creators\. Currently curated by Shawnee Kish.
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,591 likes - 28 songs - 1 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,607 likes - 28 songs - 1 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,4 +37,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrH4yMJbkL8.md) - [plain]
 | 27 | [Idle No More](https://open.spotify.com/track/4rDacArzBpLPCukfXVm4ZJ) | [Pura Fé](https://open.spotify.com/artist/4X29e8gzgjLJ6ZpFp6TljL) | [Sacred Seed](https://open.spotify.com/album/1u4jIt75xXcLPOb0EshZup) | 4:10 |
 | 28 | [Stella!](https://open.spotify.com/track/3UWENa1Y14I1bSC6HeS4ea) | [Shawnee Kish](https://open.spotify.com/artist/67KtTWjRTAU9ZkjRFnaffZ) | [Stella!](https://open.spotify.com/album/3AflcEw67i4FAw1HGZ6ll8) | 2:25 |
 
-Snapshot ID: `MCw5ZmYzYmI2OTJmZmZlZDUxYTY5YzhmOWU4ZGYxZDJmZGFiODUzZjRj`
+Snapshot ID: `MCw5MDgyZjY2YmNjY2M5ODNmZDQ1NzMxODRlMWZmY2Q4NGM1OWEyNTJj`

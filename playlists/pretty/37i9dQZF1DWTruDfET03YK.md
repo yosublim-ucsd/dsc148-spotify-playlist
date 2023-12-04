@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTruDfET03YK.md) - [plain]
 
 > Tu familia puede visitar a todos los animales en el zoológico con estas divertidas canciones.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,402 likes - 50 songs - 2 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,451 likes - 50 songs - 2 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,16 +28,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTruDfET03YK.md) - [plain]
 | 18 | [Pom pom gallinita](https://open.spotify.com/track/4kL7BS01ZXtIsWFdkClJVA) | [Trepsi](https://open.spotify.com/artist/6uqcdmVQzxfdgsKWB04shs) | [A cantar](https://open.spotify.com/album/1YkdGixY4sBJW3M3vBh0em) | 1:04 |
 | 19 | [Yo Tenia Diez Perritos](https://open.spotify.com/track/3VzVFDEJ3cvOCDB08X5WIk) | [Cepillin](https://open.spotify.com/artist/0GFoaoQJa0vY4qU3IL0aBZ) | [Rondas Infantiles](https://open.spotify.com/album/40U4IxZZ5vPTZ3L9piyH38) | 2:26 |
 | 20 | [Bichos](https://open.spotify.com/track/3peRufMxZi9baS60hEK4BN) | [Elenco Junior Express](https://open.spotify.com/artist/1qpObFWDQW9EPFSzAzi71h), [Diego Topa](https://open.spotify.com/artist/3y6NjjMEV0m5fSaz6AXTsa) | [Junior Express \- Grandes Éxitos](https://open.spotify.com/album/32PoW1uZHdQE8Gm3MGSkBG) | 2:45 |
-| 21 | [En el Arca de Noe](https://open.spotify.com/track/6uw29DF8FcbWlvf7AqR1va) | [Felix Canales](https://open.spotify.com/artist/023KBSapQrYaQEs8EgN0vx) | [Ronda Musical Infantil](https://open.spotify.com/album/0sJyrcUs0wpott1tvJvNXj) | 4:31 |
+| 21 | [Me Encantan las Mascotas](https://open.spotify.com/track/0zz7G0akn1b4eOrYLG0OUw) | [Blippi Español](https://open.spotify.com/artist/7ceSQbq8SfnNLlecfPpysV) | [Animales con Blippi, Vol.1](https://open.spotify.com/album/0vHxexw4c4CNfYvDoJO3RW) | 1:53 |
 | 22 | [La Vaca Lola](https://open.spotify.com/track/50jTH2CYOJdQaLSy0Xfmre) | [Canciones Infantiles En Español](https://open.spotify.com/artist/1FEmVBvJ5naZ1qBKeLcoHv) | [Canciones Infantiles Y Musica Infantil](https://open.spotify.com/album/33ljDtetHDbUlc3ZTp4Rlm) | 1:55 |
 | 23 | [Coco En Su Cueva](https://open.spotify.com/track/7vy0eOdRqLxWJTIQqHPYcQ) | [CantaJuego](https://open.spotify.com/artist/1A4041ctH86ZE5rFqr0Poe) | [Fiesta En La Aldea Encantada](https://open.spotify.com/album/69rQXystVGM2FksqbAO6M3) | 1:56 |
-| 24 | [Me Encantan las Mascotas](https://open.spotify.com/track/0zz7G0akn1b4eOrYLG0OUw) | [Blippi Español](https://open.spotify.com/artist/7ceSQbq8SfnNLlecfPpysV) | [Animales con Blippi, Vol.1](https://open.spotify.com/album/0vHxexw4c4CNfYvDoJO3RW) | 1:53 |
+| 24 | [En el Arca de Noe](https://open.spotify.com/track/6uw29DF8FcbWlvf7AqR1va) | [Felix Canales](https://open.spotify.com/artist/023KBSapQrYaQEs8EgN0vx) | [Ronda Musical Infantil](https://open.spotify.com/album/0sJyrcUs0wpott1tvJvNXj) | 4:31 |
 | 25 | [El Piojo y la Pulga](https://open.spotify.com/track/5nC6wXvj96JvcAafI4DUZA) | [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb) | [Viva Kids, Vol\. 1](https://open.spotify.com/album/7GaUkXZ3XoxhajIFGd2Cw5) | 2:32 |
 | 26 | [El Cocodrilo Dante](https://open.spotify.com/track/3IZ5vpnQpmTh5TrmaCsQZJ) | [El Reino Infantil](https://open.spotify.com/artist/6EMoWayH9WulC8F8b6m3BH) | [Canciones del Zoo Vol\. 4](https://open.spotify.com/album/7yWbd1Bb31ODxxN9bh9W0R) | 2:14 |
-| 27 | [El Tío McDonald Tenía una Granja](https://open.spotify.com/track/4PQHPHrY05iVfWnloiUuQf) | [Felix Canales](https://open.spotify.com/artist/023KBSapQrYaQEs8EgN0vx) | [Ronda Musical Infantil](https://open.spotify.com/album/0sJyrcUs0wpott1tvJvNXj) | 3:10 |
-| 28 | [El Cocodrilo](https://open.spotify.com/track/45ArinQcJRgEgyrtkGZbFN) | [Atención Atención](https://open.spotify.com/artist/18xacmB7GVCrXxcPX9IILZ) | [¿Donde Está el Sr\. Sapo?](https://open.spotify.com/album/4kXF33f9ZWq0WtSVJK3bnG) | 2:06 |
-| 29 | [La Carrera](https://open.spotify.com/track/6mf8fK0U38QThgimPGGdTJ) | [Cepillin](https://open.spotify.com/artist/0GFoaoQJa0vY4qU3IL0aBZ) | [El Payasito De La Tele Cepillín, Vol\. 1](https://open.spotify.com/album/0KIDmlACezipkHgQvcM0GR) | 3:15 |
-| 30 | [Bear's Song](https://open.spotify.com/track/6SB3SXYBAcOn3cYngy0Mrq) | [Маша и медведь](https://open.spotify.com/artist/6CJDS6xbJlxbBTUgALlHJa) | [Masha and the Bear Songs, Pt\. 2](https://open.spotify.com/album/0WAkPHAwKWomhcu2Sp4DYT) | 1:23 |
+| 27 | [El Cocodrilo](https://open.spotify.com/track/45ArinQcJRgEgyrtkGZbFN) | [Atención Atención](https://open.spotify.com/artist/18xacmB7GVCrXxcPX9IILZ) | [¿Donde Está el Sr\. Sapo?](https://open.spotify.com/album/4kXF33f9ZWq0WtSVJK3bnG) | 2:06 |
+| 28 | [Bear's Song](https://open.spotify.com/track/6SB3SXYBAcOn3cYngy0Mrq) | [Маша и медведь](https://open.spotify.com/artist/6CJDS6xbJlxbBTUgALlHJa) | [Masha and the Bear Songs, Pt\. 2](https://open.spotify.com/album/0WAkPHAwKWomhcu2Sp4DYT) | 1:23 |
+| 29 | [El Tío McDonald Tenía una Granja](https://open.spotify.com/track/4PQHPHrY05iVfWnloiUuQf) | [Felix Canales](https://open.spotify.com/artist/023KBSapQrYaQEs8EgN0vx) | [Ronda Musical Infantil](https://open.spotify.com/album/0sJyrcUs0wpott1tvJvNXj) | 3:10 |
+| 30 | [La Carrera](https://open.spotify.com/track/6mf8fK0U38QThgimPGGdTJ) | [Cepillin](https://open.spotify.com/artist/0GFoaoQJa0vY4qU3IL0aBZ) | [El Payasito De La Tele Cepillín, Vol\. 1](https://open.spotify.com/album/0KIDmlACezipkHgQvcM0GR) | 3:15 |
 | 31 | [El Circo](https://open.spotify.com/track/3qs4mRe6EjrjnnMiomwBqC) | [Xuxa](https://open.spotify.com/artist/4DOlsUBpxw706SXx05Xoi2) | [Xuxa Em Espanhol](https://open.spotify.com/album/46FmUNWIlYCuXXTIoFGSNi) | 3:20 |
 | 32 | [Papá Elefante \- Remasterizado](https://open.spotify.com/track/5E20c2Sv8JbguraSR9uhEh) | [Cri\-Cri](https://open.spotify.com/artist/4vM6clYXqkZbQv4O2OT5P4) | [Las 100 Clásicas de Cri Cri Vol\. 1](https://open.spotify.com/album/4fY0mv7l1rEmuBHOeLGq13) | 2:02 |
 | 33 | [El baile del sapito \- Remasterizado 2016](https://open.spotify.com/track/6N8lbqrViGQ5v4Xe1MZe1C) | [Pica\-Pica](https://open.spotify.com/artist/3oaNnQa52hlN69wvaatUE2) | [En Vivo \- Grandes Éxitos](https://open.spotify.com/album/7lRcKpMoYWFNvn2VLrXycs) | 3:04 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTruDfET03YK.md) - [plain]
 | 49 | [Piquito pajarito](https://open.spotify.com/track/14eG0RZsk1rp7dCOYkLbWK) | [Trepsi](https://open.spotify.com/artist/6uqcdmVQzxfdgsKWB04shs) | [La fiesta de cumpleaños](https://open.spotify.com/album/4CDg1C6bHxichuJfAkXH0a) | 0:49 |
 | 50 | [Animalitos](https://open.spotify.com/track/4QNh1CHTVaywsZFDN6iLSt) | [Ninaná](https://open.spotify.com/artist/4dAAAhQyqbw0QsuaM4aBSd) | [Animalitos](https://open.spotify.com/album/4Ecf2bOwqdmvo1DbEuv5n4) | 2:19 |
 
-Snapshot ID: `MCw1MmM3MjgxYjIwZjI5ZTc5ZDhjMzczNDJkYWFjNWM5Y2NlNjY5NDM5`
+Snapshot ID: `MCw4YTdiZmFjNTZlNTMyMzFhMDYzMmQwN2U4NWZhN2JmZDljNzg1MDI2`

@@ -4,7 +4,7 @@
 
 > All live, all blues\. Cover: Christone "Kingfish" Ingram
 
-147 songs - 14 hr 54 min
+148 songs - 14 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,8 @@
 | [Chills & Thrills \- Live](https://open.spotify.com/track/1oP2JLLzJNqoIMH5nh1iKi) | [Bernard Allison](https://open.spotify.com/artist/0oLmGtqMpKAAVNJyJ71AcI) | [Live at the Jazzhaus](https://open.spotify.com/album/5ecLOcNNAIyy2ItMEIMwK4) | 6:50 | 2020-10-30 |  |
 | [Cold Black Night \(Live at VH1\)](https://open.spotify.com/track/4YTn5VVoRwySkVvlHOgTU1) | [Gary Moore](https://open.spotify.com/artist/23wr9RJZg0PmYvVFyNkQ4j) | [Back to the Blues \(Deluxe Edition\)](https://open.spotify.com/album/0oy6FL21rdqKFlGEmJfuZp) | 4:05 | 2023-06-02 |  |
 | [Cold Black Night \- Live at VH1](https://open.spotify.com/track/7CqYhpvCsj0kyByDwyrtrs) | [Gary Moore](https://open.spotify.com/artist/23wr9RJZg0PmYvVFyNkQ4j) | [Cold Black Night \(Live at VH1\)](https://open.spotify.com/album/3rPGkz9zHgBj3Ctnk7JIhU) | 4:05 | 2023-05-26 | 2023-11-05 |
-| [Cotton Candy \- Live](https://open.spotify.com/track/2Reygj9CG2BmnNqZPULOuK) | [Robben Ford](https://open.spotify.com/artist/7C1CFA2GWGFc51SrvX5Bvy) | [Cotton Candy \(Live\)](https://open.spotify.com/album/3XGLVWhL9N8e1lotVkrE0G) | 4:20 | 2023-10-20 |  |
+| [Cotton Candy \- Live](https://open.spotify.com/track/0aYwusuQt3uMApBVdpgheX) | [Robben Ford](https://open.spotify.com/artist/7C1CFA2GWGFc51SrvX5Bvy) | [Night In The City \(Live\)](https://open.spotify.com/album/4l5Vneh2HKO5EP6oSWquxb) | 4:20 | 2023-10-20 |  |
+| [Cotton Candy \- Live](https://open.spotify.com/track/2Reygj9CG2BmnNqZPULOuK) | [Robben Ford](https://open.spotify.com/artist/7C1CFA2GWGFc51SrvX5Bvy) | [Cotton Candy \(Live\)](https://open.spotify.com/album/3XGLVWhL9N8e1lotVkrE0G) | 4:20 | 2023-10-20 | 2023-12-04 |
 | [Crossroads \- Live at The Royal Albert Hall, Rock Version](https://open.spotify.com/track/3nKzcSOvTSFTvB3tPe3mhH) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [The Definitive 24 Nights \(Live\)](https://open.spotify.com/album/7uLDovmFB97bee1kDTtCNl) | 8:55 | 2023-06-23 |  |
 | [Cry a Little \- Live](https://open.spotify.com/track/1jpJAC3fQxjU46UkOCzeDW) | [The Harpoonist & the Axe Murderer](https://open.spotify.com/artist/5DkVuI87mfB0mNCCUxj3CF) | [Live at the King Eddy](https://open.spotify.com/album/5R8DbXUDDdNOTQsQNBAQQP) | 4:16 | 2022-01-28 |  |
 | [Crying For My Baby](https://open.spotify.com/track/0nOUcZ1uWwVDxiZainF0O7) | [Son Seals](https://open.spotify.com/artist/0phMS1UDPTZlxuEnarDUKt) | [Live\-Spontaneous Combustion](https://open.spotify.com/album/319sQSVvGqeaNlCoJ2Zxc2) | 4:41 | 2020-10-30 | 2022-07-24 |

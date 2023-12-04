@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX0o6sD1a6P5.md) - [plain]
 
 > The hottest Afropop, Afrobeats and Afro\-Caribbean hits, all in one place\. Cover: Tyla
 
-[Spotify](https://open.spotify.com/user/spotify) - 856,268 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 856,608 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX0o6sD1a6P5.md) - [plain]
 | 49 | [No Collab](https://open.spotify.com/track/63cRmhV8qvWbpwiEmEp19g) | [Harley](https://open.spotify.com/artist/1w8f71fNCVvZtiz4DLd7N5), [Générations](https://open.spotify.com/artist/4oaKWkUkOcOROIPCyBuAod) | [Générations Street](https://open.spotify.com/album/7qqqHNJa7ILpXnMWjoeXvd) | 2:09 |
 | 50 | [Panadol](https://open.spotify.com/track/2VkxvwW5Vb3hWrB9so0cQ4) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [The Evil Genius](https://open.spotify.com/album/0odZlVIliO8lwKtykjMUxG) | 2:29 |
 
-Snapshot ID: `MCw0NzRmYTlkMWZjMTI1Yjc3NWZhZjgwMTE3MWNkMDllYjI1OTAyMmI5`
+Snapshot ID: `MCw5MzNhZDM1OWNlZmVkYTgxYzVhZDZjMGY0YTlmNjU2MGNkMzFjOWRl`

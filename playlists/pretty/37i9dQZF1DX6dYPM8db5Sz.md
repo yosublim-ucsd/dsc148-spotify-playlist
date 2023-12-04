@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dYPM8db5Sz.md) - [plain]
 
 > The best new indie music from South Africa and beyond\. Cover: <a href="https://open.spotify.com/artist/3S9sb8w9r1iojdrAL1soiU?si=eILjr2IURVCM\_iCCOf3d2w">Beatenberg</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,480 likes - 99 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,529 likes - 99 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dYPM8db5Sz.md) - [plain]
 | 71 | [Magic in you](https://open.spotify.com/track/46T0G1ko3VSHSMv5UcqFFL) | [Ashwin Smith](https://open.spotify.com/artist/21O1GLm7iw8np86CJ4hNtO) | [Magic in you](https://open.spotify.com/album/4kbiIlmmzbdJd6MtwQhDRM) | 3:01 |
 | 72 | [Play God](https://open.spotify.com/track/1JeNe2MbM5ho0WpCXOCbJ8) | [Cece Vee](https://open.spotify.com/artist/0f26bNon1mjIqBn1MxgxZp) | [Play God](https://open.spotify.com/album/7E9KWeTboK20nXJ5bzMElQ) | 3:47 |
 | 73 | [CYMBALS](https://open.spotify.com/track/1sODRUHlwWBXvx4wu6gQH5) | [Carla Franco](https://open.spotify.com/artist/6I2p0OQapwvqHXFaAqKmoI) | [LAYERS](https://open.spotify.com/album/6Luqz4dKQ3tXYH3hqFq4uC) | 2:46 |
-| 74 | [Dancing By Myself](https://open.spotify.com/track/1FGS4DKeGwZdXStDpwyAxh) | [Benjamin Rodrigues](https://open.spotify.com/artist/64Vss2wNfj7wyFFVbpIy3d), [Molly Annelle](https://open.spotify.com/artist/3mgxzlrTPRjDZ5qn93i5vz) | [Dancing By Myself](https://open.spotify.com/album/1sSfgH76mxLGe5M6OxaFsU) | 3:05 |
+| 74 | [Dancing By Myself](https://open.spotify.com/track/1FGS4DKeGwZdXStDpwyAxh) | [Rodrizzy](https://open.spotify.com/artist/1QpNNBdyML4vHkl9Xix69m), [Molly Annelle](https://open.spotify.com/artist/3mgxzlrTPRjDZ5qn93i5vz) | [Dancing By Myself](https://open.spotify.com/album/1sSfgH76mxLGe5M6OxaFsU) | 3:05 |
 | 75 | [Wherever You Go](https://open.spotify.com/track/1BhmdVGe9VdfcoB3MWZQfU) | [Miles Sievwright](https://open.spotify.com/artist/0JlHD2QNc6R8IzoCzdsp08) | [Wherever You Go](https://open.spotify.com/album/6Daj5SCEbrRk4VZAjE673z) | 4:09 |
 | 76 | [Julia](https://open.spotify.com/track/43bNwvKfljXxMNGVfHJAHP) | [Cal Motto\-Ros](https://open.spotify.com/artist/3nQ3eVNDnBzGUBIIgUTqqg) | [Julia](https://open.spotify.com/album/4Q0EESoSG4Tq1RbFKgY7Tc) | 3:18 |
 | 77 | [Clock Hands](https://open.spotify.com/track/4LAolAI2L8hQ32VPV0P4Tn) | [Justin Prins](https://open.spotify.com/artist/7BxTlyY52WY7TaBkNOWP0C) | [Clock Hands](https://open.spotify.com/album/7HIaCsIoIIuQ4esSKYXCra) | 2:39 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dYPM8db5Sz.md) - [plain]
 | 98 | [Still A RockStar](https://open.spotify.com/track/0o0b7b1fpkdo0AcBE65Gk3) | [KVSE](https://open.spotify.com/artist/4IsB535rRnsghgHd9K4Iuz) | [Still A RockStar](https://open.spotify.com/album/2Tj3VYZ73mhSYMZwPmNZG2) | 2:26 |
 | 99 | [Quarter Life Crisis](https://open.spotify.com/track/3W7uzoZe8xxHVv75WvhHaZ) | [Baby Queen](https://open.spotify.com/artist/4VqlewwKZJoIcA88PYHUDd) | [Quarter Life Crisis](https://open.spotify.com/album/5bTGBed0FKungdHiISflgl) | 3:03 |
 
-Snapshot ID: `MCxjMTExYzIwZDQ4YjkzN2FlNDk3YTI5Y2VmZWZiNGRiOThhN2Y5NWQw`
+Snapshot ID: `MCwyNzhhZmE0YzdkNzBkNzIzN2ExOGJjYTY4ZGMxNzY3YTQ0NmYwOTAy`

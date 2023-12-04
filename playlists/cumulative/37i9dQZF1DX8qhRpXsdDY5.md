@@ -4,7 +4,7 @@
 
 > Latin classics to get you in the Christmas spirit\. Cover: Luis Miguel
 
-239 songs - 14 hr 12 min
+240 songs - 14 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [Al Niño Dios](https://open.spotify.com/track/3zoq5Vncpo4KGtZFKsANEJ) | [Carlos Baute](https://open.spotify.com/artist/3smfreCkyJt7bShaTYpG77) | [Al Niño Dios](https://open.spotify.com/album/33uRLd9cOY7Yo4MQdaKcAo) | 2:33 | 2022-12-13 | 2022-12-20 |
 | [Alegría](https://open.spotify.com/track/26wgGNbiKfdOmlbFxcjN8q) | [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP) | [Alegría](https://open.spotify.com/album/1rwh1yj0SrvoS7cbVjIl4k) | 3:22 | 2022-12-18 | 2022-12-20 |
 | [All I Want For Christmas Is You](https://open.spotify.com/track/4C2WMkrsgCgLHG9wH41rZN) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [Feliz Christmas \(Vol.1\)](https://open.spotify.com/album/2Z3UcWtQd6WSEudALv1IJW) | 3:56 | 2021-12-17 | 2022-12-19 |
+| [All I Want For Christmas Is You](https://open.spotify.com/track/1NyPrCfqvms4t5yNGtu9Fy) | [Emmanuel](https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576), [Belinda Carlisle](https://open.spotify.com/artist/7xkAwz0bQTGDSbkofyQt3U) | [All I Want For Christmas Is You](https://open.spotify.com/album/5y9dShHJfKeQthsVcCSvuE) | 3:37 | 2023-12-01 |  |
 | [Amigos del Mundo \(Happy Christmas\)](https://open.spotify.com/track/47oukzOiH3ljgteKmk26YN) | [Pedrito Fernández](https://open.spotify.com/artist/4Vqref81u7WVsS0OhbJwDk), [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ), [Tatiana](https://open.spotify.com/artist/60alJNnwGVBdNXrx4kOfW0) | [Top Latino Navidad \(Remix \- Audio\)](https://open.spotify.com/album/3bc8ZLlpXr0neQalIgRMnE) | 4:11 | 2021-12-17 | 2022-12-19 |
 | [Amor Real \- Holiday Song](https://open.spotify.com/track/6532nOWtuYIzYaN44pcrHy) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Amor Real \(Holiday Song\)](https://open.spotify.com/album/0X4nxSqynfCpG9LMJ9jK13) | 3:05 | 2021-12-17 | 2022-12-19 |
 | [Amparito](https://open.spotify.com/track/2NTSedGwhyDq925dbSVxcK) | [Ricardo Montaner](https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD) | [Parranda All\-Stars: Navidad](https://open.spotify.com/album/20qL5xJyoIfwnzyZGVY5BI) | 3:16 | 2021-12-17 | 2022-12-14 |
@@ -212,7 +213,7 @@
 | [Son Tan Buenos Los Recuerdos](https://open.spotify.com/track/5h005TfhVvDrqoLWbj7TP9) | [Voz Veis](https://open.spotify.com/artist/10qDQKbmh8qV5LDCFtHLIw), [Andrés Cepeda](https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6) | [Todos A Belen](https://open.spotify.com/album/54YLqTx1NcuQUkVARYdIBQ) | 4:17 | 2022-12-19 |  |
 | [Te Deseo Muy Felices Fiestas](https://open.spotify.com/track/66NGgW8uNBnkSH40VM6bvC) | [Leyo](https://open.spotify.com/artist/3aZ2G1elrxO4ZMWcafMriO) | [Te Deseo Muy Felices Fiestas](https://open.spotify.com/album/1MNgBagbBDYqLVodkPAX7f) | 3:51 | 2022-11-25 | 2022-12-20 |
 | [Te Deseo Muy Felices Fiestas](https://open.spotify.com/track/45fKgDxHS174490B3qruhx) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Navidades Luis Miguel](https://open.spotify.com/album/0tu9kY2tDMuuuI6GtSDH9i) | 4:15 | 2021-12-17 | 2022-12-19 |
-| [Te Deseo Muy Felices Fiestas](https://open.spotify.com/track/7k14Hgdg2U6nM5cF2QtQYE) | [Vazquez Sounds](https://open.spotify.com/artist/7M5Z4j6N9k2Jd3CukFUv5e) | [Sweet Christmas Ukulele & Jazz](https://open.spotify.com/album/0GKnPhTHDcxSmIsnAC5wzi) | 4:13 | 2022-12-19 |  |
+| [Te Deseo Muy Felices Fiestas](https://open.spotify.com/track/7k14Hgdg2U6nM5cF2QtQYE) | [Vazquez Sounds](https://open.spotify.com/artist/7M5Z4j6N9k2Jd3CukFUv5e) | [Sweet Christmas Ukulele & Jazz](https://open.spotify.com/album/0GKnPhTHDcxSmIsnAC5wzi) | 4:13 | 2022-12-19 | 2023-12-04 |
 | [Te Deseo Muy Felices Fiestas \- Have Yourself a Merry Little Christmas](https://open.spotify.com/track/4A1hU6E70LLwHowQH8CEyv) | [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ) | [Te Deseo Muy Felices Fiestas \(Have Yourself a Merry Little Christmas\)](https://open.spotify.com/album/5jGysGd2338AcYE2ia0JHC) | 3:57 | 2022-12-18 | 2022-12-20 |
 | [Te Regalo](https://open.spotify.com/track/2h8ifm4ZdUjRMAMVjYYcQk) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [Te Regalo](https://open.spotify.com/album/6WG0yEtxedxIVbpakcqKSl) | 3:01 | 2021-12-17 | 2022-12-19 |
 | [Todo Lo Que Quiero Eres Tu](https://open.spotify.com/track/3xArObyf7VjKv3pyKKOKBS) | [Kabah](https://open.spotify.com/artist/61hAcjvvUS6EXMpeeHwaDi) | [Posadas, Piñatas Y Navidad](https://open.spotify.com/album/1x7PupJEcuZPYIDtGMfj6o) | 3:31 | 2023-11-02 | 2023-11-21 |

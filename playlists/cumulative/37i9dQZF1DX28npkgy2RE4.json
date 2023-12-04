@@ -2657,6 +2657,28 @@
     },
     {
       "album": {
+        "name": "Among Horses III (Fifth Anniversary Edition)",
+        "url": "https://open.spotify.com/album/5uXGkExjP5WJdeaGeBQ8hm"
+      },
+      "artists": [
+        {
+          "name": "Haley Heynderickx",
+          "url": "https://open.spotify.com/artist/73MDShZzdL4vUGMkmXOG6X"
+        },
+        {
+          "name": "Max Garc\u00eda Conover",
+          "url": "https://open.spotify.com/artist/4ztTnsVkjvWdYvrrXLFdW4"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123000,
+      "name": "Francis",
+      "url": "https://open.spotify.com/track/4NSK5gHAFbeD0CGkEjaouz"
+    },
+    {
+      "album": {
         "name": "Among Horses III",
         "url": "https://open.spotify.com/album/1EeXJ45fmNfRtHRGPWAjvz"
       },
@@ -5780,7 +5802,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-04",
       "duration_ms": 218740,
       "name": "Requiem",
       "url": "https://open.spotify.com/track/5w4axvkZhiRqoE0PP6teSo"

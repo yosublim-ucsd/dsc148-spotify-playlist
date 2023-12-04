@@ -4,7 +4,7 @@
 
 > The best drill, trap and genre bending rap from Australia and NZ\. Cover: B Wise
 
-620 songs - 1 day 4 hr 49 min
+621 songs - 1 day 4 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -327,6 +327,7 @@
 | [Loui & Trap](https://open.spotify.com/track/48tSd85jnXAcvs9XAwIl4S) | [Hoodllandsz](https://open.spotify.com/artist/5mzjS8h7chFyWJFtA1HbcZ) | [Loui & Trap](https://open.spotify.com/album/4Oc00JjKH0zxbqIz4hJA7R) | 2:45 | 2023-07-13 | 2023-10-27 |
 | [Love For My City](https://open.spotify.com/track/2oRJpZouHzN9Ly9PXgfzt3) | [See Naylors](https://open.spotify.com/artist/6qj1QgWdBHPCpPNz95wAot), [Zulu](https://open.spotify.com/artist/0eW1LoDjWUp5RxC5o6FDOX) | [Love For My City](https://open.spotify.com/album/0ZfRzGnc5emWL5nwbhmuJU) | 3:02 | 2022-05-05 | 2022-07-26 |
 | [Love Us Now](https://open.spotify.com/track/4V5hzyGVsBCEEYWySZDIOo) | [FMB](https://open.spotify.com/artist/1Kk4fSEcYeC4Z02ie8ZntE) | [Love Us Now](https://open.spotify.com/album/1OPn7cUUNM8YTDkvLubzIc) | 4:16 | 2022-09-29 | 2023-02-24 |
+| [LOVERBOY](https://open.spotify.com/track/2J5tWDzTxQclM0vG8VPVVG) | [AMARNI](https://open.spotify.com/artist/6HxQEau8zFYzY8fJ7pKEco), [Baka Not Nice](https://open.spotify.com/artist/3yvCFkK57FXH7JIwZQ5CmU) | [LOVERBOY](https://open.spotify.com/album/299pfWd3fonYSQoONNjS7C) | 2:49 | 2023-12-04 |  |
 | [M.I.A](https://open.spotify.com/track/6Jda9GxwagQJmcQEFnuPuO) | [Lawd Lance](https://open.spotify.com/artist/2PUgqVHa3xxbtHd8MRQCxb), [Snoopy](https://open.spotify.com/artist/7bbjGMqot7e1rmNn0MKRr2), [Namis](https://open.spotify.com/artist/5XLVCHrSeW33AaabzBf8rH) | [M.I.A](https://open.spotify.com/album/1xkHr5R69o9lEUcFnZJgXC) | 4:11 | 2022-03-21 | 2022-06-10 |
 | [M1](https://open.spotify.com/track/4MZQpYHloIv9IhX1yAdi5J) | [Hp Boyz](https://open.spotify.com/artist/0JlQaGJZfrqYeZG1AQICxp) | [AFTERPARTY](https://open.spotify.com/album/2kQlpPlBMk65AQgCquhaDR) | 2:57 | 2022-03-21 | 2022-03-25 |
 | [M31 \(Racing down the Hume\)](https://open.spotify.com/track/4UR73u6KPuWoqIKv4JwwiJ) | [Mulalo](https://open.spotify.com/artist/5gUm9HBoHkyMtwmPyDJfNn) | [M31 \(Racing down the Hume\)](https://open.spotify.com/album/0OU300xi5Q4hmuU6nv2Kp8) | 2:14 | 2022-04-14 | 2022-05-20 |

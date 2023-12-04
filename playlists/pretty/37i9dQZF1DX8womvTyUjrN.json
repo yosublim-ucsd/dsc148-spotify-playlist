@@ -1,12 +1,12 @@
 {
   "description": "Fresh Latin pop on the rise. Cover: Leo Rizzi & DannyLux",
-  "num_followers": 286105,
+  "num_followers": 286122,
   "original_name": "el nuevo pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhN2MxNjE5ZThkNmExM2RiMGU5ZGUzZmRjMTBkODllOTYwOGZiZDY0",
+  "snapshot_id": "MCwzYjdiODI5OGY1YjNjYjQwYzExYzc1MGI4NmU5MGUwNTU3YTBlMTE1",
   "tracks": [
     {
       "added_at": "2023-12-01 05:01:00",
@@ -307,6 +307,22 @@
     {
       "added_at": "2023-12-01 05:01:00",
       "album": {
+        "name": "Lo Que Queda de M\u00ed",
+        "url": "https://open.spotify.com/album/5gSUafhGxfjgna6Wr0fiVc"
+      },
+      "artists": [
+        {
+          "name": "i\u00f1igo quintero",
+          "url": "https://open.spotify.com/artist/0jbo7KFNMiIkfBR6ih0yhm"
+        }
+      ],
+      "duration_ms": 230867,
+      "name": "Lo Que Queda de M\u00ed",
+      "url": "https://open.spotify.com/track/5ONDwiSzjziWVwmxRZCen6"
+    },
+    {
+      "added_at": "2023-12-01 05:01:00",
+      "album": {
         "name": "\u00bfY Si Eras T\u00fa?",
         "url": "https://open.spotify.com/album/4oPDRXXH8YgDh5Ywf14NGA"
       },
@@ -335,22 +351,6 @@
       "duration_ms": 186617,
       "name": "Verano En NY",
       "url": "https://open.spotify.com/track/0kRsOLSelm2Sxq0mbtshdJ"
-    },
-    {
-      "added_at": "2023-12-01 05:01:00",
-      "album": {
-        "name": "Lo Que Queda de M\u00ed",
-        "url": "https://open.spotify.com/album/5gSUafhGxfjgna6Wr0fiVc"
-      },
-      "artists": [
-        {
-          "name": "i\u00f1igo quintero",
-          "url": "https://open.spotify.com/artist/0jbo7KFNMiIkfBR6ih0yhm"
-        }
-      ],
-      "duration_ms": 230867,
-      "name": "Lo Que Queda de M\u00ed",
-      "url": "https://open.spotify.com/track/5ONDwiSzjziWVwmxRZCen6"
     },
     {
       "added_at": "2023-12-01 05:01:00",
@@ -763,22 +763,6 @@
     {
       "added_at": "2023-12-01 05:01:00",
       "album": {
-        "name": "Tu Canci\u00f3n",
-        "url": "https://open.spotify.com/album/73Hd2erTeZ6BeshYv6Rjs2"
-      },
-      "artists": [
-        {
-          "name": "Los Mesoneros",
-          "url": "https://open.spotify.com/artist/0OluGbRuQQEcYyttGww517"
-        }
-      ],
-      "duration_ms": 191008,
-      "name": "Tu Canci\u00f3n",
-      "url": "https://open.spotify.com/track/5MEOi4Xbxxtjrcf4WD8ztH"
-    },
-    {
-      "added_at": "2023-12-01 05:01:00",
-      "album": {
         "name": "Enemigos",
         "url": "https://open.spotify.com/album/4zAbx6Zpe8YoXezMynqlfv"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 186209,
       "name": "Como Si Nada",
       "url": "https://open.spotify.com/track/0WOZZpdj3HKxYKtZlLjdJg"
+    },
+    {
+      "added_at": "2023-12-01 05:01:00",
+      "album": {
+        "name": "Tu Canci\u00f3n",
+        "url": "https://open.spotify.com/album/73Hd2erTeZ6BeshYv6Rjs2"
+      },
+      "artists": [
+        {
+          "name": "Los Mesoneros",
+          "url": "https://open.spotify.com/artist/0OluGbRuQQEcYyttGww517"
+        }
+      ],
+      "duration_ms": 191008,
+      "name": "Tu Canci\u00f3n",
+      "url": "https://open.spotify.com/track/5MEOi4Xbxxtjrcf4WD8ztH"
     },
     {
       "added_at": "2023-12-01 05:01:00",
@@ -855,6 +855,22 @@
     {
       "added_at": "2023-12-01 05:01:00",
       "album": {
+        "name": "Piloto",
+        "url": "https://open.spotify.com/album/7M5aY3GmyqVZ1QTX9FGpAQ"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Pagan",
+          "url": "https://open.spotify.com/artist/3InfS9TeNQro4bp9EWtuyP"
+        }
+      ],
+      "duration_ms": 197739,
+      "name": "Piloto",
+      "url": "https://open.spotify.com/track/5zkg48j0gxSLy59XSVzs9K"
+    },
+    {
+      "added_at": "2023-12-01 05:01:00",
+      "album": {
         "name": "Movie",
         "url": "https://open.spotify.com/album/2wz36egUnkqR7YfbadsI6T"
       },
@@ -871,22 +887,6 @@
       "duration_ms": 132300,
       "name": "Movie",
       "url": "https://open.spotify.com/track/2vEHy7aNrhjv93pxX44KCc"
-    },
-    {
-      "added_at": "2023-12-01 05:01:00",
-      "album": {
-        "name": "Piloto",
-        "url": "https://open.spotify.com/album/7M5aY3GmyqVZ1QTX9FGpAQ"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Pagan",
-          "url": "https://open.spotify.com/artist/3InfS9TeNQro4bp9EWtuyP"
-        }
-      ],
-      "duration_ms": 197739,
-      "name": "Piloto",
-      "url": "https://open.spotify.com/track/5zkg48j0gxSLy59XSVzs9K"
     },
     {
       "added_at": "2023-12-01 05:01:00",

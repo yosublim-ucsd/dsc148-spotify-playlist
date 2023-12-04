@@ -894,10 +894,28 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-04",
       "duration_ms": 232247,
       "name": "i/o - Bright-Side Mix",
       "url": "https://open.spotify.com/track/7onf6RIP2d08FOHos3U324"
+    },
+    {
+      "album": {
+        "name": "i/o",
+        "url": "https://open.spotify.com/album/2Rr46ynx6lOJnkbF2s9VXB"
+      },
+      "artists": [
+        {
+          "name": "Peter Gabriel",
+          "url": "https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233247,
+      "name": "i/o - Bright-Side Mix",
+      "url": "https://open.spotify.com/track/2GToIWQPDYTQdxCdnPZEdA"
     },
     {
       "album": {
@@ -1440,10 +1458,28 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-04",
       "duration_ms": 313678,
       "name": "Panopticom - Bright Side Mix",
       "url": "https://open.spotify.com/track/0DpMQVZpl0bsIlFbm5CS7V"
+    },
+    {
+      "album": {
+        "name": "i/o",
+        "url": "https://open.spotify.com/album/2Rr46ynx6lOJnkbF2s9VXB"
+      },
+      "artists": [
+        {
+          "name": "Peter Gabriel",
+          "url": "https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316783,
+      "name": "Panopticom - Bright Side Mix",
+      "url": "https://open.spotify.com/track/7CkKAVRnPMZCRM0Ona8NL3"
     },
     {
       "album": {

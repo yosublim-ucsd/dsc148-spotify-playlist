@@ -1,12 +1,12 @@
 {
   "description": "Get the chill vibes going and flowing \u2728 Las vibras tranqui que ocupas en tu vida.",
-  "num_followers": 670045,
+  "num_followers": 670080,
   "original_name": "Chill Latino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzYTc3YjRkZWUwNWY3MGIzZTM5YzVhN2VjMzZkZGMzMDlhMTNlMDll",
+  "snapshot_id": "MCwwYTgyZTEyODJhMjI4ZDk0MGI4ZjJiODZkMmU2NTU3ZTJiZmRkZjY3",
   "tracks": [
     {
       "added_at": "2023-11-24 05:00:00",
@@ -455,6 +455,22 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
+        "name": "Cardenal Cisneros",
+        "url": "https://open.spotify.com/album/6RBKGZxneqj8Ygzpn7POMc"
+      },
+      "artists": [
+        {
+          "name": "Gus",
+          "url": "https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4"
+        }
+      ],
+      "duration_ms": 252973,
+      "name": "Cardenal Cisneros",
+      "url": "https://open.spotify.com/track/5O4mnBvus90sZA1g5IMFXE"
+    },
+    {
+      "added_at": "2023-11-24 05:00:00",
+      "album": {
         "name": "Maybe Baby",
         "url": "https://open.spotify.com/album/3Nv4qF7y94KVdKMXoBYW1B"
       },
@@ -511,22 +527,6 @@
       "duration_ms": 199999,
       "name": "Ojos Negros",
       "url": "https://open.spotify.com/track/0hjbmFnvWmn9QPlEUKJUK3"
-    },
-    {
-      "added_at": "2023-11-24 05:00:00",
-      "album": {
-        "name": "Cardenal Cisneros",
-        "url": "https://open.spotify.com/album/6RBKGZxneqj8Ygzpn7POMc"
-      },
-      "artists": [
-        {
-          "name": "Gus",
-          "url": "https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4"
-        }
-      ],
-      "duration_ms": 252973,
-      "name": "Cardenal Cisneros",
-      "url": "https://open.spotify.com/track/5O4mnBvus90sZA1g5IMFXE"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -807,6 +807,22 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
+        "name": "Dieciseis",
+        "url": "https://open.spotify.com/album/4zLZDzFqhK8fY9V5PpfPPG"
+      },
+      "artists": [
+        {
+          "name": "Tiare",
+          "url": "https://open.spotify.com/artist/5tcN4f1kT2KXbUelXPzjKK"
+        }
+      ],
+      "duration_ms": 212506,
+      "name": "Cardenalito",
+      "url": "https://open.spotify.com/track/6ZfPILRSg3V9jM8yH1V8xc"
+    },
+    {
+      "added_at": "2023-11-24 05:00:00",
+      "album": {
         "name": "17 (feat. Giulia Be)",
         "url": "https://open.spotify.com/album/4wDCjWGkL360hLUkiBadgC"
       },
@@ -823,22 +839,6 @@
       "duration_ms": 160722,
       "name": "17 (feat. Giulia Be)",
       "url": "https://open.spotify.com/track/6HzoyVSUu5MSYZikhYQ8u7"
-    },
-    {
-      "added_at": "2023-11-24 05:00:00",
-      "album": {
-        "name": "Dieciseis",
-        "url": "https://open.spotify.com/album/4zLZDzFqhK8fY9V5PpfPPG"
-      },
-      "artists": [
-        {
-          "name": "Tiare",
-          "url": "https://open.spotify.com/artist/5tcN4f1kT2KXbUelXPzjKK"
-        }
-      ],
-      "duration_ms": 212506,
-      "name": "Cardenalito",
-      "url": "https://open.spotify.com/track/6ZfPILRSg3V9jM8yH1V8xc"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -1203,6 +1203,22 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
+        "name": "Hoy",
+        "url": "https://open.spotify.com/album/5rHEepmaS9qXal1O1uLfrz"
+      },
+      "artists": [
+        {
+          "name": "Mariangela",
+          "url": "https://open.spotify.com/artist/6rbhHufoSGkldXNhOtb6Mf"
+        }
+      ],
+      "duration_ms": 235102,
+      "name": "Hoy",
+      "url": "https://open.spotify.com/track/1pvwboMTkqES8ExXx5JBag"
+    },
+    {
+      "added_at": "2023-11-24 05:00:00",
+      "album": {
         "name": "Qu\u00e9 Dulce",
         "url": "https://open.spotify.com/album/0ne8odvK5xWK613ruve7X5"
       },
@@ -1219,22 +1235,6 @@
       "duration_ms": 133666,
       "name": "Qu\u00e9 Dulce",
       "url": "https://open.spotify.com/track/6xrBdJISdw3WTMtJVxll7W"
-    },
-    {
-      "added_at": "2023-11-24 05:00:00",
-      "album": {
-        "name": "Hoy",
-        "url": "https://open.spotify.com/album/5rHEepmaS9qXal1O1uLfrz"
-      },
-      "artists": [
-        {
-          "name": "Mariangela",
-          "url": "https://open.spotify.com/artist/6rbhHufoSGkldXNhOtb6Mf"
-        }
-      ],
-      "duration_ms": 235102,
-      "name": "Hoy",
-      "url": "https://open.spotify.com/track/1pvwboMTkqES8ExXx5JBag"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -1455,22 +1455,6 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
-        "name": "Bolitas",
-        "url": "https://open.spotify.com/album/3BNA0RribroeshLDr3PTWB"
-      },
-      "artists": [
-        {
-          "name": "Colectivo Da Silva",
-          "url": "https://open.spotify.com/artist/7h2HIXXVcZ6UPkqlCa2QZY"
-        }
-      ],
-      "duration_ms": 221322,
-      "name": "Bolitas",
-      "url": "https://open.spotify.com/track/16FVdADW8lXAqGCDqausYB"
-    },
-    {
-      "added_at": "2023-11-24 05:00:00",
-      "album": {
         "name": "Dicen",
         "url": "https://open.spotify.com/album/61GgJ9H3X3kdJCQhbrNYQ6"
       },
@@ -1487,18 +1471,18 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
-        "name": "aqu\u00ed andamos",
-        "url": "https://open.spotify.com/album/5J6UFbDlKsIaiuDcU6v6Ux"
+        "name": "Bolitas",
+        "url": "https://open.spotify.com/album/3BNA0RribroeshLDr3PTWB"
       },
       "artists": [
         {
-          "name": "Josue Alaniz",
-          "url": "https://open.spotify.com/artist/0xe5VGTguHmr56kk0FF66A"
+          "name": "Colectivo Da Silva",
+          "url": "https://open.spotify.com/artist/7h2HIXXVcZ6UPkqlCa2QZY"
         }
       ],
-      "duration_ms": 135133,
-      "name": "aqu\u00ed andamos",
-      "url": "https://open.spotify.com/track/1rmqCneDbQBz3V0HMntNyY"
+      "duration_ms": 221322,
+      "name": "Bolitas",
+      "url": "https://open.spotify.com/track/16FVdADW8lXAqGCDqausYB"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -1519,6 +1503,22 @@
       "duration_ms": 223847,
       "name": "Sola - Remix",
       "url": "https://open.spotify.com/track/5Yv2eICTZqWEK1iooM9Ycu"
+    },
+    {
+      "added_at": "2023-11-24 05:00:00",
+      "album": {
+        "name": "aqu\u00ed andamos",
+        "url": "https://open.spotify.com/album/5J6UFbDlKsIaiuDcU6v6Ux"
+      },
+      "artists": [
+        {
+          "name": "Josue Alaniz",
+          "url": "https://open.spotify.com/artist/0xe5VGTguHmr56kk0FF66A"
+        }
+      ],
+      "duration_ms": 135133,
+      "name": "aqu\u00ed andamos",
+      "url": "https://open.spotify.com/track/1rmqCneDbQBz3V0HMntNyY"
     },
     {
       "added_at": "2023-11-24 05:00:00",

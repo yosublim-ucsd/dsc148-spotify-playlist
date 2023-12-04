@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVFZbCNivv6B.md) - [plain]
 
 > Aquí vive el hip\-hop mexicano\. Dan Sanchez, Tornillo y Natanael Cano en la casa.
 
-[Spotify](https://open.spotify.com/user/spotify) - 720,450 likes - 100 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 720,596 likes - 100 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Una Ruedita](https://open.spotify.com/track/2D9WyuykuMo5MvU5grpXpI) | [Dan Sanchez](https://open.spotify.com/artist/1yPvnL2XGGehNiOGWzcAAG), [Tornillo](https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Disfrutando El Proceso](https://open.spotify.com/album/60falhlYX9dCpWmjlHfVGa) | 2:57 |
 | 2 | [Bendecidos](https://open.spotify.com/track/2QEkingmea3KHdvw0dy9K3) | [Akapellah](https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym), [Canserbero](https://open.spotify.com/artist/1wGIhYkKWSq4yACtTkCkSX), [Santa Suerte](https://open.spotify.com/artist/1eblaVtbXUDGr90qMXfqAa), [Alemán](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Al2 El Aldeano](https://open.spotify.com/artist/6lYSDSFhJyUV6CtNix2fBA), [Kase.O](https://open.spotify.com/artist/7GmXwGXJSsmWTkCyk5Twux), [Foyone](https://open.spotify.com/artist/1F2erLLqRHbaFvEYHeVIHJ), [Toño Lizarraga](https://open.spotify.com/artist/58kEJAbZ1Knbo4UI2phUQv), [Solitario Mondragon](https://open.spotify.com/artist/4KXpp5lz2MakNFcTszi2B9), [Norick](https://open.spotify.com/artist/6QpEp4wXCGHehb8OeyqUDo) | [Bendecidos](https://open.spotify.com/album/4UoVuTXXewpiz2fJWiosZH) | 8:47 |
 | 3 | [La Misma Bandera](https://open.spotify.com/track/03BF74w1BbBJXQvJKVElYe) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [La Misma Bandera](https://open.spotify.com/album/4BchMOSQZkIWEkY9G5lZ6e) | 3:41 |
-| 4 | [Asi Morire](https://open.spotify.com/track/3w21zNcx8MJXHRbPHWSzMn) | [Ovi](https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Asi Morire](https://open.spotify.com/album/7octZhhTn13no8w7w4fofd) | 3:45 |
+| 4 | [Asi Morire](https://open.spotify.com/track/2V1vUMTqMsJx5r4sybGfcN) | [Ovi](https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Asi Morire](https://open.spotify.com/album/4TsNFuyGgPVYpblIDVd5l1) | 3:45 |
 | 5 | [Por Mi México \(Remix\)](https://open.spotify.com/track/2m3Fqmw1mfs39KklPmjq79) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0), [C\-Kan](https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu), [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I), [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI) | [Por Mi México \(Remix\)](https://open.spotify.com/album/3p22kEU3PqsIrYWJpa9Bko) | 6:45 |
 | 6 | [Detrás De Cámaras](https://open.spotify.com/track/0czchxjdPJBzRv6BBQajqH) | [Aczino](https://open.spotify.com/artist/4r1ZDYKzPt3iIjuq8LbT6X) | [Detrás De Cámaras](https://open.spotify.com/album/7zBMH6a1YSvK83JNTYPLhi) | 3:24 |
 | 7 | [Sin Dormir \(Ya Se Armó\)](https://open.spotify.com/track/7Jo6uG5846H37UrPuuLyO5) | [Jayrick](https://open.spotify.com/artist/0U8dIwzBn17JkhYxmznp6T), [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [Sin Dormir \(Ya Se Armó\)](https://open.spotify.com/album/1hwx8Kmagl1ZUYic1dK46A) | 2:40 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVFZbCNivv6B.md) - [plain]
 | 99 | [Seguimos Controlando](https://open.spotify.com/track/3E1WD6DTUTgIn5Tfpgg6Zz) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0), [Rich Vagos](https://open.spotify.com/artist/1FCItwxfRieMGhR0eRxotU) | [Cuando Todo Acaba](https://open.spotify.com/album/1lSYxwcLpWyqM7pD5N1fAU) | 2:55 |
 | 100 | [Tu Bendición](https://open.spotify.com/track/2eKIgkYsoa4HfJCawXJhku) | [Tornillo](https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL) | [Cactus](https://open.spotify.com/album/696y1nHhaHmvlaMSugs8eQ) | 3:03 |
 
-Snapshot ID: `MCxjMGEwYWMxZDM1ZTQ0ZmM5ZmU1NzllYzYyYTY1MDZmYmEwYWY1Y2I0`
+Snapshot ID: `MCwzZTM1NWRhN2UyYTIyZGNmMjZkMmY3NGE5OTZjZGYwNDUwY2E4ODcw`

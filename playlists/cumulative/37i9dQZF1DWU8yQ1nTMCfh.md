@@ -4,7 +4,7 @@
 
 > Las nuevas vibras del rock en español\. Cover: Bruses
 
-253 songs - 14 hr 5 min
+254 songs - 14 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [Brindis](https://open.spotify.com/track/0MkY0QR03foMp3dFXc9zBa) | [BRUNO](https://open.spotify.com/artist/2RvoJbFSTxNnTZSyi2CwDd), [Alejandro Rosso](https://open.spotify.com/artist/2C6ud5Sihy5UODK6aKM6vo) | [Brindis](https://open.spotify.com/album/781zGGAuejqCiyXhfQJ4Qh) | 2:32 | 2022-07-19 | 2022-12-10 |
 | [Brutal](https://open.spotify.com/track/53A2Mrrj1EJmJIdfi7NFBu) | [Sharlene](https://open.spotify.com/artist/1gIUNwemvV0ieFYpL6jbEB), [Corina Smith](https://open.spotify.com/artist/7mXfsy3lF4kU0f2KTNKSr8) | [Brutal](https://open.spotify.com/album/4bMwAGWco8vww47fDYsD9T) | 2:43 | 2022-07-19 | 2023-01-09 |
 | [CABI](https://open.spotify.com/track/5LZWpaShpyGMIohH8kU0aK) | [daniel sabater](https://open.spotify.com/artist/5yTNm3JFNfBa79zLIRKVwN) | [CABI](https://open.spotify.com/album/5anonHgPUxe9l7aMIdwC3N) | 2:01 | 2023-03-24 | 2023-05-13 |
+| [Cama Vacía](https://open.spotify.com/track/5K8Exvm7PPo426jozW4m2q) | [Pignoise](https://open.spotify.com/artist/21ttsUKZ3y2Hm6nduyvbAw), [La La Love You](https://open.spotify.com/artist/5Q30fhTc0Sl0Q4C5dOjhhQ) | [Cama Vacía](https://open.spotify.com/album/5KX799gIKfPUtvGJP9t3DW) | 3:59 | 2023-12-01 |  |
 | [Cansado de estar triste](https://open.spotify.com/track/0KhvJklV4bqAuXwFLEEX3x) | [Xavibo](https://open.spotify.com/artist/3v2sYzsuZVd0gAhMWgl9I7), [Walls](https://open.spotify.com/artist/6tvDaHOPNWfkc9Q8IghqSR) | [Cansado de estar triste](https://open.spotify.com/album/65JzMj5NQD539KQ0FzGBU2) | 2:55 | 2023-04-14 |  |
 | [Cantar de los Magos](https://open.spotify.com/track/6wNVd3n0AYoZrbuF45MYAL) | [El Viaje de Lázaro](https://open.spotify.com/artist/5BaL7UhFbZfIv7FzOD9so0) | [Cantar de los Magos](https://open.spotify.com/album/4AIbSPwiL3wb35iJTvqXFN) | 4:44 | 2022-04-15 | 2023-01-06 |
 | [Celosa](https://open.spotify.com/track/5A20apPrPKV8sNfUzrIQV7) | [SERBIA](https://open.spotify.com/artist/3ygIl3frs6gQCo1f0AGnRj) | [Celosa](https://open.spotify.com/album/7GAcSbOAokzBKUrW6ORmSB) | 4:22 | 2022-07-19 |  |
@@ -251,7 +252,7 @@
 | [Venganza](https://open.spotify.com/track/2UJfYO4NNQSxBq0ElmDNd1) | [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [Luz](https://open.spotify.com/album/4C6joZxFL6lTg6tJDE9N6o) | 3:24 | 2022-04-15 | 2023-09-09 |
 | [Vigilantes del Espejo](https://open.spotify.com/track/6NGziF7yJMzHdf0RTkOkzK) | [Triángulo de Amor Bizarro](https://open.spotify.com/artist/6A6B4fkbxVlQtNASPk5e2e), [Carolina Durante](https://open.spotify.com/artist/2BVE7Pqd8kxv9xEsuvoJoE) | [Detrás del Espejo: Variaciones y Ecos](https://open.spotify.com/album/3fnqOpqZRoC8rol5S1pgRh) | 3:23 | 2022-04-15 | 2022-12-13 |
 | [Vuelta en U](https://open.spotify.com/track/2uSQpyjWJpSaoxjc27VAZ3) | [Señor Kino](https://open.spotify.com/artist/2W0kFBz6nHARNF7A5KlWYG), [Ed Maverick](https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT) | [Vuelta en U](https://open.spotify.com/album/2XQUbze1bkSR86N8XbAOEy) | 3:02 | 2022-07-19 |  |
-| [Walk On Everything](https://open.spotify.com/track/4eUxbmrkFkUBZBntLYIwHq) | [A.CHAL](https://open.spotify.com/artist/0pkwrPVI8UyXtPkavyJoZ4) | [Walk On Everything](https://open.spotify.com/album/0b7CilPsEiOZHiGwdyV3bK) | 2:57 | 2023-12-01 |  |
+| [Walk On Everything](https://open.spotify.com/track/4eUxbmrkFkUBZBntLYIwHq) | [A.CHAL](https://open.spotify.com/artist/0pkwrPVI8UyXtPkavyJoZ4) | [Walk On Everything](https://open.spotify.com/album/0b7CilPsEiOZHiGwdyV3bK) | 2:57 | 2023-12-01 | 2023-12-04 |
 | [When I'm Down](https://open.spotify.com/track/2TCdV9BPqra1Xx8taVwyFC) | [The Froys](https://open.spotify.com/artist/3DrFw6l7rWBb8AbZ3B5zlc) | [Martín Delgado presenta: La Otra Música x AireLibre​.​FM](https://open.spotify.com/album/02MKu06t0i6LMfeZl3EBKC) | 2:22 | 2022-04-15 | 2022-12-10 |
 | [Witches](https://open.spotify.com/track/3XoSb47bCtKeqZkJuLN1UD) | [Elefangs](https://open.spotify.com/artist/1PXCJheCUd6J5YOk0AX0iU) | [II](https://open.spotify.com/album/59vszOgawI6rMXUDPO4yef) | 4:28 | 2022-04-15 | 2022-12-10 |
 | [XQ Sigues Pasando :\(](https://open.spotify.com/track/60WnyQpJMxndoCwfo3TbuE) | [Abraham Mateo](https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR), [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [XQ Sigues Pasando :\(](https://open.spotify.com/album/5yupynAvNgH8LwQomVJEzz) | 3:34 | 2023-09-08 |  |

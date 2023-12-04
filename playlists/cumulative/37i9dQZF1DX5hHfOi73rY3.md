@@ -4,7 +4,7 @@
 
 > Classic party anthems from the club to your ears!
 
-127 songs - 9 hr 54 min
+128 songs - 9 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [Bigger Than Prince \- Hot Since 82 Remix](https://open.spotify.com/track/3PW35Q7BLZ4xoHgCRxUZ4f) | [Green Velvet](https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2) | [The Chapters of Green Velvet](https://open.spotify.com/album/1hn0CRNZw1u16Jd2Vvopt4) | 6:34 | 2020-11-06 | 2022-07-29 |
 | [Blind Faith](https://open.spotify.com/track/04OxTCLGgDKfO0MMA2lcxv) | [Chase & Status](https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq), [Liam Bailey](https://open.spotify.com/artist/022EiWsch2zvty0qBUksDO) | [No More Idols](https://open.spotify.com/album/245j9BaZFuEso2vfLRVnQr) | 3:53 | 2020-11-06 |  |
 | [Buggin' \- Edit](https://open.spotify.com/track/2TqSk3lGTFTO2N6qDWpODA) | [Hot Since 82](https://open.spotify.com/artist/1tRBmMtER4fGrzrt8O9VpS), [Jem Cooke](https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH) | [8\-track](https://open.spotify.com/album/3ophs4Ci76rbhWzu2QwCGC) | 4:35 | 2020-11-06 |  |
-| [Burns \- Edit](https://open.spotify.com/track/7J8iTj9FU0Mw8VBbGBpFIY) | [George FitzGerald](https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t) | [Burns \(Edit\)](https://open.spotify.com/album/1R4DzksK2cx84kO7B4SEoa) | 3:10 | 2020-11-06 |  |
+| [Burns \- Edit](https://open.spotify.com/track/7J8iTj9FU0Mw8VBbGBpFIY) | [George FitzGerald](https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t) | [Burns \(Edit\)](https://open.spotify.com/album/1R4DzksK2cx84kO7B4SEoa) | 3:10 | 2020-11-06 | 2023-12-04 |
 | [Callin'](https://open.spotify.com/track/0oNmrG9mCMH51Gfnwme4nF) | [Huxley](https://open.spotify.com/artist/6fJvW51nWhRImJyos6O7sT), [S\-Man](https://open.spotify.com/artist/3FcrDo2TeEXNjKyafHeQR1) | [The Machine](https://open.spotify.com/album/7gzGEJQwvntO39sNvQiDcZ) | 6:31 | 2020-11-06 | 2022-07-22 |
 | [Chunky](https://open.spotify.com/track/5SB73InpxuEQ20qEWhOQFV) | [Format:B](https://open.spotify.com/artist/5Am25tT39BPzreHngMkuux) | [Chunky](https://open.spotify.com/album/79oalwUgqtwuzWPNYDMEEH) | 2:38 | 2020-11-06 |  |
 | [Cola](https://open.spotify.com/track/1HrMWH5GUdK6Yi94rbANJA) | [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W), [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64) | [Cola](https://open.spotify.com/album/4Mz3YFnTKm7JbuOi25mDWH) | 3:43 | 2020-11-06 | 2022-07-29 |
@@ -49,6 +49,7 @@
 | [Hey Hey](https://open.spotify.com/track/6o4KTcGUoN8Xse2SNHorGU) | [Dennis Ferrer](https://open.spotify.com/artist/0MGTHZpAGf7isSfw8yMIoi) | [Hey Hey](https://open.spotify.com/album/4WOHS9vWb4Mu1bjNobDHmO) | 3:10 | 2020-11-06 | 2022-07-29 |
 | [Higher Level \- Bicep Remix](https://open.spotify.com/track/4FtjMbx5rC3fUqcBJXhu1G) | [Isaac Tichauer](https://open.spotify.com/artist/3yKDEsiOdoYMIuopxLMDu6), [Bicep](https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga) | [Street Lessons Remixes EP](https://open.spotify.com/album/1pqlFMVY8tYDfE3TYHwegS) | 6:04 | 2020-11-06 | 2022-07-29 |
 | [House & Pressure](https://open.spotify.com/track/3W2bm5HR9tnS4ENFNJJ4XF) | [Route 94](https://open.spotify.com/artist/1dgdvbogmctybPrGEcnYf6) | [House & Pressure](https://open.spotify.com/album/5f36IdWpaugA1uQ5Yr6Zxu) | 2:28 | 2020-11-06 | 2023-11-05 |
+| [House & Pressure](https://open.spotify.com/track/4BG03MHYQwuWENZ31vFlsV) | [Route 94](https://open.spotify.com/artist/1dgdvbogmctybPrGEcnYf6) | [House & Pressure](https://open.spotify.com/album/1KRUeWNgOQvxzJDTT9MApz) | 2:28 | 2020-11-06 |  |
 | [Hungry For The Power \- Jamie Jones Ridge Street Mix](https://open.spotify.com/track/6ZiPqZL5U2htruNEYflsYB) | [Azari & III](https://open.spotify.com/artist/2DC2KJDKwTf5RGfuWCzAkc), [Jamie Jones](https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji) | [Azari & III](https://open.spotify.com/album/7vd55snhAOrAXNsqxBqX1T) | 6:46 | 2020-11-06 | 2022-07-29 |
 | [Hyph Mngo](https://open.spotify.com/track/7aYNz419a97mXXFlOcVKtk) | [Joy Orbison](https://open.spotify.com/artist/0aIpJqqTLf683ojWREc5lg) | [Hyph Mngo](https://open.spotify.com/album/3anj6rT2aTYuKFaTp5Qgp9) | 5:38 | 2020-11-06 | 2022-04-27 |
 | [I <3 U SO \- Skream's Made Zdar Feel Like He Was 20 Again Remix](https://open.spotify.com/track/0qnKGJgAZZXSKkUMcnAyIz) | [Cassius](https://open.spotify.com/artist/4sf3QZW8a3xZ14IGsOAzoy) | [I <3 U SO](https://open.spotify.com/album/1mQXWvLUZUg2qz7DUt4vur) | 4:48 | 2020-11-06 | 2022-07-28 |

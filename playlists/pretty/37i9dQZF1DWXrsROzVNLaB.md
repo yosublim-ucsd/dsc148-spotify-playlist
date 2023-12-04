@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXrsROzVNLaB.md) - [plain]
 
 > Prepare for Easter week by reflecting on songs of Jesus' life, death, and resurrection.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,903 likes - 75 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,901 likes - 75 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXrsROzVNLaB.md) - [plain]
 | 74 | [Glorious](https://open.spotify.com/track/1jOzjWWNdIEKfX8g48FDEu) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [See The Morning](https://open.spotify.com/album/1rt1h8pDDeJoVJrr5jbAmi) | 4:01 |
 | 75 | [Celebration at the Empty Grave](https://open.spotify.com/track/55QERSLUTHM82JBsoTO78m) | [Down East Boys](https://open.spotify.com/artist/0Zg0qh2ZQsBDm68196Ofln) | [Celebration at the Empty Grave](https://open.spotify.com/album/3lAyWpRS4zkP4tBOWOTL4d) | 3:40 |
 
-Snapshot ID: `MCwyMTRiM2Q0ZDY2NGM5Y2VkZjU5YmRmOGQ0ZjU5ZTBiYmVhODY4MmZh`
+Snapshot ID: `MCwzZjdhNDM1ZDhlNmJhZmM2NzFhZDMyOWUwZmE4OGNhNmUwODFjYzAz`

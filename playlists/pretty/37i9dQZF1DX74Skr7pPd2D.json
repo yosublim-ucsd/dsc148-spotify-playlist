@@ -1,12 +1,12 @@
 {
   "description": "Releases from the legendary label.",
-  "num_followers": 42377,
+  "num_followers": 42400,
   "original_name": "Legendary Labels: Verve Records",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMmFlODc1MDE5ZGI3NmYyMzkzNzUzNDQ2MDgwMzIwYTg5ZGQ2OTg1",
+  "snapshot_id": "MCw1ZGRlYjVhNWRkN2I5ZTljNTI0Zjk3MDk1MDdmYmQ2NTFkN2M3N2Vl",
   "tracks": [
     {
       "added_at": "2019-10-04 16:01:14",
@@ -451,22 +451,6 @@
     {
       "added_at": "2019-10-02 08:54:10",
       "album": {
-        "name": "Baker's Holiday",
-        "url": "https://open.spotify.com/album/1YpSrox7LYGq9HVxDY49SR"
-      },
-      "artists": [
-        {
-          "name": "Chet Baker",
-          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
-        }
-      ],
-      "duration_ms": 154306,
-      "name": "There Is No Greater Love",
-      "url": "https://open.spotify.com/track/0mcL5G9Bf8SSzqpuQQm1bI"
-    },
-    {
-      "added_at": "2019-10-02 08:54:10",
-      "album": {
         "name": "A Generation Ago Today",
         "url": "https://open.spotify.com/album/1L4xE6y5n2qKfYqJCoqzLf"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 368000,
       "name": "Stompin' At The Savoy",
       "url": "https://open.spotify.com/track/4Skc87uKf4cHqEYbnr56La"
+    },
+    {
+      "added_at": "2019-10-02 08:54:10",
+      "album": {
+        "name": "Baker's Holiday",
+        "url": "https://open.spotify.com/album/1YpSrox7LYGq9HVxDY49SR"
+      },
+      "artists": [
+        {
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+        }
+      ],
+      "duration_ms": 154306,
+      "name": "There Is No Greater Love",
+      "url": "https://open.spotify.com/track/0mcL5G9Bf8SSzqpuQQm1bI"
     },
     {
       "added_at": "2019-10-02 08:54:10",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2019-10-04 16:01:14",
       "album": {
-        "name": "Lester Swings",
-        "url": "https://open.spotify.com/album/1YtMIgRjJvAUtbidTuRMAg"
-      },
-      "artists": [
-        {
-          "name": "Lester Young",
-          "url": "https://open.spotify.com/artist/05E3NBxNMdnrPtxF9oraJm"
-        }
-      ],
-      "duration_ms": 153600,
-      "name": "Lester Swings",
-      "url": "https://open.spotify.com/track/2LYklTGasuPu3GbcEDUuNa"
-    },
-    {
-      "added_at": "2019-10-04 16:01:14",
-      "album": {
         "name": "The Very Best of Chris Botti",
         "url": "https://open.spotify.com/album/33vfemONdHY85yWu1yjBaD"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 299066,
       "name": "First Wish",
       "url": "https://open.spotify.com/track/3vOXI61BAwIaUDJG4E6Oq6"
+    },
+    {
+      "added_at": "2019-10-04 16:01:14",
+      "album": {
+        "name": "Lester Swings",
+        "url": "https://open.spotify.com/album/1YtMIgRjJvAUtbidTuRMAg"
+      },
+      "artists": [
+        {
+          "name": "Lester Young",
+          "url": "https://open.spotify.com/artist/05E3NBxNMdnrPtxF9oraJm"
+        }
+      ],
+      "duration_ms": 153600,
+      "name": "Lester Swings",
+      "url": "https://open.spotify.com/track/2LYklTGasuPu3GbcEDUuNa"
     },
     {
       "added_at": "2019-10-04 16:01:14",
@@ -1265,22 +1265,6 @@
       "url": "https://open.spotify.com/track/6Fohf2UjKz9AJOKKw7RN0e"
     },
     {
-      "added_at": "2019-10-02 08:54:10",
-      "album": {
-        "name": "The Very Best of Chris Botti",
-        "url": "https://open.spotify.com/album/33vfemONdHY85yWu1yjBaD"
-      },
-      "artists": [
-        {
-          "name": "Chris Botti",
-          "url": "https://open.spotify.com/artist/3eFo5fMv53RYZBYlvT5Z6a"
-        }
-      ],
-      "duration_ms": 277466,
-      "name": "Worlds Outside",
-      "url": "https://open.spotify.com/track/5as828xQewhAy2JBXwakAj"
-    },
-    {
       "added_at": "2019-10-04 16:01:14",
       "album": {
         "name": "The Decca Singles 1949-1958",
@@ -1319,18 +1303,18 @@
     {
       "added_at": "2019-10-02 08:54:10",
       "album": {
-        "name": "Fred Astaire Sings & Swings Irving Berlin",
-        "url": "https://open.spotify.com/album/5eOvyKrONyccUFoW0Dh926"
+        "name": "The Very Best of Chris Botti",
+        "url": "https://open.spotify.com/album/33vfemONdHY85yWu1yjBaD"
       },
       "artists": [
         {
-          "name": "Fred Astaire",
-          "url": "https://open.spotify.com/artist/4BtDAwCZhR6nPrJtbVgQNX"
+          "name": "Chris Botti",
+          "url": "https://open.spotify.com/artist/3eFo5fMv53RYZBYlvT5Z6a"
         }
       ],
-      "duration_ms": 338826,
-      "name": "Cheek To Cheek",
-      "url": "https://open.spotify.com/track/1h3X4QybzSWb7XaokCC6iF"
+      "duration_ms": 277466,
+      "name": "Worlds Outside",
+      "url": "https://open.spotify.com/track/5as828xQewhAy2JBXwakAj"
     },
     {
       "added_at": "2019-10-02 08:54:10",
@@ -1347,6 +1331,22 @@
       "duration_ms": 251026,
       "name": "Greensleeves",
       "url": "https://open.spotify.com/track/0H1Ps1YpObdbhZOF7DLWId"
+    },
+    {
+      "added_at": "2019-10-02 08:54:10",
+      "album": {
+        "name": "Fred Astaire Sings & Swings Irving Berlin",
+        "url": "https://open.spotify.com/album/5eOvyKrONyccUFoW0Dh926"
+      },
+      "artists": [
+        {
+          "name": "Fred Astaire",
+          "url": "https://open.spotify.com/artist/4BtDAwCZhR6nPrJtbVgQNX"
+        }
+      ],
+      "duration_ms": 338826,
+      "name": "Cheek To Cheek",
+      "url": "https://open.spotify.com/track/1h3X4QybzSWb7XaokCC6iF"
     },
     {
       "added_at": "2019-10-02 08:54:10",

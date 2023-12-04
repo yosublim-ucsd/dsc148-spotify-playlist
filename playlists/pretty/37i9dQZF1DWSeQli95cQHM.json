@@ -1,12 +1,12 @@
 {
   "description": "Na m\u00fasica eletr\u00f4nica underground brasileira, nos vemos no front.",
-  "num_followers": 10525,
+  "num_followers": 10527,
   "original_name": "Front BR",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMDViY2I0MmYwNzcxMGRkMzM1NTA5M2RkY2UzNTViMGNlYjg1NzFk",
+  "snapshot_id": "MCwwZWJmZjRhZTMxMjFmMTNiOTUzNTAxOTZjZjU1M2NjNWY3MjYzZDYw",
   "tracks": [
     {
       "added_at": "2023-11-10 03:03:00",
@@ -323,6 +323,26 @@
     {
       "added_at": "2023-11-10 03:03:00",
       "album": {
+        "name": "Rock The Box",
+        "url": "https://open.spotify.com/album/15RTVs764De4RhPcuu03li"
+      },
+      "artists": [
+        {
+          "name": "Vermelho",
+          "url": "https://open.spotify.com/artist/2zYmmCfO526zTJnHlNB9tL"
+        },
+        {
+          "name": "Ivana Wonder",
+          "url": "https://open.spotify.com/artist/2vVl1smWpL0tEKjzucRXM7"
+        }
+      ],
+      "duration_ms": 382204,
+      "name": "Rock The Box - Original",
+      "url": "https://open.spotify.com/track/5XeYuUSlDpBLXh1zGexb6a"
+    },
+    {
+      "added_at": "2023-11-10 03:03:00",
+      "album": {
         "name": "TRAVESSIA",
         "url": "https://open.spotify.com/album/6U6CxG7eUVvVMUDP4mxzRI"
       },
@@ -407,26 +427,6 @@
     {
       "added_at": "2023-11-10 03:03:00",
       "album": {
-        "name": "Rock The Box",
-        "url": "https://open.spotify.com/album/15RTVs764De4RhPcuu03li"
-      },
-      "artists": [
-        {
-          "name": "Vermelho",
-          "url": "https://open.spotify.com/artist/2zYmmCfO526zTJnHlNB9tL"
-        },
-        {
-          "name": "Ivana Wonder",
-          "url": "https://open.spotify.com/artist/2vVl1smWpL0tEKjzucRXM7"
-        }
-      ],
-      "duration_ms": 382204,
-      "name": "Rock The Box - Original",
-      "url": "https://open.spotify.com/track/5XeYuUSlDpBLXh1zGexb6a"
-    },
-    {
-      "added_at": "2023-11-10 03:03:00",
-      "album": {
         "name": "Geleia de Morango",
         "url": "https://open.spotify.com/album/2ELCWydR1EfR4GkBJmpFjD"
       },
@@ -455,22 +455,6 @@
       "duration_ms": 248062,
       "name": "Sarrafando Em Voc\u00ea",
       "url": "https://open.spotify.com/track/6JZkMxPusCNSnC8LkqpnWD"
-    },
-    {
-      "added_at": "2023-11-10 03:03:00",
-      "album": {
-        "name": "Mensagem",
-        "url": "https://open.spotify.com/album/2TQmM3zK1XuCRLAYmcPQhb"
-      },
-      "artists": [
-        {
-          "name": "Zopelar",
-          "url": "https://open.spotify.com/artist/0Qr2iLEeyLhd9rLHH1piYb"
-        }
-      ],
-      "duration_ms": 266133,
-      "name": "Orange Sunlight",
-      "url": "https://open.spotify.com/track/3DkKyCC7BJViCAkirE2kMP"
     },
     {
       "added_at": "2023-11-10 03:03:00",
@@ -539,26 +523,6 @@
     {
       "added_at": "2023-11-10 03:03:00",
       "album": {
-        "name": "Me Destr\u00f3i (Stroka Remix)",
-        "url": "https://open.spotify.com/album/0UqwQYgvQzQUPIFPAhrIgW"
-      },
-      "artists": [
-        {
-          "name": "Thiago Pethit",
-          "url": "https://open.spotify.com/artist/11bqiv12xCing2jMbszqOD"
-        },
-        {
-          "name": "Stroka",
-          "url": "https://open.spotify.com/artist/53DrlPptHzk8iT1xoJDYX5"
-        }
-      ],
-      "duration_ms": 307200,
-      "name": "Me Destr\u00f3i - Stroka Remix",
-      "url": "https://open.spotify.com/track/0hBrepTEx9hxqs6xXeNh6R"
-    },
-    {
-      "added_at": "2023-11-10 03:03:00",
-      "album": {
         "name": "Proibidao EP",
         "url": "https://open.spotify.com/album/4QGXGZqhe0fi5tu2TBijEj"
       },
@@ -587,6 +551,42 @@
     {
       "added_at": "2023-11-10 03:03:00",
       "album": {
+        "name": "Mensagem",
+        "url": "https://open.spotify.com/album/2TQmM3zK1XuCRLAYmcPQhb"
+      },
+      "artists": [
+        {
+          "name": "Zopelar",
+          "url": "https://open.spotify.com/artist/0Qr2iLEeyLhd9rLHH1piYb"
+        }
+      ],
+      "duration_ms": 266133,
+      "name": "Orange Sunlight",
+      "url": "https://open.spotify.com/track/3DkKyCC7BJViCAkirE2kMP"
+    },
+    {
+      "added_at": "2023-11-10 03:03:00",
+      "album": {
+        "name": "Me Destr\u00f3i (Stroka Remix)",
+        "url": "https://open.spotify.com/album/0UqwQYgvQzQUPIFPAhrIgW"
+      },
+      "artists": [
+        {
+          "name": "Thiago Pethit",
+          "url": "https://open.spotify.com/artist/11bqiv12xCing2jMbszqOD"
+        },
+        {
+          "name": "Stroka",
+          "url": "https://open.spotify.com/artist/53DrlPptHzk8iT1xoJDYX5"
+        }
+      ],
+      "duration_ms": 307200,
+      "name": "Me Destr\u00f3i - Stroka Remix",
+      "url": "https://open.spotify.com/track/0hBrepTEx9hxqs6xXeNh6R"
+    },
+    {
+      "added_at": "2023-11-10 03:03:00",
+      "album": {
         "name": "Criptogramas",
         "url": "https://open.spotify.com/album/3VcGCItNhMLK3PG6bthKVu"
       },
@@ -599,38 +599,6 @@
       "duration_ms": 333103,
       "name": "Criptogramas",
       "url": "https://open.spotify.com/track/3DDPknKZvBbb98U1zEDN0w"
-    },
-    {
-      "added_at": "2023-11-10 03:03:00",
-      "album": {
-        "name": "Nocturnal Fear",
-        "url": "https://open.spotify.com/album/5SKJOj2pql5vvHUz2TYtmP"
-      },
-      "artists": [
-        {
-          "name": "RHR",
-          "url": "https://open.spotify.com/artist/2Q01XKiycTMJqmeGbGcxX6"
-        }
-      ],
-      "duration_ms": 336400,
-      "name": "Colapso",
-      "url": "https://open.spotify.com/track/0GnU3VwY3jlVvOIm8mSwPb"
-    },
-    {
-      "added_at": "2023-11-10 03:03:00",
-      "album": {
-        "name": "Charme",
-        "url": "https://open.spotify.com/album/60cvpqPVesp2srVcNCFKJV"
-      },
-      "artists": [
-        {
-          "name": "Zopelar",
-          "url": "https://open.spotify.com/artist/0Qr2iLEeyLhd9rLHH1piYb"
-        }
-      ],
-      "duration_ms": 247594,
-      "name": "Shibuya",
-      "url": "https://open.spotify.com/track/37a26nmggsuaojxP7TauTH"
     },
     {
       "added_at": "2023-11-10 03:03:00",
@@ -651,6 +619,22 @@
       "duration_ms": 303161,
       "name": "Corpo Fechado",
       "url": "https://open.spotify.com/track/3JtseE56PXDVUvZUqwbx5K"
+    },
+    {
+      "added_at": "2023-11-10 03:03:00",
+      "album": {
+        "name": "Nocturnal Fear",
+        "url": "https://open.spotify.com/album/5SKJOj2pql5vvHUz2TYtmP"
+      },
+      "artists": [
+        {
+          "name": "RHR",
+          "url": "https://open.spotify.com/artist/2Q01XKiycTMJqmeGbGcxX6"
+        }
+      ],
+      "duration_ms": 336400,
+      "name": "Colapso",
+      "url": "https://open.spotify.com/track/0GnU3VwY3jlVvOIm8mSwPb"
     },
     {
       "added_at": "2023-11-10 03:03:00",
@@ -751,6 +735,22 @@
     {
       "added_at": "2023-11-10 03:03:00",
       "album": {
+        "name": "Charme",
+        "url": "https://open.spotify.com/album/60cvpqPVesp2srVcNCFKJV"
+      },
+      "artists": [
+        {
+          "name": "Zopelar",
+          "url": "https://open.spotify.com/artist/0Qr2iLEeyLhd9rLHH1piYb"
+        }
+      ],
+      "duration_ms": 247594,
+      "name": "Shibuya",
+      "url": "https://open.spotify.com/track/37a26nmggsuaojxP7TauTH"
+    },
+    {
+      "added_at": "2023-11-10 03:03:00",
+      "album": {
         "name": "Flame of the Pine Cone",
         "url": "https://open.spotify.com/album/5qWaHba39117j2eCaKiHIW"
       },
@@ -819,22 +819,6 @@
     {
       "added_at": "2023-11-10 03:03:00",
       "album": {
-        "name": "N\u00f3dulo",
-        "url": "https://open.spotify.com/album/43JSvwecrejD1GqA0KGiWb"
-      },
-      "artists": [
-        {
-          "name": "Entropia-Entalpia",
-          "url": "https://open.spotify.com/artist/2SJ1flrpAzQqdayHjbRe2e"
-        }
-      ],
-      "duration_ms": 453333,
-      "name": "Sobre Tum Tum Ta",
-      "url": "https://open.spotify.com/track/52zdd6JFOv7k95Zrk1Eb46"
-    },
-    {
-      "added_at": "2023-11-10 03:03:00",
-      "album": {
         "name": "Bajolo Vol. I",
         "url": "https://open.spotify.com/album/6fh8K2jIvzokVcWbr7kkhx"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 384480,
       "name": "Vou Pra Longe (Floatin')",
       "url": "https://open.spotify.com/track/7KxarymbMmEiz8Cae7RwMZ"
+    },
+    {
+      "added_at": "2023-11-10 03:03:00",
+      "album": {
+        "name": "V.Acina, Vol.1",
+        "url": "https://open.spotify.com/album/7HQdcJ7vVn4peTFqTrLe54"
+      },
+      "artists": [
+        {
+          "name": "Brisa Busters",
+          "url": "https://open.spotify.com/artist/1aljmjX3dsFm1MGihqcxoP"
+        }
+      ],
+      "duration_ms": 396922,
+      "name": "Eu Vou Surfar Na Pista",
+      "url": "https://open.spotify.com/track/2ZLNBOe9ytRcrHlqNrqBfL"
     },
     {
       "added_at": "2023-11-10 03:03:00",
@@ -871,6 +871,22 @@
     {
       "added_at": "2023-11-10 03:03:00",
       "album": {
+        "name": "N\u00f3dulo",
+        "url": "https://open.spotify.com/album/43JSvwecrejD1GqA0KGiWb"
+      },
+      "artists": [
+        {
+          "name": "Entropia-Entalpia",
+          "url": "https://open.spotify.com/artist/2SJ1flrpAzQqdayHjbRe2e"
+        }
+      ],
+      "duration_ms": 453333,
+      "name": "Sobre Tum Tum Ta",
+      "url": "https://open.spotify.com/track/52zdd6JFOv7k95Zrk1Eb46"
+    },
+    {
+      "added_at": "2023-11-10 03:03:00",
+      "album": {
         "name": "VA IFN 001 - Techno Concept",
         "url": "https://open.spotify.com/album/4lwp9JmCU7CxpDPp1HF0L6"
       },
@@ -883,26 +899,6 @@
       "duration_ms": 311129,
       "name": "Fixity - Original Mix",
       "url": "https://open.spotify.com/track/6qLbhDQaerJfb8q9AdoP70"
-    },
-    {
-      "added_at": "2023-11-10 03:03:00",
-      "album": {
-        "name": "V.Acina, Vol.1",
-        "url": "https://open.spotify.com/album/7HQdcJ7vVn4peTFqTrLe54"
-      },
-      "artists": [
-        {
-          "name": "Gabto",
-          "url": "https://open.spotify.com/artist/2rHQ2hZZmJeJlkPp5OzzuP"
-        },
-        {
-          "name": "Kauan Marco",
-          "url": "https://open.spotify.com/artist/3z9jaftmzYCieMJL9mT0Uo"
-        }
-      ],
-      "duration_ms": 357128,
-      "name": "Dance n' Casa",
-      "url": "https://open.spotify.com/track/1HNPk849XJsAgXx6JrQRVu"
     }
   ],
   "unique_name": "Front BR",

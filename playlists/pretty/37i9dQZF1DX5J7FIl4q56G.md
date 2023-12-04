@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 
 > This week's best new metal & hard rock tracks\. Cover: P.O.D\. & Tatiana Shmayluk of Jinjer
 
-[Spotify](https://open.spotify.com/user/spotify) - 711,999 likes - 60 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 712,082 likes - 60 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,7 +59,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 49 | [Teeth](https://open.spotify.com/track/1VvFSvoNAEdrLr5d8lmFzK) | [Going Off](https://open.spotify.com/artist/2xCCFcGLx1oUlS1AMtfBo9) | [KILL LIST](https://open.spotify.com/album/5A1gYnXzF2IOCcCSfWkWgR) | 1:52 |
 | 50 | [NOT THE SAME](https://open.spotify.com/track/2fNt0y7pQ4KBQJuWn8u6kq) | [VEXHC](https://open.spotify.com/artist/4pkZBo45YYgKwDhEkmBh1i) | [BITE BACK \(EP\)](https://open.spotify.com/album/7fmH0PXuRh6wTq7O2AD4N7) | 2:23 |
 | 51 | [20mg](https://open.spotify.com/track/6Z1aviLErhr1zQJB3rweDN) | [Revnoir](https://open.spotify.com/artist/6Jnxg5O26hXfwfbRSMzVuB) | [20mg](https://open.spotify.com/album/4xIpnI8TdB63xORIt3zsVX) | 3:15 |
-| 52 | [S.E.X.](https://open.spotify.com/track/0YTyQ8tK1bFgbuVbUL0333) | [Cobra Spell](https://open.spotify.com/artist/4UrOQcsh8WvcWpugasHJCM) | [S.E.X.](https://open.spotify.com/album/6r8rSW4aCkHQxSyGb8wQyf) | 4:38 |
+| 52 | [S.E.X.](https://open.spotify.com/track/4bSWZIgjCsCLzGCwlcv3Sm) | [Cobra Spell](https://open.spotify.com/artist/4UrOQcsh8WvcWpugasHJCM) | [666](https://open.spotify.com/album/1WNMeQCI0EvQiTkrBzq2be) | 4:38 |
 | 53 | [No Surrender](https://open.spotify.com/track/5sH8xONSmcLdD4AQFAVM1u) | [Axenstar](https://open.spotify.com/artist/7BD05AA3768YwBdtg2FIRr) | [Chapter VIII](https://open.spotify.com/album/5o6cBuG2kVzlr8Vno1YVPe) | 3:34 |
 | 54 | [Killjoy](https://open.spotify.com/track/5pw4X98s314Ssi8tyIenRb) | [We Weren't Invited](https://open.spotify.com/artist/484CN86xjq6HfQv21USxVa) | [Killjoy](https://open.spotify.com/album/13YlQYVyIELs6yG1NvdcG7) | 3:28 |
 | 55 | [Crown Of Thorns](https://open.spotify.com/track/68z7WHSa1HtzUv98Z9wdg4) | [Vicious Rain](https://open.spotify.com/artist/5gMc4HiJRY9g63KiaulaBp) | [Crown Of Thorns](https://open.spotify.com/album/06odwgpogKARqTHmE4Fa7a) | 4:58 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 59 | [Become](https://open.spotify.com/track/1c4oMHCWauxx7lxfLcxXIc) | [Swansong](https://open.spotify.com/artist/41o7icKIwWbg8W9i55eVeW) | [Awakening](https://open.spotify.com/album/4D1cBnDimRXADjROlMhP5A) | 5:02 |
 | 60 | [PATIENCE](https://open.spotify.com/track/5DXNdJt1Ros4XQKbgICDpH) | [Eiga](https://open.spotify.com/artist/2WAmN5MiGL8XYhlXODKB0d) | [PATIENCE](https://open.spotify.com/album/6nm5vWTUE25yt7Z4UYSqKz) | 3:48 |
 
-Snapshot ID: `MCxkMDA5ZWU5ZDIxMWFmYzcyNTJmMzk1YTY4NzZjYTExNGJlNjI5OTRi`
+Snapshot ID: `MCxjOGRjZjgxMTcwMWZjNDEyMzM5MTNiM2ZkZDYwNDAyZmE2NmE1Njhh`

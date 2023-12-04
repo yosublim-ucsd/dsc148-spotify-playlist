@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSQKhuz8pGsw.md) - [plain]
 
 > Un recorrido por los inicios del reggaetón en Puerto Rico y su evolución hasta hoy.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,884 likes - 70 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,976 likes - 70 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSQKhuz8pGsw.md) - [plain]
 | 5 | [El Desorden](https://open.spotify.com/track/6aN4Q9KH0FXyG3fJ0Ox29j) | [Rey Pirin](https://open.spotify.com/artist/1ViM1nVwtJmRm5CSXyU0U9), [DJ Blass](https://open.spotify.com/artist/1ZijgA5CMnToosMd24krUH) | [Warriors 3 "Los Magnificos"](https://open.spotify.com/album/4Beo5YU8jNqUKOPquWCr0o) | 2:08 |
 | 6 | [Te la Tiro Pa Que Bailes](https://open.spotify.com/track/4y9Yn8z2cUVvmSPFMEVirk) | [Dj Joe](https://open.spotify.com/artist/3mOpXyQgTwyCxIjz9EEIFN), [Plan B](https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP) | [Fatal Fantassy 3](https://open.spotify.com/album/1p94g5LjKqmbAyGXQMheub) | 2:47 |
 | 7 | [Plan B](https://open.spotify.com/track/7dypgwkBpkRoSOzFJyGM5b) | [Dj Joe](https://open.spotify.com/artist/3mOpXyQgTwyCxIjz9EEIFN), [Plan B](https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP) | [Fatal Fantassy 2 \(Esto Es Mambo\)](https://open.spotify.com/album/3j58PfEDxIWbhwonqMLBu9) | 2:39 |
-| 8 | [Agarrala](https://open.spotify.com/track/50K0GKbudptd9wZwQlQWdj) | [Trebol Clan](https://open.spotify.com/artist/3YXpTiyVmYCfANOlnWv6vr) | [Reggaeton Hall of Fame, Vol\. 1](https://open.spotify.com/album/7z9bNKljyF4BCVf6srNhN0) | 2:37 |
+| 8 | [Agárrala \- Remix](https://open.spotify.com/track/3x7uFW9r8FpZpS7vlGShiJ) | [Trebol Clan](https://open.spotify.com/artist/3YXpTiyVmYCfANOlnWv6vr) | [Los Bacatranes](https://open.spotify.com/album/0SwqLSkutjgKHO8Y7jCplA) | 2:32 |
 | 9 | [5 de Septiembre \- Reggaeton Version](https://open.spotify.com/track/4FFJMmVTeDKKlXYQmgNPMn) | [Vico C](https://open.spotify.com/artist/0GutRVONcyyBj1WduodFc6) | [En Honor A La Verdad](https://open.spotify.com/album/5SPZrujb8SCEAi4nobYNKW) | 2:57 |
 | 10 | [Quitate Tu Pa Ponerme Yo](https://open.spotify.com/track/16KDdey3vnSBWwqUZoe1cT) | [Eddie Dee](https://open.spotify.com/artist/7zLcnirfgw1VEHHshuGcDR), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Gallego](https://open.spotify.com/artist/6P9Adm5Ne2YtzhV1hOjQcC), [Tego Calderón](https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP), [Voltio](https://open.spotify.com/artist/3Okcq0dqLVlEFHRZ5t22bA), [Ivy Queen](https://open.spotify.com/artist/6p2442ymrT9lZEuCZJdYcH), [Johnny Prez](https://open.spotify.com/artist/6gm3ZEpugRTHbtEn3A6Siw), [Wiso G](https://open.spotify.com/artist/0LZaKjCxp13clON7dlplRt), [Lennox](https://open.spotify.com/artist/7BOLXRhKCofrP6ESS7Owuo) | [12 Discipulos](https://open.spotify.com/album/7txBx0XCrl5IhJuTNgNV4w) | 4:51 |
 | 11 | [Dembow](https://open.spotify.com/track/1JV7GONwi6qMLb9J7kcSTV) | [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9) | [Mi Vida…My Life](https://open.spotify.com/album/0y7oxuXXNYU62jnrvutSSm) | 2:58 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSQKhuz8pGsw.md) - [plain]
 | 69 | [te kiero ver](https://open.spotify.com/track/6K1l7zkN6jFOxsAEgiW8wV) | [paopao](https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [te kiero ver](https://open.spotify.com/album/3Rq86WgPd26s4M9xTzieGg) | 2:27 |
 | 70 | [Tentretiene](https://open.spotify.com/track/293iNq7P3oWVUePlQKFykB) | [RaiNao](https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN) | [Tentretiene](https://open.spotify.com/album/1zF1aGjaDJG5j4ONp63ACG) | 3:42 |
 
-Snapshot ID: `MCwzZTAzYTYwMTUyM2ZkN2U0N2I1M2ZhOWNkNmE5NWY5OWMxMDc2NWI2`
+Snapshot ID: `MCw3ZWZjZTVlMjcwNjA4MmMzZDIwOGQ5YzE5ZWI4ZTdjZDE1NTA2YTMy`

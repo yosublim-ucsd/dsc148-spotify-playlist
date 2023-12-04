@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Con todo el sentimiento andino! Foto: William Luna",
-  "num_followers": 38700,
+  "num_followers": 38741,
   "original_name": "Huaynos Cl\u00e1sicos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMjY5Y2Y4ODlmNDI2NTU4OTFjMTQxZWFmMWYxNTQxZmViOTcxZTY0",
+  "snapshot_id": "MCxmOTM2YWE4ZmNmMjNhMDc3M2Y0MTRlZWJlZjkzNTRmZmMzMTcyNGY2",
   "tracks": [
     {
       "added_at": "2022-02-04 14:45:56",
@@ -159,18 +159,18 @@
     {
       "added_at": "2022-02-04 14:45:56",
       "album": {
-        "name": "Un Sentimiento de Amor",
-        "url": "https://open.spotify.com/album/2TBbljVi1JnwCNuVMBHmiJ"
+        "name": "Olvidame",
+        "url": "https://open.spotify.com/album/1TyZdWfNCLMUd1sikT13CZ"
       },
       "artists": [
         {
-          "name": "Ra\u00edces D'Jauja",
-          "url": "https://open.spotify.com/artist/2i5IMep3W8A3oFcCI3kp0D"
+          "name": "String Karma",
+          "url": "https://open.spotify.com/artist/42VMxC4VzMu9akH0YIUexx"
         }
       ],
-      "duration_ms": 277603,
-      "name": "Amor Ajeno",
-      "url": "https://open.spotify.com/track/3UlgjKoybmeyMmfIspHBe9"
+      "duration_ms": 265599,
+      "name": "Cajamarquina",
+      "url": "https://open.spotify.com/track/5tOCsVNHO1rEtC7KaP2v3E"
     },
     {
       "added_at": "2022-02-04 14:45:56",
@@ -187,6 +187,22 @@
       "duration_ms": 270289,
       "name": "Olvidame",
       "url": "https://open.spotify.com/track/0vEBYwEwOYVq1tPqB2Qohf"
+    },
+    {
+      "added_at": "2022-02-04 14:45:56",
+      "album": {
+        "name": "Un Sentimiento de Amor",
+        "url": "https://open.spotify.com/album/2TBbljVi1JnwCNuVMBHmiJ"
+      },
+      "artists": [
+        {
+          "name": "Ra\u00edces D'Jauja",
+          "url": "https://open.spotify.com/artist/2i5IMep3W8A3oFcCI3kp0D"
+        }
+      ],
+      "duration_ms": 277603,
+      "name": "Amor Ajeno",
+      "url": "https://open.spotify.com/track/3UlgjKoybmeyMmfIspHBe9"
     },
     {
       "added_at": "2022-02-04 14:45:56",
@@ -223,22 +239,6 @@
     {
       "added_at": "2022-02-04 14:45:56",
       "album": {
-        "name": "Lejos de Ti",
-        "url": "https://open.spotify.com/album/2Jlb5DtMYxEaP5V2W3L6s7"
-      },
-      "artists": [
-        {
-          "name": "Pelo D'Ambrosio",
-          "url": "https://open.spotify.com/artist/7d1wBAl5FEvOENbACiZIYZ"
-        }
-      ],
-      "duration_ms": 281653,
-      "name": "Ay Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/0bzZwaUXxJGoEYGrPdSLwk"
-    },
-    {
-      "added_at": "2022-02-04 14:45:56",
-      "album": {
         "name": "Amor, amor",
         "url": "https://open.spotify.com/album/6Cu6M7FESzzGeFLtyMz5Zh"
       },
@@ -255,18 +255,18 @@
     {
       "added_at": "2022-02-04 14:45:56",
       "album": {
-        "name": "Un Sentimiento de Amor",
-        "url": "https://open.spotify.com/album/2TBbljVi1JnwCNuVMBHmiJ"
+        "name": "Lejos de Ti",
+        "url": "https://open.spotify.com/album/2Jlb5DtMYxEaP5V2W3L6s7"
       },
       "artists": [
         {
-          "name": "Ra\u00edces D'Jauja",
-          "url": "https://open.spotify.com/artist/2i5IMep3W8A3oFcCI3kp0D"
+          "name": "Pelo D'Ambrosio",
+          "url": "https://open.spotify.com/artist/7d1wBAl5FEvOENbACiZIYZ"
         }
       ],
-      "duration_ms": 263680,
-      "name": "La Orquesta",
-      "url": "https://open.spotify.com/track/0NM3JRUlrBhKbJM2lgKesV"
+      "duration_ms": 281653,
+      "name": "Ay Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/0bzZwaUXxJGoEYGrPdSLwk"
     },
     {
       "added_at": "2022-02-04 14:45:56",
@@ -319,22 +319,6 @@
     {
       "added_at": "2022-02-04 14:45:56",
       "album": {
-        "name": "Olvidame",
-        "url": "https://open.spotify.com/album/1TyZdWfNCLMUd1sikT13CZ"
-      },
-      "artists": [
-        {
-          "name": "String Karma",
-          "url": "https://open.spotify.com/artist/42VMxC4VzMu9akH0YIUexx"
-        }
-      ],
-      "duration_ms": 265599,
-      "name": "Cajamarquina",
-      "url": "https://open.spotify.com/track/5tOCsVNHO1rEtC7KaP2v3E"
-    },
-    {
-      "added_at": "2022-02-04 14:45:56",
-      "album": {
         "name": "Amanda Portales la Novia del Per\u00fa",
         "url": "https://open.spotify.com/album/30eO7WmS3tMRiY9MLfLWMn"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 197866,
       "name": "Otra vez me equivoqu\u00e9",
       "url": "https://open.spotify.com/track/68fz1ipIJt51gEEZY9Y0eP"
+    },
+    {
+      "added_at": "2022-02-04 14:45:56",
+      "album": {
+        "name": "Un Sentimiento de Amor",
+        "url": "https://open.spotify.com/album/2TBbljVi1JnwCNuVMBHmiJ"
+      },
+      "artists": [
+        {
+          "name": "Ra\u00edces D'Jauja",
+          "url": "https://open.spotify.com/artist/2i5IMep3W8A3oFcCI3kp0D"
+        }
+      ],
+      "duration_ms": 263680,
+      "name": "La Orquesta",
+      "url": "https://open.spotify.com/track/0NM3JRUlrBhKbJM2lgKesV"
     },
     {
       "added_at": "2022-02-04 14:45:56",
@@ -723,22 +723,6 @@
     {
       "added_at": "2022-02-04 14:45:56",
       "album": {
-        "name": "Lo Mejor del Incomparable...Mario Mendoza",
-        "url": "https://open.spotify.com/album/1fq9eMMW89xN3BxZvWgDuw"
-      },
-      "artists": [
-        {
-          "name": "Mario Mendoza",
-          "url": "https://open.spotify.com/artist/16wOUZsJRt4lH9cM9Js3VQ"
-        }
-      ],
-      "duration_ms": 163080,
-      "name": "Mi Linda Ni\u00f1a",
-      "url": "https://open.spotify.com/track/0Pf4rmQmrIl6G0bbuszuwH"
-    },
-    {
-      "added_at": "2022-02-04 14:45:56",
-      "album": {
         "name": "La princesa del Folklore",
         "url": "https://open.spotify.com/album/45hG14f1YCGyg1ezB97HlR"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 270000,
       "name": "D\u00f3nde Est\u00e1 tu Dinero",
       "url": "https://open.spotify.com/track/6i1F5QTSueIXqY0lkmkjEo"
+    },
+    {
+      "added_at": "2022-02-04 14:45:56",
+      "album": {
+        "name": "Lo Mejor del Incomparable...Mario Mendoza",
+        "url": "https://open.spotify.com/album/1fq9eMMW89xN3BxZvWgDuw"
+      },
+      "artists": [
+        {
+          "name": "Mario Mendoza",
+          "url": "https://open.spotify.com/artist/16wOUZsJRt4lH9cM9Js3VQ"
+        }
+      ],
+      "duration_ms": 163080,
+      "name": "Mi Linda Ni\u00f1a",
+      "url": "https://open.spotify.com/track/0Pf4rmQmrIl6G0bbuszuwH"
     },
     {
       "added_at": "2022-02-04 14:45:56",
@@ -883,6 +883,22 @@
     {
       "added_at": "2022-02-04 14:45:56",
       "album": {
+        "name": "La Nueva Expresi\u00f3n del Folklore de Bolivia",
+        "url": "https://open.spotify.com/album/0X1nBJpPBaIT8mFh0XnBoU"
+      },
+      "artists": [
+        {
+          "name": "Proyecci\u00f3n",
+          "url": "https://open.spotify.com/artist/119DPASXtwEkIiAoRSOUR8"
+        }
+      ],
+      "duration_ms": 240293,
+      "name": "Un Pasajero en T\u00fa Camino",
+      "url": "https://open.spotify.com/track/3LZccAbS0T0UdH661mUno3"
+    },
+    {
+      "added_at": "2022-02-04 14:45:56",
+      "album": {
         "name": "Lo Mejor del Incomparable...Mario Mendoza",
         "url": "https://open.spotify.com/album/1fq9eMMW89xN3BxZvWgDuw"
       },
@@ -915,22 +931,6 @@
       "duration_ms": 250533,
       "name": "Amor Verdadero",
       "url": "https://open.spotify.com/track/1CMgLNMnmOzQc1pbaVwctV"
-    },
-    {
-      "added_at": "2022-02-04 14:45:56",
-      "album": {
-        "name": "La Nueva Expresi\u00f3n del Folklore de Bolivia",
-        "url": "https://open.spotify.com/album/0X1nBJpPBaIT8mFh0XnBoU"
-      },
-      "artists": [
-        {
-          "name": "Proyecci\u00f3n",
-          "url": "https://open.spotify.com/artist/119DPASXtwEkIiAoRSOUR8"
-        }
-      ],
-      "duration_ms": 240293,
-      "name": "Un Pasajero en T\u00fa Camino",
-      "url": "https://open.spotify.com/track/3LZccAbS0T0UdH661mUno3"
     },
     {
       "added_at": "2022-02-04 14:45:56",

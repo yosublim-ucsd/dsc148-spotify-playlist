@@ -1,12 +1,12 @@
 {
   "description": "Hip hop and rap music from Nigeria. Cover: <a href=\"https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy?si=U8w7_PIuTm6h7wIv43Ji2g\"> ODUMODUBLVCK</a>",
-  "num_followers": 36138,
+  "num_followers": 36305,
   "original_name": "Naija Bars ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYWVlOTU3YzQ0ZmE1ZmM5ZjY0YTg1Y2QwNzQ5MGM3YmYyOTUzMzNi",
+  "snapshot_id": "MCwxOWIxMTI2YmY4OWUwNTllYjFkODc2YWEyNDhlNmU1MmE5ZGJhNWFi",
   "tracks": [
     {
       "added_at": "2023-12-01 05:51:24",
@@ -1239,26 +1239,6 @@
     {
       "added_at": "2023-12-01 05:51:24",
       "album": {
-        "name": "Offer",
-        "url": "https://open.spotify.com/album/50F4J1EHs1IncMSPztq6yJ"
-      },
-      "artists": [
-        {
-          "name": "PDSTRN",
-          "url": "https://open.spotify.com/artist/7oAl5VKsXmNAcXuyKA5sSv"
-        },
-        {
-          "name": "Vector",
-          "url": "https://open.spotify.com/artist/2dIFhJ8RkRS2rXeDefY3t1"
-        }
-      ],
-      "duration_ms": 124983,
-      "name": "Offer",
-      "url": "https://open.spotify.com/track/4ogJO1FCRzu1mbYJ5ykHzG"
-    },
-    {
-      "added_at": "2023-12-01 05:51:24",
-      "album": {
         "name": "Bando Diaries",
         "url": "https://open.spotify.com/album/21YNT7rWSXlWMDph9ZZnuC"
       },
@@ -1275,6 +1255,26 @@
       "duration_ms": 158298,
       "name": "Bando Diaries",
       "url": "https://open.spotify.com/track/6GbCVFzQZXgP2yd3EQv4hp"
+    },
+    {
+      "added_at": "2023-12-01 05:51:24",
+      "album": {
+        "name": "Offer",
+        "url": "https://open.spotify.com/album/50F4J1EHs1IncMSPztq6yJ"
+      },
+      "artists": [
+        {
+          "name": "PDSTRN",
+          "url": "https://open.spotify.com/artist/7oAl5VKsXmNAcXuyKA5sSv"
+        },
+        {
+          "name": "Vector",
+          "url": "https://open.spotify.com/artist/2dIFhJ8RkRS2rXeDefY3t1"
+        }
+      ],
+      "duration_ms": 124983,
+      "name": "Offer",
+      "url": "https://open.spotify.com/track/4ogJO1FCRzu1mbYJ5ykHzG"
     },
     {
       "added_at": "2023-12-01 05:51:24",
@@ -1303,6 +1303,26 @@
       "duration_ms": 172500,
       "name": "Where Dem Dey - Remix",
       "url": "https://open.spotify.com/track/5Lxbl2U3zVqF93OYsQgLhY"
+    },
+    {
+      "added_at": "2023-12-01 05:51:24",
+      "album": {
+        "name": "Sere (feat. Tega boi dc)",
+        "url": "https://open.spotify.com/album/0luLBx14FYCia0BSO2y1Ws"
+      },
+      "artists": [
+        {
+          "name": "Evil Beast",
+          "url": "https://open.spotify.com/artist/5u8fXdV50qHK0ywnVWbmmw"
+        },
+        {
+          "name": "Tega Boi Dc",
+          "url": "https://open.spotify.com/artist/16CdFOraHt0BYRkeB7gT5M"
+        }
+      ],
+      "duration_ms": 130873,
+      "name": "Sere (feat. Tega boi dc)",
+      "url": "https://open.spotify.com/track/5hU61pgNrTLnAdJORwv5Nd"
     },
     {
       "added_at": "2023-12-01 05:51:24",
@@ -1391,30 +1411,6 @@
       "duration_ms": 179571,
       "name": "ALA BEKE 2",
       "url": "https://open.spotify.com/track/4K9AA4YDiI3y4NPKevpyGN"
-    },
-    {
-      "added_at": "2023-12-01 05:51:24",
-      "album": {
-        "name": "STILL FIGURING LIFE",
-        "url": "https://open.spotify.com/album/3lnimhNmAuy3FzBkCiVfT9"
-      },
-      "artists": [
-        {
-          "name": "Kayode",
-          "url": "https://open.spotify.com/artist/2m9oQENA478WyWswPjnxyr"
-        },
-        {
-          "name": "PsychoYP",
-          "url": "https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr"
-        },
-        {
-          "name": "ODUMODUBLVCK",
-          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
-        }
-      ],
-      "duration_ms": 161118,
-      "name": "Blessings",
-      "url": "https://open.spotify.com/track/6brVEF4Ru3xosD8F6zYJXY"
     }
   ],
   "unique_name": "Naija Bars ",

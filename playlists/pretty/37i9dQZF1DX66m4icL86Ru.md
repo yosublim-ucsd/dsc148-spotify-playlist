@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX66m4icL86Ru.md) - [plain]
 
 > Bad b\*\*\*\* energy\. Be blessed, be spicy\. Cover: Doja Cat
 
-[Spotify](https://open.spotify.com/user/spotify) - 864,712 likes - 77 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 864,800 likes - 77 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,4 +86,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX66m4icL86Ru.md) - [plain]
 | 76 | [Her](https://open.spotify.com/track/5hHvFrMnwic82WwRLr4WY0) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Traumazine](https://open.spotify.com/album/4YP0h2KGDb20eJuStnBvim) | 2:17 |
 | 77 | [Money Come \(Remix\)](https://open.spotify.com/track/2tqwKHgPswTefQEFX1D53j) | [Iggy Azalea](https://open.spotify.com/artist/5yG7ZAZafVaAlMTeBybKAL), [Ivorian Doll](https://open.spotify.com/artist/5zWJtrglcTFohMajO2qrgd), [Big Boss Vette](https://open.spotify.com/artist/6fKiutMtRIcxi4zEau0BuI) | [Money Come \(Remix\) \[feat\. Ivorian Doll & Big Boss Vette\]](https://open.spotify.com/album/4OXrnvtWDjyAw4dY1KilOv) | 3:33 |
 
-Snapshot ID: `MCxlMTVmYjNlNmIyOGJjMDEwMDRjNjczYTNiYzkyMWJiYjIwMjFjNmVl`
+Snapshot ID: `MCwwMDNjMTA1MTM3ODI4NzI1NDVjMDcxNjExMGRiN2JiNmY5NmUwM2Y0`

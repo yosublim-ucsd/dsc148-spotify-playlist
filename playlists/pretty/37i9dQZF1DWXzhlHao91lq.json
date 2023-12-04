@@ -1,12 +1,12 @@
 {
   "description": "\u4ee5\u8f15\u5feb\u53c8\u5bcc\u539f\u91ce\u6c23\u606f\u7684\u6c11\u8b20\u642d\u914d\u5348\u8336\uff0c\u8b93\u8033\u969b\u3001\u9f52\u9830\u4e00\u540c\u7559\u9999\uff0c\u597d\u5fc3\u60c5\u958b\u82b1\u7d50\u679c\u3002",
-  "num_followers": 71076,
+  "num_followers": 71086,
   "original_name": "\u82b1\u8349\u4e0b\u5348\u8336",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZDk2OWY5NjM0NDc1YWY5YTRkNDJkOGRjNGVlYjUwNTRiYWY0ZmYz",
+  "snapshot_id": "MCw3OWFkMTY4NGY0ODVhZTk2MGQ0OGY3ZjlmZjM2N2I5Nzg5YTI3YjI2",
   "tracks": [
     {
       "added_at": "2023-11-27 06:25:15",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2023-11-27 06:25:15",
       "album": {
-        "name": "Be Alright",
-        "url": "https://open.spotify.com/album/58YyhehZ9ErbmrMbzNkPx4"
-      },
-      "artists": [
-        {
-          "name": "Lola Rhodes",
-          "url": "https://open.spotify.com/artist/6o0VAgvpfBjrUuDWjjQJ4O"
-        }
-      ],
-      "duration_ms": 180466,
-      "name": "Be Alright",
-      "url": "https://open.spotify.com/track/4r4aTOJc7K3iUIU3MEPw6I"
-    },
-    {
-      "added_at": "2023-11-27 06:25:15",
-      "album": {
         "name": "Mariposa (Acoustic)",
         "url": "https://open.spotify.com/album/2nqO2hJ3NZQcnk0FKtgnwY"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 216612,
       "name": "Mariposa - Acoustic",
       "url": "https://open.spotify.com/track/3AmEKm9QOvIQbyctkPOXsP"
+    },
+    {
+      "added_at": "2023-11-27 06:25:15",
+      "album": {
+        "name": "Be Alright",
+        "url": "https://open.spotify.com/album/58YyhehZ9ErbmrMbzNkPx4"
+      },
+      "artists": [
+        {
+          "name": "Lola Rhodes",
+          "url": "https://open.spotify.com/artist/6o0VAgvpfBjrUuDWjjQJ4O"
+        }
+      ],
+      "duration_ms": 180466,
+      "name": "Be Alright",
+      "url": "https://open.spotify.com/track/4r4aTOJc7K3iUIU3MEPw6I"
     },
     {
       "added_at": "2023-11-27 06:25:15",
@@ -1183,6 +1183,22 @@
     {
       "added_at": "2023-11-27 06:25:15",
       "album": {
+        "name": "Alone, Together",
+        "url": "https://open.spotify.com/album/0rjKAJNRVVFIzCF8mYLPCZ"
+      },
+      "artists": [
+        {
+          "name": "Daniel Pearson",
+          "url": "https://open.spotify.com/artist/0yll2u1E5eqktJyKri1PNm"
+        }
+      ],
+      "duration_ms": 184786,
+      "name": "Come Back Around",
+      "url": "https://open.spotify.com/track/7G89TqdJ9lZIv4toGuxjAr"
+    },
+    {
+      "added_at": "2023-11-27 06:25:15",
+      "album": {
         "name": "Burn",
         "url": "https://open.spotify.com/album/3zptlZqWpgTow8kcilYOqy"
       },
@@ -1215,22 +1231,6 @@
     {
       "added_at": "2023-11-27 06:25:15",
       "album": {
-        "name": "Alone, Together",
-        "url": "https://open.spotify.com/album/0rjKAJNRVVFIzCF8mYLPCZ"
-      },
-      "artists": [
-        {
-          "name": "Daniel Pearson",
-          "url": "https://open.spotify.com/artist/0yll2u1E5eqktJyKri1PNm"
-        }
-      ],
-      "duration_ms": 184786,
-      "name": "Come Back Around",
-      "url": "https://open.spotify.com/track/7G89TqdJ9lZIv4toGuxjAr"
-    },
-    {
-      "added_at": "2023-11-27 06:25:15",
-      "album": {
         "name": "No Fun / Lucky for You",
         "url": "https://open.spotify.com/album/7DVkaDX0Y47rRsJqgvHjyh"
       },
@@ -1251,18 +1251,18 @@
     {
       "added_at": "2023-11-27 06:25:15",
       "album": {
-        "name": "Mood (Acoustic)",
-        "url": "https://open.spotify.com/album/69dfiUTykV6DzWoP8vzgdc"
+        "name": "January",
+        "url": "https://open.spotify.com/album/0e3TGReFAa5Hatq0CDT0Tk"
       },
       "artists": [
         {
-          "name": "Sara Farell",
-          "url": "https://open.spotify.com/artist/39S7Y72G0tdDPy2INGFicV"
+          "name": "Verzache",
+          "url": "https://open.spotify.com/artist/59KX7XUUgAOOo5IyDjca0T"
         }
       ],
-      "duration_ms": 175517,
-      "name": "Mood - Acoustic",
-      "url": "https://open.spotify.com/track/50bNtjatwTxRbw6gMncgcr"
+      "duration_ms": 196363,
+      "name": "January",
+      "url": "https://open.spotify.com/track/4ufN2o3Rf6LN5Z0XaqJXIz"
     }
   ],
   "unique_name": "\u82b1\u8349\u4e0b\u5348\u8336",

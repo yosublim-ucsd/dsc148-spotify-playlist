@@ -218,7 +218,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-02",
+      "date_removed": null,
       "duration_ms": 276000,
       "name": "B\u00e0i N\u00e0y Chill Ph\u1ebft",
       "url": "https://open.spotify.com/track/2nR51wakN5K3AJENqGaNg9"
@@ -258,7 +258,7 @@
       ],
       "date_added": "2023-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-04",
       "duration_ms": 185142,
       "name": "B\u1ea3o T\u00e0ng",
       "url": "https://open.spotify.com/track/2ctmaWoBxLBYiZB7AKmK1D"
@@ -280,7 +280,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-01",
+      "date_removed": null,
       "duration_ms": 258784,
       "name": "Cho T\u00f4i Lang Thang",
       "url": "https://open.spotify.com/track/2zRzmGerfTxc2epZHgaTdh"
@@ -394,7 +394,7 @@
       ],
       "date_added": "2023-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-04",
       "duration_ms": 177391,
       "name": "Ch\u1eb3ng 1 Ai",
       "url": "https://open.spotify.com/track/7f29YBu2kdwdWiCj0xrTd8"
@@ -566,7 +566,7 @@
       ],
       "date_added": "2023-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-04",
       "duration_ms": 183885,
       "name": "D\u1eady Mau",
       "url": "https://open.spotify.com/track/7AZggBEk10xtLwwHSgFPvV"
@@ -1455,6 +1455,32 @@
     },
     {
       "album": {
+        "name": "TETVOVEN",
+        "url": "https://open.spotify.com/album/3jwSlUKUdfxcIuy3b2SCxc"
+      },
+      "artists": [
+        {
+          "name": "Wxrdie",
+          "url": "https://open.spotify.com/artist/1Jmkhzve9TuXHUUWGmpANw"
+        },
+        {
+          "name": "Andree Right Hand",
+          "url": "https://open.spotify.com/artist/4grjJqg7iwQ8RKHs8d9Snh"
+        },
+        {
+          "name": "Machiot",
+          "url": "https://open.spotify.com/artist/53JNigMoziak3PfjdVcNLh"
+        }
+      ],
+      "date_added": "2023-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197230,
+      "name": "TETVOVEN",
+      "url": "https://open.spotify.com/track/72ictTz6o0dusD2QpCn4bn"
+    },
+    {
+      "album": {
         "name": "Thanh Xu\u00e2n",
         "url": "https://open.spotify.com/album/2S83wtOFg3NgQbyo3Lswkw"
       },
@@ -1528,7 +1554,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-04",
       "duration_ms": 170500,
       "name": "th\u1ebf gi\u1edbi th\u1ea7n ti\u00ean",
       "url": "https://open.spotify.com/track/2cJyuhqcXvd6ccvAn8NXsL"
@@ -1876,6 +1902,28 @@
       "duration_ms": 184615,
       "name": "\u0110\u1ea7u \u0110\u01b0\u1eddng X\u00f3 Ch\u1ee3 (ft. L\u0103ng LD)",
       "url": "https://open.spotify.com/track/2nFXaYb2fWOoUJXMPb6y4C"
+    },
+    {
+      "album": {
+        "name": "\u1ede S\u00e2u Trong Tim N\u00e0y",
+        "url": "https://open.spotify.com/album/7zKsAhjmfUnhgUr0rUjApc"
+      },
+      "artists": [
+        {
+          "name": "Tez",
+          "url": "https://open.spotify.com/artist/1yWLf9thhwjqScDt6Az4Z9"
+        },
+        {
+          "name": "Emily",
+          "url": "https://open.spotify.com/artist/2XKlSkrslCs0egLOvSB4Ul"
+        }
+      ],
+      "date_added": "2023-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192195,
+      "name": "\u1ede S\u00e2u Trong Tim N\u00e0y",
+      "url": "https://open.spotify.com/track/3dYB4zyko7GBOgWaP19y5I"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWYLMi9ZNZUaz"

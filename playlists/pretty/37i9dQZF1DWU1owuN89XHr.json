@@ -1,12 +1,12 @@
 {
   "description": "Historias y versos que tocan la piel.",
-  "num_followers": 269923,
+  "num_followers": 269970,
   "original_name": "Esenciales Trova",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNDk1NTM1NWQ2M2JlYWEzMDJhOGE0MmNmMjI3YWI0ZWEyNDdmZGJi",
+  "snapshot_id": "MCxlM2YxMTBmN2M4ODZjZWIyNjdmOTQ4ZWNjMGU2OGQzOTExOWU0NDA5",
   "tracks": [
     {
       "added_at": "2021-07-29 16:46:05",
@@ -471,18 +471,18 @@
     {
       "added_at": "2021-07-29 16:46:05",
       "album": {
-        "name": "De Carne y Hueso",
-        "url": "https://open.spotify.com/album/5vhobYClzYYgOR8FCd9Uj8"
+        "name": "Contigo",
+        "url": "https://open.spotify.com/album/34d1lw7j4LCD3scXgUN8kN"
       },
       "artists": [
         {
-          "name": "Edgar Oceransky",
-          "url": "https://open.spotify.com/artist/6genEcweKnEZ92TZvdeLFl"
+          "name": "Carlos Carreira",
+          "url": "https://open.spotify.com/artist/1VksQOAs5gGHqrcmI4Obw6"
         }
       ],
-      "duration_ms": 261493,
-      "name": "Kil\u00f3metros de Cielo",
-      "url": "https://open.spotify.com/track/6UrLQTasnzlYYKo0U5IICp"
+      "duration_ms": 216520,
+      "name": "Jur\u00e9",
+      "url": "https://open.spotify.com/track/2k3UGlRomFp8jl5dZUmqMX"
     },
     {
       "added_at": "2023-08-01 14:42:56",
@@ -503,18 +503,18 @@
     {
       "added_at": "2021-07-29 16:46:05",
       "album": {
-        "name": "Contigo",
-        "url": "https://open.spotify.com/album/34d1lw7j4LCD3scXgUN8kN"
+        "name": "De Carne y Hueso",
+        "url": "https://open.spotify.com/album/5vhobYClzYYgOR8FCd9Uj8"
       },
       "artists": [
         {
-          "name": "Carlos Carreira",
-          "url": "https://open.spotify.com/artist/1VksQOAs5gGHqrcmI4Obw6"
+          "name": "Edgar Oceransky",
+          "url": "https://open.spotify.com/artist/6genEcweKnEZ92TZvdeLFl"
         }
       ],
-      "duration_ms": 216520,
-      "name": "Jur\u00e9",
-      "url": "https://open.spotify.com/track/2k3UGlRomFp8jl5dZUmqMX"
+      "duration_ms": 261493,
+      "name": "Kil\u00f3metros de Cielo",
+      "url": "https://open.spotify.com/track/6UrLQTasnzlYYKo0U5IICp"
     },
     {
       "added_at": "2021-07-29 16:46:05",
@@ -535,22 +535,6 @@
     {
       "added_at": "2021-07-29 16:46:05",
       "album": {
-        "name": "Coincidir",
-        "url": "https://open.spotify.com/album/4TKIvzhvDdeeNvgrk8nryH"
-      },
-      "artists": [
-        {
-          "name": "Mexicanto",
-          "url": "https://open.spotify.com/artist/2vJZznn0lsxmK4ydVwroSc"
-        }
-      ],
-      "duration_ms": 163720,
-      "name": "Coincidir",
-      "url": "https://open.spotify.com/track/7st3JWQK2B5mSmm9esWNu8"
-    },
-    {
-      "added_at": "2021-07-29 16:46:05",
-      "album": {
         "name": "Pablo Milan\u00e9s: Un Concierto para Am\u00e9rica (Live)",
         "url": "https://open.spotify.com/album/128iTJllUXrFI9VogghxEJ"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 268964,
       "name": "El Breve Espacio en Que No Est\u00e1s - Live",
       "url": "https://open.spotify.com/track/5gqjhBhOtdSJpB7el7VXCj"
+    },
+    {
+      "added_at": "2021-07-29 16:46:05",
+      "album": {
+        "name": "Coincidir",
+        "url": "https://open.spotify.com/album/4TKIvzhvDdeeNvgrk8nryH"
+      },
+      "artists": [
+        {
+          "name": "Mexicanto",
+          "url": "https://open.spotify.com/artist/2vJZznn0lsxmK4ydVwroSc"
+        }
+      ],
+      "duration_ms": 163720,
+      "name": "Coincidir",
+      "url": "https://open.spotify.com/track/7st3JWQK2B5mSmm9esWNu8"
     },
     {
       "added_at": "2021-07-29 16:46:05",
@@ -615,26 +615,6 @@
     {
       "added_at": "2021-07-29 16:46:05",
       "album": {
-        "name": "S\u00f3lo, Ni Tan S\u00f3lo, Vol. 2 (Acoustic Live Version)",
-        "url": "https://open.spotify.com/album/0J37bveorWwGLl1fSn7ZqJ"
-      },
-      "artists": [
-        {
-          "name": "Edgar Oceransky",
-          "url": "https://open.spotify.com/artist/6genEcweKnEZ92TZvdeLFl"
-        },
-        {
-          "name": "Ra\u00fal Ornelas",
-          "url": "https://open.spotify.com/artist/3C6Jn2YYPlZoe7pBPQl845"
-        }
-      ],
-      "duration_ms": 245413,
-      "name": "El Manual de Lo Prohibido - Acoustic Live Version",
-      "url": "https://open.spotify.com/track/126lK16xw9pZo9N1xTf8Oy"
-    },
-    {
-      "added_at": "2021-07-29 16:46:05",
-      "album": {
         "name": "El Viejo Comunista",
         "url": "https://open.spotify.com/album/6xLc750yH5hvpYht5mwQke"
       },
@@ -655,6 +635,22 @@
     {
       "added_at": "2021-07-29 16:46:05",
       "album": {
+        "name": "1978/1988",
+        "url": "https://open.spotify.com/album/7bIbdEJSYLqQ8nLXaMbm6f"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Filio",
+          "url": "https://open.spotify.com/artist/2zfJb2mtxjtjPWTldg9R6K"
+        }
+      ],
+      "duration_ms": 184533,
+      "name": "Despu\u00e9s de Ti",
+      "url": "https://open.spotify.com/track/7o6WEhWTa73yA3qiprJfQO"
+    },
+    {
+      "added_at": "2021-07-29 16:46:05",
+      "album": {
         "name": "Discograf\u00eda en Castellano",
         "url": "https://open.spotify.com/album/3KRHH5V8abRbkgo9wCndko"
       },
@@ -671,18 +667,22 @@
     {
       "added_at": "2021-07-29 16:46:05",
       "album": {
-        "name": "1978/1988",
-        "url": "https://open.spotify.com/album/7bIbdEJSYLqQ8nLXaMbm6f"
+        "name": "S\u00f3lo, Ni Tan S\u00f3lo, Vol. 2 (Acoustic Live Version)",
+        "url": "https://open.spotify.com/album/0J37bveorWwGLl1fSn7ZqJ"
       },
       "artists": [
         {
-          "name": "Alejandro Filio",
-          "url": "https://open.spotify.com/artist/2zfJb2mtxjtjPWTldg9R6K"
+          "name": "Edgar Oceransky",
+          "url": "https://open.spotify.com/artist/6genEcweKnEZ92TZvdeLFl"
+        },
+        {
+          "name": "Ra\u00fal Ornelas",
+          "url": "https://open.spotify.com/artist/3C6Jn2YYPlZoe7pBPQl845"
         }
       ],
-      "duration_ms": 184533,
-      "name": "Despu\u00e9s de Ti",
-      "url": "https://open.spotify.com/track/7o6WEhWTa73yA3qiprJfQO"
+      "duration_ms": 245413,
+      "name": "El Manual de Lo Prohibido - Acoustic Live Version",
+      "url": "https://open.spotify.com/track/126lK16xw9pZo9N1xTf8Oy"
     },
     {
       "added_at": "2021-07-29 16:46:05",
@@ -739,18 +739,18 @@
     {
       "added_at": "2021-07-29 16:46:05",
       "album": {
-        "name": "Te Seguir\u00e9",
-        "url": "https://open.spotify.com/album/5mfc4BGeZNxcYuzNrgU6sX"
+        "name": "Juguete De Madera",
+        "url": "https://open.spotify.com/album/1wuudf3MeIPS0MdGvjU5YM"
       },
       "artists": [
         {
-          "name": "Edgar Oceransky",
-          "url": "https://open.spotify.com/artist/6genEcweKnEZ92TZvdeLFl"
+          "name": "Miguel Inzunza",
+          "url": "https://open.spotify.com/artist/6BoD6RlEPXtsku4JA9rrdb"
         }
       ],
-      "duration_ms": 219480,
-      "name": "Porque la Quer\u00eda",
-      "url": "https://open.spotify.com/track/1p7tp4Ez8uNi1RSZMyEKOU"
+      "duration_ms": 209000,
+      "name": "Por Si No Te Vuelvo A Ver",
+      "url": "https://open.spotify.com/track/3PDUwo7N2IF6fOfD3dEZMH"
     },
     {
       "added_at": "2021-07-29 16:46:05",
@@ -771,18 +771,18 @@
     {
       "added_at": "2021-07-29 16:46:05",
       "album": {
-        "name": "Juguete De Madera",
-        "url": "https://open.spotify.com/album/1wuudf3MeIPS0MdGvjU5YM"
+        "name": "Te Seguir\u00e9",
+        "url": "https://open.spotify.com/album/5mfc4BGeZNxcYuzNrgU6sX"
       },
       "artists": [
         {
-          "name": "Miguel Inzunza",
-          "url": "https://open.spotify.com/artist/6BoD6RlEPXtsku4JA9rrdb"
+          "name": "Edgar Oceransky",
+          "url": "https://open.spotify.com/artist/6genEcweKnEZ92TZvdeLFl"
         }
       ],
-      "duration_ms": 209000,
-      "name": "Por Si No Te Vuelvo A Ver",
-      "url": "https://open.spotify.com/track/3PDUwo7N2IF6fOfD3dEZMH"
+      "duration_ms": 219480,
+      "name": "Porque la Quer\u00eda",
+      "url": "https://open.spotify.com/track/1p7tp4Ez8uNi1RSZMyEKOU"
     },
     {
       "added_at": "2021-07-29 16:46:05",
@@ -819,22 +819,18 @@
     {
       "added_at": "2021-07-29 16:46:05",
       "album": {
-        "name": "Maldita Vocaci\u00f3n",
-        "url": "https://open.spotify.com/album/3CuB8tyC9WnmtwA1Fee3ku"
+        "name": "Que Nadie Se Entere",
+        "url": "https://open.spotify.com/album/6hVFxpqlDUBu4ZXMBBV5nZ"
       },
       "artists": [
         {
-          "name": "Edgar Oceransky",
-          "url": "https://open.spotify.com/artist/6genEcweKnEZ92TZvdeLFl"
-        },
-        {
-          "name": "Diego Ojeda",
-          "url": "https://open.spotify.com/artist/0eDQlGtmwyq67ApA0Yhyfl"
+          "name": "Miguel Inzunza",
+          "url": "https://open.spotify.com/artist/6BoD6RlEPXtsku4JA9rrdb"
         }
       ],
-      "duration_ms": 285341,
-      "name": "Guapa",
-      "url": "https://open.spotify.com/track/6FCrZ2Eh3T0Wk45EsB3auG"
+      "duration_ms": 276306,
+      "name": "Se Busca",
+      "url": "https://open.spotify.com/track/5uXbOALhNzFFLfoJSh27Vb"
     },
     {
       "added_at": "2021-07-29 16:46:05",
@@ -875,38 +871,6 @@
     {
       "added_at": "2021-07-29 16:46:05",
       "album": {
-        "name": "Milagritos",
-        "url": "https://open.spotify.com/album/3ZNrH33J08oFN8H6DkVI1M"
-      },
-      "artists": [
-        {
-          "name": "3 de Copas",
-          "url": "https://open.spotify.com/artist/4Zwwo4j8jNzdv89HPPfRCy"
-        }
-      ],
-      "duration_ms": 216760,
-      "name": "Tu Fantasma",
-      "url": "https://open.spotify.com/track/70H4C8Q4HFjWC3kHNdpT79"
-    },
-    {
-      "added_at": "2021-07-29 16:46:05",
-      "album": {
-        "name": "Que Nadie Se Entere",
-        "url": "https://open.spotify.com/album/6hVFxpqlDUBu4ZXMBBV5nZ"
-      },
-      "artists": [
-        {
-          "name": "Miguel Inzunza",
-          "url": "https://open.spotify.com/artist/6BoD6RlEPXtsku4JA9rrdb"
-        }
-      ],
-      "duration_ms": 276306,
-      "name": "Se Busca",
-      "url": "https://open.spotify.com/track/5uXbOALhNzFFLfoJSh27Vb"
-    },
-    {
-      "added_at": "2021-07-29 16:46:05",
-      "album": {
         "name": "Entre Cuerdas",
         "url": "https://open.spotify.com/album/6Korv9rTN9ZOsHtkhjQayK"
       },
@@ -919,6 +883,42 @@
       "duration_ms": 264946,
       "name": "Lo Mejor Que Hay En Mi Vida",
       "url": "https://open.spotify.com/track/5S3uYPl1oYKShBI1CyZAc7"
+    },
+    {
+      "added_at": "2021-07-29 16:46:05",
+      "album": {
+        "name": "Maldita Vocaci\u00f3n",
+        "url": "https://open.spotify.com/album/3CuB8tyC9WnmtwA1Fee3ku"
+      },
+      "artists": [
+        {
+          "name": "Edgar Oceransky",
+          "url": "https://open.spotify.com/artist/6genEcweKnEZ92TZvdeLFl"
+        },
+        {
+          "name": "Diego Ojeda",
+          "url": "https://open.spotify.com/artist/0eDQlGtmwyq67ApA0Yhyfl"
+        }
+      ],
+      "duration_ms": 285341,
+      "name": "Guapa",
+      "url": "https://open.spotify.com/track/6FCrZ2Eh3T0Wk45EsB3auG"
+    },
+    {
+      "added_at": "2021-07-29 16:46:05",
+      "album": {
+        "name": "Milagritos",
+        "url": "https://open.spotify.com/album/3ZNrH33J08oFN8H6DkVI1M"
+      },
+      "artists": [
+        {
+          "name": "3 de Copas",
+          "url": "https://open.spotify.com/artist/4Zwwo4j8jNzdv89HPPfRCy"
+        }
+      ],
+      "duration_ms": 216760,
+      "name": "Tu Fantasma",
+      "url": "https://open.spotify.com/track/70H4C8Q4HFjWC3kHNdpT79"
     },
     {
       "added_at": "2021-07-29 16:46:05",
@@ -991,22 +991,6 @@
     {
       "added_at": "2021-07-29 16:46:05",
       "album": {
-        "name": "Escarlata",
-        "url": "https://open.spotify.com/album/7xzYC2mGZnT51Ebb3U4r0F"
-      },
-      "artists": [
-        {
-          "name": "Edgar Oceransky",
-          "url": "https://open.spotify.com/artist/6genEcweKnEZ92TZvdeLFl"
-        }
-      ],
-      "duration_ms": 216035,
-      "name": "Ella es un Volc\u00e1n",
-      "url": "https://open.spotify.com/track/5CwlzzcJGMXuZnnswCoGs7"
-    },
-    {
-      "added_at": "2021-07-29 16:46:05",
-      "album": {
         "name": "Extremistas Nobles",
         "url": "https://open.spotify.com/album/5AB2RcRU1wt8mnwAOfhXDe"
       },
@@ -1023,6 +1007,42 @@
       "duration_ms": 254773,
       "name": "Loco por Ti",
       "url": "https://open.spotify.com/track/4c2ZX1OHkLS0XEaxTShO8S"
+    },
+    {
+      "added_at": "2021-07-29 16:46:05",
+      "album": {
+        "name": "Sesiones \u00cdntimas",
+        "url": "https://open.spotify.com/album/4oZVAbazCKoqmjRpGAwD5A"
+      },
+      "artists": [
+        {
+          "name": "Amaury Guti\u00e9rrez",
+          "url": "https://open.spotify.com/artist/5bnH2idOWAXzMEbw9gIP5D"
+        },
+        {
+          "name": "David Bisbal",
+          "url": "https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB"
+        }
+      ],
+      "duration_ms": 263226,
+      "name": "Dime Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/0mojkCfeqko2sQk1KsDCHP"
+    },
+    {
+      "added_at": "2021-07-29 16:46:05",
+      "album": {
+        "name": "Escarlata",
+        "url": "https://open.spotify.com/album/7xzYC2mGZnT51Ebb3U4r0F"
+      },
+      "artists": [
+        {
+          "name": "Edgar Oceransky",
+          "url": "https://open.spotify.com/artist/6genEcweKnEZ92TZvdeLFl"
+        }
+      ],
+      "duration_ms": 216035,
+      "name": "Ella es un Volc\u00e1n",
+      "url": "https://open.spotify.com/track/5CwlzzcJGMXuZnnswCoGs7"
     },
     {
       "added_at": "2021-07-29 16:46:05",
@@ -1059,42 +1079,6 @@
     {
       "added_at": "2021-07-29 16:46:05",
       "album": {
-        "name": "La vida entera",
-        "url": "https://open.spotify.com/album/1v0TN5nqDNPhvOa35y4IOH"
-      },
-      "artists": [
-        {
-          "name": "Jorge Drexler",
-          "url": "https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt"
-        }
-      ],
-      "duration_ms": 228105,
-      "name": "La vida entera",
-      "url": "https://open.spotify.com/track/5es8rVnIOOHzZ2FsFQBftF"
-    },
-    {
-      "added_at": "2021-07-29 16:46:05",
-      "album": {
-        "name": "Sesiones \u00cdntimas",
-        "url": "https://open.spotify.com/album/4oZVAbazCKoqmjRpGAwD5A"
-      },
-      "artists": [
-        {
-          "name": "Amaury Guti\u00e9rrez",
-          "url": "https://open.spotify.com/artist/5bnH2idOWAXzMEbw9gIP5D"
-        },
-        {
-          "name": "David Bisbal",
-          "url": "https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB"
-        }
-      ],
-      "duration_ms": 263226,
-      "name": "Dime Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/0mojkCfeqko2sQk1KsDCHP"
-    },
-    {
-      "added_at": "2021-07-29 16:46:05",
-      "album": {
         "name": "Escucha a Gerardo Pablo",
         "url": "https://open.spotify.com/album/2FCWZ7218jRTvfbOlJxhBw"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 165160,
       "name": "Buscando un \u00c1ngel",
       "url": "https://open.spotify.com/track/6WCMCQxjtgkSKgRBNxaO2h"
+    },
+    {
+      "added_at": "2021-07-29 16:46:05",
+      "album": {
+        "name": "La vida entera",
+        "url": "https://open.spotify.com/album/1v0TN5nqDNPhvOa35y4IOH"
+      },
+      "artists": [
+        {
+          "name": "Jorge Drexler",
+          "url": "https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt"
+        }
+      ],
+      "duration_ms": 228105,
+      "name": "La vida entera",
+      "url": "https://open.spotify.com/track/5es8rVnIOOHzZ2FsFQBftF"
     },
     {
       "added_at": "2021-07-29 16:46:05",
@@ -1131,22 +1131,6 @@
       "duration_ms": 154800,
       "name": "A Sabicas (with Joaqu\u00edn Sabina & Miguel Poveda)",
       "url": "https://open.spotify.com/track/4wc6PmKBQUA1VNvrmk89Ad"
-    },
-    {
-      "added_at": "2021-07-29 16:46:05",
-      "album": {
-        "name": "La Gran Coleccion Del 60 Aniversario CBS -Juan Salvador",
-        "url": "https://open.spotify.com/album/4P0x8TOzFL9fQNebb6nlBx"
-      },
-      "artists": [
-        {
-          "name": "Juan Salvador",
-          "url": "https://open.spotify.com/artist/58wRCWfE39AuN6fvXRdWN2"
-        }
-      ],
-      "duration_ms": 174026,
-      "name": "Al Doblar la Esquina",
-      "url": "https://open.spotify.com/track/20Z6RhspI9iQOGPwJ6oDl9"
     },
     {
       "added_at": "2021-07-29 16:46:05",
@@ -1235,6 +1219,22 @@
       "duration_ms": 205333,
       "name": "Destino",
       "url": "https://open.spotify.com/track/0Tvel29tfH38v5q9CXQC3y"
+    },
+    {
+      "added_at": "2021-07-29 16:46:05",
+      "album": {
+        "name": "La Gran Coleccion Del 60 Aniversario CBS -Juan Salvador",
+        "url": "https://open.spotify.com/album/4P0x8TOzFL9fQNebb6nlBx"
+      },
+      "artists": [
+        {
+          "name": "Juan Salvador",
+          "url": "https://open.spotify.com/artist/58wRCWfE39AuN6fvXRdWN2"
+        }
+      ],
+      "duration_ms": 174026,
+      "name": "Al Doblar la Esquina",
+      "url": "https://open.spotify.com/track/20Z6RhspI9iQOGPwJ6oDl9"
     },
     {
       "added_at": "2021-07-29 16:46:05",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2021-07-29 16:46:05",
       "album": {
-        "name": "Arde Estocolmo",
-        "url": "https://open.spotify.com/album/2wj1Bn2fDfq5o7aQadrFPE"
-      },
-      "artists": [
-        {
-          "name": "Pedro Guerra",
-          "url": "https://open.spotify.com/artist/2GrNjfw23jqL1NTopPlc6c"
-        }
-      ],
-      "duration_ms": 193875,
-      "name": "M\u00e1rgenes",
-      "url": "https://open.spotify.com/track/0QSE0jxcnhvp0yfxCmAz6r"
-    },
-    {
-      "added_at": "2021-07-29 16:46:05",
-      "album": {
         "name": "Colecci\u00f3n Nos Queda Su Canci\u00f3n, Vol. 8: Entre Otros",
         "url": "https://open.spotify.com/album/2drFmUeIpLaHk3R3WeuqDR"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 206204,
       "name": "Para una Imaginaria Mar\u00eda del Carmen",
       "url": "https://open.spotify.com/track/7HHoh2ZEXYchu6tNdBQJwE"
+    },
+    {
+      "added_at": "2021-07-29 16:46:05",
+      "album": {
+        "name": "Arde Estocolmo",
+        "url": "https://open.spotify.com/album/2wj1Bn2fDfq5o7aQadrFPE"
+      },
+      "artists": [
+        {
+          "name": "Pedro Guerra",
+          "url": "https://open.spotify.com/artist/2GrNjfw23jqL1NTopPlc6c"
+        }
+      ],
+      "duration_ms": 193875,
+      "name": "M\u00e1rgenes",
+      "url": "https://open.spotify.com/track/0QSE0jxcnhvp0yfxCmAz6r"
     },
     {
       "added_at": "2021-07-29 16:46:05",

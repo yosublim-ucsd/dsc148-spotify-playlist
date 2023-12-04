@@ -684,7 +684,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-04",
       "duration_ms": 160944,
       "name": "Balcony",
       "url": "https://open.spotify.com/track/2IS5TQnd26IKxRg7cewEdO"
@@ -7188,6 +7188,28 @@
       "duration_ms": 129666,
       "name": "Spoon & Bang",
       "url": "https://open.spotify.com/track/65fTruLlZlBtPiZuEFUFN7"
+    },
+    {
+      "album": {
+        "name": "Stars",
+        "url": "https://open.spotify.com/album/70KMbElvbjKSWUPERYbVCp"
+      },
+      "artists": [
+        {
+          "name": "Carlos Abril",
+          "url": "https://open.spotify.com/artist/3EZSFgcjMOuvt39vZQDo7L"
+        },
+        {
+          "name": "Amelia Rose",
+          "url": "https://open.spotify.com/artist/3UU07M4msKfDqC4c9JCnDl"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258530,
+      "name": "Stars",
+      "url": "https://open.spotify.com/track/0rUmvpKfigC5jL0jnIcYTB"
     },
     {
       "album": {

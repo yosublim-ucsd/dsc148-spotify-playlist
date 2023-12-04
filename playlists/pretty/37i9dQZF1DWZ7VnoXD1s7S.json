@@ -1,12 +1,12 @@
 {
   "description": "no-clip out of reality",
-  "num_followers": 678176,
+  "num_followers": 679574,
   "original_name": "liminal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYmE2YjI4ZmFiMzhmNWJmMmQ3NGNhNTk3N2M4YTcyNTFlZTlmMGIz",
+  "snapshot_id": "MCw2MmZlM2Y5NDUwNmM1MDIwODUzZDI3YTJhNGNjMTY5NDM5ODEzMDli",
   "tracks": [
     {
       "added_at": "2023-10-20 16:05:28",
@@ -116,17 +116,21 @@
       "added_at": "2023-08-30 15:16:37",
       "album": {
         "name": "Infinite Cloud",
-        "url": "https://open.spotify.com/album/6uQrwva2QnqUhGeg47t6DK"
+        "url": "https://open.spotify.com/album/5PBXsF4rwr1KOJkIxKbF4d"
       },
       "artists": [
+        {
+          "name": "Elliot Norlander",
+          "url": "https://open.spotify.com/artist/2vcH94PF19UypegwaEughz"
+        },
         {
           "name": "azzz",
           "url": "https://open.spotify.com/artist/0UyI1qLUujBq87h9VqYIYh"
         }
       ],
-      "duration_ms": 107949,
+      "duration_ms": 107169,
       "name": "Infinite Cloud",
-      "url": "https://open.spotify.com/track/1iyeCgNmyLz6Ghip1VVarW"
+      "url": "https://open.spotify.com/track/4c5MdOKty7RhhqviGZWYrL"
     },
     {
       "added_at": "2023-08-30 15:16:37",

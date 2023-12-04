@@ -4,7 +4,7 @@
 
 > Country Music that rocks\. Cover: Treaty Oak Revival
 
-322 songs - 18 hr 28 min
+323 songs - 18 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,7 +57,7 @@
 | [Burning Down](https://open.spotify.com/track/515UGTaaZQyCgthVxhWTbU) | [Striking Matches](https://open.spotify.com/artist/4v2DyasTOGK3Pv90w75yar) | [Morning](https://open.spotify.com/album/2crKE8V3gDJVhribqhsPh9) | 3:09 | 2021-11-01 | 2022-07-23 |
 | [By Now](https://open.spotify.com/track/5O3YFgx7m0geCKzzo7PjA0) | [Lakeview](https://open.spotify.com/artist/4m7IOKt2QRPsoHJSWBmeZD) | [By Now](https://open.spotify.com/album/3JwPrJgE6Ev6zJdsIYXCD4) | 3:20 | 2023-02-03 | 2023-09-09 |
 | [C\-V\-1\-9](https://open.spotify.com/track/0VBKTzLzBPf2KJJofXPGVH) | [Rob Mayes](https://open.spotify.com/artist/3P5tlX0dc1Y3oNWwgsojmt) | [C\-V\-1\-9](https://open.spotify.com/album/3nl4B6o5111oiJ2AqZus7z) | 3:17 | 2021-11-01 | 2022-02-05 |
-| [Call It Country](https://open.spotify.com/track/1H5I9ObhTNdSvcIJnM5CoT) | [Travis Denning](https://open.spotify.com/artist/6CegFHnUqJcOBipgphZ2CJ) | [Call It Country](https://open.spotify.com/album/2eqtyCMsctct0i1SWDHN2h) | 2:31 | 2021-11-01 |  |
+| [Call It Country](https://open.spotify.com/track/1H5I9ObhTNdSvcIJnM5CoT) | [Travis Denning](https://open.spotify.com/artist/6CegFHnUqJcOBipgphZ2CJ) | [Call It Country](https://open.spotify.com/album/2eqtyCMsctct0i1SWDHN2h) | 2:31 | 2021-11-01 | 2023-12-04 |
 | [Cars On Blocks](https://open.spotify.com/track/4byGXugy6UdulXHzqKMBMG) | [Tim Montana](https://open.spotify.com/artist/5RM955coCWa6UkFtlMapwC) | [Long Shots](https://open.spotify.com/album/2wIIIZwinQQ2ieKTL3iqjs) | 3:09 | 2021-11-01 | 2022-05-07 |
 | [Catch Me If You Can](https://open.spotify.com/track/2q0kWUvBaXkakZfH7KPViY) | [Canaan Smith](https://open.spotify.com/artist/0q2lY1ZzFckzciuoMtUvck), [Brent Cobb](https://open.spotify.com/artist/26C2AjqgMr5aDzj6Yp2ORz) | [High Country Sound](https://open.spotify.com/album/6IVHko8albueLyBNcjuT0v) | 2:49 | 2021-11-01 | 2022-10-13 |
 | [Catch Me If You Can](https://open.spotify.com/track/4yxdTF0DcdXfD9XA3F8gvX) | [Canaan Smith](https://open.spotify.com/artist/0q2lY1ZzFckzciuoMtUvck), [Brent Cobb](https://open.spotify.com/artist/26C2AjqgMr5aDzj6Yp2ORz) | [High Country Sound](https://open.spotify.com/album/0XsPCNDdepOg4OP3Z1X6Za) | 2:49 | 2022-10-14 | 2023-05-03 |
@@ -311,6 +311,7 @@
 | [Whiskey Can't](https://open.spotify.com/track/583kGzEQ7eZRrQCeGNfiUk) | [Teddy Robb](https://open.spotify.com/artist/64IzKvcuvD2Q06UGawFiuO) | [Whiskey Can't](https://open.spotify.com/album/4sERtXmIt0fusA9kmRcrNT) | 2:52 | 2021-11-01 | 2022-11-17 |
 | [Whiskey in a Wine Glass](https://open.spotify.com/track/2KIlRbwYuRiD1U7DFceJK2) | [Whelan Stone](https://open.spotify.com/artist/2BpNHVNRV8JeNrfJGt1fFW) | [Whiskey in a Wine Glass](https://open.spotify.com/album/0TEPeGUIFSQ9aB0w8HC4GZ) | 3:07 | 2022-07-22 | 2023-01-28 |
 | [Whiskey in a Wine Glass](https://open.spotify.com/track/2ZvBWC43d2YUaleClFAYPU) | [Whelan Stone](https://open.spotify.com/artist/2BpNHVNRV8JeNrfJGt1fFW) | [Whiskey in a Wine Glass](https://open.spotify.com/album/0qRSlTUoP7Ih3nki5CInvb) | 3:07 | 2021-11-01 | 2022-07-29 |
+| [Whiskey Lullaby](https://open.spotify.com/track/5dRwdw0BLvGmNQ2TqBhOdc) | [Drew Jacobs](https://open.spotify.com/artist/4sTH4GWWUdEvvkiVgn03D0), [Caitlynne Curtis](https://open.spotify.com/artist/5m984rwcMVTObo3jCSzDCf) | [Whiskey Lullaby](https://open.spotify.com/album/01jScvVAy4QKHwy8zbrwuM) | 4:29 | 2023-12-01 |  |
 | [Whiskey Sunrise](https://open.spotify.com/track/46oDBddhwu0gfFr2z1fvh5) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Starting Over](https://open.spotify.com/album/0sOeI7pbAmIc8aDFyvkBUW) | 3:22 | 2021-11-01 | 2023-01-03 |
 | [White Horse](https://open.spotify.com/track/7MSWxMumjz6lHj7oRApNbg) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [White Horse](https://open.spotify.com/album/5yeOXz3vHyMv8ySLEcCya7) | 4:27 | 2023-07-21 |  |
 | [Who I Am](https://open.spotify.com/track/6RmUNpQImWsU4DJIXriREW) | [Caleb Lee Hutchinson](https://open.spotify.com/artist/1Ep9lOZuPcClsgR25odHK6) | [Who I Am](https://open.spotify.com/album/2agzRfT7OlXEjw29bxQui5) | 3:40 | 2021-11-01 | 2022-07-29 |

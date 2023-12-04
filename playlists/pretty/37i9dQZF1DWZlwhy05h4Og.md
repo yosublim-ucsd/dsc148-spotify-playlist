@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZlwhy05h4Og.md) - [plain]
 
 > The sweetest bops\. Cover: BABYMONSTER
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,889 likes - 82 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,942 likes - 82 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,4 +91,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZlwhy05h4Og.md) - [plain]
 | 81 | [Potential Breakup Song](https://open.spotify.com/track/6fyzsHCwnt8oL4XgGIMrdN) | [Aly & AJ](https://open.spotify.com/artist/5wugb0kaq0J6nyQ5Xgd17i) | [Potential Breakup Song](https://open.spotify.com/album/49mFTJkOKu0labagCQyURy) | 3:38 |
 | 82 | [Touch](https://open.spotify.com/track/1gG5MoWK5SmHUcQPa2jxdP) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [Glory Days \(Expanded Edition\)](https://open.spotify.com/album/4w49hcqZt66HZX0MJHfW0m) | 3:33 |
 
-Snapshot ID: `MCw1Y2FmYmEzMmNiMjljYWQ3Y2YxNWUxMTY1ZjYwZGE4N2RjZDI1OWQ5`
+Snapshot ID: `MCxlMTcyNmI1Njg0OTQ0N2M3ZmFmMDIyY2NkMTkzMWQ0YjNjMzQ2YWMy`

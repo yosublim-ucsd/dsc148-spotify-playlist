@@ -4,7 +4,7 @@
 
 > Lyrical, lo\-fi, and lowlife raps\. Cover: Mark Battles
 
-575 songs - 1 day 6 hr 35 min
+576 songs - 1 day 6 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -129,7 +129,7 @@
 | [Dangerous Daringer](https://open.spotify.com/track/1w2xoRbbcADDTkGnYzVUwK) | [Sauce Walka](https://open.spotify.com/artist/42yf4QkiE9a252krn9OUCb), [Conway the Machine](https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS) | [Dangerous Daringer](https://open.spotify.com/album/23XUd1b01eLd9v4IczWdvI) | 4:09 | 2023-07-07 | 2023-11-04 |
 | [Dark Hearted](https://open.spotify.com/track/2vcdlFDuB7tjdYTCf0u6AL) | [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb) | [Dark Hearted](https://open.spotify.com/album/3uSh69KCgMerblCUeYohUl) | 3:25 | 2022-09-23 | 2023-04-09 |
 | [Days Like This](https://open.spotify.com/track/7dbgtABmOcuNsdNY5b6GXt) | [Katori Walker](https://open.spotify.com/artist/2ODTjg0iTHX1QxBeRNI6nT) | [Days Like This](https://open.spotify.com/album/3BFFAxUqAbi9hMoYPMZWdq) | 2:41 | 2023-05-12 | 2023-05-20 |
-| [Dead Men \(feat\. Cozz\)](https://open.spotify.com/track/6yy0W5bgERNnQ5diS20fdT) | [408 Darwin](https://open.spotify.com/artist/7GmjP8u0uwwAwBt3e3tmdS), [Cozz](https://open.spotify.com/artist/5oFkj1qSlyBUmV5d6Edgtq) | [Dead Men \(feat\. Cozz\)](https://open.spotify.com/album/5kwKgot9Kn11YSbiuWJr7O) | 2:51 | 2023-11-03 |  |
+| [Dead Men \(feat\. Cozz\)](https://open.spotify.com/track/6yy0W5bgERNnQ5diS20fdT) | [408 Darwin](https://open.spotify.com/artist/7GmjP8u0uwwAwBt3e3tmdS), [Cozz](https://open.spotify.com/artist/5oFkj1qSlyBUmV5d6Edgtq) | [Dead Men \(feat\. Cozz\)](https://open.spotify.com/album/5kwKgot9Kn11YSbiuWJr7O) | 2:51 | 2023-11-03 | 2023-12-04 |
 | [DEATHFAME](https://open.spotify.com/track/30jfHyUlszF66IV2xlp8BM) | [Quelle Chris](https://open.spotify.com/artist/2SlUrJAcTYbWR8GcmB9IEi) | [Deathfame](https://open.spotify.com/album/3gNLleI1petZq52QmMkcNW) | 3:25 | 2022-06-10 | 2022-07-26 |
 | [Decoded \(feat\. Scarface\)](https://open.spotify.com/track/56fofPwaABXBc5qHGkxacV) | [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb), [Scarface](https://open.spotify.com/artist/19KwjzvIL92r29IINtlPNP) | [$oul $old $eparately](https://open.spotify.com/album/3PZx4Vntcp5T7UgdfjnFDa) | 3:14 | 2022-09-30 | 2023-02-18 |
 | [Deebo](https://open.spotify.com/track/0oVkNzVdwPeaGytgc55v4o) | [D Smoke](https://open.spotify.com/artist/23rK0hajv5ix2yPM4IIgOo), [Snow Tha Product](https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj) | [Black Habits \(Deluxe\)](https://open.spotify.com/album/0WkqYoTVOLg2ady3z0vusJ) | 2:30 | 2022-04-01 | 2022-04-20 |
@@ -451,6 +451,7 @@
 | [Shooter](https://open.spotify.com/track/7hOjezWUSDr2FaBBUiX8dz) | [Swavay](https://open.spotify.com/artist/29gIYsdyccGoUc6qgkZeTK) | [Shooter](https://open.spotify.com/album/1ZgqJABKkJtvJrNH64SF2J) | 3:55 | 2021-09-03 | 2022-07-20 |
 | [Shootouts In Soho \(feat\. A$AP Rocky & Stove God Cooks\)](https://open.spotify.com/track/5jcbcNw3MnXSEhYqXM3pcC) | [Westside Gunn](https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [Stove God Cooks](https://open.spotify.com/artist/35fcckhFq2cF2u7hIG0fPv) | [10](https://open.spotify.com/album/138M0lORis5tDxurpIbd7V) | 3:29 | 2022-10-28 | 2023-07-08 |
 | [Show & Tell \(feat\. Freddie Gibbs\)](https://open.spotify.com/track/20r9RAF5u8jbM70PYrGufL) | [Mick Jenkins](https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx), [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb) | [The Patience](https://open.spotify.com/album/7GlMEHJyohBhILSQYQIFgI) | 4:20 | 2023-08-18 | 2023-11-18 |
+| [Show & Tell \(feat\. Freddie Gibbs\)](https://open.spotify.com/track/4iJVfdFivbtN9n72aUtgOx) | [Mick Jenkins](https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx), [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb) | [The Patience](https://open.spotify.com/album/1R7oXtXCQEI7GDujxImL87) | 4:20 | 2023-12-01 |  |
 | [Shrimp at Phillipes \(feat\. Benny the Butcher\)](https://open.spotify.com/track/1my5ZY0jeF4yJ7MXtQvj1M) | [Elcamino](https://open.spotify.com/artist/54jJabxN5Xa0aMGK4mYdVg), [Benny The Butcher](https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T) | [Shrimp at Phillipes \(feat\. Benny the Butcher\)](https://open.spotify.com/album/5eE0DZuteod9NIVUdG5Dv5) | 2:58 | 2021-09-03 | 2022-02-22 |
 | [Sicilian Gold](https://open.spotify.com/track/3D8zRq1zN0hCwxgQutkKma) | [DJ Muggs](https://open.spotify.com/artist/7pDkjftAxiFHomWsPNkapS), [Ghostface Killah](https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe), [Westside Gunn](https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW) | [Soul Assassins 3: Death Valley](https://open.spotify.com/album/2mdiBHkwcyU6EBnhLtStoD) | 1:54 | 2023-08-25 |  |
 | [Sign Language](https://open.spotify.com/track/4wGAMAf3eUM0TKY4CbGvvT) | [REASON](https://open.spotify.com/artist/6XpXnnKHIhCOUbOLOJGe6o), [ICECOLDBISHOP](https://open.spotify.com/artist/04zbRSHjzlQYvV31SW7qZ4) | [Sign Language](https://open.spotify.com/album/7Ms13CjeARBBSgBoybweig) | 2:20 | 2022-09-23 | 2022-10-08 |

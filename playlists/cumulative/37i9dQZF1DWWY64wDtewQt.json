@@ -304,6 +304,32 @@
     {
       "album": {
         "name": "ALORS BRAZIL",
+        "url": "https://open.spotify.com/album/1krtBVdioH9cO7TDFnoPzu"
+      },
+      "artists": [
+        {
+          "name": "Armut",
+          "url": "https://open.spotify.com/artist/72Jq4Qx7m1XizJTU5jv9Wj"
+        },
+        {
+          "name": "Ayparia",
+          "url": "https://open.spotify.com/artist/0nTNWXnHMzSj7wRtd3ECos"
+        },
+        {
+          "name": "dec24",
+          "url": "https://open.spotify.com/artist/3Q9jNHE6UHnQcEWH2SXFF8"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101339,
+      "name": "ALORS BRAZIL",
+      "url": "https://open.spotify.com/track/7hn2gCHz5NAzgPqakWrtms"
+    },
+    {
+      "album": {
+        "name": "ALORS BRAZIL",
         "url": "https://open.spotify.com/album/3WblrqsrqkJ72Lm09vAHE4"
       },
       "artists": [
@@ -368,7 +394,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-04",
       "duration_ms": 101408,
       "name": "Alors Brazil",
       "url": "https://open.spotify.com/track/7qVIgqZ6tmbjuLH3GrwaA3"
@@ -7180,6 +7206,24 @@
     {
       "album": {
         "name": "MONTAGEM CORAL",
+        "url": "https://open.spotify.com/album/6JQs1jzCDA6MHAqaBTxxgy"
+      },
+      "artists": [
+        {
+          "name": "sadakatsiz",
+          "url": "https://open.spotify.com/artist/0zZR7LKqUKMJSVnoogF6Mi"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145111,
+      "name": "MONTAGEM CORAL",
+      "url": "https://open.spotify.com/track/16pCNpN8qTkUViMALO0U3Z"
+    },
+    {
+      "album": {
+        "name": "MONTAGEM CORAL",
         "url": "https://open.spotify.com/album/2OKsctX02r3R3qhyq64mSG"
       },
       "artists": [
@@ -12150,7 +12194,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-04",
       "duration_ms": 145055,
       "name": "Vois",
       "url": "https://open.spotify.com/track/3GMqqxQa1VMp3gOGcesm6j"

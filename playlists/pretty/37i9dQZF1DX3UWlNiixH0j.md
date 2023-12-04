@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3UWlNiixH0j.md) - [plain]
 
 > 日本のインディー・サウンドを特集。The freshest indie sounds from Japan\. cover: 松木美定
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,773 likes - 100 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,865 likes - 100 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,10 +79,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3UWlNiixH0j.md) - [plain]
 | 69 | [涙を隠して\(Boys Don't Cry\)](https://open.spotify.com/track/1cMqlaNP7zoTbp8Xerp8em) | [Cody・Lee\(李\)](https://open.spotify.com/artist/6ccfWQCLB9Gu3caY9gR5dX) | [涙を隠して\(Boys Don't Cry\)](https://open.spotify.com/album/4JeWP56kr9EVljgX76I0sw) | 4:36 |
 | 70 | [TARAREBA](https://open.spotify.com/track/72Zdhh39YsvcuBChATbIpG) | [Dengaryu](https://open.spotify.com/artist/77UuWIk4w0o7rsn3q1Peru) | [TARAREBA](https://open.spotify.com/album/3CesSiD2smtYiNsgVWyihT) | 3:21 |
 | 71 | [16:28](https://open.spotify.com/track/6uqVlsFHg4Nkr1wRenev6O) | [君島大空](https://open.spotify.com/artist/5rjahCZtY8h4y2EHCnpgtQ) | [no public sounds](https://open.spotify.com/album/6aO96YUjirdU0mPzy7mCHd) | 5:45 |
-| 72 | [あなたの虜](https://open.spotify.com/track/0kIJE88GHrcAt0tnaV3ROG) | [松木美定](https://open.spotify.com/artist/4VytANV5Kt1OqJpzkkc6wA) | [あなたの虜](https://open.spotify.com/album/4R4Rdu7a4a56r7oYJzRZLr) | 3:08 |
-| 73 | [風を吹かせて](https://open.spotify.com/track/6kS5JgGmvobfA6QT9B5hyg) | [never young beach](https://open.spotify.com/artist/2YtvgEYiTH6jh7n2UmUdXX) | [ありがとう](https://open.spotify.com/album/3yvG3IQ4OQwzw9rxoYzceV) | 5:09 |
-| 74 | [Booorn!!](https://open.spotify.com/track/48oPAi5Va2Qm3ep6q6506R) | [Tempalay](https://open.spotify.com/artist/5IlQkA8Lq4X0dOWHBumeJP) | [Booorn!!](https://open.spotify.com/album/5EQ83ifAXP6CnqWmb4oZm3) | 3:42 |
-| 75 | [オープンエンド](https://open.spotify.com/track/69wC7CS0O12zmn0GYP31aR) | [家主](https://open.spotify.com/artist/2rLK1nmuxeVG9mtZMWf3GB) | [オープンエンド](https://open.spotify.com/album/08GxJarYWyPK3qic88we7u) | 5:06 |
+| 72 | [風を吹かせて](https://open.spotify.com/track/6kS5JgGmvobfA6QT9B5hyg) | [never young beach](https://open.spotify.com/artist/2YtvgEYiTH6jh7n2UmUdXX) | [ありがとう](https://open.spotify.com/album/3yvG3IQ4OQwzw9rxoYzceV) | 5:09 |
+| 73 | [あなたの虜](https://open.spotify.com/track/0kIJE88GHrcAt0tnaV3ROG) | [松木美定](https://open.spotify.com/artist/4VytANV5Kt1OqJpzkkc6wA) | [あなたの虜](https://open.spotify.com/album/4R4Rdu7a4a56r7oYJzRZLr) | 3:08 |
+| 74 | [オープンエンド](https://open.spotify.com/track/69wC7CS0O12zmn0GYP31aR) | [家主](https://open.spotify.com/artist/2rLK1nmuxeVG9mtZMWf3GB) | [オープンエンド](https://open.spotify.com/album/08GxJarYWyPK3qic88we7u) | 5:06 |
+| 75 | [Booorn!!](https://open.spotify.com/track/48oPAi5Va2Qm3ep6q6506R) | [Tempalay](https://open.spotify.com/artist/5IlQkA8Lq4X0dOWHBumeJP) | [Booorn!!](https://open.spotify.com/album/5EQ83ifAXP6CnqWmb4oZm3) | 3:42 |
 | 76 | [BLOW](https://open.spotify.com/track/3OSEQtAIxVzQ8iLzxgOXoi) | [ROTH BART BARON](https://open.spotify.com/artist/3WwL2Gya2VH0zHzOdakOX2), [Safeplanet](https://open.spotify.com/artist/1DsSoeOUg0YS2hl2czNcbw) | [BLOW](https://open.spotify.com/album/1jCajyPWXNO04KBS6jDgGC) | 3:33 |
 | 77 | [Moon](https://open.spotify.com/track/0XBGL9PRTWoJKH7YSI3kRE) | [Kenta Dedachi](https://open.spotify.com/artist/0kpcv0xdcnCWiCXr3htCwx), [Ryu Matsuyama](https://open.spotify.com/artist/59krd1xNH8IJFknx9wFiVf) | [Moon](https://open.spotify.com/album/5fGzmzXGotTcvWXyyBFdGL) | 3:36 |
 | 78 | [Acervation](https://open.spotify.com/track/1WDBTG5GxhEqETVuOlyESU) | [DYGL](https://open.spotify.com/artist/43kKsfG1eZSFW785NtHDYs) | [Acervation](https://open.spotify.com/album/5HGJXHbUXFfMXwHdwjFanD) | 3:49 |
@@ -90,23 +90,23 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3UWlNiixH0j.md) - [plain]
 | 80 | [時の解決](https://open.spotify.com/track/7KmjtQirbhpj3aeLu3BA7l) | [KUKIKODAN](https://open.spotify.com/artist/7mzrWoSNJn8MaPPBPNr9yS) | [景色一空](https://open.spotify.com/album/2XAZByUJaGLU5E60QB3zKb) | 6:16 |
 | 81 | [Connector Fuck Man](https://open.spotify.com/track/4iqKxmIaivhpczzqgWwvwh) | [Texas 3000](https://open.spotify.com/artist/0vXeC8scvNvE6vIzpGTXeV) | [tx3k](https://open.spotify.com/album/0ZvwbbtzkhWNYwGuoccJ16) | 3:14 |
 | 82 | [Trank](https://open.spotify.com/track/2irdYmwlo484IdCkgyaySA) | [ako](https://open.spotify.com/artist/02XxVaFe2ZUm1LMIvWRYlo) | [Trank](https://open.spotify.com/album/4nCOdzjEjD7bxMAKLzYB0U) | 2:57 |
-| 83 | [CHELSEA](https://open.spotify.com/track/1DTFAX3tGh7Ir8WeHKA36i) | [She Her Her Hers](https://open.spotify.com/artist/3Th9UyipOGp08husDe0Era) | [CHELSEA](https://open.spotify.com/album/2lJVa505accbQtDWLPIKa7) | 3:31 |
-| 84 | [Old Rookie](https://open.spotify.com/track/6wo2dSc2HAsF0KUqti4UQn) | [Dengaryu](https://open.spotify.com/artist/77UuWIk4w0o7rsn3q1Peru) | [OLD ROOKIE EP.1](https://open.spotify.com/album/0cc0kTXheZsfEllaCljvKI) | 2:29 |
+| 83 | [Sashiiro](https://open.spotify.com/track/2WEDTNH2nR7aN6RP2tzxh5) | [Bialystocks](https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe) | [Quicksand](https://open.spotify.com/album/2Lb2A5WI9ti7WlJG8f1Gte) | 3:05 |
+| 84 | [CHELSEA](https://open.spotify.com/track/1DTFAX3tGh7Ir8WeHKA36i) | [She Her Her Hers](https://open.spotify.com/artist/3Th9UyipOGp08husDe0Era) | [CHELSEA](https://open.spotify.com/album/2lJVa505accbQtDWLPIKa7) | 3:31 |
 | 85 | [赤と青](https://open.spotify.com/track/2udGq9U6BVzKk2UqTpji45) | [ROTH BART BARON](https://open.spotify.com/artist/3WwL2Gya2VH0zHzOdakOX2) | [HOWL](https://open.spotify.com/album/4zkYI1CfV3vD2r40Cpe4iT) | 3:13 |
-| 86 | [Sashiiro](https://open.spotify.com/track/2WEDTNH2nR7aN6RP2tzxh5) | [Bialystocks](https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe) | [Quicksand](https://open.spotify.com/album/2Lb2A5WI9ti7WlJG8f1Gte) | 3:05 |
+| 86 | [Old Rookie](https://open.spotify.com/track/6wo2dSc2HAsF0KUqti4UQn) | [Dengaryu](https://open.spotify.com/artist/77UuWIk4w0o7rsn3q1Peru) | [OLD ROOKIE EP.1](https://open.spotify.com/album/0cc0kTXheZsfEllaCljvKI) | 2:29 |
 | 87 | [Deep Inside](https://open.spotify.com/track/1jDOObnZ18kkIqZAFIv1j1) | [LITE](https://open.spotify.com/artist/0TF6B1cp2QZXLE0NjhTMT9) | [STRATA \(Preview\)](https://open.spotify.com/album/6qppQkSHafK4PIhHEiwetT) | 4:09 |
-| 88 | [不眠導入剤](https://open.spotify.com/track/0NL5SHYE1u3TgA0WtYhwlF) | [domico](https://open.spotify.com/artist/0CQuAKiUYqH0OK020E3miJ) | [肴](https://open.spotify.com/album/3FgHoa9C34h5KOuA9VrVZp) | 2:40 |
-| 89 | [Mo ai ni](https://open.spotify.com/track/6iSG9jmLnHlXaYgbIlBCUP) | [She Her Her Hers](https://open.spotify.com/artist/3Th9UyipOGp08husDe0Era), [石玺彤](https://open.spotify.com/artist/1m4PLF4txR3ykHKa3uVWcd) | [Mo ai ni](https://open.spotify.com/album/79saUDsLWYgwn46WMKRtW7) | 2:58 |
-| 90 | [Rainy Day](https://open.spotify.com/track/22f48KIbKzgpOkAtVvyUQW) | [Offo tokyo](https://open.spotify.com/artist/24dGzgKTwpUdb4cGdnFj7y) | [Rainy Day](https://open.spotify.com/album/2AFqDaqL6nvDsYRZwXpPWu) | 3:01 |
-| 91 | [Take Me Back \(Remix Sessions feat\. Michael Kaneko\)](https://open.spotify.com/track/1S4LePTjz5Z6YrQEmhglEk) | [Nenashi](https://open.spotify.com/artist/675S7vvHTkabWlPQinidmX), [Michael Kaneko](https://open.spotify.com/artist/36a3BbcVBJMiBGeHzpAxHb), [Hiro\-a\-key](https://open.spotify.com/artist/3xST4IdzibYK6K3IAtcaVe), [Kibunya](https://open.spotify.com/artist/6tzDk1UFAcp7usb1RJYdVN) | [Take Me Back \(Remix Sessions feat\. Michael Kaneko\)](https://open.spotify.com/album/1ZxezzfIZkikQHqUt0tRsY) | 4:03 |
-| 92 | [バースデイ](https://open.spotify.com/track/5DiTlBAb9KTVbggIvZSDuE) | [Tele](https://open.spotify.com/artist/2DesRdo7rppo0VC8cR3vsf) | [NEW BORN GHOST](https://open.spotify.com/album/7I0gE5xwblR3qtvT3Z4uxc) | 2:21 |
-| 93 | [夢にならないように](https://open.spotify.com/track/3akniqbPdq5nhh19QtxAq2) | [グソクムズ](https://open.spotify.com/artist/2pApTGoH8Np1rgRBPu4WJk) | [陽気な休日](https://open.spotify.com/album/6j9nxtP0BmchrWc9JkBT2G) | 4:28 |
+| 88 | [Rainy Day](https://open.spotify.com/track/22f48KIbKzgpOkAtVvyUQW) | [Offo tokyo](https://open.spotify.com/artist/24dGzgKTwpUdb4cGdnFj7y) | [Rainy Day](https://open.spotify.com/album/2AFqDaqL6nvDsYRZwXpPWu) | 3:01 |
+| 89 | [不眠導入剤](https://open.spotify.com/track/0NL5SHYE1u3TgA0WtYhwlF) | [domico](https://open.spotify.com/artist/0CQuAKiUYqH0OK020E3miJ) | [肴](https://open.spotify.com/album/3FgHoa9C34h5KOuA9VrVZp) | 2:40 |
+| 90 | [Take Me Back \(Remix Sessions feat\. Michael Kaneko\)](https://open.spotify.com/track/1S4LePTjz5Z6YrQEmhglEk) | [Nenashi](https://open.spotify.com/artist/675S7vvHTkabWlPQinidmX), [Michael Kaneko](https://open.spotify.com/artist/36a3BbcVBJMiBGeHzpAxHb), [Hiro\-a\-key](https://open.spotify.com/artist/3xST4IdzibYK6K3IAtcaVe), [Kibunya](https://open.spotify.com/artist/6tzDk1UFAcp7usb1RJYdVN) | [Take Me Back \(Remix Sessions feat\. Michael Kaneko\)](https://open.spotify.com/album/1ZxezzfIZkikQHqUt0tRsY) | 4:03 |
+| 91 | [夢にならないように](https://open.spotify.com/track/3akniqbPdq5nhh19QtxAq2) | [グソクムズ](https://open.spotify.com/artist/2pApTGoH8Np1rgRBPu4WJk) | [陽気な休日](https://open.spotify.com/album/6j9nxtP0BmchrWc9JkBT2G) | 4:28 |
+| 92 | [Mo ai ni](https://open.spotify.com/track/6iSG9jmLnHlXaYgbIlBCUP) | [She Her Her Hers](https://open.spotify.com/artist/3Th9UyipOGp08husDe0Era), [石玺彤](https://open.spotify.com/artist/1m4PLF4txR3ykHKa3uVWcd) | [Mo ai ni](https://open.spotify.com/album/79saUDsLWYgwn46WMKRtW7) | 2:58 |
+| 93 | [バースデイ](https://open.spotify.com/track/5DiTlBAb9KTVbggIvZSDuE) | [Tele](https://open.spotify.com/artist/2DesRdo7rppo0VC8cR3vsf) | [NEW BORN GHOST](https://open.spotify.com/album/7I0gE5xwblR3qtvT3Z4uxc) | 2:21 |
 | 94 | [眩しい、眩しすぎる](https://open.spotify.com/track/4UKcaWqFHMEJ9Q7NzOST3L) | [離婚伝説](https://open.spotify.com/artist/0fLlzy1mzxu6XItsSY5KN2) | [眩しい、眩しすぎる](https://open.spotify.com/album/1aRuvcMfMbeG1sM08Kk6vW) | 3:54 |
 | 95 | [風の向きが変わって](https://open.spotify.com/track/1up7HNjeHsDrtzirzJT4Wt) | [MONO NO AWARE](https://open.spotify.com/artist/5vFyh7GL35ShoJWrXL9aUR) | [風の向きが変わって](https://open.spotify.com/album/16zd5CxZ5VzZKppocHWg2E) | 5:02 |
 | 96 | [Synergy](https://open.spotify.com/track/0qpw1DaobgqEb1w89zU37U) | [Satoko Shibata](https://open.spotify.com/artist/4RaaBbyl7DzAmfkjGiyUGU) | [Synergy](https://open.spotify.com/album/4XxZJsBbE0O0hUhNUvvKHt) | 3:17 |
-| 97 | [スカフィンのうた](https://open.spotify.com/track/6J6oZQOtnPZap0gHG88DSi) | [中村佳穂](https://open.spotify.com/artist/0illCOhPkFBykngmCWos6u) | [スカフィンのうた](https://open.spotify.com/album/3EmJjo9wN19HWDyoFMSgp1) | 2:30 |
-| 98 | [Blue light](https://open.spotify.com/track/4maIfu6RioRLlTBOeTnP5g) | [muque](https://open.spotify.com/artist/3SfOqz3ae0KRhTQzeR4m3t) | [Blue light](https://open.spotify.com/album/7CgmEdA9U6sm9bneO5gc6M) | 3:55 |
+| 97 | [Blue light](https://open.spotify.com/track/4maIfu6RioRLlTBOeTnP5g) | [muque](https://open.spotify.com/artist/3SfOqz3ae0KRhTQzeR4m3t) | [Blue light](https://open.spotify.com/album/7CgmEdA9U6sm9bneO5gc6M) | 3:55 |
+| 98 | [スカフィンのうた](https://open.spotify.com/track/6J6oZQOtnPZap0gHG88DSi) | [中村佳穂](https://open.spotify.com/artist/0illCOhPkFBykngmCWos6u) | [スカフィンのうた](https://open.spotify.com/album/3EmJjo9wN19HWDyoFMSgp1) | 2:30 |
 | 99 | [Shiawase no Mawarimichi](https://open.spotify.com/track/20riqOrK0iWFV2mpjbcbDr) | [Bialystocks](https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe) | [Shiawase no Mawarimichi](https://open.spotify.com/album/0K0nIz0V6KZbfq3uM66yiW) | 3:45 |
-| 100 | [BIGLOVE](https://open.spotify.com/track/5q5DpwaeE6qAv1TyF0D5D8) | [TENDOUJI](https://open.spotify.com/artist/7kOS7xo3ryc1MmhfP0fNnX) | [BIGLOVE](https://open.spotify.com/album/30vJnOO8ywQhgOUyTjX5GJ) | 2:50 |
+| 100 | [Ctrl Z \(feat\. Foi\)](https://open.spotify.com/track/2eonLjVLwcaGt9GZT5urhI) | [Sala](https://open.spotify.com/artist/6PCEjMwZEdp6lUJv7z2prW), [Foi](https://open.spotify.com/artist/395MrZuV4ZaUrn1QUPu8FB) | [Ctrl Z \(feat\. Foi\)](https://open.spotify.com/album/5JrSCjgBmW2kTKIVvJSXen) | 3:09 |
 
-Snapshot ID: `MCwwZWJjNzUzYzJjMmNlYWU3MjE3ZDE0NTlkNDdkMThiODM3ODUwN2U5`
+Snapshot ID: `MCxlYjEyYWUwMmQ4ZDBkNGM5YTJhOTU1OTdjMDNlNTllNWEzMzRjOTYx`

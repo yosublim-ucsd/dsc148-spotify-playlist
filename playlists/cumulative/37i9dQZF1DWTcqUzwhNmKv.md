@@ -4,7 +4,7 @@
 
 > Five Finger Death Punch on top of the biggest Metal playlist.
 
-563 songs - 1 day 13 hr 44 min
+564 songs - 1 day 13 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,7 +72,8 @@
 | [Broken Cog](https://open.spotify.com/track/7D5Z6xZwWIG4trvfaMa0vn) | [Meshuggah](https://open.spotify.com/artist/3ggwAqZD3lyT2sbovlmfQY) | [Immutable](https://open.spotify.com/album/1AS4JyVjjOgILIZ7TyhOKZ) | 5:35 | 2022-04-01 | 2022-07-01 |
 | [Broken Homes](https://open.spotify.com/track/5jYBHfcAfmES6eVx695YEJ) | [Rising Insane](https://open.spotify.com/artist/7InRNmmQuAi5KGBFtfOkrf) | [Afterglow](https://open.spotify.com/album/0Rzu3mifln0xaAZ2pAUnm5) | 3:16 | 2021-12-20 | 2022-03-18 |
 | [Burn](https://open.spotify.com/track/4ZQzRlJDaPAHT8KCrSp1Dg) | [Onlap](https://open.spotify.com/artist/5vkIUHgmiNIPn4Beoh2QPc) | [Burn](https://open.spotify.com/album/4wTrcpx3nA2jV5MXhtrShh) | 2:27 | 2021-12-20 | 2022-01-14 |
-| [Burn MF \(feat\. Rob Zombie\)](https://open.spotify.com/track/4zFrUrmwGjLWWDvlyOTcTu) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM), [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [Burn MF \(feat\. Rob Zombie\)](https://open.spotify.com/album/6VPBlSRkkWju1JgMxpVFqU) | 3:37 | 2023-11-17 |  |
+| [Burn MF \(feat\. Rob Zombie\)](https://open.spotify.com/track/1rH3m5jxL3TkznX0owKS39) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM), [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [The Wrong Side of Heaven Volume 1 + 2](https://open.spotify.com/album/2lEUy2FQGa4QchYQRbkN6t) | 3:37 | 2023-12-01 |  |
+| [Burn MF \(feat\. Rob Zombie\)](https://open.spotify.com/track/4zFrUrmwGjLWWDvlyOTcTu) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM), [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [Burn MF \(feat\. Rob Zombie\)](https://open.spotify.com/album/6VPBlSRkkWju1JgMxpVFqU) | 3:37 | 2023-11-17 | 2023-12-04 |
 | [Burn My Misery](https://open.spotify.com/track/5sUQJq1Dzwm0bLaJElLeFD) | [Vended](https://open.spotify.com/artist/17pZeX1Vy9hugVufmKFbCQ) | [Burn My Misery](https://open.spotify.com/album/74DGAYxGN124ZExpyHDOSV) | 5:18 | 2021-12-20 | 2022-02-04 |
 | [Call Me Little Sunshine](https://open.spotify.com/track/4W6MuwB3D4fjc0kLlUKZEl) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Call Me Little Sunshine](https://open.spotify.com/album/0K1mTbmQQ6pcVLoxgk6WMq) | 4:44 | 2022-01-21 | 2022-03-11 |
 | [Call Me Little Sunshine](https://open.spotify.com/track/4xAmbn7xiy6wGOs4oaxv70) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [IMPERA](https://open.spotify.com/album/3fn4HfVz5dhmE0PG24rh6h) | 4:44 | 2022-07-15 | 2022-09-17 |

@@ -1,12 +1,12 @@
 {
   "description": "wru? OTW! Cover: lullaboy, raissa anggiani",
-  "num_followers": 17819,
+  "num_followers": 17850,
   "original_name": "OTW ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4OGQwOWE3ZWY1ZDA4MGNkYzk3YjlhYWM3YTlmNTIwZTM1YWJjZDg3",
+  "snapshot_id": "MCw0MTQxMGU4NzcyZTQ0N2U4YzBlZTdjODNjZTQ5MmFjZjZlNjM5NDc5",
   "tracks": [
     {
       "added_at": "2023-12-01 05:00:00",
@@ -663,6 +663,22 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
+        "name": "Bunga Hati",
+        "url": "https://open.spotify.com/album/4F4XK6lkrHveOTKSGMeGF4"
+      },
+      "artists": [
+        {
+          "name": "Salma Salsabil",
+          "url": "https://open.spotify.com/artist/1y46m0kIaKwnodL0ElvQIs"
+        }
+      ],
+      "duration_ms": 173720,
+      "name": "Bunga Hati",
+      "url": "https://open.spotify.com/track/4AfhlJghKIWkXa8sfFEXVd"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
         "name": "Riuh",
         "url": "https://open.spotify.com/album/0t4RNN2t8lhd9yI9YxFHk5"
       },
@@ -679,18 +695,18 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "Bunga Hati",
-        "url": "https://open.spotify.com/album/4F4XK6lkrHveOTKSGMeGF4"
+        "name": "terima kasih",
+        "url": "https://open.spotify.com/album/0RIVNgA95YzOPDHD4aYbqZ"
       },
       "artists": [
         {
-          "name": "Salma Salsabil",
-          "url": "https://open.spotify.com/artist/1y46m0kIaKwnodL0ElvQIs"
+          "name": "Hal",
+          "url": "https://open.spotify.com/artist/5vTG3EyFrsARtIGDWZNRzu"
         }
       ],
-      "duration_ms": 173720,
-      "name": "Bunga Hati",
-      "url": "https://open.spotify.com/track/4AfhlJghKIWkXa8sfFEXVd"
+      "duration_ms": 204126,
+      "name": "terima kasih",
+      "url": "https://open.spotify.com/track/2m1ozXAKFam3YQXRPDnEfE"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -711,22 +727,6 @@
       "duration_ms": 210801,
       "name": "Ada",
       "url": "https://open.spotify.com/track/483I1QLE05iH81ReYgF2BK"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
-        "name": "terima kasih",
-        "url": "https://open.spotify.com/album/0RIVNgA95YzOPDHD4aYbqZ"
-      },
-      "artists": [
-        {
-          "name": "Hal",
-          "url": "https://open.spotify.com/artist/5vTG3EyFrsARtIGDWZNRzu"
-        }
-      ],
-      "duration_ms": 204126,
-      "name": "terima kasih",
-      "url": "https://open.spotify.com/track/2m1ozXAKFam3YQXRPDnEfE"
     },
     {
       "added_at": "2023-12-01 05:00:00",

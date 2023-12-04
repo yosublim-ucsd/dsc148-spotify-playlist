@@ -4,7 +4,7 @@
 
 > New styles, deep sounds\. Cover: Lucius
 
-433 songs - 1 day 2 hr 39 min
+434 songs - 1 day 2 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -148,6 +148,7 @@
 | [Forever Half Mast](https://open.spotify.com/track/3A4qUZbBLjDWWUJ0ayr6Nk) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [Forever Half Mast](https://open.spotify.com/album/6JYgcV8VlG9sX18HhRHH4u) | 4:02 | 2023-06-30 |  |
 | [Forever Half Mast](https://open.spotify.com/track/3yAg2gIwcElgEyypgG0YVZ) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [Forever Half Mast](https://open.spotify.com/album/2jV9k0kdnMxl1yXiHjGA82) | 4:02 | 2021-11-12 | 2022-07-26 |
 | [Francis](https://open.spotify.com/track/1ymNYpCCZqXdGG5mpBSWJF) | [Haley Heynderickx](https://open.spotify.com/artist/73MDShZzdL4vUGMkmXOG6X), [Max García Conover](https://open.spotify.com/artist/4ztTnsVkjvWdYvrrXLFdW4) | [Among Horses III](https://open.spotify.com/album/14kZDlSzNecMAegiHWES5R) | 2:03 | 2021-11-12 | 2022-07-29 |
+| [Francis](https://open.spotify.com/track/4NSK5gHAFbeD0CGkEjaouz) | [Haley Heynderickx](https://open.spotify.com/artist/73MDShZzdL4vUGMkmXOG6X), [Max García Conover](https://open.spotify.com/artist/4ztTnsVkjvWdYvrrXLFdW4) | [Among Horses III \(Fifth Anniversary Edition\)](https://open.spotify.com/album/5uXGkExjP5WJdeaGeBQ8hm) | 2:03 | 2023-10-27 |  |
 | [Francis](https://open.spotify.com/track/7g07tmYNBITxvbR3KaTZjU) | [Haley Heynderickx](https://open.spotify.com/artist/73MDShZzdL4vUGMkmXOG6X), [Max García Conover](https://open.spotify.com/artist/4ztTnsVkjvWdYvrrXLFdW4) | [Among Horses III](https://open.spotify.com/album/1EeXJ45fmNfRtHRGPWAjvz) | 2:03 | 2022-07-11 | 2023-11-27 |
 | [Freak \- Radio Edit](https://open.spotify.com/track/4AWI4fVE4KEqZQUN0H8j3z) | [King Charles](https://open.spotify.com/artist/6QKDcdjtwqu4E7rztEUQu5) | [Freak \(Radio Edit\)](https://open.spotify.com/album/0DcBUia357dYCXDYFv1vyx) | 3:39 | 2021-11-12 | 2022-07-12 |
 | [Free Around You](https://open.spotify.com/track/30yJQQCrgPsoIMd8qYRrVo) | [The Dove & the Wolf](https://open.spotify.com/artist/3GXHx6w51K9F5Xvzp9vFo6) | [Free Around You](https://open.spotify.com/album/5Zj53IK8jTEhd3PTgchP7I) | 3:40 | 2021-11-12 | 2022-07-28 |
@@ -316,7 +317,7 @@
 | [Reach Out](https://open.spotify.com/track/7J6JYZHVZBEU9vEVcIjQMB) | [Jamie Drake](https://open.spotify.com/artist/7rvB7ONJSqlmaCrcbhelir) | [Reach Out](https://open.spotify.com/album/6obuWSGjWDzRiK90Mi5Psk) | 4:14 | 2021-11-12 | 2022-06-27 |
 | [Ready or Not \(feat\. Sierra Ferrell\)](https://open.spotify.com/track/2NAOqvZIf7onZ4kDLU560I) | [Shakey Graves](https://open.spotify.com/artist/1fZpYWNWdL5Z3wrDtISFUH), [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t) | [Ready or Not \(feat\. Sierra Ferrell\)](https://open.spotify.com/album/5JcW9l6CD3JJbn7DbJrrkh) | 3:12 | 2022-02-11 |  |
 | [Redwood Tree](https://open.spotify.com/track/7tthtIvsXqBLHru3nJkQg3) | [Jamie Drake](https://open.spotify.com/artist/7rvB7ONJSqlmaCrcbhelir) | [Redwood Tree](https://open.spotify.com/album/3WsZy6HDKVIO8qAO1MA8ep) | 2:50 | 2021-11-12 | 2022-07-29 |
-| [Requiem](https://open.spotify.com/track/5w4axvkZhiRqoE0PP6teSo) | [Ben Abraham](https://open.spotify.com/artist/3FfbgiZhcCkoiI7IzOwXlI) | [Requiem](https://open.spotify.com/album/4Xr1qkaJY6ICHp7nh1rzec) | 3:38 | 2021-11-12 |  |
+| [Requiem](https://open.spotify.com/track/5w4axvkZhiRqoE0PP6teSo) | [Ben Abraham](https://open.spotify.com/artist/3FfbgiZhcCkoiI7IzOwXlI) | [Requiem](https://open.spotify.com/album/4Xr1qkaJY6ICHp7nh1rzec) | 3:38 | 2021-11-12 | 2023-12-04 |
 | [Resentment](https://open.spotify.com/track/7oe8E6wlEuxJpCSqZu9VVf) | [Madi Diaz](https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az) | [Resentment](https://open.spotify.com/album/35i4zihamjGrr1nBrtknip) | 2:53 | 2021-11-12 | 2022-02-12 |
 | [Resentment \(New Feelings Version\)](https://open.spotify.com/track/1QMlPu2ElT8LO2ceRVJs3g) | [Madi Diaz](https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az), [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [Resentment \(New Feelings Version\)](https://open.spotify.com/album/5c0IIUPmCzuIbx4KLgjLGv) | 2:52 | 2022-02-11 | 2022-07-29 |
 | [Resentment \(New Feelings Version\)](https://open.spotify.com/track/3T5m746yNi1IFCcnaVA0IR) | [Madi Diaz](https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az), [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [Same History, New Feelings](https://open.spotify.com/album/2pVw5jbYUefDoaZgjnu4Q9) | 2:52 | 2022-07-11 | 2023-06-01 |

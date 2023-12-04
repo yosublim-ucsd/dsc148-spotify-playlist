@@ -1,12 +1,12 @@
 {
   "description": "Reinas de la cumbia, de hoy y de siempre. \nFoto: Karina.",
-  "num_followers": 89366,
+  "num_followers": 89423,
   "original_name": "Cumbieras",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZTk5ODcxOTYxOWE4YzkxOTRlMzY4ZTljODMwZDMxZmEyODM1MGJj",
+  "snapshot_id": "MCwxOTc4MzA4NTNhYTYzNGE4ZTVlZmIxYzQxMjVlZWE5YzE4ZjRkYTYw",
   "tracks": [
     {
       "added_at": "2023-10-26 20:31:33",
@@ -63,18 +63,18 @@
     {
       "added_at": "2023-10-26 20:31:33",
       "album": {
-        "name": "15 \u00c9xitos",
-        "url": "https://open.spotify.com/album/48FUru9enVg1NlLrkZyJW6"
+        "name": "No Me Arrepiento De Este Amor",
+        "url": "https://open.spotify.com/album/2MllIhJKqsrBM7L4JhIE17"
       },
       "artists": [
         {
-          "name": "Laura Leon",
-          "url": "https://open.spotify.com/artist/1dON8KmX1N7ZPHCRyhK2hX"
+          "name": "Gilda",
+          "url": "https://open.spotify.com/artist/6Q6qTNC2rAegcR5QjzcRgE"
         }
       ],
-      "duration_ms": 225720,
-      "name": "Suavecito Suavecito",
-      "url": "https://open.spotify.com/track/6cKWDVak6o362TElLvwtmU"
+      "duration_ms": 227373,
+      "name": "No Me Arrepiento de Este Amor",
+      "url": "https://open.spotify.com/track/51AzUb1mSE4WfbSBAi2OYo"
     },
     {
       "added_at": "2023-10-26 20:31:33",
@@ -103,18 +103,18 @@
     {
       "added_at": "2023-10-26 20:31:33",
       "album": {
-        "name": "No Me Arrepiento De Este Amor",
-        "url": "https://open.spotify.com/album/2MllIhJKqsrBM7L4JhIE17"
+        "name": "15 \u00c9xitos",
+        "url": "https://open.spotify.com/album/48FUru9enVg1NlLrkZyJW6"
       },
       "artists": [
         {
-          "name": "Gilda",
-          "url": "https://open.spotify.com/artist/6Q6qTNC2rAegcR5QjzcRgE"
+          "name": "Laura Leon",
+          "url": "https://open.spotify.com/artist/1dON8KmX1N7ZPHCRyhK2hX"
         }
       ],
-      "duration_ms": 227373,
-      "name": "No Me Arrepiento de Este Amor",
-      "url": "https://open.spotify.com/track/51AzUb1mSE4WfbSBAi2OYo"
+      "duration_ms": 225720,
+      "name": "Suavecito Suavecito",
+      "url": "https://open.spotify.com/track/6cKWDVak6o362TElLvwtmU"
     },
     {
       "added_at": "2023-10-26 20:31:33",
@@ -195,6 +195,22 @@
     {
       "added_at": "2023-10-26 20:31:33",
       "album": {
+        "name": "Coraz\u00f3n Valiente",
+        "url": "https://open.spotify.com/album/1qeqv8V5qkNHRmhcBD5QnD"
+      },
+      "artists": [
+        {
+          "name": "Gilda",
+          "url": "https://open.spotify.com/artist/6Q6qTNC2rAegcR5QjzcRgE"
+        }
+      ],
+      "duration_ms": 184893,
+      "name": "Fuiste",
+      "url": "https://open.spotify.com/track/4fLd1pIpGwV4IEbQNyQMLh"
+    },
+    {
+      "added_at": "2023-10-26 20:31:33",
+      "album": {
         "name": "Con la Misma Moneda",
         "url": "https://open.spotify.com/album/0uHMJhys3A6ZexbwOQj0Hc"
       },
@@ -235,22 +251,6 @@
       "duration_ms": 221346,
       "name": "Amor A Primera Vista",
       "url": "https://open.spotify.com/track/5Myb8S90Wg0yLec5kmrIGJ"
-    },
-    {
-      "added_at": "2023-10-26 20:31:33",
-      "album": {
-        "name": "Tonto Cari\u00f1o",
-        "url": "https://open.spotify.com/album/1jsyIp7OFTpIHDkKXl0kgS"
-      },
-      "artists": [
-        {
-          "name": "Los Papis RA7",
-          "url": "https://open.spotify.com/artist/1y7GWTEfMzxafQ4mL0uZpq"
-        }
-      ],
-      "duration_ms": 299284,
-      "name": "Estupido",
-      "url": "https://open.spotify.com/track/1hA3c7Rf0oLHFNR4ZVL030"
     },
     {
       "added_at": "2023-10-26 20:31:33",
@@ -303,22 +303,6 @@
     {
       "added_at": "2023-10-26 20:31:33",
       "album": {
-        "name": "Coraz\u00f3n Valiente",
-        "url": "https://open.spotify.com/album/1qeqv8V5qkNHRmhcBD5QnD"
-      },
-      "artists": [
-        {
-          "name": "Gilda",
-          "url": "https://open.spotify.com/artist/6Q6qTNC2rAegcR5QjzcRgE"
-        }
-      ],
-      "duration_ms": 184893,
-      "name": "Fuiste",
-      "url": "https://open.spotify.com/track/4fLd1pIpGwV4IEbQNyQMLh"
-    },
-    {
-      "added_at": "2023-10-26 20:31:33",
-      "album": {
         "name": "Sin Verg\u00fcenza",
         "url": "https://open.spotify.com/album/2WuEroV8xhS8VXN8xjArIT"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 179213,
       "name": "Corazon Mentiroso",
       "url": "https://open.spotify.com/track/2ZkWTFZ9rQCl6ccNAOO79L"
+    },
+    {
+      "added_at": "2023-10-26 20:31:33",
+      "album": {
+        "name": "Tonto Cari\u00f1o",
+        "url": "https://open.spotify.com/album/1jsyIp7OFTpIHDkKXl0kgS"
+      },
+      "artists": [
+        {
+          "name": "Los Papis RA7",
+          "url": "https://open.spotify.com/artist/1y7GWTEfMzxafQ4mL0uZpq"
+        }
+      ],
+      "duration_ms": 299284,
+      "name": "Estupido",
+      "url": "https://open.spotify.com/track/1hA3c7Rf0oLHFNR4ZVL030"
     },
     {
       "added_at": "2023-10-26 20:31:33",
@@ -459,6 +459,22 @@
     {
       "added_at": "2023-10-26 20:31:33",
       "album": {
+        "name": "Tiempo de Cambio",
+        "url": "https://open.spotify.com/album/3usDqwS6WvQHSFuL5LuJbP"
+      },
+      "artists": [
+        {
+          "name": "Karina",
+          "url": "https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq"
+        }
+      ],
+      "duration_ms": 202946,
+      "name": "Fuera",
+      "url": "https://open.spotify.com/track/7oPKn4LrkqFJWAXYSNZPGv"
+    },
+    {
+      "added_at": "2023-10-26 20:31:33",
+      "album": {
         "name": "Miau",
         "url": "https://open.spotify.com/album/5cYwo4qHagCDmawKmY12PY"
       },
@@ -495,22 +511,6 @@
     {
       "added_at": "2023-10-26 20:31:33",
       "album": {
-        "name": "Tiempo de Cambio",
-        "url": "https://open.spotify.com/album/3usDqwS6WvQHSFuL5LuJbP"
-      },
-      "artists": [
-        {
-          "name": "Karina",
-          "url": "https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq"
-        }
-      ],
-      "duration_ms": 202946,
-      "name": "Fuera",
-      "url": "https://open.spotify.com/track/7oPKn4LrkqFJWAXYSNZPGv"
-    },
-    {
-      "added_at": "2023-10-26 20:31:33",
-      "album": {
         "name": "Por Amor A La M\u00fasica",
         "url": "https://open.spotify.com/album/50Kj1z2Vapl5iSaBQyV7HW"
       },
@@ -543,6 +543,22 @@
     {
       "added_at": "2023-10-26 20:31:33",
       "album": {
+        "name": "La Movidita",
+        "url": "https://open.spotify.com/album/59IsmbtBiwZmpwrBOJzymP"
+      },
+      "artists": [
+        {
+          "name": "Lia Crucet",
+          "url": "https://open.spotify.com/artist/1wsio1S9CIIbEuGSYkSAyQ"
+        }
+      ],
+      "duration_ms": 182880,
+      "name": "La G\u00fcera Salome",
+      "url": "https://open.spotify.com/track/51kzAz2guzWXeQFtzE3BUa"
+    },
+    {
+      "added_at": "2023-10-26 20:31:33",
+      "album": {
         "name": "Qui\u00e9reme (Cuarteto)",
         "url": "https://open.spotify.com/album/4dwtcMOGdBahKQSUk6sgaU"
       },
@@ -559,22 +575,6 @@
       "duration_ms": 336000,
       "name": "Qui\u00e9reme - Cuarteto",
       "url": "https://open.spotify.com/track/16TVpC45y7WRr5jRxyXWxc"
-    },
-    {
-      "added_at": "2023-10-26 20:31:33",
-      "album": {
-        "name": "La Movidita",
-        "url": "https://open.spotify.com/album/59IsmbtBiwZmpwrBOJzymP"
-      },
-      "artists": [
-        {
-          "name": "Lia Crucet",
-          "url": "https://open.spotify.com/artist/1wsio1S9CIIbEuGSYkSAyQ"
-        }
-      ],
-      "duration_ms": 182880,
-      "name": "La G\u00fcera Salome",
-      "url": "https://open.spotify.com/track/51kzAz2guzWXeQFtzE3BUa"
     },
     {
       "added_at": "2023-10-26 20:31:33",
@@ -667,22 +667,6 @@
     {
       "added_at": "2023-10-26 20:31:33",
       "album": {
-        "name": "Karma",
-        "url": "https://open.spotify.com/album/6zl0Ny6UMSSXnmMzOYElmC"
-      },
-      "artists": [
-        {
-          "name": "Angela Leiva",
-          "url": "https://open.spotify.com/artist/6Y4g5zwJI7jcRzGLXh0H5d"
-        }
-      ],
-      "duration_ms": 176255,
-      "name": "Karma",
-      "url": "https://open.spotify.com/track/4SkPhoz2b5busK8p9yc4rB"
-    },
-    {
-      "added_at": "2023-10-26 20:31:33",
-      "album": {
         "name": "Viru Kumbieron",
         "url": "https://open.spotify.com/album/1CCcCWcacL3qH60tN70tp3"
       },
@@ -715,6 +699,22 @@
     {
       "added_at": "2023-10-26 20:31:33",
       "album": {
+        "name": "Karma",
+        "url": "https://open.spotify.com/album/6zl0Ny6UMSSXnmMzOYElmC"
+      },
+      "artists": [
+        {
+          "name": "Angela Leiva",
+          "url": "https://open.spotify.com/artist/6Y4g5zwJI7jcRzGLXh0H5d"
+        }
+      ],
+      "duration_ms": 176255,
+      "name": "Karma",
+      "url": "https://open.spotify.com/track/4SkPhoz2b5busK8p9yc4rB"
+    },
+    {
+      "added_at": "2023-10-26 20:31:33",
+      "album": {
         "name": "20 TropiExitos",
         "url": "https://open.spotify.com/album/27C2s8tthY7NsuuDOqrLxm"
       },
@@ -743,22 +743,6 @@
       "duration_ms": 196706,
       "name": "Metrosexual",
       "url": "https://open.spotify.com/track/2e8qbKV6pRQ9MYrXDMkjIb"
-    },
-    {
-      "added_at": "2023-10-26 20:31:33",
-      "album": {
-        "name": "Olv\u00eddate (Cuarteto)",
-        "url": "https://open.spotify.com/album/05jHCZbu7vdaO6QX1nLqQt"
-      },
-      "artists": [
-        {
-          "name": "Angela Leiva",
-          "url": "https://open.spotify.com/artist/6Y4g5zwJI7jcRzGLXh0H5d"
-        }
-      ],
-      "duration_ms": 266000,
-      "name": "Olv\u00eddate - Cuarteto",
-      "url": "https://open.spotify.com/track/1864fBWaqndH7DsyVSoy4Z"
     },
     {
       "added_at": "2023-10-26 20:31:33",
@@ -823,6 +807,22 @@
     {
       "added_at": "2023-10-26 20:31:33",
       "album": {
+        "name": "En Peligro de Extinci\u00f3n",
+        "url": "https://open.spotify.com/album/2lrLv3S0wuWr1U0iAsTyQ5"
+      },
+      "artists": [
+        {
+          "name": "Viru Kumbieron",
+          "url": "https://open.spotify.com/artist/7edrtXagYn0nCFOwQp8AS1"
+        }
+      ],
+      "duration_ms": 221823,
+      "name": "En Peligro de Extinci\u00f3n",
+      "url": "https://open.spotify.com/track/3iJBKJpJ410zMHs2XgNifm"
+    },
+    {
+      "added_at": "2023-10-26 20:31:33",
+      "album": {
         "name": "Dos Infieles",
         "url": "https://open.spotify.com/album/1f54nsI9jCpMXNryg9RX4f"
       },
@@ -843,6 +843,22 @@
     {
       "added_at": "2023-10-26 20:31:33",
       "album": {
+        "name": "Olv\u00eddate (Cuarteto)",
+        "url": "https://open.spotify.com/album/05jHCZbu7vdaO6QX1nLqQt"
+      },
+      "artists": [
+        {
+          "name": "Angela Leiva",
+          "url": "https://open.spotify.com/artist/6Y4g5zwJI7jcRzGLXh0H5d"
+        }
+      ],
+      "duration_ms": 266000,
+      "name": "Olv\u00eddate - Cuarteto",
+      "url": "https://open.spotify.com/track/1864fBWaqndH7DsyVSoy4Z"
+    },
+    {
+      "added_at": "2023-10-26 20:31:33",
+      "album": {
         "name": "Chau Chau",
         "url": "https://open.spotify.com/album/667cSzgfBITHyYcjrBb9ie"
       },
@@ -855,22 +871,6 @@
       "duration_ms": 164575,
       "name": "Chau Chau",
       "url": "https://open.spotify.com/track/6FMTafTDHX2Gt9EXONkBya"
-    },
-    {
-      "added_at": "2023-10-26 20:31:33",
-      "album": {
-        "name": "En Peligro de Extinci\u00f3n",
-        "url": "https://open.spotify.com/album/2lrLv3S0wuWr1U0iAsTyQ5"
-      },
-      "artists": [
-        {
-          "name": "Viru Kumbieron",
-          "url": "https://open.spotify.com/artist/7edrtXagYn0nCFOwQp8AS1"
-        }
-      ],
-      "duration_ms": 221823,
-      "name": "En Peligro de Extinci\u00f3n",
-      "url": "https://open.spotify.com/track/3iJBKJpJ410zMHs2XgNifm"
     },
     {
       "added_at": "2023-10-26 20:31:33",
@@ -923,22 +923,6 @@
       "duration_ms": 217626,
       "name": "En tu pelo",
       "url": "https://open.spotify.com/track/5LhnavryqjYomWrEzfjB8G"
-    },
-    {
-      "added_at": "2023-10-26 20:31:33",
-      "album": {
-        "name": "La Reina",
-        "url": "https://open.spotify.com/album/7AUncrChIPjBitUE0NYIoO"
-      },
-      "artists": [
-        {
-          "name": "Angela Leiva",
-          "url": "https://open.spotify.com/artist/6Y4g5zwJI7jcRzGLXh0H5d"
-        }
-      ],
-      "duration_ms": 234222,
-      "name": "Ahora Se",
-      "url": "https://open.spotify.com/track/5AWK8nehIszKNIWhoOBiQn"
     },
     {
       "added_at": "2023-10-26 20:31:33",
@@ -1007,22 +991,18 @@
     {
       "added_at": "2023-10-26 20:31:33",
       "album": {
-        "name": "Abr\u00e1zame y B\u00e9same",
-        "url": "https://open.spotify.com/album/28mdITeLFYo3nx3NufxYSu"
+        "name": "La Reina",
+        "url": "https://open.spotify.com/album/7AUncrChIPjBitUE0NYIoO"
       },
       "artists": [
         {
           "name": "Angela Leiva",
           "url": "https://open.spotify.com/artist/6Y4g5zwJI7jcRzGLXh0H5d"
-        },
-        {
-          "name": "A.B. Quintanilla III",
-          "url": "https://open.spotify.com/artist/5MP9bH9aUryiKQeUvABLIU"
         }
       ],
-      "duration_ms": 180748,
-      "name": "Abr\u00e1zame y B\u00e9same",
-      "url": "https://open.spotify.com/track/4ZiPUCqlr9XeW5JkuWansG"
+      "duration_ms": 234222,
+      "name": "Ahora Se",
+      "url": "https://open.spotify.com/track/5AWK8nehIszKNIWhoOBiQn"
     },
     {
       "added_at": "2023-10-26 20:31:33",
@@ -1107,6 +1087,22 @@
     {
       "added_at": "2023-10-26 20:31:33",
       "album": {
+        "name": "Ya No Cabes en Mi Vida",
+        "url": "https://open.spotify.com/album/0owqh23Zt5u38h1SbS4Oyf"
+      },
+      "artists": [
+        {
+          "name": "Mariana Seoane",
+          "url": "https://open.spotify.com/artist/5erc8Dr6fyYJSoIXJKlFZV"
+        }
+      ],
+      "duration_ms": 211489,
+      "name": "Ya No Cabes en Mi Vida",
+      "url": "https://open.spotify.com/track/5ZycfkHySa9RUkzSchzQTf"
+    },
+    {
+      "added_at": "2023-10-26 20:31:33",
+      "album": {
         "name": "Hipn\u00f2tica",
         "url": "https://open.spotify.com/album/3pCwXna379BJwnSec28ySB"
       },
@@ -1123,18 +1119,18 @@
     {
       "added_at": "2023-10-26 20:31:33",
       "album": {
-        "name": "Ya No Cabes en Mi Vida",
-        "url": "https://open.spotify.com/album/0owqh23Zt5u38h1SbS4Oyf"
+        "name": "Placer y Olvido (En Vivo)",
+        "url": "https://open.spotify.com/album/7wcqpXexsimtSCJWu5uYpP"
       },
       "artists": [
         {
-          "name": "Mariana Seoane",
-          "url": "https://open.spotify.com/artist/5erc8Dr6fyYJSoIXJKlFZV"
+          "name": "Dalila",
+          "url": "https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ"
         }
       ],
-      "duration_ms": 211489,
-      "name": "Ya No Cabes en Mi Vida",
-      "url": "https://open.spotify.com/track/5ZycfkHySa9RUkzSchzQTf"
+      "duration_ms": 82400,
+      "name": "Placer y Olvido",
+      "url": "https://open.spotify.com/track/6oYPVRn8ioihapnk3hYGRU"
     }
   ],
   "unique_name": "Cumbieras",

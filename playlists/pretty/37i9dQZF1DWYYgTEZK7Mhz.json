@@ -1,12 +1,12 @@
 {
   "description": "Un'estate al mare, stile balenare... \ud83c\udfdd\ufe0f Hit dell'estate italiana anni 60, 70 e 80!",
-  "num_followers": 24953,
+  "num_followers": 24997,
   "original_name": "Sapore di Sale",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NTZmNTFmYmNjMmZlNWE3YjVjYzk4MjhjNjcxYmUzOTM3ZjE3OTNk",
+  "snapshot_id": "MCw4NTA5MTBhMzhkMzBkYzVjYjA2MWM1ZGNiN2MwN2UwMjRjYTkyZTg0",
   "tracks": [
     {
       "added_at": "2023-06-05 07:42:38",
@@ -347,22 +347,6 @@
     {
       "added_at": "2023-06-05 07:42:38",
       "album": {
-        "name": "Donna Felicita'",
-        "url": "https://open.spotify.com/album/3Dpo8mHt0NgsXPbADMNzE5"
-      },
-      "artists": [
-        {
-          "name": "I Nuovi Angeli",
-          "url": "https://open.spotify.com/artist/3hkMQ0khOVnDt0VhoQNyMX"
-        }
-      ],
-      "duration_ms": 127333,
-      "name": "Donna Felicita'",
-      "url": "https://open.spotify.com/track/2H3oycexcMvOuNUebcdKAF"
-    },
-    {
-      "added_at": "2023-06-05 07:42:38",
-      "album": {
         "name": "Nell'aria",
         "url": "https://open.spotify.com/album/1hj4hDj1BbuCEbSmwH3QqA"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 242640,
       "name": "Nell'aria",
       "url": "https://open.spotify.com/track/6m00Mv5ElkFndzwrv0D8a0"
+    },
+    {
+      "added_at": "2023-06-05 07:42:38",
+      "album": {
+        "name": "Donna Felicita'",
+        "url": "https://open.spotify.com/album/3Dpo8mHt0NgsXPbADMNzE5"
+      },
+      "artists": [
+        {
+          "name": "I Nuovi Angeli",
+          "url": "https://open.spotify.com/artist/3hkMQ0khOVnDt0VhoQNyMX"
+        }
+      ],
+      "duration_ms": 127333,
+      "name": "Donna Felicita'",
+      "url": "https://open.spotify.com/track/2H3oycexcMvOuNUebcdKAF"
     },
     {
       "added_at": "2023-06-05 07:42:38",
@@ -543,18 +543,18 @@
     {
       "added_at": "2023-06-05 07:42:38",
       "album": {
-        "name": "Amore Mio (Les plus belles chansons d'amour Italiennes)",
-        "url": "https://open.spotify.com/album/3iCbyFhMUuMQbJjoG5FnZg"
+        "name": "Righeira The 80's Hit Songs",
+        "url": "https://open.spotify.com/album/0kXv5aOToWfQDF31IfM7mm"
       },
       "artists": [
         {
-          "name": "Adriano Celetano",
-          "url": "https://open.spotify.com/artist/6XDjliEwwXtUBoFwqtPeGc"
+          "name": "Righeira",
+          "url": "https://open.spotify.com/artist/6hfVCgKTJbLM6M18e2z7OI"
         }
       ],
-      "duration_ms": 136080,
-      "name": "24,000 baci",
-      "url": "https://open.spotify.com/track/0WYFtZ7NL2SHwhnisVHpwM"
+      "duration_ms": 217327,
+      "name": "Vamos a la Playa",
+      "url": "https://open.spotify.com/track/5ULXfqPkKKEb8eWK2UMTQP"
     },
     {
       "added_at": "2023-06-05 07:42:38",
@@ -575,22 +575,6 @@
       "duration_ms": 151720,
       "name": "Guarda come dondolo",
       "url": "https://open.spotify.com/track/1dtb5yOshvGUMIhYhvdoxh"
-    },
-    {
-      "added_at": "2023-06-05 07:42:38",
-      "album": {
-        "name": "Righeira The 80's Hit Songs",
-        "url": "https://open.spotify.com/album/0kXv5aOToWfQDF31IfM7mm"
-      },
-      "artists": [
-        {
-          "name": "Righeira",
-          "url": "https://open.spotify.com/artist/6hfVCgKTJbLM6M18e2z7OI"
-        }
-      ],
-      "duration_ms": 217327,
-      "name": "Vamos a la Playa",
-      "url": "https://open.spotify.com/track/5ULXfqPkKKEb8eWK2UMTQP"
     },
     {
       "added_at": "2023-06-05 07:42:38",
@@ -787,6 +771,22 @@
       "duration_ms": 156920,
       "name": "Con Te Sulla Spiaggia",
       "url": "https://open.spotify.com/track/1pN4eiEz2QqVMq34ltToWI"
+    },
+    {
+      "added_at": "2023-06-05 07:42:38",
+      "album": {
+        "name": "Anni '60",
+        "url": "https://open.spotify.com/album/09oVFxD8GT8LJGXwkN4IcU"
+      },
+      "artists": [
+        {
+          "name": "Adriano Celentano",
+          "url": "https://open.spotify.com/artist/1yq9UuPp5DIb5w6eswGbKV"
+        }
+      ],
+      "duration_ms": 137665,
+      "name": "24.000 Baci",
+      "url": "https://open.spotify.com/track/3XJmcsXl48gtkjx33EuPWK"
     },
     {
       "added_at": "2023-06-05 07:42:38",

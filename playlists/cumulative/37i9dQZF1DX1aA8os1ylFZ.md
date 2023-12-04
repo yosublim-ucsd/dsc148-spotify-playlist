@@ -4,7 +4,7 @@
 
 > get into your feels with some r&b magic
 
-454 songs - 23 hr 36 min
+455 songs - 23 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,7 @@
 | [Baeside](https://open.spotify.com/track/61INco9IWV4MfDHnuLZQkt) | [LORNZO](https://open.spotify.com/artist/165m3O9waRPKckujKZnFlz) | [Baeside](https://open.spotify.com/album/6b4rqnlyogdajmmTc8tpRZ) | 1:44 | 2023-11-09 |  |
 | [Bag \(with Lucky Daye\)](https://open.spotify.com/track/5c4w6QktLsSuO1gqH4YKE7) | [Col3trane](https://open.spotify.com/artist/4hTL3jOgvZwOqegEZTOrCc), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Bag \(with Lucky Daye\)](https://open.spotify.com/album/0TUbzetDrAOIy2RI194WEY) | 3:31 | 2023-09-14 |  |
 | [Bag Of You](https://open.spotify.com/track/3X7aFBB2ja4QT2XEuxKCIA) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [Bag Of You](https://open.spotify.com/album/4J2ZnI41Z9yElyzM2TzBrM) | 3:17 | 2023-01-12 | 2023-09-15 |
-| [Balcony](https://open.spotify.com/track/2IS5TQnd26IKxRg7cewEdO) | [Anuka](https://open.spotify.com/artist/4tp1pUIwgLWIIIIOo1yPYp) | [Balcony](https://open.spotify.com/album/695ukF8LGhGU4pagxtsxFc) | 2:40 | 2023-11-09 |  |
+| [Balcony](https://open.spotify.com/track/2IS5TQnd26IKxRg7cewEdO) | [Anuka](https://open.spotify.com/artist/4tp1pUIwgLWIIIIOo1yPYp) | [Balcony](https://open.spotify.com/album/695ukF8LGhGU4pagxtsxFc) | 2:40 | 2023-11-09 | 2023-12-04 |
 | [Be My Summer](https://open.spotify.com/track/18QC5FsQ9FThInUrC6BScS) | [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [Be My Summer](https://open.spotify.com/album/1WStqZEbgRsqUNazxV7u9C) | 3:06 | 2023-08-31 |  |
 | [Be The One](https://open.spotify.com/track/7LAmyxSmOqkCNBGEA4Jmz9) | [Yas VW](https://open.spotify.com/artist/2jplEyr7LPlIROlfLPBr94) | [Be The One](https://open.spotify.com/album/0mnHefkYAe36DwlwqoKCbR) | 3:18 | 2021-12-16 | 2022-03-26 |
 | [Beautiful Love \- Free Fire](https://open.spotify.com/track/3e10Ct9oFcIdgFjkDUBV2k) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Beautiful Love \(Free Fire\)](https://open.spotify.com/album/3Dukyn15RlALh1JDtQRqO0) | 3:27 | 2023-01-12 | 2023-09-22 |
@@ -377,6 +377,7 @@
 | [Spend The Night](https://open.spotify.com/track/1wqKQu5RECFt8Q3MMCqWdn) | [BJ The Chicago Kid](https://open.spotify.com/artist/07d5etnpjriczFBB8pxmRe), [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd) | [Spend The Night](https://open.spotify.com/album/5wnhSl8Q7LMbtwYkFIYaEJ) | 3:13 | 2023-09-07 | 2023-11-10 |
 | [Split](https://open.spotify.com/track/5CjWTW7fjNIcyOfUvJNIC0) | [Vedo](https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL) | [Split](https://open.spotify.com/album/252FXpscMwNO4FXh194pf3) | 2:41 | 2023-09-07 |  |
 | [Spoon & Bang](https://open.spotify.com/track/65fTruLlZlBtPiZuEFUFN7) | [Kyle Dion](https://open.spotify.com/artist/5qfkUSH3ip5dD2eEPhjkT3) | [SASSY \(Deluxe\)](https://open.spotify.com/album/2FBmbNR9eJ6BY4QIWBRI38) | 2:09 | 2023-01-12 | 2023-09-29 |
+| [Stars](https://open.spotify.com/track/0rUmvpKfigC5jL0jnIcYTB) | [Carlos Abril](https://open.spotify.com/artist/3EZSFgcjMOuvt39vZQDo7L), [Amelia Rose](https://open.spotify.com/artist/3UU07M4msKfDqC4c9JCnDl) | [Stars](https://open.spotify.com/album/70KMbElvbjKSWUPERYbVCp) | 4:18 | 2023-11-30 |  |
 | [Still Work \(feat\. Ty Dolla $ign & Muni Long\)](https://open.spotify.com/track/0teFeL0RvDeDbpmi1YZlFt) | [OG Parker](https://open.spotify.com/artist/5hhgghBFkLDdMn93GW4x3I), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Still Work \(feat\. Ty Dolla $ign & Muni Long\)](https://open.spotify.com/album/0t2ykalFeWerglEzAC9tBS) | 2:34 | 2023-02-16 |  |
 | [Stranger](https://open.spotify.com/track/4TRcHzOWfy7EmYYdci24jv) | [RealestK](https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx) | [Stranger](https://open.spotify.com/album/5tjjkvT0Tm06eXsJjV7sms) | 2:35 | 2023-09-07 |  |
 | [Streets](https://open.spotify.com/track/60ynsPSSKe6O3sfwRnIBRf) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Hot Pink](https://open.spotify.com/album/1MmVkhiwTH0BkNOU3nw5d3) | 3:46 | 2023-01-12 | 2023-01-27 |

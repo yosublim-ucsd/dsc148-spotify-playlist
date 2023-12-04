@@ -1,12 +1,12 @@
 {
   "description": "Sit back and relax to our favorite local indie and R&B sounds.",
-  "num_followers": 594327,
+  "num_followers": 594416,
   "original_name": "Relax Tayo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZGUyYmZlZDY5ODA1YWQwZWI2YTg0ZTg2Y2IyZjMwNjYwNTEyNWUw",
+  "snapshot_id": "MCxkOTNhZWU3OWUxNGUxZmI3MTUwNTg4NDkzNzhhZWJiMGNhMWJhNjVm",
   "tracks": [
     {
       "added_at": "2023-11-10 09:15:37",
@@ -231,22 +231,6 @@
     {
       "added_at": "2023-11-10 09:15:37",
       "album": {
-        "name": "Buwan",
-        "url": "https://open.spotify.com/album/2CF1utwLM2yXHMZhwFGVY1"
-      },
-      "artists": [
-        {
-          "name": "juan karlos",
-          "url": "https://open.spotify.com/artist/0a4r2EnsevvHCukoJ1xFwJ"
-        }
-      ],
-      "duration_ms": 343446,
-      "name": "Buwan",
-      "url": "https://open.spotify.com/track/5f9808hpiCpuNyqqdXmpF2"
-    },
-    {
-      "added_at": "2023-11-10 09:15:37",
-      "album": {
         "name": "Gusto With Ya",
         "url": "https://open.spotify.com/album/3hQTzUwRIXnetrF1WrSrfk"
       },
@@ -259,6 +243,22 @@
       "duration_ms": 162000,
       "name": "Gusto With Ya",
       "url": "https://open.spotify.com/track/0hr2Itwh84Zn3PiRRjHTnw"
+    },
+    {
+      "added_at": "2023-11-10 09:15:37",
+      "album": {
+        "name": "Buwan",
+        "url": "https://open.spotify.com/album/2CF1utwLM2yXHMZhwFGVY1"
+      },
+      "artists": [
+        {
+          "name": "juan karlos",
+          "url": "https://open.spotify.com/artist/0a4r2EnsevvHCukoJ1xFwJ"
+        }
+      ],
+      "duration_ms": 343446,
+      "name": "Buwan",
+      "url": "https://open.spotify.com/track/5f9808hpiCpuNyqqdXmpF2"
     },
     {
       "added_at": "2023-11-10 09:15:37",
@@ -479,6 +479,22 @@
     {
       "added_at": "2023-11-10 09:15:37",
       "album": {
+        "name": "Popcorn",
+        "url": "https://open.spotify.com/album/5h7SARmqKueZqYztB10nhx"
+      },
+      "artists": [
+        {
+          "name": "Moonstar88",
+          "url": "https://open.spotify.com/artist/2kZThDGZcHl4klYYFk0v8n"
+        }
+      ],
+      "duration_ms": 264202,
+      "name": "Torete",
+      "url": "https://open.spotify.com/track/14NYrkbcxzarp4y7LlTtQF"
+    },
+    {
+      "added_at": "2023-11-10 09:15:37",
+      "album": {
         "name": "Aking Pahinga",
         "url": "https://open.spotify.com/album/5dO0Qwl40jXrQ4NCmRRuvb"
       },
@@ -495,22 +511,6 @@
       "duration_ms": 274285,
       "name": "Aking Pahinga",
       "url": "https://open.spotify.com/track/6zcjOnMaymoEbG32dWekXi"
-    },
-    {
-      "added_at": "2023-11-10 09:15:37",
-      "album": {
-        "name": "Popcorn",
-        "url": "https://open.spotify.com/album/5h7SARmqKueZqYztB10nhx"
-      },
-      "artists": [
-        {
-          "name": "Moonstar88",
-          "url": "https://open.spotify.com/artist/2kZThDGZcHl4klYYFk0v8n"
-        }
-      ],
-      "duration_ms": 264202,
-      "name": "Torete",
-      "url": "https://open.spotify.com/track/14NYrkbcxzarp4y7LlTtQF"
     },
     {
       "added_at": "2023-11-10 09:15:37",
@@ -547,22 +547,6 @@
     {
       "added_at": "2023-11-10 09:15:37",
       "album": {
-        "name": "Bakit?",
-        "url": "https://open.spotify.com/album/4yUpIXYnlsHPTT3mIAzIKI"
-      },
-      "artists": [
-        {
-          "name": "Maki",
-          "url": "https://open.spotify.com/artist/6AvnL2gWjNYs1hRVJx4huK"
-        }
-      ],
-      "duration_ms": 194442,
-      "name": "Bakit?",
-      "url": "https://open.spotify.com/track/1PpuRYoMSWX8CQZDTE1MRV"
-    },
-    {
-      "added_at": "2023-11-10 09:15:37",
-      "album": {
         "name": "Anytime",
         "url": "https://open.spotify.com/album/73d8pQZqyvAkvYNiq1eCqN"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 259569,
       "name": "Anytime",
       "url": "https://open.spotify.com/track/0GiqrzfvBVHmkyJEWP4kcx"
+    },
+    {
+      "added_at": "2023-11-10 09:15:37",
+      "album": {
+        "name": "Bakit?",
+        "url": "https://open.spotify.com/album/4yUpIXYnlsHPTT3mIAzIKI"
+      },
+      "artists": [
+        {
+          "name": "Maki",
+          "url": "https://open.spotify.com/artist/6AvnL2gWjNYs1hRVJx4huK"
+        }
+      ],
+      "duration_ms": 194442,
+      "name": "Bakit?",
+      "url": "https://open.spotify.com/track/1PpuRYoMSWX8CQZDTE1MRV"
     },
     {
       "added_at": "2023-11-10 09:15:37",
@@ -731,22 +731,6 @@
     {
       "added_at": "2023-11-10 09:15:37",
       "album": {
-        "name": "Simula Pa Nung Una",
-        "url": "https://open.spotify.com/album/52qmX1Tbwfk9S0iyVd0JHC"
-      },
-      "artists": [
-        {
-          "name": "Patch Quiwa",
-          "url": "https://open.spotify.com/artist/3bsQY9pFWVzUMxlSgGQuBn"
-        }
-      ],
-      "duration_ms": 255661,
-      "name": "Simula Pa Nung Una",
-      "url": "https://open.spotify.com/track/7tYjXd42SzEhrWEFQeZxNm"
-    },
-    {
-      "added_at": "2023-11-10 09:15:37",
-      "album": {
         "name": "Balang Araw",
         "url": "https://open.spotify.com/album/1WTaHQ1ulKruduEtwyRLDD"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 288207,
       "name": "Balang Araw - Single Version",
       "url": "https://open.spotify.com/track/2f0Z6I0fDfgDI3htl2RoTd"
+    },
+    {
+      "added_at": "2023-11-10 09:15:37",
+      "album": {
+        "name": "Simula Pa Nung Una",
+        "url": "https://open.spotify.com/album/52qmX1Tbwfk9S0iyVd0JHC"
+      },
+      "artists": [
+        {
+          "name": "Patch Quiwa",
+          "url": "https://open.spotify.com/artist/3bsQY9pFWVzUMxlSgGQuBn"
+        }
+      ],
+      "duration_ms": 255661,
+      "name": "Simula Pa Nung Una",
+      "url": "https://open.spotify.com/track/7tYjXd42SzEhrWEFQeZxNm"
     },
     {
       "added_at": "2023-11-10 09:15:37",
@@ -831,22 +831,6 @@
     {
       "added_at": "2023-11-10 09:15:37",
       "album": {
-        "name": "Kahit Di Mo Alam",
-        "url": "https://open.spotify.com/album/1aUdCxhin4mQevKWVLrtNN"
-      },
-      "artists": [
-        {
-          "name": "December Avenue",
-          "url": "https://open.spotify.com/artist/4qFxP3qN9GsnZDOkAE6x2m"
-        }
-      ],
-      "duration_ms": 282094,
-      "name": "Kahit Di Mo Alam",
-      "url": "https://open.spotify.com/track/6GIzDc4xBUeYHwubWwTrhC"
-    },
-    {
-      "added_at": "2023-11-10 09:15:37",
-      "album": {
         "name": "Versions & Beyond",
         "url": "https://open.spotify.com/album/1cThuysJDdNOhR6dvgI1fx"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 223013,
       "name": "Especially For You",
       "url": "https://open.spotify.com/track/55k3xZxEr3wIXxeL8dPtcR"
+    },
+    {
+      "added_at": "2023-11-10 09:15:37",
+      "album": {
+        "name": "Kahit Di Mo Alam",
+        "url": "https://open.spotify.com/album/1aUdCxhin4mQevKWVLrtNN"
+      },
+      "artists": [
+        {
+          "name": "December Avenue",
+          "url": "https://open.spotify.com/artist/4qFxP3qN9GsnZDOkAE6x2m"
+        }
+      ],
+      "duration_ms": 282094,
+      "name": "Kahit Di Mo Alam",
+      "url": "https://open.spotify.com/track/6GIzDc4xBUeYHwubWwTrhC"
     }
   ],
   "unique_name": "Relax Tayo",

@@ -1,12 +1,12 @@
 {
   "description": "Songs from Canadian artists that dominated the 1990s. Cover: LEN",
-  "num_followers": 56625,
+  "num_followers": 56650,
   "original_name": "Canadian '90s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNGRiOGIzYWY5ZjM0MjhhNzY3YTVlMzdlMzNiMzY1MTdiM2ZjNzg0",
+  "snapshot_id": "MCw1ZDE2ZDI2N2UzMmYzNTMwZmQzODJjMGY1MzBhNDI1MDczYzBjNDYy",
   "tracks": [
     {
       "added_at": "2021-09-21 20:57:50",
@@ -479,6 +479,26 @@
     {
       "added_at": "2021-09-21 20:57:50",
       "album": {
+        "name": "On A Day Like Today",
+        "url": "https://open.spotify.com/album/5x3Ws76JQN6elCUAOfVVlT"
+      },
+      "artists": [
+        {
+          "name": "Bryan Adams",
+          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
+        },
+        {
+          "name": "Melanie C",
+          "url": "https://open.spotify.com/artist/60vX3zLcdKRXvKLITVh5Df"
+        }
+      ],
+      "duration_ms": 204906,
+      "name": "When You're Gone",
+      "url": "https://open.spotify.com/track/0mto4XYo8GISKnDxlLdK2a"
+    },
+    {
+      "added_at": "2021-09-21 20:57:50",
+      "album": {
         "name": "Cash Crop + Bonus Track",
         "url": "https://open.spotify.com/album/5mJHJ4ycYgFtNK5mEF68MM"
       },
@@ -507,26 +527,6 @@
       "duration_ms": 247706,
       "name": "Northern Touch (feat. Kardinal Offishall, Thrust, Choclair & Checkmate)",
       "url": "https://open.spotify.com/track/4IfK0yQdVsWVoQO44DedEG"
-    },
-    {
-      "added_at": "2021-09-21 20:57:50",
-      "album": {
-        "name": "On A Day Like Today",
-        "url": "https://open.spotify.com/album/5x3Ws76JQN6elCUAOfVVlT"
-      },
-      "artists": [
-        {
-          "name": "Bryan Adams",
-          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
-        },
-        {
-          "name": "Melanie C",
-          "url": "https://open.spotify.com/artist/60vX3zLcdKRXvKLITVh5Df"
-        }
-      ],
-      "duration_ms": 204906,
-      "name": "When You're Gone",
-      "url": "https://open.spotify.com/track/0mto4XYo8GISKnDxlLdK2a"
     },
     {
       "added_at": "2021-09-21 20:57:50",

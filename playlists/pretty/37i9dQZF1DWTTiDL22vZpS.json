@@ -1,12 +1,12 @@
 {
   "description": "Funk-inspired beats by latinos.",
-  "num_followers": 19838,
+  "num_followers": 19862,
   "original_name": "feels like latin funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MWVjOGU3N2UwYzM2NjE4YjZkMDllMWY1MWRlYzU0YTk4NmZlZjBm",
+  "snapshot_id": "MCw0MzJkM2Q0NmIwNjQ3NzVhZTE4ZjAzMzE2MTQ5MTUyMzYwMTVjYjky",
   "tracks": [
     {
       "added_at": "2023-11-17 05:00:00",
@@ -651,22 +651,6 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "CAMALOVE",
-        "url": "https://open.spotify.com/album/7jJijowxod92mie0y9XAj7"
-      },
-      "artists": [
-        {
-          "name": "Cocofunka",
-          "url": "https://open.spotify.com/artist/2fZnIGcmeZuhplsTcCBmvD"
-        }
-      ],
-      "duration_ms": 254492,
-      "name": "Asturi\u00f3n",
-      "url": "https://open.spotify.com/track/7MCnLeI6m34DUyX1PfYpBJ"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
         "name": "M\u00fasica Moderna",
         "url": "https://open.spotify.com/album/1zE6fgn3iqkOwJGS18B0sm"
       },
@@ -687,6 +671,22 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
+        "name": "CAMALOVE",
+        "url": "https://open.spotify.com/album/7jJijowxod92mie0y9XAj7"
+      },
+      "artists": [
+        {
+          "name": "Cocofunka",
+          "url": "https://open.spotify.com/artist/2fZnIGcmeZuhplsTcCBmvD"
+        }
+      ],
+      "duration_ms": 254492,
+      "name": "Asturi\u00f3n",
+      "url": "https://open.spotify.com/track/7MCnLeI6m34DUyX1PfYpBJ"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
         "name": "Leche de Tigre",
         "url": "https://open.spotify.com/album/2jWdBKOz7I73GULBYQU0k8"
       },
@@ -699,6 +699,22 @@
       "duration_ms": 211281,
       "name": "Gobi\u00e9rname",
       "url": "https://open.spotify.com/track/5GpngZwVz4DO2jLBV9d7iZ"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "Fino",
+        "url": "https://open.spotify.com/album/7LukmvcXz75vKINXivcMjl"
+      },
+      "artists": [
+        {
+          "name": "Ferraz",
+          "url": "https://open.spotify.com/artist/01VsXNrszWERedrdHgRVH2"
+        }
+      ],
+      "duration_ms": 243113,
+      "name": "No Puedo Parar",
+      "url": "https://open.spotify.com/track/18jJegd092oIkvSWiezdW3"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -723,22 +739,6 @@
       "duration_ms": 227933,
       "name": "Peque\u00f1ines",
       "url": "https://open.spotify.com/track/7KhYQ9fHuofDF4I5D0obId"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
-        "name": "Fino",
-        "url": "https://open.spotify.com/album/7LukmvcXz75vKINXivcMjl"
-      },
-      "artists": [
-        {
-          "name": "Ferraz",
-          "url": "https://open.spotify.com/artist/01VsXNrszWERedrdHgRVH2"
-        }
-      ],
-      "duration_ms": 243113,
-      "name": "No Puedo Parar",
-      "url": "https://open.spotify.com/track/18jJegd092oIkvSWiezdW3"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -1055,18 +1055,18 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "Zoo Lion",
-        "url": "https://open.spotify.com/album/0GUY5NcH7vjSYeeyfnMdXF"
+        "name": "TTT",
+        "url": "https://open.spotify.com/album/7qOQ37eoRAF8YR1MehRim6"
       },
       "artists": [
         {
-          "name": "Moncho Berry",
-          "url": "https://open.spotify.com/artist/7r3ulcCderiJsAhR2ljXpC"
+          "name": "We The Lion",
+          "url": "https://open.spotify.com/artist/0D8xIv7lt4m33tauA1HP0z"
         }
       ],
-      "duration_ms": 266447,
-      "name": "Zoo Lion",
-      "url": "https://open.spotify.com/track/0Yt3DQ6IvtZrEqPHjDKTPO"
+      "duration_ms": 205452,
+      "name": "Time Flies",
+      "url": "https://open.spotify.com/track/0O6CZiLgMKYbBQ7qPM2enO"
     }
   ],
   "unique_name": "feels like latin funk",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQGZ7yvpH00.md) - [plain]
 
 > guitarras agüitadas pa' cantarle al amor y al desamor 💔🙁 Xavi en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 743,040 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 744,035 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQGZ7yvpH00.md) - [plain]
 | 49 | [Solo Tú Nomas](https://open.spotify.com/track/6z3ntFQzzu0aGtrHAKcCiR) | [Lluvia Arámbula](https://open.spotify.com/artist/1GNHRCTZBHUf8rYfPTjT92) | [En Mi Soledad](https://open.spotify.com/album/5nVAi9SXCc6U2jouydyOOG) | 2:07 |
 | 50 | [Mil Pedazos](https://open.spotify.com/track/2Mi5BLsctdUzadFCTbhSQC) | [Natalie López](https://open.spotify.com/artist/7C69hD7HaCYbhgrVqYiHXU) | [Mil Pedazos](https://open.spotify.com/album/0dchtdW6KeKfbHGwMMxppF) | 3:01 |
 
-Snapshot ID: `MCwxZGRjODUzYzM1ODA5MDIyYzZjNThlNmIwZTc0MTYwMTVhNzYzYWE3`
+Snapshot ID: `MCxkMmQ5ZjNmMDIyMDMxYTE2OTliYTA3MmIxYjEyMTVhMDFlYzBjMzk2`

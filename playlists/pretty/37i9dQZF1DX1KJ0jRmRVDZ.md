@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KJ0jRmRVDZ.md) - [plain]
 
 > インターネット・カルチャーから次々と出現するアーティストを特集。Check out artists of the new Internet age! Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 110,868 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 110,950 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KJ0jRmRVDZ.md) - [plain]
 | 49 | [Wakuseitsushin feat\. Mel](https://open.spotify.com/track/5sPyRxOdmBXoONmkIXAUkK) | [Has\-ki](https://open.spotify.com/artist/7pvleOZtwMfQPOkZ57czSA), [Mel](https://open.spotify.com/artist/1yHQHPrgaF1Oe8LuYgBW8a) | [Wakuseitsushin feat\. Mel](https://open.spotify.com/album/1WqErc2gluGCawMMWoaGtf) | 4:16 |
 | 50 | [Rendezvous](https://open.spotify.com/track/7gspVQa13prQbNABCRacwE) | [Kanaria](https://open.spotify.com/artist/1k5LyiTCRzPjORzcgHqJxF) | [Rendezvous](https://open.spotify.com/album/089xXTATtiHlkm0VCM0w8q) | 2:12 |
 
-Snapshot ID: `MCw2NDc2ZmEzNTY4MGQzODkzZWRlZTE3OGVjYzU2MGQ1NDIxNDBhZTdl`
+Snapshot ID: `MCxhZmM5OThkM2Q2N2VjZTcyMjZhNTcyZDcwZjk3NWQ2NjE1YzM2NDdm`

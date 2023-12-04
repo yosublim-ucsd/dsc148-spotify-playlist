@@ -3256,7 +3256,7 @@
       ],
       "date_added": "2023-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-04",
       "duration_ms": 202866,
       "name": "Ghost",
       "url": "https://open.spotify.com/track/1ty6M7cgiQ192ATax4vStT"
@@ -11000,6 +11000,24 @@
       "duration_ms": 232733,
       "name": "\u3055\u304f\u3089\u8272",
       "url": "https://open.spotify.com/track/5A7ERS6fFumxylYQehLAWS"
+    },
+    {
+      "album": {
+        "name": "\u3055\u3059\u3089\u3044",
+        "url": "https://open.spotify.com/album/4Dl6sL07KuneoBXvmMDGS2"
+      },
+      "artists": [
+        {
+          "name": "Tamio Okuda",
+          "url": "https://open.spotify.com/artist/3ZWE1TnryM03rfzVin17K0"
+        }
+      ],
+      "date_added": "2023-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206200,
+      "name": "\u3055\u3059\u3089\u3044",
+      "url": "https://open.spotify.com/track/031TxiS8q3h6Js2mbR3GPm"
     },
     {
       "album": {

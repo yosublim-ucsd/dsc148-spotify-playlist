@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVleyMkaelTd.md) - [plain]
 
 > Soundtrack your cozy dinner with bossa nova jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 155,039 likes - 123 songs - 7 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 155,080 likes - 123 songs - 7 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -132,4 +132,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVleyMkaelTd.md) - [plain]
 | 122 | [Desafinado](https://open.spotify.com/track/5WhNEjI1UPLRFk3AP3uF3f) | [Andreas Gidlund Five](https://open.spotify.com/artist/77TUX9u0E5esyWr95Iwdg6) | [One For Roy](https://open.spotify.com/album/78OzDMPIdZQrYb5lnRLby2) | 3:47 |
 | 123 | [Só Tinha de Ser com Você](https://open.spotify.com/track/5KrmPhZXWsrn1xVey30806) | [Joao Silva Oliveira](https://open.spotify.com/artist/2H9tPIniwpdz9EvKYvRKFq) | [Só Tinha de Ser com Você](https://open.spotify.com/album/7nUM7a3z2pGH5pII2MEy8n) | 3:58 |
 
-Snapshot ID: `MCwzODk2NTNiOGY5YWUwYjI5YTgzZGE5Y2VjMzY0YTkyZmUxODQ5OGQ4`
+Snapshot ID: `MCw1YjY5NWY3ZWQyNWRmNGQ2YTRiNzdkNTYxMThjMjMyZmUxN2FkNDFi`

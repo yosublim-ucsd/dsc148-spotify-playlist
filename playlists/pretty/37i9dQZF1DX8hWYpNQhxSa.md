@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hWYpNQhxSa.md) - [plain]
 
 > Enjoy music & episodes of "SPY×FAMILY"! /「SPY×FAMILY」の楽曲とエピソードを１つのプレイリストに。©TE/S, SFP
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,412 likes - 72 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,483 likes - 72 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Kura Kura](https://open.spotify.com/track/61Go3FTDYWfYCIOocJebUm) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Kura Kura](https://open.spotify.com/album/3OvV8YeT8557GIGzDtEoen) | 3:11 |
 | 2 | [トドメの一撃](https://open.spotify.com/track/7sd09c4dFK5dLHRsySex9L) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru), [Cory Wong](https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU) | [replica](https://open.spotify.com/album/4LWbfv8uvEF3oz7YBFxmzn) | 5:10 |
-| 3 | [Until the End](https://open.spotify.com/track/2o782mZSwxR34O9j9HaLwN) | [\(K\)NoW\_NAME](https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A), [\(K\)NoW\_NAME:Ayaka Tachibana](https://open.spotify.com/artist/5vuVwUJtfN6bELEOhpb0a9) | [Until the End （TVアニメ『SPY×FAMILY』Season 2 挿入歌）](https://open.spotify.com/album/5vAmBbnf5oeyKQKnxuhQSP) | 2:53 |
+| 3 | [Until the End \(Animation『SPY×FAMILY』Season 2 Insert Song\)](https://open.spotify.com/track/71kA6J6oOgpv4cGswDPqGu) | [\(K\)NoW\_NAME](https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A), [\(K\)NoW\_NAME:Ayaka Tachibana](https://open.spotify.com/artist/5vuVwUJtfN6bELEOhpb0a9) | [Until the End \(Animation『SPY×FAMILY』Season 2 Insert Song\)](https://open.spotify.com/album/5Fn3ukbNzl5b7ntiMKnRp3) | 2:53 |
 | 4 | [Little steps \(Animation 『SPY×FAMILY』 Season 2 Insert Song\)](https://open.spotify.com/track/0A80wKj5AHoEWl478awt4B) | [\(K\)NoW\_NAME](https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A) | [Little steps \(Animation 『SPY×FAMILY』 Season 2 Insert Song\)](https://open.spotify.com/album/1Xs0trImpgjtvJDgtIi5sL) | 4:27 |
 | 5 | [Garden \(Animation『SPY×FAMILY』Season 2 Insert Song\)](https://open.spotify.com/track/4V6fcozb4qSZBsQto6nQ7g) | [\(K\)NoW\_NAME](https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A), [\(K\)NoW\_NAME:NIKIIE](https://open.spotify.com/artist/3EP7ddYLORL4iAKy1gaTk8) | [Garden \(Animation『SPY×FAMILY』Season 2 Insert Song\)](https://open.spotify.com/album/0qUqGs6PP9wiM0ImrMoYV4) | 1:59 |
 | 6 | [SOUVENIR](https://open.spotify.com/track/7qOsSOpiL3R8RKyiBtIYNQ) | [BUMP OF CHICKEN](https://open.spotify.com/artist/0hSFeqPehe7FtCNWuQ6Bsy) | [SOUVENIR](https://open.spotify.com/album/62Rk2K7V2le9NBC75ANiX7) | 4:24 |
@@ -81,4 +81,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hWYpNQhxSa.md) - [plain]
 | 71 | [Nightfall](https://open.spotify.com/track/1AW3CTC4LJi2ZmV7SwCURD) | [\(K\)NoW\_NAME](https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A) | [SPY x FAMILY \(ORIGINAL TELEVISION SOUNDTRACK\)](https://open.spotify.com/album/5iqIYxPD47iYuOfXZEQtic) | 2:25 |
 | 72 | [GOOD DAY \(Instrumental\)](https://open.spotify.com/track/47R4Yw5mNQ9GlNVCmcOGGO) | [\(K\)NoW\_NAME](https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A) | [SPY x FAMILY \(ORIGINAL TELEVISION SOUNDTRACK\)](https://open.spotify.com/album/5iqIYxPD47iYuOfXZEQtic) | 2:35 |
 
-Snapshot ID: `MCwzNzQ5MzA1ZjJlOGVhZGIwMGQwZmY1NzMwMjFmZGNlOTE1OTU4NWFh`
+Snapshot ID: `MCw5NDBhNGMxNjU2ZWNiNDlhZjQ1NTcxMWRhNGQ4Y2U2MGViMTA5ZDlh`

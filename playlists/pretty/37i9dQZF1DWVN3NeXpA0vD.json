@@ -1,12 +1,12 @@
 {
   "description": "D vitaminin.",
-  "num_followers": 26347,
+  "num_followers": 26342,
   "original_name": "G\u00fcnl\u00fck G\u00fcne\u015flik",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMmM1NWFjNmQzMjJmOGE2NjcyNmEwMzdkZmIzYmQ0OTk1YTA0MzEy",
+  "snapshot_id": "MCxmYTg0N2RiMmVkZDMyMTk4MjlmMDJmYzA3N2RkMDcxMjk0ODMxOTg3",
   "tracks": [
     {
       "added_at": "2023-03-10 17:59:10",
@@ -1247,6 +1247,22 @@
     {
       "added_at": "2023-03-10 17:59:10",
       "album": {
+        "name": "Someone's EP II",
+        "url": "https://open.spotify.com/album/5hb9aZmt8McCp8ktZh2dJZ"
+      },
+      "artists": [
+        {
+          "name": "BAYNK",
+          "url": "https://open.spotify.com/artist/28yVvEvA2lT3K5RNIhV1Dj"
+        }
+      ],
+      "duration_ms": 231192,
+      "name": "go with u",
+      "url": "https://open.spotify.com/track/4PdLup4OaCGktZG8cvbkBz"
+    },
+    {
+      "added_at": "2023-03-10 17:59:10",
+      "album": {
         "name": "Right Now",
         "url": "https://open.spotify.com/album/4UsjjAKbtKzmgEz2pGbv6P"
       },
@@ -1263,22 +1279,6 @@
       "duration_ms": 201680,
       "name": "Right Now",
       "url": "https://open.spotify.com/track/43wzy7JxMEfvCh8ZFeZKYk"
-    },
-    {
-      "added_at": "2023-03-10 17:59:10",
-      "album": {
-        "name": "Someone's EP II",
-        "url": "https://open.spotify.com/album/5hb9aZmt8McCp8ktZh2dJZ"
-      },
-      "artists": [
-        {
-          "name": "BAYNK",
-          "url": "https://open.spotify.com/artist/28yVvEvA2lT3K5RNIhV1Dj"
-        }
-      ],
-      "duration_ms": 231192,
-      "name": "go with u",
-      "url": "https://open.spotify.com/track/4PdLup4OaCGktZG8cvbkBz"
     },
     {
       "added_at": "2023-03-10 17:59:10",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2023-03-10 17:59:10",
       "album": {
-        "name": "Let You Love Me",
-        "url": "https://open.spotify.com/album/4INRJMYMJrSPsf5mbW26Fm"
-      },
-      "artists": [
-        {
-          "name": "Rita Ora",
-          "url": "https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr"
-        }
-      ],
-      "duration_ms": 190000,
-      "name": "Let You Love Me",
-      "url": "https://open.spotify.com/track/6xtcFXSo8H9BZN637BMVKS"
-    },
-    {
-      "added_at": "2023-03-10 17:59:10",
-      "album": {
         "name": "Mixer",
         "url": "https://open.spotify.com/album/6xPqva9kzYP8usdKOUiHdn"
       },
@@ -1359,6 +1343,22 @@
       "duration_ms": 192823,
       "name": "Mixer",
       "url": "https://open.spotify.com/track/58pJZsMEPXmYX8gvXWyt3V"
+    },
+    {
+      "added_at": "2023-03-10 17:59:10",
+      "album": {
+        "name": "Let You Love Me",
+        "url": "https://open.spotify.com/album/4INRJMYMJrSPsf5mbW26Fm"
+      },
+      "artists": [
+        {
+          "name": "Rita Ora",
+          "url": "https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr"
+        }
+      ],
+      "duration_ms": 190000,
+      "name": "Let You Love Me",
+      "url": "https://open.spotify.com/track/6xtcFXSo8H9BZN637BMVKS"
     },
     {
       "added_at": "2023-03-10 17:59:10",
@@ -1379,26 +1379,6 @@
     {
       "added_at": "2023-03-10 17:59:10",
       "album": {
-        "name": "Bones (feat. OneRepublic)",
-        "url": "https://open.spotify.com/album/49vus1VCWc7AbgDmKYb8SC"
-      },
-      "artists": [
-        {
-          "name": "Galantis",
-          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
-        },
-        {
-          "name": "OneRepublic",
-          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
-        }
-      ],
-      "duration_ms": 205792,
-      "name": "Bones (feat. OneRepublic)",
-      "url": "https://open.spotify.com/track/1pfgsjmxVZhoZpeDx6POKv"
-    },
-    {
-      "added_at": "2023-03-10 17:59:10",
-      "album": {
         "name": "Famoso",
         "url": "https://open.spotify.com/album/5fTgdXawyLC7oZEry7jGEk"
       },
@@ -1415,6 +1395,26 @@
       "duration_ms": 193554,
       "name": "Baby (with J Balvin)",
       "url": "https://open.spotify.com/track/3JCqB2HhpIPNNg1O4os8o5"
+    },
+    {
+      "added_at": "2023-03-10 17:59:10",
+      "album": {
+        "name": "Bones (feat. OneRepublic)",
+        "url": "https://open.spotify.com/album/49vus1VCWc7AbgDmKYb8SC"
+      },
+      "artists": [
+        {
+          "name": "Galantis",
+          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
+        },
+        {
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+        }
+      ],
+      "duration_ms": 205792,
+      "name": "Bones (feat. OneRepublic)",
+      "url": "https://open.spotify.com/track/1pfgsjmxVZhoZpeDx6POKv"
     },
     {
       "added_at": "2023-03-10 17:59:10",
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2023-03-10 17:59:10",
       "album": {
-        "name": "Daisies",
-        "url": "https://open.spotify.com/album/2m5J1DUH7hJpPSOromIqpN"
-      },
-      "artists": [
-        {
-          "name": "Katy Perry",
-          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
-        }
-      ],
-      "duration_ms": 173123,
-      "name": "Daisies",
-      "url": "https://open.spotify.com/track/4uqh9bualXNHXXwO2wPorc"
-    },
-    {
-      "added_at": "2023-03-10 17:59:10",
-      "album": {
         "name": "Chromatica",
         "url": "https://open.spotify.com/album/05c49JgPmL4Uz2ZeqRx5SP"
       },
@@ -1619,6 +1603,22 @@
       "duration_ms": 191466,
       "name": "Free Woman",
       "url": "https://open.spotify.com/track/4L6ihclQPu1hqP9r3WNJjQ"
+    },
+    {
+      "added_at": "2023-03-10 17:59:10",
+      "album": {
+        "name": "Daisies",
+        "url": "https://open.spotify.com/album/2m5J1DUH7hJpPSOromIqpN"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "duration_ms": 173123,
+      "name": "Daisies",
+      "url": "https://open.spotify.com/track/4uqh9bualXNHXXwO2wPorc"
     },
     {
       "added_at": "2023-03-10 17:59:10",
@@ -1663,30 +1663,18 @@
     {
       "added_at": "2023-03-10 17:59:10",
       "album": {
-        "name": "Just Got Paid",
-        "url": "https://open.spotify.com/album/09uJvEy1F5GwvazqSQcYyB"
+        "name": "Horizons",
+        "url": "https://open.spotify.com/album/6GHb9FYG7HnVet0rQs0Dq9"
       },
       "artists": [
         {
-          "name": "Sigala",
-          "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
-        },
-        {
-          "name": "Ella Eyre",
-          "url": "https://open.spotify.com/artist/66TrUkUZ3RM29dqeDQRgyA"
-        },
-        {
-          "name": "Meghan Trainor",
-          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
-        },
-        {
-          "name": "French Montana",
-          "url": "https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv"
+          "name": "Surfaces",
+          "url": "https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u"
         }
       ],
-      "duration_ms": 218250,
-      "name": "Just Got Paid",
-      "url": "https://open.spotify.com/track/0v3BMLcwUmAwyqJaf5997o"
+      "duration_ms": 173230,
+      "name": "Good Day",
+      "url": "https://open.spotify.com/track/3Sn36jbYTRuTSA3pHi4Ajz"
     },
     {
       "added_at": "2023-03-10 17:59:10",
@@ -1711,18 +1699,30 @@
     {
       "added_at": "2023-03-10 17:59:10",
       "album": {
-        "name": "Horizons",
-        "url": "https://open.spotify.com/album/6GHb9FYG7HnVet0rQs0Dq9"
+        "name": "Just Got Paid",
+        "url": "https://open.spotify.com/album/09uJvEy1F5GwvazqSQcYyB"
       },
       "artists": [
         {
-          "name": "Surfaces",
-          "url": "https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u"
+          "name": "Sigala",
+          "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
+        },
+        {
+          "name": "Ella Eyre",
+          "url": "https://open.spotify.com/artist/66TrUkUZ3RM29dqeDQRgyA"
+        },
+        {
+          "name": "Meghan Trainor",
+          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
+        },
+        {
+          "name": "French Montana",
+          "url": "https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv"
         }
       ],
-      "duration_ms": 173230,
-      "name": "Good Day",
-      "url": "https://open.spotify.com/track/3Sn36jbYTRuTSA3pHi4Ajz"
+      "duration_ms": 218250,
+      "name": "Just Got Paid",
+      "url": "https://open.spotify.com/track/0v3BMLcwUmAwyqJaf5997o"
     },
     {
       "added_at": "2023-03-10 17:59:10",

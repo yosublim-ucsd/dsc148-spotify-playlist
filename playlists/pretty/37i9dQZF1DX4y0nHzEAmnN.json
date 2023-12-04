@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZmE5YTllMTJjMDcyMGU1NzE4OTg0NzAyOTdkZmU0YWE2NDExOTAw",
+  "snapshot_id": "MCxhYTBjN2YwOWExYjQwZmE4ODRlMWY4NGNjMTNkOGEzMGU0YmI2ZGFk",
   "tracks": [
     {
       "added_at": "2023-03-17 09:43:03",
@@ -439,22 +439,6 @@
     {
       "added_at": "2023-03-17 09:43:03",
       "album": {
-        "name": "Please Come To My Party",
-        "url": "https://open.spotify.com/album/1VP9v0mRFiqjhzrzCj4lt9"
-      },
-      "artists": [
-        {
-          "name": "Miss Kitty",
-          "url": "https://open.spotify.com/artist/0Sm4L9Y9n0PDeNXTX7xTEx"
-        }
-      ],
-      "duration_ms": 144666,
-      "name": "The Potty Song",
-      "url": "https://open.spotify.com/track/2pl6yuX79AQJtn2gmBjLtW"
-    },
-    {
-      "added_at": "2023-03-17 09:43:03",
-      "album": {
         "name": "Family Time",
         "url": "https://open.spotify.com/album/3wsu2mRApfZ2eV3lYtg2l3"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 260853,
       "name": "Family Time (feat. Judah Marley)",
       "url": "https://open.spotify.com/track/34OvVyZ6Vq0AcAnI6LMnjM"
+    },
+    {
+      "added_at": "2023-03-17 09:43:03",
+      "album": {
+        "name": "Please Come To My Party",
+        "url": "https://open.spotify.com/album/1VP9v0mRFiqjhzrzCj4lt9"
+      },
+      "artists": [
+        {
+          "name": "Miss Kitty",
+          "url": "https://open.spotify.com/artist/0Sm4L9Y9n0PDeNXTX7xTEx"
+        }
+      ],
+      "duration_ms": 144666,
+      "name": "The Potty Song",
+      "url": "https://open.spotify.com/track/2pl6yuX79AQJtn2gmBjLtW"
     },
     {
       "added_at": "2023-03-17 09:43:03",
@@ -583,38 +583,6 @@
     {
       "added_at": "2023-03-17 09:43:03",
       "album": {
-        "name": "Songs to Brush Your Teeth To",
-        "url": "https://open.spotify.com/album/3kkKwoIagtiBFyUVgZpRtG"
-      },
-      "artists": [
-        {
-          "name": "Chompers",
-          "url": "https://open.spotify.com/artist/7nfJo4SRyJHZeD7xLaTi7z"
-        }
-      ],
-      "duration_ms": 109388,
-      "name": "Cover Your Sneeze",
-      "url": "https://open.spotify.com/track/4qDYGpWlPKcXMoZz7s3EsU"
-    },
-    {
-      "added_at": "2023-03-17 09:43:03",
-      "album": {
-        "name": "Music for Classroom Management",
-        "url": "https://open.spotify.com/album/0iixhTccBWiiOBasHBLBs1"
-      },
-      "artists": [
-        {
-          "name": "Heidi Butkus",
-          "url": "https://open.spotify.com/artist/2xXDALR7lXGiKnXvleJ6Au"
-        }
-      ],
-      "duration_ms": 43626,
-      "name": "Please and Thank You Song",
-      "url": "https://open.spotify.com/track/4qTfbByQXNHc6B0SS1i1LO"
-    },
-    {
-      "added_at": "2023-03-17 09:43:03",
-      "album": {
         "name": "Sesame Street: Splish Splash - Bath Time Fun",
         "url": "https://open.spotify.com/album/6OmsdGwWWCNw19J8zPCnhw"
       },
@@ -635,6 +603,38 @@
     {
       "added_at": "2023-03-17 09:43:03",
       "album": {
+        "name": "Music for Classroom Management",
+        "url": "https://open.spotify.com/album/0iixhTccBWiiOBasHBLBs1"
+      },
+      "artists": [
+        {
+          "name": "Heidi Butkus",
+          "url": "https://open.spotify.com/artist/2xXDALR7lXGiKnXvleJ6Au"
+        }
+      ],
+      "duration_ms": 43626,
+      "name": "Please and Thank You Song",
+      "url": "https://open.spotify.com/track/4qTfbByQXNHc6B0SS1i1LO"
+    },
+    {
+      "added_at": "2023-03-17 09:43:03",
+      "album": {
+        "name": "Songs to Brush Your Teeth To",
+        "url": "https://open.spotify.com/album/3kkKwoIagtiBFyUVgZpRtG"
+      },
+      "artists": [
+        {
+          "name": "Chompers",
+          "url": "https://open.spotify.com/artist/7nfJo4SRyJHZeD7xLaTi7z"
+        }
+      ],
+      "duration_ms": 109388,
+      "name": "Cover Your Sneeze",
+      "url": "https://open.spotify.com/track/4qDYGpWlPKcXMoZz7s3EsU"
+    },
+    {
+      "added_at": "2023-03-17 09:43:03",
+      "album": {
         "name": "20 Canciones Infantiles",
         "url": "https://open.spotify.com/album/5T6GImWGW667aSX8XAeOq3"
       },
@@ -651,22 +651,6 @@
     {
       "added_at": "2023-03-17 09:43:03",
       "album": {
-        "name": "Moey's Music Party",
-        "url": "https://open.spotify.com/album/29OT5CvFbFVT7B5NQi2dGU"
-      },
-      "artists": [
-        {
-          "name": "Moey",
-          "url": "https://open.spotify.com/artist/0G3ifZoKHqFJRrHGqcqoCs"
-        }
-      ],
-      "duration_ms": 129560,
-      "name": "I Always Sit When I Eat",
-      "url": "https://open.spotify.com/track/7Gmhedp0ne4neq1BgNHClT"
-    },
-    {
-      "added_at": "2023-03-17 09:43:03",
-      "album": {
         "name": "Life Lessons for Children from LittleBabyBum",
         "url": "https://open.spotify.com/album/1g9tg76IleuNteUpi6bhd8"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 90900,
       "name": "Going Back to School Today",
       "url": "https://open.spotify.com/track/796sb0EwG3wdXsBqOAnpiP"
+    },
+    {
+      "added_at": "2023-03-17 09:43:03",
+      "album": {
+        "name": "Moey's Music Party",
+        "url": "https://open.spotify.com/album/29OT5CvFbFVT7B5NQi2dGU"
+      },
+      "artists": [
+        {
+          "name": "Moey",
+          "url": "https://open.spotify.com/artist/0G3ifZoKHqFJRrHGqcqoCs"
+        }
+      ],
+      "duration_ms": 129560,
+      "name": "I Always Sit When I Eat",
+      "url": "https://open.spotify.com/track/7Gmhedp0ne4neq1BgNHClT"
     },
     {
       "added_at": "2023-03-17 09:43:03",
@@ -823,22 +823,6 @@
     {
       "added_at": "2023-03-17 09:43:03",
       "album": {
-        "name": "Musi",
-        "url": "https://open.spotify.com/album/3hQg3lG0o4lk7cs931Lfby"
-      },
-      "artists": [
-        {
-          "name": "Trepsi",
-          "url": "https://open.spotify.com/artist/6uqcdmVQzxfdgsKWB04shs"
-        }
-      ],
-      "duration_ms": 64208,
-      "name": "Del plato a la boca",
-      "url": "https://open.spotify.com/track/6azaeRET8nonPwKhlOjS8D"
-    },
-    {
-      "added_at": "2023-03-17 09:43:03",
-      "album": {
         "name": "Children's Songs for Family, Friends & Siblings from LittleBabyBum",
         "url": "https://open.spotify.com/album/65UY1CG353OTiv4JHrDKrV"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 91874,
       "name": "Please and Thank You Song",
       "url": "https://open.spotify.com/track/1SVQdK7xD2Zy1MypHyNzVZ"
+    },
+    {
+      "added_at": "2023-03-17 09:43:03",
+      "album": {
+        "name": "Musi",
+        "url": "https://open.spotify.com/album/3hQg3lG0o4lk7cs931Lfby"
+      },
+      "artists": [
+        {
+          "name": "Trepsi",
+          "url": "https://open.spotify.com/artist/6uqcdmVQzxfdgsKWB04shs"
+        }
+      ],
+      "duration_ms": 64208,
+      "name": "Del plato a la boca",
+      "url": "https://open.spotify.com/track/6azaeRET8nonPwKhlOjS8D"
     }
   ],
   "unique_name": "Daily Rutina",

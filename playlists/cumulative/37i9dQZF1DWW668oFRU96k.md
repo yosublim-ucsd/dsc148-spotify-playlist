@@ -4,7 +4,7 @@
 
 > A selection of new, quality electro sounds from your favorite EDM acts! Cover: Icona Pop
 
-705 songs - 1 day 11 hr 10 min
+706 songs - 1 day 11 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -443,7 +443,8 @@
 | [On & On](https://open.spotify.com/track/19bua05ITWjFrk9iGxOA7r) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Punctual](https://open.spotify.com/artist/1ocnIbhFWM9bSPrd7Hu4zF), [Alika](https://open.spotify.com/artist/1U3n3wACHLjc8sS1obMEuf) | [On & On](https://open.spotify.com/album/2R1IseXguOsELhULk1H60P) | 2:50 | 2023-03-30 | 2023-05-05 |
 | [On & On](https://open.spotify.com/track/6wLqNGHQIja6xqT0cfrzBB) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Punctual](https://open.spotify.com/artist/1ocnIbhFWM9bSPrd7Hu4zF), [Alika](https://open.spotify.com/artist/1U3n3wACHLjc8sS1obMEuf) | [Feel Again](https://open.spotify.com/album/2uqVgoe1PcKmwx3ihlbevM) | 2:50 | 2023-03-30 | 2023-04-01 |
 | [On A Trip \(with Marten Hørger\)](https://open.spotify.com/track/2bwqslkQUqcfme3JEMKY6A) | [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf), [Marten Hørger](https://open.spotify.com/artist/0EdUwJSqkMmsH6Agg3G8Ls) | [On A Trip \(with Marten Hørger\)](https://open.spotify.com/album/1id19CmK2WRwdm5LQ25jao) | 3:26 | 2023-11-09 | 2023-11-16 |
-| [On A Trip \(with Marten Hørger\)](https://open.spotify.com/track/2c0UQY0FD9cZbMePPB7NdM) | [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf), [Marten Hørger](https://open.spotify.com/artist/0EdUwJSqkMmsH6Agg3G8Ls) | [On A Trip \(with Marten Hørger\)](https://open.spotify.com/album/33vrpRLTSvd9YQHJBdgjw7) | 3:26 | 2023-11-09 |  |
+| [On A Trip \(with Marten Hørger\)](https://open.spotify.com/track/2c0UQY0FD9cZbMePPB7NdM) | [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf), [Marten Hørger](https://open.spotify.com/artist/0EdUwJSqkMmsH6Agg3G8Ls) | [On A Trip \(with Marten Hørger\)](https://open.spotify.com/album/33vrpRLTSvd9YQHJBdgjw7) | 3:26 | 2023-11-09 | 2023-12-04 |
+| [On A Trip \(with Marten Hørger\)](https://open.spotify.com/track/61nIe3FaqSOGtWdL1dsHCc) | [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf), [Marten Hørger](https://open.spotify.com/artist/0EdUwJSqkMmsH6Agg3G8Ls) | [This Mixtape is Fire TOO](https://open.spotify.com/album/5H1GCTOowyeZzBVBddvdFD) | 3:26 | 2023-11-30 |  |
 | [Once More](https://open.spotify.com/track/6CtdGf2g97gRx9UIeioHJU) | [HHMR](https://open.spotify.com/artist/2eN8PMfAKIjSjofnVW6jIO), [Krbread](https://open.spotify.com/artist/493KZUIIynx8M1GYbmvU6F), [Sofuu](https://open.spotify.com/artist/11cmY8UiaG76EOdH7d37Mo) | [Once More](https://open.spotify.com/album/0WVolZN1Z29Vi8s79srHp5) | 3:23 | 2023-02-02 | 2023-02-10 |
 | [One Chance \(feat\. Marlhy\)](https://open.spotify.com/track/2PqmZr6uk48GxTmvZRYjfd) | [Knock2](https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg), [NGHTMRE](https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF), [Marlhy](https://open.spotify.com/artist/1fvH6NeNDohKGKwvRiebRA) | [One Chance \(feat\. Marlhy\)](https://open.spotify.com/album/0BYFccSPThA43XhTzn6gfu) | 3:40 | 2023-07-07 | 2023-07-28 |
 | [One Day](https://open.spotify.com/track/1MDEvpaFk2Ins7N8hGfFlA) | [Martin Jensen](https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB), [FAST BOY](https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb) | [One Day](https://open.spotify.com/album/5CDBGbuOAyXOAefzMLbXuZ) | 2:32 | 2023-02-02 | 2023-04-07 |

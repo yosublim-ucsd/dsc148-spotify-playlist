@@ -922,7 +922,7 @@
       ],
       "date_added": "2021-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-04",
       "duration_ms": 151148,
       "name": "Call It Country",
       "url": "https://open.spotify.com/track/1H5I9ObhTNdSvcIJnM5CoT"
@@ -5644,6 +5644,28 @@
       "duration_ms": 187885,
       "name": "Whiskey in a Wine Glass",
       "url": "https://open.spotify.com/track/2ZvBWC43d2YUaleClFAYPU"
+    },
+    {
+      "album": {
+        "name": "Whiskey Lullaby",
+        "url": "https://open.spotify.com/album/01jScvVAy4QKHwy8zbrwuM"
+      },
+      "artists": [
+        {
+          "name": "Drew Jacobs",
+          "url": "https://open.spotify.com/artist/4sTH4GWWUdEvvkiVgn03D0"
+        },
+        {
+          "name": "Caitlynne Curtis",
+          "url": "https://open.spotify.com/artist/5m984rwcMVTObo3jCSzDCf"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269594,
+      "name": "Whiskey Lullaby",
+      "url": "https://open.spotify.com/track/5dRwdw0BLvGmNQ2TqBhOdc"
     },
     {
       "album": {

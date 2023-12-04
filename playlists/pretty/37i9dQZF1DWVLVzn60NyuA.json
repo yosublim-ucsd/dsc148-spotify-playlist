@@ -1,12 +1,12 @@
 {
   "description": "Afro, Caribbean & Latin sounds for that summer vibe",
-  "num_followers": 288426,
+  "num_followers": 288477,
   "original_name": "Summer Vibes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NGJlMDM3YjMzYzQ1ZWYzYzQxMmJiNjJmMWI3Y2I2MGI1ZTU4ODAw",
+  "snapshot_id": "MCwwNjg4MDFhOWNmMzc3MTg5ZjhiZGRhODZkYTM5N2U4MzcxYjFjNjgw",
   "tracks": [
     {
       "added_at": "2023-12-01 08:46:07",
@@ -639,22 +639,6 @@
     {
       "added_at": "2023-12-01 08:46:07",
       "album": {
-        "name": "Rema",
-        "url": "https://open.spotify.com/album/4l8Gg5qk0QodyJ12SNtdUf"
-      },
-      "artists": [
-        {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
-        }
-      ],
-      "duration_ms": 179775,
-      "name": "Dumebi",
-      "url": "https://open.spotify.com/track/0SjQBdIddPvKSWxr8vk6QX"
-    },
-    {
-      "added_at": "2023-12-01 08:46:07",
-      "album": {
         "name": "Baby Riddim",
         "url": "https://open.spotify.com/album/6dCmbmHyfCQpmJGZW9Am3b"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 190677,
       "name": "Baby Riddim",
       "url": "https://open.spotify.com/track/77eZIuMTB9HrQ86L4ljqEX"
+    },
+    {
+      "added_at": "2023-12-01 08:46:07",
+      "album": {
+        "name": "Rema",
+        "url": "https://open.spotify.com/album/4l8Gg5qk0QodyJ12SNtdUf"
+      },
+      "artists": [
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        }
+      ],
+      "duration_ms": 179775,
+      "name": "Dumebi",
+      "url": "https://open.spotify.com/track/0SjQBdIddPvKSWxr8vk6QX"
     },
     {
       "added_at": "2023-12-01 08:46:07",
@@ -843,22 +843,6 @@
     {
       "added_at": "2023-12-01 08:46:07",
       "album": {
-        "name": "Tiki Taka",
-        "url": "https://open.spotify.com/album/0BxUHxJCLTnXXtBjIUK51N"
-      },
-      "artists": [
-        {
-          "name": "Vacra",
-          "url": "https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu"
-        }
-      ],
-      "duration_ms": 174480,
-      "name": "Tiki Taka",
-      "url": "https://open.spotify.com/track/7LKbaK4RD00Nso9EJk4opn"
-    },
-    {
-      "added_at": "2023-12-01 08:46:07",
-      "album": {
         "name": "Sip (Alcohol)",
         "url": "https://open.spotify.com/album/5Pvx6i7lDdbDMO79DE9FHR"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 158400,
       "name": "Sip (Alcohol)",
       "url": "https://open.spotify.com/track/4tr4oHjFijp0EgISHYDIXe"
+    },
+    {
+      "added_at": "2023-12-01 08:46:07",
+      "album": {
+        "name": "Tiki Taka",
+        "url": "https://open.spotify.com/album/0BxUHxJCLTnXXtBjIUK51N"
+      },
+      "artists": [
+        {
+          "name": "Vacra",
+          "url": "https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu"
+        }
+      ],
+      "duration_ms": 174480,
+      "name": "Tiki Taka",
+      "url": "https://open.spotify.com/track/7LKbaK4RD00Nso9EJk4opn"
     },
     {
       "added_at": "2023-12-01 08:46:07",
@@ -1075,46 +1075,6 @@
     {
       "added_at": "2023-12-01 08:46:07",
       "album": {
-        "name": "Call Me Every Day (feat. Wizkid)",
-        "url": "https://open.spotify.com/album/6FKhBgElPu5RBHlarPE1aO"
-      },
-      "artists": [
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        },
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        }
-      ],
-      "duration_ms": 146840,
-      "name": "Call Me Every Day (feat. Wizkid)",
-      "url": "https://open.spotify.com/track/7vVs4XCsQyGn1Au3drvo9Z"
-    },
-    {
-      "added_at": "2023-12-01 08:46:07",
-      "album": {
-        "name": "Sounds From The Other Side",
-        "url": "https://open.spotify.com/album/2yUhcn7kF408KjNVuMwV2P"
-      },
-      "artists": [
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        },
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 211293,
-      "name": "Come Closer (feat. Drake)",
-      "url": "https://open.spotify.com/track/2zYs4BonN2ydkbrRk333SN"
-    },
-    {
-      "added_at": "2023-12-01 08:46:07",
-      "album": {
         "name": "Know Your Worth (feat. Davido & Tems)",
         "url": "https://open.spotify.com/album/6BugGRwIyG1xFbeZom0Mxz"
       },
@@ -1139,6 +1099,46 @@
       "duration_ms": 191067,
       "name": "Know Your Worth (feat. Davido & Tems)",
       "url": "https://open.spotify.com/track/04QTmCTsaVjcGaoxj8rSjE"
+    },
+    {
+      "added_at": "2023-12-01 08:46:07",
+      "album": {
+        "name": "Sounds From The Other Side",
+        "url": "https://open.spotify.com/album/2yUhcn7kF408KjNVuMwV2P"
+      },
+      "artists": [
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 211293,
+      "name": "Come Closer (feat. Drake)",
+      "url": "https://open.spotify.com/track/2zYs4BonN2ydkbrRk333SN"
+    },
+    {
+      "added_at": "2023-12-01 08:46:07",
+      "album": {
+        "name": "Call Me Every Day (feat. Wizkid)",
+        "url": "https://open.spotify.com/album/6FKhBgElPu5RBHlarPE1aO"
+      },
+      "artists": [
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        },
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "duration_ms": 146840,
+      "name": "Call Me Every Day (feat. Wizkid)",
+      "url": "https://open.spotify.com/track/7vVs4XCsQyGn1Au3drvo9Z"
     },
     {
       "added_at": "2023-12-01 08:46:07",
@@ -1735,22 +1735,6 @@
     {
       "added_at": "2023-12-01 08:46:07",
       "album": {
-        "name": "Tiempo",
-        "url": "https://open.spotify.com/album/5wE1hFbC5twYBXK1KALpQQ"
-      },
-      "artists": [
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        }
-      ],
-      "duration_ms": 171813,
-      "name": "Tiempo",
-      "url": "https://open.spotify.com/track/5H6SZcjJzBNsB2VzKW2Ivd"
-    },
-    {
-      "added_at": "2023-12-01 08:46:07",
-      "album": {
         "name": "Touch It (Remix)",
         "url": "https://open.spotify.com/album/05SVPz2eBi0EPhYJMNjbRu"
       },
@@ -1767,6 +1751,22 @@
       "duration_ms": 181973,
       "name": "Touch It - Remix",
       "url": "https://open.spotify.com/track/3DvzYWNYYrixsXTXV2t8pA"
+    },
+    {
+      "added_at": "2023-12-01 08:46:07",
+      "album": {
+        "name": "Tiempo",
+        "url": "https://open.spotify.com/album/5wE1hFbC5twYBXK1KALpQQ"
+      },
+      "artists": [
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        }
+      ],
+      "duration_ms": 171813,
+      "name": "Tiempo",
+      "url": "https://open.spotify.com/track/5H6SZcjJzBNsB2VzKW2Ivd"
     },
     {
       "added_at": "2023-12-01 08:46:07",
@@ -2447,6 +2447,26 @@
     {
       "added_at": "2023-12-01 08:46:07",
       "album": {
+        "name": "Baila Kumi",
+        "url": "https://open.spotify.com/album/7Bpb7mSPr0iJE7MyHqeVav"
+      },
+      "artists": [
+        {
+          "name": "Ir Sais",
+          "url": "https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88"
+        },
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        }
+      ],
+      "duration_ms": 206808,
+      "name": "Baila Kumi",
+      "url": "https://open.spotify.com/track/6MDegdCkEiUjE7ftt5GcPU"
+    },
+    {
+      "added_at": "2023-12-01 08:46:07",
+      "album": {
         "name": "\u00c7a Sert \u00e0 Rien",
         "url": "https://open.spotify.com/album/2GIqPe6SrTBebOm1DCgJG5"
       },
@@ -2467,26 +2487,6 @@
       "duration_ms": 170068,
       "name": "\u00c7a Sert \u00e0 Rien",
       "url": "https://open.spotify.com/track/0FmQ6iu0RCCUdIntK2q2eL"
-    },
-    {
-      "added_at": "2023-12-01 08:46:07",
-      "album": {
-        "name": "Baila Kumi",
-        "url": "https://open.spotify.com/album/7Bpb7mSPr0iJE7MyHqeVav"
-      },
-      "artists": [
-        {
-          "name": "Ir Sais",
-          "url": "https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88"
-        },
-        {
-          "name": "Manuel Turizo",
-          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
-        }
-      ],
-      "duration_ms": 206808,
-      "name": "Baila Kumi",
-      "url": "https://open.spotify.com/track/6MDegdCkEiUjE7ftt5GcPU"
     },
     {
       "added_at": "2023-12-01 08:46:07",
@@ -2515,30 +2515,6 @@
     {
       "added_at": "2023-12-01 08:46:07",
       "album": {
-        "name": "911",
-        "url": "https://open.spotify.com/album/2yO3CWfAipNz7L0jF9UFO3"
-      },
-      "artists": [
-        {
-          "name": "Frenna",
-          "url": "https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5"
-        },
-        {
-          "name": "Franglish",
-          "url": "https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw"
-        },
-        {
-          "name": "Lafropop",
-          "url": "https://open.spotify.com/artist/0xUxEo49seH9MBR7rZpqsB"
-        }
-      ],
-      "duration_ms": 169898,
-      "name": "911",
-      "url": "https://open.spotify.com/track/1wTrvERblqm1JV82GEKQ3D"
-    },
-    {
-      "added_at": "2023-12-01 08:46:07",
-      "album": {
         "name": "Caribe 2.0",
         "url": "https://open.spotify.com/album/1tPnFAJ2ihuiKlh05HUh9o"
       },
@@ -2559,6 +2535,30 @@
       "duration_ms": 155400,
       "name": "Caribe 2.0",
       "url": "https://open.spotify.com/track/4L8bFIYzXyK7U8EJk5POlO"
+    },
+    {
+      "added_at": "2023-12-01 08:46:07",
+      "album": {
+        "name": "911",
+        "url": "https://open.spotify.com/album/2yO3CWfAipNz7L0jF9UFO3"
+      },
+      "artists": [
+        {
+          "name": "Frenna",
+          "url": "https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5"
+        },
+        {
+          "name": "Franglish",
+          "url": "https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw"
+        },
+        {
+          "name": "Lafropop",
+          "url": "https://open.spotify.com/artist/0xUxEo49seH9MBR7rZpqsB"
+        }
+      ],
+      "duration_ms": 169898,
+      "name": "911",
+      "url": "https://open.spotify.com/track/1wTrvERblqm1JV82GEKQ3D"
     },
     {
       "added_at": "2023-12-01 08:46:07",
@@ -2611,22 +2611,6 @@
     {
       "added_at": "2023-12-01 08:46:07",
       "album": {
-        "name": "Foreigner",
-        "url": "https://open.spotify.com/album/4JUUgaTGiFYaZmA4mXlieZ"
-      },
-      "artists": [
-        {
-          "name": "Nonso Amadi",
-          "url": "https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV"
-        }
-      ],
-      "duration_ms": 234384,
-      "name": "Foreigner",
-      "url": "https://open.spotify.com/track/1nIhLChEGB8Y2dP7CHt3PN"
-    },
-    {
-      "added_at": "2023-12-01 08:46:07",
-      "album": {
         "name": "Nobody Knows",
         "url": "https://open.spotify.com/album/2mUXHcpiEOi8c2CVO3qC2G"
       },
@@ -2639,6 +2623,22 @@
       "duration_ms": 156927,
       "name": "Nobody Knows",
       "url": "https://open.spotify.com/track/3Y50lI3uo0P910ZnCCEqqU"
+    },
+    {
+      "added_at": "2023-12-01 08:46:07",
+      "album": {
+        "name": "Foreigner",
+        "url": "https://open.spotify.com/album/4JUUgaTGiFYaZmA4mXlieZ"
+      },
+      "artists": [
+        {
+          "name": "Nonso Amadi",
+          "url": "https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV"
+        }
+      ],
+      "duration_ms": 234384,
+      "name": "Foreigner",
+      "url": "https://open.spotify.com/track/1nIhLChEGB8Y2dP7CHt3PN"
     },
     {
       "added_at": "2023-12-01 08:46:07",

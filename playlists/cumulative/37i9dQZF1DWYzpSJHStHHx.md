@@ -4,7 +4,7 @@
 
 > All new surf rock.
 
-317 songs - 17 hr 53 min
+318 songs - 17 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -319,7 +319,8 @@
 | [Wipe Out](https://open.spotify.com/track/2h83AMl3afIAWks8Z3Sn9C) | [The Surfaris](https://open.spotify.com/artist/6gZVflqhSHhG3MjYrf1dOv) | [Play](https://open.spotify.com/album/42JQLLWxQEO4FWNUIF5etd) | 2:13 | 2021-02-05 | 2022-04-21 |
 | [Wouldn't It Be Nice](https://open.spotify.com/track/6VojZJpMyuKClbwyilWlQj) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Greatest Hits](https://open.spotify.com/album/2ninxvLuYGCb6H92qTaSFZ) | 2:33 | 2023-03-01 | 2023-07-14 |
 | [Wouldn't It Be Nice \- Remastered 2000 / Stereo Mix](https://open.spotify.com/track/2Gy7qnDwt8Z3MNxqat4CsK) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Pet Sounds \(Original Mono & Stereo Mix Versions\)](https://open.spotify.com/album/6GphKx2QAPRoVGWE9D7ou8) | 2:33 | 2021-02-05 | 2022-09-03 |
-| [Wrong Orange County](https://open.spotify.com/track/0G5tNGns4fGKnMFm3RVY35) | [Northern Tides](https://open.spotify.com/artist/5RDawlMZZYVnjXvbNYziit) | [Wrong Orange County](https://open.spotify.com/album/6YK5cxmblsgGpN94WDLKm5) | 2:39 | 2023-07-13 |  |
+| [Wrong Orange County](https://open.spotify.com/track/0G5tNGns4fGKnMFm3RVY35) | [Northern Tides](https://open.spotify.com/artist/5RDawlMZZYVnjXvbNYziit) | [Wrong Orange County](https://open.spotify.com/album/6YK5cxmblsgGpN94WDLKm5) | 2:39 | 2023-07-13 | 2023-12-04 |
+| [Wrong Orange County](https://open.spotify.com/track/3iGySa8gM6bowH2BXouK9A) | [Northern Tides](https://open.spotify.com/artist/6lfjgq4CvRcQGtwdoJpLi3) | [Wrong Orange County](https://open.spotify.com/album/73sSceVG2lhbrKPnz5KE9Y) | 2:39 | 2023-10-06 |  |
 | [Yes](https://open.spotify.com/track/1s0EhxGMlnR0E47dRmwFZe) | [Room Service](https://open.spotify.com/artist/2uUXIzIj1xEIyauiajWeyo) | [Things Left to Do](https://open.spotify.com/album/5kR8QkF6vQ2M8eFsiRiWSg) | 3:40 | 2023-07-13 |  |
 | [You Are My Love \- 2012 Collection Remaster](https://open.spotify.com/track/6QdfBpsZpbUqDW3Ylwset1) | [Liverpool Express](https://open.spotify.com/artist/5MHQO0sz5J0VX7jjuL2dUg) | [Oh What A Night \- 70's Classics](https://open.spotify.com/album/6eWkC2Qv4ly7zIbyQWF4j8) | 3:14 | 2021-02-05 | 2022-04-17 |
 | [You Make Me Wanna Die](https://open.spotify.com/track/3ymrocM8jJ2czu3JlznNyJ) | [The Shivas](https://open.spotify.com/artist/2OZfuhYQm8IY95egVPC1U9) | [You Know What to Do](https://open.spotify.com/album/1R3j8poukXWe4ipHFkciSt) | 2:50 | 2021-02-05 | 2022-07-29 |

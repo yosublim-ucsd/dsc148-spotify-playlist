@@ -1161,6 +1161,28 @@
     },
     {
       "album": {
+        "name": "gracias navidad",
+        "url": "https://open.spotify.com/album/1PYtTDrXh3rQ1GE3GVBtWW"
+      },
+      "artists": [
+        {
+          "name": "Alex Ponce",
+          "url": "https://open.spotify.com/artist/2rtnKY7iQJHIEBnOd66DCO"
+        },
+        {
+          "name": "NEON16",
+          "url": "https://open.spotify.com/artist/7HacB3OpkiYI4VFwbvBLD8"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251914,
+      "name": "gracias navidad",
+      "url": "https://open.spotify.com/track/2mbxn4DJb1jn7xFLY0VFs7"
+    },
+    {
+      "album": {
         "name": "El Mix-Tape De Santa",
         "url": "https://open.spotify.com/album/5cXWewANUJiwlRh5q9TD6a"
       },
@@ -1940,7 +1962,7 @@
       ],
       "date_added": "2022-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-04",
       "duration_ms": 251533,
       "name": "Navidad En Pr",
       "url": "https://open.spotify.com/track/13mE3Skl0hCb1oigQzobQl"

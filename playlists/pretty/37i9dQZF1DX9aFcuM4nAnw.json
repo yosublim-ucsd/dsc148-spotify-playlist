@@ -1,12 +1,12 @@
 {
   "description": "Immerse deeper into obscure alternate dimensions... \ud83e\udd87\ud83d\udd2e",
-  "num_followers": 3383,
+  "num_followers": 3384,
   "original_name": "Stranger Ambient",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNDQ3NGIxMjBmNzlhNmFiOGE2ZGFlNjE2OGU5NTdlNmMzOTk5OGE3",
+  "snapshot_id": "MCw3MmJkYWE4OWMxMjRlZWUyZTNjYmNhNjA0ODFlM2I1NmFmY2YwNGIx",
   "tracks": [
     {
       "added_at": "2022-07-06 17:58:03",
@@ -367,22 +367,6 @@
     {
       "added_at": "2022-07-06 17:58:03",
       "album": {
-        "name": "Mr. Robot, Vol. 1 (Original Television Series Soundtrack)",
-        "url": "https://open.spotify.com/album/012oKUlmu9qA84z4kYrOAj"
-      },
-      "artists": [
-        {
-          "name": "Mac Quayle",
-          "url": "https://open.spotify.com/artist/3HLApxqtvULlffnRnW88O8"
-        }
-      ],
-      "duration_ms": 76038,
-      "name": "1.0_1-hellofriend.wav",
-      "url": "https://open.spotify.com/track/2fFlmlePz9hrVMv4LvdQxN"
-    },
-    {
-      "added_at": "2022-07-06 17:58:03",
-      "album": {
         "name": "The Old City (Original Soundtrack)",
         "url": "https://open.spotify.com/album/5Fex355uJzSpwLSzcngIvG"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 128181,
       "name": "Intro / Menu",
       "url": "https://open.spotify.com/track/73E1KgkXmrxyOREKgJIVTy"
+    },
+    {
+      "added_at": "2022-07-06 17:58:03",
+      "album": {
+        "name": "Mr. Robot, Vol. 1 (Original Television Series Soundtrack)",
+        "url": "https://open.spotify.com/album/012oKUlmu9qA84z4kYrOAj"
+      },
+      "artists": [
+        {
+          "name": "Mac Quayle",
+          "url": "https://open.spotify.com/artist/3HLApxqtvULlffnRnW88O8"
+        }
+      ],
+      "duration_ms": 76038,
+      "name": "1.0_1-hellofriend.wav",
+      "url": "https://open.spotify.com/track/2fFlmlePz9hrVMv4LvdQxN"
     },
     {
       "added_at": "2022-07-06 17:58:03",
@@ -841,10 +841,10 @@
       "url": "https://open.spotify.com/track/5z7m0r7VqF45d6ZqQ7WBL4"
     },
     {
-      "added_at": "2022-07-06 17:58:03",
+      "added_at": "2022-09-03 03:45:57",
       "album": {
-        "name": "The Detective (II)",
-        "url": "https://open.spotify.com/album/3wa024Li9fhL00ltgszWOG"
+        "name": "Kommissar Brenkstrupp: Fragments of a Troubled Detective",
+        "url": "https://open.spotify.com/album/22rItGEjuiHXUPAl3pp2DC"
       },
       "artists": [
         {
@@ -852,9 +852,9 @@
           "url": "https://open.spotify.com/artist/7kMXAaL47nt5wVkkyEbiON"
         }
       ],
-      "duration_ms": 265200,
-      "name": "Exile on \u00c6r\u00f8",
-      "url": "https://open.spotify.com/track/7wfXwpX7FmxihVhHAjBEGz"
+      "duration_ms": 160441,
+      "name": "Kommissar Brenkstrupp (Main Titles)",
+      "url": "https://open.spotify.com/track/5azy9UxSBD7XKgL83HOJDN"
     },
     {
       "added_at": "2022-07-06 17:58:03",
@@ -969,10 +969,10 @@
       "url": "https://open.spotify.com/track/25Dy49um1MbZVN96c1dS6m"
     },
     {
-      "added_at": "2022-09-03 03:45:57",
+      "added_at": "2022-07-06 17:58:03",
       "album": {
-        "name": "Kommissar Brenkstrupp: Fragments of a Troubled Detective",
-        "url": "https://open.spotify.com/album/22rItGEjuiHXUPAl3pp2DC"
+        "name": "The Detective (II)",
+        "url": "https://open.spotify.com/album/3wa024Li9fhL00ltgszWOG"
       },
       "artists": [
         {
@@ -980,9 +980,9 @@
           "url": "https://open.spotify.com/artist/7kMXAaL47nt5wVkkyEbiON"
         }
       ],
-      "duration_ms": 160441,
-      "name": "Kommissar Brenkstrupp (Main Titles)",
-      "url": "https://open.spotify.com/track/5azy9UxSBD7XKgL83HOJDN"
+      "duration_ms": 265200,
+      "name": "Exile on \u00c6r\u00f8",
+      "url": "https://open.spotify.com/track/7wfXwpX7FmxihVhHAjBEGz"
     },
     {
       "added_at": "2022-07-06 17:58:03",

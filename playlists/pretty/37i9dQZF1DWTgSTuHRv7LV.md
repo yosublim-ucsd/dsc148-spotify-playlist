@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTgSTuHRv7LV.md) - [plain]
 
 > Lo mejor del Hip\-Hop y Rap en español\. Cover: Myke Towers
 
-[Spotify](https://open.spotify.com/user/spotify) - 496,865 likes - 100 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 496,874 likes - 100 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTgSTuHRv7LV.md) - [plain]
 | 50 | [Erick Sermón](https://open.spotify.com/track/6Vtf1lKeDHjYoUzj53wQFk) | [Alemán](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE) | [Haciéndolo Fino](https://open.spotify.com/album/0DDsexe1qhQ2TQ43XztwMl) | 2:46 |
 | 51 | [Por Si Pego](https://open.spotify.com/track/1y6gxADhtRpNq3V8xpYHJb) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I), [Kodigo](https://open.spotify.com/artist/3hwgckfLtTHdnkf694c7HS), [TREN LOKOTE](https://open.spotify.com/artist/6DjBv6gyR1HLsvwGUOD5V9) | [Por Si Pego](https://open.spotify.com/album/6dQluBGGicYXtzTmzj0j8c) | 3:26 |
 | 52 | [Algo más](https://open.spotify.com/track/6FE1NAMYwkuNJDNPEZ8xez) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [TODO](https://open.spotify.com/album/1ga2yneTMtHivfc7wDKl1W) | 3:12 |
-| 53 | [Pico y Pala](https://open.spotify.com/track/1AWefrQG0I0OtvatTB01EZ) | [Munic HB](https://open.spotify.com/artist/28oQ6vi1R2m9mdSBnsAkUQ) | [Pico y Pala](https://open.spotify.com/album/2W3jyJZSprQ0fxlOpEGH7H) | 2:54 |
-| 54 | [El 3 Letras](https://open.spotify.com/track/0avQe2HiA50Q20yp7Tf8Qu) | [El Makabelico](https://open.spotify.com/artist/0rJ0xlAQI0wLRucDRoQQbO) | [El 3 Letras](https://open.spotify.com/album/6S3n6edGaYeA3dNhp8xxFv) | 6:02 |
+| 53 | [El 3 Letras](https://open.spotify.com/track/0avQe2HiA50Q20yp7Tf8Qu) | [El Makabelico](https://open.spotify.com/artist/0rJ0xlAQI0wLRucDRoQQbO) | [El 3 Letras](https://open.spotify.com/album/6S3n6edGaYeA3dNhp8xxFv) | 6:02 |
+| 54 | [Pico y Pala](https://open.spotify.com/track/1AWefrQG0I0OtvatTB01EZ) | [Munic HB](https://open.spotify.com/artist/28oQ6vi1R2m9mdSBnsAkUQ) | [Pico y Pala](https://open.spotify.com/album/2W3jyJZSprQ0fxlOpEGH7H) | 2:54 |
 | 55 | [Joder](https://open.spotify.com/track/2b5Worm8h9yAJOw2jc4zZp) | [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG), [Snow Tha Product](https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj) | [Joder](https://open.spotify.com/album/4AuyjPAbIqovnGdkiashml) | 2:29 |
 | 56 | [Mustang 65'](https://open.spotify.com/track/3vVnKrR31NraqoVTMIm0Cp) | [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW) | [Mustang 65'](https://open.spotify.com/album/6N7LzstAyCIAe7sQHJLOEq) | 2:10 |
 | 57 | [MAMA](https://open.spotify.com/track/3aOmRscxeXJqnywqdjyoEN) | [Kidd Keo](https://open.spotify.com/artist/0VZrPa7mWAYXH4CwmYk8Km) | [MAMA](https://open.spotify.com/album/2e1cjrIszuy4lI8BD4MGOO) | 4:25 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTgSTuHRv7LV.md) - [plain]
 | 96 | [Holy Shit \- Remix](https://open.spotify.com/track/1OzhsvZSKTMUZRjo4al9cA) | [Ankhal](https://open.spotify.com/artist/6NmMI7UnfmIpLRYoz8H9jm), [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1) | [Holy Shit \(Remix\)](https://open.spotify.com/album/0IzxukhRLKI3fU3HIaSIC1) | 3:27 |
 | 97 | [Woo](https://open.spotify.com/track/56ieMJZ6jvwiQgEJQSWGz9) | [Kidd Keo](https://open.spotify.com/artist/0VZrPa7mWAYXH4CwmYk8Km) | [Trap Bandicoot](https://open.spotify.com/album/4C0rxFMtSmialjEWZ5bLVq) | 2:39 |
 | 98 | [Stripper X](https://open.spotify.com/track/5UlAeEQEgkT8oVauCfbunJ) | [lil joujou](https://open.spotify.com/artist/6UhGN5pVzgbBYjpqkxKM5F), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [Stripper X](https://open.spotify.com/album/5O3Z3LXXRc6QmdDerBMgaM) | 2:40 |
-| 99 | [3x4](https://open.spotify.com/track/2m0mg2ImTyR4bKV5oW2x57) | [Snow Tha Product](https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [3x4](https://open.spotify.com/album/1Us6yo0j7GBlAhsWuMnb9e) | 2:47 |
-| 100 | [Santo Grial](https://open.spotify.com/track/71CmmeQnoVpTAlMtxEevaf) | [Dano](https://open.spotify.com/artist/3lIsPQW0jN6sMpiWuiShF0), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Mir Nicolas](https://open.spotify.com/artist/0wTR1DXxJ3Ok60O4K4U9WT) | [El Hombre Hace Planes, Dios Se Ríe](https://open.spotify.com/album/0xEGQSfKAhZj1yAFj4JMYP) | 5:51 |
+| 99 | [Santo Grial](https://open.spotify.com/track/71CmmeQnoVpTAlMtxEevaf) | [Dano](https://open.spotify.com/artist/3lIsPQW0jN6sMpiWuiShF0), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Mir Nicolas](https://open.spotify.com/artist/0wTR1DXxJ3Ok60O4K4U9WT) | [El Hombre Hace Planes, Dios Se Ríe](https://open.spotify.com/album/0xEGQSfKAhZj1yAFj4JMYP) | 5:51 |
+| 100 | [3x4](https://open.spotify.com/track/2m0mg2ImTyR4bKV5oW2x57) | [Snow Tha Product](https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [3x4](https://open.spotify.com/album/1Us6yo0j7GBlAhsWuMnb9e) | 2:47 |
 
-Snapshot ID: `MCwwMjAyYzVlNmJiNjQyOTJlZmIwYWU1YWU0MDBlNTFlYmM4MTM5NTVj`
+Snapshot ID: `MCxkZWIxM2U4ZmEzYWRiMjcxNWIzMDcxNDhlODQ1NDc3Y2Q0NjQ0NTZk`

@@ -4,7 +4,7 @@
 
 > كل شي خليجي جديد\. الغلاف:عبدالعزيز المعنى
 
-282 songs - 19 hr 17 min
+283 songs - 19 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,10 +43,10 @@
 | [Amam Mrayti](https://open.spotify.com/track/4d3Ek4ZbFFe9voy0cGKkP6) | [Balqees](https://open.spotify.com/artist/6arfS6PinvWKGyMd1AqgFI) | [Amam Mrayti](https://open.spotify.com/album/40IhIA2n0ms58X0MVpAfVB) | 4:29 | 2022-11-10 | 2023-05-23 |
 | [Amer Alabik](https://open.spotify.com/track/6tV5ez4P7UDIt0BqL223Nq) | [Natasha](https://open.spotify.com/artist/7MBJMXAEJuzO754trRIuHu) | [Al Khozama](https://open.spotify.com/album/3cBQpRFH2BXpobcFPHoRTz) | 4:39 | 2023-11-23 |  |
 | [Amina Haf](https://open.spotify.com/track/0Vj0ZTyPQIlRwOcbHZW6A4) | [Hanan Redha](https://open.spotify.com/artist/5AFPjqv26lWXQt2UR5BuGV) | [Amina Haf](https://open.spotify.com/album/4VvptRRpUeGbah9qSN06I0) | 3:04 | 2022-04-04 | 2022-09-29 |
-| [Ana A7tereg](https://open.spotify.com/track/3NzkzuF7YhWevZKf0rvwk8) | [Hussain Aljassmi](https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D) | [Ana A7tereg](https://open.spotify.com/album/1J5aVon8xDBJyOHPZU3n13) | 4:31 | 2023-06-08 |  |
+| [Ana A7tereg](https://open.spotify.com/track/3NzkzuF7YhWevZKf0rvwk8) | [Hussain Aljassmi](https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D) | [Ana A7tereg](https://open.spotify.com/album/1J5aVon8xDBJyOHPZU3n13) | 4:31 | 2023-06-08 | 2023-12-04 |
 | [Ana Adhak](https://open.spotify.com/track/7lLSXSxCmZmwqtaSq0pkZ2) | [Abdul Majeed Abdullah](https://open.spotify.com/artist/2RxCv6j8Wu2rYbmtOBvg6F) | [Ana Adhak](https://open.spotify.com/album/1vOqDeqDhPK59GAWeSJgeN) | 4:40 | 2023-06-13 |  |
 | [Ana Al Sadeq](https://open.spotify.com/track/5oVHTvO2sQ2xPknS1umd0p) | [Moner Zayed](https://open.spotify.com/artist/5cEK4do8F3Ln4G7XOvcpXa) | [Ana Al Sadeq](https://open.spotify.com/album/73VepX2okJI7LPnJ43BHDN) | 3:20 | 2023-01-11 | 2023-07-04 |
-| [Ana Lak](https://open.spotify.com/track/0Ko4fZhRKlgdbBrEx5tsqR) | [Abdulrahman Alazzawi](https://open.spotify.com/artist/2QxSb4y90CGYdmyFsh4XSg) | [Ana Lak](https://open.spotify.com/album/74HJ9ReJsCKeYEbc3Nl24b) | 3:35 | 2023-05-02 |  |
+| [Ana Lak](https://open.spotify.com/track/0Ko4fZhRKlgdbBrEx5tsqR) | [Abdulrahman Alazzawi](https://open.spotify.com/artist/2QxSb4y90CGYdmyFsh4XSg) | [Ana Lak](https://open.spotify.com/album/74HJ9ReJsCKeYEbc3Nl24b) | 3:35 | 2023-05-02 | 2023-12-04 |
 | [Ana Wa Anti](https://open.spotify.com/track/5vIqr9irNBp6onPeXnc6pM) | [Zayed Bin Saber](https://open.spotify.com/artist/0TNuRg9zAJbDy4chgGD4Cs) | [Ana Wa Anti](https://open.spotify.com/album/5xSVWY9yibDP7ttHSZqet5) | 4:44 | 2022-08-20 | 2022-08-23 |
 | [Ani Aredak](https://open.spotify.com/track/66gIjtTp56i7n5I0D2CclW) | [Hamza Al Aseel](https://open.spotify.com/artist/7nQ1aN8DVGPMH6y80w7FU3) | [Ani Aredak](https://open.spotify.com/album/0ik2ZcKqyXX2qTeMfefnED) | 3:02 | 2021-12-23 | 2022-04-02 |
 | [Araftouh](https://open.spotify.com/track/24WcErJYoAR3jtWGiPsh3E) | [Balqees](https://open.spotify.com/artist/6arfS6PinvWKGyMd1AqgFI) | [Araftouh](https://open.spotify.com/album/073EbOzyF0oSIZdl6IVXJj) | 3:57 | 2023-05-22 |  |
@@ -84,6 +84,7 @@
 | [Entebhlek](https://open.spotify.com/track/19xth9Xqzirpot7cy1nWfZ) | [Sultan Al Murshed](https://open.spotify.com/artist/6miZ4J6pxMnkJkrjOLeGeU) | [Entebhlek](https://open.spotify.com/album/5kxIt7TKG05RmoD5815UfQ) | 3:59 | 2023-05-02 | 2023-07-28 |
 | [Enty A3yadi](https://open.spotify.com/track/7HoiSL5qcW8SI58bEDT38w) | [Hussain Aljassmi](https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D) | [Enty A3yadi](https://open.spotify.com/album/7aoPdzhkfqVQRceYvvxV9S) | 3:08 | 2022-02-17 | 2022-08-27 |
 | [Erjaee Li](https://open.spotify.com/track/0vaWHfSlJswU2OiTeOL3jj) | [Abass Ibrahim](https://open.spotify.com/artist/24GgPBu7p3GhaMVvIMAk8T) | [Erjaee Li](https://open.spotify.com/album/5skxkm6hM5xILUw4cVGZpc) | 6:48 | 2022-07-26 | 2023-02-01 |
+| [Eshtaqt](https://open.spotify.com/track/3CAwAK5kReh2G9Fh4J5zip) | [Sultan Al Murshed](https://open.spotify.com/artist/6miZ4J6pxMnkJkrjOLeGeU) | [Eshtaqt](https://open.spotify.com/album/1KbJMpbHmAMS20YJY2DlWU) | 3:21 | 2023-12-03 |  |
 | [Eyouni Feeh Ydobu](https://open.spotify.com/track/0fmpUGxAdqRUXLI9QnZIDo) | [Meteb Alshalan](https://open.spotify.com/artist/7HRVFYJ71mBbcv8gA2qEjA) | [Eyouni Feeh Ydobu](https://open.spotify.com/album/2RlrrVOqM1dXElHVZYedDn) | 2:53 | 2022-06-10 | 2023-01-10 |
 | [Fadeha Denyay](https://open.spotify.com/track/2fuVzq6gFhnEWfMbHKB5aR) | [Mohamed Al Shehhi](https://open.spotify.com/artist/0dMebvi9NQ4TNjqWIH9dXp) | [Fadeha Denyay](https://open.spotify.com/album/6Iq3beBQFZnqRb2ycjeesy) | 3:34 | 2021-12-23 | 2022-01-13 |
 | [Faraktozy](https://open.spotify.com/track/12h7uMuEanhGWfnzOyvo8h) | [Hussain Aljassmi](https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D) | [Faraktozy](https://open.spotify.com/album/1OAttDR3r7GbxCNeSgElrE) | 3:50 | 2022-08-11 | 2023-02-15 |

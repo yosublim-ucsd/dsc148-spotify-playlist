@@ -1,12 +1,12 @@
 {
   "description": "Walk the bridge between indie and folk. Cover: Abby Sage",
-  "num_followers": 83051,
+  "num_followers": 83167,
   "original_name": "Folk Arc",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNjJlMjdhNjQ0YmNjOGEyNWRiNGM4ZjAwMjcwZGVkYjQzNTYwNjJj",
+  "snapshot_id": "MCxiOGNlMmUxNDE1YWRkMjJlMjNkNjM5ZDc5MDFjNGY3YWU0MDRiYWZh",
   "tracks": [
     {
       "added_at": "2023-12-01 05:00:00",
@@ -943,22 +943,6 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "Eye On The Bat",
-        "url": "https://open.spotify.com/album/4KQvtMMS3bajTXhra6pSPR"
-      },
-      "artists": [
-        {
-          "name": "Palehound",
-          "url": "https://open.spotify.com/artist/4AgusFXPk24LCGMMplX34M"
-        }
-      ],
-      "duration_ms": 176869,
-      "name": "Eye On The Bat",
-      "url": "https://open.spotify.com/track/7HRBGUCJQSjsPoYeB96OlM"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
         "name": "Ants From Up There",
         "url": "https://open.spotify.com/album/21xp7NdU1ajmO1CX0w2Egd"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 553213,
       "name": "Snow Globes",
       "url": "https://open.spotify.com/track/0hpDqky5jV8MQqdvMWFv7K"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
+        "name": "Eye On The Bat",
+        "url": "https://open.spotify.com/album/4KQvtMMS3bajTXhra6pSPR"
+      },
+      "artists": [
+        {
+          "name": "Palehound",
+          "url": "https://open.spotify.com/artist/4AgusFXPk24LCGMMplX34M"
+        }
+      ],
+      "duration_ms": 176869,
+      "name": "Eye On The Bat",
+      "url": "https://open.spotify.com/track/7HRBGUCJQSjsPoYeB96OlM"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -1075,6 +1075,22 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
+        "name": "This Is A Photograph",
+        "url": "https://open.spotify.com/album/6NMzokKOYpPO9VXDjmc5y6"
+      },
+      "artists": [
+        {
+          "name": "Kevin Morby",
+          "url": "https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF"
+        }
+      ],
+      "duration_ms": 210333,
+      "name": "This Is A Photograph",
+      "url": "https://open.spotify.com/track/1hj8os1Xxiuo95atpJzfCp"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
         "name": "Glacier Meadow",
         "url": "https://open.spotify.com/album/49dacIWVwfmiXGJ51AaBGD"
       },
@@ -1091,22 +1107,6 @@
       "duration_ms": 166340,
       "name": "Glacier Meadow",
       "url": "https://open.spotify.com/track/5qFRcVehrKf96Foul25ZV0"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
-        "name": "This Is A Photograph",
-        "url": "https://open.spotify.com/album/6NMzokKOYpPO9VXDjmc5y6"
-      },
-      "artists": [
-        {
-          "name": "Kevin Morby",
-          "url": "https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF"
-        }
-      ],
-      "duration_ms": 210333,
-      "name": "This Is A Photograph",
-      "url": "https://open.spotify.com/track/1hj8os1Xxiuo95atpJzfCp"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "Somewhere",
-        "url": "https://open.spotify.com/album/3tqWpScYda0eUqExXOqQnm"
-      },
-      "artists": [
-        {
-          "name": "Sun June",
-          "url": "https://open.spotify.com/artist/0UIQXpn5oXhmpgbUDFzaLb"
-        }
-      ],
-      "duration_ms": 246666,
-      "name": "Everything I had",
-      "url": "https://open.spotify.com/track/3ZWtCPAWcE7hh00mjQDOXq"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
         "name": "As You Are",
         "url": "https://open.spotify.com/album/1C11POJDeirmj0HP7JGF2w"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 141946,
       "name": "As You Are",
       "url": "https://open.spotify.com/track/3oTiIGIgmjdavBHdsUrY1M"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
+        "name": "Somewhere",
+        "url": "https://open.spotify.com/album/3tqWpScYda0eUqExXOqQnm"
+      },
+      "artists": [
+        {
+          "name": "Sun June",
+          "url": "https://open.spotify.com/artist/0UIQXpn5oXhmpgbUDFzaLb"
+        }
+      ],
+      "duration_ms": 246666,
+      "name": "Everything I had",
+      "url": "https://open.spotify.com/track/3ZWtCPAWcE7hh00mjQDOXq"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -1271,18 +1271,18 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "The Cabin",
-        "url": "https://open.spotify.com/album/57v4x7aRdhztbRW4IiVgFl"
+        "name": "Cool Dry Place",
+        "url": "https://open.spotify.com/album/584CDFxeA55Hrr1dydGfQE"
       },
       "artists": [
         {
-          "name": "Haley Blais",
-          "url": "https://open.spotify.com/artist/0i4M8k5IcQpiEH6nBMdfPT"
+          "name": "Katy Kirby",
+          "url": "https://open.spotify.com/artist/3ZH4IYVc5qVlKyJoZhGpwy"
         }
       ],
-      "duration_ms": 237547,
-      "name": "The Cabin",
-      "url": "https://open.spotify.com/track/5VZFZg4N7EFJeNP78tAIAc"
+      "duration_ms": 300586,
+      "name": "Cool Dry Place",
+      "url": "https://open.spotify.com/track/6A1sSc1NFq5ZO9V0xGDe1L"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -1319,18 +1319,18 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "Cool Dry Place",
-        "url": "https://open.spotify.com/album/584CDFxeA55Hrr1dydGfQE"
+        "name": "The Cabin",
+        "url": "https://open.spotify.com/album/57v4x7aRdhztbRW4IiVgFl"
       },
       "artists": [
         {
-          "name": "Katy Kirby",
-          "url": "https://open.spotify.com/artist/3ZH4IYVc5qVlKyJoZhGpwy"
+          "name": "Haley Blais",
+          "url": "https://open.spotify.com/artist/0i4M8k5IcQpiEH6nBMdfPT"
         }
       ],
-      "duration_ms": 300586,
-      "name": "Cool Dry Place",
-      "url": "https://open.spotify.com/track/6A1sSc1NFq5ZO9V0xGDe1L"
+      "duration_ms": 237547,
+      "name": "The Cabin",
+      "url": "https://open.spotify.com/track/5VZFZg4N7EFJeNP78tAIAc"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -1351,18 +1351,18 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "Song for Nick Drake",
-        "url": "https://open.spotify.com/album/0tD7F0mOkgQliDESDRBLey"
+        "name": "my house is warm",
+        "url": "https://open.spotify.com/album/75EFextiYNP5Xd1AE1aMHp"
       },
       "artists": [
         {
-          "name": "Skullcrusher",
-          "url": "https://open.spotify.com/artist/1GUaQ6GpaxFPKZ0SCSsnwD"
+          "name": "sombr",
+          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
         }
       ],
-      "duration_ms": 177387,
-      "name": "Song for Nick Drake",
-      "url": "https://open.spotify.com/track/1ZMpeW7DIRIpWCpFxAFuf6"
+      "duration_ms": 215586,
+      "name": "my house is warm",
+      "url": "https://open.spotify.com/track/5szktaZo20RhrFUfRp4Res"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -1383,18 +1383,18 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "my house is warm",
-        "url": "https://open.spotify.com/album/75EFextiYNP5Xd1AE1aMHp"
+        "name": "Song for Nick Drake",
+        "url": "https://open.spotify.com/album/0tD7F0mOkgQliDESDRBLey"
       },
       "artists": [
         {
-          "name": "sombr",
-          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
+          "name": "Skullcrusher",
+          "url": "https://open.spotify.com/artist/1GUaQ6GpaxFPKZ0SCSsnwD"
         }
       ],
-      "duration_ms": 215586,
-      "name": "my house is warm",
-      "url": "https://open.spotify.com/track/5szktaZo20RhrFUfRp4Res"
+      "duration_ms": 177387,
+      "name": "Song for Nick Drake",
+      "url": "https://open.spotify.com/track/1ZMpeW7DIRIpWCpFxAFuf6"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "Kansas",
-        "url": "https://open.spotify.com/album/6Pjx7eyaHx64bGn2LUr9Dx"
-      },
-      "artists": [
-        {
-          "name": "Whitney",
-          "url": "https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G"
-        }
-      ],
-      "duration_ms": 211734,
-      "name": "Kansas",
-      "url": "https://open.spotify.com/track/0x0OjST3CNulTlhzLybBc9"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
         "name": "Spell",
         "url": "https://open.spotify.com/album/4DW2TnIuLYckzD1fPIgOrK"
       },
@@ -1443,6 +1427,22 @@
       "duration_ms": 247267,
       "name": "Spell",
       "url": "https://open.spotify.com/track/6VnKIbHslTmwhEmH36ln4Q"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
+        "name": "Kansas",
+        "url": "https://open.spotify.com/album/6Pjx7eyaHx64bGn2LUr9Dx"
+      },
+      "artists": [
+        {
+          "name": "Whitney",
+          "url": "https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G"
+        }
+      ],
+      "duration_ms": 211734,
+      "name": "Kansas",
+      "url": "https://open.spotify.com/track/0x0OjST3CNulTlhzLybBc9"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -1671,22 +1671,6 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "The Spur",
-        "url": "https://open.spotify.com/album/5zjQU3GjKhWFVHG5pHLqwI"
-      },
-      "artists": [
-        {
-          "name": "Joan Shelley",
-          "url": "https://open.spotify.com/artist/4eR9k3I0YKCQUvvP2ojptw"
-        }
-      ],
-      "duration_ms": 232748,
-      "name": "The Spur",
-      "url": "https://open.spotify.com/track/27ViD2ifBwYqlwzpY5LoTB"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
         "name": "A Little Older",
         "url": "https://open.spotify.com/album/0HFPYiYnX5HgnfEO5TAUDR"
       },
@@ -1715,6 +1699,22 @@
       "duration_ms": 222800,
       "name": "Telephone",
       "url": "https://open.spotify.com/track/6kmeI9upOHk6TRSi2StNlr"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
+        "name": "The Spur",
+        "url": "https://open.spotify.com/album/5zjQU3GjKhWFVHG5pHLqwI"
+      },
+      "artists": [
+        {
+          "name": "Joan Shelley",
+          "url": "https://open.spotify.com/artist/4eR9k3I0YKCQUvvP2ojptw"
+        }
+      ],
+      "duration_ms": 232748,
+      "name": "The Spur",
+      "url": "https://open.spotify.com/track/27ViD2ifBwYqlwzpY5LoTB"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -1751,22 +1751,6 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "Diamonds",
-        "url": "https://open.spotify.com/album/0yMzpSlb7U4emqlTclNLbM"
-      },
-      "artists": [
-        {
-          "name": "Luluc",
-          "url": "https://open.spotify.com/artist/2Jtfa8vjvzAAGxDfgIkU72"
-        }
-      ],
-      "duration_ms": 232600,
-      "name": "Diamonds",
-      "url": "https://open.spotify.com/track/4410U1LBFEbAXKdWpclkkD"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
         "name": "I'm Green",
         "url": "https://open.spotify.com/album/1upKvbsQau0k852Ol079dD"
       },
@@ -1783,6 +1767,22 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
+        "name": "Diamonds",
+        "url": "https://open.spotify.com/album/0yMzpSlb7U4emqlTclNLbM"
+      },
+      "artists": [
+        {
+          "name": "Luluc",
+          "url": "https://open.spotify.com/artist/2Jtfa8vjvzAAGxDfgIkU72"
+        }
+      ],
+      "duration_ms": 232600,
+      "name": "Diamonds",
+      "url": "https://open.spotify.com/track/4410U1LBFEbAXKdWpclkkD"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
         "name": "Bad Taste",
         "url": "https://open.spotify.com/album/2hxdsShdy5Z7NxXJMHOBna"
       },
@@ -1795,6 +1795,22 @@
       "duration_ms": 211067,
       "name": "Bad Taste",
       "url": "https://open.spotify.com/track/5SmTHQfqmBWbaak0mCyYi4"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
+        "name": "Metaphor",
+        "url": "https://open.spotify.com/album/1IX1wLeq3fcZuV4IT5Uo6E"
+      },
+      "artists": [
+        {
+          "name": "Marlon Funaki",
+          "url": "https://open.spotify.com/artist/3BcSXip92N0HwJRA9sVmP6"
+        }
+      ],
+      "duration_ms": 237794,
+      "name": "Metaphor",
+      "url": "https://open.spotify.com/track/2khytXmfph4aUqGqIHrw70"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -1827,22 +1843,6 @@
       "duration_ms": 140145,
       "name": "Shell",
       "url": "https://open.spotify.com/track/2DDJuBWHY6SluN5RczGp7L"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
-        "name": "Metaphor",
-        "url": "https://open.spotify.com/album/1IX1wLeq3fcZuV4IT5Uo6E"
-      },
-      "artists": [
-        {
-          "name": "Marlon Funaki",
-          "url": "https://open.spotify.com/artist/3BcSXip92N0HwJRA9sVmP6"
-        }
-      ],
-      "duration_ms": 237794,
-      "name": "Metaphor",
-      "url": "https://open.spotify.com/track/2khytXmfph4aUqGqIHrw70"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -1895,22 +1895,6 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "Humor",
-        "url": "https://open.spotify.com/album/2bcAwgtbyhdjmUSxsxHAoR"
-      },
-      "artists": [
-        {
-          "name": "tofusmell",
-          "url": "https://open.spotify.com/artist/1iOQiPT8N1MQbdUaTaefyZ"
-        }
-      ],
-      "duration_ms": 136119,
-      "name": "Basil Noodles",
-      "url": "https://open.spotify.com/track/4dmDoUAL9cFrHkE5En0RPH"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
         "name": "Crispy Crunchy Nothing",
         "url": "https://open.spotify.com/album/6iZCdzygVnM4rMAPNW5I5F"
       },
@@ -1927,6 +1911,22 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
+        "name": "Humor",
+        "url": "https://open.spotify.com/album/2bcAwgtbyhdjmUSxsxHAoR"
+      },
+      "artists": [
+        {
+          "name": "tofusmell",
+          "url": "https://open.spotify.com/artist/1iOQiPT8N1MQbdUaTaefyZ"
+        }
+      ],
+      "duration_ms": 136119,
+      "name": "Basil Noodles",
+      "url": "https://open.spotify.com/track/4dmDoUAL9cFrHkE5En0RPH"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
         "name": "Echo",
         "url": "https://open.spotify.com/album/6akscmS833btWR5O7F5BMJ"
       },
@@ -1939,22 +1939,6 @@
       "duration_ms": 206950,
       "name": "Everything Everything",
       "url": "https://open.spotify.com/track/0q0Vlb5g3DV8pysqIllbiR"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
-        "name": "It's All Happening Now",
-        "url": "https://open.spotify.com/album/1FrQGwymQK3vfXS6Z1NBHK"
-      },
-      "artists": [
-        {
-          "name": "Baerd",
-          "url": "https://open.spotify.com/artist/6L6LwshK4H0TVqsNfCO69t"
-        }
-      ],
-      "duration_ms": 152760,
-      "name": "It's All Happening Now",
-      "url": "https://open.spotify.com/track/0z5mi9793H8u6JLO5u2mSf"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -2007,18 +1991,18 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "Cubic Zirconia",
-        "url": "https://open.spotify.com/album/69ZGp2Lhcx5RbGsvgwP6JT"
+        "name": "It's All Happening Now",
+        "url": "https://open.spotify.com/album/1FrQGwymQK3vfXS6Z1NBHK"
       },
       "artists": [
         {
-          "name": "Katy Kirby",
-          "url": "https://open.spotify.com/artist/3ZH4IYVc5qVlKyJoZhGpwy"
+          "name": "Baerd",
+          "url": "https://open.spotify.com/artist/6L6LwshK4H0TVqsNfCO69t"
         }
       ],
-      "duration_ms": 244218,
-      "name": "Cubic Zirconia",
-      "url": "https://open.spotify.com/track/409WM1TeevBE5DuAuCkkeJ"
+      "duration_ms": 152760,
+      "name": "It's All Happening Now",
+      "url": "https://open.spotify.com/track/0z5mi9793H8u6JLO5u2mSf"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -2039,22 +2023,6 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "Granny Music",
-        "url": "https://open.spotify.com/album/725p6TJKBuQ5CPK6pT9S2Q"
-      },
-      "artists": [
-        {
-          "name": "Girl Scout",
-          "url": "https://open.spotify.com/artist/4CbghtwTo6bvxk5QacvRrE"
-        }
-      ],
-      "duration_ms": 214013,
-      "name": "Millionaire",
-      "url": "https://open.spotify.com/track/3NTgl4lHbIJw8p3bDanEa0"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
         "name": "Warm Chris",
         "url": "https://open.spotify.com/album/56rWsCsd2UF9l1XTpUfZ1v"
       },
@@ -2067,6 +2035,42 @@
       "duration_ms": 217066,
       "name": "Lawn",
       "url": "https://open.spotify.com/track/4YQe4UrNJ0AzFKA6BNQo0c"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
+        "name": "Cubic Zirconia",
+        "url": "https://open.spotify.com/album/69ZGp2Lhcx5RbGsvgwP6JT"
+      },
+      "artists": [
+        {
+          "name": "Katy Kirby",
+          "url": "https://open.spotify.com/artist/3ZH4IYVc5qVlKyJoZhGpwy"
+        }
+      ],
+      "duration_ms": 244218,
+      "name": "Cubic Zirconia",
+      "url": "https://open.spotify.com/track/409WM1TeevBE5DuAuCkkeJ"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
+        "name": "Three Hours",
+        "url": "https://open.spotify.com/album/2mYlWSBNyu22LyQ9qy50hT"
+      },
+      "artists": [
+        {
+          "name": "John Parish",
+          "url": "https://open.spotify.com/artist/1UAM4fJFTeyMZbhTVUKiXk"
+        },
+        {
+          "name": "Aldous Harding",
+          "url": "https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG"
+        }
+      ],
+      "duration_ms": 272567,
+      "name": "Three Hours",
+      "url": "https://open.spotify.com/track/7iGcDYlAdinPkG3zLrtZTX"
     }
   ],
   "unique_name": "Folk Arc",

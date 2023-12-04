@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34lqLRYWFxq.md) - [plain]
 
 > What's new in rock this week\. Cover: Royal Tusk
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,209 likes - 100 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,228 likes - 100 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34lqLRYWFxq.md) - [plain]
 | 99 | [I Don't Know You](https://open.spotify.com/track/43DsSmYR7rk3LKnyY8wkGI) | [Mannequin Pussy](https://open.spotify.com/artist/33yje3hgpNfdXpqdJQcrt9) | [I Don't Know You](https://open.spotify.com/album/0zT2ilSANN1bLI7gV6lqCl) | 3:44 |
 | 100 | [Hope is a Dangerous Little Thing](https://open.spotify.com/track/089lW2lTDsHUDsNlzim7Qc) | [The Menzingers](https://open.spotify.com/artist/7HWFXU9pHBj0u58yoRwwOJ) | [Some Of It Was True](https://open.spotify.com/album/1haMGMoO3UjtVB1l3BHMFZ) | 3:12 |
 
-Snapshot ID: `MCwyNzk0MTM1NjgxMTdkYjMxYmI2NGMzYmI1NTQ2MGE4MjY2NWE0NTBj`
+Snapshot ID: `MCxlODhjZmVjNTk4YTVkOTRhNDg2MDYwZjNmNzlmOTExZTUwOWU3MGRi`

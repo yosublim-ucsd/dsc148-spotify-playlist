@@ -1,12 +1,12 @@
 {
   "description": "Left of center indie/alternative LGBTQIA+ artists. Cover: The Japanese House",
-  "num_followers": 144076,
+  "num_followers": 144123,
   "original_name": "Alternative Pride",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYzYzZjgzMDJmZWIxZWQ3MTQzNzlkMGIzYmRkZDZmYjczZjYyYzky",
+  "snapshot_id": "MCw5NmUwYjQ2OTRiMWJmYTEzYjc2MTlkYzQxZjZlYTU1ZmMyNWRkMjhm",
   "tracks": [
     {
       "added_at": "2023-03-07 19:29:41",
@@ -187,18 +187,18 @@
     {
       "added_at": "2023-03-07 19:29:41",
       "album": {
-        "name": "Clean",
-        "url": "https://open.spotify.com/album/36NLDBi2kX7XRHnyLzLOS8"
+        "name": "Blondshell",
+        "url": "https://open.spotify.com/album/7rG4h8pLLcr6kW30cbSWD8"
       },
       "artists": [
         {
-          "name": "Soccer Mommy",
-          "url": "https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q"
+          "name": "Blondshell",
+          "url": "https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij"
         }
       ],
-      "duration_ms": 194009,
-      "name": "Your Dog",
-      "url": "https://open.spotify.com/track/3BpUZB0tw4zNmG3Iw1mclL"
+      "duration_ms": 216852,
+      "name": "Olympus",
+      "url": "https://open.spotify.com/track/2pqi703QQcp2zsuS3NgCii"
     },
     {
       "added_at": "2023-06-01 04:00:00",
@@ -231,6 +231,22 @@
       "duration_ms": 182426,
       "name": "Serotonin",
       "url": "https://open.spotify.com/track/7tLTxOJY6cjQz4aJYMs8Nu"
+    },
+    {
+      "added_at": "2023-03-07 19:29:41",
+      "album": {
+        "name": "Clean",
+        "url": "https://open.spotify.com/album/36NLDBi2kX7XRHnyLzLOS8"
+      },
+      "artists": [
+        {
+          "name": "Soccer Mommy",
+          "url": "https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q"
+        }
+      ],
+      "duration_ms": 194009,
+      "name": "Your Dog",
+      "url": "https://open.spotify.com/track/3BpUZB0tw4zNmG3Iw1mclL"
     },
     {
       "added_at": "2023-06-01 04:00:00",
@@ -267,22 +283,6 @@
       "duration_ms": 141903,
       "name": "if i were a fish (feat. Olivia Barton)",
       "url": "https://open.spotify.com/track/6uL6HCOsEwvnmCX4cDf65g"
-    },
-    {
-      "added_at": "2023-03-07 19:29:41",
-      "album": {
-        "name": "Blondshell",
-        "url": "https://open.spotify.com/album/7rG4h8pLLcr6kW30cbSWD8"
-      },
-      "artists": [
-        {
-          "name": "Blondshell",
-          "url": "https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij"
-        }
-      ],
-      "duration_ms": 216852,
-      "name": "Olympus",
-      "url": "https://open.spotify.com/track/2pqi703QQcp2zsuS3NgCii"
     },
     {
       "added_at": "2023-03-07 19:29:41",
@@ -401,22 +401,6 @@
       "url": "https://open.spotify.com/track/4U6GYrZi0xvNkUmFitCDED"
     },
     {
-      "added_at": "2023-03-07 19:29:41",
-      "album": {
-        "name": "Little Oblivions",
-        "url": "https://open.spotify.com/album/3IQRHa9iVLsGlSuVHiHZ3A"
-      },
-      "artists": [
-        {
-          "name": "Julien Baker",
-          "url": "https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip"
-        }
-      ],
-      "duration_ms": 174773,
-      "name": "Faith Healer",
-      "url": "https://open.spotify.com/track/5M7jnmPrtHgL5H4fTewJch"
-    },
-    {
       "added_at": "2023-06-01 04:00:00",
       "album": {
         "name": "Leave It On The Dancefloor",
@@ -431,6 +415,22 @@
       "duration_ms": 175016,
       "name": "Leave It On The Dancefloor",
       "url": "https://open.spotify.com/track/30ae9cv36eD4Q6Zc8PVF8v"
+    },
+    {
+      "added_at": "2023-03-07 19:29:41",
+      "album": {
+        "name": "Little Oblivions",
+        "url": "https://open.spotify.com/album/3IQRHa9iVLsGlSuVHiHZ3A"
+      },
+      "artists": [
+        {
+          "name": "Julien Baker",
+          "url": "https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip"
+        }
+      ],
+      "duration_ms": 174773,
+      "name": "Faith Healer",
+      "url": "https://open.spotify.com/track/5M7jnmPrtHgL5H4fTewJch"
     },
     {
       "added_at": "2023-03-07 19:29:41",
@@ -513,6 +513,22 @@
       "url": "https://open.spotify.com/track/5z1KeOpL9n1b3iFAJk91iu"
     },
     {
+      "added_at": "2023-03-07 19:29:41",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/4U1VNYvSn36Xgak49ScRZD"
+      },
+      "artists": [
+        {
+          "name": "Omar Apollo",
+          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
+        }
+      ],
+      "duration_ms": 173641,
+      "name": "California Dreamin' - Spotify Singles",
+      "url": "https://open.spotify.com/track/7D0q9XQg10KdlrjdDrrHph"
+    },
+    {
       "added_at": "2023-06-01 04:00:00",
       "album": {
         "name": "Pegasus (ft. Phoebe Bridgers)",
@@ -531,22 +547,6 @@
       "duration_ms": 186836,
       "name": "Pegasus (ft. Phoebe Bridgers)",
       "url": "https://open.spotify.com/track/2oZH5jrlSr0sFWoiIymVHh"
-    },
-    {
-      "added_at": "2023-03-07 19:29:41",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/4U1VNYvSn36Xgak49ScRZD"
-      },
-      "artists": [
-        {
-          "name": "Omar Apollo",
-          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
-        }
-      ],
-      "duration_ms": 173641,
-      "name": "California Dreamin' - Spotify Singles",
-      "url": "https://open.spotify.com/track/7D0q9XQg10KdlrjdDrrHph"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -729,22 +729,6 @@
       "url": "https://open.spotify.com/track/4uP0hLJCQCm8PkXXCLw9Js"
     },
     {
-      "added_at": "2023-06-01 04:00:00",
-      "album": {
-        "name": "Cheerleader",
-        "url": "https://open.spotify.com/album/0G7TZnfLKBjCBRksNsiN3P"
-      },
-      "artists": [
-        {
-          "name": "Liza Anne",
-          "url": "https://open.spotify.com/artist/426VSUSxx9puUYFgp7l7EQ"
-        }
-      ],
-      "duration_ms": 147134,
-      "name": "Cheerleader",
-      "url": "https://open.spotify.com/track/2fxoNGEf4hMPfNKwxL7irU"
-    },
-    {
       "added_at": "2023-03-07 19:29:41",
       "album": {
         "name": "Queen",
@@ -763,6 +747,22 @@
       "duration_ms": 196301,
       "name": "Queen",
       "url": "https://open.spotify.com/track/5Y5WLk0oI5MZSJMyK88upb"
+    },
+    {
+      "added_at": "2023-06-01 04:00:00",
+      "album": {
+        "name": "Cheerleader",
+        "url": "https://open.spotify.com/album/0G7TZnfLKBjCBRksNsiN3P"
+      },
+      "artists": [
+        {
+          "name": "Liza Anne",
+          "url": "https://open.spotify.com/artist/426VSUSxx9puUYFgp7l7EQ"
+        }
+      ],
+      "duration_ms": 147134,
+      "name": "Cheerleader",
+      "url": "https://open.spotify.com/track/2fxoNGEf4hMPfNKwxL7irU"
     },
     {
       "added_at": "2023-03-07 19:29:41",
@@ -835,22 +835,6 @@
     {
       "added_at": "2023-03-07 19:29:41",
       "album": {
-        "name": "Daddy's Home",
-        "url": "https://open.spotify.com/album/654KFpNOZ26Hj9luu7aKeM"
-      },
-      "artists": [
-        {
-          "name": "St. Vincent",
-          "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
-        }
-      ],
-      "duration_ms": 257519,
-      "name": "The Melting Of The Sun",
-      "url": "https://open.spotify.com/track/3WD3w5uSzAGJWrNFnHhi1a"
-    },
-    {
-      "added_at": "2023-03-07 19:29:41",
-      "album": {
         "name": "Set My Heart On Fire Immediately",
         "url": "https://open.spotify.com/album/5qWrp5RcqjxB8ak7dtK6Iv"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 185826,
       "name": "Jason",
       "url": "https://open.spotify.com/track/34B5INdEjbTXvNkCC5GtYz"
+    },
+    {
+      "added_at": "2023-03-07 19:29:41",
+      "album": {
+        "name": "Daddy's Home",
+        "url": "https://open.spotify.com/album/654KFpNOZ26Hj9luu7aKeM"
+      },
+      "artists": [
+        {
+          "name": "St. Vincent",
+          "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
+        }
+      ],
+      "duration_ms": 257519,
+      "name": "The Melting Of The Sun",
+      "url": "https://open.spotify.com/track/3WD3w5uSzAGJWrNFnHhi1a"
     },
     {
       "added_at": "2023-03-07 19:29:41",
@@ -913,22 +913,6 @@
       "url": "https://open.spotify.com/track/41FCZduFUjoymvDXb6ZviB"
     },
     {
-      "added_at": "2023-06-01 04:00:00",
-      "album": {
-        "name": "Wild Heart",
-        "url": "https://open.spotify.com/album/0YHvPJPXebNHPw0vSRA0OI"
-      },
-      "artists": [
-        {
-          "name": "Towa Bird",
-          "url": "https://open.spotify.com/artist/1Yq3rS7K1SQKqjMOHXpqqt"
-        }
-      ],
-      "duration_ms": 177026,
-      "name": "Wild Heart",
-      "url": "https://open.spotify.com/track/0pS21h64SdLRwXdG6s2NQC"
-    },
-    {
       "added_at": "2023-06-30 04:00:00",
       "album": {
         "name": "Bishoun\u00e9: Alma del Huila",
@@ -943,6 +927,22 @@
       "duration_ms": 298906,
       "name": "6 8",
       "url": "https://open.spotify.com/track/1y9kfM2QNDQQ9plksXc44Y"
+    },
+    {
+      "added_at": "2023-06-01 04:00:00",
+      "album": {
+        "name": "Wild Heart",
+        "url": "https://open.spotify.com/album/0YHvPJPXebNHPw0vSRA0OI"
+      },
+      "artists": [
+        {
+          "name": "Towa Bird",
+          "url": "https://open.spotify.com/artist/1Yq3rS7K1SQKqjMOHXpqqt"
+        }
+      ],
+      "duration_ms": 177026,
+      "name": "Wild Heart",
+      "url": "https://open.spotify.com/track/0pS21h64SdLRwXdG6s2NQC"
     },
     {
       "added_at": "2023-03-07 19:29:41",
@@ -1059,6 +1059,22 @@
     {
       "added_at": "2023-03-07 19:29:41",
       "album": {
+        "name": "nice",
+        "url": "https://open.spotify.com/album/6AOKgHrEw5Z37EFrhRHVYV"
+      },
+      "artists": [
+        {
+          "name": "Amindi",
+          "url": "https://open.spotify.com/artist/1xQIR56DxgWYZPUvOLRIua"
+        }
+      ],
+      "duration_ms": 176318,
+      "name": "death proof",
+      "url": "https://open.spotify.com/track/6jgpzjzjqJBtSjvhAOq4MR"
+    },
+    {
+      "added_at": "2023-03-07 19:29:41",
+      "album": {
         "name": "Someone Else",
         "url": "https://open.spotify.com/album/4Hu3O4jVEImkIqYmvq2KUk"
       },
@@ -1091,22 +1107,6 @@
     {
       "added_at": "2023-03-07 19:29:41",
       "album": {
-        "name": "nice",
-        "url": "https://open.spotify.com/album/6AOKgHrEw5Z37EFrhRHVYV"
-      },
-      "artists": [
-        {
-          "name": "Amindi",
-          "url": "https://open.spotify.com/artist/1xQIR56DxgWYZPUvOLRIua"
-        }
-      ],
-      "duration_ms": 176318,
-      "name": "death proof",
-      "url": "https://open.spotify.com/track/6jgpzjzjqJBtSjvhAOq4MR"
-    },
-    {
-      "added_at": "2023-03-07 19:29:41",
-      "album": {
         "name": "In Waiting",
         "url": "https://open.spotify.com/album/3lUUNYKTsf9J1P1YneO8n2"
       },
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2023-06-01 04:00:00",
       "album": {
-        "name": "Plastic Envelope / Protect Him Always",
-        "url": "https://open.spotify.com/album/7rmLFKfDkqSUmBOAfJUWTa"
-      },
-      "artists": [
-        {
-          "name": "The Drums",
-          "url": "https://open.spotify.com/artist/0p5axeJsbtTCXBrRVoKjwu"
-        }
-      ],
-      "duration_ms": 197866,
-      "name": "Plastic Envelope",
-      "url": "https://open.spotify.com/track/7oud5ro5Y5yKS38JwYdYoy"
-    },
-    {
-      "added_at": "2023-06-01 04:00:00",
-      "album": {
         "name": "HARDCORE HAPPY",
         "url": "https://open.spotify.com/album/0TEXITHiEK0QnrcwkicZlG"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 169400,
       "name": "HARDCORE HAPPY",
       "url": "https://open.spotify.com/track/3crc8YzKF41WtRIz1HUmC5"
+    },
+    {
+      "added_at": "2023-06-01 04:00:00",
+      "album": {
+        "name": "Plastic Envelope / Protect Him Always",
+        "url": "https://open.spotify.com/album/7rmLFKfDkqSUmBOAfJUWTa"
+      },
+      "artists": [
+        {
+          "name": "The Drums",
+          "url": "https://open.spotify.com/artist/0p5axeJsbtTCXBrRVoKjwu"
+        }
+      ],
+      "duration_ms": 197866,
+      "name": "Plastic Envelope",
+      "url": "https://open.spotify.com/track/7oud5ro5Y5yKS38JwYdYoy"
     },
     {
       "added_at": "2023-03-07 19:29:41",

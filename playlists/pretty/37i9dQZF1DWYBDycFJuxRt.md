@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 
 > 今週も話題の新曲を最速で。 Cover: King Gnu \*👉 <a href="https://spice.eplus.jp/articles/324212?utm\_source=spotify.com&utm\_medium=referral">SPICE連動記事</a>から新着情報をキャッチ!
 
-[Spotify](https://open.spotify.com/user/spotify) - 156,374 likes - 83 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 156,448 likes - 83 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,4 +92,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 | 82 | [雨雲と晴れのあいだ](https://open.spotify.com/track/61YDVXG5hPUKFY3Duy3Pck) | [Merlion](https://open.spotify.com/artist/0DetD9qvM9Qiokxzo3Srmq) | [雨雲と晴れのあいだ](https://open.spotify.com/album/4RKL5eUEwbzMqWt9HLxZvQ) | 4:22 |
 | 83 | [Happy Prince](https://open.spotify.com/track/3iQNce2vHa8N9M4uPYOsiT) | [Elephant Gym](https://open.spotify.com/artist/2rqNUPgkBgbhcRabUQ5C9g), [YILE LIN](https://open.spotify.com/artist/26AmoMf8mCSUdM2p363S6e) | [Happy Prince](https://open.spotify.com/album/37ragGvhMrZgxxyOe9wlKo) | 4:22 |
 
-Snapshot ID: `MCwxZTlhYTlhMGVlZjY0Yzg0YWFhYTg5ZWVjZTVlZThjY2FkMjJiYzFi`
+Snapshot ID: `MCw4OGQwZGEyYjhjMmVjZDM2NGI3NDRmYzZmYzUyNTY5MjMwODgzZTEz`

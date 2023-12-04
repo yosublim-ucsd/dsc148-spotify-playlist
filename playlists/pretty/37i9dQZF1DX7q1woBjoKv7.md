@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7q1woBjoKv7.md) - [plain]
 
 > California music breaking waves\. Cover: <a href="spotify:artist:5cgtn5YWC3Fr06wTps1dBq">Goapele</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,914 likes - 71 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,936 likes - 71 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7q1woBjoKv7.md) - [plain]
 | 6 | [Walk](https://open.spotify.com/track/725UfuWEXWg0C7PCqP8HIz) | [310babii](https://open.spotify.com/artist/4VCriUU9CsPnUvoAsxVk1p), [Luh Tyler](https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz) | [Walk](https://open.spotify.com/album/7oaVAnz4knG0hU6oRJGcC9) | 2:04 |
 | 7 | [Living Off The Land](https://open.spotify.com/track/0aqXHeEGEqLSdcnMNlFM45) | [Huey Briss](https://open.spotify.com/artist/1G6Gq9pcDT5OwZjEdKXBZm) | [Living Off The Land](https://open.spotify.com/album/1HN3xcIHIVgsQl76wXyEv2) | 2:08 |
 | 8 | [Questions, Pt\. 2 \(feat\. Diddy, Hit\-Boy & KenTheMan\)](https://open.spotify.com/track/7BYYnqmxFgygbBnSYN1Ave) | [JasonMartin](https://open.spotify.com/artist/3exvmJjpMVsuvzYN7HVGfZ), [Problem](https://open.spotify.com/artist/0399oiMcmbOzzsYQDNYqxn), [Diddy](https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA), [Hit\-Boy](https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed), [KenTheMan](https://open.spotify.com/artist/6o4O5GX5kOWAGXtZUedxo3) | [Questions, Pt\. 2 \(feat\. Diddy, Hit\-Boy & KenTheMan\)](https://open.spotify.com/album/5DgO3PGL9nyddZo4KHLtWv) | 2:57 |
-| 9 | [Somethin Bout U](https://open.spotify.com/track/3aEQjuGpL2ZyYtnOKEgP6w) | [KYLE](https://open.spotify.com/artist/4qBgvVog0wzW75IQ48mU7v), [Teezo Touchdown](https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36) | [Somethin Bout U](https://open.spotify.com/album/0P3gIwj163thjGGYQW7ZDp) | 2:52 |
+| 9 | [Somethin Bout U](https://open.spotify.com/track/1ewcXX3jGDSlL0afdrJRYq) | [KYLE](https://open.spotify.com/artist/4qBgvVog0wzW75IQ48mU7v), [Teezo Touchdown](https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36) | [Somethin Bout U](https://open.spotify.com/album/3hCqgEwy309nX74TGAOHs5) | 2:52 |
 | 10 | [Soak City \(Do it\)](https://open.spotify.com/track/5C8h9PY9oTneqJihbn10NB) | [310babii](https://open.spotify.com/artist/4VCriUU9CsPnUvoAsxVk1p) | [Soak City \(Do it\)](https://open.spotify.com/album/2w59tnyiYwj7cgHZSUP8pW) | 2:03 |
 | 11 | [ALLAT](https://open.spotify.com/track/1KdfIM1ZvzSWBGuk7n1Hie) | [ALLBLACK](https://open.spotify.com/artist/1cutd8e41XvxXnFPOFIxMD) | [ALLAT](https://open.spotify.com/album/6Va3zluiLcnhrMfRjTArjU) | 2:23 |
 | 12 | [Furley Goat \(feat\. LaRussell\)](https://open.spotify.com/track/2Zt3o21ru5rE7xP68CUEYF) | [Nef The Pharaoh](https://open.spotify.com/artist/3DiSC0nSNNWpPy5ZK3mcrz), [LaRussell](https://open.spotify.com/artist/5PRPy7MZZhkM5CIVJvTAKM) | [4Eva The Pharaoh](https://open.spotify.com/album/4b99UEfskIHAwBOkaOtYq3) | 3:35 |
@@ -80,4 +80,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7q1woBjoKv7.md) - [plain]
 | 70 | [Girls Don't Cry \(Gibberish\)](https://open.spotify.com/track/4slzYQ2rU6lcPqBETDLY9y) | [Uninvtd](https://open.spotify.com/artist/0q66IFlScb4fDO2sgZSrfZ), [S A I N T](https://open.spotify.com/artist/2D6H3aOR8udBwn4oaC4LtN) | [Girls Don't Cry \(Gibberish\)](https://open.spotify.com/album/6ZHLFeiaJgY4lRLWGdE1pj) | 2:55 |
 | 71 | [Warmer with You](https://open.spotify.com/track/3FIU12rRLkfrHdA0vBIsHN) | [Bee\-B](https://open.spotify.com/artist/13FgCXn7z3ld9mR2Pz8eqc) | [Warmer with You](https://open.spotify.com/album/5SwM2wVqEX9FmRHgTOfuL5) | 2:17 |
 
-Snapshot ID: `MCw3NmM4MmZhZDM0YzFmMGE2OGE5ZDY5ZDFjNjg4Zjk4MDdlNGU4OWQw`
+Snapshot ID: `MCxlNjM0NTZlYTA0NzU5ODdjY2MwYWMwZDg5NjM0OGNjODVmOGY0NDli`

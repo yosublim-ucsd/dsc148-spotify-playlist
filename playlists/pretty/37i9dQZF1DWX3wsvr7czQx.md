@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX3wsvr7czQx.md) - [plain]
 
 > Icons only\. Cover: Duran Duran
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,134 likes - 50 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,147 likes - 50 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,12 +18,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX3wsvr7czQx.md) - [plain]
 | 8 | [What You Heard](https://open.spotify.com/track/4y4C6YlIAf9Wjx65uU7nOg) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [What You Heard](https://open.spotify.com/album/5egLTfkAIvzX8y5FWFerxV) | 3:44 |
 | 9 | [Love Again](https://open.spotify.com/track/7LYV8DzfYdArevWVyNNIZ0) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [Love Again \(Soundtrack from the Motion Picture\)](https://open.spotify.com/album/1YV5gnob3qCnMQuVomwGwG) | 3:32 |
 | 10 | [Lost Inside Your Heart](https://open.spotify.com/track/6YTU4q4ti2tcqIUpbN63I1) | [Olivia Newton\-John](https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9), [Jon Secada](https://open.spotify.com/artist/10n1KB2sjTrGdyuC83y8jW) | [Lost Inside Your Heart](https://open.spotify.com/album/3KYaEaS8IySjbFUgjLIi74) | 4:04 |
-| 11 | [i/o \- Bright\-Side Mix](https://open.spotify.com/track/7onf6RIP2d08FOHos3U324) | [Peter Gabriel](https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I) | [i/o \(Bright\-Side Mix\)](https://open.spotify.com/album/6TmXl8JQXo6XJvQShFn6Ru) | 3:52 |
+| 11 | [i/o \- Bright\-Side Mix](https://open.spotify.com/track/2GToIWQPDYTQdxCdnPZEdA) | [Peter Gabriel](https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I) | [i/o](https://open.spotify.com/album/2Rr46ynx6lOJnkbF2s9VXB) | 3:53 |
 | 12 | [Big Big Love](https://open.spotify.com/track/5qn8AKjdjvSTWxsQ1Irk8l) | [Belinda Carlisle](https://open.spotify.com/artist/7xkAwz0bQTGDSbkofyQt3U) | [Big Big Love](https://open.spotify.com/album/1KXFA21w4IxGGVJltnH119) | 3:46 |
 | 13 | [Just The Beginning](https://open.spotify.com/track/2fMw2LCmWiDVVGCqMIxVOs) | [Michael Bolton](https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn) | [Just The Beginning](https://open.spotify.com/album/64zhv06ZKT442BXcPja3aE) | 3:25 |
 | 14 | [Why Can't We Live Together](https://open.spotify.com/track/7fjju295nRrFMwK7bunuEL) | [John Oates](https://open.spotify.com/artist/4TjR4K8rD5CqqqU59V6aGr) | [Why Can't We Live Together](https://open.spotify.com/album/3fGr7K47n7t7OYckvx3gpr) | 3:44 |
 | 15 | [Better With You](https://open.spotify.com/track/2eIiQ5mf0EEYWSfN5Pzxki) | [Simply Red](https://open.spotify.com/artist/1fa0cOhromAZdq2xRA4vv8) | [Better With You](https://open.spotify.com/album/2hCIK1s0jAD2s9LBzXusT4) | 3:20 |
-| 16 | [Panopticom \- Bright Side Mix](https://open.spotify.com/track/0DpMQVZpl0bsIlFbm5CS7V) | [Peter Gabriel](https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I) | [Panopticom \(Bright Side Mix\)](https://open.spotify.com/album/3vMQQGbY67Sj77bD6dT8zt) | 5:13 |
+| 16 | [Panopticom \- Bright Side Mix](https://open.spotify.com/track/7CkKAVRnPMZCRM0Ona8NL3) | [Peter Gabriel](https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I) | [i/o](https://open.spotify.com/album/2Rr46ynx6lOJnkbF2s9VXB) | 5:16 |
 | 17 | [One Day Longer](https://open.spotify.com/track/0vH2LlAYsYeTPjEp9mgNoC) | [Richard Marx](https://open.spotify.com/artist/0grdhNhiRLFBaFVyybqsj6) | [Songwriter](https://open.spotify.com/album/2jHrXoaw4ngQGU6dKp2f48) | 4:07 |
 | 18 | [I'm In](https://open.spotify.com/track/0uVt1UqcssBjFCQogJCkoz) | [a\-ha](https://open.spotify.com/artist/2jzc5TC5TVFLXQlBNiIUzE) | [I'm In](https://open.spotify.com/album/306o3fqhgQdpZQiyqFu2Eb) | 5:05 |
 | 19 | [True To Yourself](https://open.spotify.com/track/3rYUollaaz3IHp94BiRzCx) | [Olivia Newton\-John](https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9), [Vanessa Amorosi](https://open.spotify.com/artist/5M0fvL9GMc2zTuIIQwresj) | [True To Yourself](https://open.spotify.com/album/6Y9rVFJIoUVpFwjbXTe6rE) | 4:01 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX3wsvr7czQx.md) - [plain]
 | 49 | [Find My Way](https://open.spotify.com/track/1SYdSWLyeVMjHYXD1iJZoY) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB) | [McCartney III](https://open.spotify.com/album/1P7h3400RJA3YZm8Va2884) | 3:54 |
 | 50 | [Bang A Gong \(Get It On\)](https://open.spotify.com/track/53D3QRrXV0vyy2PSXAhuxG) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ), [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Bang A Gong \(Get It On\)](https://open.spotify.com/album/0aptgsGtrV5XvnopE7ZjSo) | 4:26 |
 
-Snapshot ID: `MCw0MTU3MjFlZTc0NjBmY2M0ZjhlMWJmODNkYTYzNmEzODdmYjdkMGM0`
+Snapshot ID: `MCxkMDFkODNlMmIxOGQ5NWQyYzMwNmY1NzQyZjU0N2QzNWZjMzE5MGE0`

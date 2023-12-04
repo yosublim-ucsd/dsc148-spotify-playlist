@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZuIX5Q3yUjF.md) - [plain]
 
 > Il meglio dell'R&B italiano\. Cover: Martino
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,961 likes - 70 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,967 likes - 70 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZuIX5Q3yUjF.md) - [plain]
 | 34 | [Ma non adesso](https://open.spotify.com/track/7LVIJLuM7agM4C32LivEYX) | [JeBel](https://open.spotify.com/artist/3V3DPjpU2au75BqpnX1HwI) | [Ma non adesso](https://open.spotify.com/album/5c5y9fkL7WNktLPPQLvQ8k) | 2:59 |
 | 35 | [Televisione \(feat\. Mahmood\)](https://open.spotify.com/track/4JuUtt0xKSzIy5nrpuXL4m) | [TROPICO](https://open.spotify.com/artist/11wRTRhOoRE8kcDgtAmuJW), [Mahmood](https://open.spotify.com/artist/06nvjg4wBANK6DCHjqtPNd) | [Chiamami Quando La Magia Finisce](https://open.spotify.com/album/40NoSD1gcWgmWS2M0gri9N) | 3:34 |
 | 36 | [Specchio](https://open.spotify.com/track/3WmVyDDXpxFFR0fEIGTjZg) | [Taoma](https://open.spotify.com/artist/0aLwoMVln0XlsVY3A2UI04) | [Specchio](https://open.spotify.com/album/609VpTgRMxIjizyhuYeipg) | 3:36 |
-| 37 | [Come si fa \(feat\. Mecna\)](https://open.spotify.com/track/3djhLlGIgNz63lhDplcW85) | [Shadaloo](https://open.spotify.com/artist/2tibuALJsypDnCBzRGykYR), [Mecna](https://open.spotify.com/artist/4yUvIAm9mSJyLt1WLrOxAZ) | [Aurora Boreale](https://open.spotify.com/album/3oh4nZNcAzLtV6KKBohGfK) | 3:13 |
+| 37 | [Come si fa \(feat\. Mecna\)](https://open.spotify.com/track/1acYpHsbkn5OnzWn6xwhvM) | [Shadaloo](https://open.spotify.com/artist/2tibuALJsypDnCBzRGykYR), [Mecna](https://open.spotify.com/artist/4yUvIAm9mSJyLt1WLrOxAZ) | [Aurora Boreale](https://open.spotify.com/album/0RWG0hwJKw9uBOA8wFIF1u) | 3:13 |
 | 38 | [Luce](https://open.spotify.com/track/3JNIkNlzpYSVRqRntUVMF0) | [Marco Mengoni](https://open.spotify.com/artist/3xGlLcG9CUrs5MvFkSLOS5) | [MATERIA \(TERRA\)](https://open.spotify.com/album/4aNjXVkVKGFfr2HRkVM302) | 4:04 |
 | 39 | [ACAB \(Amami Come Ameresti Bambi\)](https://open.spotify.com/track/7cbyPy16QbkxPfcLZsT5TV) | [Queen of Saba](https://open.spotify.com/artist/26rDnlXGp18EMtbgV7OwsW), [Willie Peyote](https://open.spotify.com/artist/00CsjN69YCczmdW0bDKaCC) | [Medusa](https://open.spotify.com/album/40KoQYdYFrIcHYn0wGrC2i) | 3:20 |
 | 40 | [Iliade](https://open.spotify.com/track/4pmK8N7r8tajDezvfo3wj6) | [Cristina Lizzul](https://open.spotify.com/artist/4Bn67qpfGeAhkbINuqnxze) | [Iliade](https://open.spotify.com/album/6vrx3mVYnoQ7jNoTN3mb3c) | 3:56 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZuIX5Q3yUjF.md) - [plain]
 | 69 | [L'R&B in Italia non esiste \(Interlude\)](https://open.spotify.com/track/5haGMsywnKV4e2FqsYjoKH) | [Martina May](https://open.spotify.com/artist/1nEZxArpiNayoK02nNzJxR) | [L'R&B IN ITALIA NON ESISTE](https://open.spotify.com/album/41IqmB0uShPRiNVsYyOmbg) | 2:23 |
 | 70 | [Meraviglioso](https://open.spotify.com/track/1jkRoA2wGzgOlzjAaGpXV6) | [MOLTObELLO](https://open.spotify.com/artist/0y6ssu4rdIqbyP0ipQq40Q) | [Meraviglioso](https://open.spotify.com/album/705PmwstoLNz8Euf23n7wo) | 2:37 |
 
-Snapshot ID: `MCw3NmVmYzBlNzlmYjFmYWNhM2RjYzJiMzMyZDkyNjI0NzlhODE1NGQw`
+Snapshot ID: `MCw4ODcwNTU1N2MzZTQ4ZTc3MzM3YjQzNmRiNTdhZjU3NDExMTc4ZGYy`

@@ -4,7 +4,7 @@
 
 > Relax, heal and restore your energy
 
-129 songs - 12 hr 4 min
+130 songs - 12 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,8 @@
 | [Calm Meditation](https://open.spotify.com/track/5VA0QFtk8DwwJ8isLZmv4I) | [Memory Helper](https://open.spotify.com/artist/3HFsBn76RDKKstmqrKcY6h) | [Zen Music for Massage: Tranquility & Total Relax, Ambient Nature Sounds, Gentle Touch, Relaxing Music](https://open.spotify.com/album/6cIqo6O7PyK0u2ojZG9FsA) | 6:53 | 2021-06-15 |  |
 | [Charukeshi](https://open.spotify.com/track/4wxYGoGV4pJjr2fGi0TOUI) | [Ambient](https://open.spotify.com/artist/3J3ZL8cDJpD90GxfzsQG69) | [Meditation: Calming Music for the Mind](https://open.spotify.com/album/2xhFslzajcYSY1mHYD4j0k) | 3:56 | 2021-06-15 |  |
 | [Closing Meditation](https://open.spotify.com/track/1d25xxmGKe134EkAn9s6AG) | [Shantala](https://open.spotify.com/artist/6z6YXTlyMCY6fvT79yxDgi) | [Live In Love, Vol\. 2](https://open.spotify.com/album/4jBwmGefP4zLBpJ3UN1gC2) | 6:00 | 2021-06-15 | 2023-02-25 |
-| [Closing Meditation](https://open.spotify.com/track/3iBMeAItDx4NNyg0keZ7Fm) | [Shantala](https://open.spotify.com/artist/6z6YXTlyMCY6fvT79yxDgi) | [Live In Love, Vol\. 2](https://open.spotify.com/album/7so4tfVsFKa0MCim0SQUna) | 6:00 | 2021-06-15 |  |
+| [Closing Meditation](https://open.spotify.com/track/3iBMeAItDx4NNyg0keZ7Fm) | [Shantala](https://open.spotify.com/artist/6z6YXTlyMCY6fvT79yxDgi) | [Live In Love, Vol\. 2](https://open.spotify.com/album/7so4tfVsFKa0MCim0SQUna) | 6:00 | 2021-06-15 | 2023-12-04 |
+| [Closing Meditation](https://open.spotify.com/track/45JVYpFviuESYF5MC4hVvx) | [Shantala](https://open.spotify.com/artist/6z6YXTlyMCY6fvT79yxDgi) | [Live in Love, Vol.2](https://open.spotify.com/album/1HFmWWPxtE9bJuio8UCnxn) | 6:00 | 2021-06-15 |  |
 | [Conscious Jorney](https://open.spotify.com/track/5huIzPcRJkbL7UyyzViQPU) | [Benny Bernstein](https://open.spotify.com/artist/4iJdqHLAdAbYvCrB5hDnHM) | [Benny Bernstein](https://open.spotify.com/album/0H6fiGx3oWLzmtCvxhr2lM) | 2:34 | 2021-06-15 |  |
 | [Core Of The Truth](https://open.spotify.com/track/3DNakDCMuqiAruLyfFpGo2) | [Dhyaan Sangeet](https://open.spotify.com/artist/0oNBpryPTA3j6vZcTSMHZI) | [Core Of The Truth](https://open.spotify.com/album/2F2QlV18Oyqqdi2rUa7KFS) | 3:26 | 2023-12-01 |  |
 | [Dawn Dusk Divinity](https://open.spotify.com/track/3Gs2uBopmgSkqI6Ww2IYnm) | [Devansh Tushar](https://open.spotify.com/artist/6A6XOlnYgaiM9qfRvSIHQL) | [Happy](https://open.spotify.com/album/6FXJ200cFy73fvSBZm0xfJ) | 2:59 | 2021-06-15 |  |

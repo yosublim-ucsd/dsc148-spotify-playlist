@@ -4888,7 +4888,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-04",
       "duration_ms": 164426,
       "name": "Midnight Hour",
       "url": "https://open.spotify.com/track/4KYWyAouNeRHw3eTyxEX5n"
@@ -6052,6 +6052,28 @@
       "duration_ms": 238909,
       "name": "Prove My Love",
       "url": "https://open.spotify.com/track/6eV7yJ3eD4U3LJUAyOEBuF"
+    },
+    {
+      "album": {
+        "name": "Psalm 46",
+        "url": "https://open.spotify.com/album/3rdau6eXUMXKgY4abLIe3Y"
+      },
+      "artists": [
+        {
+          "name": "Tekoa",
+          "url": "https://open.spotify.com/artist/7Fqu2gBrthnYE53IGOltaI"
+        },
+        {
+          "name": "Nathan Staggers",
+          "url": "https://open.spotify.com/artist/0NPx3nSANBI85VKkLPmiMm"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204600,
+      "name": "Psalm 46",
+      "url": "https://open.spotify.com/track/2alkWeDWQSytDexz9nhMZ1"
     },
     {
       "album": {
@@ -7418,7 +7440,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-04",
       "duration_ms": 209666,
       "name": "Take My Future Back (12.28.19)",
       "url": "https://open.spotify.com/track/1XRV8glqV8tHXFOabLuJ2U"
@@ -8158,6 +8180,28 @@
       "duration_ms": 195317,
       "name": "Un Dia",
       "url": "https://open.spotify.com/track/3B9d4ZOgxxDIqKgjY7UbAg"
+    },
+    {
+      "album": {
+        "name": "Valuable",
+        "url": "https://open.spotify.com/album/7cbZJmbtvmYM6xaphUhsq9"
+      },
+      "artists": [
+        {
+          "name": "OnBeatMusic",
+          "url": "https://open.spotify.com/artist/19DgE5CQNujdohCwPmYddj"
+        },
+        {
+          "name": "Zach Paradis",
+          "url": "https://open.spotify.com/artist/1W2W85bJ8lG3g409Lm6goy"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179800,
+      "name": "Valuable",
+      "url": "https://open.spotify.com/track/1u5XKMWtmxG297TuKOAARj"
     },
     {
       "album": {

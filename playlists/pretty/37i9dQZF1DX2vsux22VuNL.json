@@ -1,12 +1,12 @@
 {
   "description": "Aquele som que \u00e9 pura brisa. \ud83c\udf43 Foto: Thiaguinho, L7NNON",
-  "num_followers": 292222,
+  "num_followers": 292210,
   "original_name": "brisa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNGVmMDA5M2Q4OTEwMzdjNWE2NDcwNzQ5MWU4Yjk1MDQ4MzI0MTBh",
+  "snapshot_id": "MCw5MzAyYzUwNzI2MTEzMGU2NDU2ZmMyMTZiOGQ0MjI3NDY5MTc3ZGY1",
   "tracks": [
     {
       "added_at": "2023-12-01 03:00:00",
@@ -871,26 +871,6 @@
     {
       "added_at": "2023-12-01 03:00:00",
       "album": {
-        "name": "Sem Vergonha",
-        "url": "https://open.spotify.com/album/5OmacBr1VxnghnaYmSEbQB"
-      },
-      "artists": [
-        {
-          "name": "Lukinhas",
-          "url": "https://open.spotify.com/artist/0vsOB7tW4ItHtdZBzKQZxp"
-        },
-        {
-          "name": "Chris MC",
-          "url": "https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY"
-        }
-      ],
-      "duration_ms": 184399,
-      "name": "Sem Vergonha",
-      "url": "https://open.spotify.com/track/44taOjLEDoAWRZ7qxKzJVP"
-    },
-    {
-      "added_at": "2023-12-01 03:00:00",
-      "album": {
         "name": "Proposital (Cita\u00e7\u00e3o Aquele Abra\u00e7o)",
         "url": "https://open.spotify.com/album/0jWlOY3pDrv5eQpoz9ds2X"
       },
@@ -911,6 +891,26 @@
       "duration_ms": 168448,
       "name": "Proposital (Cita\u00e7\u00e3o Aquele Abra\u00e7o)",
       "url": "https://open.spotify.com/track/4I1dCogzyGuaP5uIXrMTs2"
+    },
+    {
+      "added_at": "2023-12-01 03:00:00",
+      "album": {
+        "name": "Sem Vergonha",
+        "url": "https://open.spotify.com/album/5OmacBr1VxnghnaYmSEbQB"
+      },
+      "artists": [
+        {
+          "name": "Lukinhas",
+          "url": "https://open.spotify.com/artist/0vsOB7tW4ItHtdZBzKQZxp"
+        },
+        {
+          "name": "Chris MC",
+          "url": "https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY"
+        }
+      ],
+      "duration_ms": 184399,
+      "name": "Sem Vergonha",
+      "url": "https://open.spotify.com/track/44taOjLEDoAWRZ7qxKzJVP"
     },
     {
       "added_at": "2023-12-01 03:00:00",
@@ -1191,26 +1191,6 @@
     {
       "added_at": "2023-12-01 03:00:00",
       "album": {
-        "name": "Freedom",
-        "url": "https://open.spotify.com/album/0Ze1e8yP0nQBmJpgr1DPrT"
-      },
-      "artists": [
-        {
-          "name": "YO\u00d9N",
-          "url": "https://open.spotify.com/artist/42nEiwAAE2ypWbygM9iyJi"
-        },
-        {
-          "name": "Luccas Carlos",
-          "url": "https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy"
-        }
-      ],
-      "duration_ms": 218048,
-      "name": "Freedom",
-      "url": "https://open.spotify.com/track/1900JESfRMYU1a35cFlqEm"
-    },
-    {
-      "added_at": "2023-12-01 03:00:00",
-      "album": {
         "name": "Toda Mal\u00e9vola",
         "url": "https://open.spotify.com/album/4eOTa398Hc7UBahLKwfJxD"
       },
@@ -1239,26 +1219,22 @@
     {
       "added_at": "2023-12-01 03:00:00",
       "album": {
-        "name": "n\u00e3o d\u00e1 certo",
-        "url": "https://open.spotify.com/album/1Nv4ok4KXKZ2loY0J3jqeq"
+        "name": "Freedom",
+        "url": "https://open.spotify.com/album/0Ze1e8yP0nQBmJpgr1DPrT"
       },
       "artists": [
         {
-          "name": "SEST",
-          "url": "https://open.spotify.com/artist/6TaJMoxhKD43q5yWg2XlHQ"
+          "name": "YO\u00d9N",
+          "url": "https://open.spotify.com/artist/42nEiwAAE2ypWbygM9iyJi"
         },
         {
-          "name": "R\u00f4 Rosa",
-          "url": "https://open.spotify.com/artist/5Et1UarIEfiHvErAJSer9B"
-        },
-        {
-          "name": "brandu",
-          "url": "https://open.spotify.com/artist/4b60qd5W1wYRQ94acEugv0"
+          "name": "Luccas Carlos",
+          "url": "https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy"
         }
       ],
-      "duration_ms": 159666,
-      "name": "n\u00e3o d\u00e1 certo",
-      "url": "https://open.spotify.com/track/0utqWsykxgSFqI1ODE9UqN"
+      "duration_ms": 218048,
+      "name": "Freedom",
+      "url": "https://open.spotify.com/track/1900JESfRMYU1a35cFlqEm"
     },
     {
       "added_at": "2023-12-01 03:00:00",
@@ -1283,6 +1259,30 @@
       "duration_ms": 192786,
       "name": "Pensando Em N\u00f3s",
       "url": "https://open.spotify.com/track/1AjW8I8Em6yW7RHtZPygIR"
+    },
+    {
+      "added_at": "2023-12-01 03:00:00",
+      "album": {
+        "name": "n\u00e3o d\u00e1 certo",
+        "url": "https://open.spotify.com/album/1Nv4ok4KXKZ2loY0J3jqeq"
+      },
+      "artists": [
+        {
+          "name": "SEST",
+          "url": "https://open.spotify.com/artist/6TaJMoxhKD43q5yWg2XlHQ"
+        },
+        {
+          "name": "R\u00f4 Rosa",
+          "url": "https://open.spotify.com/artist/5Et1UarIEfiHvErAJSer9B"
+        },
+        {
+          "name": "brandu",
+          "url": "https://open.spotify.com/artist/4b60qd5W1wYRQ94acEugv0"
+        }
+      ],
+      "duration_ms": 159666,
+      "name": "n\u00e3o d\u00e1 certo",
+      "url": "https://open.spotify.com/track/0utqWsykxgSFqI1ODE9UqN"
     },
     {
       "added_at": "2023-12-01 03:00:00",
@@ -1563,6 +1563,34 @@
     {
       "added_at": "2023-12-01 03:00:00",
       "album": {
+        "name": "Voc\u00ea Falou pra Mim",
+        "url": "https://open.spotify.com/album/3C4GwIc7117OxDuu66G248"
+      },
+      "artists": [
+        {
+          "name": "Felipe Play",
+          "url": "https://open.spotify.com/artist/3thozP2mfHYnunQbT2seuZ"
+        },
+        {
+          "name": "Victor WAO",
+          "url": "https://open.spotify.com/artist/1ew4rMO5r0Oon1R9xZxo8Q"
+        },
+        {
+          "name": "Lucas Arcanjo",
+          "url": "https://open.spotify.com/artist/6qW2bDfMWa4kAvDCMPGDqj"
+        },
+        {
+          "name": "Andrei Zucco",
+          "url": "https://open.spotify.com/artist/1zFRuFu2fudXR6FQ4DgwUN"
+        }
+      ],
+      "duration_ms": 141120,
+      "name": "Voc\u00ea Falou pra Mim",
+      "url": "https://open.spotify.com/track/1tPgLKnmMJf6rp2m6YYBd1"
+    },
+    {
+      "added_at": "2023-12-01 03:00:00",
+      "album": {
         "name": "Jeito Doce",
         "url": "https://open.spotify.com/album/3566q2civxcN8c7gx8TiJe"
       },
@@ -1603,34 +1631,6 @@
       "duration_ms": 136430,
       "name": "Seu Z\u00e9",
       "url": "https://open.spotify.com/track/7uZm4WI4OqH25LFlNobiff"
-    },
-    {
-      "added_at": "2023-12-01 03:00:00",
-      "album": {
-        "name": "Voc\u00ea Falou pra Mim",
-        "url": "https://open.spotify.com/album/3C4GwIc7117OxDuu66G248"
-      },
-      "artists": [
-        {
-          "name": "Felipe Play",
-          "url": "https://open.spotify.com/artist/3thozP2mfHYnunQbT2seuZ"
-        },
-        {
-          "name": "Victor WAO",
-          "url": "https://open.spotify.com/artist/1ew4rMO5r0Oon1R9xZxo8Q"
-        },
-        {
-          "name": "Lucas Arcanjo",
-          "url": "https://open.spotify.com/artist/6qW2bDfMWa4kAvDCMPGDqj"
-        },
-        {
-          "name": "Andrei Zucco",
-          "url": "https://open.spotify.com/artist/1zFRuFu2fudXR6FQ4DgwUN"
-        }
-      ],
-      "duration_ms": 141120,
-      "name": "Voc\u00ea Falou pra Mim",
-      "url": "https://open.spotify.com/track/1tPgLKnmMJf6rp2m6YYBd1"
     },
     {
       "added_at": "2023-12-01 03:00:00",

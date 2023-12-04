@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT1RLff7HxDm.md) - [plain]
 
 > All live, all blues\. Cover: Christone "Kingfish" Ingram
 
-[Spotify](https://open.spotify.com/user/spotify) - 165,764 likes - 98 songs - 9 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 165,811 likes - 98 songs - 9 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT1RLff7HxDm.md) - [plain]
 | 8 | [Summertime \(Live\)](https://open.spotify.com/track/2kBpoD0of0GlqHcnlqp5JE) | [Joanne Shaw Taylor](https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Blues From The Heart Live \(Live\)](https://open.spotify.com/album/3HhP20GmF6tYJWAkbc1Dvp) | 5:49 |
 | 9 | [Empty Promises \- Live](https://open.spotify.com/track/1SoK3zrvJT21uI06ed25e7) | [Christone "Kingfish" Ingram](https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX) | [Empty Promises \(Live\)](https://open.spotify.com/album/3MuYZQPycwGmL0qu0rZNC9) | 7:49 |
 | 10 | [Thunder in the Sky \(Live at the Marshall Studio\)](https://open.spotify.com/track/3dGArQ1Z4jUSOc8fJ8n6kj) | [Laurence Jones](https://open.spotify.com/artist/2vX8hKHgReZ15YguZe3Zxj) | [Thunder in the Sky \(Live at the Marshall Studio\)](https://open.spotify.com/album/1eSGbs2e2grK3xqQmPjjc4) | 9:12 |
-| 11 | [Cotton Candy \- Live](https://open.spotify.com/track/2Reygj9CG2BmnNqZPULOuK) | [Robben Ford](https://open.spotify.com/artist/7C1CFA2GWGFc51SrvX5Bvy) | [Cotton Candy \(Live\)](https://open.spotify.com/album/3XGLVWhL9N8e1lotVkrE0G) | 4:20 |
+| 11 | [Cotton Candy \- Live](https://open.spotify.com/track/0aYwusuQt3uMApBVdpgheX) | [Robben Ford](https://open.spotify.com/artist/7C1CFA2GWGFc51SrvX5Bvy) | [Night In The City \(Live\)](https://open.spotify.com/album/4l5Vneh2HKO5EP6oSWquxb) | 4:20 |
 | 12 | [Gravity \- Live at the House of Blues, Chicago, Illinois, September 22, 2005](https://open.spotify.com/track/0FRoVng8IZZoS0ATxIgvuH) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [TRY! \- Live In Concert](https://open.spotify.com/album/0X9bvQYYtrAYdkO4OKtYwz) | 5:49 |
 | 13 | [Blue On Black \- Live](https://open.spotify.com/track/3rBYc8dlONJSWY6gJ3fUwQ) | [Kenny Wayne Shepherd](https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p) | [Straight To You: Live](https://open.spotify.com/album/7p4qRYemsDOLfWreax8Orc) | 4:59 |
 | 14 | [River of Tears \- Live](https://open.spotify.com/track/2n6uDmFnyUBqXk652GUGNl) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [One More Car, One More Rider \(Live\)](https://open.spotify.com/album/4YJ93uAqs42dsEdxuvhzp6) | 8:59 |
@@ -107,4 +107,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT1RLff7HxDm.md) - [plain]
 | 97 | [Keep On Growing \- Live](https://open.spotify.com/track/1vkMtRDV3rtqwjM9KH9WIy) | [Tedeschi Trucks Band](https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO) | [Live From The Fox Oakland](https://open.spotify.com/album/5N08TYY1GFOsd8apSoIeZ0) | 10:50 |
 | 98 | [Can't Let Go \- Live \(Remastered\)](https://open.spotify.com/track/4CCWEuncGYBFd46UOk3FHO) | [Koko Taylor](https://open.spotify.com/artist/04qIJRFjTmvW5I1DMyGE1R) | [I’m A Woman \[Live \(Remastered\)\]](https://open.spotify.com/album/2lz9vEEJCu5ucaaxWtNSr0) | 5:52 |
 
-Snapshot ID: `MCwzZTU1ODE0YTQxNDk4NDhiODZkYmE1ZmIxNzVjNjU1OGIwMmZmNmU1`
+Snapshot ID: `MCxhZDhjMGViNmY1MjJjMDg3MWZjZmRhNDE3N2UyMTJjYjYxYTFlM2Uz`

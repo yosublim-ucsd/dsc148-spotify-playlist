@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkYzU0ZTkzNDY2NmJhNzYyZDhjODRjNDNjMDZhZGNjMjA4NGY4NWEw",
+  "snapshot_id": "MCwwMDJhOTVjZWExMjIwM2JhZDE0YTllMWMzNjk5OTAxYzMyNGNlZGFl",
   "tracks": [
     {
       "added_at": "2023-09-15 09:04:35",
@@ -395,22 +395,6 @@
     {
       "added_at": "2023-09-15 09:04:35",
       "album": {
-        "name": "Tall Flowers",
-        "url": "https://open.spotify.com/album/4wRJlTF2NBkJmmQQ7BTstw"
-      },
-      "artists": [
-        {
-          "name": "Helen Wei",
-          "url": "https://open.spotify.com/artist/618kVtXxOEnfAasArnWgvA"
-        }
-      ],
-      "duration_ms": 126151,
-      "name": "Tall Flowers",
-      "url": "https://open.spotify.com/track/2Tl1TqpioP2h7A9ynq3HMA"
-    },
-    {
-      "added_at": "2023-09-15 09:04:35",
-      "album": {
         "name": "Under the Stars",
         "url": "https://open.spotify.com/album/51EkjvbQPcZksWNjfrUi91"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 136609,
       "name": "Under the Stars",
       "url": "https://open.spotify.com/track/4hBZeB6q56Jzq3wDh1MuPF"
+    },
+    {
+      "added_at": "2023-09-15 09:04:35",
+      "album": {
+        "name": "Tall Flowers",
+        "url": "https://open.spotify.com/album/4wRJlTF2NBkJmmQQ7BTstw"
+      },
+      "artists": [
+        {
+          "name": "Helen Wei",
+          "url": "https://open.spotify.com/artist/618kVtXxOEnfAasArnWgvA"
+        }
+      ],
+      "duration_ms": 126151,
+      "name": "Tall Flowers",
+      "url": "https://open.spotify.com/track/2Tl1TqpioP2h7A9ynq3HMA"
     },
     {
       "added_at": "2023-09-15 09:04:35",
@@ -587,22 +587,6 @@
     {
       "added_at": "2023-09-15 09:04:35",
       "album": {
-        "name": "Untroubled by a Rainy Day",
-        "url": "https://open.spotify.com/album/7BCgTPmYfV2YhtNsIXcYFR"
-      },
-      "artists": [
-        {
-          "name": "Celia Cloten",
-          "url": "https://open.spotify.com/artist/43K8HrRsXFfNZqCjavPbsa"
-        }
-      ],
-      "duration_ms": 183406,
-      "name": "Untroubled by a Rainy Day",
-      "url": "https://open.spotify.com/track/6v3HIQUCauIZNQZMo0MExg"
-    },
-    {
-      "added_at": "2023-09-15 09:04:35",
-      "album": {
         "name": "Fallen Apples\u2019 Scent",
         "url": "https://open.spotify.com/album/7y4unim8M3o09r7QjegH8p"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 152127,
       "name": "Fallen Apples\u2019 Scent",
       "url": "https://open.spotify.com/track/0kXnPmPo443VeP7XOi2Mai"
+    },
+    {
+      "added_at": "2023-09-15 09:04:35",
+      "album": {
+        "name": "Untroubled by a Rainy Day",
+        "url": "https://open.spotify.com/album/7BCgTPmYfV2YhtNsIXcYFR"
+      },
+      "artists": [
+        {
+          "name": "Celia Cloten",
+          "url": "https://open.spotify.com/artist/43K8HrRsXFfNZqCjavPbsa"
+        }
+      ],
+      "duration_ms": 183406,
+      "name": "Untroubled by a Rainy Day",
+      "url": "https://open.spotify.com/track/6v3HIQUCauIZNQZMo0MExg"
     },
     {
       "added_at": "2023-09-15 09:04:35",
@@ -699,22 +699,6 @@
     {
       "added_at": "2023-09-15 09:04:35",
       "album": {
-        "name": "I Found You",
-        "url": "https://open.spotify.com/album/5uW6Fo9RnB9IBjHcDtVVwQ"
-      },
-      "artists": [
-        {
-          "name": "Elijah Stone",
-          "url": "https://open.spotify.com/artist/0Z1kuJ3hjjRHW7h8hwowdu"
-        }
-      ],
-      "duration_ms": 143893,
-      "name": "Love Again",
-      "url": "https://open.spotify.com/track/3QFAzAqPqhFmpodso3L3zX"
-    },
-    {
-      "added_at": "2023-09-15 09:04:35",
-      "album": {
         "name": "I Close My Eyes To Find My place",
         "url": "https://open.spotify.com/album/3G4rNg0JNr9wPQJHF4FJvg"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 163097,
       "name": "I Close My Eyes To Find My place",
       "url": "https://open.spotify.com/track/27d0Kmy6IxFCfPjSXZn5eW"
+    },
+    {
+      "added_at": "2023-09-15 09:04:35",
+      "album": {
+        "name": "I Found You",
+        "url": "https://open.spotify.com/album/5uW6Fo9RnB9IBjHcDtVVwQ"
+      },
+      "artists": [
+        {
+          "name": "Elijah Stone",
+          "url": "https://open.spotify.com/artist/0Z1kuJ3hjjRHW7h8hwowdu"
+        }
+      ],
+      "duration_ms": 143893,
+      "name": "Love Again",
+      "url": "https://open.spotify.com/track/3QFAzAqPqhFmpodso3L3zX"
     },
     {
       "added_at": "2023-09-15 09:04:35",
@@ -811,22 +811,6 @@
     {
       "added_at": "2023-09-15 09:04:35",
       "album": {
-        "name": "N\u00faria",
-        "url": "https://open.spotify.com/album/35xNbujDkw7WI2064N4L53"
-      },
-      "artists": [
-        {
-          "name": "Riley Howe",
-          "url": "https://open.spotify.com/artist/2vloKEy3B9bqBKOkCewats"
-        }
-      ],
-      "duration_ms": 176207,
-      "name": "Bastiments",
-      "url": "https://open.spotify.com/track/1B3c71jCiMtb2CIpkzT2a7"
-    },
-    {
-      "added_at": "2023-09-15 09:04:35",
-      "album": {
         "name": "Past & Present",
         "url": "https://open.spotify.com/album/1YkLOGEug3hxm0QZPfWkcs"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 181174,
       "name": "Past & Present",
       "url": "https://open.spotify.com/track/43dy9gJMpgJmuhCS9fXreR"
+    },
+    {
+      "added_at": "2023-09-15 09:04:35",
+      "album": {
+        "name": "N\u00faria",
+        "url": "https://open.spotify.com/album/35xNbujDkw7WI2064N4L53"
+      },
+      "artists": [
+        {
+          "name": "Riley Howe",
+          "url": "https://open.spotify.com/artist/2vloKEy3B9bqBKOkCewats"
+        }
+      ],
+      "duration_ms": 176207,
+      "name": "Bastiments",
+      "url": "https://open.spotify.com/track/1B3c71jCiMtb2CIpkzT2a7"
     },
     {
       "added_at": "2023-09-15 09:04:35",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2023-09-15 09:04:35",
       "album": {
-        "name": "Shapes in the Sky",
-        "url": "https://open.spotify.com/album/7sxQpqFUHwHhz9xnUmUKol"
-      },
-      "artists": [
-        {
-          "name": "Tapperstand",
-          "url": "https://open.spotify.com/artist/5qiy3uNvNQrZycAMo6dOgH"
-        }
-      ],
-      "duration_ms": 171874,
-      "name": "Sunset on the Farmland",
-      "url": "https://open.spotify.com/track/5tvM2CxNOcCBY7Z2H9Xa12"
-    },
-    {
-      "added_at": "2023-09-15 09:04:35",
-      "album": {
         "name": "Empty Sky",
         "url": "https://open.spotify.com/album/1WoTK3nCb4P4Drcj8Jekw5"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 235752,
       "name": "Empty Sky",
       "url": "https://open.spotify.com/track/2eMQEd4Eak1eHAR3l8W2GL"
+    },
+    {
+      "added_at": "2023-09-15 09:04:35",
+      "album": {
+        "name": "Shapes in the Sky",
+        "url": "https://open.spotify.com/album/7sxQpqFUHwHhz9xnUmUKol"
+      },
+      "artists": [
+        {
+          "name": "Tapperstand",
+          "url": "https://open.spotify.com/artist/5qiy3uNvNQrZycAMo6dOgH"
+        }
+      ],
+      "duration_ms": 171874,
+      "name": "Sunset on the Farmland",
+      "url": "https://open.spotify.com/track/5tvM2CxNOcCBY7Z2H9Xa12"
     },
     {
       "added_at": "2023-09-15 09:04:35",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2023-09-15 09:04:35",
       "album": {
-        "name": "Keirin",
-        "url": "https://open.spotify.com/album/16u16SQul659X2qT4tc8Zw"
-      },
-      "artists": [
-        {
-          "name": "Paris Little",
-          "url": "https://open.spotify.com/artist/2Set9fzetOO5FobntPuLwl"
-        }
-      ],
-      "duration_ms": 186092,
-      "name": "Keirin",
-      "url": "https://open.spotify.com/track/0ZlIp06FN57EBXDO1oYeUp"
-    },
-    {
-      "added_at": "2023-09-15 09:04:35",
-      "album": {
         "name": "Valle dei Templi",
         "url": "https://open.spotify.com/album/1jJooUIuo50bNqtXWHpHCM"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 180070,
       "name": "Valle dei Templi",
       "url": "https://open.spotify.com/track/3rLW5KJLKyJdhGsBVeYcdm"
+    },
+    {
+      "added_at": "2023-09-15 09:04:35",
+      "album": {
+        "name": "Keirin",
+        "url": "https://open.spotify.com/album/16u16SQul659X2qT4tc8Zw"
+      },
+      "artists": [
+        {
+          "name": "Paris Little",
+          "url": "https://open.spotify.com/artist/2Set9fzetOO5FobntPuLwl"
+        }
+      ],
+      "duration_ms": 186092,
+      "name": "Keirin",
+      "url": "https://open.spotify.com/track/0ZlIp06FN57EBXDO1oYeUp"
     },
     {
       "added_at": "2023-09-15 09:04:35",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2023-09-15 09:04:35",
       "album": {
-        "name": "Viajando Solo",
-        "url": "https://open.spotify.com/album/4H7MijgiJFlbsVpP2vd1Ij"
-      },
-      "artists": [
-        {
-          "name": "Joseph Gonzalez",
-          "url": "https://open.spotify.com/artist/0Xx5c1qUSqajCgoUqS2dMa"
-        }
-      ],
-      "duration_ms": 163923,
-      "name": "Viajando Solo",
-      "url": "https://open.spotify.com/track/6zKkOpnyYB8sFhjK6NQRgX"
-    },
-    {
-      "added_at": "2023-09-15 09:04:35",
-      "album": {
         "name": "Unforced",
         "url": "https://open.spotify.com/album/1ID1Z4DCgMELtWTnLyscGQ"
       },
@@ -1503,6 +1487,22 @@
       "duration_ms": 141310,
       "name": "Unforced",
       "url": "https://open.spotify.com/track/56hk6GkYuk8AmUOdjPEYDb"
+    },
+    {
+      "added_at": "2023-09-15 09:04:35",
+      "album": {
+        "name": "Viajando Solo",
+        "url": "https://open.spotify.com/album/4H7MijgiJFlbsVpP2vd1Ij"
+      },
+      "artists": [
+        {
+          "name": "Joseph Gonzalez",
+          "url": "https://open.spotify.com/artist/0Xx5c1qUSqajCgoUqS2dMa"
+        }
+      ],
+      "duration_ms": 163923,
+      "name": "Viajando Solo",
+      "url": "https://open.spotify.com/track/6zKkOpnyYB8sFhjK6NQRgX"
     },
     {
       "added_at": "2023-09-15 09:04:35",
@@ -1851,22 +1851,6 @@
     {
       "added_at": "2023-09-15 09:04:35",
       "album": {
-        "name": "Isla de Pascua",
-        "url": "https://open.spotify.com/album/0wmc7SNnMXWIoTe3baSyFM"
-      },
-      "artists": [
-        {
-          "name": "Oscar Roland",
-          "url": "https://open.spotify.com/artist/1LPkJWKv7qfy9HxiZpW8rH"
-        }
-      ],
-      "duration_ms": 170847,
-      "name": "Isla de Pascua",
-      "url": "https://open.spotify.com/track/6BuUQ0PTBKyfc2AzGUNiBA"
-    },
-    {
-      "added_at": "2023-09-15 09:04:35",
-      "album": {
         "name": "The Bones (Acoustic Guitar)",
         "url": "https://open.spotify.com/album/5uhCEyOokgbICmNE3f8iyh"
       },
@@ -1879,6 +1863,22 @@
       "duration_ms": 219428,
       "name": "The Bones - Acoustic Guitar",
       "url": "https://open.spotify.com/track/0feIKFDxL7dsgdHZRWbdb4"
+    },
+    {
+      "added_at": "2023-09-15 09:04:35",
+      "album": {
+        "name": "Isla de Pascua",
+        "url": "https://open.spotify.com/album/0wmc7SNnMXWIoTe3baSyFM"
+      },
+      "artists": [
+        {
+          "name": "Oscar Roland",
+          "url": "https://open.spotify.com/artist/1LPkJWKv7qfy9HxiZpW8rH"
+        }
+      ],
+      "duration_ms": 170847,
+      "name": "Isla de Pascua",
+      "url": "https://open.spotify.com/track/6BuUQ0PTBKyfc2AzGUNiBA"
     },
     {
       "added_at": "2023-09-15 09:04:35",
@@ -2051,22 +2051,6 @@
     {
       "added_at": "2023-09-15 09:04:35",
       "album": {
-        "name": "By Your Side",
-        "url": "https://open.spotify.com/album/0Ds7KYC0QSnih2ikfZPoAx"
-      },
-      "artists": [
-        {
-          "name": "Colin Reed",
-          "url": "https://open.spotify.com/artist/1kyU4Wtac2j8uJO377RqTs"
-        }
-      ],
-      "duration_ms": 191308,
-      "name": "By Your Side",
-      "url": "https://open.spotify.com/track/69U72YqRzX3NUDlojqK6Uk"
-    },
-    {
-      "added_at": "2023-09-15 09:04:35",
-      "album": {
         "name": "Objects In The Mirror",
         "url": "https://open.spotify.com/album/3Mt8dK78eAAHcK4xcXbyIk"
       },
@@ -2079,6 +2063,22 @@
       "duration_ms": 170250,
       "name": "Objects In The Mirror",
       "url": "https://open.spotify.com/track/5XrP5bTKvbFSOUiF7oRWwy"
+    },
+    {
+      "added_at": "2023-09-15 09:04:35",
+      "album": {
+        "name": "By Your Side",
+        "url": "https://open.spotify.com/album/0Ds7KYC0QSnih2ikfZPoAx"
+      },
+      "artists": [
+        {
+          "name": "Colin Reed",
+          "url": "https://open.spotify.com/artist/1kyU4Wtac2j8uJO377RqTs"
+        }
+      ],
+      "duration_ms": 191308,
+      "name": "By Your Side",
+      "url": "https://open.spotify.com/track/69U72YqRzX3NUDlojqK6Uk"
     },
     {
       "added_at": "2023-09-15 09:04:35",
@@ -2099,22 +2099,6 @@
       "duration_ms": 227588,
       "name": "Cradle Song",
       "url": "https://open.spotify.com/track/6yzAM00PEx3nBUqTsUgkgz"
-    },
-    {
-      "added_at": "2023-09-15 09:04:35",
-      "album": {
-        "name": "Am Flussufer",
-        "url": "https://open.spotify.com/album/16sGnI2slEAdvJ1PHZkHmJ"
-      },
-      "artists": [
-        {
-          "name": "Erling Kruger",
-          "url": "https://open.spotify.com/artist/4yyGsrMPRSGVkD8eNDfIGB"
-        }
-      ],
-      "duration_ms": 175476,
-      "name": "Im Sonnenblumenfeld",
-      "url": "https://open.spotify.com/track/3IFZMY6ohZsOgTVcMyL5b8"
     },
     {
       "added_at": "2023-09-15 09:04:35",
@@ -2147,6 +2131,22 @@
       "duration_ms": 147317,
       "name": "Unknown",
       "url": "https://open.spotify.com/track/3GAGou6aIHq6LpVOWat8yl"
+    },
+    {
+      "added_at": "2023-09-15 09:04:35",
+      "album": {
+        "name": "Am Flussufer",
+        "url": "https://open.spotify.com/album/16sGnI2slEAdvJ1PHZkHmJ"
+      },
+      "artists": [
+        {
+          "name": "Erling Kruger",
+          "url": "https://open.spotify.com/artist/4yyGsrMPRSGVkD8eNDfIGB"
+        }
+      ],
+      "duration_ms": 175476,
+      "name": "Im Sonnenblumenfeld",
+      "url": "https://open.spotify.com/track/3IFZMY6ohZsOgTVcMyL5b8"
     },
     {
       "added_at": "2023-09-15 09:04:35",
@@ -2195,6 +2195,22 @@
       "duration_ms": 148374,
       "name": "Velvet Morning",
       "url": "https://open.spotify.com/track/6YNlei2JlZDPL0E0PgEiK1"
+    },
+    {
+      "added_at": "2023-09-15 09:04:35",
+      "album": {
+        "name": "El Antiguo Camino",
+        "url": "https://open.spotify.com/album/092tdrmx3Ot8b75qGeZg0q"
+      },
+      "artists": [
+        {
+          "name": "Atacustico",
+          "url": "https://open.spotify.com/artist/0rvubIwf5v5p5KqyCuVZmk"
+        }
+      ],
+      "duration_ms": 156501,
+      "name": "El Antiguo Camino",
+      "url": "https://open.spotify.com/track/6c7m8DqA9iH8R1PrA3DzVn"
     },
     {
       "added_at": "2023-09-15 09:04:35",
@@ -2275,22 +2291,6 @@
       "duration_ms": 270000,
       "name": "Borealis",
       "url": "https://open.spotify.com/track/2ysFggjX4SCyNJET0h7d7r"
-    },
-    {
-      "added_at": "2023-09-15 09:04:35",
-      "album": {
-        "name": "El Antiguo Camino",
-        "url": "https://open.spotify.com/album/092tdrmx3Ot8b75qGeZg0q"
-      },
-      "artists": [
-        {
-          "name": "Atacustico",
-          "url": "https://open.spotify.com/artist/0rvubIwf5v5p5KqyCuVZmk"
-        }
-      ],
-      "duration_ms": 156501,
-      "name": "El Antiguo Camino",
-      "url": "https://open.spotify.com/track/6c7m8DqA9iH8R1PrA3DzVn"
     },
     {
       "added_at": "2023-09-15 09:04:35",

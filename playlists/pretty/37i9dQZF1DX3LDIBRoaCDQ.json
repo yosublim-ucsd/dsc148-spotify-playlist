@@ -1,12 +1,12 @@
 {
   "description": "Classic songs that built the foundations of punk.",
-  "num_followers": 1545337,
+  "num_followers": 1545508,
   "original_name": "Classic Punk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZjFmMjk5NmEzNDJhZjhjNzVmYzIzNjY0NjMxOGI1ZWQzNTY2ZjI3",
+  "snapshot_id": "MCxkMjQwMDliYjE5MjRjYmFlNjFjZjhjNjUyMzI1MzVjMzJkOGRkZTQx",
   "tracks": [
     {
       "added_at": "2022-11-28 15:26:19",
@@ -255,6 +255,22 @@
     {
       "added_at": "2022-11-28 15:26:19",
       "album": {
+        "name": "This Year's Model (2021 Remaster)",
+        "url": "https://open.spotify.com/album/4RLIesiAVONV4fOUlOSmr4"
+      },
+      "artists": [
+        {
+          "name": "Elvis Costello & The Attractions",
+          "url": "https://open.spotify.com/artist/4qmHkMxr6pTWh5Zo74odpH"
+        }
+      ],
+      "duration_ms": 196680,
+      "name": "Pump It Up - 2021 Remaster",
+      "url": "https://open.spotify.com/track/3oyc1mIdCBGaU55wX7otqM"
+    },
+    {
+      "added_at": "2022-11-28 15:26:19",
+      "album": {
         "name": "Suicidal Tendencies",
         "url": "https://open.spotify.com/album/4hLSbWJ8HL8MUfIwrTP2EO"
       },
@@ -283,22 +299,6 @@
       "duration_ms": 136426,
       "name": "Human Fly",
       "url": "https://open.spotify.com/track/0ElRzK07sc9eszyk1ea9Ab"
-    },
-    {
-      "added_at": "2022-11-28 15:26:19",
-      "album": {
-        "name": "This Year's Model (2021 Remaster)",
-        "url": "https://open.spotify.com/album/4RLIesiAVONV4fOUlOSmr4"
-      },
-      "artists": [
-        {
-          "name": "Elvis Costello & The Attractions",
-          "url": "https://open.spotify.com/artist/4qmHkMxr6pTWh5Zo74odpH"
-        }
-      ],
-      "duration_ms": 196680,
-      "name": "Pump It Up - 2021 Remaster",
-      "url": "https://open.spotify.com/track/3oyc1mIdCBGaU55wX7otqM"
     },
     {
       "added_at": "2022-11-28 15:26:19",
@@ -535,22 +535,6 @@
     {
       "added_at": "2022-11-28 15:26:19",
       "album": {
-        "name": "The Clash (Remastered)",
-        "url": "https://open.spotify.com/album/49kzgMsxHU5CTeb2XmFHjo"
-      },
-      "artists": [
-        {
-          "name": "The Clash",
-          "url": "https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS"
-        }
-      ],
-      "duration_ms": 116440,
-      "name": "White Riot - Remastered",
-      "url": "https://open.spotify.com/track/0brrVj6VnvrG70SjRTnEJA"
-    },
-    {
-      "added_at": "2022-11-28 15:26:19",
-      "album": {
         "name": "First Two Seven Inches",
         "url": "https://open.spotify.com/album/6Sty6rLnMTXFjKxKUZEfmy"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 45160,
       "name": "Straight Edge",
       "url": "https://open.spotify.com/track/1x8N5sNHdQtY328uP5DxIp"
+    },
+    {
+      "added_at": "2022-11-28 15:26:19",
+      "album": {
+        "name": "The Clash (Remastered)",
+        "url": "https://open.spotify.com/album/49kzgMsxHU5CTeb2XmFHjo"
+      },
+      "artists": [
+        {
+          "name": "The Clash",
+          "url": "https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS"
+        }
+      ],
+      "duration_ms": 116440,
+      "name": "White Riot - Remastered",
+      "url": "https://open.spotify.com/track/0brrVj6VnvrG70SjRTnEJA"
     },
     {
       "added_at": "2022-11-28 15:26:19",
@@ -807,22 +807,6 @@
     {
       "added_at": "2022-11-28 15:26:19",
       "album": {
-        "name": "Off The Bone",
-        "url": "https://open.spotify.com/album/1n1znRLH7iRtkhjbrCs0wi"
-      },
-      "artists": [
-        {
-          "name": "The Cramps",
-          "url": "https://open.spotify.com/artist/4lYtGx5NZQJHsMyhHc5iz3"
-        }
-      ],
-      "duration_ms": 163133,
-      "name": "I Can't Hardly Stand It",
-      "url": "https://open.spotify.com/track/1gElMA7YL2UEE9njNW9eiR"
-    },
-    {
-      "added_at": "2022-11-28 15:26:19",
-      "album": {
         "name": "New York Dolls",
         "url": "https://open.spotify.com/album/2xbTV0Awe4Qm5caUVuPbMr"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 221506,
       "name": "Personality Crisis",
       "url": "https://open.spotify.com/track/4AwKXevZmsTNa3KZVj3rzl"
+    },
+    {
+      "added_at": "2022-11-28 15:26:19",
+      "album": {
+        "name": "Off The Bone",
+        "url": "https://open.spotify.com/album/1n1znRLH7iRtkhjbrCs0wi"
+      },
+      "artists": [
+        {
+          "name": "The Cramps",
+          "url": "https://open.spotify.com/artist/4lYtGx5NZQJHsMyhHc5iz3"
+        }
+      ],
+      "duration_ms": 163133,
+      "name": "I Can't Hardly Stand It",
+      "url": "https://open.spotify.com/track/1gElMA7YL2UEE9njNW9eiR"
     },
     {
       "added_at": "2022-11-28 15:26:19",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2022-11-28 15:26:19",
       "album": {
-        "name": "Marquee Moon",
-        "url": "https://open.spotify.com/album/630o1rKTDsLeIPreOY1jqP"
-      },
-      "artists": [
-        {
-          "name": "Television",
-          "url": "https://open.spotify.com/artist/0S7Zur2g8YhqlzqtlYStli"
-        }
-      ],
-      "duration_ms": 232960,
-      "name": "See No Evil",
-      "url": "https://open.spotify.com/track/2OaXmeYBJ0hcTmS3kxjJOx"
-    },
-    {
-      "added_at": "2022-11-28 15:26:19",
-      "album": {
         "name": "Young, Loud And Snotty",
         "url": "https://open.spotify.com/album/6SiRxD9eeJELm4TR8C6MDJ"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 189333,
       "name": "Sonic Reducer",
       "url": "https://open.spotify.com/track/678Fh7cIfN1sLqxsj5sc2G"
+    },
+    {
+      "added_at": "2022-11-28 15:26:19",
+      "album": {
+        "name": "Marquee Moon",
+        "url": "https://open.spotify.com/album/630o1rKTDsLeIPreOY1jqP"
+      },
+      "artists": [
+        {
+          "name": "Television",
+          "url": "https://open.spotify.com/artist/0S7Zur2g8YhqlzqtlYStli"
+        }
+      ],
+      "duration_ms": 232960,
+      "name": "See No Evil",
+      "url": "https://open.spotify.com/track/2OaXmeYBJ0hcTmS3kxjJOx"
     },
     {
       "added_at": "2022-11-28 15:26:19",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2022-11-28 15:26:19",
       "album": {
-        "name": "Never Mind The Bollocks, Here's The Sex Pistols",
-        "url": "https://open.spotify.com/album/5fxYu3rqjCNTSPKN8mtEl2"
-      },
-      "artists": [
-        {
-          "name": "Sex Pistols",
-          "url": "https://open.spotify.com/artist/1u7kkVrr14iBvrpYnZILJR"
-        }
-      ],
-      "duration_ms": 198160,
-      "name": "Pretty Vacant",
-      "url": "https://open.spotify.com/track/2mKj8Em0GLFu8I78yM1CfU"
-    },
-    {
-      "added_at": "2022-11-28 15:26:19",
-      "album": {
         "name": "Damned Damned Damned",
         "url": "https://open.spotify.com/album/0iMjUB1YIMadcP8DClMDU2"
       },
@@ -1207,18 +1191,18 @@
     {
       "added_at": "2022-11-28 15:26:19",
       "album": {
-        "name": "The Day the Country Died",
-        "url": "https://open.spotify.com/album/0Ac1BnAP68QE6d7vQATap1"
+        "name": "Never Mind The Bollocks, Here's The Sex Pistols",
+        "url": "https://open.spotify.com/album/5fxYu3rqjCNTSPKN8mtEl2"
       },
       "artists": [
         {
-          "name": "Subhumans",
-          "url": "https://open.spotify.com/artist/1lJNwrcZP9AEjFL7s8YdbK"
+          "name": "Sex Pistols",
+          "url": "https://open.spotify.com/artist/1u7kkVrr14iBvrpYnZILJR"
         }
       ],
-      "duration_ms": 164200,
-      "name": "Mickey Mouse Is Dead",
-      "url": "https://open.spotify.com/track/7hVubnmukfvV2dUXoxybpJ"
+      "duration_ms": 198160,
+      "name": "Pretty Vacant",
+      "url": "https://open.spotify.com/track/2mKj8Em0GLFu8I78yM1CfU"
     },
     {
       "added_at": "2022-11-28 15:26:19",
@@ -1235,6 +1219,22 @@
       "duration_ms": 297733,
       "name": "Gut Feeling / (Slap Your Mammy)",
       "url": "https://open.spotify.com/track/2vFaBeQqDVZW9SiJeiM4LU"
+    },
+    {
+      "added_at": "2022-11-28 15:26:19",
+      "album": {
+        "name": "The Day the Country Died",
+        "url": "https://open.spotify.com/album/0Ac1BnAP68QE6d7vQATap1"
+      },
+      "artists": [
+        {
+          "name": "Subhumans",
+          "url": "https://open.spotify.com/artist/1lJNwrcZP9AEjFL7s8YdbK"
+        }
+      ],
+      "duration_ms": 164200,
+      "name": "Mickey Mouse Is Dead",
+      "url": "https://open.spotify.com/track/7hVubnmukfvV2dUXoxybpJ"
     },
     {
       "added_at": "2022-11-28 15:26:19",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2022-11-28 15:26:19",
       "album": {
-        "name": "Entertainment!",
-        "url": "https://open.spotify.com/album/7LMOo068Ndv0wjTGUDtYqK"
-      },
-      "artists": [
-        {
-          "name": "Gang Of Four",
-          "url": "https://open.spotify.com/artist/3AmWjMXXtBJOmNGpUFSOAl"
-        }
-      ],
-      "duration_ms": 186493,
-      "name": "Natural's Not In It",
-      "url": "https://open.spotify.com/track/42wVwmI5Vt9H5hwcXHg59E"
-    },
-    {
-      "added_at": "2022-11-28 15:26:19",
-      "album": {
         "name": "The Crack",
         "url": "https://open.spotify.com/album/6BP8vPyK1EKId2CGoX1UKq"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 155186,
       "name": "Babylon's Burning",
       "url": "https://open.spotify.com/track/3T4pAHAgTbvLgGfUcTdYKa"
+    },
+    {
+      "added_at": "2022-11-28 15:26:19",
+      "album": {
+        "name": "Entertainment!",
+        "url": "https://open.spotify.com/album/7LMOo068Ndv0wjTGUDtYqK"
+      },
+      "artists": [
+        {
+          "name": "Gang Of Four",
+          "url": "https://open.spotify.com/artist/3AmWjMXXtBJOmNGpUFSOAl"
+        }
+      ],
+      "duration_ms": 186493,
+      "name": "Natural's Not In It",
+      "url": "https://open.spotify.com/track/42wVwmI5Vt9H5hwcXHg59E"
     },
     {
       "added_at": "2022-11-28 15:26:19",
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2022-11-28 15:26:19",
       "album": {
-        "name": "Young, Loud And Snotty",
-        "url": "https://open.spotify.com/album/6SiRxD9eeJELm4TR8C6MDJ"
-      },
-      "artists": [
-        {
-          "name": "Dead Boys",
-          "url": "https://open.spotify.com/artist/4RjtLUZNqLtMpRKIOaVokc"
-        }
-      ],
-      "duration_ms": 167400,
-      "name": "All This and More",
-      "url": "https://open.spotify.com/track/0JwGJgL8LCUFzDDPZNmQLa"
-    },
-    {
-      "added_at": "2022-11-28 15:26:19",
-      "album": {
         "name": "Big Lizard In My Backyard",
         "url": "https://open.spotify.com/album/6N8dOvnSvUMYQWBxC4uZeV"
       },
@@ -1507,6 +1491,22 @@
       "duration_ms": 109133,
       "name": "Dean's Dream",
       "url": "https://open.spotify.com/track/7zkGSISikPcskwsVQ5vKqW"
+    },
+    {
+      "added_at": "2022-11-28 15:26:19",
+      "album": {
+        "name": "Young, Loud And Snotty",
+        "url": "https://open.spotify.com/album/6SiRxD9eeJELm4TR8C6MDJ"
+      },
+      "artists": [
+        {
+          "name": "Dead Boys",
+          "url": "https://open.spotify.com/artist/4RjtLUZNqLtMpRKIOaVokc"
+        }
+      ],
+      "duration_ms": 167400,
+      "name": "All This and More",
+      "url": "https://open.spotify.com/track/0JwGJgL8LCUFzDDPZNmQLa"
     },
     {
       "added_at": "2022-11-28 15:26:19",
@@ -1527,22 +1527,6 @@
     {
       "added_at": "2022-11-28 15:26:19",
       "album": {
-        "name": "The Record",
-        "url": "https://open.spotify.com/album/5n0IOSvGqBJf92LorDWvRE"
-      },
-      "artists": [
-        {
-          "name": "Fear",
-          "url": "https://open.spotify.com/artist/0hPU1czS0JdstuT8VRtBPS"
-        }
-      ],
-      "duration_ms": 125040,
-      "name": "I Love Livin' in the City",
-      "url": "https://open.spotify.com/track/0qHt7KGw9LPm4Ms4qUZlSd"
-    },
-    {
-      "added_at": "2022-11-28 15:26:19",
-      "album": {
         "name": "The Complete Collection",
         "url": "https://open.spotify.com/album/15WcdixGcfsTud49iJObyb"
       },
@@ -1555,6 +1539,22 @@
       "duration_ms": 205720,
       "name": "Hurry Up Harry",
       "url": "https://open.spotify.com/track/4RybzcdR9VBwRgmGexXNMO"
+    },
+    {
+      "added_at": "2022-11-28 15:26:19",
+      "album": {
+        "name": "The Record",
+        "url": "https://open.spotify.com/album/5n0IOSvGqBJf92LorDWvRE"
+      },
+      "artists": [
+        {
+          "name": "Fear",
+          "url": "https://open.spotify.com/artist/0hPU1czS0JdstuT8VRtBPS"
+        }
+      ],
+      "duration_ms": 125040,
+      "name": "I Love Livin' in the City",
+      "url": "https://open.spotify.com/track/0qHt7KGw9LPm4Ms4qUZlSd"
     },
     {
       "added_at": "2022-11-28 15:26:19",
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2022-11-28 15:26:19",
       "album": {
-        "name": "Young, Loud And Snotty",
-        "url": "https://open.spotify.com/album/6SiRxD9eeJELm4TR8C6MDJ"
-      },
-      "artists": [
-        {
-          "name": "Dead Boys",
-          "url": "https://open.spotify.com/artist/4RjtLUZNqLtMpRKIOaVokc"
-        }
-      ],
-      "duration_ms": 130826,
-      "name": "What Love Is",
-      "url": "https://open.spotify.com/track/5Dl4cYpJHsmaMUlgTTViY6"
-    },
-    {
-      "added_at": "2022-11-28 15:26:19",
-      "album": {
         "name": "Complete Riot",
         "url": "https://open.spotify.com/album/6XNbcUWRawIjcIpAlW99Bd"
       },
@@ -1619,6 +1603,22 @@
       "duration_ms": 166533,
       "name": "Riot",
       "url": "https://open.spotify.com/track/7G3kh6Vtoc46aTS5GztTMD"
+    },
+    {
+      "added_at": "2022-11-28 15:26:19",
+      "album": {
+        "name": "New York Dolls",
+        "url": "https://open.spotify.com/album/2xbTV0Awe4Qm5caUVuPbMr"
+      },
+      "artists": [
+        {
+          "name": "New York Dolls",
+          "url": "https://open.spotify.com/artist/0WhGV9lzljq2QKJ8ipw6jx"
+        }
+      ],
+      "duration_ms": 167840,
+      "name": "Pills",
+      "url": "https://open.spotify.com/track/0EvHaC4YFOFxeDMYXK2QFk"
     }
   ],
   "unique_name": "Classic Punk",

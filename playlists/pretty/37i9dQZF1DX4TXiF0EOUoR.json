@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Los reyes del jaripeo!",
-  "num_followers": 156675,
+  "num_followers": 156853,
   "original_name": "Jaripeo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZWIwN2E1ZGEyNDMzYzlhNWQwNTExMmQ3ODgwZDAwMzkzMmFkYzYw",
+  "snapshot_id": "MCw3YzdlNGM5YmFlYTliMDVhMTJkOWU3ZWFhY2JiOGNhYjJkNWU5ODVk",
   "tracks": [
     {
       "added_at": "2022-12-30 18:59:47",
@@ -831,18 +831,18 @@
     {
       "added_at": "2022-12-30 18:59:47",
       "album": {
-        "name": "30 Aniversario",
-        "url": "https://open.spotify.com/album/6R0zUtsEyeLEPmWBhVmenf"
+        "name": "Olv\u00eddala",
+        "url": "https://open.spotify.com/album/6055KSpuhGP02JmbUIYRsh"
       },
       "artists": [
         {
-          "name": "La Adictiva",
-          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
+          "name": "Conjunto Nube",
+          "url": "https://open.spotify.com/artist/08Iky6YUq0V8qKzBiNdVS4"
         }
       ],
-      "duration_ms": 153760,
-      "name": "El Sinaloense",
-      "url": "https://open.spotify.com/track/3zZLLl6h70ggta49LwrYdd"
+      "duration_ms": 241946,
+      "name": "Las Huiliotas",
+      "url": "https://open.spotify.com/track/7x1cdHnfOZDuk6zX2EKeNI"
     },
     {
       "added_at": "2022-12-30 18:59:47",
@@ -863,18 +863,18 @@
     {
       "added_at": "2022-12-30 18:59:47",
       "album": {
-        "name": "Olv\u00eddala",
-        "url": "https://open.spotify.com/album/6055KSpuhGP02JmbUIYRsh"
+        "name": "30 Aniversario",
+        "url": "https://open.spotify.com/album/6R0zUtsEyeLEPmWBhVmenf"
       },
       "artists": [
         {
-          "name": "Conjunto Nube",
-          "url": "https://open.spotify.com/artist/08Iky6YUq0V8qKzBiNdVS4"
+          "name": "La Adictiva",
+          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
         }
       ],
-      "duration_ms": 241946,
-      "name": "Las Huiliotas",
-      "url": "https://open.spotify.com/track/7x1cdHnfOZDuk6zX2EKeNI"
+      "duration_ms": 153760,
+      "name": "El Sinaloense",
+      "url": "https://open.spotify.com/track/3zZLLl6h70ggta49LwrYdd"
     },
     {
       "added_at": "2022-12-30 18:59:47",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2022-12-30 18:59:47",
       "album": {
-        "name": "De Michoac\u00e1n al Guamuchil (Los Mejores Sones de Jaripeo)",
-        "url": "https://open.spotify.com/album/5L4DglvthWqL4C95K4xhzQ"
-      },
-      "artists": [
-        {
-          "name": "Banda Alte\u00f1ita de Morelia",
-          "url": "https://open.spotify.com/artist/17ND8vMcTSrwhZOUvG7CnA"
-        }
-      ],
-      "duration_ms": 183177,
-      "name": "Recuerdos a Hern\u00e1n",
-      "url": "https://open.spotify.com/track/6Jii7DExy2n4XzOGOhingJ"
-    },
-    {
-      "added_at": "2022-12-30 18:59:47",
-      "album": {
         "name": "Banda la Fregona: Primer Aniversario (En Vivo)",
         "url": "https://open.spotify.com/album/1OvXeQz11E5mRcz0cqQNx4"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 461333,
       "name": "Las Consentidas del Maka / El Coyotito / Los Colorados / Flor de Pi\u00f1a - En Vivo",
       "url": "https://open.spotify.com/track/7BbnJBLTG8ldzDHfED34iA"
+    },
+    {
+      "added_at": "2022-12-30 18:59:47",
+      "album": {
+        "name": "De Michoac\u00e1n al Guamuchil (Los Mejores Sones de Jaripeo)",
+        "url": "https://open.spotify.com/album/5L4DglvthWqL4C95K4xhzQ"
+      },
+      "artists": [
+        {
+          "name": "Banda Alte\u00f1ita de Morelia",
+          "url": "https://open.spotify.com/artist/17ND8vMcTSrwhZOUvG7CnA"
+        }
+      ],
+      "duration_ms": 183177,
+      "name": "Recuerdos a Hern\u00e1n",
+      "url": "https://open.spotify.com/track/6Jii7DExy2n4XzOGOhingJ"
     },
     {
       "added_at": "2022-12-30 18:59:47",
@@ -1239,38 +1239,6 @@
     {
       "added_at": "2022-12-30 18:59:47",
       "album": {
-        "name": "Arriba Mi Rancho",
-        "url": "https://open.spotify.com/album/6N3CeUo9y7YMRBvAfscZmZ"
-      },
-      "artists": [
-        {
-          "name": "El Nono y Su Banda Reina de Jerez",
-          "url": "https://open.spotify.com/artist/6koqQSKPGrPcFLjJvFHRxG"
-        }
-      ],
-      "duration_ms": 225410,
-      "name": "El Tecolotito",
-      "url": "https://open.spotify.com/track/7KIVHjoV0mOBr73wmb4Nhx"
-    },
-    {
-      "added_at": "2022-12-30 18:59:47",
-      "album": {
-        "name": "Por el Puro Gusto (Puro A\u00f1uuu Weiii)",
-        "url": "https://open.spotify.com/album/71gqtmiaV5bge2aAf7TCGT"
-      },
-      "artists": [
-        {
-          "name": "Banda La Fregona",
-          "url": "https://open.spotify.com/artist/5QjGlm1dx35Pgsg5S1hVf7"
-        }
-      ],
-      "duration_ms": 128501,
-      "name": "Por el Puro Gusto - Puro A\u00f1uuu Weiii",
-      "url": "https://open.spotify.com/track/1AhojDGBY8qjWWYsAkh58k"
-    },
-    {
-      "added_at": "2022-12-30 18:59:47",
-      "album": {
         "name": "Y Sigue la Historia (12 Exitos \u00a1\u00a1 la Explosiva!!)",
         "url": "https://open.spotify.com/album/54fAyGnLO7KQjjWdB1nQaV"
       },
@@ -1287,6 +1255,22 @@
     {
       "added_at": "2022-12-30 18:59:47",
       "album": {
+        "name": "Arriba Mi Rancho",
+        "url": "https://open.spotify.com/album/6N3CeUo9y7YMRBvAfscZmZ"
+      },
+      "artists": [
+        {
+          "name": "El Nono y Su Banda Reina de Jerez",
+          "url": "https://open.spotify.com/artist/6koqQSKPGrPcFLjJvFHRxG"
+        }
+      ],
+      "duration_ms": 225410,
+      "name": "El Tecolotito",
+      "url": "https://open.spotify.com/track/7KIVHjoV0mOBr73wmb4Nhx"
+    },
+    {
+      "added_at": "2022-12-30 18:59:47",
+      "album": {
         "name": "Mis Ra\u00edces",
         "url": "https://open.spotify.com/album/28jdssQUmFnGEN0II0Eqf5"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 162328,
       "name": "El Son Del Toro",
       "url": "https://open.spotify.com/track/1hkW3I5IYhPfskOedNULud"
+    },
+    {
+      "added_at": "2022-12-30 18:59:47",
+      "album": {
+        "name": "Por el Puro Gusto (Puro A\u00f1uuu Weiii)",
+        "url": "https://open.spotify.com/album/71gqtmiaV5bge2aAf7TCGT"
+      },
+      "artists": [
+        {
+          "name": "Banda La Fregona",
+          "url": "https://open.spotify.com/artist/5QjGlm1dx35Pgsg5S1hVf7"
+        }
+      ],
+      "duration_ms": 128501,
+      "name": "Por el Puro Gusto - Puro A\u00f1uuu Weiii",
+      "url": "https://open.spotify.com/track/1AhojDGBY8qjWWYsAkh58k"
     },
     {
       "added_at": "2022-12-30 18:59:47",

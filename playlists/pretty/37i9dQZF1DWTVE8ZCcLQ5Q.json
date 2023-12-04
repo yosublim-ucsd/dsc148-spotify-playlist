@@ -1,12 +1,12 @@
 {
   "description": "Descubra Abbot e novos talentos brasileiros no horizonte.",
-  "num_followers": 419232,
+  "num_followers": 419226,
   "original_name": "RADAR Brasil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NzllZGFlODgwNjA1ZDM0MzkwNDc3YWU5NjljY2Q5ZWRmOGQ4ZDQ0",
+  "snapshot_id": "MCw0NDZjZDMxMGZkNTZlNzMxZWFlYmY4MWU3OTRjNWVkNjY2MmUyMTY4",
   "tracks": [
     {
       "added_at": "2023-10-05 08:00:00",
@@ -247,6 +247,26 @@
     {
       "added_at": "2023-10-05 08:00:00",
       "album": {
+        "name": "Joga na Cara",
+        "url": "https://open.spotify.com/album/6wAmvT3thzRT1weMOvVABC"
+      },
+      "artists": [
+        {
+          "name": "MC Braz",
+          "url": "https://open.spotify.com/artist/7htxZTR76qcXYJylEmkLiJ"
+        },
+        {
+          "name": "MC Gabluca",
+          "url": "https://open.spotify.com/artist/3t79G9FgRevO8CGsP9B6I8"
+        }
+      ],
+      "duration_ms": 109846,
+      "name": "Joga na Cara",
+      "url": "https://open.spotify.com/track/1gKXrwKn5ub6wyefqMsnZp"
+    },
+    {
+      "added_at": "2023-10-05 08:00:00",
+      "album": {
         "name": "Movimento - Spotify Singles",
         "url": "https://open.spotify.com/album/21HW4JmG3uIqsHLExLFQnZ"
       },
@@ -271,26 +291,6 @@
       "duration_ms": 158076,
       "name": "Movimento - Spotify Singles",
       "url": "https://open.spotify.com/track/1U3oUPST65OhAz9PG4eAVv"
-    },
-    {
-      "added_at": "2023-10-05 08:00:00",
-      "album": {
-        "name": "Joga na Cara",
-        "url": "https://open.spotify.com/album/6wAmvT3thzRT1weMOvVABC"
-      },
-      "artists": [
-        {
-          "name": "MC Braz",
-          "url": "https://open.spotify.com/artist/7htxZTR76qcXYJylEmkLiJ"
-        },
-        {
-          "name": "MC Gabluca",
-          "url": "https://open.spotify.com/artist/3t79G9FgRevO8CGsP9B6I8"
-        }
-      ],
-      "duration_ms": 109846,
-      "name": "Joga na Cara",
-      "url": "https://open.spotify.com/track/1gKXrwKn5ub6wyefqMsnZp"
     },
     {
       "added_at": "2023-10-05 08:00:00",
@@ -687,22 +687,6 @@
     {
       "added_at": "2023-10-05 08:00:00",
       "album": {
-        "name": "Viciado em Voc\u00ea",
-        "url": "https://open.spotify.com/album/0cpzXFyvb1RroJP0sS4VYb"
-      },
-      "artists": [
-        {
-          "name": "Lucas Pretti",
-          "url": "https://open.spotify.com/artist/248XKLuHF7rx0BAJmgq1Op"
-        }
-      ],
-      "duration_ms": 147476,
-      "name": "Viciado em Voc\u00ea",
-      "url": "https://open.spotify.com/track/6ysuy7FHJrSMayidz0ni5D"
-    },
-    {
-      "added_at": "2023-10-05 08:00:00",
-      "album": {
         "name": "Encruzilhada",
         "url": "https://open.spotify.com/album/2Mfu5KHRKxv7NwkyKbFnwk"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 151374,
       "name": "Fogo",
       "url": "https://open.spotify.com/track/7pkFFPkSYa9JJY9dvZDjoc"
+    },
+    {
+      "added_at": "2023-10-05 08:00:00",
+      "album": {
+        "name": "Viciado em Voc\u00ea",
+        "url": "https://open.spotify.com/album/0cpzXFyvb1RroJP0sS4VYb"
+      },
+      "artists": [
+        {
+          "name": "Lucas Pretti",
+          "url": "https://open.spotify.com/artist/248XKLuHF7rx0BAJmgq1Op"
+        }
+      ],
+      "duration_ms": 147476,
+      "name": "Viciado em Voc\u00ea",
+      "url": "https://open.spotify.com/track/6ysuy7FHJrSMayidz0ni5D"
     },
     {
       "added_at": "2023-10-05 08:00:00",
@@ -871,6 +871,30 @@
     {
       "added_at": "2023-10-05 08:00:00",
       "album": {
+        "name": "O Justo N\u00e3o Treme",
+        "url": "https://open.spotify.com/album/1pm3hj3qfoAE19oN5paIec"
+      },
+      "artists": [
+        {
+          "name": "Veigh",
+          "url": "https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse"
+        },
+        {
+          "name": "Nagalli",
+          "url": "https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk"
+        },
+        {
+          "name": "Supernova Ent",
+          "url": "https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw"
+        }
+      ],
+      "duration_ms": 169057,
+      "name": "O Justo N\u00e3o Treme",
+      "url": "https://open.spotify.com/track/449BJmYTFxZiF3hIyRrrOw"
+    },
+    {
+      "added_at": "2023-10-05 08:00:00",
+      "album": {
         "name": "O outro lado do rio",
         "url": "https://open.spotify.com/album/1lVG4rP4Lqpk0fkHC5z61C"
       },
@@ -947,30 +971,6 @@
       "duration_ms": 171601,
       "name": "bonita e miser\u00e1vel",
       "url": "https://open.spotify.com/track/1ePCG4jmr5NWT84Pw678kZ"
-    },
-    {
-      "added_at": "2023-10-05 08:00:00",
-      "album": {
-        "name": "O Justo N\u00e3o Treme",
-        "url": "https://open.spotify.com/album/1pm3hj3qfoAE19oN5paIec"
-      },
-      "artists": [
-        {
-          "name": "Veigh",
-          "url": "https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse"
-        },
-        {
-          "name": "Nagalli",
-          "url": "https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk"
-        },
-        {
-          "name": "Supernova Ent",
-          "url": "https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw"
-        }
-      ],
-      "duration_ms": 169057,
-      "name": "O Justo N\u00e3o Treme",
-      "url": "https://open.spotify.com/track/449BJmYTFxZiF3hIyRrrOw"
     },
     {
       "added_at": "2023-10-05 08:00:00",
@@ -1227,26 +1227,6 @@
     {
       "added_at": "2023-10-05 08:00:00",
       "album": {
-        "name": "Droga Pesada (feat. Nairo)",
-        "url": "https://open.spotify.com/album/4HvKx6P0xAP9pU12U2a9Xa"
-      },
-      "artists": [
-        {
-          "name": "Anchietx",
-          "url": "https://open.spotify.com/artist/0Ld8rJ0rdAEAi2oe6seDEp"
-        },
-        {
-          "name": "Nairo",
-          "url": "https://open.spotify.com/artist/1D8czLMHw5DiZCQGd6xHXa"
-        }
-      ],
-      "duration_ms": 184615,
-      "name": "Droga Pesada (feat. Nairo)",
-      "url": "https://open.spotify.com/track/2CpsrN0SS2uMLsxBJLEB5h"
-    },
-    {
-      "added_at": "2023-10-05 08:00:00",
-      "album": {
         "name": "24K o Spotify Que Paga",
         "url": "https://open.spotify.com/album/36xMrm390G9SD1R6e1jtfR"
       },
@@ -1267,6 +1247,26 @@
       "duration_ms": 180000,
       "name": "24K o Spotify Que Paga",
       "url": "https://open.spotify.com/track/7x0begSPdxT8KgFgwG3XaQ"
+    },
+    {
+      "added_at": "2023-10-05 08:00:00",
+      "album": {
+        "name": "Droga Pesada (feat. Nairo)",
+        "url": "https://open.spotify.com/album/4HvKx6P0xAP9pU12U2a9Xa"
+      },
+      "artists": [
+        {
+          "name": "Anchietx",
+          "url": "https://open.spotify.com/artist/0Ld8rJ0rdAEAi2oe6seDEp"
+        },
+        {
+          "name": "Nairo",
+          "url": "https://open.spotify.com/artist/1D8czLMHw5DiZCQGd6xHXa"
+        }
+      ],
+      "duration_ms": 184615,
+      "name": "Droga Pesada (feat. Nairo)",
+      "url": "https://open.spotify.com/track/2CpsrN0SS2uMLsxBJLEB5h"
     },
     {
       "added_at": "2023-10-05 08:00:00",

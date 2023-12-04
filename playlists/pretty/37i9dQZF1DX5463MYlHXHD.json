@@ -1,12 +1,12 @@
 {
   "description": "Cumbia pa' volar la chapa con Papichamp, The la Planta, El negro tecla, Lolo OG & Locura Mix.",
-  "num_followers": 565228,
+  "num_followers": 565347,
   "original_name": "Cumbia de Barrio",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ZTEwYWM0NzdlZmNmNjJlYzU5MzFlNTI4YTBjMDljNjliMGUwZmVk",
+  "snapshot_id": "MCxhNzQyNjczM2YzYWNiODM4OWVlOTk0YjBmNzAyMDg5NWM5YTFhYzU2",
   "tracks": [
     {
       "added_at": "2023-12-01 17:43:10",
@@ -519,6 +519,22 @@
     {
       "added_at": "2023-12-01 17:43:10",
       "album": {
+        "name": "Cumbia Villera",
+        "url": "https://open.spotify.com/album/42K3CKzIBfuN9YnIZgLzmd"
+      },
+      "artists": [
+        {
+          "name": "Yerba Brava",
+          "url": "https://open.spotify.com/artist/7JRxvyluWYJ3M3ssmZrVs6"
+        }
+      ],
+      "duration_ms": 218680,
+      "name": "Pibe Cantina",
+      "url": "https://open.spotify.com/track/3d7pveUZGAg7wSSeL5nwNG"
+    },
+    {
+      "added_at": "2023-12-01 17:43:10",
+      "album": {
         "name": "CALLEJERO FINO | Mission 10",
         "url": "https://open.spotify.com/album/3iqAvQSDTyB34WTmKmL7hB"
       },
@@ -535,22 +551,6 @@
       "duration_ms": 168994,
       "name": "CALLEJERO FINO | Mission 10",
       "url": "https://open.spotify.com/track/12BLBKATlbWXPhuSNL8eAr"
-    },
-    {
-      "added_at": "2023-12-01 17:43:10",
-      "album": {
-        "name": "Cumbia Villera",
-        "url": "https://open.spotify.com/album/42K3CKzIBfuN9YnIZgLzmd"
-      },
-      "artists": [
-        {
-          "name": "Yerba Brava",
-          "url": "https://open.spotify.com/artist/7JRxvyluWYJ3M3ssmZrVs6"
-        }
-      ],
-      "duration_ms": 218680,
-      "name": "Pibe Cantina",
-      "url": "https://open.spotify.com/track/3d7pveUZGAg7wSSeL5nwNG"
     },
     {
       "added_at": "2023-12-01 17:43:10",
@@ -591,6 +591,22 @@
     {
       "added_at": "2023-12-01 17:43:10",
       "album": {
+        "name": "Tamo Chelo",
+        "url": "https://open.spotify.com/album/0Qq7s35RRXlEWQKsZIJ2DD"
+      },
+      "artists": [
+        {
+          "name": "EL NOBA",
+          "url": "https://open.spotify.com/artist/5MVcNHzaXuOnZSrOav2Kav"
+        }
+      ],
+      "duration_ms": 112507,
+      "name": "Tamo Chelo",
+      "url": "https://open.spotify.com/track/1Hv5uEwnI5UQEFvHWJaL3T"
+    },
+    {
+      "added_at": "2023-12-01 17:43:10",
+      "album": {
         "name": "6to Sentido (Una Vuelta)",
         "url": "https://open.spotify.com/album/4u3hJm3bh7L8lcANjjUINr"
       },
@@ -611,22 +627,6 @@
       "duration_ms": 128265,
       "name": "6to Sentido (Una Vuelta)",
       "url": "https://open.spotify.com/track/0j2p4MTvu6tfrK8UsKLS31"
-    },
-    {
-      "added_at": "2023-12-01 17:43:10",
-      "album": {
-        "name": "Tamo Chelo",
-        "url": "https://open.spotify.com/album/0Qq7s35RRXlEWQKsZIJ2DD"
-      },
-      "artists": [
-        {
-          "name": "EL NOBA",
-          "url": "https://open.spotify.com/artist/5MVcNHzaXuOnZSrOav2Kav"
-        }
-      ],
-      "duration_ms": 112507,
-      "name": "Tamo Chelo",
-      "url": "https://open.spotify.com/track/1Hv5uEwnI5UQEFvHWJaL3T"
     },
     {
       "added_at": "2023-12-01 17:43:10",
@@ -1355,6 +1355,34 @@
     {
       "added_at": "2023-12-01 17:43:10",
       "album": {
+        "name": "EXCUSAS (feat. Dj Lauuh)",
+        "url": "https://open.spotify.com/album/1eeSI54GxvlHs3AMnZhbK0"
+      },
+      "artists": [
+        {
+          "name": "OKY",
+          "url": "https://open.spotify.com/artist/6MLsGkmMLs3wFwNRleDyeU"
+        },
+        {
+          "name": "L-Gante",
+          "url": "https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq"
+        },
+        {
+          "name": "NEGRO DUB",
+          "url": "https://open.spotify.com/artist/65VS702SIPGgTpWgTQupMA"
+        },
+        {
+          "name": "Dj Lauuh",
+          "url": "https://open.spotify.com/artist/1spz7NNmvQQbTAyFxPGKAF"
+        }
+      ],
+      "duration_ms": 221333,
+      "name": "EXCUSAS (feat. Dj Lauuh)",
+      "url": "https://open.spotify.com/track/5CNMBlU7Ovc75rNEtenbVH"
+    },
+    {
+      "added_at": "2023-12-01 17:43:10",
+      "album": {
         "name": "Mujer yo te amo (Remix)",
         "url": "https://open.spotify.com/album/5plCO9O4DlTBlmkxqY2aOp"
       },
@@ -1395,30 +1423,6 @@
     {
       "added_at": "2023-12-01 17:43:10",
       "album": {
-        "name": "Cumbia del Recuerdo",
-        "url": "https://open.spotify.com/album/3obQ95iJxweMVROAlm7ETA"
-      },
-      "artists": [
-        {
-          "name": "Alan Gomez",
-          "url": "https://open.spotify.com/artist/6oMRQ5H3A2XA5I3RG3leni"
-        },
-        {
-          "name": "Rei",
-          "url": "https://open.spotify.com/artist/4IG1SDlwgNKzqTmjBrvY3K"
-        },
-        {
-          "name": "Salastkbron",
-          "url": "https://open.spotify.com/artist/3WMlRpW5JWuDI95TcEWt3r"
-        }
-      ],
-      "duration_ms": 177340,
-      "name": "Cumbia del Recuerdo",
-      "url": "https://open.spotify.com/track/3c0laaLc9hCQy8TB79noyh"
-    },
-    {
-      "added_at": "2023-12-01 17:43:10",
-      "album": {
         "name": "Es Corta la Bocha",
         "url": "https://open.spotify.com/album/3G9FLQq5jEbBVfdsjxp1BM"
       },
@@ -1451,30 +1455,26 @@
     {
       "added_at": "2023-12-01 17:43:10",
       "album": {
-        "name": "EXCUSAS (feat. Dj Lauuh)",
-        "url": "https://open.spotify.com/album/1eeSI54GxvlHs3AMnZhbK0"
+        "name": "Cumbia del Recuerdo",
+        "url": "https://open.spotify.com/album/3obQ95iJxweMVROAlm7ETA"
       },
       "artists": [
         {
-          "name": "OKY",
-          "url": "https://open.spotify.com/artist/6MLsGkmMLs3wFwNRleDyeU"
+          "name": "Alan Gomez",
+          "url": "https://open.spotify.com/artist/6oMRQ5H3A2XA5I3RG3leni"
         },
         {
-          "name": "L-Gante",
-          "url": "https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq"
+          "name": "Rei",
+          "url": "https://open.spotify.com/artist/4IG1SDlwgNKzqTmjBrvY3K"
         },
         {
-          "name": "NEGRO DUB",
-          "url": "https://open.spotify.com/artist/65VS702SIPGgTpWgTQupMA"
-        },
-        {
-          "name": "Dj Lauuh",
-          "url": "https://open.spotify.com/artist/1spz7NNmvQQbTAyFxPGKAF"
+          "name": "Salastkbron",
+          "url": "https://open.spotify.com/artist/3WMlRpW5JWuDI95TcEWt3r"
         }
       ],
-      "duration_ms": 221333,
-      "name": "EXCUSAS (feat. Dj Lauuh)",
-      "url": "https://open.spotify.com/track/5CNMBlU7Ovc75rNEtenbVH"
+      "duration_ms": 177340,
+      "name": "Cumbia del Recuerdo",
+      "url": "https://open.spotify.com/track/3c0laaLc9hCQy8TB79noyh"
     },
     {
       "added_at": "2023-12-01 17:43:10",
@@ -1899,6 +1899,22 @@
     {
       "added_at": "2023-12-01 17:43:10",
       "album": {
+        "name": "Lo Peor",
+        "url": "https://open.spotify.com/album/4YY5w9pSiVeWyNvAbIigBc"
+      },
+      "artists": [
+        {
+          "name": "Mala Fama",
+          "url": "https://open.spotify.com/artist/1AvkrI2S7knrbaZxydvc9B"
+        }
+      ],
+      "duration_ms": 236173,
+      "name": "La Motito de Carlitos",
+      "url": "https://open.spotify.com/track/1x9OQtBbG9UEOF0Hgpew6h"
+    },
+    {
+      "added_at": "2023-12-01 17:43:10",
+      "album": {
         "name": "La Gilera (Remix)",
         "url": "https://open.spotify.com/album/6PGwcy5RlZKN3PRIRsAwm3"
       },
@@ -1919,22 +1935,6 @@
       "duration_ms": 147107,
       "name": "La Gilera - Remix",
       "url": "https://open.spotify.com/track/75ShCUU5RS4NE8allIpJPa"
-    },
-    {
-      "added_at": "2023-12-01 17:43:10",
-      "album": {
-        "name": "Lo Peor",
-        "url": "https://open.spotify.com/album/4YY5w9pSiVeWyNvAbIigBc"
-      },
-      "artists": [
-        {
-          "name": "Mala Fama",
-          "url": "https://open.spotify.com/artist/1AvkrI2S7knrbaZxydvc9B"
-        }
-      ],
-      "duration_ms": 236173,
-      "name": "La Motito de Carlitos",
-      "url": "https://open.spotify.com/track/1x9OQtBbG9UEOF0Hgpew6h"
     },
     {
       "added_at": "2023-12-01 17:43:10",
@@ -2043,6 +2043,22 @@
     {
       "added_at": "2023-12-01 17:43:10",
       "album": {
+        "name": "M\u00e1s Duros que Nunca",
+        "url": "https://open.spotify.com/album/04iZ6FHnHyuJIOdWUwB8yS"
+      },
+      "artists": [
+        {
+          "name": "Flor De Piedra",
+          "url": "https://open.spotify.com/artist/1y54m0q1LQZ4kGhf7ZZFKd"
+        }
+      ],
+      "duration_ms": 238933,
+      "name": "La Jarra Loca",
+      "url": "https://open.spotify.com/track/5pv0g4YajPj4RN98CT0T24"
+    },
+    {
+      "added_at": "2023-12-01 17:43:10",
+      "album": {
         "name": "El Barrio",
         "url": "https://open.spotify.com/album/74nNhOfUeGDK98WrqaOlGd"
       },
@@ -2067,22 +2083,6 @@
       "duration_ms": 155368,
       "name": "El Barrio",
       "url": "https://open.spotify.com/track/56HxJH9N2DcRj0taX9mjb5"
-    },
-    {
-      "added_at": "2023-12-01 17:43:10",
-      "album": {
-        "name": "M\u00e1s Duros que Nunca",
-        "url": "https://open.spotify.com/album/04iZ6FHnHyuJIOdWUwB8yS"
-      },
-      "artists": [
-        {
-          "name": "Flor De Piedra",
-          "url": "https://open.spotify.com/artist/1y54m0q1LQZ4kGhf7ZZFKd"
-        }
-      ],
-      "duration_ms": 238933,
-      "name": "La Jarra Loca",
-      "url": "https://open.spotify.com/track/5pv0g4YajPj4RN98CT0T24"
     },
     {
       "added_at": "2023-12-01 17:43:10",

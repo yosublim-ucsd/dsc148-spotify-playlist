@@ -4,7 +4,7 @@
 
 > The whole family can worship together with these upbeat, inspirational songs.
 
-70 songs - 4 hr 3 min
+71 songs - 4 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,8 @@
 | [10,000 Armies \- Kids Version](https://open.spotify.com/track/2fVoexLeh71ItMts6APPnv) | [Influence Music Kids](https://open.spotify.com/artist/542wlUL6sF17e4UguG9y7z), [Whitney Medina](https://open.spotify.com/artist/2aEALllrzX6yHYGQkQ3jgZ) | [10,000 Armies](https://open.spotify.com/album/4hc8GEMNnQHaPBhii63ykk) | 3:16 | 2023-02-03 |  |
 | [2 Corinthians 5:17 \- The New Is Here](https://open.spotify.com/track/0GjeBooH639FE9cKDjAc3z) | [Hillsong Kids](https://open.spotify.com/artist/6B9zcemB6pCVlbLac9pwWF) | [Big Bible Verse Songs \(Collection 1\)](https://open.spotify.com/album/4fxwMXebtuHvSAFmNB4teh) | 1:38 | 2021-12-17 |  |
 | [Above The Noise](https://open.spotify.com/track/3oyNDBaHZBcjm2J0c0jGRM) | [Valley Creek Kids](https://open.spotify.com/artist/2f7xu7t7PTkbnt7cfeCxjs) | [Above The Noise](https://open.spotify.com/album/7BkJaIA2dSOWiN0ysTrI5A) | 3:31 | 2021-12-17 |  |
-| [Alive With You](https://open.spotify.com/track/2RV0A2ALFNQzmoiPbokUsj) | [Gateway Kids Worship](https://open.spotify.com/artist/5spb8btR2z1lSREzcyg56E), [Landree DePrang](https://open.spotify.com/artist/6xHFOZfBZv7bGG43jixotl) | [Alive With You](https://open.spotify.com/album/6RFaGa95Rvc8s5ptahTybj) | 3:14 | 2021-12-17 |  |
+| [Alive With You](https://open.spotify.com/track/2RV0A2ALFNQzmoiPbokUsj) | [Gateway Kids Worship](https://open.spotify.com/artist/5spb8btR2z1lSREzcyg56E), [Landree DePrang](https://open.spotify.com/artist/6xHFOZfBZv7bGG43jixotl) | [Alive With You](https://open.spotify.com/album/6RFaGa95Rvc8s5ptahTybj) | 3:14 | 2021-12-17 | 2023-12-04 |
+| [Alive With You](https://open.spotify.com/track/3f5IcwQK1ctqJxXW39nsaB) | [Gateway Kids Worship](https://open.spotify.com/artist/5spb8btR2z1lSREzcyg56E), [Landree DePrang](https://open.spotify.com/artist/6xHFOZfBZv7bGG43jixotl) | [Alive With You](https://open.spotify.com/album/3tRgYm24BzuInWNQ9g311x) | 3:14 | 2023-03-17 |  |
 | [All The Things](https://open.spotify.com/track/4VJDD8PDFTjzxaVohUBggh) | [Yancy](https://open.spotify.com/artist/3hm9cA8c92CwJnCIaGqaEu), [Little Praise Party](https://open.spotify.com/artist/58LoGVb6PvorhE0XwZwtYK) | [All The Things](https://open.spotify.com/album/07ztb4D77ZUFdMJ2NpVNoo) | 3:07 | 2021-12-17 |  |
 | [Brave \- Brave](https://open.spotify.com/track/4IpWEf6JwSGVSW3nC1SG10) | [Saddleback Kids Worship](https://open.spotify.com/artist/3JmOsw9Th41J8BDZ7QGM63) | [Brave Performance Tracks](https://open.spotify.com/album/38i0L7rD9dn8eW9LlBXjvc) | 3:28 | 2021-12-17 |  |
 | [Child of Heaven](https://open.spotify.com/track/5GV87c79eNOampknUGegJy) | [Calling Glory](https://open.spotify.com/artist/77Ide50jAEqgy2kRn2Nmc0) | [Child of Heaven](https://open.spotify.com/album/3xXBX5TzjyCNiVeFyZhb5o) | 3:57 | 2021-12-17 |  |

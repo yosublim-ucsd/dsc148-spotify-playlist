@@ -4,7 +4,7 @@
 
 > A heavy collision of punk, hardcore and everything in between\. Cover: Knocked Loose
 
-408 songs - 23 hr 25 min
+409 songs - 23 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -165,7 +165,7 @@
 | [Heart\-Shaped Box](https://open.spotify.com/track/0nv8LBkWyWSO5tFSYh2Kb1) | [Living in Fiction](https://open.spotify.com/artist/1AQHAqCjfAC3iitV5bd3ET) | [Heart\-Shaped Box](https://open.spotify.com/album/2jIJI9Bdb5U9N59ZsAo3v5) | 4:40 | 2021-11-30 | 2022-07-28 |
 | [Heavy Hearts](https://open.spotify.com/track/74W1MT74Vr6Z3FIE49DMWf) | [Boys of Fall](https://open.spotify.com/artist/0ILEjQuglCTYQkTrKGQvj5) | [Distance](https://open.spotify.com/album/5SyXDNKtQTzNiJ2aDQBPKA) | 3:33 | 2021-11-30 | 2022-07-17 |
 | [Heel](https://open.spotify.com/track/0bOkJLKU60EJ3Z6Kcl1ogk) | [Rarity](https://open.spotify.com/artist/2EIhbnEc2cvYIAsXXbo9tg) | [The Longest Lonesome](https://open.spotify.com/album/1K937ul4FkJiKufynQWtF4) | 3:03 | 2021-11-30 | 2022-07-27 |
-| [Hell Is Where The Heart Is](https://open.spotify.com/track/0O2b2DVpnhGFog8ENORm7x) | [Get Scared](https://open.spotify.com/artist/5r9uIJCoquVtEkCkvcn8Ez) | [The Dead Days](https://open.spotify.com/album/08M2nrcIACOFrgkjprl4Zn) | 3:32 | 2021-11-30 |  |
+| [Hell Is Where The Heart Is](https://open.spotify.com/track/0O2b2DVpnhGFog8ENORm7x) | [Get Scared](https://open.spotify.com/artist/5r9uIJCoquVtEkCkvcn8Ez) | [The Dead Days](https://open.spotify.com/album/08M2nrcIACOFrgkjprl4Zn) | 3:32 | 2021-11-30 | 2023-12-04 |
 | [Hereafter](https://open.spotify.com/track/3VGheGbJrEnGvwteXNBDNt) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [Holy Hell](https://open.spotify.com/album/3gh9LlHXtUEPkqsWj60Qy7) | 4:15 | 2022-04-01 |  |
 | [Hereafter](https://open.spotify.com/track/6u2qyJK7Zw5T5ZYgNtfVdM) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [Hereafter](https://open.spotify.com/album/21hp02VbDwdcfgJWQdZMTP) | 4:15 | 2021-11-30 | 2022-07-27 |
 | [Hiccup](https://open.spotify.com/track/50FLwADrMNPuw0ZPMcD08z) | [Sorry Mom](https://open.spotify.com/artist/0KZzhF4tqJGaVOrXXONmCX) | [Hiccup](https://open.spotify.com/album/3M52jxyf7VbA9jWQ9K5cSR) | 1:45 | 2023-03-17 |  |
@@ -388,6 +388,7 @@
 | [Tiresome](https://open.spotify.com/track/720uwDE0qE7yUDhUvUOCsj) | [Drug Church](https://open.spotify.com/artist/6q4AmzK3GzCuEzkurnYuEQ) | [Hygiene](https://open.spotify.com/album/7o7dfudZfiankIzcfXXamT) | 3:05 | 2022-03-11 | 2023-02-13 |
 | [To Carry \(On and On\)](https://open.spotify.com/track/664fHE7AIHGUjHC2WWtvmO) | [KOJI](https://open.spotify.com/artist/2YkHarpEDjDNHgqsIzklAs) | [To Carry \(On and On\)](https://open.spotify.com/album/2DWeyUoCGftGOifUTpF5el) | 3:05 | 2022-04-01 | 2022-04-21 |
 | [Together](https://open.spotify.com/track/1oHPc5Ay7inlsTBolZRVmP) | [Osatia](https://open.spotify.com/artist/5UBwuSmeshlKcUXHHT7siy) | [Together](https://open.spotify.com/album/6wKCOi6J5zNjfQzRynhMuZ) | 3:10 | 2021-11-30 | 2022-07-28 |
+| [Tradition](https://open.spotify.com/track/3Q74UTLLIxNdcI4l9VRcOM) | [Thousand Below](https://open.spotify.com/artist/0iU3WDujScAofxcK2EMypN) | [The Love You Let Too Close](https://open.spotify.com/album/1halV1wszbMMZ8DFZivS9V) | 3:22 | 2023-06-20 |  |
 | [Tradition](https://open.spotify.com/track/6lrXcmmm0Rsg1K5FdkZE0U) | [Thousand Below](https://open.spotify.com/artist/0iU3WDujScAofxcK2EMypN) | [The Love You Let Too Close](https://open.spotify.com/album/6hMVzepzCKSs0LRJ8KWjt3) | 3:22 | 2021-11-30 | 2023-11-05 |
 | [True Colors](https://open.spotify.com/track/258MqSb3ivwD5UW8teu04G) | [Jack the Envious](https://open.spotify.com/artist/4hO0GPE9lcbIKmL4VvdE9g) | [True Colors](https://open.spotify.com/album/0zmC8sXu0LgY6SJDj7NmWV) | 4:04 | 2021-11-30 | 2022-04-19 |
 | [Truth Hurts](https://open.spotify.com/track/0491Np0stXpsreInxyT2W8) | [Glass Tides](https://open.spotify.com/artist/3ss8CCHIds5hKnQ9un3dU0) | [Truth Hurts](https://open.spotify.com/album/2BeMq6ELGFRmLnlHYdS1hx) | 3:21 | 2021-11-30 | 2022-07-28 |

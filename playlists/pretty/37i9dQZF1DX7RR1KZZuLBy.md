@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7RR1KZZuLBy.md) - [plain]
 
 > Listen to your favourite tunes for inspiration and upliftment.
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,112 likes - 50 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,163 likes - 50 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7RR1KZZuLBy.md) - [plain]
 | 40 | [Haleluyah Mdumiseni \(Live\)](https://open.spotify.com/track/0cnL9GGXyZen3MtNb4pQCl) | [Lebo Sekgobela](https://open.spotify.com/artist/1s806zCT9QwrPEKEa0EEsx) | [Restored \(Live\)](https://open.spotify.com/album/4CVpV7NAYwOeWuZ9FSbFZ5) | 7:13 |
 | 41 | [Messiah \- Live](https://open.spotify.com/track/2BlNluQsQdl0OWmwXNl39u) | [Kgotso](https://open.spotify.com/artist/6OouFsAAeqVai70CLp8v0H) | [New Dawn \(Live\)](https://open.spotify.com/album/6qFzKdY5yFOapqLkrn8Mge) | 4:06 |
 | 42 | [Xa Ndiyekelelwa \(Live\)](https://open.spotify.com/track/3hWGj0qXuKwjyM3Lf9ATMI) | [Spirit Of Praise](https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa), [Tshepiso](https://open.spotify.com/artist/0eUzQtxmaaNwA1wkyq4b2I), [Thando](https://open.spotify.com/artist/3bQm9hhUUYYmq9RHfReyhn) | [Spirit of Praise, Vol\. 5 \(Live\)](https://open.spotify.com/album/5Et0R7qd6D6SupvR8TScaD) | 6:46 |
-| 43 | [Ba Buwa Ka Wena](https://open.spotify.com/track/6fw0kujZv4igzmpNwACBLQ) | [Lejwe La Motheo Artists Development](https://open.spotify.com/artist/4XmXrxfPJr90IYeBwKrlKT) | [Thapelo Yaka](https://open.spotify.com/album/6XLF0xSJM4KLIPqRhmaLUg) | 4:48 |
-| 44 | [Ungukuphila](https://open.spotify.com/track/53wwaMp15eGyE12Cm7sxLa) | [Xolly Mncwango](https://open.spotify.com/artist/3kSRqsGHRSxw2jBJ6DffE4) | [Jesus Is Enough](https://open.spotify.com/album/5zE9oNFI9xWwuhW11OOvii) | 5:56 |
+| 43 | [Ungukuphila](https://open.spotify.com/track/53wwaMp15eGyE12Cm7sxLa) | [Xolly Mncwango](https://open.spotify.com/artist/3kSRqsGHRSxw2jBJ6DffE4) | [Jesus Is Enough](https://open.spotify.com/album/5zE9oNFI9xWwuhW11OOvii) | 5:56 |
+| 44 | [Ba Buwa Ka Wena](https://open.spotify.com/track/6fw0kujZv4igzmpNwACBLQ) | [Lejwe La Motheo Artists Development](https://open.spotify.com/artist/4XmXrxfPJr90IYeBwKrlKT) | [Thapelo Yaka](https://open.spotify.com/album/6XLF0xSJM4KLIPqRhmaLUg) | 4:48 |
 | 45 | [Hallelujah Nkateko \(Lihle's Version\) \- Live](https://open.spotify.com/track/5RERHb5WKrWUKoqZniCpiJ) | [Joyous Celebration](https://open.spotify.com/artist/6jG7VTyXJjdrVP4jNjDX9W) | [Joyous Celebration, Vol\. 19 \(Back to the Cross\)](https://open.spotify.com/album/3xN472XytZrAW2HtcL6jNU) | 5:36 |
 | 46 | [Thandwa Ndim](https://open.spotify.com/track/55xuM0wTpunSG8BNtWPTuP) | [The Soil](https://open.spotify.com/artist/3UhCf5Cu963oXz9DseciIU), [Thee Legacy](https://open.spotify.com/artist/5GADpBUVFmE7gRJAswAHiX) | [Thandwa Ndim](https://open.spotify.com/album/06bVQgyIrwyPBaCmuwwrqH) | 4:31 |
 | 47 | [This Is A Move \- Live](https://open.spotify.com/track/776imhCfnvp9NoIYJ8uj0G) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [This Is A Move \(Live\)](https://open.spotify.com/album/5SH3LZPcZVx5fr6uQ7R2pF) | 7:25 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7RR1KZZuLBy.md) - [plain]
 | 49 | [Elshadai Adonai Medley \(Live\)](https://open.spotify.com/track/6Cu35kyDyoWUioEWyiYTpS) | [Spirit Of Praise](https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa), [Benjamin Dube](https://open.spotify.com/artist/2Bjh5lfBvG5Oy6gCtpSGy2), [Precious Mosotho](https://open.spotify.com/artist/2vQTWpv2T7PVBVomihqmwF) | [Spirit of Praise, Vol\. 5 \(Live\)](https://open.spotify.com/album/5Et0R7qd6D6SupvR8TScaD) | 7:00 |
 | 50 | [Bow Down and Worship \- Live](https://open.spotify.com/track/4pwIlf5w1m2gZJ97o49fpJ) | [Benjamin Dube](https://open.spotify.com/artist/2Bjh5lfBvG5Oy6gCtpSGy2) | [Glory in His Presence](https://open.spotify.com/album/4H0LkLQqfqbryyNUmzDvoq) | 10:55 |
 
-Snapshot ID: `MCxjMzZhM2EzYTIzNDZiMzgxNzRlZDA4MzFiZTU2MzQ0YTBmMWQ3M2Vi`
+Snapshot ID: `MCxhMWI3YTU3MDFiNTQxYjA5NzNhMGY0M2QxZjczNTA0MGNlOWJlYWNi`

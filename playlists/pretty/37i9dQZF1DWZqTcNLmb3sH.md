@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqTcNLmb3sH.md) - [plain]
 
 > Check out the latest hits from Sandalwood!<br/>Cover : Sapta Sagaradaache Ello \- Side B
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,977 likes - 76 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,990 likes - 76 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqTcNLmb3sH.md) - [plain]
 | 75 | [Yenidhu Hosa](https://open.spotify.com/track/3lgCFLGxttkoHVcMn0greF) | [Greeshma Tharavath](https://open.spotify.com/artist/38S7LZ9z3t1xYe8DLomnRY) | [Preetisabeda](https://open.spotify.com/album/5VrpAmC4Gz3hRShKLhmtxm) | 3:13 |
 | 76 | [Luv You Shankar \- Title Track \(Kannada\) \(From "Luv You Shankar"\)](https://open.spotify.com/track/5USiyt3zwXbm600onq3ijN) | [Vardan Singh](https://open.spotify.com/artist/4yeoysFmRgrJrMYtLlA7mF), [Shridevi Kalladka](https://open.spotify.com/artist/0aPeKQSd30fMdO5Nf4dqBh) | [Luv You Shankar \- Title Track \(Kannada\) \(From "Luv You Shankar"\)](https://open.spotify.com/album/2yVaS7goQ1uIxlLEkz9vWQ) | 3:57 |
 
-Snapshot ID: `MCxhNjI0NGNiZjRjZTdhNDM2MGNkMzIzYzIxZTg1YmViMGE2NTgyOGE3`
+Snapshot ID: `MCw1ZTAzYjBjMThjNTY0OTNiZjA2NGI2MmU4YTEzMDc5MjdjN2Y1Nzlj`

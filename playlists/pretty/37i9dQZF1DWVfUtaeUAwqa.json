@@ -1,12 +1,12 @@
 {
   "description": "Dixieland, Chicago Style and upbeat traditional jazz.",
-  "num_followers": 7576,
+  "num_followers": 7578,
   "original_name": "Hot-Jazz Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4YjUzNjFlZmFhMTY3OGJhMmU2YmI3NjAxOTcyMjc1ZTNkZjgyMjI0",
+  "snapshot_id": "MCxkM2M5MDA3MmM4ZjY1OTYwODhkMzEzY2VlMDdlZjRjOTM3MzVmYTk2",
   "tracks": [
     {
       "added_at": "2020-08-19 17:19:14",
@@ -631,6 +631,22 @@
     {
       "added_at": "2020-08-19 17:19:14",
       "album": {
+        "name": "Preservation Hall Hot 4 With Duke Dejan",
+        "url": "https://open.spotify.com/album/6zcn7J6jypQujdpAqOy8ZD"
+      },
+      "artists": [
+        {
+          "name": "Preservation Hall Hot 4 with Duke Dejan",
+          "url": "https://open.spotify.com/artist/6BM1PL11hO27q6qvFbKP1x"
+        }
+      ],
+      "duration_ms": 250986,
+      "name": "Ain't She Sweet",
+      "url": "https://open.spotify.com/track/2Yiwql4Qw3wFJjrE1XuJE8"
+    },
+    {
+      "added_at": "2020-08-19 17:19:14",
+      "album": {
         "name": "George Girard's Band",
         "url": "https://open.spotify.com/album/0pSfyYcO5ik5MklfWkVkpr"
       },
@@ -663,22 +679,6 @@
       "duration_ms": 179573,
       "name": "Roses of Picardy",
       "url": "https://open.spotify.com/track/2eksoro6WHBtJzAO4HdXar"
-    },
-    {
-      "added_at": "2020-08-19 17:19:14",
-      "album": {
-        "name": "Preservation Hall Hot 4 With Duke Dejan",
-        "url": "https://open.spotify.com/album/6zcn7J6jypQujdpAqOy8ZD"
-      },
-      "artists": [
-        {
-          "name": "Preservation Hall Hot 4 with Duke Dejan",
-          "url": "https://open.spotify.com/artist/6BM1PL11hO27q6qvFbKP1x"
-        }
-      ],
-      "duration_ms": 250986,
-      "name": "Ain't She Sweet",
-      "url": "https://open.spotify.com/track/2Yiwql4Qw3wFJjrE1XuJE8"
     },
     {
       "added_at": "2020-08-19 17:19:14",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZGggG8QsBEe.md) - [plain]
 
 > A flow of white water noise, let go to the soothing rush of cascading waterfall sounds.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,083 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,094 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZGggG8QsBEe.md) - [plain]
 | 14 | [Feel The River](https://open.spotify.com/track/6MLGJkWExg0JHkG5Sq3B50) | [Beyond North](https://open.spotify.com/artist/6onIiLSkWuZJipFErBA0dk) | [Feel The River](https://open.spotify.com/album/54zVwrIbAn0hn99p2cOegi) | 3:20 |
 | 15 | [focus water stream](https://open.spotify.com/track/1pEJlVzcCKCLV8JW0TYCB2) | [Sounds of Beauty](https://open.spotify.com/artist/0HVe7pR5Jimsjvw7NTNala) | [Water Sounds](https://open.spotify.com/album/1NEKfuhrHdM1r7hDVe01EK) | 3:39 |
 | 16 | [Rapids](https://open.spotify.com/track/3gopInHfz9y4iTE6F9qp99) | [Creatress](https://open.spotify.com/artist/6wwfROG3fnqz3jyGV3ngPQ) | [River Spirit](https://open.spotify.com/album/6zw5YaZq3tuXwSvTcj79QT) | 3:34 |
-| 17 | [Cascading Water](https://open.spotify.com/track/3xzldmkvd3FcrdWV6Zz3sA) | [Pacific Soundscapes](https://open.spotify.com/artist/7lfs7TkGNBX0j3VO4pK70s) | [Cascading Water](https://open.spotify.com/album/18pUis5CO7ljukwfgO9BI4) | 2:30 |
-| 18 | [Plattekill River](https://open.spotify.com/track/3cyLymtvq4PI0etgqfxv5C) | [Blue Stone Sanctuary](https://open.spotify.com/artist/6FGkUJ63qsP7AEvATT5cK9) | [Wilderness Trail](https://open.spotify.com/album/3C16hqCiTAmMeJVET66Mx0) | 2:42 |
+| 17 | [Plattekill River](https://open.spotify.com/track/3cyLymtvq4PI0etgqfxv5C) | [Blue Stone Sanctuary](https://open.spotify.com/artist/6FGkUJ63qsP7AEvATT5cK9) | [Wilderness Trail](https://open.spotify.com/album/3C16hqCiTAmMeJVET66Mx0) | 2:42 |
+| 18 | [Cascading Water](https://open.spotify.com/track/3xzldmkvd3FcrdWV6Zz3sA) | [Pacific Soundscapes](https://open.spotify.com/artist/7lfs7TkGNBX0j3VO4pK70s) | [Cascading Water](https://open.spotify.com/album/18pUis5CO7ljukwfgO9BI4) | 2:30 |
 | 19 | [Rushing River](https://open.spotify.com/track/4V7dNNQvwoGgC5DB6dTTro) | [Calming Water](https://open.spotify.com/artist/0BEeBDjTHbZ0SS6NVRNcUn) | [Flowing Water Sounds](https://open.spotify.com/album/1UQ0LjwnbWi1jxwpT6U1nn) | 2:35 |
 | 20 | [Big Waterfall Noise](https://open.spotify.com/track/0pO9qE6D7shEievEUJtCld) | [Noise and Nature](https://open.spotify.com/artist/2hcGTRaH2FXoKel4UTGWJ0) | [Waterfall Sleep Noises](https://open.spotify.com/album/6cyRxitvNynnQFZqkZLNuE) | 4:22 |
 | 21 | [Waterfall Stream](https://open.spotify.com/track/6C8eyK8mC1cmqaTx99v36x) | [Natural Waters](https://open.spotify.com/artist/0nIJ15ViXXRyCe6mRqPOaD) | [At the Waterfall](https://open.spotify.com/album/30bgRxzTaRDFcNnm8wdpaP) | 2:24 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZGggG8QsBEe.md) - [plain]
 | 49 | [Close To the Water](https://open.spotify.com/track/1xP9ZeGYT6D20Mpw3phS88) | [Embrace the Rain](https://open.spotify.com/artist/5sZvIwOBG1ngPYqGjzK5C2) | [Close To the Water](https://open.spotify.com/album/4H3pblqHqEsyPjgBaeLHnd) | 3:20 |
 | 50 | [Waterfalls in the Distance \(No Fade\)](https://open.spotify.com/track/2Tfzr7lXi8B9zTcekESN7g) | [Textures of Nature](https://open.spotify.com/artist/1cHBh4M6X8d6UYnkh6geMs) | [Water, Rain and Rivers](https://open.spotify.com/album/4eAsgCIds4uzsQuSCzLkDh) | 2:48 |
 
-Snapshot ID: `MCw5Y2ViNzczN2U2YjU3Y2NkN2YzN2QwMzJlMWU4ODAzYWEyN2M2NGRk`
+Snapshot ID: `MCw4OTg4NmE5ZDRkOTJlZGZiMGE3YmVjMjRkOTliYzJhMGM4YTlmYmE4`

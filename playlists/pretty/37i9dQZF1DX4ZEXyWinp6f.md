@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ZEXyWinp6f.md) - [plain]
 
 > Fold time and space through sound to reach imaginary universes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 229,443 likes - 75 songs - 6 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 229,483 likes - 75 songs - 6 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ZEXyWinp6f.md) - [plain]
 | 24 | [Lone Machine](https://open.spotify.com/track/0IZ9KgBNgV0AUw9jStNkvj) | [Yotto](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo) | [Erased Dreams](https://open.spotify.com/album/6Q67qjhJcBsMPWS3PXF8kv) | 3:36 |
 | 25 | [SOTRS](https://open.spotify.com/track/2FlB3fJcGaohJORO93cNWv) | [Caterina Barbieri](https://open.spotify.com/artist/61WgG5fz5ilJrMne7tE1zu) | [Patterns Of Consciousness](https://open.spotify.com/album/0NzTh2r6EOk9JDWkRHkeYS) | 9:30 |
 | 26 | [The Ladder](https://open.spotify.com/track/0mThH0uqT9pmj5cCS7Oeoj) | [Röyksopp](https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH) | [The Ladder](https://open.spotify.com/album/42EOGihk8LGxmFHtTHPLSi) | 5:33 |
-| 27 | [Tales of the Future](https://open.spotify.com/track/21aDHnHXtZqnxqLaD0chkG) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Blade Runner \(Music From The Original Soundtrack\)](https://open.spotify.com/album/6NkuCdMz5tGmHbOXAWbtCW) | 4:46 |
-| 28 | [Briefly](https://open.spotify.com/track/0qSjSC6I0puPWQbyQXOIAf) | [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp) | [Music for Animals](https://open.spotify.com/album/0w4P2GvCEY7rVxdU1rrnxJ) | 27:02 |
+| 27 | [Briefly](https://open.spotify.com/track/0qSjSC6I0puPWQbyQXOIAf) | [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp) | [Music for Animals](https://open.spotify.com/album/0w4P2GvCEY7rVxdU1rrnxJ) | 27:02 |
+| 28 | [Tales of the Future](https://open.spotify.com/track/21aDHnHXtZqnxqLaD0chkG) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Blade Runner \(Music From The Original Soundtrack\)](https://open.spotify.com/album/6NkuCdMz5tGmHbOXAWbtCW) | 4:46 |
 | 29 | [Spacelab \- 2009 Remaster](https://open.spotify.com/track/48Q7pVDuBivnR5rdf6RGYT) | [Kraftwerk](https://open.spotify.com/artist/0dmPX6ovclgOy8WWJaFEUU) | [The Man\-Machine \(2009 Remaster\)](https://open.spotify.com/album/3eyz60xEK5dGEeZF1JJSi9) | 5:57 |
 | 30 | [Transmission 01](https://open.spotify.com/track/5rbSdmjpfIXrAfSMRIh2eS) | [Wojciech Golczewski](https://open.spotify.com/artist/7GTDYl4iOKyUUdQVJXlmy0) | [End of Transmission](https://open.spotify.com/album/73dzZJt3kdrqH4T9luIhKb) | 3:23 |
 | 31 | [Welcome to Lunar Industries](https://open.spotify.com/track/4NkxNXR19hl20qlB2DOgAx) | [Clint Mansell](https://open.spotify.com/artist/01xiB0IlXMXy3wrrotgDnU) | [Moon \(Original Score\)](https://open.spotify.com/album/0ux9vxJhJoFKaD66UH3160) | 7:11 |
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ZEXyWinp6f.md) - [plain]
 | 33 | [Schöne Hände](https://open.spotify.com/track/1WbwlYiiMZGQlrFGirRnHv) | [Cluster](https://open.spotify.com/artist/5mNY0NPszdalbrb4ITO3M8), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Cluster & Eno](https://open.spotify.com/album/0VSmGsL1RtyjE7bdAaSAvy) | 3:05 |
 | 34 | [1983 \- Main Theme](https://open.spotify.com/track/7cbccIqslt9et0xpkmcCaa) | [Sinoia Caves](https://open.spotify.com/artist/3PiClMYSnMYHCc2T11m9cd) | [Beyond The Black Rainbow \- Original Soundtrack](https://open.spotify.com/album/5cbwOeQ5ScNqV942hoet9P) | 3:19 |
 | 35 | [4T Recordings](https://open.spotify.com/track/4Apw7hpz0mMcYeNhNZq3ml) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [4T Recordings](https://open.spotify.com/album/1TP8nDCTDUaVGFr6lfQ61r) | 3:17 |
-| 36 | [CREEK](https://open.spotify.com/track/6UYWctsd0e6g2m9JvXzErv) | [Hiroshi Yoshimura](https://open.spotify.com/artist/1DGpHnPOpMYY780hcQHmPB) | [Green](https://open.spotify.com/album/07KJ48Y7pbXvz3Q4H44GZl) | 4:53 |
-| 37 | [Music for the Future](https://open.spotify.com/track/3HZfbuTw5JLEv4z94rl7U7) | [MIKE DEAN](https://open.spotify.com/artist/5TAipisjquAkq2o7lzMJyc) | [4:23](https://open.spotify.com/album/0ACtwMaMVewYM4hFu9FXhZ) | 4:28 |
+| 36 | [Music for the Future](https://open.spotify.com/track/3HZfbuTw5JLEv4z94rl7U7) | [MIKE DEAN](https://open.spotify.com/artist/5TAipisjquAkq2o7lzMJyc) | [4:23](https://open.spotify.com/album/0ACtwMaMVewYM4hFu9FXhZ) | 4:28 |
+| 37 | [CREEK](https://open.spotify.com/track/6UYWctsd0e6g2m9JvXzErv) | [Hiroshi Yoshimura](https://open.spotify.com/artist/1DGpHnPOpMYY780hcQHmPB) | [Green](https://open.spotify.com/album/07KJ48Y7pbXvz3Q4H44GZl) | 4:53 |
 | 38 | [Aura](https://open.spotify.com/track/0zYhhEnVPmb1cTwPYeCO44) | [Wojciech Golczewski](https://open.spotify.com/artist/7GTDYl4iOKyUUdQVJXlmy0) | [The Priests Of Hiroshima](https://open.spotify.com/album/4qRNz1VSyZ7njYp3UKqKcu) | 2:41 |
 | 39 | [Deep Distance](https://open.spotify.com/track/2cRQA17KKBy0pklGxGZ699) | [Ashra](https://open.spotify.com/artist/4qzIpmopZ2KVodpmw7uJKe) | [New Age Of Earth](https://open.spotify.com/album/5mzjUmksmRKYZ3WvzAGaA1) | 5:49 |
 | 40 | [First Encounter](https://open.spotify.com/track/7Et10xE2nh3VG94O1948Zh) | [Jóhann Jóhannsson](https://open.spotify.com/artist/3IpQziA6YwD53PQ5xbwgLF) | [Arrival \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3GDfBsNm22NeGSP2vQDWnO) | 4:49 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ZEXyWinp6f.md) - [plain]
 | 45 | [Margin](https://open.spotify.com/track/5ftP8UAivGwdKrLtiXCDcX) | [Abstract Aprils](https://open.spotify.com/artist/0tEsiY5wdNsxeUga1b8yu0) | [Margin](https://open.spotify.com/album/4VHeuhHxD88i9lWoispU9I) | 5:16 |
 | 46 | [Red Tide](https://open.spotify.com/track/2pu5g2H7FrseHcmYev97bR) | [Loscil](https://open.spotify.com/artist/3GM5cpCBadq2PMHjFoEvhK) | [Monument Builders](https://open.spotify.com/album/1anZBWOeghB5twG4CyJdoc) | 5:25 |
 | 47 | [Vision](https://open.spotify.com/track/2zVr2mii2iTDTag39yjf3b) | [Pyramid](https://open.spotify.com/artist/3aSTe6gzR3XChH1wcLfhmD) | [Atmosphere](https://open.spotify.com/album/1Qefhd4hwDiSjtooxAjdhM) | 3:10 |
-| 48 | [12121](https://open.spotify.com/track/5pkL6YfK1bM4KLqZpAu0B0) | [slowave](https://open.spotify.com/artist/4qLBeNbe5Sep5YVjZi7P65) | [Biologica, Volume One \(Water\)](https://open.spotify.com/album/3Sm17KhWd2g1ssYL1425mq) | 2:36 |
-| 49 | [\-\- ・ \-・・ ・ ・\-・・ ・\-](https://open.spotify.com/track/4akqPnWyCOWL0QNxQsXsNk) | [･ ･－･ ･－ ･･･ ･ －･･](https://open.spotify.com/artist/0EUOiLsLpv9g7H9YCzUnBS) | [\-\- ・ \-・・ ・ ・\-・・ ・\-](https://open.spotify.com/album/1NogWso5ElfJe4n8qKSdy9) | 8:44 |
+| 48 | [\-\- ・ \-・・ ・ ・\-・・ ・\-](https://open.spotify.com/track/4akqPnWyCOWL0QNxQsXsNk) | [･ ･－･ ･－ ･･･ ･ －･･](https://open.spotify.com/artist/0EUOiLsLpv9g7H9YCzUnBS) | [\-\- ・ \-・・ ・ ・\-・・ ・\-](https://open.spotify.com/album/1NogWso5ElfJe4n8qKSdy9) | 8:44 |
+| 49 | [12121](https://open.spotify.com/track/5pkL6YfK1bM4KLqZpAu0B0) | [slowave](https://open.spotify.com/artist/4qLBeNbe5Sep5YVjZi7P65) | [Biologica, Volume One \(Water\)](https://open.spotify.com/album/3Sm17KhWd2g1ssYL1425mq) | 2:36 |
 | 50 | [you're not alone](https://open.spotify.com/track/3BDNaH01PE6gJ9LwNe97Ya) | [METAHESH](https://open.spotify.com/artist/0GOeXrdg9HYdG0etf07eyP) | [you're not alone](https://open.spotify.com/album/6FsgtZ55Th99hbLori1oW0) | 2:52 |
 | 51 | [Yesterday's Entertainment](https://open.spotify.com/track/0C2aF4G83wcMUuxE7nuMC9) | [Pye Corner Audio](https://open.spotify.com/artist/3ib3ECT421EXd8CNLfNqAL) | [Sleep Games](https://open.spotify.com/album/3nnoTf0rwR6uhkLne621Ec) | 2:12 |
 | 52 | [Wind On Water](https://open.spotify.com/track/3PpLfTKoQtN2s2GPmrSrWt) | [Robert Fripp](https://open.spotify.com/artist/5HKpBHDxIDNdtmEAGXGntl), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Evening Star](https://open.spotify.com/album/6VeZbitYSYxhDJEm7Wf2k4) | 5:29 |
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ZEXyWinp6f.md) - [plain]
 | 61 | [Running](https://open.spotify.com/track/0VzV34W0NidIVjz6IPlEEV) | [Rival Consoles](https://open.spotify.com/artist/05lIUgmmsmTX2N9dCKc8rC) | [Now Is](https://open.spotify.com/album/5volqabPjMCyMnT1GZKYgz) | 4:11 |
 | 62 | [10°C](https://open.spotify.com/track/2gKuOZoUGk56md4lgf9eq9) | [Whatever The Weather](https://open.spotify.com/artist/49y4h4GL1qZZ3KwYIb9NfQ) | [Whatever The Weather](https://open.spotify.com/album/1WL4LG5vRVBARp8QI5wA5O) | 4:22 |
 | 63 | [Subtractive Skies](https://open.spotify.com/track/3ehy5UoF8LJfWmJpm4UHOI) | [Steve Hauschildt](https://open.spotify.com/artist/2L00vHmYcwC9OlsEv6M5UO) | [Nonlin](https://open.spotify.com/album/1HG66ZvnAjtbKyWoXvBLTn) | 6:46 |
-| 64 | [Detroit People Mover](https://open.spotify.com/track/2g8v1yWbbFM6Gb7FLyJrgu) | [Squarepusher](https://open.spotify.com/artist/4mtHSXwIHihO6MWNq5Qoko) | [Be Up A Hello](https://open.spotify.com/album/0dPj5xfT7jv9XxRhPbfGuH) | 4:26 |
-| 65 | [Is This Power](https://open.spotify.com/track/0Q70gojAQn9mTAdY15tWzM) | [The Field](https://open.spotify.com/artist/23MIhFHpoOuhtEHZDrrnCS) | [Looping State Of Mind](https://open.spotify.com/album/6h1LdVhHDirAXwgDFftCL0) | 8:39 |
+| 64 | [Is This Power](https://open.spotify.com/track/0Q70gojAQn9mTAdY15tWzM) | [The Field](https://open.spotify.com/artist/23MIhFHpoOuhtEHZDrrnCS) | [Looping State Of Mind](https://open.spotify.com/album/6h1LdVhHDirAXwgDFftCL0) | 8:39 |
+| 65 | [Detroit People Mover](https://open.spotify.com/track/2g8v1yWbbFM6Gb7FLyJrgu) | [Squarepusher](https://open.spotify.com/artist/4mtHSXwIHihO6MWNq5Qoko) | [Be Up A Hello](https://open.spotify.com/album/0dPj5xfT7jv9XxRhPbfGuH) | 4:26 |
 | 66 | [Dead Skin Cells](https://open.spotify.com/track/27W7GHUgfezHQ8krRZUfeX) | [The Future Sound Of London](https://open.spotify.com/artist/2qhmNI4ZHPpeDutdg473Z3) | [Lifeforms](https://open.spotify.com/album/0UcHfoo7KMso767JwePBMh) | 6:50 |
 | 67 | [Mono No Aware 1.1](https://open.spotify.com/track/6iGNMNHHbsdSh0f14q3jcS) | [William Basinski](https://open.spotify.com/artist/6u5axd0rpDsWSmzhFfb2VB), [Lawrence English](https://open.spotify.com/artist/0V1EXFlRy3LeOKB07YJucI) | [Selva Oscura](https://open.spotify.com/album/1BbS1N3W9MnpKuiAn26tSo) | 5:39 |
 | 68 | [The Runaround](https://open.spotify.com/track/7uapTtBbij6ydhnU7BaerU) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c), [Lowell Brams](https://open.spotify.com/artist/1hCuN7zeXgcoLq6Ys1UOe4) | [Aporia](https://open.spotify.com/album/1juVCzBeCE5Nzx0iqXZ8kU) | 3:35 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ZEXyWinp6f.md) - [plain]
 | 74 | [The First Wave \- Birth Of Venus](https://open.spotify.com/track/6wG4izwDQdTxkpBEB6CRlk) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Seven Waves](https://open.spotify.com/album/3YBrOpJsyXHP4JeKaICHf3) | 5:04 |
 | 75 | [Survivor](https://open.spotify.com/track/413Iz32UCzyMh7AAPdUtLB) | [Klaus Weiss](https://open.spotify.com/artist/0KPSMJaJZl9IpAIVsXkrDz) | [Time Signals](https://open.spotify.com/album/6KwO3tSkwEzoknDeb8ABwS) | 2:43 |
 
-Snapshot ID: `MCw1NWE3YjAzYWZhYTgyMDJjN2FmOGJmYWU5NWM4OTI3NDdjZThhMWQ5`
+Snapshot ID: `MCw2Nzk1YjMzZTU2YTIzNGI2YzdlNTFiNTliYTcyNWIyODVmM2MwMzE3`

@@ -4,7 +4,7 @@
 
 > 話題のロックヒットをVolume上げて爆音で。Cover: The Snuts
 
-845 songs - 2 day 0 hr 56 min
+846 songs - 2 day 0 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -418,6 +418,7 @@
 | [Ladybug](https://open.spotify.com/track/3Xokw1dgXW1kAEPcMpVWoe) | [Jutes](https://open.spotify.com/artist/53fzjsJnjEKkA6TdncuIM4) | [Ladybug](https://open.spotify.com/album/0k3L1wx1gsIGQPcCJvAQMT) | 2:45 | 2023-05-18 | 2023-05-26 |
 | [Ladybug](https://open.spotify.com/track/5dmp3KBV5pqFdQURMpUSb9) | [Jutes](https://open.spotify.com/artist/53fzjsJnjEKkA6TdncuIM4) | [Ladybug](https://open.spotify.com/album/77rk67trr9jAoRt8oy9yU2) | 2:45 | 2023-05-18 | 2023-05-20 |
 | [Landmines](https://open.spotify.com/track/05FEHgvSVpx3jnM2zNeSo9) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Landmines](https://open.spotify.com/album/4qbFtX3gAZCiNDkkDMYGCR) | 2:55 | 2023-09-28 | 2023-11-05 |
+| [Landmines](https://open.spotify.com/track/1O7hVfI7ETQvQmPC0EqfY7) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Landmines](https://open.spotify.com/album/6GcuTn1GfyA7uwTTJj3XgV) | 2:55 | 2023-11-30 |  |
 | [LANGUAGE](https://open.spotify.com/track/13ynkovTAESCMefYh6MqIb) | [BOYS LIKE GIRLS](https://open.spotify.com/artist/0vWCyXMrrvMlCcepuOJaGI) | [LANGUAGE](https://open.spotify.com/album/1Pu6wKzlEoCEMO2P2p5PeM) | 2:58 | 2023-06-22 | 2023-06-30 |
 | [Last Man In The World](https://open.spotify.com/track/4BO4583RpKU9ILHVvIR5vv) | [The Band CAMINO](https://open.spotify.com/artist/6d4jrmreCmsenscuieJERc) | [Last Man In The World](https://open.spotify.com/album/44yyClOXbzPpTBhcUbsarK) | 2:42 | 2023-05-25 | 2023-06-16 |
 | [Lead Pipe](https://open.spotify.com/track/3tKtvdq8ljuxOsXvlhL0sc) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [Killing Time / Lead Pipe](https://open.spotify.com/album/2Kf6AR80jAmKRoaoTYVbV8) | 2:59 | 2023-04-27 | 2023-05-05 |
@@ -836,7 +837,7 @@
 | [Y.S.K.W.](https://open.spotify.com/track/46Lnoask1iRJP47GnaoVcF) | [Catch Your Breath](https://open.spotify.com/artist/2fqPOGxG12nEERj8YG7p22) | [Y.S.K.W.](https://open.spotify.com/album/6K1Xi9aQgxX6H5WquzgOVj) | 3:31 | 2023-08-17 | 2023-08-25 |
 | [You Are Not My Friend](https://open.spotify.com/track/1EGcSmc5XMKfbiHV6MruqA) | [Tessa Violet](https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ) | [You Are Not My Friend](https://open.spotify.com/album/0M50OZaRZQHfa7wlyhFkfZ) | 3:20 | 2023-03-23 | 2023-03-31 |
 | [you don't like me like that](https://open.spotify.com/track/3OPyobYAM5MgTm35AJV99O) | [Zeph](https://open.spotify.com/artist/502gYHkFCtLzBIcU4ctPLd) | [you don't like me like that](https://open.spotify.com/album/35YQAprIaYWKCWtr7iS5UT) | 2:35 | 2023-05-18 | 2023-05-26 |
-| [You First \(Re: Remi Wolf\)](https://open.spotify.com/track/4w34xOG4R20bcijSufbq8l) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF), [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Re: This Is Why](https://open.spotify.com/album/3GteSAGBQKHhmSN5OU819j) | 3:54 | 2023-10-05 |  |
+| [You First \(Re: Remi Wolf\)](https://open.spotify.com/track/4w34xOG4R20bcijSufbq8l) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF), [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Re: This Is Why](https://open.spotify.com/album/3GteSAGBQKHhmSN5OU819j) | 3:54 | 2023-10-05 | 2023-12-04 |
 | [You Plus Me](https://open.spotify.com/track/2YLSw7VocLFF4MNr5X7qeM) | [Plain White T's](https://open.spotify.com/artist/1g1yxsNVPhMUl9GrMjEb2o) | [You Plus Me](https://open.spotify.com/album/72qAfy89DFIPG6AHkZsL4G) | 3:12 | 2023-10-05 | 2023-10-13 |
 | [Young In America](https://open.spotify.com/track/0Ef2EJ0YndF0GZMQHsrOvt) | [Barns Courtney](https://open.spotify.com/artist/5tFRohaO5yEsuJxmMnlCO9) | [Young In America](https://open.spotify.com/album/1ZIQTACUeZjcf9xHHvCpQp) | 3:44 | 2023-09-28 | 2023-10-06 |
 | [Your Apartment](https://open.spotify.com/track/4Fi7oEopcTe2GkmVOeNdoZ) | [Phoneboy](https://open.spotify.com/artist/5vh3TBzvI4nASt2A1KfgcR) | [Your Apartment](https://open.spotify.com/album/27uE4MarekqLyFPzbiPAw9) | 3:31 | 2023-03-23 | 2023-03-31 |

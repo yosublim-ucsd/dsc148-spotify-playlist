@@ -4,7 +4,7 @@
 
 > Kick back  and soak up the warm and soothing tones of jazz and electronic.
 
-80 songs - 7 hr 10 min
+81 songs - 7 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,7 @@
 | [Eye Mo K](https://open.spotify.com/track/6o5bke7Cp481elgM8eTenO) | [Andrew Ashong](https://open.spotify.com/artist/2SJ3xpG9fseCPIqePAGp6o), [Kaidi Tatham](https://open.spotify.com/artist/1x2aM48UiN5WoQL6ISEPvz) | [Sankofa Season](https://open.spotify.com/album/4GsqSUelegSf0jTJyloIqz) | 5:42 | 2021-10-08 |  |
 | [Fate](https://open.spotify.com/track/41FTrubQViaFrV6wNgf7M9) | [Mark Hawkins](https://open.spotify.com/artist/6BDLwOIauGwERNYxaOciyq) | [Fate](https://open.spotify.com/album/5Q7sdzeTeHALXAD82aPs0G) | 5:31 | 2021-10-08 | 2023-05-24 |
 | [Frog Fractions](https://open.spotify.com/track/0pvezfxrKMaXPNNpGHlu5Q) | [Khotin](https://open.spotify.com/artist/0q2WkTHTEczNf8wNq6MBRk) | [New Tab](https://open.spotify.com/album/7sQkR41g5rIr1PPo4GloZe) | 4:40 | 2021-10-08 | 2023-03-19 |
-| [Frog Fractions](https://open.spotify.com/track/5IrQwd8F9oTkDNxSPrkJSy) | [Khotin](https://open.spotify.com/artist/0q2WkTHTEczNf8wNq6MBRk) | [New Tab](https://open.spotify.com/album/4sSEUm4dCycVP7EXTmd4SP) | 4:40 | 2021-10-08 |  |
+| [Frog Fractions](https://open.spotify.com/track/5IrQwd8F9oTkDNxSPrkJSy) | [Khotin](https://open.spotify.com/artist/0q2WkTHTEczNf8wNq6MBRk) | [New Tab](https://open.spotify.com/album/4sSEUm4dCycVP7EXTmd4SP) | 4:40 | 2021-10-08 | 2023-12-04 |
 | [Golden Gai](https://open.spotify.com/track/4czb2atdxzqXMe1inOZA7p) | [Yarni](https://open.spotify.com/artist/7nwdroo6JUr5X1TdAqMBDr), [Jonoa](https://open.spotify.com/artist/5LQIuS4eO4Gx8Nc2qCXhAl), [Rachel Shirley](https://open.spotify.com/artist/5Hy4oRldFJc1zGOOrmjW0r) | [Boro](https://open.spotify.com/album/6UZ3r4ENHQYVFeMhBKBuSB) | 5:52 | 2021-10-08 | 2023-10-12 |
 | [Golden Gai](https://open.spotify.com/track/57U4RtkzOsK0vIVc6lu8ez) | [Yarni](https://open.spotify.com/artist/7nwdroo6JUr5X1TdAqMBDr), [Jonoa](https://open.spotify.com/artist/6br5gZuWFULycPE9ePuqk1), [Rachel Shirley](https://open.spotify.com/artist/6B8GzjIukc5DrGu32pabAI) | [Boro](https://open.spotify.com/album/3PZz5CUq6iaaSReo5O7Yko) | 5:52 | 2021-10-08 | 2023-03-10 |
 | [Ho Chi Min](https://open.spotify.com/track/2vykok21C0IyTjpvUOcBWi) | [Red Axes](https://open.spotify.com/artist/5Owm9QgL9BSCRQKTX6T08G), [Bèo Dạt Mây Trôi](https://open.spotify.com/artist/5aiU9zkwOsUWaoKL3LZhvM), [HCMC Students](https://open.spotify.com/artist/7eTh42doMpsnT6Z6pKI9tK) | [Trips \#2: Vietnam](https://open.spotify.com/album/1NNk1ZIK6pil96rgNOXuBY) | 7:20 | 2021-10-08 |  |
@@ -40,6 +40,7 @@
 | [Learn Your Lesson \- Photay Remix](https://open.spotify.com/track/3s8yxBdiXFlEi6y0gfGreR) | [Madison McFerrin](https://open.spotify.com/artist/02zPEtdzUWnPToEVLRiQ7e), [Photay](https://open.spotify.com/artist/1MSxOmIt7uYgvPydd1tU8F) | [Finding Foundations \(The Remixes\)](https://open.spotify.com/album/3k2eNuf5EEc1KUMrjJaskk) | 6:07 | 2021-10-08 |  |
 | [Leaves](https://open.spotify.com/track/4lGXye7yRWuhEb8jyaAYc2) | [Move D](https://open.spotify.com/artist/3hwmrS8MSceZwnZYvZFf97), [Justin Carter](https://open.spotify.com/artist/5uPFbw1zCaZDbZFlmrA15x) | [To the Disco '77 \(Live Rework\)](https://open.spotify.com/album/6a5zxWkfXH3jcXrjmdGSn2) | 9:54 | 2021-10-08 |  |
 | [Lost Kingdoms](https://open.spotify.com/track/17YIpKXRkKKqvb8ZbzyOG1) | [Nubya Garcia](https://open.spotify.com/artist/6O5k8LLRfDK8v9jj1GazAQ) | [Nubya's 5ive](https://open.spotify.com/album/42X2Gyov8AhwjiHfGCfOC4) | 7:38 | 2021-10-08 | 2023-11-30 |
+| [Lost Kingdoms](https://open.spotify.com/track/6eTT6SQgTfXiKXdvMe0ZID) | [Nubya Garcia](https://open.spotify.com/artist/6O5k8LLRfDK8v9jj1GazAQ) | [Nubya's 5ive](https://open.spotify.com/album/6gVTOEeb9Hd1EO4A6kYEOE) | 7:38 | 2021-10-08 |  |
 | [Make This Right \- Radio Edit](https://open.spotify.com/track/0ZhLu81Q05NbCHwsLRlW2N) | [Ruf Dug](https://open.spotify.com/artist/08Jin8iRNko0j3gewozB0T), [Lovescene](https://open.spotify.com/artist/7bovLS0s72xVbr3eZl9aLk) | [Make This Right](https://open.spotify.com/album/6Q24x3y5iDAUmdHx2lnvD7) | 3:17 | 2021-10-08 |  |
 | [Mind](https://open.spotify.com/track/5sfTya6OQoW2rDLKSVT2Qk) | [Fatima](https://open.spotify.com/artist/5uNCGgWH5Id1cW8kh9Sc67), [Floating Points](https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L) | [Follow You EP \(feat\. Floating Points\)](https://open.spotify.com/album/5dt7lQjyinjDt7y0a8tzmw) | 4:27 | 2021-10-08 |  |
 | [Mogeri](https://open.spotify.com/track/6Iq7a7HZ6eFpsAVW6Qfohp) | [Dan Kye](https://open.spotify.com/artist/05YrP00agTrYezUyAsukKf) | [Small Moments](https://open.spotify.com/album/75GwgzYvvgaJQS6DooqcIC) | 6:11 | 2021-10-08 | 2023-08-08 |

@@ -1,12 +1,12 @@
 {
   "description": "Concentrate con el aire de la cordillera de los Andes.",
-  "num_followers": 127024,
+  "num_followers": 127046,
   "original_name": "Entre los Andes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NDliOWFiYTIxZGUxYzdiNTM0NjBmNWVmMTI3OGIyMTc5OGZkZmIy",
+  "snapshot_id": "MCxhZWRiOTIwMWI3MjNmMGFjYTE2NjhjYjliZmRhMDNiYWJhOThkNTQ5",
   "tracks": [
     {
       "added_at": "2023-09-29 18:58:26",
@@ -427,22 +427,6 @@
     {
       "added_at": "2023-09-29 18:58:26",
       "album": {
-        "name": "Solo",
-        "url": "https://open.spotify.com/album/4BQafZfyveBiMv3FDJ6wAU"
-      },
-      "artists": [
-        {
-          "name": "Esteman",
-          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
-        }
-      ],
-      "duration_ms": 224333,
-      "name": "Solo",
-      "url": "https://open.spotify.com/track/2nHbYehgkMWR4fmqswEvD9"
-    },
-    {
-      "added_at": "2023-09-29 18:58:26",
-      "album": {
         "name": "Charango Peruano",
         "url": "https://open.spotify.com/album/4HVoQalB9EVdBsbeOt4Wxx"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 182293,
       "name": "Munaspaqa Suyaykuway",
       "url": "https://open.spotify.com/track/0RiWhE2d4F8QMKcorZsDh9"
+    },
+    {
+      "added_at": "2023-09-29 18:58:26",
+      "album": {
+        "name": "Solo",
+        "url": "https://open.spotify.com/album/4BQafZfyveBiMv3FDJ6wAU"
+      },
+      "artists": [
+        {
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        }
+      ],
+      "duration_ms": 224333,
+      "name": "Solo",
+      "url": "https://open.spotify.com/track/2nHbYehgkMWR4fmqswEvD9"
     },
     {
       "added_at": "2023-09-29 18:58:26",
@@ -579,22 +579,6 @@
     {
       "added_at": "2023-09-29 18:58:26",
       "album": {
-        "name": "Monta\u00f1as",
-        "url": "https://open.spotify.com/album/1IeFuOpz4yMp2zE8e0IWqp"
-      },
-      "artists": [
-        {
-          "name": "Cristina Valentina",
-          "url": "https://open.spotify.com/artist/3pC5RVO04pJTFcp5xxdXaV"
-        }
-      ],
-      "duration_ms": 288091,
-      "name": "Monta\u00f1as",
-      "url": "https://open.spotify.com/track/2x0jS1pcwWxzWOd3eRSrzu"
-    },
-    {
-      "added_at": "2023-09-29 18:58:26",
-      "album": {
         "name": "Manglares (B-Sides) - EP",
         "url": "https://open.spotify.com/album/7kug1J54BtHHJ8iJXagHnE"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 218752,
       "name": "Gemas",
       "url": "https://open.spotify.com/track/2mBvyVRiv8hJBsSmZTNE8X"
+    },
+    {
+      "added_at": "2023-09-29 18:58:26",
+      "album": {
+        "name": "Monta\u00f1as",
+        "url": "https://open.spotify.com/album/1IeFuOpz4yMp2zE8e0IWqp"
+      },
+      "artists": [
+        {
+          "name": "Cristina Valentina",
+          "url": "https://open.spotify.com/artist/3pC5RVO04pJTFcp5xxdXaV"
+        }
+      ],
+      "duration_ms": 288091,
+      "name": "Monta\u00f1as",
+      "url": "https://open.spotify.com/track/2x0jS1pcwWxzWOd3eRSrzu"
     },
     {
       "added_at": "2023-09-29 18:58:26",
@@ -759,22 +759,6 @@
     {
       "added_at": "2023-09-29 18:58:26",
       "album": {
-        "name": "Pu\u00f1ales",
-        "url": "https://open.spotify.com/album/0cSX0iOE7K7oMx5SscLH3m"
-      },
-      "artists": [
-        {
-          "name": "LaTorre",
-          "url": "https://open.spotify.com/artist/1jiEzyMQwfYcQtp19fwOTZ"
-        }
-      ],
-      "duration_ms": 170037,
-      "name": "Pu\u00f1ales",
-      "url": "https://open.spotify.com/track/3BwmTfERJwWMUvG5apznGa"
-    },
-    {
-      "added_at": "2023-09-29 18:58:26",
-      "album": {
         "name": "Quena de los Andes",
         "url": "https://open.spotify.com/album/3AG3ZBPzchv6p4FYIeIZeq"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 227252,
       "name": "Cometa de Luz",
       "url": "https://open.spotify.com/track/2CvioY7rOClmpHFC6JXeUb"
+    },
+    {
+      "added_at": "2023-09-29 18:58:26",
+      "album": {
+        "name": "Pu\u00f1ales",
+        "url": "https://open.spotify.com/album/0cSX0iOE7K7oMx5SscLH3m"
+      },
+      "artists": [
+        {
+          "name": "LaTorre",
+          "url": "https://open.spotify.com/artist/1jiEzyMQwfYcQtp19fwOTZ"
+        }
+      ],
+      "duration_ms": 170037,
+      "name": "Pu\u00f1ales",
+      "url": "https://open.spotify.com/track/3BwmTfERJwWMUvG5apznGa"
     },
     {
       "added_at": "2023-09-29 18:58:26",

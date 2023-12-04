@@ -1,12 +1,12 @@
 {
   "description": "Moody electronica for the night shift",
-  "num_followers": 106980,
+  "num_followers": 106990,
   "original_name": "Night Shift",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YTkxZjA5MmU0NGZlMjQ4YThjYjM4MzQxOGRhODUxNTAxM2NkMzMy",
+  "snapshot_id": "MCw3YTdmZjBhMzE2YTViNjcyMGQ5OGRmMDg2OGZiMzViMzJhMWNhOTBi",
   "tracks": [
     {
       "added_at": "2023-08-31 14:00:00",
@@ -267,18 +267,18 @@
     {
       "added_at": "2023-08-31 14:00:00",
       "album": {
-        "name": "Please Keep Shimmering",
-        "url": "https://open.spotify.com/album/0Jb1QT42kUlDfl7gQzzGxM"
+        "name": "In The Sweetness of You",
+        "url": "https://open.spotify.com/album/2WhtBcrSznou12dcd4YPnq"
       },
       "artists": [
         {
-          "name": "Tom VR",
-          "url": "https://open.spotify.com/artist/36tUphbhaRrmHNS6reORr5"
+          "name": "Logic1000",
+          "url": "https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I"
         }
       ],
-      "duration_ms": 263842,
-      "name": "Keep Shimmering",
-      "url": "https://open.spotify.com/track/7d5W34LzqiRbH8LCOZw7zz"
+      "duration_ms": 233253,
+      "name": "21",
+      "url": "https://open.spotify.com/track/3OXcTQgc1TfHlyhkq4crih"
     },
     {
       "added_at": "2023-08-31 14:00:00",
@@ -299,18 +299,18 @@
     {
       "added_at": "2023-08-31 14:00:00",
       "album": {
-        "name": "In The Sweetness of You",
-        "url": "https://open.spotify.com/album/2WhtBcrSznou12dcd4YPnq"
+        "name": "Please Keep Shimmering",
+        "url": "https://open.spotify.com/album/0Jb1QT42kUlDfl7gQzzGxM"
       },
       "artists": [
         {
-          "name": "Logic1000",
-          "url": "https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I"
+          "name": "Tom VR",
+          "url": "https://open.spotify.com/artist/36tUphbhaRrmHNS6reORr5"
         }
       ],
-      "duration_ms": 233253,
-      "name": "21",
-      "url": "https://open.spotify.com/track/3OXcTQgc1TfHlyhkq4crih"
+      "duration_ms": 263842,
+      "name": "Keep Shimmering",
+      "url": "https://open.spotify.com/track/7d5W34LzqiRbH8LCOZw7zz"
     },
     {
       "added_at": "2023-08-31 14:00:00",
@@ -331,22 +331,6 @@
     {
       "added_at": "2023-08-31 14:00:00",
       "album": {
-        "name": "Call of the Whipbird",
-        "url": "https://open.spotify.com/album/2o0UiAbeyt13UIlLZ5RUH1"
-      },
-      "artists": [
-        {
-          "name": "Subset",
-          "url": "https://open.spotify.com/artist/7GmkyfxnMFA1ZSyb87dVNl"
-        }
-      ],
-      "duration_ms": 388735,
-      "name": "Whipbird Dub",
-      "url": "https://open.spotify.com/track/5yz7nwiWYy5CoXdJyNfllg"
-    },
-    {
-      "added_at": "2023-08-31 14:00:00",
-      "album": {
         "name": "Blush",
         "url": "https://open.spotify.com/album/4QWYTWnk5Cb1a7zUXQLGts"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 225021,
       "name": "Blush",
       "url": "https://open.spotify.com/track/2Dnh5y1kaUPymUifmimhD7"
+    },
+    {
+      "added_at": "2023-08-31 14:00:00",
+      "album": {
+        "name": "Call of the Whipbird",
+        "url": "https://open.spotify.com/album/2o0UiAbeyt13UIlLZ5RUH1"
+      },
+      "artists": [
+        {
+          "name": "Subset",
+          "url": "https://open.spotify.com/artist/7GmkyfxnMFA1ZSyb87dVNl"
+        }
+      ],
+      "duration_ms": 388735,
+      "name": "Whipbird Dub",
+      "url": "https://open.spotify.com/track/5yz7nwiWYy5CoXdJyNfllg"
     },
     {
       "added_at": "2023-08-31 14:00:00",
@@ -379,6 +379,22 @@
     {
       "added_at": "2023-08-31 14:00:00",
       "album": {
+        "name": "Heirloom",
+        "url": "https://open.spotify.com/album/29rHqyYnfNh28uhELamXiN"
+      },
+      "artists": [
+        {
+          "name": "KISLO",
+          "url": "https://open.spotify.com/artist/3VXFXDKTNev0EWuXOvozh6"
+        }
+      ],
+      "duration_ms": 283461,
+      "name": "Heirloom",
+      "url": "https://open.spotify.com/track/7oq6vOvJhCrDTTlgmtNiNS"
+    },
+    {
+      "added_at": "2023-08-31 14:00:00",
+      "album": {
         "name": "Sea To Sky",
         "url": "https://open.spotify.com/album/6Z9aMIfQYDjF3Z0vuhJps8"
       },
@@ -395,22 +411,6 @@
       "duration_ms": 264003,
       "name": "Sea To Sky",
       "url": "https://open.spotify.com/track/7AZvdqbQJdakmxCPFK5F5E"
-    },
-    {
-      "added_at": "2023-08-31 14:00:00",
-      "album": {
-        "name": "Heirloom",
-        "url": "https://open.spotify.com/album/29rHqyYnfNh28uhELamXiN"
-      },
-      "artists": [
-        {
-          "name": "KISLO",
-          "url": "https://open.spotify.com/artist/3VXFXDKTNev0EWuXOvozh6"
-        }
-      ],
-      "duration_ms": 283461,
-      "name": "Heirloom",
-      "url": "https://open.spotify.com/track/7oq6vOvJhCrDTTlgmtNiNS"
     },
     {
       "added_at": "2023-08-31 14:00:00",
@@ -495,22 +495,6 @@
     {
       "added_at": "2023-08-31 14:00:00",
       "album": {
-        "name": "The Corner",
-        "url": "https://open.spotify.com/album/5BTdRwKRznLonMVvEuAZPi"
-      },
-      "artists": [
-        {
-          "name": "Gold Panda",
-          "url": "https://open.spotify.com/artist/6xS3zemJD9h94iueQvGqVk"
-        }
-      ],
-      "duration_ms": 220653,
-      "name": "The Corner",
-      "url": "https://open.spotify.com/track/1Pfun1VMFlTBwgqLNdUxcR"
-    },
-    {
-      "added_at": "2023-08-31 14:00:00",
-      "album": {
         "name": "Take Them",
         "url": "https://open.spotify.com/album/5KW5wIu6RhXkBGl3TTKqOp"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 287542,
       "name": "Take Them",
       "url": "https://open.spotify.com/track/00nHvLYHf4mQaVuCq2eoTT"
+    },
+    {
+      "added_at": "2023-08-31 14:00:00",
+      "album": {
+        "name": "The Corner",
+        "url": "https://open.spotify.com/album/5BTdRwKRznLonMVvEuAZPi"
+      },
+      "artists": [
+        {
+          "name": "Gold Panda",
+          "url": "https://open.spotify.com/artist/6xS3zemJD9h94iueQvGqVk"
+        }
+      ],
+      "duration_ms": 220653,
+      "name": "The Corner",
+      "url": "https://open.spotify.com/track/1Pfun1VMFlTBwgqLNdUxcR"
     },
     {
       "added_at": "2023-08-31 14:00:00",
@@ -775,22 +775,6 @@
     {
       "added_at": "2023-08-31 14:00:00",
       "album": {
-        "name": "Contra",
-        "url": "https://open.spotify.com/album/0ZdaI36GXajBAlo3GRo3D5"
-      },
-      "artists": [
-        {
-          "name": "OLAN",
-          "url": "https://open.spotify.com/artist/1gMMbPTZtOb9W3IBYl6twO"
-        }
-      ],
-      "duration_ms": 224655,
-      "name": "Contra",
-      "url": "https://open.spotify.com/track/78Dnmmh4zDQf7mt2N7X7xW"
-    },
-    {
-      "added_at": "2023-08-31 14:00:00",
-      "album": {
         "name": "Ultra Truth",
         "url": "https://open.spotify.com/album/4qw8zs6nZyjpgPPBxZWpTI"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 317183,
       "name": "Ultra Truth",
       "url": "https://open.spotify.com/track/5XJbxQd5go9wRFpYq4fChY"
+    },
+    {
+      "added_at": "2023-08-31 14:00:00",
+      "album": {
+        "name": "Contra",
+        "url": "https://open.spotify.com/album/0ZdaI36GXajBAlo3GRo3D5"
+      },
+      "artists": [
+        {
+          "name": "OLAN",
+          "url": "https://open.spotify.com/artist/1gMMbPTZtOb9W3IBYl6twO"
+        }
+      ],
+      "duration_ms": 224655,
+      "name": "Contra",
+      "url": "https://open.spotify.com/track/78Dnmmh4zDQf7mt2N7X7xW"
     },
     {
       "added_at": "2023-08-31 14:00:00",

@@ -1,12 +1,12 @@
 {
   "description": "Recordando a los \u00eddolos de la m\u00fasica de banda. Julio Preciado en portada.",
-  "num_followers": 220736,
+  "num_followers": 221011,
   "original_name": "Banda: Viejitas Pero Bonitas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5Y2VhNWFiZDEzZmYxOGFlMTNhNDMyNmZlYzc1YTA1MWNlYTY0YzRl",
+  "snapshot_id": "MCw1ZDExNjJkNjBkOTY3MTA4ZWNmOWZhMTU5MTU1NWI1Y2I2YjMxMTdj",
   "tracks": [
     {
       "added_at": "2023-10-11 23:54:18",
@@ -531,22 +531,6 @@
     {
       "added_at": "2023-10-11 23:54:18",
       "album": {
-        "name": "Tesoros De Coleccion",
-        "url": "https://open.spotify.com/album/3COLgk4Sk5EwFVXm4P6Mo3"
-      },
-      "artists": [
-        {
-          "name": "Banda Arkangel R-15",
-          "url": "https://open.spotify.com/artist/2W5zpA1UnG5QaA3p3668xE"
-        }
-      ],
-      "duration_ms": 226813,
-      "name": "Voy a Pintar Mi Raya",
-      "url": "https://open.spotify.com/track/0JFOXqd9N6RlMaAFlaaqFw"
-    },
-    {
-      "added_at": "2023-10-11 23:54:18",
-      "album": {
         "name": "De Mexico para el Mundo",
         "url": "https://open.spotify.com/album/32TIJn1x8SCsHVCswGnQZQ"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 188310,
       "name": "Vamonos de Fiesta",
       "url": "https://open.spotify.com/track/2WBdwIbWx9glAFgzuwqCEI"
+    },
+    {
+      "added_at": "2023-10-11 23:54:18",
+      "album": {
+        "name": "Tesoros De Coleccion",
+        "url": "https://open.spotify.com/album/3COLgk4Sk5EwFVXm4P6Mo3"
+      },
+      "artists": [
+        {
+          "name": "Banda Arkangel R-15",
+          "url": "https://open.spotify.com/artist/2W5zpA1UnG5QaA3p3668xE"
+        }
+      ],
+      "duration_ms": 226813,
+      "name": "Voy a Pintar Mi Raya",
+      "url": "https://open.spotify.com/track/0JFOXqd9N6RlMaAFlaaqFw"
     },
     {
       "added_at": "2023-10-11 23:54:18",
@@ -707,22 +707,6 @@
     {
       "added_at": "2023-10-11 23:54:18",
       "album": {
-        "name": "La reina de las bandas Vol. II",
-        "url": "https://open.spotify.com/album/29JiAjWnPrh6PxzyZxA1Uv"
-      },
-      "artists": [
-        {
-          "name": "Banda Machos",
-          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
-        }
-      ],
-      "duration_ms": 167120,
-      "name": "Le\u00f1a de pirul",
-      "url": "https://open.spotify.com/track/24hke0P7QZEb62QC4XzG9y"
-    },
-    {
-      "added_at": "2023-10-11 23:54:18",
-      "album": {
         "name": "Pa' Puros Compas!, Vol. 2: Corridos y Rancheras",
         "url": "https://open.spotify.com/album/6YfMNFnsU5lhm1T3Tt9vB9"
       },
@@ -739,18 +723,18 @@
     {
       "added_at": "2023-10-11 23:54:18",
       "album": {
-        "name": "Trayectoria",
-        "url": "https://open.spotify.com/album/4HEcnwhFZEvZrOZjJr4hFe"
+        "name": "25 Bandazos de Machos (Vol. 1) [USA]",
+        "url": "https://open.spotify.com/album/641IjGwd385qV3RVouieUv"
       },
       "artists": [
         {
-          "name": "Banda Peque\u00f1os Musical",
-          "url": "https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE"
+          "name": "Banda Machos",
+          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
         }
       ],
-      "duration_ms": 191013,
-      "name": "Un loco solitario",
-      "url": "https://open.spotify.com/track/3UGGMTCBHy16YGzLbR3SeA"
+      "duration_ms": 188693,
+      "name": "La culebra",
+      "url": "https://open.spotify.com/track/6bJlR3XVNgAOIkKdiKkZz4"
     },
     {
       "added_at": "2023-10-11 23:54:18",
@@ -767,6 +751,22 @@
       "duration_ms": 202373,
       "name": "Ando Que Me Lleva",
       "url": "https://open.spotify.com/track/5g3gJFLrcIpVW1G1JfO0uZ"
+    },
+    {
+      "added_at": "2023-10-11 23:54:18",
+      "album": {
+        "name": "Trayectoria",
+        "url": "https://open.spotify.com/album/4HEcnwhFZEvZrOZjJr4hFe"
+      },
+      "artists": [
+        {
+          "name": "Banda Peque\u00f1os Musical",
+          "url": "https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE"
+        }
+      ],
+      "duration_ms": 191013,
+      "name": "Un loco solitario",
+      "url": "https://open.spotify.com/track/3UGGMTCBHy16YGzLbR3SeA"
     },
     {
       "added_at": "2023-10-11 23:54:18",
@@ -835,18 +835,18 @@
     {
       "added_at": "2023-10-11 23:54:18",
       "album": {
-        "name": "Misa De Cuerpo Presente",
-        "url": "https://open.spotify.com/album/2WR7Uv5bWy96xBlAfXNoFU"
+        "name": "La reina de las bandas Vol. II",
+        "url": "https://open.spotify.com/album/29JiAjWnPrh6PxzyZxA1Uv"
       },
       "artists": [
         {
-          "name": "Banda Movil",
-          "url": "https://open.spotify.com/artist/7fU0B28ySGWjYCNKZD8YIK"
+          "name": "Banda Machos",
+          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
         }
       ],
-      "duration_ms": 168360,
-      "name": "Misa De Cuerpo Presente",
-      "url": "https://open.spotify.com/track/72gWYoN7Wta4spLHOCI6Sd"
+      "duration_ms": 167120,
+      "name": "Le\u00f1a de pirul",
+      "url": "https://open.spotify.com/track/24hke0P7QZEb62QC4XzG9y"
     },
     {
       "added_at": "2023-10-11 23:54:18",
@@ -863,22 +863,6 @@
       "duration_ms": 232269,
       "name": "Acu\u00e9rdate De Mi",
       "url": "https://open.spotify.com/track/6aN8TKLXGFkELIwJfCWZzi"
-    },
-    {
-      "added_at": "2023-10-11 23:54:18",
-      "album": {
-        "name": "25 Bandazos de Machos (Vol. 1) [USA]",
-        "url": "https://open.spotify.com/album/641IjGwd385qV3RVouieUv"
-      },
-      "artists": [
-        {
-          "name": "Banda Machos",
-          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
-        }
-      ],
-      "duration_ms": 188693,
-      "name": "La culebra",
-      "url": "https://open.spotify.com/track/6bJlR3XVNgAOIkKdiKkZz4"
     },
     {
       "added_at": "2023-10-11 23:54:18",
@@ -915,18 +899,34 @@
     {
       "added_at": "2023-10-11 23:54:18",
       "album": {
-        "name": "De Parranda Con La Banda",
-        "url": "https://open.spotify.com/album/5lR097ub6SOPcFOzUzE8nq"
+        "name": "Misa De Cuerpo Presente",
+        "url": "https://open.spotify.com/album/2WR7Uv5bWy96xBlAfXNoFU"
       },
       "artists": [
         {
-          "name": "Banda El Recodo",
-          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
+          "name": "Banda Movil",
+          "url": "https://open.spotify.com/artist/7fU0B28ySGWjYCNKZD8YIK"
         }
       ],
-      "duration_ms": 219080,
-      "name": "Que Solo Estoy Sin Ti",
-      "url": "https://open.spotify.com/track/3mFqOvXj4w2rh8pAlacsHv"
+      "duration_ms": 168360,
+      "name": "Misa De Cuerpo Presente",
+      "url": "https://open.spotify.com/track/72gWYoN7Wta4spLHOCI6Sd"
+    },
+    {
+      "added_at": "2023-10-11 23:54:18",
+      "album": {
+        "name": "Los machos tambi\u00e9n lloran",
+        "url": "https://open.spotify.com/album/4bJgYukI8yFOsia5HXeS30"
+      },
+      "artists": [
+        {
+          "name": "Banda Machos",
+          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
+        }
+      ],
+      "duration_ms": 195920,
+      "name": "Las Nachas",
+      "url": "https://open.spotify.com/track/5c1AEnRTAlLDTvDb6rNlak"
     },
     {
       "added_at": "2023-10-11 23:54:18",
@@ -979,6 +979,22 @@
     {
       "added_at": "2023-10-11 23:54:18",
       "album": {
+        "name": "De Parranda Con La Banda",
+        "url": "https://open.spotify.com/album/5lR097ub6SOPcFOzUzE8nq"
+      },
+      "artists": [
+        {
+          "name": "Banda El Recodo",
+          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
+        }
+      ],
+      "duration_ms": 219080,
+      "name": "Que Solo Estoy Sin Ti",
+      "url": "https://open.spotify.com/track/3mFqOvXj4w2rh8pAlacsHv"
+    },
+    {
+      "added_at": "2023-10-11 23:54:18",
+      "album": {
         "name": "Esa Chica Me Vacila",
         "url": "https://open.spotify.com/album/216Vvwkcgb3OR27a8Gwt7Q"
       },
@@ -991,22 +1007,6 @@
       "duration_ms": 215947,
       "name": "Esa Chica Me Vacila",
       "url": "https://open.spotify.com/track/3B4DGPWuk7VeEFj6IFlC24"
-    },
-    {
-      "added_at": "2023-10-11 23:54:18",
-      "album": {
-        "name": "15 Grandes Exitos",
-        "url": "https://open.spotify.com/album/1f0ASfbeUcjB2vEI8PNyuC"
-      },
-      "artists": [
-        {
-          "name": "Banda R-15",
-          "url": "https://open.spotify.com/artist/5l0ZjUz8rAAFVm616in8YR"
-        }
-      ],
-      "duration_ms": 178293,
-      "name": "Si Tu Boquita Fuera",
-      "url": "https://open.spotify.com/track/4MeagrXRJb7XjSE8FK0n75"
     },
     {
       "added_at": "2023-10-11 23:54:18",
@@ -1027,18 +1027,18 @@
     {
       "added_at": "2023-10-11 23:54:18",
       "album": {
-        "name": "Los machos tambi\u00e9n lloran",
-        "url": "https://open.spotify.com/album/4bJgYukI8yFOsia5HXeS30"
+        "name": "15 Grandes Exitos",
+        "url": "https://open.spotify.com/album/1f0ASfbeUcjB2vEI8PNyuC"
       },
       "artists": [
         {
-          "name": "Banda Machos",
-          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
+          "name": "Banda R-15",
+          "url": "https://open.spotify.com/artist/5l0ZjUz8rAAFVm616in8YR"
         }
       ],
-      "duration_ms": 195920,
-      "name": "Las Nachas",
-      "url": "https://open.spotify.com/track/5c1AEnRTAlLDTvDb6rNlak"
+      "duration_ms": 178293,
+      "name": "Si Tu Boquita Fuera",
+      "url": "https://open.spotify.com/track/4MeagrXRJb7XjSE8FK0n75"
     },
     {
       "added_at": "2023-10-11 23:54:18",
@@ -1107,18 +1107,18 @@
     {
       "added_at": "2023-10-11 23:54:18",
       "album": {
-        "name": "15 Grandes Exitos",
-        "url": "https://open.spotify.com/album/1f0ASfbeUcjB2vEI8PNyuC"
+        "name": "Evolution",
+        "url": "https://open.spotify.com/album/0bSO97EWemxZI9dyzq5IS3"
       },
       "artists": [
         {
-          "name": "Banda R-15",
-          "url": "https://open.spotify.com/artist/5l0ZjUz8rAAFVm616in8YR"
+          "name": "Banda Pelillos",
+          "url": "https://open.spotify.com/artist/4BLePIKRIxR45iGnam62DE"
         }
       ],
-      "duration_ms": 183186,
-      "name": "Arreando La Mula",
-      "url": "https://open.spotify.com/track/7qX0Ca5ShfAMDjSogZ2Bxu"
+      "duration_ms": 252213,
+      "name": "MI Vida Sin Ti",
+      "url": "https://open.spotify.com/track/7r7tEGlRGeeGsprdBIfBru"
     },
     {
       "added_at": "2023-10-11 23:54:18",
@@ -1139,18 +1139,18 @@
     {
       "added_at": "2023-10-11 23:54:18",
       "album": {
-        "name": "Evolution",
-        "url": "https://open.spotify.com/album/0bSO97EWemxZI9dyzq5IS3"
+        "name": "15 Grandes Exitos",
+        "url": "https://open.spotify.com/album/1f0ASfbeUcjB2vEI8PNyuC"
       },
       "artists": [
         {
-          "name": "Banda Pelillos",
-          "url": "https://open.spotify.com/artist/4BLePIKRIxR45iGnam62DE"
+          "name": "Banda R-15",
+          "url": "https://open.spotify.com/artist/5l0ZjUz8rAAFVm616in8YR"
         }
       ],
-      "duration_ms": 252213,
-      "name": "MI Vida Sin Ti",
-      "url": "https://open.spotify.com/track/7r7tEGlRGeeGsprdBIfBru"
+      "duration_ms": 183186,
+      "name": "Arreando La Mula",
+      "url": "https://open.spotify.com/track/7qX0Ca5ShfAMDjSogZ2Bxu"
     },
     {
       "added_at": "2023-10-11 23:54:18",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2023-10-11 23:54:18",
       "album": {
-        "name": "15 Grandes Exitos",
-        "url": "https://open.spotify.com/album/1f0ASfbeUcjB2vEI8PNyuC"
-      },
-      "artists": [
-        {
-          "name": "Banda R-15",
-          "url": "https://open.spotify.com/artist/5l0ZjUz8rAAFVm616in8YR"
-        }
-      ],
-      "duration_ms": 171826,
-      "name": "El Bigote",
-      "url": "https://open.spotify.com/track/3ujVqENYM0ujQY5jgKLQb9"
-    },
-    {
-      "added_at": "2023-10-11 23:54:18",
-      "album": {
         "name": "Gold Collection, Vol.1",
         "url": "https://open.spotify.com/album/7bMQ7sSTPUqNPMZhX0kG9O"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 186618,
       "name": "El Guapo",
       "url": "https://open.spotify.com/track/3AhaXfZ5yQIlFWrsE0Roz0"
+    },
+    {
+      "added_at": "2023-10-11 23:54:18",
+      "album": {
+        "name": "15 Grandes Exitos",
+        "url": "https://open.spotify.com/album/1f0ASfbeUcjB2vEI8PNyuC"
+      },
+      "artists": [
+        {
+          "name": "Banda R-15",
+          "url": "https://open.spotify.com/artist/5l0ZjUz8rAAFVm616in8YR"
+        }
+      ],
+      "duration_ms": 171826,
+      "name": "El Bigote",
+      "url": "https://open.spotify.com/track/3ujVqENYM0ujQY5jgKLQb9"
     },
     {
       "added_at": "2023-10-11 23:54:18",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2023-10-11 23:54:18",
       "album": {
-        "name": "Tesoros De Coleccion",
-        "url": "https://open.spotify.com/album/3COLgk4Sk5EwFVXm4P6Mo3"
-      },
-      "artists": [
-        {
-          "name": "Banda Arkangel R-15",
-          "url": "https://open.spotify.com/artist/2W5zpA1UnG5QaA3p3668xE"
-        }
-      ],
-      "duration_ms": 142253,
-      "name": "Al Mismo Nivel",
-      "url": "https://open.spotify.com/track/3j4JOeXU20JrrYGHXCr1EY"
-    },
-    {
-      "added_at": "2023-10-11 23:54:18",
-      "album": {
         "name": "El Baile de la Cachucha",
         "url": "https://open.spotify.com/album/5BWPqyh4hndM0qUl6huZKl"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 175973,
       "name": "El Baile de la Cachucha",
       "url": "https://open.spotify.com/track/5ZLMLSXFdSZnADxDoneQ2w"
+    },
+    {
+      "added_at": "2023-10-11 23:54:18",
+      "album": {
+        "name": "Tesoros De Coleccion",
+        "url": "https://open.spotify.com/album/3COLgk4Sk5EwFVXm4P6Mo3"
+      },
+      "artists": [
+        {
+          "name": "Banda Arkangel R-15",
+          "url": "https://open.spotify.com/artist/2W5zpA1UnG5QaA3p3668xE"
+        }
+      ],
+      "duration_ms": 142253,
+      "name": "Al Mismo Nivel",
+      "url": "https://open.spotify.com/track/3j4JOeXU20JrrYGHXCr1EY"
     },
     {
       "added_at": "2023-10-11 23:54:18",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2023-10-11 23:54:18",
       "album": {
-        "name": "Lo Dejar\u00eda Todo",
-        "url": "https://open.spotify.com/album/1wCQwyB4zWv8aeKKEmX7RP"
-      },
-      "artists": [
-        {
-          "name": "La Incontenible Banda Astilleros",
-          "url": "https://open.spotify.com/artist/7EQ9iuyTpUsFKqHP1w27nG"
-        }
-      ],
-      "duration_ms": 182439,
-      "name": "No Me Dejes Tan Solo",
-      "url": "https://open.spotify.com/track/0FDCMtJNlmnkR1L3Svh0MI"
-    },
-    {
-      "added_at": "2023-10-11 23:54:18",
-      "album": {
         "name": "Dame Amor",
         "url": "https://open.spotify.com/album/04bIaCVm2uC9sTnbUcdrOd"
       },
@@ -1503,6 +1487,22 @@
       "duration_ms": 201758,
       "name": "Si Te Perdiera",
       "url": "https://open.spotify.com/track/4Djcv4JqssfO38KMrXXKjV"
+    },
+    {
+      "added_at": "2023-10-11 23:54:18",
+      "album": {
+        "name": "Lo Dejar\u00eda Todo",
+        "url": "https://open.spotify.com/album/1wCQwyB4zWv8aeKKEmX7RP"
+      },
+      "artists": [
+        {
+          "name": "La Incontenible Banda Astilleros",
+          "url": "https://open.spotify.com/artist/7EQ9iuyTpUsFKqHP1w27nG"
+        }
+      ],
+      "duration_ms": 182439,
+      "name": "No Me Dejes Tan Solo",
+      "url": "https://open.spotify.com/track/0FDCMtJNlmnkR1L3Svh0MI"
     },
     {
       "added_at": "2023-10-11 23:54:18",
@@ -1787,18 +1787,18 @@
     {
       "added_at": "2023-10-11 23:54:18",
       "album": {
-        "name": "Las Bandas M\u00e1s Matonas",
-        "url": "https://open.spotify.com/album/14FxLzVmnS8EvGjyrkJZ7W"
+        "name": "Lo Mejor de lo Nuestro",
+        "url": "https://open.spotify.com/album/71hwjNty3bVhTj8DwodqN4"
       },
       "artists": [
         {
-          "name": "Banda Movil",
-          "url": "https://open.spotify.com/artist/7fU0B28ySGWjYCNKZD8YIK"
+          "name": "Banda San Miguel",
+          "url": "https://open.spotify.com/artist/3t9TbuyBScRR9dOG4Yo7CG"
         }
       ],
-      "duration_ms": 136453,
-      "name": "Cuando Los Hombres Lloran",
-      "url": "https://open.spotify.com/track/0tAq9Pn5C9F6iTsAqvtj4s"
+      "duration_ms": 155063,
+      "name": "El Domingo Se Casa",
+      "url": "https://open.spotify.com/track/1GAYDRFBxQDkpe4BT2M2kv"
     },
     {
       "added_at": "2023-10-11 23:54:18",
@@ -1819,18 +1819,18 @@
     {
       "added_at": "2023-10-11 23:54:18",
       "album": {
-        "name": "Lo Mejor de lo Nuestro",
-        "url": "https://open.spotify.com/album/71hwjNty3bVhTj8DwodqN4"
+        "name": "Las Bandas M\u00e1s Matonas",
+        "url": "https://open.spotify.com/album/14FxLzVmnS8EvGjyrkJZ7W"
       },
       "artists": [
         {
-          "name": "Banda San Miguel",
-          "url": "https://open.spotify.com/artist/3t9TbuyBScRR9dOG4Yo7CG"
+          "name": "Banda Movil",
+          "url": "https://open.spotify.com/artist/7fU0B28ySGWjYCNKZD8YIK"
         }
       ],
-      "duration_ms": 155063,
-      "name": "El Domingo Se Casa",
-      "url": "https://open.spotify.com/track/1GAYDRFBxQDkpe4BT2M2kv"
+      "duration_ms": 136453,
+      "name": "Cuando Los Hombres Lloran",
+      "url": "https://open.spotify.com/track/0tAq9Pn5C9F6iTsAqvtj4s"
     },
     {
       "added_at": "2023-10-11 23:54:18",

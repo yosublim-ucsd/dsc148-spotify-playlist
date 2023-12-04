@@ -1590,7 +1590,7 @@
     {
       "album": {
         "name": "You",
-        "url": "https://open.spotify.com/album/25r1j0BMSlROBkubbzd86I"
+        "url": "https://open.spotify.com/album/1ZSq87JLDDodzSK2B2bnEe"
       },
       "artists": [
         {
@@ -1605,6 +1605,28 @@
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 108923,
+      "name": "You",
+      "url": "https://open.spotify.com/track/0ic30oKQ15EvTWS1VYBjFF"
+    },
+    {
+      "album": {
+        "name": "You",
+        "url": "https://open.spotify.com/album/25r1j0BMSlROBkubbzd86I"
+      },
+      "artists": [
+        {
+          "name": "ZEDDY WILL",
+          "url": "https://open.spotify.com/artist/1alf4P7GDe5aNpALBzWIGf"
+        },
+        {
+          "name": "DJ Smallz 732",
+          "url": "https://open.spotify.com/artist/6GrHfxMFCXCdIhN9DrAxjK"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-04",
       "duration_ms": 108923,
       "name": "You",
       "url": "https://open.spotify.com/track/74JW8w5UPKzRPLcNatdeSI"

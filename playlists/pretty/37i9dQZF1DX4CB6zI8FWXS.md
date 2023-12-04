@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4CB6zI8FWXS.md) - [plain]
 
 > R&Bの最新話題曲をまとめてお届けします。cover: KAYTRANADA
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,489 likes - 79 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,503 likes - 79 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4CB6zI8FWXS.md) - [plain]
 | 78 | [Nowhere](https://open.spotify.com/track/01V9616p11FWNcMYTQTg3j) | [Emotional Oranges](https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C), [Nonso Amadi](https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV) | [Nowhere](https://open.spotify.com/album/0gk7hvi9elX9iuiNuxmcNu) | 2:57 |
 | 79 | [Without You \(Blxst Interlude\)](https://open.spotify.com/track/4o37I9GMKgu8bTvt4Zd4Ny) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl), [Cardo](https://open.spotify.com/artist/592XleMjor8huE5Jfgks7p), [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL) | [Without You \(Blxst Interlude\)](https://open.spotify.com/album/7tYruPXBGvlRyeY6ShHX1C) | 2:44 |
 
-Snapshot ID: `MCxkMDBlMGJlYWQ3M2RmMWMxMzc0ZDQ3YzBmYTVhMzBjMDQ1ZmJmNTIy`
+Snapshot ID: `MCxhNDU2ZGVmZjllODYwNThkNGI0YjdlNDc5MWIxYTM0NWNlOTQ1MDJm`

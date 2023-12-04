@@ -1,12 +1,12 @@
 {
   "description": "Definitive African party starters, perfect for any jollof jam or braai! \"Spray\" money to these hits!",
-  "num_followers": 432346,
+  "num_followers": 432523,
   "original_name": "Afro Party Anthems",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlODE3ZmVjOWJhNTRjODVjMzNmM2QwYWRjNjk0YzJiNWQyNzYyNTNj",
+  "snapshot_id": "MCw5ZjBlZDQ4YjQ0ZGEzZTIyMmI0OTIzYjU5Mjg2NGUwMGQxNmI5ZmI0",
   "tracks": [
     {
       "added_at": "2023-11-23 20:26:20",
@@ -71,6 +71,26 @@
     {
       "added_at": "2023-11-23 20:26:20",
       "album": {
+        "name": "Terminator (feat. Young Jonn)",
+        "url": "https://open.spotify.com/album/1BICkuyzPn2IIQXjopKOXE"
+      },
+      "artists": [
+        {
+          "name": "King Promise",
+          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
+        },
+        {
+          "name": "Young Jonn",
+          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
+        }
+      ],
+      "duration_ms": 234024,
+      "name": "Terminator (feat. Young Jonn)",
+      "url": "https://open.spotify.com/track/4jyZRIiSAEkziHwhZsfmXc"
+    },
+    {
+      "added_at": "2023-11-23 20:26:20",
+      "album": {
         "name": "Mnike (feat. DJ Maphorisa, Nandipha808, Ceeka RSA & Tyron Dee)",
         "url": "https://open.spotify.com/album/1nhw91pN6LpY6MriDZqVDC"
       },
@@ -103,26 +123,6 @@
       "duration_ms": 391888,
       "name": "Mnike (feat. DJ Maphorisa, Nandipha808, Ceeka RSA & Tyron Dee)",
       "url": "https://open.spotify.com/track/5tpft20jhQvRlG3O7XfwWy"
-    },
-    {
-      "added_at": "2023-11-23 20:26:20",
-      "album": {
-        "name": "Terminator (feat. Young Jonn)",
-        "url": "https://open.spotify.com/album/1BICkuyzPn2IIQXjopKOXE"
-      },
-      "artists": [
-        {
-          "name": "King Promise",
-          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
-        },
-        {
-          "name": "Young Jonn",
-          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
-        }
-      ],
-      "duration_ms": 234024,
-      "name": "Terminator (feat. Young Jonn)",
-      "url": "https://open.spotify.com/track/4jyZRIiSAEkziHwhZsfmXc"
     },
     {
       "added_at": "2023-11-23 20:26:20",
@@ -271,18 +271,18 @@
     {
       "added_at": "2023-11-23 20:26:20",
       "album": {
-        "name": "Rema",
-        "url": "https://open.spotify.com/album/4l8Gg5qk0QodyJ12SNtdUf"
+        "name": "Baby Riddim",
+        "url": "https://open.spotify.com/album/6dCmbmHyfCQpmJGZW9Am3b"
       },
       "artists": [
         {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+          "name": "Fave",
+          "url": "https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG"
         }
       ],
-      "duration_ms": 179775,
-      "name": "Dumebi",
-      "url": "https://open.spotify.com/track/0SjQBdIddPvKSWxr8vk6QX"
+      "duration_ms": 190677,
+      "name": "Baby Riddim",
+      "url": "https://open.spotify.com/track/77eZIuMTB9HrQ86L4ljqEX"
     },
     {
       "added_at": "2023-11-23 20:26:20",
@@ -303,18 +303,18 @@
     {
       "added_at": "2023-11-23 20:26:20",
       "album": {
-        "name": "Baby Riddim",
-        "url": "https://open.spotify.com/album/6dCmbmHyfCQpmJGZW9Am3b"
+        "name": "Rema",
+        "url": "https://open.spotify.com/album/4l8Gg5qk0QodyJ12SNtdUf"
       },
       "artists": [
         {
-          "name": "Fave",
-          "url": "https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG"
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
         }
       ],
-      "duration_ms": 190677,
-      "name": "Baby Riddim",
-      "url": "https://open.spotify.com/track/77eZIuMTB9HrQ86L4ljqEX"
+      "duration_ms": 179775,
+      "name": "Dumebi",
+      "url": "https://open.spotify.com/track/0SjQBdIddPvKSWxr8vk6QX"
     },
     {
       "added_at": "2023-11-23 20:26:20",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2023-11-23 20:26:20",
       "album": {
-        "name": "Dollar For Love (Baby)",
-        "url": "https://open.spotify.com/album/4IABFEmSzX66zvR16cPt1H"
-      },
-      "artists": [
-        {
-          "name": "Thuto The Human",
-          "url": "https://open.spotify.com/artist/5gAHEecJcLAR9qtLcaiVfj"
-        }
-      ],
-      "duration_ms": 413844,
-      "name": "Dollar For Love (Baby)",
-      "url": "https://open.spotify.com/track/46906mYFRf4gRPqvdrhWhX"
-    },
-    {
-      "added_at": "2023-11-23 20:26:20",
-      "album": {
         "name": "What's Poppin",
         "url": "https://open.spotify.com/album/33FTfk4rgSjlYSeIQozbtw"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 195426,
       "name": "What's Poppin",
       "url": "https://open.spotify.com/track/38BBkkW2v88ozDGf2FySNj"
+    },
+    {
+      "added_at": "2023-11-23 20:26:20",
+      "album": {
+        "name": "Dollar For Love (Baby)",
+        "url": "https://open.spotify.com/album/4IABFEmSzX66zvR16cPt1H"
+      },
+      "artists": [
+        {
+          "name": "Thuto The Human",
+          "url": "https://open.spotify.com/artist/5gAHEecJcLAR9qtLcaiVfj"
+        }
+      ],
+      "duration_ms": 413844,
+      "name": "Dollar For Love (Baby)",
+      "url": "https://open.spotify.com/track/46906mYFRf4gRPqvdrhWhX"
     },
     {
       "added_at": "2023-11-23 20:26:20",

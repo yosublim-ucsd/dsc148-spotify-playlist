@@ -1,12 +1,12 @@
 {
   "description": "Slow jams from West Africa that unwind and relax",
-  "num_followers": 19879,
+  "num_followers": 19906,
   "original_name": "Chill Bops",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NjQ2NjFlOTU3NmY4ZTA2ZWIyMGQwYjAxYTRhMzA2ODNhOWU2ODM1",
+  "snapshot_id": "MCwzNTA4MTM4NDlmMGE0ZTlmY2YxY2UxOWNkMjY0MTAwZDM2YTcwZWZj",
   "tracks": [
     {
       "added_at": "2023-12-01 05:41:36",
@@ -779,22 +779,6 @@
     {
       "added_at": "2023-12-01 05:41:36",
       "album": {
-        "name": "TEARS OF THE SUN",
-        "url": "https://open.spotify.com/album/4yspRWwXpYeeQ2EoOmpLPJ"
-      },
-      "artists": [
-        {
-          "name": "Teni",
-          "url": "https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS"
-        }
-      ],
-      "duration_ms": 170721,
-      "name": "Popo",
-      "url": "https://open.spotify.com/track/4nahrEpWaPAwKfbzvGvpTv"
-    },
-    {
-      "added_at": "2023-12-01 05:41:36",
-      "album": {
         "name": "Summer Breeze",
         "url": "https://open.spotify.com/album/53xFvK9UHs6TujEwY2NZhb"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 238917,
       "name": "Summer Breeze",
       "url": "https://open.spotify.com/track/3Xp7M0XASUptb61H0mLAcQ"
+    },
+    {
+      "added_at": "2023-12-01 05:41:36",
+      "album": {
+        "name": "TEARS OF THE SUN",
+        "url": "https://open.spotify.com/album/4yspRWwXpYeeQ2EoOmpLPJ"
+      },
+      "artists": [
+        {
+          "name": "Teni",
+          "url": "https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS"
+        }
+      ],
+      "duration_ms": 170721,
+      "name": "Popo",
+      "url": "https://open.spotify.com/track/4nahrEpWaPAwKfbzvGvpTv"
     },
     {
       "added_at": "2023-12-01 05:41:36",
@@ -1303,6 +1303,26 @@
     {
       "added_at": "2023-12-01 05:41:36",
       "album": {
+        "name": "Greedy",
+        "url": "https://open.spotify.com/album/2tIoxiF0AkKv3ynUZU2cB7"
+      },
+      "artists": [
+        {
+          "name": "King David",
+          "url": "https://open.spotify.com/artist/2ioqVteoHRyQE2u4aIojF7"
+        },
+        {
+          "name": "Tekno",
+          "url": "https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut"
+        }
+      ],
+      "duration_ms": 214491,
+      "name": "Greedy",
+      "url": "https://open.spotify.com/track/1FnIaiMNOQPwcWZJC7gw6V"
+    },
+    {
+      "added_at": "2023-12-01 05:41:36",
+      "album": {
         "name": "Tighter",
         "url": "https://open.spotify.com/album/2bVycA3gdEqU51o5rILZUI"
       },
@@ -1323,6 +1343,26 @@
     {
       "added_at": "2023-12-01 05:41:36",
       "album": {
+        "name": "No Lie",
+        "url": "https://open.spotify.com/album/5GEQghh5ACDyb2Vbz25FnI"
+      },
+      "artists": [
+        {
+          "name": "Joshua Baraka",
+          "url": "https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW"
+        },
+        {
+          "name": "Magixx",
+          "url": "https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142"
+        }
+      ],
+      "duration_ms": 196363,
+      "name": "No Lie",
+      "url": "https://open.spotify.com/track/6ElY31qcNcHfiMH2cvuveK"
+    },
+    {
+      "added_at": "2023-12-01 05:41:36",
+      "album": {
         "name": "Reckless",
         "url": "https://open.spotify.com/album/5Co4noDLhf4orLDekiGioX"
       },
@@ -1335,22 +1375,6 @@
       "duration_ms": 176058,
       "name": "Reckless",
       "url": "https://open.spotify.com/track/3QUVHCwlFqJoSrXHW2fxnC"
-    },
-    {
-      "added_at": "2023-12-01 05:41:36",
-      "album": {
-        "name": "Naked Wire",
-        "url": "https://open.spotify.com/album/1GOlHRebm95q6OxmRwYdKG"
-      },
-      "artists": [
-        {
-          "name": "Simi",
-          "url": "https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0"
-        }
-      ],
-      "duration_ms": 162352,
-      "name": "Naked Wire",
-      "url": "https://open.spotify.com/track/5sFwnVasc8RuDlatiNHOXN"
     },
     {
       "added_at": "2023-12-01 05:41:36",
@@ -1375,6 +1399,22 @@
     {
       "added_at": "2023-12-01 05:41:36",
       "album": {
+        "name": "Naked Wire",
+        "url": "https://open.spotify.com/album/1GOlHRebm95q6OxmRwYdKG"
+      },
+      "artists": [
+        {
+          "name": "Simi",
+          "url": "https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0"
+        }
+      ],
+      "duration_ms": 162352,
+      "name": "Naked Wire",
+      "url": "https://open.spotify.com/track/5sFwnVasc8RuDlatiNHOXN"
+    },
+    {
+      "added_at": "2023-12-01 05:41:36",
+      "album": {
         "name": "WASTELINE",
         "url": "https://open.spotify.com/album/0VzLyC8Er2QnVwOyGF5ZLX"
       },
@@ -1391,26 +1431,6 @@
       "duration_ms": 164680,
       "name": "WASTELINE",
       "url": "https://open.spotify.com/track/6zwNCNnzNfhC5XEhnG9F7Z"
-    },
-    {
-      "added_at": "2023-12-01 05:41:36",
-      "album": {
-        "name": "Greedy",
-        "url": "https://open.spotify.com/album/2tIoxiF0AkKv3ynUZU2cB7"
-      },
-      "artists": [
-        {
-          "name": "King David",
-          "url": "https://open.spotify.com/artist/2ioqVteoHRyQE2u4aIojF7"
-        },
-        {
-          "name": "Tekno",
-          "url": "https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut"
-        }
-      ],
-      "duration_ms": 214491,
-      "name": "Greedy",
-      "url": "https://open.spotify.com/track/1FnIaiMNOQPwcWZJC7gw6V"
     },
     {
       "added_at": "2023-12-01 05:41:36",
@@ -1483,38 +1503,22 @@
     {
       "added_at": "2023-12-01 05:41:36",
       "album": {
-        "name": "No Lie",
-        "url": "https://open.spotify.com/album/5GEQghh5ACDyb2Vbz25FnI"
+        "name": "Lifestyle",
+        "url": "https://open.spotify.com/album/70USnNa3bAg0XAoaukW1x1"
       },
       "artists": [
         {
-          "name": "Joshua Baraka",
-          "url": "https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW"
+          "name": "Fresh L.",
+          "url": "https://open.spotify.com/artist/5Req3092u4LKlAcv6kZALj"
         },
         {
-          "name": "Magixx",
-          "url": "https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142"
+          "name": "Odunsi (The Engine)",
+          "url": "https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW"
         }
       ],
-      "duration_ms": 196363,
-      "name": "No Lie",
-      "url": "https://open.spotify.com/track/6ElY31qcNcHfiMH2cvuveK"
-    },
-    {
-      "added_at": "2023-12-01 05:41:36",
-      "album": {
-        "name": "Naughty by Nature",
-        "url": "https://open.spotify.com/album/3uaeQQUWVQyCvnFOtTmS1Y"
-      },
-      "artists": [
-        {
-          "name": "Laime",
-          "url": "https://open.spotify.com/artist/5G36eoF6O2hTwz3mNc6uvA"
-        }
-      ],
-      "duration_ms": 123529,
-      "name": "Signs",
-      "url": "https://open.spotify.com/track/11Hgw9wXWzS4RbqWsKu0JP"
+      "duration_ms": 97832,
+      "name": "Lackin",
+      "url": "https://open.spotify.com/track/4xChpii9VTLnxj7AM9DO0t"
     }
   ],
   "unique_name": "Chill Bops",

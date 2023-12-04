@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTypZHlgEy1G.md) - [plain]
 
 > Le patrimoine de la chanson française\. Photo : Charles Aznavour
 
-[Spotify](https://open.spotify.com/user/spotify) - 337,703 likes - 60 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 337,816 likes - 60 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTypZHlgEy1G.md) - [plain]
 | 59 | [Amoureux de ma femme](https://open.spotify.com/track/3lzHuQKxPntttBRs71cqkX) | [Richard Anthony](https://open.spotify.com/artist/6fhXbgrtC1AffxqI32lPwz) | [Amoureux de ma femme](https://open.spotify.com/album/5Mf7FOBJFbHJMDeKWQiJIi) | 2:38 |
 | 60 | [Jolie môme](https://open.spotify.com/track/0cJSWKB0XV6B4zSFzTtS6b) | [Léo Ferré](https://open.spotify.com/artist/6NB0vY1HQgkUpCBsm5eAvo) | [Leo Chante Ferre](https://open.spotify.com/album/0staVF20KfnK1HCYJLNSsf) | 2:39 |
 
-Snapshot ID: `MCwyNGIzYTIxZDdiYzMxOTE0OGRiNGY2MTNiM2U4MmI5YTU1NTM4YWZl`
+Snapshot ID: `MCxmOGY0ODQxYmE5NTRhMTUyMTM1MWQxZWM0OWI0MTdjODAyMjRjY2Qy`

@@ -4,7 +4,7 @@
 
 > House and disco jams with an 80s\-infused retro flavour.
 
-86 songs - 7 hr 28 min
+87 songs - 7 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Dreamers](https://open.spotify.com/track/5087hJq9c6KM6gGb7CsjDi) | [Ivory \(IT\)](https://open.spotify.com/artist/0H1va9wyZWImoOV4euIBcr) | [Dixon Presents Transmoderna Part 2/4](https://open.spotify.com/album/0R6e4rh33ZTqkeu7ij741g) | 6:39 | 2021-08-27 |  |
 | [Eyes Wide Strut \(feat\. Wooze\) \- Tunnelvisions Remix](https://open.spotify.com/track/1bAop39IxOjIyYXSL0jENv) | [Moscoman](https://open.spotify.com/artist/44F8g3iM4NgU5cisocTlTQ), [WOOZE](https://open.spotify.com/artist/2whltAXPg8ozoiC9U1knhA), [Tunnelvisions](https://open.spotify.com/artist/0IhfJZiFjHqE9mJ9INjp7x) | [Eyes Wide Strut \(feat\. Wooze\) \[Tunnelvisions Remix\]](https://open.spotify.com/album/2B9sn1QAF4AZ6h9N0cBFAG) | 5:50 | 2021-08-27 | 2023-09-15 |
 | [Eyes Wide Strut \(Tunnelvisions Remix\)](https://open.spotify.com/track/0Hm4kcVCKRAhdUh37NMMpt) | [Moscoman](https://open.spotify.com/artist/44F8g3iM4NgU5cisocTlTQ), [Tunnelvisions](https://open.spotify.com/artist/0IhfJZiFjHqE9mJ9INjp7x), [WOOZE](https://open.spotify.com/artist/2whltAXPg8ozoiC9U1knhA) | [Eyes Wide Strut \(feat\. Wooze\) \(Tunnelvisions Remix\)](https://open.spotify.com/album/5s50DmQ3ZQDH10eKMzKxLh) | 5:50 | 2021-08-27 | 2022-07-29 |
+| [Eyes Wide Strut \- Tunnelvisions Remix](https://open.spotify.com/track/3VEyA2eTsrUylqc1rS3QVR) | [Moscoman](https://open.spotify.com/artist/44F8g3iM4NgU5cisocTlTQ), [WOOZE](https://open.spotify.com/artist/2whltAXPg8ozoiC9U1knhA), [Tunnelvisions](https://open.spotify.com/artist/0IhfJZiFjHqE9mJ9INjp7x) | [Time Slips Away \- The Remixes](https://open.spotify.com/album/0NdbADVLpkHPdfxlY28oGe) | 5:50 | 2021-08-27 |  |
 | [Faccia a faccia \- Italoconnection Remix Radio](https://open.spotify.com/track/3UyM4nviJQhxibP1O1f5FD) | [Alex Rossi](https://open.spotify.com/artist/080yEA10cGjDwnuXHFy1SU), [Italoconnection](https://open.spotify.com/artist/2H89jjAoarp9VqMxT8W0et) | [Faccia a faccia \(Remixes\)](https://open.spotify.com/album/6Xc0OSTyNIXRYKtE2uk9g7) | 3:47 | 2021-08-27 |  |
 | [Faded](https://open.spotify.com/track/1mXf4qYj0F6TQjC68HgVpB) | [Port Manteau](https://open.spotify.com/artist/4ojaRUOBuNIGMobiA8wezo) | [Faded/Pyro](https://open.spotify.com/album/5aUAYUnJtBGYJx3pi8wzeC) | 3:27 | 2021-08-27 | 2022-07-22 |
 | [Fantasia](https://open.spotify.com/track/2eQ5IRgLQAVwTgCx4IfBDE) | [Fort Romeau](https://open.spotify.com/artist/5MKqWyqq5CStK7AhkTvzQF) | [Fantasia](https://open.spotify.com/album/29uIxgnBAojrM6NFUBasxq) | 6:33 | 2021-08-27 | 2022-11-20 |
@@ -70,7 +71,7 @@
 | [Prisoner Of Love](https://open.spotify.com/track/0LUcldwbzxW97CU6K6L0Ka) | [Biesmans](https://open.spotify.com/artist/1RR1AtX6SAujecwlLacHRz), [Vandesande](https://open.spotify.com/artist/1XQTSZlJDmxoGzS1DeIzUm) | [Inglorious Express EP](https://open.spotify.com/album/5lCI3qcSWRrIBATyqJZFtt) | 6:40 | 2021-08-27 |  |
 | [Prisoner Of Love](https://open.spotify.com/track/60tZGOC6o3nqJa98se64Wi) | [Biesmans](https://open.spotify.com/artist/1RR1AtX6SAujecwlLacHRz), [Vandesande](https://open.spotify.com/artist/1XQTSZlJDmxoGzS1DeIzUm) | [Inglorious Express EP](https://open.spotify.com/album/3lu8ZwjXwWe5ZnPsG3moBr) | 6:40 | 2021-08-27 | 2022-07-29 |
 | [Quar](https://open.spotify.com/track/5ZkLhs6b1taWIkDMY4KRaf) | [Jordan Nocturne](https://open.spotify.com/artist/2yXuTkmZAi1D8vXJrRA72W) | [CARE4LIFE](https://open.spotify.com/album/5UupDvLyN0JgQ5L67Lv63c) | 5:58 | 2021-08-27 | 2022-07-27 |
-| [Queen of Hearts](https://open.spotify.com/track/0AjOXYBi68jDSQT7n5Ng1c) | [Monki](https://open.spotify.com/artist/30C3E9bYfEQPAY9MweeUVe) | [Queen of Hearts](https://open.spotify.com/album/3ajvK2fDmbEuUrGCGMeque) | 3:56 | 2021-08-27 |  |
+| [Queen of Hearts](https://open.spotify.com/track/0AjOXYBi68jDSQT7n5Ng1c) | [Monki](https://open.spotify.com/artist/30C3E9bYfEQPAY9MweeUVe) | [Queen of Hearts](https://open.spotify.com/album/3ajvK2fDmbEuUrGCGMeque) | 3:56 | 2021-08-27 | 2023-12-04 |
 | [Queen Of Hearts](https://open.spotify.com/track/4gwEkJmN6PcgVfnawh2DHl) | [Monki](https://open.spotify.com/artist/30C3E9bYfEQPAY9MweeUVe) | [Queen Of Hearts](https://open.spotify.com/album/1JwugDF7QsCi2zv0zGx2QQ) | 3:56 | 2021-08-27 | 2022-07-29 |
 | [Roda \- Musumeci Remix](https://open.spotify.com/track/5F0NT4Jf6f6LiNyHcS6I2C) | [Glowal](https://open.spotify.com/artist/4XCU9tk7hogxz1SRTvVXLJ), [Simon Batten](https://open.spotify.com/artist/2IfPooWI6GcCyI6FQX52Zz), [Musumeci](https://open.spotify.com/artist/5AezOTggHnFTiQ5AiowFBf) | [Roda remixes](https://open.spotify.com/album/3JhTTEif63zfLhVRHJYyd2) | 5:16 | 2021-08-27 | 2022-07-29 |
 | [Roma](https://open.spotify.com/track/5TiwTIba6lYkRtv1IFxxIU) | [Lifelike](https://open.spotify.com/artist/3sa5sqxJqYjDZhGxmo4Ko5) | [Italo Disco](https://open.spotify.com/album/0vZrlHYbxOtIMjQUmPGshi) | 3:25 | 2021-08-27 |  |

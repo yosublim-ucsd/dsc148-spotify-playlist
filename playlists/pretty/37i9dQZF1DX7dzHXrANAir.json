@@ -1,12 +1,12 @@
 {
   "description": "The genre-defying artists inspired by classical music. Photo: Nils Frahm.",
-  "num_followers": 103269,
+  "num_followers": 103305,
   "original_name": "Classical X",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyOWJkZGY2ZWUxZmQ3OTk3YjQ2NjlkZmRkYTkzZmQ1OWIyMjRhYjBh",
+  "snapshot_id": "MCwxZWRlMThkZTNlOTI2NGViNjM2YTZhZWEwODdlYjkyZWUxMmNmYjRh",
   "tracks": [
     {
       "added_at": "2023-10-20 04:00:00",
@@ -351,8 +351,8 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Venice - Infinitely Avantgarde (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/45RJUxxh0wvVRUyd1sTjI9"
+        "name": "Music for Film and Theatre",
+        "url": "https://open.spotify.com/album/2lxo1T9lLWrS9EGdMOx37W"
       },
       "artists": [
         {
@@ -360,9 +360,9 @@
           "url": "https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD"
         }
       ],
-      "duration_ms": 235563,
-      "name": "G-Minor",
-      "url": "https://open.spotify.com/track/0kZo2kJ2j7Mk6JfoqHBoj8"
+      "duration_ms": 233148,
+      "name": "Soleil P\u00e2le",
+      "url": "https://open.spotify.com/track/4ybl2VlK5Iw5zVT8WeSzhJ"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -438,39 +438,11 @@
         {
           "name": "Thylacine",
           "url": "https://open.spotify.com/artist/5If5Tdg66Q5X3L57G7A6Pn"
-        },
-        {
-          "name": "U\u00e8le Lamore",
-          "url": "https://open.spotify.com/artist/12jPinlyvDpbdEHwg0oXXl"
-        },
-        {
-          "name": "Pierre-Louis Bonamy",
-          "url": "https://open.spotify.com/artist/0SRstnr4CDVioPCrDDFoch"
-        },
-        {
-          "name": "Orchestre national des Pays de la Loire",
-          "url": "https://open.spotify.com/artist/1i7fbBvtzozXObZKcL6sGH"
         }
       ],
       "duration_ms": 260321,
       "name": "Poly (and 74 musicians)",
       "url": "https://open.spotify.com/track/1GRityO3SrskfCTgJxM2dN"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
-        "name": "Satori by the Sea",
-        "url": "https://open.spotify.com/album/2DwRSu0Ma7a0208qxmETWh"
-      },
-      "artists": [
-        {
-          "name": "Ed Carlsen",
-          "url": "https://open.spotify.com/artist/0yW0kiRsK5MYhgICpQhbaG"
-        }
-      ],
-      "duration_ms": 187000,
-      "name": "Satori by the Sea",
-      "url": "https://open.spotify.com/track/3xQXq8FXZcVFU45QwWuOEP"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -495,22 +467,18 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Bird's Tail (Slow Meadow Rework)",
-        "url": "https://open.spotify.com/album/41A2Z3jqK5tORTdVujNpkf"
+        "name": "Satori by the Sea",
+        "url": "https://open.spotify.com/album/2DwRSu0Ma7a0208qxmETWh"
       },
       "artists": [
         {
-          "name": "Message To Bears",
-          "url": "https://open.spotify.com/artist/6MmQrV24zUeieNf027zkh3"
-        },
-        {
-          "name": "Slow Meadow",
-          "url": "https://open.spotify.com/artist/1X93CiijNCFQa4o17hLwI3"
+          "name": "Ed Carlsen",
+          "url": "https://open.spotify.com/artist/0yW0kiRsK5MYhgICpQhbaG"
         }
       ],
-      "duration_ms": 343893,
-      "name": "Bird's Tail - Slow Meadow Rework",
-      "url": "https://open.spotify.com/track/4fuukOE5mmxGBvnxm2kJQj"
+      "duration_ms": 187000,
+      "name": "Satori by the Sea",
+      "url": "https://open.spotify.com/track/3xQXq8FXZcVFU45QwWuOEP"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -531,6 +499,26 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
+        "name": "Bird's Tail (Slow Meadow Rework)",
+        "url": "https://open.spotify.com/album/41A2Z3jqK5tORTdVujNpkf"
+      },
+      "artists": [
+        {
+          "name": "Message To Bears",
+          "url": "https://open.spotify.com/artist/6MmQrV24zUeieNf027zkh3"
+        },
+        {
+          "name": "Slow Meadow",
+          "url": "https://open.spotify.com/artist/1X93CiijNCFQa4o17hLwI3"
+        }
+      ],
+      "duration_ms": 343893,
+      "name": "Bird's Tail - Slow Meadow Rework",
+      "url": "https://open.spotify.com/track/4fuukOE5mmxGBvnxm2kJQj"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
         "name": "N\u00e9fos",
         "url": "https://open.spotify.com/album/07cr40kGjUlSCOHTL5ka8B"
       },
@@ -547,8 +535,8 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Music for Film and Theatre",
-        "url": "https://open.spotify.com/album/2lxo1T9lLWrS9EGdMOx37W"
+        "name": "Venice - Infinitely Avantgarde (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/45RJUxxh0wvVRUyd1sTjI9"
       },
       "artists": [
         {
@@ -556,9 +544,9 @@
           "url": "https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD"
         }
       ],
-      "duration_ms": 233148,
-      "name": "Soleil P\u00e2le",
-      "url": "https://open.spotify.com/track/4ybl2VlK5Iw5zVT8WeSzhJ"
+      "duration_ms": 235563,
+      "name": "G-Minor",
+      "url": "https://open.spotify.com/track/0kZo2kJ2j7Mk6JfoqHBoj8"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -647,6 +635,22 @@
       "duration_ms": 339082,
       "name": "Abu Simbel - Hania Rani Invalides Version",
       "url": "https://open.spotify.com/track/1A3K44xa9pVPWdsCnfdHim"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "Apricity",
+        "url": "https://open.spotify.com/album/6gw9cTHx6LsTpixClO4xJe"
+      },
+      "artists": [
+        {
+          "name": "Aukai",
+          "url": "https://open.spotify.com/artist/2AyLrA3GFbgbrjOjVnGcny"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "Caf\u00e9 Papantla",
+      "url": "https://open.spotify.com/track/3LpMime27p6chEwOIZbluE"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -743,18 +747,18 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Apricity",
-        "url": "https://open.spotify.com/album/6gw9cTHx6LsTpixClO4xJe"
+        "name": "Pi\u00e8ces froides: II. Danses de travers, 2. Passer [TWO LANES Rework (FRAGMENTS / Erik Satie)]",
+        "url": "https://open.spotify.com/album/4f6WOROkFAHPvikfrY54Lh"
       },
       "artists": [
         {
-          "name": "Aukai",
-          "url": "https://open.spotify.com/artist/2AyLrA3GFbgbrjOjVnGcny"
+          "name": "TWO LANES",
+          "url": "https://open.spotify.com/artist/7mnuMLgvXdCWzyB4sQCG7k"
         }
       ],
-      "duration_ms": 186000,
-      "name": "Caf\u00e9 Papantla",
-      "url": "https://open.spotify.com/track/3LpMime27p6chEwOIZbluE"
+      "duration_ms": 335149,
+      "name": "Pi\u00e8ces froides: II. Danses de travers, 2. Passer - TWO LANES Rework (FRAGMENTS / Erik Satie)",
+      "url": "https://open.spotify.com/track/1lj5ruJAs5WDmVQO4pavbU"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -771,22 +775,6 @@
       "duration_ms": 341013,
       "name": "P\u00e1th\u0113",
       "url": "https://open.spotify.com/track/0bbJefbHetNlo7n26Dq6E0"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
-        "name": "Pi\u00e8ces froides: II. Danses de travers, 2. Passer [TWO LANES Rework (FRAGMENTS / Erik Satie)]",
-        "url": "https://open.spotify.com/album/4f6WOROkFAHPvikfrY54Lh"
-      },
-      "artists": [
-        {
-          "name": "TWO LANES",
-          "url": "https://open.spotify.com/artist/7mnuMLgvXdCWzyB4sQCG7k"
-        }
-      ],
-      "duration_ms": 335149,
-      "name": "Pi\u00e8ces froides: II. Danses de travers, 2. Passer - TWO LANES Rework (FRAGMENTS / Erik Satie)",
-      "url": "https://open.spotify.com/track/1lj5ruJAs5WDmVQO4pavbU"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -1323,22 +1311,6 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Movements",
-        "url": "https://open.spotify.com/album/5cgLX8KMJaNvS6WQaMXHwY"
-      },
-      "artists": [
-        {
-          "name": "Mazoulew",
-          "url": "https://open.spotify.com/artist/2FXIGKBu3oLpuZkXq6bMgj"
-        }
-      ],
-      "duration_ms": 139130,
-      "name": "Overture",
-      "url": "https://open.spotify.com/track/3UvvN8jTSRyb7LQZYxrnSI"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
         "name": "Late Reflections",
         "url": "https://open.spotify.com/album/614ZeZtRqXvqa6kGieLDqM"
       },
@@ -1355,22 +1327,18 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "ok (Dustin O'Halloran Rework) (feat. Dustin O'Halloran)",
-        "url": "https://open.spotify.com/album/5MZ8acAjqGSHJSzZEPeQny"
+        "name": "Movements",
+        "url": "https://open.spotify.com/album/5cgLX8KMJaNvS6WQaMXHwY"
       },
       "artists": [
         {
-          "name": "Hugar",
-          "url": "https://open.spotify.com/artist/0bdJp8l3a1uJRKe2YaAcE9"
-        },
-        {
-          "name": "Dustin O'Halloran",
-          "url": "https://open.spotify.com/artist/6UEYawMcp2M4JFoXVOtZEq"
+          "name": "Mazoulew",
+          "url": "https://open.spotify.com/artist/2FXIGKBu3oLpuZkXq6bMgj"
         }
       ],
-      "duration_ms": 307840,
-      "name": "ok (Dustin O'Halloran Rework) (feat. Dustin O'Halloran)",
-      "url": "https://open.spotify.com/track/487hpT0HXTGIpyQXvrVzSg"
+      "duration_ms": 139130,
+      "name": "Overture",
+      "url": "https://open.spotify.com/track/3UvvN8jTSRyb7LQZYxrnSI"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -1395,6 +1363,26 @@
       "duration_ms": 323693,
       "name": "Pavane - Sam Thompson Rework",
       "url": "https://open.spotify.com/track/5Bu4lKPV75Qn9leB3AHaVM"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "ok (Dustin O'Halloran Rework) (feat. Dustin O'Halloran)",
+        "url": "https://open.spotify.com/album/5MZ8acAjqGSHJSzZEPeQny"
+      },
+      "artists": [
+        {
+          "name": "Hugar",
+          "url": "https://open.spotify.com/artist/0bdJp8l3a1uJRKe2YaAcE9"
+        },
+        {
+          "name": "Dustin O'Halloran",
+          "url": "https://open.spotify.com/artist/6UEYawMcp2M4JFoXVOtZEq"
+        }
+      ],
+      "duration_ms": 307840,
+      "name": "ok (Dustin O'Halloran Rework) (feat. Dustin O'Halloran)",
+      "url": "https://open.spotify.com/track/487hpT0HXTGIpyQXvrVzSg"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -1467,22 +1455,6 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Mishkin & Septuagint",
-        "url": "https://open.spotify.com/album/1CgRejUrIDJCnbAo3VB3nc"
-      },
-      "artists": [
-        {
-          "name": "Paul Haslinger",
-          "url": "https://open.spotify.com/artist/5d9PdhcsOsXj0GIM857nvE"
-        }
-      ],
-      "duration_ms": 195719,
-      "name": "Mishkin",
-      "url": "https://open.spotify.com/track/5g1f2Vt8KVgPj8ZqmeNNO4"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
         "name": "Higher Ground",
         "url": "https://open.spotify.com/album/5QwPCN1Fn7WGvOUcjIsNlW"
       },
@@ -1503,6 +1475,22 @@
       "duration_ms": 181460,
       "name": "Feel What You Need",
       "url": "https://open.spotify.com/track/2IfutHlzHKdogrpvOdUgan"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "Mishkin & Septuagint",
+        "url": "https://open.spotify.com/album/1CgRejUrIDJCnbAo3VB3nc"
+      },
+      "artists": [
+        {
+          "name": "Paul Haslinger",
+          "url": "https://open.spotify.com/artist/5d9PdhcsOsXj0GIM857nvE"
+        }
+      ],
+      "duration_ms": 195719,
+      "name": "Mishkin",
+      "url": "https://open.spotify.com/track/5g1f2Vt8KVgPj8ZqmeNNO4"
     },
     {
       "added_at": "2023-10-20 04:00:00",

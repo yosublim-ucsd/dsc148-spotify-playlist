@@ -334,7 +334,7 @@
       ],
       "date_added": "2022-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-14",
+      "date_removed": null,
       "duration_ms": 208236,
       "name": "3 Am",
       "url": "https://open.spotify.com/track/1F205Nl2feOSYSztLNOJAL"
@@ -5100,7 +5100,7 @@
       ],
       "date_added": "2023-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-04",
       "duration_ms": 185745,
       "name": "DESDE CERO",
       "url": "https://open.spotify.com/track/5MmQjHAgOOYP1lQ4VAnFDX"
@@ -5810,6 +5810,28 @@
       "duration_ms": 135655,
       "name": "Dimdon - Remix",
       "url": "https://open.spotify.com/track/3STV7c3i82ArcyMejMHIwH"
+    },
+    {
+      "album": {
+        "name": "Dime",
+        "url": "https://open.spotify.com/album/3QCFBOlCq7WxdkpBkd6iF4"
+      },
+      "artists": [
+        {
+          "name": "El Duglas",
+          "url": "https://open.spotify.com/artist/0TihXBYo70wnbfcmJ47bF9"
+        },
+        {
+          "name": "El Micha",
+          "url": "https://open.spotify.com/artist/0d7jzRhjOifL8X9hxNvbEn"
+        }
+      ],
+      "date_added": "2023-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180124,
+      "name": "Dime",
+      "url": "https://open.spotify.com/track/1z00RuodTCo2HCGUKlL8mh"
     },
     {
       "album": {
@@ -10562,7 +10584,7 @@
       ],
       "date_added": "2022-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-04",
       "duration_ms": 255693,
       "name": "La Jumpa",
       "url": "https://open.spotify.com/track/2mnXxnrX5vCGolNkaFvVeM"
@@ -15566,7 +15588,7 @@
       ],
       "date_added": "2023-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-04",
       "duration_ms": 221961,
       "name": "Orgullo",
       "url": "https://open.spotify.com/track/16NOUrtM1TpAJZXavz3nB6"
@@ -17304,6 +17326,32 @@
       "duration_ms": 226485,
       "name": "PortoBello",
       "url": "https://open.spotify.com/track/4HXcnBfKuqGC2fIYXquurs"
+    },
+    {
+      "album": {
+        "name": "Posa",
+        "url": "https://open.spotify.com/album/51vnZDO3B9fX0zakxM7MDy"
+      },
+      "artists": [
+        {
+          "name": "Descemer Bueno",
+          "url": "https://open.spotify.com/artist/5luyt0SUvGkDMY4ILP6Qhl"
+        },
+        {
+          "name": "Joey Calveiro",
+          "url": "https://open.spotify.com/artist/0gBGs4D4ABcc4TiW8O2z1e"
+        },
+        {
+          "name": "Omi Hernandez",
+          "url": "https://open.spotify.com/artist/5TrKkrhYUxkSScH0LzgeqA"
+        }
+      ],
+      "date_added": "2023-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181891,
+      "name": "Posa",
+      "url": "https://open.spotify.com/track/1JIzw3BtVuntj30MKNhoLt"
     },
     {
       "album": {

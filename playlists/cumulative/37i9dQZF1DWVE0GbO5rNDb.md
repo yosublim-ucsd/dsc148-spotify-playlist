@@ -4,7 +4,7 @@
 
 > Hit dance per l'estate 2023, anche in autunno 👀
 
-337 songs - 16 hr 32 min
+338 songs - 16 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [B.O.T.A\. \(Baddest Of Them All\) \- Edit](https://open.spotify.com/track/39JofJHEtg8I4fSyo7Imft) | [Eliza Rose](https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP), [Interplanetary Criminal](https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI) | [B.O.T.A\. \(Baddest Of Them All\)](https://open.spotify.com/album/2lQgd3Svp1ZWAzZPLobAPK) | 3:46 | 2023-03-21 | 2023-05-05 |
 | [Baby Don't Hurt Me](https://open.spotify.com/track/3BKD1PwArikchz2Zrlp1qi) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Baby Don't Hurt Me](https://open.spotify.com/album/327tc3Eruk1HP1w62iqROy) | 2:20 | 2023-05-04 |  |
 | [Back & Forth](https://open.spotify.com/track/4M8x1TR36VMQMFMbGCdoyA) | [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9), [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Back & Forth](https://open.spotify.com/album/2WqGsuxmIREkcArxbp5IK0) | 3:16 | 2022-10-21 | 2023-03-18 |
+| [Baianá](https://open.spotify.com/track/17B9XlyyYDKkTmPay4z02V) | [Bakermat](https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM) | [The Ringmaster](https://open.spotify.com/album/30uB4Apy4yJgDSfE7xyA6n) | 3:00 | 2023-11-10 |  |
 | [Baianá](https://open.spotify.com/track/3q9oTSo64CrjOiPwI4DbWE) | [Bakermat](https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM) | [The Ringmaster](https://open.spotify.com/album/6gVyolnWeV2RyvzxxFIvro) | 3:00 | 2023-05-15 | 2023-10-21 |
 | [Baila Conmigo](https://open.spotify.com/track/3KruoUtSkm84Az0bJunnxl) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Baila Conmigo](https://open.spotify.com/album/00RgZ3hZH9WpvBksu2hx5G) | 2:26 | 2023-03-21 |  |
 | [Bailar Riddim](https://open.spotify.com/track/4jvCYgzFijnYGxqQcJgRnu) | [Simon Fava](https://open.spotify.com/artist/3tVEEXCoTAVMHyZqQ5kTyc), [Yvvan Back](https://open.spotify.com/artist/68fI3XKiTlRMJBYuxKJFU3) | [Bailar Riddim](https://open.spotify.com/album/3L07N9QtjRLysBgtx8aesx) | 3:31 | 2022-05-13 | 2022-07-29 |
@@ -167,7 +168,7 @@
 | [Kissed by the Sun](https://open.spotify.com/track/58mNefoSsSkSC15ly4ZEMu) | [Dualities](https://open.spotify.com/artist/7qplXWyxHyxChnW37jxBxt) | [Kissed by the Sun](https://open.spotify.com/album/5NRS1J7Ri5Ic1SAOx0xihE) | 2:47 | 2022-05-30 | 2023-05-16 |
 | [Knew That Second](https://open.spotify.com/track/0m6unz6uP458oqXaPWyIgt) | [MATTN](https://open.spotify.com/artist/1RQ3ZwCNI7KniEKIN5kkio), [Angemi](https://open.spotify.com/artist/3q5DAsSH8efMqNxjxbdpGx), [Trygge](https://open.spotify.com/artist/50fazcvxDiXlzBHusOK6gu) | [Knew That Second](https://open.spotify.com/album/79SkOcwPqz3dsNo2dKTigJ) | 2:40 | 2022-05-06 | 2022-07-29 |
 | [Leave A Little Love](https://open.spotify.com/track/5pmbZWt1lYVMvZ12MSdtqF) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5) | [Leave A Little Love](https://open.spotify.com/album/7x6hV80YBk3pWE4of9Q23y) | 3:07 | 2022-05-06 | 2023-11-12 |
-| [Legit](https://open.spotify.com/track/5p0aallQlnYrQmHI10BASz) | [Erlandsson](https://open.spotify.com/artist/3mkANE8kTZpm5SXJWCmihm), [The High](https://open.spotify.com/artist/5mKNjpx3SmjNqtxQTmuo9Z) | [Legit](https://open.spotify.com/album/33TLuvtiEY3AizYPGRB4HH) | 2:59 | 2022-10-01 |  |
+| [Legit](https://open.spotify.com/track/5p0aallQlnYrQmHI10BASz) | [Erlandsson](https://open.spotify.com/artist/3mkANE8kTZpm5SXJWCmihm), [The High](https://open.spotify.com/artist/5mKNjpx3SmjNqtxQTmuo9Z) | [Legit](https://open.spotify.com/album/33TLuvtiEY3AizYPGRB4HH) | 2:59 | 2022-10-01 | 2023-12-04 |
 | [Let Go \- Radio Edit](https://open.spotify.com/track/0oYBG9S6VAKLlNZm3TH0LH) | [Roken](https://open.spotify.com/artist/4D1p1yzMg6CpJYkV4m9999), [BLANE](https://open.spotify.com/artist/301wVPignZNHLb3h8zdCmJ) | [Let Go](https://open.spotify.com/album/4clFGkkOCBeF0YYzMoIvxx) | 3:12 | 2022-06-24 | 2023-05-05 |
 | [Let the Sun Shine \- Purple Disco Machine Remix](https://open.spotify.com/track/1W02hcbdwd4do45YJqSlED) | [Milk & Sugar](https://open.spotify.com/artist/159cwGtgCzNpyHWY6tzihH), [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4) | [Let the Sun Shine \(Purple Disco Machine Remix\)](https://open.spotify.com/album/6UhfjhKAcnH61ZGR9zZNFh) | 2:46 | 2022-05-06 | 2022-07-29 |
 | [Lies](https://open.spotify.com/track/7I5XQpe29kmU86T37nhJip) | [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9), [Raphaella](https://open.spotify.com/artist/3rJPS8fYBokXpYw1mS9wr0) | [Lies](https://open.spotify.com/album/1OSNncFtXpvRdzatk0TEjM) | 3:16 | 2022-05-13 | 2022-06-03 |

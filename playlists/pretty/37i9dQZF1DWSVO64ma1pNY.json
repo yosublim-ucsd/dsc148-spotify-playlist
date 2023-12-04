@@ -1,12 +1,12 @@
 {
   "description": "Life sucks...i need some rock!",
-  "num_followers": 296075,
+  "num_followers": 296117,
   "original_name": "Anger Management",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZDdjOTk3MjMzNzFmNzI5YWY2NGI2YTc0MDJmNThjOWRlNTQyMjY0",
+  "snapshot_id": "MCxjYWMzMGNmYjc1YmVhNmJmMmEwZTE0MmY3Y2I3ZTc4ZWY0NDJhNDBm",
   "tracks": [
     {
       "added_at": "2023-10-25 14:30:59",
@@ -355,22 +355,6 @@
     {
       "added_at": "2023-10-25 14:30:59",
       "album": {
-        "name": "Bleed American",
-        "url": "https://open.spotify.com/album/0UJhhj5bn5AGAjryFnhueP"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Eat World",
-          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
-        }
-      ],
-      "duration_ms": 181493,
-      "name": "Bleed American",
-      "url": "https://open.spotify.com/track/61XspFITuKmAlYdQacNCbF"
-    },
-    {
-      "added_at": "2023-10-25 14:30:59",
-      "album": {
         "name": "Mer De Noms",
         "url": "https://open.spotify.com/album/0GeWd0yUKXHbCXVag1mJvO"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 247266,
       "name": "Judith",
       "url": "https://open.spotify.com/track/5KDNFlHAdDJ84fhK27c35X"
+    },
+    {
+      "added_at": "2023-10-25 14:30:59",
+      "album": {
+        "name": "Bleed American",
+        "url": "https://open.spotify.com/album/0UJhhj5bn5AGAjryFnhueP"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Eat World",
+          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
+        }
+      ],
+      "duration_ms": 181493,
+      "name": "Bleed American",
+      "url": "https://open.spotify.com/track/61XspFITuKmAlYdQacNCbF"
     },
     {
       "added_at": "2023-10-25 14:30:59",
@@ -723,22 +723,6 @@
     {
       "added_at": "2023-10-25 14:30:59",
       "album": {
-        "name": "The Heroin Diaries Soundtrack",
-        "url": "https://open.spotify.com/album/2sHrTFehGvpj3sLoZn9ZBy"
-      },
-      "artists": [
-        {
-          "name": "Sixx:A.M.",
-          "url": "https://open.spotify.com/artist/3886aFez2HDLkio5tUzmP6"
-        }
-      ],
-      "duration_ms": 215000,
-      "name": "Life is Beautiful",
-      "url": "https://open.spotify.com/track/6zW2lcSvb5RDzJEauHZHPS"
-    },
-    {
-      "added_at": "2023-10-25 14:30:59",
-      "album": {
         "name": "Sci-Fi Crimes",
         "url": "https://open.spotify.com/album/4yo38BbmUi80kZOqHlRhNH"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 199800,
       "name": "Jars",
       "url": "https://open.spotify.com/track/0CD1Hybzpwc9Av6iRI2xjr"
+    },
+    {
+      "added_at": "2023-10-25 14:30:59",
+      "album": {
+        "name": "The Heroin Diaries Soundtrack",
+        "url": "https://open.spotify.com/album/2sHrTFehGvpj3sLoZn9ZBy"
+      },
+      "artists": [
+        {
+          "name": "Sixx:A.M.",
+          "url": "https://open.spotify.com/artist/3886aFez2HDLkio5tUzmP6"
+        }
+      ],
+      "duration_ms": 215000,
+      "name": "Life is Beautiful",
+      "url": "https://open.spotify.com/track/6zW2lcSvb5RDzJEauHZHPS"
     },
     {
       "added_at": "2023-10-25 14:30:59",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2023-10-25 14:30:59",
       "album": {
-        "name": "Pop Evil",
-        "url": "https://open.spotify.com/album/5F9U13GyT071nXmYf13VI9"
-      },
-      "artists": [
-        {
-          "name": "Pop Evil",
-          "url": "https://open.spotify.com/artist/1pRaG81GsVtaTBuVSpldt2"
-        }
-      ],
-      "duration_ms": 231963,
-      "name": "Waking Lions",
-      "url": "https://open.spotify.com/track/1VMSib83ZkffP22T64hxot"
-    },
-    {
-      "added_at": "2023-10-25 14:30:59",
-      "album": {
         "name": "But Here We Are",
         "url": "https://open.spotify.com/album/4wp4aWWpoYfNcspimVAnel"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 283466,
       "name": "But Here We Are",
       "url": "https://open.spotify.com/track/5s18NymFEHOtiUMfVr6E3H"
+    },
+    {
+      "added_at": "2023-10-25 14:30:59",
+      "album": {
+        "name": "Pop Evil",
+        "url": "https://open.spotify.com/album/5F9U13GyT071nXmYf13VI9"
+      },
+      "artists": [
+        {
+          "name": "Pop Evil",
+          "url": "https://open.spotify.com/artist/1pRaG81GsVtaTBuVSpldt2"
+        }
+      ],
+      "duration_ms": 231963,
+      "name": "Waking Lions",
+      "url": "https://open.spotify.com/track/1VMSib83ZkffP22T64hxot"
     },
     {
       "added_at": "2023-10-25 14:30:59",
@@ -1147,6 +1147,22 @@
     {
       "added_at": "2023-10-25 14:30:59",
       "album": {
+        "name": "Rescued",
+        "url": "https://open.spotify.com/album/74RB6Y9T2ubqGah14jueyO"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "duration_ms": 258648,
+      "name": "Rescued",
+      "url": "https://open.spotify.com/track/6mgzUNNr3NY6NbTzNzwYq9"
+    },
+    {
+      "added_at": "2023-10-25 14:30:59",
+      "album": {
         "name": "Only Revolutions",
         "url": "https://open.spotify.com/album/6UuQatBlB5QYszvOsBawSD"
       },
@@ -1159,22 +1175,6 @@
       "duration_ms": 301080,
       "name": "Bubbles",
       "url": "https://open.spotify.com/track/05lBXOMA1uHpVPEQZyjoh3"
-    },
-    {
-      "added_at": "2023-10-25 14:30:59",
-      "album": {
-        "name": "Skeletons",
-        "url": "https://open.spotify.com/album/42wOkbQaZa1jnpBpUmk5Zv"
-      },
-      "artists": [
-        {
-          "name": "Pop Evil",
-          "url": "https://open.spotify.com/artist/1pRaG81GsVtaTBuVSpldt2"
-        }
-      ],
-      "duration_ms": 209542,
-      "name": "Skeletons",
-      "url": "https://open.spotify.com/track/7klR0a6pWaMiRanIkwg1vy"
     },
     {
       "added_at": "2023-10-25 14:30:59",
@@ -1243,18 +1243,18 @@
     {
       "added_at": "2023-10-25 14:30:59",
       "album": {
-        "name": "Rescued",
-        "url": "https://open.spotify.com/album/74RB6Y9T2ubqGah14jueyO"
+        "name": "Skeletons",
+        "url": "https://open.spotify.com/album/42wOkbQaZa1jnpBpUmk5Zv"
       },
       "artists": [
         {
-          "name": "Foo Fighters",
-          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+          "name": "Pop Evil",
+          "url": "https://open.spotify.com/artist/1pRaG81GsVtaTBuVSpldt2"
         }
       ],
-      "duration_ms": 258648,
-      "name": "Rescued",
-      "url": "https://open.spotify.com/track/6mgzUNNr3NY6NbTzNzwYq9"
+      "duration_ms": 209542,
+      "name": "Skeletons",
+      "url": "https://open.spotify.com/track/7klR0a6pWaMiRanIkwg1vy"
     },
     {
       "added_at": "2023-10-25 14:30:59",
@@ -1303,6 +1303,22 @@
       "duration_ms": 209061,
       "name": "Won\u2019t Stand Down",
       "url": "https://open.spotify.com/track/6hIr2IDeBDXfRFk0rYe5Tz"
+    },
+    {
+      "added_at": "2023-10-25 14:30:59",
+      "album": {
+        "name": "Sonic Highways",
+        "url": "https://open.spotify.com/album/2qwN15acAl3sm3Idce5vK9"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "duration_ms": 288453,
+      "name": "Something from Nothing",
+      "url": "https://open.spotify.com/track/6REiraH7Pe3akd0mkFA4l9"
     },
     {
       "added_at": "2023-10-25 14:30:59",
@@ -1387,22 +1403,6 @@
     {
       "added_at": "2023-10-25 14:30:59",
       "album": {
-        "name": "Sonic Highways",
-        "url": "https://open.spotify.com/album/2qwN15acAl3sm3Idce5vK9"
-      },
-      "artists": [
-        {
-          "name": "Foo Fighters",
-          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
-        }
-      ],
-      "duration_ms": 288453,
-      "name": "Something from Nothing",
-      "url": "https://open.spotify.com/track/6REiraH7Pe3akd0mkFA4l9"
-    },
-    {
-      "added_at": "2023-10-25 14:30:59",
-      "album": {
         "name": "Head Up",
         "url": "https://open.spotify.com/album/6NaV5Skx0kHFSzUSmFsDtc"
       },
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2023-10-25 14:30:59",
       "album": {
-        "name": "Boom Boom Room (Side B)",
-        "url": "https://open.spotify.com/album/66DI08aLccnN1mHY3EUgZ8"
-      },
-      "artists": [
-        {
-          "name": "Palaye Royale",
-          "url": "https://open.spotify.com/artist/0hAd6zwEgt9ILuMDY1prcI"
-        }
-      ],
-      "duration_ms": 213394,
-      "name": "You'll Be Fine",
-      "url": "https://open.spotify.com/track/2oqEr1DHeyWIYTKBJej7WP"
-    },
-    {
-      "added_at": "2023-10-25 14:30:59",
-      "album": {
         "name": "Cub",
         "url": "https://open.spotify.com/album/1QNeya5YNW3oiuUi7B54y7"
       },
@@ -1463,6 +1447,22 @@
       "duration_ms": 183466,
       "name": "Leader of the Pack",
       "url": "https://open.spotify.com/track/1YYK8zYkBKxVaANQ7CkgYu"
+    },
+    {
+      "added_at": "2023-10-25 14:30:59",
+      "album": {
+        "name": "Boom Boom Room (Side B)",
+        "url": "https://open.spotify.com/album/66DI08aLccnN1mHY3EUgZ8"
+      },
+      "artists": [
+        {
+          "name": "Palaye Royale",
+          "url": "https://open.spotify.com/artist/0hAd6zwEgt9ILuMDY1prcI"
+        }
+      ],
+      "duration_ms": 213394,
+      "name": "You'll Be Fine",
+      "url": "https://open.spotify.com/track/2oqEr1DHeyWIYTKBJej7WP"
     },
     {
       "added_at": "2023-10-25 14:30:59",
@@ -1599,22 +1599,6 @@
     {
       "added_at": "2023-10-25 14:30:59",
       "album": {
-        "name": "Ours Is Chrome",
-        "url": "https://open.spotify.com/album/2D2fnA0gaDp5ITUIvsHCmE"
-      },
-      "artists": [
-        {
-          "name": "Superheaven",
-          "url": "https://open.spotify.com/artist/1IHjrY7ygKbmLVoUV1VcXc"
-        }
-      ],
-      "duration_ms": 244358,
-      "name": "Next To Nothing",
-      "url": "https://open.spotify.com/track/4kyCTcAbtt78Q2LC5ASSED"
-    },
-    {
-      "added_at": "2023-10-25 14:30:59",
-      "album": {
         "name": "Typhoons",
         "url": "https://open.spotify.com/album/05aqnnpYVOvsX0SIzmIuxi"
       },
@@ -1627,6 +1611,22 @@
       "duration_ms": 190133,
       "name": "Who Needs Friends",
       "url": "https://open.spotify.com/track/7AXoSHtReIvoJPi5XKXecl"
+    },
+    {
+      "added_at": "2023-10-25 14:30:59",
+      "album": {
+        "name": "Ours Is Chrome",
+        "url": "https://open.spotify.com/album/2D2fnA0gaDp5ITUIvsHCmE"
+      },
+      "artists": [
+        {
+          "name": "Superheaven",
+          "url": "https://open.spotify.com/artist/1IHjrY7ygKbmLVoUV1VcXc"
+        }
+      ],
+      "duration_ms": 244358,
+      "name": "Next To Nothing",
+      "url": "https://open.spotify.com/track/4kyCTcAbtt78Q2LC5ASSED"
     }
   ],
   "unique_name": "Anger Management",

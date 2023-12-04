@@ -4,7 +4,7 @@
 
 > Découvrez les meilleures nouveautés francophones\. Photo: Etienne Dufresne
 
-2,218 songs - 4 day 22 hr 31 min
+2,219 songs - 4 day 22 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -412,6 +412,7 @@
 | [Corail](https://open.spotify.com/track/2KWBGKai14pB73DiW3IsR3) | [Caroline Savoie](https://open.spotify.com/artist/0XTtTfY9lTNs1wPgpICfBb) | [Corail](https://open.spotify.com/album/4pbFzAkIlryz0VySQ5fITd) | 3:59 | 2022-08-19 | 2022-09-03 |
 | [Corde à linge](https://open.spotify.com/track/0U4ukkvUsKmvNw4aUMikco) | [Koriass](https://open.spotify.com/artist/4aLij7W6aqtpsRriCSjGLq) | [Corde à linge](https://open.spotify.com/album/7fPC38bEo6lSGyiTk7SNb2) | 3:19 | 2022-02-11 | 2022-02-26 |
 | [Corona light](https://open.spotify.com/track/1gQLE2ozKh6McIYfgL4Wky) | [SH4WN](https://open.spotify.com/artist/3EcCcFChapDgHGNykJw9P1), [Guillaume Laroche](https://open.spotify.com/artist/15mBsQXYcklrlBSrBqUXey) | [Corona light](https://open.spotify.com/album/0TMLSxnRdyyNKEchFCivLF) | 3:12 | 2021-12-31 | 2022-01-22 |
+| [CORONER](https://open.spotify.com/track/0fU8nZlFxeplNx9SeuYEQL) | [ASHE 22](https://open.spotify.com/artist/3tTvSeZiFDP3CY5EdPGcR4), [Maes](https://open.spotify.com/artist/6L34dW6SKMSDaGIfYDU19j) | [KH\-22](https://open.spotify.com/album/1zqvKz8fhd93s4GPYFDYAP) | 2:51 | 2023-12-01 |  |
 | [Costco freestyle](https://open.spotify.com/track/0oFFNSKg6DvV7rYTCwfMMP) | [Lary Kidd](https://open.spotify.com/artist/1dHfOiwJsDtNzIIrsQgXtX) | [Costco freestyle](https://open.spotify.com/album/7zXtx6SQ1XkGiEi63Qrh8Q) | 2:16 | 2022-06-03 | 2022-06-18 |
 | [Couleur préférée](https://open.spotify.com/track/6tR8LvLFFzGqtDJ45Fc4TW) | [Klô Pelgag](https://open.spotify.com/artist/7vYe47XsRmlUuaA9ZSC9fi), [Joseph Mihalcean](https://open.spotify.com/artist/6FI0XUIwoS0nG6hleI7rXd), [Samuel Gougoux](https://open.spotify.com/artist/39mfxhVRYvXS0rTOM1SwwV) | [Sieste sur l'oreille droite](https://open.spotify.com/album/4vFqlPd7dkDP3Qs4eMbAn0) | 3:08 | 2023-10-27 | 2023-11-11 |
 | [COUP D'ÉTAT](https://open.spotify.com/track/0zd9tdyvDaU5YjEjJ47ij8) | [Mouss](https://open.spotify.com/artist/7D4rgoFxldk2wari7UObNY) | [COUP D'ÉTAT](https://open.spotify.com/album/21wYfrscJG9NHG4RfIS2Mv) | 3:22 | 2022-11-04 | 2022-11-19 |
@@ -1909,7 +1910,7 @@
 | [Superstar](https://open.spotify.com/track/6kFKyM6lv22Q3KJaIopkIe) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [Superstar](https://open.spotify.com/album/5QJwCA7duna6Wh4Y8cFWaO) | 3:54 | 2022-05-20 | 2022-06-04 |
 | [Supplice](https://open.spotify.com/track/2YdAbWohjq3hPveEVNOzkN) | [Scor Novy](https://open.spotify.com/artist/5EDWIzXeFXQwd0RVSdoTAS) | [Lotus II](https://open.spotify.com/album/1dfI7ardcsCs32S8GBpDUW) | 3:13 | 2021-12-31 | 2022-01-15 |
 | [SUR LA 15.](https://open.spotify.com/track/2PWAFmscQdqMwhIHRFelyd) | [Frank'emcy](https://open.spotify.com/artist/1U08mG4rKbGFB6kLMg1J0G) | [L'ALBUM DE L'ANNÉE](https://open.spotify.com/album/5oo6YFM3PtvK0GQPFggfjf) | 3:14 | 2023-02-17 | 2023-02-25 |
-| [Sur la glace](https://open.spotify.com/track/0Pw98pAQO87gY4zS1xyoqb) | [Georgio](https://open.spotify.com/artist/6Xc0KDqzw5u6EQLgdfeoKO), [Zeina](https://open.spotify.com/artist/2saNOYtb2v8aXMmezcwAiI) | [Années Sauvages Part\. 2](https://open.spotify.com/album/5p14nDbenYj1UxuSNU8EVH) | 3:10 | 2023-11-10 |  |
+| [Sur la glace](https://open.spotify.com/track/0Pw98pAQO87gY4zS1xyoqb) | [Georgio](https://open.spotify.com/artist/6Xc0KDqzw5u6EQLgdfeoKO), [Zeina](https://open.spotify.com/artist/2saNOYtb2v8aXMmezcwAiI) | [Années Sauvages Part\. 2](https://open.spotify.com/album/5p14nDbenYj1UxuSNU8EVH) | 3:10 | 2023-11-10 | 2023-12-04 |
 | [Sur la mélodie \(feat\. Ichon\)](https://open.spotify.com/track/1FnJheHq9Q9rArgP5Oiq1w) | [Les Louanges](https://open.spotify.com/artist/57GQLJX1O8guO5PVj46e6l), [Ichon](https://open.spotify.com/artist/5MJkroCz5vy8h3LeDsN1vu) | [Sur la mélodie \(feat\. Ichon\)](https://open.spotify.com/album/7ufj76jBr16b9EoMAO8sab) | 2:15 | 2023-02-10 | 2023-02-25 |
 | [Sur la pointe des pieds](https://open.spotify.com/track/1jK4orgoFQGbmYAYp7OMbq) | [Allô Fantôme](https://open.spotify.com/artist/48P9cQW6qwEGKMfeM60h2i) | [Sur la pointe des pieds](https://open.spotify.com/album/3I79ViJzvgFejiCj2UJVye) | 6:36 | 2022-04-29 | 2022-05-07 |
 | [SUR MA VIE](https://open.spotify.com/track/2dy5GvWNBz0wFVmrckMRMD) | [David Campana](https://open.spotify.com/artist/0yVnVpHr5djmPUqPtg3efc), [Shah Frank](https://open.spotify.com/artist/02CC6FGDalkdCUBJXAgjc8) | [SUR MA VIE](https://open.spotify.com/album/5gYnlOWSyq1vj0lxMDnFB9) | 2:48 | 2022-03-18 | 2022-03-26 |

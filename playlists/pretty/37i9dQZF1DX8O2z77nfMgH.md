@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Lanzamientos de la semana\. Lo nuevo de toda Iberoamérica\. Foto: Gabito Ballesteros
 
-[Spotify](https://open.spotify.com/user/spotify) - 930,826 likes - 57 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 930,848 likes - 57 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,4 +66,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 56 | [Amando O Inimigo \- Ao Vivo](https://open.spotify.com/track/3Ygy9AMTdoFHOWABEIuHWS) | [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [Ao Vivo Em Portugal](https://open.spotify.com/album/7lyxcFS7vs0VfgZDnY2cop) | 3:01 |
 | 57 | [Voltei Pra Cachorrada](https://open.spotify.com/track/2gF0DUT64JEFjqb0PJXj1M) | [Zé Felipe](https://open.spotify.com/artist/7cmuxPnXRJxwuYDHfbD8Eu), [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY) | [Voltei Pra Cachorrada](https://open.spotify.com/album/4PIUg2M3yEkQQFEK0zY0uz) | 2:23 |
 
-Snapshot ID: `MCxkNjZiODEyNmU2YjJiNDQyM2M2NDRhNTcyYzhjMzAyMGJiMDJmNzJk`
+Snapshot ID: `MCwzMzk1MzZlYjllYTQ4MDk3NzU1OTc2ZGI4MDRlNjUzMTA1ZDg1YTM3`

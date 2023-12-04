@@ -1,12 +1,12 @@
 {
   "description": "Uplifting and happy jazz christmas classics.",
-  "num_followers": 105478,
+  "num_followers": 105900,
   "original_name": "Feel Good Christmas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZTc3MzJjNzliMDE2ZTA3YTFmZWJhNzMzM2I2NjI2YWUxOWNjZWU5",
+  "snapshot_id": "MCwxMWY1MGJiNmExZmRhNThkODEwODk5YjY2Yzc2MjYyYjk4MTNkNDg1",
   "tracks": [
     {
       "added_at": "2023-12-01 00:01:00",
@@ -235,26 +235,6 @@
     {
       "added_at": "2023-12-01 00:01:00",
       "album": {
-        "name": "Christmas With You",
-        "url": "https://open.spotify.com/album/2cWrkknTj4squbs2aANuHp"
-      },
-      "artists": [
-        {
-          "name": "Norah Jones",
-          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
-        },
-        {
-          "name": "Laufey",
-          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
-        }
-      ],
-      "duration_ms": 258332,
-      "name": "Have Yourself A Merry Little Christmas",
-      "url": "https://open.spotify.com/track/0OF3lDc1c9Ws1WyElEUnnW"
-    },
-    {
-      "added_at": "2023-12-01 00:01:00",
-      "album": {
         "name": "Ultra-Lounge: Christmas Cocktails",
         "url": "https://open.spotify.com/album/6dJBEVFDu7iW0k5VFFA53t"
       },
@@ -283,6 +263,26 @@
       "duration_ms": 158253,
       "name": "White Christmas",
       "url": "https://open.spotify.com/track/14QJl6TD0xnKl26NkTVez2"
+    },
+    {
+      "added_at": "2023-12-01 00:01:00",
+      "album": {
+        "name": "Christmas With You",
+        "url": "https://open.spotify.com/album/2cWrkknTj4squbs2aANuHp"
+      },
+      "artists": [
+        {
+          "name": "Norah Jones",
+          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
+        },
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "duration_ms": 258332,
+      "name": "Have Yourself A Merry Little Christmas",
+      "url": "https://open.spotify.com/track/0OF3lDc1c9Ws1WyElEUnnW"
     },
     {
       "added_at": "2023-12-01 00:01:00",
@@ -403,22 +403,6 @@
     {
       "added_at": "2023-12-01 00:01:00",
       "album": {
-        "name": "Breaking It Up!",
-        "url": "https://open.spotify.com/album/0nwd49YxEDzYuCJG5hlfAX"
-      },
-      "artists": [
-        {
-          "name": "Louis Prima",
-          "url": "https://open.spotify.com/artist/52lBOxCxbJg0ttXEW9CQpW"
-        }
-      ],
-      "duration_ms": 145333,
-      "name": "Shake Hands with Santa Claus - Mono Recording",
-      "url": "https://open.spotify.com/track/4uWOOyWwhkYAchf4WFuiTT"
-    },
-    {
-      "added_at": "2023-12-01 00:01:00",
-      "album": {
         "name": "Sound Of Christmas",
         "url": "https://open.spotify.com/album/0YjxIUhLMpx8AitREvQxKl"
       },
@@ -435,18 +419,18 @@
     {
       "added_at": "2023-12-01 00:01:00",
       "album": {
-        "name": "Jolly old st Nicolas",
-        "url": "https://open.spotify.com/album/5cqLmVLHqKrcSDE2i4T9o5"
+        "name": "Breaking It Up!",
+        "url": "https://open.spotify.com/album/0nwd49YxEDzYuCJG5hlfAX"
       },
       "artists": [
         {
-          "name": "Michael Stylez & Co",
-          "url": "https://open.spotify.com/artist/64jHiDhZlL99Y3MxOwQ4qT"
+          "name": "Louis Prima",
+          "url": "https://open.spotify.com/artist/52lBOxCxbJg0ttXEW9CQpW"
         }
       ],
-      "duration_ms": 104169,
-      "name": "Jolly old st Nicolas",
-      "url": "https://open.spotify.com/track/4i7Gh6vfIhFA6HTWERr2TM"
+      "duration_ms": 145333,
+      "name": "Shake Hands with Santa Claus - Mono Recording",
+      "url": "https://open.spotify.com/track/4uWOOyWwhkYAchf4WFuiTT"
     },
     {
       "added_at": "2023-12-01 00:01:00",
@@ -463,6 +447,22 @@
       "duration_ms": 135760,
       "name": "Rudolph The Red-Nosed Reindeer",
       "url": "https://open.spotify.com/track/0XUARKkBvikXDEjSzdkWFP"
+    },
+    {
+      "added_at": "2023-12-01 00:01:00",
+      "album": {
+        "name": "Jolly old st Nicolas",
+        "url": "https://open.spotify.com/album/5cqLmVLHqKrcSDE2i4T9o5"
+      },
+      "artists": [
+        {
+          "name": "Michael Stylez & Co",
+          "url": "https://open.spotify.com/artist/64jHiDhZlL99Y3MxOwQ4qT"
+        }
+      ],
+      "duration_ms": 104169,
+      "name": "Jolly old st Nicolas",
+      "url": "https://open.spotify.com/track/4i7Gh6vfIhFA6HTWERr2TM"
     },
     {
       "added_at": "2023-12-01 00:01:00",
@@ -535,42 +535,6 @@
     {
       "added_at": "2023-12-01 00:01:00",
       "album": {
-        "name": "A Jazzy Christmas Celebration",
-        "url": "https://open.spotify.com/album/6Ss48nr4OdDZvR9Si3ONQP"
-      },
-      "artists": [
-        {
-          "name": "Carl Winther",
-          "url": "https://open.spotify.com/artist/6sGRzzszXhAo63o0iHBs7R"
-        }
-      ],
-      "duration_ms": 126284,
-      "name": "Mary's Boy Child",
-      "url": "https://open.spotify.com/track/5rfIV7AoYPDdv6XZZjGPKh"
-    },
-    {
-      "added_at": "2023-12-01 00:01:00",
-      "album": {
-        "name": "Sleigh Ride",
-        "url": "https://open.spotify.com/album/4AAqIoIry72zXyaCm9vm9u"
-      },
-      "artists": [
-        {
-          "name": "Seth MacFarlane",
-          "url": "https://open.spotify.com/artist/79D4dipwR6scV8AN3dm7gW"
-        },
-        {
-          "name": "Liz Gillies",
-          "url": "https://open.spotify.com/artist/7pLntWGInZPQxc4kXxzzjB"
-        }
-      ],
-      "duration_ms": 198002,
-      "name": "Sleigh Ride",
-      "url": "https://open.spotify.com/track/7ijbpqdujMMMbyV3sl6yIQ"
-    },
-    {
-      "added_at": "2023-12-01 00:01:00",
-      "album": {
         "name": "Jolly Holiday",
         "url": "https://open.spotify.com/album/6Bq0rkBNkUOFwGwMCPFHuN"
       },
@@ -599,6 +563,26 @@
       "duration_ms": 185030,
       "name": "Diddly Squat",
       "url": "https://open.spotify.com/track/5QeFN5OzkgWTVo9zO799ph"
+    },
+    {
+      "added_at": "2023-12-01 00:01:00",
+      "album": {
+        "name": "Sleigh Ride",
+        "url": "https://open.spotify.com/album/4AAqIoIry72zXyaCm9vm9u"
+      },
+      "artists": [
+        {
+          "name": "Seth MacFarlane",
+          "url": "https://open.spotify.com/artist/79D4dipwR6scV8AN3dm7gW"
+        },
+        {
+          "name": "Liz Gillies",
+          "url": "https://open.spotify.com/artist/7pLntWGInZPQxc4kXxzzjB"
+        }
+      ],
+      "duration_ms": 198002,
+      "name": "Sleigh Ride",
+      "url": "https://open.spotify.com/track/7ijbpqdujMMMbyV3sl6yIQ"
     },
     {
       "added_at": "2023-12-01 00:01:00",
@@ -655,18 +639,18 @@
     {
       "added_at": "2023-12-01 00:01:00",
       "album": {
-        "name": "Ultimate Christmas",
-        "url": "https://open.spotify.com/album/4NVXNilJI92yp86NwlVc87"
+        "name": "Ella & Louis Christmas",
+        "url": "https://open.spotify.com/album/4Stxbm7asfnEVduhRpWpzl"
       },
       "artists": [
         {
-          "name": "Peggy Lee",
-          "url": "https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc"
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
         }
       ],
-      "duration_ms": 139880,
-      "name": "Ring Those Christmas Bells",
-      "url": "https://open.spotify.com/track/2YA3CMWrGfQeLxtiS4zFZO"
+      "duration_ms": 164080,
+      "name": "Let It Snow! Let It Snow! Let It Snow!",
+      "url": "https://open.spotify.com/track/79Vow814grawUCdrBlYZbs"
     },
     {
       "added_at": "2023-12-01 00:01:00",
@@ -699,18 +683,18 @@
     {
       "added_at": "2023-12-01 00:01:00",
       "album": {
-        "name": "Ella & Louis Christmas",
-        "url": "https://open.spotify.com/album/4Stxbm7asfnEVduhRpWpzl"
+        "name": "Ultimate Christmas",
+        "url": "https://open.spotify.com/album/4NVXNilJI92yp86NwlVc87"
       },
       "artists": [
         {
-          "name": "Ella Fitzgerald",
-          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+          "name": "Peggy Lee",
+          "url": "https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc"
         }
       ],
-      "duration_ms": 164080,
-      "name": "Let It Snow! Let It Snow! Let It Snow!",
-      "url": "https://open.spotify.com/track/79Vow814grawUCdrBlYZbs"
+      "duration_ms": 139880,
+      "name": "Ring Those Christmas Bells",
+      "url": "https://open.spotify.com/track/2YA3CMWrGfQeLxtiS4zFZO"
     },
     {
       "added_at": "2023-12-01 00:01:00",
@@ -747,6 +731,26 @@
     {
       "added_at": "2023-12-01 00:01:00",
       "album": {
+        "name": "Louis Wishes You a Cool Yule",
+        "url": "https://open.spotify.com/album/2KquMleTyS3Ykm7440PjL6"
+      },
+      "artists": [
+        {
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+        },
+        {
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+        }
+      ],
+      "duration_ms": 191093,
+      "name": "I've Got My Love To Keep Me Warm",
+      "url": "https://open.spotify.com/track/0Ffhk7o19DQC3eU4nPxiJe"
+    },
+    {
+      "added_at": "2023-12-01 00:01:00",
+      "album": {
         "name": "What A Night! A Christmas Album",
         "url": "https://open.spotify.com/album/545gVC14v9Z8qiThMSJgui"
       },
@@ -779,6 +783,22 @@
     {
       "added_at": "2023-12-01 00:01:00",
       "album": {
+        "name": "Jingle Bells",
+        "url": "https://open.spotify.com/album/4MC3Lul2Dm1ooAtGVARP0a"
+      },
+      "artists": [
+        {
+          "name": "Armel Dupas Trio",
+          "url": "https://open.spotify.com/artist/6Bnvdx2Rqxe2ewzFxObRdU"
+        }
+      ],
+      "duration_ms": 225596,
+      "name": "Last Christmas",
+      "url": "https://open.spotify.com/track/2E55IaqlqMsF0NxU7oIIpC"
+    },
+    {
+      "added_at": "2023-12-01 00:01:00",
+      "album": {
         "name": "Christmas Time Is Here (Christmas Cards from David Hazeltine)",
         "url": "https://open.spotify.com/album/4zUEyVPEHFANqmnvUyB1LB"
       },
@@ -807,42 +827,6 @@
       "duration_ms": 153533,
       "name": "Mele Kalikimaka",
       "url": "https://open.spotify.com/track/0UqkDwuC21kH8aBghYK5gd"
-    },
-    {
-      "added_at": "2023-12-01 00:01:00",
-      "album": {
-        "name": "Louis Wishes You a Cool Yule",
-        "url": "https://open.spotify.com/album/2KquMleTyS3Ykm7440PjL6"
-      },
-      "artists": [
-        {
-          "name": "Ella Fitzgerald",
-          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
-        },
-        {
-          "name": "Louis Armstrong",
-          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
-        }
-      ],
-      "duration_ms": 191093,
-      "name": "I've Got My Love To Keep Me Warm",
-      "url": "https://open.spotify.com/track/0Ffhk7o19DQC3eU4nPxiJe"
-    },
-    {
-      "added_at": "2023-12-01 00:01:00",
-      "album": {
-        "name": "Jingle Bells",
-        "url": "https://open.spotify.com/album/4MC3Lul2Dm1ooAtGVARP0a"
-      },
-      "artists": [
-        {
-          "name": "Armel Dupas Trio",
-          "url": "https://open.spotify.com/artist/6Bnvdx2Rqxe2ewzFxObRdU"
-        }
-      ],
-      "duration_ms": 225596,
-      "name": "Last Christmas",
-      "url": "https://open.spotify.com/track/2E55IaqlqMsF0NxU7oIIpC"
     },
     {
       "added_at": "2023-12-01 00:01:00",
@@ -899,22 +883,6 @@
     {
       "added_at": "2023-12-01 00:01:00",
       "album": {
-        "name": "What A Night! A Christmas Album",
-        "url": "https://open.spotify.com/album/545gVC14v9Z8qiThMSJgui"
-      },
-      "artists": [
-        {
-          "name": "Harry Connick, Jr.",
-          "url": "https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79"
-        }
-      ],
-      "duration_ms": 203573,
-      "name": "What a Night!",
-      "url": "https://open.spotify.com/track/3379BhHoOyWDkewjzpgZAv"
-    },
-    {
-      "added_at": "2023-12-01 00:01:00",
-      "album": {
         "name": "A Big Band Christmas",
         "url": "https://open.spotify.com/album/10jafPwL637Df1uCD6Hxkt"
       },
@@ -931,6 +899,38 @@
       "duration_ms": 163600,
       "name": "Little Jack Frost Get Lost (with Marjorie Hughes) - 78rpm Version",
       "url": "https://open.spotify.com/track/2VOdqW6WMnCGeJRQDE4rR1"
+    },
+    {
+      "added_at": "2023-12-01 00:01:00",
+      "album": {
+        "name": "What A Night! A Christmas Album",
+        "url": "https://open.spotify.com/album/545gVC14v9Z8qiThMSJgui"
+      },
+      "artists": [
+        {
+          "name": "Harry Connick, Jr.",
+          "url": "https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79"
+        }
+      ],
+      "duration_ms": 203573,
+      "name": "What a Night!",
+      "url": "https://open.spotify.com/track/3379BhHoOyWDkewjzpgZAv"
+    },
+    {
+      "added_at": "2023-12-01 00:01:00",
+      "album": {
+        "name": "A Very Swingin\u2019 Basie Christmas!",
+        "url": "https://open.spotify.com/album/2YeKSxPeuQYiml0g6pzn7S"
+      },
+      "artists": [
+        {
+          "name": "Count Basie Orchestra",
+          "url": "https://open.spotify.com/artist/2Hn9fch2OLB5jZuEAVjTCe"
+        }
+      ],
+      "duration_ms": 290826,
+      "name": "Little Drummer Boy",
+      "url": "https://open.spotify.com/track/5lyN0bsNMnEp7NuAuHs9xY"
     },
     {
       "added_at": "2023-12-01 00:01:00",
@@ -971,22 +971,6 @@
       "duration_ms": 204000,
       "name": "Little White Berry",
       "url": "https://open.spotify.com/track/04i0n52ZpDuITt7uQpaWnt"
-    },
-    {
-      "added_at": "2023-12-01 00:01:00",
-      "album": {
-        "name": "A Very Swingin\u2019 Basie Christmas!",
-        "url": "https://open.spotify.com/album/2YeKSxPeuQYiml0g6pzn7S"
-      },
-      "artists": [
-        {
-          "name": "Count Basie Orchestra",
-          "url": "https://open.spotify.com/artist/2Hn9fch2OLB5jZuEAVjTCe"
-        }
-      ],
-      "duration_ms": 290826,
-      "name": "Little Drummer Boy",
-      "url": "https://open.spotify.com/track/5lyN0bsNMnEp7NuAuHs9xY"
     },
     {
       "added_at": "2023-12-01 00:01:00",
@@ -1071,6 +1055,22 @@
     {
       "added_at": "2023-12-01 00:01:00",
       "album": {
+        "name": "Christmas Time Is Here",
+        "url": "https://open.spotify.com/album/2I3uMBceHIZ4NXGM2HMl3Y"
+      },
+      "artists": [
+        {
+          "name": "Dianne Reeves",
+          "url": "https://open.spotify.com/artist/7nwrblOf59ulOiB6djwPVh"
+        }
+      ],
+      "duration_ms": 237053,
+      "name": "Carol Of The Bells",
+      "url": "https://open.spotify.com/track/5YmJtoST7bbcxCycpyw2yL"
+    },
+    {
+      "added_at": "2023-12-01 00:01:00",
+      "album": {
         "name": "Pretty/Groovy (Expanded Edition)",
         "url": "https://open.spotify.com/album/2ne69wnZ79HpZDBS8Zc1XJ"
       },
@@ -1103,22 +1103,6 @@
       "duration_ms": 186000,
       "name": "Hark! The Herald Angels Sing",
       "url": "https://open.spotify.com/track/0xKTdKwBalLkjGh5wKfGaD"
-    },
-    {
-      "added_at": "2023-12-01 00:01:00",
-      "album": {
-        "name": "Christmas Time Is Here",
-        "url": "https://open.spotify.com/album/2I3uMBceHIZ4NXGM2HMl3Y"
-      },
-      "artists": [
-        {
-          "name": "Dianne Reeves",
-          "url": "https://open.spotify.com/artist/7nwrblOf59ulOiB6djwPVh"
-        }
-      ],
-      "duration_ms": 237053,
-      "name": "Carol Of The Bells",
-      "url": "https://open.spotify.com/track/5YmJtoST7bbcxCycpyw2yL"
     },
     {
       "added_at": "2023-12-01 00:01:00",
@@ -1203,26 +1187,6 @@
     {
       "added_at": "2023-12-01 00:01:00",
       "album": {
-        "name": "The Pianoman at Christmas (The Complete Edition)",
-        "url": "https://open.spotify.com/album/0LuEO5CPU8DqYEA31cfaGV"
-      },
-      "artists": [
-        {
-          "name": "Jamie Cullum",
-          "url": "https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o"
-        },
-        {
-          "name": "Kansas Smitty's",
-          "url": "https://open.spotify.com/artist/7t02NhXZ77sXywJ3XghI7C"
-        }
-      ],
-      "duration_ms": 174090,
-      "name": "Man With The Bag",
-      "url": "https://open.spotify.com/track/0BCVQHXk8HY6Uip5gK2lrv"
-    },
-    {
-      "added_at": "2023-12-01 00:01:00",
-      "album": {
         "name": "Christmas with My Friends VIII",
         "url": "https://open.spotify.com/album/3FozTn1Z7wjqbIz0TUa9aw"
       },
@@ -1251,6 +1215,42 @@
       "duration_ms": 196800,
       "name": "O Tannenbaum",
       "url": "https://open.spotify.com/track/3CJ2KbL3dQ3UBlcOwvrBw4"
+    },
+    {
+      "added_at": "2023-12-01 00:01:00",
+      "album": {
+        "name": "The Pianoman at Christmas (The Complete Edition)",
+        "url": "https://open.spotify.com/album/0LuEO5CPU8DqYEA31cfaGV"
+      },
+      "artists": [
+        {
+          "name": "Jamie Cullum",
+          "url": "https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o"
+        },
+        {
+          "name": "Kansas Smitty's",
+          "url": "https://open.spotify.com/artist/7t02NhXZ77sXywJ3XghI7C"
+        }
+      ],
+      "duration_ms": 174090,
+      "name": "Man With The Bag",
+      "url": "https://open.spotify.com/track/0BCVQHXk8HY6Uip5gK2lrv"
+    },
+    {
+      "added_at": "2023-12-01 00:01:00",
+      "album": {
+        "name": "A Jazzy Christmas Celebration",
+        "url": "https://open.spotify.com/album/7M4BN6Gb0ny9GvML8AiH6W"
+      },
+      "artists": [
+        {
+          "name": "Carl Winther",
+          "url": "https://open.spotify.com/artist/6sGRzzszXhAo63o0iHBs7R"
+        }
+      ],
+      "duration_ms": 126284,
+      "name": "Mary's Boy Child",
+      "url": "https://open.spotify.com/track/7HuThzVZqpdfCSGZAfZbiS"
     },
     {
       "added_at": "2023-12-01 00:01:00",

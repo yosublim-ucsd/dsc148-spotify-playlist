@@ -382,7 +382,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-30",
+      "date_removed": null,
       "duration_ms": 241106,
       "name": "All I Want for Christmas Is You",
       "url": "https://open.spotify.com/track/0bYg9bo50gSsH3LtXe2SQn"
@@ -2872,7 +2872,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-04",
       "duration_ms": 220878,
       "name": "GODS",
       "url": "https://open.spotify.com/track/210JJAa9nJOgNa0YNrsT5g"
@@ -5686,7 +5686,7 @@
       ],
       "date_added": "2023-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-04",
       "duration_ms": 212253,
       "name": "OMG",
       "url": "https://open.spotify.com/track/65FftemJ1DbbZ45DUfHJXE"
@@ -10090,7 +10090,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-13",
+      "date_removed": null,
       "duration_ms": 194266,
       "name": "\u52c7\u8005",
       "url": "https://open.spotify.com/track/0YTM7bCx451c6LQbkddy4Q"
@@ -11328,7 +11328,7 @@
       ],
       "date_added": "2023-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-04",
       "duration_ms": 218840,
       "name": "\u64c1\u62b1\u5f8c\u7684\u6b4c",
       "url": "https://open.spotify.com/track/3Frg7nyANyCvDpbyaOxtdf"
@@ -12620,6 +12620,24 @@
       "duration_ms": 297000,
       "name": "\u7802\u4e4b\u5668",
       "url": "https://open.spotify.com/track/4o36qfelYYKAkPGPEQYu3u"
+    },
+    {
+      "album": {
+        "name": "THE BOOK 3",
+        "url": "https://open.spotify.com/album/68w73FF3dYC6C3RWdcV0Yl"
+      },
+      "artists": [
+        {
+          "name": "YOASOBI",
+          "url": "https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj"
+        }
+      ],
+      "date_added": "2023-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192400,
+      "name": "\u795d\u798f",
+      "url": "https://open.spotify.com/track/1VoTe7qVyqyMNLgZpQeugO"
     },
     {
       "album": {

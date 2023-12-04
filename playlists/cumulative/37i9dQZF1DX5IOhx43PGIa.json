@@ -1716,7 +1716,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-04",
       "duration_ms": 239047,
       "name": "buttons!",
       "url": "https://open.spotify.com/track/5ekfEEnkAHxrn2KNvyZg7E"
@@ -5684,7 +5684,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-03",
+      "date_removed": null,
       "duration_ms": 167845,
       "name": "If It's Time",
       "url": "https://open.spotify.com/track/6tl3V3Br8AFYE6q9khDdR6"
@@ -9409,6 +9409,24 @@
     },
     {
       "album": {
+        "name": "scenic route",
+        "url": "https://open.spotify.com/album/6abn0ffmiMYSmEx8ksGBvE"
+      },
+      "artists": [
+        {
+          "name": "sundial",
+          "url": "https://open.spotify.com/artist/1SOubzv0uhrziEXbNLMUw9"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180592,
+      "name": "scenic route",
+      "url": "https://open.spotify.com/track/1WrIpH5KlgQrYBsutdyWSE"
+    },
+    {
+      "album": {
         "name": "see u dance",
         "url": "https://open.spotify.com/album/5VCAaf0fq3UNdPVytW2aS1"
       },
@@ -11018,7 +11036,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-04",
       "duration_ms": 227927,
       "name": "the american dream",
       "url": "https://open.spotify.com/track/0eqRXQyzoNrwnDEvcQyXSR"

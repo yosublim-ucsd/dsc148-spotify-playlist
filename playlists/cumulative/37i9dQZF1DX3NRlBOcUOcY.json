@@ -1382,7 +1382,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-04",
       "duration_ms": 200598,
       "name": "Dame Un Break",
       "url": "https://open.spotify.com/track/0GcoJFAS8gvhdMZ7OkSwYH"
@@ -2242,6 +2242,32 @@
       "duration_ms": 222522,
       "name": "GIRL LIKE ME",
       "url": "https://open.spotify.com/track/1zLBsSVxETQOfINOLYvT5m"
+    },
+    {
+      "album": {
+        "name": "Good Energy (Remix)",
+        "url": "https://open.spotify.com/album/1PihY5yy5PX8kW2jGonJW1"
+      },
+      "artists": [
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        },
+        {
+          "name": "Yung Wylin'",
+          "url": "https://open.spotify.com/artist/0m4kaX5bs4Jp3rCsRuLjA9"
+        },
+        {
+          "name": "Maffio",
+          "url": "https://open.spotify.com/artist/5RzT7CM6Ot0sh0EHefMicV"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214906,
+      "name": "Good Energy - Remix",
+      "url": "https://open.spotify.com/track/37sgLcobfnLtle8H17N0H1"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Slow jams from West Africa that unwind and relax
 
-329 songs - 16 hr 25 min
+330 songs - 16 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -154,6 +154,7 @@
 | [Kilode](https://open.spotify.com/track/01t7q7rORkWX4qjfQHeil1) | [Oladapo](https://open.spotify.com/artist/6HAro8NBhDtn8csZDPEBuB) | [IN CASE I NEVER LOVE AGAIN \( ICINLA\)](https://open.spotify.com/album/0xJWHpLQZOiOKoDzqquHfY) | 2:19 | 2023-09-09 | 2023-09-29 |
 | [Kondo](https://open.spotify.com/track/7k6pqLzmKGrFC5DJfTKEJy) | [Afrisounds](https://open.spotify.com/artist/7xRBFwkWrKG1Ql2OOOLT1A), [Nizzy](https://open.spotify.com/artist/49MZ2LfoETArTTAJPnQd4R), [Madi Banja](https://open.spotify.com/artist/0LdzDrRc2RESpGqwyhbE3t), [L.A.X](https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL) | [Kondo](https://open.spotify.com/album/2uCfT1EHCbCJPciM5D5xtL) | 4:25 | 2022-06-09 | 2022-08-07 |
 | [Labadi](https://open.spotify.com/track/0UP371eP3lmySxTUF79jLK) | [Blackway](https://open.spotify.com/artist/1QvK8bFc2WREH4LDlJcJbi) | [Labadi](https://open.spotify.com/album/7tlYleJ9w1xTOa8WX94K31) | 2:16 | 2023-09-29 | 2023-10-20 |
+| [Lackin](https://open.spotify.com/track/4xChpii9VTLnxj7AM9DO0t) | [Fresh L.](https://open.spotify.com/artist/5Req3092u4LKlAcv6kZALj), [Odunsi \(The Engine\)](https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW) | [Lifestyle](https://open.spotify.com/album/70USnNa3bAg0XAoaukW1x1) | 1:37 | 2023-12-01 |  |
 | [Lately](https://open.spotify.com/track/5Cs9XAqvVqv8hcTO0Q9iCR) | [Manu Crooks](https://open.spotify.com/artist/1nL98XHH55na3zeMnrYMXh) | [Lately](https://open.spotify.com/album/5TDwRF1rZqw9lqfdXKFQXS) | 2:10 | 2023-09-29 | 2023-10-07 |
 | [Lemons \(Lemonade\)](https://open.spotify.com/track/6PqdJb18ssWDcROvnsEqy6) | [AKA](https://open.spotify.com/artist/1QIghPIrXQQ22G1yNtAKFX), [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj) | [Lemons \(Lemonade\)](https://open.spotify.com/album/0u9KNTzXg6rpDm3AYEBiIQ) | 4:19 | 2022-09-19 |  |
 | [Level Up](https://open.spotify.com/track/13C83mBRF1HW2cQ1ThDn9q) | [Tha Boy Myles](https://open.spotify.com/artist/0kBkGmd0pKKvVpPXBRR5v5), [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Level Up](https://open.spotify.com/album/4HRPdNNrlFdvye0nyGEfBK) | 2:43 | 2023-08-10 | 2023-09-29 |
@@ -245,7 +246,7 @@
 | [See Finish](https://open.spotify.com/track/5ydzXyCRG9AUq9w8pIf0Uc) | [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh) | [See Finish](https://open.spotify.com/album/2f3gCbx2qefdq823voOXuh) | 3:00 | 2023-02-10 | 2023-03-04 |
 | [Sensational \(feat\. Davido & Lojay\)](https://open.spotify.com/track/5HM5trJxTouv3eUVcbW8sh) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [Sensational \(feat\. Davido & Lojay\)](https://open.spotify.com/album/68nJVTjmRbl5se1eYTglBA) | 3:51 | 2023-10-23 |  |
 | [Shy](https://open.spotify.com/track/0zf4pn9VXgQkXw784xZica) | [Killertunes](https://open.spotify.com/artist/1159Tto4wlVZpA3jeqXWZv), [BZ](https://open.spotify.com/artist/3KOofBJuoctTj0v5cgXHDF), [Not3s](https://open.spotify.com/artist/40NRiKuuhj1pgGYppptlBO) | [Shy](https://open.spotify.com/album/5WZgswcqvAbQfftf5LYXXg) | 2:57 | 2023-05-11 | 2023-06-23 |
-| [Signs](https://open.spotify.com/track/11Hgw9wXWzS4RbqWsKu0JP) | [Laime](https://open.spotify.com/artist/5G36eoF6O2hTwz3mNc6uvA) | [Naughty by Nature](https://open.spotify.com/album/3uaeQQUWVQyCvnFOtTmS1Y) | 2:03 | 2023-12-01 |  |
+| [Signs](https://open.spotify.com/track/11Hgw9wXWzS4RbqWsKu0JP) | [Laime](https://open.spotify.com/artist/5G36eoF6O2hTwz3mNc6uvA) | [Naughty by Nature](https://open.spotify.com/album/3uaeQQUWVQyCvnFOtTmS1Y) | 2:03 | 2023-12-01 | 2023-12-04 |
 | [Sinner](https://open.spotify.com/track/3k6Y1ESBwF1low4hHsY4wu) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Sinner](https://open.spotify.com/album/1kpkSvYRz40cdD1GvfN7OJ) | 2:54 | 2022-06-09 | 2023-10-18 |
 | [Sinner](https://open.spotify.com/track/1J12nWQKjodPf436e61Orp) | [Iyanya](https://open.spotify.com/artist/3ZUn6LYxdmmPYQqBhFWI3h), [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Sinner](https://open.spotify.com/album/2GaYDilv8Ei7fPAE9U0oVD) | 3:00 | 2023-05-04 |  |
 | [Sip \(Alcohol\)](https://open.spotify.com/track/4tr4oHjFijp0EgISHYDIXe) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Sip \(Alcohol\)](https://open.spotify.com/album/5Pvx6i7lDdbDMO79DE9FHR) | 2:38 | 2022-06-09 | 2023-09-29 |

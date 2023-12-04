@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5wB72P2sVsT.md) - [plain]
 
 > Mike Candys au top des bangers dance/electro du moment !
 
-[Spotify](https://open.spotify.com/user/spotify) - 406,106 likes - 50 songs - 2 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 406,234 likes - 50 songs - 2 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5wB72P2sVsT.md) - [plain]
 | 49 | [On My Love \- Felix Jaehn Remix](https://open.spotify.com/track/1CCjb1x6tRof8W6ApIJy6o) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG) | [On My Love \(Felix Jaehn Remix\)](https://open.spotify.com/album/0LMyvKO91nmgBAb1JFpIQw) | 3:30 |
 | 50 | [Atlantis \(Robin Schulz Presents KOPPY\)](https://open.spotify.com/track/5TdnT5EfvkF6K3jHDe7toT) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [KOPPY](https://open.spotify.com/artist/5SfqIMwBJ7wD419vvb33mO) | [Atlantis \(Robin Schulz Presents KOPPY\)](https://open.spotify.com/album/0RNI2RAuIHHNMDF4AuqkKz) | 3:02 |
 
-Snapshot ID: `MCw0YmI4YjAzYWU4ZWIwNGNkNmU0YTY1YzhkNjAyOWJjOThlODJhNGYw`
+Snapshot ID: `MCxhZGNkMTAyNGQzYmQ0NmVmYjA2YTEwZDE4ZGMxMTc0Y2Y2Zjk1NWNj`

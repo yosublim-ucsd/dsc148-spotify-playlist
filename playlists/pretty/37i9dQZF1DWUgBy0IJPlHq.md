@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUgBy0IJPlHq.md) - [plain]
 
 > A new shade of Country\. Cover: Luke Grimes
 
-[Spotify](https://open.spotify.com/user/spotify) - 493,641 likes - 101 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 493,823 likes - 101 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUgBy0IJPlHq.md) - [plain]
 | 100 | [One Hell of an Angel](https://open.spotify.com/track/1SniaPt656Q2RJFOh5QBPK) | [Warren Zeiders](https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi) | [One Hell of an Angel](https://open.spotify.com/album/4qngZnFUHmu4I3cGpENpWF) | 3:31 |
 | 101 | [Denim & Diamonds](https://open.spotify.com/track/7jAw05wdvqQhKDtKnFOH93) | [Nikki Lane](https://open.spotify.com/artist/2kWeFaiHBskk8oqky3KHcR) | [Denim & Diamonds](https://open.spotify.com/album/1AEHp7Ufjc2GEZGUlfFsML) | 3:12 |
 
-Snapshot ID: `MCw0MDVkNjNhZDIyYzI4M2RkNjg2NTRmYWEyZTY4Mjg1OTIzZjY0ZjZl`
+Snapshot ID: `MCxiMWM3MWYxYzg5NTBlZWE4NTMxYWM2YzcxYjhlYThlMzg5ZGMxZDE3`

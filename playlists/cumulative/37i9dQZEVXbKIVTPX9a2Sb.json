@@ -446,7 +446,7 @@
       ],
       "date_added": "2021-12-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-27",
+      "date_removed": null,
       "duration_ms": 135533,
       "name": "A Holly Jolly Christmas",
       "url": "https://open.spotify.com/track/77khP2fIVhSW23NwxrRluh"
@@ -1042,7 +1042,7 @@
       ],
       "date_added": "2023-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-04",
       "duration_ms": 244360,
       "name": "Another Love",
       "url": "https://open.spotify.com/track/3JvKfv6T31zO0ini8iNItO"
@@ -1796,6 +1796,28 @@
       "duration_ms": 151428,
       "name": "Baby Shark",
       "url": "https://open.spotify.com/track/2SBGsZEVAa4gGFjthkq2pP"
+    },
+    {
+      "album": {
+        "name": "Glow",
+        "url": "https://open.spotify.com/album/6FjK2XLQJloz36NgRciCHv"
+      },
+      "artists": [
+        {
+          "name": "Brett Eldredge",
+          "url": "https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz"
+        },
+        {
+          "name": "Meghan Trainor",
+          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
+        }
+      ],
+      "date_added": "2023-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173560,
+      "name": "Baby, It's Cold Outside (feat. Meghan Trainor)",
+      "url": "https://open.spotify.com/track/5Q2P43CJra0uRAogjHyJDK"
     },
     {
       "album": {
@@ -2690,7 +2712,7 @@
       ],
       "date_added": "2023-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-04",
       "duration_ms": 281000,
       "name": "Bengoro je sp\u00e1tky",
       "url": "https://open.spotify.com/track/6vaxL5p0Ig8dQdFHM9Qut3"
@@ -3010,6 +3032,32 @@
       "duration_ms": 200040,
       "name": "Blinding Lights",
       "url": "https://open.spotify.com/track/0VjIjW4GlUZAMYd2vXMi3b"
+    },
+    {
+      "album": {
+        "name": "The Time Traveler",
+        "url": "https://open.spotify.com/album/5b3IgxlpLn4OB2zbwentEv"
+      },
+      "artists": [
+        {
+          "name": "Duncan Daniels",
+          "url": "https://open.spotify.com/artist/4Hbx82x5pU9EiWxl91BXmL"
+        },
+        {
+          "name": "Mukhy",
+          "url": "https://open.spotify.com/artist/1NyXuRJbmCiT6LA9KqdoLS"
+        },
+        {
+          "name": "Chai T",
+          "url": "https://open.spotify.com/artist/4rlPmHS8WvBO9CxaCvBRb5"
+        }
+      ],
+      "date_added": "2023-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198787,
+      "name": "Blood Pressure",
+      "url": "https://open.spotify.com/track/2YW1Kk0mL3B6G6w4Rj5FgU"
     },
     {
       "album": {
@@ -4996,7 +5044,7 @@
       ],
       "date_added": "2023-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-04",
       "duration_ms": 168880,
       "name": "Community service",
       "url": "https://open.spotify.com/track/2fsN1mjdT4QCfRZhPQRkck"
@@ -6356,7 +6404,7 @@
       ],
       "date_added": "2022-12-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-28",
+      "date_removed": null,
       "duration_ms": 222533,
       "name": "Do They Know It's Christmas? - 1984 Version",
       "url": "https://open.spotify.com/track/4Yg2w0P29BBBMixyeNjDtj"
@@ -7236,7 +7284,7 @@
       ],
       "date_added": "2023-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-04",
       "duration_ms": 155492,
       "name": "D\u00edvej",
       "url": "https://open.spotify.com/track/0Pl0foFNy1vuVgx1NHVjSE"
@@ -8324,7 +8372,7 @@
       ],
       "date_added": "2023-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-04",
       "duration_ms": 181600,
       "name": "FLY",
       "url": "https://open.spotify.com/track/41sRMeCgmzfUPV0M9h4YvM"
@@ -8440,7 +8488,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-04",
       "duration_ms": 178285,
       "name": "Forever Young",
       "url": "https://open.spotify.com/track/2xBGURDbav4VEiVrqEXmBD"
@@ -11900,7 +11948,7 @@
       ],
       "date_added": "2023-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-04",
       "duration_ms": 204600,
       "name": "Inverzia",
       "url": "https://open.spotify.com/track/0fP30PpvCS3AB4hBN91GPY"
@@ -14294,7 +14342,7 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-28",
+      "date_removed": null,
       "duration_ms": 155453,
       "name": "Let It Snow! Let It Snow! Let It Snow! (with The B. Swanson Quartet)",
       "url": "https://open.spotify.com/track/4kKdvXD0ez7jp1296JmAts"
@@ -22368,7 +22416,7 @@
       ],
       "date_added": "2023-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-04",
       "duration_ms": 188219,
       "name": "Re\u0165aze",
       "url": "https://open.spotify.com/track/1qHZrVjQrXxpb0lTdOmM7K"
@@ -22390,7 +22438,7 @@
       ],
       "date_added": "2023-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-04",
       "duration_ms": 186782,
       "name": "Re\u017eim neru\u0161it",
       "url": "https://open.spotify.com/track/6AZaXcXWfcFgJRgl4bsgvD"
@@ -23146,7 +23194,7 @@
       ],
       "date_added": "2022-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-27",
+      "date_removed": null,
       "duration_ms": 206539,
       "name": "Santa's Coming for Us",
       "url": "https://open.spotify.com/track/1N1ZpYUJc9fwrqk53FGgWv"
@@ -23164,7 +23212,7 @@
       ],
       "date_added": "2022-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-04",
       "duration_ms": 114000,
       "name": "Sant\u00e9",
       "url": "https://open.spotify.com/track/4ToxkJ4VvWs026R3QfHDI3"
@@ -24078,7 +24126,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-27",
+      "date_removed": null,
       "duration_ms": 209600,
       "name": "Sko\u0159\u00e1pky O\u0159ech\u016f",
       "url": "https://open.spotify.com/track/4NfGzMq1lwoePQU2Gu91qi"
@@ -25226,7 +25274,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-27",
+      "date_removed": null,
       "duration_ms": 208468,
       "name": "Stastne a vesele - Original Verzia",
       "url": "https://open.spotify.com/track/6DVTBu9IYryPTncQvOATKK"
@@ -27590,7 +27638,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-27",
+      "date_removed": null,
       "duration_ms": 130933,
       "name": "T\u011b\u0161\u00edme Se Na Je\u017e\u00ed\u0161ka",
       "url": "https://open.spotify.com/track/1n0AaosQcI0z1OOfXGf2Aa"
@@ -28288,7 +28336,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-04",
       "duration_ms": 120827,
       "name": "Valeriya",
       "url": "https://open.spotify.com/track/09MbMeMVENgLv6Z9ogzkuG"
@@ -28522,7 +28570,7 @@
       ],
       "date_added": "2021-12-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-27",
+      "date_removed": null,
       "duration_ms": 229026,
       "name": "Vianoce, Vianoce",
       "url": "https://open.spotify.com/track/6GmgR0XfTXi47dzDchXH5i"
@@ -28998,7 +29046,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-04",
       "duration_ms": 287333,
       "name": "Vyjebala Re\u0161pekt",
       "url": "https://open.spotify.com/track/6qccVBVMufw9uiFGEVLz6R"
@@ -29170,7 +29218,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-27",
+      "date_removed": null,
       "duration_ms": 194835,
       "name": "V\u00e1noce Na M\u00edru",
       "url": "https://open.spotify.com/track/3j30Y6jVypcZxFiWATyZ4Y"
@@ -30120,7 +30168,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-28",
+      "date_removed": null,
       "duration_ms": 227653,
       "name": "Wonderful Christmastime - Edited Version / Remastered 2011",
       "url": "https://open.spotify.com/track/1SV1fxF65n9NhRHp3KlBuu"

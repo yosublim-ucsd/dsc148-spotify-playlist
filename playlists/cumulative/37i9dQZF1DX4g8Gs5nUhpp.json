@@ -807,6 +807,32 @@
     },
     {
       "album": {
+        "name": "Ch\u1ecbu C\u00e1ch M\u00ecnh N\u00f3i Thua",
+        "url": "https://open.spotify.com/album/6H01GjpEb6taXvwiqEzpFy"
+      },
+      "artists": [
+        {
+          "name": "RHYDER",
+          "url": "https://open.spotify.com/artist/1W2pigH6UYwuTuFbwoSfVZ"
+        },
+        {
+          "name": "CoolKid",
+          "url": "https://open.spotify.com/artist/1Qia4CTwh6x0CZbD0079zi"
+        },
+        {
+          "name": "BAN",
+          "url": "https://open.spotify.com/artist/0CO1IZAPmgTbkfXvcRCLsL"
+        }
+      ],
+      "date_added": "2023-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181558,
+      "name": "Ch\u1ecbu C\u00e1ch M\u00ecnh N\u00f3i Thua",
+      "url": "https://open.spotify.com/track/3ZbZtdEw9U0uZW4tZItIwq"
+    },
+    {
+      "album": {
         "name": "50/50",
         "url": "https://open.spotify.com/album/2guZsP5qfBxYma8Y4mhVff"
       },

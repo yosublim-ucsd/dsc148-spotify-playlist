@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4y8h9WqDPAE.md) - [plain]
 
 > Where R&B meets Hip\-Hop, Pop and everything in between !  Cover: Amaarae
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,787,008 likes - 155 songs - 7 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,787,005 likes - 155 songs - 7 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -164,4 +164,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4y8h9WqDPAE.md) - [plain]
 | 154 | [Low](https://open.spotify.com/track/2GAhgAjOhEmItWLfgisyOn) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 3:01 |
 | 155 | [Lay Low](https://open.spotify.com/track/1QrRuByqSfCxYS0JdZMlIf) | [BLK ODYSSY](https://open.spotify.com/artist/062tCT8GVioC9EMiI9jeOV), [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Lay Low](https://open.spotify.com/album/1khrykFtUgs38Ba0QA0Lq4) | 2:19 |
 
-Snapshot ID: `MCxhNzZhOTA1ODFiNWQyMDliMjRkZDE0YjQ2Y2QwYzRiMjkwNDc4MzVl`
+Snapshot ID: `MCxmY2U2MjU3MmU0M2Q3NjBkOTQ0OGVmM2Y0M2I0OTYwZjU0YmQ5YmI4`

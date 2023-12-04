@@ -1,18 +1,18 @@
 {
   "description": "Releases from the legendary Blues label.",
-  "num_followers": 21472,
+  "num_followers": 21480,
   "original_name": "Legendary Labels: Alligator",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNDg2YjM2ZmUwZmQxMTc0YzhhYmE1ZTM5ODExY2FmNmJjNWJjZmEz",
+  "snapshot_id": "MCxhNzM4M2M3MWU2ZjI2NDI4ZTU2ZTJhMWY0ZDFhYzRlYTBlM2QxMDRi",
   "tracks": [
     {
       "added_at": "2023-05-17 15:52:13",
       "album": {
-        "name": "Cold Snap (Remastered)",
-        "url": "https://open.spotify.com/album/4yybDfoKxyAey83ruCtTb9"
+        "name": "Deluxe Edition",
+        "url": "https://open.spotify.com/album/3MSyCHOkBoZQT2byE3vprN"
       },
       "artists": [
         {
@@ -20,9 +20,9 @@
           "url": "https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW"
         }
       ],
-      "duration_ms": 247400,
-      "name": "I Ain't Drunk - Remastered",
-      "url": "https://open.spotify.com/track/1pPrO5Lcx9UXNebcloGeHE"
+      "duration_ms": 295693,
+      "name": "T-Bone Shuffle",
+      "url": "https://open.spotify.com/track/1HRx7dciQYCv76XvbBDAGM"
     },
     {
       "added_at": "2023-05-17 15:52:13",
@@ -175,8 +175,8 @@
     {
       "added_at": "2023-05-17 15:52:13",
       "album": {
-        "name": "Deluxe Edition",
-        "url": "https://open.spotify.com/album/3MSyCHOkBoZQT2byE3vprN"
+        "name": "Cold Snap (Remastered)",
+        "url": "https://open.spotify.com/album/4yybDfoKxyAey83ruCtTb9"
       },
       "artists": [
         {
@@ -184,9 +184,9 @@
           "url": "https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW"
         }
       ],
-      "duration_ms": 295693,
-      "name": "T-Bone Shuffle",
-      "url": "https://open.spotify.com/track/1HRx7dciQYCv76XvbBDAGM"
+      "duration_ms": 247400,
+      "name": "I Ain't Drunk - Remastered",
+      "url": "https://open.spotify.com/track/1pPrO5Lcx9UXNebcloGeHE"
     },
     {
       "added_at": "2023-05-17 15:52:13",
@@ -639,8 +639,8 @@
     {
       "added_at": "2023-05-17 15:52:13",
       "album": {
-        "name": "Serious Business",
-        "url": "https://open.spotify.com/album/30XtgsTePORy5sbslFewYU"
+        "name": "Guitar Slinger",
+        "url": "https://open.spotify.com/album/2rwEAdpLYZEOuze2uukn7x"
       },
       "artists": [
         {
@@ -648,9 +648,9 @@
           "url": "https://open.spotify.com/artist/2ODUxmFxJSyvGiimNhMHbO"
         }
       ],
-      "duration_ms": 221293,
-      "name": "Master Mechanic",
-      "url": "https://open.spotify.com/track/4165vsiricmCuE4eKeuZ4v"
+      "duration_ms": 323986,
+      "name": "Don't Take Advantage Of Me - Remastered",
+      "url": "https://open.spotify.com/track/3sHgMnbPhxt5ZIm3CKXx0a"
     },
     {
       "added_at": "2023-05-17 15:52:13",
@@ -819,8 +819,8 @@
     {
       "added_at": "2023-05-17 15:52:13",
       "album": {
-        "name": "Guitar Slinger",
-        "url": "https://open.spotify.com/album/2rwEAdpLYZEOuze2uukn7x"
+        "name": "Serious Business",
+        "url": "https://open.spotify.com/album/30XtgsTePORy5sbslFewYU"
       },
       "artists": [
         {
@@ -828,9 +828,9 @@
           "url": "https://open.spotify.com/artist/2ODUxmFxJSyvGiimNhMHbO"
         }
       ],
-      "duration_ms": 323986,
-      "name": "Don't Take Advantage Of Me - Remastered",
-      "url": "https://open.spotify.com/track/3sHgMnbPhxt5ZIm3CKXx0a"
+      "duration_ms": 221293,
+      "name": "Master Mechanic",
+      "url": "https://open.spotify.com/track/4165vsiricmCuE4eKeuZ4v"
     },
     {
       "added_at": "2023-05-17 15:52:13",

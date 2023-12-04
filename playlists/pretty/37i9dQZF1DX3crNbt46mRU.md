@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases\. Cover: Gazo, Tiakola
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,913 likes - 109 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,919 likes - 109 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -118,4 +118,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 108 | [Who Are You Running From](https://open.spotify.com/track/3jSDhLHxnERqG9XWc4ynFz) | [Sevdaliza](https://open.spotify.com/artist/5MraexJKZDrQYzS98kNwie) | [Who Are You Running From](https://open.spotify.com/album/3sWrHw3QHMZXIfEjZ4x387) | 3:16 |
 | 109 | [Requiem \(feat\. Mathias Reiser\)](https://open.spotify.com/track/2BkoMtjLhejCHwbYWKtcNz) | [Peter Plate](https://open.spotify.com/artist/1UEipeDjRtS1qnuhmKgmXg), [Ulf Leo Sommer](https://open.spotify.com/artist/4anaTI5qQtKKp5D6I5sgDp), [Joshua Lange](https://open.spotify.com/artist/6LmAQh4EtCTvhV5d9nKgbg), [Mathias Reiser](https://open.spotify.com/artist/4tJMIoQpBowzSZt0oIsxR6) | [Requiem \(feat\. Mathias Reiser\)](https://open.spotify.com/album/5FnhEE3zDHX16JSB2pOPpY) | 3:33 |
 
-Snapshot ID: `MCwxNTg3OTJjYTEyMGVkZjRhNmE3YjU4NWQ1M2NlMjgxODBmMTU3NTI5`
+Snapshot ID: `MCxjZTFmN2M4OGRlMWUwMWZiZmJlNTUzMDZjYmI1OTdjOTM2MDA2ODlm`

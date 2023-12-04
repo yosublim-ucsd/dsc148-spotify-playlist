@@ -4,7 +4,7 @@
 
 > Musik som hjälper dig att fokusera vid intensiva studier.
 
-648 songs - 1 day 4 hr 1 min
+649 songs - 1 day 4 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,7 @@
 | [And The Birds Go North Again](https://open.spotify.com/track/3oFGPNVlFHgz8s5rTYnpM7) | [Thomas Perceval](https://open.spotify.com/artist/42lfxltT65SVNLR6kypDU5) | [And The Birds Go North Again](https://open.spotify.com/album/1PUIqiqGelOnTayisMTOcM) | 2:36 | 2021-12-07 | 2022-09-24 |
 | [Anemones](https://open.spotify.com/track/70ehsbwZet95hweCr8tSNi) | [David Sato](https://open.spotify.com/artist/0Xp27nG9qE8eLiqvx1UUj5) | [Anemones](https://open.spotify.com/album/0Xclqh5l3EVDBtugh8ze5D) | 4:00 | 2022-01-18 |  |
 | [Anoesis](https://open.spotify.com/track/7wDdRiqwaF3CqDIOmO0nhQ) | [Little Marions](https://open.spotify.com/artist/74F0qlRdpVmcJWhCqUN8cy) | [Anoesis](https://open.spotify.com/album/1ohZ2YMU7a0qrDtTWrRKLj) | 2:11 | 2021-12-07 | 2022-02-02 |
-| [Apart](https://open.spotify.com/track/6f0drxUwd9EIdAvuTmIKYY) | [Lucas Forch](https://open.spotify.com/artist/13gyOR6KA3pA8MIuWW2Pcm) | [Beginnings](https://open.spotify.com/album/5MqvffTG1ZlTMBUlZ9ZoVD) | 3:15 | 2022-06-07 |  |
+| [Apart](https://open.spotify.com/track/6f0drxUwd9EIdAvuTmIKYY) | [Lucas Forch](https://open.spotify.com/artist/13gyOR6KA3pA8MIuWW2Pcm) | [Beginnings](https://open.spotify.com/album/5MqvffTG1ZlTMBUlZ9ZoVD) | 3:15 | 2022-06-07 | 2023-12-04 |
 | [Apart](https://open.spotify.com/track/6lnhnrHB83cj7EO38t4vgP) | [Lucas Forch](https://open.spotify.com/artist/13gyOR6KA3pA8MIuWW2Pcm) | [Apart](https://open.spotify.com/album/171iVmp0gn0SVHV5DGBQAt) | 3:15 | 2021-12-07 | 2022-07-29 |
 | [Apelblom](https://open.spotify.com/track/6FiFFLgiC4yfPfTCXWIKtT) | [Alfred Janders](https://open.spotify.com/artist/5Q7WksIlCit2j220mJx7ek) | [Apelblom](https://open.spotify.com/album/6uJkw3rmz4nuIcoMxVRBY1) | 2:04 | 2021-12-07 | 2022-04-14 |
 | [Approaching Haumea](https://open.spotify.com/track/6mwVh9GJeesKKE0OJWHrMt) | [Mauvais Roger](https://open.spotify.com/artist/3WywoFt9vF6tSIJGseVSTD) | [Approaching Haumea](https://open.spotify.com/album/0j6t12qqfzwHpVvKeSwz9k) | 2:51 | 2022-02-01 | 2023-03-15 |
@@ -275,6 +275,7 @@
 | [kawaguchiko](https://open.spotify.com/track/3lGHx6NLMzkhwcCmO7gwBY) | [Valla](https://open.spotify.com/artist/1nrQ489GYy77LqrmBOmtfh) | [Wünderdoll](https://open.spotify.com/album/3VC8wOGv0ifbJyP5mEirn9) | 2:02 | 2023-03-14 | 2023-10-03 |
 | [Kay's Recovery](https://open.spotify.com/track/6heseVBVY5E1zh6z4FyMDA) | [Joaquin Conor](https://open.spotify.com/artist/09O6u1o77QVzr1RI6zyZv7) | [Kay's Recovery](https://open.spotify.com/album/2Ugt7X6hGDE0C722Tpgot4) | 1:54 | 2023-05-19 | 2023-07-25 |
 | [Keep You Safe](https://open.spotify.com/track/6XwdGPFuIObAvlrgwTuFOC) | [Morunas](https://open.spotify.com/artist/36RxHbl3Duv6WNJjOGPhV4) | [Keep You Safe](https://open.spotify.com/album/7llQfYCqtcg0uXYQu2ZQOx) | 2:04 | 2022-01-18 | 2022-02-16 |
+| [Keepsake](https://open.spotify.com/track/3OacSixqamhyHu3M2fRqxU) | [Pamela Goldings](https://open.spotify.com/artist/0zz0ZeRODmieOdGKeznHQA) | [Keepsake](https://open.spotify.com/album/6g1Mpl8jLuLTcR8mO2Qpon) | 2:32 | 2023-11-28 |  |
 | [Kiriume](https://open.spotify.com/track/6VaWHjTTcKiPjWEkejHkMR) | [Arden Forest](https://open.spotify.com/artist/3LUa5res2UmvZ04kvlPMc7) | [Kiriume](https://open.spotify.com/album/63qOqv2FOkfpIUs2SKEuH6) | 2:24 | 2021-12-07 | 2023-01-12 |
 | [Knots](https://open.spotify.com/track/6OPZgEbGHJufMo64TipZF8) | [Norse Mythology](https://open.spotify.com/artist/05IxAmFj1DzEpTmjRJ6K54) | [Knots](https://open.spotify.com/album/0TN9Plv6OuVrZiuZ2shewx) | 3:32 | 2021-12-07 | 2022-09-16 |
 | [Knowing](https://open.spotify.com/track/5ZCVigQ6yH25D61oA2fE4T) | [Jacob Higgins](https://open.spotify.com/artist/4BIgXu3VhBUcX6Y0TOHpoi) | [Knowing](https://open.spotify.com/album/3BMt2E5mIp4jXuPrv6AH9w) | 2:32 | 2021-12-07 | 2023-03-31 |

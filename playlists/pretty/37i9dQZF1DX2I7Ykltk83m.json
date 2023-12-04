@@ -1,12 +1,12 @@
 {
   "description": "killer songs from badass artists. Cover: Haley Blais",
-  "num_followers": 352065,
+  "num_followers": 352089,
   "original_name": "badass",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MWQ3NWNhNWVkZTk2NDg3ODI5YmVkNGY2YjE1Mjg1NzAzZjdiYjlm",
+  "snapshot_id": "MCxkMTg2YzRlNDdiMzQyMmZkZDJkNjFiZTMzMjVlZDBjYTc5MDYyMDQ3",
   "tracks": [
     {
       "added_at": "2023-10-27 04:00:00",
@@ -411,22 +411,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "All I Ever Asked",
-        "url": "https://open.spotify.com/album/2FuT85CBZhzZ8dndFdtwXn"
-      },
-      "artists": [
-        {
-          "name": "Rachel Chinouriri",
-          "url": "https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP"
-        }
-      ],
-      "duration_ms": 215384,
-      "name": "All I Ever Asked",
-      "url": "https://open.spotify.com/track/2F9DCIJ7ZXHhNkiIlIIOkw"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "In the End It Always Does",
         "url": "https://open.spotify.com/album/1pflleeGIJGEAillSnSetf"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 219813,
       "name": "Sunshine Baby",
       "url": "https://open.spotify.com/track/7ihVeKd4RjiZ3y12nDhPZO"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "All I Ever Asked",
+        "url": "https://open.spotify.com/album/2FuT85CBZhzZ8dndFdtwXn"
+      },
+      "artists": [
+        {
+          "name": "Rachel Chinouriri",
+          "url": "https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP"
+        }
+      ],
+      "duration_ms": 215384,
+      "name": "All I Ever Asked",
+      "url": "https://open.spotify.com/track/2F9DCIJ7ZXHhNkiIlIIOkw"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -1659,22 +1659,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Off Off On",
-        "url": "https://open.spotify.com/album/1X8kC5D2ke7puDYgalJtXj"
-      },
-      "artists": [
-        {
-          "name": "This Is The Kit",
-          "url": "https://open.spotify.com/artist/0ZUyFEafMwocvApBjTXvdo"
-        }
-      ],
-      "duration_ms": 200480,
-      "name": "Coming to Get You Nowhere",
-      "url": "https://open.spotify.com/track/2pvTzDOIibESGP5usDO0rG"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "Warm Chris",
         "url": "https://open.spotify.com/album/56rWsCsd2UF9l1XTpUfZ1v"
       },
@@ -1691,18 +1675,18 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/132C8QdLHNKEqAUrXiJFlk"
+        "name": "Off Off On",
+        "url": "https://open.spotify.com/album/1X8kC5D2ke7puDYgalJtXj"
       },
       "artists": [
         {
-          "name": "Japanese Breakfast",
-          "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
+          "name": "This Is The Kit",
+          "url": "https://open.spotify.com/artist/0ZUyFEafMwocvApBjTXvdo"
         }
       ],
-      "duration_ms": 279232,
-      "name": "Dreams - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/4sMJ05OSIYdmHdnxfosvfb"
+      "duration_ms": 200480,
+      "name": "Coming to Get You Nowhere",
+      "url": "https://open.spotify.com/track/2pvTzDOIibESGP5usDO0rG"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -1719,6 +1703,22 @@
       "duration_ms": 203116,
       "name": "The Water",
       "url": "https://open.spotify.com/track/0N0qxAHq26ZK91AcUXyq9C"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/132C8QdLHNKEqAUrXiJFlk"
+      },
+      "artists": [
+        {
+          "name": "Japanese Breakfast",
+          "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
+        }
+      ],
+      "duration_ms": 279232,
+      "name": "Dreams - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/4sMJ05OSIYdmHdnxfosvfb"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -1855,6 +1855,22 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
+        "name": "Break!",
+        "url": "https://open.spotify.com/album/3E6nSXNMIVy4wofjSstjka"
+      },
+      "artists": [
+        {
+          "name": "Fazerdaze",
+          "url": "https://open.spotify.com/artist/2awB7Ol181cocZcLLNBBAh"
+        }
+      ],
+      "duration_ms": 184240,
+      "name": "Come Apart",
+      "url": "https://open.spotify.com/track/3yJqlmzdenTmQeb3bdRJfO"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
         "name": "Hospital (One Man Down)",
         "url": "https://open.spotify.com/album/25iq2f67q6Je815D44cXPu"
       },
@@ -1871,22 +1887,6 @@
       "duration_ms": 207016,
       "name": "Hospital (One Man Down) (feat. Remi Wolf)",
       "url": "https://open.spotify.com/track/3viGqgmswIMRcmGat5WYYq"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
-        "name": "Break!",
-        "url": "https://open.spotify.com/album/3E6nSXNMIVy4wofjSstjka"
-      },
-      "artists": [
-        {
-          "name": "Fazerdaze",
-          "url": "https://open.spotify.com/artist/2awB7Ol181cocZcLLNBBAh"
-        }
-      ],
-      "duration_ms": 184240,
-      "name": "Come Apart",
-      "url": "https://open.spotify.com/track/3yJqlmzdenTmQeb3bdRJfO"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -1955,22 +1955,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Dandelion",
-        "url": "https://open.spotify.com/album/3VUCu7FabxaBsNopxsLIkG"
-      },
-      "artists": [
-        {
-          "name": "The Greeting Committee",
-          "url": "https://open.spotify.com/artist/1MIe1z4RdqLqHSJsb7EBMm"
-        }
-      ],
-      "duration_ms": 143493,
-      "name": "Make Out",
-      "url": "https://open.spotify.com/track/6haLtXSts5wuG97Nyq4jI5"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "When You Walk A Long Distance You Are Tired",
         "url": "https://open.spotify.com/album/6T0QEKUvqfDxyVJIUZTkYe"
       },
@@ -2003,6 +1987,22 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
+        "name": "Dandelion",
+        "url": "https://open.spotify.com/album/3VUCu7FabxaBsNopxsLIkG"
+      },
+      "artists": [
+        {
+          "name": "The Greeting Committee",
+          "url": "https://open.spotify.com/artist/1MIe1z4RdqLqHSJsb7EBMm"
+        }
+      ],
+      "duration_ms": 143493,
+      "name": "Make Out",
+      "url": "https://open.spotify.com/track/6haLtXSts5wuG97Nyq4jI5"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
         "name": "90s American Superstar",
         "url": "https://open.spotify.com/album/30mvWmyfRun8JbF9pTMPdc"
       },
@@ -2019,22 +2019,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Thirstier",
-        "url": "https://open.spotify.com/album/5Sq7ZgoJQQEY54oupmAtbu"
-      },
-      "artists": [
-        {
-          "name": "TORRES",
-          "url": "https://open.spotify.com/artist/3lrDYjsghBMfUTiLziD9q9"
-        }
-      ],
-      "duration_ms": 261941,
-      "name": "Don't Go Puttin Wishes in My Head",
-      "url": "https://open.spotify.com/track/7JKW0gH84HWAyDEBQgsNbX"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "Day of the Dead",
         "url": "https://open.spotify.com/album/5eVGVLpLcMEjuP1BNdlKWz"
       },
@@ -2047,6 +2031,22 @@
       "duration_ms": 320717,
       "name": "New Speedway Boogie",
       "url": "https://open.spotify.com/track/7rlH5IVzRc5eCMiURVoUrI"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "Thirstier",
+        "url": "https://open.spotify.com/album/5Sq7ZgoJQQEY54oupmAtbu"
+      },
+      "artists": [
+        {
+          "name": "TORRES",
+          "url": "https://open.spotify.com/artist/3lrDYjsghBMfUTiLziD9q9"
+        }
+      ],
+      "duration_ms": 261941,
+      "name": "Don't Go Puttin Wishes in My Head",
+      "url": "https://open.spotify.com/track/7JKW0gH84HWAyDEBQgsNbX"
     },
     {
       "added_at": "2023-10-27 04:00:00",

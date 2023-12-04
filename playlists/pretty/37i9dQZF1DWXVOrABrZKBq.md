@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXVOrABrZKBq.md) - [plain]
 
 > Le rap francophone est en forme\. Photo: Gazo x Tiakola
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,941 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,008 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXVOrABrZKBq.md) - [plain]
 | 49 | [Pas bête](https://open.spotify.com/track/3TVUW7bJJWDOonkVCZxfLV) | [Beendo Z](https://open.spotify.com/artist/7a35Zdc78bDXJv2vYf5hSO) | [L'Élu](https://open.spotify.com/album/6UiV6zQxitBwaQ6Kw72W1i) | 2:23 |
 | 50 | [TOUT VA BIEN \(feat\. Ninho & Naps\)](https://open.spotify.com/track/6OZwia8loN0aPS0vTvsBjR) | [Alonzo](https://open.spotify.com/artist/2z2TRvloJt4EfUNQp9rHAi), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH), [Naps](https://open.spotify.com/artist/6W5uA6CNMf3hd2j4a2XWCx) | [QUARTIERS NORD](https://open.spotify.com/album/4EGHU1v3qmjchplaPqRWBC) | 3:12 |
 
-Snapshot ID: `MCw0YjkzMGU1YTk0MGJiYTRhZjkwNWY1MWNkMDJmZTdmOWVhNmRlMTRh`
+Snapshot ID: `MCxmODRjNzBhOTYyNzdmZDFkNTVjN2Y0OTY3OThmZGQ4YTE3ZjkwZTky`

@@ -4,7 +4,7 @@
 
 > The soundtrack to the internet\. Cover: Lil Mabu
 
-889 songs - 1 day 12 hr 32 min
+890 songs - 1 day 12 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -732,7 +732,8 @@
 | [Soak City \(feat\. Mustard, OhGeesy & BlueBucksClan\)](https://open.spotify.com/track/2EYdheS1WcwbBv8bRmbvvW) | [310babii](https://open.spotify.com/artist/4VCriUU9CsPnUvoAsxVk1p), [Blueface](https://open.spotify.com/artist/3Fl1V19tmjt57oBdxXKAjJ), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [Mustard](https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k), [OHGEESY](https://open.spotify.com/artist/3ppQEG71r7jVpI8RudzycF), [BlueBucksClan](https://open.spotify.com/artist/1l61CX1j6go8arTjPH9wy0) | [Soak City \(feat\. Mustard, OhGeesy & BlueBucksClan\)](https://open.spotify.com/album/3htlZheOSXN2DdT7L1HtDF) | 4:14 | 2023-09-08 | 2023-11-11 |
 | [SOFA](https://open.spotify.com/track/2FhswqpB97CDVIaHHfNUhW) | [5amDiaries](https://open.spotify.com/artist/0jzizURp4Zz01l8OmSeZ2g), [Jackson Homer](https://open.spotify.com/artist/0W9bMhPWFmnO2u2ejaVDlC), [SOUTHBOUND](https://open.spotify.com/artist/2G8AtYE8Lm59fiZVcbKywW) | [SOFA](https://open.spotify.com/album/6bF5YytXk81TGAomwlxS4u) | 2:54 | 2022-06-28 | 2023-01-20 |
 | [Solutions](https://open.spotify.com/track/17LtbDMKmsO5zTOqVAM27x) | [Shakewell](https://open.spotify.com/artist/1w7GLktHE8w0aEhhaZ0QKB), [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [Pray 4 Shakewell](https://open.spotify.com/album/5MvMCCP60gI97W1rcbwvhF) | 3:37 | 2022-04-29 | 2022-05-27 |
-| [Somethin Bout U](https://open.spotify.com/track/3aEQjuGpL2ZyYtnOKEgP6w) | [KYLE](https://open.spotify.com/artist/4qBgvVog0wzW75IQ48mU7v), [Teezo Touchdown](https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36) | [Somethin Bout U](https://open.spotify.com/album/0P3gIwj163thjGGYQW7ZDp) | 2:52 | 2023-11-10 |  |
+| [Somethin Bout U](https://open.spotify.com/track/1ewcXX3jGDSlL0afdrJRYq) | [KYLE](https://open.spotify.com/artist/4qBgvVog0wzW75IQ48mU7v), [Teezo Touchdown](https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36) | [Somethin Bout U](https://open.spotify.com/album/3hCqgEwy309nX74TGAOHs5) | 2:52 | 2023-12-01 |  |
+| [Somethin Bout U](https://open.spotify.com/track/3aEQjuGpL2ZyYtnOKEgP6w) | [KYLE](https://open.spotify.com/artist/4qBgvVog0wzW75IQ48mU7v), [Teezo Touchdown](https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36) | [Somethin Bout U](https://open.spotify.com/album/0P3gIwj163thjGGYQW7ZDp) | 2:52 | 2023-11-10 | 2023-12-04 |
 | [Sorry Bout That](https://open.spotify.com/track/4VHkjPgAis9JNfc1URn7zZ) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [4L](https://open.spotify.com/album/05QOSu1AEcQxM5jvZFuann) | 3:06 | 2021-10-07 | 2022-02-19 |
 | [Speak Up](https://open.spotify.com/track/2rqB2I2stqNPaVBaObZnDx) | [Is0kenny](https://open.spotify.com/artist/1gDoTzsseyqOOrvKCCY2sb) | [Speak Up](https://open.spotify.com/album/4G2TAC3hSBxLh9A2Ee2WZi) | 1:44 | 2022-10-21 | 2023-03-21 |
 | [Special K](https://open.spotify.com/track/20LjVwLgn8EaT2LvEoK0Nl) | [BLP KOSHER](https://open.spotify.com/artist/6w60ExNMjs0gd4ioh7GMRI) | [Special K](https://open.spotify.com/album/2D926NuFDl3yhbM10yhZQG) | 2:27 | 2023-06-23 |  |

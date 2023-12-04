@@ -4,7 +4,7 @@
 
 > Our editor’s picks for best Jersey Club songs of the year\. Cover: kanii
 
-75 songs - 3 hr 20 min
+76 songs - 3 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,6 +82,7 @@
 | [WHERE SHE GOES](https://open.spotify.com/track/7ro0hRteUMfnOioTFI5TG1) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [WHERE SHE GOES](https://open.spotify.com/album/5gCcb5fsSb6w5K8SyJrgtB) | 3:51 | 2023-11-29 |  |
 | [Whip It Up](https://open.spotify.com/track/1dUnXEhm7ShBQYb0qbwtSl) | [Justine Skye](https://open.spotify.com/artist/0jUQSUOcM7lxVn5eVGTkzQ) | [Whip It Up](https://open.spotify.com/album/3S4fDwnkGpQjGFgESE3afw) | 2:10 | 2023-11-29 |  |
 | [Who You Touch Pt\. 2 \(feat\. Trippie Redd\)](https://open.spotify.com/track/3rdzGfp94hIX5nksvAjFoD) | [Sha EK](https://open.spotify.com/artist/3jVAqTL4NbB88q4lj94VX9), [Bandmanrill](https://open.spotify.com/artist/2SyMN1PdSuQpZgrYXrkai1), [Defiant Presents](https://open.spotify.com/artist/6kOvJAZH29zNIKqPLOEC65), [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [Defiant Presents: Jiggy In Jersey](https://open.spotify.com/album/7lEj90UqCHkiZzLnOOQV2v) | 2:18 | 2023-11-29 |  |
-| [You](https://open.spotify.com/track/74JW8w5UPKzRPLcNatdeSI) | [ZEDDY WILL](https://open.spotify.com/artist/1alf4P7GDe5aNpALBzWIGf), [DJ Smallz 732](https://open.spotify.com/artist/6GrHfxMFCXCdIhN9DrAxjK) | [You](https://open.spotify.com/album/25r1j0BMSlROBkubbzd86I) | 1:48 | 2023-12-01 |  |
+| [You](https://open.spotify.com/track/0ic30oKQ15EvTWS1VYBjFF) | [ZEDDY WILL](https://open.spotify.com/artist/1alf4P7GDe5aNpALBzWIGf), [DJ Smallz 732](https://open.spotify.com/artist/6GrHfxMFCXCdIhN9DrAxjK) | [You](https://open.spotify.com/album/1ZSq87JLDDodzSK2B2bnEe) | 1:48 | 2023-12-01 |  |
+| [You](https://open.spotify.com/track/74JW8w5UPKzRPLcNatdeSI) | [ZEDDY WILL](https://open.spotify.com/artist/1alf4P7GDe5aNpALBzWIGf), [DJ Smallz 732](https://open.spotify.com/artist/6GrHfxMFCXCdIhN9DrAxjK) | [You](https://open.spotify.com/album/25r1j0BMSlROBkubbzd86I) | 1:48 | 2023-12-01 | 2023-12-04 |
 
 \*This playlist was first scraped on 2023-11-30. Prior content cannot be recovered.

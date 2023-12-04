@@ -1,12 +1,12 @@
 {
   "description": "Hit rewind on these classic Ghanaian gospel songs.",
-  "num_followers": 4244,
+  "num_followers": 4273,
   "original_name": "Ghana Gospel Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlOTkyOWRlNTIwODJjMGVlMzFmNjU1MDVmNTk2YjU5Y2VkZGI5MWQ4",
+  "snapshot_id": "MCw1MDI2YzIxYjI1MmI1YTI4ZDFmM2Q2NWJlMjBhOWIwZGY2MjFiYmQz",
   "tracks": [
     {
       "added_at": "2023-11-27 14:59:06",
@@ -735,22 +735,6 @@
     {
       "added_at": "2023-11-27 14:59:06",
       "album": {
-        "name": "Afe Ato Me",
-        "url": "https://open.spotify.com/album/1QaWoExSDXeUkEEP7WKr8Q"
-      },
-      "artists": [
-        {
-          "name": "Stella Seal",
-          "url": "https://open.spotify.com/artist/4xoLUMaBonp3ZZyAzrl3WI"
-        }
-      ],
-      "duration_ms": 331520,
-      "name": "Ayeyi",
-      "url": "https://open.spotify.com/track/2OjAeyBRxMlPDGN9LeIfuC"
-    },
-    {
-      "added_at": "2023-11-27 14:59:06",
-      "album": {
         "name": "Yesu Mo",
         "url": "https://open.spotify.com/album/31oohGVTzpXoirIkH3KMMV"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 394031,
       "name": "Yesu Mo",
       "url": "https://open.spotify.com/track/5LDQxqWab9bVdOMv0K1Ut6"
+    },
+    {
+      "added_at": "2023-11-27 14:59:06",
+      "album": {
+        "name": "Afe Ato Me",
+        "url": "https://open.spotify.com/album/1QaWoExSDXeUkEEP7WKr8Q"
+      },
+      "artists": [
+        {
+          "name": "Stella Seal",
+          "url": "https://open.spotify.com/artist/4xoLUMaBonp3ZZyAzrl3WI"
+        }
+      ],
+      "duration_ms": 331520,
+      "name": "Ayeyi",
+      "url": "https://open.spotify.com/track/2OjAeyBRxMlPDGN9LeIfuC"
     },
     {
       "added_at": "2023-11-27 14:59:06",
@@ -819,18 +819,18 @@
     {
       "added_at": "2023-11-27 14:59:06",
       "album": {
-        "name": "Afe Ato Me",
-        "url": "https://open.spotify.com/album/1QaWoExSDXeUkEEP7WKr8Q"
+        "name": "God You Are So Good",
+        "url": "https://open.spotify.com/album/3NrW1Gz5zkKAHJGKQNcQZi"
       },
       "artists": [
         {
-          "name": "Stella Seal",
-          "url": "https://open.spotify.com/artist/4xoLUMaBonp3ZZyAzrl3WI"
+          "name": "Francis Agyei",
+          "url": "https://open.spotify.com/artist/3Hfa3UtgEZjW9pnYKSI5Q2"
         }
       ],
-      "duration_ms": 314148,
-      "name": "Ebenezer",
-      "url": "https://open.spotify.com/track/1F4U4726baiMPBAaXCVolt"
+      "duration_ms": 384521,
+      "name": "I Have a God",
+      "url": "https://open.spotify.com/track/4lMleOHHpi7NOlDNzB2dvH"
     }
   ],
   "unique_name": "Ghana Gospel Classics",

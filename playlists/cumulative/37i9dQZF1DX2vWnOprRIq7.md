@@ -4,7 +4,7 @@
 
 > El lado fluorescente del indie latino featuring Peces Raros.
 
-219 songs - 13 hr 9 min
+220 songs - 13 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -195,6 +195,7 @@
 | [Solos](https://open.spotify.com/track/4OrRyEaGBZub38KX2tf7dR) | [Lucia Tacchetti](https://open.spotify.com/artist/374jlNpaJvanFJrslZYHBJ), [ELETÉ](https://open.spotify.com/artist/1WCFSXLGsuWdA4UyYYumFs), [Margarita Quebrada](https://open.spotify.com/artist/5aPDMwix2ydu77sgQ89SUi) | [Solos](https://open.spotify.com/album/2hV78YdCzBXgjMeF9eniwQ) | 4:12 | 2023-03-17 | 2023-07-29 |
 | [Sombra](https://open.spotify.com/track/4SqJD9KD4gidxun001VUf2) | [Gianna Sotera](https://open.spotify.com/artist/0slraaTntA9kCC4p2K7HRc) | [Sombra](https://open.spotify.com/album/0A0tOMUxutXdCGwfu8Vr7G) | 2:59 | 2023-04-14 |  |
 | [soy gris](https://open.spotify.com/track/7wpyHcEEQuQnUjZFofSQ12) | [Catalina Bayá](https://open.spotify.com/artist/1YKe4dEtIUe6MdYV0L0vcf) | [soy gris](https://open.spotify.com/album/4V0ZEAtefmZzJYge7N93IC) | 3:00 | 2023-03-17 | 2023-05-28 |
+| [Suave Vendaval \- DJ TOI Remix](https://open.spotify.com/track/6TlD64R2Ltt54ZELepGpSZ) | [Manu Pozzi](https://open.spotify.com/artist/0CjS0CI9NnpXEhaS1FHJD0), [Chechi de Marcos](https://open.spotify.com/artist/7Mxqqaq1c8KVXiVLbdGasH), [DJ TOI](https://open.spotify.com/artist/3UE19UJo9qBsSTQePdjFqz) | [Suave Vendaval \(DJ TOI Remix\)](https://open.spotify.com/album/6d8i9h6IISlAXUJ4rLwyE3) | 4:23 | 2023-11-30 |  |
 | [Sudeste Asiático \(Felics Remix\)](https://open.spotify.com/track/1bR9Otq0AMnfZFWQCu4zMd) | [pau](https://open.spotify.com/artist/3K8xLmnOqUqGGaLzL0DvL3), [Felics](https://open.spotify.com/artist/2MDZPWYR5xuLWVIQ9ybC3l) | [Sudeste Asiático \(Felics Remix\)](https://open.spotify.com/album/5slqi6BYWHecGV9ICWhqWH) | 3:45 | 2023-03-17 | 2023-05-06 |
 | [Sueño e Inteligencia](https://open.spotify.com/track/49rugM5SCkP2HNgebx8Xi7) | [Pol Nada](https://open.spotify.com/artist/1Dts5QEWhfTgrZvDBEdNUH) | [Aparecido](https://open.spotify.com/album/7y61kRABwXeZzDuzw7Li5T) | 3:21 | 2023-07-14 |  |
 | [Sur](https://open.spotify.com/track/5BwlT1edT7xfggKjqPtGSx) | [Paz Court](https://open.spotify.com/artist/4iYtGmJwcET4ym55GMp4Zm) | [Sur](https://open.spotify.com/album/4ArRtHvrgk61qRlE3YdSX5) | 3:40 | 2023-05-26 | 2023-10-07 |
@@ -210,7 +211,7 @@
 | [Tu Color](https://open.spotify.com/track/51MQDiZAgOyUH8UXD3TTlY) | [BUDAYA](https://open.spotify.com/artist/1uLgN9ifDGflQ7RywGw67U) | [Tu Color](https://open.spotify.com/album/38DaQfytg4lkX9qupqzohm) | 3:46 | 2023-08-04 | 2023-10-07 |
 | [Tu Demente](https://open.spotify.com/track/0FNThAjRDsWq3HP0Yknr4V) | [Entrópica](https://open.spotify.com/artist/2IunebW5WpbBHwXU5BBv08), [Ambar Luna](https://open.spotify.com/artist/3cJV9VzS3qt2MU60ilzNML), [Franz Mesko](https://open.spotify.com/artist/1wMmRP78FDRAIV0eehnlXS) | [Tu Demente](https://open.spotify.com/album/2f2GQUGbHkoc1RH7qTT4t0) | 3:03 | 2023-05-19 | 2023-10-07 |
 | [Tu Olor](https://open.spotify.com/track/3cNzf5t9uQbLIwfWEOfpTF) | [Rubio](https://open.spotify.com/artist/79YjWaAoD88XGLETIsnnQV) | [Tu Olor](https://open.spotify.com/album/0zUXB3xuiKMQRlY8xHyyH3) | 3:06 | 2023-06-02 |  |
-| [Uh](https://open.spotify.com/track/0qQM9TJBrvNJu62aaxcYxF) | [Jazmín Mazzuchelli](https://open.spotify.com/artist/0ZiRsCKLvcfyDQwbMYgAhm) | [Uh](https://open.spotify.com/album/08F1JJE42aA2P7mlQjAldU) | 2:36 | 2023-04-21 |  |
+| [Uh](https://open.spotify.com/track/0qQM9TJBrvNJu62aaxcYxF) | [Jazmín Mazzuchelli](https://open.spotify.com/artist/0ZiRsCKLvcfyDQwbMYgAhm) | [Uh](https://open.spotify.com/album/08F1JJE42aA2P7mlQjAldU) | 2:36 | 2023-04-21 | 2023-12-04 |
 | [un sueño raro](https://open.spotify.com/track/2ASygHwRhyPWzh6pdiuWYR) | [Foudeqush](https://open.spotify.com/artist/0XFgM33h3Ls5tj1M9IKUWd) | [Fosis Met Amor](https://open.spotify.com/album/4lhk0djVeQeioDawW8NkO3) | 3:12 | 2023-03-17 | 2023-04-22 |
 | [Valientes](https://open.spotify.com/track/25PChx1yPUT0BNmNyuxMsh) | [Nicole](https://open.spotify.com/artist/3iIMN6aYzb6coyCECxkHaS) | [Valientes](https://open.spotify.com/album/1K2HuoKRr6EcSECJ6pX66Z) | 4:01 | 2023-03-17 | 2023-07-08 |
 | [Venenos](https://open.spotify.com/track/5jp8WhWLBjvKnFGsB2cwR3) | [Chini.png](https://open.spotify.com/artist/2rV1GKAvHpXO40w4lLhplz) | [El día libre de Polux](https://open.spotify.com/album/0a6o6qjzEwWFBsTYf2b3do) | 3:49 | 2023-04-07 |  |

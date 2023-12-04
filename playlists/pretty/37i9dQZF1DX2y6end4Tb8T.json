@@ -1,12 +1,12 @@
 {
   "description": "Rap de alta gama. Foto: Juice WRLD",
-  "num_followers": 57272,
+  "num_followers": 57309,
   "original_name": "808.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5YWMyNTg1MzkzZTBjN2QzOTM3OTJmYmVkZGE2ZmFjNTVkMGVkYTEy",
+  "snapshot_id": "MCw0NzVmMGM2NWU1YzYxYjhjYjg3MjdlYzY1MTljYTkwZmI2ZTMwMjk3",
   "tracks": [
     {
       "added_at": "2023-09-01 14:43:51",
@@ -423,22 +423,6 @@
     {
       "added_at": "2023-09-01 14:43:51",
       "album": {
-        "name": "Hollywood's Bleeding",
-        "url": "https://open.spotify.com/album/4g1ZRSobMefqF6nelkgibi"
-      },
-      "artists": [
-        {
-          "name": "Post Malone",
-          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
-        }
-      ],
-      "duration_ms": 150866,
-      "name": "Saint-Tropez",
-      "url": "https://open.spotify.com/track/05mDaV9Vb3wrzjF6OPZnhq"
-    },
-    {
-      "added_at": "2023-09-01 14:43:51",
-      "album": {
         "name": "Killshot",
         "url": "https://open.spotify.com/album/0RejlT9bmqcXGrqMaJRos0"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 253579,
       "name": "Killshot",
       "url": "https://open.spotify.com/track/1jo3TwNGCXfNdB5uba3ZVv"
+    },
+    {
+      "added_at": "2023-09-01 14:43:51",
+      "album": {
+        "name": "Hollywood's Bleeding",
+        "url": "https://open.spotify.com/album/4g1ZRSobMefqF6nelkgibi"
+      },
+      "artists": [
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        }
+      ],
+      "duration_ms": 150866,
+      "name": "Saint-Tropez",
+      "url": "https://open.spotify.com/track/05mDaV9Vb3wrzjF6OPZnhq"
     },
     {
       "added_at": "2023-09-01 14:43:51",
@@ -1419,6 +1419,22 @@
     {
       "added_at": "2023-09-01 14:43:51",
       "album": {
+        "name": "Desde el Fin del Mundo",
+        "url": "https://open.spotify.com/album/3MKQjYpaES80tFP7Qo2zH0"
+      },
+      "artists": [
+        {
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+        }
+      ],
+      "duration_ms": 192678,
+      "name": "Cascada",
+      "url": "https://open.spotify.com/track/7pKe9aetI14JCwKBZAEe6a"
+    },
+    {
+      "added_at": "2023-09-01 14:43:51",
+      "album": {
         "name": "Hall of Fame",
         "url": "https://open.spotify.com/album/7KSf6p0G0mZd7j60etVTwT"
       },
@@ -1451,22 +1467,6 @@
       "duration_ms": 195807,
       "name": "Tren Thomas",
       "url": "https://open.spotify.com/track/2215X6fteco2cgMa8I8ifV"
-    },
-    {
-      "added_at": "2023-09-01 14:43:51",
-      "album": {
-        "name": "Desde el Fin del Mundo",
-        "url": "https://open.spotify.com/album/3MKQjYpaES80tFP7Qo2zH0"
-      },
-      "artists": [
-        {
-          "name": "Duki",
-          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
-        }
-      ],
-      "duration_ms": 192678,
-      "name": "Cascada",
-      "url": "https://open.spotify.com/track/7pKe9aetI14JCwKBZAEe6a"
     },
     {
       "added_at": "2023-09-01 14:43:51",
@@ -1523,22 +1523,6 @@
     {
       "added_at": "2023-09-01 14:43:51",
       "album": {
-        "name": "Lion Eyes",
-        "url": "https://open.spotify.com/album/6LP3eNouezRT5SsEviDcr3"
-      },
-      "artists": [
-        {
-          "name": "Lil Durk",
-          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
-        }
-      ],
-      "duration_ms": 112941,
-      "name": "Lion Eyes",
-      "url": "https://open.spotify.com/track/6MZoicv1j68tNiSJyKwNrB"
-    },
-    {
-      "added_at": "2023-09-01 14:43:51",
-      "album": {
         "name": "UGLY (feat. Lil Baby)",
         "url": "https://open.spotify.com/album/6QKJuikQEvlMmthEFunSUW"
       },
@@ -1555,6 +1539,22 @@
       "duration_ms": 194285,
       "name": "UGLY (feat. Lil Baby)",
       "url": "https://open.spotify.com/track/0PJ4dXVkpNAtoOZsEjqktc"
+    },
+    {
+      "added_at": "2023-09-01 14:43:51",
+      "album": {
+        "name": "Lion Eyes",
+        "url": "https://open.spotify.com/album/6LP3eNouezRT5SsEviDcr3"
+      },
+      "artists": [
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        }
+      ],
+      "duration_ms": 112941,
+      "name": "Lion Eyes",
+      "url": "https://open.spotify.com/track/6MZoicv1j68tNiSJyKwNrB"
     },
     {
       "added_at": "2023-09-01 14:43:51",

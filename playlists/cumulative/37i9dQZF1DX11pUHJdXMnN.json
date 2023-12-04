@@ -457,6 +457,32 @@
     },
     {
       "album": {
+        "name": "Time Slips Away - The Remixes",
+        "url": "https://open.spotify.com/album/0NdbADVLpkHPdfxlY28oGe"
+      },
+      "artists": [
+        {
+          "name": "Moscoman",
+          "url": "https://open.spotify.com/artist/44F8g3iM4NgU5cisocTlTQ"
+        },
+        {
+          "name": "WOOZE",
+          "url": "https://open.spotify.com/artist/2whltAXPg8ozoiC9U1knhA"
+        },
+        {
+          "name": "Tunnelvisions",
+          "url": "https://open.spotify.com/artist/0IhfJZiFjHqE9mJ9INjp7x"
+        }
+      ],
+      "date_added": "2021-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 350000,
+      "name": "Eyes Wide Strut - Tunnelvisions Remix",
+      "url": "https://open.spotify.com/track/3VEyA2eTsrUylqc1rS3QVR"
+    },
+    {
+      "album": {
         "name": "Faccia a faccia (Remixes)",
         "url": "https://open.spotify.com/album/6Xc0OSTyNIXRYKtE2uk9g7"
       },
@@ -1272,7 +1298,7 @@
       ],
       "date_added": "2021-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-04",
       "duration_ms": 236000,
       "name": "Queen of Hearts",
       "url": "https://open.spotify.com/track/0AjOXYBi68jDSQT7n5Ng1c"

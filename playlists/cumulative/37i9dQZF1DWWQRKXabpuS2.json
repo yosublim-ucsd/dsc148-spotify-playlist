@@ -662,7 +662,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-04",
       "duration_ms": 271500,
       "name": "Ana A7tereg",
       "url": "https://open.spotify.com/track/3NzkzuF7YhWevZKf0rvwk8"
@@ -716,7 +716,7 @@
       ],
       "date_added": "2023-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-04",
       "duration_ms": 215935,
       "name": "Ana Lak",
       "url": "https://open.spotify.com/track/0Ko4fZhRKlgdbBrEx5tsqR"
@@ -1394,6 +1394,24 @@
       "duration_ms": 408984,
       "name": "Erjaee Li",
       "url": "https://open.spotify.com/track/0vaWHfSlJswU2OiTeOL3jj"
+    },
+    {
+      "album": {
+        "name": "Eshtaqt",
+        "url": "https://open.spotify.com/album/1KbJMpbHmAMS20YJY2DlWU"
+      },
+      "artists": [
+        {
+          "name": "Sultan Al Murshed",
+          "url": "https://open.spotify.com/artist/6miZ4J6pxMnkJkrjOLeGeU"
+        }
+      ],
+      "date_added": "2023-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201753,
+      "name": "Eshtaqt",
+      "url": "https://open.spotify.com/track/3CAwAK5kReh2G9Fh4J5zip"
     },
     {
       "album": {

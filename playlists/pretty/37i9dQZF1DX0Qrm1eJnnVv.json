@@ -1,12 +1,12 @@
 {
   "description": "Solo piano recordings of classic rags",
-  "num_followers": 4532,
+  "num_followers": 4534,
   "original_name": "Ragtime Piano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MjkyMTgwOTllNDY4NTQ0NGU4ZjliYjQ5MjRkYjczMDE1NjJjYjc1",
+  "snapshot_id": "MCw1NTNkYjY2NzRlNTJmYmU2MmMwMTk4NGZjN2NkNmVjNTkxZWY4YjU1",
   "tracks": [
     {
       "added_at": "2020-08-19 17:18:36",
@@ -547,18 +547,22 @@
     {
       "added_at": "2020-08-19 17:18:36",
       "album": {
-        "name": "Grace And Beauty - Ragtime Classics",
-        "url": "https://open.spotify.com/album/6oqyXzEQqsfzxBS9vW3ngz"
+        "name": "Ragtime Classics, 1901-1919",
+        "url": "https://open.spotify.com/album/5HQEWztM9JM2jOdXVZpb9b"
       },
       "artists": [
         {
-          "name": "Scott Kirby",
-          "url": "https://open.spotify.com/artist/3bc3Wj307i1SzUmFopUMLM"
+          "name": "James Scott",
+          "url": "https://open.spotify.com/artist/4Dzdlxs6xusMPwxmED3CCJ"
+        },
+        {
+          "name": "Brian Dykstra",
+          "url": "https://open.spotify.com/artist/61riwtmBNJSb5iUwiChoCY"
         }
       ],
-      "duration_ms": 180773,
-      "name": "Evergreen Rag (1915 - James Scott)",
-      "url": "https://open.spotify.com/track/2giECH6eYMtKOEgbPpkttm"
+      "duration_ms": 205773,
+      "name": "Grace and Beauty",
+      "url": "https://open.spotify.com/track/0TtzBFuB0p0bqsucSbwYaJ"
     },
     {
       "added_at": "2020-08-19 17:18:36",
@@ -595,22 +599,18 @@
     {
       "added_at": "2020-08-19 17:18:36",
       "album": {
-        "name": "Ragtime Classics, 1901-1919",
-        "url": "https://open.spotify.com/album/5HQEWztM9JM2jOdXVZpb9b"
+        "name": "Grace And Beauty - Ragtime Classics",
+        "url": "https://open.spotify.com/album/6oqyXzEQqsfzxBS9vW3ngz"
       },
       "artists": [
         {
-          "name": "James Scott",
-          "url": "https://open.spotify.com/artist/4Dzdlxs6xusMPwxmED3CCJ"
-        },
-        {
-          "name": "Brian Dykstra",
-          "url": "https://open.spotify.com/artist/61riwtmBNJSb5iUwiChoCY"
+          "name": "Scott Kirby",
+          "url": "https://open.spotify.com/artist/3bc3Wj307i1SzUmFopUMLM"
         }
       ],
-      "duration_ms": 205773,
-      "name": "Grace and Beauty",
-      "url": "https://open.spotify.com/track/0TtzBFuB0p0bqsucSbwYaJ"
+      "duration_ms": 180773,
+      "name": "Evergreen Rag (1915 - James Scott)",
+      "url": "https://open.spotify.com/track/2giECH6eYMtKOEgbPpkttm"
     },
     {
       "added_at": "2020-08-19 17:18:36",

@@ -4,11 +4,12 @@
 
 > Un'estate al mare, stile balenare..\. 🏝️ Hit dell'estate italiana anni 60, 70 e 80!
 
-55 songs - 2 hr 48 min
+56 songs - 2 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [24,000 baci](https://open.spotify.com/track/0WYFtZ7NL2SHwhnisVHpwM) | [Adriano Celetano](https://open.spotify.com/artist/6XDjliEwwXtUBoFwqtPeGc) | [Amore Mio \(Les plus belles chansons d'amour Italiennes\)](https://open.spotify.com/album/3iCbyFhMUuMQbJjoG5FnZg) | 2:16 | 2023-02-27 |  |
+| [24,000 baci](https://open.spotify.com/track/0WYFtZ7NL2SHwhnisVHpwM) | [Adriano Celetano](https://open.spotify.com/artist/6XDjliEwwXtUBoFwqtPeGc) | [Amore Mio \(Les plus belles chansons d'amour Italiennes\)](https://open.spotify.com/album/3iCbyFhMUuMQbJjoG5FnZg) | 2:16 | 2023-02-27 | 2023-12-04 |
+| [24.000 Baci](https://open.spotify.com/track/3XJmcsXl48gtkjx33EuPWK) | [Adriano Celentano](https://open.spotify.com/artist/1yq9UuPp5DIb5w6eswGbKV) | [Anni '60](https://open.spotify.com/album/09oVFxD8GT8LJGXwkN4IcU) | 2:17 | 2023-06-05 |  |
 | [Abbronzatissima](https://open.spotify.com/track/5pBoclEiiZgUyZMXgR3jJ7) | [Edoardo Vianello](https://open.spotify.com/artist/1HGnzMzxvfaSkMi98DLkgo), [Elfrida Ismolli](https://open.spotify.com/artist/7KgjTBE5cyhpRvaePgqexx) | [Estate](https://open.spotify.com/album/62YRZrKrezkG7oEbtdDzFi) | 2:29 | 2023-02-27 |  |
 | [Acapulco](https://open.spotify.com/track/65UvDVV0MRSSNgT6wJ4zdt) | [Ricchi E Poveri](https://open.spotify.com/artist/5BwOOeKayeMZXa5SSaiRxv) | [Gwiazdy xx Wieku \- Ricchi E Poveri](https://open.spotify.com/album/0XsMAfYOmVhmLTXmM77R9G) | 3:43 | 2023-02-27 |  |
 | [Andavo A Cento All'Ora](https://open.spotify.com/track/0JcxwcoLqFiqNXAAw2AeoH) | [Gianni Morandi](https://open.spotify.com/artist/15FrhfFYJIx7Ijltkpjbsr) | [Gianni Morandi](https://open.spotify.com/album/1Z47BhRPU4sSFwXdJDYPsS) | 2:32 | 2023-02-27 |  |

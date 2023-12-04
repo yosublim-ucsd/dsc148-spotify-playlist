@@ -1,12 +1,12 @@
 {
   "description": "New and trending tracks from Texas Country icons and rising stars. Cover: Flatland Cavalry",
-  "num_followers": 420156,
+  "num_followers": 420177,
   "original_name": "Texas Country Now",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZGM2Njc4N2Y4MjI4NjIxNjU3YTA1YzY0NWM0Mzc1MTAwZDFmZGEy",
+  "snapshot_id": "MCwzMTNkMzQ5ZTVkZDc4ZmRiYTg0MjZkYzNkMGYwZjQwNmY2NzRkMDM0",
   "tracks": [
     {
       "added_at": "2023-11-24 05:00:00",
@@ -359,18 +359,22 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
-        "name": "When My Baby\u2019s In Boots",
-        "url": "https://open.spotify.com/album/0E0hnTHYem327caHZmgP1Q"
+        "name": "If You Were Mine",
+        "url": "https://open.spotify.com/album/0FrbfHvjj5olr9w7dUeDrZ"
       },
       "artists": [
         {
-          "name": "Randall King",
-          "url": "https://open.spotify.com/artist/4Uux6BdaCNrVFQ0bqGRtfh"
+          "name": "Miranda Lambert",
+          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
+        },
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
         }
       ],
-      "duration_ms": 183613,
-      "name": "When My Baby\u2019s In Boots",
-      "url": "https://open.spotify.com/track/7b9KD6zHFdvaxa8esotppL"
+      "duration_ms": 219882,
+      "name": "If You Were Mine",
+      "url": "https://open.spotify.com/track/1GL0nollq8IdnV4tfYtEZT"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -391,22 +395,18 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
-        "name": "If You Were Mine",
-        "url": "https://open.spotify.com/album/0FrbfHvjj5olr9w7dUeDrZ"
+        "name": "When My Baby\u2019s In Boots",
+        "url": "https://open.spotify.com/album/0E0hnTHYem327caHZmgP1Q"
       },
       "artists": [
         {
-          "name": "Miranda Lambert",
-          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
-        },
-        {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+          "name": "Randall King",
+          "url": "https://open.spotify.com/artist/4Uux6BdaCNrVFQ0bqGRtfh"
         }
       ],
-      "duration_ms": 219882,
-      "name": "If You Were Mine",
-      "url": "https://open.spotify.com/track/1GL0nollq8IdnV4tfYtEZT"
+      "duration_ms": 183613,
+      "name": "When My Baby\u2019s In Boots",
+      "url": "https://open.spotify.com/track/7b9KD6zHFdvaxa8esotppL"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -1091,18 +1091,18 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
-        "name": "I Just Killed A Man",
-        "url": "https://open.spotify.com/album/128clheSrjkaaJLnYe4ykz"
+        "name": "Boy From Anderson County To The Moon",
+        "url": "https://open.spotify.com/album/1mnpdIkHiYcpvvCFQBaUrr"
       },
       "artists": [
         {
-          "name": "Catie Offerman",
-          "url": "https://open.spotify.com/artist/5uB8p8cO6UniAn2rnOsaXT"
+          "name": "Kolby Cooper",
+          "url": "https://open.spotify.com/artist/2dz0ijxEHh6AzUzQBwBSKx"
         }
       ],
-      "duration_ms": 212215,
-      "name": "I Just Killed A Man",
-      "url": "https://open.spotify.com/track/7D9H7ROCXakc9PDf9PJZwG"
+      "duration_ms": 244290,
+      "name": "Boy From Anderson County",
+      "url": "https://open.spotify.com/track/6rQGkoBBYegak061SkBSKH"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -1123,18 +1123,18 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
-        "name": "Boy From Anderson County To The Moon",
-        "url": "https://open.spotify.com/album/1mnpdIkHiYcpvvCFQBaUrr"
+        "name": "I Just Killed A Man",
+        "url": "https://open.spotify.com/album/128clheSrjkaaJLnYe4ykz"
       },
       "artists": [
         {
-          "name": "Kolby Cooper",
-          "url": "https://open.spotify.com/artist/2dz0ijxEHh6AzUzQBwBSKx"
+          "name": "Catie Offerman",
+          "url": "https://open.spotify.com/artist/5uB8p8cO6UniAn2rnOsaXT"
         }
       ],
-      "duration_ms": 244290,
-      "name": "Boy From Anderson County",
-      "url": "https://open.spotify.com/track/6rQGkoBBYegak061SkBSKH"
+      "duration_ms": 212215,
+      "name": "I Just Killed A Man",
+      "url": "https://open.spotify.com/track/7D9H7ROCXakc9PDf9PJZwG"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -1187,18 +1187,18 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
-        "name": "State You Left Me In",
-        "url": "https://open.spotify.com/album/3FWfYCQli8A63gkKDs0wNd"
+        "name": "Easy as Hello",
+        "url": "https://open.spotify.com/album/0mkGw6UuI4b9Co1SUewxFm"
       },
       "artists": [
         {
-          "name": "Jake Worthington",
-          "url": "https://open.spotify.com/artist/40v31oiMOaz7dorFhevJRp"
+          "name": "Sunny Sweeney",
+          "url": "https://open.spotify.com/artist/3uBMhKEXqr2UtRlx7Jn9LL"
         }
       ],
-      "duration_ms": 325299,
-      "name": "State You Left Me In",
-      "url": "https://open.spotify.com/track/4wU7mkrYRl8FJe0zsDhS2W"
+      "duration_ms": 279796,
+      "name": "Easy as Hello",
+      "url": "https://open.spotify.com/track/5hVBphaDDDa8AOnBPy5z4w"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -1239,18 +1239,18 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
-        "name": "Easy as Hello",
-        "url": "https://open.spotify.com/album/0mkGw6UuI4b9Co1SUewxFm"
+        "name": "State You Left Me In",
+        "url": "https://open.spotify.com/album/3FWfYCQli8A63gkKDs0wNd"
       },
       "artists": [
         {
-          "name": "Sunny Sweeney",
-          "url": "https://open.spotify.com/artist/3uBMhKEXqr2UtRlx7Jn9LL"
+          "name": "Jake Worthington",
+          "url": "https://open.spotify.com/artist/40v31oiMOaz7dorFhevJRp"
         }
       ],
-      "duration_ms": 279796,
-      "name": "Easy as Hello",
-      "url": "https://open.spotify.com/track/5hVBphaDDDa8AOnBPy5z4w"
+      "duration_ms": 325299,
+      "name": "State You Left Me In",
+      "url": "https://open.spotify.com/track/4wU7mkrYRl8FJe0zsDhS2W"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -1483,18 +1483,22 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
-        "name": "Dust",
-        "url": "https://open.spotify.com/album/23IQqam0aRAKSCLjOv9hlu"
+        "name": "Pancho and Lefty",
+        "url": "https://open.spotify.com/album/6Pv3AMeGAbaucnS8aeatwX"
       },
       "artists": [
         {
-          "name": "Grace Tyler",
-          "url": "https://open.spotify.com/artist/7rJg0c4D0Xu1TtLmkaEMDH"
+          "name": "Shane Smith & the Saints",
+          "url": "https://open.spotify.com/artist/4pLxUMyDrijXynrUP59whJ"
+        },
+        {
+          "name": "Hayes Carll",
+          "url": "https://open.spotify.com/artist/6UWifcscEdbjPgmbevBxZV"
         }
       ],
-      "duration_ms": 186993,
-      "name": "Dust",
-      "url": "https://open.spotify.com/track/7mEK8ZfXB69HKYZrOnV9CD"
+      "duration_ms": 309510,
+      "name": "Pancho and Lefty",
+      "url": "https://open.spotify.com/track/6j3GYmozEYsyunxO0RH2Wg"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -1531,42 +1535,6 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
-        "name": "Pancho and Lefty",
-        "url": "https://open.spotify.com/album/6Pv3AMeGAbaucnS8aeatwX"
-      },
-      "artists": [
-        {
-          "name": "Shane Smith & the Saints",
-          "url": "https://open.spotify.com/artist/4pLxUMyDrijXynrUP59whJ"
-        },
-        {
-          "name": "Hayes Carll",
-          "url": "https://open.spotify.com/artist/6UWifcscEdbjPgmbevBxZV"
-        }
-      ],
-      "duration_ms": 309510,
-      "name": "Pancho and Lefty",
-      "url": "https://open.spotify.com/track/6j3GYmozEYsyunxO0RH2Wg"
-    },
-    {
-      "added_at": "2023-11-24 05:00:00",
-      "album": {
-        "name": "Hope It Don\u2019t Take Forever",
-        "url": "https://open.spotify.com/album/2dIxym2A5eIYxh0BXzcbdP"
-      },
-      "artists": [
-        {
-          "name": "Corey Hunt and the Wise",
-          "url": "https://open.spotify.com/artist/2lTo3yyRGnDLTyrY7JyZDC"
-        }
-      ],
-      "duration_ms": 224613,
-      "name": "Hope It Don\u2019t Take Forever",
-      "url": "https://open.spotify.com/track/1SZSaW23PgfqMLrFCjQXH1"
-    },
-    {
-      "added_at": "2023-11-24 05:00:00",
-      "album": {
         "name": "Settle for a Beer (with Triston Marez)",
         "url": "https://open.spotify.com/album/1q249Sj18kanQdDOnbPiep"
       },
@@ -1587,18 +1555,18 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
-        "name": "How The Hurtin' Goes",
-        "url": "https://open.spotify.com/album/2ncmrKQvRbxIkds4J4o3Ly"
+        "name": "Hope It Don\u2019t Take Forever",
+        "url": "https://open.spotify.com/album/2dIxym2A5eIYxh0BXzcbdP"
       },
       "artists": [
         {
-          "name": "Curtis Grimes",
-          "url": "https://open.spotify.com/artist/21NiIObyfGUR3UPql6UrkP"
+          "name": "Corey Hunt and the Wise",
+          "url": "https://open.spotify.com/artist/2lTo3yyRGnDLTyrY7JyZDC"
         }
       ],
-      "duration_ms": 170896,
-      "name": "How The Hurtin' Goes",
-      "url": "https://open.spotify.com/track/0kx8fHSdEZPDaSommWNjfa"
+      "duration_ms": 224613,
+      "name": "Hope It Don\u2019t Take Forever",
+      "url": "https://open.spotify.com/track/1SZSaW23PgfqMLrFCjQXH1"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -1619,6 +1587,38 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
+        "name": "How The Hurtin' Goes",
+        "url": "https://open.spotify.com/album/2ncmrKQvRbxIkds4J4o3Ly"
+      },
+      "artists": [
+        {
+          "name": "Curtis Grimes",
+          "url": "https://open.spotify.com/artist/21NiIObyfGUR3UPql6UrkP"
+        }
+      ],
+      "duration_ms": 170896,
+      "name": "How The Hurtin' Goes",
+      "url": "https://open.spotify.com/track/0kx8fHSdEZPDaSommWNjfa"
+    },
+    {
+      "added_at": "2023-11-24 05:00:00",
+      "album": {
+        "name": "Dust",
+        "url": "https://open.spotify.com/album/23IQqam0aRAKSCLjOv9hlu"
+      },
+      "artists": [
+        {
+          "name": "Grace Tyler",
+          "url": "https://open.spotify.com/artist/7rJg0c4D0Xu1TtLmkaEMDH"
+        }
+      ],
+      "duration_ms": 186993,
+      "name": "Dust",
+      "url": "https://open.spotify.com/track/7mEK8ZfXB69HKYZrOnV9CD"
+    },
+    {
+      "added_at": "2023-11-24 05:00:00",
+      "album": {
         "name": "Too Many Honky Tonks",
         "url": "https://open.spotify.com/album/5OxoWGOhNG6g8qOTMFfCl8"
       },
@@ -1635,22 +1635,6 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
-        "name": "Destiny",
-        "url": "https://open.spotify.com/album/7swt4qXQz75AomZfbJRHxl"
-      },
-      "artists": [
-        {
-          "name": "Tanner Usrey",
-          "url": "https://open.spotify.com/artist/1ZGVS1OWpdvELiQyx3vkO7"
-        }
-      ],
-      "duration_ms": 201733,
-      "name": "Destiny",
-      "url": "https://open.spotify.com/track/1iS3tR6A5kibt0BInSlzzU"
-    },
-    {
-      "added_at": "2023-11-24 05:00:00",
-      "album": {
         "name": "I\u2019m Just An Old Chunk Of Coal (But I\u2019m Gonna Be A Diamond Someday)",
         "url": "https://open.spotify.com/album/58ho3We8TBDCQYMLyNetqN"
       },
@@ -1663,6 +1647,22 @@
       "duration_ms": 248866,
       "name": "I\u2019m Just An Old Chunk Of Coal (But I\u2019m Gonna Be A Diamond Someday)",
       "url": "https://open.spotify.com/track/0JaGv3nU0muVvfSUClLm26"
+    },
+    {
+      "added_at": "2023-11-24 05:00:00",
+      "album": {
+        "name": "Destiny",
+        "url": "https://open.spotify.com/album/7swt4qXQz75AomZfbJRHxl"
+      },
+      "artists": [
+        {
+          "name": "Tanner Usrey",
+          "url": "https://open.spotify.com/artist/1ZGVS1OWpdvELiQyx3vkO7"
+        }
+      ],
+      "duration_ms": 201733,
+      "name": "Destiny",
+      "url": "https://open.spotify.com/track/1iS3tR6A5kibt0BInSlzzU"
     },
     {
       "added_at": "2023-11-24 05:00:00",

@@ -1,12 +1,12 @@
 {
   "description": "2015 highlights from the home of indie music.",
-  "num_followers": 57047,
+  "num_followers": 57068,
   "original_name": "Best of Indie 2015",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkOGNiNWRiZjJlMjFiZWI3Mjc5NTU5OGU3MTY4Y2FiYTRiZDgyMTIy",
+  "snapshot_id": "MCxjMTk3YWE4ZjdiY2RiNWMzYWQ3MmQ5Y2M5MTI2Y2ZjMzRiN2MyNmRm",
   "tracks": [
     {
       "added_at": "2021-09-14 05:14:45",
@@ -171,22 +171,6 @@
     {
       "added_at": "2021-09-14 05:14:45",
       "album": {
-        "name": "This Is Home",
-        "url": "https://open.spotify.com/album/0eB1tOktFK5AtA9YBYSXRu"
-      },
-      "artists": [
-        {
-          "name": "Cavetown",
-          "url": "https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8"
-        }
-      ],
-      "duration_ms": 226073,
-      "name": "This Is Home",
-      "url": "https://open.spotify.com/track/7s8VgA8OjvwBUuigKzEGBx"
-    },
-    {
-      "added_at": "2021-09-14 05:14:45",
-      "album": {
         "name": "Hope",
         "url": "https://open.spotify.com/album/3hR8a4KfoKuRvMDmZB3Di4"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 203653,
       "name": "Spirits",
       "url": "https://open.spotify.com/track/1VyiUi0mRnSKgtHa5dBoUd"
+    },
+    {
+      "added_at": "2021-09-14 05:14:45",
+      "album": {
+        "name": "This Is Home",
+        "url": "https://open.spotify.com/album/0eB1tOktFK5AtA9YBYSXRu"
+      },
+      "artists": [
+        {
+          "name": "Cavetown",
+          "url": "https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8"
+        }
+      ],
+      "duration_ms": 226073,
+      "name": "This Is Home",
+      "url": "https://open.spotify.com/track/7s8VgA8OjvwBUuigKzEGBx"
     },
     {
       "added_at": "2021-09-14 05:14:45",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2021-09-14 05:14:45",
       "album": {
-        "name": "Christine and the Queens",
-        "url": "https://open.spotify.com/album/5qYhFUAumctJEgm6nFJJfO"
-      },
-      "artists": [
-        {
-          "name": "Christine and the Queens",
-          "url": "https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT"
-        }
-      ],
-      "duration_ms": 233247,
-      "name": "Tilted",
-      "url": "https://open.spotify.com/track/4U6GYrZi0xvNkUmFitCDED"
-    },
-    {
-      "added_at": "2021-09-14 05:14:45",
-      "album": {
         "name": "Shadow",
         "url": "https://open.spotify.com/album/6IoA01Eo4bfsXfEKBEisyG"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 224527,
       "name": "Shadow",
       "url": "https://open.spotify.com/track/3sJQGz6WX2YIBaHsH3bRMq"
+    },
+    {
+      "added_at": "2021-09-14 05:14:45",
+      "album": {
+        "name": "Christine and the Queens",
+        "url": "https://open.spotify.com/album/5qYhFUAumctJEgm6nFJJfO"
+      },
+      "artists": [
+        {
+          "name": "Christine and the Queens",
+          "url": "https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT"
+        }
+      ],
+      "duration_ms": 233247,
+      "name": "Tilted",
+      "url": "https://open.spotify.com/track/4U6GYrZi0xvNkUmFitCDED"
     },
     {
       "added_at": "2021-09-14 05:14:45",
@@ -1619,18 +1619,18 @@
     {
       "added_at": "2021-09-14 05:14:45",
       "album": {
-        "name": "Inanimate Objects",
-        "url": "https://open.spotify.com/album/3jQxdLlKciB0WQncSVhM39"
+        "name": "Teens of Style",
+        "url": "https://open.spotify.com/album/7s2vwXfI8Ki49zYIfTTkRT"
       },
       "artists": [
         {
-          "name": "Atlas Genius",
-          "url": "https://open.spotify.com/artist/42vg2T0Xg9yPaAgogJzoQH"
+          "name": "Car Seat Headrest",
+          "url": "https://open.spotify.com/artist/5PbpKlxQE0Ktl5lcNABoFf"
         }
       ],
-      "duration_ms": 191640,
-      "name": "Stockholm",
-      "url": "https://open.spotify.com/track/7tKnaB8gsXxyPScxEwzQ9N"
+      "duration_ms": 260426,
+      "name": "Something Soon",
+      "url": "https://open.spotify.com/track/1L2U62lhBK991jQJ1uecD5"
     }
   ],
   "unique_name": "Best of Indie 2015",

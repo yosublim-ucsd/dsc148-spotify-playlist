@@ -1,12 +1,12 @@
 {
   "description": "Una fusi\u00f3n moderna de m\u00fasica Cristiana que alimenta el alma.",
-  "num_followers": 396488,
+  "num_followers": 396631,
   "original_name": "Creo En Ti",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0OGQ2NzAyZDNhMzFjNDkzYmU1YzU3ZjdiOTkxODNjZjQ0YmE5N2Y2",
+  "snapshot_id": "MCxiYzBiMWE5OWY3YmE2Y2UzMDExYWY0OTFiMGM5ZDFjMmZhODYzYzM5",
   "tracks": [
     {
       "added_at": "2021-05-21 19:19:27",
@@ -263,6 +263,22 @@
     {
       "added_at": "2021-05-21 19:19:27",
       "album": {
+        "name": "Con El Coraz\u00f3n En La Mano",
+        "url": "https://open.spotify.com/album/3PB8k8AGcSP5rIAQNuZKYV"
+      },
+      "artists": [
+        {
+          "name": "Rojo",
+          "url": "https://open.spotify.com/artist/5NvKO965JkIJanRuKQPVN6"
+        }
+      ],
+      "duration_ms": 301125,
+      "name": "No Me Soltar\u00e1s",
+      "url": "https://open.spotify.com/track/48lwAoNI4cQZ9YOizzTPL8"
+    },
+    {
+      "added_at": "2021-05-21 19:19:27",
+      "album": {
         "name": "Piedras Vivas",
         "url": "https://open.spotify.com/album/2Z3y8daO4p0u99UfYxeGzG"
       },
@@ -279,22 +295,6 @@
       "duration_ms": 315653,
       "name": "Gracia Sublime Es",
       "url": "https://open.spotify.com/track/5fx0pSrRtDq2u7qlaly8fC"
-    },
-    {
-      "added_at": "2021-05-21 19:19:27",
-      "album": {
-        "name": "Con El Coraz\u00f3n En La Mano",
-        "url": "https://open.spotify.com/album/3PB8k8AGcSP5rIAQNuZKYV"
-      },
-      "artists": [
-        {
-          "name": "Rojo",
-          "url": "https://open.spotify.com/artist/5NvKO965JkIJanRuKQPVN6"
-        }
-      ],
-      "duration_ms": 301125,
-      "name": "No Me Soltar\u00e1s",
-      "url": "https://open.spotify.com/track/48lwAoNI4cQZ9YOizzTPL8"
     },
     {
       "added_at": "2021-05-21 19:19:27",
@@ -863,18 +863,22 @@
     {
       "added_at": "2021-05-21 19:19:27",
       "album": {
-        "name": "Indestructible",
-        "url": "https://open.spotify.com/album/01DU4Brb6WmObvkqdsVWiN"
+        "name": "M\u00e1s",
+        "url": "https://open.spotify.com/album/3RE4acPIRjN24JaowvCKGp"
       },
       "artists": [
         {
           "name": "Funky",
           "url": "https://open.spotify.com/artist/4B4YYJ0BAYBK86yxqQV7mu"
+        },
+        {
+          "name": "Redimi2",
+          "url": "https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm"
         }
       ],
-      "duration_ms": 256464,
-      "name": "Se Nota En Tus Ojos",
-      "url": "https://open.spotify.com/track/3sJ7NkecvtR9razQi5ZjQF"
+      "duration_ms": 238710,
+      "name": "Yo Soy As\u00ed",
+      "url": "https://open.spotify.com/track/7c94XZyfKWQZbkAnPK3FLs"
     },
     {
       "added_at": "2021-05-21 19:19:27",
@@ -967,22 +971,18 @@
     {
       "added_at": "2021-05-21 19:19:27",
       "album": {
-        "name": "M\u00e1s",
-        "url": "https://open.spotify.com/album/3RE4acPIRjN24JaowvCKGp"
+        "name": "Indestructible",
+        "url": "https://open.spotify.com/album/01DU4Brb6WmObvkqdsVWiN"
       },
       "artists": [
         {
           "name": "Funky",
           "url": "https://open.spotify.com/artist/4B4YYJ0BAYBK86yxqQV7mu"
-        },
-        {
-          "name": "Redimi2",
-          "url": "https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm"
         }
       ],
-      "duration_ms": 238710,
-      "name": "Yo Soy As\u00ed",
-      "url": "https://open.spotify.com/track/7c94XZyfKWQZbkAnPK3FLs"
+      "duration_ms": 256464,
+      "name": "Se Nota En Tus Ojos",
+      "url": "https://open.spotify.com/track/3sJ7NkecvtR9razQi5ZjQF"
     },
     {
       "added_at": "2021-05-21 19:19:27",

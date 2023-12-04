@@ -1,12 +1,12 @@
 {
   "description": "Get your creative juices flowing with these instrumental masterpieces.",
-  "num_followers": 183986,
+  "num_followers": 184055,
   "original_name": "Creative Focus",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZWQ3ODNmNWI3Nzk3ZDUyNGFhYjQ2N2VmMjEwNWIzNDJlMTIxODgx",
+  "snapshot_id": "MCw4MmMwMjA1M2NjYjU4ZjRhYTdmODk4YjA4OTg2MzEyN2I2YTBmOTU0",
   "tracks": [
     {
       "added_at": "2023-02-09 09:05:31",
@@ -547,6 +547,26 @@
     {
       "added_at": "2023-02-09 09:05:31",
       "album": {
+        "name": "Wonderland - Edvard Grieg: Piano Concerto, Lyric Pieces",
+        "url": "https://open.spotify.com/album/2UuimI3vh1uOLs1WemYk1m"
+      },
+      "artists": [
+        {
+          "name": "Edvard Grieg",
+          "url": "https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy"
+        },
+        {
+          "name": "Alice Sara Ott",
+          "url": "https://open.spotify.com/artist/0d6alfZHUx3xoRnPjkTL7Q"
+        }
+      ],
+      "duration_ms": 80280,
+      "name": "Lyric Pieces Book I, Op. 12: No. 7 Album Leaf",
+      "url": "https://open.spotify.com/track/7hfoLeHqbJ6jWz0RqWfzBB"
+    },
+    {
+      "added_at": "2023-02-09 09:05:31",
+      "album": {
         "name": "Mozart: Piano Sonatas, Vol. 2 (Piano Sonatas Nos. 9, 12, 16 and 17)",
         "url": "https://open.spotify.com/album/4HcdQvJCxT9LdkOcvDaeYB"
       },
@@ -587,26 +607,6 @@
       "duration_ms": 209373,
       "name": "Serenade for Strings in C major, Op. 48: II. Walzer: Moderato, tempo di valse",
       "url": "https://open.spotify.com/track/7uf3aFC1msj0t5cYImgOWy"
-    },
-    {
-      "added_at": "2023-02-09 09:05:31",
-      "album": {
-        "name": "Wonderland - Edvard Grieg: Piano Concerto, Lyric Pieces",
-        "url": "https://open.spotify.com/album/2UuimI3vh1uOLs1WemYk1m"
-      },
-      "artists": [
-        {
-          "name": "Edvard Grieg",
-          "url": "https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy"
-        },
-        {
-          "name": "Alice Sara Ott",
-          "url": "https://open.spotify.com/artist/0d6alfZHUx3xoRnPjkTL7Q"
-        }
-      ],
-      "duration_ms": 80280,
-      "name": "Lyric Pieces Book I, Op. 12: No. 7 Album Leaf",
-      "url": "https://open.spotify.com/track/7hfoLeHqbJ6jWz0RqWfzBB"
     },
     {
       "added_at": "2023-02-09 09:05:31",
@@ -727,6 +727,22 @@
     {
       "added_at": "2023-02-09 09:05:31",
       "album": {
+        "name": "Blind Film",
+        "url": "https://open.spotify.com/album/7DTb6225JKPofMAZgIAmUC"
+      },
+      "artists": [
+        {
+          "name": "Yiruma",
+          "url": "https://open.spotify.com/artist/0fauHpmSHwodVYIjTqOGHz"
+        }
+      ],
+      "duration_ms": 228293,
+      "name": "Waltz in C Minor (Only for Piano)",
+      "url": "https://open.spotify.com/track/6L6TuOAEZHf93tJULIjQrj"
+    },
+    {
+      "added_at": "2023-02-09 09:05:31",
+      "album": {
         "name": "Rinaldo, HWV 7: Lascia ch'io pianga (Arr. for Piano)",
         "url": "https://open.spotify.com/album/2w6cYUhoQ1uZ26JMVz7Vdj"
       },
@@ -743,22 +759,6 @@
       "duration_ms": 268000,
       "name": "Rinaldo, HWV 7: Lascia ch'io pianga (Arr. for Piano)",
       "url": "https://open.spotify.com/track/3mYWVZeUiEHei3XwIsaxfI"
-    },
-    {
-      "added_at": "2023-02-09 09:05:31",
-      "album": {
-        "name": "Blind Film",
-        "url": "https://open.spotify.com/album/7DTb6225JKPofMAZgIAmUC"
-      },
-      "artists": [
-        {
-          "name": "Yiruma",
-          "url": "https://open.spotify.com/artist/0fauHpmSHwodVYIjTqOGHz"
-        }
-      ],
-      "duration_ms": 228293,
-      "name": "Waltz in C Minor (Only for Piano)",
-      "url": "https://open.spotify.com/track/6L6TuOAEZHf93tJULIjQrj"
     },
     {
       "added_at": "2023-02-09 09:05:31",
@@ -851,34 +851,6 @@
     {
       "added_at": "2023-02-09 09:05:31",
       "album": {
-        "name": "Rodrigo: Concierto de Aranjuez; Fantas\u00eda para un gentilhombre etc.",
-        "url": "https://open.spotify.com/album/2B6figtx2ZMK6vsLqdKvHZ"
-      },
-      "artists": [
-        {
-          "name": "Joaqu\u00edn Rodrigo",
-          "url": "https://open.spotify.com/artist/3eqv9LW7ZXlYWXVFjHS4Mr"
-        },
-        {
-          "name": "Agust\u00edn Le\u00f3n Ara",
-          "url": "https://open.spotify.com/artist/2ISweDneTd9LZ99oeuzl82"
-        },
-        {
-          "name": "Academy of St. Martin in the Fields",
-          "url": "https://open.spotify.com/artist/77CaCn32H4mOMQA7UElzfF"
-        },
-        {
-          "name": "Sir Neville Marriner",
-          "url": "https://open.spotify.com/artist/6NUhQz7eAEsZvjEHTKHux9"
-        }
-      ],
-      "duration_ms": 172000,
-      "name": "Can\u00e7oneta for Violin and Orchestra",
-      "url": "https://open.spotify.com/track/4h6KTocEXwAdCJDgGqRFEs"
-    },
-    {
-      "added_at": "2023-02-09 09:05:31",
-      "album": {
         "name": "Bizet: Carmen Suites 1 & 2; L'Arl\u00e9sienne Suites 1 & 2",
         "url": "https://open.spotify.com/album/3MHXMoe8tGfheDCfH6lUFn"
       },
@@ -903,22 +875,30 @@
     {
       "added_at": "2023-02-09 09:05:31",
       "album": {
-        "name": "50 Masterworks - Arthur Rubinstein",
-        "url": "https://open.spotify.com/album/49fd44zRwokYUaIBJRohZE"
+        "name": "Rodrigo: Concierto de Aranjuez; Fantas\u00eda para un gentilhombre etc.",
+        "url": "https://open.spotify.com/album/2B6figtx2ZMK6vsLqdKvHZ"
       },
       "artists": [
         {
-          "name": "Fr\u00e9d\u00e9ric Chopin",
-          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+          "name": "Joaqu\u00edn Rodrigo",
+          "url": "https://open.spotify.com/artist/3eqv9LW7ZXlYWXVFjHS4Mr"
         },
         {
-          "name": "Arthur Rubinstein",
-          "url": "https://open.spotify.com/artist/5N1GUHhFMRFFgMTjSOJDb9"
+          "name": "Agust\u00edn Le\u00f3n Ara",
+          "url": "https://open.spotify.com/artist/2ISweDneTd9LZ99oeuzl82"
+        },
+        {
+          "name": "Academy of St. Martin in the Fields",
+          "url": "https://open.spotify.com/artist/77CaCn32H4mOMQA7UElzfF"
+        },
+        {
+          "name": "Sir Neville Marriner",
+          "url": "https://open.spotify.com/artist/6NUhQz7eAEsZvjEHTKHux9"
         }
       ],
-      "duration_ms": 376440,
-      "name": "Nocturnes, Op. 27: No. 2 in D-Flat Major",
-      "url": "https://open.spotify.com/track/1nGDsTkP1npeWj4hJ9s9pw"
+      "duration_ms": 172000,
+      "name": "Can\u00e7oneta for Violin and Orchestra",
+      "url": "https://open.spotify.com/track/4h6KTocEXwAdCJDgGqRFEs"
     },
     {
       "added_at": "2023-02-09 09:05:31",
@@ -951,6 +931,26 @@
       "duration_ms": 136400,
       "name": "Le Carnaval des Animaux, R.125: 4. Tortues",
       "url": "https://open.spotify.com/track/5Un9h6xPqnHSvguexXnbEg"
+    },
+    {
+      "added_at": "2023-02-09 09:05:31",
+      "album": {
+        "name": "50 Masterworks - Arthur Rubinstein",
+        "url": "https://open.spotify.com/album/49fd44zRwokYUaIBJRohZE"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "Arthur Rubinstein",
+          "url": "https://open.spotify.com/artist/5N1GUHhFMRFFgMTjSOJDb9"
+        }
+      ],
+      "duration_ms": 376440,
+      "name": "Nocturnes, Op. 27: No. 2 in D-Flat Major",
+      "url": "https://open.spotify.com/track/1nGDsTkP1npeWj4hJ9s9pw"
     },
     {
       "added_at": "2023-02-09 09:05:31",
@@ -1039,6 +1039,26 @@
     {
       "added_at": "2023-02-09 09:05:31",
       "album": {
+        "name": "Bach, C.P.E.: Sonatas & Rondos",
+        "url": "https://open.spotify.com/album/1iGH5gW7R3Ie5xTWl0QyM1"
+      },
+      "artists": [
+        {
+          "name": "Carl Philipp Emanuel Bach",
+          "url": "https://open.spotify.com/artist/3meioy7GWDwpwmjv2LPyAb"
+        },
+        {
+          "name": "Mikhail Pletnev",
+          "url": "https://open.spotify.com/artist/2YdRnOqBXCl9g8xCLcGh8C"
+        }
+      ],
+      "duration_ms": 187000,
+      "name": "Sonata in G major, Wq. 62/19: 2. Andante",
+      "url": "https://open.spotify.com/track/6oZVIIJC4qaVmV59msx8wQ"
+    },
+    {
+      "added_at": "2023-02-09 09:05:31",
+      "album": {
         "name": "Early One Morning",
         "url": "https://open.spotify.com/album/4fYC3U6IjW0DrxgR06hWqe"
       },
@@ -1059,26 +1079,6 @@
       "duration_ms": 78066,
       "name": "Kesaillan idylli (Summer Night's Idyll) , Op. 16, No. 2 (arr. J. Panula)",
       "url": "https://open.spotify.com/track/2Y9DRm38cPNvXQn1sJ8Tnw"
-    },
-    {
-      "added_at": "2023-02-09 09:05:31",
-      "album": {
-        "name": "Bach, C.P.E.: Sonatas & Rondos",
-        "url": "https://open.spotify.com/album/1iGH5gW7R3Ie5xTWl0QyM1"
-      },
-      "artists": [
-        {
-          "name": "Carl Philipp Emanuel Bach",
-          "url": "https://open.spotify.com/artist/3meioy7GWDwpwmjv2LPyAb"
-        },
-        {
-          "name": "Mikhail Pletnev",
-          "url": "https://open.spotify.com/artist/2YdRnOqBXCl9g8xCLcGh8C"
-        }
-      ],
-      "duration_ms": 187000,
-      "name": "Sonata in G major, Wq. 62/19: 2. Andante",
-      "url": "https://open.spotify.com/track/6oZVIIJC4qaVmV59msx8wQ"
     },
     {
       "added_at": "2023-02-09 09:05:31",
@@ -1167,6 +1167,30 @@
       "duration_ms": 106320,
       "name": "Pi\u00e8ces froides: II. Airs \u00e0 faire fuir (Modestement)",
       "url": "https://open.spotify.com/track/3hUepKDdsvTQ3tr8LU4Lwq"
+    },
+    {
+      "added_at": "2023-02-09 09:05:31",
+      "album": {
+        "name": "Pachelbel: Canon; Albinoni: Adagio; Bach: Jesu, Joy of Man's Desiring; more",
+        "url": "https://open.spotify.com/album/0TXKF9HGebP07O94Gylywf"
+      },
+      "artists": [
+        {
+          "name": "Christoph Willibald Gluck",
+          "url": "https://open.spotify.com/artist/7vfydQ0nVBVgJ0ajs8EtRM"
+        },
+        {
+          "name": "Eugene Ormandy",
+          "url": "https://open.spotify.com/artist/3naY4Tq98GRh9K8xOsINyv"
+        },
+        {
+          "name": "Philadelphia Orchestra",
+          "url": "https://open.spotify.com/artist/6tdexW8bZTG8NgOFUCYQn1"
+        }
+      ],
+      "duration_ms": 207106,
+      "name": "Orpheo ed Euridice, Wq. 30, Act II: Dance of the Blessed Spirits",
+      "url": "https://open.spotify.com/track/4qg7uptMkSHq8uatbgcP37"
     },
     {
       "added_at": "2023-02-09 09:05:31",
@@ -1263,30 +1287,6 @@
       "duration_ms": 54520,
       "name": "Chopin: 24 Preludes, Op. 28: No. 7 in A Major",
       "url": "https://open.spotify.com/track/7xrs7lNCLYp4j6O4Vv4Kgz"
-    },
-    {
-      "added_at": "2023-02-09 09:05:31",
-      "album": {
-        "name": "Pachelbel: Canon; Albinoni: Adagio; Bach: Jesu, Joy of Man's Desiring; more",
-        "url": "https://open.spotify.com/album/0TXKF9HGebP07O94Gylywf"
-      },
-      "artists": [
-        {
-          "name": "Christoph Willibald Gluck",
-          "url": "https://open.spotify.com/artist/7vfydQ0nVBVgJ0ajs8EtRM"
-        },
-        {
-          "name": "Eugene Ormandy",
-          "url": "https://open.spotify.com/artist/3naY4Tq98GRh9K8xOsINyv"
-        },
-        {
-          "name": "Philadelphia Orchestra",
-          "url": "https://open.spotify.com/artist/6tdexW8bZTG8NgOFUCYQn1"
-        }
-      ],
-      "duration_ms": 207106,
-      "name": "Orpheo ed Euridice, Wq. 30, Act II: Dance of the Blessed Spirits",
-      "url": "https://open.spotify.com/track/4qg7uptMkSHq8uatbgcP37"
     },
     {
       "added_at": "2023-02-09 09:05:31",

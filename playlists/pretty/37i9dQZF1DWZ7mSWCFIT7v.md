@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ7mSWCFIT7v.md) - [plain]
 
 > time\-stretching granular synthesis.
 
-[Spotify](https://open.spotify.com/user/spotify) - 96,762 likes - 100 songs - 7 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,806 likes - 100 songs - 7 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,9 +28,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ7mSWCFIT7v.md) - [plain]
 | 18 | [The Trembling of Glass](https://open.spotify.com/track/3xcZhz8x7ZV2PrREmSav89) | [Rachika Nayar](https://open.spotify.com/artist/6afqNtQw2IUvXw6JeIRgQZ) | [Our Hands Against the Dusk](https://open.spotify.com/album/6mtOF3M7pLQTQZlPtAFwn9) | 3:28 |
 | 19 | [S.O](https://open.spotify.com/track/1rPVwDsOQngRvmfkFgXLjn) | [Kelly Lee Owens](https://open.spotify.com/artist/5eitAUlYmlha3LLWg7aBn5) | [Kelly Lee Owens](https://open.spotify.com/album/0aol42apbylFf2POjiAOeP) | 3:12 |
 | 20 | [Onyx](https://open.spotify.com/track/5FBtKWOHXlTbbrV8r86yDt) | [Polygonia](https://open.spotify.com/artist/1bvMkEwyURFPl2eDGZieUm), [Popp](https://open.spotify.com/artist/3g6w2ATRPWhtFCUtkDIdcp) | [Onyx](https://open.spotify.com/album/55xrsiUHPKRdZT4SMLqz0O) | 4:11 |
-| 21 | [Ola De Luz](https://open.spotify.com/track/32sj28mo2pbqzDjW4ZvsuH) | [OKRAA](https://open.spotify.com/artist/1ZfxnR3DTdddhuKtkIGIKU) | [1994](https://open.spotify.com/album/1p75jJjxx7Eu2nlAlQEtGE) | 10:45 |
+| 21 | [Cup Noodle](https://open.spotify.com/track/48ieq4orqgVGclzC5dEMy3) | [The Black Dog](https://open.spotify.com/artist/7qdsk0UXx2jCX7jbp6rxeq) | [Fragments](https://open.spotify.com/album/2WcSpIMRYszQtLIsDIKMrV) | 3:30 |
 | 22 | [Yulquen](https://open.spotify.com/track/7oZwhOIxuFxRzqKmOKDgiO) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Amber](https://open.spotify.com/album/1brMCJ3wB9KNzAANIKJf32) | 6:37 |
-| 23 | [Cup Noodle](https://open.spotify.com/track/48ieq4orqgVGclzC5dEMy3) | [The Black Dog](https://open.spotify.com/artist/7qdsk0UXx2jCX7jbp6rxeq) | [Fragments](https://open.spotify.com/album/2WcSpIMRYszQtLIsDIKMrV) | 3:30 |
+| 23 | [Ola De Luz](https://open.spotify.com/track/32sj28mo2pbqzDjW4ZvsuH) | [OKRAA](https://open.spotify.com/artist/1ZfxnR3DTdddhuKtkIGIKU) | [1994](https://open.spotify.com/album/1p75jJjxx7Eu2nlAlQEtGE) | 10:45 |
 | 24 | [Twilight Sea](https://open.spotify.com/track/4dHxCO4kzAtcoki383YV0v) | [Chihei Hatakeyama](https://open.spotify.com/artist/4G1ZsxfEEztbE1VcnNInPg) | [Late Spring](https://open.spotify.com/album/0ivDCaGwBmUHHatP2XDe0Y) | 6:05 |
 | 25 | [Truffles Sprinkles](https://open.spotify.com/track/6IcvrVg1YFoLGH6mcuZtZL) | [Salamanda](https://open.spotify.com/artist/2ABEVwxsESCBsCBjN6qFru) | [Truffles Sprinkles](https://open.spotify.com/album/1UtC4DLLQyHEFPHO7AM0hS) | 4:11 |
 | 26 | [Gravity that Binds](https://open.spotify.com/track/7dS9nthl03XLZySLWLuSRh) | [Caterina Barbieri](https://open.spotify.com/artist/61WgG5fz5ilJrMne7tE1zu) | [Patterns Of Consciousness](https://open.spotify.com/album/0NzTh2r6EOk9JDWkRHkeYS) | 15:47 |
@@ -74,25 +74,25 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ7mSWCFIT7v.md) - [plain]
 | 64 | [Insight](https://open.spotify.com/track/3RlKU8y6NXxhPN9JmKraDA) | [BOP](https://open.spotify.com/artist/02ZCVD3nqfqNId8lvpvCBb) | [Insight](https://open.spotify.com/album/789BZ4kIIbYFMWQtngcpk5) | 4:53 |
 | 65 | [Vale Da Lua](https://open.spotify.com/track/7aZlJBPtjrvbgrdNrJzLMz) | [LAZA](https://open.spotify.com/artist/6OplzHOsBjoyyYIkkfmu9D) | [Chamas Do Cerrado](https://open.spotify.com/album/6BVJFFh1kOBNNwKiRABk9h) | 3:33 |
 | 66 | [Chéri \- Instrumental](https://open.spotify.com/track/3oBIxCgN5rcjO3WaIiFu0r) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [FOREVERANDEVERNOMORE \(FOREVER VOICELESS EDITION\)](https://open.spotify.com/album/4LnPArXRTX4jlOmcO6mIfN) | 3:25 |
-| 67 | [Bundeena](https://open.spotify.com/track/1QNgUvacqzNDdMOkXFtMlN) | [Totally Enormous Extinct Dinosaurs](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [I Can Hear the Birds](https://open.spotify.com/album/5e2c7ge98FEC2RaAAq0wV1) | 4:22 |
+| 67 | [Every Since And Then](https://open.spotify.com/track/1RNe4viqCD97PgAChQers4) | [Isan](https://open.spotify.com/artist/7a7MvRxJIoVblndypH8XgC) | [Glass Bird Movement](https://open.spotify.com/album/2jTiDIgPrDgSmND8PcuKGm) | 5:38 |
 | 68 | [Coral Jazz](https://open.spotify.com/track/5o3FOmZJPxN4hfLlaFR6hM) | [Ozoyo](https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe) | [Coral Jazz](https://open.spotify.com/album/5vK2QLhligjEJXejUhKLLi) | 3:03 |
-| 69 | [Every Since And Then](https://open.spotify.com/track/1RNe4viqCD97PgAChQers4) | [Isan](https://open.spotify.com/artist/7a7MvRxJIoVblndypH8XgC) | [Glass Bird Movement](https://open.spotify.com/album/2jTiDIgPrDgSmND8PcuKGm) | 5:38 |
+| 69 | [Bundeena](https://open.spotify.com/track/1QNgUvacqzNDdMOkXFtMlN) | [Totally Enormous Extinct Dinosaurs](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [I Can Hear the Birds](https://open.spotify.com/album/5e2c7ge98FEC2RaAAq0wV1) | 4:22 |
 | 70 | [Ultra Truth](https://open.spotify.com/track/5XJbxQd5go9wRFpYq4fChY) | [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt) | [Ultra Truth](https://open.spotify.com/album/4qw8zs6nZyjpgPPBxZWpTI) | 5:17 |
-| 71 | [Circuit Current](https://open.spotify.com/track/2mZZ2QeDPoeJIePGbDmNjX) | [1tbsp](https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4) | [Circuit Current](https://open.spotify.com/album/1Io0KZKAK3f69QO9FpJWuK) | 4:07 |
-| 72 | [Amygdala](https://open.spotify.com/track/4Di1dq49uG26tIHEsAxaQy) | [JakoJako](https://open.spotify.com/artist/2ROWhaqtdj8ztIxWekIW4E) | [Amygdala](https://open.spotify.com/album/1MuIg8soW5Fhfg9i1BT6wZ) | 5:19 |
-| 73 | [Odyssey](https://open.spotify.com/track/38CvS1tbJBGBxV4TCJda4M) | [Rival Consoles](https://open.spotify.com/artist/05lIUgmmsmTX2N9dCKc8rC) | [El Caso Figo \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/75YNOhNpjEsAG4ktyJjqLy) | 4:41 |
-| 74 | [Street Talk](https://open.spotify.com/track/0fTYyY4Egxd86l8Yvvo2Ag) | [Holodec](https://open.spotify.com/artist/5QGhyDXeg6nwFfYHAXnLS3) | [Street Talk](https://open.spotify.com/album/5vR8ut78J1NdClW40QmtuT) | 3:49 |
+| 71 | [Odyssey](https://open.spotify.com/track/38CvS1tbJBGBxV4TCJda4M) | [Rival Consoles](https://open.spotify.com/artist/05lIUgmmsmTX2N9dCKc8rC) | [El Caso Figo \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/75YNOhNpjEsAG4ktyJjqLy) | 4:41 |
+| 72 | [Street Talk](https://open.spotify.com/track/0fTYyY4Egxd86l8Yvvo2Ag) | [Holodec](https://open.spotify.com/artist/5QGhyDXeg6nwFfYHAXnLS3) | [Street Talk](https://open.spotify.com/album/5vR8ut78J1NdClW40QmtuT) | 3:49 |
+| 73 | [Amygdala](https://open.spotify.com/track/4Di1dq49uG26tIHEsAxaQy) | [JakoJako](https://open.spotify.com/artist/2ROWhaqtdj8ztIxWekIW4E) | [Amygdala](https://open.spotify.com/album/1MuIg8soW5Fhfg9i1BT6wZ) | 5:19 |
+| 74 | [Circuit Current](https://open.spotify.com/track/2mZZ2QeDPoeJIePGbDmNjX) | [1tbsp](https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4) | [Circuit Current](https://open.spotify.com/album/1Io0KZKAK3f69QO9FpJWuK) | 4:07 |
 | 75 | [Panspermia](https://open.spotify.com/track/6YQ0EXjwQWT263njOeoe8S) | [Ozoyo](https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe) | [Panspermia](https://open.spotify.com/album/4TfQg8g5FV1VvZao3Mj94D) | 3:08 |
 | 76 | [Promise You'll Haunt Me](https://open.spotify.com/track/3ZNoKpRGsNc2xK7yPbg5aI) | [Auscultation](https://open.spotify.com/artist/5KlOanD5FKL6qWZ8auNVKQ) | [L'étreinte Imaginaire](https://open.spotify.com/album/1E5qllAtZJmSI94vHGMdGn) | 6:33 |
 | 77 | [Dub Protection](https://open.spotify.com/track/2nonAYGrtN6R6MmzIWwJjf) | [The Diabolical Liberties](https://open.spotify.com/artist/6JZINtp2iR8WoSGngVwsrb), [Emma\-Jean Thackray](https://open.spotify.com/artist/3UgcksTtuB1Jnn8BrisEiC) | [Dub Protection & The Sportswear Mystics](https://open.spotify.com/album/3Aiy2F3rmjJvgEmbOyDf3e) | 5:11 |
-| 78 | [Inking](https://open.spotify.com/track/6t5VbkwZhW0O7lNoUVX4Gf) | [Sweepsculp](https://open.spotify.com/artist/163prHBUW8VxZro1kWaLDt) | [Sweepsculp](https://open.spotify.com/album/3CwyI5ld8x6WbgdfBtJABx) | 4:06 |
-| 79 | [Creatura](https://open.spotify.com/track/4t2rtg8xGq6hKgXmDJzq3k) | [Drum & Lace](https://open.spotify.com/artist/1dq0QxwBna7jlk8S4rrnV7) | [Natura](https://open.spotify.com/album/7iKvcnzcqiPHlyvXKvs0d3) | 4:12 |
+| 78 | [Creatura](https://open.spotify.com/track/4t2rtg8xGq6hKgXmDJzq3k) | [Drum & Lace](https://open.spotify.com/artist/1dq0QxwBna7jlk8S4rrnV7) | [Natura](https://open.spotify.com/album/7iKvcnzcqiPHlyvXKvs0d3) | 4:12 |
+| 79 | [Inking](https://open.spotify.com/track/6t5VbkwZhW0O7lNoUVX4Gf) | [Sweepsculp](https://open.spotify.com/artist/163prHBUW8VxZro1kWaLDt) | [Sweepsculp](https://open.spotify.com/album/3CwyI5ld8x6WbgdfBtJABx) | 4:06 |
 | 80 | [Seele III](https://open.spotify.com/track/3TRb8Wm644PAarRbXklzCc) | [Doreem](https://open.spotify.com/artist/3RAvNSmI0guFG0gSYbhVzi) | [Seelen](https://open.spotify.com/album/0Bjnjacc6Aihgx4kcYsLT3) | 4:35 |
 | 81 | [Seca](https://open.spotify.com/track/1ZEzXlxCAHHdooAXNyeecB) | [Lucrecia Dalt](https://open.spotify.com/artist/4LC4vkseYrSEDd6MjZvOO9) | [No era sólida](https://open.spotify.com/album/0yUaUPdT2DcX9f24f61T3u) | 2:18 |
 | 82 | [April Dub \(Koyas Mix\)](https://open.spotify.com/track/0X93HjaN9zROeyew9uCOru) | [Sancho Meiso Chaya](https://open.spotify.com/artist/5R2atQNZwxCphuQxWh7LGn), [Koyas](https://open.spotify.com/artist/74Ah80XOCgo68rRWaRWnnI) | [April Dub](https://open.spotify.com/album/658oYwejSEjmja1ZLZjLWE) | 4:20 |
-| 83 | [NPCs have feelings too](https://open.spotify.com/track/2NAb2HxL55cZRhATCQLw3t) | [Artur M Puga](https://open.spotify.com/artist/3eBggjM2o4vL4jMyLgElSn) | [weirdbloom](https://open.spotify.com/album/1VTbpHOo6ks1bjUZNwlvaZ) | 4:39 |
-| 84 | [Marking Time](https://open.spotify.com/track/43YlD5hr6IVXPAuWz47bSH) | [Pauline Anna Strom](https://open.spotify.com/artist/1N5oRpOIshVJwICjXqkHPW) | [Angel Tears in Sunlight](https://open.spotify.com/album/1XtRcRYDb1uA7hvvZzC2Xd) | 4:30 |
-| 85 | [Summer Places](https://open.spotify.com/track/5soyEYI9op1hiyqEhHbtOQ) | [Sam Prekop](https://open.spotify.com/artist/4Vtlz5IfA9y4EBwmp20wwk) | [Comma](https://open.spotify.com/album/48WQXkdyIVTEek2TTwXVkt) | 3:43 |
+| 83 | [Marking Time](https://open.spotify.com/track/43YlD5hr6IVXPAuWz47bSH) | [Pauline Anna Strom](https://open.spotify.com/artist/1N5oRpOIshVJwICjXqkHPW) | [Angel Tears in Sunlight](https://open.spotify.com/album/1XtRcRYDb1uA7hvvZzC2Xd) | 4:30 |
+| 84 | [Summer Places](https://open.spotify.com/track/5soyEYI9op1hiyqEhHbtOQ) | [Sam Prekop](https://open.spotify.com/artist/4Vtlz5IfA9y4EBwmp20wwk) | [Comma](https://open.spotify.com/album/48WQXkdyIVTEek2TTwXVkt) | 3:43 |
+| 85 | [NPCs have feelings too](https://open.spotify.com/track/2NAb2HxL55cZRhATCQLw3t) | [Artur M Puga](https://open.spotify.com/artist/3eBggjM2o4vL4jMyLgElSn) | [weirdbloom](https://open.spotify.com/album/1VTbpHOo6ks1bjUZNwlvaZ) | 4:39 |
 | 86 | [The Pier](https://open.spotify.com/track/7FkL1m76B5qexhP7np6kRK) | [Bengalfuel](https://open.spotify.com/artist/06r801SGC5phdLkowJLkfl) | [Hodes](https://open.spotify.com/album/2CaQbV2NP1EDyeNvGA7LFP) | 3:14 |
 | 87 | [Toska](https://open.spotify.com/track/0HWNPGUqcv98QzbehmGDpv) | [Goya](https://open.spotify.com/artist/6PQ2kZoooRoz3ZPhy8vkfc) | [Toska](https://open.spotify.com/album/4D39jrL55p5sgjoUmc1Cer) | 5:42 |
 | 88 | [Badwater Psalm \- Khotin Remix](https://open.spotify.com/track/5g1o2X09PYouRGkp13SaQu) | [Bing & Ruth](https://open.spotify.com/artist/0grPfzk6cTnzfQpxjLDPs0), [Khotin](https://open.spotify.com/artist/0q2WkTHTEczNf8wNq6MBRk) | [Badwater Psalm \(Khotin Remix\)](https://open.spotify.com/album/7KziNRnIuC3gccBpsjS28W) | 6:00 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ7mSWCFIT7v.md) - [plain]
 | 99 | [F7](https://open.spotify.com/track/1djSx1nXAb7nekBdshLXjE) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [SIGN](https://open.spotify.com/album/6bZID6hhfiOoLYwAm3fliK) | 5:56 |
 | 100 | [Temple](https://open.spotify.com/track/498ZDQka9kegPstbDGhpiu) | [Aeromancias](https://open.spotify.com/artist/3jiI4qEyqOZAmbB2VBB6tw) | [Suiseki](https://open.spotify.com/album/2ZenMYsh0RIM66yZF66bsN) | 3:30 |
 
-Snapshot ID: `MCxlNGMzOWY4OGNlOWVhNzg5ZjExMTU1Y2Q2ZTY3MWM3Y2Q3NTFmMzhj`
+Snapshot ID: `MCwzNDNiZmM2NDIzOWU0YjM3MGMxZjA5NzQyYWJlNTI5NDI5NzczNTll`

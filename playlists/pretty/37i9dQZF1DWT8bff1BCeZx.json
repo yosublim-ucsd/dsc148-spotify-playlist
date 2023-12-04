@@ -1,12 +1,12 @@
 {
   "description": "African Praise music taking you all the way up!",
-  "num_followers": 9950,
+  "num_followers": 10008,
   "original_name": "Higher",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMWFhMDdlM2M3NzdiNzllNWNlMWU2ZDUyZmE3OTg4OWQ5MzM3Mzhi",
+  "snapshot_id": "MCw4OGU5MGY1NjA0OTYxYzA1Y2YzNWJhMmJkZjFmZGVhNDdkYTdmYWQx",
   "tracks": [
     {
       "added_at": "2023-12-01 00:01:00",
@@ -155,8 +155,8 @@
     {
       "added_at": "2023-12-01 00:01:00",
       "album": {
-        "name": "My Matter",
-        "url": "https://open.spotify.com/album/3yADLSdEDyjsn8ncyIJnaF"
+        "name": "Over",
+        "url": "https://open.spotify.com/album/3pea7BAnzcaMlscFEhMfRD"
       },
       "artists": [
         {
@@ -164,17 +164,13 @@
           "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
         },
         {
-          "name": "Victor Thompson",
-          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
-        },
-        {
-          "name": "Becca Folkes",
-          "url": "https://open.spotify.com/artist/6gNm3KPTOr2uiejwae6rHb"
+          "name": "Elle Limebear",
+          "url": "https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD"
         }
       ],
-      "duration_ms": 173290,
-      "name": "My Matter",
-      "url": "https://open.spotify.com/track/14yL1XMDM7d7VTsIqB0TFf"
+      "duration_ms": 168000,
+      "name": "Over",
+      "url": "https://open.spotify.com/track/5w53DU4ZVdIn5J7iHP18gT"
     },
     {
       "added_at": "2023-12-01 00:01:00",
@@ -259,26 +255,18 @@
     {
       "added_at": "2023-12-01 00:01:00",
       "album": {
-        "name": "Daily",
-        "url": "https://open.spotify.com/album/49Iuy7dLYlumJaMt8X2Tbj"
+        "name": "Omo Baba",
+        "url": "https://open.spotify.com/album/4e41b60U5kriqKlvTLIfp4"
       },
       "artists": [
         {
-          "name": "Ryan Ofei",
-          "url": "https://open.spotify.com/artist/1pQ5oAMGcFhkkuLqGJQUCd"
-        },
-        {
-          "name": "Limoblaze",
-          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
-        },
-        {
-          "name": "Becca Folkes",
-          "url": "https://open.spotify.com/artist/6gNm3KPTOr2uiejwae6rHb"
+          "name": "Spirit of Prophecy",
+          "url": "https://open.spotify.com/artist/47QqOqn5ySXFRyTezxJRBF"
         }
       ],
-      "duration_ms": 176571,
-      "name": "Daily",
-      "url": "https://open.spotify.com/track/2VVpThlAv7UPHD63mIo3t9"
+      "duration_ms": 195446,
+      "name": "Omo Baba",
+      "url": "https://open.spotify.com/track/4dwPr4moTpcCb7hER3nBep"
     },
     {
       "added_at": "2023-12-01 00:01:00",
@@ -315,8 +303,8 @@
     {
       "added_at": "2023-12-01 00:01:00",
       "album": {
-        "name": "Over",
-        "url": "https://open.spotify.com/album/3pea7BAnzcaMlscFEhMfRD"
+        "name": "My Matter",
+        "url": "https://open.spotify.com/album/3yADLSdEDyjsn8ncyIJnaF"
       },
       "artists": [
         {
@@ -324,13 +312,17 @@
           "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
         },
         {
-          "name": "Elle Limebear",
-          "url": "https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD"
+          "name": "Victor Thompson",
+          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
+        },
+        {
+          "name": "Becca Folkes",
+          "url": "https://open.spotify.com/artist/6gNm3KPTOr2uiejwae6rHb"
         }
       ],
-      "duration_ms": 168000,
-      "name": "Over",
-      "url": "https://open.spotify.com/track/5w53DU4ZVdIn5J7iHP18gT"
+      "duration_ms": 173290,
+      "name": "My Matter",
+      "url": "https://open.spotify.com/track/14yL1XMDM7d7VTsIqB0TFf"
     },
     {
       "added_at": "2023-12-01 00:01:00",
@@ -355,18 +347,26 @@
     {
       "added_at": "2023-12-01 00:01:00",
       "album": {
-        "name": "Omo Baba",
-        "url": "https://open.spotify.com/album/4e41b60U5kriqKlvTLIfp4"
+        "name": "Daily",
+        "url": "https://open.spotify.com/album/49Iuy7dLYlumJaMt8X2Tbj"
       },
       "artists": [
         {
-          "name": "Spirit of Prophecy",
-          "url": "https://open.spotify.com/artist/47QqOqn5ySXFRyTezxJRBF"
+          "name": "Ryan Ofei",
+          "url": "https://open.spotify.com/artist/1pQ5oAMGcFhkkuLqGJQUCd"
+        },
+        {
+          "name": "Limoblaze",
+          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
+        },
+        {
+          "name": "Becca Folkes",
+          "url": "https://open.spotify.com/artist/6gNm3KPTOr2uiejwae6rHb"
         }
       ],
-      "duration_ms": 195446,
-      "name": "Omo Baba",
-      "url": "https://open.spotify.com/track/4dwPr4moTpcCb7hER3nBep"
+      "duration_ms": 176571,
+      "name": "Daily",
+      "url": "https://open.spotify.com/track/2VVpThlAv7UPHD63mIo3t9"
     },
     {
       "added_at": "2023-12-01 00:01:00",
@@ -483,22 +483,18 @@
     {
       "added_at": "2023-12-01 00:01:00",
       "album": {
-        "name": "Big God",
-        "url": "https://open.spotify.com/album/1jQxpQTljyULGzQIFzU2PP"
+        "name": "Blessed",
+        "url": "https://open.spotify.com/album/5wyDRKWKtPq3znLWVOtUIk"
       },
       "artists": [
         {
-          "name": "Marizu",
-          "url": "https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9"
-        },
-        {
-          "name": "Buchi",
-          "url": "https://open.spotify.com/artist/2acXp50dMwFs1JGzQUxyiS"
+          "name": "Victor Thompson",
+          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
         }
       ],
-      "duration_ms": 150000,
-      "name": "Big God",
-      "url": "https://open.spotify.com/track/5XrGp2rDnZyJ8WXU9WITJS"
+      "duration_ms": 192029,
+      "name": "Carry me like Baby",
+      "url": "https://open.spotify.com/track/2g5uy0nM9DW0JJJLefJFgJ"
     },
     {
       "added_at": "2023-12-01 00:01:00",
@@ -543,6 +539,26 @@
     {
       "added_at": "2023-12-01 00:01:00",
       "album": {
+        "name": "Big God",
+        "url": "https://open.spotify.com/album/1jQxpQTljyULGzQIFzU2PP"
+      },
+      "artists": [
+        {
+          "name": "Marizu",
+          "url": "https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9"
+        },
+        {
+          "name": "Buchi",
+          "url": "https://open.spotify.com/artist/2acXp50dMwFs1JGzQUxyiS"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "Big God",
+      "url": "https://open.spotify.com/track/5XrGp2rDnZyJ8WXU9WITJS"
+    },
+    {
+      "added_at": "2023-12-01 00:01:00",
+      "album": {
         "name": "Mo",
         "url": "https://open.spotify.com/album/5KFaENnGwan5wdkO4UB1mK"
       },
@@ -555,22 +571,6 @@
       "duration_ms": 212573,
       "name": "Mo",
       "url": "https://open.spotify.com/track/1qundmqhnpiVShjcvUIknJ"
-    },
-    {
-      "added_at": "2023-12-01 00:01:00",
-      "album": {
-        "name": "Igwe",
-        "url": "https://open.spotify.com/album/5UP6Qw8DpgmuQJsevFLwmG"
-      },
-      "artists": [
-        {
-          "name": "Midnight Crew",
-          "url": "https://open.spotify.com/artist/6fV5ZuXo1IZqGn9n1hexab"
-        }
-      ],
-      "duration_ms": 312556,
-      "name": "Igwe",
-      "url": "https://open.spotify.com/track/6Of9mBX5A3C0DqH7ysqqFb"
     },
     {
       "added_at": "2023-12-01 00:01:00",
@@ -615,6 +615,22 @@
     {
       "added_at": "2023-12-01 00:01:00",
       "album": {
+        "name": "Igwe",
+        "url": "https://open.spotify.com/album/5UP6Qw8DpgmuQJsevFLwmG"
+      },
+      "artists": [
+        {
+          "name": "Midnight Crew",
+          "url": "https://open.spotify.com/artist/6fV5ZuXo1IZqGn9n1hexab"
+        }
+      ],
+      "duration_ms": 312556,
+      "name": "Igwe",
+      "url": "https://open.spotify.com/track/6Of9mBX5A3C0DqH7ysqqFb"
+    },
+    {
+      "added_at": "2023-12-01 00:01:00",
+      "album": {
         "name": "Never Ending Love",
         "url": "https://open.spotify.com/album/6Pj4CUUtQXon0qZ7aFtQc1"
       },
@@ -639,6 +655,22 @@
     {
       "added_at": "2023-12-01 00:01:00",
       "album": {
+        "name": "Bianule",
+        "url": "https://open.spotify.com/album/6l7RCe4ohTuPzAdPBuvtdl"
+      },
+      "artists": [
+        {
+          "name": "Samsong",
+          "url": "https://open.spotify.com/artist/2vPVXxqaSgF7s5U5PrXNUS"
+        }
+      ],
+      "duration_ms": 284080,
+      "name": "Bianule",
+      "url": "https://open.spotify.com/track/1DMuaLKEiRKcGDiNhvIhOm"
+    },
+    {
+      "added_at": "2023-12-01 00:01:00",
+      "album": {
         "name": "Already Blessed",
         "url": "https://open.spotify.com/album/04o03UBHKABx1rfESaAvk5"
       },
@@ -655,38 +687,6 @@
       "duration_ms": 227962,
       "name": "Already Blessed",
       "url": "https://open.spotify.com/track/1wDF5YNMYcGPMPwdNHwGmU"
-    },
-    {
-      "added_at": "2023-12-01 00:01:00",
-      "album": {
-        "name": "Masterpiece",
-        "url": "https://open.spotify.com/album/5IMs5K3abzKDtYofk0jmoQ"
-      },
-      "artists": [
-        {
-          "name": "Marizu",
-          "url": "https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9"
-        }
-      ],
-      "duration_ms": 187428,
-      "name": "Masterpiece",
-      "url": "https://open.spotify.com/track/53g5J8D6m8UREgQg0pUXKv"
-    },
-    {
-      "added_at": "2023-12-01 00:01:00",
-      "album": {
-        "name": "Bianule",
-        "url": "https://open.spotify.com/album/6l7RCe4ohTuPzAdPBuvtdl"
-      },
-      "artists": [
-        {
-          "name": "Samsong",
-          "url": "https://open.spotify.com/artist/2vPVXxqaSgF7s5U5PrXNUS"
-        }
-      ],
-      "duration_ms": 284080,
-      "name": "Bianule",
-      "url": "https://open.spotify.com/track/1DMuaLKEiRKcGDiNhvIhOm"
     },
     {
       "added_at": "2023-12-01 00:01:00",
@@ -711,18 +711,18 @@
     {
       "added_at": "2023-12-01 00:01:00",
       "album": {
-        "name": "Blessed",
-        "url": "https://open.spotify.com/album/5wyDRKWKtPq3znLWVOtUIk"
+        "name": "Masterpiece",
+        "url": "https://open.spotify.com/album/5IMs5K3abzKDtYofk0jmoQ"
       },
       "artists": [
         {
-          "name": "Victor Thompson",
-          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
+          "name": "Marizu",
+          "url": "https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9"
         }
       ],
-      "duration_ms": 192029,
-      "name": "Carry me like Baby",
-      "url": "https://open.spotify.com/track/2g5uy0nM9DW0JJJLefJFgJ"
+      "duration_ms": 187428,
+      "name": "Masterpiece",
+      "url": "https://open.spotify.com/track/53g5J8D6m8UREgQg0pUXKv"
     },
     {
       "added_at": "2023-12-01 00:01:00",
@@ -783,6 +783,26 @@
     {
       "added_at": "2023-12-01 00:01:00",
       "album": {
+        "name": "S. W. A. G (Saved with Amazing Grace)",
+        "url": "https://open.spotify.com/album/4e7jM4Ly4okAfuzhYmqasg"
+      },
+      "artists": [
+        {
+          "name": "Sammie Okposo",
+          "url": "https://open.spotify.com/artist/4qygDDItX42LbfJLQUedIJ"
+        },
+        {
+          "name": "Kike Mudiaga",
+          "url": "https://open.spotify.com/artist/5Xg68cQyFO6Cui07HB4oKF"
+        }
+      ],
+      "duration_ms": 242704,
+      "name": "Oluwa E Tobi",
+      "url": "https://open.spotify.com/track/0oaKmxWcHhhs4G382nd2Dh"
+    },
+    {
+      "added_at": "2023-12-01 00:01:00",
+      "album": {
         "name": "Yeshua (Extended)",
         "url": "https://open.spotify.com/album/4FxYm4ZXW4qxhiDmADoU8H"
       },
@@ -807,38 +827,18 @@
     {
       "added_at": "2023-12-01 00:01:00",
       "album": {
-        "name": "Your Name Is Higher",
-        "url": "https://open.spotify.com/album/6uY6lnE7u3ZIcBlwVpbp3i"
+        "name": "Selense",
+        "url": "https://open.spotify.com/album/1VGhyaldHyoIHpVv95pzcO"
       },
       "artists": [
         {
-          "name": "Florocka",
-          "url": "https://open.spotify.com/artist/67UNdzU22i8wQPuOCMqOJY"
+          "name": "Frank Edwards",
+          "url": "https://open.spotify.com/artist/5gOBGZay8Nt5orlQI8UDDg"
         }
       ],
-      "duration_ms": 209539,
-      "name": "Your Name Is Higher",
-      "url": "https://open.spotify.com/track/72uQC5auMkudAOsB1Hhwqz"
-    },
-    {
-      "added_at": "2023-12-01 00:01:00",
-      "album": {
-        "name": "S. W. A. G (Saved with Amazing Grace)",
-        "url": "https://open.spotify.com/album/4e7jM4Ly4okAfuzhYmqasg"
-      },
-      "artists": [
-        {
-          "name": "Sammie Okposo",
-          "url": "https://open.spotify.com/artist/4qygDDItX42LbfJLQUedIJ"
-        },
-        {
-          "name": "Kike Mudiaga",
-          "url": "https://open.spotify.com/artist/5Xg68cQyFO6Cui07HB4oKF"
-        }
-      ],
-      "duration_ms": 242704,
-      "name": "Oluwa E Tobi",
-      "url": "https://open.spotify.com/track/0oaKmxWcHhhs4G382nd2Dh"
+      "duration_ms": 225153,
+      "name": "Selense",
+      "url": "https://open.spotify.com/track/2acuY3pMC7B8FAsqB499uh"
     },
     {
       "added_at": "2023-12-01 00:01:00",
@@ -859,6 +859,22 @@
     {
       "added_at": "2023-12-01 00:01:00",
       "album": {
+        "name": "Your Name Is Higher",
+        "url": "https://open.spotify.com/album/6uY6lnE7u3ZIcBlwVpbp3i"
+      },
+      "artists": [
+        {
+          "name": "Florocka",
+          "url": "https://open.spotify.com/artist/67UNdzU22i8wQPuOCMqOJY"
+        }
+      ],
+      "duration_ms": 209539,
+      "name": "Your Name Is Higher",
+      "url": "https://open.spotify.com/track/72uQC5auMkudAOsB1Hhwqz"
+    },
+    {
+      "added_at": "2023-12-01 00:01:00",
+      "album": {
         "name": "Joyous Celebration 13: Live At The Mosaeik Theatre JHB",
         "url": "https://open.spotify.com/album/5dfZbEUBENJSFgzb6krR1F"
       },
@@ -871,22 +887,6 @@
       "duration_ms": 281040,
       "name": "My God Is Good - Live",
       "url": "https://open.spotify.com/track/6cUiRdvcV8PxSRdkEIlKUS"
-    },
-    {
-      "added_at": "2023-12-01 00:01:00",
-      "album": {
-        "name": "Selense",
-        "url": "https://open.spotify.com/album/1VGhyaldHyoIHpVv95pzcO"
-      },
-      "artists": [
-        {
-          "name": "Frank Edwards",
-          "url": "https://open.spotify.com/artist/5gOBGZay8Nt5orlQI8UDDg"
-        }
-      ],
-      "duration_ms": 225153,
-      "name": "Selense",
-      "url": "https://open.spotify.com/track/2acuY3pMC7B8FAsqB499uh"
     },
     {
       "added_at": "2023-12-01 00:01:00",
@@ -955,30 +955,30 @@
     {
       "added_at": "2023-12-01 00:01:00",
       "album": {
-        "name": "Daily (Remix)",
-        "url": "https://open.spotify.com/album/5r78TqhG05fGrwHDpjeUkC"
+        "name": "Glorious",
+        "url": "https://open.spotify.com/album/4uoShwbFnmUlYGJpBp0nNe"
       },
       "artists": [
         {
-          "name": "Ryan Ofei",
-          "url": "https://open.spotify.com/artist/1pQ5oAMGcFhkkuLqGJQUCd"
+          "name": "Drakare",
+          "url": "https://open.spotify.com/artist/0BoOl61L5Z9Movl0eAI1Be"
         },
         {
-          "name": "Limoblaze",
-          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
+          "name": "Nolly",
+          "url": "https://open.spotify.com/artist/1qDxmgIV0aTR4QGRL4zXWM"
         },
         {
-          "name": "Nonso Amadi",
-          "url": "https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV"
+          "name": "Holy drill",
+          "url": "https://open.spotify.com/artist/3SN6XTw03dI5Cn49oeqz6j"
         },
         {
-          "name": "Becca Folkes",
-          "url": "https://open.spotify.com/artist/6gNm3KPTOr2uiejwae6rHb"
+          "name": "K3ndrick",
+          "url": "https://open.spotify.com/artist/0ULEmCfIKnFCdZfZsTmxG5"
         }
       ],
-      "duration_ms": 195428,
-      "name": "Daily - Remix",
-      "url": "https://open.spotify.com/track/3dtD6RxBNau20iIsowaKVu"
+      "duration_ms": 144000,
+      "name": "Glorious",
+      "url": "https://open.spotify.com/track/5CoFGig7qZFdTHikB8ZDWj"
     }
   ],
   "unique_name": "Higher",

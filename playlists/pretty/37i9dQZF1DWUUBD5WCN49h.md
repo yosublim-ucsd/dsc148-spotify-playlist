@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUUBD5WCN49h.md) - [plain]
 
 > New and emerging R&B, afropop and Alternative tracks\. Cover: <a href="https://open.spotify.com/artist/2JehOBriwVSalkeqL3noMM?si=YWI3GWJkSYy2VxygARVybQ"> Y'akoto </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,316 likes - 80 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,338 likes - 80 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUUBD5WCN49h.md) - [plain]
 | 79 | [Vanilla](https://open.spotify.com/track/5CFIAgBLBm53lMElR7oaVJ) | [Herman Suede](https://open.spotify.com/artist/795E5FXQUgbjuPBxk6igGm) | [A Wonderful Time](https://open.spotify.com/album/0qbHtNyI6S1uDvIi3alx6N) | 1:33 |
 | 80 | [Pieces \(with Tay Iwar\)](https://open.spotify.com/track/2StZJmVDSZEij15FbB3WTz) | [Nonso Amadi](https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV), [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo) | [When It Blooms](https://open.spotify.com/album/6yJ4EJm92OdmuMy8ijBZGq) | 3:24 |
 
-Snapshot ID: `MCwzMTIyNzMxZmI3ZTczZTU0MDRmOGI1MGZmMDVmMWEwYjZjNjljZjRi`
+Snapshot ID: `MCxkNGFmMzZjYjc3YTgxZmRhZDlhNGZjYjE3Yjg3YWE2ZTAwNjM3ZDUx`

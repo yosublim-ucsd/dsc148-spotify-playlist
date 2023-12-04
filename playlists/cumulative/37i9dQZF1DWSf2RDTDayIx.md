@@ -4,7 +4,7 @@
 
 > Feel\-good <a href="spotify:genre:edm\_dance">dance music</a>!
 
-383 songs - 20 hr 23 min
+384 songs - 20 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [42](https://open.spotify.com/track/7BPTtDK064b41v0LiopTnC) | [Cash Cash](https://open.spotify.com/artist/1LOB7jTeEV14pHai6EXSzF) | [Say It Like You Feel It](https://open.spotify.com/album/5nM1hSGJ8RcZxeWoDa1Uq1) | 2:48 | 2021-12-03 | 2022-07-29 |
 | [42 \(feat\. J.Lauryn\)](https://open.spotify.com/track/0jpY96JxnwUtXCTtvOWWZG) | [Cash Cash](https://open.spotify.com/artist/1LOB7jTeEV14pHai6EXSzF), [J.Lauryn](https://open.spotify.com/artist/6dZG8mYndxtpHBvaqdEeE2) | [Say It Like You Feel It](https://open.spotify.com/album/0H6bk8i41v1IKnuIPlPF6b) | 2:48 | 2022-07-22 | 2023-05-04 |
 | [A Second to Midnight](https://open.spotify.com/track/3YY9Yu1JsgVfF1lOXEenq9) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA), [Years & Years](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc) | [A Second to Midnight](https://open.spotify.com/album/6kp91tuVBPtw7HvwTJjDHr) | 3:27 | 2021-12-03 | 2023-11-18 |
+| [A Second to Midnight](https://open.spotify.com/track/3lWQgPeo8TrZZQT4qPScxg) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA), [Years & Years](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc) | [DISCO: Guest List Edition](https://open.spotify.com/album/6X1cZakiDOXDbDUWiTVmGh) | 3:27 | 2023-12-01 |  |
 | [About Damn Time \- Purple Disco Machine Remix](https://open.spotify.com/track/4WIaDYUIlXsHi4yMF596aI) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS), [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4) | [About Damn Time \(Purple Disco Machine Remix\)](https://open.spotify.com/album/5sJDNPqLeEUPnod5ovf5h6) | 3:38 | 2022-05-27 |  |
 | [adore u](https://open.spotify.com/track/3YgtkOxZsTuaZdL8McA1FQ) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [adore u](https://open.spotify.com/album/7K3BWpksmH4L7BoqUdhZrL) | 3:40 | 2023-08-11 |  |
 | [Afraid To Feel](https://open.spotify.com/track/40SBS57su9xLiE1WqkXOVr) | [LF SYSTEM](https://open.spotify.com/artist/0HxX6imltnNXJyQhu4nsiO) | [Afraid To Feel](https://open.spotify.com/album/528LrHfHcB7PMAvyp8Obhp) | 2:57 | 2022-10-28 |  |
@@ -94,7 +95,7 @@
 | [Doses & Mimosas \(Vintage Culture & Zerky Remix\) \- Radio Edit](https://open.spotify.com/track/3yZsBXwiQkqLjnWYip17Uu) | [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [Zerky](https://open.spotify.com/artist/3DAlQBPv5zWasPxV5Tr8ok), [Cherub](https://open.spotify.com/artist/00dwwnz3V4kRfu3UFYpJLz) | [Doses & Mimosas \(Vintage Culture & Zerky Remix\) \[Radio Edit\]](https://open.spotify.com/album/2VWOp5K8co8MfN2503dtvY) | 3:49 | 2022-01-07 |  |
 | [Dreaming \(feat\. SMBDY\)](https://open.spotify.com/track/60n8BhJ1FWhKbhYOF0LzQr) | [David Solomon](https://open.spotify.com/artist/3fzRb5i8Wn7ao2KPDxEiTR), [SMBDY](https://open.spotify.com/artist/3EVIvUOdQq6byU8fIljO2e) | [Dreaming \(feat\. SMBDY\)](https://open.spotify.com/album/5uURWNCgEuR1kob61OI0VJ) | 2:49 | 2021-12-03 | 2022-02-05 |
 | [Dreamteam](https://open.spotify.com/track/1UNYQXk8b0GPbupETN4IHL) | [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu), [Neon Trees](https://open.spotify.com/artist/0RpddSzUHfncUWNJXKOsjy) | [Dreamteam](https://open.spotify.com/album/15YushxelouREDwAN3cdV1) | 3:01 | 2023-10-27 |  |
-| [Easy](https://open.spotify.com/track/4VVzgTike7FW8OiUIDN7hk) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [NIIKO X SWAE](https://open.spotify.com/artist/7ui1kBUIbujvJnIXxDjoWz) | [Easy](https://open.spotify.com/album/3Jkk3mOfUiIcaJboZ77lkp) | 2:29 | 2022-07-01 |  |
+| [Easy](https://open.spotify.com/track/4VVzgTike7FW8OiUIDN7hk) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [NIIKO X SWAE](https://open.spotify.com/artist/7ui1kBUIbujvJnIXxDjoWz) | [Easy](https://open.spotify.com/album/3Jkk3mOfUiIcaJboZ77lkp) | 2:29 | 2022-07-01 | 2023-12-04 |
 | [Easy :\)](https://open.spotify.com/track/2jPgrYdSzHarxh2v6O6aUc) | [Loverground](https://open.spotify.com/artist/3SvoerawAn5RAZ2N9osc3z) | [Easy :\)](https://open.spotify.com/album/1ZyP1Zl2G7SLJDy2QHwt4h) | 3:22 | 2021-12-03 | 2022-01-08 |
 | [Endless Summer](https://open.spotify.com/track/2DVvsgWrZ4rUjupdRGYEXK) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Zak Abel](https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw) | [Endless Summer](https://open.spotify.com/album/6heWsbxEvCnXbHcw4xlKmE) | 3:07 | 2023-07-14 |  |
 | [Energy \- Mell Hall Remix](https://open.spotify.com/track/6NqiasBrPLutxWZaGKPEuf) | [Stace Cadet](https://open.spotify.com/artist/4C825UjHAWCMvdZwbtpwDT), [KLP](https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3), [Mell Hall](https://open.spotify.com/artist/1EzMBKiEO3rQbvnNxLK6HZ) | [Energy \(Mell Hall Remix\)](https://open.spotify.com/album/2qZtwgTQfNVixAMFI1xNDw) | 3:53 | 2021-12-03 | 2022-01-08 |

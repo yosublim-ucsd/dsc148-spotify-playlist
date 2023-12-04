@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05r4Oy3Ln97.md) - [plain]
 
 > Dip your feet in the pool and enjoy this perfect summer house mix ☀️
 
-[Spotify](https://open.spotify.com/user/spotify) - 552,271 likes - 60 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 552,267 likes - 60 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05r4Oy3Ln97.md) - [plain]
 | 36 | [King](https://open.spotify.com/track/7yH9SbrDQfNIh89ACCR7Ib) | [TWOPILOTS](https://open.spotify.com/artist/6tV2P2SciHytsSDufKr57B) | [King](https://open.spotify.com/album/1Iiu7xbEoH46CCvp5F9o7D) | 3:30 |
 | 37 | [Thunder](https://open.spotify.com/track/6Hht0SIzJwQYBkDD07Dnoj) | [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz), [Brendan Mills](https://open.spotify.com/artist/3TjFefusAoJFMiB3hrsRDE), [BELLA X](https://open.spotify.com/artist/4jjfOnLNOdOKlHScCytZzV), [LRMEO](https://open.spotify.com/artist/5gTqc3p5WdszJ2AtGElosu) | [Thunder](https://open.spotify.com/album/0lnPUG1O0J3zTNgLa6B5Nj) | 2:36 |
 | 38 | [Now or Never](https://open.spotify.com/track/6nNXTSvVO6ue9Ywshh4PZ4) | [Trinix](https://open.spotify.com/artist/3HqP3nd8WI0VfHRhApPlan), [Dominic Neill](https://open.spotify.com/artist/4PIv3Lyk3erxjcwBZFVNgi) | [Now or Never](https://open.spotify.com/album/0wXhfqZywLaSc3EHaA5kWt) | 3:02 |
-| 39 | [Live Without Love](https://open.spotify.com/track/4V1SO4C2wG9bTq6Cp7yYyA) | [Shouse](https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Live Without Love](https://open.spotify.com/album/2Win77LZ47jEOcVu6HcMhX) | 3:10 |
-| 40 | [Happy Music](https://open.spotify.com/track/0LbZxI8FZU1E48EqF9XgC0) | [Supershy](https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1) | [Happy Music](https://open.spotify.com/album/1MbCQbojPuCgMNyUEwjSJ0) | 3:52 |
+| 39 | [Happy Music](https://open.spotify.com/track/0LbZxI8FZU1E48EqF9XgC0) | [Supershy](https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1) | [Happy Music](https://open.spotify.com/album/1MbCQbojPuCgMNyUEwjSJ0) | 3:52 |
+| 40 | [Live Without Love](https://open.spotify.com/track/4V1SO4C2wG9bTq6Cp7yYyA) | [Shouse](https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Live Without Love](https://open.spotify.com/album/2Win77LZ47jEOcVu6HcMhX) | 3:10 |
 | 41 | [Take Me Back](https://open.spotify.com/track/2oGzHeApGhjANPNWYQNRQw) | [Lewis Thompson](https://open.spotify.com/artist/26OmQHradZrF0CS7DrgWDH), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Take Me Back](https://open.spotify.com/album/3KEQLt8OBP8Y3VbKKQoIiI) | 2:09 |
 | 42 | [Daydreamer](https://open.spotify.com/track/3660k2kZKOFOFS8Cv6DkJy) | [KC Lights](https://open.spotify.com/artist/0bUZrFj7rstq07E4iAJHgZ), [Leo Stannard](https://open.spotify.com/artist/37fzXndf2fxVrk7qarhyo0) | [Daydreamer](https://open.spotify.com/album/6B9sxNotNmncxGEPcFzjrF) | 2:40 |
 | 43 | [Don't Forget My Love](https://open.spotify.com/track/22pjmqZq2oTZtEThEt66Zn) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [Diplo](https://open.spotify.com/album/5pdR4YX2zWMXotdF034UYY) | 3:19 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05r4Oy3Ln97.md) - [plain]
 | 45 | [Everywhere](https://open.spotify.com/track/2hIlV0UAOhsbvRp9KV1pOG) | [Babsy.](https://open.spotify.com/artist/1BjdCHWqVEwBktJLHOUhmk) | [Everywhere](https://open.spotify.com/album/37og7S56FzrRuRI8Jvzxjq) | 2:46 |
 | 46 | [I Go Dancing \(feat\. Ella Henderson\)](https://open.spotify.com/track/2mPyJgKE7vSpUoFXJps8z3) | [Frank Walker](https://open.spotify.com/artist/6rcE30MaP92XafelMNZ2Sq), [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [I Go Dancing \(feat\. Ella Henderson\)](https://open.spotify.com/album/2TSrZnrtY7zFQ5HFcKnpG6) | 2:42 |
 | 47 | [Moonlight](https://open.spotify.com/track/3BXXFBcWJW3su1sodrywxL) | [Thunder](https://open.spotify.com/artist/0LnP8n2mREw2UvRL00TJqt) | [Moonlight](https://open.spotify.com/album/68u0ZhWzY2lw8Jj1rerGxY) | 2:07 |
-| 48 | [In Too Deep](https://open.spotify.com/track/5oxxcYAnxA79DHWNgmuHhU) | [WEEKLESS](https://open.spotify.com/artist/5dcTpvZKfsW5kr0UonRGTF), [WEDONT](https://open.spotify.com/artist/1R51BjTIFXli8N3teyDRMe), [ROBINS](https://open.spotify.com/artist/3jB0kLyOjPj9pZHMect1BM) | [In Too Deep](https://open.spotify.com/album/1Vn4wZXUWARO2ccRQCa37z) | 2:45 |
-| 49 | [Time After Time](https://open.spotify.com/track/3hEPKX4FgfYPhBjSw1Nejq) | [Paratone](https://open.spotify.com/artist/0ClVe54tk9xP1FBVdFWnWi) | [Time After Time](https://open.spotify.com/album/5UIrl1EOp7KzqxtfAiwxmZ) | 2:41 |
+| 48 | [Time After Time](https://open.spotify.com/track/3hEPKX4FgfYPhBjSw1Nejq) | [Paratone](https://open.spotify.com/artist/0ClVe54tk9xP1FBVdFWnWi) | [Time After Time](https://open.spotify.com/album/5UIrl1EOp7KzqxtfAiwxmZ) | 2:41 |
+| 49 | [In Too Deep](https://open.spotify.com/track/5oxxcYAnxA79DHWNgmuHhU) | [WEEKLESS](https://open.spotify.com/artist/5dcTpvZKfsW5kr0UonRGTF), [WEDONT](https://open.spotify.com/artist/1R51BjTIFXli8N3teyDRMe), [ROBINS](https://open.spotify.com/artist/3jB0kLyOjPj9pZHMect1BM) | [In Too Deep](https://open.spotify.com/album/1Vn4wZXUWARO2ccRQCa37z) | 2:45 |
 | 50 | [Never Really Loved Me \(with Dean Lewis\)](https://open.spotify.com/track/1O73ZKgl0THUImkHW6dfAL) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [Never Really Loved Me \(with Dean Lewis\)](https://open.spotify.com/album/1wbg9GPcUBlvM9uYjdqZ2D) | 3:22 |
 | 51 | [Cruel Summer \(Marcus Layton Edit\)](https://open.spotify.com/track/4yg4e6LkbEzc3sA0bE0GYg) | [LAUWE](https://open.spotify.com/artist/1pEZZUBRto2Tid1aaFOzQK), [Marcus Layton](https://open.spotify.com/artist/6JzWgxi0nFzcHq7cqpGbiz) | [Cruel Summer \(Marcus Layton Edit\)](https://open.spotify.com/album/7t4AA6GFMkLfrGlrzcyy4U) | 2:24 |
 | 52 | [Got Me Like](https://open.spotify.com/track/5Lm0xkrtZFYz1waA9gwqYP) | [Lavern](https://open.spotify.com/artist/03y4yOxhLk6MDJ1bV424uO) | [Got Me Like](https://open.spotify.com/album/1oTR7MwbdO5KgAyWxxUZQP) | 2:10 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05r4Oy3Ln97.md) - [plain]
 | 59 | [Feel Like Makin' Love \(feat\. Roberta Flack\)](https://open.spotify.com/track/5789JwERVglbf574Olz2Bi) | [Supershy](https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1), [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [Happy Music](https://open.spotify.com/album/1MbCQbojPuCgMNyUEwjSJ0) | 3:35 |
 | 60 | [Where I Find My Mind](https://open.spotify.com/track/1RuXenlriyybOv1ra0zeSQ) | [Eli & Fur](https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4) | [Where I Find My Mind](https://open.spotify.com/album/0sJ4br8FWqrOwoGcxTwJOM) | 3:32 |
 
-Snapshot ID: `MCxhZDYyZWUyNDAxNWUzN2ZiMTFhMDQ3OWFmZTg2MTVjMzY3NmRkNjg3`
+Snapshot ID: `MCxkMzk0Yzk5ZTU4ZTVlODBmYWIxZGE3NjkwZjIwM2NhY2RjY2VkNzA4`

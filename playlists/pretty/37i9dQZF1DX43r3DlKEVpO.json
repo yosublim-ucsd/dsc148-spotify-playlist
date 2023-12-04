@@ -1,12 +1,12 @@
 {
   "description": "Uma sele\u00e7\u00e3o para as m\u00e3es e os pais cantarem junto com os filhos e vice-versa.",
-  "num_followers": 64702,
+  "num_followers": 64700,
   "original_name": "Pais e Filhos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNzA1NGE0MGUxMWNjYmFkZjcyMGMwNDM2OTQ4MDQ3Nzg0YjkyODRh",
+  "snapshot_id": "MCwxNjc2YmE0ZjhmNGIzMmRmMWRkMWI1NzcxMTkwNDNkODhiZThlZDc4",
   "tracks": [
     {
       "added_at": "2021-08-18 22:14:03",
@@ -747,6 +747,22 @@
     {
       "added_at": "2021-08-18 22:14:03",
       "album": {
+        "name": "Tim Maia 1973",
+        "url": "https://open.spotify.com/album/6gK1Uf1uZolqGBibGaW5qK"
+      },
+      "artists": [
+        {
+          "name": "Tim Maia",
+          "url": "https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu"
+        }
+      ],
+      "duration_ms": 256362,
+      "name": "Gostava Tanto De Voc\u00ea",
+      "url": "https://open.spotify.com/track/6eDMElxeeKXs4DHTb0dGP0"
+    },
+    {
+      "added_at": "2021-08-18 22:14:03",
+      "album": {
         "name": "Pet Sounds (Original Mono & Stereo Mix)",
         "url": "https://open.spotify.com/album/6GphKx2QAPRoVGWE9D7ou8"
       },
@@ -763,18 +779,18 @@
     {
       "added_at": "2021-08-18 22:14:03",
       "album": {
-        "name": "Tim Maia 1973",
-        "url": "https://open.spotify.com/album/6gK1Uf1uZolqGBibGaW5qK"
+        "name": "The Boatman's Call (2011 - Remaster)",
+        "url": "https://open.spotify.com/album/0DpHNtdQBy3e2Iy6TKLWIv"
       },
       "artists": [
         {
-          "name": "Tim Maia",
-          "url": "https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu"
+          "name": "Nick Cave & The Bad Seeds",
+          "url": "https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q"
         }
       ],
-      "duration_ms": 256362,
-      "name": "Gostava Tanto De Voc\u00ea",
-      "url": "https://open.spotify.com/track/6eDMElxeeKXs4DHTb0dGP0"
+      "duration_ms": 256120,
+      "name": "Into My Arms",
+      "url": "https://open.spotify.com/track/39CFOvYse9fcMhIwyS73Fl"
     },
     {
       "added_at": "2021-08-18 22:14:03",
@@ -799,22 +815,6 @@
       "duration_ms": 235546,
       "name": "Apesar De Voc\u00ea",
       "url": "https://open.spotify.com/track/2GAFZG9Z7UGS1iMm4Idrnr"
-    },
-    {
-      "added_at": "2021-08-18 22:14:03",
-      "album": {
-        "name": "The Boatman's Call (2011 - Remaster)",
-        "url": "https://open.spotify.com/album/0DpHNtdQBy3e2Iy6TKLWIv"
-      },
-      "artists": [
-        {
-          "name": "Nick Cave & The Bad Seeds",
-          "url": "https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q"
-        }
-      ],
-      "duration_ms": 256120,
-      "name": "Into My Arms",
-      "url": "https://open.spotify.com/track/39CFOvYse9fcMhIwyS73Fl"
     },
     {
       "added_at": "2021-08-18 22:14:03",
@@ -1167,6 +1167,22 @@
     {
       "added_at": "2021-08-18 22:14:03",
       "album": {
+        "name": "No Pagode",
+        "url": "https://open.spotify.com/album/2uBX8Y56Tud8On8rnShgZV"
+      },
+      "artists": [
+        {
+          "name": "Beth Carvalho",
+          "url": "https://open.spotify.com/artist/56TkPi7rpmU8jTpkcK7FY3"
+        }
+      ],
+      "duration_ms": 174866,
+      "name": "Coisinha do Pai",
+      "url": "https://open.spotify.com/track/0QSFBx4LlChEpPlzPLChNJ"
+    },
+    {
+      "added_at": "2021-08-18 22:14:03",
+      "album": {
         "name": "Rio Revisited",
         "url": "https://open.spotify.com/album/1pvPrGENPU0yj9ocp0Zvpd"
       },
@@ -1183,22 +1199,6 @@
       "duration_ms": 203226,
       "name": "Samba Do Aviao - Live",
       "url": "https://open.spotify.com/track/3qhAqp4xBxqg8zEAFmcXmF"
-    },
-    {
-      "added_at": "2021-08-18 22:14:03",
-      "album": {
-        "name": "Nada Ser\u00e1 Como Antes (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/2qaxc8FAGYDRW5toXaPuVc"
-      },
-      "artists": [
-        {
-          "name": "Milton Nascimento",
-          "url": "https://open.spotify.com/artist/3Bnq7jiU506HcPjRgQ43TM"
-        }
-      ],
-      "duration_ms": 270690,
-      "name": "Clube Da Esquina N\u00ba2 - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/4ACqPYXQse8c8dllQmOmBp"
     },
     {
       "added_at": "2021-08-18 22:14:03",
@@ -1223,18 +1223,18 @@
     {
       "added_at": "2021-08-18 22:14:03",
       "album": {
-        "name": "No Pagode",
-        "url": "https://open.spotify.com/album/2uBX8Y56Tud8On8rnShgZV"
+        "name": "Nada Ser\u00e1 Como Antes (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/2qaxc8FAGYDRW5toXaPuVc"
       },
       "artists": [
         {
-          "name": "Beth Carvalho",
-          "url": "https://open.spotify.com/artist/56TkPi7rpmU8jTpkcK7FY3"
+          "name": "Milton Nascimento",
+          "url": "https://open.spotify.com/artist/3Bnq7jiU506HcPjRgQ43TM"
         }
       ],
-      "duration_ms": 174866,
-      "name": "Coisinha do Pai",
-      "url": "https://open.spotify.com/track/0QSFBx4LlChEpPlzPLChNJ"
+      "duration_ms": 270690,
+      "name": "Clube Da Esquina N\u00ba2 - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/4ACqPYXQse8c8dllQmOmBp"
     },
     {
       "added_at": "2021-08-18 22:14:03",
@@ -1267,22 +1267,6 @@
       "duration_ms": 275906,
       "name": "Olhos Nos Olhos",
       "url": "https://open.spotify.com/track/1UBJvypv5W1GNoplpc2EYl"
-    },
-    {
-      "added_at": "2021-08-18 22:14:03",
-      "album": {
-        "name": "Gal Costa",
-        "url": "https://open.spotify.com/album/5ZVLLME05cmciSZz4IGcZu"
-      },
-      "artists": [
-        {
-          "name": "Gal Costa",
-          "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD"
-        }
-      ],
-      "duration_ms": 260133,
-      "name": "Divino Maravilhoso",
-      "url": "https://open.spotify.com/track/7J42bT9SnqnVJH4e4CMA8u"
     },
     {
       "added_at": "2021-08-18 22:14:03",
@@ -1335,6 +1319,22 @@
     {
       "added_at": "2021-08-18 22:14:03",
       "album": {
+        "name": "Gal Costa",
+        "url": "https://open.spotify.com/album/5ZVLLME05cmciSZz4IGcZu"
+      },
+      "artists": [
+        {
+          "name": "Gal Costa",
+          "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD"
+        }
+      ],
+      "duration_ms": 260133,
+      "name": "Divino Maravilhoso",
+      "url": "https://open.spotify.com/track/7J42bT9SnqnVJH4e4CMA8u"
+    },
+    {
+      "added_at": "2021-08-18 22:14:03",
+      "album": {
         "name": "Lulu Ac\u00fastico",
         "url": "https://open.spotify.com/album/14xCfgcBE9uCrwwR36NoVB"
       },
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2021-08-18 22:14:03",
       "album": {
-        "name": "Number Ones",
-        "url": "https://open.spotify.com/album/4jATpIchd56XOWEHVsd8ky"
-      },
-      "artists": [
-        {
-          "name": "Barry White",
-          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
-        }
-      ],
-      "duration_ms": 212866,
-      "name": "You're The First, The Last, My Everything",
-      "url": "https://open.spotify.com/track/6kOjNVGh1Gapc7224d20Ym"
-    },
-    {
-      "added_at": "2021-08-18 22:14:03",
-      "album": {
         "name": "Lola Versus Powerman and the Moneygoround, Pt. 1",
         "url": "https://open.spotify.com/album/6cv47fKkAyi9Lm5wwud4It"
       },
@@ -1395,6 +1379,22 @@
       "duration_ms": 203973,
       "name": "This Time Tomorrow (2020 Stereo Remaster)",
       "url": "https://open.spotify.com/track/1gnP3cx9uzFAVll8OfBcqz"
+    },
+    {
+      "added_at": "2021-08-18 22:14:03",
+      "album": {
+        "name": "Number Ones",
+        "url": "https://open.spotify.com/album/4jATpIchd56XOWEHVsd8ky"
+      },
+      "artists": [
+        {
+          "name": "Barry White",
+          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
+        }
+      ],
+      "duration_ms": 212866,
+      "name": "You're The First, The Last, My Everything",
+      "url": "https://open.spotify.com/track/6kOjNVGh1Gapc7224d20Ym"
     },
     {
       "added_at": "2022-06-07 14:45:28",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2021-08-18 22:14:03",
       "album": {
-        "name": "O \u00daltimo Rom\u00e2ntico 2",
-        "url": "https://open.spotify.com/album/0oCdYFyqznjyMorvtESrNV"
-      },
-      "artists": [
-        {
-          "name": "Lulu Santos",
-          "url": "https://open.spotify.com/artist/0A1oy7PC7fdzURgaLaWkL1"
-        }
-      ],
-      "duration_ms": 178066,
-      "name": "L\u00e1 vem o sol",
-      "url": "https://open.spotify.com/track/74o1pFywinH2eEPxbbaLqc"
-    },
-    {
-      "added_at": "2021-08-18 22:14:03",
-      "album": {
         "name": "Brazil Classics 4: The Best of Tom Z\u00e9",
         "url": "https://open.spotify.com/album/5EatIo50si8CoN3ARke59W"
       },
@@ -1459,6 +1443,22 @@
       "duration_ms": 142640,
       "name": "Vai (Menina Amanh\u00e3 de Manh\u00e3)",
       "url": "https://open.spotify.com/track/5tt394udRU89Pn2s3qPGaQ"
+    },
+    {
+      "added_at": "2021-08-18 22:14:03",
+      "album": {
+        "name": "O \u00daltimo Rom\u00e2ntico 2",
+        "url": "https://open.spotify.com/album/0oCdYFyqznjyMorvtESrNV"
+      },
+      "artists": [
+        {
+          "name": "Lulu Santos",
+          "url": "https://open.spotify.com/artist/0A1oy7PC7fdzURgaLaWkL1"
+        }
+      ],
+      "duration_ms": 178066,
+      "name": "L\u00e1 vem o sol",
+      "url": "https://open.spotify.com/track/74o1pFywinH2eEPxbbaLqc"
     },
     {
       "added_at": "2022-06-07 14:45:28",
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2021-08-18 22:14:03",
       "album": {
-        "name": "Gal Costa",
-        "url": "https://open.spotify.com/album/5ZVLLME05cmciSZz4IGcZu"
-      },
-      "artists": [
-        {
-          "name": "Gal Costa",
-          "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD"
-        }
-      ],
-      "duration_ms": 198173,
-      "name": "Nao Identificado",
-      "url": "https://open.spotify.com/track/1eqUenDSQsy87cpoogbKvi"
-    },
-    {
-      "added_at": "2021-08-18 22:14:03",
-      "album": {
         "name": "Bicho",
         "url": "https://open.spotify.com/album/2rXCY07TM8KFD4af2u6eaV"
       },
@@ -1507,6 +1491,22 @@
       "duration_ms": 184906,
       "name": "O Le\u00e3ozinho - Remixed Original Album",
       "url": "https://open.spotify.com/track/0by19mYM0du6rkzugAogN9"
+    },
+    {
+      "added_at": "2021-08-18 22:14:03",
+      "album": {
+        "name": "Gal Costa",
+        "url": "https://open.spotify.com/album/5ZVLLME05cmciSZz4IGcZu"
+      },
+      "artists": [
+        {
+          "name": "Gal Costa",
+          "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD"
+        }
+      ],
+      "duration_ms": 198173,
+      "name": "Nao Identificado",
+      "url": "https://open.spotify.com/track/1eqUenDSQsy87cpoogbKvi"
     },
     {
       "added_at": "2021-08-18 22:14:03",
@@ -1575,6 +1575,22 @@
     {
       "added_at": "2021-08-18 22:14:03",
       "album": {
+        "name": "Bicho",
+        "url": "https://open.spotify.com/album/2rXCY07TM8KFD4af2u6eaV"
+      },
+      "artists": [
+        {
+          "name": "Caetano Veloso",
+          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
+        }
+      ],
+      "duration_ms": 436720,
+      "name": "Odara - Remix",
+      "url": "https://open.spotify.com/track/7A8i85wc0cQzbDTHLlkh2O"
+    },
+    {
+      "added_at": "2021-08-18 22:14:03",
+      "album": {
         "name": "Elis Regina",
         "url": "https://open.spotify.com/album/4huMvebKxtKXAm51LCfOoC"
       },
@@ -1625,36 +1641,20 @@
       "url": "https://open.spotify.com/track/5iPTYBZyOEleyWkE7NTYCc"
     },
     {
-      "added_at": "2021-08-18 22:14:03",
+      "added_at": "2022-06-07 14:45:28",
       "album": {
-        "name": "'G\u00eet\u00e2'",
-        "url": "https://open.spotify.com/album/5oOsBQphe8sbvZULbepg7U"
+        "name": "Nossa Hist\u00f3ria (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4qEeyIC0z30gL0se5SxBYx"
       },
       "artists": [
         {
-          "name": "Raul Seixas",
-          "url": "https://open.spotify.com/artist/7jrRQZg4FZq6dwpi3baKcu"
+          "name": "Sandy e Junior",
+          "url": "https://open.spotify.com/artist/05mFGgWzooDQMWGNcNsM05"
         }
       ],
-      "duration_ms": 287840,
-      "name": "Gita",
-      "url": "https://open.spotify.com/track/4mdIZdlpZ8ilKNPDoWEpSK"
-    },
-    {
-      "added_at": "2021-08-18 22:14:03",
-      "album": {
-        "name": "Bicho",
-        "url": "https://open.spotify.com/album/2rXCY07TM8KFD4af2u6eaV"
-      },
-      "artists": [
-        {
-          "name": "Caetano Veloso",
-          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
-        }
-      ],
-      "duration_ms": 436720,
-      "name": "Odara - Remix",
-      "url": "https://open.spotify.com/track/7A8i85wc0cQzbDTHLlkh2O"
+      "duration_ms": 88954,
+      "name": "Era Uma Vez - Ao Vivo",
+      "url": "https://open.spotify.com/track/67v2dYsKI0g4qOPfS23ePG"
     }
   ],
   "unique_name": "Pais e Filhos",

@@ -4,7 +4,7 @@
 
 > Good vibes only! Aquí solo hay buena vibra.
 
-290 songs - 15 hr 35 min
+291 songs - 15 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,7 +73,7 @@
 | [Cumbia Del Corazón](https://open.spotify.com/track/4dURe03os9BAxIO0RThU28) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr) | [Cumbia Del Corazón](https://open.spotify.com/album/3mfwypID037UHlutwTYINo) | 3:17 | 2022-10-07 | 2022-12-20 |
 | [Cúrame](https://open.spotify.com/track/3PwRuzdphgedcWVUOVYJ7I) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [VICE VERSA](https://open.spotify.com/album/5hKAQ3WuOJtaOW2a8hpIXY) | 2:44 | 2021-12-16 | 2022-05-28 |
 | [Dale Pa' Ya \(feat\. Gente de Zona\)](https://open.spotify.com/track/591rTyO18GKHVUbb6M0WIX) | [Big Time Rush](https://open.spotify.com/artist/0GWCNkPi54upO9WLlwjAHd), [Maffio](https://open.spotify.com/artist/5RzT7CM6Ot0sh0EHefMicV), [Gente De Zona](https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL) | [Dale Pa' Ya \(feat\. Gente De Zona\)](https://open.spotify.com/album/14JiS3KmsTYfDD1gPMXkUA) | 3:36 | 2022-10-07 | 2022-12-03 |
-| [Dame Un Break](https://open.spotify.com/track/0GcoJFAS8gvhdMZ7OkSwYH) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2) | [Dame Un Break](https://open.spotify.com/album/1FOZrLg79d0DCro3tsnRJq) | 3:20 | 2023-05-26 |  |
+| [Dame Un Break](https://open.spotify.com/track/0GcoJFAS8gvhdMZ7OkSwYH) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2) | [Dame Un Break](https://open.spotify.com/album/1FOZrLg79d0DCro3tsnRJq) | 3:20 | 2023-05-26 | 2023-12-04 |
 | [De Qué Manera](https://open.spotify.com/track/3HMlb6Dh9OGr3CjV6IwjEP) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [De Qué Manera](https://open.spotify.com/album/6XBq5DhffYApT0TGZAQ9cH) | 3:13 | 2022-12-28 |  |
 | [De Vuelta Pa' La Vuelta](https://open.spotify.com/track/7AUhck1sPy11OExQmDDx4P) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [De Vuelta Pa' La Vuelta](https://open.spotify.com/album/1mFvOlraT4JKt4D7aGb9tc) | 3:51 | 2021-12-16 |  |
 | [Dejanos Pasar](https://open.spotify.com/track/0hDILCoN7SBSMHc5qwZ73E) | [Pj Sin Suela](https://open.spotify.com/artist/0AdjzZxHJ4MfbImx2rD0Df), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [Dejanos Pasar](https://open.spotify.com/album/0sROwf7qAxdlMEGGQu85xN) | 2:55 | 2023-01-25 | 2023-01-28 |
@@ -114,6 +114,7 @@
 | [FULANITO](https://open.spotify.com/track/59L8x0xy8njj75vzVCPMqg) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm) | [FULANITO](https://open.spotify.com/album/5AVKorAwqFCfUiPkNwv89o) | 2:38 | 2021-12-16 | 2022-05-28 |
 | [Garabatos \(with Jay Wheeler\)](https://open.spotify.com/track/7IiFfzVEtu05WUEhR8i8ye) | [ROBI](https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [Garabatos \(with Jay Wheeler\)](https://open.spotify.com/album/5dZs5nHvzlqJyqKQ6NK5oD) | 3:22 | 2022-08-11 | 2022-12-29 |
 | [GIRL LIKE ME](https://open.spotify.com/track/1zLBsSVxETQOfINOLYvT5m) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [TRANSLATION](https://open.spotify.com/album/0uxvuY8Ek2ojzHrWTg2PDc) | 3:42 | 2021-12-16 | 2022-04-16 |
+| [Good Energy \- Remix](https://open.spotify.com/track/37sgLcobfnLtle8H17N0H1) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Yung Wylin'](https://open.spotify.com/artist/0m4kaX5bs4Jp3rCsRuLjA9), [Maffio](https://open.spotify.com/artist/5RzT7CM6Ot0sh0EHefMicV) | [Good Energy \(Remix\)](https://open.spotify.com/album/1PihY5yy5PX8kW2jGonJW1) | 3:34 | 2023-12-01 |  |
 | [Gracias x Nada](https://open.spotify.com/track/1MzHoEWtfuLGAtoxVk5fTZ) | [Nanizzie](https://open.spotify.com/artist/0sw69zXt3PgxRXvo1Czg3j) | [Gracias x Nada](https://open.spotify.com/album/2SRL17miIXiQ1aAonnxXU0) | 2:52 | 2022-07-08 | 2022-09-24 |
 | [Hate Being In Love](https://open.spotify.com/track/1lCOpGK9fuqFb7Obfxk6jn) | [jame minogue](https://open.spotify.com/artist/0zzKHfNZYWeOjJpHdhT1Ck) | [Principe Azul](https://open.spotify.com/album/5OZV8awIYVFNjbxq0ucMIJ) | 3:00 | 2022-06-21 | 2022-08-12 |
 | [Hilo Rojo](https://open.spotify.com/track/0gUCM1XEIqSwT2WsdVHwes) | [Brenda Aliendro](https://open.spotify.com/artist/0NzXqknNJFxhOcLcOix7NT) | [Hilo Rojo](https://open.spotify.com/album/6MLxuU3nwA6DMZpT5CJklS) | 2:45 | 2023-02-25 | 2023-03-02 |

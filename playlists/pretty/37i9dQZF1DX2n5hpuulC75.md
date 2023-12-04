@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2n5hpuulC75.md) - [plain]
 
 > Chill tunes for mellow moods.
 
-[Spotify](https://open.spotify.com/user/spotify) - 259,782 likes - 60 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 259,817 likes - 60 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2n5hpuulC75.md) - [plain]
 | 59 | [Echo Park](https://open.spotify.com/track/79nZqX37kRq35LKbiJxUW0) | [Reptaliens](https://open.spotify.com/artist/0CbJ7vhSBVagdeLhNcf9v1) | [VALIS](https://open.spotify.com/album/5JhPxcOnJBO2tnypyuellA) | 3:18 |
 | 60 | [Words I Don't Remember](https://open.spotify.com/track/69tms8bn7pYZck6hJw6X1e) | [How To Dress Well](https://open.spotify.com/artist/4jLcgJjDGmW0HmvbSf6lEI) | ["What Is This Heart?" \(Deluxe Edition\)](https://open.spotify.com/album/54E5JvQWalx8xQ7TAeBGvf) | 6:18 |
 
-Snapshot ID: `MCwwNzEzNzI5YzljMmFlMWM2Y2U3MzI4ZGJlY2UxMjFkMTgyNWMyNTQ0`
+Snapshot ID: `MCxjYWQxNzA3MmUyODMyNWJkZWE3ZDA1MzU2ZWYzMDk2NWQ1ZjU5MTUz`

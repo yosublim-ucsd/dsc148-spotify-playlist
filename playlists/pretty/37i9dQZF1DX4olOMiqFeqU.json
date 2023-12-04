@@ -1,12 +1,12 @@
 {
   "description": "100% Pinoy hits from your favorite artists! Cover: Sarah Geronimo",
-  "num_followers": 2441792,
+  "num_followers": 2442239,
   "original_name": "OPM Favorites",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NDdiMTBmNDVlODE0ODk4NzdkYmViNTNkMjI4MTdmM2FkYzQ1N2Nk",
+  "snapshot_id": "MCw5ZDI2YWQ5MTE5MTJkMzY2MDg2Nzg5NGUxOTgwZTYwN2Q2NmY1NWE2",
   "tracks": [
     {
       "added_at": "2023-09-13 05:36:31",
@@ -519,22 +519,6 @@
     {
       "added_at": "2023-09-13 05:36:31",
       "album": {
-        "name": "Sinta",
-        "url": "https://open.spotify.com/album/0LAPQm2tSDLFDDpCfpw5DO"
-      },
-      "artists": [
-        {
-          "name": "Rob Deniel",
-          "url": "https://open.spotify.com/artist/7dFzqx2qyelGPiBKmdSEOT"
-        }
-      ],
-      "duration_ms": 316683,
-      "name": "Sinta",
-      "url": "https://open.spotify.com/track/0aCmjkogiWIRu7205eZK6I"
-    },
-    {
-      "added_at": "2023-09-13 05:36:31",
-      "album": {
         "name": "Hale",
         "url": "https://open.spotify.com/album/3rYydzqOp83YUYh4EXjrbk"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 242813,
       "name": "Kung Wala Ka",
       "url": "https://open.spotify.com/track/4he4CYDhvSPTxQc0e0Le1L"
+    },
+    {
+      "added_at": "2023-09-13 05:36:31",
+      "album": {
+        "name": "Sinta",
+        "url": "https://open.spotify.com/album/0LAPQm2tSDLFDDpCfpw5DO"
+      },
+      "artists": [
+        {
+          "name": "Rob Deniel",
+          "url": "https://open.spotify.com/artist/7dFzqx2qyelGPiBKmdSEOT"
+        }
+      ],
+      "duration_ms": 316683,
+      "name": "Sinta",
+      "url": "https://open.spotify.com/track/0aCmjkogiWIRu7205eZK6I"
     },
     {
       "added_at": "2023-09-13 05:36:31",

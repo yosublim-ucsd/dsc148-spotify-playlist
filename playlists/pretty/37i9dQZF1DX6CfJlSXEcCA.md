@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6CfJlSXEcCA.md) - [plain]
 
 > Enjoy game soundtracks from Capcom! 最新作から過去まで、多数の人気作品を生み出したカプコンのゲームサントラをお届け！©CAPCOM CO., LTD\. ALL RIGHTS RESERVED.
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,116 likes - 50 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,154 likes - 50 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,9 +24,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6CfJlSXEcCA.md) - [plain]
 | 14 | [Yearning for Dark Shadows](https://open.spotify.com/track/0ksImScAVXWxao9LK7mMGq) | [Brian D'Oliveira](https://open.spotify.com/artist/6Ma7ZBVsdilEALEnNl5Tgz) | [RESIDENT EVIL VILLAGE ORIGINAL SOUNDTRACK](https://open.spotify.com/album/0OmHth9izCltpC5ggqkLkA) | 6:02 |
 | 15 | [X vs ZERO](https://open.spotify.com/track/5DmiafSW6i4jp0sJ9z95qW) | [Naoto Tanaka](https://open.spotify.com/artist/2Ic1wo0pEnrHBTDxkHHiXN) | [MEGA MAN X5 SOUND COLLECTION](https://open.spotify.com/album/1ICLroyqx3t6PnTKlW1ejh) | 2:43 |
 | 16 | [Save Theme](https://open.spotify.com/track/77VG3p0Ua6MrnqeUE85ENb) | [Capcom Sound Team](https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL) | [biohazard SOUND CHRONICLE BEST TRACK BOX](https://open.spotify.com/album/1MGsZkc3qudBr8rjhWu8k0) | 1:19 |
-| 17 | [大追求 〜成歩堂龍ノ介の覺悟](https://open.spotify.com/track/7a0PMLaZMhu18Hl88STQBk) | [Yasumasa Kitagawa](https://open.spotify.com/artist/02rAgib3SCbMTFZuHSii3d) | [大逆転裁判2 \-成歩堂龍ノ介の覺悟\- 劇伴音樂大全集](https://open.spotify.com/album/6eOTzkW3xOLBwG8zRfA2V4) | 2:09 |
+| 17 | [Theme of Guile](https://open.spotify.com/track/3dR4J0QqEyUSJCLx7xt3tO) | [Masahiro Aoki](https://open.spotify.com/artist/7jFdaWMEhqH0728GasEiki) | [STREET FIGHTER V ARCADE EDITION ORIGINAL SOUNDTRACK](https://open.spotify.com/album/4wx1coZnnXhhoCGBicDWFa) | 4:12 |
 | 18 | [綾里真宵 〜逆転姉妹のテーマ 2001](https://open.spotify.com/track/1L84WnMrvTg84ilWBnSv4e) | [Masakazu Sugimori](https://open.spotify.com/artist/6bE2VRSPWx2v3l25ZNSmLq) | [逆転裁判 蘇る逆転 オリジナル・サウンドトラック](https://open.spotify.com/album/3iLHMc4qYd3b9k7JbtxxBq) | 2:41 |
-| 19 | [Theme of Guile](https://open.spotify.com/track/3dR4J0QqEyUSJCLx7xt3tO) | [Masahiro Aoki](https://open.spotify.com/artist/7jFdaWMEhqH0728GasEiki) | [STREET FIGHTER V ARCADE EDITION ORIGINAL SOUNDTRACK](https://open.spotify.com/album/4wx1coZnnXhhoCGBicDWFa) | 4:12 |
+| 19 | [大追求 〜成歩堂龍ノ介の覺悟](https://open.spotify.com/track/7a0PMLaZMhu18Hl88STQBk) | [Yasumasa Kitagawa](https://open.spotify.com/artist/02rAgib3SCbMTFZuHSii3d) | [大逆転裁判2 \-成歩堂龍ノ介の覺悟\- 劇伴音樂大全集](https://open.spotify.com/album/6eOTzkW3xOLBwG8zRfA2V4) | 2:09 |
 | 20 | [Silver\-winged Star \- Valstrax](https://open.spotify.com/track/3lvbr6VJPV8kfrIcyfsdqa) | [裏谷玲央](https://open.spotify.com/artist/50lUudPsXCGEe4dn6aKTdb) | [MONSTER HUNTER RISE Extra Tracks](https://open.spotify.com/album/02v01ZbI91kG3WAQMqCOlf) | 4:03 |
 | 21 | [The Time Has Come \(Nero's Combat\)](https://open.spotify.com/track/1Dj5GDB9BIF5eSujItZhs3) | [Capcom Sound Team](https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL) | [Devil May Cry 4 Original Soundtrack](https://open.spotify.com/album/1tNWUMsxLIT92wZcrYWkyT) | 3:51 |
 | 22 | [Theme of Ryu \-SFIV Arrange\-](https://open.spotify.com/track/4uOVEIuJohifTMgFicMUPq) | [Hideyuki Fukasawa](https://open.spotify.com/artist/3cDGDsZOLwD5aBLoX0GICu) | [ストリートファイターIVシリーズ サウンドBOX](https://open.spotify.com/album/1DRWIHpmCo3H13NddOTAZu) | 3:19 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6CfJlSXEcCA.md) - [plain]
 | 49 | [Shall Never Surrender \(End Credits\)](https://open.spotify.com/track/11s4cDWdCABvn9Xkg4eHl2) | [Capcom Sound Team](https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL) | [Devil May Cry 4 Original Soundtrack](https://open.spotify.com/album/1tNWUMsxLIT92wZcrYWkyT) | 4:58 |
 | 50 | [Guile's Theme](https://open.spotify.com/track/29drzlJamuYPBRh1LPpXM4) | [Capcom Sound Team](https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL) | [Super Street Fighter II Turbo Original Soundtrack](https://open.spotify.com/album/3sinqjuzlAI7QWTyJxNut6) | 3:43 |
 
-Snapshot ID: `MCxlM2Q1MWViODk5Mjc4ZGE5M2RjYTMwNDEzODA3ODliYTAzYWJiNzhk`
+Snapshot ID: `MCxhODU3NmMwNjNkMzEyM2M5MzliZjM1ODNiMjI4NDhlM2NiYjE1M2E5`

@@ -1,12 +1,12 @@
 {
   "description": "For the Hard Rock and full-volume lovers, new and recent favorites. Cover: Corey Taylor",
-  "num_followers": 342025,
+  "num_followers": 342159,
   "original_name": "Hard Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMWI5Y2MyMGY5NWU4ZjAxYzEwNmIyMGY4NzJiMTlhYTQyMjliMzdk",
+  "snapshot_id": "MCwzZDJhZDcxOTM3ZjAxMWM4MmJlMGRlYjc1OWUzYWIxYjJkYjQwYzNj",
   "tracks": [
     {
       "added_at": "2023-11-10 05:06:42",
@@ -107,18 +107,18 @@
     {
       "added_at": "2023-11-10 05:06:42",
       "album": {
-        "name": "LosT",
-        "url": "https://open.spotify.com/album/3zZBB971MYFVBYlzNrYpoA"
+        "name": "Whitsitt Chapel",
+        "url": "https://open.spotify.com/album/2v1Lb9hidHkvvlIXYzSmeZ"
       },
       "artists": [
         {
-          "name": "Bring Me The Horizon",
-          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
         }
       ],
-      "duration_ms": 205368,
-      "name": "LosT",
-      "url": "https://open.spotify.com/track/5BgnL6gHauuvxe4Ok6W1aC"
+      "duration_ms": 197400,
+      "name": "Need A Favor",
+      "url": "https://open.spotify.com/track/07on0OB2cdPt79IFsgdRUy"
     },
     {
       "added_at": "2023-11-10 05:06:42",
@@ -139,18 +139,18 @@
     {
       "added_at": "2023-11-10 05:06:42",
       "album": {
-        "name": "Whitsitt Chapel",
-        "url": "https://open.spotify.com/album/2v1Lb9hidHkvvlIXYzSmeZ"
+        "name": "LosT",
+        "url": "https://open.spotify.com/album/3zZBB971MYFVBYlzNrYpoA"
       },
       "artists": [
         {
-          "name": "Jelly Roll",
-          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
         }
       ],
-      "duration_ms": 197400,
-      "name": "Need A Favor",
-      "url": "https://open.spotify.com/track/07on0OB2cdPt79IFsgdRUy"
+      "duration_ms": 205368,
+      "name": "LosT",
+      "url": "https://open.spotify.com/track/5BgnL6gHauuvxe4Ok6W1aC"
     },
     {
       "added_at": "2023-11-10 05:06:42",
@@ -511,6 +511,22 @@
     {
       "added_at": "2023-11-10 05:06:42",
       "album": {
+        "name": "Jaded",
+        "url": "https://open.spotify.com/album/28sBiYcFfkpAldZodapMyU"
+      },
+      "artists": [
+        {
+          "name": "Spiritbox",
+          "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
+        }
+      ],
+      "duration_ms": 262631,
+      "name": "Jaded",
+      "url": "https://open.spotify.com/track/6IdyYbGg1jxiWhfwm2Ykjn"
+    },
+    {
+      "added_at": "2023-11-10 05:06:42",
+      "album": {
         "name": "Meat & Greet",
         "url": "https://open.spotify.com/album/0EDJSn1GinJHCk2jE8DiMp"
       },
@@ -527,18 +543,18 @@
     {
       "added_at": "2023-11-10 05:06:42",
       "album": {
-        "name": "Jaded",
-        "url": "https://open.spotify.com/album/28sBiYcFfkpAldZodapMyU"
+        "name": "Get Rollin'",
+        "url": "https://open.spotify.com/album/5uLm9XqpibzmIaFUz80jLb"
       },
       "artists": [
         {
-          "name": "Spiritbox",
-          "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
+          "name": "Nickelback",
+          "url": "https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF"
         }
       ],
-      "duration_ms": 262631,
-      "name": "Jaded",
-      "url": "https://open.spotify.com/track/6IdyYbGg1jxiWhfwm2Ykjn"
+      "duration_ms": 211457,
+      "name": "San Quentin",
+      "url": "https://open.spotify.com/track/2fDy68BuFDTa7UGVicym4Z"
     },
     {
       "added_at": "2023-11-10 05:06:42",
@@ -563,22 +579,6 @@
       "duration_ms": 244135,
       "name": "Waiting On The Sky To Change",
       "url": "https://open.spotify.com/track/5qMSuD0mfQVQSA0CjifBi0"
-    },
-    {
-      "added_at": "2023-11-10 05:06:42",
-      "album": {
-        "name": "Get Rollin'",
-        "url": "https://open.spotify.com/album/5uLm9XqpibzmIaFUz80jLb"
-      },
-      "artists": [
-        {
-          "name": "Nickelback",
-          "url": "https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF"
-        }
-      ],
-      "duration_ms": 211457,
-      "name": "San Quentin",
-      "url": "https://open.spotify.com/track/2fDy68BuFDTa7UGVicym4Z"
     },
     {
       "added_at": "2023-11-10 05:06:42",
@@ -667,6 +667,22 @@
     {
       "added_at": "2023-11-10 05:06:42",
       "album": {
+        "name": "Punching Bag",
+        "url": "https://open.spotify.com/album/4KmzB82Fr509bPq87gG1QS"
+      },
+      "artists": [
+        {
+          "name": "Set It Off",
+          "url": "https://open.spotify.com/artist/06bDwgCHeMAwhgI8il4Y5k"
+        }
+      ],
+      "duration_ms": 179482,
+      "name": "Punching Bag",
+      "url": "https://open.spotify.com/track/7fudux10sVIxILOocZaHrW"
+    },
+    {
+      "added_at": "2023-11-10 05:06:42",
+      "album": {
         "name": "Separate Ways (Worlds Apart)",
         "url": "https://open.spotify.com/album/4hYWzikXRPg5I80ZqLPGAC"
       },
@@ -683,22 +699,6 @@
       "duration_ms": 316458,
       "name": "Separate Ways (Worlds Apart)",
       "url": "https://open.spotify.com/track/7goFhrbCC2m2HI3EbBYgU4"
-    },
-    {
-      "added_at": "2023-11-10 05:06:42",
-      "album": {
-        "name": "Punching Bag",
-        "url": "https://open.spotify.com/album/4KmzB82Fr509bPq87gG1QS"
-      },
-      "artists": [
-        {
-          "name": "Set It Off",
-          "url": "https://open.spotify.com/artist/06bDwgCHeMAwhgI8il4Y5k"
-        }
-      ],
-      "duration_ms": 179482,
-      "name": "Punching Bag",
-      "url": "https://open.spotify.com/track/7fudux10sVIxILOocZaHrW"
     },
     {
       "added_at": "2023-11-10 05:06:42",
@@ -899,22 +899,6 @@
     {
       "added_at": "2023-11-10 05:06:42",
       "album": {
-        "name": "Artificial",
-        "url": "https://open.spotify.com/album/3dYWUL9aUiAtc9OKGotTfV"
-      },
-      "artists": [
-        {
-          "name": "Daughtry",
-          "url": "https://open.spotify.com/artist/5P5FTygHyx2G57oszR3Wot"
-        }
-      ],
-      "duration_ms": 219468,
-      "name": "Artificial",
-      "url": "https://open.spotify.com/track/2EU5LeESSJgbYKCc5l4rms"
-    },
-    {
-      "added_at": "2023-11-10 05:06:42",
-      "album": {
         "name": "Get Rollin'",
         "url": "https://open.spotify.com/album/5uLm9XqpibzmIaFUz80jLb"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 219043,
       "name": "Those Days",
       "url": "https://open.spotify.com/track/5ZQSKzxwW86JEosVUWDoRm"
+    },
+    {
+      "added_at": "2023-11-10 05:06:42",
+      "album": {
+        "name": "Artificial",
+        "url": "https://open.spotify.com/album/3dYWUL9aUiAtc9OKGotTfV"
+      },
+      "artists": [
+        {
+          "name": "Daughtry",
+          "url": "https://open.spotify.com/artist/5P5FTygHyx2G57oszR3Wot"
+        }
+      ],
+      "duration_ms": 219468,
+      "name": "Artificial",
+      "url": "https://open.spotify.com/track/2EU5LeESSJgbYKCc5l4rms"
     },
     {
       "added_at": "2023-11-10 05:06:42",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2023-11-10 05:06:42",
       "album": {
-        "name": "Fallin' With Me",
-        "url": "https://open.spotify.com/album/6zqWA4OhvhQL6qDFutqpw3"
-      },
-      "artists": [
-        {
-          "name": "The Struts",
-          "url": "https://open.spotify.com/artist/3lDpdwM8KILepMHqBWUhIA"
-        }
-      ],
-      "duration_ms": 161791,
-      "name": "Fallin' With Me",
-      "url": "https://open.spotify.com/track/5n3It3ROR8In19oJkpXeWt"
-    },
-    {
-      "added_at": "2023-11-10 05:06:42",
-      "album": {
         "name": "Patient Number 9",
         "url": "https://open.spotify.com/album/4u1LXToDGOdhDDf4c9zeqb"
       },
@@ -1115,6 +1099,38 @@
       "duration_ms": 280206,
       "name": "One of Those Days (feat. Eric Clapton)",
       "url": "https://open.spotify.com/track/2lcfGO79t1PqcXc2Mbxyd5"
+    },
+    {
+      "added_at": "2023-11-10 05:06:42",
+      "album": {
+        "name": "Fallin' With Me",
+        "url": "https://open.spotify.com/album/6zqWA4OhvhQL6qDFutqpw3"
+      },
+      "artists": [
+        {
+          "name": "The Struts",
+          "url": "https://open.spotify.com/artist/3lDpdwM8KILepMHqBWUhIA"
+        }
+      ],
+      "duration_ms": 161791,
+      "name": "Fallin' With Me",
+      "url": "https://open.spotify.com/track/5n3It3ROR8In19oJkpXeWt"
+    },
+    {
+      "added_at": "2023-11-10 05:06:42",
+      "album": {
+        "name": "GODMODE",
+        "url": "https://open.spotify.com/album/2c1e4GA90vn9Arbo4b8CU7"
+      },
+      "artists": [
+        {
+          "name": "In This Moment",
+          "url": "https://open.spotify.com/artist/6tbLPxj1uQ6vsRQZI2YFCT"
+        }
+      ],
+      "duration_ms": 239147,
+      "name": "THE PURGE",
+      "url": "https://open.spotify.com/track/3ppy9aybMMI5vPydN4qRjU"
     },
     {
       "added_at": "2023-11-10 05:06:42",
@@ -1147,22 +1163,6 @@
       "duration_ms": 212621,
       "name": "Like A Drug",
       "url": "https://open.spotify.com/track/0eW2eEXedTyfGXZkuppSPh"
-    },
-    {
-      "added_at": "2023-11-10 05:06:42",
-      "album": {
-        "name": "GODMODE",
-        "url": "https://open.spotify.com/album/2c1e4GA90vn9Arbo4b8CU7"
-      },
-      "artists": [
-        {
-          "name": "In This Moment",
-          "url": "https://open.spotify.com/artist/6tbLPxj1uQ6vsRQZI2YFCT"
-        }
-      ],
-      "duration_ms": 239147,
-      "name": "THE PURGE",
-      "url": "https://open.spotify.com/track/3ppy9aybMMI5vPydN4qRjU"
     },
     {
       "added_at": "2023-11-10 05:06:42",

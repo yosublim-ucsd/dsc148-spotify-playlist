@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6OgmB2fwLGd.md) - [plain]
 
 > The soundtrack to the internet\. Cover: Lil Mabu
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,393,003 likes - 100 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,392,866 likes - 100 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6OgmB2fwLGd.md) - [plain]
 | 20 | [Honeybun](https://open.spotify.com/track/2fM2PrwFBbaiK88Nw6CjdK) | [LeoStayTrill](https://open.spotify.com/artist/3Ut1IKlpXHBQwxklMxBsPX) | [Honeybun](https://open.spotify.com/album/6BJLFkMbbpa9yTjsEb9a7h) | 2:08 |
 | 21 | [Sloppy Seconds \(Ick Pt\. 2\)](https://open.spotify.com/track/00WnaHagi3KLsrbs20OFVt) | [Lay Bankz](https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F) | [Sloppy Seconds \(Ick Pt\. 2\)](https://open.spotify.com/album/4tl8geDZIbp8ZZNTwpwzDc) | 2:42 |
 | 22 | [Zyzz](https://open.spotify.com/track/3ZCczSAiyiT3WZMbeWjuzi) | [Joeyy](https://open.spotify.com/artist/7hkaLWxN3ZmMVTn1qEpPdM) | [Zyzz](https://open.spotify.com/album/3ZlCT9V9oiUKzzilLqGrdU) | 2:08 |
-| 23 | [Somethin Bout U](https://open.spotify.com/track/3aEQjuGpL2ZyYtnOKEgP6w) | [KYLE](https://open.spotify.com/artist/4qBgvVog0wzW75IQ48mU7v), [Teezo Touchdown](https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36) | [Somethin Bout U](https://open.spotify.com/album/0P3gIwj163thjGGYQW7ZDp) | 2:52 |
+| 23 | [Somethin Bout U](https://open.spotify.com/track/1ewcXX3jGDSlL0afdrJRYq) | [KYLE](https://open.spotify.com/artist/4qBgvVog0wzW75IQ48mU7v), [Teezo Touchdown](https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36) | [Somethin Bout U](https://open.spotify.com/album/3hCqgEwy309nX74TGAOHs5) | 2:52 |
 | 24 | [Love My Tone](https://open.spotify.com/track/7oB3Sh2bsCdQiD3Jq8oLsF) | [Fourfive](https://open.spotify.com/artist/2Iwoy31N647ZAX06wPbcGg) | [Love My Tone](https://open.spotify.com/album/5KNmoz5F8pXDwR3uQuo44T) | 1:42 |
 | 25 | [Cherry](https://open.spotify.com/track/1ElVUkyuyrFbyfwbXAK5j5) | [Rubi Rose](https://open.spotify.com/artist/1DGAqC29aw0FpJCejAehVk) | [Cherry](https://open.spotify.com/album/2DrqcEEEU1hGgWvZslvg12) | 2:19 |
 | 26 | [Gunz in SOHO](https://open.spotify.com/track/3mNw70F0wDJXItFYEoQ56L) | [Homixide Gang](https://open.spotify.com/artist/2ojqsY1ycYzZOpLDBBwHPU) | [5TH AMNDMNT](https://open.spotify.com/album/5IJAhCl93xn2Ybqk8OGm6n) | 2:22 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6OgmB2fwLGd.md) - [plain]
 | 99 | [Genesis](https://open.spotify.com/track/05QTU0jumc79qqlpAzMEbw) | [Bravo 1\-2](https://open.spotify.com/artist/7m1XrFL6HVKlTlJ4R6kUcX) | [Genesis](https://open.spotify.com/album/1LTl3mxJfm7flXx9wecciK) | 1:30 |
 | 100 | [I LOVE YOU HOE \(w/ 9lives\)](https://open.spotify.com/track/0NaUT74rJ0NHS62fewzatU) | [Odetari](https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc), [9lives](https://open.spotify.com/artist/2MQN1o9W3ULxdT38vj8g4Q) | [3x3](https://open.spotify.com/album/32BvlHf3nCW7cOTH970V7t) | 2:06 |
 
-Snapshot ID: `MCwyMWI0MDY5NWMzMGExYzAxM2U2MzRkYTg4YjQ4ZjM2YmE0OWJmY2Y0`
+Snapshot ID: `MCxhY2MyMmZmYmJjNWI0OTRkMWFkMmFmODk2ZmU2NWYxZjQyM2FmYTIw`

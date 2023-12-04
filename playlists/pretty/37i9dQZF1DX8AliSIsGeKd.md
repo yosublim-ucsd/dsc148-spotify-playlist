@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music\. Cover: Adriatique, Delhia De France
 
-[Spotify](https://open.spotify.com/user/spotify) - 622,822 likes - 92 songs - 7 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 622,976 likes - 92 songs - 7 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,7 +64,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 54 | [Vermona](https://open.spotify.com/track/5anj1wydixqXctTwaHVpbz) | [Jacob Groening](https://open.spotify.com/artist/4Mlxc3DHm3Qr5XTaEXHT6f) | [Timefades](https://open.spotify.com/album/3T5MSTnO6Oyz5UsSAOMHc0) | 6:18 |
 | 55 | [No Es No](https://open.spotify.com/track/6UvYgA0faddmMpkiey2gMW) | [Mila Journée](https://open.spotify.com/artist/3CnCN1QeftBXVbsXWmmNyB) | [No Es No EP](https://open.spotify.com/album/4qT0fcHkpY4SNZv16x5i5K) | 5:11 |
 | 56 | [ASA](https://open.spotify.com/track/5CBTFqctj3Pcepk96hM0vF) | [Catz 'n Dogz](https://open.spotify.com/artist/5tYqFEuFELxnJZgGmmsfSh) | [ASA](https://open.spotify.com/album/2luwSaYCJk1SRCYkhkZs88) | 3:48 |
-| 57 | [Bender](https://open.spotify.com/track/5j70j3HudSw1xkHfdtAcUj) | [AKA AKA](https://open.spotify.com/artist/64fjAjykuM8Oc3Bqup4g72) | [Bender](https://open.spotify.com/album/7uIEHbUZNaiApy4y98mKsx) | 4:48 |
+| 57 | [Bender](https://open.spotify.com/track/5j70j3HudSw1xkHfdtAcUj) | [AKA AKA](https://open.spotify.com/artist/64fjAjykuM8Oc3Bqup4g72), [Croell](https://open.spotify.com/artist/2jMviokIIk0zT936PVqxW1) | [Bender](https://open.spotify.com/album/7uIEHbUZNaiApy4y98mKsx) | 4:48 |
 | 58 | [I Love Berlin](https://open.spotify.com/track/3MnNmJzqJoBPzlQna4lv9q) | [Sylvie Miles](https://open.spotify.com/artist/4uPM7QLSNGVm5MncolABqE) | [Rave the Planet: Supporter Series, Vol\. 018](https://open.spotify.com/album/6aPrAqD2WDtO24SwxTZ0Lx) | 5:53 |
 | 59 | [Watch Me Choose You](https://open.spotify.com/track/45DWEUKSrHBbQLbrDtKDnV) | [Chris Liebing](https://open.spotify.com/artist/21444lX8gpmOX36icLmbFI), [Nicole Moudaber](https://open.spotify.com/artist/7ixDtqtITfqx5lZQGh5gKe) | [I Will Be A Devil Until I Am An Angel EP](https://open.spotify.com/album/6zjVuZC8ISTcijr3okOKJN) | 7:53 |
 | 60 | [BORDERLINE \- Sally C Remix](https://open.spotify.com/track/6Bh99u6cbEPkp22omHrkzy) | [DJ MELL G](https://open.spotify.com/artist/2b7aFZjD6tpoR3fSDB9AoX), [Sally C](https://open.spotify.com/artist/3AkVHCDEo2WuaVtMglFfN8) | [BORDERLINE \(Sally C Remix\)](https://open.spotify.com/album/7N2kkJwDBIa1ujJXpBcTQj) | 6:03 |
@@ -80,7 +80,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 70 | [Raw Sugar](https://open.spotify.com/track/7MniaKf4sBVE24U5gfTFj9) | [Simina Grigoriu](https://open.spotify.com/artist/1PjzNHCXycxUqsP2yqFqhU) | [Raw Sugar](https://open.spotify.com/album/55Ltlm09qt92E9waQk3m0f) | 6:20 |
 | 71 | [Your Wish Is My Command](https://open.spotify.com/track/3peO8VYgEUNJYDO2sOAKUc) | [Rex The Dog](https://open.spotify.com/artist/5zbQoW1WWTzvITE8w4ckoC) | [Your Wish Is My Command](https://open.spotify.com/album/4j5uRaVxjIVC3sv9dZT9rd) | 3:22 |
 | 72 | [Undressed](https://open.spotify.com/track/0WRhZumcspR7MzsaJRSDKa) | [Martin Waslewski](https://open.spotify.com/artist/3qk4AowZhFKoYHocPk6l06) | [Undressed](https://open.spotify.com/album/1HSAIfVKhHS65UFfMChges) | 5:01 |
-| 73 | [You Gave Me Love](https://open.spotify.com/track/0SR68KUX9ShjVH2SQLW91a) | [Esin](https://open.spotify.com/artist/5v4xLgqC4tunoGVRw2qpEZ), [Ede](https://open.spotify.com/artist/7mxkWNWc7ceydKrZmVQmKK), [Samet Gunal](https://open.spotify.com/artist/1z7vM2buXXNNr9TWgurrKf) | [You Gave Me Love](https://open.spotify.com/album/66ItZwgnQGhHdpzw0CmSzo) | 4:43 |
+| 73 | [You Gave Me Love](https://open.spotify.com/track/0SR68KUX9ShjVH2SQLW91a) | [Esin](https://open.spotify.com/artist/1oZmJ1BVkXO1wYkJ3cCoXa), [Ede](https://open.spotify.com/artist/7mxkWNWc7ceydKrZmVQmKK), [Samet Gunal](https://open.spotify.com/artist/1z7vM2buXXNNr9TWgurrKf) | [You Gave Me Love](https://open.spotify.com/album/66ItZwgnQGhHdpzw0CmSzo) | 4:43 |
 | 74 | [Want It All](https://open.spotify.com/track/2O6Gs4QMMSol0l2DSF83wN) | [Jordan Arts](https://open.spotify.com/artist/24eSGXE60RZgpoNACFxCLZ) | [Want It All](https://open.spotify.com/album/7IysE5qHR8mIi0X5q1YyKj) | 5:34 |
 | 75 | [Cloud](https://open.spotify.com/track/6thoeLMGwS8O5skKz2iqml) | [coiro](https://open.spotify.com/artist/1f68J2PZcUgqpOmQbkqcJY) | [Reflections](https://open.spotify.com/album/6X4ZWpmgJIM8cUMebotaey) | 4:36 |
 | 76 | [Beleza](https://open.spotify.com/track/2V87fVsEA4vFdBMvsd4KMN) | [Rey&Kjavik](https://open.spotify.com/artist/0R7kz98b2zjiuU3AffoeYz) | [Beleza](https://open.spotify.com/album/7LDSqiD9LqH2cNShbMTslb) | 7:21 |
@@ -101,4 +101,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 91 | [Cosmic Vibes](https://open.spotify.com/track/4L6Yea8uk4rzIpVBEMN2am) | [GRAViiTY](https://open.spotify.com/artist/1ycxas0HqhZQQc7zkhtUJY) | [Alien Club](https://open.spotify.com/album/1TKLUCqgBH2bWdult8Janp) | 3:38 |
 | 92 | [ELEKTRO EROTIK](https://open.spotify.com/track/4XKSBSuzMvTIUAIedPWzG2) | [Zeitgeist Freedom Energy Exchange](https://open.spotify.com/artist/2qDY4ib71XUC2Lo87r6HdM) | [ELEKTRO EROTIK](https://open.spotify.com/album/1EaRq7aBrSKkU4tttnG3g0) | 7:03 |
 
-Snapshot ID: `MCwwZWYwMThmYjVmZDhhZTE2NzhmYjZmZThiOWY3MzFhZTZhN2FlNmU4`
+Snapshot ID: `MCwzYzQ4ZjcwYzExZTVjNTIyMWVmNDhiYjdiMzhmM2VkNGNlOTQ2NmE2`

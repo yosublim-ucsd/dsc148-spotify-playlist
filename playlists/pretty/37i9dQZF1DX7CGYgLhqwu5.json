@@ -1,12 +1,12 @@
 {
   "description": "Many would say that this decade is a \"Golden Era\" for country music. Cover: Patsy Cline",
-  "num_followers": 374368,
+  "num_followers": 374452,
   "original_name": "60s Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMzM4ZDg1YzM0MThmNDUwZDJlNWFmZjk5ZjMxZDM2NTc0ODQwZWMy",
+  "snapshot_id": "MCxkMWNlN2EzNDY5N2VkOGYyZjVjZGI2YTUzYWZmNzlkODEyOTA0ZWU1",
   "tracks": [
     {
       "added_at": "2023-11-21 21:06:39",
@@ -483,22 +483,6 @@
     {
       "added_at": "2023-11-21 21:06:39",
       "album": {
-        "name": "The Patsy Cline Story",
-        "url": "https://open.spotify.com/album/3iHskF7qovrsQGE282MDHe"
-      },
-      "artists": [
-        {
-          "name": "Patsy Cline",
-          "url": "https://open.spotify.com/artist/7dNsHhGeGU5MV01r06O8gK"
-        }
-      ],
-      "duration_ms": 147026,
-      "name": "Leavin' On Your Mind - Single Version",
-      "url": "https://open.spotify.com/track/1D2mV1f9QkklP6vy0sdBI9"
-    },
-    {
-      "added_at": "2023-11-21 21:06:39",
-      "album": {
         "name": "The Essential Porter Wagoner & Dolly Parton",
         "url": "https://open.spotify.com/album/6HsMsuo7HXXwZPk3lIr850"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 156160,
       "name": "The Last Thing On My Mind",
       "url": "https://open.spotify.com/track/0sJchoPZwC2MV8WzZRoZUk"
+    },
+    {
+      "added_at": "2023-11-21 21:06:39",
+      "album": {
+        "name": "The Patsy Cline Story",
+        "url": "https://open.spotify.com/album/3iHskF7qovrsQGE282MDHe"
+      },
+      "artists": [
+        {
+          "name": "Patsy Cline",
+          "url": "https://open.spotify.com/artist/7dNsHhGeGU5MV01r06O8gK"
+        }
+      ],
+      "duration_ms": 147026,
+      "name": "Leavin' On Your Mind - Single Version",
+      "url": "https://open.spotify.com/track/1D2mV1f9QkklP6vy0sdBI9"
     },
     {
       "added_at": "2023-11-21 21:06:39",
@@ -743,22 +743,6 @@
     {
       "added_at": "2023-11-21 21:06:39",
       "album": {
-        "name": "The Essential Jim Reeves",
-        "url": "https://open.spotify.com/album/158F4r9awKr4bs7X5E49JA"
-      },
-      "artists": [
-        {
-          "name": "Jim Reeves",
-          "url": "https://open.spotify.com/artist/2Ev0e8GUIX4u7d9etNLTXg"
-        }
-      ],
-      "duration_ms": 152600,
-      "name": "Welcome to My World",
-      "url": "https://open.spotify.com/track/4xpjtAqc46tg04BzHTZnz2"
-    },
-    {
-      "added_at": "2023-11-21 21:06:39",
-      "album": {
         "name": "Walk On By",
         "url": "https://open.spotify.com/album/24YlBDIE5J8hoUX5AToRG8"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 144200,
       "name": "Walk On By",
       "url": "https://open.spotify.com/track/1Y6THdMlU9Cr4lgnUAR09L"
+    },
+    {
+      "added_at": "2023-11-21 21:06:39",
+      "album": {
+        "name": "The Essential Jim Reeves",
+        "url": "https://open.spotify.com/album/158F4r9awKr4bs7X5E49JA"
+      },
+      "artists": [
+        {
+          "name": "Jim Reeves",
+          "url": "https://open.spotify.com/artist/2Ev0e8GUIX4u7d9etNLTXg"
+        }
+      ],
+      "duration_ms": 152600,
+      "name": "Welcome to My World",
+      "url": "https://open.spotify.com/track/4xpjtAqc46tg04BzHTZnz2"
     },
     {
       "added_at": "2023-11-21 21:06:39",
@@ -855,8 +855,24 @@
     {
       "added_at": "2023-11-21 21:06:39",
       "album": {
-        "name": "21 #1 Hits: The Ultimate Collection",
-        "url": "https://open.spotify.com/album/6YhrskvsUUnJtWmkCGeY6D"
+        "name": "Johnny Tillotson's Best",
+        "url": "https://open.spotify.com/album/6EMFcjkD4LHxfwqfJlPjsb"
+      },
+      "artists": [
+        {
+          "name": "Johnny Tillotson",
+          "url": "https://open.spotify.com/artist/36msvw9B10rxW90NSQ2794"
+        }
+      ],
+      "duration_ms": 127106,
+      "name": "Why Do I Love You So",
+      "url": "https://open.spotify.com/track/6e63bXWJcCMu8tunixbFa9"
+    },
+    {
+      "added_at": "2023-11-21 21:06:39",
+      "album": {
+        "name": "All-Time Greatest Hits, Vol. 1",
+        "url": "https://open.spotify.com/album/38YMI8jMA7RotlUBZJNtcs"
       },
       "artists": [
         {
@@ -864,25 +880,9 @@
           "url": "https://open.spotify.com/artist/2FMZn5P3WATd7Il6FgPJNu"
         }
       ],
-      "duration_ms": 133866,
-      "name": "I've Got A Tiger By The Tail - 2006 Remastered Version",
-      "url": "https://open.spotify.com/track/1GDAvJth0ebssC2XkG7RYM"
-    },
-    {
-      "added_at": "2023-11-21 21:06:39",
-      "album": {
-        "name": "Folk-Country",
-        "url": "https://open.spotify.com/album/18bZE82qsKfz1TYDROUKtz"
-      },
-      "artists": [
-        {
-          "name": "Waylon Jennings",
-          "url": "https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM"
-        }
-      ],
-      "duration_ms": 122480,
-      "name": "Stop the World (And Let Me Off)",
-      "url": "https://open.spotify.com/track/0jvmlZJZCaTZLMh3yfL6Y5"
+      "duration_ms": 148400,
+      "name": "Together Again",
+      "url": "https://open.spotify.com/track/5uGMzzZW2XxHvSziwt9T3y"
     },
     {
       "added_at": "2023-11-21 21:06:39",
@@ -899,6 +899,22 @@
       "duration_ms": 131200,
       "name": "Let's Have A Party",
       "url": "https://open.spotify.com/track/2B4IYgIkBnemrp0YEkaUIH"
+    },
+    {
+      "added_at": "2023-11-21 21:06:39",
+      "album": {
+        "name": "Folk-Country",
+        "url": "https://open.spotify.com/album/18bZE82qsKfz1TYDROUKtz"
+      },
+      "artists": [
+        {
+          "name": "Waylon Jennings",
+          "url": "https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM"
+        }
+      ],
+      "duration_ms": 122480,
+      "name": "Stop the World (And Let Me Off)",
+      "url": "https://open.spotify.com/track/0jvmlZJZCaTZLMh3yfL6Y5"
     },
     {
       "added_at": "2023-11-21 21:06:39",
@@ -951,22 +967,6 @@
     {
       "added_at": "2023-11-21 21:06:39",
       "album": {
-        "name": "Streets of Baltimore",
-        "url": "https://open.spotify.com/album/1J9xIY7ACyckZlVhGB76kp"
-      },
-      "artists": [
-        {
-          "name": "Bobby Bare",
-          "url": "https://open.spotify.com/artist/69wzuykaVXlRS5KVygESvd"
-        }
-      ],
-      "duration_ms": 157640,
-      "name": "The Streets of Baltimore",
-      "url": "https://open.spotify.com/track/3kDSSR6noFrYJBxijqEVm3"
-    },
-    {
-      "added_at": "2023-11-21 21:06:39",
-      "album": {
         "name": "Sentimentally Yours",
         "url": "https://open.spotify.com/album/0GhlY0htAsFNb0eHO9y1lZ"
       },
@@ -987,18 +987,18 @@
     {
       "added_at": "2023-11-21 21:06:39",
       "album": {
-        "name": "Johnny Tillotson's Best",
-        "url": "https://open.spotify.com/album/6EMFcjkD4LHxfwqfJlPjsb"
+        "name": "Streets of Baltimore",
+        "url": "https://open.spotify.com/album/1J9xIY7ACyckZlVhGB76kp"
       },
       "artists": [
         {
-          "name": "Johnny Tillotson",
-          "url": "https://open.spotify.com/artist/36msvw9B10rxW90NSQ2794"
+          "name": "Bobby Bare",
+          "url": "https://open.spotify.com/artist/69wzuykaVXlRS5KVygESvd"
         }
       ],
-      "duration_ms": 127106,
-      "name": "Why Do I Love You So",
-      "url": "https://open.spotify.com/track/6e63bXWJcCMu8tunixbFa9"
+      "duration_ms": 157640,
+      "name": "The Streets of Baltimore",
+      "url": "https://open.spotify.com/track/3kDSSR6noFrYJBxijqEVm3"
     },
     {
       "added_at": "2023-11-21 21:06:39",
@@ -1035,8 +1035,8 @@
     {
       "added_at": "2023-11-21 21:06:39",
       "album": {
-        "name": "All-Time Greatest Hits, Vol. 1",
-        "url": "https://open.spotify.com/album/38YMI8jMA7RotlUBZJNtcs"
+        "name": "21 #1 Hits: The Ultimate Collection",
+        "url": "https://open.spotify.com/album/6YhrskvsUUnJtWmkCGeY6D"
       },
       "artists": [
         {
@@ -1044,9 +1044,9 @@
           "url": "https://open.spotify.com/artist/2FMZn5P3WATd7Il6FgPJNu"
         }
       ],
-      "duration_ms": 148400,
-      "name": "Together Again",
-      "url": "https://open.spotify.com/track/5uGMzzZW2XxHvSziwt9T3y"
+      "duration_ms": 133866,
+      "name": "I've Got A Tiger By The Tail - 2006 Remastered Version",
+      "url": "https://open.spotify.com/track/1GDAvJth0ebssC2XkG7RYM"
     },
     {
       "added_at": "2023-11-21 21:06:39",
@@ -1067,6 +1067,22 @@
     {
       "added_at": "2023-11-21 21:06:39",
       "album": {
+        "name": "Country Heart: 24 Favorite Songs",
+        "url": "https://open.spotify.com/album/15HPAnwnYAOmyOOTvQpgjn"
+      },
+      "artists": [
+        {
+          "name": "George Jones",
+          "url": "https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5"
+        }
+      ],
+      "duration_ms": 138000,
+      "name": "Walk Through This World With Me",
+      "url": "https://open.spotify.com/track/61l4nlG7v1D9V14PfBWz0P"
+    },
+    {
+      "added_at": "2023-11-21 21:06:39",
+      "album": {
         "name": "Keep On the Sunny Side - June Carter Cash: Her Life In Music",
         "url": "https://open.spotify.com/album/0pSVeCzT60p5pzP3m3iOrN"
       },
@@ -1083,22 +1099,6 @@
       "duration_ms": 166266,
       "name": "Jackson (with June Carter Cash)",
       "url": "https://open.spotify.com/track/6ekSX8AVzwRSs0mbSlPc0R"
-    },
-    {
-      "added_at": "2023-11-21 21:06:39",
-      "album": {
-        "name": "Country Heart: 24 Favorite Songs",
-        "url": "https://open.spotify.com/album/15HPAnwnYAOmyOOTvQpgjn"
-      },
-      "artists": [
-        {
-          "name": "George Jones",
-          "url": "https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5"
-        }
-      ],
-      "duration_ms": 138000,
-      "name": "Walk Through This World With Me",
-      "url": "https://open.spotify.com/track/61l4nlG7v1D9V14PfBWz0P"
     },
     {
       "added_at": "2023-11-21 21:06:39",
@@ -1215,6 +1215,26 @@
     {
       "added_at": "2023-11-21 21:06:39",
       "album": {
+        "name": "The Essential George Jones",
+        "url": "https://open.spotify.com/album/2Pf9lml86yy0wuEDUSBIUF"
+      },
+      "artists": [
+        {
+          "name": "George Jones",
+          "url": "https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5"
+        },
+        {
+          "name": "Tammy Wynette",
+          "url": "https://open.spotify.com/artist/1LFKKuzn302wp15dYH28id"
+        }
+      ],
+      "duration_ms": 140733,
+      "name": "Take Me",
+      "url": "https://open.spotify.com/track/321EGZZRFk8kj4pNZraesQ"
+    },
+    {
+      "added_at": "2023-11-21 21:06:39",
+      "album": {
         "name": "Country Style",
         "url": "https://open.spotify.com/album/5jZjP2dKKHILInEP99iHyt"
       },
@@ -1243,26 +1263,6 @@
       "duration_ms": 177106,
       "name": "Don't Let Me Cross Over",
       "url": "https://open.spotify.com/track/1ZNDtli4TjhuoBnWplaePI"
-    },
-    {
-      "added_at": "2023-11-21 21:06:39",
-      "album": {
-        "name": "The Essential George Jones",
-        "url": "https://open.spotify.com/album/2Pf9lml86yy0wuEDUSBIUF"
-      },
-      "artists": [
-        {
-          "name": "George Jones",
-          "url": "https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5"
-        },
-        {
-          "name": "Tammy Wynette",
-          "url": "https://open.spotify.com/artist/1LFKKuzn302wp15dYH28id"
-        }
-      ],
-      "duration_ms": 140733,
-      "name": "Take Me",
-      "url": "https://open.spotify.com/track/321EGZZRFk8kj4pNZraesQ"
     },
     {
       "added_at": "2023-11-21 21:06:39",

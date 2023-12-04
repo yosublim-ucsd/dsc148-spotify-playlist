@@ -1,12 +1,12 @@
 {
   "description": "Laid back cratedigger hip-hop from around the world.",
-  "num_followers": 1201895,
+  "num_followers": 1202201,
   "original_name": "Jazz Rap",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NDEyZWIyMzA2NTMxODRhNWI0Y2E1NDUyNWIyYjY0ZjZkM2E1NDNk",
+  "snapshot_id": "MCw3OTAwMzYwYzU2OTM0MTY3Mzg4ODZjYTU0MGZmYzExMTBiMmZiM2Mw",
   "tracks": [
     {
       "added_at": "2023-12-01 10:52:12",
@@ -439,6 +439,26 @@
     {
       "added_at": "2023-12-01 10:52:12",
       "album": {
+        "name": "The Patience",
+        "url": "https://open.spotify.com/album/1R7oXtXCQEI7GDujxImL87"
+      },
+      "artists": [
+        {
+          "name": "Mick Jenkins",
+          "url": "https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx"
+        },
+        {
+          "name": "JID",
+          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
+        }
+      ],
+      "duration_ms": 175750,
+      "name": "Smoke Break-Dance (feat. JID)",
+      "url": "https://open.spotify.com/track/3EcqaLV76JnvSQOInAmdXv"
+    },
+    {
+      "added_at": "2023-12-01 10:52:12",
+      "album": {
         "name": "Children Of The Internet (Remixes)",
         "url": "https://open.spotify.com/album/3gN1nwpbmzQ5t56rAyE6ww"
       },
@@ -467,22 +487,18 @@
     {
       "added_at": "2023-12-01 10:52:12",
       "album": {
-        "name": "The Patience",
-        "url": "https://open.spotify.com/album/1R7oXtXCQEI7GDujxImL87"
+        "name": "2000",
+        "url": "https://open.spotify.com/album/32JCQPzflPiUX9weKyUrFZ"
       },
       "artists": [
         {
-          "name": "Mick Jenkins",
-          "url": "https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx"
-        },
-        {
-          "name": "JID",
-          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
+          "name": "Grand Puba",
+          "url": "https://open.spotify.com/artist/6IjhOxJSTPh15KgFTSZ68K"
         }
       ],
-      "duration_ms": 175750,
-      "name": "Smoke Break-Dance (feat. JID)",
-      "url": "https://open.spotify.com/track/3EcqaLV76JnvSQOInAmdXv"
+      "duration_ms": 220400,
+      "name": "A Little Of This",
+      "url": "https://open.spotify.com/track/1M3D5FWqKil0eNpKksKBa1"
     },
     {
       "added_at": "2023-12-01 10:52:12",
@@ -507,22 +523,6 @@
       "duration_ms": 256613,
       "name": "Egyptian Luvr",
       "url": "https://open.spotify.com/track/48Co4cbgmgcAGch0mZoJuJ"
-    },
-    {
-      "added_at": "2023-12-01 10:52:12",
-      "album": {
-        "name": "2000",
-        "url": "https://open.spotify.com/album/32JCQPzflPiUX9weKyUrFZ"
-      },
-      "artists": [
-        {
-          "name": "Grand Puba",
-          "url": "https://open.spotify.com/artist/6IjhOxJSTPh15KgFTSZ68K"
-        }
-      ],
-      "duration_ms": 220400,
-      "name": "A Little Of This",
-      "url": "https://open.spotify.com/track/1M3D5FWqKil0eNpKksKBa1"
     },
     {
       "added_at": "2023-12-01 10:52:12",
@@ -667,22 +667,6 @@
     {
       "added_at": "2023-12-01 10:52:12",
       "album": {
-        "name": "2nd Exit",
-        "url": "https://open.spotify.com/album/7DYnI0CZgasN25teMmX9O9"
-      },
-      "artists": [
-        {
-          "name": "2nd Exit",
-          "url": "https://open.spotify.com/artist/4M0DtVyxxAVjPTFQYPpX1y"
-        }
-      ],
-      "duration_ms": 176884,
-      "name": "It's Alright",
-      "url": "https://open.spotify.com/track/0Wk1F7rr43ANfiyAgHZxOs"
-    },
-    {
-      "added_at": "2023-12-01 10:52:12",
-      "album": {
         "name": "Elusive",
         "url": "https://open.spotify.com/album/24aBKIQMXzdMYZkWSGFLTK"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 222200,
       "name": "Elusive",
       "url": "https://open.spotify.com/track/4mbOTHs6heygME9uDHg0mf"
+    },
+    {
+      "added_at": "2023-12-01 10:52:12",
+      "album": {
+        "name": "2nd Exit",
+        "url": "https://open.spotify.com/album/7DYnI0CZgasN25teMmX9O9"
+      },
+      "artists": [
+        {
+          "name": "2nd Exit",
+          "url": "https://open.spotify.com/artist/4M0DtVyxxAVjPTFQYPpX1y"
+        }
+      ],
+      "duration_ms": 176884,
+      "name": "It's Alright",
+      "url": "https://open.spotify.com/track/0Wk1F7rr43ANfiyAgHZxOs"
     },
     {
       "added_at": "2023-12-01 10:52:12",
@@ -1171,6 +1171,22 @@
     {
       "added_at": "2023-12-01 10:52:12",
       "album": {
+        "name": "The LP",
+        "url": "https://open.spotify.com/album/7hzM3Sa8BoCKrNqrKJqyz1"
+      },
+      "artists": [
+        {
+          "name": "Large Professor",
+          "url": "https://open.spotify.com/artist/01nVIuD8YZsnFH6x6Cc9rX"
+        }
+      ],
+      "duration_ms": 197066,
+      "name": "The LP",
+      "url": "https://open.spotify.com/track/3TGJJERElA998ZlJcfA1Qz"
+    },
+    {
+      "added_at": "2023-12-01 10:52:12",
+      "album": {
         "name": "Speakthru (Bonus Tracks Version)",
         "url": "https://open.spotify.com/album/4kYA3PqnQ9nKhMtREJqW0i"
       },
@@ -1187,22 +1203,6 @@
       "duration_ms": 187175,
       "name": "Shine Thru",
       "url": "https://open.spotify.com/track/7oedV61tJa8X3ZPE4egKpy"
-    },
-    {
-      "added_at": "2023-12-01 10:52:12",
-      "album": {
-        "name": "The LP",
-        "url": "https://open.spotify.com/album/7hzM3Sa8BoCKrNqrKJqyz1"
-      },
-      "artists": [
-        {
-          "name": "Large Professor",
-          "url": "https://open.spotify.com/artist/01nVIuD8YZsnFH6x6Cc9rX"
-        }
-      ],
-      "duration_ms": 197066,
-      "name": "The LP",
-      "url": "https://open.spotify.com/track/3TGJJERElA998ZlJcfA1Qz"
     },
     {
       "added_at": "2023-12-01 10:52:12",
@@ -1679,26 +1679,6 @@
     {
       "added_at": "2023-12-01 10:52:12",
       "album": {
-        "name": "Protea",
-        "url": "https://open.spotify.com/album/5IPiGKpNz2JF6ZrrFZJypk"
-      },
-      "artists": [
-        {
-          "name": "Kota the Friend",
-          "url": "https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX"
-        },
-        {
-          "name": "Hello O'shay",
-          "url": "https://open.spotify.com/artist/3YzuOhp0V0YIuaukc7U3Rp"
-        }
-      ],
-      "duration_ms": 200775,
-      "name": "Super Rare (feat. Hello O'Shay)",
-      "url": "https://open.spotify.com/track/2UzRTCDmvjuzNT9NhGScvt"
-    },
-    {
-      "added_at": "2023-12-01 10:52:12",
-      "album": {
         "name": "Scottie Pippen",
         "url": "https://open.spotify.com/album/3STIqNwTorh5aHzN84FZ34"
       },
@@ -1715,6 +1695,26 @@
       "duration_ms": 233154,
       "name": "Scottie Pippen",
       "url": "https://open.spotify.com/track/2xzcjOTPZmWY4S8iyhTcds"
+    },
+    {
+      "added_at": "2023-12-01 10:52:12",
+      "album": {
+        "name": "Protea",
+        "url": "https://open.spotify.com/album/5IPiGKpNz2JF6ZrrFZJypk"
+      },
+      "artists": [
+        {
+          "name": "Kota the Friend",
+          "url": "https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX"
+        },
+        {
+          "name": "Hello O'shay",
+          "url": "https://open.spotify.com/artist/3YzuOhp0V0YIuaukc7U3Rp"
+        }
+      ],
+      "duration_ms": 200775,
+      "name": "Super Rare (feat. Hello O'Shay)",
+      "url": "https://open.spotify.com/track/2UzRTCDmvjuzNT9NhGScvt"
     },
     {
       "added_at": "2023-12-01 10:52:12",
@@ -1739,22 +1739,6 @@
     {
       "added_at": "2023-12-01 10:52:12",
       "album": {
-        "name": "Day & Night",
-        "url": "https://open.spotify.com/album/2aG0GB0P4uAaaZaMkSVZuG"
-      },
-      "artists": [
-        {
-          "name": "RAIZA BIZA",
-          "url": "https://open.spotify.com/artist/5woPu1EbjrUxdisOcQL7uo"
-        }
-      ],
-      "duration_ms": 243711,
-      "name": "Wassup",
-      "url": "https://open.spotify.com/track/1JeTPnPjrna50Cfon0PBqe"
-    },
-    {
-      "added_at": "2023-12-01 10:52:12",
-      "album": {
         "name": "Oh Word",
         "url": "https://open.spotify.com/album/56MeentPxn6AWBDIUctPit"
       },
@@ -1767,6 +1751,22 @@
       "duration_ms": 194019,
       "name": "Oh Word",
       "url": "https://open.spotify.com/track/5Cvm41VtHmL1pwn9RZig7A"
+    },
+    {
+      "added_at": "2023-12-01 10:52:12",
+      "album": {
+        "name": "Day & Night",
+        "url": "https://open.spotify.com/album/2aG0GB0P4uAaaZaMkSVZuG"
+      },
+      "artists": [
+        {
+          "name": "RAIZA BIZA",
+          "url": "https://open.spotify.com/artist/5woPu1EbjrUxdisOcQL7uo"
+        }
+      ],
+      "duration_ms": 243711,
+      "name": "Wassup",
+      "url": "https://open.spotify.com/track/1JeTPnPjrna50Cfon0PBqe"
     },
     {
       "added_at": "2023-12-01 10:52:12",
@@ -1819,22 +1819,6 @@
     {
       "added_at": "2023-12-01 10:52:12",
       "album": {
-        "name": "Elephant in the Room",
-        "url": "https://open.spotify.com/album/5u9fxl08KewKRV27T3nqGN"
-      },
-      "artists": [
-        {
-          "name": "Mick Jenkins",
-          "url": "https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx"
-        }
-      ],
-      "duration_ms": 189082,
-      "name": "Gucci Tried to Tell Me",
-      "url": "https://open.spotify.com/track/1ufp82dH3kwlqiPmeKNBVz"
-    },
-    {
-      "added_at": "2023-12-01 10:52:12",
-      "album": {
         "name": "Call You?",
         "url": "https://open.spotify.com/album/1lvz5NIWxdePTu1h8vhLxC"
       },
@@ -1871,6 +1855,22 @@
       "duration_ms": 153750,
       "name": "Flashback",
       "url": "https://open.spotify.com/track/5Niwu1Unu9JZEkkFmvWfyZ"
+    },
+    {
+      "added_at": "2023-12-01 10:52:12",
+      "album": {
+        "name": "The Patience",
+        "url": "https://open.spotify.com/album/1R7oXtXCQEI7GDujxImL87"
+      },
+      "artists": [
+        {
+          "name": "Mick Jenkins",
+          "url": "https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx"
+        }
+      ],
+      "duration_ms": 144140,
+      "name": "Guapanese",
+      "url": "https://open.spotify.com/track/40pwSWsizZ5xUSVJMqoYOA"
     },
     {
       "added_at": "2023-12-01 10:52:12",
@@ -1915,22 +1915,6 @@
     {
       "added_at": "2023-12-01 10:52:12",
       "album": {
-        "name": "Heart Shaped Kisses",
-        "url": "https://open.spotify.com/album/4DiGn9KioSOnbDopzRyZoY"
-      },
-      "artists": [
-        {
-          "name": "Vluestar",
-          "url": "https://open.spotify.com/artist/2FcgwIGEPmPyItFPscscDO"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Heart Shaped Kisses",
-      "url": "https://open.spotify.com/track/2cTbqT9JlHrkzySJQfBRvv"
-    },
-    {
-      "added_at": "2023-12-01 10:52:12",
-      "album": {
         "name": "Fonografie",
         "url": "https://open.spotify.com/album/2yKN9OrDfm7XgOTzQwE9Cu"
       },
@@ -1947,6 +1931,22 @@
       "duration_ms": 199640,
       "name": "Laid Back",
       "url": "https://open.spotify.com/track/6Dc2JmMqBvSFsPaU6kWrya"
+    },
+    {
+      "added_at": "2023-12-01 10:52:12",
+      "album": {
+        "name": "Heart Shaped Kisses",
+        "url": "https://open.spotify.com/album/4DiGn9KioSOnbDopzRyZoY"
+      },
+      "artists": [
+        {
+          "name": "Vluestar",
+          "url": "https://open.spotify.com/artist/2FcgwIGEPmPyItFPscscDO"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Heart Shaped Kisses",
+      "url": "https://open.spotify.com/track/2cTbqT9JlHrkzySJQfBRvv"
     },
     {
       "added_at": "2023-12-01 10:52:12",
@@ -1979,18 +1979,26 @@
     {
       "added_at": "2023-12-01 10:52:12",
       "album": {
-        "name": "The Patience",
-        "url": "https://open.spotify.com/album/1R7oXtXCQEI7GDujxImL87"
+        "name": "Nostalgia",
+        "url": "https://open.spotify.com/album/11WVMvo2CIfz3kkqLjNkoJ"
       },
       "artists": [
         {
-          "name": "Mick Jenkins",
-          "url": "https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx"
+          "name": "Summers Sons",
+          "url": "https://open.spotify.com/artist/6dX4na3KWr3yMTLU4l1W7z"
+        },
+        {
+          "name": "C.Tappin",
+          "url": "https://open.spotify.com/artist/09cx9hVWTix2e9uCcBXeds"
+        },
+        {
+          "name": "Miles Bonny",
+          "url": "https://open.spotify.com/artist/3SAMS1olAlq6wJ8Y7CApjs"
         }
       ],
-      "duration_ms": 144140,
-      "name": "Guapanese",
-      "url": "https://open.spotify.com/track/40pwSWsizZ5xUSVJMqoYOA"
+      "duration_ms": 192533,
+      "name": "Give Thanks",
+      "url": "https://open.spotify.com/track/5LTX3uM6PySQIMPZALHZaI"
     },
     {
       "added_at": "2023-12-01 10:52:12",

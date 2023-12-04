@@ -1,12 +1,12 @@
 {
   "description": "Country Music that rocks. Cover: Treaty Oak Revival",
-  "num_followers": 571794,
+  "num_followers": 571910,
   "original_name": "Country Rocks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhZjc0N2EwMzgzY2UzODY1NzZlNzE1NWNiMzRmYjNlZGRhNTdjZTUz",
+  "snapshot_id": "MCwxYmRjOTg5OTg1ODNmYzRiODYyZjE1ZTM3NDg2YzkwY2ViMmM0ZDVj",
   "tracks": [
     {
       "added_at": "2023-12-01 22:30:39",
@@ -995,26 +995,18 @@
     {
       "added_at": "2023-12-01 22:30:39",
       "album": {
-        "name": "Wasted (feat. Kodak Black & Koe Wetzel)",
-        "url": "https://open.spotify.com/album/3H6onVGHhKCNYV3ctLLMBf"
+        "name": "Get Rollin'",
+        "url": "https://open.spotify.com/album/5uLm9XqpibzmIaFUz80jLb"
       },
       "artists": [
         {
-          "name": "Diplo",
-          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
-        },
-        {
-          "name": "Kodak Black",
-          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
-        },
-        {
-          "name": "Koe Wetzel",
-          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
+          "name": "Nickelback",
+          "url": "https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF"
         }
       ],
-      "duration_ms": 155495,
-      "name": "Wasted (feat. Kodak Black & Koe Wetzel)",
-      "url": "https://open.spotify.com/track/7ndDjjFDzw6Q68TmIzgHep"
+      "duration_ms": 234848,
+      "name": "High Time",
+      "url": "https://open.spotify.com/track/2A5Xy5HWeRWvWjvv7ObIFZ"
     },
     {
       "added_at": "2023-12-01 22:30:39",
@@ -1067,18 +1059,26 @@
     {
       "added_at": "2023-12-01 22:30:39",
       "album": {
-        "name": "Get Rollin'",
-        "url": "https://open.spotify.com/album/5uLm9XqpibzmIaFUz80jLb"
+        "name": "Wasted (feat. Kodak Black & Koe Wetzel)",
+        "url": "https://open.spotify.com/album/3H6onVGHhKCNYV3ctLLMBf"
       },
       "artists": [
         {
-          "name": "Nickelback",
-          "url": "https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF"
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        },
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        },
+        {
+          "name": "Koe Wetzel",
+          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
         }
       ],
-      "duration_ms": 234848,
-      "name": "High Time",
-      "url": "https://open.spotify.com/track/2A5Xy5HWeRWvWjvv7ObIFZ"
+      "duration_ms": 155495,
+      "name": "Wasted (feat. Kodak Black & Koe Wetzel)",
+      "url": "https://open.spotify.com/track/7ndDjjFDzw6Q68TmIzgHep"
     },
     {
       "added_at": "2023-12-01 22:30:39",
@@ -1511,18 +1511,18 @@
     {
       "added_at": "2023-12-01 22:30:39",
       "album": {
-        "name": "Fire On Wheels",
-        "url": "https://open.spotify.com/album/6FaaYVLUK4mAjSqYykdvv7"
+        "name": "My Kinda Party",
+        "url": "https://open.spotify.com/album/4DDsvEKPW32jeMEAqmOdjv"
       },
       "artists": [
         {
-          "name": "Kip Moore",
-          "url": "https://open.spotify.com/artist/2hJPr4lk7Q8SSvCVBl9fWM"
+          "name": "Jason Aldean",
+          "url": "https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH"
         }
       ],
-      "duration_ms": 156973,
-      "name": "Fire On Wheels",
-      "url": "https://open.spotify.com/track/2EuSpBqoWsE5ohMBCXXUHO"
+      "duration_ms": 202466,
+      "name": "Tattoos on This Town",
+      "url": "https://open.spotify.com/track/4tL7NTZPdKd5kdYRQ6bgpO"
     },
     {
       "added_at": "2023-12-01 22:30:39",
@@ -1547,18 +1547,18 @@
     {
       "added_at": "2023-12-01 22:30:39",
       "album": {
-        "name": "My Kinda Party",
-        "url": "https://open.spotify.com/album/4DDsvEKPW32jeMEAqmOdjv"
+        "name": "Fire On Wheels",
+        "url": "https://open.spotify.com/album/6FaaYVLUK4mAjSqYykdvv7"
       },
       "artists": [
         {
-          "name": "Jason Aldean",
-          "url": "https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH"
+          "name": "Kip Moore",
+          "url": "https://open.spotify.com/artist/2hJPr4lk7Q8SSvCVBl9fWM"
         }
       ],
-      "duration_ms": 202466,
-      "name": "Tattoos on This Town",
-      "url": "https://open.spotify.com/track/4tL7NTZPdKd5kdYRQ6bgpO"
+      "duration_ms": 156973,
+      "name": "Fire On Wheels",
+      "url": "https://open.spotify.com/track/2EuSpBqoWsE5ohMBCXXUHO"
     },
     {
       "added_at": "2023-12-01 22:30:39",
@@ -1643,18 +1643,18 @@
     {
       "added_at": "2023-12-01 22:30:39",
       "album": {
-        "name": "World On Fire",
-        "url": "https://open.spotify.com/album/1PVoMQaN6xLMAsBOu27Lf7"
+        "name": "Mercy",
+        "url": "https://open.spotify.com/album/3OMTlnEISam5mlHSO9kdxq"
       },
       "artists": [
         {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+          "name": "Cody Jinks",
+          "url": "https://open.spotify.com/artist/2v7wIbCkIzxOfT3GnqCexD"
         }
       ],
-      "duration_ms": 261269,
-      "name": "World On Fire",
-      "url": "https://open.spotify.com/track/680abMjLEy7wOLgR7zaQv4"
+      "duration_ms": 230344,
+      "name": "All It Cost Me Was Everything",
+      "url": "https://open.spotify.com/track/0pE4AMTKXsXRwCJWFLtqx5"
     },
     {
       "added_at": "2023-12-01 22:30:39",
@@ -1675,34 +1675,38 @@
     {
       "added_at": "2023-12-01 22:30:39",
       "album": {
-        "name": "Mercy",
-        "url": "https://open.spotify.com/album/3OMTlnEISam5mlHSO9kdxq"
+        "name": "World On Fire",
+        "url": "https://open.spotify.com/album/1PVoMQaN6xLMAsBOu27Lf7"
       },
       "artists": [
         {
-          "name": "Cody Jinks",
-          "url": "https://open.spotify.com/artist/2v7wIbCkIzxOfT3GnqCexD"
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
         }
       ],
-      "duration_ms": 230344,
-      "name": "All It Cost Me Was Everything",
-      "url": "https://open.spotify.com/track/0pE4AMTKXsXRwCJWFLtqx5"
+      "duration_ms": 261269,
+      "name": "World On Fire",
+      "url": "https://open.spotify.com/track/680abMjLEy7wOLgR7zaQv4"
     },
     {
       "added_at": "2023-12-01 22:30:39",
       "album": {
-        "name": "Call It Country",
-        "url": "https://open.spotify.com/album/2eqtyCMsctct0i1SWDHN2h"
+        "name": "Whiskey Lullaby",
+        "url": "https://open.spotify.com/album/01jScvVAy4QKHwy8zbrwuM"
       },
       "artists": [
         {
-          "name": "Travis Denning",
-          "url": "https://open.spotify.com/artist/6CegFHnUqJcOBipgphZ2CJ"
+          "name": "Drew Jacobs",
+          "url": "https://open.spotify.com/artist/4sTH4GWWUdEvvkiVgn03D0"
+        },
+        {
+          "name": "Caitlynne Curtis",
+          "url": "https://open.spotify.com/artist/5m984rwcMVTObo3jCSzDCf"
         }
       ],
-      "duration_ms": 151148,
-      "name": "Call It Country",
-      "url": "https://open.spotify.com/track/1H5I9ObhTNdSvcIJnM5CoT"
+      "duration_ms": 269594,
+      "name": "Whiskey Lullaby",
+      "url": "https://open.spotify.com/track/5dRwdw0BLvGmNQ2TqBhOdc"
     }
   ],
   "unique_name": "Country Rocks",

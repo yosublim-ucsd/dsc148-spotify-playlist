@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYWUwMjJiMjg4M2MxMjI1NWE1NWRmOGRlZGRjZWJkYTUwM2E1OGE0",
+  "snapshot_id": "MCw2OTA1NGMzZDFmNGQ1ZWJmYmY1MjY2NDkyNDRhODFmMTE0NGM4ZmQ4",
   "tracks": [
     {
       "added_at": "2023-10-27 04:00:00",
@@ -307,38 +307,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Okay, Crawdad",
-        "url": "https://open.spotify.com/album/4Be8F6J5qKXiGz6PuEBXYp"
-      },
-      "artists": [
-        {
-          "name": "Nick Shoulders",
-          "url": "https://open.spotify.com/artist/4Vydw38lzh6aKIGqzZdwRS"
-        }
-      ],
-      "duration_ms": 180033,
-      "name": "Rather Low",
-      "url": "https://open.spotify.com/track/3XZo49fN68s54wUsSVy21H"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
-        "name": "Colter Wall & The Scary Prairie Boys",
-        "url": "https://open.spotify.com/album/6E8W7DhCFcxUuU2X1zM1Q4"
-      },
-      "artists": [
-        {
-          "name": "Colter Wall",
-          "url": "https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx"
-        }
-      ],
-      "duration_ms": 323853,
-      "name": "Bob Fudge",
-      "url": "https://open.spotify.com/track/7IkdDn5z2GQq2xhraDVoen"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "Unchained Melody / You've Lost That Lovin' Feelin'",
         "url": "https://open.spotify.com/album/2wuSSfY2acuozXaOth22B1"
       },
@@ -359,6 +327,38 @@
       "duration_ms": 235617,
       "name": "Unchained Melody",
       "url": "https://open.spotify.com/track/2rhkDqUHN8qheTE1vZf7T9"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "Colter Wall & The Scary Prairie Boys",
+        "url": "https://open.spotify.com/album/6E8W7DhCFcxUuU2X1zM1Q4"
+      },
+      "artists": [
+        {
+          "name": "Colter Wall",
+          "url": "https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx"
+        }
+      ],
+      "duration_ms": 323853,
+      "name": "Bob Fudge",
+      "url": "https://open.spotify.com/track/7IkdDn5z2GQq2xhraDVoen"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "Okay, Crawdad",
+        "url": "https://open.spotify.com/album/4Be8F6J5qKXiGz6PuEBXYp"
+      },
+      "artists": [
+        {
+          "name": "Nick Shoulders",
+          "url": "https://open.spotify.com/artist/4Vydw38lzh6aKIGqzZdwRS"
+        }
+      ],
+      "duration_ms": 180033,
+      "name": "Rather Low",
+      "url": "https://open.spotify.com/track/3XZo49fN68s54wUsSVy21H"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -803,6 +803,26 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
+        "name": "Plus de Sauce",
+        "url": "https://open.spotify.com/album/2ZYhoJFzpk9sRktKsFC942"
+      },
+      "artists": [
+        {
+          "name": "Theo Lawrence",
+          "url": "https://open.spotify.com/artist/28eXJYBZVGDRy1c7j4dIw2"
+        },
+        {
+          "name": "Emily Gimble",
+          "url": "https://open.spotify.com/artist/5PGUi7TAPu7BpFXoDP6AUK"
+        }
+      ],
+      "duration_ms": 146571,
+      "name": "We Shouldn\u2019t Talk About It (feat. Emily Gimble)",
+      "url": "https://open.spotify.com/track/1BODUrT21FF2DTkmhmXYxG"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
         "name": "U.F.O.",
         "url": "https://open.spotify.com/album/6zaVaNAjvlN583TtOJIpZu"
       },
@@ -831,26 +851,6 @@
       "duration_ms": 168386,
       "name": "Miller's Cave",
       "url": "https://open.spotify.com/track/3tS8Gv5lYu5gIzHUPnwipm"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
-        "name": "Plus de Sauce",
-        "url": "https://open.spotify.com/album/2ZYhoJFzpk9sRktKsFC942"
-      },
-      "artists": [
-        {
-          "name": "Theo Lawrence",
-          "url": "https://open.spotify.com/artist/28eXJYBZVGDRy1c7j4dIw2"
-        },
-        {
-          "name": "Emily Gimble",
-          "url": "https://open.spotify.com/artist/5PGUi7TAPu7BpFXoDP6AUK"
-        }
-      ],
-      "duration_ms": 146571,
-      "name": "We Shouldn\u2019t Talk About It (feat. Emily Gimble)",
-      "url": "https://open.spotify.com/track/1BODUrT21FF2DTkmhmXYxG"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Green Rocky Road",
-        "url": "https://open.spotify.com/album/3Mk2rCfx4ywDJ5sg5C0jk8"
-      },
-      "artists": [
-        {
-          "name": "Bria",
-          "url": "https://open.spotify.com/artist/7f71lxhHip9KvlOVpwtWm3"
-        }
-      ],
-      "duration_ms": 201985,
-      "name": "Green Rocky Road",
-      "url": "https://open.spotify.com/track/62VuzDNl5RZIlhzs0XDQzY"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "Grievous Angel",
         "url": "https://open.spotify.com/album/6UQujMGmR5MbFsML9amCuN"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 232693,
       "name": "Hearts on Fire - 2002 Remaster",
       "url": "https://open.spotify.com/track/3THXntC8T110BDg3X8OaOf"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "Green Rocky Road",
+        "url": "https://open.spotify.com/album/3Mk2rCfx4ywDJ5sg5C0jk8"
+      },
+      "artists": [
+        {
+          "name": "Bria",
+          "url": "https://open.spotify.com/artist/7f71lxhHip9KvlOVpwtWm3"
+        }
+      ],
+      "duration_ms": 201985,
+      "name": "Green Rocky Road",
+      "url": "https://open.spotify.com/track/62VuzDNl5RZIlhzs0XDQzY"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "The Happiest Times I Ever Ignored",
-        "url": "https://open.spotify.com/album/11XMyarEmUmkEW1FabtEi9"
-      },
-      "artists": [
-        {
-          "name": "Hayden Pedigo",
-          "url": "https://open.spotify.com/artist/4OR0gbDLGgJ4fxoXB0ZCYZ"
-        }
-      ],
-      "duration_ms": 318000,
-      "name": "Looking at the Fish",
-      "url": "https://open.spotify.com/track/6nsCfDkYAVHvd3ZmqYhUaP"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "Southern Gentleman",
         "url": "https://open.spotify.com/album/6ZRbVOgb2dPQRDCnXNerZp"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 200986,
       "name": "Wherever You Go",
       "url": "https://open.spotify.com/track/0blkm16pwu9wnnNLoHb3nM"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "The Happiest Times I Ever Ignored",
+        "url": "https://open.spotify.com/album/11XMyarEmUmkEW1FabtEi9"
+      },
+      "artists": [
+        {
+          "name": "Hayden Pedigo",
+          "url": "https://open.spotify.com/artist/4OR0gbDLGgJ4fxoXB0ZCYZ"
+        }
+      ],
+      "duration_ms": 318000,
+      "name": "Looking at the Fish",
+      "url": "https://open.spotify.com/track/6nsCfDkYAVHvd3ZmqYhUaP"
     },
     {
       "added_at": "2023-10-27 04:00:00",

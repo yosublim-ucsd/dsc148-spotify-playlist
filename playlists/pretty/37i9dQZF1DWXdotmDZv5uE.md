@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXdotmDZv5uE.md) - [plain]
 
 > ¡Lleva el folclore de México a donde sea!
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,678 likes - 100 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,692 likes - 100 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXdotmDZv5uE.md) - [plain]
 | 46 | [El fandanguito \- The Little Fandango](https://open.spotify.com/track/3FbSCMcmNiwoDgv3oLSkIG) | [Los Camperos de Valles](https://open.spotify.com/artist/5wkjb5Vn4MeMj8rGI0SraE) | [El ave de mi soñar: Mexican Sones Huastecos](https://open.spotify.com/album/7tdP8HWoKaV5v3gjA4aTmk) | 3:18 |
 | 47 | [Chapultepec](https://open.spotify.com/track/14jYjGfprvRyvSBq13pAn9) | [Salterio y Quinteto de Antaño](https://open.spotify.com/artist/2g7uqSdLoBuzN2MAiHlfGQ) | [La Belle Epoque](https://open.spotify.com/album/6yfkDfG0OCtjIVVgjSx03g) | 2:32 |
 | 48 | [Sobre Las Olas](https://open.spotify.com/track/6ln87FGFhW5ZSrqQu70b3L) | [Juventino Rosas](https://open.spotify.com/artist/07KnR00fN51QEaiiSKPMWt), [Anabel Medrano](https://open.spotify.com/artist/4kyT6BkRnlPf8pBAk5X1AR), [Ensamble Centenario](https://open.spotify.com/artist/35xQxv2nFAmbbkHKGkizto) | [Música Mexicana de Salón Con Salterio: Finales del Siglo Xix y Principios del Siglo Xx](https://open.spotify.com/album/0NIeTPc7wQYpjgX0ZGodeZ) | 5:31 |
-| 49 | [Candela / Morena](https://open.spotify.com/track/68WB8EIHWyQEWOSyqujGPi) | [Pa' Sumecha](https://open.spotify.com/artist/5Mk2GwwJut38y1BxxfDyka) | [Son Jarocho](https://open.spotify.com/album/7aqWHL1L3LpcVwH9AZfJQu) | 9:55 |
-| 50 | [Camotal](https://open.spotify.com/track/4s7qx83G1CKhSHCcnHV0lC) | [Los Cojolites](https://open.spotify.com/artist/6SFpEAywC3u4kjE00wHMoO) | [Sembrando Flores](https://open.spotify.com/album/2L4pDxKqvwuJ6mr03Kc1I8) | 5:21 |
+| 49 | [Camotal](https://open.spotify.com/track/4s7qx83G1CKhSHCcnHV0lC) | [Los Cojolites](https://open.spotify.com/artist/6SFpEAywC3u4kjE00wHMoO) | [Sembrando Flores](https://open.spotify.com/album/2L4pDxKqvwuJ6mr03Kc1I8) | 5:21 |
+| 50 | [Candela / Morena](https://open.spotify.com/track/68WB8EIHWyQEWOSyqujGPi) | [Pa' Sumecha](https://open.spotify.com/artist/5Mk2GwwJut38y1BxxfDyka) | [Son Jarocho](https://open.spotify.com/album/7aqWHL1L3LpcVwH9AZfJQu) | 9:55 |
 | 51 | [El chuchumbe](https://open.spotify.com/track/1rS8jSEd7TuEeJVf8USMRW) | [Grupo Mono Blanco Y Stone Lips](https://open.spotify.com/artist/3z2qTdU8yUeUZWAgtbTqgu) | [Grupo Mono Blanco Y Stone Lips: El Mundo Se Va A Acabar](https://open.spotify.com/album/3lhBjWndaNcIej2AJW57Vz) | 3:28 |
 | 52 | [La Malagueña](https://open.spotify.com/track/3pXLPRQOIoIovJKNO2Ksf4) | [Aida Cuevas](https://open.spotify.com/artist/5BOm3jiZCxwCXXJ0Hstubr) | [Huapangos](https://open.spotify.com/album/5Z6tcNwry8ZIu1uDOdmRYZ) | 3:47 |
 | 53 | [La Iguana](https://open.spotify.com/track/1w1Ymv3ICnMEXWgmHMZafH) | [Chuchumbé](https://open.spotify.com/artist/6ASRzKH8Qng1IKTkNvYDEB) | [¡caramba Niño!](https://open.spotify.com/album/37UxRdiQJKRefqLLcLqJWC) | 3:56 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXdotmDZv5uE.md) - [plain]
 | 99 | [La Virgen de la Macarena](https://open.spotify.com/track/0NgGwoMrsVIYEfU1P2G9qL) | [Mariachi Azteca](https://open.spotify.com/artist/2uQSnz6JKQynX8x4BigTTW) | [Mariachi from Mexico](https://open.spotify.com/album/37XAmBpj05Ohmoql3AFiMM) | 3:51 |
 | 100 | [La Bamba](https://open.spotify.com/track/1oDbPrTemDs4joED2sUEJP) | [Trio Azteca](https://open.spotify.com/artist/2TQbB9wIlP0BRpwdUBq0dY) | [The Best of Mexico](https://open.spotify.com/album/53ovjfvOTKp9wfeI0J35TM) | 2:47 |
 
-Snapshot ID: `MCxlNGJlZjczMWJlYjI3ODMyYzY1OTc3NTE1NjVlNjU1MWRkMzRhYjkw`
+Snapshot ID: `MCwzZTg3NTA2NDYyNmU3NjU2NzVjNTdiZWZkZjUyODE0ZDcwN2U2NzY3`

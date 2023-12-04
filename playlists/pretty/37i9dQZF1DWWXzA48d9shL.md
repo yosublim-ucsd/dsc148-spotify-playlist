@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXzA48d9shL.md) - [plain]
 
 > Rap from hell\. Cover: $uicideboy$
 
-[Spotify](https://open.spotify.com/user/spotify) - 557,032 likes - 119 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 557,160 likes - 119 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -128,4 +128,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXzA48d9shL.md) - [plain]
 | 118 | [ÅÅÅFRESTELSE](https://open.spotify.com/track/2Rwcxnc8f1oyaxBvvX5TJf) | [Killstation](https://open.spotify.com/artist/0zPILh9oEH0fDagpkHTQQ8) | [ÅÅÅFRESTELSE](https://open.spotify.com/album/0pSR4oL8sKE2ZriOo35tJR) | 2:22 |
 | 119 | [MONEY POWER FAME](https://open.spotify.com/track/4EsaTQDXDnD9hsKUjqtSK1) | [Lil Darkie](https://open.spotify.com/artist/62F9BiUmjqeXbBztCwiX1U) | [MONEY POWER FAME](https://open.spotify.com/album/3X3p3ZZ7VnV5JYwtfHUVQy) | 3:04 |
 
-Snapshot ID: `MCxmNmMzMmFlZWZhZDQxY2JhOTNjMjNlZGE5YmEyYThhOTBiMjcyMzAz`
+Snapshot ID: `MCw1YjJlOTZkNjYyNzdiYzc0NjliYTU2MTY0ZTk5ZWE3ZmMxMmFiMmM1`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxStm5ni6tl.md) - [plain]
 
 > Top 50 tracks from Fresh Finds Canada in 2023\. Cover: Anaïs Cardot
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,740 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,780 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxStm5ni6tl.md) - [plain]
 | 49 | [Waiting](https://open.spotify.com/track/7w4uX9NWrXpN4MQm8Nm1c2) | [jjad](https://open.spotify.com/artist/245muEmgdPNuYVuvtnykJF) | [Waiting](https://open.spotify.com/album/2ky7NQoD7VzN92siA9r3xJ) | 3:11 |
 | 50 | [Rosé](https://open.spotify.com/track/6xGagAOYdYmSZrBRIDoREc) | [Täbï Yösha](https://open.spotify.com/artist/7mFQZ0JDq4jMjWXGyaU8EO), [KNLO](https://open.spotify.com/artist/56zW5cgHbn3F88lDBF6wAV), [suiker](https://open.spotify.com/artist/3UZSNnTycoiDTXY72xLV14) | [Rosé](https://open.spotify.com/album/2US1trwBIEqtNCzH7myt6u) | 2:36 |
 
-Snapshot ID: `MCw0YThhYzk3ZTQzN2E0YmNhMTg0NjI1ZTM1MzUyNGI4NTU1OTY0ZDEz`
+Snapshot ID: `MCw0Yjk3NDk5OGY1ZDM5ZDk5YjFkNDkyYjFmM2I1YzM4ZGYwZmRhMzU2`

@@ -1,12 +1,12 @@
 {
   "description": "the best of the deep end. cover: Prinz",
-  "num_followers": 90218,
+  "num_followers": 90231,
   "original_name": "lofi rap",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkYTkwNzg0MzA0NjkyODhlZWQyZmI4MjRhNTQxODcwMzFjYTc5NmI0",
+  "snapshot_id": "MCwzNDliYWIzN2UyOWVkOGM3YjI1NmY5MjhhZDBjNmVkYjQxOWVlZjRh",
   "tracks": [
     {
       "added_at": "2023-08-01 17:14:44",
@@ -771,22 +771,6 @@
     {
       "added_at": "2023-08-01 17:14:44",
       "album": {
-        "name": "5 AM",
-        "url": "https://open.spotify.com/album/0xySLyC4aVMfDdrbp8hpiy"
-      },
-      "artists": [
-        {
-          "name": "AMB",
-          "url": "https://open.spotify.com/artist/75m92kcvwKBpXtBnqrJiB7"
-        }
-      ],
-      "duration_ms": 96086,
-      "name": "5 AM",
-      "url": "https://open.spotify.com/track/3zBKOSfhbTQf25e5gyonsr"
-    },
-    {
-      "added_at": "2023-08-01 17:14:44",
-      "album": {
         "name": "Broken Hearted Crook",
         "url": "https://open.spotify.com/album/6FxWacdUVFgdyDjbuRxTFR"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 168135,
       "name": "Broken Hearted Crook",
       "url": "https://open.spotify.com/track/60clenfS2gkpTwndV2a8Cv"
+    },
+    {
+      "added_at": "2023-08-01 17:14:44",
+      "album": {
+        "name": "5 AM",
+        "url": "https://open.spotify.com/album/0xySLyC4aVMfDdrbp8hpiy"
+      },
+      "artists": [
+        {
+          "name": "AMB",
+          "url": "https://open.spotify.com/artist/75m92kcvwKBpXtBnqrJiB7"
+        }
+      ],
+      "duration_ms": 96086,
+      "name": "5 AM",
+      "url": "https://open.spotify.com/track/3zBKOSfhbTQf25e5gyonsr"
     },
     {
       "added_at": "2023-08-01 17:14:44",

@@ -1,12 +1,12 @@
 {
   "description": "Deep House speaks to the soul. Get revived with some of the best Deep House South Africa has to offer.",
-  "num_followers": 36173,
+  "num_followers": 36338,
   "original_name": "Deep House Session",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNTNhOTA0NzkwMTQ5NTMwMmU2MWNkYjgxMDI0NjgxMWFkYzI4ZTk0",
+  "snapshot_id": "MCwzYjUyYTFlMzFmNGY1M2JjMTYwOGYwNWZjM2Y3MmEzMWMzY2ZlOTMx",
   "tracks": [
     {
       "added_at": "2023-11-23 23:00:00",
@@ -527,30 +527,6 @@
     {
       "added_at": "2023-11-23 23:00:00",
       "album": {
-        "name": "Mend It / Your Eyes Remixes",
-        "url": "https://open.spotify.com/album/12AR6R2HH1hFw6sMtCL1aL"
-      },
-      "artists": [
-        {
-          "name": "Lazarusman",
-          "url": "https://open.spotify.com/artist/4Sh3sUk5Pq69gqPHT89aCc"
-        },
-        {
-          "name": "Fka Mash",
-          "url": "https://open.spotify.com/artist/6tooLez7Cq2bgY60m3TJMq"
-        },
-        {
-          "name": "Stimming",
-          "url": "https://open.spotify.com/artist/2yPveJtn9DpeN0CgNJHvAQ"
-        }
-      ],
-      "duration_ms": 518599,
-      "name": "Mend It - Stimming Remix",
-      "url": "https://open.spotify.com/track/3Auy3Rv9bSYzj3sSMwNFAq"
-    },
-    {
-      "added_at": "2023-11-23 23:00:00",
-      "album": {
         "name": "Confident (feat. Kali Mija)",
         "url": "https://open.spotify.com/album/0s5sUEzHMd8BGP46oCA2ck"
       },
@@ -591,6 +567,30 @@
     {
       "added_at": "2023-11-23 23:00:00",
       "album": {
+        "name": "Mend It / Your Eyes Remixes",
+        "url": "https://open.spotify.com/album/12AR6R2HH1hFw6sMtCL1aL"
+      },
+      "artists": [
+        {
+          "name": "Lazarusman",
+          "url": "https://open.spotify.com/artist/4Sh3sUk5Pq69gqPHT89aCc"
+        },
+        {
+          "name": "Fka Mash",
+          "url": "https://open.spotify.com/artist/6tooLez7Cq2bgY60m3TJMq"
+        },
+        {
+          "name": "Stimming",
+          "url": "https://open.spotify.com/artist/2yPveJtn9DpeN0CgNJHvAQ"
+        }
+      ],
+      "duration_ms": 518599,
+      "name": "Mend It - Stimming Remix",
+      "url": "https://open.spotify.com/track/3Auy3Rv9bSYzj3sSMwNFAq"
+    },
+    {
+      "added_at": "2023-11-23 23:00:00",
+      "album": {
         "name": "See the Light",
         "url": "https://open.spotify.com/album/4tK8aWdruyxD2H472JnryA"
       },
@@ -611,6 +611,22 @@
     {
       "added_at": "2023-11-23 23:00:00",
       "album": {
+        "name": "Dafrotone",
+        "url": "https://open.spotify.com/album/5zNeFm1L1C6UALDQqnRg9N"
+      },
+      "artists": [
+        {
+          "name": "Dafro",
+          "url": "https://open.spotify.com/artist/6gNmmm0Dyt4geB8W2Z4VXL"
+        }
+      ],
+      "duration_ms": 453453,
+      "name": "Four Lessons",
+      "url": "https://open.spotify.com/track/3RGbg9ENcRIYFGXpzLr8Xe"
+    },
+    {
+      "added_at": "2023-11-23 23:00:00",
+      "album": {
         "name": "NEO",
         "url": "https://open.spotify.com/album/5rW8PA2FAgoeOHOsO07986"
       },
@@ -627,22 +643,6 @@
       "duration_ms": 436551,
       "name": "Vertigo",
       "url": "https://open.spotify.com/track/2ilBcYA2BTCaEz4a26h683"
-    },
-    {
-      "added_at": "2023-11-23 23:00:00",
-      "album": {
-        "name": "Dafrotone",
-        "url": "https://open.spotify.com/album/5zNeFm1L1C6UALDQqnRg9N"
-      },
-      "artists": [
-        {
-          "name": "Dafro",
-          "url": "https://open.spotify.com/artist/6gNmmm0Dyt4geB8W2Z4VXL"
-        }
-      ],
-      "duration_ms": 453453,
-      "name": "Four Lessons",
-      "url": "https://open.spotify.com/track/3RGbg9ENcRIYFGXpzLr8Xe"
     },
     {
       "added_at": "2023-11-23 23:00:00",
@@ -767,46 +767,6 @@
     {
       "added_at": "2023-11-23 23:00:00",
       "album": {
-        "name": "Dark Snow",
-        "url": "https://open.spotify.com/album/5AfN5Q8rmWE5XZ8fUxJUlV"
-      },
-      "artists": [
-        {
-          "name": "The Rudeman",
-          "url": "https://open.spotify.com/artist/4Dqd0M9FVObaErF14Tgj2z"
-        },
-        {
-          "name": "Keegs Bantom",
-          "url": "https://open.spotify.com/artist/1XgMCVnnBJvz7djvk86Ry6"
-        },
-        {
-          "name": "Bones",
-          "url": "https://open.spotify.com/artist/40Vr9VUq5tVrKOOsd68ojn"
-        }
-      ],
-      "duration_ms": 367124,
-      "name": "Dark Snow - Bones Remix",
-      "url": "https://open.spotify.com/track/7ss7beYi753Sxs0fvvtC7T"
-    },
-    {
-      "added_at": "2023-11-23 23:00:00",
-      "album": {
-        "name": "Artform",
-        "url": "https://open.spotify.com/album/0rLy843gi8BhO75dqJvIq5"
-      },
-      "artists": [
-        {
-          "name": "Kek'star",
-          "url": "https://open.spotify.com/artist/7lgauJ5ZMIIwrJwvUvrWC4"
-        }
-      ],
-      "duration_ms": 459731,
-      "name": "Flute Activation - Original Mix",
-      "url": "https://open.spotify.com/track/1NZPhhTvwYalEzospkigPU"
-    },
-    {
-      "added_at": "2023-11-23 23:00:00",
-      "album": {
         "name": "Joyful Music, Vol. 1 (Compiled)",
         "url": "https://open.spotify.com/album/4SfwaD4bORjDeWzgSsLZEV"
       },
@@ -827,6 +787,46 @@
       "duration_ms": 413910,
       "name": "Nelisiwe",
       "url": "https://open.spotify.com/track/3U6BBph9aD1YhekBl1dUZT"
+    },
+    {
+      "added_at": "2023-11-23 23:00:00",
+      "album": {
+        "name": "Artform",
+        "url": "https://open.spotify.com/album/0rLy843gi8BhO75dqJvIq5"
+      },
+      "artists": [
+        {
+          "name": "Kek'star",
+          "url": "https://open.spotify.com/artist/7lgauJ5ZMIIwrJwvUvrWC4"
+        }
+      ],
+      "duration_ms": 459731,
+      "name": "Flute Activation - Original Mix",
+      "url": "https://open.spotify.com/track/1NZPhhTvwYalEzospkigPU"
+    },
+    {
+      "added_at": "2023-11-23 23:00:00",
+      "album": {
+        "name": "Dark Snow",
+        "url": "https://open.spotify.com/album/5AfN5Q8rmWE5XZ8fUxJUlV"
+      },
+      "artists": [
+        {
+          "name": "The Rudeman",
+          "url": "https://open.spotify.com/artist/4Dqd0M9FVObaErF14Tgj2z"
+        },
+        {
+          "name": "Keegs Bantom",
+          "url": "https://open.spotify.com/artist/1XgMCVnnBJvz7djvk86Ry6"
+        },
+        {
+          "name": "Bones",
+          "url": "https://open.spotify.com/artist/40Vr9VUq5tVrKOOsd68ojn"
+        }
+      ],
+      "duration_ms": 367124,
+      "name": "Dark Snow - Bones Remix",
+      "url": "https://open.spotify.com/track/7ss7beYi753Sxs0fvvtC7T"
     },
     {
       "added_at": "2023-11-23 23:00:00",
@@ -931,22 +931,6 @@
     {
       "added_at": "2023-11-23 23:00:00",
       "album": {
-        "name": "Dusty Streets",
-        "url": "https://open.spotify.com/album/0FzV8GEZEzQKoR3OA6Osf6"
-      },
-      "artists": [
-        {
-          "name": "Eddvin",
-          "url": "https://open.spotify.com/artist/4RzjxbWhQF6a1X922nntRq"
-        }
-      ],
-      "duration_ms": 386525,
-      "name": "Dusty Streets",
-      "url": "https://open.spotify.com/track/0vrMIwW4ldO73eRMJAR10q"
-    },
-    {
-      "added_at": "2023-11-23 23:00:00",
-      "album": {
         "name": "Gambiando Caras",
         "url": "https://open.spotify.com/album/34Z2Yz8YHzjvFZGqxr5RzG"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 435179,
       "name": "Gambiando Caras",
       "url": "https://open.spotify.com/track/4YNgFSOwvgYuiaDv15kiGL"
+    },
+    {
+      "added_at": "2023-11-23 23:00:00",
+      "album": {
+        "name": "Dusty Streets",
+        "url": "https://open.spotify.com/album/0FzV8GEZEzQKoR3OA6Osf6"
+      },
+      "artists": [
+        {
+          "name": "Eddvin",
+          "url": "https://open.spotify.com/artist/4RzjxbWhQF6a1X922nntRq"
+        }
+      ],
+      "duration_ms": 386525,
+      "name": "Dusty Streets",
+      "url": "https://open.spotify.com/track/0vrMIwW4ldO73eRMJAR10q"
     }
   ],
   "unique_name": "Deep House Session",

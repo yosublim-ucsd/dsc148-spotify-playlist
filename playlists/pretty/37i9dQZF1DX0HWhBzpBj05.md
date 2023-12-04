@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0HWhBzpBj05.md) - [plain]
 
 > Spread some cheer with this list of new and old seasonal favorites\. Cover: Brenda Lee
 
-[Spotify](https://open.spotify.com/user/spotify) - 327,045 likes - 78 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 327,464 likes - 78 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,4 +87,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0HWhBzpBj05.md) - [plain]
 | 77 | [Merry Christmas Baby](https://open.spotify.com/track/4STCTQ1h0VuWfvDyhGOxkv) | [Otis Redding](https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm) | [Merry Christmas Baby / White Christmas](https://open.spotify.com/album/004EYz2DQttcGvyTQGDmLp) | 2:35 |
 | 78 | [The Chipmunk Song \(Christmas Don't Be Late\) \- Remastered 1999](https://open.spotify.com/track/02NKMA9cIkq6VuBNu9q9Wf) | [Alvin & The Chipmunks](https://open.spotify.com/artist/1SCWcYnoEh1978ycTDhZoW), [David Seville](https://open.spotify.com/artist/4NI5R1DbX27ODY5JTqnv2l) | [Christmas With The Chipmunks \(2010\)](https://open.spotify.com/album/3X7elwYMwXz3flSYNtSfHQ) | 2:21 |
 
-Snapshot ID: `MCw1Y2U1M2RhOTJjNjFlYjIyNjRiMWUyNDg1ZjZjZDMxNDdmMWYwNmE5`
+Snapshot ID: `MCwyNDVkMGNiMzY1MTQ3ZTdiMWY4ZjUyYTc0NmRkZmE1ZTQ3ZWFkNWY3`

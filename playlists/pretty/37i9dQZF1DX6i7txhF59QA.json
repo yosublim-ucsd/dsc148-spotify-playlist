@@ -1,12 +1,12 @@
 {
   "description": "Let's party with cheerful Korean trot medley. Cover: Kim So Yeon(\uae40\uc18c\uc5f0) (\uc2e0\ub098\ub294 \ud2b8\ub85c\ud2b8 \uba5c\ub85c\ub514\ub97c \uc990\uaca8\ubcf4\uc138\uc694!)",
-  "num_followers": 21612,
+  "num_followers": 21625,
   "original_name": "K-Trot Stars",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNmMwMGRhNDVjZWYyYmU2ODI2Y2U1MzcwZjE4Zjg5ZGNhMTJlNTRh",
+  "snapshot_id": "MCw4ZWViYThiYTRlMDBiNTk0MjI5NWY5NzgwOTM4YzI5Mjc2M2E2MDA1",
   "tracks": [
     {
       "added_at": "2023-11-21 02:00:42",
@@ -771,22 +771,6 @@
     {
       "added_at": "2023-11-21 02:00:42",
       "album": {
-        "name": "\ud55c\uc794\ud574",
-        "url": "https://open.spotify.com/album/0tYyIhabxVv2VMT5H3dP4q"
-      },
-      "artists": [
-        {
-          "name": "\ubc15\uad70",
-          "url": "https://open.spotify.com/artist/3Fe5DbLAhIho2Gdc3xr6BC"
-        }
-      ],
-      "duration_ms": 199353,
-      "name": "\ud55c\uc794\ud574",
-      "url": "https://open.spotify.com/track/3RzXaAgfDWmPb3QsJY3uzW"
-    },
-    {
-      "added_at": "2023-11-21 02:00:42",
-      "album": {
         "name": "MAN",
         "url": "https://open.spotify.com/album/68jEx6JgTi7la2zvPCUenu"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 191960,
       "name": "A Real Man",
       "url": "https://open.spotify.com/track/7E2zRN1q4C0hN3ldjiDaEj"
+    },
+    {
+      "added_at": "2023-11-21 02:00:42",
+      "album": {
+        "name": "\ud55c\uc794\ud574",
+        "url": "https://open.spotify.com/album/0tYyIhabxVv2VMT5H3dP4q"
+      },
+      "artists": [
+        {
+          "name": "\ubc15\uad70",
+          "url": "https://open.spotify.com/artist/3Fe5DbLAhIho2Gdc3xr6BC"
+        }
+      ],
+      "duration_ms": 199353,
+      "name": "\ud55c\uc794\ud574",
+      "url": "https://open.spotify.com/track/3RzXaAgfDWmPb3QsJY3uzW"
     },
     {
       "added_at": "2023-11-21 02:00:42",
@@ -907,6 +907,22 @@
     {
       "added_at": "2023-11-21 02:00:42",
       "album": {
+        "name": "Music source of Mr.Trot FINAL BEST",
+        "url": "https://open.spotify.com/album/0a0OP2lSNZKyiH8nsQ92bk"
+      },
+      "artists": [
+        {
+          "name": "Jeong Dong Won",
+          "url": "https://open.spotify.com/artist/7fB8Qn00ToFmUY3mAJJSki"
+        }
+      ],
+      "duration_ms": 272840,
+      "name": "White space",
+      "url": "https://open.spotify.com/track/2bquds3iXdFCEdb1BOJp1D"
+    },
+    {
+      "added_at": "2023-11-21 02:00:42",
+      "album": {
         "name": "\uc544\uac00\uc57c",
         "url": "https://open.spotify.com/album/19tLKQbYGavXuxrl1n4XJP"
       },
@@ -919,22 +935,6 @@
       "duration_ms": 223320,
       "name": "\uc544\uac00\uc57c",
       "url": "https://open.spotify.com/track/2XuOuqNFJpchRK8fk4JX5A"
-    },
-    {
-      "added_at": "2023-11-21 02:00:42",
-      "album": {
-        "name": "Love call center PART12",
-        "url": "https://open.spotify.com/album/7vdNO3BqQGSSFXkA9ryB9H"
-      },
-      "artists": [
-        {
-          "name": "Kim Heejae",
-          "url": "https://open.spotify.com/artist/02mf5BLKtAfIkAKozHPmU5"
-        }
-      ],
-      "duration_ms": 188693,
-      "name": "Maria",
-      "url": "https://open.spotify.com/track/3zC2aZKFM0syGLz92BMaeL"
     },
     {
       "added_at": "2023-11-21 02:00:42",
@@ -975,34 +975,34 @@
     {
       "added_at": "2023-11-21 02:00:42",
       "album": {
-        "name": "Music source of Mr.Trot FINAL BEST",
-        "url": "https://open.spotify.com/album/0a0OP2lSNZKyiH8nsQ92bk"
+        "name": "Love call center PART12",
+        "url": "https://open.spotify.com/album/7vdNO3BqQGSSFXkA9ryB9H"
       },
       "artists": [
         {
-          "name": "Jeong Dong Won",
-          "url": "https://open.spotify.com/artist/7fB8Qn00ToFmUY3mAJJSki"
+          "name": "Kim Heejae",
+          "url": "https://open.spotify.com/artist/02mf5BLKtAfIkAKozHPmU5"
         }
       ],
-      "duration_ms": 272840,
-      "name": "White space",
-      "url": "https://open.spotify.com/track/2bquds3iXdFCEdb1BOJp1D"
+      "duration_ms": 188693,
+      "name": "Maria",
+      "url": "https://open.spotify.com/track/3zC2aZKFM0syGLz92BMaeL"
     },
     {
       "added_at": "2023-11-21 02:00:42",
       "album": {
-        "name": "Super Five - All Eyes on Me",
-        "url": "https://open.spotify.com/album/48DWqOQe4lg5UnZdSOiBHN"
+        "name": "\uc6b0\ub9ac\u5bb6",
+        "url": "https://open.spotify.com/album/3mUM8eFah712mh4MUdDx7w"
       },
       "artists": [
         {
-          "name": "Super Five",
-          "url": "https://open.spotify.com/artist/38SpwrdX8Ks7qgaj4F8tSk"
+          "name": "KIM HOJOONG",
+          "url": "https://open.spotify.com/artist/4T9AuhR3YqSqaPgXzPiAuH"
         }
       ],
-      "duration_ms": 226426,
-      "name": "\uc2dc\uc120\uace0\uc815",
-      "url": "https://open.spotify.com/track/3o4MhvxzXyoPl1XaXNdrkq"
+      "duration_ms": 251173,
+      "name": "\ub098\ubcf4\ub2e4 \ub354 \uc0ac\ub791\ud574\uc694",
+      "url": "https://open.spotify.com/track/4aOozUyHI6r5LauMX6TtUw"
     },
     {
       "added_at": "2023-11-21 02:00:42",
@@ -1023,18 +1023,18 @@
     {
       "added_at": "2023-11-21 02:00:42",
       "album": {
-        "name": "\uc6b0\ub9ac\u5bb6",
-        "url": "https://open.spotify.com/album/3mUM8eFah712mh4MUdDx7w"
+        "name": "Super Five - All Eyes on Me",
+        "url": "https://open.spotify.com/album/48DWqOQe4lg5UnZdSOiBHN"
       },
       "artists": [
         {
-          "name": "KIM HOJOONG",
-          "url": "https://open.spotify.com/artist/4T9AuhR3YqSqaPgXzPiAuH"
+          "name": "Super Five",
+          "url": "https://open.spotify.com/artist/38SpwrdX8Ks7qgaj4F8tSk"
         }
       ],
-      "duration_ms": 251173,
-      "name": "\ub098\ubcf4\ub2e4 \ub354 \uc0ac\ub791\ud574\uc694",
-      "url": "https://open.spotify.com/track/4aOozUyHI6r5LauMX6TtUw"
+      "duration_ms": 226426,
+      "name": "\uc2dc\uc120\uace0\uc815",
+      "url": "https://open.spotify.com/track/3o4MhvxzXyoPl1XaXNdrkq"
     },
     {
       "added_at": "2023-11-21 02:00:42",
@@ -1131,6 +1131,22 @@
       "duration_ms": 198680,
       "name": "Face off",
       "url": "https://open.spotify.com/track/6iJnWbreyP8SymfLDEX7AR"
+    },
+    {
+      "added_at": "2023-11-21 02:00:42",
+      "album": {
+        "name": "\ud2b8\ub85c\ud2b8 \uc5ec\uc778 1, 2",
+        "url": "https://open.spotify.com/album/3sEDwOKMX6sMOn2iP9H4Hk"
+      },
+      "artists": [
+        {
+          "name": "\uc774\uc218\uc9c4",
+          "url": "https://open.spotify.com/artist/6hiE7snEBARzwmjdzjoggP"
+        }
+      ],
+      "duration_ms": 156356,
+      "name": "\ubaa9\uacc4\ub098\ub8e8",
+      "url": "https://open.spotify.com/track/4kMFwlv0Njwnakcy473jw3"
     },
     {
       "added_at": "2023-11-21 02:00:42",
@@ -1247,22 +1263,6 @@
     {
       "added_at": "2023-11-21 02:00:42",
       "album": {
-        "name": "Super Five - Hello",
-        "url": "https://open.spotify.com/album/0gXiN3TJJ7wHlCmc2KvDsk"
-      },
-      "artists": [
-        {
-          "name": "Super Five",
-          "url": "https://open.spotify.com/artist/38SpwrdX8Ks7qgaj4F8tSk"
-        }
-      ],
-      "duration_ms": 201573,
-      "name": "\uc798 \ub420 \uac70\uc57c",
-      "url": "https://open.spotify.com/track/1gd0lmgYBXOV9PUGP1STYu"
-    },
-    {
-      "added_at": "2023-11-21 02:00:42",
-      "album": {
         "name": "Love call center PART6",
         "url": "https://open.spotify.com/album/13HpqMqyjzlWI8lfNWxHUh"
       },
@@ -1275,6 +1275,22 @@
       "duration_ms": 193133,
       "name": "Camellia lady",
       "url": "https://open.spotify.com/track/4EouVirDNRZXKNSjQu1OSq"
+    },
+    {
+      "added_at": "2023-11-21 02:00:42",
+      "album": {
+        "name": "pr\u00e9paration(\uc058\ub808\ube60\ub77c\uc528\uc6a9)",
+        "url": "https://open.spotify.com/album/2KvIlDKa8i56qe2tKGEQ20"
+      },
+      "artists": [
+        {
+          "name": "Jang Yoon-Jeong",
+          "url": "https://open.spotify.com/artist/1zeaekWal9sG8T6INxaeQM"
+        }
+      ],
+      "duration_ms": 198586,
+      "name": "\uc5ec\uc790\uc608\uc694",
+      "url": "https://open.spotify.com/track/7fAVgSWyatO93M3o6FvmlQ"
     },
     {
       "added_at": "2023-11-21 02:00:42",
@@ -1303,18 +1319,18 @@
     {
       "added_at": "2023-11-21 02:00:42",
       "album": {
-        "name": "pr\u00e9paration(\uc058\ub808\ube60\ub77c\uc528\uc6a9)",
-        "url": "https://open.spotify.com/album/2KvIlDKa8i56qe2tKGEQ20"
+        "name": "Super Five - Hello",
+        "url": "https://open.spotify.com/album/0gXiN3TJJ7wHlCmc2KvDsk"
       },
       "artists": [
         {
-          "name": "Jang Yoon-Jeong",
-          "url": "https://open.spotify.com/artist/1zeaekWal9sG8T6INxaeQM"
+          "name": "Super Five",
+          "url": "https://open.spotify.com/artist/38SpwrdX8Ks7qgaj4F8tSk"
         }
       ],
-      "duration_ms": 198586,
-      "name": "\uc5ec\uc790\uc608\uc694",
-      "url": "https://open.spotify.com/track/7fAVgSWyatO93M3o6FvmlQ"
+      "duration_ms": 201573,
+      "name": "\uc798 \ub420 \uac70\uc57c",
+      "url": "https://open.spotify.com/track/1gd0lmgYBXOV9PUGP1STYu"
     },
     {
       "added_at": "2023-11-21 02:00:42",
@@ -1387,22 +1403,6 @@
     {
       "added_at": "2023-11-21 02:00:42",
       "album": {
-        "name": "2023 Song Ga In Best & Live",
-        "url": "https://open.spotify.com/album/2nmo7UyArrfpvAz2Gj9uwn"
-      },
-      "artists": [
-        {
-          "name": "Song Ga In",
-          "url": "https://open.spotify.com/artist/5t5zmsIdTDRqDeI17tilpd"
-        }
-      ],
-      "duration_ms": 198133,
-      "name": "Mountain Chillgap - Live Version",
-      "url": "https://open.spotify.com/track/1l2quEhr9ydg3aNMMOIBXD"
-    },
-    {
-      "added_at": "2023-11-21 02:00:42",
-      "album": {
         "name": "\ud314\ub3c4\uad00\uad11 \ub514\uc2a4\ucf54 1,2",
         "url": "https://open.spotify.com/album/1TQNNydhTmdR1R1dkTw8rR"
       },
@@ -1431,6 +1431,38 @@
       "duration_ms": 251133,
       "name": "\ub9cc\uac1c (prod. \uc2e0\uc9c0\ud6c4)",
       "url": "https://open.spotify.com/track/2hXsVNMyojuFYcTiF8nhGa"
+    },
+    {
+      "added_at": "2023-11-21 02:00:42",
+      "album": {
+        "name": "MISS TROT2 PRELIMINARY BEST PART1",
+        "url": "https://open.spotify.com/album/3WBSmNsFrRZSV1PsvOHbaU"
+      },
+      "artists": [
+        {
+          "name": "Hyeyeon Kang",
+          "url": "https://open.spotify.com/artist/4hW9QstyUJL1ZcnxT248kN"
+        }
+      ],
+      "duration_ms": 143133,
+      "name": "I am a fool",
+      "url": "https://open.spotify.com/track/6rRGeZZrlXPaOJ4yvMdqqt"
+    },
+    {
+      "added_at": "2023-11-21 02:00:42",
+      "album": {
+        "name": "2023 Song Ga In Best & Live",
+        "url": "https://open.spotify.com/album/2nmo7UyArrfpvAz2Gj9uwn"
+      },
+      "artists": [
+        {
+          "name": "Song Ga In",
+          "url": "https://open.spotify.com/artist/5t5zmsIdTDRqDeI17tilpd"
+        }
+      ],
+      "duration_ms": 198133,
+      "name": "Mountain Chillgap - Live Version",
+      "url": "https://open.spotify.com/track/1l2quEhr9ydg3aNMMOIBXD"
     },
     {
       "added_at": "2023-11-21 02:00:42",
@@ -1467,6 +1499,22 @@
     {
       "added_at": "2023-11-21 02:00:42",
       "album": {
+        "name": "\uad6d\uac00\ub300\ud45c \uc640\uc774\ud504 (Original Television Soundtrack) Pt. 3",
+        "url": "https://open.spotify.com/album/1MsabixkQ4Xea4CfLst1ft"
+      },
+      "artists": [
+        {
+          "name": "\ubc15\uc11c\uc9c4",
+          "url": "https://open.spotify.com/artist/2xgEz0ywY5BONyBfzW47oQ"
+        }
+      ],
+      "duration_ms": 170320,
+      "name": "\ud798\ub0b4\ub77c \uc778\uc0dd",
+      "url": "https://open.spotify.com/track/7sqrP9sf2g4d56csMcwwU2"
+    },
+    {
+      "added_at": "2023-11-21 02:00:42",
+      "album": {
         "name": "Best of Mr. Trot Preliminary",
         "url": "https://open.spotify.com/album/22SUPxLxO7DUsKnf0b4qAb"
       },
@@ -1479,6 +1527,22 @@
       "duration_ms": 154680,
       "name": "Turn",
       "url": "https://open.spotify.com/track/7nx7ExJ2PUYEBZ05atB5aq"
+    },
+    {
+      "added_at": "2023-11-21 02:00:42",
+      "album": {
+        "name": "MISS TROT2 PRELIMINARY BEST PART2",
+        "url": "https://open.spotify.com/album/2GXTij5DayYJdpScEjYUSx"
+      },
+      "artists": [
+        {
+          "name": "Eui Young Kim",
+          "url": "https://open.spotify.com/artist/265lPO6Sy0EjhjgGj6AXhu"
+        }
+      ],
+      "duration_ms": 158466,
+      "name": "Yongdusan elegy",
+      "url": "https://open.spotify.com/track/7zolvTdlXmsoq52CYvDdAj"
     },
     {
       "added_at": "2023-11-21 02:00:42",
@@ -1535,6 +1599,22 @@
     {
       "added_at": "2023-11-21 02:00:42",
       "album": {
+        "name": "MISS TROT2 PRELIMINARY BEST PART1",
+        "url": "https://open.spotify.com/album/3WBSmNsFrRZSV1PsvOHbaU"
+      },
+      "artists": [
+        {
+          "name": "Tae Hwa Yoon",
+          "url": "https://open.spotify.com/artist/2D8TOjwm9HxmUClDQC7S5M"
+        }
+      ],
+      "duration_ms": 140453,
+      "name": "You are",
+      "url": "https://open.spotify.com/track/1aoJu3dxezGb6D7AZIKHXL"
+    },
+    {
+      "added_at": "2023-11-21 02:00:42",
+      "album": {
         "name": "\uccab\ubc88\uc9f8 \uc774\uc57c\uae30",
         "url": "https://open.spotify.com/album/0e0mopDBIDzNOBPJDEwmXo"
       },
@@ -1567,22 +1647,6 @@
     {
       "added_at": "2023-11-21 02:00:42",
       "album": {
-        "name": "Follow Me",
-        "url": "https://open.spotify.com/album/615aalqP0HyakgrgP9ceg3"
-      },
-      "artists": [
-        {
-          "name": "Kim Heejae",
-          "url": "https://open.spotify.com/artist/02mf5BLKtAfIkAKozHPmU5"
-        }
-      ],
-      "duration_ms": 162880,
-      "name": "Follow Me (Prod. by Young Tak)",
-      "url": "https://open.spotify.com/track/1fihoC9boTXb99e4qHV6lh"
-    },
-    {
-      "added_at": "2023-11-21 02:00:42",
-      "album": {
         "name": "MISS TROT2 PRELIMINARY BEST PART1",
         "url": "https://open.spotify.com/album/3WBSmNsFrRZSV1PsvOHbaU"
       },
@@ -1599,6 +1663,22 @@
     {
       "added_at": "2023-11-21 02:00:42",
       "album": {
+        "name": "Follow Me",
+        "url": "https://open.spotify.com/album/615aalqP0HyakgrgP9ceg3"
+      },
+      "artists": [
+        {
+          "name": "Kim Heejae",
+          "url": "https://open.spotify.com/artist/02mf5BLKtAfIkAKozHPmU5"
+        }
+      ],
+      "duration_ms": 162880,
+      "name": "Follow Me (Prod. by Young Tak)",
+      "url": "https://open.spotify.com/track/1fihoC9boTXb99e4qHV6lh"
+    },
+    {
+      "added_at": "2023-11-21 02:00:42",
+      "album": {
         "name": "Read and Ignored",
         "url": "https://open.spotify.com/album/2TLUFzFHkfjirhp8i8ZYhp"
       },
@@ -1611,86 +1691,6 @@
       "duration_ms": 168680,
       "name": "Read and Ignored (Prod. Young Tak)",
       "url": "https://open.spotify.com/track/1qMvWFcU6YiXbwxLIuiOgB"
-    },
-    {
-      "added_at": "2023-11-21 02:00:42",
-      "album": {
-        "name": "\ud2b8\ub85c\ud2b8 \uc5ec\uc778 1, 2",
-        "url": "https://open.spotify.com/album/3sEDwOKMX6sMOn2iP9H4Hk"
-      },
-      "artists": [
-        {
-          "name": "\uc774\uc218\uc9c4",
-          "url": "https://open.spotify.com/artist/6hiE7snEBARzwmjdzjoggP"
-        }
-      ],
-      "duration_ms": 156356,
-      "name": "\ubaa9\uacc4\ub098\ub8e8",
-      "url": "https://open.spotify.com/track/4kMFwlv0Njwnakcy473jw3"
-    },
-    {
-      "added_at": "2023-11-21 02:00:42",
-      "album": {
-        "name": "\uc6b0\ub9ac\u5bb6",
-        "url": "https://open.spotify.com/album/3mUM8eFah712mh4MUdDx7w"
-      },
-      "artists": [
-        {
-          "name": "KIM HOJOONG",
-          "url": "https://open.spotify.com/artist/4T9AuhR3YqSqaPgXzPiAuH"
-        }
-      ],
-      "duration_ms": 215653,
-      "name": "\ud560\ubb34\ub2c8",
-      "url": "https://open.spotify.com/track/5xLpdTwL3qKyxhbfbYAECK"
-    },
-    {
-      "added_at": "2023-11-21 02:00:42",
-      "album": {
-        "name": "MISS TROT2 Legendary Mission Best Semi-Final 1",
-        "url": "https://open.spotify.com/album/1zAZbX0fXTXbFdVS26noHA"
-      },
-      "artists": [
-        {
-          "name": "Tae Yeon Kim",
-          "url": "https://open.spotify.com/artist/1fj59ljd3doYrhH7iCaEVd"
-        }
-      ],
-      "duration_ms": 235520,
-      "name": "Wind road",
-      "url": "https://open.spotify.com/track/1ScaL6JTiXR5YVL8Vwp958"
-    },
-    {
-      "added_at": "2023-11-21 02:00:42",
-      "album": {
-        "name": "Music source of Mr.Trot Trot Aid Best",
-        "url": "https://open.spotify.com/album/14UvNhswZOXciZ2nH0d9uR"
-      },
-      "artists": [
-        {
-          "name": "Noh Jihun",
-          "url": "https://open.spotify.com/artist/0hKPEEvGtYQOod7pjcaJ1D"
-        }
-      ],
-      "duration_ms": 190160,
-      "name": "I happened to see her",
-      "url": "https://open.spotify.com/track/2dJWB9GmhYlQGSr2gbuH8q"
-    },
-    {
-      "added_at": "2023-11-21 02:00:42",
-      "album": {
-        "name": "My destiny",
-        "url": "https://open.spotify.com/album/6QfVT55p5YdiP6xaTB0J1k"
-      },
-      "artists": [
-        {
-          "name": "Rayongsoo",
-          "url": "https://open.spotify.com/artist/42pusBcc62k72ey1xVylXx"
-        }
-      ],
-      "duration_ms": 180467,
-      "name": "My destiny",
-      "url": "https://open.spotify.com/track/0ci6T7twNoDBeORJ73Ijpg"
     }
   ],
   "unique_name": "K-Trot Stars",

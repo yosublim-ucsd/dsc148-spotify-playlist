@@ -4,7 +4,7 @@
 
 > Repeat\-free hours of new and beloved indie folk\. Cover: Mitski
 
-547 songs - 1 day 10 hr 14 min
+548 songs - 1 day 10 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -215,7 +215,7 @@
 | [Guess Again](https://open.spotify.com/track/4Y2365W43JtMuU2os31LUs) | [Jeff Tweedy](https://open.spotify.com/artist/2rDxtYUzTAYJJE3Bl3Z5IN) | [Guess Again](https://open.spotify.com/album/637CT2H6ESwzGM6KRVy5IZ) | 3:17 | 2021-10-22 | 2023-05-09 |
 | [Guess Again](https://open.spotify.com/track/6zz69yZsmztL9Zkp5U74Ju) | [Jeff Tweedy](https://open.spotify.com/artist/2rDxtYUzTAYJJE3Bl3Z5IN) | [Love Is The King](https://open.spotify.com/album/4luinFPZgIsSXjsKqb42LI) | 3:17 | 2023-07-14 |  |
 | [Guthrie](https://open.spotify.com/track/2kNwTOVdZGCGROgAzjD1J0) | [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip) | [Guthrie](https://open.spotify.com/album/11sreyMhRyRnGBrg972mZy) | 4:53 | 2022-07-29 | 2022-12-22 |
-| [Habit](https://open.spotify.com/track/7gssKF1R5EclIP8Izaxcle) | [Riley Pearce](https://open.spotify.com/artist/0A3HlWZGV8WrCcqxKM2neg), [MADDY MAY](https://open.spotify.com/artist/53ugKVVbmwpUEI42eNG9Mu) | [Habit](https://open.spotify.com/album/55M9iNIkBo7cCYe17KcPD7) | 3:31 | 2023-03-17 |  |
+| [Habit](https://open.spotify.com/track/7gssKF1R5EclIP8Izaxcle) | [Riley Pearce](https://open.spotify.com/artist/0A3HlWZGV8WrCcqxKM2neg), [MADDY MAY](https://open.spotify.com/artist/53ugKVVbmwpUEI42eNG9Mu) | [Habit](https://open.spotify.com/album/55M9iNIkBo7cCYe17KcPD7) | 3:31 | 2023-03-17 | 2023-12-04 |
 | [Hadsel](https://open.spotify.com/track/0qYdqIxjSTK9Wu7wuPZ2i4) | [Beirut](https://open.spotify.com/artist/6pmxr66tMAePxzOLfjGNcX) | [Hadsel](https://open.spotify.com/album/1jhgsccCbT1WXtmGUuZvIA) | 4:54 | 2023-11-10 |  |
 | [Hail Mary](https://open.spotify.com/track/377M5cHQ9COyB8i9t3Hval) | [Oracle Sisters](https://open.spotify.com/artist/2S11VlKvbvSKyyb7Wk4YP1) | [Hydranism](https://open.spotify.com/album/5Mp0oL6cdMJ1ODlpGpdUte) | 2:49 | 2023-06-09 | 2023-08-09 |
 | [Hail Mary](https://open.spotify.com/track/71fZrZ2MTPLRLPbMf8pT0F) | [Oracle Sisters](https://open.spotify.com/artist/2S11VlKvbvSKyyb7Wk4YP1) | [Hydranism](https://open.spotify.com/album/61IFc4d4O5z2AReP8eI3Ay) | 2:49 | 2023-04-14 | 2023-04-30 |
@@ -248,6 +248,7 @@
 | [I Don't Want to Go That Way](https://open.spotify.com/track/0tpvtMPtvWDgLDVXY3JDKR) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy) | [I Don't Want to Go That Way](https://open.spotify.com/album/2FMlVRoAFvcKhFneYl4taT) | 5:24 | 2023-08-04 | 2023-09-04 |
 | [I Don't Want to Go That Way](https://open.spotify.com/track/6Pn80kzsmTmXQP7pmF8dSM) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy) | [At the Roadhouse](https://open.spotify.com/album/2UpcMYFkeMbmD1LiBjvYn9) | 5:24 | 2023-09-01 | 2023-10-19 |
 | [I Know You Know Me \(With Matt Berninger\)](https://open.spotify.com/track/3nQbf8wfMOkKeLRe45kNFc) | [Caroline Spence](https://open.spotify.com/artist/4De2r7QdHl1eZwnEnQ1IzE), [Matt Berninger](https://open.spotify.com/artist/27jRNjIvlUcGN7FBRDnqhp) | [I Know You Know Me \(With Matt Berninger\)](https://open.spotify.com/album/1nwWS8W1o0Q0CE4SL7m8tW) | 3:19 | 2022-02-25 |  |
+| [I Know, I Know](https://open.spotify.com/track/6lROAnjIlzlaFPzUYjhygu) | [Dekker](https://open.spotify.com/artist/2Udd2jgFaz8tXG1w3PyMtN) | [I Know, I Know](https://open.spotify.com/album/4Igy7nnJ4KXVI0RShJHMNf) | 3:00 | 2023-12-01 |  |
 | [I Lied \(with Allison Ponthier\)](https://open.spotify.com/track/5QL8Uqhv0MQRYKRy6UKQIy) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25), [Allison Ponthier](https://open.spotify.com/artist/37zdNthUsPowEeNJDeCCYx) | [I Lied](https://open.spotify.com/album/4qvrodQTZ7AfgQzOjfSAyq) | 3:54 | 2021-10-22 |  |
 | [I Pity the Country](https://open.spotify.com/track/5kLzTt5wBILL0VfUEDkX9h) | [Leanne Betasamosake Simpson](https://open.spotify.com/artist/6REprvUcVwBr69s8NfEQj4) | [Theory of Ice](https://open.spotify.com/album/5MMyebXVwA0Vzyvs1WvVS9) | 4:54 | 2021-10-22 | 2022-07-21 |
 | [I Will Do The Breathing](https://open.spotify.com/track/22KkqMqM3WrnmZoBajMN4x) | [Matt the Electrician](https://open.spotify.com/artist/4OqDaxbU5qV78AIr6HneTn) | [Accidental Thief](https://open.spotify.com/album/6tqwWWhIFmm7LqiZGmzPzn) | 4:31 | 2022-04-13 | 2022-04-21 |

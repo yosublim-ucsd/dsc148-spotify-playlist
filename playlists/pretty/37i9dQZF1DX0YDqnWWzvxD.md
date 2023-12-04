@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0YDqnWWzvxD.md) - [plain]
 
 > Relax, heal and restore your energy
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,823 likes - 105 songs - 9 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,118 likes - 105 songs - 9 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0YDqnWWzvxD.md) - [plain]
 | 27 | [At Ease](https://open.spotify.com/track/3Y60FrikUPyqB0LQkxxsbf) | [Steve Gorn](https://open.spotify.com/artist/1CuE092UR0MnsGFKEHZNgC) | [At Ease](https://open.spotify.com/album/3Ia4CWcgi1AxnD9s4pRyEN) | 5:32 |
 | 28 | [Santosa \(Contentment\)](https://open.spotify.com/track/2oa9m04tRuNocGalPvAv4R) | [Michael Mandrell and Benjy Wertheimer](https://open.spotify.com/artist/0F6XbRSKV9dbY94XFhaAqD) | [Anjali](https://open.spotify.com/album/0nIweyYVQ98alzO6T2LOm7) | 8:36 |
 | 29 | [REM Deep Sleep Inducing](https://open.spotify.com/track/3X1At2FYGBPDDvrAkWUXCZ) | [Yoga Nidra](https://open.spotify.com/artist/76xnzK5NDVM0C5inC2iqNL) | [Yoga Nidra \- Sleep Yoga Relaxation Songs, Sacred Oriental Music for Yoga Classes](https://open.spotify.com/album/34ZdFwqQzgWYqGmZmc7XFF) | 4:48 |
-| 30 | [Closing Meditation](https://open.spotify.com/track/3iBMeAItDx4NNyg0keZ7Fm) | [Shantala](https://open.spotify.com/artist/6z6YXTlyMCY6fvT79yxDgi) | [Live In Love, Vol\. 2](https://open.spotify.com/album/7so4tfVsFKa0MCim0SQUna) | 6:00 |
+| 30 | [Closing Meditation](https://open.spotify.com/track/45JVYpFviuESYF5MC4hVvx) | [Shantala](https://open.spotify.com/artist/6z6YXTlyMCY6fvT79yxDgi) | [Live in Love, Vol.2](https://open.spotify.com/album/1HFmWWPxtE9bJuio8UCnxn) | 6:00 |
 | 31 | [For Elena](https://open.spotify.com/track/5ZQxDOeaSFNZZI3GQi8gNs) | [East Forest](https://open.spotify.com/artist/0okmfBroVgFuvvljnUbqPW) | [Music to Be Born To](https://open.spotify.com/album/2dvYfMDU4g8CavyhfVYeJs) | 6:22 |
 | 32 | [Savasana Sunrise \- Dawn Flow](https://open.spotify.com/track/2dzq1Q3e8ojTtuaB70DT9j) | [Stevin McNamara](https://open.spotify.com/artist/3n25Lt7Pj891H5zFEywMX8) | [Savasana Yoga Music: Healing Guitar for Massage, Sleep and Yoga Nidra](https://open.spotify.com/album/1bH7BSpVdLz36rQ8S3eGRn) | 5:45 |
 | 33 | [Fountain Of Calmness](https://open.spotify.com/track/1BcSsY73b8jCwC57mpu1Xk) | [Buddha's Lounge](https://open.spotify.com/artist/0DQtE70SlFZZkbNpCRaMHb) | [Fountain Of Calmness](https://open.spotify.com/album/5Q87MNpqzebIdfCoWTSSOS) | 3:26 |
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0YDqnWWzvxD.md) - [plain]
 | 104 | [Beauty of Hope](https://open.spotify.com/track/2FEewP7EII83tgFLNp6BuV) | [José Ramos](https://open.spotify.com/artist/2vdWaHPPPyxF2y41Pv6xEz) | [Beauty of Hope](https://open.spotify.com/album/3auSnGJcfyEVYm8U60Ch7D) | 2:40 |
 | 105 | [Nature's Bed](https://open.spotify.com/track/5O0F8J3nnm418xPwFlCPpG) | [Soft Sky](https://open.spotify.com/artist/2S1pbxlltIuIDrRypd7zWi) | [Nature's Bed](https://open.spotify.com/album/60aObkIVavhW6QdXVevRT1) | 2:11 |
 
-Snapshot ID: `MCwyODc1Yzc4ZWQwYjZmMDliNDkyNzQ0YzkwOTZiYzA5YWRlODM1YjZm`
+Snapshot ID: `MCw2MmJhYTk3NTliNzY3N2RmYjE1NWZlOThmMGQ2NDkyZDYzNDllMDFm`

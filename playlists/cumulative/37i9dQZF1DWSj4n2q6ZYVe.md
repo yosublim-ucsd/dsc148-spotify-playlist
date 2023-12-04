@@ -4,7 +4,7 @@
 
 > The biggest dance floor bangers of the 2000s.
 
-124 songs - 7 hr 57 min
+125 songs - 8 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [All I Ever Wanted \- Radio Edit](https://open.spotify.com/track/2PTvik6EqPAIYOclAB3SU8) | [Basshunter](https://open.spotify.com/artist/37DdwREpvvQHmGLFEZ4h0Q) | [Now You're Gone \- The Album](https://open.spotify.com/album/1UjziXy5WUcJkEkmHJKLDZ) | 2:56 | 2021-04-29 |  |
 | [Around the World \- Radio Edit \[Radio Edit\]](https://open.spotify.com/track/0TxMRiAvI1s0L821BJJWzx) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi) | [Musique, Vol\. 1](https://open.spotify.com/album/4a0p1M12f7VaZWdoNSdEK4) | 4:01 | 2021-04-29 |  |
 | [Bad Boy](https://open.spotify.com/track/4preSlFr0bYsRHm9WxAcE9) | [Cascada](https://open.spotify.com/artist/0N0d3kjwdY2h7UVuTdJGfp) | [Platinum](https://open.spotify.com/album/5BIDwo7ClpVhC031QNKTuY) | 3:11 | 2021-04-29 |  |
-| [Bad Romance \- Skrillex Remix](https://open.spotify.com/track/3ipLg66ktOi3Ag0p26ZBbp) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX) | [Bad Romance Remixes](https://open.spotify.com/album/4d8Ltw4bT71vjo052hlzhY) | 4:23 | 2021-04-29 |  |
+| [Bad Romance \- Skrillex Remix](https://open.spotify.com/track/3ipLg66ktOi3Ag0p26ZBbp) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX) | [Bad Romance Remixes](https://open.spotify.com/album/4d8Ltw4bT71vjo052hlzhY) | 4:23 | 2021-04-29 | 2023-12-04 |
 | [Becoming Insane](https://open.spotify.com/track/1Nukcy7xk7AbS7MtkaiOe3) | [Infected Mushroom](https://open.spotify.com/artist/6S2tas4z6DyIklBajDqJxI) | [Vicious Delicious](https://open.spotify.com/album/3W2rs8vCNzvB5BmAoCjART) | 7:20 | 2021-04-29 | 2023-09-12 |
 | [Bonkers](https://open.spotify.com/track/6ddQ5KCkvCggk3j6KdA0zL) | [Dizzee Rascal](https://open.spotify.com/artist/0gusqTJKxtU1UTmNRMHZcv), [Armand Van Helden](https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE) | [Tongue N' Cheek \(Dirtee Deluxe Edition\)](https://open.spotify.com/album/0tbxVYstYiHpBwA7qYL1hC) | 2:57 | 2021-04-29 |  |
 | [Boten Anna \- Radio edit](https://open.spotify.com/track/1Y73xpxMMWInxiAHG6INCK) | [Basshunter](https://open.spotify.com/artist/37DdwREpvvQHmGLFEZ4h0Q) | [LOL \(International version\)](https://open.spotify.com/album/4cHjA2C6N5h5rIKQYojMLU) | 3:27 | 2021-04-29 |  |
@@ -99,6 +99,7 @@
 | [Sexy Bitch \(feat\. Akon\)](https://open.spotify.com/track/127uq83uGFapbddqiMUKky) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [One More Love](https://open.spotify.com/album/5DJc5qCdB5pPrDO97LXjeW) | 3:15 | 2021-04-29 | 2023-11-10 |
 | [Shooting Stars](https://open.spotify.com/track/0UeYCHOETPfai02uskjJ3x) | [Bag Raiders](https://open.spotify.com/artist/6fXEqmGQEt6ONuqVmwrN46) | [Bag Raiders \(Deluxe\)](https://open.spotify.com/album/6zVi5jNALX1GeD3MxiFmqo) | 3:55 | 2021-04-29 |  |
 | [Shots](https://open.spotify.com/track/1V4jC0vJ5525lEF1bFgPX2) | [LMFAO](https://open.spotify.com/artist/3sgFRtyBnxXD5ESfmbK4dl), [Lil Jon](https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK) | [Party Rock](https://open.spotify.com/album/7qtQYJc0H6s3CK4c7Gp8GR) | 3:42 | 2021-04-29 |  |
+| [Show Me Love \(feat\. Robin S\) \- Radio Edit](https://open.spotify.com/track/5Nzph7bpgv2GNh2DcVX29T) | [Steve Angello](https://open.spotify.com/artist/4FqPRilb0Ja0TKG3RS3y4s), [Laidback Luke](https://open.spotify.com/artist/53cQZtWDwDJwVCNZlfJ6Qk), [Robin S](https://open.spotify.com/artist/2WvLeseDGPX1slhmxI59G3) | [Show Me Love \(feat\. Robin S\)](https://open.spotify.com/album/32SxAN231WZpNVzHaFZ9O2) | 3:05 | 2021-04-29 |  |
 | [Show Me Love \- Radio Edit](https://open.spotify.com/track/6hL8PxitrG9hSXUmgWkG3N) | [Steve Angello](https://open.spotify.com/artist/4FqPRilb0Ja0TKG3RS3y4s), [Laidback Luke](https://open.spotify.com/artist/53cQZtWDwDJwVCNZlfJ6Qk), [Robin S](https://open.spotify.com/artist/2WvLeseDGPX1slhmxI59G3) | [Show Me Love](https://open.spotify.com/album/5zhHMMz0YT13BKa7ULPxGX) | 3:04 | 2021-04-29 | 2023-10-17 |
 | [Something](https://open.spotify.com/track/3e9L9HiHKcfYLAga28Vmcf) | [Lasgo](https://open.spotify.com/artist/25Kw8f1zcn9VtUk5Nl3qrp) | [Some Things](https://open.spotify.com/album/7d5N4KB4rlO1kqcoyLdm3h) | 3:40 | 2021-04-29 |  |
 | [Stamp On The Ground](https://open.spotify.com/track/2KgCPRTAECwNbJG1uYdfjl) | [ItaloBrothers](https://open.spotify.com/artist/5nkYRuiIHg2xXHFC8bfosJ) | [Stamp!](https://open.spotify.com/album/7MbWoZrF41CMAzeUZdS8In) | 3:17 | 2021-04-29 |  |

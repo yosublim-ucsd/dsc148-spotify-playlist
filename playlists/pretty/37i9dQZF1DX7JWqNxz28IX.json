@@ -1,12 +1,12 @@
 {
   "description": "canzoni tristi, rap e indie, per chi ha un cuore cos\u00ec \ud83d\udc94  (in cover, tenth sky)",
-  "num_followers": 43034,
+  "num_followers": 43044,
   "original_name": "ragazzo triste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlODFiN2NiYTVhYWJiMTViMDMzNTc0MTc4ZjYyZDVhM2VkZTU1MThl",
+  "snapshot_id": "MCw2NTIwZjZmNDIzNTNmNDYwMWE0NjUxNTQ2NWQxNTNjNzA5NWUyNzBi",
   "tracks": [
     {
       "added_at": "2023-11-24 09:10:21",
@@ -799,22 +799,6 @@
     {
       "added_at": "2023-11-24 09:10:21",
       "album": {
-        "name": "La stella pi\u00f9 bella di sempre",
-        "url": "https://open.spotify.com/album/5A6Odn8c9fwlwiwuqEZkZW"
-      },
-      "artists": [
-        {
-          "name": "Fraespo",
-          "url": "https://open.spotify.com/artist/3rQIeU2xZreyflzbL0jbKQ"
-        }
-      ],
-      "duration_ms": 126000,
-      "name": "La stella pi\u00f9 bella di sempre",
-      "url": "https://open.spotify.com/track/4mj7XoeqS9ByeTRonA8xu3"
-    },
-    {
-      "added_at": "2023-11-24 09:10:21",
-      "album": {
         "name": "Polmoni",
         "url": "https://open.spotify.com/album/5ebFbxu4orUBH5LBnGSWTV"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 123789,
       "name": "Polmoni",
       "url": "https://open.spotify.com/track/3Dd20QQdcE7zu8S9RDbcWO"
+    },
+    {
+      "added_at": "2023-11-24 09:10:21",
+      "album": {
+        "name": "La stella pi\u00f9 bella di sempre",
+        "url": "https://open.spotify.com/album/5A6Odn8c9fwlwiwuqEZkZW"
+      },
+      "artists": [
+        {
+          "name": "Fraespo",
+          "url": "https://open.spotify.com/artist/3rQIeU2xZreyflzbL0jbKQ"
+        }
+      ],
+      "duration_ms": 126000,
+      "name": "La stella pi\u00f9 bella di sempre",
+      "url": "https://open.spotify.com/track/4mj7XoeqS9ByeTRonA8xu3"
     },
     {
       "added_at": "2023-11-24 09:10:21",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2023-11-24 09:10:21",
       "album": {
-        "name": "Semprerosa",
-        "url": "https://open.spotify.com/album/3MJ7R3kUKul3A0doEctV1F"
-      },
-      "artists": [
-        {
-          "name": "Nisba",
-          "url": "https://open.spotify.com/artist/0rAJoDmXBTVc0FSkEnbnQa"
-        }
-      ],
-      "duration_ms": 200153,
-      "name": "Semprerosa",
-      "url": "https://open.spotify.com/track/6RB3isukO4wmazoaJa4rC6"
-    },
-    {
-      "added_at": "2023-11-24 09:10:21",
-      "album": {
         "name": "Torner\u00f2",
         "url": "https://open.spotify.com/album/4m9U7MMcVrA3V7T88SUObz"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 146080,
       "name": "Torner\u00f2",
       "url": "https://open.spotify.com/track/7v6mjoYALPYFqlYQxbsRdj"
+    },
+    {
+      "added_at": "2023-11-24 09:10:21",
+      "album": {
+        "name": "Hai fatto tardi",
+        "url": "https://open.spotify.com/album/24zYSQ7kCKJix98rGkGn5m"
+      },
+      "artists": [
+        {
+          "name": "Nisba",
+          "url": "https://open.spotify.com/artist/0rAJoDmXBTVc0FSkEnbnQa"
+        }
+      ],
+      "duration_ms": 172923,
+      "name": "Hai fatto tardi",
+      "url": "https://open.spotify.com/track/1JcIxBJtgklUN9Sl2Rdla2"
     },
     {
       "added_at": "2023-11-24 09:10:21",
@@ -1091,6 +1091,26 @@
     {
       "added_at": "2023-11-24 09:10:21",
       "album": {
+        "name": "Aurora",
+        "url": "https://open.spotify.com/album/43ynx05t8Kyc34nLqcrCB9"
+      },
+      "artists": [
+        {
+          "name": "Elteep",
+          "url": "https://open.spotify.com/artist/0eoUjdIgU7Heid0Mv3EjLB"
+        },
+        {
+          "name": "Lil Sanax",
+          "url": "https://open.spotify.com/artist/08kfcguo6aDqrugFck6JwI"
+        }
+      ],
+      "duration_ms": 174549,
+      "name": "Aurora",
+      "url": "https://open.spotify.com/track/5yhmgsfH8EhS0mAOIb1n6T"
+    },
+    {
+      "added_at": "2023-11-24 09:10:21",
+      "album": {
         "name": "Non Mi Passa",
         "url": "https://open.spotify.com/album/4hDPcR2QtJ6o9uAh2UEmxh"
       },
@@ -1103,26 +1123,6 @@
       "duration_ms": 136265,
       "name": "Non Mi Passa",
       "url": "https://open.spotify.com/track/1ZukPve2ImtM1f1ZbD9ATQ"
-    },
-    {
-      "added_at": "2023-11-24 09:10:21",
-      "album": {
-        "name": "Dimmi se sbaglio",
-        "url": "https://open.spotify.com/album/2NBmYkv65CNjS3n3ZCIirh"
-      },
-      "artists": [
-        {
-          "name": "Bada1",
-          "url": "https://open.spotify.com/artist/5zMbRhhGvqWvCqCrs05YSb"
-        },
-        {
-          "name": "Matris",
-          "url": "https://open.spotify.com/artist/5x5Qyt62T7QZNltmoEyshL"
-        }
-      ],
-      "duration_ms": 135374,
-      "name": "Dimmi se sbaglio",
-      "url": "https://open.spotify.com/track/0fCl0Y3Ra4uwYXEBwYwcKT"
     },
     {
       "added_at": "2023-11-24 09:10:21",
@@ -1143,38 +1143,22 @@
     {
       "added_at": "2023-11-24 09:10:21",
       "album": {
-        "name": "Hai fatto tardi",
-        "url": "https://open.spotify.com/album/24zYSQ7kCKJix98rGkGn5m"
+        "name": "Dimmi se sbaglio",
+        "url": "https://open.spotify.com/album/2NBmYkv65CNjS3n3ZCIirh"
       },
       "artists": [
         {
-          "name": "Nisba",
-          "url": "https://open.spotify.com/artist/0rAJoDmXBTVc0FSkEnbnQa"
-        }
-      ],
-      "duration_ms": 172923,
-      "name": "Hai fatto tardi",
-      "url": "https://open.spotify.com/track/1JcIxBJtgklUN9Sl2Rdla2"
-    },
-    {
-      "added_at": "2023-11-24 09:10:21",
-      "album": {
-        "name": "Aurora",
-        "url": "https://open.spotify.com/album/43ynx05t8Kyc34nLqcrCB9"
-      },
-      "artists": [
-        {
-          "name": "Elteep",
-          "url": "https://open.spotify.com/artist/0eoUjdIgU7Heid0Mv3EjLB"
+          "name": "Bada1",
+          "url": "https://open.spotify.com/artist/5zMbRhhGvqWvCqCrs05YSb"
         },
         {
-          "name": "Lil Sanax",
-          "url": "https://open.spotify.com/artist/08kfcguo6aDqrugFck6JwI"
+          "name": "Matris",
+          "url": "https://open.spotify.com/artist/5x5Qyt62T7QZNltmoEyshL"
         }
       ],
-      "duration_ms": 174549,
-      "name": "Aurora",
-      "url": "https://open.spotify.com/track/5yhmgsfH8EhS0mAOIb1n6T"
+      "duration_ms": 135374,
+      "name": "Dimmi se sbaglio",
+      "url": "https://open.spotify.com/track/0fCl0Y3Ra4uwYXEBwYwcKT"
     },
     {
       "added_at": "2023-11-24 09:10:21",
@@ -1219,6 +1203,22 @@
     {
       "added_at": "2023-11-24 09:10:21",
       "album": {
+        "name": "Semprerosa",
+        "url": "https://open.spotify.com/album/3MJ7R3kUKul3A0doEctV1F"
+      },
+      "artists": [
+        {
+          "name": "Nisba",
+          "url": "https://open.spotify.com/artist/0rAJoDmXBTVc0FSkEnbnQa"
+        }
+      ],
+      "duration_ms": 200153,
+      "name": "Semprerosa",
+      "url": "https://open.spotify.com/track/6RB3isukO4wmazoaJa4rC6"
+    },
+    {
+      "added_at": "2023-11-24 09:10:21",
+      "album": {
         "name": "Winston Blue",
         "url": "https://open.spotify.com/album/0M95QrJhwkP2WHdX8ECfHT"
       },
@@ -1231,22 +1231,6 @@
       "duration_ms": 151013,
       "name": "Winston Blue",
       "url": "https://open.spotify.com/track/78WU5Aet5mAFziFp8Xtd1i"
-    },
-    {
-      "added_at": "2023-11-24 09:10:21",
-      "album": {
-        "name": "Cose stupide",
-        "url": "https://open.spotify.com/album/6F7JTOZTCThGzDo6DV1vdq"
-      },
-      "artists": [
-        {
-          "name": "Tenth Sky",
-          "url": "https://open.spotify.com/artist/2VFljEy461d5COnyYGISD1"
-        }
-      ],
-      "duration_ms": 172216,
-      "name": "Empatia",
-      "url": "https://open.spotify.com/track/43ciZSXCJTd4Is849vdbRC"
     },
     {
       "added_at": "2023-11-24 09:10:21",
@@ -1271,78 +1255,18 @@
     {
       "added_at": "2023-11-24 09:10:21",
       "album": {
-        "name": "ONIRO",
-        "url": "https://open.spotify.com/album/5K6rOCFPtt6Gdv6YHaPC2x"
+        "name": "Cose stupide",
+        "url": "https://open.spotify.com/album/6F7JTOZTCThGzDo6DV1vdq"
       },
       "artists": [
-        {
-          "name": "Faster",
-          "url": "https://open.spotify.com/artist/6y3YL8atGp96e9pvlB3snd"
-        },
-        {
-          "name": "JXN",
-          "url": "https://open.spotify.com/artist/3MYT2UTOP4RHngspyochga"
-        }
-      ],
-      "duration_ms": 174720,
-      "name": "DOVE SEI",
-      "url": "https://open.spotify.com/track/7Lf6L3PBhMcSVTIjxEhtWB"
-    },
-    {
-      "added_at": "2023-11-24 09:10:21",
-      "album": {
-        "name": "Ceramica",
-        "url": "https://open.spotify.com/album/3UPAnRJrMnjNBE5bxw66BD"
-      },
-      "artists": [
-        {
-          "name": "Nisba",
-          "url": "https://open.spotify.com/artist/0rAJoDmXBTVc0FSkEnbnQa"
-        },
-        {
-          "name": "Sol\u00f8",
-          "url": "https://open.spotify.com/artist/1R0q1GO6iqTMPSh0aek1gp"
-        }
-      ],
-      "duration_ms": 193000,
-      "name": "Ceramica",
-      "url": "https://open.spotify.com/track/776F1kiWnHUjxuntmvPnt9"
-    },
-    {
-      "added_at": "2023-11-24 09:10:21",
-      "album": {
-        "name": "TAXI DRIVER (MTV Unplugged)",
-        "url": "https://open.spotify.com/album/3cZPj6lCLw8aia3nAiNKo8"
-      },
-      "artists": [
-        {
-          "name": "Rkomi",
-          "url": "https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3"
-        }
-      ],
-      "duration_ms": 205358,
-      "name": "APNEA - MTV Unplugged",
-      "url": "https://open.spotify.com/track/3DP8cUzSO9tJx7tGShuS4c"
-    },
-    {
-      "added_at": "2023-11-24 09:10:21",
-      "album": {
-        "name": "Lacrime",
-        "url": "https://open.spotify.com/album/5drTfTuBNR87cXnyJdn7En"
-      },
-      "artists": [
-        {
-          "name": "Zeta",
-          "url": "https://open.spotify.com/artist/6gRamOYCDmzgHxeWxO1RRP"
-        },
         {
           "name": "Tenth Sky",
           "url": "https://open.spotify.com/artist/2VFljEy461d5COnyYGISD1"
         }
       ],
-      "duration_ms": 148714,
-      "name": "Cicatrici (feat. Tenth Sky)",
-      "url": "https://open.spotify.com/track/3FZlx13Vs5tZm3u0PH5i7v"
+      "duration_ms": 172216,
+      "name": "Empatia",
+      "url": "https://open.spotify.com/track/43ciZSXCJTd4Is849vdbRC"
     },
     {
       "added_at": "2023-11-24 09:10:21",
@@ -1371,18 +1295,78 @@
     {
       "added_at": "2023-11-24 09:10:21",
       "album": {
-        "name": "OSIRIDE",
-        "url": "https://open.spotify.com/album/6jmB6f0AiVAAYZRAISXHwq"
+        "name": "ONIRO",
+        "url": "https://open.spotify.com/album/5K6rOCFPtt6Gdv6YHaPC2x"
       },
       "artists": [
         {
-          "name": "Nashley",
-          "url": "https://open.spotify.com/artist/5RiGhrEoM1SBjZoY25lCfe"
+          "name": "Faster",
+          "url": "https://open.spotify.com/artist/6y3YL8atGp96e9pvlB3snd"
+        },
+        {
+          "name": "JXN",
+          "url": "https://open.spotify.com/artist/3MYT2UTOP4RHngspyochga"
         }
       ],
-      "duration_ms": 200571,
-      "name": "Amsterdam",
-      "url": "https://open.spotify.com/track/2BOzEweKLKbBdP6szSatP7"
+      "duration_ms": 174720,
+      "name": "DOVE SEI",
+      "url": "https://open.spotify.com/track/7Lf6L3PBhMcSVTIjxEhtWB"
+    },
+    {
+      "added_at": "2023-11-24 09:10:21",
+      "album": {
+        "name": "TAXI DRIVER (MTV Unplugged)",
+        "url": "https://open.spotify.com/album/3cZPj6lCLw8aia3nAiNKo8"
+      },
+      "artists": [
+        {
+          "name": "Rkomi",
+          "url": "https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3"
+        }
+      ],
+      "duration_ms": 205358,
+      "name": "APNEA - MTV Unplugged",
+      "url": "https://open.spotify.com/track/3DP8cUzSO9tJx7tGShuS4c"
+    },
+    {
+      "added_at": "2023-11-24 09:10:21",
+      "album": {
+        "name": "Ceramica",
+        "url": "https://open.spotify.com/album/3UPAnRJrMnjNBE5bxw66BD"
+      },
+      "artists": [
+        {
+          "name": "Nisba",
+          "url": "https://open.spotify.com/artist/0rAJoDmXBTVc0FSkEnbnQa"
+        },
+        {
+          "name": "Sol\u00f8",
+          "url": "https://open.spotify.com/artist/1R0q1GO6iqTMPSh0aek1gp"
+        }
+      ],
+      "duration_ms": 193000,
+      "name": "Ceramica",
+      "url": "https://open.spotify.com/track/776F1kiWnHUjxuntmvPnt9"
+    },
+    {
+      "added_at": "2023-11-24 09:10:21",
+      "album": {
+        "name": "Lacrime",
+        "url": "https://open.spotify.com/album/5drTfTuBNR87cXnyJdn7En"
+      },
+      "artists": [
+        {
+          "name": "Zeta",
+          "url": "https://open.spotify.com/artist/6gRamOYCDmzgHxeWxO1RRP"
+        },
+        {
+          "name": "Tenth Sky",
+          "url": "https://open.spotify.com/artist/2VFljEy461d5COnyYGISD1"
+        }
+      ],
+      "duration_ms": 148714,
+      "name": "Cicatrici (feat. Tenth Sky)",
+      "url": "https://open.spotify.com/track/3FZlx13Vs5tZm3u0PH5i7v"
     },
     {
       "added_at": "2023-11-24 09:10:21",
@@ -1399,6 +1383,22 @@
       "duration_ms": 174250,
       "name": "L'effetto che mi fai",
       "url": "https://open.spotify.com/track/3lxnYJ4tMPPYXL7vONxGRi"
+    },
+    {
+      "added_at": "2023-11-24 09:10:21",
+      "album": {
+        "name": "OSIRIDE",
+        "url": "https://open.spotify.com/album/6jmB6f0AiVAAYZRAISXHwq"
+      },
+      "artists": [
+        {
+          "name": "Nashley",
+          "url": "https://open.spotify.com/artist/5RiGhrEoM1SBjZoY25lCfe"
+        }
+      ],
+      "duration_ms": 200571,
+      "name": "Amsterdam",
+      "url": "https://open.spotify.com/track/2BOzEweKLKbBdP6szSatP7"
     },
     {
       "added_at": "2023-11-24 09:10:21",
@@ -1467,6 +1467,22 @@
       "duration_ms": 116933,
       "name": "(SEMBRA BELLO)",
       "url": "https://open.spotify.com/track/6l5doB3A29SS3h0SVL8x1W"
+    },
+    {
+      "added_at": "2023-11-24 09:10:21",
+      "album": {
+        "name": "Amor proprio",
+        "url": "https://open.spotify.com/album/6kk9gwIVQ26YpVgj1PbI08"
+      },
+      "artists": [
+        {
+          "name": "DOXX",
+          "url": "https://open.spotify.com/artist/1rlz0TbW8EjjvvOxPxoVsr"
+        }
+      ],
+      "duration_ms": 109357,
+      "name": "Ricordi",
+      "url": "https://open.spotify.com/track/6Zo9n6AT5BCQiwHNk0PaGE"
     },
     {
       "added_at": "2023-11-24 09:10:21",
@@ -1559,22 +1575,6 @@
     {
       "added_at": "2023-11-24 09:10:21",
       "album": {
-        "name": "Amor proprio",
-        "url": "https://open.spotify.com/album/6kk9gwIVQ26YpVgj1PbI08"
-      },
-      "artists": [
-        {
-          "name": "DOXX",
-          "url": "https://open.spotify.com/artist/1rlz0TbW8EjjvvOxPxoVsr"
-        }
-      ],
-      "duration_ms": 109357,
-      "name": "Ricordi",
-      "url": "https://open.spotify.com/track/6Zo9n6AT5BCQiwHNk0PaGE"
-    },
-    {
-      "added_at": "2023-11-24 09:10:21",
-      "album": {
         "name": "Credimi ancora",
         "url": "https://open.spotify.com/album/0getMLUgdB1w2NeJy0UOGB"
       },
@@ -1611,42 +1611,18 @@
     {
       "added_at": "2023-11-24 09:10:21",
       "album": {
-        "name": "Fuori di me",
-        "url": "https://open.spotify.com/album/6mjUd8akec2Qk3itsNHLOv"
+        "name": "Gemini",
+        "url": "https://open.spotify.com/album/3qPC7M1Bgd3yHvQi7PSzrK"
       },
       "artists": [
         {
-          "name": "Kia",
-          "url": "https://open.spotify.com/artist/4IA59RHOyKrygCtloEbopT"
-        },
-        {
-          "name": "Liarr",
-          "url": "https://open.spotify.com/artist/2pWViDzgkgNr0CfhxZTvdY"
+          "name": "DOXX",
+          "url": "https://open.spotify.com/artist/1rlz0TbW8EjjvvOxPxoVsr"
         }
       ],
-      "duration_ms": 166267,
-      "name": "Clipper",
-      "url": "https://open.spotify.com/track/5RdIIacDdbqAhWgEq1fMcL"
-    },
-    {
-      "added_at": "2023-11-24 09:10:21",
-      "album": {
-        "name": "Rottami",
-        "url": "https://open.spotify.com/album/5kuJSMOo46VXXSG4DGIT2U"
-      },
-      "artists": [
-        {
-          "name": "Coron",
-          "url": "https://open.spotify.com/artist/29eIf9x9g7Gr8zhW5kLSax"
-        },
-        {
-          "name": "Redys",
-          "url": "https://open.spotify.com/artist/0Fp2LQN1MdfCEgyZXRwUZ1"
-        }
-      ],
-      "duration_ms": 199053,
-      "name": "Rottami",
-      "url": "https://open.spotify.com/track/4LqZES294uk01Y7c6Qyyau"
+      "duration_ms": 180763,
+      "name": "Backstage",
+      "url": "https://open.spotify.com/track/5V8XwjvqWbDB1B0r0aZ2Wi"
     },
     {
       "added_at": "2023-11-24 09:10:21",
@@ -1671,6 +1647,26 @@
     {
       "added_at": "2023-11-24 09:10:21",
       "album": {
+        "name": "Fuori di me",
+        "url": "https://open.spotify.com/album/6mjUd8akec2Qk3itsNHLOv"
+      },
+      "artists": [
+        {
+          "name": "Kia",
+          "url": "https://open.spotify.com/artist/4IA59RHOyKrygCtloEbopT"
+        },
+        {
+          "name": "Liarr",
+          "url": "https://open.spotify.com/artist/2pWViDzgkgNr0CfhxZTvdY"
+        }
+      ],
+      "duration_ms": 166267,
+      "name": "Clipper",
+      "url": "https://open.spotify.com/track/5RdIIacDdbqAhWgEq1fMcL"
+    },
+    {
+      "added_at": "2023-11-24 09:10:21",
+      "album": {
         "name": "X4",
         "url": "https://open.spotify.com/album/49Qeb8YVPKSN3OBkvwXyWl"
       },
@@ -1687,6 +1683,26 @@
     {
       "added_at": "2023-11-24 09:10:21",
       "album": {
+        "name": "Rottami",
+        "url": "https://open.spotify.com/album/5kuJSMOo46VXXSG4DGIT2U"
+      },
+      "artists": [
+        {
+          "name": "Coron",
+          "url": "https://open.spotify.com/artist/29eIf9x9g7Gr8zhW5kLSax"
+        },
+        {
+          "name": "Redys",
+          "url": "https://open.spotify.com/artist/0Fp2LQN1MdfCEgyZXRwUZ1"
+        }
+      ],
+      "duration_ms": 199053,
+      "name": "Rottami",
+      "url": "https://open.spotify.com/track/4LqZES294uk01Y7c6Qyyau"
+    },
+    {
+      "added_at": "2023-11-24 09:10:21",
+      "album": {
         "name": "Primo Amore",
         "url": "https://open.spotify.com/album/5PW64jViF0tYk0VWwTlMl5"
       },
@@ -1699,22 +1715,6 @@
       "duration_ms": 216000,
       "name": "Lettera (interlude)",
       "url": "https://open.spotify.com/track/6NtwXat2WQtAgRsmYpVysr"
-    },
-    {
-      "added_at": "2023-11-24 09:10:21",
-      "album": {
-        "name": "Gemini",
-        "url": "https://open.spotify.com/album/3qPC7M1Bgd3yHvQi7PSzrK"
-      },
-      "artists": [
-        {
-          "name": "DOXX",
-          "url": "https://open.spotify.com/artist/1rlz0TbW8EjjvvOxPxoVsr"
-        }
-      ],
-      "duration_ms": 180763,
-      "name": "Backstage",
-      "url": "https://open.spotify.com/track/5V8XwjvqWbDB1B0r0aZ2Wi"
     },
     {
       "added_at": "2023-11-24 09:10:21",

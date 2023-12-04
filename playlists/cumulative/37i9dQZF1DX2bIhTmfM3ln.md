@@ -4,7 +4,7 @@
 
 > Afrobeats love stories have the best beginnings
 
-377 songs - 18 hr 47 min
+378 songs - 18 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -257,6 +257,7 @@
 | [Ojoro](https://open.spotify.com/track/1GRkRXs02w5QBSvq8E43Vr) | [Lawy B](https://open.spotify.com/artist/73UvUkgjuOrxEEC841is0T), [Berri\-Tiga](https://open.spotify.com/artist/3nJNGB59VvFcIeDHkGZnPB) | [Ojoro](https://open.spotify.com/album/5mc7QpLEbOUaG12iYD0C1g) | 2:34 | 2023-08-17 | 2023-09-08 |
 | [Ole \(feat\. BNXN\)](https://open.spotify.com/track/1KR2V2DQwUWMrwYOhQ2LLx) | [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh), [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Ole](https://open.spotify.com/album/1XPnkubgp63M9k5KsrMC7y) | 2:50 | 2023-07-20 | 2023-07-28 |
 | [Ole \(feat\. BNXN\)](https://open.spotify.com/track/7onM6Fbiu7ufnMQnbd5oZJ) | [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh), [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Ole](https://open.spotify.com/album/1ob2YtI9F9r54JXKXt7lhX) | 2:50 | 2023-07-20 | 2023-11-20 |
+| [Ole \(feat\. BNXN\)](https://open.spotify.com/track/6GkFuU6FVfx866bhM1T1Iz) | [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh), [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Qing Madi](https://open.spotify.com/album/03pDzWfMzVVQL3BRVIutJn) | 2:50 | 2023-12-01 |  |
 | [Ole Gan](https://open.spotify.com/track/5mkGlDnaz1DCJZ5B2NyPkj) | [Maleek Berry](https://open.spotify.com/artist/520qA5VGL9iI0SbmEnTVNg) | [Ole Gan](https://open.spotify.com/album/6ey8rNqRKrbcxFdO2zulry) | 2:53 | 2022-12-02 | 2023-02-21 |
 | [Omoyi](https://open.spotify.com/track/2LskJ9MKS5uuqUbLeqNClt) | [Mizzle](https://open.spotify.com/artist/1TUfUuxqtyevGYo8jWAPkd) | [Now you know](https://open.spotify.com/album/0AmU09bzeHjQjMnopF0pQH) | 3:18 | 2023-04-14 | 2023-04-21 |
 | [On Yah \- Intro](https://open.spotify.com/track/7I384J2xogr4UpOYbE93FJ) | [Nikita Kering'](https://open.spotify.com/artist/1yQKzWOHXJQSEnOXrHDl4X) | [On Yah \(Intro\)](https://open.spotify.com/album/6cPFGIKefpQSuQtdXdlCrk) | 3:00 | 2022-10-13 | 2023-02-25 |
@@ -309,7 +310,7 @@
 | [SHOWING OFF HER BODY \(with Davido\)](https://open.spotify.com/track/5xHodqknQtgokj6oO1giHb) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [SHOWING OFF HER BODY \(with Davido\)](https://open.spotify.com/album/5CgztNME0IW2ebmYmjWqUN) | 3:32 | 2022-06-23 | 2023-02-24 |
 | [Shy](https://open.spotify.com/track/0zf4pn9VXgQkXw784xZica) | [Killertunes](https://open.spotify.com/artist/1159Tto4wlVZpA3jeqXWZv), [BZ](https://open.spotify.com/artist/3KOofBJuoctTj0v5cgXHDF), [Not3s](https://open.spotify.com/artist/40NRiKuuhj1pgGYppptlBO) | [Shy](https://open.spotify.com/album/5WZgswcqvAbQfftf5LYXXg) | 2:57 | 2023-05-04 | 2023-05-12 |
 | [Single Again \(feat\. Ruger\) \- Remix](https://open.spotify.com/track/463mgOOvzTeyL2u2cmqKIE) | [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL), [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H) | [Single Again \(feat\. Ruger\) \[Remix\]](https://open.spotify.com/album/0xsygiGSVxNtNnz06K173w) | 3:56 | 2023-08-17 | 2023-12-02 |
-| [Sinner](https://open.spotify.com/track/3k6Y1ESBwF1low4hHsY4wu) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Sinner](https://open.spotify.com/album/1kpkSvYRz40cdD1GvfN7OJ) | 2:54 | 2022-02-11 |  |
+| [Sinner](https://open.spotify.com/track/3k6Y1ESBwF1low4hHsY4wu) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Sinner](https://open.spotify.com/album/1kpkSvYRz40cdD1GvfN7OJ) | 2:54 | 2022-02-11 | 2023-12-04 |
 | [Sinner](https://open.spotify.com/track/1J12nWQKjodPf436e61Orp) | [Iyanya](https://open.spotify.com/artist/3ZUn6LYxdmmPYQqBhFWI3h), [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Sinner](https://open.spotify.com/album/2GaYDilv8Ei7fPAE9U0oVD) | 3:00 | 2023-05-11 | 2023-07-01 |
 | [Slow](https://open.spotify.com/track/6fZmsZJAnLXJW7p9KO9hNI) | [Camidoh](https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi), [Magixx](https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142) | [Slow](https://open.spotify.com/album/16OczVqcp5NswQ7nawPX8h) | 2:50 | 2022-10-13 | 2022-10-31 |
 | [Slow Down](https://open.spotify.com/track/06NG4AQXXeWnnODyUCC6ZU) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf) | [Slow Down](https://open.spotify.com/album/1M7aXbvLJZZU0tcW75opXe) | 2:57 | 2022-02-11 | 2022-10-15 |

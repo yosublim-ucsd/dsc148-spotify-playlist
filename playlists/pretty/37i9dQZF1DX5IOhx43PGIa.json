@@ -1,12 +1,12 @@
 {
   "description": "Illuminating Asian artists everywhere. Cover: thuy.",
-  "num_followers": 281459,
+  "num_followers": 281487,
   "original_name": "Jasmine",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzYWFmZWQwZWMwNmNjMmQ3YzljODQxMDE2YWUwZDRlYmYzM2RjZGE2",
+  "snapshot_id": "MCw3NGIzMTIzYzMzMWRiYmRmOTllMTM2NjdhNDExYWFmYTBhZjViODcx",
   "tracks": [
     {
       "added_at": "2023-12-01 05:00:00",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "I say bye",
-        "url": "https://open.spotify.com/album/7GuwXufXafM8Fe5kmSdVHZ"
-      },
-      "artists": [
-        {
-          "name": "imase",
-          "url": "https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27"
-        }
-      ],
-      "duration_ms": 180596,
-      "name": "I say bye",
-      "url": "https://open.spotify.com/track/3rnYiGxQPdzbUpktxZP3oN"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
         "name": "Yesterday",
         "url": "https://open.spotify.com/album/2SrVGg8uLdBqztuflHxiiT"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 191220,
       "name": "Yesterday",
       "url": "https://open.spotify.com/track/4mPOgPXaXFBQ9dCg6OGEFv"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
+        "name": "I say bye",
+        "url": "https://open.spotify.com/album/7GuwXufXafM8Fe5kmSdVHZ"
+      },
+      "artists": [
+        {
+          "name": "imase",
+          "url": "https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27"
+        }
+      ],
+      "duration_ms": 180596,
+      "name": "I say bye",
+      "url": "https://open.spotify.com/track/3rnYiGxQPdzbUpktxZP3oN"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -1283,42 +1283,6 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "buttons!",
-        "url": "https://open.spotify.com/album/4LBaHD1RYaiZh4YGiLDyGo"
-      },
-      "artists": [
-        {
-          "name": "Knock2",
-          "url": "https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg"
-        },
-        {
-          "name": "Dillon Francis",
-          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
-        }
-      ],
-      "duration_ms": 239047,
-      "name": "buttons!",
-      "url": "https://open.spotify.com/track/5ekfEEnkAHxrn2KNvyZg7E"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
-        "name": "Trail Mix Tape",
-        "url": "https://open.spotify.com/album/7o1kPZMhYTeD78xeKZ6hm6"
-      },
-      "artists": [
-        {
-          "name": "grentperez",
-          "url": "https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe"
-        }
-      ],
-      "duration_ms": 187850,
-      "name": "Day By Day",
-      "url": "https://open.spotify.com/track/79oft65PDY4LL7MoLQ6Nxp"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
         "name": "My Luv (feat. Bibi Bourelly)",
         "url": "https://open.spotify.com/album/2wzmoGlE1JlvlASjEF3WRQ"
       },
@@ -1335,6 +1299,22 @@
       "duration_ms": 152238,
       "name": "My Luv (feat. Bibi Bourelly)",
       "url": "https://open.spotify.com/track/5nrzA4GIsgS1wdwY3q7cnt"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
+        "name": "Trail Mix Tape",
+        "url": "https://open.spotify.com/album/7o1kPZMhYTeD78xeKZ6hm6"
+      },
+      "artists": [
+        {
+          "name": "grentperez",
+          "url": "https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe"
+        }
+      ],
+      "duration_ms": 187850,
+      "name": "Day By Day",
+      "url": "https://open.spotify.com/track/79oft65PDY4LL7MoLQ6Nxp"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -1459,22 +1439,6 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "Don't Leave Yet",
-        "url": "https://open.spotify.com/album/3waB8KtFMT0fggbkjbK7Kj"
-      },
-      "artists": [
-        {
-          "name": "Eric Nam",
-          "url": "https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM"
-        }
-      ],
-      "duration_ms": 165933,
-      "name": "Don't Leave Yet",
-      "url": "https://open.spotify.com/track/2YGLz59p5T0CMXeceMltiD"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
         "name": "symphony (feat. JEY)",
         "url": "https://open.spotify.com/album/1mFibFEygJopmsvcmW9Wtj"
       },
@@ -1491,6 +1455,22 @@
       "duration_ms": 188000,
       "name": "symphony (feat. JEY)",
       "url": "https://open.spotify.com/track/75HlF3Lupjc6TMwmYR7kjN"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
+        "name": "Don't Leave Yet",
+        "url": "https://open.spotify.com/album/3waB8KtFMT0fggbkjbK7Kj"
+      },
+      "artists": [
+        {
+          "name": "Eric Nam",
+          "url": "https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM"
+        }
+      ],
+      "duration_ms": 165933,
+      "name": "Don't Leave Yet",
+      "url": "https://open.spotify.com/track/2YGLz59p5T0CMXeceMltiD"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -1547,6 +1527,22 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
+        "name": "to love in the 21st century: the epilogue",
+        "url": "https://open.spotify.com/album/5gJGE4rjt0FgauKwsrak11"
+      },
+      "artists": [
+        {
+          "name": "Lyn Lapid",
+          "url": "https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v"
+        }
+      ],
+      "duration_ms": 165026,
+      "name": "july",
+      "url": "https://open.spotify.com/track/69hJjlCCD9ZbeSTYl6id04"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
         "name": "locket",
         "url": "https://open.spotify.com/album/3SKkBXx7vJu27MZS3NPP0N"
       },
@@ -1583,22 +1579,6 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "all of you",
-        "url": "https://open.spotify.com/album/7qlUQ05TJEwQ0B98RIdHdZ"
-      },
-      "artists": [
-        {
-          "name": "Gloria Kim",
-          "url": "https://open.spotify.com/artist/1DUd25ybTBglvAohsXTmBx"
-        }
-      ],
-      "duration_ms": 158485,
-      "name": "all of you",
-      "url": "https://open.spotify.com/track/6Py0YyWzj4Hb0MO64jAJQr"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
         "name": "Sunny",
         "url": "https://open.spotify.com/album/5FyY9wYLHeJoFzPl0tOU5k"
       },
@@ -1627,6 +1607,22 @@
       "duration_ms": 194545,
       "name": "mad's world",
       "url": "https://open.spotify.com/track/1MZHbJsMBbq5P3Mq4xgu8G"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
+        "name": "all of you",
+        "url": "https://open.spotify.com/album/7qlUQ05TJEwQ0B98RIdHdZ"
+      },
+      "artists": [
+        {
+          "name": "Gloria Kim",
+          "url": "https://open.spotify.com/artist/1DUd25ybTBglvAohsXTmBx"
+        }
+      ],
+      "duration_ms": 158485,
+      "name": "all of you",
+      "url": "https://open.spotify.com/track/6Py0YyWzj4Hb0MO64jAJQr"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -1747,22 +1743,6 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "to love in the 21st century: the epilogue",
-        "url": "https://open.spotify.com/album/5gJGE4rjt0FgauKwsrak11"
-      },
-      "artists": [
-        {
-          "name": "Lyn Lapid",
-          "url": "https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v"
-        }
-      ],
-      "duration_ms": 165026,
-      "name": "july",
-      "url": "https://open.spotify.com/track/69hJjlCCD9ZbeSTYl6id04"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
         "name": "see you in hell",
         "url": "https://open.spotify.com/album/7sRtmBFmILBIybIywVhXQM"
       },
@@ -1831,22 +1811,6 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "A PROPHECY",
-        "url": "https://open.spotify.com/album/697xj44bX9XhpDsx2poKKg"
-      },
-      "artists": [
-        {
-          "name": "Babebee",
-          "url": "https://open.spotify.com/artist/719aYkabpmAmY7DAQamb8h"
-        }
-      ],
-      "duration_ms": 148303,
-      "name": "BUTTERFLY \ub098\ube44",
-      "url": "https://open.spotify.com/track/4AT6shMJB9sHmw7hJJ0PI1"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
         "name": "CHIVALRY IS DEAD",
         "url": "https://open.spotify.com/album/7L4qkkUL8dr979LA7hzV9W"
       },
@@ -1863,6 +1827,22 @@
       "duration_ms": 183977,
       "name": "CHIVALRY IS DEAD",
       "url": "https://open.spotify.com/track/48KAjFkydsuZHkG7ftt8GW"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
+        "name": "A PROPHECY",
+        "url": "https://open.spotify.com/album/697xj44bX9XhpDsx2poKKg"
+      },
+      "artists": [
+        {
+          "name": "Babebee",
+          "url": "https://open.spotify.com/artist/719aYkabpmAmY7DAQamb8h"
+        }
+      ],
+      "duration_ms": 148303,
+      "name": "BUTTERFLY \ub098\ube44",
+      "url": "https://open.spotify.com/track/4AT6shMJB9sHmw7hJJ0PI1"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -2011,6 +1991,38 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
+        "name": "therapy",
+        "url": "https://open.spotify.com/album/2kbQIS1RXna9AWSxd7XnJF"
+      },
+      "artists": [
+        {
+          "name": "Gloria Kim",
+          "url": "https://open.spotify.com/artist/1DUd25ybTBglvAohsXTmBx"
+        }
+      ],
+      "duration_ms": 136804,
+      "name": "therapy",
+      "url": "https://open.spotify.com/track/4ndTXhzw5vx2KXZXOHOe8S"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
+        "name": "APESHIT",
+        "url": "https://open.spotify.com/album/6L1nBEEqTueYzXqFXgjR8Y"
+      },
+      "artists": [
+        {
+          "name": "Tiffany Day",
+          "url": "https://open.spotify.com/artist/5D5Qbe1lf3aMnLsPSzXItu"
+        }
+      ],
+      "duration_ms": 151400,
+      "name": "APESHIT",
+      "url": "https://open.spotify.com/track/3tkduPvfebrlyttUxtXq8V"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
         "name": "KLEPTO",
         "url": "https://open.spotify.com/album/7ojW1z49CULkNISvs2dEzT"
       },
@@ -2043,34 +2055,18 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "APESHIT",
-        "url": "https://open.spotify.com/album/6L1nBEEqTueYzXqFXgjR8Y"
+        "name": "Solo Dates",
+        "url": "https://open.spotify.com/album/3FHAfbbtKf0ucflD9qSWaf"
       },
       "artists": [
         {
-          "name": "Tiffany Day",
-          "url": "https://open.spotify.com/artist/5D5Qbe1lf3aMnLsPSzXItu"
+          "name": "FIG",
+          "url": "https://open.spotify.com/artist/2pKRCZKuL3p3PDWMNCLAH8"
         }
       ],
-      "duration_ms": 151400,
-      "name": "APESHIT",
-      "url": "https://open.spotify.com/track/3tkduPvfebrlyttUxtXq8V"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
-        "name": "therapy",
-        "url": "https://open.spotify.com/album/2kbQIS1RXna9AWSxd7XnJF"
-      },
-      "artists": [
-        {
-          "name": "Gloria Kim",
-          "url": "https://open.spotify.com/artist/1DUd25ybTBglvAohsXTmBx"
-        }
-      ],
-      "duration_ms": 136804,
-      "name": "therapy",
-      "url": "https://open.spotify.com/track/4ndTXhzw5vx2KXZXOHOe8S"
+      "duration_ms": 161099,
+      "name": "Solo Dates",
+      "url": "https://open.spotify.com/track/4TdgwnihAXiS8AmvjItqIz"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -2091,38 +2087,6 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "Solo Dates",
-        "url": "https://open.spotify.com/album/3FHAfbbtKf0ucflD9qSWaf"
-      },
-      "artists": [
-        {
-          "name": "FIG",
-          "url": "https://open.spotify.com/artist/2pKRCZKuL3p3PDWMNCLAH8"
-        }
-      ],
-      "duration_ms": 161099,
-      "name": "Solo Dates",
-      "url": "https://open.spotify.com/track/4TdgwnihAXiS8AmvjItqIz"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
-        "name": "Don't Know About The World",
-        "url": "https://open.spotify.com/album/5GrDrzY4yWfB2YwyZqx2gP"
-      },
-      "artists": [
-        {
-          "name": "Emei",
-          "url": "https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU"
-        }
-      ],
-      "duration_ms": 143696,
-      "name": "Don't Know About The World",
-      "url": "https://open.spotify.com/track/76M8uxD1WvL0H4h2Jv8Fm5"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
         "name": "the roaring twenties",
         "url": "https://open.spotify.com/album/3iu4PEVUoWS0bWi7f00XWz"
       },
@@ -2139,18 +2103,18 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "Future Reference",
-        "url": "https://open.spotify.com/album/4tCSd29eiXYeQoGZ15GTjg"
+        "name": "Don't Know About The World",
+        "url": "https://open.spotify.com/album/5GrDrzY4yWfB2YwyZqx2gP"
       },
       "artists": [
         {
-          "name": "Yeek",
-          "url": "https://open.spotify.com/artist/5BhFZpE8kUGZJiKOsYjLQM"
+          "name": "Emei",
+          "url": "https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU"
         }
       ],
-      "duration_ms": 196075,
-      "name": "Leave With Me",
-      "url": "https://open.spotify.com/track/1VXWhDwV2WG7tnlclMP1nk"
+      "duration_ms": 143696,
+      "name": "Don't Know About The World",
+      "url": "https://open.spotify.com/track/76M8uxD1WvL0H4h2Jv8Fm5"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -2191,6 +2155,22 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
+        "name": "Future Reference",
+        "url": "https://open.spotify.com/album/4tCSd29eiXYeQoGZ15GTjg"
+      },
+      "artists": [
+        {
+          "name": "Yeek",
+          "url": "https://open.spotify.com/artist/5BhFZpE8kUGZJiKOsYjLQM"
+        }
+      ],
+      "duration_ms": 196075,
+      "name": "Leave With Me",
+      "url": "https://open.spotify.com/track/1VXWhDwV2WG7tnlclMP1nk"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
         "name": "Thinkin Of U",
         "url": "https://open.spotify.com/album/4rS5b9Btr6I3JPhqVCO7BS"
       },
@@ -2211,22 +2191,6 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "Angst",
-        "url": "https://open.spotify.com/album/48zlzU7TS4mvMjUyF4gAha"
-      },
-      "artists": [
-        {
-          "name": "LIA LIA",
-          "url": "https://open.spotify.com/artist/2ZrAyY9nzikL0YAMgN4OUR"
-        }
-      ],
-      "duration_ms": 145057,
-      "name": "Angst",
-      "url": "https://open.spotify.com/track/0BEDIQmvhQ8sonh0c2YZWW"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
         "name": "like everyone else",
         "url": "https://open.spotify.com/album/1vd3pYHU1ajgRU4iYWDKVk"
       },
@@ -2243,22 +2207,34 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "Future Reference",
-        "url": "https://open.spotify.com/album/4tCSd29eiXYeQoGZ15GTjg"
+        "name": "Angst",
+        "url": "https://open.spotify.com/album/48zlzU7TS4mvMjUyF4gAha"
       },
       "artists": [
         {
-          "name": "Yeek",
-          "url": "https://open.spotify.com/artist/5BhFZpE8kUGZJiKOsYjLQM"
-        },
-        {
-          "name": "Bakar",
-          "url": "https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H"
+          "name": "LIA LIA",
+          "url": "https://open.spotify.com/artist/2ZrAyY9nzikL0YAMgN4OUR"
         }
       ],
-      "duration_ms": 152058,
-      "name": "Care (feat. Bakar)",
-      "url": "https://open.spotify.com/track/28Irf1qUrZ3Dbw9rXmXxHN"
+      "duration_ms": 145057,
+      "name": "Angst",
+      "url": "https://open.spotify.com/track/0BEDIQmvhQ8sonh0c2YZWW"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
+        "name": "Bloomingtale",
+        "url": "https://open.spotify.com/album/3DWiN5mfUN65FX3UJ4M4v3"
+      },
+      "artists": [
+        {
+          "name": "Vira Talisa",
+          "url": "https://open.spotify.com/artist/51Ssgb0bFNfHyAXc3Fpmuv"
+        }
+      ],
+      "duration_ms": 208136,
+      "name": "More & More",
+      "url": "https://open.spotify.com/track/1s9ewA2LqYWnWK7B47qrkN"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -2283,22 +2259,6 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "Bloomingtale",
-        "url": "https://open.spotify.com/album/3DWiN5mfUN65FX3UJ4M4v3"
-      },
-      "artists": [
-        {
-          "name": "Vira Talisa",
-          "url": "https://open.spotify.com/artist/51Ssgb0bFNfHyAXc3Fpmuv"
-        }
-      ],
-      "duration_ms": 208136,
-      "name": "More & More",
-      "url": "https://open.spotify.com/track/1s9ewA2LqYWnWK7B47qrkN"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
         "name": "MEIGUANXIDEYO",
         "url": "https://open.spotify.com/album/48zC40YjszPx0f83tzpKgu"
       },
@@ -2311,6 +2271,26 @@
       "duration_ms": 220000,
       "name": "MEIGUANXIDEYO",
       "url": "https://open.spotify.com/track/4RDEVasHPf6KH7yTCjpL47"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
+        "name": "Future Reference",
+        "url": "https://open.spotify.com/album/4tCSd29eiXYeQoGZ15GTjg"
+      },
+      "artists": [
+        {
+          "name": "Yeek",
+          "url": "https://open.spotify.com/artist/5BhFZpE8kUGZJiKOsYjLQM"
+        },
+        {
+          "name": "Bakar",
+          "url": "https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H"
+        }
+      ],
+      "duration_ms": 152058,
+      "name": "Care (feat. Bakar)",
+      "url": "https://open.spotify.com/track/28Irf1qUrZ3Dbw9rXmXxHN"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -2371,6 +2351,30 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
+        "name": "I'VE SEEN THIS MOVIE BEFORE Pt.2",
+        "url": "https://open.spotify.com/album/3qJp0l4TtjzUNXQ3cJnMPh"
+      },
+      "artists": [
+        {
+          "name": "hyejin",
+          "url": "https://open.spotify.com/artist/5zLd9DhI6ebR8fvwunp4bX"
+        },
+        {
+          "name": "Aleebi",
+          "url": "https://open.spotify.com/artist/5eo2IBMqyII25TtyBJ4359"
+        },
+        {
+          "name": "kasper",
+          "url": "https://open.spotify.com/artist/4kwRGpvKw9YsV0DTRZQKyH"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "I'VE SEEN THIS MOVIE BEFORE Pt.2",
+      "url": "https://open.spotify.com/track/6bZ6d4DqovVDecNAluId9h"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
         "name": "sole outlet",
         "url": "https://open.spotify.com/album/0Xmtrxgeg2ivd3874Nn9fL"
       },
@@ -2383,26 +2387,6 @@
       "duration_ms": 227538,
       "name": "sole outlet",
       "url": "https://open.spotify.com/track/3Axrk0m3aMkCz2D7R3GT5D"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
-        "name": "SEEING PINK",
-        "url": "https://open.spotify.com/album/2nSCMCTFyMGUf3bLI2bCed"
-      },
-      "artists": [
-        {
-          "name": "hyejin",
-          "url": "https://open.spotify.com/artist/5zLd9DhI6ebR8fvwunp4bX"
-        },
-        {
-          "name": "kasper",
-          "url": "https://open.spotify.com/artist/4kwRGpvKw9YsV0DTRZQKyH"
-        }
-      ],
-      "duration_ms": 197500,
-      "name": "SEEING PINK",
-      "url": "https://open.spotify.com/track/1F0Lmgb46zDkAefUhkJXB0"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -2455,26 +2439,6 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "SHYPOP",
-        "url": "https://open.spotify.com/album/54nbjxcvF5fRiDmp6IoWm8"
-      },
-      "artists": [
-        {
-          "name": "ISOxo",
-          "url": "https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav"
-        },
-        {
-          "name": "Ninajirachi",
-          "url": "https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR"
-        }
-      ],
-      "duration_ms": 208941,
-      "name": "SHYPOP",
-      "url": "https://open.spotify.com/track/2iggQ4lOp55ohzosZMYhSd"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
         "name": "Flying Fish",
         "url": "https://open.spotify.com/album/2Q5XpQhGIyRB5TUHTqkWQl"
       },
@@ -2487,6 +2451,26 @@
       "duration_ms": 181935,
       "name": "Flying Fish",
       "url": "https://open.spotify.com/track/5DGHfcMOCzfxiJnhybJHov"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
+        "name": "SEEING PINK",
+        "url": "https://open.spotify.com/album/2nSCMCTFyMGUf3bLI2bCed"
+      },
+      "artists": [
+        {
+          "name": "hyejin",
+          "url": "https://open.spotify.com/artist/5zLd9DhI6ebR8fvwunp4bX"
+        },
+        {
+          "name": "kasper",
+          "url": "https://open.spotify.com/artist/4kwRGpvKw9YsV0DTRZQKyH"
+        }
+      ],
+      "duration_ms": 197500,
+      "name": "SEEING PINK",
+      "url": "https://open.spotify.com/track/1F0Lmgb46zDkAefUhkJXB0"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -2507,6 +2491,26 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
+        "name": "SHYPOP",
+        "url": "https://open.spotify.com/album/54nbjxcvF5fRiDmp6IoWm8"
+      },
+      "artists": [
+        {
+          "name": "ISOxo",
+          "url": "https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav"
+        },
+        {
+          "name": "Ninajirachi",
+          "url": "https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR"
+        }
+      ],
+      "duration_ms": 208941,
+      "name": "SHYPOP",
+      "url": "https://open.spotify.com/track/2iggQ4lOp55ohzosZMYhSd"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
         "name": "OUT OF BODY",
         "url": "https://open.spotify.com/album/6Vn4kSaFkyRbNToiLEtNiX"
       },
@@ -2523,32 +2527,8 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "I'VE SEEN THIS MOVIE BEFORE Pt.2",
-        "url": "https://open.spotify.com/album/3qJp0l4TtjzUNXQ3cJnMPh"
-      },
-      "artists": [
-        {
-          "name": "hyejin",
-          "url": "https://open.spotify.com/artist/5zLd9DhI6ebR8fvwunp4bX"
-        },
-        {
-          "name": "Aleebi",
-          "url": "https://open.spotify.com/artist/5eo2IBMqyII25TtyBJ4359"
-        },
-        {
-          "name": "kasper",
-          "url": "https://open.spotify.com/artist/4kwRGpvKw9YsV0DTRZQKyH"
-        }
-      ],
-      "duration_ms": 208000,
-      "name": "I'VE SEEN THIS MOVIE BEFORE Pt.2",
-      "url": "https://open.spotify.com/track/6bZ6d4DqovVDecNAluId9h"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
-        "name": "the american dream",
-        "url": "https://open.spotify.com/album/1eWQEBUje4iECPF2LNqw51"
+        "name": "scenic route",
+        "url": "https://open.spotify.com/album/6abn0ffmiMYSmEx8ksGBvE"
       },
       "artists": [
         {
@@ -2556,9 +2536,25 @@
           "url": "https://open.spotify.com/artist/1SOubzv0uhrziEXbNLMUw9"
         }
       ],
-      "duration_ms": 227927,
-      "name": "the american dream",
-      "url": "https://open.spotify.com/track/0eqRXQyzoNrwnDEvcQyXSR"
+      "duration_ms": 180592,
+      "name": "scenic route",
+      "url": "https://open.spotify.com/track/1WrIpH5KlgQrYBsutdyWSE"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
+        "name": "If It's Time",
+        "url": "https://open.spotify.com/album/2PgVfs8f6XAgI5AAdvirWW"
+      },
+      "artists": [
+        {
+          "name": "Simu Liu",
+          "url": "https://open.spotify.com/artist/50cRZOl5AL13akHdLc7nfP"
+        }
+      ],
+      "duration_ms": 167845,
+      "name": "If It's Time",
+      "url": "https://open.spotify.com/track/6tl3V3Br8AFYE6q9khDdR6"
     }
   ],
   "unique_name": "Jasmine",

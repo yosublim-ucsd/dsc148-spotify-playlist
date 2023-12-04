@@ -1,12 +1,12 @@
 {
   "description": "get into your feels with some r&b magic",
-  "num_followers": 240640,
+  "num_followers": 240691,
   "original_name": "R&B Magic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYmE3ZTM0ZDBjZTQ4Mjk2MjRmMjkyYjliY2M4ZDc4YjgzZDVmOWRk",
+  "snapshot_id": "MCxlOTFkZjg3YjUxM2ZkOTA1YzVlOTc4ZjMwMzQyZmE5YzBmODc3OWY3",
   "tracks": [
     {
       "added_at": "2023-11-30 23:00:00",
@@ -835,22 +835,6 @@
     {
       "added_at": "2023-11-30 23:00:00",
       "album": {
-        "name": "Deeper",
-        "url": "https://open.spotify.com/album/7EYqiOzMfAuyPVtNwGHXQR"
-      },
-      "artists": [
-        {
-          "name": "Kiana Led\u00e9",
-          "url": "https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs"
-        }
-      ],
-      "duration_ms": 214455,
-      "name": "Deeper",
-      "url": "https://open.spotify.com/track/4NfGgVjYu5xqBLYAFdw7F0"
-    },
-    {
-      "added_at": "2023-11-30 23:00:00",
-      "album": {
         "name": "Look My Way",
         "url": "https://open.spotify.com/album/2GyWrPZ5ziSDUezZyhllEq"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 174000,
       "name": "Look My Way",
       "url": "https://open.spotify.com/track/2AvdB48FWJJMKzKeWgPt1R"
+    },
+    {
+      "added_at": "2023-11-30 23:00:00",
+      "album": {
+        "name": "Deeper",
+        "url": "https://open.spotify.com/album/7EYqiOzMfAuyPVtNwGHXQR"
+      },
+      "artists": [
+        {
+          "name": "Kiana Led\u00e9",
+          "url": "https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs"
+        }
+      ],
+      "duration_ms": 214455,
+      "name": "Deeper",
+      "url": "https://open.spotify.com/track/4NfGgVjYu5xqBLYAFdw7F0"
     },
     {
       "added_at": "2023-11-30 23:00:00",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2023-11-30 23:00:00",
       "album": {
-        "name": "Save Me, Pt. 2",
-        "url": "https://open.spotify.com/album/5x2Jk0WaGbKFjFB1HtAu8F"
-      },
-      "artists": [
-        {
-          "name": "Neema Nekesa",
-          "url": "https://open.spotify.com/artist/3hkQvRtfUiRaZRK3gBsIOI"
-        }
-      ],
-      "duration_ms": 151569,
-      "name": "Save Me, Pt. 2",
-      "url": "https://open.spotify.com/track/3ZxOiRrYY7h9BIE552XeOW"
-    },
-    {
-      "added_at": "2023-11-30 23:00:00",
-      "album": {
         "name": "You and I",
         "url": "https://open.spotify.com/album/4LOK8lJTo5ftB7gr4vnngj"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 186666,
       "name": "You and I",
       "url": "https://open.spotify.com/track/1EMy0gThjvmvKVQqBhBrPY"
+    },
+    {
+      "added_at": "2023-11-30 23:00:00",
+      "album": {
+        "name": "Save Me, Pt. 2",
+        "url": "https://open.spotify.com/album/5x2Jk0WaGbKFjFB1HtAu8F"
+      },
+      "artists": [
+        {
+          "name": "Neema Nekesa",
+          "url": "https://open.spotify.com/artist/3hkQvRtfUiRaZRK3gBsIOI"
+        }
+      ],
+      "duration_ms": 151569,
+      "name": "Save Me, Pt. 2",
+      "url": "https://open.spotify.com/track/3ZxOiRrYY7h9BIE552XeOW"
     },
     {
       "added_at": "2023-11-30 23:00:00",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2023-11-30 23:00:00",
       "album": {
-        "name": "hoe bedoel je?",
-        "url": "https://open.spotify.com/album/4CN04dChYLqFWOaSDhtOG3"
-      },
-      "artists": [
-        {
-          "name": "Danny Dubb",
-          "url": "https://open.spotify.com/artist/1ZzmoEKSOVNm75SY7T1zBe"
-        }
-      ],
-      "duration_ms": 137846,
-      "name": "hoe bedoel je?",
-      "url": "https://open.spotify.com/track/7juYCJy0yvKaV8uvZJV4p9"
-    },
-    {
-      "added_at": "2023-11-30 23:00:00",
-      "album": {
         "name": "Temporary Love",
         "url": "https://open.spotify.com/album/7Ik6vXPyiM9jflElmt78cQ"
       },
@@ -1363,6 +1347,22 @@
       "duration_ms": 156213,
       "name": "Temporary Love",
       "url": "https://open.spotify.com/track/502fO9MaTL1FXQxilajwW8"
+    },
+    {
+      "added_at": "2023-11-30 23:00:00",
+      "album": {
+        "name": "hoe bedoel je?",
+        "url": "https://open.spotify.com/album/4CN04dChYLqFWOaSDhtOG3"
+      },
+      "artists": [
+        {
+          "name": "Danny Dubb",
+          "url": "https://open.spotify.com/artist/1ZzmoEKSOVNm75SY7T1zBe"
+        }
+      ],
+      "duration_ms": 137846,
+      "name": "hoe bedoel je?",
+      "url": "https://open.spotify.com/track/7juYCJy0yvKaV8uvZJV4p9"
     },
     {
       "added_at": "2023-11-30 23:00:00",
@@ -1623,6 +1623,26 @@
     {
       "added_at": "2023-11-30 23:00:00",
       "album": {
+        "name": "Stars",
+        "url": "https://open.spotify.com/album/70KMbElvbjKSWUPERYbVCp"
+      },
+      "artists": [
+        {
+          "name": "Carlos Abril",
+          "url": "https://open.spotify.com/artist/3EZSFgcjMOuvt39vZQDo7L"
+        },
+        {
+          "name": "Amelia Rose",
+          "url": "https://open.spotify.com/artist/3UU07M4msKfDqC4c9JCnDl"
+        }
+      ],
+      "duration_ms": 258530,
+      "name": "Stars",
+      "url": "https://open.spotify.com/track/0rUmvpKfigC5jL0jnIcYTB"
+    },
+    {
+      "added_at": "2023-11-30 23:00:00",
+      "album": {
         "name": "Say That",
         "url": "https://open.spotify.com/album/1PQe82S6RF7feFvSBAn3yh"
       },
@@ -1739,22 +1759,6 @@
       "duration_ms": 141176,
       "name": "Flexible",
       "url": "https://open.spotify.com/track/159K76vGQ2yVz9RSjtRagM"
-    },
-    {
-      "added_at": "2023-11-30 23:00:00",
-      "album": {
-        "name": "Balcony",
-        "url": "https://open.spotify.com/album/695ukF8LGhGU4pagxtsxFc"
-      },
-      "artists": [
-        {
-          "name": "Anuka",
-          "url": "https://open.spotify.com/artist/4tp1pUIwgLWIIIIOo1yPYp"
-        }
-      ],
-      "duration_ms": 160944,
-      "name": "Balcony",
-      "url": "https://open.spotify.com/track/2IS5TQnd26IKxRg7cewEdO"
     }
   ],
   "unique_name": "R&B Magic",

@@ -1,12 +1,12 @@
 {
   "description": "Porque el asado se prende con m\u00fasica.",
-  "num_followers": 441111,
+  "num_followers": 441363,
   "original_name": "Asadito",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MTFhMTMyODQ4ZTI4NDhjMDAyOWQyNDMxODM1NzhiMGEyZGYxMjZj",
+  "snapshot_id": "MCw2ZDhlMTQ2MmEwMDE0ZjQ3MGE4NTU5MWJhNGJhYzZjZmQxYzQzYjdi",
   "tracks": [
     {
       "added_at": "2023-11-17 13:08:46",
@@ -603,22 +603,6 @@
     {
       "added_at": "2023-11-17 13:08:46",
       "album": {
-        "name": "La Sintesis O'Konor",
-        "url": "https://open.spotify.com/album/7oEJJ7TxrfWGJXczcuOWpK"
-      },
-      "artists": [
-        {
-          "name": "El Mat\u00f3 a un Polic\u00eda Motorizado",
-          "url": "https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB"
-        }
-      ],
-      "duration_ms": 271400,
-      "name": "El Tesoro",
-      "url": "https://open.spotify.com/track/7HmuloxW2LLiPu0lcmkjoq"
-    },
-    {
-      "added_at": "2023-11-17 13:08:46",
-      "album": {
         "name": "Raro",
         "url": "https://open.spotify.com/album/6evTdl2CjuBbkiCaXOKUKW"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 254106,
       "name": "Yendo a la Casa de Dami\u00e1n",
       "url": "https://open.spotify.com/track/3tUk2PzTp8KCIU4cxstJq1"
+    },
+    {
+      "added_at": "2023-11-17 13:08:46",
+      "album": {
+        "name": "La Sintesis O'Konor",
+        "url": "https://open.spotify.com/album/7oEJJ7TxrfWGJXczcuOWpK"
+      },
+      "artists": [
+        {
+          "name": "El Mat\u00f3 a un Polic\u00eda Motorizado",
+          "url": "https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB"
+        }
+      ],
+      "duration_ms": 271400,
+      "name": "El Tesoro",
+      "url": "https://open.spotify.com/track/7HmuloxW2LLiPu0lcmkjoq"
     },
     {
       "added_at": "2023-11-17 13:08:46",
@@ -703,22 +703,6 @@
     {
       "added_at": "2023-11-17 13:08:46",
       "album": {
-        "name": "Chac Tu Chac",
-        "url": "https://open.spotify.com/album/5OWKnhm9lqNlQwZRXdzzLK"
-      },
-      "artists": [
-        {
-          "name": "Los Piojos",
-          "url": "https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU"
-        }
-      ],
-      "duration_ms": 240013,
-      "name": "Tan Solo",
-      "url": "https://open.spotify.com/track/6Soxxi73U6SO4rOGJwYYxI"
-    },
-    {
-      "added_at": "2023-11-17 13:08:46",
-      "album": {
         "name": "Palabras m\u00e1s, palabras menos",
         "url": "https://open.spotify.com/album/0vcyVi1DEoFqSkGEJ8H46t"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 234813,
       "name": "Para no olvidar",
       "url": "https://open.spotify.com/track/1ZGs4W7LBJy68hRPTsvMFc"
+    },
+    {
+      "added_at": "2023-11-17 13:08:46",
+      "album": {
+        "name": "Chac Tu Chac",
+        "url": "https://open.spotify.com/album/5OWKnhm9lqNlQwZRXdzzLK"
+      },
+      "artists": [
+        {
+          "name": "Los Piojos",
+          "url": "https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU"
+        }
+      ],
+      "duration_ms": 240013,
+      "name": "Tan Solo",
+      "url": "https://open.spotify.com/track/6Soxxi73U6SO4rOGJwYYxI"
     },
     {
       "added_at": "2023-11-17 13:08:46",
@@ -831,6 +831,22 @@
     {
       "added_at": "2023-11-17 13:08:46",
       "album": {
+        "name": "Civilizaci\u00f3n",
+        "url": "https://open.spotify.com/album/2UWwSvdLSntNblYm32f6aN"
+      },
+      "artists": [
+        {
+          "name": "Los Piojos",
+          "url": "https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU"
+        }
+      ],
+      "duration_ms": 320760,
+      "name": "Bicho de Ciudad",
+      "url": "https://open.spotify.com/track/1L9ybuuZdLY3biLEgfN4zB"
+    },
+    {
+      "added_at": "2023-11-17 13:08:46",
+      "album": {
         "name": "Amor (Ft. Mon Laferte) (Mtv Unplugged)",
         "url": "https://open.spotify.com/album/6CNdw6WvNlH86Y0h3rVQtw"
       },
@@ -847,22 +863,6 @@
       "duration_ms": 312442,
       "name": "Amor (Ft. Mon Laferte) - Mtv Unplugged",
       "url": "https://open.spotify.com/track/2fscHtYDKLd7xYRCTe3prP"
-    },
-    {
-      "added_at": "2023-11-17 13:08:46",
-      "album": {
-        "name": "Civilizaci\u00f3n",
-        "url": "https://open.spotify.com/album/2UWwSvdLSntNblYm32f6aN"
-      },
-      "artists": [
-        {
-          "name": "Los Piojos",
-          "url": "https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU"
-        }
-      ],
-      "duration_ms": 320760,
-      "name": "Bicho de Ciudad",
-      "url": "https://open.spotify.com/track/1L9ybuuZdLY3biLEgfN4zB"
     },
     {
       "added_at": "2023-11-17 13:08:46",
@@ -999,22 +999,6 @@
     {
       "added_at": "2023-11-17 13:08:46",
       "album": {
-        "name": "Barrilete",
-        "url": "https://open.spotify.com/album/68CATT5x7h27zl3KKnLM3g"
-      },
-      "artists": [
-        {
-          "name": "Los Cafres",
-          "url": "https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI"
-        }
-      ],
-      "duration_ms": 279920,
-      "name": "Bastar\u00e1",
-      "url": "https://open.spotify.com/track/5fRgvfgF4TM947Gi6qOlcF"
-    },
-    {
-      "added_at": "2023-11-17 13:08:46",
-      "album": {
         "name": "Tango 4",
         "url": "https://open.spotify.com/album/0JTWqpFlJobaZW5V0Y0R5T"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 186466,
       "name": "Tu Amor",
       "url": "https://open.spotify.com/track/3obYcaXHdTB1EvZE3PVQhd"
+    },
+    {
+      "added_at": "2023-11-17 13:08:46",
+      "album": {
+        "name": "Barrilete",
+        "url": "https://open.spotify.com/album/68CATT5x7h27zl3KKnLM3g"
+      },
+      "artists": [
+        {
+          "name": "Los Cafres",
+          "url": "https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI"
+        }
+      ],
+      "duration_ms": 279920,
+      "name": "Bastar\u00e1",
+      "url": "https://open.spotify.com/track/5fRgvfgF4TM947Gi6qOlcF"
     },
     {
       "added_at": "2023-11-17 13:08:46",
@@ -1135,6 +1135,22 @@
     {
       "added_at": "2023-11-17 13:08:46",
       "album": {
+        "name": "Abre",
+        "url": "https://open.spotify.com/album/4uOEHOabkf5hmv0ra14XJb"
+      },
+      "artists": [
+        {
+          "name": "Fito Paez",
+          "url": "https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu"
+        }
+      ],
+      "duration_ms": 326213,
+      "name": "Al lado del camino",
+      "url": "https://open.spotify.com/track/4Ft15s9T7pcG7O85VbdxVl"
+    },
+    {
+      "added_at": "2023-11-17 13:08:46",
+      "album": {
         "name": "Otro D\u00eda en el Planeta Tierra",
         "url": "https://open.spotify.com/album/4Q2jY2HQPZxGimNjoKFKaC"
       },
@@ -1151,22 +1167,6 @@
       "duration_ms": 261545,
       "name": "Fuego",
       "url": "https://open.spotify.com/track/6q41qt2R9K8BXEzmzImEGO"
-    },
-    {
-      "added_at": "2023-11-17 13:08:46",
-      "album": {
-        "name": "Abre",
-        "url": "https://open.spotify.com/album/4uOEHOabkf5hmv0ra14XJb"
-      },
-      "artists": [
-        {
-          "name": "Fito Paez",
-          "url": "https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu"
-        }
-      ],
-      "duration_ms": 326213,
-      "name": "Al lado del camino",
-      "url": "https://open.spotify.com/track/4Ft15s9T7pcG7O85VbdxVl"
     },
     {
       "added_at": "2023-11-17 13:08:46",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2023-11-17 13:08:46",
       "album": {
-        "name": "Algo mejor",
-        "url": "https://open.spotify.com/album/2KaHfFLmbhkHQtMAEixycQ"
-      },
-      "artists": [
-        {
-          "name": "Fabiana Cantilo",
-          "url": "https://open.spotify.com/artist/5R6YR0pasdxlynyq0Abq7x"
-        }
-      ],
-      "duration_ms": 201773,
-      "name": "Mi enfermedad",
-      "url": "https://open.spotify.com/track/46bGEqzd7anKKovVOZ9bTF"
-    },
-    {
-      "added_at": "2023-11-17 13:08:46",
-      "album": {
         "name": "Para Mi para Vos",
         "url": "https://open.spotify.com/album/6gbK6L3qcmnGfhEEUj1VVu"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 261971,
       "name": "Magia Blanca",
       "url": "https://open.spotify.com/track/4PfoTZ8nDhWEZNeDpLxy7G"
+    },
+    {
+      "added_at": "2023-11-17 13:08:46",
+      "album": {
+        "name": "Algo mejor",
+        "url": "https://open.spotify.com/album/2KaHfFLmbhkHQtMAEixycQ"
+      },
+      "artists": [
+        {
+          "name": "Fabiana Cantilo",
+          "url": "https://open.spotify.com/artist/5R6YR0pasdxlynyq0Abq7x"
+        }
+      ],
+      "duration_ms": 201773,
+      "name": "Mi enfermedad",
+      "url": "https://open.spotify.com/track/46bGEqzd7anKKovVOZ9bTF"
     },
     {
       "added_at": "2023-11-17 13:08:46",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2023-11-17 13:08:46",
       "album": {
-        "name": "DESCARTABLE",
-        "url": "https://open.spotify.com/album/7irH2ykRChk6KjZ1Q8WmwY"
-      },
-      "artists": [
-        {
-          "name": "WOS",
-          "url": "https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK"
-        }
-      ],
-      "duration_ms": 181782,
-      "name": "DESCARTABLE",
-      "url": "https://open.spotify.com/track/7J00DHotXFrXatl9X6xY9r"
-    },
-    {
-      "added_at": "2023-11-17 13:08:46",
-      "album": {
         "name": "XX Aniversario En Vivo - Magos, Espadas Y Rosas",
         "url": "https://open.spotify.com/album/7dbk5SnWgnt485vlCizXBE"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 377399,
       "name": "Mujer Amante - Vivo",
       "url": "https://open.spotify.com/track/5O5PY5HJNPxD7KyqU0SEhH"
+    },
+    {
+      "added_at": "2023-11-17 13:08:46",
+      "album": {
+        "name": "DESCARTABLE",
+        "url": "https://open.spotify.com/album/7irH2ykRChk6KjZ1Q8WmwY"
+      },
+      "artists": [
+        {
+          "name": "WOS",
+          "url": "https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK"
+        }
+      ],
+      "duration_ms": 181782,
+      "name": "DESCARTABLE",
+      "url": "https://open.spotify.com/track/7J00DHotXFrXatl9X6xY9r"
     },
     {
       "added_at": "2023-11-17 13:08:46",
@@ -1403,6 +1403,22 @@
     {
       "added_at": "2023-11-17 13:08:46",
       "album": {
+        "name": "Fulanos de Nadie",
+        "url": "https://open.spotify.com/album/5C5gMVVl97LxjXpbZEHYKB"
+      },
+      "artists": [
+        {
+          "name": "Los Caballeros De La Quema",
+          "url": "https://open.spotify.com/artist/6Iv9dXeKX45ff7qe0LDuFW"
+        }
+      ],
+      "duration_ms": 259146,
+      "name": "Sapo de Otro Pozo",
+      "url": "https://open.spotify.com/track/1g0mhq4ZDQE3cTd1XLcYVf"
+    },
+    {
+      "added_at": "2023-11-17 13:08:46",
+      "album": {
         "name": "El camino de la libertad",
         "url": "https://open.spotify.com/album/45kxaX47xoKq4Pnlth6fU1"
       },
@@ -1419,18 +1435,18 @@
     {
       "added_at": "2023-11-17 13:08:46",
       "album": {
-        "name": "Fulanos de Nadie",
-        "url": "https://open.spotify.com/album/5C5gMVVl97LxjXpbZEHYKB"
+        "name": "Vol I",
+        "url": "https://open.spotify.com/album/3MMn99oMe2maysD6Vq441s"
       },
       "artists": [
         {
-          "name": "Los Caballeros De La Quema",
-          "url": "https://open.spotify.com/artist/6Iv9dXeKX45ff7qe0LDuFW"
+          "name": "GIT",
+          "url": "https://open.spotify.com/artist/21o0KNjooi1XjygW6V70NM"
         }
       ],
-      "duration_ms": 259146,
-      "name": "Sapo de Otro Pozo",
-      "url": "https://open.spotify.com/track/1g0mhq4ZDQE3cTd1XLcYVf"
+      "duration_ms": 266786,
+      "name": "La Calle Es Su Lugar",
+      "url": "https://open.spotify.com/track/0u5w3ehyNtTgSPvKVMU2xv"
     },
     {
       "added_at": "2023-11-17 13:08:46",
@@ -1467,18 +1483,18 @@
     {
       "added_at": "2023-11-17 13:08:46",
       "album": {
-        "name": "Vol I",
-        "url": "https://open.spotify.com/album/3MMn99oMe2maysD6Vq441s"
+        "name": "A Contraluz",
+        "url": "https://open.spotify.com/album/7LMidzEe6utRLx7hPiq2AL"
       },
       "artists": [
         {
-          "name": "GIT",
-          "url": "https://open.spotify.com/artist/21o0KNjooi1XjygW6V70NM"
+          "name": "La Vela Puerca",
+          "url": "https://open.spotify.com/artist/6nVcjUJemqpJjc1WevwTvL"
         }
       ],
-      "duration_ms": 266786,
-      "name": "La Calle Es Su Lugar",
-      "url": "https://open.spotify.com/track/0u5w3ehyNtTgSPvKVMU2xv"
+      "duration_ms": 232093,
+      "name": "Llenos De Magia",
+      "url": "https://open.spotify.com/track/2q0k5EsonFQ2dgzpfUJRpu"
     },
     {
       "added_at": "2023-11-17 13:08:46",
@@ -1495,22 +1511,6 @@
       "duration_ms": 238666,
       "name": "Si el Amor Se Cae - Versi\u00f3n 25 A\u00f1os [Live]",
       "url": "https://open.spotify.com/track/2wdfWNH3xbpNvX8FpMyyZ0"
-    },
-    {
-      "added_at": "2023-11-17 13:08:46",
-      "album": {
-        "name": "A Contraluz",
-        "url": "https://open.spotify.com/album/7LMidzEe6utRLx7hPiq2AL"
-      },
-      "artists": [
-        {
-          "name": "La Vela Puerca",
-          "url": "https://open.spotify.com/artist/6nVcjUJemqpJjc1WevwTvL"
-        }
-      ],
-      "duration_ms": 232093,
-      "name": "Llenos De Magia",
-      "url": "https://open.spotify.com/track/2q0k5EsonFQ2dgzpfUJRpu"
     },
     {
       "added_at": "2023-11-17 13:08:46",
@@ -1631,18 +1631,18 @@
     {
       "added_at": "2023-11-17 13:08:46",
       "album": {
-        "name": "Caminos Br\u00edos",
-        "url": "https://open.spotify.com/album/3TX9rPF9ruJb5Ntk7wAOrF"
+        "name": "Espejos",
+        "url": "https://open.spotify.com/album/6Hg4QuUasAaIbX037jHVg0"
       },
       "artists": [
         {
-          "name": "Piti Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4PJtMqmJX54aKaztYQfFYb"
+          "name": "Ciro y los Persas",
+          "url": "https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi"
         }
       ],
-      "duration_ms": 337538,
-      "name": "DOCTORA II",
-      "url": "https://open.spotify.com/track/0ei64Ivi3kxqHaQuYByc79"
+      "duration_ms": 277318,
+      "name": "Insisto",
+      "url": "https://open.spotify.com/track/0yCKreevOzN7ekcw7e4PuS"
     }
   ],
   "unique_name": "Asadito",

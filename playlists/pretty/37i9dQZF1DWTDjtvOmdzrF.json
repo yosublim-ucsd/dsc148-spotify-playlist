@@ -1,12 +1,12 @@
 {
   "description": "Racikan akustik dalam secangkir kopi. ",
-  "num_followers": 572258,
+  "num_followers": 572353,
   "original_name": "Kopikustik",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYmU2NGNiY2FhOGYxNjRiYmI1YWFiNzdmYzVmNGEyMjZjNWY2YTRj",
+  "snapshot_id": "MCw5NGFmZDczZTI5MmM1MTI0M2YwNDc4OTViMWRkNzgwMDg5ZWY5ZDYz",
   "tracks": [
     {
       "added_at": "2023-11-07 10:17:59",
@@ -295,22 +295,6 @@
     {
       "added_at": "2023-11-07 10:17:59",
       "album": {
-        "name": "Andra & The Backbone",
-        "url": "https://open.spotify.com/album/2puZQ79KT5q5RPae7khveD"
-      },
-      "artists": [
-        {
-          "name": "Andra & The Backbone",
-          "url": "https://open.spotify.com/artist/4ucwey7FxkHXkLK7jSfevU"
-        }
-      ],
-      "duration_ms": 268422,
-      "name": "Sempurna",
-      "url": "https://open.spotify.com/track/2UgCs0i0rNHUH2jKE5NZHE"
-    },
-    {
-      "added_at": "2023-11-07 10:17:59",
-      "album": {
         "name": "Selamat (Selamat Tinggal)",
         "url": "https://open.spotify.com/album/6osB48b3PzrABxdspbyYkd"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 313670,
       "name": "Selamat (Selamat Tinggal)",
       "url": "https://open.spotify.com/track/1mruWrUwAVe2XkksUQiaHK"
+    },
+    {
+      "added_at": "2023-11-07 10:17:59",
+      "album": {
+        "name": "Andra & The Backbone",
+        "url": "https://open.spotify.com/album/2puZQ79KT5q5RPae7khveD"
+      },
+      "artists": [
+        {
+          "name": "Andra & The Backbone",
+          "url": "https://open.spotify.com/artist/4ucwey7FxkHXkLK7jSfevU"
+        }
+      ],
+      "duration_ms": 268422,
+      "name": "Sempurna",
+      "url": "https://open.spotify.com/track/2UgCs0i0rNHUH2jKE5NZHE"
     },
     {
       "added_at": "2023-11-07 10:17:59",
@@ -523,6 +523,22 @@
     {
       "added_at": "2023-11-07 10:17:59",
       "album": {
+        "name": "Lelaku",
+        "url": "https://open.spotify.com/album/7L7LNEoL5tgH6CvWEnNDt1"
+      },
+      "artists": [
+        {
+          "name": "Fourtwnty",
+          "url": "https://open.spotify.com/artist/46cVq2dwPgzPE3X1VR9TMj"
+        }
+      ],
+      "duration_ms": 251000,
+      "name": "Hitam Putih",
+      "url": "https://open.spotify.com/track/0O6g2QFUhuLqRzGqhyzrIu"
+    },
+    {
+      "added_at": "2023-11-07 10:17:59",
+      "album": {
         "name": "YURA",
         "url": "https://open.spotify.com/album/6xzJINIJok2KZur8OzQQT8"
       },
@@ -539,22 +555,6 @@
       "duration_ms": 262060,
       "name": "Cinta Dan Rahasia",
       "url": "https://open.spotify.com/track/4HXUMRdT6s6Am6YHcWmuib"
-    },
-    {
-      "added_at": "2023-11-07 10:17:59",
-      "album": {
-        "name": "Lelaku",
-        "url": "https://open.spotify.com/album/7L7LNEoL5tgH6CvWEnNDt1"
-      },
-      "artists": [
-        {
-          "name": "Fourtwnty",
-          "url": "https://open.spotify.com/artist/46cVq2dwPgzPE3X1VR9TMj"
-        }
-      ],
-      "duration_ms": 251000,
-      "name": "Hitam Putih",
-      "url": "https://open.spotify.com/track/0O6g2QFUhuLqRzGqhyzrIu"
     },
     {
       "added_at": "2023-11-07 10:17:59",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2023-11-07 10:17:59",
       "album": {
-        "name": "happy",
-        "url": "https://open.spotify.com/album/0pVXyvbdicfbAhqKaxsnkd"
-      },
-      "artists": [
-        {
-          "name": "Skinnyfabs",
-          "url": "https://open.spotify.com/artist/3f0GZTXzBCmd5IBiMfsh1H"
-        }
-      ],
-      "duration_ms": 173217,
-      "name": "happy",
-      "url": "https://open.spotify.com/track/6YTmsdqH5LZzCGIY0lqloD"
-    },
-    {
-      "added_at": "2023-11-07 10:17:59",
-      "album": {
         "name": "Seamin Tak Seiman",
         "url": "https://open.spotify.com/album/7owNPjJUe8SaGuJ8zpYf6m"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 216448,
       "name": "Seamin Tak Seiman",
       "url": "https://open.spotify.com/track/26mwiyfmCKJBneTzlELpun"
+    },
+    {
+      "added_at": "2023-11-07 10:17:59",
+      "album": {
+        "name": "happy",
+        "url": "https://open.spotify.com/album/0pVXyvbdicfbAhqKaxsnkd"
+      },
+      "artists": [
+        {
+          "name": "Skinnyfabs",
+          "url": "https://open.spotify.com/artist/3f0GZTXzBCmd5IBiMfsh1H"
+        }
+      ],
+      "duration_ms": 173217,
+      "name": "happy",
+      "url": "https://open.spotify.com/track/6YTmsdqH5LZzCGIY0lqloD"
     },
     {
       "added_at": "2023-11-07 10:17:59",
@@ -1235,22 +1235,22 @@
     {
       "added_at": "2023-11-07 10:17:59",
       "album": {
-        "name": "Memory Lane",
-        "url": "https://open.spotify.com/album/4kGiYX3VXOTPJPqCgphG0C"
+        "name": "Indah Pada Waktunya",
+        "url": "https://open.spotify.com/album/58N9l8IdTOtwOk2C9FEdA4"
       },
       "artists": [
         {
-          "name": "TheOvertunes",
-          "url": "https://open.spotify.com/artist/3t4MHnVggiFLOuSSh4odBk"
+          "name": "Rizky Febian",
+          "url": "https://open.spotify.com/artist/28DdkLhrzQNizZ0ExQpyku"
         },
         {
-          "name": "Monita Tahalea",
-          "url": "https://open.spotify.com/artist/1xQXTnhREkLm14Wvrogo1g"
+          "name": "Aisyah Aziz",
+          "url": "https://open.spotify.com/artist/4DBXSxqzYS9jcuOpkn0Mh4"
         }
       ],
-      "duration_ms": 236394,
-      "name": "Bicara (feat. Monita Tahalea)",
-      "url": "https://open.spotify.com/track/1Dxb9nWV16f5PthsUsV1XZ"
+      "duration_ms": 240473,
+      "name": "Indah Pada Waktunya",
+      "url": "https://open.spotify.com/track/28Gd45dRqr92unRNIOxSWZ"
     }
   ],
   "unique_name": "Kopikustik",

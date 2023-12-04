@@ -1,12 +1,12 @@
 {
   "description": "The best indie rock vibes \u2014 classic and current. ",
-  "num_followers": 1995743,
+  "num_followers": 1995924,
   "original_name": "Feel-Good Indie Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiM2FkMGI2MDA4MGRmZTRjZjg0MWU2MWRiYWZiYzc3NTc5OGJkMTZl",
+  "snapshot_id": "MCwzMGNmYWIzMWVlNjEwNzQwZDZmNWNmMWQ1MmEyOTgwMDM0OGVhZWUw",
   "tracks": [
     {
       "added_at": "2023-12-01 18:55:07",
@@ -375,22 +375,6 @@
     {
       "added_at": "2023-12-01 18:55:07",
       "album": {
-        "name": "Wolfgang Amadeus Phoenix",
-        "url": "https://open.spotify.com/album/0xG5b9nkWxKc5VTpo6Fq5I"
-      },
-      "artists": [
-        {
-          "name": "Phoenix",
-          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
-        }
-      ],
-      "duration_ms": 241640,
-      "name": "Lisztomania",
-      "url": "https://open.spotify.com/track/7fmJGzyvOcbh6UANsH8Cp6"
-    },
-    {
-      "added_at": "2023-12-01 18:55:07",
-      "album": {
         "name": "Wet Leg",
         "url": "https://open.spotify.com/album/0r9awI5WRCZpwk0aVQ4bKO"
       },
@@ -403,6 +387,22 @@
       "duration_ms": 140080,
       "name": "Wet Dream",
       "url": "https://open.spotify.com/track/260Ub1Yuj4CobdISTOBvM9"
+    },
+    {
+      "added_at": "2023-12-01 18:55:07",
+      "album": {
+        "name": "Wolfgang Amadeus Phoenix",
+        "url": "https://open.spotify.com/album/0xG5b9nkWxKc5VTpo6Fq5I"
+      },
+      "artists": [
+        {
+          "name": "Phoenix",
+          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
+        }
+      ],
+      "duration_ms": 241640,
+      "name": "Lisztomania",
+      "url": "https://open.spotify.com/track/7fmJGzyvOcbh6UANsH8Cp6"
     },
     {
       "added_at": "2023-12-01 18:55:07",
@@ -615,6 +615,22 @@
     {
       "added_at": "2023-12-01 18:55:07",
       "album": {
+        "name": "AURORA",
+        "url": "https://open.spotify.com/album/4ouqACcnzsOvtUlnj5abyo"
+      },
+      "artists": [
+        {
+          "name": "Daisy Jones & The Six",
+          "url": "https://open.spotify.com/artist/0ZUdYzRCIrxbsd80MmGMqo"
+        }
+      ],
+      "duration_ms": 332386,
+      "name": "Look At Us Now (Honeycomb)",
+      "url": "https://open.spotify.com/track/7bSlafYF33JHLoB9NtsL9V"
+    },
+    {
+      "added_at": "2023-12-01 18:55:07",
+      "album": {
         "name": "Oysters In My Pocket",
         "url": "https://open.spotify.com/album/2tQ8dsmr0EpIJ5FFyUMQES"
       },
@@ -643,22 +659,6 @@
       "duration_ms": 158653,
       "name": "Like or Like Like",
       "url": "https://open.spotify.com/track/1OrD9RkuBnoNrrURFap9wi"
-    },
-    {
-      "added_at": "2023-12-01 18:55:07",
-      "album": {
-        "name": "AURORA",
-        "url": "https://open.spotify.com/album/4ouqACcnzsOvtUlnj5abyo"
-      },
-      "artists": [
-        {
-          "name": "Daisy Jones & The Six",
-          "url": "https://open.spotify.com/artist/0ZUdYzRCIrxbsd80MmGMqo"
-        }
-      ],
-      "duration_ms": 332386,
-      "name": "Look At Us Now (Honeycomb)",
-      "url": "https://open.spotify.com/track/7bSlafYF33JHLoB9NtsL9V"
     },
     {
       "added_at": "2023-12-01 18:55:07",
@@ -719,22 +719,6 @@
     {
       "added_at": "2023-12-01 18:55:07",
       "album": {
-        "name": "Roy Pablo",
-        "url": "https://open.spotify.com/album/1D3JNjKm7QRaHcIBzv0Xdn"
-      },
-      "artists": [
-        {
-          "name": "boy pablo",
-          "url": "https://open.spotify.com/artist/7wbkl3zgDZEoZer357mVIw"
-        }
-      ],
-      "duration_ms": 198000,
-      "name": "Dance, Baby!",
-      "url": "https://open.spotify.com/track/5EV4bGHxVN0kHpcAFvgnTt"
-    },
-    {
-      "added_at": "2023-12-01 18:55:07",
-      "album": {
         "name": "Rose Pink Cadillac",
         "url": "https://open.spotify.com/album/2VaOn32haUapQOYnerK32W"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 261911,
       "name": "Rose Pink Cadillac",
       "url": "https://open.spotify.com/track/5J59tqY0Ad4r27tJJajzyB"
+    },
+    {
+      "added_at": "2023-12-01 18:55:07",
+      "album": {
+        "name": "Roy Pablo",
+        "url": "https://open.spotify.com/album/1D3JNjKm7QRaHcIBzv0Xdn"
+      },
+      "artists": [
+        {
+          "name": "boy pablo",
+          "url": "https://open.spotify.com/artist/7wbkl3zgDZEoZer357mVIw"
+        }
+      ],
+      "duration_ms": 198000,
+      "name": "Dance, Baby!",
+      "url": "https://open.spotify.com/track/5EV4bGHxVN0kHpcAFvgnTt"
     },
     {
       "added_at": "2023-12-01 18:55:07",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2023-12-01 18:55:07",
       "album": {
-        "name": "Spring EP",
-        "url": "https://open.spotify.com/album/0P2kTQ7mJ3z7CFjII7GWkw"
-      },
-      "artists": [
-        {
-          "name": "Wallows",
-          "url": "https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL"
-        }
-      ],
-      "duration_ms": 204666,
-      "name": "Pictures of Girls",
-      "url": "https://open.spotify.com/track/415dK4glwDO7fXxYg3np8B"
-    },
-    {
-      "added_at": "2023-12-01 18:55:07",
-      "album": {
         "name": "Girlfriend",
         "url": "https://open.spotify.com/album/2eE9LjZBF3tbwvm802OGPK"
       },
@@ -1175,18 +1159,18 @@
     {
       "added_at": "2023-12-01 18:55:07",
       "album": {
-        "name": "People In Motion",
-        "url": "https://open.spotify.com/album/1ZhWoKlwX8xztzoLcFGiIs"
+        "name": "Spring EP",
+        "url": "https://open.spotify.com/album/0P2kTQ7mJ3z7CFjII7GWkw"
       },
       "artists": [
         {
-          "name": "Dayglow",
-          "url": "https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm"
+          "name": "Wallows",
+          "url": "https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL"
         }
       ],
-      "duration_ms": 183440,
-      "name": "Then It All Goes Away",
-      "url": "https://open.spotify.com/track/7MzjD4Ayl07w0TRsYSqfCh"
+      "duration_ms": 204666,
+      "name": "Pictures of Girls",
+      "url": "https://open.spotify.com/track/415dK4glwDO7fXxYg3np8B"
     },
     {
       "added_at": "2023-12-01 18:55:07",
@@ -1203,6 +1187,22 @@
       "duration_ms": 245225,
       "name": "The Narcissist",
       "url": "https://open.spotify.com/track/35d93v9AXADp8Wc0qJ3mIo"
+    },
+    {
+      "added_at": "2023-12-01 18:55:07",
+      "album": {
+        "name": "People In Motion",
+        "url": "https://open.spotify.com/album/1ZhWoKlwX8xztzoLcFGiIs"
+      },
+      "artists": [
+        {
+          "name": "Dayglow",
+          "url": "https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm"
+        }
+      ],
+      "duration_ms": 183440,
+      "name": "Then It All Goes Away",
+      "url": "https://open.spotify.com/track/7MzjD4Ayl07w0TRsYSqfCh"
     },
     {
       "added_at": "2023-12-01 18:55:07",
@@ -1323,6 +1323,22 @@
     {
       "added_at": "2023-12-01 18:55:07",
       "album": {
+        "name": "Disappear Here",
+        "url": "https://open.spotify.com/album/3fSYQvcrQJJhTv9PYYMkY5"
+      },
+      "artists": [
+        {
+          "name": "Bad Suns",
+          "url": "https://open.spotify.com/artist/0YhUSm86okLWldQVwJkLlP"
+        }
+      ],
+      "duration_ms": 187013,
+      "name": "Daft Pretty Boys (Explicit)",
+      "url": "https://open.spotify.com/track/2ZRQixbe1MCJxpcO96Zj1y"
+    },
+    {
+      "added_at": "2023-12-01 18:55:07",
+      "album": {
         "name": "Right Here, For Now",
         "url": "https://open.spotify.com/album/5eiR2EXJbe3N9QTzFJ4Jzi"
       },
@@ -1351,22 +1367,6 @@
       "duration_ms": 226133,
       "name": "All We Ever Do Is Talk",
       "url": "https://open.spotify.com/track/11sca0kohiR73mPDy9qhZv"
-    },
-    {
-      "added_at": "2023-12-01 18:55:07",
-      "album": {
-        "name": "Disappear Here",
-        "url": "https://open.spotify.com/album/3fSYQvcrQJJhTv9PYYMkY5"
-      },
-      "artists": [
-        {
-          "name": "Bad Suns",
-          "url": "https://open.spotify.com/artist/0YhUSm86okLWldQVwJkLlP"
-        }
-      ],
-      "duration_ms": 187013,
-      "name": "Daft Pretty Boys (Explicit)",
-      "url": "https://open.spotify.com/track/2ZRQixbe1MCJxpcO96Zj1y"
     },
     {
       "added_at": "2023-12-01 18:55:07",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2023-12-01 18:55:07",
       "album": {
-        "name": "warm glow",
-        "url": "https://open.spotify.com/album/4Haa4Xjv1O6cjPY2CwmbY8"
-      },
-      "artists": [
-        {
-          "name": "Hippo Campus",
-          "url": "https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A"
-        }
-      ],
-      "duration_ms": 198106,
-      "name": "baseball",
-      "url": "https://open.spotify.com/track/5lO1htX1UPjwyItDLurhR5"
-    },
-    {
-      "added_at": "2023-12-01 18:55:07",
-      "album": {
         "name": "Great Big Blue",
         "url": "https://open.spotify.com/album/7DdxUB0yaxk3JTWDhrYFhH"
       },
@@ -1479,6 +1463,22 @@
       "duration_ms": 247280,
       "name": "Saltwater",
       "url": "https://open.spotify.com/track/2QSrwZ7iVknZgkfi4aD6cn"
+    },
+    {
+      "added_at": "2023-12-01 18:55:07",
+      "album": {
+        "name": "warm glow",
+        "url": "https://open.spotify.com/album/4Haa4Xjv1O6cjPY2CwmbY8"
+      },
+      "artists": [
+        {
+          "name": "Hippo Campus",
+          "url": "https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A"
+        }
+      ],
+      "duration_ms": 198106,
+      "name": "baseball",
+      "url": "https://open.spotify.com/track/5lO1htX1UPjwyItDLurhR5"
     },
     {
       "added_at": "2023-12-01 18:55:07",
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2023-12-01 18:55:07",
       "album": {
-        "name": "All Talk!",
-        "url": "https://open.spotify.com/album/6u8tMQFTEZxoTO5wvIagWF"
-      },
-      "artists": [
-        {
-          "name": "Tim Atlas",
-          "url": "https://open.spotify.com/artist/3CiuXDKttPUT0tWGHicFUH"
-        }
-      ],
-      "duration_ms": 201178,
-      "name": "Unwind",
-      "url": "https://open.spotify.com/track/10qar57dEiw0arPhQ3NTU5"
-    },
-    {
-      "added_at": "2023-12-01 18:55:07",
-      "album": {
         "name": "Uncanny Valley",
         "url": "https://open.spotify.com/album/6ep7RptFPcLPi3qAhwi8l6"
       },
@@ -1563,18 +1547,18 @@
     {
       "added_at": "2023-12-01 18:55:07",
       "album": {
-        "name": "only wanna dance",
-        "url": "https://open.spotify.com/album/0TKIG4zSRc1lLU7CJ5ythm"
+        "name": "All Talk!",
+        "url": "https://open.spotify.com/album/6u8tMQFTEZxoTO5wvIagWF"
       },
       "artists": [
         {
-          "name": "almost monday",
-          "url": "https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E"
+          "name": "Tim Atlas",
+          "url": "https://open.spotify.com/artist/3CiuXDKttPUT0tWGHicFUH"
         }
       ],
-      "duration_ms": 144391,
-      "name": "only wanna dance",
-      "url": "https://open.spotify.com/track/5unvfecPlWyn1NkFpf5YvA"
+      "duration_ms": 201178,
+      "name": "Unwind",
+      "url": "https://open.spotify.com/track/10qar57dEiw0arPhQ3NTU5"
     },
     {
       "added_at": "2023-12-01 18:55:07",
@@ -1595,18 +1579,18 @@
     {
       "added_at": "2023-12-01 18:55:07",
       "album": {
-        "name": "Stella Brown",
-        "url": "https://open.spotify.com/album/5eCpoxWpC7zBCXLDbVyIzc"
+        "name": "only wanna dance",
+        "url": "https://open.spotify.com/album/0TKIG4zSRc1lLU7CJ5ythm"
       },
       "artists": [
         {
-          "name": "Jelani Aryeh",
-          "url": "https://open.spotify.com/artist/7A47sEe0ih6WpKmNCRMu86"
+          "name": "almost monday",
+          "url": "https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E"
         }
       ],
-      "duration_ms": 187415,
-      "name": "Stella Brown",
-      "url": "https://open.spotify.com/track/4gwltSjdrzKtKz9dlk2Wja"
+      "duration_ms": 144391,
+      "name": "only wanna dance",
+      "url": "https://open.spotify.com/track/5unvfecPlWyn1NkFpf5YvA"
     },
     {
       "added_at": "2023-12-01 18:55:07",
@@ -1623,6 +1607,22 @@
       "duration_ms": 248135,
       "name": "Midwest",
       "url": "https://open.spotify.com/track/5GDjtfw6yBjAuTGQrrQ6XD"
+    },
+    {
+      "added_at": "2023-12-01 18:55:07",
+      "album": {
+        "name": "Stella Brown",
+        "url": "https://open.spotify.com/album/5eCpoxWpC7zBCXLDbVyIzc"
+      },
+      "artists": [
+        {
+          "name": "Jelani Aryeh",
+          "url": "https://open.spotify.com/artist/7A47sEe0ih6WpKmNCRMu86"
+        }
+      ],
+      "duration_ms": 187415,
+      "name": "Stella Brown",
+      "url": "https://open.spotify.com/track/4gwltSjdrzKtKz9dlk2Wja"
     },
     {
       "added_at": "2023-12-01 18:55:07",
@@ -2179,22 +2179,6 @@
     {
       "added_at": "2023-12-01 18:55:07",
       "album": {
-        "name": "Hello, All!",
-        "url": "https://open.spotify.com/album/3hAyNJLQx0Mdq1LKclx7R4"
-      },
-      "artists": [
-        {
-          "name": "GROUPLOVE",
-          "url": "https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx"
-        }
-      ],
-      "duration_ms": 203853,
-      "name": "Hello",
-      "url": "https://open.spotify.com/track/3DcJhILpOqM0tNWTKGf6uq"
-    },
-    {
-      "added_at": "2023-12-01 18:55:07",
-      "album": {
         "name": "New Order T-Shirt",
         "url": "https://open.spotify.com/album/2r3ZTexCYXDSGmTbcNyqmw"
       },
@@ -2207,6 +2191,22 @@
       "duration_ms": 296000,
       "name": "New Order T-Shirt",
       "url": "https://open.spotify.com/track/6bVQ9ygrzZj9B7Z5hLB1bk"
+    },
+    {
+      "added_at": "2023-12-01 18:55:07",
+      "album": {
+        "name": "Hello, All!",
+        "url": "https://open.spotify.com/album/3hAyNJLQx0Mdq1LKclx7R4"
+      },
+      "artists": [
+        {
+          "name": "GROUPLOVE",
+          "url": "https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx"
+        }
+      ],
+      "duration_ms": 203853,
+      "name": "Hello",
+      "url": "https://open.spotify.com/track/3DcJhILpOqM0tNWTKGf6uq"
     },
     {
       "added_at": "2023-12-01 18:55:07",
@@ -2259,22 +2259,6 @@
     {
       "added_at": "2023-12-01 18:55:07",
       "album": {
-        "name": "Horizons",
-        "url": "https://open.spotify.com/album/0TNoEusEuT3DfGVhuc3j9D"
-      },
-      "artists": [
-        {
-          "name": "Gus Dapperton",
-          "url": "https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4"
-        }
-      ],
-      "duration_ms": 183852,
-      "name": "Horizons",
-      "url": "https://open.spotify.com/track/3lHh76erVVIK364LN7KBRr"
-    },
-    {
-      "added_at": "2023-12-01 18:55:07",
-      "album": {
         "name": "Daybreaker",
         "url": "https://open.spotify.com/album/7IWUDaOGwoX7VBo2PPad7u"
       },
@@ -2287,6 +2271,22 @@
       "duration_ms": 231366,
       "name": "All Day All Night",
       "url": "https://open.spotify.com/track/0E9Wzbeo7DMkWyJ8htEZlM"
+    },
+    {
+      "added_at": "2023-12-01 18:55:07",
+      "album": {
+        "name": "Horizons",
+        "url": "https://open.spotify.com/album/0TNoEusEuT3DfGVhuc3j9D"
+      },
+      "artists": [
+        {
+          "name": "Gus Dapperton",
+          "url": "https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4"
+        }
+      ],
+      "duration_ms": 183852,
+      "name": "Horizons",
+      "url": "https://open.spotify.com/track/3lHh76erVVIK364LN7KBRr"
     },
     {
       "added_at": "2023-12-01 18:55:07",

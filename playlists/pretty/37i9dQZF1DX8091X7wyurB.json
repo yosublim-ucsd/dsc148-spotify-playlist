@@ -1,12 +1,12 @@
 {
   "description": "If your mood is to Praise and Worship the Almighty God for what He has done, then this is the right playlist. A mix of both African and International songs. ",
-  "num_followers": 84092,
+  "num_followers": 84505,
   "original_name": "Praise and Worship",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZWM0MDY5ZmM5M2U5MWI2YTkxYzdiNzMxNWY2ZjkyOThmMmIwM2Jj",
+  "snapshot_id": "MCw4Zjc1ZTFjNWJiYTRiNTE1OTJkNWJhMzJjMWFlMzU5NGYxNmE5ODcx",
   "tracks": [
     {
       "added_at": "2023-12-01 00:01:00",
@@ -551,6 +551,22 @@
     {
       "added_at": "2023-12-01 00:01:00",
       "album": {
+        "name": "Spirit Chant",
+        "url": "https://open.spotify.com/album/7FzNCkKKqToJjJGXFhWkrf"
+      },
+      "artists": [
+        {
+          "name": "Victoria Orenze",
+          "url": "https://open.spotify.com/artist/4NS4onS3tvVfCJk2sJ7vso"
+        }
+      ],
+      "duration_ms": 610103,
+      "name": "Spirit Chant",
+      "url": "https://open.spotify.com/track/6SmLWZs2HkAX17zcvFGcln"
+    },
+    {
+      "added_at": "2023-12-01 00:01:00",
+      "album": {
         "name": "Father's Day",
         "url": "https://open.spotify.com/album/4EUco9VSvpupdEH7GA5Twu"
       },
@@ -579,22 +595,6 @@
       "duration_ms": 374780,
       "name": "Again",
       "url": "https://open.spotify.com/track/5R3susWR1HXEfUQzNNhFo5"
-    },
-    {
-      "added_at": "2023-12-01 00:01:00",
-      "album": {
-        "name": "Spirit Chant",
-        "url": "https://open.spotify.com/album/7FzNCkKKqToJjJGXFhWkrf"
-      },
-      "artists": [
-        {
-          "name": "Victoria Orenze",
-          "url": "https://open.spotify.com/artist/4NS4onS3tvVfCJk2sJ7vso"
-        }
-      ],
-      "duration_ms": 610103,
-      "name": "Spirit Chant",
-      "url": "https://open.spotify.com/track/6SmLWZs2HkAX17zcvFGcln"
     },
     {
       "added_at": "2023-12-01 00:01:00",
@@ -707,22 +707,6 @@
     {
       "added_at": "2023-12-01 00:01:00",
       "album": {
-        "name": "Truth in Sounds",
-        "url": "https://open.spotify.com/album/0wQ2rB1CLrUZlsYROvBDyq"
-      },
-      "artists": [
-        {
-          "name": "Victoria Orenze",
-          "url": "https://open.spotify.com/artist/4NS4onS3tvVfCJk2sJ7vso"
-        }
-      ],
-      "duration_ms": 546156,
-      "name": "I Get Backing",
-      "url": "https://open.spotify.com/track/5z8u1GwA8J7dBx1zMpfrjW"
-    },
-    {
-      "added_at": "2023-12-01 00:01:00",
-      "album": {
         "name": "Adonai",
         "url": "https://open.spotify.com/album/6FLiEFzCVibo1ptdlzXP4D"
       },
@@ -755,18 +739,38 @@
     {
       "added_at": "2023-12-01 00:01:00",
       "album": {
-        "name": "The Glory Experience (Live In Houston)",
-        "url": "https://open.spotify.com/album/0SfURVlWdCFsuLysixiSAZ"
+        "name": "Over",
+        "url": "https://open.spotify.com/album/3pea7BAnzcaMlscFEhMfRD"
       },
       "artists": [
         {
-          "name": "Uche Agu",
-          "url": "https://open.spotify.com/artist/2nSP3Ap7hxf4m4o5F5RXVj"
+          "name": "Limoblaze",
+          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
+        },
+        {
+          "name": "Elle Limebear",
+          "url": "https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD"
         }
       ],
-      "duration_ms": 148146,
-      "name": "My God Is Good - Double Double Remix/Live",
-      "url": "https://open.spotify.com/track/3ya7LWyudZ1kv04IwmBGes"
+      "duration_ms": 168000,
+      "name": "Over",
+      "url": "https://open.spotify.com/track/5w53DU4ZVdIn5J7iHP18gT"
+    },
+    {
+      "added_at": "2023-12-01 00:01:00",
+      "album": {
+        "name": "Truth in Sounds",
+        "url": "https://open.spotify.com/album/0wQ2rB1CLrUZlsYROvBDyq"
+      },
+      "artists": [
+        {
+          "name": "Victoria Orenze",
+          "url": "https://open.spotify.com/artist/4NS4onS3tvVfCJk2sJ7vso"
+        }
+      ],
+      "duration_ms": 546156,
+      "name": "I Get Backing",
+      "url": "https://open.spotify.com/track/5z8u1GwA8J7dBx1zMpfrjW"
     },
     {
       "added_at": "2023-12-01 00:01:00",
@@ -791,22 +795,18 @@
     {
       "added_at": "2023-12-01 00:01:00",
       "album": {
-        "name": "Over",
-        "url": "https://open.spotify.com/album/3pea7BAnzcaMlscFEhMfRD"
+        "name": "The Glory Experience (Live In Houston)",
+        "url": "https://open.spotify.com/album/0SfURVlWdCFsuLysixiSAZ"
       },
       "artists": [
         {
-          "name": "Limoblaze",
-          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
-        },
-        {
-          "name": "Elle Limebear",
-          "url": "https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD"
+          "name": "Uche Agu",
+          "url": "https://open.spotify.com/artist/2nSP3Ap7hxf4m4o5F5RXVj"
         }
       ],
-      "duration_ms": 168000,
-      "name": "Over",
-      "url": "https://open.spotify.com/track/5w53DU4ZVdIn5J7iHP18gT"
+      "duration_ms": 148146,
+      "name": "My God Is Good - Double Double Remix/Live",
+      "url": "https://open.spotify.com/track/3ya7LWyudZ1kv04IwmBGes"
     },
     {
       "added_at": "2023-12-01 00:01:00",
@@ -927,6 +927,26 @@
     {
       "added_at": "2023-12-01 00:01:00",
       "album": {
+        "name": "Gold",
+        "url": "https://open.spotify.com/album/6ogAwvxSzjwnaolFyQBpAf"
+      },
+      "artists": [
+        {
+          "name": "Limoblaze",
+          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
+        },
+        {
+          "name": "Ada Ehi",
+          "url": "https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt"
+        }
+      ],
+      "duration_ms": 174146,
+      "name": "Gold",
+      "url": "https://open.spotify.com/track/3hlQG5mVjjR5MupseJXkid"
+    },
+    {
+      "added_at": "2023-12-01 00:01:00",
+      "album": {
         "name": "Jesus Oh",
         "url": "https://open.spotify.com/album/62srZNS6dHIfKMjU1CHxNL"
       },
@@ -959,26 +979,6 @@
       "duration_ms": 299176,
       "name": "Confidence",
       "url": "https://open.spotify.com/track/4hyDPdiO14dwPmhPhlW8xE"
-    },
-    {
-      "added_at": "2023-12-01 00:01:00",
-      "album": {
-        "name": "Gold",
-        "url": "https://open.spotify.com/album/6ogAwvxSzjwnaolFyQBpAf"
-      },
-      "artists": [
-        {
-          "name": "Limoblaze",
-          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
-        },
-        {
-          "name": "Ada Ehi",
-          "url": "https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt"
-        }
-      ],
-      "duration_ms": 174146,
-      "name": "Gold",
-      "url": "https://open.spotify.com/track/3hlQG5mVjjR5MupseJXkid"
     },
     {
       "added_at": "2023-12-01 00:01:00",
@@ -1039,6 +1039,22 @@
     {
       "added_at": "2023-12-01 00:01:00",
       "album": {
+        "name": "RADICAL",
+        "url": "https://open.spotify.com/album/1Wo57u7paNfHF6mFD0W2wE"
+      },
+      "artists": [
+        {
+          "name": "CalledOut Music",
+          "url": "https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH"
+        }
+      ],
+      "duration_ms": 188540,
+      "name": "Greatest",
+      "url": "https://open.spotify.com/track/4RGma6BvBMPUlES6oAVubZ"
+    },
+    {
+      "added_at": "2023-12-01 00:01:00",
+      "album": {
         "name": "Spirit of Praise, Vol. 5 (Live)",
         "url": "https://open.spotify.com/album/5Et0R7qd6D6SupvR8TScaD"
       },
@@ -1063,54 +1079,6 @@
     {
       "added_at": "2023-12-01 00:01:00",
       "album": {
-        "name": "Oke Mmiri",
-        "url": "https://open.spotify.com/album/5baenpMXZnIbXczP9a9zMp"
-      },
-      "artists": [
-        {
-          "name": "Mercy Chinwo",
-          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
-        }
-      ],
-      "duration_ms": 504000,
-      "name": "Oke Mmiri - Live",
-      "url": "https://open.spotify.com/track/7ai3gQ391WGtQumyR1qI7e"
-    },
-    {
-      "added_at": "2023-12-01 00:01:00",
-      "album": {
-        "name": "RADICAL",
-        "url": "https://open.spotify.com/album/1Wo57u7paNfHF6mFD0W2wE"
-      },
-      "artists": [
-        {
-          "name": "CalledOut Music",
-          "url": "https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH"
-        }
-      ],
-      "duration_ms": 188540,
-      "name": "Greatest",
-      "url": "https://open.spotify.com/track/4RGma6BvBMPUlES6oAVubZ"
-    },
-    {
-      "added_at": "2023-12-01 00:01:00",
-      "album": {
-        "name": "Ikechi (Power of God)",
-        "url": "https://open.spotify.com/album/6n6e6Z1cnuMVWMQ9CBeInr"
-      },
-      "artists": [
-        {
-          "name": "Minister GUC",
-          "url": "https://open.spotify.com/artist/5F9NFQsix9CwLRFKUbyCEL"
-        }
-      ],
-      "duration_ms": 177400,
-      "name": "Ikechi (Power of God)",
-      "url": "https://open.spotify.com/track/2qhu3cRVoq4aW30mbPAo5y"
-    },
-    {
-      "added_at": "2023-12-01 00:01:00",
-      "album": {
         "name": "Thandwa Ndim",
         "url": "https://open.spotify.com/album/06bVQgyIrwyPBaCmuwwrqH"
       },
@@ -1131,6 +1099,38 @@
     {
       "added_at": "2023-12-01 00:01:00",
       "album": {
+        "name": "Ikechi (Power of God)",
+        "url": "https://open.spotify.com/album/6n6e6Z1cnuMVWMQ9CBeInr"
+      },
+      "artists": [
+        {
+          "name": "Minister GUC",
+          "url": "https://open.spotify.com/artist/5F9NFQsix9CwLRFKUbyCEL"
+        }
+      ],
+      "duration_ms": 177400,
+      "name": "Ikechi (Power of God)",
+      "url": "https://open.spotify.com/track/2qhu3cRVoq4aW30mbPAo5y"
+    },
+    {
+      "added_at": "2023-12-01 00:01:00",
+      "album": {
+        "name": "Oke Mmiri",
+        "url": "https://open.spotify.com/album/5baenpMXZnIbXczP9a9zMp"
+      },
+      "artists": [
+        {
+          "name": "Mercy Chinwo",
+          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
+        }
+      ],
+      "duration_ms": 504000,
+      "name": "Oke Mmiri - Live",
+      "url": "https://open.spotify.com/track/7ai3gQ391WGtQumyR1qI7e"
+    },
+    {
+      "added_at": "2023-12-01 00:01:00",
+      "album": {
         "name": "The Lord's Prayer (It's Yours) [Acoustic]",
         "url": "https://open.spotify.com/album/6smqQyvINcOFg13yRysvx6"
       },
@@ -1143,30 +1143,6 @@
       "duration_ms": 224024,
       "name": "The Lord's Prayer (It's Yours) - Acoustic",
       "url": "https://open.spotify.com/track/1baVBBJwh3e2EMvRTDI8WH"
-    },
-    {
-      "added_at": "2023-12-01 00:01:00",
-      "album": {
-        "name": "SATISFIED",
-        "url": "https://open.spotify.com/album/3CZq06hpGQ6cIUIUnPHhaU"
-      },
-      "artists": [
-        {
-          "name": "Mercy Chinwo",
-          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
-        },
-        {
-          "name": "JJ Hairston",
-          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
-        },
-        {
-          "name": "Youthful Praise",
-          "url": "https://open.spotify.com/artist/6RHDefZfOAyKIPCLnwOOq0"
-        }
-      ],
-      "duration_ms": 507376,
-      "name": "Excess Love (feat. JJ Hairston & Youthful Praise) - Remix",
-      "url": "https://open.spotify.com/track/02UAAdtYBua2p4Rj7qHjer"
     },
     {
       "added_at": "2023-12-01 00:01:00",
@@ -1215,6 +1191,22 @@
     {
       "added_at": "2023-12-01 00:01:00",
       "album": {
+        "name": "Adura",
+        "url": "https://open.spotify.com/album/2W4BAkrYRCQ6YjUDnJKw7B"
+      },
+      "artists": [
+        {
+          "name": "Paul Tomisin",
+          "url": "https://open.spotify.com/artist/5lFNvgjjW0gug2hAG5RPrQ"
+        }
+      ],
+      "duration_ms": 481462,
+      "name": "Adura",
+      "url": "https://open.spotify.com/track/3mpeIYgtnY2QrjJp0s3G4D"
+    },
+    {
+      "added_at": "2023-12-01 00:01:00",
+      "album": {
         "name": "Daddy wey dey Pamper",
         "url": "https://open.spotify.com/album/6sKADIMwrpbz7W2w54bZZI"
       },
@@ -1251,22 +1243,6 @@
     {
       "added_at": "2023-12-01 00:01:00",
       "album": {
-        "name": "Adura",
-        "url": "https://open.spotify.com/album/2W4BAkrYRCQ6YjUDnJKw7B"
-      },
-      "artists": [
-        {
-          "name": "Paul Tomisin",
-          "url": "https://open.spotify.com/artist/5lFNvgjjW0gug2hAG5RPrQ"
-        }
-      ],
-      "duration_ms": 481462,
-      "name": "Adura",
-      "url": "https://open.spotify.com/track/3mpeIYgtnY2QrjJp0s3G4D"
-    },
-    {
-      "added_at": "2023-12-01 00:01:00",
-      "album": {
         "name": "My Beautiful Reality",
         "url": "https://open.spotify.com/album/1wNaIjk7zTye6VNdn3E2F1"
       },
@@ -1299,6 +1275,30 @@
       "duration_ms": 251469,
       "name": "East To West",
       "url": "https://open.spotify.com/track/4Af0nbwppQs3hc5ga2mzby"
+    },
+    {
+      "added_at": "2023-12-01 00:01:00",
+      "album": {
+        "name": "SATISFIED",
+        "url": "https://open.spotify.com/album/3CZq06hpGQ6cIUIUnPHhaU"
+      },
+      "artists": [
+        {
+          "name": "Mercy Chinwo",
+          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
+        },
+        {
+          "name": "JJ Hairston",
+          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
+        },
+        {
+          "name": "Youthful Praise",
+          "url": "https://open.spotify.com/artist/6RHDefZfOAyKIPCLnwOOq0"
+        }
+      ],
+      "duration_ms": 507376,
+      "name": "Excess Love (feat. JJ Hairston & Youthful Praise) - Remix",
+      "url": "https://open.spotify.com/track/02UAAdtYBua2p4Rj7qHjer"
     },
     {
       "added_at": "2023-12-01 00:01:00",
@@ -1403,6 +1403,26 @@
     {
       "added_at": "2023-12-01 00:01:00",
       "album": {
+        "name": "Taking Care",
+        "url": "https://open.spotify.com/album/2nnyWDOWOobVUC6xx1XBqd"
+      },
+      "artists": [
+        {
+          "name": "Moses Bliss",
+          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
+        },
+        {
+          "name": "Mercy Chinwo",
+          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
+        }
+      ],
+      "duration_ms": 222315,
+      "name": "Taking Care - Remix",
+      "url": "https://open.spotify.com/track/28BKMZMQzetbKzNPkSdIBe"
+    },
+    {
+      "added_at": "2023-12-01 00:01:00",
+      "album": {
         "name": "Bina Moya Waka (Live)",
         "url": "https://open.spotify.com/album/7I4DEI4Hcojs2MieWKeOqP"
       },
@@ -1439,26 +1459,6 @@
       "duration_ms": 225866,
       "name": "The Lord's Prayer (It's Yours)",
       "url": "https://open.spotify.com/track/35oVIBPpkHEWsz3Q88NBAe"
-    },
-    {
-      "added_at": "2023-12-01 00:01:00",
-      "album": {
-        "name": "Taking Care",
-        "url": "https://open.spotify.com/album/2nnyWDOWOobVUC6xx1XBqd"
-      },
-      "artists": [
-        {
-          "name": "Moses Bliss",
-          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
-        },
-        {
-          "name": "Mercy Chinwo",
-          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
-        }
-      ],
-      "duration_ms": 222315,
-      "name": "Taking Care - Remix",
-      "url": "https://open.spotify.com/track/28BKMZMQzetbKzNPkSdIBe"
     },
     {
       "added_at": "2023-12-01 00:01:00",

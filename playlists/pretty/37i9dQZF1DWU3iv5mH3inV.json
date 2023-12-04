@@ -1,12 +1,12 @@
 {
   "description": "Dembow dominicano to el d\u00eda. Foto: Tokischa",
-  "num_followers": 98255,
+  "num_followers": 98295,
   "original_name": "Rep\u00fablica Dembow",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4OTU3YjE3NTA5ZDUxYTM1ZjExNWY1ZmVmMzU5YjIwMTAxNTdkMTU3",
+  "snapshot_id": "MCwzNTc1OWQwYzg0MTRiMDg0ZDVjMDFmOTg1NGU3MDcxYjA2ZGZhODUz",
   "tracks": [
     {
       "added_at": "2023-10-19 16:48:19",
@@ -395,38 +395,6 @@
     {
       "added_at": "2023-10-19 16:48:19",
       "album": {
-        "name": "El Boom",
-        "url": "https://open.spotify.com/album/3TMJdmoW3lPHunsISMexIW"
-      },
-      "artists": [
-        {
-          "name": "Chimbala",
-          "url": "https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U"
-        }
-      ],
-      "duration_ms": 219402,
-      "name": "El Boom",
-      "url": "https://open.spotify.com/track/4hir6efnLrA73d06HuLbZo"
-    },
-    {
-      "added_at": "2023-10-19 16:48:19",
-      "album": {
-        "name": "El Motorcito",
-        "url": "https://open.spotify.com/album/0Q8xUiGPK728UFpROnSGPD"
-      },
-      "artists": [
-        {
-          "name": "Lirico En La Casa",
-          "url": "https://open.spotify.com/artist/1Vr7DTbtTpOp4tn4hAGOYo"
-        }
-      ],
-      "duration_ms": 169293,
-      "name": "El Motorcito",
-      "url": "https://open.spotify.com/track/1c89Peahzqvhcs9UtiT879"
-    },
-    {
-      "added_at": "2023-10-19 16:48:19",
-      "album": {
         "name": "TATARA REMIX",
         "url": "https://open.spotify.com/album/5UvfZwBtCIWUNdDwuCExby"
       },
@@ -447,6 +415,38 @@
       "duration_ms": 154083,
       "name": "TATARA REMIX",
       "url": "https://open.spotify.com/track/3rGXH8BjIWSZgr38faOSNJ"
+    },
+    {
+      "added_at": "2023-10-19 16:48:19",
+      "album": {
+        "name": "El Motorcito",
+        "url": "https://open.spotify.com/album/0Q8xUiGPK728UFpROnSGPD"
+      },
+      "artists": [
+        {
+          "name": "Lirico En La Casa",
+          "url": "https://open.spotify.com/artist/1Vr7DTbtTpOp4tn4hAGOYo"
+        }
+      ],
+      "duration_ms": 169293,
+      "name": "El Motorcito",
+      "url": "https://open.spotify.com/track/1c89Peahzqvhcs9UtiT879"
+    },
+    {
+      "added_at": "2023-10-19 16:48:19",
+      "album": {
+        "name": "El Boom",
+        "url": "https://open.spotify.com/album/3TMJdmoW3lPHunsISMexIW"
+      },
+      "artists": [
+        {
+          "name": "Chimbala",
+          "url": "https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U"
+        }
+      ],
+      "duration_ms": 219402,
+      "name": "El Boom",
+      "url": "https://open.spotify.com/track/4hir6efnLrA73d06HuLbZo"
     },
     {
       "added_at": "2023-10-19 16:48:19",
@@ -491,6 +491,22 @@
     {
       "added_at": "2023-10-19 16:48:19",
       "album": {
+        "name": "Superman Sin Capa",
+        "url": "https://open.spotify.com/album/5veo7dGGy2WgRuEJ9kBYnr"
+      },
+      "artists": [
+        {
+          "name": "El Super Nuevo",
+          "url": "https://open.spotify.com/artist/3hWKGRKwr78bhxvErSJBdu"
+        }
+      ],
+      "duration_ms": 230280,
+      "name": "Superman Sin Capa",
+      "url": "https://open.spotify.com/track/0DddndOK6s6sMu06cwNcFM"
+    },
+    {
+      "added_at": "2023-10-19 16:48:19",
+      "album": {
         "name": "EL DUE\u00d1O DE LO CROKY",
         "url": "https://open.spotify.com/album/190ZJLansag1l9axCck8rx"
       },
@@ -515,18 +531,18 @@
     {
       "added_at": "2023-10-19 16:48:19",
       "album": {
-        "name": "Superman Sin Capa",
-        "url": "https://open.spotify.com/album/5veo7dGGy2WgRuEJ9kBYnr"
+        "name": "Tumbala",
+        "url": "https://open.spotify.com/album/09oK38U1xFy88t6Iho7ojt"
       },
       "artists": [
         {
-          "name": "El Super Nuevo",
-          "url": "https://open.spotify.com/artist/3hWKGRKwr78bhxvErSJBdu"
+          "name": "Chimbala",
+          "url": "https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U"
         }
       ],
-      "duration_ms": 230280,
-      "name": "Superman Sin Capa",
-      "url": "https://open.spotify.com/track/0DddndOK6s6sMu06cwNcFM"
+      "duration_ms": 186240,
+      "name": "Tumbala",
+      "url": "https://open.spotify.com/track/7oieFIG0uypkJeI1akfkQ5"
     },
     {
       "added_at": "2023-10-19 16:48:19",
@@ -547,22 +563,6 @@
       "duration_ms": 132413,
       "name": "Wilan ( Prendela A Valor )",
       "url": "https://open.spotify.com/track/6M829ypWCFkmOvM4u7X3kw"
-    },
-    {
-      "added_at": "2023-10-19 16:48:19",
-      "album": {
-        "name": "Tumbala",
-        "url": "https://open.spotify.com/album/09oK38U1xFy88t6Iho7ojt"
-      },
-      "artists": [
-        {
-          "name": "Chimbala",
-          "url": "https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U"
-        }
-      ],
-      "duration_ms": 186240,
-      "name": "Tumbala",
-      "url": "https://open.spotify.com/track/7oieFIG0uypkJeI1akfkQ5"
     },
     {
       "added_at": "2023-10-19 16:48:19",
@@ -971,6 +971,22 @@
     {
       "added_at": "2023-10-19 16:48:19",
       "album": {
+        "name": "Cuando Bebo",
+        "url": "https://open.spotify.com/album/2qijMBUbzPBCwN0JjGr8Df"
+      },
+      "artists": [
+        {
+          "name": "El Super Nuevo",
+          "url": "https://open.spotify.com/artist/3hWKGRKwr78bhxvErSJBdu"
+        }
+      ],
+      "duration_ms": 234372,
+      "name": "Cuando Bebo",
+      "url": "https://open.spotify.com/track/7HEEmTfwfM56sSZd6glbZH"
+    },
+    {
+      "added_at": "2023-10-19 16:48:19",
+      "album": {
         "name": "Bye Bye (feat. Chimbala and Liro Shaq)",
         "url": "https://open.spotify.com/album/7juaBYswyufzydPt0016zv"
       },
@@ -991,22 +1007,6 @@
       "duration_ms": 196746,
       "name": "Bye Bye",
       "url": "https://open.spotify.com/track/1CFICGHfnZH6tXVKIYtYJp"
-    },
-    {
-      "added_at": "2023-10-19 16:48:19",
-      "album": {
-        "name": "Cuando Bebo",
-        "url": "https://open.spotify.com/album/2qijMBUbzPBCwN0JjGr8Df"
-      },
-      "artists": [
-        {
-          "name": "El Super Nuevo",
-          "url": "https://open.spotify.com/artist/3hWKGRKwr78bhxvErSJBdu"
-        }
-      ],
-      "duration_ms": 234372,
-      "name": "Cuando Bebo",
-      "url": "https://open.spotify.com/track/7HEEmTfwfM56sSZd6glbZH"
     },
     {
       "added_at": "2023-10-19 16:48:19",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2023-10-19 16:48:19",
       "album": {
-        "name": "San Juan",
-        "url": "https://open.spotify.com/album/2oCD69qHFvskQsshKYynoo"
-      },
-      "artists": [
-        {
-          "name": "Dilon Baby",
-          "url": "https://open.spotify.com/artist/4ZIaiuKxYK6A6JwvvwqXoN"
-        }
-      ],
-      "duration_ms": 132004,
-      "name": "San Juan",
-      "url": "https://open.spotify.com/track/3BCDbyPWOa5ZDStKlDORW4"
-    },
-    {
-      "added_at": "2023-10-19 16:48:19",
-      "album": {
         "name": "Dembow 2014 - 14 Original Urban Hits!",
         "url": "https://open.spotify.com/album/2wQgEZf2kLZFjLOqI9EV64"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 205080,
       "name": "Siente El Ki",
       "url": "https://open.spotify.com/track/4Y4TzQhODQmsTRA3NTuFlV"
+    },
+    {
+      "added_at": "2023-10-19 16:48:19",
+      "album": {
+        "name": "San Juan",
+        "url": "https://open.spotify.com/album/2oCD69qHFvskQsshKYynoo"
+      },
+      "artists": [
+        {
+          "name": "Dilon Baby",
+          "url": "https://open.spotify.com/artist/4ZIaiuKxYK6A6JwvvwqXoN"
+        }
+      ],
+      "duration_ms": 132004,
+      "name": "San Juan",
+      "url": "https://open.spotify.com/track/3BCDbyPWOa5ZDStKlDORW4"
     },
     {
       "added_at": "2023-10-19 16:48:19",
@@ -1419,6 +1419,22 @@
     {
       "added_at": "2023-10-19 16:48:19",
       "album": {
+        "name": "Hoy Me Desacato Dale Pipo",
+        "url": "https://open.spotify.com/album/1HkcysDSgRBGuPZoTvoMIn"
+      },
+      "artists": [
+        {
+          "name": "Bulova",
+          "url": "https://open.spotify.com/artist/6NAhbfEqeWELwfjH391Vz0"
+        }
+      ],
+      "duration_ms": 162482,
+      "name": "Hoy Me Desacato Dale Pipo",
+      "url": "https://open.spotify.com/track/0q4DQ6tvmFhpQZFdcJLV1K"
+    },
+    {
+      "added_at": "2023-10-19 16:48:19",
+      "album": {
         "name": "Tu Lokotron Remix",
         "url": "https://open.spotify.com/album/0Ux38IUGtLmSvNiPRrik70"
       },
@@ -1435,18 +1451,26 @@
     {
       "added_at": "2023-10-19 16:48:19",
       "album": {
-        "name": "Hoy Me Desacato Dale Pipo",
-        "url": "https://open.spotify.com/album/1HkcysDSgRBGuPZoTvoMIn"
+        "name": "Kitipo",
+        "url": "https://open.spotify.com/album/4UZSYzB1NWuXeSE0gqqv4c"
       },
       "artists": [
         {
-          "name": "Bulova",
-          "url": "https://open.spotify.com/artist/6NAhbfEqeWELwfjH391Vz0"
+          "name": "Dixson Waz",
+          "url": "https://open.spotify.com/artist/0ojgcvasAUtJXXV8ddYQNt"
+        },
+        {
+          "name": "La Tukiti",
+          "url": "https://open.spotify.com/artist/65j9C3n5PkSSZ8oPXzO2nf"
+        },
+        {
+          "name": "Amenazandel",
+          "url": "https://open.spotify.com/artist/59QQbpbrYSGtgG338yoLx4"
         }
       ],
-      "duration_ms": 162482,
-      "name": "Hoy Me Desacato Dale Pipo",
-      "url": "https://open.spotify.com/track/0q4DQ6tvmFhpQZFdcJLV1K"
+      "duration_ms": 211932,
+      "name": "Kitipo",
+      "url": "https://open.spotify.com/track/7vP0TrbROeQghZYCusLylM"
     },
     {
       "added_at": "2023-10-19 16:48:19",
@@ -1491,30 +1515,6 @@
     {
       "added_at": "2023-10-19 16:48:19",
       "album": {
-        "name": "Kitipo",
-        "url": "https://open.spotify.com/album/4UZSYzB1NWuXeSE0gqqv4c"
-      },
-      "artists": [
-        {
-          "name": "Dixson Waz",
-          "url": "https://open.spotify.com/artist/0ojgcvasAUtJXXV8ddYQNt"
-        },
-        {
-          "name": "La Tukiti",
-          "url": "https://open.spotify.com/artist/65j9C3n5PkSSZ8oPXzO2nf"
-        },
-        {
-          "name": "Amenazandel",
-          "url": "https://open.spotify.com/artist/59QQbpbrYSGtgG338yoLx4"
-        }
-      ],
-      "duration_ms": 211932,
-      "name": "Kitipo",
-      "url": "https://open.spotify.com/track/7vP0TrbROeQghZYCusLylM"
-    },
-    {
-      "added_at": "2023-10-19 16:48:19",
-      "album": {
         "name": "No Son de Na",
         "url": "https://open.spotify.com/album/4J4bjLAtDPXFSjhNhV2MIS"
       },
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2023-10-19 16:48:19",
       "album": {
-        "name": "Cuba",
-        "url": "https://open.spotify.com/album/0oCzmFgq7v3uSTZXRpN2lE"
-      },
-      "artists": [
-        {
-          "name": "Flow 28",
-          "url": "https://open.spotify.com/artist/7cBlyZwtKHes30iMefd0qC"
-        }
-      ],
-      "duration_ms": 173609,
-      "name": "Cuba",
-      "url": "https://open.spotify.com/track/2O1RpyrV0qV4iKltBgkDU7"
-    },
-    {
-      "added_at": "2023-10-19 16:48:19",
-      "album": {
         "name": "Dominican Playero 40",
         "url": "https://open.spotify.com/album/2eoQDJb2fNXkuBfWPANoJe"
       },
@@ -1559,6 +1543,22 @@
       "duration_ms": 201039,
       "name": "Dominican Playero 40",
       "url": "https://open.spotify.com/track/7ABFA1oWDw1W4BHHTrRCsF"
+    },
+    {
+      "added_at": "2023-10-19 16:48:19",
+      "album": {
+        "name": "Cuba",
+        "url": "https://open.spotify.com/album/0oCzmFgq7v3uSTZXRpN2lE"
+      },
+      "artists": [
+        {
+          "name": "Flow 28",
+          "url": "https://open.spotify.com/artist/7cBlyZwtKHes30iMefd0qC"
+        }
+      ],
+      "duration_ms": 173609,
+      "name": "Cuba",
+      "url": "https://open.spotify.com/track/2O1RpyrV0qV4iKltBgkDU7"
     },
     {
       "added_at": "2023-10-19 16:48:19",
@@ -1643,6 +1643,26 @@
     {
       "added_at": "2023-10-19 16:48:19",
       "album": {
+        "name": "Exitos, Vol.1",
+        "url": "https://open.spotify.com/album/3VYjIp6qFqI0GrEAy3tvBD"
+      },
+      "artists": [
+        {
+          "name": "LR",
+          "url": "https://open.spotify.com/artist/3TkImpONkqVur05k1iIe7l"
+        },
+        {
+          "name": "La Nueva Escuela",
+          "url": "https://open.spotify.com/artist/7mcJN2bWqCv7jvykgHp4KN"
+        }
+      ],
+      "duration_ms": 155168,
+      "name": "Ella Me Mira (feat. La Nueva Escuela)",
+      "url": "https://open.spotify.com/track/42pwnitS0DXpyFrb1FylEI"
+    },
+    {
+      "added_at": "2023-10-19 16:48:19",
+      "album": {
         "name": "Exitos",
         "url": "https://open.spotify.com/album/7p9lBLA0o9JnxOgosUZlLJ"
       },
@@ -1679,26 +1699,6 @@
       "duration_ms": 170084,
       "name": "KIKITO",
       "url": "https://open.spotify.com/track/3E24uQnsEFBxqaGrxyTuMK"
-    },
-    {
-      "added_at": "2023-10-19 16:48:19",
-      "album": {
-        "name": "Exitos, Vol.1",
-        "url": "https://open.spotify.com/album/3VYjIp6qFqI0GrEAy3tvBD"
-      },
-      "artists": [
-        {
-          "name": "LR",
-          "url": "https://open.spotify.com/artist/3TkImpONkqVur05k1iIe7l"
-        },
-        {
-          "name": "La Nueva Escuela",
-          "url": "https://open.spotify.com/artist/7mcJN2bWqCv7jvykgHp4KN"
-        }
-      ],
-      "duration_ms": 155168,
-      "name": "Ella Me Mira (feat. La Nueva Escuela)",
-      "url": "https://open.spotify.com/track/42pwnitS0DXpyFrb1FylEI"
     },
     {
       "added_at": "2023-10-19 16:48:19",
@@ -2155,6 +2155,26 @@
     {
       "added_at": "2023-10-19 16:48:19",
       "album": {
+        "name": "Pikilao",
+        "url": "https://open.spotify.com/album/4WpNyKxMzO2NVseDzkaO0o"
+      },
+      "artists": [
+        {
+          "name": "Los Del Millero",
+          "url": "https://open.spotify.com/artist/5Xid8RniwfI34R5LLqHFbs"
+        },
+        {
+          "name": "El Tratol",
+          "url": "https://open.spotify.com/artist/013YMkhPziWNAvcGcdSnHn"
+        }
+      ],
+      "duration_ms": 160705,
+      "name": "Pikilao",
+      "url": "https://open.spotify.com/track/1USrz45gdBbu2OzpkFZPSI"
+    },
+    {
+      "added_at": "2023-10-19 16:48:19",
+      "album": {
         "name": "LATIN HITS 2018 - Reggaeton, Salsa, Bachata, Pop Latino, Latin Fitness (60 Super Exitos Latinos - Club Edition)",
         "url": "https://open.spotify.com/album/7CecgOEOAK5MBc5kkEycA4"
       },
@@ -2187,22 +2207,6 @@
     {
       "added_at": "2023-10-19 16:48:19",
       "album": {
-        "name": "Pin Pon",
-        "url": "https://open.spotify.com/album/0Fm04gVS5QjzNXMB10o8xM"
-      },
-      "artists": [
-        {
-          "name": "Liro Shaq",
-          "url": "https://open.spotify.com/artist/3oOJYwLB8FGSKYOQ5zx7Kk"
-        }
-      ],
-      "duration_ms": 196702,
-      "name": "Pin Pon",
-      "url": "https://open.spotify.com/track/0hsvxHMRWEvUCtE1qDfiDG"
-    },
-    {
-      "added_at": "2023-10-19 16:48:19",
-      "album": {
         "name": "Latino 60 presenta Zumbando (US Edition) [Salsa Bachata Merengue Reggaeton Dembow Fitness]",
         "url": "https://open.spotify.com/album/4R35k47ew84Pw8rEFAUXz0"
       },
@@ -2219,22 +2223,18 @@
     {
       "added_at": "2023-10-19 16:48:19",
       "album": {
-        "name": "Pikilao",
-        "url": "https://open.spotify.com/album/4WpNyKxMzO2NVseDzkaO0o"
+        "name": "Pin Pon",
+        "url": "https://open.spotify.com/album/0Fm04gVS5QjzNXMB10o8xM"
       },
       "artists": [
         {
-          "name": "Los Del Millero",
-          "url": "https://open.spotify.com/artist/5Xid8RniwfI34R5LLqHFbs"
-        },
-        {
-          "name": "El Tratol",
-          "url": "https://open.spotify.com/artist/013YMkhPziWNAvcGcdSnHn"
+          "name": "Liro Shaq",
+          "url": "https://open.spotify.com/artist/3oOJYwLB8FGSKYOQ5zx7Kk"
         }
       ],
-      "duration_ms": 160705,
-      "name": "Pikilao",
-      "url": "https://open.spotify.com/track/1USrz45gdBbu2OzpkFZPSI"
+      "duration_ms": 196702,
+      "name": "Pin Pon",
+      "url": "https://open.spotify.com/track/0hsvxHMRWEvUCtE1qDfiDG"
     },
     {
       "added_at": "2023-10-19 16:48:19",
@@ -2271,22 +2271,6 @@
       "duration_ms": 133159,
       "name": "PERRO",
       "url": "https://open.spotify.com/track/4awqf3n2Wv26V2qxYV1H2s"
-    },
-    {
-      "added_at": "2023-10-19 16:48:19",
-      "album": {
-        "name": "Guayabu",
-        "url": "https://open.spotify.com/album/0ir4DHfH1beyncktC1fS9F"
-      },
-      "artists": [
-        {
-          "name": "Liro Shaq",
-          "url": "https://open.spotify.com/artist/3oOJYwLB8FGSKYOQ5zx7Kk"
-        }
-      ],
-      "duration_ms": 182543,
-      "name": "Guayabu",
-      "url": "https://open.spotify.com/track/44od1fdb17U2rdvfGYJY68"
     },
     {
       "added_at": "2023-10-19 16:48:19",
@@ -2331,6 +2315,22 @@
       "duration_ms": 192313,
       "name": "Primero Que Kanye",
       "url": "https://open.spotify.com/track/6qEOJy5NL5tGGYxpj7dQZY"
+    },
+    {
+      "added_at": "2023-10-19 16:48:19",
+      "album": {
+        "name": "Guayabu",
+        "url": "https://open.spotify.com/album/0ir4DHfH1beyncktC1fS9F"
+      },
+      "artists": [
+        {
+          "name": "Liro Shaq",
+          "url": "https://open.spotify.com/artist/3oOJYwLB8FGSKYOQ5zx7Kk"
+        }
+      ],
+      "duration_ms": 182543,
+      "name": "Guayabu",
+      "url": "https://open.spotify.com/track/44od1fdb17U2rdvfGYJY68"
     },
     {
       "added_at": "2023-10-19 16:48:19",
@@ -2567,22 +2567,6 @@
     {
       "added_at": "2023-10-19 16:48:19",
       "album": {
-        "name": "Esa Malondra",
-        "url": "https://open.spotify.com/album/2JKNjEpPqoN9MQE2S5mqsY"
-      },
-      "artists": [
-        {
-          "name": "El Chuape",
-          "url": "https://open.spotify.com/artist/0cXz4Jkhb32ehDe3No7oF9"
-        }
-      ],
-      "duration_ms": 157571,
-      "name": "Esa Malondra",
-      "url": "https://open.spotify.com/track/6uiMQLU94ZPLF7gKKXnOQ6"
-    },
-    {
-      "added_at": "2023-10-19 16:48:19",
-      "album": {
         "name": "Kame Hame Ha",
         "url": "https://open.spotify.com/album/5qMNrrCWKtuIoHXFytIPQt"
       },
@@ -2603,6 +2587,22 @@
       "duration_ms": 203358,
       "name": "Kame Hame Ha",
       "url": "https://open.spotify.com/track/7pwAaype4SgjA5OwNbqHYm"
+    },
+    {
+      "added_at": "2023-10-19 16:48:19",
+      "album": {
+        "name": "Esa Malondra",
+        "url": "https://open.spotify.com/album/2JKNjEpPqoN9MQE2S5mqsY"
+      },
+      "artists": [
+        {
+          "name": "El Chuape",
+          "url": "https://open.spotify.com/artist/0cXz4Jkhb32ehDe3No7oF9"
+        }
+      ],
+      "duration_ms": 157571,
+      "name": "Esa Malondra",
+      "url": "https://open.spotify.com/track/6uiMQLU94ZPLF7gKKXnOQ6"
     },
     {
       "added_at": "2023-10-19 16:48:19",
@@ -2947,22 +2947,6 @@
     {
       "added_at": "2023-10-19 16:48:19",
       "album": {
-        "name": "I Love Urbano 2011 (Dembow - Mambo - Reggaeton - Merengue Urbano)",
-        "url": "https://open.spotify.com/album/4GT87SeLVbNcbb4KYqb0nj"
-      },
-      "artists": [
-        {
-          "name": "Doble T y El Crok Los Pepes",
-          "url": "https://open.spotify.com/artist/5nLePxVAY3VBwc4jv9Y8uW"
-        }
-      ],
-      "duration_ms": 197693,
-      "name": "Pa' Mang\u00e1 Mi Visa",
-      "url": "https://open.spotify.com/track/6qx6qftiB9xoTF7GrPpvQb"
-    },
-    {
-      "added_at": "2023-10-19 16:48:19",
-      "album": {
         "name": "Exitos",
         "url": "https://open.spotify.com/album/670TJ2hsrv8Lqump0NmLoN"
       },
@@ -2975,6 +2959,22 @@
       "duration_ms": 192835,
       "name": "Pa Que Me Dan De Eso",
       "url": "https://open.spotify.com/track/2QtNqIShiL9mOydwq0XVxc"
+    },
+    {
+      "added_at": "2023-10-19 16:48:19",
+      "album": {
+        "name": "I Love Urbano 2011 (Dembow - Mambo - Reggaeton - Merengue Urbano)",
+        "url": "https://open.spotify.com/album/4GT87SeLVbNcbb4KYqb0nj"
+      },
+      "artists": [
+        {
+          "name": "Doble T y El Crok Los Pepes",
+          "url": "https://open.spotify.com/artist/5nLePxVAY3VBwc4jv9Y8uW"
+        }
+      ],
+      "duration_ms": 197693,
+      "name": "Pa' Mang\u00e1 Mi Visa",
+      "url": "https://open.spotify.com/track/6qx6qftiB9xoTF7GrPpvQb"
     }
   ],
   "unique_name": "Rep\u00fablica Dembow",

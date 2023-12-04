@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWY64wDtewQt.md) - [plain]
 
 > the beat of your drift
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,117,701 likes - 100 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,123,508 likes - 100 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWY64wDtewQt.md) - [plain]
 | 44 | [Override](https://open.spotify.com/track/6O4oKV3btLiEtOgEuplIUn) | [KSLV Noh](https://open.spotify.com/artist/2ElMqlv5py0QFIVXUff627) | [Override](https://open.spotify.com/album/3IivT4yfr3wvtbo1PTgzCP) | 1:54 |
 | 45 | [AVOID ME](https://open.spotify.com/track/5FX30idriKlEIRYTxpNf65) | [KUTE](https://open.spotify.com/artist/0S1mAPM0pgJZil5FCqhQTX) | [AVOID ME](https://open.spotify.com/album/1LwLabogNr1KwEHU1EnSRZ) | 1:45 |
 | 46 | [COWBELL GOTH](https://open.spotify.com/track/0zcvETeNHWNO050bqZAjOs) | [DRAGONMANE](https://open.spotify.com/artist/1pawMASwj4RTc1oB80un2X) | [COWBELL GOTH](https://open.spotify.com/album/03wA9W4auCxQsRWGCE8LWM) | 2:21 |
-| 47 | [Vois](https://open.spotify.com/track/3GMqqxQa1VMp3gOGcesm6j) | [TheExorcist](https://open.spotify.com/artist/4RP2lKGYgYkC0TUiTT2JTR) | [Vois](https://open.spotify.com/album/1hex3aXzhYCGgtWuJdQfl3) | 2:25 |
+| 47 | [MONTAGEM CORAL](https://open.spotify.com/track/16pCNpN8qTkUViMALO0U3Z) | [sadakatsiz](https://open.spotify.com/artist/0zZR7LKqUKMJSVnoogF6Mi) | [MONTAGEM CORAL](https://open.spotify.com/album/6JQs1jzCDA6MHAqaBTxxgy) | 2:25 |
 | 48 | [POOR](https://open.spotify.com/track/0LDUzTvKVEla4L7GusNck2) | [gqtis](https://open.spotify.com/artist/5b62Fx0yQzdpnX9xkUjMnB) | [POOR](https://open.spotify.com/album/2LGwRNb8cYUJ02huVGfhxY) | 2:40 |
 | 49 | [OneShot](https://open.spotify.com/track/65YPiyiBBGQgqjiSG8jkvM) | [msht](https://open.spotify.com/artist/5XD3dFUaYtaiBRrs7UbakO) | [OneShot](https://open.spotify.com/album/5dfKkLx9NF3xgwKo3pfxrq) | 2:32 |
 | 50 | [Broken Trust](https://open.spotify.com/track/5Y4OwloGr9QSxZLZ5DXGte) | [SAY3AM](https://open.spotify.com/artist/3UxUktdCJsomjKqozWDWSu), [Staarz](https://open.spotify.com/artist/0bb1EZkY7SlcGKU9e5T9DL) | [Broken Trust](https://open.spotify.com/album/3Wm96XwUfNEfVCTYmyQmBH) | 2:03 |
@@ -79,7 +79,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWY64wDtewQt.md) - [plain]
 | 69 | [KAMI](https://open.spotify.com/track/6rm58LPjSArdS4zEHSKXDu) | [DR MØB](https://open.spotify.com/artist/3BxW2wyYPKUAlvmbOWxiDe) | [KAMI](https://open.spotify.com/album/2nOfcdpOxzJpXKe1YzEQL6) | 1:27 |
 | 70 | [Step Back!](https://open.spotify.com/track/6jdwbcH788txYS6Doy1F1j) | [1nonly](https://open.spotify.com/artist/3ZHU5AKrUmIPnCFfr82QER), [SXMPRA](https://open.spotify.com/artist/14uo609t1MvRGZcskySt9R) | [Step Back!](https://open.spotify.com/album/5bgXspdu04zFxX5gq8uXMl) | 2:30 |
 | 71 | [Disaster](https://open.spotify.com/track/29e4KOBzZDOX6qnpYbjwoW) | [KSLV Noh](https://open.spotify.com/artist/2ElMqlv5py0QFIVXUff627) | [Disaster](https://open.spotify.com/album/7jeIigTciBnw9zadRsYqIC) | 1:24 |
-| 72 | [Alors Brazil](https://open.spotify.com/track/7qVIgqZ6tmbjuLH3GrwaA3) | [nwmoscar](https://open.spotify.com/artist/3rl9ErAF7w9iachW5kebwu) | [Furia](https://open.spotify.com/album/5NxVF4lNc3gaphnhLyL456) | 1:41 |
+| 72 | [ALORS BRAZIL](https://open.spotify.com/track/7hn2gCHz5NAzgPqakWrtms) | [Armut](https://open.spotify.com/artist/72Jq4Qx7m1XizJTU5jv9Wj), [Ayparia](https://open.spotify.com/artist/0nTNWXnHMzSj7wRtd3ECos), [dec24](https://open.spotify.com/artist/3Q9jNHE6UHnQcEWH2SXFF8) | [ALORS BRAZIL](https://open.spotify.com/album/1krtBVdioH9cO7TDFnoPzu) | 1:41 |
 | 73 | [REI DO BRASIL](https://open.spotify.com/track/6Seth37t5I69wFbuGFrsiG) | [Seek](https://open.spotify.com/artist/3qycxIGAHj1KyoAQ6PGCO6) | [REI DO BRASIL](https://open.spotify.com/album/5rDznSixlUXNxJySfWQNb7) | 1:37 |
 | 74 | [RITMO DE TREINO](https://open.spotify.com/track/2pIC8fTfWwGjbo31YyNtzT) | [YOUTHISENDING](https://open.spotify.com/artist/1m8N1IE2yCPD2SCNpshEwe), [MC PR](https://open.spotify.com/artist/0Vxqvpm9tpZcz6d4egDtjX), [MC Pequeno Diamante](https://open.spotify.com/artist/7jqVVRFgBPvHWLnUwfRF6C) | [RITMO DE TREINO](https://open.spotify.com/album/7kV5GsdeIupIcevrNDfFUz) | 1:42 |
 | 75 | [TREINAMENTO DE FORÇA](https://open.spotify.com/track/3xuOs8TPNwItkEYsApFEI2) | [TRXVELER](https://open.spotify.com/artist/31VaidRoI1NnHfyY8SxSL7) | [TREINAMENTO DE FORÇA](https://open.spotify.com/album/1xF2L9FhsEG6CPf9ERW7vH) | 2:05 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWY64wDtewQt.md) - [plain]
 | 99 | [Mtg \- Coração](https://open.spotify.com/track/4nyMoK6gePLzCJybQl4O2F) | [Dj Samir](https://open.spotify.com/artist/6U0dJxYVB41L8WDZ02Nwuk), [Fyex](https://open.spotify.com/artist/7i7ddOIQP0uI3ktGxI0zkM) | [Mtg \- Coração](https://open.spotify.com/album/4LsthlcTRWkcsfRRn9yxYC) | 1:53 |
 | 100 | [LEAVE 'EM](https://open.spotify.com/track/0Kw4lElym53ZdiikZlr9ts) | [NIVEK FFORHS](https://open.spotify.com/artist/4PUbhYyuHOrbVt6SIA4QPG) | [LEAVE 'EM](https://open.spotify.com/album/2XFA6X7LSMlwy9xZp3meT8) | 1:09 |
 
-Snapshot ID: `MCw3YWE5MWUzNWJmYzk1Yjk2OWRiM2Q4ZWM0NmI1ZmUwY2JlYzZmZTcw`
+Snapshot ID: `MCw1ZGRhMmM1NGM0NzZmYzRiMWM2Yzg0ODVjMjRiOTQ4MzllOTM5MTFi`

@@ -1,12 +1,12 @@
 {
   "description": "Vintage easy listening from the fifties...",
-  "num_followers": 162850,
+  "num_followers": 162976,
   "original_name": "Easy 50s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2Y2M1ODg0NGIzNzFlNGViZjA0N2IzYWU4YTdlY2Q4NzljMDM1MDg2",
+  "snapshot_id": "MCxiYzczNjc1ZmQyMjY1YjUyZTc3ZThmZmQ4MzBjMzQ0YmVhNTc1MGVk",
   "tracks": [
     {
       "added_at": "2023-10-17 16:18:55",
@@ -227,18 +227,18 @@
     {
       "added_at": "2023-10-17 16:18:55",
       "album": {
-        "name": "All I Have to Do Is Dream",
-        "url": "https://open.spotify.com/album/7Dzfcj8tp9CUmkD6kXAqcb"
+        "name": "Vintage Collections",
+        "url": "https://open.spotify.com/album/5qWqMyXJ9uOCl6vEIVKqBD"
       },
       "artists": [
         {
-          "name": "The Everly Brothers",
-          "url": "https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs"
+          "name": "Tennessee Ernie Ford",
+          "url": "https://open.spotify.com/artist/7u6FSuqT3SWE2kO8rNVjfp"
         }
       ],
-      "duration_ms": 140373,
-      "name": "All I Have to Do Is Dream (Single Version)",
-      "url": "https://open.spotify.com/track/0Q1tq0hFra4W9k6kx1MSjG"
+      "duration_ms": 158306,
+      "name": "Sixteen Tons",
+      "url": "https://open.spotify.com/track/3P6OwCX7Ofiaaqtvujb6i5"
     },
     {
       "added_at": "2023-10-17 16:18:55",
@@ -255,22 +255,6 @@
       "duration_ms": 162960,
       "name": "Sway (Quien Sera)",
       "url": "https://open.spotify.com/track/4nbILrYODP667b3d66ZMzI"
-    },
-    {
-      "added_at": "2023-10-17 16:18:55",
-      "album": {
-        "name": "Vintage Collections",
-        "url": "https://open.spotify.com/album/5qWqMyXJ9uOCl6vEIVKqBD"
-      },
-      "artists": [
-        {
-          "name": "Tennessee Ernie Ford",
-          "url": "https://open.spotify.com/artist/7u6FSuqT3SWE2kO8rNVjfp"
-        }
-      ],
-      "duration_ms": 158306,
-      "name": "Sixteen Tons",
-      "url": "https://open.spotify.com/track/3P6OwCX7Ofiaaqtvujb6i5"
     },
     {
       "added_at": "2023-10-17 16:18:55",
@@ -327,22 +311,6 @@
     {
       "added_at": "2023-10-17 16:18:55",
       "album": {
-        "name": "Born Too Late",
-        "url": "https://open.spotify.com/album/3TnMW3EicWwdyFAze9Y0og"
-      },
-      "artists": [
-        {
-          "name": "The Poni-Tails",
-          "url": "https://open.spotify.com/artist/2NbPfkf3TYSRoJ64inF0AN"
-        }
-      ],
-      "duration_ms": 139013,
-      "name": "Born Too Late",
-      "url": "https://open.spotify.com/track/3ZyJfbh2Y9y15f45qY1pDJ"
-    },
-    {
-      "added_at": "2023-10-17 16:18:55",
-      "album": {
         "name": "Sound Of Christmas",
         "url": "https://open.spotify.com/album/0YjxIUhLMpx8AitREvQxKl"
       },
@@ -355,6 +323,22 @@
       "duration_ms": 158933,
       "name": "Here Comes Santa Claus",
       "url": "https://open.spotify.com/track/3D2uwNConeiGJmzopkVkCU"
+    },
+    {
+      "added_at": "2023-10-17 16:18:55",
+      "album": {
+        "name": "Born Too Late",
+        "url": "https://open.spotify.com/album/3TnMW3EicWwdyFAze9Y0og"
+      },
+      "artists": [
+        {
+          "name": "The Poni-Tails",
+          "url": "https://open.spotify.com/artist/2NbPfkf3TYSRoJ64inF0AN"
+        }
+      ],
+      "duration_ms": 139013,
+      "name": "Born Too Late",
+      "url": "https://open.spotify.com/track/3ZyJfbh2Y9y15f45qY1pDJ"
     },
     {
       "added_at": "2023-10-17 16:18:55",
@@ -375,22 +359,6 @@
       "duration_ms": 205226,
       "name": "Love Me Tender - with The Royal Philharmonic Orchestra",
       "url": "https://open.spotify.com/track/1bZdOnI0GIcB2xqQqQH7DY"
-    },
-    {
-      "added_at": "2023-10-17 16:18:55",
-      "album": {
-        "name": "Gold",
-        "url": "https://open.spotify.com/album/5LzeNR0ssOIfaUpNQbthH9"
-      },
-      "artists": [
-        {
-          "name": "Connie Francis",
-          "url": "https://open.spotify.com/artist/3EY5DxGdy7x4GelivOjS2Q"
-        }
-      ],
-      "duration_ms": 133746,
-      "name": "Stupid Cupid",
-      "url": "https://open.spotify.com/track/3nUrhP3KuK4R1qdxRk2Kgo"
     },
     {
       "added_at": "2023-10-17 16:18:55",
@@ -423,6 +391,22 @@
       "duration_ms": 157240,
       "name": "Just Walkin' in the Rain",
       "url": "https://open.spotify.com/track/6zahbizoDqcpCbXkDhe4Er"
+    },
+    {
+      "added_at": "2023-10-17 16:18:55",
+      "album": {
+        "name": "Gold",
+        "url": "https://open.spotify.com/album/5LzeNR0ssOIfaUpNQbthH9"
+      },
+      "artists": [
+        {
+          "name": "Connie Francis",
+          "url": "https://open.spotify.com/artist/3EY5DxGdy7x4GelivOjS2Q"
+        }
+      ],
+      "duration_ms": 133746,
+      "name": "Stupid Cupid",
+      "url": "https://open.spotify.com/track/3nUrhP3KuK4R1qdxRk2Kgo"
     },
     {
       "added_at": "2023-10-17 16:18:55",
@@ -559,22 +543,6 @@
     {
       "added_at": "2023-10-17 16:18:55",
       "album": {
-        "name": "All I Have to Do Is Dream",
-        "url": "https://open.spotify.com/album/7Dzfcj8tp9CUmkD6kXAqcb"
-      },
-      "artists": [
-        {
-          "name": "The Everly Brothers",
-          "url": "https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs"
-        }
-      ],
-      "duration_ms": 142906,
-      "name": "Bye Bye Love",
-      "url": "https://open.spotify.com/track/6OPMgzdjWaxR0P8mCql03S"
-    },
-    {
-      "added_at": "2023-10-17 16:18:55",
-      "album": {
         "name": "Greatest Love Songs",
         "url": "https://open.spotify.com/album/2QrI3TGnuVXj6iwf5X7VoI"
       },
@@ -643,6 +611,38 @@
     {
       "added_at": "2023-10-17 16:18:55",
       "album": {
+        "name": "Romance: Songs From The Heart",
+        "url": "https://open.spotify.com/album/6gLsNre727RSLK2j0LGmCp"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "duration_ms": 172546,
+      "name": "All The Way - 2006 Digital Remaster/24 Bit Mastering",
+      "url": "https://open.spotify.com/track/7fanCwOck16J9MPJ3SR39P"
+    },
+    {
+      "added_at": "2023-10-17 16:18:55",
+      "album": {
+        "name": "The Very Best of The Everly Brothers",
+        "url": "https://open.spotify.com/album/4lmdDGcU5u1xk3GCcVJSYT"
+      },
+      "artists": [
+        {
+          "name": "The Everly Brothers",
+          "url": "https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs"
+        }
+      ],
+      "duration_ms": 146066,
+      "name": "('Til) I Kissed You",
+      "url": "https://open.spotify.com/track/2erTdgDOZmjJNaNhjhWXhJ"
+    },
+    {
+      "added_at": "2023-10-17 16:18:55",
+      "album": {
         "name": "The Fabulous Favorites",
         "url": "https://open.spotify.com/album/4wiQVM9GmQ6scMImtHxqmv"
       },
@@ -695,38 +695,6 @@
       "duration_ms": 119986,
       "name": "I'm In Love Again",
       "url": "https://open.spotify.com/track/5Gw6d1Mt428wFoJbSVy94i"
-    },
-    {
-      "added_at": "2023-10-17 16:18:55",
-      "album": {
-        "name": "Romance: Songs From The Heart",
-        "url": "https://open.spotify.com/album/6gLsNre727RSLK2j0LGmCp"
-      },
-      "artists": [
-        {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
-        }
-      ],
-      "duration_ms": 172546,
-      "name": "All The Way - 2006 Digital Remaster/24 Bit Mastering",
-      "url": "https://open.spotify.com/track/7fanCwOck16J9MPJ3SR39P"
-    },
-    {
-      "added_at": "2023-10-17 16:18:55",
-      "album": {
-        "name": "The Very Best of The Everly Brothers",
-        "url": "https://open.spotify.com/album/4lmdDGcU5u1xk3GCcVJSYT"
-      },
-      "artists": [
-        {
-          "name": "The Everly Brothers",
-          "url": "https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs"
-        }
-      ],
-      "duration_ms": 146066,
-      "name": "('Til) I Kissed You",
-      "url": "https://open.spotify.com/track/2erTdgDOZmjJNaNhjhWXhJ"
     },
     {
       "added_at": "2023-10-17 16:18:55",
@@ -795,22 +763,6 @@
     {
       "added_at": "2023-10-17 16:18:55",
       "album": {
-        "name": "Dean Martin: The Capitol Recordings, Vol. 3 (1951-1952)",
-        "url": "https://open.spotify.com/album/2Kk2yOUlO23aSwwJBTeXPu"
-      },
-      "artists": [
-        {
-          "name": "Dean Martin",
-          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
-        }
-      ],
-      "duration_ms": 145066,
-      "name": "Kiss",
-      "url": "https://open.spotify.com/track/1IAMWO6YGFzwagaGtBSuD1"
-    },
-    {
-      "added_at": "2023-10-17 16:18:55",
-      "album": {
         "name": "Pat Boone Sings (Expanded Edition)",
         "url": "https://open.spotify.com/album/5Btlm07VEQhfqvsTbkjL9H"
       },
@@ -839,6 +791,22 @@
       "duration_ms": 184653,
       "name": "Banana Boat Song",
       "url": "https://open.spotify.com/track/3oY0qu8PC5gf7DkXP6ANx3"
+    },
+    {
+      "added_at": "2023-10-17 16:18:55",
+      "album": {
+        "name": "Dean Martin: The Capitol Recordings, Vol. 3 (1951-1952)",
+        "url": "https://open.spotify.com/album/2Kk2yOUlO23aSwwJBTeXPu"
+      },
+      "artists": [
+        {
+          "name": "Dean Martin",
+          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
+        }
+      ],
+      "duration_ms": 145066,
+      "name": "Kiss",
+      "url": "https://open.spotify.com/track/1IAMWO6YGFzwagaGtBSuD1"
     },
     {
       "added_at": "2023-10-17 16:18:55",
@@ -935,6 +903,22 @@
     {
       "added_at": "2023-10-17 16:18:55",
       "album": {
+        "name": "Pat Boone Sings",
+        "url": "https://open.spotify.com/album/0vdjMYJN23OwAzxkG1mSvW"
+      },
+      "artists": [
+        {
+          "name": "Pat Boone",
+          "url": "https://open.spotify.com/artist/7fmKtIgmxqNEKjATioVNsu"
+        }
+      ],
+      "duration_ms": 163360,
+      "name": "April Love",
+      "url": "https://open.spotify.com/track/5dC8EKphA0ffPseGxT3xFE"
+    },
+    {
+      "added_at": "2023-10-17 16:18:55",
+      "album": {
         "name": "Ricky Nelson (Expanded Edition / Remastered)",
         "url": "https://open.spotify.com/album/08TlIPCh7esOAnqBvlmkEt"
       },
@@ -947,22 +931,6 @@
       "duration_ms": 171826,
       "name": "Someday (You'll Want Me To Want You) - Remastered",
       "url": "https://open.spotify.com/track/6ew1MCEKObxl8HbkdszmzP"
-    },
-    {
-      "added_at": "2023-10-17 16:18:55",
-      "album": {
-        "name": "16 Most Requested Songs",
-        "url": "https://open.spotify.com/album/1MqnaRP5Mi9yN8mOis4YUM"
-      },
-      "artists": [
-        {
-          "name": "Johnnie Ray",
-          "url": "https://open.spotify.com/artist/6SQKNCUKIWjR1pQ1U3PZZq"
-        }
-      ],
-      "duration_ms": 140306,
-      "name": "Walkin' My Baby Back Home",
-      "url": "https://open.spotify.com/track/6JUygdnYt24lSMdXqlfSCt"
     },
     {
       "added_at": "2023-10-17 16:18:55",
@@ -983,18 +951,18 @@
     {
       "added_at": "2023-10-17 16:18:55",
       "album": {
-        "name": "Pat Boone Sings",
-        "url": "https://open.spotify.com/album/0vdjMYJN23OwAzxkG1mSvW"
+        "name": "16 Most Requested Songs",
+        "url": "https://open.spotify.com/album/1MqnaRP5Mi9yN8mOis4YUM"
       },
       "artists": [
         {
-          "name": "Pat Boone",
-          "url": "https://open.spotify.com/artist/7fmKtIgmxqNEKjATioVNsu"
+          "name": "Johnnie Ray",
+          "url": "https://open.spotify.com/artist/6SQKNCUKIWjR1pQ1U3PZZq"
         }
       ],
-      "duration_ms": 163360,
-      "name": "April Love",
-      "url": "https://open.spotify.com/track/5dC8EKphA0ffPseGxT3xFE"
+      "duration_ms": 140306,
+      "name": "Walkin' My Baby Back Home",
+      "url": "https://open.spotify.com/track/6JUygdnYt24lSMdXqlfSCt"
     },
     {
       "added_at": "2023-10-17 16:18:55",
@@ -1031,6 +999,22 @@
     {
       "added_at": "2023-10-17 16:18:55",
       "album": {
+        "name": "The Gold Collection",
+        "url": "https://open.spotify.com/album/0hyzSiJY6YjK7ryjlF9F6i"
+      },
+      "artists": [
+        {
+          "name": "Pat Boone",
+          "url": "https://open.spotify.com/artist/7fmKtIgmxqNEKjATioVNsu"
+        }
+      ],
+      "duration_ms": 137320,
+      "name": "Don't Forbid Me",
+      "url": "https://open.spotify.com/track/5XjPPdhCGeAEecJlxAJt3M"
+    },
+    {
+      "added_at": "2023-10-17 16:18:55",
+      "album": {
         "name": "Mr. Broadway",
         "url": "https://open.spotify.com/album/1Ye8xbzoKJ8XjfzRsFcuWa"
       },
@@ -1043,22 +1027,6 @@
       "duration_ms": 187586,
       "name": "Stranger in Paradise",
       "url": "https://open.spotify.com/track/0VSkGr3AikTWSUaJQL6GNC"
-    },
-    {
-      "added_at": "2023-10-17 16:18:55",
-      "album": {
-        "name": "Frankie Laine's Greatest Hits",
-        "url": "https://open.spotify.com/album/0Z1J1n3fJPA53HLGtzi8HD"
-      },
-      "artists": [
-        {
-          "name": "Frankie Laine",
-          "url": "https://open.spotify.com/artist/3cgO5CdhEHKMxldjZlP5ix"
-        }
-      ],
-      "duration_ms": 130893,
-      "name": "I Believe",
-      "url": "https://open.spotify.com/track/049uxirFkHOefJ0yqPW8Kk"
     },
     {
       "added_at": "2023-10-17 16:18:55",
@@ -1079,22 +1047,6 @@
     {
       "added_at": "2023-10-17 16:18:55",
       "album": {
-        "name": "Kitty Kallen's Coloring Book",
-        "url": "https://open.spotify.com/album/3mITeLc78nl4VsvfQ3QhIU"
-      },
-      "artists": [
-        {
-          "name": "Kitty Kallen",
-          "url": "https://open.spotify.com/artist/0EYASMyi33J1ywBDgei1II"
-        }
-      ],
-      "duration_ms": 179146,
-      "name": "Little Things Mean a Lot",
-      "url": "https://open.spotify.com/track/54PXRAkSDbvSNazvmAfeHd"
-    },
-    {
-      "added_at": "2023-10-17 16:18:55",
-      "album": {
         "name": "Days Of Wine And Roses, Moon River And Other Academy Award Winners",
         "url": "https://open.spotify.com/album/7FAo3wmrJNNzz2W5Z5ZG80"
       },
@@ -1111,18 +1063,34 @@
     {
       "added_at": "2023-10-17 16:18:55",
       "album": {
-        "name": "The Gold Collection",
-        "url": "https://open.spotify.com/album/0hyzSiJY6YjK7ryjlF9F6i"
+        "name": "Frankie Laine's Greatest Hits",
+        "url": "https://open.spotify.com/album/0Z1J1n3fJPA53HLGtzi8HD"
       },
       "artists": [
         {
-          "name": "Pat Boone",
-          "url": "https://open.spotify.com/artist/7fmKtIgmxqNEKjATioVNsu"
+          "name": "Frankie Laine",
+          "url": "https://open.spotify.com/artist/3cgO5CdhEHKMxldjZlP5ix"
         }
       ],
-      "duration_ms": 137320,
-      "name": "Don't Forbid Me",
-      "url": "https://open.spotify.com/track/5XjPPdhCGeAEecJlxAJt3M"
+      "duration_ms": 130893,
+      "name": "I Believe",
+      "url": "https://open.spotify.com/track/049uxirFkHOefJ0yqPW8Kk"
+    },
+    {
+      "added_at": "2023-10-17 16:18:55",
+      "album": {
+        "name": "Kitty Kallen's Coloring Book",
+        "url": "https://open.spotify.com/album/3mITeLc78nl4VsvfQ3QhIU"
+      },
+      "artists": [
+        {
+          "name": "Kitty Kallen",
+          "url": "https://open.spotify.com/artist/0EYASMyi33J1ywBDgei1II"
+        }
+      ],
+      "duration_ms": 179146,
+      "name": "Little Things Mean a Lot",
+      "url": "https://open.spotify.com/track/54PXRAkSDbvSNazvmAfeHd"
     },
     {
       "added_at": "2023-10-17 16:18:55",
@@ -1159,6 +1127,38 @@
     {
       "added_at": "2023-10-17 16:18:55",
       "album": {
+        "name": "What Do You Want to Make Those Eyes At Me For?",
+        "url": "https://open.spotify.com/album/3JEmxhsvpLlmfHQnrQmyqy"
+      },
+      "artists": [
+        {
+          "name": "Emile Ford & The Checkmates",
+          "url": "https://open.spotify.com/artist/2qyvlQ4Ku5zc2mk4pYamzC"
+        }
+      ],
+      "duration_ms": 124200,
+      "name": "What Do You Want to Make Those Eyes at Me for",
+      "url": "https://open.spotify.com/track/6xrw30tunsi9SPHksNv4Ex"
+    },
+    {
+      "added_at": "2023-10-17 16:18:55",
+      "album": {
+        "name": "Frank Sinatra: The Complete Capitol Singles Collection",
+        "url": "https://open.spotify.com/album/7LbB7SuX3op2Xa9FvteJeB"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "duration_ms": 181906,
+      "name": "Learnin' The Blues",
+      "url": "https://open.spotify.com/track/6rNOKdqa2lThuBIJOZXSVa"
+    },
+    {
+      "added_at": "2023-10-17 16:18:55",
+      "album": {
         "name": "The Legendary Masters Series (Volume 1)",
         "url": "https://open.spotify.com/album/5R27t83T8Jhltww09lriMo"
       },
@@ -1175,18 +1175,18 @@
     {
       "added_at": "2023-10-17 16:18:55",
       "album": {
-        "name": "What Do You Want to Make Those Eyes At Me For?",
-        "url": "https://open.spotify.com/album/3JEmxhsvpLlmfHQnrQmyqy"
+        "name": "The Platters",
+        "url": "https://open.spotify.com/album/1T6CcZgciHOZeeAZnw9jji"
       },
       "artists": [
         {
-          "name": "Emile Ford & The Checkmates",
-          "url": "https://open.spotify.com/artist/2qyvlQ4Ku5zc2mk4pYamzC"
+          "name": "The Platters",
+          "url": "https://open.spotify.com/artist/2lP463yIRHre8VLbw0giyi"
         }
       ],
-      "duration_ms": 124200,
-      "name": "What Do You Want to Make Those Eyes at Me for",
-      "url": "https://open.spotify.com/track/6xrw30tunsi9SPHksNv4Ex"
+      "duration_ms": 165440,
+      "name": "On My Word Of Honor",
+      "url": "https://open.spotify.com/track/55qDgsYwCX2IMK1Y2H1819"
     },
     {
       "added_at": "2023-10-17 16:18:55",
@@ -1219,22 +1219,6 @@
       "duration_ms": 147706,
       "name": "I'm Sorry I Made You Cry",
       "url": "https://open.spotify.com/track/7Fcm36e5Ov907Zf7C1DCZr"
-    },
-    {
-      "added_at": "2023-10-17 16:18:55",
-      "album": {
-        "name": "Frank Sinatra: The Complete Capitol Singles Collection",
-        "url": "https://open.spotify.com/album/7LbB7SuX3op2Xa9FvteJeB"
-      },
-      "artists": [
-        {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
-        }
-      ],
-      "duration_ms": 181906,
-      "name": "Learnin' The Blues",
-      "url": "https://open.spotify.com/track/6rNOKdqa2lThuBIJOZXSVa"
     },
     {
       "added_at": "2023-10-17 16:18:55",
@@ -1319,6 +1303,22 @@
       "duration_ms": 144466,
       "name": "Rose Marie",
       "url": "https://open.spotify.com/track/0DRw1YzAejMK8Qv2MAPzJl"
+    },
+    {
+      "added_at": "2023-10-17 16:18:55",
+      "album": {
+        "name": "Nat King Cole's 8 Top Pops",
+        "url": "https://open.spotify.com/album/1yP0VKloRyuwhzchRWZlaC"
+      },
+      "artists": [
+        {
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+        }
+      ],
+      "duration_ms": 172986,
+      "name": "Somewhere Along The Way",
+      "url": "https://open.spotify.com/track/7fjHMzndGGwGH44CtjcO35"
     },
     {
       "added_at": "2023-10-17 16:18:55",

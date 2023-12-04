@@ -1,12 +1,12 @@
 {
   "description": "\ub2f9\uc2e0\uc758 \ud558\ub8e8. \uc624\ub298\ub3c4 \uc798\ud558\uace0 \uc788\uc5b4\uc694. (Listen to K-Pop comforting songs)",
-  "num_followers": 15005,
+  "num_followers": 15015,
   "original_name": "\uc798\ud588\uc5b4 \uc624\ub298\ub3c4 (You Did Well.)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMzVmNDI1MmJhMTE2NTE1NTRhMWE5ZWQzYTQ3NDU5ODZkOTNiYTAz",
+  "snapshot_id": "MCw1ZjAwMjQ0ZWViN2U4ZGVjYmE4YjFiODBkZTJmODk0MzZiNDg0MjBm",
   "tracks": [
     {
       "added_at": "2023-11-03 06:18:18",
@@ -27,22 +27,6 @@
     {
       "added_at": "2023-11-03 06:18:18",
       "album": {
-        "name": "That's okay",
-        "url": "https://open.spotify.com/album/6EzpktNa8oT04yXVfQieJf"
-      },
-      "artists": [
-        {
-          "name": "D.O.",
-          "url": "https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC"
-        }
-      ],
-      "duration_ms": 221373,
-      "name": "That's okay",
-      "url": "https://open.spotify.com/track/2Ghu1DdMwxS3VAyB7i38Wo"
-    },
-    {
-      "added_at": "2023-11-03 06:18:18",
-      "album": {
         "name": "Proof",
         "url": "https://open.spotify.com/album/6al2VdKbb6FIz9d7lU7WRB"
       },
@@ -55,6 +39,22 @@
       "duration_ms": 264480,
       "name": "For Youth",
       "url": "https://open.spotify.com/track/4JzCFEc3O2UEdjKzevvFH5"
+    },
+    {
+      "added_at": "2023-11-03 06:18:18",
+      "album": {
+        "name": "That's okay",
+        "url": "https://open.spotify.com/album/6EzpktNa8oT04yXVfQieJf"
+      },
+      "artists": [
+        {
+          "name": "D.O.",
+          "url": "https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC"
+        }
+      ],
+      "duration_ms": 221373,
+      "name": "That's okay",
+      "url": "https://open.spotify.com/track/2Ghu1DdMwxS3VAyB7i38Wo"
     },
     {
       "added_at": "2023-11-03 06:18:18",
@@ -683,22 +683,6 @@
     {
       "added_at": "2023-11-03 06:18:18",
       "album": {
-        "name": "Dear Diary",
-        "url": "https://open.spotify.com/album/0HDY0qVf18AP9ef5chIqxC"
-      },
-      "artists": [
-        {
-          "name": "YERI",
-          "url": "https://open.spotify.com/artist/4xzwjGxzfKglU0cNW4q4l1"
-        }
-      ],
-      "duration_ms": 218523,
-      "name": "Dear Diary",
-      "url": "https://open.spotify.com/track/2qgA8fMwtftAhDzkd6mhgD"
-    },
-    {
-      "added_at": "2023-11-03 06:18:18",
-      "album": {
         "name": "A-TEEN2 Part.1",
         "url": "https://open.spotify.com/album/2quxDpdeABmtoUbYIHgnNa"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 210000,
       "name": "Lean On Me",
       "url": "https://open.spotify.com/track/43IxBx4zsgELpVdMIAkkF0"
+    },
+    {
+      "added_at": "2023-11-03 06:18:18",
+      "album": {
+        "name": "Dear Diary",
+        "url": "https://open.spotify.com/album/0HDY0qVf18AP9ef5chIqxC"
+      },
+      "artists": [
+        {
+          "name": "YERI",
+          "url": "https://open.spotify.com/artist/4xzwjGxzfKglU0cNW4q4l1"
+        }
+      ],
+      "duration_ms": 218523,
+      "name": "Dear Diary",
+      "url": "https://open.spotify.com/track/2qgA8fMwtftAhDzkd6mhgD"
     },
     {
       "added_at": "2023-11-03 06:18:18",

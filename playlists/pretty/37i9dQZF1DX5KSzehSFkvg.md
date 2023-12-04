@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5KSzehSFkvg.md) - [plain]
 
 > Les meilleurs Pop Hits Maghrébins sont ici\. Cover: Manal
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,626 likes - 59 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,671 likes - 59 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,4 +68,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5KSzehSFkvg.md) - [plain]
 | 58 | [Ena w Lil](https://open.spotify.com/track/6LtMDz7Nwtk96t4kcIECSC) | [NORDO](https://open.spotify.com/artist/44qTyRXwTktHVC0X1FGnJn) | [Ena w Lil](https://open.spotify.com/album/2izxjq31e1G4SxNBAxvMJl) | 3:14 |
 | 59 | [JRO7I](https://open.spotify.com/track/7syDtybPIIxoR1jvz6w8nI) | [MA3IZ](https://open.spotify.com/artist/6T4HJ0ayzxLWDbktdiBe3l) | [JRO7I](https://open.spotify.com/album/6FeVXC1Ihjhl7x1l1d6PqA) | 3:12 |
 
-Snapshot ID: `MCxkNjc2ZWY4NjUzZWFjYWQ5NTlmMjhhNGRhMDBhODhhYmU2OGM0ZDg0`
+Snapshot ID: `MCwyN2ViMjQwMzk4ZjIwMjFhOGY2YTliOGE4YzI1ZWE5OTZiMmIwY2Yw`
